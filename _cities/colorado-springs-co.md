@@ -5,4 +5,5 @@ permalink: /colorado/colorado-springs/
 stateAbbr: CO
 stateName: Colorado
 cityName: Colorado Springs
+
 ---

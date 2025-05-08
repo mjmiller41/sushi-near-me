@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Nikkei (Belmont Shore)"
+title: Sushi Nikkei (Belmont Shore)
 permalink: /california/long-beach/sushi-nikkei-belmont-shore.html
 stateAbbr: CA
 stateName: California
 cityName: Long Beach
 seo:
-  name: "Sushi Nikkei (Belmont Shore)"
-  type: Restaurant
-  links: null
-description: "Sushi Nikkei (Belmont Shore) serves delicious sushi in Long Beach, California. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.sushinikkei-la.com/
 place_id: ChIJSUJW-mox3YARC4_8O_IUqSE
 photos:
   - name: >-
@@ -170,8 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80dd316afa564249:0x21a914f23bfc8f0b!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: Closed'
+    - 'Tuesday: 5:00 – 9:00 PM'
+    - 'Wednesday: 5:00 – 9:00 PM'
+    - 'Thursday: 5:00 – 9:00 PM'
+    - 'Friday: 5:00 – 9:00 PM'
+    - 'Saturday: 5:00 – 9:00 PM'
+    - 'Sunday: 5:00 – 9:00 PM'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +234,56 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
+phone: (562) 343-2532
 price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+price_range: $50 &ndash; $100
+rating: '4.6'
+rating_count: 78
+website: http://www.sushinikkei-la.com/
+description: >-
+  Discover Sushi Nikkei in Long Beach, CA$$$Sushi Nikkei in Long Beach, CA,
+  stands out as an upscale dining destination blending Peruvian influences with
+  traditional Japanese sushi and sashimi, perfect for those seeking fresh and
+  innovative flavors in a cozy setting. This spot offers a refined menu
+  featuring expertly prepared seafood dishes alongside beverages like beer and
+  sake, making it ideal for an evening of culinary exploration. With its
+  accessible entrance and thoughtful design, the restaurant caters to a wide
+  range of guests, ensuring everyone can enjoy the vibrant atmosphere without
+  hassle. Operating in the evenings from Tuesday through Sunday, it provides a
+  welcoming escape for sushi enthusiasts looking for top-rated options nearby.
+  Whether you're in the mood for a fusion twist on classic rolls or a relaxing
+  meal, this Belmont Shore gem delivers a memorable experience that highlights
+  quality and creativity.
+generative_summary: >-
+  Discover Sushi Nikkei in Long Beach, CA$$$Sushi Nikkei in Long Beach, CA,
+  stands out as an upscale dining destination blending Peruvian influences with
+  traditional Japanese sushi and sashimi, perfect for those seeking fresh and
+  innovative flavors in a cozy setting. This spot offers a refined menu
+  featuring expertly prepared seafood dishes alongside beverages like beer and
+  sake, making it ideal for an evening of culinary exploration. With its
+  accessible entrance and thoughtful design, the restaurant caters to a wide
+  range of guests, ensuring everyone can enjoy the vibrant atmosphere without
+  hassle. Operating in the evenings from Tuesday through Sunday, it provides a
+  welcoming escape for sushi enthusiasts looking for top-rated options nearby.
+  Whether you're in the mood for a fusion twist on classic rolls or a relaxing
+  meal, this Belmont Shore gem delivers a memorable experience that highlights
+  quality and creativity.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Guests Are Saying About the Experience$$$Folks who visit this sushi spot
+  often rave about the delicious Peruvian-inspired dishes, like the flavorful
+  ceviche and grilled seafood, which add a unique twist to traditional
+  favorites. Many appreciate the friendly and attentive service that keeps the
+  vibe lively yet comfortable, making it a go-to for casual dinners or group
+  outings. The overall atmosphere strikes a nice balance, not too noisy,
+  allowing diners to savor the innovative blend of Japanese and Latin flavors
+  without distractions. While some note it's a bit pricey, the high-quality
+  ingredients and creative presentations generally make it worth it for those
+  craving something special. If you're hunting for the best sushi near you, this
+  place consistently delivers a satisfying meal that leaves guests excited to
+  return.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +309,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -5,4 +5,5 @@ permalink: /illinois/barrington/
 stateAbbr: IL
 stateName: Illinois
 cityName: Barrington
+
 ---

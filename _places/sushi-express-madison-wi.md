@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Express"
+title: Sushi Express
 permalink: /wisconsin/madison/sushi-express.html
 stateAbbr: WI
 stateName: Wisconsin
 cityName: Madison
 seo:
-  name: "Sushi Express"
-  type: Restaurant
-  links: null
-description: "Sushi Express serves delicious sushi in Madison, Wisconsin. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://sushiexpressuwmadison.com/
 place_id: ChIJRYkQ-TRTBogRa4TJjeCCO0s
 photos:
   - name: >-
@@ -170,22 +168,252 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x88065334f9108945:0x4b3b82e08dc9846b!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 45
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 45
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 45
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 45
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 45
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 45
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 45
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:45 PM'
+    - 'Tuesday: 11:00 AM – 9:45 PM'
+    - 'Wednesday: 11:00 AM – 9:45 PM'
+    - 'Thursday: 11:00 AM – 9:45 PM'
+    - 'Friday: 11:00 AM – 10:45 PM'
+    - 'Saturday: 11:00 AM – 10:45 PM'
+    - 'Sunday: 11:00 AM – 9:45 PM'
+  nextCloseTime: '2025-05-04T03:45:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 11
+          minute: 0
+        close:
+          day: 0
+          hour: 21
+          minute: 45
+      - open:
+          day: 1
+          hour: 11
+          minute: 0
+        close:
+          day: 1
+          hour: 21
+          minute: 45
+      - open:
+          day: 2
+          hour: 11
+          minute: 0
+        close:
+          day: 2
+          hour: 21
+          minute: 45
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 21
+          minute: 45
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 45
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 22
+          minute: 45
+      - open:
+          day: 6
+          hour: 11
+          minute: 0
+        close:
+          day: 6
+          hour: 22
+          minute: 45
+    weekdayDescriptions:
+      - 'Monday: 11:00 AM – 9:45 PM'
+      - 'Tuesday: 11:00 AM – 9:45 PM'
+      - 'Wednesday: 11:00 AM – 9:45 PM'
+      - 'Thursday: 11:00 AM – 9:45 PM'
+      - 'Friday: 11:00 AM – 10:45 PM'
+      - 'Saturday: 11:00 AM – 10:45 PM'
+      - 'Sunday: 11:00 AM – 9:45 PM'
+    secondaryHoursType: DELIVERY
+    nextCloseTime: '2025-05-04T03:45:00Z'
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 11
+          minute: 0
+        close:
+          day: 0
+          hour: 21
+          minute: 45
+      - open:
+          day: 1
+          hour: 11
+          minute: 0
+        close:
+          day: 1
+          hour: 21
+          minute: 45
+      - open:
+          day: 2
+          hour: 11
+          minute: 0
+        close:
+          day: 2
+          hour: 21
+          minute: 45
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 21
+          minute: 45
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 45
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 22
+          minute: 45
+      - open:
+          day: 6
+          hour: 11
+          minute: 0
+        close:
+          day: 6
+          hour: 22
+          minute: 45
+    weekdayDescriptions:
+      - 'Monday: 11:00 AM – 9:45 PM'
+      - 'Tuesday: 11:00 AM – 9:45 PM'
+      - 'Wednesday: 11:00 AM – 9:45 PM'
+      - 'Thursday: 11:00 AM – 9:45 PM'
+      - 'Friday: 11:00 AM – 10:45 PM'
+      - 'Saturday: 11:00 AM – 10:45 PM'
+      - 'Sunday: 11:00 AM – 9:45 PM'
+    secondaryHoursType: TAKEOUT
+    nextCloseTime: '2025-05-04T03:45:00Z'
+phone: (608) 467-9688
+price_level: PRICE_LEVEL_INEXPENSIVE
+price_range: $10 &ndash; $20
+rating: '4.5'
+rating_count: 383
+website: https://sushiexpressuwmadison.com/
+description: >-
+  Explore Sushi Express in Madison, WI$$$Sushi Express in Madison, Wisconsin,
+  stands out as a casual Japanese eatery specializing in fresh sushi and
+  comforting dishes, perfect for those seeking top-rated options nearby. This
+  spot offers a welcoming atmosphere with accessibility features like
+  wheelchair-friendly parking and entrances, making it easy for everyone to
+  enjoy a meal. Diners can savor a variety of sushi rolls and other fare during
+  lunch or dinner hours, with extended evenings on weekends for those looking
+  for Japanese-inspired eats close to home. The restaurant's convenient location
+  and straightforward menu add to its appeal for anyone exploring sushi places
+  in the area, ensuring a satisfying experience without the fuss.
+generative_summary: >-
+  Explore Sushi Express in Madison, WI$$$Sushi Express in Madison, Wisconsin,
+  stands out as a casual Japanese eatery specializing in fresh sushi and
+  comforting dishes, perfect for those seeking top-rated options nearby. This
+  spot offers a welcoming atmosphere with accessibility features like
+  wheelchair-friendly parking and entrances, making it easy for everyone to
+  enjoy a meal. Diners can savor a variety of sushi rolls and other fare during
+  lunch or dinner hours, with extended evenings on weekends for those looking
+  for Japanese-inspired eats close to home. The restaurant's convenient location
+  and straightforward menu add to its appeal for anyone exploring sushi places
+  in the area, ensuring a satisfying experience without the fuss.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Visitor Feedback on Sushi Express$$$Visitors to this Madison favorite often
+  praise the fresh flavors and reliable quality of the sushi, making it a go-to
+  for anyone craving Japanese cuisine nearby. Many appreciate the efficient
+  service and affordable prices, noting that meals hit the spot without breaking
+  the bank, especially for casual outings. While some mention portions could
+  vary, the overall consensus leans positive, with the high ratings highlighting
+  consistent taste and convenience. If you're hunting for sushi restaurants in
+  the area, feedback suggests this place delivers a solid, enjoyable experience
+  that's worth trying for lunch or dinner. All in all, it's clear that folks
+  keep coming back for the approachable vibe and dependable dishes.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +439,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

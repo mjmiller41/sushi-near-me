@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Izakaya Fuku"
+title: Izakaya Fuku
 permalink: /new-york/jackson-heights/izakaya-fuku.html
 stateAbbr: NY
 stateName: New York
 cityName: Jackson Heights
 seo:
-  name: "Izakaya Fuku"
-  type: Restaurant
+  type: restaurant
   links: http://www.orderfukunyc.com/
-description: "Vibrant, compact restaurant with classic Japanese deep-fried & grilled dishes, plus noodles & bento. Izakaya Fuku serves delicious sushi in Jackson Heights, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJP3cSeLRfwokRiQQ4MtBvdtA
 photos:
   - name: >-
@@ -182,6 +180,33 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 0
 website: http://www.orderfukunyc.com/
+description: >-
+  Discover Izakaya Fuku in Jackson Heights, NY$$$Izakaya Fuku in Jackson
+  Heights, NY, stands out as a casual Japanese restaurant blending traditional
+  flavors with a welcoming vibe, perfect for those seeking authentic eats in a
+  bustling neighborhood. This spot offers a range of Japanese favorites like
+  ramen and bento boxes, served amid eclectic decor that creates a cozy,
+  inviting atmosphere for diners exploring top-rated Japanese places near me.
+  The menu highlights fresh, flavorful dishes that capture the essence of
+  Japanese cuisine, making it an ideal choice for anyone craving sushi
+  restaurants close to home. With its moderate pricing and focus on quality
+  ingredients, Izakaya Fuku provides a delightful escape for solo visitors or
+  groups, appealing to those searching for the best sushi near me in a lively
+  setting.
+generative_summary: >-
+  Discover Izakaya Fuku in Jackson Heights, NY$$$Izakaya Fuku in Jackson
+  Heights, NY, stands out as a casual Japanese restaurant blending traditional
+  flavors with a welcoming vibe, perfect for those seeking authentic eats in a
+  bustling neighborhood. This spot offers a range of Japanese favorites like
+  ramen and bento boxes, served amid eclectic decor that creates a cozy,
+  inviting atmosphere for diners exploring top-rated Japanese places near me.
+  The menu highlights fresh, flavorful dishes that capture the essence of
+  Japanese cuisine, making it an ideal choice for anyone craving sushi
+  restaurants close to home. With its moderate pricing and focus on quality
+  ingredients, Izakaya Fuku provides a delightful escape for solo visitors or
+  groups, appealing to those searching for the best sushi near me in a lively
+  setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJP3cSeLRfwokRiQQ4MtBvdtA/reviews/ChdDSUhNMG9nS0VJQ0FnSUN2eTZXOXVBRRAB
@@ -491,6 +516,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR2amZyUHNnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR2amZyUHNnRRAB!2m1!1s0x89c25fb47812773f:0xd0766fd032380489
+review_summary: >-
+  What Visitors Are Buzzing About$$$Folks rave about the lively atmosphere at
+  this spot, where friendly service and a welcoming vibe make every meal feel
+  special, especially for groups or casual get-togethers. Many highlight the
+  tasty appetizers and hearty ramen as standout choices that deliver on flavor,
+  though a few mention that some dishes could use a bit more balance in texture
+  or seasoning for an even better experience. Overall, it's praised as a hidden
+  gem for enjoying Japanese-inspired eats late into the evening, with attentive
+  staff adding to the charm and making it easy to recommend for anyone in the
+  area. Despite minor feedback on certain items, the general consensus leans
+  positive, emphasizing how it brings people together for fun and satisfying
+  meals. If you're hunting for top-rated sushi places near me, this location
+  often leaves visitors feeling glad they stopped by, ready to return for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeStreetParking: true
   paidStreetParking: true
@@ -521,8 +560,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Vibrant, compact restaurant with classic Japanese deep-fried & grilled dishes,
   plus noodles & bento.
 

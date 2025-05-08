@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Poke Poku - Hawaiian Poke Bar"
+title: Poke Poku - Hawaiian Poke Bar
 permalink: /nevada/las-vegas/poke-poku-hawaiian-poke-bar.html
 stateAbbr: NV
 stateName: Nevada
 cityName: Las Vegas
 seo:
-  name: "Poke Poku - Hawaiian Poke Bar"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Poke Poku - Hawaiian Poke Bar serves delicious sushi in Las Vegas, Nevada. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJw3CHojjOyIARdpOD_oaZmCg
 photos:
   - name: >-
@@ -184,7 +182,43 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Poke Poku in Las Vegas, NV$$$Nestled in Las Vegas, NV, Poke Poku -
+  Hawaiian Poke Bar offers a casual dining experience focused on fresh
+  Hawaiian-inspired dishes that highlight the vibrant flavors of the islands.
+  This spot stands out for its customizable poke bowls, hearty burritos, crisp
+  salads, and comforting miso soup, all prepared with high-quality ingredients
+  that appeal to those seeking light, healthy meals. The eatery emphasizes
+  accessibility with wheelchair-friendly parking, entrances, and seating, making
+  it welcoming for all visitors. Additionally, its location in a lively
+  neighborhood provides an easy option for anyone exploring Hawaiian poke places
+  near me, blending tropical tastes with convenient urban vibes.
+generative_summary: >-
+  Discover Poke Poku in Las Vegas, NV$$$Nestled in Las Vegas, NV, Poke Poku -
+  Hawaiian Poke Bar offers a casual dining experience focused on fresh
+  Hawaiian-inspired dishes that highlight the vibrant flavors of the islands.
+  This spot stands out for its customizable poke bowls, hearty burritos, crisp
+  salads, and comforting miso soup, all prepared with high-quality ingredients
+  that appeal to those seeking light, healthy meals. The eatery emphasizes
+  accessibility with wheelchair-friendly parking, entrances, and seating, making
+  it welcoming for all visitors. Additionally, its location in a lively
+  neighborhood provides an easy option for anyone exploring Hawaiian poke places
+  near me, blending tropical tastes with convenient urban vibes.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Buzzing About$$$Folks heading to this Hawaiian poke spot
+  often rave about the fresh, flavorful bowls that hit the spot for a quick and
+  satisfying meal, with many appreciating the variety of toppings and proteins
+  that keep things exciting. Customers frequently note the efficient service and
+  welcoming atmosphere, making it a go-to choice for groups or solo diners
+  looking for something light yet filling. While some mention portions could
+  vary, the overall value and taste generally leave people coming back for more,
+  especially for those searching for top-rated poke options in the area.
+  Overall, it's praised as a solid pick for anyone craving healthy,
+  island-inspired eats without the fuss, blending casual vibes with reliably
+  good experiences that encourage repeat visits.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +244,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

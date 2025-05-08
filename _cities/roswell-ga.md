@@ -5,4 +5,5 @@ permalink: /georgia/roswell/
 stateAbbr: GA
 stateName: Georgia
 cityName: Roswell
+
 ---

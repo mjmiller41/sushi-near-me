@@ -5,4 +5,5 @@ permalink: /florida/crestview/
 stateAbbr: FL
 stateName: Florida
 cityName: Crestview
+
 ---

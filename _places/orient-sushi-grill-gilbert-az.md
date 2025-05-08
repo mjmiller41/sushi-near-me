@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Orient Sushi & Grill"
+title: Orient Sushi & Grill
 permalink: /arizona/gilbert/orient-sushi-grill.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Gilbert
 seo:
-  name: "Orient Sushi & Grill"
-  type: Restaurant
+  type: restaurant
   links: http://orientsushi.com/
-description: "Orient Sushi & Grill serves delicious sushi in Gilbert, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJB_4M07qpK4cRtCdqyVsUW-U
 photos:
   - name: >-
@@ -170,7 +168,105 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x872ba9bad30cfe07:0xe55b145bc96a27b4!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 16
+        minute: 30
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 2:30 PM, 4:30 – 10:00 PM'
     - 'Tuesday: 11:00 AM – 2:30 PM, 4:30 – 10:00 PM'
     - 'Wednesday: 11:00 AM – 2:30 PM, 4:30 – 10:00 PM'
@@ -178,14 +274,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 2:30 PM, 4:30 – 10:00 PM'
     - 'Saturday: 11:00 AM – 10:00 PM'
     - 'Sunday: 4:30 – 10:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 2:30 PM, 4:30 – 10:00 PM'
-    - 'Tuesday: 11:00 AM – 2:30 PM, 4:30 – 10:00 PM'
-    - 'Wednesday: 11:00 AM – 2:30 PM, 4:30 – 10:00 PM'
-    - 'Thursday: 11:00 AM – 2:30 PM, 4:30 – 10:00 PM'
-    - 'Friday: 11:00 AM – 2:30 PM, 4:30 – 10:00 PM'
-    - 'Saturday: 11:00 AM – 10:00 PM'
-    - 'Sunday: 4:30 – 10:00 PM'
+  nextCloseTime: '2025-05-04T05:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +286,231 @@ phone: (480) 633-1174
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.5'
-rating_count: 0
+rating_count: 1396
 website: http://orientsushi.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  About Orient Sushi & Grill in Gilbert, Arizona$$$Orient Sushi & Grill in
+  Gilbert, AZ, is a casual dining spot that delights with its wide array of
+  Japanese and Chinese-inspired dishes, making it a standout choice for those
+  craving authentic flavors. The restaurant features generous all-you-can-eat
+  options that offer excellent value, alongside a selection of fresh rolls,
+  teriyaki classics, and more to satisfy sushi lovers. With accessibility
+  features like wheelchair-friendly parking and entrances, it's designed for
+  comfortable visits any time. Its extended hours, including lunch and dinner
+  service throughout the week, make it a convenient option for families and
+  groups seeking top sushi spots in the area.
+generative_summary: >-
+  About Orient Sushi & Grill in Gilbert, Arizona$$$Orient Sushi & Grill in
+  Gilbert, AZ, is a casual dining spot that delights with its wide array of
+  Japanese and Chinese-inspired dishes, making it a standout choice for those
+  craving authentic flavors. The restaurant features generous all-you-can-eat
+  options that offer excellent value, alongside a selection of fresh rolls,
+  teriyaki classics, and more to satisfy sushi lovers. With accessibility
+  features like wheelchair-friendly parking and entrances, it's designed for
+  comfortable visits any time. Its extended hours, including lunch and dinner
+  service throughout the week, make it a convenient option for families and
+  groups seeking top sushi spots in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJB_4M07qpK4cRtCdqyVsUW-U/reviews/ChZDSUhNMG9nS0VJQ0FnSURfOE0tZlBREAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        The sushi prices here are great and the service is always amazing.
+        Earlier today we took our 6 year old son and the owner took the time to
+        explain each fish to him at the sushi counter when he wanted to see the
+        fish. That was soooooo sweet. This was our 2nd time in and the value is
+        unbeatable compared to other places. We will be back!
+      languageCode: en
+    originalText:
+      text: >-
+        The sushi prices here are great and the service is always amazing.
+        Earlier today we took our 6 year old son and the owner took the time to
+        explain each fish to him at the sushi counter when he wanted to see the
+        fish. That was soooooo sweet. This was our 2nd time in and the value is
+        unbeatable compared to other places. We will be back!
+      languageCode: en
+    authorAttribution:
+      displayName: Kayla May
+      uri: https://www.google.com/maps/contrib/105354878662715617538/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjW_8yK_x9cQWPnma-DbPexaUUTYVF3A6lP6xkujRUozgiEiKtdspA=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-01-21T01:47:23.893153Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURfOE0tZlBREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURfOE0tZlBREAE!2m1!1s0x872ba9bad30cfe07:0xe55b145bc96a27b4
+  - name: >-
+      places/ChIJB_4M07qpK4cRtCdqyVsUW-U/reviews/ChdDSUhNMG9nS0VJQ0FnTURvcnRhTDFRRRAB
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        Fresh and delicious sushi at a VERY affordable price. I ordered the AYCE
+        sushi option and happened to pop in during a drink special.
+
+        The service was impeccable. Andy was very friendly, attentive and
+        incredibly helpful. The sushi chefs were on their A-game and all the
+        employees created the kind of welcoming atmosphere that you’d hope for
+        in a favorite neighborhood sushi spot. I will be back.
+      languageCode: en
+    originalText:
+      text: >-
+        Fresh and delicious sushi at a VERY affordable price. I ordered the AYCE
+        sushi option and happened to pop in during a drink special.
+
+        The service was impeccable. Andy was very friendly, attentive and
+        incredibly helpful. The sushi chefs were on their A-game and all the
+        employees created the kind of welcoming atmosphere that you’d hope for
+        in a favorite neighborhood sushi spot. I will be back.
+      languageCode: en
+    authorAttribution:
+      displayName: Jason Barth
+      uri: https://www.google.com/maps/contrib/118324907215765123199/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVvnEFYfK1Dw3oKB59t-4ITaRu-2x7fK0_yWYsRXNQys1z00I65=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-25T01:47:11.128531Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURvcnRhTDFRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURvcnRhTDFRRRAB!2m1!1s0x872ba9bad30cfe07:0xe55b145bc96a27b4
+  - name: >-
+      places/ChIJB_4M07qpK4cRtCdqyVsUW-U/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRb0xuY1N3EAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        I've been coming to Orient Sushi & Grill for 6years now and this is
+        still my favorite place to come to. Notice I said 'come to', it's
+        because right now I'm here and loving it!!! Such a welcoming atmosphere.
+        Favorite is the noodles, avocado rolls and of course the sake bombers!!
+        ❤️ I hope you visit and enjoy this lovely place like I do!
+      languageCode: en
+    originalText:
+      text: >-
+        I've been coming to Orient Sushi & Grill for 6years now and this is
+        still my favorite place to come to. Notice I said 'come to', it's
+        because right now I'm here and loving it!!! Such a welcoming atmosphere.
+        Favorite is the noodles, avocado rolls and of course the sake bombers!!
+        ❤️ I hope you visit and enjoy this lovely place like I do!
+      languageCode: en
+    authorAttribution:
+      displayName: Kimberly
+      uri: https://www.google.com/maps/contrib/117902779311339473457/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIOi17SPC190fbpUSMdhhkNKWHJc5XEZRiIS0tbzAhO_TdLYQ=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-01T03:40:49.396761Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNRb0xuY1N3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNRb0xuY1N3EAE!2m1!1s0x872ba9bad30cfe07:0xe55b145bc96a27b4
+  - name: >-
+      places/ChIJB_4M07qpK4cRtCdqyVsUW-U/reviews/ChdDSUhNMG9nS0VJQ0FnTURRNUsza2xnRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Excellent place for sashimi . The fish is fresh . The entrees are also
+        delicious. Service is great . We thoroughly enjoyed it. We will be back
+        soon .
+      languageCode: en
+    originalText:
+      text: >-
+        Excellent place for sashimi . The fish is fresh . The entrees are also
+        delicious. Service is great . We thoroughly enjoyed it. We will be back
+        soon .
+      languageCode: en
+    authorAttribution:
+      displayName: Raj K
+      uri: https://www.google.com/maps/contrib/116016928018303242003/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIM-HJMovHd6yY3ZlI0Bo_9xkXRc6xe2ZDKzcX8oyq69nyaKE8=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-03-16T03:18:20.118834Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURRNUsza2xnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURRNUsza2xnRRAB!2m1!1s0x872ba9bad30cfe07:0xe55b145bc96a27b4
+  - name: >-
+      places/ChIJB_4M07qpK4cRtCdqyVsUW-U/reviews/ChZDSUhNMG9nS0VJQ0FnTURReDZiU0JREAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Some of the most amazing sushi I’ve ever had!! My dad & I came to Orient
+        sushi on a random Thursday because of the price & location, but neither
+        of us have had such amazing sushi!! We have been to countless places but
+        the sushi here was so fresh and so delicious. The owner was there and
+        checked in on us as well. Amazing staff, service, and management ❤️
+      languageCode: en
+    originalText:
+      text: >-
+        Some of the most amazing sushi I’ve ever had!! My dad & I came to Orient
+        sushi on a random Thursday because of the price & location, but neither
+        of us have had such amazing sushi!! We have been to countless places but
+        the sushi here was so fresh and so delicious. The owner was there and
+        checked in on us as well. Amazing staff, service, and management ❤️
+      languageCode: en
+    authorAttribution:
+      displayName: Aliah R
+      uri: https://www.google.com/maps/contrib/116211755025079558551/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKMAW02oqbuuJWK1Mw9CscDyg7cqR9Qb6zH2OzsUr954OetnQ=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-03-14T21:07:03.316612Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURReDZiU0JREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURReDZiU0JREAE!2m1!1s0x872ba9bad30cfe07:0xe55b145bc96a27b4
+review_summary: >-
+  What People Are Buzzing About This Local Sushi Gem$$$Visitors consistently
+  praise the fresh and flavorful sushi at this Gilbert favorite, noting how it
+  stands out for its quality and affordability compared to other options around.
+  Many highlight the welcoming vibe and reliable service that enhance the
+  overall meal, making it feel like a go-to neighborhood spot for casual
+  outings. Entrees like sashimi and teriyaki are often described as delicious
+  and well-prepared, with the all-you-can-eat deals adding extra appeal for
+  value seekers. While opinions are generally positive, some mention it as a
+  solid pick for everyday dining rather than something overly fancy. If you're
+  on the hunt for reliable sushi restaurants nearby, this place delivers a
+  satisfying experience that keeps folks returning for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  paidStreetParking: false
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
 good_for_sports: null
-live_music: null
+live_music: false
 menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Bright, basic restaurant with a menu of Thai, Korean, Chinese & Japanese
+  classics, plus a full bar.
 
 ---

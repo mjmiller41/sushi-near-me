@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Hashi Sushi"
+title: Hashi Sushi
 permalink: /connecticut/new-canaan/hashi-sushi.html
 stateAbbr: CT
 stateName: Connecticut
 cityName: New Canaan
 seo:
-  name: "Hashi Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.hashisushict.com/
-description: "Hashi Sushi serves delicious sushi in New Canaan, Connecticut. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJUyvHpg2nwokRrY18P4gU84g
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: null
 rating: '4.4'
 rating_count: 0
 website: http://www.hashisushict.com/
+description: >-
+  Explore Hashi Sushi in New Canaan, CT$$$Hashi Sushi in New Canaan, CT, stands
+  out as a welcoming sushi destination offering authentic Japanese cuisine and
+  refreshing cocktails in a relaxed, modern setting. This spot excels with its
+  fresh selections of sushi and creative dishes that highlight high-quality
+  ingredients and thoughtful flavors, making it a go-to for those seeking
+  Japanese-inspired dining close to home. The casually stylish atmosphere
+  includes accessible features like outdoor seating and wheelchair-friendly
+  options, enhancing the overall experience for a variety of diners. Whether
+  you're in the mood for expertly prepared rolls or a light meal paired with
+  drinks, it captures the essence of top-rated sushi restaurants in the area.
+  Its convenient location makes it an ideal choice for anyone exploring sushi
+  places near me in this vibrant Connecticut community.
+generative_summary: >-
+  Explore Hashi Sushi in New Canaan, CT$$$Hashi Sushi in New Canaan, CT, stands
+  out as a welcoming sushi destination offering authentic Japanese cuisine and
+  refreshing cocktails in a relaxed, modern setting. This spot excels with its
+  fresh selections of sushi and creative dishes that highlight high-quality
+  ingredients and thoughtful flavors, making it a go-to for those seeking
+  Japanese-inspired dining close to home. The casually stylish atmosphere
+  includes accessible features like outdoor seating and wheelchair-friendly
+  options, enhancing the overall experience for a variety of diners. Whether
+  you're in the mood for expertly prepared rolls or a light meal paired with
+  drinks, it captures the essence of top-rated sushi restaurants in the area.
+  Its convenient location makes it an ideal choice for anyone exploring sushi
+  places near me in this vibrant Connecticut community.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJUyvHpg2nwokRrY18P4gU84g/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3Ny1QYW53RRAB
@@ -352,6 +377,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQ2My1PR0pnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQ2My1PR0pnEAE!2m1!1s0x89c2a70da6c72b53:0x88f314883f7c8dad
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors often rave about the fresh,
+  high-quality sushi and flavorful options at this spot, with many highlighting
+  the excellent taste and variety that make it a standout for Japanese fare
+  enthusiasts. While some folks note that wait times can occasionally stretch
+  longer than expected, the overall service tends to be friendly and attentive,
+  adding to the enjoyable vibe. Feedback frequently praises the creative dishes
+  and inviting atmosphere, though a few mention room for improvement in handling
+  busy evenings to keep things smooth. On the whole, it's a solid pick for
+  anyone craving top-rated sushi, as the positives like great food and outdoor
+  seating options far outweigh the minor hiccups. If you're searching for sushi
+  restaurants near me, this place delivers a generally satisfying experience
+  worth trying out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options:
   acceptsCreditCards: true
@@ -381,7 +420,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

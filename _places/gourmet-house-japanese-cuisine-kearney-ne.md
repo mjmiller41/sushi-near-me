@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Gourmet House Japanese Cuisine"
+title: Gourmet House Japanese Cuisine
 permalink: /nebraska/kearney/gourmet-house-japanese-cuisine.html
 stateAbbr: NE
 stateName: Nebraska
 cityName: Kearney
 seo:
-  name: "Gourmet House Japanese Cuisine"
-  type: Restaurant
+  type: restaurant
   links: https://www.gourmethousene.com/
-description: "Gourmet House Japanese Cuisine serves delicious sushi in Kearney, Nebraska. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJT4Fks7ZOmYcRaD_q4Wx-XNo
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x87994eb6b364814f:0xda5c7e6ce1ea3f68!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:00 PM'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:30 PM'
     - 'Saturday: 11:00 AM – 9:30 PM'
     - 'Sunday: 11:00 AM – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 9:30 PM'
-    - 'Saturday: 11:00 AM – 9:30 PM'
-    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,224 @@ phone: (308) 338-8077
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.5'
-rating_count: 0
+rating_count: 338
 website: https://www.gourmethousene.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Gourmet House in Kearney, NE$$$Gourmet House Japanese Cuisine in
+  Kearney, NE, stands out as a welcoming spot for those seeking authentic
+  Japanese flavors in a relaxed setting. This casual eatery offers a variety of
+  traditional dishes, including fresh sushi rolls, hearty ramen, and crispy
+  tempura, all prepared with care in a simple, accessible space. Visitors can
+  enjoy the convenience of wheelchair-friendly features and ample parking,
+  making it easy to savor meals whether dining in or taking out. The menu
+  highlights affordable options that blend classic tastes with local appeal,
+  perfect for anyone exploring top-rated Japanese places nearby. With extended
+  hours into the evening, it's an ideal choice for a satisfying lunch or dinner
+  that combines quality ingredients and thoughtful service.
+generative_summary: >-
+  Discover Gourmet House in Kearney, NE$$$Gourmet House Japanese Cuisine in
+  Kearney, NE, stands out as a welcoming spot for those seeking authentic
+  Japanese flavors in a relaxed setting. This casual eatery offers a variety of
+  traditional dishes, including fresh sushi rolls, hearty ramen, and crispy
+  tempura, all prepared with care in a simple, accessible space. Visitors can
+  enjoy the convenience of wheelchair-friendly features and ample parking,
+  making it easy to savor meals whether dining in or taking out. The menu
+  highlights affordable options that blend classic tastes with local appeal,
+  perfect for anyone exploring top-rated Japanese places nearby. With extended
+  hours into the evening, it's an ideal choice for a satisfying lunch or dinner
+  that combines quality ingredients and thoughtful service.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJT4Fks7ZOmYcRaD_q4Wx-XNo/reviews/ChdDSUhNMG9nS0VJQ0FnSURmcHRUdjZRRRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        My boyfriend and I come here a lot and I have a gluten allergy and they
+        always do a very good job at accommodating my requests. We love this
+        place 10/10 recommend for the price and quality of the food. Also our
+        servers are always amazing and kind.
+      languageCode: en
+    originalText:
+      text: >-
+        My boyfriend and I come here a lot and I have a gluten allergy and they
+        always do a very good job at accommodating my requests. We love this
+        place 10/10 recommend for the price and quality of the food. Also our
+        servers are always amazing and kind.
+      languageCode: en
+    authorAttribution:
+      displayName: eboni sughroue
+      uri: https://www.google.com/maps/contrib/110703051251330262869/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWZJ1zHncXHoTpwR_3k0PVYYUq_ryqb6QP81leKjVPqGeAcIns=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-01-06T02:33:05.149610Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURmcHRUdjZRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURmcHRUdjZRRRAB!2m1!1s0x87994eb6b364814f:0xda5c7e6ce1ea3f68
+  - name: >-
+      places/ChIJT4Fks7ZOmYcRaD_q4Wx-XNo/reviews/ChdDSUhNMG9nS0VJQ0FnTURBOW8yT3J3RRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 4
+    text:
+      text: >-
+        Different from what I normally see in Mongolian beef but it was still
+        good surprisingly. The fried rice look like Mexican rice but taste like
+        fried rice so that was confusing
+      languageCode: en
+    originalText:
+      text: >-
+        Different from what I normally see in Mongolian beef but it was still
+        good surprisingly. The fried rice look like Mexican rice but taste like
+        fried rice so that was confusing
+      languageCode: en
+    authorAttribution:
+      displayName: Jefe
+      uri: https://www.google.com/maps/contrib/108243853851354497410/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVpqgBz-CU0DqvKuLrIcfy3WlMJnlMSgYxVg6M_eDMdF3-6K5EH=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-02-08T23:16:41.119266Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURBOW8yT3J3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURBOW8yT3J3RRAB!2m1!1s0x87994eb6b364814f:0xda5c7e6ce1ea3f68
+  - name: >-
+      places/ChIJT4Fks7ZOmYcRaD_q4Wx-XNo/reviews/ChdDSUhNMG9nS0VJQ0FnSUQxaGJpSmlnRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        This is probably the best place to get Sushi in Kearney. The staff is
+        always very friendly and the food is great. My family and I love it!
+        They seem to do a lot of takeout orders because the dining room is never
+        full when I arrive, which is great because there's plenty of places to
+        sit!
+      languageCode: en
+    originalText:
+      text: >-
+        This is probably the best place to get Sushi in Kearney. The staff is
+        always very friendly and the food is great. My family and I love it!
+        They seem to do a lot of takeout orders because the dining room is never
+        full when I arrive, which is great because there's plenty of places to
+        sit!
+      languageCode: en
+    authorAttribution:
+      displayName: Cole Brodine
+      uri: https://www.google.com/maps/contrib/102234649438247351514/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXCxmE_QVTPC8_u7MY2JKEKhE-3yqzvZBi5Jt41v2gi4r7sBK9_Pw=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-01-08T16:07:34.601196Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQxaGJpSmlnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQxaGJpSmlnRRAB!2m1!1s0x87994eb6b364814f:0xda5c7e6ce1ea3f68
+  - name: >-
+      places/ChIJT4Fks7ZOmYcRaD_q4Wx-XNo/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3cW9yaGh3RRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        I love their food and their sushi is delicious AND fairly priced.
+        However, at one point they were playing a kids song with cats meowing
+        and it was very weird music. Disney music too at one point which threw
+        off the atmosphere. But their egg fried rice is delicious!
+      languageCode: en
+    originalText:
+      text: >-
+        I love their food and their sushi is delicious AND fairly priced.
+        However, at one point they were playing a kids song with cats meowing
+        and it was very weird music. Disney music too at one point which threw
+        off the atmosphere. But their egg fried rice is delicious!
+      languageCode: en
+    authorAttribution:
+      displayName: Max Simpson
+      uri: https://www.google.com/maps/contrib/103265281591960567935/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLZEGQ_XlluJgNLMCdcmzHHTHpq2SOLA3PcMMjf346BsoV-ug=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-18T03:10:03.173665Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUN3cW9yaGh3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUN3cW9yaGh3RRAB!2m1!1s0x87994eb6b364814f:0xda5c7e6ce1ea3f68
+  - name: >-
+      places/ChIJT4Fks7ZOmYcRaD_q4Wx-XNo/reviews/ChZDSUhNMG9nS0VJQ0FnSUNmM195c0dnEAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        Food was great. What got my attention was the service to the  person
+        next to me. They were having a bad night, upset when they came in to
+        eat. The staff provided kindness to help them feel better. They cared. I
+        observed that it made a difference for the individual. My service was
+        great also. Great job Gourmet House, all staff! Nice work
+      languageCode: en
+    originalText:
+      text: >-
+        Food was great. What got my attention was the service to the  person
+        next to me. They were having a bad night, upset when they came in to
+        eat. The staff provided kindness to help them feel better. They cared. I
+        observed that it made a difference for the individual. My service was
+        great also. Great job Gourmet House, all staff! Nice work
+      languageCode: en
+    authorAttribution:
+      displayName: Scott Dicke
+      uri: https://www.google.com/maps/contrib/109113468226228060451/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocL2Lu9yR2QXo662kiTqgpZyKafawKW26geXCcQhnc1lxsi90w=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-01-03T01:34:39.374201Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNmM195c0dnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNmM195c0dnEAE!2m1!1s0x87994eb6b364814f:0xda5c7e6ce1ea3f68
+review_summary: >-
+  Customer Feedback Highlights$$$Folks around town often rave about the tasty
+  sushi and other Japanese favorites at this spot, noting how the fresh flavors
+  and reasonable prices make it a go-to for casual meals. Many appreciate the
+  staff's friendly approach and quick service, which helps create a comfortable
+  vibe even during busy times. While some diners mention unique twists on dishes
+  like fried rice that add a fun surprise, the overall consensus leans toward
+  the reliable quality of seafood and entrees that keep people coming back. It's
+  clear that the team's attentiveness to special requests, such as dietary
+  needs, adds to the positive experience without any major drawbacks. If you're
+  hunting for solid sushi restaurants near you, this place delivers a
+  consistently enjoyable meal that balances taste and value.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
 menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
 serves_cocktails: null
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Classic Japanese cooked fare, appetizers, sushi & rolls are dished up in a
+  simple, strip-mall space.
 
 ---

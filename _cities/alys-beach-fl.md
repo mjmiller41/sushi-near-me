@@ -5,4 +5,5 @@ permalink: /florida/alys-beach/
 stateAbbr: FL
 stateName: Florida
 cityName: Alys Beach
+
 ---

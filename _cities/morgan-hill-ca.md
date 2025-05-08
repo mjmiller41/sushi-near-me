@@ -5,4 +5,5 @@ permalink: /california/morgan-hill/
 stateAbbr: CA
 stateName: California
 cityName: Morgan Hill
+
 ---

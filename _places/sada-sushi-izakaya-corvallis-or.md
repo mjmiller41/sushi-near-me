@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sada Sushi & Izakaya"
+title: Sada Sushi & Izakaya
 permalink: /oregon/corvallis/sada-sushi-izakaya.html
 stateAbbr: OR
 stateName: Oregon
 cityName: Corvallis
 seo:
-  name: "Sada Sushi & Izakaya"
-  type: Restaurant
+  type: restaurant
   links: http://www.sadasushi.com/
-description: "Sada Sushi & Izakaya serves delicious sushi in Corvallis, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJrzQgg-tAwFQR-DA93mEWa4E
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x54c040eb832034af:0x816b1661de3d30f8!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 16
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 12
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 4:00 – 9:00 PM'
     - 'Wednesday: 4:00 – 9:00 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 12:00 – 9:00 PM'
     - 'Saturday: 12:00 – 9:00 PM'
     - 'Sunday: 4:00 – 9:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 4:00 – 9:00 PM'
-    - 'Wednesday: 4:00 – 9:00 PM'
-    - 'Thursday: 4:00 – 9:00 PM'
-    - 'Friday: 12:00 – 9:00 PM'
-    - 'Saturday: 12:00 – 9:00 PM'
-    - 'Sunday: 4:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +238,224 @@ phone: (541) 286-4093
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.5'
-rating_count: 0
+rating_count: 667
 website: http://www.sadasushi.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Experience Sada Sushi & Izakaya in Corvallis, OR$$$Sada Sushi & Izakaya in
+  Corvallis, OR, offers a welcoming spot for enjoying artful sushi rolls and
+  creative Japanese small plates in a cozy, wood-lined setting that highlights
+  traditional flavors. This sushi restaurant near you features an inviting
+  atmosphere with unique decor elements like fish tanks, making it a charming
+  choice for casual dining or special occasions. Guests can savor a variety of
+  fresh Japanese fare, including sake and inventive dishes that blend classic
+  techniques with local twists, all served in an accessible environment with
+  wheelchair-friendly options. The spot is ideal for those seeking top-rated
+  sushi experiences, with options for groups and a menu that includes vegetarian
+  choices to cater to diverse tastes. Operating hours accommodate evening
+  visits, ensuring it's easy to find great Japanese places near me for a
+  satisfying meal.
+generative_summary: >-
+  Experience Sada Sushi & Izakaya in Corvallis, OR$$$Sada Sushi & Izakaya in
+  Corvallis, OR, offers a welcoming spot for enjoying artful sushi rolls and
+  creative Japanese small plates in a cozy, wood-lined setting that highlights
+  traditional flavors. This sushi restaurant near you features an inviting
+  atmosphere with unique decor elements like fish tanks, making it a charming
+  choice for casual dining or special occasions. Guests can savor a variety of
+  fresh Japanese fare, including sake and inventive dishes that blend classic
+  techniques with local twists, all served in an accessible environment with
+  wheelchair-friendly options. The spot is ideal for those seeking top-rated
+  sushi experiences, with options for groups and a menu that includes vegetarian
+  choices to cater to diverse tastes. Operating hours accommodate evening
+  visits, ensuring it's easy to find great Japanese places near me for a
+  satisfying meal.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJrzQgg-tAwFQR-DA93mEWa4E/reviews/ChZDSUhNMG9nS0VJQ0FnSUQzamVXdFBnEAE
+    relativePublishTimeDescription: 5 months ago
+    rating: 4
+    text:
+      text: >-
+        This is a cute place. The service and food were both good. We enjoyed a
+        date night here. The fish tanks around the restaurant are very cool &
+        they have some really cool decor.
+      languageCode: en
+    originalText:
+      text: >-
+        This is a cute place. The service and food were both good. We enjoyed a
+        date night here. The fish tanks around the restaurant are very cool &
+        they have some really cool decor.
+      languageCode: en
+    authorAttribution:
+      displayName: Erica
+      uri: https://www.google.com/maps/contrib/108357884524539361494/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjX9OpUVAGkV1h7CZHLzAXfIDBfwlpmaAym2596j6_9KTFgXJXNC=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-11-17T13:48:13.248877Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQzamVXdFBnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQzamVXdFBnEAE!2m1!1s0x54c040eb832034af:0x816b1661de3d30f8
+  - name: >-
+      places/ChIJrzQgg-tAwFQR-DA93mEWa4E/reviews/ChZDSUhNMG9nS0VJQ0FnSUNEMjVPV0VBEAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        My fiance and I came for our first time for my birthday dinner, the
+        sushi was amazing first off. The real highlight of the night was the
+        incredible service from our waiter, Michael. He made us feel so welcome,
+        gave great recommendations, and had a great balance of
+        conversation/letting us enjoy our meal. 5 stars to the sushi chef and
+        wait staff. Will be back again and again
+      languageCode: en
+    originalText:
+      text: >-
+        My fiance and I came for our first time for my birthday dinner, the
+        sushi was amazing first off. The real highlight of the night was the
+        incredible service from our waiter, Michael. He made us feel so welcome,
+        gave great recommendations, and had a great balance of
+        conversation/letting us enjoy our meal. 5 stars to the sushi chef and
+        wait staff. Will be back again and again
+      languageCode: en
+    authorAttribution:
+      displayName: Vaughn Howdy
+      uri: https://www.google.com/maps/contrib/101049469323066292620/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXrGLQ-YwzfEuyduSpisHnhv-4DHxxfEhFw35zCZfvOp4jtvrqg=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-04-02T02:42:28.588483Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNEMjVPV0VBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNEMjVPV0VBEAE!2m1!1s0x54c040eb832034af:0x816b1661de3d30f8
+  - name: >-
+      places/ChIJrzQgg-tAwFQR-DA93mEWa4E/reviews/ChZDSUhNMG9nS0VJQ0FnTURBb0x6SEVREAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 4
+    text:
+      text: Very good food! Loved the spicy ramen bowl. Just a little pricy
+      languageCode: en
+    originalText:
+      text: Very good food! Loved the spicy ramen bowl. Just a little pricy
+      languageCode: en
+    authorAttribution:
+      displayName: sophiya chuprova
+      uri: https://www.google.com/maps/contrib/113452224246778016026/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUXTtasnGBJ6R-7JT62IBYTz8R5rPRf9BzCENxfMkrEzx_wW7saPQ=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-02-06T03:28:49.785965Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURBb0x6SEVREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURBb0x6SEVREAE!2m1!1s0x54c040eb832034af:0x816b1661de3d30f8
+  - name: >-
+      places/ChIJrzQgg-tAwFQR-DA93mEWa4E/reviews/ChZDSUhNMG9nS0VJQ0FnSUNxcHB6VFlnEAE
+    relativePublishTimeDescription: 3 years ago
+    rating: 5
+    text:
+      text: >-
+        Pretty dope Sushi Spot located in Collegetown Corvallis Oregon.  It
+        reminds me of a speakeasy the entire restaurant is down about 12 flights
+        of stairs and the lighting is real low and dim which makes for a more
+        personal experience.  Sushi was great, and they served 3 different rolls
+        super fast with dual miso soups 🥣 5 star. Sushi
+      languageCode: en
+    originalText:
+      text: >-
+        Pretty dope Sushi Spot located in Collegetown Corvallis Oregon.  It
+        reminds me of a speakeasy the entire restaurant is down about 12 flights
+        of stairs and the lighting is real low and dim which makes for a more
+        personal experience.  Sushi was great, and they served 3 different rolls
+        super fast with dual miso soups 🥣 5 star. Sushi
+      languageCode: en
+    authorAttribution:
+      displayName: Ducci
+      uri: https://www.google.com/maps/contrib/112218735295870755055/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWrr0KrXO6IPyBYbzLlGFcu6yKN4R5aU3sDcTGi6Du0mbxjXWDfHw=s128-c0x00000000-cc-rp-mo-ba7
+    publishTime: '2022-01-11T20:33:44.320258Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNxcHB6VFlnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNxcHB6VFlnEAE!2m1!1s0x54c040eb832034af:0x816b1661de3d30f8
+  - name: >-
+      places/ChIJrzQgg-tAwFQR-DA93mEWa4E/reviews/ChZDSUhNMG9nS0VJQ0FnSUNwal82WEVBEAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        This place has amazing gluten free options in fried Japanese choices!
+        The sauces were incredible and the food was so tasty and great! We
+        definitely will be back! The service was impressive and the atmosphere
+        was on point! I recommend this place 100%!
+      languageCode: en
+    originalText:
+      text: >-
+        This place has amazing gluten free options in fried Japanese choices!
+        The sauces were incredible and the food was so tasty and great! We
+        definitely will be back! The service was impressive and the atmosphere
+        was on point! I recommend this place 100%!
+      languageCode: en
+    authorAttribution:
+      displayName: Chrysalis White
+      uri: https://www.google.com/maps/contrib/103393849020237013259/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKZmmaLRyFKyBqjB0BV73KBDKn0JhMal04eEbY4eEFEZCspKQ=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2023-08-12T16:40:07.789963Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNwal82WEVBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNwal82WEVBEAE!2m1!1s0x54c040eb832034af:0x816b1661de3d30f8
+review_summary: >-
+  Buzz Around This Sushi Spot$$$Visitors often rave about the fresh and
+  flavorful sushi rolls that make this place a go-to for tasty Japanese dining,
+  with many highlighting the creative presentations and solid portions that
+  leave you feeling satisfied. Folks appreciate the friendly service and relaxed
+  vibe, which add to the overall enjoyment without overwhelming the experience,
+  even if some note the prices lean a bit higher for the quality offered. The
+  atmosphere gets thumbs up for its unique decor and intimate feel, perfect for
+  date nights or casual get-togethers, making it one of the best sushi
+  restaurants near me for a welcoming outing. Overall, the consensus leans
+  positive, with praise for the variety of options like spicy ramen and
+  gluten-free choices that keep things inclusive and exciting. If you're
+  searching for sushi close to me, this spot delivers a reliably good time with
+  dishes that encourage repeat visits.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeStreetParking: true
+  paidStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
+curbside_pickup: true
 delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Artful sushi rolls, sake & small plates of clever Japanese fare in warm,
+  wood-lined environs.
 
 ---

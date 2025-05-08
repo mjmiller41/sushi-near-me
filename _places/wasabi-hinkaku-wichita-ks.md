@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Wasabi Hinkaku"
+title: Wasabi Hinkaku
 permalink: /kansas/wichita/wasabi-hinkaku.html
 stateAbbr: KS
 stateName: Kansas
 cityName: Wichita
 seo:
-  name: "Wasabi Hinkaku"
-  type: Restaurant
-  links: null
-description: "Wasabi Hinkaku serves delicious sushi in Wichita, Kansas. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.wasabiwichita.com/
 place_id: ChIJY5KzR63juocRBPov9cMyRAY
 photos:
   - name: >-
@@ -170,22 +168,170 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x87bae3ad47b39263:0x64432c3f52ffa04!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 9:00 PM'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 9:30 PM'
+    - 'Saturday: 12:00 – 9:30 PM'
+    - 'Sunday: 12:00 – 8:30 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+  - openNow: false
+    periods:
+      - open:
+          day: 1
+          hour: 15
+          minute: 0
+        close:
+          day: 1
+          hour: 17
+          minute: 0
+      - open:
+          day: 2
+          hour: 15
+          minute: 0
+        close:
+          day: 2
+          hour: 17
+          minute: 0
+      - open:
+          day: 3
+          hour: 15
+          minute: 0
+        close:
+          day: 3
+          hour: 17
+          minute: 0
+      - open:
+          day: 4
+          hour: 15
+          minute: 0
+        close:
+          day: 4
+          hour: 17
+          minute: 0
+      - open:
+          day: 5
+          hour: 15
+          minute: 0
+        close:
+          day: 5
+          hour: 17
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 3:00 – 5:00 PM'
+      - 'Tuesday: 3:00 – 5:00 PM'
+      - 'Wednesday: 3:00 – 5:00 PM'
+      - 'Thursday: 3:00 – 5:00 PM'
+      - 'Friday: 3:00 – 5:00 PM'
+      - 'Saturday: Closed'
+      - 'Sunday: Closed'
+    secondaryHoursType: HAPPY_HOUR
+    nextOpenTime: '2025-05-05T20:00:00Z'
+phone: (316) 927-3524
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.8'
+rating_count: 1040
+website: https://www.wasabiwichita.com/
+description: >-
+  Discover Wasabi Hinkaku in Wichita, KS$$$Wasabi Hinkaku in Wichita, KS, is a
+  trendy sushi restaurant tucked into the vibrant Old Town neighborhood,
+  offering a fresh take on Japanese favorites that attract locals and visitors
+  alike. This spot shines with its welcoming atmosphere and accessibility
+  features, ensuring a comfortable dining experience for everyone, including
+  those seeking inclusive options. Patrons can savor a variety of creative rolls
+  and specials, especially during dedicated happy hour times that add value to
+  the menu. With moderate pricing and a focus on quality ingredients, it's an
+  ideal choice for anyone exploring sushi options in the area. Whether you're in
+  the mood for a casual meal or hunting for top-rated Japanese places nearby,
+  Wasabi Hinkaku delivers a memorable blend of flavors and ambiance.
+generative_summary: >-
+  Discover Wasabi Hinkaku in Wichita, KS$$$Wasabi Hinkaku in Wichita, KS, is a
+  trendy sushi restaurant tucked into the vibrant Old Town neighborhood,
+  offering a fresh take on Japanese favorites that attract locals and visitors
+  alike. This spot shines with its welcoming atmosphere and accessibility
+  features, ensuring a comfortable dining experience for everyone, including
+  those seeking inclusive options. Patrons can savor a variety of creative rolls
+  and specials, especially during dedicated happy hour times that add value to
+  the menu. With moderate pricing and a focus on quality ingredients, it's an
+  ideal choice for anyone exploring sushi options in the area. Whether you're in
+  the mood for a casual meal or hunting for top-rated Japanese places nearby,
+  Wasabi Hinkaku delivers a memorable blend of flavors and ambiance.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Diners Love About This Spot$$$Folks often praise the flavorful sushi
+  rolls at this Wichita favorite, highlighting creative options that bring bold
+  tastes to the table without overwhelming the palate. Many mention the
+  enjoyable drinks like sake that pair perfectly with standout desserts, making
+  every visit feel special and satisfying. The service stands out for being warm
+  and attentive, contributing to a lively and inviting vibe that keeps people
+  coming back. Overall, it's seen as a solid pick for groups or solo diners
+  looking for a fun night out with reliable quality. If you're on the hunt for
+  great sushi restaurants in the area, this place earns high marks for its
+  consistent appeal and positive energy.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +357,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

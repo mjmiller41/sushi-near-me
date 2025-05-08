@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Matsu"
+title: Matsu
 permalink: /virginia/centreville/matsu.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Centreville
 seo:
-  name: "Matsu"
-  type: Restaurant
-  links: null
-description: "Matsu serves delicious sushi in Centreville, Virginia. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.gomatsu.com/
 place_id: ChIJJ7ySPWFEtokRI6NLz2QJo7Q
 photos:
   - name: >-
@@ -170,8 +168,121 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89b644613d92bc27:0xb4a30964cf4ba323!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 15
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 2:30 PM, 5:00 – 10:00 PM'
+    - 'Tuesday: 11:00 AM – 2:30 PM, 5:00 – 10:00 PM'
+    - 'Wednesday: 11:00 AM – 2:30 PM, 5:00 – 10:00 PM'
+    - 'Thursday: 11:00 AM – 2:30 PM, 5:00 – 10:00 PM'
+    - 'Friday: 11:00 AM – 2:30 PM, 5:00 – 10:30 PM'
+    - 'Saturday: 11:30 AM – 3:00 PM, 5:00 – 10:30 PM'
+    - 'Sunday: 5:00 – 9:30 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +290,49 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (703) 266-7040
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.6'
+rating_count: 809
+website: http://www.gomatsu.com/
+description: >-
+  About Matsu in Centreville, VA$$$Matsu in Centreville, Virginia, stands out as
+  a welcoming spot for Japanese cuisine, featuring a relaxed vibe and an array
+  of fresh sushi options that appeal to those seeking authentic flavors nearby.
+  This casual eatery specializes in a variety of Japanese dishes, including
+  creative rolls and sake selections, all served in a comfortable setting within
+  the local Village Center. With its accessible design and moderate pricing,
+  Matsu offers an inviting atmosphere for enjoying quality meals, whether you're
+  stopping by for lunch or dinner. The restaurant's commitment to accessibility,
+  like wheelchair-friendly features, ensures a pleasant experience for all
+  visitors exploring sushi spots in the area.
+generative_summary: >-
+  About Matsu in Centreville, VA$$$Matsu in Centreville, Virginia, stands out as
+  a welcoming spot for Japanese cuisine, featuring a relaxed vibe and an array
+  of fresh sushi options that appeal to those seeking authentic flavors nearby.
+  This casual eatery specializes in a variety of Japanese dishes, including
+  creative rolls and sake selections, all served in a comfortable setting within
+  the local Village Center. With its accessible design and moderate pricing,
+  Matsu offers an inviting atmosphere for enjoying quality meals, whether you're
+  stopping by for lunch or dinner. The restaurant's commitment to accessibility,
+  like wheelchair-friendly features, ensures a pleasant experience for all
+  visitors exploring sushi spots in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What People Are Saying$$$Folks often rave about the fantastic sushi and
+  specialty rolls at this Japanese spot, noting that the flavors are fresh and
+  the portions hit the spot without breaking the bank. Many appreciate the
+  friendly staff who go out of their way to make everyone feel at home, adding
+  to the overall enjoyable vibe of the place. It's clear that the inviting
+  atmosphere keeps diners coming back for more, with highlights on the
+  reasonable prices making it a go-to for casual outings. While opinions vary,
+  the general consensus leans positive, praising the solid sashimi and attentive
+  service that make for a satisfying meal. If you're on the hunt for top-rated
+  Japanese options nearby, this spot seems to deliver a reliably good experience
+  that leaves people pleased.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +358,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

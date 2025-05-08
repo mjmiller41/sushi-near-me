@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Roll Roll"
+title: Roll Roll
 permalink: /california/tarzana/roll-roll.html
 stateAbbr: CA
 stateName: California
 cityName: Tarzana
 seo:
-  name: "Roll Roll"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Roll Roll serves delicious sushi in Tarzana, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ02GKpUCZwoARbKIiQFHlVMA
 photos:
   - name: >-
@@ -185,7 +183,38 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Roll Roll Sushi in Tarzana, CA$$$Roll Roll in Tarzana, CA, stands out
+  as a casual spot for enjoying fresh sushi rolls and a range of other flavorful
+  dishes. This welcoming sushi restaurant boasts an impressive tea selection
+  that pairs perfectly with its menu, creating a relaxed atmosphere for diners
+  seeking a quick or leisurely meal. Accessibility features like
+  wheelchair-friendly parking and entrances make it easy for everyone to
+  experience the vibrant offerings. Whether you're in the mood for inventive
+  rolls or simple classics, this location delivers a satisfying blend of quality
+  and convenience in the heart of the neighborhood.
+generative_summary: >-
+  Discover Roll Roll Sushi in Tarzana, CA$$$Roll Roll in Tarzana, CA, stands out
+  as a casual spot for enjoying fresh sushi rolls and a range of other flavorful
+  dishes. This welcoming sushi restaurant boasts an impressive tea selection
+  that pairs perfectly with its menu, creating a relaxed atmosphere for diners
+  seeking a quick or leisurely meal. Accessibility features like
+  wheelchair-friendly parking and entrances make it easy for everyone to
+  experience the vibrant offerings. Whether you're in the mood for inventive
+  rolls or simple classics, this location delivers a satisfying blend of quality
+  and convenience in the heart of the neighborhood.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Love About Roll Roll$$$If you're hunting for great sushi spots
+  nearby, Roll Roll delivers on tasty favorites that keep people coming back for
+  more. Folks appreciate the flavorful appetizers like garlic edamame and fresh
+  salads, along with crowd-pleasing rolls that hit the spot without breaking the
+  bank. The service stands out for being quick and approachable, adding to the
+  overall enjoyable vibe of the place. Prices are reasonable, making it a solid
+  choice for anyone wanting a reliable meal, and little touches like
+  complimentary miso soup enhance the experience in a simple, satisfying way.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +240,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

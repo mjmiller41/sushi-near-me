@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Bonsai Grill"
+title: Bonsai Grill
 permalink: /virginia/arlington/bonsai-grill.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Arlington
 seo:
-  name: "Bonsai Grill"
-  type: Restaurant
+  type: restaurant
   links: http://www.crystalbonsaisushirestaurant.com/
-description: "Cozy sushi house that offers bonsai boats, bento boxes, Japanese beers & other favorite dishes. Bonsai Grill serves delicious sushi in Arlington, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJJf3fuCm3t4kRCr8rILYLOTE
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 0
 website: http://www.crystalbonsaisushirestaurant.com/
+description: >-
+  Discover Bonsai Grill in Arlington, Virginia$$$Bonsai Grill in Arlington, VA,
+  stands out as a welcoming Japanese eatery, blending cozy vibes with a menu
+  full of fresh sushi and comforting dishes. This spot highlights authentic
+  flavors through options like flavorful rolls, bento boxes, and hearty ramen,
+  making it a go-to for those seeking top-rated Japanese cuisine nearby.
+  Accessibility features such as wheelchair-friendly entrances and seating add
+  to its appeal for all visitors, ensuring everyone can enjoy a relaxed dining
+  experience. With selections of Japanese beers and wines, it's an ideal choice
+  for casual lunches or dinners, drawing in locals and travelers alike looking
+  for sushi restaurants in the area.
+generative_summary: >-
+  Discover Bonsai Grill in Arlington, Virginia$$$Bonsai Grill in Arlington, VA,
+  stands out as a welcoming Japanese eatery, blending cozy vibes with a menu
+  full of fresh sushi and comforting dishes. This spot highlights authentic
+  flavors through options like flavorful rolls, bento boxes, and hearty ramen,
+  making it a go-to for those seeking top-rated Japanese cuisine nearby.
+  Accessibility features such as wheelchair-friendly entrances and seating add
+  to its appeal for all visitors, ensuring everyone can enjoy a relaxed dining
+  experience. With selections of Japanese beers and wines, it's an ideal choice
+  for casual lunches or dinners, drawing in locals and travelers alike looking
+  for sushi restaurants in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJJf3fuCm3t4kRCr8rILYLOTE/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJaExtN0V3EAE
@@ -332,6 +353,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQ3eVpfN2lnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQ3eVpfN2lnRRAB!2m1!1s0x89b7b729b8dffd25:0x31390bb6202bbf0a
+review_summary: >-
+  What Customers Are Saying About the Experience$$$Folks seem to really enjoy
+  the fresh and tasty sushi selections here, often praising the variety of rolls
+  and dishes that hit the spot every time. Many appreciate the quick, friendly
+  service that keeps things running smoothly, even in a cozy space that's
+  perfect for smaller groups. While it's a smaller spot, visitors find it worth
+  any short wait for the authentic flavors and standout options like
+  salmon-based meals. Overall, the vibe comes across as inviting and genuine,
+  with plenty of positive feedback on the overall quality that makes it a solid
+  pick for anyone craving Japanese fare. If you're exploring sushi places
+  nearby, this one often leaves people eager to return for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidParkingLot: true
   freeStreetParking: true
@@ -364,8 +397,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Cozy sushi house that offers bonsai boats, bento boxes, Japanese beers & other
   favorite dishes.
 

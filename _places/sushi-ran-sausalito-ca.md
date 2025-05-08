@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Ran"
+title: Sushi Ran
 permalink: /california/sausalito/sushi-ran.html
 stateAbbr: CA
 stateName: California
 cityName: Sausalito
 seo:
-  name: "Sushi Ran"
-  type: Restaurant
+  type: restaurant
   links: https://sushiran.com/
-description: "Sushi Ran serves delicious sushi in Sausalito, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJC_5gglGEhYARrdLFpYh7ruo
 photos:
   - name: >-
@@ -168,9 +166,91 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m4!3m3!1s0x808584518260fe0b:0xeaae7b88a5c5d2ad!9m1!1b1
   photosUri: >-
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x808584518260fe0b:0xeaae7b88a5c5d2ad!10e5
-primary_type: Sushi Restaurant
+primary_type: Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 14
+        minute: 30
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 12
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 14
+        minute: 30
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 5:00 – 9:30 PM'
     - 'Tuesday: 5:00 – 9:30 PM'
     - 'Wednesday: 5:00 – 9:30 PM'
@@ -178,14 +258,7 @@ opening_hours:
     - 'Friday: 12:00 – 2:30 PM, 5:00 – 10:00 PM'
     - 'Saturday: 12:00 – 2:30 PM, 5:00 – 10:00 PM'
     - 'Sunday: 12:00 – 2:30 PM, 5:00 – 9:30 PM'
-  current:
-    - 'Monday: 5:00 – 9:30 PM'
-    - 'Tuesday: 5:00 – 9:30 PM'
-    - 'Wednesday: 5:00 – 9:30 PM'
-    - 'Thursday: 5:00 – 9:30 PM'
-    - 'Friday: 12:00 – 2:30 PM, 5:00 – 10:00 PM'
-    - 'Saturday: 12:00 – 2:30 PM, 5:00 – 10:00 PM'
-    - 'Sunday: 12:00 – 2:30 PM, 5:00 – 9:30 PM'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +270,320 @@ phone: (415) 332-3620
 price_level: PRICE_LEVEL_EXPENSIVE
 price_range: $50 &ndash; $100
 rating: '4.6'
-rating_count: 0
+rating_count: 1026
 website: https://sushiran.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Sushi Ran in Sausalito, CA$$$Nestled in the charming coastal town of
+  Sausalito, California, Sushi Ran stands out as a premier destination for
+  authentic Japanese cuisine, particularly its expertly crafted sushi rolls and
+  fresh seafood dishes. The restaurant boasts a cozy atmosphere with both indoor
+  and outdoor seating options, making it ideal for enjoying flavorful meals
+  while taking in the scenic vibes. Drawing from its reputation for
+  sophisticated preparations, visitors can savor a variety of sushi options that
+  highlight the best of Japanese traditions, perfect for those seeking top-rated
+  sushi experiences nearby. Accessibility features like wheelchair-friendly
+  entrances and parking add to the welcoming environment, ensuring a comfortable
+  visit for all. With an extensive selection of beverages including sake and
+  wine, this spot delivers a refined yet approachable dining experience that
+  appeals to sushi enthusiasts exploring the area.
+generative_summary: >-
+  Discover Sushi Ran in Sausalito, CA$$$Nestled in the charming coastal town of
+  Sausalito, California, Sushi Ran stands out as a premier destination for
+  authentic Japanese cuisine, particularly its expertly crafted sushi rolls and
+  fresh seafood dishes. The restaurant boasts a cozy atmosphere with both indoor
+  and outdoor seating options, making it ideal for enjoying flavorful meals
+  while taking in the scenic vibes. Drawing from its reputation for
+  sophisticated preparations, visitors can savor a variety of sushi options that
+  highlight the best of Japanese traditions, perfect for those seeking top-rated
+  sushi experiences nearby. Accessibility features like wheelchair-friendly
+  entrances and parking add to the welcoming environment, ensuring a comfortable
+  visit for all. With an extensive selection of beverages including sake and
+  wine, this spot delivers a refined yet approachable dining experience that
+  appeals to sushi enthusiasts exploring the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJC_5gglGEhYARrdLFpYh7ruo/reviews/ChdDSUhNMG9nS0VJQ0FnTURvcXNTcnp3RRAB
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        loveeeee this sushiiiiii - I came because it’s a notable place in the
+        area and I wanted to try it. One of my first times learning about and
+        trying toro. Very cool. I don’t necessarily love toro, but the staff was
+        very friendly and happy to be making sushiiiiiii and it was cool to
+        learn more about it from the experts.
+
+
+        The tuna and salmon were very fresh and the open kitchen allows you to
+        witness the magic in action. Very neat, very cool, very
+        fre$$$$$$hhhhhhhh.
+
+
+        Toro!
+      languageCode: en
+    originalText:
+      text: >-
+        loveeeee this sushiiiiii - I came because it’s a notable place in the
+        area and I wanted to try it. One of my first times learning about and
+        trying toro. Very cool. I don’t necessarily love toro, but the staff was
+        very friendly and happy to be making sushiiiiiii and it was cool to
+        learn more about it from the experts.
+
+
+        The tuna and salmon were very fresh and the open kitchen allows you to
+        witness the magic in action. Very neat, very cool, very
+        fre$$$$$$hhhhhhhh.
+
+
+        Toro!
+      languageCode: en
+    authorAttribution:
+      displayName: a c
+      uri: https://www.google.com/maps/contrib/107494261411971903827/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUD0AA6KjI_i8t58RoykKHTaiw6vnmdOr7mxZnEPap4-hoZoVza=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-23T18:51:00.883518Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURvcXNTcnp3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURvcXNTcnp3RRAB!2m1!1s0x808584518260fe0b:0xeaae7b88a5c5d2ad
+  - name: >-
+      places/ChIJC_5gglGEhYARrdLFpYh7ruo/reviews/ChdDSUhNMG9nS0VJQ0FnTUNvcTlDSWd3RRAB
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        We came to dine while there was an SF Restaurant week. Everything we had
+        was excellent and amazing.
+
+        BUT, the disappointing thing was we had to enjoy SAKE in a wine glass.
+      languageCode: en
+    originalText:
+      text: >-
+        We came to dine while there was an SF Restaurant week. Everything we had
+        was excellent and amazing.
+
+        BUT, the disappointing thing was we had to enjoy SAKE in a wine glass.
+      languageCode: en
+    authorAttribution:
+      displayName: Reiko
+      uri: https://www.google.com/maps/contrib/113187997024420319456/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJqLJsSq_k8QZ6qTCc25XGWQwuEopE7VWteOU9SOg6kFhVVHg=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-20T00:38:55.284572Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNvcTlDSWd3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNvcTlDSWd3RRAB!2m1!1s0x808584518260fe0b:0xeaae7b88a5c5d2ad
+  - name: >-
+      places/ChIJC_5gglGEhYARrdLFpYh7ruo/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3M3FmV0p3EAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Truly next-level Japanese cuisine... My friend very kindly brought me an
+        incredibly exquisite dinner from here... Everything was impeccably
+        fresh; perfectly crafted; perfectly balanced...
+
+
+        1,000% recommend eating at this wonderful establishment!
+      languageCode: en
+    originalText:
+      text: >-
+        Truly next-level Japanese cuisine... My friend very kindly brought me an
+        incredibly exquisite dinner from here... Everything was impeccably
+        fresh; perfectly crafted; perfectly balanced...
+
+
+        1,000% recommend eating at this wonderful establishment!
+      languageCode: en
+    authorAttribution:
+      displayName: Graham Leininger
+      uri: https://www.google.com/maps/contrib/111701712611197793137/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIrCQh4H-lzaqLthhC5sH_FfgEqrG36hOgU0DmKue8PLgd9lw=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-03-26T03:38:09.628112Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUR3M3FmV0p3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUR3M3FmV0p3EAE!2m1!1s0x808584518260fe0b:0xeaae7b88a5c5d2ad
+  - name: >-
+      places/ChIJC_5gglGEhYARrdLFpYh7ruo/reviews/ChdDSUhNMG9nS0VJQ0FnSUQzd3JXRW9BRRAB
+    relativePublishTimeDescription: 5 months ago
+    rating: 4
+    text:
+      text: >-
+        Sushi Ran offers a cozy and intimate dining experience, perfect for a
+        romantic dinner or a quiet meal with friends. They also have an outdoor
+        seating area.
+
+
+        While the service was friendly, the pacing between courses was quite
+        slow, which detracted slightly from the overall experience.
+
+
+        We dined at Sushi Ran during SF Restaurant Week. The seaweed salad,
+        while fresh, was a bit too crunchy for my preference.
+
+
+        However, the Surf and Turf was a standout. The wagyu steak was cooked to
+        perfection, juicy and tender, and the red miso sauce complemented it
+        beautifully. The miso-glazed black cod was also a highlight. The fish
+        was cooked to a flaky perfection, and the glaze added a rich, savory
+        flavor.
+
+
+        The toffee cake with spiced caramel and ginger gelato was a delightful
+        conclusion to the meal. The warm cake paired perfectly with the cold,
+        creamy gelato, creating a delightful contrast of textures and flavors.
+
+
+        We also sampled the tempura oysters, which were crispy and light, with a
+        perfectly cooked oyster inside.
+
+
+        Their nigiri was also fresh and each nigiri included a thick cut of the
+        fish. Also, $15 for some fresh Hokkaido uni was a pretty good deal
+        (usually restaurants charge MP for uni but Sushi Ran had a fixed price).
+
+
+        Overall, Sushi Ran is a solid choice. While the service could be
+        improved, the quality of the food was good.
+      languageCode: en
+    originalText:
+      text: >-
+        Sushi Ran offers a cozy and intimate dining experience, perfect for a
+        romantic dinner or a quiet meal with friends. They also have an outdoor
+        seating area.
+
+
+        While the service was friendly, the pacing between courses was quite
+        slow, which detracted slightly from the overall experience.
+
+
+        We dined at Sushi Ran during SF Restaurant Week. The seaweed salad,
+        while fresh, was a bit too crunchy for my preference.
+
+
+        However, the Surf and Turf was a standout. The wagyu steak was cooked to
+        perfection, juicy and tender, and the red miso sauce complemented it
+        beautifully. The miso-glazed black cod was also a highlight. The fish
+        was cooked to a flaky perfection, and the glaze added a rich, savory
+        flavor.
+
+
+        The toffee cake with spiced caramel and ginger gelato was a delightful
+        conclusion to the meal. The warm cake paired perfectly with the cold,
+        creamy gelato, creating a delightful contrast of textures and flavors.
+
+
+        We also sampled the tempura oysters, which were crispy and light, with a
+        perfectly cooked oyster inside.
+
+
+        Their nigiri was also fresh and each nigiri included a thick cut of the
+        fish. Also, $15 for some fresh Hokkaido uni was a pretty good deal
+        (usually restaurants charge MP for uni but Sushi Ran had a fixed price).
+
+
+        Overall, Sushi Ran is a solid choice. While the service could be
+        improved, the quality of the food was good.
+      languageCode: en
+    authorAttribution:
+      displayName: ayush kalani
+      uri: https://www.google.com/maps/contrib/104431593662302929240/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUl87MXaBoKVCghSNlXZZTzBrMJx3c329RGyqLscBxl324jlEdHKQ=s128-c0x00000000-cc-rp-mo-ba7
+    publishTime: '2024-11-13T12:47:11.689788Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQzd3JXRW9BRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQzd3JXRW9BRRAB!2m1!1s0x808584518260fe0b:0xeaae7b88a5c5d2ad
+  - name: >-
+      places/ChIJC_5gglGEhYARrdLFpYh7ruo/reviews/ChZDSUhNMG9nS0VJQ0FnSUNQN09fRVBnEAE
+    relativePublishTimeDescription: 5 months ago
+    rating: 4
+    text:
+      text: |-
+        Beautiful weather to eat sushi outdoor at a beautiful sushi restaurant.
+
+        I tried:
+        1. Clam miso soup
+        2. Chef’s choice sashimi set
+        3. Seaweed salad
+        4. Seasonal mixed greens
+        5. Soba noodles with tempura
+      languageCode: en
+    originalText:
+      text: |-
+        Beautiful weather to eat sushi outdoor at a beautiful sushi restaurant.
+
+        I tried:
+        1. Clam miso soup
+        2. Chef’s choice sashimi set
+        3. Seaweed salad
+        4. Seasonal mixed greens
+        5. Soba noodles with tempura
+      languageCode: en
+    authorAttribution:
+      displayName: Vee Dinh
+      uri: https://www.google.com/maps/contrib/102769973160996305254/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVfoRyWUy6JqtWaO5nAH-fJgtiNEC_rFptf4fSR7oEMtR2JSop5xg=s128-c0x00000000-cc-rp-mo-ba8
+    publishTime: '2024-11-22T07:44:09.982947Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNQN09fRVBnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNQN09fRVBnEAE!2m1!1s0x808584518260fe0b:0xeaae7b88a5c5d2ad
+review_summary: >-
+  What Guests Are Raving About$$$Visitors often praise this sushi spot for its
+  incredibly fresh fish and creative rolls that make every bite feel like a
+  standout treat, drawing in fans of quality Japanese fare. While some mention
+  occasional waits between courses, the overall friendly service and cozy
+  setting keep the vibe relaxed and enjoyable, especially with options for
+  outdoor dining on nice days. Many appreciate the generous portions and unique
+  flavors, like the miso-glazed options and tempura dishes, which add a fun
+  twist to classic favorites without overwhelming the palate. It's clear that
+  the extensive sake list and welcoming atmosphere contribute to a memorable
+  meal, making it a solid choice for groups or couples looking for reliable
+  sushi near me. All in all, the positive experiences outweigh any minor
+  hiccups, leaving diners excited to return for more of that fresh, satisfying
+  goodness.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+delivery: false
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Long-running Japanese restaurant/sushi specialist known for its sophisticated
+  preparations.
 
 ---

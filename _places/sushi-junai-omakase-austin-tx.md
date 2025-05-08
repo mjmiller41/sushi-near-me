@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Junai Omakase"
+title: Sushi Junai Omakase
 permalink: /texas/austin/sushi-junai-omakase.html
 stateAbbr: TX
 stateName: Texas
 cityName: Austin
 seo:
-  name: "Sushi Junai Omakase"
-  type: Restaurant
+  type: restaurant
   links: https://sushijunaiomakase.com/
-description: "Sushi Junai Omakase serves delicious sushi in Austin, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJY4aIpwO1RIYRNuwCbsPuPdk
 photos:
   - name: >-
@@ -170,7 +168,97 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8644b503a7888663:0xd93deec36e02ec36!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 15
+        minute: 0
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 15
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 0
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 0
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 3:00 PM, 5:00 – 10:00 PM'
     - 'Tuesday: 11:30 AM – 3:00 PM, 5:00 – 10:00 PM'
     - 'Wednesday: 11:30 AM – 3:00 PM, 5:00 – 10:00 PM'
@@ -178,14 +266,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 3:00 PM, 5:00 PM – 12:00 AM'
     - 'Saturday: 5:00 PM – 12:00 AM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:30 AM – 3:00 PM, 5:00 – 10:00 PM'
-    - 'Tuesday: 11:30 AM – 3:00 PM, 5:00 – 10:00 PM'
-    - 'Wednesday: 11:30 AM – 3:00 PM, 5:00 – 10:00 PM'
-    - 'Thursday: 11:30 AM – 3:00 PM, 5:00 – 10:00 PM'
-    - 'Friday: 11:30 AM – 3:00 PM, 5:00 PM – 12:00 AM'
-    - 'Saturday: 5:00 PM – 12:00 AM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T05:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +278,233 @@ phone: (512) 401-3822
 price_level: null
 price_range: null
 rating: '4.6'
-rating_count: 0
+rating_count: 425
 website: https://sushijunaiomakase.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Sushi Junai Omakase in Austin, TX$$$Sushi Junai Omakase in Austin,
+  TX, stands out as a vibrant destination for authentic Japanese dining,
+  featuring an array of fresh sashimi, creative rolls, and an immersive tasting
+  menu that highlights seasonal ingredients. This upscale spot combines elegant
+  ambiance with a selection of sake and wine, making it ideal for those seeking
+  a refined yet approachable sushi experience in the heart of downtown.
+  Accessibility features like wheelchair-friendly entrances and seating ensure
+  everyone can enjoy the offerings, while extended hours cater to both lunch
+  crowds and evening diners. Whether you're exploring top-rated sushi options
+  nearby or craving a memorable meal, the restaurant's focus on quality and
+  variety keeps it a go-to choice for Japanese cuisine enthusiasts.
+generative_summary: >-
+  Discover Sushi Junai Omakase in Austin, TX$$$Sushi Junai Omakase in Austin,
+  TX, stands out as a vibrant destination for authentic Japanese dining,
+  featuring an array of fresh sashimi, creative rolls, and an immersive tasting
+  menu that highlights seasonal ingredients. This upscale spot combines elegant
+  ambiance with a selection of sake and wine, making it ideal for those seeking
+  a refined yet approachable sushi experience in the heart of downtown.
+  Accessibility features like wheelchair-friendly entrances and seating ensure
+  everyone can enjoy the offerings, while extended hours cater to both lunch
+  crowds and evening diners. Whether you're exploring top-rated sushi options
+  nearby or craving a memorable meal, the restaurant's focus on quality and
+  variety keeps it a go-to choice for Japanese cuisine enthusiasts.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJY4aIpwO1RIYRNuwCbsPuPdk/reviews/ChZDSUhNMG9nS0VJQ0FnSUN2am83ckZnEAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        One of the best sushi spots I’ve ever been to. The spicy tuna roll is
+        always what I try as a standard roll at new places and this one did not
+        disappoint. After telling the chef it was probably the best I’ve ever
+        had, they brought me out a dish on the house. Their happy hour menu is
+        super affordable, wine, a roll and an appetizer and I paid $23. Highly
+        recommend.
+      languageCode: en
+    originalText:
+      text: >-
+        One of the best sushi spots I’ve ever been to. The spicy tuna roll is
+        always what I try as a standard roll at new places and this one did not
+        disappoint. After telling the chef it was probably the best I’ve ever
+        had, they brought me out a dish on the house. Their happy hour menu is
+        super affordable, wine, a roll and an appetizer and I paid $23. Highly
+        recommend.
+      languageCode: en
+    authorAttribution:
+      displayName: Nicole Allen
+      uri: https://www.google.com/maps/contrib/107609739535382924626/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJoUnFi-w9zfr7qCj36YoMNp-NXuY3J5NuXLLXJ-ralGVI1gw=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-12-11T00:26:48.484372Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN2am83ckZnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN2am83ckZnEAE!2m1!1s0x8644b503a7888663:0xd93deec36e02ec36
+  - name: >-
+      places/ChIJY4aIpwO1RIYRNuwCbsPuPdk/reviews/ChZDSUhNMG9nS0VJQ0FnTURncDd2SWNREAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        Came here to celebrate an anniversary. We had the 24 course omakase,
+        every single dish we had was incredible! My favorite was the fatty tuna
+        nigiri.
+
+
+        Aside from the food, the service was excellent. They were kind enough to
+        gift us an extra dish free of charge and also gave us a free dessert.
+
+
+        Will definitely be coming again to enjoy their happy hour!
+      languageCode: en
+    originalText:
+      text: >-
+        Came here to celebrate an anniversary. We had the 24 course omakase,
+        every single dish we had was incredible! My favorite was the fatty tuna
+        nigiri.
+
+
+        Aside from the food, the service was excellent. They were kind enough to
+        gift us an extra dish free of charge and also gave us a free dessert.
+
+
+        Will definitely be coming again to enjoy their happy hour!
+      languageCode: en
+    authorAttribution:
+      displayName: Cat Barrera
+      uri: https://www.google.com/maps/contrib/117905586566771697039/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjV-U2A2YR2C9SElz0d7MhUkRWRD0Nd34YTa2pYU1FJK-KEufqLE=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-02-28T03:11:27.456521Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURncDd2SWNREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURncDd2SWNREAE!2m1!1s0x8644b503a7888663:0xd93deec36e02ec36
+  - name: >-
+      places/ChIJY4aIpwO1RIYRNuwCbsPuPdk/reviews/ChZDSUhNMG9nS0VJQ0FnSUNfOV9EZEVBEAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        My husband and I celebrated our 20 year anniversary here with an Omakase
+        Dinner. The dishes were all very tasty and beautiful. The fish was so
+        fresh and delicious! The sushi chefs were awesome. Would definitely
+        visit again.
+      languageCode: en
+    originalText:
+      text: >-
+        My husband and I celebrated our 20 year anniversary here with an Omakase
+        Dinner. The dishes were all very tasty and beautiful. The fish was so
+        fresh and delicious! The sushi chefs were awesome. Would definitely
+        visit again.
+      languageCode: en
+    authorAttribution:
+      displayName: Jennifer Nunez
+      uri: https://www.google.com/maps/contrib/100737266040991083436/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUWriejg5E8BzGD-wsWjAEsjjYrbH79moPJoxzvoqAXX3ds8OBW=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-01-19T22:11:27.985161Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNfOV9EZEVBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNfOV9EZEVBEAE!2m1!1s0x8644b503a7888663:0xd93deec36e02ec36
+  - name: >-
+      places/ChIJY4aIpwO1RIYRNuwCbsPuPdk/reviews/ChdDSUhNMG9nS0VJQ0FnTUNRcWNUMTVBRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Amazing experience. Definitely a hidden downtown Austin gem. We had the
+        Omakase and had the chef prepare each tasting. If you looking for
+        high-end cuisine this is it.
+      languageCode: en
+    originalText:
+      text: >-
+        Amazing experience. Definitely a hidden downtown Austin gem. We had the
+        Omakase and had the chef prepare each tasting. If you looking for
+        high-end cuisine this is it.
+      languageCode: en
+    authorAttribution:
+      displayName: Jesse Vera
+      uri: https://www.google.com/maps/contrib/102544185646670764879/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjU2AhO2fI-SASpjKUQ0FKrK8Der_wCsnaUVB6PlSoSCV5WKR5hf=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-03-05T12:38:36.934579Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNRcWNUMTVBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNRcWNUMTVBRRAB!2m1!1s0x8644b503a7888663:0xd93deec36e02ec36
+  - name: >-
+      places/ChIJY4aIpwO1RIYRNuwCbsPuPdk/reviews/ChdDSUhNMG9nS0VJQ0FnTUNvNjhyYnpRRRAB
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        Outstanding omakase. Eddie was a fantastic chef making custom bites
+        based on our preferences. Truly a great spot, and highly recommend
+        chatting with your chef
+      languageCode: en
+    originalText:
+      text: >-
+        Outstanding omakase. Eddie was a fantastic chef making custom bites
+        based on our preferences. Truly a great spot, and highly recommend
+        chatting with your chef
+      languageCode: en
+    authorAttribution:
+      displayName: Jay Morales
+      uri: https://www.google.com/maps/contrib/114421393168269710337/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjX_qOQnxo5LJ7NlNntQYzvUSNl-DX_IbBwGHCt3vIZ00EOTs0mR=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-04-20T02:17:43.042773Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNvNjhyYnpRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNvNjhyYnpRRRAB!2m1!1s0x8644b503a7888663:0xd93deec36e02ec36
+review_summary: >-
+  What Guests Are Saying$$$Visitors consistently rave about the exceptional
+  quality of the sushi and omakase selections, noting how the fresh flavors and
+  creative presentations make every bite worthwhile. Many appreciate the great
+  value during happy hour, where affordable drinks and appetizers add to the fun
+  without breaking the bank. The service stands out as friendly and attentive,
+  enhancing the overall cozy atmosphere that makes dining here feel welcoming
+  and enjoyable. While some mention it's perfect for special occasions, others
+  highlight quick and efficient experiences that keep things light and
+  satisfying. Overall, it's a solid pick for anyone hunting for reliable sushi
+  spots nearby, with positive vibes that encourage repeat visits.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  paidParkingLot: true
+  paidStreetParking: true
+  paidGarageParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
+delivery: true
+dine_in: true
+good_for_children: false
 good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
 serves_breakfast: null
 serves_brunch: null
 serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Upscale Japanese restaurant offering a tasting menu, a sushi counter & booths,
+  plus sake & wine.
 
 ---

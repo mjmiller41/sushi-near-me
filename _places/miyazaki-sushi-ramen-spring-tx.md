@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Miyazaki Sushi & Ramen"
+title: Miyazaki Sushi & Ramen
 permalink: /texas/spring/miyazaki-sushi-ramen.html
 stateAbbr: TX
 stateName: Texas
 cityName: Spring
 seo:
-  name: "Miyazaki Sushi & Ramen"
-  type: Restaurant
+  type: restaurant
   links: https://www.miyazakitx66.com/
-description: "Miyazaki Sushi & Ramen serves delicious sushi in Spring, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJS7tQ40PNQIYRmOiuyfza2uA
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8640cd43e350bb4b:0xe0dadafcc9aee898!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:30 PM'
     - 'Tuesday: 11:00 AM – 9:30 PM'
     - 'Wednesday: 11:00 AM – 9:30 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:30 PM'
     - 'Saturday: 11:00 AM – 9:30 PM'
     - 'Sunday: 11:00 AM – 9:30 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:30 PM'
-    - 'Tuesday: 11:00 AM – 9:30 PM'
-    - 'Wednesday: 11:00 AM – 9:30 PM'
-    - 'Thursday: 11:00 AM – 9:30 PM'
-    - 'Friday: 11:00 AM – 9:30 PM'
-    - 'Saturday: 11:00 AM – 9:30 PM'
-    - 'Sunday: 11:00 AM – 9:30 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,280 @@ phone: (281) 374-8838
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.9'
-rating_count: 0
+rating_count: 283
 website: https://www.miyazakitx66.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  About Miyazaki Sushi & Ramen in Spring, TX$$$Miyazaki Sushi & Ramen in Spring,
+  Texas, delivers a delightful taste of traditional Japanese cuisine with fresh
+  sushi and hearty ramen options in a welcoming, cozy environment. This spot
+  stands out for its accessible features and thoughtful setup, making it easy
+  for everyone to enjoy authentic flavors that highlight the essence of Japanese
+  dining. Patrons appreciate the variety of dishes served in a clean and
+  inviting atmosphere, complemented by moderate pricing that fits casual meals
+  or special occasions. Whether you're in the mood for classic rolls or
+  flavorful bowls, it's a reliable choice for those exploring sushi restaurants
+  in the area, with options for dine-in, takeout, and more to suit different
+  preferences.
+generative_summary: >-
+  About Miyazaki Sushi & Ramen in Spring, TX$$$Miyazaki Sushi & Ramen in Spring,
+  Texas, delivers a delightful taste of traditional Japanese cuisine with fresh
+  sushi and hearty ramen options in a welcoming, cozy environment. This spot
+  stands out for its accessible features and thoughtful setup, making it easy
+  for everyone to enjoy authentic flavors that highlight the essence of Japanese
+  dining. Patrons appreciate the variety of dishes served in a clean and
+  inviting atmosphere, complemented by moderate pricing that fits casual meals
+  or special occasions. Whether you're in the mood for classic rolls or
+  flavorful bowls, it's a reliable choice for those exploring sushi restaurants
+  in the area, with options for dine-in, takeout, and more to suit different
+  preferences.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJS7tQ40PNQIYRmOiuyfza2uA/reviews/ChdDSUhNMG9nS0VJQ0FnTUNvd2RlaWh3RRAB
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        We went last night for my birthday because this place has high reviews
+        and it lived up to the reviews. We had a great meal. We got the love
+        boat and chicken fried rice. The sushi was fresh and delicious and the
+        chicken fried rice comes with a lot of chicken. My wife and I also like
+        a good bowl of ramen so we will have to go back soon and try the ramen
+        here.  Because it was my birthday there were also a few birthday extras.
+      languageCode: en
+    originalText:
+      text: >-
+        We went last night for my birthday because this place has high reviews
+        and it lived up to the reviews. We had a great meal. We got the love
+        boat and chicken fried rice. The sushi was fresh and delicious and the
+        chicken fried rice comes with a lot of chicken. My wife and I also like
+        a good bowl of ramen so we will have to go back soon and try the ramen
+        here.  Because it was my birthday there were also a few birthday extras.
+      languageCode: en
+    authorAttribution:
+      displayName: Chris Beath
+      uri: https://www.google.com/maps/contrib/108832730848338185057/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVlhZJ4uNuJfKHNPEb4_slQtllMjPnCojyM41bT7cd0o0fbPg=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-17T14:27:26.583126Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNvd2RlaWh3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNvd2RlaWh3RRAB!2m1!1s0x8640cd43e350bb4b:0xe0dadafcc9aee898
+  - name: >-
+      places/ChIJS7tQ40PNQIYRmOiuyfza2uA/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3b3RxY0VnEAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        We’ve been here for the 4th time. We love their Alaska Roll and Ramen. I
+        like their new set of chairs and tables. I wish nothing but the best for
+        this place. This restaurant deserves to be popular because the food is
+        delicious. We would keep coming back here.
+      languageCode: en
+    originalText:
+      text: >-
+        We’ve been here for the 4th time. We love their Alaska Roll and Ramen. I
+        like their new set of chairs and tables. I wish nothing but the best for
+        this place. This restaurant deserves to be popular because the food is
+        delicious. We would keep coming back here.
+      languageCode: en
+    authorAttribution:
+      displayName: Jinky Melton
+      uri: https://www.google.com/maps/contrib/112628223836571751332/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLNAv411WVnOjqOgf_fMEF-98iAx0_3x7lm6VUhKgoawEqt_g=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-24T21:10:30.493268Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUR3b3RxY0VnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUR3b3RxY0VnEAE!2m1!1s0x8640cd43e350bb4b:0xe0dadafcc9aee898
+  - name: >-
+      places/ChIJS7tQ40PNQIYRmOiuyfza2uA/reviews/ChdDSUhNMG9nS0VJQ0FnTURROWRQVTBnRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Today was the third time my wife and I have dined here, and it
+        definitely won’t be the last! We discovered this gem just 3 weeks ago!
+        We love coming back because the food and the experience are consistently
+        excellent. Every visit has been great, and as a bonus, we’ve received
+        complimentary appetizers each time—which is such a nice touch.
+
+
+        This time, we ordered the Crunchy Roll, Spicy Girl, and Shaggy Dog, and
+        as always, they did not disappoint. The Spicy Girl roll is loaded with
+        spicy tuna—absolutely delicious!
+
+
+        The staff here are always friendly and welcoming, and the restaurant
+        itself is spotless and well-maintained. We really appreciate the
+        attention to detail in both the service and the atmosphere.
+
+
+        Highly recommend this place if you’re looking for great food and a great
+        experience!
+      languageCode: en
+    originalText:
+      text: >-
+        Today was the third time my wife and I have dined here, and it
+        definitely won’t be the last! We discovered this gem just 3 weeks ago!
+        We love coming back because the food and the experience are consistently
+        excellent. Every visit has been great, and as a bonus, we’ve received
+        complimentary appetizers each time—which is such a nice touch.
+
+
+        This time, we ordered the Crunchy Roll, Spicy Girl, and Shaggy Dog, and
+        as always, they did not disappoint. The Spicy Girl roll is loaded with
+        spicy tuna—absolutely delicious!
+
+
+        The staff here are always friendly and welcoming, and the restaurant
+        itself is spotless and well-maintained. We really appreciate the
+        attention to detail in both the service and the atmosphere.
+
+
+        Highly recommend this place if you’re looking for great food and a great
+        experience!
+      languageCode: en
+    authorAttribution:
+      displayName: Jaime Bolanos
+      uri: https://www.google.com/maps/contrib/117783161510680292533/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWPZMYPo_7rhi3YkvYWXSsfc3VrmZFvgjFPPROYg-qcB8cLhopj=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-13T00:24:39.350304Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURROWRQVTBnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURROWRQVTBnRRAB!2m1!1s0x8640cd43e350bb4b:0xe0dadafcc9aee898
+  - name: >-
+      places/ChIJS7tQ40PNQIYRmOiuyfza2uA/reviews/ChZDSUhNMG9nS0VJQ0FnSUNmeE95cFlREAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        First, I would like to point out my appreciation for the clean restrooms
+        and friendly staff. Staff is cheerful and friendly. Food is yummy and
+        atmosphere was cozy. Definitely check out this hidden gem! Thank you
+        again 🎄😊👍🏻
+      languageCode: en
+    originalText:
+      text: >-
+        First, I would like to point out my appreciation for the clean restrooms
+        and friendly staff. Staff is cheerful and friendly. Food is yummy and
+        atmosphere was cozy. Definitely check out this hidden gem! Thank you
+        again 🎄😊👍🏻
+      languageCode: en
+    authorAttribution:
+      displayName: Autumn Elizabeth
+      uri: https://www.google.com/maps/contrib/108813478189516882307/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKyemaus6K9kqNy7gb6dweQq3VJ7iWXYkHsWeq4swkDDWAJlGsl=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-12-26T02:21:18.760669Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNmeE95cFlREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNmeE95cFlREAE!2m1!1s0x8640cd43e350bb4b:0xe0dadafcc9aee898
+  - name: >-
+      places/ChIJS7tQ40PNQIYRmOiuyfza2uA/reviews/ChZDSUhNMG9nS0VJQ0FnTUNvb2E2OGNnEAE
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        Miyazaki Sushi and Ramen is hands down our go-to spot as a family — and
+        for good reason! The food is always fresh and absolutely delicious.
+        Whether it’s sushi, ramen, or anything in between, every bite hits the
+        mark. The customer service is truly top-notch. The staff is warm,
+        welcoming, and goes above and beyond to make every visit special.
+
+
+        We eat here often because everyone in the family loves it, and it never
+        disappoints. Most recently, during a dinner to celebrate my birthday, my
+        mother-in-law casually mentioned the occasion to our server. What
+        happened next was beyond thoughtful — the staff went all out to make my
+        birthday feel extra special. It turned into a night I’ll never forget
+        and added a beautiful new memory to our favorite sushi place.
+
+
+        If you’re looking for incredible food and heartfelt service, Miyazaki is
+        it!
+      languageCode: en
+    originalText:
+      text: >-
+        Miyazaki Sushi and Ramen is hands down our go-to spot as a family — and
+        for good reason! The food is always fresh and absolutely delicious.
+        Whether it’s sushi, ramen, or anything in between, every bite hits the
+        mark. The customer service is truly top-notch. The staff is warm,
+        welcoming, and goes above and beyond to make every visit special.
+
+
+        We eat here often because everyone in the family loves it, and it never
+        disappoints. Most recently, during a dinner to celebrate my birthday, my
+        mother-in-law casually mentioned the occasion to our server. What
+        happened next was beyond thoughtful — the staff went all out to make my
+        birthday feel extra special. It turned into a night I’ll never forget
+        and added a beautiful new memory to our favorite sushi place.
+
+
+        If you’re looking for incredible food and heartfelt service, Miyazaki is
+        it!
+      languageCode: en
+    authorAttribution:
+      displayName: Rosario Santana
+      uri: https://www.google.com/maps/contrib/108396512926386638218/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVHymM5CK1ksY3Yz74C8HfXtJpF1SH76aTCI82vGA8I43M-2P42=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-17T15:02:40.057265Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNvb2E2OGNnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNvb2E2OGNnEAE!2m1!1s0x8640cd43e350bb4b:0xe0dadafcc9aee898
+review_summary: >-
+  What People Are Saying About the Experience$$$Folks consistently highlight the
+  fresh and flavorful sushi and ramen as standout features, with many noting the
+  generous portions and bold tastes that keep them coming back for more. The
+  welcoming atmosphere and attentive service add a nice touch, creating a
+  relaxed vibe that's perfect for family outings or quick meals. Reviewers often
+  mention the overall value and thoughtful extras that enhance the visit, making
+  it feel like a hidden gem for Japanese cuisine enthusiasts. While opinions
+  focus on the delicious food and friendly staff, it's clear this place delivers
+  a solid experience that's worth trying if you're searching for top-rated sushi
+  nearby. All in all, the feedback paints a picture of a dependable spot that
+  balances quality and enjoyment without missing a beat.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: true
+outdoor_seating: false
 reservable: null
-restroom: null
-serves_beer: null
+restroom: true
+serves_beer: true
 serves_breakfast: null
-serves_brunch: null
+serves_brunch: false
 serves_cocktails: null
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

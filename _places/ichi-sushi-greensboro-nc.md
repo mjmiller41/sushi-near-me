@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ichi Sushi"
+title: Ichi Sushi
 permalink: /north-carolina/greensboro/ichi-sushi.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Greensboro
 seo:
-  name: "Ichi Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.ichisushigreensboro.com/
-description: "Ichi Sushi serves delicious sushi in Greensboro, North Carolina. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ9VXR9IscU4gRWmp6hNaghZw
 photos:
   - name: >-
@@ -185,6 +183,27 @@ price_range: $10 &ndash; $20
 rating: '4.3'
 rating_count: 0
 website: https://www.ichisushigreensboro.com/
+description: >-
+  Discover Ichi Sushi in Greensboro, NC$$$Ichi Sushi in Greensboro, NC, stands
+  out as a welcoming Japanese restaurant offering a variety of fresh sushi and
+  Asian dishes in a relaxed environment. This spot delights visitors with its
+  authentic flavors, including expertly prepared dim sum and other favorites
+  that highlight the best of Japanese cuisine. The laid-back setting makes it
+  ideal for casual meals, while accessibility features ensure a comfortable
+  experience for all guests. Additionally, options like free parking and a menu
+  that caters to different tastes add to its appeal for those seeking quality
+  sushi restaurants nearby.
+generative_summary: >-
+  Discover Ichi Sushi in Greensboro, NC$$$Ichi Sushi in Greensboro, NC, stands
+  out as a welcoming Japanese restaurant offering a variety of fresh sushi and
+  Asian dishes in a relaxed environment. This spot delights visitors with its
+  authentic flavors, including expertly prepared dim sum and other favorites
+  that highlight the best of Japanese cuisine. The laid-back setting makes it
+  ideal for casual meals, while accessibility features ensure a comfortable
+  experience for all guests. Additionally, options like free parking and a menu
+  that caters to different tastes add to its appeal for those seeking quality
+  sushi restaurants nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ9VXR9IscU4gRWmp6hNaghZw/reviews/ChdDSUhNMG9nS0VJQ0FnTURBNl82QXF3RRAB
@@ -332,6 +351,17 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN6aWVIaFlREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN6aWVIaFlREAE!2m1!1s0x88531c8bf4d155f5:0x9c85a0d6847a6a5a
+review_summary: >-
+  Insights from Recent Reviews$$$Folks visiting this spot often praise the fresh
+  and flavorful Asian dishes, making it a favorite for anyone craving top-rated
+  sushi in a welcoming atmosphere. Many highlight the attentive service and
+  reasonable prices that enhance the overall dining experience, with comments on
+  quick delivery of tasty meals like dim sum and rolls. It's commonly noted as
+  one of the best options for Japanese places near me, thanks to the variety of
+  Thai, Chinese, and Japanese flavors that keep diners coming back. While some
+  mention the cozy space, the general consensus leans positive, encouraging
+  newcomers to try it for a satisfying and affordable meal.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -364,7 +394,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

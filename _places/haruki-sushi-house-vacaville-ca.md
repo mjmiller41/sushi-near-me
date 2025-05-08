@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Haruki Sushi House"
+title: Haruki Sushi House
 permalink: /california/vacaville/haruki-sushi-house.html
 stateAbbr: CA
 stateName: California
 cityName: Vacaville
 seo:
-  name: "Haruki Sushi House"
-  type: Restaurant
+  type: restaurant
   links: http://harukisushihouse.com/
-description: "Haruki Sushi House serves delicious sushi in Vacaville, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJxSO_et8XhYARkutMG4xPdAE
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x808517df7abf23c5:0x1744f8c1b4ceb92!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:00 PM'
     - 'Saturday: 12:00 – 9:00 PM'
     - 'Sunday: 12:00 – 9:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 9:00 PM'
-    - 'Saturday: 12:00 – 9:00 PM'
-    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +238,226 @@ phone: (707) 514-7414
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.8'
-rating_count: 0
+rating_count: 130
 website: http://harukisushihouse.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Haruki Sushi House in Vacaville, CA$$$Haruki Sushi House in
+  Vacaville, CA, stands out as a welcoming spot for enjoying authentic Japanese
+  cuisine in a casual setting. This restaurant offers a variety of fresh sushi
+  rolls and other traditional dishes, complemented by happy hour specials, beer,
+  and wine options that make it ideal for relaxed meals. Its kid-friendly vibe
+  and accessible features, such as wheelchair-friendly entrances and seating,
+  enhance the overall experience for families and groups alike. With a focus on
+  quality ingredients and a clean, inviting atmosphere, it's a go-to choice
+  among sushi restaurants near me for those seeking flavorful Japanese places in
+  the area.
+generative_summary: >-
+  Discover Haruki Sushi House in Vacaville, CA$$$Haruki Sushi House in
+  Vacaville, CA, stands out as a welcoming spot for enjoying authentic Japanese
+  cuisine in a casual setting. This restaurant offers a variety of fresh sushi
+  rolls and other traditional dishes, complemented by happy hour specials, beer,
+  and wine options that make it ideal for relaxed meals. Its kid-friendly vibe
+  and accessible features, such as wheelchair-friendly entrances and seating,
+  enhance the overall experience for families and groups alike. With a focus on
+  quality ingredients and a clean, inviting atmosphere, it's a go-to choice
+  among sushi restaurants near me for those seeking flavorful Japanese places in
+  the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJxSO_et8XhYARkutMG4xPdAE/reviews/ChdDSUhNMG9nS0VJQ0FnTUNncDl1RTdBRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        Excellent experience! Most definitely matches the current high rating
+        for this place. Very good service, easy to read menu with lots of
+        selections, clean restaurant. Ordered a Volcano roll, 15 piece nigri,
+        and miso. Quality of the fish was fantastic! Very fresh and well
+        prepared. I've had a few bad experiences lately in other sushi
+        establishments, so this reset my expectations. Bill was $65, including
+        hot sake. Will be back!
+      languageCode: en
+    originalText:
+      text: >-
+        Excellent experience! Most definitely matches the current high rating
+        for this place. Very good service, easy to read menu with lots of
+        selections, clean restaurant. Ordered a Volcano roll, 15 piece nigri,
+        and miso. Quality of the fish was fantastic! Very fresh and well
+        prepared. I've had a few bad experiences lately in other sushi
+        establishments, so this reset my expectations. Bill was $65, including
+        hot sake. Will be back!
+      languageCode: en
+    authorAttribution:
+      displayName: Mark Brush
+      uri: https://www.google.com/maps/contrib/118190960492960744007/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUQDzDs-1DUczGbTYbOZK28_YksWqYicQb5fFja1yRvgr8ZBPDD=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-02-21T08:58:05.035861Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNncDl1RTdBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNncDl1RTdBRRAB!2m1!1s0x808517df7abf23c5:0x1744f8c1b4ceb92
+  - name: >-
+      places/ChIJxSO_et8XhYARkutMG4xPdAE/reviews/ChdDSUhNMG9nS0VJQ0FnTUNRMmFtLXpRRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Very good first time visit.  I got the Hawaii and Amazon rolls. 
+        Delicious and fresh!  Highly recommend.
+      languageCode: en
+    originalText:
+      text: >-
+        Very good first time visit.  I got the Hawaii and Amazon rolls. 
+        Delicious and fresh!  Highly recommend.
+      languageCode: en
+    authorAttribution:
+      displayName: Jayson Sheffield
+      uri: https://www.google.com/maps/contrib/107006633630096604631/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjW9Wn9Mjjl_40ZohqWPd9Veegi8bj_IvNBmWQZ_Nqxsq6SUJqY=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-03-05T22:01:51.525227Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNRMmFtLXpRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNRMmFtLXpRRRAB!2m1!1s0x808517df7abf23c5:0x1744f8c1b4ceb92
+  - name: >-
+      places/ChIJxSO_et8XhYARkutMG4xPdAE/reviews/ChZDSUhNMG9nS0VJQ0FnSURMc0lYOVpREAE
+    relativePublishTimeDescription: 10 months ago
+    rating: 5
+    text:
+      text: >-
+        This place was a hidden Gem! One of the best sushies I had in
+        California. Amazing! Very fresh, very kind staff, prices were good too
+        and just the taste is out of this world good. I highly recommend going
+        here!
+      languageCode: en
+    originalText:
+      text: >-
+        This place was a hidden Gem! One of the best sushies I had in
+        California. Amazing! Very fresh, very kind staff, prices were good too
+        and just the taste is out of this world good. I highly recommend going
+        here!
+      languageCode: en
+    authorAttribution:
+      displayName: Arian Bn
+      uri: https://www.google.com/maps/contrib/117357253831811148183/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUcVLv2O7ItDp9VDSIReYerzWqtxIfh-fss9P1mb6en0J2UNVfoVw=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-06-24T20:44:06.678457Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURMc0lYOVpREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURMc0lYOVpREAE!2m1!1s0x808517df7abf23c5:0x1744f8c1b4ceb92
+  - name: >-
+      places/ChIJxSO_et8XhYARkutMG4xPdAE/reviews/ChdDSUhNMG9nS0VJQ0FnSUR6X1BISHJRRRAB
+    relativePublishTimeDescription: 8 months ago
+    rating: 5
+    text:
+      text: >-
+        Haruki's has become our go to sushi place since moving to the Vacaville
+        area.  We have tried quite a few places in search of "our sushi spot". 
+        The sushi is fresh, the flavors are very good, and the service is quick
+        and good.  This visit we got to sit at the sushi bar.  The sushi chef
+        was very kind and fun to watch.
+
+
+        My only complaints about this spot is it's too small!
+      languageCode: en
+    originalText:
+      text: >-
+        Haruki's has become our go to sushi place since moving to the Vacaville
+        area.  We have tried quite a few places in search of "our sushi spot". 
+        The sushi is fresh, the flavors are very good, and the service is quick
+        and good.  This visit we got to sit at the sushi bar.  The sushi chef
+        was very kind and fun to watch.
+
+
+        My only complaints about this spot is it's too small!
+      languageCode: en
+    authorAttribution:
+      displayName: Theresa Macias
+      uri: https://www.google.com/maps/contrib/117867600817154682125/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjX2NFvvS80Y5MVpIP5ySfCe62csDCQz_VQASCLh2_goM-uaIVD3nQ=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-08-09T15:45:45.257266Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR6X1BISHJRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR6X1BISHJRRRAB!2m1!1s0x808517df7abf23c5:0x1744f8c1b4ceb92
+  - name: >-
+      places/ChIJxSO_et8XhYARkutMG4xPdAE/reviews/ChdDSUhNMG9nS0VJQ0FnSUNaaTVDVXJBRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        Prime sushi spot in town, just more for quick cafe eating then long
+        dinners. The rolls and presentation had me surprised and my fam loved
+        it. Price is par with everywhere else. Quality and taste were flat out
+        perfect. Even a few new flavors were had. Try it you wont regret it.
+      languageCode: en
+    originalText:
+      text: >-
+        Prime sushi spot in town, just more for quick cafe eating then long
+        dinners. The rolls and presentation had me surprised and my fam loved
+        it. Price is par with everywhere else. Quality and taste were flat out
+        perfect. Even a few new flavors were had. Try it you wont regret it.
+      languageCode: en
+    authorAttribution:
+      displayName: Jensen Roerden
+      uri: https://www.google.com/maps/contrib/106778323858095916966/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUapNkl0CAH_tYnm7gsusuJtga6DpHVellz3B7CzZcGIuJisxsh9w=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2023-09-18T00:18:03.281533Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNaaTVDVXJBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNaaTVDVXJBRRAB!2m1!1s0x808517df7abf23c5:0x1744f8c1b4ceb92
+review_summary: >-
+  Insights from Customer Reviews$$$Visitors to this sushi spot often rave about
+  the incredibly fresh and delicious rolls, making it a standout option for
+  anyone craving top-rated sushi nearby. Many highlight the quick, friendly
+  service and wide selection of dishes that keep things exciting without
+  breaking the bank, creating a laid-back vibe perfect for casual dining. Folks
+  appreciate the clean environment and reasonable prices, which add to the
+  overall enjoyment without any major drawbacks. Overall, it's clear that this
+  place delivers a solid experience that leaves people satisfied and eager to
+  return for more tasty Japanese fare.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: true
+live_music: false
 menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
 serves_breakfast: null
-serves_brunch: null
+serves_brunch: false
 serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_coffee: true
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "JJ's Sushi"
+title: JJ's Sushi
 permalink: /nevada/sparks/jj-s-sushi.html
 stateAbbr: NV
 stateName: Nevada
 cityName: Sparks
 seo:
-  name: "JJ's Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://jjsushisparks.com/
-description: "JJ's Sushi serves delicious sushi in Sparks, Nevada. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJp2wDwqw-mYARgjhyOxuFDQo
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80993eacc2036ca7:0xa0d851b3b723882!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:00 PM'
     - 'Tuesday: Closed'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:00 PM'
     - 'Saturday: 11:00 AM – 9:00 PM'
     - 'Sunday: 11:00 AM – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:00 PM'
-    - 'Tuesday: Closed'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 9:00 PM'
-    - 'Saturday: 11:00 AM – 9:00 PM'
-    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +238,349 @@ phone: (775) 359-0888
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.5'
-rating_count: 0
+rating_count: 748
 website: http://jjsushisparks.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover JJ's Sushi in Sparks, NV$$$JJ's Sushi in Sparks, NV, stands out as a
+  welcoming spot for those seeking authentic Japanese flavors and
+  all-you-can-eat options in a relaxed setting. This sushi restaurant offers a
+  variety of fresh rolls and small plates, perfect for casual dining or
+  exploring top-rated Japanese cuisine nearby. With its comfortable atmosphere
+  and accessible features like wheelchair-friendly seating, it caters to a wide
+  range of diners looking for quality meals without the fuss. Operating daily
+  with generous hours, it's an ideal choice for anyone craving sushi close to
+  home, blending affordability with a satisfying array of dishes. Whether you're
+  in the mood for classic rolls or inventive combinations, this local gem
+  delivers a memorable experience that highlights fresh ingredients and
+  thoughtful preparation.
+generative_summary: >-
+  Discover JJ's Sushi in Sparks, NV$$$JJ's Sushi in Sparks, NV, stands out as a
+  welcoming spot for those seeking authentic Japanese flavors and
+  all-you-can-eat options in a relaxed setting. This sushi restaurant offers a
+  variety of fresh rolls and small plates, perfect for casual dining or
+  exploring top-rated Japanese cuisine nearby. With its comfortable atmosphere
+  and accessible features like wheelchair-friendly seating, it caters to a wide
+  range of diners looking for quality meals without the fuss. Operating daily
+  with generous hours, it's an ideal choice for anyone craving sushi close to
+  home, blending affordability with a satisfying array of dishes. Whether you're
+  in the mood for classic rolls or inventive combinations, this local gem
+  delivers a memorable experience that highlights fresh ingredients and
+  thoughtful preparation.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJp2wDwqw-mYARgjhyOxuFDQo/reviews/ChZDSUhNMG9nS0VJQ0FnTURJMGFISlF3EAE
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 3
+    text:
+      text: >-
+        Walked in on a Friday evening for dinner since I have been craving sushi
+        and wanted to go somewhere close. They were really busy, but our table
+        of 2 was seated quickly. The restaurant was small, but there is an
+        option for table or bar seating. We got a table seat and opted for all
+        you can eat. The price was $32.99 for dinner.
+
+
+        For appetizers, we got mussels, seaweed salad, miso soup, and gyoza. The
+        seaweed salad, gyoza, and miso soup was good and standard across most
+        sushi places. The mussels were really good, but they limit two orders
+        per person.
+
+
+        We usually go for nigiri and a few long rolls. The fish was fresh, but
+        the ratio for fish to rice in the nigiri was way off. There is too much
+        rice for the amount of fish. If they removed 1/3 of the rice for each
+        piece, it would have been perfect. I see they might be adding more rice
+        to get you to feel full faster and they can save on the fish. The rolls
+        we got were JJ, rainbow, and black tiger. Not very memorable to me.
+
+
+        They give you the typical wasabi and ginger. The wasabi was spicy which
+        I love! There were only two pieces of ginger and it was a good palate
+        cleanser so we asked for more.
+
+
+        The service here is great. All the servers helped each other and on top
+        of collecting dirty plates since the tables are very small. They provide
+        you with the papers to mark your order and are quick to bring you your
+        appetizers.
+
+
+        This was a good experience, but the ratio of rice and fish in the nigiri
+        turned me off and I do not like how they limit orders on the popular
+        appetizers especially for the price. They can accommodate larger
+        parties, but they only have 1 table for groups larger than 4. Hopefully
+        they will adjust the ratio of rice to fish in the nigiri and I will come
+        back in the future.
+      languageCode: en
+    originalText:
+      text: >-
+        Walked in on a Friday evening for dinner since I have been craving sushi
+        and wanted to go somewhere close. They were really busy, but our table
+        of 2 was seated quickly. The restaurant was small, but there is an
+        option for table or bar seating. We got a table seat and opted for all
+        you can eat. The price was $32.99 for dinner.
+
+
+        For appetizers, we got mussels, seaweed salad, miso soup, and gyoza. The
+        seaweed salad, gyoza, and miso soup was good and standard across most
+        sushi places. The mussels were really good, but they limit two orders
+        per person.
+
+
+        We usually go for nigiri and a few long rolls. The fish was fresh, but
+        the ratio for fish to rice in the nigiri was way off. There is too much
+        rice for the amount of fish. If they removed 1/3 of the rice for each
+        piece, it would have been perfect. I see they might be adding more rice
+        to get you to feel full faster and they can save on the fish. The rolls
+        we got were JJ, rainbow, and black tiger. Not very memorable to me.
+
+
+        They give you the typical wasabi and ginger. The wasabi was spicy which
+        I love! There were only two pieces of ginger and it was a good palate
+        cleanser so we asked for more.
+
+
+        The service here is great. All the servers helped each other and on top
+        of collecting dirty plates since the tables are very small. They provide
+        you with the papers to mark your order and are quick to bring you your
+        appetizers.
+
+
+        This was a good experience, but the ratio of rice and fish in the nigiri
+        turned me off and I do not like how they limit orders on the popular
+        appetizers especially for the price. They can accommodate larger
+        parties, but they only have 1 table for groups larger than 4. Hopefully
+        they will adjust the ratio of rice to fish in the nigiri and I will come
+        back in the future.
+      languageCode: en
+    authorAttribution:
+      displayName: Xue Chen
+      uri: https://www.google.com/maps/contrib/107467840754860294499/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWsyqfZtWc_vHYPRZapFc7rfTd2AaZ4KF8HPhrgIte4WgY01nbw=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-10T19:03:37.501337Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURJMGFISlF3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJMGFISlF3EAE!2m1!1s0x80993eacc2036ca7:0xa0d851b3b723882
+  - name: >-
+      places/ChIJp2wDwqw-mYARgjhyOxuFDQo/reviews/ChZDSUhNMG9nS0VJQ0FnSURfNV9HekhBEAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        JJ’s Sushi is an absolute gem! From the moment we walked in, the
+        experience was exceptional. The owner was incredibly personable, taking
+        the time to check on us and ensure everything was perfect—it’s rare to
+        find that level of care. The restaurant itself was spotless, with a warm
+        and inviting atmosphere that made us feel right at home.
+
+
+        What really stood out was how accommodating they were. One of my friends
+        is gluten-free, and the owner was so knowledgeable and went above and
+        beyond to ensure they were taken care of, offering safe and delicious
+        options without any compromise in flavor or quality.
+
+
+        And the food? Absolutely amazing! Every roll was fresh, flavorful, and
+        beautifully presented. You can tell they put thought and passion into
+        everything they serve. This is hands down some of the best sushi I’ve
+        had. If you’re looking for a clean, friendly spot with outstanding food
+        and exceptional service, JJ’s Sushi is it. Highly recommend!
+      languageCode: en
+    originalText:
+      text: >-
+        JJ’s Sushi is an absolute gem! From the moment we walked in, the
+        experience was exceptional. The owner was incredibly personable, taking
+        the time to check on us and ensure everything was perfect—it’s rare to
+        find that level of care. The restaurant itself was spotless, with a warm
+        and inviting atmosphere that made us feel right at home.
+
+
+        What really stood out was how accommodating they were. One of my friends
+        is gluten-free, and the owner was so knowledgeable and went above and
+        beyond to ensure they were taken care of, offering safe and delicious
+        options without any compromise in flavor or quality.
+
+
+        And the food? Absolutely amazing! Every roll was fresh, flavorful, and
+        beautifully presented. You can tell they put thought and passion into
+        everything they serve. This is hands down some of the best sushi I’ve
+        had. If you’re looking for a clean, friendly spot with outstanding food
+        and exceptional service, JJ’s Sushi is it. Highly recommend!
+      languageCode: en
+    authorAttribution:
+      displayName: Alexx Echevarria
+      uri: https://www.google.com/maps/contrib/106488170727703037780/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUqtsQukADBjghz6pToVKHUytz4cmwH5Zi982kn5zJt_4zxX8n_vQ=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-01-27T20:54:44.387214Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURfNV9HekhBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURfNV9HekhBEAE!2m1!1s0x80993eacc2036ca7:0xa0d851b3b723882
+  - name: >-
+      places/ChIJp2wDwqw-mYARgjhyOxuFDQo/reviews/ChdDSUhNMG9nS0VJQ0FnSUNobWZLOXpRRRAB
+    relativePublishTimeDescription: 2 years ago
+    rating: 5
+    text:
+      text: >-
+        This was our first time at JJs, Suffice to say it won't be our last. 
+        The waitresses were very attentive and cordial. The chefs were fast with
+        orders.  The food not only looked good it tasted even better. The Unagi
+        and Salmon were both fresh and tasteful.  We had three rolls as well,
+        everything just tasted good. My wife and I both commented on the rice
+        being cooked perfectly and fresh.  We are by no means rice aficionados
+        we just have three rice cookers and lived in Japan for a good amount of
+        time. All that aside, when you hear customers come in and are greeted by
+        name, it says a lot for the atmosphere of the restaurant.  It was a
+        pleasure walking slowly out with a thank you come again from the staff. 
+        Love it.
+      languageCode: en
+    originalText:
+      text: >-
+        This was our first time at JJs, Suffice to say it won't be our last. 
+        The waitresses were very attentive and cordial. The chefs were fast with
+        orders.  The food not only looked good it tasted even better. The Unagi
+        and Salmon were both fresh and tasteful.  We had three rolls as well,
+        everything just tasted good. My wife and I both commented on the rice
+        being cooked perfectly and fresh.  We are by no means rice aficionados
+        we just have three rice cookers and lived in Japan for a good amount of
+        time. All that aside, when you hear customers come in and are greeted by
+        name, it says a lot for the atmosphere of the restaurant.  It was a
+        pleasure walking slowly out with a thank you come again from the staff. 
+        Love it.
+      languageCode: en
+    authorAttribution:
+      displayName: jeffrey armbruster
+      uri: https://www.google.com/maps/contrib/114678026458241976353/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJ75XLpqJTQtG3Yc3-1TlH3f3KSdwp-lCJ4leD7dxgQlH-zMQ=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2023-02-16T18:39:51.103740Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNobWZLOXpRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNobWZLOXpRRRAB!2m1!1s0x80993eacc2036ca7:0xa0d851b3b723882
+  - name: >-
+      places/ChIJp2wDwqw-mYARgjhyOxuFDQo/reviews/ChZDSUhNMG9nS0VJQ0FnTURRMktpeUNnEAE
+    relativePublishTimeDescription: a month ago
+    rating: 1
+    text:
+      text: >-
+        Very disappointed in the fish to rice ratio, massive amounts of rice
+        compared to fish... I read one review that said, "if you like rice, you
+        will love this place", that review couldn't be more spot on. food was
+        just average at best, atmosphere decent, service good, but when we asked
+        the guy at the bar making the sushi, if he could put just a little less
+        rice, he said it's a set amount... He was making it himself, so it was
+        at his discretion... Again, the amount of rice to fish ratio was almost
+        comical in nature, mountain of rice for every piece of nigiri, we won't
+        be going back...
+      languageCode: en
+    originalText:
+      text: >-
+        Very disappointed in the fish to rice ratio, massive amounts of rice
+        compared to fish... I read one review that said, "if you like rice, you
+        will love this place", that review couldn't be more spot on. food was
+        just average at best, atmosphere decent, service good, but when we asked
+        the guy at the bar making the sushi, if he could put just a little less
+        rice, he said it's a set amount... He was making it himself, so it was
+        at his discretion... Again, the amount of rice to fish ratio was almost
+        comical in nature, mountain of rice for every piece of nigiri, we won't
+        be going back...
+      languageCode: en
+    authorAttribution:
+      displayName: God Bless Everyone
+      uri: https://www.google.com/maps/contrib/102115780683399340178/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUhZMY8C-7bZgtgbMPpJXr5LGp4IYA-38k9kblsDXEH0ocQXNT-IA=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-03-08T19:49:41.354518Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURRMktpeUNnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURRMktpeUNnEAE!2m1!1s0x80993eacc2036ca7:0xa0d851b3b723882
+  - name: >-
+      places/ChIJp2wDwqw-mYARgjhyOxuFDQo/reviews/ChdDSUhNMG9nS0VJQ0FnSUNOb282Z2lBRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 3
+    text:
+      text: >-
+        The sushi had a lot of rice. I loved the environment and the sushi
+        chef's. The servers were on point. They kept checking in on us
+        throughout the night. The mussles we're missing the shell and juice.
+        Miso soup was nice and hot. I could tell it was freshly made. The nigiri
+        had way to much rice but it was nice they gave you four pieces per
+        order. We loved the war roll. Everything else was simple. Small menu.
+        Thank you for the experience.
+      languageCode: en
+    originalText:
+      text: >-
+        The sushi had a lot of rice. I loved the environment and the sushi
+        chef's. The servers were on point. They kept checking in on us
+        throughout the night. The mussles we're missing the shell and juice.
+        Miso soup was nice and hot. I could tell it was freshly made. The nigiri
+        had way to much rice but it was nice they gave you four pieces per
+        order. We loved the war roll. Everything else was simple. Small menu.
+        Thank you for the experience.
+      languageCode: en
+    authorAttribution:
+      displayName: ryan ruddell
+      uri: https://www.google.com/maps/contrib/103888922484628775622/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVZcVMq6gDR9rUUvnpmsdIBKUff24cicB1P2l6LyGiJMvtXQ9Y8Bw=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-01-13T04:37:28.482146Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNOb282Z2lBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNOb282Z2lBRRAB!2m1!1s0x80993eacc2036ca7:0xa0d851b3b723882
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this sushi spot often praise the fresh
+  and flavorful rolls, making it a solid pick for anyone hunting for reliable
+  Japanese options in the area. While some mention that portions of rice in the
+  nigiri could be lighter to better balance the fish, the overall value of the
+  all-you-can-eat menu keeps things enjoyable and worth the visit. Service
+  stands out as friendly and efficient, with staff quickly handling orders and
+  creating a welcoming vibe for groups or solo diners. Folks appreciate the
+  reasonable prices and variety of dishes, turning it into a go-to choice for
+  casual meals that satisfy sushi cravings. All in all, it's a spot that
+  delivers good vibes and tasty bites, encouraging repeat trips for those who
+  love exploring local favorites.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  paidStreetParking: false
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
+delivery: false
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
 menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
 serves_cocktails: null
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

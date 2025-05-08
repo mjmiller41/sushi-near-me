@@ -5,4 +5,5 @@ permalink: /ohio/youngstown/
 stateAbbr: OH
 stateName: Ohio
 cityName: Youngstown
+
 ---

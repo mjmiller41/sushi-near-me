@@ -5,4 +5,5 @@ permalink: /california/kings-beach/
 stateAbbr: CA
 stateName: California
 cityName: Kings Beach
+
 ---

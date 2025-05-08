@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "MoMo Sushi"
+title: MoMo Sushi
 permalink: /new-york/new-york/momo-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "MoMo Sushi"
-  type: Restaurant
-  links: null
-description: "MoMo Sushi serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.momonyc.com/
 place_id: ChIJQZNjl6FZwokRkvYLX1eD_UQ
 photos:
   - name: >-
@@ -168,8 +166,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c259a197639341:0x44fd83575f0bf692!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 13
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 13
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:30 AM – 9:30 PM'
+    - 'Tuesday: 11:30 AM – 9:30 PM'
+    - 'Wednesday: 11:30 AM – 9:30 PM'
+    - 'Thursday: 11:30 AM – 9:30 PM'
+    - 'Friday: 11:30 AM – 9:30 PM'
+    - 'Saturday: 1:00 – 9:30 PM'
+    - 'Sunday: 1:00 – 9:30 PM'
+  nextCloseTime: '2025-05-04T01:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -177,13 +240,53 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (212) 677-7001
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.3'
+rating_count: 386
+website: http://www.momonyc.com/
+description: >-
+  Discover MoMo Sushi in New York, NY$$$MoMo Sushi in New York, NY, offers a
+  relaxed and welcoming atmosphere for enjoying authentic Japanese cuisine,
+  highlighted by fresh sushi rolls and classic staples that appeal to sushi
+  enthusiasts. This spot stands out with its selection of beverages, including
+  beer, wine, and sake, making it a great choice for casual dinners or quick
+  meals in a vibrant urban setting. The restaurant's accessibility features,
+  such as wheelchair-friendly entrances, ensure a comfortable experience for all
+  visitors seeking sushi places near me. With moderate pricing and convenient
+  hours, it's an ideal destination for those exploring top-rated sushi
+  restaurants in the heart of the city. Whether you're craving innovative
+  flavors or traditional dishes, MoMo Sushi delivers a satisfying blend of
+  quality and affordability.
+generative_summary: >-
+  Discover MoMo Sushi in New York, NY$$$MoMo Sushi in New York, NY, offers a
+  relaxed and welcoming atmosphere for enjoying authentic Japanese cuisine,
+  highlighted by fresh sushi rolls and classic staples that appeal to sushi
+  enthusiasts. This spot stands out with its selection of beverages, including
+  beer, wine, and sake, making it a great choice for casual dinners or quick
+  meals in a vibrant urban setting. The restaurant's accessibility features,
+  such as wheelchair-friendly entrances, ensure a comfortable experience for all
+  visitors seeking sushi places near me. With moderate pricing and convenient
+  hours, it's an ideal destination for those exploring top-rated sushi
+  restaurants in the heart of the city. Whether you're craving innovative
+  flavors or traditional dishes, MoMo Sushi delivers a satisfying blend of
+  quality and affordability.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Customer Reviews$$$Feedback from diners at this sushi spot
+  generally highlights the fresh, flavorful rolls and reliable service that keep
+  people coming back for more. Many appreciate the good value for the price,
+  noting that the portions are generous and the overall vibe feels approachable
+  for both solo diners and groups. While a few mentions touch on occasional wait
+  times during peak hours, the majority emphasize the consistent taste and
+  variety that make it a standout among Japanese places near me. Overall, the
+  strong 4.3-star rating reflects a positive experience, with patrons often
+  recommending it for anyone searching for best sushi near me. In a casual tone,
+  it's clear that this location hits the mark for those who love sushi, offering
+  an honest mix of highlights that encourage repeat visits.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -209,7 +312,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

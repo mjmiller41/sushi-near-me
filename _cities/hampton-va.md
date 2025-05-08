@@ -5,4 +5,5 @@ permalink: /virginia/hampton/
 stateAbbr: VA
 stateName: Virginia
 cityName: Hampton
+
 ---

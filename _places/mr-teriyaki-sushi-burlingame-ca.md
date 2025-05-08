@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Mr Teriyaki Sushi"
+title: Mr Teriyaki Sushi
 permalink: /california/burlingame/mr-teriyaki-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Burlingame
 seo:
-  name: "Mr Teriyaki Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.mrteriyakisushi.com/
-description: "Mr Teriyaki Sushi serves delicious sushi in Burlingame, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJO0YAtNJ3j4ARqmqR_BuLb4U
 photos:
   - name: >-
@@ -170,7 +168,97 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x808f77d2b400463b:0x856f8b1bfc916aaa!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 20
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 20
+        minute: 30
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 20
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 2:30 PM, 5:00 – 8:30 PM'
     - 'Tuesday: 11:00 AM – 2:30 PM, 5:00 – 8:30 PM'
     - 'Wednesday: 11:00 AM – 2:30 PM, 5:00 – 8:30 PM'
@@ -178,28 +266,205 @@ opening_hours:
     - 'Friday: 11:00 AM – 2:30 PM, 5:00 – 8:30 PM'
     - 'Saturday: 5:00 – 8:30 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:00 AM – 2:30 PM, 5:00 – 8:30 PM'
-    - 'Tuesday: 11:00 AM – 2:30 PM, 5:00 – 8:30 PM'
-    - 'Wednesday: 11:00 AM – 2:30 PM, 5:00 – 8:30 PM'
-    - 'Thursday: 11:00 AM – 2:30 PM, 5:00 – 8:30 PM'
-    - 'Friday: 11:00 AM – 2:30 PM, 5:00 – 8:30 PM'
-    - 'Saturday: 5:00 – 8:30 PM'
-    - 'Sunday: Closed'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: false
+    periods:
+      - open:
+          day: 1
+          hour: 11
+          minute: 0
+        close:
+          day: 1
+          hour: 15
+          minute: 0
+      - open:
+          day: 1
+          hour: 17
+          minute: 0
+        close:
+          day: 1
+          hour: 20
+          minute: 0
+      - open:
+          day: 2
+          hour: 11
+          minute: 0
+        close:
+          day: 2
+          hour: 15
+          minute: 0
+      - open:
+          day: 2
+          hour: 17
+          minute: 0
+        close:
+          day: 2
+          hour: 20
+          minute: 0
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 15
+          minute: 0
+      - open:
+          day: 3
+          hour: 17
+          minute: 0
+        close:
+          day: 3
+          hour: 20
+          minute: 0
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 15
+          minute: 0
+      - open:
+          day: 4
+          hour: 17
+          minute: 0
+        close:
+          day: 4
+          hour: 20
+          minute: 0
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 15
+          minute: 0
+      - open:
+          day: 5
+          hour: 17
+          minute: 0
+        close:
+          day: 5
+          hour: 20
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 11:00 AM – 3:00 PM, 5:00 – 8:00 PM'
+      - 'Tuesday: 11:00 AM – 3:00 PM, 5:00 – 8:00 PM'
+      - 'Wednesday: 11:00 AM – 3:00 PM, 5:00 – 8:00 PM'
+      - 'Thursday: 11:00 AM – 3:00 PM, 5:00 – 8:00 PM'
+      - 'Friday: 11:00 AM – 3:00 PM, 5:00 – 8:00 PM'
+      - 'Saturday: Closed'
+      - 'Sunday: Closed'
+    secondaryHoursType: TAKEOUT
+    nextOpenTime: '2025-05-05T18:00:00Z'
+  - openNow: false
+    periods:
+      - open:
+          day: 1
+          hour: 17
+          minute: 30
+        close:
+          day: 1
+          hour: 20
+          minute: 30
+      - open:
+          day: 2
+          hour: 17
+          minute: 30
+        close:
+          day: 2
+          hour: 20
+          minute: 30
+      - open:
+          day: 3
+          hour: 17
+          minute: 30
+        close:
+          day: 3
+          hour: 20
+          minute: 30
+      - open:
+          day: 4
+          hour: 17
+          minute: 30
+        close:
+          day: 4
+          hour: 20
+          minute: 30
+      - open:
+          day: 5
+          hour: 17
+          minute: 30
+        close:
+          day: 5
+          hour: 20
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 5:30 – 8:30 PM'
+      - 'Tuesday: 5:30 – 8:30 PM'
+      - 'Wednesday: 5:30 – 8:30 PM'
+      - 'Thursday: 5:30 – 8:30 PM'
+      - 'Friday: 5:30 – 8:30 PM'
+      - 'Saturday: Closed'
+      - 'Sunday: Closed'
+    secondaryHoursType: DELIVERY
+    nextOpenTime: '2025-05-06T00:30:00Z'
 phone: (650) 697-8450
 price_level: PRICE_LEVEL_INEXPENSIVE
 price_range: null
 rating: '4.5'
-rating_count: 0
+rating_count: 548
 website: https://www.mrteriyakisushi.com/
+description: >-
+  Discover Mr Teriyaki Sushi in Burlingame, CA$$$Mr Teriyaki Sushi in
+  Burlingame, CA, stands out as a welcoming spot for fresh Japanese flavors,
+  blending cozy ambiance with a menu full of sushi and teriyaki options that
+  appeal to locals seeking authentic tastes. This restaurant emphasizes quick
+  service and accessibility, making it easy for everyone to enjoy meals in a
+  comfortable setting with features like wheelchair-accessible entrances and
+  seating. Operating primarily in the evenings and lunch hours from Monday
+  through Friday, it caters to those hunting for convenient sushi restaurants
+  near me, with a focus on quality dishes that highlight traditional
+  ingredients. The spot's unpretentious vibe and efficient operations make it a
+  go-to choice for anyone exploring top-rated Japanese places in the area,
+  ensuring a satisfying experience without the fuss. Whether you're in the mood
+  for a quick bite or a relaxed dinner, this location delivers on both flavor
+  and convenience in the heart of Burlingame.
+generative_summary: >-
+  Discover Mr Teriyaki Sushi in Burlingame, CA$$$Mr Teriyaki Sushi in
+  Burlingame, CA, stands out as a welcoming spot for fresh Japanese flavors,
+  blending cozy ambiance with a menu full of sushi and teriyaki options that
+  appeal to locals seeking authentic tastes. This restaurant emphasizes quick
+  service and accessibility, making it easy for everyone to enjoy meals in a
+  comfortable setting with features like wheelchair-accessible entrances and
+  seating. Operating primarily in the evenings and lunch hours from Monday
+  through Friday, it caters to those hunting for convenient sushi restaurants
+  near me, with a focus on quality dishes that highlight traditional
+  ingredients. The spot's unpretentious vibe and efficient operations make it a
+  go-to choice for anyone exploring top-rated Japanese places in the area,
+  ensuring a satisfying experience without the fuss. Whether you're in the mood
+  for a quick bite or a relaxed dinner, this location delivers on both flavor
+  and convenience in the heart of Burlingame.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About This Sushi Spot$$$Visitors to this popular
+  sushi restaurant often praise the fresh ingredients and flavorful dishes,
+  noting that the teriyaki and sushi rolls stand out as reliable favorites for a
+  satisfying meal. Many appreciate the efficient service and welcoming
+  atmosphere, which make it a solid pick for casual outings or quick takeout,
+  even if the hours can be a bit limited on weekends. While some mention
+  portions could be more generous, the overall consensus leans positive, with
+  folks frequently highlighting the value for an affordable Japanese dining
+  experience. If you're searching for sushi close to me that's worth the trip,
+  feedback suggests this place hits the mark with its consistent quality and
+  friendly vibe. All in all, the high ratings reflect a spot that's genuinely
+  enjoyed by those craving top sushi options, making it a trustworthy choice for
+  your next visit.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +490,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

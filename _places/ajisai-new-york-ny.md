@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ajisai"
+title: Ajisai
 permalink: /new-york/new-york/ajisai.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "Ajisai"
-  type: Restaurant
+  type: restaurant
   links: https://www.ajisaionline.com/contact-us/
-description: "Sleek, modern space offering Pan-Asian plates, innovative Japanese sushi rolls & sake. Ajisai serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ0__KQe9YwokRtyLRmk1E9nA
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 0
 website: https://www.ajisaionline.com/contact-us/
+description: >-
+  Explore Ajisai in New York, NY$$$Ajisai in New York, NY, stands out as a
+  modern Japanese restaurant offering a blend of innovative sushi rolls and
+  fresh seafood dishes in a relaxed atmosphere. The spot features a variety of
+  Pan-Asian inspired plates and sake selections, making it an ideal choice for
+  those seeking authentic flavors with a contemporary twist. Drawing from its
+  casual setting, visitors can enjoy well-crafted donburi and other specialties
+  that highlight quality ingredients and thoughtful presentations. Whether
+  you're looking for sushi options close to you or exploring top Japanese places
+  in the city, this location delivers a welcoming vibe with accessible seating
+  and a focus on fresh, flavorful meals.
+generative_summary: >-
+  Explore Ajisai in New York, NY$$$Ajisai in New York, NY, stands out as a
+  modern Japanese restaurant offering a blend of innovative sushi rolls and
+  fresh seafood dishes in a relaxed atmosphere. The spot features a variety of
+  Pan-Asian inspired plates and sake selections, making it an ideal choice for
+  those seeking authentic flavors with a contemporary twist. Drawing from its
+  casual setting, visitors can enjoy well-crafted donburi and other specialties
+  that highlight quality ingredients and thoughtful presentations. Whether
+  you're looking for sushi options close to you or exploring top Japanese places
+  in the city, this location delivers a welcoming vibe with accessible seating
+  and a focus on fresh, flavorful meals.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ0__KQe9YwokRtyLRmk1E9nA/reviews/ChdDSUhNMG9nS0VJQ0FnSUNmclBIOHBnRRAB
@@ -452,6 +473,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNfbGN2ZWJBEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNfbGN2ZWJBEAE!2m1!1s0x89c258ef41caffd3:0x70f6444d9ad122b7
+review_summary: >-
+  Feedback on the Experience$$$Folks often praise Ajisai for its tasty sushi and
+  generous portions that make it a solid pick for anyone craving fresh rolls
+  nearby. Many appreciate the quick service and variety of drinks, like unique
+  wines and soju, which pair perfectly with the flavorful appetizers and mains.
+  While some mention that lunch specials might feel a bit lighter on
+  ingredients, the overall vibe remains positive with highlights on the
+  restaurant's friendly staff and speedy delivery of hot, satisfying dishes.
+  It's frequently recommended as a go-to spot for groups or solo diners hunting
+  for reliable Japanese cuisine, keeping things upbeat without overlooking room
+  for improvement. If you're on the hunt for best sushi restaurants around, this
+  place tends to leave visitors feeling pleased with the value and taste.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options:
   acceptsCreditCards: true
@@ -481,8 +515,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Sleek, modern space offering Pan-Asian plates, innovative Japanese sushi rolls
   & sake.
 

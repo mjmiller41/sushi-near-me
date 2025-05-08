@@ -5,4 +5,5 @@ permalink: /california/fullerton/
 stateAbbr: CA
 stateName: California
 cityName: Fullerton
+
 ---

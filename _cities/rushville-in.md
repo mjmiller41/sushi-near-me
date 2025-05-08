@@ -5,4 +5,5 @@ permalink: /indiana/rushville/
 stateAbbr: IN
 stateName: Indiana
 cityName: Rushville
+
 ---

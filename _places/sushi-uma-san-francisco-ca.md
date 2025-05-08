@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Uma"
+title: Sushi Uma
 permalink: /california/san-francisco/sushi-uma.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
 seo:
-  name: "Sushi Uma"
-  type: Restaurant
+  type: restaurant
   links: https://www.thesushiuma.com/
-description: "Sushi Uma serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ4ShgGXCHhYAR1UMjouhlWdw
 photos:
   - name: >-
@@ -183,6 +181,33 @@ price_range: $20 &ndash; $30
 rating: '3.7'
 rating_count: 0
 website: https://www.thesushiuma.com/
+description: >-
+  Explore Sushi Uma in San Francisco$$$Sushi Uma in San Francisco, CA, stands
+  out as a casual Japanese restaurant offering a delightful array of fresh sushi
+  and traditional entrees, perfect for anyone seeking top-rated sushi
+  experiences in the city. This spot combines a welcoming atmosphere with a menu
+  that includes flavorful rolls, beer, and wine selections, making it an ideal
+  choice for casual dining or a special night out. Accessibility features like
+  wheelchair-friendly entrances enhance its appeal for all visitors, ensuring
+  everyone can enjoy the vibrant flavors on offer. Photos from the location
+  highlight the beautifully presented dishes, which reflect a commitment to
+  quality ingredients and creative presentations. Whether you're exploring sushi
+  restaurants near you or looking for Japanese places in San Francisco, Sushi
+  Uma delivers a satisfying blend of authenticity and modern flair.
+generative_summary: >-
+  Explore Sushi Uma in San Francisco$$$Sushi Uma in San Francisco, CA, stands
+  out as a casual Japanese restaurant offering a delightful array of fresh sushi
+  and traditional entrees, perfect for anyone seeking top-rated sushi
+  experiences in the city. This spot combines a welcoming atmosphere with a menu
+  that includes flavorful rolls, beer, and wine selections, making it an ideal
+  choice for casual dining or a special night out. Accessibility features like
+  wheelchair-friendly entrances enhance its appeal for all visitors, ensuring
+  everyone can enjoy the vibrant flavors on offer. Photos from the location
+  highlight the beautifully presented dishes, which reflect a commitment to
+  quality ingredients and creative presentations. Whether you're exploring sushi
+  restaurants near you or looking for Japanese places in San Francisco, Sushi
+  Uma delivers a satisfying blend of authenticity and modern flair.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ4ShgGXCHhYAR1UMjouhlWdw/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ3akxPTVdnEAE
@@ -362,6 +387,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNmaGRHT3dRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNmaGRHT3dRRRAB!2m1!1s0x80858770196028e1:0xdc5965e8a22343d5
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors often rave about the fresh and
+  flavorful sushi rolls at this spot, with many highlighting the perfect balance
+  of ingredients that make meals memorable. Folks appreciate the friendly
+  service and welcoming vibe, which adds to the overall enjoyable experience,
+  especially for those stopping by for a quick bite or to unwind. While most
+  feedback praises the variety and quality, some note that wait times can vary,
+  but the end result is generally worth it for sushi enthusiasts in the area.
+  Overall, it's a go-to for anyone searching for the best sushi near me,
+  offering a mix of hits like spicy tuna rolls and a cozy setting that keeps
+  people coming back. If you're in the mood for reliable Japanese dining, this
+  place delivers solid options that balance fun and freshness without major
+  letdowns.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options:
   acceptsCreditCards: true
@@ -391,7 +430,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Mr Le's Sushi"
+title: Mr Le's Sushi
 permalink: /missouri/kansas-city/mr-le-s-sushi.html
 stateAbbr: MO
 stateName: Missouri
 cityName: Kansas City
 seo:
-  name: "Mr Le's Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.mrlessushi.com/
-description: "Compact, unassuming strip-mall restaurant offering Vietnamese dishes, sushi & other Japanese fare. Mr Le's Sushi serves delicious sushi in Kansas City, Missouri. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ2YVRv3X5wIcRI3Nga8Le_38
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 0
 website: https://www.mrlessushi.com/
+description: >-
+  Discover Mr Le's Sushi in Kansas City$$$In Kansas City, MO, Mr Le's Sushi is a
+  relaxed spot that combines traditional Japanese flavors with a welcoming
+  atmosphere, making it a go-to for those seeking sushi restaurants nearby. This
+  unassuming eatery features a variety of fresh sushi rolls, hearty bento boxes,
+  and other familiar dishes like pho, all prepared with consistent quality and
+  attention to detail. Accessibility is a key highlight, with options like
+  wheelchair-friendly entrances and seating that ensure everyone can enjoy the
+  experience comfortably. The moderate pricing adds to its appeal, offering
+  great value for families or groups looking for Japanese-inspired meals.
+  Whether you're exploring top-rated sushi options close to you, this place
+  delivers a satisfying blend of flavors in a laid-back setting.
+generative_summary: >-
+  Discover Mr Le's Sushi in Kansas City$$$In Kansas City, MO, Mr Le's Sushi is a
+  relaxed spot that combines traditional Japanese flavors with a welcoming
+  atmosphere, making it a go-to for those seeking sushi restaurants nearby. This
+  unassuming eatery features a variety of fresh sushi rolls, hearty bento boxes,
+  and other familiar dishes like pho, all prepared with consistent quality and
+  attention to detail. Accessibility is a key highlight, with options like
+  wheelchair-friendly entrances and seating that ensure everyone can enjoy the
+  experience comfortably. The moderate pricing adds to its appeal, offering
+  great value for families or groups looking for Japanese-inspired meals.
+  Whether you're exploring top-rated sushi options close to you, this place
+  delivers a satisfying blend of flavors in a laid-back setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ2YVRv3X5wIcRI3Nga8Le_38/reviews/ChZDSUhNMG9nS0VJQ0FnTUNnMmVDRmFBEAE
@@ -438,6 +461,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNBanF5ZlhBEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNBanF5ZlhBEAE!2m1!1s0x87c0f975bf5185d9:0x7fffdec26b607323
+review_summary: >-
+  Insights from Recent Reviews$$$If you're hunting for sushi places near you,
+  folks often rave about the reliable flavors and friendly vibes at spots like
+  this one, with many highlighting the tasty bento boxes and classic rolls as
+  standout choices. Reviewers appreciate the solid service and reasonable
+  prices, noting that it's a great spot for a casual lunch or dinner without
+  breaking the bank. While some mention that certain sushi items could use a bit
+  more zest, the overall experience comes across as enjoyable and worth
+  returning for the well-seasoned entrees and appetizers. Diners frequently
+  praise the calm environment and variety of options, making it a solid pick for
+  anyone who loves sushi. All in all, it's clear this location keeps customers
+  coming back for its dependable quality and welcoming feel, even if it's not
+  perfect for every roll.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -470,8 +507,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Compact, unassuming strip-mall restaurant offering Vietnamese dishes, sushi &
   other Japanese fare.
 

@@ -5,4 +5,5 @@ permalink: /indiana/granger/
 stateAbbr: IN
 stateName: Indiana
 cityName: Granger
+
 ---

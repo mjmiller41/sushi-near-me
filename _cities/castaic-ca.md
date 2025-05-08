@@ -5,4 +5,5 @@ permalink: /california/castaic/
 stateAbbr: CA
 stateName: California
 cityName: Castaic
+
 ---

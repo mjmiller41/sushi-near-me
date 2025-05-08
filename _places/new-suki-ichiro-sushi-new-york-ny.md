@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "New Suki Ichiro Sushi"
+title: New Suki Ichiro Sushi
 permalink: /new-york/new-york/new-suki-ichiro-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "New Suki Ichiro Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.sukiichiro.com/
-description: "Sushi, salads & soups along with Japanese cooked dishes served in a simple setting. New Suki Ichiro Sushi serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJJ5Rs7-FZwokRzTB44Wg1q6k
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 0
 website: https://www.sukiichiro.com/
+description: >-
+  Discover New Suki Ichiro Sushi in New York, NY$$$New Suki Ichiro Sushi in New
+  York, NY, stands out as an inviting Japanese eatery offering a casual vibe
+  with fresh sushi and other traditional fare. This spot delights with a menu
+  featuring flavorful options like ramen and bento boxes, complemented by a
+  selection of beer, wine, and sake for a well-rounded dining experience. The
+  restaurant's simple yet welcoming setting makes it ideal for those seeking
+  authentic Japanese flavors in a relaxed atmosphere, with moderate pricing that
+  appeals to everyday diners. Generous portions and thoughtful presentation
+  ensure every meal feels satisfying, making it a go-to choice for anyone
+  exploring top sushi options in the area.
+generative_summary: >-
+  Discover New Suki Ichiro Sushi in New York, NY$$$New Suki Ichiro Sushi in New
+  York, NY, stands out as an inviting Japanese eatery offering a casual vibe
+  with fresh sushi and other traditional fare. This spot delights with a menu
+  featuring flavorful options like ramen and bento boxes, complemented by a
+  selection of beer, wine, and sake for a well-rounded dining experience. The
+  restaurant's simple yet welcoming setting makes it ideal for those seeking
+  authentic Japanese flavors in a relaxed atmosphere, with moderate pricing that
+  appeals to everyday diners. Generous portions and thoughtful presentation
+  ensure every meal feels satisfying, making it a go-to choice for anyone
+  exploring top sushi options in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJJ5Rs7-FZwokRzTB44Wg1q6k/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfcjhhYmpnRRAB
@@ -348,6 +369,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURqNUwzUi13RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURqNUwzUi13RRAB!2m1!1s0x89c259e1ef6c9427:0xa9ab3568e17830cd
+review_summary: >-
+  Insights from Recent Feedback$$$Folks generally enjoy the great value and
+  tasty sushi here, often highlighting the generous portions and friendly
+  service that make meals feel worthwhile. While some appreciate the variety of
+  rolls and dishes like sashimi for their fresh flavors and affordability, a few
+  mentions note that certain items might not always hit the mark in terms of
+  taste or freshness. Overall, it's a solid pick for a casual lunch or dinner,
+  with many praising the welcoming vibe and quick service that keeps things
+  light and enjoyable. If you're on the hunt for reliable sushi spots nearby,
+  this place tends to deliver a positive experience, though it's wise to stick
+  with the crowd favorites for the best results.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidStreetParking: true
   valetParking: false
@@ -379,8 +412,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Sushi, salads & soups along with Japanese cooked dishes served in a simple
   setting.
 

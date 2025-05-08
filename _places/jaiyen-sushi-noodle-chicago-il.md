@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Jaiyen Sushi & Noodle"
+title: Jaiyen Sushi & Noodle
 permalink: /illinois/chicago/jaiyen-sushi-noodle.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
 seo:
-  name: "Jaiyen Sushi & Noodle"
-  type: Restaurant
+  type: restaurant
   links: http://www.jai-yen.com/
-description: "Minimalist Japanese restaurant offering a large menu of sushi & maki, plus Pan-Asian options. Jaiyen Sushi & Noodle serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJNbBEg4DND4gRmsZ31IgWGyQ
 photos:
   - name: >-
@@ -184,6 +182,31 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 0
 website: http://www.jai-yen.com/
+description: >-
+  Discover Jaiyen Sushi & Noodle in Chicago, IL$$$Nestled in the heart of
+  Chicago, IL, Jaiyen Sushi & Noodle stands out as a welcoming spot for fresh
+  sushi and Japanese-inspired dishes, offering a relaxed vibe perfect for casual
+  dining. The menu features an array of expertly crafted sushi rolls and
+  Pan-Asian options, complemented by a minimalist setting that enhances the
+  overall experience, making it ideal for those seeking top sushi restaurants in
+  the area. With its BYOB policy and moderate pricing, this spot appeals to
+  locals looking for authentic flavors without the fuss, while accessibility
+  features ensure everyone can enjoy the meal comfortably. Generous portions and
+  a variety of vegetarian choices add to its charm, positioning it as a go-to
+  choice for sushi enthusiasts exploring nearby options.
+generative_summary: >-
+  Discover Jaiyen Sushi & Noodle in Chicago, IL$$$Nestled in the heart of
+  Chicago, IL, Jaiyen Sushi & Noodle stands out as a welcoming spot for fresh
+  sushi and Japanese-inspired dishes, offering a relaxed vibe perfect for casual
+  dining. The menu features an array of expertly crafted sushi rolls and
+  Pan-Asian options, complemented by a minimalist setting that enhances the
+  overall experience, making it ideal for those seeking top sushi restaurants in
+  the area. With its BYOB policy and moderate pricing, this spot appeals to
+  locals looking for authentic flavors without the fuss, while accessibility
+  features ensure everyone can enjoy the meal comfortably. Generous portions and
+  a variety of vegetarian choices add to its charm, positioning it as a go-to
+  choice for sushi enthusiasts exploring nearby options.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJNbBEg4DND4gRmsZ31IgWGyQ/reviews/ChdDSUhNMG9nS0VJQ0FnSUQzNkpMRjdBRRAB
@@ -349,6 +372,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQtejlxSVdnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQtejlxSVdnEAE!2m1!1s0x880fcd808344b035:0x241b1688d477c69a
+review_summary: >-
+  What Customers Are Saying About This Sushi Spot$$$Visitors often rave about
+  the generous servings and fresh ingredients that make every bite feel
+  satisfying and worthwhile, creating a buzz around this local favorite. Many
+  highlight the delicious balance of flavors in dishes like yakisoba and
+  appetizers, noting that the value for money stands out in a casual dining
+  scene. The friendly service and inviting atmosphere come up frequently, with
+  folks appreciating how quickly meals arrive even during busy times. Overall,
+  it's praised as a reliable spot for groups or families, offering a mix of
+  nutritious options that keep diners coming back for more. While experiences
+  vary, the consistent positives around taste and affordability paint a picture
+  of a welcoming place that's worth trying for anyone craving quality sushi
+  nearby.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -382,8 +419,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Minimalist Japanese restaurant offering a large menu of sushi & maki, plus
   Pan-Asian options.
 

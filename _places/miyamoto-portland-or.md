@@ -1,15 +1,14 @@
 ---
 layout: place
-title: "Miyamoto"
+title: Miyamoto
 permalink: /oregon/portland/miyamoto.html
 stateAbbr: OR
 stateName: Oregon
 cityName: Portland
 seo:
-  name: "Miyamoto"
-  type: Restaurant
-  links: https://miyamotosushi.com/?fbclid=IwAR20lmUwANhIYQBu-LXcRySlO1rppLIxRLE1Zb4KTMP5EYbxp7DNU9awhvM
-description: "Miyamoto serves delicious sushi in Portland, Oregon. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: >-
+    https://miyamotosushi.com/?fbclid=IwAR20lmUwANhIYQBu-LXcRySlO1rppLIxRLE1Zb4KTMP5EYbxp7DNU9awhvM
 place_id: ChIJzXCO4wahlVQRTbyQocyYGng
 photos:
   - name: >-
@@ -169,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x5495a106e38e70cd:0x781a98cca190bc4d!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 16
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 16
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 4:00 – 9:00 PM'
     - 'Tuesday: 4:00 – 9:00 PM'
     - 'Wednesday: 4:00 – 9:00 PM'
@@ -177,55 +234,285 @@ opening_hours:
     - 'Friday: 4:00 – 10:00 PM'
     - 'Saturday: 4:00 – 10:00 PM'
     - 'Sunday: 4:00 – 9:00 PM'
-  current:
-    - 'Monday: 4:00 – 9:00 PM'
-    - 'Tuesday: 4:00 – 9:00 PM'
-    - 'Wednesday: 4:00 – 9:00 PM'
-    - 'Thursday: 4:00 – 10:00 PM'
-    - 'Friday: 4:00 – 10:00 PM'
-    - 'Saturday: 4:00 – 10:00 PM'
-    - 'Sunday: 4:00 – 9:00 PM'
+  nextOpenTime: '2025-05-03T23:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: false
+    periods:
+      - open:
+          day: 1
+          hour: 16
+          minute: 0
+        close:
+          day: 1
+          hour: 18
+          minute: 0
+      - open:
+          day: 2
+          hour: 16
+          minute: 0
+        close:
+          day: 2
+          hour: 18
+          minute: 0
+      - open:
+          day: 3
+          hour: 16
+          minute: 0
+        close:
+          day: 3
+          hour: 18
+          minute: 0
+      - open:
+          day: 4
+          hour: 16
+          minute: 0
+        close:
+          day: 4
+          hour: 18
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 4:00 – 6:00 PM'
+      - 'Tuesday: 4:00 – 6:00 PM'
+      - 'Wednesday: 4:00 – 6:00 PM'
+      - 'Thursday: 4:00 – 6:00 PM'
+      - 'Friday: Closed'
+      - 'Saturday: Closed'
+      - 'Sunday: Closed'
+    secondaryHoursType: HAPPY_HOUR
+    nextOpenTime: '2025-05-05T23:00:00Z'
 phone: (503) 208-2253
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.7'
-rating_count: 0
+rating_count: 837
 website: >-
   https://miyamotosushi.com/?fbclid=IwAR20lmUwANhIYQBu-LXcRySlO1rppLIxRLE1Zb4KTMP5EYbxp7DNU9awhvM
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Experience Miyamoto Sushi in Portland, OR$$$Miyamoto in Portland, OR, stands
+  out as a casual Japanese spot where fresh sushi and traditional flavors meet a
+  relaxed vibe. This sushi restaurant offers an array of expertly crafted rolls,
+  sashimi, and creative pairings with sake cocktails and local microbrews,
+  making it a go-to for those exploring Japanese cuisine in the area.
+  Accessibility features like wheelchair-friendly entrances and seating add to
+  the welcoming atmosphere, ensuring everyone can enjoy the experience. Outdoor
+  seating options provide a charming backdrop for meals, especially on milder
+  evenings, blending comfort with authentic tastes. Whether you're seeking sushi
+  places near me or a spot for quality Japanese dining, this location delivers
+  on fresh ingredients and thoughtful presentation.
+generative_summary: >-
+  Experience Miyamoto Sushi in Portland, OR$$$Miyamoto in Portland, OR, stands
+  out as a casual Japanese spot where fresh sushi and traditional flavors meet a
+  relaxed vibe. This sushi restaurant offers an array of expertly crafted rolls,
+  sashimi, and creative pairings with sake cocktails and local microbrews,
+  making it a go-to for those exploring Japanese cuisine in the area.
+  Accessibility features like wheelchair-friendly entrances and seating add to
+  the welcoming atmosphere, ensuring everyone can enjoy the experience. Outdoor
+  seating options provide a charming backdrop for meals, especially on milder
+  evenings, blending comfort with authentic tastes. Whether you're seeking sushi
+  places near me or a spot for quality Japanese dining, this location delivers
+  on fresh ingredients and thoughtful presentation.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJzXCO4wahlVQRTbyQocyYGng/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3c1BHLTZ3RRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        The fish was so fresh and good quality and the preparation was
+        excellent. The portion sizes were bigger than expected and ratio of fish
+        to rice was great, no skimping on the fish. The spicy scallop nigiri was
+        so good I'm going to have to come back just for that. Service was great.
+      languageCode: en
+    originalText:
+      text: >-
+        The fish was so fresh and good quality and the preparation was
+        excellent. The portion sizes were bigger than expected and ratio of fish
+        to rice was great, no skimping on the fish. The spicy scallop nigiri was
+        so good I'm going to have to come back just for that. Service was great.
+      languageCode: en
+    authorAttribution:
+      displayName: Mary B
+      uri: https://www.google.com/maps/contrib/108918247059321471229/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJUBU6Ws20PHajeb-5kXAVSsQzemvDb3cVqx7xBg7nASAEaGQ=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-03-16T04:41:13.255592Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUN3c1BHLTZ3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUN3c1BHLTZ3RRAB!2m1!1s0x5495a106e38e70cd:0x781a98cca190bc4d
+  - name: >-
+      places/ChIJzXCO4wahlVQRTbyQocyYGng/reviews/ChdDSUhNMG9nS0VJQ0FnSUNmeG82OXJ3RRAB
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        So much stinkin' FUN!!! 😊😊 The best Sushi 🍣 I've ever had!! So
+        👍👍👍.  Don't hesitate just go!  We loved Ripley and Taylor....thank
+        you for the hot cup of delicious tea while waiting on a cold rainy
+        evening. You ALL ROCK 💪🫶
+      languageCode: en
+    originalText:
+      text: >-
+        So much stinkin' FUN!!! 😊😊 The best Sushi 🍣 I've ever had!! So
+        👍👍👍.  Don't hesitate just go!  We loved Ripley and Taylor....thank
+        you for the hot cup of delicious tea while waiting on a cold rainy
+        evening. You ALL ROCK 💪🫶
+      languageCode: en
+    authorAttribution:
+      displayName: Gwenn Mullins
+      uri: https://www.google.com/maps/contrib/106654958191686453774/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIHFQPcLvZ05-Zq1vnFPwG7THAknjSY0u5q_ZZaTKqbUZBnOQU=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-12-28T13:42:06.988839Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNmeG82OXJ3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNmeG82OXJ3RRAB!2m1!1s0x5495a106e38e70cd:0x781a98cca190bc4d
+  - name: >-
+      places/ChIJzXCO4wahlVQRTbyQocyYGng/reviews/ChZDSUhNMG9nS0VJQ0FnSUNQeklta05BEAE
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        My personal #1 spot to get sushi when me and friends want a great treat.
+        I love sitting outside after dark with the fireplaces, especially if
+        it's raining a little!
+
+        The Jalapeño ninjas are the best, even my mom enjoyed them. Wonderful
+        sushi as well. Had the Miyamoto and the black tiger rolls. Our server
+        was delightful as well.
+
+        The green tea mochi rolls were very tasty.
+      languageCode: en
+    originalText:
+      text: >-
+        My personal #1 spot to get sushi when me and friends want a great treat.
+        I love sitting outside after dark with the fireplaces, especially if
+        it's raining a little!
+
+        The Jalapeño ninjas are the best, even my mom enjoyed them. Wonderful
+        sushi as well. Had the Miyamoto and the black tiger rolls. Our server
+        was delightful as well.
+
+        The green tea mochi rolls were very tasty.
+      languageCode: en
+    authorAttribution:
+      displayName: Augie Little
+      uri: https://www.google.com/maps/contrib/102986775674958131296/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKLH3pE9onI85IaFBGpFxdbwug3pVqgowhIyuWNBCUH1hyn7A=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-11-22T03:52:13.337179Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNQeklta05BEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNQeklta05BEAE!2m1!1s0x5495a106e38e70cd:0x781a98cca190bc4d
+  - name: >-
+      places/ChIJzXCO4wahlVQRTbyQocyYGng/reviews/ChZDSUhNMG9nS0VJQ0FnTURRcU1uYUhREAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        The best sushi in Portland! I've been coming to Miyamoto for years for
+        my sushi fix, and it never disappoints. Excellent fish quality and
+        creative rolls as well as reasonably priced favorites. They have also
+        got a great variety of Japanese "bar food" like chicken karaage, as well
+        as the option to order from the extensive beer list from Roscoe's bar
+        next door! Come for the fish, stay for the great vibes here! :)
+      languageCode: en
+    originalText:
+      text: >-
+        The best sushi in Portland! I've been coming to Miyamoto for years for
+        my sushi fix, and it never disappoints. Excellent fish quality and
+        creative rolls as well as reasonably priced favorites. They have also
+        got a great variety of Japanese "bar food" like chicken karaage, as well
+        as the option to order from the extensive beer list from Roscoe's bar
+        next door! Come for the fish, stay for the great vibes here! :)
+      languageCode: en
+    authorAttribution:
+      displayName: Bekah Richardson
+      uri: https://www.google.com/maps/contrib/117510408865268635322/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUm_M3LpOMoB5iWmGZuAyCXGbiInj1XG-EgygUdO9KixYat79Me=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-03-08T17:08:59.893576Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURRcU1uYUhREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURRcU1uYUhREAE!2m1!1s0x5495a106e38e70cd:0x781a98cca190bc4d
+  - name: >-
+      places/ChIJzXCO4wahlVQRTbyQocyYGng/reviews/ChZDSUhNMG9nS0VJQ0FnSURoOHVxYlZ3EAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        This is my go-to sushi joint of choice in East Portland. The food is
+        incredibly fresh, flavorful, and beautiful. The specialty rolls are
+        particularly Insta-worthy.
+      languageCode: en
+    originalText:
+      text: >-
+        This is my go-to sushi joint of choice in East Portland. The food is
+        incredibly fresh, flavorful, and beautiful. The specialty rolls are
+        particularly Insta-worthy.
+      languageCode: en
+    authorAttribution:
+      displayName: Greg Clapp
+      uri: https://www.google.com/maps/contrib/109774686993336714630/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWHvS5Sl0FU5Qk8xA4CVGRD_SMAgohQ4ZvHSLKT3LSGSlM5bpHnbw=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-02-05T22:36:32.913015Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURoOHVxYlZ3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURoOHVxYlZ3EAE!2m1!1s0x5495a106e38e70cd:0x781a98cca190bc4d
+review_summary: >-
+  Buzz Around Miyamoto's Reviews$$$Folks rave about the fresh, generous portions
+  of sushi at this spot, highlighting how the quality fish and creative rolls
+  make every bite memorable without skimping on flavor. Many appreciate the
+  friendly service and cozy outdoor areas with fireplaces, which add a fun,
+  relaxed touch to the overall vibe, perfect for casual get-togethers. Reviewers
+  often note the reasonable prices and variety of options, from spicy specials
+  to classic favorites, making it a solid pick for anyone hunting for top-rated
+  sushi nearby. While some mention it's ideal for a treat rather than everyday
+  eats, the consistent praise for the atmosphere and tasty pairings keeps the
+  energy positive. If you're on the lookout for sushi restaurants near me that
+  deliver honest value and a welcoming feel, this place seems to hit the mark
+  with its loyal fanbase.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
+curbside_pickup: false
+delivery: false
+dine_in: true
 good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: false
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Japanese restaurant serving appetizers, sushi & sake in a warm, relaxed
+  atmosphere.
 
 ---

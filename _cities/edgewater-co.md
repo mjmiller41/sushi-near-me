@@ -5,4 +5,5 @@ permalink: /colorado/edgewater/
 stateAbbr: CO
 stateName: Colorado
 cityName: Edgewater
+
 ---

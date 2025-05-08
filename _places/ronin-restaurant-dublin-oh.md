@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ronin Restaurant"
+title: Ronin Restaurant
 permalink: /ohio/dublin/ronin-restaurant.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Dublin
 seo:
-  name: "Ronin Restaurant"
-  type: Restaurant
+  type: restaurant
   links: http://roninsushiohio.com/
-description: "Sashimi, noodles & Japanese entrees in a cheerful space with an eat-at sushi bar & long happy hours. Ronin Restaurant serves delicious sushi in Dublin, Ohio. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ8bV5fBqTOIgR6qizHwWhJOs
 photos:
   - name: >-
@@ -185,6 +183,35 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 0
 website: http://roninsushiohio.com/
+description: >-
+  Discover Ronin Restaurant in Dublin, OH$$$Nestled in Dublin, OH, Ronin
+  Restaurant stands out as a welcoming spot for enjoying Japanese cuisine,
+  featuring an array of fresh sushi rolls and classic dishes in a relaxed
+  atmosphere. This sushi haven offers a sizable menu that includes flavorful
+  options like sashimi and noodles, making it ideal for those seeking authentic
+  tastes in a cheerful setting with an eat-at sushi bar. Patrons appreciate the
+  long happy hours and accessible features, such as wheelchair-friendly
+  entrances and outdoor seating, enhancing the overall dining experience. The
+  restaurant's moderate pricing and variety of vegetarian choices cater to
+  diverse preferences, ensuring a satisfying meal for sushi enthusiasts
+  exploring local options. With its convenient location near other Japanese
+  places, it's a go-to destination for anyone craving top-rated sushi in the
+  area.
+generative_summary: >-
+  Discover Ronin Restaurant in Dublin, OH$$$Nestled in Dublin, OH, Ronin
+  Restaurant stands out as a welcoming spot for enjoying Japanese cuisine,
+  featuring an array of fresh sushi rolls and classic dishes in a relaxed
+  atmosphere. This sushi haven offers a sizable menu that includes flavorful
+  options like sashimi and noodles, making it ideal for those seeking authentic
+  tastes in a cheerful setting with an eat-at sushi bar. Patrons appreciate the
+  long happy hours and accessible features, such as wheelchair-friendly
+  entrances and outdoor seating, enhancing the overall dining experience. The
+  restaurant's moderate pricing and variety of vegetarian choices cater to
+  diverse preferences, ensuring a satisfying meal for sushi enthusiasts
+  exploring local options. With its convenient location near other Japanese
+  places, it's a go-to destination for anyone craving top-rated sushi in the
+  area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ8bV5fBqTOIgR6qizHwWhJOs/reviews/ChdDSUhNMG9nS0VJQ0FnSUNwaVpQNXRBRRAB
@@ -358,6 +385,21 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNfc1lpSi1nRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNfc1lpSi1nRRAB!2m1!1s0x8838931a7c79b5f1:0xeb24a1051fb3a8ea
+review_summary: >-
+  What Customers Love About the Reviews$$$Visitors often rave about the
+  delicious lunch specials and specialty rolls at this sushi spot, highlighting
+  the generous portions and reasonable prices that make it a fantastic value for
+  a casual meal. Many appreciate the family-friendly vibe and beautifully plated
+  dishes, which add a touch of elegance to everyday dining, though some note
+  occasional inconsistencies in service that could use improvement. Overall, the
+  focus on fresh flavors and authentic options keeps fans coming back,
+  especially for standout items like vegetable curry and hot and sour soup that
+  bring a satisfying twist to the menu. While a few diners mentioned
+  disappointing experiences with non-sushi items, the consensus leans toward
+  sticking with the reliable sushi selections for a solid outing. If you're
+  searching for the best sushi near you, this place delivers a mix of hits that
+  make it worth trying for a relaxed and flavorful experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -390,8 +432,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Sashimi, noodles & Japanese entrees in a cheerful space with an eat-at sushi
   bar & long happy hours.
 

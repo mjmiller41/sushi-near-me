@@ -5,4 +5,5 @@ permalink: /georgia/evans/
 stateAbbr: GA
 stateName: Georgia
 cityName: Evans
+
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "KYOJIN Sushi"
+title: KYOJIN Sushi
 permalink: /district-of-columbia/washington/kyojin-sushi.html
 stateAbbr: DC
 stateName: District of Columbia
 cityName: Washington
 seo:
-  name: "KYOJIN Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.kyojindc.com/
-description: "Cozy, non-traditional sushi restaurant serving Japanese small plates, sake, beer, and wine. KYOJIN Sushi serves delicious sushi in Washington, District of Columbia. Try fresh Japanese dishes for a great dining experience. Available for, and dinner."
 place_id: ChIJf57htim3t4kRAMbxTZCtjao
 photos:
   - name: >-
@@ -185,6 +183,27 @@ price_range: $100 &ndash; & up
 rating: '4.9'
 rating_count: 0
 website: https://www.kyojindc.com/
+description: >-
+  Discover KYOJIN Sushi in Washington, DC$$$KYOJIN Sushi in Washington, DC,
+  stands out as a welcoming spot for innovative Japanese dining, featuring a
+  variety of small plates, sake, beer, and wine. This cozy establishment
+  emphasizes fresh ingredients and creative flavor combinations that appeal to
+  those seeking top-rated sushi options in the area. Guests enjoy a warm
+  atmosphere that enhances the overall experience, making it ideal for casual
+  evenings or special occasions. With its focus on non-traditional twists, it's
+  a go-to destination for anyone exploring sushi restaurants nearby, offering a
+  memorable blend of quality and comfort.
+generative_summary: >-
+  Discover KYOJIN Sushi in Washington, DC$$$KYOJIN Sushi in Washington, DC,
+  stands out as a welcoming spot for innovative Japanese dining, featuring a
+  variety of small plates, sake, beer, and wine. This cozy establishment
+  emphasizes fresh ingredients and creative flavor combinations that appeal to
+  those seeking top-rated sushi options in the area. Guests enjoy a warm
+  atmosphere that enhances the overall experience, making it ideal for casual
+  evenings or special occasions. With its focus on non-traditional twists, it's
+  a go-to destination for anyone exploring sushi restaurants nearby, offering a
+  memorable blend of quality and comfort.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJf57htim3t4kRAMbxTZCtjao/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3aU5YaWV3EAE
@@ -332,6 +351,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJLUpxVGx3RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJLUpxVGx3RRAB!2m1!1s0x89b7b729b6e19e7f:0xaa8dad904df1c600
+review_summary: >-
+  What Visitors Are Saying About the Experience$$$Folks often rave about the
+  fantastic service at this sushi spot, with staff providing helpful
+  recommendations that make every visit feel personalized and enjoyable. The
+  food consistently gets high marks for its fresh flavors and creative dishes,
+  like specialty rolls and small plates that leave diners impressed and
+  satisfied. Many appreciate the inviting atmosphere, describing it as the
+  perfect setting for a relaxed meal or gathering with friends. Overall, it's
+  clear that this place delivers a solid experience that's worth checking out,
+  especially if you're hunting for the best sushi near you in a welcoming
+  environment.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidParkingLot: true
 payment_options:
@@ -362,8 +393,8 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: true
 takeout: null
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Cozy, non-traditional sushi restaurant serving Japanese small plates, sake,
   beer, and wine.
 

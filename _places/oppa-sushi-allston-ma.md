@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Oppa Sushi"
+title: Oppa Sushi
 permalink: /massachusetts/allston/oppa-sushi.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Allston
 seo:
-  name: "Oppa Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://order.toasttab.com/online/oppa-sushi-185-harvard-ave
-description: "This snug restaurant serves Japanese & Korean classics such as rolls, sashimi, ramen & bulgogi. Oppa Sushi serves delicious sushi in Allston, Massachusetts. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJdci13cV544kRorom9FoI6sw
 photos:
   - name: >-
@@ -184,6 +182,31 @@ price_range: null
 rating: '4.4'
 rating_count: 0
 website: https://order.toasttab.com/online/oppa-sushi-185-harvard-ave
+description: >-
+  Discover Oppa Sushi in Allston, MA$$$Nestled in the heart of Allston, MA, Oppa
+  Sushi stands out as a cozy spot for enjoying fresh Japanese-inspired dishes,
+  blending traditional flavors with a relaxed vibe that appeals to sushi
+  enthusiasts. This welcoming restaurant specializes in high-quality seafood
+  options like expertly prepared rolls and hearty ramen, making it a go-to
+  choice for those seeking authentic tastes without the fuss. With its moderate
+  pricing and inviting atmosphere, it's perfect for casual meals or quick bites
+  after exploring the neighborhood, drawing in locals looking for reliable sushi
+  options nearby. The menu highlights a variety of seafood dishes that emphasize
+  freshness and balance, ensuring a satisfying experience for anyone craving
+  Japanese classics in a comfortable setting.
+generative_summary: >-
+  Discover Oppa Sushi in Allston, MA$$$Nestled in the heart of Allston, MA, Oppa
+  Sushi stands out as a cozy spot for enjoying fresh Japanese-inspired dishes,
+  blending traditional flavors with a relaxed vibe that appeals to sushi
+  enthusiasts. This welcoming restaurant specializes in high-quality seafood
+  options like expertly prepared rolls and hearty ramen, making it a go-to
+  choice for those seeking authentic tastes without the fuss. With its moderate
+  pricing and inviting atmosphere, it's perfect for casual meals or quick bites
+  after exploring the neighborhood, drawing in locals looking for reliable sushi
+  options nearby. The menu highlights a variety of seafood dishes that emphasize
+  freshness and balance, ensuring a satisfying experience for anyone craving
+  Japanese classics in a comfortable setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJdci13cV544kRorom9FoI6sw/reviews/ChdDSUhNMG9nS0VJQ0FnTURJenNQWW93RRAB
@@ -389,6 +412,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN1bklUdE9nEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN1bklUdE9nEAE!2m1!1s0x89e379c5ddb5c875:0xccea085af426baa2
+review_summary: >-
+  What Customers Are Buzzing About$$$Folks rave about the fresh fish and
+  generous portions at this sushi spot, often highlighting how the rolls strike
+  a great balance of flavors and value that keeps them coming back for more.
+  While most diners appreciate the welcoming service and tasty appetizers like
+  miso soup, a few mentions point to occasional inconsistencies, such as with
+  certain dishes not meeting expectations. Overall, the consensus leans
+  positive, with many enjoying the affordable prices and variety that make it a
+  solid pick for groups or solo diners seeking something reliable. Despite a
+  rare complaint about preparation slip-ups, the general vibe is upbeat,
+  encouraging visitors to try the standout rolls for a fulfilling meal that
+  lives up to the area's reputation for top-notch sushi experiences.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   valetParking: false
 payment_options:
@@ -419,8 +455,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   This snug restaurant serves Japanese & Korean classics such as rolls, sashimi,
   ramen & bulgogi.
 

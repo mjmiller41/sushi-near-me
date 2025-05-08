@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "RetRoll Sushi"
+title: RetRoll Sushi
 permalink: /california/long-beach/retroll-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Long Beach
 seo:
-  name: "RetRoll Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://order.toasttab.com/online/tbd-sushi-2023-e-4th-st
-description: "RetRoll Sushi serves delicious sushi in Long Beach, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ6bloLgAx3YAR1yULijGjel4
 photos:
   - name: >-
@@ -116,7 +114,89 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80dd31002e68b9e9:0x5e7aa3318a0b25d7!10e5
 primary_type: Takeout Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 2
+        hour: 12
+        minute: 30
+      close:
+        day: 2
+        hour: 15
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 19
+        minute: 30
+    - open:
+        day: 3
+        hour: 12
+        minute: 30
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 19
+        minute: 30
+    - open:
+        day: 4
+        hour: 12
+        minute: 30
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 19
+        minute: 30
+    - open:
+        day: 5
+        hour: 12
+        minute: 30
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 19
+        minute: 30
+    - open:
+        day: 6
+        hour: 12
+        minute: 30
+      close:
+        day: 6
+        hour: 15
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 19
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 12:30 – 3:00 PM, 5:00 – 7:30 PM'
     - 'Wednesday: 12:30 – 3:00 PM, 5:00 – 7:30 PM'
@@ -124,14 +204,7 @@ opening_hours:
     - 'Friday: 12:30 – 3:00 PM, 5:00 – 7:30 PM'
     - 'Saturday: 12:30 – 3:00 PM, 5:00 – 7:30 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 12:30 – 3:00 PM, 5:00 – 7:30 PM'
-    - 'Wednesday: 12:30 – 3:00 PM, 5:00 – 7:30 PM'
-    - 'Thursday: 12:30 – 3:00 PM, 5:00 – 7:30 PM'
-    - 'Friday: 12:30 – 3:00 PM, 5:00 – 7:30 PM'
-    - 'Saturday: 12:30 – 3:00 PM, 5:00 – 7:30 PM'
-    - 'Sunday: Closed'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -143,19 +216,212 @@ phone: null
 price_level: null
 price_range: $20 &ndash; $30
 rating: '5.0'
-rating_count: 0
+rating_count: 24
 website: https://order.toasttab.com/online/tbd-sushi-2023-e-4th-st
-reviews: null
+description: >-
+  Discover RetRoll Sushi in Long Beach, CA$$$Nestled in the vibrant 4th Street
+  Corridor of Long Beach, CA, RetRoll Sushi stands out as a go-to spot for fresh
+  Japanese-inspired dishes that cater to sushi enthusiasts. This takeout-focused
+  eatery emphasizes high-quality ingredients, with expertly prepared rolls and
+  bento boxes that highlight the flavors of the sea in a simple yet inviting
+  setting. Accessibility features like wheelchair-friendly parking and entrances
+  make it easy for everyone to enjoy a meal on the go, while its convenient
+  location adds to the appeal for locals seeking quick, satisfying options.
+  Operating with limited hours, it offers affordable pricing in the $20–$30
+  range, making it an ideal choice for those exploring top-rated sushi places
+  near me without breaking the bank.
+generative_summary: >-
+  Discover RetRoll Sushi in Long Beach, CA$$$Nestled in the vibrant 4th Street
+  Corridor of Long Beach, CA, RetRoll Sushi stands out as a go-to spot for fresh
+  Japanese-inspired dishes that cater to sushi enthusiasts. This takeout-focused
+  eatery emphasizes high-quality ingredients, with expertly prepared rolls and
+  bento boxes that highlight the flavors of the sea in a simple yet inviting
+  setting. Accessibility features like wheelchair-friendly parking and entrances
+  make it easy for everyone to enjoy a meal on the go, while its convenient
+  location adds to the appeal for locals seeking quick, satisfying options.
+  Operating with limited hours, it offers affordable pricing in the $20–$30
+  range, making it an ideal choice for those exploring top-rated sushi places
+  near me without breaking the bank.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ6bloLgAx3YAR1yULijGjel4/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3ejZXeDVRRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Don’t miss out on this gem on 4th street! John always has fresh fish and
+        perfectly seasoned sushi rice. I’ve enjoyed every item and recommend the
+        bento boxes, tuna lovers chili roll, salmon on fire roll, Hawaiian roll,
+        and the ultimate roll. You really can’t go wrong here!
+      languageCode: en
+    originalText:
+      text: >-
+        Don’t miss out on this gem on 4th street! John always has fresh fish and
+        perfectly seasoned sushi rice. I’ve enjoyed every item and recommend the
+        bento boxes, tuna lovers chili roll, salmon on fire roll, Hawaiian roll,
+        and the ultimate roll. You really can’t go wrong here!
+      languageCode: en
+    authorAttribution:
+      displayName: Helen Kim
+      uri: https://www.google.com/maps/contrib/102592154879086435178/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJRzJIEKVTNH8XLpnnPCxvII5HYKhcTTWyREUPZspsj794wYul8=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-22T07:57:16.030234Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUN3ejZXeDVRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUN3ejZXeDVRRRAB!2m1!1s0x80dd31002e68b9e9:0x5e7aa3318a0b25d7
+  - name: >-
+      places/ChIJ6bloLgAx3YAR1yULijGjel4/reviews/ChZDSUhNMG9nS0VJQ0FnSURuXy1haWFREAE
+    relativePublishTimeDescription: 6 months ago
+    rating: 5
+    text:
+      text: >-
+        The pictures here and on yelp do not do this justice! Really tasty food
+        and the owner is so friendly. It gets busy though!
+      languageCode: en
+    originalText:
+      text: >-
+        The pictures here and on yelp do not do this justice! Really tasty food
+        and the owner is so friendly. It gets busy though!
+      languageCode: en
+    authorAttribution:
+      displayName: Andrew Liles
+      uri: https://www.google.com/maps/contrib/104755738514732951364/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWVVyWuuQkd-qhoPM1QfKIS6LkKXoRDDZeGy6-y03HgOheY9XR4=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-10-12T02:00:27.237322Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURuXy1haWFREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURuXy1haWFREAE!2m1!1s0x80dd31002e68b9e9:0x5e7aa3318a0b25d7
+  - name: >-
+      places/ChIJ6bloLgAx3YAR1yULijGjel4/reviews/ChZDSUhNMG9nS0VJQ0FnSUREeEpDZUNnEAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        Finally had a chance to try this new spot and so glad I did! It's a
+        small shop with to go only but it's easy enough to grab something and
+        get some wine or sake at the wine bar nextdoor and sit down.  All the
+        rolls we got were excellently prepared and the fish was very fresh! The
+        tuna nigiri was extremely fresh and the ultimate roll was an awesome way
+        to have the roll catered specifically towards what you like. Definitely
+        will keep stopping by for my sushi fix!
+      languageCode: en
+    originalText:
+      text: >-
+        Finally had a chance to try this new spot and so glad I did! It's a
+        small shop with to go only but it's easy enough to grab something and
+        get some wine or sake at the wine bar nextdoor and sit down.  All the
+        rolls we got were excellently prepared and the fish was very fresh! The
+        tuna nigiri was extremely fresh and the ultimate roll was an awesome way
+        to have the roll catered specifically towards what you like. Definitely
+        will keep stopping by for my sushi fix!
+      languageCode: en
+    authorAttribution:
+      displayName: Billy D
+      uri: https://www.google.com/maps/contrib/103570082780991393817/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKi2azvZF9nRljbj4recv4VHu6Mk0tC8egE-q3cZBueFqatzQ=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2024-04-05T16:53:00.378531Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUREeEpDZUNnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUREeEpDZUNnEAE!2m1!1s0x80dd31002e68b9e9:0x5e7aa3318a0b25d7
+  - name: >-
+      places/ChIJ6bloLgAx3YAR1yULijGjel4/reviews/ChZDSUhNMG9nS0VJQ0FnSURuXzlHQmNBEAE
+    relativePublishTimeDescription: 6 months ago
+    rating: 5
+    text:
+      text: >-
+        Wow, I'm pretty blown away by how great the sushi here is!
+
+        The fish is fresh and tasty. We made the happy hour deal which was $2
+        off select rolls.
+
+        The stand out roll was Salmon on Fire. Perfectly balanced flavors and
+        the perfect amount of heat.
+
+        A great addition to 4th Street!
+      languageCode: en
+    originalText:
+      text: >-
+        Wow, I'm pretty blown away by how great the sushi here is!
+
+        The fish is fresh and tasty. We made the happy hour deal which was $2
+        off select rolls.
+
+        The stand out roll was Salmon on Fire. Perfectly balanced flavors and
+        the perfect amount of heat.
+
+        A great addition to 4th Street!
+      languageCode: en
+    authorAttribution:
+      displayName: Kat Turley
+      uri: https://www.google.com/maps/contrib/105870079432859414817/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWmx3QaJ2I7JdLGCjxxeN2trP0cj6yvyCHAa2FTFTOqc_Wd34pqyw=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-10-12T02:14:22.376148Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURuXzlHQmNBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURuXzlHQmNBEAE!2m1!1s0x80dd31002e68b9e9:0x5e7aa3318a0b25d7
+  - name: >-
+      places/ChIJ6bloLgAx3YAR1yULijGjel4/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJdGY2NmlRRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        It's like grocery store prices, but good quality restaurant sushi! 
+        Retro row stable for sure.  Went twice this week already. Highly
+        recommend!!
+      languageCode: en
+    originalText:
+      text: >-
+        It's like grocery store prices, but good quality restaurant sushi! 
+        Retro row stable for sure.  Went twice this week already. Highly
+        recommend!!
+      languageCode: en
+    authorAttribution:
+      displayName: Alan
+      uri: https://www.google.com/maps/contrib/116600670896281947213/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjW6zNQ3P23L8nMfXDDZb-IcAw4eoI1oCXluvY3wsf7zXgUqmNd-=s128-c0x00000000-cc-rp-mo-ba7
+    publishTime: '2025-04-03T18:32:12.638272Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNJdGY2NmlRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNJdGY2NmlRRRAB!2m1!1s0x80dd31002e68b9e9:0x5e7aa3318a0b25d7
+review_summary: >-
+  What Customers Are Buzzing About$$$From the reviews, folks seem genuinely
+  thrilled with the fresh and flavorful sushi at this spot, often praising the
+  well-balanced rolls and great value for the price. Many highlight how the fish
+  tastes incredibly fresh, with specials like happy hour deals adding an extra
+  layer of excitement for casual diners. It's clear that the overall experience
+  feels welcoming and efficient, perfect for grabbing a quick bite or pairing
+  with nearby drinks, which keeps people coming back for their sushi fix. While
+  it's a small operation that can get busy, the consensus leans positive,
+  suggesting it's a solid pick for anyone hunting for reliable Japanese places
+  near me. Overall, the feedback paints a picture of a hidden gem that's worth
+  trying if you're in the mood for tasty, straightforward eats that hit the spot
+  every time.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
-payment_options: null
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
+delivery: true
 dine_in: null
 good_for_children: null
 good_for_groups: null
-good_for_sports: null
-live_music: null
+good_for_sports: false
+live_music: false
 menu_for_children: null
 outdoor_seating: null
 reservable: null
@@ -165,13 +431,13 @@ serves_breakfast: null
 serves_brunch: null
 serves_cocktails: null
 serves_coffee: null
-serves_dinner: null
+serves_dinner: true
 serves_dessert: null
-serves_lunch: null
+serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

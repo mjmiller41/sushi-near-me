@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Bonchon Skokie"
+title: Bonchon Skokie
 permalink: /illinois/skokie/bonchon-skokie.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Skokie
 seo:
-  name: "Bonchon Skokie"
-  type: Restaurant
-  links: null
-description: "Bonchon Skokie serves delicious sushi in Skokie, Illinois. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://bonchon.com/
 place_id: ChIJ3Zf5p83PD4gRARjTYSb3qKE
 photos:
   - name: >-
@@ -169,8 +167,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x880fcfcda7f997dd:0xa1a8f72661d31801!10e5
 primary_type: Asian Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 0
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 0
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 10:30 PM'
+    - 'Tuesday: 11:00 AM – 10:30 PM'
+    - 'Wednesday: 11:00 AM – 10:30 PM'
+    - 'Thursday: 11:00 AM – 10:30 PM'
+    - 'Friday: 11:00 AM – 12:30 AM'
+    - 'Saturday: 11:00 AM – 12:30 AM'
+    - 'Sunday: 11:00 AM – 10:30 PM'
+  nextCloseTime: '2025-05-04T05:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -178,13 +241,53 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (847) 972-5363
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.1'
+rating_count: 362
+website: http://bonchon.com/
+description: >-
+  Experience Bonchon Skokie in Skokie, IL$$$Bonchon Skokie in Skokie, IL, offers
+  a casual dining experience centered around flavorful Asian fusion cuisine that
+  highlights crispy Korean-style dishes. Patrons can savor a variety of options
+  like tender fried chicken with bold flavors, paired with hearty sides such as
+  bulgogi fries and japchae, all in a welcoming atmosphere perfect for quick
+  meals or gatherings. The spot is known for its accessibility features,
+  including wheelchair-friendly parking and entrances, making it easy for
+  everyone to enjoy. With moderate pricing and extended hours from lunch through
+  late evening, it's an ideal choice for those seeking authentic Asian-inspired
+  flavors in a relaxed setting. This eatery stands out for its commitment to
+  quality ingredients and a menu that blends traditional elements with modern
+  twists.
+generative_summary: >-
+  Experience Bonchon Skokie in Skokie, IL$$$Bonchon Skokie in Skokie, IL, offers
+  a casual dining experience centered around flavorful Asian fusion cuisine that
+  highlights crispy Korean-style dishes. Patrons can savor a variety of options
+  like tender fried chicken with bold flavors, paired with hearty sides such as
+  bulgogi fries and japchae, all in a welcoming atmosphere perfect for quick
+  meals or gatherings. The spot is known for its accessibility features,
+  including wheelchair-friendly parking and entrances, making it easy for
+  everyone to enjoy. With moderate pricing and extended hours from lunch through
+  late evening, it's an ideal choice for those seeking authentic Asian-inspired
+  flavors in a relaxed setting. This eatery stands out for its commitment to
+  quality ingredients and a menu that blends traditional elements with modern
+  twists.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback Highlights$$$Visitors often praise the delicious, crispy
+  Korean fried chicken at this Asian fusion spot, with favorites like the soy
+  garlic and spicy varieties stealing the show alongside tasty sides such as
+  bulgogi fries and kimchi. Folks appreciate the friendly and attentive service
+  that adds a warm touch to every visit, making the atmosphere feel inviting and
+  enjoyable. While some note that portions might feel a bit modest for the cost,
+  the overall flavor and freshness keep diners satisfied and eager to return.
+  All in all, it's a reliable pick for anyone craving bold tastes in a casual
+  vibe, with the high marks reflecting its appeal as a go-to local favorite.
+  This blend of great food and hospitable staff makes it worth checking out for
+  a solid meal experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +313,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

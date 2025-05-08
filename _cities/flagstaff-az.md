@@ -5,4 +5,5 @@ permalink: /arizona/flagstaff/
 stateAbbr: AZ
 stateName: Arizona
 cityName: Flagstaff
+
 ---

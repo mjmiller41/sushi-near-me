@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "SUSHINOLA Sushi y Marisco estilo Sinaloa."
+title: SUSHINOLA Sushi y Marisco estilo Sinaloa.
 permalink: /washington/kent/sushinola-sushi-y-marisco-estilo-sinaloa.html
 stateAbbr: WA
 stateName: Washington
 cityName: Kent
 seo:
-  name: "SUSHINOLA Sushi y Marisco estilo Sinaloa."
-  type: Restaurant
+  type: restaurant
   links: http://sushinolakent.com/
-description: "SUSHINOLA Sushi y Marisco estilo Sinaloa. serves delicious sushi in Kent, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJEcQkoDRakFQRgosC_NdBn3k
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x54905a34a024c411:0x799f41d7fc028b82!10e5
 primary_type: Mexican Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:30 AM – 9:00 PM'
     - 'Wednesday: 11:30 AM – 9:00 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:00 PM'
     - 'Saturday: 11:00 AM – 10:00 PM'
     - 'Sunday: 11:00 AM – 10:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:30 AM – 9:00 PM'
-    - 'Wednesday: 11:30 AM – 9:00 PM'
-    - 'Thursday: 11:30 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 10:00 PM'
-    - 'Saturday: 11:00 AM – 10:00 PM'
-    - 'Sunday: 11:00 AM – 10:00 PM'
+  nextCloseTime: '2025-05-04T05:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +238,236 @@ phone: (206) 429-2938
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.1'
-rating_count: 0
+rating_count: 527
 website: http://sushinolakent.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover SUSHINOLA in Kent, Washington$$$SUSHINOLA in Kent, Washington, stands
+  out as a casual, family-friendly spot that fuses Mexican flavors with fresh
+  sushi and seafood specialties, creating a unique dining experience. This
+  restaurant offers a welcoming atmosphere with wheelchair-accessible features
+  and ample parking, making it easy for everyone to enjoy meals like flavorful
+  rolls and seafood towers. Open for lunch and dinner several days a week,
+  including weekends, it's ideal for groups seeking moderately priced options
+  that highlight coastal-inspired dishes. Patrons appreciate the blend of
+  cultural influences, with highlights on signature sauces and fresh ingredients
+  that elevate everyday sushi spots in the area.
+generative_summary: >-
+  Discover SUSHINOLA in Kent, Washington$$$SUSHINOLA in Kent, Washington, stands
+  out as a casual, family-friendly spot that fuses Mexican flavors with fresh
+  sushi and seafood specialties, creating a unique dining experience. This
+  restaurant offers a welcoming atmosphere with wheelchair-accessible features
+  and ample parking, making it easy for everyone to enjoy meals like flavorful
+  rolls and seafood towers. Open for lunch and dinner several days a week,
+  including weekends, it's ideal for groups seeking moderately priced options
+  that highlight coastal-inspired dishes. Patrons appreciate the blend of
+  cultural influences, with highlights on signature sauces and fresh ingredients
+  that elevate everyday sushi spots in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJEcQkoDRakFQRgosC_NdBn3k/reviews/ChdDSUhNMG9nS0VJQ0FnTURJbXZ2NTN3RRAB
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 5
+    text:
+      text: >-
+        I can’t say enough positive things about my experience with the food and
+        service at Sushinola. I ordered one of their platters for an event and
+        it was a huge hit! Everything tasted fresh and delicious. I got so many
+        complements on the platter that I plan to order another soon.
+      languageCode: en
+    originalText:
+      text: >-
+        I can’t say enough positive things about my experience with the food and
+        service at Sushinola. I ordered one of their platters for an event and
+        it was a huge hit! Everything tasted fresh and delicious. I got so many
+        complements on the platter that I plan to order another soon.
+      languageCode: en
+    authorAttribution:
+      displayName: Ezequiel Soltero
+      uri: https://www.google.com/maps/contrib/108750106756150131264/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJoOLQ-YjFA6z8o4PlvRLB4txjhU_yoPHdTxmabmoj10C5rPQ=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-09T01:23:58.047800Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJbXZ2NTN3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJbXZ2NTN3RRAB!2m1!1s0x54905a34a024c411:0x799f41d7fc028b82
+  - name: >-
+      places/ChIJEcQkoDRakFQRgosC_NdBn3k/reviews/ChdDSUhNMG9nS0VJQ0FnTURnb05UVnZnRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        Two words, Mexicans sushi.  The combination of culture and flavor is
+        impeccable. To have a signature sauce is telling in a way that is tangy
+        and has zest kick that is super enjoyable. Would recommend to people who
+        want to try new things.
+      languageCode: en
+    originalText:
+      text: >-
+        Two words, Mexicans sushi.  The combination of culture and flavor is
+        impeccable. To have a signature sauce is telling in a way that is tangy
+        and has zest kick that is super enjoyable. Would recommend to people who
+        want to try new things.
+      languageCode: en
+    authorAttribution:
+      displayName: VolpeSen Gen
+      uri: https://www.google.com/maps/contrib/110375144793697210422/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJ6FvD4Kz-bMxw2L9Ul4Vc5jDcR43f1-ykpQ4kpL06FYZLSkg=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-02-21T23:51:50.121928Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURnb05UVnZnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURnb05UVnZnRRAB!2m1!1s0x54905a34a024c411:0x799f41d7fc028b82
+  - name: >-
+      places/ChIJEcQkoDRakFQRgosC_NdBn3k/reviews/ChdDSUhNMG9nS0VJQ0FnTURJazZ6LXZRRRAB
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 5
+    text:
+      text: >-
+        This place has a unique twist on a classic dish. It’s exactly what I
+        picture Mexican sushi to be. The food was super tasty, but it might be a
+        bit too rich for some. The sushi platter and the seafood tower were
+        incredible! And don’t miss their grilled warm water prawns and grilled
+        octopus, which are straight from Yucatán!
+      languageCode: en
+    originalText:
+      text: >-
+        This place has a unique twist on a classic dish. It’s exactly what I
+        picture Mexican sushi to be. The food was super tasty, but it might be a
+        bit too rich for some. The sushi platter and the seafood tower were
+        incredible! And don’t miss their grilled warm water prawns and grilled
+        octopus, which are straight from Yucatán!
+      languageCode: en
+    authorAttribution:
+      displayName: Nguyen Dinh
+      uri: https://www.google.com/maps/contrib/108255503286562161829/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVzfu_nwP0IxjGeNLI5WDsCAPxyN5gdLhDeVdGHHBPvax1w-eeA2g=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-04-12T19:00:53.897030Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJazZ6LXZRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJazZ6LXZRRRAB!2m1!1s0x54905a34a024c411:0x799f41d7fc028b82
+  - name: >-
+      places/ChIJEcQkoDRakFQRgosC_NdBn3k/reviews/ChdDSUhNMG9nS0VJQ0FnTUNvcG83UjlRRRAB
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 1
+    text:
+      text: >-
+        This place is not an honest business. The first question they asked us
+        was why we were there, where did we find them. Then they went to turn
+        down the music and we received a different color menu than what was
+        given to other tables. The prices were insane. $24+ sushi rolls. There
+        are other reviews that are also about receiving pricing that didn't line
+        up. The service was poor and it just seemed like they wanted us out of
+        there.
+
+
+        I wouldn't go back if it was free.
+      languageCode: en
+    originalText:
+      text: >-
+        This place is not an honest business. The first question they asked us
+        was why we were there, where did we find them. Then they went to turn
+        down the music and we received a different color menu than what was
+        given to other tables. The prices were insane. $24+ sushi rolls. There
+        are other reviews that are also about receiving pricing that didn't line
+        up. The service was poor and it just seemed like they wanted us out of
+        there.
+
+
+        I wouldn't go back if it was free.
+      languageCode: en
+    authorAttribution:
+      displayName: Chris Free
+      uri: https://www.google.com/maps/contrib/115616230460520010128/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXaN3x3k1Qhjg7jj-Us6yzl_KT9duUMF9VpVnt--F_JQL0mBrTLPw=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-04-16T18:44:49.162291Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNvcG83UjlRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNvcG83UjlRRRAB!2m1!1s0x54905a34a024c411:0x799f41d7fc028b82
+  - name: >-
+      places/ChIJEcQkoDRakFQRgosC_NdBn3k/reviews/ChdDSUhNMG9nS0VJQ0FnTURvaE9mZHVBRRAB
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        Best place in town to get the famous sushi Sinaloa style.  I tried once
+        to see how good it was and now I’m in love with that place.  Service is
+        friendly polite and atmosphere is pleasantly enjoyable.
+
+
+        No hay lugar como esta con un estilo único no hay comparado y el
+        servicio es único amigable y cordial
+      languageCode: en
+    originalText:
+      text: >-
+        Best place in town to get the famous sushi Sinaloa style.  I tried once
+        to see how good it was and now I’m in love with that place.  Service is
+        friendly polite and atmosphere is pleasantly enjoyable.
+
+
+        No hay lugar como esta con un estilo único no hay comparado y el
+        servicio es único amigable y cordial
+      languageCode: en
+    authorAttribution:
+      displayName: 206seattle Wa
+      uri: https://www.google.com/maps/contrib/101751170036928036479/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWr9ttSLlyX2k_1nXGSx9r_NPOhuB58tJHAWwCKI_MEEBP75rGK=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-22T00:13:08.213102Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURvaE9mZHVBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURvaE9mZHVBRRAB!2m1!1s0x54905a34a024c411:0x799f41d7fc028b82
+review_summary: >-
+  What Customers Are Sharing$$$Visitors to this sushi restaurant often rave
+  about the creative twists on traditional rolls, praising the fresh flavors and
+  cultural fusion that make it a standout choice for trying something new. While
+  one comment pointed out concerns with pricing and service, the majority
+  highlight the friendly staff and delicious platters that are perfect for
+  events or casual outings. Overall, folks enjoy the welcoming vibe and
+  recommend it for families and groups looking for tasty seafood options nearby.
+  If you're searching for top-rated sushi in Kent, this place delivers a
+  satisfying experience with its emphasis on quality ingredients and enjoyable
+  atmosphere.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
 good_for_sports: null
 live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+menu_for_children: true
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
 serves_breakfast: null
 serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
+serves_cocktails: true
+serves_coffee: false
+serves_dinner: true
 serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_lunch: true
+serves_vegetarian_food: false
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

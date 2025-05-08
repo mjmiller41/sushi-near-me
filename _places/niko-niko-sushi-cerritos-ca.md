@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Niko Niko Sushi"
+title: Niko Niko Sushi
 permalink: /california/cerritos/niko-niko-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Cerritos
 seo:
-  name: "Niko Niko Sushi"
-  type: Restaurant
-  links: null
-description: "Niko Niko Sushi serves delicious sushi in Cerritos, California. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.nikonikocerritos.com/
 place_id: ChIJIVFG9f4s3YARV9te6DbQ7nE
 photos:
   - name: >-
@@ -143,7 +141,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICRjqaumwE!2e10!4m2!3m1!1s0x80dd2cfef5465121:0x71eed036e85edb57
 address: '8586, 12731 Towne Center Dr # F, Cerritos, CA 90703, USA'
-street: '8586, 12731 Towne Center Dr # F'
+street: '8586,12731 Towne Center Dr # F'
 city: Cerritos
 state: CA
 zip: '90703'
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80dd2cfef5465121:0x71eed036e85edb57!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 9:00 PM'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 10:00 PM'
+    - 'Saturday: 11:00 AM – 10:00 PM'
+    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T05:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,54 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (562) 865-2949
+price_level: PRICE_LEVEL_INEXPENSIVE
+price_range: $10 &ndash; $20
+rating: '4.3'
+rating_count: 442
+website: https://www.nikonikocerritos.com/
+description: >-
+  Discover Niko Niko Sushi in Cerritos, CA$$$Niko Niko Sushi in Cerritos, CA,
+  delivers a relaxed and inviting atmosphere for enjoying authentic Japanese
+  cuisine, perfect for those searching for top-rated sushi options nearby. This
+  spot stands out with its diverse selection of fresh specialty rolls, hearty
+  bento boxes, and crispy tempura dishes, all crafted to highlight quality
+  ingredients and creative flavors. Visitors appreciate the accessible features
+  like wheelchair-friendly parking and seating, making it a convenient choice
+  for a wide range of diners. The restaurant maintains welcoming hours from late
+  morning into the evening, ideal for casual lunches or dinners at sushi places
+  near me. Whether you're craving innovative rolls or classic favorites, this
+  establishment combines affordability with a satisfying dining experience that
+  keeps locals coming back.
+generative_summary: >-
+  Discover Niko Niko Sushi in Cerritos, CA$$$Niko Niko Sushi in Cerritos, CA,
+  delivers a relaxed and inviting atmosphere for enjoying authentic Japanese
+  cuisine, perfect for those searching for top-rated sushi options nearby. This
+  spot stands out with its diverse selection of fresh specialty rolls, hearty
+  bento boxes, and crispy tempura dishes, all crafted to highlight quality
+  ingredients and creative flavors. Visitors appreciate the accessible features
+  like wheelchair-friendly parking and seating, making it a convenient choice
+  for a wide range of diners. The restaurant maintains welcoming hours from late
+  morning into the evening, ideal for casual lunches or dinners at sushi places
+  near me. Whether you're craving innovative rolls or classic favorites, this
+  establishment combines affordability with a satisfying dining experience that
+  keeps locals coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$From the strong 4.3-star rating based on hundreds
+  of feedback, folks generally enjoy the fresh and flavorful sushi offerings
+  that make meals feel worthwhile without breaking the bank. Many highlight the
+  reliable service and variety of options, noting that it's a solid pick for
+  groups or families looking for tasty Japanese dishes in a laid-back setting.
+  While some mention occasional waits during peak times, the overall consensus
+  leans positive, with diners praising the value and quality that elevate it
+  among sushi restaurants close to me. It's clear that the welcoming vibe and
+  consistent flavors have won over repeat customers, making it a go-to for
+  anyone seeking dependable, enjoyable eats. Overall, the feedback paints a
+  picture of a spot that's worth trying for its balance of taste, affordability,
+  and convenience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +315,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

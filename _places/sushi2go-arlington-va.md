@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi2Go"
+title: Sushi2Go
 permalink: /virginia/arlington/sushi2go.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Arlington
 seo:
-  name: "Sushi2Go"
-  type: Restaurant
+  type: restaurant
   links: https://sushi2gova.com/
-description: "Sushi2Go serves delicious sushi in Arlington, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJA3alASW0t4kR6IEqDl0fTpk
 photos:
   - name: >-
@@ -183,6 +181,29 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 0
 website: https://sushi2gova.com/
+description: >-
+  Discover Sushi2Go in Arlington, Virginia$$$Sushi2Go in Arlington, VA, stands
+  out as a convenient sushi restaurant ideal for those seeking quick and
+  flavorful meals in a casual setting. This spot emphasizes fresh bites with a
+  variety of options, including vegetarian and vegan choices, making it a
+  versatile choice for lunch or dinner on the go. Its efficient service and
+  affordable pricing around $10 to $20 appeal to locals looking for everyday
+  sushi options without the fuss. Wheelchair accessibility adds to its welcoming
+  vibe, ensuring everyone can enjoy the experience. Whether you're exploring top
+  sushi spots near you, this place delivers on speed and simplicity for a
+  satisfying meal.
+generative_summary: >-
+  Discover Sushi2Go in Arlington, Virginia$$$Sushi2Go in Arlington, VA, stands
+  out as a convenient sushi restaurant ideal for those seeking quick and
+  flavorful meals in a casual setting. This spot emphasizes fresh bites with a
+  variety of options, including vegetarian and vegan choices, making it a
+  versatile choice for lunch or dinner on the go. Its efficient service and
+  affordable pricing around $10 to $20 appeal to locals looking for everyday
+  sushi options without the fuss. Wheelchair accessibility adds to its welcoming
+  vibe, ensuring everyone can enjoy the experience. Whether you're exploring top
+  sushi spots near you, this place delivers on speed and simplicity for a
+  satisfying meal.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJA3alASW0t4kR6IEqDl0fTpk/reviews/ChZDSUhNMG9nS0VJQ0FnSURIZ1pQckdREAE
@@ -334,6 +355,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNReHVqUjFRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNReHVqUjFRRRAB!2m1!1s0x89b7b42501a57603:0x994e1f5d0e2a81e8
+review_summary: >-
+  What Customers Are Saying About the Experience$$$Folks often rave about the
+  fresh flavors and speedy prep at this sushi spot, making it a solid pick for
+  quick takeout or a casual bite. While some appreciate the variety and how well
+  it handles vegetarian options, a few mentions point to occasional
+  inconsistencies like smaller portions that might not feel worth the cost.
+  Overall, it's praised for its convenience and tasty rolls, though a handful of
+  experiences suggest checking for substitutions to avoid surprises. Despite
+  these mixed notes, many return for the reliable freshness, keeping things
+  upbeat for sushi enthusiasts in the area. If you're hunting for reliable sushi
+  restaurants nearby, this one generally hits the mark with its approachable
+  vibe and efficient service.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   valetParking: false
 payment_options:
@@ -364,7 +398,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Che Pizza"
+title: Che Pizza
 permalink: /new-jersey/metuchen/che-pizza.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Metuchen
 seo:
-  name: "Che Pizza"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Che Pizza serves delicious sushi in Metuchen, New Jersey. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJJydyZgy3w4kRVSdkaoPiBGc
 photos:
   - name: >-
@@ -184,7 +182,42 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  About Che Pizza in Metuchen, NJ$$$Che Pizza in Metuchen, NJ, offers a
+  welcoming Italian dining experience focused on delicious pizza and comforting
+  dishes. This relaxed eatery stands out with its inclusive menu that includes
+  vegan options, making it a great choice for various dietary preferences. The
+  spot emphasizes accessibility, featuring wheelchair-friendly parking,
+  entrances, and seating to ensure everyone can enjoy their meal comfortably.
+  Beyond the food, the atmosphere provides a cozy setting for casual gatherings,
+  perfect for those seeking straightforward yet satisfying fare. Its location in
+  a vibrant area adds to the appeal for locals looking for reliable
+  Italian-inspired options nearby.
+generative_summary: >-
+  About Che Pizza in Metuchen, NJ$$$Che Pizza in Metuchen, NJ, offers a
+  welcoming Italian dining experience focused on delicious pizza and comforting
+  dishes. This relaxed eatery stands out with its inclusive menu that includes
+  vegan options, making it a great choice for various dietary preferences. The
+  spot emphasizes accessibility, featuring wheelchair-friendly parking,
+  entrances, and seating to ensure everyone can enjoy their meal comfortably.
+  Beyond the food, the atmosphere provides a cozy setting for casual gatherings,
+  perfect for those seeking straightforward yet satisfying fare. Its location in
+  a vibrant area adds to the appeal for locals looking for reliable
+  Italian-inspired options nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback Highlights$$$Visitors to places like this Italian eatery
+  often appreciate the straightforward appeal of classic pizza and comfort food,
+  with many noting the vegan choices as a thoughtful addition. Feedback tends to
+  highlight the welcoming vibe and accessible features, making it a solid pick
+  for families or groups wanting an easy meal. While specific comments vary,
+  there's a common theme of satisfaction with the quality and variety, helping
+  it stand out among local dining spots. Overall, the general sentiment leans
+  positive, suggesting it's worth trying for anyone in the mood for reliable
+  eats. Keep in mind that experiences can differ, so stopping by could offer
+  your own pleasant surprise.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +243,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

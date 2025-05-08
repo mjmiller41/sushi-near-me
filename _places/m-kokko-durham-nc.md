@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "M Kokko"
+title: M Kokko
 permalink: /north-carolina/durham/m-kokko.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Durham
 seo:
-  name: "M Kokko"
-  type: Restaurant
+  type: restaurant
   links: https://www.m-restaurants.com/m-kokko
-description: "M Kokko serves delicious sushi in Durham, North Carolina. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJbSVVF3LkrIkRbrlb1t94cMI
 photos:
   - name: >-
@@ -167,7 +165,81 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89ace4721755256d:0xc27078dfd65bb96e!10e5
 primary_type: Korean Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:30 AM – 2:00 PM, 5:00 – 9:30 PM'
     - 'Wednesday: 11:30 AM – 2:00 PM, 5:00 – 9:30 PM'
@@ -175,14 +247,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 2:00 PM, 5:00 – 10:00 PM'
     - 'Saturday: 5:00 – 10:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:30 AM – 2:00 PM, 5:00 – 9:30 PM'
-    - 'Wednesday: 11:30 AM – 2:00 PM, 5:00 – 9:30 PM'
-    - 'Thursday: 11:30 AM – 2:00 PM, 5:00 – 9:30 PM'
-    - 'Friday: 11:30 AM – 2:00 PM, 5:00 – 10:00 PM'
-    - 'Saturday: 5:00 – 10:00 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -194,9 +259,44 @@ phone: (919) 908-9332
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.5'
-rating_count: 0
+rating_count: 849
 website: https://www.m-restaurants.com/m-kokko
+description: >-
+  Discover M Kokko in Durham, NC$$$Nestled in the heart of Durham, NC, M Kokko
+  stands out as a welcoming Korean restaurant offering a blend of authentic
+  flavors and relaxed vibes. This spot delights visitors with its laid-back
+  atmosphere, featuring hearty Korean dishes like flavorful ramen and spicy
+  wings, complemented by a selection of beer, wine, and cocktails for a complete
+  dining experience. The restaurant's accessibility, including
+  wheelchair-friendly entrances, ensures everyone can enjoy its cozy setting and
+  moderately priced menu, making it ideal for casual meals or quick visits. With
+  convenient hours that cater to both lunch and dinner crowds, it's a go-to
+  destination for those seeking Asian-inspired cuisine near the city center.
+generative_summary: >-
+  Discover M Kokko in Durham, NC$$$Nestled in the heart of Durham, NC, M Kokko
+  stands out as a welcoming Korean restaurant offering a blend of authentic
+  flavors and relaxed vibes. This spot delights visitors with its laid-back
+  atmosphere, featuring hearty Korean dishes like flavorful ramen and spicy
+  wings, complemented by a selection of beer, wine, and cocktails for a complete
+  dining experience. The restaurant's accessibility, including
+  wheelchair-friendly entrances, ensures everyone can enjoy its cozy setting and
+  moderately priced menu, making it ideal for casual meals or quick visits. With
+  convenient hours that cater to both lunch and dinner crowds, it's a go-to
+  destination for those seeking Asian-inspired cuisine near the city center.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors to this Korean eatery often rave
+  about the tasty ramen and savory chicken sandwiches that hit the spot for a
+  satisfying meal. Many appreciate the intimate, cozy ambiance that creates a
+  perfect backdrop for casual get-togethers or solo dining adventures. Folks
+  frequently mention the flavorful pork buns as a standout highlight, adding to
+  the overall appeal of the menu. While opinions vary, the general consensus
+  leans positive, praising the spot for its approachable vibe and solid food
+  options that make it worth a return visit. If you're in the mood for reliable
+  Korean dishes in a welcoming environment, this place delivers just that
+  without overcomplicating things.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -222,7 +322,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

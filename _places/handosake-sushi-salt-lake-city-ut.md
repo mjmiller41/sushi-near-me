@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "HandoSake Sushi"
+title: HandoSake Sushi
 permalink: /utah/salt-lake-city/handosake-sushi.html
 stateAbbr: UT
 stateName: Utah
 cityName: Salt Lake City
 seo:
-  name: "HandoSake Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://handosake.com/
-description: "HandoSake Sushi serves delicious sushi in Salt Lake City, Utah. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJL830sJb1UocRE_Hnh_RBybE
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8752f596b0f4cd2f:0xb1c941f487e7f113!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:00 PM'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -178,54 +226,420 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:00 PM'
     - 'Saturday: 11:00 AM – 10:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:00 AM – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 10:00 PM'
-    - 'Saturday: 11:00 AM – 10:00 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 1
+          hour: 10
+          minute: 45
+        close:
+          day: 1
+          hour: 20
+          minute: 0
+      - open:
+          day: 2
+          hour: 10
+          minute: 45
+        close:
+          day: 2
+          hour: 20
+          minute: 0
+      - open:
+          day: 3
+          hour: 10
+          minute: 45
+        close:
+          day: 3
+          hour: 20
+          minute: 0
+      - open:
+          day: 4
+          hour: 10
+          minute: 45
+        close:
+          day: 4
+          hour: 20
+          minute: 0
+      - open:
+          day: 5
+          hour: 10
+          minute: 45
+        close:
+          day: 5
+          hour: 21
+          minute: 0
+      - open:
+          day: 6
+          hour: 10
+          minute: 45
+        close:
+          day: 6
+          hour: 21
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 10:45 AM – 8:00 PM'
+      - 'Tuesday: 10:45 AM – 8:00 PM'
+      - 'Wednesday: 10:45 AM – 8:00 PM'
+      - 'Thursday: 10:45 AM – 8:00 PM'
+      - 'Friday: 10:45 AM – 9:00 PM'
+      - 'Saturday: 10:45 AM – 9:00 PM'
+      - 'Sunday: Closed'
+    secondaryHoursType: DELIVERY
+    nextCloseTime: '2025-05-04T03:00:00Z'
+  - openNow: true
+    periods:
+      - open:
+          day: 1
+          hour: 10
+          minute: 45
+        close:
+          day: 1
+          hour: 20
+          minute: 0
+      - open:
+          day: 2
+          hour: 10
+          minute: 45
+        close:
+          day: 2
+          hour: 20
+          minute: 0
+      - open:
+          day: 3
+          hour: 10
+          minute: 45
+        close:
+          day: 3
+          hour: 20
+          minute: 0
+      - open:
+          day: 4
+          hour: 10
+          minute: 45
+        close:
+          day: 4
+          hour: 20
+          minute: 0
+      - open:
+          day: 5
+          hour: 10
+          minute: 45
+        close:
+          day: 5
+          hour: 21
+          minute: 0
+      - open:
+          day: 6
+          hour: 10
+          minute: 45
+        close:
+          day: 6
+          hour: 17
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 10:45 AM – 8:00 PM'
+      - 'Tuesday: 10:45 AM – 8:00 PM'
+      - 'Wednesday: 10:45 AM – 8:00 PM'
+      - 'Thursday: 10:45 AM – 8:00 PM'
+      - 'Friday: 10:45 AM – 9:00 PM'
+      - 'Saturday: 10:45 AM – 5:30 PM'
+      - 'Sunday: Closed'
+    secondaryHoursType: TAKEOUT
+    nextCloseTime: '2025-05-03T23:30:00Z'
 phone: (385) 295-4377
 price_level: null
 price_range: null
-rating: '4.8'
-rating_count: 0
+rating: '4.7'
+rating_count: 387
 website: https://handosake.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Experience HandoSake Sushi in Salt Lake City, UT$$$HandoSake Sushi in Salt
+  Lake City, UT, stands out as a top-rated Japanese restaurant offering fresh
+  and flavorful sushi options that appeal to locals and visitors searching for
+  sushi near me. The spot features an inviting atmosphere with accessible
+  entrances and seating, making it easy for everyone to enjoy a casual yet
+  elegant dining experience focused on high-quality ingredients and creative
+  rolls. Diners can savor a variety of hand rolls and appetizers, all prepared
+  with attention to detail in a welcoming environment that's perfect for those
+  exploring sushi restaurants in the area. With convenient hours including
+  evenings and weekends, it's an ideal choice for anyone craving authentic
+  Japanese flavors without the hassle. Plus, options like delivery and takeout
+  add to its appeal for busy sushi enthusiasts.
+generative_summary: >-
+  Experience HandoSake Sushi in Salt Lake City, UT$$$HandoSake Sushi in Salt
+  Lake City, UT, stands out as a top-rated Japanese restaurant offering fresh
+  and flavorful sushi options that appeal to locals and visitors searching for
+  sushi near me. The spot features an inviting atmosphere with accessible
+  entrances and seating, making it easy for everyone to enjoy a casual yet
+  elegant dining experience focused on high-quality ingredients and creative
+  rolls. Diners can savor a variety of hand rolls and appetizers, all prepared
+  with attention to detail in a welcoming environment that's perfect for those
+  exploring sushi restaurants in the area. With convenient hours including
+  evenings and weekends, it's an ideal choice for anyone craving authentic
+  Japanese flavors without the hassle. Plus, options like delivery and takeout
+  add to its appeal for busy sushi enthusiasts.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJL830sJb1UocRE_Hnh_RBybE/reviews/ChdDSUhNMG9nS0VJQ0FnTURvcnBYa2xnRRAB
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        Really awesome sushi bar experience! Everything was delicious,
+        especially the fresh nigiri!!!
+
+
+        We started with the Rock Shrimp, wonton tacos, and crispy rice. Rock
+        Shrimp were the fav!
+
+
+        Then we had several hand rolls including the Lobster and negitoro.
+
+
+        Nigiri I HiGHLY recommend the Torched Sablefish and the Hamachi with
+        Ponzu.
+
+
+        The Watermelon Marg was amazing and my friends enjoyed the Handosake Old
+        Fashion
+      languageCode: en
+    originalText:
+      text: >-
+        Really awesome sushi bar experience! Everything was delicious,
+        especially the fresh nigiri!!!
+
+
+        We started with the Rock Shrimp, wonton tacos, and crispy rice. Rock
+        Shrimp were the fav!
+
+
+        Then we had several hand rolls including the Lobster and negitoro.
+
+
+        Nigiri I HiGHLY recommend the Torched Sablefish and the Hamachi with
+        Ponzu.
+
+
+        The Watermelon Marg was amazing and my friends enjoyed the Handosake Old
+        Fashion
+      languageCode: en
+    authorAttribution:
+      displayName: K S
+      uri: https://www.google.com/maps/contrib/107410187045620930328/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLbSm8ZUHcaOkLQTbJR1nRQBf8R73bacCqQD_aH0K6Afx9zOCuT=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-25T02:29:48.601268Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURvcnBYa2xnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURvcnBYa2xnRRAB!2m1!1s0x8752f596b0f4cd2f:0xb1c941f487e7f113
+  - name: >-
+      places/ChIJL830sJb1UocRE_Hnh_RBybE/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJLUpPSnF3RRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        How lovely this place is! I and my partner found the place unexpectedly
+        when we were looking for a restaurant for a dinner.
+
+
+        They have a beautiful interior and amazing staffs. I’m unfortunately
+        allergic to some of seafood that they adjusted my order that I was able
+        to enjoy my dinner very well!
+
+
+        I’m also very picky about seafood due to my allergy and usually not a
+        big fan of spicy tuna fan because of texture of tuna that’s ground but
+        they had big chunks of tuna that I actually enjoyed it a lot
+        surprisingly. All the things I ordered were so great that I ended up
+        eating too much lol.
+
+
+        Rice was really well cooked and seaweed was very fresh and crisp. The
+        chefs were so friendly and amazing for their sushi. I’m definitely
+        coming back here when in town!
+      languageCode: en
+    originalText:
+      text: >-
+        How lovely this place is! I and my partner found the place unexpectedly
+        when we were looking for a restaurant for a dinner.
+
+
+        They have a beautiful interior and amazing staffs. I’m unfortunately
+        allergic to some of seafood that they adjusted my order that I was able
+        to enjoy my dinner very well!
+
+
+        I’m also very picky about seafood due to my allergy and usually not a
+        big fan of spicy tuna fan because of texture of tuna that’s ground but
+        they had big chunks of tuna that I actually enjoyed it a lot
+        surprisingly. All the things I ordered were so great that I ended up
+        eating too much lol.
+
+
+        Rice was really well cooked and seaweed was very fresh and crisp. The
+        chefs were so friendly and amazing for their sushi. I’m definitely
+        coming back here when in town!
+      languageCode: en
+    authorAttribution:
+      displayName: Raehyeon Jeong (Rae)
+      uri: https://www.google.com/maps/contrib/104307969484463123443/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJ_anIokT2uBoTsZRefc3E-akwTFUMecS0TAloK4VDp7mIV_JQ=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-03-30T06:59:12.588818Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNJLUpPSnF3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNJLUpPSnF3RRAB!2m1!1s0x8752f596b0f4cd2f:0xb1c941f487e7f113
+  - name: >-
+      places/ChIJL830sJb1UocRE_Hnh_RBybE/reviews/ChZDSUhNMG9nS0VJQ0FnTUNnbk9DalN3EAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        Such a fun and laid back atmosphere. Easy going. Sat at the bar & Sendi
+        prepared our food right in front of us with SUCH great care. The manager
+        was also friendly and social! Went on a night where the owner (Jim)
+        introduced himself, friendly as well!
+
+        CANNOT go wrong here. The fish tastes SO fresh🤤
+      languageCode: en
+    originalText:
+      text: >-
+        Such a fun and laid back atmosphere. Easy going. Sat at the bar & Sendi
+        prepared our food right in front of us with SUCH great care. The manager
+        was also friendly and social! Went on a night where the owner (Jim)
+        introduced himself, friendly as well!
+
+        CANNOT go wrong here. The fish tastes SO fresh🤤
+      languageCode: en
+    authorAttribution:
+      displayName: Victora Lasike
+      uri: https://www.google.com/maps/contrib/106069060406912397792/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjU0RxokEyr-vlqdr6Y1QKAZ_HTXH6Pe9lqdbcIoU4Uue4aS56e5=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-02-15T00:53:03.037194Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNnbk9DalN3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNnbk9DalN3EAE!2m1!1s0x8752f596b0f4cd2f:0xb1c941f487e7f113
+  - name: >-
+      places/ChIJL830sJb1UocRE_Hnh_RBybE/reviews/ChZDSUhNMG9nS0VJQ0FnTUNvbi1fTllBEAE
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        Fish was fresh and delicious, got the toro special and it was fantastic.
+        Everything was amazing, will definitely be back next time I’m in the
+        area!
+      languageCode: en
+    originalText:
+      text: >-
+        Fish was fresh and delicious, got the toro special and it was fantastic.
+        Everything was amazing, will definitely be back next time I’m in the
+        area!
+      languageCode: en
+    authorAttribution:
+      displayName: David Hymel
+      uri: https://www.google.com/maps/contrib/102952368730233422215/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXZmH2SbiSsWXq97uVMUrOmgApXkjz1azNRd5BzTcYukFEovh9u=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-21T01:41:46.341101Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNvbi1fTllBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNvbi1fTllBEAE!2m1!1s0x8752f596b0f4cd2f:0xb1c941f487e7f113
+  - name: >-
+      places/ChIJL830sJb1UocRE_Hnh_RBybE/reviews/ChZDSUhNMG9nS0VJQ0FnTUNnbkoySU1BEAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 4
+    text:
+      text: >-
+        We had a great experience tonight. We made the mistake of reserving our
+        night for the 17th believing it was schedule the 14th for Valentines…
+        somehow they made it work and squeezed us in without a reservation. They
+        saved the night for sure! We loved the appetizer Rock Shrimp. It was
+        quickly demonstrated that Handosake is going for a very natural,
+        unaltered/artificial flavor experience. It would do well to have some
+        salt or seasoning for the filet mignon or even some unagi sauce for
+        rolls, but altogether we really enjoyed ourselves and finished with an
+        great Matcha Crème brûlée (no it doesn’t taste like Matcha).
+      languageCode: en
+    originalText:
+      text: >-
+        We had a great experience tonight. We made the mistake of reserving our
+        night for the 17th believing it was schedule the 14th for Valentines…
+        somehow they made it work and squeezed us in without a reservation. They
+        saved the night for sure! We loved the appetizer Rock Shrimp. It was
+        quickly demonstrated that Handosake is going for a very natural,
+        unaltered/artificial flavor experience. It would do well to have some
+        salt or seasoning for the filet mignon or even some unagi sauce for
+        rolls, but altogether we really enjoyed ourselves and finished with an
+        great Matcha Crème brûlée (no it doesn’t taste like Matcha).
+      languageCode: en
+    authorAttribution:
+      displayName: Ian
+      uri: https://www.google.com/maps/contrib/108082083521724555745/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjU-0G4okJgCtIXq6l0alh7rswiPMJKwRiJFWtCCB0Ixr3rSUBYkhw=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-02-15T02:30:03.989971Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNnbkoySU1BEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNnbkoySU1BEAE!2m1!1s0x8752f596b0f4cd2f:0xb1c941f487e7f113
+review_summary: >-
+  What Customers Are Buzzing About$$$Visitors to this sushi spot often highlight
+  the incredibly fresh fish and tasty hand rolls, making it a go-to for anyone
+  hunting for the best sushi near me with a laid-back vibe. Many appreciate the
+  friendly service and well-cooked rice that elevate simple appetizers like rock
+  shrimp into standout dishes, creating a consistently enjoyable meal. While
+  most feedback praises the overall experience, a few note that certain items
+  could use a bit more seasoning, but this doesn't detract from the fun
+  atmosphere and great value. Overall, folks love how the place delivers on
+  flavor and hospitality, encouraging repeat visits for Japanese-inspired eats.
+  If you're in the mood for reliable, delicious sushi places near me, this
+  location keeps things positive and satisfying for groups or solo diners alike.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: false
+  paidParkingLot: true
+  freeStreetParking: false
+  paidStreetParking: true
+  valetParking: false
+  freeGarageParking: false
+  paidGarageParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: false
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
+curbside_pickup: false
+delivery: true
+dine_in: true
+good_for_children: true
 good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
+good_for_sports: false
+live_music: true
+menu_for_children: true
 outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
+serves_coffee: true
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

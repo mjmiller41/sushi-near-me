@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yama Sushi"
+title: Yama Sushi
 permalink: /maryland/nottingham/yama-sushi.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Nottingham
 seo:
-  name: "Yama Sushi"
-  type: Restaurant
-  links: null
-description: "Yama Sushi serves delicious sushi in Nottingham, Maryland. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.yamasushibaltimore.com/
 place_id: ChIJ-YHBqMsJyIkRewZEmO4jtb8
 photos:
   - name: >-
@@ -169,8 +167,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c809cba8c181f9:0xbfb523ee9844067b!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 0
+    - open:
+        day: 1
+        hour: 12
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 12
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 12
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 12
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 12
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 12:00 – 9:00 PM'
+    - 'Tuesday: 12:00 – 9:00 PM'
+    - 'Wednesday: 12:00 – 9:00 PM'
+    - 'Thursday: 12:00 – 9:00 PM'
+    - 'Friday: 12:00 – 9:00 PM'
+    - 'Saturday: 12:00 – 9:00 PM'
+    - 'Sunday: 12:00 – 8:00 PM'
+  nextCloseTime: '2025-05-04T01:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -178,13 +241,51 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
+phone: (410) 529-5180
 price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+price_range: $20 &ndash; $30
+rating: '4.3'
+rating_count: 128
+website: https://www.yamasushibaltimore.com/
+description: >-
+  Discover Yama Sushi in Nottingham, MD$$$Yama Sushi in Nottingham, MD, stands
+  out as a welcoming spot for those seeking fresh Japanese and Thai-inspired
+  dishes, blending traditional flavors with a relaxed atmosphere. This sushi
+  restaurant offers an array of expertly prepared rolls, tempura, and other
+  Asian specialties, making it a go-to choice for anyone craving authentic
+  tastes in a comfortable setting. Accessibility features like
+  wheelchair-friendly parking and seating ensure it's inclusive for all diners,
+  while its convenient hours from noon onward cater to lunch and dinner crowds.
+  Whether you're exploring sushi places near you or looking for a casual meal
+  with friends, the menu's variety highlights fresh ingredients and thoughtful
+  presentations that elevate the dining experience.
+generative_summary: >-
+  Discover Yama Sushi in Nottingham, MD$$$Yama Sushi in Nottingham, MD, stands
+  out as a welcoming spot for those seeking fresh Japanese and Thai-inspired
+  dishes, blending traditional flavors with a relaxed atmosphere. This sushi
+  restaurant offers an array of expertly prepared rolls, tempura, and other
+  Asian specialties, making it a go-to choice for anyone craving authentic
+  tastes in a comfortable setting. Accessibility features like
+  wheelchair-friendly parking and seating ensure it's inclusive for all diners,
+  while its convenient hours from noon onward cater to lunch and dinner crowds.
+  Whether you're exploring sushi places near you or looking for a casual meal
+  with friends, the menu's variety highlights fresh ingredients and thoughtful
+  presentations that elevate the dining experience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Feedback from visitors to this sushi spot
+  highlights its solid reputation for delivering fresh, flavorful dishes that
+  keep people coming back for more. Many appreciate the consistent quality of
+  the rolls and entrees, noting that the portions are generous and the overall
+  vibe is laid-back and enjoyable. While some mention minor waits during peak
+  times, the general consensus praises the value for the price, with meals often
+  described as satisfying and well worth it. Overall, the high ratings reflect a
+  positive experience for families and groups alike, making it a reliable option
+  if you're hunting for top-rated sushi nearby. Diners seem to agree that the
+  blend of Japanese and Thai options adds a fun twist, encouraging repeat visits
+  for a tasty, no-fuss meal.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +311,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

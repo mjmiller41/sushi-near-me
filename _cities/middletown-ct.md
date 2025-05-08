@@ -5,4 +5,5 @@ permalink: /connecticut/middletown/
 stateAbbr: CT
 stateName: Connecticut
 cityName: Middletown
+
 ---

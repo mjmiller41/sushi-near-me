@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Hana Ramen Sushi"
+title: Hana Ramen Sushi
 permalink: /iowa/west-des-moines/hana-ramen-sushi.html
 stateAbbr: IA
 stateName: Iowa
 cityName: West Des Moines
 seo:
-  name: "Hana Ramen Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.hanaramensushi.com/
-description: "Busy Japanese standby offering sushi & ramen in a contemporary, yellow dining room with a full bar. Hana Ramen Sushi serves delicious sushi in West Des Moines, Iowa. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJI49DhJAh7IcRJA_IzD2oWs4
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 0
 website: http://www.hanaramensushi.com/
+description: >-
+  Discover Hana Ramen Sushi in West Des Moines, IA$$$Hana Ramen Sushi in West
+  Des Moines, IA, stands out as a casual Japanese spot where fresh ramen and
+  sushi take center stage in a vibrant, contemporary setting. This welcoming
+  restaurant features a full bar with options like beer and sake, perfect for
+  enhancing your meal in a lively atmosphere. Diners can enjoy traditional fare
+  with thoughtful presentations that highlight high-quality ingredients and
+  authentic flavors, making it a go-to choice for those seeking top-rated
+  Japanese cuisine nearby. Accessibility is a key feature, with options like
+  wheelchair-accessible seating and parking that ensure everyone can savor the
+  experience. Whether you're in the mood for a quick bite or a relaxed dinner,
+  this spot combines affordability with a modern vibe that appeals to sushi
+  enthusiasts exploring local options.
+generative_summary: >-
+  Discover Hana Ramen Sushi in West Des Moines, IA$$$Hana Ramen Sushi in West
+  Des Moines, IA, stands out as a casual Japanese spot where fresh ramen and
+  sushi take center stage in a vibrant, contemporary setting. This welcoming
+  restaurant features a full bar with options like beer and sake, perfect for
+  enhancing your meal in a lively atmosphere. Diners can enjoy traditional fare
+  with thoughtful presentations that highlight high-quality ingredients and
+  authentic flavors, making it a go-to choice for those seeking top-rated
+  Japanese cuisine nearby. Accessibility is a key feature, with options like
+  wheelchair-accessible seating and parking that ensure everyone can savor the
+  experience. Whether you're in the mood for a quick bite or a relaxed dinner,
+  this spot combines affordability with a modern vibe that appeals to sushi
+  enthusiasts exploring local options.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJI49DhJAh7IcRJA_IzD2oWs4/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfMHZTXy1nRRAB
@@ -352,6 +377,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUROcjZxNkVnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUROcjZxNkVnEAE!2m1!1s0x87ec219084438f23:0xce5aa83dccc80f24
+review_summary: >-
+  What Customers Are Buzzing About$$$Visitors to this Japanese favorite often
+  praise the lively atmosphere and efficient service, which make for a enjoyable
+  outing despite occasional crowds. Many highlight the delicious sushi rolls and
+  appetizers as standout items that deliver great taste and value, encouraging
+  repeat visits for those craving fresh, flavorful dishes. While some note that
+  ramen options could use more variety in broths to suit different preferences,
+  the overall consensus leans positive with hearty endorsements for the menu's
+  highlights like fried rice and desserts. Feedback appreciates the clean,
+  inviting space and accommodating staff, creating a welcoming environment for
+  groups or families. All in all, it's a solid pick for anyone searching for
+  reliable sushi spots nearby, offering a mix of hits that keep the experience
+  upbeat and satisfying.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -384,8 +423,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Busy Japanese standby offering sushi & ramen in a contemporary, yellow dining
   room with a full bar.
 

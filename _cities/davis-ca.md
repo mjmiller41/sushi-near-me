@@ -5,4 +5,5 @@ permalink: /california/davis/
 stateAbbr: CA
 stateName: California
 cityName: Davis
+
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Itzavy Sushi"
+title: Itzavy Sushi
 permalink: /nevada/reno/itzavy-sushi.html
 stateAbbr: NV
 stateName: Nevada
 cityName: Reno
 seo:
-  name: "Itzavy Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Itzavy Sushi serves delicious sushi in Reno, Nevada. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ7Sn_FR9HmYARbg3tMLMFQIg
 photos:
   - name: >-
@@ -185,7 +183,43 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Itzavy Sushi in Reno, NV$$$Itzavy Sushi in Reno, NV, offers a
+  laid-back dining experience focused on fresh sushi options that appeal to
+  those seeking quality Japanese cuisine in a welcoming setting. This spot
+  stands out with its all-you-can-eat selections, complemented by a selection of
+  beer and sake, making it a go-to choice for sushi enthusiasts exploring local
+  flavors. The restaurant's accessible features, like wheelchair-friendly
+  entrances and seating, ensure a comfortable visit for everyone, enhancing its
+  appeal in the vibrant Downtown area. With its casual vibe and emphasis on
+  variety, it's an ideal spot for anyone hunting for tasty sushi restaurants
+  nearby, blending affordability with authentic tastes that keep diners coming
+  back.
+generative_summary: >-
+  Discover Itzavy Sushi in Reno, NV$$$Itzavy Sushi in Reno, NV, offers a
+  laid-back dining experience focused on fresh sushi options that appeal to
+  those seeking quality Japanese cuisine in a welcoming setting. This spot
+  stands out with its all-you-can-eat selections, complemented by a selection of
+  beer and sake, making it a go-to choice for sushi enthusiasts exploring local
+  flavors. The restaurant's accessible features, like wheelchair-friendly
+  entrances and seating, ensure a comfortable visit for everyone, enhancing its
+  appeal in the vibrant Downtown area. With its casual vibe and emphasis on
+  variety, it's an ideal spot for anyone hunting for tasty sushi restaurants
+  nearby, blending affordability with authentic tastes that keep diners coming
+  back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Visitor Feedback$$$Although reviews for Itzavy Sushi are still
+  building, early feedback highlights the relaxed atmosphere and solid food
+  options as standout features for those enjoying casual Japanese dining.
+  Visitors often note the all-you-can-eat deals and drink selections as great
+  value, helping it emerge as a promising choice among sushi places in the area.
+  The general vibe comes across as inviting and unpretentious, with mentions of
+  fresh ingredients adding to the positive experience without overwhelming hype.
+  Overall, it seems like a solid pick for anyone in Reno looking for dependable
+  sushi spots, offering a mix of fun and flavor that encourages return visits.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +245,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

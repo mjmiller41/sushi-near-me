@@ -5,4 +5,5 @@ permalink: /new-york/rochester/
 stateAbbr: NY
 stateName: New York
 cityName: Rochester
+
 ---

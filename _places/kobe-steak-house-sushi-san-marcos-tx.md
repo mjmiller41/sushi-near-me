@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kobe Steak House & Sushi"
+title: Kobe Steak House & Sushi
 permalink: /texas/san-marcos/kobe-steak-house-sushi.html
 stateAbbr: TX
 stateName: Texas
 cityName: San Marcos
 seo:
-  name: "Kobe Steak House & Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.kobesmtx.com/
-description: "Kobe Steak House & Sushi serves delicious sushi in San Marcos, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJe1Z-R22pXIYRGCg1bxr9UQ0
 photos:
   - name: >-
@@ -170,22 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x865ca96d477e567b:0xd51fd1a6f352818!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 23
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 10:00 PM'
     - 'Tuesday: 11:30 AM – 10:00 PM'
     - 'Wednesday: 11:30 AM – 10:00 PM'
     - 'Thursday: 11:30 AM – 10:00 PM'
     - 'Friday: 11:30 AM – 11:00 PM'
     - 'Saturday: 11:30 AM – 11:00 PM'
-    - 'Sunday: 11:30 AM – 10:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 10:00 PM'
-    - 'Tuesday: 11:30 AM – 10:00 PM'
-    - 'Wednesday: 11:30 AM – 10:00 PM'
-    - 'Thursday: 11:30 AM – 10:00 PM'
-    - 'Friday: 11:30 AM – 11:00 PM'
-    - 'Saturday: 11:30 AM – 11:00 PM'
-    - 'Sunday: 11:30 AM – 10:00 PM'
+    - 'Sunday: 11:30 AM – 11:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +246,49 @@ phone: (512) 396-7200
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.2'
-rating_count: 0
+rating_count: 1639
 website: https://www.kobesmtx.com/
+description: >-
+  Discover Kobe Steak House & Sushi in San Marcos, TX$$$Kobe Steak House & Sushi
+  in San Marcos, TX, stands out as a welcoming Japanese restaurant perfect for
+  those seeking fresh sushi and hibachi experiences nearby. This casual spot
+  offers an array of flavorful Japanese dishes, including all-you-can-eat sushi
+  options that cater to sushi enthusiasts looking for variety and value. With
+  its accessible features like wheelchair-friendly entrances and seating, it
+  ensures a comfortable visit for everyone enjoying authentic hibachi meals and
+  traditional flavors. The restaurant's extended hours make it easy to drop in
+  for lunch or dinner, adding to its appeal as a reliable choice for Japanese
+  cuisine in the area. Whether you're in the mood for top-rated sushi rolls or
+  sizzling hibachi grills, this location delivers a satisfying dining atmosphere
+  that blends simplicity with genuine taste.
+generative_summary: >-
+  Discover Kobe Steak House & Sushi in San Marcos, TX$$$Kobe Steak House & Sushi
+  in San Marcos, TX, stands out as a welcoming Japanese restaurant perfect for
+  those seeking fresh sushi and hibachi experiences nearby. This casual spot
+  offers an array of flavorful Japanese dishes, including all-you-can-eat sushi
+  options that cater to sushi enthusiasts looking for variety and value. With
+  its accessible features like wheelchair-friendly entrances and seating, it
+  ensures a comfortable visit for everyone enjoying authentic hibachi meals and
+  traditional flavors. The restaurant's extended hours make it easy to drop in
+  for lunch or dinner, adding to its appeal as a reliable choice for Japanese
+  cuisine in the area. Whether you're in the mood for top-rated sushi rolls or
+  sizzling hibachi grills, this location delivers a satisfying dining atmosphere
+  that blends simplicity with genuine taste.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Recent Feedback on This Sushi Destination$$$Folks who've visited
+  this sushi spot often rave about the consistently fresh and tasty rolls,
+  making it a solid pick for anyone craving reliable Japanese fare close to
+  home. Many appreciate the friendly service and lively hibachi shows that keep
+  the energy upbeat without overwhelming the meal, helping it maintain a strong
+  reputation among local diners. While some mention occasional waits during peak
+  times, the overall value for the price keeps things feeling worthwhile for
+  groups or families stopping by. Reviewers frequently highlight the generous
+  portions and variety of options, which add to the fun of exploring new flavors
+  in a casual setting. All in all, it's clear this place holds up as a go-to for
+  enjoyable sushi experiences, backed by its solid customer satisfaction.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +314,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

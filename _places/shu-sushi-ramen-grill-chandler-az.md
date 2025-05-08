@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Shu Sushi Ramen & Grill"
+title: Shu Sushi Ramen & Grill
 permalink: /arizona/chandler/shu-sushi-ramen-grill.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Chandler
 seo:
-  name: "Shu Sushi Ramen & Grill"
-  type: Restaurant
+  type: restaurant
   links: https://www.shusushigrillramen.com/#/
-description: "Shu Sushi Ramen & Grill serves delicious sushi in Chandler, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJK689ATEHK4cR8n1nuBHOjp0
 photos:
   - name: >-
@@ -170,7 +168,81 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x872b0731013daf2b:0x9d8ece11b8677df2!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:00 AM – 2:30 PM, 4:00 – 9:30 PM'
     - 'Wednesday: 11:00 AM – 2:30 PM, 4:00 – 9:30 PM'
@@ -178,14 +250,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:00 PM'
     - 'Saturday: 12:00 – 10:00 PM'
     - 'Sunday: 12:00 – 9:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:00 AM – 2:30 PM, 4:00 – 9:30 PM'
-    - 'Wednesday: 11:00 AM – 2:30 PM, 4:00 – 9:30 PM'
-    - 'Thursday: 11:00 AM – 2:30 PM, 4:00 – 9:30 PM'
-    - 'Friday: 11:00 AM – 10:00 PM'
-    - 'Saturday: 12:00 – 10:00 PM'
-    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T05:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +262,260 @@ phone: (480) 940-4000
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.5'
-rating_count: 0
+rating_count: 514
 website: https://www.shusushigrillramen.com/#/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Experience Shu Sushi Ramen & Grill in Chandler, AZ$$$Shu Sushi Ramen & Grill
+  in Chandler, AZ, stands out as a go-to destination for authentic Japanese
+  flavors, blending fresh sushi and hearty ramen in a welcoming environment.
+  This spot offers a variety of options, including vegetarian choices, making it
+  ideal for those seeking diverse and satisfying meals in a cozy setting. Diners
+  can enjoy top-rated sushi creations that highlight quality ingredients and
+  thoughtful preparation, perfect for anyone exploring sushi restaurants nearby.
+  The moderate pricing and accessible features, like wheelchair-friendly
+  seating, add to its appeal for casual visits or group outings. Whether you're
+  in the mood for a quick bite or a relaxed dinner, this Japanese place near you
+  delivers a flavorful experience that keeps locals coming back.
+generative_summary: >-
+  Experience Shu Sushi Ramen & Grill in Chandler, AZ$$$Shu Sushi Ramen & Grill
+  in Chandler, AZ, stands out as a go-to destination for authentic Japanese
+  flavors, blending fresh sushi and hearty ramen in a welcoming environment.
+  This spot offers a variety of options, including vegetarian choices, making it
+  ideal for those seeking diverse and satisfying meals in a cozy setting. Diners
+  can enjoy top-rated sushi creations that highlight quality ingredients and
+  thoughtful preparation, perfect for anyone exploring sushi restaurants nearby.
+  The moderate pricing and accessible features, like wheelchair-friendly
+  seating, add to its appeal for casual visits or group outings. Whether you're
+  in the mood for a quick bite or a relaxed dinner, this Japanese place near you
+  delivers a flavorful experience that keeps locals coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJK689ATEHK4cR8n1nuBHOjp0/reviews/ChdDSUhNMG9nS0VJQ0FnTURncXZmOXlnRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 2
+    text:
+      text: >-
+        Gas station sushi rice (that weird tangy flavor), very long waits, tiny
+        rolls that look like I could have made them, not presented well at all,
+        drenched in sauce and just sloppy, chipped dishes.  For sushi, I
+        recommend spending your money somewhere else.  Other food may be good.
+      languageCode: en
+    originalText:
+      text: >-
+        Gas station sushi rice (that weird tangy flavor), very long waits, tiny
+        rolls that look like I could have made them, not presented well at all,
+        drenched in sauce and just sloppy, chipped dishes.  For sushi, I
+        recommend spending your money somewhere else.  Other food may be good.
+      languageCode: en
+    authorAttribution:
+      displayName: Mitul Modi
+      uri: https://www.google.com/maps/contrib/104205521904895353254/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUDkujGG7V03IUqxjp6JRVptAtmL5Xwgmjd8MQnjH3EyC1BozKW=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-02-24T03:38:21.211184Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURncXZmOXlnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURncXZmOXlnRRAB!2m1!1s0x872b0731013daf2b:0x9d8ece11b8677df2
+  - name: >-
+      places/ChIJK689ATEHK4cR8n1nuBHOjp0/reviews/ChZDSUhNMG9nS0VJQ0FnSUNIdGFmOUxREAE
+    relativePublishTimeDescription: 7 months ago
+    rating: 5
+    text:
+      text: >-
+        I can’t believe I’m just finding out about this place. It’s really
+        hidden in the middle of a shopping center in between a few other
+        restaurants actually. The quality of the sushi is excellent. The Ramen
+        is very flavorful, and I loved the quality of the noodles and other
+        ingredients. But the star of the show might have been the Katsu with
+        curry. That was just great, but the sushi is really up there in quality
+        I highly recommend to try it out.
+      languageCode: en
+    originalText:
+      text: >-
+        I can’t believe I’m just finding out about this place. It’s really
+        hidden in the middle of a shopping center in between a few other
+        restaurants actually. The quality of the sushi is excellent. The Ramen
+        is very flavorful, and I loved the quality of the noodles and other
+        ingredients. But the star of the show might have been the Katsu with
+        curry. That was just great, but the sushi is really up there in quality
+        I highly recommend to try it out.
+      languageCode: en
+    authorAttribution:
+      displayName: AJ C
+      uri: https://www.google.com/maps/contrib/116245524164802234194/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjW05pKxu10O1L9y-URIqe5PWEcot3XlNNZwpAMMhIq0B_nycnTC=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-09-07T09:58:53.121364Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNIdGFmOUxREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNIdGFmOUxREAE!2m1!1s0x872b0731013daf2b:0x9d8ece11b8677df2
+  - name: >-
+      places/ChIJK689ATEHK4cR8n1nuBHOjp0/reviews/ChRDSUhNMG9nS0VJQ0FnSUNUdW9FZBAB
+    relativePublishTimeDescription: 11 months ago
+    rating: 5
+    text:
+      text: >-
+        I love this restaurant so much!! Foods are amazing, and sushi is
+        definitely my favorite 🤩 Very fresh and delicious!!!!!! The staff are
+        very friendly, welcoming and hospitable. I highly recommend to come
+        visit, absolutely a great place to get together with family and friends.
+      languageCode: en
+    originalText:
+      text: >-
+        I love this restaurant so much!! Foods are amazing, and sushi is
+        definitely my favorite 🤩 Very fresh and delicious!!!!!! The staff are
+        very friendly, welcoming and hospitable. I highly recommend to come
+        visit, absolutely a great place to get together with family and friends.
+      languageCode: en
+    authorAttribution:
+      displayName: Tzu-I Yang (Alice)
+      uri: https://www.google.com/maps/contrib/110588810883274788901/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXTI2ew-i3_xmBmK8qC1BieaANMcgphBOxYVBFA9svJF2cLFCTB=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-05-13T19:52:41.628169Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChRDSUhNMG9nS0VJQ0FnSUNUdW9FZBAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChRDSUhNMG9nS0VJQ0FnSUNUdW9FZBAB!2m1!1s0x872b0731013daf2b:0x9d8ece11b8677df2
+  - name: >-
+      places/ChIJK689ATEHK4cR8n1nuBHOjp0/reviews/ChdDSUhNMG9nS0VJQ0FnSUQzNXVLb19RRRAB
+    relativePublishTimeDescription: 5 months ago
+    rating: 4
+    text:
+      text: >-
+        Q:  What do ghosts put in their Philadelphia rolls?
+
+        A:  Scream cheese!
+
+
+        I'm not gonna lie... I love me a Philly Roll. Leave me alone, okay?! I
+        know it's not authentic but cream cheese and salmon belong together.
+
+
+        Anywho! We came here to celebrate a couple of birthdays and I ordered
+        myself a chirashi bowl. Fish so fresh that the meat was still glistening
+        like they're Edward Cullen or something. They also offer fresh wasabi
+        here which delights me. I love a good burn and the flavor of fresh
+        wasabi can't be mimicked by the tubed paste.
+
+
+        I was pleasantly surprised by my meal here at Shu Sushi Grill & Ramen.
+        They had a steady flow of customers so you know they're a Tempe hotspot.
+        Give this place a try!
+      languageCode: en
+    originalText:
+      text: >-
+        Q:  What do ghosts put in their Philadelphia rolls?
+
+        A:  Scream cheese!
+
+
+        I'm not gonna lie... I love me a Philly Roll. Leave me alone, okay?! I
+        know it's not authentic but cream cheese and salmon belong together.
+
+
+        Anywho! We came here to celebrate a couple of birthdays and I ordered
+        myself a chirashi bowl. Fish so fresh that the meat was still glistening
+        like they're Edward Cullen or something. They also offer fresh wasabi
+        here which delights me. I love a good burn and the flavor of fresh
+        wasabi can't be mimicked by the tubed paste.
+
+
+        I was pleasantly surprised by my meal here at Shu Sushi Grill & Ramen.
+        They had a steady flow of customers so you know they're a Tempe hotspot.
+        Give this place a try!
+      languageCode: en
+    authorAttribution:
+      displayName: Joyce Woo
+      uri: https://www.google.com/maps/contrib/116416557219735691785/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVIKliqn3qGBOPpdQvE82t7Pt2hhF4VSTTQ242lkzp8qWujnjTP=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-11-14T18:40:17.265748Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQzNXVLb19RRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQzNXVLb19RRRAB!2m1!1s0x872b0731013daf2b:0x9d8ece11b8677df2
+  - name: >-
+      places/ChIJK689ATEHK4cR8n1nuBHOjp0/reviews/ChZDSUhNMG9nS0VJQ0FnSUNQc2JqWVlnEAE
+    relativePublishTimeDescription: 5 months ago
+    rating: 4
+    text:
+      text: >-
+        The ramen was really good. The chicken katsu seemed like it was either
+        over or under because the texture was really off for some reason :( but
+        my girlfriend loves ramen and I love sushi and we have been searching
+        for a place that has both. This place definitely satisfies our cravings
+        and they aren’t too pricey. I enjoyed my California roll as well🔥
+      languageCode: en
+    originalText:
+      text: >-
+        The ramen was really good. The chicken katsu seemed like it was either
+        over or under because the texture was really off for some reason :( but
+        my girlfriend loves ramen and I love sushi and we have been searching
+        for a place that has both. This place definitely satisfies our cravings
+        and they aren’t too pricey. I enjoyed my California roll as well🔥
+      languageCode: en
+    authorAttribution:
+      displayName: Tanaa Abdallah
+      uri: https://www.google.com/maps/contrib/108879544379601539709/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXQifHgh7BN8Pyj9-NBibadi1GqaIYRkFF0InYrHlF_Br3QXktz=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-11-25T12:33:55.122930Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNQc2JqWVlnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNQc2JqWVlnEAE!2m1!1s0x872b0731013daf2b:0x9d8ece11b8677df2
+review_summary: >-
+  Insights from Customer Feedback$$$Visitors to this sushi spot often rave about
+  the fresh and flavorful dishes, with many highlighting the excellent quality
+  of the sushi and ramen that make it a standout choice for Japanese cuisine
+  lovers. While some folks note occasional waits during peak times, the overall
+  consensus is that the tasty offerings and welcoming vibe make it well worth
+  the visit. Feedback frequently praises the variety of options, including
+  vegetarian picks, as a great fit for families and groups looking for a casual
+  meal. Though a few mentions point to inconsistencies like portion sizes, the
+  majority agree that the authentic flavors and affordability keep it among the
+  best sushi experiences around. All in all, it's a solid pick for anyone
+  searching for reliable Japanese dining that hits the spot without breaking the
+  bank.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  paidStreetParking: false
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
 good_for_sports: null
-live_music: null
+live_music: false
 menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
 serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

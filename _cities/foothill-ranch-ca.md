@@ -5,4 +5,5 @@ permalink: /california/foothill-ranch/
 stateAbbr: CA
 stateName: California
 cityName: Foothill Ranch
+
 ---

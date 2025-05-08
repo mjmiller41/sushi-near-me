@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Nakayama Sushi"
+title: Nakayama Sushi
 permalink: /new-jersey/hazlet/nakayama-sushi.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Hazlet
 seo:
-  name: "Nakayama Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.nakayamasushi.com/
-description: "Japanese restaurant offering a traditional menu of sushi rolls, teriyaki, tempura & more. Nakayama Sushi serves delicious sushi in Hazlet, New Jersey. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ1wwjSIU0wokR4orBk1qGgrY
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $20 &ndash; $30
 rating: '4.2'
 rating_count: 0
 website: http://www.nakayamasushi.com/
+description: >-
+  Discover Nakayama Sushi in Hazlet, NJ$$$Nakayama Sushi in Hazlet, NJ, stands
+  out as a welcoming Japanese eatery serving an array of fresh sushi rolls,
+  teriyaki, and tempura dishes in a relaxed atmosphere. This spot highlights its
+  commitment to quality ingredients and accessible features like
+  wheelchair-friendly parking and seating, making it a convenient choice for
+  diners seeking sushi restaurants nearby. With affordable pricing and a variety
+  of options that cater to different tastes, it's an ideal destination for those
+  exploring the best sushi experiences in the area. The laid-back vibe pairs
+  perfectly with hearty portions, ensuring a satisfying meal whether you're
+  grabbing lunch or dinner. For anyone hunting for top-rated sushi places close
+  to home, this hidden gem delivers authentic flavors without the fuss.
+generative_summary: >-
+  Discover Nakayama Sushi in Hazlet, NJ$$$Nakayama Sushi in Hazlet, NJ, stands
+  out as a welcoming Japanese eatery serving an array of fresh sushi rolls,
+  teriyaki, and tempura dishes in a relaxed atmosphere. This spot highlights its
+  commitment to quality ingredients and accessible features like
+  wheelchair-friendly parking and seating, making it a convenient choice for
+  diners seeking sushi restaurants nearby. With affordable pricing and a variety
+  of options that cater to different tastes, it's an ideal destination for those
+  exploring the best sushi experiences in the area. The laid-back vibe pairs
+  perfectly with hearty portions, ensuring a satisfying meal whether you're
+  grabbing lunch or dinner. For anyone hunting for top-rated sushi places close
+  to home, this hidden gem delivers authentic flavors without the fuss.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ1wwjSIU0wokR4orBk1qGgrY/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3a3Zhd1h3EAE
@@ -336,6 +359,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN1dHVXRVNnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN1dHVXRVNnEAE!2m1!1s0x89c2348548230cd7:0xb682865a93c18ae2
+review_summary: >-
+  What Customers Love About This Sushi Spot$$$Visitors often praise the
+  incredibly fresh fish and generous portions that make every bite feel
+  worthwhile at this local favorite. Many highlight the great value, especially
+  with lunch specials that keep things affordable and delicious without skimping
+  on quality. Folks appreciate the welcoming service and overall vibe, noting
+  that it's a reliable go-to for satisfying sushi cravings any day of the week.
+  While some mention the need to pace orders to avoid waste, the overall
+  experience leaves diners eager to return for more. If you're on the hunt for
+  sushi near you that's both tasty and approachable, this place consistently
+  hits the mark with its solid offerings and positive vibes.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -368,8 +403,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Japanese restaurant offering a traditional menu of sushi rolls, teriyaki,
   tempura & more.
 

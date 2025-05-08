@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Miyako Sushi and Steakhouse"
+title: Miyako Sushi and Steakhouse
 permalink: /georgia/grovetown/miyako-sushi-and-steakhouse.html
 stateAbbr: GA
 stateName: Georgia
 cityName: Grovetown
 seo:
-  name: "Miyako Sushi and Steakhouse"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Miyako Sushi and Steakhouse serves delicious sushi in Grovetown, Georgia. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJx_RNJSHV-YgROrr6zAxXnec
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x88f9d521254df4c7:0xe79d570cccfaba3a!10e5
 primary_type: Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 10
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 10:00 PM'
+    - 'Tuesday: 11:00 AM – 10:00 PM'
+    - 'Wednesday: 11:00 AM – 10:00 PM'
+    - 'Thursday: 10:00 AM – 10:00 PM'
+    - 'Friday: 11:00 AM – 11:00 PM'
+    - 'Saturday: 11:00 AM – 11:00 PM'
+    - 'Sunday: 12:00 – 10:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,46 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
+phone: (706) 364-0611
 price_level: null
-price_range: null
-rating: null
-rating_count: 0
+price_range: $20 &ndash; $30
+rating: '4.2'
+rating_count: 241
 website: null
+description: >-
+  Explore Miyako Sushi and Steakhouse in Grovetown, GA$$$Miyako Sushi and
+  Steakhouse in Grovetown, GA, delivers an inviting Japanese dining vibe with
+  fresh sashimi and flavorful steakhouse options that highlight its authentic
+  cuisine. The spot features a selection of sushi rolls and small plates,
+  complemented by a range of beer and cocktails for a relaxed meal.
+  Accessibility is a key plus, with options like wheelchair-friendly parking and
+  entrances making it easy for everyone to enjoy. Operating hours span lunch and
+  dinner, catering to those seeking quality Japanese fare nearby, including
+  popular sushi choices that appeal to locals and visitors alike.
+generative_summary: >-
+  Explore Miyako Sushi and Steakhouse in Grovetown, GA$$$Miyako Sushi and
+  Steakhouse in Grovetown, GA, delivers an inviting Japanese dining vibe with
+  fresh sashimi and flavorful steakhouse options that highlight its authentic
+  cuisine. The spot features a selection of sushi rolls and small plates,
+  complemented by a range of beer and cocktails for a relaxed meal.
+  Accessibility is a key plus, with options like wheelchair-friendly parking and
+  entrances making it easy for everyone to enjoy. Operating hours span lunch and
+  dinner, catering to those seeking quality Japanese fare nearby, including
+  popular sushi choices that appeal to locals and visitors alike.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors to Miyako Sushi and Steakhouse often
+  praise the delicious sushi and hibachi dishes for their fresh flavors and
+  generous portions, making it a go-to for satisfying Japanese meals. Many
+  highlight the friendly service that adds a welcoming touch to the dining
+  experience, along with the eye-catching presentation of the food that elevates
+  every bite. While some mention occasional waits during peak times, the overall
+  vibe remains upbeat with tasty seafood boil options that keep things exciting.
+  Folks appreciate the spot as a solid choice for groups or casual outings,
+  offering honest value that makes it worth the visit for anyone craving
+  top-rated sushi in the area.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +307,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Spring Buffet"
+title: Spring Buffet
 permalink: /new-york/ithaca/spring-buffet.html
 stateAbbr: NY
 stateName: New York
 cityName: Ithaca
 seo:
-  name: "Spring Buffet"
-  type: Restaurant
-  links: null
-description: "Spring Buffet serves delicious sushi in Ithaca, New York. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://m.facebook.com/Spring-Buffet-769564683189354
 place_id: ChIJd5TQDg6B0IkRtBMqZ4QOWyo
 photos:
   - name: >-
@@ -170,8 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89d0810e0ed09477:0x2a5b0e84672a13b4!10e5
 primary_type: Chinese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: Closed'
+    - 'Tuesday: 11:00 AM – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 9:00 PM'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 10:00 PM'
+    - 'Saturday: 11:00 AM – 10:00 PM'
+    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +234,54 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (607) 277-7888
+price_level: PRICE_LEVEL_INEXPENSIVE
+price_range: $10 &ndash; $20
+rating: '3.9'
+rating_count: 1173
+website: https://m.facebook.com/Spring-Buffet-769564683189354
+description: >-
+  Explore Spring Buffet in Ithaca, NY$$$Spring Buffet in Ithaca, New York,
+  stands out as a popular all-you-can-eat Chinese eatery that offers a diverse
+  array of flavorful dishes, including traditional favorites and
+  Japanese-inspired options for those seeking variety in their meals. The
+  restaurant boasts a spacious setup with a well-stocked salad bar and an
+  extensive selection of familiar fare, making it a go-to spot for casual dining
+  experiences. Accessibility features like wheelchair-friendly parking and
+  entrances ensure that everyone can enjoy the welcoming atmosphere, while its
+  affordable pricing appeals to families and groups looking for value. With
+  convenient hours that extend into the evening on weekends, it's an ideal
+  choice for anyone exploring local eateries near you that blend Chinese and
+  Japanese influences seamlessly.
+generative_summary: >-
+  Explore Spring Buffet in Ithaca, NY$$$Spring Buffet in Ithaca, New York,
+  stands out as a popular all-you-can-eat Chinese eatery that offers a diverse
+  array of flavorful dishes, including traditional favorites and
+  Japanese-inspired options for those seeking variety in their meals. The
+  restaurant boasts a spacious setup with a well-stocked salad bar and an
+  extensive selection of familiar fare, making it a go-to spot for casual dining
+  experiences. Accessibility features like wheelchair-friendly parking and
+  entrances ensure that everyone can enjoy the welcoming atmosphere, while its
+  affordable pricing appeals to families and groups looking for value. With
+  convenient hours that extend into the evening on weekends, it's an ideal
+  choice for anyone exploring local eateries near you that blend Chinese and
+  Japanese influences seamlessly.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying About Spring Buffet$$$Folks generally enjoy the wide
+  variety of dishes at this spot, often praising the fresh salad bar and tasty
+  Japanese-inspired selections that add an exciting twist to the classic Chinese
+  buffet experience. Many appreciate the budget-friendly prices and generous
+  portions, making it a solid pick for family outings or quick meals without
+  breaking the bank. While some mention that the food quality can vary depending
+  on the time of day, the overall vibe remains upbeat with plenty of options to
+  satisfy different tastes. It's clear that regulars value the welcoming
+  environment and accessibility features, helping it maintain a strong
+  reputation among local dining spots. All in all, if you're in the mood for a
+  relaxed meal with some flavorful surprises, this place delivers a generally
+  positive experience worth checking out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +307,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -5,4 +5,5 @@ permalink: /california/del-mar/
 stateAbbr: CA
 stateName: California
 cityName: Del Mar
+
 ---

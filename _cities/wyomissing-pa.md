@@ -5,4 +5,5 @@ permalink: /pennsylvania/wyomissing/
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Wyomissing
+
 ---

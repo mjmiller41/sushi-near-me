@@ -5,4 +5,5 @@ permalink: /alabama/tuscaloosa/
 stateAbbr: AL
 stateName: Alabama
 cityName: Tuscaloosa
+
 ---

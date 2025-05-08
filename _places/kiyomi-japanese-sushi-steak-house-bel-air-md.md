@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kiyomi Japanese Sushi & Steak House"
+title: Kiyomi Japanese Sushi & Steak House
 permalink: /maryland/bel-air/kiyomi-japanese-sushi-steak-house.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Bel Air
 seo:
-  name: "Kiyomi Japanese Sushi & Steak House"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Kiyomi Japanese Sushi & Steak House serves delicious sushi in Bel Air, Maryland. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJDaT_i5vex4kRVLzqF2jv9NU
 photos:
   - name: >-
@@ -185,7 +183,39 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Kiyomi in Bel Air, MD$$$Nestled in Bel Air, MD, Kiyomi Japanese Sushi
+  & Steak House offers a delightful array of authentic Japanese dishes that
+  capture the essence of fresh flavors and traditional cooking. This casual spot
+  features an assortment of sushi options alongside hibachi favorites, making it
+  a go-to choice for those seeking sushi restaurants in the area. Patrons can
+  enjoy a relaxed atmosphere paired with beverages like sake and beer, enhancing
+  the overall dining experience with its approachable vibe. The restaurant
+  prioritizes accessibility, ensuring a welcoming environment for all visitors,
+  which adds to its appeal as a top-rated sushi destination nearby.
+generative_summary: >-
+  Discover Kiyomi in Bel Air, MD$$$Nestled in Bel Air, MD, Kiyomi Japanese Sushi
+  & Steak House offers a delightful array of authentic Japanese dishes that
+  capture the essence of fresh flavors and traditional cooking. This casual spot
+  features an assortment of sushi options alongside hibachi favorites, making it
+  a go-to choice for those seeking sushi restaurants in the area. Patrons can
+  enjoy a relaxed atmosphere paired with beverages like sake and beer, enhancing
+  the overall dining experience with its approachable vibe. The restaurant
+  prioritizes accessibility, ensuring a welcoming environment for all visitors,
+  which adds to its appeal as a top-rated sushi destination nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this Asian eatery often praise the
+  flavorful sushi selections and hearty sides like fried rice, noting how the
+  fresh ingredients make every bite memorable. Folks appreciate the friendly
+  service that helps guide choices without feeling overwhelming, contributing to
+  a pleasant overall vibe. Many highlight the reasonable prices as a big plus,
+  allowing for enjoyable meals without breaking the bank, while the quality of
+  the food keeps drawing people back for more. In a casual setting, diners
+  frequently mention the high-quality offerings that balance taste and value,
+  making it a solid pick for anyone exploring local Japanese spots.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +241,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

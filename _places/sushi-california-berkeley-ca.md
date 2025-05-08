@@ -1,15 +1,14 @@
 ---
 layout: place
-title: "Sushi California"
+title: Sushi California
 permalink: /california/berkeley/sushi-california.html
 stateAbbr: CA
 stateName: California
 cityName: Berkeley
 seo:
-  name: "Sushi California"
-  type: Restaurant
-  links: https://order.mealkeyway.com/customer/release/index?mid=6836646c4a767a697545797767622f357675734f58673d3d#/main
-description: "Sushi California serves delicious sushi in Berkeley, California. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: >-
+    https://order.mealkeyway.com/customer/release/index?mid=6836646c4a767a697545797767622f357675734f58673d3d#/main
 place_id: ChIJp3MmF5l-hYARdHIJ0JfRGFw
 photos:
   - name: >-
@@ -169,7 +168,105 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80857e99172673a7:0x5c18d197d0097274!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 14
+        minute: 30
+    - open:
+        day: 0
+        hour: 16
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 14
+        minute: 30
+    - open:
+        day: 6
+        hour: 16
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
     - 'Tuesday: Closed'
     - 'Wednesday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
@@ -177,14 +274,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
     - 'Saturday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
     - 'Sunday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
-    - 'Tuesday: Closed'
-    - 'Wednesday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
-    - 'Thursday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
-    - 'Friday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
-    - 'Saturday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
-    - 'Sunday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
+  nextOpenTime: '2025-05-03T23:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,36 +286,268 @@ phone: (510) 548-0737
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.5'
-rating_count: 0
+rating_count: 172
 website: >-
   https://order.mealkeyway.com/customer/release/index?mid=6836646c4a767a697545797767622f357675734f58673d3d#/main
-reviews: null
+description: >-
+  Discover Sushi California in Berkeley, CA$$$Sushi California in Berkeley, CA,
+  stands out as a welcoming spot for enjoying fresh Japanese cuisine, featuring
+  a variety of expertly prepared rolls and classic dishes that highlight the
+  best of coastal flavors. This relaxed eatery offers a cozy atmosphere where
+  patrons can savor specialties like ocean-inspired rolls alongside selections
+  of beer and wine, making it ideal for casual meals or quick bites. With its
+  accessible features and moderate pricing, it's designed to accommodate a range
+  of diners seeking authentic tastes in a comfortable setting. Whether you're
+  looking for top-rated sushi options nearby or exploring Japanese places in the
+  area, the focus on quality ingredients and thoughtful ambiance makes it a
+  standout choice. Operating with convenient hours, it provides a reliable
+  option for lunch or dinner in the vibrant Downtown Berkeley neighborhood.
+generative_summary: >-
+  Discover Sushi California in Berkeley, CA$$$Sushi California in Berkeley, CA,
+  stands out as a welcoming spot for enjoying fresh Japanese cuisine, featuring
+  a variety of expertly prepared rolls and classic dishes that highlight the
+  best of coastal flavors. This relaxed eatery offers a cozy atmosphere where
+  patrons can savor specialties like ocean-inspired rolls alongside selections
+  of beer and wine, making it ideal for casual meals or quick bites. With its
+  accessible features and moderate pricing, it's designed to accommodate a range
+  of diners seeking authentic tastes in a comfortable setting. Whether you're
+  looking for top-rated sushi options nearby or exploring Japanese places in the
+  area, the focus on quality ingredients and thoughtful ambiance makes it a
+  standout choice. Operating with convenient hours, it provides a reliable
+  option for lunch or dinner in the vibrant Downtown Berkeley neighborhood.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJp3MmF5l-hYARdHIJ0JfRGFw/reviews/ChdDSUhNMG9nS0VJQ0FnSURqOWVDdDVBRRAB
+    relativePublishTimeDescription: 12 months ago
+    rating: 5
+    text:
+      text: >-
+        Stopped off here when they opened before a concert. The staff was very
+        nice. The food was delicious. Small place but not cramped. Everything
+        was fresh and hot. They have can sodas, so there are no refills, but
+        that's my only complaint. Will be back to try other rolls. Highly
+        suggest the unagi with tobiko. So delicious.
+      languageCode: en
+    originalText:
+      text: >-
+        Stopped off here when they opened before a concert. The staff was very
+        nice. The food was delicious. Small place but not cramped. Everything
+        was fresh and hot. They have can sodas, so there are no refills, but
+        that's my only complaint. Will be back to try other rolls. Highly
+        suggest the unagi with tobiko. So delicious.
+      languageCode: en
+    authorAttribution:
+      displayName: Stoned Soup
+      uri: https://www.google.com/maps/contrib/101882395098854347070/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVdM6S44RT3LVqQEHwhu-AHGgBz0_bOqR0oFeJr-UKu5RNzj8F3=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-05-05T23:16:24.717377Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURqOWVDdDVBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURqOWVDdDVBRRAB!2m1!1s0x80857e99172673a7:0x5c18d197d0097274
+  - name: >-
+      places/ChIJp3MmF5l-hYARdHIJ0JfRGFw/reviews/ChdDSUhNMG9nS0VJQ0FnSUN6N2R5VHRnRRAB
+    relativePublishTimeDescription: 11 months ago
+    rating: 5
+    text:
+      text: >-
+        I recently visited Sushi California and was blown away by their amazing
+        Dragon Roll. It was a perfect blend of flavors and textures, beautifully
+        presented. The service was equally impressive—friendly, attentive, and
+        efficient. Dining at Sushi California was a delightful experience, and I
+        highly recommend it for both the fantastic food and exceptional service.
+      languageCode: en
+    originalText:
+      text: >-
+        I recently visited Sushi California and was blown away by their amazing
+        Dragon Roll. It was a perfect blend of flavors and textures, beautifully
+        presented. The service was equally impressive—friendly, attentive, and
+        efficient. Dining at Sushi California was a delightful experience, and I
+        highly recommend it for both the fantastic food and exceptional service.
+      languageCode: en
+    authorAttribution:
+      displayName: Eliza Chai
+      uri: https://www.google.com/maps/contrib/115640858141545079552/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLe7H6--KR5C2dIEPMzGO4Qk6_5dNK7mshccDirhkLpLgYbcA=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-06-04T05:12:22.864526Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN6N2R5VHRnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN6N2R5VHRnRRAB!2m1!1s0x80857e99172673a7:0x5c18d197d0097274
+  - name: >-
+      places/ChIJp3MmF5l-hYARdHIJ0JfRGFw/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfc2ZfV2hBRRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        Walked by this place today, noticing the sign on the street showing BOGO
+        hand rolls and went for it.
+
+
+        I’m very happy I did! These were excellent, and very fresh! That’s
+        always a worry with an unfamiliar sushi joint mid-week, this place
+        really impressed. Tuna was very fresh, rice was perfect. Ginger was
+        crisp.
+
+
+        The restaurant is small with a cozy bar, doesn’t stand out that much
+        from the outside but I could certainly spend some time here eating and
+        enjoying company.
+
+
+        We will be coming back soon for Omakase!
+      languageCode: en
+    originalText:
+      text: >-
+        Walked by this place today, noticing the sign on the street showing BOGO
+        hand rolls and went for it.
+
+
+        I’m very happy I did! These were excellent, and very fresh! That’s
+        always a worry with an unfamiliar sushi joint mid-week, this place
+        really impressed. Tuna was very fresh, rice was perfect. Ginger was
+        crisp.
+
+
+        The restaurant is small with a cozy bar, doesn’t stand out that much
+        from the outside but I could certainly spend some time here eating and
+        enjoying company.
+
+
+        We will be coming back soon for Omakase!
+      languageCode: en
+    authorAttribution:
+      displayName: A M
+      uri: https://www.google.com/maps/contrib/115467783420104385890/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLTv1S6GnCp50U9rX3EiRpxvUMIToBwjmRWemtwg_XI5N2DOg=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-01-17T02:45:45.983625Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNfc2ZfV2hBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNfc2ZfV2hBRRAB!2m1!1s0x80857e99172673a7:0x5c18d197d0097274
+  - name: >-
+      places/ChIJp3MmF5l-hYARdHIJ0JfRGFw/reviews/ChZDSUhNMG9nS0VJQ0FnSURJdVp6SVZREAE
+    relativePublishTimeDescription: 6 years ago
+    rating: 5
+    text:
+      text: >-
+        Wow. What a surprise. We found this place by accident to be honest. We
+        were looking for a good place to eat and walked past this place.  Came
+        back later as we couldn't find anything else that looked good. Kiyomi
+        was an excellent waitress and was very friendly and helpful. We had the
+        49er, Mexican, and Lion king rolls which were excellent. But the chefs
+        choice sashimi and hamashi was beyond delicious. Excellent atmosphere
+        too. We went on a Friday which had live music,  a nice jazz duo played
+        by 2 Japanese musicians which was perfect atmosphere for this place.
+        Really pleased with our experience. Will recommend to my friends for
+        sure.
+      languageCode: en
+    originalText:
+      text: >-
+        Wow. What a surprise. We found this place by accident to be honest. We
+        were looking for a good place to eat and walked past this place.  Came
+        back later as we couldn't find anything else that looked good. Kiyomi
+        was an excellent waitress and was very friendly and helpful. We had the
+        49er, Mexican, and Lion king rolls which were excellent. But the chefs
+        choice sashimi and hamashi was beyond delicious. Excellent atmosphere
+        too. We went on a Friday which had live music,  a nice jazz duo played
+        by 2 Japanese musicians which was perfect atmosphere for this place.
+        Really pleased with our experience. Will recommend to my friends for
+        sure.
+      languageCode: en
+    authorAttribution:
+      displayName: Aldo Guerra
+      uri: https://www.google.com/maps/contrib/104734276618460688270/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUsi21GyjCArRUT6QR7_uBmVY9nTuboaDj0yctPgFqDpvEgkPu2=s128-c0x00000000-cc-rp-mo
+    publishTime: '2019-01-12T07:24:58.342733051Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURJdVp6SVZREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURJdVp6SVZREAE!2m1!1s0x80857e99172673a7:0x5c18d197d0097274
+  - name: >-
+      places/ChIJp3MmF5l-hYARdHIJ0JfRGFw/reviews/ChZDSUhNMG9nS0VJQ0FnSUNfM09ENkFnEAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        Came in here on my lunch break a couple of times recently, one take out
+        and one dine in.
+
+        This spot looks to be a smaller family owned business, Both times that I
+        came in. I received good customer service from the guy in front as well
+        as good quality food from the chef. I will definitely be coming back
+        soon.
+      languageCode: en
+    originalText:
+      text: >-
+        Came in here on my lunch break a couple of times recently, one take out
+        and one dine in.
+
+        This spot looks to be a smaller family owned business, Both times that I
+        came in. I received good customer service from the guy in front as well
+        as good quality food from the chef. I will definitely be coming back
+        soon.
+      languageCode: en
+    authorAttribution:
+      displayName: Jacob Ford
+      uri: https://www.google.com/maps/contrib/102597565022825180251/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJfyirm-JGWHmyn7xIFi1T1PrHBPXRguYQHZq4-LEZoYy8ROj4=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-01-13T22:36:56.268285Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNfM09ENkFnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNfM09ENkFnEAE!2m1!1s0x80857e99172673a7:0x5c18d197d0097274
+review_summary: >-
+  What Customers Are Saying$$$Folks who visit this spot often praise the fresh
+  and flavorful sushi rolls, noting how the ingredients shine through in every
+  bite for a satisfying meal. Many appreciate the friendly service and cozy vibe
+  that make dining here feel relaxed and enjoyable, with highlights on the
+  overall efficiency that keeps things running smoothly. Reviewers frequently
+  mention planning to return for more, drawn in by the consistent quality and
+  inviting atmosphere that enhances the experience. While it's a smaller space,
+  people find it perfect for casual get-togethers, and the positive feedback on
+  specific dishes like hand rolls adds to the appeal. Overall, it's seen as a
+  solid pick for anyone craving great sushi nearby, with an upbeat energy that
+  leaves a lasting impression.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
-payment_options: null
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
+delivery: true
+dine_in: true
+good_for_children: true
 good_for_groups: null
-good_for_sports: null
+good_for_sports: false
 live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
 serves_brunch: null
 serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Casual sushi bar offering fresh fish & classic Japanese fare, plus occasional
+  live music.
 
 ---

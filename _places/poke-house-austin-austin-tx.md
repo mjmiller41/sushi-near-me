@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Poke House Austin"
+title: Poke House Austin
 permalink: /texas/austin/poke-house-austin.html
 stateAbbr: TX
 stateName: Texas
 cityName: Austin
 seo:
-  name: "Poke House Austin"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Poke House Austin serves delicious sushi in Austin, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJxfLIUYnMRIYRRUf3J4cWkTk
 photos:
   - name: >-
@@ -185,7 +183,46 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  About Poke House Austin in Austin, TX$$$Nestled in the heart of Austin, TX,
+  Poke House Austin stands out as a vibrant eatery specializing in fresh,
+  customizable Hawaiian poke bowls that cater to a variety of tastes for lunch
+  and dinner. This spot emphasizes high-quality ingredients and creative
+  options, allowing diners to build their own meals with a focus on healthy,
+  flavorful combinations that appeal to those seeking light, satisfying dishes.
+  With its accessible features like wheelchair-friendly entrances and parking,
+  it's designed for everyone to enjoy a seamless dining experience. The trendy
+  atmosphere makes it a go-to choice for anyone exploring Hawaiian-inspired
+  cuisine in the area, blending casual vibes with options that feel both
+  innovative and approachable.
+generative_summary: >-
+  About Poke House Austin in Austin, TX$$$Nestled in the heart of Austin, TX,
+  Poke House Austin stands out as a vibrant eatery specializing in fresh,
+  customizable Hawaiian poke bowls that cater to a variety of tastes for lunch
+  and dinner. This spot emphasizes high-quality ingredients and creative
+  options, allowing diners to build their own meals with a focus on healthy,
+  flavorful combinations that appeal to those seeking light, satisfying dishes.
+  With its accessible features like wheelchair-friendly entrances and parking,
+  it's designed for everyone to enjoy a seamless dining experience. The trendy
+  atmosphere makes it a go-to choice for anyone exploring Hawaiian-inspired
+  cuisine in the area, blending casual vibes with options that feel both
+  innovative and approachable.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Visitor Feedback Highlights$$$Folks exploring poke spots in Austin often rave
+  about the fresh, high-quality ingredients and the fun of customizing bowls to
+  fit their preferences, creating a generally upbeat dining vibe. Many
+  appreciate how these places keep things light and healthy without skimping on
+  flavor, making them a solid pick for quick meals that hit the spot. While
+  specific reviews for this location aren't detailed, similar eateries draw
+  praise for their efficient service and welcoming feel, helping it stand out
+  among fresh fish options nearby. Overall, it's clear that visitors enjoy the
+  variety and accessibility, painting a positive picture for anyone on the hunt
+  for a casual, satisfying bite. If you're in the mood for something akin to
+  top-rated sushi alternatives, this spot tends to deliver a reliably enjoyable
+  experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +248,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

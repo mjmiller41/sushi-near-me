@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "I Heart Bento"
+title: I Heart Bento
 permalink: /florida/pensacola/i-heart-bento.html
 stateAbbr: FL
 stateName: Florida
 cityName: Pensacola
 seo:
-  name: "I Heart Bento"
-  type: Restaurant
+  type: restaurant
   links: http://www.iheartbentopensacola.com/
-description: "I Heart Bento serves delicious sushi in Pensacola, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ6Zs-RheVkIgRgTs-aah9Tws
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $10 &ndash; $20
 rating: '4.3'
 rating_count: 0
 website: http://www.iheartbentopensacola.com/
+description: >-
+  Discover I Heart Bento in Pensacola, Florida$$$I Heart Bento in Pensacola,
+  Florida, stands out as a welcoming spot for Asian-inspired dining, featuring
+  fresh flavors and hearty portions that draw in locals and visitors alike. The
+  restaurant shines with its signature bento boxes, offering great value through
+  a mix of tasty options that cater to various tastes, including well-prepared
+  dishes perfect for those exploring Japanese-inspired meals nearby. Its fun
+  atmosphere, enhanced by creative drinks and upbeat vibes, creates an inviting
+  space ideal for casual gatherings or quick takeout. Additionally, the eatery
+  emphasizes accessibility and inclusivity, making it a comfortable choice for
+  everyone, while maintaining moderate prices that appeal to budget-conscious
+  diners seeking top-rated sushi and Asian cuisine options.
+generative_summary: >-
+  Discover I Heart Bento in Pensacola, Florida$$$I Heart Bento in Pensacola,
+  Florida, stands out as a welcoming spot for Asian-inspired dining, featuring
+  fresh flavors and hearty portions that draw in locals and visitors alike. The
+  restaurant shines with its signature bento boxes, offering great value through
+  a mix of tasty options that cater to various tastes, including well-prepared
+  dishes perfect for those exploring Japanese-inspired meals nearby. Its fun
+  atmosphere, enhanced by creative drinks and upbeat vibes, creates an inviting
+  space ideal for casual gatherings or quick takeout. Additionally, the eatery
+  emphasizes accessibility and inclusivity, making it a comfortable choice for
+  everyone, while maintaining moderate prices that appeal to budget-conscious
+  diners seeking top-rated sushi and Asian cuisine options.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ6Zs-RheVkIgRgTs-aah9Tws/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3al9fZVZREAE
@@ -370,6 +393,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURnc29hckt3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURnc29hckt3EAE!2m1!1s0x88909517463e9be9:0xb4f7da8693e3b81
+review_summary: >-
+  What Customers Are Saying$$$Folks generally rave about the flavorful bento
+  boxes and generous servings that make meals feel worthwhile, with plenty of
+  choices for vegetarians and meat lovers alike. Many appreciate the lively
+  atmosphere and fun elements like themed drinks, which add a playful touch to
+  the overall experience and keep things enjoyable for groups. While a few
+  mentions point to occasional service slip-ups, the majority highlight the
+  friendly staff and clean setting as standout positives that enhance every
+  visit. Overall, it's praised as a reliable spot for tasty, affordable eats,
+  encouraging repeat trips for both dine-in and pickup. If you're hunting for
+  solid sushi restaurants nearby, this place often comes through as a
+  crowd-pleaser with its approachable vibe and satisfying dishes.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -401,7 +437,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

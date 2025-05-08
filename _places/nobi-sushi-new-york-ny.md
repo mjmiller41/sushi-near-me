@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Nobi Sushi"
+title: Nobi Sushi
 permalink: /new-york/new-york/nobi-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "Nobi Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://ajisushiny.com/
-description: "Creative rolls, sushi & cooked Japanese fare served in a space with traditional Asian decor. Nobi Sushi serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJscJ18whZwokRRVETYAZys7o
 photos:
   - name: >-
@@ -184,6 +182,31 @@ price_range: $20 &ndash; $30
 rating: '4.1'
 rating_count: 0
 website: https://ajisushiny.com/
+description: >-
+  Discover Nobi Sushi in New York, NY$$$Nobi Sushi in New York, NY, stands out
+  as a welcoming spot for fresh sushi and authentic Japanese cuisine, blending
+  creative rolls with classic options like teriyaki and miso soup in a casual
+  setting. The restaurant features traditional Asian decor that enhances the
+  dining experience, making it ideal for those seeking sushi restaurants near me
+  with a relaxed vibe. Accessibility is a key highlight, with
+  wheelchair-friendly entrances and seating, ensuring everyone can enjoy the
+  flavorful offerings. Delivery services add convenience for busy days, allowing
+  patrons to savor top-rated sushi without leaving home. Overall, it's a go-to
+  choice for anyone exploring Japanese places near me, offering moderate pricing
+  and a variety of dishes that cater to different tastes.
+generative_summary: >-
+  Discover Nobi Sushi in New York, NY$$$Nobi Sushi in New York, NY, stands out
+  as a welcoming spot for fresh sushi and authentic Japanese cuisine, blending
+  creative rolls with classic options like teriyaki and miso soup in a casual
+  setting. The restaurant features traditional Asian decor that enhances the
+  dining experience, making it ideal for those seeking sushi restaurants near me
+  with a relaxed vibe. Accessibility is a key highlight, with
+  wheelchair-friendly entrances and seating, ensuring everyone can enjoy the
+  flavorful offerings. Delivery services add convenience for busy days, allowing
+  patrons to savor top-rated sushi without leaving home. Overall, it's a go-to
+  choice for anyone exploring Japanese places near me, offering moderate pricing
+  and a variety of dishes that cater to different tastes.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJscJ18whZwokRRVETYAZys7o/reviews/ChZDSUhNMG9nS0VJQ0FnTURnc2VDa0hnEAE
@@ -327,6 +350,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURGMkxIall3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURGMkxIall3EAE!2m1!1s0x89c25908f375c2b1:0xbab3720660135145
+review_summary: >-
+  What Customers Are Saying$$$Visitors often praise Nobi Sushi for its generous
+  portions and solid value, making it a reliable neighborhood pick for a
+  satisfying meal. Many appreciate the friendly service and quick handling of
+  special requests, which helps create a welcoming atmosphere even during busier
+  times. While most feedback highlights the fresh quality of the sushi and
+  complementary sides like salads, a few notes mention minor inconsistencies
+  that don't detract from the overall experience. Folks enjoy the option for
+  takeout or dine-in, noting it's great for groups or solo diners looking for
+  something casual yet flavorful. In general, it's seen as a solid spot for
+  top-rated sushi, with the positives far outweighing any small hiccups, leaving
+  most people eager to return.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidStreetParking: true
   valetParking: false
@@ -358,8 +394,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Creative rolls, sushi & cooked Japanese fare served in a space with
   traditional Asian decor.
 

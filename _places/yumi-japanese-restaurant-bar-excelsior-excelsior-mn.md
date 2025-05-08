@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yumi Japanese Restaurant & Bar - Excelsior"
+title: Yumi Japanese Restaurant & Bar - Excelsior
 permalink: /minnesota/excelsior/yumi-japanese-restaurant-bar-excelsior.html
 stateAbbr: MN
 stateName: Minnesota
 cityName: Excelsior
 seo:
-  name: "Yumi Japanese Restaurant & Bar - Excelsior"
-  type: Restaurant
-  links: null
-description: "Yumi Japanese Restaurant & Bar - Excelsior serves delicious sushi in Excelsior, Minnesota. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.yumisushibar.com/
 place_id: ChIJKSJly94c9ocRNn2_wVwawz8
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x87f61cdecb652229:0x3fc31a5cc1bf7d36!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 16
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 16
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 4:00 – 9:00 PM'
+    - 'Tuesday: 4:00 – 9:00 PM'
+    - 'Wednesday: 4:00 – 9:00 PM'
+    - 'Thursday: 4:00 – 9:00 PM'
+    - 'Friday: 4:00 – 10:00 PM'
+    - 'Saturday: 4:00 – 10:00 PM'
+    - 'Sunday: 4:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,50 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
+phone: (952) 474-1720
+price_level: PRICE_LEVEL_EXPENSIVE
 price_range: null
-rating: null
-rating_count: 0
-website: null
+rating: '4.6'
+rating_count: 366
+website: http://www.yumisushibar.com/
+description: >-
+  Discover Yumi in Excelsior, MN$$$Yumi Japanese Restaurant & Bar in Excelsior,
+  MN, stands out as a welcoming spot for enjoying fresh sushi and
+  Japanese-inspired dishes in a relaxed environment. With a selection of
+  beverages like sake, beer, and wine to enhance your meal, it caters to those
+  seeking authentic flavors at sushi places near me. The venue boasts convenient
+  accessibility features, including wheelchair-friendly parking and entrances,
+  ensuring a comfortable visit for everyone. Operating in the evenings, it's
+  ideal for casual dinners or gatherings, making it a go-to choice among
+  top-rated sushi restaurants in the region. Its casual vibe combines with
+  quality offerings to create an inviting atmosphere for sushi enthusiasts
+  exploring local options.
+generative_summary: >-
+  Discover Yumi in Excelsior, MN$$$Yumi Japanese Restaurant & Bar in Excelsior,
+  MN, stands out as a welcoming spot for enjoying fresh sushi and
+  Japanese-inspired dishes in a relaxed environment. With a selection of
+  beverages like sake, beer, and wine to enhance your meal, it caters to those
+  seeking authentic flavors at sushi places near me. The venue boasts convenient
+  accessibility features, including wheelchair-friendly parking and entrances,
+  ensuring a comfortable visit for everyone. Operating in the evenings, it's
+  ideal for casual dinners or gatherings, making it a go-to choice among
+  top-rated sushi restaurants in the region. Its casual vibe combines with
+  quality offerings to create an inviting atmosphere for sushi enthusiasts
+  exploring local options.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Folks who dine at this sushi spot often rave about
+  the fresh, flavorful rolls and the laid-back setting that makes every meal
+  feel special. Many highlight the solid drink selections and attentive service
+  that add to the overall enjoyment without overwhelming the experience. With a
+  strong rating reflecting consistent satisfaction, it's frequently recommended
+  as one of the best sushi options close to me for anyone craving reliable
+  Japanese cuisine. Reviewers appreciate the attention to detail in dish
+  preparation, noting it as a great pick for casual outings or groups. All in
+  all, the feedback paints a positive picture of a dependable spot that delivers
+  on taste and atmosphere, encouraging more people to try it out for themselves.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +311,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

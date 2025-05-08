@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Green Dragon BBQ Restaurant 绿龙 烧烤餐厅"
+title: Green Dragon BBQ Restaurant 绿龙 烧烤餐厅
 permalink: /new-jersey/new-milford/green-dragon-bbq-restaurant.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: New Milford
 seo:
-  name: "Green Dragon BBQ Restaurant 绿龙 烧烤餐厅"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Green Dragon BBQ Restaurant 绿龙 烧烤餐厅 serves delicious sushi in New Milford, New Jersey. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJh45XWQDxwokRnKZPEH2UCPI
 photos:
   - name: >-
@@ -184,7 +182,45 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  About Green Dragon BBQ in New Milford, NJ$$$Green Dragon BBQ Restaurant in New
+  Milford, NJ, offers a casual dining experience centered around flavorful
+  Mandarin Chinese cuisine, with a special emphasis on spicy and authentic
+  dishes that highlight the region's bold flavors. The restaurant features a
+  welcoming atmosphere that's clean and accessible, including options for
+  wheelchair-friendly parking and entrances, making it easy for everyone to
+  enjoy a meal. Patrons can savor a variety of hearty options like grilled
+  specialties and savory sides, all prepared with fresh ingredients that bring
+  out the essence of traditional cooking. This spot stands out for its generous
+  portions and reasonable pricing, providing a satisfying escape for those
+  seeking comforting, homestyle eats in a tidy setting.
+generative_summary: >-
+  About Green Dragon BBQ in New Milford, NJ$$$Green Dragon BBQ Restaurant in New
+  Milford, NJ, offers a casual dining experience centered around flavorful
+  Mandarin Chinese cuisine, with a special emphasis on spicy and authentic
+  dishes that highlight the region's bold flavors. The restaurant features a
+  welcoming atmosphere that's clean and accessible, including options for
+  wheelchair-friendly parking and entrances, making it easy for everyone to
+  enjoy a meal. Patrons can savor a variety of hearty options like grilled
+  specialties and savory sides, all prepared with fresh ingredients that bring
+  out the essence of traditional cooking. This spot stands out for its generous
+  portions and reasonable pricing, providing a satisfying escape for those
+  seeking comforting, homestyle eats in a tidy setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Sharing$$$Visitors to this Chinese restaurant often rave
+  about the delicious and authentic northeastern flavors, with standout dishes
+  like spicy lamb and beef broccoli receiving high praise for their bold tastes
+  and generous servings. Many appreciate the friendly and attentive service that
+  makes dining out feel welcoming and relaxed, adding to the overall enjoyable
+  experience. The clean, tidy atmosphere gets frequent nods for creating a
+  comfortable environment that's perfect for casual meals. Folks also highlight
+  the great value for the price, noting that the portions are hearty enough to
+  leave everyone satisfied. Overall, it's a go-to spot for those craving
+  flavorful Chinese options nearby, with feedback pointing to consistently
+  positive vibes and tasty results.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +246,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

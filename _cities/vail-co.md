@@ -5,4 +5,5 @@ permalink: /colorado/vail/
 stateAbbr: CO
 stateName: Colorado
 cityName: Vail
+
 ---

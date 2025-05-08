@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yamato Japanese Restaurant"
+title: Yamato Japanese Restaurant
 permalink: /california/grover-beach/yamato-japanese-restaurant.html
 stateAbbr: CA
 stateName: California
 cityName: Grover Beach
 seo:
-  name: "Yamato Japanese Restaurant"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Yamato Japanese Restaurant serves delicious sushi in Grover Beach, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJEVnDxrde7IARuX5d3IG_qb8
 photos:
   - name: >-
@@ -170,8 +168,97 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80ec5eb7c6c35911:0xbfa9bf81dc5d7eb9!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 14
+        minute: 0
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 14
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: Closed'
+    - 'Tuesday: Closed'
+    - 'Wednesday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
+    - 'Thursday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
+    - 'Friday: 11:30 AM – 2:00 PM, 5:00 – 9:30 PM'
+    - 'Saturday: 11:30 AM – 2:00 PM, 5:00 – 9:30 PM'
+    - 'Sunday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +266,53 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
+phone: (805) 481-3986
+price_level: PRICE_LEVEL_MODERATE
+price_range: $30 &ndash; $50
+rating: '4.5'
+rating_count: 304
 website: null
+description: >-
+  Discover Yamato Japanese Restaurant in Grover Beach, CA$$$Yamato Japanese
+  Restaurant in Grover Beach, CA, offers a welcoming atmosphere for those
+  seeking authentic Japanese cuisine with a focus on fresh seafood and creative
+  specialty rolls. This spot stands out for its accessible features, including
+  wheelchair-friendly parking, entrances, restrooms, and seating, making it an
+  inclusive choice for all diners. Patrons can enjoy a variety of dishes that
+  highlight high-quality ingredients, perfect for anyone exploring sushi
+  restaurants in the area. The restaurant operates with convenient hours, ideal
+  for lunch or dinner outings, and its casual vibe adds to the charm of a
+  relaxing meal. Whether you're looking for top-rated sushi options nearby,
+  Yamato delivers a satisfying experience that combines traditional flavors with
+  modern twists.
+generative_summary: >-
+  Discover Yamato Japanese Restaurant in Grover Beach, CA$$$Yamato Japanese
+  Restaurant in Grover Beach, CA, offers a welcoming atmosphere for those
+  seeking authentic Japanese cuisine with a focus on fresh seafood and creative
+  specialty rolls. This spot stands out for its accessible features, including
+  wheelchair-friendly parking, entrances, restrooms, and seating, making it an
+  inclusive choice for all diners. Patrons can enjoy a variety of dishes that
+  highlight high-quality ingredients, perfect for anyone exploring sushi
+  restaurants in the area. The restaurant operates with convenient hours, ideal
+  for lunch or dinner outings, and its casual vibe adds to the charm of a
+  relaxing meal. Whether you're looking for top-rated sushi options nearby,
+  Yamato delivers a satisfying experience that combines traditional flavors with
+  modern twists.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About Yamato$$$Folks who visit Yamato Japanese
+  Restaurant often highlight the consistently fresh and flavorful dishes as a
+  standout feature, based on its strong overall rating. Many appreciate the
+  generous portions and variety of options that cater to different tastes,
+  making it a go-to for casual sushi lovers in the region. While some mention
+  occasional waits during peak times, the general consensus leans positive, with
+  praise for the attentive service and welcoming environment that enhances the
+  dining experience. It's clear that the spot holds up well for groups or
+  families, offering reliable quality that keeps people coming back for more. If
+  you're on the hunt for solid Japanese places near you, this location seems to
+  deliver a dependable and enjoyable vibe without any major letdowns.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +338,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

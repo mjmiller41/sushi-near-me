@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Fancy Sushi"
+title: Fancy Sushi
 permalink: /florida/neptune-beach/fancy-sushi.html
 stateAbbr: FL
 stateName: Florida
 cityName: Neptune Beach
 seo:
-  name: "Fancy Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Fancy Sushi serves delicious sushi in Neptune Beach, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJM32HrRBJ5IgRxTAq8o_Hx0g
 photos:
   - name: >-
@@ -185,7 +183,42 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Fancy Sushi in Neptune Beach, FL$$$Fancy Sushi in Neptune Beach, FL,
+  stands out as a casual Japanese eatery offering a delightful mix of
+  hibachi-grilled meats and an extensive selection of fresh sushi rolls, perfect
+  for those exploring sushi restaurants in the area. This spot combines
+  traditional flavors with options like beer, wine, and sake, creating a relaxed
+  atmosphere for enjoying Japanese cuisine. Accessibility features, including
+  wheelchair-friendly parking and seating, make it an inclusive choice for
+  diners seeking top-rated sushi experiences nearby. Whether you're in the mood
+  for a quick bite or a flavorful meal, the variety of dishes here caters to
+  sushi enthusiasts looking for quality options close to home.
+generative_summary: >-
+  Discover Fancy Sushi in Neptune Beach, FL$$$Fancy Sushi in Neptune Beach, FL,
+  stands out as a casual Japanese eatery offering a delightful mix of
+  hibachi-grilled meats and an extensive selection of fresh sushi rolls, perfect
+  for those exploring sushi restaurants in the area. This spot combines
+  traditional flavors with options like beer, wine, and sake, creating a relaxed
+  atmosphere for enjoying Japanese cuisine. Accessibility features, including
+  wheelchair-friendly parking and seating, make it an inclusive choice for
+  diners seeking top-rated sushi experiences nearby. Whether you're in the mood
+  for a quick bite or a flavorful meal, the variety of dishes here caters to
+  sushi enthusiasts looking for quality options close to home.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this sushi spot often highlight the
+  fresh and flavorful rolls as a standout feature, making it a go-to for anyone
+  craving reliable Japanese fare. Many appreciate the casual vibe and efficient
+  service that enhance the overall dining experience without any fuss. Feedback
+  frequently notes the solid hibachi options and drink selections as great
+  additions for groups or casual outings. While some mention it's a solid pick
+  for everyday meals, the general consensus leans positive, positioning it as a
+  trustworthy choice among local sushi places. Overall, it's praised for
+  delivering a satisfying meal that keeps people coming back for more in a
+  welcoming setting.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +244,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

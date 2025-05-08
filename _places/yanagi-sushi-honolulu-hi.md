@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yanagi Sushi"
+title: Yanagi Sushi
 permalink: /hawaii/honolulu/yanagi-sushi.html
 stateAbbr: HI
 stateName: Hawaii
 cityName: Honolulu
 seo:
-  name: "Yanagi Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.fooddiscoveryapp.com/honolulu/yanagi-sushi
-description: "Yanagi Sushi serves delicious sushi in Honolulu, Hawaii. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJeeE8guFtAHwRYFJZ0B4YQGs
 photos:
   - name: >-
@@ -170,7 +168,105 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x7c006de1823ce179:0x6b40181ed0595260!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 0
+    - open:
+        day: 1
+        hour: 17
+        minute: 30
+      close:
+        day: 2
+        hour: 1
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 30
+      close:
+        day: 3
+        hour: 1
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 30
+      close:
+        day: 4
+        hour: 1
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 30
+      close:
+        day: 5
+        hour: 1
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 30
+      close:
+        day: 6
+        hour: 1
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 14
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 30
+      close:
+        day: 0
+        hour: 1
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 2:00 PM, 5:30 PM – 1:00 AM'
     - 'Tuesday: 11:00 AM – 2:00 PM, 5:30 PM – 1:00 AM'
     - 'Wednesday: 11:00 AM – 2:00 PM, 5:30 PM – 1:00 AM'
@@ -178,14 +274,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 2:00 PM, 5:30 PM – 1:00 AM'
     - 'Saturday: 11:00 AM – 2:00 PM, 5:30 PM – 1:00 AM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:00 AM – 2:00 PM, 5:30 PM – 1:00 AM'
-    - 'Tuesday: 11:00 AM – 2:00 PM, 5:30 PM – 1:00 AM'
-    - 'Wednesday: 11:00 AM – 2:00 PM, 5:30 PM – 1:00 AM'
-    - 'Thursday: 11:00 AM – 2:00 PM, 5:30 PM – 1:00 AM'
-    - 'Friday: 11:00 AM – 2:00 PM, 5:30 PM – 1:00 AM'
-    - 'Saturday: 11:00 AM – 2:00 PM, 5:30 PM – 1:00 AM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +286,233 @@ phone: (808) 597-1525
 price_level: PRICE_LEVEL_MODERATE
 price_range: $30 &ndash; $50
 rating: '4.4'
-rating_count: 0
+rating_count: 1416
 website: https://www.fooddiscoveryapp.com/honolulu/yanagi-sushi
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Yanagi Sushi in Honolulu, HI$$$Nestled in the heart of Honolulu, HI,
+  Yanagi Sushi stands out as a welcoming spot for enjoying authentic Japanese
+  cuisine, particularly fresh sushi and inventive rolls that highlight local
+  flavors. This cozy establishment offers a casual atmosphere perfect for
+  savoring tempura and other traditional dishes, complemented by a selection of
+  sake, wine, and cocktails that enhance the dining experience. With its
+  accessible features like wheelchair-friendly entrances and parking, it caters
+  to a wide range of visitors seeking a relaxed meal. The restaurant's extended
+  hours make it a convenient choice for those exploring sushi options in the
+  area, blending festive vibes with quality ingredients for an enjoyable outing.
+generative_summary: >-
+  Discover Yanagi Sushi in Honolulu, HI$$$Nestled in the heart of Honolulu, HI,
+  Yanagi Sushi stands out as a welcoming spot for enjoying authentic Japanese
+  cuisine, particularly fresh sushi and inventive rolls that highlight local
+  flavors. This cozy establishment offers a casual atmosphere perfect for
+  savoring tempura and other traditional dishes, complemented by a selection of
+  sake, wine, and cocktails that enhance the dining experience. With its
+  accessible features like wheelchair-friendly entrances and parking, it caters
+  to a wide range of visitors seeking a relaxed meal. The restaurant's extended
+  hours make it a convenient choice for those exploring sushi options in the
+  area, blending festive vibes with quality ingredients for an enjoyable outing.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJeeE8guFtAHwRYFJZ0B4YQGs/reviews/ChdDSUhNMG9nS0VJQ0FnSURmN2NHdHZnRRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 4
+    text:
+      text: >-
+        We had dinner with several friends here tonight. The private room was
+        tight, but acceptable. The sashimis were very fresh, the butter fish was
+        well prepared. The raw oysters were fresh as well and small as we’d
+        ordered.  All dishes were fairly traditional, but lacked creativity and
+        proper presentation.
+      languageCode: en
+    originalText:
+      text: >-
+        We had dinner with several friends here tonight. The private room was
+        tight, but acceptable. The sashimis were very fresh, the butter fish was
+        well prepared. The raw oysters were fresh as well and small as we’d
+        ordered.  All dishes were fairly traditional, but lacked creativity and
+        proper presentation.
+      languageCode: en
+    authorAttribution:
+      displayName: Big Fish Dive Club
+      uri: https://www.google.com/maps/contrib/106843142746248472991/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUK-1slAsBK0wrY3vtI32_Mc85DmISyetkM3I0QQQU-8SlBoohf=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2025-01-09T17:38:00.857088Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURmN2NHdHZnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURmN2NHdHZnRRAB!2m1!1s0x7c006de1823ce179:0x6b40181ed0595260
+  - name: >-
+      places/ChIJeeE8guFtAHwRYFJZ0B4YQGs/reviews/ChdDSUhNMG9nS0VJQ0FnTURvOVBfVjRBRRAB
+    relativePublishTimeDescription: a week ago
+    rating: 4
+    text:
+      text: >-
+        Food was no doubt very fresh and flavorful. The ambiance was very
+        welcoming and warm, great for family and friends to catch up. Only
+        problem is the service. We waited for one butter fish to be served as
+        part of the meal but was never served ton one of our party members when
+        others already had theirs ahead. We notified the staff but and had it to
+        go but still never came.
+      languageCode: en
+    originalText:
+      text: >-
+        Food was no doubt very fresh and flavorful. The ambiance was very
+        welcoming and warm, great for family and friends to catch up. Only
+        problem is the service. We waited for one butter fish to be served as
+        part of the meal but was never served ton one of our party members when
+        others already had theirs ahead. We notified the staff but and had it to
+        go but still never came.
+      languageCode: en
+    authorAttribution:
+      displayName: rX MD
+      uri: https://www.google.com/maps/contrib/118305052979476326001/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXsdRHcLu_ZH6kFo4P8DvcbiTMYPq5sv_K44pGvWK5xdvc5dJ00oQ=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-04-22T11:06:29.389630Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURvOVBfVjRBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURvOVBfVjRBRRAB!2m1!1s0x7c006de1823ce179:0x6b40181ed0595260
+  - name: >-
+      places/ChIJeeE8guFtAHwRYFJZ0B4YQGs/reviews/ChdDSUhNMG9nS0VJQ0FnTURJXzlXRDVRRRAB
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        Institution, one of the best more classic sushi spots in town, love the
+        vibe and menu offerings!
+      languageCode: en
+    originalText:
+      text: >-
+        Institution, one of the best more classic sushi spots in town, love the
+        vibe and menu offerings!
+      languageCode: en
+    authorAttribution:
+      displayName: Adamo Stivala
+      uri: https://www.google.com/maps/contrib/118409981400318320544/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXIlYC6dNjkbcrnZpQ5F-TozbbnqYKyvOjU_0kBsHvkNYZZFPs=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-04-14T04:02:13.603438Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJXzlXRDVRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJXzlXRDVRRRAB!2m1!1s0x7c006de1823ce179:0x6b40181ed0595260
+  - name: >-
+      places/ChIJeeE8guFtAHwRYFJZ0B4YQGs/reviews/ChZDSUhNMG9nS0VJQ0FnSUREek1qZEFREAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        Local spot for delicious sushi, great people, great food, great times.
+
+
+        We ordered a platter sashimi set, a few rolls, and some other goodies.
+        We were quite lucky - the team sent over a different platter, but let us
+        keep it free of charge! Awesome!
+
+
+        Yanagi is a crowd favorite, we will certainly be back next time around.
+        감사합니다!
+      languageCode: en
+    originalText:
+      text: >-
+        Local spot for delicious sushi, great people, great food, great times.
+
+
+        We ordered a platter sashimi set, a few rolls, and some other goodies.
+        We were quite lucky - the team sent over a different platter, but let us
+        keep it free of charge! Awesome!
+
+
+        Yanagi is a crowd favorite, we will certainly be back next time around.
+        감사합니다!
+      languageCode: en
+    authorAttribution:
+      displayName: Jason W
+      uri: https://www.google.com/maps/contrib/108200762618769086143/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjW48B63onQ_9xkzj1jXPTVXNXHdN_X2abK5f2Yf6jUxy4YGetdl=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-04-06T11:46:08.346245Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUREek1qZEFREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUREek1qZEFREAE!2m1!1s0x7c006de1823ce179:0x6b40181ed0595260
+  - name: >-
+      places/ChIJeeE8guFtAHwRYFJZ0B4YQGs/reviews/ChZDSUhNMG9nS0VJQ0FnSUNSbHNxN0dBEAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 2
+    text:
+      text: >-
+        The sashimi in average is a bit under expectation as the taco was too
+        chewy, salmon was not that fatty smooth. But the butterfish miso-yaki
+        was amazing. Overall was a good dining experience.
+      languageCode: en
+    originalText:
+      text: >-
+        The sashimi in average is a bit under expectation as the taco was too
+        chewy, salmon was not that fatty smooth. But the butterfish miso-yaki
+        was amazing. Overall was a good dining experience.
+      languageCode: en
+    authorAttribution:
+      displayName: Nicole Wang
+      uri: https://www.google.com/maps/contrib/115307580266013873585/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXw5Fs3y1U0MF4WVMUB-PVnekerkjySKwMeTXqUzXPZ-aMtJpUM=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2025-02-19T20:18:42.391625Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNSbHNxN0dBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNSbHNxN0dBEAE!2m1!1s0x7c006de1823ce179:0x6b40181ed0595260
+review_summary: >-
+  What Customers Are Saying$$$Visitors often rave about the fresh and flavorful
+  sushi at this popular spot, noting how the quality of sashimi and other dishes
+  makes it a go-to for satisfying meals with friends or family. Many appreciate
+  the warm, inviting ambiance that encourages good times and easy conversations,
+  though some mention occasional hiccups with service timing that could use a
+  bit more attention. Overall, the experience leans positive, with folks
+  highlighting the restaurant's solid menu as a reason to return for more
+  classic Japanese fare. While a few comments point to room for improvement in
+  presentation and creativity, the consensus is that it's a reliable choice for
+  anyone craving top-rated sushi nearby. If you're on the hunt for tasty options
+  in Honolulu, this place delivers a generally enjoyable vibe with its fresh
+  offerings.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+delivery: true
+dine_in: true
+good_for_children: false
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: true
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Japanese specialties include inventive sushi rolls & tempura in a festive
+  space with late hours.
 
 ---

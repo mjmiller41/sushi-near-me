@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ichiban Hibachi Steakhouse & Sushi Bar"
+title: Ichiban Hibachi Steakhouse & Sushi Bar
 permalink: /michigan/canton/ichiban-hibachi-steakhouse-sushi-bar.html
 stateAbbr: MI
 stateName: Michigan
 cityName: Canton
 seo:
-  name: "Ichiban Hibachi Steakhouse & Sushi Bar"
-  type: Restaurant
-  links: null
-description: "Ichiban Hibachi Steakhouse & Sushi Bar serves delicious sushi in Canton, Michigan. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://ichibanhibachimi.com/
 place_id: ChIJi81HvK5TO4gRA7kDvI9UbbY
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x883b53aebc47cd8b:0xb66d548fbc03b903!10e5
 primary_type: Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 10:00 PM'
+    - 'Tuesday: 11:00 AM – 10:00 PM'
+    - 'Wednesday: 11:00 AM – 10:00 PM'
+    - 'Thursday: 11:00 AM – 10:00 PM'
+    - 'Friday: 11:00 AM – 11:00 PM'
+    - 'Saturday: 11:00 AM – 11:00 PM'
+    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,54 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (734) 414-1888
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '3.5'
+rating_count: 744
+website: https://ichibanhibachimi.com/
+description: >-
+  Explore Ichiban in Canton, Michigan$$$Ichiban Hibachi Steakhouse & Sushi Bar
+  in Canton, Michigan, offers a vibrant dining experience centered around
+  flavorful hibachi and fresh sushi options that cater to a variety of tastes.
+  This spot stands out for its entertaining cooking displays and a selection of
+  meat and seafood dishes that bring an interactive twist to meals, making it
+  ideal for casual outings or family gatherings. With accessibility features
+  like wheelchair-friendly parking and entrances, it's designed to welcome
+  everyone looking for a convenient sushi destination in the area. The
+  restaurant maintains extended hours, including evenings and weekends, ensuring
+  you can enjoy its lively atmosphere whether you're seeking a quick lunch or a
+  relaxed dinner. As one of the go-to sushi places near me, it combines quality
+  ingredients with engaging presentations for an enjoyable visit.
+generative_summary: >-
+  Explore Ichiban in Canton, Michigan$$$Ichiban Hibachi Steakhouse & Sushi Bar
+  in Canton, Michigan, offers a vibrant dining experience centered around
+  flavorful hibachi and fresh sushi options that cater to a variety of tastes.
+  This spot stands out for its entertaining cooking displays and a selection of
+  meat and seafood dishes that bring an interactive twist to meals, making it
+  ideal for casual outings or family gatherings. With accessibility features
+  like wheelchair-friendly parking and entrances, it's designed to welcome
+  everyone looking for a convenient sushi destination in the area. The
+  restaurant maintains extended hours, including evenings and weekends, ensuring
+  you can enjoy its lively atmosphere whether you're seeking a quick lunch or a
+  relaxed dinner. As one of the go-to sushi places near me, it combines quality
+  ingredients with engaging presentations for an enjoyable visit.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Customer Feedback$$$Visitors to this sushi restaurant often
+  praise the fresh flavors of the hibachi and sushi selections, highlighting how
+  the interactive cooking adds fun to the meal without overwhelming the taste.
+  While the overall experience earns solid marks for its welcoming vibe and
+  reasonable prices, some folks note that service can vary depending on the time
+  of day, keeping things real but still enjoyable. Many appreciate the variety
+  of options that make it a solid choice for groups or anyone craving top-rated
+  sushi nearby. Overall, the feedback leans positive, with people loving the
+  entertainment factor that sets it apart from typical dining spots. If you're
+  hunting for sushi close to me, this place delivers a generally satisfying
+  experience that's worth checking out for its mix of entertainment and tasty
+  bites.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +315,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Amber 80st"
+title: Amber 80st
 permalink: /new-york/new-york/amber-80st.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "Amber 80st"
-  type: Restaurant
-  links: null
-description: "Amber 80st serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.ambernewyork.com/
 place_id: ChIJ3z5OOHtZwokRQdngJLkFcaA
 photos:
   - name: >-
@@ -169,22 +167,248 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c2597b384e3edf:0xa07105b924e0d941!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 12
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 12
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 12
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 12
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 12
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 12:00 – 10:00 PM'
+    - 'Tuesday: 12:00 – 10:00 PM'
+    - 'Wednesday: 12:00 – 10:00 PM'
+    - 'Thursday: 12:00 – 10:00 PM'
+    - 'Friday: 12:00 – 10:00 PM'
+    - 'Saturday: 12:00 – 10:00 PM'
+    - 'Sunday: 12:00 – 10:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+  - openNow: false
+    periods:
+      - open:
+          day: 1
+          hour: 17
+          minute: 0
+        close:
+          day: 1
+          hour: 19
+          minute: 0
+      - open:
+          day: 2
+          hour: 17
+          minute: 0
+        close:
+          day: 2
+          hour: 19
+          minute: 0
+      - open:
+          day: 3
+          hour: 17
+          minute: 0
+        close:
+          day: 3
+          hour: 19
+          minute: 0
+      - open:
+          day: 4
+          hour: 17
+          minute: 0
+        close:
+          day: 4
+          hour: 19
+          minute: 0
+      - open:
+          day: 5
+          hour: 17
+          minute: 0
+        close:
+          day: 5
+          hour: 19
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 5:00 – 7:00 PM'
+      - 'Tuesday: 5:00 – 7:00 PM'
+      - 'Wednesday: 5:00 – 7:00 PM'
+      - 'Thursday: 5:00 – 7:00 PM'
+      - 'Friday: 5:00 – 7:00 PM'
+      - 'Saturday: Closed'
+      - 'Sunday: Closed'
+    secondaryHoursType: HAPPY_HOUR
+    nextOpenTime: '2025-05-05T21:00:00Z'
+  - openNow: false
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 0
+        close:
+          day: 0
+          hour: 16
+          minute: 0
+      - open:
+          day: 6
+          hour: 12
+          minute: 0
+        close:
+          day: 6
+          hour: 16
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: Closed'
+      - 'Tuesday: Closed'
+      - 'Wednesday: Closed'
+      - 'Thursday: Closed'
+      - 'Friday: Closed'
+      - 'Saturday: 12:00 – 4:00 PM'
+      - 'Sunday: 12:00 – 4:00 PM'
+    secondaryHoursType: BRUNCH
+    nextOpenTime: '2025-05-04T16:00:00Z'
+  - openNow: false
+    periods:
+      - open:
+          day: 1
+          hour: 12
+          minute: 0
+        close:
+          day: 1
+          hour: 15
+          minute: 0
+      - open:
+          day: 2
+          hour: 12
+          minute: 0
+        close:
+          day: 2
+          hour: 15
+          minute: 0
+      - open:
+          day: 3
+          hour: 12
+          minute: 0
+        close:
+          day: 3
+          hour: 15
+          minute: 0
+      - open:
+          day: 4
+          hour: 12
+          minute: 0
+        close:
+          day: 4
+          hour: 15
+          minute: 0
+      - open:
+          day: 5
+          hour: 12
+          minute: 0
+        close:
+          day: 5
+          hour: 15
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 12:00 – 3:00 PM'
+      - 'Tuesday: 12:00 – 3:00 PM'
+      - 'Wednesday: 12:00 – 3:00 PM'
+      - 'Thursday: 12:00 – 3:00 PM'
+      - 'Friday: 12:00 – 3:00 PM'
+      - 'Saturday: Closed'
+      - 'Sunday: Closed'
+    secondaryHoursType: LUNCH
+    nextOpenTime: '2025-05-05T16:00:00Z'
+phone: (212) 249-5020
+price_level: PRICE_LEVEL_MODERATE
+price_range: $30 &ndash; $50
+rating: '4.3'
+rating_count: 264
+website: http://www.ambernewyork.com/
+description: >-
+  Discover Amber 80st in New York, NY$$$Amber 80st in New York, NY, stands out
+  as a cozy hub for Asian fusion dining, blending fresh sushi with Thai flavors
+  in a welcoming environment on the Upper East Side. This spot offers a variety
+  of inventive dishes that highlight high-quality ingredients and creative
+  presentations, making it a go-to choice for those seeking top-rated sushi
+  options in the area. With accessibility features like wheelchair-friendly
+  entrances and seating, it ensures everyone can enjoy the experience
+  comfortably. The restaurant's extended hours provide flexibility for lunch,
+  dinner, or even a casual bite, adding to its appeal as one of the reliable
+  sushi places near me for everyday indulgence.
+generative_summary: >-
+  Discover Amber 80st in New York, NY$$$Amber 80st in New York, NY, stands out
+  as a cozy hub for Asian fusion dining, blending fresh sushi with Thai flavors
+  in a welcoming environment on the Upper East Side. This spot offers a variety
+  of inventive dishes that highlight high-quality ingredients and creative
+  presentations, making it a go-to choice for those seeking top-rated sushi
+  options in the area. With accessibility features like wheelchair-friendly
+  entrances and seating, it ensures everyone can enjoy the experience
+  comfortably. The restaurant's extended hours provide flexibility for lunch,
+  dinner, or even a casual bite, adding to its appeal as one of the reliable
+  sushi places near me for everyday indulgence.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Buzzing About$$$Visitors often praise the fresh and
+  flavorful sushi rolls along with the solid Thai selections, noting that the
+  overall vibe keeps things lively without overwhelming the palate. Many
+  highlight the reasonable prices for the quality, making it a solid pick for
+  groups or solo diners looking for a satisfying meal in a relaxed setting.
+  While some mention wait times during peak hours, the friendly service and
+  generous portions generally leave people coming back for more. Overall, the
+  high marks reflect a welcoming atmosphere that enhances the dining experience,
+  encouraging folks to explore this as one of the best sushi restaurants near me
+  for authentic yet approachable flavors.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +434,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

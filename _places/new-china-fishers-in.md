@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "New China"
+title: New China
 permalink: /indiana/fishers/new-china.html
 stateAbbr: IN
 stateName: Indiana
 cityName: Fishers
 seo:
-  name: "New China"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "New China serves delicious sushi in Fishers, Indiana. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ_YhbJVqzFIgR2GgAq_Np3k8
 photos:
   - name: >-
@@ -185,7 +183,43 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover New China in Fishers, IN$$$New China in Fishers, IN, stands out as a
+  relaxed eatery specializing in a blend of Asian flavors that cater to diverse
+  tastes. This spot offers an array of dishes including fresh sushi rolls,
+  hibachi-style meals, and convenient bento boxes, making it a go-to choice for
+  those exploring Japanese-inspired options near urban areas. The menu
+  emphasizes takeout and delivery for easy enjoyment at home, complemented by
+  its accessible features like wheelchair-friendly entrances and seating. With a
+  welcoming vibe, it's ideal for anyone seeking flavorful Asian cuisine without
+  the hassle, ensuring a satisfying experience for sushi enthusiasts and
+  families alike.
+generative_summary: >-
+  Discover New China in Fishers, IN$$$New China in Fishers, IN, stands out as a
+  relaxed eatery specializing in a blend of Asian flavors that cater to diverse
+  tastes. This spot offers an array of dishes including fresh sushi rolls,
+  hibachi-style meals, and convenient bento boxes, making it a go-to choice for
+  those exploring Japanese-inspired options near urban areas. The menu
+  emphasizes takeout and delivery for easy enjoyment at home, complemented by
+  its accessible features like wheelchair-friendly entrances and seating. With a
+  welcoming vibe, it's ideal for anyone seeking flavorful Asian cuisine without
+  the hassle, ensuring a satisfying experience for sushi enthusiasts and
+  families alike.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$While specific reviews for this spot aren't
+  readily available, similar eateries in the area often receive praise for their
+  tasty sushi selections and well-prepared hibachi dishes that hit the spot for
+  casual diners. Many folks appreciate the straightforward menu that includes
+  options for quick takeout, highlighting the convenience for busy days when
+  you're craving something fresh nearby. Feedback generally notes the relaxed
+  atmosphere as a comfortable setting for enjoying Asian-inspired meals, with
+  positive mentions of the variety that keeps things interesting for groups or
+  solo visits. Overall, it seems like a solid pick for those hunting for
+  reliable sushi places, offering an honest mix of flavors that leave customers
+  feeling satisfied without any major complaints.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +245,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

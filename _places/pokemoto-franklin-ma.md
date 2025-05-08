@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Pokémoto"
+title: Pokémoto
 permalink: /massachusetts/franklin/pokemoto.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Franklin
 seo:
-  name: "Pokémoto"
-  type: Restaurant
+  type: restaurant
   links: http://www.pokemoto.com/
-description: "Pokémoto serves delicious sushi in Franklin, Massachusetts. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJcQDRs9pv5IkRzNZE4t2IAD8
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89e46fdab3d10071:0x3f0088dde244d6cc!10e5
 primary_type: American Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 20
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:00 PM'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:00 PM'
     - 'Saturday: 11:00 AM – 9:00 PM'
     - 'Sunday: 11:30 AM – 8:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 9:00 PM'
-    - 'Saturday: 11:00 AM – 9:00 PM'
-    - 'Sunday: 11:30 AM – 8:00 PM'
+  nextCloseTime: '2025-05-04T01:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +246,47 @@ phone: (508) 346-3365
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.6'
-rating_count: 0
+rating_count: 202
 website: http://www.pokemoto.com/
+description: >-
+  Discover Pokémoto in Franklin, MA$$$Pokémoto in Franklin, MA, stands out as a
+  welcoming spot for enjoying fresh, customizable Hawaiian poke bowls that blend
+  vibrant flavors and healthy ingredients. This casual eatery features a variety
+  of bases like rice and greens, paired with an array of proteins and mix-ins to
+  create personalized meals that cater to diverse tastes. Visitors appreciate
+  the straightforward build-your-own options, making it easy to find satisfying
+  combinations that feel both nutritious and exciting. With its focus on quality
+  ingredients and a relaxed vibe, it's an ideal choice for anyone seeking quick,
+  flavorful dining experiences in the area. Accessibility features ensure that
+  everyone can enjoy this modern take on poke, enhancing its appeal for a wide
+  range of customers.
+generative_summary: >-
+  Discover Pokémoto in Franklin, MA$$$Pokémoto in Franklin, MA, stands out as a
+  welcoming spot for enjoying fresh, customizable Hawaiian poke bowls that blend
+  vibrant flavors and healthy ingredients. This casual eatery features a variety
+  of bases like rice and greens, paired with an array of proteins and mix-ins to
+  create personalized meals that cater to diverse tastes. Visitors appreciate
+  the straightforward build-your-own options, making it easy to find satisfying
+  combinations that feel both nutritious and exciting. With its focus on quality
+  ingredients and a relaxed vibe, it's an ideal choice for anyone seeking quick,
+  flavorful dining experiences in the area. Accessibility features ensure that
+  everyone can enjoy this modern take on poke, enhancing its appeal for a wide
+  range of customers.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Love About Pokémoto$$$Folks often rave about the tasty poke
+  bowls at this spot, highlighting the fresh mix of ingredients like rice,
+  veggies, and proteins that make every bite feel satisfying and wholesome. Many
+  mention the variety of options, from salmon and shrimp to tofu and lobster,
+  which keep things exciting for different preferences without overwhelming the
+  menu. The staff comes across as friendly and attentive, helping newcomers
+  navigate choices with patience and a positive attitude that adds to the
+  overall experience. Overall, it's clear that diners appreciate the consistent
+  quality and welcoming service, making it a go-to for anyone craving reliable,
+  feel-good meals. If you're on the hunt for top-rated spots nearby, this place
+  delivers on fresh flavors that leave you coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +312,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

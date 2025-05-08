@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi and Seoul"
+title: Sushi and Seoul
 permalink: /florida/sanford/sushi-and-seoul.html
 stateAbbr: FL
 stateName: Florida
 cityName: Sanford
 seo:
-  name: "Sushi and Seoul"
-  type: Restaurant
+  type: restaurant
   links: https://www.sushiandseoul.com/
-description: "Sushi and Seoul serves delicious sushi in Sanford, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJmdWZ9ScT54gRD1Nkp0n0AnM
 photos:
   - name: >-
@@ -184,6 +182,31 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 0
 website: https://www.sushiandseoul.com/
+description: >-
+  About Sushi and Seoul in Sanford, Florida$$$Sushi and Seoul in Sanford,
+  Florida, stands out as a vibrant spot for exploring Japanese-inspired cuisine
+  with a fresh twist. The menu boasts creative dishes that emphasize
+  high-quality ingredients and appealing presentations, making it a go-to choice
+  for those seeking tasty sushi options nearby. Patrons enjoy a mix of bold
+  flavors, from innovative rolls to other flavorful appetizers, complemented by
+  craft beers and a relaxed outdoor setting. This combination creates an
+  inviting atmosphere perfect for casual gatherings or individuals looking for
+  satisfying meals in a welcoming environment. Overall, it's an excellent
+  destination for anyone interested in top-rated sushi experiences that blend
+  quality and variety seamlessly.
+generative_summary: >-
+  About Sushi and Seoul in Sanford, Florida$$$Sushi and Seoul in Sanford,
+  Florida, stands out as a vibrant spot for exploring Japanese-inspired cuisine
+  with a fresh twist. The menu boasts creative dishes that emphasize
+  high-quality ingredients and appealing presentations, making it a go-to choice
+  for those seeking tasty sushi options nearby. Patrons enjoy a mix of bold
+  flavors, from innovative rolls to other flavorful appetizers, complemented by
+  craft beers and a relaxed outdoor setting. This combination creates an
+  inviting atmosphere perfect for casual gatherings or individuals looking for
+  satisfying meals in a welcoming environment. Overall, it's an excellent
+  destination for anyone interested in top-rated sushi experiences that blend
+  quality and variety seamlessly.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJmdWZ9ScT54gRD1Nkp0n0AnM/reviews/ChdDSUhNMG9nS0VJQ0FnTUNnbVlDaXlnRRAB
@@ -363,6 +386,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNfOHB2SUNREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNfOHB2SUNREAE!2m1!1s0x88e71327f599d599:0x7302f449a764530f
+review_summary: >-
+  Insights from Visitor Reviews$$$Visitors to this sushi spot often rave about
+  the delicious and fresh dishes, with many highlighting the flavorful rolls and
+  appetizers as highlights of their meals. The creative presentations and bold
+  tastes have left folks impressed, frequently paired with enjoyable beers for a
+  complete dining adventure. While some mention occasional service hiccups
+  during peak times, the overall consensus leans positive, focusing on the tasty
+  food that keeps people returning. It's clear that this place is a solid pick
+  for those hunting for great sushi nearby, offering a casual vibe that's worth
+  trying out. In the end, the generous portions and inviting setup make it a
+  reliable choice for a memorable bite.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -395,7 +430,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

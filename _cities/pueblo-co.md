@@ -5,4 +5,5 @@ permalink: /colorado/pueblo/
 stateAbbr: CO
 stateName: Colorado
 cityName: Pueblo
+
 ---

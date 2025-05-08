@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Fancy Sushi"
+title: Fancy Sushi
 permalink: /florida/fernandina-beach/fancy-sushi.html
 stateAbbr: FL
 stateName: Florida
 cityName: Fernandina Beach
 seo:
-  name: "Fancy Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Fancy Sushi serves delicious sushi in Fernandina Beach, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJGa_VDBX_5IgRTvlZ-dNuFaE
 photos:
   - name: >-
@@ -185,7 +183,43 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Fancy Sushi in Fernandina Beach, FL$$$Fancy Sushi in Fernandina
+  Beach, FL, stands out as a charming spot for enjoying fresh Japanese flavors
+  and expertly crafted sushi dishes in a welcoming environment. This accessible
+  eatery features thoughtful amenities like wheelchair-friendly parking and
+  seating, making it an inclusive choice for anyone exploring local sushi
+  options. Its inviting atmosphere is captured through vibrant photos that
+  highlight the appealing ambiance and variety of offerings, from classic rolls
+  to innovative creations. Whether you're seeking a casual meal or a gathering
+  place for friends, this operational restaurant delivers a straightforward yet
+  enjoyable experience among sushi spots in the area.
+generative_summary: >-
+  Discover Fancy Sushi in Fernandina Beach, FL$$$Fancy Sushi in Fernandina
+  Beach, FL, stands out as a charming spot for enjoying fresh Japanese flavors
+  and expertly crafted sushi dishes in a welcoming environment. This accessible
+  eatery features thoughtful amenities like wheelchair-friendly parking and
+  seating, making it an inclusive choice for anyone exploring local sushi
+  options. Its inviting atmosphere is captured through vibrant photos that
+  highlight the appealing ambiance and variety of offerings, from classic rolls
+  to innovative creations. Whether you're seeking a casual meal or a gathering
+  place for friends, this operational restaurant delivers a straightforward yet
+  enjoyable experience among sushi spots in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Customer Experiences$$$Although reviews for Fancy Sushi are not
+  yet available, similar nearby sushi establishments often praise the fresh
+  ingredients and welcoming vibe that this spot seems poised to offer. Diners in
+  the region typically highlight the satisfaction of finding reliable Japanese
+  cuisine that's easy to access, suggesting it could quickly become a go-to for
+  those searching for quality sushi near Fernandina Beach. The inclusive
+  features like adaptable seating add to its appeal, making it a solid pick for
+  groups or individuals alike. If you're on the hunt for top-rated sushi
+  restaurants in the vicinity, this location holds potential based on its setup
+  and operational status. Overall, it appears ready to provide a positive dining
+  adventure for sushi lovers exploring the area.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +245,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

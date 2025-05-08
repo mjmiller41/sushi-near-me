@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Maki-San"
+title: Maki-San
 permalink: /pennsylvania/bala-cynwyd/maki-san.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Bala Cynwyd
 seo:
-  name: "Maki-San"
-  type: Restaurant
+  type: restaurant
   links: http://www.makisanpa.com/
-description: "Maki-San serves delicious sushi in Bala Cynwyd, Pennsylvania. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ4_M-O1HHxokROgFXDmoVws0
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c6c7513b3ef3e3:0xcdc2156a0e57013a!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 13
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 10:00 PM'
     - 'Tuesday: 11:00 AM – 10:00 PM'
     - 'Wednesday: 11:00 AM – 10:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:30 PM'
     - 'Saturday: 11:00 AM – 10:30 PM'
     - 'Sunday: 1:30 – 9:30 PM'
-  current:
-    - 'Monday: 11:00 AM – 10:00 PM'
-    - 'Tuesday: 11:00 AM – 10:00 PM'
-    - 'Wednesday: 11:00 AM – 10:00 PM'
-    - 'Thursday: 11:00 AM – 10:00 PM'
-    - 'Friday: 11:00 AM – 10:30 PM'
-    - 'Saturday: 11:00 AM – 10:30 PM'
-    - 'Sunday: 1:30 – 9:30 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +246,48 @@ phone: (610) 668-2100
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.1'
-rating_count: 0
+rating_count: 179
 website: http://www.makisanpa.com/
+description: >-
+  Discover Maki-San in Bala Cynwyd, PA$$$Maki-San in Bala Cynwyd, PA, stands out
+  as a welcoming Japanese eatery that combines fresh sushi options with
+  hibachi-style dining, making it a go-to spot for those seeking sushi
+  restaurants near you. This cozy venue features a vibrant sushi bar where
+  patrons can enjoy meticulously prepared rolls and other Japanese favorites,
+  alongside a selection of Chinese dishes for a diverse menu experience. With
+  its accessible entrance and seating, it's designed to accommodate everyone
+  looking for convenient Japanese places near me, ensuring a comfortable visit
+  any day of the week. The eatery maintains extended hours, allowing you to
+  savor top-rated sushi in a relaxed atmosphere, perfect for casual meals or
+  quick bites after exploring the area.
+generative_summary: >-
+  Discover Maki-San in Bala Cynwyd, PA$$$Maki-San in Bala Cynwyd, PA, stands out
+  as a welcoming Japanese eatery that combines fresh sushi options with
+  hibachi-style dining, making it a go-to spot for those seeking sushi
+  restaurants near you. This cozy venue features a vibrant sushi bar where
+  patrons can enjoy meticulously prepared rolls and other Japanese favorites,
+  alongside a selection of Chinese dishes for a diverse menu experience. With
+  its accessible entrance and seating, it's designed to accommodate everyone
+  looking for convenient Japanese places near me, ensuring a comfortable visit
+  any day of the week. The eatery maintains extended hours, allowing you to
+  savor top-rated sushi in a relaxed atmosphere, perfect for casual meals or
+  quick bites after exploring the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying About Maki-San$$$Visitors often rave about the fresh
+  and flavorful sushi at Maki-San, highlighting it as a solid choice for anyone
+  hunting for the best sushi near me in a laid-back setting. Many folks
+  appreciate the variety of options that go beyond typical rolls, with comments
+  noting the generous portions and reliable service that keep things feeling
+  welcoming and efficient. While there are occasional mentions of wait times
+  during peak hours, the overall vibe remains positive, with people enjoying the
+  mix of Japanese and Chinese influences that add a fun twist to their meals.
+  It's clear that diners find the moderate prices worthwhile for the quality,
+  making it a repeat favorite for groups or families in the neighborhood. All in
+  all, the feedback paints a picture of a dependable spot that delivers on taste
+  and convenience without any major letdowns.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +313,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

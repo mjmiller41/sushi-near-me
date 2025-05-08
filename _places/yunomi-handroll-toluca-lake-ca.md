@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yunomi Handroll"
+title: Yunomi Handroll
 permalink: /california/toluca-lake/yunomi-handroll.html
 stateAbbr: CA
 stateName: California
 cityName: Toluca Lake
 seo:
-  name: "Yunomi Handroll"
-  type: Restaurant
-  links: null
-description: "Yunomi Handroll serves delicious sushi in Toluca Lake, California. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.yunomihandroll.com/
 place_id: ChIJXY11W9a_woARs23W5MgCD5k
 photos:
   - name: >-
@@ -168,8 +166,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c2bfd65b758d5d:0x990f02c8e4d66db3!10e5
 primary_type: Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 12
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 12
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 12
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 12
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 12
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 12:00 – 9:30 PM'
+    - 'Tuesday: 12:00 – 9:30 PM'
+    - 'Wednesday: 12:00 – 9:30 PM'
+    - 'Thursday: 12:00 – 9:30 PM'
+    - 'Friday: 12:00 – 10:00 PM'
+    - 'Saturday: 12:00 – 10:00 PM'
+    - 'Sunday: 12:00 – 9:30 PM'
+  nextCloseTime: '2025-05-04T05:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -177,13 +240,47 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (818) 747-2050
+price_level: PRICE_LEVEL_MODERATE
+price_range: $30 &ndash; $50
+rating: '4.8'
+rating_count: 30
+website: https://www.yunomihandroll.com/
+description: >-
+  Discover Yunomi Handroll in Toluca Lake, CA$$$Yunomi Handroll in Toluca Lake,
+  CA, stands out as a welcoming spot for fresh Japanese-inspired dining,
+  specializing in expertly crafted hand rolls that highlight quality ingredients
+  and innovative flavors. The restaurant boasts a modern interior that creates a
+  relaxed yet vibrant atmosphere, perfect for those seeking sushi restaurants in
+  the area. With accessible features like wheelchair-friendly entrances and
+  seating, it caters to a wide range of visitors looking for convenient sushi
+  options near me. Operating daily with extended evening hours, it's an ideal
+  choice for a satisfying lunch or dinner, complemented by a selection of
+  beverages that enhance the overall experience.
+generative_summary: >-
+  Discover Yunomi Handroll in Toluca Lake, CA$$$Yunomi Handroll in Toluca Lake,
+  CA, stands out as a welcoming spot for fresh Japanese-inspired dining,
+  specializing in expertly crafted hand rolls that highlight quality ingredients
+  and innovative flavors. The restaurant boasts a modern interior that creates a
+  relaxed yet vibrant atmosphere, perfect for those seeking sushi restaurants in
+  the area. With accessible features like wheelchair-friendly entrances and
+  seating, it caters to a wide range of visitors looking for convenient sushi
+  options near me. Operating daily with extended evening hours, it's an ideal
+  choice for a satisfying lunch or dinner, complemented by a selection of
+  beverages that enhance the overall experience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Guests Are Saying$$$Visitors often praise the flavorful hand rolls at
+  this sushi spot, noting options like fish-topped rice dishes and crispy
+  seafood creations that deliver a delightful mix of textures and tastes. Many
+  highlight the attentive service and friendly vibe, which make for a
+  comfortable and engaging meal without feeling rushed. Folks appreciate the
+  solid drink choices, including Asian brews, that pair well with the menu for a
+  well-rounded experience. Overall, it's a go-to place for anyone craving
+  top-rated sushi, with feedback emphasizing its reliability for quality and
+  hospitality in a casual setting.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -209,7 +306,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "King Pho Sushi Bar"
+title: King Pho Sushi Bar
 permalink: /texas/fort-worth/king-pho-sushi-bar.html
 stateAbbr: TX
 stateName: Texas
 cityName: Fort Worth
 seo:
-  name: "King Pho Sushi Bar"
-  type: Restaurant
+  type: restaurant
   links: https://www.facebook.com/kingphosushibar/
-description: "King Pho Sushi Bar serves delicious sushi in Fort Worth, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ80fS6eTYTYYRa_AKdMpU89Q
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x864dd8e4e9d247f3:0xd4f354ca740af06b!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 10:00 PM'
     - 'Tuesday: Closed'
     - 'Wednesday: 11:00 AM – 10:00 PM'
@@ -178,54 +226,297 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:00 PM'
     - 'Saturday: 11:00 AM – 10:00 PM'
     - 'Sunday: 11:00 AM – 10:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 10:00 PM'
-    - 'Tuesday: Closed'
-    - 'Wednesday: 11:00 AM – 10:00 PM'
-    - 'Thursday: 11:00 AM – 10:00 PM'
-    - 'Friday: 11:00 AM – 10:00 PM'
-    - 'Saturday: 11:00 AM – 10:00 PM'
-    - 'Sunday: 11:00 AM – 10:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: false
+    periods:
+      - open:
+          day: 1
+          hour: 15
+          minute: 0
+        close:
+          day: 1
+          hour: 17
+          minute: 0
+      - open:
+          day: 3
+          hour: 15
+          minute: 0
+        close:
+          day: 3
+          hour: 17
+          minute: 0
+      - open:
+          day: 4
+          hour: 15
+          minute: 0
+        close:
+          day: 4
+          hour: 17
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 3:00 – 5:00 PM'
+      - 'Tuesday: Closed'
+      - 'Wednesday: 3:00 – 5:00 PM'
+      - 'Thursday: 3:00 – 5:00 PM'
+      - 'Friday: Closed'
+      - 'Saturday: Closed'
+      - 'Sunday: Closed'
+    secondaryHoursType: HAPPY_HOUR
+    nextOpenTime: '2025-05-05T20:00:00Z'
 phone: (817) 232-8183
 price_level: PRICE_LEVEL_INEXPENSIVE
 price_range: $10 &ndash; $20
 rating: '4.3'
-rating_count: 0
+rating_count: 620
 website: https://www.facebook.com/kingphosushibar/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover King Pho Sushi Bar in Fort Worth, TX$$$King Pho Sushi Bar in Fort
+  Worth, TX, stands out as a casual dining spot blending Vietnamese flavors with
+  a wide array of fresh sushi options, making it a go-to for those seeking
+  authentic Asian cuisine. The restaurant features an inviting atmosphere with
+  accessible entrances and seating, along with ample outdoor options that
+  enhance the overall experience for families and groups. Generous portions of
+  specialties like pho and sushi rolls offer great value, complemented by
+  affordable pricing and a menu that caters to various tastes, including
+  vegetarian choices. Happy hour deals add to the appeal, providing a relaxed
+  setting for enjoying flavorful dishes without breaking the bank. This sushi
+  restaurant near Fort Worth delivers a satisfying mix of traditional and
+  creative eats, perfect for anyone exploring local dining gems.
+generative_summary: >-
+  Discover King Pho Sushi Bar in Fort Worth, TX$$$King Pho Sushi Bar in Fort
+  Worth, TX, stands out as a casual dining spot blending Vietnamese flavors with
+  a wide array of fresh sushi options, making it a go-to for those seeking
+  authentic Asian cuisine. The restaurant features an inviting atmosphere with
+  accessible entrances and seating, along with ample outdoor options that
+  enhance the overall experience for families and groups. Generous portions of
+  specialties like pho and sushi rolls offer great value, complemented by
+  affordable pricing and a menu that caters to various tastes, including
+  vegetarian choices. Happy hour deals add to the appeal, providing a relaxed
+  setting for enjoying flavorful dishes without breaking the bank. This sushi
+  restaurant near Fort Worth delivers a satisfying mix of traditional and
+  creative eats, perfect for anyone exploring local dining gems.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ80fS6eTYTYYRa_AKdMpU89Q/reviews/ChZDSUhNMG9nS0VJQ0FnSUR2cWZlcFlnEAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        The place was spectacular! Portion sizes were big considering the price,
+        the pho was amazing. We ordered boba and sushi; neither of them
+        disappointed us. We were very happy with our meal and speedy service. We
+        will be coming back soon!
+      languageCode: en
+    originalText:
+      text: >-
+        The place was spectacular! Portion sizes were big considering the price,
+        the pho was amazing. We ordered boba and sushi; neither of them
+        disappointed us. We were very happy with our meal and speedy service. We
+        will be coming back soon!
+      languageCode: en
+    authorAttribution:
+      displayName: Paulina Padilla
+      uri: https://www.google.com/maps/contrib/100579375338620654760/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWL1U57X6-kD1EcCledVRGX4-EW4j05P7Ky1uNhVCG7v3cx2GXDew=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-12-21T19:05:40.779202Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR2cWZlcFlnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR2cWZlcFlnEAE!2m1!1s0x864dd8e4e9d247f3:0xd4f354ca740af06b
+  - name: >-
+      places/ChIJ80fS6eTYTYYRa_AKdMpU89Q/reviews/ChdDSUhNMG9nS0VJQ0FnTURnNnNIVmlnRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        Nice place with good food and service. The atmosphere is really good and
+        well maintained. The flavour of the food can be noticed easily and we
+        enjoyed it.
+
+        Must try: pho, chicken fried rice and noodles
+      languageCode: en
+    originalText:
+      text: >-
+        Nice place with good food and service. The atmosphere is really good and
+        well maintained. The flavour of the food can be noticed easily and we
+        enjoyed it.
+
+        Must try: pho, chicken fried rice and noodles
+      languageCode: en
+    authorAttribution:
+      displayName: Manisha R A
+      uri: https://www.google.com/maps/contrib/117148905374439445998/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJjSFH2dFZAwlxplNQ0ciP5puYiIH2bMVxknHlbsVE5aFOz_Q=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-02-24T04:17:34.812240Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURnNnNIVmlnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURnNnNIVmlnRRAB!2m1!1s0x864dd8e4e9d247f3:0xd4f354ca740af06b
+  - name: >-
+      places/ChIJ80fS6eTYTYYRa_AKdMpU89Q/reviews/ChZDSUhNMG9nS0VJQ0FnSUNmaFptU2JBEAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 4
+    text:
+      text: >-
+        My wife and I decided to enjoy some pho and decided on 'King Pho.' The
+        food ranged from "great" to "okay." The beef pho was wonderful but the
+        chicken pho had dry, gamey pieces of meat in it. The beef banh mi was a
+        treat. Price wise $17 for a "king" size pho seemed excessive considering
+        a regular didn't look any smaller and was less expensive. The Bahn mi
+        was appropriately priced at $7. Overall I would return for the food.
+
+        The service left a little to be desired for. We were immediately seated,
+        which was great, but we waited almost 10 minutes without anyone asking
+        what we wanted to drink before a waiter came up and asked if we were
+        ready to order. Based on service alone, I would go somewhere else first.
+      languageCode: en
+    originalText:
+      text: >-
+        My wife and I decided to enjoy some pho and decided on 'King Pho.' The
+        food ranged from "great" to "okay." The beef pho was wonderful but the
+        chicken pho had dry, gamey pieces of meat in it. The beef banh mi was a
+        treat. Price wise $17 for a "king" size pho seemed excessive considering
+        a regular didn't look any smaller and was less expensive. The Bahn mi
+        was appropriately priced at $7. Overall I would return for the food.
+
+        The service left a little to be desired for. We were immediately seated,
+        which was great, but we waited almost 10 minutes without anyone asking
+        what we wanted to drink before a waiter came up and asked if we were
+        ready to order. Based on service alone, I would go somewhere else first.
+      languageCode: en
+    authorAttribution:
+      displayName: Alex Kientz
+      uri: https://www.google.com/maps/contrib/110765887433566311159/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVyrmPS_AM0-Auyb2FhW0lBuMufLGl-DOO6N7bwLp5bQHTP5vLdKg=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-12-30T21:51:17.889980Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNmaFptU2JBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNmaFptU2JBEAE!2m1!1s0x864dd8e4e9d247f3:0xd4f354ca740af06b
+  - name: >-
+      places/ChIJ80fS6eTYTYYRa_AKdMpU89Q/reviews/ChdDSUhNMG9nS0VJQ0FnTURvcFpMM19RRRAB
+    relativePublishTimeDescription: in the last week
+    rating: 5
+    text:
+      text: >-
+        Will definitely be back. Everything we ate was great. The beef spring
+        roll was so tasty. My husband said his spicy tuna was great. They
+        weren't on the large side as most I've seen. The flat noodles were so
+        good.
+      languageCode: en
+    originalText:
+      text: >-
+        Will definitely be back. Everything we ate was great. The beef spring
+        roll was so tasty. My husband said his spicy tuna was great. They
+        weren't on the large side as most I've seen. The flat noodles were so
+        good.
+      languageCode: en
+    authorAttribution:
+      displayName: Tammy Trundle
+      uri: https://www.google.com/maps/contrib/110751120293191166752/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIiJWcB6_a1tw1U0LOuGo16MEyDqERZMWAEiKTAM_Yray6-yA=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-04-26T23:51:30.995180Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURvcFpMM19RRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURvcFpMM19RRRAB!2m1!1s0x864dd8e4e9d247f3:0xd4f354ca740af06b
+  - name: >-
+      places/ChIJ80fS6eTYTYYRa_AKdMpU89Q/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3d3ZUOWF3EAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Coming from NYC I have high standards for sushi.  While not the very
+        best sushi I have had in the Ft Worth area it was excellent at a
+        reasonable price.  Value to cost ratio very high.  Sushi prepared very
+        well with timely and friendly service, I enjoyed it very much. 
+        Definitely worth a try.  It was slow when I was there so I was able to
+        chat with the server who was very friendly and attentive.
+
+        Atmosphere was inviting, although the exterior was kind of nondescript. 
+        Plenty of seats at the sushi bar.  Many tables available, I can see how
+        when they are busy service might be strained as others have complained
+        about.  My experience was excellent and I will be returning
+      languageCode: en
+    originalText:
+      text: >-
+        Coming from NYC I have high standards for sushi.  While not the very
+        best sushi I have had in the Ft Worth area it was excellent at a
+        reasonable price.  Value to cost ratio very high.  Sushi prepared very
+        well with timely and friendly service, I enjoyed it very much. 
+        Definitely worth a try.  It was slow when I was there so I was able to
+        chat with the server who was very friendly and attentive.
+
+        Atmosphere was inviting, although the exterior was kind of nondescript. 
+        Plenty of seats at the sushi bar.  Many tables available, I can see how
+        when they are busy service might be strained as others have complained
+        about.  My experience was excellent and I will be returning
+      languageCode: en
+    authorAttribution:
+      displayName: Dirk Hettrich
+      uri: https://www.google.com/maps/contrib/101892920357665574310/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjX5Mlss470kTjhHjnOFVnpPMfODwxUN5qphv0MN5CMclRc0f4J2=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-03-17T13:07:54.398780Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUN3d3ZUOWF3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUN3d3ZUOWF3EAE!2m1!1s0x864dd8e4e9d247f3:0xd4f354ca740af06b
+review_summary: >-
+  What Customers Are Saying$$$Folks visiting this spot often praise the tasty
+  pho and fresh sushi rolls for their bold flavors and solid portions, making it
+  a solid pick for a satisfying meal. Many appreciate the friendly service and
+  welcoming vibe, though some note occasional waits that could use a bit of
+  smoothing out during busier times. Reviewers frequently highlight the value
+  for money, with dishes like spring rolls and noodles standing out as
+  must-tries that leave diners eager to return. Overall, the experience comes
+  across as enjoyable and reliable, especially for groups or families looking
+  for a casual spot to unwind. If you're on the hunt for top-rated sushi places
+  nearby, this location tends to deliver a positive vibe with flavorful options
+  that keep customers coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  paidParkingLot: false
+  freeStreetParking: true
+  paidStreetParking: false
+  valetParking: false
+  paidGarageParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
+curbside_pickup: true
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: true
+live_music: false
 menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: true
+serves_cocktails: true
+serves_coffee: true
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

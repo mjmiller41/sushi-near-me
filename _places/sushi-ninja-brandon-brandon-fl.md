@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Ninja Brandon"
+title: Sushi Ninja Brandon
 permalink: /florida/brandon/sushi-ninja-brandon.html
 stateAbbr: FL
 stateName: Florida
 cityName: Brandon
 seo:
-  name: "Sushi Ninja Brandon"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi Ninja Brandon serves delicious sushi in Brandon, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJVVVVVXbSwogRNt8Dbp7DugQ
 photos:
   - name: >-
@@ -185,7 +183,41 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Explore Sushi Ninja in Brandon, FL$$$Sushi Ninja Brandon in Brandon, FL,
+  stands out as a welcoming Japanese eatery perfect for those seeking fresh
+  sushi options nearby. This spot emphasizes authentic flavors and a relaxed
+  atmosphere, making it an ideal choice for casual dining experiences in the
+  area. With excellent accessibility features like wheelchair-friendly parking
+  and entrances, it ensures everyone can enjoy a comfortable meal. The menu
+  highlights a variety of Japanese dishes that appeal to sushi enthusiasts,
+  blending quality ingredients with a cozy vibe. Whether you're looking for
+  top-rated sushi places near me, it's a great stop for a satisfying outing.
+generative_summary: >-
+  Explore Sushi Ninja in Brandon, FL$$$Sushi Ninja Brandon in Brandon, FL,
+  stands out as a welcoming Japanese eatery perfect for those seeking fresh
+  sushi options nearby. This spot emphasizes authentic flavors and a relaxed
+  atmosphere, making it an ideal choice for casual dining experiences in the
+  area. With excellent accessibility features like wheelchair-friendly parking
+  and entrances, it ensures everyone can enjoy a comfortable meal. The menu
+  highlights a variety of Japanese dishes that appeal to sushi enthusiasts,
+  blending quality ingredients with a cozy vibe. Whether you're looking for
+  top-rated sushi places near me, it's a great stop for a satisfying outing.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Customer Experiences$$$Folks who visit this sushi restaurant
+  often rave about the fresh, flavorful rolls and the friendly service that
+  makes every meal feel special. Many appreciate the cozy setting and how it
+  caters to a range of tastes, from classic nigiri to creative specials, helping
+  it stand out among Japanese places near me. While some mention minor waits
+  during peak times, the overall consensus leans positive, with diners
+  highlighting the value and quality as reasons to return. It's commonly noted
+  as a solid pick for groups or families, offering a laid-back vibe that
+  enhances the enjoyment of great sushi. If you're on the hunt for best sushi
+  near me, this spot generally delivers a reliable and enjoyable experience
+  without any major drawbacks.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +243,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

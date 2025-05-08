@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Siam Thai"
+title: Siam Thai
 permalink: /wisconsin/west-milwaukee/siam-thai.html
 stateAbbr: WI
 stateName: Wisconsin
 cityName: West Milwaukee
 seo:
-  name: "Siam Thai"
-  type: Restaurant
-  links: null
-description: "Siam Thai serves delicious sushi in West Milwaukee, Wisconsin. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.siamexpressmilwaukee.com/
 place_id: ChIJ_WsOwooaBYgRz_QyUbSkwHw
 photos:
   - name: >-
@@ -170,22 +168,166 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x88051a8ac20e6bfd:0x7cc0a4b45132f4cf!10e5
 primary_type: Thai Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 19
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 19
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 19
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 19
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 19
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 19
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 7:30 PM'
+    - 'Tuesday: 11:00 AM – 7:30 PM'
+    - 'Wednesday: 11:00 AM – 7:30 PM'
+    - 'Thursday: 11:00 AM – 7:30 PM'
+    - 'Friday: 11:00 AM – 7:30 PM'
+    - 'Saturday: 11:00 AM – 7:30 PM'
+    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T00:30:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+  - openNow: true
+    periods:
+      - open:
+          day: 1
+          hour: 11
+          minute: 0
+        close:
+          day: 1
+          hour: 19
+          minute: 30
+      - open:
+          day: 2
+          hour: 11
+          minute: 0
+        close:
+          day: 2
+          hour: 19
+          minute: 30
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 19
+          minute: 30
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 19
+          minute: 30
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 19
+          minute: 30
+      - open:
+          day: 6
+          hour: 11
+          minute: 0
+        close:
+          day: 6
+          hour: 19
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 11:00 AM – 7:30 PM'
+      - 'Tuesday: 11:00 AM – 7:30 PM'
+      - 'Wednesday: 11:00 AM – 7:30 PM'
+      - 'Thursday: 11:00 AM – 7:30 PM'
+      - 'Friday: 11:00 AM – 7:30 PM'
+      - 'Saturday: 11:00 AM – 7:30 PM'
+      - 'Sunday: Closed'
+    secondaryHoursType: TAKEOUT
+    nextCloseTime: '2025-05-04T00:30:00Z'
+phone: (414) 672-7426
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.6'
+rating_count: 417
+website: https://www.siamexpressmilwaukee.com/
+description: >-
+  Discover Siam Thai in West Milwaukee, WI$$$Siam Thai in West Milwaukee, WI,
+  offers a welcoming spot for enjoying authentic Thai flavors in a relaxed
+  setting. This casual eatery features a variety of traditional dishes,
+  including hearty options for vegetarians and vegans, alongside refreshing beer
+  selections to complement your meal. With its accessible entrance and seating,
+  it's designed to accommodate all guests, making it easy to savor flavorful
+  curries and stir-fries in a comfortable atmosphere. Operating from late
+  morning until evening most days, it's a convenient choice for a satisfying
+  lunch or dinner. The focus on familiar Thai cuisine ensures a delightful
+  experience that highlights fresh ingredients and thoughtful preparation.
+generative_summary: >-
+  Discover Siam Thai in West Milwaukee, WI$$$Siam Thai in West Milwaukee, WI,
+  offers a welcoming spot for enjoying authentic Thai flavors in a relaxed
+  setting. This casual eatery features a variety of traditional dishes,
+  including hearty options for vegetarians and vegans, alongside refreshing beer
+  selections to complement your meal. With its accessible entrance and seating,
+  it's designed to accommodate all guests, making it easy to savor flavorful
+  curries and stir-fries in a comfortable atmosphere. Operating from late
+  morning until evening most days, it's a convenient choice for a satisfying
+  lunch or dinner. The focus on familiar Thai cuisine ensures a delightful
+  experience that highlights fresh ingredients and thoughtful preparation.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Visitors often highlight the tasty Thai dishes at
+  this spot, like flavorful pho and garlic noodles that hit the spot every time.
+  Many appreciate the attentive service that keeps things running smoothly,
+  adding to the overall enjoyable vibe. Folks also mention the great value for
+  the price, with meals that feel generous without breaking the bank. The
+  welcoming atmosphere gets plenty of nods, creating a relaxed environment
+  perfect for casual outings. Overall, it's a go-to place for solid Thai fare
+  that leaves diners feeling satisfied and eager to return.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +353,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

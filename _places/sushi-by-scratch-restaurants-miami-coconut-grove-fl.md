@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi by Scratch Restaurants: Miami"
+title: 'Sushi by Scratch Restaurants: Miami'
 permalink: /florida/coconut-grove/sushi-by-scratch-restaurants-miami.html
 stateAbbr: FL
 stateName: Florida
 cityName: Coconut Grove
 seo:
-  name: "Sushi by Scratch Restaurants: Miami"
-  type: Restaurant
+  type: restaurant
   links: https://www.exploretock.com/sushi-by-scratch-restaurants-miami
-description: "Sushi by Scratch Restaurants: Miami serves delicious sushi in Coconut Grove, Florida. Try fresh Japanese dishes for a great dining experience. Available for, and dinner."
 place_id: ChIJP8aLkeW32YgRfmPsVXObIvI
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $100 &ndash; & up
 rating: '4.4'
 rating_count: 0
 website: https://www.exploretock.com/sushi-by-scratch-restaurants-miami
+description: >-
+  Discover Sushi by Scratch in Coconut Grove, FL$$$Nestled in the vibrant
+  neighborhood of Coconut Grove, FL, Sushi by Scratch Restaurants offers an
+  upscale dining experience that highlights fresh seafood and innovative
+  Japanese flavors. This intimate spot stands out for its creative sushi
+  combinations and premium ingredients, making it a go-to choice for those
+  seeking top-rated sushi near you. The cozy atmosphere enhances the meal with
+  thoughtful pairings like sake, turning each visit into a memorable
+  multi-course adventure. Accessibility features ensure it's welcoming for all,
+  adding to the appeal for sushi enthusiasts exploring options close to home.
+  Whether you're in the mood for a special evening out, it's a fantastic
+  destination that blends quality and ambiance seamlessly.
+generative_summary: >-
+  Discover Sushi by Scratch in Coconut Grove, FL$$$Nestled in the vibrant
+  neighborhood of Coconut Grove, FL, Sushi by Scratch Restaurants offers an
+  upscale dining experience that highlights fresh seafood and innovative
+  Japanese flavors. This intimate spot stands out for its creative sushi
+  combinations and premium ingredients, making it a go-to choice for those
+  seeking top-rated sushi near you. The cozy atmosphere enhances the meal with
+  thoughtful pairings like sake, turning each visit into a memorable
+  multi-course adventure. Accessibility features ensure it's welcoming for all,
+  adding to the appeal for sushi enthusiasts exploring options close to home.
+  Whether you're in the mood for a special evening out, it's a fantastic
+  destination that blends quality and ambiance seamlessly.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJP8aLkeW32YgRfmPsVXObIvI/reviews/ChdDSUhNMG9nS0VJQ0FnTURRc0tPYzN3RRAB
@@ -384,6 +407,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNmeEltb2Z3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNmeEltb2Z3EAE!2m1!1s0x88d9b7e5918bc63f:0xf2229b7355ec637e
+review_summary: >-
+  What Visitors Love About This Sushi Spot$$$Folks who've dined here often rave
+  about the fresh, high-quality fish and unique flavor twists that make every
+  bite feel special, positioning it as one of the best sushi restaurants in the
+  area. Many appreciate the intimate, cozy vibe that creates a private and
+  engaging dining experience, though they note it's on the pricier side for a
+  full meal. Reviewers frequently mention the excellent sake pairings and
+  attentive service that elevate the overall enjoyment, encouraging interaction
+  and making it ideal for a night out. Despite the cost, it's commonly described
+  as a worthwhile treat for sushi lovers looking for something extraordinary,
+  with most agreeing it's highly recommended for its gourmet touches. Overall,
+  the consensus leans positive, suggesting it's a solid pick if you're hunting
+  for top-rated sushi experiences nearby.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidStreetParking: true
   valetParking: true
@@ -415,7 +452,7 @@ serves_lunch: null
 serves_vegetarian_food: false
 serves_wine: true
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -5,4 +5,5 @@ permalink: /california/south-san-francisco/
 stateAbbr: CA
 stateName: California
 cityName: South San Francisco
+
 ---

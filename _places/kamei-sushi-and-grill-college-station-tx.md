@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kamei Sushi and Grill"
+title: Kamei Sushi and Grill
 permalink: /texas/college-station/kamei-sushi-and-grill.html
 stateAbbr: TX
 stateName: Texas
 cityName: College Station
 seo:
-  name: "Kamei Sushi and Grill"
-  type: Restaurant
+  type: restaurant
   links: https://www.kameisushiandgrilltx.com/
-description: "Kamei Sushi and Grill serves delicious sushi in College Station, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJIenJccqaRoYR7ai1JDjVCkk
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x86469aca71c9e921:0x490ad53824b5a8ed!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 5:00 – 9:00 PM'
     - 'Tuesday: 5:00 – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -178,28 +234,183 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:00 PM'
     - 'Saturday: 11:00 AM – 9:00 PM'
     - 'Sunday: 11:00 AM – 9:00 PM'
-  current:
-    - 'Monday: 5:00 – 9:00 PM'
-    - 'Tuesday: 5:00 – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 9:00 PM'
-    - 'Saturday: 11:00 AM – 9:00 PM'
-    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 11
+          minute: 30
+        close:
+          day: 0
+          hour: 21
+          minute: 0
+      - open:
+          day: 1
+          hour: 11
+          minute: 0
+        close:
+          day: 1
+          hour: 21
+          minute: 0
+      - open:
+          day: 2
+          hour: 11
+          minute: 0
+        close:
+          day: 2
+          hour: 21
+          minute: 0
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 21
+          minute: 0
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 0
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 21
+          minute: 30
+      - open:
+          day: 6
+          hour: 11
+          minute: 30
+        close:
+          day: 6
+          hour: 21
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 11:00 AM – 9:00 PM'
+      - 'Tuesday: 11:00 AM – 9:00 PM'
+      - 'Wednesday: 11:00 AM – 9:00 PM'
+      - 'Thursday: 11:00 AM – 9:00 PM'
+      - 'Friday: 11:00 AM – 9:30 PM'
+      - 'Saturday: 11:30 AM – 9:30 PM'
+      - 'Sunday: 11:30 AM – 9:00 PM'
+    secondaryHoursType: DELIVERY
+    nextCloseTime: '2025-05-04T02:30:00Z'
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 11
+          minute: 30
+        close:
+          day: 0
+          hour: 21
+          minute: 30
+      - open:
+          day: 1
+          hour: 11
+          minute: 0
+        close:
+          day: 1
+          hour: 21
+          minute: 30
+      - open:
+          day: 2
+          hour: 11
+          minute: 0
+        close:
+          day: 2
+          hour: 21
+          minute: 30
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 21
+          minute: 30
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 30
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 22
+          minute: 0
+      - open:
+          day: 6
+          hour: 11
+          minute: 30
+        close:
+          day: 6
+          hour: 22
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 11:00 AM – 9:30 PM'
+      - 'Tuesday: 11:00 AM – 9:30 PM'
+      - 'Wednesday: 11:00 AM – 9:30 PM'
+      - 'Thursday: 11:00 AM – 9:30 PM'
+      - 'Friday: 11:00 AM – 10:00 PM'
+      - 'Saturday: 11:30 AM – 10:00 PM'
+      - 'Sunday: 11:30 AM – 9:30 PM'
+    secondaryHoursType: TAKEOUT
+    nextCloseTime: '2025-05-04T03:00:00Z'
 phone: (979) 690-9500
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.3'
-rating_count: 0
+rating_count: 333
 website: https://www.kameisushiandgrilltx.com/
+description: >-
+  Discover Kamei Sushi and Grill in College Station, TX$$$Kamei Sushi and Grill
+  in College Station, TX, stands out as a welcoming spot for enjoying fresh
+  Japanese flavors in a relaxed setting. This eatery specializes in a variety of
+  sushi options alongside classic dishes like tempura, all prepared with
+  attention to quality ingredients and authentic tastes. The cozy atmosphere
+  makes it a great choice for casual dining, with accessible features ensuring a
+  comfortable visit for all guests. Operating with flexible hours that include
+  evenings and weekends, it's an ideal destination for those seeking sushi
+  restaurants nearby that balance affordability and taste.
+generative_summary: >-
+  Discover Kamei Sushi and Grill in College Station, TX$$$Kamei Sushi and Grill
+  in College Station, TX, stands out as a welcoming spot for enjoying fresh
+  Japanese flavors in a relaxed setting. This eatery specializes in a variety of
+  sushi options alongside classic dishes like tempura, all prepared with
+  attention to quality ingredients and authentic tastes. The cozy atmosphere
+  makes it a great choice for casual dining, with accessible features ensuring a
+  comfortable visit for all guests. Operating with flexible hours that include
+  evenings and weekends, it's an ideal destination for those seeking sushi
+  restaurants nearby that balance affordability and taste.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Customer Feedback$$$Folks often rave about the fresh sushi and
+  flavorful Japanese dishes at this spot, highlighting how the quality keeps
+  them coming back for more. Many appreciate the welcoming vibe and efficient
+  service, making it a solid pick for casual meals with friends or family. While
+  a few mention occasional wait times during busy periods, the overall
+  experience earns high marks with its strong rating. If you're on the hunt for
+  top-rated sushi places near you, this location frequently gets nods for its
+  reliable flavors and value. It's a go-to option that delivers a satisfying
+  dine-in experience without any major letdowns.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +436,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

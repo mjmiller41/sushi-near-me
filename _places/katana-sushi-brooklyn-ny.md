@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Katana Sushi"
+title: Katana Sushi
 permalink: /new-york/brooklyn/katana-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: Brooklyn
 seo:
-  name: "Katana Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Katana Sushi serves delicious sushi in Brooklyn, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJwQjqjZVbwokR2wYEN4SfZk0
 photos:
   - name: >-
@@ -182,7 +180,43 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Katana Sushi in Brooklyn, NY$$$Katana Sushi in Brooklyn, NY, stands
+  out as a laid-back spot for savoring authentic Japanese flavors, perfect for
+  those seeking quality sushi options in a welcoming environment. This
+  restaurant features a diverse menu of traditional Japanese dishes, with fresh
+  sushi rolls that highlight the artistry of Japanese cuisine, making it an
+  ideal choice for casual dining or a quick meal. The atmosphere is relaxed and
+  inviting, complemented by thoughtful accessibility features that ensure
+  everyone can enjoy the experience. Whether you're exploring local Japanese
+  places or looking for sushi restaurants in the neighborhood, Katana Sushi
+  delivers a simple yet refined vibe that captures the essence of Japanese
+  dining traditions.
+generative_summary: >-
+  Discover Katana Sushi in Brooklyn, NY$$$Katana Sushi in Brooklyn, NY, stands
+  out as a laid-back spot for savoring authentic Japanese flavors, perfect for
+  those seeking quality sushi options in a welcoming environment. This
+  restaurant features a diverse menu of traditional Japanese dishes, with fresh
+  sushi rolls that highlight the artistry of Japanese cuisine, making it an
+  ideal choice for casual dining or a quick meal. The atmosphere is relaxed and
+  inviting, complemented by thoughtful accessibility features that ensure
+  everyone can enjoy the experience. Whether you're exploring local Japanese
+  places or looking for sushi restaurants in the neighborhood, Katana Sushi
+  delivers a simple yet refined vibe that captures the essence of Japanese
+  dining traditions.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Visitors often rave about the fresh fish and
+  flavorful sushi rolls at this spot, with highlights like creative options that
+  keep things exciting and satisfying. The service stands out as friendly and
+  efficient, adding a nice touch to the overall laid-back vibe that makes it
+  feel like a go-to for sushi lovers. Many appreciate the pleasant ambiance,
+  which creates a comfortable setting for enjoying a meal with friends or solo.
+  If you're on the hunt for top-rated sushi near you, this place gets solid nods
+  for its tasty selections and welcoming feel, making it a reliable pick for
+  anyone craving Japanese-inspired eats.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -208,7 +242,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

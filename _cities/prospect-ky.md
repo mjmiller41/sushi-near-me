@@ -5,4 +5,5 @@ permalink: /kentucky/prospect/
 stateAbbr: KY
 stateName: Kentucky
 cityName: Prospect
+
 ---

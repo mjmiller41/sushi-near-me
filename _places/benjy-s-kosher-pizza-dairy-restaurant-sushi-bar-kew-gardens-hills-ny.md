@@ -1,15 +1,15 @@
 ---
 layout: place
-title: "Benjy's Kosher Pizza Dairy Restaurant & Sushi Bar"
-permalink: /new-york/kew-gardens-hills/benjy-s-kosher-pizza-dairy-restaurant-sushi-bar.html
+title: Benjy's Kosher Pizza Dairy Restaurant & Sushi Bar
+permalink: >-
+  /new-york/kew-gardens-hills/benjy-s-kosher-pizza-dairy-restaurant-sushi-bar.html
 stateAbbr: NY
 stateName: New York
 cityName: Kew Gardens Hills
 seo:
-  name: "Benjy's Kosher Pizza Dairy Restaurant & Sushi Bar"
-  type: Restaurant
-  links: https://www.benjyspizza.getsauce.com/?utm_source=GMB&utm_medium=Website%20button&utm_id=Benjys%20Kosher%20Pizza%20Dairy%20Restaurant%20and%20Sushi%20Bar
-description: "Benjy's Kosher Pizza Dairy Restaurant & Sushi Bar serves delicious sushi in Kew Gardens Hills, New York. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: >-
+    https://www.benjyspizza.getsauce.com/?utm_source=GMB&utm_medium=Website%20button&utm_id=Benjys%20Kosher%20Pizza%20Dairy%20Restaurant%20and%20Sushi%20Bar
 place_id: ChIJPd38-4xgwokRoLeMtiWt88M
 photos:
   - name: >-
@@ -168,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c2608cfbfcdd3d:0xc3f3ad25b68cb7a0!10e5
 primary_type: Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 10
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 10
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 10
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 10
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 10
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 10
+        minute: 0
+      close:
+        day: 5
+        hour: 16
+        minute: 0
+    - open:
+        day: 6
+        hour: 20
+        minute: 0
+      close:
+        day: 0
+        hour: 1
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 10:00 AM – 9:30 PM'
     - 'Tuesday: 10:00 AM – 9:30 PM'
     - 'Wednesday: 10:00 AM – 10:00 PM'
@@ -176,14 +234,7 @@ opening_hours:
     - 'Friday: 10:00 AM – 4:00 PM'
     - 'Saturday: 8:00 PM – 1:00 AM'
     - 'Sunday: 10:00 AM – 10:00 PM'
-  current:
-    - 'Monday: 10:00 AM – 9:30 PM'
-    - 'Tuesday: 10:00 AM – 9:30 PM'
-    - 'Wednesday: 10:00 AM – 10:00 PM'
-    - 'Thursday: 10:00 AM – 10:00 PM'
-    - 'Friday: 10:00 AM – 4:00 PM'
-    - 'Saturday: 8:00 PM – 1:00 AM'
-    - 'Sunday: 10:00 AM – 10:00 PM'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -195,10 +246,51 @@ phone: (718) 268-0791
 price_level: PRICE_LEVEL_INEXPENSIVE
 price_range: $1 &ndash; $10
 rating: '4.4'
-rating_count: 0
+rating_count: 626
 website: >-
   https://www.benjyspizza.getsauce.com/?utm_source=GMB&utm_medium=Website%20button&utm_id=Benjys%20Kosher%20Pizza%20Dairy%20Restaurant%20and%20Sushi%20Bar
+description: >-
+  Discover Benjy's Kosher Pizza and Sushi in Kew Gardens Hills, NY$$$Benjy's
+  Kosher Pizza Dairy Restaurant & Sushi Bar in Kew Gardens Hills, NY, offers a
+  welcoming atmosphere for enjoying fresh sushi and comforting eats in a
+  laid-back setting. This spot stands out with its diverse menu featuring
+  flavorful sushi options alongside classic pizza, all prepared with kosher
+  standards that appeal to a variety of tastes. Diners can savor the convenience
+  of late-night hours, making it a go-to choice for those seeking reliable sushi
+  places in the area after a long day. Accessibility features like
+  wheelchair-friendly entrances enhance the experience, ensuring everyone can
+  enjoy the vibrant offerings. Whether you're looking for top-rated sushi near
+  you or a casual meal with friends, this establishment combines quality
+  ingredients with a focus on community-friendly dining.
+generative_summary: >-
+  Discover Benjy's Kosher Pizza and Sushi in Kew Gardens Hills, NY$$$Benjy's
+  Kosher Pizza Dairy Restaurant & Sushi Bar in Kew Gardens Hills, NY, offers a
+  welcoming atmosphere for enjoying fresh sushi and comforting eats in a
+  laid-back setting. This spot stands out with its diverse menu featuring
+  flavorful sushi options alongside classic pizza, all prepared with kosher
+  standards that appeal to a variety of tastes. Diners can savor the convenience
+  of late-night hours, making it a go-to choice for those seeking reliable sushi
+  places in the area after a long day. Accessibility features like
+  wheelchair-friendly entrances enhance the experience, ensuring everyone can
+  enjoy the vibrant offerings. Whether you're looking for top-rated sushi near
+  you or a casual meal with friends, this establishment combines quality
+  ingredients with a focus on community-friendly dining.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Customer Experiences$$$Feedback from visitors highlights the
+  strong appeal of this sushi spot, with many praising the fresh and
+  well-prepared rolls that deliver great flavor without breaking the bank.
+  People frequently note the welcoming vibe and solid variety of dishes,
+  including tasty pizza options that complement the seafood selections, making
+  it a hit for group outings or quick bites. While some mention occasional waits
+  during peak times, the overall consensus leans positive, emphasizing reliable
+  service and affordable prices that keep customers coming back. This place
+  earns its high marks for consistently meeting expectations on taste and value,
+  ideal for anyone searching for dependable sushi restaurants nearby. All in
+  all, it's a solid pick for those who appreciate straightforward, enjoyable
+  meals in a relaxed environment.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -224,7 +316,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Mrs. Fish"
+title: Mrs. Fish
 permalink: /california/los-angeles/mrs-fish.html
 stateAbbr: CA
 stateName: California
 cityName: Los Angeles
 seo:
-  name: "Mrs. Fish"
-  type: Restaurant
+  type: restaurant
   links: http://www.mrsfish.com/
-description: "Japanese plates, sushi & whisky are presented in a contemporary space accented by colorful artwork. Mrs. Fish serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, and dinner."
 place_id: ChIJITfiK7XHwoARG6IDkwlSETI
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $50 &ndash; $100
 rating: '4.4'
 rating_count: 0
 website: http://www.mrsfish.com/
+description: >-
+  Discover Mrs. Fish in Los Angeles, CA$$$Nestled in the heart of Los Angeles,
+  CA, Mrs. Fish stands out as a contemporary Japanese restaurant offering a
+  vibrant sushi bar and an enticing cocktail selection. This spot combines fresh
+  sushi creations with a lively atmosphere featuring live music and eye-catching
+  decor, making it a go-to choice for those seeking authentic Japanese flavors
+  in a modern setting. The space is designed for an immersive dining experience,
+  highlighted by thoughtful accessibility options like wheelchair-friendly
+  seating and restrooms. Patrons can enjoy a range of Japanese-inspired dishes
+  and drinks, positioning it as one of the top sushi destinations in the area
+  for anyone exploring local eateries.
+generative_summary: >-
+  Discover Mrs. Fish in Los Angeles, CA$$$Nestled in the heart of Los Angeles,
+  CA, Mrs. Fish stands out as a contemporary Japanese restaurant offering a
+  vibrant sushi bar and an enticing cocktail selection. This spot combines fresh
+  sushi creations with a lively atmosphere featuring live music and eye-catching
+  decor, making it a go-to choice for those seeking authentic Japanese flavors
+  in a modern setting. The space is designed for an immersive dining experience,
+  highlighted by thoughtful accessibility options like wheelchair-friendly
+  seating and restrooms. Patrons can enjoy a range of Japanese-inspired dishes
+  and drinks, positioning it as one of the top sushi destinations in the area
+  for anyone exploring local eateries.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJITfiK7XHwoARG6IDkwlSETI/reviews/ChZDSUhNMG9nS0VJQ0FnTURBNE5MS2R3EAE
@@ -460,6 +481,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNJMy1QaXFnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNJMy1QaXFnRRAB!2m1!1s0x80c2c7b52be23721:0x321152099303a21b
+review_summary: >-
+  What Guests Are Saying$$$Visitors often rave about the fresh and flavorful
+  sushi along with other standout dishes like tender short ribs and creative
+  ramen, creating a buzz around this popular spot for Japanese cuisine. Many
+  appreciate the welcoming vibe, including the mesmerizing fish tanks and
+  attentive service that enhance the overall dining experience, making it feel
+  lively and engaging without overwhelming the senses. While some note that
+  prices lean toward the higher end, the general consensus highlights the
+  delicious variety and unique cocktails that make every meal memorable. Folks
+  frequently mention the fun atmosphere with live music as a highlight,
+  encouraging groups to gather and enjoy the energy. Overall, it's a solid pick
+  for anyone in the mood for quality sushi near downtown, with most leaving
+  satisfied and eager to return.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidStreetParking: true
   valetParking: true
@@ -491,8 +526,8 @@ serves_lunch: false
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Japanese plates, sushi & whisky are presented in a contemporary space accented
   by colorful artwork.
 

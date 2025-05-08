@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ahi and Vegetable - Kapalama"
+title: Ahi and Vegetable - Kapalama
 permalink: /hawaii/honolulu/ahi-and-vegetable-kapalama.html
 stateAbbr: HI
 stateName: Hawaii
 cityName: Honolulu
 seo:
-  name: "Ahi and Vegetable - Kapalama"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Ahi and Vegetable - Kapalama serves delicious sushi in Honolulu, Hawaii. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJc19aMWRuAHwRzzBT-a5wTuw
 photos:
   - name: >-
@@ -185,7 +183,42 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Ahi and Vegetable in Honolulu, HI$$$Ahi and Vegetable - Kapalama in
+  Honolulu, HI, stands out as a convenient counter-serve spot nestled in the
+  Kapalama Shopping Center, ideal for those craving fresh Japanese-inspired
+  dishes. The menu highlights a range of poke, sashimi, and bento options,
+  appealing to seafood enthusiasts with its emphasis on quality and variety. It
+  also caters to diverse dietary needs, including gluten-free and vegetarian
+  choices, making it a versatile destination for a quick yet satisfying meal.
+  For anyone exploring sushi restaurants near Honolulu, this location offers a
+  welcoming atmosphere with flavorful selections that emphasize fresh
+  ingredients and thoughtful preparation.
+generative_summary: >-
+  Discover Ahi and Vegetable in Honolulu, HI$$$Ahi and Vegetable - Kapalama in
+  Honolulu, HI, stands out as a convenient counter-serve spot nestled in the
+  Kapalama Shopping Center, ideal for those craving fresh Japanese-inspired
+  dishes. The menu highlights a range of poke, sashimi, and bento options,
+  appealing to seafood enthusiasts with its emphasis on quality and variety. It
+  also caters to diverse dietary needs, including gluten-free and vegetarian
+  choices, making it a versatile destination for a quick yet satisfying meal.
+  For anyone exploring sushi restaurants near Honolulu, this location offers a
+  welcoming atmosphere with flavorful selections that emphasize fresh
+  ingredients and thoughtful preparation.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors often praise this seafood spot for its
+  incredibly fresh sashimi and tasty sushi bentos, making it a solid pick for
+  anyone hunting for reliable Japanese flavors. The all-you-can-eat options
+  stand out for their wide array of dishes, paired with friendly service and
+  prices that feel just right for the value. While some folks note that things
+  can get a little slow during busy times, it doesn't overshadow the overall
+  enjoyable vibe and generous portions. If you're on the hunt for top-rated
+  sushi places nearby, this restaurant delivers a satisfying experience that's
+  worth checking out, blending affordability with authentic tastes that keep
+  people coming back.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +244,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

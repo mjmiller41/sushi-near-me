@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Shiroi Sushi"
+title: Shiroi Sushi
 permalink: /california/los-gatos/shiroi-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Los Gatos
 seo:
-  name: "Shiroi Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Shiroi Sushi serves delicious sushi in Los Gatos, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJXZ0aEQk1joARZNp9qyzhOCk
 photos:
   - name: >-
@@ -170,7 +168,97 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x808e3509111a9d5d:0x2938e12cab7dda64!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 14
+        minute: 0
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
     - 'Tuesday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
     - 'Wednesday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
@@ -178,14 +266,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
     - 'Saturday: 5:00 – 9:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
-    - 'Tuesday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
-    - 'Wednesday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
-    - 'Thursday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
-    - 'Friday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
-    - 'Saturday: 5:00 – 9:00 PM'
-    - 'Sunday: Closed'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +278,250 @@ phone: (408) 340-5965
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.1'
-rating_count: 0
+rating_count: 213
 website: null
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Explore Shiroi Sushi in Los Gatos, CA$$$Shiroi Sushi in Los Gatos, California,
+  stands out as a relaxed destination for those seeking fresh Japanese flavors
+  in a welcoming setting. This spot offers a diverse array of sushi rolls,
+  paired with classic teriyaki dishes, along with options for beer and wine to
+  enhance your meal. Nestled conveniently near local attractions, it's an ideal
+  choice for anyone exploring top sushi restaurants in the area, emphasizing
+  accessibility features like wheelchair-friendly entrances and parking. The
+  atmosphere combines casual vibes with attentive service, making it perfect for
+  a quick lunch or evening outing when you're in the mood for authentic Japanese
+  cuisine. Whether you're hunting for sushi places near you or simply craving a
+  flavorful bite, Shiroi Sushi delivers a straightforward yet enjoyable dining
+  experience.
+generative_summary: >-
+  Explore Shiroi Sushi in Los Gatos, CA$$$Shiroi Sushi in Los Gatos, California,
+  stands out as a relaxed destination for those seeking fresh Japanese flavors
+  in a welcoming setting. This spot offers a diverse array of sushi rolls,
+  paired with classic teriyaki dishes, along with options for beer and wine to
+  enhance your meal. Nestled conveniently near local attractions, it's an ideal
+  choice for anyone exploring top sushi restaurants in the area, emphasizing
+  accessibility features like wheelchair-friendly entrances and parking. The
+  atmosphere combines casual vibes with attentive service, making it perfect for
+  a quick lunch or evening outing when you're in the mood for authentic Japanese
+  cuisine. Whether you're hunting for sushi places near you or simply craving a
+  flavorful bite, Shiroi Sushi delivers a straightforward yet enjoyable dining
+  experience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJXZ0aEQk1joARZNp9qyzhOCk/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJMkx2QjhBRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 1
+    text:
+      text: >-
+        The rudest customer service I’ve ever experienced. Went in at about
+        8:10pm, asked “ Do you have a table for 2?” Mind you , I see a 2 top and
+        4 top open. The response the rude waitress gave was just a flat “NO”
+        waving me off with her hand. I turned around and left. I liked their
+        food, but I will never return. At least not while she still works there.
+      languageCode: en
+    originalText:
+      text: >-
+        The rudest customer service I’ve ever experienced. Went in at about
+        8:10pm, asked “ Do you have a table for 2?” Mind you , I see a 2 top and
+        4 top open. The response the rude waitress gave was just a flat “NO”
+        waving me off with her hand. I turned around and left. I liked their
+        food, but I will never return. At least not while she still works there.
+      languageCode: en
+    authorAttribution:
+      displayName: Brandi M
+      uri: https://www.google.com/maps/contrib/103607243599221298874/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLK96qnSife4r8jtABjiYCiQ1bEKtFL73kAUpapy4kzk9KAxQ=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-30T03:26:48.025339Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNJMkx2QjhBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNJMkx2QjhBRRAB!2m1!1s0x808e3509111a9d5d:0x2938e12cab7dda64
+  - name: >-
+      places/ChIJXZ0aEQk1joARZNp9qyzhOCk/reviews/ChdDSUhNMG9nS0VJQ0FnTUNnblBmbDl3RRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 1
+    text:
+      text: >-
+        My kid was in tear right in front of me because after an hour wait,
+        finally getting a sit, the rude waiter refused to take our order. We are
+        the only two Asian customers in the restaurant. We ordered Unagi Sushi
+        and a large beer. The rude waiter said we have to order more and asked
+        us to leave the store. After my boy burst into tears and then every
+        Caucasian customer starts paying attention to the side table we sit, I
+        got to talk to the boss who was behind the bar the whole time and
+        explained what happened. Finally our order was taken. I would never come
+        back to this store again. The first time I felt so left out after being
+        in the States for 15 years was in this Japanese restaurant. I felt sorry
+        for my boy. I was so embarrassed when he asked me why she ignored us but
+        helped another family that came after us. I don’t know how to explain.
+        If you have children, make wise decisions before you step in this place.
+      languageCode: en
+    originalText:
+      text: >-
+        My kid was in tear right in front of me because after an hour wait,
+        finally getting a sit, the rude waiter refused to take our order. We are
+        the only two Asian customers in the restaurant. We ordered Unagi Sushi
+        and a large beer. The rude waiter said we have to order more and asked
+        us to leave the store. After my boy burst into tears and then every
+        Caucasian customer starts paying attention to the side table we sit, I
+        got to talk to the boss who was behind the bar the whole time and
+        explained what happened. Finally our order was taken. I would never come
+        back to this store again. The first time I felt so left out after being
+        in the States for 15 years was in this Japanese restaurant. I felt sorry
+        for my boy. I was so embarrassed when he asked me why she ignored us but
+        helped another family that came after us. I don’t know how to explain.
+        If you have children, make wise decisions before you step in this place.
+      languageCode: en
+    authorAttribution:
+      displayName: Ya You
+      uri: https://www.google.com/maps/contrib/106507426337659533435/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUG99Gl_dHqrWepi2SzSH0p_OcSZMS81Bqp3znSd_0xBHtP4Uo=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-02-15T03:01:29.430666Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNnblBmbDl3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNnblBmbDl3RRAB!2m1!1s0x808e3509111a9d5d:0x2938e12cab7dda64
+  - name: >-
+      places/ChIJXZ0aEQk1joARZNp9qyzhOCk/reviews/ChZDSUhNMG9nS0VJQ0FnTURRbExpR0JREAE
+    relativePublishTimeDescription: a month ago
+    rating: 1
+    text:
+      text: >-
+        If I can score a negative star on this place I would. The service in
+        this place is extremely sad and disheartening. I feel sorry for the
+        people who work here. The food is good but decided to give it a poor
+        score because of the service. I come by to get a couple items and the
+        lady who attended me had a face like she has a stick up her you know
+        what. So sad for her.
+      languageCode: en
+    originalText:
+      text: >-
+        If I can score a negative star on this place I would. The service in
+        this place is extremely sad and disheartening. I feel sorry for the
+        people who work here. The food is good but decided to give it a poor
+        score because of the service. I come by to get a couple items and the
+        lady who attended me had a face like she has a stick up her you know
+        what. So sad for her.
+      languageCode: en
+    authorAttribution:
+      displayName: Jesus Munguia
+      uri: https://www.google.com/maps/contrib/108745201288369518072/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVB4OVkbt9n81hqN4sBgBcihG1x5BJVgEX96znr4Y9YIO-ccOAX=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-09T03:51:22.109081Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURRbExpR0JREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURRbExpR0JREAE!2m1!1s0x808e3509111a9d5d:0x2938e12cab7dda64
+  - name: >-
+      places/ChIJXZ0aEQk1joARZNp9qyzhOCk/reviews/ChZDSUhNMG9nS0VJQ0FnTUNBcWZEMkNnEAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 1
+    text:
+      text: >-
+        Crazy lady ran out to our car after us after she forgot to add a $3 Miso
+        soup to our bill.
+
+        She accused us of not paying the whole bill.  Very rude service,
+        wouldn't even acknowledge us when we said thank you for the meal.  Would
+        NEVER EVER come back to this place. I should have taken back my tip.
+      languageCode: en
+    originalText:
+      text: >-
+        Crazy lady ran out to our car after us after she forgot to add a $3 Miso
+        soup to our bill.
+
+        She accused us of not paying the whole bill.  Very rude service,
+        wouldn't even acknowledge us when we said thank you for the meal.  Would
+        NEVER EVER come back to this place. I should have taken back my tip.
+      languageCode: en
+    authorAttribution:
+      displayName: mike b
+      uri: https://www.google.com/maps/contrib/110457205912860525861/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIBsL4PFJh5wJuTXSacXN5PdRk4WEV4-rM1yyvI5uiLFDc8vg=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-02-02T02:39:47.475414Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNBcWZEMkNnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNBcWZEMkNnEAE!2m1!1s0x808e3509111a9d5d:0x2938e12cab7dda64
+  - name: >-
+      places/ChIJXZ0aEQk1joARZNp9qyzhOCk/reviews/ChZDSUhNMG9nS0VJQ0FnSUMwblB5YWJ3EAE
+    relativePublishTimeDescription: 2 years ago
+    rating: 5
+    text:
+      text: >-
+        Excellent menu options with really tasty fish and miso soup. The wait
+        staff was so nice and attentive. Would definitely recommend. The 49er
+        roll, Netflix roll (pictures) and Barracuda roll (eaten before pictured)
+        were my favorite.
+      languageCode: en
+    originalText:
+      text: >-
+        Excellent menu options with really tasty fish and miso soup. The wait
+        staff was so nice and attentive. Would definitely recommend. The 49er
+        roll, Netflix roll (pictures) and Barracuda roll (eaten before pictured)
+        were my favorite.
+      languageCode: en
+    authorAttribution:
+      displayName: Ryan O'Halloran
+      uri: https://www.google.com/maps/contrib/111877722038664450170/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjW1UONaMjglKUBDit3ly_xwJQT8yMsK8xL1vMXBlDE6BCu_Dp8iKg=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2023-03-16T18:17:59.505434Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUMwblB5YWJ3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUMwblB5YWJ3EAE!2m1!1s0x808e3509111a9d5d:0x2938e12cab7dda64
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors often praise the tasty sushi and
+  fresh fish at this spot, highlighting it as a reliable go-to for satisfying
+  Japanese meals. While the food consistently impresses with its quality and
+  variety, a few notes mention that service can sometimes feel off, though it's
+  not the norm for everyone. Overall, it's a solid pick for casual dinners or
+  group outings, especially if you're in the mood for something hearty and
+  well-prepared. Keep in mind that experiences may vary, so arriving with
+  reasonable expectations can lead to a pleasant visit. If you're on the hunt
+  for top-rated sushi nearby, this place earns points for its flavorful
+  offerings while encouraging diners to enjoy the positives it brings to the
+  table.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
 delivery: null
-dine_in: null
-good_for_children: null
+dine_in: true
+good_for_children: true
 good_for_groups: null
 good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
+live_music: false
+menu_for_children: false
+outdoor_seating: false
 reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: false
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Fuji at HSP"
+title: Fuji at HSP
 permalink: /massachusetts/boston/fuji-at-hsp.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Boston
 seo:
-  name: "Fuji at HSP"
-  type: Restaurant
+  type: restaurant
   links: http://www.fujiathsp.com/
-description: "Fuji at HSP serves delicious sushi in Boston, Massachusetts. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ8y5TSGtx44kRTpz5koxmTwM
 photos:
   - name: >-
@@ -182,6 +180,33 @@ price_range: null
 rating: '4.5'
 rating_count: 0
 website: http://www.fujiathsp.com/
+description: >-
+  Explore Fuji at HSP in Boston, MA$$$Fuji at HSP in Boston, MA, stands out as a
+  vibrant sushi restaurant nestled in the heart of the downtown food scene,
+  offering a delightful array of fresh Japanese-inspired dishes that capture the
+  essence of authentic flavors. This spot excels with its creative rolls and
+  poke bowls, making it a go-to choice for those seeking top-rated sushi in a
+  lively atmosphere, complete with convenient dine-in and takeout options. The
+  moderate pricing and accessible entrance add to its appeal, ensuring a
+  welcoming experience for everyone looking to enjoy quality meals without the
+  fuss. Whether you're in the mood for simple sashimi or inventive specials, the
+  focus on fresh ingredients shines through in every bite. As one of the best
+  sushi restaurants near you, it's perfect for casual outings or quick grabs in
+  the bustling area.
+generative_summary: >-
+  Explore Fuji at HSP in Boston, MA$$$Fuji at HSP in Boston, MA, stands out as a
+  vibrant sushi restaurant nestled in the heart of the downtown food scene,
+  offering a delightful array of fresh Japanese-inspired dishes that capture the
+  essence of authentic flavors. This spot excels with its creative rolls and
+  poke bowls, making it a go-to choice for those seeking top-rated sushi in a
+  lively atmosphere, complete with convenient dine-in and takeout options. The
+  moderate pricing and accessible entrance add to its appeal, ensuring a
+  welcoming experience for everyone looking to enjoy quality meals without the
+  fuss. Whether you're in the mood for simple sashimi or inventive specials, the
+  focus on fresh ingredients shines through in every bite. As one of the best
+  sushi restaurants near you, it's perfect for casual outings or quick grabs in
+  the bustling area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ8y5TSGtx44kRTpz5koxmTwM/reviews/ChZDSUhNMG9nS0VJQ0FnSUNqeHBLZkV3EAE
@@ -323,6 +348,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNBcVlDQjhnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNBcVlDQjhnRRAB!2m1!1s0x89e3716b48532ef3:0x34f668c92f99c4e
+review_summary: >-
+  What Visitors Love About the Reviews$$$From what folks are sharing, this sushi
+  spot consistently impresses with its super fresh fish and creative rolls that
+  keep people coming back for more, often highlighting it as a standout option
+  in the neighborhood. Many appreciate the reliable quality and fun variety,
+  like tasty poke bowls and specials that feel both innovative and satisfying
+  for everyday meals. It's clear that the friendly vibe and efficient service
+  make it a hit for takeout or casual visits, with comments praising the overall
+  experience as worth the trip. While some note it gets busy, the general buzz
+  is positive, suggesting it's a solid pick for anyone hunting for reliable
+  Japanese eats. Overall, the feedback paints a picture of a welcoming place
+  that delivers on flavor and convenience, making it easy to see why it's
+  gaining fans among local sushi enthusiasts.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options:
   acceptsCreditCards: true
@@ -352,7 +391,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

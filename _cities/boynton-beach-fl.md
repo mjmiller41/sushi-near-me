@@ -5,4 +5,5 @@ permalink: /florida/boynton-beach/
 stateAbbr: FL
 stateName: Florida
 cityName: Boynton Beach
+
 ---

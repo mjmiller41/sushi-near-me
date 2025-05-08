@@ -5,4 +5,5 @@ permalink: /texas/san-marcos/
 stateAbbr: TX
 stateName: Texas
 cityName: San Marcos
+
 ---

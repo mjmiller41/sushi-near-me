@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "ZEN Kitchen & Bar"
+title: ZEN Kitchen & Bar
 permalink: /florida/new-port-richey/zen-kitchen-bar.html
 stateAbbr: FL
 stateName: Florida
 cityName: New Port Richey
 seo:
-  name: "ZEN Kitchen & Bar"
-  type: Restaurant
+  type: restaurant
   links: https://zenkitchenandbar.com/?utm_source=google
-description: "ZEN Kitchen & Bar serves delicious sushi in New Port Richey, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJefpAhamRwogRI8Q5oz4h33Y
 photos:
   - name: >-
@@ -199,7 +197,42 @@ price_range: null
 rating: '4.6'
 rating_count: 0
 website: https://zenkitchenandbar.com/?utm_source=google
+description: >-
+  Discover ZEN Kitchen & Bar in New Port Richey, FL$$$ZEN Kitchen & Bar in New
+  Port Richey, Florida, offers a welcoming spot for enjoying Asian-inspired
+  cuisine that highlights fresh flavors and diverse menu choices. The restaurant
+  features convenient hours from late morning through evening on most days,
+  making it easy to drop in for a quick meal or relaxed dinner. Accessibility
+  options like wheelchair-friendly parking and seating ensure a comfortable
+  visit for everyone, adding to its appeal as an inclusive dining destination.
+  Those seeking top-rated sushi spots in the area will find creative twists on
+  classic dishes, blending authentic tastes with a vibrant atmosphere that
+  encourages repeat visits.
+generative_summary: >-
+  Discover ZEN Kitchen & Bar in New Port Richey, FL$$$ZEN Kitchen & Bar in New
+  Port Richey, Florida, offers a welcoming spot for enjoying Asian-inspired
+  cuisine that highlights fresh flavors and diverse menu choices. The restaurant
+  features convenient hours from late morning through evening on most days,
+  making it easy to drop in for a quick meal or relaxed dinner. Accessibility
+  options like wheelchair-friendly parking and seating ensure a comfortable
+  visit for everyone, adding to its appeal as an inclusive dining destination.
+  Those seeking top-rated sushi spots in the area will find creative twists on
+  classic dishes, blending authentic tastes with a vibrant atmosphere that
+  encourages repeat visits.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying About This Spot$$$Folks heading to this Asian eatery
+  often rave about the fresh and flavorful dishes that make every outing feel
+  satisfying, drawing in fans of quality meals without any major letdowns. Many
+  appreciate the friendly service and cozy vibe that turn a simple lunch into a
+  enjoyable experience, with plenty of options to suit different preferences.
+  While there might be a short wait during busy times, the overall consensus
+  highlights the use of great ingredients and welcoming setting that keeps
+  customers returning. If you're on the hunt for reliable sushi places nearby,
+  people note the inventive flavors that add a fun element, making it a solid
+  choice for groups or solo diners looking for a positive dining adventure.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +258,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Soho 544"
+title: Soho 544
 permalink: /south-carolina/conway/soho-544.html
 stateAbbr: SC
 stateName: South Carolina
 cityName: Conway
 seo:
-  name: "Soho 544"
-  type: Restaurant
+  type: restaurant
   links: https://soho544.ordering.ordercounter.com/
-description: "Soho 544 serves delicious sushi in Conway, South Carolina. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJCUNa7DITAIkReCub6Ro6tYU
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $10 &ndash; $20
 rating: '4.0'
 rating_count: 0
 website: https://soho544.ordering.ordercounter.com/
+description: >-
+  Discover Soho 544 in Conway, South Carolina$$$Soho 544 in Conway, South
+  Carolina, stands out as a relaxed spot blending casual dining with a sports
+  bar vibe, offering fresh sushi and hearty steaks alongside other flavorful
+  options. This welcoming establishment features a comfortable atmosphere
+  perfect for enjoying Japanese-inspired dishes and classic favorites, making it
+  an ideal choice for those seeking sushi restaurants in the area. With
+  thoughtful accessibility features like wheelchair-friendly entrances and
+  seating, it caters to a wide range of diners looking for a laid-back meal. The
+  menu highlights a variety of dishes that pair well with drinks, appealing to
+  anyone exploring top-rated sushi options nearby. Overall, it's a go-to place
+  for locals and visitors alike wanting a mix of casual vibes and tasty cuisine.
+generative_summary: >-
+  Discover Soho 544 in Conway, South Carolina$$$Soho 544 in Conway, South
+  Carolina, stands out as a relaxed spot blending casual dining with a sports
+  bar vibe, offering fresh sushi and hearty steaks alongside other flavorful
+  options. This welcoming establishment features a comfortable atmosphere
+  perfect for enjoying Japanese-inspired dishes and classic favorites, making it
+  an ideal choice for those seeking sushi restaurants in the area. With
+  thoughtful accessibility features like wheelchair-friendly entrances and
+  seating, it caters to a wide range of diners looking for a laid-back meal. The
+  menu highlights a variety of dishes that pair well with drinks, appealing to
+  anyone exploring top-rated sushi options nearby. Overall, it's a go-to place
+  for locals and visitors alike wanting a mix of casual vibes and tasty cuisine.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJCUNa7DITAIkReCub6Ro6tYU/reviews/ChdDSUhNMG9nS0VJQ0FnSURfc2JxYWp3RRAB
@@ -374,6 +397,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR2cWFMQVV3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR2cWFMQVV3EAE!2m1!1s0x89001332ec5a4309:0x85b53a1ae99b2b78
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors to this sushi spot have shared mixed
+  experiences, with some appreciating the friendly service and decent food
+  quality that make it worth a try for casual meals. Others mentioned occasional
+  wait times and environmental issues like odors that could affect the overall
+  enjoyment, suggesting it's best to visit during less busy periods. Despite a
+  few letdowns with inconsistent flavors in dishes like sushi rolls, many noted
+  that the portions were generous and the atmosphere had potential for groups.
+  If you're hunting for sushi places near you, it's smart to keep expectations
+  realistic based on these honest takes, as the positives around certain menu
+  items balance out the critiques. All in all, it remains a viable option for
+  those open to a straightforward dining experience with room for improvement.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -406,7 +442,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

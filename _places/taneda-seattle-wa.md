@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Taneda"
+title: Taneda
 permalink: /washington/seattle/taneda.html
 stateAbbr: WA
 stateName: Washington
 cityName: Seattle
 seo:
-  name: "Taneda"
-  type: Restaurant
+  type: restaurant
   links: http://tanedaseattle.com/
-description: "Taneda serves delicious sushi in Seattle, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJXcM6TZwVkFQR_DSKVibXe2c
 photos:
   - name: >-
@@ -169,7 +167,49 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x5490159c4d3ac35d:0x677bd726568a34fc!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 17
+        minute: 15
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 17
+        minute: 15
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 15
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 17
+        minute: 15
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 17
+        minute: 15
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: Closed'
     - 'Wednesday: 5:15 – 9:30 PM'
@@ -177,14 +217,7 @@ opening_hours:
     - 'Friday: 5:15 – 9:30 PM'
     - 'Saturday: 5:15 – 9:30 PM'
     - 'Sunday: 5:15 – 9:30 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: Closed'
-    - 'Wednesday: 5:15 – 9:30 PM'
-    - 'Thursday: 5:15 – 9:30 PM'
-    - 'Friday: 5:15 – 9:30 PM'
-    - 'Saturday: 5:15 – 9:30 PM'
-    - 'Sunday: 5:15 – 9:30 PM'
+  nextOpenTime: '2025-05-04T00:15:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,9 +229,45 @@ phone: null
 price_level: PRICE_LEVEL_VERY_EXPENSIVE
 price_range: $100 &ndash; & up
 rating: '4.9'
-rating_count: 0
+rating_count: 255
 website: http://tanedaseattle.com/
+description: >-
+  Discover Taneda in Seattle, WA$$$Taneda in Seattle, Washington, stands out as
+  an intimate sushi restaurant that delights patrons with its seasonal omakase
+  menu, featuring fresh, artfully prepared dishes alongside a selection of sake
+  and wine. This spot emphasizes high-quality ingredients and a thoughtful
+  dining experience, making it a go-to choice for those seeking top-rated sushi
+  in the area. The cozy atmosphere and attention to detail create an inviting
+  setting for enjoying authentic Japanese flavors, while accessibility features
+  like wheelchair-friendly seating ensure a welcoming visit for all. Whether
+  you're exploring sushi restaurants nearby or looking for a memorable evening
+  out, Taneda combines tradition with modern flair to elevate your meal.
+generative_summary: >-
+  Discover Taneda in Seattle, WA$$$Taneda in Seattle, Washington, stands out as
+  an intimate sushi restaurant that delights patrons with its seasonal omakase
+  menu, featuring fresh, artfully prepared dishes alongside a selection of sake
+  and wine. This spot emphasizes high-quality ingredients and a thoughtful
+  dining experience, making it a go-to choice for those seeking top-rated sushi
+  in the area. The cozy atmosphere and attention to detail create an inviting
+  setting for enjoying authentic Japanese flavors, while accessibility features
+  like wheelchair-friendly seating ensure a welcoming visit for all. Whether
+  you're exploring sushi restaurants nearby or looking for a memorable evening
+  out, Taneda combines tradition with modern flair to elevate your meal.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying About Taneda$$$Visitors often praise this sushi place
+  for its standout omakase experience, where every dish feels fresh and expertly
+  crafted, almost like a piece of edible art. Folks appreciate the warm,
+  attentive service that makes the whole visit feel personal and enjoyable,
+  adding to the relaxed vibe of the spot. The clean and cozy interior gets high
+  marks for creating a comfortable environment that enhances the meal without
+  any distractions. Overall, it's clear that diners find the flavors innovative
+  and satisfying, making it a solid pick for anyone craving quality Japanese
+  cuisine. If you're on the hunt for reliable sushi options nearby, the feedback
+  suggests this is a spot worth trying for its consistent excellence and
+  welcoming feel.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -224,7 +293,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

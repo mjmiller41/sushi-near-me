@@ -5,4 +5,5 @@ permalink: /iowa/cedar-rapids/
 stateAbbr: IA
 stateName: Iowa
 cityName: Cedar Rapids
+
 ---

@@ -5,4 +5,5 @@ permalink: /virginia/suffolk/
 stateAbbr: VA
 stateName: Virginia
 cityName: Suffolk
+
 ---

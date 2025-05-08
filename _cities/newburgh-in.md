@@ -5,4 +5,5 @@ permalink: /indiana/newburgh/
 stateAbbr: IN
 stateName: Indiana
 cityName: Newburgh
+
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Tokyo Sushi"
+title: Tokyo Sushi
 permalink: /minnesota/brooklyn-park/tokyo-sushi.html
 stateAbbr: MN
 stateName: Minnesota
 cityName: Brooklyn Park
 seo:
-  name: "Tokyo Sushi"
-  type: Restaurant
-  links: null
-description: "Tokyo Sushi serves delicious sushi in Brooklyn Park, Minnesota. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://tokyosushibrooklynpark.kwickmenu.com/
 place_id: ChIJf5FvMio6s1IRKosfsKj7Huw
 photos:
   - name: >-
@@ -170,8 +168,97 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x52b33a2a326f917f:0xec1efba8b01f8b2a!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 15
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 15
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 15
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 15
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 15
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 15
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 2:30 PM, 4:30 – 9:15 PM'
+    - 'Tuesday: Closed'
+    - 'Wednesday: 11:00 AM – 2:30 PM, 4:30 – 9:15 PM'
+    - 'Thursday: 11:00 AM – 2:30 PM, 4:30 – 9:15 PM'
+    - 'Friday: 11:00 AM – 2:30 PM, 4:30 – 10:15 PM'
+    - 'Saturday: 12:00 – 10:15 PM'
+    - 'Sunday: 12:00 – 9:15 PM'
+  nextCloseTime: '2025-05-04T03:15:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +266,52 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (763) 703-4933
+price_level: PRICE_LEVEL_MODERATE
+price_range: $30 &ndash; $50
+rating: '4.3'
+rating_count: 1057
+website: https://tokyosushibrooklynpark.kwickmenu.com/
+description: >-
+  About Tokyo Sushi in Brooklyn Park, MN$$$Tokyo Sushi in Brooklyn Park, MN,
+  stands out as a welcoming spot for enjoying fresh Japanese dishes,
+  particularly its array of sushi options that appeal to locals seeking quality
+  eats nearby. This casual eatery offers an all-you-can-eat experience featuring
+  a mix of raw and cooked selections, making it a great choice for those
+  exploring flavorful sushi restaurants in the area. Accessibility features like
+  wheelchair-friendly parking and entrances add to the convenience, ensuring
+  everyone can savor the meal without hassle. With flexible hours that include
+  evenings and weekends, it's easy to drop in for a satisfying lunch or dinner,
+  blending affordability with a variety of tastes that keep diners coming back
+  for more.
+generative_summary: >-
+  About Tokyo Sushi in Brooklyn Park, MN$$$Tokyo Sushi in Brooklyn Park, MN,
+  stands out as a welcoming spot for enjoying fresh Japanese dishes,
+  particularly its array of sushi options that appeal to locals seeking quality
+  eats nearby. This casual eatery offers an all-you-can-eat experience featuring
+  a mix of raw and cooked selections, making it a great choice for those
+  exploring flavorful sushi restaurants in the area. Accessibility features like
+  wheelchair-friendly parking and entrances add to the convenience, ensuring
+  everyone can savor the meal without hassle. With flexible hours that include
+  evenings and weekends, it's easy to drop in for a satisfying lunch or dinner,
+  blending affordability with a variety of tastes that keep diners coming back
+  for more.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors to Tokyo Sushi often rave about the tasty
+  variety of rolls and cooked dishes, highlighting the great value for an
+  all-you-can-eat setup that makes it a solid pick among local sushi spots. Many
+  appreciate the fresh ingredients and friendly service that enhance the overall
+  vibe, turning meals into enjoyable outings without any major complaints. While
+  some note that wait times can pick up during peak hours, the general consensus
+  leans positive, with folks praising the consistent quality that earns it high
+  marks in the community. Overall, it's clear that sushi enthusiasts find plenty
+  to love here, from the flavorful options to the welcoming atmosphere that
+  encourages repeat visits. If you're on the hunt for reliable Japanese places
+  nearby, this spot delivers a satisfying experience that lives up to its
+  popularity.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +337,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

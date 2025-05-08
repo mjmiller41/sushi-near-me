@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Tomo 7 Sushi"
+title: Tomo 7 Sushi
 permalink: /california/riverside/tomo-7-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Riverside
 seo:
-  name: "Tomo 7 Sushi"
-  type: Restaurant
-  links: null
-description: "Tomo 7 Sushi serves delicious sushi in Riverside, California. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://tomo7sushi.net/
 place_id: ChIJ98ydGS2x3IARjmlY1GuScxI
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80dcb12d199dccf7:0x1273926bd458698e!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:30 AM – 10:00 PM'
+    - 'Tuesday: 11:30 AM – 10:00 PM'
+    - 'Wednesday: 11:30 AM – 10:00 PM'
+    - 'Thursday: 11:30 AM – 10:00 PM'
+    - 'Friday: 11:30 AM – 10:00 PM'
+    - 'Saturday: 11:30 AM – 10:00 PM'
+    - 'Sunday: 11:30 AM – 10:00 PM'
+  nextCloseTime: '2025-05-04T05:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,54 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (951) 343-5991
+price_level: PRICE_LEVEL_MODERATE
+price_range: $30 &ndash; $50
+rating: '4.3'
+rating_count: 745
+website: http://tomo7sushi.net/
+description: >-
+  Explore Tomo 7 Sushi in Riverside, CA$$$Tomo 7 Sushi in Riverside, California,
+  stands out as a welcoming spot for fresh sushi enthusiasts seeking a laid-back
+  dining experience. This cozy restaurant features an all-you-can-eat menu that
+  highlights a variety of creative rolls and options for those looking for
+  lighter, plant-based choices, along with flavorful dumplings to round out the
+  meal. With its accessible design and extended hours from late morning into the
+  evening, it's an ideal destination for anyone craving authentic
+  Japanese-inspired dishes without the hassle. The moderate pricing makes it a
+  great value for groups or individuals exploring local eateries, ensuring a
+  satisfying visit every time. Whether you're in the mood for something quick or
+  a leisurely meal, the focus on quality ingredients and variety keeps diners
+  coming back for more in this vibrant neighborhood.
+generative_summary: >-
+  Explore Tomo 7 Sushi in Riverside, CA$$$Tomo 7 Sushi in Riverside, California,
+  stands out as a welcoming spot for fresh sushi enthusiasts seeking a laid-back
+  dining experience. This cozy restaurant features an all-you-can-eat menu that
+  highlights a variety of creative rolls and options for those looking for
+  lighter, plant-based choices, along with flavorful dumplings to round out the
+  meal. With its accessible design and extended hours from late morning into the
+  evening, it's an ideal destination for anyone craving authentic
+  Japanese-inspired dishes without the hassle. The moderate pricing makes it a
+  great value for groups or individuals exploring local eateries, ensuring a
+  satisfying visit every time. Whether you're in the mood for something quick or
+  a leisurely meal, the focus on quality ingredients and variety keeps diners
+  coming back for more in this vibrant neighborhood.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors to Tomo 7 Sushi often rave about the
+  fresh flavors and generous portions that make for a memorable meal, with many
+  highlighting the all-you-can-eat deals as a standout feature for sushi lovers.
+  People appreciate the welcoming vibe and solid service that help create a
+  relaxed atmosphere, even during busier times, though some note that wait times
+  can vary depending on the crowd. Overall, the consensus leans positive with
+  praise for the variety of options, including vegetarian picks, making it a
+  reliable choice for families and friends alike. While a few mention minor
+  inconsistencies in preparation, the high marks for taste and affordability
+  keep the experience enjoyable and worth recommending. If you're hunting for
+  top-notch sushi spots nearby, this one delivers a consistently pleasing outing
+  that balances fun and flavor effectively.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +315,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

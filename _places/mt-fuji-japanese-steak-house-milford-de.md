@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Mt. Fuji Japanese Steak House"
+title: Mt. Fuji Japanese Steak House
 permalink: /delaware/milford/mt-fuji-japanese-steak-house.html
 stateAbbr: DE
 stateName: Delaware
 cityName: Milford
 seo:
-  name: "Mt. Fuji Japanese Steak House"
-  type: Restaurant
+  type: restaurant
   links: http://www.fuji19963.com/
-description: "Mt. Fuji Japanese Steak House serves delicious sushi in Milford, Delaware. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJY55Uk4eZuIkRUWSEv5G-rzY
 photos:
   - name: >-
@@ -143,7 +141,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDe_fugMA!2e10!4m2!3m1!1s0x89b8998793549e63:0x36afbe91bf846451
 address: Airpark Plaza, 941 N Dupont Blvd I, Milford, DE 19963, USA
-street: Airpark Plaza, 941 N Dupont Blvd I
+street: Airpark Plaza,941 N Dupont Blvd I
 city: Milford
 state: DE
 zip: '19963'
@@ -185,6 +183,29 @@ price_range: $20 &ndash; $30
 rating: '4.2'
 rating_count: 0
 website: http://www.fuji19963.com/
+description: >-
+  Discover Mt. Fuji Japanese Steak House in Milford, DE$$$Mt. Fuji Japanese
+  Steak House in Milford, DE, is a welcoming spot for enjoying fresh sushi and
+  hibachi favorites in a relaxed setting. The restaurant specializes in
+  authentic Japanese cuisine, including flavorful rolls and grilled dishes that
+  cater to a variety of tastes, making it a great choice for families with its
+  kid-friendly options. Accessibility features like wheelchair-friendly
+  entrances and seating add to the convenience, ensuring everyone can enjoy the
+  experience. Ample parking and a casual vibe make it an easy go-to for those
+  searching for quality sushi options nearby. Whether you're in the mood for a
+  quick meal or a laid-back dinner, this spot delivers on taste and simplicity.
+generative_summary: >-
+  Discover Mt. Fuji Japanese Steak House in Milford, DE$$$Mt. Fuji Japanese
+  Steak House in Milford, DE, is a welcoming spot for enjoying fresh sushi and
+  hibachi favorites in a relaxed setting. The restaurant specializes in
+  authentic Japanese cuisine, including flavorful rolls and grilled dishes that
+  cater to a variety of tastes, making it a great choice for families with its
+  kid-friendly options. Accessibility features like wheelchair-friendly
+  entrances and seating add to the convenience, ensuring everyone can enjoy the
+  experience. Ample parking and a casual vibe make it an easy go-to for those
+  searching for quality sushi options nearby. Whether you're in the mood for a
+  quick meal or a laid-back dinner, this spot delivers on taste and simplicity.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJY55Uk4eZuIkRUWSEv5G-rzY/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRa195OFN3EAE
@@ -414,6 +435,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQzcFp1UjVnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQzcFp1UjVnRRAB!2m1!1s0x89b8998793549e63:0x36afbe91bf846451
+review_summary: >-
+  What Visitors Are Buzzing About$$$Folks who've tried this place often rave
+  about the fresh sushi and generous portions that make for a satisfying meal,
+  with many highlighting the flavorful hibachi dishes as a standout feature.
+  While some have mentioned occasional issues like overcooked items or service
+  mix-ups, the overall atmosphere and attentive staff keep things enjoyable and
+  worth another visit. It's clear that the restaurant shines when it comes to
+  variety in Japanese fare, appealing to those looking for reliable spots for
+  family outings or casual evenings. On the positive side, diners appreciate the
+  kid-friendly menu and solid options for groups, adding to its appeal as a
+  local favorite. All in all, if you're on the hunt for tasty sushi experiences
+  nearby, this spot generally delivers a solid vibe with room for the occasional
+  tweak.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -446,7 +481,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

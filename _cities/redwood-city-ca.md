@@ -5,4 +5,5 @@ permalink: /california/redwood-city/
 stateAbbr: CA
 stateName: California
 cityName: Redwood City
+
 ---

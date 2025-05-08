@@ -5,4 +5,5 @@ permalink: /south-dakota/brookings/
 stateAbbr: SD
 stateName: South Dakota
 cityName: Brookings
+
 ---

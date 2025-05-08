@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Shima Sushi"
+title: Shima Sushi
 permalink: /california/san-jose/shima-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: San Jose
 seo:
-  name: "Shima Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://shimasushisj.com/
-description: "Shima Sushi serves delicious sushi in San Jose, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJUbe1Rlo0joARCUakzHT-12M
 photos:
   - name: >-
@@ -170,7 +168,113 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x808e345a46b5b751:0x63d7fe74cca44609!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 14
+        minute: 0
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 15
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
     - 'Tuesday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
     - 'Wednesday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
@@ -178,14 +282,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
     - 'Saturday: 12:00 – 3:00 PM, 5:00 – 9:00 PM'
     - 'Sunday: 5:00 – 9:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
-    - 'Tuesday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
-    - 'Wednesday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
-    - 'Thursday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
-    - 'Friday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
-    - 'Saturday: 12:00 – 3:00 PM, 5:00 – 9:00 PM'
-    - 'Sunday: 5:00 – 9:00 PM'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +294,258 @@ phone: (408) 371-4702
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.5'
-rating_count: 0
+rating_count: 193
 website: http://shimasushisj.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Explore Shima Sushi in San Jose$$$Shima Sushi in San Jose, CA, stands out as a
+  welcoming spot for fresh Japanese cuisine, nestled in a convenient shopping
+  center with ample parking and accessibility features. This casual eatery
+  offers a variety of sushi rolls, bento boxes, and light beverages, making it a
+  go-to choice for those seeking authentic flavors in a relaxed atmosphere.
+  Highlights include thoughtful vegetarian selections and a focus on quality
+  ingredients that enhance the dining experience. With its moderate pricing and
+  inviting vibe, it's an ideal destination for anyone exploring top-rated sushi
+  options nearby, blending tradition with everyday convenience.
+generative_summary: >-
+  Explore Shima Sushi in San Jose$$$Shima Sushi in San Jose, CA, stands out as a
+  welcoming spot for fresh Japanese cuisine, nestled in a convenient shopping
+  center with ample parking and accessibility features. This casual eatery
+  offers a variety of sushi rolls, bento boxes, and light beverages, making it a
+  go-to choice for those seeking authentic flavors in a relaxed atmosphere.
+  Highlights include thoughtful vegetarian selections and a focus on quality
+  ingredients that enhance the dining experience. With its moderate pricing and
+  inviting vibe, it's an ideal destination for anyone exploring top-rated sushi
+  options nearby, blending tradition with everyday convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJUbe1Rlo0joARCUakzHT-12M/reviews/ChZDSUhNMG9nS0VJQ0FnSUN2bUp5YWVREAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        Great sushi spot tucked in the large shopping center on Camden and
+        Union. There's lots of parking and a decent amount of seating for a
+        small restaurant. The staff were all very nice and attentive. I dined in
+        on a Friday night and the ambiance was busy and lively. I noticed there
+        was a lot of regulars dining in, always a good sign :-).
+
+
+        For a sushi restaurant, I was impressed with their vegetarian options!
+        They have vegetarian udon and 5 vegetarian rolls. Along with the
+        traditional apps.
+
+
+        -Edamame: salty and savory
+
+        -Miso soup: delicious and actually hot! Perfect for a cold night
+
+        -Seaweed salad: a good portion and nicely seasoned
+
+        -Vege roll: the only difference between this roll and the caterpillar
+        roll is the mango and portion size. The vege roll was perfect for me
+        portion wise. The pickled veggies were delicious!
+
+
+        Definitely recommend Shima Sushi!
+      languageCode: en
+    originalText:
+      text: >-
+        Great sushi spot tucked in the large shopping center on Camden and
+        Union. There's lots of parking and a decent amount of seating for a
+        small restaurant. The staff were all very nice and attentive. I dined in
+        on a Friday night and the ambiance was busy and lively. I noticed there
+        was a lot of regulars dining in, always a good sign :-).
+
+
+        For a sushi restaurant, I was impressed with their vegetarian options!
+        They have vegetarian udon and 5 vegetarian rolls. Along with the
+        traditional apps.
+
+
+        -Edamame: salty and savory
+
+        -Miso soup: delicious and actually hot! Perfect for a cold night
+
+        -Seaweed salad: a good portion and nicely seasoned
+
+        -Vege roll: the only difference between this roll and the caterpillar
+        roll is the mango and portion size. The vege roll was perfect for me
+        portion wise. The pickled veggies were delicious!
+
+
+        Definitely recommend Shima Sushi!
+      languageCode: en
+    authorAttribution:
+      displayName: Daisy Serrano Perez
+      uri: https://www.google.com/maps/contrib/113672529379671818896/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVMmOPF6a3iWq8MgV5lfhykBpPndmMxCPh_ZztQsWClOkhVT-2u=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-12-07T18:37:34.868979Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN2bUp5YWVREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN2bUp5YWVREAE!2m1!1s0x808e345a46b5b751:0x63d7fe74cca44609
+  - name: >-
+      places/ChIJUbe1Rlo0joARCUakzHT-12M/reviews/ChZDSUhNMG9nS0VJQ0FnSUNBZzktaEVBEAE
+    relativePublishTimeDescription: 7 years ago
+    rating: 2
+    text:
+      text: >-
+        the staff was nice but the food wasn't great. I've never had imitation
+        crab meat at a Japanese restaurant. It was awful and the bowl wasn't
+        good either it was not like the menu described with no veggies at all
+        unless you count the one shredded carrot on top. I wouldn't recommend
+        with overpriced items.
+      languageCode: en
+    originalText:
+      text: >-
+        the staff was nice but the food wasn't great. I've never had imitation
+        crab meat at a Japanese restaurant. It was awful and the bowl wasn't
+        good either it was not like the menu described with no veggies at all
+        unless you count the one shredded carrot on top. I wouldn't recommend
+        with overpriced items.
+      languageCode: en
+    authorAttribution:
+      displayName: Kat Reviews
+      uri: https://www.google.com/maps/contrib/107483905853658708842/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXCPLLvo5JtbpiZY4iwoVtzGrQf6T4HTJakPkaqkWw0031EMf8L=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2017-11-22T20:24:11.336Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNBZzktaEVBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNBZzktaEVBEAE!2m1!1s0x808e345a46b5b751:0x63d7fe74cca44609
+  - name: >-
+      places/ChIJUbe1Rlo0joARCUakzHT-12M/reviews/ChdDSUhNMG9nS0VJQ0FnSUNGNmFuaWdnRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: |-
+        First time there brought the family of 7.
+        Food was amazing,  tough to beat fresh sushi.
+        Already looking foward to our next trip.
+      languageCode: en
+    originalText:
+      text: |-
+        First time there brought the family of 7.
+        Food was amazing,  tough to beat fresh sushi.
+        Already looking foward to our next trip.
+      languageCode: en
+    authorAttribution:
+      displayName: eosd201
+      uri: https://www.google.com/maps/contrib/100267609713229481777/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVEpvJ1F3GNGk9usWwwNiY56D4FCPFHQu9z6iIh7JG8ozNwwuAk=s128-c0x00000000-cc-rp-mo
+    publishTime: '2023-10-29T03:12:56.867482Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNGNmFuaWdnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNGNmFuaWdnRRAB!2m1!1s0x808e345a46b5b751:0x63d7fe74cca44609
+  - name: >-
+      places/ChIJUbe1Rlo0joARCUakzHT-12M/reviews/ChdDSUhNMG9nS0VJQ0FnSUMxME1mWXVRRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 1
+    text:
+      text: >-
+        Unfortunately the food was pretty inedible. The California roll was not
+        fresh at all. The salmon portion was super small. The salad also very
+        stale. For $23, the quality was terrible. You can find a better Bento
+        box for cheaper almost anywhere else.
+      languageCode: en
+    originalText:
+      text: >-
+        Unfortunately the food was pretty inedible. The California roll was not
+        fresh at all. The salmon portion was super small. The salad also very
+        stale. For $23, the quality was terrible. You can find a better Bento
+        box for cheaper almost anywhere else.
+      languageCode: en
+    authorAttribution:
+      displayName: Heidi Mahoney
+      uri: https://www.google.com/maps/contrib/102797594405138406185/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVHAysKfy9JF3l4fFKacUguzj_QZP8Os6GHAR9GfPJMyiHzykdm=s128-c0x00000000-cc-rp-mo
+    publishTime: '2023-12-20T22:52:54.374117Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMxME1mWXVRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMxME1mWXVRRRAB!2m1!1s0x808e345a46b5b751:0x63d7fe74cca44609
+  - name: >-
+      places/ChIJUbe1Rlo0joARCUakzHT-12M/reviews/ChdDSUhNMG9nS0VJQ0FnSUNGZzh2SDh3RRAB
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        Excellent sushi and special roll selection. Love Godzilla and Shima
+        roll, so good. Friendly service. Reasonable prices. Some of the best,
+        freshest fish I've had. Chill vibe - family loved everything we ordered!
+        Honestly you can't go wrong. Would definitely come again! It's a hidden
+        gem.
+      languageCode: en
+    originalText:
+      text: >-
+        Excellent sushi and special roll selection. Love Godzilla and Shima
+        roll, so good. Friendly service. Reasonable prices. Some of the best,
+        freshest fish I've had. Chill vibe - family loved everything we ordered!
+        Honestly you can't go wrong. Would definitely come again! It's a hidden
+        gem.
+      languageCode: en
+    authorAttribution:
+      displayName: Natasja Wolf
+      uri: https://www.google.com/maps/contrib/104532591575286321939/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVEcQRgQsZ9VU38QGtxqlCAtjDUqf5_5fdtcGICcknwe32uigQ=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2023-11-01T06:14:56.421458Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNGZzh2SDh3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNGZzh2SDh3RRAB!2m1!1s0x808e345a46b5b751:0x63d7fe74cca44609
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors often rave about the fresh sushi and
+  creative rolls at this local favorite, highlighting the variety that keeps
+  things exciting for families and groups alike. While most folks appreciate the
+  friendly service and reasonable prices, a few note occasional inconsistencies
+  with ingredient freshness that could use some tweaks. Overall, the atmosphere
+  feels lively and approachable, with plenty of praise for vegetarian choices
+  that make it accessible for all diners. If you're hunting for sushi spots near
+  you, this place delivers solid satisfaction with its flavorful offerings,
+  making it worth a try for a casual meal.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
+delivery: true
+dine_in: true
+good_for_children: true
 good_for_groups: null
-good_for_sports: null
-live_music: null
+good_for_sports: false
+live_music: false
 menu_for_children: null
 outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: false
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Carefully presented sushi, rolls & other Japanese basics served in a
+  shopping-center storefront.
 
 ---

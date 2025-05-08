@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "O Sushi & Grill"
+title: O Sushi & Grill
 permalink: /california/san-diego/o-sushi-grill.html
 stateAbbr: CA
 stateName: California
 cityName: San Diego
 seo:
-  name: "O Sushi & Grill"
-  type: Restaurant
-  links: null
-description: "O Sushi & Grill serves delicious sushi in San Diego, California. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://osushiandgrill.com/
 place_id: ChIJRcFCE3X524ARKsRkDujm5Qc
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80dbf9751342c145:0x7e5e6e80e64c42a!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 9:00 PM'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 9:30 PM'
+    - 'Saturday: 11:00 AM – 9:30 PM'
+    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T04:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,48 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (858) 564-0600
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.4'
+rating_count: 449
+website: http://osushiandgrill.com/
+description: >-
+  Experience O Sushi & Grill in San Diego$$$O Sushi & Grill in San Diego, CA,
+  provides a relaxed spot for enjoying fresh Japanese-inspired dishes, including
+  creative sushi rolls and hearty bento boxes that cater to a variety of tastes.
+  This welcoming eatery stands out with its accessible features like
+  wheelchair-friendly parking and seating, making it easy for everyone to savor
+  the flavors. Happy hour specials add an extra appeal, offering great value on
+  select items for those seeking affordable dining options. The restaurant's
+  consistent hours from late morning into the evening ensure it's a convenient
+  choice for lunch or dinner, blending casual vibes with quality ingredients
+  that highlight the best of local sushi scenes.
+generative_summary: >-
+  Experience O Sushi & Grill in San Diego$$$O Sushi & Grill in San Diego, CA,
+  provides a relaxed spot for enjoying fresh Japanese-inspired dishes, including
+  creative sushi rolls and hearty bento boxes that cater to a variety of tastes.
+  This welcoming eatery stands out with its accessible features like
+  wheelchair-friendly parking and seating, making it easy for everyone to savor
+  the flavors. Happy hour specials add an extra appeal, offering great value on
+  select items for those seeking affordable dining options. The restaurant's
+  consistent hours from late morning into the evening ensure it's a convenient
+  choice for lunch or dinner, blending casual vibes with quality ingredients
+  that highlight the best of local sushi scenes.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback Highlights$$$Folks who visit this spot often rave about the
+  consistently fresh and flavorful sushi, making it a go-to for anyone craving
+  reliable Japanese fare nearby. Many appreciate the solid portion sizes and
+  reasonable prices, which deliver good bang for your buck without skimping on
+  taste. While some mention occasional waits during peak times, the overall
+  atmosphere and service keep things upbeat and enjoyable for groups or solo
+  diners. The high marks from regulars suggest it's a solid pick for quality
+  meals, with positive nods to the variety that keeps things exciting on repeat
+  visits. All in all, it's clear this place hits the mark for those hunting down
+  tasty, approachable dining experiences in the area.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +309,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

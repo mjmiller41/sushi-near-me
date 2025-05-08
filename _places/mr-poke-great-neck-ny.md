@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Mr.Poke"
+title: Mr.Poke
 permalink: /new-york/great-neck/mr-poke.html
 stateAbbr: NY
 stateName: New York
 cityName: Great Neck
 seo:
-  name: "Mr.Poke"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Mr.Poke serves delicious sushi in Great Neck, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJjeS7GV2JwokRfwd5jNCROqc
 photos:
   - name: >-
@@ -181,6 +179,27 @@ price_range: $10 &ndash; $20
 rating: '4.3'
 rating_count: 0
 website: null
+description: >-
+  Discover Mr. Poke in Great Neck, NY$$$Mr. Poke in Great Neck, NY, stands out
+  as a casual spot for Hawaiian-inspired dining, blending fresh sushi and
+  healthy options into a welcoming atmosphere. This eatery offers customizable
+  bowls with high-quality ingredients, making it a go-to choice for those
+  seeking light, flavorful meals that emphasize freshness and variety. Patrons
+  can enjoy a range of sushi selections that cater to health-conscious diners,
+  with options that balance taste and nutrition in every bite. The spot's
+  approachable vibe and convenient location near popular sushi areas make it an
+  ideal stop for anyone exploring top-rated sushi restaurants in the region.
+generative_summary: >-
+  Discover Mr. Poke in Great Neck, NY$$$Mr. Poke in Great Neck, NY, stands out
+  as a casual spot for Hawaiian-inspired dining, blending fresh sushi and
+  healthy options into a welcoming atmosphere. This eatery offers customizable
+  bowls with high-quality ingredients, making it a go-to choice for those
+  seeking light, flavorful meals that emphasize freshness and variety. Patrons
+  can enjoy a range of sushi selections that cater to health-conscious diners,
+  with options that balance taste and nutrition in every bite. The spot's
+  approachable vibe and convenient location near popular sushi areas make it an
+  ideal stop for anyone exploring top-rated sushi restaurants in the region.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJjeS7GV2JwokRfwd5jNCROqc/reviews/ChZDSUhNMG9nS0VJQ0FnSURyeE5fR0FnEAE
@@ -344,6 +363,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURHeWNHMHVnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURHeWNHMHVnRRAB!2m1!1s0x89c2895d19bbe48d:0xa73a91d08c79077f
+review_summary: >-
+  What Customers Are Saying$$$Folks seem to appreciate the generous portions and
+  fresh ingredients at this spot, often highlighting how the customizable bowls
+  keep things exciting and satisfying. While some mention that the
+  rice-to-protein balance could be tweaked for a more even mix, the overall
+  flavors and combinations generally hit the mark for a quick, tasty meal. It's
+  clear that the friendly service and central location add to the appeal, making
+  it a solid pick for casual diners in the area. Even with a few notes about
+  temporary closures affecting availability, many visitors leave feeling content
+  and ready to return for more sushi favorites. Overall, it's a reliable choice
+  that delivers a positive experience for those searching for great sushi
+  nearby.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   valetParking: false
 payment_options:
@@ -374,7 +406,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

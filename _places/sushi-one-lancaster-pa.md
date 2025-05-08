@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi One‎"
+title: Sushi One‎
 permalink: /pennsylvania/lancaster/sushi-one.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Lancaster
 seo:
-  name: "Sushi One‎"
-  type: Restaurant
+  type: restaurant
   links: https://sushioneonline.com/
-description: "Sushi One‎ serves delicious sushi in Lancaster, Pennsylvania. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJnTlyn5wjxokRwnshmJaUMqU
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 0
 website: https://sushioneonline.com/
+description: >-
+  Explore Sushi One in Lancaster, PA$$$Sushi One in Lancaster, PA, stands out as
+  a welcoming spot for sushi enthusiasts, offering a comfortable atmosphere
+  perfect for enjoying traditional Japanese dishes. This sushi restaurant
+  features fresh selections of sushi alongside a variety of beverages like beer,
+  wine, and sake, catering to those seeking authentic flavors in a relaxed
+  setting. With thoughtful vegetarian options and accessibility features that
+  make it easy for everyone to dine in, it's an ideal choice for families or
+  groups looking for quality Japanese cuisine nearby. The moderate pricing adds
+  to its appeal, making it a go-to option for anyone searching for reliable
+  sushi places in the area.
+generative_summary: >-
+  Explore Sushi One in Lancaster, PA$$$Sushi One in Lancaster, PA, stands out as
+  a welcoming spot for sushi enthusiasts, offering a comfortable atmosphere
+  perfect for enjoying traditional Japanese dishes. This sushi restaurant
+  features fresh selections of sushi alongside a variety of beverages like beer,
+  wine, and sake, catering to those seeking authentic flavors in a relaxed
+  setting. With thoughtful vegetarian options and accessibility features that
+  make it easy for everyone to dine in, it's an ideal choice for families or
+  groups looking for quality Japanese cuisine nearby. The moderate pricing adds
+  to its appeal, making it a go-to option for anyone searching for reliable
+  sushi places in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJnTlyn5wjxokRwnshmJaUMqU/reviews/ChZDSUhNMG9nS0VJQ0FnTURBdG9hcEF3EAE
@@ -378,6 +399,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNSNHBqeXRBRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNSNHBqeXRBRRAB!2m1!1s0x89c6239c9f72399d:0xa532949698217bc2
+review_summary: >-
+  Insights from Recent Reviews$$$Visitors often rave about the fresh and
+  flavorful sushi that keeps them coming back for more, highlighting how it hits
+  the spot for anyone craving top-rated Japanese eats. Many appreciate the cozy
+  vibe and attentive service that make every meal feel welcoming and enjoyable,
+  without any unnecessary fuss. Folks note that the prices are fair and the
+  portions satisfying, adding to the overall value for a casual night out. While
+  some mention the staff's friendly approach enhances the experience, it's clear
+  that the combination of tasty food and relaxed atmosphere makes this a solid
+  pick for sushi lovers exploring local options. Overall, it's a spot that
+  consistently delivers a positive dining experience, encouraging repeat visits
+  for those in the mood for something delicious.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -410,7 +444,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

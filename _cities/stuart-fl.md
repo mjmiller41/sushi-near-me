@@ -5,4 +5,5 @@ permalink: /florida/stuart/
 stateAbbr: FL
 stateName: Florida
 cityName: Stuart
+
 ---

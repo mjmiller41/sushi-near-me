@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Song Lan Restaurant"
+title: Song Lan Restaurant
 permalink: /ohio/dublin/song-lan-restaurant.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Dublin
 seo:
-  name: "Song Lan Restaurant"
-  type: Restaurant
+  type: restaurant
   links: http://songlanrestaurant.com/
-description: "Song Lan Restaurant serves delicious sushi in Dublin, Ohio. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJsVCPb-2TOIgR15Zp9i3HpFA
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $30 &ndash; $50
 rating: '4.6'
 rating_count: 0
 website: http://songlanrestaurant.com/
+description: >-
+  Discover Song Lan Restaurant in Dublin, OH$$$Song Lan Restaurant in Dublin,
+  OH, stands out as a welcoming hub for Japanese dining enthusiasts, featuring
+  an array of fresh sushi and hibachi options alongside refreshing cocktails in
+  a laid-back setting. The spot emphasizes high-quality ingredients and a modern
+  ambiance that makes every visit feel effortless and enjoyable. Accessibility
+  features like wheelchair-friendly entrances and ample parking enhance the
+  overall experience, catering to a wide range of guests. Outdoor seating adds a
+  pleasant touch for those seeking a casual outdoor vibe, while the menu's
+  variety ensures there's something for everyone looking for authentic Japanese
+  flavors.
+generative_summary: >-
+  Discover Song Lan Restaurant in Dublin, OH$$$Song Lan Restaurant in Dublin,
+  OH, stands out as a welcoming hub for Japanese dining enthusiasts, featuring
+  an array of fresh sushi and hibachi options alongside refreshing cocktails in
+  a laid-back setting. The spot emphasizes high-quality ingredients and a modern
+  ambiance that makes every visit feel effortless and enjoyable. Accessibility
+  features like wheelchair-friendly entrances and ample parking enhance the
+  overall experience, catering to a wide range of guests. Outdoor seating adds a
+  pleasant touch for those seeking a casual outdoor vibe, while the menu's
+  variety ensures there's something for everyone looking for authentic Japanese
+  flavors.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJsVCPb-2TOIgR15Zp9i3HpFA/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfanZyVGlBRRAB
@@ -374,6 +395,17 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQzN0pDaElREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQzN0pDaElREAE!2m1!1s0x883893ed6f8f50b1:0x50a4c72df66996d7
+review_summary: >-
+  What Customers Love About the Reviews$$$Folks often highlight the incredibly
+  fresh sushi and hibachi dishes as standout favorites, making this a reliable
+  choice for anyone craving top-notch Japanese eats nearby. Service gets plenty
+  of nods for being friendly and efficient, even when things get busy, which
+  keeps the dining flow smooth and enjoyable. Reviewers frequently mention the
+  welcoming atmosphere and tasty specialty rolls that leave you feeling
+  satisfied without any complaints. Overall, it's clear this place delivers a
+  solid experience that's worth trying for sushi fans, blending great food with
+  a relaxed vibe that keeps people coming back.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -407,7 +439,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

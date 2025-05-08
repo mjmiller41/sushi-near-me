@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yashi Sushi"
+title: Yashi Sushi
 permalink: /florida/jacksonville/yashi-sushi.html
 stateAbbr: FL
 stateName: Florida
 cityName: Jacksonville
 seo:
-  name: "Yashi Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.yashisushi4820.com/
-description: "Easygoing shopping-center eatery serving Japanese classics like sushi, teriyaki & hibachi meals. Yashi Sushi serves delicious sushi in Jacksonville, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJbR_zH3y15YgRXWdCN4NpnnI
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 0
 website: http://www.yashisushi4820.com/
+description: >-
+  Experience Yashi Sushi in Jacksonville$$$Yashi Sushi in Jacksonville, FL, is a
+  welcoming Japanese restaurant nestled in a relaxed shopping-center
+  environment, offering an array of fresh sushi, teriyaki, and hibachi dishes
+  that highlight authentic flavors. The spot stands out for its generous
+  portions and flavorful options, making it ideal for casual meals or family
+  gatherings, with highlights like tasty salads and soups that complement the
+  main courses. Accessibility features ensure a comfortable visit for everyone,
+  adding to its appeal as a go-to destination for Japanese cuisine near you.
+  Whether you're in the mood for top-rated sushi rolls or a quick bite, this
+  place delivers a satisfying experience with a focus on quality ingredients.
+  It's a solid choice for anyone exploring sushi restaurants in the area,
+  blending simplicity and taste in a laid-back setting.
+generative_summary: >-
+  Experience Yashi Sushi in Jacksonville$$$Yashi Sushi in Jacksonville, FL, is a
+  welcoming Japanese restaurant nestled in a relaxed shopping-center
+  environment, offering an array of fresh sushi, teriyaki, and hibachi dishes
+  that highlight authentic flavors. The spot stands out for its generous
+  portions and flavorful options, making it ideal for casual meals or family
+  gatherings, with highlights like tasty salads and soups that complement the
+  main courses. Accessibility features ensure a comfortable visit for everyone,
+  adding to its appeal as a go-to destination for Japanese cuisine near you.
+  Whether you're in the mood for top-rated sushi rolls or a quick bite, this
+  place delivers a satisfying experience with a focus on quality ingredients.
+  It's a solid choice for anyone exploring sushi restaurants in the area,
+  blending simplicity and taste in a laid-back setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJbR_zH3y15YgRXWdCN4NpnnI/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJbjhublJREAE
@@ -338,6 +363,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUMtdzZPeVpBEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUMtdzZPeVpBEAE!2m1!1s0x88e5b57c1ff31f6d:0x729e69833742675d
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors often praise Yashi Sushi for its
+  fresh and generously sized sushi rolls, with many noting the delicious flavors
+  that make it a standout spot for Japanese eats. While the food consistently
+  hits the mark, some mentions of service variations remind us that experiences
+  can differ based on the day, yet the overall vibe keeps things enjoyable.
+  Folks appreciate the great portions and variety, making it a reliable pick for
+  groups or families looking for a casual meal. Despite occasional hiccups, the
+  positive vibes around the fresh ingredients and satisfying dishes encourage
+  repeat visits, helping it maintain a strong reputation among local sushi
+  places. If you're searching for sushi close to you, this spot offers a
+  generally uplifting experience worth trying out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -370,8 +408,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Easygoing shopping-center eatery serving Japanese classics like sushi,
   teriyaki & hibachi meals.
 

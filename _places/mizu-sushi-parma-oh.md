@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Mizu Sushi"
+title: Mizu Sushi
 permalink: /ohio/parma/mizu-sushi.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Parma
 seo:
-  name: "Mizu Sushi"
-  type: Restaurant
-  links: null
-description: "Mizu Sushi serves delicious sushi in Parma, Ohio. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.mizusushiparma168.com/
 place_id: ChIJQdvy1_LuMIgRZG--r0ZkLvc
 photos:
   - name: >-
@@ -170,8 +168,121 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8830eef2d7f2db41:0xf72e6446afbe6f64!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 16
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 15
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 15
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 15
+        minute: 0
+    - open:
+        day: 6
+        hour: 16
+        minute: 30
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 3:00 PM, 4:30 – 10:00 PM'
+    - 'Tuesday: 11:00 AM – 3:00 PM, 4:30 – 10:00 PM'
+    - 'Wednesday: 11:00 AM – 3:00 PM, 4:30 – 10:00 PM'
+    - 'Thursday: 11:00 AM – 3:00 PM, 4:30 – 10:00 PM'
+    - 'Friday: 11:00 AM – 3:00 PM, 4:30 – 11:00 PM'
+    - 'Saturday: 11:00 AM – 3:00 PM, 4:30 – 11:00 PM'
+    - 'Sunday: 4:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +290,44 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (216) 898-0098
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.7'
+rating_count: 1418
+website: https://www.mizusushiparma168.com/
+description: >-
+  Discover Mizu Sushi in Parma, OH$$$Mizu Sushi in Parma, OH, offers a
+  delightful array of sushi rolls and traditional Japanese dishes in a laid-back
+  setting, perfect for casual dining experiences. The restaurant stands out with
+  its welcoming atmosphere and features like accessible entrances and seating,
+  making it easy for everyone to enjoy a meal. Fresh ingredients shine through
+  in the menu's variety, including options for happy hour enthusiasts looking to
+  unwind. Operating with convenient hours that span lunch and dinner, it's an
+  ideal spot for those seeking quality Japanese cuisine without the fuss.
+generative_summary: >-
+  Discover Mizu Sushi in Parma, OH$$$Mizu Sushi in Parma, OH, offers a
+  delightful array of sushi rolls and traditional Japanese dishes in a laid-back
+  setting, perfect for casual dining experiences. The restaurant stands out with
+  its welcoming atmosphere and features like accessible entrances and seating,
+  making it easy for everyone to enjoy a meal. Fresh ingredients shine through
+  in the menu's variety, including options for happy hour enthusiasts looking to
+  unwind. Operating with convenient hours that span lunch and dinner, it's an
+  ideal spot for those seeking quality Japanese cuisine without the fuss.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Patrons Love About the Reviews$$$Visitors to this sushi spot often rave
+  about the fresh and diverse selection of rolls, with highlights on creative
+  options that keep things exciting and flavorful. Many appreciate the tasty
+  sides like fried rice and salads, noting how they complement the main dishes
+  for a well-rounded meal. The service stands out as friendly and attentive,
+  adding to the overall enjoyable vibe that makes dining here a go-to choice.
+  Prices are frequently mentioned as reasonable, offering great value for
+  authentic Japanese flavors that satisfy without breaking the bank. All in all,
+  it's clear that folks keep coming back for the reliable quality and welcoming
+  environment.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +353,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

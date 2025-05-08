@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yutaka Japanese Bistro"
+title: Yutaka Japanese Bistro
 permalink: /colorado/parker/yutaka-japanese-bistro.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Parker
 seo:
-  name: "Yutaka Japanese Bistro"
-  type: Restaurant
+  type: restaurant
   links: https://www.yutakaparker.com/
-description: "Yutaka Japanese Bistro serves delicious sushi in Parker, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJN7vKju6RbIcRfX-oHOJqwAk
 photos:
   - name: >-
@@ -143,7 +141,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC4k8j-eQ!2e10!4m2!3m1!1s0x876c91ee8ecabb37:0x9c06ae21ca87f7d
 address: 105 11411, 4945 S Twenty Mile Rd, Parker, CO 80134, USA
-street: 105 11411, 4945 S Twenty Mile Rd
+street: 105 11411,4945 S Twenty Mile Rd
 city: Parker
 state: CO
 zip: '80134'
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x876c91ee8ecabb37:0x9c06ae21ca87f7d!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:00 AM – 9:30 PM'
     - 'Wednesday: 11:00 AM – 9:30 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:00 PM'
     - 'Saturday: 11:00 AM – 10:00 PM'
     - 'Sunday: 12:00 – 9:30 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:00 AM – 9:30 PM'
-    - 'Wednesday: 11:00 AM – 9:30 PM'
-    - 'Thursday: 11:00 AM – 9:30 PM'
-    - 'Friday: 11:00 AM – 10:00 PM'
-    - 'Saturday: 11:00 AM – 10:00 PM'
-    - 'Sunday: 12:00 – 9:30 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +238,227 @@ phone: (303) 841-8831
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.2'
-rating_count: 0
+rating_count: 313
 website: https://www.yutakaparker.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Yutaka Japanese Bistro in Parker, CO$$$Nestled in Parker, CO, Yutaka
+  Japanese Bistro stands out as a cozy spot for enjoying authentic Japanese
+  flavors, featuring a wide array of sushi and classic dishes like tempura and
+  udon. This quiet eatery emphasizes fresh ingredients and a welcoming
+  atmosphere, making it ideal for casual meals or takeout options in a
+  convenient location. With accessibility features like wheelchair-friendly
+  parking and entrances, it's designed to accommodate all diners seeking a
+  relaxed dining experience. The menu highlights a variety of sushi options
+  alongside cocktails, appealing to those exploring top-rated Japanese places
+  nearby. Open for lunch and dinner several days a week, it offers a serene
+  escape for anyone craving quality sushi restaurants in the area.
+generative_summary: >-
+  Discover Yutaka Japanese Bistro in Parker, CO$$$Nestled in Parker, CO, Yutaka
+  Japanese Bistro stands out as a cozy spot for enjoying authentic Japanese
+  flavors, featuring a wide array of sushi and classic dishes like tempura and
+  udon. This quiet eatery emphasizes fresh ingredients and a welcoming
+  atmosphere, making it ideal for casual meals or takeout options in a
+  convenient location. With accessibility features like wheelchair-friendly
+  parking and entrances, it's designed to accommodate all diners seeking a
+  relaxed dining experience. The menu highlights a variety of sushi options
+  alongside cocktails, appealing to those exploring top-rated Japanese places
+  nearby. Open for lunch and dinner several days a week, it offers a serene
+  escape for anyone craving quality sushi restaurants in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJN7vKju6RbIcRfX-oHOJqwAk/reviews/ChZDSUhNMG9nS0VJQ0FnSUQzbU9DX1FnEAE
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        One of our favorite sushi spots in Parker.  We like the warm atmosphere
+        when dining in, but also frequently order delivery or take away.  (We
+        like to take away to The Wine Barrel just down the street).
+
+
+        The fish always smells and tastes fresh and we like the variety of rolls
+        they offer.
+      languageCode: en
+    originalText:
+      text: >-
+        One of our favorite sushi spots in Parker.  We like the warm atmosphere
+        when dining in, but also frequently order delivery or take away.  (We
+        like to take away to The Wine Barrel just down the street).
+
+
+        The fish always smells and tastes fresh and we like the variety of rolls
+        they offer.
+      languageCode: en
+    authorAttribution:
+      displayName: JL Mellott
+      uri: https://www.google.com/maps/contrib/103327753663887898935/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVabhtQgV1GgRglKNOp29Tt0YAE-VN2ewB5JrSFMUkPC38J1H8=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-11-11T21:26:45.912736Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQzbU9DX1FnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQzbU9DX1FnEAE!2m1!1s0x876c91ee8ecabb37:0x9c06ae21ca87f7d
+  - name: >-
+      places/ChIJN7vKju6RbIcRfX-oHOJqwAk/reviews/ChZDSUhNMG9nS0VJQ0FnTURvaktQMFRBEAE
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        My dad and I literally eat lunch here every week. It's our sure thing
+        sushi place because every thing I've gotten has been amazing. And the
+        lady who serves us is super nice. It's always quiet when we go for
+        lunch. I love it
+      languageCode: en
+    originalText:
+      text: >-
+        My dad and I literally eat lunch here every week. It's our sure thing
+        sushi place because every thing I've gotten has been amazing. And the
+        lady who serves us is super nice. It's always quiet when we go for
+        lunch. I love it
+      languageCode: en
+    authorAttribution:
+      displayName: Jackie Norris
+      uri: https://www.google.com/maps/contrib/113091848388171285231/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWdnAlpECgoX6khqUnfs_C6LEybZLwkkbXfD5PYw9K9B7zMuxs=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-22T12:20:00.809643Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURvaktQMFRBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURvaktQMFRBEAE!2m1!1s0x876c91ee8ecabb37:0x9c06ae21ca87f7d
+  - name: >-
+      places/ChIJN7vKju6RbIcRfX-oHOJqwAk/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3OU1QUVZBEAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        We are regulars here and see ourselves as sushi snobs.  We love this
+        place more than so many more well known places.  The quality is amazing,
+        it has never disappointed.  The owners are a really wonderful family.  I
+        am torn leaving this, because I want them to do well, but also want to
+        keep it to ourselves.
+      languageCode: en
+    originalText:
+      text: >-
+        We are regulars here and see ourselves as sushi snobs.  We love this
+        place more than so many more well known places.  The quality is amazing,
+        it has never disappointed.  The owners are a really wonderful family.  I
+        am torn leaving this, because I want them to do well, but also want to
+        keep it to ourselves.
+      languageCode: en
+    authorAttribution:
+      displayName: Amy Worden
+      uri: https://www.google.com/maps/contrib/105400957082058750846/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUXC0pUuhZ6K-SG5fY2XIL7OQPnVIkdUSbdHFGoYN4iWKmz3S4p=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-24T02:13:54.014755Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUR3OU1QUVZBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUR3OU1QUVZBEAE!2m1!1s0x876c91ee8ecabb37:0x9c06ae21ca87f7d
+  - name: >-
+      places/ChIJN7vKju6RbIcRfX-oHOJqwAk/reviews/ChZDSUhNMG9nS0VJQ0FnTURJanNMU2NnEAE
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 5
+    text:
+      text: >-
+        Yummy!!  Was my first time here and I am happy I found this place!  My
+        sushi lunch special was delicious, affordable and perfectly portioned. 
+        All their lunch specials look great and I am already thinking about what
+        I will try next!  Definitely going in my regular lunch rotation - thank
+        you Yutaka!
+      languageCode: en
+    originalText:
+      text: >-
+        Yummy!!  Was my first time here and I am happy I found this place!  My
+        sushi lunch special was delicious, affordable and perfectly portioned. 
+        All their lunch specials look great and I am already thinking about what
+        I will try next!  Definitely going in my regular lunch rotation - thank
+        you Yutaka!
+      languageCode: en
+    authorAttribution:
+      displayName: Pamela Winders
+      uri: https://www.google.com/maps/contrib/111913887733234458434/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXCJObpbGiHlbhG2EDnx67teJoP6IL8nV1IWLb0MuGvlNdhlEQ=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-09T19:17:55.860819Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURJanNMU2NnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJanNMU2NnEAE!2m1!1s0x876c91ee8ecabb37:0x9c06ae21ca87f7d
+  - name: >-
+      places/ChIJN7vKju6RbIcRfX-oHOJqwAk/reviews/ChdDSUhNMG9nS0VJQ0FnSURQNW9uenN3RRAB
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        Phenomenal spicy tonkotsu ramen! The sushi was fresh and everything was
+        as you’d want it. This place is a great find.
+      languageCode: en
+    originalText:
+      text: >-
+        Phenomenal spicy tonkotsu ramen! The sushi was fresh and everything was
+        as you’d want it. This place is a great find.
+      languageCode: en
+    authorAttribution:
+      displayName: Ryan F
+      uri: https://www.google.com/maps/contrib/107464333648430831359/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUp2dQyn_YSr6dQkVlEY3Dlo4QmZC7Mxd4L14xRfHapA3L5gkPwbw=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-12-01T20:57:06.813880Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURQNW9uenN3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURQNW9uenN3RRAB!2m1!1s0x876c91ee8ecabb37:0x9c06ae21ca87f7d
+review_summary: >-
+  What Customers Are Saying About the Food$$$Folks frequently highlight the
+  fresh and flavorful sushi at this spot, noting how it consistently delivers on
+  taste and variety without disappointing. Many appreciate the affordable lunch
+  specials and generous portions that make it a go-to for regular visits, with a
+  calm setting that enhances the overall enjoyment. Visitors often mention the
+  reliable quality of the dishes, from creative rolls to satisfying ramen,
+  making it a solid choice for those seeking dependable Japanese fare. Overall,
+  the feedback leans positive, with people enjoying the welcoming service and
+  atmosphere that keeps them coming back for more. If you're hunting for great
+  sushi nearby, this place seems to hit the mark with its consistent appeal and
+  tasty offerings.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
 menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Sleek Japanese eatery for standards like tempura & udon plus a broad sushi
+  selection & cocktails.
 
 ---

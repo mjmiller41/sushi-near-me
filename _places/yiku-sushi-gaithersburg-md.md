@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yiku Sushi"
+title: Yiku Sushi
 permalink: /maryland/gaithersburg/yiku-sushi.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Gaithersburg
 seo:
-  name: "Yiku Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://yiku818.com/
-description: "Food is available to order online for fast delivery at this neighborhood Japanese restaurant. Yiku Sushi serves delicious sushi in Gaithersburg, Maryland. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJI4JnZdgttokRqiNk9UDbFR8
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 0
 website: https://yiku818.com/
+description: >-
+  About Yiku Sushi in Gaithersburg, MD$$$Yiku Sushi in Gaithersburg, MD, stands
+  out as a welcoming sushi restaurant offering a range of fresh Japanese dishes
+  in a casual setting. This spot excels with its variety of flavorful sushi
+  rolls and other traditional fare, making it a go-to choice for those seeking
+  authentic tastes conveniently close by. Accessibility features like
+  wheelchair-friendly entrances and parking enhance the experience for all
+  visitors, while options for delivery add to its everyday appeal. The
+  restaurant's atmosphere combines relaxed vibes with options for dine-in or
+  takeout, perfect for quick meals or relaxed gatherings. Whether you're
+  exploring sushi places near you or looking for reliable Japanese options, this
+  location delivers on quality and convenience.
+generative_summary: >-
+  About Yiku Sushi in Gaithersburg, MD$$$Yiku Sushi in Gaithersburg, MD, stands
+  out as a welcoming sushi restaurant offering a range of fresh Japanese dishes
+  in a casual setting. This spot excels with its variety of flavorful sushi
+  rolls and other traditional fare, making it a go-to choice for those seeking
+  authentic tastes conveniently close by. Accessibility features like
+  wheelchair-friendly entrances and parking enhance the experience for all
+  visitors, while options for delivery add to its everyday appeal. The
+  restaurant's atmosphere combines relaxed vibes with options for dine-in or
+  takeout, perfect for quick meals or relaxed gatherings. Whether you're
+  exploring sushi places near you or looking for reliable Japanese options, this
+  location delivers on quality and convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJI4JnZdgttokRqiNk9UDbFR8/reviews/ChZDSUhNMG9nS0VJQ0FnTURndWMzREJ3EAE
@@ -384,6 +407,17 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURtMHE3THFRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURtMHE3THFRRRAB!2m1!1s0x89b62dd865678223:0x1f15db40f56423aa
+review_summary: >-
+  Customer Feedback on Yiku Sushi$$$Folks rave about the fresh ingredients and
+  generously sized rolls that make every bite feel satisfying and worthwhile at
+  this spot. Many appreciate the friendly service and welcoming atmosphere,
+  noting it's ideal for casual family outings or group get-togethers without
+  breaking the bank. While some mention that service has improved over time, the
+  overall vibe keeps things light and enjoyable for repeat visits. Prices are
+  seen as reasonable, with extras like free items adding a nice surprise to the
+  experience. All in all, it's a solid pick for anyone hunting for top-rated
+  sushi nearby, leaving diners eager to come back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -416,8 +450,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Food is available to order online for fast delivery at this neighborhood
   Japanese restaurant.
 

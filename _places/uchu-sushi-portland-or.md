@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "UCHU Sushi"
+title: UCHU Sushi
 permalink: /oregon/portland/uchu-sushi.html
 stateAbbr: OR
 stateName: Oregon
 cityName: Portland
 seo:
-  name: "UCHU Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://uchusushi.com/
-description: "UCHU Sushi serves delicious sushi in Portland, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJrwNJUGqnlVQRx28O7kUy4Ec
 photos:
   - name: >-
@@ -169,7 +167,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x5495a76a504903af:0x47e03245ee0e6fc7!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 12
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 12
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 12
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 12
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 12
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 12:00 – 9:00 PM'
     - 'Tuesday: 12:00 – 9:00 PM'
     - 'Wednesday: 12:00 – 9:00 PM'
@@ -177,54 +233,328 @@ opening_hours:
     - 'Friday: 12:00 – 10:00 PM'
     - 'Saturday: 12:00 – 10:00 PM'
     - 'Sunday: 12:00 – 9:00 PM'
-  current:
-    - 'Monday: 12:00 – 9:00 PM'
-    - 'Tuesday: 12:00 – 9:00 PM'
-    - 'Wednesday: 12:00 – 9:00 PM'
-    - 'Thursday: 12:00 – 9:00 PM'
-    - 'Friday: 12:00 – 10:00 PM'
-    - 'Saturday: 12:00 – 10:00 PM'
-    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T05:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 0
+        close:
+          day: 0
+          hour: 20
+          minute: 30
+      - open:
+          day: 1
+          hour: 12
+          minute: 0
+        close:
+          day: 1
+          hour: 20
+          minute: 30
+      - open:
+          day: 2
+          hour: 12
+          minute: 0
+        close:
+          day: 2
+          hour: 20
+          minute: 30
+      - open:
+          day: 3
+          hour: 12
+          minute: 0
+        close:
+          day: 3
+          hour: 20
+          minute: 30
+      - open:
+          day: 4
+          hour: 12
+          minute: 0
+        close:
+          day: 4
+          hour: 20
+          minute: 30
+      - open:
+          day: 5
+          hour: 12
+          minute: 0
+        close:
+          day: 5
+          hour: 21
+          minute: 30
+      - open:
+          day: 6
+          hour: 12
+          minute: 0
+        close:
+          day: 6
+          hour: 21
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 12:00 – 8:30 PM'
+      - 'Tuesday: 12:00 – 8:30 PM'
+      - 'Wednesday: 12:00 – 8:30 PM'
+      - 'Thursday: 12:00 – 8:30 PM'
+      - 'Friday: 12:00 – 9:30 PM'
+      - 'Saturday: 12:00 – 9:30 PM'
+      - 'Sunday: 12:00 – 8:30 PM'
+    secondaryHoursType: TAKEOUT
+    nextCloseTime: '2025-05-04T04:30:00Z'
 phone: (503) 281-8248
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.4'
-rating_count: 0
+rating_count: 986
 website: http://uchusushi.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Explore UCHU Sushi in Portland, OR$$$UCHU Sushi in Portland, OR, stands out as
+  a trendy Japanese dining spot known for its vibrant atmosphere and fresh sushi
+  offerings that attract locals and visitors alike. The restaurant features a
+  unique two-level layout with large fish tanks that create an immersive and
+  visually captivating environment, making it a go-to choice for those seeking
+  sushi restaurants near me. Diners can enjoy a diverse menu highlighting
+  creative rolls, flavorful fried chicken, and handcrafted cocktails, all served
+  in a lively setting that's perfect for casual meals or special occasions.
+  Accessibility is a key feature, with options like wheelchair-friendly
+  entrances and seating ensuring everyone can experience the space comfortably.
+  Whether you're in the mood for top-rated sushi or exploring Japanese places
+  near me, this spot combines quality ingredients with an engaging ambiance for
+  a memorable visit.
+generative_summary: >-
+  Explore UCHU Sushi in Portland, OR$$$UCHU Sushi in Portland, OR, stands out as
+  a trendy Japanese dining spot known for its vibrant atmosphere and fresh sushi
+  offerings that attract locals and visitors alike. The restaurant features a
+  unique two-level layout with large fish tanks that create an immersive and
+  visually captivating environment, making it a go-to choice for those seeking
+  sushi restaurants near me. Diners can enjoy a diverse menu highlighting
+  creative rolls, flavorful fried chicken, and handcrafted cocktails, all served
+  in a lively setting that's perfect for casual meals or special occasions.
+  Accessibility is a key feature, with options like wheelchair-friendly
+  entrances and seating ensuring everyone can experience the space comfortably.
+  Whether you're in the mood for top-rated sushi or exploring Japanese places
+  near me, this spot combines quality ingredients with an engaging ambiance for
+  a memorable visit.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJrwNJUGqnlVQRx28O7kUy4Ec/reviews/ChZDSUhNMG9nS0VJQ0FnTURvLXF5RlR3EAE
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        The sushi was amazing. I got three rolls all about $10 each. They have
+        lots of options for other dishes as well as vegetarian options for
+        rolls. I loved the saltwater aquarium. The atmosphere was lively. I did
+        have a bit of a wait on my food, but it was super busy. The waitress
+        apologized twice. If I'm in the area again I'll definitely be back!
+      languageCode: en
+    originalText:
+      text: >-
+        The sushi was amazing. I got three rolls all about $10 each. They have
+        lots of options for other dishes as well as vegetarian options for
+        rolls. I loved the saltwater aquarium. The atmosphere was lively. I did
+        have a bit of a wait on my food, but it was super busy. The waitress
+        apologized twice. If I'm in the area again I'll definitely be back!
+      languageCode: en
+    authorAttribution:
+      displayName: Elizabeth Higgins
+      uri: https://www.google.com/maps/contrib/105542077484954871251/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUbULoMTIvywst2C5nDPmR6hNmLq4Xxtam0PcmPYp2ufVwMwbU=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-04-24T04:40:11.790279Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURvLXF5RlR3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURvLXF5RlR3EAE!2m1!1s0x5495a76a504903af:0x47e03245ee0e6fc7
+  - name: >-
+      places/ChIJrwNJUGqnlVQRx28O7kUy4Ec/reviews/ChZDSUhNMG9nS0VJQ0FnTUNnbXFiRFFBEAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        The inside is beautiful! The giant saltwater tank really catches your
+        attention. Arrived at 5pm on Saturday and it was not busy but very
+        quickly picked up. Service was fast and friendly, Korin is absolutely
+        incredible!
+
+        Plenty of vegan options! The Dynamite roll was delicious. The Chicken
+        Teriyaki Entree is worth the price. It comes with miso soup,
+        salad(dressing is delicious), rice, and 3 gyoza.
+
+        Overall, it was wonderful experience and I'd go back.
+      languageCode: en
+    originalText:
+      text: >-
+        The inside is beautiful! The giant saltwater tank really catches your
+        attention. Arrived at 5pm on Saturday and it was not busy but very
+        quickly picked up. Service was fast and friendly, Korin is absolutely
+        incredible!
+
+        Plenty of vegan options! The Dynamite roll was delicious. The Chicken
+        Teriyaki Entree is worth the price. It comes with miso soup,
+        salad(dressing is delicious), rice, and 3 gyoza.
+
+        Overall, it was wonderful experience and I'd go back.
+      languageCode: en
+    authorAttribution:
+      displayName: Amanda
+      uri: https://www.google.com/maps/contrib/114562990851663019902/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXM8zHnzWdinvCo_rNkkQ3GQzxyqyd2G1y94FbMgoS8Yh-qlDY3vA=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-02-18T01:45:18.119703Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNnbXFiRFFBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNnbXFiRFFBEAE!2m1!1s0x5495a76a504903af:0x47e03245ee0e6fc7
+  - name: >-
+      places/ChIJrwNJUGqnlVQRx28O7kUy4Ec/reviews/ChdDSUhNMG9nS0VJQ0FnSURmNDRMajdRRRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 3
+    text:
+      text: >-
+        Here's another Portland "sushi" restaurant..
+
+
+        Food quality...not "terrible" but something definitely tasted off.
+
+
+        If you're trying to impress a date, bring them here. The atmosphere is
+        very hip, clean and cool.
+
+
+        If your aim is quality sushi, look elsewhere
+      languageCode: en
+    originalText:
+      text: >-
+        Here's another Portland "sushi" restaurant..
+
+
+        Food quality...not "terrible" but something definitely tasted off.
+
+
+        If you're trying to impress a date, bring them here. The atmosphere is
+        very hip, clean and cool.
+
+
+        If your aim is quality sushi, look elsewhere
+      languageCode: en
+    authorAttribution:
+      displayName: Frankie Palmeri
+      uri: https://www.google.com/maps/contrib/112664085385746319624/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXDOe3zVnTN-ZJEy0sa9-Qpez9nD1-xPuwNOj1CEPSekJxjBmlE=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-01-09T23:31:32.221258Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURmNDRMajdRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURmNDRMajdRRRAB!2m1!1s0x5495a76a504903af:0x47e03245ee0e6fc7
+  - name: >-
+      places/ChIJrwNJUGqnlVQRx28O7kUy4Ec/reviews/ChdDSUhNMG9nS0VJQ0FnSUNIekpDV3FBRRAB
+    relativePublishTimeDescription: 8 months ago
+    rating: 5
+    text:
+      text: >-
+        Was a wonderful meal. Speedy service from kind people and absolutely
+        phenomenal food. Got to sit in front of the fish tank and we were very
+        entertained by the fish. We went in for Happy Hour. $35 for a couple
+        rolls, couple appetizers, on top of a tip is very reasonably priced.
+        Love UCHU and would highly recommend! 🤗
+      languageCode: en
+    originalText:
+      text: >-
+        Was a wonderful meal. Speedy service from kind people and absolutely
+        phenomenal food. Got to sit in front of the fish tank and we were very
+        entertained by the fish. We went in for Happy Hour. $35 for a couple
+        rolls, couple appetizers, on top of a tip is very reasonably priced.
+        Love UCHU and would highly recommend! 🤗
+      languageCode: en
+    authorAttribution:
+      displayName: Candace Rowland
+      uri: https://www.google.com/maps/contrib/105885073482917352619/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXywFndKT8qVnXVLri_gE56EsXtTdxtuUfvBdrK4Dju00REX31TsA=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-09-02T00:10:11.999396Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNIekpDV3FBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNIekpDV3FBRRAB!2m1!1s0x5495a76a504903af:0x47e03245ee0e6fc7
+  - name: >-
+      places/ChIJrwNJUGqnlVQRx28O7kUy4Ec/reviews/ChZDSUhNMG9nS0VJQ0FnTURJd092M1lnEAE
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 5
+    text:
+      text: >-
+        Highly recommend the salmon skin roll. The sashimi platter comes with
+        verrry generously sized pieces. It's a great deal. Add the hot sake and
+        it's a great time. Amazing service and friendly staff.
+      languageCode: en
+    originalText:
+      text: >-
+        Highly recommend the salmon skin roll. The sashimi platter comes with
+        verrry generously sized pieces. It's a great deal. Add the hot sake and
+        it's a great time. Amazing service and friendly staff.
+      languageCode: en
+    authorAttribution:
+      displayName: Dianne Namgung
+      uri: https://www.google.com/maps/contrib/101314823567731379299/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjV7tTHnetkLt-WEcb3c1TFuc5wHwrdc4bgcD88mu2Y50_YvkTfz=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-06T04:11:11.439284Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURJd092M1lnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJd092M1lnEAE!2m1!1s0x5495a76a504903af:0x47e03245ee0e6fc7
+review_summary: >-
+  Customer Feedback Highlights$$$Folks generally rave about the fresh and
+  affordable sushi rolls at this spot, with many mentioning the generous
+  portions and tasty vegetarian options that make it a solid pick for a variety
+  of tastes. The lively atmosphere, especially the eye-catching fish tanks, adds
+  a fun vibe that enhances the overall dining experience, though one comment
+  noted that the food didn't quite hit the mark for them. Service tends to be
+  quick and friendly, helping to create a welcoming environment even when things
+  get busy, and happy hour deals come up as a great value for couples or groups.
+  Overall, it's clear that most visitors leave satisfied, appreciating the
+  balance of quality and price that keeps people coming back for more. If you're
+  hunting for sushi close to me, this place often delivers a positive outing
+  worth checking out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Trendy 2-level Japanese bar with large fish tanks & menu featuring sushi,
+  fried chicken & cocktails.
 
 ---

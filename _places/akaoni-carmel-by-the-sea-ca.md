@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Akaoni"
+title: Akaoni
 permalink: /california/carmel-by-the-sea/akaoni.html
 stateAbbr: CA
 stateName: California
 cityName: Carmel-By-The-Sea
 seo:
-  name: "Akaoni"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Akaoni serves delicious sushi in Carmel-By-The-Sea, California. Try fresh Japanese dishes for a great dining experience. Available for, lunch, and dinner."
 place_id: ChIJXVDj0BTmjYARSKBot4I8_Xc
 photos:
   - name: >-
@@ -182,6 +180,33 @@ price_range: $50 &ndash; $100
 rating: '4.1'
 rating_count: 0
 website: null
+description: >-
+  Discover Akaoni in Carmel-By-The-Sea, CA$$$Akaoni in Carmel-By-The-Sea, CA,
+  offers a peaceful retreat for savoring fresh sushi and authentic Japanese
+  dishes in a reserved, intimate setting. This spot focuses on high-quality
+  ingredients and traditional preparation, creating a simple yet refined dining
+  experience that highlights the best of Japanese cuisine. With its quiet
+  atmosphere and reservation-only policy, it's perfect for those seeking top
+  sushi options near the coast, where every plate emphasizes fresh flavors and
+  careful craftsmanship. The venue also includes accessible features like
+  wheelchair-friendly restrooms, adding to its appeal for a comfortable visit.
+  Whether you're exploring sushi places near me or looking for a serene meal,
+  Akaoni delivers an authentic taste of Japan in a welcoming coastal
+  environment.
+generative_summary: >-
+  Discover Akaoni in Carmel-By-The-Sea, CA$$$Akaoni in Carmel-By-The-Sea, CA,
+  offers a peaceful retreat for savoring fresh sushi and authentic Japanese
+  dishes in a reserved, intimate setting. This spot focuses on high-quality
+  ingredients and traditional preparation, creating a simple yet refined dining
+  experience that highlights the best of Japanese cuisine. With its quiet
+  atmosphere and reservation-only policy, it's perfect for those seeking top
+  sushi options near the coast, where every plate emphasizes fresh flavors and
+  careful craftsmanship. The venue also includes accessible features like
+  wheelchair-friendly restrooms, adding to its appeal for a comfortable visit.
+  Whether you're exploring sushi places near me or looking for a serene meal,
+  Akaoni delivers an authentic taste of Japan in a welcoming coastal
+  environment.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJXVDj0BTmjYARSKBot4I8_Xc/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3el8yUy13RRAB
@@ -493,6 +518,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNEMW9tRUZREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNEMW9tRUZREAE!2m1!1s0x808de614d0e3505d:0x77fd3c82b768a048
+review_summary: >-
+  What Guests Are Saying About Akaoni$$$Visitors often praise the fresh and
+  flavorful sushi at Akaoni, noting how the fish delivers a melt-in-your-mouth
+  quality that makes every bite memorable. Many appreciate the cozy,
+  unpretentious vibe, which provides a nice contrast to busier spots and feels
+  like a hidden gem in the area. Folks highlight the great value of dishes like
+  sashimi and toro, mentioning that any brief wait is totally worth it for the
+  authentic taste and careful preparation. The service comes across as attentive
+  and efficient, contributing to a relaxed overall experience that keeps people
+  coming back. If you're on the hunt for the best sushi near me, this place
+  consistently earns high marks for its delicious offerings and genuine charm.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options:
   acceptsCreditCards: true
@@ -522,7 +559,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: false
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

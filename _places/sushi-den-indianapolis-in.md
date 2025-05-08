@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Den"
+title: Sushi Den
 permalink: /indiana/indianapolis/sushi-den.html
 stateAbbr: IN
 stateName: Indiana
 cityName: Indianapolis
 seo:
-  name: "Sushi Den"
-  type: Restaurant
+  type: restaurant
   links: http://sushidenindy.com/
-description: "Sushi Den serves delicious sushi in Indianapolis, Indiana. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJnSMbRQBRa4gRBvOeKc8CDlo
 photos:
   - name: >-
@@ -184,6 +182,33 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 0
 website: http://sushidenindy.com/
+description: >-
+  Discover Sushi Den in Indianapolis, IN$$$Sushi Den in Indianapolis, IN, stands
+  out as a welcoming Japanese restaurant that combines a traditional atmosphere
+  with an array of fresh sushi and classic dishes, making it a go-to option for
+  sushi enthusiasts in the area. The spot emphasizes high-quality ingredients
+  and accessibility features like wheelchair-friendly parking and seating,
+  ensuring a comfortable visit for all. With its moderate pricing and variety of
+  options, it's ideal for those seeking authentic flavors without breaking the
+  bank, drawing in locals and visitors alike. The menu highlights expertly
+  prepared rolls and sashimi, contributing to a dining experience that feels
+  both refined and approachable. This sushi restaurant near you offers a blend
+  of elegance and everyday appeal, perfect for anyone exploring top Japanese
+  places in the city.
+generative_summary: >-
+  Discover Sushi Den in Indianapolis, IN$$$Sushi Den in Indianapolis, IN, stands
+  out as a welcoming Japanese restaurant that combines a traditional atmosphere
+  with an array of fresh sushi and classic dishes, making it a go-to option for
+  sushi enthusiasts in the area. The spot emphasizes high-quality ingredients
+  and accessibility features like wheelchair-friendly parking and seating,
+  ensuring a comfortable visit for all. With its moderate pricing and variety of
+  options, it's ideal for those seeking authentic flavors without breaking the
+  bank, drawing in locals and visitors alike. The menu highlights expertly
+  prepared rolls and sashimi, contributing to a dining experience that feels
+  both refined and approachable. This sushi restaurant near you offers a blend
+  of elegance and everyday appeal, perfect for anyone exploring top Japanese
+  places in the city.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJnSMbRQBRa4gRBvOeKc8CDlo/reviews/ChdDSUhNMG9nS0VJQ0FnTUNBaDViYjV3RRAB
@@ -391,6 +416,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURULWRPV3JnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURULWRPV3JnRRAB!2m1!1s0x886b5100451b239d:0x5a0e02cf299ef306
+review_summary: >-
+  What Guests Are Buzzing About$$$Folks can't stop raving about the fresh and
+  flavorful sushi at this spot, with many highlighting the creative rolls and
+  sashimi that deliver a satisfying punch of taste without overcomplicating
+  things. The service stands out as friendly and attentive, helping to create a
+  relaxed vibe that makes every meal feel special and hassle-free. Reviewers
+  often mention the great value for the quality, noting that the portions are
+  generous and the prices fit right into a casual night out. Overall, it's
+  earned high marks as a reliable choice for Japanese cuisine, with diners
+  appreciating the cozy atmosphere that enhances the whole experience. If you're
+  on the hunt for solid sushi restaurants nearby, this place consistently
+  delivers a positive and memorable vibe that's worth checking out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidStreetParking: true
   valetParking: false
@@ -423,7 +461,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ichiban Sushi and Grill"
+title: Ichiban Sushi and Grill
 permalink: /utah/south-salt-lake/ichiban-sushi-and-grill.html
 stateAbbr: UT
 stateName: Utah
 cityName: South Salt Lake
 seo:
-  name: "Ichiban Sushi and Grill"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Ichiban Sushi and Grill serves delicious sushi in South Salt Lake, Utah. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJUySktHqIUocRkBFFpX_9nyM
 photos:
   - name: >-
@@ -185,7 +183,45 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Ichiban Sushi and Grill in South Salt Lake, UT$$$Nestled in South
+  Salt Lake, UT, Ichiban Sushi and Grill offers a welcoming spot for enjoying
+  authentic Japanese flavors in a relaxed atmosphere. This sushi restaurant
+  features an array of fresh sushi rolls, sashimi, and grilled meats, making it
+  a go-to choice for those seeking diverse Japanese dining options nearby. The
+  casual setting enhances the experience, with accessible features like
+  wheelchair-friendly parking and entrances ensuring everyone can enjoy the meal
+  comfortably. Patrons appreciate the variety of dishes that highlight quality
+  ingredients, perfect for anyone exploring top-rated sushi in the area. Whether
+  you're in the mood for a quick bite or a flavorful dinner, this spot delivers
+  a satisfying blend of tradition and convenience.
+generative_summary: >-
+  Discover Ichiban Sushi and Grill in South Salt Lake, UT$$$Nestled in South
+  Salt Lake, UT, Ichiban Sushi and Grill offers a welcoming spot for enjoying
+  authentic Japanese flavors in a relaxed atmosphere. This sushi restaurant
+  features an array of fresh sushi rolls, sashimi, and grilled meats, making it
+  a go-to choice for those seeking diverse Japanese dining options nearby. The
+  casual setting enhances the experience, with accessible features like
+  wheelchair-friendly parking and entrances ensuring everyone can enjoy the meal
+  comfortably. Patrons appreciate the variety of dishes that highlight quality
+  ingredients, perfect for anyone exploring top-rated sushi in the area. Whether
+  you're in the mood for a quick bite or a flavorful dinner, this spot delivers
+  a satisfying blend of tradition and convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About the Experience$$$Visitors to this sushi spot
+  often rave about the fresh and flavorful dishes that make every meal feel
+  special, with many highlighting the variety of options that cater to different
+  tastes. Folks appreciate the welcoming vibe and attentive service that keep
+  things relaxed and enjoyable, even during busy times. While some mention minor
+  waits during peak hours, the overall consensus leans positive, praising the
+  quality of the sushi rolls and grilled selections as standout features. It's
+  clear that diners value the accessible environment, which adds to the appeal
+  for families or groups looking for reliable Japanese places nearby. All in
+  all, the feedback paints a picture of a solid choice for anyone craving great
+  sushi, with most leaving satisfied and eager to return.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +247,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

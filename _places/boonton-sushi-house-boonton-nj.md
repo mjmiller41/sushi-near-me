@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Boonton Sushi House"
+title: Boonton Sushi House
 permalink: /new-jersey/boonton/boonton-sushi-house.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Boonton
 seo:
-  name: "Boonton Sushi House"
-  type: Restaurant
+  type: restaurant
   links: http://www.sushiboonton.com/
-description: "Boonton Sushi House serves delicious sushi in Boonton, New Jersey. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJUf48n5wIw4kR-KBK3i1NzXE
 photos:
   - name: >-
@@ -184,6 +182,33 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 0
 website: http://www.sushiboonton.com/
+description: >-
+  About Boonton Sushi House in Boonton, NJ$$$Boonton Sushi House in Boonton, New
+  Jersey, stands out as a cozy spot for enjoying fresh sushi and Japanese
+  cuisine, blending quality ingredients with an informal atmosphere that
+  welcomes casual diners. This venue features a BYOB policy, allowing guests to
+  enhance their meal with their own beverages while savoring expertly prepared
+  rolls and dishes made from daily-changing, high-quality fish. Accessibility is
+  a key highlight, with wheelchair-friendly entrances, seating, and restrooms
+  making it easy for everyone to enjoy top-rated sushi options near you. The
+  menu caters to a variety of tastes, including vegetarian choices and specials
+  that keep things exciting for repeat visits. Overall, it's a go-to destination
+  for those seeking authentic Japanese fare in a relaxed, neighborhood setting
+  close to local attractions.
+generative_summary: >-
+  About Boonton Sushi House in Boonton, NJ$$$Boonton Sushi House in Boonton, New
+  Jersey, stands out as a cozy spot for enjoying fresh sushi and Japanese
+  cuisine, blending quality ingredients with an informal atmosphere that
+  welcomes casual diners. This venue features a BYOB policy, allowing guests to
+  enhance their meal with their own beverages while savoring expertly prepared
+  rolls and dishes made from daily-changing, high-quality fish. Accessibility is
+  a key highlight, with wheelchair-friendly entrances, seating, and restrooms
+  making it easy for everyone to enjoy top-rated sushi options near you. The
+  menu caters to a variety of tastes, including vegetarian choices and specials
+  that keep things exciting for repeat visits. Overall, it's a go-to destination
+  for those seeking authentic Japanese fare in a relaxed, neighborhood setting
+  close to local attractions.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJUf48n5wIw4kR-KBK3i1NzXE/reviews/ChZDSUhNMG9nS0VJQ0FnSUM3emVpQVJnEAE
@@ -431,6 +456,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURyN3ZxZEFnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURyN3ZxZEFnEAE!2m1!1s0x89c3089c9f3cfe51:0x71cd4d2dde4aa0f8
+review_summary: >-
+  What Customers Are Buzzing About$$$Visitors to this sushi spot often rave
+  about the incredibly fresh fish and perfectly cooked rice, making it a
+  favorite for anyone craving reliable Japanese dishes in a convenient location.
+  Many appreciate the generous portions and creative rolls that deliver great
+  value without breaking the bank, turning it into a regular stop for locals and
+  passersby alike. While the overall experience shines with praise for the
+  authentic flavors and welcoming vibe, a few mentions point to occasional
+  inconsistencies in service that could use some smoothing out. Still, the
+  consensus leans positive, with folks highlighting it as a solid choice for
+  groups or families looking for tasty, accessible meals. If you're exploring
+  sushi restaurants near me, this place earns high marks for its consistent
+  quality and community appeal, encouraging an honest yet upbeat visit.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeStreetParking: true
   paidStreetParking: true
@@ -462,7 +501,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

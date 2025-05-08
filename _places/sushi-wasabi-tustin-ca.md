@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Wasabi"
+title: Sushi Wasabi
 permalink: /california/tustin/sushi-wasabi.html
 stateAbbr: CA
 stateName: California
 cityName: Tustin
 seo:
-  name: "Sushi Wasabi"
-  type: Restaurant
-  links: null
-description: "Sushi Wasabi serves delicious sushi in Tustin, California. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.facebook.com/SushiWasabi.Tustin.OC/
 place_id: ChIJBab9wOPb3IARqCE0Y2YgBhg
 photos:
   - name: >-
@@ -170,8 +168,97 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80dcdbe3c0fda605:0x18062066633421a8!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: false
+  periods:
+    - open:
+        day: 2
+        hour: 12
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 17
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 12
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 17
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 12
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 12
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 17
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 14
+        minute: 30
+    - open:
+        day: 6
+        hour: 17
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: Closed'
+    - 'Tuesday: 12:00 – 2:30 PM, 5:30 – 9:00 PM'
+    - 'Wednesday: 12:00 – 2:30 PM, 5:30 – 9:00 PM'
+    - 'Thursday: 12:00 – 2:30 PM, 5:30 – 9:00 PM'
+    - 'Friday: 12:00 – 2:30 PM, 5:30 – 9:00 PM'
+    - 'Saturday: 12:00 – 2:30 PM, 5:30 – 9:00 PM'
+    - 'Sunday: Closed'
+  nextOpenTime: '2025-05-04T00:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +266,53 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (714) 505-3496
+price_level: PRICE_LEVEL_MODERATE
+price_range: $50 &ndash; $100
+rating: '4.4'
+rating_count: 92
+website: http://www.facebook.com/SushiWasabi.Tustin.OC/
+description: >-
+  Experience Sushi Wasabi in Tustin, CA$$$Sushi Wasabi in Tustin, CA, stands out
+  as a cozy spot for enjoying fresh sushi and authentic Japanese flavors, making
+  it a go-to choice for those seeking quality dining options nearby. This eatery
+  features a welcoming atmosphere where you can savor a variety of expertly
+  prepared rolls, sashimi, and traditional dishes, complemented by a selection
+  of sake and beer to enhance your meal. Accessibility is a key highlight, with
+  options like wheelchair-friendly parking and entrances that ensure everyone
+  can enjoy the experience comfortably. The menu emphasizes fresh ingredients
+  and thoughtful presentations, appealing to anyone exploring top-rated sushi
+  restaurants in the area. Whether you're looking for a relaxed lunch or an
+  evening out, this spot delivers a satisfying blend of taste and ambiance that
+  keeps locals coming back.
+generative_summary: >-
+  Experience Sushi Wasabi in Tustin, CA$$$Sushi Wasabi in Tustin, CA, stands out
+  as a cozy spot for enjoying fresh sushi and authentic Japanese flavors, making
+  it a go-to choice for those seeking quality dining options nearby. This eatery
+  features a welcoming atmosphere where you can savor a variety of expertly
+  prepared rolls, sashimi, and traditional dishes, complemented by a selection
+  of sake and beer to enhance your meal. Accessibility is a key highlight, with
+  options like wheelchair-friendly parking and entrances that ensure everyone
+  can enjoy the experience comfortably. The menu emphasizes fresh ingredients
+  and thoughtful presentations, appealing to anyone exploring top-rated sushi
+  restaurants in the area. Whether you're looking for a relaxed lunch or an
+  evening out, this spot delivers a satisfying blend of taste and ambiance that
+  keeps locals coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Customer Feedback$$$Visitors to this sushi spot often rave about
+  the fresh and flavorful dishes that make every bite feel like a treat, based
+  on its strong overall rating. Many appreciate the consistent quality of the
+  rolls and Japanese-inspired selections, noting that the portions are generous
+  and the service adds to the enjoyable vibe. While some mention occasional
+  waits during peak hours, the general consensus highlights it as a reliable
+  choice for casual diners seeking tasty options without the fuss. Overall,
+  folks find it a solid pick for groups or solo visits, with the variety of
+  drinks rounding out a pleasant experience. If you're hunting for great sushi
+  places nearby, this one earns high marks for its approachable style and
+  dependable flavors.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +338,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Mint Tapas and Sushi 2 (Cottonwood Heights)"
+title: Mint Tapas and Sushi 2 (Cottonwood Heights)
 permalink: /utah/holladay/mint-tapas-and-sushi-2-cottonwood-heights.html
 stateAbbr: UT
 stateName: Utah
 cityName: Holladay
 seo:
-  name: "Mint Tapas and Sushi 2 (Cottonwood Heights)"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Mint Tapas and Sushi 2 (Cottonwood Heights) serves delicious sushi in Holladay, Utah. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJqWMmvR1jUocREYyiBvHS1k0
 photos:
   - name: >-
@@ -185,7 +183,41 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Explore Mint Tapas and Sushi in Cottonwood Heights, UT$$$Mint Tapas and Sushi
+  2 in Cottonwood Heights, UT, is a trendy spot that blends modern vibes with
+  authentic Japanese flavors, featuring a lively sushi bar for fresh creations.
+  The restaurant specializes in a variety of Japanese tapas alongside
+  high-quality nigiri, sashimi, and inventive rolls that appeal to sushi lovers
+  seeking something unique. Its welcoming atmosphere highlights accessibility
+  options like wheelchair-friendly entrances and seating, ensuring a comfortable
+  visit for all. For those exploring sushi restaurants in the area, this
+  location offers a delightful mix of casual elegance and flavorful dishes that
+  make it a standout choice for an enjoyable meal.
+generative_summary: >-
+  Explore Mint Tapas and Sushi in Cottonwood Heights, UT$$$Mint Tapas and Sushi
+  2 in Cottonwood Heights, UT, is a trendy spot that blends modern vibes with
+  authentic Japanese flavors, featuring a lively sushi bar for fresh creations.
+  The restaurant specializes in a variety of Japanese tapas alongside
+  high-quality nigiri, sashimi, and inventive rolls that appeal to sushi lovers
+  seeking something unique. Its welcoming atmosphere highlights accessibility
+  options like wheelchair-friendly entrances and seating, ensuring a comfortable
+  visit for all. For those exploring sushi restaurants in the area, this
+  location offers a delightful mix of casual elegance and flavorful dishes that
+  make it a standout choice for an enjoyable meal.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Guests Are Saying$$$Visitors frequently highlight the tasty sushi and
+  tapas selections, with many noting the flavorful options that keep diners
+  coming back for more. The service stands out as warm and attentive, adding to
+  the relaxed and enjoyable vibe of the place. People often rave about the
+  inviting atmosphere, especially the outdoor dining area that provides
+  picturesque views, making it perfect for a casual outing. Overall, it's
+  praised as a solid pick for anyone hunting for quality Japanese-inspired eats,
+  delivering a consistently positive experience that balances great food with a
+  welcoming setting.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +243,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

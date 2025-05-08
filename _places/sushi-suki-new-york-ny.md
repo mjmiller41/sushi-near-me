@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Suki"
+title: Sushi Suki
 permalink: /new-york/new-york/sushi-suki.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "Sushi Suki"
-  type: Restaurant
-  links: null
-description: "Sushi Suki serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.sushisukiny.com/
 place_id: ChIJsy_uQoNZwokRB4UmWFv3iHA
 photos:
   - name: >-
@@ -168,22 +166,190 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c2598342ee2fb3:0x7088f75b58268507!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 15
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 12
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 12
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 12
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 12
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 12
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 15
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 12:00 – 10:00 PM'
+    - 'Tuesday: 12:00 – 10:00 PM'
+    - 'Wednesday: 12:00 – 10:00 PM'
+    - 'Thursday: 12:00 – 10:00 PM'
+    - 'Friday: 12:00 – 10:00 PM'
+    - 'Saturday: 12:15 – 10:00 PM'
+    - 'Sunday: 12:15 – 10:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
-phone: null
-price_level: null
+  - openNow: false
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 0
+        close:
+          day: 0
+          hour: 15
+          minute: 30
+      - open:
+          day: 1
+          hour: 11
+          minute: 30
+        close:
+          day: 1
+          hour: 15
+          minute: 30
+      - open:
+          day: 2
+          hour: 11
+          minute: 30
+        close:
+          day: 2
+          hour: 15
+          minute: 30
+      - open:
+          day: 3
+          hour: 11
+          minute: 30
+        close:
+          day: 3
+          hour: 15
+          minute: 30
+      - open:
+          day: 4
+          hour: 11
+          minute: 30
+        close:
+          day: 4
+          hour: 15
+          minute: 30
+      - open:
+          day: 5
+          hour: 11
+          minute: 30
+        close:
+          day: 5
+          hour: 15
+          minute: 30
+      - open:
+          day: 6
+          hour: 12
+          minute: 0
+        close:
+          day: 6
+          hour: 15
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 11:30 AM – 3:30 PM'
+      - 'Tuesday: 11:30 AM – 3:30 PM'
+      - 'Wednesday: 11:30 AM – 3:30 PM'
+      - 'Thursday: 11:30 AM – 3:30 PM'
+      - 'Friday: 11:30 AM – 3:30 PM'
+      - 'Saturday: 12:00 – 3:30 PM'
+      - 'Sunday: 12:00 – 3:30 PM'
+    secondaryHoursType: DELIVERY
+    nextOpenTime: '2025-05-04T16:00:00Z'
+phone: (212) 249-3766
+price_level: PRICE_LEVEL_MODERATE
 price_range: null
-rating: null
-rating_count: 0
-website: null
+rating: '3.8'
+rating_count: 80
+website: https://www.sushisukiny.com/
+description: >-
+  Discover Sushi Suki in New York, NY$$$Sushi Suki in New York, NY, stands out
+  as a welcoming spot for enjoying fresh Japanese flavors in a relaxed setting.
+  This casual eatery specializes in authentic dishes like expertly crafted sushi
+  rolls and hearty bento boxes, complemented by a selection of beverages
+  including beer, sake, and wine. Visitors appreciate the straightforward
+  atmosphere that makes it easy to savor top-rated sushi options right in the
+  heart of the city, perfect for those searching for quality Japanese places
+  nearby. The restaurant's convenient hours and accessible entrance add to its
+  appeal, making it a go-to choice for a satisfying meal without the fuss.
+  Whether you're craving sushi close to home or exploring new dining gems, Sushi
+  Suki delivers a balanced blend of tradition and simplicity that keeps locals
+  coming back.
+generative_summary: >-
+  Discover Sushi Suki in New York, NY$$$Sushi Suki in New York, NY, stands out
+  as a welcoming spot for enjoying fresh Japanese flavors in a relaxed setting.
+  This casual eatery specializes in authentic dishes like expertly crafted sushi
+  rolls and hearty bento boxes, complemented by a selection of beverages
+  including beer, sake, and wine. Visitors appreciate the straightforward
+  atmosphere that makes it easy to savor top-rated sushi options right in the
+  heart of the city, perfect for those searching for quality Japanese places
+  nearby. The restaurant's convenient hours and accessible entrance add to its
+  appeal, making it a go-to choice for a satisfying meal without the fuss.
+  Whether you're craving sushi close to home or exploring new dining gems, Sushi
+  Suki delivers a balanced blend of tradition and simplicity that keeps locals
+  coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About Sushi Suki$$$From what people share online,
+  Sushi Suki gets solid nods for its fresh ingredients and tasty rolls that hit
+  the spot for sushi lovers in the area. Many mention the friendly service and
+  cozy vibe make it a reliable pick for casual dinners or quick bites, even if a
+  few note it's not always the flashiest spot around. Overall, the feedback
+  leans positive, with folks appreciating the variety of options that cater to
+  different tastes, like bento boxes and drinks, earning it praise as one of the
+  better sushi restaurants near me. While some suggest it's best for
+  straightforward meals rather than fancy occasions, the general consensus is
+  that it's worth trying for anyone hunting for dependable, flavorful eats. If
+  you're on the hunt for top-rated sushi in New York, this place often comes up
+  as a solid, enjoyable choice that doesn't disappoint on the basics.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -209,7 +375,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

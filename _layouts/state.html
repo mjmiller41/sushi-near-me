@@ -2,16 +2,19 @@
 layout: map-page
 ---
 <div class="state-content">
-  {% assign stateName = site.data.states[page.state] %}
-  <ul class="page-list">
-    {% assign cities = site.cities | where: 'stateName', page.stateName %}
-    {%- for city in cities -%}
-      <li>
-        <a href="{{- city.url -}}">{% include icons/city_icon.svg %}{{- city.cityName -}}</a>
-        {% assign places = site.places | where: "stateName", city.stateName %}
-        {% assign places = places | where: "cityName", city.cityName %}
-        <div class="link-info">{{ places.size }} sushi place{% if places.size > 1 %}s{% endif %}.</div>
-      </li>
-    {%- endfor -%}
-  </ul>
+  {%- assign stateName = site.data.states[page.state] -%}
+  <div class="ul-wrapper">
+    <h2 class="page-heading">{{ page.stateName }} Cities with {{ site.place_type }}s</h2>
+    <ul class="page-list">
+      {%- assign cities = site.cities | where: 'stateName', page.stateName -%}
+      {%- for city in cities -%}
+        <li>
+          <a href="{{- city.url -}}">{%- include icons/city_icon.svg -%}{{- city.cityName -}}</a>
+          {%- assign places = site.places | where: "stateName", city.stateName -%}
+          {%- assign places = places | where: "cityName", city.cityName -%}
+          <div class="link-info">{{ places.size }} {{ site.place_type }}{%- if places.size > 1 -%}s{%- endif -%}.</div>
+        </li>
+      {%- endfor -%}
+    </ul>
+  </div>
 </div>

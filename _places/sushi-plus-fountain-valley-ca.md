@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Plus"
+title: Sushi Plus
 permalink: /california/fountain-valley/sushi-plus.html
 stateAbbr: CA
 stateName: California
 cityName: Fountain Valley
 seo:
-  name: "Sushi Plus"
-  type: Restaurant
+  type: restaurant
   links: https://yukitheoddy.wixsite.com/sushi-plus
-description: "Sushi Plus serves delicious sushi in Fountain Valley, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJsdopgzQn3YAR1d7TntJU3ww
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 0
 website: https://yukitheoddy.wixsite.com/sushi-plus
+description: >-
+  Discover Sushi Plus in Fountain Valley, CA$$$Sushi Plus in Fountain Valley,
+  California, offers a laid-back vibe perfect for savoring fresh sushi rolls and
+  classic Japanese dishes, making it a go-to spot for anyone exploring local
+  sushi options. This welcoming restaurant features happy hour specials that add
+  value to your meal, appealing to those seeking affordable yet flavorful
+  Japanese eats in the area. With accessible features like wheelchair-friendly
+  entrances and ample parking, it's designed for a comfortable dining experience
+  that caters to various needs. The menu highlights quality ingredients and
+  simple, satisfying flavors, ideal for casual dinners or quick bites. Whether
+  you're in the mood for top-rated sushi nearby or just a relaxed Japanese meal,
+  this spot delivers a genuine taste of the cuisine without overwhelming frills.
+generative_summary: >-
+  Discover Sushi Plus in Fountain Valley, CA$$$Sushi Plus in Fountain Valley,
+  California, offers a laid-back vibe perfect for savoring fresh sushi rolls and
+  classic Japanese dishes, making it a go-to spot for anyone exploring local
+  sushi options. This welcoming restaurant features happy hour specials that add
+  value to your meal, appealing to those seeking affordable yet flavorful
+  Japanese eats in the area. With accessible features like wheelchair-friendly
+  entrances and ample parking, it's designed for a comfortable dining experience
+  that caters to various needs. The menu highlights quality ingredients and
+  simple, satisfying flavors, ideal for casual dinners or quick bites. Whether
+  you're in the mood for top-rated sushi nearby or just a relaxed Japanese meal,
+  this spot delivers a genuine taste of the cuisine without overwhelming frills.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJsdopgzQn3YAR1d7TntJU3ww/reviews/ChZDSUhNMG9nS0VJQ0FnTURRaWFMUVh3EAE
@@ -338,6 +361,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMwMnBueThnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMwMnBueThnRRAB!2m1!1s0x80dd27348329dab1:0xcdf54d29ed3ded5
+review_summary: >-
+  What Customers Are Saying$$$Folks who visit this sushi spot often rave about
+  the fresh rolls and generous portions that make every meal feel worthwhile,
+  all at prices that won't break the bank. Many highlight the friendly service
+  and casual atmosphere that keep things welcoming and stress-free, turning a
+  simple dinner into a pleasant outing. While some note that wait times can vary
+  depending on how busy it gets, the overall experience is praised for its
+  reliability and solid value. You'll hear positive vibes about the tasty
+  options like teriyaki plates and sushi varieties that satisfy cravings without
+  fuss. All in all, it's a spot that delivers a consistently enjoyable vibe,
+  encouraging repeat visits for anyone hunting for reliable Japanese dining
+  nearby.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -368,7 +404,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

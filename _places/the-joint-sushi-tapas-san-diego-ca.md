@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "The Joint Sushi & Tapas"
+title: The Joint Sushi & Tapas
 permalink: /california/san-diego/the-joint-sushi-tapas.html
 stateAbbr: CA
 stateName: California
 cityName: San Diego
 seo:
-  name: "The Joint Sushi & Tapas"
-  type: Restaurant
-  links: null
-description: "The Joint Sushi & Tapas serves delicious sushi in San Diego, California. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.thejointob.com/
 place_id: ChIJBWTtUDeq3oAR9qCdpu5szcI
 photos:
   - name: >-
@@ -169,22 +167,528 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80deaa3750ed6405:0xc2cd6ceea69da0f6!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 12
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 12
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 12
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 12
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 12
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 12:00 – 9:00 PM'
+    - 'Tuesday: 12:00 – 9:00 PM'
+    - 'Wednesday: 12:00 – 9:00 PM'
+    - 'Thursday: 12:00 – 9:00 PM'
+    - 'Friday: 12:00 – 10:00 PM'
+    - 'Saturday: 12:00 – 10:00 PM'
+    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T05:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 0
+        close:
+          day: 0
+          hour: 18
+          minute: 0
+      - open:
+          day: 1
+          hour: 12
+          minute: 0
+        close:
+          day: 1
+          hour: 18
+          minute: 0
+      - open:
+          day: 2
+          hour: 12
+          minute: 0
+        close:
+          day: 2
+          hour: 18
+          minute: 0
+      - open:
+          day: 3
+          hour: 12
+          minute: 0
+        close:
+          day: 3
+          hour: 18
+          minute: 0
+      - open:
+          day: 4
+          hour: 12
+          minute: 0
+        close:
+          day: 4
+          hour: 18
+          minute: 0
+      - open:
+          day: 5
+          hour: 12
+          minute: 0
+        close:
+          day: 5
+          hour: 18
+          minute: 0
+      - open:
+          day: 6
+          hour: 12
+          minute: 0
+        close:
+          day: 6
+          hour: 18
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 12:00 – 6:00 PM'
+      - 'Tuesday: 12:00 – 6:00 PM'
+      - 'Wednesday: 12:00 – 6:00 PM'
+      - 'Thursday: 12:00 – 6:00 PM'
+      - 'Friday: 12:00 – 6:00 PM'
+      - 'Saturday: 12:00 – 6:00 PM'
+      - 'Sunday: 12:00 – 6:00 PM'
+    secondaryHoursType: HAPPY_HOUR
+    nextCloseTime: '2025-05-04T01:00:00Z'
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 0
+        close:
+          day: 0
+          hour: 21
+          minute: 0
+      - open:
+          day: 1
+          hour: 12
+          minute: 0
+        close:
+          day: 1
+          hour: 21
+          minute: 0
+      - open:
+          day: 2
+          hour: 12
+          minute: 0
+        close:
+          day: 2
+          hour: 21
+          minute: 0
+      - open:
+          day: 3
+          hour: 12
+          minute: 0
+        close:
+          day: 3
+          hour: 21
+          minute: 0
+      - open:
+          day: 4
+          hour: 12
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 0
+      - open:
+          day: 5
+          hour: 12
+          minute: 0
+        close:
+          day: 5
+          hour: 22
+          minute: 0
+      - open:
+          day: 6
+          hour: 12
+          minute: 0
+        close:
+          day: 6
+          hour: 22
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 12:00 – 9:00 PM'
+      - 'Tuesday: 12:00 – 9:00 PM'
+      - 'Wednesday: 12:00 – 9:00 PM'
+      - 'Thursday: 12:00 – 9:00 PM'
+      - 'Friday: 12:00 – 10:00 PM'
+      - 'Saturday: 12:00 – 10:00 PM'
+      - 'Sunday: 12:00 – 9:00 PM'
+    secondaryHoursType: DELIVERY
+    nextCloseTime: '2025-05-04T05:00:00Z'
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 0
+        close:
+          day: 0
+          hour: 21
+          minute: 0
+      - open:
+          day: 1
+          hour: 12
+          minute: 0
+        close:
+          day: 1
+          hour: 21
+          minute: 0
+      - open:
+          day: 2
+          hour: 12
+          minute: 0
+        close:
+          day: 2
+          hour: 21
+          minute: 0
+      - open:
+          day: 3
+          hour: 12
+          minute: 0
+        close:
+          day: 3
+          hour: 21
+          minute: 0
+      - open:
+          day: 4
+          hour: 12
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 0
+      - open:
+          day: 5
+          hour: 12
+          minute: 0
+        close:
+          day: 5
+          hour: 22
+          minute: 0
+      - open:
+          day: 6
+          hour: 12
+          minute: 0
+        close:
+          day: 6
+          hour: 22
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 12:00 – 9:00 PM'
+      - 'Tuesday: 12:00 – 9:00 PM'
+      - 'Wednesday: 12:00 – 9:00 PM'
+      - 'Thursday: 12:00 – 9:00 PM'
+      - 'Friday: 12:00 – 10:00 PM'
+      - 'Saturday: 12:00 – 10:00 PM'
+      - 'Sunday: 12:00 – 9:00 PM'
+    secondaryHoursType: TAKEOUT
+    nextCloseTime: '2025-05-04T05:00:00Z'
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 0
+        close:
+          day: 0
+          hour: 21
+          minute: 0
+      - open:
+          day: 1
+          hour: 12
+          minute: 0
+        close:
+          day: 1
+          hour: 21
+          minute: 0
+      - open:
+          day: 2
+          hour: 12
+          minute: 0
+        close:
+          day: 2
+          hour: 21
+          minute: 0
+      - open:
+          day: 3
+          hour: 12
+          minute: 0
+        close:
+          day: 3
+          hour: 21
+          minute: 0
+      - open:
+          day: 4
+          hour: 12
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 0
+      - open:
+          day: 5
+          hour: 12
+          minute: 0
+        close:
+          day: 5
+          hour: 22
+          minute: 0
+      - open:
+          day: 6
+          hour: 12
+          minute: 0
+        close:
+          day: 6
+          hour: 22
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 12:00 – 9:00 PM'
+      - 'Tuesday: 12:00 – 9:00 PM'
+      - 'Wednesday: 12:00 – 9:00 PM'
+      - 'Thursday: 12:00 – 9:00 PM'
+      - 'Friday: 12:00 – 10:00 PM'
+      - 'Saturday: 12:00 – 10:00 PM'
+      - 'Sunday: 12:00 – 9:00 PM'
+    secondaryHoursType: KITCHEN
+    nextCloseTime: '2025-05-04T05:00:00Z'
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 0
+        close:
+          day: 0
+          hour: 21
+          minute: 0
+      - open:
+          day: 1
+          hour: 12
+          minute: 0
+        close:
+          day: 1
+          hour: 21
+          minute: 0
+      - open:
+          day: 2
+          hour: 12
+          minute: 0
+        close:
+          day: 2
+          hour: 21
+          minute: 0
+      - open:
+          day: 3
+          hour: 12
+          minute: 0
+        close:
+          day: 3
+          hour: 21
+          minute: 0
+      - open:
+          day: 4
+          hour: 12
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 0
+      - open:
+          day: 5
+          hour: 12
+          minute: 0
+        close:
+          day: 5
+          hour: 22
+          minute: 0
+      - open:
+          day: 6
+          hour: 12
+          minute: 0
+        close:
+          day: 6
+          hour: 22
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 12:00 – 9:00 PM'
+      - 'Tuesday: 12:00 – 9:00 PM'
+      - 'Wednesday: 12:00 – 9:00 PM'
+      - 'Thursday: 12:00 – 9:00 PM'
+      - 'Friday: 12:00 – 10:00 PM'
+      - 'Saturday: 12:00 – 10:00 PM'
+      - 'Sunday: 12:00 – 9:00 PM'
+    secondaryHoursType: LUNCH
+    nextCloseTime: '2025-05-04T05:00:00Z'
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 0
+        close:
+          day: 0
+          hour: 21
+          minute: 0
+      - open:
+          day: 1
+          hour: 12
+          minute: 0
+        close:
+          day: 1
+          hour: 21
+          minute: 0
+      - open:
+          day: 2
+          hour: 12
+          minute: 0
+        close:
+          day: 2
+          hour: 21
+          minute: 0
+      - open:
+          day: 3
+          hour: 12
+          minute: 0
+        close:
+          day: 3
+          hour: 21
+          minute: 0
+      - open:
+          day: 4
+          hour: 12
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 0
+      - open:
+          day: 5
+          hour: 12
+          minute: 0
+        close:
+          day: 5
+          hour: 22
+          minute: 0
+      - open:
+          day: 6
+          hour: 12
+          minute: 0
+        close:
+          day: 6
+          hour: 22
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 12:00 – 9:00 PM'
+      - 'Tuesday: 12:00 – 9:00 PM'
+      - 'Wednesday: 12:00 – 9:00 PM'
+      - 'Thursday: 12:00 – 9:00 PM'
+      - 'Friday: 12:00 – 10:00 PM'
+      - 'Saturday: 12:00 – 10:00 PM'
+      - 'Sunday: 12:00 – 9:00 PM'
+    secondaryHoursType: DINNER
+    nextCloseTime: '2025-05-04T05:00:00Z'
+phone: (619) 222-8272
+price_level: PRICE_LEVEL_MODERATE
+price_range: $30 &ndash; $50
+rating: '4.5'
+rating_count: 1029
+website: http://www.thejointob.com/
+description: >-
+  Explore The Joint Sushi & Tapas in San Diego, CA$$$The Joint Sushi & Tapas in
+  San Diego, CA, stands out as a trendy spot blending fresh sushi with
+  innovative fusion dishes, offering a welcoming atmosphere for those seeking
+  flavorful meals and craft beverages. This eatery highlights a mix of creative
+  rolls and tapas-style small plates, paired with an array of craft beer and
+  wine selections that appeal to sushi enthusiasts in the area. Accessibility
+  features like wheelchair-friendly entrances and seating make it easy for
+  everyone to enjoy the vibrant dining experience. With extended hours into the
+  evening, it's an ideal choice for casual lunches or dinners, drawing in locals
+  and visitors alike for its fusion-inspired menu. Whether you're exploring
+  sushi restaurants nearby or looking for a relaxed place to unwind, this spot
+  delivers on quality and variety.
+generative_summary: >-
+  Explore The Joint Sushi & Tapas in San Diego, CA$$$The Joint Sushi & Tapas in
+  San Diego, CA, stands out as a trendy spot blending fresh sushi with
+  innovative fusion dishes, offering a welcoming atmosphere for those seeking
+  flavorful meals and craft beverages. This eatery highlights a mix of creative
+  rolls and tapas-style small plates, paired with an array of craft beer and
+  wine selections that appeal to sushi enthusiasts in the area. Accessibility
+  features like wheelchair-friendly entrances and seating make it easy for
+  everyone to enjoy the vibrant dining experience. With extended hours into the
+  evening, it's an ideal choice for casual lunches or dinners, drawing in locals
+  and visitors alike for its fusion-inspired menu. Whether you're exploring
+  sushi restaurants nearby or looking for a relaxed place to unwind, this spot
+  delivers on quality and variety.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Buzzing About$$$Folks rave about the tasty sushi options at
+  this spot, especially the flavorful spicy tuna rolls that keep diners coming
+  back for more. Many highlight the fantastic happy hour deals, making it a
+  go-to for affordable bites and drinks without skimping on taste or fun. The
+  staff gets props for being super friendly and attentive, adding to the lively
+  and energetic vibe that makes every visit enjoyable. Overall, it's praised as
+  a solid pick for groups or solo outings, with a welcoming environment that
+  encourages repeat trips. If you're hunting for top-rated sushi places near
+  you, this one earns high marks for its balance of great food, service, and
+  atmosphere.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +714,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

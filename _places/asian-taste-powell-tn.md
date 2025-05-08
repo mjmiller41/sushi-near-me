@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Asian Taste"
+title: Asian Taste
 permalink: /tennessee/powell/asian-taste.html
 stateAbbr: TN
 stateName: Tennessee
 cityName: Powell
 seo:
-  name: "Asian Taste"
-  type: Restaurant
-  links: null
-description: "Asian Taste serves delicious sushi in Powell, Tennessee. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.asiantastepowell.com/
 place_id: ChIJ31tq_us-XIgRqJzgQGq1_M8
 photos:
   - name: >-
@@ -170,8 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x885c3eebfe6a5bdf:0xcffcb56a40e09ca8!10e5
 primary_type: Asian Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: Closed'
+    - 'Tuesday: 11:00 AM – 9:30 PM'
+    - 'Wednesday: 11:00 AM – 9:30 PM'
+    - 'Thursday: 11:00 AM – 9:30 PM'
+    - 'Friday: 11:00 AM – 9:30 PM'
+    - 'Saturday: 11:00 AM – 9:30 PM'
+    - 'Sunday: 11:00 AM – 9:30 PM'
+  nextCloseTime: '2025-05-04T01:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +234,47 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (865) 339-4141
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.1'
+rating_count: 230
+website: http://www.asiantastepowell.com/
+description: >-
+  Explore Asian Taste in Powell, TN$$$Asian Taste in Powell, TN, stands out as a
+  welcoming spot for those seeking flavorful Asian cuisine, blending traditional
+  Chinese favorites with fresh sushi options. This casual restaurant offers a
+  menu that highlights dishes like lo mein and General Tso's chicken, alongside
+  a selection of sushi that appeals to diners looking for variety in their
+  meals. With its moderate pricing and accessibility features, such as
+  wheelchair-friendly parking and seating, it's an easy choice for families or
+  groups exploring sushi restaurants nearby. The inviting atmosphere makes it a
+  go-to for anyone in the area craving authentic Asian flavors, ensuring a
+  satisfying experience whether you're stopping by for lunch or dinner.
+generative_summary: >-
+  Explore Asian Taste in Powell, TN$$$Asian Taste in Powell, TN, stands out as a
+  welcoming spot for those seeking flavorful Asian cuisine, blending traditional
+  Chinese favorites with fresh sushi options. This casual restaurant offers a
+  menu that highlights dishes like lo mein and General Tso's chicken, alongside
+  a selection of sushi that appeals to diners looking for variety in their
+  meals. With its moderate pricing and accessibility features, such as
+  wheelchair-friendly parking and seating, it's an easy choice for families or
+  groups exploring sushi restaurants nearby. The inviting atmosphere makes it a
+  go-to for anyone in the area craving authentic Asian flavors, ensuring a
+  satisfying experience whether you're stopping by for lunch or dinner.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback Highlights$$$Folks checking out Asian Taste often appreciate
+  the solid mix of Chinese and sushi dishes, with many noting the fresh
+  ingredients and generous portions that make meals feel worthwhile. The overall
+  vibe gets thumbs up for being relaxed and accommodating, helping it earn its
+  strong reputation among local eateries. While some mention minor waits during
+  peak times, the friendly service and tasty options keep the experience
+  positive for most visitors. If you're hunting for top-rated sushi places near
+  you, this spot delivers reliable flavors that leave people coming back for
+  more, making it a smart pick for casual dining adventures.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +300,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

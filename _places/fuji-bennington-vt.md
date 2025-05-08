@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Fuji"
+title: Fuji
 permalink: /vermont/bennington/fuji.html
 stateAbbr: VT
 stateName: Vermont
 cityName: Bennington
 seo:
-  name: "Fuji"
-  type: Restaurant
-  links: null
-description: "Fuji serves delicious sushi in Bennington, Vermont. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://fujihibachiasianbistro.com/
 place_id: ChIJQ8hfcu2W4IkRQJaphiDac_8
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89e096ed725fc843:0xff73da2086a99640!10e5
 primary_type: Asian Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 10:00 PM'
+    - 'Tuesday: 11:00 AM – 10:00 PM'
+    - 'Wednesday: 11:00 AM – 10:00 PM'
+    - 'Thursday: 11:00 AM – 10:00 PM'
+    - 'Friday: 11:00 AM – 10:00 PM'
+    - 'Saturday: 11:00 AM – 10:00 PM'
+    - 'Sunday: 11:00 AM – 10:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,48 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (802) 440-5911
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.5'
+rating_count: 425
+website: http://fujihibachiasianbistro.com/
+description: >-
+  Discover Fuji in Bennington, Vermont$$$In Bennington, VT, Fuji stands out as a
+  welcoming Asian restaurant offering a blend of Japanese and Chinese flavors
+  that delight sushi enthusiasts. This cozy spot specializes in teppanyaki-style
+  dishes prepared with fresh ingredients, alongside a variety of creative sushi
+  rolls and traditional fare that cater to diverse tastes. Accessibility
+  features like wheelchair-friendly parking and seating make it easy for
+  everyone to enjoy a meal, while its extended hours from 11 AM to 10 PM daily
+  add to the convenience for locals seeking nearby dining options. The moderate
+  pricing ensures a satisfying experience without breaking the bank, making it a
+  go-to choice for those exploring top-rated Asian cuisine in the area.
+generative_summary: >-
+  Discover Fuji in Bennington, Vermont$$$In Bennington, VT, Fuji stands out as a
+  welcoming Asian restaurant offering a blend of Japanese and Chinese flavors
+  that delight sushi enthusiasts. This cozy spot specializes in teppanyaki-style
+  dishes prepared with fresh ingredients, alongside a variety of creative sushi
+  rolls and traditional fare that cater to diverse tastes. Accessibility
+  features like wheelchair-friendly parking and seating make it easy for
+  everyone to enjoy a meal, while its extended hours from 11 AM to 10 PM daily
+  add to the convenience for locals seeking nearby dining options. The moderate
+  pricing ensures a satisfying experience without breaking the bank, making it a
+  go-to choice for those exploring top-rated Asian cuisine in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this spot often praise the flavorful
+  hibachi and sushi selections, with many highlighting standout dishes like the
+  signature pineapple rice and zesty ginger dressings that bring a fresh twist
+  to every bite. People appreciate the generous portions that leave you feeling
+  full and satisfied, all while keeping costs reasonable for a casual night out.
+  Feedback frequently notes the overall value, making it a solid pick for
+  families or groups looking for reliable, tasty meals without the high price
+  tag. Overall, the vibe here comes across as welcoming and enjoyable,
+  encouraging repeat visits for anyone in the mood for quality Asian-inspired
+  eats nearby.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +309,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

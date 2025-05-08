@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sanraku"
+title: Sanraku
 permalink: /california/san-jose/sanraku.html
 stateAbbr: CA
 stateName: California
 cityName: San Jose
 seo:
-  name: "Sanraku"
-  type: Restaurant
+  type: restaurant
   links: http://www.sanraku.com/
-description: "Sanraku serves delicious sushi in San Jose, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJh3U4FNYzjoAR5GxY75e8X6A
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x808e33d614387587:0xa05fbc97ef586ce4!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 19
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 20
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 20
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 20
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 8:00 PM'
     - 'Tuesday: 11:00 AM – 8:00 PM'
     - 'Wednesday: 11:00 AM – 8:00 PM'
@@ -178,54 +234,381 @@ opening_hours:
     - 'Friday: 11:00 AM – 8:30 PM'
     - 'Saturday: 11:00 AM – 8:30 PM'
     - 'Sunday: 11:00 AM – 7:30 PM'
-  current:
-    - 'Monday: 11:00 AM – 8:00 PM'
-    - 'Tuesday: 11:00 AM – 8:00 PM'
-    - 'Wednesday: 11:00 AM – 8:00 PM'
-    - 'Thursday: 11:00 AM – 8:00 PM'
-    - 'Friday: 11:00 AM – 8:30 PM'
-    - 'Saturday: 11:00 AM – 8:30 PM'
-    - 'Sunday: 11:00 AM – 7:30 PM'
+  nextCloseTime: '2025-05-04T03:30:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 11
+          minute: 0
+        close:
+          day: 0
+          hour: 19
+          minute: 30
+      - open:
+          day: 1
+          hour: 11
+          minute: 0
+        close:
+          day: 1
+          hour: 19
+          minute: 30
+      - open:
+          day: 2
+          hour: 11
+          minute: 0
+        close:
+          day: 2
+          hour: 19
+          minute: 30
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 19
+          minute: 30
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 19
+          minute: 30
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 20
+          minute: 30
+      - open:
+          day: 6
+          hour: 11
+          minute: 0
+        close:
+          day: 6
+          hour: 20
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 11:00 AM – 7:30 PM'
+      - 'Tuesday: 11:00 AM – 7:30 PM'
+      - 'Wednesday: 11:00 AM – 7:30 PM'
+      - 'Thursday: 11:00 AM – 7:30 PM'
+      - 'Friday: 11:00 AM – 8:30 PM'
+      - 'Saturday: 11:00 AM – 8:30 PM'
+      - 'Sunday: 11:00 AM – 7:30 PM'
+    secondaryHoursType: DELIVERY
+    nextCloseTime: '2025-05-04T03:30:00Z'
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 11
+          minute: 0
+        close:
+          day: 0
+          hour: 19
+          minute: 30
+      - open:
+          day: 1
+          hour: 11
+          minute: 0
+        close:
+          day: 1
+          hour: 19
+          minute: 30
+      - open:
+          day: 2
+          hour: 11
+          minute: 0
+        close:
+          day: 2
+          hour: 19
+          minute: 30
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 19
+          minute: 30
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 19
+          minute: 30
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 20
+          minute: 30
+      - open:
+          day: 6
+          hour: 11
+          minute: 0
+        close:
+          day: 6
+          hour: 20
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 11:00 AM – 7:30 PM'
+      - 'Tuesday: 11:00 AM – 7:30 PM'
+      - 'Wednesday: 11:00 AM – 7:30 PM'
+      - 'Thursday: 11:00 AM – 7:30 PM'
+      - 'Friday: 11:00 AM – 8:30 PM'
+      - 'Saturday: 11:00 AM – 8:30 PM'
+      - 'Sunday: 11:00 AM – 7:30 PM'
+    secondaryHoursType: TAKEOUT
+    nextCloseTime: '2025-05-04T03:30:00Z'
 phone: (408) 363-2110
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.5'
-rating_count: 0
+rating_count: 579
 website: http://www.sanraku.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Sanraku in San Jose, CA$$$Nestled in San Jose, CA, Sanraku stands out
+  as a welcoming Japanese restaurant located within a bustling mall, offering a
+  relaxed atmosphere for enjoying fresh sushi and traditional fare. This spot
+  features a rotating omakase menu that highlights seasonal ingredients,
+  alongside other authentic Japanese dishes that appeal to those seeking quality
+  sushi experiences nearby. With its accessible design and convenient hours,
+  it's an ideal choice for anyone exploring Japanese places in the area,
+  complete with options for dine-in or takeout to suit various preferences. The
+  restaurant's emphasis on fresh, well-prepared meals makes it a go-to for
+  flavorful options that capture the essence of Japanese dining without
+  overwhelming the senses.
+generative_summary: >-
+  Discover Sanraku in San Jose, CA$$$Nestled in San Jose, CA, Sanraku stands out
+  as a welcoming Japanese restaurant located within a bustling mall, offering a
+  relaxed atmosphere for enjoying fresh sushi and traditional fare. This spot
+  features a rotating omakase menu that highlights seasonal ingredients,
+  alongside other authentic Japanese dishes that appeal to those seeking quality
+  sushi experiences nearby. With its accessible design and convenient hours,
+  it's an ideal choice for anyone exploring Japanese places in the area,
+  complete with options for dine-in or takeout to suit various preferences. The
+  restaurant's emphasis on fresh, well-prepared meals makes it a go-to for
+  flavorful options that capture the essence of Japanese dining without
+  overwhelming the senses.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJh3U4FNYzjoAR5GxY75e8X6A/reviews/ChdDSUhNMG9nS0VJQ0FnSUMweF9tYXd3RRAB
+    relativePublishTimeDescription: 6 months ago
+    rating: 5
+    text:
+      text: >-
+        We've been coming here quite often, probably at least every month since
+        it's been hard finding a consistent and good sushi place in San Jose.
+        Honestly, the price is great for the quality you get (plus they have a
+        rewards program). We always order the Sushi Tokujo, Ika Geso Karaage,
+        and Sake Toro. They had a seasonal uni soba noodles that were amazing
+        but not on the menu anymore. We don't normally order sushi rolls though
+        so I can't recommend that. Service is top notch and quality is amazing
+        for a restaurant in a mall.
+      languageCode: en
+    originalText:
+      text: >-
+        We've been coming here quite often, probably at least every month since
+        it's been hard finding a consistent and good sushi place in San Jose.
+        Honestly, the price is great for the quality you get (plus they have a
+        rewards program). We always order the Sushi Tokujo, Ika Geso Karaage,
+        and Sake Toro. They had a seasonal uni soba noodles that were amazing
+        but not on the menu anymore. We don't normally order sushi rolls though
+        so I can't recommend that. Service is top notch and quality is amazing
+        for a restaurant in a mall.
+      languageCode: en
+    authorAttribution:
+      displayName: Lily P
+      uri: https://www.google.com/maps/contrib/117794527988137888106/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJ91SuzYZC2uVaTPAtTv0codB-gQ72XEvw_cBh9cObF2Qw0rqO_=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-10-23T16:36:05.314679Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMweF9tYXd3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMweF9tYXd3RRAB!2m1!1s0x808e33d614387587:0xa05fbc97ef586ce4
+  - name: >-
+      places/ChIJh3U4FNYzjoAR5GxY75e8X6A/reviews/ChdDSUhNMG9nS0VJQ0FnTURnN2FpQzZBRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        Authentic Japanese food at a mall. Sushi menu consists of fish flown in
+        from Japan prepared by Japanese chefs. Great sake selection as well.
+
+
+        The sushi bar recently opened up for omakase, will try that next.
+      languageCode: en
+    originalText:
+      text: >-
+        Authentic Japanese food at a mall. Sushi menu consists of fish flown in
+        from Japan prepared by Japanese chefs. Great sake selection as well.
+
+
+        The sushi bar recently opened up for omakase, will try that next.
+      languageCode: en
+    authorAttribution:
+      displayName: Phillip Lam
+      uri: https://www.google.com/maps/contrib/104601109361144956888/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJtqWC_qFNhDDOCM3dwK-17YUYBEgTN0H20A7AHPggk4VuWS0E=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-02-26T16:27:44.322454Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURnN2FpQzZBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURnN2FpQzZBRRAB!2m1!1s0x808e33d614387587:0xa05fbc97ef586ce4
+  - name: >-
+      places/ChIJh3U4FNYzjoAR5GxY75e8X6A/reviews/ChZDSUhNMG9nS0VJQ0FnSUNIXzVEblJBEAE
+    relativePublishTimeDescription: 7 months ago
+    rating: 5
+    text:
+      text: >-
+        We have been coming here for years! We have set at the Sushi Bar, main
+        dining area and the makeshift “patio” areas countless times. Each have
+        their own feel to it, but the amazing food remains the same no matter
+        where you sit. Kristy is our favorite waiter. She is great. And Yuki San
+        is just the best sushiwoman period. We also often order it to-go and the
+        food is still yummy. I personally think they are the best south bay
+        sushi restaurant!
+      languageCode: en
+    originalText:
+      text: >-
+        We have been coming here for years! We have set at the Sushi Bar, main
+        dining area and the makeshift “patio” areas countless times. Each have
+        their own feel to it, but the amazing food remains the same no matter
+        where you sit. Kristy is our favorite waiter. She is great. And Yuki San
+        is just the best sushiwoman period. We also often order it to-go and the
+        food is still yummy. I personally think they are the best south bay
+        sushi restaurant!
+      languageCode: en
+    authorAttribution:
+      displayName: F M
+      uri: https://www.google.com/maps/contrib/100976604607240376701/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKSLElipGULmx6nFfPF9vnisPiaPsoD-RtwHr3JK6jIshRYBQ=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-09-10T20:40:59.038407Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNIXzVEblJBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNIXzVEblJBEAE!2m1!1s0x808e33d614387587:0xa05fbc97ef586ce4
+  - name: >-
+      places/ChIJh3U4FNYzjoAR5GxY75e8X6A/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3cXNhcGV3EAE
+    relativePublishTimeDescription: a month ago
+    rating: 1
+    text:
+      text: >-
+        This place is great. I usually order every few weeks when I crave sushi.
+        However, this time it was is so disappointing to find no wasabi! How can
+        I eat sushi with no wasabi?!  I have the soy sauce and chopsticks at
+        home but the 60 dollars worth of sushi isn’t worth much without the
+        essential… WASABI*** . It sucks when I have to stare at the sushi only
+        to be reminded there is nothing to dip it with. SMH
+      languageCode: en
+    originalText:
+      text: >-
+        This place is great. I usually order every few weeks when I crave sushi.
+        However, this time it was is so disappointing to find no wasabi! How can
+        I eat sushi with no wasabi?!  I have the soy sauce and chopsticks at
+        home but the 60 dollars worth of sushi isn’t worth much without the
+        essential… WASABI*** . It sucks when I have to stare at the sushi only
+        to be reminded there is nothing to dip it with. SMH
+      languageCode: en
+    authorAttribution:
+      displayName: Hus (hustles09)
+      uri: https://www.google.com/maps/contrib/103169795283086329822/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKCYh3UNth1YDBq9gl7Yt1sL9tofmqR6RC2W-2FxdBQhjv_bw=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-18T03:18:36.211658Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUN3cXNhcGV3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUN3cXNhcGV3EAE!2m1!1s0x808e33d614387587:0xa05fbc97ef586ce4
+  - name: >-
+      places/ChIJh3U4FNYzjoAR5GxY75e8X6A/reviews/ChZDSUhNMG9nS0VJQ0FnTUNBNE42eFVnEAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        This is a original Japanesese restaurant, you can tell by seeing the
+        chefs speaking Japanese. I’m always here for Omakase, the best in town,
+        so fresh, even fresh wasabi too!
+      languageCode: en
+    originalText:
+      text: >-
+        This is a original Japanesese restaurant, you can tell by seeing the
+        chefs speaking Japanese. I’m always here for Omakase, the best in town,
+        so fresh, even fresh wasabi too!
+      languageCode: en
+    authorAttribution:
+      displayName: Vicky P
+      uri: https://www.google.com/maps/contrib/104990228041336224692/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUFMXgU1RIb_leecXbjql-AacKwR7l-uI4dsrUtmQQTW0cnt6ChvA=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-01-28T21:28:40.573227Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNBNE42eFVnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNBNE42eFVnEAE!2m1!1s0x808e33d614387587:0xa05fbc97ef586ce4
+review_summary: >-
+  What Customers Are Saying About This Sushi Spot$$$Folks rave about the fresh
+  and authentic sushi at this spot, often highlighting the high-quality
+  ingredients and great value that make it a reliable choice for Japanese
+  cuisine lovers. Many appreciate the variety of dishes and the welcoming vibe,
+  with comments praising the flavorful options and solid service that enhance
+  the overall meal. While most experiences are positive, a few mentions note
+  occasional issues with takeout orders, like missing condiments, but these
+  don't overshadow the general satisfaction. Overall, it's seen as one of the
+  top spots for sushi enthusiasts in the region, with diners enjoying the
+  rewards program and seasonal specials that keep things exciting. If you're on
+  the hunt for tasty sushi close to you, this place delivers a consistently
+  enjoyable experience with just a few minor hiccups.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  freeGarageParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
+delivery: true
+dine_in: true
+good_for_children: true
 good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
+good_for_sports: false
+live_music: false
+menu_for_children: true
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
 serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_cocktails: false
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: false
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

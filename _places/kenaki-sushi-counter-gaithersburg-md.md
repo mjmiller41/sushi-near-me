@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "KENAKI Sushi Counter"
+title: KENAKI Sushi Counter
 permalink: /maryland/gaithersburg/kenaki-sushi-counter.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Gaithersburg
 seo:
-  name: "KENAKI Sushi Counter"
-  type: Restaurant
+  type: restaurant
   links: https://www.kenakisushi.com/
-description: "KENAKI Sushi Counter serves delicious sushi in Gaithersburg, Maryland. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJHSzJWaMttokR1XC7LUxFYfM
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 0
 website: https://www.kenakisushi.com/
+description: >-
+  Discover KENAKI Sushi Counter in Gaithersburg, Maryland$$$In Gaithersburg,
+  Maryland, KENAKI Sushi Counter offers a welcoming spot for those seeking
+  top-rated sushi experiences. This Japanese restaurant blends traditional
+  flavors with innovative rolls and refreshing cocktails, creating a menu that
+  appeals to both classic tastes and adventurous palates. The intimate setting
+  features accessible options like wheelchair-friendly entrances and seating,
+  making it easy for everyone to enjoy fresh, high-quality ingredients in a
+  relaxed atmosphere. With ample parking and a focus on creative dishes, it's an
+  ideal choice for anyone exploring sushi restaurants nearby. Whether you're in
+  the mood for inventive maki or simple yet satisfying fare, KENAKI delivers a
+  memorable dining experience that highlights the best of Japanese cuisine.
+generative_summary: >-
+  Discover KENAKI Sushi Counter in Gaithersburg, Maryland$$$In Gaithersburg,
+  Maryland, KENAKI Sushi Counter offers a welcoming spot for those seeking
+  top-rated sushi experiences. This Japanese restaurant blends traditional
+  flavors with innovative rolls and refreshing cocktails, creating a menu that
+  appeals to both classic tastes and adventurous palates. The intimate setting
+  features accessible options like wheelchair-friendly entrances and seating,
+  making it easy for everyone to enjoy fresh, high-quality ingredients in a
+  relaxed atmosphere. With ample parking and a focus on creative dishes, it's an
+  ideal choice for anyone exploring sushi restaurants nearby. Whether you're in
+  the mood for inventive maki or simple yet satisfying fare, KENAKI delivers a
+  memorable dining experience that highlights the best of Japanese cuisine.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJHSzJWaMttokR1XC7LUxFYfM/reviews/ChdDSUhNMG9nS0VJQ0FnTURRNTViSG93RRAB
@@ -444,6 +467,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNENk9xbHlRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNENk9xbHlRRRAB!2m1!1s0x89b62da359c92c1d:0xf361454c2dbb70d5
+review_summary: >-
+  What Customers Are Saying About KENAKI Sushi$$$Folks rave about the fresh and
+  creative sushi options at this spot, with standout rolls and appetizers that
+  keep things exciting and delicious. Many appreciate the generous portions and
+  unique flavors that set it apart from typical sushi places, making it a go-to
+  for satisfying meals with a fun twist. While most dishes hit the mark, a few
+  mentions note that not every roll is a total standout, but overall, the vibe
+  and service add to the appeal. Visitors love the convenient location with easy
+  parking, perfect for casual get-togethers or a quick bite after exploring the
+  area. All in all, it's a solid pick for anyone hunting for great Japanese
+  eats, with plenty of positive vibes that make you want to come back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -476,7 +511,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

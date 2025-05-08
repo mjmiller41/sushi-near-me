@@ -5,4 +5,5 @@ permalink: /colorado/broomfield/
 stateAbbr: CO
 stateName: Colorado
 cityName: Broomfield
+
 ---

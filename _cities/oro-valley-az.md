@@ -5,4 +5,5 @@ permalink: /arizona/oro-valley/
 stateAbbr: AZ
 stateName: Arizona
 cityName: Oro Valley
+
 ---

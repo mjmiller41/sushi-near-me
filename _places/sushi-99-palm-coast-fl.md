@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "sushi 99"
+title: sushi 99
 permalink: /florida/palm-coast/sushi-99.html
 stateAbbr: FL
 stateName: Florida
 cityName: Palm Coast
 seo:
-  name: "sushi 99"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "sushi 99 serves delicious sushi in Palm Coast, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ27GBl02U5ogRd4bmq_VoRWk
 photos:
   - name: >-
@@ -185,7 +183,42 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Sushi 99 in Palm Coast, FL$$$Sushi 99 in Palm Coast, Florida,
+  provides a relaxed setting for savoring fresh sushi and Japanese-inspired
+  dishes in a prime spot along a bustling parkway. This spot stands out with its
+  commitment to accessibility, featuring easy parking, entrances, restrooms, and
+  seating designed for all guests, making it a thoughtful choice for everyone.
+  The vibrant photos showcase an appealing ambiance with well-prepared meals
+  that emphasize quality ingredients, ideal for casual diners or those craving
+  authentic flavors. Whether you're looking for a quick bite or a leisurely
+  meal, it serves as a convenient option for exploring local sushi options in
+  the area.
+generative_summary: >-
+  Discover Sushi 99 in Palm Coast, FL$$$Sushi 99 in Palm Coast, Florida,
+  provides a relaxed setting for savoring fresh sushi and Japanese-inspired
+  dishes in a prime spot along a bustling parkway. This spot stands out with its
+  commitment to accessibility, featuring easy parking, entrances, restrooms, and
+  seating designed for all guests, making it a thoughtful choice for everyone.
+  The vibrant photos showcase an appealing ambiance with well-prepared meals
+  that emphasize quality ingredients, ideal for casual diners or those craving
+  authentic flavors. Whether you're looking for a quick bite or a leisurely
+  meal, it serves as a convenient option for exploring local sushi options in
+  the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About Sushi 99$$$Folks around town often highlight
+  the fresh flavors and solid portions at this cozy sushi spot, making it a
+  go-to for satisfying cravings. Many appreciate the welcoming vibe and helpful
+  staff that add to the overall experience, even if service can vary on busier
+  days. It's frequently noted for its inclusive setup, which helps everyone feel
+  comfortable while enjoying the menu. Overall, sushi enthusiasts tend to
+  recommend it as a reliable choice for quality Japanese fare nearby, though
+  some suggest checking for the latest specials to get the best value. If you're
+  searching for tasty options close to home, this place generally leaves diners
+  pleased with their visit.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +244,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Hokibar"
+title: Hokibar
 permalink: /kansas/overland-park/hokibar.html
 stateAbbr: KS
 stateName: Kansas
 cityName: Overland Park
 seo:
-  name: "Hokibar"
-  type: Restaurant
+  type: restaurant
   links: https://www.hokibarop.com/
-description: "Hokibar serves delicious sushi in Overland Park, Kansas. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJfx3HcbjBwIcRRK_O9UC1CeQ
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $10 &ndash; $20
 rating: '4.8'
 rating_count: 0
 website: https://www.hokibarop.com/
+description: >-
+  Discover Hokibar in Overland Park, KS$$$Hokibar in Overland Park, KS, stands
+  out as a laid-back destination for fresh Asian fusion cuisine that combines
+  quick service with healthy options. This eatery delights visitors with its
+  array of poke bowls, sushi rolls, and refreshing boba tea, all prepared with
+  high-quality ingredients that emphasize flavor and balance. Accessibility
+  features like wheelchair-friendly parking and seating make it welcoming for
+  everyone, while the moderate pricing adds to its appeal for casual diners. The
+  spot's efficient setup and variety of choices cater well to those seeking
+  sushi restaurants in the area, making it a go-to for satisfying meals that
+  blend Japanese-inspired tastes with modern twists.
+generative_summary: >-
+  Discover Hokibar in Overland Park, KS$$$Hokibar in Overland Park, KS, stands
+  out as a laid-back destination for fresh Asian fusion cuisine that combines
+  quick service with healthy options. This eatery delights visitors with its
+  array of poke bowls, sushi rolls, and refreshing boba tea, all prepared with
+  high-quality ingredients that emphasize flavor and balance. Accessibility
+  features like wheelchair-friendly parking and seating make it welcoming for
+  everyone, while the moderate pricing adds to its appeal for casual diners. The
+  spot's efficient setup and variety of choices cater well to those seeking
+  sushi restaurants in the area, making it a go-to for satisfying meals that
+  blend Japanese-inspired tastes with modern twists.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJfx3HcbjBwIcRRK_O9UC1CeQ/reviews/ChZDSUhNMG9nS0VJQ0FnTUNReEl6cWV3EAE
@@ -336,6 +357,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNReEwtZmV3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNReEwtZmV3EAE!2m1!1s0x87c0c1b871c71d7f:0xe409b540f5ceaf44
+review_summary: >-
+  What Customers Are Sharing$$$Folks rave about the tasty poke bowls and sushi
+  rolls at this spot, often highlighting the fresh ingredients and generous
+  portions that make every bite worthwhile. While some mention occasional waits
+  during busy times, many agree the flavorful outcomes more than make up for it,
+  especially for to-go or dine-in orders. Overall, visitors appreciate the solid
+  selection and quality that keeps them coming back for more, with a nod to the
+  reasonable prices and welcoming vibe. Though there are rare concerns about
+  order handling, the general consensus leans positive, painting it as a
+  reliable choice for anyone hunting for top-rated sushi nearby. If you're in
+  the mood for Japanese-inspired eats, this place delivers a satisfying
+  experience that's worth checking out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -368,7 +402,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

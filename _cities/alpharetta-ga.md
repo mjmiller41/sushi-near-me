@@ -5,4 +5,5 @@ permalink: /georgia/alpharetta/
 stateAbbr: GA
 stateName: Georgia
 cityName: Alpharetta
+
 ---

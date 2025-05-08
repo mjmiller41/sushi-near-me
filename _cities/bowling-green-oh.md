@@ -5,4 +5,5 @@ permalink: /ohio/bowling-green/
 stateAbbr: OH
 stateName: Ohio
 cityName: Bowling Green
+
 ---

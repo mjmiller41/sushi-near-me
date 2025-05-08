@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "The Sushi Spot"
+title: The Sushi Spot
 permalink: /oregon/eugene/the-sushi-spot.html
 stateAbbr: OR
 stateName: Oregon
 cityName: Eugene
 seo:
-  name: "The Sushi Spot"
-  type: Restaurant
+  type: restaurant
   links: https://www.thesushispoteugene.com/
-description: "The Sushi Spot serves delicious sushi in Eugene, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJb2_HIGsewVQRfur9BwaQB9E
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x54c11e6b20c76f6f:0xd107900607fdea7e!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 16
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 16
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 4:00 – 10:00 PM'
     - 'Tuesday: Closed'
     - 'Wednesday: 4:00 – 10:00 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 4:00 – 10:00 PM'
     - 'Saturday: 4:00 – 10:00 PM'
     - 'Sunday: 4:00 – 10:00 PM'
-  current:
-    - 'Monday: 4:00 – 10:00 PM'
-    - 'Tuesday: Closed'
-    - 'Wednesday: 4:00 – 10:00 PM'
-    - 'Thursday: 4:00 – 10:00 PM'
-    - 'Friday: 4:00 – 10:00 PM'
-    - 'Saturday: 4:00 – 10:00 PM'
-    - 'Sunday: 4:00 – 10:00 PM'
+  nextOpenTime: '2025-05-03T23:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +238,223 @@ phone: (541) 686-3504
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.6'
-rating_count: 0
+rating_count: 84
 website: https://www.thesushispoteugene.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover The Sushi Spot in Eugene, OR$$$The Sushi Spot in Eugene, OR, offers a
+  laid-back vibe for enjoying fresh Japanese dishes and sushi in a welcoming
+  setting. This spot emphasizes quality ingredients and simple yet flavorful
+  preparations, making it a go-to for sushi enthusiasts seeking everyday dining
+  options. With accessible features like wheelchair-friendly entrances and
+  seating, it's designed for everyone to enjoy a comfortable meal. Operating
+  mainly in the evenings, it provides convenient choices for takeout or dine-in,
+  perfect for those exploring sushi restaurants in the area.
+generative_summary: >-
+  Discover The Sushi Spot in Eugene, OR$$$The Sushi Spot in Eugene, OR, offers a
+  laid-back vibe for enjoying fresh Japanese dishes and sushi in a welcoming
+  setting. This spot emphasizes quality ingredients and simple yet flavorful
+  preparations, making it a go-to for sushi enthusiasts seeking everyday dining
+  options. With accessible features like wheelchair-friendly entrances and
+  seating, it's designed for everyone to enjoy a comfortable meal. Operating
+  mainly in the evenings, it provides convenient choices for takeout or dine-in,
+  perfect for those exploring sushi restaurants in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJb2_HIGsewVQRfur9BwaQB9E/reviews/ChdDSUhNMG9nS0VJQ0FnTUNvdzl2OTBBRRAB
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        Great little spot. Nothing fancy about it, but the food was great at a
+        great price point. Everyone who works there is super friendly and
+        inviting. If you are looking for a fancy sushi place, this isn't it, but
+        if you want good food at a decent price, this is your jam.
+      languageCode: en
+    originalText:
+      text: >-
+        Great little spot. Nothing fancy about it, but the food was great at a
+        great price point. Everyone who works there is super friendly and
+        inviting. If you are looking for a fancy sushi place, this isn't it, but
+        if you want good food at a decent price, this is your jam.
+      languageCode: en
+    authorAttribution:
+      displayName: Courtenay Burke
+      uri: https://www.google.com/maps/contrib/105351371608634809395/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJ9Z6IqneM67nSN6DX3d4APrrh-NWB8Boe5MCMX0apr8v098Q=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-19T13:36:26.455785Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNvdzl2OTBBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNvdzl2OTBBRRAB!2m1!1s0x54c11e6b20c76f6f:0xd107900607fdea7e
+  - name: >-
+      places/ChIJb2_HIGsewVQRfur9BwaQB9E/reviews/ChdDSUhNMG9nS0VJQ0FnTURJaWJiWGd3RRAB
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 5
+    text:
+      text: >-
+        My husband and I ordered the following classic sushi rolls:  yellowtail
+        with avocado, eel, spicy tuna and spicy California.  We also ordered
+        miso.  Everything was so fresh and delicious.  It's not a fancy place, 
+        Everything is served in plastic containers, but this was the best sushi
+        we've had in a long time.
+      languageCode: en
+    originalText:
+      text: >-
+        My husband and I ordered the following classic sushi rolls:  yellowtail
+        with avocado, eel, spicy tuna and spicy California.  We also ordered
+        miso.  Everything was so fresh and delicious.  It's not a fancy place, 
+        Everything is served in plastic containers, but this was the best sushi
+        we've had in a long time.
+      languageCode: en
+    authorAttribution:
+      displayName: Teresa Nichols
+      uri: https://www.google.com/maps/contrib/114003025452864935534/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLAI8mkqetCdouPwxJZeuhmBwcdS3Zvm1yXEyAXxaJ4Acarqg=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-11T00:27:45.459249Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJaWJiWGd3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJaWJiWGd3RRAB!2m1!1s0x54c11e6b20c76f6f:0xd107900607fdea7e
+  - name: >-
+      places/ChIJb2_HIGsewVQRfur9BwaQB9E/reviews/ChdDSUhNMG9nS0VJQ0FnTURRdHE3NjJRRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Just needed a hangover bite and was delighted to find what a good spot
+        this is. The fish was so fresh, the rice fluffy, and the tempura was
+        airy and crispy. Simple and flavorful rolls- couldn't ask for more tbh.
+        Tastiest sushi I've had in a long time.
+      languageCode: en
+    originalText:
+      text: >-
+        Just needed a hangover bite and was delighted to find what a good spot
+        this is. The fish was so fresh, the rice fluffy, and the tempura was
+        airy and crispy. Simple and flavorful rolls- couldn't ask for more tbh.
+        Tastiest sushi I've had in a long time.
+      languageCode: en
+    authorAttribution:
+      displayName: Sinclair Cúthalion
+      uri: https://www.google.com/maps/contrib/103346829856868466827/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUHSPAk6ep9yvw3p82zM2lqhcSiBWGOO8sD7r9DGLI9wVBbsTo=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-11T01:32:04.350576Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURRdHE3NjJRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURRdHE3NjJRRRAB!2m1!1s0x54c11e6b20c76f6f:0xd107900607fdea7e
+  - name: >-
+      places/ChIJb2_HIGsewVQRfur9BwaQB9E/reviews/ChdDSUhNMG9nS0VJQ0FnSURiZ2FicGdnRRAB
+    relativePublishTimeDescription: 9 months ago
+    rating: 5
+    text:
+      text: >-
+        The quality and quantity of sushi here is better than many more
+        expensive places I've been to! The nigiri especially is large and really
+        melts in your mouth with the slightly warm rice.
+
+        Sure the "atmosphere" is lacking, but this is a takeout place. I saw 5
+        or 6 orders go out the door as I ate. It's cool that they let you eat in
+        if you would like, and the service is good.
+
+        I've added the full menu as of 8/5/2024.
+      languageCode: en
+    originalText:
+      text: >-
+        The quality and quantity of sushi here is better than many more
+        expensive places I've been to! The nigiri especially is large and really
+        melts in your mouth with the slightly warm rice.
+
+        Sure the "atmosphere" is lacking, but this is a takeout place. I saw 5
+        or 6 orders go out the door as I ate. It's cool that they let you eat in
+        if you would like, and the service is good.
+
+        I've added the full menu as of 8/5/2024.
+      languageCode: en
+    authorAttribution:
+      displayName: Mara Folse
+      uri: https://www.google.com/maps/contrib/100943163143558984944/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUWxyKOze6R5mmkMTONJcDEoACYHX4KIUQlbTCd9uAJIwoQn6qEUA=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-08-06T03:54:54.383754Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURiZ2FicGdnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURiZ2FicGdnRRAB!2m1!1s0x54c11e6b20c76f6f:0xd107900607fdea7e
+  - name: >-
+      places/ChIJb2_HIGsewVQRfur9BwaQB9E/reviews/ChZDSUhNMG9nS0VJQ0FnSUNmMzUyb0d3EAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        This is the best sushi I’ve ever had. We had The Spot, the Rainbow Roll,
+        Tempura roll, California roll, and seaweed salad. The service was
+        fantastic. They brought out our food very quickly and were super
+        friendly. They even gave us edamame on the house. I would definitely
+        recommend.
+      languageCode: en
+    originalText:
+      text: >-
+        This is the best sushi I’ve ever had. We had The Spot, the Rainbow Roll,
+        Tempura roll, California roll, and seaweed salad. The service was
+        fantastic. They brought out our food very quickly and were super
+        friendly. They even gave us edamame on the house. I would definitely
+        recommend.
+      languageCode: en
+    authorAttribution:
+      displayName: Sagefire
+      uri: https://www.google.com/maps/contrib/101100339470301036764/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWgIiaf-uYueSflvWYOlqNS4tekVJDJu5SNo7aWV-tJnETXbLfc_w=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-01-03T02:11:03.109496Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNmMzUyb0d3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNmMzUyb0d3EAE!2m1!1s0x54c11e6b20c76f6f:0xd107900607fdea7e
+review_summary: >-
+  What Customers Are Saying$$$Visitors consistently praise the fresh flavors and
+  generous portions at this casual sushi spot, highlighting it as a solid pick
+  for affordable Japanese eats. Many note the friendly service and quick
+  delivery of orders, adding to the overall enjoyable experience without any
+  frills. Reviewers often mention the high-quality fish and tasty rolls that
+  deliver great value, making it a favorite for anyone craving reliable sushi
+  options nearby. While it's not upscale, the consensus is that the food stands
+  out as some of the best around, encouraging folks to give it a try for a
+  satisfying meal.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
+delivery: true
+dine_in: true
+good_for_children: true
 good_for_groups: null
-good_for_sports: null
-live_music: null
+good_for_sports: false
+live_music: false
 menu_for_children: null
 outdoor_seating: null
 reservable: null
-restroom: null
+restroom: true
 serves_beer: null
 serves_breakfast: null
 serves_brunch: null
 serves_cocktails: null
 serves_coffee: null
-serves_dinner: null
+serves_dinner: true
 serves_dessert: null
-serves_lunch: null
+serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

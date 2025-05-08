@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Cloud 9 Sushi"
+title: Cloud 9 Sushi
 permalink: /ohio/cincinnati/cloud-9-sushi.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Cincinnati
 seo:
-  name: "Cloud 9 Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://c9sushi.com/
-description: "Cloud 9 Sushi serves delicious sushi in Cincinnati, Ohio. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJU725to2tQYgR4REZO31T0gE
 photos:
   - name: >-
@@ -168,7 +166,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8841ad8db6b9bd53:0x1d2537d3b1911e1!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 1
+        hour: 2
+        minute: 0
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 2
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 2
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 2
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 2
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 2
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 2
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 5:00 PM – 2:00 AM'
     - 'Tuesday: 5:00 PM – 2:00 AM'
     - 'Wednesday: 5:00 PM – 2:00 AM'
@@ -176,14 +232,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 2:00 AM'
     - 'Saturday: 11:30 AM – 2:00 AM'
     - 'Sunday: 12:00 PM – 2:00 AM'
-  current:
-    - 'Monday: 5:00 PM – 2:00 AM'
-    - 'Tuesday: 5:00 PM – 2:00 AM'
-    - 'Wednesday: 5:00 PM – 2:00 AM'
-    - 'Thursday: 5:00 PM – 2:00 AM'
-    - 'Friday: 11:30 AM – 2:00 AM'
-    - 'Saturday: 11:30 AM – 2:00 AM'
-    - 'Sunday: 12:00 PM – 2:00 AM'
+  nextCloseTime: '2025-05-04T06:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -195,9 +244,45 @@ phone: (513) 533-9218
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.4'
-rating_count: 0
+rating_count: 1545
 website: https://c9sushi.com/
+description: >-
+  Discover Cloud 9 Sushi in Cincinnati$$$Cloud 9 Sushi in Cincinnati, OH, stands
+  out as a vibrant sushi destination known for its diverse selection of fresh
+  rolls and innovative flavors. This spot caters to late-night cravings with an
+  array of creative options, including crispy fried varieties and flavorful
+  Thai-inspired dishes like pad Thai, making it a go-to for those seeking
+  variety after hours. Nestled in a welcoming neighborhood, the restaurant
+  offers accessible seating and a relaxed atmosphere that enhances the dining
+  experience. With extended hours into the early morning, it's ideal for casual
+  meals or gatherings, appealing to anyone exploring top sushi spots in the
+  area.
+generative_summary: >-
+  Discover Cloud 9 Sushi in Cincinnati$$$Cloud 9 Sushi in Cincinnati, OH, stands
+  out as a vibrant sushi destination known for its diverse selection of fresh
+  rolls and innovative flavors. This spot caters to late-night cravings with an
+  array of creative options, including crispy fried varieties and flavorful
+  Thai-inspired dishes like pad Thai, making it a go-to for those seeking
+  variety after hours. Nestled in a welcoming neighborhood, the restaurant
+  offers accessible seating and a relaxed atmosphere that enhances the dining
+  experience. With extended hours into the early morning, it's ideal for casual
+  meals or gatherings, appealing to anyone exploring top sushi spots in the
+  area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Buzzing About$$$Visitors to this Cincinnati sushi favorite
+  often rave about the consistently fresh and creative dishes that keep them
+  coming back for more. Many appreciate the flavorful rolls and unique twists
+  like fried options, noting that the overall experience feels satisfying and
+  well worth the visit. While some mention wait times during peak hours, the
+  general consensus highlights the friendly vibe and solid value for the price,
+  making it a reliable choice for groups or solo diners. Overall, folks seem to
+  enjoy the welcoming setting and tasty selections, positioning it as one of the
+  better sushi places around for anyone searching locally. With its strong
+  ratings, it's clear this spot delivers a positive experience that leaves
+  people eager to return.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -223,7 +308,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

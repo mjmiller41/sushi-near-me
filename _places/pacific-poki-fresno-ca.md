@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Pacific Poki"
+title: Pacific Poki
 permalink: /california/fresno/pacific-poki.html
 stateAbbr: CA
 stateName: California
 cityName: Fresno
 seo:
-  name: "Pacific Poki"
-  type: Restaurant
+  type: restaurant
   links: https://g2foodcorp.wixsite.com/pacificpoki
-description: "Pacific Poki serves delicious sushi in Fresno, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJs80yB7JZlIARShsgA1qO-OM
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x809459b20732cdb3:0xe3f88e5a03201b4a!10e5
 primary_type: American Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 19
+        minute: 0
+    - open:
+        day: 1
+        hour: 10
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 10
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 10
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 10
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 10
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 10
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 10:00 AM – 9:00 PM'
     - 'Tuesday: 10:00 AM – 9:00 PM'
     - 'Wednesday: 10:00 AM – 9:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 10:00 AM – 9:00 PM'
     - 'Saturday: 10:00 AM – 9:00 PM'
     - 'Sunday: 11:00 AM – 7:00 PM'
-  current:
-    - 'Monday: 10:00 AM – 9:00 PM'
-    - 'Tuesday: 10:00 AM – 9:00 PM'
-    - 'Wednesday: 10:00 AM – 9:00 PM'
-    - 'Thursday: 10:00 AM – 9:00 PM'
-    - 'Friday: 10:00 AM – 9:00 PM'
-    - 'Saturday: 10:00 AM – 9:00 PM'
-    - 'Sunday: 11:00 AM – 7:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,36 +245,244 @@ secondary_opening_hours:
 phone: (559) 375-1969
 price_level: null
 price_range: $10 &ndash; $20
-rating: '4.3'
-rating_count: 0
+rating: '4.2'
+rating_count: 71
 website: https://g2foodcorp.wixsite.com/pacificpoki
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  About Pacific Poki in Fresno, CA$$$Pacific Poki in Fresno, CA, stands out as a
+  trendy spot for enjoying fresh poke bowls made with high-quality ingredients.
+  This casual eatery emphasizes healthy options, blending vibrant flavors and
+  nutritious choices in every dish, making it a go-to for those seeking light,
+  satisfying meals. With its welcoming atmosphere and thoughtful accessibility
+  features like wheelchair-friendly entrances and seating, it caters to a wide
+  range of diners looking for a relaxed dining experience. The spot's focus on
+  fresh seafood and customizable bowls adds to its appeal, positioning it as a
+  solid choice among sushi-inspired places near me for anyone craving wholesome,
+  flavorful options on the go.
+generative_summary: >-
+  About Pacific Poki in Fresno, CA$$$Pacific Poki in Fresno, CA, stands out as a
+  trendy spot for enjoying fresh poke bowls made with high-quality ingredients.
+  This casual eatery emphasizes healthy options, blending vibrant flavors and
+  nutritious choices in every dish, making it a go-to for those seeking light,
+  satisfying meals. With its welcoming atmosphere and thoughtful accessibility
+  features like wheelchair-friendly entrances and seating, it caters to a wide
+  range of diners looking for a relaxed dining experience. The spot's focus on
+  fresh seafood and customizable bowls adds to its appeal, positioning it as a
+  solid choice among sushi-inspired places near me for anyone craving wholesome,
+  flavorful options on the go.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJs80yB7JZlIARShsgA1qO-OM/reviews/ChdDSUhNMG9nS0VJQ0FnTUNRaFAzcF9RRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        Pacific Poke offers a fantastic experience from start to finish. I was
+        warmly greeted by the manager, who provided me a sample and great
+        recommendations. The poke bowl was fresh, flavorful, and truly
+        enjoyable. I highly recommend!
+      languageCode: en
+    originalText:
+      text: >-
+        Pacific Poke offers a fantastic experience from start to finish. I was
+        warmly greeted by the manager, who provided me a sample and great
+        recommendations. The poke bowl was fresh, flavorful, and truly
+        enjoyable. I highly recommend!
+      languageCode: en
+    authorAttribution:
+      displayName: KD Falls
+      uri: https://www.google.com/maps/contrib/111935690298681030986/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVNWyv8SjD_6uAzBpDx3P_J5ZfpzHn1hoP6fVd0JnTwqgfHd2ZY5g=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-03-02T00:25:16.759049Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNRaFAzcF9RRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNRaFAzcF9RRRAB!2m1!1s0x809459b20732cdb3:0xe3f88e5a03201b4a
+  - name: >-
+      places/ChIJs80yB7JZlIARShsgA1qO-OM/reviews/ChZDSUhNMG9nS0VJQ0FnSUNCanRla1dBEAE
+    relativePublishTimeDescription: 2 years ago
+    rating: 3
+    text:
+      text: >-
+        Very neat new place, owners did all the construction work themselves.
+        Lovely wooden accent wall and epoxy flooring. The service is good, and I
+        can tell the staff gets overwhelmed by the door dash calls, the toppings
+        looked fresh, I think some proportioning training is still needed. I say
+        that because the staff was being very careful with the scooping and
+        putting some back and the sauce was way too much and it soaked the rice,
+        was too salty to eat the bottom portions. Maybe come up with a better
+        way to potion control and scoop with a system in place. It’s okay to
+        weight at first
+      languageCode: en
+    originalText:
+      text: >-
+        Very neat new place, owners did all the construction work themselves.
+        Lovely wooden accent wall and epoxy flooring. The service is good, and I
+        can tell the staff gets overwhelmed by the door dash calls, the toppings
+        looked fresh, I think some proportioning training is still needed. I say
+        that because the staff was being very careful with the scooping and
+        putting some back and the sauce was way too much and it soaked the rice,
+        was too salty to eat the bottom portions. Maybe come up with a better
+        way to potion control and scoop with a system in place. It’s okay to
+        weight at first
+      languageCode: en
+    authorAttribution:
+      displayName: Jay Wu
+      uri: https://www.google.com/maps/contrib/106752713490667721256/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWkeHnxSTrlj0rNpY1NG4i82oi6I2d4RP2_jo-rrMDV2A3yQmsS=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2022-12-25T16:46:32.530281Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNCanRla1dBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNCanRla1dBEAE!2m1!1s0x809459b20732cdb3:0xe3f88e5a03201b4a
+  - name: >-
+      places/ChIJs80yB7JZlIARShsgA1qO-OM/reviews/ChdDSUhNMG9nS0VJQ0FnTURBbThfTjFBRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 1
+    text:
+      text: >-
+        I've eaten here dozens of times, today I came in and ordered what I
+        wanted. I was told my rice needed to cool and the young lady took 20+
+        minutes to wait on the people behind me. Unacceptable behavior and
+        terrible service. Also it was made up. The rice was fine as it was. I
+        walked out after waiting over 20 minutes for people behind me in line to
+        be waited on. I doubt yall can afford this level of service for regular
+        paying customers. I won't be back to find out though.
+      languageCode: en
+    originalText:
+      text: >-
+        I've eaten here dozens of times, today I came in and ordered what I
+        wanted. I was told my rice needed to cool and the young lady took 20+
+        minutes to wait on the people behind me. Unacceptable behavior and
+        terrible service. Also it was made up. The rice was fine as it was. I
+        walked out after waiting over 20 minutes for people behind me in line to
+        be waited on. I doubt yall can afford this level of service for regular
+        paying customers. I won't be back to find out though.
+      languageCode: en
+    authorAttribution:
+      displayName: A. F.
+      uri: https://www.google.com/maps/contrib/101331083986810514023/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUr0weAe4lE8BXeAT2WgQkQVPDEDs1jpWxZV0L0Ax4-8SsBBDw=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-02-12T02:46:43.730060Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURBbThfTjFBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURBbThfTjFBRRAB!2m1!1s0x809459b20732cdb3:0xe3f88e5a03201b4a
+  - name: >-
+      places/ChIJs80yB7JZlIARShsgA1qO-OM/reviews/ChdDSUhNMG9nS0VJQ0FnTUNRd1p5ZjVBRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 1
+    text:
+      text: >-
+        Came here today and the service was good but everything in the bowl
+        tasted refrigerated. The crab and shrimp tasted like bleach now my
+        husband and I left with headaches and an empty stomach. Extremely
+        disappointing waste of $40.
+      languageCode: en
+    originalText:
+      text: >-
+        Came here today and the service was good but everything in the bowl
+        tasted refrigerated. The crab and shrimp tasted like bleach now my
+        husband and I left with headaches and an empty stomach. Extremely
+        disappointing waste of $40.
+      languageCode: en
+    authorAttribution:
+      displayName: jackie
+      uri: https://www.google.com/maps/contrib/112809222647403554077/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXJsW8sTilAVjWD8tM8tk5If0ibo2Yqf1zflt_niQ6_-OkteI8FDA=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-04T21:36:19.057988Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNRd1p5ZjVBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNRd1p5ZjVBRRAB!2m1!1s0x809459b20732cdb3:0xe3f88e5a03201b4a
+  - name: >-
+      places/ChIJs80yB7JZlIARShsgA1qO-OM/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJak5uMkp3EAE
+    relativePublishTimeDescription: a month ago
+    rating: 1
+    text:
+      text: >-
+        I'm just leaving the review because this place is always really awesome.
+        And most of the time I go in there they're young ladies who work there,
+        Who are excellent, But this time there was a taller guy who was acting
+        like he was sick , sniffling and he grabbed his gloves and he blew into
+        his gloves. halfway on top of his gloves and inside of his gloves while
+        standing over the food so basically all of his stuff inside his mouth.  
+        Went all over the food and all over his gloves, and I'm not gonna eat at
+        a place that does that. That's disgusting.Nobody wants to eat
+        food.That's been blown on by someone else.
+      languageCode: en
+    originalText:
+      text: >-
+        I'm just leaving the review because this place is always really awesome.
+        And most of the time I go in there they're young ladies who work there,
+        Who are excellent, But this time there was a taller guy who was acting
+        like he was sick , sniffling and he grabbed his gloves and he blew into
+        his gloves. halfway on top of his gloves and inside of his gloves while
+        standing over the food so basically all of his stuff inside his mouth.  
+        Went all over the food and all over his gloves, and I'm not gonna eat at
+        a place that does that. That's disgusting.Nobody wants to eat
+        food.That's been blown on by someone else.
+      languageCode: en
+    authorAttribution:
+      displayName: Rich San
+      uri: https://www.google.com/maps/contrib/109813973438944323108/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWYRGIxTwgzhOHTlDdkMKnMaoEt3XV8X8bls0lSXVfzpRNjf3b0=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-03-30T21:25:22.355070Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNJak5uMkp3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNJak5uMkp3EAE!2m1!1s0x809459b20732cdb3:0xe3f88e5a03201b4a
+review_summary: >-
+  Customer Feedback Highlights$$$Visitors to this poke spot often praise the
+  fresh ingredients and tasty bowls that make for a satisfying meal, though some
+  mention occasional inconsistencies in service that could use improvement. Many
+  appreciate the welcoming vibe and variety of toppings, helping it maintain a
+  strong reputation for quick, healthy eats in a casual setting. While a few
+  notes point to wait times or portion sizes not always hitting the mark, the
+  overall experience leans positive with flavors that keep people coming back
+  for more. It's clear that the dedication to fresh preparations shines through,
+  offering a reliable option for those exploring top-rated sushi alternatives
+  nearby, as long as you plan your visit accordingly.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
 outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+reservable: true
+restroom: true
+serves_beer: false
 serves_breakfast: null
 serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
+serves_cocktails: false
+serves_coffee: false
+serves_dinner: true
 serves_dessert: null
-serves_lunch: null
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: false
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

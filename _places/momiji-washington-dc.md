@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Momiji"
+title: Momiji
 permalink: /district-of-columbia/washington/momiji.html
 stateAbbr: DC
 stateName: District of Columbia
 cityName: Washington
 seo:
-  name: "Momiji"
-  type: Restaurant
+  type: restaurant
   links: http://www.momijidc.com/
-description: "2-level spot with deck turning out hibachi dishes & creatively named rolls, plus handmade cocktails. Momiji serves delicious sushi in Washington, District of Columbia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJeyECzY23t4kRd6wE5kbVDzo
 photos:
   - name: >-
@@ -184,12 +182,47 @@ price_range: $20 &mdash; 30
 rating: '4.3'
 rating_count: 0
 website: http://www.momijidc.com/
+description: >-
+  Explore Momiji in Washington, DC$$$Momiji in Washington, DC, stands out as a
+  vibrant Japanese restaurant offering an array of fresh hibachi dishes and
+  inventive sushi rolls that capture the essence of authentic flavors. The
+  two-level venue features a welcoming deck, perfect for enjoying handmade
+  cocktails and a relaxed dining experience, making it ideal for groups seeking
+  a casual yet elegant meal. With options for delivery and vegetarian-friendly
+  choices, this spot combines convenience with high-quality ingredients to
+  appeal to a wide range of tastes. It's a great destination for those exploring
+  Japanese places near me, where the focus on flavorful meals and a cozy
+  atmosphere ensures every visit feels special.
+generative_summary: >-
+  Explore Momiji in Washington, DC$$$Momiji in Washington, DC, stands out as a
+  vibrant Japanese restaurant offering an array of fresh hibachi dishes and
+  inventive sushi rolls that capture the essence of authentic flavors. The
+  two-level venue features a welcoming deck, perfect for enjoying handmade
+  cocktails and a relaxed dining experience, making it ideal for groups seeking
+  a casual yet elegant meal. With options for delivery and vegetarian-friendly
+  choices, this spot combines convenience with high-quality ingredients to
+  appeal to a wide range of tastes. It's a great destination for those exploring
+  Japanese places near me, where the focus on flavorful meals and a cozy
+  atmosphere ensures every visit feels special.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - ChdDSUhNMG9nS0VJQ0FnTUNRck5QdHZBRRAB
   - ChZDSUhNMG9nS0VJQ0FnTURnNHE2RldBEAE
   - ChdDSUhNMG9nS0VJQ0FnSUNQeExtdnp3RRAB
   - ChdDSUhNMG9nS0VJQ0FnSURSLXZ6RmxBRRAB
   - ChdDSUhNMG9nS0VJQ0FnSUMweWJxanh3RRAB
+review_summary: >-
+  Customer Feedback on Momiji$$$Visitors to this sushi spot often highlight the
+  fresh and creative rolls that make it one of the top-rated options for sushi
+  near me, with many praising the flavorful hibachi selections and attentive
+  service. Folks appreciate the welcoming vibe and solid cocktail offerings,
+  noting that it's a reliable choice for casual dinners or group outings without
+  any major drawbacks. While some mention the moderate pricing as a plus for
+  value, others enjoy the variety that keeps things exciting for repeat visits.
+  Overall, the positive buzz around Momiji suggests it's a go-to for anyone
+  searching sushi restaurants near me, delivering a satisfying experience that's
+  worth checking out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: {}
 payment_options:
   acceptsCreditCards: true
@@ -218,8 +251,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   2-level spot with deck turning out hibachi dishes & creatively named rolls,
   plus handmade cocktails.
 

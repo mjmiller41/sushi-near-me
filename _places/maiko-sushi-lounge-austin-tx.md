@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Maiko Sushi Lounge"
+title: Maiko Sushi Lounge
 permalink: /texas/austin/maiko-sushi-lounge.html
 stateAbbr: TX
 stateName: Texas
 cityName: Austin
 seo:
-  name: "Maiko Sushi Lounge"
-  type: Restaurant
+  type: restaurant
   links: https://maikoaustin.com/
-description: "Maiko Sushi Lounge serves delicious sushi in Austin, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJoW_YQQm1RIYRje-5l3dxmz0
 photos:
   - name: >-
@@ -170,7 +168,105 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8644b50941d86fa1:0x3d9b717797b9ef8d!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 30
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 14
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 0
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 30
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 2:00 PM, 4:00 – 10:00 PM'
     - 'Tuesday: 11:30 AM – 2:00 PM, 4:00 – 10:00 PM'
     - 'Wednesday: 11:30 AM – 2:00 PM, 4:00 – 10:00 PM'
@@ -178,14 +274,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 2:00 PM, 4:00 – 11:00 PM'
     - 'Saturday: 12:30 – 11:00 PM'
     - 'Sunday: 12:30 – 10:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 2:00 PM, 4:00 – 10:00 PM'
-    - 'Tuesday: 11:30 AM – 2:00 PM, 4:00 – 10:00 PM'
-    - 'Wednesday: 11:30 AM – 2:00 PM, 4:00 – 10:00 PM'
-    - 'Thursday: 11:30 AM – 2:00 PM, 4:00 – 10:00 PM'
-    - 'Friday: 11:30 AM – 2:00 PM, 4:00 – 11:00 PM'
-    - 'Saturday: 12:30 – 11:00 PM'
-    - 'Sunday: 12:30 – 10:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +286,48 @@ phone: (512) 852-8118
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.3'
-rating_count: 0
+rating_count: 1089
 website: https://maikoaustin.com/
+description: >-
+  Discover Maiko Sushi Lounge in Austin, TX$$$Maiko Sushi Lounge in Austin,
+  Texas, is a welcoming Japanese eatery that combines casual vibes with fresh,
+  inventive dishes, making it a go-to for sushi lovers in the area. This spot
+  features an array of specialty rolls and veggie options, along with fun
+  additions like sake bombs and creative twists on comfort food, appealing to a
+  wide range of tastes. Nestled in the bustling Downtown Austin neighborhood, it
+  offers easy access and thoughtful accessibility features, ensuring a
+  comfortable visit for everyone. With flexible hours including lunch and dinner
+  service, it's ideal for spontaneous meals or relaxed evenings. If you're
+  exploring sushi restaurants near you or seeking top-rated Japanese places in
+  the city, this location delivers a memorable blend of flavors and ambiance
+  that keeps diners returning.
+generative_summary: >-
+  Discover Maiko Sushi Lounge in Austin, TX$$$Maiko Sushi Lounge in Austin,
+  Texas, is a welcoming Japanese eatery that combines casual vibes with fresh,
+  inventive dishes, making it a go-to for sushi lovers in the area. This spot
+  features an array of specialty rolls and veggie options, along with fun
+  additions like sake bombs and creative twists on comfort food, appealing to a
+  wide range of tastes. Nestled in the bustling Downtown Austin neighborhood, it
+  offers easy access and thoughtful accessibility features, ensuring a
+  comfortable visit for everyone. With flexible hours including lunch and dinner
+  service, it's ideal for spontaneous meals or relaxed evenings. If you're
+  exploring sushi restaurants near you or seeking top-rated Japanese places in
+  the city, this location delivers a memorable blend of flavors and ambiance
+  that keeps diners returning.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Visitors frequently highlight the fresh ingredients
+  and creative rolls at this sushi spot, praising the variety that makes every
+  meal feel exciting and satisfying. Many enjoy the laid-back atmosphere and
+  efficient service, which add to the overall enjoyable experience without any
+  major hiccups. While some note that prices lean toward the moderate side, most
+  agree the quality and presentation make it a solid choice for a special night
+  out or casual bite. It's often recommended as one of the best sushi options
+  nearby, with folks appreciating the unique menu items that go beyond the
+  basics. Overall, the strong ratings suggest a reliably positive vibe, perfect
+  for anyone craving top-rated sushi close to home.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +353,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

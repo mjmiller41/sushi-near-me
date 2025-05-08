@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Takka Sushi Bar & Grill"
+title: Takka Sushi Bar & Grill
 permalink: /california/santee/takka-sushi-bar-grill.html
 stateAbbr: CA
 stateName: California
 cityName: Santee
 seo:
-  name: "Takka Sushi Bar & Grill"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Takka Sushi Bar & Grill serves delicious sushi in Santee, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJlftt9lX924ARoXnrFl1ZIJ4
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80dbfd55f66dfb95:0x9e20595d16eb79a1!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:00 PM'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:00 PM'
     - 'Saturday: 11:00 AM – 9:00 PM'
     - 'Sunday: 12:30 – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 9:00 PM'
-    - 'Saturday: 11:00 AM – 9:00 PM'
-    - 'Sunday: 12:30 – 9:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +246,49 @@ phone: (619) 562-8006
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.5'
-rating_count: 0
+rating_count: 469
 website: null
+description: >-
+  Discover Takka Sushi in Santee, CA$$$Takka Sushi Bar & Grill in Santee,
+  California, stands out as a welcoming spot for enjoying fresh
+  Japanese-inspired dishes in a relaxed setting. Nestled in a convenient
+  shopping center, this sushi restaurant offers an array of creative rolls,
+  paired perfectly with selections of beer, wine, and sake for a complete dining
+  experience. Patrons appreciate the accessible features, including
+  wheelchair-friendly parking and seating, making it easy for everyone to savor
+  the flavors. The spot's consistent hours from late morning to evening ensure
+  it's a reliable choice for a casual meal, whether you're craving top-rated
+  sushi options or exploring Japanese places nearby. With its focus on quality
+  ingredients and a cozy atmosphere, it's an ideal destination for anyone
+  seeking great sushi experiences in the area.
+generative_summary: >-
+  Discover Takka Sushi in Santee, CA$$$Takka Sushi Bar & Grill in Santee,
+  California, stands out as a welcoming spot for enjoying fresh
+  Japanese-inspired dishes in a relaxed setting. Nestled in a convenient
+  shopping center, this sushi restaurant offers an array of creative rolls,
+  paired perfectly with selections of beer, wine, and sake for a complete dining
+  experience. Patrons appreciate the accessible features, including
+  wheelchair-friendly parking and seating, making it easy for everyone to savor
+  the flavors. The spot's consistent hours from late morning to evening ensure
+  it's a reliable choice for a casual meal, whether you're craving top-rated
+  sushi options or exploring Japanese places nearby. With its focus on quality
+  ingredients and a cozy atmosphere, it's an ideal destination for anyone
+  seeking great sushi experiences in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Buzzing About$$$Visitors to this sushi spot often rave
+  about the fresh, flavorful rolls and the solid variety that keeps things
+  exciting without overwhelming the menu. Many highlight the friendly service
+  and welcoming vibe, making it a go-to for quick lunches or relaxed dinners
+  with friends. While some note that portions are just right for the price,
+  others appreciate the beer and sake pairings that enhance the overall meal.
+  Overall, the high ratings reflect a consensus that it's a solid pick for
+  anyone hunting for reliable sushi close to home, with few complaints about
+  wait times or consistency. If you're on the hunt for tasty Japanese eats, this
+  place delivers a consistently positive experience that leaves diners satisfied
+  and eager to return.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +314,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

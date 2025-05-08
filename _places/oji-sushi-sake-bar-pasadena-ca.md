@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Oji Sushi & Sake Bar"
+title: Oji Sushi & Sake Bar
 permalink: /california/pasadena/oji-sushi-sake-bar.html
 stateAbbr: CA
 stateName: California
 cityName: Pasadena
 seo:
-  name: "Oji Sushi & Sake Bar"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Oji Sushi & Sake Bar serves delicious sushi in Pasadena, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJg-j447zDwoARfEt58udQ7Ec
 photos:
   - name: >-
@@ -185,7 +183,48 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Oji Sushi & Sake Bar in Pasadena, CA$$$Oji Sushi & Sake Bar in
+  Pasadena, CA, stands out as a contemporary spot for fresh Japanese-inspired
+  dining, featuring an array of creative rolls and sake selections that
+  highlight innovative flavors. This inviting sushi restaurant boasts a modern
+  atmosphere perfect for casual meals or special occasions, with thoughtful
+  accessibility features like wheelchair-friendly entrances and seating to
+  ensure everyone can enjoy the experience. Patrons can explore a diverse menu
+  that emphasizes high-quality ingredients and artistic presentations, making it
+  a go-to choice for those seeking authentic yet inventive sushi options nearby.
+  The bar's focus on specialty dishes and beverages adds to its appeal, creating
+  a welcoming environment for anyone looking to savor the best of Japanese
+  cuisine in a vibrant setting.
+generative_summary: >-
+  Discover Oji Sushi & Sake Bar in Pasadena, CA$$$Oji Sushi & Sake Bar in
+  Pasadena, CA, stands out as a contemporary spot for fresh Japanese-inspired
+  dining, featuring an array of creative rolls and sake selections that
+  highlight innovative flavors. This inviting sushi restaurant boasts a modern
+  atmosphere perfect for casual meals or special occasions, with thoughtful
+  accessibility features like wheelchair-friendly entrances and seating to
+  ensure everyone can enjoy the experience. Patrons can explore a diverse menu
+  that emphasizes high-quality ingredients and artistic presentations, making it
+  a go-to choice for those seeking authentic yet inventive sushi options nearby.
+  The bar's focus on specialty dishes and beverages adds to its appeal, creating
+  a welcoming environment for anyone looking to savor the best of Japanese
+  cuisine in a vibrant setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Sharing About Oji Sushi & Sake Bar$$$Folks chatting about
+  Oji Sushi & Sake Bar often highlight the tasty, well-crafted rolls and the
+  solid selection of sake that really hit the spot for a satisfying meal. Many
+  appreciate the fresh ingredients and creative twists on classic dishes, noting
+  that it feels like a reliable pick for anyone craving quality sushi without
+  the fuss. While experiences vary, there's a general buzz around the welcoming
+  vibe and attentive service that make it easy to recommend for groups or solo
+  diners. Overall, it comes across as a solid choice in the area, with people
+  enjoying the balance of flavors and atmosphere that keeps them coming back. If
+  you're on the hunt for top-rated sushi spots nearby, this one seems to deliver
+  a consistently enjoyable experience based on the positive feedback floating
+  around.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +250,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -1,15 +1,14 @@
 ---
 layout: place
-title: "Sushi By Bou- DC @ CitizenM Hotel L'enfant Plaza"
-permalink: /district-of-columbia/washington/sushi-by-bou-dc-citizenm-hotel-l-enfant-plaza.html
+title: Sushi By Bou- DC @ CitizenM Hotel L'enfant Plaza
+permalink: >-
+  /district-of-columbia/washington/sushi-by-bou-dc-citizenm-hotel-l-enfant-plaza.html
 stateAbbr: DC
 stateName: District of Columbia
 cityName: Washington
 seo:
-  name: "Sushi By Bou- DC @ CitizenM Hotel L'enfant Plaza"
-  type: Restaurant
+  type: restaurant
   links: https://sushibybou.com/
-description: "Located on the roof of the CitizenM Hotel, this trendy spot pairs sushi with sake and cocktails. Sushi By Bou- DC @ CitizenM Hotel L'enfant Plaza serves delicious sushi in Washington, District of Columbia. Try fresh Japanese dishes for a great dining experience. Available for, and dinner."
 place_id: ChIJg1vmeHi3t4kR6Do3a7Tq4Tc
 photos:
   - name: >-
@@ -183,12 +182,49 @@ price_range: $100 &mdash; & up
 rating: '4.6'
 rating_count: 0
 website: https://sushibybou.com/
+description: >-
+  Discover Sushi in Washington, DC$$$Sushi By Bou- DC in Washington, DC, offers
+  a trendy rooftop dining experience at the CitizenM Hotel, where fresh Japanese
+  flavors meet stunning city views. This spot specializes in expertly crafted
+  sushi paired with a selection of sake and inventive cocktails, making it an
+  ideal choice for those seeking authentic yet modern Asian cuisine. With
+  wheelchair-accessible entrances and seating, the restaurant ensures a
+  welcoming atmosphere for all guests, enhanced by outdoor options perfect for
+  enjoying a relaxed meal. Additionally, it features a variety of beer, wine,
+  and desserts, catering to diverse tastes in a casual setting that highlights
+  the best of local sushi scenes.
+generative_summary: >-
+  Discover Sushi in Washington, DC$$$Sushi By Bou- DC in Washington, DC, offers
+  a trendy rooftop dining experience at the CitizenM Hotel, where fresh Japanese
+  flavors meet stunning city views. This spot specializes in expertly crafted
+  sushi paired with a selection of sake and inventive cocktails, making it an
+  ideal choice for those seeking authentic yet modern Asian cuisine. With
+  wheelchair-accessible entrances and seating, the restaurant ensures a
+  welcoming atmosphere for all guests, enhanced by outdoor options perfect for
+  enjoying a relaxed meal. Additionally, it features a variety of beer, wine,
+  and desserts, catering to diverse tastes in a casual setting that highlights
+  the best of local sushi scenes.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - ChZDSUhNMG9nS0VJQ0FnTUNBbTdlc2R3EAE
   - ChdDSUhNMG9nS0VJQ0FnSURfbFA2MzdnRRAB
   - ChdDSUhNMG9nS0VJQ0FnTUNRcnMyeW9BRRAB
   - ChdDSUhNMG9nS0VJQ0FnTURnb01lTTR3RRAB
   - ChZDSUhNMG9nS0VJQ0FnSURYOF9fcEdREAE
+review_summary: >-
+  What Visitors Are Buzzing About$$$Visitors to this sushi spot in Washington,
+  DC, often rave about the fresh ingredients and creative twists on classic
+  rolls, creating a generally upbeat vibe around their experiences. Many
+  highlight the inviting rooftop atmosphere and attentive service as standout
+  features, helping to build a reputation for memorable meals in a lively
+  environment. Folks appreciate the solid drink selections, like sake and
+  cocktails, which pair well with the flavorful dishes and add to the overall
+  enjoyment. While some note it's a great pick for groups or special occasions,
+  the high ratings suggest it's consistently delivering on taste and ambiance,
+  making it a reliable choice for anyone craving top-notch sushi nearby.
+  Overall, the feedback paints a picture of a welcoming place that keeps diners
+  coming back for more delicious bites.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeStreetParking: true
   paidStreetParking: true
@@ -218,8 +254,8 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: true
 takeout: false
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Located on the roof of the CitizenM Hotel, this trendy spot pairs sushi with
   sake and cocktails.
 

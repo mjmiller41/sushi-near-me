@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Gyu Shige (牛繁) Japanese BBQ"
+title: Gyu Shige (牛繁) Japanese BBQ
 permalink: /virginia/fairfax/gyu-shige-japanese-bbq.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Fairfax
 seo:
-  name: "Gyu Shige (牛繁) Japanese BBQ"
-  type: Restaurant
+  type: restaurant
   links: http://www.gyushigeus.com/
-description: "Gyu Shige (牛繁) Japanese BBQ serves delicious sushi in Fairfax, Virginia. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJbxnQQfNLtokREjUJj7lkHDg
 photos:
   - name: >-
@@ -170,7 +168,105 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89b64bf341d0196f:0x381c64b98f093512!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 30
+      close:
+        day: 0
+        hour: 22
+        minute: 30
+    - open:
+        day: 1
+        hour: 12
+        minute: 0
+      close:
+        day: 1
+        hour: 15
+        minute: 0
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 30
+    - open:
+        day: 2
+        hour: 12
+        minute: 0
+      close:
+        day: 2
+        hour: 15
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 30
+    - open:
+        day: 3
+        hour: 12
+        minute: 0
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 30
+    - open:
+        day: 4
+        hour: 12
+        minute: 0
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 30
+    - open:
+        day: 5
+        hour: 12
+        minute: 0
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 23
+        minute: 30
+    - open:
+        day: 6
+        hour: 12
+        minute: 30
+      close:
+        day: 6
+        hour: 23
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 12:00 – 3:00 PM, 5:00 – 10:30 PM'
     - 'Tuesday: 12:00 – 3:00 PM, 5:00 – 10:30 PM'
     - 'Wednesday: 12:00 – 3:00 PM, 5:00 – 10:30 PM'
@@ -178,14 +274,7 @@ opening_hours:
     - 'Friday: 12:00 – 3:00 PM, 5:00 – 11:30 PM'
     - 'Saturday: 12:30 – 11:30 PM'
     - 'Sunday: 12:30 – 10:30 PM'
-  current:
-    - 'Monday: 12:00 – 3:00 PM, 5:00 – 10:30 PM'
-    - 'Tuesday: 12:00 – 3:00 PM, 5:00 – 10:30 PM'
-    - 'Wednesday: 12:00 – 3:00 PM, 5:00 – 10:30 PM'
-    - 'Thursday: 12:00 – 3:00 PM, 5:00 – 10:30 PM'
-    - 'Friday: 12:00 – 3:00 PM, 5:00 – 11:30 PM'
-    - 'Saturday: 12:30 – 11:30 PM'
-    - 'Sunday: 12:30 – 10:30 PM'
+  nextCloseTime: '2025-05-04T03:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +286,51 @@ phone: (703) 345-2288
 price_level: PRICE_LEVEL_MODERATE
 price_range: $50 &ndash; $100
 rating: '4.6'
-rating_count: 0
+rating_count: 560
 website: http://www.gyushigeus.com/
+description: >-
+  Discover Gyu Shige in Fairfax, VA$$$Gyu Shige (牛繁) Japanese BBQ in Fairfax,
+  Virginia, stands out as a vibrant spot for enjoying authentic
+  Japanese-inspired grilling experiences, featuring high-quality meats and a
+  welcoming ambiance. This restaurant highlights flavorful selections like
+  premium cuts of beef and ribs, prepared with traditional techniques that
+  appeal to those seeking Japanese dining options nearby. Visitors can
+  appreciate the attentive service and inviting atmosphere, making it an ideal
+  choice for memorable meals with friends or family. Accessibility features such
+  as wheelchair-friendly parking and seating add to the convenience, ensuring a
+  comfortable visit for everyone. Whether you're exploring Japanese places near
+  me or looking for a relaxed spot to savor grilled specialties, this location
+  combines quality ingredients with a lively setting to create an enjoyable
+  outing.
+generative_summary: >-
+  Discover Gyu Shige in Fairfax, VA$$$Gyu Shige (牛繁) Japanese BBQ in Fairfax,
+  Virginia, stands out as a vibrant spot for enjoying authentic
+  Japanese-inspired grilling experiences, featuring high-quality meats and a
+  welcoming ambiance. This restaurant highlights flavorful selections like
+  premium cuts of beef and ribs, prepared with traditional techniques that
+  appeal to those seeking Japanese dining options nearby. Visitors can
+  appreciate the attentive service and inviting atmosphere, making it an ideal
+  choice for memorable meals with friends or family. Accessibility features such
+  as wheelchair-friendly parking and seating add to the convenience, ensuring a
+  comfortable visit for everyone. Whether you're exploring Japanese places near
+  me or looking for a relaxed spot to savor grilled specialties, this location
+  combines quality ingredients with a lively setting to create an enjoyable
+  outing.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Folks chatting about Gyu Shige often rave about the
+  tasty wagyu and hearty ribs that make for a satisfying meal at this Japanese
+  spot, with many noting the helpful staff that keeps things running smoothly.
+  People frequently mention the upbeat vibe that turns a simple dinner into
+  something special, perfect for celebrating or just hanging out. While opinions
+  vary, the overall feedback leans positive, highlighting how the food's flavors
+  and service create a welcoming experience without any major hiccups. If you're
+  on the hunt for top-rated Japanese restaurants near me, this place seems to
+  deliver on fresh tastes and a friendly feel that keeps diners coming back. All
+  in all, it's a solid pick for anyone craving authentic vibes and good eats in
+  a casual environment.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +356,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

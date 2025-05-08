@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Shogun Japanese Restaurant"
+title: Shogun Japanese Restaurant
 permalink: /arizona/tucson/shogun-japanese-restaurant.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Tucson
 seo:
-  name: "Shogun Japanese Restaurant"
-  type: Restaurant
+  type: restaurant
   links: http://www.shoguntucson.com/
-description: "Shogun Japanese Restaurant serves delicious sushi in Tucson, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJZ-2WLJhz1oYRdDehSda3sKM
 photos:
   - name: >-
@@ -169,7 +167,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x86d673982c96ed67:0xa3b0b7d649a13774!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 20
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 20
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 20
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 20
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 20
+        minute: 30
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 20
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 8:30 PM'
     - 'Tuesday: 11:30 AM – 8:30 PM'
     - 'Wednesday: 11:30 AM – 8:30 PM'
@@ -177,14 +233,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 8:30 PM'
     - 'Saturday: 12:00 – 8:30 PM'
     - 'Sunday: 12:00 – 8:30 PM'
-  current:
-    - 'Monday: 11:30 AM – 8:30 PM'
-    - 'Tuesday: 11:30 AM – 8:30 PM'
-    - 'Wednesday: 11:30 AM – 8:30 PM'
-    - 'Thursday: 11:30 AM – 8:30 PM'
-    - 'Friday: 11:30 AM – 8:30 PM'
-    - 'Saturday: 12:00 – 8:30 PM'
-    - 'Sunday: 12:00 – 8:30 PM'
+  nextCloseTime: '2025-05-04T03:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,35 +245,238 @@ phone: (520) 888-6646
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.3'
-rating_count: 0
+rating_count: 1068
 website: http://www.shoguntucson.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Shogun in Tucson, AZ$$$Shogun Japanese Restaurant in Tucson, AZ,
+  delights diners with its fresh selection of sushi and traditional Japanese
+  fare in a relaxed setting. The menu features flavorful nigiri, creative rolls,
+  and teriyaki dishes, all prepared with high-quality ingredients that highlight
+  the best of Japanese cuisine. Private booths add a touch of intimacy, making
+  it an ideal spot for enjoying sushi options in the area, while accessibility
+  features ensure a welcoming experience for everyone. With daily specials and a
+  casual vibe, this spot stands out as a go-to for those exploring Japanese
+  places near me, offering great value without compromising on taste.
+generative_summary: >-
+  Discover Shogun in Tucson, AZ$$$Shogun Japanese Restaurant in Tucson, AZ,
+  delights diners with its fresh selection of sushi and traditional Japanese
+  fare in a relaxed setting. The menu features flavorful nigiri, creative rolls,
+  and teriyaki dishes, all prepared with high-quality ingredients that highlight
+  the best of Japanese cuisine. Private booths add a touch of intimacy, making
+  it an ideal spot for enjoying sushi options in the area, while accessibility
+  features ensure a welcoming experience for everyone. With daily specials and a
+  casual vibe, this spot stands out as a go-to for those exploring Japanese
+  places near me, offering great value without compromising on taste.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJZ-2WLJhz1oYRdDehSda3sKM/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJeWJfMjN3RRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        I don’t know why it took me so long to write a review since i’ve been
+        coming here for years, but this is my favorite sushi restaurant, not
+        only in tucson but anywhere. Sushi portions are really great. Quality is
+        10/10 always fresh. They get their tuna from japan. Their ramen is the
+        best in Tucson. The atmosphere here is on another level. I cant say
+        enough good things about this place.
+      languageCode: en
+    originalText:
+      text: >-
+        I don’t know why it took me so long to write a review since i’ve been
+        coming here for years, but this is my favorite sushi restaurant, not
+        only in tucson but anywhere. Sushi portions are really great. Quality is
+        10/10 always fresh. They get their tuna from japan. Their ramen is the
+        best in Tucson. The atmosphere here is on another level. I cant say
+        enough good things about this place.
+      languageCode: en
+    authorAttribution:
+      displayName: Gustavo Serrano
+      uri: https://www.google.com/maps/contrib/104685876555365813237/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjViiyzc1xG6D8Jnr7OVmktYvtvrZ5gXSNAdYk2hH5nFQu9ofqlPbQ=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-03T04:23:52.028836Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNJeWJfMjN3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNJeWJfMjN3RRAB!2m1!1s0x86d673982c96ed67:0xa3b0b7d649a13774
+  - name: >-
+      places/ChIJZ-2WLJhz1oYRdDehSda3sKM/reviews/ChZDSUhNMG9nS0VJQ0FnSUMzazhUZ0lnEAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 2
+    text:
+      text: "Shogun Has Potential but Needs Modern Updates\n\nShogun offers a dining experience with both strengths and weaknesses. While the restaurant could benefit from modern upgrades and greater transparency about its policies, it does have some notable highlights worth mentioning.\n\nPros:\n•\tDaily Sushi Roll Specials: Shogun offers great value with daily specials on sushi rolls. For example, menu items 1 through 5 are half off on Mondays\n•\tLas Vegas Roll & Sashimi: The Las Vegas roll is a standout item, and the sashimi, while made from farm-raised salmon, is fresh and enjoyable given the region’s limitations. For a desert location, the quality is commendable.\n•\tGood Value for Select Items: For what they have to work with, the sushi and sashimi quality is solid, and the specials make it more affordable for diners seeking a good deal.\n\nCons:\n•\tOutdated Atmosphere: The space feels cramped and humid, with older décor that could use significant modernization to enhance the dining experience.\n•\tRestroom Facilities: While there are separate restrooms for men and women, each only has a single stall, often leading to inconvenient wait times.\n•\tInconsistent Service Fees: While service fees were previously added to bills exceeding $100, this policy seems to be inconsistently applied, which may confuse diners.\n•\tLimited Spicy Ponzu Sauce: While their sauces are flavorful, the portions of spicy ponzu sauce are smaller than expected, which can be disappointing for fans of bold flavors.\n\nOverall Impression:\n\nShogun has its strengths, particularly with its daily sushi roll specials and certain menu items, but there is room for improvement. With updates to its atmosphere, restroom facilities, and clearer service policies, it could offer a much better experience for its diners. For now, it’s a good spot for those looking for a deal or familiar with its quirks."
+      languageCode: en
+    originalText:
+      text: "Shogun Has Potential but Needs Modern Updates\n\nShogun offers a dining experience with both strengths and weaknesses. While the restaurant could benefit from modern upgrades and greater transparency about its policies, it does have some notable highlights worth mentioning.\n\nPros:\n•\tDaily Sushi Roll Specials: Shogun offers great value with daily specials on sushi rolls. For example, menu items 1 through 5 are half off on Mondays\n•\tLas Vegas Roll & Sashimi: The Las Vegas roll is a standout item, and the sashimi, while made from farm-raised salmon, is fresh and enjoyable given the region’s limitations. For a desert location, the quality is commendable.\n•\tGood Value for Select Items: For what they have to work with, the sushi and sashimi quality is solid, and the specials make it more affordable for diners seeking a good deal.\n\nCons:\n•\tOutdated Atmosphere: The space feels cramped and humid, with older décor that could use significant modernization to enhance the dining experience.\n•\tRestroom Facilities: While there are separate restrooms for men and women, each only has a single stall, often leading to inconvenient wait times.\n•\tInconsistent Service Fees: While service fees were previously added to bills exceeding $100, this policy seems to be inconsistently applied, which may confuse diners.\n•\tLimited Spicy Ponzu Sauce: While their sauces are flavorful, the portions of spicy ponzu sauce are smaller than expected, which can be disappointing for fans of bold flavors.\n\nOverall Impression:\n\nShogun has its strengths, particularly with its daily sushi roll specials and certain menu items, but there is room for improvement. With updates to its atmosphere, restroom facilities, and clearer service policies, it could offer a much better experience for its diners. For now, it’s a good spot for those looking for a deal or familiar with its quirks."
+      languageCode: en
+    authorAttribution:
+      displayName: MasterMind Critic
+      uri: https://www.google.com/maps/contrib/102275720317300997693/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUoQpfWJP4PiuvU5H1GFCz-GUFNB8kY6XEm1DkXLC-FunwIOatf=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2024-12-28T16:47:23.473936Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUMzazhUZ0lnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUMzazhUZ0lnEAE!2m1!1s0x86d673982c96ed67:0xa3b0b7d649a13774
+  - name: >-
+      places/ChIJZ-2WLJhz1oYRdDehSda3sKM/reviews/ChZDSUhNMG9nS0VJQ0FnSUROdm9pUGN3EAE
+    relativePublishTimeDescription: 9 months ago
+    rating: 5
+    text:
+      text: >-
+        My husband has been going to Shogun for a couple of decades. When he and
+        I met in 2009, this was one of our first dates....and it is our "go-to"
+        restaurant when we plan a night out.
+
+
+        While we rarely sit other than the sushi bar, the restaurant does offer
+        general dining and quiet private areas and a full menu.
+
+
+        The waitstaff and Sushi Chefs are pleasant. The Sashimi and Nigiri are
+        fresh and bountiful...no skinny slices here. Sushi Roll specials are
+        offered daily (which is a great way to try something new).
+
+
+        They are closed the first Sunday of each month, so keep that in mind
+        when planning a visit.
+      languageCode: en
+    originalText:
+      text: >-
+        My husband has been going to Shogun for a couple of decades. When he and
+        I met in 2009, this was one of our first dates....and it is our "go-to"
+        restaurant when we plan a night out.
+
+
+        While we rarely sit other than the sushi bar, the restaurant does offer
+        general dining and quiet private areas and a full menu.
+
+
+        The waitstaff and Sushi Chefs are pleasant. The Sashimi and Nigiri are
+        fresh and bountiful...no skinny slices here. Sushi Roll specials are
+        offered daily (which is a great way to try something new).
+
+
+        They are closed the first Sunday of each month, so keep that in mind
+        when planning a visit.
+      languageCode: en
+    authorAttribution:
+      displayName: Kelly-G Kishbaugh
+      uri: https://www.google.com/maps/contrib/110779473663714206254/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVmizNxoKZnbEKN__KL3s6WRw-_eT4BX5y4jiJoldZYoAo2wfDnkg=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-07-15T02:22:17.368851Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUROdm9pUGN3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUROdm9pUGN3EAE!2m1!1s0x86d673982c96ed67:0xa3b0b7d649a13774
+  - name: >-
+      places/ChIJZ-2WLJhz1oYRdDehSda3sKM/reviews/ChdDSUhNMG9nS0VJQ0FnSURINkluWGh3RRAB
+    relativePublishTimeDescription: 7 months ago
+    rating: 5
+    text:
+      text: >-
+        Best sushi in Tucson. Monday-Thursday they have 1/2 specials on sushi
+        too!! What ?? If you live far east or far anything it is worth the
+        drive. My favorite tonight (Its Wednesday) is Rainbow Roll! Enjoy
+        people!! 🍣🍱😋🤤
+      languageCode: en
+    originalText:
+      text: >-
+        Best sushi in Tucson. Monday-Thursday they have 1/2 specials on sushi
+        too!! What ?? If you live far east or far anything it is worth the
+        drive. My favorite tonight (Its Wednesday) is Rainbow Roll! Enjoy
+        people!! 🍣🍱😋🤤
+      languageCode: en
+    authorAttribution:
+      displayName: Melissa Tribolet
+      uri: https://www.google.com/maps/contrib/101024542188434267489/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVj8ZT4Orywz0sONgbMt8DGGkdP5lTS9HseeFqgjITK42D2SdKj=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-09-12T03:13:40.112662Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURINkluWGh3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURINkluWGh3RRAB!2m1!1s0x86d673982c96ed67:0xa3b0b7d649a13774
+  - name: >-
+      places/ChIJZ-2WLJhz1oYRdDehSda3sKM/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ5ak1mc0NREAE
+    relativePublishTimeDescription: 10 months ago
+    rating: 5
+    text:
+      text: |-
+        Spectacularly fresh seafood. I love
+        The sashimi.
+        The tuna is always my favorite but the yellowtail
+        And salmon are high up as well.
+        Amazing service. Definitely a hidden gem.
+      languageCode: en
+    originalText:
+      text: |-
+        Spectacularly fresh seafood. I love
+        The sashimi.
+        The tuna is always my favorite but the yellowtail
+        And salmon are high up as well.
+        Amazing service. Definitely a hidden gem.
+      languageCode: en
+    authorAttribution:
+      displayName: Kethnie Moreau
+      uri: https://www.google.com/maps/contrib/106545014429881878072/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjX9mHCvCZ0LYLInMwFw1wlkKiSQqcYjTwdsJC9NqA48zCvBCtu8=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2024-06-29T03:11:43.906643Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQ5ak1mc0NREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQ5ak1mc0NREAE!2m1!1s0x86d673982c96ed67:0xa3b0b7d649a13774
+review_summary: >-
+  What Guests Are Saying$$$Folks really enjoy the fresh sushi and generous
+  portions at this Tucson favorite, often praising the creative rolls and
+  high-quality seafood that make meals feel special. Many highlight the daily
+  specials as a fantastic way to score deals on tasty options, adding to the
+  overall appeal for anyone seeking affordable sushi restaurants nearby. While
+  some mention the atmosphere could use a refresh to feel more modern, the
+  friendly service and solid food quality keep the positive vibes flowing. It's
+  clear that the emphasis on fresh ingredients and variety makes this a reliable
+  choice for sushi lovers, with most agreeing it's worth the visit for a
+  satisfying dining experience. Overall, diners appreciate the balance of flavor
+  and value, making it a top pick for those hunting for the best sushi near me.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsDebitCards: true
+  acceptsCashOnly: false
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
+curbside_pickup: false
+delivery: false
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
 live_music: null
-menu_for_children: null
-outdoor_seating: null
+menu_for_children: true
+outdoor_seating: false
 reservable: null
-restroom: null
+restroom: true
 serves_beer: null
-serves_breakfast: null
-serves_brunch: null
+serves_breakfast: false
+serves_brunch: false
 serves_cocktails: null
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: atmosphere
+places_description: >-
+  Sushi, teriyaki & noodles can be washed down with sake bombs at this hangout
+  with curtained booths.
 
 ---

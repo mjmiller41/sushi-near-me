@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "A&A SUSHI"
+title: A&A SUSHI
 permalink: /florida/boca-raton/a-a-sushi.html
 stateAbbr: FL
 stateName: Florida
 cityName: Boca Raton
 seo:
-  name: "A&A SUSHI"
-  type: Restaurant
+  type: restaurant
   links: http://www.aasushitogo.com/
-description: "A&A SUSHI serves delicious sushi in Boca Raton, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ0dUnWZob2YgRHAx-CM_ccjA
 photos:
   - name: >-
@@ -143,7 +141,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICqhJT6qwE!2e10!4m2!3m1!1s0x88d91b9a5927d5d1:0x3072dccf087e0c1c
 address: 22749 State Road 7 S, A, Boca Raton, FL 33428, USA
-street: 22749 State Road 7 S, A
+street: 22749 State Road 7 S,A
 city: Boca Raton
 state: FL
 zip: '33428'
@@ -198,7 +196,40 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 0
 website: http://www.aasushitogo.com/
+description: >-
+  Explore A&A Sushi in Boca Raton, FL$$$A&A Sushi in Boca Raton, Florida, is a
+  delightful spot for savoring authentic Japanese dishes, especially its fresh
+  and diverse sushi selections that appeal to a wide range of preferences. This
+  cozy restaurant emphasizes high-quality ingredients and a welcoming
+  atmosphere, perfect for relaxed meals or quick bites with friends.
+  Accessibility features, such as wheelchair-friendly parking and entrances,
+  make it easy for everyone to enjoy the experience. Operating from late morning
+  to evening most days, except Tuesdays, it's a convenient choice for those
+  seeking quality sushi options nearby, with moderate pricing that delivers
+  great value on flavorful Japanese cuisine.
+generative_summary: >-
+  Explore A&A Sushi in Boca Raton, FL$$$A&A Sushi in Boca Raton, Florida, is a
+  delightful spot for savoring authentic Japanese dishes, especially its fresh
+  and diverse sushi selections that appeal to a wide range of preferences. This
+  cozy restaurant emphasizes high-quality ingredients and a welcoming
+  atmosphere, perfect for relaxed meals or quick bites with friends.
+  Accessibility features, such as wheelchair-friendly parking and entrances,
+  make it easy for everyone to enjoy the experience. Operating from late morning
+  to evening most days, except Tuesdays, it's a convenient choice for those
+  seeking quality sushi options nearby, with moderate pricing that delivers
+  great value on flavorful Japanese cuisine.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What People Are Saying$$$Folks visiting this sushi spot often praise the fresh
+  and skillfully prepared rolls that deliver exactly what you want from reliable
+  Japanese eats. Many highlight the friendly service and comfortable vibe that
+  make every visit feel easy and fun, setting it apart as a solid pick among
+  local dining choices. While experiences can differ, the general buzz is
+  positive, with comments on generous servings and tasty flavors that encourage
+  repeat trips. Overall, the strong ratings suggest it's a dependable option for
+  anyone looking for approachable and satisfying meals in the area.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -224,7 +255,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sus Hi Eatstation - Colonial"
+title: Sus Hi Eatstation - Colonial
 permalink: /florida/orlando/sus-hi-eatstation-colonial.html
 stateAbbr: FL
 stateName: Florida
 cityName: Orlando
 seo:
-  name: "Sus Hi Eatstation - Colonial"
-  type: Restaurant
+  type: restaurant
   links: https://sushieatstation.com/
-description: "Sus Hi Eatstation - Colonial serves delicious sushi in Orlando, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJsU7ioAl754gR9jB0Zs2n9tg
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 0
 website: https://sushieatstation.com/
+description: >-
+  Discover Sus Hi Eatstation in Orlando, FL$$$Sus Hi Eatstation - Colonial in
+  Orlando, Florida, stands out as a vibrant Japanese restaurant blending fresh
+  sushi innovations with a casual, inviting atmosphere. This spot delights
+  visitors with creative twists on traditional dishes, such as flavorful fried
+  sushi burritos and refreshing cold noodle bowls that add excitement to every
+  meal. The welcoming setting features engaging elements like video games and
+  board games, making it an ideal choice for relaxed gatherings with friends or
+  family. Beyond the tasty offerings, the reliable service and affordable
+  pricing enhance the overall experience, drawing in those seeking top-rated
+  sushi options near urban hubs. Whether you're exploring Japanese places near
+  you or craving the best sushi in a lively environment, this location promises
+  a satisfying dining adventure.
+generative_summary: >-
+  Discover Sus Hi Eatstation in Orlando, FL$$$Sus Hi Eatstation - Colonial in
+  Orlando, Florida, stands out as a vibrant Japanese restaurant blending fresh
+  sushi innovations with a casual, inviting atmosphere. This spot delights
+  visitors with creative twists on traditional dishes, such as flavorful fried
+  sushi burritos and refreshing cold noodle bowls that add excitement to every
+  meal. The welcoming setting features engaging elements like video games and
+  board games, making it an ideal choice for relaxed gatherings with friends or
+  family. Beyond the tasty offerings, the reliable service and affordable
+  pricing enhance the overall experience, drawing in those seeking top-rated
+  sushi options near urban hubs. Whether you're exploring Japanese places near
+  you or craving the best sushi in a lively environment, this location promises
+  a satisfying dining adventure.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJsU7ioAl754gR9jB0Zs2n9tg/reviews/ChdDSUhNMG9nS0VJQ0FnTURJak5xbF9BRRAB
@@ -420,6 +445,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNBcWQ3U2p3RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNBcWQ3U2p3RRAB!2m1!1s0x88e77b09a0e24eb1:0xd8f6a7cd667430f6
+review_summary: >-
+  What Customers Are Saying$$$Visitors frequently praise the creative sushi
+  dishes and fun atmosphere at this spot, highlighting the delicious flavors and
+  unique presentations that make meals memorable. While some note occasional
+  issues with order accuracy and wait times, the overall consensus leans
+  positive, with many appreciating the friendly service and tasty options like
+  fried burritos and noodle bowls. Feedback often mentions the engaging vibe
+  with games adding to the enjoyment, though a few suggest improvements in
+  preparation consistency for a smoother experience. In general, it's a go-to
+  for those loving sushi, offering solid value and enjoyable vibes that keep
+  people coming back despite minor hiccups. If you're hunting for sushi
+  restaurants near you, this place delivers a mix of hits that make it worth
+  trying out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -451,7 +490,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: null
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

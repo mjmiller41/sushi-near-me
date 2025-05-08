@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Blue Fin Sushi"
+title: Blue Fin Sushi
 permalink: /washington/bellingham/blue-fin-sushi.html
 stateAbbr: WA
 stateName: Washington
 cityName: Bellingham
 seo:
-  name: "Blue Fin Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Blue Fin Sushi serves delicious sushi in Bellingham, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJG7vIOMWjhVQRfE5HH3J8n9I
 photos:
   - name: >-
@@ -185,7 +183,38 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Blue Fin Sushi in Bellingham, WA$$$Blue Fin Sushi in Bellingham, WA,
+  stands out as a welcoming Japanese eatery specializing in fresh seafood and
+  creative sushi rolls that capture the essence of authentic flavors. This spot
+  offers a cozy atmosphere perfect for enjoying bento boxes and a variety of
+  sushi options, making it an ideal choice for anyone searching for quality
+  Japanese cuisine nearby. With its accessible features like wheelchair-friendly
+  parking and entrances, it ensures a comfortable visit for all guests. The menu
+  highlights inventive dishes that blend traditional techniques with local
+  ingredients, appealing to those exploring top sushi restaurants in the area.
+generative_summary: >-
+  Discover Blue Fin Sushi in Bellingham, WA$$$Blue Fin Sushi in Bellingham, WA,
+  stands out as a welcoming Japanese eatery specializing in fresh seafood and
+  creative sushi rolls that capture the essence of authentic flavors. This spot
+  offers a cozy atmosphere perfect for enjoying bento boxes and a variety of
+  sushi options, making it an ideal choice for anyone searching for quality
+  Japanese cuisine nearby. With its accessible features like wheelchair-friendly
+  parking and entrances, it ensures a comfortable visit for all guests. The menu
+  highlights inventive dishes that blend traditional techniques with local
+  ingredients, appealing to those exploring top sushi restaurants in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Recent Feedback$$$Folks frequently highlight the mouthwatering
+  sashimi and nigiri at this Japanese spot, often noting the incredibly fresh
+  fish that elevates the whole meal. Service stands out as warm and attentive,
+  helping to create a relaxed vibe that keeps diners coming back for more. Many
+  appreciate the modern, inviting setting that makes it great for casual
+  get-togethers or a quick bite. Overall, it's praised as a solid pick for
+  anyone craving reliable Japanese fare, with the positive experiences adding up
+  to a welcoming spot worth trying.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +240,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

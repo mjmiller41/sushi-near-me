@@ -1,15 +1,14 @@
 ---
 layout: place
-title: "Sushi Ren"
+title: Sushi Ren
 permalink: /new-york/new-york/sushi-ren.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "Sushi Ren"
-  type: Restaurant
-  links: https://www.sushiren.getsauce.com/?utm_source=GMB&utm_medium=Website+Button&utm_id=sushiren
-description: "Familiar Japanese dishes, sushi & cocktails in a modern space with a neon-lit bar & outdoor seats. Sushi Ren serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
+  type: restaurant
+  links: >-
+    https://www.sushiren.getsauce.com/?utm_source=GMB&utm_medium=Website+Button&utm_id=sushiren
 place_id: ChIJY70GVLlYwokRH_QuxZjGWec
 photos:
   - name: >-
@@ -186,6 +185,27 @@ rating: '4.3'
 rating_count: 0
 website: >-
   https://www.sushiren.getsauce.com/?utm_source=GMB&utm_medium=Website+Button&utm_id=sushiren
+description: >-
+  Experience Sushi Ren in New York, NY$$$Sushi Ren in New York, NY, stands out
+  as a go-to destination for fresh sushi and authentic Japanese flavors in a
+  lively, modern environment. The spot features a casual vibe with a neon-lit
+  bar and inviting outdoor seating, making it ideal for enjoying meals any time
+  of day. Drawing from its focus on serving lunch and dinner alongside beverages
+  like beer and cocktails, it offers a welcoming atmosphere for those seeking
+  quality Japanese cuisine. Diners can expect generous portions and
+  well-prepared dishes that highlight the best of sushi restaurants, perfect for
+  anyone exploring tasty options nearby.
+generative_summary: >-
+  Experience Sushi Ren in New York, NY$$$Sushi Ren in New York, NY, stands out
+  as a go-to destination for fresh sushi and authentic Japanese flavors in a
+  lively, modern environment. The spot features a casual vibe with a neon-lit
+  bar and inviting outdoor seating, making it ideal for enjoying meals any time
+  of day. Drawing from its focus on serving lunch and dinner alongside beverages
+  like beer and cocktails, it offers a welcoming atmosphere for those seeking
+  quality Japanese cuisine. Diners can expect generous portions and
+  well-prepared dishes that highlight the best of sushi restaurants, perfect for
+  anyone exploring tasty options nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJY70GVLlYwokRH_QuxZjGWec/reviews/ChZDSUhNMG9nS0VJQ0FnSUQzMTQza0R3EAE
@@ -393,6 +413,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNBaVp6YldnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNBaVp6YldnEAE!2m1!1s0x89c258b95406bd63:0xe759c698c52ef41f
+review_summary: >-
+  Customer Feedback on Sushi Ren$$$Folks generally enjoy the fresh and flavorful
+  sushi rolls here, with many highlighting the great value in lunch specials and
+  hearty portions that make for a satisfying meal. Some appreciate the tasty
+  appetizers and drinks, like the creative cocktails, which add a fun twist to
+  the overall experience in this cozy setting. While a few mentions note
+  occasional quirks, such as unexpected flavors in certain dishes, the friendly
+  service and welcoming vibe keep things positive for groups or solo visits.
+  Overall, it's seen as a reliable pick for sushi enthusiasts, offering a solid
+  mix of affordability and quality that encourages return trips for more
+  Japanese-inspired eats.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   valetParking: false
 payment_options:
@@ -423,8 +455,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Familiar Japanese dishes, sushi & cocktails in a modern space with a neon-lit
   bar & outdoor seats.
 

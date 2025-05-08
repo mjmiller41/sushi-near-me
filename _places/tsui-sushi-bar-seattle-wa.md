@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Tsui Sushi Bar"
+title: Tsui Sushi Bar
 permalink: /washington/seattle/tsui-sushi-bar.html
 stateAbbr: WA
 stateName: Washington
 cityName: Seattle
 seo:
-  name: "Tsui Sushi Bar"
-  type: Restaurant
+  type: restaurant
   links: http://www.tsuisushi.com/
-description: "Tsui Sushi Bar serves delicious sushi in Seattle, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJnQ8RUGkUkFQRcfTGUvZN43w
 photos:
   - name: >-
@@ -169,7 +167,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x5490146950110f9d:0x7ce34df652c6f471!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 16
+        minute: 30
+      close:
+        day: 0
+        hour: 20
+        minute: 30
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 20
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 20
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 20
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 16
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 4:30 – 8:30 PM'
     - 'Tuesday: Closed'
     - 'Wednesday: 4:30 – 8:30 PM'
@@ -177,28 +225,109 @@ opening_hours:
     - 'Friday: 4:30 – 9:30 PM'
     - 'Saturday: 4:30 – 9:00 PM'
     - 'Sunday: 4:30 – 8:30 PM'
-  current:
-    - 'Monday: 4:30 – 8:30 PM'
-    - 'Tuesday: Closed'
-    - 'Wednesday: 4:30 – 8:30 PM'
-    - 'Thursday: 4:30 – 8:30 PM'
-    - 'Friday: 4:30 – 9:30 PM'
-    - 'Saturday: 4:30 – 9:00 PM'
-    - 'Sunday: 4:30 – 8:30 PM'
+  nextOpenTime: '2025-05-03T23:30:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: false
+    periods:
+      - open:
+          day: 0
+          hour: 16
+          minute: 30
+        close:
+          day: 0
+          hour: 17
+          minute: 30
+      - open:
+          day: 1
+          hour: 16
+          minute: 30
+        close:
+          day: 1
+          hour: 17
+          minute: 30
+      - open:
+          day: 3
+          hour: 16
+          minute: 30
+        close:
+          day: 3
+          hour: 17
+          minute: 30
+      - open:
+          day: 4
+          hour: 16
+          minute: 30
+        close:
+          day: 4
+          hour: 17
+          minute: 30
+      - open:
+          day: 5
+          hour: 16
+          minute: 30
+        close:
+          day: 5
+          hour: 17
+          minute: 30
+      - open:
+          day: 6
+          hour: 16
+          minute: 30
+        close:
+          day: 6
+          hour: 17
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 4:30 – 5:30 PM'
+      - 'Tuesday: Closed'
+      - 'Wednesday: 4:30 – 5:30 PM'
+      - 'Thursday: 4:30 – 5:30 PM'
+      - 'Friday: 4:30 – 5:30 PM'
+      - 'Saturday: 4:30 – 5:30 PM'
+      - 'Sunday: 4:30 – 5:30 PM'
+    secondaryHoursType: HAPPY_HOUR
+    nextOpenTime: '2025-05-03T23:30:00Z'
 phone: (206) 402-3553
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.3'
-rating_count: 0
+rating_count: 442
 website: http://www.tsuisushi.com/
+description: >-
+  Explore Tsui Sushi Bar$$$Tsui Sushi Bar in Seattle, WA, stands out as a
+  welcoming spot for fresh Japanese cuisine in the lively Green Lake area. This
+  sushi restaurant delights with its carefully crafted rolls and dishes that
+  highlight quality ingredients, making it a go-to choice for anyone seeking
+  authentic flavors nearby. Accessibility features like wheelchair-friendly
+  entrances and seating ensure a comfortable visit for all, while the cozy
+  atmosphere adds to the appeal for casual dinners or quick bites. Operating
+  evenings throughout the week, it's ideal for those exploring top-rated sushi
+  options in the region, blending tradition with a modern touch that keeps
+  diners coming back.
+generative_summary: >-
+  Explore Tsui Sushi Bar$$$Tsui Sushi Bar in Seattle, WA, stands out as a
+  welcoming spot for fresh Japanese cuisine in the lively Green Lake area. This
+  sushi restaurant delights with its carefully crafted rolls and dishes that
+  highlight quality ingredients, making it a go-to choice for anyone seeking
+  authentic flavors nearby. Accessibility features like wheelchair-friendly
+  entrances and seating ensure a comfortable visit for all, while the cozy
+  atmosphere adds to the appeal for casual dinners or quick bites. Operating
+  evenings throughout the week, it's ideal for those exploring top-rated sushi
+  options in the region, blending tradition with a modern touch that keeps
+  diners coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Visitor Feedback Highlights$$$Visitors to this sushi spot often praise the
+  fresh and flavorful rolls that make it a standout among local eateries, with
+  many noting the solid value for the price. Feedback frequently highlights the
+  welcoming vibe and attentive service that enhance the overall experience, even
+  if things can get busy during peak times. While some mention occasional waits,
+  the general consensus leans positive, appreciating the consistent quality that
+  earns its strong rating. Overall, it's a reliable pick for sushi lovers in the
+  area, offering a mix of tasty options and a relaxed setting that keeps the
+  energy upbeat and satisfying.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -224,7 +353,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

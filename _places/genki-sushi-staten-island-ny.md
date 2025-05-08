@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Genki Sushi"
+title: Genki Sushi
 permalink: /new-york/staten-island/genki-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: Staten Island
 seo:
-  name: "Genki Sushi"
-  type: Restaurant
-  links: null
-description: "Genki Sushi serves delicious sushi in Staten Island, New York. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://genkistatenisland.com/
 place_id: ChIJ7wnmuMZLwokRQC790GkAuFo
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c24bc6b8e609ef:0x5ab80069d0fd2e40!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 30
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 30
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 10:00 PM'
+    - 'Tuesday: 11:00 AM – 10:00 PM'
+    - 'Wednesday: 11:00 AM – 10:00 PM'
+    - 'Thursday: 11:00 AM – 10:00 PM'
+    - 'Friday: 11:00 AM – 11:00 PM'
+    - 'Saturday: 12:30 – 11:00 PM'
+    - 'Sunday: 12:30 – 10:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,53 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (718) 966-1155
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.4'
+rating_count: 364
+website: http://genkistatenisland.com/
+description: >-
+  Discover Genki Sushi in Staten Island, NY$$$Genki Sushi in Staten Island, NY,
+  stands out as a welcoming spot for those craving authentic Japanese flavors
+  and fresh sushi options. This casual eatery boasts a diverse menu featuring an
+  array of dishes, complemented by a selection of beverages like beer, wine, and
+  cocktails, making it ideal for relaxed meals or casual outings. With its
+  accessible features and convenient hours, including late evenings on weekends,
+  it's designed to accommodate various dining needs in the bustling
+  neighborhood. Visitors can enjoy the vibrant atmosphere, enhanced by visually
+  appealing presentations that highlight the artistry of sushi preparation.
+  Whether you're exploring top-rated sushi places near you or seeking
+  Japanese-inspired dining, Genki Sushi delivers a satisfying experience with
+  its emphasis on quality and variety.
+generative_summary: >-
+  Discover Genki Sushi in Staten Island, NY$$$Genki Sushi in Staten Island, NY,
+  stands out as a welcoming spot for those craving authentic Japanese flavors
+  and fresh sushi options. This casual eatery boasts a diverse menu featuring an
+  array of dishes, complemented by a selection of beverages like beer, wine, and
+  cocktails, making it ideal for relaxed meals or casual outings. With its
+  accessible features and convenient hours, including late evenings on weekends,
+  it's designed to accommodate various dining needs in the bustling
+  neighborhood. Visitors can enjoy the vibrant atmosphere, enhanced by visually
+  appealing presentations that highlight the artistry of sushi preparation.
+  Whether you're exploring top-rated sushi places near you or seeking
+  Japanese-inspired dining, Genki Sushi delivers a satisfying experience with
+  its emphasis on quality and variety.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Buzzing About$$$Folks checking out sushi restaurants in the
+  area often highlight the fresh ingredients and tasty rolls that make Genki
+  Sushi a standout choice. Many appreciate the solid variety of options, from
+  classic nigiri to creative specials, paired with friendly service that keeps
+  the vibe light and enjoyable. Based on the high ratings, it's clear that
+  diners value the reasonable prices and welcoming environment, making it a
+  go-to for groups or solo adventures. While not every visit is flawless, the
+  overall consensus leans positive, with plenty of praise for the flavorful
+  dishes that hit the spot. If you're on the hunt for the best sushi near me,
+  this spot frequently earns nods for its reliable appeal and community-friendly
+  feel.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +314,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

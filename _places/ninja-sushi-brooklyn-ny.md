@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ninja Sushi"
+title: Ninja Sushi
 permalink: /new-york/brooklyn/ninja-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: Brooklyn
 seo:
-  name: "Ninja Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.ninja86.com/
-description: "Ninja Sushi serves delicious sushi in Brooklyn, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJW9FoJz9FwokRqivBWMHGpzo
 photos:
   - name: >-
@@ -183,6 +181,31 @@ price_range: $10 &ndash; $20
 rating: '4.0'
 rating_count: 0
 website: http://www.ninja86.com/
+description: >-
+  About Ninja Sushi in Brooklyn, NY$$$Nestled in the heart of Brooklyn, NY,
+  Ninja Sushi stands out as a casual spot for Japanese cuisine enthusiasts
+  seeking fresh sushi and more. This welcoming restaurant offers a variety of
+  sushi rolls, salads, and other dishes designed for quick takeout or convenient
+  delivery, making it a go-to choice for locals craving authentic flavors. With
+  options like beer and cocktails to enhance your meal, it's ideal for casual
+  gatherings or solo diners looking for something satisfying. The menu caters to
+  different tastes, including vegetarian options, ensuring there's something for
+  everyone in a fast-paced setting. Whether you're exploring sushi places near
+  you or hunting for top-rated Japanese eats, this spot delivers on both quality
+  and convenience.
+generative_summary: >-
+  About Ninja Sushi in Brooklyn, NY$$$Nestled in the heart of Brooklyn, NY,
+  Ninja Sushi stands out as a casual spot for Japanese cuisine enthusiasts
+  seeking fresh sushi and more. This welcoming restaurant offers a variety of
+  sushi rolls, salads, and other dishes designed for quick takeout or convenient
+  delivery, making it a go-to choice for locals craving authentic flavors. With
+  options like beer and cocktails to enhance your meal, it's ideal for casual
+  gatherings or solo diners looking for something satisfying. The menu caters to
+  different tastes, including vegetarian options, ensuring there's something for
+  everyone in a fast-paced setting. Whether you're exploring sushi places near
+  you or hunting for top-rated Japanese eats, this spot delivers on both quality
+  and convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJW9FoJz9FwokRqivBWMHGpzo/reviews/ChZDSUhNMG9nS0VJQ0FnSUN2bk1IU2FnEAE
@@ -314,6 +337,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNIb3ZyN29nRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNIb3ZyN29nRRAB!2m1!1s0x89c2453f2768d15b:0x3aa7c6c158c12baa
+review_summary: >-
+  Insights from Customer Feedback$$$Visitors to this sushi restaurant often
+  praise the speedy delivery and wide array of options, making it a solid pick
+  for those in the mood for reliable Japanese fare. While some folks note that
+  certain dishes hit the spot with generous portions and tasty fried items,
+  others mention inconsistencies that could use some tweaking for a better
+  experience overall. It's clear that the convenience and variety keep many
+  coming back, especially for quick meals that don't disappoint on flavor.
+  Despite a few mixed opinions on freshness, the overall vibe leans positive for
+  anyone searching for approachable sushi spots nearby. If you're on the hunt
+  for sushi restaurants that balance speed and selection, this place offers
+  honest value with room for enjoyment.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options:
   acceptsCreditCards: true
@@ -343,7 +379,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

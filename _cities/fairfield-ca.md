@@ -5,4 +5,5 @@ permalink: /california/fairfield/
 stateAbbr: CA
 stateName: California
 cityName: Fairfield
+
 ---

@@ -1,15 +1,14 @@
 ---
 layout: place
-title: "Nori Chicago | Neighborhood BYOB Sushi Bar and Restaurant | Bucktown"
-permalink: /illinois/chicago/nori-chicago-neighborhood-byob-sushi-bar-and-restaurant-bucktown.html
+title: Nori Chicago | Neighborhood BYOB Sushi Bar and Restaurant | Bucktown
+permalink: >-
+  /illinois/chicago/nori-chicago-neighborhood-byob-sushi-bar-and-restaurant-bucktown.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
 seo:
-  name: "Nori Chicago | Neighborhood BYOB Sushi Bar and Restaurant | Bucktown"
-  type: Restaurant
-  links: null
-description: "Nori Chicago | Neighborhood BYOB Sushi Bar and Restaurant | Bucktown serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.norichicago.com/
 place_id: ChIJPRW4wsXSD4gRLJyXTTPMr-8
 photos:
   - name: >-
@@ -170,8 +169,121 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x880fd2c5c2b8153d:0xefafcc334d979c2c!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 16
+        minute: 0
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 16
+        minute: 0
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 16
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 16
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 16
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 16
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 4:00 PM, 5:00 – 10:00 PM'
+    - 'Tuesday: 5:00 – 10:00 PM'
+    - 'Wednesday: 11:00 AM – 4:00 PM, 5:00 – 10:00 PM'
+    - 'Thursday: 11:00 AM – 4:00 PM, 5:00 – 10:00 PM'
+    - 'Friday: 11:00 AM – 4:00 PM, 5:00 – 10:00 PM'
+    - 'Saturday: 11:00 AM – 4:00 PM, 5:00 – 10:00 PM'
+    - 'Sunday: 11:00 AM – 4:00 PM, 5:00 – 10:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +291,54 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (773) 292-9992
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.3'
+rating_count: 301
+website: https://www.norichicago.com/
+description: >-
+  Discover Nori Chicago in Chicago, IL$$$Nori Chicago in Chicago, IL, stands out
+  as a welcoming neighborhood spot for enjoying fresh sushi and Japanese cuisine
+  in a relaxed, bring-your-own-beverage setting. This sushi restaurant offers a
+  variety of creative rolls, bento boxes, and other authentic Japanese dishes
+  that highlight high-quality ingredients and thoughtful preparation. The casual
+  atmosphere makes it an ideal choice for those seeking top sushi options near
+  you, whether you're in the mood for a quick lunch or an intimate dinner. With
+  its accessibility features like wheelchair-friendly entrances and seating,
+  it's designed to accommodate a wide range of diners looking for japanese
+  places in the area. Overall, Nori Chicago provides a straightforward yet
+  enjoyable experience for anyone exploring sushi restaurants in the heart of
+  the city.
+generative_summary: >-
+  Discover Nori Chicago in Chicago, IL$$$Nori Chicago in Chicago, IL, stands out
+  as a welcoming neighborhood spot for enjoying fresh sushi and Japanese cuisine
+  in a relaxed, bring-your-own-beverage setting. This sushi restaurant offers a
+  variety of creative rolls, bento boxes, and other authentic Japanese dishes
+  that highlight high-quality ingredients and thoughtful preparation. The casual
+  atmosphere makes it an ideal choice for those seeking top sushi options near
+  you, whether you're in the mood for a quick lunch or an intimate dinner. With
+  its accessibility features like wheelchair-friendly entrances and seating,
+  it's designed to accommodate a wide range of diners looking for japanese
+  places in the area. Overall, Nori Chicago provides a straightforward yet
+  enjoyable experience for anyone exploring sushi restaurants in the heart of
+  the city.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Buzzing About$$$Visitors to this Chicago sushi spot often
+  rave about the fresh flavors and generous portions that make it a go-to for
+  tasty Japanese fare. Many folks appreciate the laid-back vibe and BYOB policy,
+  which adds a fun twist to meals without breaking the bank, though some note
+  that wait times can vary during peak hours. The overall consensus leans
+  positive, with diners highlighting the solid value for the price and the
+  variety of options that cater to both sushi lovers and those trying something
+  new nearby. It's clear that people enjoy the welcoming environment and
+  attentive service, making it a reliable pick for groups or solo adventurers
+  seeking the best sushi around. While not perfect, the high marks reflect a
+  place that's worth checking out for anyone in the mood for a satisfying meal
+  in a neighborhood setting.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +364,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

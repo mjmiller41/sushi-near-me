@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kamado Sushi"
+title: Kamado Sushi
 permalink: /california/berkeley/kamado-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Berkeley
 seo:
-  name: "Kamado Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.toasttab.com/kamado-sushi
-description: "Kamado Sushi serves delicious sushi in Berkeley, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJVQJzjaZ-hYARjcbHqMLzNvs
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80857ea68d730255:0xfb36f3c2a8c7c68d!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 5:00 – 9:30 PM'
     - 'Wednesday: 5:00 – 9:30 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 5:00 – 9:30 PM'
     - 'Saturday: 5:00 – 9:30 PM'
     - 'Sunday: 5:00 – 9:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 5:00 – 9:30 PM'
-    - 'Wednesday: 5:00 – 9:30 PM'
-    - 'Thursday: 5:00 – 9:30 PM'
-    - 'Friday: 5:00 – 9:30 PM'
-    - 'Saturday: 5:00 – 9:30 PM'
-    - 'Sunday: 5:00 – 9:00 PM'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +238,249 @@ phone: (510) 540-5000
 price_level: PRICE_LEVEL_MODERATE
 price_range: $30 &ndash; $50
 rating: '4.5'
-rating_count: 0
+rating_count: 373
 website: https://www.toasttab.com/kamado-sushi
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Kamado Sushi in Berkeley, CA$$$Kamado Sushi in Berkeley, CA, stands
+  out as a go-to destination for authentic Japanese dining, blending fresh sushi
+  and seasonal specialties in a cozy, modern environment. The spot features a
+  relaxed setup with comfortable seating options, ideal for enjoying flavorful
+  dishes like sashimi and teriyaki made from high-quality ingredients.
+  Accessibility is a key highlight, with wheelchair-friendly features throughout
+  the space, making it welcoming for all guests seeking a seamless meal. This
+  local sushi restaurant also offers a selection of beverages, including sake
+  and beer, to complement the menu's traditional flair. For those exploring
+  sushi options nearby, its focus on fresh, well-prepared cuisine creates an
+  inviting atmosphere that feels both intimate and approachable.
+generative_summary: >-
+  Discover Kamado Sushi in Berkeley, CA$$$Kamado Sushi in Berkeley, CA, stands
+  out as a go-to destination for authentic Japanese dining, blending fresh sushi
+  and seasonal specialties in a cozy, modern environment. The spot features a
+  relaxed setup with comfortable seating options, ideal for enjoying flavorful
+  dishes like sashimi and teriyaki made from high-quality ingredients.
+  Accessibility is a key highlight, with wheelchair-friendly features throughout
+  the space, making it welcoming for all guests seeking a seamless meal. This
+  local sushi restaurant also offers a selection of beverages, including sake
+  and beer, to complement the menu's traditional flair. For those exploring
+  sushi options nearby, its focus on fresh, well-prepared cuisine creates an
+  inviting atmosphere that feels both intimate and approachable.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJVQJzjaZ-hYARjcbHqMLzNvs/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJdU5qRVVREAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        We are so lucky to have this gem in our neighborhood. Jin is an
+        incredible chef, overseeing daily fresh fish flown in from Japan, his
+        omakase is comparable to the Michelin sushi spots in sf. … but for a
+        neighborhood price with neighborhood feel.
+      languageCode: en
+    originalText:
+      text: >-
+        We are so lucky to have this gem in our neighborhood. Jin is an
+        incredible chef, overseeing daily fresh fish flown in from Japan, his
+        omakase is comparable to the Michelin sushi spots in sf. … but for a
+        neighborhood price with neighborhood feel.
+      languageCode: en
+    authorAttribution:
+      displayName: Samantha Good
+      uri: https://www.google.com/maps/contrib/107158290271594498324/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUhweZ-hyadQpUTcXMiwXnmjkjf4lSQd51BaCRuvEsDevYl0M4=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-03-30T03:54:16.630861Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNJdU5qRVVREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNJdU5qRVVREAE!2m1!1s0x80857ea68d730255:0xfb36f3c2a8c7c68d
+  - name: >-
+      places/ChIJVQJzjaZ-hYARjcbHqMLzNvs/reviews/ChZDSUhNMG9nS0VJQ0FnSURub1BQSUNnEAE
+    relativePublishTimeDescription: 7 months ago
+    rating: 4
+    text:
+      text: >-
+        A small chirashi bowl with fewer than 10 pieces of sashimi costs $30,
+        the same as the Unagi Don. While both dishes tasted good, they were on
+        the expensive side. Salmon and Hirame nigiris are about the average.
+      languageCode: en
+    originalText:
+      text: >-
+        A small chirashi bowl with fewer than 10 pieces of sashimi costs $30,
+        the same as the Unagi Don. While both dishes tasted good, they were on
+        the expensive side. Salmon and Hirame nigiris are about the average.
+      languageCode: en
+    authorAttribution:
+      displayName: Hannah Jin
+      uri: https://www.google.com/maps/contrib/106886643289463162646/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjU-Vp4dRIlE0ESrjzGTS6DlEU_p8wHTjZboJ53irljTEwTPQc6q=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-10-02T02:59:30.079916Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURub1BQSUNnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURub1BQSUNnEAE!2m1!1s0x80857ea68d730255:0xfb36f3c2a8c7c68d
+  - name: >-
+      places/ChIJVQJzjaZ-hYARjcbHqMLzNvs/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJLU96UEhREAE
+    relativePublishTimeDescription: a month ago
+    rating: 3
+    text:
+      text: >-
+        First time at this place, chosen according to locality and the reviews.
+        Decided to order my first ever omakase, which was delicious and special,
+        albeit expensive. Which is to say, with that and the poor service (I
+        could not have been friendlier), I can't say it was a good value.  They
+        did not even thank me for dining there, which must mean, they really
+        weren't interested in my feeling valued).
+
+
+        And, I do not live in Berkeley, nor in a town which is even similarly
+        hipster, intellectual or high income.  But with that, I was generous
+        with the tip, because one still has to have manners, even if they did
+        not!
+      languageCode: en
+    originalText:
+      text: >-
+        First time at this place, chosen according to locality and the reviews.
+        Decided to order my first ever omakase, which was delicious and special,
+        albeit expensive. Which is to say, with that and the poor service (I
+        could not have been friendlier), I can't say it was a good value.  They
+        did not even thank me for dining there, which must mean, they really
+        weren't interested in my feeling valued).
+
+
+        And, I do not live in Berkeley, nor in a town which is even similarly
+        hipster, intellectual or high income.  But with that, I was generous
+        with the tip, because one still has to have manners, even if they did
+        not!
+      languageCode: en
+    authorAttribution:
+      displayName: Arthur B
+      uri: https://www.google.com/maps/contrib/102634797847220467724/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXnxMZlNPOR-c4WkRvqlRnzhixi_F61K5ufOrtfjCMQ2HPvZEdZ=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-30T06:00:11.052141Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNJLU96UEhREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNJLU96UEhREAE!2m1!1s0x80857ea68d730255:0xfb36f3c2a8c7c68d
+  - name: >-
+      places/ChIJVQJzjaZ-hYARjcbHqMLzNvs/reviews/ChZDSUhNMG9nS0VJQ0FnTURRNmZmTURREAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        An excellent dinner in every way! The seaweed salad was real seaweed: a
+        melange of 2 kinds and perfectly seasoned. Not the day-glo sweet gloppy
+        stuff that some restaurants serve. The tempura was crispy + crackly,
+        piping hot, plentiful and served with a mild yummy dipping sauce. The
+        sushi was generously sliced, super fresh and melts in your mouth. Our
+        server was attention and friendly but gave us space. The owner and sushi
+        chef, Jin (sp?) is a real gem. He knows his stuff inside and out and
+        cares about his clients. He is there almost every night working at the
+        bar to make sure everyone gets the best of everything. Thank you! You
+        are our favorite sushi restaurant ever!
+      languageCode: en
+    originalText:
+      text: >-
+        An excellent dinner in every way! The seaweed salad was real seaweed: a
+        melange of 2 kinds and perfectly seasoned. Not the day-glo sweet gloppy
+        stuff that some restaurants serve. The tempura was crispy + crackly,
+        piping hot, plentiful and served with a mild yummy dipping sauce. The
+        sushi was generously sliced, super fresh and melts in your mouth. Our
+        server was attention and friendly but gave us space. The owner and sushi
+        chef, Jin (sp?) is a real gem. He knows his stuff inside and out and
+        cares about his clients. He is there almost every night working at the
+        bar to make sure everyone gets the best of everything. Thank you! You
+        are our favorite sushi restaurant ever!
+      languageCode: en
+    authorAttribution:
+      displayName: Wuin Hopkins
+      uri: https://www.google.com/maps/contrib/108841376820238182954/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjW7x0EjJjRULKigIvZ3AHpemEzYghAg1V5QErIM7EKf6V2voMZE=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-12T05:01:53.605954Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURRNmZmTURREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURRNmZmTURREAE!2m1!1s0x80857ea68d730255:0xfb36f3c2a8c7c68d
+  - name: >-
+      places/ChIJVQJzjaZ-hYARjcbHqMLzNvs/reviews/ChZDSUhNMG9nS0VJQ0FnSURmZ29IaFhBEAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        I'm so excited to have found this place! They offer so many types of
+        fish that I've never seen in other restaurants before. Probably not the
+        best spot for people who want rolls with 8 ingredients and 5 sauces but
+        if you want high quality fresh nigiri/sashimi, this is for you.
+      languageCode: en
+    originalText:
+      text: >-
+        I'm so excited to have found this place! They offer so many types of
+        fish that I've never seen in other restaurants before. Probably not the
+        best spot for people who want rolls with 8 ingredients and 5 sauces but
+        if you want high quality fresh nigiri/sashimi, this is for you.
+      languageCode: en
+    authorAttribution:
+      displayName: Eski Lorann
+      uri: https://www.google.com/maps/contrib/105710110482624090074/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKohBfFgcOanCBScGs7oJGH7a9NCN5zcXiHKuVLTuVkJDzhRA=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-01-04T22:21:19.109500Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURmZ29IaFhBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURmZ29IaFhBEAE!2m1!1s0x80857ea68d730255:0xfb36f3c2a8c7c68d
+review_summary: >-
+  What Customers Are Buzzing About$$$Folks frequently praise the super-fresh
+  fish and expertly crafted sushi pieces, noting how they deliver a satisfying,
+  high-quality taste that's hard to beat in the area. Many diners highlight the
+  generous portions and authentic flavors that make meals feel special without
+  overcomplicating things, turning simple dishes into standout experiences.
+  While some mention the prices leaning toward the premium side, the overall
+  value shines through in the consistent quality and variety that keeps people
+  coming back. Service tends to be attentive and laid-back, adding to the
+  enjoyable vibe, though a few have pointed out occasional inconsistencies. If
+  you're on the hunt for top-rated sushi spots around, this place gets solid
+  nods for its reliable appeal and the way it balances tradition with everyday
+  enjoyment.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeStreetParking: true
+  paidStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
 delivery: null
-dine_in: null
+dine_in: true
 good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: false
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Sushi, seasonal sashimi & teriyaki in a relaxed yet modern dining room with
+  tables & bar seating.
 
 ---

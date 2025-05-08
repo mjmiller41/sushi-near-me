@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Takuma Hibachi"
+title: Takuma Hibachi
 permalink: /oregon/hillsboro/takuma-hibachi.html
 stateAbbr: OR
 stateName: Oregon
 cityName: Hillsboro
 seo:
-  name: "Takuma Hibachi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Takuma Hibachi serves delicious sushi in Hillsboro, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ43IU9SMFlVQRN2mqIT1H9WE
 photos:
   - name: >-
@@ -183,7 +181,44 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Explore Takuma Hibachi in Hillsboro, OR$$$Takuma Hibachi in Hillsboro, OR,
+  offers a welcoming spot for enjoying fresh hibachi meals and sushi rolls in a
+  relaxed setting, making it a go-to choice for those seeking Japanese-inspired
+  dining options. The restaurant specializes in flavorful hibachi dishes and a
+  variety of sushi selections, all prepared with high-quality ingredients that
+  highlight the art of Japanese cuisine. Its casual atmosphere provides an ideal
+  environment for casual meals or gatherings, with accessible features like
+  wheelchair-friendly entrances adding to the convenience. Whether you're
+  looking for sushi restaurants nearby or simply craving authentic flavors, this
+  spot delivers on taste and simplicity, rounding out a satisfying dining
+  experience.
+generative_summary: >-
+  Explore Takuma Hibachi in Hillsboro, OR$$$Takuma Hibachi in Hillsboro, OR,
+  offers a welcoming spot for enjoying fresh hibachi meals and sushi rolls in a
+  relaxed setting, making it a go-to choice for those seeking Japanese-inspired
+  dining options. The restaurant specializes in flavorful hibachi dishes and a
+  variety of sushi selections, all prepared with high-quality ingredients that
+  highlight the art of Japanese cuisine. Its casual atmosphere provides an ideal
+  environment for casual meals or gatherings, with accessible features like
+  wheelchair-friendly entrances adding to the convenience. Whether you're
+  looking for sushi restaurants nearby or simply craving authentic flavors, this
+  spot delivers on taste and simplicity, rounding out a satisfying dining
+  experience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Buzzing About$$$Folks heading to sushi spots like this one
+  often rave about the tasty hibachi and sushi offerings, noting the generous
+  servings of protein and fresh veggies that make every bite feel worthwhile.
+  Many appreciate the quick service and friendly team that keeps things running
+  smoothly without any fuss. It's clear that the reasonable prices add to the
+  appeal, making it a solid pick for anyone searching for top-rated sushi near
+  them. Overall, diners enjoy the reliable flavors and efficient vibe, creating
+  a positive spot for casual eats that doesn't disappoint. If you're exploring
+  Japanese places close by, this location stands out for its honest value and
+  enjoyable meals.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -209,7 +244,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

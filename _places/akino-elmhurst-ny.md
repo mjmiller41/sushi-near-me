@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Akino"
+title: Akino
 permalink: /new-york/elmhurst/akino.html
 stateAbbr: NY
 stateName: New York
 cityName: Elmhurst
 seo:
-  name: "Akino"
-  type: Restaurant
+  type: restaurant
   links: https://www.akinonewyork.com/
-description: "An extensive menu of causal Japanese udon, donburi, & sushi in a modern, industrial dining room. Akino serves delicious sushi in Elmhurst, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJc6fmxaxfwokRnKatMHUC1PA
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $30 &ndash; $50
 rating: '4.3'
 rating_count: 0
 website: https://www.akinonewyork.com/
+description: >-
+  Discover Akino in Elmhurst, NY$$$Akino in Elmhurst, NY, stands out as a
+  welcoming Japanese restaurant known for its all-you-can-eat sushi options and
+  a diverse array of Asian-inspired dishes, perfect for casual dining or quick
+  takeout. The spot features a modern, industrial-style dining room that
+  combines comfort with accessibility, including wheelchair-friendly entrances
+  and seating for an inclusive experience. Fresh ingredients shine through in
+  their extensive menu, highlighting high-quality sushi rolls and other
+  favorites like udon and donburi that appeal to those seeking authentic flavors
+  in a relaxed setting. This sushi restaurant near Elmhurst also offers
+  convenient dine-in or takeout services, making it a go-to choice for anyone
+  exploring top-rated Japanese places in the area.
+generative_summary: >-
+  Discover Akino in Elmhurst, NY$$$Akino in Elmhurst, NY, stands out as a
+  welcoming Japanese restaurant known for its all-you-can-eat sushi options and
+  a diverse array of Asian-inspired dishes, perfect for casual dining or quick
+  takeout. The spot features a modern, industrial-style dining room that
+  combines comfort with accessibility, including wheelchair-friendly entrances
+  and seating for an inclusive experience. Fresh ingredients shine through in
+  their extensive menu, highlighting high-quality sushi rolls and other
+  favorites like udon and donburi that appeal to those seeking authentic flavors
+  in a relaxed setting. This sushi restaurant near Elmhurst also offers
+  convenient dine-in or takeout services, making it a go-to choice for anyone
+  exploring top-rated Japanese places in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJc6fmxaxfwokRnKatMHUC1PA/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3bGE3LXV3RRAB
@@ -424,6 +447,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNJNktQb0RBEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNJNktQb0RBEAE!2m1!1s0x89c25facc5e6a773:0xf0d4027530ada69c
+review_summary: >-
+  What Customers Are Buzzing About$$$Folks heading to this sushi spot often
+  praise the fresh and varied selections, with unlimited sashimi standing out as
+  a real crowd-pleaser for satisfying cravings without limits. Many appreciate
+  the efficient service and solid value, especially for groups looking to dive
+  into a mix of rolls, tempura, and other Japanese favorites during lunch or
+  dinner. While some mention that portions can feel on the smaller side and
+  prices add up quickly, the overall vibe keeps things enjoyable and worth the
+  visit for quality eats. It's a popular pick for anyone searching for reliable
+  sushi restaurants nearby, with quick turnaround times helping to make meals
+  feel seamless and fun. All in all, this place delivers a solid experience that
+  leaves most diners happy and ready to recommend it for a casual night out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -456,8 +492,8 @@ serves_lunch: true
 serves_vegetarian_food: false
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   An extensive menu of causal Japanese udon, donburi, & sushi in a modern,
   industrial dining room.
 

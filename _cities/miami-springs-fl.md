@@ -5,4 +5,5 @@ permalink: /florida/miami-springs/
 stateAbbr: FL
 stateName: Florida
 cityName: Miami Springs
+
 ---

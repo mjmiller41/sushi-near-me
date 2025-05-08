@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "KANSAKU"
+title: KANSAKU
 permalink: /illinois/evanston/kansaku.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Evanston
 seo:
-  name: "KANSAKU"
-  type: Restaurant
+  type: restaurant
   links: http://www.kansakusushi.com/
-description: "Market-fresh sushi, noodles & Japanese standards prepared in a contemporary, intimate space. KANSAKU serves delicious sushi in Evanston, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJQUft9g3QD4gR9cK3YiR4HLo
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 0
 website: http://www.kansakusushi.com/
+description: >-
+  Discover KANSAKU in Evanston, IL$$$KANSAKU in Evanston, IL, offers a welcoming
+  retreat for sushi enthusiasts and fans of Japanese cuisine, blending fresh
+  ingredients with a relaxed vibe that makes it a standout choice for casual
+  dining. This spot features an array of market-fresh rolls, bento boxes, and
+  hearty udon dishes, all prepared with creative flair in an intimate setting
+  that enhances the overall experience. With its focus on accessibility and
+  moderate pricing, it's an ideal destination for those exploring top-rated
+  sushi options in the area, ensuring a comfortable visit for everyone. The
+  contemporary atmosphere pairs perfectly with the variety of Japanese
+  standards, making it a go-to for anyone searching for authentic flavors close
+  to home.
+generative_summary: >-
+  Discover KANSAKU in Evanston, IL$$$KANSAKU in Evanston, IL, offers a welcoming
+  retreat for sushi enthusiasts and fans of Japanese cuisine, blending fresh
+  ingredients with a relaxed vibe that makes it a standout choice for casual
+  dining. This spot features an array of market-fresh rolls, bento boxes, and
+  hearty udon dishes, all prepared with creative flair in an intimate setting
+  that enhances the overall experience. With its focus on accessibility and
+  moderate pricing, it's an ideal destination for those exploring top-rated
+  sushi options in the area, ensuring a comfortable visit for everyone. The
+  contemporary atmosphere pairs perfectly with the variety of Japanese
+  standards, making it a go-to for anyone searching for authentic flavors close
+  to home.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJQUft9g3QD4gR9cK3YiR4HLo/reviews/ChdDSUhNMG9nS0VJQ0FnSURqd09mNTlRRRAB
@@ -346,6 +369,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURqamIzN1pREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURqamIzN1pREAE!2m1!1s0x880fd00df6ed4741:0xba1c782462b7c2f5
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this Evanston favorite consistently
+  praise the fresh and flavorful sushi selections, noting how the creative
+  presentations and quality ingredients make every meal enjoyable. Many
+  highlight the friendly service and casual atmosphere that add to the overall
+  appeal, with dishes like specialty rolls coming across as smart and delicious
+  twists on classics. Folks appreciate the great value for the price, mentioning
+  that the food feels well worth it for both lunch and dinner outings. While
+  some comments suggest it's more of a modern take on Japanese fare rather than
+  strictly traditional, the consensus leans positive, encouraging others to try
+  it for a satisfying experience. Overall, it's clear that this spot delivers on
+  taste and hospitality, making it a solid pick for anyone craving reliable
+  Japanese dining nearby.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidStreetParking: true
 payment_options:
@@ -376,8 +413,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Market-fresh sushi, noodles & Japanese standards prepared in a contemporary,
   intimate space.
 

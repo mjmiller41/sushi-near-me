@@ -5,4 +5,5 @@ permalink: /hawaii/kailua-kona/
 stateAbbr: HI
 stateName: Hawaii
 cityName: Kailua-Kona
+
 ---

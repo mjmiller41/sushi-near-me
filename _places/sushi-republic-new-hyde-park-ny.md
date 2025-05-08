@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Republic"
+title: Sushi Republic
 permalink: /new-york/new-hyde-park/sushi-republic.html
 stateAbbr: NY
 stateName: New York
 cityName: New Hyde Park
 seo:
-  name: "Sushi Republic"
-  type: Restaurant
+  type: restaurant
   links: https://www.sushirepublicny.com/
-description: "Low-key restaurant serving up typical sushi & sashimi options, plus Chinese & Japanese dishes. Sushi Republic serves delicious sushi in New Hyde Park, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ0RvLAQSIwokRhHs6DZJr7wI
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $30 &ndash; $50
 rating: '4.1'
 rating_count: 0
 website: https://www.sushirepublicny.com/
+description: >-
+  Explore Sushi Republic in New Hyde Park, NY$$$Sushi Republic in New Hyde Park,
+  NY, delivers a relaxed dining vibe perfect for enjoying fresh Asian flavors
+  without the fuss. This spot stands out with its all-you-can-eat options,
+  featuring a mix of sushi rolls, sashimi, and complementary dishes that blend
+  Japanese and Chinese influences for a diverse menu. The casual atmosphere
+  makes it ideal for casual meals, with moderate pricing that appeals to those
+  seeking value in their sushi experiences. Accessibility features like
+  wheelchair-friendly entrances and seating add to the welcoming feel, ensuring
+  everyone can savor the variety of options available. Whether you're looking
+  for top-rated sushi spots nearby, this place combines simplicity and taste for
+  an enjoyable outing.
+generative_summary: >-
+  Explore Sushi Republic in New Hyde Park, NY$$$Sushi Republic in New Hyde Park,
+  NY, delivers a relaxed dining vibe perfect for enjoying fresh Asian flavors
+  without the fuss. This spot stands out with its all-you-can-eat options,
+  featuring a mix of sushi rolls, sashimi, and complementary dishes that blend
+  Japanese and Chinese influences for a diverse menu. The casual atmosphere
+  makes it ideal for casual meals, with moderate pricing that appeals to those
+  seeking value in their sushi experiences. Accessibility features like
+  wheelchair-friendly entrances and seating add to the welcoming feel, ensuring
+  everyone can savor the variety of options available. Whether you're looking
+  for top-rated sushi spots nearby, this place combines simplicity and taste for
+  an enjoyable outing.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ0RvLAQSIwokRhHs6DZJr7wI/reviews/ChdDSUhNMG9nS0VJQ0FnSUMzZ3JIUGlRRRAB
@@ -344,6 +367,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNaNmJtZlR3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNaNmJtZlR3EAE!2m1!1s0x89c2880401cb1bd1:0x2ef6b920d3a7b84
+review_summary: >-
+  Feedback from Sushi Enthusiasts$$$Visitors often appreciate the great value
+  found in the all-you-can-eat deals, highlighting how the fresh sushi and side
+  dishes make for a satisfying meal without breaking the bank. Many note the
+  quick service and included drinks as handy perks that enhance the overall
+  experience, especially for groups or casual lunches. While some mention that
+  the food hits a solid everyday level rather than anything extravagant, it's
+  generally seen as a reliable choice for those craving affordable, flavorful
+  options. Folks frequently recommend it for its variety and decent quality,
+  making it a go-to for anyone exploring local sushi spots. Overall, the
+  positive vibes around the freshness and convenience suggest it's worth trying
+  if you're in the mood for something approachable and tasty.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -376,8 +412,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Low-key restaurant serving up typical sushi & sashimi options, plus Chinese &
   Japanese dishes.
 

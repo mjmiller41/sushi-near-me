@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Wild Ginger"
+title: Wild Ginger
 permalink: /new-york/bronxville/wild-ginger.html
 stateAbbr: NY
 stateName: New York
 cityName: Bronxville
 seo:
-  name: "Wild Ginger"
-  type: Restaurant
-  links: null
-description: "Wild Ginger serves delicious sushi in Bronxville, New York. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.wildgingerny.net/?utm_source=gmb&utm_medium=website
 place_id: ChIJOVl7Y5iTwokRvzgfZ8dK9SQ
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c29398637b5939:0x24f54ac7671f38bf!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 45
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 45
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 45
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 45
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 45
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 45
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 45
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:45 AM – 9:30 PM'
+    - 'Tuesday: 11:45 AM – 9:30 PM'
+    - 'Wednesday: 11:45 AM – 9:30 PM'
+    - 'Thursday: 11:45 AM – 9:30 PM'
+    - 'Friday: 11:45 AM – 10:30 PM'
+    - 'Saturday: 11:45 AM – 10:30 PM'
+    - 'Sunday: 12:45 – 9:30 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,51 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
+phone: (914) 337-2198
+price_level: PRICE_LEVEL_MODERATE
 price_range: null
-rating: null
-rating_count: 0
-website: null
+rating: '4.3'
+rating_count: 89
+website: http://www.wildgingerny.net/?utm_source=gmb&utm_medium=website
+description: >-
+  Discover Wild Ginger in Bronxville, NY$$$Wild Ginger in Bronxville, NY, stands
+  out as a casual destination for those seeking authentic Japanese flavors and a
+  relaxed dining experience. This spot offers a diverse array of dishes,
+  including fresh sushi options that appeal to locals looking for quality
+  Japanese places near me, complemented by a selection of cocktails for a
+  complete meal. With its accessible features like wheelchair-friendly parking
+  and entrances, it's designed to welcome everyone for an enjoyable visit. The
+  restaurant maintains moderate pricing, making it a practical choice for
+  everyday outings or special gatherings, and operates with convenient hours
+  that extend into the evening. Its warm atmosphere enhances the overall appeal
+  for anyone exploring top-rated sushi in the area.
+generative_summary: >-
+  Discover Wild Ginger in Bronxville, NY$$$Wild Ginger in Bronxville, NY, stands
+  out as a casual destination for those seeking authentic Japanese flavors and a
+  relaxed dining experience. This spot offers a diverse array of dishes,
+  including fresh sushi options that appeal to locals looking for quality
+  Japanese places near me, complemented by a selection of cocktails for a
+  complete meal. With its accessible features like wheelchair-friendly parking
+  and entrances, it's designed to welcome everyone for an enjoyable visit. The
+  restaurant maintains moderate pricing, making it a practical choice for
+  everyday outings or special gatherings, and operates with convenient hours
+  that extend into the evening. Its warm atmosphere enhances the overall appeal
+  for anyone exploring top-rated sushi in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Folks who stop by Wild Ginger often highlight the
+  consistently fresh sushi and flavorful Japanese dishes as standout features,
+  making it a go-to for anyone searching sushi near me. Many appreciate the
+  friendly service and cozy vibe that add to the overall enjoyment, even if a
+  few note it's best for smaller groups rather than large crowds. The solid 4.3
+  rating from numerous reviews suggests it's a reliable pick for tasty meals
+  without any major letdowns, with comments frequently praising the variety that
+  keeps things exciting. Overall, it's clear this place delivers on expectations
+  for sushi restaurants near me, offering a welcoming spot that's worth trying
+  for a satisfying dine-in experience. While not perfect, the positive buzz
+  around the food and atmosphere keeps the energy upbeat and inviting.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +312,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

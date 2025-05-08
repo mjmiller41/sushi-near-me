@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Factory"
+title: Sushi Factory
 permalink: /washington/vancouver/sushi-factory.html
 stateAbbr: WA
 stateName: Washington
 cityName: Vancouver
 seo:
-  name: "Sushi Factory"
-  type: Restaurant
+  type: restaurant
   links: https://sushifactorywa.com/
-description: "Sushi Factory serves delicious sushi in Vancouver, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJI5cI2pSvlVQRS82JHuIwC6M
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x5495af94da089723:0xa30b30e21e89cd4b!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:00 PM'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:30 PM'
     - 'Saturday: 11:00 AM – 9:30 PM'
     - 'Sunday: 11:00 AM – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 9:30 PM'
-    - 'Saturday: 11:00 AM – 9:30 PM'
-    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T04:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +246,48 @@ phone: (360) 213-2025
 price_level: PRICE_LEVEL_INEXPENSIVE
 price_range: $10 &ndash; $20
 rating: '3.7'
-rating_count: 0
+rating_count: 720
 website: https://sushifactorywa.com/
+description: >-
+  Discover Sushi Factory in Vancouver, Washington$$$Sushi Factory in Vancouver,
+  WA, stands out as a laid-back destination for enjoying fresh sushi and seafood
+  in a welcoming environment. This spot features a unique conveyor belt system
+  that adds an element of fun to your dining experience, alongside a selection
+  of beer and wine to complement your meal. With its accessible entrance,
+  parking, and seating options, it's designed to accommodate a wide range of
+  visitors seeking a relaxed meal. Operating daily from 11 AM, it provides a
+  convenient option for those looking for quality Japanese-inspired cuisine
+  without the formality. Whether you're in the mood for top-rated sushi or
+  exploring nearby Japanese places, this restaurant delivers an authentic taste
+  in a casual setting.
+generative_summary: >-
+  Discover Sushi Factory in Vancouver, Washington$$$Sushi Factory in Vancouver,
+  WA, stands out as a laid-back destination for enjoying fresh sushi and seafood
+  in a welcoming environment. This spot features a unique conveyor belt system
+  that adds an element of fun to your dining experience, alongside a selection
+  of beer and wine to complement your meal. With its accessible entrance,
+  parking, and seating options, it's designed to accommodate a wide range of
+  visitors seeking a relaxed meal. Operating daily from 11 AM, it provides a
+  convenient option for those looking for quality Japanese-inspired cuisine
+  without the formality. Whether you're in the mood for top-rated sushi or
+  exploring nearby Japanese places, this restaurant delivers an authentic taste
+  in a casual setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About the Experience$$$Folks who visit this sushi
+  spot often highlight the fresh flavors and creative rolls that make it a solid
+  choice for a quick bite. Many appreciate the interactive conveyor belt setup,
+  which adds a playful vibe and keeps things engaging during meals, though some
+  note that service can vary depending on the time of day. Overall, it's praised
+  for offering good value with affordable prices around $10 to $20, making it a
+  go-to for families or groups wanting to try the best sushi near me without
+  breaking the bank. While not every visit is flawless, the majority of feedback
+  leans positive, with diners enjoying the casual atmosphere and selection of
+  drinks. If you're searching for reliable sushi restaurants in the area, this
+  place delivers a generally satisfying experience that keeps people coming back
+  for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +313,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

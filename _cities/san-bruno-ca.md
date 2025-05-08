@@ -5,4 +5,5 @@ permalink: /california/san-bruno/
 stateAbbr: CA
 stateName: California
 cityName: San Bruno
+
 ---

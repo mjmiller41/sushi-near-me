@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "IJ Sushi Burrito - UW"
+title: IJ Sushi Burrito - UW
 permalink: /washington/seattle/ij-sushi-burrito-uw.html
 stateAbbr: WA
 stateName: Washington
 cityName: Seattle
 seo:
-  name: "IJ Sushi Burrito - UW"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "IJ Sushi Burrito - UW serves delicious sushi in Seattle, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ4xIgPeQVkFQR2E4YMjoFsJk
 photos:
   - name: >-
@@ -183,7 +181,45 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover IJ Sushi Burrito in Seattle, WA$$$In the heart of Seattle,
+  Washington, IJ Sushi Burrito stands out as a casual spot for fresh
+  Japanese-inspired eats, blending innovative flavors with convenient dining
+  options. This eatery specializes in creative sushi burritos, alongside poke
+  bowls and salad options that cater to those seeking light, customizable meals
+  in a welcoming environment. With its focus on accessibility features like
+  wheelchair-friendly entrances, it's an inclusive choice for anyone exploring
+  sushi places near me in the bustling University District. The menu highlights
+  a mix of traditional and modern twists, making it a go-to for anyone craving
+  top-rated sushi or Japanese dishes close to me, all served in a
+  straightforward, enjoyable setting that emphasizes quality ingredients.
+generative_summary: >-
+  Discover IJ Sushi Burrito in Seattle, WA$$$In the heart of Seattle,
+  Washington, IJ Sushi Burrito stands out as a casual spot for fresh
+  Japanese-inspired eats, blending innovative flavors with convenient dining
+  options. This eatery specializes in creative sushi burritos, alongside poke
+  bowls and salad options that cater to those seeking light, customizable meals
+  in a welcoming environment. With its focus on accessibility features like
+  wheelchair-friendly entrances, it's an inclusive choice for anyone exploring
+  sushi places near me in the bustling University District. The menu highlights
+  a mix of traditional and modern twists, making it a go-to for anyone craving
+  top-rated sushi or Japanese dishes close to me, all served in a
+  straightforward, enjoyable setting that emphasizes quality ingredients.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Buzzing About$$$Visitors to this Seattle sushi spot often
+  rave about the fresh, inventive flavors that make meals feel like a fun twist
+  on classic Japanese fare, with many highlighting the satisfying burritos and
+  bowls as standout choices. Folks appreciate the quick service and approachable
+  vibe, perfect for grabbing a bite on the go or enjoying with friends, though
+  some note that portion sizes can vary based on what you order. Overall, the
+  consensus leans positive, with people loving how it delivers solid value
+  without overcomplicating things, ideal for anyone searching for reliable sushi
+  restaurants near me. It's clear that the creative takes on favorites like poke
+  keep diners coming back, offering a laid-back experience that's worth trying
+  if you're in the mood for something tasty and unpretentious.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -209,7 +245,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

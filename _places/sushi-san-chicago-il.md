@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi-san"
+title: Sushi-san
 permalink: /illinois/chicago/sushi-san.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
 seo:
-  name: "Sushi-san"
-  type: Restaurant
-  links: null
-description: "Sushi-san serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://sushisanrestaurant.com/river-north
 place_id: ChIJx5enN7IsDogRlQ9Sx_28t8Q
 photos:
   - name: >-
@@ -169,22 +167,186 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x880e2cb237a797c7:0xc4b7bcfdc7520f95!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 10:00 PM'
+    - 'Tuesday: 11:00 AM – 10:00 PM'
+    - 'Wednesday: 11:00 AM – 10:00 PM'
+    - 'Thursday: 11:00 AM – 10:00 PM'
+    - 'Friday: 11:00 AM – 11:00 PM'
+    - 'Saturday: 12:00 – 11:00 PM'
+    - 'Sunday: 12:00 – 10:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
-phone: null
-price_level: null
+  - openNow: false
+    periods:
+      - open:
+          day: 0
+          hour: 15
+          minute: 0
+        close:
+          day: 0
+          hour: 17
+          minute: 0
+      - open:
+          day: 1
+          hour: 16
+          minute: 0
+        close:
+          day: 1
+          hour: 18
+          minute: 0
+      - open:
+          day: 2
+          hour: 16
+          minute: 0
+        close:
+          day: 2
+          hour: 18
+          minute: 0
+      - open:
+          day: 3
+          hour: 16
+          minute: 0
+        close:
+          day: 3
+          hour: 18
+          minute: 0
+      - open:
+          day: 4
+          hour: 16
+          minute: 0
+        close:
+          day: 4
+          hour: 18
+          minute: 0
+      - open:
+          day: 5
+          hour: 15
+          minute: 0
+        close:
+          day: 5
+          hour: 17
+          minute: 0
+      - open:
+          day: 6
+          hour: 15
+          minute: 0
+        close:
+          day: 6
+          hour: 17
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 4:00 – 6:00 PM'
+      - 'Tuesday: 4:00 – 6:00 PM'
+      - 'Wednesday: 4:00 – 6:00 PM'
+      - 'Thursday: 4:00 – 6:00 PM'
+      - 'Friday: 3:00 – 5:00 PM'
+      - 'Saturday: 3:00 – 5:00 PM'
+      - 'Sunday: 3:00 – 5:00 PM'
+    secondaryHoursType: HAPPY_HOUR
+    nextOpenTime: '2025-05-04T20:00:00Z'
+phone: (312) 828-0575
+price_level: PRICE_LEVEL_MODERATE
 price_range: null
-rating: null
-rating_count: 0
-website: null
+rating: '4.7'
+rating_count: 4646
+website: http://sushisanrestaurant.com/river-north
+description: >-
+  Discover Sushi-san in Chicago, IL$$$Sushi-san in Chicago, IL, stands out as a
+  vibrant spot for enjoying fresh Japanese cuisine, featuring made-to-order
+  sushi rolls and expertly prepared meats in a relaxed environment. This sushi
+  restaurant highlights creative offerings like binchotan-roasted dishes and
+  other authentic Japanese flavors, making it a go-to choice for those seeking
+  quality dining options in the city. The casual setting combines modern vibes
+  with accessibility features, ensuring a welcoming experience for all guests
+  looking for sushi restaurants nearby. Whether you're exploring top-rated sushi
+  spots or craving innovative twists on classic rolls, Sushi-san delivers a
+  memorable meal that captures the essence of Japanese culinary traditions.
+generative_summary: >-
+  Discover Sushi-san in Chicago, IL$$$Sushi-san in Chicago, IL, stands out as a
+  vibrant spot for enjoying fresh Japanese cuisine, featuring made-to-order
+  sushi rolls and expertly prepared meats in a relaxed environment. This sushi
+  restaurant highlights creative offerings like binchotan-roasted dishes and
+  other authentic Japanese flavors, making it a go-to choice for those seeking
+  quality dining options in the city. The casual setting combines modern vibes
+  with accessibility features, ensuring a welcoming experience for all guests
+  looking for sushi restaurants nearby. Whether you're exploring top-rated sushi
+  spots or craving innovative twists on classic rolls, Sushi-san delivers a
+  memorable meal that captures the essence of Japanese culinary traditions.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Folks who stop by this sushi spot often highlight
+  the standout dishes like flavorful rolls and fresh seafood, creating a buzz
+  around the creative menu that keeps diners coming back. Many appreciate the
+  inventive cocktails that pair perfectly with the meals, adding to the overall
+  fun and lively atmosphere that feels both hip and inviting. The energy of the
+  place, with its upbeat vibes reminiscent of a classic izakaya, makes it a
+  favorite for casual get-togethers or solo adventures in the area. Overall, the
+  consensus leans positive, with praise for the quality ingredients and
+  welcoming feel, though it's clear that the experience shines brightest for
+  those who enjoy a dynamic setting with their meal. If you're on the hunt for
+  the best sushi near you, this spot tends to deliver a satisfying and enjoyable
+  visit.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +372,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

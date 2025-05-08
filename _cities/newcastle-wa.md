@@ -5,4 +5,5 @@ permalink: /washington/newcastle/
 stateAbbr: WA
 stateName: Washington
 cityName: Newcastle
+
 ---

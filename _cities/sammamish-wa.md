@@ -5,4 +5,5 @@ permalink: /washington/sammamish/
 stateAbbr: WA
 stateName: Washington
 cityName: Sammamish
+
 ---

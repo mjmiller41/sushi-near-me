@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Express"
+title: Sushi Express
 permalink: /district-of-columbia/washington/sushi-express.html
 stateAbbr: DC
 stateName: District of Columbia
 cityName: Washington
 seo:
-  name: "Sushi Express"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Japanese counter serve in an office complex selling grab-&-go maki rolls & lunch combos. Sushi Express serves delicious sushi in Washington, District of Columbia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJB8lD-bm3t4kRCozAP7vQbLU
 photos:
   - name: >-
@@ -182,6 +180,27 @@ price_range: $10 &ndash; $20
 rating: '4.2'
 rating_count: 0
 website: null
+description: >-
+  Explore Sushi Express in Washington, DC$$$Sushi Express in Washington, DC,
+  stands out as a convenient counter-serve spot tucked within an office complex,
+  ideal for those seeking quick Japanese flavors on the go. This sushi
+  restaurant offers fresh maki rolls and hearty lunch combos that emphasize
+  affordable variety and satisfying options like soups and dumplings. Visitors
+  appreciate the emphasis on quality ingredients and straightforward dining,
+  making it a reliable choice for everyday meals in a busy urban setting. With
+  its grab-and-go appeal, it's perfect for anyone looking for accessible sushi
+  options that deliver good value without the fuss.
+generative_summary: >-
+  Explore Sushi Express in Washington, DC$$$Sushi Express in Washington, DC,
+  stands out as a convenient counter-serve spot tucked within an office complex,
+  ideal for those seeking quick Japanese flavors on the go. This sushi
+  restaurant offers fresh maki rolls and hearty lunch combos that emphasize
+  affordable variety and satisfying options like soups and dumplings. Visitors
+  appreciate the emphasis on quality ingredients and straightforward dining,
+  making it a reliable choice for everyday meals in a busy urban setting. With
+  its grab-and-go appeal, it's perfect for anyone looking for accessible sushi
+  options that deliver good value without the fuss.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJB8lD-bm3t4kRCozAP7vQbLU/reviews/ChZDSUhNMG9nS0VJQ0FnSURIZ3EyQmR3EAE
@@ -351,6 +370,17 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURBaWVld3FBRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURBaWVld3FBRRAB!2m1!1s0x89b7b7b9f943c907:0xb56cd0bb3fc08c0a
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors to this sushi spot often highlight
+  the fresh flavors and great deals on rolls and combos, making it a go-to for
+  affordable weekday lunches. While most enjoy the quick service and tasty
+  variety that keeps things simple and satisfying, a few note that some dishes
+  might not always hit the mark in terms of seasoning or quality. Overall, it's
+  praised as a hidden gem among local eateries, with many returning for the
+  reliable options that brighten their day. If you're searching for top-rated
+  sushi near you, this place generally delivers a positive experience that's
+  worth trying for its convenience and value.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   valetParking: false
 payment_options:
@@ -381,8 +411,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: null
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Japanese counter serve in an office complex selling grab-&-go maki rolls &
   lunch combos.
 

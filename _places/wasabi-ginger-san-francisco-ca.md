@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Wasabi & Ginger"
+title: Wasabi & Ginger
 permalink: /california/san-francisco/wasabi-ginger.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
 seo:
-  name: "Wasabi & Ginger"
-  type: Restaurant
+  type: restaurant
   links: http://www.wasabigingerca.com/
-description: "Traditional & creative raw fish plus grilled & fried Japanese dishes served in a casual space. Wasabi & Ginger serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, and dinner."
 place_id: ChIJDSCl1umAhYARyKXXByWjZ5g
 photos:
   - name: >-
@@ -184,6 +182,31 @@ price_range: null
 rating: '4.2'
 rating_count: 0
 website: http://www.wasabigingerca.com/
+description: >-
+  Discover Wasabi & Ginger in San Francisco, CA$$$Wasabi & Ginger in San
+  Francisco, CA, stands out as a welcoming spot for enjoying authentic Japanese
+  flavors, featuring fresh sushi rolls, tempura, and a selection of beverages
+  like beer and wine. This neighborhood eatery combines traditional elements
+  with creative twists, making it a go-to choice for those seeking quality sushi
+  restaurants in the area. With its casual atmosphere and accessible features,
+  such as wheelchair-friendly entrances, it caters to a variety of diners
+  looking for a reliable meal option. The menu highlights a balance of classic
+  dishes and innovative offerings, appealing to anyone exploring top-rated
+  Japanese places near me. Overall, it's an ideal destination for a satisfying
+  dining experience in the heart of the city.
+generative_summary: >-
+  Discover Wasabi & Ginger in San Francisco, CA$$$Wasabi & Ginger in San
+  Francisco, CA, stands out as a welcoming spot for enjoying authentic Japanese
+  flavors, featuring fresh sushi rolls, tempura, and a selection of beverages
+  like beer and wine. This neighborhood eatery combines traditional elements
+  with creative twists, making it a go-to choice for those seeking quality sushi
+  restaurants in the area. With its casual atmosphere and accessible features,
+  such as wheelchair-friendly entrances, it caters to a variety of diners
+  looking for a reliable meal option. The menu highlights a balance of classic
+  dishes and innovative offerings, appealing to anyone exploring top-rated
+  Japanese places near me. Overall, it's an ideal destination for a satisfying
+  dining experience in the heart of the city.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJDSCl1umAhYARyKXXByWjZ5g/reviews/ChZDSUhNMG9nS0VJQ0FnSUN4Mm9YRFRBEAE
@@ -315,6 +338,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNib2ZQVU5nEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNib2ZQVU5nEAE!2m1!1s0x808580e9d6a5200d:0x9867a32507d7a5c8
+review_summary: >-
+  What People Love About This Sushi Spot$$$Folks rave about the fresh
+  ingredients and generous portions at this popular sushi restaurant, with many
+  highlighting how the fish and rolls deliver a consistently enjoyable taste.
+  Diners often appreciate the efficient service and quick pickup options, making
+  it a convenient choice for casual meals or takeout. The variety of dishes,
+  including standout ramen and creative specials, keeps things exciting and
+  leaves visitors eager to return for more. While prices align with what's
+  typical in the area, the overall value and welcoming vibe make it a solid pick
+  for anyone searching for great sushi close to me. In summary, it's a
+  dependable spot that earns high marks for its flavorful food and friendly
+  atmosphere, though like any place, experiences can vary based on personal
+  preferences.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   valetParking: false
 payment_options:
@@ -345,8 +382,8 @@ serves_lunch: null
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Traditional & creative raw fish plus grilled & fried Japanese dishes served in
   a casual space.
 

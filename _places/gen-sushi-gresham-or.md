@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Gen Sushi"
+title: Gen Sushi
 permalink: /oregon/gresham/gen-sushi.html
 stateAbbr: OR
 stateName: Oregon
 cityName: Gresham
 seo:
-  name: "Gen Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.gensushipdx.com/
-description: "Gen Sushi serves delicious sushi in Gresham, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJHfhIe_yZlVQRyPkBPf8_PdU
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x549599fc7b48f81d:0xd53d3fff3d01f9c8!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:30 PM'
     - 'Tuesday: 11:00 AM – 9:30 PM'
     - 'Wednesday: 11:00 AM – 9:30 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:30 PM'
     - 'Saturday: 11:00 AM – 9:30 PM'
     - 'Sunday: 11:00 AM – 9:30 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:30 PM'
-    - 'Tuesday: 11:00 AM – 9:30 PM'
-    - 'Wednesday: 11:00 AM – 9:30 PM'
-    - 'Thursday: 11:00 AM – 9:30 PM'
-    - 'Friday: 11:00 AM – 9:30 PM'
-    - 'Saturday: 11:00 AM – 9:30 PM'
-    - 'Sunday: 11:00 AM – 9:30 PM'
+  nextCloseTime: '2025-05-04T04:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,312 @@ phone: (503) 489-5581
 price_level: null
 price_range: $10 &ndash; $20
 rating: '4.4'
-rating_count: 0
+rating_count: 258
 website: https://www.gensushipdx.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Gen Sushi in Gresham, Oregon$$$Gen Sushi in Gresham, Oregon, stands
+  out as a laid-back spot for enjoying fresh sushi selections delivered via a
+  convenient conveyor belt, complemented by a selection of beer and wine. This
+  welcoming restaurant features an array of affordable Japanese-inspired dishes
+  that cater to those seeking top-rated sushi options nearby, with options
+  ranging from classic rolls to lighter bites. Accessibility is a key highlight,
+  including wheelchair-friendly parking, entrances, and seating, making it easy
+  for everyone to enjoy a meal. The spot maintains a clean and vibrant
+  atmosphere, ideal for quick lunches or casual dinners, and operates daily with
+  extended hours to accommodate various schedules. Whether you're looking for
+  sushi restaurants close to home or a fun dining experience, Gen Sushi delivers
+  quality and variety without overwhelming the senses.
+generative_summary: >-
+  Discover Gen Sushi in Gresham, Oregon$$$Gen Sushi in Gresham, Oregon, stands
+  out as a laid-back spot for enjoying fresh sushi selections delivered via a
+  convenient conveyor belt, complemented by a selection of beer and wine. This
+  welcoming restaurant features an array of affordable Japanese-inspired dishes
+  that cater to those seeking top-rated sushi options nearby, with options
+  ranging from classic rolls to lighter bites. Accessibility is a key highlight,
+  including wheelchair-friendly parking, entrances, and seating, making it easy
+  for everyone to enjoy a meal. The spot maintains a clean and vibrant
+  atmosphere, ideal for quick lunches or casual dinners, and operates daily with
+  extended hours to accommodate various schedules. Whether you're looking for
+  sushi restaurants close to home or a fun dining experience, Gen Sushi delivers
+  quality and variety without overwhelming the senses.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJHfhIe_yZlVQRyPkBPf8_PdU/reviews/ChZDSUhNMG9nS0VJQ0FnTURveTh2ZURREAE
+    relativePublishTimeDescription: in the last week
+    rating: 4
+    text:
+      text: >-
+        4/22/25
+
+        I did not know this place was there, it used to be a pizza place.
+
+        I've been to Sushi Train restaurants before. Normally, these are nothing
+        extraordinary, just run of the mill, grab a quick bite of mediocre sushi
+        and leave.
+
+        The first thing I noticed was that it was very clean, even the floor.
+
+        There was a huge selection of sushi on the conveyor belt, even though it
+        was between lunch and dinner.
+
+        All of the sushi that I chose was very fresh. The rolls were not big and
+        they had the usual three pieces to a plate, but there was quite a bit of
+        filling.
+
+        They also had a fresh strawberries and oranges... mini whipped cream
+        eclairs...endeme... and fresh seaweed that did not taste fishy.
+
+        I also ordered Maguro. I could not believe how big and fresh both slices
+        of tuna were!
+
+        I was there during happy hour so even though I had seven or eight plates
+        ( I took several plates of strawberries mini eclairs to go) my final
+        bill was incredibly reasonable.
+
+
+        I never believe it when I read five star reviews, I think 50% of them
+        are Bots.
+
+        So I am leaving a 4-star review with the comment that this is a five
+        star conveyor belt sushi pit stop.
+
+        The service was good. The lady brought me water as soon as I sat down. I
+        have a hard time walking, and  a gentleman was kind enough bring my
+        check and pay my bill where I sat.
+
+
+        I actually called my daughter as soon as I left and told her I had found
+        a new restaurant for us to go to.
+
+        I can't wait to go back it was just delightful.
+      languageCode: en
+    originalText:
+      text: >-
+        4/22/25
+
+        I did not know this place was there, it used to be a pizza place.
+
+        I've been to Sushi Train restaurants before. Normally, these are nothing
+        extraordinary, just run of the mill, grab a quick bite of mediocre sushi
+        and leave.
+
+        The first thing I noticed was that it was very clean, even the floor.
+
+        There was a huge selection of sushi on the conveyor belt, even though it
+        was between lunch and dinner.
+
+        All of the sushi that I chose was very fresh. The rolls were not big and
+        they had the usual three pieces to a plate, but there was quite a bit of
+        filling.
+
+        They also had a fresh strawberries and oranges... mini whipped cream
+        eclairs...endeme... and fresh seaweed that did not taste fishy.
+
+        I also ordered Maguro. I could not believe how big and fresh both slices
+        of tuna were!
+
+        I was there during happy hour so even though I had seven or eight plates
+        ( I took several plates of strawberries mini eclairs to go) my final
+        bill was incredibly reasonable.
+
+
+        I never believe it when I read five star reviews, I think 50% of them
+        are Bots.
+
+        So I am leaving a 4-star review with the comment that this is a five
+        star conveyor belt sushi pit stop.
+
+        The service was good. The lady brought me water as soon as I sat down. I
+        have a hard time walking, and  a gentleman was kind enough bring my
+        check and pay my bill where I sat.
+
+
+        I actually called my daughter as soon as I left and told her I had found
+        a new restaurant for us to go to.
+
+        I can't wait to go back it was just delightful.
+      languageCode: en
+    authorAttribution:
+      displayName: Kathy Prock
+      uri: https://www.google.com/maps/contrib/108409065545480093444/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJ5KvuvFX7vlxNNo-xqWNPNB0nzn0_ds4KuQsk6MtzUbMh3rg=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-28T23:49:20.847915Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURveTh2ZURREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURveTh2ZURREAE!2m1!1s0x549599fc7b48f81d:0xd53d3fff3d01f9c8
+  - name: >-
+      places/ChIJHfhIe_yZlVQRyPkBPf8_PdU/reviews/ChZDSUhNMG9nS0VJQ0FnTUNvdU1Ld1VnEAE
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        My first real sushi restaurant experience won't be my last. DELICOUS!
+        Reasable "Happy Hour" prices (all day!). The colorful, helpful menu
+        identifies which items have raw fish - and include enticing names like
+        Tiger Roll, Dragon Roll, and Monster Roll!. These, and many others roll
+        by on the sushi rail (think conveyor belt) which you grab your choices
+        off on. So fun!
+      languageCode: en
+    originalText:
+      text: >-
+        My first real sushi restaurant experience won't be my last. DELICOUS!
+        Reasable "Happy Hour" prices (all day!). The colorful, helpful menu
+        identifies which items have raw fish - and include enticing names like
+        Tiger Roll, Dragon Roll, and Monster Roll!. These, and many others roll
+        by on the sushi rail (think conveyor belt) which you grab your choices
+        off on. So fun!
+      languageCode: en
+    authorAttribution:
+      displayName: Cindy McMahen
+      uri: https://www.google.com/maps/contrib/101114241764008899485/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjV7gv-hgtGp3ecKcnCXqpisB2A2BqObZdWAKqOODRJ59K7TxCRo=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-15T01:24:48.122835Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNvdU1Ld1VnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNvdU1Ld1VnEAE!2m1!1s0x549599fc7b48f81d:0xd53d3fff3d01f9c8
+  - name: >-
+      places/ChIJHfhIe_yZlVQRyPkBPf8_PdU/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRbFBMbUVREAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        Sushi Zen is hands down the best sushi in town! The atmosphere is
+        perfect for a sake night, and the prices are more reasonable compared to
+        other places. I love that you can order half rolls to try different
+        flavors! They have best sake collection and as someone who enjoys sushi
+        and has tried many spots in town, this one is by far the best. The
+        service is always friendly, and the staff is so welcoming every time I
+        visit. It's a great spot for date nights or casual gatherings. They even
+        have a sushi rail, which is super fun to watch and grab dishes from.
+        Highly recommend it, but be sure to arrive early as it fills up quickly!
+      languageCode: en
+    originalText:
+      text: >-
+        Sushi Zen is hands down the best sushi in town! The atmosphere is
+        perfect for a sake night, and the prices are more reasonable compared to
+        other places. I love that you can order half rolls to try different
+        flavors! They have best sake collection and as someone who enjoys sushi
+        and has tried many spots in town, this one is by far the best. The
+        service is always friendly, and the staff is so welcoming every time I
+        visit. It's a great spot for date nights or casual gatherings. They even
+        have a sushi rail, which is super fun to watch and grab dishes from.
+        Highly recommend it, but be sure to arrive early as it fills up quickly!
+      languageCode: en
+    authorAttribution:
+      displayName: Jen Oh
+      uri: https://www.google.com/maps/contrib/101784595232854093219/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJatttCXzPkKCPj_cLiLoz16to0453qM3C1PR-Zve56iNxzDQ=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-02T06:02:44.148742Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNRbFBMbUVREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNRbFBMbUVREAE!2m1!1s0x549599fc7b48f81d:0xd53d3fff3d01f9c8
+  - name: >-
+      places/ChIJHfhIe_yZlVQRyPkBPf8_PdU/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJaU5MTEpBEAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Great Variety of sushi both you can order and on the conveyor belt. I
+        went during happy hour which means every plate is like 3 bucks each.
+        Would come again.
+      languageCode: en
+    originalText:
+      text: >-
+        Great Variety of sushi both you can order and on the conveyor belt. I
+        went during happy hour which means every plate is like 3 bucks each.
+        Would come again.
+      languageCode: en
+    authorAttribution:
+      displayName: Mr. Eyeball
+      uri: https://www.google.com/maps/contrib/101192717083892578614/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUr4fJu3wDuCucRE0zdhml0UnXgohJAV8tiiHueU7I8tFnff8m5=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-03-29T19:08:07.561344Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNJaU5MTEpBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNJaU5MTEpBEAE!2m1!1s0x549599fc7b48f81d:0xd53d3fff3d01f9c8
+  - name: >-
+      places/ChIJHfhIe_yZlVQRyPkBPf8_PdU/reviews/ChdDSUhNMG9nS0VJQ0FnSURidjZ2TjNBRRAB
+    relativePublishTimeDescription: 8 months ago
+    rating: 4
+    text:
+      text: >-
+        Great sushi experience, you can choose just enough for you with many
+        selections of Japanese food to experience. All fresh and appetizing.
+        Staff are friendly and helpful. The price is surprisingly cheap. Great
+        foodie experience when your around Portland, Oregon.
+      languageCode: en
+    originalText:
+      text: >-
+        Great sushi experience, you can choose just enough for you with many
+        selections of Japanese food to experience. All fresh and appetizing.
+        Staff are friendly and helpful. The price is surprisingly cheap. Great
+        foodie experience when your around Portland, Oregon.
+      languageCode: en
+    authorAttribution:
+      displayName: Jerry Rocacurva
+      uri: https://www.google.com/maps/contrib/110902664990636405658/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWnpTBXh0SfEJSu5-bHpEGJL0taYoLD_2NUwDnc0ZCgCyqUa-A=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-08-11T03:52:43.250698Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURidjZ2TjNBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURidjZ2TjNBRRAB!2m1!1s0x549599fc7b48f81d:0xd53d3fff3d01f9c8
+review_summary: >-
+  What Customers Are Saying About This Gresham Sushi Spot$$$Folks rave about the
+  fresh and diverse sushi offerings here, with plenty of choices zipping by on
+  the conveyor belt that make grabbing a bite both entertaining and
+  straightforward. Many appreciate the unbeatable happy hour deals that keep
+  things affordable, allowing diners to sample a wide range of flavors without
+  breaking the bank. The service stands out as friendly and attentive, adding to
+  the overall relaxed vibe that suits everything from solo visits to group
+  outings. While some note it's a great place for experimenting with new rolls,
+  others highlight the reasonable portions and unexpected treats like fresh
+  fruit. All in all, it's a solid pick for anyone hunting for reliable sushi
+  near me, with the general consensus leaning positive for its tasty selections
+  and welcoming feel.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
 menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
 serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yellowtail Japanese Bistro"
+title: Yellowtail Japanese Bistro
 permalink: /new-jersey/fairfield/yellowtail-japanese-bistro.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Fairfield
 seo:
-  name: "Yellowtail Japanese Bistro"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Yellowtail Japanese Bistro serves delicious sushi in Fairfield, New Jersey. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJST_7qbUBw4kRSbAAxq05Yuo
 photos:
   - name: >-
@@ -185,6 +183,37 @@ price_range: $20 &ndash; $30
 rating: '4.8'
 rating_count: 0
 website: null
+description: >-
+  Discover Yellowtail Japanese Bistro in Fairfield, NJ$$$Yellowtail Japanese
+  Bistro in Fairfield, NJ, offers a cozy dining experience nestled in a shopping
+  center, specializing in fresh sushi and a variety of traditional Japanese
+  dishes that highlight authentic flavors. The spot features a welcoming
+  ambiance with thoughtful decor and lighting, making it an ideal choice for
+  those seeking sushi restaurants near me that combine comfort with culinary
+  excellence. Accessibility is a key highlight, including wheelchair-friendly
+  parking, entrances, and seating, ensuring everyone can enjoy the menu's
+  diverse offerings like expertly prepared rolls and plates. Patrons appreciate
+  the moderate pricing, which makes it a great option for casual meals or
+  special occasions, while the focus on quality ingredients elevates the overall
+  experience. Whether you're exploring Japanese places near me or craving
+  top-rated sushi, this bistro delivers a satisfying blend of taste and
+  atmosphere.
+generative_summary: >-
+  Discover Yellowtail Japanese Bistro in Fairfield, NJ$$$Yellowtail Japanese
+  Bistro in Fairfield, NJ, offers a cozy dining experience nestled in a shopping
+  center, specializing in fresh sushi and a variety of traditional Japanese
+  dishes that highlight authentic flavors. The spot features a welcoming
+  ambiance with thoughtful decor and lighting, making it an ideal choice for
+  those seeking sushi restaurants near me that combine comfort with culinary
+  excellence. Accessibility is a key highlight, including wheelchair-friendly
+  parking, entrances, and seating, ensuring everyone can enjoy the menu's
+  diverse offerings like expertly prepared rolls and plates. Patrons appreciate
+  the moderate pricing, which makes it a great option for casual meals or
+  special occasions, while the focus on quality ingredients elevates the overall
+  experience. Whether you're exploring Japanese places near me or craving
+  top-rated sushi, this bistro delivers a satisfying blend of taste and
+  atmosphere.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJST_7qbUBw4kRSbAAxq05Yuo/reviews/ChZDSUhNMG9nS0VJQ0FnSUMza09EZVJREAE
@@ -350,6 +379,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURUcDVHY2l3RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURUcDVHY2l3RRAB!2m1!1s0x89c301b5a9fb3f49:0xea6239adc600b049
+review_summary: >-
+  What Customers Love About This Spot$$$Visitors to this sushi haven often rave
+  about the fresh and flavorful dishes that make it a standout among local
+  options, with highlights including creative rolls and satisfying appetizers
+  that keep diners coming back. Folks appreciate the attentive service and quick
+  turnaround, creating a relaxed vibe that's perfect for a casual night out or a
+  quick bite after shopping. Many mention the great value, like special deals
+  that add extra excitement to the meal without breaking the bank, all while
+  enjoying a clean and inviting space. Overall, the consensus leans positive,
+  with praise for the variety of choices that cater to different tastes, from
+  hearty ramen to light salads, making it a reliable pick for anyone searching
+  for the best sushi near me. If you're in the mood for I love sushi moments,
+  this place delivers an honest, enjoyable experience that's worth the visit.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -382,7 +425,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

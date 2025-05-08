@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "bluemaki sushi by HARBOUR"
+title: bluemaki sushi by HARBOUR
 permalink: /california/palmdale/bluemaki-sushi-by-harbour.html
 stateAbbr: CA
 stateName: California
 cityName: Palmdale
 seo:
-  name: "bluemaki sushi by HARBOUR"
-  type: Restaurant
+  type: restaurant
   links: https://bluemakisushi.com/
-description: "bluemaki sushi by HARBOUR serves delicious sushi in Palmdale, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJZ4saLEJZwoAR6kpTRc7U0v0
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 0
 website: https://bluemakisushi.com/
+description: >-
+  Discover Bluemaki Sushi in Palmdale, CA$$$Bluemaki Sushi by Harbour in
+  Palmdale, CA, stands out as a welcoming spot for those seeking quality sushi
+  experiences in a relaxed setting. This sushi restaurant offers an array of
+  fresh rolls, paired perfectly with options like beer and sake, making it ideal
+  for casual dining or gathering with friends. The informal atmosphere enhances
+  the enjoyment, allowing patrons to savor inventive dishes without the
+  formality of upscale venues. Accessibility features, such as
+  wheelchair-friendly entrances and seating, ensure everyone can enjoy the
+  vibrant flavors of top-rated Japanese cuisine. Whether you're exploring sushi
+  places near you or looking for reliable Japanese dining options, this location
+  delivers a satisfying blend of taste and convenience.
+generative_summary: >-
+  Discover Bluemaki Sushi in Palmdale, CA$$$Bluemaki Sushi by Harbour in
+  Palmdale, CA, stands out as a welcoming spot for those seeking quality sushi
+  experiences in a relaxed setting. This sushi restaurant offers an array of
+  fresh rolls, paired perfectly with options like beer and sake, making it ideal
+  for casual dining or gathering with friends. The informal atmosphere enhances
+  the enjoyment, allowing patrons to savor inventive dishes without the
+  formality of upscale venues. Accessibility features, such as
+  wheelchair-friendly entrances and seating, ensure everyone can enjoy the
+  vibrant flavors of top-rated Japanese cuisine. Whether you're exploring sushi
+  places near you or looking for reliable Japanese dining options, this location
+  delivers a satisfying blend of taste and convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJZ4saLEJZwoAR6kpTRc7U0v0/reviews/ChZDSUhNMG9nS0VJQ0FnSUN2dWZUaEl3EAE
@@ -360,6 +383,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNUbmRMcjFBRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNUbmRMcjFBRRAB!2m1!1s0x80c259422c1a8b67:0xfdd2d4ce45534aea
+review_summary: >-
+  Insights from Recent Reviews$$$Folks who've visited this sushi spot often
+  highlight the fresh and flavorful rolls that make every meal feel like a
+  treat, especially with the wallet-friendly specials that offer great value for
+  groups. Many appreciate the quick service and variety of options, from tasty
+  bento boxes to creative combinations that keep things exciting without
+  overwhelming the palate. While some mention minor preferences like adjusting
+  dish temperatures, the overall experience comes across as reliably positive
+  and worth returning for. It's clear that the deals on lunch and dinner make it
+  a smart choice for anyone hunting for the best sushi near me, with consistent
+  praise for the welcoming vibe and solid portions. If you're in the mood for
+  satisfying Japanese fare, these shared experiences suggest it's a dependable
+  pick for a casual outing.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -391,7 +428,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

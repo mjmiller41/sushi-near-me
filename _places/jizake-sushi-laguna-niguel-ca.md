@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Jizake Sushi - 地酒すし"
+title: Jizake Sushi - 地酒すし
 permalink: /california/laguna-niguel/jizake-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Laguna Niguel
 seo:
-  name: "Jizake Sushi - 地酒すし"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Simply furnished Japanese eatery with an eat-at sushi bar, offering house rolls, noodles & tempura. Jizake Sushi - 地酒すし serves delicious sushi in Laguna Niguel, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, and dinner."
 place_id: ChIJo5wjAL3v3IARu9wk32l8TnQ
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $30 &ndash; $50
 rating: '4.6'
 rating_count: 0
 website: null
+description: >-
+  Discover Jizake Sushi in Laguna Niguel, CA$$$In Laguna Niguel, CA, Jizake
+  Sushi offers a welcoming spot for enjoying authentic Japanese flavors in a
+  relaxed setting. This casual eatery highlights a menu of fresh small plates,
+  creative sushi rolls, and a selection of sake, making it a great choice for
+  those exploring sushi restaurants in the area. With its simply furnished space
+  and an inviting eat-at sushi bar, diners can savor house-made rolls, noodles,
+  and tempura that emphasize quality ingredients and traditional preparation.
+  Whether you're seeking top-rated sushi near me or Japanese-inspired dishes
+  close to home, the accessible features like wheelchair-friendly seating add to
+  the appeal for a comfortable meal.
+generative_summary: >-
+  Discover Jizake Sushi in Laguna Niguel, CA$$$In Laguna Niguel, CA, Jizake
+  Sushi offers a welcoming spot for enjoying authentic Japanese flavors in a
+  relaxed setting. This casual eatery highlights a menu of fresh small plates,
+  creative sushi rolls, and a selection of sake, making it a great choice for
+  those exploring sushi restaurants in the area. With its simply furnished space
+  and an inviting eat-at sushi bar, diners can savor house-made rolls, noodles,
+  and tempura that emphasize quality ingredients and traditional preparation.
+  Whether you're seeking top-rated sushi near me or Japanese-inspired dishes
+  close to home, the accessible features like wheelchair-friendly seating add to
+  the appeal for a comfortable meal.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJo5wjAL3v3IARu9wk32l8TnQ/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3dnZMNmJnEAE
@@ -370,6 +391,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNscmZMNHlBRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNscmZMNHlBRRAB!2m1!1s0x80dcefbd00239ca3:0x744e7c69df24dcbb
+review_summary: >-
+  What Customers Are Saying$$$Folks often praise the delicious sushi rolls and
+  tasty appetizers like coconut shrimp, noting how they hit the spot for a
+  satisfying Japanese meal. The cozy and lively atmosphere gets high marks, with
+  many appreciating the friendly and attentive service that makes dining feel
+  welcoming. While most experiences are positive, a few mentions of occasional
+  service hiccups keep things real, encouraging a balanced visit. Overall, it's
+  frequently recommended as a go-to for fresh and authentic flavors, especially
+  if you're on the hunt for sushi places near me that deliver on taste and vibe.
+  If you're in the mood for I love sushi moments, this spot tends to leave
+  diners happy with its solid offerings.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -402,8 +435,8 @@ serves_lunch: false
 serves_vegetarian_food: false
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Simply furnished Japanese eatery with an eat-at sushi bar, offering house
   rolls, noodles & tempura.
 

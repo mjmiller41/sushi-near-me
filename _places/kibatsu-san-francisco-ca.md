@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kibatsu"
+title: Kibatsu
 permalink: /california/san-francisco/kibatsu.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
 seo:
-  name: "Kibatsu"
-  type: Restaurant
+  type: restaurant
   links: https://www.kibatsusushi.com/
-description: "Kibatsu serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, and dinner."
 place_id: ChIJ_6lGs5OBhYARMZbrb4T5Os4
 photos:
   - name: >-
@@ -183,6 +181,33 @@ price_range: $50 &ndash; $100
 rating: '4.5'
 rating_count: 0
 website: https://www.kibatsusushi.com/
+description: >-
+  Discover Kibatsu in San Francisco$$$Kibatsu in San Francisco, CA, stands out
+  as a welcoming Japanese restaurant offering an intimate omakase experience
+  alongside a selection of fresh sushi dishes. The spot features a cozy
+  atmosphere that enhances the enjoyment of creative seafood presentations,
+  paired perfectly with sake and wine options for a refined dining outing.
+  Visitors appreciate the thoughtful details, such as unique table settings and
+  an easygoing vibe that makes it ideal for sushi enthusiasts seeking quality in
+  a neighborhood setting. For those exploring sushi restaurants nearby, this
+  location delivers top-rated flavors with rare fish varieties that elevate the
+  overall meal. Its moderate pricing and accessible seating add to the appeal,
+  making it a go-to choice for anyone craving authentic Japanese-inspired
+  cuisine close to home.
+generative_summary: >-
+  Discover Kibatsu in San Francisco$$$Kibatsu in San Francisco, CA, stands out
+  as a welcoming Japanese restaurant offering an intimate omakase experience
+  alongside a selection of fresh sushi dishes. The spot features a cozy
+  atmosphere that enhances the enjoyment of creative seafood presentations,
+  paired perfectly with sake and wine options for a refined dining outing.
+  Visitors appreciate the thoughtful details, such as unique table settings and
+  an easygoing vibe that makes it ideal for sushi enthusiasts seeking quality in
+  a neighborhood setting. For those exploring sushi restaurants nearby, this
+  location delivers top-rated flavors with rare fish varieties that elevate the
+  overall meal. Its moderate pricing and accessible seating add to the appeal,
+  making it a go-to choice for anyone craving authentic Japanese-inspired
+  cuisine close to home.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ_6lGs5OBhYARMZbrb4T5Os4/reviews/ChZDSUhNMG9nS0VJQ0FnTURnem9hQUNREAE
@@ -376,6 +401,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUR3ejVXeEJREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUR3ejVXeEJREAE!2m1!1s0x80858193b346a9ff:0xce3af9846feb9631
+review_summary: >-
+  What Customers Are Saying About the Sushi$$$Folks who visit this sushi spot
+  often rave about the high-quality fish and inventive dishes that make every
+  bite feel special and worth the trip. Many highlight the omakase menu as a
+  standout feature, praising its fresh selections and creative twists that leave
+  diners feeling satisfied and eager to return. While the atmosphere is
+  frequently described as intimate and relaxing, with attentive service that
+  enhances the experience, a few mentions note occasional waits or stock issues
+  that could affect the flow. Overall, it's clear that sushi lovers appreciate
+  the great value and unique flavors here, making it a solid pick for anyone
+  hunting for top-rated options in the area. If you're on the hunt for sushi
+  places near me, this spot generally delivers a memorable meal that keeps the
+  good vibes rolling.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options:
   acceptsCreditCards: true
@@ -404,7 +443,7 @@ serves_lunch: null
 serves_vegetarian_food: false
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

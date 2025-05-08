@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Panda Chinese Restaurant & Sushi Bar"
+title: Panda Chinese Restaurant & Sushi Bar
 permalink: /texas/fredericksburg/panda-chinese-restaurant-sushi-bar.html
 stateAbbr: TX
 stateName: Texas
 cityName: Fredericksburg
 seo:
-  name: "Panda Chinese Restaurant & Sushi Bar"
-  type: Restaurant
+  type: restaurant
   links: https://www.pandachineserestaurantfb.com/
-description: "Panda Chinese Restaurant & Sushi Bar serves delicious sushi in Fredericksburg, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJEZZpH1nAW4YRUTCpYEhyQQY
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x865bc0591f699611:0x641724860a93051!10e5
 primary_type: Chinese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:00 PM'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:30 PM'
     - 'Saturday: 11:00 AM – 9:30 PM'
     - 'Sunday: 11:00 AM – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 9:30 PM'
-    - 'Saturday: 11:00 AM – 9:30 PM'
-    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,240 @@ phone: (830) 990-8888
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.2'
-rating_count: 0
+rating_count: 987
 website: https://www.pandachineserestaurantfb.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Panda Chinese Restaurant & Sushi Bar in Fredericksburg, TX$$$Panda
+  Chinese Restaurant & Sushi Bar in Fredericksburg, TX, serves up a welcoming
+  mix of Chinese and Japanese flavors in a relaxed setting perfect for casual
+  dining. This spot features an array of fresh sushi options alongside classic
+  Chinese dishes, complemented by a full bar and thoughtful kid-friendly choices
+  that make it ideal for families. With accessibility features like
+  wheelchair-friendly entrances and parking, it's designed to accommodate a
+  variety of visitors seeking convenient sushi restaurants near them. The eatery
+  maintains moderate pricing and operates daily with extended hours, allowing
+  patrons to enjoy top-rated sushi and hearty meals at their leisure. Its
+  unassuming vibe adds to the charm, making it a go-to destination for those
+  exploring Japanese places near me in this vibrant area.
+generative_summary: >-
+  Discover Panda Chinese Restaurant & Sushi Bar in Fredericksburg, TX$$$Panda
+  Chinese Restaurant & Sushi Bar in Fredericksburg, TX, serves up a welcoming
+  mix of Chinese and Japanese flavors in a relaxed setting perfect for casual
+  dining. This spot features an array of fresh sushi options alongside classic
+  Chinese dishes, complemented by a full bar and thoughtful kid-friendly choices
+  that make it ideal for families. With accessibility features like
+  wheelchair-friendly entrances and parking, it's designed to accommodate a
+  variety of visitors seeking convenient sushi restaurants near them. The eatery
+  maintains moderate pricing and operates daily with extended hours, allowing
+  patrons to enjoy top-rated sushi and hearty meals at their leisure. Its
+  unassuming vibe adds to the charm, making it a go-to destination for those
+  exploring Japanese places near me in this vibrant area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJEZZpH1nAW4YRUTCpYEhyQQY/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3cnFqWmZ3EAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        My husband order the shrimp crunchy roll and the El sushi loco roll. I
+        ordered the sesame chicken lunch special, which came with a soup and one
+        egg roll or crab ragoon for $11.50. This is a really good deal, offered
+        between 11:30-3.  My husband and I also got crab ragoons as an
+        appetizer.
+      languageCode: en
+    originalText:
+      text: >-
+        My husband order the shrimp crunchy roll and the El sushi loco roll. I
+        ordered the sesame chicken lunch special, which came with a soup and one
+        egg roll or crab ragoon for $11.50. This is a really good deal, offered
+        between 11:30-3.  My husband and I also got crab ragoons as an
+        appetizer.
+      languageCode: en
+    authorAttribution:
+      displayName: Leslie Kozok
+      uri: https://www.google.com/maps/contrib/115853318125775903144/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocI2-NLrnP8Yq-uWd3IByzKq30Y8dMvJEfmAWlcN5AEEYzunGg=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-03-18T23:34:04.785549Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUN3cnFqWmZ3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUN3cnFqWmZ3EAE!2m1!1s0x865bc0591f699611:0x641724860a93051
+  - name: >-
+      places/ChIJEZZpH1nAW4YRUTCpYEhyQQY/reviews/ChdDSUhNMG9nS0VJQ0FnTURJNGVtRmxnRRAB
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 5
+    text:
+      text: >-
+        REALLY GOOD MEAL!!
+
+
+        Drove through Fredericksburg 4/6 and decided to have lunch at Panda’s! 
+        Loved the atmosphere, the restaurant was clean, greeted immediately at
+        the door and the service was excellent from start to finish!  I ordered
+        shrimp in lobster sauce, fried rice and a virgin pina colada!!!  The
+        meal was flavorful and the virgin pina colada was great since I still
+        had many hours on the road after I left the restaurant! I’ll definitely
+        eat here again when I’m in the area!  It was a refreshing meal and thank
+        you for providing excellent service!
+      languageCode: en
+    originalText:
+      text: >-
+        REALLY GOOD MEAL!!
+
+
+        Drove through Fredericksburg 4/6 and decided to have lunch at Panda’s! 
+        Loved the atmosphere, the restaurant was clean, greeted immediately at
+        the door and the service was excellent from start to finish!  I ordered
+        shrimp in lobster sauce, fried rice and a virgin pina colada!!!  The
+        meal was flavorful and the virgin pina colada was great since I still
+        had many hours on the road after I left the restaurant! I’ll definitely
+        eat here again when I’m in the area!  It was a refreshing meal and thank
+        you for providing excellent service!
+      languageCode: en
+    authorAttribution:
+      displayName: Felicia Woods
+      uri: https://www.google.com/maps/contrib/113794003921400357762/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXh29vo1_9WUuwSFrCV-_MSc9_MUZ3bsuZTpQWshcDTP-rRHfnNKg=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-10T15:46:11.632394Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJNGVtRmxnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJNGVtRmxnRRAB!2m1!1s0x865bc0591f699611:0x641724860a93051
+  - name: >-
+      places/ChIJEZZpH1nAW4YRUTCpYEhyQQY/reviews/ChdDSUhNMG9nS0VJQ0FnSUR2al83bWpBRRAB
+    relativePublishTimeDescription: 4 months ago
+    rating: 3
+    text:
+      text: >-
+        We liked atmosphere and food is good too. But, lady who served us is
+        very rude when we asked flavored boba we received is hot. We felt really
+        bad almost felt like leaving the place. Management should hire people
+        who love to do serving job.
+      languageCode: en
+    originalText:
+      text: >-
+        We liked atmosphere and food is good too. But, lady who served us is
+        very rude when we asked flavored boba we received is hot. We felt really
+        bad almost felt like leaving the place. Management should hire people
+        who love to do serving job.
+      languageCode: en
+    authorAttribution:
+      displayName: JSH
+      uri: https://www.google.com/maps/contrib/114586426617016424283/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVVCZKjCaXuVTIwy4vSqP46lxXsA9ZyqovpiwNAiYUAYvooFOrA=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-12-25T06:26:51.795822Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR2al83bWpBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR2al83bWpBRRAB!2m1!1s0x865bc0591f699611:0x641724860a93051
+  - name: >-
+      places/ChIJEZZpH1nAW4YRUTCpYEhyQQY/reviews/ChZDSUhNMG9nS0VJQ0FnSUN2d2Z2YmJREAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        The food was awesome! My friends and I all shared Singapore Noodles,
+        Crab Rangoon, Steamed Pork Dumplings, Ice Cream Mochi, and a Watermelon
+        Boba. Our sever, Willy, was extremely nice and dealt very well with my
+        friend who has a mental disability. 10/10, would eat here again!
+      languageCode: en
+    originalText:
+      text: >-
+        The food was awesome! My friends and I all shared Singapore Noodles,
+        Crab Rangoon, Steamed Pork Dumplings, Ice Cream Mochi, and a Watermelon
+        Boba. Our sever, Willy, was extremely nice and dealt very well with my
+        friend who has a mental disability. 10/10, would eat here again!
+      languageCode: en
+    authorAttribution:
+      displayName: Ella Smith
+      uri: https://www.google.com/maps/contrib/113898873346639688565/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXZVs5a8Wh6eI0hbxSLelxlT1u4Gr7gkf1rW1POmLhhxUV8B9g=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-12-11T18:03:12.852301Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN2d2Z2YmJREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN2d2Z2YmJREAE!2m1!1s0x865bc0591f699611:0x641724860a93051
+  - name: >-
+      places/ChIJEZZpH1nAW4YRUTCpYEhyQQY/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJbjlLQ1h3EAE
+    relativePublishTimeDescription: 4 weeks ago
+    rating: 5
+    text:
+      text: >-
+        I LOVE this restaurant.  I especially enjoyed the Singapore street
+        noodles and the dinner portion comes with all three meats.  I will be
+        back!!
+      languageCode: en
+    originalText:
+      text: >-
+        I LOVE this restaurant.  I especially enjoyed the Singapore street
+        noodles and the dinner portion comes with all three meats.  I will be
+        back!!
+      languageCode: en
+    authorAttribution:
+      displayName: David Brown
+      uri: https://www.google.com/maps/contrib/104192941974461281381/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJ-f3xz5jmQBmAnpMQPyYJoVf4w09Whqs84SpMKHSUVn_sDmA=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-05T18:53:09.313812Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNJbjlLQ1h3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNJbjlLQ1h3EAE!2m1!1s0x865bc0591f699611:0x641724860a93051
+review_summary: >-
+  What Customers Are Buzzing About$$$Visitors often rave about the tasty variety
+  of dishes and great value deals at this spot, highlighting flavorful options
+  like fresh rolls and hearty specials that keep them coming back. Many
+  appreciate the friendly service and clean atmosphere, which enhance the
+  overall dining experience and make it a solid choice for groups or families.
+  While there are occasional mentions of service inconsistencies, the majority
+  of feedback focuses on the satisfying meals and welcoming vibe that leave a
+  positive impression. Folks love the affordable lunch specials and kid-friendly
+  menu, making it a reliable pick for anyone craving top-rated sushi without
+  breaking the bank. Overall, it's a go-to for casual diners seeking quality
+  Japanese-inspired eats, with the consensus leaning toward enjoyable visits
+  that encourage repeat trips.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  paidStreetParking: false
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: true
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: true
+serves_cocktails: true
+serves_coffee: true
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Unassuming establishment furnishing familiar Chinese specialties, plus
+  specialty sushi & a full bar.
 
 ---

@@ -5,4 +5,5 @@ permalink: /new-york/corning/
 stateAbbr: NY
 stateName: New York
 cityName: Corning
+
 ---

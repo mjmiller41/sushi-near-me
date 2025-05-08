@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Maki UM"
+title: Sushi Maki UM
 permalink: /florida/coral-gables/sushi-maki-um.html
 stateAbbr: FL
 stateName: Florida
 cityName: Coral Gables
 seo:
-  name: "Sushi Maki UM"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi Maki UM serves delicious sushi in Coral Gables, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJmzqgxwG42YgRAVvwieLDdaI
 photos:
   - name: >-
@@ -106,7 +104,39 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Sushi Maki UM in Coral Gables, FL$$$Sushi Maki UM in Coral Gables,
+  FL, stands out as a welcoming spot for enjoying fresh Japanese-inspired meals
+  in a relaxed setting. This sushi restaurant emphasizes simple yet flavorful
+  dishes that highlight quality ingredients, making it a convenient choice for
+  casual dining or quick takeout. Its prime location on Miller Drive adds to the
+  appeal, offering easy access for those exploring local sushi options.
+  Accessibility features like wheelchair-friendly parking and entrances ensure
+  an inclusive experience for all visitors, enhancing its reputation as a
+  thoughtful community hub.
+generative_summary: >-
+  Discover Sushi Maki UM in Coral Gables, FL$$$Sushi Maki UM in Coral Gables,
+  FL, stands out as a welcoming spot for enjoying fresh Japanese-inspired meals
+  in a relaxed setting. This sushi restaurant emphasizes simple yet flavorful
+  dishes that highlight quality ingredients, making it a convenient choice for
+  casual dining or quick takeout. Its prime location on Miller Drive adds to the
+  appeal, offering easy access for those exploring local sushi options.
+  Accessibility features like wheelchair-friendly parking and entrances ensure
+  an inclusive experience for all visitors, enhancing its reputation as a
+  thoughtful community hub.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Folks searching for tasty sushi near them often
+  highlight the fresh rolls and reliable flavors at this spot, making it a go-to
+  for everyday cravings. Many appreciate the straightforward vibe and efficient
+  service that keeps things feeling approachable and unpretentious. While it's
+  praised as a solid pick for quick meals or groups, some note it's best for
+  casual visits rather than fancy occasions, keeping expectations realistic.
+  Overall, it's frequently recommended as a dependable option among sushi places
+  in the area, with positive vibes dominating the feedback for its consistency
+  and value.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -132,7 +162,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

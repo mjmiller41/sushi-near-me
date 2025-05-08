@@ -5,4 +5,5 @@ permalink: /nevada/sparks/
 stateAbbr: NV
 stateName: Nevada
 cityName: Sparks
+
 ---

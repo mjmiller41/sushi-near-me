@@ -5,4 +5,5 @@ permalink: /ohio/avon-lake/
 stateAbbr: OH
 stateName: Ohio
 cityName: Avon Lake
+
 ---

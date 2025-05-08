@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yume Hibachi Steak and Sushi"
+title: Yume Hibachi Steak and Sushi
 permalink: /connecticut/unionville/yume-hibachi-steak-and-sushi.html
 stateAbbr: CT
 stateName: Connecticut
 cityName: Unionville
 seo:
-  name: "Yume Hibachi Steak and Sushi"
-  type: Restaurant
-  links: null
-description: "Yume Hibachi Steak and Sushi serves delicious sushi in Unionville, Connecticut. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://yumejapanese.com/
 place_id: ChIJfXkBAZCv54kRagFq28PqbWE
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89e7af900101797d:0x616deac3db6a016a!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:30 AM – 10:00 PM'
+    - 'Tuesday: 11:30 AM – 10:00 PM'
+    - 'Wednesday: 11:30 AM – 10:00 PM'
+    - 'Thursday: 11:30 AM – 10:00 PM'
+    - 'Friday: 11:30 AM – 11:00 PM'
+    - 'Saturday: 11:30 AM – 11:00 PM'
+    - 'Sunday: 11:30 AM – 10:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,54 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (860) 673-8888
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.3'
+rating_count: 531
+website: http://yumejapanese.com/
+description: >-
+  Experience Yume Hibachi Steak and Sushi in Unionville, CT$$$In Unionville, CT,
+  Yume Hibachi Steak and Sushi stands out as a cozy spot for savoring authentic
+  Japanese flavors, blending fresh sushi with sizzling hibachi dishes. This
+  welcoming venue boasts a comfortable atmosphere perfect for casual meals or
+  gatherings, featuring a variety of creative rolls and expertly prepared
+  entrees that highlight traditional techniques. Accessibility is a key
+  highlight, with options like wheelchair-friendly parking and entrances making
+  it easy for everyone to enjoy the experience. Operating daily from late
+  morning into the evening, it caters to those seeking quality Japanese cuisine
+  in a relaxed setting, including options like sake to complement your meal.
+  Whether you're exploring local dining options or craving something light and
+  flavorful, this spot delivers a satisfying blend of taste and convenience.
+generative_summary: >-
+  Experience Yume Hibachi Steak and Sushi in Unionville, CT$$$In Unionville, CT,
+  Yume Hibachi Steak and Sushi stands out as a cozy spot for savoring authentic
+  Japanese flavors, blending fresh sushi with sizzling hibachi dishes. This
+  welcoming venue boasts a comfortable atmosphere perfect for casual meals or
+  gatherings, featuring a variety of creative rolls and expertly prepared
+  entrees that highlight traditional techniques. Accessibility is a key
+  highlight, with options like wheelchair-friendly parking and entrances making
+  it easy for everyone to enjoy the experience. Operating daily from late
+  morning into the evening, it caters to those seeking quality Japanese cuisine
+  in a relaxed setting, including options like sake to complement your meal.
+  Whether you're exploring local dining options or craving something light and
+  flavorful, this spot delivers a satisfying blend of taste and convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About Yume Hibachi$$$Visitors often praise the fresh
+  and flavorful sushi selections along with the entertaining hibachi
+  preparations, making it a go-to choice for anyone hunting for reliable
+  Japanese eats nearby. Many folks appreciate the consistent quality and
+  reasonable prices, noting that the portions are generous and the service feels
+  attentive without being overwhelming. While a few mention wait times during
+  peak hours, the overall vibe remains upbeat with highlights on the tasty
+  combinations and welcoming environment that keep people coming back. Overall,
+  the high ratings reflect a solid favorite among those looking for a casual
+  night out, with positive nods to the variety that suits both solo diners and
+  groups. If you're in the mood for top-notch Japanese fare, this place seems to
+  hit the mark for a satisfying experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +315,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

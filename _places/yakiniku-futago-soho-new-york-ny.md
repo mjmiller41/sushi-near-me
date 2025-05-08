@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yakiniku Futago Soho"
+title: Yakiniku Futago Soho
 permalink: /new-york/new-york/yakiniku-futago-soho.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "Yakiniku Futago Soho"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Yakiniku Futago Soho serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJu3Wh21NZwokRCU0GNFqPbeU
 photos:
   - name: >-
@@ -185,7 +183,50 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Yakiniku Futago Soho in New York, NY$$$Yakiniku Futago Soho in New
+  York, NY, stands out as a trendy destination for authentic Japanese dining,
+  drawing in locals and visitors with its focus on premium A5 wagyu beef
+  specialties. This spot offers an inviting atmosphere where you can savor
+  meticulously prepared dishes, including a curated tasting menu that highlights
+  the finest cuts of meat for a truly immersive culinary experience. The
+  restaurant's elegant design and attention to detail create a serene setting,
+  making it an ideal choice for those seeking top-rated Japanese places near me.
+  With its emphasis on quality ingredients and expert preparation, it's a go-to
+  for anyone exploring flavorful Japanese options in the bustling city. Whether
+  you're in the mood for a memorable meal or simply curious about Japanese
+  restaurants nearby, this venue delivers a refined twist on traditional
+  flavors.
+generative_summary: >-
+  Discover Yakiniku Futago Soho in New York, NY$$$Yakiniku Futago Soho in New
+  York, NY, stands out as a trendy destination for authentic Japanese dining,
+  drawing in locals and visitors with its focus on premium A5 wagyu beef
+  specialties. This spot offers an inviting atmosphere where you can savor
+  meticulously prepared dishes, including a curated tasting menu that highlights
+  the finest cuts of meat for a truly immersive culinary experience. The
+  restaurant's elegant design and attention to detail create a serene setting,
+  making it an ideal choice for those seeking top-rated Japanese places near me.
+  With its emphasis on quality ingredients and expert preparation, it's a go-to
+  for anyone exploring flavorful Japanese options in the bustling city. Whether
+  you're in the mood for a memorable meal or simply curious about Japanese
+  restaurants nearby, this venue delivers a refined twist on traditional
+  flavors.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Raving About$$$Folks who visit this Japanese eatery often
+  highlight the standout A5 wagyu beef, praising its incredibly tender texture
+  and bold, satisfying taste that leaves a lasting impression. Many appreciate
+  the warm and attentive service that makes every meal feel personal and
+  enjoyable, adding to the overall welcoming vibe. The spot's calm and stylish
+  ambiance gets plenty of nods for providing a peaceful escape in the heart of
+  the city, perfect for casual outings or special occasions. Overall, diners
+  tend to agree that the combination of high-quality food and thoughtful
+  hospitality makes it a solid pick for anyone hunting for reliable Japanese
+  dining experiences. While opinions vary, the general buzz remains positive,
+  encouraging first-timers to give it a try for an authentic and delightful
+  meal.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +252,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

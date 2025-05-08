@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Blue Sushi Sake Grill"
+title: Blue Sushi Sake Grill
 permalink: /illinois/naperville/blue-sushi-sake-grill.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Naperville
 seo:
-  name: "Blue Sushi Sake Grill"
-  type: Restaurant
-  links: null
-description: "Blue Sushi Sake Grill serves delicious sushi in Naperville, Illinois. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://bluesushisakegrill.com/
 place_id: ChIJT1KAL8dXDogR3dKtBb1uwMk
 photos:
   - name: >-
@@ -170,22 +168,189 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x880e57c72f80524f:0xc9c06ebd05add2dd!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 9:00 PM'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 11:00 PM'
+    - 'Saturday: 12:00 – 11:00 PM'
+    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
-phone: null
-price_level: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 0
+        close:
+          day: 0
+          hour: 21
+          minute: 0
+      - open:
+          day: 1
+          hour: 11
+          minute: 0
+        close:
+          day: 2
+          hour: 6
+          minute: 30
+      - open:
+          day: 2
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 6
+          minute: 30
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 6
+          minute: 30
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 6
+          minute: 30
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 6
+          hour: 6
+          minute: 30
+      - open:
+          day: 6
+          hour: 12
+          minute: 0
+        close:
+          day: 0
+          hour: 6
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 11:00 AM – 6:30 AM'
+      - 'Tuesday: 11:00 AM – 6:30 AM'
+      - 'Wednesday: 11:00 AM – 6:30 AM'
+      - 'Thursday: 11:00 AM – 6:30 AM'
+      - 'Friday: 11:00 AM – 6:30 AM'
+      - 'Saturday: 12:00 PM – 6:30 AM'
+      - 'Sunday: 12:00 – 9:00 PM'
+    secondaryHoursType: HAPPY_HOUR
+    nextCloseTime: '2025-05-04T11:30:00Z'
+phone: (630) 305-3099
+price_level: PRICE_LEVEL_MODERATE
 price_range: null
-rating: null
-rating_count: 0
-website: null
+rating: '4.4'
+rating_count: 1704
+website: http://bluesushisakegrill.com/
+description: >-
+  Discover Blue Sushi Sake Grill in Naperville, IL$$$Blue Sushi Sake Grill in
+  Naperville, IL, stands out as a lively spot for enjoying fresh sushi and
+  creative rolls in a modern, welcoming atmosphere. This popular sushi
+  restaurant near you features an extensive selection of dishes, including
+  flavorful options paired with sake, beer, and wine, making it ideal for casual
+  outings or date nights. With its hip surroundings and focus on quality
+  ingredients, it's a go-to choice among top-rated sushi places that emphasize
+  accessibility and comfort for all guests. Whether you're exploring
+  Japanese-inspired cuisine close to home or seeking the best sushi in the area,
+  the menu highlights innovative flavors that keep diners coming back. Open
+  hours extend into the evening, ensuring you can savor a satisfying meal at
+  your convenience.
+generative_summary: >-
+  Discover Blue Sushi Sake Grill in Naperville, IL$$$Blue Sushi Sake Grill in
+  Naperville, IL, stands out as a lively spot for enjoying fresh sushi and
+  creative rolls in a modern, welcoming atmosphere. This popular sushi
+  restaurant near you features an extensive selection of dishes, including
+  flavorful options paired with sake, beer, and wine, making it ideal for casual
+  outings or date nights. With its hip surroundings and focus on quality
+  ingredients, it's a go-to choice among top-rated sushi places that emphasize
+  accessibility and comfort for all guests. Whether you're exploring
+  Japanese-inspired cuisine close to home or seeking the best sushi in the area,
+  the menu highlights innovative flavors that keep diners coming back. Open
+  hours extend into the evening, ensuring you can savor a satisfying meal at
+  your convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Folks searching for great sushi restaurants near
+  them often highlight the consistently fresh and tasty rolls at this spot,
+  based on its strong overall ratings. Many appreciate the welcoming vibe and
+  efficient service that make every visit feel relaxed and enjoyable, though
+  some note that wait times can vary during peak hours. The general buzz around
+  here leans positive, with plenty of praise for the variety of options that
+  cater to different tastes, including vegetarian choices and creative specials.
+  Overall, it's clear that diners value the solid value for the price, leading
+  to repeat trips for those who love sushi. If you're on the hunt for reliable
+  Japanese places nearby, this location earns high marks for delivering a
+  satisfying experience time after time.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +376,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

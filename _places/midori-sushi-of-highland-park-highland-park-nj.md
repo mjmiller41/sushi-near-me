@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Midori Sushi Of Highland Park"
+title: Midori Sushi Of Highland Park
 permalink: /new-jersey/highland-park/midori-sushi-of-highland-park.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Highland Park
 seo:
-  name: "Midori Sushi Of Highland Park"
-  type: Restaurant
-  links: null
-description: "Midori Sushi Of Highland Park serves delicious sushi in Highland Park, New Jersey. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.midorisushinj.com/
 place_id: ChIJf9f_nErGw4kRJfewsYBWc0E
 photos:
   - name: >-
@@ -170,8 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c3c64a9cffd77f:0x41735680b1b0f725!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:30 PM'
+    - 'Tuesday: 11:00 AM – 9:30 PM'
+    - 'Wednesday: 11:00 AM – 9:30 PM'
+    - 'Thursday: 11:00 AM – 9:30 PM'
+    - 'Friday: 11:00 AM – 10:00 PM'
+    - 'Saturday: 11:00 AM – 10:00 PM'
+    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +234,54 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (732) 246-4511
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.1'
+rating_count: 326
+website: http://www.midorisushinj.com/
+description: >-
+  Discover Midori Sushi in Highland Park, NJ$$$Midori Sushi of Highland Park in
+  Highland Park, NJ, offers a welcoming spot for enjoying fresh Japanese
+  cuisine, including a variety of sushi rolls and hibachi dishes that highlight
+  authentic flavors. This casual eatery stands out with its affordable lunch
+  specials, providing great value for those seeking quality meals without
+  breaking the bank, making it a convenient choice for sushi enthusiasts in the
+  area. Accessibility features like wheelchair-friendly parking and entrances
+  ensure a comfortable visit for all guests, enhancing its appeal as a reliable
+  dining option. The restaurant maintains consistent hours, open most days from
+  late morning into the evening, perfect for a quick bite or relaxed meal.
+  Whether you're looking for top-rated sushi places near you, this spot combines
+  simplicity with flavorful offerings to satisfy cravings for Japanese fare.
+generative_summary: >-
+  Discover Midori Sushi in Highland Park, NJ$$$Midori Sushi of Highland Park in
+  Highland Park, NJ, offers a welcoming spot for enjoying fresh Japanese
+  cuisine, including a variety of sushi rolls and hibachi dishes that highlight
+  authentic flavors. This casual eatery stands out with its affordable lunch
+  specials, providing great value for those seeking quality meals without
+  breaking the bank, making it a convenient choice for sushi enthusiasts in the
+  area. Accessibility features like wheelchair-friendly parking and entrances
+  ensure a comfortable visit for all guests, enhancing its appeal as a reliable
+  dining option. The restaurant maintains consistent hours, open most days from
+  late morning into the evening, perfect for a quick bite or relaxed meal.
+  Whether you're looking for top-rated sushi places near you, this spot combines
+  simplicity with flavorful offerings to satisfy cravings for Japanese fare.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About This Sushi Spot$$$Folks rave about the
+  delicious sushi and tasty lunch specials at this Japanese restaurant, often
+  noting the fresh fish and hearty miso soup that make meals feel satisfying and
+  well-rounded. Many appreciate the fair pricing, which keeps things accessible
+  for anyone hunting for quality sushi without overspending, adding to its charm
+  as a go-to local favorite. While some mention that service can occasionally
+  take a bit longer during busy times, the overall experience remains enjoyable
+  with friendly vibes that keep diners coming back. In general, it's praised for
+  delivering solid flavors and a relaxed atmosphere, ideal for casual outings or
+  solo stops. If you're on the hunt for sushi restaurants near me, this place
+  earns high marks for its honest value and tasty dishes that leave a positive
+  impression.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +307,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

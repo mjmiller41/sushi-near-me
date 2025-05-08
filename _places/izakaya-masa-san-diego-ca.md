@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Izakaya Masa"
+title: Izakaya Masa
 permalink: /california/san-diego/izakaya-masa.html
 stateAbbr: CA
 stateName: California
 cityName: San Diego
 seo:
-  name: "Izakaya Masa"
-  type: Restaurant
+  type: restaurant
   links: http://www.izakayamasa.com/
-description: "Izakaya Masa serves delicious sushi in San Diego, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ-UIN59RU2YAR4QlG_coRhfg
 photos:
   - name: >-
@@ -170,7 +168,49 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80d954d4e70d42f9:0xf88511cafd4609e1!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 17
+        minute: 30
+      close:
+        day: 0
+        hour: 23
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 30
+      close:
+        day: 2
+        hour: 23
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 30
+      close:
+        day: 4
+        hour: 23
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 30
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 30
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 5:30 – 11:00 PM'
     - 'Wednesday: Closed'
@@ -178,14 +218,7 @@ opening_hours:
     - 'Friday: 5:30 – 11:00 PM'
     - 'Saturday: 5:30 – 11:00 PM'
     - 'Sunday: 5:30 – 11:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 5:30 – 11:00 PM'
-    - 'Wednesday: Closed'
-    - 'Thursday: 5:30 – 11:00 PM'
-    - 'Friday: 5:30 – 11:00 PM'
-    - 'Saturday: 5:30 – 11:00 PM'
-    - 'Sunday: 5:30 – 11:00 PM'
+  nextOpenTime: '2025-05-04T00:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +230,266 @@ phone: (619) 542-1354
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.6'
-rating_count: 0
+rating_count: 955
 website: http://www.izakayamasa.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Izakaya Masa in San Diego, CA$$$Nestled in the heart of San Diego,
+  CA, Izakaya Masa offers a welcoming retreat for those seeking authentic
+  Japanese flavors in a cozy setting. This spot highlights fresh ingredients and
+  a variety of dishes like ramen and small plates, paired with an inviting
+  selection of sake and beer that enhance the dining experience. Accessibility
+  features such as wheelchair-friendly entrances and parking make it easy for
+  everyone to enjoy, while the moderate price range keeps things approachable
+  without sacrificing quality. Evening hours provide the perfect backdrop for a
+  relaxed meal, making it a go-to choice among Japanese places near me for
+  anyone craving a casual yet memorable vibe.
+generative_summary: >-
+  Discover Izakaya Masa in San Diego, CA$$$Nestled in the heart of San Diego,
+  CA, Izakaya Masa offers a welcoming retreat for those seeking authentic
+  Japanese flavors in a cozy setting. This spot highlights fresh ingredients and
+  a variety of dishes like ramen and small plates, paired with an inviting
+  selection of sake and beer that enhance the dining experience. Accessibility
+  features such as wheelchair-friendly entrances and parking make it easy for
+  everyone to enjoy, while the moderate price range keeps things approachable
+  without sacrificing quality. Evening hours provide the perfect backdrop for a
+  relaxed meal, making it a go-to choice among Japanese places near me for
+  anyone craving a casual yet memorable vibe.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ-UIN59RU2YAR4QlG_coRhfg/reviews/ChdDSUhNMG9nS0VJQ0FnTUNvcmRXVXhBRRAB
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 3
+    text:
+      text: >-
+        Nice vibe, prices are understandable. Staff is attentive and kind. This
+        restaurant has a variety of Japanese classic dishes. It’s not strictly
+        nor majority sushi. Both the rainbow roll and the cali roll had whole
+        chuncks (not shredded) of crab which took most of the flavor away. It
+        would have been better with the mix spicy mayo or reg mayo. The veggie
+        gyoza had limited flavor. I was glad to see a veggie option but it would
+        be nice if it had a pop of flavor. The mackerel was enjoyable in texture
+        however the flavor could be punched up a bit (slightly bland).
+      languageCode: en
+    originalText:
+      text: >-
+        Nice vibe, prices are understandable. Staff is attentive and kind. This
+        restaurant has a variety of Japanese classic dishes. It’s not strictly
+        nor majority sushi. Both the rainbow roll and the cali roll had whole
+        chuncks (not shredded) of crab which took most of the flavor away. It
+        would have been better with the mix spicy mayo or reg mayo. The veggie
+        gyoza had limited flavor. I was glad to see a veggie option but it would
+        be nice if it had a pop of flavor. The mackerel was enjoyable in texture
+        however the flavor could be punched up a bit (slightly bland).
+      languageCode: en
+    authorAttribution:
+      displayName: Vanessa Ortiz
+      uri: https://www.google.com/maps/contrib/116470697618490345713/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjU-9Ysx6bQzHpUPt3MPlbz-kcKxYXUs1lfLhGihZgA3xS7bKac4=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-19T04:00:19.449372Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNvcmRXVXhBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNvcmRXVXhBRRAB!2m1!1s0x80d954d4e70d42f9:0xf88511cafd4609e1
+  - name: >-
+      places/ChIJ-UIN59RU2YAR4QlG_coRhfg/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3eklXZklBEAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        We absolutely love this place! It’s a small, cozy spot, so don’t expect
+        to make reservations online—you’ll need to sign in when you arrive. That
+        said, we’ve never waited longer than 15 minutes for a table.
+
+
+        The service is incredibly fast and friendly, making the experience even
+        better. But the real star here is the ramen! We always go for the
+        Hakata-style ramen, which has a rich, creamy broth that’s perfectly
+        savory, topped with tender pork chashu and roasted garlic. It’s
+        absolutely delicious and always hits the spot.
+
+
+        If you’re a ramen lover, this place is a must-visit!
+      languageCode: en
+    originalText:
+      text: >-
+        We absolutely love this place! It’s a small, cozy spot, so don’t expect
+        to make reservations online—you’ll need to sign in when you arrive. That
+        said, we’ve never waited longer than 15 minutes for a table.
+
+
+        The service is incredibly fast and friendly, making the experience even
+        better. But the real star here is the ramen! We always go for the
+        Hakata-style ramen, which has a rich, creamy broth that’s perfectly
+        savory, topped with tender pork chashu and roasted garlic. It’s
+        absolutely delicious and always hits the spot.
+
+
+        If you’re a ramen lover, this place is a must-visit!
+      languageCode: en
+    authorAttribution:
+      displayName: Tiffany Moseley
+      uri: https://www.google.com/maps/contrib/113829774972875091790/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjViTJ9uFjvQ9n1p5uikbgxP-liwd5EiHnCM2IpLtSk41BiKHQSmWQ=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-03-17T03:08:15.935415Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUN3eklXZklBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUN3eklXZklBEAE!2m1!1s0x80d954d4e70d42f9:0xf88511cafd4609e1
+  - name: >-
+      places/ChIJ-UIN59RU2YAR4QlG_coRhfg/reviews/ChdDSUhNMG9nS0VJQ0FnSUR6a2V1TXRRRRAB
+    relativePublishTimeDescription: 10 months ago
+    rating: 5
+    text:
+      text: >-
+        I recently had dinner at Izakaya Masa and found it to be a pleasant
+        experience. The ingredients were fresh, contributing to the overall
+        quality of the dishes. While nothing was particularly spectacular, the
+        food was consistently good. The decor of the place is very cute, adding
+        to the charm and ambiance. The service was also commendable—good and
+        fast, ensuring a smooth dining experience. I would definitely come back
+        for another meal.
+      languageCode: en
+    originalText:
+      text: >-
+        I recently had dinner at Izakaya Masa and found it to be a pleasant
+        experience. The ingredients were fresh, contributing to the overall
+        quality of the dishes. While nothing was particularly spectacular, the
+        food was consistently good. The decor of the place is very cute, adding
+        to the charm and ambiance. The service was also commendable—good and
+        fast, ensuring a smooth dining experience. I would definitely come back
+        for another meal.
+      languageCode: en
+    authorAttribution:
+      displayName: Paulina O
+      uri: https://www.google.com/maps/contrib/115198023412638485706/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjW4PHKkbCt8HAUFLPhg1lvy0sytd2PwsVU2niCgaZSyXCfjT-2Gow=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-06-10T20:18:56.856192Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR6a2V1TXRRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR6a2V1TXRRRRAB!2m1!1s0x80d954d4e70d42f9:0xf88511cafd4609e1
+  - name: >-
+      places/ChIJ-UIN59RU2YAR4QlG_coRhfg/reviews/ChZDSUhNMG9nS0VJQ0FnSURYMXV6cEZBEAE
+    relativePublishTimeDescription: 6 months ago
+    rating: 5
+    text:
+      text: >-
+        The soft shell crab tempura and the rolls (eel avocado and chicken
+        Katsu) were out of this world. One of my favourite Japanese places,
+        ever.
+      languageCode: en
+    originalText:
+      text: >-
+        The soft shell crab tempura and the rolls (eel avocado and chicken
+        Katsu) were out of this world. One of my favourite Japanese places,
+        ever.
+      languageCode: en
+    authorAttribution:
+      displayName: Diego von Söhsten
+      uri: https://www.google.com/maps/contrib/104359641652308129659/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjU5QB-IJCha-NVWmbou2yNSZvqkAxKYp1-WfBAERv0aQOnI_UCSeQ=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-10-27T01:48:34.175660Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURYMXV6cEZBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURYMXV6cEZBEAE!2m1!1s0x80d954d4e70d42f9:0xf88511cafd4609e1
+  - name: >-
+      places/ChIJ-UIN59RU2YAR4QlG_coRhfg/reviews/ChdDSUhNMG9nS0VJQ0FnSUNqM3JpRzhBRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 4
+    text:
+      text: |-
+        Mid range Ramen and sushi.
+        Very good service.
+
+        Quick service, it tool a few minutes to get our ramen.
+        The sushi was Ok-Ish.
+        Edamame was smaller than expected.
+        Gyoza were very good and just as expected.
+        Free water.
+        Small tables.
+
+        Will be back for the ramen for sure.
+        Will try the sashimi next time and update.
+      languageCode: en
+    originalText:
+      text: |-
+        Mid range Ramen and sushi.
+        Very good service.
+
+        Quick service, it tool a few minutes to get our ramen.
+        The sushi was Ok-Ish.
+        Edamame was smaller than expected.
+        Gyoza were very good and just as expected.
+        Free water.
+        Small tables.
+
+        Will be back for the ramen for sure.
+        Will try the sashimi next time and update.
+      languageCode: en
+    authorAttribution:
+      displayName: Eder
+      uri: https://www.google.com/maps/contrib/113474268279933884604/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjV9uEI70d-oKbQw-O5H1UVgCf4EkIszI2SwlCoTQLCd9VPmRWmD=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-04-22T02:35:42.348465Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNqM3JpRzhBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNqM3JpRzhBRRAB!2m1!1s0x80d954d4e70d42f9:0xf88511cafd4609e1
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors often rave about the tasty ramen and
+  friendly service at this San Diego favorite, noting how the quick and
+  attentive staff make every meal feel effortless and enjoyable. Many highlight
+  the variety of classic Japanese dishes, with the rich broths and fresh flavors
+  standing out as real crowd-pleasers for sushi and ramen enthusiasts. While
+  some mention that certain items could use a bit more seasoning to amp up the
+  taste, the overall experience remains solid and worth returning for,
+  especially given the reasonable prices and cozy atmosphere. Folks searching
+  for top-rated sushi spots near me will appreciate the honest portions and
+  welcoming vibe, making it a reliable pick for a satisfying night out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  paidStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
+delivery: false
+dine_in: true
 good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: false
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
 serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_vegetarian_food: false
+serves_wine: true
+takeout: false
+update_category: atmosphere
+places_description: >-
+  Cozy Japanese spot offering sushi, ramen & udon alongside a wide selection of
+  sake, beer & soju.
 
 ---

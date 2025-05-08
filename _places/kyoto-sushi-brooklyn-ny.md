@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kyoto Sushi"
+title: Kyoto Sushi
 permalink: /new-york/brooklyn/kyoto-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: Brooklyn
 seo:
-  name: "Kyoto Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Kyoto Sushi serves delicious sushi in Brooklyn, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJoROcTU9ZwokR0KH6o1lSypM
 photos:
   - name: >-
@@ -168,8 +166,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c2594f4d9c13a1:0x93ca5259a3faa1d0!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 23
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 23
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 23
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 23
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 23
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 11:00 PM'
+    - 'Tuesday: 11:00 AM – 11:00 PM'
+    - 'Wednesday: 11:00 AM – 11:00 PM'
+    - 'Thursday: 11:00 AM – 11:00 PM'
+    - 'Friday: 11:00 AM – 11:00 PM'
+    - 'Saturday: 11:00 AM – 11:00 PM'
+    - 'Sunday: 12:00 – 11:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -177,13 +240,55 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
+phone: (718) 383-8882
+price_level: PRICE_LEVEL_INEXPENSIVE
 price_range: null
-rating: null
-rating_count: 0
+rating: '4.4'
+rating_count: 214
 website: null
+description: >-
+  Discover Kyoto Sushi in Brooklyn, NY$$$Kyoto Sushi in Brooklyn, NY, stands out
+  as a welcoming Japanese restaurant that combines cozy ambiance with a diverse
+  menu of fresh sushi and other authentic fare. This spot caters to a variety of
+  tastes, including hearty vegetarian options and a selection of beer and wine
+  to complement your meal, making it an ideal choice for casual dinners or quick
+  bites in the bustling neighborhood. With its inviting atmosphere and focus on
+  quality ingredients, it's a go-to for those seeking top-rated sushi
+  restaurants near you, especially if you're exploring Japanese places in the
+  area. The restaurant's extended hours ensure you can enjoy flavorful rolls and
+  dishes throughout the day, adding to its appeal for locals and visitors alike.
+  Whether you're in the mood for classic nigiri or innovative rolls, this
+  Brooklyn gem delivers a satisfying experience that highlights the best of
+  Japanese dining.
+generative_summary: >-
+  Discover Kyoto Sushi in Brooklyn, NY$$$Kyoto Sushi in Brooklyn, NY, stands out
+  as a welcoming Japanese restaurant that combines cozy ambiance with a diverse
+  menu of fresh sushi and other authentic fare. This spot caters to a variety of
+  tastes, including hearty vegetarian options and a selection of beer and wine
+  to complement your meal, making it an ideal choice for casual dinners or quick
+  bites in the bustling neighborhood. With its inviting atmosphere and focus on
+  quality ingredients, it's a go-to for those seeking top-rated sushi
+  restaurants near you, especially if you're exploring Japanese places in the
+  area. The restaurant's extended hours ensure you can enjoy flavorful rolls and
+  dishes throughout the day, adding to its appeal for locals and visitors alike.
+  Whether you're in the mood for classic nigiri or innovative rolls, this
+  Brooklyn gem delivers a satisfying experience that highlights the best of
+  Japanese dining.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Customer Feedback$$$Visitors to this sushi spot often highlight
+  the consistently fresh and flavorful dishes as a standout feature, making it a
+  reliable pick for anyone craving quality Japanese cuisine. Many appreciate the
+  welcoming vibe and efficient service, which contribute to a relaxed dining
+  experience that's perfect for groups or solo outings. While opinions vary, the
+  overall consensus leans positive, with praise for the variety of options that
+  include vegetarian choices and drinks, helping it maintain its status among
+  the best sushi near me. Some note that the portions are generous and the
+  prices reasonable, offering great value without skimping on taste. All in all,
+  it's clear that this place keeps customers coming back for its solid execution
+  and friendly atmosphere, making it a solid option for your next meal out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -209,7 +314,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

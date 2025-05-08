@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "MIKA SUSHI"
+title: MIKA SUSHI
 permalink: /california/carmel-valley/mika-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Carmel Valley
 seo:
-  name: "MIKA SUSHI"
-  type: Restaurant
+  type: restaurant
   links: https://mikasushi.menu11.com/
-description: "MIKA SUSHI serves delicious sushi in Carmel Valley, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJR4okikzzjYARvBgTwV3-5Fc
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $30 &ndash; $50
 rating: '4.6'
 rating_count: 0
 website: https://mikasushi.menu11.com/
+description: >-
+  About MIKA SUSHI in Carmel Valley, CA$$$MIKA SUSHI in Carmel Valley, CA,
+  stands out as a casual sushi restaurant blending Japanese and Korean flavors,
+  offering a welcoming spot for those seeking fresh sushi options nearby. With
+  its inviting courtyard seating and selection of beer and wine, it's ideal for
+  relaxed meals that highlight authentic dishes and vibrant tastes. The venue
+  emphasizes accessibility, making it easy for everyone to enjoy its cozy
+  atmosphere and thoughtful design. Patrons appreciate the fresh ingredients and
+  variety of offerings, positioning it as a go-to choice among local sushi
+  places. Whether you're looking for top-rated sushi in a serene setting, this
+  spot delivers a memorable dining experience that combines tradition with
+  modern comfort.
+generative_summary: >-
+  About MIKA SUSHI in Carmel Valley, CA$$$MIKA SUSHI in Carmel Valley, CA,
+  stands out as a casual sushi restaurant blending Japanese and Korean flavors,
+  offering a welcoming spot for those seeking fresh sushi options nearby. With
+  its inviting courtyard seating and selection of beer and wine, it's ideal for
+  relaxed meals that highlight authentic dishes and vibrant tastes. The venue
+  emphasizes accessibility, making it easy for everyone to enjoy its cozy
+  atmosphere and thoughtful design. Patrons appreciate the fresh ingredients and
+  variety of offerings, positioning it as a go-to choice among local sushi
+  places. Whether you're looking for top-rated sushi in a serene setting, this
+  spot delivers a memorable dining experience that combines tradition with
+  modern comfort.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJR4okikzzjYARvBgTwV3-5Fc/reviews/ChZDSUhNMG9nS0VJQ0FnSUNKX0thMlFREAE
@@ -332,6 +355,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURyN0k3WlZBEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURyN0k3WlZBEAE!2m1!1s0x808df34c8a248a47:0x57e4fe5dc11318bc
+review_summary: >-
+  Insights from Recent Reviews$$$Folks visiting this sushi restaurant often
+  praise the incredibly fresh fish and flavorful dishes, making it a standout
+  pick for anyone craving quality Japanese-inspired meals. Many highlight the
+  welcoming atmosphere and efficient service that enhance the overall enjoyment,
+  turning a simple meal into a highlight of their day. Reviewers frequently
+  mention how the variety of options, like poke bowls and sashimi, exceed
+  expectations and leave them satisfied. It's clear that the spot's attention to
+  detail and inviting vibe keep guests coming back, earning it nods as one of
+  the best sushi spots around. Overall, if you're searching for reliable sushi
+  near you, this place delivers a consistently positive experience that's worth
+  checking out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -363,7 +399,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

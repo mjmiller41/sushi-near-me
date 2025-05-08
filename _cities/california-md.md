@@ -5,4 +5,5 @@ permalink: /maryland/california/
 stateAbbr: MD
 stateName: Maryland
 cityName: California
+
 ---

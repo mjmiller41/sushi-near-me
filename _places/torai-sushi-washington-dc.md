@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Torai Sushi"
+title: Torai Sushi
 permalink: /district-of-columbia/washington/torai-sushi.html
 stateAbbr: DC
 stateName: District of Columbia
 cityName: Washington
 seo:
-  name: "Torai Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://toraisushi.com/
-description: "A menu specializing in Japanese ramen & comfort food, alongside sushi & poke bowls in a chill space. Torai Sushi serves delicious sushi in Washington, District of Columbia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJgbu76My5t4kR6JfRDDFyrqk
 photos:
   - name: >-
@@ -181,6 +179,29 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 0
 website: http://toraisushi.com/
+description: >-
+  Explore Torai Sushi in Washington, DC$$$Torai Sushi in Washington, DC, offers
+  a welcoming spot for enjoying fresh Japanese-inspired dishes in a relaxed
+  setting on Capitol Hill. This cozy restaurant specializes in flavorful sushi
+  rolls, hearty ramen, and comforting poke bowls, making it a go-to choice for
+  those seeking top-rated sushi options in the area. With reasonably priced
+  meals that deliver generous portions and a mix of classic and creative
+  flavors, it's ideal for casual dining whether you're craving a quick lunch or
+  an evening meal. The intimate atmosphere enhances the experience, providing a
+  neighborhood vibe that's perfect for anyone searching for sushi places near me
+  that balance quality and affordability.
+generative_summary: >-
+  Explore Torai Sushi in Washington, DC$$$Torai Sushi in Washington, DC, offers
+  a welcoming spot for enjoying fresh Japanese-inspired dishes in a relaxed
+  setting on Capitol Hill. This cozy restaurant specializes in flavorful sushi
+  rolls, hearty ramen, and comforting poke bowls, making it a go-to choice for
+  those seeking top-rated sushi options in the area. With reasonably priced
+  meals that deliver generous portions and a mix of classic and creative
+  flavors, it's ideal for casual dining whether you're craving a quick lunch or
+  an evening meal. The intimate atmosphere enhances the experience, providing a
+  neighborhood vibe that's perfect for anyone searching for sushi places near me
+  that balance quality and affordability.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJgbu76My5t4kR6JfRDDFyrqk/reviews/ChZDSUhNMG9nS0VJQ0FnTUNna3FtZFhnEAE
@@ -366,6 +387,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNRai1ELU93EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNRai1ELU93EAE!2m1!1s0x89b7b9cce8bbbb81:0xa9ae72310cd197e8
+review_summary: >-
+  Insights from Recent Feedback on This Local Sushi Favorite$$$Visitors often
+  praise the fresh and satisfying sushi selections at this spot, noting that the
+  rolls and ramen hit the mark for everyday cravings without breaking the bank.
+  Many highlight the generous portions and good value, making it a solid pick
+  for those looking for best sushi near me that's both tasty and
+  wallet-friendly. While most experiences are positive with friendly service and
+  a cozy environment, a few mentions point to occasional ordering mix-ups that
+  could be improved for smoother visits. Overall, it's a reliable choice for
+  casual meals, with diners appreciating the balance of flavor and affordability
+  that keeps them coming back. If you're exploring Japanese places near me, this
+  location stands out for its approachable vibe and consistent appeal.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeStreetParking: true
   paidStreetParking: true
@@ -398,8 +432,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   A menu specializing in Japanese ramen & comfort food, alongside sushi & poke
   bowls in a chill space.
 

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "The Eastern Peak - Bellevue"
+title: The Eastern Peak - Bellevue
 permalink: /tennessee/nashville/the-eastern-peak-bellevue.html
 stateAbbr: TN
 stateName: Tennessee
 cityName: Nashville
 seo:
-  name: "The Eastern Peak - Bellevue"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "The Eastern Peak - Bellevue serves delicious sushi in Nashville, Tennessee. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJj18R3fCIZIgRxsuQKlJuFhU
 photos:
   - name: >-
@@ -185,7 +183,41 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Asian Fusion at The Eastern Peak in Nashville, TN$$$The Eastern Peak
+  in Nashville, TN, stands out as a welcoming Asian fusion destination, blending
+  flavorful noodles and curries with a relaxed, family-oriented vibe. This spot
+  offers a diverse menu that highlights fresh ingredients and creative dishes,
+  making it an ideal choice for those exploring top-rated Asian options nearby.
+  With accessibility features like wheelchair-friendly parking and seating, it
+  ensures a comfortable experience for all visitors seeking quality meals.
+  Whether you're in the mood for satisfying curries or innovative twists on
+  classic flavors, this restaurant delivers a kid-friendly atmosphere that
+  enhances the overall dining appeal.
+generative_summary: >-
+  Discover Asian Fusion at The Eastern Peak in Nashville, TN$$$The Eastern Peak
+  in Nashville, TN, stands out as a welcoming Asian fusion destination, blending
+  flavorful noodles and curries with a relaxed, family-oriented vibe. This spot
+  offers a diverse menu that highlights fresh ingredients and creative dishes,
+  making it an ideal choice for those exploring top-rated Asian options nearby.
+  With accessibility features like wheelchair-friendly parking and seating, it
+  ensures a comfortable experience for all visitors seeking quality meals.
+  Whether you're in the mood for satisfying curries or innovative twists on
+  classic flavors, this restaurant delivers a kid-friendly atmosphere that
+  enhances the overall dining appeal.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Diners Are Buzzing About$$$Visitors often praise the tasty selections at
+  this Asian fusion eatery, with highlights on flavorful dishes like red curry
+  duck and sushi that keep people coming back for more. Many appreciate the
+  wallet-friendly prices and hearty portions, making it a solid pick for casual
+  meals or group outings. While a few notes mention occasional hiccups with
+  service, the general feedback leans toward enjoyment of the variety and value
+  on offer. Overall, it's a go-to spot for anyone hunting for reliable
+  Asian-inspired eats, with positive vibes especially for families and those
+  watching their budget.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +243,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

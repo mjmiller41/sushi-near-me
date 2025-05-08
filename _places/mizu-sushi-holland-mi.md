@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Mizu Sushi"
+title: Mizu Sushi
 permalink: /michigan/holland/mizu-sushi.html
 stateAbbr: MI
 stateName: Michigan
 cityName: Holland
 seo:
-  name: "Mizu Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.toasttab.com/mizu-sushi-99-e-8th-st-suite-110
-description: "Contemporary eatery for sashimi, udon noodles & other Japanese specialties, plus Korean entrees. Mizu Sushi serves delicious sushi in Holland, Michigan. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJFViHNq7yGYgRa47zuuQmRNQ
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 0
 website: https://www.toasttab.com/mizu-sushi-99-e-8th-st-suite-110
+description: >-
+  Discover Mizu Sushi in Holland, Michigan$$$Mizu Sushi in Holland, MI, stands
+  out as a contemporary Japanese restaurant offering a casual dining experience
+  with an extensive menu of fresh sushi rolls and other specialties. This spot
+  delights patrons with its array of udon noodles, sashimi, and Korean-inspired
+  entrees, all prepared with a focus on quality ingredients and thoughtful
+  presentation. Accessibility features like wheelchair-friendly entrances and
+  seating make it welcoming for all guests, while options for outdoor dining add
+  to the relaxed atmosphere. With reasonable pricing and a variety of vegetarian
+  choices, it's an ideal destination for those seeking authentic Japanese
+  flavors in a comfortable setting.
+generative_summary: >-
+  Discover Mizu Sushi in Holland, Michigan$$$Mizu Sushi in Holland, MI, stands
+  out as a contemporary Japanese restaurant offering a casual dining experience
+  with an extensive menu of fresh sushi rolls and other specialties. This spot
+  delights patrons with its array of udon noodles, sashimi, and Korean-inspired
+  entrees, all prepared with a focus on quality ingredients and thoughtful
+  presentation. Accessibility features like wheelchair-friendly entrances and
+  seating make it welcoming for all guests, while options for outdoor dining add
+  to the relaxed atmosphere. With reasonable pricing and a variety of vegetarian
+  choices, it's an ideal destination for those seeking authentic Japanese
+  flavors in a comfortable setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJFViHNq7yGYgRa47zuuQmRNQ/reviews/ChdDSUhNMG9nS0VJQ0FnSURmanZmTm13RRAB
@@ -348,6 +369,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUM5X19iUFNREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUM5X19iUFNREAE!2m1!1s0x8819f2ae36875815:0xd44426e4baf38e6b
+review_summary: >-
+  What People Are Buzzing About This Sushi Spot$$$Folks searching for top-rated
+  sushi near Holland often highlight the delicious rolls and appetizers that
+  make meals here feel satisfying and flavorful, with many praising the generous
+  portions and great value. While the place can get busy, visitors appreciate
+  the fast service and friendly staff that keep things running smoothly,
+  ensuring a pleasant experience even during peak times. Some note that certain
+  dishes shine brightly, like the crab rangoon and unagi, making it a go-to for
+  anyone craving Japanese cuisine. Overall, it's a solid choice for casual
+  diners looking for fresh, tasty options without breaking the bank, though a
+  few mention that timing can affect the overall enjoyment. If you're exploring
+  sushi restaurants in the area, this one delivers a reliably positive vibe that
+  keeps people coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -380,8 +415,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Contemporary eatery for sashimi, udon noodles & other Japanese specialties,
   plus Korean entrees.
 

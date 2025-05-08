@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Angry Fish"
+title: Angry Fish
 permalink: /california/san-leandro/angry-fish.html
 stateAbbr: CA
 stateName: California
 cityName: San Leandro
 seo:
-  name: "Angry Fish"
-  type: Restaurant
+  type: restaurant
   links: http://angryfishsushi.com/
-description: "Angry Fish serves delicious sushi in San Leandro, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ_yXMacaRj4ARHZOf4uGTGI4
 photos:
   - name: >-
@@ -170,7 +168,81 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x808f91c669cc25ff:0x8e1893e1e29f931d!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 15
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 2:30 PM, 5:00 – 9:00 PM'
     - 'Tuesday: Closed'
     - 'Wednesday: 11:00 AM – 2:30 PM, 5:00 – 9:00 PM'
@@ -178,54 +250,324 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:30 PM'
     - 'Saturday: 11:00 AM – 9:30 PM'
     - 'Sunday: 11:00 AM – 9:15 PM'
-  current:
-    - 'Monday: 11:00 AM – 2:30 PM, 5:00 – 9:00 PM'
-    - 'Tuesday: Closed'
-    - 'Wednesday: 11:00 AM – 2:30 PM, 5:00 – 9:00 PM'
-    - 'Thursday: 11:00 AM – 2:30 PM, 5:00 – 9:00 PM'
-    - 'Friday: 11:00 AM – 9:30 PM'
-    - 'Saturday: 11:00 AM – 9:30 PM'
-    - 'Sunday: 11:00 AM – 9:15 PM'
+  nextCloseTime: '2025-05-04T04:30:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: false
+    periods:
+      - open:
+          day: 0
+          hour: 17
+          minute: 0
+        close:
+          day: 0
+          hour: 19
+          minute: 0
+      - open:
+          day: 1
+          hour: 17
+          minute: 0
+        close:
+          day: 1
+          hour: 19
+          minute: 0
+      - open:
+          day: 2
+          hour: 17
+          minute: 0
+        close:
+          day: 2
+          hour: 19
+          minute: 0
+      - open:
+          day: 3
+          hour: 17
+          minute: 0
+        close:
+          day: 3
+          hour: 19
+          minute: 0
+      - open:
+          day: 4
+          hour: 17
+          minute: 0
+        close:
+          day: 4
+          hour: 19
+          minute: 0
+      - open:
+          day: 5
+          hour: 17
+          minute: 0
+        close:
+          day: 5
+          hour: 19
+          minute: 0
+      - open:
+          day: 6
+          hour: 17
+          minute: 0
+        close:
+          day: 6
+          hour: 19
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 5:00 – 7:00 PM'
+      - 'Tuesday: 5:00 – 7:00 PM'
+      - 'Wednesday: 5:00 – 7:00 PM'
+      - 'Thursday: 5:00 – 7:00 PM'
+      - 'Friday: 5:00 – 7:00 PM'
+      - 'Saturday: 5:00 – 7:00 PM'
+      - 'Sunday: 5:00 – 7:00 PM'
+    secondaryHoursType: HAPPY_HOUR
+    nextOpenTime: '2025-05-04T00:00:00Z'
 phone: (510) 276-3999
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.4'
-rating_count: 0
+rating_count: 776
 website: http://angryfishsushi.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Angry Fish in San Leandro$$$Angry Fish in San Leandro, CA, stands out
+  as a welcoming sushi spot known for its fresh offerings and relaxed vibe,
+  perfect for those seeking quality Japanese cuisine nearby. This casual eatery
+  specializes in a variety of specialty rolls, bento boxes, and traditional
+  dishes that highlight bold flavors and thoughtful preparation, appealing to
+  fans of top-rated sushi experiences. With accessibility features like
+  wheelchair-friendly entrances and parking, it ensures everyone can enjoy a
+  comfortable meal, while happy hour specials add extra value for diners looking
+  to unwind. The spot's moderate pricing and inviting atmosphere make it an
+  ideal choice for anyone exploring sushi restaurants in the area, blending
+  simplicity with satisfying tastes that keep locals coming back.
+generative_summary: >-
+  Discover Angry Fish in San Leandro$$$Angry Fish in San Leandro, CA, stands out
+  as a welcoming sushi spot known for its fresh offerings and relaxed vibe,
+  perfect for those seeking quality Japanese cuisine nearby. This casual eatery
+  specializes in a variety of specialty rolls, bento boxes, and traditional
+  dishes that highlight bold flavors and thoughtful preparation, appealing to
+  fans of top-rated sushi experiences. With accessibility features like
+  wheelchair-friendly entrances and parking, it ensures everyone can enjoy a
+  comfortable meal, while happy hour specials add extra value for diners looking
+  to unwind. The spot's moderate pricing and inviting atmosphere make it an
+  ideal choice for anyone exploring sushi restaurants in the area, blending
+  simplicity with satisfying tastes that keep locals coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ_yXMacaRj4ARHZOf4uGTGI4/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3OF9tTlZnEAE
+    relativePublishTimeDescription: a month ago
+    rating: 4
+    text:
+      text: >-
+        Amazing fresh sushi and miso soup everything we tried was wonderful. The
+        Anger Management roll was large enough that we each had two bites per
+        one slice. The Unagi Pizza was interesting and tasty but we were full so
+        packed it home. The rib eye steak bento box offered the best variety
+        with tempura veggies, California roll and the beef. Everything was fresh
+        and fast and the staff was very friendly. I would recommend the Angry
+        Fish, "greatest little secret of San Leandro"
+      languageCode: en
+    originalText:
+      text: >-
+        Amazing fresh sushi and miso soup everything we tried was wonderful. The
+        Anger Management roll was large enough that we each had two bites per
+        one slice. The Unagi Pizza was interesting and tasty but we were full so
+        packed it home. The rib eye steak bento box offered the best variety
+        with tempura veggies, California roll and the beef. Everything was fresh
+        and fast and the staff was very friendly. I would recommend the Angry
+        Fish, "greatest little secret of San Leandro"
+      languageCode: en
+    authorAttribution:
+      displayName: M D
+      uri: https://www.google.com/maps/contrib/112569670779181357353/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocImzY9ycJaDOszhwXHtMNgQOr3ubaM1s5GKgfDcGzIDNYYEvA=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-03-21T04:16:15.891723Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUN3OF9tTlZnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUN3OF9tTlZnEAE!2m1!1s0x808f91c669cc25ff:0x8e1893e1e29f931d
+  - name: >-
+      places/ChIJ_yXMacaRj4ARHZOf4uGTGI4/reviews/ChdDSUhNMG9nS0VJQ0FnSUNMMXI3Q3VRRRAB
+    relativePublishTimeDescription: 10 months ago
+    rating: 5
+    text:
+      text: >-
+        It's our first time here. The food was fantastic, and the service was
+        excellent. Fresh oysters were amazing! We'll definitely come back. We
+        ordered the Sunshine, Rainbow, and Angry Fish rolls, as well as Japanese
+        pasta for my daughter.
+      languageCode: en
+    originalText:
+      text: >-
+        It's our first time here. The food was fantastic, and the service was
+        excellent. Fresh oysters were amazing! We'll definitely come back. We
+        ordered the Sunshine, Rainbow, and Angry Fish rolls, as well as Japanese
+        pasta for my daughter.
+      languageCode: en
+    authorAttribution:
+      displayName: Irish J. B.
+      uri: https://www.google.com/maps/contrib/105108832765817324501/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJVdsyhXfvC8Ipgzuv-XtSB-N0Qjawc4jKmH5lLByHDLe_OMHSx=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2024-07-02T13:33:20.336932Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNMMXI3Q3VRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNMMXI3Q3VRRRAB!2m1!1s0x808f91c669cc25ff:0x8e1893e1e29f931d
+  - name: >-
+      places/ChIJ_yXMacaRj4ARHZOf4uGTGI4/reviews/ChdDSUhNMG9nS0VJQ0FnSUM3cmNEUXJRRRAB
+    relativePublishTimeDescription: 8 months ago
+    rating: 4
+    text:
+      text: >-
+        Excellent customer service and very impressive happy hours menu (ending
+        late at 7p, Fried Chicken Soft Bone is a must try). I have yet to try
+        their variety of toro (bluefin tuna) as they’ve run out of it every
+        time. I’d definitely come back for that soon and hopefully to improve my
+        food rating.
+      languageCode: en
+    originalText:
+      text: >-
+        Excellent customer service and very impressive happy hours menu (ending
+        late at 7p, Fried Chicken Soft Bone is a must try). I have yet to try
+        their variety of toro (bluefin tuna) as they’ve run out of it every
+        time. I’d definitely come back for that soon and hopefully to improve my
+        food rating.
+      languageCode: en
+    authorAttribution:
+      displayName: Rhumba Bum
+      uri: https://www.google.com/maps/contrib/110717754694395655747/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLwoceRpmWug0U4F4kk8i4lYBonuoOOC3YqbZi4JEXqZRC6aA=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-08-18T01:36:57.037772Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUM3cmNEUXJRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUM3cmNEUXJRRRAB!2m1!1s0x808f91c669cc25ff:0x8e1893e1e29f931d
+  - name: >-
+      places/ChIJ_yXMacaRj4ARHZOf4uGTGI4/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRNE0zZEZ3EAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        A member of our gourmand group had lunch at Angry Fish a couple of days
+        ago and was impressed with the food and the prices.  He recommended it
+        to our group and we visited for dinner on Friday night.  The selection
+        was impressive and every dish was fresh and tasty.  Jackie, our server,
+        was among one of the best we have seen.  He was quick, courteous,
+        patient, and an absolute delight.  Despite a packed house, he answered
+        each and every question this group of seniors presented, he also took
+        the initiative to repeat the answers or his recommendations to those
+        sitting at the other end of the table since we were a pretty big group. 
+        Every request, be it extra napkins, chopsticks, replacement of dishes,
+        etc. etc. were promptly fulfilled with smiles and super efficiency.  We
+        never have to ask for anything twice, he remembers everything.  Every
+        dish he recommended was excellent.  We were all very happy with the food
+        and are super impressed with the excellent service.
+      languageCode: en
+    originalText:
+      text: >-
+        A member of our gourmand group had lunch at Angry Fish a couple of days
+        ago and was impressed with the food and the prices.  He recommended it
+        to our group and we visited for dinner on Friday night.  The selection
+        was impressive and every dish was fresh and tasty.  Jackie, our server,
+        was among one of the best we have seen.  He was quick, courteous,
+        patient, and an absolute delight.  Despite a packed house, he answered
+        each and every question this group of seniors presented, he also took
+        the initiative to repeat the answers or his recommendations to those
+        sitting at the other end of the table since we were a pretty big group. 
+        Every request, be it extra napkins, chopsticks, replacement of dishes,
+        etc. etc. were promptly fulfilled with smiles and super efficiency.  We
+        never have to ask for anything twice, he remembers everything.  Every
+        dish he recommended was excellent.  We were all very happy with the food
+        and are super impressed with the excellent service.
+      languageCode: en
+    authorAttribution:
+      displayName: FM
+      uri: https://www.google.com/maps/contrib/115626533140506421974/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUJQwbY4YEPE3PVJOTsSe7fAKwD8H__RBEdX3T5g_GlUQKF2P6S=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-03-01T05:17:31.033803Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNRNE0zZEZ3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNRNE0zZEZ3EAE!2m1!1s0x808f91c669cc25ff:0x8e1893e1e29f931d
+  - name: >-
+      places/ChIJ_yXMacaRj4ARHZOf4uGTGI4/reviews/ChdDSUhNMG9nS0VJQ0FnTUNvcnF5TzV3RRAB
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        Angry Fish is one of my favorite Japanese restaurants and sushi places.
+        Everything about them is amazing. The food is great and the service is
+        friendly and polite. The only thing is the menu is a bit pricey, but
+        other than that, Angry Fish is perfect. 10/10 highly recommended.
+      languageCode: en
+    originalText:
+      text: >-
+        Angry Fish is one of my favorite Japanese restaurants and sushi places.
+        Everything about them is amazing. The food is great and the service is
+        friendly and polite. The only thing is the menu is a bit pricey, but
+        other than that, Angry Fish is perfect. 10/10 highly recommended.
+      languageCode: en
+    authorAttribution:
+      displayName: Daniel Seto
+      uri: https://www.google.com/maps/contrib/112100160058469025749/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocK547gKbM4NDLOGUNKOHWD7wyKdh6xoQuLk-BXa9mW19vChBA=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-17T04:02:06.499844Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNvcnF5TzV3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNvcnF5TzV3RRAB!2m1!1s0x808f91c669cc25ff:0x8e1893e1e29f931d
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors to this sushi haven often praise the
+  incredibly fresh rolls and flavorful entrees, noting how they hit the spot for
+  a satisfying meal without any fuss. Many highlight the efficient service and
+  welcoming staff that make dining out feel easy and enjoyable, turning simple
+  visits into memorable experiences. While some mention the prices as a bit on
+  the higher side, the overall value from generous portions and tasty options
+  like bento boxes keeps the vibe upbeat and worth it. Folks appreciate the
+  happy hour deals that enhance the fun, making it a solid pick for groups or
+  solo diners hunting for reliable Japanese spots nearby. All in all, it's clear
+  that this place delivers a consistently positive experience, encouraging
+  repeat trips for anyone craving great sushi in a laid-back setting.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
 good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
 serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Unfussy eatery offering specialty rolls & traditional Japanese entrees, plus
+  beer & sake.
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "123 Sushi"
+title: 123 Sushi
 permalink: /minnesota/minneapolis/123-sushi.html
 stateAbbr: MN
 stateName: Minnesota
 cityName: Minneapolis
 seo:
-  name: "123 Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.onetwothreesushi.com/
-description: "Casual, fast-food spot offering create-your-own sushi rolls, ramen & rice bowls in a modern space. 123 Sushi serves delicious sushi in Minneapolis, Minnesota. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ-TtOW5cys1IR3X6DwOwsWgA
 photos:
   - name: >-
@@ -182,6 +180,33 @@ price_range: $10 &ndash; $20
 rating: '4.3'
 rating_count: 0
 website: http://www.onetwothreesushi.com/
+description: >-
+  Discover 123 Sushi in Minneapolis, MN$$$Nestled in the heart of Minneapolis,
+  MN, 123 Sushi stands out as a vibrant spot for fresh Japanese-inspired
+  cuisine, offering customizable bowls, rolls, and ramen that cater to a variety
+  of tastes. This casual eatery features a modern space ideal for quick lunches
+  or dinners, with affordable options that make it a go-to choice for those
+  seeking sushi restaurants in the area. Diners can enjoy create-your-own meals
+  packed with flavorful ingredients, emphasizing convenience and value without
+  sacrificing quality. The location in the skyway system adds to its appeal,
+  providing easy access for locals and visitors hunting for top sushi options
+  near downtown spots. Whether you're in the mood for a hearty ramen bowl or
+  light sushi selections, this place delivers a satisfying experience that
+  highlights its commitment to fresh, accessible dining.
+generative_summary: >-
+  Discover 123 Sushi in Minneapolis, MN$$$Nestled in the heart of Minneapolis,
+  MN, 123 Sushi stands out as a vibrant spot for fresh Japanese-inspired
+  cuisine, offering customizable bowls, rolls, and ramen that cater to a variety
+  of tastes. This casual eatery features a modern space ideal for quick lunches
+  or dinners, with affordable options that make it a go-to choice for those
+  seeking sushi restaurants in the area. Diners can enjoy create-your-own meals
+  packed with flavorful ingredients, emphasizing convenience and value without
+  sacrificing quality. The location in the skyway system adds to its appeal,
+  providing easy access for locals and visitors hunting for top sushi options
+  near downtown spots. Whether you're in the mood for a hearty ramen bowl or
+  light sushi selections, this place delivers a satisfying experience that
+  highlights its commitment to fresh, accessible dining.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ-TtOW5cys1IR3X6DwOwsWgA/reviews/ChdDSUhNMG9nS0VJQ0FnSUNEMkpTVTNnRRAB
@@ -343,6 +368,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR4OUlUWll3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR4OUlUWll3EAE!2m1!1s0x52b332975b4e3bf9:0x5a2cecc0837edd
+review_summary: >-
+  What People Love About 123 Sushi$$$Folks often rave about the tasty ramen and
+  customizable sushi bowls here, noting how the portions are generous and full
+  of bold flavors that hit the spot for a casual meal. Many appreciate the quick
+  service and reasonable prices, making it a solid pick for anyone grabbing
+  lunch on the go in the skyway area. While some mention minor seating
+  discomforts, the overall consensus is that the food consistently impresses
+  with its freshness and variety, earning it high marks as a reliable choice.
+  Customers frequently highlight the fast delivery and dine-in options as
+  bonuses for busy days, adding to the convenience factor. All in all, it's a
+  welcoming spot that keeps people coming back for more, especially if you're on
+  the hunt for straightforward, enjoyable Japanese eats nearby.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   valetParking: false
 payment_options:
@@ -372,8 +410,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: null
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Casual, fast-food spot offering create-your-own sushi rolls, ramen & rice
   bowls in a modern space.
 

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yen Sushi & Sake Bar"
+title: Yen Sushi & Sake Bar
 permalink: /california/los-angeles/yen-sushi-sake-bar.html
 stateAbbr: CA
 stateName: California
 cityName: Los Angeles
 seo:
-  name: "Yen Sushi & Sake Bar"
-  type: Restaurant
+  type: restaurant
   links: http://yen-hillhurst.com/
-description: "Yen Sushi & Sake Bar serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJG2cUM6XAwoARsUzj7AARfmM
 photos:
   - name: >-
@@ -169,7 +167,113 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c2c0a53314671b:0x637e1100ece34cb1!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 14
+        minute: 30
+    - open:
+        day: 0
+        hour: 16
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 20
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 14
+        minute: 30
+    - open:
+        day: 6
+        hour: 16
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
     - 'Tuesday: 11:30 AM – 2:30 PM, 4:30 – 9:00 PM'
     - 'Wednesday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
@@ -177,14 +281,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 8:30 PM'
     - 'Saturday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
     - 'Sunday: 12:00 – 2:30 PM, 4:30 – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
-    - 'Tuesday: 11:30 AM – 2:30 PM, 4:30 – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
-    - 'Thursday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
-    - 'Friday: 11:00 AM – 8:30 PM'
-    - 'Saturday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
-    - 'Sunday: 12:00 – 2:30 PM, 4:30 – 9:00 PM'
+  nextOpenTime: '2025-05-03T23:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,9 +293,48 @@ phone: (323) 666-1400
 price_level: null
 price_range: null
 rating: '4.4'
-rating_count: 0
+rating_count: 245
 website: http://yen-hillhurst.com/
+description: >-
+  Discover Yen Sushi & Sake Bar in Los Angeles, CA$$$Yen Sushi & Sake Bar in Los
+  Angeles, CA, stands out as a welcoming spot for enjoying authentic Japanese
+  flavors, featuring fresh sushi rolls and creative bento boxes that highlight
+  the best of coastal-inspired cuisine. This casual eatery combines a relaxed
+  atmosphere with thoughtful accessibility options, making it easy for everyone
+  to savor dishes like miso soup and paired beverages including wine and beer.
+  Patrons can appreciate the variety of options that cater to different tastes,
+  from light bites to more substantial meals, all prepared with a focus on
+  quality ingredients. Operating with convenient hours throughout the week, it's
+  a go-to choice for those seeking top sushi restaurants in the area, blending
+  tradition with a modern vibe that keeps locals coming back.
+generative_summary: >-
+  Discover Yen Sushi & Sake Bar in Los Angeles, CA$$$Yen Sushi & Sake Bar in Los
+  Angeles, CA, stands out as a welcoming spot for enjoying authentic Japanese
+  flavors, featuring fresh sushi rolls and creative bento boxes that highlight
+  the best of coastal-inspired cuisine. This casual eatery combines a relaxed
+  atmosphere with thoughtful accessibility options, making it easy for everyone
+  to savor dishes like miso soup and paired beverages including wine and beer.
+  Patrons can appreciate the variety of options that cater to different tastes,
+  from light bites to more substantial meals, all prepared with a focus on
+  quality ingredients. Operating with convenient hours throughout the week, it's
+  a go-to choice for those seeking top sushi restaurants in the area, blending
+  tradition with a modern vibe that keeps locals coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying About This Sushi Spot$$$Visitors to this popular
+  sushi place often rave about the consistently fresh and flavorful dishes, with
+  many highlighting the well-executed rolls and satisfying portions that make
+  for a solid meal. Feedback frequently points to the friendly service and
+  inviting setting, creating a relaxed experience that feels just right for
+  casual outings or quick dinners. While some note minor waits during peak
+  times, the overall vibe remains positive, with folks appreciating the value
+  and variety that keep it among the best sushi options nearby. It's clear that
+  the high ratings stem from reliable quality and a welcoming approach,
+  encouraging repeat visits for anyone craving Japanese-inspired eats. Overall,
+  the buzz around here suggests it's a dependable pick for tasty sushi
+  experiences in Los Angeles.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -224,7 +360,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

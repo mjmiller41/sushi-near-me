@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Toni"
+title: Sushi Toni
 permalink: /california/san-francisco/sushi-toni.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
 seo:
-  name: "Sushi Toni"
-  type: Restaurant
+  type: restaurant
   links: https://order.online/business/sushi-toni-4041
-description: "Sushi, sashimi & hot Japanese dishes plus sake in a brightly painted room with bar & table seating. Sushi Toni serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJUQVBLoyAhYARJFEwb5F0cjE
 photos:
   - name: >-
@@ -184,6 +182,31 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 0
 website: https://order.online/business/sushi-toni-4041
+description: >-
+  Discover Sushi Toni in San Francisco, CA$$$Nestled in the vibrant heart of San
+  Francisco, CA, Sushi Toni stands out as a welcoming spot for fresh sushi and
+  Japanese flavors, offering a cozy atmosphere perfect for casual dining or
+  quick meals. This eatery features a well-stocked bar with classic rolls,
+  sashimi, and hearty Japanese dishes, complemented by a selection of sake that
+  enhances the overall experience. Accessibility is a key highlight, with
+  options like wheelchair-friendly entrances and seating that make it easy for
+  everyone to enjoy. Whether you're seeking sushi restaurants in the area or
+  exploring Japanese places near me, Sushi Toni delivers a balance of quality
+  ingredients and affordable pricing, making it a go-to choice for satisfying
+  cravings in a lively urban setting.
+generative_summary: >-
+  Discover Sushi Toni in San Francisco, CA$$$Nestled in the vibrant heart of San
+  Francisco, CA, Sushi Toni stands out as a welcoming spot for fresh sushi and
+  Japanese flavors, offering a cozy atmosphere perfect for casual dining or
+  quick meals. This eatery features a well-stocked bar with classic rolls,
+  sashimi, and hearty Japanese dishes, complemented by a selection of sake that
+  enhances the overall experience. Accessibility is a key highlight, with
+  options like wheelchair-friendly entrances and seating that make it easy for
+  everyone to enjoy. Whether you're seeking sushi restaurants in the area or
+  exploring Japanese places near me, Sushi Toni delivers a balance of quality
+  ingredients and affordable pricing, making it a go-to choice for satisfying
+  cravings in a lively urban setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJUQVBLoyAhYARJFEwb5F0cjE/reviews/ChdDSUhNMG9nS0VJQ0FnTUNReV96cmdnRRAB
@@ -329,6 +352,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUREbjl2NXRnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUREbjl2NXRnRRAB!2m1!1s0x8085808c2e410551:0x317274916f305124
+review_summary: >-
+  What Customers Are Raving About$$$Folks seem to really appreciate the solid
+  value and tasty sushi options here, with many highlighting the flavorful rolls
+  and generous portions that hit the spot without breaking the bank. Feedback
+  often points to the friendly service and quick preparation, especially for
+  takeout, making it a reliable pick for busy evenings or late-night bites.
+  While some note it's not the absolute top-tier sushi they've tried, the
+  variety of vegetarian choices and overall consistency keep people coming back
+  for more. Overall, diners enjoy the cozy vibe and welcoming feel, often
+  recommending it as a great spot for groups or solo diners looking for
+  authentic Japanese flavors. If you're on the hunt for top-rated sushi near me,
+  this place earns praise for its dependable quality and inviting atmosphere
+  that leaves a positive impression.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   valetParking: false
 payment_options:
@@ -359,8 +396,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Sushi, sashimi & hot Japanese dishes plus sake in a brightly painted room with
   bar & table seating.
 

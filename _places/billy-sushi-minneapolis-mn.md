@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Billy Sushi ビリー寿司"
+title: Billy Sushi ビリー寿司
 permalink: /minnesota/minneapolis/billy-sushi.html
 stateAbbr: MN
 stateName: Minnesota
 cityName: Minneapolis
 seo:
-  name: "Billy Sushi ビリー寿司"
-  type: Restaurant
+  type: restaurant
   links: http://www.billysushi.net/
-description: "Stylish, contemporary restaurant serving sushi specialties, plus sake & cocktails. Billy Sushi ビリー寿司 serves delicious sushi in Minneapolis, Minnesota. Try fresh Japanese dishes for a great dining experience. Available for takeout, and dinner."
 place_id: ChIJnY_UZi8zs1IR_3B_nM1zE04
 photos:
   - name: >-
@@ -184,6 +182,35 @@ price_range: $50 &ndash; $100
 rating: '4.5'
 rating_count: 0
 website: http://www.billysushi.net/
+description: >-
+  Discover Billy Sushi in Minneapolis, MN$$$Billy Sushi in Minneapolis, MN,
+  stands out as an upscale Japanese dining destination, offering a refined
+  selection of sushi and sashimi crafted with fresh ingredients and creative
+  flair. This contemporary spot enhances the meal with a variety of sake, beer,
+  and cocktails, making it ideal for those seeking an elegant yet approachable
+  sushi experience in the heart of the city. Accessibility features like
+  wheelchair-friendly entrances and seating add to its appeal for a wide range
+  of visitors, ensuring everyone can enjoy the modern ambiance and thoughtful
+  menu design. Whether you're exploring top sushi options near you or looking
+  for a stylish spot to unwind, the restaurant's focus on quality and
+  presentation creates a memorable atmosphere. Its location in Central
+  Minneapolis makes it a convenient choice for anyone craving authentic Japanese
+  flavors in a welcoming setting.
+generative_summary: >-
+  Discover Billy Sushi in Minneapolis, MN$$$Billy Sushi in Minneapolis, MN,
+  stands out as an upscale Japanese dining destination, offering a refined
+  selection of sushi and sashimi crafted with fresh ingredients and creative
+  flair. This contemporary spot enhances the meal with a variety of sake, beer,
+  and cocktails, making it ideal for those seeking an elegant yet approachable
+  sushi experience in the heart of the city. Accessibility features like
+  wheelchair-friendly entrances and seating add to its appeal for a wide range
+  of visitors, ensuring everyone can enjoy the modern ambiance and thoughtful
+  menu design. Whether you're exploring top sushi options near you or looking
+  for a stylish spot to unwind, the restaurant's focus on quality and
+  presentation creates a memorable atmosphere. Its location in Central
+  Minneapolis makes it a convenient choice for anyone craving authentic Japanese
+  flavors in a welcoming setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJnY_UZi8zs1IR_3B_nM1zE04/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3b3NuZWNBEAE
@@ -405,6 +432,22 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURROWFEbnBRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURROWFEbnBRRRAB!2m1!1s0x52b3332f66d48f9d:0x4e1373cd9c7f70ff
+review_summary: >-
+  What People Love About This Sushi Spot$$$Visitors to this Minneapolis sushi
+  restaurant often rave about the fresh, flavorful rolls and exceptional service
+  that make every meal feel special, with many highlighting the high-quality
+  fish and creative presentations as standout features. Feedback frequently
+  praises the attentive staff and inviting vibe, turning a simple dinner into a
+  noteworthy occasion, though a few note that some dishes like udon might not
+  hit the mark for everyone. Overall, the consensus leans toward it being a top
+  pick for groups or date nights, with the option to pair meals with drinks
+  adding to the fun and relaxed experience. If you're searching for the best
+  sushi near you, this place delivers on taste and atmosphere, encouraging
+  return visits for its generous portions and thoughtful touches. In a casual
+  summary, it's a solid choice for sushi enthusiasts looking for quality without
+  the fuss, keeping things positive while staying real about the occasional
+  minor letdown.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidStreetParking: true
   valetParking: false
@@ -435,8 +478,8 @@ serves_lunch: null
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Stylish, contemporary restaurant serving sushi specialties, plus sake &
   cocktails.
 

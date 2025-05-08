@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Mr. Fuji Sushi - Albany"
+title: Mr. Fuji Sushi - Albany
 permalink: /new-york/albany/mr-fuji-sushi-albany.html
 stateAbbr: NY
 stateName: New York
 cityName: Albany
 seo:
-  name: "Mr. Fuji Sushi - Albany"
-  type: Restaurant
-  links: null
-description: "Mr. Fuji Sushi - Albany serves delicious sushi in Albany, New York. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.mrfujisushialbany.com/
 place_id: ChIJm93ICC0L3okRsqIxgoNR29s
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89de0b2d08c8dd9b:0xdbdb51838231a2b2!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 10:00 PM'
+    - 'Tuesday: 11:00 AM – 10:00 PM'
+    - 'Wednesday: 11:00 AM – 10:00 PM'
+    - 'Thursday: 11:00 AM – 10:00 PM'
+    - 'Friday: 11:00 AM – 11:00 PM'
+    - 'Saturday: 11:00 AM – 11:00 PM'
+    - 'Sunday: 12:00 – 10:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -180,12 +243,50 @@ secondary_opening_hours:
     weekdayDescriptions: null
     type: null
 phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.3'
+rating_count: 235
+website: https://www.mrfujisushialbany.com/
+description: >-
+  About Mr. Fuji Sushi in Albany, NY$$$Nestled in Albany, NY, Mr. Fuji Sushi
+  stands out as a welcoming spot for enjoying authentic Japanese cuisine,
+  featuring fresh sushi and bento boxes in a relaxed environment. This casual
+  restaurant boasts a variety of flavorful Japanese fare, including creative
+  rolls and hearty options, all served in a setting complete with a bar for
+  added convenience. Patrons can appreciate the accessible features, such as
+  wheelchair-friendly entrances and seating, making it an inclusive choice for
+  diverse diners. Whether you're exploring top-rated sushi restaurants in the
+  area or seeking a laid-back meal, the menu highlights quality ingredients and
+  thoughtful presentations that capture the essence of traditional Japanese
+  dining.
+generative_summary: >-
+  About Mr. Fuji Sushi in Albany, NY$$$Nestled in Albany, NY, Mr. Fuji Sushi
+  stands out as a welcoming spot for enjoying authentic Japanese cuisine,
+  featuring fresh sushi and bento boxes in a relaxed environment. This casual
+  restaurant boasts a variety of flavorful Japanese fare, including creative
+  rolls and hearty options, all served in a setting complete with a bar for
+  added convenience. Patrons can appreciate the accessible features, such as
+  wheelchair-friendly entrances and seating, making it an inclusive choice for
+  diverse diners. Whether you're exploring top-rated sushi restaurants in the
+  area or seeking a laid-back meal, the menu highlights quality ingredients and
+  thoughtful presentations that capture the essence of traditional Japanese
+  dining.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Buzzing About$$$With a solid 4.3 rating from hundreds of
+  visitors, folks generally rave about the fresh flavors and well-prepared
+  dishes at this sushi spot, often highlighting the tasty rolls and generous
+  portions that hit the spot. Many appreciate the friendly vibe and efficient
+  service, making it a reliable go-to for casual meals or group outings in
+  Albany. While some note that it can get busy during peak times, leading to
+  slight waits, the overall experience tends to leave people satisfied and
+  coming back for more. If you're on the hunt for sushi places near you, this
+  location frequently gets nods for its value and taste, offering a solid option
+  that balances quality with approachability. All in all, it's a favorite for
+  those craving Japanese-inspired eats without the fuss.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +312,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

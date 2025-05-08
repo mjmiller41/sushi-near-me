@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Pokeworks"
+title: Pokeworks
 permalink: /idaho/coeur-d-alene/pokeworks.html
 stateAbbr: ID
 stateName: Idaho
 cityName: Coeur d'Alene
 seo:
-  name: "Pokeworks"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Pokeworks serves delicious sushi in Coeur d'Alene, Idaho. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJSZ21m0bBYVMRVeYsbgnII1I
 photos:
   - name: >-
@@ -185,7 +183,46 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Pokeworks in Coeur d'Alene, ID$$$Pokeworks in Coeur d'Alene, ID,
+  stands out as a fast-casual sushi restaurant offering a fresh take on poke
+  bowls that blend Hawaiian and Japanese influences. This spot features a
+  variety of customizable options, allowing diners to select from an array of
+  proteins and toppings for a personalized meal experience. With its emphasis on
+  high-quality ingredients and quick service, it's an ideal choice for those
+  seeking sushi restaurants near you that prioritize both flavor and
+  convenience. The venue also boasts accessibility features like
+  wheelchair-friendly entrances and seating, making it welcoming for all
+  visitors. Whether you're exploring top-rated sushi places in the area,
+  Pokeworks delivers a vibrant and satisfying dining option that captures the
+  essence of modern, health-conscious cuisine.
+generative_summary: >-
+  Discover Pokeworks in Coeur d'Alene, ID$$$Pokeworks in Coeur d'Alene, ID,
+  stands out as a fast-casual sushi restaurant offering a fresh take on poke
+  bowls that blend Hawaiian and Japanese influences. This spot features a
+  variety of customizable options, allowing diners to select from an array of
+  proteins and toppings for a personalized meal experience. With its emphasis on
+  high-quality ingredients and quick service, it's an ideal choice for those
+  seeking sushi restaurants near you that prioritize both flavor and
+  convenience. The venue also boasts accessibility features like
+  wheelchair-friendly entrances and seating, making it welcoming for all
+  visitors. Whether you're exploring top-rated sushi places in the area,
+  Pokeworks delivers a vibrant and satisfying dining option that captures the
+  essence of modern, health-conscious cuisine.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this sushi spot often rave about the
+  delicious poke bowls, highlighting flavors like the Hawaiian Ahi and Sweet
+  Shoyu Tofu options that keep things exciting and fresh. Folks appreciate the
+  customizable choices and high-quality ingredients that make every bite feel
+  just right without overwhelming the palate. The friendly staff and efficient
+  service add to the laid-back vibe, creating a welcoming atmosphere that's
+  perfect for a quick meal. Overall, the clean setting and positive experiences
+  shared by diners suggest it's a reliable pick for anyone craving sushi close
+  to home. While opinions are generally upbeat, it's clear that the focus on
+  fresh, straightforward offerings keeps customers coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +248,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -5,4 +5,5 @@ permalink: /florida/lauderdale-by-the-sea/
 stateAbbr: FL
 stateName: Florida
 cityName: Lauderdale-By-The-Sea
+
 ---

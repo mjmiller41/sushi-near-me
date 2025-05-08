@@ -5,4 +5,5 @@ permalink: /montana/kalispell/
 stateAbbr: MT
 stateName: Montana
 cityName: Kalispell
+
 ---

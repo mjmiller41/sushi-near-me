@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ginza Sushi"
+title: Ginza Sushi
 permalink: /hawaii/honolulu/ginza-sushi.html
 stateAbbr: HI
 stateName: Hawaii
 cityName: Honolulu
 seo:
-  name: "Ginza Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Ginza Sushi serves delicious sushi in Honolulu, Hawaii. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJxfZYk_xtAHwRS0FCQtovSeY
 photos:
   - name: >-
@@ -170,8 +168,129 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x7c006dfc9358f6c5:0xe6492fda4242414b!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 15
+        minute: 0
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 15
+        minute: 0
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 15
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 15
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 3:00 PM, 5:00 – 9:30 PM'
+    - 'Tuesday: 11:00 AM – 3:00 PM, 5:00 – 9:30 PM'
+    - 'Wednesday: 11:00 AM – 3:00 PM, 5:00 – 9:30 PM'
+    - 'Thursday: 11:00 AM – 3:00 PM, 5:00 – 9:30 PM'
+    - 'Friday: 11:00 AM – 3:00 PM, 5:00 – 10:00 PM'
+    - 'Saturday: 11:00 AM – 3:00 PM, 5:00 – 10:00 PM'
+    - 'Sunday: 11:00 AM – 3:00 PM, 5:00 – 9:30 PM'
+  nextCloseTime: '2025-05-04T01:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +298,50 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
+phone: (808) 593-9797
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.6'
+rating_count: 406
 website: null
+description: >-
+  Explore Ginza Sushi in Honolulu, HI$$$Ginza Sushi in Honolulu, HI, offers a
+  welcoming spot for enjoying fresh Japanese dishes in a laid-back setting. This
+  sushi restaurant specializes in a variety of expertly prepared rolls, sashimi,
+  and other traditional eats that highlight the flavors of the islands and
+  beyond. With its accessible design and moderate pricing, it's an ideal choice
+  for those seeking quality meals without the hassle, making it easy to savor
+  authentic tastes in a comfortable environment. The spot operates with
+  convenient hours, including lunch and dinner options throughout the week,
+  perfect for anyone looking for reliable Japanese cuisine nearby. Its focus on
+  simple yet flavorful presentations ensures a satisfying experience for sushi
+  enthusiasts exploring the vibrant dining scene.
+generative_summary: >-
+  Explore Ginza Sushi in Honolulu, HI$$$Ginza Sushi in Honolulu, HI, offers a
+  welcoming spot for enjoying fresh Japanese dishes in a laid-back setting. This
+  sushi restaurant specializes in a variety of expertly prepared rolls, sashimi,
+  and other traditional eats that highlight the flavors of the islands and
+  beyond. With its accessible design and moderate pricing, it's an ideal choice
+  for those seeking quality meals without the hassle, making it easy to savor
+  authentic tastes in a comfortable environment. The spot operates with
+  convenient hours, including lunch and dinner options throughout the week,
+  perfect for anyone looking for reliable Japanese cuisine nearby. Its focus on
+  simple yet flavorful presentations ensures a satisfying experience for sushi
+  enthusiasts exploring the vibrant dining scene.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Recent Feedback$$$Folks often rave about the fantastic value at
+  this sushi spot, where fresh and flavorful rolls make every bite worthwhile.
+  Many highlight standout options like the ahi specials and premium nigiri as
+  must-tries that deliver on taste and quality without breaking the bank. The
+  service stands out for being attentive and friendly, helping to create a
+  relaxed vibe that keeps diners coming back. Overall, the cozy atmosphere with
+  enjoyable background tunes adds to the appeal, making it a solid pick for
+  casual meals or gatherings. If you're hunting for top-notch Japanese eats in
+  the area, this place consistently earns praise for its reliable and enjoyable
+  experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +367,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

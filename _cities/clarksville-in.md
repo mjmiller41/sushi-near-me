@@ -5,4 +5,5 @@ permalink: /indiana/clarksville/
 stateAbbr: IN
 stateName: Indiana
 cityName: Clarksville
+
 ---

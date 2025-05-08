@@ -5,4 +5,5 @@ permalink: /california/el-cajon/
 stateAbbr: CA
 stateName: California
 cityName: El Cajon
+
 ---

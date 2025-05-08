@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Uni Sushi"
+title: Uni Sushi
 permalink: /texas/the-woodlands/uni-sushi.html
 stateAbbr: TX
 stateName: Texas
 cityName: The Woodlands
 seo:
-  name: "Uni Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://uniwoodlands.com/
-description: "Uni Sushi serves delicious sushi in The Woodlands, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJRWd0J8E2R4YRJUlsPxMA3XU
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x864736c127746745:0x75dd00133f6c4925!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:00 PM'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 10:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 11:00 PM'
     - 'Saturday: 12:00 – 11:00 PM'
     - 'Sunday: 12:00 – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 10:00 PM'
-    - 'Thursday: 11:00 AM – 10:00 PM'
-    - 'Friday: 11:00 AM – 11:00 PM'
-    - 'Saturday: 12:00 – 11:00 PM'
-    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,234 @@ phone: (281) 298-7177
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.1'
-rating_count: 0
+rating_count: 934
 website: http://uniwoodlands.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Uni Sushi in The Woodlands, TX$$$Uni Sushi in The Woodlands, TX,
+  stands out as a premier spot for enjoying fresh Japanese cuisine in an elegant
+  setting. The restaurant features a sophisticated atmosphere with dim lighting
+  and a focus on high-quality sushi rolls, sashimi, and other traditional dishes
+  that highlight authentic flavors. Diners can appreciate the upscale interior
+  combined with thoughtful accessibility options, making it welcoming for all
+  guests seeking a refined meal. Conveniently located in a vibrant neighborhood,
+  this sushi destination offers a variety of options for lunch and dinner,
+  perfect for those exploring top-rated Japanese places nearby. With extended
+  hours and outdoor seating, it's an ideal choice for anyone craving a memorable
+  dining experience in the area.
+generative_summary: >-
+  Discover Uni Sushi in The Woodlands, TX$$$Uni Sushi in The Woodlands, TX,
+  stands out as a premier spot for enjoying fresh Japanese cuisine in an elegant
+  setting. The restaurant features a sophisticated atmosphere with dim lighting
+  and a focus on high-quality sushi rolls, sashimi, and other traditional dishes
+  that highlight authentic flavors. Diners can appreciate the upscale interior
+  combined with thoughtful accessibility options, making it welcoming for all
+  guests seeking a refined meal. Conveniently located in a vibrant neighborhood,
+  this sushi destination offers a variety of options for lunch and dinner,
+  perfect for those exploring top-rated Japanese places nearby. With extended
+  hours and outdoor seating, it's an ideal choice for anyone craving a memorable
+  dining experience in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJRWd0J8E2R4YRJUlsPxMA3XU/reviews/ChdDSUhNMG9nS0VJQ0FnTUNvczVIUDlRRRAB
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 4
+    text:
+      text: >-
+        We got the lunch bento, smaller than in some other places, but this is a
+        more upscale restaurant so everything is smaller. The Shrimp & Scallops
+        was 2 pieces of each with rice some carrots and broccoli - also soup or
+        salad. I also had Nigiri, I recommend the tuna, the rest was ok.
+
+        They were slow but they were full, so to be expected plus we sat
+        outside, which adds to making it slower. Nonetheless, you can't beat the
+        location.
+      languageCode: en
+    originalText:
+      text: >-
+        We got the lunch bento, smaller than in some other places, but this is a
+        more upscale restaurant so everything is smaller. The Shrimp & Scallops
+        was 2 pieces of each with rice some carrots and broccoli - also soup or
+        salad. I also had Nigiri, I recommend the tuna, the rest was ok.
+
+        They were slow but they were full, so to be expected plus we sat
+        outside, which adds to making it slower. Nonetheless, you can't beat the
+        location.
+      languageCode: en
+    authorAttribution:
+      displayName: Sara DPH
+      uri: https://www.google.com/maps/contrib/104572262581820671979/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVl-cukw17RDT3bJvaCR_FLkOokAJuVskb3Tud78dDPwVqZXrqN=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-19T19:01:38.488634Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNvczVIUDlRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNvczVIUDlRRRAB!2m1!1s0x864736c127746745:0x75dd00133f6c4925
+  - name: >-
+      places/ChIJRWd0J8E2R4YRJUlsPxMA3XU/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJc3VUVTNBRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        The sushi was delicious—exactly what we were looking for! The waiter was
+        friendly and attentive, even offered to take our photo and helped us
+        with the selection—great service.
+
+
+        The only thing is that the atmosphere could be more formal. I was
+        dressed up, but some people were sitting around in dirty T-shirts—a
+        dress code would be nice for a restaurant. Overall, we’re happy and will
+        definitely come back!
+      languageCode: en
+    originalText:
+      text: >-
+        The sushi was delicious—exactly what we were looking for! The waiter was
+        friendly and attentive, even offered to take our photo and helped us
+        with the selection—great service.
+
+
+        The only thing is that the atmosphere could be more formal. I was
+        dressed up, but some people were sitting around in dirty T-shirts—a
+        dress code would be nice for a restaurant. Overall, we’re happy and will
+        definitely come back!
+      languageCode: en
+    authorAttribution:
+      displayName: Olesya Manko
+      uri: https://www.google.com/maps/contrib/116318828248681054637/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUoWxnhbiU-SOg38S-CraYw2w0EvxlfhvQoizWEk7mOgtBXjFML=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-03-31T20:13:30.222610Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNJc3VUVTNBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNJc3VUVTNBRRAB!2m1!1s0x864736c127746745:0x75dd00133f6c4925
+  - name: >-
+      places/ChIJRWd0J8E2R4YRJUlsPxMA3XU/reviews/ChZDSUhNMG9nS0VJQ0FnSUR2d2ZIWFpnEAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        This was such a wonderful experience! Delicious sushi, quick service,
+        beautiful location on Market Street, and our waitress Vanessa was truly
+        a gem and treated us so well. We will definitely be returning again in
+        the future.
+      languageCode: en
+    originalText:
+      text: >-
+        This was such a wonderful experience! Delicious sushi, quick service,
+        beautiful location on Market Street, and our waitress Vanessa was truly
+        a gem and treated us so well. We will definitely be returning again in
+        the future.
+      languageCode: en
+    authorAttribution:
+      displayName: RenayReviews
+      uri: https://www.google.com/maps/contrib/110918598118295517271/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVQ3_LlhbR8pEIZvJQqP252wpcMaH9InUprETKuOt8h3UdhzTU=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2024-12-21T04:03:47.851121Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR2d2ZIWFpnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR2d2ZIWFpnEAE!2m1!1s0x864736c127746745:0x75dd00133f6c4925
+  - name: >-
+      places/ChIJRWd0J8E2R4YRJUlsPxMA3XU/reviews/ChdDSUhNMG9nS0VJQ0FnTUNvc3JqNzBBRRAB
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        I had an awesome lunch at Uni today.  We just sat at the bar.  Fantastic
+        service, wonderful sushi, and cool atmosphere.  I plan to go back in the
+        evening for dinner sometime soon.
+      languageCode: en
+    originalText:
+      text: >-
+        I had an awesome lunch at Uni today.  We just sat at the bar.  Fantastic
+        service, wonderful sushi, and cool atmosphere.  I plan to go back in the
+        evening for dinner sometime soon.
+      languageCode: en
+    authorAttribution:
+      displayName: Hunter
+      uri: https://www.google.com/maps/contrib/108459274279538351866/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWLrQW9KSg6JbnEHEUtqBq9OCzwEHviWCI9_NiIWD1MxgxT2fI5=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-04-16T01:32:40.588746Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNvc3JqNzBBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNvc3JqNzBBRRAB!2m1!1s0x864736c127746745:0x75dd00133f6c4925
+  - name: >-
+      places/ChIJRWd0J8E2R4YRJUlsPxMA3XU/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJcFphNkNBEAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Sergio was the bartender for our visit, he was very friendly and super
+        knowledgeable about the menu items and gave great recommendations,  we
+        will definitely be back!
+      languageCode: en
+    originalText:
+      text: >-
+        Sergio was the bartender for our visit, he was very friendly and super
+        knowledgeable about the menu items and gave great recommendations,  we
+        will definitely be back!
+      languageCode: en
+    authorAttribution:
+      displayName: Deborah Fishell
+      uri: https://www.google.com/maps/contrib/118153832301827678655/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjU0A7pmGNkP99cMoaop8qG-qW0PkksD396vSzHQ9aeN9f3eX1o=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-03T13:33:42.760396Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNJcFphNkNBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNJcFphNkNBEAE!2m1!1s0x864736c127746745:0x75dd00133f6c4925
+review_summary: >-
+  What Customers Are Saying$$$Visitors often rave about the tasty sushi and
+  helpful service at this spot, noting that the fresh flavors and quick
+  preparation make for a satisfying meal. Many appreciate the welcoming
+  atmosphere and prime location, which adds to the overall enjoyment without any
+  major drawbacks. Feedback highlights the friendly staff and solid
+  recommendations, helping folks feel right at home during their visit. While
+  some mention it could feel a bit more polished, the general consensus is that
+  it's a great pick for casual get-togethers or date nights. If you're on the
+  hunt for reliable sushi options nearby, this place delivers a consistently
+  positive vibe that keeps people coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+delivery: true
+dine_in: true
+good_for_children: false
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
+serves_coffee: true
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Sushi bar & restaurant with large bar for cocktails, Japanese-European entrees
+  & art deco interior.
 
 ---

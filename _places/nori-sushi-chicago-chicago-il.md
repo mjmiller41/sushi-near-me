@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Nori Sushi Chicago"
+title: Nori Sushi Chicago
 permalink: /illinois/chicago/nori-sushi-chicago.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
 seo:
-  name: "Nori Sushi Chicago"
-  type: Restaurant
+  type: restaurant
   links: https://www.norichicago.com/menus/lakeview-menu
-description: "Creative rolls are served at this busy Japanese restaurant with a bring your own beverage policy. Nori Sushi Chicago serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ44ZvKQHTD4gRRr2X2NupaWc
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 0
 website: https://www.norichicago.com/menus/lakeview-menu
+description: >-
+  Discover Nori Sushi in Chicago, IL$$$Nestled in the heart of Chicago, IL, Nori
+  Sushi stands out as a vibrant sushi restaurant offering a casual yet refined
+  dining experience focused on creative and seafood-centric dishes. This spot is
+  known for its inventive rolls and fresh flavors, complemented by a welcoming
+  atmosphere that includes accessibility features like wheelchair-friendly
+  entrances and seating. Drawing from its reputation as a go-to for Japanese
+  cuisine, it provides a full liquor bar alongside options for those seeking
+  top-rated sushi near me, making it ideal for a relaxed meal. Patrons
+  appreciate the bring-your-own-beverage policy, which adds a personal touch to
+  enjoying expertly prepared bites in a cozy setting. Whether you're exploring
+  sushi restaurants in the area or looking for japanese places near me, Nori
+  Sushi delivers a memorable blend of quality and convenience.
+generative_summary: >-
+  Discover Nori Sushi in Chicago, IL$$$Nestled in the heart of Chicago, IL, Nori
+  Sushi stands out as a vibrant sushi restaurant offering a casual yet refined
+  dining experience focused on creative and seafood-centric dishes. This spot is
+  known for its inventive rolls and fresh flavors, complemented by a welcoming
+  atmosphere that includes accessibility features like wheelchair-friendly
+  entrances and seating. Drawing from its reputation as a go-to for Japanese
+  cuisine, it provides a full liquor bar alongside options for those seeking
+  top-rated sushi near me, making it ideal for a relaxed meal. Patrons
+  appreciate the bring-your-own-beverage policy, which adds a personal touch to
+  enjoying expertly prepared bites in a cozy setting. Whether you're exploring
+  sushi restaurants in the area or looking for japanese places near me, Nori
+  Sushi delivers a memorable blend of quality and convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ44ZvKQHTD4gRRr2X2NupaWc/reviews/ChZDSUhNMG9nS0VJQ0FnSURYaXMtRlhnEAE
@@ -358,6 +383,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURudjZtU3lnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURudjZtU3lnRRAB!2m1!1s0x880fd301296f86e3:0x6769a9dbd897bd46
+review_summary: >-
+  What Visitors Love About This Sushi Spot$$$Folks rave about the delicious
+  sushi and creative appetizers at this lively spot, often highlighting the
+  fresh flavors and fun vibe that make it a favorite for casual dinners. Many
+  enjoy the energetic atmosphere, especially on nights with entertainment that
+  adds an extra layer of excitement to the meal. While the service consistently
+  stands out as friendly and attentive, some note that while the dishes are
+  tasty and include great vegetarian choices, they might not top every sushi
+  lover's list for the absolute best in town. Overall, it's praised for its
+  affordability and variety, making it a solid pick for groups or anyone
+  searching for reliable sushi places near me. If you're in the mood for a
+  welcoming environment with solid food options, this place delivers a genuinely
+  enjoyable experience without any major drawbacks.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options:
   acceptsCreditCards: true
@@ -387,8 +426,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Creative rolls are served at this busy Japanese restaurant with a bring your
   own beverage policy.
 

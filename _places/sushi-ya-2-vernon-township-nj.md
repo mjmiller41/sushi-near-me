@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Ya 2"
+title: Sushi Ya 2
 permalink: /new-jersey/vernon-township/sushi-ya-2.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Vernon Township
 seo:
-  name: "Sushi Ya 2"
-  type: Restaurant
+  type: restaurant
   links: https://sushiya2.top/
-description: "Sushi Ya 2 serves delicious sushi in Vernon Township, New Jersey. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJP0kdauk9w4kRfNASr9PtEKM
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: null
 rating: '4.4'
 rating_count: 0
 website: https://sushiya2.top/
+description: >-
+  Discover Sushi Ya 2 in Vernon Township, NJ$$$Sushi Ya 2 in Vernon Township,
+  NJ, stands out as a welcoming spot for those seeking fresh sushi and hibachi
+  options in a relaxed, family-oriented setting. This casual eatery offers a
+  variety of Japanese-inspired dishes that highlight quality ingredients and
+  flavorful preparations, making it a go-to choice for sushi enthusiasts
+  exploring local dining spots. With accessibility features like
+  wheelchair-friendly entrances and parking, it caters to a wide range of
+  visitors looking for convenient Japanese places near them. The atmosphere
+  combines simplicity with comfort, ideal for enjoying top-rated sushi in a
+  laid-back environment that feels just right for everyday meals or special
+  occasions.
+generative_summary: >-
+  Discover Sushi Ya 2 in Vernon Township, NJ$$$Sushi Ya 2 in Vernon Township,
+  NJ, stands out as a welcoming spot for those seeking fresh sushi and hibachi
+  options in a relaxed, family-oriented setting. This casual eatery offers a
+  variety of Japanese-inspired dishes that highlight quality ingredients and
+  flavorful preparations, making it a go-to choice for sushi enthusiasts
+  exploring local dining spots. With accessibility features like
+  wheelchair-friendly entrances and parking, it caters to a wide range of
+  visitors looking for convenient Japanese places near them. The atmosphere
+  combines simplicity with comfort, ideal for enjoying top-rated sushi in a
+  laid-back environment that feels just right for everyday meals or special
+  occasions.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJP0kdauk9w4kRfNASr9PtEKM/reviews/ChdDSUhNMG9nS0VJQ0FnSURmc2QtZTRnRRAB
@@ -312,6 +335,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNRN0tiYk1BEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNRN0tiYk1BEAE!2m1!1s0x89c33de96a1d493f:0xa310edd3af12d07c
+review_summary: >-
+  Insights from Recent Feedback$$$Folks stopping by Sushi Ya 2 often rave about
+  the speedy service and tasty rolls that hit the spot for anyone craving fresh
+  sushi nearby. While some mention that portions can feel a bit light and prices
+  might run a tad high, the overall vibe keeps things enjoyable with solid
+  flavors that make it worth the visit. Many appreciate the family-friendly
+  setup and variety of options, turning it into a reliable pick for casual sushi
+  restaurants in the area. Even with a few notes on occasional service hiccups,
+  the positive experiences with dishes like creative rolls and hibachi meals
+  shine through, encouraging diners to give it another try for a satisfying
+  meal.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -342,7 +377,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

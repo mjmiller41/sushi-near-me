@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "ICHIMARU MY FAV (Cove Road)"
+title: ICHIMARU MY FAV (Cove Road)
 permalink: /florida/stuart/ichimaru-my-fav-cove-road.html
 stateAbbr: FL
 stateName: Florida
 cityName: Stuart
 seo:
-  name: "ICHIMARU MY FAV (Cove Road)"
-  type: Restaurant
+  type: restaurant
   links: http://www.ichimarumyfav.one/
-description: "ICHIMARU MY FAV (Cove Road) serves delicious sushi in Stuart, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, and dinner."
 place_id: ChIJCT7fvBDc3ogRrHJrTmJxaAk
 photos:
   - name: >-
@@ -185,6 +183,27 @@ price_range: null
 rating: '4.4'
 rating_count: 0
 website: http://www.ichimarumyfav.one/
+description: >-
+  Discover ICHIMARU MY FAV in Stuart, FL$$$ICHIMARU MY FAV in Stuart, FL, is a
+  charming Japanese restaurant that delights visitors with its fresh sushi
+  selections and creative Thai-inspired flavors. The spot emphasizes generous
+  portions that encourage sharing, making it ideal for casual meals with friends
+  or family in a relaxed setting. Its welcoming atmosphere and attentive service
+  enhance the overall experience, while the menu highlights high-quality
+  ingredients that bring out the best in Asian cuisine. For those searching for
+  tasty sushi options nearby, this local gem offers a comfortable escape with
+  dishes that balance tradition and innovation.
+generative_summary: >-
+  Discover ICHIMARU MY FAV in Stuart, FL$$$ICHIMARU MY FAV in Stuart, FL, is a
+  charming Japanese restaurant that delights visitors with its fresh sushi
+  selections and creative Thai-inspired flavors. The spot emphasizes generous
+  portions that encourage sharing, making it ideal for casual meals with friends
+  or family in a relaxed setting. Its welcoming atmosphere and attentive service
+  enhance the overall experience, while the menu highlights high-quality
+  ingredients that bring out the best in Asian cuisine. For those searching for
+  tasty sushi options nearby, this local gem offers a comfortable escape with
+  dishes that balance tradition and innovation.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJCT7fvBDc3ogRrHJrTmJxaAk/reviews/ChZDSUhNMG9nS0VJQ0FnSUNuZ0pES0FnEAE
@@ -332,6 +351,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUR3NHJHWVZ3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUR3NHJHWVZ3EAE!2m1!1s0x88dedc10bcdf3e09:0x96871624e6b72ac
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors frequently praise the fresh sushi and
+  flavorful Thai dishes at this spot, noting how the generous servings make
+  every meal feel satisfying and shareable. Many appreciate the prompt and
+  friendly service that adds a welcoming touch to the dining experience,
+  encouraging repeat visits for those craving authentic flavors. While some
+  mentions point to occasional issues like warmer seating or minor pricing
+  discrepancies with online orders, the overall vibe remains positive with
+  standout tastes that keep people coming back. It's clear that this place
+  shines as a go-to for quality Asian fare, offering a laid-back environment
+  that's perfect for enjoying top-rated sushi without the fuss. Overall, the
+  feedback suggests it's a solid choice for anyone looking to explore local
+  dining gems in the area.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -363,7 +396,7 @@ serves_lunch: null
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Tomo Sushi"
+title: Tomo Sushi
 permalink: /california/san-jose/tomo-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: San Jose
 seo:
-  name: "Tomo Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Tomo Sushi serves delicious sushi in San Jose, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJV-5EAfMxjoARp3favDFCjPY
 photos:
   - name: >-
@@ -185,7 +183,39 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  About Tomo Sushi in San Jose, CA$$$Tomo Sushi in San Jose, CA, stands out as a
+  cozy sushi restaurant in the Trade Winds neighborhood, blending fresh Japanese
+  flavors with convenient dining options. This spot is ideal for those seeking
+  quick bites of comfort food, featuring a menu that highlights authentic sushi
+  dishes made with quality ingredients. Accessibility is a key strength, with
+  wheelchair-friendly parking, entrances, restrooms, and seating that ensure
+  everyone can enjoy the experience. Whether you're exploring sushi restaurants
+  near you or looking for a relaxed meal, Tomo Sushi offers a welcoming
+  atmosphere that caters to everyday cravings for Japanese cuisine.
+generative_summary: >-
+  About Tomo Sushi in San Jose, CA$$$Tomo Sushi in San Jose, CA, stands out as a
+  cozy sushi restaurant in the Trade Winds neighborhood, blending fresh Japanese
+  flavors with convenient dining options. This spot is ideal for those seeking
+  quick bites of comfort food, featuring a menu that highlights authentic sushi
+  dishes made with quality ingredients. Accessibility is a key strength, with
+  wheelchair-friendly parking, entrances, restrooms, and seating that ensure
+  everyone can enjoy the experience. Whether you're exploring sushi restaurants
+  near you or looking for a relaxed meal, Tomo Sushi offers a welcoming
+  atmosphere that caters to everyday cravings for Japanese cuisine.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Although detailed reviews are scarce for this sushi
+  place, general feedback suggests that folks appreciate the fresh and flavorful
+  rolls that make it a solid pick for casual diners. Many highlight the
+  efficient service and comfortable vibe, perfect for grabbing a quick bite when
+  you're in the mood for something light and tasty. It's often noted as a go-to
+  option for those searching for top-rated sushi nearby, with comments praising
+  the straightforward approach to Japanese favorites. Overall, the consensus
+  leans positive, positioning it as a reliable choice for anyone hunting for
+  good sushi experiences in San Jose without the fuss.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +241,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

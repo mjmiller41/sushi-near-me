@@ -1,15 +1,14 @@
 ---
 layout: place
-title: "Hello Tokyo 2"
+title: Hello Tokyo 2
 permalink: /louisiana/gonzales/hello-tokyo-2.html
 stateAbbr: LA
 stateName: Louisiana
 cityName: Gonzales
 seo:
-  name: "Hello Tokyo 2"
-  type: Restaurant
-  links: https://smorefood.com/order-online/hello-tokyo-2-next-to-leblancs-food-store-gonzales-70737-p1urzrdx?utm_source=gmb&utm_medium=website
-description: "Hello Tokyo 2 serves delicious sushi in Gonzales, Louisiana. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: >-
+    https://smorefood.com/order-online/hello-tokyo-2-next-to-leblancs-food-store-gonzales-70737-p1urzrdx?utm_source=gmb&utm_medium=website
 place_id: ChIJRSYnIzq3JoYRa6PhMRZojMI
 photos:
   - name: >-
@@ -170,7 +169,97 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8626b73a23272645:0xc28c681631e1a36b!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 20
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 20
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 20
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 20
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 2:30 PM, 4:30 – 8:30 PM'
     - 'Tuesday: 11:00 AM – 2:30 PM, 4:30 – 8:30 PM'
     - 'Wednesday: 11:00 AM – 2:30 PM, 4:30 – 8:30 PM'
@@ -178,14 +267,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:30 PM'
     - 'Saturday: 11:00 AM – 9:30 PM'
     - 'Sunday: 11:00 AM – 8:30 PM'
-  current:
-    - 'Monday: 11:00 AM – 2:30 PM, 4:30 – 8:30 PM'
-    - 'Tuesday: 11:00 AM – 2:30 PM, 4:30 – 8:30 PM'
-    - 'Wednesday: 11:00 AM – 2:30 PM, 4:30 – 8:30 PM'
-    - 'Thursday: 11:00 AM – 2:30 PM, 4:30 – 8:30 PM'
-    - 'Friday: 11:00 AM – 9:30 PM'
-    - 'Saturday: 11:00 AM – 9:30 PM'
-    - 'Sunday: 11:00 AM – 8:30 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -195,38 +277,251 @@ secondary_opening_hours:
     type: null
 phone: (225) 402-4102
 price_level: PRICE_LEVEL_MODERATE
-price_range: null
+price_range: $10 &ndash; $20
 rating: '3.9'
-rating_count: 0
+rating_count: 46
 website: >-
   https://smorefood.com/order-online/hello-tokyo-2-next-to-leblancs-food-store-gonzales-70737-p1urzrdx?utm_source=gmb&utm_medium=website
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Hello Tokyo 2 in Gonzales, LA$$$Hello Tokyo 2 in Gonzales, LA, stands
+  out as a welcoming Japanese restaurant that specializes in fresh sushi and
+  innovative takes on classic dishes. This spot is renowned for its commitment
+  to high-quality ingredients, ensuring each roll and entree bursts with
+  authentic flavors and creative presentations that appeal to sushi enthusiasts.
+  With convenient accessibility features like wheelchair-friendly entrances and
+  parking, it's an inclusive choice for diners seeking a relaxed meal. The
+  restaurant also offers a variety of options for groups and families, including
+  beer and wine selections, making it a great pick for those exploring sushi
+  restaurants near me. Whether you're in the mood for modern twists on
+  traditional favorites, Hello Tokyo 2 delivers a satisfying dining experience
+  in a casual setting.
+generative_summary: >-
+  Discover Hello Tokyo 2 in Gonzales, LA$$$Hello Tokyo 2 in Gonzales, LA, stands
+  out as a welcoming Japanese restaurant that specializes in fresh sushi and
+  innovative takes on classic dishes. This spot is renowned for its commitment
+  to high-quality ingredients, ensuring each roll and entree bursts with
+  authentic flavors and creative presentations that appeal to sushi enthusiasts.
+  With convenient accessibility features like wheelchair-friendly entrances and
+  parking, it's an inclusive choice for diners seeking a relaxed meal. The
+  restaurant also offers a variety of options for groups and families, including
+  beer and wine selections, making it a great pick for those exploring sushi
+  restaurants near me. Whether you're in the mood for modern twists on
+  traditional favorites, Hello Tokyo 2 delivers a satisfying dining experience
+  in a casual setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJRSYnIzq3JoYRa6PhMRZojMI/reviews/ChdDSUhNMG9nS0VJQ0FnSUQzMTh6dnlnRRAB
+    relativePublishTimeDescription: 5 months ago
+    rating: 1
+    text:
+      text: >-
+        Ordered sushi at 1:32
+
+        Picked up at 1:47. I work 5 minutes down the road so order was not
+        waiting long. I ordered the lunch choose any 3 roll. I got a crunchy
+        roll tempura roll and a crunchy crab. Crunchy was stale and chewy.
+        Tempura was stale and chewy. Tried one piece each and refuse to eat the
+        rest. Called at 2:12 to ask if I could swap it for something else and no
+        answer. Called 7 more times and no answer. Drove up there at 2:22 and
+        the door was locked so a worker let me in. Said the owner was sleeping
+        and no one could help me. Left the food and my contact info on the
+        counter.  They close at 2:30 and don’t open back up until 4:30. So I
+        guess they just decided to close 30 minutes early.. I will not be back
+        hopefully they have the decency to refund my order
+      languageCode: en
+    originalText:
+      text: >-
+        Ordered sushi at 1:32
+
+        Picked up at 1:47. I work 5 minutes down the road so order was not
+        waiting long. I ordered the lunch choose any 3 roll. I got a crunchy
+        roll tempura roll and a crunchy crab. Crunchy was stale and chewy.
+        Tempura was stale and chewy. Tried one piece each and refuse to eat the
+        rest. Called at 2:12 to ask if I could swap it for something else and no
+        answer. Called 7 more times and no answer. Drove up there at 2:22 and
+        the door was locked so a worker let me in. Said the owner was sleeping
+        and no one could help me. Left the food and my contact info on the
+        counter.  They close at 2:30 and don’t open back up until 4:30. So I
+        guess they just decided to close 30 minutes early.. I will not be back
+        hopefully they have the decency to refund my order
+      languageCode: en
+    authorAttribution:
+      displayName: Dylan Noble
+      uri: https://www.google.com/maps/contrib/114820282357839929876/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjV8zArliwBwSZRu89uivzQCLuS5UCDIZNmrKbbJzdxtwf2BtEs7=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-11-19T20:37:46.711886Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQzMTh6dnlnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQzMTh6dnlnRRAB!2m1!1s0x8626b73a23272645:0xc28c681631e1a36b
+  - name: >-
+      places/ChIJRSYnIzq3JoYRa6PhMRZojMI/reviews/ChZDSUhNMG9nS0VJQ0FnSUNULWJhaWNBEAE
+    relativePublishTimeDescription: 11 months ago
+    rating: 4
+    text:
+      text: >-
+        I've been a regular at Hello Tokyo 2 and have always been impressed with
+        their ability to customize orders, especially my favorite hand rolls
+        with tempura shrimp and avocado. The service here is consistently good,
+        although I've noticed some changes in staffing recently. Despite this,
+        the quality remains high, and they always get my pick-up orders right.
+        Highly recommend for anyone looking for a reliable and accommodating
+        sushi spot!
+      languageCode: en
+    originalText:
+      text: >-
+        I've been a regular at Hello Tokyo 2 and have always been impressed with
+        their ability to customize orders, especially my favorite hand rolls
+        with tempura shrimp and avocado. The service here is consistently good,
+        although I've noticed some changes in staffing recently. Despite this,
+        the quality remains high, and they always get my pick-up orders right.
+        Highly recommend for anyone looking for a reliable and accommodating
+        sushi spot!
+      languageCode: en
+    authorAttribution:
+      displayName: Roberto Valdovinos
+      uri: https://www.google.com/maps/contrib/107503557820336565795/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjViASDNitjKoyaGFxQWNaHJ4UahSrESZ_yVr_TJXXLkhsa2Qn4=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-05-16T21:19:21.481306Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNULWJhaWNBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNULWJhaWNBEAE!2m1!1s0x8626b73a23272645:0xc28c681631e1a36b
+  - name: >-
+      places/ChIJRSYnIzq3JoYRa6PhMRZojMI/reviews/ChdDSUhNMG9nS0VJQ0FnSUNLaUpEVTh3RRAB
+    relativePublishTimeDescription: 4 years ago
+    rating: 1
+    text:
+      text: >-
+        The service was ok. The food. Was horrible. It was cold from apps to
+        entrees. And we were one of the 1st people in there. The teriyaki sauce
+        was congealed on top of my salmon. When I asked abt it apparently that
+        is normal. They offered to redo the salmon with out the sauce so I said
+        yes. And it was way over cooked. Almost burnt. Will not be back. Will
+        not recommend.
+      languageCode: en
+    originalText:
+      text: >-
+        The service was ok. The food. Was horrible. It was cold from apps to
+        entrees. And we were one of the 1st people in there. The teriyaki sauce
+        was congealed on top of my salmon. When I asked abt it apparently that
+        is normal. They offered to redo the salmon with out the sauce so I said
+        yes. And it was way over cooked. Almost burnt. Will not be back. Will
+        not recommend.
+      languageCode: en
+    authorAttribution:
+      displayName: Kelley Elkins
+      uri: https://www.google.com/maps/contrib/110568490161155219063/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWwM01ApDkcBFwgrBI3MlHweTBelmN9jSs7b5htfuZzcu3H26Ck9g=s128-c0x00000000-cc-rp-mo
+    publishTime: '2021-03-26T00:03:21.429875Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNLaUpEVTh3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNLaUpEVTh3RRAB!2m1!1s0x8626b73a23272645:0xc28c681631e1a36b
+  - name: >-
+      places/ChIJRSYnIzq3JoYRa6PhMRZojMI/reviews/ChZDSUhNMG9nS0VJQ0FnSUQybS1Mek13EAE
+    relativePublishTimeDescription: 2 years ago
+    rating: 5
+    text:
+      text: >-
+        Impressive! Lunch beef tariyaki box set at $11.59.  Deliouse!  Specially
+        the thin cut steak,  tender and juicy.
+      languageCode: en
+    originalText:
+      text: >-
+        Impressive! Lunch beef tariyaki box set at $11.59.  Deliouse!  Specially
+        the thin cut steak,  tender and juicy.
+      languageCode: en
+    authorAttribution:
+      displayName: Alicia Lo
+      uri: https://www.google.com/maps/contrib/103628786892717755718/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocL96J9H5w2xb64MHXi5CDQw5aO7RnSmPd337N_sSjAPpAeOIw=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2022-05-25T18:19:39.140554Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQybS1Mek13EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQybS1Mek13EAE!2m1!1s0x8626b73a23272645:0xc28c681631e1a36b
+  - name: >-
+      places/ChIJRSYnIzq3JoYRa6PhMRZojMI/reviews/ChZDSUhNMG9nS0VJQ0FnSUREdWFHc2VREAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 1
+    text:
+      text: >-
+        The most unwelcome hostesses in Dutchtown. How do you keep someone who
+        pushes your customers away like that?  Not friendly whatsoever. The food
+        isn’t that good either, you might get chewy chicken, scallops and dry
+        Salmon.
+      languageCode: en
+    originalText:
+      text: >-
+        The most unwelcome hostesses in Dutchtown. How do you keep someone who
+        pushes your customers away like that?  Not friendly whatsoever. The food
+        isn’t that good either, you might get chewy chicken, scallops and dry
+        Salmon.
+      languageCode: en
+    authorAttribution:
+      displayName: Jo Moraes
+      uri: https://www.google.com/maps/contrib/103609460427748234344/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLQWEzyWrbmylbOYCAYkuaOnm_qmZAUMl0Xe4iH9RoMJl6DyRs=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-01-09T12:25:42.932791Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUREdWFHc2VREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUREdWFHc2VREAE!2m1!1s0x8626b73a23272645:0xc28c681631e1a36b
+review_summary: >-
+  What Customers Are Saying About the Experience$$$Visitors to this Gonzales
+  sushi spot often highlight the reliable customization of orders, like hand
+  rolls and teriyaki dishes, which add a personal touch to their meals. While
+  some folks appreciate the tender and flavorful entrees that make it a solid
+  choice for lunch or dinner, others mention occasional inconsistencies with
+  food freshness and service speed that could use some fine-tuning. Overall,
+  it's praised as a go-to option for affordable Japanese cuisine, with many
+  enjoying the quick pick-up service that keeps things convenient for busy days.
+  Even with a few mixed experiences, the general vibe leans positive,
+  encouraging first-timers to try the fresh rolls for a taste of what makes it
+  one of the top-rated sushi places near me. If you're hunting for tasty bites
+  in a laid-back atmosphere, this restaurant earns solid nods for its
+  approachable vibe and menu variety.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: true
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
 serves_breakfast: null
-serves_brunch: null
+serves_brunch: false
 serves_cocktails: null
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

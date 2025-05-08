@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Chiu's Sushi"
+title: Chiu's Sushi
 permalink: /maryland/baltimore/chiu-s-sushi.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Baltimore
 seo:
-  name: "Chiu's Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.newchiussushimd.com/
-description: "Chiu's Sushi serves delicious sushi in Baltimore, Maryland. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ96QjBRcDyIkRD18zp4AK4DA
 photos:
   - name: >-
@@ -182,6 +180,29 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 0
 website: https://www.newchiussushimd.com/
+description: >-
+  Explore Chiu's Sushi in Baltimore, MD$$$Chiu's Sushi in Baltimore, MD, stands
+  out as a casual spot for enjoying Japanese-inspired dishes, particularly fresh
+  sushi rolls and vegetarian options that cater to a variety of tastes. This
+  welcoming restaurant emphasizes quality ingredients and a diverse menu, making
+  it a go-to choice for those seeking authentic flavors in a relaxed atmosphere.
+  With its moderate pricing and accessible features like wheelchair-friendly
+  restrooms, it's ideal for everyday dining or quick meals in the Harbor East
+  neighborhood. Whether you're in the mood for top sushi spots or exploring
+  Japanese places near you, this location delivers a straightforward yet
+  satisfying experience that highlights fresh seafood and creative rolls.
+generative_summary: >-
+  Explore Chiu's Sushi in Baltimore, MD$$$Chiu's Sushi in Baltimore, MD, stands
+  out as a casual spot for enjoying Japanese-inspired dishes, particularly fresh
+  sushi rolls and vegetarian options that cater to a variety of tastes. This
+  welcoming restaurant emphasizes quality ingredients and a diverse menu, making
+  it a go-to choice for those seeking authentic flavors in a relaxed atmosphere.
+  With its moderate pricing and accessible features like wheelchair-friendly
+  restrooms, it's ideal for everyday dining or quick meals in the Harbor East
+  neighborhood. Whether you're in the mood for top sushi spots or exploring
+  Japanese places near you, this location delivers a straightforward yet
+  satisfying experience that highlights fresh seafood and creative rolls.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ96QjBRcDyIkRD18zp4AK4DA/reviews/ChdDSUhNMG9nS0VJQ0FnTUNnd3JQY2xnRRAB
@@ -331,6 +352,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNlOF82alh3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNlOF82alh3EAE!2m1!1s0x89c803170523a4f7:0x30e00a80a7335f0f
+review_summary: >-
+  Insights from Customer Feedback$$$Visitors to this sushi spot often praise the
+  fresh, generously portioned rolls that make for a satisfying meal without the
+  fuss. Many note the wide range of options, including vegetarian picks and
+  quick service that keeps things efficient for both dine-in and takeout. While
+  some mention a casual vibe that might not feel overly formal, the overall
+  consensus leans toward consistent quality and great value, perfect for anyone
+  hunting for reliable sushi restaurants nearby. Folks appreciate how it handles
+  groups or solo diners alike, with highlights on the fresh ingredients and
+  variety that keep people coming back. All in all, it's a solid pick for tasty
+  bites that deliver on flavor without overcomplicating things.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options:
   acceptsCreditCards: true
@@ -360,7 +393,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

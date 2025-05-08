@@ -5,4 +5,5 @@ permalink: /idaho/meridian/
 stateAbbr: ID
 stateName: Idaho
 cityName: Meridian
+
 ---

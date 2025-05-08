@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Katsu"
+title: Katsu
 permalink: /california/mountain-view/katsu.html
 stateAbbr: CA
 stateName: California
 cityName: Mountain View
 seo:
-  name: "Katsu"
-  type: Restaurant
-  links: null
-description: "Katsu serves delicious sushi in Mountain View, California. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.sushi-katsu-mv.com/
 place_id: ChIJp6_gcIK3j4ARGYrA3vLG4OE
 photos:
   - name: >-
@@ -170,8 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x808fb78270e0afa7:0xe1e0c6f2dec08a19!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: false
+  periods:
+    - open:
+        day: 2
+        hour: 17
+        minute: 30
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: Closed'
+    - 'Tuesday: 5:30 – 10:00 PM'
+    - 'Wednesday: 5:30 – 10:00 PM'
+    - 'Thursday: 5:30 – 10:00 PM'
+    - 'Friday: 5:30 – 10:00 PM'
+    - 'Saturday: 5:30 – 10:00 PM'
+    - 'Sunday: Closed'
+  nextOpenTime: '2025-05-04T00:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -181,11 +228,46 @@ secondary_opening_hours:
     type: null
 phone: null
 price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+price_range: $100 &ndash; & up
+rating: '4.9'
+rating_count: 58
+website: https://www.sushi-katsu-mv.com/
+description: >-
+  Discover Katsu in Mountain View, CA$$$Katsu in Mountain View, CA, stands out
+  as a beloved destination for fresh sushi and authentic Japanese dining,
+  offering a dynamic omakase experience that changes daily with seasonal
+  ingredients. This cozy spot emphasizes high-quality fare, making it a go-to
+  choice for those seeking traditional flavors in a welcoming atmosphere.
+  Accessibility features like wheelchair-friendly parking and entrances ensure
+  everyone can enjoy the intimate setting without hassle. With its focus on
+  carefully crafted dishes, it's perfect for anyone exploring top-rated sushi
+  options nearby. Operating in the evenings from Tuesday through Saturday, it
+  provides an ideal spot for a memorable evening out in the heart of the city.
+generative_summary: >-
+  Discover Katsu in Mountain View, CA$$$Katsu in Mountain View, CA, stands out
+  as a beloved destination for fresh sushi and authentic Japanese dining,
+  offering a dynamic omakase experience that changes daily with seasonal
+  ingredients. This cozy spot emphasizes high-quality fare, making it a go-to
+  choice for those seeking traditional flavors in a welcoming atmosphere.
+  Accessibility features like wheelchair-friendly parking and entrances ensure
+  everyone can enjoy the intimate setting without hassle. With its focus on
+  carefully crafted dishes, it's perfect for anyone exploring top-rated sushi
+  options nearby. Operating in the evenings from Tuesday through Saturday, it
+  provides an ideal spot for a memorable evening out in the heart of the city.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Sharing$$$Folks rave about the outstanding omakase offerings
+  at this sushi spot, highlighting the use of super fresh and seasonal
+  ingredients that make every bite feel special. Many appreciate the thoughtful
+  side dishes and overall experience that delivers great value without breaking
+  the bank. The service stands out as friendly and insightful, helping diners
+  feel right at home in the cozy, intimate vibe. It's often noted as a solid
+  pick for anyone hunting for quality Japanese cuisine close by, with the
+  atmosphere adding to the enjoyment without overwhelming the senses. Overall,
+  it comes across as a reliable favorite for those looking to indulge in a
+  satisfying meal that leaves a positive impression.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +293,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

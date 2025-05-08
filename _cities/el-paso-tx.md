@@ -5,4 +5,5 @@ permalink: /texas/el-paso/
 stateAbbr: TX
 stateName: Texas
 cityName: El Paso
+
 ---

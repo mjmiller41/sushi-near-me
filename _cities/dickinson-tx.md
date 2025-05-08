@@ -5,4 +5,5 @@ permalink: /texas/dickinson/
 stateAbbr: TX
 stateName: Texas
 cityName: Dickinson
+
 ---

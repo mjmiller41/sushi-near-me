@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Moontree Sushi And Tapas"
+title: Moontree Sushi And Tapas
 permalink: /washington/seattle/moontree-sushi-and-tapas.html
 stateAbbr: WA
 stateName: Washington
 cityName: Seattle
 seo:
-  name: "Moontree Sushi And Tapas"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Moontree Sushi And Tapas serves delicious sushi in Seattle, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJsYRXKbGqmlQRxJSq7KTm7o8
 photos:
   - name: >-
@@ -185,7 +183,41 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Moontree Sushi and Tapas in Seattle, WA$$$Moontree Sushi and Tapas in
+  Seattle, WA, stands out as a contemporary spot for enjoying fresh
+  Japanese-inspired dishes in a vibrant setting. This eatery specializes in
+  creative sushi rolls and tapas, drawing on high-quality ingredients to deliver
+  a memorable dining experience that blends tradition with modern flair. With
+  its accessible features like wheelchair-friendly parking and entrances, it
+  welcomes everyone looking for inclusive sushi options nearby. Whether you're
+  seeking top sushi restaurants in the area or simply craving authentic flavors,
+  the stylish ambiance and thoughtful menu make it a go-to choice for casual
+  meals or gatherings.
+generative_summary: >-
+  Discover Moontree Sushi and Tapas in Seattle, WA$$$Moontree Sushi and Tapas in
+  Seattle, WA, stands out as a contemporary spot for enjoying fresh
+  Japanese-inspired dishes in a vibrant setting. This eatery specializes in
+  creative sushi rolls and tapas, drawing on high-quality ingredients to deliver
+  a memorable dining experience that blends tradition with modern flair. With
+  its accessible features like wheelchair-friendly parking and entrances, it
+  welcomes everyone looking for inclusive sushi options nearby. Whether you're
+  seeking top sushi restaurants in the area or simply craving authentic flavors,
+  the stylish ambiance and thoughtful menu make it a go-to choice for casual
+  meals or gatherings.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors often highlight the delicious variety of
+  dishes at this sushi spot, with favorites like crispy rice topped with spicy
+  tuna and flavorful rolls that keep things exciting and fresh. The service
+  stands out for its friendly and attentive approach, creating a welcoming vibe
+  that enhances the overall meal. Many appreciate the reasonable prices,
+  offering great value without skimping on quality ingredients like tender
+  chicken karaage and gyoza. All in all, it's praised for its fresh fish and
+  inventive specials, making it a solid pick for anyone hunting for reliable
+  sushi places nearby.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +243,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

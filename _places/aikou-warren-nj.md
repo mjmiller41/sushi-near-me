@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Aikou"
+title: Aikou
 permalink: /new-jersey/warren/aikou.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Warren
 seo:
-  name: "Aikou"
-  type: Restaurant
-  links: null
-description: "Aikou serves delicious sushi in Warren, New Jersey. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.aikouasiancuisine.com/
 place_id: ChIJ42VvB025w4kRL5_jB1_LPlc
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c3b94d076f65e3:0x573ecb5f07e39f2f!10e5
 primary_type: Asian Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:30 AM – 9:00 PM'
+    - 'Tuesday: 11:30 AM – 9:00 PM'
+    - 'Wednesday: 11:30 AM – 9:00 PM'
+    - 'Thursday: 11:30 AM – 9:00 PM'
+    - 'Friday: 11:30 AM – 10:00 PM'
+    - 'Saturday: 12:00 – 10:00 PM'
+    - 'Sunday: 12:30 – 9:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,52 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (908) 834-8278
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.2'
+rating_count: 157
+website: http://www.aikouasiancuisine.com/
+description: >-
+  Discover Aikou in Warren, New Jersey$$$Aikou in Warren, New Jersey, stands out
+  as a welcoming spot for those seeking fresh Asian cuisine, blending casual
+  vibes with a menu that highlights inventive sushi rolls and flavorful Thai
+  options. This eatery offers a diverse selection of dishes that cater to sushi
+  enthusiasts looking for nearby dining experiences, making it a go-to choice
+  among local Japanese-inspired places. With its moderate pricing and
+  accessibility features like wheelchair-friendly entrances, it's designed for
+  comfortable visits whether you're stopping by for a quick lunch or a relaxed
+  evening meal. The spot operates with convenient hours, ensuring it's easy to
+  find great sushi options close to home, and its variety keeps things exciting
+  for repeat visitors.
+generative_summary: >-
+  Discover Aikou in Warren, New Jersey$$$Aikou in Warren, New Jersey, stands out
+  as a welcoming spot for those seeking fresh Asian cuisine, blending casual
+  vibes with a menu that highlights inventive sushi rolls and flavorful Thai
+  options. This eatery offers a diverse selection of dishes that cater to sushi
+  enthusiasts looking for nearby dining experiences, making it a go-to choice
+  among local Japanese-inspired places. With its moderate pricing and
+  accessibility features like wheelchair-friendly entrances, it's designed for
+  comfortable visits whether you're stopping by for a quick lunch or a relaxed
+  evening meal. The spot operates with convenient hours, ensuring it's easy to
+  find great sushi options close to home, and its variety keeps things exciting
+  for repeat visitors.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About Aikou$$$Folks around Warren seem to really
+  enjoy the fresh flavors and solid portions at this sushi spot, with many
+  mentioning the tasty rolls and well-prepared dishes as highlights in their
+  casual feedback. Overall, visitors appreciate the friendly service and
+  welcoming atmosphere, making it a reliable pick for groups or solo diners
+  hunting for good eats nearby. While some note that wait times can vary during
+  busy periods, the general consensus leans positive, praising the value for the
+  price and the range of options that satisfy both sushi lovers and those
+  exploring Asian fare. It's clear that the place holds up well for everyday
+  meals, with plenty of nods to its consistent quality that keeps people coming
+  back for more. If you're on the hunt for top-rated sushi in the area, this
+  spot often gets thumbs up for its approachable vibe and dependable offerings.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +313,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

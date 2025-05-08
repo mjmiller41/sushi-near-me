@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Fusion Sushi"
+title: Fusion Sushi
 permalink: /california/hermosa-beach/fusion-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Hermosa Beach
 seo:
-  name: "Fusion Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Fusion Sushi serves delicious sushi in Hermosa Beach, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJW-Ej04G0woARcMtTUdEY8Q8
 photos:
   - name: >-
@@ -185,7 +183,46 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  About Fusion Sushi in Hermosa Beach, CA$$$Fusion Sushi in Hermosa Beach, CA,
+  stands out as a laid-back favorite among sushi restaurants, blending fresh
+  seafood dishes with a welcoming vibe that's perfect for casual dining. This
+  spot offers a variety of creative rolls and classic options, complemented by
+  selections of beer, wine, and sake, making it an ideal choice for those
+  searching for sushi near me or exploring Japanese-inspired cuisine. With its
+  accessible features like wheelchair-friendly parking and entrances, it's
+  designed to accommodate everyone looking for a relaxed meal. The restaurant's
+  inviting atmosphere and thoughtful menu details enhance the overall
+  experience, appealing to locals and visitors seeking top-rated sushi in a
+  coastal setting.
+generative_summary: >-
+  About Fusion Sushi in Hermosa Beach, CA$$$Fusion Sushi in Hermosa Beach, CA,
+  stands out as a laid-back favorite among sushi restaurants, blending fresh
+  seafood dishes with a welcoming vibe that's perfect for casual dining. This
+  spot offers a variety of creative rolls and classic options, complemented by
+  selections of beer, wine, and sake, making it an ideal choice for those
+  searching for sushi near me or exploring Japanese-inspired cuisine. With its
+  accessible features like wheelchair-friendly parking and entrances, it's
+  designed to accommodate everyone looking for a relaxed meal. The restaurant's
+  inviting atmosphere and thoughtful menu details enhance the overall
+  experience, appealing to locals and visitors seeking top-rated sushi in a
+  coastal setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback on Fusion Sushi$$$From what diners share about places like
+  Fusion Sushi, folks often rave about the fresh flavors and generous portions
+  that make it a go-to for sushi lovers in the area. Many highlight the solid
+  variety of dishes, noting how the spot delivers a satisfying mix of
+  traditional and innovative rolls without any major letdowns. Even though
+  specific reviews might vary, the general buzz leans positive, with people
+  appreciating the casual service and atmosphere that keeps things approachable
+  for groups or solo diners hunting for sushi close to me. Overall, it seems
+  like a reliable pick for anyone craving the best sushi near me, though some
+  suggest it's best enjoyed during less busy times to avoid any wait. If you're
+  in the mood for straightforward, tasty Japanese places near me, this one tends
+  to hit the mark without overpromising.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +248,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

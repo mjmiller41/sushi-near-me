@@ -5,4 +5,5 @@ permalink: /florida/fort-myers/
 stateAbbr: FL
 stateName: Florida
 cityName: Fort Myers
+
 ---

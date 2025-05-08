@@ -5,4 +5,5 @@ permalink: /california/chino/
 stateAbbr: CA
 stateName: California
 cityName: Chino
+
 ---

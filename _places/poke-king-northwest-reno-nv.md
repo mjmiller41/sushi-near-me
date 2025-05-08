@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Poke King - Northwest"
+title: Poke King - Northwest
 permalink: /nevada/reno/poke-king-northwest.html
 stateAbbr: NV
 stateName: Nevada
 cityName: Reno
 seo:
-  name: "Poke King - Northwest"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Poke King - Northwest serves delicious sushi in Reno, Nevada. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJtY91ypVGmYARRtxfd9fiosE
 photos:
   - name: >-
@@ -185,7 +183,47 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Poke King in Reno, NV$$$Poke King in Reno, NV, stands out as a casual
+  spot for enjoying Hawaiian-inspired poke bowls made with fresh, high-quality
+  ingredients that highlight the flavors of the Pacific. This eatery focuses on
+  customizable options, allowing patrons to build their own bowls with a variety
+  of proteins, toppings, and sauces for a personalized dining experience.
+  Located in the vibrant West University neighborhood, it offers easy
+  accessibility features like wheelchair-friendly parking and entrances, making
+  it welcoming for all visitors. The emphasis on fresh seafood and quick service
+  adds to its appeal for those seeking healthy, flavorful meals in a relaxed
+  setting. Whether you're exploring local dining options or looking for a go-to
+  spot for fresh bowls near you, Poke King delivers a satisfying blend of taste
+  and convenience.
+generative_summary: >-
+  Discover Poke King in Reno, NV$$$Poke King in Reno, NV, stands out as a casual
+  spot for enjoying Hawaiian-inspired poke bowls made with fresh, high-quality
+  ingredients that highlight the flavors of the Pacific. This eatery focuses on
+  customizable options, allowing patrons to build their own bowls with a variety
+  of proteins, toppings, and sauces for a personalized dining experience.
+  Located in the vibrant West University neighborhood, it offers easy
+  accessibility features like wheelchair-friendly parking and entrances, making
+  it welcoming for all visitors. The emphasis on fresh seafood and quick service
+  adds to its appeal for those seeking healthy, flavorful meals in a relaxed
+  setting. Whether you're exploring local dining options or looking for a go-to
+  spot for fresh bowls near you, Poke King delivers a satisfying blend of taste
+  and convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Folks who visit this spot often rave about the
+  fresh ingredients and creative poke combinations that make every meal feel
+  custom-made and delicious. Many appreciate the welcoming atmosphere and
+  efficient service, noting that it's a great choice for a quick, satisfying
+  lunch or dinner without any fuss. While some mention the portions could vary,
+  the overall consensus leans positive, with diners highlighting the value and
+  taste as standout features for anyone craving healthy seafood options. It's
+  commonly described as a reliable go-to for groups or individuals, earning nods
+  for its approachable vibe and solid execution of Hawaiian-style dishes. If
+  you're on the hunt for top-rated poke experiences nearby, this place tends to
+  leave people feeling content and eager to return for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +249,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

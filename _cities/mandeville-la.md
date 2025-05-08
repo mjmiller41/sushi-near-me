@@ -5,4 +5,5 @@ permalink: /louisiana/mandeville/
 stateAbbr: LA
 stateName: Louisiana
 cityName: Mandeville
+
 ---

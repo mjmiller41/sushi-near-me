@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Hanabishi Japanese Cuisine"
+title: Hanabishi Japanese Cuisine
 permalink: /california/livermore/hanabishi-japanese-cuisine.html
 stateAbbr: CA
 stateName: California
 cityName: Livermore
 seo:
-  name: "Hanabishi Japanese Cuisine"
-  type: Restaurant
+  type: restaurant
   links: http://www.hanabishi-restaurant.com/
-description: "Hanabishi Japanese Cuisine serves delicious sushi in Livermore, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJsWQvA77nj4AR_kZCf64gg0s
 photos:
   - name: >-
@@ -170,7 +168,49 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x808fe7be032f64b1:0x4b8320ae7f4246fe!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 5:00 – 9:00 PM'
     - 'Wednesday: 5:00 – 9:00 PM'
@@ -178,14 +218,7 @@ opening_hours:
     - 'Friday: 5:00 – 9:00 PM'
     - 'Saturday: 5:00 – 9:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 5:00 – 9:00 PM'
-    - 'Wednesday: 5:00 – 9:00 PM'
-    - 'Thursday: 5:00 – 9:00 PM'
-    - 'Friday: 5:00 – 9:00 PM'
-    - 'Saturday: 5:00 – 9:00 PM'
-    - 'Sunday: Closed'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +230,250 @@ phone: (925) 455-1114
 price_level: null
 price_range: $10 &ndash; $20
 rating: '4.5'
-rating_count: 0
+rating_count: 95
 website: http://www.hanabishi-restaurant.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Hanabishi Japanese Cuisine in Livermore, CA$$$Hanabishi Japanese
+  Cuisine in Livermore, CA, stands out as a cozy spot for savoring authentic
+  Japanese flavors, blending traditional elements with a welcoming vibe. This
+  family-friendly eatery features a variety of fresh sushi options and classic
+  dishes like teriyaki, all served in an unpretentious setting that invites
+  relaxed dining. Patrons can enjoy a selection of beer and wine alongside
+  hearty specialties such as gyoza, making it a go-to choice for those exploring
+  Japanese places near me. The restaurant's accessible features, including
+  wheelchair-friendly entrances and parking, ensure a comfortable visit for
+  everyone. With its focus on quality ingredients and straightforward ambiance,
+  it's an ideal destination for anyone seeking top-rated sushi in the area.
+generative_summary: >-
+  Discover Hanabishi Japanese Cuisine in Livermore, CA$$$Hanabishi Japanese
+  Cuisine in Livermore, CA, stands out as a cozy spot for savoring authentic
+  Japanese flavors, blending traditional elements with a welcoming vibe. This
+  family-friendly eatery features a variety of fresh sushi options and classic
+  dishes like teriyaki, all served in an unpretentious setting that invites
+  relaxed dining. Patrons can enjoy a selection of beer and wine alongside
+  hearty specialties such as gyoza, making it a go-to choice for those exploring
+  Japanese places near me. The restaurant's accessible features, including
+  wheelchair-friendly entrances and parking, ensure a comfortable visit for
+  everyone. With its focus on quality ingredients and straightforward ambiance,
+  it's an ideal destination for anyone seeking top-rated sushi in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJsWQvA77nj4AR_kZCf64gg0s/reviews/ChdDSUhNMG9nS0VJQ0FnSUNia2FpUXZBRRAB
+    relativePublishTimeDescription: 9 months ago
+    rating: 5
+    text:
+      text: >-
+        My first time at this great little restaurant. Surprisingly the food was
+        great and the customer service was even better. A small out of the way
+        Japanese sushi restaurant that was quiet and quaint. I’ll be coming back
+        here again!
+      languageCode: en
+    originalText:
+      text: >-
+        My first time at this great little restaurant. Surprisingly the food was
+        great and the customer service was even better. A small out of the way
+        Japanese sushi restaurant that was quiet and quaint. I’ll be coming back
+        here again!
+      languageCode: en
+    authorAttribution:
+      displayName: Paul M
+      uri: https://www.google.com/maps/contrib/107078352432903138556/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLPHbbZj2K5xDr4bF-ZBcs-ANBNQYX5QRll__bqlFg_x4h_Fg=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-07-28T04:24:22.402241Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNia2FpUXZBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNia2FpUXZBRRAB!2m1!1s0x808fe7be032f64b1:0x4b8320ae7f4246fe
+  - name: >-
+      places/ChIJsWQvA77nj4AR_kZCf64gg0s/reviews/ChZDSUhNMG9nS0VJQ0FnSUQzemFyb0VREAE
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        I love everything about Hanabishi. It is quaint and unpretentious. The
+        food is good and well priced. I always get amazing service here, like
+        everyone is so nice. It has a great cozy vibe. Didn't realize how much I
+        missed it after being away from Livermore for awhile but it was the
+        first place I wanted to go after coming back!
+      languageCode: en
+    originalText:
+      text: >-
+        I love everything about Hanabishi. It is quaint and unpretentious. The
+        food is good and well priced. I always get amazing service here, like
+        everyone is so nice. It has a great cozy vibe. Didn't realize how much I
+        missed it after being away from Livermore for awhile but it was the
+        first place I wanted to go after coming back!
+      languageCode: en
+    authorAttribution:
+      displayName: Km P
+      uri: https://www.google.com/maps/contrib/106970958941014716043/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIFiwU-QgMNFZ0ImZXSyXqGNQ0V-sU7wP_RjDnvq1xd09J8Sg=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-11-17T15:00:28.566347Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQzemFyb0VREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQzemFyb0VREAE!2m1!1s0x808fe7be032f64b1:0x4b8320ae7f4246fe
+  - name: >-
+      places/ChIJsWQvA77nj4AR_kZCf64gg0s/reviews/ChZDSUhNMG9nS0VJQ0FnSUNDajZEVkRnEAE
+    relativePublishTimeDescription: 4 years ago
+    rating: 3
+    text:
+      text: >-
+        Quick, mediocre sushi at reasonable prices.
+
+
+        We ordered a chirashi ($19) and California rolls ($4) for takeout. The
+        staff was friendly and the food was fast (ready in 15 mins). They were
+        also kind enough to substitute tuna for the tamago in the chirashi. The
+        fish was okay and I wished there was more rice. The California rolls
+        were good but on the smaller side, but also only $4 each! Overall, I
+        think it's a good spot for quick and relatively cheap sushi, but I will
+        probably choose elsewhere next time.
+      languageCode: en
+    originalText:
+      text: >-
+        Quick, mediocre sushi at reasonable prices.
+
+
+        We ordered a chirashi ($19) and California rolls ($4) for takeout. The
+        staff was friendly and the food was fast (ready in 15 mins). They were
+        also kind enough to substitute tuna for the tamago in the chirashi. The
+        fish was okay and I wished there was more rice. The California rolls
+        were good but on the smaller side, but also only $4 each! Overall, I
+        think it's a good spot for quick and relatively cheap sushi, but I will
+        probably choose elsewhere next time.
+      languageCode: en
+    authorAttribution:
+      displayName: Logan Williams
+      uri: https://www.google.com/maps/contrib/108413191700560219207/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVgBV4Mmn_EdTDxefNmyC6lkSJUStWxP2uPx3dVsyxuGt52qGmXDg=s128-c0x00000000-cc-rp-mo
+    publishTime: '2020-09-08T02:03:13.846979Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNDajZEVkRnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNDajZEVkRnEAE!2m1!1s0x808fe7be032f64b1:0x4b8320ae7f4246fe
+  - name: >-
+      places/ChIJsWQvA77nj4AR_kZCf64gg0s/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRMXBXOFVnEAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 1
+    text:
+      text: >-
+        I just ordered a bento box from here and a godzilla roll and I
+        absolutely do not recommend this place.
+
+
+        The fish was not fresh and it smelled, the beef teriyaki was raw, the
+        tempura was greasy and soggy.
+
+
+        I do not recommend this place!
+      languageCode: en
+    originalText:
+      text: >-
+        I just ordered a bento box from here and a godzilla roll and I
+        absolutely do not recommend this place.
+
+
+        The fish was not fresh and it smelled, the beef teriyaki was raw, the
+        tempura was greasy and soggy.
+
+
+        I do not recommend this place!
+      languageCode: en
+    authorAttribution:
+      displayName: Patricia A
+      uri: https://www.google.com/maps/contrib/110295075258158854878/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWryHhtfaTQbZ4IOZolR9qCkFzmyLwURiXSTTN9iaBQN4ZZMG4OhA=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-03-04T04:21:06.236039Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNRMXBXOFVnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNRMXBXOFVnEAE!2m1!1s0x808fe7be032f64b1:0x4b8320ae7f4246fe
+  - name: >-
+      places/ChIJsWQvA77nj4AR_kZCf64gg0s/reviews/ChdDSUhNMG9nS0VJQ0FnSUNoMGJlOXVRRRAB
+    relativePublishTimeDescription: 2 years ago
+    rating: 4
+    text:
+      text: >-
+        Good value for the food and service that you get. We got the two item
+        combo and I have to say I was not impressed with the mushy rice and the
+        heavy batter on the tempura but they make interesting little salads. In
+        fact their green salad is the best I’ve had in a Japanese restaurant. Do
+        not get the Inari  sushi as it is tasteless though the tskimino is good
+        to add into it.
+      languageCode: en
+    originalText:
+      text: >-
+        Good value for the food and service that you get. We got the two item
+        combo and I have to say I was not impressed with the mushy rice and the
+        heavy batter on the tempura but they make interesting little salads. In
+        fact their green salad is the best I’ve had in a Japanese restaurant. Do
+        not get the Inari  sushi as it is tasteless though the tskimino is good
+        to add into it.
+      languageCode: en
+    authorAttribution:
+      displayName: Kati Bell
+      uri: https://www.google.com/maps/contrib/117525781325147850580/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVPUM-LctiFNqPBk7aUSpMAz5-vsp0wiGXXIE-9y-hoad5QjE_V=s128-c0x00000000-cc-rp-mo
+    publishTime: '2023-02-15T14:26:10.515434Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNoMGJlOXVRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNoMGJlOXVRRRAB!2m1!1s0x808fe7be032f64b1:0x4b8320ae7f4246fe
+review_summary: >-
+  What People Are Saying About This Local Sushi Spot$$$Folks generally rave
+  about the tasty sushi and friendly service at this Livermore gem, highlighting
+  its cozy atmosphere and solid value for everyday meals. Many appreciate the
+  quick preparation and welcoming vibe that make it a reliable pick for casual
+  dinners or takeout, with praises for the flavorful dishes and attentive staff.
+  While some note occasional inconsistencies like less-than-ideal freshness in
+  certain items, the overall experience remains positive and budget-friendly for
+  those hunting for sushi restaurants nearby. It's clear that the majority find
+  it a comforting spot that delivers on classic Japanese fare without breaking
+  the bank. If you're on the hunt for best sushi near me, this place often comes
+  through with a warm, satisfying meal that keeps locals coming back.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
 delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
 menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
 serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Family-friendly Japanese eatery with traditional decor, a sushi bar &
+  specialties like fresh gyoza.
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Goshi Japanese Restaurant"
+title: Goshi Japanese Restaurant
 permalink: /california/paso-robles/goshi-japanese-restaurant.html
 stateAbbr: CA
 stateName: California
 cityName: Paso Robles
 seo:
-  name: "Goshi Japanese Restaurant"
-  type: Restaurant
-  links: null
-description: "Goshi Japanese Restaurant serves delicious sushi in Paso Robles, California. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://goshipasorobles.com/
 place_id: ChIJcyFtHGrF7IARJx2gh_3WRyM
 photos:
   - name: >-
@@ -170,8 +168,97 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80ecc56a1c6d2173:0x2347d6fd87a01d27!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: false
+  periods:
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 13
+        minute: 30
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 13
+        minute: 30
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 13
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 13
+        minute: 30
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 20
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 13
+        minute: 30
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 20
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: Closed'
+    - 'Tuesday: 11:30 AM – 1:30 PM, 5:00 – 8:00 PM'
+    - 'Wednesday: 11:30 AM – 1:30 PM, 5:00 – 8:00 PM'
+    - 'Thursday: 11:30 AM – 1:30 PM, 5:00 – 8:00 PM'
+    - 'Friday: 11:30 AM – 1:30 PM, 5:00 – 8:00 PM'
+    - 'Saturday: 11:30 AM – 1:30 PM, 5:00 – 8:00 PM'
+    - 'Sunday: Closed'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +266,54 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
+phone: (805) 227-4860
+price_level: PRICE_LEVEL_MODERATE
 price_range: null
-rating: null
-rating_count: 0
-website: null
+rating: '4.6'
+rating_count: 424
+website: https://goshipasorobles.com/
+description: >-
+  Discover Goshi Japanese Restaurant in Paso Robles, CA$$$Goshi Japanese
+  Restaurant in Paso Robles, CA, offers a welcoming atmosphere perfect for
+  enjoying authentic sushi and sashimi in a relaxed setting. This spot
+  highlights fresh seafood selections paired with a selection of sake and wine,
+  making it an ideal choice for anyone seeking quality Japanese cuisine. With
+  its focus on high-quality ingredients and thoughtful preparation, the
+  restaurant provides accessible dining options that cater to a variety of
+  preferences, ensuring a comfortable experience for all visitors. Whether
+  you're looking for sushi restaurants near you or exploring Japanese places in
+  the area, the menu's creative rolls and traditional dishes stand out as a
+  highlight. It's a go-to destination for those craving top-rated sushi in a
+  cozy environment that combines simplicity with flavorful options.
+generative_summary: >-
+  Discover Goshi Japanese Restaurant in Paso Robles, CA$$$Goshi Japanese
+  Restaurant in Paso Robles, CA, offers a welcoming atmosphere perfect for
+  enjoying authentic sushi and sashimi in a relaxed setting. This spot
+  highlights fresh seafood selections paired with a selection of sake and wine,
+  making it an ideal choice for anyone seeking quality Japanese cuisine. With
+  its focus on high-quality ingredients and thoughtful preparation, the
+  restaurant provides accessible dining options that cater to a variety of
+  preferences, ensuring a comfortable experience for all visitors. Whether
+  you're looking for sushi restaurants near you or exploring Japanese places in
+  the area, the menu's creative rolls and traditional dishes stand out as a
+  highlight. It's a go-to destination for those craving top-rated sushi in a
+  cozy environment that combines simplicity with flavorful options.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Love About This Sushi Spot$$$Folks often rave about the tasty
+  sushi rolls at this popular eatery, noting how the fresh fish and creative
+  combinations make every bite memorable. Many appreciate the excellent service
+  that keeps things smooth and enjoyable from start to finish, adding to the
+  overall welcoming vibe. Reviewers frequently mention the high-quality
+  ingredients that bring out the best in dishes like flavorful rolls and
+  tempura, making it a solid pick for casual meals. While it's clear this place
+  shines for its authentic flavors and attention to detail, it's also praised
+  for being a reliable option when you're hunting for the best sushi nearby.
+  Overall, it's a favorite among those seeking great Japanese dining, with a
+  positive consensus on its fresh offerings and friendly atmosphere that keeps
+  customers coming back.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +339,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

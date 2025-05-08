@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "DJ's International Buffet"
+title: DJ's International Buffet
 permalink: /new-york/garden-city/dj-s-international-buffet.html
 stateAbbr: NY
 stateName: New York
 cityName: Garden City
 seo:
-  name: "DJ's International Buffet"
-  type: Restaurant
+  type: restaurant
   links: http://djsinternationalbuffet.com/
-description: "DJ's International Buffet serves delicious sushi in Garden City, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJK2ip6Ih9wokRWp1yhw-G_D0
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c27d88e8a9682b:0x3dfc860f87729d5a!10e5
 primary_type: Buffet Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 9:30 PM'
     - 'Tuesday: 11:30 AM – 9:30 PM'
     - 'Wednesday: 11:30 AM – 9:30 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 10:00 PM'
     - 'Saturday: 11:30 AM – 10:00 PM'
     - 'Sunday: 11:30 AM – 9:30 PM'
-  current:
-    - 'Monday: 11:30 AM – 9:30 PM'
-    - 'Tuesday: 11:30 AM – 9:30 PM'
-    - 'Wednesday: 11:30 AM – 9:30 PM'
-    - 'Thursday: 11:30 AM – 9:30 PM'
-    - 'Friday: 11:30 AM – 10:00 PM'
-    - 'Saturday: 11:30 AM – 10:00 PM'
-    - 'Sunday: 11:30 AM – 9:30 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +246,46 @@ phone: (516) 227-2472
 price_level: PRICE_LEVEL_MODERATE
 price_range: $30 &ndash; $50
 rating: '4.1'
-rating_count: 0
+rating_count: 4107
 website: http://djsinternationalbuffet.com/
+description: >-
+  Discover DJ's International Buffet in Garden City, NY$$$Nestled in Garden
+  City, NY, DJ's International Buffet stands out as a casual dining spot
+  offering an array of all-you-can-eat options that cater to sushi enthusiasts
+  and beyond. This buffet features a vibrant selection of fresh seafood,
+  delectable desserts, and even a tempting chocolate fountain, making it a go-to
+  choice for those seeking diverse flavors in a relaxed atmosphere. With
+  accessibility features like wheelchair-friendly parking and entrances, it's
+  designed to welcome everyone for a comfortable meal. The restaurant maintains
+  generous hours, including evenings and weekends, ideal for families or groups
+  looking to explore top-rated sushi places near me without the hassle.
+generative_summary: >-
+  Discover DJ's International Buffet in Garden City, NY$$$Nestled in Garden
+  City, NY, DJ's International Buffet stands out as a casual dining spot
+  offering an array of all-you-can-eat options that cater to sushi enthusiasts
+  and beyond. This buffet features a vibrant selection of fresh seafood,
+  delectable desserts, and even a tempting chocolate fountain, making it a go-to
+  choice for those seeking diverse flavors in a relaxed atmosphere. With
+  accessibility features like wheelchair-friendly parking and entrances, it's
+  designed to welcome everyone for a comfortable meal. The restaurant maintains
+  generous hours, including evenings and weekends, ideal for families or groups
+  looking to explore top-rated sushi places near me without the hassle.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Buzzing About$$$Based on the solid 4.1 rating from thousands
+  of feedback, DJ's International Buffet seems to hit the mark for folks hunting
+  for reliable sushi restaurants in the area, with many highlighting the fresh
+  and varied selections that keep diners coming back. People often appreciate
+  the value for money, noting the all-you-can-eat setup provides a satisfying
+  experience for everything from sushi rolls to international dishes, making it
+  a fun spot for casual outings. While some mention the crowds during peak
+  times, the overall vibe comes across as welcoming and enjoyable, especially
+  for those eager to try new flavors without breaking the bank. In a nutshell,
+  it's clear that visitors love the combination of quality ingredients and
+  laid-back service, positioning it as a solid pick for anyone searching for the
+  best sushi near me.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +311,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

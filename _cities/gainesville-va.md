@@ -5,4 +5,5 @@ permalink: /virginia/gainesville/
 stateAbbr: VA
 stateName: Virginia
 cityName: Gainesville
+
 ---

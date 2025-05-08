@@ -1,15 +1,14 @@
 ---
 layout: place
-title: "Junz"
+title: Junz
 permalink: /colorado/parker/junz.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Parker
 seo:
-  name: "Junz"
-  type: Restaurant
-  links: https://www.junzparker.com/?utm_source=google-gmb-maps&utm_medium=gmb-website-button&utm_campaign=locl.io&utm_content=5574634c-3ef9-4f11-8e8d-f94aa014e446
-description: "Junz serves delicious sushi in Parker, Colorado. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: >-
+    https://www.junzparker.com/?utm_source=google-gmb-maps&utm_medium=gmb-website-button&utm_campaign=locl.io&utm_content=5574634c-3ef9-4f11-8e8d-f94aa014e446
 place_id: ChIJAcXZxuiRbIcRKZ0k9UQ-Mk4
 photos:
   - name: >-
@@ -170,7 +169,121 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x876c91e8c6d9c501:0x4e323e44f5249d29!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 14
+        minute: 0
+    - open:
+        day: 0
+        hour: 16
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 14
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 14
+        minute: 0
+    - open:
+        day: 6
+        hour: 16
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 2:00 PM, 4:30 – 9:00 PM'
     - 'Tuesday: 11:30 AM – 2:00 PM, 4:30 – 9:00 PM'
     - 'Wednesday: 11:30 AM – 2:00 PM, 4:30 – 9:00 PM'
@@ -178,14 +291,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 2:00 PM, 4:30 – 9:00 PM'
     - 'Saturday: 11:30 AM – 2:00 PM, 4:30 – 9:00 PM'
     - 'Sunday: 11:30 AM – 2:00 PM, 4:30 – 9:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 2:00 PM, 4:30 – 9:00 PM'
-    - 'Tuesday: 11:30 AM – 2:00 PM, 4:30 – 9:00 PM'
-    - 'Wednesday: 11:30 AM – 2:00 PM, 4:30 – 9:00 PM'
-    - 'Thursday: 11:30 AM – 2:00 PM, 4:30 – 9:00 PM'
-    - 'Friday: 11:30 AM – 2:00 PM, 4:30 – 9:00 PM'
-    - 'Saturday: 11:30 AM – 2:00 PM, 4:30 – 9:00 PM'
-    - 'Sunday: 11:30 AM – 2:00 PM, 4:30 – 9:00 PM'
+  nextOpenTime: '2025-05-03T22:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,36 +303,253 @@ phone: (720) 851-1005
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.4'
-rating_count: 0
+rating_count: 472
 website: >-
   https://www.junzparker.com/?utm_source=google-gmb-maps&utm_medium=gmb-website-button&utm_campaign=locl.io&utm_content=5574634c-3ef9-4f11-8e8d-f94aa014e446
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Junz in Parker, Colorado$$$Nestled in Parker, Colorado, Junz stands
+  out as a vibrant Japanese restaurant offering a delightful mix of fresh sushi
+  and innovative dishes in a welcoming atmosphere. This spot features an array
+  of expertly crafted rolls and creative Japanese-inspired cuisine, including
+  unique fusion options that blend flavors seamlessly for an enjoyable dining
+  experience. With its casual setting and focus on quality ingredients, it's an
+  ideal choice for those seeking tasty sushi options nearby, making it a go-to
+  for anyone exploring Japanese places in the area. The restaurant also boasts
+  accessible features and convenient hours, enhancing its appeal for a relaxed
+  meal with friends or family. Whether you're in the mood for classic rolls or
+  something more adventurous, Junz provides a satisfying escape from the
+  everyday routine.
+generative_summary: >-
+  Discover Junz in Parker, Colorado$$$Nestled in Parker, Colorado, Junz stands
+  out as a vibrant Japanese restaurant offering a delightful mix of fresh sushi
+  and innovative dishes in a welcoming atmosphere. This spot features an array
+  of expertly crafted rolls and creative Japanese-inspired cuisine, including
+  unique fusion options that blend flavors seamlessly for an enjoyable dining
+  experience. With its casual setting and focus on quality ingredients, it's an
+  ideal choice for those seeking tasty sushi options nearby, making it a go-to
+  for anyone exploring Japanese places in the area. The restaurant also boasts
+  accessible features and convenient hours, enhancing its appeal for a relaxed
+  meal with friends or family. Whether you're in the mood for classic rolls or
+  something more adventurous, Junz provides a satisfying escape from the
+  everyday routine.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJAcXZxuiRbIcRKZ0k9UQ-Mk4/reviews/ChdDSUhNMG9nS0VJQ0FnTURJODhqTy1nRRAB
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        The sushi and meal was so good!! My husband and I love sushi and just
+        moved to the area and we are happy that we have found our new sushi
+        spot!
+      languageCode: en
+    originalText:
+      text: >-
+        The sushi and meal was so good!! My husband and I love sushi and just
+        moved to the area and we are happy that we have found our new sushi
+        spot!
+      languageCode: en
+    authorAttribution:
+      displayName: Samantha Warnick
+      uri: https://www.google.com/maps/contrib/105871995222323122486/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWIR6z-TGBP5oEDX99Bny0UhCo9OOTInYR44s81SD4Bzy1JtkICqg=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-04-12T23:19:53.939948Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJODhqTy1nRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJODhqTy1nRRAB!2m1!1s0x876c91e8c6d9c501:0x4e323e44f5249d29
+  - name: >-
+      places/ChIJAcXZxuiRbIcRKZ0k9UQ-Mk4/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ5MFo2R3hRRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        Junz is tucked away in a mini mall off Dransfeldt Rd. The exterior is
+        unassuming, and their interior is modern yet simple. Their sushi,
+        however, is the best in Parker.  They have a sizable sushi bar and
+        plenty of seating. We were ushered to our table immediately upon arrival
+        at 1230pm on a Sunday. We ordered the sashimi roll, crunchy roll, spider
+        roll, and rock n' roll. We chose the shrimp cocktail appetizer as well.
+        Each selection was beautifully prepared, and the ingredients were fresh.
+        The pricing was reasonable for the quality, producing value. Their
+        standard rolls had the look and taste of a deluxe roll anywhere else in
+        Douglas County.  We finished every piece and left stuffed as their
+        portion sizes are ample.  We will be back and highly recommend giving it
+        a go if you're in the area.
+      languageCode: en
+    originalText:
+      text: >-
+        Junz is tucked away in a mini mall off Dransfeldt Rd. The exterior is
+        unassuming, and their interior is modern yet simple. Their sushi,
+        however, is the best in Parker.  They have a sizable sushi bar and
+        plenty of seating. We were ushered to our table immediately upon arrival
+        at 1230pm on a Sunday. We ordered the sashimi roll, crunchy roll, spider
+        roll, and rock n' roll. We chose the shrimp cocktail appetizer as well.
+        Each selection was beautifully prepared, and the ingredients were fresh.
+        The pricing was reasonable for the quality, producing value. Their
+        standard rolls had the look and taste of a deluxe roll anywhere else in
+        Douglas County.  We finished every piece and left stuffed as their
+        portion sizes are ample.  We will be back and highly recommend giving it
+        a go if you're in the area.
+      languageCode: en
+    authorAttribution:
+      displayName: Max Armstrong
+      uri: https://www.google.com/maps/contrib/108261038585148221758/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXdWugyWcW--zfZ4mo3hkBJua-ZHACqIst6ulkGxV2BlJzQJ6WqDg=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-03-17T22:43:08.584715Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQ5MFo2R3hRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQ5MFo2R3hRRRAB!2m1!1s0x876c91e8c6d9c501:0x4e323e44f5249d29
+  - name: >-
+      places/ChIJAcXZxuiRbIcRKZ0k9UQ-Mk4/reviews/ChZDSUhNMG9nS0VJQ0FnTURvLWVmLWRREAE
+    relativePublishTimeDescription: a week ago
+    rating: 4
+    text:
+      text: >-
+        Waited a bit before a server came to our table.  It was a Friday night
+        and surprisingly not busy at all.  Sushi was really good as always! 
+        Miso soup, very salty, never used to be like that.  The beef teriyaki
+        was not as flavorful, lacking teriyaki, and had a lot more fat on it. 
+        We didn't receive our apps until the main meal was served, and the green
+        tea ice cream did not taste like green tea ice cream at all.  Not sure
+        what it was, but somewhat disappointing.  I gave the food 4 stars
+        because the sushi was really good, but if I had to rate it based on the
+        other items we ordered, probably a 3.
+      languageCode: en
+    originalText:
+      text: >-
+        Waited a bit before a server came to our table.  It was a Friday night
+        and surprisingly not busy at all.  Sushi was really good as always! 
+        Miso soup, very salty, never used to be like that.  The beef teriyaki
+        was not as flavorful, lacking teriyaki, and had a lot more fat on it. 
+        We didn't receive our apps until the main meal was served, and the green
+        tea ice cream did not taste like green tea ice cream at all.  Not sure
+        what it was, but somewhat disappointing.  I gave the food 4 stars
+        because the sushi was really good, but if I had to rate it based on the
+        other items we ordered, probably a 3.
+      languageCode: en
+    authorAttribution:
+      displayName: K. H.
+      uri: https://www.google.com/maps/contrib/101958330593245690096/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVRPdnfVUGN7RPawzM1GpfcHqbZ1Qr1cuid2qWA8HOW8dRyYGkR=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-04-26T19:00:50.902301Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURvLWVmLWRREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURvLWVmLWRREAE!2m1!1s0x876c91e8c6d9c501:0x4e323e44f5249d29
+  - name: >-
+      places/ChIJAcXZxuiRbIcRKZ0k9UQ-Mk4/reviews/ChdDSUhNMG9nS0VJQ0FnTURnbFBXWXN3RRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        This restaurant sounds like a wonderful find.  The combination of
+        delicious sushi and entrees is quite appealing.  Efficient service
+        always enhances a dining experience.  It's great to hear the prices are
+        reasonable for the quality offered.  This place definitely deserves a
+        visit.
+      languageCode: en
+    originalText:
+      text: >-
+        This restaurant sounds like a wonderful find.  The combination of
+        delicious sushi and entrees is quite appealing.  Efficient service
+        always enhances a dining experience.  It's great to hear the prices are
+        reasonable for the quality offered.  This place definitely deserves a
+        visit.
+      languageCode: en
+    authorAttribution:
+      displayName: Mike Horner
+      uri: https://www.google.com/maps/contrib/101604808877855432225/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocI8aK3OB5O4ldCdjoG2ANxsO5ozaxkhFgf-3Wjhq0zkW2G7vQ=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-02-22T18:04:16.237956Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURnbFBXWXN3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURnbFBXWXN3RRAB!2m1!1s0x876c91e8c6d9c501:0x4e323e44f5249d29
+  - name: >-
+      places/ChIJAcXZxuiRbIcRKZ0k9UQ-Mk4/reviews/ChdDSUhNMG9nS0VJQ0FnSUNaMXNUQWd3RRAB
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        This is my favorite sushi place! They have real pickled wasabi, which is
+        incredibly hard to find in Colorado! The staff are great and make me
+        feel welcome.  Josh is a fantastic sushi chef and the sushi rolls are
+        some of the best around!  They also have reasonable prices.
+      languageCode: en
+    originalText:
+      text: >-
+        This is my favorite sushi place! They have real pickled wasabi, which is
+        incredibly hard to find in Colorado! The staff are great and make me
+        feel welcome.  Josh is a fantastic sushi chef and the sushi rolls are
+        some of the best around!  They also have reasonable prices.
+      languageCode: en
+    authorAttribution:
+      displayName: Michael B
+      uri: https://www.google.com/maps/contrib/105121425135006972019/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKi-HF07ANzgaKNDjwmRqzkkscwqICL4geEKp0l5lFQSEbEfg=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2023-09-10T01:38:20.657593Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNaMXNUQWd3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNaMXNUQWd3RRAB!2m1!1s0x876c91e8c6d9c501:0x4e323e44f5249d29
+review_summary: >-
+  What Guests Are Saying About the Food$$$Visitors often rave about the fresh
+  and flavorful sushi at this spot, highlighting it as a standout choice among
+  local dining options with its generous portions and reasonable prices. Many
+  appreciate the variety of rolls and the overall value, noting that the
+  ingredients feel high-quality and the service adds to a pleasant vibe, even if
+  there are occasional waits during busier times. While some mention minor
+  inconsistencies like overly salty sides or slight delays in appetizers, the
+  consensus leans positive, with folks enjoying the welcoming environment that
+  makes it feel like a reliable favorite. Overall, it's clear that this place
+  delivers a solid experience for sushi lovers, encouraging repeat visits for
+  its tasty offerings and friendly staff. If you're hunting for top-rated sushi
+  near you, this location seems to hit the mark for a satisfying and enjoyable
+  meal.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
+curbside_pickup: false
+delivery: true
+dine_in: true
 good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
+good_for_groups: true
+good_for_sports: false
+live_music: false
 menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+outdoor_seating: false
+reservable: false
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
+serves_coffee: true
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Contemporary sushi house provides a range of rolls & Japanese-French cuisine
+  in a cheerful setting.
 
 ---

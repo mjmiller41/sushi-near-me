@@ -5,4 +5,5 @@ permalink: /illinois/algonquin/
 stateAbbr: IL
 stateName: Illinois
 cityName: Algonquin
+
 ---

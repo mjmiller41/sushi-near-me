@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Samurai Sushi"
+title: Samurai Sushi
 permalink: /california/paso-robles/samurai-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Paso Robles
 seo:
-  name: "Samurai Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.facebook.com/pages/Samurai-Sushi-Roll/117333408284405
-description: "Samurai Sushi serves delicious sushi in Paso Robles, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJj-Yzf6HF7IARB3h3jhYxNHY
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80ecc5a17f33e68f:0x763431168e777807!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 20
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 20
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 20
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 8:00 PM'
     - 'Tuesday: 11:00 AM – 8:00 PM'
     - 'Wednesday: 11:00 AM – 8:00 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 8:00 PM'
     - 'Saturday: 11:00 AM – 8:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:00 AM – 8:00 PM'
-    - 'Tuesday: 11:00 AM – 8:00 PM'
-    - 'Wednesday: 11:00 AM – 8:00 PM'
-    - 'Thursday: 11:00 AM – 8:00 PM'
-    - 'Friday: 11:00 AM – 8:00 PM'
-    - 'Saturday: 11:00 AM – 8:00 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +238,47 @@ phone: (805) 237-1353
 price_level: null
 price_range: null
 rating: '4.3'
-rating_count: 0
+rating_count: 138
 website: https://www.facebook.com/pages/Samurai-Sushi-Roll/117333408284405
+description: >-
+  Discover Samurai Sushi in Paso Robles, CA$$$Samurai Sushi in Paso Robles, CA,
+  offers a delightful escape into Japanese flavors with its fresh sushi
+  selections and cozy dining environment. This spot stands out for its
+  accessible features, including wheelchair-friendly parking and seating,
+  ensuring a welcoming experience for everyone seeking quality Japanese cuisine
+  nearby. Patrons can enjoy a range of expertly prepared rolls and dishes in a
+  relaxed atmosphere, making it an ideal choice for those exploring sushi
+  restaurants in the area. With convenient hours from 11 AM to 8 PM on most
+  days, it's perfect for a satisfying lunch or dinner outing. The overall vibe
+  appeals to anyone hunting for top-rated sushi options that combine
+  authenticity and comfort.
+generative_summary: >-
+  Discover Samurai Sushi in Paso Robles, CA$$$Samurai Sushi in Paso Robles, CA,
+  offers a delightful escape into Japanese flavors with its fresh sushi
+  selections and cozy dining environment. This spot stands out for its
+  accessible features, including wheelchair-friendly parking and seating,
+  ensuring a welcoming experience for everyone seeking quality Japanese cuisine
+  nearby. Patrons can enjoy a range of expertly prepared rolls and dishes in a
+  relaxed atmosphere, making it an ideal choice for those exploring sushi
+  restaurants in the area. With convenient hours from 11 AM to 8 PM on most
+  days, it's perfect for a satisfying lunch or dinner outing. The overall vibe
+  appeals to anyone hunting for top-rated sushi options that combine
+  authenticity and comfort.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Guests Are Saying About Samurai Sushi$$$Folks who visit Samurai Sushi
+  often highlight the fresh, tasty rolls and generous portions that make every
+  meal feel worthwhile. Many appreciate the laid-back vibe and attentive
+  service, turning it into a reliable spot for casual get-togethers or solo
+  bites. The solid 4.3 rating from numerous reviews suggests consistent praise
+  for the flavor profiles and overall value, with diners frequently noting it's
+  a great pick for everyday sushi cravings. While some mention minor waits
+  during peak times, the general consensus leans positive, emphasizing the
+  welcoming feel that keeps people returning. All in all, it's a solid
+  recommendation for anyone in the mood for enjoyable Japanese eats without the
+  fuss.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +304,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

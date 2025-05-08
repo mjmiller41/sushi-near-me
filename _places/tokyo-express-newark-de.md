@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Tokyo Express"
+title: Tokyo Express
 permalink: /delaware/newark/tokyo-express.html
 stateAbbr: DE
 stateName: Delaware
 cityName: Newark
 seo:
-  name: "Tokyo Express"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Tokyo Express serves delicious sushi in Newark, Delaware. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJf7b6ErsAx4kRV93Qodn7ynI
 photos:
   - name: >-
@@ -185,6 +183,27 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 0
 website: null
+description: >-
+  Discover Tokyo Express in Newark, Delaware$$$Tokyo Express in Newark,
+  Delaware, stands out as a casual Japanese restaurant offering an array of
+  flavorful options that highlight fresh ingredients and traditional flavors.
+  This spot specializes in small plates, teriyaki, hibachi-style dishes, and a
+  selection of sushi that appeals to those seeking authentic tastes in a relaxed
+  setting. With accessible features like wheelchair-friendly parking and
+  entrances, it's designed to welcome everyone looking for a convenient dining
+  experience. The menu emphasizes affordable, well-prepared meals that make it a
+  go-to choice for sushi enthusiasts exploring local Japanese cuisine near them.
+generative_summary: >-
+  Discover Tokyo Express in Newark, Delaware$$$Tokyo Express in Newark,
+  Delaware, stands out as a casual Japanese restaurant offering an array of
+  flavorful options that highlight fresh ingredients and traditional flavors.
+  This spot specializes in small plates, teriyaki, hibachi-style dishes, and a
+  selection of sushi that appeals to those seeking authentic tastes in a relaxed
+  setting. With accessible features like wheelchair-friendly parking and
+  entrances, it's designed to welcome everyone looking for a convenient dining
+  experience. The menu emphasizes affordable, well-prepared meals that make it a
+  go-to choice for sushi enthusiasts exploring local Japanese cuisine near them.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJf7b6ErsAx4kRV93Qodn7ynI/reviews/ChdDSUhNMG9nS0VJQ0FnSUNQM3BQajhnRRAB
@@ -330,6 +349,17 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN3cXQ3ZU9REAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN3cXQ3ZU9REAE!2m1!1s0x89c700bb12fab67f:0x72cafbd9a1d0dd57
+review_summary: >-
+  What Customers Are Buzzing About$$$Visitors often praise the fresh and tasty
+  sushi along with hearty bowls that deliver great value without breaking the
+  bank. Many highlight the consistent quality and quick preparation, making it a
+  reliable pick for casual meals on the go. Folks appreciate the friendly
+  service and welcoming vibe, which adds to the overall enjoyment of the food.
+  While portions might feel modest at times, the affordability and flavor keep
+  people coming back for more Japanese-inspired dishes. All in all, it's a solid
+  spot that earns high marks for satisfying cravings in a straightforward,
+  enjoyable way.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -362,7 +392,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

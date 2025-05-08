@@ -5,4 +5,5 @@ permalink: /indiana/west-lafayette/
 stateAbbr: IN
 stateName: Indiana
 cityName: West Lafayette
+
 ---

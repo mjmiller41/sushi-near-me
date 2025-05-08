@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Tokugawa Sushi Restaurant"
+title: Tokugawa Sushi Restaurant
 permalink: /new-york/new-york/tokugawa-sushi-restaurant.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "Tokugawa Sushi Restaurant"
-  type: Restaurant
+  type: restaurant
   links: https://www.tokugawanyc.com/
-description: "Tokugawa Sushi Restaurant serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJU_L5wepZwokR0_p3hTDnWx8
 photos:
   - name: >-
@@ -183,6 +181,31 @@ price_range: null
 rating: '4.2'
 rating_count: 0
 website: https://www.tokugawanyc.com/
+description: >-
+  Discover Tokugawa Sushi in New York$$$Tokugawa Sushi Restaurant in New York,
+  NY, stands out as an intimate spot perfect for those seeking fresh Japanese
+  flavors in a cozy setting. Specializing in expertly crafted sushi, premium
+  sake, and creative cocktails, this eatery captures the essence of authentic
+  Japanese dining with a focus on quality ingredients and thoughtful
+  presentation. Located on Madison Avenue, it's an ideal choice for anyone
+  exploring top sushi options near cultural landmarks, offering a welcoming
+  atmosphere that balances tradition with modern appeal. The menu highlights a
+  variety of dishes that cater to sushi enthusiasts looking for reliable nearby
+  options, making it a go-to for casual yet refined meals in the heart of the
+  city.
+generative_summary: >-
+  Discover Tokugawa Sushi in New York$$$Tokugawa Sushi Restaurant in New York,
+  NY, stands out as an intimate spot perfect for those seeking fresh Japanese
+  flavors in a cozy setting. Specializing in expertly crafted sushi, premium
+  sake, and creative cocktails, this eatery captures the essence of authentic
+  Japanese dining with a focus on quality ingredients and thoughtful
+  presentation. Located on Madison Avenue, it's an ideal choice for anyone
+  exploring top sushi options near cultural landmarks, offering a welcoming
+  atmosphere that balances tradition with modern appeal. The menu highlights a
+  variety of dishes that cater to sushi enthusiasts looking for reliable nearby
+  options, making it a go-to for casual yet refined meals in the heart of the
+  city.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJU_L5wepZwokR0_p3hTDnWx8/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJNjdTcnRnRRAB
@@ -326,6 +349,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURwNmRiMWdnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURwNmRiMWdnRRAB!2m1!1s0x89c259eac1f9f253:0x1f5be7308577fad3
+review_summary: >-
+  Visitor Feedback on This Sushi Spot$$$Visitors often praise the fresh and
+  flavorful sushi at this cozy New York restaurant, noting how it hits the spot
+  for a quick and satisfying meal. Many highlight the attentive service and
+  welcoming vibe, with highlights like tasty rolls and sake adding to the
+  overall experience that keeps people coming back. While some mention the space
+  feels a bit compact during busy times, the general consensus is that the
+  quality and variety make it worth trying, especially for those hunting for the
+  best sushi nearby. Overall, folks appreciate the solid options for lunch or
+  dinner, with positive nods to the fresh fish and efficient atmosphere that
+  make it a reliable pick for Japanese places in the area. If you're in the mood
+  for top-rated sushi close to you, this spot delivers a consistently enjoyable
+  experience with room for everyone to find something they love.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options:
   acceptsCreditCards: true
@@ -355,7 +392,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

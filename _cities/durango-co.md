@@ -5,4 +5,5 @@ permalink: /colorado/durango/
 stateAbbr: CO
 stateName: Colorado
 cityName: Durango
+
 ---

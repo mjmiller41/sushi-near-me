@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Wild Ginger"
+title: Wild Ginger
 permalink: /new-york/corning/wild-ginger.html
 stateAbbr: NY
 stateName: New York
 cityName: Corning
 seo:
-  name: "Wild Ginger"
-  type: Restaurant
+  type: restaurant
   links: http://www.gafferdistrict.com/businesses/wild-ginger
-description: "Wild Ginger serves delicious sushi in Corning, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJF_xff8tJ0IkRWj6_KcgIuFo
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89d049cb7f5ffc17:0x5ab808c829bf3e5a!10e5
 primary_type: Asian Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:30 PM'
     - 'Tuesday: Closed'
     - 'Wednesday: 11:00 AM – 9:30 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:00 PM'
     - 'Saturday: 11:00 AM – 10:00 PM'
     - 'Sunday: 12:00 – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:30 PM'
-    - 'Tuesday: Closed'
-    - 'Wednesday: 11:00 AM – 9:30 PM'
-    - 'Thursday: 11:00 AM – 9:30 PM'
-    - 'Friday: 11:00 AM – 10:00 PM'
-    - 'Saturday: 11:00 AM – 10:00 PM'
-    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +238,46 @@ phone: (607) 936-8888
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.4'
-rating_count: 0
+rating_count: 645
 website: http://www.gafferdistrict.com/businesses/wild-ginger
+description: >-
+  Discover Wild Ginger in Corning, NY$$$Wild Ginger in Corning, NY, stands out
+  as a welcoming Asian restaurant specializing in fresh sushi and a variety of
+  flavorful dishes. This spot offers an array of options like expertly crafted
+  rolls, bento boxes, and hearty noodle favorites, making it a go-to choice for
+  anyone seeking authentic Asian flavors in a cozy setting. With its accessible
+  features such as wheelchair-friendly entrances and parking, it ensures a
+  comfortable experience for all visitors looking to enjoy a meal. The menu
+  highlights high-quality ingredients that bring out the best in traditional
+  recipes, appealing to those exploring sushi restaurants in the area. Whether
+  you're in the mood for a quick bite or a relaxed dinner, this location
+  combines great taste with a warm atmosphere that's perfect for casual outings.
+generative_summary: >-
+  Discover Wild Ginger in Corning, NY$$$Wild Ginger in Corning, NY, stands out
+  as a welcoming Asian restaurant specializing in fresh sushi and a variety of
+  flavorful dishes. This spot offers an array of options like expertly crafted
+  rolls, bento boxes, and hearty noodle favorites, making it a go-to choice for
+  anyone seeking authentic Asian flavors in a cozy setting. With its accessible
+  features such as wheelchair-friendly entrances and parking, it ensures a
+  comfortable experience for all visitors looking to enjoy a meal. The menu
+  highlights high-quality ingredients that bring out the best in traditional
+  recipes, appealing to those exploring sushi restaurants in the area. Whether
+  you're in the mood for a quick bite or a relaxed dinner, this location
+  combines great taste with a warm atmosphere that's perfect for casual outings.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Buzzing About$$$Visitors to this sushi spot in Corning
+  often rave about the fresh, well-prepared dishes that keep them coming back
+  for more. Many appreciate the consistent quality and variety, with comments
+  highlighting the tasty rolls and generous portions that make for a satisfying
+  meal. While some note that wait times can vary during peak hours, the overall
+  vibe remains positive, with folks enjoying the friendly service and inviting
+  space. Feedback generally praises the value for the price, making it a solid
+  pick for groups or families searching for reliable Asian dining options
+  nearby. All in all, it's clear that this place earns its high marks as a
+  favorite among those hunting for top-rated sushi experiences in the region.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +303,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

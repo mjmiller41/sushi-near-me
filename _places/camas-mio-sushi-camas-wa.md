@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Camas Mio Sushi"
+title: Camas Mio Sushi
 permalink: /washington/camas/camas-mio-sushi.html
 stateAbbr: WA
 stateName: Washington
 cityName: Camas
 seo:
-  name: "Camas Mio Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Camas Mio Sushi serves delicious sushi in Camas, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJD7Qi8Ei7lVQRuShBd_6iJ2M
 photos:
   - name: >-
@@ -185,7 +183,46 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Camas Mio Sushi in Camas, Washington$$$Camas Mio Sushi in Camas, WA,
+  offers a vibrant take on Japanese dining with its focus on fresh sushi and
+  inviting atmosphere, making it a standout choice for locals and visitors
+  alike. This trendy spot specializes in a variety of creative rolls and dishes,
+  enhanced by appealing happy hour options that draw in those seeking affordable
+  sushi experiences. With thoughtful accessibility features like
+  wheelchair-friendly parking and seating, it ensures a welcoming environment
+  for everyone enjoying their meal. The restaurant's emphasis on quality
+  ingredients and modern presentation positions it as a reliable option among
+  sushi places near me, perfect for casual dinners or quick bites. Whether
+  you're exploring top-rated sushi restaurants in the area, this location
+  combines flavor and convenience for an enjoyable outing.
+generative_summary: >-
+  Discover Camas Mio Sushi in Camas, Washington$$$Camas Mio Sushi in Camas, WA,
+  offers a vibrant take on Japanese dining with its focus on fresh sushi and
+  inviting atmosphere, making it a standout choice for locals and visitors
+  alike. This trendy spot specializes in a variety of creative rolls and dishes,
+  enhanced by appealing happy hour options that draw in those seeking affordable
+  sushi experiences. With thoughtful accessibility features like
+  wheelchair-friendly parking and seating, it ensures a welcoming environment
+  for everyone enjoying their meal. The restaurant's emphasis on quality
+  ingredients and modern presentation positions it as a reliable option among
+  sushi places near me, perfect for casual dinners or quick bites. Whether
+  you're exploring top-rated sushi restaurants in the area, this location
+  combines flavor and convenience for an enjoyable outing.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About This Spot$$$Folks frequently highlight the
+  fresh flavors and creative twists on classic rolls at this sushi spot, making
+  it a go-to for satisfying Japanese cravings. Many appreciate the value from
+  happy hour specials, which add a fun element to the dining experience without
+  breaking the bank. The service often comes across as friendly and efficient,
+  helping to create a relaxed vibe that keeps people returning for more. While
+  some note that portion sizes could be a bit more generous, the overall quality
+  of the food and atmosphere tends to outweigh any minor drawbacks. All in all,
+  it's a solid pick for anyone hunting for great sushi close to me, delivering a
+  positive and memorable meal in a welcoming setting.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +248,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

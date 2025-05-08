@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Poki"
+title: Sushi Poki
 permalink: /texas/irving/sushi-poki.html
 stateAbbr: TX
 stateName: Texas
 cityName: Irving
 seo:
-  name: "Sushi Poki"
-  type: Restaurant
+  type: restaurant
   links: http://www.sushipoki.com/
-description: "Sushi Poki serves delicious sushi in Irving, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJa85UyoQpTIYRq-mAT2UaJAQ
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x864c2984ca54ce6b:0x4241a654f80e9ab!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 10
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 10
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 10
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 10
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 10
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 10:00 AM – 9:00 PM'
     - 'Tuesday: 10:00 AM – 9:00 PM'
     - 'Wednesday: 10:00 AM – 9:00 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 10:00 AM – 9:00 PM'
     - 'Saturday: 11:00 AM – 9:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 10:00 AM – 9:00 PM'
-    - 'Tuesday: 10:00 AM – 9:00 PM'
-    - 'Wednesday: 10:00 AM – 9:00 PM'
-    - 'Thursday: 10:00 AM – 9:00 PM'
-    - 'Friday: 10:00 AM – 9:00 PM'
-    - 'Saturday: 11:00 AM – 9:00 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +238,45 @@ phone: (469) 706-0060
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.5'
-rating_count: 0
+rating_count: 232
 website: http://www.sushipoki.com/
+description: >-
+  Discover Sushi Poki in Irving, TX$$$Sushi Poki in Irving, TX, stands out as a
+  welcoming spot for enjoying fresh Japanese-inspired dishes in a relaxed
+  environment. This counter-service eatery specializes in flavorful sushi rolls
+  and other traditional fare, making it an ideal choice for those seeking
+  quality options without the formality of fine dining. With its commitment to
+  fresh ingredients and accessible features like wheelchair-friendly entrances
+  and seating, it caters to a wide range of diners looking for convenience and
+  comfort. Operating from late morning into the evening most days, it's a go-to
+  destination for anyone exploring top-rated sushi restaurants in the area,
+  offering a simple yet satisfying experience that highlights the best of
+  Japanese cuisine near you.
+generative_summary: >-
+  Discover Sushi Poki in Irving, TX$$$Sushi Poki in Irving, TX, stands out as a
+  welcoming spot for enjoying fresh Japanese-inspired dishes in a relaxed
+  environment. This counter-service eatery specializes in flavorful sushi rolls
+  and other traditional fare, making it an ideal choice for those seeking
+  quality options without the formality of fine dining. With its commitment to
+  fresh ingredients and accessible features like wheelchair-friendly entrances
+  and seating, it caters to a wide range of diners looking for convenience and
+  comfort. Operating from late morning into the evening most days, it's a go-to
+  destination for anyone exploring top-rated sushi restaurants in the area,
+  offering a simple yet satisfying experience that highlights the best of
+  Japanese cuisine near you.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Folks frequently highlight the tasty poke bowls
+  and sushi rolls at this spot, praising the fresh ingredients and generous
+  portions that make every bite feel worthwhile. Many appreciate the reasonable
+  prices and speedy service, which keep things easy for a casual lunch or quick
+  takeout on a busy day. The cozy atmosphere adds to the appeal, creating a
+  laid-back vibe that's perfect for groups or solo diners craving something
+  light and flavorful. Overall, it's often described as a solid pick for
+  authentic Japanese eats, with positive nods to its reliability and value,
+  making it a favorite among those hunting for great sushi places nearby.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +302,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

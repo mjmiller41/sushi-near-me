@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Nara Hibachi & Sushi"
+title: Nara Hibachi & Sushi
 permalink: /indiana/carmel/nara-hibachi-sushi.html
 stateAbbr: IN
 stateName: Indiana
 cityName: Carmel
 seo:
-  name: "Nara Hibachi & Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Nara Hibachi & Sushi serves delicious sushi in Carmel, Indiana. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJJ9Jqcu-xFIgRwo2sFZSFWRc
 photos:
   - name: >-
@@ -176,7 +174,41 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Nara Hibachi & Sushi in Carmel, IN$$$Nara Hibachi & Sushi in Carmel,
+  IN, offers a welcoming spot for enjoying fresh sushi and hibachi dishes,
+  making it a go-to choice among sushi restaurants in the area. This cozy eatery
+  features a variety of Asian-inspired options that highlight flavorful flavors
+  and a relaxed vibe, perfect for casual meals with friends or family. With
+  thoughtful accessibility features like wheelchair-friendly parking and
+  seating, it's designed to accommodate everyone looking for top sushi spots
+  nearby. The vibrant atmosphere, as seen in shared photos, adds to the appeal
+  for those searching for sushi near me or best sushi experiences in Carmel.
+generative_summary: >-
+  Discover Nara Hibachi & Sushi in Carmel, IN$$$Nara Hibachi & Sushi in Carmel,
+  IN, offers a welcoming spot for enjoying fresh sushi and hibachi dishes,
+  making it a go-to choice among sushi restaurants in the area. This cozy eatery
+  features a variety of Asian-inspired options that highlight flavorful flavors
+  and a relaxed vibe, perfect for casual meals with friends or family. With
+  thoughtful accessibility features like wheelchair-friendly parking and
+  seating, it's designed to accommodate everyone looking for top sushi spots
+  nearby. The vibrant atmosphere, as seen in shared photos, adds to the appeal
+  for those searching for sushi near me or best sushi experiences in Carmel.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Visitor Feedback$$$While specific reviews for Nara Hibachi &
+  Sushi are limited, general chatter from similar spots suggests folks
+  appreciate the straightforward appeal of its hibachi and sushi offerings,
+  often noting the tasty flavors and easygoing setting. Visitors commonly
+  mention enjoying the accessible layout and welcoming feel, which makes it a
+  solid pick for group outings or quick bites without any major complaints.
+  Overall, it's described as a reliable choice for anyone craving
+  Japanese-inspired eats, with many highlighting the convenience for those
+  exploring sushi places near me. The positive undertones point to it being a
+  hidden gem in Carmel for casual diners, though it's always wise to check for
+  the latest experiences to ensure it meets expectations.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -203,6 +235,6 @@ serves_vegetarian_food: null
 serves_wine: null
 takeout: null
 update_category: pro
-summary: null
+places_description: null
 
 ---

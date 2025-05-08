@@ -5,4 +5,5 @@ permalink: /georgia/buford/
 stateAbbr: GA
 stateName: Georgia
 cityName: Buford
+
 ---

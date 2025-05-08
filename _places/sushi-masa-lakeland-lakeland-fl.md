@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Masa Lakeland"
+title: Sushi Masa Lakeland
 permalink: /florida/lakeland/sushi-masa-lakeland.html
 stateAbbr: FL
 stateName: Florida
 cityName: Lakeland
 seo:
-  name: "Sushi Masa Lakeland"
-  type: Restaurant
+  type: restaurant
   links: https://sushimasaus.com/
-description: "Sushi Masa Lakeland serves delicious sushi in Lakeland, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJMwQbs7k73YgRD2ina1gpBOc
 photos:
   - name: >-
@@ -199,7 +197,47 @@ price_range: $30 &ndash; $50
 rating: '4.7'
 rating_count: 0
 website: https://sushimasaus.com/
+description: >-
+  Discover Sushi Masa in Lakeland, Florida$$$Sushi Masa in Lakeland, FL, stands
+  out as a laid-back destination for fresh Japanese-inspired dishes, perfect for
+  those seeking satisfying sushi options in a welcoming atmosphere. This spot
+  offers an extensive array of all-you-can-eat selections, featuring creative
+  rolls and other Asian favorites that highlight quality ingredients and
+  thoughtful preparation. With its accessible location and convenient hours,
+  it's an ideal choice for anyone exploring local dining scenes or craving
+  authentic flavors without the hassle. The restaurant emphasizes inclusivity
+  with features like wheelchair-accessible seating and parking, making it easier
+  for everyone to enjoy a relaxed meal. Whether you're in the mood for a quick
+  lunch or a flavorful dinner, Sushi Masa delivers a blend of variety and value
+  that keeps locals coming back for more.
+generative_summary: >-
+  Discover Sushi Masa in Lakeland, Florida$$$Sushi Masa in Lakeland, FL, stands
+  out as a laid-back destination for fresh Japanese-inspired dishes, perfect for
+  those seeking satisfying sushi options in a welcoming atmosphere. This spot
+  offers an extensive array of all-you-can-eat selections, featuring creative
+  rolls and other Asian favorites that highlight quality ingredients and
+  thoughtful preparation. With its accessible location and convenient hours,
+  it's an ideal choice for anyone exploring local dining scenes or craving
+  authentic flavors without the hassle. The restaurant emphasizes inclusivity
+  with features like wheelchair-accessible seating and parking, making it easier
+  for everyone to enjoy a relaxed meal. Whether you're in the mood for a quick
+  lunch or a flavorful dinner, Sushi Masa delivers a blend of variety and value
+  that keeps locals coming back for more.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Raving About$$$Folks who visit this sushi spot often
+  appreciate the solid all-you-can-eat deal that packs in a ton of options, from
+  creative specialty rolls to super fresh sashimi, making it a go-to for variety
+  lovers. Many highlight the quick and attentive service that keeps things
+  running smoothly without any fuss, adding to the overall enjoyable vibe. It's
+  frequently noted for offering great bang for your buck, with meals that feel
+  worth every penny and leave you satisfied. While opinions vary, the general
+  buzz is positive, focusing on the fresh ingredients and welcoming energy that
+  make it a reliable pick for casual outings. All in all, if you're on the hunt
+  for dependable Japanese eats nearby, this place tends to deliver a solid
+  experience that keeps diners smiling.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +263,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

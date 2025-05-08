@@ -5,4 +5,5 @@ permalink: /california/chatsworth/
 stateAbbr: CA
 stateName: California
 cityName: Chatsworth
+
 ---

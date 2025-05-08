@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Izumi Sushi & Hibachi"
+title: Izumi Sushi & Hibachi
 permalink: /north-dakota/fargo/izumi-sushi-hibachi.html
 stateAbbr: ND
 stateName: North Dakota
 cityName: Fargo
 seo:
-  name: "Izumi Sushi & Hibachi"
-  type: Restaurant
-  links: null
-description: "Izumi Sushi & Hibachi serves delicious sushi in Fargo, North Dakota. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.izumirestaurant.com/
 place_id: ChIJXSRwpVrLyFIRHZZYB7F8fkA
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x52c8cb5aa570245d:0x407e7cb10758961d!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 10:00 PM'
+    - 'Tuesday: 11:00 AM – 10:00 PM'
+    - 'Wednesday: 11:00 AM – 10:00 PM'
+    - 'Thursday: 11:00 AM – 10:00 PM'
+    - 'Friday: 11:00 AM – 10:30 PM'
+    - 'Saturday: 11:00 AM – 10:30 PM'
+    - 'Sunday: 11:00 AM – 9:30 PM'
+  nextCloseTime: '2025-05-04T03:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,50 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (701) 639-7016
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.5'
+rating_count: 1202
+website: http://www.izumirestaurant.com/
+description: >-
+  Discover Izumi Sushi & Hibachi in Fargo, ND$$$Izumi Sushi & Hibachi in Fargo,
+  North Dakota, stands out as a welcoming spot for fresh Japanese-inspired
+  dining, blending casual vibes with flavorful hibachi and sushi selections.
+  This restaurant features an array of creative rolls, sizzling hibachi dishes,
+  and refreshing cocktails, making it a go-to choice for anyone seeking quality
+  Asian cuisine in the area. With options like an all-you-can-eat menu, it's
+  perfect for those looking to explore a variety of tastes without breaking the
+  bank. The accessible layout ensures a comfortable visit for all, while
+  extended hours accommodate both lunch crowds and evening outings. Overall,
+  it's an ideal destination for enjoying authentic flavors in a relaxed setting
+  that appeals to sushi enthusiasts nearby.
+generative_summary: >-
+  Discover Izumi Sushi & Hibachi in Fargo, ND$$$Izumi Sushi & Hibachi in Fargo,
+  North Dakota, stands out as a welcoming spot for fresh Japanese-inspired
+  dining, blending casual vibes with flavorful hibachi and sushi selections.
+  This restaurant features an array of creative rolls, sizzling hibachi dishes,
+  and refreshing cocktails, making it a go-to choice for anyone seeking quality
+  Asian cuisine in the area. With options like an all-you-can-eat menu, it's
+  perfect for those looking to explore a variety of tastes without breaking the
+  bank. The accessible layout ensures a comfortable visit for all, while
+  extended hours accommodate both lunch crowds and evening outings. Overall,
+  it's an ideal destination for enjoying authentic flavors in a relaxed setting
+  that appeals to sushi enthusiasts nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What People Are Saying About the Experience$$$Visitors often rave about the
+  tasty all-you-can-eat sushi buffet, packed with a solid mix of rolls, sashimi,
+  and hibachi favorites that keep things exciting and satisfying. Many
+  appreciate the efficient service that makes dining out feel smooth and
+  enjoyable, without any unnecessary waits. Folks find the pricing to be fair
+  and worthwhile, offering good bang for your buck on fresh, well-prepared
+  meals. It's generally seen as a reliable spot for groups or solo diners
+  craving Japanese dishes, with positive vibes all around. In summary, the
+  feedback highlights a welcoming atmosphere that encourages return trips for
+  anyone hunting for dependable sushi options in the region.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +311,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

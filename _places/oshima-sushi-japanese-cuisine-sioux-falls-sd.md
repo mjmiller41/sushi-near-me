@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Oshima Sushi Japanese Cuisine"
+title: Oshima Sushi Japanese Cuisine
 permalink: /south-dakota/sioux-falls/oshima-sushi-japanese-cuisine.html
 stateAbbr: SD
 stateName: South Dakota
 cityName: Sioux Falls
 seo:
-  name: "Oshima Sushi Japanese Cuisine"
-  type: Restaurant
+  type: restaurant
   links: https://oshimasiouxfalls.com/
-description: "Casual nook with inventive sushi rolls & classic Japanese entrees, plus lunch specials & bubble tea. Oshima Sushi Japanese Cuisine serves delicious sushi in Sioux Falls, South Dakota. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJfeM-xqK1jocRpqTKI95G77s
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $10 &ndash; $20
 rating: '4.7'
 rating_count: 0
 website: https://oshimasiouxfalls.com/
+description: >-
+  Explore Oshima Sushi in Sioux Falls$$$Oshima Sushi Japanese Cuisine in Sioux
+  Falls, SD, delivers a relaxed dining vibe with a focus on fresh sushi and
+  traditional Japanese flavors, making it a go-to spot for those seeking
+  authentic Asian cuisine nearby. This cozy eatery features inventive rolls
+  alongside classic dishes, complemented by options like sake and beer, all
+  served in a welcoming atmosphere perfect for casual meals or quick lunches.
+  Accessibility is a key highlight, with wheelchair-friendly parking, entrances,
+  and seating that ensure everyone can enjoy the experience. Bubble tea and
+  lunch specials add a fun twist to the menu, appealing to both sushi
+  enthusiasts and those exploring Japanese places in the area. Whether you're
+  looking for top-rated sushi options close to home, this spot combines quality
+  ingredients with a comfortable setting for an enjoyable outing.
+generative_summary: >-
+  Explore Oshima Sushi in Sioux Falls$$$Oshima Sushi Japanese Cuisine in Sioux
+  Falls, SD, delivers a relaxed dining vibe with a focus on fresh sushi and
+  traditional Japanese flavors, making it a go-to spot for those seeking
+  authentic Asian cuisine nearby. This cozy eatery features inventive rolls
+  alongside classic dishes, complemented by options like sake and beer, all
+  served in a welcoming atmosphere perfect for casual meals or quick lunches.
+  Accessibility is a key highlight, with wheelchair-friendly parking, entrances,
+  and seating that ensure everyone can enjoy the experience. Bubble tea and
+  lunch specials add a fun twist to the menu, appealing to both sushi
+  enthusiasts and those exploring Japanese places in the area. Whether you're
+  looking for top-rated sushi options close to home, this spot combines quality
+  ingredients with a comfortable setting for an enjoyable outing.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJfeM-xqK1jocRpqTKI95G77s/reviews/ChZDSUhNMG9nS0VJQ0FnTURBbl9UQmFnEAE
@@ -346,6 +371,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNibWJuZjFRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNibWJuZjFRRRAB!2m1!1s0x878eb5a2c63ee37d:0xbbef46de23caa4a6
+review_summary: >-
+  Insights from Recent Feedback$$$Folks consistently rave about the fresh and
+  flavorful dishes at this sushi spot, with highlights including tasty rolls,
+  gyoza, and sesame balls that keep diners coming back for more. The service
+  stands out as friendly and efficient, making meals feel seamless and enjoyable
+  without any unnecessary waits. Many appreciate the calm, inviting atmosphere
+  that's ideal for a relaxed lunch or dinner, paired with reasonable prices that
+  offer great value for authentic Japanese fare. Overall, the consensus leans
+  positive, emphasizing how the variety of options suits both solo diners and
+  groups, encouraging repeat visits for anyone hunting for reliable sushi
+  restaurants nearby. While opinions focus on the solid food and welcoming vibe,
+  it's clear this place delivers a satisfying experience that lives up to
+  expectations.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   paidParkingLot: true
@@ -381,8 +420,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Casual nook with inventive sushi rolls & classic Japanese entrees, plus lunch
   specials & bubble tea.
 

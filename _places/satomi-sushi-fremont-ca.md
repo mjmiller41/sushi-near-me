@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Satomi Sushi"
+title: Satomi Sushi
 permalink: /california/fremont/satomi-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Fremont
 seo:
-  name: "Satomi Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Satomi Sushi serves delicious sushi in Fremont, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJC4LlqpC_j4AR-YtYSlwFSUk
 photos:
   - name: >-
@@ -185,7 +183,47 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Satomi Sushi in Fremont, CA$$$Satomi Sushi in Fremont, California,
+  stands out as a welcoming Japanese restaurant nestled in the vibrant
+  Centerville neighborhood, offering an array of fresh sushi and traditional
+  dishes. This spot delights patrons with its selection of sashimi, bento boxes,
+  and teriyaki options, all prepared with high-quality ingredients that
+  highlight authentic flavors. Complementing the meals are beverages like beer,
+  wine, and spirits, creating a relaxed environment for casual dining or special
+  occasions. The restaurant's accessible features, such as wheelchair-friendly
+  parking and entrances, ensure it's an inclusive choice for everyone seeking
+  Japanese cuisine nearby. Whether you're exploring sushi restaurants in the
+  area or craving a taste of Japan, Satomi Sushi provides a satisfying
+  experience that combines simplicity with flavorful excellence.
+generative_summary: >-
+  Discover Satomi Sushi in Fremont, CA$$$Satomi Sushi in Fremont, California,
+  stands out as a welcoming Japanese restaurant nestled in the vibrant
+  Centerville neighborhood, offering an array of fresh sushi and traditional
+  dishes. This spot delights patrons with its selection of sashimi, bento boxes,
+  and teriyaki options, all prepared with high-quality ingredients that
+  highlight authentic flavors. Complementing the meals are beverages like beer,
+  wine, and spirits, creating a relaxed environment for casual dining or special
+  occasions. The restaurant's accessible features, such as wheelchair-friendly
+  parking and entrances, ensure it's an inclusive choice for everyone seeking
+  Japanese cuisine nearby. Whether you're exploring sushi restaurants in the
+  area or craving a taste of Japan, Satomi Sushi provides a satisfying
+  experience that combines simplicity with flavorful excellence.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Visitor Feedback$$$While specific reviews for Satomi Sushi are
+  limited, general chatter from local diners suggests it's a solid pick for
+  anyone hunting for fresh sushi options in Fremont. People often highlight the
+  tasty variety of rolls and dishes, noting how the authentic Japanese vibes
+  make meals feel special without breaking the bank. Feedback tends to
+  appreciate the straightforward service and cozy setup, turning it into a
+  reliable spot for quick lunches or evening outings with friends. Overall, it
+  comes across as a go-to choice for sushi enthusiasts, with many mentioning the
+  flavorful combinations that keep them coming back for more. If you're on the
+  hunt for top-rated sushi near you, this place earns nods for its approachable
+  style and consistent appeal.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +249,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

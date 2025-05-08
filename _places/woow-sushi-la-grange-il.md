@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Woow Sushi"
+title: Woow Sushi
 permalink: /illinois/la-grange/woow-sushi.html
 stateAbbr: IL
 stateName: Illinois
 cityName: La Grange
 seo:
-  name: "Woow Sushi"
-  type: Restaurant
-  links: null
-description: "Woow Sushi serves delicious sushi in La Grange, Illinois. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.woowsushilagrangeil.com/
 place_id: ChIJ4zPyImZJDogRq1cMucoPq5g
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x880e496622f233e3:0x98ab0fcab90c57ab!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:30 AM – 9:30 PM'
+    - 'Tuesday: 11:30 AM – 9:30 PM'
+    - 'Wednesday: 11:30 AM – 9:30 PM'
+    - 'Thursday: 11:30 AM – 9:30 PM'
+    - 'Friday: 11:30 AM – 10:30 PM'
+    - 'Saturday: 11:30 AM – 10:30 PM'
+    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T03:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,46 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
+phone: (708) 588-8888
 price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+price_range: $20 &ndash; $30
+rating: '4.5'
+rating_count: 434
+website: https://www.woowsushilagrangeil.com/
+description: >-
+  Experience Woow Sushi in La Grange$$$Woow Sushi in La Grange, IL, stands out
+  as a welcoming spot for those seeking fresh sushi and diverse Asian flavors in
+  a relaxed setting. This casual eatery features an all-you-can-eat menu that
+  includes creative sushi rolls, flavorful hibachi options, and selections from
+  Thai and Chinese traditions, appealing to a wide range of tastes. With its
+  accessible design and extended hours, it's an ideal choice for families or
+  groups looking for a convenient meal in a comfortable atmosphere. The
+  restaurant's focus on quality ingredients and variety ensures a satisfying
+  dining experience that combines affordability with authentic flavors.
+generative_summary: >-
+  Experience Woow Sushi in La Grange$$$Woow Sushi in La Grange, IL, stands out
+  as a welcoming spot for those seeking fresh sushi and diverse Asian flavors in
+  a relaxed setting. This casual eatery features an all-you-can-eat menu that
+  includes creative sushi rolls, flavorful hibachi options, and selections from
+  Thai and Chinese traditions, appealing to a wide range of tastes. With its
+  accessible design and extended hours, it's an ideal choice for families or
+  groups looking for a convenient meal in a comfortable atmosphere. The
+  restaurant's focus on quality ingredients and variety ensures a satisfying
+  dining experience that combines affordability with authentic flavors.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Diners Are Raving About$$$Visitors to this sushi spot often highlight the
+  fresh, high-quality rolls and generous portions that make it a standout option
+  for anyone craving Japanese-inspired eats nearby. Many appreciate the value of
+  the all-you-can-eat deal, which lets you explore a mix of sushi, hibachi, and
+  other Asian dishes without breaking the bank, while noting the friendly vibe
+  that keeps things light and enjoyable. Feedback frequently mentions the
+  welcoming atmosphere and reliable service, making it a go-to for casual
+  outings or quick bites with friends. Overall, the strong positive buzz
+  suggests it's a solid pick for flavorful meals that deliver on taste and
+  satisfaction, encouraging repeat visits for those in the area.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +307,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

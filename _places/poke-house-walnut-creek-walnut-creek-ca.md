@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Poke House - Walnut Creek"
+title: Poke House - Walnut Creek
 permalink: /california/walnut-creek/poke-house-walnut-creek.html
 stateAbbr: CA
 stateName: California
 cityName: Walnut Creek
 seo:
-  name: "Poke House - Walnut Creek"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Poke House - Walnut Creek serves delicious sushi in Walnut Creek, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJwxC4USJhhYAR8LwjNgRKXYA
 photos:
   - name: >-
@@ -184,7 +182,44 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Poke House in Walnut Creek$$$Poke House in Walnut Creek, CA, stands
+  out as a laid-back spot for enjoying fresh Hawaiian-inspired poke bowls made
+  with daily-prepared fish. This casual chain emphasizes high-quality
+  ingredients and simple, flavorful dishes that highlight the natural taste of
+  seafood, making it a go-to for those seeking healthy, customizable meals in a
+  welcoming environment. Accessibility features like wheelchair-friendly parking
+  and entrances ensure everyone can easily enjoy the experience, adding to its
+  appeal for diverse diners. With its focus on vibrant flavors and
+  straightforward preparation, it's an ideal choice for anyone exploring fresh
+  poke options near you, blending convenience with authentic tastes that evoke
+  island vibes.
+generative_summary: >-
+  Discover Poke House in Walnut Creek$$$Poke House in Walnut Creek, CA, stands
+  out as a laid-back spot for enjoying fresh Hawaiian-inspired poke bowls made
+  with daily-prepared fish. This casual chain emphasizes high-quality
+  ingredients and simple, flavorful dishes that highlight the natural taste of
+  seafood, making it a go-to for those seeking healthy, customizable meals in a
+  welcoming environment. Accessibility features like wheelchair-friendly parking
+  and entrances ensure everyone can easily enjoy the experience, adding to its
+  appeal for diverse diners. With its focus on vibrant flavors and
+  straightforward preparation, it's an ideal choice for anyone exploring fresh
+  poke options near you, blending convenience with authentic tastes that evoke
+  island vibes.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$While specific reviews for this location weren't
+  available, feedback from similar poke spots often highlights the fresh,
+  high-quality fish and generous portions that make for a satisfying meal. Many
+  visitors appreciate the casual atmosphere and quick service, perfect for a
+  relaxed lunch or dinner on the go, with options that cater to various tastes
+  and dietary preferences. Some note that the variety of toppings and bases adds
+  a fun, personalized touch, though a few mention wishing for even more spice
+  choices to elevate the experience. Overall, it's frequently recommended as a
+  solid pick for anyone searching for tasty poke bowls nearby, offering a
+  positive vibe that keeps locals coming back for more healthy eats.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +245,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

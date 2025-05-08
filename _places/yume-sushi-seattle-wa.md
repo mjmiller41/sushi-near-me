@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yume Sushi"
+title: Yume Sushi
 permalink: /washington/seattle/yume-sushi.html
 stateAbbr: WA
 stateName: Washington
 cityName: Seattle
 seo:
-  name: "Yume Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://hnchoi0509.wixsite.com/yume
-description: "Yume Sushi serves delicious sushi in Seattle, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJAQB7X4AVkFQRDl-kSXjiVfc
 photos:
   - name: >-
@@ -169,7 +167,49 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x549015805f7b0001:0xf755e27849a45f0e!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 0
+      close:
+        day: 5
+        hour: 20
+        minute: 0
+    - open:
+        day: 6
+        hour: 16
+        minute: 0
+      close:
+        day: 6
+        hour: 20
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 4:00 – 8:00 PM'
     - 'Wednesday: 4:00 – 8:00 PM'
@@ -177,14 +217,7 @@ opening_hours:
     - 'Friday: 4:00 – 8:00 PM'
     - 'Saturday: 4:00 – 8:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 4:00 – 8:00 PM'
-    - 'Wednesday: 4:00 – 8:00 PM'
-    - 'Thursday: 4:00 – 8:00 PM'
-    - 'Friday: 4:00 – 8:00 PM'
-    - 'Saturday: 4:00 – 8:00 PM'
-    - 'Sunday: Closed'
+  nextOpenTime: '2025-05-03T23:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -194,37 +227,288 @@ secondary_opening_hours:
     type: null
 phone: (206) 402-6397
 price_level: PRICE_LEVEL_MODERATE
-price_range: null
+price_range: $10 &ndash; $20
 rating: '4.8'
-rating_count: 0
+rating_count: 156
 website: https://hnchoi0509.wixsite.com/yume
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Yume Sushi in Seattle, WA$$$Nestled in the heart of Seattle, WA, Yume
+  Sushi stands out as a welcoming spot for those seeking fresh Japanese flavors
+  and a relaxed dining experience. This casual eatery offers a wide selection of
+  sushi rolls, complemented by craft cocktails, beer, wine, and sake, making it
+  an ideal choice for anyone exploring top sushi options in the area. The
+  neighborhood setting in Southeast Magnolia provides a cozy atmosphere with
+  accessibility features like wheelchair-friendly entrances and seating,
+  ensuring everyone can enjoy a comfortable visit. Patrons appreciate the
+  moderate pricing and variety of dishes, from classic rolls to fried
+  specialties, perfect for a quick meal or evening out. Whether you're looking
+  for sushi places near me or craving authentic Japanese cuisine, this spot
+  delivers on fresh ingredients and a welcoming vibe that keeps locals coming
+  back.
+generative_summary: >-
+  Discover Yume Sushi in Seattle, WA$$$Nestled in the heart of Seattle, WA, Yume
+  Sushi stands out as a welcoming spot for those seeking fresh Japanese flavors
+  and a relaxed dining experience. This casual eatery offers a wide selection of
+  sushi rolls, complemented by craft cocktails, beer, wine, and sake, making it
+  an ideal choice for anyone exploring top sushi options in the area. The
+  neighborhood setting in Southeast Magnolia provides a cozy atmosphere with
+  accessibility features like wheelchair-friendly entrances and seating,
+  ensuring everyone can enjoy a comfortable visit. Patrons appreciate the
+  moderate pricing and variety of dishes, from classic rolls to fried
+  specialties, perfect for a quick meal or evening out. Whether you're looking
+  for sushi places near me or craving authentic Japanese cuisine, this spot
+  delivers on fresh ingredients and a welcoming vibe that keeps locals coming
+  back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJAQB7X4AVkFQRDl-kSXjiVfc/reviews/ChdDSUhNMG9nS0VJQ0FnSUNmd0l2NHlRRRAB
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        We visited this place as it was the only restaurant near our home that
+        was open late at night.
+
+
+        The interior felt a bit dated, but it was cozy, and the service was very
+        friendly.
+
+
+        We ordered some fried dishes, and they were crispy and delicious.
+
+
+        It’s a nice spot to enjoy sushi and fried dishes late at night in a
+        relaxed and comfortable setting!
+      languageCode: en
+    originalText:
+      text: >-
+        We visited this place as it was the only restaurant near our home that
+        was open late at night.
+
+
+        The interior felt a bit dated, but it was cozy, and the service was very
+        friendly.
+
+
+        We ordered some fried dishes, and they were crispy and delicious.
+
+
+        It’s a nice spot to enjoy sushi and fried dishes late at night in a
+        relaxed and comfortable setting!
+      languageCode: en
+    authorAttribution:
+      displayName: Hyunseok Gil
+      uri: https://www.google.com/maps/contrib/112898363989926845605/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWiTx-cluk03DBmzuQ5ahR7qzsajvV-ksXui_AsRsPxPYQCQZKt=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2024-12-25T23:19:26.258615Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNmd0l2NHlRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNmd0l2NHlRRRAB!2m1!1s0x549015805f7b0001:0xf755e27849a45f0e
+  - name: >-
+      places/ChIJAQB7X4AVkFQRDl-kSXjiVfc/reviews/ChZDSUhNMG9nS0VJQ0FnSURicE56WFhnEAE
+    relativePublishTimeDescription: 9 months ago
+    rating: 5
+    text:
+      text: >-
+        The sushi is excellent, but I want to give a shout-out to the Karaage
+        Don plate which is my absolute favorite. I've had karaage don elsewhere
+        in Seattle and nowhere has it been as tender yet crispy as it is at
+        Yume. The rice and sauce that come with are excellent as well. I usually
+        get dinner and the next day's lunch out of it. We got into a habit of
+        getting it about once a month for a while and Mandy who runs anything
+        customer-facing is a gem.
+
+
+        I absolutely love this place. The inside doesn't seat many and it's
+        often incredibly busy for dinner service - prepare to get take out or
+        wait for a table.
+      languageCode: en
+    originalText:
+      text: >-
+        The sushi is excellent, but I want to give a shout-out to the Karaage
+        Don plate which is my absolute favorite. I've had karaage don elsewhere
+        in Seattle and nowhere has it been as tender yet crispy as it is at
+        Yume. The rice and sauce that come with are excellent as well. I usually
+        get dinner and the next day's lunch out of it. We got into a habit of
+        getting it about once a month for a while and Mandy who runs anything
+        customer-facing is a gem.
+
+
+        I absolutely love this place. The inside doesn't seat many and it's
+        often incredibly busy for dinner service - prepare to get take out or
+        wait for a table.
+      languageCode: en
+    authorAttribution:
+      displayName: Kat
+      uri: https://www.google.com/maps/contrib/104633857150313381014/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLa5yHe0OP977kImrWmxOrWELqAjv7txLlfZ8Qht636gC2H1w=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2024-08-02T06:01:10.805082Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURicE56WFhnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURicE56WFhnEAE!2m1!1s0x549015805f7b0001:0xf755e27849a45f0e
+  - name: >-
+      places/ChIJAQB7X4AVkFQRDl-kSXjiVfc/reviews/ChZDSUhNMG9nS0VJQ0FnSUM5NjhQbmFnEAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        It was absolutely criminal that they were nearly empty when I arrived,
+        they should have a line around the block at all hours.
+
+
+        The value for money here is amazing, and honestly even at value price,
+        the only complaint I have is that I wish the agedashi tofu broth had a
+        touch more seasoning (which was happily solved by a splash of soy).
+
+
+        Seriously though, it's not an expansive menu, but what they do they do
+        well.  Please visit.  Also please note they are carry out only on
+        Fridays. I will be back on more than a few Thursday afternoons.
+
+
+        *Edit to add they have some of my favourite chopsticks ever for a dine
+        in place.
+      languageCode: en
+    originalText:
+      text: >-
+        It was absolutely criminal that they were nearly empty when I arrived,
+        they should have a line around the block at all hours.
+
+
+        The value for money here is amazing, and honestly even at value price,
+        the only complaint I have is that I wish the agedashi tofu broth had a
+        touch more seasoning (which was happily solved by a splash of soy).
+
+
+        Seriously though, it's not an expansive menu, but what they do they do
+        well.  Please visit.  Also please note they are carry out only on
+        Fridays. I will be back on more than a few Thursday afternoons.
+
+
+        *Edit to add they have some of my favourite chopsticks ever for a dine
+        in place.
+      languageCode: en
+    authorAttribution:
+      displayName: Elizabeth Dunbar
+      uri: https://www.google.com/maps/contrib/116286291547221211979/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjU-I6d7eUD6QXdwtsXa-3OjpzAqQLDgtOPicWYnnBBaUidk8eKj=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-03-10T01:44:09.269684Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUM5NjhQbmFnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUM5NjhQbmFnEAE!2m1!1s0x549015805f7b0001:0xf755e27849a45f0e
+  - name: >-
+      places/ChIJAQB7X4AVkFQRDl-kSXjiVfc/reviews/ChdDSUhNMG9nS0VJQ0FnSURmeEtmcjFBRRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        My wife and I have eaten here nearly every week since they opened. The
+        space can only accommodate a few folks as they are mainly a takeaway
+        restaurant. We have never had a bad experience and this sushi restaurant
+        is hopefully a staple of the Magnolia neighborhood for years to come.
+      languageCode: en
+    originalText:
+      text: >-
+        My wife and I have eaten here nearly every week since they opened. The
+        space can only accommodate a few folks as they are mainly a takeaway
+        restaurant. We have never had a bad experience and this sushi restaurant
+        is hopefully a staple of the Magnolia neighborhood for years to come.
+      languageCode: en
+    authorAttribution:
+      displayName: Cassie Andrews
+      uri: https://www.google.com/maps/contrib/113506314290151381281/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVFdnVj0zYxQFnDpABdvt8Rk0Xg0Wa2ugUIxdiBX58fkrKRygVviQ=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-01-04T00:44:09.319589Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURmeEtmcjFBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURmeEtmcjFBRRAB!2m1!1s0x549015805f7b0001:0xf755e27849a45f0e
+  - name: >-
+      places/ChIJAQB7X4AVkFQRDl-kSXjiVfc/reviews/ChdDSUhNMG9nS0VJQ0FnSUN3cDZEWmlnRRAB
+    relativePublishTimeDescription: 7 years ago
+    rating: 5
+    text:
+      text: >-
+        Beautiful decor, small inside but great for two (or groups up to 4-5),
+        and easy street parking. The fish was fresh, the staff were friendly,
+        and we both agreed the parmesan panko crusted scallops were easily the
+        BEST we've ever had. We enjoyed everything we ordered and will
+        definitely be adding this to our list of favorite, must-visit sushi
+        restaurants in Seattle!
+      languageCode: en
+    originalText:
+      text: >-
+        Beautiful decor, small inside but great for two (or groups up to 4-5),
+        and easy street parking. The fish was fresh, the staff were friendly,
+        and we both agreed the parmesan panko crusted scallops were easily the
+        BEST we've ever had. We enjoyed everything we ordered and will
+        definitely be adding this to our list of favorite, must-visit sushi
+        restaurants in Seattle!
+      languageCode: en
+    authorAttribution:
+      displayName: Susie
+      uri: https://www.google.com/maps/contrib/114659371182957624761/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjX6IR1nWVKiRQeVijmlBl1Zc-3cgjo-aOCacadeuMHjvFNDVj_C0A=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2018-03-25T18:55:33.847Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN3cDZEWmlnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN3cDZEWmlnRRAB!2m1!1s0x549015805f7b0001:0xf755e27849a45f0e
+review_summary: >-
+  What Visitors Love About Yume Sushi$$$Folks often rave about the tasty sushi
+  and fried dishes here, noting how the flavors hit the spot with their perfect
+  balance of crispiness and freshness, making it a go-to for satisfying meals.
+  Many appreciate the friendly service and cozy setup, which adds to the overall
+  chill experience, especially for takeout on busy nights. It's frequently
+  mentioned as great value for the quality, with portions that feel just right
+  for a casual dinner or lunch grab. While the space is small and can get lively
+  during peak times, visitors find it worth the wait for the reliable taste and
+  atmosphere. Overall, if you're hunting for solid sushi restaurants near you,
+  this place consistently delivers a positive vibe that leaves people eager to
+  return for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
+delivery: false
+dine_in: true
 good_for_children: null
 good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
+good_for_sports: false
+live_music: false
+menu_for_children: false
 outdoor_seating: null
 reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Quaint, all-ages neighborhood space for sushi, craft cocktails & other
+  Japanese specialties.
 
 ---

@@ -5,4 +5,5 @@ permalink: /tennessee/johnson-city/
 stateAbbr: TN
 stateName: Tennessee
 cityName: Johnson City
+
 ---

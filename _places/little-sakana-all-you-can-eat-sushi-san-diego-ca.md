@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Little Sakana All You Can Eat Sushi"
+title: Little Sakana All You Can Eat Sushi
 permalink: /california/san-diego/little-sakana-all-you-can-eat-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: San Diego
 seo:
-  name: "Little Sakana All You Can Eat Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.littlesakana.com/
-description: "Airy outpost offering a la carte & all-you-can-eat options for Japanese fare, plus sake & cocktails. Little Sakana All You Can Eat Sushi serves delicious sushi in San Diego, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJsVfULDT524ARZEiOpgSLZBA
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $30 &ndash; $50
 rating: '4.5'
 rating_count: 0
 website: https://www.littlesakana.com/
+description: >-
+  Discover Little Sakana in San Diego$$$Little Sakana All You Can Eat Sushi in
+  San Diego, CA, offers a laid-back spot for enjoying fresh Japanese cuisine
+  that highlights its all-you-can-eat appeal. This sushi restaurant features a
+  wide array of rolls and dishes prepared with high-quality ingredients,
+  complemented by a selection of beverages like sake and wine to enhance the
+  meal. With accessible options such as wheelchair-friendly seating and parking,
+  it's designed for a comfortable dining experience that caters to various
+  needs. Whether you're searching for top sushi spots nearby or craving
+  authentic Japanese flavors, this location delivers a satisfying blend of
+  variety and value that keeps locals returning.
+generative_summary: >-
+  Discover Little Sakana in San Diego$$$Little Sakana All You Can Eat Sushi in
+  San Diego, CA, offers a laid-back spot for enjoying fresh Japanese cuisine
+  that highlights its all-you-can-eat appeal. This sushi restaurant features a
+  wide array of rolls and dishes prepared with high-quality ingredients,
+  complemented by a selection of beverages like sake and wine to enhance the
+  meal. With accessible options such as wheelchair-friendly seating and parking,
+  it's designed for a comfortable dining experience that caters to various
+  needs. Whether you're searching for top sushi spots nearby or craving
+  authentic Japanese flavors, this location delivers a satisfying blend of
+  variety and value that keeps locals returning.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJsVfULDT524ARZEiOpgSLZBA/reviews/ChdDSUhNMG9nS0VJQ0FnTUNRb2Q2UWlRRRAB
@@ -540,6 +561,16 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQzcHYtZDB3RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQzcHYtZDB3RRAB!2m1!1s0x80dbf9342cd457b1:0x10648b04a68e4864
+review_summary: >-
+  What Customers Are Saying$$$Folks are buzzing about the fresh and flavorful
+  sushi at this spot, with plenty of options that make the all-you-can-eat menu
+  a real standout for lunch or dinner. Reviewers highlight the quick service and
+  welcoming vibe, noting that it's worth any wait for the quality and variety on
+  offer. Many appreciate how the dishes balance traditional tastes with creative
+  twists, creating a fun atmosphere for groups or solo diners. Overall, it's
+  praised as a solid choice for anyone seeking reliable Japanese eats, helping
+  it earn high marks among sushi lovers in the area.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -572,8 +603,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Airy outpost offering a la carte & all-you-can-eat options for Japanese fare,
   plus sake & cocktails.
 

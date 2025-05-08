@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "East Sushi Restaurant"
+title: East Sushi Restaurant
 permalink: /new-jersey/ewing-township/east-sushi-restaurant.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Ewing Township
 seo:
-  name: "East Sushi Restaurant"
-  type: Restaurant
-  links: null
-description: "East Sushi Restaurant serves delicious sushi in Ewing Township, New Jersey. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.eastsushicuisine.com/
 place_id: ChIJH1O4EudXwYkRAB8qaHXa1Fs
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c157e712b8531f:0x5bd4da75682a1f00!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:30 PM'
+    - 'Tuesday: 11:00 AM – 9:30 PM'
+    - 'Wednesday: 11:00 AM – 9:30 PM'
+    - 'Thursday: 11:00 AM – 9:30 PM'
+    - 'Friday: 11:00 AM – 10:00 PM'
+    - 'Saturday: 11:00 AM – 10:00 PM'
+    - 'Sunday: 11:00 AM – 9:30 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,48 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (609) 771-4499
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.3'
+rating_count: 485
+website: https://www.eastsushicuisine.com/
+description: >-
+  About East Sushi Restaurant in Ewing Township, NJ$$$East Sushi Restaurant in
+  Ewing Township, NJ, stands out as a welcoming Japanese dining spot that
+  emphasizes fresh sushi and traditional flavors. This relaxed eatery offers an
+  array of bento boxes and other familiar Asian dishes, making it a go-to choice
+  for those seeking quality sushi options nearby. With its accessible features
+  like wheelchair-friendly parking and entrances, it ensures a comfortable
+  experience for all visitors. The restaurant maintains a moderate price range,
+  providing great value for authentic Japanese fare that appeals to sushi
+  enthusiasts. Whether you're exploring top sushi spots in the area, East Sushi
+  delivers a straightforward yet enjoyable meal in a casual atmosphere.
+generative_summary: >-
+  About East Sushi Restaurant in Ewing Township, NJ$$$East Sushi Restaurant in
+  Ewing Township, NJ, stands out as a welcoming Japanese dining spot that
+  emphasizes fresh sushi and traditional flavors. This relaxed eatery offers an
+  array of bento boxes and other familiar Asian dishes, making it a go-to choice
+  for those seeking quality sushi options nearby. With its accessible features
+  like wheelchair-friendly parking and entrances, it ensures a comfortable
+  experience for all visitors. The restaurant maintains a moderate price range,
+  providing great value for authentic Japanese fare that appeals to sushi
+  enthusiasts. Whether you're exploring top sushi spots in the area, East Sushi
+  delivers a straightforward yet enjoyable meal in a casual atmosphere.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback on East Sushi$$$Folks who visit East Sushi often highlight
+  the fresh ingredients and tasty rolls as standout features, giving it solid
+  praise for everyday dining vibes. With an average rating around 4.3 stars,
+  many appreciate the reliable service and variety of options that keep things
+  feeling approachable and satisfying. Some mention the bento boxes as a hit for
+  quick, flavorful meals, while others note it's a solid pick for groups looking
+  for affordable Japanese eats. Overall, it's clear that sushi lovers in the
+  area enjoy the consistent quality, even if a few suggest it might get busy
+  during peak times. If you're on the hunt for nearby sushi restaurants, this
+  spot tends to deliver a positive experience that keeps customers coming back.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +309,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Tsuki Boba & More"
+title: Tsuki Boba & More
 permalink: /florida/tallahassee/tsuki-boba-more.html
 stateAbbr: FL
 stateName: Florida
 cityName: Tallahassee
 seo:
-  name: "Tsuki Boba & More"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Tsuki Boba & More serves delicious sushi in Tallahassee, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJse5j9qRf7IgRE3tRNmDHsTc
 photos:
   - name: >-
@@ -183,7 +181,36 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Tsuki Boba & More in Tallahassee, FL$$$Tsuki Boba & More in
+  Tallahassee, FL, offers a cozy retreat for those seeking refreshing beverages
+  and light snacks in a laid-back setting. Located conveniently with accessible
+  parking and entrances, this spot makes it simple for anyone to drop in and
+  unwind. The focus on flavorful boba tea and other tasty options creates a
+  vibrant atmosphere perfect for casual visits. Photos from visitors showcase a
+  colorful selection of drinks that add a fun twist to your day, making it an
+  ideal choice for a quick escape.
+generative_summary: >-
+  Discover Tsuki Boba & More in Tallahassee, FL$$$Tsuki Boba & More in
+  Tallahassee, FL, offers a cozy retreat for those seeking refreshing beverages
+  and light snacks in a laid-back setting. Located conveniently with accessible
+  parking and entrances, this spot makes it simple for anyone to drop in and
+  unwind. The focus on flavorful boba tea and other tasty options creates a
+  vibrant atmosphere perfect for casual visits. Photos from visitors showcase a
+  colorful selection of drinks that add a fun twist to your day, making it an
+  ideal choice for a quick escape.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback on Tsuki Boba & More$$$Folks chatting about this spot often
+  highlight the tasty boba drinks and easygoing vibe that make it a solid
+  hangout choice. Many appreciate the variety of flavors and refreshing options
+  that hit the spot for a casual treat. It's frequently mentioned as a
+  convenient go-to for locals looking for something light and enjoyable nearby.
+  While experiences vary, the overall buzz leans positive, with people noting
+  it's a welcoming place for a simple outing. If you're in the mood for boba tea
+  near Tallahassee, it seems like a reliable pick based on shared sentiments.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -209,7 +236,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

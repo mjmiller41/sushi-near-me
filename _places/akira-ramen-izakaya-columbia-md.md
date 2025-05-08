@@ -1,15 +1,14 @@
 ---
 layout: place
-title: "Akira Ramen & Izakaya"
+title: Akira Ramen & Izakaya
 permalink: /maryland/columbia/akira-ramen-izakaya.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Columbia
 seo:
-  name: "Akira Ramen & Izakaya"
-  type: Restaurant
-  links: null
-description: "Akira Ramen & Izakaya serves delicious sushi in Columbia, Maryland. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: >-
+    https://www.akiraramenizakaya.com/?sid=562315587225759744&utm_source=googlemap&utm_medium=click&utm_campaign=orderreferral
 place_id: ChIJRaYEZnPft4kRyhXAaXZGBL0
 photos:
   - name: >-
@@ -170,8 +169,113 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89b7df736604a645:0xbd04467669c015ca!10e5
 primary_type: Ramen Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 15
+        minute: 0
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 15
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:30 AM – 3:00 PM, 5:00 – 10:00 PM'
+    - 'Tuesday: 11:30 AM – 3:00 PM, 5:00 – 10:00 PM'
+    - 'Wednesday: 11:30 AM – 3:00 PM, 5:00 – 10:00 PM'
+    - 'Thursday: 11:30 AM – 3:00 PM, 5:00 – 10:00 PM'
+    - 'Friday: 11:30 AM – 3:00 PM, 5:00 – 10:00 PM'
+    - 'Saturday: 11:30 AM – 10:00 PM'
+    - 'Sunday: 11:30 AM – 10:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +283,51 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (410) 881-9066
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.3'
+rating_count: 542
+website: >-
+  https://www.akiraramenizakaya.com/?sid=562315587225759744&utm_source=googlemap&utm_medium=click&utm_campaign=orderreferral
+description: >-
+  Discover Akira Ramen & Izakaya in Columbia, MD$$$Akira Ramen & Izakaya in
+  Columbia, Maryland, brings authentic Japanese flavors to life with a menu
+  highlighting fresh ramen and sushi options in a relaxed, inviting environment.
+  This spot stands out for its accessible features, including
+  wheelchair-friendly parking, entrances, and seating, making it easy for
+  everyone to enjoy a meal. Diners can savor a variety of Japanese dishes that
+  capture the essence of traditional cuisine, paired with a casual vibe perfect
+  for casual outings or quick bites. The restaurant operates with convenient
+  hours, including evenings and weekends, ideal for those seeking top-rated
+  sushi places nearby. Its moderate pricing adds to the appeal, offering great
+  value for flavorful meals that evoke the spirit of Japanese dining.
+generative_summary: >-
+  Discover Akira Ramen & Izakaya in Columbia, MD$$$Akira Ramen & Izakaya in
+  Columbia, Maryland, brings authentic Japanese flavors to life with a menu
+  highlighting fresh ramen and sushi options in a relaxed, inviting environment.
+  This spot stands out for its accessible features, including
+  wheelchair-friendly parking, entrances, and seating, making it easy for
+  everyone to enjoy a meal. Diners can savor a variety of Japanese dishes that
+  capture the essence of traditional cuisine, paired with a casual vibe perfect
+  for casual outings or quick bites. The restaurant operates with convenient
+  hours, including evenings and weekends, ideal for those seeking top-rated
+  sushi places nearby. Its moderate pricing adds to the appeal, offering great
+  value for flavorful meals that evoke the spirit of Japanese dining.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Buzzing About$$$Visitors often rave about the tasty ramen
+  and sushi at this spot, with appetizers like dumplings stealing the show for
+  their flavorful twists. Folks appreciate the speedy service and welcoming
+  staff that keep things lively without overwhelming the experience, making it a
+  go-to for casual meals. The prices are seen as fair, providing solid bang for
+  your buck on fresh Japanese fare that's perfect for groups or solo diners.
+  While some note that parking can be a bit tricky during peak times, it doesn't
+  overshadow the overall enjoyable atmosphere. Overall, it's a solid choice for
+  anyone hunting for reliable sushi restaurants nearby, with the consensus
+  leaning toward repeat visits for the consistent quality and fun vibe.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +353,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

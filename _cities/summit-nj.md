@@ -5,4 +5,5 @@ permalink: /new-jersey/summit/
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Summit
+
 ---

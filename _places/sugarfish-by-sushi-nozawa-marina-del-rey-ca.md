@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "SUGARFISH by sushi nozawa"
+title: SUGARFISH by sushi nozawa
 permalink: /california/marina-del-rey/sugarfish-by-sushi-nozawa.html
 stateAbbr: CA
 stateName: California
 cityName: Marina Del Rey
 seo:
-  name: "SUGARFISH by sushi nozawa"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "SUGARFISH by sushi nozawa serves delicious sushi in Marina Del Rey, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJoQYoin-6woARD9eSq3OWN8w
 photos:
   - name: >-
@@ -185,7 +183,49 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover SUGARFISH in Marina Del Rey, CA$$$SUGARFISH by sushi nozawa in Marina
+  Del Rey, CA, stands out as a premier spot for fresh Japanese cuisine, blending
+  simplicity with exceptional flavors that appeal to sushi enthusiasts. This
+  inviting restaurant offers a variety of tasting menus and a la carte
+  selections, allowing diners to explore high-quality fish and creative dishes
+  at their own pace. Complementing the meal are thoughtfully curated options
+  like beer, wine, and sake, making it an ideal choice for those seeking
+  authentic sushi experiences in a welcoming atmosphere. The venue also
+  prioritizes accessibility, ensuring a comfortable visit for all guests with
+  features like wheelchair-friendly entrances and seating. Whether you're
+  looking for top-rated sushi spots near the coast, this location delivers a
+  refined yet approachable dining vibe that captures the essence of coastal
+  California.
+generative_summary: >-
+  Discover SUGARFISH in Marina Del Rey, CA$$$SUGARFISH by sushi nozawa in Marina
+  Del Rey, CA, stands out as a premier spot for fresh Japanese cuisine, blending
+  simplicity with exceptional flavors that appeal to sushi enthusiasts. This
+  inviting restaurant offers a variety of tasting menus and a la carte
+  selections, allowing diners to explore high-quality fish and creative dishes
+  at their own pace. Complementing the meal are thoughtfully curated options
+  like beer, wine, and sake, making it an ideal choice for those seeking
+  authentic sushi experiences in a welcoming atmosphere. The venue also
+  prioritizes accessibility, ensuring a comfortable visit for all guests with
+  features like wheelchair-friendly entrances and seating. Whether you're
+  looking for top-rated sushi spots near the coast, this location delivers a
+  refined yet approachable dining vibe that captures the essence of coastal
+  California.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Diners on SUGARFISH$$$Folks who visit SUGARFISH often rave about
+  the consistently fresh and well-prepared sushi that keeps things
+  straightforward and delicious without any fuss. Many appreciate how the menu
+  hits the mark for both quick bites and more involved meals, with highlights on
+  the quality ingredients that make every visit feel special. It's clear that
+  the service tends to be friendly and efficient, helping to create a relaxed
+  environment that's perfect for casual outings or sharing with friends. While
+  some mention portions could vary, the overall consensus leans positive,
+  praising the spot as a go-to for reliable Japanese flavors in the area. If
+  you're hunting for great sushi places nearby, this one generally delivers a
+  solid, enjoyable experience that leaves people coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +251,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

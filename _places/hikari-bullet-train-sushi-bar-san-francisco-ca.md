@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Hikari Bullet Train Sushi & Bar"
+title: Hikari Bullet Train Sushi & Bar
 permalink: /california/san-francisco/hikari-bullet-train-sushi-bar.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
 seo:
-  name: "Hikari Bullet Train Sushi & Bar"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Modern Japanese & sushi destination with booths, counter seats & train-style conveyor delivery. Hikari Bullet Train Sushi & Bar serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJoeSh17iAhYARoPm11rjW2nE
 photos:
   - name: >-
@@ -184,6 +182,33 @@ price_range: null
 rating: '4.4'
 rating_count: 0
 website: null
+description: >-
+  Discover Hikari Bullet Train Sushi & Bar in San Francisco$$$In the heart of
+  San Francisco, CA, Hikari Bullet Train Sushi & Bar stands out as a modern
+  Japanese dining spot that blends innovation with tradition. This laid-back
+  venue features a unique conveyor belt system that delivers fresh sushi
+  selections right to your table, creating an engaging and efficient dining
+  experience. With its accessible seating and welcoming atmosphere, it's an
+  ideal choice for those seeking top-rated sushi restaurants in a vibrant
+  neighborhood. The menu highlights a variety of flavorful dishes, including
+  creative rolls and bento options, all crafted with high-quality ingredients.
+  Whether you're exploring Japanese places near me or craving authentic flavors,
+  this spot offers a fun twist on classic cuisine that appeals to both locals
+  and visitors.
+generative_summary: >-
+  Discover Hikari Bullet Train Sushi & Bar in San Francisco$$$In the heart of
+  San Francisco, CA, Hikari Bullet Train Sushi & Bar stands out as a modern
+  Japanese dining spot that blends innovation with tradition. This laid-back
+  venue features a unique conveyor belt system that delivers fresh sushi
+  selections right to your table, creating an engaging and efficient dining
+  experience. With its accessible seating and welcoming atmosphere, it's an
+  ideal choice for those seeking top-rated sushi restaurants in a vibrant
+  neighborhood. The menu highlights a variety of flavorful dishes, including
+  creative rolls and bento options, all crafted with high-quality ingredients.
+  Whether you're exploring Japanese places near me or craving authentic flavors,
+  this spot offers a fun twist on classic cuisine that appeals to both locals
+  and visitors.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJoeSh17iAhYARoPm11rjW2nE/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3aXZlZlN3EAE
@@ -329,6 +354,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURnNFBmc0h3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURnNFBmc0h3EAE!2m1!1s0x808580b8d7a1e4a1:0x71dad6b8d6b5f9a0
+review_summary: >-
+  What Visitors Are Saying About This Sushi Favorite$$$Folks rave about the
+  fresh and tasty sushi at this casual eatery, often highlighting the creative
+  rolls and generous portions that make every bite worthwhile. Many appreciate
+  the fun conveyor belt delivery system, which adds a playful element to meals
+  and keeps the energy light and enjoyable. Reviewers frequently note the
+  friendly service and clean environment, along with solid options for
+  vegetarians and groups looking for a relaxed vibe. While some mention that
+  prices lean toward the higher side, they agree it's a fair trade for the
+  quality and novelty you get at one of the best sushi spots near me. Overall,
+  it's a hit for anyone searching for reliable sushi restaurants that deliver
+  both flavor and a memorable experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidParkingLot: true
   freeStreetParking: true
@@ -362,8 +400,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Modern Japanese & sushi destination with booths, counter seats & train-style
   conveyor delivery.
 

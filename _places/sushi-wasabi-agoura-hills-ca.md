@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi & Wasabi"
+title: Sushi & Wasabi
 permalink: /california/agoura-hills/sushi-wasabi.html
 stateAbbr: CA
 stateName: California
 cityName: Agoura Hills
 seo:
-  name: "Sushi & Wasabi"
-  type: Restaurant
+  type: restaurant
   links: http://www.sushi-wasabi.com/
-description: "Sushi & Wasabi serves delicious sushi in Agoura Hills, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ5WcmwKQm6IARKMnjHihlGFk
 photos:
   - name: >-
@@ -169,7 +167,113 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80e826a4c02667e5:0x591865281ee3c928!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 16
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 14
+        minute: 30
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
     - 'Tuesday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
     - 'Wednesday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
@@ -177,14 +281,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 2:30 PM, 5:00 – 10:00 PM'
     - 'Saturday: 11:30 AM – 2:30 PM, 5:00 – 10:00 PM'
     - 'Sunday: 4:30 – 9:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
-    - 'Tuesday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
-    - 'Wednesday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
-    - 'Thursday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
-    - 'Friday: 11:30 AM – 2:30 PM, 5:00 – 10:00 PM'
-    - 'Saturday: 11:30 AM – 2:30 PM, 5:00 – 10:00 PM'
-    - 'Sunday: 4:30 – 9:00 PM'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,35 +293,281 @@ phone: (818) 889-9334
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.6'
-rating_count: 0
+rating_count: 236
 website: http://www.sushi-wasabi.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Sushi & Wasabi in Agoura Hills, CA$$$Sushi & Wasabi in Agoura Hills,
+  CA, offers a cozy and casual dining experience perfect for enjoying fresh
+  Japanese cuisine in a welcoming setting. This spot features a variety of sushi
+  rolls and traditional fare, making it a go-to choice for anyone seeking
+  quality options close to home. With thoughtful accessibility features like
+  wheelchair-friendly parking and seating, it's designed to accommodate all
+  guests comfortably. The restaurant's location in a convenient area adds to its
+  appeal, ideal for those exploring local sushi places or looking for a relaxed
+  meal after shopping. Expect a menu that highlights flavorful dishes, served in
+  an informal atmosphere that encourages repeat visits for both lunch and dinner
+  crowds.
+generative_summary: >-
+  Discover Sushi & Wasabi in Agoura Hills, CA$$$Sushi & Wasabi in Agoura Hills,
+  CA, offers a cozy and casual dining experience perfect for enjoying fresh
+  Japanese cuisine in a welcoming setting. This spot features a variety of sushi
+  rolls and traditional fare, making it a go-to choice for anyone seeking
+  quality options close to home. With thoughtful accessibility features like
+  wheelchair-friendly parking and seating, it's designed to accommodate all
+  guests comfortably. The restaurant's location in a convenient area adds to its
+  appeal, ideal for those exploring local sushi places or looking for a relaxed
+  meal after shopping. Expect a menu that highlights flavorful dishes, served in
+  an informal atmosphere that encourages repeat visits for both lunch and dinner
+  crowds.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ5WcmwKQm6IARKMnjHihlGFk/reviews/ChdDSUhNMG9nS0VJQ0FnSUR2NDZtdDFnRRAB
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        Recently I had a sushi birthday party at my house, and decided to try
+        this local sushi restaurant for this event. No regrets! Everything was
+        delicious, great presentation, the owners are super nice and friendly
+        people, even added edamame and some tempura to my order ☺️ delivered
+        right on time! Happily sharing a few of my pictures
+      languageCode: en
+    originalText:
+      text: >-
+        Recently I had a sushi birthday party at my house, and decided to try
+        this local sushi restaurant for this event. No regrets! Everything was
+        delicious, great presentation, the owners are super nice and friendly
+        people, even added edamame and some tempura to my order ☺️ delivered
+        right on time! Happily sharing a few of my pictures
+      languageCode: en
+    authorAttribution:
+      displayName: Natasha Kuperman
+      uri: https://www.google.com/maps/contrib/115418273604581863884/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXUrHOWW8h64Wk8cEL4Y6C3E_CqXfjyRuuYGgaxCbD6aT6AUPs=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-12-23T17:20:59.824294Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR2NDZtdDFnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR2NDZtdDFnRRAB!2m1!1s0x80e826a4c02667e5:0x591865281ee3c928
+  - name: >-
+      places/ChIJ5WcmwKQm6IARKMnjHihlGFk/reviews/ChZDSUhNMG9nS0VJQ0FnTURvMWZUa05REAE
+    relativePublishTimeDescription: in the last week
+    rating: 5
+    text:
+      text: >-
+        Not from the area im from the San Fernando Valley, been here twice in
+        three years.
+
+        The prices are average but the fish cut size is great, its not like
+        other places ive been to where its this same price But the cut is alot
+        smaller. Really, ive been eating Sushii since the early nineties (when
+        it wasn't trendy).
+
+        Sushii rolls are just bout the same as other places to me anyways.
+
+        When you visit, order small to get a feel for the price n size
+        proportion.
+
+        Too many places have been getting let by, by upping the price (i
+        understand) but giving you less.
+
+        The place isnt trendy, its small (not tiny), i would definitely come
+        here more often if i lived in area. I also tried the place bout a mile
+        away near mcdees n i definitely wouldn't return cause of the over price
+        And the small cut size.
+      languageCode: en
+    originalText:
+      text: >-
+        Not from the area im from the San Fernando Valley, been here twice in
+        three years.
+
+        The prices are average but the fish cut size is great, its not like
+        other places ive been to where its this same price But the cut is alot
+        smaller. Really, ive been eating Sushii since the early nineties (when
+        it wasn't trendy).
+
+        Sushii rolls are just bout the same as other places to me anyways.
+
+        When you visit, order small to get a feel for the price n size
+        proportion.
+
+        Too many places have been getting let by, by upping the price (i
+        understand) but giving you less.
+
+        The place isnt trendy, its small (not tiny), i would definitely come
+        here more often if i lived in area. I also tried the place bout a mile
+        away near mcdees n i definitely wouldn't return cause of the over price
+        And the small cut size.
+      languageCode: en
+    authorAttribution:
+      displayName: L A
+      uri: https://www.google.com/maps/contrib/114331527202500735650/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKgekoecaxPM__eYH8zia9Wy3559C6erBz-8FrbIzmfpSt5AQ=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-27T06:07:47.217360Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURvMWZUa05REAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURvMWZUa05REAE!2m1!1s0x80e826a4c02667e5:0x591865281ee3c928
+  - name: >-
+      places/ChIJ5WcmwKQm6IARKMnjHihlGFk/reviews/ChdDSUhNMG9nS0VJQ0FnSUNEbUpMUnVnRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        Absolutely wonderful place! Lots of parking, fast seating and service.
+        Very patient staff. Tried a variety of rolls and sushi, all were
+        amazing! Restaurant was very clean and organized. Our server gave us
+        complimentary green tea ice cream and it was great, flavorful and not
+        overwhelmingly sweet. Would come again!
+      languageCode: en
+    originalText:
+      text: >-
+        Absolutely wonderful place! Lots of parking, fast seating and service.
+        Very patient staff. Tried a variety of rolls and sushi, all were
+        amazing! Restaurant was very clean and organized. Our server gave us
+        complimentary green tea ice cream and it was great, flavorful and not
+        overwhelmingly sweet. Would come again!
+      languageCode: en
+    authorAttribution:
+      displayName: Helen Xu
+      uri: https://www.google.com/maps/contrib/114649986891894158438/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWJ2ZUImg2YgOmaS42kCzUZmUbeF29DExTQRD6KxnFNS7Ofa1I=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-03-24T03:06:12.434313Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNEbUpMUnVnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNEbUpMUnVnRRAB!2m1!1s0x80e826a4c02667e5:0x591865281ee3c928
+  - name: >-
+      places/ChIJ5WcmwKQm6IARKMnjHihlGFk/reviews/ChdDSUhNMG9nS0VJQ0FnTUNvMy03VzV3RRAB
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        Stellar sushi. I’ve tried essentially every sushi place in the area and
+        this is my favorite. They have delightful specialty rolls - the lemon
+        salmon is my favorite, uniquely well executed. I don’t live around here
+        but I come every time I’m in the area. Service is always attentive.
+      languageCode: en
+    originalText:
+      text: >-
+        Stellar sushi. I’ve tried essentially every sushi place in the area and
+        this is my favorite. They have delightful specialty rolls - the lemon
+        salmon is my favorite, uniquely well executed. I don’t live around here
+        but I come every time I’m in the area. Service is always attentive.
+      languageCode: en
+    authorAttribution:
+      displayName: Mike Ambrose
+      uri: https://www.google.com/maps/contrib/103865004799694653986/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWY9G-Cqo38ZwuYf0vVTnW2wMTfQy_zkIEM6CPT7QVez99b6RTp=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-21T02:12:03.747125Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNvMy03VzV3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNvMy03VzV3RRAB!2m1!1s0x80e826a4c02667e5:0x591865281ee3c928
+  - name: >-
+      places/ChIJ5WcmwKQm6IARKMnjHihlGFk/reviews/ChZDSUhNMG9nS0VJQ0FnSUNldW96NEpnEAE
+    relativePublishTimeDescription: 2 years ago
+    rating: 4
+    text:
+      text: >-
+        A great sushi spot in Agoura Hills to try.  Solid location and the menu
+        items are delicious.
+
+
+        I started off with their soft shell crab & I thought it had too much
+        tempura outer shell before getting to the soft shell crab. Still descent
+        but not what I’m used to.
+
+
+        The sushi burrito is solid and delicious, along with their blue crab
+        hand roll. The uni sushi was definitely fresh and great tasting too.
+
+
+        I’d definitely come back to try more of the menu items. Solid spot to
+        satisfy your sushi cravings.
+      languageCode: en
+    originalText:
+      text: >-
+        A great sushi spot in Agoura Hills to try.  Solid location and the menu
+        items are delicious.
+
+
+        I started off with their soft shell crab & I thought it had too much
+        tempura outer shell before getting to the soft shell crab. Still descent
+        but not what I’m used to.
+
+
+        The sushi burrito is solid and delicious, along with their blue crab
+        hand roll. The uni sushi was definitely fresh and great tasting too.
+
+
+        I’d definitely come back to try more of the menu items. Solid spot to
+        satisfy your sushi cravings.
+      languageCode: en
+    authorAttribution:
+      displayName: Rodrigo “funning”
+      uri: https://www.google.com/maps/contrib/117621384126831676862/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUsZ1hyyMfOFupdHf08FE308CAjnXeLxXfFyQQWlges6bS2NaDD9A=s128-c0x00000000-cc-rp-mo-ba7
+    publishTime: '2022-09-12T03:17:17.295781Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNldW96NEpnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNldW96NEpnEAE!2m1!1s0x80e826a4c02667e5:0x591865281ee3c928
+review_summary: >-
+  What Customers Love About This Local Sushi Spot$$$Folks around here rave about
+  the fresh and generously portioned sushi at this spot, with specialty rolls
+  standing out as a real highlight for their unique flavors and quality
+  ingredients. Many appreciate the friendly service and clean, cozy vibe that
+  makes dining out feel easy and enjoyable, often mentioning it as a solid pick
+  for casual get-togethers or quick bites. While some note that certain items
+  like the soft shell crab might not hit the mark for everyone, the overall
+  consensus is that the value is worth it, especially compared to other nearby
+  options. Reviewers frequently come back for favorites like the lemon salmon
+  roll, praising how well it's prepared and how attentive the staff is to
+  details. All in all, it's a dependable choice for anyone hunting for top-rated
+  sushi nearby, delivering a consistently positive experience that keeps diners
+  coming back.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
+delivery: true
+dine_in: true
+good_for_children: true
 good_for_groups: null
-good_for_sports: null
+good_for_sports: false
 live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+menu_for_children: false
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
 serves_breakfast: null
 serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
+serves_cocktails: false
+serves_coffee: false
 serves_dinner: null
-serves_dessert: null
+serves_dessert: true
 serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Classic sushi rolls & Japanese entrees round out the menu at this popular,
+  informal establishment.
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Noodle/Bar"
+title: Noodle/Bar
 permalink: /washington/seattle/noodle-bar.html
 stateAbbr: WA
 stateName: Washington
 cityName: Seattle
 seo:
-  name: "Noodle/Bar"
-  type: Restaurant
+  type: restaurant
   links: http://noodlebarseattle.com/
-description: "Noodle/Bar serves delicious sushi in Seattle, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJvQquFugVkFQRwl1XPhWCkR4
 photos:
   - name: >-
@@ -169,7 +167,89 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x549015e816ae0abd:0x1e9182153e575dc2!10e5
 primary_type: Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 14
+        minute: 0
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
     - 'Tuesday: Closed'
     - 'Wednesday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
@@ -177,28 +257,203 @@ opening_hours:
     - 'Friday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
     - 'Saturday: 11:30 AM – 9:00 PM'
     - 'Sunday: 11:30 AM – 9:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
-    - 'Tuesday: Closed'
-    - 'Wednesday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
-    - 'Thursday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
-    - 'Friday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
-    - 'Saturday: 11:30 AM – 9:00 PM'
-    - 'Sunday: 11:30 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 11
+          minute: 30
+        close:
+          day: 0
+          hour: 21
+          minute: 0
+      - open:
+          day: 1
+          hour: 11
+          minute: 30
+        close:
+          day: 1
+          hour: 14
+          minute: 0
+      - open:
+          day: 1
+          hour: 17
+          minute: 0
+        close:
+          day: 1
+          hour: 21
+          minute: 0
+      - open:
+          day: 3
+          hour: 11
+          minute: 30
+        close:
+          day: 3
+          hour: 14
+          minute: 0
+      - open:
+          day: 3
+          hour: 17
+          minute: 0
+        close:
+          day: 3
+          hour: 21
+          minute: 0
+      - open:
+          day: 4
+          hour: 11
+          minute: 30
+        close:
+          day: 4
+          hour: 14
+          minute: 0
+      - open:
+          day: 4
+          hour: 17
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 0
+      - open:
+          day: 5
+          hour: 11
+          minute: 30
+        close:
+          day: 5
+          hour: 14
+          minute: 0
+      - open:
+          day: 5
+          hour: 17
+          minute: 0
+        close:
+          day: 5
+          hour: 21
+          minute: 0
+      - open:
+          day: 6
+          hour: 11
+          minute: 30
+        close:
+          day: 6
+          hour: 21
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
+      - 'Tuesday: Closed'
+      - 'Wednesday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
+      - 'Thursday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
+      - 'Friday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
+      - 'Saturday: 11:30 AM – 9:00 PM'
+      - 'Sunday: 11:30 AM – 9:00 PM'
+    secondaryHoursType: TAKEOUT
+    nextCloseTime: '2025-05-04T04:00:00Z'
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 11
+          minute: 30
+        close:
+          day: 0
+          hour: 21
+          minute: 0
+      - open:
+          day: 1
+          hour: 11
+          minute: 30
+        close:
+          day: 1
+          hour: 14
+          minute: 0
+      - open:
+          day: 3
+          hour: 11
+          minute: 30
+        close:
+          day: 3
+          hour: 14
+          minute: 0
+      - open:
+          day: 4
+          hour: 11
+          minute: 30
+        close:
+          day: 4
+          hour: 14
+          minute: 0
+      - open:
+          day: 5
+          hour: 11
+          minute: 30
+        close:
+          day: 5
+          hour: 14
+          minute: 0
+      - open:
+          day: 6
+          hour: 11
+          minute: 30
+        close:
+          day: 6
+          hour: 21
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 11:30 AM – 2:00 PM'
+      - 'Tuesday: Closed'
+      - 'Wednesday: 11:30 AM – 2:00 PM'
+      - 'Thursday: 11:30 AM – 2:00 PM'
+      - 'Friday: 11:30 AM – 2:00 PM'
+      - 'Saturday: 11:30 AM – 9:00 PM'
+      - 'Sunday: 11:30 AM – 9:00 PM'
+    secondaryHoursType: LUNCH
+    nextCloseTime: '2025-05-04T04:00:00Z'
 phone: (206) 424-5800
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
-rating: '4.4'
-rating_count: 0
+rating: '4.5'
+rating_count: 148
 website: http://noodlebarseattle.com/
+description: >-
+  About Noodle/Bar in Seattle$$$Noodle/Bar in Seattle, WA, offers a relaxed
+  atmosphere perfect for enjoying fresh, housemade noodles and flavorful
+  Japanese-inspired dishes. This spot stands out with its selection of rice
+  bowls, dumplings, and creative cocktails, making it a go-to for casual dining
+  in the vibrant South Lake Union area. The restaurant prioritizes
+  accessibility, featuring wheelchair-friendly entrances, restrooms, and seating
+  to ensure everyone can enjoy a comfortable meal. With its moderate pricing and
+  welcoming vibe, it's an ideal choice for those seeking everyday eats that
+  combine simplicity and taste. Operating hours cater to both lunch and dinner
+  crowds, adding to its appeal for locals and visitors alike.
+generative_summary: >-
+  About Noodle/Bar in Seattle$$$Noodle/Bar in Seattle, WA, offers a relaxed
+  atmosphere perfect for enjoying fresh, housemade noodles and flavorful
+  Japanese-inspired dishes. This spot stands out with its selection of rice
+  bowls, dumplings, and creative cocktails, making it a go-to for casual dining
+  in the vibrant South Lake Union area. The restaurant prioritizes
+  accessibility, featuring wheelchair-friendly entrances, restrooms, and seating
+  to ensure everyone can enjoy a comfortable meal. With its moderate pricing and
+  welcoming vibe, it's an ideal choice for those seeking everyday eats that
+  combine simplicity and taste. Operating hours cater to both lunch and dinner
+  crowds, adding to its appeal for locals and visitors alike.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback Highlights$$$Visitors to this spot often praise the
+  delicious housemade noodles and tasty sides, noting that meals here feel fresh
+  and satisfying without breaking the bank. Many appreciate the laid-back
+  setting and efficient service, which make for a pleasant experience whether
+  you're stopping by for a quick bite or a relaxed evening out. While some
+  mention occasional waits during peak times, the overall consensus is that the
+  quality of food and drinks more than makes up for it, earning high marks from
+  repeat diners. It's clear that folks enjoy the variety on offer, with comments
+  highlighting the flavorful options that keep them coming back. All in all, the
+  positive buzz around this place suggests it's a solid pick for anyone in the
+  mood for reliable, enjoyable meals in a welcoming environment.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -224,7 +479,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

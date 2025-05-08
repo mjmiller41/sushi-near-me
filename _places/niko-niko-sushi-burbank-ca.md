@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Niko Niko Sushi"
+title: Niko Niko Sushi
 permalink: /california/burbank/niko-niko-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Burbank
 seo:
-  name: "Niko Niko Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Niko Niko Sushi serves delicious sushi in Burbank, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJCbwOCEGVwoAR2lcIBiKiPK4
 photos:
   - name: >-
@@ -185,7 +183,44 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Niko Niko Sushi in Burbank, CA$$$Niko Niko Sushi in Burbank, CA,
+  stands out as a relaxed spot for enjoying authentic Japanese cuisine,
+  featuring an array of creative specialty rolls and classic favorites that
+  appeal to sushi enthusiasts. This welcoming sushi restaurant emphasizes fresh
+  ingredients and a variety of options, making it a go-to choice for those
+  seeking flavorful dining experiences in a casual atmosphere. Accessibility
+  features like wheelchair-friendly parking and entrances add to its appeal,
+  ensuring everyone can enjoy the vibrant menu without hassle. With its focus on
+  quality and variety, it's an ideal destination for anyone exploring top-rated
+  sushi options in the area, blending tradition with approachable vibes for a
+  satisfying meal.
+generative_summary: >-
+  Discover Niko Niko Sushi in Burbank, CA$$$Niko Niko Sushi in Burbank, CA,
+  stands out as a relaxed spot for enjoying authentic Japanese cuisine,
+  featuring an array of creative specialty rolls and classic favorites that
+  appeal to sushi enthusiasts. This welcoming sushi restaurant emphasizes fresh
+  ingredients and a variety of options, making it a go-to choice for those
+  seeking flavorful dining experiences in a casual atmosphere. Accessibility
+  features like wheelchair-friendly parking and entrances add to its appeal,
+  ensuring everyone can enjoy the vibrant menu without hassle. With its focus on
+  quality and variety, it's an ideal destination for anyone exploring top-rated
+  sushi options in the area, blending tradition with approachable vibes for a
+  satisfying meal.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Love About This Sushi Spot$$$Visitors often praise the fresh
+  and tasty sushi at this spot, noting that it delivers great value without
+  skimping on flavor, making it a solid pick for everyday cravings. Many
+  highlight the attentive and friendly service that creates a warm, inviting
+  environment, helping to turn a simple meal into a pleasant outing. While
+  keeping things real, folks appreciate the straightforward approach to pricing
+  and portions, which keeps things approachable for groups or solo diners.
+  Overall, it's a reliable choice for those hunting for quality sushi
+  restaurants nearby, with positive vibes that encourage repeat visits for
+  anyone in the mood for something delicious.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +246,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

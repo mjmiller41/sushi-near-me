@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yama Sushi & Sake Bar"
+title: Yama Sushi & Sake Bar
 permalink: /oregon/portland/yama-sushi-sake-bar.html
 stateAbbr: OR
 stateName: Oregon
 cityName: Portland
 seo:
-  name: "Yama Sushi & Sake Bar"
-  type: Restaurant
+  type: restaurant
   links: http://yamasushisakebar.com/
-description: "Yama Sushi & Sake Bar serves delicious sushi in Portland, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ6WQhRP4JlVQRstt_eSzefMM
 photos:
   - name: >-
@@ -170,7 +168,105 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x549509fe442164e9:0xc37cde2c797fdbb2!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 2:30 PM, 5:00 – 9:30 PM'
     - 'Tuesday: 11:30 AM – 2:30 PM, 5:00 – 9:30 PM'
     - 'Wednesday: 11:30 AM – 2:30 PM, 5:00 – 9:30 PM'
@@ -178,14 +274,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 2:30 PM, 5:00 – 9:30 PM'
     - 'Saturday: 11:30 AM – 10:00 PM'
     - 'Sunday: 11:30 AM – 10:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 2:30 PM, 5:00 – 9:30 PM'
-    - 'Tuesday: 11:30 AM – 2:30 PM, 5:00 – 9:30 PM'
-    - 'Wednesday: 11:30 AM – 2:30 PM, 5:00 – 9:30 PM'
-    - 'Thursday: 11:30 AM – 2:30 PM, 5:00 – 9:30 PM'
-    - 'Friday: 11:30 AM – 2:30 PM, 5:00 – 9:30 PM'
-    - 'Saturday: 11:30 AM – 10:00 PM'
-    - 'Sunday: 11:30 AM – 10:00 PM'
+  nextCloseTime: '2025-05-04T05:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +286,238 @@ phone: (503) 841-5463
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.5'
-rating_count: 0
+rating_count: 1124
 website: http://yamasushisakebar.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Yama Sushi & Sake Bar in Portland, OR$$$Nestled in the heart of
+  Portland, OR, Yama Sushi & Sake Bar stands out as a go-to spot for fresh
+  Japanese cuisine, offering an inviting atmosphere perfect for casual dining or
+  special gatherings. This stylish eatery specializes in creative sushi rolls
+  and traditional dishes, paired with a selection of sake and beer that enhance
+  the overall experience. With its easygoing vibe and focus on quality
+  ingredients, it's an ideal choice for those seeking authentic flavors in a
+  welcoming setting. The restaurant's accessibility features and extended hours
+  make it convenient for locals and visitors alike, ensuring everyone can enjoy
+  a satisfying meal in a relaxed environment.
+generative_summary: >-
+  Discover Yama Sushi & Sake Bar in Portland, OR$$$Nestled in the heart of
+  Portland, OR, Yama Sushi & Sake Bar stands out as a go-to spot for fresh
+  Japanese cuisine, offering an inviting atmosphere perfect for casual dining or
+  special gatherings. This stylish eatery specializes in creative sushi rolls
+  and traditional dishes, paired with a selection of sake and beer that enhance
+  the overall experience. With its easygoing vibe and focus on quality
+  ingredients, it's an ideal choice for those seeking authentic flavors in a
+  welcoming setting. The restaurant's accessibility features and extended hours
+  make it convenient for locals and visitors alike, ensuring everyone can enjoy
+  a satisfying meal in a relaxed environment.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ6WQhRP4JlVQRstt_eSzefMM/reviews/ChZDSUhNMG9nS0VJQ0FnTURBdHBiSVZ3EAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        Have been a loyal customer for years. I’ve gotten to know Kristi and she
+        is always so sweet and works extremely hard. This is a wonderful local
+        spot to stop in to treat yourself or enjoy a special occasion with loved
+        ones. The team here is so great and they always strive to make all
+        customers happy and have the best experience possible. The sushi is
+        always fantastic!! There is always consistency with quality. The warm
+        dishes are also always consistent with quality and flavor. You won’t be
+        disappointed
+      languageCode: en
+    originalText:
+      text: >-
+        Have been a loyal customer for years. I’ve gotten to know Kristi and she
+        is always so sweet and works extremely hard. This is a wonderful local
+        spot to stop in to treat yourself or enjoy a special occasion with loved
+        ones. The team here is so great and they always strive to make all
+        customers happy and have the best experience possible. The sushi is
+        always fantastic!! There is always consistency with quality. The warm
+        dishes are also always consistent with quality and flavor. You won’t be
+        disappointed
+      languageCode: en
+    authorAttribution:
+      displayName: Jael
+      uri: https://www.google.com/maps/contrib/109683492124586074776/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjX6_afMyGFKZZ2kXekSblVglHk7nCrIcJbg1Uen2AaueedyFnI=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-02-08T21:26:12.309500Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURBdHBiSVZ3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURBdHBiSVZ3EAE!2m1!1s0x549509fe442164e9:0xc37cde2c797fdbb2
+  - name: >-
+      places/ChIJ6WQhRP4JlVQRstt_eSzefMM/reviews/ChdDSUhNMG9nS0VJQ0FnSURWbDVYZjFnRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        A friend asked to meet there; I usually only eat sushi at Bamboo (I
+        know!) but thought I'd give it a shot. It was lovely! I had the fish
+        soup and my partner had the sizzling beef. My mom has sizzling veggies.
+        I wish I hadn't been full at the end because I really wanted to try the
+        foie gras 🤤 It's a great place if some of you want sushi and some want
+        cooked food.
+      languageCode: en
+    originalText:
+      text: >-
+        A friend asked to meet there; I usually only eat sushi at Bamboo (I
+        know!) but thought I'd give it a shot. It was lovely! I had the fish
+        soup and my partner had the sizzling beef. My mom has sizzling veggies.
+        I wish I hadn't been full at the end because I really wanted to try the
+        foie gras 🤤 It's a great place if some of you want sushi and some want
+        cooked food.
+      languageCode: en
+    authorAttribution:
+      displayName: Joanna Steven
+      uri: https://www.google.com/maps/contrib/116118977115106077037/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXSY1mP8I7_ksSj46pEscFpPKedWzSI-P57yO9xCexLy6RVVeOL1w=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2023-12-18T02:14:12.554882Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURWbDVYZjFnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURWbDVYZjFnRRAB!2m1!1s0x549509fe442164e9:0xc37cde2c797fdbb2
+  - name: >-
+      places/ChIJ6WQhRP4JlVQRstt_eSzefMM/reviews/ChZDSUhNMG9nS0VJQ0FnTUNvNjVHTUNBEAE
+    relativePublishTimeDescription: a week ago
+    rating: 3
+    text:
+      text: >-
+        I only tried a take out and i picked it up myself so it was freshly
+        made. I had eel roll, Philadelphia and salmon nigiri and they were just
+        fine. Nothing special. I didn’t like eel sauce either
+      languageCode: en
+    originalText:
+      text: >-
+        I only tried a take out and i picked it up myself so it was freshly
+        made. I had eel roll, Philadelphia and salmon nigiri and they were just
+        fine. Nothing special. I didn’t like eel sauce either
+      languageCode: en
+    authorAttribution:
+      displayName: Melika Shahhosseini
+      uri: https://www.google.com/maps/contrib/107818391104164650557/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWMKubPCB_fMOqPTRkGVuMrUVGJhqPjRDHoP7oCzbLVJZ_h_Yo=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-04-20T02:34:57.637160Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNvNjVHTUNBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNvNjVHTUNBEAE!2m1!1s0x549509fe442164e9:0xc37cde2c797fdbb2
+  - name: >-
+      places/ChIJ6WQhRP4JlVQRstt_eSzefMM/reviews/ChZDSUhNMG9nS0VJQ0FnSURqbjhiZVdREAE
+    relativePublishTimeDescription: 11 months ago
+    rating: 5
+    text:
+      text: >-
+        The sushi was absolutely fantastic! The baked lobster roll was
+        delicious, and the nigiri was great (especially the surf clam, which
+        more people need to see the light and try). Service was top-notch, and
+        the vibe was nice. The music was kind of a Norah Jones/ acoustic remix
+        of other great songs kind of vibe, which is literally what plays in my
+        head. Overall, heavenly experience, wish I lived in Portland, hopefully
+        be back one day 🙏
+      languageCode: en
+    originalText:
+      text: >-
+        The sushi was absolutely fantastic! The baked lobster roll was
+        delicious, and the nigiri was great (especially the surf clam, which
+        more people need to see the light and try). Service was top-notch, and
+        the vibe was nice. The music was kind of a Norah Jones/ acoustic remix
+        of other great songs kind of vibe, which is literally what plays in my
+        head. Overall, heavenly experience, wish I lived in Portland, hopefully
+        be back one day 🙏
+      languageCode: en
+    authorAttribution:
+      displayName: Jonathan Boggs
+      uri: https://www.google.com/maps/contrib/112707146816112015898/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUHYkogwRQ8u2gGF0t4u_fpM0eXsh4qvXmD4mFUuTWUXYdG5q5V=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2024-05-09T06:08:19.494482Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURqbjhiZVdREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURqbjhiZVdREAE!2m1!1s0x549509fe442164e9:0xc37cde2c797fdbb2
+  - name: >-
+      places/ChIJ6WQhRP4JlVQRstt_eSzefMM/reviews/ChdDSUhNMG9nS0VJQ0FnSURoZzdTcTdRRRAB
+    relativePublishTimeDescription: 2 years ago
+    rating: 4
+    text:
+      text: >-
+        Yama was a nice spot to grab some sushi after walking around the area.
+        Each dish we got, including the sake, was definitely good however
+        nothing was a standout for us particularly for the prices. Would come
+        back if I was in the area craving sushi, but wouldn't go out of my way
+        to return.
+      languageCode: en
+    originalText:
+      text: >-
+        Yama was a nice spot to grab some sushi after walking around the area.
+        Each dish we got, including the sake, was definitely good however
+        nothing was a standout for us particularly for the prices. Would come
+        back if I was in the area craving sushi, but wouldn't go out of my way
+        to return.
+      languageCode: en
+    authorAttribution:
+      displayName: Jeremy Yowell
+      uri: https://www.google.com/maps/contrib/106556951592978288011/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLIvNiXXnlnA7a-7VkIoPkyQA-idajw2GKyEslgLsTxpIosHg=s128-c0x00000000-cc-rp-mo-ba7
+    publishTime: '2023-03-16T04:21:47.265047Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURoZzdTcTdRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURoZzdTcTdRRRAB!2m1!1s0x549509fe442164e9:0xc37cde2c797fdbb2
+review_summary: >-
+  What Guests Are Saying About the Experience$$$Folks often rave about the fresh
+  and flavorful sushi at this Portland favorite, highlighting how the variety of
+  rolls and dishes keeps things exciting for different tastes. Many appreciate
+  the consistent quality and friendly service that make every visit feel smooth
+  and enjoyable, whether you're grabbing takeout or dining in with friends.
+  While some note that certain items are solid but not overly groundbreaking,
+  the overall atmosphere and selection earn high marks for being a reliable spot
+  for Japanese fare. It's commonly mentioned as a great option for groups
+  looking to mix sushi with other warm dishes, adding to its appeal as a
+  versatile choice. All in all, diners tend to leave satisfied, making it a
+  solid pick for anyone craving quality eats in a laid-back setting.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeStreetParking: true
+  paidStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+delivery: true
+dine_in: true
+good_for_children: false
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Stylish sushi house features creative rolls (some flaming), classic Japanese
+  fare & a range of sake.
 
 ---

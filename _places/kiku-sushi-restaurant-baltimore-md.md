@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kiku Sushi Restaurant"
+title: Kiku Sushi Restaurant
 permalink: /maryland/baltimore/kiku-sushi-restaurant.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Baltimore
 seo:
-  name: "Kiku Sushi Restaurant"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Kiku Sushi Restaurant serves delicious sushi in Baltimore, Maryland. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJX3uL_WUDyIkRRC9wVKOWDrw
 photos:
   - name: >-
@@ -169,7 +167,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c80365fd8b7b5f:0xbc0e96a354702f44!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 14
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 12
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 12
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 12
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 12
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 12:00 – 9:30 PM'
     - 'Wednesday: 12:00 – 9:30 PM'
@@ -177,14 +225,7 @@ opening_hours:
     - 'Friday: 12:00 – 9:30 PM'
     - 'Saturday: 12:00 – 9:30 PM'
     - 'Sunday: 2:00 – 9:30 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 12:00 – 9:30 PM'
-    - 'Wednesday: 12:00 – 9:30 PM'
-    - 'Thursday: 12:00 – 9:30 PM'
-    - 'Friday: 12:00 – 9:30 PM'
-    - 'Saturday: 12:00 – 9:30 PM'
-    - 'Sunday: 2:00 – 9:30 PM'
+  nextCloseTime: '2025-05-04T01:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,9 +237,47 @@ phone: (410) 468-4468
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.7'
-rating_count: 0
+rating_count: 365
 website: null
+description: >-
+  Discover Kiku Sushi Restaurant in Baltimore, MD$$$Kiku Sushi Restaurant in
+  Baltimore, MD, stands out as a premier destination for sushi enthusiasts
+  seeking fresh and inventive rolls in a welcoming atmosphere. This spot
+  delights with generous portions of creative sushi options, paired perfectly
+  with a selection of beer and wine to enhance your dining experience. Located
+  in the vibrant Federal Hill neighborhood, it offers accessibility features
+  like wheelchair-friendly entrances, making it convenient for all visitors.
+  Whether you're exploring top-rated sushi places near you or craving authentic
+  Japanese-inspired cuisine, Kiku provides a memorable meal that balances
+  quality and value. Its moderate pricing ensures that enjoying high-quality
+  dishes feels accessible for anyone looking for a satisfying sushi outing.
+generative_summary: >-
+  Discover Kiku Sushi Restaurant in Baltimore, MD$$$Kiku Sushi Restaurant in
+  Baltimore, MD, stands out as a premier destination for sushi enthusiasts
+  seeking fresh and inventive rolls in a welcoming atmosphere. This spot
+  delights with generous portions of creative sushi options, paired perfectly
+  with a selection of beer and wine to enhance your dining experience. Located
+  in the vibrant Federal Hill neighborhood, it offers accessibility features
+  like wheelchair-friendly entrances, making it convenient for all visitors.
+  Whether you're exploring top-rated sushi places near you or craving authentic
+  Japanese-inspired cuisine, Kiku provides a memorable meal that balances
+  quality and value. Its moderate pricing ensures that enjoying high-quality
+  dishes feels accessible for anyone looking for a satisfying sushi outing.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Love About This Spot$$$Visitors often praise the delicious
+  lunch specials at this Baltimore sushi restaurant, highlighting the fresh and
+  ample portions that make every bite worthwhile. Many note the great value for
+  the price, with standout dishes like flavorful tuna rolls and salmon options
+  that keep diners coming back for more. The friendly service adds to the
+  overall charm, creating a relaxed vibe that's perfect for casual meals or
+  group gatherings. Overall, it's clear that the combination of tasty food and
+  attentive staff makes this a reliable choice for anyone searching for quality
+  sushi nearby. While experiences can vary, the consistent feedback leans
+  positive, making it a solid pick for those eager to try some of the best local
+  options.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -224,7 +303,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

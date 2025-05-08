@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Samurai Sushi East Rutherford"
+title: Samurai Sushi East Rutherford
 permalink: /new-jersey/east-rutherford/samurai-sushi-east-rutherford.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: East Rutherford
 seo:
-  name: "Samurai Sushi East Rutherford"
-  type: Restaurant
-  links: null
-description: "Samurai Sushi East Rutherford serves delicious sushi in East Rutherford, New Jersey. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.njsamurai.com/
 place_id: ChIJ_UpxfZX4wokRLiaJWTVSLhE
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c2f8957d714afd:0x112e52355989262e!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:30 AM – 9:00 PM'
+    - 'Tuesday: 11:30 AM – 9:00 PM'
+    - 'Wednesday: 11:30 AM – 9:00 PM'
+    - 'Thursday: 11:30 AM – 9:00 PM'
+    - 'Friday: 11:30 AM – 10:00 PM'
+    - 'Saturday: 12:00 – 10:00 PM'
+    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,50 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
+phone: (201) 896-1760
+price_level: PRICE_LEVEL_MODERATE
 price_range: null
-rating: null
-rating_count: 0
-website: null
+rating: '4.6'
+rating_count: 754
+website: http://www.njsamurai.com/
+description: >-
+  Discover Samurai Sushi in East Rutherford, NJ$$$Nestled in East Rutherford,
+  NJ, Samurai Sushi stands out as a welcoming spot for those seeking top-rated
+  sushi restaurants in the area. This casual eatery offers a kid-friendly vibe
+  with a menu featuring fresh Japanese specialties, complemented by a selection
+  of beer, wine, and cocktails for a complete dining experience. Accessibility
+  features like wheelchair-friendly parking and entrances make it easy for
+  everyone to enjoy the inviting atmosphere and thoughtfully prepared dishes.
+  Patrons appreciate the cozy setting that enhances the overall meal, making it
+  a go-to choice for families or anyone hunting for sushi places near me. With
+  its moderate pricing and convenient hours, it's an ideal destination for a
+  relaxed outing after a day of exploring local spots.
+generative_summary: >-
+  Discover Samurai Sushi in East Rutherford, NJ$$$Nestled in East Rutherford,
+  NJ, Samurai Sushi stands out as a welcoming spot for those seeking top-rated
+  sushi restaurants in the area. This casual eatery offers a kid-friendly vibe
+  with a menu featuring fresh Japanese specialties, complemented by a selection
+  of beer, wine, and cocktails for a complete dining experience. Accessibility
+  features like wheelchair-friendly parking and entrances make it easy for
+  everyone to enjoy the inviting atmosphere and thoughtfully prepared dishes.
+  Patrons appreciate the cozy setting that enhances the overall meal, making it
+  a go-to choice for families or anyone hunting for sushi places near me. With
+  its moderate pricing and convenient hours, it's an ideal destination for a
+  relaxed outing after a day of exploring local spots.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Raving About$$$Folks hunting for the best sushi near me
+  often highlight how Samurai Sushi delivers incredibly fresh and flavorful
+  rolls that stand out as some of the finest they've tried. Many appreciate the
+  helpful staff who make the visit feel warm and attentive, adding to the
+  enjoyable atmosphere without any fuss. The cozy and inviting setup gets plenty
+  of nods for creating a comfortable spot to unwind, whether you're grabbing a
+  quick bite or lingering over dinner. Overall, diners consistently praise the
+  quality and variety, making it a solid pick for anyone in the mood for
+  reliable Japanese fare. While opinions vary, the general buzz keeps things
+  positive, encouraging first-timers to give it a shot for a satisfying meal.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +311,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

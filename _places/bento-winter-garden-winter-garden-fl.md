@@ -1,15 +1,14 @@
 ---
 layout: place
-title: "BENTO Winter Garden"
+title: BENTO Winter Garden
 permalink: /florida/winter-garden/bento-winter-garden.html
 stateAbbr: FL
 stateName: Florida
 cityName: Winter Garden
 seo:
-  name: "BENTO Winter Garden"
-  type: Restaurant
-  links: https://eatatbento.com/locations/plant-street-market/?utm_source=gbp&utm_medium=website-button&utm_campaign=winter-garden-gbp
-description: "BENTO Winter Garden serves delicious sushi in Winter Garden, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
+  type: restaurant
+  links: >-
+    https://eatatbento.com/locations/plant-street-market/?utm_source=gbp&utm_medium=website-button&utm_campaign=winter-garden-gbp
 place_id: ChIJ5anqxNeD54gRv5UOanLlXNA
 photos:
   - name: >-
@@ -186,6 +185,31 @@ rating: '3.6'
 rating_count: 0
 website: >-
   https://eatatbento.com/locations/plant-street-market/?utm_source=gbp&utm_medium=website-button&utm_campaign=winter-garden-gbp
+description: >-
+  Discover BENTO Winter Garden$$$BENTO Winter Garden in Winter Garden, FL,
+  stands out as a cozy Asian restaurant nestled within Plant Street Market,
+  specializing in fresh poke bowls and sushi that appeal to those seeking
+  flavorful Japanese-inspired options nearby. The spot emphasizes high-quality
+  ingredients and well-balanced seasonings that enhance every bite, making it a
+  go-to choice for casual diners looking for accessible and satisfying meals.
+  With thoughtful features like wheelchair accessibility and vegetarian
+  selections, it caters to a wide range of preferences, ensuring everyone can
+  enjoy a relaxed dining experience. Whether you're stopping by for a quick
+  lunch or an evening treat, the welcoming atmosphere and efficient service add
+  to its charm as a reliable spot for everyday sushi enthusiasts.
+generative_summary: >-
+  Discover BENTO Winter Garden$$$BENTO Winter Garden in Winter Garden, FL,
+  stands out as a cozy Asian restaurant nestled within Plant Street Market,
+  specializing in fresh poke bowls and sushi that appeal to those seeking
+  flavorful Japanese-inspired options nearby. The spot emphasizes high-quality
+  ingredients and well-balanced seasonings that enhance every bite, making it a
+  go-to choice for casual diners looking for accessible and satisfying meals.
+  With thoughtful features like wheelchair accessibility and vegetarian
+  selections, it caters to a wide range of preferences, ensuring everyone can
+  enjoy a relaxed dining experience. Whether you're stopping by for a quick
+  lunch or an evening treat, the welcoming atmosphere and efficient service add
+  to its charm as a reliable spot for everyday sushi enthusiasts.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ5anqxNeD54gRv5UOanLlXNA/reviews/ChZDSUhNMG9nS0VJQ0FnTUNnc3YyMFh3EAE
@@ -469,6 +493,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNianAzX3RBRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNianAzX3RBRRAB!2m1!1s0x88e783d7c4eaa9e5:0xd05ce5726a0e95bf
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors to this sushi spot often rave about
+  the fresh flavors and quick preparation of poke bowls and rolls, highlighting
+  how the food hits the spot with its well-seasoned taste and variety. While
+  some folks note that portions can feel on the smaller side for the price, many
+  still appreciate the overall value and friendly vibe that make it worth a
+  return trip. Feedback generally points to solid service that keeps things
+  efficient, though a few mention room for more menu options to better suit
+  different tastes. All in all, it's a welcoming place for anyone hunting for
+  tasty Japanese fare nearby, with the positives like fresh ingredients and
+  casual setup shining through to create a generally enjoyable experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -499,7 +535,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: null
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

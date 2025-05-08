@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yellowstone Sushi Cuisine Restaurant"
+title: Yellowstone Sushi Cuisine Restaurant
 permalink: /new-york/forest-hills/yellowstone-sushi-cuisine-restaurant.html
 stateAbbr: NY
 stateName: New York
 cityName: Forest Hills
 seo:
-  name: "Yellowstone Sushi Cuisine Restaurant"
-  type: Restaurant
+  type: restaurant
   links: http://www.yellowstonesushi.com/
-description: "Yellowstone Sushi Cuisine Restaurant serves delicious sushi in Forest Hills, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ6Qv6QQdfwokRM6_W83P-28o
 photos:
   - name: >-
@@ -169,7 +167,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c25f0741fa0be9:0xcadbfe73f3d6af33!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:30 PM'
     - 'Tuesday: 11:00 AM – 9:30 PM'
     - 'Wednesday: 11:00 AM – 9:30 PM'
@@ -177,14 +225,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:00 PM'
     - 'Saturday: 11:00 AM – 10:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:00 AM – 9:30 PM'
-    - 'Tuesday: 11:00 AM – 9:30 PM'
-    - 'Wednesday: 11:00 AM – 9:30 PM'
-    - 'Thursday: 11:00 AM – 9:30 PM'
-    - 'Friday: 11:00 AM – 10:00 PM'
-    - 'Saturday: 11:00 AM – 10:00 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -194,11 +235,45 @@ secondary_opening_hours:
     type: null
 phone: (718) 261-8882
 price_level: null
-price_range: null
+price_range: $10 &ndash; $20
 rating: '4.7'
-rating_count: 0
+rating_count: 115
 website: http://www.yellowstonesushi.com/
+description: >-
+  About Yellowstone Sushi in Forest Hills, NY$$$Yellowstone Sushi Cuisine
+  Restaurant in Forest Hills, NY, stands out as a welcoming spot for fresh
+  Japanese-inspired dishes in a relaxed setting. This casual eatery specializes
+  in a variety of sushi rolls, udon noodles, and teriyaki options, complemented
+  by beverages like beer and refreshing green tea ice cream for a satisfying
+  finish. Visitors appreciate the accessible entrance and seating, making it
+  easier for everyone to enjoy a meal, while the restaurant maintains extended
+  hours through the evening for convenient dining. With its focus on quality
+  ingredients and a vibrant atmosphere, it's an ideal choice for those exploring
+  top-rated sushi places near you in this lively neighborhood.
+generative_summary: >-
+  About Yellowstone Sushi in Forest Hills, NY$$$Yellowstone Sushi Cuisine
+  Restaurant in Forest Hills, NY, stands out as a welcoming spot for fresh
+  Japanese-inspired dishes in a relaxed setting. This casual eatery specializes
+  in a variety of sushi rolls, udon noodles, and teriyaki options, complemented
+  by beverages like beer and refreshing green tea ice cream for a satisfying
+  finish. Visitors appreciate the accessible entrance and seating, making it
+  easier for everyone to enjoy a meal, while the restaurant maintains extended
+  hours through the evening for convenient dining. With its focus on quality
+  ingredients and a vibrant atmosphere, it's an ideal choice for those exploring
+  top-rated sushi places near you in this lively neighborhood.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Folks often rave about the tasty lunch specials at
+  this sushi spot, where you can mix and match three rolls along with fresh fish
+  and hearty miso soup that hits the spot every time. Many highlight the
+  friendly service that makes dining out feel welcoming and hassle-free, paired
+  with prices that offer great value without skimping on quality. The food
+  consistently delivers on freshness and flavor, making it a go-to for anyone
+  craving reliable Japanese cuisine. Overall, it's clear that this place keeps
+  things enjoyable and approachable, encouraging repeat visits for those seeking
+  the best sushi experiences nearby.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -224,7 +299,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

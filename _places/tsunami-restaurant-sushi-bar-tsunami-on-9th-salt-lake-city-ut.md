@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Tsunami Restaurant & Sushi Bar - Tsunami on 9th"
+title: Tsunami Restaurant & Sushi Bar - Tsunami on 9th
 permalink: /utah/salt-lake-city/tsunami-restaurant-sushi-bar-tsunami-on-9th.html
 stateAbbr: UT
 stateName: Utah
 cityName: Salt Lake City
 seo:
-  name: "Tsunami Restaurant & Sushi Bar - Tsunami on 9th"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Tsunami Restaurant & Sushi Bar - Tsunami on 9th serves delicious sushi in Salt Lake City, Utah. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJGTDcsWT1UocRq3lI1lfbPmc
 photos:
   - name: >-
@@ -185,7 +183,45 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Explore Tsunami Restaurant in Salt Lake City$$$Tsunami Restaurant & Sushi Bar
+  in Salt Lake City, UT, delivers a fresh, modern interpretation of classic
+  Japanese flavors in a stylish and welcoming environment. This spot stands out
+  for its creative takes on traditional dishes, blending high-quality
+  ingredients with innovative presentations that appeal to sushi enthusiasts.
+  The restaurant's sleek surroundings enhance the dining experience, making it
+  an ideal choice for those seeking vibrant Japanese cuisine options nearby.
+  Accessibility features ensure a comfortable visit for all, adding to its
+  appeal as a go-to destination for casual meals or special occasions. With its
+  focus on flavorful rolls and authentic vibes, it's perfect for anyone
+  exploring top sushi restaurants in the area.
+generative_summary: >-
+  Explore Tsunami Restaurant in Salt Lake City$$$Tsunami Restaurant & Sushi Bar
+  in Salt Lake City, UT, delivers a fresh, modern interpretation of classic
+  Japanese flavors in a stylish and welcoming environment. This spot stands out
+  for its creative takes on traditional dishes, blending high-quality
+  ingredients with innovative presentations that appeal to sushi enthusiasts.
+  The restaurant's sleek surroundings enhance the dining experience, making it
+  an ideal choice for those seeking vibrant Japanese cuisine options nearby.
+  Accessibility features ensure a comfortable visit for all, adding to its
+  appeal as a go-to destination for casual meals or special occasions. With its
+  focus on flavorful rolls and authentic vibes, it's perfect for anyone
+  exploring top sushi restaurants in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Buzzing About$$$Folks heading to this Japanese eatery near
+  you often highlight the tasty, well-prepared sushi and the cozy, modern vibe
+  that makes every meal feel special. Many appreciate the creative twists on
+  traditional favorites, noting that the portions are generous and the flavors
+  consistently hit the mark without any major letdowns. While some mention it's
+  a solid spot for groups or quick bites, others enjoy the welcoming atmosphere
+  that encourages repeat visits for lunch or dinner. Overall, the feedback leans
+  positive, with diners praising the fresh ingredients and attentive service
+  that keep things enjoyable and relaxed. If you're on the hunt for reliable
+  sushi places in Salt Lake City, this one comes through as a dependable choice
+  for a satisfying experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +247,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

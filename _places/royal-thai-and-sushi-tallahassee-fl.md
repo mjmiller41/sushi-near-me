@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Royal Thai and Sushi"
+title: Royal Thai and Sushi
 permalink: /florida/tallahassee/royal-thai-and-sushi.html
 stateAbbr: FL
 stateName: Florida
 cityName: Tallahassee
 seo:
-  name: "Royal Thai and Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://royalthaisushi.com/
-description: "Low-key, easygoing eatery offering Asian fusion cuisine including Thai & Japanese options. Royal Thai and Sushi serves delicious sushi in Tallahassee, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJZapT5wD17IgRlz5QSwftJDo
 photos:
   - name: >-
@@ -185,6 +183,27 @@ price_range: $10 &ndash; $20
 rating: '4.3'
 rating_count: 0
 website: https://royalthaisushi.com/
+description: >-
+  Explore Royal Thai and Sushi in Tallahassee, Florida$$$Royal Thai and Sushi in
+  Tallahassee, Florida, stands out as a relaxed spot for enjoying a blend of
+  Thai and Japanese flavors in a welcoming environment. This eatery delights
+  with its fresh ingredients and flavorful dishes, including spicy entrees and
+  specialty rolls that cater to sushi enthusiasts seeking variety. The casual
+  atmosphere makes it ideal for everyday dining, with options that balance bold
+  tastes and satisfying portions at reasonable prices. Accessibility features
+  like wheelchair-friendly entrances enhance the experience, ensuring everyone
+  can savor the fusion cuisine without hassle.
+generative_summary: >-
+  Explore Royal Thai and Sushi in Tallahassee, Florida$$$Royal Thai and Sushi in
+  Tallahassee, Florida, stands out as a relaxed spot for enjoying a blend of
+  Thai and Japanese flavors in a welcoming environment. This eatery delights
+  with its fresh ingredients and flavorful dishes, including spicy entrees and
+  specialty rolls that cater to sushi enthusiasts seeking variety. The casual
+  atmosphere makes it ideal for everyday dining, with options that balance bold
+  tastes and satisfying portions at reasonable prices. Accessibility features
+  like wheelchair-friendly entrances enhance the experience, ensuring everyone
+  can savor the fusion cuisine without hassle.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJZapT5wD17IgRlz5QSwftJDo/reviews/ChZDSUhNMG9nS0VJQ0FnSUN2bTZuNlZ3EAE
@@ -364,6 +383,17 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURfbGZpTDhRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURfbGZpTDhRRRAB!2m1!1s0x88ecf500e753aa65:0x3a24ed074b503e97
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors often praise the tasty Thai and sushi
+  offerings at this spot, highlighting the fresh ingredients and bold flavors
+  that make meals memorable for those craving authentic Asian fusion. While most
+  enjoy the well-prepared dishes and friendly service, a few note occasional
+  lulls in speed or milder spice levels that still leave room for enjoyment.
+  Overall, it's a solid choice for casual lunches or dinners, with many
+  appreciating the good value and variety that keeps things lively. Despite a
+  rare mention of staff interactions, the general vibe remains positive,
+  encouraging folks to try the specialties for a satisfying experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -396,8 +426,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Low-key, easygoing eatery offering Asian fusion cuisine including Thai &
   Japanese options.
 

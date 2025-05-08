@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Bear Sushi & Grill"
+title: Sushi Bear Sushi & Grill
 permalink: /florida/jacksonville/sushi-bear-sushi-grill.html
 stateAbbr: FL
 stateName: Florida
 cityName: Jacksonville
 seo:
-  name: "Sushi Bear Sushi & Grill"
-  type: Restaurant
+  type: restaurant
   links: http://sushibearjax.com/
-description: "Grilled Japanese specialties & sushi are served in this lively, colorful family restaurant. Sushi Bear Sushi & Grill serves delicious sushi in Jacksonville, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJO_KdM2i45YgRapsDIeWzMM8
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $10 &ndash; $20
 rating: '4.7'
 rating_count: 0
 website: http://sushibearjax.com/
+description: >-
+  Explore Sushi Bear in Jacksonville, FL$$$Sushi Bear Sushi & Grill in
+  Jacksonville, FL, stands out as a vibrant spot for savoring fresh Japanese
+  dishes and grilled favorites in a welcoming environment. The menu highlights
+  creative options like sushi and hibachi selections, made with high-quality
+  ingredients that deliver generous portions and bold flavors for a satisfying
+  meal. Patrons enjoy the thoughtful touches, such as complimentary starters
+  that enhance the dining experience, along with a relaxed atmosphere ideal for
+  casual gatherings or quick takeout. This Japanese restaurant also caters to
+  various preferences with choices for beer, wine, and vegetarian options,
+  making it a go-to destination for anyone seeking flavorful Asian cuisine in
+  the area.
+generative_summary: >-
+  Explore Sushi Bear in Jacksonville, FL$$$Sushi Bear Sushi & Grill in
+  Jacksonville, FL, stands out as a vibrant spot for savoring fresh Japanese
+  dishes and grilled favorites in a welcoming environment. The menu highlights
+  creative options like sushi and hibachi selections, made with high-quality
+  ingredients that deliver generous portions and bold flavors for a satisfying
+  meal. Patrons enjoy the thoughtful touches, such as complimentary starters
+  that enhance the dining experience, along with a relaxed atmosphere ideal for
+  casual gatherings or quick takeout. This Japanese restaurant also caters to
+  various preferences with choices for beer, wine, and vegetarian options,
+  making it a go-to destination for anyone seeking flavorful Asian cuisine in
+  the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJO_KdM2i45YgRapsDIeWzMM8/reviews/ChdDSUhNMG9nS0VJQ0FnSUN2dUxEWTlBRRAB
@@ -366,6 +389,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNieXNpVWNREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNieXNpVWNREAE!2m1!1s0x88e5b868339df23b:0xcf30b3e521039b6a
+review_summary: >-
+  What People Love About This Sushi Spot$$$Visitors consistently praise the
+  outstanding food quality at this lively sushi restaurant, highlighting the
+  fresh flavors and hearty portions that make every bite memorable. Folks
+  appreciate the friendly service and quick preparation, often noting how little
+  extras like complimentary sides add a nice touch to the overall experience.
+  The welcoming vibe and creative menu items have folks coming back for more,
+  with many describing it as one of the top choices for Japanese dining in the
+  region. While occasional hiccups like power issues are handled with gracious
+  gestures, the general consensus is that it's a solid spot for families or
+  groups looking for reliable, tasty meals. If you're hunting for great sushi
+  options nearby, this place delivers a consistently positive experience that
+  keeps diners satisfied.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -399,8 +436,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Grilled Japanese specialties & sushi are served in this lively, colorful
   family restaurant.
 

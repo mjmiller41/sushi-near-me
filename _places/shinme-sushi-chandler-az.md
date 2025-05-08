@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Shinme Sushi"
+title: Shinme Sushi
 permalink: /arizona/chandler/shinme-sushi.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Chandler
 seo:
-  name: "Shinme Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.shinmesushi.com/
-description: "Shinme Sushi serves delicious sushi in Chandler, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJNSb-qO-rK4cRbTHIYKRJFPU
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x872babefa8fe2635:0xf51449a460c8316d!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -178,54 +226,292 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:00 PM'
     - 'Saturday: 11:00 AM – 9:00 PM'
     - 'Sunday: 11:00 AM – 9:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 9:00 PM'
-    - 'Saturday: 11:00 AM – 9:00 PM'
-    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 11
+          minute: 0
+        close:
+          day: 0
+          hour: 16
+          minute: 0
+      - open:
+          day: 2
+          hour: 15
+          minute: 0
+        close:
+          day: 2
+          hour: 17
+          minute: 0
+      - open:
+          day: 3
+          hour: 15
+          minute: 0
+        close:
+          day: 3
+          hour: 17
+          minute: 0
+      - open:
+          day: 4
+          hour: 15
+          minute: 0
+        close:
+          day: 4
+          hour: 17
+          minute: 0
+      - open:
+          day: 5
+          hour: 15
+          minute: 0
+        close:
+          day: 5
+          hour: 17
+          minute: 0
+      - open:
+          day: 6
+          hour: 11
+          minute: 0
+        close:
+          day: 6
+          hour: 16
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: Closed'
+      - 'Tuesday: 3:00 – 5:00 PM'
+      - 'Wednesday: 3:00 – 5:00 PM'
+      - 'Thursday: 3:00 – 5:00 PM'
+      - 'Friday: 3:00 – 5:00 PM'
+      - 'Saturday: 11:00 AM – 4:00 PM'
+      - 'Sunday: 11:00 AM – 4:00 PM'
+    secondaryHoursType: HAPPY_HOUR
+    nextCloseTime: '2025-05-03T23:00:00Z'
 phone: (480) 687-8023
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.0'
-rating_count: 0
+rating_count: 174
 website: https://www.shinmesushi.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Shinme Sushi in Chandler, Arizona$$$Shinme Sushi in Chandler, AZ,
+  stands out as a welcoming spot for enjoying fresh Japanese-inspired dishes,
+  offering a casual atmosphere perfect for those seeking sushi restaurants
+  nearby. This eatery delights with a variety of sushi rolls, alongside hearty
+  options like ramen, teriyaki, and tempura, making it a go-to for flavorful
+  meals in a relaxed setting. Accessibility features such as wheelchair-friendly
+  parking and entrances add to the convenience, ensuring everyone can enjoy the
+  experience. With moderate pricing and extended hours including evenings, it's
+  an ideal choice for lunch or dinner outings. Whether you're exploring
+  top-rated sushi options or Japanese places close to home, this spot combines
+  affordability with a diverse menu to satisfy cravings.
+generative_summary: >-
+  Discover Shinme Sushi in Chandler, Arizona$$$Shinme Sushi in Chandler, AZ,
+  stands out as a welcoming spot for enjoying fresh Japanese-inspired dishes,
+  offering a casual atmosphere perfect for those seeking sushi restaurants
+  nearby. This eatery delights with a variety of sushi rolls, alongside hearty
+  options like ramen, teriyaki, and tempura, making it a go-to for flavorful
+  meals in a relaxed setting. Accessibility features such as wheelchair-friendly
+  parking and entrances add to the convenience, ensuring everyone can enjoy the
+  experience. With moderate pricing and extended hours including evenings, it's
+  an ideal choice for lunch or dinner outings. Whether you're exploring
+  top-rated sushi options or Japanese places close to home, this spot combines
+  affordability with a diverse menu to satisfy cravings.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJNSb-qO-rK4cRbTHIYKRJFPU/reviews/ChdDSUhNMG9nS0VJQ0FnSURQeXFuMW13RRAB
+    relativePublishTimeDescription: 5 months ago
+    rating: 1
+    text:
+      text: >-
+        We ordered take out, This Ramen isn't good at all. There is less than
+        1/4 ounce of meat, the eggs are way overcooked and the broth is
+        literally flavorless. Filled a bunch of space with tons of edamame. We
+        tried some of the sushi, to be honest grocery store sushi tastes better
+        than this. We will not be returning.
+      languageCode: en
+    originalText:
+      text: >-
+        We ordered take out, This Ramen isn't good at all. There is less than
+        1/4 ounce of meat, the eggs are way overcooked and the broth is
+        literally flavorless. Filled a bunch of space with tons of edamame. We
+        tried some of the sushi, to be honest grocery store sushi tastes better
+        than this. We will not be returning.
+      languageCode: en
+    authorAttribution:
+      displayName: Lance Teeples
+      uri: https://www.google.com/maps/contrib/108261353889056446627/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVEPW-1lXQZoJPeKKqR_TIPhEhq6Sc_TDDFTmFr2bzFy9Y4rsnNtg=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-12-01T01:59:55.457128Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURQeXFuMW13RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURQeXFuMW13RRAB!2m1!1s0x872babefa8fe2635:0xf51449a460c8316d
+  - name: >-
+      places/ChIJNSb-qO-rK4cRbTHIYKRJFPU/reviews/ChdDSUhNMG9nS0VJQ0FnSUR4MzdtTmlRRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 4
+    text:
+      text: >-
+        Not the best sushi I’ve had. It was freshly made but the flavors were
+        okay and the rolls contained a large amount of rice. I wish the menu
+        specified which ones were tempura fried as it was a little misleading.
+        We tried the Nigori strawberry cloudy sake which was sweet and tasty! I
+        thought the regular pricing for the sushi was way overpriced, may only
+        come here for happy hour.
+      languageCode: en
+    originalText:
+      text: >-
+        Not the best sushi I’ve had. It was freshly made but the flavors were
+        okay and the rolls contained a large amount of rice. I wish the menu
+        specified which ones were tempura fried as it was a little misleading.
+        We tried the Nigori strawberry cloudy sake which was sweet and tasty! I
+        thought the regular pricing for the sushi was way overpriced, may only
+        come here for happy hour.
+      languageCode: en
+    authorAttribution:
+      displayName: Becky George
+      uri: https://www.google.com/maps/contrib/114582877354727578686/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWPHOiPppEKjzgK83ETMUODLW22Egdu-n0a-kV2On_GNJfq4Boy=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2023-06-17T23:45:17.242234Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR4MzdtTmlRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR4MzdtTmlRRRAB!2m1!1s0x872babefa8fe2635:0xf51449a460c8316d
+  - name: >-
+      places/ChIJNSb-qO-rK4cRbTHIYKRJFPU/reviews/ChZDSUhNMG9nS0VJQ0FnSURqcmZyY013EAE
+    relativePublishTimeDescription: 12 months ago
+    rating: 5
+    text:
+      text: >-
+        A great little hidden gem! They now have Korean fried chicken! The sushi
+        is pretty good, the Korean fried chicken is not bad at all, and I
+        actually love the fried rice. They have boba drinks as well as ramen and
+        even bulgogi and kfc burritos. It’s nice to have all of this in one spot
+        in the south chandler area.
+      languageCode: en
+    originalText:
+      text: >-
+        A great little hidden gem! They now have Korean fried chicken! The sushi
+        is pretty good, the Korean fried chicken is not bad at all, and I
+        actually love the fried rice. They have boba drinks as well as ramen and
+        even bulgogi and kfc burritos. It’s nice to have all of this in one spot
+        in the south chandler area.
+      languageCode: en
+    authorAttribution:
+      displayName: AJ C
+      uri: https://www.google.com/maps/contrib/116245524164802234194/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjW05pKxu10O1L9y-URIqe5PWEcot3XlNNZwpAMMhIq0B_nycnTC=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-05-06T08:05:05.404850Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURqcmZyY013EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURqcmZyY013EAE!2m1!1s0x872babefa8fe2635:0xf51449a460c8316d
+  - name: >-
+      places/ChIJNSb-qO-rK4cRbTHIYKRJFPU/reviews/ChdDSUhNMG9nS0VJQ0FnSUNUX01fNWp3RRAB
+    relativePublishTimeDescription: 11 months ago
+    rating: 4
+    text:
+      text: >-
+        Guess they closed for a month and now have reopened...salmon was delish
+        per usual mango roll yum! My son got a California roll and added
+        masago...ya uhhh won't do that again..skimpy at best for an additional
+        $4...ill just get masago and add myself cheaper and i get a ton more...
+        word to the wise
+      languageCode: en
+    originalText:
+      text: >-
+        Guess they closed for a month and now have reopened...salmon was delish
+        per usual mango roll yum! My son got a California roll and added
+        masago...ya uhhh won't do that again..skimpy at best for an additional
+        $4...ill just get masago and add myself cheaper and i get a ton more...
+        word to the wise
+      languageCode: en
+    authorAttribution:
+      displayName: Stephanie Chester
+      uri: https://www.google.com/maps/contrib/106964465091501119045/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVo_32BA3buy0zM6bFVFiy0H9apCfpMDdxWcry03m4c7Z7E2G9GwA=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-05-12T10:56:36.111859Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNUX01fNWp3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNUX01fNWp3RRAB!2m1!1s0x872babefa8fe2635:0xf51449a460c8316d
+  - name: >-
+      places/ChIJNSb-qO-rK4cRbTHIYKRJFPU/reviews/ChdDSUhNMG9nS0VJQ0FnSUNqcHE3eTZBRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        The Korean food was amazing. My kids are kinda picky eaters but still
+        loved theirs. I ordered ramen and thought it was good.
+      languageCode: en
+    originalText:
+      text: >-
+        The Korean food was amazing. My kids are kinda picky eaters but still
+        loved theirs. I ordered ramen and thought it was good.
+      languageCode: en
+    authorAttribution:
+      displayName: Patrick McFarland
+      uri: https://www.google.com/maps/contrib/111822029294569496150/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXOeRf-VvYwpuLL6kHfqyDznd9Gc5pzlg2Qs1CbIkNxDGLNX3cAKw=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-04-20T23:31:08.355918Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNqcHE3eTZBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNqcHE3eTZBRRAB!2m1!1s0x872babefa8fe2635:0xf51449a460c8316d
+review_summary: >-
+  What Visitors Are Saying About This Local Sushi Spot$$$People often praise the
+  variety of dishes at this sushi restaurant, highlighting tasty Korean-inspired
+  items and fresh rolls that make for a fun meal. While some feedback notes that
+  certain portions, like rice in the rolls, could be more balanced, many
+  appreciate the overall flavors and kid-friendly options that keep families
+  coming back. Happy hour specials come up as a smart pick for those watching
+  their budget, adding a casual vibe to the dining experience. Despite a few
+  mentions of inconsistencies in items like ramen, the general consensus leans
+  positive, with diners enjoying the mix of choices in a convenient location. If
+  you're hunting for top-rated sushi near you, this place offers solid options
+  that blend excitement with everyday reliability.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
 menu_for_children: null
 outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+reservable: true
+restroom: true
+serves_beer: true
 serves_breakfast: null
-serves_brunch: null
+serves_brunch: false
 serves_cocktails: null
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

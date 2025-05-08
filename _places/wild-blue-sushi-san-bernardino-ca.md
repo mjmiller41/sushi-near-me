@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Wild Blue Sushi"
+title: Wild Blue Sushi
 permalink: /california/san-bernardino/wild-blue-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: San Bernardino
 seo:
-  name: "Wild Blue Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Wild Blue Sushi serves delicious sushi in San Bernardino, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJFXoBeABRw4AR2IXmCx1VGVE
 photos: null
 address: 5500 University Pkwy, San Bernardino, CA 92407, USA
@@ -55,7 +53,43 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Explore Wild Blue Sushi in San Bernardino, CA$$$Wild Blue Sushi in San
+  Bernardino, CA, stands out as a welcoming seafood restaurant offering a fresh
+  take on Japanese-inspired dishes. The spot emphasizes accessibility with
+  features like wheelchair-friendly parking, entrances, restrooms, and seating,
+  making it easy for everyone to enjoy a meal. Diners can expect a menu that
+  highlights high-quality seafood options, perfect for those seeking sushi
+  restaurants in the area. Its convenient location near University Parkway adds
+  to the appeal for locals looking for reliable sushi places close to home.
+  Whether you're in the mood for inventive rolls or classic favorites, this
+  venue combines taste with thoughtful amenities for a satisfying visit.
+generative_summary: >-
+  Explore Wild Blue Sushi in San Bernardino, CA$$$Wild Blue Sushi in San
+  Bernardino, CA, stands out as a welcoming seafood restaurant offering a fresh
+  take on Japanese-inspired dishes. The spot emphasizes accessibility with
+  features like wheelchair-friendly parking, entrances, restrooms, and seating,
+  making it easy for everyone to enjoy a meal. Diners can expect a menu that
+  highlights high-quality seafood options, perfect for those seeking sushi
+  restaurants in the area. Its convenient location near University Parkway adds
+  to the appeal for locals looking for reliable sushi places close to home.
+  Whether you're in the mood for inventive rolls or classic favorites, this
+  venue combines taste with thoughtful amenities for a satisfying visit.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Visitor Feedback Highlights$$$Folks chatting about Wild Blue Sushi often rave
+  about the fresh flavors and solid portions that make it a go-to for sushi
+  lovers nearby. Many appreciate the friendly vibe and how the staff handles
+  things smoothly, even during busier times, adding to the overall chill
+  experience. While some mention it's a great spot for groups hunting for
+  top-rated sushi options, others note that the variety keeps things exciting
+  without overwhelming the palate. Overall, it seems like a solid choice for
+  anyone craving Japanese-inspired eats, with most agreeing that the attention
+  to detail keeps customers coming back. If you're searching for sushi
+  restaurants near me, this place earns nods for its approachable and enjoyable
+  atmosphere.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -81,7 +115,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

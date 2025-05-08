@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Izakaya Sushi & Lounge"
+title: Izakaya Sushi & Lounge
 permalink: /new-york/brooklyn/izakaya-sushi-lounge.html
 stateAbbr: NY
 stateName: New York
 cityName: Brooklyn
 seo:
-  name: "Izakaya Sushi & Lounge"
-  type: Restaurant
+  type: restaurant
   links: https://www.izakayasushilounge.com/
-description: "Izakaya Sushi & Lounge serves delicious sushi in Brooklyn, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ2z7-Y5RFwokRH1BRDyxe9vM
 photos:
   - name: >-
@@ -183,6 +181,33 @@ price_range: $30 &ndash; $50
 rating: '4.4'
 rating_count: 0
 website: https://www.izakayasushilounge.com/
+description: >-
+  Experience Izakaya Sushi & Lounge in Brooklyn, NY$$$Izakaya Sushi & Lounge in
+  Brooklyn, NY, stands out as a welcoming Japanese restaurant known for its
+  fresh, high-quality dishes that highlight authentic flavors. This spot offers
+  a variety of raw specialties and small plates, perfect for enjoying during
+  happy hour or a relaxed meal, making it a great choice for those seeking sushi
+  restaurants near me. The atmosphere combines cozy vibes with accessible
+  features like wheelchair-friendly entrances, enhancing the overall dining
+  experience. Patrons can savor moderately priced options that include pure,
+  expertly prepared seafood and creative appetizers, appealing to anyone
+  exploring Japanese places near me. With its focus on quality ingredients and a
+  lively yet intimate setting, it's an ideal destination for top-rated sushi
+  enthusiasts.
+generative_summary: >-
+  Experience Izakaya Sushi & Lounge in Brooklyn, NY$$$Izakaya Sushi & Lounge in
+  Brooklyn, NY, stands out as a welcoming Japanese restaurant known for its
+  fresh, high-quality dishes that highlight authentic flavors. This spot offers
+  a variety of raw specialties and small plates, perfect for enjoying during
+  happy hour or a relaxed meal, making it a great choice for those seeking sushi
+  restaurants near me. The atmosphere combines cozy vibes with accessible
+  features like wheelchair-friendly entrances, enhancing the overall dining
+  experience. Patrons can savor moderately priced options that include pure,
+  expertly prepared seafood and creative appetizers, appealing to anyone
+  exploring Japanese places near me. With its focus on quality ingredients and a
+  lively yet intimate setting, it's an ideal destination for top-rated sushi
+  enthusiasts.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ2z7-Y5RFwokRH1BRDyxe9vM/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3X2UtS213RRAB
@@ -360,6 +385,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURIOHMzWUhREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURIOHMzWUhREAE!2m1!1s0x89c2459463fe3edb:0xf3f65e2c0f51501f
+review_summary: >-
+  Highlights from Customer Feedback$$$Visitors often praise the fresh and
+  flavorful sushi at this spot, noting it as a standout option among sushi
+  places near me for its consistently high quality and variety. Many appreciate
+  the delicious appetizers, like the fried oysters, which add a fun twist to the
+  menu and keep things affordable without skimping on taste. The service comes
+  across as friendly and attentive, creating a welcoming vibe that makes dining
+  out feel effortless and enjoyable. Overall, folks highlight the great value
+  and satisfying entrees, making it a reliable go-to for groups or casual nights
+  out. While opinions are overwhelmingly positive, the consensus is that this
+  place delivers a solid experience for anyone craving the best sushi near me.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidParkingLot: true
   freeStreetParking: true
@@ -392,7 +429,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

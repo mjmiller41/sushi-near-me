@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ajiten Princeton Japanese restaurant"
+title: Ajiten Princeton Japanese restaurant
 permalink: /new-jersey/princeton/ajiten-princeton-japanese-restaurant.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Princeton
 seo:
-  name: "Ajiten Princeton Japanese restaurant"
-  type: Restaurant
+  type: restaurant
   links: http://www.ajitenprinceton.com/
-description: "Japanese fare served in an unassuming basement setting with a BYOB policy. No parties over 4. Ajiten Princeton Japanese restaurant serves delicious sushi in Princeton, New Jersey. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJ9bPHlsDmw4kRZh2Dex6Ipl0
 photos:
   - name: >-
@@ -182,6 +180,27 @@ price_range: $20 &ndash; $30
 rating: '3.9'
 rating_count: 0
 website: http://www.ajitenprinceton.com/
+description: >-
+  Discover Ajiten Princeton in Princeton, NJ$$$Ajiten Princeton Japanese
+  restaurant in Princeton, NJ, provides an intimate dining spot focused on
+  authentic Japanese flavors, including fresh sushi and flavorful ramen. This
+  cozy venue embraces a BYOB policy, allowing guests to enjoy their meals in a
+  relaxed, unpretentious environment that enhances the overall experience. The
+  menu highlights quality ingredients and traditional preparations, making it a
+  go-to choice for those seeking sushi restaurants in the area. With its
+  moderate pricing and welcoming vibe, it's an ideal destination for anyone
+  exploring Japanese places near me looking for a simple yet satisfying meal.
+generative_summary: >-
+  Discover Ajiten Princeton in Princeton, NJ$$$Ajiten Princeton Japanese
+  restaurant in Princeton, NJ, provides an intimate dining spot focused on
+  authentic Japanese flavors, including fresh sushi and flavorful ramen. This
+  cozy venue embraces a BYOB policy, allowing guests to enjoy their meals in a
+  relaxed, unpretentious environment that enhances the overall experience. The
+  menu highlights quality ingredients and traditional preparations, making it a
+  go-to choice for those seeking sushi restaurants in the area. With its
+  moderate pricing and welcoming vibe, it's an ideal destination for anyone
+  exploring Japanese places near me looking for a simple yet satisfying meal.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ9bPHlsDmw4kRZh2Dex6Ipl0/reviews/ChZDSUhNMG9nS0VJQ0FnSURONmVLeVN3EAE
@@ -375,6 +394,17 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNqN2NueG9RRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNqN2NueG9RRRAB!2m1!1s0x89c3e6c096c7b3f5:0x5da6881e7b831d66
+review_summary: >-
+  Review Highlights from Visitors$$$Folks generally rave about the fresh sushi
+  and comforting Japanese dishes, noting how the authentic flavors and cozy
+  atmosphere make for a memorable meal. While some mention occasional waits or
+  service hiccups, the overall vibe and food quality keep things enjoyable for
+  most. It's clear that many appreciate the value for the price, with positive
+  nods to the tasty options that stand out in the local scene. Even with a few
+  mixed experiences, this spot remains a solid pick for sushi enthusiasts
+  searching for reliable spots nearby, offering enough highlights to encourage a
+  try.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   valetParking: false
 payment_options:
@@ -405,8 +435,8 @@ serves_lunch: true
 serves_vegetarian_food: false
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Japanese fare served in an unassuming basement setting with a BYOB policy. No
   parties over 4.
 

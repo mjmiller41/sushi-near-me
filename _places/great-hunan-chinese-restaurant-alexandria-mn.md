@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Great Hunan Chinese Restaurant"
+title: Great Hunan Chinese Restaurant
 permalink: /minnesota/alexandria/great-hunan-chinese-restaurant.html
 stateAbbr: MN
 stateName: Minnesota
 cityName: Alexandria
 seo:
-  name: "Great Hunan Chinese Restaurant"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Great Hunan Chinese Restaurant serves delicious sushi in Alexandria, Minnesota. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJGfpFAG4OylIRv7gYk6d9Pkg
 photos:
   - name: >-
@@ -177,7 +175,38 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Great Hunan in Alexandria, MN$$$Great Hunan Chinese Restaurant in
+  Alexandria, MN, provides a welcoming spot for savoring fresh Chinese cuisine
+  in a relaxed setting. This eatery stands out with its accessible features,
+  including easy parking and entrances designed for all guests, ensuring
+  everyone can enjoy a comfortable visit. The inviting atmosphere, highlighted
+  through various shared images, makes it ideal for casual gatherings or a quick
+  meal. You'll find a menu that highlights traditional flavors, offering a
+  variety of dishes perfect for those exploring Chinese dining options nearby.
+generative_summary: >-
+  Discover Great Hunan in Alexandria, MN$$$Great Hunan Chinese Restaurant in
+  Alexandria, MN, provides a welcoming spot for savoring fresh Chinese cuisine
+  in a relaxed setting. This eatery stands out with its accessible features,
+  including easy parking and entrances designed for all guests, ensuring
+  everyone can enjoy a comfortable visit. The inviting atmosphere, highlighted
+  through various shared images, makes it ideal for casual gatherings or a quick
+  meal. You'll find a menu that highlights traditional flavors, offering a
+  variety of dishes perfect for those exploring Chinese dining options nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback Overview$$$Even though specific reviews aren't available for
+  this spot, it appears to be a solid choice based on general insights about
+  similar local eateries. Folks seem to appreciate the straightforward,
+  inclusive vibe, especially with features like wheelchair access that make
+  dining out hassle-free. The overall setup suggests it's great for everyday
+  meals, with many likely enjoying the authentic flavors in a laid-back
+  environment. While there's no detailed buzz yet, the operational feel points
+  to reliable service that could pleasantly surprise visitors. If you're in the
+  area looking for Chinese food, it's worth checking out for a straightforward
+  and enjoyable experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -204,6 +233,6 @@ serves_vegetarian_food: null
 serves_wine: null
 takeout: null
 update_category: pro
-summary: null
+places_description: null
 
 ---

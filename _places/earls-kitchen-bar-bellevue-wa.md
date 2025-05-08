@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Earls Kitchen + Bar"
+title: Earls Kitchen + Bar
 permalink: /washington/bellevue/earls-kitchen-bar.html
 stateAbbr: WA
 stateName: Washington
 cityName: Bellevue
 seo:
-  name: "Earls Kitchen + Bar"
-  type: Restaurant
+  type: restaurant
   links: https://www.earls.ca/locations/bellevue
-description: "Earls Kitchen + Bar serves delicious sushi in Bellevue, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJkTtnrYhskFQRuAW_QTilgLQ
 photos:
   - name: >-
@@ -142,8 +140,8 @@ photos:
       https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDPo_GGtQE&hl=en-US
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDPo_GGtQE!2e10!4m2!3m1!1s0x54906c88ad673b91:0xb480a53841bf05b8
-address: '700 Bellevue Way NE #130, Bellevue, WA 98004, USA'
-street: '700 Bellevue Way NE #130'
+address: 700 Bellevue Way NE Unit 130, Bellevue, WA 98004, USA
+street: 700 Bellevue Way NE Unit 130
 city: Bellevue
 state: WA
 zip: '98004'
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x54906c88ad673b91:0xb480a53841bf05b8!10e5
 primary_type: Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 10
+        minute: 0
+      close:
+        day: 1
+        hour: 0
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 0
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 0
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 0
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 0
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 1
+        minute: 0
+    - open:
+        day: 6
+        hour: 10
+        minute: 0
+      close:
+        day: 0
+        hour: 1
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 12:00 AM'
     - 'Tuesday: 11:30 AM – 12:00 AM'
     - 'Wednesday: 11:30 AM – 12:00 AM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 1:00 AM'
     - 'Saturday: 10:00 AM – 1:00 AM'
     - 'Sunday: 10:00 AM – 12:00 AM'
-  current:
-    - 'Monday: 11:30 AM – 12:00 AM'
-    - 'Tuesday: 11:30 AM – 12:00 AM'
-    - 'Wednesday: 11:30 AM – 12:00 AM'
-    - 'Thursday: 11:30 AM – 12:00 AM'
-    - 'Friday: 11:30 AM – 1:00 AM'
-    - 'Saturday: 10:00 AM – 1:00 AM'
-    - 'Sunday: 10:00 AM – 12:00 AM'
+  nextCloseTime: '2025-05-04T08:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,295 @@ phone: (425) 452-3275
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.3'
-rating_count: 0
+rating_count: 2865
 website: https://www.earls.ca/locations/bellevue
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Earls Kitchen + Bar in Bellevue, WA$$$Nestled in the heart of
+  Bellevue, WA, Earls Kitchen + Bar stands out as a sleek and inviting spot for
+  enjoying global-inspired comfort food and creative cocktails. This modern
+  restaurant chain offers a welcoming atmosphere with stylish decor, ample
+  seating, and accessibility features that make it easy for everyone to dine
+  comfortably. Patrons can savor a variety of dishes, including fresh sushi
+  options that add a delightful twist to the menu, making it a go-to choice for
+  those searching for quality Japanese-inspired eats nearby. With its extended
+  hours and options for brunch, lunch, or dinner, it's ideal for casual meetups
+  or groups seeking a lively vibe. The focus on global flavors ensures a
+  memorable experience for anyone exploring top-rated dining spots in the area.
+generative_summary: >-
+  Discover Earls Kitchen + Bar in Bellevue, WA$$$Nestled in the heart of
+  Bellevue, WA, Earls Kitchen + Bar stands out as a sleek and inviting spot for
+  enjoying global-inspired comfort food and creative cocktails. This modern
+  restaurant chain offers a welcoming atmosphere with stylish decor, ample
+  seating, and accessibility features that make it easy for everyone to dine
+  comfortably. Patrons can savor a variety of dishes, including fresh sushi
+  options that add a delightful twist to the menu, making it a go-to choice for
+  those searching for quality Japanese-inspired eats nearby. With its extended
+  hours and options for brunch, lunch, or dinner, it's ideal for casual meetups
+  or groups seeking a lively vibe. The focus on global flavors ensures a
+  memorable experience for anyone exploring top-rated dining spots in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJkTtnrYhskFQRuAW_QTilgLQ/reviews/ChZDSUhNMG9nS0VJQ0FnTURRa3ZLd0V3EAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Came here for brunch on a whim and was blown away. Service was efficient
+        (our server had 4 tables in the first 5 minutes of the restaurant
+        opening and handled all equally well..yes, I'm nosy). I love the
+        ambiance..lots of wood and natural plants. The brunch menu has a happy
+        hour option before 12pm, so we selected from there. It's still pricy but
+        it's not 2025-pricy. The food was AMAZING. Razor thin potato slices
+        stacked and fried, crab cake Benedict and smoked bacon with fresh
+        greens. Oh..my goodness. I've been getting bored by American breakfast
+        but this woke me right up ! We'll definitely be back!
+      languageCode: en
+    originalText:
+      text: >-
+        Came here for brunch on a whim and was blown away. Service was efficient
+        (our server had 4 tables in the first 5 minutes of the restaurant
+        opening and handled all equally well..yes, I'm nosy). I love the
+        ambiance..lots of wood and natural plants. The brunch menu has a happy
+        hour option before 12pm, so we selected from there. It's still pricy but
+        it's not 2025-pricy. The food was AMAZING. Razor thin potato slices
+        stacked and fried, crab cake Benedict and smoked bacon with fresh
+        greens. Oh..my goodness. I've been getting bored by American breakfast
+        but this woke me right up ! We'll definitely be back!
+      languageCode: en
+    authorAttribution:
+      displayName: Missy
+      uri: https://www.google.com/maps/contrib/104075978569875924169/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjU7W3lXgf4asREfFAMVepimBNpJrDQNZAFAZpAsGe3NWrW_uqgHzQ=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-03-10T04:59:03.241356Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURRa3ZLd0V3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURRa3ZLd0V3EAE!2m1!1s0x54906c88ad673b91:0xb480a53841bf05b8
+  - name: >-
+      places/ChIJkTtnrYhskFQRuAW_QTilgLQ/reviews/ChdDSUhNMG9nS0VJQ0FnSUR2NTc3SHpnRRAB
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        Dined here for the first time last week and loved it. We ordered the
+        Sticky Korean Ribs (on the New & Notable menu for Dec ‘24), the Birria
+        Tacos and the Nashville Crispy Chicken Sandwich. I also ordered the
+        Paloma Rosa cocktail and I enjoyed it!
+
+
+        Everything was DELICIOUS and the ribs were especially tasty; our
+        waitress recommended them to us and we were so glad she did.
+
+
+        I didn’t get the best pictures of the restaurant because it’s quite dark
+        at night, but it has a nice, swanky vibe and is very spacious.
+
+
+        Total for two including all that we ordered plus tip was ~$100.
+      languageCode: en
+    originalText:
+      text: >-
+        Dined here for the first time last week and loved it. We ordered the
+        Sticky Korean Ribs (on the New & Notable menu for Dec ‘24), the Birria
+        Tacos and the Nashville Crispy Chicken Sandwich. I also ordered the
+        Paloma Rosa cocktail and I enjoyed it!
+
+
+        Everything was DELICIOUS and the ribs were especially tasty; our
+        waitress recommended them to us and we were so glad she did.
+
+
+        I didn’t get the best pictures of the restaurant because it’s quite dark
+        at night, but it has a nice, swanky vibe and is very spacious.
+
+
+        Total for two including all that we ordered plus tip was ~$100.
+      languageCode: en
+    authorAttribution:
+      displayName: Carmen VonPatterson
+      uri: https://www.google.com/maps/contrib/101973100676231196668/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWJEchOccKozco-CaU1AW06tXHhvjSjA03kTX8YQ8WLl6a_AfyY=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-12-24T20:59:36.378108Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR2NTc3SHpnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR2NTc3SHpnRRAB!2m1!1s0x54906c88ad673b91:0xb480a53841bf05b8
+  - name: >-
+      places/ChIJkTtnrYhskFQRuAW_QTilgLQ/reviews/ChdDSUhNMG9nS0VJQ0FnSUNQOXZmZTRRRRAB
+    relativePublishTimeDescription: 5 months ago
+    rating: 4
+    text:
+      text: >-
+        Decided to stop by around lunchtime.  It's in a nice place, right by the
+        shops and in the center of everything in Bellevue. The ambience was
+        lovely, and the interior was beautiful. Our server was very friendly and
+        attentive. Food was just alright. My bf really wanted brunch and was
+        less than satisfied with his omelette, he said it seemed like they
+        rushed it, and some vegetables were not cooked all the way inside his
+        omelette. My sesame bowl with ahi tuna was pretty good, but had too much
+        citrus dressing. Otherwise a good experience.
+      languageCode: en
+    originalText:
+      text: >-
+        Decided to stop by around lunchtime.  It's in a nice place, right by the
+        shops and in the center of everything in Bellevue. The ambience was
+        lovely, and the interior was beautiful. Our server was very friendly and
+        attentive. Food was just alright. My bf really wanted brunch and was
+        less than satisfied with his omelette, he said it seemed like they
+        rushed it, and some vegetables were not cooked all the way inside his
+        omelette. My sesame bowl with ahi tuna was pretty good, but had too much
+        citrus dressing. Otherwise a good experience.
+      languageCode: en
+    authorAttribution:
+      displayName: Alesya Kos
+      uri: https://www.google.com/maps/contrib/114152422855266413498/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVFt_A8o9Uc8vKxlLbMEfSWEAepaMV02g-LH0wrFvAwcdR_68Uv4g=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-11-24T09:29:50.104184Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNQOXZmZTRRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNQOXZmZTRRRRAB!2m1!1s0x54906c88ad673b91:0xb480a53841bf05b8
+  - name: >-
+      places/ChIJkTtnrYhskFQRuAW_QTilgLQ/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJMUpmME9nEAE
+    relativePublishTimeDescription: a month ago
+    rating: 4
+    text:
+      text: >-
+        I recently dined at Earls Kitchen + Bar and was impressed by the amazing
+        ambience and music. I ordered the 14oz Ribeye/Wagyu Sushi for $68.50,
+        and while the sushi part was absolutely delicious, I was not a fan of
+        the sauce on the ribeye. However, I didn't want to inconvenience the
+        staff by asking for a remake. My friend ordered the Tomahawk, but was
+        mistakenly served a fish dish instead. Despite the mix-up, we decided
+        not to wait for a replacement so our food wouldn't get cold. Our server,
+        Rachel, was exceptionally friendly and made our dining experience better
+        with her constant smile.
+
+
+        Towards the end of our meal, we requested the check and had to wait a
+        considerable amount of time. Understandably, the restaurant was busy,
+        our server was occupied, and assistance seemed to be needed. This delay
+        made us late for other commitments. Moreover, we were automatically
+        charged a 20% gratuity for parties of 6 or more, and additional tip was
+        requested. While we typically tip generously, the extra solicitation
+        felt unnecessary.
+
+
+        Overall, the food was good and the service was commendable.
+      languageCode: en
+    originalText:
+      text: >-
+        I recently dined at Earls Kitchen + Bar and was impressed by the amazing
+        ambience and music. I ordered the 14oz Ribeye/Wagyu Sushi for $68.50,
+        and while the sushi part was absolutely delicious, I was not a fan of
+        the sauce on the ribeye. However, I didn't want to inconvenience the
+        staff by asking for a remake. My friend ordered the Tomahawk, but was
+        mistakenly served a fish dish instead. Despite the mix-up, we decided
+        not to wait for a replacement so our food wouldn't get cold. Our server,
+        Rachel, was exceptionally friendly and made our dining experience better
+        with her constant smile.
+
+
+        Towards the end of our meal, we requested the check and had to wait a
+        considerable amount of time. Understandably, the restaurant was busy,
+        our server was occupied, and assistance seemed to be needed. This delay
+        made us late for other commitments. Moreover, we were automatically
+        charged a 20% gratuity for parties of 6 or more, and additional tip was
+        requested. While we typically tip generously, the extra solicitation
+        felt unnecessary.
+
+
+        Overall, the food was good and the service was commendable.
+      languageCode: en
+    authorAttribution:
+      displayName: Kamonchanok Combs
+      uri: https://www.google.com/maps/contrib/101372054702989484618/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUgsRTnhyWbEYZCvh5cbvx1QDvlFSIP5bDnEcxpPeuE6ugndHSk=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-03-30T16:55:03.768871Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNJMUpmME9nEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNJMUpmME9nEAE!2m1!1s0x54906c88ad673b91:0xb480a53841bf05b8
+  - name: >-
+      places/ChIJkTtnrYhskFQRuAW_QTilgLQ/reviews/ChdDSUhNMG9nS0VJQ0FnTURRaE5YU3RnRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Great place to have dinner with your friends or family! I had a Green
+        Salad with Shrimps, absolutely delicious! I also had a nonalcoholic
+        drink the Coconut Mango Cooler, it was so good!! Highly recommend it!
+      languageCode: en
+    originalText:
+      text: >-
+        Great place to have dinner with your friends or family! I had a Green
+        Salad with Shrimps, absolutely delicious! I also had a nonalcoholic
+        drink the Coconut Mango Cooler, it was so good!! Highly recommend it!
+      languageCode: en
+    authorAttribution:
+      displayName: Massiel Martinez
+      uri: https://www.google.com/maps/contrib/104871393981653325509/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjW5uHwkK6_5NnNGV5OOgfxWOJa-xhKNv7P9xCy9JS04Ht0HWwY=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-03-08T23:42:31.008874Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURRaE5YU3RnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURRaE5YU3RnRRAB!2m1!1s0x54906c88ad673b91:0xb480a53841bf05b8
+review_summary: >-
+  What Visitors Love About This Spot$$$Folks rave about the tasty dishes at this
+  Bellevue eatery, with standout items like flavorful ribs and fresh sushi
+  keeping diners coming back for more. Many appreciate the welcoming ambiance
+  and solid service that make every meal feel relaxed and enjoyable, even during
+  busy times. While some note that prices can lean toward the higher side, the
+  overall value shines through in the generous portions and creative drink
+  selections that pair perfectly with the food. It's clear that the friendly
+  staff and lively atmosphere help create a positive experience, drawing in
+  those looking for a casual night out. All in all, this place delivers a solid
+  dining adventure that's worth checking out for anyone hunting for great eats
+  in the neighborhood.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  paidParkingLot: true
+  freeGarageParking: true
+  paidGarageParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
+curbside_pickup: true
+delivery: true
+dine_in: true
+good_for_children: false
+good_for_groups: true
+good_for_sports: true
+live_music: false
+menu_for_children: false
 outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: true
+serves_brunch: true
+serves_cocktails: true
+serves_coffee: true
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Sleek, upscale chain serving gourmet burgers, global comfort food, cocktails,
+  wines & beers.
 
 ---

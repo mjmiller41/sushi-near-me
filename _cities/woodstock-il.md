@@ -5,4 +5,5 @@ permalink: /illinois/woodstock/
 stateAbbr: IL
 stateName: Illinois
 cityName: Woodstock
+
 ---

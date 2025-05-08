@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Mola"
+title: Mola
 permalink: /pennsylvania/pittsburgh/mola.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Pittsburgh
 seo:
-  name: "Mola"
-  type: Restaurant
-  links: null
-description: "Mola serves delicious sushi in Pittsburgh, Pennsylvania. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.themolafish.com/
 place_id: ChIJPWcNTYrzNIgR37erh1gupOE
 photos:
   - name: >-
@@ -170,8 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8834f38a4d0d673d:0xe1a42e5887abb7df!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:30 AM – 9:00 PM'
+    - 'Tuesday: Closed'
+    - 'Wednesday: 11:30 AM – 9:00 PM'
+    - 'Thursday: 11:30 AM – 9:00 PM'
+    - 'Friday: 11:30 AM – 10:00 PM'
+    - 'Saturday: 12:00 – 10:00 PM'
+    - 'Sunday: 12:00 – 8:30 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +234,48 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
+phone: (412) 365-6688
 price_level: null
 price_range: null
-rating: null
-rating_count: 0
-website: null
+rating: '4.6'
+rating_count: 677
+website: http://www.themolafish.com/
+description: >-
+  Discover Mola in Pittsburgh$$$Mola in Pittsburgh, PA, stands out as a
+  welcoming hub for Japanese cuisine lovers, offering a variety of fresh sushi
+  and poke options in a relaxed, casual setting. This spot features a cozy bar
+  area perfect for enjoying creative dishes like flavorful rolls and other
+  Japanese-inspired fare, all complemented by convenient Wi-Fi for those dining
+  on the go. Accessibility is a key highlight, with options like
+  wheelchair-accessible parking and entrances making it easy for everyone to
+  enjoy the experience. Whether you're seeking a quick bite or a leisurely meal,
+  the thoughtfully designed space combines modern comfort with authentic
+  flavors, ideal for anyone exploring top sushi restaurants in the area.
+generative_summary: >-
+  Discover Mola in Pittsburgh$$$Mola in Pittsburgh, PA, stands out as a
+  welcoming hub for Japanese cuisine lovers, offering a variety of fresh sushi
+  and poke options in a relaxed, casual setting. This spot features a cozy bar
+  area perfect for enjoying creative dishes like flavorful rolls and other
+  Japanese-inspired fare, all complemented by convenient Wi-Fi for those dining
+  on the go. Accessibility is a key highlight, with options like
+  wheelchair-accessible parking and entrances making it easy for everyone to
+  enjoy the experience. Whether you're seeking a quick bite or a leisurely meal,
+  the thoughtfully designed space combines modern comfort with authentic
+  flavors, ideal for anyone exploring top sushi restaurants in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this sushi spot often praise the
+  mouthwatering selection of dishes, like the tasty pork belly bao and fresh
+  blue crab rolls that deliver bold, satisfying flavors with every bite. Folks
+  appreciate the warm and helpful staff who make the dining experience feel
+  welcoming and informative, adding to the overall enjoyment. The lively
+  atmosphere keeps things fun and energetic, making it a favorite for groups or
+  solo diners looking for a casual vibe. Overall, the consensus leans positive,
+  with many highlighting it as a reliable choice for quality Japanese fare that
+  keeps customers coming back for more, especially if you're hunting for great
+  sushi places nearby.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +301,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

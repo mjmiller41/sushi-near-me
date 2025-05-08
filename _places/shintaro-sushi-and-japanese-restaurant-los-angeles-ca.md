@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Shintaro Sushi and Japanese Restaurant"
+title: Shintaro Sushi and Japanese Restaurant
 permalink: /california/los-angeles/shintaro-sushi-and-japanese-restaurant.html
 stateAbbr: CA
 stateName: California
 cityName: Los Angeles
 seo:
-  name: "Shintaro Sushi and Japanese Restaurant"
-  type: Restaurant
+  type: restaurant
   links: http://www.shintarosushi.com/
-description: "Shintaro Sushi and Japanese Restaurant serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJSaTnhSK_woARtahbUktUF1o
 photos:
   - name: >-
@@ -170,7 +168,105 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c2bf2285e7a449:0x5a17544b525ba8b5!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 23
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 15
+        minute: 0
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 23
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 15
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 23
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 23
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 23
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 3:00 PM, 5:00 – 11:00 PM'
     - 'Tuesday: 11:00 AM – 3:00 PM, 5:00 – 11:00 PM'
     - 'Wednesday: 11:00 AM – 3:00 PM, 5:00 – 11:00 PM'
@@ -178,14 +274,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 3:00 PM, 5:00 – 11:00 PM'
     - 'Saturday: 5:00 – 11:00 PM'
     - 'Sunday: 5:00 – 11:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 3:00 PM, 5:00 – 11:00 PM'
-    - 'Tuesday: 11:00 AM – 3:00 PM, 5:00 – 11:00 PM'
-    - 'Wednesday: 11:00 AM – 3:00 PM, 5:00 – 11:00 PM'
-    - 'Thursday: 11:00 AM – 3:00 PM, 5:00 – 11:00 PM'
-    - 'Friday: 11:00 AM – 3:00 PM, 5:00 – 11:00 PM'
-    - 'Saturday: 5:00 – 11:00 PM'
-    - 'Sunday: 5:00 – 11:00 PM'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +286,228 @@ phone: (323) 882-6524
 price_level: PRICE_LEVEL_MODERATE
 price_range: $30 &ndash; $50
 rating: '4.5'
-rating_count: 0
+rating_count: 406
 website: http://www.shintarosushi.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Shintaro Sushi in Los Angeles$$$Shintaro Sushi and Japanese
+  Restaurant in Los Angeles, CA, serves up traditional-style sushi and authentic
+  Japanese dishes in a welcoming, casual environment perfect for sushi
+  enthusiasts. This spot features a cozy setup with wooden tables and a sushi
+  bar, making it an ideal choice for those seeking Japanese places near me that
+  blend simplicity with flavorful options. Accessibility is a key highlight,
+  including wheelchair-friendly features and ample parking, ensuring everyone
+  can enjoy a comfortable dining experience. The menu emphasizes fresh
+  ingredients and a variety of dishes, from classic rolls to hearty entrees,
+  catering to those looking for top-rated sushi in a relaxed atmosphere. Whether
+  you're stopping by for lunch specials or evening meals, it's a go-to
+  destination for quality Japanese cuisine that keeps diners coming back.
+generative_summary: >-
+  Discover Shintaro Sushi in Los Angeles$$$Shintaro Sushi and Japanese
+  Restaurant in Los Angeles, CA, serves up traditional-style sushi and authentic
+  Japanese dishes in a welcoming, casual environment perfect for sushi
+  enthusiasts. This spot features a cozy setup with wooden tables and a sushi
+  bar, making it an ideal choice for those seeking Japanese places near me that
+  blend simplicity with flavorful options. Accessibility is a key highlight,
+  including wheelchair-friendly features and ample parking, ensuring everyone
+  can enjoy a comfortable dining experience. The menu emphasizes fresh
+  ingredients and a variety of dishes, from classic rolls to hearty entrees,
+  catering to those looking for top-rated sushi in a relaxed atmosphere. Whether
+  you're stopping by for lunch specials or evening meals, it's a go-to
+  destination for quality Japanese cuisine that keeps diners coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJSaTnhSK_woARtahbUktUF1o/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJNHBMLWhRRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        The food was really good the staff very friendly and polite I love the
+        atmosphere they even had old Japanese movies playing in the wall. I
+        recommend this place 100%.
+      languageCode: en
+    originalText:
+      text: >-
+        The food was really good the staff very friendly and polite I love the
+        atmosphere they even had old Japanese movies playing in the wall. I
+        recommend this place 100%.
+      languageCode: en
+    authorAttribution:
+      displayName: Mary Perez
+      uri: https://www.google.com/maps/contrib/117565482443493046024/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUR9Wcs5oTNujyOB-Xp1rkcSCADCixXByxG9FE4jPnwvm67PzDj-Q=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-03-31T15:46:06.600502Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNJNHBMLWhRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNJNHBMLWhRRRAB!2m1!1s0x80c2bf2285e7a449:0x5a17544b525ba8b5
+  - name: >-
+      places/ChIJSaTnhSK_woARtahbUktUF1o/reviews/ChdDSUhNMG9nS0VJQ0FnTUNvc3RPdzhnRRAB
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        Don’t let the outside fool you, the inside has nice lighting and a
+        really enjoyable atmosphere.  The food is excellent!
+
+
+        We had miso (above average), the green beans (spectacular), and a verity
+        of different sushi (all of it prepared perfectly and with attention to
+        detail.
+
+
+        The prices are reasonable and the service was very good.  We highly
+        recommend if you’re in the area looking for a meal!
+      languageCode: en
+    originalText:
+      text: >-
+        Don’t let the outside fool you, the inside has nice lighting and a
+        really enjoyable atmosphere.  The food is excellent!
+
+
+        We had miso (above average), the green beans (spectacular), and a verity
+        of different sushi (all of it prepared perfectly and with attention to
+        detail.
+
+
+        The prices are reasonable and the service was very good.  We highly
+        recommend if you’re in the area looking for a meal!
+      languageCode: en
+    authorAttribution:
+      displayName: Brandon Jones
+      uri: https://www.google.com/maps/contrib/115211868950216316383/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUgkKssRKmXrYQiteBRxCUWTZ9lX53G7LAyaa_Xf-6zNJFHAQ8hXw=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-16T02:46:32.983415Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNvc3RPdzhnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNvc3RPdzhnRRAB!2m1!1s0x80c2bf2285e7a449:0x5a17544b525ba8b5
+  - name: >-
+      places/ChIJSaTnhSK_woARtahbUktUF1o/reviews/ChZDSUhNMG9nS0VJQ0FnTURvN3RYQ2VREAE
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        5 course sashimi omakase plus a big asahi draft for $100. Incredible
+        deal. Marvin is wonderful. What a gem of a restaurant. Great value, just
+        delicious. Yellow tail, salmon, mackerel, eel, etc. wow.
+      languageCode: en
+    originalText:
+      text: >-
+        5 course sashimi omakase plus a big asahi draft for $100. Incredible
+        deal. Marvin is wonderful. What a gem of a restaurant. Great value, just
+        delicious. Yellow tail, salmon, mackerel, eel, etc. wow.
+      languageCode: en
+    authorAttribution:
+      displayName: Justin Green
+      uri: https://www.google.com/maps/contrib/108364048695810038006/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXDFeMGL6rw51sgd7CuVYrE0FChcSRce4fYAMeHq5ehKhAnWKRA=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-25T04:52:32.799623Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURvN3RYQ2VREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURvN3RYQ2VREAE!2m1!1s0x80c2bf2285e7a449:0x5a17544b525ba8b5
+  - name: >-
+      places/ChIJSaTnhSK_woARtahbUktUF1o/reviews/ChdDSUhNMG9nS0VJQ0FnTUNRNmVpVG1nRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Nice price/value relation, the lunch specials hit the spot. Just make
+        sure you order your nigiri without wasabi, otherwise it comes with it.
+      languageCode: en
+    originalText:
+      text: >-
+        Nice price/value relation, the lunch specials hit the spot. Just make
+        sure you order your nigiri without wasabi, otherwise it comes with it.
+      languageCode: en
+    authorAttribution:
+      displayName: BereBautista
+      uri: https://www.google.com/maps/contrib/103698741329499529095/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWBTP9P0lMwlMMfThosV1CmnwJFqplYggdIqDpuMqXlL0cZR84O=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-03-05T14:48:41.582963Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNRNmVpVG1nRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNRNmVpVG1nRRAB!2m1!1s0x80c2bf2285e7a449:0x5a17544b525ba8b5
+  - name: >-
+      places/ChIJSaTnhSK_woARtahbUktUF1o/reviews/ChdDSUhNMG9nS0VJQ0FnSURMX1l2SXp3RRAB
+    relativePublishTimeDescription: 10 months ago
+    rating: 5
+    text:
+      text: >-
+        Everything was heavenly! Super nice waiters and good atmosphere- even
+        better sushi! Not a single bad thing my family and I tried. AND TRY THE
+        BLACK COD!! Apparently they import it from Japan. ANYWAYS 10/10!
+      languageCode: en
+    originalText:
+      text: >-
+        Everything was heavenly! Super nice waiters and good atmosphere- even
+        better sushi! Not a single bad thing my family and I tried. AND TRY THE
+        BLACK COD!! Apparently they import it from Japan. ANYWAYS 10/10!
+      languageCode: en
+    authorAttribution:
+      displayName: Paige Davis
+      uri: https://www.google.com/maps/contrib/116418611386047918326/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXyNuH1MdMgS0HIKBVATBo2zhakCfOsvWDYgoWTsdAg_ZQp4Mw=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-06-30T03:29:23.933673Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURMX1l2SXp3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURMX1l2SXp3RRAB!2m1!1s0x80c2bf2285e7a449:0x5a17544b525ba8b5
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this sushi restaurant often praise the
+  outstanding food quality and inviting vibe, with many highlighting the fresh
+  flavors and well-prepared dishes that make it a standout option for sushi near
+  me. Folks appreciate the reasonable prices and attentive service, which add to
+  the overall enjoyable experience without any major drawbacks. The atmosphere
+  gets frequent nods for its unique touches, like fun elements that enhance the
+  meal, creating a memorable spot for casual outings. Reviewers frequently
+  mention great value in their meals, from tasty specials to a solid selection
+  of options, making it easy to see why it's considered among the best sushi
+  restaurants in the area. Overall, it's a reliable choice that delivers a
+  positive dining experience, encouraging repeat visits for anyone craving
+  authentic Japanese fare.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
+curbside_pickup: false
+delivery: true
+dine_in: true
 good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  At this strip-mall spot, diners eat Japanese fare at wooden tables & chairs or
+  at the sushi bar.
 
 ---

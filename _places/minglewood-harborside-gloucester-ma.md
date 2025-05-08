@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Minglewood Harborside"
+title: Minglewood Harborside
 permalink: /massachusetts/gloucester/minglewood-harborside.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Gloucester
 seo:
-  name: "Minglewood Harborside"
-  type: Restaurant
+  type: restaurant
   links: https://www.minglewoodharborside.com/
-description: "Seafood & sushi in a quirky harborfront space, plus live music in an adjoining pub & deck dining. Minglewood Harborside serves delicious sushi in Gloucester, Massachusetts. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJNwXWnB4l44kRed2ESlZEDX4
 photos:
   - name: >-
@@ -185,6 +183,27 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 0
 website: https://www.minglewoodharborside.com/
+description: >-
+  Discover Minglewood Harborside in Gloucester, MA$$$Minglewood Harborside in
+  Gloucester, MA, offers a charming harborside escape with fresh seafood and
+  inventive sushi options that capture the essence of coastal dining. This
+  waterfront venue boasts creative dishes made from local ingredients, paired
+  with tavern favorites and relaxing outdoor seating that enhances the scenic
+  views. Guests can enjoy a lively atmosphere featuring live music, making it an
+  ideal spot for casual meals or gatherings by the water. Accessibility features
+  like wheelchair-friendly entrances and parking add to the welcoming vibe,
+  ensuring everyone can savor the experience.
+generative_summary: >-
+  Discover Minglewood Harborside in Gloucester, MA$$$Minglewood Harborside in
+  Gloucester, MA, offers a charming harborside escape with fresh seafood and
+  inventive sushi options that capture the essence of coastal dining. This
+  waterfront venue boasts creative dishes made from local ingredients, paired
+  with tavern favorites and relaxing outdoor seating that enhances the scenic
+  views. Guests can enjoy a lively atmosphere featuring live music, making it an
+  ideal spot for casual meals or gatherings by the water. Accessibility features
+  like wheelchair-friendly entrances and parking add to the welcoming vibe,
+  ensuring everyone can savor the experience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJNwXWnB4l44kRed2ESlZEDX4/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3dk92NktBEAE
@@ -334,6 +353,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURPaWF1VmJBEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURPaWF1VmJBEAE!2m1!1s0x89e3251e9cd60537:0x7e0d44564a84dd79
+review_summary: >-
+  What Guests Are Saying$$$Visitors often rave about the delicious sushi and
+  fresh seafood at this harborside spot, highlighting it as a go-to choice for
+  satisfying meals in a relaxed setting. Many appreciate the quick service and
+  friendly staff, which make dining in or grabbing takeout a breeze, though some
+  note that in-person visits tend to shine brightest. The outdoor seating and
+  live music add a fun, energetic touch that enhances the overall experience,
+  drawing praise for its vibrant atmosphere. Overall, it's frequently
+  recommended for groups or families looking for quality food in a welcoming
+  environment, with the consensus leaning toward it being a solid pick for
+  anyone seeking tasty options nearby.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   valetParking: false
@@ -365,8 +396,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Seafood & sushi in a quirky harborfront space, plus live music in an adjoining
   pub & deck dining.
 

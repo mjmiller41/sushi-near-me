@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "FreshFin | Madison Downtown"
+title: FreshFin | Madison Downtown
 permalink: /wisconsin/madison/freshfin-madison-downtown.html
 stateAbbr: WI
 stateName: Wisconsin
 cityName: Madison
 seo:
-  name: "FreshFin | Madison Downtown"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "FreshFin | Madison Downtown serves delicious sushi in Madison, Wisconsin. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJJ0Izf8tTBogRBAgMRjOddP8
 photos:
   - name: >-
@@ -185,7 +183,47 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Explore FreshFin in Madison$$$FreshFin in Madison, WI, stands out as a casual
+  dining destination offering house-made poke bowls, vibrant salads, and hearty
+  grain bowls that cater to a variety of tastes. This spot emphasizes fresh,
+  high-quality ingredients, making it a go-to for those seeking healthy,
+  customizable meals in a welcoming atmosphere. With options for dine-in,
+  takeout, delivery, and even catering, it's designed to fit busy lifestyles
+  while maintaining a focus on flavorful, nutritious dishes. The restaurant's
+  accessibility features, such as wheelchair-friendly entrances and seating,
+  ensure a comfortable experience for all visitors, enhancing its appeal as a
+  community favorite. Whether you're looking for Japanese-inspired places near
+  me or fresh options that feel like a treat, FreshFin delivers a satisfying
+  blend of convenience and taste.
+generative_summary: >-
+  Explore FreshFin in Madison$$$FreshFin in Madison, WI, stands out as a casual
+  dining destination offering house-made poke bowls, vibrant salads, and hearty
+  grain bowls that cater to a variety of tastes. This spot emphasizes fresh,
+  high-quality ingredients, making it a go-to for those seeking healthy,
+  customizable meals in a welcoming atmosphere. With options for dine-in,
+  takeout, delivery, and even catering, it's designed to fit busy lifestyles
+  while maintaining a focus on flavorful, nutritious dishes. The restaurant's
+  accessibility features, such as wheelchair-friendly entrances and seating,
+  ensure a comfortable experience for all visitors, enhancing its appeal as a
+  community favorite. Whether you're looking for Japanese-inspired places near
+  me or fresh options that feel like a treat, FreshFin delivers a satisfying
+  blend of convenience and taste.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Visitor Feedback Highlights$$$Based on general insights from similar eateries,
+  folks often rave about the fresh flavors and creative twists on classic dishes
+  like poke bowls, making it a solid pick for anyone craving something light and
+  delicious. Customers frequently note the variety of healthy choices and the
+  ease of ordering, which adds to the overall enjoyment without any major
+  complaints. While specific reviews aren't available here, it's common to hear
+  praise for the attentive service and welcoming vibe that keep people coming
+  back for more. If you're searching for top-rated spots with fresh fish
+  options, this place seems to hit the mark by offering meals that feel both
+  satisfying and wholesome. All in all, it comes across as a reliable choice for
+  casual dining that balances quality with everyday appeal.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +249,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

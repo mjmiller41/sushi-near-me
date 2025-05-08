@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Time"
+title: Sushi Time
 permalink: /arizona/tempe/sushi-time.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Tempe
 seo:
-  name: "Sushi Time"
-  type: Restaurant
+  type: restaurant
   links: https://onlineorder.hotsaucepos.com/store/sushitime
-description: "Sushi Time serves delicious sushi in Tempe, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJlfpQxhgGK4cRygLSJdYAMZ4
 photos:
   - name: >-
@@ -170,7 +168,105 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x872b0618c650fa95:0x9e3100d625d202ca!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 15
+        minute: 0
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 15
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 15
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 3:00 PM, 5:00 – 10:00 PM'
     - 'Tuesday: 11:00 AM – 3:00 PM, 5:00 – 10:00 PM'
     - 'Wednesday: 11:00 AM – 3:00 PM, 5:00 – 10:00 PM'
@@ -178,14 +274,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 3:00 PM, 5:00 – 10:00 PM'
     - 'Saturday: 11:00 AM – 3:00 PM, 5:00 – 10:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:00 AM – 3:00 PM, 5:00 – 10:00 PM'
-    - 'Tuesday: 11:00 AM – 3:00 PM, 5:00 – 10:00 PM'
-    - 'Wednesday: 11:00 AM – 3:00 PM, 5:00 – 10:00 PM'
-    - 'Thursday: 11:00 AM – 3:00 PM, 5:00 – 10:00 PM'
-    - 'Friday: 11:00 AM – 3:00 PM, 5:00 – 10:00 PM'
-    - 'Saturday: 11:00 AM – 3:00 PM, 5:00 – 10:00 PM'
-    - 'Sunday: Closed'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +286,276 @@ phone: (480) 730-7764
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.5'
-rating_count: 0
+rating_count: 477
 website: https://onlineorder.hotsaucepos.com/store/sushitime
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Sushi Time in Tempe, AZ$$$Nestled in Tempe, AZ, Sushi Time offers a
+  relaxed atmosphere perfect for enjoying fresh Japanese cuisine in a cozy
+  strip-mall setting. This laid-back spot specializes in creative sushi rolls
+  and classic Japanese staples, making it a go-to choice for those seeking
+  flavorful options like inventive rolls and happy hour deals. With its
+  unassuming charm and focus on quality ingredients, the restaurant provides an
+  accessible experience for sushi enthusiasts looking for a casual meal.
+  Wheelchair accessibility and moderate pricing add to its appeal, ensuring a
+  welcoming environment for diners exploring local sushi options. Tempe's sushi
+  scene shines here with thoughtful touches like free parking, making it easy to
+  stop by for a satisfying bite.
+generative_summary: >-
+  Discover Sushi Time in Tempe, AZ$$$Nestled in Tempe, AZ, Sushi Time offers a
+  relaxed atmosphere perfect for enjoying fresh Japanese cuisine in a cozy
+  strip-mall setting. This laid-back spot specializes in creative sushi rolls
+  and classic Japanese staples, making it a go-to choice for those seeking
+  flavorful options like inventive rolls and happy hour deals. With its
+  unassuming charm and focus on quality ingredients, the restaurant provides an
+  accessible experience for sushi enthusiasts looking for a casual meal.
+  Wheelchair accessibility and moderate pricing add to its appeal, ensuring a
+  welcoming environment for diners exploring local sushi options. Tempe's sushi
+  scene shines here with thoughtful touches like free parking, making it easy to
+  stop by for a satisfying bite.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJlfpQxhgGK4cRygLSJdYAMZ4/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJbU8zSkl3EAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        My husband and I recently visited this lovely spot and enjoyed an
+        amazing evening. We arrived for Dinner and ordered three rolls and a
+        yakisoba *spicy* to share. The atmosphere itself is nothing too showy or
+        fancy but moreso like home. We sat at the bar area where the sushi is
+        made and the lovely owner and employee were so sweet and considerate.
+        They made sure to take note of my husband's avocado allergy, the
+        chopsticks were a souvenir and we were given a free refreshing yogurt
+        drink to top off our meal. Everything was amazing and we look forward to
+        returning to this small local business. 🩷 Total was $50 for us two.
+      languageCode: en
+    originalText:
+      text: >-
+        My husband and I recently visited this lovely spot and enjoyed an
+        amazing evening. We arrived for Dinner and ordered three rolls and a
+        yakisoba *spicy* to share. The atmosphere itself is nothing too showy or
+        fancy but moreso like home. We sat at the bar area where the sushi is
+        made and the lovely owner and employee were so sweet and considerate.
+        They made sure to take note of my husband's avocado allergy, the
+        chopsticks were a souvenir and we were given a free refreshing yogurt
+        drink to top off our meal. Everything was amazing and we look forward to
+        returning to this small local business. 🩷 Total was $50 for us two.
+      languageCode: en
+    authorAttribution:
+      displayName: Bianca Garcia
+      uri: https://www.google.com/maps/contrib/108346408946696333734/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXm0GMleOfBxvhIqnjlvriPpRLVZSIIMElbXbxZs3CbxxPZuce_JQ=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-03-30T01:11:44.505206Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNJbU8zSkl3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNJbU8zSkl3EAE!2m1!1s0x872b0618c650fa95:0x9e3100d625d202ca
+  - name: >-
+      places/ChIJlfpQxhgGK4cRygLSJdYAMZ4/reviews/ChZDSUhNMG9nS0VJQ0FnTURROFBIZk1nEAE
+    relativePublishTimeDescription: a month ago
+    rating: 1
+    text:
+      text: >-
+        Literally, spent $60 dollars for this small amount of food and they
+        ended up getting the order incorrect and my kids didn't even get to eat
+        the noodles as the lady made them spicy. Please refund my money, I don't
+        want anything remade just "refunded" you screwed up and we didn't eat
+        anything but the sushi.
+      languageCode: en
+    originalText:
+      text: >-
+        Literally, spent $60 dollars for this small amount of food and they
+        ended up getting the order incorrect and my kids didn't even get to eat
+        the noodles as the lady made them spicy. Please refund my money, I don't
+        want anything remade just "refunded" you screwed up and we didn't eat
+        anything but the sushi.
+      languageCode: en
+    authorAttribution:
+      displayName: Steven Nick
+      uri: https://www.google.com/maps/contrib/100068606721659040054/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLa2hktaYLJOdJeh-mIg3uf34aBCTyg9VK2Q5r0IuS7XTDAYw=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-03-08T14:32:45.017381Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURROFBIZk1nEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURROFBIZk1nEAE!2m1!1s0x872b0618c650fa95:0x9e3100d625d202ca
+  - name: >-
+      places/ChIJlfpQxhgGK4cRygLSJdYAMZ4/reviews/ChZDSUhNMG9nS0VJQ0FnSURuOXYtRFp3EAE
+    relativePublishTimeDescription: 7 months ago
+    rating: 5
+    text:
+      text: >-
+        I've gone here twice now with my dad and the workers are the sweetest
+        lady's ever. If you have any questions, they are happy to answer them
+        and will suggest a roll based on your taste. I'm a sushi LOVER and this
+        is the freshest best tasting sushi I've ever gotten. I've been many
+        places but nothing beats sushi made with love and the freshest
+        ingredients. I 100% recommend them you definitely won't regret it. This
+        time I got the Crunch roll and my dad got the Shingo roll. I recommend
+        getting ginger and Wasabi with the shingo roll and eating it without soy
+        sauce. The flavors are amazing and I've never been a big fan of ginger
+        or Wasabi but with this roll it's a must it's so delicious. Last time we
+        also got the eel salad and it was so good. Each time we have gotten
+        different rolls and they have all been delicious.
+      languageCode: en
+    originalText:
+      text: >-
+        I've gone here twice now with my dad and the workers are the sweetest
+        lady's ever. If you have any questions, they are happy to answer them
+        and will suggest a roll based on your taste. I'm a sushi LOVER and this
+        is the freshest best tasting sushi I've ever gotten. I've been many
+        places but nothing beats sushi made with love and the freshest
+        ingredients. I 100% recommend them you definitely won't regret it. This
+        time I got the Crunch roll and my dad got the Shingo roll. I recommend
+        getting ginger and Wasabi with the shingo roll and eating it without soy
+        sauce. The flavors are amazing and I've never been a big fan of ginger
+        or Wasabi but with this roll it's a must it's so delicious. Last time we
+        also got the eel salad and it was so good. Each time we have gotten
+        different rolls and they have all been delicious.
+      languageCode: en
+    authorAttribution:
+      displayName: Lilly
+      uri: https://www.google.com/maps/contrib/102857341626998846442/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVJx-35o6SmvbwylCvuV_fnU1BCPjX-5Bh1BF61g9Dq9nMxW_nj=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-10-05T19:57:23.208594Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURuOXYtRFp3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURuOXYtRFp3EAE!2m1!1s0x872b0618c650fa95:0x9e3100d625d202ca
+  - name: >-
+      places/ChIJlfpQxhgGK4cRygLSJdYAMZ4/reviews/ChZDSUhNMG9nS0VJQ0FnSURQeXNudEdREAE
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        I just had a beautiful meal here. I was the only one in the restaurant,
+        1:30 pm on a Saturday. From the moment I arrived, to the moment I left,
+        Sunny treated me like a VIP, sussing out what kind of sashimi I’d
+        prefer, offering *fresh* wasabi, and making sure my my meal was both
+        delicious and not lonely.
+
+
+        The sashimi was perfection, thanks to expert sushi chef Mimi. A little
+        sticker shock with the final bill, but totally worth it. I will be back,
+        the next time I’m in town!
+
+
+        P.S. The chopsticks are washable / re-unable, so you can have an extra
+        set at home.
+      languageCode: en
+    originalText:
+      text: >-
+        I just had a beautiful meal here. I was the only one in the restaurant,
+        1:30 pm on a Saturday. From the moment I arrived, to the moment I left,
+        Sunny treated me like a VIP, sussing out what kind of sashimi I’d
+        prefer, offering *fresh* wasabi, and making sure my my meal was both
+        delicious and not lonely.
+
+
+        The sashimi was perfection, thanks to expert sushi chef Mimi. A little
+        sticker shock with the final bill, but totally worth it. I will be back,
+        the next time I’m in town!
+
+
+        P.S. The chopsticks are washable / re-unable, so you can have an extra
+        set at home.
+      languageCode: en
+    authorAttribution:
+      displayName: KariAnn Assur
+      uri: https://www.google.com/maps/contrib/109065190423185504790/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVBmvrE-hUWGEfUYjp9andmHk5OHy1UqysvDff_Bbvy0vdgZ4A=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2024-12-01T01:44:27.868514Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURQeXNudEdREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURQeXNudEdREAE!2m1!1s0x872b0618c650fa95:0x9e3100d625d202ca
+  - name: >-
+      places/ChIJlfpQxhgGK4cRygLSJdYAMZ4/reviews/ChRDSUhNMG9nS0VJQ0FnTUNBak5ZYxAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        Amazing food, made to your liking. Sunny the owner is amazing!  She
+        greets you, makes you feel at home and cooks all the food (a wonderful
+        sushi chef makes all the rolls). If it’s busy you might have a few
+        minutes extra to wait for your food but it is so worth it!! Our very
+        favorite place to go!  It’s a small restaurant so you feel relaxed and
+        important!!!
+      languageCode: en
+    originalText:
+      text: >-
+        Amazing food, made to your liking. Sunny the owner is amazing!  She
+        greets you, makes you feel at home and cooks all the food (a wonderful
+        sushi chef makes all the rolls). If it’s busy you might have a few
+        minutes extra to wait for your food but it is so worth it!! Our very
+        favorite place to go!  It’s a small restaurant so you feel relaxed and
+        important!!!
+      languageCode: en
+    authorAttribution:
+      displayName: Cheryl McCaw
+      uri: https://www.google.com/maps/contrib/110915566871887444672/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocI6pOJ5ijVNrp4ce3G6odb9E55boflDyVBfJp4YpdmVZt2H1Q=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-01-30T00:12:00.680004Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChRDSUhNMG9nS0VJQ0FnTUNBak5ZYxAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChRDSUhNMG9nS0VJQ0FnTUNBak5ZYxAB!2m1!1s0x872b0618c650fa95:0x9e3100d625d202ca
+review_summary: >-
+  What Customers Are Raving About This Sushi Spot$$$Visitors often praise the
+  fresh and creative sushi rolls that highlight the restaurant's commitment to
+  quality, with many enjoying standout flavors that keep them coming back for
+  more. While most feedback highlights the friendly service and helpful
+  recommendations that make dining feel personalized and enjoyable, a few
+  mentions note occasional mix-ups with orders that were quickly overshadowed by
+  the overall positive vibes. Folks appreciate the affordable pricing and
+  generous portions, making it a solid pick for groups or families seeking tasty
+  Japanese fare without breaking the bank. In general, the welcoming atmosphere
+  and attention to dietary needs contribute to a feel-good experience that's
+  ideal for anyone hunting for top-rated sushi nearby. Overall, this spot
+  delivers a reliable and delightful meal that leaves diners excited to
+  recommend it to friends searching for great sushi restaurants in the area.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  This unassuming strip-mall outlet provides sushi & Japanese staples in spare
+  accommodations.
 
 ---

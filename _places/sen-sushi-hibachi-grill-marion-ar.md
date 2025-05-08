@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sen Sushi & Hibachi Grill"
+title: Sen Sushi & Hibachi Grill
 permalink: /arkansas/marion/sen-sushi-hibachi-grill.html
 stateAbbr: AR
 stateName: Arkansas
 cityName: Marion
 seo:
-  name: "Sen Sushi & Hibachi Grill"
-  type: Restaurant
+  type: restaurant
   links: https://sensushihibachi.com/
-description: "Sen Sushi & Hibachi Grill serves delicious sushi in Marion, Arkansas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJE3Tovh521YcRrZqm8Ytiv-s
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x87d5761ebee87413:0xebbf628bf1a69aad!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:00 AM – 10:00 PM'
     - 'Wednesday: 11:00 AM – 10:00 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:30 PM'
     - 'Saturday: 11:00 AM – 10:30 PM'
     - 'Sunday: 11:30 AM – 9:30 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:00 AM – 10:00 PM'
-    - 'Wednesday: 11:00 AM – 10:00 PM'
-    - 'Thursday: 11:00 AM – 10:00 PM'
-    - 'Friday: 11:00 AM – 10:30 PM'
-    - 'Saturday: 11:00 AM – 10:30 PM'
-    - 'Sunday: 11:30 AM – 9:30 PM'
+  nextCloseTime: '2025-05-04T03:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +238,268 @@ phone: (870) 739-7342
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.4'
-rating_count: 0
+rating_count: 397
 website: https://sensushihibachi.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Explore Sen Sushi & Hibachi Grill in Marion, AR$$$Sen Sushi & Hibachi Grill in
+  Marion, AR, provides a relaxed spot for enjoying authentic Japanese flavors,
+  nestled in a convenient shopping area with enticing happy-hour options. This
+  welcoming restaurant features a variety of fresh sushi rolls and sizzling
+  hibachi dishes that highlight bold tastes and quality ingredients, making it a
+  great choice for casual meals or gatherings. Visitors can savor the lively
+  atmosphere paired with affordable pricing, ideal for those seeking top-rated
+  Japanese cuisine without the fuss. Accessibility is a plus, with easy entry
+  and seating for all, enhancing the overall dining experience. Whether you're
+  in the mood for inventive rolls or grilled favorites, this spot delivers a
+  satisfying blend of tradition and everyday appeal.
+generative_summary: >-
+  Explore Sen Sushi & Hibachi Grill in Marion, AR$$$Sen Sushi & Hibachi Grill in
+  Marion, AR, provides a relaxed spot for enjoying authentic Japanese flavors,
+  nestled in a convenient shopping area with enticing happy-hour options. This
+  welcoming restaurant features a variety of fresh sushi rolls and sizzling
+  hibachi dishes that highlight bold tastes and quality ingredients, making it a
+  great choice for casual meals or gatherings. Visitors can savor the lively
+  atmosphere paired with affordable pricing, ideal for those seeking top-rated
+  Japanese cuisine without the fuss. Accessibility is a plus, with easy entry
+  and seating for all, enhancing the overall dining experience. Whether you're
+  in the mood for inventive rolls or grilled favorites, this spot delivers a
+  satisfying blend of tradition and everyday appeal.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJE3Tovh521YcRrZqm8Ytiv-s/reviews/ChdDSUhNMG9nS0VJQ0FnTUNndUtUemxRRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        The quality of a traditional hibachi restaurant at half the price.
+        Incredible sushi, sauces, and fried rice. The spicy pineapple fried rice
+        is the best and they make a great sushi love boat. Highly recommend.
+      languageCode: en
+    originalText:
+      text: >-
+        The quality of a traditional hibachi restaurant at half the price.
+        Incredible sushi, sauces, and fried rice. The spicy pineapple fried rice
+        is the best and they make a great sushi love boat. Highly recommend.
+      languageCode: en
+    authorAttribution:
+      displayName: Cayla Madaris
+      uri: https://www.google.com/maps/contrib/108317460579141970085/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjX-Hp5BJaedg-NiLM_pxXM6JByPUynYfJOrfygAXTOi7gbyYQ-Wxg=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2025-02-14T00:45:55.196253Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNndUtUemxRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNndUtUemxRRRAB!2m1!1s0x87d5761ebee87413:0xebbf628bf1a69aad
+  - name: >-
+      places/ChIJE3Tovh521YcRrZqm8Ytiv-s/reviews/ChZDSUhNMG9nS0VJQ0FnSUR2cnVmb1FREAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 2
+    text:
+      text: >-
+        They didn’t ask how I wanted my steak and so most of it was overcooked
+        to what I would have preferred. I wouldn’t get the dumplings again. My
+        salad was watery as if they didn’t dry the lettuce first.
+      languageCode: en
+    originalText:
+      text: >-
+        They didn’t ask how I wanted my steak and so most of it was overcooked
+        to what I would have preferred. I wouldn’t get the dumplings again. My
+        salad was watery as if they didn’t dry the lettuce first.
+      languageCode: en
+    authorAttribution:
+      displayName: Nicholas Jenson
+      uri: https://www.google.com/maps/contrib/112141712431044282860/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUv4ZVSmnBcF-dh76Lj2gZ0WlrF5a9Df-Q0eTYUxdPSObRPZXLy=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2024-12-20T17:02:00.366258Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR2cnVmb1FREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR2cnVmb1FREAE!2m1!1s0x87d5761ebee87413:0xebbf628bf1a69aad
+  - name: >-
+      places/ChIJE3Tovh521YcRrZqm8Ytiv-s/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ5cVB2OVVnEAE
+    relativePublishTimeDescription: a year ago
+    rating: 4
+    text:
+      text: >-
+        My first visit was hard to chose what i wanted to order being that there
+        is so many choices,which lets me know each time i visit i will have
+        plenty of new things to try each time i stop by…
+
+
+        The atmosphere was good nice an peaceful,talked with both servers about
+        they favorite foods to order an which ones was popular amongst
+        customers…
+
+        I was very impressed with the preparation of each dish i ordered…
+
+        Food was decently fast being delivered to table,just know when ordering
+        deep fred rolls i will be 10/15min wait for them but well worth the
+        wait…
+
+        I started out simple with the king tuna roll an deep fried volcano roll
+        both are bold with flavor…
+
+        When i come to town this is my healthy choice of place to eat…
+      languageCode: en
+    originalText:
+      text: >-
+        My first visit was hard to chose what i wanted to order being that there
+        is so many choices,which lets me know each time i visit i will have
+        plenty of new things to try each time i stop by…
+
+
+        The atmosphere was good nice an peaceful,talked with both servers about
+        they favorite foods to order an which ones was popular amongst
+        customers…
+
+        I was very impressed with the preparation of each dish i ordered…
+
+        Food was decently fast being delivered to table,just know when ordering
+        deep fred rolls i will be 10/15min wait for them but well worth the
+        wait…
+
+        I started out simple with the king tuna roll an deep fried volcano roll
+        both are bold with flavor…
+
+        When i come to town this is my healthy choice of place to eat…
+      languageCode: en
+    authorAttribution:
+      displayName: Mr. Orange
+      uri: https://www.google.com/maps/contrib/107160306875368311080/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjU1XNIBFjqC38VyLLSLEOCGgEPkcCYnR_bYKw4YVL2h0Vk0ixw=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-03-12T20:21:11.160752Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQ5cVB2OVVnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQ5cVB2OVVnEAE!2m1!1s0x87d5761ebee87413:0xebbf628bf1a69aad
+  - name: >-
+      places/ChIJE3Tovh521YcRrZqm8Ytiv-s/reviews/ChZDSUhNMG9nS0VJQ0FnSUNQMHVualRBEAE
+    relativePublishTimeDescription: 5 months ago
+    rating: 1
+    text:
+      text: >-
+        The hibachi was just OK. Better than some, but not great. I would’ve not
+        even have thought about leaving any kind of negative review however if
+        not for the absolutely horrible service. First of all any Japanese
+        steakhouse that doesn’t serve Japanese beer, well, I’ll let you decide.
+        The little black girl which was my waitress was not rude in anyway, but
+        more concerned about sitting talking to her friend in the booth next to
+        me. At least more so than providing service anyway . She listed off
+        Beers they had available. I ordered one of those and she brought
+        something she hadn’t even listed. Like a good consumer, I drink it and
+        shut my mouth. The rest of the time I watch my food come up and sit a
+        top the sushi bar for quite a while before her friend pointed out that
+        her customers food was ready. Look I’m from out of town and obviously my
+        business doesn’t really matter, but I felt like I should leave this
+        review in hopes the owner might read it and make changes for future
+        customers Are not leaving bad reviews. All the luck to them.
+      languageCode: en
+    originalText:
+      text: >-
+        The hibachi was just OK. Better than some, but not great. I would’ve not
+        even have thought about leaving any kind of negative review however if
+        not for the absolutely horrible service. First of all any Japanese
+        steakhouse that doesn’t serve Japanese beer, well, I’ll let you decide.
+        The little black girl which was my waitress was not rude in anyway, but
+        more concerned about sitting talking to her friend in the booth next to
+        me. At least more so than providing service anyway . She listed off
+        Beers they had available. I ordered one of those and she brought
+        something she hadn’t even listed. Like a good consumer, I drink it and
+        shut my mouth. The rest of the time I watch my food come up and sit a
+        top the sushi bar for quite a while before her friend pointed out that
+        her customers food was ready. Look I’m from out of town and obviously my
+        business doesn’t really matter, but I felt like I should leave this
+        review in hopes the owner might read it and make changes for future
+        customers Are not leaving bad reviews. All the luck to them.
+      languageCode: en
+    authorAttribution:
+      displayName: Charles Lawrence
+      uri: https://www.google.com/maps/contrib/110173784594245408812/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocI7Un8VY4m3cRzbRfw8pkbDfttQkMqG2c4sGBPHW1SaOqyA6w=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-11-22T22:57:29.111787Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNQMHVualRBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNQMHVualRBEAE!2m1!1s0x87d5761ebee87413:0xebbf628bf1a69aad
+  - name: >-
+      places/ChIJE3Tovh521YcRrZqm8Ytiv-s/reviews/ChdDSUhNMG9nS0VJQ0FnSUR6eExTN193RRAB
+    relativePublishTimeDescription: 11 months ago
+    rating: 3
+    text:
+      text: >-
+        It was a decent Hibachi.. The waiter wasn't quite on point with the
+        service. I had the fried rice and egg roll. Both, in my opinion could
+        have been better.
+      languageCode: en
+    originalText:
+      text: >-
+        It was a decent Hibachi.. The waiter wasn't quite on point with the
+        service. I had the fried rice and egg roll. Both, in my opinion could
+        have been better.
+      languageCode: en
+    authorAttribution:
+      displayName: Cak3 Dough
+      uri: https://www.google.com/maps/contrib/100919617494550514216/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVYbO9CMSgT0yD1ZSizwFXxO8f7w208pIQYTe3REltEpBhzhAbCGA=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-06-07T15:00:58.054986Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR6eExTN193RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR6eExTN193RRAB!2m1!1s0x87d5761ebee87413:0xebbf628bf1a69aad
+review_summary: >-
+  Insights from Recent Feedback$$$Folks often praise the fresh sushi and
+  flavorful hibachi options at this spot, noting the variety and bold tastes
+  that make meals memorable and worth returning for. While most experiences
+  highlight delicious dishes like creative rolls and fried rice that hit the
+  spot, a few mentions point to occasional service slip-ups or inconsistent
+  cooking that could use some tweaking. Overall, it's clear that the welcoming
+  vibe and solid food quality keep many coming back, creating a generally
+  positive buzz among diners. Despite the rare complaints about wait times or
+  preparation, the generous portions and affordable prices help balance things
+  out for a fun, laid-back visit. If you're hunting for reliable Japanese eats
+  nearby, this place tends to deliver on taste while offering room for
+  improvement in the details.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  paidStreetParking: false
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
+curbside_pickup: false
+delivery: false
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: true
+outdoor_seating: false
+reservable: true
+restroom: true
 serves_beer: null
-serves_breakfast: null
-serves_brunch: null
+serves_breakfast: false
+serves_brunch: false
 serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
 serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

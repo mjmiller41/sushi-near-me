@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Kiku"
+title: Sushi Kiku
 permalink: /georgia/atlanta/sushi-kiku.html
 stateAbbr: GA
 stateName: Georgia
 cityName: Atlanta
 seo:
-  name: "Sushi Kiku"
-  type: Restaurant
+  type: restaurant
   links: https://www.sushikikuatlanta.com/
-description: "Informal eatery presenting Japanese entrees & sushi rolls, plus tempura cheesecake for dessert. Sushi Kiku serves delicious sushi in Atlanta, Georgia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJMfxHNeIF9YgRwtPLtRoN47I
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 0
 website: https://www.sushikikuatlanta.com/
+description: >-
+  Explore Sushi Kiku in Atlanta, GA$$$Sushi Kiku in Atlanta, GA, stands out as a
+  welcoming Japanese eatery known for its fresh sushi rolls and diverse entrees
+  that cater to a variety of tastes. This spot offers all-you-can-eat dining
+  options alongside a selection of beverages like beer, wine, and sake, making
+  it a go-to choice for those seeking satisfying Japanese meals in a relaxed
+  setting. The restaurant emphasizes accessibility with features like
+  wheelchair-friendly parking and entrances, ensuring everyone can enjoy the
+  experience. Affordable pricing in the moderate range adds to its appeal for
+  casual diners looking for quality sushi restaurants nearby. With its focus on
+  flavorful dishes and a cozy atmosphere, Sushi Kiku provides an ideal spot for
+  exploring top-rated Japanese cuisine without the formality of upscale venues.
+generative_summary: >-
+  Explore Sushi Kiku in Atlanta, GA$$$Sushi Kiku in Atlanta, GA, stands out as a
+  welcoming Japanese eatery known for its fresh sushi rolls and diverse entrees
+  that cater to a variety of tastes. This spot offers all-you-can-eat dining
+  options alongside a selection of beverages like beer, wine, and sake, making
+  it a go-to choice for those seeking satisfying Japanese meals in a relaxed
+  setting. The restaurant emphasizes accessibility with features like
+  wheelchair-friendly parking and entrances, ensuring everyone can enjoy the
+  experience. Affordable pricing in the moderate range adds to its appeal for
+  casual diners looking for quality sushi restaurants nearby. With its focus on
+  flavorful dishes and a cozy atmosphere, Sushi Kiku provides an ideal spot for
+  exploring top-rated Japanese cuisine without the formality of upscale venues.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJMfxHNeIF9YgRwtPLtRoN47I/reviews/ChdDSUhNMG9nS0VJQ0FnTURnNE03amdnRRAB
@@ -392,6 +415,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN2b1BycWJBEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN2b1BycWJBEAE!2m1!1s0x88f505e23547fc31:0xb2e30d1ab5cbd3c2
+review_summary: >-
+  What Visitors Are Sharing$$$Folks rave about the fresh, customizable sushi
+  rolls and generous portions that make this place a solid pick for affordable
+  Japanese eats, with many highlighting the great value and tasty options like
+  specialty rolls and appetizers. While some mention occasional inconsistencies
+  in food preparation, such as certain dishes not hitting the mark every time,
+  the overall vibe remains friendly and inviting for groups or solo diners.
+  Customers appreciate the welcoming service and atmosphere that keeps them
+  coming back, even if pricing can feel a bit tricky to navigate at times. All
+  in all, it's a spot where the positives like flavorful meals and relaxed
+  dining outweigh the minor hiccups, offering an honest win for anyone hunting
+  for reliable sushi close to home.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -423,8 +459,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Informal eatery presenting Japanese entrees & sushi rolls, plus tempura
   cheesecake for dessert.
 

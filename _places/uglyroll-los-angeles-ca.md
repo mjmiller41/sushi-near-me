@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "UglyRoll"
+title: UglyRoll
 permalink: /california/los-angeles/uglyroll.html
 stateAbbr: CA
 stateName: California
 cityName: Los Angeles
 seo:
-  name: "UglyRoll"
-  type: Restaurant
+  type: restaurant
   links: https://uglyroll.com/
-description: "UglyRoll serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJGVSq8ku6woARRHMpYW5TZI4
 photos:
   - name: >-
@@ -169,7 +167,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c2ba4bf2aa5419:0x8e64536e61297344!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 10
+        minute: 30
+      close:
+        day: 0
+        hour: 23
+        minute: 15
+    - open:
+        day: 1
+        hour: 12
+        minute: 0
+      close:
+        day: 1
+        hour: 23
+        minute: 15
+    - open:
+        day: 2
+        hour: 10
+        minute: 30
+      close:
+        day: 2
+        hour: 23
+        minute: 15
+    - open:
+        day: 3
+        hour: 10
+        minute: 30
+      close:
+        day: 3
+        hour: 23
+        minute: 15
+    - open:
+        day: 4
+        hour: 10
+        minute: 30
+      close:
+        day: 4
+        hour: 23
+        minute: 15
+    - open:
+        day: 5
+        hour: 10
+        minute: 30
+      close:
+        day: 5
+        hour: 23
+        minute: 15
+    - open:
+        day: 6
+        hour: 10
+        minute: 30
+      close:
+        day: 6
+        hour: 23
+        minute: 15
+  weekdayDescriptions:
     - 'Monday: 12:00 – 11:15 PM'
     - 'Tuesday: 10:30 AM – 11:15 PM'
     - 'Wednesday: 10:30 AM – 11:15 PM'
@@ -177,54 +233,298 @@ opening_hours:
     - 'Friday: 10:30 AM – 11:15 PM'
     - 'Saturday: 10:30 AM – 11:15 PM'
     - 'Sunday: 10:30 AM – 11:15 PM'
-  current:
-    - 'Monday: 12:00 – 11:15 PM'
-    - 'Tuesday: 10:30 AM – 11:15 PM'
-    - 'Wednesday: 10:30 AM – 11:15 PM'
-    - 'Thursday: 10:30 AM – 11:15 PM'
-    - 'Friday: 10:30 AM – 11:15 PM'
-    - 'Saturday: 10:30 AM – 11:15 PM'
-    - 'Sunday: 10:30 AM – 11:15 PM'
+  nextCloseTime: '2025-05-04T06:15:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 0
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: Open 24 hours'
+      - 'Tuesday: Open 24 hours'
+      - 'Wednesday: Open 24 hours'
+      - 'Thursday: Open 24 hours'
+      - 'Friday: Open 24 hours'
+      - 'Saturday: Open 24 hours'
+      - 'Sunday: Open 24 hours'
+    secondaryHoursType: DELIVERY
 phone: (310) 837-8500
 price_level: PRICE_LEVEL_INEXPENSIVE
 price_range: $10 &ndash; $20
 rating: '4.4'
-rating_count: 0
+rating_count: 465
 website: https://uglyroll.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover UglyRoll in Los Angeles, CA$$$UglyRoll in Los Angeles, CA, stands out
+  as a welcoming Japanese eatery specializing in fresh sushi, tempura, and other
+  classic dishes, making it a go-to spot for those searching for sushi
+  restaurants near you. This relaxed venue combines automated service elements
+  with a cozy atmosphere, offering affordable options like teriyaki and rolls
+  that highlight high-quality ingredients and generous portions. Accessibility
+  features such as wheelchair-friendly parking and seating ensure a comfortable
+  visit for everyone, while extended hours from morning through late evening
+  cater to busy diners. Whether you're craving top-rated sushi close to me or
+  exploring Japanese places in the area, UglyRoll delivers a straightforward yet
+  enjoyable dining experience with its focus on fresh flavors and value.
+generative_summary: >-
+  Discover UglyRoll in Los Angeles, CA$$$UglyRoll in Los Angeles, CA, stands out
+  as a welcoming Japanese eatery specializing in fresh sushi, tempura, and other
+  classic dishes, making it a go-to spot for those searching for sushi
+  restaurants near you. This relaxed venue combines automated service elements
+  with a cozy atmosphere, offering affordable options like teriyaki and rolls
+  that highlight high-quality ingredients and generous portions. Accessibility
+  features such as wheelchair-friendly parking and seating ensure a comfortable
+  visit for everyone, while extended hours from morning through late evening
+  cater to busy diners. Whether you're craving top-rated sushi close to me or
+  exploring Japanese places in the area, UglyRoll delivers a straightforward yet
+  enjoyable dining experience with its focus on fresh flavors and value.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJGVSq8ku6woARRHMpYW5TZI4/reviews/ChdDSUhNMG9nS0VJQ0FnTURJbTZMSy1RRRAB
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        My daughter says this place is run by the best restaurant owner ever. I
+        loved it too (the place and the kind service). Yummy sushi at really
+        good prices. Fast, fresh, and delicious omakase. Fire pit with a nice
+        size screen. What's not to love? Highly recommended.
+      languageCode: en
+    originalText:
+      text: >-
+        My daughter says this place is run by the best restaurant owner ever. I
+        loved it too (the place and the kind service). Yummy sushi at really
+        good prices. Fast, fresh, and delicious omakase. Fire pit with a nice
+        size screen. What's not to love? Highly recommended.
+      languageCode: en
+    authorAttribution:
+      displayName: jayinatlanta
+      uri: https://www.google.com/maps/contrib/106180435944681084826/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWkGIKjxMLhu_HVlofSZv9tR9H0QnQgHpWqgVidlX-hzZCcQDW_=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-04-13T06:29:01.260140Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJbTZMSy1RRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJbTZMSy1RRRAB!2m1!1s0x80c2ba4bf2aa5419:0x8e64536e61297344
+  - name: >-
+      places/ChIJGVSq8ku6woARRHMpYW5TZI4/reviews/ChdDSUhNMG9nS0VJQ0FnTURvdXNtTXNRRRAB
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        My family’s favorite local spot for delicious and affordable sushi, a
+        rarity, served with friendliness. We are sushi fanatics and love how
+        fresh the fish is and how generous the servings. Favorites include eel,
+        tuna and albacore nigiri, salmon skin salad, Ugly Roll, and the super
+        affordable omakase. Food is made right in front of you by the owner who
+        makes you feel at home in a way you rarely experience at restaurants
+        today. The atmosphere isn’t fancy but comfortable and there are many
+        personal touches by the owner. Happy to support this small business.
+      languageCode: en
+    originalText:
+      text: >-
+        My family’s favorite local spot for delicious and affordable sushi, a
+        rarity, served with friendliness. We are sushi fanatics and love how
+        fresh the fish is and how generous the servings. Favorites include eel,
+        tuna and albacore nigiri, salmon skin salad, Ugly Roll, and the super
+        affordable omakase. Food is made right in front of you by the owner who
+        makes you feel at home in a way you rarely experience at restaurants
+        today. The atmosphere isn’t fancy but comfortable and there are many
+        personal touches by the owner. Happy to support this small business.
+      languageCode: en
+    authorAttribution:
+      displayName: Julia Fierro
+      uri: https://www.google.com/maps/contrib/108744518572274581200/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWZiJCvP53QWfV4W-h7ur2OAZ28urszw600RQmrRj6SF7jYnAhS=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-24T03:27:59.346080Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURvdXNtTXNRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURvdXNtTXNRRRAB!2m1!1s0x80c2ba4bf2aa5419:0x8e64536e61297344
+  - name: >-
+      places/ChIJGVSq8ku6woARRHMpYW5TZI4/reviews/ChZDSUhNMG9nS0VJQ0FnSUQzbFp1RUpBEAE
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        Amazing experience! Great, personable, & friendly service/ staff. The
+        deals are so cheap too. The $15 combo has so much food and a can drink
+        (can beer or soda) included too. No other good quality sushi restaurant
+        in LA can get you a dinner for 2, drinks included for $30. Also the
+        taste and texture was the best I’ve had so far. Very creamy and/or
+        crunchy! Saki bombs weren’t on the menu but they were nice enough to add
+        a saki shot to our beers for free! Lots of parking near by
+      languageCode: en
+    originalText:
+      text: >-
+        Amazing experience! Great, personable, & friendly service/ staff. The
+        deals are so cheap too. The $15 combo has so much food and a can drink
+        (can beer or soda) included too. No other good quality sushi restaurant
+        in LA can get you a dinner for 2, drinks included for $30. Also the
+        taste and texture was the best I’ve had so far. Very creamy and/or
+        crunchy! Saki bombs weren’t on the menu but they were nice enough to add
+        a saki shot to our beers for free! Lots of parking near by
+      languageCode: en
+    authorAttribution:
+      displayName: Nicholas Casas
+      uri: https://www.google.com/maps/contrib/113169868514522762767/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWoGAHJgn60Gc4CD4QxvIjBw_9IOHlknOfTZdQeV-WtBC41atoyAA=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-11-17T06:08:07.277089Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQzbFp1RUpBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQzbFp1RUpBEAE!2m1!1s0x80c2ba4bf2aa5419:0x8e64536e61297344
+  - name: >-
+      places/ChIJGVSq8ku6woARRHMpYW5TZI4/reviews/ChdDSUhNMG9nS0VJQ0FnTUNBaVlydGpnRRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        I recently had the pleasure of dining at Ugly Roll, and I can't say
+        enough good things about this gem of a sushi spot! From the moment we
+        walked in, the atmosphere was so relaxing—soft lighting, cozy seating,
+        and a welcoming vibe that made it the perfect place to unwind.
+
+
+        The service was absolutely top-tier. The staff was attentive, friendly,
+        and genuinely passionate about the food they were serving. They took the
+        time to explain the menu and even made great recommendations based on
+        our preferences.
+
+
+        Now, let’s talk about the food—it was nothing short of excellent! We
+        started with the tempura, which was perfectly crispy and light, not
+        greasy at all. The cucumber roll was fresh and refreshing, with just the
+        right balance of flavors. But the star of the show was the Ugly
+        Albacore. Wow. The fish was melt-in-your-mouth tender, and the
+        combination of flavors was unforgettable. Every bite was a delight.
+
+
+        Ugly Roll has definitely earned a spot on my list of favorite sushi
+        places. If you’re looking for a relaxing atmosphere, exceptional
+        service, and incredible food, this is the place to go. I can’t wait to
+        come back and try more of their menu!
+      languageCode: en
+    originalText:
+      text: >-
+        I recently had the pleasure of dining at Ugly Roll, and I can't say
+        enough good things about this gem of a sushi spot! From the moment we
+        walked in, the atmosphere was so relaxing—soft lighting, cozy seating,
+        and a welcoming vibe that made it the perfect place to unwind.
+
+
+        The service was absolutely top-tier. The staff was attentive, friendly,
+        and genuinely passionate about the food they were serving. They took the
+        time to explain the menu and even made great recommendations based on
+        our preferences.
+
+
+        Now, let’s talk about the food—it was nothing short of excellent! We
+        started with the tempura, which was perfectly crispy and light, not
+        greasy at all. The cucumber roll was fresh and refreshing, with just the
+        right balance of flavors. But the star of the show was the Ugly
+        Albacore. Wow. The fish was melt-in-your-mouth tender, and the
+        combination of flavors was unforgettable. Every bite was a delight.
+
+
+        Ugly Roll has definitely earned a spot on my list of favorite sushi
+        places. If you’re looking for a relaxing atmosphere, exceptional
+        service, and incredible food, this is the place to go. I can’t wait to
+        come back and try more of their menu!
+      languageCode: en
+    authorAttribution:
+      displayName: Ryan R.
+      uri: https://www.google.com/maps/contrib/106471241466462234798/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWNNUHND9zrEn-xnA1PzFwPl62u4UqgiF1opPi5ocAXCCsSP0H_=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-02-01T23:25:33.554915Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNBaVlydGpnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNBaVlydGpnRRAB!2m1!1s0x80c2ba4bf2aa5419:0x8e64536e61297344
+  - name: >-
+      places/ChIJGVSq8ku6woARRHMpYW5TZI4/reviews/ChZDSUhNMG9nS0VJQ0FnSUQzeXN6b0tBEAE
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        I want to make this review very simple.
+
+        I knew this place a year ago and loved traditional cuisine. If you love
+        traditional sushi, I recommend this place. It is one of my favorite
+        places in Culver City.
+      languageCode: en
+    originalText:
+      text: >-
+        I want to make this review very simple.
+
+        I knew this place a year ago and loved traditional cuisine. If you love
+        traditional sushi, I recommend this place. It is one of my favorite
+        places in Culver City.
+      languageCode: en
+    authorAttribution:
+      displayName: Oscar Reyes
+      uri: https://www.google.com/maps/contrib/105509271903921093293/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVeXlKkMjb33nyFrZwoONKISHgD7KG3HEIlGXTOGAT5b9OrFYHU=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-11-14T01:58:30.882887Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQzeXN6b0tBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQzeXN6b0tBEAE!2m1!1s0x80c2ba4bf2aa5419:0x8e64536e61297344
+review_summary: >-
+  What Customers Are Saying$$$Visitors consistently praise UglyRoll for its
+  fresh and flavorful sushi, with many highlighting the generous servings and
+  unbeatable deals that make it a favorite for affordable Japanese dining. Folks
+  love the variety of options like omakase and specialty rolls, noting how they
+  provide great value without skimping on quality, perfect for anyone hunting
+  for the best sushi near me. The friendly service and comfortable atmosphere
+  add to the appeal, creating a welcoming vibe that encourages repeat visits for
+  casual meals with friends or family. While most experiences are positive, a
+  few mention occasional inconsistencies in service, but overall, the consensus
+  is that this spot offers a reliable and enjoyable experience that keeps
+  customers coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
+curbside_pickup: true
+delivery: true
+dine_in: true
+good_for_children: true
 good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Basic eatery providing a variety of rolls plus other Japanese standards like
+  teriyaki chicken.
 
 ---

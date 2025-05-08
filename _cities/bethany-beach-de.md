@@ -5,4 +5,5 @@ permalink: /delaware/bethany-beach/
 stateAbbr: DE
 stateName: Delaware
 cityName: Bethany Beach
+
 ---

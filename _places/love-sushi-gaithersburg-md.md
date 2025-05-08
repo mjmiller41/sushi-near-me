@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Love Sushi"
+title: Love Sushi
 permalink: /maryland/gaithersburg/love-sushi.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Gaithersburg
 seo:
-  name: "Love Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.lovesushigaithersburg.com/
-description: "Love Sushi serves delicious sushi in Gaithersburg, Maryland. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJK211fX_Tt4kRVWcWwjCW7Sk
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $10 &ndash; $20
 rating: '4.3'
 rating_count: 0
 website: http://www.lovesushigaithersburg.com/
+description: >-
+  Discover Love Sushi in Gaithersburg, MD$$$Love Sushi in Gaithersburg, MD,
+  stands out as a casual spot offering a diverse selection of fresh sushi rolls
+  and Japanese-inspired dishes, making it a go-to choice for those seeking
+  top-rated sushi near me. Nestled in the Shady Grove Center, this welcoming
+  restaurant features accessible options like wheelchair-friendly parking and
+  entrances, along with outdoor seating for a relaxed dining experience. Patrons
+  can enjoy a variety of beverages including beer and wine, paired with
+  reasonably priced meals that highlight quality ingredients and creative
+  flavors. For anyone exploring sushi restaurants in the area, the combination
+  of convenient location and thoughtful amenities ensures a satisfying visit
+  that caters to both individuals and groups.
+generative_summary: >-
+  Discover Love Sushi in Gaithersburg, MD$$$Love Sushi in Gaithersburg, MD,
+  stands out as a casual spot offering a diverse selection of fresh sushi rolls
+  and Japanese-inspired dishes, making it a go-to choice for those seeking
+  top-rated sushi near me. Nestled in the Shady Grove Center, this welcoming
+  restaurant features accessible options like wheelchair-friendly parking and
+  entrances, along with outdoor seating for a relaxed dining experience. Patrons
+  can enjoy a variety of beverages including beer and wine, paired with
+  reasonably priced meals that highlight quality ingredients and creative
+  flavors. For anyone exploring sushi restaurants in the area, the combination
+  of convenient location and thoughtful amenities ensures a satisfying visit
+  that caters to both individuals and groups.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJK211fX_Tt4kRVWcWwjCW7Sk/reviews/ChdDSUhNMG9nS0VJQ0FnTUNRei1fMTZBRRAB
@@ -316,6 +339,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURKb0xqTXN3RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURKb0xqTXN3RRAB!2m1!1s0x89b7d37f7d756d2b:0x29ed9630c2166755
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors to this sushi spot often rave about
+  the fresh and flavorful rolls, like the popular salmon mango and Crazy Scallop
+  options, which make it a solid pick for anyone craving delicious Japanese fare
+  nearby. Many appreciate the friendly service and helpful staff that enhance
+  the overall vibe, along with generous lunch specials and fair pricing that
+  keep things approachable without breaking the bank. While some mention the
+  atmosphere feeling a bit cozy rather than upscale, the quick online ordering
+  and tasty add-ons like ramen keep folks coming back for more. Overall, it's a
+  reliable choice for casual diners hunting for the best sushi near me, blending
+  solid flavors with attentive touches that leave a positive impression.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -348,7 +383,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

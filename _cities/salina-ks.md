@@ -5,4 +5,5 @@ permalink: /kansas/salina/
 stateAbbr: KS
 stateName: Kansas
 cityName: Salina
+
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Okada Japanese Steak & Seafood"
+title: Okada Japanese Steak & Seafood
 permalink: /maryland/california/okada-japanese-steak-seafood.html
 stateAbbr: MD
 stateName: Maryland
 cityName: California
 seo:
-  name: "Okada Japanese Steak & Seafood"
-  type: Restaurant
+  type: restaurant
   links: http://www.okadasteakhouse.com/
-description: "Upscale Asian surf 'n' turf dining stars grill chefs in sleek, modern surroundings. Okada Japanese Steak & Seafood serves delicious sushi in California, Maryland. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJSVPbhutjt4kRcGSf__E6fTU
 photos:
   - name: >-
@@ -185,6 +183,35 @@ price_range: $20 &ndash; $30
 rating: '4.2'
 rating_count: 0
 website: http://www.okadasteakhouse.com/
+description: >-
+  Discover Okada Japanese Steak & Seafood in California, MD$$$Okada Japanese
+  Steak & Seafood in California, MD, is a welcoming spot for enjoying authentic
+  Japanese cuisine, featuring fresh sushi and expertly prepared steak and
+  seafood options. The restaurant boasts a casual yet modern dining atmosphere
+  with a bar, making it ideal for intimate dinners or group outings, enhanced by
+  its accessibility features and variety of menu choices. Patrons can savor a
+  range of Japanese dishes like teppanyaki-style grilling and creative rolls,
+  all served in a setting that's perfect for those seeking top-rated sushi
+  experiences nearby. With options for beer, wine, and cocktails, it's a go-to
+  destination for flavorful meals that highlight the best of Japanese places
+  near me. Whether you're in the mood for a quick lunch or a leisurely dinner,
+  this spot combines quality ingredients with a relaxed vibe to create memorable
+  dining moments.
+generative_summary: >-
+  Discover Okada Japanese Steak & Seafood in California, MD$$$Okada Japanese
+  Steak & Seafood in California, MD, is a welcoming spot for enjoying authentic
+  Japanese cuisine, featuring fresh sushi and expertly prepared steak and
+  seafood options. The restaurant boasts a casual yet modern dining atmosphere
+  with a bar, making it ideal for intimate dinners or group outings, enhanced by
+  its accessibility features and variety of menu choices. Patrons can savor a
+  range of Japanese dishes like teppanyaki-style grilling and creative rolls,
+  all served in a setting that's perfect for those seeking top-rated sushi
+  experiences nearby. With options for beer, wine, and cocktails, it's a go-to
+  destination for flavorful meals that highlight the best of Japanese places
+  near me. Whether you're in the mood for a quick lunch or a leisurely dinner,
+  this spot combines quality ingredients with a relaxed vibe to create memorable
+  dining moments.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJSVPbhutjt4kRcGSf__E6fTU/reviews/ChZDSUhNMG9nS0VJQ0FnSUR2eHIyVVNBEAE
@@ -360,6 +387,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURGMEt1d0R3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURGMEt1d0R3EAE!2m1!1s0x89b763eb86db5349:0x357d3af1ff9f6470
+review_summary: >-
+  What Customers Are Saying$$$Folks often rave about the creative sushi rolls
+  and the entertaining vibe from the chefs, making meals here feel fun and
+  engaging for groups or date nights. While some have pointed out occasional
+  issues with portion sizes or food temperature that could use a bit more
+  attention, many appreciate the friendly service and helpful staff that keep
+  things welcoming. Overall, it's a solid choice for anyone hunting for the best
+  sushi near me, with highlights on the variety of dishes that keep diners
+  coming back for more. If you're exploring Japanese restaurants close to you,
+  this place generally delivers tasty options that satisfy, though it's wise to
+  expect a mix of experiences based on what others have shared. In the end, the
+  positives around flavor and atmosphere make it worth a try for sushi
+  enthusiasts looking for a casual spot to enjoy.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -393,8 +434,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Upscale Asian surf 'n' turf dining stars grill chefs in sleek, modern
   surroundings.
 

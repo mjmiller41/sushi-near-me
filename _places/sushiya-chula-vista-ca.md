@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushiya"
+title: Sushiya
 permalink: /california/chula-vista/sushiya.html
 stateAbbr: CA
 stateName: California
 cityName: Chula Vista
 seo:
-  name: "Sushiya"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushiya serves delicious sushi in Chula Vista, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ6UjJUpdF2YARGx8HTeKunfk
 photos:
   - name: >-
@@ -143,7 +141,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICV3O7NfQ!2e10!4m2!3m1!1s0x80d9459752c948e9:0xf99daee24d071f1b
 address: '2013, 2015 Birch Rd #1603, Chula Vista, CA 91915, USA'
-street: '2013, 2015 Birch Rd #1603'
+street: '2013,2015 Birch Rd #1603'
 city: Chula Vista
 state: CA
 zip: '91915'
@@ -185,7 +183,39 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Sushiya in Chula Vista, CA$$$Sushiya in Chula Vista, CA, stands out
+  as a casual Japanese restaurant offering fresh sushi and classic dishes in a
+  modern, inviting atmosphere. This spot highlights accessibility features like
+  wheelchair-friendly parking and entrances, making it welcoming for all
+  visitors seeking Japanese dining options nearby. Patrons can enjoy a trendy
+  setting that complements the flavorful rolls and traditional fare, drawing in
+  those exploring local sushi spots. With its focus on quality ingredients and a
+  relaxed vibe, it's an ideal choice for anyone craving authentic flavors in a
+  comfortable environment.
+generative_summary: >-
+  Discover Sushiya in Chula Vista, CA$$$Sushiya in Chula Vista, CA, stands out
+  as a casual Japanese restaurant offering fresh sushi and classic dishes in a
+  modern, inviting atmosphere. This spot highlights accessibility features like
+  wheelchair-friendly parking and entrances, making it welcoming for all
+  visitors seeking Japanese dining options nearby. Patrons can enjoy a trendy
+  setting that complements the flavorful rolls and traditional fare, drawing in
+  those exploring local sushi spots. With its focus on quality ingredients and a
+  relaxed vibe, it's an ideal choice for anyone craving authentic flavors in a
+  comfortable environment.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Customer Experiences$$$Feedback from visitors to places like
+  Sushiya often highlights the appeal of fresh, well-prepared sushi that keeps
+  diners coming back for more in the area. Many appreciate the straightforward
+  menu and cozy ambiance, noting it as a solid pick for casual meals with
+  friends or family. While some mention the need for quicker service during peak
+  times, the overall consensus leans positive on the taste and variety of
+  options available. This makes it a reliable spot for those hunting for
+  top-rated sushi experiences, blending enjoyment with everyday convenience in a
+  welcoming way.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +241,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

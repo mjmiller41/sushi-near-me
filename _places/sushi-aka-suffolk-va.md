@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "sushi aka"
+title: sushi aka
 permalink: /virginia/suffolk/sushi-aka.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Suffolk
 seo:
-  name: "sushi aka"
-  type: Restaurant
+  type: restaurant
   links: http://www.sushiaka.com/
-description: "sushi aka serves delicious sushi in Suffolk, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, and dinner."
 place_id: ChIJb21qDw0PsIkRcdgDM7rjRCM
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $30 &ndash; $50
 rating: '4.7'
 rating_count: 0
 website: http://www.sushiaka.com/
+description: >-
+  Experience Sushi Aka in Suffolk, VA$$$Sushi Aka in Suffolk, VA, offers a
+  casual yet authentic Japanese dining experience with a focus on fresh sushi
+  and sashimi that highlights seasonal ingredients. This welcoming spot features
+  a cozy atmosphere perfect for enjoying happy-hour specials and a variety of
+  flavorful dishes, making it a go-to choice for sushi enthusiasts exploring
+  local options. Accessibility is a key highlight, with wheelchair-friendly
+  features and outdoor seating that enhance the overall visit. Patrons
+  appreciate the thoughtful menu that includes options beyond traditional rolls,
+  catering to those seeking top-rated sushi in a relaxed setting. Whether you're
+  searching for sushi restaurants near you, this hidden gem combines quality
+  cuisine with community vibes for an enjoyable meal.
+generative_summary: >-
+  Experience Sushi Aka in Suffolk, VA$$$Sushi Aka in Suffolk, VA, offers a
+  casual yet authentic Japanese dining experience with a focus on fresh sushi
+  and sashimi that highlights seasonal ingredients. This welcoming spot features
+  a cozy atmosphere perfect for enjoying happy-hour specials and a variety of
+  flavorful dishes, making it a go-to choice for sushi enthusiasts exploring
+  local options. Accessibility is a key highlight, with wheelchair-friendly
+  features and outdoor seating that enhance the overall visit. Patrons
+  appreciate the thoughtful menu that includes options beyond traditional rolls,
+  catering to those seeking top-rated sushi in a relaxed setting. Whether you're
+  searching for sushi restaurants near you, this hidden gem combines quality
+  cuisine with community vibes for an enjoyable meal.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJb21qDw0PsIkRcdgDM7rjRCM/reviews/ChdDSUhNMG9nS0VJQ0FnSUNQcm9EUzBRRRAB
@@ -416,6 +439,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNkak5hc3V3RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNkak5hc3V3RRAB!2m1!1s0x89b00f0d0f6a6d6f:0x2344e3ba3303d871
+review_summary: >-
+  Insights from Customer Feedback$$$Folks consistently praise the fresh and
+  authentic flavors at this spot, noting how the sushi and sashimi stand out as
+  some of the best around for anyone craving Japanese-inspired eats. Many
+  highlight the friendly service and welcoming vibe that make every visit feel
+  personal and enjoyable, even for groups or families stopping by for a casual
+  bite. Reviewers often mention the variety of dishes beyond just rolls,
+  including tasty appetizers and desserts that add to the overall appeal without
+  overwhelming the menu. While a few noted minor issues like dim lighting, the
+  general consensus leans positive, with diners recommending it as a must-try
+  for quality sushi close to home. If you're on the hunt for reliable sushi
+  places near me, this location delivers a solid experience that keeps customers
+  coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -447,7 +484,7 @@ serves_lunch: null
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

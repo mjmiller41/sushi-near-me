@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Misaki Restaurant"
+title: Misaki Restaurant
 permalink: /delaware/south-bethany/misaki-restaurant.html
 stateAbbr: DE
 stateName: Delaware
 cityName: South Bethany
 seo:
-  name: "Misaki Restaurant"
-  type: Restaurant
-  links: null
-description: "Misaki Restaurant serves delicious sushi in South Bethany, Delaware. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.misakisushibethanybeach.com/
 place_id: ChIJPaB4f-HNuIkRmj2IfqCdQP8
 photos:
   - name: >-
@@ -170,8 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89b8cde17f78a03d:0xff409da07e883d9a!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 0
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 20
+        minute: 0
+    - open:
+        day: 4
+        hour: 5
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 20
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 20
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 5:00 – 8:00 PM'
+    - 'Tuesday: Closed'
+    - 'Wednesday: Closed'
+    - 'Thursday: 5:00 AM – 8:00 PM'
+    - 'Friday: 5:00 – 8:00 PM'
+    - 'Saturday: 5:00 – 8:00 PM'
+    - 'Sunday: 5:00 – 8:00 PM'
+  nextCloseTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +226,56 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
+phone: (302) 539-0500
 price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+price_range: $30 &ndash; $50
+rating: '4.3'
+rating_count: 237
+website: http://www.misakisushibethanybeach.com/
+description: >-
+  Discover Misaki Restaurant in South Bethany, Delaware$$$Misaki Restaurant in
+  South Bethany, Delaware, stands out as a welcoming spot for fresh sushi and
+  Japanese-inspired dishes, offering a relaxed atmosphere perfect for casual
+  dining. This sushi restaurant features an array of small plates alongside a
+  thoughtful selection of sake, beer, and wine, making it an ideal choice for
+  those seeking authentic flavors without the formality. With its convenient
+  location near the beach, it's easy to enjoy high-quality meals that highlight
+  seasonal ingredients and creative presentations. Accessibility options like
+  wheelchair-friendly parking and entrances ensure a comfortable visit for
+  everyone, adding to its appeal as one of the go-to sushi places in the area.
+  Whether you're looking for sushi restaurants nearby or a laid-back evening
+  out, this spot delivers a satisfying experience with its focus on quality and
+  simplicity.
+generative_summary: >-
+  Discover Misaki Restaurant in South Bethany, Delaware$$$Misaki Restaurant in
+  South Bethany, Delaware, stands out as a welcoming spot for fresh sushi and
+  Japanese-inspired dishes, offering a relaxed atmosphere perfect for casual
+  dining. This sushi restaurant features an array of small plates alongside a
+  thoughtful selection of sake, beer, and wine, making it an ideal choice for
+  those seeking authentic flavors without the formality. With its convenient
+  location near the beach, it's easy to enjoy high-quality meals that highlight
+  seasonal ingredients and creative presentations. Accessibility options like
+  wheelchair-friendly parking and entrances ensure a comfortable visit for
+  everyone, adding to its appeal as one of the go-to sushi places in the area.
+  Whether you're looking for sushi restaurants nearby or a laid-back evening
+  out, this spot delivers a satisfying experience with its focus on quality and
+  simplicity.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Customer Feedback$$$Visitors to this sushi spot often rave about
+  the fresh, flavorful rolls and the welcoming vibe that makes it feel like a
+  hidden gem in South Bethany. Many appreciate the solid value for money, with
+  portions that hit the spot without breaking the bank, earning it praise as a
+  reliable choice for tasty Japanese cuisine. Feedback highlights the friendly
+  service and cozy setting, which contribute to enjoyable meals whether you're
+  dining solo or with friends, though some note that wait times can vary during
+  peak hours. Overall, it's frequently recommended for anyone searching for
+  top-rated sushi nearby, with the general consensus being that the experience
+  leaves you wanting to return for more. If you're exploring sushi options in
+  the region, this place tends to deliver a consistently positive outing that's
+  worth checking out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +301,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

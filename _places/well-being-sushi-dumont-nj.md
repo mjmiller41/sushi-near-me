@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Well-Being Sushi"
+title: Well-Being Sushi
 permalink: /new-jersey/dumont/well-being-sushi.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Dumont
 seo:
-  name: "Well-Being Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.wellbeingsushi.com/
-description: "Sushi & rolls are the mainstay on the menu at this low-key Japanese eatery with some cooked fare. Well-Being Sushi serves delicious sushi in Dumont, New Jersey. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJTf2mCinuwokRzHt36bYlqRs
 photos:
   - name: >-
@@ -182,6 +180,31 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 0
 website: http://www.wellbeingsushi.com/
+description: >-
+  Discover Well-Being Sushi in Dumont, NJ$$$Well-Being Sushi in Dumont, NJ,
+  stands out as a welcoming Japanese spot specializing in fresh sushi and
+  creative rolls that capture authentic flavors. This relaxed eatery offers a
+  variety of options, including spicy salmon-inspired dishes and cooked fare,
+  making it a go-to choice for those seeking quality Japanese cuisine in a
+  casual setting. With moderate pricing and accessible features like
+  wheelchair-friendly parking, it appeals to locals looking for an easy dining
+  experience. The menu highlights well-prepared meals that balance tradition
+  with inventive twists, positioning it among the top sushi options in the area.
+  Whether you're in the mood for takeout or a simple meal, this spot delivers
+  satisfying tastes that enhance any sushi outing nearby.
+generative_summary: >-
+  Discover Well-Being Sushi in Dumont, NJ$$$Well-Being Sushi in Dumont, NJ,
+  stands out as a welcoming Japanese spot specializing in fresh sushi and
+  creative rolls that capture authentic flavors. This relaxed eatery offers a
+  variety of options, including spicy salmon-inspired dishes and cooked fare,
+  making it a go-to choice for those seeking quality Japanese cuisine in a
+  casual setting. With moderate pricing and accessible features like
+  wheelchair-friendly parking, it appeals to locals looking for an easy dining
+  experience. The menu highlights well-prepared meals that balance tradition
+  with inventive twists, positioning it among the top sushi options in the area.
+  Whether you're in the mood for takeout or a simple meal, this spot delivers
+  satisfying tastes that enhance any sushi outing nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJTf2mCinuwokRzHt36bYlqRs/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3c05EemxBRRAB
@@ -347,6 +370,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN3dTVUbGh3RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN3dTVUbGh3RRAB!2m1!1s0x89c2ee290aa6fd4d:0x1ba925b6e9777bcc
+review_summary: >-
+  Insights from Recent Feedback$$$Folks generally enjoy Well-Being Sushi for its
+  fresh flavors and reliable takeout options, with many praising the variety of
+  rolls and cooked dishes that hit the spot. The friendly service and reasonable
+  prices often make it a favorite for quick meals, drawing in repeat visitors
+  who appreciate the overall value. While most experiences are positive, a few
+  notes mention occasional order mix-ups or inconsistencies in preparation,
+  suggesting there's always room for a bit more polish. Still, the standout
+  tastes and welcoming atmosphere keep the buzz going strong among sushi
+  enthusiasts. If you're hunting for solid Japanese places close by, this spot
+  offers a mostly delightful experience worth checking out for its flavorful
+  highlights.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -379,8 +415,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Sushi & rolls are the mainstay on the menu at this low-key Japanese eatery
   with some cooked fare.
 

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Wasabi5"
+title: Wasabi5
 permalink: /pennsylvania/exton/wasabi5.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Exton
 seo:
-  name: "Wasabi5"
-  type: Restaurant
+  type: restaurant
   links: http://wasabi5pa.com/
-description: "Wasabi5 serves delicious sushi in Exton, Pennsylvania. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJdzb1FPT1xokRZMolKe3Ce_Q
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c6f5f414f53677:0xf47bc2ed2925ca64!10e5
 primary_type: Asian Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:30 PM'
     - 'Tuesday: 11:00 AM – 9:30 PM'
     - 'Wednesday: 11:00 AM – 9:30 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:30 PM'
     - 'Saturday: 11:00 AM – 10:30 PM'
     - 'Sunday: 12:00 – 9:30 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:30 PM'
-    - 'Tuesday: 11:00 AM – 9:30 PM'
-    - 'Wednesday: 11:00 AM – 9:30 PM'
-    - 'Thursday: 11:00 AM – 9:30 PM'
-    - 'Friday: 11:00 AM – 10:30 PM'
-    - 'Saturday: 11:00 AM – 10:30 PM'
-    - 'Sunday: 12:00 – 9:30 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +246,43 @@ phone: (484) 874-2158
 price_level: null
 price_range: $10 &ndash; $20
 rating: '4.4'
-rating_count: 0
+rating_count: 83
 website: http://wasabi5pa.com/
+description: >-
+  Discover Wasabi5 in Exton, PA$$$Wasabi5 in Exton, PA, stands out as a casual
+  dining destination nestled in the vibrant Festival at Exton area, blending
+  fresh sushi options with a wide array of Asian-inspired dishes. This spot
+  appeals to sushi enthusiasts with its flavorful rolls and creative menu
+  selections, making it a go-to for those exploring local Japanese-inspired
+  eateries. The restaurant boasts accessible features like wheelchair-friendly
+  entrances and seating, ensuring a welcoming experience for all visitors. With
+  convenient hours extending into the evening, it's an ideal choice for a
+  relaxed meal, whether you're craving top-rated sushi or hearty fare in a
+  lively setting.
+generative_summary: >-
+  Discover Wasabi5 in Exton, PA$$$Wasabi5 in Exton, PA, stands out as a casual
+  dining destination nestled in the vibrant Festival at Exton area, blending
+  fresh sushi options with a wide array of Asian-inspired dishes. This spot
+  appeals to sushi enthusiasts with its flavorful rolls and creative menu
+  selections, making it a go-to for those exploring local Japanese-inspired
+  eateries. The restaurant boasts accessible features like wheelchair-friendly
+  entrances and seating, ensuring a welcoming experience for all visitors. With
+  convenient hours extending into the evening, it's an ideal choice for a
+  relaxed meal, whether you're craving top-rated sushi or hearty fare in a
+  lively setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Buzzing About$$$Visitors to this sushi spot often rave about
+  the fresh, high-quality rolls and diverse menu that keeps things exciting
+  without breaking the bank. Many appreciate the laid-back vibe and efficient
+  service that make it a solid pick for casual outings or quick bites. While a
+  few note minor waits during peak times, the overall consensus highlights the
+  tasty flavors and good value as standout perks. If you're hunting for reliable
+  Asian cuisine nearby, this place generally delivers a satisfying experience
+  that leaves people coming back for more. Overall, the strong ratings suggest
+  it's a favorite among those seeking dependable sushi options in the area.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +308,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Koen Japanese BBQ & Sushi"
+title: Koen Japanese BBQ & Sushi
 permalink: /nebraska/lincoln/koen-japanese-bbq-sushi.html
 stateAbbr: NE
 stateName: Nebraska
 cityName: Lincoln
 seo:
-  name: "Koen Japanese BBQ & Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.koenlincoln.com/
-description: "Koen Japanese BBQ & Sushi serves delicious sushi in Lincoln, Nebraska. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJqdHGLdeVlocRgzgIQavcyac
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x879695d72dc6d1a9:0xa7c9dcab41083883!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 4:00 – 9:00 PM'
     - 'Tuesday: 4:00 – 9:00 PM'
     - 'Wednesday: 4:00 – 9:00 PM'
@@ -178,28 +234,122 @@ opening_hours:
     - 'Friday: 4:00 – 10:00 PM'
     - 'Saturday: 11:30 AM – 10:00 PM'
     - 'Sunday: 11:30 AM – 9:00 PM'
-  current:
-    - 'Monday: 4:00 – 9:00 PM'
-    - 'Tuesday: 4:00 – 9:00 PM'
-    - 'Wednesday: 4:00 – 9:00 PM'
-    - 'Thursday: 4:00 – 9:00 PM'
-    - 'Friday: 4:00 – 10:00 PM'
-    - 'Saturday: 11:30 AM – 10:00 PM'
-    - 'Sunday: 11:30 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 11
+          minute: 30
+        close:
+          day: 0
+          hour: 21
+          minute: 0
+      - open:
+          day: 1
+          hour: 16
+          minute: 0
+        close:
+          day: 1
+          hour: 17
+          minute: 30
+      - open:
+          day: 2
+          hour: 16
+          minute: 0
+        close:
+          day: 2
+          hour: 17
+          minute: 30
+      - open:
+          day: 3
+          hour: 16
+          minute: 0
+        close:
+          day: 3
+          hour: 17
+          minute: 30
+      - open:
+          day: 4
+          hour: 16
+          minute: 0
+        close:
+          day: 4
+          hour: 17
+          minute: 30
+      - open:
+          day: 5
+          hour: 16
+          minute: 0
+        close:
+          day: 5
+          hour: 17
+          minute: 30
+      - open:
+          day: 6
+          hour: 14
+          minute: 0
+        close:
+          day: 6
+          hour: 17
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 4:00 – 5:30 PM'
+      - 'Tuesday: 4:00 – 5:30 PM'
+      - 'Wednesday: 4:00 – 5:30 PM'
+      - 'Thursday: 4:00 – 5:30 PM'
+      - 'Friday: 4:00 – 5:30 PM'
+      - 'Saturday: 2:00 – 5:30 PM'
+      - 'Sunday: 11:30 AM – 9:00 PM'
+    secondaryHoursType: HAPPY_HOUR
+    nextCloseTime: '2025-05-03T22:30:00Z'
 phone: (402) 480-6116
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.5'
-rating_count: 0
+rating_count: 798
 website: http://www.koenlincoln.com/
+description: >-
+  Discover Koen Japanese BBQ & Sushi in Lincoln, NE$$$Koen Japanese BBQ & Sushi
+  in Lincoln, NE, stands out as a vibrant spot for enjoying fresh sushi and
+  interactive dining experiences. This trendy restaurant features a unique setup
+  with tables equipped for grilling meats, allowing guests to savor authentic
+  Japanese flavors right at their seats. Patrons can explore a variety of
+  top-rated sushi options, from classic rolls to innovative creations, making it
+  a go-to choice for those seeking Japanese cuisine near you. The spot also
+  prioritizes accessibility with features like wheelchair-friendly entrances and
+  parking, ensuring a welcoming atmosphere for all. With convenient hours
+  including evenings and weekends, it's an ideal destination for anyone hunting
+  for the best sushi restaurants in the area.
+generative_summary: >-
+  Discover Koen Japanese BBQ & Sushi in Lincoln, NE$$$Koen Japanese BBQ & Sushi
+  in Lincoln, NE, stands out as a vibrant spot for enjoying fresh sushi and
+  interactive dining experiences. This trendy restaurant features a unique setup
+  with tables equipped for grilling meats, allowing guests to savor authentic
+  Japanese flavors right at their seats. Patrons can explore a variety of
+  top-rated sushi options, from classic rolls to innovative creations, making it
+  a go-to choice for those seeking Japanese cuisine near you. The spot also
+  prioritizes accessibility with features like wheelchair-friendly entrances and
+  parking, ensuring a welcoming atmosphere for all. With convenient hours
+  including evenings and weekends, it's an ideal destination for anyone hunting
+  for the best sushi restaurants in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying About the Spot$$$Based on the strong 4.5-star rating
+  from hundreds of reviews, folks generally appreciate the fresh and flavorful
+  dishes at this Japanese eatery, often highlighting the quality of the sushi
+  and grilled meats as standout features. Many comments casually note the fun,
+  interactive grilling element that adds an engaging twist to meals, making it a
+  hit for groups or families looking for a relaxed vibe. While some mention wait
+  times during peak hours, the overall consensus leans positive, with diners
+  praising the friendly service and reasonable prices for the experience. It's
+  clear that this place delivers on expectations for tasty, authentic options,
+  encouraging repeat visits for anyone searching for reliable sushi close to
+  home. All in all, the feedback paints a picture of a solid choice that keeps
+  things enjoyable without any major drawbacks.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +375,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Genki Ya - Boston"
+title: Genki Ya - Boston
 permalink: /massachusetts/boston/genki-ya-boston.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Boston
 seo:
-  name: "Genki Ya - Boston"
-  type: Restaurant
+  type: restaurant
   links: http://genkiyasushi.com/
-description: "Genki Ya - Boston serves delicious sushi in Boston, Massachusetts. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJb5LCVHZ644kRxRiTfd2DGKw
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89e37a7654c2926f:0xac1883dd7d9318c5!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 45
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 45
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 45
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 45
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 45
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 0
+        minute: 45
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 0
+        minute: 45
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 10:45 PM'
     - 'Tuesday: 11:00 AM – 10:45 PM'
     - 'Wednesday: 11:00 AM – 10:45 PM'
@@ -178,28 +234,186 @@ opening_hours:
     - 'Friday: 11:00 AM – 12:45 AM'
     - 'Saturday: 11:00 AM – 12:45 AM'
     - 'Sunday: 12:00 – 10:45 PM'
-  current:
-    - 'Monday: 11:00 AM – 10:45 PM'
-    - 'Tuesday: 11:00 AM – 10:45 PM'
-    - 'Wednesday: 11:00 AM – 10:45 PM'
-    - 'Thursday: 11:00 AM – 10:45 PM'
-    - 'Friday: 11:00 AM – 12:45 AM'
-    - 'Saturday: 11:00 AM – 12:45 AM'
-    - 'Sunday: 12:00 – 10:45 PM'
+  nextCloseTime: '2025-05-04T04:45:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 0
+        close:
+          day: 0
+          hour: 22
+          minute: 45
+      - open:
+          day: 1
+          hour: 11
+          minute: 0
+        close:
+          day: 1
+          hour: 22
+          minute: 45
+      - open:
+          day: 2
+          hour: 11
+          minute: 0
+        close:
+          day: 2
+          hour: 22
+          minute: 45
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 22
+          minute: 45
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 22
+          minute: 45
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 6
+          hour: 0
+          minute: 45
+      - open:
+          day: 6
+          hour: 11
+          minute: 0
+        close:
+          day: 0
+          hour: 0
+          minute: 45
+    weekdayDescriptions:
+      - 'Monday: 11:00 AM – 10:45 PM'
+      - 'Tuesday: 11:00 AM – 10:45 PM'
+      - 'Wednesday: 11:00 AM – 10:45 PM'
+      - 'Thursday: 11:00 AM – 10:45 PM'
+      - 'Friday: 11:00 AM – 12:45 AM'
+      - 'Saturday: 11:00 AM – 12:45 AM'
+      - 'Sunday: 12:00 – 10:45 PM'
+    secondaryHoursType: DELIVERY
+    nextCloseTime: '2025-05-04T04:45:00Z'
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 0
+        close:
+          day: 0
+          hour: 22
+          minute: 45
+      - open:
+          day: 1
+          hour: 11
+          minute: 0
+        close:
+          day: 1
+          hour: 22
+          minute: 45
+      - open:
+          day: 2
+          hour: 11
+          minute: 0
+        close:
+          day: 2
+          hour: 22
+          minute: 45
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 22
+          minute: 45
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 22
+          minute: 45
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 6
+          hour: 0
+          minute: 45
+      - open:
+          day: 6
+          hour: 11
+          minute: 0
+        close:
+          day: 0
+          hour: 0
+          minute: 45
+    weekdayDescriptions:
+      - 'Monday: 11:00 AM – 10:45 PM'
+      - 'Tuesday: 11:00 AM – 10:45 PM'
+      - 'Wednesday: 11:00 AM – 10:45 PM'
+      - 'Thursday: 11:00 AM – 10:45 PM'
+      - 'Friday: 11:00 AM – 12:45 AM'
+      - 'Saturday: 11:00 AM – 12:45 AM'
+      - 'Sunday: 12:00 – 10:45 PM'
+    secondaryHoursType: TAKEOUT
+    nextCloseTime: '2025-05-04T04:45:00Z'
 phone: (617) 338-8686
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.2'
-rating_count: 0
+rating_count: 899
 website: http://genkiyasushi.com/
+description: >-
+  Discover Genki Ya in Boston, MA$$$Genki Ya in Boston, MA, stands out as a
+  welcoming Japanese restaurant offering a blend of fresh sushi and traditional
+  fare in a casual setting. This spot excels with its variety of vegetarian
+  options and extended hours, making it a go-to choice for those craving
+  authentic flavors late into the evening. Visitors appreciate the accessible
+  entrance and seating, ensuring a comfortable experience for everyone. The menu
+  highlights creative dishes that pair well with the vibrant energy of the
+  downtown area, appealing to anyone exploring top sushi options nearby.
+  Overall, it's a reliable destination for quality Japanese cuisine that
+  balances taste and convenience in the heart of the city.
+generative_summary: >-
+  Discover Genki Ya in Boston, MA$$$Genki Ya in Boston, MA, stands out as a
+  welcoming Japanese restaurant offering a blend of fresh sushi and traditional
+  fare in a casual setting. This spot excels with its variety of vegetarian
+  options and extended hours, making it a go-to choice for those craving
+  authentic flavors late into the evening. Visitors appreciate the accessible
+  entrance and seating, ensuring a comfortable experience for everyone. The menu
+  highlights creative dishes that pair well with the vibrant energy of the
+  downtown area, appealing to anyone exploring top sushi options nearby.
+  Overall, it's a reliable destination for quality Japanese cuisine that
+  balances taste and convenience in the heart of the city.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this Boston sushi spot often rave
+  about the fresh and flavorful dishes that keep them coming back for more. Many
+  highlight the solid variety of options, including vegetarian choices, as a big
+  plus for groups with different tastes. While some note that the atmosphere can
+  get busy during peak times, the overall experience is praised for its value
+  and friendly service that makes dining out feel easygoing. Feedback generally
+  appreciates the late-night availability, perfect for spontaneous meals after a
+  long day. All in all, with its strong reputation, this place delivers a
+  satisfying meal that lives up to expectations for anyone seeking quality
+  Japanese eats in the area.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +439,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

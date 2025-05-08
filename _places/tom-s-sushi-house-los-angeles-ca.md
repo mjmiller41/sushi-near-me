@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Tom's Sushi House"
+title: Tom's Sushi House
 permalink: /california/los-angeles/tom-s-sushi-house.html
 stateAbbr: CA
 stateName: California
 cityName: Los Angeles
 seo:
-  name: "Tom's Sushi House"
-  type: Restaurant
+  type: restaurant
   links: https://order.online/business/toms-sushi-house-11222735
-description: "Tom's Sushi House serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ94xlTkK7woARGXMmGc9CoCw
 photos:
   - name: >-
@@ -168,7 +166,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c2bb424e658cf7:0x2ca042cf19267319!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 13
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 13
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:00 PM'
     - 'Tuesday: Closed'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -176,14 +224,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:00 PM'
     - 'Saturday: 1:00 – 9:00 PM'
     - 'Sunday: 1:00 – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:00 PM'
-    - 'Tuesday: Closed'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 9:00 PM'
-    - 'Saturday: 1:00 – 9:00 PM'
-    - 'Sunday: 1:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -195,35 +236,279 @@ phone: (310) 826-0250
 price_level: PRICE_LEVEL_INEXPENSIVE
 price_range: $10 &ndash; $20
 rating: '4.4'
-rating_count: 0
+rating_count: 208
 website: https://order.online/business/toms-sushi-house-11222735
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Tom's Sushi House in Los Angeles, CA$$$Nestled in the vibrant city of
+  Los Angeles, California, Tom's Sushi House stands out as a cozy spot for
+  enjoying fresh Japanese-inspired dishes. This hidden gem offers a selection of
+  flavorful rolls, sashimi, and comforting options like udon noodles and rice
+  bowls, perfect for a satisfying meal any time. With its compact setup and
+  focus on quality ingredients, it's an ideal choice for those seeking
+  affordable yet delicious eats in a welcoming atmosphere. The menu highlights
+  popular favorites that blend traditional flavors with creative twists, making
+  it a go-to for anyone exploring sushi places nearby. Accessibility features
+  ensure a comfortable visit, adding to the appeal for a wide range of diners
+  looking for top-rated sushi options.
+generative_summary: >-
+  Discover Tom's Sushi House in Los Angeles, CA$$$Nestled in the vibrant city of
+  Los Angeles, California, Tom's Sushi House stands out as a cozy spot for
+  enjoying fresh Japanese-inspired dishes. This hidden gem offers a selection of
+  flavorful rolls, sashimi, and comforting options like udon noodles and rice
+  bowls, perfect for a satisfying meal any time. With its compact setup and
+  focus on quality ingredients, it's an ideal choice for those seeking
+  affordable yet delicious eats in a welcoming atmosphere. The menu highlights
+  popular favorites that blend traditional flavors with creative twists, making
+  it a go-to for anyone exploring sushi places nearby. Accessibility features
+  ensure a comfortable visit, adding to the appeal for a wide range of diners
+  looking for top-rated sushi options.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ94xlTkK7woARGXMmGc9CoCw/reviews/ChZDSUhNMG9nS0VJQ0FnSURiMDZIcEZREAE
+    relativePublishTimeDescription: 8 months ago
+    rating: 5
+    text:
+      text: >-
+        Loved the sushi. I am going to bring my friends here. I recommend this
+        to everyone. great quality sushi. Great bang for your buck. Even the
+        portions are huge. Food coma.
+      languageCode: en
+    originalText:
+      text: >-
+        Loved the sushi. I am going to bring my friends here. I recommend this
+        to everyone. great quality sushi. Great bang for your buck. Even the
+        portions are huge. Food coma.
+      languageCode: en
+    authorAttribution:
+      displayName: Sandeep Iyer
+      uri: https://www.google.com/maps/contrib/108070601572420324599/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLVoH4fIYtDfYj6xUmkOcpQVtnzF159iUxkALz1-U20sLAkaA=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-08-09T05:38:45.224980Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURiMDZIcEZREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURiMDZIcEZREAE!2m1!1s0x80c2bb424e658cf7:0x2ca042cf19267319
+  - name: >-
+      places/ChIJ94xlTkK7woARGXMmGc9CoCw/reviews/ChZDSUhNMG9nS0VJQ0FnSUN1aE91YlpBEAE
+    relativePublishTimeDescription: 2 years ago
+    rating: 5
+    text:
+      text: >-
+        This is my favorite sushi place in Santa Monica. Even it is very small
+        place, the food amount is never small. It is so good, and I don't want
+        to write this review in google because I want to keep this restaurant
+        only for myself.
+
+
+        Because I live near here, I often deliver food when I feel so tired of
+        cooking. After I met Toms sushi, I save my time because I never
+        concerned about diner menu! Yay!
+
+
+        They offer not only Japanese Fresh yummy sushi, also have Korean fusion
+        style food.
+
+        Strongly recommend Seared Salmon sushi & Caliente Roll & BBQ Bento &
+        Kimchi Fried rice.
+
+
+        Thank you for all the food Tom!
+      languageCode: en
+    originalText:
+      text: >-
+        This is my favorite sushi place in Santa Monica. Even it is very small
+        place, the food amount is never small. It is so good, and I don't want
+        to write this review in google because I want to keep this restaurant
+        only for myself.
+
+
+        Because I live near here, I often deliver food when I feel so tired of
+        cooking. After I met Toms sushi, I save my time because I never
+        concerned about diner menu! Yay!
+
+
+        They offer not only Japanese Fresh yummy sushi, also have Korean fusion
+        style food.
+
+        Strongly recommend Seared Salmon sushi & Caliente Roll & BBQ Bento &
+        Kimchi Fried rice.
+
+
+        Thank you for all the food Tom!
+      languageCode: en
+    authorAttribution:
+      displayName: 목마른 죠니LEE JIHYUN
+      uri: https://www.google.com/maps/contrib/110007262750993636007/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUHaZwfAKfqdQcJNKwm5P746HGMhBpeNqF8dVV6zwlakaND9Gjw=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2022-07-22T05:31:04.944252Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN1aE91YlpBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN1aE91YlpBEAE!2m1!1s0x80c2bb424e658cf7:0x2ca042cf19267319
+  - name: >-
+      places/ChIJ94xlTkK7woARGXMmGc9CoCw/reviews/ChdDSUhNMG9nS0VJQ0FnSURCZzZISjhRRRAB
+    relativePublishTimeDescription: 2 years ago
+    rating: 5
+    text:
+      text: >-
+        **HIDDEN GEM**
+
+
+        This place is special. Don’t let the corner of Santa Monica Blvd fool
+        you, Tom is an incredible chef and their sushi speaks for itself. You
+        can’t go wrong with anything here, my personal favorite is the spicy
+        yellowtail roll. Don’t sleep on Tom’s Sushi.
+
+
+        Pictured:
+
+        - big spider roll
+
+        - spicy yellowtail roll
+
+        - baked spicy albacore
+      languageCode: en
+    originalText:
+      text: >-
+        **HIDDEN GEM**
+
+
+        This place is special. Don’t let the corner of Santa Monica Blvd fool
+        you, Tom is an incredible chef and their sushi speaks for itself. You
+        can’t go wrong with anything here, my personal favorite is the spicy
+        yellowtail roll. Don’t sleep on Tom’s Sushi.
+
+
+        Pictured:
+
+        - big spider roll
+
+        - spicy yellowtail roll
+
+        - baked spicy albacore
+      languageCode: en
+    authorAttribution:
+      displayName: Trevor Brown
+      uri: https://www.google.com/maps/contrib/108425221957607833181/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUDP7LqTstr_uk5dPTOZG72ECdeqJqdyE-Mhjgtm3iEizSzFfyh=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2023-01-27T04:41:39.768092Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURCZzZISjhRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURCZzZISjhRRRAB!2m1!1s0x80c2bb424e658cf7:0x2ca042cf19267319
+  - name: >-
+      places/ChIJ94xlTkK7woARGXMmGc9CoCw/reviews/ChdDSUhNMG9nS0VJQ0FnTURvanVUNjRBRRAB
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        I love this place:  Food is amazing, really tasty and fresh rolls.  Food
+        is also top notch, Highly recommend Tom's Sushi House!!
+      languageCode: en
+    originalText:
+      text: >-
+        I love this place:  Food is amazing, really tasty and fresh rolls.  Food
+        is also top notch, Highly recommend Tom's Sushi House!!
+      languageCode: en
+    authorAttribution:
+      displayName: Bernard Gross
+      uri: https://www.google.com/maps/contrib/102893722027754703518/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXJ1NQuQnMIyQu0aTzUDQdibDLbpKgPW-9B8jZLbICbhwpkJIW6=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-24T20:04:55.696374Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURvanVUNjRBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURvanVUNjRBRRAB!2m1!1s0x80c2bb424e658cf7:0x2ca042cf19267319
+  - name: >-
+      places/ChIJ94xlTkK7woARGXMmGc9CoCw/reviews/ChZDSUhNMG9nS0VJQ0FnSURJcWNIaUp3EAE
+    relativePublishTimeDescription: 6 years ago
+    rating: 5
+    text:
+      text: >-
+        If I could give Tom's Sushi House 10 stars I would!  My friend and I
+        stumbled upon this little gem after walking out of the bar across the
+        street.  It was perfect for a nighttime snack!  Don't be fooled by its
+        humble appearance, this is a legit sushi restaurant.  We had the Seaweed
+        Salad, Hot Night Roll, and an Eel Cucumber Roll.  Everything was
+        absolutely delicious.  This is definitely a mom and pop owned business
+        because pop was making the food and mom brought it out to us!  Both of
+        them were the sweetest, nicest people.  I will most certainly be coming
+        back again!
+      languageCode: en
+    originalText:
+      text: >-
+        If I could give Tom's Sushi House 10 stars I would!  My friend and I
+        stumbled upon this little gem after walking out of the bar across the
+        street.  It was perfect for a nighttime snack!  Don't be fooled by its
+        humble appearance, this is a legit sushi restaurant.  We had the Seaweed
+        Salad, Hot Night Roll, and an Eel Cucumber Roll.  Everything was
+        absolutely delicious.  This is definitely a mom and pop owned business
+        because pop was making the food and mom brought it out to us!  Both of
+        them were the sweetest, nicest people.  I will most certainly be coming
+        back again!
+      languageCode: en
+    authorAttribution:
+      displayName: D
+      uri: https://www.google.com/maps/contrib/117799280761197186394/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWPrPmzfSrtG3Orig3g00Nzl8PK5QxMkyOs-eiYoWzo-NsKHvACMA=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2019-01-11T01:17:04.098071242Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURJcWNIaUp3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURJcWNIaUp3EAE!2m1!1s0x80c2bb424e658cf7:0x2ca042cf19267319
+review_summary: >-
+  What Guests Are Saying About This Sushi Favorite$$$Visitors often rave about
+  the fresh and tasty rolls that make every bite worthwhile, highlighting the
+  spot's reputation for high-quality ingredients and generous portions. Many
+  appreciate the great value for money, noting that meals leave you feeling full
+  without breaking the bank, which keeps people coming back for more. Feedback
+  frequently mentions the variety of options, including creative fusions that
+  add an exciting twist to classic dishes, making it a solid pick for casual
+  sushi lovers. Overall, the consensus is that this place delivers a
+  consistently enjoyable experience, with meals that satisfy cravings and
+  encourage repeat visits. While not every detail is perfect, the positive vibes
+  and reliable flavors keep the feedback upbeat for those searching for reliable
+  sushi restaurants in the area.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
+curbside_pickup: false
+delivery: true
+dine_in: true
 good_for_children: null
 good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
+good_for_sports: false
+live_music: false
+menu_for_children: false
 outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+reservable: false
+restroom: false
+serves_beer: false
 serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_brunch: false
+serves_cocktails: false
+serves_coffee: false
+serves_dinner: true
+serves_dessert: false
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: false
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Compact window-serve sushi stand offering sashimi, lots of special rolls, udon
+  noodles & rice bowls.
 
 ---

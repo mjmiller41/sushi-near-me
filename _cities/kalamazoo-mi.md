@@ -5,4 +5,5 @@ permalink: /michigan/kalamazoo/
 stateAbbr: MI
 stateName: Michigan
 cityName: Kalamazoo
+
 ---

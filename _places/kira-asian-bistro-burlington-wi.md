@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kira Asian Bistro"
+title: Kira Asian Bistro
 permalink: /wisconsin/burlington/kira-asian-bistro.html
 stateAbbr: WI
 stateName: Wisconsin
 cityName: Burlington
 seo:
-  name: "Kira Asian Bistro"
-  type: Restaurant
+  type: restaurant
   links: http://kiraasianburlington.com/
-description: "Kira Asian Bistro serves delicious sushi in Burlington, Wisconsin. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJua3o0emEBYgRFxBYQG4gHyU
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 0
 website: http://kiraasianburlington.com/
+description: >-
+  Discover Kira Asian Bistro in Burlington, WI$$$Kira Asian Bistro in
+  Burlington, Wisconsin, stands out as a welcoming spot for enjoying a variety
+  of Asian-inspired dishes, including fresh sushi and flavorful Chinese,
+  Japanese, and Thai options. This casual eatery offers a comfortable atmosphere
+  with ample seating and accessibility features like wheelchair-friendly
+  entrances and parking, making it easy for everyone to enjoy a meal. Diners can
+  savor generous portions of expertly prepared fare, from classic stir-fries to
+  innovative rolls that highlight top-quality ingredients. The bistro also
+  provides convenient options like takeout and dine-in, enhancing its appeal for
+  those seeking reliable sushi restaurants nearby. With its moderate pricing and
+  thoughtful amenities, it's a go-to choice for anyone exploring Asian dining in
+  the area.
+generative_summary: >-
+  Discover Kira Asian Bistro in Burlington, WI$$$Kira Asian Bistro in
+  Burlington, Wisconsin, stands out as a welcoming spot for enjoying a variety
+  of Asian-inspired dishes, including fresh sushi and flavorful Chinese,
+  Japanese, and Thai options. This casual eatery offers a comfortable atmosphere
+  with ample seating and accessibility features like wheelchair-friendly
+  entrances and parking, making it easy for everyone to enjoy a meal. Diners can
+  savor generous portions of expertly prepared fare, from classic stir-fries to
+  innovative rolls that highlight top-quality ingredients. The bistro also
+  provides convenient options like takeout and dine-in, enhancing its appeal for
+  those seeking reliable sushi restaurants nearby. With its moderate pricing and
+  thoughtful amenities, it's a go-to choice for anyone exploring Asian dining in
+  the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJua3o0emEBYgRFxBYQG4gHyU/reviews/ChdDSUhNMG9nS0VJQ0FnTURndm9QVDdRRRAB
@@ -356,6 +381,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURRZzZHY1pnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURRZzZHY1pnEAE!2m1!1s0x880584e9d1e8adb9:0x251f206e40581017
+review_summary: >-
+  Customer Feedback Highlights$$$Visitors to Kira Asian Bistro often rave about
+  the tasty and well-prepared dishes, with many highlighting the flavorful sushi
+  and generous portions that leave plenty for leftovers. Folks appreciate the
+  quick service and welcoming vibe, making it a solid spot for casual meals with
+  friends or family. While some note that certain items could use a bit more
+  seasoning or variety, the overall experience is praised for its great value
+  and satisfying flavors that keep people coming back. The restaurant's
+  comfortable seating and efficient staff add to the positive dining experience,
+  offering a reliable option for those hunting for top-rated sushi nearby. In
+  general, it's a favorite for its honest, enjoyable meals that balance quality
+  and affordability without any major drawbacks.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -388,7 +426,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

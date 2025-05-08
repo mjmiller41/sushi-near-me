@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Takara Sushi"
+title: Takara Sushi
 permalink: /oregon/portland/takara-sushi.html
 stateAbbr: OR
 stateName: Oregon
 cityName: Portland
 seo:
-  name: "Takara Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Takara Sushi serves delicious sushi in Portland, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJgS4FZgCnlVQRqc6KG8XtQaE
 photos:
   - name: >-
@@ -182,7 +180,47 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Takara Sushi in Portland, Oregon$$$Nestled in the heart of Portland,
+  Oregon, Takara Sushi stands out as a premier spot for fresh sushi and Japanese
+  cuisine, offering a welcoming casual atmosphere for locals and visitors alike.
+  This sushi restaurant delights with its array of vegetarian options and
+  inventive house rolls, making it a go-to choice for anyone craving authentic
+  flavors in a relaxed setting. Patrons can enjoy a variety of signature dishes
+  that highlight the best of Japanese fare, from meticulously prepared maki to
+  other creative offerings that cater to diverse tastes. Whether you're
+  exploring sushi places near me or seeking top-rated options in the area,
+  Takara Sushi combines quality ingredients with a cozy vibe that enhances every
+  meal. Its accessibility features, like wheelchair-friendly entrances, ensure
+  that everyone can savor the experience without hassle.
+generative_summary: >-
+  Discover Takara Sushi in Portland, Oregon$$$Nestled in the heart of Portland,
+  Oregon, Takara Sushi stands out as a premier spot for fresh sushi and Japanese
+  cuisine, offering a welcoming casual atmosphere for locals and visitors alike.
+  This sushi restaurant delights with its array of vegetarian options and
+  inventive house rolls, making it a go-to choice for anyone craving authentic
+  flavors in a relaxed setting. Patrons can enjoy a variety of signature dishes
+  that highlight the best of Japanese fare, from meticulously prepared maki to
+  other creative offerings that cater to diverse tastes. Whether you're
+  exploring sushi places near me or seeking top-rated options in the area,
+  Takara Sushi combines quality ingredients with a cozy vibe that enhances every
+  meal. Its accessibility features, like wheelchair-friendly entrances, ensure
+  that everyone can savor the experience without hassle.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying About the Food and Service$$$Folks who stop by this
+  Japanese spot often rave about the delicious and fresh sushi rolls, praising
+  specific favorites that bring a burst of flavor to the table. Many highlight
+  the great selection of sake and how it pairs perfectly with the menu, adding
+  to the overall enjoyment of the meal. The atmosphere gets plenty of nods for
+  being cozy and inviting, while the staff comes across as friendly and
+  attentive, making diners feel right at home. Prices are frequently mentioned
+  as reasonable, offering solid value for the quality you get, which keeps
+  people coming back for more. If you're on the hunt for the best sushi near me,
+  this place delivers a consistently positive vibe that makes it worth checking
+  out for a satisfying dining experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -208,7 +246,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

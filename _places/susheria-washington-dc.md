@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Susheria"
+title: Susheria
 permalink: /district-of-columbia/washington/susheria.html
 stateAbbr: DC
 stateName: District of Columbia
 cityName: Washington
 seo:
-  name: "Susheria"
-  type: Restaurant
+  type: restaurant
   links: https://susheriadc.com/
-description: "Sushi, Latin cocktails & more are served in a posh, modern space that holds occasional DJ'd parties. Susheria serves delicious sushi in Washington, District of Columbia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJmxMR7z23t4kR-sVnzbNuxuo
 photos:
   - name: >-
@@ -184,6 +182,31 @@ price_range: $50 &ndash; $100
 rating: '4.3'
 rating_count: 0
 website: https://susheriadc.com/
+description: >-
+  Discover Susheria in Washington, DC$$$Susheria in Washington, DC, stands out
+  as a vibrant sushi spot that masterfully combines fresh Japanese-inspired
+  dishes with lively Latin influences in a modern, welcoming environment. The
+  restaurant features an array of creative cocktails and high-quality sushi
+  selections that highlight the best of seasonal ingredients, making it a
+  favorite for those seeking a flavorful dining adventure. With occasional live
+  DJ sets adding an energetic vibe, it's ideal for casual gatherings or special
+  occasions, enhanced by thoughtful accessibility options like
+  wheelchair-friendly entrances. This spot also offers outdoor seating and a
+  menu that caters to various tastes, ensuring a memorable experience for sushi
+  enthusiasts exploring the area.
+generative_summary: >-
+  Discover Susheria in Washington, DC$$$Susheria in Washington, DC, stands out
+  as a vibrant sushi spot that masterfully combines fresh Japanese-inspired
+  dishes with lively Latin influences in a modern, welcoming environment. The
+  restaurant features an array of creative cocktails and high-quality sushi
+  selections that highlight the best of seasonal ingredients, making it a
+  favorite for those seeking a flavorful dining adventure. With occasional live
+  DJ sets adding an energetic vibe, it's ideal for casual gatherings or special
+  occasions, enhanced by thoughtful accessibility options like
+  wheelchair-friendly entrances. This spot also offers outdoor seating and a
+  menu that caters to various tastes, ensuring a memorable experience for sushi
+  enthusiasts exploring the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJmxMR7z23t4kR-sVnzbNuxuo/reviews/ChdDSUhNMG9nS0VJQ0FnTURJN3J2cTZBRRAB
@@ -419,6 +442,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNJdU1ISmlnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNJdU1ISmlnRRAB!2m1!1s0x89b7b73def11139b:0xeac66eb3cd67c5fa
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this Washington sushi destination
+  often praise the fresh, high-quality rolls and creative drinks that make every
+  meal feel special and satisfying. Folks frequently highlight the lively
+  atmosphere, including fun DJ nights that turn dinners into enjoyable events,
+  while noting the attentive service that keeps things running smoothly. Even
+  with a minor mention of promotional clarity, the overall consensus leans
+  positive, with many appreciating the great value and welcoming vibe for groups
+  or date nights. In a casual setting like this, the food consistently hits the
+  mark for flavor and variety, making it a solid pick for anyone craving
+  top-notch sushi nearby. Overall, it's clear that this place delivers a fun and
+  reliable experience that keeps people coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidParkingLot: true
   paidStreetParking: true
@@ -450,8 +486,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Sushi, Latin cocktails & more are served in a posh, modern space that holds
   occasional DJ'd parties.
 

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "One Ramen And Sushi"
+title: One Ramen And Sushi
 permalink: /massachusetts/cambridge/one-ramen-and-sushi.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Cambridge
 seo:
-  name: "One Ramen And Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://oneramensushi.com/
-description: "Compact sushi bar & ramen house (popular for takeout) with lunch specials available. One Ramen And Sushi serves delicious sushi in Cambridge, Massachusetts. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJMTKDQT5344kRdia0GkUoJto
 photos:
   - name: >-
@@ -183,6 +181,31 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 0
 website: http://oneramensushi.com/
+description: >-
+  Discover One Ramen And Sushi in Cambridge, MA$$$One Ramen And Sushi in
+  Cambridge, MA, stands out as a cozy Japanese eatery focused on fresh sushi and
+  hearty ramen options that appeal to locals and visitors alike. This unassuming
+  spot offers a relaxed vibe with affordable meals, including lunch specials
+  that provide excellent value for authentic flavors. Accessibility features
+  like wheelchair-friendly entrances and outdoor seating make it a convenient
+  choice for a variety of diners seeking Japanese cuisine. Drawing from its
+  low-key charm, the menu emphasizes quality ingredients and versatile dining
+  styles, whether you're grabbing takeout or enjoying a casual meal. As one of
+  the top-rated spots for sushi in the area, it caters to those exploring nearby
+  Japanese places for a satisfying experience.
+generative_summary: >-
+  Discover One Ramen And Sushi in Cambridge, MA$$$One Ramen And Sushi in
+  Cambridge, MA, stands out as a cozy Japanese eatery focused on fresh sushi and
+  hearty ramen options that appeal to locals and visitors alike. This unassuming
+  spot offers a relaxed vibe with affordable meals, including lunch specials
+  that provide excellent value for authentic flavors. Accessibility features
+  like wheelchair-friendly entrances and outdoor seating make it a convenient
+  choice for a variety of diners seeking Japanese cuisine. Drawing from its
+  low-key charm, the menu emphasizes quality ingredients and versatile dining
+  styles, whether you're grabbing takeout or enjoying a casual meal. As one of
+  the top-rated spots for sushi in the area, it caters to those exploring nearby
+  Japanese places for a satisfying experience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJMTKDQT5344kRdia0GkUoJto/reviews/ChdDSUhNMG9nS0VJQ0FnTURRaG82V3VBRRAB
@@ -344,6 +367,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNQcHNHNXdBRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNQcHNHNXdBRRAB!2m1!1s0x89e3773e41833231:0xda2628451ab42676
+review_summary: >-
+  Customer Highlights for One Ramen And Sushi$$$Folks often rave about the fresh
+  sushi and flavorful ramen at this Cambridge gem, highlighting the generous
+  portions and authentic tastes that make every bite memorable. Many appreciate
+  the friendly service and quick seating that enhance the overall vibe, turning
+  simple meals into enjoyable outings. Reviewers frequently note the great value
+  in lunch specials and unique dishes like miso ramen, which stand out for their
+  bold flavors without overwhelming the palate. While some mention room for
+  improvement in sides like miso soup, the consensus leans toward it being a
+  reliable pick for hearty Japanese fare. All in all, it's a solid spot for
+  anyone searching for the best sushi nearby, delivering a welcoming atmosphere
+  that keeps customers coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidStreetParking: true
   valetParking: false
@@ -375,8 +411,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Compact sushi bar & ramen house (popular for takeout) with lunch specials
   available.
 

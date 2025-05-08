@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushiya"
+title: Sushiya
 permalink: /arizona/gilbert/sushiya.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Gilbert
 seo:
-  name: "Sushiya"
-  type: Restaurant
+  type: restaurant
   links: http://www.azsushiya.com/
-description: "Sushiya serves delicious sushi in Gilbert, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJQ15S6hSpK4cRJLR4L3XsnYA
 photos:
   - name: >-
@@ -170,7 +168,89 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x872ba914ea525e43:0x809dec752f78b424!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 16
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 4:30 – 9:30 PM'
     - 'Tuesday: 4:30 – 9:30 PM'
     - 'Wednesday: 11:00 AM – 2:00 PM, 4:30 – 9:30 PM'
@@ -178,14 +258,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 2:00 PM, 4:30 – 10:00 PM'
     - 'Saturday: 12:00 – 10:00 PM'
     - 'Sunday: 4:30 – 9:30 PM'
-  current:
-    - 'Monday: 4:30 – 9:30 PM'
-    - 'Tuesday: 4:30 – 9:30 PM'
-    - 'Wednesday: 11:00 AM – 2:00 PM, 4:30 – 9:30 PM'
-    - 'Thursday: 11:00 AM – 2:00 PM, 4:30 – 9:30 PM'
-    - 'Friday: 11:00 AM – 2:00 PM, 4:30 – 10:00 PM'
-    - 'Saturday: 12:00 – 10:00 PM'
-    - 'Sunday: 4:30 – 9:30 PM'
+  nextCloseTime: '2025-05-04T05:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +270,277 @@ phone: (480) 786-0588
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.6'
-rating_count: 0
+rating_count: 473
 website: http://www.azsushiya.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Sushiya in Gilbert, AZ$$$Sushiya in Gilbert, AZ, stands out as a
+  welcoming Japanese restaurant known for its casual atmosphere and diverse menu
+  of fresh sushi rolls and other traditional specialties. This spot offers an
+  array of options that cater to various tastes, including happy hour deals that
+  make it a great choice for those seeking affordable yet high-quality dining
+  experiences. With accessible features like wheelchair-friendly entrances and
+  parking, it's designed to accommodate everyone looking for a comfortable meal.
+  The restaurant emphasizes family-friendly vibes, serving up standard Japanese
+  dishes alongside an extensive selection of sashimi and creative rolls, making
+  it a go-to option for anyone exploring sushi restaurants in the area. Whether
+  you're in the mood for a quick bite or a relaxed evening out, Sushiya delivers
+  on flavor and value in a laid-back setting.
+generative_summary: >-
+  Discover Sushiya in Gilbert, AZ$$$Sushiya in Gilbert, AZ, stands out as a
+  welcoming Japanese restaurant known for its casual atmosphere and diverse menu
+  of fresh sushi rolls and other traditional specialties. This spot offers an
+  array of options that cater to various tastes, including happy hour deals that
+  make it a great choice for those seeking affordable yet high-quality dining
+  experiences. With accessible features like wheelchair-friendly entrances and
+  parking, it's designed to accommodate everyone looking for a comfortable meal.
+  The restaurant emphasizes family-friendly vibes, serving up standard Japanese
+  dishes alongside an extensive selection of sashimi and creative rolls, making
+  it a go-to option for anyone exploring sushi restaurants in the area. Whether
+  you're in the mood for a quick bite or a relaxed evening out, Sushiya delivers
+  on flavor and value in a laid-back setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJQ15S6hSpK4cRJLR4L3XsnYA/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3LWMtc0ZREAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        My family was in the mood for a yoshinoya style beef bowl so we looked
+        around and found a place near the house that was supposedly good. My
+        wife had ordered it and she liked it very much. Also, the sushi on the
+        happy hour specials were very good, very well made and very affordable.
+        I would recommend this place nine times out of 10 if you're in the mood
+        for sushi or in Japanese style food.
+      languageCode: en
+    originalText:
+      text: >-
+        My family was in the mood for a yoshinoya style beef bowl so we looked
+        around and found a place near the house that was supposedly good. My
+        wife had ordered it and she liked it very much. Also, the sushi on the
+        happy hour specials were very good, very well made and very affordable.
+        I would recommend this place nine times out of 10 if you're in the mood
+        for sushi or in Japanese style food.
+      languageCode: en
+    authorAttribution:
+      displayName: nick barneys
+      uri: https://www.google.com/maps/contrib/103545565342518718603/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjU-Uh0ctXdMbg1T4RKuiEMgMneTUEq4UALmseJHcQAx_ymJoJ9G=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-03-27T02:01:09.809546Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUR3LWMtc0ZREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUR3LWMtc0ZREAE!2m1!1s0x872ba914ea525e43:0x809dec752f78b424
+  - name: >-
+      places/ChIJQ15S6hSpK4cRJLR4L3XsnYA/reviews/ChdDSUhNMG9nS0VJQ0FnSUNQeVpYTHdRRRAB
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        There are a few different places we have in our regular rotation when we
+        are craving sushi,  and Sushiya is definitely at the top! Their fish is
+        always so fresh and delicious.  We love their quail eggs too! On this
+        particular visit we also tried their "Sea Bacon" for the first time
+        which is scallops wrapped in smoked salmon then torched.  It was unlike
+        anything we have ever eaten before! Super unique and yummy dish!
+      languageCode: en
+    originalText:
+      text: >-
+        There are a few different places we have in our regular rotation when we
+        are craving sushi,  and Sushiya is definitely at the top! Their fish is
+        always so fresh and delicious.  We love their quail eggs too! On this
+        particular visit we also tried their "Sea Bacon" for the first time
+        which is scallops wrapped in smoked salmon then torched.  It was unlike
+        anything we have ever eaten before! Super unique and yummy dish!
+      languageCode: en
+    authorAttribution:
+      displayName: Christina Kostic
+      uri: https://www.google.com/maps/contrib/114845428084640386960/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIUHgCe8nzgoQniR8mZvH7cZ9OkmE7gr83oJinzpDZdOBw7XQ=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2024-11-25T18:49:50.131902Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNQeVpYTHdRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNQeVpYTHdRRRAB!2m1!1s0x872ba914ea525e43:0x809dec752f78b424
+  - name: >-
+      places/ChIJQ15S6hSpK4cRJLR4L3XsnYA/reviews/ChdDSUhNMG9nS0VJQ0FnTUNBa2J1aHdBRRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        I’ve been coming to Sushiya for over a decade, and it’s consistently
+        been an outstanding experience. The food is always fresh, delicious, and
+        a great value, making it one of my favorite spots. What really sets
+        Sushiya apart is the attention to detail—the manager is always visible,
+        ensuring everything runs smoothly and that customers are well taken care
+        of. It’s a terrific small business that truly cares about quality and
+        service. Highly recommend to anyone looking for top-notch sushi with a
+        personal touch at an awesome value.
+      languageCode: en
+    originalText:
+      text: >-
+        I’ve been coming to Sushiya for over a decade, and it’s consistently
+        been an outstanding experience. The food is always fresh, delicious, and
+        a great value, making it one of my favorite spots. What really sets
+        Sushiya apart is the attention to detail—the manager is always visible,
+        ensuring everything runs smoothly and that customers are well taken care
+        of. It’s a terrific small business that truly cares about quality and
+        service. Highly recommend to anyone looking for top-notch sushi with a
+        personal touch at an awesome value.
+      languageCode: en
+    authorAttribution:
+      displayName: Jeff D
+      uri: https://www.google.com/maps/contrib/114801903162887675725/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLO04NBoRaxJ_1QeN8Dz-urndn3SXkWYnGrm09apdNnL6P0fw=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-02-01T17:24:32.716279Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNBa2J1aHdBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNBa2J1aHdBRRAB!2m1!1s0x872ba914ea525e43:0x809dec752f78b424
+  - name: >-
+      places/ChIJQ15S6hSpK4cRJLR4L3XsnYA/reviews/ChdDSUhNMG9nS0VJQ0FnSURwczhTT3hnRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        I have to say this is in my top 3 sushi restaurant choices in Arizona.
+        I've reviewed and been to many sushi spots, and I am consistent in what
+        I am looking for.  First, how busy is the restaurant when I come in?
+        When I went in, I was the first that day right at opening. The service
+        was quick, and I felt like there were a good range of options. The
+        second thing I consider is how pricy each item is.  I found that the
+        prices were very reasonable.  If I can get a sushi roll around $5 or
+        less, that's a great find. Luckily, you can get away with spending $10
+        per person. Lastly, I judge the food it's self. A spicy salmon handroll
+        is always my go-to. It's a great roll to pick when you want to consider
+        texture,  flavor, and portion size. Everywhere I go, everyone does it a
+        little differently. In this case, the texture was minced and creamy. The
+        flavor was interesting, as I could taste the Sriracha in the first
+        bite,  but I couldn't tell if they mixed their salmon with anything
+        spicy or not. This is a good indicator to tell if their spicy rolls will
+        have a kick or not. The size was great, I felt like I got a good portion
+        of fish. I did order a calamari appetizer as well as their stuffed
+        mushroom.  Everything came out hot and fresh, and the flavors were
+        great. The stuffed mushrooms.... were stunning. Overall, this cozy
+        restaurant was wonderful, and I'd recommend it to anyone who likes a
+        chill, comforting environment. The sushi is great, the service and
+        prices match just perfectly.
+      languageCode: en
+    originalText:
+      text: >-
+        I have to say this is in my top 3 sushi restaurant choices in Arizona.
+        I've reviewed and been to many sushi spots, and I am consistent in what
+        I am looking for.  First, how busy is the restaurant when I come in?
+        When I went in, I was the first that day right at opening. The service
+        was quick, and I felt like there were a good range of options. The
+        second thing I consider is how pricy each item is.  I found that the
+        prices were very reasonable.  If I can get a sushi roll around $5 or
+        less, that's a great find. Luckily, you can get away with spending $10
+        per person. Lastly, I judge the food it's self. A spicy salmon handroll
+        is always my go-to. It's a great roll to pick when you want to consider
+        texture,  flavor, and portion size. Everywhere I go, everyone does it a
+        little differently. In this case, the texture was minced and creamy. The
+        flavor was interesting, as I could taste the Sriracha in the first
+        bite,  but I couldn't tell if they mixed their salmon with anything
+        spicy or not. This is a good indicator to tell if their spicy rolls will
+        have a kick or not. The size was great, I felt like I got a good portion
+        of fish. I did order a calamari appetizer as well as their stuffed
+        mushroom.  Everything came out hot and fresh, and the flavors were
+        great. The stuffed mushrooms.... were stunning. Overall, this cozy
+        restaurant was wonderful, and I'd recommend it to anyone who likes a
+        chill, comforting environment. The sushi is great, the service and
+        prices match just perfectly.
+      languageCode: en
+    authorAttribution:
+      displayName: Ashley Person
+      uri: https://www.google.com/maps/contrib/108511372033992310016/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVmynYt3zPPUeHWNnh7z-hqJ4Mr7FyTWOm0qSFVHimhUG9WOhSyFQ=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2023-08-28T17:21:50.737644Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURwczhTT3hnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURwczhTT3hnRRAB!2m1!1s0x872ba914ea525e43:0x809dec752f78b424
+  - name: >-
+      places/ChIJQ15S6hSpK4cRJLR4L3XsnYA/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3bEkzSWh3RRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Excellent sushi. We went there with a party of 10, during dinner rush,
+        several food allergies and the owner made sure we got the right order. I
+        greatly appreciate the effort he and our waiter put forth to make it an
+        excellent experience.
+      languageCode: en
+    originalText:
+      text: >-
+        Excellent sushi. We went there with a party of 10, during dinner rush,
+        several food allergies and the owner made sure we got the right order. I
+        greatly appreciate the effort he and our waiter put forth to make it an
+        excellent experience.
+      languageCode: en
+    authorAttribution:
+      displayName: Christopher Church
+      uri: https://www.google.com/maps/contrib/100114930730581389118/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUnFKQws1b_WlWF1sL5EQKdVskIHV5PhNTEeUnB45Ir020kcvEu=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-03-23T20:07:27.620291Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUR3bEkzSWh3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUR3bEkzSWh3RRAB!2m1!1s0x872ba914ea525e43:0x809dec752f78b424
+review_summary: >-
+  What Guests Are Saying About the Vibes$$$Folks who visit places like this one
+  often rave about the fresh and flavorful sushi rolls that hit the spot without
+  breaking the bank, making it a solid pick for anyone hunting for top-rated
+  options nearby. Many appreciate the attentive service that keeps things
+  running smoothly, even during busy times, adding to the overall enjoyable
+  experience. Comments frequently highlight unique dishes and generous portions
+  that leave diners feeling satisfied and eager to return for more. While some
+  note the cozy, family-oriented feel enhances the meal, others enjoy the
+  reasonable prices that make it accessible for groups or casual outings.
+  Overall, it's clear this spot maintains a positive buzz for its combination of
+  tasty Japanese fare and welcoming environment, encouraging sushi enthusiasts
+  to give it a try.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
 good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+live_music: false
+menu_for_children: true
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Family-friendly quarters serving standard Japanese dishes plus a large menu of
+  sushi & sashimi.
 
 ---

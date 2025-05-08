@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sora 天"
+title: Sora 天
 permalink: /ohio/cleveland/sora.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Cleveland
 seo:
-  name: "Sora 天"
-  type: Restaurant
-  links: null
-description: "Sora 天 serves delicious sushi in Cleveland, Ohio. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.eatatsora.com/
 place_id: ChIJydL8hj3xMIgRJ7HGZX4ZMy4
 photos:
   - name: >-
@@ -170,22 +168,190 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8830f13d86fcd2c9:0x2e33197e65c6b127!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 15
+        minute: 0
+      close:
+        day: 0
+        hour: 23
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 23
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 23
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 23
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 2
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 2
+        minute: 0
+    - open:
+        day: 6
+        hour: 15
+        minute: 0
+      close:
+        day: 0
+        hour: 2
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 11:00 PM'
+    - 'Tuesday: 11:00 AM – 11:00 PM'
+    - 'Wednesday: 11:00 AM – 11:00 PM'
+    - 'Thursday: 11:00 AM – 2:00 AM'
+    - 'Friday: 11:00 AM – 2:00 AM'
+    - 'Saturday: 3:00 PM – 2:00 AM'
+    - 'Sunday: 3:00 – 11:00 PM'
+  nextCloseTime: '2025-05-04T06:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 15
+          minute: 0
+        close:
+          day: 0
+          hour: 22
+          minute: 0
+      - open:
+          day: 1
+          hour: 11
+          minute: 0
+        close:
+          day: 1
+          hour: 22
+          minute: 0
+      - open:
+          day: 2
+          hour: 11
+          minute: 0
+        close:
+          day: 2
+          hour: 22
+          minute: 0
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 22
+          minute: 0
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 1
+          minute: 0
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 6
+          hour: 1
+          minute: 0
+      - open:
+          day: 6
+          hour: 15
+          minute: 0
+        close:
+          day: 0
+          hour: 1
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 11:00 AM – 10:00 PM'
+      - 'Tuesday: 11:00 AM – 10:00 PM'
+      - 'Wednesday: 11:00 AM – 10:00 PM'
+      - 'Thursday: 11:00 AM – 1:00 AM'
+      - 'Friday: 11:00 AM – 1:00 AM'
+      - 'Saturday: 3:00 PM – 1:00 AM'
+      - 'Sunday: 3:00 – 10:00 PM'
+    secondaryHoursType: KITCHEN
+    nextCloseTime: '2025-05-04T05:00:00Z'
+phone: (216) 294-1800
+price_level: PRICE_LEVEL_MODERATE
+price_range: $30 &ndash; $50
+rating: '3.8'
+rating_count: 702
+website: https://www.eatatsora.com/
+description: >-
+  Discover Sora in Cleveland, OH$$$Sora in Cleveland, OH, is an upscale eatery
+  that blends Asian fusion flavors with fresh sushi options, making it a
+  standout choice for anyone seeking quality dining experiences in the area.
+  This spot offers a sophisticated atmosphere where patrons can savor expertly
+  prepared dishes alongside a selection of beer, wine, and cocktails, perfect
+  for a relaxed evening out. The restaurant's accessibility features ensure a
+  welcoming environment for all visitors, enhancing its appeal as a go-to
+  destination for sushi lovers. With its convenient location in the heart of the
+  city, Sora provides an elegant setting that combines modern vibes with
+  delicious culinary creations. Whether you're exploring sushi restaurants
+  nearby or looking for Japanese-inspired places in Cleveland, this venue
+  delivers a memorable meal in a stylish space.
+generative_summary: >-
+  Discover Sora in Cleveland, OH$$$Sora in Cleveland, OH, is an upscale eatery
+  that blends Asian fusion flavors with fresh sushi options, making it a
+  standout choice for anyone seeking quality dining experiences in the area.
+  This spot offers a sophisticated atmosphere where patrons can savor expertly
+  prepared dishes alongside a selection of beer, wine, and cocktails, perfect
+  for a relaxed evening out. The restaurant's accessibility features ensure a
+  welcoming environment for all visitors, enhancing its appeal as a go-to
+  destination for sushi lovers. With its convenient location in the heart of the
+  city, Sora provides an elegant setting that combines modern vibes with
+  delicious culinary creations. Whether you're exploring sushi restaurants
+  nearby or looking for Japanese-inspired places in Cleveland, this venue
+  delivers a memorable meal in a stylish space.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this Cleveland sushi spot often praise
+  the flavorful sushi rolls and creative appetizers like crab rangoon-inspired
+  bites, along with refreshing cocktails that add a fun twist to the meal. Many
+  appreciate the eye-catching decor, including beautiful floral elements that
+  create a warm and inviting vibe for dining with friends or on a special night
+  out. While some note that prices can feel a tad high compared to other local
+  options, the overall quality and taste generally make it feel worthwhile for
+  those craving top-notch dishes. Service might occasionally run a bit slower
+  during busy times, but it's rarely a dealbreaker given the satisfying food
+  experience. If you're hunting for the best sushi near you, this place has
+  earned solid nods for its tasty offerings and charming atmosphere, making it a
+  reliable pick for casual diners.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +377,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

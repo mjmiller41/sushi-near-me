@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Hawaii Sushi"
+title: Hawaii Sushi
 permalink: /hawaii/honolulu/hawaii-sushi.html
 stateAbbr: HI
 stateName: Hawaii
 cityName: Honolulu
 seo:
-  name: "Hawaii Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://hawaii-sushi.square.site/
-description: "Hawaii Sushi serves delicious sushi in Honolulu, Hawaii. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJsbry8nxyAHwRnXRDGIlIrpU
 photos:
   - name: >-
@@ -168,7 +166,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x7c00727cf2f2bab1:0x95ae48891843749d!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 10
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 0
+    - open:
+        day: 1
+        hour: 10
+        minute: 0
+      close:
+        day: 1
+        hour: 20
+        minute: 0
+    - open:
+        day: 2
+        hour: 10
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 0
+    - open:
+        day: 3
+        hour: 10
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 0
+    - open:
+        day: 4
+        hour: 10
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 0
+    - open:
+        day: 5
+        hour: 10
+        minute: 0
+      close:
+        day: 5
+        hour: 20
+        minute: 0
+    - open:
+        day: 6
+        hour: 10
+        minute: 0
+      close:
+        day: 6
+        hour: 20
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 10:00 AM – 8:00 PM'
     - 'Tuesday: 10:00 AM – 8:00 PM'
     - 'Wednesday: 10:00 AM – 8:00 PM'
@@ -176,14 +232,7 @@ opening_hours:
     - 'Friday: 10:00 AM – 8:00 PM'
     - 'Saturday: 10:00 AM – 8:00 PM'
     - 'Sunday: 10:00 AM – 8:00 PM'
-  current:
-    - 'Monday: 10:00 AM – 8:00 PM'
-    - 'Tuesday: 10:00 AM – 8:00 PM'
-    - 'Wednesday: 10:00 AM – 8:00 PM'
-    - 'Thursday: 10:00 AM – 8:00 PM'
-    - 'Friday: 10:00 AM – 8:00 PM'
-    - 'Saturday: 10:00 AM – 8:00 PM'
-    - 'Sunday: 10:00 AM – 8:00 PM'
+  nextCloseTime: '2025-05-04T06:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -195,35 +244,243 @@ phone: (808) 734-6370
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.6'
-rating_count: 0
+rating_count: 459
 website: https://hawaii-sushi.square.site/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Explore Hawaii Sushi in Honolulu, HI$$$Hawaii Sushi in Honolulu, HI, offers a
+  delightful array of fresh sushi and Japanese dishes in a laid-back setting,
+  making it a go-to spot for those seeking authentic flavors with a local twist.
+  The menu features specialty rolls, poke, and rice bowls made with high-quality
+  ingredients, including locally sourced fish that highlight the island's
+  vibrant seafood scene. This sushi restaurant stands out for its accessible
+  entrance and parking, ensuring a welcoming experience for all visitors, while
+  maintaining a casual atmosphere perfect for quick meals or take-out. With
+  daily hours from 10 AM to 8 PM, it's an ideal choice for anyone exploring
+  sushi options in the area, blending convenience with genuine taste that
+  captures the essence of Hawaiian-inspired dining.
+generative_summary: >-
+  Explore Hawaii Sushi in Honolulu, HI$$$Hawaii Sushi in Honolulu, HI, offers a
+  delightful array of fresh sushi and Japanese dishes in a laid-back setting,
+  making it a go-to spot for those seeking authentic flavors with a local twist.
+  The menu features specialty rolls, poke, and rice bowls made with high-quality
+  ingredients, including locally sourced fish that highlight the island's
+  vibrant seafood scene. This sushi restaurant stands out for its accessible
+  entrance and parking, ensuring a welcoming experience for all visitors, while
+  maintaining a casual atmosphere perfect for quick meals or take-out. With
+  daily hours from 10 AM to 8 PM, it's an ideal choice for anyone exploring
+  sushi options in the area, blending convenience with genuine taste that
+  captures the essence of Hawaiian-inspired dining.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJsbry8nxyAHwRnXRDGIlIrpU/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJemNhb2F3EAE
+    relativePublishTimeDescription: 4 weeks ago
+    rating: 5
+    text:
+      text: >-
+        There's so much fabulous sushi in the world in general, but especially
+        in Hawaii, of course there's also a lot of bad-mediocre sushi in the
+        world, and a lot of sushi that's forgettable or just okay but this
+        place! Is not of that kind. Now do I remember what I ordered? Not
+        exactly. Also when we went they were out of salmon, so there was an
+        improv situation on top of things but whatever it was, all of it was
+        superb. I need more positive descriptors. I keep going to all these
+        great places and it's making my reviews repetitive. But this was another
+        winner. They were very friendly inside, we had nice conversation and
+        they didn't bite our heads off for coming in so soon to closing time
+        (I've worked in many a restaurant. I know the stinging pain of a last
+        minute customer). The lack of salmon was a blow but whatever little tuna
+        number they cooked up for me here hit the spot, I didn't feel like
+        anything was missing. I love take out. It was a great night. We had a
+        nice happy time walking there and walking home and eating at the table
+        and talked mostly about how good it all was. Life is made by simple
+        pleasures people and there's few pleasures finer than some damn good
+        sushi
+      languageCode: en
+    originalText:
+      text: >-
+        There's so much fabulous sushi in the world in general, but especially
+        in Hawaii, of course there's also a lot of bad-mediocre sushi in the
+        world, and a lot of sushi that's forgettable or just okay but this
+        place! Is not of that kind. Now do I remember what I ordered? Not
+        exactly. Also when we went they were out of salmon, so there was an
+        improv situation on top of things but whatever it was, all of it was
+        superb. I need more positive descriptors. I keep going to all these
+        great places and it's making my reviews repetitive. But this was another
+        winner. They were very friendly inside, we had nice conversation and
+        they didn't bite our heads off for coming in so soon to closing time
+        (I've worked in many a restaurant. I know the stinging pain of a last
+        minute customer). The lack of salmon was a blow but whatever little tuna
+        number they cooked up for me here hit the spot, I didn't feel like
+        anything was missing. I love take out. It was a great night. We had a
+        nice happy time walking there and walking home and eating at the table
+        and talked mostly about how good it all was. Life is made by simple
+        pleasures people and there's few pleasures finer than some damn good
+        sushi
+      languageCode: en
+    authorAttribution:
+      displayName: Siena WD
+      uri: https://www.google.com/maps/contrib/115655251563415331928/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXTUudE6octvXCNrBBh8yZh2jINqve2-hgxAHy4MZ-NzT9djEqM=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-04-03T22:21:04.777792Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNJemNhb2F3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNJemNhb2F3EAE!2m1!1s0x7c00727cf2f2bab1:0x95ae48891843749d
+  - name: >-
+      places/ChIJsbry8nxyAHwRnXRDGIlIrpU/reviews/ChZDSUhNMG9nS0VJQ0FnSURQX1pPNU5REAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        Did take out for dinner and we were happy with the veggie roll, salmon
+        bowl, & unagi bowl. Fresh fish and tasty rice. Following day we picked
+        up the $6 lunch special bowl (salmon & mayo) and 2 inari for round 2
+        after brunch at Bogart’s. Great deal, both satisfied!
+      languageCode: en
+    originalText:
+      text: >-
+        Did take out for dinner and we were happy with the veggie roll, salmon
+        bowl, & unagi bowl. Fresh fish and tasty rice. Following day we picked
+        up the $6 lunch special bowl (salmon & mayo) and 2 inari for round 2
+        after brunch at Bogart’s. Great deal, both satisfied!
+      languageCode: en
+    authorAttribution:
+      displayName: Jenny
+      uri: https://www.google.com/maps/contrib/108623570424711904808/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjV0ePx7NoMir9minNfZTO18l97HTQ6Jx7mOBPCdq8q5ZmEbJu4j=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-12-05T03:09:40.913186Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURQX1pPNU5REAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURQX1pPNU5REAE!2m1!1s0x7c00727cf2f2bab1:0x95ae48891843749d
+  - name: >-
+      places/ChIJsbry8nxyAHwRnXRDGIlIrpU/reviews/ChZDSUhNMG9nS0VJQ0FnTURvNGV1NVdnEAE
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        I live nearby and this is my favorite sushi spot. Everything is fresh
+        and well made. They use baby shrimp instead of imitation crab, which I
+        love! They are always friendly and helpful.
+      languageCode: en
+    originalText:
+      text: >-
+        I live nearby and this is my favorite sushi spot. Everything is fresh
+        and well made. They use baby shrimp instead of imitation crab, which I
+        love! They are always friendly and helpful.
+      languageCode: en
+    authorAttribution:
+      displayName: Christine L
+      uri: https://www.google.com/maps/contrib/106159684894898827709/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjV3zCpy1QAN0R-E7iCFPXx4zSsXGneCpLgppYKOpYkFPy_bZCaC=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-25T20:28:27.887869Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURvNGV1NVdnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURvNGV1NVdnEAE!2m1!1s0x7c00727cf2f2bab1:0x95ae48891843749d
+  - name: >-
+      places/ChIJsbry8nxyAHwRnXRDGIlIrpU/reviews/ChZDSUhNMG9nS0VJQ0FnTURJc2ViWUlnEAE
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 5
+    text:
+      text: >-
+        This cute little sushi shop has delicious rolls and sashimi and nigiri
+        with fresh fish! The staff is super friendly and the prices are
+        unbeatable! Go get some sushi right now! 👍
+      languageCode: en
+    originalText:
+      text: >-
+        This cute little sushi shop has delicious rolls and sashimi and nigiri
+        with fresh fish! The staff is super friendly and the prices are
+        unbeatable! Go get some sushi right now! 👍
+      languageCode: en
+    authorAttribution:
+      displayName: Heather Marie
+      uri: https://www.google.com/maps/contrib/108041324441097819137/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVSZjLwAWdhDRNqlFmYA3KUYL3B3j3a1tMzY2bQUCMUEEsF3SKcEA=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-10T20:33:21.553205Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURJc2ViWUlnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJc2ViWUlnEAE!2m1!1s0x7c00727cf2f2bab1:0x95ae48891843749d
+  - name: >-
+      places/ChIJsbry8nxyAHwRnXRDGIlIrpU/reviews/ChdDSUhNMG9nS0VJQ0FnTURvaWFDSml3RRAB
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        Love this spot for sushi take out. The seating is limited outside but
+        offer great choices as well as creative party platters and service is
+        usually good.
+      languageCode: en
+    originalText:
+      text: >-
+        Love this spot for sushi take out. The seating is limited outside but
+        offer great choices as well as creative party platters and service is
+        usually good.
+      languageCode: en
+    authorAttribution:
+      displayName: Jana Peterson
+      uri: https://www.google.com/maps/contrib/117726210240238547083/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWt2OrVQzVjvKwCpsICDmS51Ihvf0sw3wYS9p2S-E6rwTFF7OZ-=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-26T04:36:33.238058Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURvaWFDSml3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURvaWFDSml3RRAB!2m1!1s0x7c00727cf2f2bab1:0x95ae48891843749d
+review_summary: >-
+  Customer Feedback on This Sushi Spot$$$Folks who stop by this sushi place
+  often praise the super fresh fish and creative rolls that make every bite feel
+  satisfying and flavorful, turning a simple meal into a highlight of the day.
+  Many appreciate the friendly service and reasonable prices, which keep things
+  approachable without skimping on quality, especially for take-out or casual
+  grabs. Reviewers frequently mention how the variety of options, like poke and
+  bowls, suits different tastes while delivering that reliable Hawaiian vibe.
+  Overall, it's clear this spot earns its spot as a solid pick for anyone
+  hunting for tasty sushi nearby, with the added bonus of quick service that
+  keeps the experience light and enjoyable. If you're in the mood for top-notch
+  sushi in a welcoming environment, it sounds like a winner based on the
+  positive buzz.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
+curbside_pickup: false
+delivery: true
+dine_in: true
+good_for_children: true
 good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
+good_for_sports: false
+live_music: false
+menu_for_children: true
+outdoor_seating: true
+reservable: false
+restroom: false
+serves_beer: false
+serves_breakfast: false
 serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
+serves_cocktails: false
+serves_coffee: false
+serves_dinner: true
 serves_dessert: null
-serves_lunch: null
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: false
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Cheerful counter-service place offering sashimi, rolls & rice bowls featuring
+  local fish.
 
 ---

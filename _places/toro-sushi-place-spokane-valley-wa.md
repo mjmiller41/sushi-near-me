@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Toro Sushi Place"
+title: Toro Sushi Place
 permalink: /washington/spokane-valley/toro-sushi-place.html
 stateAbbr: WA
 stateName: Washington
 cityName: Spokane Valley
 seo:
-  name: "Toro Sushi Place"
-  type: Restaurant
+  type: restaurant
   links: https://www.facebook.com/torosushispokane/
-description: "Toro Sushi Place serves delicious sushi in Spokane Valley, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJI7iql4TfYVMRNWjnv1AP4_Y
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x5361df8497aab823:0xf6e30f50bfe76835!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 14
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 0
+    - open:
+        day: 2
+        hour: 15
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 15
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 15
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 14
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 14
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 3:00 – 9:00 PM'
     - 'Wednesday: 3:00 – 9:00 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 2:00 – 9:00 PM'
     - 'Saturday: 2:00 – 9:00 PM'
     - 'Sunday: 2:00 – 8:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 3:00 – 9:00 PM'
-    - 'Wednesday: 3:00 – 9:00 PM'
-    - 'Thursday: 3:00 – 9:00 PM'
-    - 'Friday: 2:00 – 9:00 PM'
-    - 'Saturday: 2:00 – 9:00 PM'
-    - 'Sunday: 2:00 – 8:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +238,49 @@ phone: (509) 703-7029
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.1'
-rating_count: 0
+rating_count: 894
 website: https://www.facebook.com/torosushispokane/
+description: >-
+  Discover Toro Sushi Place in Spokane Valley$$$Toro Sushi Place in Spokane
+  Valley, WA, stands out as a welcoming spot for those seeking fresh sushi and
+  Japanese-inspired dining options. This casual eatery boasts a relaxed
+  atmosphere where patrons can enjoy a variety of rolls, along with selections
+  of sake, cocktails, and beer, making it ideal for casual meals or unwinding
+  after a day out. Accessibility features like wheelchair-friendly parking and
+  entrances ensure everyone can savor the experience, adding to its appeal for
+  families and groups. If you're exploring sushi restaurants near you, this
+  location offers a solid choice with moderately priced dishes that highlight
+  quality ingredients. Its convenient hours cater to both lunch and dinner
+  crowds, enhancing its reputation as a reliable go-to for Japanese places in
+  the area.
+generative_summary: >-
+  Discover Toro Sushi Place in Spokane Valley$$$Toro Sushi Place in Spokane
+  Valley, WA, stands out as a welcoming spot for those seeking fresh sushi and
+  Japanese-inspired dining options. This casual eatery boasts a relaxed
+  atmosphere where patrons can enjoy a variety of rolls, along with selections
+  of sake, cocktails, and beer, making it ideal for casual meals or unwinding
+  after a day out. Accessibility features like wheelchair-friendly parking and
+  entrances ensure everyone can savor the experience, adding to its appeal for
+  families and groups. If you're exploring sushi restaurants near you, this
+  location offers a solid choice with moderately priced dishes that highlight
+  quality ingredients. Its convenient hours cater to both lunch and dinner
+  crowds, enhancing its reputation as a reliable go-to for Japanese places in
+  the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Visitor Feedback$$$Visitors to this sushi spot often rave about
+  the fresh flavors and generous portions that make it a standout among local
+  options. Many appreciate the friendly service and cozy vibe, which contribute
+  to a relaxed dining experience perfect for casual get-togethers or solo
+  visits. While some note that wait times can vary during peak hours, the
+  overall consensus leans positive, with plenty of praise for the variety of
+  rolls and drinks that keep people coming back. If you're on the hunt for
+  top-rated sushi near you, feedback highlights the value for the price,
+  especially for those who love exploring Japanese cuisine without breaking the
+  bank. All in all, it's a solid pick that delivers on taste and atmosphere,
+  encouraging repeat trips for anyone in the mood for something delicious.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +306,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

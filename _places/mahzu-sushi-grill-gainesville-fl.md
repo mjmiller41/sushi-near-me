@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Mahzu Sushi & Grill"
+title: Mahzu Sushi & Grill
 permalink: /florida/gainesville/mahzu-sushi-grill.html
 stateAbbr: FL
 stateName: Florida
 cityName: Gainesville
 seo:
-  name: "Mahzu Sushi & Grill"
-  type: Restaurant
+  type: restaurant
   links: https://mahzusushi.com/
-description: "Relaxed, modern outpost for Japanese grilled fare, sushi, creative rolls & sake bombs. Mahzu Sushi & Grill serves delicious sushi in Gainesville, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJQ7mHV9ui6IgRhfIJHwKCyaY
 photos:
   - name: >-
@@ -185,6 +183,27 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 0
 website: https://mahzusushi.com/
+description: >-
+  Discover Mahzu Sushi & Grill in Gainesville, FL$$$In Gainesville, FL, Mahzu
+  Sushi & Grill offers a modern retreat for those seeking fresh Japanese cuisine
+  and creative dining options. This inviting spot features a variety of grilled
+  dishes and inventive sushi rolls, making it a go-to choice for sushi
+  enthusiasts exploring local flavors. With generous portions and a cozy
+  atmosphere, it's ideal for casual meals or gatherings, enhanced by thoughtful
+  accessibility features that ensure everyone can enjoy the experience. The
+  selection of drinks and fresh ingredients adds to its appeal, providing a
+  satisfying escape for anyone in the mood for top-rated sushi nearby.
+generative_summary: >-
+  Discover Mahzu Sushi & Grill in Gainesville, FL$$$In Gainesville, FL, Mahzu
+  Sushi & Grill offers a modern retreat for those seeking fresh Japanese cuisine
+  and creative dining options. This inviting spot features a variety of grilled
+  dishes and inventive sushi rolls, making it a go-to choice for sushi
+  enthusiasts exploring local flavors. With generous portions and a cozy
+  atmosphere, it's ideal for casual meals or gatherings, enhanced by thoughtful
+  accessibility features that ensure everyone can enjoy the experience. The
+  selection of drinks and fresh ingredients adds to its appeal, providing a
+  satisfying escape for anyone in the mood for top-rated sushi nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJQ7mHV9ui6IgRhfIJHwKCyaY/reviews/ChZDSUhNMG9nS0VJQ0FnTUNBeWNYNVZREAE
@@ -346,6 +365,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNJc3VLX29RRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNJc3VLX29RRRAB!2m1!1s0x88e8a2db5787b943:0xa6c982021f09f285
+review_summary: >-
+  What Customers Are Saying About the Experience$$$Folks who visit Mahzu Sushi &
+  Grill often highlight the attentive service and quick delivery, even on
+  crowded evenings, which keeps things feeling smooth and welcoming. Many
+  appreciate the tasty rolls and hearty portions that deliver solid value
+  without breaking the bank, making it a favorite for casual sushi seekers.
+  While some mention that cooked options might edge out the raw ones for the
+  best taste, the overall vibe remains positive with fresh flavors winning
+  praise across the board. The friendly staff and efficient setup add to the
+  charm, encouraging repeat trips for a relaxed meal. All in all, it's a
+  reliable spot that leaves diners satisfied and eager to return for more
+  enjoyable bites.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -378,8 +410,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Relaxed, modern outpost for Japanese grilled fare, sushi, creative rolls &
   sake bombs.
 

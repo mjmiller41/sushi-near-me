@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Amberjack"
+title: Amberjack
 permalink: /california/mill-valley/amberjack.html
 stateAbbr: CA
 stateName: California
 cityName: Mill Valley
 seo:
-  name: "Amberjack"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Amberjack serves delicious sushi in Mill Valley, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJXcxkGHOQhYARcH4rgSpgDJg
 photos:
   - name: >-
@@ -131,7 +129,81 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x808590731864cc5d:0x980c602a812b7e70!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 0
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 20
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 30
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 20
+        minute: 30
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 20
+        minute: 45
+  weekdayDescriptions:
     - 'Monday: 5:00 – 8:30 PM'
     - 'Tuesday: 11:30 AM – 2:00 PM, 5:00 – 8:30 PM'
     - 'Wednesday: 5:00 – 8:30 PM'
@@ -139,14 +211,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 2:00 PM, 5:00 – 8:30 PM'
     - 'Saturday: 5:00 – 8:45 PM'
     - 'Sunday: 5:00 – 8:00 PM'
-  current:
-    - 'Monday: 5:00 – 8:30 PM'
-    - 'Tuesday: 11:30 AM – 2:00 PM, 5:00 – 8:30 PM'
-    - 'Wednesday: 5:00 – 8:30 PM'
-    - 'Thursday: 5:00 – 8:30 PM'
-    - 'Friday: 11:30 AM – 2:00 PM, 5:00 – 8:30 PM'
-    - 'Saturday: 5:00 – 8:45 PM'
-    - 'Sunday: 5:00 – 8:00 PM'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -158,35 +223,220 @@ phone: (415) 383-1327
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.0'
-rating_count: 0
+rating_count: 38
 website: null
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Amberjack in Mill Valley, CA$$$Amberjack in Mill Valley, CA, offers a
+  laid-back vibe perfect for enjoying authentic Japanese flavors, with a focus
+  on fresh sushi and traditional dishes. This spot boasts an extensive menu
+  featuring sashimi, tempura, and hearty dinners that appeal to those seeking
+  quality Japanese dining options nearby. Accessibility features like
+  wheelchair-friendly entrances and parking make it welcoming for all visitors,
+  enhancing the overall experience. Operating hours span lunch and dinner times
+  on select days, providing flexibility for locals and tourists alike. For
+  anyone exploring sushi restaurants in the area, Amberjack delivers a reliable
+  and satisfying choice that highlights its commitment to fresh, flavorful
+  meals.
+generative_summary: >-
+  Discover Amberjack in Mill Valley, CA$$$Amberjack in Mill Valley, CA, offers a
+  laid-back vibe perfect for enjoying authentic Japanese flavors, with a focus
+  on fresh sushi and traditional dishes. This spot boasts an extensive menu
+  featuring sashimi, tempura, and hearty dinners that appeal to those seeking
+  quality Japanese dining options nearby. Accessibility features like
+  wheelchair-friendly entrances and parking make it welcoming for all visitors,
+  enhancing the overall experience. Operating hours span lunch and dinner times
+  on select days, providing flexibility for locals and tourists alike. For
+  anyone exploring sushi restaurants in the area, Amberjack delivers a reliable
+  and satisfying choice that highlights its commitment to fresh, flavorful
+  meals.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJXcxkGHOQhYARcH4rgSpgDJg/reviews/ChZDSUhNMG9nS0VJQ0FnSUNUODRpMEVREAE
+    relativePublishTimeDescription: 11 months ago
+    rating: 5
+    text:
+      text: >-
+        We (including the kids) love Amberjack. It’s small, without sit-down,
+        but run by a really sweet family. The food is ultra fresh, with sizable
+        portions. Definitely our favorite Mill Valley sushi (was better than
+        samurai).
+      languageCode: en
+    originalText:
+      text: >-
+        We (including the kids) love Amberjack. It’s small, without sit-down,
+        but run by a really sweet family. The food is ultra fresh, with sizable
+        portions. Definitely our favorite Mill Valley sushi (was better than
+        samurai).
+      languageCode: en
+    authorAttribution:
+      displayName: Alexis Braun
+      uri: https://www.google.com/maps/contrib/106837907668654654179/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUCpR3o9B0OJmEijnyg0swFhgULNkq1mflOp0eaiubb3BJu9TM=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-05-19T00:55:13.638302Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNUODRpMEVREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNUODRpMEVREAE!2m1!1s0x808590731864cc5d:0x980c602a812b7e70
+  - name: >-
+      places/ChIJXcxkGHOQhYARcH4rgSpgDJg/reviews/ChdDSUhNMG9nS0VJQ0FnSURfc1pUNjh3RRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: Family owned, high quality sushi, willing to make custom rolls
+      languageCode: en
+    originalText:
+      text: Family owned, high quality sushi, willing to make custom rolls
+      languageCode: en
+    authorAttribution:
+      displayName: Ben Perkins
+      uri: https://www.google.com/maps/contrib/117038575730499064370/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVtqiWDp1B_HVSs5TqoicxtSVr8fV8Mx7t6P_lB4srg10uhhojb=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-01-25T01:08:01.358940Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURfc1pUNjh3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURfc1pUNjh3RRAB!2m1!1s0x808590731864cc5d:0x980c602a812b7e70
+  - name: >-
+      places/ChIJXcxkGHOQhYARcH4rgSpgDJg/reviews/ChdDSUhNMG9nS0VJQ0FnSURCN2VxWG1BRRAB
+    relativePublishTimeDescription: 2 years ago
+    rating: 5
+    text:
+      text: >-
+        I love Amberjack Sushi by their always tasty, fresh, and healthy
+        reliable take-out / delivery Japanese food orders. They have an
+        excellent wide selection of delicious sushi and sashimi along with their
+        main set dinners to choose from. I have found the salmon teriyaki dinner
+        has become a perfect simple always tasty dinner meal that I love every
+        time I order it!
+      languageCode: en
+    originalText:
+      text: >-
+        I love Amberjack Sushi by their always tasty, fresh, and healthy
+        reliable take-out / delivery Japanese food orders. They have an
+        excellent wide selection of delicious sushi and sashimi along with their
+        main set dinners to choose from. I have found the salmon teriyaki dinner
+        has become a perfect simple always tasty dinner meal that I love every
+        time I order it!
+      languageCode: en
+    authorAttribution:
+      displayName: Neural Stimulus Recordings
+      uri: https://www.google.com/maps/contrib/101241239778604157980/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXKCZi7KDoMT8C8XkISB1JAROIHfRGQiZ2EQJxKE3UEt_T5krg=s128-c0x00000000-cc-rp-mo
+    publishTime: '2023-01-26T07:05:32.163808Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURCN2VxWG1BRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURCN2VxWG1BRRAB!2m1!1s0x808590731864cc5d:0x980c602a812b7e70
+  - name: >-
+      places/ChIJXcxkGHOQhYARcH4rgSpgDJg/reviews/ChZDSUhNMG9nS0VJQ0FnSUNSNGJ2WUF3EAE
+    relativePublishTimeDescription: 2 years ago
+    rating: 1
+    text:
+      text: >-
+        Wow the food sucks. I'm embarrassed I fed it to my boy. The tempura
+        shrimp may not have been shrimp, but some rubbery meat thing. The 'crab'
+        in my son's Cali roll was more like rotten tuna. There is no way the
+        owners of this place eat their own food and can think it's even decent.
+      languageCode: en
+    originalText:
+      text: >-
+        Wow the food sucks. I'm embarrassed I fed it to my boy. The tempura
+        shrimp may not have been shrimp, but some rubbery meat thing. The 'crab'
+        in my son's Cali roll was more like rotten tuna. There is no way the
+        owners of this place eat their own food and can think it's even decent.
+      languageCode: en
+    authorAttribution:
+      displayName: Karl Hasz
+      uri: https://www.google.com/maps/contrib/114900213623466620430/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXBslvzO5BEMLMja7ie3ddZTCo6PYpuHVirGpSPffxmNrmfwMis=s128-c0x00000000-cc-rp-mo
+    publishTime: '2023-04-04T02:18:35.236915Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNSNGJ2WUF3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNSNGJ2WUF3EAE!2m1!1s0x808590731864cc5d:0x980c602a812b7e70
+  - name: >-
+      places/ChIJXcxkGHOQhYARcH4rgSpgDJg/reviews/ChZDSUhNMG9nS0VJQ0FnSUNBeHZ5UGJnEAE
+    relativePublishTimeDescription: 8 years ago
+    rating: 2
+    text:
+      text: >-
+        Downgraded as the service is miserable and Samurai is so much better.
+
+        The one waitress always looks somewhere between bored and pissed.
+
+        My last time ever there was tonight. Sat in the absolutely empty little
+        restaurant for 15 minutes. Waitress stood folding napkins or putting
+        something away. Too busy to take the order for their only customers.
+      languageCode: en
+    originalText:
+      text: >-
+        Downgraded as the service is miserable and Samurai is so much better.
+
+        The one waitress always looks somewhere between bored and pissed.
+
+        My last time ever there was tonight. Sat in the absolutely empty little
+        restaurant for 15 minutes. Waitress stood folding napkins or putting
+        something away. Too busy to take the order for their only customers.
+      languageCode: en
+    authorAttribution:
+      displayName: Rich
+      uri: https://www.google.com/maps/contrib/111354858106548949559/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWbtJvkCaP8ent2U4tBOQIj7kNhfakQ9pjZ8HUyw1NmU8BHg4LPCg=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2016-08-20T00:55:27.812Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNBeHZ5UGJnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNBeHZ5UGJnEAE!2m1!1s0x808590731864cc5d:0x980c602a812b7e70
+review_summary: >-
+  What Visitors Are Saying$$$Folks generally rave about Amberjack's fresh sushi
+  and creative custom rolls, making it a solid pick for anyone craving reliable
+  Japanese eats. Many highlight the generous portions and family-friendly
+  atmosphere that add to the appeal, especially for quick take-out or delivery
+  options. While a few mentions point to occasional service inconsistencies, the
+  majority of feedback focuses on the tasty, healthy selections that keep people
+  coming back. If you're on the lookout for top-rated sushi spots nearby, this
+  place often gets praise for its straightforward approach to quality
+  ingredients. Overall, it's a welcoming option that delivers a mostly positive
+  experience for sushi lovers in the community.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
+delivery: true
+dine_in: true
+good_for_children: true
 good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
 serves_breakfast: null
 serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_cocktails: false
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

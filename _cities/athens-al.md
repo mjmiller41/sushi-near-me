@@ -5,4 +5,5 @@ permalink: /alabama/athens/
 stateAbbr: AL
 stateName: Alabama
 cityName: Athens
+
 ---

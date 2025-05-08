@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Komorebi Sushi & Rolls"
+title: Komorebi Sushi & Rolls
 permalink: /washington/kirkland/komorebi-sushi-rolls.html
 stateAbbr: WA
 stateName: Washington
 cityName: Kirkland
 seo:
-  name: "Komorebi Sushi & Rolls"
-  type: Restaurant
+  type: restaurant
   links: https://www.clover.com/online-ordering/komorebi-sushi--rolls-kirkland
-description: "Komorebi Sushi & Rolls serves delicious sushi in Kirkland, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJeUAC_HETkFQR1TJwdOMDLLc
 photos:
   - name: >-
@@ -170,7 +168,105 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x54901371fc024079:0xb72c03e3747032d5!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 15
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 15
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 15
+        minute: 0
+    - open:
+        day: 6
+        hour: 16
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM'
     - 'Tuesday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM'
     - 'Wednesday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM'
@@ -178,14 +274,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM'
     - 'Saturday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM'
-    - 'Thursday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM'
-    - 'Friday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM'
-    - 'Saturday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM'
-    - 'Sunday: Closed'
+  nextOpenTime: '2025-05-03T23:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +286,289 @@ phone: (425) 828-3106
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.6'
-rating_count: 0
+rating_count: 86
 website: https://www.clover.com/online-ordering/komorebi-sushi--rolls-kirkland
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Komorebi Sushi & Rolls in Kirkland, Washington$$$Komorebi Sushi &
+  Rolls in Kirkland, Washington, offers a relaxed dining experience in a
+  convenient plaza setting, focusing on authentic Japanese cuisine with a
+  standout selection of fresh sushi options. This spot stands out for its
+  welcoming atmosphere and accessibility features, making it easy for everyone
+  to enjoy a meal, whether you're grabbing takeout or dining in. Patrons can
+  savor a variety of Japanese fare, including flavorful rolls and bowls that
+  highlight quality ingredients and thoughtful preparation. With moderate
+  pricing and options for beer and dessert, it's an ideal choice for those
+  seeking top-rated sushi restaurants in the area. The location's proximity to
+  local shopping adds to its appeal as a go-to destination for sushi places near
+  me looking for a casual yet satisfying meal.
+generative_summary: >-
+  Discover Komorebi Sushi & Rolls in Kirkland, Washington$$$Komorebi Sushi &
+  Rolls in Kirkland, Washington, offers a relaxed dining experience in a
+  convenient plaza setting, focusing on authentic Japanese cuisine with a
+  standout selection of fresh sushi options. This spot stands out for its
+  welcoming atmosphere and accessibility features, making it easy for everyone
+  to enjoy a meal, whether you're grabbing takeout or dining in. Patrons can
+  savor a variety of Japanese fare, including flavorful rolls and bowls that
+  highlight quality ingredients and thoughtful preparation. With moderate
+  pricing and options for beer and dessert, it's an ideal choice for those
+  seeking top-rated sushi restaurants in the area. The location's proximity to
+  local shopping adds to its appeal as a go-to destination for sushi places near
+  me looking for a casual yet satisfying meal.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJeUAC_HETkFQR1TJwdOMDLLc/reviews/ChZDSUhNMG9nS0VJQ0FnTUNnbi15SmJ3EAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        Komorebi Sushi & Rolls is hands down one of the best sushi spots around!
+        I've been coming here for two years, and every visit is just as amazing
+        as the last. The food is absolutely incredible—fresh, flavorful, and
+        beautifully presented. Whether you're a sushi lover or trying it for the
+        first time, you won’t be disappointed.
+
+
+        The staff is always so friendly and welcoming, making the dining
+        experience even better. They truly go above and beyond to make sure
+        you’re happy. If you're looking for high-quality sushi with great
+        service, Komorebi Sushi & Rolls is the place to be! Highly recommend!
+      languageCode: en
+    originalText:
+      text: >-
+        Komorebi Sushi & Rolls is hands down one of the best sushi spots around!
+        I've been coming here for two years, and every visit is just as amazing
+        as the last. The food is absolutely incredible—fresh, flavorful, and
+        beautifully presented. Whether you're a sushi lover or trying it for the
+        first time, you won’t be disappointed.
+
+
+        The staff is always so friendly and welcoming, making the dining
+        experience even better. They truly go above and beyond to make sure
+        you’re happy. If you're looking for high-quality sushi with great
+        service, Komorebi Sushi & Rolls is the place to be! Highly recommend!
+      languageCode: en
+    authorAttribution:
+      displayName: Hey Baby Ultrasound
+      uri: https://www.google.com/maps/contrib/104082852814563954045/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVJsajdyzoKjiKWOg4sL0aIN2whcSezTuarHjTzVLBdTZnDigM=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-02-21T18:34:12.060600Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNnbi15SmJ3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNnbi15SmJ3EAE!2m1!1s0x54901371fc024079:0xb72c03e3747032d5
+  - name: >-
+      places/ChIJeUAC_HETkFQR1TJwdOMDLLc/reviews/ChdDSUhNMG9nS0VJQ0FnSUNKMy1yWnF3RRAB
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        This is a hidden gem! Our party of 6 got right in!  I ordered the mixed
+        poke bowl without rice and extra veggies; delicious!!!
+
+        My husband and daughter ordered the crunchy California, spicy
+        California, and shrimp tempura rolls. They say the rolls were flavorful,
+        spicy, and perfectly sized!
+
+        I only have a photo of the poke bowl because a roll is a roll 😉
+      languageCode: en
+    originalText:
+      text: >-
+        This is a hidden gem! Our party of 6 got right in!  I ordered the mixed
+        poke bowl without rice and extra veggies; delicious!!!
+
+        My husband and daughter ordered the crunchy California, spicy
+        California, and shrimp tempura rolls. They say the rolls were flavorful,
+        spicy, and perfectly sized!
+
+        I only have a photo of the poke bowl because a roll is a roll 😉
+      languageCode: en
+    authorAttribution:
+      displayName: Charity Schwegman
+      uri: https://www.google.com/maps/contrib/109208802674431721062/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWrVUKzWXZXJ3pn90PWOsrxOH7YcEcHXzHULhngbEByujOhdawf=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2023-07-08T02:49:07.656737Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNKMy1yWnF3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNKMy1yWnF3RRAB!2m1!1s0x54901371fc024079:0xb72c03e3747032d5
+  - name: >-
+      places/ChIJeUAC_HETkFQR1TJwdOMDLLc/reviews/ChdDSUhNMG9nS0VJQ0FnSUNkc0lpMTJ3RRAB
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        Ordered Salmon box and it was so cute how it was displayed and for the
+        price it was pretty good. It came with a bowl of miso soup and salad. We
+        asked if we ordered online for pick-up if the soup/salad sides will come
+        with it, and they confirmed they do.
+
+
+        Udon noodles were nice chewy texture, the broth was very tasty and not
+        bland.
+
+        Mixed poke bowl was confirmed yummy by family member :)
+
+        Fish tasted fresh and not fishy. We have a family member very picky on
+        fish. She is not a fan of raw fish except for spicy tuna rolls. But
+        tasting some of the mixed poke, she confirmed no fishy taste or smell,
+        she was able to enjoy the food.
+
+
+        Very cute small restaurant, went after 5pm on a Friday so it was not
+        busy. But the road to get there was busy due to costco shoppers
+
+
+        Feb 9, 2024 Friday 5pm
+      languageCode: en
+    originalText:
+      text: >-
+        Ordered Salmon box and it was so cute how it was displayed and for the
+        price it was pretty good. It came with a bowl of miso soup and salad. We
+        asked if we ordered online for pick-up if the soup/salad sides will come
+        with it, and they confirmed they do.
+
+
+        Udon noodles were nice chewy texture, the broth was very tasty and not
+        bland.
+
+        Mixed poke bowl was confirmed yummy by family member :)
+
+        Fish tasted fresh and not fishy. We have a family member very picky on
+        fish. She is not a fan of raw fish except for spicy tuna rolls. But
+        tasting some of the mixed poke, she confirmed no fishy taste or smell,
+        she was able to enjoy the food.
+
+
+        Very cute small restaurant, went after 5pm on a Friday so it was not
+        busy. But the road to get there was busy due to costco shoppers
+
+
+        Feb 9, 2024 Friday 5pm
+      languageCode: en
+    authorAttribution:
+      displayName: Hannah Chang
+      uri: https://www.google.com/maps/contrib/114946637642184254026/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUwLiQUPPPrH5eCQDZQy2X3_zCZig6qwt1VZePWxWljWQHOIjol=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-02-10T05:09:23.724861Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNkc0lpMTJ3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNkc0lpMTJ3RRAB!2m1!1s0x54901371fc024079:0xb72c03e3747032d5
+  - name: >-
+      places/ChIJeUAC_HETkFQR1TJwdOMDLLc/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3azl1V2ZBEAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Their fish is of superior quality compared to other Japanese restaurants
+        in this area. I used to live in Japan for a long time so when I feel
+        like eating Japanese food I always go to this one. I am a routine
+        customer and I always order their salmon box, which they remember every
+        time.
+      languageCode: en
+    originalText:
+      text: >-
+        Their fish is of superior quality compared to other Japanese restaurants
+        in this area. I used to live in Japan for a long time so when I feel
+        like eating Japanese food I always go to this one. I am a routine
+        customer and I always order their salmon box, which they remember every
+        time.
+      languageCode: en
+    authorAttribution:
+      displayName: Jimmy Xu
+      uri: https://www.google.com/maps/contrib/110772829140693618028/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWpd1y5ETwKQPnSNARUSbmUKTH5zR0nJyDYUnjJ3PIk0stsxRLX=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-28T03:05:50.359560Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUR3azl1V2ZBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUR3azl1V2ZBEAE!2m1!1s0x54901371fc024079:0xb72c03e3747032d5
+  - name: >-
+      places/ChIJeUAC_HETkFQR1TJwdOMDLLc/reviews/ChdDSUhNMG9nS0VJQ0FnSUN0MFB1RDZ3RRAB
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        Such an amazing restaurant! The food was unbelievably fresh and
+        delicious, and the service was incredible. They also accommodated a
+        gluten free member of our party very well! Overall this place is
+        absolutely a hidden treasure. If I could give 6 stars I would. I hope
+        this restaurant gets more publicity because it is the best sushi
+        restaurant in all of the Kirkland. I am not even exaggerating, this
+        restaurant was an absolute 10/10. HIGHLY recommend!
+      languageCode: en
+    originalText:
+      text: >-
+        Such an amazing restaurant! The food was unbelievably fresh and
+        delicious, and the service was incredible. They also accommodated a
+        gluten free member of our party very well! Overall this place is
+        absolutely a hidden treasure. If I could give 6 stars I would. I hope
+        this restaurant gets more publicity because it is the best sushi
+        restaurant in all of the Kirkland. I am not even exaggerating, this
+        restaurant was an absolute 10/10. HIGHLY recommend!
+      languageCode: en
+    authorAttribution:
+      displayName: Ron Benson
+      uri: https://www.google.com/maps/contrib/105400072190920891659/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLE2i1lX6-VepYd5Pj2SbGLBfBIl1gCbpYlzWUEzhIxdRPdBg=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-01-28T05:05:26.770744Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN0MFB1RDZ3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN0MFB1RDZ3RRAB!2m1!1s0x54901371fc024079:0xb72c03e3747032d5
+review_summary: >-
+  What Customers Love About This Sushi Spot$$$Folks rave about the fresh and
+  flavorful dishes at this Kirkland favorite, with many highlighting the
+  delicious sushi rolls and poke bowls that deliver a perfect balance of spice
+  and taste without any fishy undertones. Visitors often note the friendly
+  service and accommodating staff who make the experience feel welcoming and
+  personalized, especially for dietary needs like gluten-free options. The cozy,
+  unhurried vibe makes it a solid pick for casual outings or quick pickups,
+  earning it high marks as one of the best sushi near me for everyday enjoyment.
+  Overall, the consensus is that the quality and variety keep people coming
+  back, blending affordability with satisfying portions that leave you feeling
+  content. If you're exploring Japanese places near me, this spot's combination
+  of tasty food and comfortable setting makes it a reliable choice for a
+  positive dining adventure.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
+delivery: true
+dine_in: true
+good_for_children: true
 good_for_groups: null
-good_for_sports: null
-live_music: null
+good_for_sports: false
+live_music: false
 menu_for_children: null
 outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+reservable: false
+restroom: true
+serves_beer: true
 serves_breakfast: null
 serves_brunch: null
 serves_cocktails: null
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Saku Sushi"
+title: Saku Sushi
 permalink: /virginia/richmond/saku-sushi.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Richmond
 seo:
-  name: "Saku Sushi"
-  type: Restaurant
-  links: null
-description: "Saku Sushi serves delicious sushi in Richmond, Virginia. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.sakusushiva.com/
 place_id: ChIJtxZFPUgVsYkRgUFsp-yCD6g
 photos:
   - name: >-
@@ -170,8 +168,105 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89b115483d4516b7:0xa80f82eca76c4181!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 15
+        minute: 0
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 3:00 PM, 5:00 – 9:30 PM'
+    - 'Tuesday: 5:00 – 9:30 PM'
+    - 'Wednesday: 11:00 AM – 3:00 PM, 5:00 – 9:30 PM'
+    - 'Thursday: 11:00 AM – 3:00 PM, 5:00 – 9:30 PM'
+    - 'Friday: 11:00 AM – 3:00 PM, 5:00 – 10:00 PM'
+    - 'Saturday: 11:00 AM – 10:00 PM'
+    - 'Sunday: 12:00 – 9:30 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +274,48 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (804) 527-5288
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.2'
+rating_count: 2291
+website: http://www.sakusushiva.com/
+description: >-
+  Explore Saku Sushi in Richmond, VA$$$Saku Sushi in Richmond, Virginia, stands
+  out as a go-to spot for fresh sushi and Japanese cuisine, offering an
+  all-you-can-eat dining experience that includes hibachi favorites and a
+  variety of flavorful dishes. This sushi restaurant near you features
+  accessible options like wheelchair-friendly parking and seating, making it
+  welcoming for all visitors seeking a relaxed meal. With its moderate price
+  range and extended hours, including lunch and dinner services, it's ideal for
+  those exploring top-rated Japanese places in the area. The menu highlights
+  creative rolls and grilled items, providing a satisfying option for anyone
+  craving authentic flavors without breaking the bank.
+generative_summary: >-
+  Explore Saku Sushi in Richmond, VA$$$Saku Sushi in Richmond, Virginia, stands
+  out as a go-to spot for fresh sushi and Japanese cuisine, offering an
+  all-you-can-eat dining experience that includes hibachi favorites and a
+  variety of flavorful dishes. This sushi restaurant near you features
+  accessible options like wheelchair-friendly parking and seating, making it
+  welcoming for all visitors seeking a relaxed meal. With its moderate price
+  range and extended hours, including lunch and dinner services, it's ideal for
+  those exploring top-rated Japanese places in the area. The menu highlights
+  creative rolls and grilled items, providing a satisfying option for anyone
+  craving authentic flavors without breaking the bank.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback on Saku Sushi$$$Folks rave about the wide array of sushi
+  options at this spot, noting it's a solid choice for anyone hunting for great
+  value in an all-you-can-eat setup that keeps things fun and filling. Many
+  appreciate the attentive service that makes dining out feel effortless,
+  especially during lunch hours when the deals really shine. Reviewers often
+  mention enjoying dishes like fresh rolls and hearty mains, which add up to a
+  satisfying experience for groups or solo diners. While some note that certain
+  flavors might not always pop as expected, the overall vibe remains positive
+  and worth trying for sushi enthusiasts. All in all, it's a reliable pick for
+  tasty bites that deliver on variety and convenience without major letdowns.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +341,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sekai Sushi"
+title: Sekai Sushi
 permalink: /arizona/mesa/sekai-sushi.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Mesa
 seo:
-  name: "Sekai Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.sekaisushi.net/
-description: "Sekai Sushi serves delicious sushi in Mesa, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJYazKf5aoK4cRBQNhtsVsrZk
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x872ba8967fcaac61:0x99ad6cc5b6610305!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 9:00 PM'
     - 'Tuesday: 11:30 AM – 9:00 PM'
     - 'Wednesday: 11:30 AM – 9:00 PM'
@@ -178,54 +226,394 @@ opening_hours:
     - 'Friday: 11:30 AM – 9:00 PM'
     - 'Saturday: 12:00 – 9:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:30 AM – 9:00 PM'
-    - 'Tuesday: 11:30 AM – 9:00 PM'
-    - 'Wednesday: 11:30 AM – 9:00 PM'
-    - 'Thursday: 11:30 AM – 9:00 PM'
-    - 'Friday: 11:30 AM – 9:00 PM'
-    - 'Saturday: 12:00 – 9:00 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 1
+          hour: 15
+          minute: 0
+        close:
+          day: 1
+          hour: 17
+          minute: 0
+      - open:
+          day: 1
+          hour: 20
+          minute: 0
+        close:
+          day: 1
+          hour: 21
+          minute: 0
+      - open:
+          day: 2
+          hour: 15
+          minute: 0
+        close:
+          day: 2
+          hour: 17
+          minute: 0
+      - open:
+          day: 2
+          hour: 20
+          minute: 0
+        close:
+          day: 2
+          hour: 21
+          minute: 0
+      - open:
+          day: 3
+          hour: 15
+          minute: 0
+        close:
+          day: 3
+          hour: 17
+          minute: 0
+      - open:
+          day: 3
+          hour: 20
+          minute: 0
+        close:
+          day: 3
+          hour: 21
+          minute: 0
+      - open:
+          day: 4
+          hour: 15
+          minute: 0
+        close:
+          day: 4
+          hour: 17
+          minute: 0
+      - open:
+          day: 4
+          hour: 20
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 0
+      - open:
+          day: 5
+          hour: 15
+          minute: 0
+        close:
+          day: 5
+          hour: 17
+          minute: 0
+      - open:
+          day: 5
+          hour: 20
+          minute: 0
+        close:
+          day: 5
+          hour: 21
+          minute: 0
+      - open:
+          day: 6
+          hour: 15
+          minute: 0
+        close:
+          day: 6
+          hour: 17
+          minute: 0
+      - open:
+          day: 6
+          hour: 20
+          minute: 0
+        close:
+          day: 6
+          hour: 21
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 3:00 – 5:00 PM, 8:00 – 9:00 PM'
+      - 'Tuesday: 3:00 – 5:00 PM, 8:00 – 9:00 PM'
+      - 'Wednesday: 3:00 – 5:00 PM, 8:00 – 9:00 PM'
+      - 'Thursday: 3:00 – 5:00 PM, 8:00 – 9:00 PM'
+      - 'Friday: 3:00 – 5:00 PM, 8:00 – 9:00 PM'
+      - 'Saturday: 3:00 – 5:00 PM, 8:00 – 9:00 PM'
+      - 'Sunday: Closed'
+    secondaryHoursType: HAPPY_HOUR
+    nextCloseTime: '2025-05-04T00:00:00Z'
 phone: (480) 545-8131
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
-rating: '4.6'
-rating_count: 0
+rating: '4.5'
+rating_count: 843
 website: http://www.sekaisushi.net/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Sekai Sushi in Mesa, Arizona$$$Nestled in Mesa, Arizona, Sekai Sushi
+  offers a welcoming spot for enjoying fresh Japanese cuisine, highlighted by
+  its relaxed atmosphere and inventive menu options. This cozy eatery
+  specializes in a variety of sushi rolls, bento boxes, and other traditional
+  favorites, making it a go-to choice for anyone seeking quality Japanese dining
+  in the area. With affordable pricing and happy-hour specials, it's an ideal
+  destination for casual meals or quick bites, appealing to those exploring
+  local sushi restaurants. The spot also boasts accessible features and a
+  comfortable setting, perfect for a laid-back lunch or dinner. Whether you're
+  in the mood for creative rolls or classic dishes, Sekai Sushi delivers a
+  satisfying experience that stands out among nearby Japanese places.
+generative_summary: >-
+  Discover Sekai Sushi in Mesa, Arizona$$$Nestled in Mesa, Arizona, Sekai Sushi
+  offers a welcoming spot for enjoying fresh Japanese cuisine, highlighted by
+  its relaxed atmosphere and inventive menu options. This cozy eatery
+  specializes in a variety of sushi rolls, bento boxes, and other traditional
+  favorites, making it a go-to choice for anyone seeking quality Japanese dining
+  in the area. With affordable pricing and happy-hour specials, it's an ideal
+  destination for casual meals or quick bites, appealing to those exploring
+  local sushi restaurants. The spot also boasts accessible features and a
+  comfortable setting, perfect for a laid-back lunch or dinner. Whether you're
+  in the mood for creative rolls or classic dishes, Sekai Sushi delivers a
+  satisfying experience that stands out among nearby Japanese places.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJYazKf5aoK4cRBQNhtsVsrZk/reviews/ChZDSUhNMG9nS0VJQ0FnTURvdXItYlFBEAE
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        Wow, such a great little hole in the wall find! Everything we ordered
+        was good. Sushi and apps were fresh, came out quick, and had great
+        flavor, all at a very reasonable price. This place definitely deserves
+        more hype. Best sushi spot I’ve found in the area so far!
+      languageCode: en
+    originalText:
+      text: >-
+        Wow, such a great little hole in the wall find! Everything we ordered
+        was good. Sushi and apps were fresh, came out quick, and had great
+        flavor, all at a very reasonable price. This place definitely deserves
+        more hype. Best sushi spot I’ve found in the area so far!
+      languageCode: en
+    authorAttribution:
+      displayName: Danielle
+      uri: https://www.google.com/maps/contrib/106418208753441792738/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjX6U7K_xgpNh1oWZVy-WYvwQfCa3RUJ4xUA27rQVr-_BDIt0uSS=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-04-24T04:18:19.160994Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURvdXItYlFBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURvdXItYlFBEAE!2m1!1s0x872ba8967fcaac61:0x99ad6cc5b6610305
+  - name: >-
+      places/ChIJYazKf5aoK4cRBQNhtsVsrZk/reviews/ChdDSUhNMG9nS0VJQ0FnTUNveWV1OXRnRRAB
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        This is not just sushi—it is an experience wrapped in love and rolled
+        with joy.
+
+        From the moment you walk in, you feel the warmth. The owner is truly one
+        of a kind—so welcoming, so passionate, and you can tell they put their
+        heart into every detail. It feels like visiting family… if your family
+        just so happened to make the best sushi in town.
+
+        The fish is always fresh, the rolls are creative, and the flavors are
+        balanced like a symphony. You can taste the care in every bite. This
+        place has become my go-to not just for the food, but for the feeling it
+        gives me every time I walk through the door.
+
+        Five stars, every time. I love this place.
+      languageCode: en
+    originalText:
+      text: >-
+        This is not just sushi—it is an experience wrapped in love and rolled
+        with joy.
+
+        From the moment you walk in, you feel the warmth. The owner is truly one
+        of a kind—so welcoming, so passionate, and you can tell they put their
+        heart into every detail. It feels like visiting family… if your family
+        just so happened to make the best sushi in town.
+
+        The fish is always fresh, the rolls are creative, and the flavors are
+        balanced like a symphony. You can taste the care in every bite. This
+        place has become my go-to not just for the food, but for the feeling it
+        gives me every time I walk through the door.
+
+        Five stars, every time. I love this place.
+      languageCode: en
+    authorAttribution:
+      displayName: Alex A
+      uri: https://www.google.com/maps/contrib/103966834695809361168/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjX4O6uHaJHIZJmnS9Cy2A-b9CHZUBmdXQUp8SB3jtrZOJpsYQyB=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-04-18T03:45:49.999475Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNveWV1OXRnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNveWV1OXRnRRAB!2m1!1s0x872ba8967fcaac61:0x99ad6cc5b6610305
+  - name: >-
+      places/ChIJYazKf5aoK4cRBQNhtsVsrZk/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3aGQtTUlREAE
+    relativePublishTimeDescription: a month ago
+    rating: 3
+    text:
+      text: >-
+        It was alright. Came here for the girlfriend’s bday. Nothing was really
+        wowing me. Everything tasted ok. Mediocre. It also kinda smelled like
+        p!ss to me for a bit when we first got there. The sushi was fresh and
+        the staff was friendly.
+      languageCode: en
+    originalText:
+      text: >-
+        It was alright. Came here for the girlfriend’s bday. Nothing was really
+        wowing me. Everything tasted ok. Mediocre. It also kinda smelled like
+        p!ss to me for a bit when we first got there. The sushi was fresh and
+        the staff was friendly.
+      languageCode: en
+    authorAttribution:
+      displayName: YourMom
+      uri: https://www.google.com/maps/contrib/109423243218154685097/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjV7ot3JTu4XZ0mIzp34_b0wd5cftaH--duNo0ewsbiG1wyWIfG9Lw=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-03-27T03:22:32.013022Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUR3aGQtTUlREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUR3aGQtTUlREAE!2m1!1s0x872ba8967fcaac61:0x99ad6cc5b6610305
+  - name: >-
+      places/ChIJYazKf5aoK4cRBQNhtsVsrZk/reviews/ChdDSUhNMG9nS0VJQ0FnTURvNGZhbXZnRRAB
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        Sushi is fresh with a large variety of rolls to choose from. My personal
+        favorite is the cherry blossom. It's a typical salmon and tuna roll
+        topped with a drizzle of spicy mayo and a pinch of masago. It's creamy,
+        hardy, and just the right amount of salty.
+
+
+        The atmosphere is small, quiet, and cozy. I personally like that they
+        tend to play classical music. The seating is table/chair or bar which
+        faces the sushi chefs, but it is worth noting that they don't have
+        booths. It's clean, but not super fancy.
+
+
+        Service is usually great, though they do appear to be short staffed.
+
+
+        Sekai Sushi has been my go to sushi place for years now. The food is
+        delicious, the environment is comfortable, and they have an AMAZING
+        happy hour.
+      languageCode: en
+    originalText:
+      text: >-
+        Sushi is fresh with a large variety of rolls to choose from. My personal
+        favorite is the cherry blossom. It's a typical salmon and tuna roll
+        topped with a drizzle of spicy mayo and a pinch of masago. It's creamy,
+        hardy, and just the right amount of salty.
+
+
+        The atmosphere is small, quiet, and cozy. I personally like that they
+        tend to play classical music. The seating is table/chair or bar which
+        faces the sushi chefs, but it is worth noting that they don't have
+        booths. It's clean, but not super fancy.
+
+
+        Service is usually great, though they do appear to be short staffed.
+
+
+        Sekai Sushi has been my go to sushi place for years now. The food is
+        delicious, the environment is comfortable, and they have an AMAZING
+        happy hour.
+      languageCode: en
+    authorAttribution:
+      displayName: Paul Balestrieri
+      uri: https://www.google.com/maps/contrib/116373378687646349477/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXcvYmPNVTYyuXCSs0iyz_7D9xaKFz4uYqCSk-mimG_OTAfTOKZ=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-25T19:43:56.611314Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURvNGZhbXZnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURvNGZhbXZnRRAB!2m1!1s0x872ba8967fcaac61:0x99ad6cc5b6610305
+  - name: >-
+      places/ChIJYazKf5aoK4cRBQNhtsVsrZk/reviews/ChZDSUhNMG9nS0VJQ0FnTURvNUlQLURnEAE
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        I stopped here randomly a couple weeks ago because I was craving sushi
+        and it did not disappoint. Their lunch specials are amazing Monday
+        through Saturday 11:30-3!  I got one roll the first time (Philly roll)
+        when I was there and then I went back today and got two rolls for $9
+        total, they’re a little bit on the smaller size but you can’t expect
+        massive rolls for the price. Two rolls fill me up perfect and the lady
+        who might be the owner is really nice and she’s accommodating with my
+        gluten-free soy sauce
+      languageCode: en
+    originalText:
+      text: >-
+        I stopped here randomly a couple weeks ago because I was craving sushi
+        and it did not disappoint. Their lunch specials are amazing Monday
+        through Saturday 11:30-3!  I got one roll the first time (Philly roll)
+        when I was there and then I went back today and got two rolls for $9
+        total, they’re a little bit on the smaller size but you can’t expect
+        massive rolls for the price. Two rolls fill me up perfect and the lady
+        who might be the owner is really nice and she’s accommodating with my
+        gluten-free soy sauce
+      languageCode: en
+    authorAttribution:
+      displayName: Erica Kristene
+      uri: https://www.google.com/maps/contrib/110363461753071938265/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXVP4C_cWjSJbmbByUqAbWnRPriYNJGalgAwxx3XTEOgrTtt3Z-=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-04-22T03:57:58.913905Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURvNUlQLURnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURvNUlQLURnEAE!2m1!1s0x872ba8967fcaac61:0x99ad6cc5b6610305
+review_summary: >-
+  What Customers Are Saying About This Sushi Spot$$$Folks rave about the fresh
+  and flavorful sushi rolls at this local favorite, often highlighting the great
+  variety and value, especially during happy hour deals that keep things
+  budget-friendly. Many appreciate the efficient service and cozy vibe that make
+  dining here feel welcoming and relaxed, turning it into a reliable choice for
+  casual get-togethers. While most experiences are positive, a few mentions note
+  that the atmosphere can sometimes have minor inconsistencies, like occasional
+  odors, but overall, the food quality keeps people coming back. It's commonly
+  described as one of the top picks for anyone searching for tasty Japanese
+  options nearby, with portions that hit the spot without breaking the bank. In
+  summary, this spot earns high marks for its delicious offerings and friendly
+  staff, making it a solid go-to for sushi lovers in the community.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  paidStreetParking: false
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: false
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
 good_for_sports: null
-live_music: null
+live_music: false
 menu_for_children: null
 outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+reservable: true
+restroom: true
+serves_beer: true
 serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_brunch: false
+serves_cocktails: true
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Relaxed strip-mall locale supplying familiar & inventive sushi alongside
+  standard Japanese bites.
 
 ---

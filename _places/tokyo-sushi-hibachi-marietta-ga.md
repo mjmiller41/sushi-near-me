@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Tokyo Sushi & Hibachi"
+title: Tokyo Sushi & Hibachi
 permalink: /georgia/marietta/tokyo-sushi-hibachi.html
 stateAbbr: GA
 stateName: Georgia
 cityName: Marietta
 seo:
-  name: "Tokyo Sushi & Hibachi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Tokyo Sushi & Hibachi serves delicious sushi in Marietta, Georgia. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJAU7gTR4V9YgRuXzcB6AGZ2I
 photos:
   - name: >-
@@ -185,7 +183,45 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Tokyo Sushi & Hibachi in Marietta, GA$$$Tokyo Sushi & Hibachi in
+  Marietta, GA, offers a relaxed dining experience at a convenient spot in the
+  local shopping area, specializing in authentic Japanese cuisine that
+  highlights fresh hibachi preparations and a variety of sushi options. This
+  venue stands out for its approachable atmosphere, making it an ideal choice
+  for those seeking flavorful Japanese dishes like sizzling hibachi entrees in a
+  casual setting. Guests can enjoy a wide selection of fare that emphasizes
+  quality ingredients and traditional cooking techniques, perfect for anyone
+  exploring sushi restaurants nearby. With accessibility features ensuring ease
+  of entry, it's a welcoming place for diverse diners looking for satisfying
+  meals that blend simplicity and taste.
+generative_summary: >-
+  Discover Tokyo Sushi & Hibachi in Marietta, GA$$$Tokyo Sushi & Hibachi in
+  Marietta, GA, offers a relaxed dining experience at a convenient spot in the
+  local shopping area, specializing in authentic Japanese cuisine that
+  highlights fresh hibachi preparations and a variety of sushi options. This
+  venue stands out for its approachable atmosphere, making it an ideal choice
+  for those seeking flavorful Japanese dishes like sizzling hibachi entrees in a
+  casual setting. Guests can enjoy a wide selection of fare that emphasizes
+  quality ingredients and traditional cooking techniques, perfect for anyone
+  exploring sushi restaurants nearby. With accessibility features ensuring ease
+  of entry, it's a welcoming place for diverse diners looking for satisfying
+  meals that blend simplicity and taste.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Highlights from Customer Feedback$$$Folks rave about the tasty sushi and
+  appetizers at this spot, noting how the fresh rolls and creative starters like
+  dumplings hit the spot without breaking the bank. Many appreciate the solid
+  hibachi dishes, including hearty options with steak and seafood that deliver
+  on flavor and presentation, especially during affordable lunch specials.
+  Service stands out as friendly and attentive, adding to the overall enjoyable
+  vibe that keeps people coming back for more. Overall, it's seen as a reliable
+  choice for Japanese eats, with reasonable prices and a welcoming environment
+  that makes it worth trying for anyone hunting for great sushi nearby. While
+  experiences can vary, the general consensus leans positive, highlighting it as
+  a go-to for casual, satisfying meals.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +247,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

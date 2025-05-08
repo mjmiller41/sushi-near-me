@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Chopstick King"
+title: Chopstick King
 permalink: /new-jersey/lake-hopatcong/chopstick-king.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Lake Hopatcong
 seo:
-  name: "Chopstick King"
-  type: Restaurant
-  links: null
-description: "Chopstick King serves delicious sushi in Lake Hopatcong, New Jersey. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://chopstickking.com/
 place_id: ChIJEUgkT1Rzw4kRk46IX9qTFZE
 photos:
   - name: >-
@@ -168,8 +166,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c373544f244811:0x911593da5f888e93!10e5
 primary_type: Chinese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: Closed'
+    - 'Tuesday: 11:00 AM – 10:00 PM'
+    - 'Wednesday: 11:00 AM – 10:00 PM'
+    - 'Thursday: 11:00 AM – 10:00 PM'
+    - 'Friday: 11:00 AM – 10:30 PM'
+    - 'Saturday: 11:00 AM – 10:30 PM'
+    - 'Sunday: 12:00 – 10:00 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -177,13 +232,48 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (973) 663-6878
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.5'
+rating_count: 177
+website: http://chopstickking.com/
+description: >-
+  Discover Chopstick King in Lake Hopatcong, NJ$$$Chopstick King in Lake
+  Hopatcong, NJ, stands out as a welcoming Chinese restaurant offering
+  comforting dishes that highlight fresh flavors and traditional favorites. With
+  a focus on hearty meals like savory stir-fries and dumplings, it provides a
+  relaxed atmosphere perfect for casual dining or quick takeout options. The
+  spot emphasizes accessibility with wheelchair-friendly features, making it
+  easier for everyone to enjoy a satisfying meal. Operating hours cater to busy
+  schedules, with options for lunch and dinner throughout the week, ensuring
+  it's a convenient choice for local food lovers seeking reliable Chinese
+  cuisine.
+generative_summary: >-
+  Discover Chopstick King in Lake Hopatcong, NJ$$$Chopstick King in Lake
+  Hopatcong, NJ, stands out as a welcoming Chinese restaurant offering
+  comforting dishes that highlight fresh flavors and traditional favorites. With
+  a focus on hearty meals like savory stir-fries and dumplings, it provides a
+  relaxed atmosphere perfect for casual dining or quick takeout options. The
+  spot emphasizes accessibility with wheelchair-friendly features, making it
+  easier for everyone to enjoy a satisfying meal. Operating hours cater to busy
+  schedules, with options for lunch and dinner throughout the week, ensuring
+  it's a convenient choice for local food lovers seeking reliable Chinese
+  cuisine.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback Highlights$$$Visitors often rave about the flavorful Chinese
+  dishes at this spot, praising the generous portions that leave you feeling
+  full without overspending. Many appreciate the friendly team and smooth
+  service that make every visit feel effortless and enjoyable. Folks frequently
+  note that the overall experience strikes a great balance between quality and
+  value, making it a go-to for everyday meals. While opinions vary, the
+  consensus leans positive, with diners highlighting it as a solid pick for
+  authentic comfort food in a laid-back setting. If you're exploring local
+  dining options, this place consistently delivers a welcoming vibe that keeps
+  people coming back.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -209,7 +299,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

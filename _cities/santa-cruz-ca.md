@@ -5,4 +5,5 @@ permalink: /california/santa-cruz/
 stateAbbr: CA
 stateName: California
 cityName: Santa Cruz
+
 ---

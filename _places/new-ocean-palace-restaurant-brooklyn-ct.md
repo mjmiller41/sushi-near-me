@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "New Ocean Palace Restaurant"
+title: New Ocean Palace Restaurant
 permalink: /connecticut/brooklyn/new-ocean-palace-restaurant.html
 stateAbbr: CT
 stateName: Connecticut
 cityName: Brooklyn
 seo:
-  name: "New Ocean Palace Restaurant"
-  type: Restaurant
+  type: restaurant
   links: https://www.newoceanpalacect.com/
-description: "New Ocean Palace Restaurant serves delicious sushi in Brooklyn, Connecticut. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ_cacvSwq5IkRPL949rJrv8E
 photos:
   - name: >-
@@ -185,6 +183,27 @@ price_range: $10 &ndash; $20
 rating: '4.1'
 rating_count: 0
 website: https://www.newoceanpalacect.com/
+description: >-
+  Discover New Ocean Palace in Brooklyn, CT$$$In Brooklyn, CT, New Ocean Palace
+  Restaurant offers a blend of fresh sushi and other Asian dishes in a
+  welcoming, relaxed atmosphere that includes convenient takeout options. This
+  spot stands out for its accessible features, such as wheelchair-friendly
+  parking and entrances, ensuring a comfortable visit for all guests. With
+  affordable pricing and generous portions, it's an excellent choice for those
+  exploring sushi restaurants in the region, where quality ingredients take
+  center stage. The menu highlights a variety of flavors, making it a go-to for
+  casual dining experiences that cater to different tastes.
+generative_summary: >-
+  Discover New Ocean Palace in Brooklyn, CT$$$In Brooklyn, CT, New Ocean Palace
+  Restaurant offers a blend of fresh sushi and other Asian dishes in a
+  welcoming, relaxed atmosphere that includes convenient takeout options. This
+  spot stands out for its accessible features, such as wheelchair-friendly
+  parking and entrances, ensuring a comfortable visit for all guests. With
+  affordable pricing and generous portions, it's an excellent choice for those
+  exploring sushi restaurants in the region, where quality ingredients take
+  center stage. The menu highlights a variety of flavors, making it a go-to for
+  casual dining experiences that cater to different tastes.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ_cacvSwq5IkRPL949rJrv8E/reviews/ChdDSUhNMG9nS0VJQ0FnSUNUZ295am53RRAB
@@ -392,6 +411,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN2cFpiM1NBEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN2cFpiM1NBEAE!2m1!1s0x89e42a2cbd9cc6fd:0xc1bf6bb2f678bf3c
+review_summary: >-
+  What Customers Are Saying$$$Visitors often rave about the tasty Asian dishes
+  and sushi at New Ocean Palace, noting the great flavors and impressive value
+  that make meals feel worthwhile. While most folks appreciate the generous
+  portions and friendly service, a few mentions highlight occasional issues like
+  wait times or order errors that can occasionally disrupt the experience.
+  Overall, it's a solid pick for enjoying flavorful options in a laid-back
+  setting, with many considering it among the top sushi spots nearby for its
+  reliable appeal. If you're on the hunt for quality sushi restaurants around
+  Brooklyn, this place generally delivers satisfying results, though keeping
+  expectations realistic helps for a smooth visit.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -424,7 +455,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

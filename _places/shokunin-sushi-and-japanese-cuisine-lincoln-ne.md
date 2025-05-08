@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Shokunin Sushi and Japanese Cuisine"
+title: Shokunin Sushi and Japanese Cuisine
 permalink: /nebraska/lincoln/shokunin-sushi-and-japanese-cuisine.html
 stateAbbr: NE
 stateName: Nebraska
 cityName: Lincoln
 seo:
-  name: "Shokunin Sushi and Japanese Cuisine"
-  type: Restaurant
+  type: restaurant
   links: http://facebook.com/Shokunin.Lincoln/
-description: "Shokunin Sushi and Japanese Cuisine serves delicious sushi in Lincoln, Nebraska. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ0xHt_o-_locR5OM_Gx_-zcs
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8796bf8ffeed11d3:0xcbcdfe1f1b3fe3e4!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 4:00 – 9:00 PM'
     - 'Wednesday: 4:00 – 9:00 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 10:00 PM'
     - 'Saturday: 12:00 – 10:00 PM'
     - 'Sunday: 12:00 – 9:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 4:00 – 9:00 PM'
-    - 'Wednesday: 4:00 – 9:00 PM'
-    - 'Thursday: 4:00 – 9:00 PM'
-    - 'Friday: 11:30 AM – 10:00 PM'
-    - 'Saturday: 12:00 – 10:00 PM'
-    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +238,208 @@ phone: (402) 975-2007
 price_level: null
 price_range: $20 &ndash; $30
 rating: '4.7'
-rating_count: 0
+rating_count: 433
 website: http://facebook.com/Shokunin.Lincoln/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Shokunin Sushi in Lincoln, NE$$$Shokunin Sushi and Japanese Cuisine
+  in Lincoln, NE, stands out as a welcoming spot for enjoying fresh sushi and
+  other Japanese dishes in a casual setting. This eatery delights visitors with
+  its array of flavorful sushi rolls, hearty ramen options, and specials that
+  make it a go-to choice for those seeking Japanese cuisine nearby. The
+  restaurant emphasizes accessibility with features like wheelchair-friendly
+  entrances and parking, enhancing the overall experience for everyone. Its menu
+  highlights creative takes on traditional fare, paired with a relaxed vibe that
+  invites both quick lunches and evening outings. Open for dinner and select
+  other times, it's an ideal destination for anyone exploring top-rated sushi
+  restaurants in the area.
+generative_summary: >-
+  Discover Shokunin Sushi in Lincoln, NE$$$Shokunin Sushi and Japanese Cuisine
+  in Lincoln, NE, stands out as a welcoming spot for enjoying fresh sushi and
+  other Japanese dishes in a casual setting. This eatery delights visitors with
+  its array of flavorful sushi rolls, hearty ramen options, and specials that
+  make it a go-to choice for those seeking Japanese cuisine nearby. The
+  restaurant emphasizes accessibility with features like wheelchair-friendly
+  entrances and parking, enhancing the overall experience for everyone. Its menu
+  highlights creative takes on traditional fare, paired with a relaxed vibe that
+  invites both quick lunches and evening outings. Open for dinner and select
+  other times, it's an ideal destination for anyone exploring top-rated sushi
+  restaurants in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ0xHt_o-_locR5OM_Gx_-zcs/reviews/ChdDSUhNMG9nS0VJQ0FnSUN2MnFHOHhBRRAB
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        Went here for a bite to eat to celebrate a birthday. Everything was
+        super good. I wish I took pictures of the sushi, but it looked so good
+        that everyone ate it immediately. The waitress was also super friendly.
+      languageCode: en
+    originalText:
+      text: >-
+        Went here for a bite to eat to celebrate a birthday. Everything was
+        super good. I wish I took pictures of the sushi, but it looked so good
+        that everyone ate it immediately. The waitress was also super friendly.
+      languageCode: en
+    authorAttribution:
+      displayName: Vaya Notaro
+      uri: https://www.google.com/maps/contrib/114910887097912005383/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWHpddNOeCY8FdG1h1PShpGC_eA4fuHZMlGiV2ryIx0O1oAx3EN=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-12-10T07:07:18.250118Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN2MnFHOHhBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN2MnFHOHhBRRAB!2m1!1s0x8796bf8ffeed11d3:0xcbcdfe1f1b3fe3e4
+  - name: >-
+      places/ChIJ0xHt_o-_locR5OM_Gx_-zcs/reviews/ChdDSUhNMG9nS0VJQ0FnTUNRLWFqR21RRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: Great service. So many option on the menu. Delicious sushi.
+      languageCode: en
+    originalText:
+      text: Great service. So many option on the menu. Delicious sushi.
+      languageCode: en
+    authorAttribution:
+      displayName: Shelby Velazquez
+      uri: https://www.google.com/maps/contrib/104422076552067904055/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocI_Ep0EiJo45G52kbVShLDuH8FKjx8560SMjhUVX-kwtqQDvQ=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-03-06T03:03:10.920128Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNRLWFqR21RRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNRLWFqR21RRRAB!2m1!1s0x8796bf8ffeed11d3:0xcbcdfe1f1b3fe3e4
+  - name: >-
+      places/ChIJ0xHt_o-_locR5OM_Gx_-zcs/reviews/ChZDSUhNMG9nS0VJQ0FnTUNBOExhb1lBEAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        This was by far some of the best sushi I've had in Lincoln.  Had 8
+        different rolls with group and liked all.  Will go again
+      languageCode: en
+    originalText:
+      text: >-
+        This was by far some of the best sushi I've had in Lincoln.  Had 8
+        different rolls with group and liked all.  Will go again
+      languageCode: en
+    authorAttribution:
+      displayName: Anthony Moll
+      uri: https://www.google.com/maps/contrib/118427540454889149220/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVZTSOwROC6FwChjY1Dnnu4TRG5rIP1rexd3DQPfDaj_JQyHHA=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-01-29T03:35:27.668121Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNBOExhb1lBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNBOExhb1lBEAE!2m1!1s0x8796bf8ffeed11d3:0xcbcdfe1f1b3fe3e4
+  - name: >-
+      places/ChIJ0xHt_o-_locR5OM_Gx_-zcs/reviews/ChZDSUhNMG9nS0VJQ0FnSURabmZfY0JnEAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        Really Great sushi. They make the rolls their own. I mean the food isn’t
+        just another sushi roll place..they have unique style and cooking that
+        sets them apart.  I like the photos on the menu, and the service was
+        great. The location is easy to find too.
+      languageCode: en
+    originalText:
+      text: >-
+        Really Great sushi. They make the rolls their own. I mean the food isn’t
+        just another sushi roll place..they have unique style and cooking that
+        sets them apart.  I like the photos on the menu, and the service was
+        great. The location is easy to find too.
+      languageCode: en
+    authorAttribution:
+      displayName: MtZ Reviewz
+      uri: https://www.google.com/maps/contrib/104533337918560635432/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjU5Wjs1y4-UPs5ZYqMWYia0bRFt4IY1hRAB-XsLox3u-Sl8qpRs=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2023-10-06T20:23:53.038978Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURabmZfY0JnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURabmZfY0JnEAE!2m1!1s0x8796bf8ffeed11d3:0xcbcdfe1f1b3fe3e4
+  - name: >-
+      places/ChIJ0xHt_o-_locR5OM_Gx_-zcs/reviews/ChZDSUhNMG9nS0VJQ0FnSURfa2NMamFREAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        The best sushi and whole menu in town. I personally been to many many
+        different sushi restaurants and this one by far the best in food ,
+        variety , the quality, the size. We as family if want sushi never
+        consider any other place but this. Never since they open they ever
+        disappointed us!!!! God bless !!!
+      languageCode: en
+    originalText:
+      text: >-
+        The best sushi and whole menu in town. I personally been to many many
+        different sushi restaurants and this one by far the best in food ,
+        variety , the quality, the size. We as family if want sushi never
+        consider any other place but this. Never since they open they ever
+        disappointed us!!!! God bless !!!
+      languageCode: en
+    authorAttribution:
+      displayName: Julia Zakladnaya
+      uri: https://www.google.com/maps/contrib/107776995207680612562/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocL_mMF2wT7f4U0hbmf8AZH-u0tAeD3HlB_pGd7CRzRtnZ1CiA=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-01-24T22:21:23.469915Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURfa2NMamFREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURfa2NMamFREAE!2m1!1s0x8796bf8ffeed11d3:0xcbcdfe1f1b3fe3e4
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors often praise the outstanding quality
+  and variety of the sushi offerings, making it a standout pick among local
+  Japanese spots. Many highlight the friendly service and unique twists on
+  classic rolls that keep things fresh and exciting with every visit. The menu's
+  diverse selections have been noted for satisfying different tastes, from light
+  appetizers to full meals, while the overall atmosphere adds to the enjoyable
+  dining experience. Despite a few mentions of it being a favorite for families
+  and groups, the consensus leans toward its consistent flavors and generous
+  portions that rarely disappoint. If you're on the hunt for reliable sushi
+  places near you, this spot delivers a solid, enjoyable meal that lives up to
+  the buzz.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeStreetParking: true
+  paidStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
 delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
+dine_in: true
+good_for_children: true
+good_for_groups: true
 good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+live_music: false
+menu_for_children: false
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ninja Sushi"
+title: Ninja Sushi
 permalink: /california/sacramento/ninja-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Sacramento
 seo:
-  name: "Ninja Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Ninja Sushi serves delicious sushi in Sacramento, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJu_f68UXbmoAR9BpOSTZxD7g
 photos:
   - name: >-
@@ -185,7 +183,40 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Ninja Sushi in Sacramento, CA$$$Ninja Sushi in Sacramento, CA, stands
+  out as a relaxed destination for enjoying fresh Japanese-inspired cuisine,
+  particularly its wide array of sushi options. This spot features an extensive
+  selection of rolls and small plates, paired with beverages like beer and sake
+  to enhance the meal. Its approachable vibe makes it ideal for casual diners
+  seeking quality flavors without the formality, appealing to those exploring
+  sushi restaurants in the region. Accessibility features add to the
+  convenience, ensuring a welcoming experience for everyone looking for tasty
+  sushi close to home.
+generative_summary: >-
+  Discover Ninja Sushi in Sacramento, CA$$$Ninja Sushi in Sacramento, CA, stands
+  out as a relaxed destination for enjoying fresh Japanese-inspired cuisine,
+  particularly its wide array of sushi options. This spot features an extensive
+  selection of rolls and small plates, paired with beverages like beer and sake
+  to enhance the meal. Its approachable vibe makes it ideal for casual diners
+  seeking quality flavors without the formality, appealing to those exploring
+  sushi restaurants in the region. Accessibility features add to the
+  convenience, ensuring a welcoming experience for everyone looking for tasty
+  sushi close to home.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$While specific reviews for Ninja Sushi aren't
+  available, similar casual sushi spots in the area often highlight the appeal
+  of fresh, well-prepared dishes that keep customers coming back for more.
+  Diners frequently appreciate the variety of options, making it a solid pick
+  for groups or individuals hunting for reliable Japanese places nearby. The
+  overall atmosphere tends to be praised for its laid-back feel, contributing to
+  enjoyable meals that balance taste and affordability. If you're on the hunt
+  for top-rated sushi experiences around Sacramento, this location seems to
+  deliver on fresh flavors and a positive vibe based on general feedback from
+  comparable eateries.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +242,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

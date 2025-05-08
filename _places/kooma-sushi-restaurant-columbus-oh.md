@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kooma Sushi Restaurant"
+title: Kooma Sushi Restaurant
 permalink: /ohio/columbus/kooma-sushi-restaurant.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Columbus
 seo:
-  name: "Kooma Sushi Restaurant"
-  type: Restaurant
+  type: restaurant
   links: http://www.koomacolumbus.com/
-description: "Kooma Sushi Restaurant serves delicious sushi in Columbus, Ohio. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJvXF8mCiPOIgR8zI0quVRANo
 photos:
   - name: >-
@@ -170,7 +168,89 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x88388f28987c71bd:0xda0051e5aa3432f3!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 16
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 5:00 – 9:00 PM'
     - 'Tuesday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
     - 'Wednesday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
@@ -178,14 +258,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 2:00 PM, 5:00 – 9:30 PM'
     - 'Saturday: 4:00 – 9:30 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 5:00 – 9:00 PM'
-    - 'Tuesday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
-    - 'Wednesday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
-    - 'Thursday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
-    - 'Friday: 11:30 AM – 2:00 PM, 5:00 – 9:30 PM'
-    - 'Saturday: 4:00 – 9:30 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T01:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +270,52 @@ phone: (614) 224-3239
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.3'
-rating_count: 0
+rating_count: 485
 website: http://www.koomacolumbus.com/
+description: >-
+  Discover Kooma Sushi Restaurant in Columbus, OH$$$Nestled in the heart of
+  Columbus, OH, Kooma Sushi Restaurant offers a welcoming spot for enjoying
+  fresh sushi and Japanese-inspired dishes, making it a go-to choice for those
+  searching for sushi restaurants in the area. This cozy eatery features a
+  variety of rolls and plates served during lunch and dinner hours, complemented
+  by its accessible design that includes wheelchair-friendly parking and seating
+  for a comfortable visit. Patrons can savor the blend of traditional flavors in
+  a relaxed atmosphere, ideal for anyone exploring Japanese places near me who
+  appreciates moderate pricing and attentive service. With convenient hours that
+  extend into the evening, it's perfect for casual meals or special occasions,
+  enhancing its appeal as one of the top-rated sushi options in the city. The
+  restaurant's focus on quality ingredients and a vibrant neighborhood setting
+  adds to the overall experience for sushi enthusiasts.
+generative_summary: >-
+  Discover Kooma Sushi Restaurant in Columbus, OH$$$Nestled in the heart of
+  Columbus, OH, Kooma Sushi Restaurant offers a welcoming spot for enjoying
+  fresh sushi and Japanese-inspired dishes, making it a go-to choice for those
+  searching for sushi restaurants in the area. This cozy eatery features a
+  variety of rolls and plates served during lunch and dinner hours, complemented
+  by its accessible design that includes wheelchair-friendly parking and seating
+  for a comfortable visit. Patrons can savor the blend of traditional flavors in
+  a relaxed atmosphere, ideal for anyone exploring Japanese places near me who
+  appreciates moderate pricing and attentive service. With convenient hours that
+  extend into the evening, it's perfect for casual meals or special occasions,
+  enhancing its appeal as one of the top-rated sushi options in the city. The
+  restaurant's focus on quality ingredients and a vibrant neighborhood setting
+  adds to the overall experience for sushi enthusiasts.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Guests Are Saying About This Sushi Spot$$$Folks rave about the tasty
+  shrimp teriyaki at this Columbus sushi restaurant, praising its spot-on mix of
+  tangy and sweet notes that really hit the spot for a satisfying meal. Many
+  highlight the warm, inviting vibe and solid value, making it a solid pick for
+  anyone hunting for the best sushi near me without breaking the bank. While the
+  food steals the show with its fresh flavors and variety, some mention that
+  service can vary, though it's generally efficient enough to keep things
+  enjoyable. Overall, it's a welcoming place for groups or solo diners looking
+  to try reliable Japanese dishes, with the cozy setup adding to the charm. If
+  you're in the mood for quality sushi places near me, this spot delivers a
+  mostly positive experience that's worth checking out for its flavorful
+  offerings and approachable atmosphere.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +341,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

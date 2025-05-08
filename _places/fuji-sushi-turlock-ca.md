@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Fuji Sushi"
+title: Fuji Sushi
 permalink: /california/turlock/fuji-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Turlock
 seo:
-  name: "Fuji Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Fuji Sushi serves delicious sushi in Turlock, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ-xaP5-IGkYARESVBlG39vUU
 photos:
   - name: >-
@@ -185,7 +183,45 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Fuji Sushi in Turlock, California$$$Fuji Sushi in Turlock, CA, stands
+  out as a laid-back destination for enjoying fresh sushi rolls and classic
+  Japanese dishes in a welcoming setting. This spot caters to families with its
+  approachable vibe and accessible features, making it easy for everyone to
+  savor authentic flavors without any fuss. Patrons appreciate the variety of
+  options that highlight quality ingredients, ideal for those seeking reliable
+  sushi restaurants in the area. Whether you're in the mood for inventive rolls
+  or traditional fare, the atmosphere encourages relaxed dining that feels both
+  casual and satisfying. It's a great choice for locals exploring Japanese
+  places near them, blending simplicity with tasty offerings that keep diners
+  coming back.
+generative_summary: >-
+  Discover Fuji Sushi in Turlock, California$$$Fuji Sushi in Turlock, CA, stands
+  out as a laid-back destination for enjoying fresh sushi rolls and classic
+  Japanese dishes in a welcoming setting. This spot caters to families with its
+  approachable vibe and accessible features, making it easy for everyone to
+  savor authentic flavors without any fuss. Patrons appreciate the variety of
+  options that highlight quality ingredients, ideal for those seeking reliable
+  sushi restaurants in the area. Whether you're in the mood for inventive rolls
+  or traditional fare, the atmosphere encourages relaxed dining that feels both
+  casual and satisfying. It's a great choice for locals exploring Japanese
+  places near them, blending simplicity with tasty offerings that keep diners
+  coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors to Fuji Sushi often highlight the fresh
+  and flavorful sushi as a standout feature, making it a go-to spot for anyone
+  craving reliable Japanese cuisine. Many folks enjoy the welcoming environment,
+  noting that it's perfect for casual meals with friends or family, though some
+  mention it can get busy during peak times. Feedback frequently praises the
+  attentive service and solid portion sizes, helping it maintain a reputation as
+  one of the top-rated sushi options around. Overall, diners appreciate the
+  balance of affordability and quality, with most leaving satisfied and eager to
+  return for more. While experiences can vary, the general consensus keeps
+  things positive, positioning it as a solid pick for sushi enthusiasts in the
+  community.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +247,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

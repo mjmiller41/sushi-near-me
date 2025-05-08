@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ramen House Shinchan"
+title: Ramen House Shinchan
 permalink: /illinois/palatine/ramen-house-shinchan.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Palatine
 seo:
-  name: "Ramen House Shinchan"
-  type: Restaurant
-  links: null
-description: "Ramen House Shinchan serves delicious sushi in Palatine, Illinois. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://ramen-shinchan.com/
 place_id: ChIJcbUNFw-lD4gRP_SmomQnqHs
 photos:
   - name: >-
@@ -170,8 +168,113 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x880fa50f170db571:0x7ba82764a2a6f43f!10e5
 primary_type: Ramen Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 14
+        minute: 0
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 14
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: Closed'
+    - 'Tuesday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
+    - 'Wednesday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
+    - 'Thursday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
+    - 'Friday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
+    - 'Saturday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
+    - 'Sunday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +282,52 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (847) 496-4189
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.6'
+rating_count: 1457
+website: http://ramen-shinchan.com/
+description: >-
+  Discover Ramen House Shinchan in Palatine, IL$$$Ramen House Shinchan in
+  Palatine, IL, offers a welcoming casual dining experience focused on hearty
+  ramen dishes, complemented by fresh sushi and thoughtful vegetarian choices.
+  This spot stands out for its accessible features, including
+  wheelchair-friendly parking, entrances, and seating, making it easy for
+  everyone to enjoy a meal. Patrons can savor a variety of flavorful sides
+  alongside the main attractions, creating a balanced menu that appeals to those
+  seeking comforting Japanese-inspired cuisine. With convenient hours spanning
+  lunch and dinner on most days, it's an ideal stop for anyone exploring
+  top-rated sushi options in the area. The atmosphere emphasizes simple,
+  enjoyable eats that highlight quality ingredients without overwhelming the
+  senses.
+generative_summary: >-
+  Discover Ramen House Shinchan in Palatine, IL$$$Ramen House Shinchan in
+  Palatine, IL, offers a welcoming casual dining experience focused on hearty
+  ramen dishes, complemented by fresh sushi and thoughtful vegetarian choices.
+  This spot stands out for its accessible features, including
+  wheelchair-friendly parking, entrances, and seating, making it easy for
+  everyone to enjoy a meal. Patrons can savor a variety of flavorful sides
+  alongside the main attractions, creating a balanced menu that appeals to those
+  seeking comforting Japanese-inspired cuisine. With convenient hours spanning
+  lunch and dinner on most days, it's an ideal stop for anyone exploring
+  top-rated sushi options in the area. The atmosphere emphasizes simple,
+  enjoyable eats that highlight quality ingredients without overwhelming the
+  senses.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About This Spot$$$Folks rave about the tasty ramen
+  and sushi at this local favorite, often noting the flavorful broths and fresh
+  rolls that hit the spot just right. Many appreciate the solid portions and
+  reasonable prices, making it a go-to for casual meals with friends or family.
+  While some mention wait times during peak hours, the overall consensus leans
+  positive, with diners praising the welcoming vibe and attentive service that
+  keeps them coming back. Based on the high ratings, it's clear this place
+  delivers on expectations for authentic Japanese flavors in a relaxed setting.
+  If you're on the hunt for reliable sushi restaurants nearby, this one earns
+  consistent nods for its satisfying dishes and overall enjoyable experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +353,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

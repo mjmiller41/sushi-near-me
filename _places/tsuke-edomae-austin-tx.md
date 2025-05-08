@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Tsuke Edomae"
+title: Tsuke Edomae
 permalink: /texas/austin/tsuke-edomae.html
 stateAbbr: TX
 stateName: Texas
 cityName: Austin
 seo:
-  name: "Tsuke Edomae"
-  type: Restaurant
+  type: restaurant
   links: http://www.tsukeedo.com/
-description: "Tsuke Edomae serves delicious sushi in Austin, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJp30jG-S1RIYRmjvTat08Eno
 photos:
   - name: >-
@@ -183,35 +181,245 @@ phone: (512) 825-3120
 price_level: null
 price_range: $100 &ndash; & up
 rating: '4.8'
-rating_count: 0
+rating_count: 118
 website: http://www.tsukeedo.com/
-reviews: null
+description: >-
+  Discover Tsuke Edomae in Austin, TX$$$Tsuke Edomae in Austin, Texas, stands
+  out as a premier spot for authentic Japanese cuisine, featuring an omakase
+  menu that highlights expertly crafted sushi with fresh, high-quality
+  ingredients. This cozy venue emphasizes traditional techniques, offering a
+  serene and intimate atmosphere perfect for those seeking a refined dining
+  escape. Diners can enjoy meticulously prepared dishes that balance delicate
+  flavors and textures, making it a go-to choice for top-rated sushi experiences
+  in the area. With its focus on seasonal selections and thoughtful
+  presentation, it's an ideal destination for anyone exploring the best sushi
+  near you in a welcoming, unpretentious setting.
+generative_summary: >-
+  Discover Tsuke Edomae in Austin, TX$$$Tsuke Edomae in Austin, Texas, stands
+  out as a premier spot for authentic Japanese cuisine, featuring an omakase
+  menu that highlights expertly crafted sushi with fresh, high-quality
+  ingredients. This cozy venue emphasizes traditional techniques, offering a
+  serene and intimate atmosphere perfect for those seeking a refined dining
+  escape. Diners can enjoy meticulously prepared dishes that balance delicate
+  flavors and textures, making it a go-to choice for top-rated sushi experiences
+  in the area. With its focus on seasonal selections and thoughtful
+  presentation, it's an ideal destination for anyone exploring the best sushi
+  near you in a welcoming, unpretentious setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJp30jG-S1RIYRmjvTat08Eno/reviews/ChdDSUhNMG9nS0VJQ0FnTUNnMHFyanV3RRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        The overall quality of the sashimi and sushi is fresh and high-quality,
+        with well-balanced and delicate seasoning. I also think their uni and
+        sake selection are excellent. The only downside is that reservations are
+        extremely difficult to get. That said, the chef was kind and personable,
+        making the dining experience truly enjoyable!
+      languageCode: en
+    originalText:
+      text: >-
+        The overall quality of the sashimi and sushi is fresh and high-quality,
+        with well-balanced and delicate seasoning. I also think their uni and
+        sake selection are excellent. The only downside is that reservations are
+        extremely difficult to get. That said, the chef was kind and personable,
+        making the dining experience truly enjoyable!
+      languageCode: en
+    authorAttribution:
+      displayName: Jiyeun
+      uri: https://www.google.com/maps/contrib/101413231975833909300/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLyJYpBUQNqJu_7X-kzn1QVKItTJDhk7tb2uu26L3klQOY7bqFh=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-03-15T03:46:09.771450Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNnMHFyanV3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNnMHFyanV3RRAB!2m1!1s0x8644b5e41b237da7:0x7a123cdd6ad33b9a
+  - name: >-
+      places/ChIJp30jG-S1RIYRmjvTat08Eno/reviews/ChdDSUhNMG9nS0VJQ0FnTUNBMUsyRXNRRRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        They are super knowledgeable and have a passion for their sushi! Went
+        here for our anniversary and it was amazing! The sushi is the best
+        quality i’ve had in the states. The setting is small and everyone begins
+        to chit chat mid way through. Very intimate experience and it was so
+        much fun.
+      languageCode: en
+    originalText:
+      text: >-
+        They are super knowledgeable and have a passion for their sushi! Went
+        here for our anniversary and it was amazing! The sushi is the best
+        quality i’ve had in the states. The setting is small and everyone begins
+        to chit chat mid way through. Very intimate experience and it was so
+        much fun.
+      languageCode: en
+    authorAttribution:
+      displayName: Kimberly Burkett
+      uri: https://www.google.com/maps/contrib/108273923497241233256/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUratq5fV1pddu_YLVm8ihB6ZQdDJjBiYmL1fLGihXkROlPhwZuSg=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-01-29T21:01:10.613586Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNBMUsyRXNRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNBMUsyRXNRRRAB!2m1!1s0x8644b5e41b237da7:0x7a123cdd6ad33b9a
+  - name: >-
+      places/ChIJp30jG-S1RIYRmjvTat08Eno/reviews/ChdDSUhNMG9nS0VJQ0FnTURBczdQSzFRRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        An absolutely outstanding experience from start to finish. Tsuke Edomae
+        is a hidden gem. Tsuke has a warm, welcoming atmosphere that makes you
+        feel like an honored guest in the owners home.
+
+
+        The food? Simply phenomenal. Each bite is a an experience in itself.
+        Even down to the beautifully seasoned rice, the balance of flavors is
+        next-level. Presentation is impeccable, with every dish plated like a
+        work of art.
+
+
+        The ambiance is intimate, elegant, and thoughtfully designed—allowing
+        the food and hospitality to shine.
+
+
+        If you're looking for sushi that will exceed expectations, this is the
+        place and experience. Five stars all the way!
+      languageCode: en
+    originalText:
+      text: >-
+        An absolutely outstanding experience from start to finish. Tsuke Edomae
+        is a hidden gem. Tsuke has a warm, welcoming atmosphere that makes you
+        feel like an honored guest in the owners home.
+
+
+        The food? Simply phenomenal. Each bite is a an experience in itself.
+        Even down to the beautifully seasoned rice, the balance of flavors is
+        next-level. Presentation is impeccable, with every dish plated like a
+        work of art.
+
+
+        The ambiance is intimate, elegant, and thoughtfully designed—allowing
+        the food and hospitality to shine.
+
+
+        If you're looking for sushi that will exceed expectations, this is the
+        place and experience. Five stars all the way!
+      languageCode: en
+    authorAttribution:
+      displayName: Mitchell Glosson
+      uri: https://www.google.com/maps/contrib/108422989489221966553/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUqxe0yNjtrd6vYSq8UIR8Wy54V07sBCQ2qlKXITjr-sIvfv-BQkw=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-02-11T18:19:28.331357Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURBczdQSzFRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURBczdQSzFRRRAB!2m1!1s0x8644b5e41b237da7:0x7a123cdd6ad33b9a
+  - name: >-
+      places/ChIJp30jG-S1RIYRmjvTat08Eno/reviews/ChZDSUhNMG9nS0VJQ0FnSUNmM05TZGN3EAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        Excellent! Chef Mike takes us all into a unique japanese cuisine
+        experience! It’s a very intimate atmosphere with only 8 people per time.
+        Delicious food! Super fresh fish that comes straight from Japan to the
+        table. Hard to book a time but it’s so worth it! It’s a fantastic place!
+      languageCode: en
+    originalText:
+      text: >-
+        Excellent! Chef Mike takes us all into a unique japanese cuisine
+        experience! It’s a very intimate atmosphere with only 8 people per time.
+        Delicious food! Super fresh fish that comes straight from Japan to the
+        table. Hard to book a time but it’s so worth it! It’s a fantastic place!
+      languageCode: en
+    authorAttribution:
+      displayName: Fabiana Roller
+      uri: https://www.google.com/maps/contrib/114802841133856883295/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWnRNOlqJCAU2i6EYTIP4RvMhKFiOwQLkShEOlo0zzYBZc3YzxW=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-12-27T02:19:05.680056Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNmM05TZGN3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNmM05TZGN3EAE!2m1!1s0x8644b5e41b237da7:0x7a123cdd6ad33b9a
+  - name: >-
+      places/ChIJp30jG-S1RIYRmjvTat08Eno/reviews/ChdDSUhNMG9nS0VJQ0FnSUNIaS02d2hRRRAB
+    relativePublishTimeDescription: 7 months ago
+    rating: 5
+    text:
+      text: >-
+        Absolutely fab omakase experience. Love Chef Mike and his stories. Had
+        an amazing birthday dinner here and felt taken care of from the second
+        we walked in the door. Make reservations as soon as they become
+        available — you won’t regret it!
+      languageCode: en
+    originalText:
+      text: >-
+        Absolutely fab omakase experience. Love Chef Mike and his stories. Had
+        an amazing birthday dinner here and felt taken care of from the second
+        we walked in the door. Make reservations as soon as they become
+        available — you won’t regret it!
+      languageCode: en
+    authorAttribution:
+      displayName: Amber Krosel
+      uri: https://www.google.com/maps/contrib/100001668165123315991/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUwJIApIzwWXknHnmc8OYWLnOeltXDe0ybbn2G0axyMU-YsmHcHRA=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2024-09-08T19:49:39.720923Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNIaS02d2hRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNIaS02d2hRRRAB!2m1!1s0x8644b5e41b237da7:0x7a123cdd6ad33b9a
+review_summary: >-
+  What Visitors Are Sharing About the Experience$$$Folks rave about the fresh
+  and flavorful sushi at this spot, noting how the ingredients shine with a
+  perfect blend of taste and quality that keeps them coming back. Many highlight
+  the intimate vibe as a highlight, creating a fun and engaging atmosphere that
+  makes every meal feel special and memorable. While getting a reservation can
+  be a bit tricky, reviewers agree it's totally worth the wait for the
+  outstanding service and attention to detail. Overall, the consensus is that
+  this place delivers a fantastic Japanese dining adventure, with plenty of
+  praise for the knowledgeable team and the overall satisfaction it brings. If
+  you're hunting for great sushi restaurants nearby, it's clear this one
+  consistently impresses with its genuine appeal and high standards.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
-payment_options: null
+payment_options:
+  acceptsCreditCards: true
+  acceptsCashOnly: false
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
+curbside_pickup: false
+delivery: false
+dine_in: true
+good_for_children: false
 good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
+good_for_sports: false
+live_music: false
+menu_for_children: false
 outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+reservable: true
+restroom: true
+serves_beer: true
 serves_breakfast: null
 serves_brunch: null
 serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: false
+serves_wine: true
 takeout: null
-update_category: essentials
-summary: null
+update_category: atmosphere
+places_description: >-
+  Cozy, unassuming restaurant plating omakase meals spotlighting high-end
+  traditional sushi.
 
 ---

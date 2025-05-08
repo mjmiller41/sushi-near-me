@@ -5,4 +5,5 @@ permalink: /ohio/columbus/
 stateAbbr: OH
 stateName: Ohio
 cityName: Columbus
+
 ---

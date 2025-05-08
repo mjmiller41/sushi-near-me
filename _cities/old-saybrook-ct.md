@@ -5,4 +5,5 @@ permalink: /connecticut/old-saybrook/
 stateAbbr: CT
 stateName: Connecticut
 cityName: Old Saybrook
+
 ---

@@ -5,4 +5,5 @@ permalink: /connecticut/glastonbury/
 stateAbbr: CT
 stateName: Connecticut
 cityName: Glastonbury
+
 ---

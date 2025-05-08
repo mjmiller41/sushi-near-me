@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Chaiyo Thai & Sushi Bar"
+title: Chaiyo Thai & Sushi Bar
 permalink: /tennessee/knoxville/chaiyo-thai-sushi-bar.html
 stateAbbr: TN
 stateName: Tennessee
 cityName: Knoxville
 seo:
-  name: "Chaiyo Thai & Sushi Bar"
-  type: Restaurant
+  type: restaurant
   links: http://www.chaiyosrestaurant.com/
-description: "Low-key Thai eatery offering curries, noodles & stir-fries, plus a variety of specialty sushi rolls. Chaiyo Thai & Sushi Bar serves delicious sushi in Knoxville, Tennessee. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJA8ZvS94XXIgRt6ENxwWib_M
 photos:
   - name: >-
@@ -185,6 +183,27 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 0
 website: http://www.chaiyosrestaurant.com/
+description: >-
+  Discover Chaiyo Thai & Sushi Bar in Knoxville, TN$$$In Knoxville, TN, Chaiyo
+  Thai & Sushi Bar stands out as a casual spot blending authentic Thai flavors
+  with fresh sushi creations. This eatery delights visitors with a menu
+  featuring Thai classics like curries and noodles, alongside inventive sushi
+  rolls that cater to those seeking flavorful Asian cuisine nearby. The
+  welcoming atmosphere emphasizes cleanliness and accessibility, making it an
+  inclusive choice for a variety of diners. With moderate pricing and options
+  for both takeout and dine-in, it's a go-to destination for anyone exploring
+  top-rated sushi and Japanese-inspired dishes in the area.
+generative_summary: >-
+  Discover Chaiyo Thai & Sushi Bar in Knoxville, TN$$$In Knoxville, TN, Chaiyo
+  Thai & Sushi Bar stands out as a casual spot blending authentic Thai flavors
+  with fresh sushi creations. This eatery delights visitors with a menu
+  featuring Thai classics like curries and noodles, alongside inventive sushi
+  rolls that cater to those seeking flavorful Asian cuisine nearby. The
+  welcoming atmosphere emphasizes cleanliness and accessibility, making it an
+  inclusive choice for a variety of diners. With moderate pricing and options
+  for both takeout and dine-in, it's a go-to destination for anyone exploring
+  top-rated sushi and Japanese-inspired dishes in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJA8ZvS94XXIgRt6ENxwWib_M/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJN19USUlnEAE
@@ -356,6 +375,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURMeVlPbGN3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURMeVlPbGN3EAE!2m1!1s0x885c17de4b6fc603:0xf36fa205c70da1b7
+review_summary: >-
+  What Visitors Are Saying About the Spot$$$Folks rave about the tasty Asian
+  dishes at this spot, particularly the hearty drunken noodles and fresh sushi
+  that hit the spot just right. Many appreciate the quick service and generous
+  portions, even when things get busy, making it a reliable choice for a casual
+  meal. While most feedback highlights the affordable prices and well-flavored
+  options, a few mention minor texture issues with certain appetizers, though
+  they still enjoyed the overall experience. It's clear that the efficient vibe
+  and flavorful variety keep people coming back, offering a solid option for
+  anyone hunting for great sushi restaurants nearby. All in all, this place
+  delivers a positive dining adventure that's worth checking out for Thai and
+  sushi enthusiasts.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidParkingLot: true
   freeStreetParking: true
@@ -389,8 +421,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Low-key Thai eatery offering curries, noodles & stir-fries, plus a variety of
   specialty sushi rolls.
 

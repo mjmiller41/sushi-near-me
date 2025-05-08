@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sakura Japanese Steak, Seafood House & Sushi Bar"
+title: Sakura Japanese Steak, Seafood House & Sushi Bar
 permalink: /maryland/ocean-city/sakura-japanese-steak-seafood-house-sushi-bar.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Ocean City
 seo:
-  name: "Sakura Japanese Steak, Seafood House & Sushi Bar"
-  type: Restaurant
+  type: restaurant
   links: http://www.sakurasteakhouse.com/
-description: "Sakura Japanese Steak, Seafood House & Sushi Bar serves delicious sushi in Ocean City, Maryland. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJZ6PwtkwouYkRTFADvmmNIO4
 photos:
   - name: >-
@@ -143,7 +141,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICb9vjK8AE!2e10!4m2!3m1!1s0x89b9284cb6f0a367:0xee208d69be03504c
 address: Sakura, 12741 Ocean Gateway Unit 912, Ocean City, MD 21842, USA
-street: Sakura, 12741 Ocean Gateway Unit 912
+street: Sakura,12741 Ocean Gateway Unit 912
 city: Ocean City
 state: MD
 zip: '21842'
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89b9284cb6f0a367:0xee208d69be03504c!10e5
 primary_type: Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 15
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 15
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 15
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 15
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 15
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 3:00 – 9:00 PM'
     - 'Tuesday: 3:00 – 9:00 PM'
     - 'Wednesday: 3:00 – 9:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 3:00 – 9:00 PM'
     - 'Saturday: 12:00 – 9:00 PM'
     - 'Sunday: 12:00 – 9:00 PM'
-  current:
-    - 'Monday: 3:00 – 9:00 PM'
-    - 'Tuesday: 3:00 – 9:00 PM'
-    - 'Wednesday: 3:00 – 9:00 PM'
-    - 'Thursday: 3:00 – 9:00 PM'
-    - 'Friday: 3:00 – 9:00 PM'
-    - 'Saturday: 12:00 – 9:00 PM'
-    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T01:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +246,45 @@ phone: (410) 213-7711
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.4'
-rating_count: 0
+rating_count: 760
 website: http://www.sakurasteakhouse.com/
+description: >-
+  Discover Sakura in Ocean City, MD$$$Sakura Japanese Steak, Seafood House &
+  Sushi Bar in Ocean City, MD, stands out as a casual spot for enjoying
+  authentic Japanese cuisine, featuring fresh seafood and expertly prepared
+  sushi options. The restaurant offers a lively teppanyaki experience where
+  skilled chefs bring flair to the table, complemented by a selection of
+  cocktails that enhance the dining atmosphere. With its moderate pricing and
+  welcoming accessibility features, it's an ideal choice for those seeking
+  quality Japanese dishes in a relaxed setting. Patrons can appreciate the
+  variety of flavors, from classic rolls to grilled specialties, making it a
+  go-to destination for anyone exploring top-rated sushi places nearby.
+generative_summary: >-
+  Discover Sakura in Ocean City, MD$$$Sakura Japanese Steak, Seafood House &
+  Sushi Bar in Ocean City, MD, stands out as a casual spot for enjoying
+  authentic Japanese cuisine, featuring fresh seafood and expertly prepared
+  sushi options. The restaurant offers a lively teppanyaki experience where
+  skilled chefs bring flair to the table, complemented by a selection of
+  cocktails that enhance the dining atmosphere. With its moderate pricing and
+  welcoming accessibility features, it's an ideal choice for those seeking
+  quality Japanese dishes in a relaxed setting. Patrons can appreciate the
+  variety of flavors, from classic rolls to grilled specialties, making it a
+  go-to destination for anyone exploring top-rated sushi places nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Buzz Around the Reviews$$$Visitors to this popular Japanese eatery often rave
+  about the flavorful sushi and lively teppanyaki shows, highlighting how the
+  fresh ingredients and creative presentations make meals memorable. Many
+  appreciate the friendly service and efficient atmosphere, noting that it's a
+  solid pick for groups or families looking for a fun dining outing. While a few
+  mentions touch on occasional wait times during peak hours, the overall
+  consensus leans positive, with folks enjoying the value for the price and
+  variety of options. If you're hunting for reliable sushi spots close to you,
+  the high marks suggest it's worth a visit for a satisfying experience. All in
+  all, the feedback paints a picture of a dependable favorite that keeps
+  customers coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +310,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

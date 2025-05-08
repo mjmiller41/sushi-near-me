@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Jackson's Bistro, Bar & Sushi"
+title: Jackson's Bistro, Bar & Sushi
 permalink: /florida/tampa/jackson-s-bistro-bar-sushi.html
 stateAbbr: FL
 stateName: Florida
 cityName: Tampa
 seo:
-  name: "Jackson's Bistro, Bar & Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.jacksonsbistro.com/
-description: "Jackson's Bistro, Bar & Sushi serves delicious sushi in Tampa, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJF3KEwZLEwogRaqYCFY7x_0k
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $30 &ndash; $50
 rating: '4.3'
 rating_count: 0
 website: https://www.jacksonsbistro.com/
+description: >-
+  Discover Jackson's Bistro in Tampa, FL$$$Nestled in Tampa, FL, Jackson's
+  Bistro, Bar & Sushi offers a delightful blend of scenic waterfront dining and
+  a menu featuring fresh American favorites alongside creative sushi options.
+  The spot boasts an inviting atmosphere with outdoor seating perfect for
+  enjoying meals with stunning views, making it ideal for casual gatherings or
+  special occasions. Guests can savor flavorful dishes that highlight quality
+  ingredients, from innovative rolls to well-prepared entrees, all in a lively
+  yet relaxed setting. Accessibility features like wheelchair-friendly entrances
+  add to the appeal, ensuring a comfortable experience for everyone. If you're
+  searching for top-rated sushi restaurants near you, this bistro stands out as
+  a go-to choice in the area for its balanced flavors and welcoming vibe.
+generative_summary: >-
+  Discover Jackson's Bistro in Tampa, FL$$$Nestled in Tampa, FL, Jackson's
+  Bistro, Bar & Sushi offers a delightful blend of scenic waterfront dining and
+  a menu featuring fresh American favorites alongside creative sushi options.
+  The spot boasts an inviting atmosphere with outdoor seating perfect for
+  enjoying meals with stunning views, making it ideal for casual gatherings or
+  special occasions. Guests can savor flavorful dishes that highlight quality
+  ingredients, from innovative rolls to well-prepared entrees, all in a lively
+  yet relaxed setting. Accessibility features like wheelchair-friendly entrances
+  add to the appeal, ensuring a comfortable experience for everyone. If you're
+  searching for top-rated sushi restaurants near you, this bistro stands out as
+  a go-to choice in the area for its balanced flavors and welcoming vibe.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJF3KEwZLEwogRaqYCFY7x_0k/reviews/ChdDSUhNMG9nS0VJQ0FnTURJLUtQUXhRRRAB
@@ -400,6 +423,21 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURReHR6V0xREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURReHR6V0xREAE!2m1!1s0x88c2c492c1847217:0x49fff18e1502a66a
+review_summary: >-
+  What Reviewers Are Sharing$$$Visitors often rave about the fantastic views and
+  tasty sushi selections that make meals here feel special, with many
+  highlighting the fresh rolls and creative appetizers as standout favorites.
+  While some note that service can vary from attentive to occasionally slow, the
+  overall experience is frequently described as enjoyable, especially with great
+  drinks and a lively atmosphere enhancing the fun. Feedback generally praises
+  the reasonable pricing and variety of options, including vegetarian choices,
+  making it a solid pick for groups or families looking for a casual night out.
+  A few mentions of menu changes suggest not every dish hits the mark every
+  time, but the positives like the beautiful setting and flavorful entrees keep
+  the energy upbeat. All in all, if you're exploring sushi places near me, this
+  spot delivers a generally positive vibe that's worth trying for its mix of
+  good food and ambiance.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidParkingLot: true
   valetParking: true
@@ -432,7 +470,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

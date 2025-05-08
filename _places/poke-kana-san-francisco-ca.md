@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "poke kana"
+title: poke kana
 permalink: /california/san-francisco/poke-kana.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
 seo:
-  name: "poke kana"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "poke kana serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJT99Zt7R9j4AR9ULGa1XRKLM
 photos:
   - name: >-
@@ -182,6 +180,35 @@ price_range: $10 &ndash; $20
 rating: '4.3'
 rating_count: 0
 website: null
+description: >-
+  Discover Poke Kana in San Francisco, CA$$$Nestled in the vibrant city of San
+  Francisco, CA, Poke Kana stands out as a casual spot for fresh Hawaiian-style
+  poke bowls and sushi options that draw in locals and visitors alike. This
+  takeout-friendly restaurant offers a variety of customizable bowls packed with
+  generous toppings, making it a go-to choice for those seeking quick, flavorful
+  meals that blend island influences with Japanese-inspired dishes. With its
+  convenient location and accessible entrance, it's easy to enjoy high-quality
+  ingredients without the fuss, perfect for anyone exploring sushi places near
+  me. The menu emphasizes affordability and variety, appealing to fans of
+  top-rated sushi experiences that feel both authentic and approachable. Whether
+  you're grabbing a bite on the go or looking for budget-friendly options, Poke
+  Kana delivers a satisfying blend of taste and convenience in a welcoming
+  setting.
+generative_summary: >-
+  Discover Poke Kana in San Francisco, CA$$$Nestled in the vibrant city of San
+  Francisco, CA, Poke Kana stands out as a casual spot for fresh Hawaiian-style
+  poke bowls and sushi options that draw in locals and visitors alike. This
+  takeout-friendly restaurant offers a variety of customizable bowls packed with
+  generous toppings, making it a go-to choice for those seeking quick, flavorful
+  meals that blend island influences with Japanese-inspired dishes. With its
+  convenient location and accessible entrance, it's easy to enjoy high-quality
+  ingredients without the fuss, perfect for anyone exploring sushi places near
+  me. The menu emphasizes affordability and variety, appealing to fans of
+  top-rated sushi experiences that feel both authentic and approachable. Whether
+  you're grabbing a bite on the go or looking for budget-friendly options, Poke
+  Kana delivers a satisfying blend of taste and convenience in a welcoming
+  setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJT99Zt7R9j4AR9ULGa1XRKLM/reviews/ChZDSUhNMG9nS0VJQ0FnSUR2c0xmVU9nEAE
@@ -353,6 +380,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNSLWRpNjF3RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNSLWRpNjF3RRAB!2m1!1s0x808f7db4b759df4f:0xb328d1556bc642f5
+review_summary: >-
+  What People Are Buzzing About$$$Visitors often rave about the straightforward
+  ordering process and the fresh, tasty flavors that make Poke Kana a hidden
+  favorite for casual meals. Many appreciate the great value and generous
+  portions, noting that it's a solid spot for quick pickups or enjoying
+  Hawaiian-inspired dishes without breaking the bank. While some mention that
+  portions could be more balanced, the overall experience shines through with
+  friendly service and convenient parking that adds to the ease of a visit.
+  Folks frequently highlight how the food holds up well for takeout, making it
+  ideal for those searching for reliable sushi restaurants nearby. All in all,
+  it's a welcoming choice that keeps things positive, encouraging repeat trips
+  for anyone craving a simple yet enjoyable dining option.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   valetParking: false
@@ -384,7 +424,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

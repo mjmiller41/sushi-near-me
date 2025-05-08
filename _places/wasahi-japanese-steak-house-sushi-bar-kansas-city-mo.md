@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Wasahi Japanese Steak House & Sushi Bar"
+title: Wasahi Japanese Steak House & Sushi Bar
 permalink: /missouri/kansas-city/wasahi-japanese-steak-house-sushi-bar.html
 stateAbbr: MO
 stateName: Missouri
 cityName: Kansas City
 seo:
-  name: "Wasahi Japanese Steak House & Sushi Bar"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "No-frills Japanese restaurant offering sushi & hot dishes cooked on a hibachi grill. Wasahi Japanese Steak House & Sushi Bar serves delicious sushi in Kansas City, Missouri. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJg56HFOT3wIcR0wZSlyfqz_Q
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 0
 website: null
+description: >-
+  Discover Wasahi in Kansas City, MO$$$Nestled in Kansas City, MO, Wasahi
+  Japanese Steak House & Sushi Bar offers an inviting spot for enjoying
+  authentic Japanese cuisine with a focus on fresh sushi and flavorful
+  teppanyaki dishes. This unpretentious restaurant features tableside cooking
+  that brings excitement to every meal, blending entertainment with high-quality
+  ingredients for a memorable dining experience. Guests can savor a variety of
+  sushi options alongside expertly prepared hot entrees, making it a go-to
+  choice for those seeking Japanese flavors close to home. The venue also
+  prioritizes accessibility with features like wheelchair-friendly entrances and
+  seating, ensuring everyone can enjoy the vibrant atmosphere. With its moderate
+  pricing and selection of beverages, it's an ideal destination for casual sushi
+  outings in the area.
+generative_summary: >-
+  Discover Wasahi in Kansas City, MO$$$Nestled in Kansas City, MO, Wasahi
+  Japanese Steak House & Sushi Bar offers an inviting spot for enjoying
+  authentic Japanese cuisine with a focus on fresh sushi and flavorful
+  teppanyaki dishes. This unpretentious restaurant features tableside cooking
+  that brings excitement to every meal, blending entertainment with high-quality
+  ingredients for a memorable dining experience. Guests can savor a variety of
+  sushi options alongside expertly prepared hot entrees, making it a go-to
+  choice for those seeking Japanese flavors close to home. The venue also
+  prioritizes accessibility with features like wheelchair-friendly entrances and
+  seating, ensuring everyone can enjoy the vibrant atmosphere. With its moderate
+  pricing and selection of beverages, it's an ideal destination for casual sushi
+  outings in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJg56HFOT3wIcR0wZSlyfqz_Q/reviews/ChdDSUhNMG9nS0VJQ0FnTUNna3VuSTZRRRAB
@@ -366,6 +391,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNpNnFMME5BEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNpNnFMME5BEAE!2m1!1s0x87c0f7e414879e83:0xf4cfea27975206d3
+review_summary: >-
+  What Customers Are Saying$$$Visitors often praise the delicious hibachi and
+  sushi selections at this spot, noting the flavorful dishes and generous
+  portions that leave everyone satisfied. Many highlight the friendly service
+  and welcoming vibe, which makes it perfect for family gatherings, date nights,
+  or catching up with friends without breaking the bank. Folks appreciate the
+  great value on kids' meals and drinks, along with the staff's ability to
+  create an engaging experience that keeps diners coming back. While some
+  mention occasional waits during busy times, the overall consensus is that the
+  tasty food and fun atmosphere more than make up for it. If you're exploring
+  sushi restaurants nearby, this place stands out for its reliable quality and
+  enjoyable meals that cater to a range of tastes.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -399,8 +437,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   No-frills Japanese restaurant offering sushi & hot dishes cooked on a hibachi
   grill.
 

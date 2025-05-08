@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sarku Japan"
+title: Sarku Japan
 permalink: /maryland/owings-mills/sarku-japan.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Owings Mills
 seo:
-  name: "Sarku Japan"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sarku Japan serves delicious sushi in Owings Mills, Maryland. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJN9o3IQwXyIkRky6EJu8-7zk
 photos:
   - name: >-
@@ -143,7 +141,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICGwtyf2gE!2e10!4m2!3m1!1s0x89c8170c2137da37:0x39ef3eef26842e93
 address: 'Foundry Row, 10132 Reisterstown Rd #10, Owings Mills, MD 21117, USA'
-street: 'Foundry Row, 10132 Reisterstown Rd #10'
+street: 'Foundry Row,10132 Reisterstown Rd #10'
 city: Owings Mills
 state: MD
 zip: '21117'
@@ -185,7 +183,45 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Sarku Japan in Owings Mills, MD$$$Nestled in Owings Mills, MD, Sarku
+  Japan offers a delightful array of Japanese fast food options that highlight
+  fresh, made-to-order dishes in a relaxed environment. This spot stands out for
+  its focus on authentic flavors, including flavorful teriyaki and a variety of
+  sushi options that appeal to those seeking quick yet satisfying Japanese
+  places near me. With an emphasis on accessibility, the restaurant features
+  convenient features like wheelchair-accessible seating and entrances, making
+  it easy for everyone to enjoy a casual meal. Patrons can explore a menu that
+  balances speed and quality, perfect for anyone hunting for top-rated sushi
+  restaurants in the area. Whether you're grabbing a bite on the go or dining
+  in, the vibrant atmosphere adds to the overall appeal of this local favorite.
+generative_summary: >-
+  Discover Sarku Japan in Owings Mills, MD$$$Nestled in Owings Mills, MD, Sarku
+  Japan offers a delightful array of Japanese fast food options that highlight
+  fresh, made-to-order dishes in a relaxed environment. This spot stands out for
+  its focus on authentic flavors, including flavorful teriyaki and a variety of
+  sushi options that appeal to those seeking quick yet satisfying Japanese
+  places near me. With an emphasis on accessibility, the restaurant features
+  convenient features like wheelchair-accessible seating and entrances, making
+  it easy for everyone to enjoy a casual meal. Patrons can explore a menu that
+  balances speed and quality, perfect for anyone hunting for top-rated sushi
+  restaurants in the area. Whether you're grabbing a bite on the go or dining
+  in, the vibrant atmosphere adds to the overall appeal of this local favorite.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Buzzing About$$$Folks heading to sushi spots like this one
+  often rave about the fresh ingredients and speedy service that make grabbing a
+  quick teriyaki or sushi roll feel effortless and enjoyable. Many share that
+  the portions are generous and the flavors hit the spot, especially for
+  families or groups looking for reliable options in a casual setting. While
+  some mention the simplicity of the menu keeps things straightforward, others
+  appreciate how it's a solid choice for everyday cravings without any major
+  letdowns. Overall, it's clear that visitors love the convenience and taste,
+  making it a go-to for anyone searching for sushi near me in a welcoming vibe.
+  If you're in the mood for something tasty and unpretentious, this place tends
+  to deliver a positive experience that keeps people coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +247,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

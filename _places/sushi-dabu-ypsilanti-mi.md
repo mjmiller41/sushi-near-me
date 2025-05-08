@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Dabu"
+title: Sushi Dabu
 permalink: /michigan/ypsilanti/sushi-dabu.html
 stateAbbr: MI
 stateName: Michigan
 cityName: Ypsilanti
 seo:
-  name: "Sushi Dabu"
-  type: Restaurant
+  type: restaurant
   links: https://order.toasttab.com/online/sushi-dabu-4037-carpenter-rd
-description: "Sushi rolls & sashimi round out the menu at this mellow Japanese hideaway in a strip mall. Sushi Dabu serves delicious sushi in Ypsilanti, Michigan. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJk8-gY02vPIgRWdM1lPNcOII
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 0
 website: https://order.toasttab.com/online/sushi-dabu-4037-carpenter-rd
+description: >-
+  Discover Sushi Dabu in Ypsilanti, MI$$$Sushi Dabu in Ypsilanti, MI, stands out
+  as a welcoming counter-service eatery nestled in a convenient plaza, offering
+  an array of fresh Asian dishes that highlight its extensive menu. With a focus
+  on quality sushi and Korean-inspired flavors, this spot delivers moderately
+  priced options that cater to a variety of tastes, including flavorful rolls
+  and vegetarian selections. The atmosphere is relaxed and accessible, making it
+  an ideal choice for those seeking a casual dining experience with thoughtful
+  touches like wheelchair-friendly features and options for beer and wine.
+  Whether you're in the mood for a quick meal or exploring new sushi places near
+  you, the emphasis on fresh ingredients and diverse fare ensures a satisfying
+  visit that blends traditional elements with modern convenience.
+generative_summary: >-
+  Discover Sushi Dabu in Ypsilanti, MI$$$Sushi Dabu in Ypsilanti, MI, stands out
+  as a welcoming counter-service eatery nestled in a convenient plaza, offering
+  an array of fresh Asian dishes that highlight its extensive menu. With a focus
+  on quality sushi and Korean-inspired flavors, this spot delivers moderately
+  priced options that cater to a variety of tastes, including flavorful rolls
+  and vegetarian selections. The atmosphere is relaxed and accessible, making it
+  an ideal choice for those seeking a casual dining experience with thoughtful
+  touches like wheelchair-friendly features and options for beer and wine.
+  Whether you're in the mood for a quick meal or exploring new sushi places near
+  you, the emphasis on fresh ingredients and diverse fare ensures a satisfying
+  visit that blends traditional elements with modern convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJk8-gY02vPIgRWdM1lPNcOII/reviews/ChdDSUhNMG9nS0VJQ0FnTURncC1tZ3d3RRAB
@@ -378,6 +401,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURRN3MtWnJnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURRN3MtWnJnRRAB!2m1!1s0x883caf4d63a0cf93:0x82385cf39435d359
+review_summary: >-
+  What Customers Are Saying$$$Visitors to Sushi Dabu often rave about the fresh
+  and well-prepared sushi, with many highlighting the great value and variety of
+  vegetarian options that make it a go-to for diverse tastes. Folks appreciate
+  the clean environment and friendly service, which add to the overall enjoyable
+  vibe, especially for groups or families looking for a laid-back spot. While
+  some mentions point to occasional inconsistencies like overly salty dishes,
+  the majority of feedback leans positive, praising the flavors that stand out
+  without needing extras. Overall, it's a solid pick for anyone hunting for
+  reliable sushi restaurants nearby, offering an honest mix of highlights that
+  keep the experience upbeat and worth trying. If you're curious about top-rated
+  spots in the area, this one delivers a generally pleasing dining adventure
+  with room for consistent improvements.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -410,8 +447,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Sushi rolls & sashimi round out the menu at this mellow Japanese hideaway in a
   strip mall.
 

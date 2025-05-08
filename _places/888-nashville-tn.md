@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "888"
+title: '888'
 permalink: /tennessee/nashville/888.html
 stateAbbr: TN
 stateName: Tennessee
 cityName: Nashville
 seo:
-  name: "888"
-  type: Restaurant
+  type: restaurant
   links: https://www.888nashville.com/
-description: "888 serves delicious sushi in Nashville, Tennessee. Try fresh Japanese dishes for a great dining experience. Available for, and dinner."
 place_id: ChIJLza7xQxnZIgREuqfmswhlFI
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $100 &ndash; & up
 rating: '4.5'
 rating_count: 0
 website: https://www.888nashville.com/
+description: >-
+  Explore 888 in Nashville, TN$$$Nestled in the heart of Nashville, TN, 888
+  stands out as a premier Japanese restaurant that blends exquisite flavors with
+  a vibrant atmosphere. This spot offers an array of fresh sushi and Japanese
+  dishes, highlighted by creative presentations and a lively setting complete
+  with live music and a curated soundtrack that elevates the dining experience.
+  Accessibility features like wheelchair-friendly entrances and seating make it
+  welcoming for all guests, while the menu showcases high-quality ingredients in
+  specialties that cater to sushi enthusiasts. Whether you're seeking a romantic
+  evening or a fun night out, 888 delivers on ambiance and culinary excellence,
+  making it a go-to choice for top-rated Japanese places in the area.
+generative_summary: >-
+  Explore 888 in Nashville, TN$$$Nestled in the heart of Nashville, TN, 888
+  stands out as a premier Japanese restaurant that blends exquisite flavors with
+  a vibrant atmosphere. This spot offers an array of fresh sushi and Japanese
+  dishes, highlighted by creative presentations and a lively setting complete
+  with live music and a curated soundtrack that elevates the dining experience.
+  Accessibility features like wheelchair-friendly entrances and seating make it
+  welcoming for all guests, while the menu showcases high-quality ingredients in
+  specialties that cater to sushi enthusiasts. Whether you're seeking a romantic
+  evening or a fun night out, 888 delivers on ambiance and culinary excellence,
+  making it a go-to choice for top-rated Japanese places in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJLza7xQxnZIgREuqfmswhlFI/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJdTlQdWhBRRAB
@@ -356,6 +377,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNJMGVyRTVnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNJMGVyRTVnRRAB!2m1!1s0x8864670cc5bb362f:0x529421cc9a9fea12
+review_summary: >-
+  Buzz Around 888's Reviews$$$Folks rave about the tasty sushi and Japanese
+  favorites at this Nashville spot, with many highlighting the fresh rolls and
+  flavorful sides that keep diners coming back for more. The energetic vibe,
+  including a DJ spinning tunes, adds a fun twist that makes meals feel like a
+  memorable event, though some note that service can occasionally run a bit slow
+  during busy times. Overall, the friendly staff and creative drink options
+  contribute to a relaxed yet exciting atmosphere that's perfect for groups or
+  date nights. Reviewers appreciate the high-quality experience that balances
+  great food with entertainment, making it a solid pick for anyone searching for
+  the best sushi restaurants nearby. If you're in the mood for something
+  special, this place delivers a consistently enjoyable vibe with just a few
+  minor hiccups here and there.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   valetParking: true
 payment_options:
@@ -385,7 +420,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: true
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

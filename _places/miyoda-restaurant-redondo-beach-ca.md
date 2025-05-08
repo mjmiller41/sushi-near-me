@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Miyoda Restaurant"
+title: Miyoda Restaurant
 permalink: /california/redondo-beach/miyoda-restaurant.html
 stateAbbr: CA
 stateName: California
 cityName: Redondo Beach
 seo:
-  name: "Miyoda Restaurant"
-  type: Restaurant
+  type: restaurant
   links: https://www.miyodajapanese.com/
-description: "Sushi & hearty Japanese fare served in an upbeat, strip-mall setting with simple decor. Miyoda Restaurant serves delicious sushi in Redondo Beach, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJiQp9AZq0woARgxBLNifYHT0
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: null
 rating: '4.6'
 rating_count: 0
 website: https://www.miyodajapanese.com/
+description: >-
+  About Miyoda Restaurant in Redondo Beach, CA$$$Miyoda Restaurant in Redondo
+  Beach, CA, offers a welcoming spot for enjoying fresh Japanese cuisine in a
+  laid-back strip-mall environment, making it a go-to choice for sushi
+  enthusiasts. This cozy eatery specializes in a variety of sushi rolls and
+  hearty Japanese dishes, complemented by a selection of beer and wine to
+  enhance your meal. Patrons appreciate the accessible features like
+  wheelchair-friendly seating and parking, along with options for dine-in or
+  takeout that cater to different dining needs. The menu highlights inventive
+  flavors and vegetarian choices, positioning it as a reliable option among
+  local sushi restaurants for those seeking quality meals without the fuss.
+generative_summary: >-
+  About Miyoda Restaurant in Redondo Beach, CA$$$Miyoda Restaurant in Redondo
+  Beach, CA, offers a welcoming spot for enjoying fresh Japanese cuisine in a
+  laid-back strip-mall environment, making it a go-to choice for sushi
+  enthusiasts. This cozy eatery specializes in a variety of sushi rolls and
+  hearty Japanese dishes, complemented by a selection of beer and wine to
+  enhance your meal. Patrons appreciate the accessible features like
+  wheelchair-friendly seating and parking, along with options for dine-in or
+  takeout that cater to different dining needs. The menu highlights inventive
+  flavors and vegetarian choices, positioning it as a reliable option among
+  local sushi restaurants for those seeking quality meals without the fuss.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJiQp9AZq0woARgxBLNifYHT0/reviews/ChZDSUhNMG9nS0VJQ0FnSUN6d0tYT1RREAE
@@ -346,6 +367,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNPc0tmbzlnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNPc0tmbzlnRRAB!2m1!1s0x80c2b49a017d0a89:0x3d1dd827364b1083
+review_summary: >-
+  Highlights from Customer Feedback$$$Visitors to this sushi spot often praise
+  the creative rolls and fresh ingredients that make every bite memorable, with
+  many highlighting the great value on lunch specials and dinner options. Folks
+  frequently mention the friendly service and efficient atmosphere, which keeps
+  things smooth even during busy times, adding to the overall enjoyable
+  experience. While some note that certain rolls might lean towards richer
+  flavors, the general consensus is that the variety keeps things exciting and
+  satisfying for groups or solo diners. Overall, it's clear that this place
+  stands out as a solid pick for anyone craving top-rated sushi nearby, with its
+  consistent quality and welcoming vibe encouraging repeat visits.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -376,8 +409,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Sushi & hearty Japanese fare served in an upbeat, strip-mall setting with
   simple decor.
 

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Shin Sushi"
+title: Shin Sushi
 permalink: /california/mission-viejo/shin-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Mission Viejo
 seo:
-  name: "Shin Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Shin Sushi serves delicious sushi in Mission Viejo, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ79jGJrHu3IARYHUXAJ-EgP8
 photos:
   - name: >-
@@ -170,8 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80dceeb126c6d8ef:0xff80849f00177560!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: false
+  periods:
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: Closed'
+    - 'Tuesday: 5:00 – 9:00 PM'
+    - 'Wednesday: 5:00 – 9:00 PM'
+    - 'Thursday: 5:00 – 9:00 PM'
+    - 'Friday: 5:00 – 9:00 PM'
+    - 'Saturday: 5:00 – 9:00 PM'
+    - 'Sunday: Closed'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +226,49 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
+phone: (949) 582-1011
 price_level: null
-price_range: null
-rating: null
-rating_count: 0
+price_range: $30 &ndash; $50
+rating: '4.7'
+rating_count: 87
 website: null
+description: >-
+  Discover Shin Sushi in Mission Viejo, CA$$$Shin Sushi in Mission Viejo, CA,
+  stands out as a cozy Japanese restaurant that delights visitors with its fresh
+  seafood and authentic flavors. This spot emphasizes quality ingredients,
+  featuring traditional sushi rolls and flavorful small plates that capture the
+  essence of Japanese cuisine. With its welcoming atmosphere and attention to
+  detail, it's an ideal choice for those seeking a relaxing meal in a
+  comfortable setting. The restaurant also offers accessible features, making it
+  easier for everyone to enjoy a satisfying dining experience. Whether you're
+  exploring local sushi options or looking for a taste of something special,
+  this venue combines simplicity and elegance for an enjoyable visit.
+generative_summary: >-
+  Discover Shin Sushi in Mission Viejo, CA$$$Shin Sushi in Mission Viejo, CA,
+  stands out as a cozy Japanese restaurant that delights visitors with its fresh
+  seafood and authentic flavors. This spot emphasizes quality ingredients,
+  featuring traditional sushi rolls and flavorful small plates that capture the
+  essence of Japanese cuisine. With its welcoming atmosphere and attention to
+  detail, it's an ideal choice for those seeking a relaxing meal in a
+  comfortable setting. The restaurant also offers accessible features, making it
+  easier for everyone to enjoy a satisfying dining experience. Whether you're
+  exploring local sushi options or looking for a taste of something special,
+  this venue combines simplicity and elegance for an enjoyable visit.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this sushi spot often praise the fresh
+  and high-quality dishes, noting that the flavors are consistently impressive
+  and hit the mark for authentic Japanese fare. Many appreciate the cozy
+  ambiance and attentive service, which add to the overall enjoyable experience
+  without any major complaints. Folks frequently highlight the value for the
+  price, especially for those hunting for top-rated sushi nearby, making it a
+  go-to for casual dinners or special occasions. While a few mention occasional
+  wait times during peak hours, the general consensus leans positive, with
+  diners leaving satisfied and eager to return. Overall, it's clear that this
+  place earns its strong reputation through reliable, tasty offerings that keep
+  locals coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +294,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Time"
+title: Sushi Time
 permalink: /texas/dallas/sushi-time.html
 stateAbbr: TX
 stateName: Texas
 cityName: Dallas
 seo:
-  name: "Sushi Time"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi Time serves delicious sushi in Dallas, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJLzb4ymqcToYRbToSx6LcSnE
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x864e9c6acaf8362f:0x714adca2c7123a6d!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 19
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 19
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 19
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 19
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 19
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 17
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 7:00 PM'
     - 'Tuesday: 11:00 AM – 7:00 PM'
     - 'Wednesday: 11:00 AM – 7:00 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 7:00 PM'
     - 'Saturday: 12:00 – 5:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:00 AM – 7:00 PM'
-    - 'Tuesday: 11:00 AM – 7:00 PM'
-    - 'Wednesday: 11:00 AM – 7:00 PM'
-    - 'Thursday: 11:00 AM – 7:00 PM'
-    - 'Friday: 11:00 AM – 7:00 PM'
-    - 'Saturday: 12:00 – 5:00 PM'
-    - 'Sunday: Closed'
+  nextOpenTime: '2025-05-05T16:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +238,248 @@ phone: (214) 951-0660
 price_level: PRICE_LEVEL_INEXPENSIVE
 price_range: $10 &ndash; $20
 rating: '4.3'
-rating_count: 0
+rating_count: 288
 website: null
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Sushi Time in Dallas, TX$$$Nestled in Dallas, TX, Sushi Time stands
+  out as a casual spot for enjoying fresh sushi and Japanese favorites, offering
+  a straightforward yet inviting atmosphere perfect for those seeking sushi
+  restaurants nearby. This compact eatery specializes in a variety of nigiri,
+  sashimi, and creative specialty rolls, complemented by options like ramen for
+  a well-rounded dining experience. With its focus on affordability and
+  accessibility, including wheelchair-friendly features, it's an easy choice for
+  anyone exploring top sushi options in the area. The unpretentious setting
+  keeps things simple, allowing the quality of the dishes to take center stage,
+  making it a go-to for flavorful meals without the fuss.
+generative_summary: >-
+  Discover Sushi Time in Dallas, TX$$$Nestled in Dallas, TX, Sushi Time stands
+  out as a casual spot for enjoying fresh sushi and Japanese favorites, offering
+  a straightforward yet inviting atmosphere perfect for those seeking sushi
+  restaurants nearby. This compact eatery specializes in a variety of nigiri,
+  sashimi, and creative specialty rolls, complemented by options like ramen for
+  a well-rounded dining experience. With its focus on affordability and
+  accessibility, including wheelchair-friendly features, it's an easy choice for
+  anyone exploring top sushi options in the area. The unpretentious setting
+  keeps things simple, allowing the quality of the dishes to take center stage,
+  making it a go-to for flavorful meals without the fuss.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJLzb4ymqcToYRbToSx6LcSnE/reviews/ChdDSUhNMG9nS0VJQ0FnTUNnallMaHdBRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        I know that it's a sushi restaurant but I ordered the Bulgogi beef ramen
+        and it was amazing. I also, ordered fried gyoza as an appetizer and the
+        cucumber salad it was a 10/10. Love this place  the food was very tasty
+        and hot and there customer service is great.
+      languageCode: en
+    originalText:
+      text: >-
+        I know that it's a sushi restaurant but I ordered the Bulgogi beef ramen
+        and it was amazing. I also, ordered fried gyoza as an appetizer and the
+        cucumber salad it was a 10/10. Love this place  the food was very tasty
+        and hot and there customer service is great.
+      languageCode: en
+    authorAttribution:
+      displayName: Marisol Real
+      uri: https://www.google.com/maps/contrib/115338624075590712363/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXJ4b6khqB1vMhTw6yCsAYU50bWvQ0v5fBXrJnnPQuK6gp75yo=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-02-19T19:18:05.128324Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNnallMaHdBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNnallMaHdBRRAB!2m1!1s0x864e9c6acaf8362f:0x714adca2c7123a6d
+  - name: >-
+      places/ChIJLzb4ymqcToYRbToSx6LcSnE/reviews/ChZDSUhNMG9nS0VJQ0FnSUNYMWNpUVNREAE
+    relativePublishTimeDescription: 6 months ago
+    rating: 5
+    text:
+      text: >-
+        I recently visited Sushi Time and was blown away by the entire
+        experience! First of all, the place was spotless, which is always a huge
+        plus for me. The seating was comfortable, making it easy to relax and
+        enjoy my meal.
+
+
+        The food itself was incredible—everything was so fresh, easily some of
+        the best sushi I’ve had in a long time. The staff was also extremely
+        friendly and welcoming, which made the experience even better.
+
+
+        Don’t be fooled by the exterior! It may not look like your 5 star sushi
+        restaurant from the outside, but the food will absolutely exceed your
+        expectations. Highly recommend Sushi Time to any sushi lover!
+      languageCode: en
+    originalText:
+      text: >-
+        I recently visited Sushi Time and was blown away by the entire
+        experience! First of all, the place was spotless, which is always a huge
+        plus for me. The seating was comfortable, making it easy to relax and
+        enjoy my meal.
+
+
+        The food itself was incredible—everything was so fresh, easily some of
+        the best sushi I’ve had in a long time. The staff was also extremely
+        friendly and welcoming, which made the experience even better.
+
+
+        Don’t be fooled by the exterior! It may not look like your 5 star sushi
+        restaurant from the outside, but the food will absolutely exceed your
+        expectations. Highly recommend Sushi Time to any sushi lover!
+      languageCode: en
+    authorAttribution:
+      displayName: Jasmin Singh
+      uri: https://www.google.com/maps/contrib/104746767027556556316/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWVxNJFpbDKceOyN1nTcpaKJGlCisN0ADxmW76PbE-4YN70M3MP=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2024-10-18T23:56:53.371800Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNYMWNpUVNREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNYMWNpUVNREAE!2m1!1s0x864e9c6acaf8362f:0x714adca2c7123a6d
+  - name: >-
+      places/ChIJLzb4ymqcToYRbToSx6LcSnE/reviews/ChZDSUhNMG9nS0VJQ0FnTURvMkk3aVJnEAE
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        EXCELLENT SUSHI!! Drove 26 minutes to get to this location, due to the
+        google reviews. Not sure what to expect. Made a take out order. They
+        took it and were friendly and helpful.
+
+
+        Was pleasantly AMAZED at the sushi appearance when the containers were
+        opened!! Very attractive looking sushi and TASTED GREAT!!
+
+        Would highly recommend their sushi and would DEFINITELY buy again!!
+      languageCode: en
+    originalText:
+      text: >-
+        EXCELLENT SUSHI!! Drove 26 minutes to get to this location, due to the
+        google reviews. Not sure what to expect. Made a take out order. They
+        took it and were friendly and helpful.
+
+
+        Was pleasantly AMAZED at the sushi appearance when the containers were
+        opened!! Very attractive looking sushi and TASTED GREAT!!
+
+        Would highly recommend their sushi and would DEFINITELY buy again!!
+      languageCode: en
+    authorAttribution:
+      displayName: Tex
+      uri: https://www.google.com/maps/contrib/109651259167161859241/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUuxKQXGokOkm-ee4Yklqp6mY0fdwyDBR2wxyqI6IMA_MoUZRk=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-21T19:53:22.886290Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURvMkk3aVJnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURvMkk3aVJnEAE!2m1!1s0x864e9c6acaf8362f:0x714adca2c7123a6d
+  - name: >-
+      places/ChIJLzb4ymqcToYRbToSx6LcSnE/reviews/ChZDSUhNMG9nS0VJQ0FnTURvaFp5emFREAE
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        If you’re looking great sushi at decent prices, look no further!! Give
+        them some love!!! Definitely a hole in the wall kinda place, but the
+        staff are lovely and it’s super clean!
+      languageCode: en
+    originalText:
+      text: >-
+        If you’re looking great sushi at decent prices, look no further!! Give
+        them some love!!! Definitely a hole in the wall kinda place, but the
+        staff are lovely and it’s super clean!
+      languageCode: en
+    authorAttribution:
+      displayName: Sarah
+      uri: https://www.google.com/maps/contrib/112758412593485467464/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWmLcPU1ZlGHT8diwHgUsT0FykHwN3ZCCcTDrfKaPFPeBi6s-tBng=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-04-26T19:39:49.197771Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURvaFp5emFREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURvaFp5emFREAE!2m1!1s0x864e9c6acaf8362f:0x714adca2c7123a6d
+  - name: >-
+      places/ChIJLzb4ymqcToYRbToSx6LcSnE/reviews/ChZDSUhNMG9nS0VJQ0FnSUNMMXFiX1pnEAE
+    relativePublishTimeDescription: 10 months ago
+    rating: 5
+    text:
+      text: >-
+        I’m a huge foodie and this place is DELICIOUS and cheap!!! We tried the
+        volcano roll, mockingbird roll and the shrimp tempura from the appetizer
+        menu and all of it was delicious! Mom and pop places are always the
+        best! Place was super clean, spot less!
+      languageCode: en
+    originalText:
+      text: >-
+        I’m a huge foodie and this place is DELICIOUS and cheap!!! We tried the
+        volcano roll, mockingbird roll and the shrimp tempura from the appetizer
+        menu and all of it was delicious! Mom and pop places are always the
+        best! Place was super clean, spot less!
+      languageCode: en
+    authorAttribution:
+      displayName: Claudia Alcaraz
+      uri: https://www.google.com/maps/contrib/106261902043211708234/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVb7pJWHfwLhT_aagt3PSZq8jfT8m9O3h05B0ZUt02cbENKK1wR=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-06-18T22:50:06.824727Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNMMXFiX1pnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNMMXFiX1pnEAE!2m1!1s0x864e9c6acaf8362f:0x714adca2c7123a6d
+review_summary: >-
+  What People Are Saying About This Sushi Spot$$$Visitors to this Dallas sushi
+  destination often rave about the fresh and visually appealing dishes that
+  deliver great value for the price, with many highlighting the tasty rolls and
+  appetizers as standout features. Feedback frequently praises the friendly
+  service and spotless environment, making it a welcoming place for casual meals
+  or takeout on the go. While some note it's a no-frills setup, the overall
+  consensus is that the food exceeds expectations, earning it high marks for
+  quality and taste among local sushi enthusiasts. If you're in the mood for
+  reliable, budget-friendly options like ramen or classic sushi combinations,
+  this spot consistently hits the mark with its generous portions and satisfying
+  flavors. All in all, it's a solid pick for anyone hunting for dependable sushi
+  places nearby, with the positive vibes making it worth a return visit.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
+delivery: true
+dine_in: true
 good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
 serves_beer: null
-serves_breakfast: null
-serves_brunch: null
+serves_breakfast: false
+serves_brunch: false
 serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
+serves_coffee: true
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
 serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Compact Japanese eatery focusing on nigiri, sashimi & specialty rolls in
+  bare-bones surroundings.
 
 ---

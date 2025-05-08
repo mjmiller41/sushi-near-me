@@ -5,4 +5,5 @@ permalink: /florida/naples/
 stateAbbr: FL
 stateName: Florida
 cityName: Naples
+
 ---

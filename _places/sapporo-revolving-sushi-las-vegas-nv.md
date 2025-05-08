@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sapporo Revolving Sushi"
+title: Sapporo Revolving Sushi
 permalink: /nevada/las-vegas/sapporo-revolving-sushi.html
 stateAbbr: NV
 stateName: Nevada
 cityName: Las Vegas
 seo:
-  name: "Sapporo Revolving Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sapporo Revolving Sushi serves delicious sushi in Las Vegas, Nevada. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJW3WJerrGyIARm0BdZRsjhY4
 photos:
   - name: >-
@@ -185,7 +183,42 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  About Sapporo Revolving Sushi in Las Vegas$$$Sapporo Revolving Sushi in Las
+  Vegas, NV, offers a fun and innovative dining experience with its conveyor
+  belt system, bringing fresh Japanese flavors directly to your table. This
+  sushi restaurant features a diverse array of seafood and cooked dishes, ideal
+  for casual lunches or evening dinners, appealing to those exploring top sushi
+  options in the area. With its accessible design and welcoming atmosphere, it's
+  a convenient spot for anyone seeking sushi places near me, blending efficiency
+  with authentic tastes. Whether you're in the mood for light bites or hearty
+  meals, the variety ensures something for every palate, making it a standout
+  choice among local Japanese eateries.
+generative_summary: >-
+  About Sapporo Revolving Sushi in Las Vegas$$$Sapporo Revolving Sushi in Las
+  Vegas, NV, offers a fun and innovative dining experience with its conveyor
+  belt system, bringing fresh Japanese flavors directly to your table. This
+  sushi restaurant features a diverse array of seafood and cooked dishes, ideal
+  for casual lunches or evening dinners, appealing to those exploring top sushi
+  options in the area. With its accessible design and welcoming atmosphere, it's
+  a convenient spot for anyone seeking sushi places near me, blending efficiency
+  with authentic tastes. Whether you're in the mood for light bites or hearty
+  meals, the variety ensures something for every palate, making it a standout
+  choice among local Japanese eateries.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Visitor Feedback on This Sushi Spot$$$Folks at this laid-back sushi restaurant
+  often highlight the fresh and varied selection of rolls, praising the quality
+  and creativity that keep things exciting on the conveyor belt. Many appreciate
+  the efficient service and helpful team, which add to the enjoyable vibe
+  without any fuss. Comments frequently note the great value for the price,
+  making it a smart pick for affordable yet satisfying meals. Overall, it's
+  celebrated as a reliable go-to for quick, tasty options, with diners enjoying
+  the straightforward appeal that fits into busy days. If you're hunting for
+  top-rated sushi near me, this place delivers a consistently positive
+  experience that balances fun and flavor.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +244,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

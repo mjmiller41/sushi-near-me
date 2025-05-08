@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi O Bistro & Sushi Bar"
+title: Sushi O Bistro & Sushi Bar
 permalink: /north-carolina/raleigh/sushi-o-bistro-sushi-bar.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Raleigh
 seo:
-  name: "Sushi O Bistro & Sushi Bar"
-  type: Restaurant
+  type: restaurant
   links: http://sushioraleighnc.com/
-description: "A menu with Thai, Japanese, Chinese & Vietnamese options, plus sushi & a full bar, in a sleek space. Sushi O Bistro & Sushi Bar serves delicious sushi in Raleigh, North Carolina. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ8-z43WVfrIkRQtwdNjQZvFY
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 0
 website: http://sushioraleighnc.com/
+description: >-
+  Discover Sushi O Bistro in Raleigh, NC$$$Sushi O Bistro & Sushi Bar in
+  Raleigh, NC, delights visitors with its wide array of fresh sushi rolls and
+  flavorful Asian-inspired dishes, all served in a relaxed and welcoming
+  environment. The spot stands out for its casual vibe combined with accessible
+  features like wheelchair-friendly seating and entrances, making it easy for
+  everyone to enjoy a meal. Patrons can explore a variety of Japanese and Asian
+  fare, including options for vegetarians and those seeking outdoor seating, all
+  while savoring moderately priced entrees that highlight quality ingredients.
+  With convenient delivery and takeout services, it's a go-to choice for anyone
+  craving sushi options in the area, blending tradition with modern convenience
+  for a satisfying dining experience.
+generative_summary: >-
+  Discover Sushi O Bistro in Raleigh, NC$$$Sushi O Bistro & Sushi Bar in
+  Raleigh, NC, delights visitors with its wide array of fresh sushi rolls and
+  flavorful Asian-inspired dishes, all served in a relaxed and welcoming
+  environment. The spot stands out for its casual vibe combined with accessible
+  features like wheelchair-friendly seating and entrances, making it easy for
+  everyone to enjoy a meal. Patrons can explore a variety of Japanese and Asian
+  fare, including options for vegetarians and those seeking outdoor seating, all
+  while savoring moderately priced entrees that highlight quality ingredients.
+  With convenient delivery and takeout services, it's a go-to choice for anyone
+  craving sushi options in the area, blending tradition with modern convenience
+  for a satisfying dining experience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ8-z43WVfrIkRQtwdNjQZvFY/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJNGU2OTdnRRAB
@@ -352,6 +375,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURJd1A2LUxnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJd1A2LUxnEAE!2m1!1s0x89ac5f65ddf8ecf3:0x56bc1934361ddc42
+review_summary: >-
+  Insights from Recent Reviews$$$Folks rave about the tasty sushi and diverse
+  Asian menu at this spot, often calling it one of the top picks for fresh rolls
+  and generous portions that hit the spot. Many appreciate the friendly service
+  and reasonable prices, along with specials like affordable drinks that add to
+  the fun vibe, making it a solid choice for groups or casual outings. While
+  most diners enjoy the variety and atmosphere, a few mentions of minor
+  inconsistencies with certain dishes show that results can vary depending on
+  the order. Overall, it's a reliable place for quality meals that keep
+  customers coming back, blending good flavors with attentive staff to create a
+  generally enjoyable experience. If you're hunting for sushi places nearby,
+  this one often delivers on flavor and value without disappointing too often.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -385,8 +421,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   A menu with Thai, Japanese, Chinese & Vietnamese options, plus sushi & a full
   bar, in a sleek space.
 

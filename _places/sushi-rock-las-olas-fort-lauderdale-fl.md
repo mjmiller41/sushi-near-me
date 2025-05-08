@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Rock Las Olas"
+title: Sushi Rock Las Olas
 permalink: /florida/fort-lauderdale/sushi-rock-las-olas.html
 stateAbbr: FL
 stateName: Florida
 cityName: Fort Lauderdale
 seo:
-  name: "Sushi Rock Las Olas"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi Rock Las Olas serves delicious sushi in Fort Lauderdale, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJgXYy7E4A2YgRa-WgawQ9v3g
 photos:
   - name: >-
@@ -184,7 +182,46 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Sushi Rock Las Olas in Fort Lauderdale, FL$$$Sushi Rock Las Olas in
+  Fort Lauderdale, FL, stands out as a charming Japanese restaurant that brings
+  authentic flavors to the lively Colee Hammock area. This spot features a
+  relaxed atmosphere ideal for savoring fresh sushi and other traditional
+  dishes, making it a go-to choice for those seeking quality Japanese cuisine
+  nearby. With thoughtful accessibility options like easy entrances and seating,
+  it ensures a welcoming experience for all diners looking to enjoy a casual
+  meal. Located conveniently on East Las Olas Blvd, it's perfect for locals and
+  visitors hunting for top-rated sushi restaurants in the heart of the city.
+  Whether you're in the mood for a quick bite or a laid-back gathering, this
+  venue captures the essence of Japanese dining in a vibrant setting.
+generative_summary: >-
+  Discover Sushi Rock Las Olas in Fort Lauderdale, FL$$$Sushi Rock Las Olas in
+  Fort Lauderdale, FL, stands out as a charming Japanese restaurant that brings
+  authentic flavors to the lively Colee Hammock area. This spot features a
+  relaxed atmosphere ideal for savoring fresh sushi and other traditional
+  dishes, making it a go-to choice for those seeking quality Japanese cuisine
+  nearby. With thoughtful accessibility options like easy entrances and seating,
+  it ensures a welcoming experience for all diners looking to enjoy a casual
+  meal. Located conveniently on East Las Olas Blvd, it's perfect for locals and
+  visitors hunting for top-rated sushi restaurants in the heart of the city.
+  Whether you're in the mood for a quick bite or a laid-back gathering, this
+  venue captures the essence of Japanese dining in a vibrant setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About This Sushi Favorite$$$Folks who visit this
+  popular sushi spot near Fort Lauderdale often highlight the consistently fresh
+  ingredients and well-prepared rolls that make every meal feel special. Many
+  appreciate the cozy vibe and attentive service that enhance the overall
+  enjoyment, turning a simple dinner into a memorable outing. While some mention
+  minor waits during peak times, the general consensus leans positive, with
+  diners praising the variety of options that cater to different tastes,
+  including vegetarian choices. It's commonly noted as a solid pick for groups
+  or families, offering a balance of quality and affordability that keeps people
+  coming back for more. Overall, if you're searching for reliable sushi places
+  close to you, this location earns high marks for its inviting ambiance and
+  satisfying flavors.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +247,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

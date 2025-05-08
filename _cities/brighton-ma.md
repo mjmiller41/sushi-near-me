@@ -5,4 +5,5 @@ permalink: /massachusetts/brighton/
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Brighton
+
 ---

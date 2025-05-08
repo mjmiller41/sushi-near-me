@@ -1,15 +1,14 @@
 ---
 layout: place
-title: "Grey Whale Sushi & Grill"
+title: Grey Whale Sushi & Grill
 permalink: /nebraska/lincoln/grey-whale-sushi-grill.html
 stateAbbr: NE
 stateName: Nebraska
 cityName: Lincoln
 seo:
-  name: "Grey Whale Sushi & Grill"
-  type: Restaurant
-  links: https://greywhalesushilincoln.com/?y_source=1_MTAwMjg1NDE0Mi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D
-description: "Grey Whale Sushi & Grill serves delicious sushi in Lincoln, Nebraska. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: >-
+    https://greywhalesushilincoln.com/?y_source=1_MTAwMjg1NDE0Mi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D
 place_id: ChIJYzxbsgK_locROXqvmTb7LTM
 photos:
   - name: >-
@@ -170,7 +169,105 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8796bf02b25b3c63:0x332dfb3699af7a39!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 15
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 15
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 3:00 PM, 4:00 – 9:30 PM'
     - 'Tuesday: 11:00 AM – 3:00 PM, 4:00 – 9:30 PM'
     - 'Wednesday: 11:00 AM – 3:00 PM, 4:00 – 9:30 PM'
@@ -178,55 +275,323 @@ opening_hours:
     - 'Friday: 11:00 AM – 3:00 PM, 4:00 – 10:30 PM'
     - 'Saturday: 11:00 AM – 10:30 PM'
     - 'Sunday: 12:00 – 9:30 PM'
-  current:
-    - 'Monday: 11:00 AM – 3:00 PM, 4:00 – 9:30 PM'
-    - 'Tuesday: 11:00 AM – 3:00 PM, 4:00 – 9:30 PM'
-    - 'Wednesday: 11:00 AM – 3:00 PM, 4:00 – 9:30 PM'
-    - 'Thursday: 11:00 AM – 3:00 PM, 4:00 – 9:30 PM'
-    - 'Friday: 11:00 AM – 3:00 PM, 4:00 – 10:30 PM'
-    - 'Saturday: 11:00 AM – 10:30 PM'
-    - 'Sunday: 12:00 – 9:30 PM'
+  nextCloseTime: '2025-05-04T03:30:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 0
+        close:
+          day: 0
+          hour: 21
+          minute: 30
+      - open:
+          day: 1
+          hour: 16
+          minute: 0
+        close:
+          day: 1
+          hour: 18
+          minute: 30
+      - open:
+          day: 2
+          hour: 11
+          minute: 0
+        close:
+          day: 2
+          hour: 18
+          minute: 30
+      - open:
+          day: 3
+          hour: 16
+          minute: 0
+        close:
+          day: 3
+          hour: 18
+          minute: 30
+      - open:
+          day: 4
+          hour: 16
+          minute: 0
+        close:
+          day: 4
+          hour: 18
+          minute: 30
+      - open:
+          day: 5
+          hour: 16
+          minute: 0
+        close:
+          day: 5
+          hour: 18
+          minute: 30
+      - open:
+          day: 5
+          hour: 21
+          minute: 0
+        close:
+          day: 5
+          hour: 22
+          minute: 0
+      - open:
+          day: 6
+          hour: 15
+          minute: 0
+        close:
+          day: 6
+          hour: 18
+          minute: 30
+      - open:
+          day: 6
+          hour: 21
+          minute: 0
+        close:
+          day: 6
+          hour: 22
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 4:00 – 6:30 PM'
+      - 'Tuesday: 11:00 AM – 6:30 PM'
+      - 'Wednesday: 4:00 – 6:30 PM'
+      - 'Thursday: 4:00 – 6:30 PM'
+      - 'Friday: 4:00 – 6:30 PM, 9:00 – 10:00 PM'
+      - 'Saturday: 3:00 – 6:30 PM, 9:00 – 10:00 PM'
+      - 'Sunday: 12:00 – 9:30 PM'
+    secondaryHoursType: HAPPY_HOUR
+    nextCloseTime: '2025-05-03T23:30:00Z'
 phone: (402) 261-3199
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.6'
-rating_count: 0
+rating_count: 1499
 website: >-
   https://greywhalesushilincoln.com/?y_source=1_MTAwMjg1NDE0Mi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  About Grey Whale Sushi & Grill in Lincoln, NE$$$Grey Whale Sushi & Grill in
+  Lincoln, NE, stands out as a modern spot for enjoying fresh Japanese cuisine,
+  including a variety of sushi rolls and sashimi that highlight the best of
+  local sushi options. This unpretentious eatery combines grilled fare and
+  teriyaki dishes with affordable happy hour deals, making it an ideal choice
+  for anyone searching for quality sushi restaurants nearby. Accessibility
+  features like wheelchair-friendly entrances and seating add to the welcoming
+  atmosphere, ensuring a comfortable dining experience for all. The menu also
+  includes flavorful options for vegetarians and groups, perfect for casual
+  meals in a lively setting. With its convenient location in the downtown area,
+  it's a go-to destination for those craving top-rated sushi close to home.
+generative_summary: >-
+  About Grey Whale Sushi & Grill in Lincoln, NE$$$Grey Whale Sushi & Grill in
+  Lincoln, NE, stands out as a modern spot for enjoying fresh Japanese cuisine,
+  including a variety of sushi rolls and sashimi that highlight the best of
+  local sushi options. This unpretentious eatery combines grilled fare and
+  teriyaki dishes with affordable happy hour deals, making it an ideal choice
+  for anyone searching for quality sushi restaurants nearby. Accessibility
+  features like wheelchair-friendly entrances and seating add to the welcoming
+  atmosphere, ensuring a comfortable dining experience for all. The menu also
+  includes flavorful options for vegetarians and groups, perfect for casual
+  meals in a lively setting. With its convenient location in the downtown area,
+  it's a go-to destination for those craving top-rated sushi close to home.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJYzxbsgK_locROXqvmTb7LTM/reviews/ChdDSUhNMG9nS0VJQ0FnSUNIXzdiUjlnRRAB
+    relativePublishTimeDescription: 7 months ago
+    rating: 5
+    text:
+      text: >-
+        We went here for the first time this weekend. It is sort of strange to
+        find it because there is so little signage, but we found it.
+
+        We ordered the lion king, scallop tempura, and cowboy sushi. The cowboy
+        comes out in aluminum foil and there is a flame around it.  We also
+        ordered some vegetable fried rice.
+
+        We were blown away by the flavor of everything we had.  Best vegetable
+        fried rice we have had in a long time too!
+
+
+        Phenomenal place to eat!
+      languageCode: en
+    originalText:
+      text: >-
+        We went here for the first time this weekend. It is sort of strange to
+        find it because there is so little signage, but we found it.
+
+        We ordered the lion king, scallop tempura, and cowboy sushi. The cowboy
+        comes out in aluminum foil and there is a flame around it.  We also
+        ordered some vegetable fried rice.
+
+        We were blown away by the flavor of everything we had.  Best vegetable
+        fried rice we have had in a long time too!
+
+
+        Phenomenal place to eat!
+      languageCode: en
+    authorAttribution:
+      displayName: Jace Kranau
+      uri: https://www.google.com/maps/contrib/104056274294582543847/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXsH7VD6wPHG3S75xlvn7yodLcTgBtNQ_p6mmd5u_F7h4Sk1zoWtg=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-09-10T21:57:15.150311Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNIXzdiUjlnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNIXzdiUjlnRRAB!2m1!1s0x8796bf02b25b3c63:0x332dfb3699af7a39
+  - name: >-
+      places/ChIJYzxbsgK_locROXqvmTb7LTM/reviews/ChdDSUhNMG9nS0VJQ0FnTURRNWFLR2x3RRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        College bar. Food was great.  Young crowd and fun atmosphere don't come
+        here to study or for a quite time.
+      languageCode: en
+    originalText:
+      text: >-
+        College bar. Food was great.  Young crowd and fun atmosphere don't come
+        here to study or for a quite time.
+      languageCode: en
+    authorAttribution:
+      displayName: C “C”
+      uri: https://www.google.com/maps/contrib/108742322439457422261/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUHbF30-bDy27BspjSJAl2awdhov0WoByzFG2DexZRdmmhUQ6hD=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-03-12T14:34:59.083757Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURRNWFLR2x3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURRNWFLR2x3RRAB!2m1!1s0x8796bf02b25b3c63:0x332dfb3699af7a39
+  - name: >-
+      places/ChIJYzxbsgK_locROXqvmTb7LTM/reviews/ChdDSUhNMG9nS0VJQ0FnSURYLVAtV19RRRAB
+    relativePublishTimeDescription: 6 months ago
+    rating: 1
+    text:
+      text: >-
+        We visited this place after reading good reviews and we were very
+        disappointed. We rely on the reviews to try out restaurants. The food
+        was average with no flavor, the restaurant was kind of dirty and smelled
+        bad and service was so slow despite there was barely anyone there. The
+        only reason we stayed and ordered was hoping maybe the food would come
+        out spectacular because of all the good reviews. Unfortunately it did
+        not.
+      languageCode: en
+    originalText:
+      text: >-
+        We visited this place after reading good reviews and we were very
+        disappointed. We rely on the reviews to try out restaurants. The food
+        was average with no flavor, the restaurant was kind of dirty and smelled
+        bad and service was so slow despite there was barely anyone there. The
+        only reason we stayed and ordered was hoping maybe the food would come
+        out spectacular because of all the good reviews. Unfortunately it did
+        not.
+      languageCode: en
+    authorAttribution:
+      displayName: Rima Thapa
+      uri: https://www.google.com/maps/contrib/113614191902877789947/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUR7iN-VMNxwJ3r1EYYgHooTEYqoV6ADM2lzmO0ntDvU17jzkrTlQ=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-10-24T04:31:57.311827Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURYLVAtV19RRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURYLVAtV19RRRAB!2m1!1s0x8796bf02b25b3c63:0x332dfb3699af7a39
+  - name: >-
+      places/ChIJYzxbsgK_locROXqvmTb7LTM/reviews/ChdDSUhNMG9nS0VJQ0FnTURJeU5HMGpRRRAB
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 5
+    text:
+      text: Pretty tasty sushi! Excellent crab rangoons!
+      languageCode: en
+    originalText:
+      text: Pretty tasty sushi! Excellent crab rangoons!
+      languageCode: en
+    authorAttribution:
+      displayName: Chris S
+      uri: https://www.google.com/maps/contrib/111107682504176646952/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXnXLfrsnLAwE7RzzvwGH9svooGA9ZG7EI_GbNaC9xKHkbGE1JJ=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2025-04-06T15:40:53.660422Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJeU5HMGpRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJeU5HMGpRRRAB!2m1!1s0x8796bf02b25b3c63:0x332dfb3699af7a39
+  - name: >-
+      places/ChIJYzxbsgK_locROXqvmTb7LTM/reviews/ChZDSUhNMG9nS0VJQ0FnSUR0ektiYVVnEAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        Excellent sushi rolls at very reasonable prices. Best Crab Rangoon we've
+        ever had. Chicken fried rice was amazing. Definitely will come back to
+        this place.
+      languageCode: en
+    originalText:
+      text: >-
+        Excellent sushi rolls at very reasonable prices. Best Crab Rangoon we've
+        ever had. Chicken fried rice was amazing. Definitely will come back to
+        this place.
+      languageCode: en
+    authorAttribution:
+      displayName: Gregg Holland
+      uri: https://www.google.com/maps/contrib/110253919324409460782/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUdKX8mjgq2QYoiM98Ahve7q_Xa9mErhXiyzW108b9nECWcGpxu=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2024-02-02T23:23:48.678344Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR0ektiYVVnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR0ektiYVVnEAE!2m1!1s0x8796bf02b25b3c63:0x332dfb3699af7a39
+review_summary: >-
+  Customer Feedback on Grey Whale Sushi$$$Folks generally rave about the tasty
+  sushi rolls and standout appetizers like crab rangoon at this spot, often
+  mentioning the great value and fun happy hour vibes that keep things
+  affordable and enjoyable. While most visitors appreciate the quick service and
+  welcoming environment, a few have pointed out occasional inconsistencies with
+  flavors or slower paces on busier days, though these don't overshadow the
+  positives. Overall, it's seen as a solid pick for casual get-togethers or a
+  quick bite, with many highlighting the friendly staff and variety of options
+  that cater to different tastes. If you're in the mood for reliable Japanese
+  fare, this place delivers a generally upbeat experience that leaves diners
+  satisfied. Remember, it's all about balancing the highlights with honest takes
+  to help you decide if it's the right fit for your next sushi outing.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  paidStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+curbside_pickup: false
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: true
+live_music: false
+menu_for_children: true
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Unpretentious eatery featuring Japanese grilled fare, ramen, teriyaki plus
+  ample sushi & sashimi.
 
 ---

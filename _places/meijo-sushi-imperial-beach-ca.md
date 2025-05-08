@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Meijo Sushi"
+title: Meijo Sushi
 permalink: /california/imperial-beach/meijo-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Imperial Beach
 seo:
-  name: "Meijo Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://meijosushi.weebly.com/
-description: "Meijo Sushi serves delicious sushi in Imperial Beach, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJEzfcXllM2YARYH9rZc43ndg
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80d94c595edc3713:0xd89d37ce656b7f60!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 20
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 20
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 20
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 8:00 PM'
     - 'Tuesday: 11:00 AM – 8:00 PM'
     - 'Wednesday: 11:00 AM – 8:00 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 8:00 PM'
     - 'Saturday: 11:00 AM – 8:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:00 AM – 8:00 PM'
-    - 'Tuesday: 11:00 AM – 8:00 PM'
-    - 'Wednesday: 11:00 AM – 8:00 PM'
-    - 'Thursday: 11:00 AM – 8:00 PM'
-    - 'Friday: 11:00 AM – 8:00 PM'
-    - 'Saturday: 11:00 AM – 8:00 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +238,47 @@ phone: (619) 429-4373
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.5'
-rating_count: 0
+rating_count: 578
 website: http://meijosushi.weebly.com/
+description: >-
+  Experience Meijo Sushi in Imperial Beach, CA$$$Meijo Sushi in Imperial Beach,
+  CA, stands out as a welcoming spot for those seeking fresh sushi and Japanese
+  flavors in a casual setting. This sushi restaurant offers a variety of rolls
+  and teriyaki dishes that highlight quality ingredients and traditional
+  preparation, making it a go-to choice for anyone exploring local Japanese
+  places. With its accessible features like wheelchair-friendly parking and
+  seating, it ensures a comfortable visit for all guests, adding to the relaxed
+  vibe. The spot maintains moderate pricing, appealing to both everyday diners
+  and those hunting for top-rated sushi options nearby. Operating from late
+  morning into the evening most days, it's an ideal stop for a satisfying meal
+  that combines simplicity with authentic tastes.
+generative_summary: >-
+  Experience Meijo Sushi in Imperial Beach, CA$$$Meijo Sushi in Imperial Beach,
+  CA, stands out as a welcoming spot for those seeking fresh sushi and Japanese
+  flavors in a casual setting. This sushi restaurant offers a variety of rolls
+  and teriyaki dishes that highlight quality ingredients and traditional
+  preparation, making it a go-to choice for anyone exploring local Japanese
+  places. With its accessible features like wheelchair-friendly parking and
+  seating, it ensures a comfortable visit for all guests, adding to the relaxed
+  vibe. The spot maintains moderate pricing, appealing to both everyday diners
+  and those hunting for top-rated sushi options nearby. Operating from late
+  morning into the evening most days, it's an ideal stop for a satisfying meal
+  that combines simplicity with authentic tastes.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying About the Reviews$$$Folks who've checked out this
+  sushi spot often rave about the fresh flavors and solid portions that make it
+  a reliable pick for casual meals. Many highlight the friendly service and
+  quick preparation, turning it into a favorite for groups or solo diners
+  looking for a laid-back vibe. While some mention occasional waits during peak
+  times, the overall consensus leans positive, with praise for the variety of
+  options that cater to different tastes. With a strong rating reflecting
+  hundreds of satisfied experiences, it's clear that the quality of the dishes
+  keeps people coming back for more. If you're on the hunt for sushi restaurants
+  near you, this place delivers a consistently enjoyable experience without any
+  major letdowns.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +304,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -5,4 +5,5 @@ permalink: /pennsylvania/elizabethtown/
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Elizabethtown
+
 ---

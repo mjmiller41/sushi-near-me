@@ -5,4 +5,5 @@ permalink: /texas/irving/
 stateAbbr: TX
 stateName: Texas
 cityName: Irving
+
 ---

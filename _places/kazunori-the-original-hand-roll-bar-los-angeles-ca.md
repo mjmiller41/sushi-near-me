@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "KazuNori: The Original Hand Roll Bar"
+title: 'KazuNori: The Original Hand Roll Bar'
 permalink: /california/los-angeles/kazunori-the-original-hand-roll-bar.html
 stateAbbr: CA
 stateName: California
 cityName: Los Angeles
 seo:
-  name: "KazuNori: The Original Hand Roll Bar"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "KazuNori: The Original Hand Roll Bar serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJK2NyJIK8woARlMt8COUMfEA
 photos:
   - name: >-
@@ -184,7 +182,45 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover KazuNori in Los Angeles$$$KazuNori: The Original Hand Roll Bar in Los
+  Angeles, CA, stands out as a go-to spot for fresh sushi experiences,
+  specializing in meticulously crafted hand rolls that highlight high-quality
+  ingredients. With a focus on warm rice and perfectly crisp seaweed, this
+  inviting sushi bar offers a relaxed setting ideal for casual dining or quick
+  meals, making it a favorite among those exploring local Japanese-inspired
+  cuisine. The venue emphasizes accessibility, featuring wheelchair-friendly
+  parking and entrances, which adds to its appeal for a wide range of visitors
+  seeking convenient sushi options. Additionally, its prime location in the
+  vibrant Westwood neighborhood enhances the overall vibe, providing an easy
+  escape for anyone hunting for top-rated sushi near bustling urban areas.
+generative_summary: >-
+  Discover KazuNori in Los Angeles$$$KazuNori: The Original Hand Roll Bar in Los
+  Angeles, CA, stands out as a go-to spot for fresh sushi experiences,
+  specializing in meticulously crafted hand rolls that highlight high-quality
+  ingredients. With a focus on warm rice and perfectly crisp seaweed, this
+  inviting sushi bar offers a relaxed setting ideal for casual dining or quick
+  meals, making it a favorite among those exploring local Japanese-inspired
+  cuisine. The venue emphasizes accessibility, featuring wheelchair-friendly
+  parking and entrances, which adds to its appeal for a wide range of visitors
+  seeking convenient sushi options. Additionally, its prime location in the
+  vibrant Westwood neighborhood enhances the overall vibe, providing an easy
+  escape for anyone hunting for top-rated sushi near bustling urban areas.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Buzzing About$$$Folks rave about the tasty hand rolls at
+  this spot, particularly praising the perfectly prepared rice and overall
+  flavor that keeps diners coming back for more. Many highlight the laid-back
+  atmosphere as a refreshing change, making it a solid choice for anyone wanting
+  a chill meal without the fuss. Reviewers often note the helpful staff and fair
+  pricing, which add to the welcoming feel and make it accessible for different
+  budgets. Overall, it's clear that this sushi restaurant delivers a satisfying
+  experience that's worth checking out, especially if you're in the mood for
+  straightforward, enjoyable eats. While opinions are positive, the general
+  consensus leans toward it being a reliable option for quality sushi in a
+  low-key environment.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +246,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

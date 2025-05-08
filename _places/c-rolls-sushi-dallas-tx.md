@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "C Rolls Sushi"
+title: C Rolls Sushi
 permalink: /texas/dallas/c-rolls-sushi.html
 stateAbbr: TX
 stateName: Texas
 cityName: Dallas
 seo:
-  name: "C Rolls Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://crollsushi.com/
-description: "C Rolls Sushi serves delicious sushi in Dallas, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJkVFujc4jTIYRVinwcsvybOw
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x864c23ce8d6e5191:0xec6cf2cb72f02956!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:30 PM'
     - 'Tuesday: 11:00 AM – 9:30 PM'
     - 'Wednesday: 11:00 AM – 9:30 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:30 PM'
     - 'Saturday: 11:00 AM – 9:30 PM'
     - 'Sunday: 11:00 AM – 9:30 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:30 PM'
-    - 'Tuesday: 11:00 AM – 9:30 PM'
-    - 'Wednesday: 11:00 AM – 9:30 PM'
-    - 'Thursday: 11:00 AM – 9:30 PM'
-    - 'Friday: 11:00 AM – 9:30 PM'
-    - 'Saturday: 11:00 AM – 9:30 PM'
-    - 'Sunday: 11:00 AM – 9:30 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,281 @@ phone: (972) 447-4900
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.5'
-rating_count: 0
+rating_count: 416
 website: http://crollsushi.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover C Rolls Sushi in Dallas, TX$$$C Rolls Sushi in Dallas, TX, stands out
+  as a welcoming spot for enjoying fresh Japanese dishes, blending casual vibes
+  with a variety of creative rolls and hearty entrees. This sushi restaurant
+  offers a range of options including vegetarian choices, making it a go-to for
+  those seeking flavorful meals in a relaxed setting. With its contemporary
+  atmosphere and accessibility features like wheelchair-friendly entrances and
+  seating, it's designed for everyone to savor the experience. Patrons can
+  explore an array of sushi selections that highlight quality ingredients,
+  perfect for anyone searching for reliable sushi places near me. Open daily
+  from late morning to evening, it's an ideal choice for a satisfying lunch or
+  dinner in the Far North Dallas area.
+generative_summary: >-
+  Discover C Rolls Sushi in Dallas, TX$$$C Rolls Sushi in Dallas, TX, stands out
+  as a welcoming spot for enjoying fresh Japanese dishes, blending casual vibes
+  with a variety of creative rolls and hearty entrees. This sushi restaurant
+  offers a range of options including vegetarian choices, making it a go-to for
+  those seeking flavorful meals in a relaxed setting. With its contemporary
+  atmosphere and accessibility features like wheelchair-friendly entrances and
+  seating, it's designed for everyone to savor the experience. Patrons can
+  explore an array of sushi selections that highlight quality ingredients,
+  perfect for anyone searching for reliable sushi places near me. Open daily
+  from late morning to evening, it's an ideal choice for a satisfying lunch or
+  dinner in the Far North Dallas area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJkVFujc4jTIYRVinwcsvybOw/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJai1IVGR3EAE
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 4
+    text:
+      text: >-
+        C Rolls Sushi makes awesome sushi rolls that you should try. It has been
+        a favorite of mine since I discovered it about 19 years ago. Yes. It has
+        been there that long. I have enjoyed watching their evolution. Believe
+        it or not they have never made a bad meal in all of this time. This is
+        my first review.
+
+
+        I started things off with some Yellowtail and Smoked Salmon Sashimi.
+        This was my first time trying yellowtail. It was interesting. It had a
+        very suttle taste with a hint of lemon (that I liked. Next time I will
+        request that they slice it thinner. Just my preference.
+
+
+        I moved onto The Mexican Roll. Another first. It was spectacular! This
+        is a cooked  roll made of crab meat, avocado, cucumber, shrimp inside,
+        topped with avocado and amazu sauce. My first bite had me seeing
+        fireworks because it was magically delicious. I did also order fried
+        rice. It was pretty bland to me. I like to taste flavor in my fried
+        rice. I would not order it again. The sushi will make you forget the
+        rice lol.
+
+
+        The only drawback to my meal was that the bar was out of Plum Wine. That
+        is my go to drink when eating sushi. Since the food was so good, I’m
+        willing to overlook it this time 😉.
+
+
+        C Rolls Sushi should be on your list of restaurants to try soon. The
+        staff is welcoming and their sushi and sushi rolls are top tier. The
+        prices are amazing. Head on over and check them out. Don’t worry. You
+        can thank me later.
+      languageCode: en
+    originalText:
+      text: >-
+        C Rolls Sushi makes awesome sushi rolls that you should try. It has been
+        a favorite of mine since I discovered it about 19 years ago. Yes. It has
+        been there that long. I have enjoyed watching their evolution. Believe
+        it or not they have never made a bad meal in all of this time. This is
+        my first review.
+
+
+        I started things off with some Yellowtail and Smoked Salmon Sashimi.
+        This was my first time trying yellowtail. It was interesting. It had a
+        very suttle taste with a hint of lemon (that I liked. Next time I will
+        request that they slice it thinner. Just my preference.
+
+
+        I moved onto The Mexican Roll. Another first. It was spectacular! This
+        is a cooked  roll made of crab meat, avocado, cucumber, shrimp inside,
+        topped with avocado and amazu sauce. My first bite had me seeing
+        fireworks because it was magically delicious. I did also order fried
+        rice. It was pretty bland to me. I like to taste flavor in my fried
+        rice. I would not order it again. The sushi will make you forget the
+        rice lol.
+
+
+        The only drawback to my meal was that the bar was out of Plum Wine. That
+        is my go to drink when eating sushi. Since the food was so good, I’m
+        willing to overlook it this time 😉.
+
+
+        C Rolls Sushi should be on your list of restaurants to try soon. The
+        staff is welcoming and their sushi and sushi rolls are top tier. The
+        prices are amazing. Head on over and check them out. Don’t worry. You
+        can thank me later.
+      languageCode: en
+    authorAttribution:
+      displayName: Guilty Pleasurz
+      uri: https://www.google.com/maps/contrib/116952936257894493700/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVRkRIWbWXpT2yBJx_8B42Rkd7vt-wSrV8KiEcRrInaVNDO6Ob_=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-06T01:02:38.671585Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNJai1IVGR3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNJai1IVGR3EAE!2m1!1s0x864c23ce8d6e5191:0xec6cf2cb72f02956
+  - name: >-
+      places/ChIJkVFujc4jTIYRVinwcsvybOw/reviews/ChdDSUhNMG9nS0VJQ0FnSUNYdmZXQ3ZBRRAB
+    relativePublishTimeDescription: 6 months ago
+    rating: 5
+    text:
+      text: >-
+        The sushi was incredible. We tried a fresh, cooked, and baked roll. All
+        of them excellent quality and flavor! They had a huge variety to choose
+        from and some unique rolls. We especially loved the heavenly roll and
+        the Fredrick's rolls. The Cajun edamame was just good. Prices were so
+        reasonable.
+
+        Only critique is that it was freezing inside.
+
+        Would definitely come again!
+      languageCode: en
+    originalText:
+      text: >-
+        The sushi was incredible. We tried a fresh, cooked, and baked roll. All
+        of them excellent quality and flavor! They had a huge variety to choose
+        from and some unique rolls. We especially loved the heavenly roll and
+        the Fredrick's rolls. The Cajun edamame was just good. Prices were so
+        reasonable.
+
+        Only critique is that it was freezing inside.
+
+        Would definitely come again!
+      languageCode: en
+    authorAttribution:
+      displayName: Arianna Taggart
+      uri: https://www.google.com/maps/contrib/113922012728581543170/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUJ43zS1EhaT7-I_mqmBNDYresvfcoC6E7gU8wcgPH5C7F2Vq4=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-10-19T17:58:53.164907Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNYdmZXQ3ZBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNYdmZXQ3ZBRRAB!2m1!1s0x864c23ce8d6e5191:0xec6cf2cb72f02956
+  - name: >-
+      places/ChIJkVFujc4jTIYRVinwcsvybOw/reviews/ChdDSUhNMG9nS0VJQ0FnTUNBNTR2MzZRRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        First time here, it was wonderful💕 When entering I felt a warm welcome.
+        The relaxed✨️ atmosphere, was super friendly, zen vibe.💥 The service,
+        so efficient, all VERY knowledgeable💯 All the flavors we enjoyed were
+        excellent😋 I would highly recommend this place,⭐️
+      languageCode: en
+    originalText:
+      text: >-
+        First time here, it was wonderful💕 When entering I felt a warm welcome.
+        The relaxed✨️ atmosphere, was super friendly, zen vibe.💥 The service,
+        so efficient, all VERY knowledgeable💯 All the flavors we enjoyed were
+        excellent😋 I would highly recommend this place,⭐️
+      languageCode: en
+    authorAttribution:
+      displayName: Michelle Shaver
+      uri: https://www.google.com/maps/contrib/104297693980547195851/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJOF94RgIuHPYzsBX4SG7xr2w4pB-k1kbmpqPe-jX2EepgaeA=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-02-05T04:20:34.652973Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNBNTR2MzZRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNBNTR2MzZRRRAB!2m1!1s0x864c23ce8d6e5191:0xec6cf2cb72f02956
+  - name: >-
+      places/ChIJkVFujc4jTIYRVinwcsvybOw/reviews/ChdDSUhNMG9nS0VJQ0FnSURieF82MzNnRRAB
+    relativePublishTimeDescription: 8 months ago
+    rating: 5
+    text:
+      text: >-
+        I can't get enough. Quality delicious sushi,  get the chef sampler set,
+        they won't steer you wrong!! And the heavenly roll - is like a sushi
+        ceviche roll yummmm
+      languageCode: en
+    originalText:
+      text: >-
+        I can't get enough. Quality delicious sushi,  get the chef sampler set,
+        they won't steer you wrong!! And the heavenly roll - is like a sushi
+        ceviche roll yummmm
+      languageCode: en
+    authorAttribution:
+      displayName: Samantha
+      uri: https://www.google.com/maps/contrib/104463561994165123535/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXSCuHviaF2A71ThJMJ3vlrlaJVs5vS7Tm1YsgZGncl3_NQO-Y1=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-08-10T02:07:28.280795Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURieF82MzNnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURieF82MzNnRRAB!2m1!1s0x864c23ce8d6e5191:0xec6cf2cb72f02956
+  - name: >-
+      places/ChIJkVFujc4jTIYRVinwcsvybOw/reviews/ChdDSUhNMG9nS0VJQ0FnSUR4Mi1MVDJ3RRAB
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        I’ve had this sushi in house and Togo and was very happy! We enjoyed
+        every roll and the freshness of the fish can’t be beat. Look forward to
+        visiting a third time soon.
+      languageCode: en
+    originalText:
+      text: >-
+        I’ve had this sushi in house and Togo and was very happy! We enjoyed
+        every roll and the freshness of the fish can’t be beat. Look forward to
+        visiting a third time soon.
+      languageCode: en
+    authorAttribution:
+      displayName: out2eatfood
+      uri: https://www.google.com/maps/contrib/108654006955377961708/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjW1hrBQEFV6RnD5Gz6CUBfK7xYsUH0jK7XnfjUR0fO_WkcTfFf5=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2023-06-15T16:00:32.641224Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR4Mi1MVDJ3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR4Mi1MVDJ3RRAB!2m1!1s0x864c23ce8d6e5191:0xec6cf2cb72f02956
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this sushi spot often rave about the
+  outstanding quality and variety of the rolls, with many highlighting the fresh
+  flavors and unique combinations that make every bite memorable. Feedback
+  frequently mentions the friendly service and efficient atmosphere, which add
+  to the overall enjoyable dining experience without any major hiccups. While
+  most agree that the prices are reasonable and the portions generous, a few
+  notes suggest that side dishes like fried rice might not always hit the mark
+  in terms of taste. Overall, it's clear that this place delivers solid value
+  for sushi lovers, encouraging repeat visits for its welcoming vibe and
+  dependable meals. If you're on the hunt for top-rated sushi near me, the
+  consistent praise for freshness and affordability makes it worth checking out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+curbside_pickup: false
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: true
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Creative sushi, specialty rolls & hot entrees are offered in contemporary,
+  casual surroundings.
 
 ---

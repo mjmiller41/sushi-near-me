@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "18-8 Sushi"
+title: 18-8 Sushi
 permalink: /maryland/baltimore/18-8-sushi.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Baltimore
 seo:
-  name: "18-8 Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.18-8sushi.com/
-description: "18-8 Sushi serves delicious sushi in Baltimore, Maryland. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJTwD1S68FyIkRH3l_pJP-O64
 photos:
   - name: >-
@@ -170,7 +168,105 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c805af4bf5004f:0xae3bfe93a47f791f!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 15
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 15
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 3:00 PM, 4:30 – 9:30 PM'
     - 'Tuesday: 11:00 AM – 3:00 PM, 4:30 – 9:30 PM'
     - 'Wednesday: 11:00 AM – 3:00 PM, 4:30 – 9:30 PM'
@@ -178,14 +274,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 3:00 PM, 4:30 – 10:00 PM'
     - 'Saturday: 12:00 – 10:00 PM'
     - 'Sunday: 12:00 – 9:30 PM'
-  current:
-    - 'Monday: 11:00 AM – 3:00 PM, 4:30 – 9:30 PM'
-    - 'Tuesday: 11:00 AM – 3:00 PM, 4:30 – 9:30 PM'
-    - 'Wednesday: 11:00 AM – 3:00 PM, 4:30 – 9:30 PM'
-    - 'Thursday: 11:00 AM – 3:00 PM, 4:30 – 9:30 PM'
-    - 'Friday: 11:00 AM – 3:00 PM, 4:30 – 10:00 PM'
-    - 'Saturday: 12:00 – 10:00 PM'
-    - 'Sunday: 12:00 – 9:30 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +286,49 @@ phone: (410) 889-1888
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.0'
-rating_count: 0
+rating_count: 163
 website: http://www.18-8sushi.com/
+description: >-
+  Discover 18-8 Sushi in Baltimore, MD$$$Nestled in the heart of Baltimore, MD,
+  18-8 Sushi stands out as a cozy spot for savoring fresh Japanese cuisine,
+  blending casual vibes with an array of flavorful dishes. This eatery delights
+  visitors with its selection of expertly prepared sushi rolls, sashimi, and
+  grilled options like teriyaki shrimp, all paired with a thoughtful assortment
+  of beverages including beer, wine, and sake. Accessibility features make it
+  welcoming for everyone, enhancing the overall dining experience in a
+  neighborhood known for its lively atmosphere. With moderate pricing and
+  convenient hours, it's an ideal choice for those seeking quality Japanese
+  dining without the formality. Whether you're exploring top-rated sushi options
+  nearby or simply craving authentic flavors, this spot delivers a satisfying
+  meal in a relaxed setting.
+generative_summary: >-
+  Discover 18-8 Sushi in Baltimore, MD$$$Nestled in the heart of Baltimore, MD,
+  18-8 Sushi stands out as a cozy spot for savoring fresh Japanese cuisine,
+  blending casual vibes with an array of flavorful dishes. This eatery delights
+  visitors with its selection of expertly prepared sushi rolls, sashimi, and
+  grilled options like teriyaki shrimp, all paired with a thoughtful assortment
+  of beverages including beer, wine, and sake. Accessibility features make it
+  welcoming for everyone, enhancing the overall dining experience in a
+  neighborhood known for its lively atmosphere. With moderate pricing and
+  convenient hours, it's an ideal choice for those seeking quality Japanese
+  dining without the formality. Whether you're exploring top-rated sushi options
+  nearby or simply craving authentic flavors, this spot delivers a satisfying
+  meal in a relaxed setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Based on the solid 4.0-star rating from over 160
+  reviews, visitors generally appreciate the fresh and tasty sushi selections
+  that make this place a go-to for casual Japanese meals. People often highlight
+  the reliable service and variety of dishes, noting that it hits the spot for
+  everything from quick lunches to evening outings. While some mention minor
+  inconsistencies like wait times during peak hours, the overall feedback leans
+  positive, praising the approachable atmosphere and solid value. It's clear
+  that many enjoy returning for the flavorful rolls and drinks, making it a
+  dependable option for groups or solo diners. If you're hunting for nearby
+  sushi spots with a welcoming feel, this one earns consistent nods for its
+  everyday appeal and honest execution.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +354,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

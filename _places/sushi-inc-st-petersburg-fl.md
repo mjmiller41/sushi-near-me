@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Inc"
+title: Sushi Inc
 permalink: /florida/st-petersburg/sushi-inc.html
 stateAbbr: FL
 stateName: Florida
 cityName: St. Petersburg
 seo:
-  name: "Sushi Inc"
-  type: Restaurant
+  type: restaurant
   links: http://sushiincorporated.com/
-description: "Casual option dispensing traditional sushi, signature rolls & cooked Japanese fare including ramen. Sushi Inc serves delicious sushi in St. Petersburg, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJMSqPz5zhwogRQtowQFK5GNc
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 0
 website: http://sushiincorporated.com/
+description: >-
+  Experience Sushi Inc in St. Petersburg, FL$$$Sushi Inc in St. Petersburg, FL,
+  offers a relaxed and inviting spot for enjoying fresh Japanese cuisine,
+  blending traditional sushi with creative twists that appeal to sushi
+  enthusiasts. The menu highlights flavorful rolls and hearty options like
+  ramen, all prepared with high-quality ingredients in a casual setting that
+  encourages unwinding with friends or on a date. Outdoor seating and happy hour
+  specials add to the charm, making it an ideal choice for those seeking
+  authentic yet approachable dining experiences. Accessibility features, such as
+  wheelchair-friendly entrances and parking, ensure everyone can savor the
+  vibrant atmosphere and well-crafted dishes without hassle.
+generative_summary: >-
+  Experience Sushi Inc in St. Petersburg, FL$$$Sushi Inc in St. Petersburg, FL,
+  offers a relaxed and inviting spot for enjoying fresh Japanese cuisine,
+  blending traditional sushi with creative twists that appeal to sushi
+  enthusiasts. The menu highlights flavorful rolls and hearty options like
+  ramen, all prepared with high-quality ingredients in a casual setting that
+  encourages unwinding with friends or on a date. Outdoor seating and happy hour
+  specials add to the charm, making it an ideal choice for those seeking
+  authentic yet approachable dining experiences. Accessibility features, such as
+  wheelchair-friendly entrances and parking, ensure everyone can savor the
+  vibrant atmosphere and well-crafted dishes without hassle.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJMSqPz5zhwogRQtowQFK5GNc/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJOGNXbWFBEAE
@@ -414,6 +435,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNRMDdTNm5BRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNRMDdTNm5BRRAB!2m1!1s0x88c2e19ccf8f2a31:0xd718b9524030da42
+review_summary: >-
+  Insights from Sushi Diners$$$Visitors frequently praise the exceptional
+  quality of the sushi rolls and other Japanese favorites, noting their fresh
+  flavors and inventive combinations that make every meal memorable. The lively
+  vibe and welcoming service create a fun environment perfect for casual outings
+  or groups, with many highlighting the value of happy hour deals and variety in
+  the menu. Feedback often mentions standout dishes like specialty rolls and
+  ramen, which deliver a satisfying mix of taste and portion sizes that leave
+  diners coming back for more. Overall, it's a go-to spot for those searching
+  for top-rated sushi options nearby, offering a positive and enjoyable
+  experience that balances affordability with delicious results.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidParkingLot: true
   freeStreetParking: true
@@ -446,8 +479,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Casual option dispensing traditional sushi, signature rolls & cooked Japanese
   fare including ramen.
 

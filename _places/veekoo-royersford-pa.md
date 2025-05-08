@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Veekoo"
+title: Veekoo
 permalink: /pennsylvania/royersford/veekoo.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Royersford
 seo:
-  name: "Veekoo"
-  type: Restaurant
-  links: null
-description: "Veekoo serves delicious sushi in Royersford, Pennsylvania. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://veekoorestaurants.com/
 place_id: ChIJx7LbXuOPxokRCsi5C232TyU
 photos:
   - name: >-
@@ -170,22 +168,173 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c68fe35edbb2c7:0x254ff66d0bb9c80a!10e5
 primary_type: Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:30 AM – 9:30 PM'
+    - 'Tuesday: 11:30 AM – 9:30 PM'
+    - 'Wednesday: 11:30 AM – 9:30 PM'
+    - 'Thursday: 11:30 AM – 9:30 PM'
+    - 'Friday: 11:30 AM – 10:00 PM'
+    - 'Saturday: 11:30 AM – 10:00 PM'
+    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+  - openNow: false
+    periods:
+      - open:
+          day: 1
+          hour: 11
+          minute: 30
+        close:
+          day: 1
+          hour: 15
+          minute: 0
+      - open:
+          day: 2
+          hour: 11
+          minute: 30
+        close:
+          day: 2
+          hour: 15
+          minute: 0
+      - open:
+          day: 3
+          hour: 11
+          minute: 30
+        close:
+          day: 3
+          hour: 15
+          minute: 0
+      - open:
+          day: 4
+          hour: 11
+          minute: 30
+        close:
+          day: 4
+          hour: 15
+          minute: 0
+      - open:
+          day: 5
+          hour: 11
+          minute: 30
+        close:
+          day: 5
+          hour: 15
+          minute: 0
+      - open:
+          day: 6
+          hour: 11
+          minute: 30
+        close:
+          day: 6
+          hour: 15
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 11:30 AM – 3:00 PM'
+      - 'Tuesday: 11:30 AM – 3:00 PM'
+      - 'Wednesday: 11:30 AM – 3:00 PM'
+      - 'Thursday: 11:30 AM – 3:00 PM'
+      - 'Friday: 11:30 AM – 3:00 PM'
+      - 'Saturday: 11:30 AM – 3:00 PM'
+      - 'Sunday: Closed'
+    secondaryHoursType: LUNCH
+    nextOpenTime: '2025-05-05T15:30:00Z'
+phone: (610) 948-5433
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.5'
+rating_count: 991
+website: http://veekoorestaurants.com/
+description: >-
+  About Veekoo in Royersford, PA$$$Veekoo in Royersford, PA, offers a relaxed
+  dining experience focused on Japanese and Chinese favorites, making it a go-to
+  spot for fresh sushi options in the area. This casual eatery features a BYOB
+  policy, allowing guests to enjoy their meals with personal beverage choices
+  alongside a variety of flavorful dishes. Patrons appreciate the accessible
+  ambiance and thoughtful accessibility features, such as wheelchair-friendly
+  entrances and seating, enhancing the overall visit. With convenient hours
+  extending into the evening, it's ideal for those seeking quality sushi
+  restaurants near me that blend traditional flavors with everyday appeal.
+generative_summary: >-
+  About Veekoo in Royersford, PA$$$Veekoo in Royersford, PA, offers a relaxed
+  dining experience focused on Japanese and Chinese favorites, making it a go-to
+  spot for fresh sushi options in the area. This casual eatery features a BYOB
+  policy, allowing guests to enjoy their meals with personal beverage choices
+  alongside a variety of flavorful dishes. Patrons appreciate the accessible
+  ambiance and thoughtful accessibility features, such as wheelchair-friendly
+  entrances and seating, enhancing the overall visit. With convenient hours
+  extending into the evening, it's ideal for those seeking quality sushi
+  restaurants near me that blend traditional flavors with everyday appeal.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Folks heading to this spot often rave about the
+  tasty sushi selections and other Asian-inspired dishes that keep things
+  exciting and satisfying. Many highlight the friendly service that makes every
+  meal feel welcoming and attentive, adding to the enjoyable atmosphere without
+  any fuss. It's commonly noted for offering great value with moderately priced
+  options, perfect for groups or casual outings when you're in the mood for
+  top-rated sushi. Overall, the positive vibes from diners suggest it's a solid
+  choice for anyone exploring sushi places near me, with honest feedback
+  pointing to consistently good experiences that leave you wanting to return.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +360,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

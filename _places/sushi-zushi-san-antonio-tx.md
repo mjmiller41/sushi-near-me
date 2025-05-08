@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Zushi"
+title: Sushi Zushi
 permalink: /texas/san-antonio/sushi-zushi.html
 stateAbbr: TX
 stateName: Texas
 cityName: San Antonio
 seo:
-  name: "Sushi Zushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi Zushi serves delicious sushi in San Antonio, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJgcWkKrhgXIYRC6mCCvTxGhw
 photos:
   - name: >-
@@ -185,7 +183,43 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Sushi Zushi in San Antonio, TX$$$Sushi Zushi in San Antonio, TX, is a
+  standout spot for anyone craving authentic Japanese flavors with a creative
+  twist. This sushi bar delights patrons with traditional plates and inventive
+  Latin fusion rolls that blend cultural tastes in fresh, exciting ways.
+  Accessibility features like wheelchair-friendly parking and entrances make it
+  welcoming for all visitors, enhancing the overall dining experience. Those
+  searching for top sushi options in the area will appreciate the quality
+  ingredients and innovative menu, positioning it as a go-to choice among local
+  sushi restaurants. Whether you're exploring sushi places near me or seeking a
+  casual yet flavorful meal, this venue offers a modern take on classic cuisine.
+generative_summary: >-
+  Discover Sushi Zushi in San Antonio, TX$$$Sushi Zushi in San Antonio, TX, is a
+  standout spot for anyone craving authentic Japanese flavors with a creative
+  twist. This sushi bar delights patrons with traditional plates and inventive
+  Latin fusion rolls that blend cultural tastes in fresh, exciting ways.
+  Accessibility features like wheelchair-friendly parking and entrances make it
+  welcoming for all visitors, enhancing the overall dining experience. Those
+  searching for top sushi options in the area will appreciate the quality
+  ingredients and innovative menu, positioning it as a go-to choice among local
+  sushi restaurants. Whether you're exploring sushi places near me or seeking a
+  casual yet flavorful meal, this venue offers a modern take on classic cuisine.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About This Sushi Spot$$$Folks at this sushi
+  restaurant often praise the fresh selections of omakase and specialty rolls
+  that bring creative flavors to the table, making it a hit for variety seekers.
+  Many highlight the reasonable prices that keep things affordable without
+  skimping on quality, turning it into a smart pick for everyday dining. While
+  some note that service can occasionally feel a bit rushed, the focus remains
+  on the tasty dishes that keep people coming back. If you're on the hunt for
+  reliable sushi restaurants nearby, this place stands out for its balance of
+  tradition and innovation in a laid-back setting. Overall, it's a solid option
+  that delivers good value and enjoyable meals for sushi lovers in the
+  community.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +245,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

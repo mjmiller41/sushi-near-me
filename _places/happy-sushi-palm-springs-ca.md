@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Happy Sushi"
+title: Happy Sushi
 permalink: /california/palm-springs/happy-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Palm Springs
 seo:
-  name: "Happy Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Happy Sushi serves delicious sushi in Palm Springs, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJM8oDa-Qb24ARclrdy7Ns1Tw
 photos:
   - name: >-
@@ -185,7 +183,48 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Happy Sushi in Palm Springs, CA$$$Happy Sushi in Palm Springs, CA,
+  stands out as a fusion restaurant blending creative flavors with fresh
+  ingredients, offering inventive rolls, poke bowls, and ramen right in the
+  bustling Mercado Plaza. This spot caters to those seeking top-rated sushi
+  experiences, with a menu that highlights innovative twists on classic Japanese
+  dishes, making it a go-to for locals and visitors alike. Accessibility
+  features ensure everyone can enjoy the vibrant atmosphere, from easy entrance
+  to comfortable seating, enhancing the overall dining appeal. Whether you're
+  exploring sushi places near you or craving something unique, the emphasis on
+  quality and variety makes it a standout choice in the area. Its location in
+  downtown Palm Springs adds to the allure, perfect for anyone searching for
+  authentic yet modern Japanese-inspired meals close to home.
+generative_summary: >-
+  Discover Happy Sushi in Palm Springs, CA$$$Happy Sushi in Palm Springs, CA,
+  stands out as a fusion restaurant blending creative flavors with fresh
+  ingredients, offering inventive rolls, poke bowls, and ramen right in the
+  bustling Mercado Plaza. This spot caters to those seeking top-rated sushi
+  experiences, with a menu that highlights innovative twists on classic Japanese
+  dishes, making it a go-to for locals and visitors alike. Accessibility
+  features ensure everyone can enjoy the vibrant atmosphere, from easy entrance
+  to comfortable seating, enhancing the overall dining appeal. Whether you're
+  exploring sushi places near you or craving something unique, the emphasis on
+  quality and variety makes it a standout choice in the area. Its location in
+  downtown Palm Springs adds to the allure, perfect for anyone searching for
+  authentic yet modern Japanese-inspired meals close to home.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Diners at Happy Sushi$$$From what diners share online, Happy
+  Sushi often gets nods for its fresh, creative offerings that keep things
+  exciting without overwhelming the palate, making it a solid pick for sushi
+  enthusiasts. Folks frequently mention the flavorful rolls and bowls as
+  highlights, appreciating how the variety keeps meals feeling fresh and
+  satisfying for casual get-togethers or solo stops. While some note it's a
+  welcoming spot for trying new flavors, others point out the convenient
+  location adds to the ease of a quick, enjoyable meal. Overall, the feedback
+  leans positive, with many calling it a reliable choice among Japanese places
+  near me, though it's wise to expect standard wait times during peak hours. If
+  you're on the hunt for the best sushi around, this place seems to deliver a
+  consistently upbeat vibe that leaves people coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +250,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

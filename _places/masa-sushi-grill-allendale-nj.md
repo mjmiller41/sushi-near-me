@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Masa Sushi & Grill"
+title: Masa Sushi & Grill
 permalink: /new-jersey/allendale/masa-sushi-grill.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Allendale
 seo:
-  name: "Masa Sushi & Grill"
-  type: Restaurant
+  type: restaurant
   links: http://www.masasushiandgrill.com/
-description: "Masa Sushi & Grill serves delicious sushi in Allendale, New Jersey. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJjRQrbovjwokR7qxYH84Cvz0
 photos:
   - name: >-
@@ -170,7 +168,113 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c2e38b6e2b148d:0x3dbf02ce1f58acee!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 12
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 0
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 12
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 12
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 12
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 12
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 14
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 12:00 – 2:00 PM, 5:00 – 9:00 PM'
     - 'Tuesday: 12:00 – 2:00 PM, 5:00 – 9:00 PM'
     - 'Wednesday: 12:00 – 2:00 PM, 5:00 – 9:00 PM'
@@ -178,14 +282,7 @@ opening_hours:
     - 'Friday: 12:00 – 2:00 PM, 5:00 – 9:30 PM'
     - 'Saturday: 12:00 – 2:00 PM, 5:00 – 9:30 PM'
     - 'Sunday: 5:00 – 9:00 PM'
-  current:
-    - 'Monday: 12:00 – 2:00 PM, 5:00 – 9:00 PM'
-    - 'Tuesday: 12:00 – 2:00 PM, 5:00 – 9:00 PM'
-    - 'Wednesday: 12:00 – 2:00 PM, 5:00 – 9:00 PM'
-    - 'Thursday: 12:00 – 2:00 PM, 5:00 – 9:00 PM'
-    - 'Friday: 12:00 – 2:00 PM, 5:00 – 9:30 PM'
-    - 'Saturday: 12:00 – 2:00 PM, 5:00 – 9:30 PM'
-    - 'Sunday: 5:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T01:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +294,46 @@ phone: (201) 934-6616
 price_level: PRICE_LEVEL_MODERATE
 price_range: $30 &ndash; $50
 rating: '4.4'
-rating_count: 0
+rating_count: 343
 website: http://www.masasushiandgrill.com/
+description: >-
+  Discover Masa Sushi & Grill in Allendale, New Jersey$$$Masa Sushi & Grill in
+  Allendale, NJ, stands out as a welcoming spot for enjoying fresh Japanese
+  dishes in a relaxed setting. This sushi restaurant features an array of
+  authentic flavors, including high-quality imported fish and select live
+  seafood options that highlight the best of Japanese culinary traditions.
+  Visitors can savor a variety of rolls and grilled specialties, making it a
+  go-to choice for those seeking flavorful sushi experiences close to home. The
+  spot emphasizes accessibility with wheelchair-friendly features, ensuring a
+  comfortable visit for everyone. Operating with convenient hours, it's ideal
+  for casual lunches or dinners, appealing to anyone exploring Japanese places
+  near me.
+generative_summary: >-
+  Discover Masa Sushi & Grill in Allendale, New Jersey$$$Masa Sushi & Grill in
+  Allendale, NJ, stands out as a welcoming spot for enjoying fresh Japanese
+  dishes in a relaxed setting. This sushi restaurant features an array of
+  authentic flavors, including high-quality imported fish and select live
+  seafood options that highlight the best of Japanese culinary traditions.
+  Visitors can savor a variety of rolls and grilled specialties, making it a
+  go-to choice for those seeking flavorful sushi experiences close to home. The
+  spot emphasizes accessibility with wheelchair-friendly features, ensuring a
+  comfortable visit for everyone. Operating with convenient hours, it's ideal
+  for casual lunches or dinners, appealing to anyone exploring Japanese places
+  near me.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About This Spot$$$Visitors to this sushi restaurant
+  often rave about the fresh and flavorful dishes that make it one of the
+  top-rated options for sushi lovers in the area. Many appreciate the variety of
+  creative rolls and grilled items that deliver a satisfying mix of tastes
+  without overwhelming the palate. While some note that prices lean toward the
+  moderate side, the overall value and quality keep diners coming back for more.
+  Feedback highlights the welcoming atmosphere and efficient service, adding to
+  the enjoyable experience for groups or solo outings. If you're on the hunt for
+  the best sushi near me, this place consistently earns praise for its reliable
+  flavors and positive vibes, making it a solid pick for your next meal out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +359,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

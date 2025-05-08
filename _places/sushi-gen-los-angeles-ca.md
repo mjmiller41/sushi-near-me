@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Gen"
+title: Sushi Gen
 permalink: /california/los-angeles/sushi-gen.html
 stateAbbr: CA
 stateName: California
 cityName: Los Angeles
 seo:
-  name: "Sushi Gen"
-  type: Restaurant
+  type: restaurant
   links: http://www.sushigen-dtla.com/
-description: "Sushi Gen serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJnQsVUDjGwoARcEGiOJrPzZY
 photos:
   - name: >-
@@ -170,7 +168,81 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c2c63850150b9d:0x96cdcf9a38a24170!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 20
+        minute: 30
+    - open:
+        day: 6
+        hour: 16
+        minute: 0
+      close:
+        day: 6
+        hour: 20
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:00 AM – 2:00 PM, 5:00 – 8:30 PM'
     - 'Wednesday: 11:00 AM – 2:00 PM, 5:00 – 8:30 PM'
@@ -178,14 +250,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 2:00 PM, 5:00 – 8:30 PM'
     - 'Saturday: 4:00 – 8:30 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:00 AM – 2:00 PM, 5:00 – 8:30 PM'
-    - 'Wednesday: 11:00 AM – 2:00 PM, 5:00 – 8:30 PM'
-    - 'Thursday: 11:00 AM – 2:00 PM, 5:00 – 8:30 PM'
-    - 'Friday: 11:00 AM – 2:00 PM, 5:00 – 8:30 PM'
-    - 'Saturday: 4:00 – 8:30 PM'
-    - 'Sunday: Closed'
+  nextOpenTime: '2025-05-03T23:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +262,375 @@ phone: (213) 617-0552
 price_level: PRICE_LEVEL_EXPENSIVE
 price_range: null
 rating: '4.6'
-rating_count: 0
+rating_count: 1599
 website: http://www.sushigen-dtla.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Sushi Gen in Los Angeles, CA$$$Nestled in the heart of Los Angeles,
+  CA, Sushi Gen offers a welcoming spot for those seeking authentic Japanese
+  flavors and fresh seafood options. This casual eatery specializes in generous
+  portions of high-quality sushi and classic dishes, complemented by a selection
+  of beer and sake to enhance your meal. With its focus on traditional
+  preparations and affordable lunch specials, it's an ideal choice for anyone
+  exploring top-rated sushi restaurants in the area. The venue also prioritizes
+  accessibility, featuring wheelchair-friendly entrances and seating, making it
+  easier for everyone to enjoy a relaxed dining experience. Whether you're
+  looking for sushi places near me or simply craving a reliable spot for
+  Japanese cuisine, Sushi Gen delivers a straightforward yet memorable vibe.
+generative_summary: >-
+  Discover Sushi Gen in Los Angeles, CA$$$Nestled in the heart of Los Angeles,
+  CA, Sushi Gen offers a welcoming spot for those seeking authentic Japanese
+  flavors and fresh seafood options. This casual eatery specializes in generous
+  portions of high-quality sushi and classic dishes, complemented by a selection
+  of beer and sake to enhance your meal. With its focus on traditional
+  preparations and affordable lunch specials, it's an ideal choice for anyone
+  exploring top-rated sushi restaurants in the area. The venue also prioritizes
+  accessibility, featuring wheelchair-friendly entrances and seating, making it
+  easier for everyone to enjoy a relaxed dining experience. Whether you're
+  looking for sushi places near me or simply craving a reliable spot for
+  Japanese cuisine, Sushi Gen delivers a straightforward yet memorable vibe.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJnQsVUDjGwoARcEGiOJrPzZY/reviews/ChdDSUhNMG9nS0VJQ0FnTURvN3U3X3FnRRAB
+    relativePublishTimeDescription: a week ago
+    rating: 3
+    text:
+      text: >-
+        So I’m coming back from Downey (don’t ask), handling some property
+        stuff, and I call up a friend. He just happens to be nearby, and like
+        true sushi soldiers, we decide to meet at Sushi Gen — because of course,
+        that’s what everyone does when they’re within a 10-mile radius of Little
+        Tokyo and feel like standing around hungry for 45 minutes questioning
+        their life decisions.
+
+
+        The wait? Classic. 30–45 minutes, which gives you just enough time to
+        spiral into existential dread while the host gives zero indication you
+        even exist. But finally — we get seated. It was my friend’s first time.
+        He’s a hardcore sushi guy, like the kind who judges you if you say
+        “sushi roll” with too much excitement. We both ordered the hamachi kama
+        (yellowtail collar), sashimi set, and sprinkled in some extra bits of
+        raw sea treasure.
+
+
+        Here’s the thing: Sushi Gen is good. The kind of good that makes you nod
+        in polite satisfaction while thinking, “Yeah, okay, I get it.” But in
+        today’s world of sushi arms races and omakase wars, being consistently
+        good is starting to feel like showing up to a Formula 1 race in a Toyota
+        Camry. Reliable, yes. Exciting? Meh.
+
+
+        Fish quality? Still solid. Experience? Nostalgic and humble. But if
+        you’ve had a tour through LA’s newer spots, it’s hard not to notice
+        Sushi Gen’s staying kind of… still. I give it a respectful 3.8 stars. My
+        friend? Brutal. A hard 2 and said he’s never going back. Might’ve been
+        the wasabi betrayal. Who knows.
+
+
+        But since you made it this far, let me reward you.
+
+        If you want a spot that blows Sushi Gen out of the miso soup — go to
+        Fisherman’s Table in Huntington Beach. That place is criminally
+        underrated. Like, “why is this not packed every night” levels of good.
+        You’re welcome. Now forget I told you.
+      languageCode: en
+    originalText:
+      text: >-
+        So I’m coming back from Downey (don’t ask), handling some property
+        stuff, and I call up a friend. He just happens to be nearby, and like
+        true sushi soldiers, we decide to meet at Sushi Gen — because of course,
+        that’s what everyone does when they’re within a 10-mile radius of Little
+        Tokyo and feel like standing around hungry for 45 minutes questioning
+        their life decisions.
+
+
+        The wait? Classic. 30–45 minutes, which gives you just enough time to
+        spiral into existential dread while the host gives zero indication you
+        even exist. But finally — we get seated. It was my friend’s first time.
+        He’s a hardcore sushi guy, like the kind who judges you if you say
+        “sushi roll” with too much excitement. We both ordered the hamachi kama
+        (yellowtail collar), sashimi set, and sprinkled in some extra bits of
+        raw sea treasure.
+
+
+        Here’s the thing: Sushi Gen is good. The kind of good that makes you nod
+        in polite satisfaction while thinking, “Yeah, okay, I get it.” But in
+        today’s world of sushi arms races and omakase wars, being consistently
+        good is starting to feel like showing up to a Formula 1 race in a Toyota
+        Camry. Reliable, yes. Exciting? Meh.
+
+
+        Fish quality? Still solid. Experience? Nostalgic and humble. But if
+        you’ve had a tour through LA’s newer spots, it’s hard not to notice
+        Sushi Gen’s staying kind of… still. I give it a respectful 3.8 stars. My
+        friend? Brutal. A hard 2 and said he’s never going back. Might’ve been
+        the wasabi betrayal. Who knows.
+
+
+        But since you made it this far, let me reward you.
+
+        If you want a spot that blows Sushi Gen out of the miso soup — go to
+        Fisherman’s Table in Huntington Beach. That place is criminally
+        underrated. Like, “why is this not packed every night” levels of good.
+        You’re welcome. Now forget I told you.
+      languageCode: en
+    authorAttribution:
+      displayName: Darius Faramarz
+      uri: https://www.google.com/maps/contrib/100072858330735321306/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVNuVQ0uQbWIjtCXJlTwNMCwtaLz8XaSqEXIvk1N3Q6XCQ_xSYV=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-25T04:25:44.296153Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURvN3U3X3FnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURvN3U3X3FnRRAB!2m1!1s0x80c2c63850150b9d:0x96cdcf9a38a24170
+  - name: >-
+      places/ChIJnQsVUDjGwoARcEGiOJrPzZY/reviews/ChZDSUhNMG9nS0VJQ0FnTURJcV9XT1ZnEAE
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        Truly perfect. Felt like I was back in Japan again. Sushi was a true
+        10/10, no question. The quality, the selection, the freshness, etc were
+        all perfect. The service was just as good. I was served and attended to
+        like I was the only person in the restaurant despite there not being a
+        single empty seat. If you’re looking for your go-to sushi spot that’s
+        authentic and not some tuned up LA nonsense, this is it.
+      languageCode: en
+    originalText:
+      text: >-
+        Truly perfect. Felt like I was back in Japan again. Sushi was a true
+        10/10, no question. The quality, the selection, the freshness, etc were
+        all perfect. The service was just as good. I was served and attended to
+        like I was the only person in the restaurant despite there not being a
+        single empty seat. If you’re looking for your go-to sushi spot that’s
+        authentic and not some tuned up LA nonsense, this is it.
+      languageCode: en
+    authorAttribution:
+      displayName: Robert White
+      uri: https://www.google.com/maps/contrib/117028461540926037451/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIMVsVnDe6FHFlsvl0r8d3eFq7adIRWwm4o0iRh2OSySsURrg=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-13T04:27:33.451659Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURJcV9XT1ZnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJcV9XT1ZnEAE!2m1!1s0x80c2c63850150b9d:0x96cdcf9a38a24170
+  - name: >-
+      places/ChIJnQsVUDjGwoARcEGiOJrPzZY/reviews/ChZDSUhNMG9nS0VJQ0FnTURnOVBQUVBBEAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        first time coming here and it was amazing
+
+        my boyfriend and i tried this place and we got there during happy hour
+        so we did the omakase option that comes with a variety of nigiri, a miso
+        soup and a hand roll. ALL AMAZINGGG
+
+        we did also shishito peppers, and crispy tuna rice. they were perfectly
+        made. then we had green tea mochi and the lady was kind enough to add
+        the lychee icecream because she really wanted us to try it. everything
+        was so delicious and they were all so sweet.
+
+        i was so happy i found this place and would definitely come again ❤️
+      languageCode: en
+    originalText:
+      text: >-
+        first time coming here and it was amazing
+
+        my boyfriend and i tried this place and we got there during happy hour
+        so we did the omakase option that comes with a variety of nigiri, a miso
+        soup and a hand roll. ALL AMAZINGGG
+
+        we did also shishito peppers, and crispy tuna rice. they were perfectly
+        made. then we had green tea mochi and the lady was kind enough to add
+        the lychee icecream because she really wanted us to try it. everything
+        was so delicious and they were all so sweet.
+
+        i was so happy i found this place and would definitely come again ❤️
+      languageCode: en
+    authorAttribution:
+      displayName: Becca John
+      uri: https://www.google.com/maps/contrib/113517129014236478737/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVFz_AlvgmXmZWti1l4fx5QBisd39CO4fgYaPsgwnGqzf_hw2t3=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-02-22T22:29:35.871437Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURnOVBQUVBBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURnOVBQUVBBEAE!2m1!1s0x80c2c63850150b9d:0x96cdcf9a38a24170
+  - name: >-
+      places/ChIJnQsVUDjGwoARcEGiOJrPzZY/reviews/ChdDSUhNMG9nS0VJQ0FnSUMzME42QXFBRRAB
+    relativePublishTimeDescription: 6 months ago
+    rating: 4
+    text:
+      text: >-
+        It had been some time since I ate lunch at Sushi Gen primarily because
+        of the challenge of getting downtown from the westside, and also due to
+        the massive amount of people who go there for their incredible sashimi
+        lunch special. But with the Dodgers championship parade today and the
+        need to wait out the throngs of people before I could leave the area, I
+        waited a very short time before getting the first available space, which
+        was a seat at the sushi bar (no lunch special at the bar).
+
+
+        Sushi Gen is a timeless classic. It is so reliable for a great variety
+        of fresh, authentic sushi at what I consider throwback prices. You won't
+        find any crazy rolls or sauces here, all the better to allow the chefs
+        to focus on the essence of the fish which is best experienced unadorned
+        in my opinion.
+
+
+        I had eight orders, including varieties rarely found at other Japanese
+        restaurants in LA (including engawa, kohada, sardine and shima aji).
+        Feeling very satisfied and impressed by the consistency of the
+        experience so many years apart, I was pleasantly surprised (there are no
+        prices on the sushi menu at the bar) to see a pretax and tip bill of $66
+        which averages out to just over $8 per order - a steal for this quality,
+        freshness and variety.
+
+
+        The only drawback is that it is very crowded, which is not surprising
+        given that the sushi is as good as it gets in LA. In order to
+        accommodate as many people as possible, they really squeeze people in at
+        the sushi bar and the tables in the relatively small dining room are
+        also tightly packed. Service is almost too efficient as they are eager
+        to accommodate the many people waiting outside.
+
+
+        For me, the most accurate rating for Sushi Gen would be 4.5 if 1/2 stars
+        were possible as these crowded conditions are less than ideal for what
+        should be a more serene experience. But that won't deter me from finding
+        a reason to be downtown so I can go back soon.
+      languageCode: en
+    originalText:
+      text: >-
+        It had been some time since I ate lunch at Sushi Gen primarily because
+        of the challenge of getting downtown from the westside, and also due to
+        the massive amount of people who go there for their incredible sashimi
+        lunch special. But with the Dodgers championship parade today and the
+        need to wait out the throngs of people before I could leave the area, I
+        waited a very short time before getting the first available space, which
+        was a seat at the sushi bar (no lunch special at the bar).
+
+
+        Sushi Gen is a timeless classic. It is so reliable for a great variety
+        of fresh, authentic sushi at what I consider throwback prices. You won't
+        find any crazy rolls or sauces here, all the better to allow the chefs
+        to focus on the essence of the fish which is best experienced unadorned
+        in my opinion.
+
+
+        I had eight orders, including varieties rarely found at other Japanese
+        restaurants in LA (including engawa, kohada, sardine and shima aji).
+        Feeling very satisfied and impressed by the consistency of the
+        experience so many years apart, I was pleasantly surprised (there are no
+        prices on the sushi menu at the bar) to see a pretax and tip bill of $66
+        which averages out to just over $8 per order - a steal for this quality,
+        freshness and variety.
+
+
+        The only drawback is that it is very crowded, which is not surprising
+        given that the sushi is as good as it gets in LA. In order to
+        accommodate as many people as possible, they really squeeze people in at
+        the sushi bar and the tables in the relatively small dining room are
+        also tightly packed. Service is almost too efficient as they are eager
+        to accommodate the many people waiting outside.
+
+
+        For me, the most accurate rating for Sushi Gen would be 4.5 if 1/2 stars
+        were possible as these crowded conditions are less than ideal for what
+        should be a more serene experience. But that won't deter me from finding
+        a reason to be downtown so I can go back soon.
+      languageCode: en
+    authorAttribution:
+      displayName: John Amer
+      uri: https://www.google.com/maps/contrib/115494367205797334460/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIdRKf45YY8LEQKtQkG_mkKByPO1y4qeb1u6CqGa5qQ3Yw9BA=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2024-11-02T01:36:12.492038Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMzME42QXFBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMzME42QXFBRRAB!2m1!1s0x80c2c63850150b9d:0x96cdcf9a38a24170
+  - name: >-
+      places/ChIJnQsVUDjGwoARcEGiOJrPzZY/reviews/ChZDSUhNMG9nS0VJQ0FnTURJemYyZVZBEAE
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 5
+    text:
+      text: >-
+        It's in the Little Tokyo District. I went there at the recommendation of
+        a local friend, but there is a minimum charge at the dinner bar. Four
+        orders are essential, but it is difficult for tourists to use them. It's
+        inconvenient that there's no price on the order form and there's no
+        explanation or picture on the menu.
+      languageCode: en
+    originalText:
+      text: >-
+        It's in the Little Tokyo District. I went there at the recommendation of
+        a local friend, but there is a minimum charge at the dinner bar. Four
+        orders are essential, but it is difficult for tourists to use them. It's
+        inconvenient that there's no price on the order form and there's no
+        explanation or picture on the menu.
+      languageCode: en
+    authorAttribution:
+      displayName: 노로로
+      uri: https://www.google.com/maps/contrib/100211469213886294757/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVOFyVE2aM42WsgiDKkmrWXl5YpE-CnwHGWwoKT47UVEcHFKZw=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-04-12T04:36:00.176578Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURJemYyZVZBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJemYyZVZBEAE!2m1!1s0x80c2c63850150b9d:0x96cdcf9a38a24170
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors often rave about the fresh fish and
+  authentic sushi selections at this spot, highlighting how the quality makes
+  every bite feel truly satisfying and true to tradition. While some mention
+  occasional waits due to its popularity, the efficient service and generous
+  portions keep the overall experience enjoyable and worth the visit. Many
+  appreciate the value, especially during lunch hours, where deals on items like
+  omakase add to the appeal without breaking the bank. Feedback generally
+  praises the welcoming atmosphere and variety of options, making it a go-to for
+  those hunting for best sushi near me. All in all, it's a solid choice that
+  delivers on flavor and reliability, encouraging repeat trips for anyone in the
+  mood for quality Japanese fare.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  paidParkingLot: true
+  paidStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: false
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+delivery: false
+dine_in: true
+good_for_children: false
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: false
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: false
+serves_coffee: false
+serves_dinner: true
+serves_dessert: false
+serves_lunch: true
+serves_vegetarian_food: false
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Locals line up at this simple sushi bar, known for traditional Japanese
+  preparations & lunch deals.
 
 ---

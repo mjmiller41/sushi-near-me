@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kona Grill - Cincinnati"
+title: Kona Grill - Cincinnati
 permalink: /ohio/liberty-township/kona-grill-cincinnati.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Liberty Township
 seo:
-  name: "Kona Grill - Cincinnati"
-  type: Restaurant
-  links: null
-description: "Kona Grill - Cincinnati serves delicious sushi in Liberty Township, Ohio. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://konagrill.com/locations?locations=Liberty-Township
 place_id: ChIJTbGT2D9aQIgR56dzMTBN5g8
 photos:
   - name: >-
@@ -170,22 +168,302 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x88405a3fd893b14d:0xfe64d303173a7e7!10e5
 primary_type: American Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 23
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 23
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 23
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 23
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 23
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:30 AM – 11:00 PM'
+    - 'Tuesday: 11:30 AM – 11:00 PM'
+    - 'Wednesday: 11:30 AM – 11:00 PM'
+    - 'Thursday: 11:30 AM – 11:00 PM'
+    - 'Friday: 11:30 AM – 11:00 PM'
+    - 'Saturday: 11:30 AM – 11:00 PM'
+    - 'Sunday: 11:30 AM – 11:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+  - openNow: false
+    periods:
+      - open:
+          day: 0
+          hour: 21
+          minute: 0
+        close:
+          day: 1
+          hour: 0
+          minute: 0
+      - open:
+          day: 1
+          hour: 14
+          minute: 0
+        close:
+          day: 1
+          hour: 18
+          minute: 0
+      - open:
+          day: 1
+          hour: 21
+          minute: 0
+        close:
+          day: 1
+          hour: 23
+          minute: 0
+      - open:
+          day: 2
+          hour: 14
+          minute: 0
+        close:
+          day: 2
+          hour: 18
+          minute: 0
+      - open:
+          day: 2
+          hour: 21
+          minute: 0
+        close:
+          day: 2
+          hour: 23
+          minute: 0
+      - open:
+          day: 3
+          hour: 14
+          minute: 0
+        close:
+          day: 3
+          hour: 18
+          minute: 0
+      - open:
+          day: 3
+          hour: 21
+          minute: 0
+        close:
+          day: 3
+          hour: 23
+          minute: 0
+      - open:
+          day: 4
+          hour: 14
+          minute: 0
+        close:
+          day: 4
+          hour: 18
+          minute: 0
+      - open:
+          day: 4
+          hour: 21
+          minute: 0
+        close:
+          day: 4
+          hour: 23
+          minute: 0
+      - open:
+          day: 5
+          hour: 14
+          minute: 0
+        close:
+          day: 5
+          hour: 18
+          minute: 0
+      - open:
+          day: 5
+          hour: 21
+          minute: 0
+        close:
+          day: 5
+          hour: 23
+          minute: 0
+      - open:
+          day: 6
+          hour: 21
+          minute: 0
+        close:
+          day: 6
+          hour: 23
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 2:00 – 6:00 PM, 9:00 – 11:00 PM'
+      - 'Tuesday: 2:00 – 6:00 PM, 9:00 – 11:00 PM'
+      - 'Wednesday: 2:00 – 6:00 PM, 9:00 – 11:00 PM'
+      - 'Thursday: 2:00 – 6:00 PM, 9:00 – 11:00 PM'
+      - 'Friday: 2:00 – 6:00 PM, 9:00 – 11:00 PM'
+      - 'Saturday: 9:00 – 11:00 PM'
+      - 'Sunday: 9:00 PM – 12:00 AM'
+    secondaryHoursType: HAPPY_HOUR
+    nextOpenTime: '2025-05-04T01:00:00Z'
+  - openNow: false
+    periods:
+      - open:
+          day: 0
+          hour: 11
+          minute: 30
+        close:
+          day: 0
+          hour: 14
+          minute: 0
+      - open:
+          day: 6
+          hour: 11
+          minute: 30
+        close:
+          day: 6
+          hour: 14
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: Closed'
+      - 'Tuesday: Closed'
+      - 'Wednesday: Closed'
+      - 'Thursday: Closed'
+      - 'Friday: Closed'
+      - 'Saturday: 11:30 AM – 2:00 PM'
+      - 'Sunday: 11:30 AM – 2:00 PM'
+    secondaryHoursType: BRUNCH
+    nextOpenTime: '2025-05-04T15:30:00Z'
+  - openNow: false
+    periods:
+      - open:
+          day: 1
+          hour: 11
+          minute: 30
+        close:
+          day: 1
+          hour: 14
+          minute: 0
+      - open:
+          day: 2
+          hour: 11
+          minute: 30
+        close:
+          day: 2
+          hour: 14
+          minute: 0
+      - open:
+          day: 3
+          hour: 11
+          minute: 30
+        close:
+          day: 3
+          hour: 14
+          minute: 0
+      - open:
+          day: 4
+          hour: 11
+          minute: 30
+        close:
+          day: 4
+          hour: 14
+          minute: 0
+      - open:
+          day: 5
+          hour: 11
+          minute: 30
+        close:
+          day: 5
+          hour: 14
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 11:30 AM – 2:00 PM'
+      - 'Tuesday: 11:30 AM – 2:00 PM'
+      - 'Wednesday: 11:30 AM – 2:00 PM'
+      - 'Thursday: 11:30 AM – 2:00 PM'
+      - 'Friday: 11:30 AM – 2:00 PM'
+      - 'Saturday: Closed'
+      - 'Sunday: Closed'
+    secondaryHoursType: LUNCH
+    nextOpenTime: '2025-05-05T15:30:00Z'
+phone: (513) 322-5860
+price_level: PRICE_LEVEL_MODERATE
+price_range: $30 &ndash; $50
+rating: '4.5'
+rating_count: 4734
+website: https://konagrill.com/locations?locations=Liberty-Township
+description: >-
+  Discover Kona Grill in Liberty Township, OH$$$Kona Grill in Liberty Township,
+  OH, is a popular dining spot offering a global-inspired menu with fresh sushi,
+  steaks, and seafood in an upscale casual atmosphere. This restaurant stands
+  out for its diverse selection of dishes that blend international flavors,
+  making it an excellent choice for those seeking quality sushi options near
+  you. With accessibility features like wheelchair-friendly parking and
+  entrances, it ensures a welcoming experience for all visitors. The extended
+  hours from late morning to evening provide flexibility for lunch, dinner, or
+  even a relaxed evening out, appealing to fans of top-rated sushi restaurants
+  in the area.
+generative_summary: >-
+  Discover Kona Grill in Liberty Township, OH$$$Kona Grill in Liberty Township,
+  OH, is a popular dining spot offering a global-inspired menu with fresh sushi,
+  steaks, and seafood in an upscale casual atmosphere. This restaurant stands
+  out for its diverse selection of dishes that blend international flavors,
+  making it an excellent choice for those seeking quality sushi options near
+  you. With accessibility features like wheelchair-friendly parking and
+  entrances, it ensures a welcoming experience for all visitors. The extended
+  hours from late morning to evening provide flexibility for lunch, dinner, or
+  even a relaxed evening out, appealing to fans of top-rated sushi restaurants
+  in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Sharing$$$Visitors often praise the flavorful sushi and
+  other menu highlights like fresh rolls and rice dishes, noting how they add to
+  a satisfying meal at this spot. Many appreciate the attentive service that
+  keeps the vibe lively and engaging, enhancing the overall dining experience.
+  The atmosphere is frequently described as energetic and enjoyable, making it a
+  great pick for groups or casual outings. While opinions can vary, the general
+  feedback remains positive, with plenty of mentions of the tasty offerings that
+  make it worth trying for anyone exploring sushi places nearby.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +489,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

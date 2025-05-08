@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Gtown Sushi & Poke"
+title: Gtown Sushi & Poke
 permalink: /district-of-columbia/washington/gtown-sushi-poke.html
 stateAbbr: DC
 stateName: District of Columbia
 cityName: Washington
 seo:
-  name: "Gtown Sushi & Poke"
-  type: Restaurant
+  type: restaurant
   links: https://gtownsushipoke.com/
-description: "Gtown Sushi & Poke serves delicious sushi in Washington, District of Columbia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ8_PX4oq3t4kRi7rXiXDKd64
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $10 &ndash; $20
 rating: '4.9'
 rating_count: 0
 website: https://gtownsushipoke.com/
+description: >-
+  Discover Gtown Sushi & Poke in Washington, DC$$$Gtown Sushi & Poke in
+  Washington, DC, stands out as a welcoming Japanese eatery specializing in
+  fresh sushi and poke bowls that highlight high-quality ingredients and
+  creative flavors. This spot offers a variety of Asian-inspired dishes,
+  including satisfying rolls and ramen, perfect for those seeking a casual meal
+  in the vibrant Georgetown area. With its cozy atmosphere and affordable
+  pricing, it's an ideal choice for anyone looking for a relaxed dining
+  experience without breaking the bank. Accessibility features like
+  wheelchair-friendly entrances and seating add to its appeal, making it easy
+  for everyone to enjoy. Whether you're searching for top-rated sushi options
+  nearby, this place delivers a delightful blend of taste and convenience.
+generative_summary: >-
+  Discover Gtown Sushi & Poke in Washington, DC$$$Gtown Sushi & Poke in
+  Washington, DC, stands out as a welcoming Japanese eatery specializing in
+  fresh sushi and poke bowls that highlight high-quality ingredients and
+  creative flavors. This spot offers a variety of Asian-inspired dishes,
+  including satisfying rolls and ramen, perfect for those seeking a casual meal
+  in the vibrant Georgetown area. With its cozy atmosphere and affordable
+  pricing, it's an ideal choice for anyone looking for a relaxed dining
+  experience without breaking the bank. Accessibility features like
+  wheelchair-friendly entrances and seating add to its appeal, making it easy
+  for everyone to enjoy. Whether you're searching for top-rated sushi options
+  nearby, this place delivers a delightful blend of taste and convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ8_PX4oq3t4kRi7rXiXDKd64/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3aUpPc2lnRRAB
@@ -362,6 +385,17 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURndy1HUGNBEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURndy1HUGNBEAE!2m1!1s0x89b7b78ae2d7f3f3:0xae77ca7089d7ba8b
+review_summary: >-
+  What Customers Love About This Sushi Spot$$$Folks rave about the fresh and
+  flavorful sushi, poke, and other dishes that make for a satisfying meal
+  without stretching the budget. Many appreciate the quick service and clean,
+  organized vibe that turns a simple lunch into a pleasant outing. Reviewers
+  often note the variety of options, like tasty rolls and ramen, which keep
+  things exciting for groups or solo diners. Overall, the welcoming atmosphere
+  and reliable quality have folks coming back, especially for affordable eats in
+  a cozy setting. If you're on the hunt for great sushi places nearby, this spot
+  consistently delivers a positive experience that's worth trying.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: false
   paidParkingLot: false
@@ -398,7 +432,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

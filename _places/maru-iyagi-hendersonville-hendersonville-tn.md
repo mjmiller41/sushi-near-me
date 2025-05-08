@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Maru Iyagi - Hendersonville"
+title: Maru Iyagi - Hendersonville
 permalink: /tennessee/hendersonville/maru-iyagi-hendersonville.html
 stateAbbr: TN
 stateName: Tennessee
 cityName: Hendersonville
 seo:
-  name: "Maru Iyagi - Hendersonville"
-  type: Restaurant
+  type: restaurant
   links: https://maruiyagi-website.web.app/
-description: "Maru Iyagi - Hendersonville serves delicious sushi in Hendersonville, Tennessee. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJRd4HrXhHZIgRIInVPEFakDA
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 0
 website: https://maruiyagi-website.web.app/
+description: >-
+  Discover Maru Iyagi in Hendersonville, TN$$$Maru Iyagi in Hendersonville, TN,
+  stands out as a casual sushi destination nestled in a vibrant shopping area,
+  offering an array of fresh rolls and healthy choices that appeal to those
+  seeking sushi near me. This spot combines accessibility features like
+  wheelchair-friendly entrances with a welcoming atmosphere, making it easy for
+  everyone to enjoy a meal. Patrons can savor a variety of expertly prepared
+  dishes, including flavorful sushi options and sake, all served in a clean and
+  well-maintained setting. With its moderate pricing and options for dine-in or
+  delivery, it's become a go-to for anyone exploring top-rated sushi restaurants
+  in the area. Whether you're in the mood for a quick lunch or a relaxed dinner,
+  this Japanese-inspired eatery delivers a satisfying experience that highlights
+  fresh ingredients and thoughtful presentations.
+generative_summary: >-
+  Discover Maru Iyagi in Hendersonville, TN$$$Maru Iyagi in Hendersonville, TN,
+  stands out as a casual sushi destination nestled in a vibrant shopping area,
+  offering an array of fresh rolls and healthy choices that appeal to those
+  seeking sushi near me. This spot combines accessibility features like
+  wheelchair-friendly entrances with a welcoming atmosphere, making it easy for
+  everyone to enjoy a meal. Patrons can savor a variety of expertly prepared
+  dishes, including flavorful sushi options and sake, all served in a clean and
+  well-maintained setting. With its moderate pricing and options for dine-in or
+  delivery, it's become a go-to for anyone exploring top-rated sushi restaurants
+  in the area. Whether you're in the mood for a quick lunch or a relaxed dinner,
+  this Japanese-inspired eatery delivers a satisfying experience that highlights
+  fresh ingredients and thoughtful presentations.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJRd4HrXhHZIgRIInVPEFakDA/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRZ1plUmZnEAE
@@ -376,6 +401,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURGbUpfSExBEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURGbUpfSExBEAE!2m1!1s0x88644778ad07de45:0x30905a413cd58920
+review_summary: >-
+  What Customers Are Saying About This Sushi Spot$$$Folks rave about the
+  delicious variety of sushi rolls and sides like fried rice, often noting how
+  fresh and well-prepared everything tastes at this local favorite. Many
+  appreciate the friendly and efficient service that keeps things running
+  smoothly, even during busy times, making it a welcoming choice for casual
+  visits. Reviewers frequently mention the great value, with affordable specials
+  that make it easy to try new dishes without breaking the bank. Overall, the
+  atmosphere feels clean and comfortable, enhancing the enjoyment of meals
+  whether you're grabbing takeout or dining in. While experiences can vary, the
+  consistent praise for quality and service keeps this spot high on the list for
+  anyone hunting for reliable sushi places near me.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -408,7 +446,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

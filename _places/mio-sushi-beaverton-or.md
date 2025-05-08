@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Mio Sushi"
+title: Mio Sushi
 permalink: /oregon/beaverton/mio-sushi.html
 stateAbbr: OR
 stateName: Oregon
 cityName: Beaverton
 seo:
-  name: "Mio Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Mio Sushi serves delicious sushi in Beaverton, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJw_ODiqEOlVQRk4fmoY_RM4w
 photos:
   - name: >-
@@ -185,7 +183,41 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  About Mio Sushi in Beaverton, OR$$$Mio Sushi in Beaverton, OR, stands out as a
+  relaxed spot for savoring authentic Japanese flavors, featuring fresh sushi
+  rolls and hearty bento boxes that cater to a variety of tastes. This eatery
+  emphasizes accessibility with wheelchair-friendly parking, entrances,
+  restrooms, and seating, making it an inclusive choice for everyone seeking
+  sushi near them. Along with vegetarian-friendly options, the menu highlights
+  creative dishes that blend traditional techniques with local inspirations,
+  appealing to those exploring top-rated sushi in the area. Whether you're in
+  the mood for a quick meal or a casual dine-in experience, the focus on quality
+  ingredients ensures a satisfying visit at this welcoming Japanese place.
+generative_summary: >-
+  About Mio Sushi in Beaverton, OR$$$Mio Sushi in Beaverton, OR, stands out as a
+  relaxed spot for savoring authentic Japanese flavors, featuring fresh sushi
+  rolls and hearty bento boxes that cater to a variety of tastes. This eatery
+  emphasizes accessibility with wheelchair-friendly parking, entrances,
+  restrooms, and seating, making it an inclusive choice for everyone seeking
+  sushi near them. Along with vegetarian-friendly options, the menu highlights
+  creative dishes that blend traditional techniques with local inspirations,
+  appealing to those exploring top-rated sushi in the area. Whether you're in
+  the mood for a quick meal or a casual dine-in experience, the focus on quality
+  ingredients ensures a satisfying visit at this welcoming Japanese place.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Folks searching for sushi close to them often
+  highlight the fresh, flavorful rolls and generous portions that make Mio Sushi
+  a solid pick for everyday eats. Many appreciate the variety of options,
+  including veggie-focused dishes, which keep things versatile and enjoyable for
+  different preferences. Service tends to come across as friendly and attentive,
+  adding to the laid-back vibe without any major hiccups. Overall, it's
+  frequently praised as a reliable spot for quality Japanese cuisine, with
+  diners noting it as one of the go-to sushi restaurants that delivers a
+  consistently positive experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +243,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

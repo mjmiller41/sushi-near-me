@@ -5,4 +5,5 @@ permalink: /illinois/lincolnshire/
 stateAbbr: IL
 stateName: Illinois
 cityName: Lincolnshire
+
 ---

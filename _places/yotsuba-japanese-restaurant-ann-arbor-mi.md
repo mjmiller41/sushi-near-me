@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yotsuba Japanese Restaurant"
+title: Yotsuba Japanese Restaurant
 permalink: /michigan/ann-arbor/yotsuba-japanese-restaurant.html
 stateAbbr: MI
 stateName: Michigan
 cityName: Ann Arbor
 seo:
-  name: "Yotsuba Japanese Restaurant"
-  type: Restaurant
+  type: restaurant
   links: http://www.yotsuba-restaurant.com/
-description: "Modern, minimalist space for sushi, teriyaki & more served in booths or traditional tatami rooms. Yotsuba Japanese Restaurant serves delicious sushi in Ann Arbor, Michigan. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJAeSKkSuvPIgRyMyCKfNQKv0
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 0
 website: http://www.yotsuba-restaurant.com/
+description: >-
+  Discover Yotsuba Japanese Restaurant in Ann Arbor, MI$$$Nestled in Ann Arbor,
+  MI, Yotsuba Japanese Restaurant offers a casual and inviting spot for enjoying
+  a variety of fresh sushi alongside traditional cooked dishes and refreshing
+  cocktails. This modern, minimalist venue features comfortable seating options
+  like booths and tatami rooms, making it ideal for intimate gatherings or
+  relaxed meals. With its focus on authentic flavors and moderate pricing, it's
+  a great choice for those seeking sushi restaurants near me that prioritize
+  quality and accessibility. The restaurant boasts thoughtful features such as
+  wheelchair-accessible entrances and parking, enhancing the overall dining
+  experience. Whether you're exploring Japanese places near me or looking for
+  top-rated sushi options, Yotsuba delivers a welcoming atmosphere perfect for
+  savoring flavorful meals.
+generative_summary: >-
+  Discover Yotsuba Japanese Restaurant in Ann Arbor, MI$$$Nestled in Ann Arbor,
+  MI, Yotsuba Japanese Restaurant offers a casual and inviting spot for enjoying
+  a variety of fresh sushi alongside traditional cooked dishes and refreshing
+  cocktails. This modern, minimalist venue features comfortable seating options
+  like booths and tatami rooms, making it ideal for intimate gatherings or
+  relaxed meals. With its focus on authentic flavors and moderate pricing, it's
+  a great choice for those seeking sushi restaurants near me that prioritize
+  quality and accessibility. The restaurant boasts thoughtful features such as
+  wheelchair-accessible entrances and parking, enhancing the overall dining
+  experience. Whether you're exploring Japanese places near me or looking for
+  top-rated sushi options, Yotsuba delivers a welcoming atmosphere perfect for
+  savoring flavorful meals.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJAeSKkSuvPIgRyMyCKfNQKv0/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJcU9yMkJBEAE
@@ -394,6 +419,21 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNJOUtmbFlnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNJOUtmbFlnEAE!2m1!1s0x883caf2b918ae401:0xfd2a50f32982ccc8
+review_summary: >-
+  What Visitors Are Saying About Yotsuba$$$Folks who dine at Yotsuba often
+  highlight the incredibly fresh sushi and delicious Japanese dishes that keep
+  them coming back for more, praising the spot for its authentic flavors and
+  well-prepared meals. Many appreciate the friendly service and cozy ambiance,
+  which make it a solid pick for family outings, date nights, or casual
+  get-togethers, with comments noting how it handles groups smoothly. While most
+  experiences are positive, a few mentions of occasional service timing issues
+  show that things aren't always perfect, but the overall vibe remains upbeat
+  and reliable. In general, visitors love the variety of options like specialty
+  rolls and tempura, often describing it as one of the best sushi spots around
+  for a satisfying meal. If you're on the hunt for sushi close to me that's
+  worth trying, this place gets high marks for its tasty offerings and welcoming
+  feel, making it a go-to choice despite minor hiccups.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -425,8 +465,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Modern, minimalist space for sushi, teriyaki & more served in booths or
   traditional tatami rooms.
 

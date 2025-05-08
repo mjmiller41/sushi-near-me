@@ -5,4 +5,5 @@ permalink: /indiana/mishawaka/
 stateAbbr: IN
 stateName: Indiana
 cityName: Mishawaka
+
 ---

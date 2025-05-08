@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Kazu"
+title: Sushi Kazu
 permalink: /colorado/centennial/sushi-kazu.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Centennial
 seo:
-  name: "Sushi Kazu"
-  type: Restaurant
+  type: restaurant
   links: https://sushikazu.com/
-description: "Sushi Kazu serves delicious sushi in Centennial, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ20EidQCGbIcRDt_sNjjPswc
 photos:
   - name: >-
@@ -170,7 +168,97 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x876c8600752241db:0x7b3cf3836ecdf0e!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 15
+        minute: 0
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 15
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 5:00 – 9:00 PM'
     - 'Wednesday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
@@ -178,14 +266,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
     - 'Saturday: 12:00 – 3:00 PM, 5:00 – 9:00 PM'
     - 'Sunday: 12:00 – 3:00 PM, 5:00 – 9:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 5:00 – 9:00 PM'
-    - 'Wednesday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
-    - 'Thursday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
-    - 'Friday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
-    - 'Saturday: 12:00 – 3:00 PM, 5:00 – 9:00 PM'
-    - 'Sunday: 12:00 – 3:00 PM, 5:00 – 9:00 PM'
+  nextOpenTime: '2025-05-03T23:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +278,264 @@ phone: (720) 295-7980
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.5'
-rating_count: 0
+rating_count: 523
 website: https://sushikazu.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  About Sushi Kazu in Centennial, CO$$$Sushi Kazu in Centennial, CO, stands out
+  as a welcoming spot for enjoying fresh Japanese cuisine in a relaxed
+  environment. This sushi restaurant offers a variety of rolls, udon, and other
+  authentic eats, highlighted by its casual vibe and popular happy hour deals
+  that attract locals seeking quality dining options. With accessibility
+  features like wheelchair-friendly entrances and parking, it's designed to
+  accommodate everyone looking for a comfortable meal. The menu emphasizes
+  flavorful dishes that blend traditional flavors with everyday appeal, making
+  it a great choice for those exploring sushi places near me. Whether you're in
+  the mood for top-rated sushi or simply crave Japanese-inspired fare, this
+  location delivers a satisfying experience in a cozy strip-mall setting.
+generative_summary: >-
+  About Sushi Kazu in Centennial, CO$$$Sushi Kazu in Centennial, CO, stands out
+  as a welcoming spot for enjoying fresh Japanese cuisine in a relaxed
+  environment. This sushi restaurant offers a variety of rolls, udon, and other
+  authentic eats, highlighted by its casual vibe and popular happy hour deals
+  that attract locals seeking quality dining options. With accessibility
+  features like wheelchair-friendly entrances and parking, it's designed to
+  accommodate everyone looking for a comfortable meal. The menu emphasizes
+  flavorful dishes that blend traditional flavors with everyday appeal, making
+  it a great choice for those exploring sushi places near me. Whether you're in
+  the mood for top-rated sushi or simply crave Japanese-inspired fare, this
+  location delivers a satisfying experience in a cozy strip-mall setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ20EidQCGbIcRDt_sNjjPswc/reviews/ChdDSUhNMG9nS0VJQ0FnSURmN3NQOHJRRRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        I’ve had the pleasure of dining here several times over the past few
+        years and each time has been an amazing experience. It is a Japanese run
+        sushi restaurant, and most if not all of the staff are also of Japanese
+        descent and speak Japanese. The food is authentic and delicious, with an
+        amazing selection of sushi, sashimi, ramen, gyoza, and other Japanese
+        dishes. Their menu is affordable as well, in comparison to other sushi
+        restaurants I’ve visited. The restaurant itself is cozy and decorated
+        with Japanese items and calligraphy quotes hand-written by the current
+        owner and chef. The staff are welcoming and happy to accommodate any
+        dietary needs such by as separating food items into a different plate
+        for family members with allergies. It’s also common for me to run into
+        Japanese friends and acquaintances because the restaurant is well known
+        and popular among the Japanese community in the Denver area. Overall it
+        is a restaurant with great food, a friendly ambience, and a nice
+        gathering place for celebrations and get-togethers with friends and
+        family.
+      languageCode: en
+    originalText:
+      text: >-
+        I’ve had the pleasure of dining here several times over the past few
+        years and each time has been an amazing experience. It is a Japanese run
+        sushi restaurant, and most if not all of the staff are also of Japanese
+        descent and speak Japanese. The food is authentic and delicious, with an
+        amazing selection of sushi, sashimi, ramen, gyoza, and other Japanese
+        dishes. Their menu is affordable as well, in comparison to other sushi
+        restaurants I’ve visited. The restaurant itself is cozy and decorated
+        with Japanese items and calligraphy quotes hand-written by the current
+        owner and chef. The staff are welcoming and happy to accommodate any
+        dietary needs such by as separating food items into a different plate
+        for family members with allergies. It’s also common for me to run into
+        Japanese friends and acquaintances because the restaurant is well known
+        and popular among the Japanese community in the Denver area. Overall it
+        is a restaurant with great food, a friendly ambience, and a nice
+        gathering place for celebrations and get-togethers with friends and
+        family.
+      languageCode: en
+    authorAttribution:
+      displayName: Nanako
+      uri: https://www.google.com/maps/contrib/109034554708597150404/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKCb1Kaxzkt7PXbeDmtyWyggoq7Ypw-dgWWo2d7x3I47_cplg=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-01-06T19:45:15.633530Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURmN3NQOHJRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURmN3NQOHJRRRAB!2m1!1s0x876c8600752241db:0x7b3cf3836ecdf0e
+  - name: >-
+      places/ChIJ20EidQCGbIcRDt_sNjjPswc/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfcXFtZnNBRRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        This restaurant is amazing! Food was fresh and delicious, the staff is
+        very attentive and offer you an authentic experience, the atmosphere is
+        cozy and warm. I truly recommend this place! Unfortunately I didn’t take
+        many pictures of the food because it was so delicious I completely
+        forgot.
+      languageCode: en
+    originalText:
+      text: >-
+        This restaurant is amazing! Food was fresh and delicious, the staff is
+        very attentive and offer you an authentic experience, the atmosphere is
+        cozy and warm. I truly recommend this place! Unfortunately I didn’t take
+        many pictures of the food because it was so delicious I completely
+        forgot.
+      languageCode: en
+    authorAttribution:
+      displayName: Andreea Mihaita
+      uri: https://www.google.com/maps/contrib/112673060565242956465/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWa-iNAoj3jmp9y-qqYjG0UGBC85MNOV1UXwC-l9M1luY5qkvo=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-01-15T02:43:56.888220Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNfcXFtZnNBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNfcXFtZnNBRRAB!2m1!1s0x876c8600752241db:0x7b3cf3836ecdf0e
+  - name: >-
+      places/ChIJ20EidQCGbIcRDt_sNjjPswc/reviews/ChZDSUhNMG9nS0VJQ0FnSUN2cGZTZVhREAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        This place is simply wonderful. If your looking for a cozy little
+        Japanese place with less hectic of energy then an all you can eat, this
+        plane is perfect. The sushi is reasonably priced for the portions, and
+        the bowls here are great!
+      languageCode: en
+    originalText:
+      text: >-
+        This place is simply wonderful. If your looking for a cozy little
+        Japanese place with less hectic of energy then an all you can eat, this
+        plane is perfect. The sushi is reasonably priced for the portions, and
+        the bowls here are great!
+      languageCode: en
+    authorAttribution:
+      displayName: Kupok Natsu
+      uri: https://www.google.com/maps/contrib/102959654816654381551/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWlxYyijAqW3gUpshgH7gGh6HUILd4noglc85p0mLRyc9ZcvrIUBw=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-12-13T00:30:38.963338Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN2cGZTZVhREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN2cGZTZVhREAE!2m1!1s0x876c8600752241db:0x7b3cf3836ecdf0e
+  - name: >-
+      places/ChIJ20EidQCGbIcRDt_sNjjPswc/reviews/ChdDSUhNMG9nS0VJQ0FnSURfOGZHeDV3RRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        Traditional Japanese atmosphere. The friendliness and attentiveness that
+        exemplifies the culture. Attention to detail and quality in the food
+        preparation. Great happy hour pricing if you'd like to miss the dinner
+        rush on a Friday. The Chef's Specials are a great way to experience this
+        establishment if it's your first time. Just add an appetizer or a
+        special sushi roll to the order and it's perfect for 2.
+      languageCode: en
+    originalText:
+      text: >-
+        Traditional Japanese atmosphere. The friendliness and attentiveness that
+        exemplifies the culture. Attention to detail and quality in the food
+        preparation. Great happy hour pricing if you'd like to miss the dinner
+        rush on a Friday. The Chef's Specials are a great way to experience this
+        establishment if it's your first time. Just add an appetizer or a
+        special sushi roll to the order and it's perfect for 2.
+      languageCode: en
+    authorAttribution:
+      displayName: ian
+      uri: https://www.google.com/maps/contrib/113702703072791319552/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocI9krEPZx9bvq2WJ1aJCEUsgH9JxLhY2p5IWdmguIZNLW5LyQ=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-01-25T03:11:09.254014Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURfOGZHeDV3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURfOGZHeDV3RRAB!2m1!1s0x876c8600752241db:0x7b3cf3836ecdf0e
+  - name: >-
+      places/ChIJ20EidQCGbIcRDt_sNjjPswc/reviews/ChZDSUhNMG9nS0VJQ0FnSURqb1pUalpnEAE
+    relativePublishTimeDescription: 12 months ago
+    rating: 3
+    text:
+      text: >-
+        Unfortunately I never had the opportunity to try the sushi under the
+        original owner before he retired and sold to the new management. We
+        tried it today for the first time… And it was just OK at best neither my
+        wife nor I enjoyed any of our three sushi rolls. The Negri was pretty
+        good, but nothing spectacular. The fish didn’t necessarily taste super
+        fresh and the best way to describe one of the rolls was watered down.
+        The staff was friendly enough and it still had a nice vibe mellow
+        atmosphere inside. However, we don’t expect to come back here. Doesn’t
+        seem appropriate to me that the new ownership got to keep the old name
+        of the restaurant since it was named after the original owner.
+      languageCode: en
+    originalText:
+      text: >-
+        Unfortunately I never had the opportunity to try the sushi under the
+        original owner before he retired and sold to the new management. We
+        tried it today for the first time… And it was just OK at best neither my
+        wife nor I enjoyed any of our three sushi rolls. The Negri was pretty
+        good, but nothing spectacular. The fish didn’t necessarily taste super
+        fresh and the best way to describe one of the rolls was watered down.
+        The staff was friendly enough and it still had a nice vibe mellow
+        atmosphere inside. However, we don’t expect to come back here. Doesn’t
+        seem appropriate to me that the new ownership got to keep the old name
+        of the restaurant since it was named after the original owner.
+      languageCode: en
+    authorAttribution:
+      displayName: Noodle Man
+      uri: https://www.google.com/maps/contrib/109129053210771897390/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXmynUo_mMtHUKoCOsi06ze4kyvNRcXGwSWSMqme98VaLvwxruf=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-05-04T03:22:07.636818Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURqb1pUalpnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURqb1pUalpnEAE!2m1!1s0x876c8600752241db:0x7b3cf3836ecdf0e
+review_summary: >-
+  What Visitors Are Saying$$$Folks who stop by this sushi spot often praise the
+  fresh and authentic flavors of the rolls and other dishes, creating a genuine
+  taste of Japanese cuisine that's hard to beat. Many appreciate the friendly
+  service and warm atmosphere that make every visit feel inviting and relaxed,
+  perfect for casual get-togethers or a quick bite. While most feedback
+  highlights the reasonable prices and solid portions as standout perks, a few
+  mention that some items might not always hit the mark for everyone. Overall,
+  it's seen as a reliable option for anyone hunting for the best sushi near me,
+  with the positive vibes and attentive staff keeping the energy upbeat. If
+  you're on the hunt for sushi restaurants that deliver good value and a
+  welcoming feel, this place tends to leave diners feeling content and eager to
+  return.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
+delivery: true
+dine_in: true
 good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
 serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Rolls, udon & other Japanese specialties plus happy-hour sushi in a casual
+  strip-mall setting.
 
 ---

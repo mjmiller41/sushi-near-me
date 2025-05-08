@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "KIYOMI Sushi by Uchi"
+title: KIYOMI Sushi by Uchi
 permalink: /district-of-columbia/washington/kiyomi-sushi-by-uchi.html
 stateAbbr: DC
 stateName: District of Columbia
 cityName: Washington
 seo:
-  name: "KIYOMI Sushi by Uchi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "KIYOMI Sushi by Uchi serves delicious sushi in Washington, District of Columbia. Try fresh Japanese dishes for a great dining experience. Available for, lunch, and dinner."
 place_id: ChIJdb35KAC3t4kRYXSLFGT7IJc
 photos:
   - name: >-
@@ -185,6 +183,35 @@ price_range: $100 &ndash; & up
 rating: '4.6'
 rating_count: 0
 website: null
+description: >-
+  Discover KIYOMI Sushi by Uchi in Washington, DC$$$Nestled in the heart of
+  Washington, DC, KIYOMI Sushi by Uchi stands out as a premier spot for
+  authentic Japanese cuisine, offering fresh and meticulously prepared sushi
+  that delights the senses. This inviting restaurant features high-quality
+  ingredients and thoughtful dishes, including standout omakase options and
+  value-packed lunch specials that pair perfectly with sides like miso soup.
+  Visitors can enjoy a welcoming atmosphere with attentive service, making it an
+  ideal choice for those seeking a memorable dining experience in a bustling
+  urban setting. For anyone exploring sushi restaurants near me or searching for
+  the best sushi in the area, this spot delivers flavorful meals that highlight
+  traditional techniques and creative presentations. Whether you're in the mood
+  for Japanese places near me or a quick yet refined meal, KIYOMI provides a
+  satisfying blend of quality and convenience.
+generative_summary: >-
+  Discover KIYOMI Sushi by Uchi in Washington, DC$$$Nestled in the heart of
+  Washington, DC, KIYOMI Sushi by Uchi stands out as a premier spot for
+  authentic Japanese cuisine, offering fresh and meticulously prepared sushi
+  that delights the senses. This inviting restaurant features high-quality
+  ingredients and thoughtful dishes, including standout omakase options and
+  value-packed lunch specials that pair perfectly with sides like miso soup.
+  Visitors can enjoy a welcoming atmosphere with attentive service, making it an
+  ideal choice for those seeking a memorable dining experience in a bustling
+  urban setting. For anyone exploring sushi restaurants near me or searching for
+  the best sushi in the area, this spot delivers flavorful meals that highlight
+  traditional techniques and creative presentations. Whether you're in the mood
+  for Japanese places near me or a quick yet refined meal, KIYOMI provides a
+  satisfying blend of quality and convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJdb35KAC3t4kRYXSLFGT7IJc/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRdDYtdURREAE
@@ -388,6 +415,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURIMTRxd0hREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURIMTRxd0hREAE!2m1!1s0x89b7b70028f9bd75:0x9720fb64148b7461
+review_summary: >-
+  Insights from Recent Feedback$$$Folks who've tried KIYOMI Sushi rave about the
+  fresh, high-quality sushi that's packed with bold flavors and creative
+  touches, especially in their affordable omakase deals that feel like a real
+  steal. Many appreciate the lunch specials for their generous portions and
+  thoughtful pairings, making it a go-to for a satisfying midday bite without
+  breaking the bank. While the atmosphere in a lively food court setting adds a
+  casual vibe that works well for families or groups, some note that certain
+  dishes could use a bit more moisture to enhance the overall taste. Overall,
+  it's earning high marks as a top pick for sushi lovers, with friendly service
+  and consistent quality keeping people coming back for more. If you're on the
+  hunt for reliable sushi places near me, this spot delivers a solid experience
+  that's worth checking out for its authentic flavors and welcoming energy.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: {}
 payment_options:
   acceptsCreditCards: true
@@ -417,7 +458,7 @@ serves_lunch: true
 serves_vegetarian_food: false
 serves_wine: true
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

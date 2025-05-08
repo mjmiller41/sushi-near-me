@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Fansway Teriyaki & Sushi"
+title: Fansway Teriyaki & Sushi
 permalink: /new-york/corona/fansway-teriyaki-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: Corona
 seo:
-  name: "Fansway Teriyaki & Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.fanswayteriyaki.com/
-description: "Fansway Teriyaki & Sushi serves delicious sushi in Corona, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJpYRmPPtfwokR0bAk7cdHEiQ
 photos:
   - name: >-
@@ -167,7 +165,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c25ffb3c6684a5:0x241247c7ed24b0d1!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 45
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 45
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 45
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 45
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 45
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 45
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 45
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:45 PM'
     - 'Tuesday: 11:00 AM – 9:45 PM'
     - 'Wednesday: 11:00 AM – 9:45 PM'
@@ -175,14 +231,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:45 PM'
     - 'Saturday: 11:00 AM – 9:45 PM'
     - 'Sunday: 11:00 AM – 9:45 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:45 PM'
-    - 'Tuesday: 11:00 AM – 9:45 PM'
-    - 'Wednesday: 11:00 AM – 9:45 PM'
-    - 'Thursday: 11:00 AM – 9:45 PM'
-    - 'Friday: 11:00 AM – 9:45 PM'
-    - 'Saturday: 11:00 AM – 9:45 PM'
-    - 'Sunday: 11:00 AM – 9:45 PM'
+  nextCloseTime: '2025-05-04T01:45:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -194,9 +243,47 @@ phone: (718) 803-2688
 price_level: PRICE_LEVEL_INEXPENSIVE
 price_range: $10 &ndash; $20
 rating: '4.3'
-rating_count: 0
+rating_count: 87
 website: https://www.fanswayteriyaki.com/
+description: >-
+  Discover Fansway Teriyaki & Sushi in Corona, New York$$$Fansway Teriyaki &
+  Sushi in Corona, New York, stands out as a welcoming Japanese dining option,
+  drawing in locals and visitors with its focus on fresh, flavorful dishes. The
+  spot is known for its hearty bento boxes and a variety of creative sushi
+  rolls, all prepared with care in a relaxed setting that encourages casual
+  meals. Its convenient daily hours from 11 AM to 9:45 PM make it easy to enjoy
+  authentic Japanese flavors without the rush, while wheelchair-accessible
+  entrances add to the inclusive vibe. For those seeking top-rated sushi places
+  near you, this location offers an affordable price range around $10 to $20,
+  making it a smart choice for everyday dining or quick takeout.
+generative_summary: >-
+  Discover Fansway Teriyaki & Sushi in Corona, New York$$$Fansway Teriyaki &
+  Sushi in Corona, New York, stands out as a welcoming Japanese dining option,
+  drawing in locals and visitors with its focus on fresh, flavorful dishes. The
+  spot is known for its hearty bento boxes and a variety of creative sushi
+  rolls, all prepared with care in a relaxed setting that encourages casual
+  meals. Its convenient daily hours from 11 AM to 9:45 PM make it easy to enjoy
+  authentic Japanese flavors without the rush, while wheelchair-accessible
+  entrances add to the inclusive vibe. For those seeking top-rated sushi places
+  near you, this location offers an affordable price range around $10 to $20,
+  making it a smart choice for everyday dining or quick takeout.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying About This Sushi Spot$$$Fansway Teriyaki & Sushi has
+  earned solid praise from diners, with many highlighting the fresh ingredients
+  and well-balanced flavors in their meals, reflected in its 4.3-star rating
+  from numerous reviews. People often appreciate the generous portions and
+  reliable service that make it a go-to for casual Japanese dining, especially
+  when craving something satisfying without breaking the bank. While a few
+  mentions note the simple atmosphere, the overall consensus leans positive,
+  emphasizing how it delivers on tasty sushi options that feel consistently
+  enjoyable. If you're on the hunt for reliable sushi restaurants nearby, this
+  place seems to hit the mark for value and taste, encouraging repeat visits for
+  both solo diners and groups. Overall, the feedback paints a picture of a
+  dependable spot that keeps customers coming back for its straightforward yet
+  delightful offerings.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -222,7 +309,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -5,4 +5,5 @@ permalink: /missouri/kearney/
 stateAbbr: MO
 stateName: Missouri
 cityName: Kearney
+
 ---

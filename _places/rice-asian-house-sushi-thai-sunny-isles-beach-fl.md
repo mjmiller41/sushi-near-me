@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Rice Asian House, Sushi & Thai"
+title: Rice Asian House, Sushi & Thai
 permalink: /florida/sunny-isles-beach/rice-asian-house-sushi-thai.html
 stateAbbr: FL
 stateName: Florida
 cityName: Sunny Isles Beach
 seo:
-  name: "Rice Asian House, Sushi & Thai"
-  type: Restaurant
+  type: restaurant
   links: https://riceasianhouse.com/
-description: "Informal, modern Thai-Japanese destination with Asian decorative flourishes & a sushi bar. Rice Asian House, Sushi & Thai serves delicious sushi in Sunny Isles Beach, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJbwK_KB-t2YgRW5i0A-iEqfw
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: null
 rating: '4.3'
 rating_count: 0
 website: https://riceasianhouse.com/
+description: >-
+  Explore Rice Asian House in Sunny Isles Beach$$$Rice Asian House, Sushi & Thai
+  in Sunny Isles Beach, Florida, offers a casual and modern vibe with a blend of
+  Thai and Japanese flavors that highlight fresh ingredients and creative
+  presentations. The spot features an inviting sushi bar and stylish
+  Asian-inspired decor, making it ideal for enjoying a variety of dishes from
+  flavorful noodles to vibrant salads. Families and groups appreciate the
+  diverse menu options that cater to different tastes, including kid-friendly
+  choices that keep everyone happy. With convenient dine-in and takeout
+  services, it's a reliable destination for anyone seeking quality Asian cuisine
+  in a welcoming setting, perfect for a quick meal or relaxed gathering.
+generative_summary: >-
+  Explore Rice Asian House in Sunny Isles Beach$$$Rice Asian House, Sushi & Thai
+  in Sunny Isles Beach, Florida, offers a casual and modern vibe with a blend of
+  Thai and Japanese flavors that highlight fresh ingredients and creative
+  presentations. The spot features an inviting sushi bar and stylish
+  Asian-inspired decor, making it ideal for enjoying a variety of dishes from
+  flavorful noodles to vibrant salads. Families and groups appreciate the
+  diverse menu options that cater to different tastes, including kid-friendly
+  choices that keep everyone happy. With convenient dine-in and takeout
+  services, it's a reliable destination for anyone seeking quality Asian cuisine
+  in a welcoming setting, perfect for a quick meal or relaxed gathering.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJbwK_KB-t2YgRW5i0A-iEqfw/reviews/ChZDSUhNMG9nS0VJQ0FnSUNfNjd2aUFnEAE
@@ -334,6 +355,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURQX3R2Yl93RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURQX3R2Yl93RRAB!2m1!1s0x88d9ad1f28bf026f:0xfca984e803b4985b
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors to this sushi spot often rave about
+  the fresh and tasty dishes, with standout mentions of flavorful Thai options
+  like drunken noodles and papaya salad that deliver bold, satisfying flavors.
+  Many appreciate the variety on the menu, which makes it a solid pick for
+  families and groups looking for something everyone can enjoy, though the
+  lively atmosphere can get a bit noisy during peak times. Overall, the
+  consistent quality and creativity in the sushi selections have made it a
+  favorite for those searching for reliable Asian eats nearby. Folks highlight
+  the excellent value, especially with daily specials, ensuring a positive
+  experience that keeps diners coming back. If you're in the mood for top-rated
+  sushi in a casual setting, this place delivers a generally enjoyable meal with
+  minimal drawbacks.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -365,8 +400,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Informal, modern Thai-Japanese destination with Asian decorative flourishes &
   a sushi bar.
 

@@ -5,4 +5,5 @@ permalink: /ohio/cuyahoga-falls/
 stateAbbr: OH
 stateName: Ohio
 cityName: Cuyahoga Falls
+
 ---

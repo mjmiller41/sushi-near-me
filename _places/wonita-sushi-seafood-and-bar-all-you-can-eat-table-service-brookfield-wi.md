@@ -1,15 +1,14 @@
 ---
 layout: place
-title: "Wonita Sushi Seafood and Bar-All you can eat table service"
-permalink: /wisconsin/brookfield/wonita-sushi-seafood-and-bar-all-you-can-eat-table-service.html
+title: Wonita Sushi Seafood and Bar-All you can eat table service
+permalink: >-
+  /wisconsin/brookfield/wonita-sushi-seafood-and-bar-all-you-can-eat-table-service.html
 stateAbbr: WI
 stateName: Wisconsin
 cityName: Brookfield
 seo:
-  name: "Wonita Sushi Seafood and Bar-All you can eat table service"
-  type: Restaurant
+  type: restaurant
   links: http://www.wonitasushiseafood.com/
-description: "Wonita Sushi Seafood and Bar-All you can eat table service serves delicious sushi in Brookfield, Wisconsin. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ683k2-gHBYgR4BUq8XB6_JU
 photos:
   - name: >-
@@ -185,6 +184,33 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 0
 website: http://www.wonitasushiseafood.com/
+description: >-
+  Explore Wonita Sushi in Brookfield, WI$$$Wonita Sushi Seafood and Bar in
+  Brookfield, Wisconsin, stands out as a welcoming Japanese spot offering fresh
+  sushi and seafood options that cater to a variety of tastes. This restaurant
+  features an all-you-can-eat service that includes a range of traditional
+  rolls, appetizers, and entrees, making it a go-to choice for those searching
+  for top-rated sushi near me. With its accessible design, including
+  wheelchair-friendly entrances and seating, it ensures a comfortable dining
+  experience for everyone. The atmosphere combines a clean, modern vibe with
+  options like outdoor seating and a selection of beers and cocktails, enhancing
+  the overall enjoyment. Whether you're looking for sushi restaurants in the
+  area or a casual Japanese place near me, this spot delivers on quality and
+  value with generous portions and a focus on fresh ingredients.
+generative_summary: >-
+  Explore Wonita Sushi in Brookfield, WI$$$Wonita Sushi Seafood and Bar in
+  Brookfield, Wisconsin, stands out as a welcoming Japanese spot offering fresh
+  sushi and seafood options that cater to a variety of tastes. This restaurant
+  features an all-you-can-eat service that includes a range of traditional
+  rolls, appetizers, and entrees, making it a go-to choice for those searching
+  for top-rated sushi near me. With its accessible design, including
+  wheelchair-friendly entrances and seating, it ensures a comfortable dining
+  experience for everyone. The atmosphere combines a clean, modern vibe with
+  options like outdoor seating and a selection of beers and cocktails, enhancing
+  the overall enjoyment. Whether you're looking for sushi restaurants in the
+  area or a casual Japanese place near me, this spot delivers on quality and
+  value with generous portions and a focus on fresh ingredients.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ683k2-gHBYgR4BUq8XB6_JU/reviews/ChZDSUhNMG9nS0VJQ0FnTURnak1fbEdBEAE
@@ -406,6 +432,21 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURmejZ6YkNBEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURmejZ6YkNBEAE!2m1!1s0x880507e8dbe4cdeb:0x95fc7a70f12a15e0
+review_summary: >-
+  Insights from Recent Reviews$$$Diners at this sushi spot often rave about the
+  great value of the all-you-can-eat deals, highlighting the tasty variety of
+  rolls and appetizers that keep things exciting and satisfying. Many appreciate
+  the friendly service and quick delivery of orders, along with a clean and
+  welcoming environment that makes it easy to enjoy a meal with friends or
+  family. While most feedback points to solid portions and reasonable prices
+  that make it one of the best sushi options around, a few notes suggest room
+  for improvement in food consistency to ensure every bite hits the mark.
+  Overall, it's a reliable pick for anyone craving quality Japanese fare, with
+  the positive vibes outweighing any minor hiccups for a generally enjoyable
+  experience. If you're on the hunt for sushi places near me, this location
+  earns high marks for its approachable vibe and flavorful selections that leave
+  customers coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -438,7 +479,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Mikoto's Express Raeford Rd"
+title: Mikoto's Express Raeford Rd
 permalink: /north-carolina/fayetteville/mikoto-s-express-raeford-rd.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Fayetteville
 seo:
-  name: "Mikoto's Express Raeford Rd"
-  type: Restaurant
+  type: restaurant
   links: https://www.toasttab.com/mikoto-japanese-express-raeford-rd-7980-raeford-rd
-description: "Mikoto's Express Raeford Rd serves delicious sushi in Fayetteville, North Carolina. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJLyPl9_8_q4kRuynE3hrGINY
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89ab3ffff7e5232f:0xd620c61adec429bb!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 4:30 – 10:00 PM'
     - 'Tuesday: 4:30 – 10:00 PM'
     - 'Wednesday: 4:30 – 10:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 4:30 – 10:00 PM'
     - 'Saturday: 11:00 AM – 10:00 PM'
     - 'Sunday: 12:00 – 8:00 PM'
-  current:
-    - 'Monday: 4:30 – 10:00 PM'
-    - 'Tuesday: 4:30 – 10:00 PM'
-    - 'Wednesday: 4:30 – 10:00 PM'
-    - 'Thursday: 4:30 – 10:00 PM'
-    - 'Friday: 4:30 – 10:00 PM'
-    - 'Saturday: 11:00 AM – 10:00 PM'
-    - 'Sunday: 12:00 – 8:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +246,47 @@ phone: (910) 339-8641
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '3.4'
-rating_count: 0
+rating_count: 174
 website: https://www.toasttab.com/mikoto-japanese-express-raeford-rd-7980-raeford-rd
+description: >-
+  Discover Mikoto's Express in Fayetteville, NC$$$Mikoto's Express Raeford Rd in
+  Fayetteville, NC, stands out as a welcoming Japanese restaurant serving fresh
+  sushi and hibachi favorites in a laid-back atmosphere. This spot caters to
+  those seeking sushi restaurants with a variety of flavorful options that
+  highlight authentic ingredients and creative presentations. Its accessibility
+  features, like wheelchair-friendly entrances and seating, make it an inclusive
+  choice for everyone looking for Japanese places near me. Operating with
+  flexible hours including evenings and weekends, it's ideal for a casual
+  dine-in or quick takeout. Whether you're exploring top-rated sushi options or
+  simply craving something tasty close to home, this location delivers a
+  satisfying experience with moderate pricing.
+generative_summary: >-
+  Discover Mikoto's Express in Fayetteville, NC$$$Mikoto's Express Raeford Rd in
+  Fayetteville, NC, stands out as a welcoming Japanese restaurant serving fresh
+  sushi and hibachi favorites in a laid-back atmosphere. This spot caters to
+  those seeking sushi restaurants with a variety of flavorful options that
+  highlight authentic ingredients and creative presentations. Its accessibility
+  features, like wheelchair-friendly entrances and seating, make it an inclusive
+  choice for everyone looking for Japanese places near me. Operating with
+  flexible hours including evenings and weekends, it's ideal for a casual
+  dine-in or quick takeout. Whether you're exploring top-rated sushi options or
+  simply craving something tasty close to home, this location delivers a
+  satisfying experience with moderate pricing.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About Mikoto's Express$$$Folks visiting Mikoto's
+  Express frequently highlight the fresh sushi and hibachi dishes as standout
+  features, making it a go-to for sushi enthusiasts in the area. Many appreciate
+  the casual vibe and accessibility, noting it feels approachable for families
+  or solo diners. While some mention occasional waits during peak times, others
+  praise the overall value and tasty flavors that keep people coming back. On
+  the whole, it's viewed as a reliable spot for those searching for sushi places
+  near me, with honest feedback pointing to solid portions at a fair price. If
+  you're on the hunt for Japanese cuisine that hits the spot, this restaurant
+  earns positive nods for its authentic appeal while suggesting room for
+  smoother service on busier days.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +312,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

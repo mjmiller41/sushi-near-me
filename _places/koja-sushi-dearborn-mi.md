@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Koja Sushi"
+title: Koja Sushi
 permalink: /michigan/dearborn/koja-sushi.html
 stateAbbr: MI
 stateName: Michigan
 cityName: Dearborn
 seo:
-  name: "Koja Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://kojasushi.com/
-description: "Koja Sushi serves delicious sushi in Dearborn, Michigan. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJlZKN6i81O4gRBVoslmLVBVs
 photos:
   - name: >-
@@ -184,6 +182,29 @@ price_range: $10 &ndash; $20
 rating: '4.7'
 rating_count: 0
 website: http://kojasushi.com/
+description: >-
+  Discover Koja Sushi in Dearborn, MI$$$Koja Sushi in Dearborn, MI, stands out
+  as a cozy destination blending Korean and Japanese influences, perfect for
+  savoring fresh sushi and other flavorful dishes. This spot offers a welcoming
+  vibe with creative menu options that cater to sushi lovers seeking variety and
+  quality in their meals. Generous portions and accessible features, like
+  wheelchair-friendly entrances and ample parking, make it an easy choice for a
+  relaxed dining experience. Whether you're exploring sushi restaurants in the
+  area or looking for top-rated options nearby, the focus on fresh ingredients
+  and affordable pricing adds to its appeal. It's an ideal stop for anyone
+  craving authentic Japanese cuisine in a comfortable setting.
+generative_summary: >-
+  Discover Koja Sushi in Dearborn, MI$$$Koja Sushi in Dearborn, MI, stands out
+  as a cozy destination blending Korean and Japanese influences, perfect for
+  savoring fresh sushi and other flavorful dishes. This spot offers a welcoming
+  vibe with creative menu options that cater to sushi lovers seeking variety and
+  quality in their meals. Generous portions and accessible features, like
+  wheelchair-friendly entrances and ample parking, make it an easy choice for a
+  relaxed dining experience. Whether you're exploring sushi restaurants in the
+  area or looking for top-rated options nearby, the focus on fresh ingredients
+  and affordable pricing adds to its appeal. It's an ideal stop for anyone
+  craving authentic Japanese cuisine in a comfortable setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJlZKN6i81O4gRBVoslmLVBVs/reviews/ChdDSUhNMG9nS0VJQ0FnTURJZ09MZDhnRRAB
@@ -355,6 +376,17 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQ3LS1yNDFnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQ3LS1yNDFnRRAB!2m1!1s0x883b352fea8d9295:0x5b05d562962c5a05
+review_summary: >-
+  What Visitors Are Saying$$$Folks heading to Koja Sushi often highlight the
+  tasty, fresh rolls and generous servings that keep them coming back for more.
+  The friendly service and creative menu make it a solid pick for casual meals,
+  with many appreciating how affordable it is without skimping on flavor. While
+  the atmosphere works well for quick bites or takeout, some mention it's
+  straightforward and best for those not seeking a fancy setup. Overall, the
+  positive vibes around the food quality and attentive staff create a welcoming
+  experience that's worth checking out. If you're on the hunt for great sushi
+  spots nearby, this place delivers on fresh tastes and reliable satisfaction.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -386,7 +418,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: null
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

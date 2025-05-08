@@ -5,4 +5,5 @@ permalink: /oregon/corvallis/
 stateAbbr: OR
 stateName: Oregon
 cityName: Corvallis
+
 ---

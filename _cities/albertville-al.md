@@ -5,4 +5,5 @@ permalink: /alabama/albertville/
 stateAbbr: AL
 stateName: Alabama
 cityName: Albertville
+
 ---

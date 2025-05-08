@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sakana-Ya Sushi Bar"
+title: Sakana-Ya Sushi Bar
 permalink: /new-york/syracuse/sakana-ya-sushi-bar.html
 stateAbbr: NY
 stateName: New York
 cityName: Syracuse
 seo:
-  name: "Sakana-Ya Sushi Bar"
-  type: Restaurant
+  type: restaurant
   links: http://www.syracusesushi.com/
-description: "A wide selection of sushi, sashimi & rolls prepared in a flashy space, plus wine, beer & sake. Sakana-Ya Sushi Bar serves delicious sushi in Syracuse, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJaf5es8Dz2YkRRqV2IfSjXj0
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 0
 website: http://www.syracusesushi.com/
+description: >-
+  Discover Sakana-Ya Sushi Bar in Syracuse, NY$$$Nestled in the heart of
+  Syracuse, NY, Sakana-Ya Sushi Bar stands out as a vibrant spot for fresh
+  Japanese cuisine, featuring an innovative conveyor belt system that brings a
+  variety of rolls and dishes right to your table. This lively eatery offers a
+  mix of classic sushi options alongside bento boxes and refreshing beverages,
+  making it a go-to choice for anyone craving authentic flavors in a modern
+  setting. With enticing happy-hour deals that enhance the value, it's easy to
+  enjoy high-quality meals without breaking the bank, appealing to both locals
+  and visitors seeking top sushi experiences. The accessible design and
+  welcoming atmosphere ensure a comfortable visit, while the focus on fresh
+  ingredients and creative presentations elevates the overall dining adventure
+  in this bustling area.
+generative_summary: >-
+  Discover Sakana-Ya Sushi Bar in Syracuse, NY$$$Nestled in the heart of
+  Syracuse, NY, Sakana-Ya Sushi Bar stands out as a vibrant spot for fresh
+  Japanese cuisine, featuring an innovative conveyor belt system that brings a
+  variety of rolls and dishes right to your table. This lively eatery offers a
+  mix of classic sushi options alongside bento boxes and refreshing beverages,
+  making it a go-to choice for anyone craving authentic flavors in a modern
+  setting. With enticing happy-hour deals that enhance the value, it's easy to
+  enjoy high-quality meals without breaking the bank, appealing to both locals
+  and visitors seeking top sushi experiences. The accessible design and
+  welcoming atmosphere ensure a comfortable visit, while the focus on fresh
+  ingredients and creative presentations elevates the overall dining adventure
+  in this bustling area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJaf5es8Dz2YkRRqV2IfSjXj0/reviews/ChdDSUhNMG9nS0VJQ0FnTURnN0lQU3V3RRAB
@@ -382,6 +407,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURackt6cnF3RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURackt6cnF3RRAB!2m1!1s0x89d9f3c0b35efe69:0x3d5ea3f42176a546
+review_summary: >-
+  What Customers Love About This Spot$$$Folks rave about the fun conveyor belt
+  setup that keeps things exciting and makes grabbing sushi a breeze, with
+  plenty of variety to satisfy different tastes during visits. Many appreciate
+  the wallet-friendly deals, like half-off specials that turn a casual meal into
+  a great bargain without skimping on freshness or flavor. Reviewers often
+  highlight the delicious rolls and other Japanese-inspired dishes that deliver
+  a balance of sweet, spicy, and savory notes, creating memorable meals for
+  groups or solo diners. Overall, the speedy service and clean environment add
+  to the appeal, making it a reliable pick for those hunting for quality sushi
+  nearby. While it's wise to keep an eye on portion sizes to manage costs, the
+  positive vibes and tasty options keep drawing people back for more enjoyable
+  experiences.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: false
   paidParkingLot: false
@@ -418,8 +457,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   A wide selection of sushi, sashimi & rolls prepared in a flashy space, plus
   wine, beer & sake.
 

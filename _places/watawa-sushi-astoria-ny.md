@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Watawa Sushi"
+title: Watawa Sushi
 permalink: /new-york/astoria/watawa-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: Astoria
 seo:
-  name: "Watawa Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.watawasushi.com/
-description: "Watawa Sushi serves delicious sushi in Astoria, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ8UiXM2ZfwokRS7Nvdr-5rT0
 photos:
   - name: >-
@@ -169,7 +167,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c25f66339748f1:0x3dadb9bf766fb34b!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 45
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 45
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 45
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 45
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 45
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 45
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 45
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 9:45 PM'
     - 'Tuesday: 11:30 AM – 9:45 PM'
     - 'Wednesday: 11:30 AM – 9:45 PM'
@@ -177,14 +233,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 10:45 PM'
     - 'Saturday: 11:30 AM – 10:45 PM'
     - 'Sunday: 11:30 AM – 9:45 PM'
-  current:
-    - 'Monday: 11:30 AM – 9:45 PM'
-    - 'Tuesday: 11:30 AM – 9:45 PM'
-    - 'Wednesday: 11:30 AM – 9:45 PM'
-    - 'Thursday: 11:30 AM – 9:45 PM'
-    - 'Friday: 11:30 AM – 10:45 PM'
-    - 'Saturday: 11:30 AM – 10:45 PM'
-    - 'Sunday: 11:30 AM – 9:45 PM'
+  nextCloseTime: '2025-05-04T02:45:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,9 +245,46 @@ phone: (718) 545-9596
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.6'
-rating_count: 0
+rating_count: 1064
 website: http://www.watawasushi.com/
+description: >-
+  Explore Watawa Sushi in Astoria, NY$$$Watawa Sushi in Astoria, New York,
+  stands out as a go-to destination for fresh Japanese cuisine, blending
+  traditional flavors with a modern twist in a welcoming atmosphere. This sushi
+  spot offers a variety of dishes including expertly prepared rolls and sashimi,
+  complemented by a relaxed setting that includes a cozy bar and enticing
+  happy-hour options for those seeking sushi near me. With its moderate pricing
+  and accessibility features like wheelchair-friendly entrances, it's an ideal
+  choice for casual diners looking for top-rated sushi in a vibrant
+  neighborhood. The restaurant's extended hours make it easy to enjoy authentic
+  Japanese fare, whether you're stopping by for a quick lunch or an evening out
+  with friends at one of the best sushi restaurants nearby.
+generative_summary: >-
+  Explore Watawa Sushi in Astoria, NY$$$Watawa Sushi in Astoria, New York,
+  stands out as a go-to destination for fresh Japanese cuisine, blending
+  traditional flavors with a modern twist in a welcoming atmosphere. This sushi
+  spot offers a variety of dishes including expertly prepared rolls and sashimi,
+  complemented by a relaxed setting that includes a cozy bar and enticing
+  happy-hour options for those seeking sushi near me. With its moderate pricing
+  and accessibility features like wheelchair-friendly entrances, it's an ideal
+  choice for casual diners looking for top-rated sushi in a vibrant
+  neighborhood. The restaurant's extended hours make it easy to enjoy authentic
+  Japanese fare, whether you're stopping by for a quick lunch or an evening out
+  with friends at one of the best sushi restaurants nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Highlights from Visitor Feedback$$$Visitors often rave about the fresh sushi
+  and sashimi at this spot, with many pointing out the kani salad as a must-try
+  for its flavorful balance of ingredients. Folks appreciate the attentive staff
+  who create a friendly vibe, making meals feel more enjoyable without any fuss.
+  The modern and cozy atmosphere adds to the appeal, offering a comfortable
+  space that feels just right for casual gatherings or solo visits. Overall,
+  it's clear that this place delivers on quality and service, making it a solid
+  pick if you're hunting for reliable sushi options in the area. While not
+  perfect for everyone, the positive experiences shared suggest it's worth
+  checking out for a satisfying Japanese dining adventure.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -224,7 +310,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

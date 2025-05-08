@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "The Sushi by Jin"
+title: The Sushi by Jin
 permalink: /california/valley-glen/the-sushi-by-jin.html
 stateAbbr: CA
 stateName: California
 cityName: Valley Glen
 seo:
-  name: "The Sushi by Jin"
-  type: Restaurant
+  type: restaurant
   links: https://thesushibyjin.com/
-description: "The Sushi by Jin serves delicious sushi in Valley Glen, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ0Uyc9naWwoARkwmjYkWgLuU
 photos:
   - name: >-
@@ -170,7 +168,105 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c29676f69c4cd1:0xe52ea04562a30993!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 14
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 0
+    - open:
+        day: 1
+        hour: 12
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 12
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 12
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 12
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 12
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 14
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 12:00 – 2:30 PM, 4:30 – 9:00 PM'
     - 'Tuesday: 12:00 – 2:30 PM, 4:30 – 9:00 PM'
     - 'Wednesday: 12:00 – 2:30 PM, 4:30 – 9:00 PM'
@@ -178,14 +274,7 @@ opening_hours:
     - 'Friday: 12:00 – 2:30 PM, 4:30 – 9:30 PM'
     - 'Saturday: 2:00 – 9:30 PM'
     - 'Sunday: 2:00 – 8:00 PM'
-  current:
-    - 'Monday: 12:00 – 2:30 PM, 4:30 – 9:00 PM'
-    - 'Tuesday: 12:00 – 2:30 PM, 4:30 – 9:00 PM'
-    - 'Wednesday: 12:00 – 2:30 PM, 4:30 – 9:00 PM'
-    - 'Thursday: 12:00 – 2:30 PM, 4:30 – 9:00 PM'
-    - 'Friday: 12:00 – 2:30 PM, 4:30 – 9:30 PM'
-    - 'Saturday: 2:00 – 9:30 PM'
-    - 'Sunday: 2:00 – 8:00 PM'
+  nextCloseTime: '2025-05-04T04:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +286,50 @@ phone: (818) 985-6010
 price_level: PRICE_LEVEL_MODERATE
 price_range: $30 &ndash; $50
 rating: '4.5'
-rating_count: 0
+rating_count: 755
 website: https://thesushibyjin.com/
+description: >-
+  Discover The Sushi by Jin in Valley Glen, CA$$$Nestled in Valley Glen, CA, The
+  Sushi by Jin stands out as a welcoming spot for enjoying authentic Japanese
+  cuisine, particularly its all-you-can-eat sushi selections that draw in locals
+  and visitors alike. This casual eatery boasts a kid-friendly atmosphere
+  combined with accessible features like wheelchair-friendly parking and
+  seating, making it easy for everyone to savor fresh rolls and other favorites.
+  With flexible hours that cater to both lunch and dinner crowds, it's an ideal
+  choice for those seeking sushi restaurants near me that blend convenience with
+  quality. The menu highlights a variety of Japanese dishes, ensuring a
+  satisfying experience for anyone exploring top-rated sushi options in the
+  area. Its approachable vibe and thoughtful design add to the appeal, perfect
+  for casual outings or family meals.
+generative_summary: >-
+  Discover The Sushi by Jin in Valley Glen, CA$$$Nestled in Valley Glen, CA, The
+  Sushi by Jin stands out as a welcoming spot for enjoying authentic Japanese
+  cuisine, particularly its all-you-can-eat sushi selections that draw in locals
+  and visitors alike. This casual eatery boasts a kid-friendly atmosphere
+  combined with accessible features like wheelchair-friendly parking and
+  seating, making it easy for everyone to savor fresh rolls and other favorites.
+  With flexible hours that cater to both lunch and dinner crowds, it's an ideal
+  choice for those seeking sushi restaurants near me that blend convenience with
+  quality. The menu highlights a variety of Japanese dishes, ensuring a
+  satisfying experience for anyone exploring top-rated sushi options in the
+  area. Its approachable vibe and thoughtful design add to the appeal, perfect
+  for casual outings or family meals.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Buzzing About$$$Based on the strong 4.5-star rating from
+  hundreds of feedback notes, folks seem to really enjoy the fresh and flavorful
+  sushi at this spot, often calling it one of the best sushi places near me for
+  a reliable meal. Many highlight the generous portions and variety that make it
+  a go-to for Japanese favorites, with comments appreciating the welcoming
+  environment and solid value for the price. While some mention waits during
+  peak times, the overall vibe leans positive, with people loving the
+  kid-friendly setup that keeps things relaxed and fun. If you're on the hunt
+  for sushi close to me that's worth the trip, this place delivers on taste and
+  atmosphere without any major hiccups. All in all, it's a solid pick for anyone
+  craving top-rated sushi experiences that leave you feeling satisfied and ready
+  to return.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +355,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

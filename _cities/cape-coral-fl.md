@@ -5,4 +5,5 @@ permalink: /florida/cape-coral/
 stateAbbr: FL
 stateName: Florida
 cityName: Cape Coral
+
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Teharu Sushi Mesa"
+title: Teharu Sushi Mesa
 permalink: /arizona/mesa/teharu-sushi-mesa.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Mesa
 seo:
-  name: "Teharu Sushi Mesa"
-  type: Restaurant
+  type: restaurant
   links: https://teharu.com/
-description: "Teharu Sushi Mesa serves delicious sushi in Mesa, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJhy2RBDWuK4cR6PBBVOOYJz0
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x872bae3504912d87:0x3d2798e35441f0e8!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 12
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 12
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 12
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 12
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 12
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 12:00 – 9:00 PM'
     - 'Tuesday: 12:00 – 9:00 PM'
     - 'Wednesday: 12:00 – 9:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 12:00 – 9:30 PM'
     - 'Saturday: 12:00 – 9:30 PM'
     - 'Sunday: 12:00 – 9:00 PM'
-  current:
-    - 'Monday: 12:00 – 9:00 PM'
-    - 'Tuesday: 12:00 – 9:00 PM'
-    - 'Wednesday: 12:00 – 9:00 PM'
-    - 'Thursday: 12:00 – 9:00 PM'
-    - 'Friday: 12:00 – 9:30 PM'
-    - 'Saturday: 12:00 – 9:30 PM'
-    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T04:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,238 @@ phone: (480) 832-0959
 price_level: PRICE_LEVEL_INEXPENSIVE
 price_range: $10 &ndash; $20
 rating: '4.2'
-rating_count: 0
+rating_count: 1846
 website: https://teharu.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Teharu Sushi in Mesa, AZ$$$Teharu Sushi Mesa in Mesa, AZ, brings a
+  fun twist to dining with its conveyor belt system featuring fresh sushi and
+  Japanese dishes, perfect for those seeking convenient and flavorful meals.
+  This casual eatery stands out for its affordable pricing and accessible
+  features, including wheelchair-friendly parking and seating, making it
+  welcoming for everyone. Patrons can enjoy a variety of rolls, hot options, and
+  even beverages like beer and cocktails in a relaxed atmosphere that's ideal
+  for families or quick get-togethers. For anyone exploring sushi restaurants in
+  the area, it offers great value without skimping on taste, blending everyday
+  convenience with authentic flavors that keep locals coming back.
+generative_summary: >-
+  Discover Teharu Sushi in Mesa, AZ$$$Teharu Sushi Mesa in Mesa, AZ, brings a
+  fun twist to dining with its conveyor belt system featuring fresh sushi and
+  Japanese dishes, perfect for those seeking convenient and flavorful meals.
+  This casual eatery stands out for its affordable pricing and accessible
+  features, including wheelchair-friendly parking and seating, making it
+  welcoming for everyone. Patrons can enjoy a variety of rolls, hot options, and
+  even beverages like beer and cocktails in a relaxed atmosphere that's ideal
+  for families or quick get-togethers. For anyone exploring sushi restaurants in
+  the area, it offers great value without skimping on taste, blending everyday
+  convenience with authentic flavors that keep locals coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJhy2RBDWuK4cR6PBBVOOYJz0/reviews/ChZDSUhNMG9nS0VJQ0FnTUNROXB5UVRBEAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Hands down the best sushi you will find in this area I went with my gf
+        the prices were really great we were able to grab everything we wanted
+        to our hearts content for only about 30 dollars we had several different
+        sushi rolls and dessert the octopus salad is a must have this place is
+        great for a date or if you just want some great sushi for cheap they
+        offer sake and beer aswell the service is awesome if you love sushi you
+        will absolutely not regret stopping here this is high key my 100%
+        favorite place in the entire neighborhood
+      languageCode: en
+    originalText:
+      text: >-
+        Hands down the best sushi you will find in this area I went with my gf
+        the prices were really great we were able to grab everything we wanted
+        to our hearts content for only about 30 dollars we had several different
+        sushi rolls and dessert the octopus salad is a must have this place is
+        great for a date or if you just want some great sushi for cheap they
+        offer sake and beer aswell the service is awesome if you love sushi you
+        will absolutely not regret stopping here this is high key my 100%
+        favorite place in the entire neighborhood
+      languageCode: en
+    authorAttribution:
+      displayName: Honda Baby
+      uri: https://www.google.com/maps/contrib/105985068142745953595/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVnvGhn9Sd723r3VBRp5kfdiVZZAuhw1qw5iqYWFvupDUSA-Lu9=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-03-04T22:34:44.290568Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNROXB5UVRBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNROXB5UVRBEAE!2m1!1s0x872bae3504912d87:0x3d2798e35441f0e8
+  - name: >-
+      places/ChIJhy2RBDWuK4cR6PBBVOOYJz0/reviews/ChdDSUhNMG9nS0VJQ0FnTURJc2V2Ql9RRRAB
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 5
+    text:
+      text: >-
+        Our family always loves going here. Obviously sitting down and having
+        food immediately available is so nice with little hungry kids around. 
+        Has a decent selection of hot and cold food.
+
+
+        My only complaint I wish the servers would check in on us more
+        often....ie when we're ready for the bill, it always seems to take
+        awhile for them to get us checked out.
+      languageCode: en
+    originalText:
+      text: >-
+        Our family always loves going here. Obviously sitting down and having
+        food immediately available is so nice with little hungry kids around. 
+        Has a decent selection of hot and cold food.
+
+
+        My only complaint I wish the servers would check in on us more
+        often....ie when we're ready for the bill, it always seems to take
+        awhile for them to get us checked out.
+      languageCode: en
+    authorAttribution:
+      displayName: Hoang Tran
+      uri: https://www.google.com/maps/contrib/108338126356864983010/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVv_C9z880iAiBaNSwbNEUftTmhynoTbgBE6O8fMbzxWNyZOwVW=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-10T21:25:34.085600Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJc2V2Ql9RRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJc2V2Ql9RRRAB!2m1!1s0x872bae3504912d87:0x3d2798e35441f0e8
+  - name: >-
+      places/ChIJhy2RBDWuK4cR6PBBVOOYJz0/reviews/ChZDSUhNMG9nS0VJQ0FnSUNIOGJMNFhnEAE
+    relativePublishTimeDescription: 7 months ago
+    rating: 5
+    text:
+      text: >-
+        I was hesitant to write a review about this place. It felt like my own
+        secret hideout. If you love sushi and you like an unbelievable value for
+        your money... You owe it to yourself to check out Teharu. This goes
+        double if you go during off-peak hours!
+      languageCode: en
+    originalText:
+      text: >-
+        I was hesitant to write a review about this place. It felt like my own
+        secret hideout. If you love sushi and you like an unbelievable value for
+        your money... You owe it to yourself to check out Teharu. This goes
+        double if you go during off-peak hours!
+      languageCode: en
+    authorAttribution:
+      displayName: Al Romero
+      uri: https://www.google.com/maps/contrib/107342086941180101344/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVpJfV_27gSo9amvSzdMaFtGCmQyFx4z9FQlmfnqAMNPiKQJV8=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-09-06T03:03:26.199603Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNIOGJMNFhnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNIOGJMNFhnEAE!2m1!1s0x872bae3504912d87:0x3d2798e35441f0e8
+  - name: >-
+      places/ChIJhy2RBDWuK4cR6PBBVOOYJz0/reviews/ChZDSUhNMG9nS0VJQ0FnTURJamVqdmF3EAE
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 5
+    text:
+      text: >-
+        Very cheap for the family. I went yesterday and for 4 people it was
+        under $100. Got drinks food and dessert.5⭐️⭐️⭐️⭐️⭐️
+      languageCode: en
+    originalText:
+      text: >-
+        Very cheap for the family. I went yesterday and for 4 people it was
+        under $100. Got drinks food and dessert.5⭐️⭐️⭐️⭐️⭐️
+      languageCode: en
+    authorAttribution:
+      displayName: Clint Ptak
+      uri: https://www.google.com/maps/contrib/104760029263508381285/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJyvx8wmOzsH6arlU4cJJi06fOZcvSxhMOeqKoto1HvJIyBBw=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-12T01:50:55.345105Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURJamVqdmF3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJamVqdmF3EAE!2m1!1s0x872bae3504912d87:0x3d2798e35441f0e8
+  - name: >-
+      places/ChIJhy2RBDWuK4cR6PBBVOOYJz0/reviews/ChdDSUhNMG9nS0VJQ0FnSUM1cUpHMG9RRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 4
+    text:
+      text: >-
+        Teharu Sushi Mesa wasn't bad. The cost was worth it.  This place had
+        good food and is inexpensive.  The atmosphere was nice, good for a
+        family, a date night with a friend.  It's fun with a converebelt sushi
+        that is covered and made fresh.  The only thing I had with this place is
+        that the converebelt could've been cleaned better and the vents had lots
+        of dust maybe a cleaning is needed but overall I'll give it a B because
+        it wasn't bad and the prices are good for these times I'd go back.
+      languageCode: en
+    originalText:
+      text: >-
+        Teharu Sushi Mesa wasn't bad. The cost was worth it.  This place had
+        good food and is inexpensive.  The atmosphere was nice, good for a
+        family, a date night with a friend.  It's fun with a converebelt sushi
+        that is covered and made fresh.  The only thing I had with this place is
+        that the converebelt could've been cleaned better and the vents had lots
+        of dust maybe a cleaning is needed but overall I'll give it a B because
+        it wasn't bad and the prices are good for these times I'd go back.
+      languageCode: en
+    authorAttribution:
+      displayName: william yamasaki
+      uri: https://www.google.com/maps/contrib/105730463083999568526/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjU7sqZbyDJtL41EuaODyoL08DvnqGit00ueIPqRaLMT5fEZGrCVmA=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2023-10-09T22:20:02.493034Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUM1cUpHMG9RRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUM1cUpHMG9RRRAB!2m1!1s0x872bae3504912d87:0x3d2798e35441f0e8
+review_summary: >-
+  What Customers Are Saying$$$Folks frequently highlight the amazing deals at
+  this spot, where families can enjoy a full meal including drinks and dessert
+  for well under $100, making it a smart pick for budget-friendly outings. The
+  conveyor belt setup adds a playful vibe that's especially fun for groups and
+  kids, with a solid mix of hot and cold dishes that keep things exciting and
+  satisfying. While most diners appreciate the fresh selections and overall
+  experience, a few mention that service could be quicker, particularly when
+  settling the bill, though it doesn't overshadow the positives. All in all,
+  it's often described as a hidden favorite for its unbeatable value and tasty
+  variety, drawing in sushi enthusiasts who want quality without breaking the
+  bank. If you're on the hunt for top-rated sushi nearby, this place
+  consistently earns praise for its approachable and enjoyable dining style.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  paidStreetParking: false
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+curbside_pickup: true
+delivery: false
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: true
+outdoor_seating: false
+reservable: false
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

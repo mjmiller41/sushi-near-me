@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Go Fish Sushi Bar"
+title: Go Fish Sushi Bar
 permalink: /california/simi-valley/go-fish-sushi-bar.html
 stateAbbr: CA
 stateName: California
 cityName: Simi Valley
 seo:
-  name: "Go Fish Sushi Bar"
-  type: Restaurant
+  type: restaurant
   links: https://gofishsushibar.com/
-description: "Go Fish Sushi Bar serves delicious sushi in Simi Valley, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJdd6hKrQu6IARpq7Es4NFoEg
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 0
 website: https://gofishsushibar.com/
+description: >-
+  Discover Go Fish Sushi Bar in Simi Valley, CA$$$Nestled in Simi Valley, CA, Go
+  Fish Sushi Bar stands out as a vibrant spot for fresh Japanese cuisine,
+  blending trendy vibes with a welcoming atmosphere. This eatery delights
+  visitors with its array of vegetarian-friendly dishes and enticing happy-hour
+  specials, making it a go-to choice for casual dining or a lively evening out.
+  Live music adds an extra layer of enjoyment, enhancing the overall experience
+  in a modern setting that caters to various tastes. The menu highlights
+  creative rolls and classic options, appealing to those seeking quality sushi
+  in a relaxed environment, while accessibility features ensure it's easy to
+  visit for everyone.
+generative_summary: >-
+  Discover Go Fish Sushi Bar in Simi Valley, CA$$$Nestled in Simi Valley, CA, Go
+  Fish Sushi Bar stands out as a vibrant spot for fresh Japanese cuisine,
+  blending trendy vibes with a welcoming atmosphere. This eatery delights
+  visitors with its array of vegetarian-friendly dishes and enticing happy-hour
+  specials, making it a go-to choice for casual dining or a lively evening out.
+  Live music adds an extra layer of enjoyment, enhancing the overall experience
+  in a modern setting that caters to various tastes. The menu highlights
+  creative rolls and classic options, appealing to those seeking quality sushi
+  in a relaxed environment, while accessibility features ensure it's easy to
+  visit for everyone.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJdd6hKrQu6IARpq7Es4NFoEg/reviews/ChZDSUhNMG9nS0VJQ0FnSUNEMktUQlhREAE
@@ -318,6 +339,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURmb0pXRXNRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURmb0pXRXNRRRAB!2m1!1s0x80e82eb42aa1de75:0x48a04583b3c4aea6
+review_summary: >-
+  What Visitors Are Saying$$$Folks rave about the standout sushi at this spot,
+  praising its fresh flavors and generous portions that leave you feeling
+  satisfied without needing extras. Many highlight the quick service and
+  welcoming staff, making meals feel effortless and enjoyable, especially for
+  takeout or dine-in crowds. Reviewers often note it as a top pick in the area,
+  with creative rolls stealing the show for their unique twists on traditional
+  favorites. Overall, the vibe comes across as a local gem that's perfect for
+  groups or solo diners, offering solid value that keeps people coming back for
+  more. While opinions are mostly glowing, some mention it's a busy place, so
+  planning ahead can make for a smoother visit.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -349,7 +382,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -5,4 +5,5 @@ permalink: /pennsylvania/paoli/
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Paoli
+
 ---

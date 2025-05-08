@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Tomo Sushi"
+title: Tomo Sushi
 permalink: /new-jersey/princeton/tomo-sushi.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Princeton
 seo:
-  name: "Tomo Sushi"
-  type: Restaurant
-  links: null
-description: "Tomo Sushi serves delicious sushi in Princeton, New Jersey. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://princetontomosushi.com/
 place_id: ChIJ4-ukBOjmw4kRS0VMx_BuklI
 photos:
   - name: >-
@@ -166,8 +164,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c3e6e804a4ebe3:0x52926ef0c74c454b!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 20
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 20
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 20
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 20
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 20
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 20
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:30 AM – 8:30 PM'
+    - 'Tuesday: 11:30 AM – 8:30 PM'
+    - 'Wednesday: 11:30 AM – 8:30 PM'
+    - 'Thursday: 11:30 AM – 8:30 PM'
+    - 'Friday: 11:30 AM – 8:30 PM'
+    - 'Saturday: 11:30 AM – 8:30 PM'
+    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T00:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -175,13 +230,53 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (609) 924-8478
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.1'
+rating_count: 107
+website: http://princetontomosushi.com/
+description: >-
+  Discover Tomo Sushi in Princeton, NJ$$$Tomo Sushi in Princeton, NJ, stands out
+  as a welcoming Japanese spot run by a family dedicated to authentic flavors
+  and takeout convenience for lunch and dinner. This cozy sushi restaurant near
+  Princeton offers a menu featuring fresh rolls and traditional dishes that
+  highlight high-quality ingredients, making it a go-to choice for those seeking
+  Japanese places near me. With its moderate pricing and inviting atmosphere,
+  it's perfect for a quick meal or a relaxed dining experience, especially if
+  you're exploring top-rated sushi options in the area. Operating from late
+  morning until evening most days, it caters to busy schedules, ensuring you can
+  savor delicious bites without hassle. Whether you're in the mood for sushi
+  close to me or simply craving something light and flavorful, Tomo Sushi
+  delivers a satisfying blend of taste and accessibility.
+generative_summary: >-
+  Discover Tomo Sushi in Princeton, NJ$$$Tomo Sushi in Princeton, NJ, stands out
+  as a welcoming Japanese spot run by a family dedicated to authentic flavors
+  and takeout convenience for lunch and dinner. This cozy sushi restaurant near
+  Princeton offers a menu featuring fresh rolls and traditional dishes that
+  highlight high-quality ingredients, making it a go-to choice for those seeking
+  Japanese places near me. With its moderate pricing and inviting atmosphere,
+  it's perfect for a quick meal or a relaxed dining experience, especially if
+  you're exploring top-rated sushi options in the area. Operating from late
+  morning until evening most days, it caters to busy schedules, ensuring you can
+  savor delicious bites without hassle. Whether you're in the mood for sushi
+  close to me or simply craving something light and flavorful, Tomo Sushi
+  delivers a satisfying blend of taste and accessibility.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Feedback from visitors to this sushi spot
+  highlights its solid reputation for fresh and tasty offerings that keep people
+  coming back for more. Many appreciate the consistent quality of the rolls and
+  dishes, noting that it's a reliable choice for anyone hunting for the best
+  sushi near me, with a rating that reflects genuine satisfaction. Folks often
+  mention the efficient service and value for money, making it feel like a
+  neighborhood favorite without any major drawbacks. Overall, the vibe is
+  positive, with comments praising the straightforward menu that suits both solo
+  diners and groups, encouraging a casual stop for Japanese cuisine lovers. If
+  you're on the hunt for sushi restaurants near me, this place earns its spot as
+  a dependable option that's worth trying for a fulfilling meal.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -207,7 +302,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

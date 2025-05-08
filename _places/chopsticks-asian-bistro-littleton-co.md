@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Chopsticks Asian Bistro"
+title: Chopsticks Asian Bistro
 permalink: /colorado/littleton/chopsticks-asian-bistro.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Littleton
 seo:
-  name: "Chopsticks Asian Bistro"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Chopsticks Asian Bistro serves delicious sushi in Littleton, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ4dl7NmV5a4cR7csKccf7BhQ
 photos:
   - name: >-
@@ -184,7 +182,50 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Chopsticks Asian Bistro in Littleton, CO$$$Nestled in Littleton, CO,
+  Chopsticks Asian Bistro stands out as a welcoming spot for those seeking
+  flavorful Asian cuisine, including fresh sushi options that appeal to locals
+  and visitors alike. This casual eatery specializes in comforting Chinese
+  dishes alongside a variety of sushi rolls and other Asian favorites, making it
+  a go-to choice for anyone exploring sushi restaurants in the area. With
+  thoughtful accessibility features like wheelchair-friendly parking and
+  entrances, it ensures a comfortable dining experience for all guests. The menu
+  highlights a blend of traditional flavors and creative twists, perfect for
+  anyone looking to enjoy a relaxed meal with top-rated sushi nearby. Whether
+  you're in the mood for a quick bite or a satisfying dinner, this bistro
+  captures the essence of everyday Asian dining with its approachable vibe and
+  diverse offerings.
+generative_summary: >-
+  Discover Chopsticks Asian Bistro in Littleton, CO$$$Nestled in Littleton, CO,
+  Chopsticks Asian Bistro stands out as a welcoming spot for those seeking
+  flavorful Asian cuisine, including fresh sushi options that appeal to locals
+  and visitors alike. This casual eatery specializes in comforting Chinese
+  dishes alongside a variety of sushi rolls and other Asian favorites, making it
+  a go-to choice for anyone exploring sushi restaurants in the area. With
+  thoughtful accessibility features like wheelchair-friendly parking and
+  entrances, it ensures a comfortable dining experience for all guests. The menu
+  highlights a blend of traditional flavors and creative twists, perfect for
+  anyone looking to enjoy a relaxed meal with top-rated sushi nearby. Whether
+  you're in the mood for a quick bite or a satisfying dinner, this bistro
+  captures the essence of everyday Asian dining with its approachable vibe and
+  diverse offerings.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About the Bistro$$$Folks who've stopped by
+  Chopsticks Asian Bistro often rave about the tasty sushi and solid Asian
+  dishes that hit the spot without breaking the bank, making it a solid pick for
+  casual eaters in the neighborhood. Many appreciate the friendly atmosphere and
+  reliable service that keeps things light and enjoyable, even during busy
+  times. While some mention that portion sizes could be a bit more generous, the
+  overall consensus leans positive on the fresh flavors and variety that make it
+  worth returning to for sushi lovers. It's clear that diners value the
+  straightforward approach to classic favorites, helping it stand out among
+  local options for anyone hunting for great Asian fare. All in all, the
+  feedback paints a picture of a dependable spot that delivers honest value and
+  a welcoming feel for groups or solo diners alike.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +251,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

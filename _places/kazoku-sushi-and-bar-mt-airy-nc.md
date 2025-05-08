@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kazoku Sushi and Bar"
+title: Kazoku Sushi and Bar
 permalink: /north-carolina/mt-airy/kazoku-sushi-and-bar.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Mt Airy
 seo:
-  name: "Kazoku Sushi and Bar"
-  type: Restaurant
+  type: restaurant
   links: https://linktr.ee/kazokuMA
-description: "Kazoku Sushi and Bar serves delicious sushi in Mt Airy, North Carolina. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJrau7z6g9UogRGnnECdgowdI
 photos:
   - name: >-
@@ -185,6 +183,27 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 0
 website: https://linktr.ee/kazokuMA
+description: >-
+  Discover Kazoku Sushi in Mt Airy, NC$$$Kazoku Sushi and Bar in Mt Airy, NC,
+  stands out as a welcoming spot for those seeking authentic Japanese flavors in
+  a relaxed setting. This sushi restaurant offers a diverse array of fresh
+  rolls, hibachi dishes, and creative cocktails, making it a go-to choice for
+  casual dining experiences. With its family-friendly vibe and thoughtful menu
+  options like kid-sized portions, it's easy to enjoy a meal that balances fun
+  and tradition. The establishment's accessible features and inviting decor
+  enhance the overall appeal, drawing in locals and visitors looking for quality
+  sushi options nearby.
+generative_summary: >-
+  Discover Kazoku Sushi in Mt Airy, NC$$$Kazoku Sushi and Bar in Mt Airy, NC,
+  stands out as a welcoming spot for those seeking authentic Japanese flavors in
+  a relaxed setting. This sushi restaurant offers a diverse array of fresh
+  rolls, hibachi dishes, and creative cocktails, making it a go-to choice for
+  casual dining experiences. With its family-friendly vibe and thoughtful menu
+  options like kid-sized portions, it's easy to enjoy a meal that balances fun
+  and tradition. The establishment's accessible features and inviting decor
+  enhance the overall appeal, drawing in locals and visitors looking for quality
+  sushi options nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJrau7z6g9UogRGnnECdgowdI/reviews/ChdDSUhNMG9nS0VJQ0FnSUQzdlpHVTBBRRAB
@@ -352,6 +371,17 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN2a1pYYy1RRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN2a1pYYy1RRRAB!2m1!1s0x88523da8cfbbabad:0xd2c128d809c4791a
+review_summary: >-
+  What Guests Are Saying About This Spot$$$Visitors to this sushi place often
+  praise the fresh and flavorful dishes, highlighting the variety of rolls and
+  hibachi that make every meal feel satisfying and inventive. Many appreciate
+  the generous portions and welcoming atmosphere, which add to the overall
+  enjoyment without overwhelming the senses. Folks frequently mention the
+  attentive service and family-friendly vibe, making it a solid pick for groups
+  or casual outings. While some note it gets busy during peak times, the
+  consistent positives around taste and value keep the feedback upbeat,
+  encouraging others to try this hidden gem for a reliable sushi experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -384,7 +414,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

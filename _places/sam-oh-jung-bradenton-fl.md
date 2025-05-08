@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sam Oh Jung"
+title: Sam Oh Jung
 permalink: /florida/bradenton/sam-oh-jung.html
 stateAbbr: FL
 stateName: Florida
 cityName: Bradenton
 seo:
-  name: "Sam Oh Jung"
-  type: Restaurant
+  type: restaurant
   links: https://www.facebook.com/samohjung
-description: "Classic Japanese fare with sushi bar seating, Asian interior details, & colorful lighting. Sam Oh Jung serves delicious sushi in Bradenton, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJa4hHgOUVw4gRN_vsFJwJR7U
 photos:
   - name: >-
@@ -185,6 +183,25 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 0
 website: https://www.facebook.com/samohjung
+description: >-
+  Discover Sam Oh Jung in Bradenton, FL$$$Sam Oh Jung in Bradenton, Florida,
+  stands out as a cozy sushi destination blending classic Japanese flavors with
+  a welcoming vibe. This spot features fresh seafood rolls and a diverse array
+  of dishes, making it a go-to for those seeking quality sushi nearby. With its
+  vibrant decor and accessible seating, the restaurant offers generous portions
+  at moderate prices, perfect for a relaxed dining experience. It caters to
+  various preferences, including vegetarian options and easy takeout, ensuring a
+  convenient visit for families or individuals exploring top sushi in the area.
+generative_summary: >-
+  Discover Sam Oh Jung in Bradenton, FL$$$Sam Oh Jung in Bradenton, Florida,
+  stands out as a cozy sushi destination blending classic Japanese flavors with
+  a welcoming vibe. This spot features fresh seafood rolls and a diverse array
+  of dishes, making it a go-to for those seeking quality sushi nearby. With its
+  vibrant decor and accessible seating, the restaurant offers generous portions
+  at moderate prices, perfect for a relaxed dining experience. It caters to
+  various preferences, including vegetarian options and easy takeout, ensuring a
+  convenient visit for families or individuals exploring top sushi in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJa4hHgOUVw4gRN_vsFJwJR7U/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ5cV9UTm1BRRAB
@@ -406,6 +423,17 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNSNThMbzdBRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNSNThMbzdBRRAB!2m1!1s0x88c315e58047886b:0xb547099c14ecfb37
+review_summary: >-
+  What Customers Are Saying About This Spot$$$Folks heading to this sushi
+  favorite often highlight the fresh ingredients and hearty portions that make
+  meals feel worthwhile and satisfying. Many appreciate the friendly service and
+  wide range of flavors, which suit groups or casual get-togethers without
+  breaking the bank. While some note minor inconsistencies in certain dishes,
+  the overall vibe remains upbeat with plenty of positive feedback on its
+  authentic tastes and value. If you're on the hunt for reliable sushi options
+  in the neighborhood, this place generally delivers a solid experience that's
+  worth trying for a flavorful escape.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -438,8 +466,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Classic Japanese fare with sushi bar seating, Asian interior details, &
   colorful lighting.
 

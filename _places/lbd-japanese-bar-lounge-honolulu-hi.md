@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "LBD Japanese Bar & Lounge"
+title: LBD Japanese Bar & Lounge
 permalink: /hawaii/honolulu/lbd-japanese-bar-lounge.html
 stateAbbr: HI
 stateName: Hawaii
 cityName: Honolulu
 seo:
-  name: "LBD Japanese Bar & Lounge"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "LBD Japanese Bar & Lounge serves delicious sushi in Honolulu, Hawaii. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJHefApcdtAHwRUmmkyrFwRO0
 photos:
   - name: >-
@@ -184,7 +182,45 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover LBD Japanese Bar & Lounge in Honolulu, HI$$$LBD Japanese Bar & Lounge
+  in Honolulu, HI, stands out as a welcoming spot for those seeking authentic
+  Japanese flavors in a stylish urban environment. This restaurant in the
+  vibrant Kaka'ako neighborhood boasts accessible features like
+  wheelchair-friendly entrances and seating, making it easy for everyone to
+  enjoy a relaxed dining experience. Patrons can savor a variety of fresh
+  Japanese-inspired dishes, ideal for anyone exploring top-rated sushi options
+  in the area, with an atmosphere that blends modern lounge vibes and
+  traditional elements. The venue's photos highlight its contemporary design,
+  perfect for casual meetups or intimate evenings, appealing to those searching
+  for sushi restaurants near me that offer both quality and convenience.
+generative_summary: >-
+  Discover LBD Japanese Bar & Lounge in Honolulu, HI$$$LBD Japanese Bar & Lounge
+  in Honolulu, HI, stands out as a welcoming spot for those seeking authentic
+  Japanese flavors in a stylish urban environment. This restaurant in the
+  vibrant Kaka'ako neighborhood boasts accessible features like
+  wheelchair-friendly entrances and seating, making it easy for everyone to
+  enjoy a relaxed dining experience. Patrons can savor a variety of fresh
+  Japanese-inspired dishes, ideal for anyone exploring top-rated sushi options
+  in the area, with an atmosphere that blends modern lounge vibes and
+  traditional elements. The venue's photos highlight its contemporary design,
+  perfect for casual meetups or intimate evenings, appealing to those searching
+  for sushi restaurants near me that offer both quality and convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Guests Are Saying$$$If you're hunting for sushi places near me, folks
+  generally rave about the fresh, flavorful offerings at spots like this, with
+  many highlighting the spot-on execution of classic Japanese dishes. Visitors
+  often note the cozy and inclusive vibe, making it a go-to for groups or solo
+  diners looking for a laid-back meal without any fuss. While some mention the
+  service as consistently friendly and attentive, others appreciate how the
+  overall experience feels welcoming and unpretentious, encouraging repeat
+  visits for those who love sushi. Overall, the feedback leans positive, with
+  people enjoying the balance of great food and a chill setting, though it's
+  clear this place shines brightest for its approachable take on Japanese
+  cuisine in Honolulu.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +246,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

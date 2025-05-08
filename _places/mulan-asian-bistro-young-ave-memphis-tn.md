@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Mulan Asian Bistro - Young Ave"
+title: Mulan Asian Bistro - Young Ave
 permalink: /tennessee/memphis/mulan-asian-bistro-young-ave.html
 stateAbbr: TN
 stateName: Tennessee
 cityName: Memphis
 seo:
-  name: "Mulan Asian Bistro - Young Ave"
-  type: Restaurant
-  links: null
-description: "Mulan Asian Bistro - Young Ave serves delicious sushi in Memphis, Tennessee. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.mulanmemphis.com/
 place_id: ChIJeeWY2FGHf4gRLHHHkajJMaM
 photos:
   - name: >-
@@ -170,22 +168,186 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x887f8751d898e579:0xa331c9a891c7712c!10e5
 primary_type: Asian Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 10:00 PM'
+    - 'Tuesday: 11:00 AM – 10:00 PM'
+    - 'Wednesday: 11:00 AM – 10:00 PM'
+    - 'Thursday: 11:00 AM – 10:00 PM'
+    - 'Friday: 11:00 AM – 11:00 PM'
+    - 'Saturday: 11:00 AM – 11:00 PM'
+    - 'Sunday: 11:00 AM – 10:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 0
+        close:
+          day: 0
+          hour: 19
+          minute: 0
+      - open:
+          day: 1
+          hour: 15
+          minute: 0
+        close:
+          day: 1
+          hour: 18
+          minute: 0
+      - open:
+          day: 2
+          hour: 15
+          minute: 0
+        close:
+          day: 2
+          hour: 18
+          minute: 0
+      - open:
+          day: 3
+          hour: 15
+          minute: 0
+        close:
+          day: 3
+          hour: 18
+          minute: 0
+      - open:
+          day: 4
+          hour: 15
+          minute: 0
+        close:
+          day: 4
+          hour: 18
+          minute: 0
+      - open:
+          day: 5
+          hour: 15
+          minute: 0
+        close:
+          day: 5
+          hour: 18
+          minute: 0
+      - open:
+          day: 6
+          hour: 15
+          minute: 0
+        close:
+          day: 6
+          hour: 18
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 3:00 – 6:00 PM'
+      - 'Tuesday: 3:00 – 6:00 PM'
+      - 'Wednesday: 3:00 – 6:00 PM'
+      - 'Thursday: 3:00 – 6:00 PM'
+      - 'Friday: 3:00 – 6:00 PM'
+      - 'Saturday: 3:00 – 6:00 PM'
+      - 'Sunday: 12:00 – 7:00 PM'
+    secondaryHoursType: HAPPY_HOUR
+    nextCloseTime: '2025-05-03T23:00:00Z'
+phone: (901) 347-3965
+price_level: PRICE_LEVEL_MODERATE
+price_range: $30 &ndash; $50
+rating: '4.1'
+rating_count: 1053
+website: https://www.mulanmemphis.com/
+description: >-
+  About Mulan Asian Bistro in Memphis, TN$$$Nestled in the heart of Memphis, TN,
+  Mulan Asian Bistro stands out as a welcoming spot for those seeking flavorful
+  Asian cuisine and fresh sushi options. This vibrant bistro offers a mix of
+  classic dishes like savory soups and stir-fries, complemented by an array of
+  handcrafted rolls that appeal to sushi enthusiasts exploring local dining
+  scenes. With its accessible entrance and seating designed for all guests, it
+  provides a comfortable atmosphere for enjoying sake alongside creative menu
+  items. The establishment's extended hours make it a convenient choice for
+  casual lunches or evening gatherings, blending traditional flavors with a
+  modern twist that keeps diners coming back for more.
+generative_summary: >-
+  About Mulan Asian Bistro in Memphis, TN$$$Nestled in the heart of Memphis, TN,
+  Mulan Asian Bistro stands out as a welcoming spot for those seeking flavorful
+  Asian cuisine and fresh sushi options. This vibrant bistro offers a mix of
+  classic dishes like savory soups and stir-fries, complemented by an array of
+  handcrafted rolls that appeal to sushi enthusiasts exploring local dining
+  scenes. With its accessible entrance and seating designed for all guests, it
+  provides a comfortable atmosphere for enjoying sake alongside creative menu
+  items. The establishment's extended hours make it a convenient choice for
+  casual lunches or evening gatherings, blending traditional flavors with a
+  modern twist that keeps diners coming back for more.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About This Sushi Spot$$$Visitors to this Memphis
+  favorite often rave about the consistently fresh and tasty sushi rolls, making
+  it a go-to option for anyone searching for reliable Asian eats nearby. Many
+  appreciate the friendly service and cozy vibe that enhance the overall dining
+  experience, with comments highlighting the generous portions and well-priced
+  menu as standout features. While a few mention occasional waits during peak
+  times, the general consensus leans positive, praising the quality ingredients
+  and variety that cater to both solo diners and groups. Overall, the solid
+  rating reflects a welcoming environment where the fusion of flavors keeps the
+  feedback upbeat, encouraging newcomers to give it a try for a satisfying meal.
+  This spot continues to earn nods as one of the top choices for casual sushi
+  lovers in the area.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +373,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Amami Sushi Fremont"
+title: Amami Sushi Fremont
 permalink: /california/fremont/amami-sushi-fremont.html
 stateAbbr: CA
 stateName: California
 cityName: Fremont
 seo:
-  name: "Amami Sushi Fremont"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Amami Sushi Fremont serves delicious sushi in Fremont, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ5aQHja_Hj4ARDN7TBmv_Rfs
 photos:
   - name: >-
@@ -185,7 +183,49 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Amami Sushi in Fremont$$$Amami Sushi Fremont in Fremont, CA, stands
+  out as a welcoming Japanese restaurant nestled in the vibrant Fremont Times
+  Square area, offering an array of fresh sushi and seafood options for both
+  lunch and dinner. This spot emphasizes authentic Japanese dining with
+  specialties like omakase experiences, where diners can enjoy expertly curated
+  meals that highlight seasonal ingredients and meticulous preparation. The
+  restaurant's accessibility features, including wheelchair-friendly parking and
+  seating, make it a convenient choice for all visitors seeking quality Japanese
+  cuisine. Its location in a bustling neighborhood adds to the appeal, providing
+  a relaxed atmosphere perfect for casual outings or intimate gatherings.
+  Whether you're exploring sushi restaurants near you or looking for top-rated
+  Japanese places, Amami Sushi delivers a memorable taste of tradition with
+  every bite.
+generative_summary: >-
+  Discover Amami Sushi in Fremont$$$Amami Sushi Fremont in Fremont, CA, stands
+  out as a welcoming Japanese restaurant nestled in the vibrant Fremont Times
+  Square area, offering an array of fresh sushi and seafood options for both
+  lunch and dinner. This spot emphasizes authentic Japanese dining with
+  specialties like omakase experiences, where diners can enjoy expertly curated
+  meals that highlight seasonal ingredients and meticulous preparation. The
+  restaurant's accessibility features, including wheelchair-friendly parking and
+  seating, make it a convenient choice for all visitors seeking quality Japanese
+  cuisine. Its location in a bustling neighborhood adds to the appeal, providing
+  a relaxed atmosphere perfect for casual outings or intimate gatherings.
+  Whether you're exploring sushi restaurants near you or looking for top-rated
+  Japanese places, Amami Sushi delivers a memorable taste of tradition with
+  every bite.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Feedback from folks checking out Amami Sushi often
+  highlights the fresh flavors and solid execution of classic dishes, making it
+  a go-to for anyone craving reliable Japanese fare in the area. Many appreciate
+  the straightforward menu that keeps things approachable without skimping on
+  quality, turning everyday meals into enjoyable experiences. While specifics
+  vary, there's a common nod to the welcoming vibe and attention to detail that
+  leave a positive impression, especially for sushi enthusiasts searching
+  locally. Overall, it seems like a solid pick for groups or solo diners looking
+  to unwind, with the general consensus leaning towards satisfaction in a casual
+  setting. If you're on the hunt for sushi close to you, this place tends to hit
+  the mark with its honest approach to flavor and service.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +251,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

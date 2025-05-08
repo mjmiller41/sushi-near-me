@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "OTOBO Sushi & Bar"
+title: OTOBO Sushi & Bar
 permalink: /illinois/bolingbrook/otobo-sushi-bar.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Bolingbrook
 seo:
-  name: "OTOBO Sushi & Bar"
-  type: Restaurant
+  type: restaurant
   links: http://www.otobosushibar.com/
-description: "Easygoing eatery & sushi bar offering specialty rolls, ramen, Asian fusion dishes, cocktails & beer. OTOBO Sushi & Bar serves delicious sushi in Bolingbrook, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJCamjpiFZDogR0dVSiJ8Cffk
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 0
 website: http://www.otobosushibar.com/
+description: >-
+  Discover OTOBO Sushi & Bar in Bolingbrook, IL$$$OTOBO Sushi & Bar in
+  Bolingbrook, IL, offers a relaxed and inviting atmosphere perfect for savoring
+  fresh sushi rolls and Japanese-inspired fare. This spot stands out with its
+  selection of specialty rolls, tempura, and Asian fusion dishes, complemented
+  by a variety of beers, wines, and sake for a well-rounded dining experience.
+  Accessibility features like wheelchair-friendly parking and entrances make it
+  easy for everyone to enjoy, while outdoor seating and takeout options add to
+  its appeal for casual meals. If you're searching for sushi restaurants nearby,
+  this location delivers moderate pricing and a cozy vibe that highlights its
+  commitment to quality Japanese cuisine.
+generative_summary: >-
+  Discover OTOBO Sushi & Bar in Bolingbrook, IL$$$OTOBO Sushi & Bar in
+  Bolingbrook, IL, offers a relaxed and inviting atmosphere perfect for savoring
+  fresh sushi rolls and Japanese-inspired fare. This spot stands out with its
+  selection of specialty rolls, tempura, and Asian fusion dishes, complemented
+  by a variety of beers, wines, and sake for a well-rounded dining experience.
+  Accessibility features like wheelchair-friendly parking and entrances make it
+  easy for everyone to enjoy, while outdoor seating and takeout options add to
+  its appeal for casual meals. If you're searching for sushi restaurants nearby,
+  this location delivers moderate pricing and a cozy vibe that highlights its
+  commitment to quality Japanese cuisine.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJCamjpiFZDogR0dVSiJ8Cffk/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJOHRHTjh3RRAB
@@ -344,6 +365,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQ3aWZydzZnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQ3aWZydzZnRRAB!2m1!1s0x880e5921a6a3a909:0xf97d029f8852d5d1
+review_summary: >-
+  What Customers Love About This Sushi Spot$$$Folks frequently rave about the
+  fresh and flavorful sushi rolls that make this place a standout choice for
+  anyone craving top-rated options close by. Many appreciate the attentive
+  service and welcoming environment that turn a simple meal into a enjoyable
+  outing, with highlights on the variety of dishes and drinks that keep things
+  exciting. Reviewers often note the great value for the quality, mentioning
+  generous portions and a clean, comfortable setting that's ideal for groups or
+  quick lunches. Overall, it's praised as a reliable go-to for satisfying
+  Japanese fare, with positive feedback on the overall experience that
+  encourages repeat visits. While a few mention it's not perfect for every
+  palate, the consensus leans toward it being a solid pick for those exploring
+  sushi places near them.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -375,8 +410,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Easygoing eatery & sushi bar offering specialty rolls, ramen, Asian fusion
   dishes, cocktails & beer.
 

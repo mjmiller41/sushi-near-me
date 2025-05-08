@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Tisumi Sushi"
+title: Tisumi Sushi
 permalink: /connecticut/glastonbury/tisumi-sushi.html
 stateAbbr: CT
 stateName: Connecticut
 cityName: Glastonbury
 seo:
-  name: "Tisumi Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.tisumisushict.com/#/
-description: "Tisumi Sushi serves delicious sushi in Glastonbury, Connecticut. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJTdEAlIBR5okR-L9Q8sWA8-M
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: null
 rating: '4.2'
 rating_count: 0
 website: https://www.tisumisushict.com/#/
+description: >-
+  Discover Tisumi Sushi in Glastonbury, CT$$$Tisumi Sushi in Glastonbury, CT,
+  offers a laid-back vibe perfect for enjoying fresh Asian-inspired dishes
+  without the fuss. This spot specializes in a variety of sushi rolls and other
+  flavorful options, enhanced by happy hour deals that add extra appeal for
+  casual diners. Families will find it welcoming with a dedicated menu for kids,
+  making it easy to share a meal together in a relaxed environment.
+  Accessibility features like ample parking and wheelchair-friendly entrances
+  ensure everyone can enjoy the experience comfortably. If you're exploring
+  sushi restaurants near you, Tisumi stands out as a reliable choice for quality
+  Japanese cuisine in a neighborhood setting.
+generative_summary: >-
+  Discover Tisumi Sushi in Glastonbury, CT$$$Tisumi Sushi in Glastonbury, CT,
+  offers a laid-back vibe perfect for enjoying fresh Asian-inspired dishes
+  without the fuss. This spot specializes in a variety of sushi rolls and other
+  flavorful options, enhanced by happy hour deals that add extra appeal for
+  casual diners. Families will find it welcoming with a dedicated menu for kids,
+  making it easy to share a meal together in a relaxed environment.
+  Accessibility features like ample parking and wheelchair-friendly entrances
+  ensure everyone can enjoy the experience comfortably. If you're exploring
+  sushi restaurants near you, Tisumi stands out as a reliable choice for quality
+  Japanese cuisine in a neighborhood setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJTdEAlIBR5okR-L9Q8sWA8-M/reviews/ChdDSUhNMG9nS0VJQ0FnSUNYcXNQMnlnRRAB
@@ -356,6 +377,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNJOXU2WUt3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNJOXU2WUt3EAE!2m1!1s0x89e651809400d14d:0xe3f380c5f250bff8
+review_summary: >-
+  What Customers Are Saying$$$Folks generally love the fresh flavors and speedy
+  service at this sushi spot, often praising the wide range of options that make
+  it ideal for a quick bite or group outing. Many highlight how convenient it
+  is, with minimal waits and consistent quality that keeps them coming back for
+  more. While one visitor mentioned a disappointing dish, the overall consensus
+  leans positive, noting that portions are generally satisfying and the
+  atmosphere feels just right for everyday dining. It's frequently recommended
+  for anyone seeking tasty Japanese fare in a casual environment, with most
+  agreeing it's a solid pick for families or those in a hurry. If you're on the
+  lookout for top-rated sushi places nearby, this location gets plenty of nods
+  for its reliable and enjoyable vibe.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -388,7 +422,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

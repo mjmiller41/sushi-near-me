@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Okada Japanese Restaurant & Sushi Bar"
+title: Okada Japanese Restaurant & Sushi Bar
 permalink: /virginia/ashburn/okada-japanese-restaurant-sushi-bar.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Ashburn
 seo:
-  name: "Okada Japanese Restaurant & Sushi Bar"
-  type: Restaurant
+  type: restaurant
   links: http://www.okadajapaneserestaurant.com/
-description: "Modern spot for sushi, hibachi dishes & other Japanese food, plus a full bar with a variety of sake. Okada Japanese Restaurant & Sushi Bar serves delicious sushi in Ashburn, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJIxP8OFk5tokRPu8zgJlfbTw
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $20 &ndash; $30
 rating: '4.1'
 rating_count: 0
 website: http://www.okadajapaneserestaurant.com/
+description: >-
+  Discover Okada in Ashburn, VA$$$Nestled in the heart of Ashburn, VA, Okada
+  Japanese Restaurant & Sushi Bar offers a delightful array of Japanese cuisine
+  that highlights fresh sushi, hibachi favorites, and flavorful ramen in a
+  modern, relaxed setting. This spot stands out for its trendy atmosphere, where
+  diners can enjoy well-prepared dishes that blend traditional flavors with
+  contemporary presentation, making it a go-to for those seeking authentic
+  Japanese dining options nearby. Accessibility features like
+  wheelchair-friendly entrances and seating ensure a welcoming experience for
+  all visitors, while the menu caters to a variety of tastes with vegetarian
+  choices and a selection of beverages including sake and cocktails. The
+  restaurant's moderate pricing provides good value for quality meals, appealing
+  to anyone exploring top-rated sushi restaurants in the area.
+generative_summary: >-
+  Discover Okada in Ashburn, VA$$$Nestled in the heart of Ashburn, VA, Okada
+  Japanese Restaurant & Sushi Bar offers a delightful array of Japanese cuisine
+  that highlights fresh sushi, hibachi favorites, and flavorful ramen in a
+  modern, relaxed setting. This spot stands out for its trendy atmosphere, where
+  diners can enjoy well-prepared dishes that blend traditional flavors with
+  contemporary presentation, making it a go-to for those seeking authentic
+  Japanese dining options nearby. Accessibility features like
+  wheelchair-friendly entrances and seating ensure a welcoming experience for
+  all visitors, while the menu caters to a variety of tastes with vegetarian
+  choices and a selection of beverages including sake and cocktails. The
+  restaurant's moderate pricing provides good value for quality meals, appealing
+  to anyone exploring top-rated sushi restaurants in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJIxP8OFk5tokRPu8zgJlfbTw/reviews/ChdDSUhNMG9nS0VJQ0FnSUNUNW9QUy13RRAB
@@ -426,6 +451,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNBcWZyZE5REAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNBcWZyZE5REAE!2m1!1s0x89b6395938fc1323:0x3c6d5f998033ef3e
+review_summary: >-
+  What Customers Are Saying$$$Visitors to Okada often rave about the tasty sushi
+  and ramen dishes that deliver a satisfying mix of flavors and fresh
+  ingredients, making it a solid pick for casual Japanese meals. Many appreciate
+  the friendly service and helpful recommendations from staff, which enhance the
+  overall dining experience without any major complaints. While some note that
+  portions could be a bit more generous, the variety on the menu keeps things
+  exciting for groups or individuals looking for something different. The lively
+  atmosphere and efficient operations, even during busy times, add to its charm,
+  encouraging repeat visits for those in the mood for reliable, enjoyable eats.
+  Overall, it's a welcoming place that earns praise for its balance of quality
+  and affordability, ideal for anyone hunting for great sushi spots nearby.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -458,8 +496,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Modern spot for sushi, hibachi dishes & other Japanese food, plus a full bar
   with a variety of sake.
 

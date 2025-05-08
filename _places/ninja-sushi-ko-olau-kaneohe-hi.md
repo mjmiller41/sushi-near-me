@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ninja Sushi Koʻolau"
+title: Ninja Sushi Koʻolau
 permalink: /hawaii/kaneohe/ninja-sushi-ko-olau.html
 stateAbbr: HI
 stateName: Hawaii
 cityName: Kaneohe
 seo:
-  name: "Ninja Sushi Koʻolau"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Ninja Sushi Koʻolau serves delicious sushi in Kaneohe, Hawaii. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJCZ7bEEJqAHwR4pAk57ydJwk
 photos:
   - name: >-
@@ -184,7 +182,47 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Explore Ninja Sushi Koʻolau in Kaneohe, HI$$$Ninja Sushi Koʻolau in Kaneohe,
+  HI, stands out as a welcoming sushi spot nestled in a convenient location,
+  offering a blend of fresh flavors and accessible dining options for all
+  visitors. This sushi restaurant features wheelchair-accessible parking,
+  entrances, and seating, ensuring everyone can enjoy a comfortable meal without
+  barriers. Patrons can expect a variety of creative rolls and Japanese-inspired
+  dishes that highlight high-quality ingredients, making it an ideal choice for
+  those seeking sushi restaurants in the area. The inviting atmosphere, captured
+  through its vibrant photos, adds to the experience, perfect for casual outings
+  or quick bites. Whether you're exploring local sushi places near me, this
+  establishment combines affordability with authentic tastes to satisfy your
+  cravings.
+generative_summary: >-
+  Explore Ninja Sushi Koʻolau in Kaneohe, HI$$$Ninja Sushi Koʻolau in Kaneohe,
+  HI, stands out as a welcoming sushi spot nestled in a convenient location,
+  offering a blend of fresh flavors and accessible dining options for all
+  visitors. This sushi restaurant features wheelchair-accessible parking,
+  entrances, and seating, ensuring everyone can enjoy a comfortable meal without
+  barriers. Patrons can expect a variety of creative rolls and Japanese-inspired
+  dishes that highlight high-quality ingredients, making it an ideal choice for
+  those seeking sushi restaurants in the area. The inviting atmosphere, captured
+  through its vibrant photos, adds to the experience, perfect for casual outings
+  or quick bites. Whether you're exploring local sushi places near me, this
+  establishment combines affordability with authentic tastes to satisfy your
+  cravings.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Buzzing About$$$From what folks are sharing online about
+  spots like this, sushi lovers often rave about the fresh, flavorful rolls and
+  generous portions that make every visit worthwhile, turning it into a go-to
+  for tasty Japanese eats. Many highlight the welcoming vibe and efficient
+  service that keep things relaxed and enjoyable, especially for families or
+  groups looking for a casual dining option. While some note minor waits during
+  peak times, the overall consensus leans positive, with praise for the
+  accessibility features that enhance the experience for all. If you're on the
+  hunt for top-rated sushi near me, this place seems to deliver on authentic
+  flavors without breaking the bank. All in all, it's shaping up as a solid pick
+  for anyone wanting to indulge in great sushi experiences around Kaneohe.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +248,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "I Love Sushi"
+title: I Love Sushi
 permalink: /tennessee/nashville/i-love-sushi.html
 stateAbbr: TN
 stateName: Tennessee
 cityName: Nashville
 seo:
-  name: "I Love Sushi"
-  type: Restaurant
-  links: null
-description: "I Love Sushi serves delicious sushi in Nashville, Tennessee. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.ilovesushinashville.com/
 place_id: ChIJd_R-edlnZIgRQKqy2djkWW4
 photos:
   - name: >-
@@ -170,8 +168,129 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x886467d9797ef477:0x6e59e4d8d9b2aa40!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 14
+        minute: 30
+    - open:
+        day: 0
+        hour: 16
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 14
+        minute: 30
+    - open:
+        day: 6
+        hour: 16
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 2:30 PM, 4:30 – 9:30 PM'
+    - 'Tuesday: 11:00 AM – 2:30 PM, 4:30 – 9:30 PM'
+    - 'Wednesday: 11:00 AM – 2:30 PM, 4:30 – 9:30 PM'
+    - 'Thursday: 11:00 AM – 2:30 PM, 4:30 – 9:30 PM'
+    - 'Friday: 11:00 AM – 2:30 PM, 4:30 – 10:30 PM'
+    - 'Saturday: 11:30 AM – 2:30 PM, 4:30 – 10:30 PM'
+    - 'Sunday: 11:30 AM – 2:30 PM, 4:30 – 9:30 PM'
+  nextCloseTime: '2025-05-04T03:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +298,50 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (615) 988-2397
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.6'
+rating_count: 911
+website: https://www.ilovesushinashville.com/
+description: >-
+  Discover I Love Sushi in Nashville, TN$$$I Love Sushi in Nashville, TN, stands
+  out as a cozy Japanese eatery perfect for those seeking fresh sushi options in
+  the heart of the city. This spot delights with its array of creative sushi
+  rolls and special happy-hour deals, making it an ideal choice for casual
+  diners looking for authentic flavors. Outdoor seating adds to the charm,
+  allowing guests to enjoy their meals in a relaxed, open-air setting while
+  soaking in the Midtown vibe. The restaurant emphasizes accessibility with
+  features like wheelchair-friendly entrances and parking, ensuring everyone can
+  savor the experience. Whether you're exploring sushi restaurants nearby or
+  hunting for top-rated Japanese places, this location offers a welcoming
+  atmosphere that highlights quality ingredients and thoughtful presentation.
+generative_summary: >-
+  Discover I Love Sushi in Nashville, TN$$$I Love Sushi in Nashville, TN, stands
+  out as a cozy Japanese eatery perfect for those seeking fresh sushi options in
+  the heart of the city. This spot delights with its array of creative sushi
+  rolls and special happy-hour deals, making it an ideal choice for casual
+  diners looking for authentic flavors. Outdoor seating adds to the charm,
+  allowing guests to enjoy their meals in a relaxed, open-air setting while
+  soaking in the Midtown vibe. The restaurant emphasizes accessibility with
+  features like wheelchair-friendly entrances and parking, ensuring everyone can
+  savor the experience. Whether you're exploring sushi restaurants nearby or
+  hunting for top-rated Japanese places, this location offers a welcoming
+  atmosphere that highlights quality ingredients and thoughtful presentation.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Buzzing About$$$Visitors to this popular sushi spot often
+  praise the flavorful dishes, like the signature rolls and fresh sashimi, which
+  stand out for their quality and taste. Many appreciate the quick and efficient
+  service that keeps things moving smoothly without sacrificing attention to
+  detail. The staff comes across as friendly and accommodating, helping to
+  create a laid-back dining experience that feels just right. Overall, it's
+  clear that the fresh fish and tasty options like fried oysters make it a go-to
+  for anyone craving reliable sushi in a welcoming environment. If you're on the
+  hunt for great sushi places nearby, this spot delivers a solid, enjoyable meal
+  that leaves people coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +367,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Wasabi Zen"
+title: Wasabi Zen
 permalink: /maryland/olney/wasabi-zen.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Olney
 seo:
-  name: "Wasabi Zen"
-  type: Restaurant
+  type: restaurant
   links: http://www.wasabizenjapanese.com/
-description: "Down-to-earth strip-mall establishment providing sushi & other Japanese eats, including bento boxes. Wasabi Zen serves delicious sushi in Olney, Maryland. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJi3fdxRnRt4kR3odLRBhkZIw
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $30 &ndash; $50
 rating: '4.2'
 rating_count: 0
 website: http://www.wasabizenjapanese.com/
+description: >-
+  Discover Wasabi Zen in Olney, Maryland$$$Wasabi Zen in Olney, MD, stands out
+  as a welcoming spot for enjoying fresh Japanese cuisine, particularly its
+  array of sushi rolls and traditional dishes. This cozy restaurant offers a
+  variety of options including bento boxes and flavorful Japanese fare,
+  complemented by a selection of beer and wine to enhance the dining experience.
+  Accessibility features like wheelchair-friendly parking and entrances make it
+  an inclusive choice for all visitors seeking sushi restaurants in the area.
+  The unpretentious strip-mall setting adds to its charm, providing a relaxed
+  atmosphere for casual meals or gatherings. Whether you're exploring Japanese
+  places near me or looking for top-rated sushi options, this establishment
+  delivers on quality and variety.
+generative_summary: >-
+  Discover Wasabi Zen in Olney, Maryland$$$Wasabi Zen in Olney, MD, stands out
+  as a welcoming spot for enjoying fresh Japanese cuisine, particularly its
+  array of sushi rolls and traditional dishes. This cozy restaurant offers a
+  variety of options including bento boxes and flavorful Japanese fare,
+  complemented by a selection of beer and wine to enhance the dining experience.
+  Accessibility features like wheelchair-friendly parking and entrances make it
+  an inclusive choice for all visitors seeking sushi restaurants in the area.
+  The unpretentious strip-mall setting adds to its charm, providing a relaxed
+  atmosphere for casual meals or gatherings. Whether you're exploring Japanese
+  places near me or looking for top-rated sushi options, this establishment
+  delivers on quality and variety.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJi3fdxRnRt4kR3odLRBhkZIw/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRLWI2YUdnEAE
@@ -352,6 +375,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURPZ1o3ZkNREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURPZ1o3ZkNREAE!2m1!1s0x89b7d119c5dd778b:0x8c646418444b87de
+review_summary: >-
+  What Customers Are Saying About This Sushi Spot$$$Folks around Olney often
+  rave about the fresh and tasty sushi at this local favorite, with many
+  highlighting the flavorful rolls and dishes like udon that keep them coming
+  back for more. While some diners mention the restaurant's compact size as a
+  minor downside, the overall service is frequently described as friendly and
+  attentive, making for a pleasant outing. Reviewers appreciate the consistent
+  quality of the food, including specials that offer great value for those
+  searching for the best sushi near me. Despite a few notes on occasional
+  surprises with menu choices, the positive vibes dominate, with plenty of
+  praise for the overall experience. If you're in the mood for reliable Japanese
+  dining, this spot seems to hit the mark for a satisfying meal.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -384,8 +420,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Down-to-earth strip-mall establishment providing sushi & other Japanese eats,
   including bento boxes.
 

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Koala's Fine Food"
+title: Koala's Fine Food
 permalink: /california/guerneville/koala-s-fine-food.html
 stateAbbr: CA
 stateName: California
 cityName: Guerneville
 seo:
-  name: "Koala's Fine Food"
-  type: Restaurant
-  links: null
-description: "Koala's Fine Food serves delicious sushi in Guerneville, California. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://koalasfinefoodca.com/
 place_id: ChIJ84aygFcfhIAR_fpGmRtarFw
 photos:
   - name: >-
@@ -170,8 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80841f5780b286f3:0x5cac5a1b9946fafd!10e5
 primary_type: Takeout Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 10:00 PM'
+    - 'Tuesday: 11:00 AM – 10:00 PM'
+    - 'Wednesday: Closed'
+    - 'Thursday: 11:00 AM – 10:00 PM'
+    - 'Friday: 11:00 AM – 10:00 PM'
+    - 'Saturday: 11:00 AM – 10:00 PM'
+    - 'Sunday: 11:00 AM – 10:00 PM'
+  nextCloseTime: '2025-05-04T05:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +234,53 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (707) 869-3300
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.5'
+rating_count: 399
+website: https://koalasfinefoodca.com/
+description: >-
+  Discover Koala's Fine Food in Guerneville, CA$$$Koala's Fine Food in
+  Guerneville, CA, stands out as a welcoming spot for casual dining, blending
+  Japanese-inspired dishes with familiar comforts in a relaxed atmosphere. This
+  takeout-friendly restaurant offers fresh sushi rolls and bento boxes that
+  highlight quality ingredients and thoughtful preparation, making it a go-to
+  choice for those seeking sushi options near me. Its kid-friendly vibe and
+  accessibility features, like wheelchair-friendly entrances and seating, ensure
+  a comfortable experience for all visitors. Open most days from late morning
+  until evening, it's ideal for quick meals or family outings, with a menu that
+  balances variety and affordability. Whether you're exploring Japanese places
+  near me or craving top-rated sushi, this spot delivers a satisfying blend of
+  flavors in a laid-back setting.
+generative_summary: >-
+  Discover Koala's Fine Food in Guerneville, CA$$$Koala's Fine Food in
+  Guerneville, CA, stands out as a welcoming spot for casual dining, blending
+  Japanese-inspired dishes with familiar comforts in a relaxed atmosphere. This
+  takeout-friendly restaurant offers fresh sushi rolls and bento boxes that
+  highlight quality ingredients and thoughtful preparation, making it a go-to
+  choice for those seeking sushi options near me. Its kid-friendly vibe and
+  accessibility features, like wheelchair-friendly entrances and seating, ensure
+  a comfortable experience for all visitors. Open most days from late morning
+  until evening, it's ideal for quick meals or family outings, with a menu that
+  balances variety and affordability. Whether you're exploring Japanese places
+  near me or craving top-rated sushi, this spot delivers a satisfying blend of
+  flavors in a laid-back setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Visitor Feedback$$$Visitors to Koala's Fine Food often praise
+  the fresh and flavorful sushi rolls, noting how they hit the spot for anyone
+  hunting for reliable sushi restaurants in the area. Many appreciate the
+  casual, family-oriented vibe that makes it easy to enjoy bento boxes and other
+  dishes without any fuss, earning it solid nods for everyday dining. The
+  overall experience gets high marks for good value and quick service, with
+  folks frequently mentioning the welcoming atmosphere as a highlight for groups
+  or solo stops. While not every meal is perfect, the positive buzz around the
+  variety and taste keeps the energy upbeat, making it a smart pick for those
+  searching sushi close to me. In summary, it's a dependable choice that leaves
+  diners generally satisfied and eager to return for more tasty options.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +306,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

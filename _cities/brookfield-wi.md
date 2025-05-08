@@ -5,4 +5,5 @@ permalink: /wisconsin/brookfield/
 stateAbbr: WI
 stateName: Wisconsin
 cityName: Brookfield
+
 ---

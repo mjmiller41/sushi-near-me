@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Nori"
+title: Sushi Nori
 permalink: /washington/seattle/sushi-nori.html
 stateAbbr: WA
 stateName: Washington
 cityName: Seattle
 seo:
-  name: "Sushi Nori"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi Nori serves delicious sushi in Seattle, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJkTL4QFsVkFQR5q0QA13H2_E
 photos:
   - name: >-
@@ -183,7 +181,45 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Sushi Nori in Seattle, WA$$$Sushi Nori in Seattle, WA, stands out as
+  a casual dining spot renowned for its unique temaki hand rolls that blend
+  fresh ingredients with innovative flavors. This welcoming sushi restaurant
+  near the Eastlake neighborhood offers a relaxed atmosphere perfect for
+  enjoying a variety of handcrafted rolls, complemented by a selection of
+  beverages like beer, sake, and wine. Patrons appreciate the accessible
+  features, such as wheelchair-friendly entrances, making it an inclusive choice
+  for anyone seeking quality Japanese-inspired cuisine. Whether you're exploring
+  top-rated sushi options close to you, Sushi Nori delivers a satisfying
+  experience with its emphasis on fresh, expertly prepared dishes that highlight
+  the art of sushi making.
+generative_summary: >-
+  Discover Sushi Nori in Seattle, WA$$$Sushi Nori in Seattle, WA, stands out as
+  a casual dining spot renowned for its unique temaki hand rolls that blend
+  fresh ingredients with innovative flavors. This welcoming sushi restaurant
+  near the Eastlake neighborhood offers a relaxed atmosphere perfect for
+  enjoying a variety of handcrafted rolls, complemented by a selection of
+  beverages like beer, sake, and wine. Patrons appreciate the accessible
+  features, such as wheelchair-friendly entrances, making it an inclusive choice
+  for anyone seeking quality Japanese-inspired cuisine. Whether you're exploring
+  top-rated sushi options close to you, Sushi Nori delivers a satisfying
+  experience with its emphasis on fresh, expertly prepared dishes that highlight
+  the art of sushi making.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Folks who visit this spot often highlight the
+  fresh and creative sushi rolls as a standout feature, making it a solid pick
+  for anyone craving authentic flavors in a laid-back setting. Many appreciate
+  the variety of options that cater to different tastes, with comments
+  frequently noting the quality ingredients and enjoyable atmosphere that
+  enhance the overall meal. While some mention it's a great place for casual
+  get-togethers, others point out the attentive service that adds to the
+  positive vibe without overwhelming the experience. Overall, it's clear that
+  sushi enthusiasts find this location a reliable choice for delicious,
+  well-prepared meals, encouraging repeat visits for those searching for the
+  best sushi nearby.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -209,7 +245,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

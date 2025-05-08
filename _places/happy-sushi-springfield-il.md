@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Happy Sushi"
+title: Happy Sushi
 permalink: /illinois/springfield/happy-sushi.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Springfield
 seo:
-  name: "Happy Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.facebook.com/Happy-Sushi-180772915342734/
-description: "Relaxed, counter-serve eatery providing an array of cooked Japanese dishes & sushi rolls. Happy Sushi serves delicious sushi in Springfield, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJedF9Xr05dYgRjceVQrCURtI
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $10 &ndash; $20
 rating: '4.7'
 rating_count: 0
 website: https://www.facebook.com/Happy-Sushi-180772915342734/
+description: >-
+  Explore Happy Sushi in Springfield, IL$$$Happy Sushi in Springfield, IL,
+  stands out as a welcoming spot for enjoying fresh Japanese cuisine in a
+  relaxed atmosphere. This sushi restaurant offers an array of flavorful rolls
+  and cooked dishes, including vegetarian choices that cater to diverse tastes,
+  making it a go-to option for those seeking sushi places nearby. With its
+  emphasis on quality ingredients and thoughtful presentation, visitors can
+  expect generous portions at moderate prices, ideal for a casual meal.
+  Accessibility features like wheelchair-friendly entrances and parking add to
+  the convenience, enhancing the overall experience for everyone. Whether you're
+  looking for top-rated sushi or a simple Japanese-inspired meal, this spot
+  delivers a satisfying dining option in the heart of the city.
+generative_summary: >-
+  Explore Happy Sushi in Springfield, IL$$$Happy Sushi in Springfield, IL,
+  stands out as a welcoming spot for enjoying fresh Japanese cuisine in a
+  relaxed atmosphere. This sushi restaurant offers an array of flavorful rolls
+  and cooked dishes, including vegetarian choices that cater to diverse tastes,
+  making it a go-to option for those seeking sushi places nearby. With its
+  emphasis on quality ingredients and thoughtful presentation, visitors can
+  expect generous portions at moderate prices, ideal for a casual meal.
+  Accessibility features like wheelchair-friendly entrances and parking add to
+  the convenience, enhancing the overall experience for everyone. Whether you're
+  looking for top-rated sushi or a simple Japanese-inspired meal, this spot
+  delivers a satisfying dining option in the heart of the city.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJedF9Xr05dYgRjceVQrCURtI/reviews/ChdDSUhNMG9nS0VJQ0FnTURRbE55Y3V3RRAB
@@ -366,6 +389,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNReEw3YUt3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNReEw3YUt3EAE!2m1!1s0x887539bd5e7dd179:0xd24694b04295c78d
+review_summary: >-
+  Insights from Recent Reviews$$$Visitors to this sushi spot often highlight the
+  delicious and well-prepared rolls that make every bite worthwhile, with many
+  praising the variety and fresh flavors that keep things exciting. Folks
+  appreciate the thoughtful extras, like complimentary items that add a nice
+  surprise to their orders, creating a hospitable vibe without any fuss. The
+  menu's balance of options, including hearty sides and vegetarian picks, comes
+  across as a hit for groups or solo diners looking for something reliable.
+  Overall, people express eagerness to return, noting how the food holds up well
+  for takeout and pairs perfectly with a relaxed outing. If you're hunting for
+  quality sushi nearby, these shared experiences suggest it's a solid choice
+  that leaves a positive impression.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -399,8 +435,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Relaxed, counter-serve eatery providing an array of cooked Japanese dishes &
   sushi rolls.
 

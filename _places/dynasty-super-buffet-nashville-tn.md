@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Dynasty Super Buffet"
+title: Dynasty Super Buffet
 permalink: /tennessee/nashville/dynasty-super-buffet.html
 stateAbbr: TN
 stateName: Tennessee
 cityName: Nashville
 seo:
-  name: "Dynasty Super Buffet"
-  type: Restaurant
+  type: restaurant
   links: https://dynastysupertn.com/
-description: "All-you-can-eat Asian spread (available for carry-out) plus hibachi grill, sushi & lunch specials. Dynasty Super Buffet serves delicious sushi in Nashville, Tennessee. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJ40x90ttvZIgRjQvXyAmhU4Y
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $10 &ndash; $20
 rating: '3.6'
 rating_count: 0
 website: https://dynastysupertn.com/
+description: >-
+  Explore Dynasty Super Buffet in Nashville, TN$$$Nestled in the heart of
+  Nashville, TN, Dynasty Super Buffet stands out as a casual dining spot
+  offering an all-you-can-eat experience with a diverse array of Asian flavors,
+  including fresh sushi and classic Chinese dishes. This accessible eatery
+  features wheelchair-friendly amenities and ample parking, making it easy for
+  everyone to enjoy a relaxed meal without the hassle. Visitors can savor a wide
+  selection of options, from hibachi-style favorites to tempting desserts, all
+  at budget-friendly prices that appeal to those searching for satisfying sushi
+  spots nearby. The welcoming atmosphere and variety ensure it's a go-to choice
+  for families or groups looking for convenient Japanese-inspired places in the
+  area, blending affordability with flavorful choices.
+generative_summary: >-
+  Explore Dynasty Super Buffet in Nashville, TN$$$Nestled in the heart of
+  Nashville, TN, Dynasty Super Buffet stands out as a casual dining spot
+  offering an all-you-can-eat experience with a diverse array of Asian flavors,
+  including fresh sushi and classic Chinese dishes. This accessible eatery
+  features wheelchair-friendly amenities and ample parking, making it easy for
+  everyone to enjoy a relaxed meal without the hassle. Visitors can savor a wide
+  selection of options, from hibachi-style favorites to tempting desserts, all
+  at budget-friendly prices that appeal to those searching for satisfying sushi
+  spots nearby. The welcoming atmosphere and variety ensure it's a go-to choice
+  for families or groups looking for convenient Japanese-inspired places in the
+  area, blending affordability with flavorful choices.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ40x90ttvZIgRjQvXyAmhU4Y/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJLTRQWXJBRRAB
@@ -448,6 +471,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURqcVpmbk9BEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURqcVpmbk9BEAE!2m1!1s0x88646fdbd27d4ce3:0x8653a109c8d70b8d
+review_summary: >-
+  Insights from Recent Feedback$$$Diners often praise the friendly service and
+  wide variety of dishes at this Nashville buffet, highlighting how the
+  attentive staff and quick assistance enhance the overall experience. While the
+  food selection impresses with its range of Asian-inspired options like sushi
+  and hibachi, some notes suggest that freshness and temperature could be more
+  consistent for an even better meal. Many enjoy the affordable pricing and
+  family-friendly vibe, making it a solid pick for casual outings despite
+  occasional inconsistencies in dish quality. Overall, it's a welcoming spot
+  that delivers good value, especially if you time your visit during busier
+  hours for the best picks, leaving visitors generally satisfied with the effort
+  put into variety and service.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -479,8 +515,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   All-you-can-eat Asian spread (available for carry-out) plus hibachi grill,
   sushi & lunch specials.
 

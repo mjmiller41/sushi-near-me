@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kaze Sushi Bar and Grill"
+title: Kaze Sushi Bar and Grill
 permalink: /utah/salt-lake-city/kaze-sushi-bar-and-grill.html
 stateAbbr: UT
 stateName: Utah
 cityName: Salt Lake City
 seo:
-  name: "Kaze Sushi Bar and Grill"
-  type: Restaurant
+  type: restaurant
   links: http://kazesushiut.com/menu
-description: "Kaze Sushi Bar and Grill serves delicious sushi in Salt Lake City, Utah. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJeb0vv1f1UocRn_0_KML_xGI
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8752f557bf2fbd79:0x62c4ffc2283ffd9f!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 14
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 12
+        minute: 0
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 5:00 – 10:00 PM'
     - 'Tuesday: 5:00 – 10:00 PM'
     - 'Wednesday: 5:00 – 10:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 12:00 – 11:00 PM'
     - 'Saturday: 12:00 – 11:00 PM'
     - 'Sunday: 2:00 – 9:00 PM'
-  current:
-    - 'Monday: 5:00 – 10:00 PM'
-    - 'Tuesday: 5:00 – 10:00 PM'
-    - 'Wednesday: 5:00 – 10:00 PM'
-    - 'Thursday: 5:00 – 10:00 PM'
-    - 'Friday: 12:00 – 11:00 PM'
-    - 'Saturday: 12:00 – 11:00 PM'
-    - 'Sunday: 2:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T05:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,263 @@ phone: (801) 800-6768
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.4'
-rating_count: 0
+rating_count: 579
 website: http://kazesushiut.com/menu
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Explore Kaze Sushi in Salt Lake City$$$Kaze Sushi Bar and Grill in Salt Lake
+  City, UT, stands out as a trendy spot for enjoying fresh sushi rolls, nigiri,
+  and classic Japanese dishes in a relaxed, modern environment. This inviting
+  restaurant combines creative flavors with generous portions, making it a go-to
+  choice for those seeking authentic yet innovative Japanese fare in the heart
+  of the city. Accessibility features like wheelchair-friendly entrances and
+  seating add to the welcoming vibe, ensuring everyone can savor the experience.
+  The menu highlights a variety of options that appeal to sushi enthusiasts,
+  from creative rolls to satisfying entrees, all presented in a laid-back
+  setting that encourages casual dining. Whether you're looking for sushi places
+  near me or a comfortable spot for Japanese cuisine, this location delivers a
+  memorable meal with its thoughtful ambiance and flavorful selections.
+generative_summary: >-
+  Explore Kaze Sushi in Salt Lake City$$$Kaze Sushi Bar and Grill in Salt Lake
+  City, UT, stands out as a trendy spot for enjoying fresh sushi rolls, nigiri,
+  and classic Japanese dishes in a relaxed, modern environment. This inviting
+  restaurant combines creative flavors with generous portions, making it a go-to
+  choice for those seeking authentic yet innovative Japanese fare in the heart
+  of the city. Accessibility features like wheelchair-friendly entrances and
+  seating add to the welcoming vibe, ensuring everyone can savor the experience.
+  The menu highlights a variety of options that appeal to sushi enthusiasts,
+  from creative rolls to satisfying entrees, all presented in a laid-back
+  setting that encourages casual dining. Whether you're looking for sushi places
+  near me or a comfortable spot for Japanese cuisine, this location delivers a
+  memorable meal with its thoughtful ambiance and flavorful selections.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJeb0vv1f1UocRn_0_KML_xGI/reviews/ChdDSUhNMG9nS0VJQ0FnTUNRdk9PdDN3RRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        This has to be the best sushi I have ever had in my life. The fusion of
+        flavors here are prepared by master chefs who are generous in the
+        portions of ingredients and present each roll as a work of art. The
+        Miyazaki roll is a sight to behold. We also got the my darling roll and
+        the sugarhouse roll. The rolls were so fresh and flavorful every bite
+        had me wanting more. The meal ended with fried cheesecake so sinfully
+        good I was shamelessly lapping it up like a dog drinking from the bowl.
+        We will absolutely be back. I am so glad we found such a great spot in
+        the city.
+      languageCode: en
+    originalText:
+      text: >-
+        This has to be the best sushi I have ever had in my life. The fusion of
+        flavors here are prepared by master chefs who are generous in the
+        portions of ingredients and present each roll as a work of art. The
+        Miyazaki roll is a sight to behold. We also got the my darling roll and
+        the sugarhouse roll. The rolls were so fresh and flavorful every bite
+        had me wanting more. The meal ended with fried cheesecake so sinfully
+        good I was shamelessly lapping it up like a dog drinking from the bowl.
+        We will absolutely be back. I am so glad we found such a great spot in
+        the city.
+      languageCode: en
+    authorAttribution:
+      displayName: Caleb Petersen
+      uri: https://www.google.com/maps/contrib/102372472095687257006/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUl2PQmSSpraxu8L_BXnCHhy6MhfLMsxoRkbg9OyR9XwM9UDygs=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-03-03T02:29:04.746573Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNRdk9PdDN3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNRdk9PdDN3RRAB!2m1!1s0x8752f557bf2fbd79:0x62c4ffc2283ffd9f
+  - name: >-
+      places/ChIJeb0vv1f1UocRn_0_KML_xGI/reviews/ChdDSUhNMG9nS0VJQ0FnSURmM0wtbzFRRRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        The staff is wonderful and so was the food! Probably some of the best
+        tasting appetizers I’ve had at a sushi restaurant. Highly recommend to
+        try the variety of them. The atmosphere was cozy and didn’t feel crowded
+        even when they were busy.
+      languageCode: en
+    originalText:
+      text: >-
+        The staff is wonderful and so was the food! Probably some of the best
+        tasting appetizers I’ve had at a sushi restaurant. Highly recommend to
+        try the variety of them. The atmosphere was cozy and didn’t feel crowded
+        even when they were busy.
+      languageCode: en
+    authorAttribution:
+      displayName: Rachel Yee
+      uri: https://www.google.com/maps/contrib/107245347247361806614/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUZzrcWD32KdJrA2foMHiW00CmmS8OcUWEkZipxdTGmDPW-lKU=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-01-04T18:09:54.348337Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURmM0wtbzFRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURmM0wtbzFRRRAB!2m1!1s0x8752f557bf2fbd79:0x62c4ffc2283ffd9f
+  - name: >-
+      places/ChIJeb0vv1f1UocRn_0_KML_xGI/reviews/ChdDSUhNMG9nS0VJQ0FnSURibHFxajR3RRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        I was about to write another review not realizing I had already wrote a
+        five star review for this place. I have come here so many times I’ve
+        been too many other sushi restaurants in Salt Lake specially near
+        downtown and this place I would say is even better than sapa the fish is
+        fresh. The service is great and the food/menu is even better. I’ve never
+        had a bad experience here and I’ve probably been here about 10 to 15
+        times I’m from San Diego California and so I feel like my expectations
+        of sushi are high. I would absolutely recommend this place to anybody
+      languageCode: en
+    originalText:
+      text: >-
+        I was about to write another review not realizing I had already wrote a
+        five star review for this place. I have come here so many times I’ve
+        been too many other sushi restaurants in Salt Lake specially near
+        downtown and this place I would say is even better than sapa the fish is
+        fresh. The service is great and the food/menu is even better. I’ve never
+        had a bad experience here and I’ve probably been here about 10 to 15
+        times I’m from San Diego California and so I feel like my expectations
+        of sushi are high. I would absolutely recommend this place to anybody
+      languageCode: en
+    authorAttribution:
+      displayName: Emily Littlefield
+      uri: https://www.google.com/maps/contrib/101973682179385879799/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUip3WRTpgqhuipoQBoLf7Qw7HKCSZ92ZoiTIfFKjsBkh32DN_Kyg=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-02-14T23:09:59.617428Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURibHFxajR3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURibHFxajR3RRAB!2m1!1s0x8752f557bf2fbd79:0x62c4ffc2283ffd9f
+  - name: >-
+      places/ChIJeb0vv1f1UocRn_0_KML_xGI/reviews/ChZDSUhNMG9nS0VJQ0FnSURydXJLYmVREAE
+    relativePublishTimeDescription: 9 months ago
+    rating: 5
+    text:
+      text: >-
+        Kaze is my go-to sushi restaurant in SLC. It has consistently excellent
+        food and good service.
+
+
+        The sushi is always fresh and I appreciate the little things that they
+        do to make it special.  Like forming the maki into a teardrop shape so
+        that they look like a flower on the plate.  I love the udon soup and the
+        tempura is light and crispy.
+
+
+        I love the interior of Kaze.  The interior is classy and the lighting
+        makes it feel itimate and cozy.  I also love the the pottery serving
+        pieces that they have chosen.  They compliment the interior and the food
+        presentation.
+      languageCode: en
+    originalText:
+      text: >-
+        Kaze is my go-to sushi restaurant in SLC. It has consistently excellent
+        food and good service.
+
+
+        The sushi is always fresh and I appreciate the little things that they
+        do to make it special.  Like forming the maki into a teardrop shape so
+        that they look like a flower on the plate.  I love the udon soup and the
+        tempura is light and crispy.
+
+
+        I love the interior of Kaze.  The interior is classy and the lighting
+        makes it feel itimate and cozy.  I also love the the pottery serving
+        pieces that they have chosen.  They compliment the interior and the food
+        presentation.
+      languageCode: en
+    authorAttribution:
+      displayName: Kristin K
+      uri: https://www.google.com/maps/contrib/114591391878145528956/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWNUk_7uhFjuG_CqMGum9PJTXftIf-z14rVdJlQ5OOlntF4IR5e=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-07-17T01:02:02.271723Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURydXJLYmVREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURydXJLYmVREAE!2m1!1s0x8752f557bf2fbd79:0x62c4ffc2283ffd9f
+  - name: >-
+      places/ChIJeb0vv1f1UocRn_0_KML_xGI/reviews/ChZDSUhNMG9nS0VJQ0FnTURRcmJEbU1BEAE
+    relativePublishTimeDescription: a month ago
+    rating: 3
+    text:
+      text: >-
+        Waited for fifteen minutes before anyone even greeted us. Table sat 10
+        minutes after we ordered was served their rolls first. Food was average
+        not great. Watch your bill though, their charging more sales tax than
+        the rate for salt lake city. Should be 8.25% and last time it was higher
+      languageCode: en
+    originalText:
+      text: >-
+        Waited for fifteen minutes before anyone even greeted us. Table sat 10
+        minutes after we ordered was served their rolls first. Food was average
+        not great. Watch your bill though, their charging more sales tax than
+        the rate for salt lake city. Should be 8.25% and last time it was higher
+      languageCode: en
+    authorAttribution:
+      displayName: Dallin Rasmussen
+      uri: https://www.google.com/maps/contrib/117624518429217918192/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKR5LB_pmsv88h5biwzUrEw2hyPA35CueEi0WMSUEs5FwrkCQ=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-03-13T03:10:22.632920Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURRcmJEbU1BEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURRcmJEbU1BEAE!2m1!1s0x8752f557bf2fbd79:0x62c4ffc2283ffd9f
+review_summary: >-
+  Insights from Recent Reviews$$$Visitors often rave about the fresh and
+  flavorful sushi at this spot, highlighting the creative rolls and generous
+  portions that make every bite exciting. Many appreciate the cozy atmosphere
+  and attentive service, which create a welcoming environment even during busy
+  times, making it a solid pick for casual outings or groups. While most
+  feedback praises the variety of appetizers and overall quality, a few mentions
+  note occasional waits or minor service hiccups, though these don't overshadow
+  the positive experiences. Overall, it's clear that this place stands out as a
+  top-rated option for sushi lovers in the area, with diners frequently
+  returning for the reliable taste and vibe. If you're searching for the best
+  sushi near me, this restaurant earns high marks for its fresh ingredients and
+  enjoyable dining, offering a generally uplifting experience that keeps
+  customers coming back.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeStreetParking: true
+  paidGarageParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
+delivery: true
+dine_in: true
 good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: true
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  A menu featuring an array of classic & creative sushi rolls & Japanese fare in
+  a modern setting.
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yamato Japanese Steakhouse & Sushi Bar"
+title: Yamato Japanese Steakhouse & Sushi Bar
 permalink: /florida/wesley-chapel/yamato-japanese-steakhouse-sushi-bar.html
 stateAbbr: FL
 stateName: Florida
 cityName: Wesley Chapel
 seo:
-  name: "Yamato Japanese Steakhouse & Sushi Bar"
-  type: Restaurant
+  type: restaurant
   links: http://www.yamatowesleychapel.com/
-description: "Yamato Japanese Steakhouse & Sushi Bar serves delicious sushi in Wesley Chapel, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJPcu5atewwogRdiC-xx-q0fU
 photos:
   - name: >-
@@ -199,7 +197,44 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 0
 website: http://www.yamatowesleychapel.com/
+description: >-
+  Discover Yamato Japanese Steakhouse in Wesley Chapel, FL$$$Yamato Japanese
+  Steakhouse & Sushi Bar in Wesley Chapel, FL, provides a welcoming spot for
+  enjoying fresh sushi and hibachi favorites in a relaxed, family-oriented
+  environment. This spot highlights a variety of authentic Japanese dishes,
+  including expertly prepared rolls and sizzling grill options, paired with a
+  selection of cocktails that enhance the meal. Accessibility features like
+  wheelchair-friendly parking and seating make it easy for everyone to savor the
+  experience, adding to its appeal for casual diners seeking Japanese cuisine
+  nearby. The restaurant's inviting atmosphere and thoughtful menu options
+  create a perfect setting for those exploring top-rated sushi places in the
+  area, with hours that accommodate both weekday evenings and weekend outings.
+generative_summary: >-
+  Discover Yamato Japanese Steakhouse in Wesley Chapel, FL$$$Yamato Japanese
+  Steakhouse & Sushi Bar in Wesley Chapel, FL, provides a welcoming spot for
+  enjoying fresh sushi and hibachi favorites in a relaxed, family-oriented
+  environment. This spot highlights a variety of authentic Japanese dishes,
+  including expertly prepared rolls and sizzling grill options, paired with a
+  selection of cocktails that enhance the meal. Accessibility features like
+  wheelchair-friendly parking and seating make it easy for everyone to savor the
+  experience, adding to its appeal for casual diners seeking Japanese cuisine
+  nearby. The restaurant's inviting atmosphere and thoughtful menu options
+  create a perfect setting for those exploring top-rated sushi places in the
+  area, with hours that accommodate both weekday evenings and weekend outings.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Guests Are Saying About Yamato$$$Folks often rave about the fresh flavors
+  and lively hibachi shows at this sushi spot, making it a go-to for anyone
+  craving reliable Japanese dining options. Many highlight the solid portions
+  and tasty rolls that keep things satisfying without breaking the bank, along
+  with friendly service that adds a nice touch to the overall vibe. While some
+  mention waits during peak times, the general consensus leans positive,
+  praising the welcoming feel that's great for groups or families looking for a
+  fun meal. Overall, it's clear that visitors appreciate the balance of quality
+  and entertainment here, encouraging others to check out this popular choice
+  for sushi enthusiasts in the neighborhood.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +260,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Hero"
+title: Sushi Hero
 permalink: /alabama/auburn/sushi-hero.html
 stateAbbr: AL
 stateName: Alabama
 cityName: Auburn
 seo:
-  name: "Sushi Hero"
-  type: Restaurant
+  type: restaurant
   links: http://www.sushiheroauburn.com/
-description: "Sushi Hero serves delicious sushi in Auburn, Alabama. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJWdJA-r3zjIgRy5GYGrjzwps
 photos:
   - name: >-
@@ -185,6 +183,35 @@ price_range: $10 &ndash; $20
 rating: '4.2'
 rating_count: 0
 website: http://www.sushiheroauburn.com/
+description: >-
+  Explore Sushi Hero in Auburn, AL$$$Sushi Hero in Auburn, AL, stands out as a
+  casual Japanese dining spot offering fresh sushi and hibachi options in an
+  inviting all-you-can-eat style that appeals to sushi lovers seeking variety
+  and value. This welcoming restaurant features a menu with flavorful rolls and
+  grilled fare, making it a go-to choice for those searching for top-rated sushi
+  near you in a relaxed atmosphere. Accessibility is a key highlight, with
+  wheelchair-friendly parking, entrances, and seating ensuring everyone can
+  enjoy the experience comfortably. Patrons appreciate the moderate pricing and
+  generous portions, which add to its reputation as one of the best sushi
+  restaurants in the area for both individuals and groups. Whether you're
+  craving authentic Japanese flavors or exploring new sushi places near me, this
+  spot delivers a satisfying meal with a focus on quality ingredients and
+  efficient service.
+generative_summary: >-
+  Explore Sushi Hero in Auburn, AL$$$Sushi Hero in Auburn, AL, stands out as a
+  casual Japanese dining spot offering fresh sushi and hibachi options in an
+  inviting all-you-can-eat style that appeals to sushi lovers seeking variety
+  and value. This welcoming restaurant features a menu with flavorful rolls and
+  grilled fare, making it a go-to choice for those searching for top-rated sushi
+  near you in a relaxed atmosphere. Accessibility is a key highlight, with
+  wheelchair-friendly parking, entrances, and seating ensuring everyone can
+  enjoy the experience comfortably. Patrons appreciate the moderate pricing and
+  generous portions, which add to its reputation as one of the best sushi
+  restaurants in the area for both individuals and groups. Whether you're
+  craving authentic Japanese flavors or exploring new sushi places near me, this
+  spot delivers a satisfying meal with a focus on quality ingredients and
+  efficient service.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJWdJA-r3zjIgRy5GYGrjzwps/reviews/ChZDSUhNMG9nS0VJQ0FnSURYX3NUMEpBEAE
@@ -378,6 +405,21 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNUMHVTRC1RRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNUMHVTRC1RRRAB!2m1!1s0x888cf3bdfa40d259:0x9bc2f3b81a9891cb
+review_summary: >-
+  Customer Feedback on This Local Sushi Favorite$$$Visitors often praise the
+  tasty sushi rolls and hibachi dishes for their fresh flavors and great value,
+  making it a solid pick for anyone hunting for reliable sushi restaurants
+  nearby. Many highlight the generous portions and unique tastes that leave
+  diners feeling satisfied without breaking the bank, adding to its appeal as a
+  casual spot for trying new favorites. While most experiences are positive,
+  with folks appreciating the accommodating vibe and kid-friendly options, there
+  have been occasional mentions of delivery hiccups that didn't live up to the
+  in-person charm. Overall, the consensus leans toward it being a welcoming
+  choice for families and groups, offering a mix of affordability and quality
+  that keeps people coming back for more. If you're on the lookout for the best
+  sushi near me, this place generally delivers a enjoyable meal with friendly
+  service that makes it worth a visit.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -410,7 +452,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

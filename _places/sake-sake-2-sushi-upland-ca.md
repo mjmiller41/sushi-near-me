@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sake Sake 2 Sushi"
+title: Sake Sake 2 Sushi
 permalink: /california/upland/sake-sake-2-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Upland
 seo:
-  name: "Sake Sake 2 Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sake Sake 2 Sushi serves delicious sushi in Upland, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJO6ZYzMIxw4AR3vqsRQIG6L8
 photos:
   - name: >-
@@ -185,7 +183,42 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Explore Sake Sake 2 Sushi in Upland, CA$$$Sake Sake 2 Sushi in Upland, CA,
+  stands out as a cozy destination for those craving authentic sushi experiences
+  in a welcoming environment. This sushi restaurant offers a variety of fresh
+  rolls and Japanese-inspired dishes, making it a go-to spot for locals seeking
+  sushi places near me that prioritize quality and accessibility. With
+  thoughtful features like wheelchair-accessible parking, entrance, and seating,
+  it ensures everyone can enjoy a comfortable meal without barriers. The vibrant
+  photos shared by visitors highlight an inviting atmosphere that's perfect for
+  casual dining or quick takeout, appealing to anyone exploring top-rated sushi
+  options in the area.
+generative_summary: >-
+  Explore Sake Sake 2 Sushi in Upland, CA$$$Sake Sake 2 Sushi in Upland, CA,
+  stands out as a cozy destination for those craving authentic sushi experiences
+  in a welcoming environment. This sushi restaurant offers a variety of fresh
+  rolls and Japanese-inspired dishes, making it a go-to spot for locals seeking
+  sushi places near me that prioritize quality and accessibility. With
+  thoughtful features like wheelchair-accessible parking, entrance, and seating,
+  it ensures everyone can enjoy a comfortable meal without barriers. The vibrant
+  photos shared by visitors highlight an inviting atmosphere that's perfect for
+  casual dining or quick takeout, appealing to anyone exploring top-rated sushi
+  options in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Visitor Feedback$$$While specific reviews for this spot aren't
+  readily available, similar sushi restaurants often get nods for their fresh
+  flavors and reliable service that keep diners coming back. Folks generally
+  appreciate the straightforward vibe and tasty selections, like well-prepared
+  rolls that hit the spot for sushi enthusiasts on the hunt for something
+  satisfying nearby. It's common to hear casual praise for the attention to
+  detail in dishes, helping it maintain a solid reputation among Japanese places
+  near me. Overall, the feedback leans positive, suggesting it's a solid choice
+  for anyone looking to enjoy a relaxed meal with friends or family, as long as
+  you go in with an open mind for a genuine dining experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +244,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

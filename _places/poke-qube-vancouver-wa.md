@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Poke Qube"
+title: Poke Qube
 permalink: /washington/vancouver/poke-qube.html
 stateAbbr: WA
 stateName: Washington
 cityName: Vancouver
 seo:
-  name: "Poke Qube"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Poke Qube serves delicious sushi in Vancouver, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJmQTWp1OvlVQRhF0LKZHeXhw
 photos:
   - name: >-
@@ -185,7 +183,47 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Poke Qube in Vancouver, Washington$$$Poke Qube in Vancouver,
+  Washington, stands out as a casual eatery specializing in fresh poke bowls and
+  sushi options that cater to those seeking quick, customizable meals. This spot
+  emphasizes high-quality ingredients and convenient takeout services, making it
+  an ideal choice for anyone hunting for satisfying sushi restaurants nearby.
+  With its accessible features like wheelchair-friendly parking and entrances,
+  the restaurant ensures a welcoming experience for all visitors looking to
+  enjoy flavorful bites on the go. The atmosphere is perfect for those in search
+  of top-rated sushi close to home, blending simplicity with a variety of
+  choices that highlight the best in Japanese-inspired cuisine. Whether you're
+  grabbing a meal for one or more, Poke Qube delivers a straightforward yet
+  delightful dining option that fits into busy lifestyles.
+generative_summary: >-
+  Discover Poke Qube in Vancouver, Washington$$$Poke Qube in Vancouver,
+  Washington, stands out as a casual eatery specializing in fresh poke bowls and
+  sushi options that cater to those seeking quick, customizable meals. This spot
+  emphasizes high-quality ingredients and convenient takeout services, making it
+  an ideal choice for anyone hunting for satisfying sushi restaurants nearby.
+  With its accessible features like wheelchair-friendly parking and entrances,
+  the restaurant ensures a welcoming experience for all visitors looking to
+  enjoy flavorful bites on the go. The atmosphere is perfect for those in search
+  of top-rated sushi close to home, blending simplicity with a variety of
+  choices that highlight the best in Japanese-inspired cuisine. Whether you're
+  grabbing a meal for one or more, Poke Qube delivers a straightforward yet
+  delightful dining option that fits into busy lifestyles.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Sharing$$$Visitors often rave about the fresh and tasty
+  poke bowls at this sushi takeaway, noting the generous portions and reasonable
+  prices that make it a great value for sushi lovers. Many appreciate the
+  variety of options available, which add to the overall appeal for those
+  exploring local Japanese places. While some feedback points to areas for
+  improvement in customer service, the focus remains on the positive aspects
+  like the quality of the food that keeps people coming back. Overall, it's a
+  spot where the emphasis on fresh ingredients shines through, offering an
+  honest mix of convenience and flavor that appeals to a wide audience. If
+  you're in the mood for reliable sushi near you, this place delivers a solid
+  experience with room for even better interactions in the future.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +249,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

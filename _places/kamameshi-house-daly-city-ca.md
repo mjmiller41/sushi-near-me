@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kamameshi House"
+title: Kamameshi House
 permalink: /california/daly-city/kamameshi-house.html
 stateAbbr: CA
 stateName: California
 cityName: Daly City
 seo:
-  name: "Kamameshi House"
-  type: Restaurant
+  type: restaurant
   links: https://www.vibewit.me/kamameshi
-description: "Kamameshi House serves delicious sushi in Daly City, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJkZ_PltN7j4ARzLuj22Pr0gk
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 0
 website: https://www.vibewit.me/kamameshi
+description: >-
+  Discover Kamameshi House in Daly City, CA$$$Kamameshi House in Daly City, CA,
+  stands out as a charming Japanese restaurant offering a blend of traditional
+  flavors and accessible dining options. This spot excels with its focus on
+  hearty lunch and dinner selections, including quick bites and an impressive
+  array of teas that complement every meal. Patrons can enjoy moderately priced
+  dishes that emphasize fresh ingredients and generous portions, making it a
+  go-to for those exploring Japanese cuisine nearby. The restaurant's welcoming
+  atmosphere and thoughtful accessibility features, like wheelchair-friendly
+  entrances and seating, enhance the overall experience. Whether you're in the
+  mood for satisfying entrees or simple Japanese-inspired fare, this location
+  delivers a reliable and enjoyable visit in a cozy Westborough setting.
+generative_summary: >-
+  Discover Kamameshi House in Daly City, CA$$$Kamameshi House in Daly City, CA,
+  stands out as a charming Japanese restaurant offering a blend of traditional
+  flavors and accessible dining options. This spot excels with its focus on
+  hearty lunch and dinner selections, including quick bites and an impressive
+  array of teas that complement every meal. Patrons can enjoy moderately priced
+  dishes that emphasize fresh ingredients and generous portions, making it a
+  go-to for those exploring Japanese cuisine nearby. The restaurant's welcoming
+  atmosphere and thoughtful accessibility features, like wheelchair-friendly
+  entrances and seating, enhance the overall experience. Whether you're in the
+  mood for satisfying entrees or simple Japanese-inspired fare, this location
+  delivers a reliable and enjoyable visit in a cozy Westborough setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJkZ_PltN7j4ARzLuj22Pr0gk/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRdklubEZ3EAE
@@ -372,6 +395,21 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURSc0pXbXpRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURSc0pXbXpRRRAB!2m1!1s0x808f7bd396cf9f91:0x9d2eb63dba3bbcc
+review_summary: >-
+  What Visitors Are Saying About the Experience$$$Folks who stop by this sushi
+  spot near Daly City often highlight the hearty portions and tasty Japanese
+  dishes as major wins, making it a solid choice for affordable meals that hit
+  the spot. While some mention the sushi rice could use a bit more freshness to
+  elevate the flavors, the overall vibe remains upbeat with friendly service and
+  unique offerings like the kamameshi standing out as a crowd-pleaser. Reviewers
+  appreciate the value for money, especially for quick lunches or dinners that
+  feel like a good deal without breaking the bank. It's generally seen as a
+  welcoming place for groups or families, with positive notes on the tempura and
+  bento options that keep things lively. All in all, if you're hunting for
+  top-rated Japanese places nearby, this one earns praise for its reliable eats
+  and laid-back atmosphere, though it's always smart to keep expectations
+  realistic for the finer details.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeStreetParking: true
   valetParking: false
@@ -402,7 +440,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

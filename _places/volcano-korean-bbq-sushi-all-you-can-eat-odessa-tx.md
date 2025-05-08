@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Volcano Korean BBQ & SUSHI (All You Can Eat)"
+title: Volcano Korean BBQ & SUSHI (All You Can Eat)
 permalink: /texas/odessa/volcano-korean-bbq-sushi-all-you-can-eat.html
 stateAbbr: TX
 stateName: Texas
 cityName: Odessa
 seo:
-  name: "Volcano Korean BBQ & SUSHI (All You Can Eat)"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Volcano Korean BBQ & SUSHI (All You Can Eat) serves delicious sushi in Odessa, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ2VF8ZDTJ-4YRBIQDobPA4ww
 photos:
   - name: >-
@@ -182,7 +180,48 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Explore Volcano Korean BBQ & SUSHI in Odessa, TX$$$Volcano Korean BBQ & SUSHI
+  in Odessa, TX, offers a vibrant all-you-can-eat experience blending Korean
+  barbecue flavors with fresh sushi selections, making it a go-to spot for
+  casual dining enthusiasts. This restaurant features a variety of meats,
+  vegetables, and appetizers that highlight bold tastes and interactive cooking
+  at your table, perfect for those seeking authentic Korean-inspired meals.
+  Diners can enjoy generous portions during lunch or dinner, with options that
+  cater to different preferences, including flavorful grilled dishes and sushi
+  rolls. The welcoming atmosphere and accessible setup add to the appeal,
+  ensuring a comfortable visit for everyone. Whether you're looking for sushi
+  places near you or a fun meal with friends, this spot delivers a satisfying
+  mix of tastes in a lively setting.
+generative_summary: >-
+  Explore Volcano Korean BBQ & SUSHI in Odessa, TX$$$Volcano Korean BBQ & SUSHI
+  in Odessa, TX, offers a vibrant all-you-can-eat experience blending Korean
+  barbecue flavors with fresh sushi selections, making it a go-to spot for
+  casual dining enthusiasts. This restaurant features a variety of meats,
+  vegetables, and appetizers that highlight bold tastes and interactive cooking
+  at your table, perfect for those seeking authentic Korean-inspired meals.
+  Diners can enjoy generous portions during lunch or dinner, with options that
+  cater to different preferences, including flavorful grilled dishes and sushi
+  rolls. The welcoming atmosphere and accessible setup add to the appeal,
+  ensuring a comfortable visit for everyone. Whether you're looking for sushi
+  places near you or a fun meal with friends, this spot delivers a satisfying
+  mix of tastes in a lively setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Visitor Feedback on the Experience$$$Visitors often rave about the tasty
+  all-you-can-eat buffet at this Korean barbecue spot, praising the mix of juicy
+  bulgogi, spicy beef, and fresh sushi that keeps things exciting and flavorful.
+  Folks appreciate the helpful staff who make the meal feel easy and enjoyable,
+  along with the spot's clean vibe that sets a relaxed tone for groups or
+  families. Many highlight the hands-on fun of grilling your own food, which
+  adds a unique twist to the dining adventure without overwhelming the
+  experience. Overall, it's seen as a solid choice for anyone hunting for
+  top-rated sushi or hearty Korean options nearby, with the atmosphere and
+  variety earning high marks for value. While it's not perfect for everyone, the
+  positive energy and delicious selections make it a worthwhile stop for a
+  casual bite.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -208,7 +247,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

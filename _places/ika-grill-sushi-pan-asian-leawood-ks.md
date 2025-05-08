@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ika Grill Sushi & Pan Asian"
+title: Ika Grill Sushi & Pan Asian
 permalink: /kansas/leawood/ika-grill-sushi-pan-asian.html
 stateAbbr: KS
 stateName: Kansas
 cityName: Leawood
 seo:
-  name: "Ika Grill Sushi & Pan Asian"
-  type: Restaurant
+  type: restaurant
   links: https://www.ikagrill.com/
-description: "Ika Grill Sushi & Pan Asian serves delicious sushi in Leawood, Kansas. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJkSzGw_LpwIcRu0tyuSoERns
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $10 &ndash; $20
 rating: '4.7'
 rating_count: 0
 website: https://www.ikagrill.com/
+description: >-
+  Discover Ika Grill Sushi & Pan Asian in Leawood, KS$$$Nestled in Leawood, KS,
+  Ika Grill Sushi & Pan Asian offers a welcoming spot for enjoying a mix of
+  Asian flavors, including fresh sushi and pan-Asian dishes that cater to
+  various tastes. This laid-back restaurant features a diverse menu with options
+  for vegan and vegetarian diners, making it a versatile choice for anyone
+  seeking flavorful meals in a relaxed setting. Accessibility is a key
+  highlight, with features like wheelchair-friendly parking, entrances, and
+  seating that ensure everyone can enjoy the experience comfortably. The spot
+  also boasts outdoor seating and convenient options like curbside pickup and
+  delivery, adding to its appeal for casual diners. Whether you're in the mood
+  for expertly prepared rolls or hearty entrees, this sushi restaurant near
+  Leawood provides a satisfying blend of quality and convenience.
+generative_summary: >-
+  Discover Ika Grill Sushi & Pan Asian in Leawood, KS$$$Nestled in Leawood, KS,
+  Ika Grill Sushi & Pan Asian offers a welcoming spot for enjoying a mix of
+  Asian flavors, including fresh sushi and pan-Asian dishes that cater to
+  various tastes. This laid-back restaurant features a diverse menu with options
+  for vegan and vegetarian diners, making it a versatile choice for anyone
+  seeking flavorful meals in a relaxed setting. Accessibility is a key
+  highlight, with features like wheelchair-friendly parking, entrances, and
+  seating that ensure everyone can enjoy the experience comfortably. The spot
+  also boasts outdoor seating and convenient options like curbside pickup and
+  delivery, adding to its appeal for casual diners. Whether you're in the mood
+  for expertly prepared rolls or hearty entrees, this sushi restaurant near
+  Leawood provides a satisfying blend of quality and convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJkSzGw_LpwIcRu0tyuSoERns/reviews/ChdDSUhNMG9nS0VJQ0FnSUMzdG9lN2pRRRAB
@@ -374,6 +399,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNndTZYb3lRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNndTZYb3lRRRAB!2m1!1s0x87c0e9f2c3c62c91:0x7b46042ab9724bbb
+review_summary: >-
+  Insights from Recent Reviews$$$Visitors to this sushi spot often rave about
+  the fresh ingredients and variety of dishes, highlighting how the menu's Asian
+  fusion keeps things exciting and delicious. Many appreciate the friendly
+  service and quick turnaround, which make for a pleasant outing whether you're
+  grabbing takeout or dining in. While some note minor tweaks like adjusting
+  spice levels for personal preference, the overall vibe remains positive with
+  praises for affordable prices and standout items like flavorful rolls and
+  soups. Folks frequently mention it's a great place for groups or a quick meal,
+  emphasizing the welcoming atmosphere that encourages return visits. If you're
+  searching for top-rated sushi near you, this location delivers a solid
+  experience that's worth trying for its reliable flavors and approachable vibe.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -406,7 +444,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

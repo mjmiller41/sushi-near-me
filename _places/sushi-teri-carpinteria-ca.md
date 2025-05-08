@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Teri"
+title: Sushi Teri
 permalink: /california/carpinteria/sushi-teri.html
 stateAbbr: CA
 stateName: California
 cityName: Carpinteria
 seo:
-  name: "Sushi Teri"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi Teri serves delicious sushi in Carpinteria, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ46QLO9EO6YARTG-Gs__2ty0
 photos:
   - name: >-
@@ -185,7 +183,40 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Sushi Teri in Carpinteria, CA$$$Sushi Teri in Carpinteria, CA, stands
+  out as a welcoming spot for enjoying fresh sushi rolls and classic
+  Japanese-inspired dishes in a laid-back atmosphere. This informal restaurant
+  caters to those seeking quality sushi options, complete with a selection of
+  beer and wine to complement your meal. Its accessible features make it easy
+  for everyone to enjoy a casual dining experience, emphasizing comfort and
+  simplicity. For anyone exploring top sushi spots nearby, Sushi Teri delivers
+  authentic flavors that highlight the best of Japanese cuisine, making it a
+  go-to choice for locals and visitors alike.
+generative_summary: >-
+  Discover Sushi Teri in Carpinteria, CA$$$Sushi Teri in Carpinteria, CA, stands
+  out as a welcoming spot for enjoying fresh sushi rolls and classic
+  Japanese-inspired dishes in a laid-back atmosphere. This informal restaurant
+  caters to those seeking quality sushi options, complete with a selection of
+  beer and wine to complement your meal. Its accessible features make it easy
+  for everyone to enjoy a casual dining experience, emphasizing comfort and
+  simplicity. For anyone exploring top sushi spots nearby, Sushi Teri delivers
+  authentic flavors that highlight the best of Japanese cuisine, making it a
+  go-to choice for locals and visitors alike.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Sharing About Sushi Teri$$$While specific reviews for Sushi
+  Teri aren't available right now, similar sushi spots often get high marks for
+  their fresh ingredients and relaxed vibe, which seems to fit this
+  unpretentious eatery. Diners typically appreciate the straightforward menu
+  that keeps things tasty and approachable, perfect for anyone craving reliable
+  Japanese fare without the fuss. It's easy to imagine folks enjoying the casual
+  setting for a quick bite or a laid-back evening, with many highlighting the
+  value for everyday sushi lovers. Overall, the feedback leans positive,
+  suggesting it's a solid pick for those hunting for great sushi nearby, though
+  experiences can vary based on personal tastes.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +242,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

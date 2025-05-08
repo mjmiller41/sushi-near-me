@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Rock N Roll Sushi"
+title: Rock N Roll Sushi
 permalink: /alabama/trussville/rock-n-roll-sushi.html
 stateAbbr: AL
 stateName: Alabama
 cityName: Trussville
 seo:
-  name: "Rock N Roll Sushi"
-  type: Restaurant
-  links: null
-description: "Rock N Roll Sushi serves delicious sushi in Trussville, Alabama. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://rocknrollsushi.com/locations/trussville-al/
 place_id: ChIJA8Y-gsgNiYgRuuAQrR2Bun4
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x88890dc8823ec603:0x7eba811dad10e0ba!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 9:00 PM'
+    - 'Thursday: 11:00 AM – 10:00 PM'
+    - 'Friday: 11:00 AM – 10:00 PM'
+    - 'Saturday: 11:00 AM – 10:00 PM'
+    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,52 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (205) 655-6040
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.3'
+rating_count: 776
+website: https://rocknrollsushi.com/locations/trussville-al/
+description: >-
+  Discover Rock N Roll Sushi in Trussville, AL$$$Rock N Roll Sushi in
+  Trussville, AL, stands out as a vibrant spot for enjoying creative,
+  Americanized twists on classic sushi rolls, all set in a laid-back environment
+  filled with nostalgic 80s tunes. This welcoming sushi restaurant near you
+  combines fresh ingredients with innovative flavors, making it a go-to choice
+  for anyone craving top-rated Japanese-inspired dishes in a casual setting.
+  Accessibility features like wheelchair-friendly parking and entrances ensure
+  everyone can easily enjoy the experience, while the moderate price range keeps
+  it approachable for everyday dining. With extended hours including evenings
+  and weekends, it's perfect for a quick lunch or relaxed dinner, appealing to
+  those seeking sushi places near me that blend fun and flavor seamlessly.
+generative_summary: >-
+  Discover Rock N Roll Sushi in Trussville, AL$$$Rock N Roll Sushi in
+  Trussville, AL, stands out as a vibrant spot for enjoying creative,
+  Americanized twists on classic sushi rolls, all set in a laid-back environment
+  filled with nostalgic 80s tunes. This welcoming sushi restaurant near you
+  combines fresh ingredients with innovative flavors, making it a go-to choice
+  for anyone craving top-rated Japanese-inspired dishes in a casual setting.
+  Accessibility features like wheelchair-friendly parking and entrances ensure
+  everyone can easily enjoy the experience, while the moderate price range keeps
+  it approachable for everyday dining. With extended hours including evenings
+  and weekends, it's perfect for a quick lunch or relaxed dinner, appealing to
+  those seeking sushi places near me that blend fun and flavor seamlessly.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Diners at Rock N Roll Sushi$$$From what folks are sharing
+  online, Rock N Roll Sushi seems to hit the right notes with its tasty rolls
+  and energetic atmosphere, earning plenty of nods for fresh flavors and a fun
+  vibe that keeps people coming back. Many appreciate the solid portions and
+  variety that make it a reliable pick for casual meals, with the overall
+  experience feeling just right for groups or solo diners alike. While some
+  mention minor waits during peak times, the general consensus leans positive,
+  highlighting the value and quality that contribute to its strong rating. It's
+  clear that sushi enthusiasts find this spot satisfying for everyday cravings,
+  offering a welcoming escape that balances affordability with enjoyable
+  service. If you're on the hunt for sushi restaurants nearby, the feedback
+  suggests it's worth checking out for a reliably good time.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +313,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Mizu Japanese"
+title: Mizu Japanese
 permalink: /minnesota/white-bear-lake/mizu-japanese.html
 stateAbbr: MN
 stateName: Minnesota
 cityName: White Bear Lake
 seo:
-  name: "Mizu Japanese"
-  type: Restaurant
+  type: restaurant
   links: https://www.mizuwbl.com/
-description: "Mizu Japanese serves delicious sushi in White Bear Lake, Minnesota. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, and dinner."
 place_id: ChIJZ0NLcNnQslIRL53HKCxLLmM
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $50 &ndash; $100
 rating: '4.5'
 rating_count: 0
 website: https://www.mizuwbl.com/
+description: >-
+  Explore Mizu Japanese in White Bear Lake, MN$$$Mizu Japanese in White Bear
+  Lake, MN, offers a relaxed atmosphere perfect for enjoying authentic Japanese
+  cuisine, including fresh sushi and sashimi that highlight the area's growing
+  reputation for quality Asian dining options. With options for wine, beer, and
+  cocktails, the spot provides a welcoming vibe enhanced by scenic lake views
+  that make it an ideal choice for casual meals or special occasions. The
+  restaurant emphasizes accessibility, featuring wheelchair-friendly parking,
+  entrances, and seating, along with outdoor options for those seeking a breath
+  of fresh air. Patrons appreciate the thoughtful menu that includes vegetarian
+  choices and a focus on flavorful dishes, making it a standout destination for
+  anyone searching for top-rated sushi experiences nearby.
+generative_summary: >-
+  Explore Mizu Japanese in White Bear Lake, MN$$$Mizu Japanese in White Bear
+  Lake, MN, offers a relaxed atmosphere perfect for enjoying authentic Japanese
+  cuisine, including fresh sushi and sashimi that highlight the area's growing
+  reputation for quality Asian dining options. With options for wine, beer, and
+  cocktails, the spot provides a welcoming vibe enhanced by scenic lake views
+  that make it an ideal choice for casual meals or special occasions. The
+  restaurant emphasizes accessibility, featuring wheelchair-friendly parking,
+  entrances, and seating, along with outdoor options for those seeking a breath
+  of fresh air. Patrons appreciate the thoughtful menu that includes vegetarian
+  choices and a focus on flavorful dishes, making it a standout destination for
+  anyone searching for top-rated sushi experiences nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJZ0NLcNnQslIRL53HKCxLLmM/reviews/ChZDSUhNMG9nS0VJQ0FnTURneXBuZFZREAE
@@ -358,6 +381,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUR3aUxENG53RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUR3aUxENG53RRAB!2m1!1s0x52b2d0d9704b4367:0x632e4b2c28c79d2f
+review_summary: >-
+  Visitor Feedback on Mizu Japanese$$$Folks often rave about the tasty sushi
+  rolls and other Japanese dishes at this spot, noting how the flavors really
+  hit the mark and the lakeside setting adds a nice touch to the overall vibe.
+  While some mention that the prices feel a bit steep compared to the portion
+  sizes, many agree that the quality of the food and friendly service make it
+  worth trying out. A few visitors point out occasional inconsistencies like
+  slower service or uncomfortable seating, but these don't overshadow the
+  generally positive experiences shared by others. All in all, it's a solid pick
+  for groups looking for good vibes and reliable Japanese fare, with most
+  leaving satisfied and eager to return for more fresh options in the area.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -389,7 +424,7 @@ serves_lunch: null
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

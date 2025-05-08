@@ -5,4 +5,5 @@ permalink: /montana/great-falls/
 stateAbbr: MT
 stateName: Montana
 cityName: Great Falls
+
 ---

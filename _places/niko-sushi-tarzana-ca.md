@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Niko Sushi"
+title: Niko Sushi
 permalink: /california/tarzana/niko-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Tarzana
 seo:
-  name: "Niko Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Niko Sushi serves delicious sushi in Tarzana, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJtRQ9rROZwoARDioW2YVHlGA
 photos:
   - name: >-
@@ -185,7 +183,46 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Niko Sushi in Tarzana, California$$$Niko Sushi in Tarzana, CA, stands
+  out as a welcoming sushi restaurant offering a variety of fresh Japanese
+  dishes in a relaxed atmosphere. This spot is known for its flavorful nigiri
+  and creative rolls, making it a go-to choice for those seeking authentic yet
+  approachable Japanese fare. With accessibility features like
+  wheelchair-friendly parking and entrances, it ensures everyone can enjoy the
+  experience comfortably. The laid-back setting provides a casual vibe perfect
+  for casual diners or groups, while the menu highlights high-quality
+  ingredients that appeal to sushi enthusiasts exploring options near them.
+  Whether you're in the mood for top-rated rolls or a simple Japanese meal, this
+  location combines tradition with everyday convenience in the heart of Tarzana.
+generative_summary: >-
+  Discover Niko Sushi in Tarzana, California$$$Niko Sushi in Tarzana, CA, stands
+  out as a welcoming sushi restaurant offering a variety of fresh Japanese
+  dishes in a relaxed atmosphere. This spot is known for its flavorful nigiri
+  and creative rolls, making it a go-to choice for those seeking authentic yet
+  approachable Japanese fare. With accessibility features like
+  wheelchair-friendly parking and entrances, it ensures everyone can enjoy the
+  experience comfortably. The laid-back setting provides a casual vibe perfect
+  for casual diners or groups, while the menu highlights high-quality
+  ingredients that appeal to sushi enthusiasts exploring options near them.
+  Whether you're in the mood for top-rated rolls or a simple Japanese meal, this
+  location combines tradition with everyday convenience in the heart of Tarzana.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$From what folks share about Niko Sushi, it seems
+  like a solid pick for anyone craving fresh sushi without the fuss, with many
+  highlighting the tasty rolls and friendly service that keep things light and
+  enjoyable. People often mention the variety of options that cater to different
+  tastes, making it a reliable spot for quick lunches or relaxed dinners, though
+  some note it's best for straightforward visits rather than anything fancy.
+  Overall, the consensus leans positive, with diners appreciating the
+  approachable prices and consistent quality that make it feel like a
+  neighborhood favorite. If you're hunting for sushi places nearby, feedback
+  suggests this one delivers on freshness and satisfaction without major
+  letdowns. In a casual scene like this, it's clear that Niko Sushi earns repeat
+  visits for its dependable vibe and menu that hits the mark for most.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +248,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

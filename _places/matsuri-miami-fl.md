@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Matsuri"
+title: Matsuri
 permalink: /florida/miami/matsuri.html
 stateAbbr: FL
 stateName: Florida
 cityName: Miami
 seo:
-  name: "Matsuri"
-  type: Restaurant
+  type: restaurant
   links: http://www.matsurimiami.com/
-description: "Homey joint featuring inventive sushi, hot entrees & a Japanese menu with less-common dishes. Matsuri serves delicious sushi in Miami, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJCw0-ABq42YgR9sXS9kgio5A
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: null
 rating: '4.4'
 rating_count: 0
 website: http://www.matsurimiami.com/
+description: >-
+  Discover Matsuri in Miami, FL$$$Matsuri in Miami, FL, stands out as a
+  welcoming Japanese restaurant renowned for its inventive sushi and diverse hot
+  entrees that emphasize fresh, high-quality ingredients. Diners appreciate the
+  creative twists on traditional dishes, from delicate rolls to unique
+  specialties that deliver a satisfying blend of flavors and textures. The cozy
+  atmosphere enhances the overall experience, making it an ideal choice for
+  casual meals with loved ones, complemented by options for vegetarians and
+  those seeking lighter fare. Accessibility features like wheelchair-friendly
+  entrances add to its appeal for a wide range of visitors, while the focus on
+  authentic Japanese cuisine positions it as a reliable option for anyone
+  exploring top sushi spots nearby.
+generative_summary: >-
+  Discover Matsuri in Miami, FL$$$Matsuri in Miami, FL, stands out as a
+  welcoming Japanese restaurant renowned for its inventive sushi and diverse hot
+  entrees that emphasize fresh, high-quality ingredients. Diners appreciate the
+  creative twists on traditional dishes, from delicate rolls to unique
+  specialties that deliver a satisfying blend of flavors and textures. The cozy
+  atmosphere enhances the overall experience, making it an ideal choice for
+  casual meals with loved ones, complemented by options for vegetarians and
+  those seeking lighter fare. Accessibility features like wheelchair-friendly
+  entrances add to its appeal for a wide range of visitors, while the focus on
+  authentic Japanese cuisine positions it as a reliable option for anyone
+  exploring top sushi spots nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJCw0-ABq42YgR9sXS9kgio5A/reviews/ChdDSUhNMG9nS0VJQ0FnSURIbGNTUmd3RRAB
@@ -404,6 +427,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN4OHFXOUJBEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN4OHFXOUJBEAE!2m1!1s0x88d9b81a003e0d0b:0x90a32248f6d2c5f6
+review_summary: >-
+  What Patrons Are Saying About Matsuri$$$Visitors often praise Matsuri for its
+  fresh and flavorful sushi selections, with many highlighting the high-quality
+  ingredients that make every bite enjoyable and memorable. While the service
+  generally comes across as attentive and helpful, some folks mention occasional
+  waits that can extend beyond expectations, though the delicious entrees and
+  welcoming vibe keep things upbeat. Overall, the spot earns high marks for its
+  tasty dishes and variety, encouraging repeat visits for those craving
+  authentic Japanese flavors in a relaxed setting. It's worth noting that while
+  most experiences are positive, a few accounts suggest room for improvement in
+  handling minor issues quickly to ensure every meal feels seamless. If you're
+  on the hunt for great sushi nearby, this place delivers a solid mix of hits
+  that make it a go-to for casual dining adventures.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -435,8 +472,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Homey joint featuring inventive sushi, hot entrees & a Japanese menu with
   less-common dishes.
 

@@ -5,4 +5,5 @@ permalink: /delaware/south-bethany/
 stateAbbr: DE
 stateName: Delaware
 cityName: South Bethany
+
 ---

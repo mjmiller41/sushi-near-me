@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Masa Hibachi Sushi & Bar"
+title: Masa Hibachi Sushi & Bar
 permalink: /pennsylvania/wyomissing/masa-hibachi-sushi-bar.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Wyomissing
 seo:
-  name: "Masa Hibachi Sushi & Bar"
-  type: Restaurant
+  type: restaurant
   links: http://www.masahibachiwyomissing.com/
-description: "Masa Hibachi Sushi & Bar serves delicious sushi in Wyomissing, Pennsylvania. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJc_xB8aR2xokR9Q2Wa7En5ys
 photos:
   - name: >-
@@ -185,6 +183,35 @@ price_range: null
 rating: '4.3'
 rating_count: 0
 website: http://www.masahibachiwyomissing.com/
+description: >-
+  Discover Masa Hibachi Sushi & Bar in Wyomissing, Pennsylvania$$$Masa Hibachi
+  Sushi & Bar in Wyomissing, Pennsylvania, stands out as a welcoming spot for
+  enjoying fresh Japanese cuisine, blending casual vibes with flavorful hibachi
+  and sushi options that appeal to local diners seeking authentic tastes. This
+  eatery features a modern atmosphere where guests can savor expertly prepared
+  dishes, including sizzling hibachi fare and creative rolls, paired with
+  refreshing drinks like sake and cocktails for a complete meal experience.
+  Accessibility is a key highlight, with wheelchair-friendly parking, entrances,
+  and seating making it easy for everyone to enjoy the space. The menu
+  emphasizes affordable lunch specials and a variety of vegetarian choices,
+  drawing in those exploring top Japanese dining options nearby. Whether you're
+  in the mood for a quick bite or a relaxed evening, this spot delivers on
+  quality and convenience for sushi enthusiasts in the area.
+generative_summary: >-
+  Discover Masa Hibachi Sushi & Bar in Wyomissing, Pennsylvania$$$Masa Hibachi
+  Sushi & Bar in Wyomissing, Pennsylvania, stands out as a welcoming spot for
+  enjoying fresh Japanese cuisine, blending casual vibes with flavorful hibachi
+  and sushi options that appeal to local diners seeking authentic tastes. This
+  eatery features a modern atmosphere where guests can savor expertly prepared
+  dishes, including sizzling hibachi fare and creative rolls, paired with
+  refreshing drinks like sake and cocktails for a complete meal experience.
+  Accessibility is a key highlight, with wheelchair-friendly parking, entrances,
+  and seating making it easy for everyone to enjoy the space. The menu
+  emphasizes affordable lunch specials and a variety of vegetarian choices,
+  drawing in those exploring top Japanese dining options nearby. Whether you're
+  in the mood for a quick bite or a relaxed evening, this spot delivers on
+  quality and convenience for sushi enthusiasts in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJc_xB8aR2xokR9Q2Wa7En5ys/reviews/ChdDSUhNMG9nS0VJQ0FnSURfc3Q2VnhRRRAB
@@ -434,6 +461,22 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUN3aE5PRlJREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUN3aE5PRlJREAE!2m1!1s0x89c676a4f141fc73:0x2be727b16b960df5
+review_summary: >-
+  What Customers Are Saying About the Experience$$$Folks rave about the lively
+  hibachi shows and tasty specials that make meals here feel fun and
+  budget-friendly, with many highlighting the fresh sushi and generous portions
+  as standout features. While the service is often described as friendly and
+  efficient, helping create a welcoming vibe even on busy nights, some diners
+  appreciate the clean, modern setting that enhances the overall enjoyment. A
+  few mentions note that dietary needs like gluten-free options could use more
+  variety, but the general consensus leans toward solid value and flavorful
+  dishes that keep people coming back. Overall, it's a go-to choice for groups
+  or families looking for a casual night out, with the affordable combos and
+  energetic atmosphere earning high marks from satisfied visitors. If you're
+  hunting for reliable Japanese spots nearby, this place offers a mostly
+  positive experience that's worth trying for its highlights in flavor and
+  entertainment.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -466,7 +509,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Rock-n-Saké Bar & Sushi"
+title: Rock-n-Saké Bar & Sushi
 permalink: /louisiana/new-orleans/rock-n-sake-bar-sushi.html
 stateAbbr: LA
 stateName: Louisiana
 cityName: New Orleans
 seo:
-  name: "Rock-n-Saké Bar & Sushi"
-  type: Restaurant
-  links: null
-description: "Rock-n-Saké Bar & Sushi serves delicious sushi in New Orleans, Louisiana. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://rocknsake.com/
 place_id: ChIJf4ps4XGmIIYRdNj7jB00zlI
 photos:
   - name: >-
@@ -169,8 +167,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8620a671e16c8a7f:0x52ce341d8cfbd874!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: Closed'
+    - 'Tuesday: 5:00 – 10:00 PM'
+    - 'Wednesday: 5:00 – 10:00 PM'
+    - 'Thursday: 5:00 – 10:00 PM'
+    - 'Friday: 11:30 AM – 3:00 PM, 5:00 – 11:00 PM'
+    - 'Saturday: 5:00 – 11:00 PM'
+    - 'Sunday: 5:00 – 10:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -178,13 +241,51 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
+phone: (504) 581-7253
+price_level: PRICE_LEVEL_MODERATE
 price_range: null
-rating: null
-rating_count: 0
-website: null
+rating: '4.3'
+rating_count: 683
+website: https://rocknsake.com/
+description: >-
+  Discover Rock-n-Saké Bar & Sushi in New Orleans, LA$$$Rock-n-Saké Bar & Sushi
+  in New Orleans, LA, offers a vibrant blend of fresh sushi rolls and authentic
+  Japanese dishes in a trendy setting that captures the city's energetic spirit.
+  This spot stands out for its lively atmosphere, making it an ideal choice for
+  those seeking flavorful options like expertly crafted rolls and creative
+  entrees that highlight quality ingredients. With accessibility features
+  ensuring a welcoming experience for all, it's perfect for casual dinners or
+  group outings in the heart of the Lower Garden District. If you're exploring
+  sushi restaurants near me or looking for top-rated Japanese places in New
+  Orleans, this establishment delivers a memorable dining adventure that
+  combines great taste with a fun vibe.
+generative_summary: >-
+  Discover Rock-n-Saké Bar & Sushi in New Orleans, LA$$$Rock-n-Saké Bar & Sushi
+  in New Orleans, LA, offers a vibrant blend of fresh sushi rolls and authentic
+  Japanese dishes in a trendy setting that captures the city's energetic spirit.
+  This spot stands out for its lively atmosphere, making it an ideal choice for
+  those seeking flavorful options like expertly crafted rolls and creative
+  entrees that highlight quality ingredients. With accessibility features
+  ensuring a welcoming experience for all, it's perfect for casual dinners or
+  group outings in the heart of the Lower Garden District. If you're exploring
+  sushi restaurants near me or looking for top-rated Japanese places in New
+  Orleans, this establishment delivers a memorable dining adventure that
+  combines great taste with a fun vibe.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying About Rock-n-Saké$$$Folks often rave about the
+  fantastic sushi and tasty drinks at this Japanese spot, with highlights like
+  the flavorful rolls and platters that keep diners coming back for more. Many
+  appreciate the lively atmosphere and the engaging service that adds a personal
+  touch, especially around the sushi bar, creating a welcoming environment for
+  casual meals. While some mention that the prices lean toward the higher side,
+  they still feel it's worth it for the quality and variety on offer. Overall,
+  visitors enjoy the solid food options and fun energy, making it a go-to for
+  anyone hunting for great sushi close to me. If you're in the mood for reliable
+  Japanese cuisine with a positive buzz, this place delivers a satisfying
+  experience that balances enjoyment with honest value.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +311,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

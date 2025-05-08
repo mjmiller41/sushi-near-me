@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ayame Hibachi & Sushi"
+title: Ayame Hibachi & Sushi
 permalink: /new-jersey/hoboken/ayame-hibachi-sushi.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Hoboken
 seo:
-  name: "Ayame Hibachi & Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.ayamehibachisushi.com/
-description: "Fresh, Japanese eatery with a sushi bar & separate area for hibachi shows, plus outdoor seating. Ayame Hibachi & Sushi serves delicious sushi in Hoboken, New Jersey. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ-wC48t9ZwokRb_rGklxqhuY
 photos:
   - name: >-
@@ -183,6 +181,29 @@ price_range: null
 rating: '4.0'
 rating_count: 0
 website: http://www.ayamehibachisushi.com/
+description: >-
+  Discover Ayame Hibachi & Sushi in Hoboken, NJ$$$Nestled in the vibrant city of
+  Hoboken, New Jersey, Ayame Hibachi & Sushi stands out as a welcoming spot for
+  fresh Japanese dining, featuring a variety of sushi options and lively hibachi
+  experiences. This casual eatery boasts a dedicated sushi bar alongside an area
+  for entertaining hibachi shows, making it ideal for those seeking authentic
+  flavors in a relaxed atmosphere. With outdoor seating available, it's perfect
+  for enjoying meals on milder days, while accessibility features ensure a
+  comfortable visit for all guests. Drawing from its focus on quality
+  ingredients and diverse menu, the restaurant offers a blend of traditional
+  dishes that appeal to sushi enthusiasts looking for reliable options nearby.
+generative_summary: >-
+  Discover Ayame Hibachi & Sushi in Hoboken, NJ$$$Nestled in the vibrant city of
+  Hoboken, New Jersey, Ayame Hibachi & Sushi stands out as a welcoming spot for
+  fresh Japanese dining, featuring a variety of sushi options and lively hibachi
+  experiences. This casual eatery boasts a dedicated sushi bar alongside an area
+  for entertaining hibachi shows, making it ideal for those seeking authentic
+  flavors in a relaxed atmosphere. With outdoor seating available, it's perfect
+  for enjoying meals on milder days, while accessibility features ensure a
+  comfortable visit for all guests. Drawing from its focus on quality
+  ingredients and diverse menu, the restaurant offers a blend of traditional
+  dishes that appeal to sushi enthusiasts looking for reliable options nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ-wC48t9ZwokRb_rGklxqhuY/reviews/ChZDSUhNMG9nS0VJQ0FnTURnMjV5c0tnEAE
@@ -338,6 +359,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNmN011MzhRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNmN011MzhRRRAB!2m1!1s0x89c259dff2b800fb:0xe6866a5c92c6fa6f
+review_summary: >-
+  What Customers Are Buzzing About This Sushi Spot$$$Visitors often rave about
+  the tasty dishes and well-prepared meals, highlighting the flavorful sushi and
+  hibachi selections that make for a fun dining adventure. While some note that
+  service can occasionally be slower during busy times, many appreciate the
+  accommodating staff and family-friendly vibe that keeps things enjoyable
+  overall. Feedback frequently mentions the convenience of delivery and takeout,
+  with meals arriving in good condition for those searching for quality Japanese
+  eats close to home. Though a few experiences involved longer waits, the
+  general consensus leans positive, praising the authentic tastes and
+  entertaining atmosphere that make it worth a return visit for groups or solo
+  diners alike. If you're exploring top-rated sushi places nearby, this spot
+  delivers solid options with a casual charm that keeps customers coming back.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   valetParking: false
 payment_options:
@@ -368,8 +403,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Fresh, Japanese eatery with a sushi bar & separate area for hibachi shows,
   plus outdoor seating.
 

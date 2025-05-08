@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kona Grill - Boise"
+title: Kona Grill - Boise
 permalink: /idaho/meridian/kona-grill-boise.html
 stateAbbr: ID
 stateName: Idaho
 cityName: Meridian
 seo:
-  name: "Kona Grill - Boise"
-  type: Restaurant
+  type: restaurant
   links: https://konagrill.com/locations?locations=Meridian,83646
-description: "Kona Grill - Boise serves delicious sushi in Meridian, Idaho. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJqcUj_T1UrlQRRrSknnGj9xk
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x54ae543dfd23c5a9:0x19f7a3719ea4b446!10e5
 primary_type: American Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 10
+        minute: 0
+      close:
+        day: 0
+        hour: 23
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 0
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 0
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 0
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 0
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 1
+        minute: 0
+    - open:
+        day: 6
+        hour: 10
+        minute: 0
+      close:
+        day: 0
+        hour: 1
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 12:00 AM'
     - 'Tuesday: 11:00 AM – 12:00 AM'
     - 'Wednesday: 11:00 AM – 12:00 AM'
@@ -178,54 +234,407 @@ opening_hours:
     - 'Friday: 11:00 AM – 1:00 AM'
     - 'Saturday: 10:00 AM – 1:00 AM'
     - 'Sunday: 10:00 AM – 11:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 12:00 AM'
-    - 'Tuesday: 11:00 AM – 12:00 AM'
-    - 'Wednesday: 11:00 AM – 12:00 AM'
-    - 'Thursday: 11:00 AM – 12:00 AM'
-    - 'Friday: 11:00 AM – 1:00 AM'
-    - 'Saturday: 10:00 AM – 1:00 AM'
-    - 'Sunday: 10:00 AM – 11:00 PM'
+  nextCloseTime: '2025-05-04T07:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: false
+    periods:
+      - open:
+          day: 0
+          hour: 21
+          minute: 0
+        close:
+          day: 0
+          hour: 23
+          minute: 0
+      - open:
+          day: 1
+          hour: 14
+          minute: 0
+        close:
+          day: 1
+          hour: 18
+          minute: 0
+      - open:
+          day: 1
+          hour: 21
+          minute: 0
+        close:
+          day: 2
+          hour: 0
+          minute: 0
+      - open:
+          day: 2
+          hour: 14
+          minute: 0
+        close:
+          day: 2
+          hour: 18
+          minute: 0
+      - open:
+          day: 2
+          hour: 21
+          minute: 0
+        close:
+          day: 3
+          hour: 0
+          minute: 0
+      - open:
+          day: 3
+          hour: 14
+          minute: 0
+        close:
+          day: 3
+          hour: 18
+          minute: 0
+      - open:
+          day: 3
+          hour: 21
+          minute: 0
+        close:
+          day: 4
+          hour: 0
+          minute: 0
+      - open:
+          day: 4
+          hour: 14
+          minute: 0
+        close:
+          day: 4
+          hour: 18
+          minute: 0
+      - open:
+          day: 4
+          hour: 21
+          minute: 0
+        close:
+          day: 5
+          hour: 0
+          minute: 0
+      - open:
+          day: 5
+          hour: 14
+          minute: 0
+        close:
+          day: 5
+          hour: 18
+          minute: 0
+      - open:
+          day: 5
+          hour: 21
+          minute: 0
+        close:
+          day: 6
+          hour: 1
+          minute: 0
+      - open:
+          day: 6
+          hour: 21
+          minute: 0
+        close:
+          day: 0
+          hour: 1
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 2:00 – 6:00 PM, 9:00 PM – 12:00 AM'
+      - 'Tuesday: 2:00 – 6:00 PM, 9:00 PM – 12:00 AM'
+      - 'Wednesday: 2:00 – 6:00 PM, 9:00 PM – 12:00 AM'
+      - 'Thursday: 2:00 – 6:00 PM, 9:00 PM – 12:00 AM'
+      - 'Friday: 2:00 – 6:00 PM, 9:00 PM – 1:00 AM'
+      - 'Saturday: 9:00 PM – 1:00 AM'
+      - 'Sunday: 9:00 – 11:00 PM'
+    secondaryHoursType: HAPPY_HOUR
+    nextOpenTime: '2025-05-04T03:00:00Z'
 phone: (208) 922-6511
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.3'
-rating_count: 0
+rating_count: 5018
 website: https://konagrill.com/locations?locations=Meridian,83646
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Explore Kona Grill in Meridian, ID$$$Kona Grill in Meridian, Idaho, stands out
+  as a polished chain restaurant blending eclectic American cuisine with fresh
+  sushi options, making it a go-to spot for those seeking diverse dining
+  experiences near you. The menu features a variety of flavorful dishes,
+  including light bites and creative cocktails, all served in a modern
+  atmosphere with accessible features like wheelchair-friendly seating and
+  outdoor areas. Patrons can enjoy generous portions of high-quality fare, from
+  hearty mains to sushi rolls that appeal to fans of Japanese-inspired flavors
+  in a casual setting. With extended hours including happy hour deals, it's
+  ideal for everything from quick lunches to evening gatherings, ensuring a
+  welcoming vibe for families and groups alike.
+generative_summary: >-
+  Explore Kona Grill in Meridian, ID$$$Kona Grill in Meridian, Idaho, stands out
+  as a polished chain restaurant blending eclectic American cuisine with fresh
+  sushi options, making it a go-to spot for those seeking diverse dining
+  experiences near you. The menu features a variety of flavorful dishes,
+  including light bites and creative cocktails, all served in a modern
+  atmosphere with accessible features like wheelchair-friendly seating and
+  outdoor areas. Patrons can enjoy generous portions of high-quality fare, from
+  hearty mains to sushi rolls that appeal to fans of Japanese-inspired flavors
+  in a casual setting. With extended hours including happy hour deals, it's
+  ideal for everything from quick lunches to evening gatherings, ensuring a
+  welcoming vibe for families and groups alike.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJqcUj_T1UrlQRRrSknnGj9xk/reviews/ChdDSUhNMG9nS0VJQ0FnTURnX3ZQMnJRRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        The steak is perfect, medium rare is set perfect. The chicken is tender
+        and moist. The veggies were delicious. The potatoes were incredible. The
+        rice was delicious and not clumped.
+
+
+        The portions were just right, definitely on the generous side. You will
+        leave very satisfied.
+
+
+        And the carrot cake! Wow!! A huge slice, be prepared to share. And the
+        taste is incredible.
+
+
+        The atmosphere is modern and artsy. Very pleasant dining.
+
+
+        And if there is an issue with anything, they will take care of it. Thank
+        you to Jessica and the staff.
+      languageCode: en
+    originalText:
+      text: >-
+        The steak is perfect, medium rare is set perfect. The chicken is tender
+        and moist. The veggies were delicious. The potatoes were incredible. The
+        rice was delicious and not clumped.
+
+
+        The portions were just right, definitely on the generous side. You will
+        leave very satisfied.
+
+
+        And the carrot cake! Wow!! A huge slice, be prepared to share. And the
+        taste is incredible.
+
+
+        The atmosphere is modern and artsy. Very pleasant dining.
+
+
+        And if there is an issue with anything, they will take care of it. Thank
+        you to Jessica and the staff.
+      languageCode: en
+    authorAttribution:
+      displayName: Mark
+      uri: https://www.google.com/maps/contrib/110854922170510265941/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWT2nlkHzUAvo1NpriaB4lhK13TU2zKIaAKJYcbwASW3qB4B3TRDA=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-02-25T03:37:19.990085Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURnX3ZQMnJRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURnX3ZQMnJRRRAB!2m1!1s0x54ae543dfd23c5a9:0x19f7a3719ea4b446
+  - name: >-
+      places/ChIJqcUj_T1UrlQRRrSknnGj9xk/reviews/ChZDSUhNMG9nS0VJQ0FnSUNfelpLMlF3EAE
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        Great service and food tonight with Hamid as our server. This was our
+        first time and we'll definitely be back. They have great Happy Hour
+        deals. Everything we ate was delicious and well worth it. We had a
+        reservation but it wasn't overlly packed. Favorites tonight was the
+        shrimp tempura, salmon and Steak.
+      languageCode: en
+    originalText:
+      text: >-
+        Great service and food tonight with Hamid as our server. This was our
+        first time and we'll definitely be back. They have great Happy Hour
+        deals. Everything we ate was delicious and well worth it. We had a
+        reservation but it wasn't overlly packed. Favorites tonight was the
+        shrimp tempura, salmon and Steak.
+      languageCode: en
+    authorAttribution:
+      displayName: Timothy Balzen
+      uri: https://www.google.com/maps/contrib/108939935241140609399/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjX4IqtmCh1dl3wQE1jO0Sj4Con-7IQ83_GgYBBe-Ej5t03xsUI_=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-04-15T02:28:46.733294Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNfelpLMlF3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNfelpLMlF3EAE!2m1!1s0x54ae543dfd23c5a9:0x19f7a3719ea4b446
+  - name: >-
+      places/ChIJqcUj_T1UrlQRRrSknnGj9xk/reviews/ChZDSUhNMG9nS0VJQ0FnSUR2MnZUeVRBEAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        Had dinner here Sunday evening at 6pm. We walked in and were seated
+        right away. Service was attentive and checked in regularly to see if we
+        needed anything. It's a beautiful space and if you sit in the bar area
+        you can see the beautiful fountain in the courtyard.
+
+
+        I ordered the lemon garlic penne with shrimp and my friend ordered the
+        same with chicken. I told him we were at a seafood place and he should
+        have ordered it with shrimp. After I gave him a piece of shrimp, he
+        agreed.
+
+
+        After dinner, I switched over to the bar. The bartender was nice. I
+        ordered an espresso martini, of course and waited for another friend to
+        join me. My friend wanted a red wine and had two glasses.
+
+
+        The manager came to ask how things were and if we needed anything, we
+        didn't and it was going great. I told him I was visiting from Phoenix,
+        Arizona and he mentioned that he moved here about a year ago from there
+        and liked it here. We had a great conversation and I appreciated his
+        advice and insight.
+      languageCode: en
+    originalText:
+      text: >-
+        Had dinner here Sunday evening at 6pm. We walked in and were seated
+        right away. Service was attentive and checked in regularly to see if we
+        needed anything. It's a beautiful space and if you sit in the bar area
+        you can see the beautiful fountain in the courtyard.
+
+
+        I ordered the lemon garlic penne with shrimp and my friend ordered the
+        same with chicken. I told him we were at a seafood place and he should
+        have ordered it with shrimp. After I gave him a piece of shrimp, he
+        agreed.
+
+
+        After dinner, I switched over to the bar. The bartender was nice. I
+        ordered an espresso martini, of course and waited for another friend to
+        join me. My friend wanted a red wine and had two glasses.
+
+
+        The manager came to ask how things were and if we needed anything, we
+        didn't and it was going great. I told him I was visiting from Phoenix,
+        Arizona and he mentioned that he moved here about a year ago from there
+        and liked it here. We had a great conversation and I appreciated his
+        advice and insight.
+      languageCode: en
+    authorAttribution:
+      displayName: J B
+      uri: https://www.google.com/maps/contrib/102771591186439551822/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKrCisoJnr0b2n-v-8Xb9OA2qJLggZQMgA2h5S4D2h3MF9GBg=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-12-19T17:42:29.510268Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR2MnZUeVRBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR2MnZUeVRBEAE!2m1!1s0x54ae543dfd23c5a9:0x19f7a3719ea4b446
+  - name: >-
+      places/ChIJqcUj_T1UrlQRRrSknnGj9xk/reviews/ChZDSUhNMG9nS0VJQ0FnSUNQNHEyUlNBEAE
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        Beautiful facilities and friendly staff. I believe two different
+        managers check up on us for lunch on a Friday afternoon. The food was
+        delicious and served pipping hot 🔥. Our server/bartender got our order
+        just right. Highly recommend you stop in to Kona Grill.
+      languageCode: en
+    originalText:
+      text: >-
+        Beautiful facilities and friendly staff. I believe two different
+        managers check up on us for lunch on a Friday afternoon. The food was
+        delicious and served pipping hot 🔥. Our server/bartender got our order
+        just right. Highly recommend you stop in to Kona Grill.
+      languageCode: en
+    authorAttribution:
+      displayName: Mike F
+      uri: https://www.google.com/maps/contrib/110130776510114761188/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjW5yoTshH-6RbcDNbwlyIrxcVE73k1L_vnFtt2bCHtZJ56eCYWD=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2024-11-22T19:40:50.268082Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNQNHEyUlNBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNQNHEyUlNBEAE!2m1!1s0x54ae543dfd23c5a9:0x19f7a3719ea4b446
+  - name: >-
+      places/ChIJqcUj_T1UrlQRRrSknnGj9xk/reviews/ChdDSUhNMG9nS0VJQ0FnTURJNE9MT3dRRRAB
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 5
+    text:
+      text: >-
+        Hamid was our server tonight and he was very kind and attentive. I
+        ordered the lemon garlic penne and my husband had the surf and turf. The
+        food and drinks were very good, but Hamid's service was the best part.
+        He was very attentive and kept checking on us to make sure we had
+        everything we needed, but also gave us our privacy and space. Will
+        definitely come back, thanks to him!
+      languageCode: en
+    originalText:
+      text: >-
+        Hamid was our server tonight and he was very kind and attentive. I
+        ordered the lemon garlic penne and my husband had the surf and turf. The
+        food and drinks were very good, but Hamid's service was the best part.
+        He was very attentive and kept checking on us to make sure we had
+        everything we needed, but also gave us our privacy and space. Will
+        definitely come back, thanks to him!
+      languageCode: en
+    authorAttribution:
+      displayName: Selida Ayala
+      uri: https://www.google.com/maps/contrib/108263921415794962760/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjW62mnFHYAl5zw4LJWu3Wm6hEyt1SGkjpm6-r5Y1G0kqtgjbxmo=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-06T06:35:21.660657Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJNE9MT3dRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJNE9MT3dRRRAB!2m1!1s0x54ae543dfd23c5a9:0x19f7a3719ea4b446
+review_summary: >-
+  Customer Feedback Highlights$$$Visitors to this Meridian spot often praise the
+  tasty mix of American dishes and sushi, with many highlighting the fresh
+  flavors and generous portions that leave them feeling satisfied. Folks
+  appreciate the attentive service and lively atmosphere, noting how it enhances
+  everything from casual meetups to special occasions, making it a solid choice
+  for groups or anyone craving a relaxed meal. While some mention the prices as
+  a bit on the higher side, the overall value from the quality ingredients and
+  variety keeps the experience enjoyable and worthwhile. Reviewers frequently
+  recommend trying the seafood options or happy hour specials for a fun,
+  budget-friendly twist. All in all, it's a welcoming place that delivers on
+  flavor and ambiance, perfect for those exploring top-rated dining options
+  nearby.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
+curbside_pickup: true
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
 good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+live_music: false
+menu_for_children: true
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: true
+serves_cocktails: true
+serves_coffee: true
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Sleek chain with a broad New American menu including low-calorie options, plus
+  sushi & cocktails.
 
 ---

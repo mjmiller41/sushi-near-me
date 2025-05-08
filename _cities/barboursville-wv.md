@@ -5,4 +5,5 @@ permalink: /west-virginia/barboursville/
 stateAbbr: WV
 stateName: West Virginia
 cityName: Barboursville
+
 ---

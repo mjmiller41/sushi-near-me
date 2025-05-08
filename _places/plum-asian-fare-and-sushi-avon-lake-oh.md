@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Plum Asian Fare and Sushi"
+title: Plum Asian Fare and Sushi
 permalink: /ohio/avon-lake/plum-asian-fare-and-sushi.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Avon Lake
 seo:
-  name: "Plum Asian Fare and Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.plumasianfaresushi.com/
-description: "Plum Asian Fare and Sushi serves delicious sushi in Avon Lake, Ohio. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJYZgos7GPMIgRN6YVF5DmGhs
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 0
 website: https://www.plumasianfaresushi.com/
+description: >-
+  Discover Plum Asian Fare and Sushi in Avon Lake, OH$$$Nestled in Avon Lake,
+  OH, Plum Asian Fare and Sushi offers a relaxed dining experience with a
+  diverse menu featuring fresh Chinese, Taiwanese, and Japanese dishes,
+  including an array of expertly crafted sushi options. This spot stands out for
+  its welcoming atmosphere and commitment to quality ingredients, making it a
+  go-to choice for anyone craving authentic Asian flavors in a comfortable
+  setting. Accessibility features like wheelchair-friendly parking and seating
+  ensure it's enjoyable for all visitors, while the moderate price range
+  provides great value for flavorful meals. Whether you're in the mood for
+  creative rolls or hearty entrees, this restaurant delivers a satisfying blend
+  of tastes that highlight its dedication to culinary excellence, perfect for
+  those searching for top-rated sushi nearby.
+generative_summary: >-
+  Discover Plum Asian Fare and Sushi in Avon Lake, OH$$$Nestled in Avon Lake,
+  OH, Plum Asian Fare and Sushi offers a relaxed dining experience with a
+  diverse menu featuring fresh Chinese, Taiwanese, and Japanese dishes,
+  including an array of expertly crafted sushi options. This spot stands out for
+  its welcoming atmosphere and commitment to quality ingredients, making it a
+  go-to choice for anyone craving authentic Asian flavors in a comfortable
+  setting. Accessibility features like wheelchair-friendly parking and seating
+  ensure it's enjoyable for all visitors, while the moderate price range
+  provides great value for flavorful meals. Whether you're in the mood for
+  creative rolls or hearty entrees, this restaurant delivers a satisfying blend
+  of tastes that highlight its dedication to culinary excellence, perfect for
+  those searching for top-rated sushi nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJYZgos7GPMIgRN6YVF5DmGhs/reviews/ChdDSUhNMG9nS0VJQ0FnSUR2OW9fT3VRRRAB
@@ -376,6 +401,21 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR2OEltWVRREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR2OEltWVRREAE!2m1!1s0x88308fb1b3289861:0x1b1ae6901715a637
+review_summary: >-
+  What Customers Are Saying About This Asian Gem$$$Folks rave about the
+  delicious sushi and diverse Asian dishes at this spot, with many highlighting
+  the fresh flavors and homemade desserts that make every meal feel special.
+  While most diners appreciate the friendly staff and cool vibe that create a
+  welcoming environment, a few have mentioned occasional inconsistencies with
+  certain entrees, though these seem to be exceptions. Overall, the extensive
+  menu and attentive service keep people coming back for more, offering a solid
+  mix of options for groups or solo visits. If you're looking for a relaxed
+  place to enjoy quality Asian fare, it's clear that the positives far outweigh
+  any minor hiccups, making it a reliable choice for a satisfying dine-in
+  experience. With its strong reputation for freshness and variety, this
+  restaurant continues to impress those exploring the best sushi options in the
+  area.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -408,7 +448,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

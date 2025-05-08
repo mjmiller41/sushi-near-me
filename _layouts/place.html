@@ -4,155 +4,328 @@
 <div class="place-page">
   {%- assign place = page -%}
   {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
-  {%- endif -%}
-  {%- if place.summary -%}
-    <p class="description">{{ place.summary }}</p>
+    <h2 class="page-heading">{{ page.title }}</h2>
   {%- endif -%}
 
-  <div class="price-rating">
-    {%- include star_rating.html rating=place.rating out-of="5" count=place.rating_count size="16px" -%}
-    {%- assign level = site.data.price_level[place.price_level] | default: "" -%}
-    {%- include price_level.html level=level range=place.price_range size="16px" -%}
+  {% comment %} Price and Rating {% endcomment %}
+  <div class="rating-cost">
+    <div class="rating">
+      <h3 class="page-sub-heading">Rating:</h3>
+      {%- assign count = place.rating_count | default: null -%}
+      {%- assign rating = place.rating | default: null -%}
+      {%- include star_rating.html rating=rating out-of="5" count=count size="18px" -%}
+    </div>
+    <div class="cost">
+      {%- assign level = site.data.price_level[place.price_level] | default: null -%}
+      {%- assign range = place.price_range | default: null -%}
+      <h3 class="page-sub-heading">Cost:</h3>
+      {%- include price_level.html level=level range=range size="18px" -%}
+    </div>
   </div>
 
-  <address>
-    {%- if place.neighborhood -%}
-      <span>{{ place.neighborhood }}</span><br>
-    {%- endif -%}
-    {%- if place.street and place.city and place.state and place.zip -%}
-      <span>{{ place.street }}</span><br>
-      <span>{{ place.city }}, {{ place.state }} {{ place.zip }}</span><br>
-    {%- else if place.address -%}
-      {{ place.address }}
-    {%- endif -%}
-    {%- if place.phone -%}
-      <span>
-        <a href="tel:{{- place.phone -}}">{{ place.phone }}</a>
-      </span>
-    {%- endif -%}
-  </address>
-
-  {%- if place.website -%}
-    <div class="website">
-      {%- include icons/globe_icon.svg -%}
-      <span>Website:</span>
-      <a href="{{ place.website | default: "/#" }}">{{ place.website }}</a>
+  {% comment %} Places Self Description {% endcomment %}
+  {%- if place.places_description -%}
+    <div>
+      <blockquote>
+        <p class="description">{{ place.places_description }}</p>
+      </blockquote>
+      <p>
+        <cite>{{ place.name }}</cite>
+      </p>
     </div>
   {%- endif -%}
 
-  <div class="maps-links">
-    {%- include icons/direction_icon.svg -%}
-    {%- assign directions_link = place.google_maps_links.directionsUri | default: "#" -%}
-    <a href="{{ directions_link }}" target="_blank">
-      Directions
-    </a>
-    {%- include icons/location-dot_icon.svg -%}
-    {%- assign maps_link = place.google_maps_links.placeUri | default: "#" -%}
-    <a href="{{ maps_link }}" target="_blank">
-      Map
-    </a>
-  </div>
+  {% comment %} Place Generative Descriptions {% endcomment %}
+  {% assign gen_sum_arr = place.generative_summary | split: "$$$" %}
+  {% assign gen_heading = gen_sum_arr[0] %}
+  {% capture gen_content %}
+    <p class="summary">{{ gen_sum_arr[1] }}</p>
+    <p class="citation">{{ place.generative_disclosure }}</p>
+  {% endcapture %}
+  {%- if place.generative_summary -%}
+    {% include expandable.html heading=gen_heading content=gen_content %}
+  {%- endif -%}
 
-  {%- comment -%} <div class="opening-hours"></div> {%- endcomment -%}
+  {% assign rev_sum_arr = place.review_summary | split: "$$$" %}
+  {% assign rev_heading = rev_sum_arr[0] %}
+  {% capture rev_content %}
+    <p class="summary">{{ rev_sum_arr[1] }}</p>
+    <p class="citation">{{ place.review_disclosure }}</p>
+  {% endcapture %}
+  {%- if place.review_summary -%}
+    {% include expandable.html heading=rev_heading content=rev_content %}
+  {%- endif -%}
 
-  <div class="wheelchair-accessibility">
-    {%- assign accessibility_options = place.accessibility_options -%}
-    {%- include has-options.html options_obj=accessibility_options -%}
-    <h4>{%- include icons/wheelchair_icon.svg -%}Wheelchair Accessiblility</h4>
-    {%- if has_options -%}
-      <div class="options wheelchair-options">
-        {%- for option in accessibility_options -%}
-          {%- assign title = option[0] | replace: "wheelchairAccessible", "" -%}
-          {%- if option[1] == true -%}
-            {%- assign icon = "icons/check_icon.svg" -%}
-          {%- else -%}
-            {%- assign icon = "icons/xmark_icon.svg" -%}
-          {%- endif -%}
-          <span class="option">{{ title }}: {%- include {{ icon }} -%}</span>
-        {%- endfor -%}
+  {% comment %} Address {% endcomment %}
+  {% capture addr_content %} 
+    <address>
+      {%- if place.neighborhood -%}
+        <span>{{ place.neighborhood }}</span><br>
+      {%- endif -%}
+      {%- if place.street and place.city and place.state -%}
+        <span>{{ place.street }}</span><br>
+        <span>{{ place.city }}, {{ place.state }} {{ place.zip }}</span><br>
+      {%- else if place.address -%}
+        <span>{{ place.address }}</span>
+      {%- endif -%}
+      {%- if place.phone -%}
+        <span>
+          <a href="tel:{{- place.phone -}}">{{ place.phone }}</a>
+        </span>
+      {%- endif -%}
+    </address>
+  {% endcapture %}
+  {% capture icon %} 
+    {% include icons/address_icon.svg %}
+  {% endcapture %}
+  {% include expandable.html icon=icon heading='Address & Phone' content=addr_content %}
+
+  {% comment %} Website Link {% endcomment %}
+  {% assign url = place.website | default: "/#" %}
+  {% capture website %}
+    <div class="website">
+      <a href="{{ place.website }}" target="_blank" >{{ place.website }}</a>
       </div>
-    {%- else -%}
-      <div class="options">Unknown</div>
-    {%- endif -%}
+  {% endcapture %}
+  {% capture icon %}
+    {% include icons/globe_icon.svg %}
+  {% endcapture %}
+  {%- if place.website -%}
+    {% include expandable.html icon=icon heading='Website' content=website %}
+  {%- endif -%}
+
+  {% comment %} Map Links {% endcomment %}
+  {% capture maps_content %}
+  <div class="maps">
+    <div class="maps-links">
+      {%- include icons/direction_icon.svg -%}
+      {%- assign directions_link = place.google_maps_links.directionsUri | default: "#" -%}
+      {% if directions_link %}
+        <a href="{{ directions_link }}" target="_blank">
+          Directions
+        </a>
+      {% endif %}
+      {%- include icons/location-dot_icon.svg -%}
+      {%- assign maps_link = place.google_maps_links.placeUri | default: "#" -%}
+      {% if maps_link %}
+        <a href="{{ maps_link }}" target="_blank">
+          Google Maps
+        </a>
+      {% endif %}
+    </div>
+  {% endcapture %}
+  {% capture maps_icon %}
+    {% include icons/map_icon.svg %}
+  {% endcapture %}
+  {% if direction_link or maps_link %}
+    {% include expandable.html icon=maps_icon heading='Maps' content=maps_content %}</div>
+  {% endif %}
+
+{% comment %} Primary Opening Hours {% endcomment %}
+{% assign cur_hours = place.opening_hours.current %}
+{% assign reg_hours = place.opening_hours.regular %}
+{% if cur_hours != nil %}
+  {% assign prhr_hours = cur_hours %}
+  {% assign prhr_heading = 'Current Hours' %}
+{% else %}
+  {% assign prhr_hours = reg_hours %}
+  {% assign prhr_heading = 'Regular Hours' %}
+{% endif %}
+{% capture prhr_content %}
+  <div class="opening-hours">
+    <table>
+      <tbody>
+        {% for text in prhr_hours %}
+          {% assign split_text = text | split: ':' %}
+          {% assign day = split_text[0] %}
+          {% assign time = split_text | slice: 1, 3 | join: ":" %}
+          <tr>
+            <td>{{ day }}</td>
+            <td>{{ time }}</td>
+          </tr>
+        {% endfor %}
+      </tbody>
+    </table>
   </div>
+{% endcapture %}
+{% capture prhr_icon %}
+  {% include icons/hours_icon.svg %}
+{% endcapture %}
+{% if prhr_hours != null %}
+  {% include expandable.html icon=prhr_icon heading=prhr_heading content=prhr_content %}{% endif %}
 
-  <div class="parking-options">
-    {%- assign parking_options = place.parking_options -%}
-    {%- include has-options.html options_obj=parking_options -%}
-    <h4>{%- include icons/parking_icon.svg -%} Parking Options</h4>
-    {%- if has_options -%}
-      <div class="options parking-options">
-        {%- for option in parking_options -%}
-          {%- if option[1] == true -%}
-            {%- assign svg = "icons/check_icon.svg" -%}
-          {%- else -%}
-            {%- assign svg = "icons/xmark_icon.svg" -%}
-          {%- endif -%}
-          {%- assign words = option[0] | split_camel_case -%}
-          <span class="option">{{ words | join: " " | capitalize }}: {%- include {{ svg }} -%}</span>
-        {%- endfor -%}
-      </div>
-    {%- else -%}
-      <div class="options">Unknown</div>
-    {%- endif -%}
+{% comment %} Secondary Opening Hours {% endcomment %}
+{% assign reg_type = place.secondary_opening_hours.regular.type %}
+{% assign cur_type = place.secondary_opening_hours.current.type %}
+{% assign reg_days = place.secondary_opening_hours.regular.weekdayDescriptions %}
+{% assign cur_days = place.secondary_opening_hours.current.weekdayDescriptions %}
+{% if cur_type != null %}
+  {% assign sec_hrs_heading = cur_type %}
+  {% assign sec_hrs_hours = cur_days %}
+{% elsif reg_type %}
+  {% assign sec_hrs_heading = reg_type %}
+  {% assign sec_hrs_hours = reg_days %}
+{% endif %}
+{% capture sec_hrs_content %}
+  <div class="opening-hours">
+    <table>
+      <tbody>
+        {% for text in hours %}
+          {% assign split_text = text | split: ':' %}
+          {% assign day = split_text[0] %}
+          {% assign time = split_text | slice: 1, 3 | join: ":" %}
+          <tr>
+            <td>{{ day }}</td>
+            <td>{{ time }}</td>
+          </tr>
+        {% endfor %}
+      </tbody>
+    </table>
   </div>
+{% endcapture %}
+{% capture sec_hrs_icon %}
+  {% include icons/hours_icon.svg %}
+{% endcapture %}
+{% if sec_hrs_heading != null and sec_hrs_hours != null %}
+  {% include expandable.html icon=sec_hrs_icon heading=sec_hrs_heading content=sec_hrs_content %}
+{% endif %}
 
-  <div class="payment-options">
-    {%- assign payment_options = place.payment_options -%}
-    {%- include has-options.html options_obj=payment_options -%}
-    <h4>{%- include icons/cash-register_icon.svg -%} Payment Options</h4>
-    {%- if has_options -%}
-      <div class="options payment-options">
-        {%- for option in payment_options -%}
-          {%- if option[0] == 'acceptsCashOnly' and option[1] == false -%}
-            {%- continue -%}
-          {%- endif -%}
-          {%- if option[1] == true -%}
-            {%- assign svg = "icons/check_icon.svg" -%}
-          {%- else -%}
-            {%- assign svg = "icons/xmark_icon.svg" -%}
-          {%- endif -%}
-          {%- assign words = option[0] | split_camel_case -%}
-          <span class="option">{{ words | join: " " | capitalize }}: {%- include {{ svg }} -%}</span>
-        {%- endfor -%}
-      </div>
-    {%- else -%}
-      <div class="options">Unknown</div>
-    {%- endif -%}
+{% comment %} Wheelchair Accessability {% endcomment %}
+{%- assign ablty_options = place.accessibility_options -%}
+{% capture ablty_content %}
+  <div class="options wheelchair-options">
+    {%- for option in ablty_options -%}
+      {%- assign chk_title = option[0] | replace: "wheelchairAccessible", "" -%}
+      {%- if option[1] == true -%}
+        {%- assign chk_icon = "icons/check_icon.svg" -%}
+      {%- else -%}
+        {%- assign chk_icon = "icons/xmark_icon.svg" -%}
+      {%- endif -%}
+      <span class="option">{{ chk_title }}: {%- include {{ chk_icon }} -%}</span>
+    {%- endfor -%}
   </div>
+{% endcapture %}
+{% capture ablty_icon %}
+  {%- include icons/wheelchair_icon.svg -%}
+{% endcapture %}
+{% assign ablty_heading='Wheelchair Accessiblility' %}
+{%- include has-options.html options_obj=ablty_options -%}
+{%- if has_options -%}
+  {% include expandable.html icon=ablty_icon heading=ablty_heading content=ablty_content %}
+{%- endif -%}
 
-  <div class="bool-options">
-    {%- assign bool_properties = site.data.bool_properties -%}
-    {%- include has-options.html options_obj=bool_properties -%}
-    <h4>Amenities</h4>
-    {%- if has_options -%}
-      <div class="true-column">
-        {%- for prop in bool_properties -%}
-          {%- assign property = prop[0] -%}
-          {%- unless place[property] == nil -%}
-            {%- if place[property] == true -%}
-              {%- assign svg = property | replace: "_", "-" | append: "_icon.svg" -%}
-              <div class="bool-option true">{%- include icons/{{ svg }} -%}{{ prop[1] }}</div>
-            {%- endif -%}
-          {%- endunless -%}
-        {%- endfor -%}
-      </div>
-      <div class="false-column">
-        {%- for prop in bool_properties -%}
-          {%- assign property = prop[0] -%}
-          {%- unless place[property] == nil -%}
-            {%- if place[property] == false -%}
-              {%- assign svg = property | replace: "_", "-" | append: "_icon.svg" -%}
-              <div class="bool-option false">{%- include icons/{{ svg }} -%}{{ prop[1] }}</div>
-            {%- endif -%}
-          {%- endunless -%}
-        {%- endfor -%}
-      </div>
-    {%- else -%}
-      <div class="bool-option">Unknown</div>
-    {%- endif -%}
+
+{% comment %} Parking Options {% endcomment %}
+{%- assign parking_options = place.parking_options -%}
+{%- include has-options.html options_obj=parking_options -%}
+{% capture pkng_content %}
+  <div class="options parking-options">
+    {%- for option in parking_options -%}
+      {%- if option[1] == true -%}
+        {%- assign svg = "icons/check_icon.svg" -%}
+      {%- else -%}
+        {%- assign svg = "icons/xmark_icon.svg" -%}
+      {%- endif -%}
+      {%- assign words = option[0] | split_camel_case -%}
+      <span class="option">{{ words | join: " " | capitalize }}: {%- include {{ svg }} -%}</span>
+    {%- endfor -%}
   </div>
+{% endcapture %}
+{% capture pkng_icon %}
+  {%- include icons/parking_icon.svg -%}
+{% endcapture %}
+{% assign pkng_heading = 'Parking Options' %}
+{%- if has_options -%}
+  {% include expandable.html icon=pkng_icon heading=pkng_heading content=pkng_content %}
+{%- endif -%}
 
-
+{% comment %} Payment Options {% endcomment %}
+{%- assign payment_options = place.payment_options -%}
+{%- include has-options.html options_obj=payment_options -%}
+{% capture pyop_content %}
+  <div class="options payment-options">
+    {%- for option in payment_options -%}
+      {%- if option[0] == 'acceptsCashOnly' and option[1] == false -%}
+        {%- continue -%}
+      {%- endif -%}
+      {%- if option[1] == true -%}
+        {%- assign svg = "icons/check_icon.svg" -%}
+      {%- else -%}
+        {%- assign svg = "icons/xmark_icon.svg" -%}
+      {%- endif -%}
+      {%- assign words = option[0] | split_camel_case -%}
+      <span class="option">{{ words | join: " " | capitalize }}: {%- include {{ svg }} -%}</span>
+    {%- endfor -%}
+  </div>
 </div>
+{% endcapture %}
+{% capture pyop_icon %}
+  {%- include icons/cash-register_icon.svg -%}
+{% endcapture %}
+{% assign pyop_heading='Payment Options' %}
+{%- if has_options -%}
+  {% include expandable.html icon=pyop_icon heading=pyop_heading content=pyop_content %}
+{%- endif -%}
+
+{% comment %} Amenities {% endcomment %}
+{%- assign bool_props = site.data.bool_properties -%}
+{% capture amty_content %}
+  <div class="amenities">
+    <div class="true-column">
+      {%- for prop in bool_props -%}
+        {%- assign property = prop[0] -%}
+        {%- unless place[property] == nil -%}
+          {%- if place[property] == true -%}
+            {%- assign svg = property | replace: "_", "-" | append: "_icon.svg" -%}
+            <div class="bool-option true">{%- include icons/{{ svg }} -%}{{ prop[1] }}</div>
+          {%- endif -%}
+        {%- endunless -%}
+      {%- endfor -%}
+    </div>
+    <div class="false-column">
+      {%- for prop in bool_props -%}
+        {%- assign property = prop[0] -%}
+        {%- unless place[property] == nil -%}
+          {%- if place[property] == false -%}
+            {%- assign svg = property | replace: "_", "-" | append: "_icon.svg" -%}
+            <div class="bool-option false">{%- include icons/{{ svg }} -%}{{ prop[1] }}</div>
+          {%- endif -%}
+        {%- endunless -%}
+      {%- endfor -%}
+    </div>
+  </div>
+{% endcapture %}
+  {% capture amty_icon %}
+{% endcapture %}
+{%- include has-options.html options_obj=bool_props -%}
+{%- if has-options -%}
+  {% include expandable.html icon=amty_icon heading='Amenities' content=amty_content %}
+{%- endif -%}
+
+{% comment %} Reviews {% endcomment %}
+{% capture rvws_content %}
+  <div class="reviews">
+    <ul>
+      {%- for review in place.reviews -%}
+        {% if review.text.text != null %}
+          <li>
+            <p>
+              <cite>{{ review.authorAttribution.displayName }}</cite>
+              {%- if review.rating -%}
+                {%- include star_rating.html rating=review.rating out-of="5" count=0 size="16px" -%}
+              {%- endif -%}
+            </p>
+            <blockquote>
+              <p>{{ review.text.text }}</p>
+            </blockquote>
+          </li>
+        {% endif %}
+      {%- endfor -%}
+    </ul>
+  </div>
+{% endcapture %}
+  {%- if place.reviews and place.reviews.size > 0 -%}
+    {% include expandable.html icon='' heading='Reviews' content=rvws_content %}
+  {%- endif -%}
+
+<script src="/assets/scripts/place.min.js"></script></div>

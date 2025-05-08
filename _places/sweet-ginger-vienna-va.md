@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sweet Ginger"
+title: Sweet Ginger
 permalink: /virginia/vienna/sweet-ginger.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Vienna
 seo:
-  name: "Sweet Ginger"
-  type: Restaurant
+  type: restaurant
   links: http://www.sweetgingervienna.com/
-description: "Asian-fusion eatery offers sushi, Chinese, Malaysian & Thai dishes in a cozy spot in Danor Plaza. Sweet Ginger serves delicious sushi in Vienna, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJQ-YSDrRLtokR3wmPXybnwHQ
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 0
 website: http://www.sweetgingervienna.com/
+description: >-
+  Discover Sweet Ginger in Vienna, VA$$$Nestled in Vienna, VA, Sweet Ginger
+  stands out as a welcoming Japanese restaurant offering a blend of Asian-fusion
+  flavors that highlight fresh sushi and other delectable dishes in a cozy,
+  informal atmosphere. This spot excels with its diverse menu featuring sushi
+  rolls, dumplings, and flavorful Asian-inspired eats, making it an ideal choice
+  for those seeking authentic tastes without the fuss. Accessibility features
+  like wheelchair-friendly entrances and seating add to the convenience,
+  ensuring everyone can enjoy the experience. With moderate pricing and options
+  for dine-in or takeout, it's perfect for casual meals or group gatherings,
+  appealing to anyone exploring top sushi options nearby. The inviting setting
+  combines comfort with a variety of choices, from Thai curries to Chinese
+  favorites, creating a memorable spot for sushi enthusiasts in the area.
+generative_summary: >-
+  Discover Sweet Ginger in Vienna, VA$$$Nestled in Vienna, VA, Sweet Ginger
+  stands out as a welcoming Japanese restaurant offering a blend of Asian-fusion
+  flavors that highlight fresh sushi and other delectable dishes in a cozy,
+  informal atmosphere. This spot excels with its diverse menu featuring sushi
+  rolls, dumplings, and flavorful Asian-inspired eats, making it an ideal choice
+  for those seeking authentic tastes without the fuss. Accessibility features
+  like wheelchair-friendly entrances and seating add to the convenience,
+  ensuring everyone can enjoy the experience. With moderate pricing and options
+  for dine-in or takeout, it's perfect for casual meals or group gatherings,
+  appealing to anyone exploring top sushi options nearby. The inviting setting
+  combines comfort with a variety of choices, from Thai curries to Chinese
+  favorites, creating a memorable spot for sushi enthusiasts in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJQ-YSDrRLtokR3wmPXybnwHQ/reviews/ChdDSUhNMG9nS0VJQ0FnSUMzbWQ3NDdBRRAB
@@ -392,6 +417,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNIdE4yUE9BEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNIdE4yUE9BEAE!2m1!1s0x89b64bb40e12e643:0x74c0e7265f8f09df
+review_summary: >-
+  What Customers Love About This Spot$$$Visitors often rave about the delicious
+  sushi and fresh appetizers like miso soup and salads, noting how they strike a
+  great balance of flavors without overwhelming the palate. Many appreciate the
+  efficient service and welcoming vibe, which make for a relaxed dining
+  experience that's easy on the wallet yet delivers solid quality. While some
+  mention minor inconsistencies, such as slight variations in seasoning, the
+  overall value and variety keep folks coming back for more. It's frequently
+  praised as a go-to for everyday meals or quick lunches, with highlights on the
+  clean environment and thoughtful packaging for takeout. If you're on the hunt
+  for reliable sushi places nearby, this location offers a consistently
+  enjoyable option that combines tasty dishes with friendly service, making it a
+  solid pick for your next outing.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -424,8 +463,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Asian-fusion eatery offers sushi, Chinese, Malaysian & Thai dishes in a cozy
   spot in Danor Plaza.
 

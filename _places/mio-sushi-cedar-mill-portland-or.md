@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Mio Sushi Cedar Mill"
+title: Mio Sushi Cedar Mill
 permalink: /oregon/portland/mio-sushi-cedar-mill.html
 stateAbbr: OR
 stateName: Oregon
 cityName: Portland
 seo:
-  name: "Mio Sushi Cedar Mill"
-  type: Restaurant
-  links: null
-description: "Mio Sushi Cedar Mill serves delicious sushi in Portland, Oregon. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.miosushi.com/mio-cedarmill
 place_id: ChIJH6ZHiQQJlVQReUJSNIao7bY
 photos:
   - name: >-
@@ -170,8 +168,121 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x549509048947a61f:0xb6eda88634524279!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 16
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 16
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 15
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 2:30 PM, 4:00 – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 2:30 PM, 4:00 – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 2:30 PM, 4:00 – 9:00 PM'
+    - 'Thursday: 11:00 AM – 2:30 PM, 4:00 – 9:00 PM'
+    - 'Friday: 11:00 AM – 2:30 PM, 4:00 – 9:30 PM'
+    - 'Saturday: 12:00 – 3:00 PM, 5:00 – 9:30 PM'
+    - 'Sunday: 4:00 – 9:00 PM'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +290,47 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (503) 746-6060
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.7'
+rating_count: 75
+website: https://www.miosushi.com/mio-cedarmill
+description: >-
+  Explore Mio Sushi in Portland, OR$$$Mio Sushi Cedar Mill in Portland, OR,
+  stands out as a welcoming spot for fresh Japanese cuisine, blending
+  traditional and innovative flavors that appeal to sushi enthusiasts. This
+  casual eatery offers a variety of dishes alongside refreshing beverages like
+  sake and beer, making it a go-to choice for anyone seeking quality dining
+  options in the area. With its accessible features, including
+  wheelchair-friendly parking and seating, it's designed to accommodate all
+  visitors comfortably. The menu highlights creative twists on classic rolls and
+  other Japanese-inspired meals, ensuring a memorable experience for those
+  exploring top-rated sushi spots nearby.
+generative_summary: >-
+  Explore Mio Sushi in Portland, OR$$$Mio Sushi Cedar Mill in Portland, OR,
+  stands out as a welcoming spot for fresh Japanese cuisine, blending
+  traditional and innovative flavors that appeal to sushi enthusiasts. This
+  casual eatery offers a variety of dishes alongside refreshing beverages like
+  sake and beer, making it a go-to choice for anyone seeking quality dining
+  options in the area. With its accessible features, including
+  wheelchair-friendly parking and seating, it's designed to accommodate all
+  visitors comfortably. The menu highlights creative twists on classic rolls and
+  other Japanese-inspired meals, ensuring a memorable experience for those
+  exploring top-rated sushi spots nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Diners on Mio Sushi$$$Folks often rave about the tasty sushi
+  selections here, with standout items like creative rolls and fresh seafood
+  that keep things exciting and flavorful. Many appreciate the solid Japanese
+  dishes beyond sushi, such as hearty udon and vibrant poke salads, which add
+  great variety to the menu. Service tends to be warm and attentive, helping to
+  create a relaxed vibe that enhances the overall meal. While opinions highlight
+  the use of high-quality ingredients that make everything feel fresh and
+  authentic, it's clear this place delivers a reliably enjoyable experience for
+  groups or solo diners looking for a solid meal in a casual setting.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +356,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

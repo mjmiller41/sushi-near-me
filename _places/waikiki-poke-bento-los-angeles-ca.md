@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Waikiki Poke & Bento"
+title: Waikiki Poke & Bento
 permalink: /california/los-angeles/waikiki-poke-bento.html
 stateAbbr: CA
 stateName: California
 cityName: Los Angeles
 seo:
-  name: "Waikiki Poke & Bento"
-  type: Restaurant
+  type: restaurant
   links: https://waikikipokeandbento.com/
-description: "Waikiki Poke & Bento serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJIZUWSzm5woARzaoAjz2vPSU
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c2b9394b169521:0x253daf3d8f00aacd!10e5
 primary_type: American Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:00 PM'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -178,28 +234,170 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:00 PM'
     - 'Saturday: 11:00 AM – 9:00 PM'
     - 'Sunday: 11:30 AM – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 9:00 PM'
-    - 'Saturday: 11:00 AM – 9:00 PM'
-    - 'Sunday: 11:30 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 1
+          hour: 11
+          minute: 0
+        close:
+          day: 1
+          hour: 21
+          minute: 0
+      - open:
+          day: 2
+          hour: 11
+          minute: 0
+        close:
+          day: 2
+          hour: 21
+          minute: 0
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 21
+          minute: 0
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 0
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 21
+          minute: 0
+      - open:
+          day: 6
+          hour: 11
+          minute: 0
+        close:
+          day: 6
+          hour: 21
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 11:00 AM – 9:00 PM'
+      - 'Tuesday: 11:00 AM – 9:00 PM'
+      - 'Wednesday: 11:00 AM – 9:00 PM'
+      - 'Thursday: 11:00 AM – 9:00 PM'
+      - 'Friday: 11:00 AM – 9:00 PM'
+      - 'Saturday: 11:00 AM – 9:00 PM'
+      - 'Sunday: Closed'
+    secondaryHoursType: DELIVERY
+    nextCloseTime: '2025-05-04T04:00:00Z'
+  - openNow: true
+    periods:
+      - open:
+          day: 1
+          hour: 11
+          minute: 0
+        close:
+          day: 1
+          hour: 21
+          minute: 0
+      - open:
+          day: 2
+          hour: 11
+          minute: 0
+        close:
+          day: 2
+          hour: 21
+          minute: 0
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 21
+          minute: 0
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 0
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 21
+          minute: 0
+      - open:
+          day: 6
+          hour: 11
+          minute: 0
+        close:
+          day: 6
+          hour: 21
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 11:00 AM – 9:00 PM'
+      - 'Tuesday: 11:00 AM – 9:00 PM'
+      - 'Wednesday: 11:00 AM – 9:00 PM'
+      - 'Thursday: 11:00 AM – 9:00 PM'
+      - 'Friday: 11:00 AM – 9:00 PM'
+      - 'Saturday: 11:00 AM – 9:00 PM'
+      - 'Sunday: Closed'
+    secondaryHoursType: TAKEOUT
+    nextCloseTime: '2025-05-04T04:00:00Z'
 phone: (323) 935-8826
 price_level: PRICE_LEVEL_INEXPENSIVE
 price_range: $10 &ndash; $20
 rating: '4.1'
-rating_count: 0
+rating_count: 167
 website: https://waikikipokeandbento.com/
+description: >-
+  Explore Waikiki Poke & Bento in Los Angeles, CA$$$Waikiki Poke & Bento in Los
+  Angeles, CA, offers a relaxed dining experience with fresh Hawaiian-style poke
+  bowls and Japanese bento boxes that cater to a variety of tastes, including
+  vegetarian options. This spot stands out for its accessible features like
+  wheelchair-friendly parking and seating, making it easy for everyone to enjoy
+  a casual meal. With convenient hours from 11 AM to 9 PM most days, it's an
+  ideal choice for those seeking quick, flavorful dishes in the heart of Central
+  LA. The menu emphasizes high-quality ingredients in build-your-own bowls,
+  providing a satisfying blend of fresh flavors that appeal to fans of light,
+  healthy eats near you.
+generative_summary: >-
+  Explore Waikiki Poke & Bento in Los Angeles, CA$$$Waikiki Poke & Bento in Los
+  Angeles, CA, offers a relaxed dining experience with fresh Hawaiian-style poke
+  bowls and Japanese bento boxes that cater to a variety of tastes, including
+  vegetarian options. This spot stands out for its accessible features like
+  wheelchair-friendly parking and seating, making it easy for everyone to enjoy
+  a casual meal. With convenient hours from 11 AM to 9 PM most days, it's an
+  ideal choice for those seeking quick, flavorful dishes in the heart of Central
+  LA. The menu emphasizes high-quality ingredients in build-your-own bowls,
+  providing a satisfying blend of fresh flavors that appeal to fans of light,
+  healthy eats near you.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Visitor Feedback on Waikiki Poke & Bento$$$Folks rave about the tasty spicy
+  tuna and teriyaki options at this poke spot, often highlighting how they hit
+  the spot for a fresh and flavorful meal on the go. Many appreciate the easy
+  free parking and comfy dining area, plus the handy third-party delivery that
+  makes it simple to enjoy these dishes without leaving home. While some note
+  that the fish quality can vary, overall it's seen as a solid pick for
+  affordable, satisfying bowls that keep things light and enjoyable. If you're
+  hunting for top-rated Hawaiian-inspired eats in the area, this place delivers
+  a generally positive vibe with quick service and variety to please different
+  tastes.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +423,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

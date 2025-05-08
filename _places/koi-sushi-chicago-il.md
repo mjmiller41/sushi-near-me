@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Koi Sushi"
+title: Koi Sushi
 permalink: /illinois/chicago/koi-sushi.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
 seo:
-  name: "Koi Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.koisushiillinois.com/
-description: "Modern restaurant showcasing creative sushi, appetizers & all-you-can-eat dishes in a breezy space. Koi Sushi serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJzTV8o1rTD4gRlRwypjCllm0
 photos:
   - name: >-
@@ -184,6 +182,33 @@ price_range: $30 &ndash; $50
 rating: '4.5'
 rating_count: 0
 website: https://www.koisushiillinois.com/
+description: >-
+  Discover Koi Sushi in Chicago, IL$$$Koi Sushi in Chicago, IL, stands out as a
+  modern Japanese restaurant offering creative sushi rolls and a variety of
+  fresh dishes in a casual, inviting atmosphere. This spot features an array of
+  appetizers and all-you-can-eat options that highlight high-quality ingredients
+  and thoughtful preparation, making it a go-to for sushi enthusiasts exploring
+  local dining scenes. The breezy space is designed for comfort, with
+  accessibility features like wheelchair-friendly entrances and seating that
+  enhance the overall experience. Additionally, it's ideal for groups or
+  families, with options for beer, wine, and cocktails to complement your meal.
+  Whether you're seeking sushi restaurants in a vibrant neighborhood, Koi Sushi
+  delivers a balanced blend of flavor and affordability that keeps diners coming
+  back.
+generative_summary: >-
+  Discover Koi Sushi in Chicago, IL$$$Koi Sushi in Chicago, IL, stands out as a
+  modern Japanese restaurant offering creative sushi rolls and a variety of
+  fresh dishes in a casual, inviting atmosphere. This spot features an array of
+  appetizers and all-you-can-eat options that highlight high-quality ingredients
+  and thoughtful preparation, making it a go-to for sushi enthusiasts exploring
+  local dining scenes. The breezy space is designed for comfort, with
+  accessibility features like wheelchair-friendly entrances and seating that
+  enhance the overall experience. Additionally, it's ideal for groups or
+  families, with options for beer, wine, and cocktails to complement your meal.
+  Whether you're seeking sushi restaurants in a vibrant neighborhood, Koi Sushi
+  delivers a balanced blend of flavor and affordability that keeps diners coming
+  back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJzTV8o1rTD4gRlRwypjCllm0/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfaXR1WTVnRRAB
@@ -337,6 +362,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURyblBHbTVnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURyblBHbTVnRRAB!2m1!1s0x880fd35aa37c35cd:0x6d96a530a6321c95
+review_summary: >-
+  What Customers Are Saying$$$Folks consistently praise the fresh and diverse
+  sushi selections at this spot, noting how the variety and quality make every
+  bite a highlight of their meal. Many appreciate the great value for the price,
+  with portions that feel just right and flavors that exceed expectations,
+  especially for group outings. While the atmosphere is often described as clean
+  and welcoming, some mention that service can occasionally slow down during
+  peak times, though staff remain friendly overall. It's frequently recommended
+  for casual get-togethers, with diners enjoying the overall satisfaction from
+  their visits. If you're on the hunt for top-rated sushi places nearby, this
+  location often delivers a reliably enjoyable experience that leaves people
+  eager to return.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeStreetParking: true
   paidStreetParking: true
@@ -369,8 +407,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Modern restaurant showcasing creative sushi, appetizers & all-you-can-eat
   dishes in a breezy space.
 

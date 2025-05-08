@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Crazy King Kong Sushi"
+title: Crazy King Kong Sushi
 permalink: /california/thousand-oaks/crazy-king-kong-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Thousand Oaks
 seo:
-  name: "Crazy King Kong Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.facebook.com/crazykingkongsushi
-description: "Crazy King Kong Sushi serves delicious sushi in Thousand Oaks, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ8TfMYbs66IAR--Ur2eDgHjY
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80e83abb61cc37f1:0x361ee0e0d92be5fb!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 30
+      close:
+        day: 0
+        hour: 20
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 9:30 PM'
     - 'Tuesday: 11:30 AM – 9:30 PM'
     - 'Wednesday: 11:30 AM – 9:30 PM'
@@ -178,54 +234,324 @@ opening_hours:
     - 'Friday: 11:30 AM – 9:30 PM'
     - 'Saturday: 11:30 AM – 9:30 PM'
     - 'Sunday: 12:30 – 8:30 PM'
-  current:
-    - 'Monday: 11:30 AM – 9:30 PM'
-    - 'Tuesday: 11:30 AM – 9:30 PM'
-    - 'Wednesday: 11:30 AM – 9:30 PM'
-    - 'Thursday: 11:30 AM – 9:30 PM'
-    - 'Friday: 11:30 AM – 9:30 PM'
-    - 'Saturday: 11:30 AM – 9:30 PM'
-    - 'Sunday: 12:30 – 8:30 PM'
+  nextCloseTime: '2025-05-04T04:30:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: false
+    periods:
+      - open:
+          day: 0
+          hour: 15
+          minute: 0
+        close:
+          day: 0
+          hour: 17
+          minute: 0
+      - open:
+          day: 1
+          hour: 15
+          minute: 0
+        close:
+          day: 1
+          hour: 17
+          minute: 0
+      - open:
+          day: 2
+          hour: 15
+          minute: 0
+        close:
+          day: 2
+          hour: 17
+          minute: 0
+      - open:
+          day: 3
+          hour: 15
+          minute: 0
+        close:
+          day: 3
+          hour: 17
+          minute: 0
+      - open:
+          day: 4
+          hour: 15
+          minute: 0
+        close:
+          day: 4
+          hour: 17
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 3:00 – 5:00 PM'
+      - 'Tuesday: 3:00 – 5:00 PM'
+      - 'Wednesday: 3:00 – 5:00 PM'
+      - 'Thursday: 3:00 – 5:00 PM'
+      - 'Friday: Closed'
+      - 'Saturday: Closed'
+      - 'Sunday: 3:00 – 5:00 PM'
+    secondaryHoursType: HAPPY_HOUR
+    nextOpenTime: '2025-05-04T22:00:00Z'
 phone: (805) 496-7106
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.0'
-rating_count: 0
+rating_count: 360
 website: http://www.facebook.com/crazykingkongsushi
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Crazy King Kong Sushi in Thousand Oaks, CA$$$Crazy King Kong Sushi in
+  Thousand Oaks, CA, stands out as a welcoming spot for fresh Japanese cuisine,
+  featuring a variety of flavorful rolls and appetizers that highlight quality
+  ingredients. The restaurant boasts a clean, modern atmosphere with
+  accessibility features like wheelchair-friendly entrances and seating, making
+  it easy for everyone to enjoy a meal. Diners can savor moderately priced
+  options, including beer and wine, in a setting that's ideal for groups or
+  casual outings, with extended hours for lunch and dinner. Happy hour specials
+  add extra value, appealing to those seeking affordable sushi experiences
+  nearby. Its operational vibe and reliable service make it a go-to choice for
+  anyone exploring top-rated Japanese places in the area.
+generative_summary: >-
+  Discover Crazy King Kong Sushi in Thousand Oaks, CA$$$Crazy King Kong Sushi in
+  Thousand Oaks, CA, stands out as a welcoming spot for fresh Japanese cuisine,
+  featuring a variety of flavorful rolls and appetizers that highlight quality
+  ingredients. The restaurant boasts a clean, modern atmosphere with
+  accessibility features like wheelchair-friendly entrances and seating, making
+  it easy for everyone to enjoy a meal. Diners can savor moderately priced
+  options, including beer and wine, in a setting that's ideal for groups or
+  casual outings, with extended hours for lunch and dinner. Happy hour specials
+  add extra value, appealing to those seeking affordable sushi experiences
+  nearby. Its operational vibe and reliable service make it a go-to choice for
+  anyone exploring top-rated Japanese places in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ8TfMYbs66IAR--Ur2eDgHjY/reviews/ChZDSUhNMG9nS0VJQ0FnSUN2b18zeEZ3EAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        Hi guys! I’ve been coming here since 2022! It’s my favorite sushi place
+        in TO! I’ve ordered delivery, take out and dined in there multiple
+        times. They always have fresh fish and their rolls are pretty big and
+        delicious. It’s a nice place with great atmosphere because the same
+        people serve you every time and you feel so welcome and comfy.
+
+        My favorite rolls are Philadelphia, Washington roll, rainbow roll and
+        baked salmon roll.
+
+        Service is always fast too! They have renovated the entire place so
+        looks very clean and nice too!
+      languageCode: en
+    originalText:
+      text: >-
+        Hi guys! I’ve been coming here since 2022! It’s my favorite sushi place
+        in TO! I’ve ordered delivery, take out and dined in there multiple
+        times. They always have fresh fish and their rolls are pretty big and
+        delicious. It’s a nice place with great atmosphere because the same
+        people serve you every time and you feel so welcome and comfy.
+
+        My favorite rolls are Philadelphia, Washington roll, rainbow roll and
+        baked salmon roll.
+
+        Service is always fast too! They have renovated the entire place so
+        looks very clean and nice too!
+      languageCode: en
+    authorAttribution:
+      displayName: Olesia Tkachenko
+      uri: https://www.google.com/maps/contrib/113610959606432106101/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocI6Pl9w5TzveQShuFwz_oIuGANVPUDsy-q8bQe3LsU_XtpN0Q=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2024-12-14T06:15:52.254113Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN2b18zeEZ3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN2b18zeEZ3EAE!2m1!1s0x80e83abb61cc37f1:0x361ee0e0d92be5fb
+  - name: >-
+      places/ChIJ8TfMYbs66IAR--Ur2eDgHjY/reviews/ChZDSUhNMG9nS0VJQ0FnSUNyaTc3VFV3EAE
+    relativePublishTimeDescription: 9 months ago
+    rating: 5
+    text:
+      text: >-
+        This sushi place exceeded my expectations!
+
+
+        They have amazing prices and the atmosphere is great. We ordered some
+        sushi a la carte which was delicious! And we also got the baked mussels
+        (highly recommend) and a few rolls. The rolls were pretty standard, not
+        much seasoning but still enjoyable. The baked mussels and the sake bombs
+        were most definitely the highlight of the evening though!
+
+
+        It was also a pleasant surprise to see that happy hour is 8pm-close,
+        they have some good deals!
+      languageCode: en
+    originalText:
+      text: >-
+        This sushi place exceeded my expectations!
+
+
+        They have amazing prices and the atmosphere is great. We ordered some
+        sushi a la carte which was delicious! And we also got the baked mussels
+        (highly recommend) and a few rolls. The rolls were pretty standard, not
+        much seasoning but still enjoyable. The baked mussels and the sake bombs
+        were most definitely the highlight of the evening though!
+
+
+        It was also a pleasant surprise to see that happy hour is 8pm-close,
+        they have some good deals!
+      languageCode: en
+    authorAttribution:
+      displayName: Ariel & Tyla
+      uri: https://www.google.com/maps/contrib/117177872424866757473/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjX2F0WXWu4JqhSzh_TzY-FNF8pDJwnghfM-_QmIgweKpFnDmCPm=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2024-07-11T05:09:23.531538Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNyaTc3VFV3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNyaTc3VFV3EAE!2m1!1s0x80e83abb61cc37f1:0x361ee0e0d92be5fb
+  - name: >-
+      places/ChIJ8TfMYbs66IAR--Ur2eDgHjY/reviews/ChdDSUhNMG9nS0VJQ0FnSUNtcVpTXzd3RRAB
+    relativePublishTimeDescription: 3 years ago
+    rating: 5
+    text:
+      text: >-
+        The salmon mango cut roll is one of my favorite sushi rolls ever. Just
+        had to start with this cause it’s probably why you’re looking at
+        reviews. It’s clean with fast service. Staff is attentive and friendly.
+        Restrooms inside the restaurant which is a huge plus. The only down side
+        I had was that the axe throwing place next door triggered me with the
+        low audible sound of constant thuds and shaking. It’s not this places
+        fault but I really did enjoy my experience here!
+      languageCode: en
+    originalText:
+      text: >-
+        The salmon mango cut roll is one of my favorite sushi rolls ever. Just
+        had to start with this cause it’s probably why you’re looking at
+        reviews. It’s clean with fast service. Staff is attentive and friendly.
+        Restrooms inside the restaurant which is a huge plus. The only down side
+        I had was that the axe throwing place next door triggered me with the
+        low audible sound of constant thuds and shaking. It’s not this places
+        fault but I really did enjoy my experience here!
+      languageCode: en
+    authorAttribution:
+      displayName: Mike Mackintosh
+      uri: https://www.google.com/maps/contrib/114992569224973025757/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUl8OYU_LKf3518AFtY5a1etaWCtZDE5dfzGJr2pxG9UQqJwViOmg=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2022-01-02T04:17:04.999045Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNtcVpTXzd3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNtcVpTXzd3RRAB!2m1!1s0x80e83abb61cc37f1:0x361ee0e0d92be5fb
+  - name: >-
+      places/ChIJ8TfMYbs66IAR--Ur2eDgHjY/reviews/ChZDSUhNMG9nS0VJQ0FnSUNmaFAtZGVBEAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        Ellen our server treated us like family like she was our mom. The
+        service was a 10 out of 10 and so was the food. Enjoyed a wonderful
+        Christmas Eve with Family. This is our new sushi place.  Thank you to
+        the chef for all the extra dishes. If you want to enjoy a meal where
+        they make you feel special and at home, look no further!
+      languageCode: en
+    originalText:
+      text: >-
+        Ellen our server treated us like family like she was our mom. The
+        service was a 10 out of 10 and so was the food. Enjoyed a wonderful
+        Christmas Eve with Family. This is our new sushi place.  Thank you to
+        the chef for all the extra dishes. If you want to enjoy a meal where
+        they make you feel special and at home, look no further!
+      languageCode: en
+    authorAttribution:
+      displayName: Mike McDonough
+      uri: https://www.google.com/maps/contrib/108971955749880658073/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocL0gJ23QOo71iGXBGFa0-LKwqjqeKG-hP1a5mdXoiLkaMLeOQ=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-12-26T01:46:42.986568Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNmaFAtZGVBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNmaFAtZGVBEAE!2m1!1s0x80e83abb61cc37f1:0x361ee0e0d92be5fb
+  - name: >-
+      places/ChIJ8TfMYbs66IAR--Ur2eDgHjY/reviews/ChdDSUhNMG9nS0VJQ0FnTURnNTlxSTBnRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 3
+    text:
+      text: >-
+        This place is hit or miss. I usually order to go. Half the time I get
+        the right order and the other half is usually missing something. For
+        example tonight, I received the rolls I ordered but none of the sauces.
+        It’s a deal breaker for me when it’s missing the extra kick from the
+        sauce. Sometimes the staff is polite and will fix your order and other
+        times they just ignore you and tell you that it’s fine and that’s how
+        they “make it now”. However, the next time I go in everything is back to
+        normal. It’s a bummer not knowing what to expect.
+      languageCode: en
+    originalText:
+      text: >-
+        This place is hit or miss. I usually order to go. Half the time I get
+        the right order and the other half is usually missing something. For
+        example tonight, I received the rolls I ordered but none of the sauces.
+        It’s a deal breaker for me when it’s missing the extra kick from the
+        sauce. Sometimes the staff is polite and will fix your order and other
+        times they just ignore you and tell you that it’s fine and that’s how
+        they “make it now”. However, the next time I go in everything is back to
+        normal. It’s a bummer not knowing what to expect.
+      languageCode: en
+    authorAttribution:
+      displayName: Anida Brock
+      uri: https://www.google.com/maps/contrib/109500655437003545699/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUWI6K1xZ6YM0wUyFlbe7APPIJW0BZ1te7vdBNjWWq-txZmaqt6=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-02-28T04:01:11.838196Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURnNTlxSTBnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURnNTlxSTBnRRAB!2m1!1s0x80e83abb61cc37f1:0x361ee0e0d92be5fb
+review_summary: >-
+  What Visitors Are Sharing$$$Visitors often rave about the fresh, generously
+  sized rolls and appetizers that bring a satisfying twist to classic sushi
+  favorites, making it a solid pick for anyone craving reliable Japanese
+  flavors. Many appreciate the friendly service and speedy delivery, whether
+  dining in or grabbing takeout, which adds to the overall enjoyable vibe
+  without any major hiccups. While there are occasional mentions of minor
+  inconsistencies like missing sauces, the positives far outweigh these, with
+  highlights on the welcoming atmosphere and great deals during happy hour.
+  Overall, it's a spot that delivers a consistently good experience, encouraging
+  repeat visits for those hunting for quality sushi options close by. If you're
+  in the mood for something tasty and approachable, this place keeps things
+  upbeat and worth trying out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
 good_for_sports: null
-live_music: null
+live_music: false
 menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
 serves_breakfast: null
-serves_brunch: null
+serves_brunch: false
 serves_cocktails: null
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

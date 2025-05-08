@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Lee's Sushi"
+title: Lee's Sushi
 permalink: /new-jersey/hillsborough-township/lee-s-sushi.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Hillsborough Township
 seo:
-  name: "Lee's Sushi"
-  type: Restaurant
-  links: null
-description: "Lee's Sushi serves delicious sushi in Hillsborough Township, New Jersey. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.leessushi.com/
 place_id: ChIJz_5wDsvrw4kRa20ExY1_jJM
 photos:
   - name: >-
@@ -170,8 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c3ebcb0e70fecf:0x938c7f8dc5046d6b!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:30 AM – 9:00 PM'
+    - 'Tuesday: 11:30 AM – 9:00 PM'
+    - 'Wednesday: 11:30 AM – 9:00 PM'
+    - 'Thursday: 11:30 AM – 9:00 PM'
+    - 'Friday: 11:30 AM – 9:00 PM'
+    - 'Saturday: 11:30 AM – 9:00 PM'
+    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T01:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +234,54 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (908) 829-3140
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.3'
+rating_count: 195
+website: http://www.leessushi.com/
+description: >-
+  Discover Lee's Sushi in Hillsborough Township, NJ$$$Lee's Sushi in
+  Hillsborough Township, NJ, stands out as a welcoming spot for those seeking
+  fresh Japanese-inspired dishes in a relaxed setting. This casual eatery offers
+  a variety of comfort fare, including healthy choices and classic sushi rolls
+  that appeal to both sushi enthusiasts and newcomers alike. With options for
+  vegetarian meals and an emphasis on accessibility features like
+  wheelchair-friendly entrances and seating, it caters to a wide range of diners
+  looking for convenient Japanese places near them. The menu highlights fresh
+  ingredients in their rolls and other offerings, making it a go-to choice for
+  anyone exploring top-rated sushi restaurants in the area. Operating from late
+  morning into the evening most days, it's an ideal stop for a satisfying meal
+  that combines quality and affordability.
+generative_summary: >-
+  Discover Lee's Sushi in Hillsborough Township, NJ$$$Lee's Sushi in
+  Hillsborough Township, NJ, stands out as a welcoming spot for those seeking
+  fresh Japanese-inspired dishes in a relaxed setting. This casual eatery offers
+  a variety of comfort fare, including healthy choices and classic sushi rolls
+  that appeal to both sushi enthusiasts and newcomers alike. With options for
+  vegetarian meals and an emphasis on accessibility features like
+  wheelchair-friendly entrances and seating, it caters to a wide range of diners
+  looking for convenient Japanese places near them. The menu highlights fresh
+  ingredients in their rolls and other offerings, making it a go-to choice for
+  anyone exploring top-rated sushi restaurants in the area. Operating from late
+  morning into the evening most days, it's an ideal stop for a satisfying meal
+  that combines quality and affordability.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Based on the strong 4.3-star rating from numerous
+  visitors, folks generally rave about the fresh flavors and reliable service at
+  this local favorite, making it a solid pick for sushi lovers nearby. Many
+  appreciate the variety of rolls and healthy options that keep things light yet
+  tasty, often noting how it hits the spot for a quick or casual dine-in
+  experience. While some mention occasional waits during peak times, the overall
+  vibe remains positive with praise for the welcoming atmosphere and value for
+  the price. If you're hunting for sushi close to you, feedback suggests this
+  spot delivers on expectations with generous portions and attentive staff that
+  enhance the meal. All in all, it's clear that diners keep coming back for the
+  authentic taste and straightforward appeal, painting a picture of a dependable
+  choice in the community.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +307,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

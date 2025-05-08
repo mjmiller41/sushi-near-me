@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Mirakuya Sushi & Steak House"
+title: Mirakuya Sushi & Steak House
 permalink: /maine/waterville/mirakuya-sushi-steak-house.html
 stateAbbr: ME
 stateName: Maine
 cityName: Waterville
 seo:
-  name: "Mirakuya Sushi & Steak House"
-  type: Restaurant
+  type: restaurant
   links: http://mirakuyawaterville.com/
-description: "Lively Japanese steakhouse featuring hibachi tables, a sushi bar & cocktails amid red walls. Mirakuya Sushi & Steak House serves delicious sushi in Waterville, Maine. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJlbk8dZTksUwROy4K-HM0rz8
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $10 &ndash; $20
 rating: '3.9'
 rating_count: 0
 website: http://mirakuyawaterville.com/
+description: >-
+  Explore Mirakuya Sushi in Waterville, ME$$$Mirakuya Sushi & Steak House in
+  Waterville, ME, offers a lively dining experience centered around fresh
+  Japanese cuisine that highlights flavorful sushi rolls and hibachi-style
+  meals. Nestled in a casual setting with vibrant red walls and a welcoming
+  cocktail bar, this spot is perfect for those seeking authentic Japanese
+  specialties in a relaxed atmosphere. Visitors can enjoy a variety of options,
+  including expertly prepared dishes that cater to sushi enthusiasts looking for
+  quality options nearby. The restaurant also features accessible amenities like
+  wheelchair-friendly seating and parking, making it easy for everyone to savor
+  the bold flavors of hibachi and creative rolls. Whether you're in the mood for
+  a quick bite or a full meal, this establishment stands out as a go-to choice
+  for delicious Japanese fare in the area.
+generative_summary: >-
+  Explore Mirakuya Sushi in Waterville, ME$$$Mirakuya Sushi & Steak House in
+  Waterville, ME, offers a lively dining experience centered around fresh
+  Japanese cuisine that highlights flavorful sushi rolls and hibachi-style
+  meals. Nestled in a casual setting with vibrant red walls and a welcoming
+  cocktail bar, this spot is perfect for those seeking authentic Japanese
+  specialties in a relaxed atmosphere. Visitors can enjoy a variety of options,
+  including expertly prepared dishes that cater to sushi enthusiasts looking for
+  quality options nearby. The restaurant also features accessible amenities like
+  wheelchair-friendly seating and parking, making it easy for everyone to savor
+  the bold flavors of hibachi and creative rolls. Whether you're in the mood for
+  a quick bite or a full meal, this establishment stands out as a go-to choice
+  for delicious Japanese fare in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJlbk8dZTksUwROy4K-HM0rz8/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJemR2ZHdnRRAB
@@ -348,6 +373,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNQOWFHbFlBEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNQOWFHbFlBEAE!2m1!1s0x4cb1e494753cb995:0x3faf3473f80a2e3b
+review_summary: >-
+  Customer Feedback on This Local Sushi Favorite$$$Folks around here often rave
+  about the tasty sushi and hibachi dishes at this spot, noting that the food
+  hits the mark with fresh flavors and generous portions that leave you
+  satisfied. Many appreciate the friendly service and entertaining preparation,
+  especially when it comes to the interactive hibachi experience that adds fun
+  to meals. While some mentions point to occasional slip-ups like slower service
+  or minor order issues, the overall vibe remains upbeat with plenty of positive
+  experiences shared. It's clear that this place is a solid pick for families or
+  groups hunting for reliable Japanese options, as the variety keeps things
+  exciting without breaking the bank. All in all, if you're on the hunt for a
+  welcoming sushi restaurant nearby, this one tends to deliver a memorable time
+  with its flavorful offerings.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -380,8 +419,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Lively Japanese steakhouse featuring hibachi tables, a sushi bar & cocktails
   amid red walls.
 

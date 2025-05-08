@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Bada sushi"
+title: Bada sushi
 permalink: /illinois/niles/bada-sushi.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Niles
 seo:
-  name: "Bada sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.badasushi.com/
-description: "Bada sushi serves delicious sushi in Niles, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ40aPF_jJD4gRlcioLhAzAjc
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $50 &ndash; $100
 rating: '4.1'
 rating_count: 0
 website: https://www.badasushi.com/
+description: >-
+  Discover Bada Sushi in Niles, IL$$$Bada Sushi in Niles, IL, stands out as a
+  welcoming Japanese restaurant offering a casual vibe perfect for enjoying
+  fresh seafood dishes. This spot specializes in high-quality sushi and sashimi,
+  complemented by a selection of beer, sake, and wine, making it an ideal choice
+  for those searching for sushi restaurants near me. The menu highlights a
+  variety of expertly prepared options that emphasize authentic flavors and
+  generous portions, appealing to anyone craving top-rated sushi in a relaxed
+  setting. With thoughtful accessibility features and ample parking, it's
+  designed for comfortable visits, enhancing the overall dining experience.
+  Whether you're exploring Japanese places near me or seeking a straightforward
+  meal, Bada Sushi delivers on freshness and variety that keeps patrons coming
+  back.
+generative_summary: >-
+  Discover Bada Sushi in Niles, IL$$$Bada Sushi in Niles, IL, stands out as a
+  welcoming Japanese restaurant offering a casual vibe perfect for enjoying
+  fresh seafood dishes. This spot specializes in high-quality sushi and sashimi,
+  complemented by a selection of beer, sake, and wine, making it an ideal choice
+  for those searching for sushi restaurants near me. The menu highlights a
+  variety of expertly prepared options that emphasize authentic flavors and
+  generous portions, appealing to anyone craving top-rated sushi in a relaxed
+  setting. With thoughtful accessibility features and ample parking, it's
+  designed for comfortable visits, enhancing the overall dining experience.
+  Whether you're exploring Japanese places near me or seeking a straightforward
+  meal, Bada Sushi delivers on freshness and variety that keeps patrons coming
+  back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ40aPF_jJD4gRlcioLhAzAjc/reviews/ChdDSUhNMG9nS0VJQ0FnSUN2OV9UQ3FBRRAB
@@ -414,6 +439,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN2MjUyQk53EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN2MjUyQk53EAE!2m1!1s0x880fc9f8178f46e3:0x370233102ea8c895
+review_summary: >-
+  Customer Feedback on Bada Sushi$$$Folks often rave about the fresh and
+  flavorful sushi at this spot, highlighting the impressive quality and variety
+  in their meals that make it a go-to for sushi enthusiasts. Many appreciate the
+  attentive service and creative presentations that add a fun twist to the
+  dining experience, even if some mention occasional waits for food. While a few
+  comments point to minor issues like slower service during busy times, the
+  overall consensus leans toward it being a solid pick for anyone hunting for
+  best sushi near me. It's clear that the generous portions and tasty seafood
+  options leave most visitors satisfied and eager to return, creating a
+  generally upbeat atmosphere. All in all, if you're in the mood for reliable
+  Japanese-inspired eats, this place tends to deliver a worthwhile experience
+  with its standout dishes.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -445,7 +484,7 @@ serves_lunch: true
 serves_vegetarian_food: false
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

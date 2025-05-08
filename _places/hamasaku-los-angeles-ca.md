@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Hamasaku"
+title: Hamasaku
 permalink: /california/los-angeles/hamasaku.html
 stateAbbr: CA
 stateName: California
 cityName: Los Angeles
 seo:
-  name: "Hamasaku"
-  type: Restaurant
+  type: restaurant
   links: http://www.hamasakula.com/
-description: "Hamasaku serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJQ6G-cHe7woARm0tCODdUL6U
 photos:
   - name: >-
@@ -169,7 +167,97 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c2bb7770bea143:0xa52f543738424b9b!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 17
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 17
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 12
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 12
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 12
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 12
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 5:30 – 9:30 PM'
     - 'Tuesday: 12:00 – 2:00 PM, 5:30 – 9:30 PM'
     - 'Wednesday: 12:00 – 2:00 PM, 5:30 – 9:30 PM'
@@ -177,14 +265,7 @@ opening_hours:
     - 'Friday: 12:00 – 2:00 PM, 5:30 – 10:00 PM'
     - 'Saturday: 5:30 – 10:00 PM'
     - 'Sunday: 5:30 – 9:30 PM'
-  current:
-    - 'Monday: 5:30 – 9:30 PM'
-    - 'Tuesday: 12:00 – 2:00 PM, 5:30 – 9:30 PM'
-    - 'Wednesday: 12:00 – 2:00 PM, 5:30 – 9:30 PM'
-    - 'Thursday: 12:00 – 2:00 PM, 5:30 – 9:30 PM'
-    - 'Friday: 12:00 – 2:00 PM, 5:30 – 10:00 PM'
-    - 'Saturday: 5:30 – 10:00 PM'
-    - 'Sunday: 5:30 – 9:30 PM'
+  nextOpenTime: '2025-05-04T00:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,35 +277,321 @@ phone: (310) 479-7636
 price_level: PRICE_LEVEL_EXPENSIVE
 price_range: $50 &ndash; $100
 rating: '4.5'
-rating_count: 0
+rating_count: 384
 website: http://www.hamasakula.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Explore Hamasaku in Los Angeles$$$Hamasaku in Los Angeles, CA, stands out as a
+  premier sushi spot known for its upscale ambiance and creative twists on
+  traditional Japanese cuisine. This inviting restaurant features innovative
+  dishes and tasting menus that highlight fresh seafood and flavorful pairings,
+  making it a go-to choice for those seeking top-rated sushi experiences in the
+  area. With accessibility options like wheelchair-friendly seating and parking,
+  it caters to a wide range of diners looking for a seamless visit. The
+  establishment also boasts an extensive selection of sake to complement meals,
+  enhancing the overall dining adventure. Whether you're exploring sushi
+  restaurants near me or craving authentic Japanese flavors, Hamasaku delivers a
+  refined yet approachable atmosphere that elevates every meal.
+generative_summary: >-
+  Explore Hamasaku in Los Angeles$$$Hamasaku in Los Angeles, CA, stands out as a
+  premier sushi spot known for its upscale ambiance and creative twists on
+  traditional Japanese cuisine. This inviting restaurant features innovative
+  dishes and tasting menus that highlight fresh seafood and flavorful pairings,
+  making it a go-to choice for those seeking top-rated sushi experiences in the
+  area. With accessibility options like wheelchair-friendly seating and parking,
+  it caters to a wide range of diners looking for a seamless visit. The
+  establishment also boasts an extensive selection of sake to complement meals,
+  enhancing the overall dining adventure. Whether you're exploring sushi
+  restaurants near me or craving authentic Japanese flavors, Hamasaku delivers a
+  refined yet approachable atmosphere that elevates every meal.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJQ6G-cHe7woARm0tCODdUL6U/reviews/ChZDSUhNMG9nS0VJQ0FnSUN4aDdUbktREAE
+    relativePublishTimeDescription: 5 months ago
+    rating: 4
+    text:
+      text: >-
+        If you are a sushi or sushi roll lover, this is the place to go and
+        enjoy some delicious sushi or some delicious rolls. If you are in this
+        area, you really cannot miss the morning menu. It has very good
+        Japanese-style combos for a very good price. And if you like, in the
+        afternoon you can enjoy an omakase. The prices are very affordable,
+        compared to other places. This place is really better. Well, for me,
+        after all, sushi is just sushi.
+      languageCode: en
+    originalText:
+      text: >-
+        If you are a sushi or sushi roll lover, this is the place to go and
+        enjoy some delicious sushi or some delicious rolls. If you are in this
+        area, you really cannot miss the morning menu. It has very good
+        Japanese-style combos for a very good price. And if you like, in the
+        afternoon you can enjoy an omakase. The prices are very affordable,
+        compared to other places. This place is really better. Well, for me,
+        after all, sushi is just sushi.
+      languageCode: en
+    authorAttribution:
+      displayName: chef Jesus (Achefstale)
+      uri: https://www.google.com/maps/contrib/108823066034518170371/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVNErzvHxfR7Dc-YOGZBJfrG2Rp8klo3A90e3HetIEFgG4WKmj3zw=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-11-21T10:35:27.264778Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN4aDdUbktREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN4aDdUbktREAE!2m1!1s0x80c2bb7770bea143:0xa52f543738424b9b
+  - name: >-
+      places/ChIJQ6G-cHe7woARm0tCODdUL6U/reviews/ChZDSUhNMG9nS0VJQ0FnSUNIczduTlpREAE
+    relativePublishTimeDescription: 7 months ago
+    rating: 4
+    text:
+      text: >-
+        Hamasaku offers solid non-traditional Sushi in Westwood.
+
+
+        There are plenty of sushi restaurants in the area but Hamasaku
+        definitiley offers a good balance of price and and quality. You can find
+        better at a higher price and lesser at a lower price but not much at
+        this mid range in this neighborhood so it makes it a great choice when
+        you want something nice but not necessarily something extravagant or a
+        multi hour omakase.
+
+
+        The nigiri and sashimi are definitley great quality and well prepared
+        (the snow trout was a personal favorite). Many dishes like the tacos,
+        tostadas and soba salad are of course very non traditional but are well
+        executed and offer a creative take. The sake menu is surprisingly
+        expansive with more options than often seen at higher end Japanese
+        restaurants so its on opportunity to sample.
+
+
+        Service is fast efficient and attentive without being overbearing or
+        making you feel rushed.
+
+
+        Parking is available with valet out front.
+      languageCode: en
+    originalText:
+      text: >-
+        Hamasaku offers solid non-traditional Sushi in Westwood.
+
+
+        There are plenty of sushi restaurants in the area but Hamasaku
+        definitiley offers a good balance of price and and quality. You can find
+        better at a higher price and lesser at a lower price but not much at
+        this mid range in this neighborhood so it makes it a great choice when
+        you want something nice but not necessarily something extravagant or a
+        multi hour omakase.
+
+
+        The nigiri and sashimi are definitley great quality and well prepared
+        (the snow trout was a personal favorite). Many dishes like the tacos,
+        tostadas and soba salad are of course very non traditional but are well
+        executed and offer a creative take. The sake menu is surprisingly
+        expansive with more options than often seen at higher end Japanese
+        restaurants so its on opportunity to sample.
+
+
+        Service is fast efficient and attentive without being overbearing or
+        making you feel rushed.
+
+
+        Parking is available with valet out front.
+      languageCode: en
+    authorAttribution:
+      displayName: Jeff Streit
+      uri: https://www.google.com/maps/contrib/106886526972856361301/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWwJI9ZkiudK6CvwgcymYXwR9d7lx7Bzb1bUi4Jqd81jLkcQSL7Cg=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-09-08T16:27:28.064528Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNIczduTlpREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNIczduTlpREAE!2m1!1s0x80c2bb7770bea143:0xa52f543738424b9b
+  - name: >-
+      places/ChIJQ6G-cHe7woARm0tCODdUL6U/reviews/ChZDSUhNMG9nS0VJQ0FnSURqMVA3T1BnEAE
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 5
+    text:
+      text: >-
+        I've been dying to try this place since the pandemic. Finally.  Did it
+        meet my expectations?  Mostly.
+
+
+        HIDDEN. Because the restaurant is located in the downstairs corner unit,
+        its somewhat hidden. But I gave 4.5 stars for the nice modern Japanese
+        decor and atmosphere.
+
+
+        FOOD. Dinner omakase $130. Hmm, I thought the food was really good, but
+        nothing that really shouted "Wow!" But for the Westside, it's about
+        right.  The pieces of fish were small, but at least the rice for the
+        nigiri was still warm (nice.) But the competition for quality and value
+        is tough out here in WestLA/Santa Monica.
+
+
+        The omakase ended with a nice yuzu sorbet. Perfect ending.
+
+
+        Sake: they sell a variety of sake by the glass or by a carafe (iced.) I
+        trust they are serving me the right cold sake that I ordered. The
+        serving size was smaller than I expected.
+      languageCode: en
+    originalText:
+      text: >-
+        I've been dying to try this place since the pandemic. Finally.  Did it
+        meet my expectations?  Mostly.
+
+
+        HIDDEN. Because the restaurant is located in the downstairs corner unit,
+        its somewhat hidden. But I gave 4.5 stars for the nice modern Japanese
+        decor and atmosphere.
+
+
+        FOOD. Dinner omakase $130. Hmm, I thought the food was really good, but
+        nothing that really shouted "Wow!" But for the Westside, it's about
+        right.  The pieces of fish were small, but at least the rice for the
+        nigiri was still warm (nice.) But the competition for quality and value
+        is tough out here in WestLA/Santa Monica.
+
+
+        The omakase ended with a nice yuzu sorbet. Perfect ending.
+
+
+        Sake: they sell a variety of sake by the glass or by a carafe (iced.) I
+        trust they are serving me the right cold sake that I ordered. The
+        serving size was smaller than I expected.
+      languageCode: en
+    authorAttribution:
+      displayName: Henry Ting
+      uri: https://www.google.com/maps/contrib/110374829790680923552/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjW-JKOHENtGRUDH1-rxWnvv9BTSxmYQ11qzSL-p8Vr9oJCUzjVJjA=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-04-08T06:05:36.262023Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURqMVA3T1BnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURqMVA3T1BnEAE!2m1!1s0x80c2bb7770bea143:0xa52f543738424b9b
+  - name: >-
+      places/ChIJQ6G-cHe7woARm0tCODdUL6U/reviews/ChZDSUhNMG9nS0VJQ0FnSUNwLWJyRWZBEAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        Very nice high quality sushi place with a friendly bustling atmosphere,
+        very home like yet elegant. Best dish by far was the avenue of stars
+        roll. Every bite you take of that roll you can tell it’s really high
+        quality. Ricky castle roll and September flower are also pretty good but
+        I would say they are not worth the price. Black cod tastes really good
+        and tender but is also not worth the price with the tiny quantity of
+        fish you get. Yellowtail collar is cheaper but the fish texture is
+        definitely worse than the black cod, with some areas of the meat being
+        pretty tough. The wagyu roll is pretty good and very creative! Overall,
+        a pretty creative and high quality sushi place.
+      languageCode: en
+    originalText:
+      text: >-
+        Very nice high quality sushi place with a friendly bustling atmosphere,
+        very home like yet elegant. Best dish by far was the avenue of stars
+        roll. Every bite you take of that roll you can tell it’s really high
+        quality. Ricky castle roll and September flower are also pretty good but
+        I would say they are not worth the price. Black cod tastes really good
+        and tender but is also not worth the price with the tiny quantity of
+        fish you get. Yellowtail collar is cheaper but the fish texture is
+        definitely worse than the black cod, with some areas of the meat being
+        pretty tough. The wagyu roll is pretty good and very creative! Overall,
+        a pretty creative and high quality sushi place.
+      languageCode: en
+    authorAttribution:
+      displayName: Emily Liu
+      uri: https://www.google.com/maps/contrib/115859703620914870390/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUPUrN13kA929gEn3bWnb48XfeaZXyYQDNBqFdFZFh9ufyCsQUC=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2023-08-06T22:38:27.949102Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNwLWJyRWZBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNwLWJyRWZBEAE!2m1!1s0x80c2bb7770bea143:0xa52f543738424b9b
+  - name: >-
+      places/ChIJQ6G-cHe7woARm0tCODdUL6U/reviews/ChZDSUhNMG9nS0VJQ0FnSURSNWJXbVF3EAE
+    relativePublishTimeDescription: 2 years ago
+    rating: 5
+    text:
+      text: >-
+        Didn’t know this is a Michelin guide restaurant and was impressed with
+        the creativity and quality of the rolls! Every roll we tried was great.
+        Would highly recommend Avenue of Stars if it’s on the menu. Besides the
+        different types of fish inside and outside of the roll, it even has
+        different toppings on each of the 8 pieces. The mushroom and the peppers
+        were mediocre.
+      languageCode: en
+    originalText:
+      text: >-
+        Didn’t know this is a Michelin guide restaurant and was impressed with
+        the creativity and quality of the rolls! Every roll we tried was great.
+        Would highly recommend Avenue of Stars if it’s on the menu. Besides the
+        different types of fish inside and outside of the roll, it even has
+        different toppings on each of the 8 pieces. The mushroom and the peppers
+        were mediocre.
+      languageCode: en
+    authorAttribution:
+      displayName: Yi Zhang
+      uri: https://www.google.com/maps/contrib/100304617437952411562/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXCpuAdfRZF6dMIhhVcQPgAFx_qjyhVMyvJPVypeo-vZeS0ayJ0=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2023-04-30T05:06:42.130369Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURSNWJXbVF3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURSNWJXbVF3EAE!2m1!1s0x80c2bb7770bea143:0xa52f543738424b9b
+review_summary: >-
+  Customer Feedback on Hamasaku$$$Folks often rave about the fresh and creative
+  sushi rolls at this Westwood gem, noting how they strike a great balance of
+  quality and taste without breaking the bank. Many appreciate the variety in
+  the menu, including standout dishes that offer fun, non-traditional takes
+  while still delivering solid flavors that keep diners coming back. Service
+  tends to be efficient and attentive, creating a welcoming vibe that makes
+  evenings out feel relaxed and enjoyable, even if portions might feel a bit
+  modest for the price. Overall, the expansive sake options and high-quality
+  ingredients earn high marks, positioning it as one of the best sushi places
+  near me for a satisfying meal. While some mention that certain items could
+  offer more value, the general consensus leans positive, making it a solid pick
+  for anyone hunting for top-rated sushi in a casual setting.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  paidParkingLot: true
+  freeStreetParking: true
+  valetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
+delivery: true
+dine_in: true
+good_for_children: false
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
 outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Innovative small plates & sushi rolls named for celebrities are served in a
+  serene dining room.
 
 ---

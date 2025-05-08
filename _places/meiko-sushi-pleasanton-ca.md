@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Meiko Sushi"
+title: Meiko Sushi
 permalink: /california/pleasanton/meiko-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Pleasanton
 seo:
-  name: "Meiko Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://meikosushi.com/
-description: "Meiko Sushi serves delicious sushi in Pleasanton, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ9fWmJAzpj4ARP30cNUBpaO4
 photos:
   - name: >-
@@ -170,7 +168,121 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x808fe90c24a6f5f5:0xee686940351c7d3f!10e5
 primary_type: Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 14
+        minute: 30
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 14
+        minute: 30
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 2:30 PM, 5:00 – 9:30 PM'
     - 'Tuesday: 11:00 AM – 2:30 PM, 5:00 – 9:30 PM'
     - 'Wednesday: 11:00 AM – 2:30 PM, 5:00 – 9:30 PM'
@@ -178,14 +290,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 2:30 PM, 5:00 – 9:30 PM'
     - 'Saturday: 11:00 AM – 2:30 PM, 5:00 – 9:30 PM'
     - 'Sunday: 11:00 AM – 2:30 PM, 5:00 – 9:30 PM'
-  current:
-    - 'Monday: 11:00 AM – 2:30 PM, 5:00 – 9:30 PM'
-    - 'Tuesday: 11:00 AM – 2:30 PM, 5:00 – 9:30 PM'
-    - 'Wednesday: 11:00 AM – 2:30 PM, 5:00 – 9:30 PM'
-    - 'Thursday: 11:00 AM – 2:30 PM, 5:00 – 9:30 PM'
-    - 'Friday: 11:00 AM – 2:30 PM, 5:00 – 9:30 PM'
-    - 'Saturday: 11:00 AM – 2:30 PM, 5:00 – 9:30 PM'
-    - 'Sunday: 11:00 AM – 2:30 PM, 5:00 – 9:30 PM'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +302,232 @@ phone: (925) 462-3321
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.3'
-rating_count: 0
+rating_count: 386
 website: https://meikosushi.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  About Meiko Sushi in Pleasanton, CA$$$Meiko Sushi in Pleasanton, CA, offers a
+  relaxed and welcoming atmosphere for enjoying authentic Japanese flavors,
+  making it a go-to spot for fresh sushi and traditional dishes in the area. The
+  restaurant features a variety of expertly crafted sushi rolls, sashimi, and
+  hot entrees like bento boxes, paired with a selection of cocktails that
+  enhance the dining experience. With its accessible entrance and seating
+  options, it's designed to accommodate everyone looking for a comfortable meal.
+  Additionally, the spot provides ample parking and serves as an ideal choice
+  for those searching for quality Japanese cuisine nearby. Whether you're in the
+  mood for a quick lunch or an evening out, this sushi destination delivers a
+  blend of simplicity and taste that keeps locals coming back.
+generative_summary: >-
+  About Meiko Sushi in Pleasanton, CA$$$Meiko Sushi in Pleasanton, CA, offers a
+  relaxed and welcoming atmosphere for enjoying authentic Japanese flavors,
+  making it a go-to spot for fresh sushi and traditional dishes in the area. The
+  restaurant features a variety of expertly crafted sushi rolls, sashimi, and
+  hot entrees like bento boxes, paired with a selection of cocktails that
+  enhance the dining experience. With its accessible entrance and seating
+  options, it's designed to accommodate everyone looking for a comfortable meal.
+  Additionally, the spot provides ample parking and serves as an ideal choice
+  for those searching for quality Japanese cuisine nearby. Whether you're in the
+  mood for a quick lunch or an evening out, this sushi destination delivers a
+  blend of simplicity and taste that keeps locals coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ9fWmJAzpj4ARP30cNUBpaO4/reviews/ChdDSUhNMG9nS0VJQ0FnSUNRM1BqWC1BRRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 4
+    text:
+      text: >-
+        Good food great service. My wife and I went in on a Wednesday night for
+        dinners. No waiting, got our tables right away and we had two rolls and
+        hamachi with rice. I think is one won our best hamachi in town.
+      languageCode: en
+    originalText:
+      text: >-
+        Good food great service. My wife and I went in on a Wednesday night for
+        dinners. No waiting, got our tables right away and we had two rolls and
+        hamachi with rice. I think is one won our best hamachi in town.
+      languageCode: en
+    authorAttribution:
+      displayName: Chris Sirinop
+      uri: https://www.google.com/maps/contrib/115463257218418932007/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWDdYBcz6fbO7chHh4DViQpsLIpTKEBdWd1TbYhd5A7c1AWS-qcHQ=s128-c0x00000000-cc-rp-mo-ba7
+    publishTime: '2025-01-17T18:02:38.070428Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNRM1BqWC1BRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNRM1BqWC1BRRAB!2m1!1s0x808fe90c24a6f5f5:0xee686940351c7d3f
+  - name: >-
+      places/ChIJ9fWmJAzpj4ARP30cNUBpaO4/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3ejVTMFNREAE
+    relativePublishTimeDescription: a month ago
+    rating: 3
+    text:
+      text: >-
+        Meiko is usually a good sushi spot. I have tried ordering the Snow roll
+        a few times and it doesnt come as advertised. Online it says it has
+        Albacore on the outside but every time I order they dont make it with
+        Albacore on the outside. Ive even sent it back and they still returned
+        without Albacore on the outside. I tried again and they brought it back
+        again with more toppings but no Albacore. They really need to change the
+        description of the snow roll, it is false advertising. Their other rolls
+        are great, which is why it is very disappointing that I cant get this
+        roll make as advertised.
+
+
+        Also the spider roll had imitation crab, not soft shell crab. I dont
+        think we will be returning...
+      languageCode: en
+    originalText:
+      text: >-
+        Meiko is usually a good sushi spot. I have tried ordering the Snow roll
+        a few times and it doesnt come as advertised. Online it says it has
+        Albacore on the outside but every time I order they dont make it with
+        Albacore on the outside. Ive even sent it back and they still returned
+        without Albacore on the outside. I tried again and they brought it back
+        again with more toppings but no Albacore. They really need to change the
+        description of the snow roll, it is false advertising. Their other rolls
+        are great, which is why it is very disappointing that I cant get this
+        roll make as advertised.
+
+
+        Also the spider roll had imitation crab, not soft shell crab. I dont
+        think we will be returning...
+      languageCode: en
+    authorAttribution:
+      displayName: Andy Schmidl
+      uri: https://www.google.com/maps/contrib/116937475536486547252/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJBKJifgpjb7xJY1VH_8YcjCIlfndmW6PGjEY6NLv3pXohFxw=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-03-22T03:23:41.453710Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUN3ejVTMFNREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUN3ejVTMFNREAE!2m1!1s0x808fe90c24a6f5f5:0xee686940351c7d3f
+  - name: >-
+      places/ChIJ9fWmJAzpj4ARP30cNUBpaO4/reviews/ChZDSUhNMG9nS0VJQ0FnSUN2bjZMT1B3EAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 3
+    text:
+      text: Reasonable food. Lot of variety. Reasonably priced. Funky decor.
+      languageCode: en
+    originalText:
+      text: Reasonable food. Lot of variety. Reasonably priced. Funky decor.
+      languageCode: en
+    authorAttribution:
+      displayName: Rhishi Pethe
+      uri: https://www.google.com/maps/contrib/114546730704051009033/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXnmuJ2Ll3duQQGM1RRH8Xrk9lB2gGv4KJaeLHEBCv7xTsIpiFu=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-12-16T05:16:59.487683Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN2bjZMT1B3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN2bjZMT1B3EAE!2m1!1s0x808fe90c24a6f5f5:0xee686940351c7d3f
+  - name: >-
+      places/ChIJ9fWmJAzpj4ARP30cNUBpaO4/reviews/ChdDSUhNMG9nS0VJQ0FnSUNMNkwzbDVnRRAB
+    relativePublishTimeDescription: 10 months ago
+    rating: 5
+    text:
+      text: >-
+        Always solid! Sashimi is where it is at! Service is slow but not a deal
+        breaker. Prices are extremely reasonable. It’s definitely a spot I visit
+        when I’m in town consistently.
+      languageCode: en
+    originalText:
+      text: >-
+        Always solid! Sashimi is where it is at! Service is slow but not a deal
+        breaker. Prices are extremely reasonable. It’s definitely a spot I visit
+        when I’m in town consistently.
+      languageCode: en
+    authorAttribution:
+      displayName: Donnie M (donnie_be_dabbn)
+      uri: https://www.google.com/maps/contrib/110457781191544160997/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVvwSYoO2HeBUKuLr8wopQWNgwPnBiHwXnqQHqfyRMJkXr3VSR9=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-06-14T16:38:29.223831Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNMNkwzbDVnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNMNkwzbDVnRRAB!2m1!1s0x808fe90c24a6f5f5:0xee686940351c7d3f
+  - name: >-
+      places/ChIJ9fWmJAzpj4ARP30cNUBpaO4/reviews/ChdDSUhNMG9nS0VJQ0FnTURJbkk3WTNnRRAB
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 2
+    text:
+      text: >-
+        At first, everything looked really nice and delicious, but upon eating,
+        it was clear that the food was not great. The sashimi was not fresh and
+        the night after eating at the restaurant for both lunch and dinner we
+        had really upset stomachs with lots of vomiting and diarrhea. The
+        waitresses were kind, but the food took forever to arrive, and even just
+        the water took like 15 minutes.
+      languageCode: en
+    originalText:
+      text: >-
+        At first, everything looked really nice and delicious, but upon eating,
+        it was clear that the food was not great. The sashimi was not fresh and
+        the night after eating at the restaurant for both lunch and dinner we
+        had really upset stomachs with lots of vomiting and diarrhea. The
+        waitresses were kind, but the food took forever to arrive, and even just
+        the water took like 15 minutes.
+      languageCode: en
+    authorAttribution:
+      displayName: Tianqiang Liu
+      uri: https://www.google.com/maps/contrib/116382690613170237703/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjW3thuLK8dsJU0-4IDtV8eL4hMmAkX5bU_4-dY6jYzrOzNKb_bocA=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-04-08T03:03:13.496631Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJbkk3WTNnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJbkk3WTNnRRAB!2m1!1s0x808fe90c24a6f5f5:0xee686940351c7d3f
+review_summary: >-
+  Summary of Customer Experiences$$$Visitors to this sushi spot often praise the
+  fresh flavors and wide range of options, highlighting solid dishes like
+  sashimi and rolls that make for a satisfying meal. While some folks mention
+  minor hiccups with certain items not matching expectations, the overall vibe
+  remains enjoyable with reasonable prices and friendly service that adds to the
+  appeal. Many appreciate the variety and affordability, turning it into a
+  reliable pick for casual dinners or group outings in the neighborhood. Despite
+  a few comments about wait times, the general feedback leans positive,
+  suggesting it's worth trying for anyone craving top-notch Japanese fare close
+  by. All in all, it's a solid choice that delivers good value and tasty bites,
+  encouraging repeat visits for sushi enthusiasts.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
+curbside_pickup: false
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
 good_for_sports: null
-live_music: null
+live_music: false
 menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Relaxed, traditional Japanese restaurant with a sushi bar, hot entrees, bento
+  boxes & cocktails.
 
 ---

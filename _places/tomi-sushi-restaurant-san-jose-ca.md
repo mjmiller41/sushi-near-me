@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Tomi Sushi Restaurant"
+title: Tomi Sushi Restaurant
 permalink: /california/san-jose/tomi-sushi-restaurant.html
 stateAbbr: CA
 stateName: California
 cityName: San Jose
 seo:
-  name: "Tomi Sushi Restaurant"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Tomi Sushi Restaurant serves delicious sushi in San Jose, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJx1-L_5bKj4AR3MAV51XYn2U
 photos:
   - name: >-
@@ -185,7 +183,38 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Tomi Sushi in San Jose$$$Tomi Sushi Restaurant in San Jose, CA,
+  provides a welcoming spot for enjoying fresh Japanese cuisine in a laid-back
+  setting. Nestled within a bustling shopping center, this sushi destination
+  features a diverse selection of traditional rolls, flavorful entrees, and
+  refreshing beer options that cater to various tastes. The restaurant
+  emphasizes accessibility with features like easy parking and inclusive
+  entryways, making it a convenient choice for everyone. Its focus on quality
+  ingredients and simple ambiance creates an ideal environment for casual meals
+  or quick bites after shopping.
+generative_summary: >-
+  Discover Tomi Sushi in San Jose$$$Tomi Sushi Restaurant in San Jose, CA,
+  provides a welcoming spot for enjoying fresh Japanese cuisine in a laid-back
+  setting. Nestled within a bustling shopping center, this sushi destination
+  features a diverse selection of traditional rolls, flavorful entrees, and
+  refreshing beer options that cater to various tastes. The restaurant
+  emphasizes accessibility with features like easy parking and inclusive
+  entryways, making it a convenient choice for everyone. Its focus on quality
+  ingredients and simple ambiance creates an ideal environment for casual meals
+  or quick bites after shopping.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Folks exploring sushi spots around San Jose often
+  highlight the tasty variety of rolls and entrees that keep things fresh and
+  satisfying. Many appreciate the relaxed vibe and solid portions that make it a
+  go-to for everyday dining or group outings. While some note that service can
+  vary depending on the time of day, the overall experience tends to leave
+  people feeling pleased with the value. Diners frequently mention the authentic
+  flavors and beer pairings as standout elements that enhance the meal. All in
+  all, it's a solid pick for anyone craving reliable Japanese fare in the area.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +240,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

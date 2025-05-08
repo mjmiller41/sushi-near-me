@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "MOMO Sushi"
+title: MOMO Sushi
 permalink: /minnesota/minneapolis/momo-sushi.html
 stateAbbr: MN
 stateName: Minnesota
 cityName: Minneapolis
 seo:
-  name: "MOMO Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.momosushimn.com/
-description: "MOMO Sushi serves delicious sushi in Minneapolis, Minnesota. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJMwMprTgts1IRfqqgfasVNqI
 photos:
   - name: >-
@@ -170,7 +168,89 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x52b32d38ad290333:0xa23615ab7da0aa7e!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 45
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 45
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 45
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 45
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 45
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 45
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 45
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 45
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 45
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 45
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:00 AM – 2:45 PM, 4:30 – 9:45 PM'
     - 'Wednesday: 11:00 AM – 2:45 PM, 4:30 – 9:45 PM'
@@ -178,14 +258,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 2:45 PM, 4:30 – 9:45 PM'
     - 'Saturday: 11:00 AM – 9:45 PM'
     - 'Sunday: 11:00 AM – 8:45 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:00 AM – 2:45 PM, 4:30 – 9:45 PM'
-    - 'Wednesday: 11:00 AM – 2:45 PM, 4:30 – 9:45 PM'
-    - 'Thursday: 11:00 AM – 2:45 PM, 4:30 – 9:45 PM'
-    - 'Friday: 11:00 AM – 2:45 PM, 4:30 – 9:45 PM'
-    - 'Saturday: 11:00 AM – 9:45 PM'
-    - 'Sunday: 11:00 AM – 8:45 PM'
+  nextCloseTime: '2025-05-04T02:45:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +270,46 @@ phone: (612) 789-9190
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.7'
-rating_count: 0
+rating_count: 1681
 website: https://www.momosushimn.com/
+description: >-
+  Explore MOMO Sushi in Minneapolis$$$MOMO Sushi in Minneapolis, MN, stands out
+  as a welcoming spot for enthusiasts of fresh Japanese cuisine, featuring an
+  assortment of specialty rolls and traditional offerings that capture the
+  essence of authentic flavors. This cozy establishment emphasizes accessibility
+  with features like wheelchair-friendly entrances and seating, making it easy
+  for everyone to enjoy a relaxed dining experience. Diners can savor a variety
+  of sushi options that highlight high-quality ingredients and creative
+  presentations, perfect for those seeking top-rated Japanese places nearby.
+  With convenient hours including lunch and dinner services throughout the week,
+  it's an ideal choice for anyone looking for sushi restaurants that blend
+  quality and convenience in a vibrant neighborhood setting.
+generative_summary: >-
+  Explore MOMO Sushi in Minneapolis$$$MOMO Sushi in Minneapolis, MN, stands out
+  as a welcoming spot for enthusiasts of fresh Japanese cuisine, featuring an
+  assortment of specialty rolls and traditional offerings that capture the
+  essence of authentic flavors. This cozy establishment emphasizes accessibility
+  with features like wheelchair-friendly entrances and seating, making it easy
+  for everyone to enjoy a relaxed dining experience. Diners can savor a variety
+  of sushi options that highlight high-quality ingredients and creative
+  presentations, perfect for those seeking top-rated Japanese places nearby.
+  With convenient hours including lunch and dinner services throughout the week,
+  it's an ideal choice for anyone looking for sushi restaurants that blend
+  quality and convenience in a vibrant neighborhood setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Diners at MOMO Sushi$$$Visitors often praise the flavorful sushi
+  selections, with standout rolls delivering a perfect mix of fresh ingredients
+  and inventive twists that keep things exciting. Alongside the sushi, the
+  Tibetan-style momos are frequently noted for their tasty fillings and
+  satisfying texture, adding a unique element to the menu. Service tends to be
+  speedy and welcoming, helping to create a comfortable atmosphere for casual
+  meals or quick bites. Many appreciate the hearty portions and fair pricing,
+  which make it a solid option for groups or individuals hunting for value
+  without skimping on quality. Overall, the feedback highlights a reliable spot
+  for enjoyable sushi experiences that leave a positive impression.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +335,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

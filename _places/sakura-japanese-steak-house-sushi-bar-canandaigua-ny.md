@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sakura Japanese Steak House & Sushi Bar"
+title: Sakura Japanese Steak House & Sushi Bar
 permalink: /new-york/canandaigua/sakura-japanese-steak-house-sushi-bar.html
 stateAbbr: NY
 stateName: New York
 cityName: Canandaigua
 seo:
-  name: "Sakura Japanese Steak House & Sushi Bar"
-  type: Restaurant
-  links: null
-description: "Sakura Japanese Steak House & Sushi Bar serves delicious sushi in Canandaigua, New York. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://sakuracanandaiguany.com/
 place_id: ChIJ8ZRsZo0m0YkRr84zK67BH90
 photos:
   - name: >-
@@ -170,22 +168,176 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89d1268d666c94f1:0xdd1fc1ae2b33ceaf!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:00 PM'
+    - 'Tuesday: Closed'
+    - 'Wednesday: 11:00 AM – 9:00 PM'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 9:30 PM'
+    - 'Saturday: 11:00 AM – 9:30 PM'
+    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T01:30:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 0
+        close:
+          day: 0
+          hour: 21
+          minute: 0
+      - open:
+          day: 1
+          hour: 11
+          minute: 0
+        close:
+          day: 1
+          hour: 21
+          minute: 30
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 21
+          minute: 30
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 30
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 21
+          minute: 30
+      - open:
+          day: 6
+          hour: 11
+          minute: 0
+        close:
+          day: 6
+          hour: 21
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 11:00 AM – 9:30 PM'
+      - 'Tuesday: Closed'
+      - 'Wednesday: 11:00 AM – 9:30 PM'
+      - 'Thursday: 11:00 AM – 9:30 PM'
+      - 'Friday: 11:00 AM – 9:30 PM'
+      - 'Saturday: 11:00 AM – 9:30 PM'
+      - 'Sunday: 12:00 – 9:00 PM'
+    secondaryHoursType: TAKEOUT
+    nextCloseTime: '2025-05-04T01:30:00Z'
+phone: (585) 393-1888
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.4'
+rating_count: 764
+website: http://sakuracanandaiguany.com/
+description: >-
+  Explore Sakura Japanese Steak House in Canandaigua, NY$$$Sakura Japanese Steak
+  House & Sushi Bar in Canandaigua, NY, is a welcoming spot for enjoying
+  authentic Japanese flavors, featuring fresh sushi and sizzling teppanyaki
+  options that highlight the area's growing appeal for Japanese dining. The
+  restaurant boasts an interactive hibachi experience where skilled chefs
+  prepare meals right at your table, adding excitement to every visit, while a
+  dedicated kids' menu ensures it's family-friendly for all ages. Accessibility
+  features like wheelchair-friendly parking and seating make it convenient for
+  everyone to savor the diverse menu, which includes a variety of rolls and
+  grilled specialties that cater to sushi enthusiasts nearby. With its moderate
+  pricing and extended hours, this spot stands out as a go-to choice for those
+  seeking quality Japanese places in the region, blending tradition with a
+  lively atmosphere that keeps locals coming back.
+generative_summary: >-
+  Explore Sakura Japanese Steak House in Canandaigua, NY$$$Sakura Japanese Steak
+  House & Sushi Bar in Canandaigua, NY, is a welcoming spot for enjoying
+  authentic Japanese flavors, featuring fresh sushi and sizzling teppanyaki
+  options that highlight the area's growing appeal for Japanese dining. The
+  restaurant boasts an interactive hibachi experience where skilled chefs
+  prepare meals right at your table, adding excitement to every visit, while a
+  dedicated kids' menu ensures it's family-friendly for all ages. Accessibility
+  features like wheelchair-friendly parking and seating make it convenient for
+  everyone to savor the diverse menu, which includes a variety of rolls and
+  grilled specialties that cater to sushi enthusiasts nearby. With its moderate
+  pricing and extended hours, this spot stands out as a go-to choice for those
+  seeking quality Japanese places in the region, blending tradition with a
+  lively atmosphere that keeps locals coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback Highlights$$$Visitors often rave about the fresh, flavorful
+  sushi and the entertaining hibachi performances that make meals feel like a
+  fun event, earning high marks for overall satisfaction. Many appreciate the
+  reasonable prices and attentive service, noting that it's a solid pick for
+  groups or families looking for a casual night out. While some mention
+  occasional wait times during peak hours, the general consensus is that the
+  taste and presentation more than make up for it, positioning this as one of
+  the top-rated options around. Overall, it's praised for delivering great value
+  and a welcoming vibe, making it a reliable favorite for anyone exploring
+  Japanese restaurants in the vicinity. If you're on the hunt for tasty bites
+  close to home, this place consistently delivers a positive experience that
+  leaves diners eager to return.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +363,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

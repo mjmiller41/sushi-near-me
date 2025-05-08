@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "The Blue Fish Allen"
+title: The Blue Fish Allen
 permalink: /texas/allen/the-blue-fish-allen.html
 stateAbbr: TX
 stateName: Texas
 cityName: Allen
 seo:
-  name: "The Blue Fish Allen"
-  type: Restaurant
-  links: null
-description: "The Blue Fish Allen serves delicious sushi in Allen, Texas. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.thebluefishsushi.com/
 place_id: ChIJo3V-oV0XTIYRb7l6k6CJnFo
 photos:
   - name: >-
@@ -170,8 +168,113 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x864c175da17e75a3:0x5a9c89a0937ab96f!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 2:00 PM, 4:30 – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 2:00 PM, 4:30 – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 2:00 PM, 4:30 – 9:00 PM'
+    - 'Thursday: 11:00 AM – 2:00 PM, 4:30 – 9:00 PM'
+    - 'Friday: 11:00 AM – 2:00 PM, 4:30 – 10:00 PM'
+    - 'Saturday: 12:00 – 10:00 PM'
+    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +282,48 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
+phone: (972) 908-3433
+price_level: PRICE_LEVEL_MODERATE
 price_range: null
-rating: null
-rating_count: 0
-website: null
+rating: '4.3'
+rating_count: 934
+website: https://www.thebluefishsushi.com/
+description: >-
+  Discover The Blue Fish in Allen, TX$$$The Blue Fish Allen in Allen, TX, stands
+  out as a vibrant hub for fresh Japanese cuisine, blending creative flavors
+  with a lively dining vibe. This spot delights guests with its inventive sushi
+  rolls and a selection of other authentic dishes, all paired with refreshing
+  cocktails that enhance the meal. Accessibility features like
+  wheelchair-friendly parking and entrances make it an inclusive choice for
+  everyone seeking quality dining options. With flexible hours spanning lunch
+  and dinner, it's perfect for those exploring top sushi spots nearby. The
+  emphasis on artistic presentations and fresh ingredients ensures a memorable
+  experience for anyone craving Japanese-inspired meals in a welcoming setting.
+generative_summary: >-
+  Discover The Blue Fish in Allen, TX$$$The Blue Fish Allen in Allen, TX, stands
+  out as a vibrant hub for fresh Japanese cuisine, blending creative flavors
+  with a lively dining vibe. This spot delights guests with its inventive sushi
+  rolls and a selection of other authentic dishes, all paired with refreshing
+  cocktails that enhance the meal. Accessibility features like
+  wheelchair-friendly parking and entrances make it an inclusive choice for
+  everyone seeking quality dining options. With flexible hours spanning lunch
+  and dinner, it's perfect for those exploring top sushi spots nearby. The
+  emphasis on artistic presentations and fresh ingredients ensures a memorable
+  experience for anyone craving Japanese-inspired meals in a welcoming setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Raving About$$$Folks heading to The Blue Fish Allen often
+  highlight the fresh, creative sushi that keeps them coming back for more in
+  this bustling area. Many enjoy the friendly atmosphere and solid service that
+  make every visit feel relaxed and enjoyable, earning it high marks among local
+  favorites. With an impressive overall rating, diners frequently note the
+  consistent quality and flavorful dishes that stand out in nearby sushi spots.
+  While some mention prices leaning toward the moderate side, they agree the
+  experience justifies the cost for such tasty offerings. All in all, it's a
+  go-to recommendation for anyone searching for reliable Japanese places that
+  deliver on both taste and vibe.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +349,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

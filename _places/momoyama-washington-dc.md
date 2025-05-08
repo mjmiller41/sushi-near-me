@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Momoyama"
+title: Momoyama
 permalink: /district-of-columbia/washington/momoyama.html
 stateAbbr: DC
 stateName: District of Columbia
 cityName: Washington
 seo:
-  name: "Momoyama"
-  type: Restaurant
+  type: restaurant
   links: https://www.facebook.com/momoyamadc/
-description: "This hideaway sushi spot also features cooked Japanese fare plus bento boxes & happy hour specials. Momoyama serves delicious sushi in Washington, District of Columbia. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJt1JwK4a3t4kRq4L61cpSMaU
 photos:
   - name: >-
@@ -183,6 +181,31 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 0
 website: https://www.facebook.com/momoyamadc/
+description: >-
+  Discover Momoyama in Washington, DC$$$Momoyama in Washington, DC, offers a
+  cozy retreat for those seeking authentic Japanese dining with a focus on fresh
+  sushi and bento boxes that highlight traditional flavors. The spot features an
+  intimate setting ideal for enjoying affordable meals, including flavorful
+  rolls and hearty options that cater to a range of tastes, making it a go-to
+  for sushi enthusiasts in the area. Its welcoming atmosphere and thoughtful
+  menu selections emphasize quality ingredients and simple yet satisfying
+  dishes, perfect for a quick bite or relaxed outing near local landmarks.
+  Whether you're exploring Japanese places near you or craving top-rated sushi
+  options, this hidden gem provides a delightful escape with its unpretentious
+  charm and value-driven appeal.
+generative_summary: >-
+  Discover Momoyama in Washington, DC$$$Momoyama in Washington, DC, offers a
+  cozy retreat for those seeking authentic Japanese dining with a focus on fresh
+  sushi and bento boxes that highlight traditional flavors. The spot features an
+  intimate setting ideal for enjoying affordable meals, including flavorful
+  rolls and hearty options that cater to a range of tastes, making it a go-to
+  for sushi enthusiasts in the area. Its welcoming atmosphere and thoughtful
+  menu selections emphasize quality ingredients and simple yet satisfying
+  dishes, perfect for a quick bite or relaxed outing near local landmarks.
+  Whether you're exploring Japanese places near you or craving top-rated sushi
+  options, this hidden gem provides a delightful escape with its unpretentious
+  charm and value-driven appeal.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJt1JwK4a3t4kRq4L61cpSMaU/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3NnFTTlhBEAE
@@ -354,6 +377,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNmdmZQMVh3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNmdmZQMVh3EAE!2m1!1s0x89b7b7862b7052b7:0xa53152cad5fa82ab
+review_summary: >-
+  What Customers Are Saying$$$Visitors often rave about the tasty sushi rolls
+  and bento boxes at this spot, noting the fresh flavors and satisfying portions
+  that make for a great meal on a budget. Many appreciate the cozy, family-like
+  vibe and friendly service that enhance the overall experience, with specific
+  mentions of dishes like the avocado salmon roll standing out as must-tries.
+  While most feedback highlights the authentic tastes and quick service, a few
+  comments suggest occasional inconsistencies in handling orders during busy
+  times. Overall, it's a solid choice for anyone searching for sushi restaurants
+  nearby, offering genuine and enjoyable dining moments that keep people coming
+  back for more. If you're in the mood for reliable Japanese fare, this place
+  delivers a mostly positive and memorable visit.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   valetParking: false
 payment_options:
@@ -384,8 +420,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   This hideaway sushi spot also features cooked Japanese fare plus bento boxes &
   happy hour specials.
 

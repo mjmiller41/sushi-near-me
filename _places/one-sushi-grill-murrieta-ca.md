@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "One Sushi & Grill"
+title: One Sushi & Grill
 permalink: /california/murrieta/one-sushi-grill.html
 stateAbbr: CA
 stateName: California
 cityName: Murrieta
 seo:
-  name: "One Sushi & Grill"
-  type: Restaurant
-  links: null
-description: "One Sushi & Grill serves delicious sushi in Murrieta, California. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://order.online/business/one-sushi--grill-12965382
 place_id: ChIJvcvUJwmC3IARsdCTdr0GqTg
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80dc820927d4cbbd:0x38a906bd7693d0b1!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:30 AM – 9:00 PM'
+    - 'Tuesday: 11:30 AM – 9:00 PM'
+    - 'Wednesday: 11:30 AM – 9:00 PM'
+    - 'Thursday: 11:30 AM – 9:00 PM'
+    - 'Friday: 11:30 AM – 9:00 PM'
+    - 'Saturday: 11:30 AM – 9:00 PM'
+    - 'Sunday: 11:30 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,50 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (951) 461-1311
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.5'
+rating_count: 949
+website: https://order.online/business/one-sushi--grill-12965382
+description: >-
+  Discover One Sushi & Grill in Murrieta, CA$$$One Sushi & Grill in Murrieta,
+  CA, stands out as a welcoming spot for enjoying a variety of fresh sushi and
+  Japanese-inspired dishes. The restaurant features an extensive selection of
+  specialty rolls crafted with quality ingredients, set in a laid-back
+  atmosphere that includes outdoor seating for a relaxed dining vibe.
+  Accessibility options like wheelchair-friendly parking and entrances make it
+  easy for everyone to enjoy a meal. Those searching for sushi restaurants near
+  you will appreciate the consistent flavors and moderate pricing, ideal for
+  casual outings or family gatherings. This spot delivers a satisfying
+  experience for anyone craving top-rated sushi options in a comfortable
+  environment.
+generative_summary: >-
+  Discover One Sushi & Grill in Murrieta, CA$$$One Sushi & Grill in Murrieta,
+  CA, stands out as a welcoming spot for enjoying a variety of fresh sushi and
+  Japanese-inspired dishes. The restaurant features an extensive selection of
+  specialty rolls crafted with quality ingredients, set in a laid-back
+  atmosphere that includes outdoor seating for a relaxed dining vibe.
+  Accessibility options like wheelchair-friendly parking and entrances make it
+  easy for everyone to enjoy a meal. Those searching for sushi restaurants near
+  you will appreciate the consistent flavors and moderate pricing, ideal for
+  casual outings or family gatherings. This spot delivers a satisfying
+  experience for anyone craving top-rated sushi options in a comfortable
+  environment.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Folks around Murrieta often rave about the fresh
+  flavors and solid variety at this sushi spot, making it a favorite for quick
+  and tasty meals. Many highlight the reliable service and welcoming vibe that
+  enhance the overall dining experience, with plenty of positive nods to the
+  generous portions and creative rolls. Based on its strong rating, it's clear
+  that customers keep returning for the consistent quality and affordability,
+  perfect if you're on the hunt for sushi places near you. While some mention
+  minor waits during peak times, the general feedback leans toward enjoyment and
+  satisfaction for groups or solo diners. Overall, it's a go-to choice for
+  anyone seeking dependable, flavorful sushi in a casual setting.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +311,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

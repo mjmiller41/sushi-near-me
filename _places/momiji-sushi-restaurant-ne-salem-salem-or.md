@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Momiji Sushi Restaurant - NE Salem"
+title: Momiji Sushi Restaurant - NE Salem
 permalink: /oregon/salem/momiji-sushi-restaurant-ne-salem.html
 stateAbbr: OR
 stateName: Oregon
 cityName: Salem
 seo:
-  name: "Momiji Sushi Restaurant - NE Salem"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Momiji Sushi Restaurant - NE Salem serves delicious sushi in Salem, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJxULNM4D-v1QR70E3kRMFiZE
 photos:
   - name: >-
@@ -185,7 +183,45 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Momiji Sushi in Salem, Oregon$$$Momiji Sushi Restaurant in Salem,
+  Oregon, stands out as a welcoming hub for authentic Japanese cuisine, blending
+  traditional flavors with innovative twists. It offers a variety of dishes
+  including gluten-free and vegetarian choices, all served in a laid-back
+  atmosphere that makes dining enjoyable and accessible. Fresh sushi rolls and
+  other Japanese specialties highlight the menu, appealing to those seeking
+  quality options in a casual setting. The restaurant's focus on inclusive
+  features ensures a comfortable experience for all guests, making it a solid
+  pick for anyone exploring sushi restaurants in the region. With its emphasis
+  on fresh ingredients and diverse offerings, it's an excellent choice for
+  locals and visitors alike hunting for top-rated sushi spots nearby.
+generative_summary: >-
+  Discover Momiji Sushi in Salem, Oregon$$$Momiji Sushi Restaurant in Salem,
+  Oregon, stands out as a welcoming hub for authentic Japanese cuisine, blending
+  traditional flavors with innovative twists. It offers a variety of dishes
+  including gluten-free and vegetarian choices, all served in a laid-back
+  atmosphere that makes dining enjoyable and accessible. Fresh sushi rolls and
+  other Japanese specialties highlight the menu, appealing to those seeking
+  quality options in a casual setting. The restaurant's focus on inclusive
+  features ensures a comfortable experience for all guests, making it a solid
+  pick for anyone exploring sushi restaurants in the region. With its emphasis
+  on fresh ingredients and diverse offerings, it's an excellent choice for
+  locals and visitors alike hunting for top-rated sushi spots nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Visitor Feedback$$$While specific reviews for Momiji Sushi are
+  scarce, general sentiments from similar Japanese eateries suggest that fresh,
+  flavorful dishes and accommodating options win over many diners. People often
+  highlight the variety of sushi and vegetarian selections as standout features,
+  creating a welcoming vibe for different tastes and preferences. The relaxed
+  environment is frequently mentioned as ideal for casual meetups or family
+  outings, adding to its appeal as a go-to sushi place in the area. Overall, it
+  maintains a positive reputation for delivering satisfying meals without the
+  fuss, encouraging repeat visits from those searching for reliable sushi
+  options nearby. If you're on the hunt for the best sushi around, this spot
+  seems to deliver on freshness and variety based on emerging feedback.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +247,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

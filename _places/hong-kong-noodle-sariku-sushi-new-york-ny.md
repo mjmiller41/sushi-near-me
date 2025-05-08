@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Hong Kong Noodle & Sariku Sushi"
+title: Hong Kong Noodle & Sariku Sushi
 permalink: /new-york/new-york/hong-kong-noodle-sariku-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "Hong Kong Noodle & Sariku Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://hongkongnoodleny.com/
-description: "Unassuming sit-down restaurant offering familiar Chinese & Japanese eats, including sushi. Hong Kong Noodle & Sariku Sushi serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ-WCDcghZwokRafqiRaOW0JA
 photos:
   - name: >-
@@ -183,6 +181,29 @@ price_range: $10 &ndash; $20
 rating: '4.0'
 rating_count: 0
 website: https://hongkongnoodleny.com/
+description: >-
+  Discover Hong Kong Noodle & Sariku Sushi in New York, NY$$$Hong Kong Noodle &
+  Sariku Sushi in New York, NY, offers a casual dining experience with a mix of
+  flavorful Chinese and Thai-inspired dishes, including fresh sushi options for
+  those seeking authentic Asian flavors. This unassuming spot stands out for its
+  affordable menu that balances hearty portions with vegetarian choices, making
+  it a go-to for everyday meals in a bustling city. Patrons can enjoy quick
+  service and a variety of options like noodle dishes and sushi rolls, all
+  prepared with an emphasis on umami-rich flavors. The restaurant also provides
+  convenient accessibility features, enhancing its appeal for a wide range of
+  visitors looking for reliable sushi spots near urban hubs.
+generative_summary: >-
+  Discover Hong Kong Noodle & Sariku Sushi in New York, NY$$$Hong Kong Noodle &
+  Sariku Sushi in New York, NY, offers a casual dining experience with a mix of
+  flavorful Chinese and Thai-inspired dishes, including fresh sushi options for
+  those seeking authentic Asian flavors. This unassuming spot stands out for its
+  affordable menu that balances hearty portions with vegetarian choices, making
+  it a go-to for everyday meals in a bustling city. Patrons can enjoy quick
+  service and a variety of options like noodle dishes and sushi rolls, all
+  prepared with an emphasis on umami-rich flavors. The restaurant also provides
+  convenient accessibility features, enhancing its appeal for a wide range of
+  visitors looking for reliable sushi spots near urban hubs.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ-WCDcghZwokRafqiRaOW0JA/reviews/ChZDSUhNMG9nS0VJQ0FnTURJOUpIcEtnEAE
@@ -322,6 +343,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNlNzVMVDJ3RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNlNzVMVDJ3RRAB!2m1!1s0x89c25908728360f9:0x90d096a345a2fa69
+review_summary: >-
+  Insights from Recent Visitors$$$Folks who've tried this New York sushi joint
+  often rave about the hot, tasty dishes and speedy service that make it a solid
+  pick for a quick bite. While one comment mentioned an unfortunate incident
+  that raised concerns, the overall buzz leans positive, with many appreciating
+  the generous portions and flavorful Chinese-inspired favorites like sesame
+  chicken and lo mein. Customers frequently highlight the value for money,
+  noting that certain menu items hit the spot without breaking the bank,
+  especially for those hunting for top-rated sushi options nearby. Despite some
+  mixed feelings on the decor, the general feedback keeps an upbeat vibe,
+  encouraging return visits for reliable, affordable eats that satisfy cravings
+  for Asian cuisine. If you're exploring sushi restaurants in the area, this
+  place delivers a straightforward, enjoyable experience worth checking out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidStreetParking: true
   valetParking: false
@@ -353,8 +388,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Unassuming sit-down restaurant offering familiar Chinese & Japanese eats,
   including sushi.
 

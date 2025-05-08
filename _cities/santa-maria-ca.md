@@ -5,4 +5,5 @@ permalink: /california/santa-maria/
 stateAbbr: CA
 stateName: California
 cityName: Santa Maria
+
 ---

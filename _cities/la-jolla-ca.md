@@ -5,4 +5,5 @@ permalink: /california/la-jolla/
 stateAbbr: CA
 stateName: California
 cityName: La Jolla
+
 ---

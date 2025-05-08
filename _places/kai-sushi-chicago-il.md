@@ -1,175 +1,238 @@
 ---
 layout: place
-title: "Kai Sushi"
+title: Kai Sushi
 permalink: /illinois/chicago/kai-sushi.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
 seo:
-  name: "Kai Sushi"
-  type: Restaurant
-  links: null
-description: "Kai Sushi serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. "
-place_id: ChIJ0-hMk9otDogRxMI4fi9MsjM
+  type: restaurant
+  links: http://www.kaisushijapanese.com/
+place_id: ChIJgz3hw5osDogR0d4_YPtmEJM
 photos:
   - name: >-
-      places/ChIJ0-hMk9otDogRxMI4fi9MsjM/photos/AeeoHcLR7KppGogTm8gnuxfMDCwz9j3hhDfg3Amq-R9Kv_NLF4FfDQkzVMQJtzb_MDOw6erbSlmfmCd2lqYnBbh-_d9qR3g_OcmuOay4Vc1vMDRxFjVdONi9tT4WAt3FTxQ33zRCgupZrUHM5hP1H4lsc8L3J7l8Uvy-LaQOp4ipPeL_8QvIwC5ym_qNosZdl4iVM5oFlVJHOcBsatpX1jL-iuo45jhfkC-TktcJueU-SKLGnPm_NI4HVoOYHhIXeNWCvRPfBDaNg0DtZIgW27DAtaK41Kxb2w7jTe-dlAiuSX0xuqEs4WcNSM5_Zn9AIM85iWfOuWZqGaU8eN-7-QKZXNKNnaPuO_vdDVJO_unWxS2yU_LkMDxIYVnomZWjqIk9o8Kcz2WAn8omsLNY7z2uB3FhT9EqV0QbYVUtuVM7SJK9hQ
-    widthPx: 3600
-    heightPx: 4800
+      places/ChIJgz3hw5osDogR0d4_YPtmEJM/photos/AeeoHcJqfIsTVwos-QX_ZlYZ_tscVNHVP9Kau0FZ_yXKjY3CuFzicaN7Acpkiy3eW_sGDkZDQ4fsljRnzMUDMMTagBUeLAQtXh55iYGNQeTMtjPXnqYSP6uXCDPxgwYwHQQgnCOaNs_fZJMkwealuCU2F3pLiXV5XEcDRHntKQQcK9Tx_o2F-zK-luH6bpzC6o-07yV9FsNJFA4Ka39e91QE2SUDmTD_OWGvhPiB64LQCPtUEbJ4dQszTnYXxrC7aFdc6jQwj_Ww0m9vU0JQSxLHTP5OLqxOJwiDbFTswzh4uvXfMXnVq0_vYOJ6Cqu0f4qXePRNf2GjXBYVzNeN4wDb1dz2JVhv0obnofxzBeCy7XcMmbBtEFqq8FC409N-MwgIIA3RB9uqdwklg2TDF620MeaM9bX-xzoFLUkNgZa2SjtVkNN-
+    widthPx: 3264
+    heightPx: 2448
     authorAttributions:
-      - displayName: Josh Peal
-        uri: https://maps.google.com/maps/contrib/114360186724054688612
+      - displayName: A HacK
+        uri: https://maps.google.com/maps/contrib/105769848292489217734
         photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocJ76_nhylOO0AYuB_j5JOlJaKv0fSuMJUsOs-7NGbIonaGQLQ=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a/ACg8ocITkU7XVO_6GIMGQpOPgqdkKpbkMQ5ESBqV4TJFG92gni0FPQ=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICZ89fSVg&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDEgY2tzAE&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICZ89fSVg!2e10!4m2!3m1!1s0x880e2dda934ce8d3:0x33b24c2f7e38c2c4
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDEgY2tzAE!2e10!4m2!3m1!1s0x880e2c9ac3e13d83:0x931066fb603fded1
   - name: >-
-      places/ChIJ0-hMk9otDogRxMI4fi9MsjM/photos/AeeoHcII48P396EqWOLNl755nyOgZRKdPgs6OifZzh3GO3nUzlW3xToDjwaTHbp95egcUoiYZWO0I98QIgBKYmfI-89-N-NFT8cnQQT7RmWtYtEI29pnGYufZdmSmUc6bIvBa2tfDaVq-7ElpIAW0CKkAt5QqxsCqaFxCib1c5wqC8Rab9cFBU-7Q3asOpi2Ufyl_CY_BqX85MPK07jQqP5YKokVi1VxMGa7aAVCrcvRDbxd9B-75XytcJ4Rsb53xi_CM3WBdJ0uPvxKYasiOtsAcRWLkKB7J44Xp2HNDmvvaMIQcB9VCoyzxaRSUR5aley_CxydxiR10rLDL4hyoUEEZym9pw7kyS6BiA6LL7wmWRn26O7gGGkis_CZIiZqhi_Va1MNvt4F5R2pJL4D_06R3-BwIR1yicwYf6zHHnDIOsBrzIw
+      places/ChIJgz3hw5osDogR0d4_YPtmEJM/photos/AeeoHcKqjSKEwozHTLfM8ei9H40oImpJkDED5d2winkFPfVYrr0kDhGAKibpoA5oRWZ0ycvDVe7EJG96xedfkitJy0ZcY9iVcmLaN5ogLS-cTa5IL2kiLmRXlqJwG5Cd7yobt-_zAKxVeCpOzdwkyjRn8Ne4beffHTVEmffIp0AlcB5s-FmTEwm4iJlhX7Ak8P46HSzev2OUCunzeJjvHXJDh0Dxoma71ENBWD4crGkHSp84_OieaOdgEGQudz_JlYjxR1KVDkn84IHzQ15PnPnJO7gWkLEMLG4nhquYPSL0PiCS_1Wi_MfuH0btGvuSvc0IWc2Fo3JFmBuCWOWK9X5_Phtm6fz8F_OHa2-oIstWajang9CnEWYey78wt9kf6YJeTj4_Cqf-mg2thxY-101I1XEegISFpRgLuwmWmi1QdKh-vq-R
+    widthPx: 2000
+    heightPx: 1333
+    authorAttributions:
+      - displayName: Tim McCoy
+        uri: https://maps.google.com/maps/contrib/113161108081579535861
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXs9acp1avyqSsUTl9j13GZfQ6j2YKFsIaIRv771glOL4CVR3y1=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICc2oX09QE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICc2oX09QE!2e10!4m2!3m1!1s0x880e2c9ac3e13d83:0x931066fb603fded1
+  - name: >-
+      places/ChIJgz3hw5osDogR0d4_YPtmEJM/photos/AeeoHcI9CtvDXX_NPKAh09BUxBm4g6KdvvvBRDEOTxy_anHCbNOnCr1BcUKjKE-bonu1j0df91TyPuZVTIx8A7dfp0nDCp_VK0YespDPNv6otSa-UlE0VkvJSH_v1KWVNGcdCb-F88RFH2X59LYpazH0VKyvS4rbyEeLj06J9f8NcxcJs-v_5BFoDQt4c740ZvKY5N-bkRM1utMQFKkVffQFsaZEyveC3fOHCL1FytG8Ge3WZVo_fTJBfE0GBicstWdDuIsHuT8YkSZ63mGC1jr_aTtUO7aFeqMMDei5VFoR0rF_wPTGNQItzTP8X6pBrsJ3iNTf0T-uR-_DigiFnyJCtFlSUgFPOqLhOTA7PQOb2UeU6WpgPxzQfGeDG5w_dmd7PVWHxaMYRBZZt5QklPMuanhglSxaM4RkHviRFIX3u0RHnw
+    widthPx: 4624
+    heightPx: 3468
+    authorAttributions:
+      - displayName: Jessica Earl
+        uri: https://maps.google.com/maps/contrib/112541293877615216785
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjUM_Tg2vC2xYG8OD1XhiYCggxfkw0dQhLCxWEGdALTVg0NWL2pW=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC3x5LyJw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC3x5LyJw!2e10!4m2!3m1!1s0x880e2c9ac3e13d83:0x931066fb603fded1
+  - name: >-
+      places/ChIJgz3hw5osDogR0d4_YPtmEJM/photos/AeeoHcJdsL69Q4_PpOCyRN3GtlzQayc_6D5SEk02UmuaLBhajO_zBKzzPHeL7Wc__kc1_J0pW4Pa9h8FfvZomiyczwmwicBnZv5gO3BZSSzmaKJJaHn5uei2fM_WT7GZcmzRwEw6QPS2nyQommzrd-Hv7pAxIHlFRQRyE-jHgzkKQIbehlGg1cMONDrQckKh-TmZMXk6A9A6IiN928MjVpIkHA7d65l-WkAMqHN0-rrXkPMgVuZfAIru00OPvgZnVDc8SUZBHKykc9Fwmw94yaXrZFu2X7Ley6ef1v2R-Btxu3K-g4XqfkulxxxwBcTRJbGkYyxCL9plORyFklBMnvMfcmyNoW4ePgCk9XBuaTzz6lhXsF-hb95q-6dD9lfK5coyg7l6IY6lvdEr7RzS2bDLmNL2tigtLw8sfiFhNlIo-ulAap9g
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
-      - displayName: Enkhbayar Sainjargal
-        uri: https://maps.google.com/maps/contrib/113046533633341978799
+      - displayName: Aamir Pervez
+        uri: https://maps.google.com/maps/contrib/114736536193286584741
         photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocJ8x7I2emKMIDTr2pq_64UlTjfvYBKxC0G5h7cvvV4Ux0r600s=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjXoGLvK1zvpFbDR-Ni05tHO994VbukMX84gE58HpuOSYwwxP2bl=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICO7LXuugE&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDztZzzwAE&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICO7LXuugE!2e10!4m2!3m1!1s0x880e2dda934ce8d3:0x33b24c2f7e38c2c4
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDztZzzwAE!2e10!4m2!3m1!1s0x880e2c9ac3e13d83:0x931066fb603fded1
   - name: >-
-      places/ChIJ0-hMk9otDogRxMI4fi9MsjM/photos/AeeoHcKsMgNp9lkv7Fufk64SBFyxNjT5ibUloEhl8pYdcd-vo5Lsh9c4OfL2kmQSfJla4hSvA6rI-YZ3lNU2L-Np6mKQ_Sb0siTkA-ID0ZZ4yWijwuZhKOAFf5S7DoPUDtFW6xpCpans9CAggcOVWM_jSfT4YNzNNwWnaXaWD1q8eGalcREIBzfHOACLbDPnNNDTIN8R5_Zu_qj3vgz7TMu50WCOPpZNMr1bpWJvN4oTBpRoutZpYfOx8PDXrlcCy0cQyKFFqiyR40Q8KoqUklfyQTrDgHDTCZrcCqWhjhzL7gCCt4nYod8WxxsBNgUEM2lhCWC_6-8Ddx_dHj4DwOBk4sJjzEXwrqFs1V5C9uKqkqpK7-I0MmYNfvT1ay-D27oHZJf5po1mUvxJEuqQyIGPT4YStxCl8-3It-Es_1IKob3AMt5WBfd6HgV9tiM7AwZ4
+      places/ChIJgz3hw5osDogR0d4_YPtmEJM/photos/AeeoHcIo4EIkzwQ_TZ3EfPZnIQDYAj7qkHaaZZuSUS-I0k8l6KGoXYBN25pJ2IfUfMv_1UIWFD4KddybXPcbvu1ACPuiXrxirWaI2ldjJ1lP5as-nipdo-isNIWIJigjxnky32sNPMKTvx1zq-Wf-JFWtcedR95W1yF7XKyLzbJ8K6aH-dpYJje5lc-YGkbdPOTJuYFIFgC4JEWhrX_YnvqeaJIutfmSvmLAsat7EDNSw9NEs_P6qu68AqC3Xdz118gyev2CnezU4Jo059C0Ob5ET0aMetIBdFHMyKdOZOV4FT_inO8wua91dWXxvLh3xJPVKTvoCNm4DKLKitGuIF-Km-mUDElfYdUEgrWWo3QwcPzprnudAogxGt2NX2a6M7MIVpYukUivd8R6CSJ1XBYlx4HnoHojmeAE59YXHeyqx-1YtviK
+    widthPx: 3468
+    heightPx: 4624
+    authorAttributions:
+      - displayName: Brian Lau
+        uri: https://maps.google.com/maps/contrib/113545684235013483260
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjV2EfRbWR9Ne3CVvk_RQ-BquYtPoNv9kBL4ZYZqo5n3F8l80LUN=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC5tIrWlAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC5tIrWlAE!2e10!4m2!3m1!1s0x880e2c9ac3e13d83:0x931066fb603fded1
+  - name: >-
+      places/ChIJgz3hw5osDogR0d4_YPtmEJM/photos/AeeoHcLuig_zT5Rj5rnxYEdZt7K2E0xXT0DK5HaUn4eQxAS7FZFvnYTmp-BGJ4p93TpUkXa6YvWSbVbX_beyfw6MxL0Cum0vfbyLHMUaOHiLQs2wOfhGbKdqQl93jUCa35jv54V9O-Co5aIP11Pukv0s_BtnVZgacFb0Te7tJsS2bHmFMCAaGYUfwXY-b07jocNpMVd0xt68pHiCu50-Jp7_2o3gi2GWSj3P85DdYfJs4vJvVizJ3zl3oayJvOaDkaVjWLUgAd1zT-HPeJXOpMMALzOSYs7zBIsDRPiO0gK56C7NQFTvMdCwID8aYwCKIpZgeWIHk6tmNJFXcc7wH3w0BBLhMnw-DjPvoXS41gusmElZP9dkxoO7rnAVgnPinAWeUVGZzkXd3NFKTsZ-yqErcZEtlLi456YccB-dqKyk4oVnkUBo
     widthPx: 3072
     heightPx: 4080
     authorAttributions:
-      - displayName: Belle Lopez
-        uri: https://maps.google.com/maps/contrib/104731732886039479725
+      - displayName: Ammad Williams
+        uri: https://maps.google.com/maps/contrib/103245300956567280211
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjXJaXXCmJKT3A0h-pVZ5EtckuDukCB_PBRi4MZGRcmKMufnAMyd7w=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjWXAwZ5auC6nH6sKMoqTEyPRTeCaK29acYodj96xLgqGoOuZYMs_g=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAIN0uG1zn6S2fjEckABoRu&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDWuprftgE&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAIN0uG1zn6S2fjEckABoRu!2e10!4m2!3m1!1s0x880e2dda934ce8d3:0x33b24c2f7e38c2c4
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDWuprftgE!2e10!4m2!3m1!1s0x880e2c9ac3e13d83:0x931066fb603fded1
   - name: >-
-      places/ChIJ0-hMk9otDogRxMI4fi9MsjM/photos/AeeoHcJHNHwJh8aHHv82TTqfsvDQkqkkHmXtxUzbNttzJWoqbIoSAxBIHwOYeyFHhFeTUQI04uUUhTWLXjyUT6hKREOlqTBWnAOc5qvZPCsnzwnsqGmC6iS4OQtszIA8vpZXdCtVN5CfdF8gy2qQHpjm11UvDPDYaAuF7twKf821FEhBO_xQnC6Y6q9daRMyB_-ArQNXmG1GDY4xL_YQXDU5uQ2c2YNybGYGvGqRg9RKgMvGbYQLe7LrI5XSO0DmPBztA-WsxuqmcCiByPGkdE3s6MArqEhIRuIAe0Z1X28sfeCEUinCraKtXpruLW1c7B0C-pm84HSlI6sbnLNpwoJON_BeaUQxZ9pGmuhrZVZ7PCR5s-n-5jQMAVOzEEgVefwbFCNLkbLa1sckHpKMa7ypeslsYw-IM96NMVYeU-YEmHpevA
-    widthPx: 4027
-    heightPx: 2685
-    authorAttributions:
-      - displayName: Kate Moss
-        uri: https://maps.google.com/maps/contrib/117786327425389609206
-        photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocLDpijogE7C3GBvGN7hNi1QfBQvr7sVs5_z1rBdt5ePdwHBaw=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDP-fHRNQ&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDP-fHRNQ!2e10!4m2!3m1!1s0x880e2dda934ce8d3:0x33b24c2f7e38c2c4
-  - name: >-
-      places/ChIJ0-hMk9otDogRxMI4fi9MsjM/photos/AeeoHcLq8LZsUDaK0j4R6gbFGN9rNIkvcgcSXfaDjFSEEozgkVmikt6xVy5s0n1mt175Jhgta8jQjcbHZT8sn2VFsyb-sV_S6lHGIEw1LmMwzZudWjPenRtv_mwGTvQgfhBqnWX2Jqzk7M5171DaC__K5HH9lFAkubh6GwuJZoZvA1mQIQMghFAMX0duONsgT-RyBTl1vvFFhUmpJpoZz8rhkquFs_o9qAMVeKfmV41KNOsuJbDyutmz6GJusM7CYjmGD4N_sUS5SLtVftbd_o3P4ypoaHsws53gfT9TiCXXGxPJRkcLKnC0sSkTaa_Isju0EPrFQvRPHVPG_WmUD8ke2S2xVQV-IYcOVKHzZpYfg6QcL_dTafFU9D8tg2PiZHNBEv2_WHlM_7ErdFs7xLE3FWrvlxW_1_u2UxPKzQYXwLWRUmHQUL0cwVfLG03EgA-v
-    widthPx: 4080
-    heightPx: 3072
-    authorAttributions:
-      - displayName: Belle Lopez
-        uri: https://maps.google.com/maps/contrib/104731732886039479725
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjXJaXXCmJKT3A0h-pVZ5EtckuDukCB_PBRi4MZGRcmKMufnAMyd7w=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAGbzaqOBHxG2fjEc4AA71h&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAGbzaqOBHxG2fjEc4AA71h!2e10!4m2!3m1!1s0x880e2dda934ce8d3:0x33b24c2f7e38c2c4
-  - name: >-
-      places/ChIJ0-hMk9otDogRxMI4fi9MsjM/photos/AeeoHcKA0NV5CwCtw64yBAIV2JjUktKFL2JsQqizNT3kGw_r9gs6uW2ccYd_2-HULDnBCHMPFpN9-FS_wdb4neKkzXxzVgOAlAcyrAQaj8EMTcVXSjt6CVNkb0_ZwK9CD1f_qX4JcW1uGbPmVCdlrXGJEQVDu_H1_4lAkJVH5VQujRCFEtG28HethZwGeFTGOBA9GCKoood-HJZ8dr2g6wUQbzobz24bQt7JLx-ygQFWbI6oKI18qQ5nEkUYN0iFmJ-4nw1zU2SF79HK2AivswQDkgEQc_l8AILz-Xp7dqLFVE5nOe1G4aJj-5QaMLbOZ5OCg7U6vfTrdu_guqtzvQDFevDe6eCdRdpm7RIrOEaj3nW05yk4ZckB-TQFl4vtU-vku6s3Jzku0b1ooY_DfbMbfaQEUbqR3aGpjl5A0rbrnHY
-    widthPx: 4000
-    heightPx: 2252
-    authorAttributions:
-      - displayName: Richard Dudley
-        uri: https://maps.google.com/maps/contrib/115682634611739994856
-        photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocL06Qzgvwp0F7xn3NA5BqxIVX-VPwlMUsDi8Y2G074y0BiIuA=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID959qCXg&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID959qCXg!2e10!4m2!3m1!1s0x880e2dda934ce8d3:0x33b24c2f7e38c2c4
-  - name: >-
-      places/ChIJ0-hMk9otDogRxMI4fi9MsjM/photos/AeeoHcL8rps4LnogQD48Qbbyqv-qCObwa9ZkjDGzY1ulQuAJnnjBRTznPVuJ3-cVqF-L1xQzJWOZRN0bYo2i0ECvf8bMiD6T85uOdvTYm7ciTBZm49Ytap4oFd_pqxiNzKV0i3g9ja1DAQ8ij1QF-6sA5SxQIinb5sP7KS7M5ygF1w8ZZo0DqQDrisId_14hwLMsKND1oLkBCvy97eSUTvLGD-A-yo0c1Jlc5AHwgyF--Gr5OwJlQ04kgc8auL2erHTSW81zidIyGOTybR3L64i8ZHzu8jNKonEEW0vZEFKwwBUt4ZKSyq4JT12TzEOtGHdLfKfFxgRLiBvGDn3VzsTbBKXLtWpDkARfrzboM-ARQ30kBgZXqgWQnd9V9OZu4WBlFrsj3n6jjwGjGG7ifYdL7ZVBm1GRzO-EXcy_a4rhR5GbJw
-    widthPx: 1560
+      places/ChIJgz3hw5osDogR0d4_YPtmEJM/photos/AeeoHcK2t-08nKrEHqjA-ovbSJoRHlTWHoBfFw_DsmvTsmwYNt7W3nL53YdbXK-wiQsZ4VkXJYF02kZsQiP9H03K4Yxi70PUBsh8ej27p9Lv0wo5iCD34v7V5fOLTPrNWv-jw3Z5Yc_dImhuDLWTodXiByKvaDUinoZ-pan1vzedLyv4YdgVCKm2QUlBZ8YzpCkZlu5eGnopekr1nE31ejjQlGAFI3gi7exbrK9WqeZO4b4Asl6Vl11h1AYrvm_f4sQcce0yIwQbLkp4fwRNeOo8hAeDFpU645wXcHexSkXq9lF57H6P5a20k2rRL1r1a8hTp4hqc9bVkdc3A0hT3dMKHiCf9Yl2lOPdHbYzKrOGJ6IzEDjdBaaHKnFatm6ZEnYKUnRbCmLkZRglMcs9Nzvj7F6DCxKjOtAQ4skZAdrFovdZ6g
+    widthPx: 3000
     heightPx: 4000
     authorAttributions:
-      - displayName: Michael C
-        uri: https://maps.google.com/maps/contrib/115081915326665687281
+      - displayName: Brenda Chicoj
+        uri: https://maps.google.com/maps/contrib/107051770114121553313
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjUQMqpuw8n_YUlt3LrtNelz0ZSzHdPZpJjzdm3D-kOouEzRVtPF=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjU--zxSKVbjg8dsr8PYgQqbWx9HvTIHIfEMWUHPXPHEWokwjgBiOA=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICzieWtKg&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC30-GZNg&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICzieWtKg!2e10!4m2!3m1!1s0x880e2dda934ce8d3:0x33b24c2f7e38c2c4
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC30-GZNg!2e10!4m2!3m1!1s0x880e2c9ac3e13d83:0x931066fb603fded1
   - name: >-
-      places/ChIJ0-hMk9otDogRxMI4fi9MsjM/photos/AeeoHcLn5EdCE4l2FwrYsRzfDviMoXxwRpOx7cv6e5k8oo8UMKK8vyVV_3Lye7hQps--pFLtRdT1hehJx_h9-f9VyRQ7gODgclpJquUBAxRS5843iqh7xrnd-CW9AqioNIU5zu0lzhWSR6w1C5GRp92buWXLiU26qYaqfyGKfJf2fg2RuGJsg7PlAc_WudTdmnDkxyD2ac52JxQKTPJKpPHTnKBYlJF4CmOZe47xtqJF-ea8T_tE1Jmk_ZR0qrgdBHx27DlU0bS5FRWKxOTds4zHtPCQdt1gUyWHew5v_UG6RfEJBUEJDtch3jmIPp67KR7aLLzPE4TAwsrqDqPHmUgiQvauHk1nIXW_shDysVMKhroaogriGdyl2dMl_qSwCPPyTdF0PECRI4xOHOOHJnw2CZyWTy8q9ajvOD-yOywozCIyxQ
+      places/ChIJgz3hw5osDogR0d4_YPtmEJM/photos/AeeoHcK5FUAuPkf3Me1w-Dppe814ZD23Emz1g__RtzZFDIJgje9-oUMSc8WjDd73Do-v9uZK2hLMewYyqdhQZbf4ISGQ6dZgwgW45yBzT1xEp5GRT0eF28dOUUM3hiiNFG34ajTIGdlyzyv_XhEtedjxHNMeKEXwkwhim3txr25RSMN1YTHnEobXfkXZDLQfu3g6xrhFMxrTOEpZYpTeEmA8iEyx703cfmOK2Sbh_UPpE2zFLyNyRqCslOcWhBaGkgRxKyejne55o8MsHKh1lb3r2uSjsi8qaZggY4AZSDQiBS5ATMs0hEtmp8yExcvb1m8n01y9ZK37vXB2uvtelHFlGFU9ntXtZf7nGg4tr6VZ82_zs4wP1bhzTrCJJ15esCdhDW4vgCe6678EpUs_9yTjfJ2KWJ0lqWKEYUowqSSHMhfuMA
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
-      - displayName: Jeffrey Glick
-        uri: https://maps.google.com/maps/contrib/110975636969306561286
+      - displayName: Jenna Cryan
+        uri: https://maps.google.com/maps/contrib/116183791204955101032
         photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocKjq1qLsLdcuuDFInPiULA63lkCQywTOjhOa1W_LArhyhXMrQ=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjWA3wFvV44GGYDXZEDN_8rwPeVIOEf3wh9FK9Tktm4pRCyfdHG4FA=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICB1rW3Kg&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICe8pPrDA&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICB1rW3Kg!2e10!4m2!3m1!1s0x880e2dda934ce8d3:0x33b24c2f7e38c2c4
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICe8pPrDA!2e10!4m2!3m1!1s0x880e2c9ac3e13d83:0x931066fb603fded1
   - name: >-
-      places/ChIJ0-hMk9otDogRxMI4fi9MsjM/photos/AeeoHcIYJ3WgG88KlOoBNjmltCkB5V7XbVeWczMDF3ncZ7ab8tvuqDFrzoUhCvxOMRaXEaG_or9uKVoCRn6M8gffe74ap39dut1sivRJCgQuYzFfkncYga4znqsEMlxY63_dFe8NWW8IOwzLoySrn54_vNkPRHx7fotrcYDyaicgqUCKwe8MZDsjRI6swx58lwQCV4N1yIx3yne2K0RXqJFfdxFP65jtlzdHlZ9YB_UbA_CZ2Ulfp4aYFnZIE2QiQBqSjW5KC6johgBfb6aGdBJVqN3HPt_lFQh0i5rvtGJ6qquBqQoiQ35fFHWHnh91ft5iTHIC4oiZeatvNV6N2Eb6H3wSBq2XuabK2y26GEW6ZRB0El6fAKB219NDl4pPU8ufwpl9B_oZxjy5rQ1kjlRHGY1ww_3cBclAOfbbVkT77XKkd80
-    widthPx: 3472
-    heightPx: 4624
+      places/ChIJgz3hw5osDogR0d4_YPtmEJM/photos/AeeoHcKiW2BafQRDXuNHRo3V55WpRAj0QZhDw-InJOQp1L44HZhCgsXqM11PXXFKtRE--apgYbunO4VwsvSTWGHGxAp4kbFqVUsydhyN7jd9XGVSnw4XbQRYA_I-WS1BlX7wO3XM1eWwxC-sHX8LT-ZKbZsqkQlHLzUSbnMEg2Qt84gWKY-wBGtz7QashivjvDJH7GlprYScqDFTbqHLqDEBtkfpSxktxTuV11pHVQxX3r5ZbF2yhMPVVyXQfXIbQGEE-pWzZooBsuPmzCGPZ0GAdbwRTDfVqYXqXb1WCakxGI2k-JwVdnk6z-YA3GMqI9agwBXBSUc3vH4wMa4dJEx7ojlvcJHyTVArAFNFp_93owz-8xOkL0IcifuYVwh8OE8_CywLqJlYO4vuQoyRHv8WXiRcblnUUGLsFeiE56-6MTo
+    widthPx: 4800
+    heightPx: 3599
     authorAttributions:
-      - displayName: Jessica Ali
-        uri: https://maps.google.com/maps/contrib/104589604977794437878
+      - displayName: Michelle Avilés
+        uri: https://maps.google.com/maps/contrib/118408842395998657526
         photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocKQReIkk8mp1AR9-nSYQunutcFa_IOXPhJ7NdrnsKseHMF7edg=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjX8_V2diyWmxp2Qcl87lMh5eOlW84yK9ANzF9D4GW_SO2NfAAcZeg=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICTnLb3rgE&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDjmP6fCQ&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICTnLb3rgE!2e10!4m2!3m1!1s0x880e2dda934ce8d3:0x33b24c2f7e38c2c4
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDjmP6fCQ!2e10!4m2!3m1!1s0x880e2c9ac3e13d83:0x931066fb603fded1
   - name: >-
-      places/ChIJ0-hMk9otDogRxMI4fi9MsjM/photos/AeeoHcLcyannbhCKlXMcp8QM2IKOQumSVHuxAa-7wFwr1IvdZ0HcO2kWPUqK3rdMXhjZEXI_W11yuuZa5OZT7eQt6gjtVnk7d30x4kQ9wQ-qNJ0ZV93-tiCp9yDgso7qfNA5Ov3oKp8iekxvrxMEdAs-aNr8qQM2KVgvXFUI_vT3EsCz3opP6yaLfr7dG3yqF7oF4SuW_-AXm5HDIHMy0lgCn8_cDQfPSO30egV3rcvmAvE_QIDpt-p-QfOCyKo4cSDEBiJ-Hu3JrW8ltssZn0rLq_XgpfhreQ7zc8WEIlypmjkdl92XCqFiOTaQKzlfpLT3eYmE1xgPzWlZxK-nljrLc4j3PWthm4Js5xTfoXug7b40SHcqGhaR8iG9XbZMZ7UyBP2exUMxceJVn5-R_Eaz6xLshncdMdqMjAGlejKW7sOYbcUR
-    widthPx: 3472
-    heightPx: 4624
+      places/ChIJgz3hw5osDogR0d4_YPtmEJM/photos/AeeoHcInRhDpcvkw_egJczcJuKFyxdDFFddLbT7cTsXvCUsX7CdC9dDtRI7zxdX7gSaO6cmh1UtnqdH2drfd1PZC9hEYSGBJUKNVA_EXcBoVznnVBSJD_0RwiCYc0ArP5m5qiBkTo-DIDkJ2tX63FbEYsAz_Sw1C09NowJT-jq75IDp1RaSKB5K0DVA_IBS7eRcBv8ckiP64i-2zdqOus08_R0BJnjwlja77AJDCP6IVbyAcybncHsOFhS3hKejejt101e7COuE6kkE8x8zkUtjda4xiRb7TPLQ3U9Zwk_vQWZmLxpr-4HRcscwg73kcPnrPRYTPe7BaI1ki5g8ySQqfr98kzx3Ty1ZONZyjIpHTtcwOwB2kEe6D1bOl8chX5FRQqn2oJTu13fcREEbbDqTknsYonSrgIZ4ZKhOvxhs1KRRSej2e
+    widthPx: 4000
+    heightPx: 2252
     authorAttributions:
-      - displayName: Jessica Ali
-        uri: https://maps.google.com/maps/contrib/104589604977794437878
+      - displayName: Arnold Cap
+        uri: https://maps.google.com/maps/contrib/106704350709357548086
         photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocKQReIkk8mp1AR9-nSYQunutcFa_IOXPhJ7NdrnsKseHMF7edg=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjWhp1ysjHnKbpIO-Z4iVEHSlS15we6MKbwARzrwBEeJ04P0PuFnIA=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICTnLb37gE&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDqtpSo8gE&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICTnLb37gE!2e10!4m2!3m1!1s0x880e2dda934ce8d3:0x33b24c2f7e38c2c4
-address: 600 N Kingsbury St, Chicago, IL 60654, USA
-street: 600 N Kingsbury St
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDqtpSo8gE!2e10!4m2!3m1!1s0x880e2c9ac3e13d83:0x931066fb603fded1
+address: 1255 S State St, Chicago, IL 60605, USA
+street: 1255 S State St
 city: Chicago
 state: IL
-zip: '60654'
+zip: '60605'
 country: USA
-neighborhood: River North
-latitude: '41.893078'
-longitude: '-87.641438'
+neighborhood: Near South Side
+latitude: '41.866015'
+longitude: '-87.627117'
 accessibility_options:
-  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleEntrance: true
   wheelchairAccessibleSeating: true
 business_status: OPERATIONAL
 name: Kai Sushi
 google_maps_links:
   directionsUri: >-
-    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x880e2dda934ce8d3:0x33b24c2f7e38c2c4!3e0
-  placeUri: https://maps.google.com/?cid=3725123608653644484
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x880e2c9ac3e13d83:0x931066fb603fded1!3e0
+  placeUri: https://maps.google.com/?cid=10597083153040400081
   writeAReviewUri: >-
-    https://www.google.com/maps/place//data=!4m3!3m2!1s0x880e2dda934ce8d3:0x33b24c2f7e38c2c4!12e1
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x880e2c9ac3e13d83:0x931066fb603fded1!12e1
   reviewsUri: >-
-    https://www.google.com/maps/place//data=!4m4!3m3!1s0x880e2dda934ce8d3:0x33b24c2f7e38c2c4!9m1!1b1
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x880e2c9ac3e13d83:0x931066fb603fded1!9m1!1b1
   photosUri: >-
-    https://www.google.com/maps/place//data=!4m3!3m2!1s0x880e2dda934ce8d3:0x33b24c2f7e38c2c4!10e5
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x880e2c9ac3e13d83:0x931066fb603fded1!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 9:00 PM'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 10:30 PM'
+    - 'Saturday: 12:00 – 10:30 PM'
+    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T03:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -177,13 +240,50 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (312) 583-0567
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.5'
+rating_count: 696
+website: http://www.kaisushijapanese.com/
+description: >-
+  Discover Kai Sushi in Chicago, IL$$$Kai Sushi in Chicago, IL, stands out as a
+  welcoming spot for enjoying fresh Japanese cuisine, featuring an assortment of
+  creative rolls and flavorful small plates that cater to various tastes. This
+  casual eatery emphasizes quality ingredients and includes thoughtful
+  vegetarian options, making it a great choice for diverse dining preferences in
+  the heart of the city. With its accessible entrance and seating, it's designed
+  to accommodate everyone looking for a relaxed meal, complemented by a
+  selection of beverages to enhance the experience. Operating with convenient
+  hours throughout the week, it's an ideal destination for those seeking
+  authentic flavors in a lively urban setting, perfect for anyone exploring
+  local sushi options nearby.
+generative_summary: >-
+  Discover Kai Sushi in Chicago, IL$$$Kai Sushi in Chicago, IL, stands out as a
+  welcoming spot for enjoying fresh Japanese cuisine, featuring an assortment of
+  creative rolls and flavorful small plates that cater to various tastes. This
+  casual eatery emphasizes quality ingredients and includes thoughtful
+  vegetarian options, making it a great choice for diverse dining preferences in
+  the heart of the city. With its accessible entrance and seating, it's designed
+  to accommodate everyone looking for a relaxed meal, complemented by a
+  selection of beverages to enhance the experience. Operating with convenient
+  hours throughout the week, it's an ideal destination for those seeking
+  authentic flavors in a lively urban setting, perfect for anyone exploring
+  local sushi options nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Folks who visit this sushi spot often highlight
+  the fresh and tasty rolls, like creative combinations that bring bold flavors
+  to the table, making it a hit for satisfying cravings. Many appreciate the
+  chance to customize their experience with options like bringing their own
+  drinks, adding a personal touch to the meal. Reviewers frequently note the
+  helpful and welcoming service that makes dining out feel effortless and
+  enjoyable, along with fair pricing that keeps things approachable without
+  skimping on quality. Overall, the availability of outdoor seating adds to the
+  charm, offering a pleasant vibe for groups or solo diners looking to unwind,
+  and it's clear that the consistent positives keep people coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -209,7 +309,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

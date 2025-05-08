@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Agami"
+title: Agami
 permalink: /illinois/chicago/agami.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
 seo:
-  name: "Agami"
-  type: Restaurant
+  type: restaurant
   links: http://www.agamisushi.com/
-description: "Chic sushi restaurant dishing creative rolls with a large bar pouring cocktails & Japanese beers. Agami serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, and dinner."
 place_id: ChIJQZNALy3SD4gR0W9TjFPledA
 photos:
   - name: >-
@@ -184,6 +182,29 @@ price_range: $30 &ndash; $50
 rating: '4.5'
 rating_count: 0
 website: http://www.agamisushi.com/
+description: >-
+  Discover Agami in Chicago, IL$$$Agami in Chicago, IL, stands out as a vibrant
+  sushi destination offering a blend of creative rolls and a welcoming
+  atmosphere for all ages. This spot combines casual dining with an array of
+  fresh sushi options, complemented by a selection of beers, cocktails, and
+  wines that enhance the overall experience. Accessibility features like
+  wheelchair-friendly entrances and seating make it easy for everyone to enjoy
+  the inventive menu, while outdoor options add to its appeal on milder days.
+  Whether you're seeking top-rated sushi spots in the area or a relaxed place to
+  unwind, Agami delivers with its kid-friendly vibe and moderate pricing that
+  keeps things approachable yet refined.
+generative_summary: >-
+  Discover Agami in Chicago, IL$$$Agami in Chicago, IL, stands out as a vibrant
+  sushi destination offering a blend of creative rolls and a welcoming
+  atmosphere for all ages. This spot combines casual dining with an array of
+  fresh sushi options, complemented by a selection of beers, cocktails, and
+  wines that enhance the overall experience. Accessibility features like
+  wheelchair-friendly entrances and seating make it easy for everyone to enjoy
+  the inventive menu, while outdoor options add to its appeal on milder days.
+  Whether you're seeking top-rated sushi spots in the area or a relaxed place to
+  unwind, Agami delivers with its kid-friendly vibe and moderate pricing that
+  keeps things approachable yet refined.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJQZNALy3SD4gR0W9TjFPledA/reviews/ChdDSUhNMG9nS0VJQ0FnTURReWItN3h3RRAB
@@ -359,6 +380,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQ1MU9iaGpRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQ1MU9iaGpRRRAB!2m1!1s0x880fd22d2f409341:0xd079e5538c536fd1
+review_summary: >-
+  What Visitors Say About the Sushi$$$Folks rave about the flavorful sushi rolls
+  and creative twists at this Chicago eatery, often highlighting the tasty
+  combinations and solid drink selections that make meals feel special. While
+  most experiences praise the friendly service and vibrant atmosphere, a few
+  mentions note occasional waits that could use some smoothing out, but overall,
+  it's seen as a go-to for groups or casual nights. Customers appreciate the
+  variety of options, like fresh oysters and specialty rolls, that keep things
+  exciting without overwhelming the palate. If you're hunting for the best sushi
+  near you, this place generally hits the mark with its generous portions and
+  inviting vibe, making it a solid choice for anyone in the mood for
+  Japanese-inspired eats.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   valetParking: false
 payment_options:
@@ -389,8 +423,8 @@ serves_lunch: null
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Chic sushi restaurant dishing creative rolls with a large bar pouring
   cocktails & Japanese beers.
 

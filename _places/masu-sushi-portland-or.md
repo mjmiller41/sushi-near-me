@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Masu Sushi"
+title: Masu Sushi
 permalink: /oregon/portland/masu-sushi.html
 stateAbbr: OR
 stateName: Oregon
 cityName: Portland
 seo:
-  name: "Masu Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.masusushi.com/
-description: "Masu Sushi serves delicious sushi in Portland, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJY3UF_QIKlVQRvIlkdcNiFmk
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x54950a02fd057563:0x691662c3756489bc!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 5:00 – 10:00 PM'
     - 'Tuesday: 5:00 – 10:00 PM'
     - 'Wednesday: 5:00 – 10:00 PM'
@@ -178,54 +234,416 @@ opening_hours:
     - 'Friday: 5:00 – 10:00 PM'
     - 'Saturday: 5:00 – 10:00 PM'
     - 'Sunday: 5:00 – 10:00 PM'
-  current:
-    - 'Monday: 5:00 – 10:00 PM'
-    - 'Tuesday: 5:00 – 10:00 PM'
-    - 'Wednesday: 5:00 – 10:00 PM'
-    - 'Thursday: 5:00 – 10:00 PM'
-    - 'Friday: 5:00 – 10:00 PM'
-    - 'Saturday: 5:00 – 10:00 PM'
-    - 'Sunday: 5:00 – 10:00 PM'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: false
+    periods:
+      - open:
+          day: 0
+          hour: 17
+          minute: 0
+        close:
+          day: 0
+          hour: 18
+          minute: 30
+      - open:
+          day: 1
+          hour: 17
+          minute: 0
+        close:
+          day: 1
+          hour: 18
+          minute: 30
+      - open:
+          day: 2
+          hour: 17
+          minute: 0
+        close:
+          day: 2
+          hour: 18
+          minute: 30
+      - open:
+          day: 3
+          hour: 17
+          minute: 0
+        close:
+          day: 3
+          hour: 18
+          minute: 30
+      - open:
+          day: 4
+          hour: 17
+          minute: 0
+        close:
+          day: 4
+          hour: 18
+          minute: 30
+      - open:
+          day: 5
+          hour: 17
+          minute: 0
+        close:
+          day: 5
+          hour: 18
+          minute: 30
+      - open:
+          day: 6
+          hour: 17
+          minute: 0
+        close:
+          day: 6
+          hour: 18
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 5:00 – 6:30 PM'
+      - 'Tuesday: 5:00 – 6:30 PM'
+      - 'Wednesday: 5:00 – 6:30 PM'
+      - 'Thursday: 5:00 – 6:30 PM'
+      - 'Friday: 5:00 – 6:30 PM'
+      - 'Saturday: 5:00 – 6:30 PM'
+      - 'Sunday: 5:00 – 6:30 PM'
+    secondaryHoursType: HAPPY_HOUR
+    nextOpenTime: '2025-05-04T00:00:00Z'
+  - openNow: false
+    periods:
+      - open:
+          day: 0
+          hour: 17
+          minute: 0
+        close:
+          day: 0
+          hour: 21
+          minute: 30
+      - open:
+          day: 1
+          hour: 17
+          minute: 0
+        close:
+          day: 1
+          hour: 21
+          minute: 30
+      - open:
+          day: 2
+          hour: 17
+          minute: 0
+        close:
+          day: 2
+          hour: 21
+          minute: 30
+      - open:
+          day: 3
+          hour: 17
+          minute: 0
+        close:
+          day: 3
+          hour: 21
+          minute: 30
+      - open:
+          day: 4
+          hour: 17
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 30
+      - open:
+          day: 5
+          hour: 17
+          minute: 0
+        close:
+          day: 5
+          hour: 21
+          minute: 30
+      - open:
+          day: 6
+          hour: 17
+          minute: 0
+        close:
+          day: 6
+          hour: 21
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 5:00 – 9:30 PM'
+      - 'Tuesday: 5:00 – 9:30 PM'
+      - 'Wednesday: 5:00 – 9:30 PM'
+      - 'Thursday: 5:00 – 9:30 PM'
+      - 'Friday: 5:00 – 9:30 PM'
+      - 'Saturday: 5:00 – 9:30 PM'
+      - 'Sunday: 5:00 – 9:30 PM'
+    secondaryHoursType: TAKEOUT
+    nextOpenTime: '2025-05-04T00:00:00Z'
 phone: (503) 221-6278
 price_level: PRICE_LEVEL_EXPENSIVE
 price_range: $50 &ndash; $100
 rating: '4.5'
-rating_count: 0
+rating_count: 933
 website: http://www.masusushi.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Masu Sushi in Portland, OR$$$Masu Sushi in Portland, OR, stands out
+  as a modern Japanese dining destination, offering a creative array of fresh
+  sushi and other authentic fare that appeals to those seeking top-rated sushi
+  options nearby. The restaurant features a plush, second-floor setting with a
+  bar that serves specialty cocktails and sake, making it an ideal spot for an
+  upscale yet approachable meal in the heart of the city. Accessibility is a key
+  highlight, with features like wheelchair-accessible entrances and seating
+  ensuring everyone can enjoy the experience comfortably. Patrons can savor
+  inventive dishes that blend traditional flavors with contemporary twists, all
+  set in an atmosphere that balances elegance and relaxation. Whether you're
+  exploring sushi restaurants in Portland or looking for the best sushi near me,
+  this spot delivers a memorable dining adventure with its focus on quality
+  ingredients and thoughtful ambiance.
+generative_summary: >-
+  Discover Masu Sushi in Portland, OR$$$Masu Sushi in Portland, OR, stands out
+  as a modern Japanese dining destination, offering a creative array of fresh
+  sushi and other authentic fare that appeals to those seeking top-rated sushi
+  options nearby. The restaurant features a plush, second-floor setting with a
+  bar that serves specialty cocktails and sake, making it an ideal spot for an
+  upscale yet approachable meal in the heart of the city. Accessibility is a key
+  highlight, with features like wheelchair-accessible entrances and seating
+  ensuring everyone can enjoy the experience comfortably. Patrons can savor
+  inventive dishes that blend traditional flavors with contemporary twists, all
+  set in an atmosphere that balances elegance and relaxation. Whether you're
+  exploring sushi restaurants in Portland or looking for the best sushi near me,
+  this spot delivers a memorable dining adventure with its focus on quality
+  ingredients and thoughtful ambiance.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJY3UF_QIKlVQRvIlkdcNiFmk/reviews/ChZDSUhNMG9nS0VJQ0FnTURvMWJyaVJ3EAE
+    relativePublishTimeDescription: in the last week
+    rating: 5
+    text:
+      text: >-
+        This place is amazing! The food is absolutely delicious with a lot of
+        variety. The service is outstanding — everyone is so polite and kind.
+        Emily, who served us, was especially wonderful; she made us feel so
+        comfortable and welcome. I definitely recommend this place for a great
+        experience!
+      languageCode: en
+    originalText:
+      text: >-
+        This place is amazing! The food is absolutely delicious with a lot of
+        variety. The service is outstanding — everyone is so polite and kind.
+        Emily, who served us, was especially wonderful; she made us feel so
+        comfortable and welcome. I definitely recommend this place for a great
+        experience!
+      languageCode: en
+    authorAttribution:
+      displayName: Liza Summers
+      uri: https://www.google.com/maps/contrib/102169397439794562843/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVGEDFkQuQJ4Zm9MfCjayhF7Z1TfVkt8sejRj-htjOzVAXFlvmW=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-27T06:27:42.888646Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURvMWJyaVJ3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURvMWJyaVJ3EAE!2m1!1s0x54950a02fd057563:0x691662c3756489bc
+  - name: >-
+      places/ChIJY3UF_QIKlVQRvIlkdcNiFmk/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3a1BQMnZRRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Masu is one of my favorite sushi restaurants in the Portland Metro area.
+        We got referred to Masu after telling someone we intended to go to
+        Janken to celebrate a birthday. I recently moved to Portland from
+        Vancouver, BC, and have been trying to find a solid sushi restaurant at
+        a reasonable price. This, I find, is something that Portland lacks in
+        comparison to Vancouver, BC. However, I found that Masu is on par with a
+        lot of the best sushi restaurants located in Vancouver, BC.
+
+
+        Located in the heart of downtown Portland’s Pearl District, Masu did not
+        disappoint. The food was amazing, the fish was fresh and all at
+        reasonable price. Masu is also much less busier than Janken. The drinks
+        and atmosphere was not a flamboyant as Jankens but, the food itself was
+        much better and a more reasonable price. If you are a sushi lover and
+        are in Portland, I highly recommend trying Masu.
+      languageCode: en
+    originalText:
+      text: >-
+        Masu is one of my favorite sushi restaurants in the Portland Metro area.
+        We got referred to Masu after telling someone we intended to go to
+        Janken to celebrate a birthday. I recently moved to Portland from
+        Vancouver, BC, and have been trying to find a solid sushi restaurant at
+        a reasonable price. This, I find, is something that Portland lacks in
+        comparison to Vancouver, BC. However, I found that Masu is on par with a
+        lot of the best sushi restaurants located in Vancouver, BC.
+
+
+        Located in the heart of downtown Portland’s Pearl District, Masu did not
+        disappoint. The food was amazing, the fish was fresh and all at
+        reasonable price. Masu is also much less busier than Janken. The drinks
+        and atmosphere was not a flamboyant as Jankens but, the food itself was
+        much better and a more reasonable price. If you are a sushi lover and
+        are in Portland, I highly recommend trying Masu.
+      languageCode: en
+    authorAttribution:
+      displayName: Michael Lisowsky
+      uri: https://www.google.com/maps/contrib/110663408066792707326/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWlxE8psP1mqEX2bQl1LEZiZstU8bkc5PDW1ThpmlJIsR_w0FU=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-03-22T19:18:54.991258Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUR3a1BQMnZRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUR3a1BQMnZRRRAB!2m1!1s0x54950a02fd057563:0x691662c3756489bc
+  - name: >-
+      places/ChIJY3UF_QIKlVQRvIlkdcNiFmk/reviews/ChdDSUhNMG9nS0VJQ0FnTUNBN3JhQ3dnRRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        We had a great time here; was catching a show at Crystal Ballroom so
+        decided to have dinner here before the show. We ordered several
+        different dishes; Japonista, Lioness, tempura, St Helen’s Volcano, even
+        tried the Uni (which was harvested from my hometown Santa Barbara).
+        Topped it off with the Sweet Potato cake. The service we received was
+        fine, nobody was rude to us and we never felt ignored. The guy who was
+        at the bar even brought us a seaweed salad and said it was on the house!
+        We will definitely come back and try some of their other dishes.
+      languageCode: en
+    originalText:
+      text: >-
+        We had a great time here; was catching a show at Crystal Ballroom so
+        decided to have dinner here before the show. We ordered several
+        different dishes; Japonista, Lioness, tempura, St Helen’s Volcano, even
+        tried the Uni (which was harvested from my hometown Santa Barbara).
+        Topped it off with the Sweet Potato cake. The service we received was
+        fine, nobody was rude to us and we never felt ignored. The guy who was
+        at the bar even brought us a seaweed salad and said it was on the house!
+        We will definitely come back and try some of their other dishes.
+      languageCode: en
+    authorAttribution:
+      displayName: M S M
+      uri: https://www.google.com/maps/contrib/104895818783739449041/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWE5-a-YWxxr97AI_izwTgfimHQuNB3dmHnIKe_Q424McOhMMQCNA=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-02-01T02:15:19.545724Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNBN3JhQ3dnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNBN3JhQ3dnRRAB!2m1!1s0x54950a02fd057563:0x691662c3756489bc
+  - name: >-
+      places/ChIJY3UF_QIKlVQRvIlkdcNiFmk/reviews/ChZDSUhNMG9nS0VJQ0FnSUNQNlpMaUFREAE
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        This is my favorite upscale sushi place! The food is delicious and the
+        flavor combinations of the rolls are inventive. Ambiance is great. It
+        has a romantic lounge vibe with soft lighting, and it's quiet enough to
+        make conversation easily. The servers are knowledgeable about the menu
+        and can make good recommendations. It's also one of the few sushi places
+        I've seen that consistently has blue fin tuna! The otoro is my favorite.
+        Highly recommend!
+      languageCode: en
+    originalText:
+      text: >-
+        This is my favorite upscale sushi place! The food is delicious and the
+        flavor combinations of the rolls are inventive. Ambiance is great. It
+        has a romantic lounge vibe with soft lighting, and it's quiet enough to
+        make conversation easily. The servers are knowledgeable about the menu
+        and can make good recommendations. It's also one of the few sushi places
+        I've seen that consistently has blue fin tuna! The otoro is my favorite.
+        Highly recommend!
+      languageCode: en
+    authorAttribution:
+      displayName: Eryk Woods
+      uri: https://www.google.com/maps/contrib/111101140555436902632/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWavFIXaLUXJKRj0TxK5Tnr3eGe-L1l4fv2ZnOY8HJpRahad-IW2A=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-11-25T21:55:22.986805Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNQNlpMaUFREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNQNlpMaUFREAE!2m1!1s0x54950a02fd057563:0x691662c3756489bc
+  - name: >-
+      places/ChIJY3UF_QIKlVQRvIlkdcNiFmk/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfX0tqZHhRRRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        What really sets Masu apart is their desserts! As one of the few
+        Japanese restaurants in the area offering such unique and delicious
+        sweet options, they never disappoint. I always make room for dessert
+        after enjoying an array of nigiri and a refreshing salad, both of which
+        are equally satisfying. If you're a type who appreciates good design,
+        Masu's timeless restaurant interior is definitely worth checking out as
+        well.
+      languageCode: en
+    originalText:
+      text: >-
+        What really sets Masu apart is their desserts! As one of the few
+        Japanese restaurants in the area offering such unique and delicious
+        sweet options, they never disappoint. I always make room for dessert
+        after enjoying an array of nigiri and a refreshing salad, both of which
+        are equally satisfying. If you're a type who appreciates good design,
+        Masu's timeless restaurant interior is definitely worth checking out as
+        well.
+      languageCode: en
+    authorAttribution:
+      displayName: Musubi
+      uri: https://www.google.com/maps/contrib/112459008173111948661/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUB8cCctUJkbwnhNs535Ta49Li0bC-pBm8ITl6hzFmmJHn-f1r0=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-01-14T03:38:06.185956Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNfX0tqZHhRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNfX0tqZHhRRRAB!2m1!1s0x54950a02fd057563:0x691662c3756489bc
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this popular sushi spot often praise
+  the fresh and creative rolls that bring a delightful variety to the menu,
+  making it a go-to choice for anyone craving quality Japanese cuisine. Many
+  appreciate the welcoming service and comfortable vibe that enhance the overall
+  meal, with comments highlighting how the staff's attentiveness adds to the
+  enjoyment without feeling overwhelming. Feedback frequently notes the
+  reasonable pricing for such high-quality dishes, especially when compared to
+  other local options, helping it stand out as a solid pick for groups or
+  special occasions. Desserts and unique offerings like nigiri receive high
+  marks for their innovative flavors, contributing to a consistently positive
+  experience. Overall, if you're on the hunt for reliable sushi places near me,
+  the consensus is that this location delivers a satisfying and enjoyable visit
+  that's worth returning for.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: false
+  paidParkingLot: true
+  paidStreetParking: true
+  valetParking: false
+  freeGarageParking: false
+  paidGarageParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: true
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
 serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Fresh fish & updated Japanese fare served in a plush 2nd-floor spot that has a
+  bar offering artisan sake.
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Katsu-ya"
+title: Sushi Katsu-ya
 permalink: /washington/seattle/sushi-katsu-ya.html
 stateAbbr: WA
 stateName: Washington
 cityName: Seattle
 seo:
-  name: "Sushi Katsu-ya"
-  type: Restaurant
+  type: restaurant
   links: http://katsu-yagroup.com/
-description: "Sushi Katsu-ya serves delicious sushi in Seattle, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJBV8Qe9wVkFQRfpwZ8B2ERw4
 photos:
   - name: >-
@@ -169,7 +167,113 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x549015dc7b105f05:0xe47841df0199c7e!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 16
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 14
+        minute: 30
+    - open:
+        day: 6
+        hour: 16
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
     - 'Tuesday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
     - 'Wednesday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
@@ -177,28 +281,220 @@ opening_hours:
     - 'Friday: 11:30 AM – 2:30 PM, 5:00 – 10:00 PM'
     - 'Saturday: 11:30 AM – 2:30 PM, 4:00 – 10:00 PM'
     - 'Sunday: 4:00 – 9:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
-    - 'Tuesday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
-    - 'Wednesday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
-    - 'Thursday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
-    - 'Friday: 11:30 AM – 2:30 PM, 5:00 – 10:00 PM'
-    - 'Saturday: 11:30 AM – 2:30 PM, 4:00 – 10:00 PM'
-    - 'Sunday: 4:00 – 9:00 PM'
+  nextOpenTime: '2025-05-03T23:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: false
+    periods:
+      - open:
+          day: 1
+          hour: 17
+          minute: 0
+        close:
+          day: 1
+          hour: 18
+          minute: 0
+      - open:
+          day: 2
+          hour: 17
+          minute: 0
+        close:
+          day: 2
+          hour: 18
+          minute: 0
+      - open:
+          day: 3
+          hour: 17
+          minute: 0
+        close:
+          day: 3
+          hour: 18
+          minute: 0
+      - open:
+          day: 4
+          hour: 17
+          minute: 0
+        close:
+          day: 4
+          hour: 18
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 5:00 – 6:00 PM'
+      - 'Tuesday: 5:00 – 6:00 PM'
+      - 'Wednesday: 5:00 – 6:00 PM'
+      - 'Thursday: 5:00 – 6:00 PM'
+      - 'Friday: Closed'
+      - 'Saturday: Closed'
+      - 'Sunday: Closed'
+    secondaryHoursType: HAPPY_HOUR
+    nextOpenTime: '2025-05-06T00:00:00Z'
+  - openNow: true
+    periods:
+      - open:
+          day: 2
+          hour: 11
+          minute: 30
+        close:
+          day: 2
+          hour: 21
+          minute: 30
+      - open:
+          day: 3
+          hour: 11
+          minute: 30
+        close:
+          day: 3
+          hour: 21
+          minute: 30
+      - open:
+          day: 4
+          hour: 11
+          minute: 30
+        close:
+          day: 4
+          hour: 21
+          minute: 30
+      - open:
+          day: 5
+          hour: 11
+          minute: 30
+        close:
+          day: 5
+          hour: 22
+          minute: 0
+      - open:
+          day: 6
+          hour: 11
+          minute: 30
+        close:
+          day: 6
+          hour: 22
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: Closed'
+      - 'Tuesday: 11:30 AM – 9:30 PM'
+      - 'Wednesday: 11:30 AM – 9:30 PM'
+      - 'Thursday: 11:30 AM – 9:30 PM'
+      - 'Friday: 11:30 AM – 10:00 PM'
+      - 'Saturday: 11:30 AM – 10:00 PM'
+      - 'Sunday: Closed'
+    secondaryHoursType: DELIVERY
+    nextCloseTime: '2025-05-04T05:00:00Z'
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 11
+          minute: 30
+        close:
+          day: 0
+          hour: 21
+          minute: 30
+      - open:
+          day: 1
+          hour: 11
+          minute: 30
+        close:
+          day: 1
+          hour: 21
+          minute: 30
+      - open:
+          day: 2
+          hour: 11
+          minute: 30
+        close:
+          day: 2
+          hour: 21
+          minute: 30
+      - open:
+          day: 3
+          hour: 11
+          minute: 30
+        close:
+          day: 3
+          hour: 21
+          minute: 30
+      - open:
+          day: 4
+          hour: 11
+          minute: 30
+        close:
+          day: 4
+          hour: 21
+          minute: 30
+      - open:
+          day: 5
+          hour: 11
+          minute: 30
+        close:
+          day: 5
+          hour: 22
+          minute: 0
+      - open:
+          day: 6
+          hour: 11
+          minute: 30
+        close:
+          day: 6
+          hour: 22
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 11:30 AM – 9:30 PM'
+      - 'Tuesday: 11:30 AM – 9:30 PM'
+      - 'Wednesday: 11:30 AM – 9:30 PM'
+      - 'Thursday: 11:30 AM – 9:30 PM'
+      - 'Friday: 11:30 AM – 10:00 PM'
+      - 'Saturday: 11:30 AM – 10:00 PM'
+      - 'Sunday: 11:30 AM – 9:30 PM'
+    secondaryHoursType: TAKEOUT
+    nextCloseTime: '2025-05-04T05:00:00Z'
 phone: (206) 580-0080
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.4'
-rating_count: 0
+rating_count: 465
 website: http://katsu-yagroup.com/
+description: >-
+  Explore Sushi Katsu-ya in Seattle, WA$$$Sushi Katsu-ya in Seattle, WA, offers
+  a welcoming spot for enjoying fresh Japanese flavors, making it a go-to choice
+  for those seeking sushi restaurants in the area. This casual eatery
+  specializes in a range of sashimi, nigiri, and creative specialty rolls,
+  complemented by selections of beer and sake to enhance the dining experience.
+  With its convenient location in the vibrant South Lake Union neighborhood,
+  it's ideal for locals and visitors looking for top-rated sushi options close
+  to downtown attractions. The restaurant also prioritizes accessibility,
+  featuring wheelchair-friendly entrances and seating, ensuring everyone can
+  savor its authentic tastes. Whether you're in the mood for a quick lunch or an
+  evening out, this spot delivers a relaxed vibe paired with high-quality
+  ingredients that highlight the best of Japanese culinary traditions.
+generative_summary: >-
+  Explore Sushi Katsu-ya in Seattle, WA$$$Sushi Katsu-ya in Seattle, WA, offers
+  a welcoming spot for enjoying fresh Japanese flavors, making it a go-to choice
+  for those seeking sushi restaurants in the area. This casual eatery
+  specializes in a range of sashimi, nigiri, and creative specialty rolls,
+  complemented by selections of beer and sake to enhance the dining experience.
+  With its convenient location in the vibrant South Lake Union neighborhood,
+  it's ideal for locals and visitors looking for top-rated sushi options close
+  to downtown attractions. The restaurant also prioritizes accessibility,
+  featuring wheelchair-friendly entrances and seating, ensuring everyone can
+  savor its authentic tastes. Whether you're in the mood for a quick lunch or an
+  evening out, this spot delivers a relaxed vibe paired with high-quality
+  ingredients that highlight the best of Japanese culinary traditions.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Buzz Around the Reviews$$$Visitors to this sushi spot often rave about the
+  consistently fresh and flavorful dishes, with many highlighting the variety of
+  rolls as a standout feature that keeps them coming back. Feedback frequently
+  notes the friendly service and cozy atmosphere, making it a solid pick for
+  casual meals or group outings, though some mention occasional waits during
+  peak hours. Overall, the high rating reflects a general satisfaction with the
+  quality and value, especially for those exploring Japanese places near them on
+  a moderate budget. Diners appreciate the beer and sake pairings that add to
+  the fun, and while not every experience is flawless, the positives far
+  outweigh any minor hiccups. If you're hunting for reliable sushi options in
+  Seattle, this place seems to hit the mark for a satisfying and enjoyable
+  visit.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -224,7 +520,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Lotus Fusion"
+title: Lotus Fusion
 permalink: /california/sacramento/lotus-fusion.html
 stateAbbr: CA
 stateName: California
 cityName: Sacramento
 seo:
-  name: "Lotus Fusion"
-  type: Restaurant
+  type: restaurant
   links: http://www.lotusfusionsacramento.com/?utm_source=gmb&utm_medium=website
-description: "Lotus Fusion serves delicious sushi in Sacramento, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJYwiiOfvWmoARGVAz70AZFEk
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x809ad6fb39a20863:0x49141940ef335019!10e5
 primary_type: Chinese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:00 PM'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:30 PM'
     - 'Saturday: 11:00 AM – 9:30 PM'
     - 'Sunday: 11:00 AM – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 9:30 PM'
-    - 'Saturday: 11:00 AM – 9:30 PM'
-    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T04:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,220 @@ phone: (916) 920-3300
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.1'
-rating_count: 0
+rating_count: 295
 website: http://www.lotusfusionsacramento.com/?utm_source=gmb&utm_medium=website
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  About Lotus Fusion in Sacramento, CA$$$Lotus Fusion in Sacramento, CA, is a
+  casual eatery blending Chinese and Japanese flavors, offering a relaxed
+  atmosphere perfect for enjoying pan-Asian cuisine. With its focus on fresh
+  ingredients and a variety of dishes like sushi options, this spot stands out
+  for its accessibility features and welcoming vibe in a convenient strip-mall
+  location. Visitors can savor generous portions at moderate prices, making it a
+  great choice for those seeking Japanese places near me with a mix of
+  traditional and fusion elements. The menu highlights include flavorful
+  selections that pair well with happy hour deals, ensuring a satisfying meal
+  for individuals or groups. Overall, it's an ideal destination for anyone
+  exploring top-rated sushi restaurants in the area that emphasize quality and
+  affordability.
+generative_summary: >-
+  About Lotus Fusion in Sacramento, CA$$$Lotus Fusion in Sacramento, CA, is a
+  casual eatery blending Chinese and Japanese flavors, offering a relaxed
+  atmosphere perfect for enjoying pan-Asian cuisine. With its focus on fresh
+  ingredients and a variety of dishes like sushi options, this spot stands out
+  for its accessibility features and welcoming vibe in a convenient strip-mall
+  location. Visitors can savor generous portions at moderate prices, making it a
+  great choice for those seeking Japanese places near me with a mix of
+  traditional and fusion elements. The menu highlights include flavorful
+  selections that pair well with happy hour deals, ensuring a satisfying meal
+  for individuals or groups. Overall, it's an ideal destination for anyone
+  exploring top-rated sushi restaurants in the area that emphasize quality and
+  affordability.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJYwiiOfvWmoARGVAz70AZFEk/reviews/ChZDSUhNMG9nS0VJQ0FnSURubFp5ZlpBEAE
+    relativePublishTimeDescription: 6 months ago
+    rating: 5
+    text:
+      text: >-
+        Kai was my server. First of all, this restaurants veggies are crisps,
+        tasty, and just great tasting vegetables. Man, oh man, we ate the family
+        meal deal, and it was super filling. Yous hear me!
+
+        No soggy food, no soggy veggies, great service, and KAI was phenomenal
+        as a server! Boom, Bam, AWESOMENESS all around! Plus, the price was
+        right for being in California and all!!!!!
+      languageCode: en
+    originalText:
+      text: >-
+        Kai was my server. First of all, this restaurants veggies are crisps,
+        tasty, and just great tasting vegetables. Man, oh man, we ate the family
+        meal deal, and it was super filling. Yous hear me!
+
+        No soggy food, no soggy veggies, great service, and KAI was phenomenal
+        as a server! Boom, Bam, AWESOMENESS all around! Plus, the price was
+        right for being in California and all!!!!!
+      languageCode: en
+    authorAttribution:
+      displayName: michael mason
+      uri: https://www.google.com/maps/contrib/106151506675746121707/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJfCkY3dUxukdWo_rzExGDAEaeriIVtp0TN3QIP8ATulvmN1A=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-10-08T04:27:17.318952Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURubFp5ZlpBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURubFp5ZlpBEAE!2m1!1s0x809ad6fb39a20863:0x49141940ef335019
+  - name: >-
+      places/ChIJYwiiOfvWmoARGVAz70AZFEk/reviews/ChZDSUhNMG9nS0VJQ0FnTUNvXzVUbFd3EAE
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        Great portions. Good Chinese Food. Good review from a Chinese guy that
+        knows his Chinese food.
+      languageCode: en
+    originalText:
+      text: >-
+        Great portions. Good Chinese Food. Good review from a Chinese guy that
+        knows his Chinese food.
+      languageCode: en
+    authorAttribution:
+      displayName: Garland Lew
+      uri: https://www.google.com/maps/contrib/104103328537856822406/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUB2RLam7Wng71LcXt6MXFh1MEzs67gCbPcYGzmZl09hdz3RLM7=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-21T04:04:02.461191Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNvXzVUbFd3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNvXzVUbFd3EAE!2m1!1s0x809ad6fb39a20863:0x49141940ef335019
+  - name: >-
+      places/ChIJYwiiOfvWmoARGVAz70AZFEk/reviews/ChZDSUhNMG9nS0VJQ0FnSUMzcExmcGRREAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Workers here are all nice. The place very clean and comfortable. I love
+        the grill salmon, very juicy and tender, and you can never go wrong with
+        the chicken wings. Sea food rice noodle was also great, shrimps are very
+        fresh.
+      languageCode: en
+    originalText:
+      text: >-
+        Workers here are all nice. The place very clean and comfortable. I love
+        the grill salmon, very juicy and tender, and you can never go wrong with
+        the chicken wings. Sea food rice noodle was also great, shrimps are very
+        fresh.
+      languageCode: en
+    authorAttribution:
+      displayName: Wynn Wen
+      uri: https://www.google.com/maps/contrib/113482833223211094778/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLRdzImZ3p1yLHJ8rGPJyXxNi1bWI4IJY8g5ySmN61lulxr0Q=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-16T23:15:35.421020Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUMzcExmcGRREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUMzcExmcGRREAE!2m1!1s0x809ad6fb39a20863:0x49141940ef335019
+  - name: >-
+      places/ChIJYwiiOfvWmoARGVAz70AZFEk/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJN2NlRGxRRRAB
+    relativePublishTimeDescription: 4 weeks ago
+    rating: 5
+    text:
+      text: >-
+        This place is always awesome. Excellent food with large portions, all at
+        a reasonable price. The service is fast and friendly. We eat here often!
+      languageCode: en
+    originalText:
+      text: >-
+        This place is always awesome. Excellent food with large portions, all at
+        a reasonable price. The service is fast and friendly. We eat here often!
+      languageCode: en
+    authorAttribution:
+      displayName: Dominick Kociemba
+      uri: https://www.google.com/maps/contrib/115377831800879123926/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWCgImgUMJ-6Mrbo_jUvhZrMq97apJhweDhtHQ6z_MHtzeYJZ8_=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-04T02:05:53.606999Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNJN2NlRGxRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNJN2NlRGxRRRAB!2m1!1s0x809ad6fb39a20863:0x49141940ef335019
+  - name: >-
+      places/ChIJYwiiOfvWmoARGVAz70AZFEk/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3dE52TnV3RRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Great food here! All the ingredients are fresh and food is freshly made,
+        warm and steaming when they were served. Will definitely come back and
+        strongly recommend
+      languageCode: en
+    originalText:
+      text: >-
+        Great food here! All the ingredients are fresh and food is freshly made,
+        warm and steaming when they were served. Will definitely come back and
+        strongly recommend
+      languageCode: en
+    authorAttribution:
+      displayName: Demi Lei
+      uri: https://www.google.com/maps/contrib/111554502821358196729/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocL3pW6DjGiLllQXuxRNxcG3jyDGiJ_mRDkDn80Y23IeroSWNg=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-03-16T23:09:55.726851Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUN3dE52TnV3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUN3dE52TnV3RRAB!2m1!1s0x809ad6fb39a20863:0x49141940ef335019
+review_summary: >-
+  What Reviewers Are Raving About$$$Folks seem to really enjoy the hearty
+  portions and fresh flavors at this spot, with many highlighting the tasty
+  veggies and well-prepared dishes that hit the spot every time. Comments often
+  praise the overall value, noting that meals feel satisfying and reasonably
+  priced without skimping on quality. Service comes across as friendly and
+  efficient, adding to the comfortable dining experience that keeps people
+  coming back for favorites like juicy salmon and fresh seafood options. It's
+  clear that the combination of warm, steaming food and a clean environment
+  makes for a reliably positive visit, even if you're just stopping by for a
+  quick bite. All in all, if you're on the hunt for sushi places near me, this
+  location delivers a solid, enjoyable meal that lives up to the buzz.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
+curbside_pickup: true
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
 good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: false
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Strip-mall establishment providing a variety of familiar Pan-Asian dishes in a
+  relaxed atmosphere.
 
 ---

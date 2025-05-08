@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yohei Sushi Restaurant"
+title: Yohei Sushi Restaurant
 permalink: /hawaii/honolulu/yohei-sushi-restaurant.html
 stateAbbr: HI
 stateName: Hawaii
 cityName: Honolulu
 seo:
-  name: "Yohei Sushi Restaurant"
-  type: Restaurant
+  type: restaurant
   links: http://www.yoheisushi.com/
-description: "Yohei Sushi Restaurant serves delicious sushi in Honolulu, Hawaii. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJt1HpumVuAHwRj79yRZ3-OPo
 photos:
   - name: >-
@@ -170,7 +168,105 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x7c006e65bae951b7:0xfa38fe9d4572bf8f!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 13
+        minute: 45
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 13
+        minute: 45
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 13
+        minute: 45
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 13
+        minute: 45
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 13
+        minute: 45
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 13
+        minute: 45
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 1:45 PM, 5:00 – 9:00 PM'
     - 'Tuesday: 11:00 AM – 1:45 PM, 5:00 – 9:00 PM'
     - 'Wednesday: 11:00 AM – 1:45 PM, 5:00 – 9:00 PM'
@@ -178,14 +274,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 1:45 PM, 5:00 – 9:00 PM'
     - 'Saturday: 11:00 AM – 1:45 PM, 5:00 – 9:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:00 AM – 1:45 PM, 5:00 – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 1:45 PM, 5:00 – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 1:45 PM, 5:00 – 9:00 PM'
-    - 'Thursday: 11:00 AM – 1:45 PM, 5:00 – 9:00 PM'
-    - 'Friday: 11:00 AM – 1:45 PM, 5:00 – 9:00 PM'
-    - 'Saturday: 11:00 AM – 1:45 PM, 5:00 – 9:00 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-03T23:45:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +286,241 @@ phone: (808) 841-3773
 price_level: PRICE_LEVEL_MODERATE
 price_range: $30 &ndash; $50
 rating: '4.5'
-rating_count: 0
+rating_count: 332
 website: http://www.yoheisushi.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Yohei Sushi Restaurant in Honolulu, HI$$$Nestled in the heart of
+  Honolulu, HI, Yohei Sushi Restaurant offers an authentic taste of Japanese
+  cuisine that highlights fresh sushi and tempura in a welcoming atmosphere.
+  This spot stands out for its creative twists on traditional dishes, served in
+  a simple yet inviting setting that makes it ideal for casual dining or special
+  occasions. With options ranging from classic comfort foods to inventive
+  specialties, it's a go-to choice for those seeking quality Japanese fare close
+  to home. The restaurant's accessibility features, like wheelchair-friendly
+  entrances and seating, ensure everyone can enjoy the experience, while its
+  moderate pricing adds to the appeal for locals and visitors exploring sushi
+  options in the area.
+generative_summary: >-
+  Discover Yohei Sushi Restaurant in Honolulu, HI$$$Nestled in the heart of
+  Honolulu, HI, Yohei Sushi Restaurant offers an authentic taste of Japanese
+  cuisine that highlights fresh sushi and tempura in a welcoming atmosphere.
+  This spot stands out for its creative twists on traditional dishes, served in
+  a simple yet inviting setting that makes it ideal for casual dining or special
+  occasions. With options ranging from classic comfort foods to inventive
+  specialties, it's a go-to choice for those seeking quality Japanese fare close
+  to home. The restaurant's accessibility features, like wheelchair-friendly
+  entrances and seating, ensure everyone can enjoy the experience, while its
+  moderate pricing adds to the appeal for locals and visitors exploring sushi
+  options in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJt1HpumVuAHwRj79yRZ3-OPo/reviews/ChZDSUhNMG9nS0VJQ0FnTUNvLTk2aEdBEAE
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: |-
+        First time visit for a lunch.
+
+        Friendly service, quality Japanese food was served.
+
+        Everything we had was authentic taste to japan. We will be back!
+      languageCode: en
+    originalText:
+      text: |-
+        First time visit for a lunch.
+
+        Friendly service, quality Japanese food was served.
+
+        Everything we had was authentic taste to japan. We will be back!
+      languageCode: en
+    authorAttribution:
+      displayName: Justine LaLa Story
+      uri: https://www.google.com/maps/contrib/113814667837749216693/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXDh-q5Md442w-JoB5sYmIj_DrETeA4VJGj_FFP89ct0sjL8Y2c=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2025-04-20T08:51:58.338640Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNvLTk2aEdBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNvLTk2aEdBEAE!2m1!1s0x7c006e65bae951b7:0xfa38fe9d4572bf8f
+  - name: >-
+      places/ChIJt1HpumVuAHwRj79yRZ3-OPo/reviews/ChZDSUhNMG9nS0VJQ0FnTURBaXNUeWZREAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        From the moment I walked in, the service was outstanding—the staff was
+        attentive, ensuring my tea and water were always full without me having
+        to ask. The presentation of each dish was stunning, showcasing the
+        chef’s artistry and attention to detail. Every bite was fresh and
+        flavorful, making for a truly enjoyable meal.
+
+
+        However, I wouldn’t recommend the meat options, as I found them lacking
+        in flavor compared to the rest of the menu. That being said, everything
+        else was delicious, and the ambiance made for a relaxing and enjoyable
+        dining experience. If you’re looking for beautifully plated sushi with
+        top-notch service, this is definitely a spot worth visiting!
+      languageCode: en
+    originalText:
+      text: >-
+        From the moment I walked in, the service was outstanding—the staff was
+        attentive, ensuring my tea and water were always full without me having
+        to ask. The presentation of each dish was stunning, showcasing the
+        chef’s artistry and attention to detail. Every bite was fresh and
+        flavorful, making for a truly enjoyable meal.
+
+
+        However, I wouldn’t recommend the meat options, as I found them lacking
+        in flavor compared to the rest of the menu. That being said, everything
+        else was delicious, and the ambiance made for a relaxing and enjoyable
+        dining experience. If you’re looking for beautifully plated sushi with
+        top-notch service, this is definitely a spot worth visiting!
+      languageCode: en
+    authorAttribution:
+      displayName: J B
+      uri: https://www.google.com/maps/contrib/104921365842254462811/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWwDd0wctvdWrLtrkO_mrK8PuC6zTefX4S19FVYUO5xzH1ctDCH=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-02-08T02:46:22.174320Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURBaXNUeWZREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURBaXNUeWZREAE!2m1!1s0x7c006e65bae951b7:0xfa38fe9d4572bf8f
+  - name: >-
+      places/ChIJt1HpumVuAHwRj79yRZ3-OPo/reviews/ChdDSUhNMG9nS0VJQ0FnTUNvMHF1MDN3RRAB
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        Traditional style Japanese restaurant with wide selection of dishes for
+        everyone. Service is friendly and quick. Excellent rice quality.
+        Generous portions of bento sets. Would come back again to try more
+        items!
+      languageCode: en
+    originalText:
+      text: >-
+        Traditional style Japanese restaurant with wide selection of dishes for
+        everyone. Service is friendly and quick. Excellent rice quality.
+        Generous portions of bento sets. Would come back again to try more
+        items!
+      languageCode: en
+    authorAttribution:
+      displayName: Eric Ozrelic
+      uri: https://www.google.com/maps/contrib/104724904477246524445/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIB-DhDknT7pDgdEukSnJHS02uUXS6BuaFNfwW8Q-vCO3-zjWfi=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-16T00:52:06.413156Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNvMHF1MDN3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNvMHF1MDN3RRAB!2m1!1s0x7c006e65bae951b7:0xfa38fe9d4572bf8f
+  - name: >-
+      places/ChIJt1HpumVuAHwRj79yRZ3-OPo/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3b2FTalhBEAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        One of our favorite restaurants in Honolulu! We love the variety. The
+        eel (Unadon) is especially delicious.
+      languageCode: en
+    originalText:
+      text: >-
+        One of our favorite restaurants in Honolulu! We love the variety. The
+        eel (Unadon) is especially delicious.
+      languageCode: en
+    authorAttribution:
+      displayName: Jane Qian
+      uri: https://www.google.com/maps/contrib/114955435285304401359/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUGjQyFpV1v48Ul4N0W3zj0S9pZLOZV820Jh4y80avpQepta_Io=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-03-19T09:14:35.484046Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUN3b2FTalhBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUN3b2FTalhBEAE!2m1!1s0x7c006e65bae951b7:0xfa38fe9d4572bf8f
+  - name: >-
+      places/ChIJt1HpumVuAHwRj79yRZ3-OPo/reviews/ChZDSUhNMG9nS0VJQ0FnSURybGFiMVBREAE
+    relativePublishTimeDescription: 9 months ago
+    rating: 5
+    text:
+      text: >-
+        Authentic Japanese restaurant. I've been to Japan many times and this
+        place take me back to Japan as soon as I walked in. I had many sushi in
+        Honolulu this is one (if not the) of the best. The price might be on the
+        little high end, but it's worth it and reasonable for the Hawaii
+        stander. we didn't have reservation, but the staff squeeze us in before
+        the next reservation.(BIG THANKS) 4 of us (2 adult and 2 kids) total of
+        $200 (really not that bad)
+      languageCode: en
+    originalText:
+      text: >-
+        Authentic Japanese restaurant. I've been to Japan many times and this
+        place take me back to Japan as soon as I walked in. I had many sushi in
+        Honolulu this is one (if not the) of the best. The price might be on the
+        little high end, but it's worth it and reasonable for the Hawaii
+        stander. we didn't have reservation, but the staff squeeze us in before
+        the next reservation.(BIG THANKS) 4 of us (2 adult and 2 kids) total of
+        $200 (really not that bad)
+      languageCode: en
+    authorAttribution:
+      displayName: Tiger Zhen
+      uri: https://www.google.com/maps/contrib/102883997411138509142/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVrrs7xXpjNK-DuKsbPmZkfrlzyxKer6OgA4gxw9PoXk-DxWj8LQw=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-07-18T22:08:34.602858Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURybGFiMVBREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURybGFiMVBREAE!2m1!1s0x7c006e65bae951b7:0xfa38fe9d4572bf8f
+review_summary: >-
+  What Customers Are Saying About This Sushi Spot$$$Visitors often rave about
+  the friendly service and authentic flavors that make meals here feel genuinely
+  satisfying and true to Japanese traditions. Many appreciate the generous
+  portions and high-quality ingredients, like the excellent rice and fresh
+  seafood that keep diners coming back for more. While some note that the meat
+  dishes might not stand out as much, the overall experience shines with its
+  variety and value, earning it praise as a top pick for family outings or
+  groups. Feedback highlights the relaxed vibe and quick service, making it a
+  solid choice for anyone hunting for reliable sushi nearby. All in all, it's
+  clear that this place delivers a consistently enjoyable dining adventure that
+  lives up to its reputation in Honolulu.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
+delivery: false
+dine_in: true
 good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: false
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Small, bustling standby serving both familiar & inventive Japanese dishes in a
+  simple setting.
 
 ---

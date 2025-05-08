@@ -5,4 +5,5 @@ permalink: /texas/houston/
 stateAbbr: TX
 stateName: Texas
 cityName: Houston
+
 ---

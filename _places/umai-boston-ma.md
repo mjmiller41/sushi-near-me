@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Umai"
+title: Umai
 permalink: /massachusetts/boston/umai.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Boston
 seo:
-  name: "Umai"
-  type: Restaurant
+  type: restaurant
   links: https://umaibostontogo.com/
-description: "Udon, sushi and a variety of other Japanese eats are served in casual, modern quarters with a bar. Umai serves delicious sushi in Boston, Massachusetts. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ8x1_7Q5644kRhu20JIaczqs
 photos:
   - name: >-
@@ -183,6 +181,31 @@ price_range: $20 &ndash; $30
 rating: '4.2'
 rating_count: 0
 website: https://umaibostontogo.com/
+description: >-
+  About Umai in Boston, MA$$$Umai in Boston, MA, stands out as a welcoming
+  Japanese restaurant offering a blend of fresh sushi and classic fare in a
+  modern, relaxed setting. This spot features an array of options like udon,
+  bento boxes, and teriyaki, all prepared with attention to quality ingredients
+  that highlight authentic flavors. The casual atmosphere includes comfortable
+  seating and a bar area, making it ideal for a quick meal or leisurely dining
+  experience in the vibrant Back Bay neighborhood. Visitors can enjoy the
+  convenience of nearby Japanese places, with dishes that cater to those seeking
+  tasty sushi options without the fuss. Whether you're exploring local eateries
+  or looking for sushi restaurants in the area, Umai delivers a satisfying taste
+  of Japan right in the heart of the city.
+generative_summary: >-
+  About Umai in Boston, MA$$$Umai in Boston, MA, stands out as a welcoming
+  Japanese restaurant offering a blend of fresh sushi and classic fare in a
+  modern, relaxed setting. This spot features an array of options like udon,
+  bento boxes, and teriyaki, all prepared with attention to quality ingredients
+  that highlight authentic flavors. The casual atmosphere includes comfortable
+  seating and a bar area, making it ideal for a quick meal or leisurely dining
+  experience in the vibrant Back Bay neighborhood. Visitors can enjoy the
+  convenience of nearby Japanese places, with dishes that cater to those seeking
+  tasty sushi options without the fuss. Whether you're exploring local eateries
+  or looking for sushi restaurants in the area, Umai delivers a satisfying taste
+  of Japan right in the heart of the city.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ8x1_7Q5644kRhu20JIaczqs/reviews/ChdDSUhNMG9nS0VJQ0FnSUNmOW82ajZBRRAB
@@ -376,6 +399,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNqOTV5cEJBEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNqOTV5cEJBEAE!2m1!1s0x89e37a0eed7f1df3:0xabce9c8624b4ed86
+review_summary: >-
+  Summary of Customer Feedback$$$Folks chatting about Umai often highlight the
+  fresh and flavorful sushi rolls that make for a solid meal, especially when
+  paired with sides like miso soup or salads. Many appreciate the quick service
+  and cozy window seats that add a nice touch to the overall vibe, perfect for
+  casual lunches or date nights. While some mention that portions might feel a
+  bit small compared to the price, the general consensus leans positive,
+  praising the variety of Japanese dishes and their quality. It's clear that
+  this spot hits the mark for those hunting for reliable sushi near me, with a
+  welcoming atmosphere that keeps things enjoyable. Overall, if you're in the
+  mood for top-rated sushi in a laid-back environment, Umai seems to deliver a
+  consistently good experience that leaves diners coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   valetParking: false
 payment_options:
@@ -404,8 +440,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Udon, sushi and a variety of other Japanese eats are served in casual, modern
   quarters with a bar.
 

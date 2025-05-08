@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Zushi"
+title: Zushi
 permalink: /alaska/wasilla/zushi.html
 stateAbbr: AK
 stateName: Alaska
 cityName: Wasilla
 seo:
-  name: "Zushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.zushialaska.com/
-description: "Zushi serves delicious sushi in Wasilla, Alaska. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJGcWPCxneyFYRfF73tue_3Eg
 photos:
   - name: >-
@@ -170,7 +168,49 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x56c8de190b8fc519:0x48dcbfe7b6f75e7c!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 19
+        minute: 30
+    - open:
+        day: 1
+        hour: 12
+        minute: 0
+      close:
+        day: 1
+        hour: 20
+        minute: 30
+    - open:
+        day: 4
+        hour: 12
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 30
+    - open:
+        day: 5
+        hour: 12
+        minute: 0
+      close:
+        day: 5
+        hour: 20
+        minute: 30
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 20
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 12:00 – 8:30 PM'
     - 'Tuesday: Closed'
     - 'Wednesday: Closed'
@@ -178,14 +218,7 @@ opening_hours:
     - 'Friday: 12:00 – 8:30 PM'
     - 'Saturday: 12:00 – 8:30 PM'
     - 'Sunday: 12:00 – 7:30 PM'
-  current:
-    - 'Monday: 12:00 – 8:30 PM'
-    - 'Tuesday: Closed'
-    - 'Wednesday: Closed'
-    - 'Thursday: 12:00 – 8:30 PM'
-    - 'Friday: 12:00 – 8:30 PM'
-    - 'Saturday: 12:00 – 8:30 PM'
-    - 'Sunday: 12:00 – 7:30 PM'
+  nextCloseTime: '2025-05-04T04:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +230,45 @@ phone: (907) 373-0101
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.5'
-rating_count: 0
+rating_count: 332
 website: http://www.zushialaska.com/
+description: >-
+  Discover Zushi in Wasilla, AK$$$Zushi in Wasilla, AK, offers a delightful mix
+  of fresh sushi and other Asian-inspired dishes in a welcoming, laid-back
+  setting. This spot stands out for its variety of Japanese, Chinese, and Korean
+  options, making it a go-to choice for those seeking authentic flavors from
+  sushi restaurants in the area. With accessibility features like
+  wheelchair-friendly parking and entrances, it's designed to accommodate
+  everyone looking for a casual dining experience. The menu highlights
+  high-quality ingredients and a range of rolls and entrees that appeal to sushi
+  enthusiasts exploring options nearby. Open several days a week, it's an ideal
+  stop for anyone craving top-rated Asian cuisine without the fuss.
+generative_summary: >-
+  Discover Zushi in Wasilla, AK$$$Zushi in Wasilla, AK, offers a delightful mix
+  of fresh sushi and other Asian-inspired dishes in a welcoming, laid-back
+  setting. This spot stands out for its variety of Japanese, Chinese, and Korean
+  options, making it a go-to choice for those seeking authentic flavors from
+  sushi restaurants in the area. With accessibility features like
+  wheelchair-friendly parking and entrances, it's designed to accommodate
+  everyone looking for a casual dining experience. The menu highlights
+  high-quality ingredients and a range of rolls and entrees that appeal to sushi
+  enthusiasts exploring options nearby. Open several days a week, it's an ideal
+  stop for anyone craving top-rated Asian cuisine without the fuss.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Buzzing About$$$Visitors to this sushi spot often rave about
+  the fresh, flavorful dishes that make it a standout among local eateries, with
+  many highlighting the consistent quality of the seafood and creative rolls.
+  Folks appreciate the friendly vibe and efficient service, which add to the
+  overall enjoyable atmosphere for groups or solo diners. Based on the strong
+  ratings, it's clear that the variety of options keeps people coming back,
+  earning it praise as one of the better choices for Japanese-inspired meals in
+  the region. While not every experience is flawless, the general consensus
+  leans positive, with diners noting good value for the price. If you're on the
+  hunt for reliable sushi places near you, this location seems to deliver a
+  satisfying meal that leaves most customers smiling.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +294,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

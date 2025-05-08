@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Khatan sushi"
+title: Khatan Sushi
 permalink: /california/oakland/khatan-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Oakland
 seo:
-  name: "Khatan sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Khatan sushi serves delicious sushi in Oakland, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJW9MGAn-Bj4AR-euhOX3jmk0
 photos:
   - name: >-
@@ -149,24 +147,124 @@ state: CA
 zip: '94612'
 country: USA
 neighborhood: Downtown Oakland
-latitude: '37.803689'
-longitude: '-122.268849'
-accessibility_options: null
+latitude: '37.803668'
+longitude: '-122.268865'
+accessibility_options:
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleSeating: true
 business_status: OPERATIONAL
-name: Khatan sushi
+name: Khatan Sushi
 google_maps_links:
   directionsUri: >-
-    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x808f817f0206d35b:0x4d9ae37d39a1ebf9!3e0
-  placeUri: https://maps.google.com/?cid=5592032014311222265
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x808f8191f21de36b:0xc3c025124c3137ea!3e0
+  placeUri: https://maps.google.com/?cid=14105314793442326506
   writeAReviewUri: >-
-    https://www.google.com/maps/place//data=!4m3!3m2!1s0x808f817f0206d35b:0x4d9ae37d39a1ebf9!12e1
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x808f8191f21de36b:0xc3c025124c3137ea!12e1
   reviewsUri: >-
-    https://www.google.com/maps/place//data=!4m4!3m3!1s0x808f817f0206d35b:0x4d9ae37d39a1ebf9!9m1!1b1
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x808f8191f21de36b:0xc3c025124c3137ea!9m1!1b1
   photosUri: >-
-    https://www.google.com/maps/place//data=!4m3!3m2!1s0x808f817f0206d35b:0x4d9ae37d39a1ebf9!10e5
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x808f8191f21de36b:0xc3c025124c3137ea!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
     - 'Tuesday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
     - 'Wednesday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
@@ -174,14 +272,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 2:30 PM, 5:00 – 10:00 PM'
     - 'Saturday: 5:00 – 10:00 PM'
     - 'Sunday: 5:00 – 9:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
-    - 'Tuesday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
-    - 'Wednesday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
-    - 'Thursday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
-    - 'Friday: 11:30 AM – 2:30 PM, 5:00 – 10:00 PM'
-    - 'Saturday: 5:00 – 10:00 PM'
-    - 'Sunday: 5:00 – 9:00 PM'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -192,36 +283,299 @@ secondary_opening_hours:
 phone: (341) 231-3213
 price_level: null
 price_range: $30 &ndash; $50
-rating: '4.9'
-rating_count: 0
+rating: '4.5'
+rating_count: 115
 website: null
-reviews: null
+description: >-
+  Discover Khatan Sushi in Oakland, CA$$$Nestled in the heart of Oakland, CA,
+  Khatan Sushi stands out as a modern Japanese eatery offering fresh seafood,
+  expertly crafted sushi, and delightful small plates in a cozy atmosphere. This
+  spot emphasizes high-quality ingredients and innovative dishes that blend
+  traditional flavors with creative twists, making it a go-to choice for those
+  seeking top-rated sushi experiences in the area. With its intimate setting and
+  focus on accessibility features like wheelchair-friendly entrances, it's
+  designed to welcome diners looking for authentic Japanese cuisine without the
+  fuss. Operating with convenient hours that cater to lunch and dinner crowds,
+  the restaurant provides a relaxing environment for enjoying sushi near me or
+  exploring nearby Japanese places. Whether you're in the mood for classic rolls
+  or unique specials, Khatan Sushi delivers a memorable meal that highlights the
+  best of local sushi restaurants.
+generative_summary: >-
+  Discover Khatan Sushi in Oakland, CA$$$Nestled in the heart of Oakland, CA,
+  Khatan Sushi stands out as a modern Japanese eatery offering fresh seafood,
+  expertly crafted sushi, and delightful small plates in a cozy atmosphere. This
+  spot emphasizes high-quality ingredients and innovative dishes that blend
+  traditional flavors with creative twists, making it a go-to choice for those
+  seeking top-rated sushi experiences in the area. With its intimate setting and
+  focus on accessibility features like wheelchair-friendly entrances, it's
+  designed to welcome diners looking for authentic Japanese cuisine without the
+  fuss. Operating with convenient hours that cater to lunch and dinner crowds,
+  the restaurant provides a relaxing environment for enjoying sushi near me or
+  exploring nearby Japanese places. Whether you're in the mood for classic rolls
+  or unique specials, Khatan Sushi delivers a memorable meal that highlights the
+  best of local sushi restaurants.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJa-Md8pGBj4AR6jcxTBIlwMM/reviews/ChdDSUhNMG9nS0VJQ0FnSUNQaV9ubmhBRRAB
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        Best sushi restaurant in Oakland (but there's more than just sushi to be
+        enjoyed here!).
+
+
+        Fish and all ingredients in general are super fresh and
+        locally/carefully sourced.
+
+
+        Atmosphere is super cute and the owners are just fantastic hosts that
+        will make you feel at home the second after you enter.
+
+
+        Located super strategically in DT oakland a block away from Bart station
+        (12th Street).
+
+
+        Super recommended ✨
+      languageCode: en
+    originalText:
+      text: >-
+        Best sushi restaurant in Oakland (but there's more than just sushi to be
+        enjoyed here!).
+
+
+        Fish and all ingredients in general are super fresh and
+        locally/carefully sourced.
+
+
+        Atmosphere is super cute and the owners are just fantastic hosts that
+        will make you feel at home the second after you enter.
+
+
+        Located super strategically in DT oakland a block away from Bart station
+        (12th Street).
+
+
+        Super recommended ✨
+      languageCode: en
+    authorAttribution:
+      displayName: SKAG ARCADE
+      uri: https://www.google.com/maps/contrib/102747916678727643933/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjV8Er29MnuUQmv19TqFwKV0PgkMyLJNjPEXlwu1V51YBj2QgXuD=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-11-28T00:40:38.663146Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNQaV9ubmhBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNQaV9ubmhBRRAB!2m1!1s0x808f8191f21de36b:0xc3c025124c3137ea
+  - name: >-
+      places/ChIJa-Md8pGBj4AR6jcxTBIlwMM/reviews/ChdDSUhNMG9nS0VJQ0FnSURfcU8yX2hBRRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 4
+    text:
+      text: >-
+        a very nice joint with a friendly attentive staff.
+
+
+        fish is fresh and presentation is cool.
+
+
+        I found the tempura sauce a little bit sweet and a few of the okamase
+        sashimi a little odd (the salmon marinated in beets was a fail in my
+        opinion)
+
+
+        but all in all a cool place with good sushi.
+      languageCode: en
+    originalText:
+      text: >-
+        a very nice joint with a friendly attentive staff.
+
+
+        fish is fresh and presentation is cool.
+
+
+        I found the tempura sauce a little bit sweet and a few of the okamase
+        sashimi a little odd (the salmon marinated in beets was a fail in my
+        opinion)
+
+
+        but all in all a cool place with good sushi.
+      languageCode: en
+    authorAttribution:
+      displayName: Jules C (popmonkey)
+      uri: https://www.google.com/maps/contrib/110330518161300473751/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUER5gzRP1g9SkHqSrxp9_WSU_s3TVG5Z-re1LnJooZt3WP5t9H=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-01-21T06:24:10.656236Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURfcU8yX2hBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURfcU8yX2hBRRAB!2m1!1s0x808f8191f21de36b:0xc3c025124c3137ea
+  - name: >-
+      places/ChIJa-Md8pGBj4AR6jcxTBIlwMM/reviews/ChdDSUhNMG9nS0VJQ0FnTUNnLTk2cnNRRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        This is my first time ever writing a restaurant review but I thought it
+        necessary because my experience was so lovely! All the food was
+        delicious and unique. Many of the rolls were unique to this location and
+        everything was top quality but not overly pricey for the quality. The
+        vibe of the restaurant was excellent with ambient music and lovely
+        decor. They used quality ingredients and real crab in the sushi which is
+        always nice. I especially loved the cherry blossom rolls. The staff
+        there were all lovely and welcoming.
+      languageCode: en
+    originalText:
+      text: >-
+        This is my first time ever writing a restaurant review but I thought it
+        necessary because my experience was so lovely! All the food was
+        delicious and unique. Many of the rolls were unique to this location and
+        everything was top quality but not overly pricey for the quality. The
+        vibe of the restaurant was excellent with ambient music and lovely
+        decor. They used quality ingredients and real crab in the sushi which is
+        always nice. I especially loved the cherry blossom rolls. The staff
+        there were all lovely and welcoming.
+      languageCode: en
+    authorAttribution:
+      displayName: Cecily Bullock
+      uri: https://www.google.com/maps/contrib/114887235206038876867/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWJxkUb_9g7VChnS1_buOsi7CZdNcQg_0noW0czWpZOcIyeqyUZ=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-02-21T05:20:22.478803Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNnLTk2cnNRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNnLTk2cnNRRRAB!2m1!1s0x808f8191f21de36b:0xc3c025124c3137ea
+  - name: >-
+      places/ChIJa-Md8pGBj4AR6jcxTBIlwMM/reviews/ChZDSUhNMG9nS0VJQ0FnSUN2enB2cVp3EAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        Happy that there’s a sushi restaurant that serves affordable omakase
+        walking distance from me in downtown Oakland.
+
+
+        I ordered the 10pc omakase which was only $49, and came with some
+        premium bites like hotate scallop and toro. The most unique bite for me
+        was the beet cured salmon, vibrant color but you can actually taste the
+        beet flavor as well.
+
+
+        Highly recommend if you want to scratch that itch for some premium sushi
+        on this side of the bay.
+      languageCode: en
+    originalText:
+      text: >-
+        Happy that there’s a sushi restaurant that serves affordable omakase
+        walking distance from me in downtown Oakland.
+
+
+        I ordered the 10pc omakase which was only $49, and came with some
+        premium bites like hotate scallop and toro. The most unique bite for me
+        was the beet cured salmon, vibrant color but you can actually taste the
+        beet flavor as well.
+
+
+        Highly recommend if you want to scratch that itch for some premium sushi
+        on this side of the bay.
+      languageCode: en
+    authorAttribution:
+      displayName: Joanne Yuen
+      uri: https://www.google.com/maps/contrib/108509009458836632239/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXH6OOeqmjZnUIxunbKduX5gUPDjQu225_uGRLc-LYkEy49xqAe9A=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-12-11T03:35:01.915194Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN2enB2cVp3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN2enB2cVp3EAE!2m1!1s0x808f8191f21de36b:0xc3c025124c3137ea
+  - name: >-
+      places/ChIJa-Md8pGBj4AR6jcxTBIlwMM/reviews/ChZDSUhNMG9nS0VJQ0FnSURuN2UyTUl3EAE
+    relativePublishTimeDescription: 6 months ago
+    rating: 5
+    text:
+      text: >-
+        Khatan, a hidden gem in the Bay Area, is a must-try for sushi lovers! I
+        was blown away by their sake sashimi, which was melt-in-your-mouth
+        perfection. The Lake Merritt roll with a sour ponzu hamachi was another
+        standout.
+
+
+        The owners, who are incredibly friendly and welcoming, are clearly
+        passionate about their craft. It's amazing to think they've only been
+        open for 10 days! Highly recommended!
+      languageCode: en
+    originalText:
+      text: >-
+        Khatan, a hidden gem in the Bay Area, is a must-try for sushi lovers! I
+        was blown away by their sake sashimi, which was melt-in-your-mouth
+        perfection. The Lake Merritt roll with a sour ponzu hamachi was another
+        standout.
+
+
+        The owners, who are incredibly friendly and welcoming, are clearly
+        passionate about their craft. It's amazing to think they've only been
+        open for 10 days! Highly recommended!
+      languageCode: en
+    authorAttribution:
+      displayName: Viktoriia Polyviana
+      uri: https://www.google.com/maps/contrib/116880803763984609057/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXPy1msttQ-9xRrNms2H3_LWxTjigaCOJzZS0gla00ZoRoAW7s=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-10-08T20:05:55.898545Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURuN2UyTUl3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURuN2UyTUl3EAE!2m1!1s0x808f8191f21de36b:0xc3c025124c3137ea
+review_summary: >-
+  What People Are Buzzing About This Sushi Spot$$$Folks rave about the fresh,
+  high-quality fish and creative rolls that make dining here a standout
+  experience, often noting how the ingredients feel carefully sourced and full
+  of flavor. Many appreciate the affordable options like omakase selections that
+  offer great value without skimping on taste, though a few mention minor tweaks
+  could enhance certain sauces for even better balance. The welcoming vibe and
+  attentive service create a comfortable spot for casual meals or groups, with
+  diners frequently highlighting the cozy decor and ambient setting as a nice
+  touch. Overall, it's clear that visitors enjoy the variety of dishes that go
+  beyond just sushi, making it a solid pick for anyone searching for reliable
+  Japanese eats in the neighborhood. If you're on the hunt for the best sushi
+  near me, this place earns high marks for its honest flavors and welcoming
+  feel, encouraging repeat visits for a satisfying meal.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
-payment_options: null
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
+curbside_pickup: true
+delivery: true
+dine_in: true
 good_for_children: null
 good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
+good_for_sports: false
+live_music: false
+menu_for_children: false
 outdoor_seating: null
 reservable: null
 restroom: null
-serves_beer: null
+serves_beer: true
 serves_breakfast: null
 serves_brunch: null
 serves_cocktails: null
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

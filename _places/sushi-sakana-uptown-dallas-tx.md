@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Sakana Uptown"
+title: Sushi Sakana Uptown
 permalink: /texas/dallas/sushi-sakana-uptown.html
 stateAbbr: TX
 stateName: Texas
 cityName: Dallas
 seo:
-  name: "Sushi Sakana Uptown"
-  type: Restaurant
-  links: null
-description: "Sushi Sakana Uptown serves delicious sushi in Dallas, Texas. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.sushisakanatx.com/
 place_id: ChIJ-QPYnhqZToYRoAhAbxzsALc
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x864e991a9ed803f9:0xb700ec1c6f4008a0!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 0
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 0
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 10:00 PM'
+    - 'Tuesday: 11:00 AM – 10:00 PM'
+    - 'Wednesday: 11:00 AM – 10:00 PM'
+    - 'Thursday: 11:00 AM – 10:00 PM'
+    - 'Friday: 11:00 AM – 12:00 AM'
+    - 'Saturday: 11:00 AM – 12:00 AM'
+    - 'Sunday: 11:00 AM – 10:00 PM'
+  nextCloseTime: '2025-05-04T05:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,45 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
+phone: (469) 620-2100
 price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+price_range: $20 &ndash; $30
+rating: '4.7'
+rating_count: 170
+website: https://www.sushisakanatx.com/
+description: >-
+  Explore Sushi Sakana Uptown in Dallas, TX$$$Sushi Sakana Uptown in Dallas, TX,
+  stands out as a welcoming spot for those craving authentic Japanese flavors in
+  a relaxed environment. This sushi restaurant boasts an extensive selection of
+  fresh rolls, bento boxes, and refreshing options like beer and sake, making it
+  ideal for casual dining experiences. With its accessible features, including
+  wheelchair-friendly parking and seating, it caters to a wide range of visitors
+  seeking comfortable meals. The vibrant neighborhood setting in Uptown Dallas
+  adds to the appeal, offering a convenient option for locals and visitors alike
+  looking for quality sushi places nearby.
+generative_summary: >-
+  Explore Sushi Sakana Uptown in Dallas, TX$$$Sushi Sakana Uptown in Dallas, TX,
+  stands out as a welcoming spot for those craving authentic Japanese flavors in
+  a relaxed environment. This sushi restaurant boasts an extensive selection of
+  fresh rolls, bento boxes, and refreshing options like beer and sake, making it
+  ideal for casual dining experiences. With its accessible features, including
+  wheelchair-friendly parking and seating, it caters to a wide range of visitors
+  seeking comfortable meals. The vibrant neighborhood setting in Uptown Dallas
+  adds to the appeal, offering a convenient option for locals and visitors alike
+  looking for quality sushi places nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Diners at This Local Sushi Favorite$$$Folks around town rave
+  about the generous portions and super fresh ingredients at this spot, with
+  highlights on tasty items like eel, bulgogi, and crispy shrimp tempura that
+  keep things exciting. Many appreciate the laid-back vibe and attentive service
+  that make every visit feel easygoing and enjoyable, without any fuss. It's
+  often noted for offering solid value, where you get a lot for your money,
+  making it a go-to for anyone hunting for the best sushi near me. Overall, the
+  feedback paints a picture of a reliable choice for casual outings, blending
+  great flavors with a welcoming atmosphere that encourages repeat trips.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +306,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

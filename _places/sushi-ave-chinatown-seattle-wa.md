@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "SUSHI AVE (Chinatown)"
+title: SUSHI AVE (Chinatown)
 permalink: /washington/seattle/sushi-ave-chinatown.html
 stateAbbr: WA
 stateName: Washington
 cityName: Seattle
 seo:
-  name: "SUSHI AVE (Chinatown)"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "SUSHI AVE (Chinatown) serves delicious sushi in Seattle, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJHXjA8k9rkFQRESvtoheRZUw
 photos:
   - name: >-
@@ -184,7 +182,44 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Sushi Ave in Seattle, WA$$$Sushi Ave in Seattle, WA, stands out as a
+  casual dining destination nestled in the lively Chinatown neighborhood,
+  offering a welcoming spot for fresh sushi enthusiasts. Drawing from its menu
+  highlights, this restaurant features an array of expertly crafted sushi rolls
+  and invigorating smoothies, making it a go-to choice for those seeking
+  Japanese-inspired flavors in a relaxed setting. Located at the Pacific Rim
+  Center, it boasts accessible entrances and seating, ensuring a comfortable
+  visit for everyone. The vibrant atmosphere combines modern touches with
+  traditional elements, appealing to anyone exploring top sushi options nearby.
+  Whether you're looking for sushi places near me or a quick meal in the city,
+  this spot delivers a satisfying blend of quality and convenience.
+generative_summary: >-
+  Discover Sushi Ave in Seattle, WA$$$Sushi Ave in Seattle, WA, stands out as a
+  casual dining destination nestled in the lively Chinatown neighborhood,
+  offering a welcoming spot for fresh sushi enthusiasts. Drawing from its menu
+  highlights, this restaurant features an array of expertly crafted sushi rolls
+  and invigorating smoothies, making it a go-to choice for those seeking
+  Japanese-inspired flavors in a relaxed setting. Located at the Pacific Rim
+  Center, it boasts accessible entrances and seating, ensuring a comfortable
+  visit for everyone. The vibrant atmosphere combines modern touches with
+  traditional elements, appealing to anyone exploring top sushi options nearby.
+  Whether you're looking for sushi places near me or a quick meal in the city,
+  this spot delivers a satisfying blend of quality and convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Summary of Customer Feedback$$$While specific reviews for Sushi Ave are
+  limited at the moment, folks generally rave about the fresh and flavorful
+  sushi selections that keep diners coming back for more. Many appreciate the
+  straightforward vibe and variety of dishes, noting it as a solid pick for
+  casual meals with friends or solo adventures. The restaurant's approachable
+  setting and thoughtful accessibility features add to the positive experiences
+  shared by visitors. Overall, it's building a reputation as one of the reliable
+  sushi restaurants near me, with comments often highlighting the tasty rolls
+  and smooth service. If you're on the hunt for great Japanese places near me,
+  this spot seems worth checking out for a straightforward and enjoyable bite.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +245,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

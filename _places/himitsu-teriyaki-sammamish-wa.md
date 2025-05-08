@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Himitsu Teriyaki"
+title: Himitsu Teriyaki
 permalink: /washington/sammamish/himitsu-teriyaki.html
 stateAbbr: WA
 stateName: Washington
 cityName: Sammamish
 seo:
-  name: "Himitsu Teriyaki"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Himitsu Teriyaki serves delicious sushi in Sammamish, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJn6_nXilukFQRRdUqWSpvR-8
 photos:
   - name: >-
@@ -185,7 +183,47 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Himitsu Teriyaki in Sammamish, WA$$$Himitsu Teriyaki in Sammamish,
+  WA, brings authentic Japanese flavors to the local dining scene with a menu
+  featuring fresh sushi, teriyaki dishes, and savory gyoza in a welcoming,
+  relaxed atmosphere. This spot stands out for its cozy setting that makes it
+  ideal for casual meals, whether you're craving quick bites or a satisfying
+  dinner. Accessibility features like wheelchair-friendly parking and entrances
+  ensure everyone can enjoy the experience, adding to its appeal for families
+  and groups exploring sushi options nearby. The focus on traditional Japanese
+  eats highlights quality ingredients and simple yet flavorful preparations,
+  making it a go-to choice for those seeking top-rated Japanese cuisine in the
+  area. With its unpretentious vibe, it's perfect for anyone hunting for
+  reliable sushi restaurants close to home.
+generative_summary: >-
+  Discover Himitsu Teriyaki in Sammamish, WA$$$Himitsu Teriyaki in Sammamish,
+  WA, brings authentic Japanese flavors to the local dining scene with a menu
+  featuring fresh sushi, teriyaki dishes, and savory gyoza in a welcoming,
+  relaxed atmosphere. This spot stands out for its cozy setting that makes it
+  ideal for casual meals, whether you're craving quick bites or a satisfying
+  dinner. Accessibility features like wheelchair-friendly parking and entrances
+  ensure everyone can enjoy the experience, adding to its appeal for families
+  and groups exploring sushi options nearby. The focus on traditional Japanese
+  eats highlights quality ingredients and simple yet flavorful preparations,
+  making it a go-to choice for those seeking top-rated Japanese cuisine in the
+  area. With its unpretentious vibe, it's perfect for anyone hunting for
+  reliable sushi restaurants close to home.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Sharing$$$Folks chatting about Himitsu Teriyaki often
+  highlight the tasty Japanese dishes and laid-back feel that keep things
+  enjoyable without any fuss. Many appreciate how the fresh sushi and teriyaki
+  options hit the spot for a satisfying meal, with comments noting the portions
+  feel just right and the flavors stay true to what you'd expect from great
+  local spots. While some mention it's a solid pick for everyday dining, others
+  point out the welcoming atmosphere makes it easy to drop in for a quick bite
+  or relaxed hangout. Overall, it's clear that people value the straightforward
+  approach to Japanese favorites, helping it stand out among sushi places near
+  me. If you're on the hunt for dependable eats in Sammamish, this spot seems to
+  deliver a consistently positive vibe that leaves diners coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +249,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Jin Next Door"
+title: Sushi Jin Next Door
 permalink: /virginia/woodbridge/sushi-jin-next-door.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Woodbridge
 seo:
-  name: "Sushi Jin Next Door"
-  type: Restaurant
-  links: null
-description: "Sushi Jin Next Door serves delicious sushi in Woodbridge, Virginia. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.sushijinnextdoor.com/
 place_id: ChIJ21jtyQBWtokR44XBjwhEsT0
 photos:
   - name: >-
@@ -169,8 +167,113 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89b65600c9ed58db:0x3db144088fc185e3!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 2:30 PM, 5:00 – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 2:30 PM, 5:00 – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 2:30 PM, 5:00 – 9:00 PM'
+    - 'Thursday: 11:00 AM – 2:30 PM, 5:00 – 9:00 PM'
+    - 'Friday: 11:00 AM – 2:30 PM, 5:00 – 10:00 PM'
+    - 'Saturday: 12:00 – 10:00 PM'
+    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -178,13 +281,53 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
+phone: (703) 670-0461
+price_level: PRICE_LEVEL_MODERATE
 price_range: null
-rating: null
-rating_count: 0
-website: null
+rating: '4.1'
+rating_count: 957
+website: http://www.sushijinnextdoor.com/
+description: >-
+  Discover Sushi Jin Next Door in Woodbridge, VA$$$Sushi Jin Next Door in
+  Woodbridge, Virginia, stands out as a go-to spot for fresh Japanese cuisine,
+  blending casual vibes with a menu full of flavorful options like specialty
+  rolls and hearty ramen. This eatery captures the essence of authentic Japanese
+  dining with its well-crafted dishes that highlight quality ingredients and
+  creative presentations, making it a favorite among those seeking sushi
+  restaurants in the area. Visitors can enjoy a relaxed atmosphere perfect for
+  quick lunches or evening outings, with accessibility features ensuring
+  everyone feels welcome. The spot's convenient hours and moderate pricing add
+  to its appeal for locals looking for reliable Japanese places nearby, while
+  the variety of options keeps things exciting for sushi enthusiasts exploring
+  new tastes.
+generative_summary: >-
+  Discover Sushi Jin Next Door in Woodbridge, VA$$$Sushi Jin Next Door in
+  Woodbridge, Virginia, stands out as a go-to spot for fresh Japanese cuisine,
+  blending casual vibes with a menu full of flavorful options like specialty
+  rolls and hearty ramen. This eatery captures the essence of authentic Japanese
+  dining with its well-crafted dishes that highlight quality ingredients and
+  creative presentations, making it a favorite among those seeking sushi
+  restaurants in the area. Visitors can enjoy a relaxed atmosphere perfect for
+  quick lunches or evening outings, with accessibility features ensuring
+  everyone feels welcome. The spot's convenient hours and moderate pricing add
+  to its appeal for locals looking for reliable Japanese places nearby, while
+  the variety of options keeps things exciting for sushi enthusiasts exploring
+  new tastes.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Folks rave about the tasty dishes at this Japanese
+  restaurant, with many highlighting the flavorful chicken ramen, takoyaki, and
+  nigiri as standout favorites that hit the spot every time. The staff gets
+  plenty of nods for their friendly approach and efficient service, making meals
+  feel smooth and enjoyable without any fuss. While some mention the background
+  music can get a bit lively, it doesn't overshadow the overall positive
+  experience that keeps diners coming back. Overall, it's a solid choice for
+  anyone craving good vibes and reliable eats, offering a welcoming environment
+  that balances fun with great food. If you're on the hunt for top-rated sushi
+  spots, this place delivers on fresh flavors and quick, satisfying visits that
+  leave you wanting more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +353,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -5,4 +5,5 @@ permalink: /arizona/phoenix/
 stateAbbr: AZ
 stateName: Arizona
 cityName: Phoenix
+
 ---

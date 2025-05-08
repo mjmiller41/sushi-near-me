@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi@Sushi"
+title: Sushi@Sushi
 permalink: /california/anaheim/sushi-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Anaheim
 seo:
-  name: "Sushi@Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi@Sushi serves delicious sushi in Anaheim, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJPSwy-yTR3IARyV_PgR17dc8
 photos:
   - name: >-
@@ -185,7 +183,46 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Explore Sushi@Sushi in Anaheim, CA$$$Sushi@Sushi in Anaheim, California,
+  stands out as a welcoming hub for Japanese cuisine enthusiasts seeking fresh
+  rolls and flavorful eats in a straightforward setting. This spot offers an
+  array of authentic sushi options that highlight quality ingredients and
+  traditional preparation, making it a go-to choice for those exploring local
+  dining gems. With its unpretentious atmosphere, it's perfect for casual meals
+  or quick visits, appealing to anyone in the mood for satisfying Japanese
+  flavors without the fuss. Accessibility features like wheelchair-friendly
+  parking and entrances add to the convenience, ensuring a comfortable
+  experience for all diners. Whether you're looking for nearby options to enjoy
+  expertly crafted dishes, Sushi@Sushi delivers a reliable and enjoyable taste
+  of the best in simple, everyday Japanese fare.
+generative_summary: >-
+  Explore Sushi@Sushi in Anaheim, CA$$$Sushi@Sushi in Anaheim, California,
+  stands out as a welcoming hub for Japanese cuisine enthusiasts seeking fresh
+  rolls and flavorful eats in a straightforward setting. This spot offers an
+  array of authentic sushi options that highlight quality ingredients and
+  traditional preparation, making it a go-to choice for those exploring local
+  dining gems. With its unpretentious atmosphere, it's perfect for casual meals
+  or quick visits, appealing to anyone in the mood for satisfying Japanese
+  flavors without the fuss. Accessibility features like wheelchair-friendly
+  parking and entrances add to the convenience, ensuring a comfortable
+  experience for all diners. Whether you're looking for nearby options to enjoy
+  expertly crafted dishes, Sushi@Sushi delivers a reliable and enjoyable taste
+  of the best in simple, everyday Japanese fare.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback on Sushi@Sushi$$$Folks chatting about this place often rave
+  about the super fresh sushi rolls that hit the spot every time, paired with
+  prices that feel like a steal for the quality. Many appreciate how the staff
+  goes out of their way to make everyone feel welcome and attentive, turning a
+  simple meal into a pleasant outing. The vibe here comes across as clean and
+  relaxed, ideal for unwinding over a quiet dinner or lunch. Overall, it's clear
+  that visitors keep coming back for the tasty eats and solid service, making it
+  a solid pick for anyone hunting for reliable Japanese spots nearby. While it's
+  not without its everyday ups and downs, the general buzz stays upbeat,
+  encouraging a fun and satisfying visit.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +248,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Pacifica Cuisine"
+title: Pacifica Cuisine
 permalink: /connecticut/suffield/pacifica-cuisine.html
 stateAbbr: CT
 stateName: Connecticut
 cityName: Suffield
 seo:
-  name: "Pacifica Cuisine"
-  type: Restaurant
-  links: null
-description: "Pacifica Cuisine serves delicious sushi in Suffield, Connecticut. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://68pacifica.com/
 place_id: ChIJoR_CrML85okR0IwP3CothbQ
 photos:
   - name: >-
@@ -170,8 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89e6fcc2acc21fa1:0xb4852d2adc0f8cd0!10e5
 primary_type: Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: Closed'
+    - 'Tuesday: 11:00 AM – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 9:00 PM'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 9:00 PM'
+    - 'Saturday: 11:00 AM – 9:00 PM'
+    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T01:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +234,51 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (860) 668-1291
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.1'
+rating_count: 54
+website: http://68pacifica.com/
+description: >-
+  Discover Pacifica Cuisine in Suffield, CT$$$Pacifica Cuisine in Suffield, CT,
+  offers a welcoming spot for enjoying a mix of casual Chinese dishes and fresh
+  sushi options, making it a go-to choice for those seeking flavorful meals in a
+  relaxed setting. Nestled in the local shopping area, this eatery stands out
+  with its accessible features like wheelchair-friendly entrances and seating,
+  ensuring everyone can savor the experience. The menu highlights creative rolls
+  and classic staples that blend traditional flavors with a modern twist,
+  appealing to anyone exploring nearby dining spots. With convenient hours that
+  cater to lunch and dinner crowds, it's an ideal destination for a satisfying
+  bite without the fuss. Whether you're in the mood for something light or
+  hearty, the variety keeps things exciting for repeat visits.
+generative_summary: >-
+  Discover Pacifica Cuisine in Suffield, CT$$$Pacifica Cuisine in Suffield, CT,
+  offers a welcoming spot for enjoying a mix of casual Chinese dishes and fresh
+  sushi options, making it a go-to choice for those seeking flavorful meals in a
+  relaxed setting. Nestled in the local shopping area, this eatery stands out
+  with its accessible features like wheelchair-friendly entrances and seating,
+  ensuring everyone can savor the experience. The menu highlights creative rolls
+  and classic staples that blend traditional flavors with a modern twist,
+  appealing to anyone exploring nearby dining spots. With convenient hours that
+  cater to lunch and dinner crowds, it's an ideal destination for a satisfying
+  bite without the fuss. Whether you're in the mood for something light or
+  hearty, the variety keeps things exciting for repeat visits.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Visitor Feedback Highlights$$$Visitors to this spot often rave about the tasty
+  sushi and solid Chinese favorites, giving it a solid nod for quality and
+  variety that hits the mark for everyday meals. Many appreciate the friendly
+  vibe and reasonable prices, making it a reliable pick for casual get-togethers
+  or solo stops. While a few mentions note minor waits during peak times, the
+  overall consensus leans positive with praise for fresh ingredients and
+  attentive service that enhances the dining experience. Folks frequently
+  highlight the welcoming atmosphere as a plus, especially for families or those
+  dropping in after errands nearby. All in all, it's clear this place delivers
+  good value and enjoyable flavors, earning its reputation as a dependable local
+  favorite.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +304,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

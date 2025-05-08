@@ -5,4 +5,5 @@ permalink: /utah/murray/
 stateAbbr: UT
 stateName: Utah
 cityName: Murray
+
 ---

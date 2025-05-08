@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Tokyo Express"
+title: Tokyo Express
 permalink: /indiana/tell-city/tokyo-express.html
 stateAbbr: IN
 stateName: Indiana
 cityName: Tell City
 seo:
-  name: "Tokyo Express"
-  type: Restaurant
-  links: null
-description: "Tokyo Express serves delicious sushi in Tell City, Indiana. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://tokyotellcity.aiyaorder.us/#/
 place_id: ChIJazMM34YDb4gR_fHL4ZJwnwQ
 photos:
   - name: >-
@@ -170,8 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x886f0386df0c336b:0x49f7092e1cbf1fd!10e5
 primary_type: Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 10
+        minute: 30
+      close:
+        day: 1
+        hour: 20
+        minute: 30
+    - open:
+        day: 2
+        hour: 10
+        minute: 30
+      close:
+        day: 2
+        hour: 20
+        minute: 30
+    - open:
+        day: 3
+        hour: 10
+        minute: 30
+      close:
+        day: 3
+        hour: 20
+        minute: 30
+    - open:
+        day: 4
+        hour: 10
+        minute: 30
+      close:
+        day: 4
+        hour: 20
+        minute: 30
+    - open:
+        day: 5
+        hour: 10
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 10
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 10:30 AM – 8:30 PM'
+    - 'Tuesday: 10:30 AM – 8:30 PM'
+    - 'Wednesday: 10:30 AM – 8:30 PM'
+    - 'Thursday: 10:30 AM – 8:30 PM'
+    - 'Friday: 10:30 AM – 9:00 PM'
+    - 'Saturday: 10:30 AM – 9:00 PM'
+    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +234,48 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
+phone: (812) 772-2588
 price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+price_range: $10 &ndash; $20
+rating: '4.6'
+rating_count: 87
+website: https://tokyotellcity.aiyaorder.us/#/
+description: >-
+  Discover Tokyo Express in Tell City, IN$$$Tokyo Express in Tell City, IN,
+  stands out as a welcoming spot for enjoying authentic Japanese flavors in a
+  relaxed setting. This eatery specializes in a variety of fresh sushi rolls and
+  hibachi-style dishes, making it a go-to choice for those seeking flavorful
+  options in the area. With its accessible features like wheelchair-friendly
+  entrances and seating, it caters to a wide range of diners looking for
+  convenience and comfort. The menu highlights creative takes on traditional
+  Japanese cuisine, appealing to anyone exploring local sushi restaurants. Open
+  from late morning through the evening most days, it's an ideal stop for a
+  satisfying meal that combines quality and affordability.
+generative_summary: >-
+  Discover Tokyo Express in Tell City, IN$$$Tokyo Express in Tell City, IN,
+  stands out as a welcoming spot for enjoying authentic Japanese flavors in a
+  relaxed setting. This eatery specializes in a variety of fresh sushi rolls and
+  hibachi-style dishes, making it a go-to choice for those seeking flavorful
+  options in the area. With its accessible features like wheelchair-friendly
+  entrances and seating, it caters to a wide range of diners looking for
+  convenience and comfort. The menu highlights creative takes on traditional
+  Japanese cuisine, appealing to anyone exploring local sushi restaurants. Open
+  from late morning through the evening most days, it's an ideal stop for a
+  satisfying meal that combines quality and affordability.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this sushi spot often rave about the
+  fresh and tasty dishes that keep them coming back for more. Many appreciate
+  the generous portions and variety of options, noting that the food
+  consistently hits the mark for quality and flavor without breaking the bank.
+  Feedback frequently highlights the friendly service and quick preparation,
+  making it a reliable choice for casual meals or groups. Overall, the high
+  ratings reflect a positive experience that's perfect for anyone searching for
+  top-rated sushi nearby. While opinions vary slightly, the consensus leans
+  toward it being a solid pick for enjoyable Japanese dining in a laid-back
+  environment.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +301,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

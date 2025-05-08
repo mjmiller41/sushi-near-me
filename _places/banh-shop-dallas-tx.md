@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Banh Shop"
+title: Banh Shop
 permalink: /texas/dallas/banh-shop.html
 stateAbbr: TX
 stateName: Texas
 cityName: Dallas
 seo:
-  name: "Banh Shop"
-  type: Restaurant
-  links: null
-description: "Banh Shop serves delicious sushi in Dallas, Texas. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://banhshop.com/
 place_id: ChIJowuabmQqTIYRrRrvCk3bbVw
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x864c2a646e9a0ba3:0x5c6ddb4d0aef1aad!10e5
 primary_type: Vietnamese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 10
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 0
+    - open:
+        day: 1
+        hour: 10
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 10
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 0
+    - open:
+        day: 3
+        hour: 10
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 10
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 10
+        minute: 0
+      close:
+        day: 5
+        hour: 19
+        minute: 0
+    - open:
+        day: 6
+        hour: 10
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 10:00 AM – 10:00 PM'
+    - 'Tuesday: 10:00 AM – 8:00 PM'
+    - 'Wednesday: 10:00 AM – 10:00 PM'
+    - 'Thursday: 10:00 AM – 10:00 PM'
+    - 'Friday: 10:00 AM – 7:00 PM'
+    - 'Saturday: 10:00 AM – 10:00 PM'
+    - 'Sunday: 10:00 AM – 8:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -181,11 +244,47 @@ secondary_opening_hours:
     type: null
 phone: null
 price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+price_range: $10 &ndash; $20
+rating: '3.8'
+rating_count: 445
+website: http://banhshop.com/
+description: >-
+  Discover Banh Shop in Dallas, TX$$$Banh Shop in Dallas, TX, stands out as a
+  casual dining spot nestled within the bustling airport environment, offering a
+  taste of authentic Vietnamese flavors that appeal to travelers seeking quick
+  and satisfying meals. This eatery specializes in fresh Vietnamese dishes like
+  banh mi sandwiches and flavorful noodle options, making it a convenient choice
+  for those exploring local cuisine on the go. With its accessible features
+  including wheelchair-friendly entrances and seating, it caters to a wide range
+  of visitors looking for inclusive dining experiences. The menu highlights a
+  variety of options that blend traditional tastes with everyday convenience,
+  perfect for anyone in the area wanting a break from standard airport fare.
+generative_summary: >-
+  Discover Banh Shop in Dallas, TX$$$Banh Shop in Dallas, TX, stands out as a
+  casual dining spot nestled within the bustling airport environment, offering a
+  taste of authentic Vietnamese flavors that appeal to travelers seeking quick
+  and satisfying meals. This eatery specializes in fresh Vietnamese dishes like
+  banh mi sandwiches and flavorful noodle options, making it a convenient choice
+  for those exploring local cuisine on the go. With its accessible features
+  including wheelchair-friendly entrances and seating, it caters to a wide range
+  of visitors looking for inclusive dining experiences. The menu highlights a
+  variety of options that blend traditional tastes with everyday convenience,
+  perfect for anyone in the area wanting a break from standard airport fare.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Folks often rave about the tasty Vietnamese
+  offerings at this spot, with highlights on the flavorful banh mi sandwiches,
+  hearty noodle and rice bowls, and solid vegan choices that keep things fresh
+  and inclusive. Many appreciate the welcoming staff and efficient service,
+  which make for a smooth and enjoyable meal even in a busy airport setting.
+  While some note that prices might feel a bit steep for the portions, the
+  overall experience still delivers great value for quick, quality eats. It's
+  clear that diners enjoy the reliable flavors and friendly vibe, making it a
+  go-to option for anyone passing through. All in all, this place earns solid
+  marks for its approachable atmosphere and dependable dishes that leave a
+  positive impression.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +310,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

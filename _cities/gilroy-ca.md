@@ -5,4 +5,5 @@ permalink: /california/gilroy/
 stateAbbr: CA
 stateName: California
 cityName: Gilroy
+
 ---

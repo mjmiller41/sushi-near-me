@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Fat Fish - Bountiful"
+title: Fat Fish - Bountiful
 permalink: /utah/bountiful/fat-fish-bountiful.html
 stateAbbr: UT
 stateName: Utah
 cityName: Bountiful
 seo:
-  name: "Fat Fish - Bountiful"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Fat Fish - Bountiful serves delicious sushi in Bountiful, Utah. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJRVRmjbz3UocR7AKjvSm-bsc
 photos:
   - name: >-
@@ -185,7 +183,43 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Fat Fish in Bountiful, UT$$$Fat Fish in Bountiful, UT, stands out as
+  a welcoming sushi restaurant offering a variety of fresh Asian dishes in a
+  relaxed environment. With options like sushi, pho, and flavorful drunken
+  noodles, it's an ideal spot for those seeking authentic flavors without the
+  formality. The laid-back setting makes it perfect for casual dining, whether
+  you're grabbing a quick meal or enjoying a leisurely evening with friends.
+  Accessibility features ensure everyone can enjoy the experience, adding to its
+  appeal for locals and visitors alike. For anyone searching for top-rated sushi
+  restaurants near Bountiful, this hidden gem delivers a satisfying blend of
+  taste and comfort.
+generative_summary: >-
+  Discover Fat Fish in Bountiful, UT$$$Fat Fish in Bountiful, UT, stands out as
+  a welcoming sushi restaurant offering a variety of fresh Asian dishes in a
+  relaxed environment. With options like sushi, pho, and flavorful drunken
+  noodles, it's an ideal spot for those seeking authentic flavors without the
+  formality. The laid-back setting makes it perfect for casual dining, whether
+  you're grabbing a quick meal or enjoying a leisurely evening with friends.
+  Accessibility features ensure everyone can enjoy the experience, adding to its
+  appeal for locals and visitors alike. For anyone searching for top-rated sushi
+  restaurants near Bountiful, this hidden gem delivers a satisfying blend of
+  taste and comfort.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What People Are Buzzing About$$$Though specific reviews for Fat Fish aren't
+  readily available, folks in the area often rave about similar sushi spots for
+  their fresh ingredients and diverse menu options that keep diners coming back.
+  Many appreciate the casual vibe and solid variety of dishes, making it a go-to
+  choice for those hunting for great sushi close to home. Visitors frequently
+  highlight the relaxed atmosphere as a plus for family outings or quick bites,
+  helping it build a reputation as a reliable favorite. Overall, it seems like
+  the emphasis on quality Asian cuisine resonates well, encouraging repeat
+  visits for anyone exploring Japanese places near me. If you're on the hunt for
+  the best sushi near me, this spot likely offers that satisfying, no-fuss
+  experience many seek.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +245,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -5,4 +5,5 @@ permalink: /ohio/parma/
 stateAbbr: OH
 stateName: Ohio
 cityName: Parma
+
 ---

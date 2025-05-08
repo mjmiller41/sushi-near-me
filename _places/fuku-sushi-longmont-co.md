@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Fuku sushi"
+title: Fuku sushi
 permalink: /colorado/longmont/fuku-sushi.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Longmont
 seo:
-  name: "Fuku sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Fuku sushi serves delicious sushi in Longmont, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJif0beyH6a4cRKnYCJXJ3A94
 photos:
   - name: >-
@@ -184,7 +182,42 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Fuku Sushi in Longmont, CO$$$Fuku Sushi in Longmont, CO, stands out
+  as a relaxed Japanese eatery specializing in fresh sushi and classic dishes
+  that capture the essence of authentic flavors. This spot offers a welcoming
+  atmosphere with options for sake, beer, and wine, making it a great choice for
+  casual dining or a quick meal with friends. Accessibility features like
+  wheelchair-friendly parking and entrances ensure everyone can enjoy the
+  experience, adding to its appeal for diverse visitors. For those exploring
+  sushi restaurants in the area, Fuku Sushi delivers quality ingredients and a
+  straightforward menu that highlights traditional fare, perfect for anyone
+  seeking satisfying Japanese options nearby.
+generative_summary: >-
+  Discover Fuku Sushi in Longmont, CO$$$Fuku Sushi in Longmont, CO, stands out
+  as a relaxed Japanese eatery specializing in fresh sushi and classic dishes
+  that capture the essence of authentic flavors. This spot offers a welcoming
+  atmosphere with options for sake, beer, and wine, making it a great choice for
+  casual dining or a quick meal with friends. Accessibility features like
+  wheelchair-friendly parking and entrances ensure everyone can enjoy the
+  experience, adding to its appeal for diverse visitors. For those exploring
+  sushi restaurants in the area, Fuku Sushi delivers quality ingredients and a
+  straightforward menu that highlights traditional fare, perfect for anyone
+  seeking satisfying Japanese options nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$While specific reviews for this spot aren't
+  readily available, feedback from similar sushi places suggests that diners
+  often rave about the fresh, flavorful rolls and generous portions that make it
+  a go-to for everyday cravings. Many appreciate the laid-back vibe and variety
+  of drinks, noting it as a solid pick for anyone hunting for sushi close to
+  them without the fuss. Folks frequently mention the welcoming environment as
+  ideal for casual meetups or solo visits, helping it stand out among local
+  Japanese eateries. Overall, it's viewed as a reliable choice for tasty meals,
+  with positive vibes around the authenticity and value, encouraging more people
+  to try it as one of the top-rated sushi options in the region.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +243,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

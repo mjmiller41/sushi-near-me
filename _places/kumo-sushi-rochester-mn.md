@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kumo Sushi"
+title: Kumo Sushi
 permalink: /minnesota/rochester/kumo-sushi.html
 stateAbbr: MN
 stateName: Minnesota
 cityName: Rochester
 seo:
-  name: "Kumo Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.kumosushirochester.com/
-description: "Kumo Sushi serves delicious sushi in Rochester, Minnesota. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJXTNUJltf94cRndLvvAqcmzU
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 0
 website: http://www.kumosushirochester.com/
+description: >-
+  About Kumo Sushi in Rochester, MN$$$Nestled in Rochester, MN, Kumo Sushi
+  stands out as a vibrant sushi restaurant offering an all-you-can-eat
+  experience with a diverse array of Japanese dishes. This spot features more
+  than 100 options, including fresh sushi rolls, ramen, and other flavorful
+  selections, making it a go-to choice for those seeking satisfying Japanese
+  cuisine nearby. Accessibility is a key highlight, with wheelchair-friendly
+  parking, entrances, restrooms, and seating designed for all guests. The
+  restaurant also provides convenient options like takeout and delivery, along
+  with free parking and a welcoming atmosphere captured in its visual appeal.
+  Whether you're exploring top-rated sushi places or craving authentic Japanese
+  flavors, Kumo Sushi delivers a well-rounded dining option at moderate price
+  points.
+generative_summary: >-
+  About Kumo Sushi in Rochester, MN$$$Nestled in Rochester, MN, Kumo Sushi
+  stands out as a vibrant sushi restaurant offering an all-you-can-eat
+  experience with a diverse array of Japanese dishes. This spot features more
+  than 100 options, including fresh sushi rolls, ramen, and other flavorful
+  selections, making it a go-to choice for those seeking satisfying Japanese
+  cuisine nearby. Accessibility is a key highlight, with wheelchair-friendly
+  parking, entrances, restrooms, and seating designed for all guests. The
+  restaurant also provides convenient options like takeout and delivery, along
+  with free parking and a welcoming atmosphere captured in its visual appeal.
+  Whether you're exploring top-rated sushi places or craving authentic Japanese
+  flavors, Kumo Sushi delivers a well-rounded dining option at moderate price
+  points.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJXTNUJltf94cRndLvvAqcmzU/reviews/ChdDSUhNMG9nS0VJQ0FnSUNmamNIZW13RRAB
@@ -348,6 +373,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURyX0pIbDJnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURyX0pIbDJnRRAB!2m1!1s0x87f75f5b2654335d:0x359b9c0abcefd29d
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors often praise Kumo Sushi for its
+  all-you-can-eat deals that include a wide range of tasty options like sushi
+  rolls and hearty ramen, making it a fun spot for groups or families. Many
+  appreciate the friendly service and quick turnaround, which adds to the
+  overall enjoyable vibe during meals. While some mention portions could be more
+  generous or balanced, the fresh ingredients and variety keep things exciting
+  for sushi enthusiasts. Overall, it's a solid pick for anyone searching for
+  reliable Japanese places, with the value standing out as a big plus despite
+  occasional feedback on pricing. If you're in the mood for quality sushi
+  experiences, this spot generally delivers a positive and memorable visit.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -380,7 +417,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

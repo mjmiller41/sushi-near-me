@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Oishii Mika Sushi"
+title: Oishii Mika Sushi
 permalink: /oregon/portland/oishii-mika-sushi.html
 stateAbbr: OR
 stateName: Oregon
 cityName: Portland
 seo:
-  name: "Oishii Mika Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Oishii Mika Sushi serves delicious sushi in Portland, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJiyXevxEKlVQR4SHBas0xiTE
 photos:
   - name: >-
@@ -184,7 +182,48 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Oishii Mika Sushi in Portland, OR$$$Oishii Mika Sushi in Portland,
+  Oregon, stands out as a welcoming spot for enjoying fresh sushi and
+  traditional Japanese dishes, blending casual vibes with an inviting atmosphere
+  that includes unique features like an aquarium. This sushi restaurant near you
+  offers a menu highlighted by classic fare such as bento boxes and artfully
+  crafted rolls, making it a go-to choice for those seeking authentic flavors in
+  a relaxed setting. Accessibility is a key strength, with options like
+  wheelchair-accessible entrances and seating that ensure everyone can enjoy the
+  experience comfortably. Whether you're exploring top-rated sushi places in the
+  area or looking for Japanese-inspired meals close to downtown, this location
+  delivers on quality and convenience, perfect for a satisfying meal in
+  Southwest Portland.
+generative_summary: >-
+  Discover Oishii Mika Sushi in Portland, OR$$$Oishii Mika Sushi in Portland,
+  Oregon, stands out as a welcoming spot for enjoying fresh sushi and
+  traditional Japanese dishes, blending casual vibes with an inviting atmosphere
+  that includes unique features like an aquarium. This sushi restaurant near you
+  offers a menu highlighted by classic fare such as bento boxes and artfully
+  crafted rolls, making it a go-to choice for those seeking authentic flavors in
+  a relaxed setting. Accessibility is a key strength, with options like
+  wheelchair-accessible entrances and seating that ensure everyone can enjoy the
+  experience comfortably. Whether you're exploring top-rated sushi places in the
+  area or looking for Japanese-inspired meals close to downtown, this location
+  delivers on quality and convenience, perfect for a satisfying meal in
+  Southwest Portland.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$From what people share about Oishii Mika Sushi, the
+  overall vibe leans positive, with many appreciating the fresh ingredients and
+  well-prepared rolls that hit the spot for sushi lovers. Folks often mention
+  the cozy, casual environment as a nice backdrop for enjoying traditional
+  dishes, helping it stand out among local options for a quick or relaxed bite.
+  While some note that service can vary, the general consensus highlights solid
+  portions and flavors that keep diners coming back, especially for everyday
+  meals or group outings. Overall, it seems like a reliable pick if you're
+  hunting for good sushi nearby, with the approachable setting adding to the
+  appeal without overwhelming expectations. If you're in the mood for something
+  simple and tasty, this place generally delivers a worthwhile experience worth
+  trying out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +249,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

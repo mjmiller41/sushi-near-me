@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Oma Sushi"
+title: Oma Sushi
 permalink: /california/san-francisco/oma-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
 seo:
-  name: "Oma Sushi"
-  type: Restaurant
-  links: null
-description: "Oma Sushi serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://omasushisf.com/
 place_id: ChIJPSa0sI-AhYARmg6ic389cNI
 photos:
   - name: >-
@@ -169,8 +167,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8085808fb0b4263d:0xd2703d7f73a20e9a!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 16
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 30
+    - open:
+        day: 2
+        hour: 12
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 30
+    - open:
+        day: 3
+        hour: 12
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 30
+    - open:
+        day: 4
+        hour: 12
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 30
+    - open:
+        day: 5
+        hour: 12
+        minute: 0
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: Closed'
+    - 'Tuesday: 12:00 – 10:30 PM'
+    - 'Wednesday: 12:00 – 10:30 PM'
+    - 'Thursday: 12:00 – 10:30 PM'
+    - 'Friday: 12:00 – 11:00 PM'
+    - 'Saturday: 12:00 – 11:00 PM'
+    - 'Sunday: 4:00 – 10:30 PM'
+  nextCloseTime: '2025-05-04T06:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -178,13 +233,54 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
+phone: (415) 757-0066
 price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+price_range: $20 &ndash; $30
+rating: '4.2'
+rating_count: 463
+website: http://omasushisf.com/
+description: >-
+  Discover Oma Sushi in San Francisco, CA$$$Nestled in the heart of San
+  Francisco, CA, Oma Sushi offers a welcoming spot for enjoying fresh Japanese
+  cuisine, particularly its standout sushi selections that draw in locals and
+  visitors alike. This cozy restaurant features a variety of dishes beyond
+  sushi, including flavorful ramen and light salads, all prepared with
+  high-quality ingredients that highlight traditional flavors. Accessibility is
+  a key highlight, with wheelchair-friendly entrances, restrooms, and seating
+  making it easy for everyone to enjoy a meal. Open several days a week with
+  extended evening hours, it's a convenient choice for those seeking sushi
+  dining options in a vibrant urban setting. Whether you're exploring top sushi
+  spots in the city or looking for a relaxed atmosphere, Oma Sushi combines
+  affordability with authentic tastes that keep diners coming back.
+generative_summary: >-
+  Discover Oma Sushi in San Francisco, CA$$$Nestled in the heart of San
+  Francisco, CA, Oma Sushi offers a welcoming spot for enjoying fresh Japanese
+  cuisine, particularly its standout sushi selections that draw in locals and
+  visitors alike. This cozy restaurant features a variety of dishes beyond
+  sushi, including flavorful ramen and light salads, all prepared with
+  high-quality ingredients that highlight traditional flavors. Accessibility is
+  a key highlight, with wheelchair-friendly entrances, restrooms, and seating
+  making it easy for everyone to enjoy a meal. Open several days a week with
+  extended evening hours, it's a convenient choice for those seeking sushi
+  dining options in a vibrant urban setting. Whether you're exploring top sushi
+  spots in the city or looking for a relaxed atmosphere, Oma Sushi combines
+  affordability with authentic tastes that keep diners coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Love About This Sushi Spot$$$Folks often rave about the tasty
+  sushi offerings at this Japanese restaurant, praising the fresh rolls and
+  combos that make for a satisfying meal without breaking the bank. Many
+  appreciate the efficient service that keeps things running smoothly, allowing
+  for a pleasant dining experience whether you're grabbing a quick bite or
+  settling in for more. While the prices are generally seen as reasonable, some
+  note that communication with the staff can occasionally feel a bit off, though
+  it doesn't overshadow the overall vibe. All in all, it's a solid pick for
+  anyone hunting for great sushi nearby, with highlights on the variety of
+  dishes that cater to different tastes. If you're on the hunt for reliable
+  sushi places in the area, this spot delivers a mostly positive experience
+  that's worth checking out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +306,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

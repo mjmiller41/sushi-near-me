@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Blu Fin Sushi & Bar"
+title: Blu Fin Sushi & Bar
 permalink: /arkansas/springdale/blu-fin-sushi-bar.html
 stateAbbr: AR
 stateName: Arkansas
 cityName: Springdale
 seo:
-  name: "Blu Fin Sushi & Bar"
-  type: Restaurant
+  type: restaurant
   links: https://m.facebook.com/Blufinsushibar/
-description: "Blu Fin Sushi & Bar serves delicious sushi in Springdale, Arkansas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJw_VQPcRsyYcREKqGm4Y_vr0
 photos:
   - name: >-
@@ -170,7 +168,81 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x87c96cc43d50f5c3:0xbdbe3f869b86aa10!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 13
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 20
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 13
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 20
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 13
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 20
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 13
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 20
+        minute: 30
+    - open:
+        day: 6
+        hour: 16
+        minute: 30
+      close:
+        day: 6
+        hour: 20
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:00 AM – 1:30 PM, 4:30 – 8:30 PM'
     - 'Wednesday: 11:00 AM – 1:30 PM, 4:30 – 8:30 PM'
@@ -178,14 +250,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 1:30 PM, 4:30 – 8:30 PM'
     - 'Saturday: 4:30 – 8:30 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:00 AM – 1:30 PM, 4:30 – 8:30 PM'
-    - 'Wednesday: 11:00 AM – 1:30 PM, 4:30 – 8:30 PM'
-    - 'Thursday: 11:00 AM – 1:30 PM, 4:30 – 8:30 PM'
-    - 'Friday: 11:00 AM – 1:30 PM, 4:30 – 8:30 PM'
-    - 'Saturday: 4:30 – 8:30 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T01:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +262,274 @@ phone: (479) 717-2877
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.4'
-rating_count: 0
+rating_count: 530
 website: https://m.facebook.com/Blufinsushibar/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Blu Fin Sushi & Bar in Springdale, AR$$$Blu Fin Sushi & Bar in
+  Springdale, AR, stands out as a welcoming spot for enjoying fresh
+  Japanese-inspired dishes, including a variety of sushi options that appeal to
+  those searching for reliable sushi restaurants nearby. This casual eatery
+  offers an array of classic fare like bento boxes and fried rice, complemented
+  by a selection of beverages including beer, wine, and cocktails, all served in
+  a modern, accessible space designed for comfort. With features like
+  wheelchair-accessible seating and parking, it caters to a wide range of diners
+  looking for an inclusive dining experience. The restaurant's moderate price
+  range makes it an attractive choice for everyday meals or special occasions,
+  while its operational hours provide flexibility for lunch or dinner visits.
+  Whether you're exploring top-rated sushi spots in the area, this location
+  delivers a blend of quality ingredients and a relaxed vibe that keeps patrons
+  coming back.
+generative_summary: >-
+  Discover Blu Fin Sushi & Bar in Springdale, AR$$$Blu Fin Sushi & Bar in
+  Springdale, AR, stands out as a welcoming spot for enjoying fresh
+  Japanese-inspired dishes, including a variety of sushi options that appeal to
+  those searching for reliable sushi restaurants nearby. This casual eatery
+  offers an array of classic fare like bento boxes and fried rice, complemented
+  by a selection of beverages including beer, wine, and cocktails, all served in
+  a modern, accessible space designed for comfort. With features like
+  wheelchair-accessible seating and parking, it caters to a wide range of diners
+  looking for an inclusive dining experience. The restaurant's moderate price
+  range makes it an attractive choice for everyday meals or special occasions,
+  while its operational hours provide flexibility for lunch or dinner visits.
+  Whether you're exploring top-rated sushi spots in the area, this location
+  delivers a blend of quality ingredients and a relaxed vibe that keeps patrons
+  coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJw_VQPcRsyYcREKqGm4Y_vr0/reviews/ChZDSUhNMG9nS0VJQ0FnSUMzMElLOExREAE
+    relativePublishTimeDescription: 6 months ago
+    rating: 5
+    text:
+      text: >-
+        First time visiting and we decided to sit at the bar.  Our server and
+        chef were very engaging and friendly.
+
+
+        My wife has celiac disease and our chef knew all the changes that were
+        needed to keep it safe for her and they have Gluten free soy sauce.
+
+
+        All of the items came out in a timely manner and were so beautiful. 
+        Properly chilled, tender, and tasty
+
+
+        She modified the Northern Lights Roll to be safe (no sauces) but still
+        lit it up and cooked the roll on the inside
+
+
+        We will come again
+      languageCode: en
+    originalText:
+      text: >-
+        First time visiting and we decided to sit at the bar.  Our server and
+        chef were very engaging and friendly.
+
+
+        My wife has celiac disease and our chef knew all the changes that were
+        needed to keep it safe for her and they have Gluten free soy sauce.
+
+
+        All of the items came out in a timely manner and were so beautiful. 
+        Properly chilled, tender, and tasty
+
+
+        She modified the Northern Lights Roll to be safe (no sauces) but still
+        lit it up and cooked the roll on the inside
+
+
+        We will come again
+      languageCode: en
+    authorAttribution:
+      displayName: Brian Marsh
+      uri: https://www.google.com/maps/contrib/114922378619697253017/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWFnnhOpI2H3PFANFWYHVDRlMhWQS3BgNR8pKSWdpRPWuTOhkSzqA=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2024-11-02T01:07:32.679028Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUMzMElLOExREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUMzMElLOExREAE!2m1!1s0x87c96cc43d50f5c3:0xbdbe3f869b86aa10
+  - name: >-
+      places/ChIJw_VQPcRsyYcREKqGm4Y_vr0/reviews/ChdDSUhNMG9nS0VJQ0FnTUNRLWR6WjhRRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        This sushi restaurant is one of the best I’ve ever been to. The owner is
+        always on location and runs one of the best restaurants that I frequent.
+        Sushi is top shelf best quality and they really know what they are doing
+        for quality and service. I make a stop here whenever I am staying in
+        Springdale.
+      languageCode: en
+    originalText:
+      text: >-
+        This sushi restaurant is one of the best I’ve ever been to. The owner is
+        always on location and runs one of the best restaurants that I frequent.
+        Sushi is top shelf best quality and they really know what they are doing
+        for quality and service. I make a stop here whenever I am staying in
+        Springdale.
+      languageCode: en
+    authorAttribution:
+      displayName: Nate P.
+      uri: https://www.google.com/maps/contrib/110826092666602052668/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVdMIuEfHzFIjmreDSewVnEBC7ixQPCYI1V8DxuIMOElr25-qA=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-03-06T03:26:50.683891Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNRLWR6WjhRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNRLWR6WjhRRRAB!2m1!1s0x87c96cc43d50f5c3:0xbdbe3f869b86aa10
+  - name: >-
+      places/ChIJw_VQPcRsyYcREKqGm4Y_vr0/reviews/ChZDSUhNMG9nS0VJQ0FnTURvc1l5NVlnEAE
+    relativePublishTimeDescription: a week ago
+    rating: 1
+    text:
+      text: >-
+        2 months ago I ordered a bunch of food to go. When I went in to pick it
+        up I had to wait over 20 minutes after the 30 minutes they told me it
+        would take. When I got home, we had half of our order right. I will give
+        them credit though, the manager called me and apologized and tried to
+        make it right by saying she would take care of me when I came back in.
+        Well, I tried again today. I called in, ordered 4 rolls to go. After
+        waiting 5-7 mins up front, the manager came back and told me they
+        finally figure it out. Turns out they haven’t even started my meal. She
+        blamed it on a new waitress. I told her I was done with them and walked
+        out. I will never try blu fin again, which is a shame, because the food
+        there is really good. They obviously have staff and communication issues
+        that need to get figured out. Service needs to be a priority.
+      languageCode: en
+    originalText:
+      text: >-
+        2 months ago I ordered a bunch of food to go. When I went in to pick it
+        up I had to wait over 20 minutes after the 30 minutes they told me it
+        would take. When I got home, we had half of our order right. I will give
+        them credit though, the manager called me and apologized and tried to
+        make it right by saying she would take care of me when I came back in.
+        Well, I tried again today. I called in, ordered 4 rolls to go. After
+        waiting 5-7 mins up front, the manager came back and told me they
+        finally figure it out. Turns out they haven’t even started my meal. She
+        blamed it on a new waitress. I told her I was done with them and walked
+        out. I will never try blu fin again, which is a shame, because the food
+        there is really good. They obviously have staff and communication issues
+        that need to get figured out. Service needs to be a priority.
+      languageCode: en
+    authorAttribution:
+      displayName: Tyler Sutherland
+      uri: https://www.google.com/maps/contrib/103821978531945374746/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKWek7poRWwhlQzuYZThTeQyTjucCrlT9Y_YofdgtSc9qjijw=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-26T00:46:30.867906Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURvc1l5NVlnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURvc1l5NVlnEAE!2m1!1s0x87c96cc43d50f5c3:0xbdbe3f869b86aa10
+  - name: >-
+      places/ChIJw_VQPcRsyYcREKqGm4Y_vr0/reviews/ChdDSUhNMG9nS0VJQ0FnSUN2aElXeXBnRRAB
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        Excellent food. Wonderful sushi. Love the Sumo roll, service is always
+        excellent. Very comfortable atmosphere. Good place for a date.
+      languageCode: en
+    originalText:
+      text: >-
+        Excellent food. Wonderful sushi. Love the Sumo roll, service is always
+        excellent. Very comfortable atmosphere. Good place for a date.
+      languageCode: en
+    authorAttribution:
+      displayName: Jared Laughlin
+      uri: https://www.google.com/maps/contrib/116559073380820000251/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVl7JYke1jUAoRTtBuy1852_CHqkW6qgHaoqbhRP3iNVKgHunHK=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-12-08T02:40:25.974700Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN2aElXeXBnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN2aElXeXBnRRAB!2m1!1s0x87c96cc43d50f5c3:0xbdbe3f869b86aa10
+  - name: >-
+      places/ChIJw_VQPcRsyYcREKqGm4Y_vr0/reviews/ChdDSUhNMG9nS0VJQ0FnSUR6ME5ycG9BRRAB
+    relativePublishTimeDescription: 11 months ago
+    rating: 3
+    text:
+      text: >-
+        Had the Highlander roll and it was amazing! The only problem was the
+        service. The waitress took my order, served the food but never seen her
+        again! She never came back to check on me and I needed extra napkins.
+        Finally, another waitress cleared my plates and I had to ask for my
+        check. It's ashame because the food is a 5 star but customer service
+        needs improvement!
+      languageCode: en
+    originalText:
+      text: >-
+        Had the Highlander roll and it was amazing! The only problem was the
+        service. The waitress took my order, served the food but never seen her
+        again! She never came back to check on me and I needed extra napkins.
+        Finally, another waitress cleared my plates and I had to ask for my
+        check. It's ashame because the food is a 5 star but customer service
+        needs improvement!
+      languageCode: en
+    authorAttribution:
+      displayName: Jodi Kennicutt
+      uri: https://www.google.com/maps/contrib/108767373179359345287/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjV5zzvz3oaESFgu36kwz3J6Ct6OIda6USY4uHhjnnzym6eJJ4pi=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-06-06T22:50:58.708924Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR6ME5ycG9BRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR6ME5ycG9BRRAB!2m1!1s0x87c96cc43d50f5c3:0xbdbe3f869b86aa10
+review_summary: >-
+  What Customers Are Saying About Blu Fin$$$Folks often rave about the fresh and
+  flavorful sushi rolls that make this spot a solid pick for anyone craving
+  Japanese cuisine close by, with many highlighting the creative dishes and
+  generous portions as standout features. While some mention occasional hiccups
+  like wait times or communication mix-ups during busy periods, the overall
+  service is frequently described as friendly and accommodating, especially for
+  dietary preferences. Diners appreciate the welcoming atmosphere that's great
+  for groups or casual dates, adding to the enjoyable vibe that keeps the
+  ratings high. It's clear the food quality shines through as a major draw,
+  encouraging repeat visits from locals seeking a reliable meal option. All in
+  all, this place maintains a positive reputation for delivering tasty
+  experiences, making it worth checking out if you're in the mood for something
+  satisfying.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  paidStreetParking: false
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
+delivery: false
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
 menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  A menu featuring an array of classic Japanese & Asian fare, specializing in
+  sushi in a modern space.
 
 ---

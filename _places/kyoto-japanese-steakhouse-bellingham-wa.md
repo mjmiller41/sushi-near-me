@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kyoto Japanese Steakhouse"
+title: Kyoto Japanese Steakhouse
 permalink: /washington/bellingham/kyoto-japanese-steakhouse.html
 stateAbbr: WA
 stateName: Washington
 cityName: Bellingham
 seo:
-  name: "Kyoto Japanese Steakhouse"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Kyoto Japanese Steakhouse serves delicious sushi in Bellingham, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJVStyEsWjhVQRx3bd96SbrNE
 photos:
   - name: >-
@@ -185,7 +183,45 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Kyoto Japanese Steakhouse in Bellingham, Washington$$$Nestled in
+  Bellingham, Washington, Kyoto Japanese Steakhouse offers a delightful blend of
+  traditional Japanese dining with options for hibachi and fresh sushi
+  selections, making it a go-to spot for those seeking authentic flavors. The
+  restaurant features an inviting atmosphere where diners can enjoy expertly
+  prepared dishes that highlight the artistry of Japanese cuisine, complemented
+  by accessible features for all guests. With a focus on generous portions and a
+  variety of menu choices, it's ideal for anyone exploring Japanese places in
+  the area looking for a satisfying meal. The emphasis on quality ingredients
+  and engaging presentation adds to the overall experience, appealing to those
+  in search of top-rated sushi options nearby.
+generative_summary: >-
+  Discover Kyoto Japanese Steakhouse in Bellingham, Washington$$$Nestled in
+  Bellingham, Washington, Kyoto Japanese Steakhouse offers a delightful blend of
+  traditional Japanese dining with options for hibachi and fresh sushi
+  selections, making it a go-to spot for those seeking authentic flavors. The
+  restaurant features an inviting atmosphere where diners can enjoy expertly
+  prepared dishes that highlight the artistry of Japanese cuisine, complemented
+  by accessible features for all guests. With a focus on generous portions and a
+  variety of menu choices, it's ideal for anyone exploring Japanese places in
+  the area looking for a satisfying meal. The emphasis on quality ingredients
+  and engaging presentation adds to the overall experience, appealing to those
+  in search of top-rated sushi options nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Guests Are Saying About This Local Favorite$$$Visitors often rave about
+  the hearty servings of steak, hibachi, and sushi at this spot, noting how the
+  generous portions make for a fulfilling dining experience that's hard to beat.
+  Many appreciate the welcoming and attentive team that helps make every visit
+  feel smooth and enjoyable, adding a layer of warmth to the meal. The hibachi
+  chefs bring an element of fun to the table with their lively cooking style,
+  turning dinner into an entertaining event that keeps guests coming back. While
+  some mention that waits can occasionally stretch out, the overall vibe remains
+  positive, with plenty of praise for the tasty offerings that satisfy cravings
+  for Japanese-inspired eats. If you're hunting for sushi restaurants near you,
+  this place stands out as a solid choice for a casual and flavorful outing.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +247,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

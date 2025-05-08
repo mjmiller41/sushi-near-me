@@ -5,4 +5,5 @@ permalink: /tennessee/nolensville/
 stateAbbr: TN
 stateName: Tennessee
 cityName: Nolensville
+
 ---

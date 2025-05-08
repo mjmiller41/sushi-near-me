@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Minato Sushi"
+title: Minato Sushi
 permalink: /california/lake-forest/minato-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Lake Forest
 seo:
-  name: "Minato Sushi"
-  type: Restaurant
-  links: null
-description: "Minato Sushi serves delicious sushi in Lake Forest, California. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.minatolakeforest.com/
 place_id: ChIJwdvC8_no3IARyHcBbWO7r9U
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80dce8f9f3c2dbc1:0xd5afbb636d0177c8!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:30 AM – 9:30 PM'
+    - 'Tuesday: 11:30 AM – 9:30 PM'
+    - 'Wednesday: 11:30 AM – 9:30 PM'
+    - 'Thursday: 11:30 AM – 9:30 PM'
+    - 'Friday: 11:30 AM – 10:00 PM'
+    - 'Saturday: 11:30 AM – 10:00 PM'
+    - 'Sunday: 11:30 AM – 9:30 PM'
+  nextCloseTime: '2025-05-04T05:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,53 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
+phone: (949) 472-4547
+price_level: PRICE_LEVEL_MODERATE
 price_range: null
-rating: null
-rating_count: 0
-website: null
+rating: '4.4'
+rating_count: 655
+website: http://www.minatolakeforest.com/
+description: >-
+  Discover Minato Sushi in Lake Forest, CA$$$Minato Sushi in Lake Forest, CA,
+  stands out as a popular all-you-can-eat Japanese dining spot, offering a wide
+  array of fresh sushi rolls and other traditional dishes in a relaxed,
+  welcoming environment. This sushi restaurant near you features an informal
+  atmosphere that makes it easy to enjoy flavorful options like handcrafted
+  rolls and savory sides, perfect for casual meals or gatherings. With
+  accessibility features ensuring everyone can dine comfortably, it's a go-to
+  choice for those seeking top-rated sushi experiences in the area. The extended
+  hours, including evenings and weekends, add convenience for locals hunting for
+  sushi places close to home, making it a reliable option for satisfying
+  cravings.
+generative_summary: >-
+  Discover Minato Sushi in Lake Forest, CA$$$Minato Sushi in Lake Forest, CA,
+  stands out as a popular all-you-can-eat Japanese dining spot, offering a wide
+  array of fresh sushi rolls and other traditional dishes in a relaxed,
+  welcoming environment. This sushi restaurant near you features an informal
+  atmosphere that makes it easy to enjoy flavorful options like handcrafted
+  rolls and savory sides, perfect for casual meals or gatherings. With
+  accessibility features ensuring everyone can dine comfortably, it's a go-to
+  choice for those seeking top-rated sushi experiences in the area. The extended
+  hours, including evenings and weekends, add convenience for locals hunting for
+  sushi places close to home, making it a reliable option for satisfying
+  cravings.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Buzzing About$$$Visitors to this Lake Forest sushi spot
+  often rave about the fresh flavors and generous portions that make it a
+  standout among local Japanese eateries, with many highlighting the variety
+  that keeps things exciting. Folks appreciate the consistent quality and
+  attentive service that contribute to its strong reputation as one of the best
+  sushi restaurants around, based on the high ratings from hundreds of satisfied
+  diners. While some mention minor waits during peak times, the overall vibe
+  remains positive, with praise for the value-packed all-you-can-eat deals that
+  appeal to families and groups alike. It's clear that sushi lovers near me find
+  it a solid pick for everyday dining, offering a mix of authentic tastes and
+  friendly vibes that encourage repeat visits. Overall, the feedback paints a
+  picture of a reliable spot that's worth trying for anyone exploring top-rated
+  sushi options in the region.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +314,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

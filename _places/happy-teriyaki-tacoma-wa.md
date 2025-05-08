@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Happy Teriyaki"
+title: Happy Teriyaki
 permalink: /washington/tacoma/happy-teriyaki.html
 stateAbbr: WA
 stateName: Washington
 cityName: Tacoma
 seo:
-  name: "Happy Teriyaki"
-  type: Restaurant
+  type: restaurant
   links: https://www.toasttab.com/happy/v3/
-description: "Happy Teriyaki serves delicious sushi in Tacoma, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJDaVecYgBkVQRtqEcC4S6f0A
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x54910188715ea50d:0x407fba840b1ca1b6!10e5
 primary_type: Asian Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 23
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 23
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 23
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 23
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 23
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 11:00 PM'
     - 'Tuesday: 11:00 AM – 11:00 PM'
     - 'Wednesday: 11:00 AM – 11:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 11:00 PM'
     - 'Saturday: 11:00 AM – 11:00 PM'
     - 'Sunday: 11:00 AM – 11:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 11:00 PM'
-    - 'Tuesday: 11:00 AM – 11:00 PM'
-    - 'Wednesday: 11:00 AM – 11:00 PM'
-    - 'Thursday: 11:00 AM – 11:00 PM'
-    - 'Friday: 11:00 AM – 11:00 PM'
-    - 'Saturday: 11:00 AM – 11:00 PM'
-    - 'Sunday: 11:00 AM – 11:00 PM'
+  nextCloseTime: '2025-05-04T06:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +246,44 @@ phone: (253) 531-1818
 price_level: PRICE_LEVEL_INEXPENSIVE
 price_range: $10 &ndash; $20
 rating: '3.7'
-rating_count: 0
+rating_count: 790
 website: https://www.toasttab.com/happy/v3/
+description: >-
+  Explore Happy Teriyaki in Tacoma, WA$$$Happy Teriyaki in Tacoma, Washington,
+  delights diners with its array of pan-Asian flavors, featuring fresh teriyaki
+  dishes and comforting options like pho in a welcoming, cozy setting. The menu
+  highlights affordable favorites such as teriyaki chicken and bubble tea,
+  making it a go-to spot for those seeking Asian-inspired meals near urban hubs.
+  With extended hours from 11 AM to 11 PM every day, it's ideal for casual
+  lunches or evening outings, appealing to anyone exploring Japanese-influenced
+  places in the area. Accessibility features like wheelchair-friendly parking
+  and entrances add to the convenience, ensuring a relaxed experience for all
+  visitors.
+generative_summary: >-
+  Explore Happy Teriyaki in Tacoma, WA$$$Happy Teriyaki in Tacoma, Washington,
+  delights diners with its array of pan-Asian flavors, featuring fresh teriyaki
+  dishes and comforting options like pho in a welcoming, cozy setting. The menu
+  highlights affordable favorites such as teriyaki chicken and bubble tea,
+  making it a go-to spot for those seeking Asian-inspired meals near urban hubs.
+  With extended hours from 11 AM to 11 PM every day, it's ideal for casual
+  lunches or evening outings, appealing to anyone exploring Japanese-influenced
+  places in the area. Accessibility features like wheelchair-friendly parking
+  and entrances add to the convenience, ensuring a relaxed experience for all
+  visitors.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback on Happy Teriyaki$$$Folks often rave about the tasty
+  teriyaki chicken and crispy katsu at this spot, noting how the flavors hit the
+  mark for a satisfying Asian meal. Many appreciate the late-night hours, which
+  make it super convenient for grabbing a bite after a long day without the
+  rush. While some mention that certain dishes like yakisoba could use a bit
+  more zest, the overall vibe keeps things upbeat and worth trying. It's clear
+  that the welcoming atmosphere and solid portions win over plenty of repeat
+  customers, though service might vary depending on the time you stop by. If
+  you're hunting for reliable Asian options nearby, this place generally
+  delivers a solid experience with room for occasional tweaks.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +309,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yoji Sushi House"
+title: Yoji Sushi House
 permalink: /california/san-francisco/yoji-sushi-house.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
 seo:
-  name: "Yoji Sushi House"
-  type: Restaurant
+  type: restaurant
   links: https://www.yojisushi.com/
-description: "Narrow Japanese choice with contemporary decor presenting innovative sushi rolls & noodle soups. Yoji Sushi House serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJa_emcu99j4ARNnzogUmoUXQ
 photos:
   - name: >-
@@ -184,6 +182,29 @@ price_range: $30 &ndash; $50
 rating: '4.1'
 rating_count: 0
 website: https://www.yojisushi.com/
+description: >-
+  Discover Yoji Sushi House in San Francisco, CA$$$Yoji Sushi House in San
+  Francisco, CA, stands out as a welcoming neighborhood spot for enjoying fresh
+  Japanese cuisine and innovative sushi options. This eatery delights with a
+  menu featuring creative rolls and flavorful noodle soups, all prepared with
+  high-quality ingredients that appeal to sushi lovers seeking variety.
+  Contemporary decor creates a cozy atmosphere, enhanced by happy hour specials
+  that make it an affordable choice for casual dining. Accessibility features
+  like wheelchair-friendly entrances add to its appeal, ensuring everyone can
+  enjoy the experience. Whether you're exploring top sushi restaurants nearby,
+  it's a great option for those craving authentic flavors in a relaxed setting.
+generative_summary: >-
+  Discover Yoji Sushi House in San Francisco, CA$$$Yoji Sushi House in San
+  Francisco, CA, stands out as a welcoming neighborhood spot for enjoying fresh
+  Japanese cuisine and innovative sushi options. This eatery delights with a
+  menu featuring creative rolls and flavorful noodle soups, all prepared with
+  high-quality ingredients that appeal to sushi lovers seeking variety.
+  Contemporary decor creates a cozy atmosphere, enhanced by happy hour specials
+  that make it an affordable choice for casual dining. Accessibility features
+  like wheelchair-friendly entrances add to its appeal, ensuring everyone can
+  enjoy the experience. Whether you're exploring top sushi restaurants nearby,
+  it's a great option for those craving authentic flavors in a relaxed setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJa_emcu99j4ARNnzogUmoUXQ/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3cFlHVmlnRRAB
@@ -509,6 +530,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQ5eHBXZGd3RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQ5eHBXZGd3RRAB!2m1!1s0x808f7def72a6f76b:0x7451a84981e87c36
+review_summary: >-
+  What Customers Are Saying$$$Visitors often rave about the incredibly fresh
+  ingredients and creative dishes at this sushi spot, making it a favorite for
+  those hunting for quality Japanese meals nearby. Many highlight the excellent
+  value and standout rolls that deliver a perfect balance of flavors and
+  textures, with happy hour deals adding to the fun vibe. While most feedback
+  focuses on the welcoming atmosphere and generous portions, a few mention
+  occasional service hiccups that didn't detract from the overall enjoyment.
+  Folks appreciate the reasonable prices and variety, encouraging repeat visits
+  for anyone seeking reliable sushi options. All in all, it's a solid pick for a
+  satisfying meal, with the positives far outweighing any minor issues.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options:
   acceptsCreditCards: true
@@ -538,8 +571,8 @@ serves_lunch: true
 serves_vegetarian_food: false
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Narrow Japanese choice with contemporary decor presenting innovative sushi
   rolls & noodle soups.
 

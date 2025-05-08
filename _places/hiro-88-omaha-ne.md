@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Hiro 88"
+title: Hiro 88
 permalink: /nebraska/omaha/hiro-88.html
 stateAbbr: NE
 stateName: Nebraska
 cityName: Omaha
 seo:
-  name: "Hiro 88"
-  type: Restaurant
-  links: null
-description: "Hiro 88 serves delicious sushi in Omaha, Nebraska. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://hiro88.com/hours-contact/
 place_id: ChIJNcTj266Pk4cREKjfc4gZGWE
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x87938faedbe3c435:0x6119198873dfa810!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 0
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 0
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 10:00 PM'
+    - 'Tuesday: 11:00 AM – 10:00 PM'
+    - 'Wednesday: 11:00 AM – 10:00 PM'
+    - 'Thursday: 11:00 AM – 10:00 PM'
+    - 'Friday: 11:00 AM – 12:00 AM'
+    - 'Saturday: 11:00 AM – 12:00 AM'
+    - 'Sunday: 11:00 AM – 10:00 PM'
+  nextCloseTime: '2025-05-04T05:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,53 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (402) 933-5168
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.3'
+rating_count: 1890
+website: https://hiro88.com/hours-contact/
+description: >-
+  Discover Hiro 88 in Omaha, NE$$$Nestled in the heart of Omaha, NE, Hiro 88
+  stands out as a welcoming Japanese restaurant offering a blend of fresh sushi
+  rolls, tasty small plates, and creative drinks that capture the essence of
+  authentic flavors. This spot is ideal for those seeking casual dining with
+  highlights like flavorful appetizers and specials that enhance the overall
+  experience, making it a go-to choice for sushi enthusiasts in the area. The
+  menu features a variety of options that pair perfectly with relaxed happy hour
+  vibes, providing an inviting atmosphere for enjoying light, satisfying meals.
+  Accessibility features ensure everyone can enjoy the space comfortably, adding
+  to its appeal as a convenient local destination. With its focus on quality
+  ingredients and a lively setting, it's a great pick for anyone exploring
+  Japanese cuisine nearby.
+generative_summary: >-
+  Discover Hiro 88 in Omaha, NE$$$Nestled in the heart of Omaha, NE, Hiro 88
+  stands out as a welcoming Japanese restaurant offering a blend of fresh sushi
+  rolls, tasty small plates, and creative drinks that capture the essence of
+  authentic flavors. This spot is ideal for those seeking casual dining with
+  highlights like flavorful appetizers and specials that enhance the overall
+  experience, making it a go-to choice for sushi enthusiasts in the area. The
+  menu features a variety of options that pair perfectly with relaxed happy hour
+  vibes, providing an inviting atmosphere for enjoying light, satisfying meals.
+  Accessibility features ensure everyone can enjoy the space comfortably, adding
+  to its appeal as a convenient local destination. With its focus on quality
+  ingredients and a lively setting, it's a great pick for anyone exploring
+  Japanese cuisine nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors often rave about the tasty sushi and
+  other dishes at this Japanese eatery, noting how the fresh rolls and creative
+  appetizers hit the spot for a satisfying meal. Many appreciate the friendly
+  service and solid happy hour options that make dining out feel even more
+  worthwhile, keeping things upbeat without overwhelming the experience. While
+  some mention occasional variations in the quality of the sushi, the overall
+  consensus leans positive, with highlights on the flavorful combinations and
+  welcoming vibe that keep folks coming back. It's a solid spot for groups or a
+  quick bite, offering a mix of reliable favorites that deliver on taste and
+  value. All in all, the feedback paints a picture of a dependable choice for
+  enjoying Japanese-inspired eats in a casual setting.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +314,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

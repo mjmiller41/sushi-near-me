@@ -5,4 +5,5 @@ permalink: /tennessee/collierville/
 stateAbbr: TN
 stateName: Tennessee
 cityName: Collierville
+
 ---

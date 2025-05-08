@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Unique Omakase"
+title: Unique Omakase
 permalink: /new-york/new-york/unique-omakase.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "Unique Omakase"
-  type: Restaurant
+  type: restaurant
   links: https://www.uniqueomakase.com/
-description: "Unique Omakase serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJ0auDar5ZwokR9HNRKrz9OsE
 photos:
   - name: >-
@@ -183,6 +181,33 @@ price_range: $100 &ndash; & up
 rating: '4.4'
 rating_count: 0
 website: https://www.uniqueomakase.com/
+description: >-
+  Discover Unique Omakase in New York, NY$$$Unique Omakase in New York, NY,
+  offers an intimate dining experience centered around authentic Japanese
+  cuisine that highlights fresh, expertly prepared sushi and omakase-style
+  meals. This sushi restaurant stands out for its carefully curated courses,
+  featuring high-quality ingredients and innovative flavors that appeal to those
+  seeking top-rated sushi options in the city. The cozy atmosphere provides a
+  comfortable setting for enjoying meticulously presented dishes, making it a
+  great choice for anyone exploring Japanese places near me. With thoughtful
+  accessibility features like wheelchair-accessible restrooms, it ensures a
+  welcoming environment for various diners. Overall, it's a standout spot for
+  those craving premium sushi experiences without an overly extravagant price
+  tag.
+generative_summary: >-
+  Discover Unique Omakase in New York, NY$$$Unique Omakase in New York, NY,
+  offers an intimate dining experience centered around authentic Japanese
+  cuisine that highlights fresh, expertly prepared sushi and omakase-style
+  meals. This sushi restaurant stands out for its carefully curated courses,
+  featuring high-quality ingredients and innovative flavors that appeal to those
+  seeking top-rated sushi options in the city. The cozy atmosphere provides a
+  comfortable setting for enjoying meticulously presented dishes, making it a
+  great choice for anyone exploring Japanese places near me. With thoughtful
+  accessibility features like wheelchair-accessible restrooms, it ensures a
+  welcoming environment for various diners. Overall, it's a standout spot for
+  those craving premium sushi experiences without an overly extravagant price
+  tag.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ0auDar5ZwokR9HNRKrz9OsE/reviews/ChdDSUhNMG9nS0VJQ0FnSURIXzUycjdnRRAB
@@ -346,6 +371,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR0c3AzR25RRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR0c3AzR25RRRAB!2m1!1s0x89c259be6a83abd1:0xc13afdbc2a5173f4
+review_summary: >-
+  What People Love About This Sushi Spot$$$Visitors to this sushi restaurant
+  often rave about the fresh and flavorful dishes that make every meal feel
+  special and satisfying. Many highlight the excellent value for the quality of
+  food, with appetizers and nigiri consistently impressing through their unique
+  tastes and beautiful presentations. Folks appreciate the attentive service
+  that keeps things engaging and ensures a comfortable, intimate vibe throughout
+  the experience. While not every dish is a hit for everyone, the overall
+  consensus leans positive, praising the generous portions and additional perks
+  like unlimited options. If you're on the hunt for reliable sushi near me, this
+  place delivers a solid, enjoyable outing that's worth checking out for its
+  welcoming approach and delicious highlights.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options:
   acceptsCreditCards: true
@@ -375,7 +413,7 @@ serves_lunch: true
 serves_vegetarian_food: false
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

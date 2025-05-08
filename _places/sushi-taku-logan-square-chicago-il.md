@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Taku-Logan Square"
+title: Sushi Taku-Logan Square
 permalink: /illinois/chicago/sushi-taku-logan-square.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
 seo:
-  name: "Sushi Taku-Logan Square"
-  type: Restaurant
-  links: null
-description: "Sushi Taku-Logan Square serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.sushitaku2283.com/
 place_id: ChIJ70lfDSbTD4gRNSeVe1Ubyac
 photos:
   - name: >-
@@ -169,8 +167,129 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x880fd3260d5f49ef:0xa7c91b557b952735!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 15
+        minute: 30
+    - open:
+        day: 0
+        hour: 16
+        minute: 30
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 12
+        minute: 0
+      close:
+        day: 1
+        hour: 15
+        minute: 30
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 12
+        minute: 0
+      close:
+        day: 2
+        hour: 15
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 12
+        minute: 0
+      close:
+        day: 3
+        hour: 15
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 12
+        minute: 0
+      close:
+        day: 4
+        hour: 15
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 12
+        minute: 0
+      close:
+        day: 5
+        hour: 15
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 15
+        minute: 30
+    - open:
+        day: 6
+        hour: 16
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 12:00 – 3:30 PM, 4:30 – 10:00 PM'
+    - 'Tuesday: 12:00 – 3:30 PM, 4:30 – 10:00 PM'
+    - 'Wednesday: 12:00 – 3:30 PM, 4:30 – 10:00 PM'
+    - 'Thursday: 12:00 – 3:30 PM, 4:30 – 10:00 PM'
+    - 'Friday: 12:00 – 3:30 PM, 4:30 – 10:30 PM'
+    - 'Saturday: 12:00 – 3:30 PM, 4:30 – 10:30 PM'
+    - 'Sunday: 12:00 – 3:30 PM, 4:30 – 10:00 PM'
+  nextCloseTime: '2025-05-04T03:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -178,13 +297,48 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (773) 799-8130
+price_level: PRICE_LEVEL_MODERATE
+price_range: $30 &ndash; $50
+rating: '4.5'
+rating_count: 1079
+website: http://www.sushitaku2283.com/
+description: >-
+  Discover Sushi Taku in Chicago, IL$$$Sushi Taku-Logan Square in Chicago, IL,
+  provides a laid-back atmosphere perfect for savoring fresh sushi and
+  traditional Japanese flavors. Drawing from its focus on relaxed dining and
+  all-you-can-eat offerings, the spot delivers a variety of expertly prepared
+  dishes that appeal to sushi lovers exploring local options. Accessibility
+  features like wheelchair-friendly entrances and seating make it an inclusive
+  choice for everyone, while its moderate pricing ensures a satisfying meal
+  without breaking the bank. Operating with convenient hours from midday lunches
+  to evening dinners, this Japanese-inspired eatery stands out as a go-to
+  destination for those seeking quality sushi places in the neighborhood.
+generative_summary: >-
+  Discover Sushi Taku in Chicago, IL$$$Sushi Taku-Logan Square in Chicago, IL,
+  provides a laid-back atmosphere perfect for savoring fresh sushi and
+  traditional Japanese flavors. Drawing from its focus on relaxed dining and
+  all-you-can-eat offerings, the spot delivers a variety of expertly prepared
+  dishes that appeal to sushi lovers exploring local options. Accessibility
+  features like wheelchair-friendly entrances and seating make it an inclusive
+  choice for everyone, while its moderate pricing ensures a satisfying meal
+  without breaking the bank. Operating with convenient hours from midday lunches
+  to evening dinners, this Japanese-inspired eatery stands out as a go-to
+  destination for those seeking quality sushi places in the neighborhood.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors often praise the fresh, high-quality
+  sushi and flavorful Japanese dishes, making it a solid pick for anyone craving
+  reliable eats nearby. Many highlight the great value of the all-you-can-eat
+  options, which keep things exciting without feeling overwhelming. While the
+  spot can get lively during peak times, the friendly service and welcoming vibe
+  help maintain a positive experience overall. It's frequently noted as a
+  favorite for groups or solo diners, offering an honest blend of tasty
+  selections and efficient atmosphere that keeps people coming back. In summary,
+  this place earns its high marks as a top choice for enjoyable Japanese cuisine
+  in the area.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +364,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushiya"
+title: Sushiya
 permalink: /new-hampshire/hanover/sushiya.html
 stateAbbr: NH
 stateName: New Hampshire
 cityName: Hanover
 seo:
-  name: "Sushiya"
-  type: Restaurant
+  type: restaurant
   links: http://sushiya.raniii.com/
-description: "Storefront nook with a relaxed vibe making creative sushi rolls along with Japanese & Korean plates. Sushiya serves delicious sushi in Hanover, New Hampshire. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ8bP0O-bJtEwROePWcygTqsg
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $10 &ndash; $20
 rating: '4.3'
 rating_count: 0
 website: http://sushiya.raniii.com/
+description: >-
+  Discover Sushiya in Hanover, NH$$$Sushiya in Hanover, NH, stands out as a
+  welcoming sushi restaurant blending creative rolls with authentic Japanese and
+  Korean-inspired dishes in a relaxed setting. This spot offers a variety of
+  fresh sushi options alongside flavorful plates that appeal to those exploring
+  local Japanese places near me, making it a go-to choice for casual dining. The
+  menu highlights inventive combinations and traditional favorites, all served
+  in an accessible environment with features like wheelchair-friendly entrances
+  and seating. Patrons can enjoy moderately priced meals that emphasize quality
+  ingredients, perfect for anyone seeking the best sushi near me. With its
+  casual vibe and thoughtful touches, Sushiya provides a satisfying experience
+  for those looking to savor diverse Asian flavors in the heart of the
+  community.
+generative_summary: >-
+  Discover Sushiya in Hanover, NH$$$Sushiya in Hanover, NH, stands out as a
+  welcoming sushi restaurant blending creative rolls with authentic Japanese and
+  Korean-inspired dishes in a relaxed setting. This spot offers a variety of
+  fresh sushi options alongside flavorful plates that appeal to those exploring
+  local Japanese places near me, making it a go-to choice for casual dining. The
+  menu highlights inventive combinations and traditional favorites, all served
+  in an accessible environment with features like wheelchair-friendly entrances
+  and seating. Patrons can enjoy moderately priced meals that emphasize quality
+  ingredients, perfect for anyone seeking the best sushi near me. With its
+  casual vibe and thoughtful touches, Sushiya provides a satisfying experience
+  for those looking to savor diverse Asian flavors in the heart of the
+  community.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ8bP0O-bJtEwROePWcygTqsg/reviews/ChZDSUhNMG9nS0VJQ0FnSUMzX19PNlJREAE
@@ -334,6 +359,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURBcHVTVGpRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURBcHVTVGpRRRAB!2m1!1s0x4cb4c9e63bf4b3f1:0xc8aa132873d6e339
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors to this sushi spot often rave about
+  the tasty rolls and unique menu items, with many highlighting the fresh
+  flavors and creative twists that make it a standout among sushi restaurants
+  near me. Folks appreciate the pleasant atmosphere and friendly service, noting
+  it as a solid option for groups or families in search of reliable Japanese
+  dining. While some mention occasional waits that could slow things down, the
+  overall consensus leans positive, with the delicious food encouraging return
+  trips despite minor hiccups. It's clear that the standout dishes and welcoming
+  feel keep people coming back, offering a balanced experience for sushi lovers.
+  Ultimately, this place delivers on flavor and variety, making it worth
+  checking out for anyone hunting for top-rated sushi in the area.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidParkingLot: true
   valetParking: false
@@ -365,8 +403,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Storefront nook with a relaxed vibe making creative sushi rolls along with
   Japanese & Korean plates.
 

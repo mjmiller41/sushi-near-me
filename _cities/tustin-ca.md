@@ -5,4 +5,5 @@ permalink: /california/tustin/
 stateAbbr: CA
 stateName: California
 cityName: Tustin
+
 ---

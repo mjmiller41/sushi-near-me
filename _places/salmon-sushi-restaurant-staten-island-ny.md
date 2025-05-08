@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "salmon sushi restaurant"
+title: salmon sushi restaurant
 permalink: /new-york/staten-island/salmon-sushi-restaurant.html
 stateAbbr: NY
 stateName: New York
 cityName: Staten Island
 seo:
-  name: "salmon sushi restaurant"
-  type: Restaurant
-  links: null
-description: "salmon sushi restaurant serves delicious sushi in Staten Island, New York. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://salmonsushiny.com/?utm_source=gmb&utm_medium=website
 place_id: ChIJtfFjmHJPwokRE4a9GAN1_fE
 photos:
   - name: >-
@@ -168,8 +166,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c24f729863f1b5:0xf1fd750318bd8613!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 10:30 PM'
+    - 'Tuesday: 11:00 AM – 10:30 PM'
+    - 'Wednesday: 11:00 AM – 10:30 PM'
+    - 'Thursday: 11:00 AM – 10:30 PM'
+    - 'Friday: 11:00 AM – 11:00 PM'
+    - 'Saturday: 11:00 AM – 11:00 PM'
+    - 'Sunday: 12:00 – 10:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -177,13 +240,54 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (718) 673-6736
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.3'
+rating_count: 80
+website: https://salmonsushiny.com/?utm_source=gmb&utm_medium=website
+description: >-
+  Discover Salmon Sushi in Staten Island, NY$$$Salmon Sushi Restaurant in Staten
+  Island, NY, stands out as a welcoming spot for fresh Japanese-inspired dishes,
+  blending traditional flavors with a comfortable atmosphere that invites
+  relaxation. This cozy eatery specializes in a variety of sushi options and
+  other classic Japanese meals, making it a great choice for anyone craving
+  authentic tastes in a laid-back setting. With options for catering, it's ideal
+  for both casual dinners and special events, enhancing its appeal for locals
+  and visitors alike. The restaurant maintains accessible entry points, ensuring
+  a smooth experience for many diners, while its moderate pricing keeps it
+  approachable without sacrificing quality. Whether you're exploring sushi spots
+  in the area or seeking Japanese cuisine nearby, this venue delivers a
+  satisfying blend of simplicity and flavor that keeps patrons returning.
+generative_summary: >-
+  Discover Salmon Sushi in Staten Island, NY$$$Salmon Sushi Restaurant in Staten
+  Island, NY, stands out as a welcoming spot for fresh Japanese-inspired dishes,
+  blending traditional flavors with a comfortable atmosphere that invites
+  relaxation. This cozy eatery specializes in a variety of sushi options and
+  other classic Japanese meals, making it a great choice for anyone craving
+  authentic tastes in a laid-back setting. With options for catering, it's ideal
+  for both casual dinners and special events, enhancing its appeal for locals
+  and visitors alike. The restaurant maintains accessible entry points, ensuring
+  a smooth experience for many diners, while its moderate pricing keeps it
+  approachable without sacrificing quality. Whether you're exploring sushi spots
+  in the area or seeking Japanese cuisine nearby, this venue delivers a
+  satisfying blend of simplicity and flavor that keeps patrons returning.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What People Are Buzzing About$$$Folks who've dined here often rave about the
+  fresh, flavorful sushi rolls and generous portions that hit the spot without
+  breaking the bank, based on the solid overall feedback from regular visitors.
+  Many appreciate the cozy vibe and attentive service that make meals feel
+  effortless and enjoyable, turning simple outings into memorable experiences.
+  While opinions vary, the general consensus leans positive, with highlights on
+  the variety of options that cater to different tastes, earning it a reputation
+  as a reliable go-to for Japanese eats in the neighborhood. It's clear that the
+  quality of the food and welcoming environment keep drawing people back, though
+  some note that busier times can mean a bit of a wait. All in all, if you're on
+  the hunt for top-notch sushi dining options around here, this place delivers a
+  consistently pleasant experience that's worth checking out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -209,7 +313,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

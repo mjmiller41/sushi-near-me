@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Chef 21 Sushi Burger Simpsonville"
+title: Chef 21 Sushi Burger Simpsonville
 permalink: /south-carolina/simpsonville/chef-21-sushi-burger-simpsonville.html
 stateAbbr: SC
 stateName: South Carolina
 cityName: Simpsonville
 seo:
-  name: "Chef 21 Sushi Burger Simpsonville"
-  type: Restaurant
+  type: restaurant
   links: https://www.chownow.com/order/28020/locations/41503
-description: "Chef 21 Sushi Burger Simpsonville serves delicious sushi in Simpsonville, South Carolina. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJezHRK7onWIgRRrNSprWLR_I
 photos:
   - name: >-
@@ -170,7 +168,113 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x885827ba2bd1317b:0xf2478bb5a652b346!10e5
 primary_type: Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 10
+        minute: 30
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 16
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 10
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 10
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 10
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 14
+        minute: 30
+    - open:
+        day: 6
+        hour: 16
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 10:30 AM – 2:30 PM, 4:00 – 9:00 PM'
     - 'Tuesday: 10:30 AM – 2:30 PM, 4:00 – 9:00 PM'
     - 'Wednesday: 10:30 AM – 2:30 PM, 4:00 – 9:00 PM'
@@ -178,14 +282,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 2:30 PM, 4:00 – 9:30 PM'
     - 'Saturday: 11:00 AM – 2:30 PM, 4:00 – 9:30 PM'
     - 'Sunday: 12:00 – 9:00 PM'
-  current:
-    - 'Monday: 10:30 AM – 2:30 PM, 4:00 – 9:00 PM'
-    - 'Tuesday: 10:30 AM – 2:30 PM, 4:00 – 9:00 PM'
-    - 'Wednesday: 10:30 AM – 2:30 PM, 4:00 – 9:00 PM'
-    - 'Thursday: 10:30 AM – 2:30 PM, 4:00 – 9:00 PM'
-    - 'Friday: 11:00 AM – 2:30 PM, 4:00 – 9:30 PM'
-    - 'Saturday: 11:00 AM – 2:30 PM, 4:00 – 9:30 PM'
-    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T01:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +294,48 @@ phone: (864) 688-2198
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.6'
-rating_count: 0
+rating_count: 557
 website: https://www.chownow.com/order/28020/locations/41503
+description: >-
+  Explore Chef 21 Sushi Burger in Simpsonville, SC$$$Nestled in Simpsonville,
+  SC, Chef 21 Sushi Burger stands out as a welcoming spot for those seeking
+  fresh Japanese-inspired cuisine, blending traditional flavors with creative
+  twists like sushi burgers and flavorful small plates. The cozy atmosphere
+  makes it an ideal choice for casual meals, where diners can enjoy expertly
+  prepared dishes in a relaxed setting that emphasizes accessibility and
+  comfort. With options ranging from classic rolls to innovative fusion items,
+  this sushi restaurant near you offers a menu that caters to a variety of
+  tastes, making it a go-to for anyone exploring top-rated Japanese places in
+  the area. Operating with convenient hours throughout the week, it's perfect
+  for lunch breaks or evening outings, ensuring you can savor high-quality
+  ingredients without the wait.
+generative_summary: >-
+  Explore Chef 21 Sushi Burger in Simpsonville, SC$$$Nestled in Simpsonville,
+  SC, Chef 21 Sushi Burger stands out as a welcoming spot for those seeking
+  fresh Japanese-inspired cuisine, blending traditional flavors with creative
+  twists like sushi burgers and flavorful small plates. The cozy atmosphere
+  makes it an ideal choice for casual meals, where diners can enjoy expertly
+  prepared dishes in a relaxed setting that emphasizes accessibility and
+  comfort. With options ranging from classic rolls to innovative fusion items,
+  this sushi restaurant near you offers a menu that caters to a variety of
+  tastes, making it a go-to for anyone exploring top-rated Japanese places in
+  the area. Operating with convenient hours throughout the week, it's perfect
+  for lunch breaks or evening outings, ensuring you can savor high-quality
+  ingredients without the wait.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback Highlights$$$Visitors often praise the standout sushi
+  selections at this spot, with many highlighting the inventive sushi burgers
+  and tasty rolls that deliver a satisfying mix of flavors and textures. Folks
+  appreciate the amazing ramen and exceptional appetizers like rangoons, which
+  add to the overall appeal of the menu for a casual dining experience. The
+  atmosphere comes across as cozy and modern, creating a comfortable vibe that
+  enhances every visit, while the service is frequently described as quick and
+  attentive, making meals feel seamless and enjoyable. Overall, it's clear that
+  this place earns its reputation for reliable, delicious options that keep
+  customers coming back for more Japanese-inspired eats.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +361,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

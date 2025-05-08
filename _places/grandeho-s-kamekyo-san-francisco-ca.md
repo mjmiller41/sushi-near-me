@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Grandeho's Kamekyo"
+title: Grandeho's Kamekyo
 permalink: /california/san-francisco/grandeho-s-kamekyo.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
 seo:
-  name: "Grandeho's Kamekyo"
-  type: Restaurant
+  type: restaurant
   links: http://www.gksushi.com/
-description: "A big menu offers Japanese classics & some unique dishes including sushi rolls, in a simple setting. Grandeho's Kamekyo serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ6ZHYPOGAhYARDFbfGSxE8o4
 photos:
   - name: >-
@@ -184,6 +182,33 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 0
 website: http://www.gksushi.com/
+description: >-
+  Discover Grandeho's Kamekyo in San Francisco, CA$$$Nestled in the heart of San
+  Francisco, CA, Grandeho's Kamekyo offers a welcoming spot for enjoying fresh
+  sushi and other Asian-inspired dishes in a relaxed setting. This Japanese
+  restaurant features a diverse menu that highlights creative sushi rolls
+  alongside classic options, making it a great choice for anyone seeking
+  flavorful meals in a family-friendly environment. With its simple yet inviting
+  atmosphere, the eatery emphasizes accessibility, including wheelchair-friendly
+  entrances and seating for a comfortable dining experience. Visitors can also
+  appreciate the variety of beverages available, from beer and wine to coffee,
+  enhancing the overall meal. Whether you're looking for top-rated sushi spots
+  nearby or a casual place to unwind, this establishment delivers on both taste
+  and convenience.
+generative_summary: >-
+  Discover Grandeho's Kamekyo in San Francisco, CA$$$Nestled in the heart of San
+  Francisco, CA, Grandeho's Kamekyo offers a welcoming spot for enjoying fresh
+  sushi and other Asian-inspired dishes in a relaxed setting. This Japanese
+  restaurant features a diverse menu that highlights creative sushi rolls
+  alongside classic options, making it a great choice for anyone seeking
+  flavorful meals in a family-friendly environment. With its simple yet inviting
+  atmosphere, the eatery emphasizes accessibility, including wheelchair-friendly
+  entrances and seating for a comfortable dining experience. Visitors can also
+  appreciate the variety of beverages available, from beer and wine to coffee,
+  enhancing the overall meal. Whether you're looking for top-rated sushi spots
+  nearby or a casual place to unwind, this establishment delivers on both taste
+  and convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ6ZHYPOGAhYARDFbfGSxE8o4/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3NEtUbDZnRRAB
@@ -325,6 +350,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURIaHQzR0dREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURIaHQzR0dREAE!2m1!1s0x808580e13cd891e9:0x8ef2442c19df560c
+review_summary: >-
+  What People Love About the Reviews$$$Feedback from diners highlights the
+  appealing mix of tasty sushi and a cozy vibe that makes this spot feel like a
+  neighborhood favorite, with many praising the flavorful rolls and overall
+  atmosphere. While some noted minor issues like inconsistencies in certain
+  dishes or service hiccups, the general consensus leans toward the food being
+  fresh and enjoyable for both sushi enthusiasts and casual eaters. Reviewers
+  often mention the welcoming environment and good value for the price, making
+  it a solid pick for groups or families looking for reliable Japanese options.
+  Overall, the positive experiences outweigh any small drawbacks, with plenty of
+  mentions of delicious specials that keep people coming back. If you're
+  searching for sushi places near you that offer a blend of quality and
+  approachability, this restaurant seems to hit the mark for a satisfying meal.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidStreetParking: true
   valetParking: false
@@ -357,8 +396,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   A big menu offers Japanese classics & some unique dishes including sushi
   rolls, in a simple setting.
 

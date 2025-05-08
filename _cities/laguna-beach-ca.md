@@ -5,4 +5,5 @@ permalink: /california/laguna-beach/
 stateAbbr: CA
 stateName: California
 cityName: Laguna Beach
+
 ---

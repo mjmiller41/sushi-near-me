@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sakana Sushi Bar"
+title: Sakana Sushi Bar
 permalink: /utah/west-jordan/sakana-sushi-bar.html
 stateAbbr: UT
 stateName: Utah
 cityName: West Jordan
 seo:
-  name: "Sakana Sushi Bar"
-  type: Restaurant
-  links: https://sakanasushibar.com/
-description: "Sakana Sushi Bar serves delicious sushi in West Jordan, Utah. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://sakanasushibar.com/
 place_id: ChIJ8xaiIumOUocRfLMbXRYjSzw
 photos:
   - name: >-
@@ -170,22 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x87528ee922a216f3:0x3c4b23165d1bb37c!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
-    - 'Monday: 11:30 AM – 3:00 PM, 5:00 – 9:00 PM'
-    - 'Tuesday: 11:30 AM – 3:00 PM, 5:00 – 9:00 PM'
-    - 'Wednesday: 11:30 AM – 3:00 PM, 5:00 – 9:00 PM'
-    - 'Thursday: 11:30 AM – 3:00 PM, 5:00 – 9:00 PM'
-    - 'Friday: 11:30 AM – 3:00 PM, 5:00 – 9:30 PM'
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 16
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:30 AM – 9:00 PM'
+    - 'Tuesday: 11:30 AM – 9:00 PM'
+    - 'Wednesday: 11:30 AM – 9:00 PM'
+    - 'Thursday: 11:30 AM – 9:00 PM'
+    - 'Friday: 11:30 AM – 9:30 PM'
     - 'Saturday: 12:00 – 9:30 PM'
     - 'Sunday: 4:00 – 8:30 PM'
-  current:
-    - 'Monday: 11:30 AM – 3:00 PM, 5:00 – 9:00 PM'
-    - 'Tuesday: 11:30 AM – 3:00 PM, 5:00 – 9:00 PM'
-    - 'Wednesday: 11:30 AM – 3:00 PM, 5:00 – 9:00 PM'
-    - 'Thursday: 11:30 AM – 3:00 PM, 5:00 – 9:00 PM'
-    - 'Friday: 11:30 AM – 3:00 PM, 5:00 – 9:30 PM'
-    - 'Saturday: 12:00 – 9:30 PM'
-    - 'Sunday: 4:00 – 8:30 PM'
+  nextCloseTime: '2025-05-04T03:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,36 +245,249 @@ secondary_opening_hours:
 phone: (801) 282-0670
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
-rating: '4.4'
-rating_count: 0
-website: https://sakanasushibar.com/
-reviews: null
-parking_options: null
-payment_options: null
+rating: '4.5'
+rating_count: 1170
+website: http://sakanasushibar.com/
+description: >-
+  About Sakana Sushi Bar in West Jordan, UT$$$Nestled in West Jordan, UT, Sakana
+  Sushi Bar stands out as a vibrant spot for Japanese cuisine enthusiasts,
+  offering a blend of traditional sushi and creative rolls in a lively,
+  welcoming environment. The restaurant features bright, inviting decor that
+  enhances the dining experience, with accessible options like
+  wheelchair-friendly entrances and seating to ensure everyone can enjoy their
+  meal comfortably. Patrons can savor a variety of fresh Asian dishes alongside
+  cocktails, sake, and wine, making it a go-to choice for those seeking
+  flavorful options in a casual yet elegant setting. Its convenient location
+  near Jordan Landing adds to the appeal, providing an easy stop for anyone
+  exploring local sushi restaurants. With extended hours and a focus on quality
+  ingredients, this spot delivers a satisfying mix of affordability and taste
+  that keeps diners coming back.
+generative_summary: >-
+  About Sakana Sushi Bar in West Jordan, UT$$$Nestled in West Jordan, UT, Sakana
+  Sushi Bar stands out as a vibrant spot for Japanese cuisine enthusiasts,
+  offering a blend of traditional sushi and creative rolls in a lively,
+  welcoming environment. The restaurant features bright, inviting decor that
+  enhances the dining experience, with accessible options like
+  wheelchair-friendly entrances and seating to ensure everyone can enjoy their
+  meal comfortably. Patrons can savor a variety of fresh Asian dishes alongside
+  cocktails, sake, and wine, making it a go-to choice for those seeking
+  flavorful options in a casual yet elegant setting. Its convenient location
+  near Jordan Landing adds to the appeal, providing an easy stop for anyone
+  exploring local sushi restaurants. With extended hours and a focus on quality
+  ingredients, this spot delivers a satisfying mix of affordability and taste
+  that keeps diners coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ8xaiIumOUocRfLMbXRYjSzw/reviews/ChdDSUhNMG9nS0VJQ0FnSUR2a3JxZGxRRRAB
+    relativePublishTimeDescription: 4 months ago
+    rating: 4
+    text:
+      text: >-
+        We love coming to Sakana for sushi! I think it’s a great price for what
+        you get. Staff is always friendly!
+      languageCode: en
+    originalText:
+      text: >-
+        We love coming to Sakana for sushi! I think it’s a great price for what
+        you get. Staff is always friendly!
+      languageCode: en
+    authorAttribution:
+      displayName: Michaela D
+      uri: https://www.google.com/maps/contrib/115866025771102212468/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJi3kgb3YHNQnugebinHcVsnRhQmjUFp3DWRVKUgRRbwQtGin4=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-12-19T01:49:32.200965Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR2a3JxZGxRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR2a3JxZGxRRRAB!2m1!1s0x87528ee922a216f3:0x3c4b23165d1bb37c
+  - name: >-
+      places/ChIJ8xaiIumOUocRfLMbXRYjSzw/reviews/ChdDSUhNMG9nS0VJQ0FnTURvZ29lT3Z3RRAB
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        Last time I was here was 12 yrs ago when my daughter was pregnant n she
+        was craving sushi 🍣
+      languageCode: en
+    originalText:
+      text: >-
+        Last time I was here was 12 yrs ago when my daughter was pregnant n she
+        was craving sushi 🍣
+      languageCode: en
+    authorAttribution:
+      displayName: danielle arnold
+      uri: https://www.google.com/maps/contrib/115777974581422043152/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWPRqjqC_xOFNk0JK5MlvwshYDNwiRRzdbmB0i31bAHSCle5sQ=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-23T03:21:49.399542Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURvZ29lT3Z3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURvZ29lT3Z3RRAB!2m1!1s0x87528ee922a216f3:0x3c4b23165d1bb37c
+  - name: >-
+      places/ChIJ8xaiIumOUocRfLMbXRYjSzw/reviews/ChdDSUhNMG9nS0VJQ0FnSUNabnJiNi1BRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        This was our first time here. We loved our waitress. She was very
+        personable and made us feel very welcome.
+
+
+        Restaurant atmosphere and decor are really nice. It also felt very
+        clean. The booths are a great option if you want to feel like you have a
+        bit of privacy.
+
+
+        We had some wine, the monkey brain appetizer,  3 different rolls, and
+        the Sakana steak entree. All of our food tasted fresh. The steak was
+        cooked perfectly. Our favorite roll was the pink flamingo.
+
+
+        Would recommend if you’re looking for a new place to try out.
+      languageCode: en
+    originalText:
+      text: >-
+        This was our first time here. We loved our waitress. She was very
+        personable and made us feel very welcome.
+
+
+        Restaurant atmosphere and decor are really nice. It also felt very
+        clean. The booths are a great option if you want to feel like you have a
+        bit of privacy.
+
+
+        We had some wine, the monkey brain appetizer,  3 different rolls, and
+        the Sakana steak entree. All of our food tasted fresh. The steak was
+        cooked perfectly. Our favorite roll was the pink flamingo.
+
+
+        Would recommend if you’re looking for a new place to try out.
+      languageCode: en
+    authorAttribution:
+      displayName: Joee Kirstine
+      uri: https://www.google.com/maps/contrib/116016290971984931288/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXWc8ahZXXSAzZzfvp2AT_7bndWx2t-lmfo00N3-QDSMPCFumog=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2023-09-11T04:34:48.730364Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNabnJiNi1BRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNabnJiNi1BRRAB!2m1!1s0x87528ee922a216f3:0x3c4b23165d1bb37c
+  - name: >-
+      places/ChIJ8xaiIumOUocRfLMbXRYjSzw/reviews/ChdDSUhNMG9nS0VJQ0FnTURvMktUVF93RRAB
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        I come to Sakana on a weekly basis during lunch hours. I have always
+        been impressed by their wait staff, especially Miriam. She is always
+        fast and on top of taking my order, filling my water, making sure my
+        meal is just right. Good food and great staff. Would highly recommend
+      languageCode: en
+    originalText:
+      text: >-
+        I come to Sakana on a weekly basis during lunch hours. I have always
+        been impressed by their wait staff, especially Miriam. She is always
+        fast and on top of taking my order, filling my water, making sure my
+        meal is just right. Good food and great staff. Would highly recommend
+      languageCode: en
+    authorAttribution:
+      displayName: Stephanie Sund
+      uri: https://www.google.com/maps/contrib/109071233748367715244/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWGWiOkZ6QcktFYb5Qc7yJn6v89PhfrqdXZOnw_U4cjHrQNLdL7=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-21T19:20:53.677415Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURvMktUVF93RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURvMktUVF93RRAB!2m1!1s0x87528ee922a216f3:0x3c4b23165d1bb37c
+  - name: >-
+      places/ChIJ8xaiIumOUocRfLMbXRYjSzw/reviews/ChZDSUhNMG9nS0VJQ0FnSURjajRiWkN3EAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        This is still my favorite local sushi place. They have options for our
+        whole family, both sushi lovers and haters alike. The Fresh Roll is
+        amazing. I tried that for the first time today and was so presently
+        impressed.
+
+        We also ordered the Yakisoba Beef, Chicken Tats, Veggie Roll, and
+        Rainbow Roll. Everything was delicious, and everyone left happy.
+      languageCode: en
+    originalText:
+      text: >-
+        This is still my favorite local sushi place. They have options for our
+        whole family, both sushi lovers and haters alike. The Fresh Roll is
+        amazing. I tried that for the first time today and was so presently
+        impressed.
+
+        We also ordered the Yakisoba Beef, Chicken Tats, Veggie Roll, and
+        Rainbow Roll. Everything was delicious, and everyone left happy.
+      languageCode: en
+    authorAttribution:
+      displayName: Kat Brown
+      uri: https://www.google.com/maps/contrib/112382946756338919410/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUI3GI8gIsNXe2UEn88RPoSSYEiNFvBH6HuTqEqNcQSfcOJDXK-Jg=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2025-02-07T20:20:21.203633Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURjajRiWkN3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURjajRiWkN3EAE!2m1!1s0x87528ee922a216f3:0x3c4b23165d1bb37c
+review_summary: >-
+  What Customers Are Raving About$$$Visitors to this sushi spot often highlight
+  the fresh flavors and great value of the dishes, making it a solid pick for
+  anyone craving reliable Japanese fare nearby. Many appreciate the friendly
+  service and welcoming vibe that make every meal feel relaxed and enjoyable,
+  with comments frequently noting how the variety of rolls and entrees cater to
+  different tastes. Feedback consistently praises the quality of appetizers and
+  mains, like creative rolls and hearty options, as consistently delicious and
+  well-prepared, encouraging repeat visits for lunch or dinner. Overall, folks
+  find it a fantastic choice for groups or families, with the atmosphere adding
+  to the positive experience without any major drawbacks. If you're on the hunt
+  for top-rated sushi close to you, this place delivers a consistently
+  satisfying meal that lives up to the buzz.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+  freeGarageParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: true
 outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  A mix of traditional sushi, innovative rolls & Japanese entrees prepped in
+  bright, orange-hued digs.
 
 ---

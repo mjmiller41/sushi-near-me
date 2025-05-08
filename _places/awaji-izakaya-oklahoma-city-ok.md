@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Awaji Izakaya"
+title: Awaji Izakaya
 permalink: /oklahoma/oklahoma-city/awaji-izakaya.html
 stateAbbr: OK
 stateName: Oklahoma
 cityName: Oklahoma City
 seo:
-  name: "Awaji Izakaya"
-  type: Restaurant
+  type: restaurant
   links: http://www.awaji-izakaya.com/
-description: "Awaji Izakaya serves delicious sushi in Oklahoma City, Oklahoma. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJoYE5CM0DsocRQkDfJAhhWek
 photos:
   - name: >-
@@ -170,7 +168,97 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x87b203cd083981a1:0xe959610824df4042!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 16
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 16
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 2:30 PM, 4:00 – 9:00 PM'
     - 'Tuesday: 11:00 AM – 2:30 PM, 4:00 – 9:00 PM'
     - 'Wednesday: 11:00 AM – 2:30 PM, 4:00 – 9:00 PM'
@@ -178,54 +266,419 @@ opening_hours:
     - 'Friday: 11:00 AM – 2:30 PM, 4:00 – 10:30 PM'
     - 'Saturday: 4:00 – 10:30 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:00 AM – 2:30 PM, 4:00 – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 2:30 PM, 4:00 – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 2:30 PM, 4:00 – 9:00 PM'
-    - 'Thursday: 11:00 AM – 2:30 PM, 4:00 – 9:00 PM'
-    - 'Friday: 11:00 AM – 2:30 PM, 4:00 – 10:30 PM'
-    - 'Saturday: 4:00 – 10:30 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T03:30:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 1
+          hour: 16
+          minute: 0
+        close:
+          day: 1
+          hour: 18
+          minute: 0
+      - open:
+          day: 2
+          hour: 16
+          minute: 0
+        close:
+          day: 2
+          hour: 18
+          minute: 0
+      - open:
+          day: 3
+          hour: 16
+          minute: 0
+        close:
+          day: 3
+          hour: 18
+          minute: 0
+      - open:
+          day: 4
+          hour: 16
+          minute: 0
+        close:
+          day: 4
+          hour: 18
+          minute: 0
+      - open:
+          day: 5
+          hour: 16
+          minute: 0
+        close:
+          day: 5
+          hour: 18
+          minute: 0
+      - open:
+          day: 6
+          hour: 16
+          minute: 0
+        close:
+          day: 6
+          hour: 18
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 4:00 – 6:00 PM'
+      - 'Tuesday: 4:00 – 6:00 PM'
+      - 'Wednesday: 4:00 – 6:00 PM'
+      - 'Thursday: 4:00 – 6:00 PM'
+      - 'Friday: 4:00 – 6:00 PM'
+      - 'Saturday: 4:00 – 6:00 PM'
+      - 'Sunday: Closed'
+    secondaryHoursType: HAPPY_HOUR
+    nextCloseTime: '2025-05-03T23:00:00Z'
+  - openNow: false
+    periods:
+      - open:
+          day: 1
+          hour: 11
+          minute: 0
+        close:
+          day: 1
+          hour: 14
+          minute: 30
+      - open:
+          day: 2
+          hour: 11
+          minute: 0
+        close:
+          day: 2
+          hour: 14
+          minute: 30
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 14
+          minute: 30
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 14
+          minute: 30
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 14
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 11:00 AM – 2:30 PM'
+      - 'Tuesday: 11:00 AM – 2:30 PM'
+      - 'Wednesday: 11:00 AM – 2:30 PM'
+      - 'Thursday: 11:00 AM – 2:30 PM'
+      - 'Friday: 11:00 AM – 2:30 PM'
+      - 'Saturday: Closed'
+      - 'Sunday: Closed'
+    secondaryHoursType: LUNCH
+    nextOpenTime: '2025-05-05T16:00:00Z'
+  - openNow: true
+    periods:
+      - open:
+          day: 1
+          hour: 16
+          minute: 0
+        close:
+          day: 1
+          hour: 21
+          minute: 0
+      - open:
+          day: 2
+          hour: 16
+          minute: 0
+        close:
+          day: 2
+          hour: 21
+          minute: 0
+      - open:
+          day: 3
+          hour: 16
+          minute: 0
+        close:
+          day: 3
+          hour: 21
+          minute: 0
+      - open:
+          day: 4
+          hour: 16
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 0
+      - open:
+          day: 5
+          hour: 16
+          minute: 0
+        close:
+          day: 5
+          hour: 22
+          minute: 30
+      - open:
+          day: 6
+          hour: 16
+          minute: 0
+        close:
+          day: 6
+          hour: 22
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 4:00 – 9:00 PM'
+      - 'Tuesday: 4:00 – 9:00 PM'
+      - 'Wednesday: 4:00 – 9:00 PM'
+      - 'Thursday: 4:00 – 9:00 PM'
+      - 'Friday: 4:00 – 10:30 PM'
+      - 'Saturday: 4:00 – 10:30 PM'
+      - 'Sunday: Closed'
+    secondaryHoursType: DINNER
+    nextCloseTime: '2025-05-04T03:30:00Z'
 phone: (405) 367-7360
 price_level: PRICE_LEVEL_MODERATE
 price_range: $30 &ndash; $50
 rating: '4.8'
-rating_count: 0
+rating_count: 339
 website: http://www.awaji-izakaya.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Awaji Izakaya in Oklahoma City, OK$$$Nestled in Oklahoma City, OK,
+  Awaji Izakaya stands out as a welcoming sushi restaurant offering a blend of
+  traditional Japanese flavors and modern twists. This cozy spot features fresh
+  sushi rolls, savory yakitori, and a selection of sake alongside craft
+  cocktails, making it a go-to for those seeking authentic yet innovative dining
+  experiences. With its inviting atmosphere and thoughtful accessibility options
+  like wheelchair-friendly entrances and seating, it's designed for everyone to
+  enjoy a comfortable meal. The restaurant also boasts extended hours for lunch
+  and dinner, including happy hour specials, appealing to locals looking for
+  top-rated sushi options nearby.
+generative_summary: >-
+  Discover Awaji Izakaya in Oklahoma City, OK$$$Nestled in Oklahoma City, OK,
+  Awaji Izakaya stands out as a welcoming sushi restaurant offering a blend of
+  traditional Japanese flavors and modern twists. This cozy spot features fresh
+  sushi rolls, savory yakitori, and a selection of sake alongside craft
+  cocktails, making it a go-to for those seeking authentic yet innovative dining
+  experiences. With its inviting atmosphere and thoughtful accessibility options
+  like wheelchair-friendly entrances and seating, it's designed for everyone to
+  enjoy a comfortable meal. The restaurant also boasts extended hours for lunch
+  and dinner, including happy hour specials, appealing to locals looking for
+  top-rated sushi options nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJoYE5CM0DsocRQkDfJAhhWek/reviews/ChZDSUhNMG9nS0VJQ0FnTURvN2FHR0t3EAE
+    relativePublishTimeDescription: in the last week
+    rating: 5
+    text:
+      text: >-
+        Sit at the bar! The bar tenders are the best, friendly and incredible
+        menu knowledge and recommendations. Food was great, service wonderful.
+        When ordering though, be sure to use the full name of the item you’re
+        wanting to avoid confusion. We wanted the Hokkaido Scallop Sashimi but
+        we only said the scallop sashimi so it didn’t come with all that was on
+        the Hokkaido Scallop Sashimi.
+      languageCode: en
+    originalText:
+      text: >-
+        Sit at the bar! The bar tenders are the best, friendly and incredible
+        menu knowledge and recommendations. Food was great, service wonderful.
+        When ordering though, be sure to use the full name of the item you’re
+        wanting to avoid confusion. We wanted the Hokkaido Scallop Sashimi but
+        we only said the scallop sashimi so it didn’t come with all that was on
+        the Hokkaido Scallop Sashimi.
+      languageCode: en
+    authorAttribution:
+      displayName: Double Jam
+      uri: https://www.google.com/maps/contrib/118290037012994841888/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJkioRlhvYRBnJeo2KdZfq-npRcToNPuwB4LnJt-nDFVunV5Jo=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-27T18:16:19.456926Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURvN2FHR0t3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURvN2FHR0t3EAE!2m1!1s0x87b203cd083981a1:0xe959610824df4042
+  - name: >-
+      places/ChIJoYE5CM0DsocRQkDfJAhhWek/reviews/ChZDSUhNMG9nS0VJQ0FnTURnaDctLVdREAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        This spot was so good. The rools were delicious, brussel sprouts cooked
+        to perfection, and service was excellent.
+
+        On top of that, the atmosphere & music were the icing on the cake.
+
+        We made it just in time for happy hour, big plus. Something different
+        everyday to look forward no matter what day you decided to visit.
+
+        I hate that it's a 30 min drive for me, but I'll definitely make it
+        again.
+      languageCode: en
+    originalText:
+      text: >-
+        This spot was so good. The rools were delicious, brussel sprouts cooked
+        to perfection, and service was excellent.
+
+        On top of that, the atmosphere & music were the icing on the cake.
+
+        We made it just in time for happy hour, big plus. Something different
+        everyday to look forward no matter what day you decided to visit.
+
+        I hate that it's a 30 min drive for me, but I'll definitely make it
+        again.
+      languageCode: en
+    authorAttribution:
+      displayName: Natasha Bhavnani
+      uri: https://www.google.com/maps/contrib/116125347359448187498/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXDu_mXJDd4KCUQNhFGvOzJKtrlBj1KCApyvCt04po5IekpEbwNHg=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-02-28T00:15:38.127068Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURnaDctLVdREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURnaDctLVdREAE!2m1!1s0x87b203cd083981a1:0xe959610824df4042
+  - name: >-
+      places/ChIJoYE5CM0DsocRQkDfJAhhWek/reviews/ChdDSUhNMG9nS0VJQ0FnSUN2aFBiMHVBRRAB
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        This place is awesome inside! Love the decor. We had an amazing server
+        he was so attentive and helpful. Even gave us free cheesecake 😋 my
+        noodles didn’t have a ton of flavor but my husbands dish was great
+      languageCode: en
+    originalText:
+      text: >-
+        This place is awesome inside! Love the decor. We had an amazing server
+        he was so attentive and helpful. Even gave us free cheesecake 😋 my
+        noodles didn’t have a ton of flavor but my husbands dish was great
+      languageCode: en
+    authorAttribution:
+      displayName: Lyndsay Gillow
+      uri: https://www.google.com/maps/contrib/109580357233019375002/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjW12r9uAv8GjyRbJnhcJAliJOyddyfiC8vGZ-7dCU97J_gRzKGM2g=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-12-08T02:14:20.459053Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN2aFBiMHVBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN2aFBiMHVBRRAB!2m1!1s0x87b203cd083981a1:0xe959610824df4042
+  - name: >-
+      places/ChIJoYE5CM0DsocRQkDfJAhhWek/reviews/ChZDSUhNMG9nS0VJQ0FnTUNnM0tLN1F3EAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        Love coming here! It’s amazing and the BEST sashimi in oklahoma. By FAR.
+        Freshest fish. Good environment, great service, very upbeat, it’s a
+        hidden gem!!! Anytime I want a good meal or am craving sushi this is my
+        SPOT. Even the other stuff on the menu is delicious. Try the
+        honeymooners. It’s like a crab jalepeno popper almost. Udon noodles are
+        amazing. Uni, chatoro, scallops, salmon, Anything your heart desires,
+        you won’t be disappointed.
+      languageCode: en
+    originalText:
+      text: >-
+        Love coming here! It’s amazing and the BEST sashimi in oklahoma. By FAR.
+        Freshest fish. Good environment, great service, very upbeat, it’s a
+        hidden gem!!! Anytime I want a good meal or am craving sushi this is my
+        SPOT. Even the other stuff on the menu is delicious. Try the
+        honeymooners. It’s like a crab jalepeno popper almost. Udon noodles are
+        amazing. Uni, chatoro, scallops, salmon, Anything your heart desires,
+        you won’t be disappointed.
+      languageCode: en
+    authorAttribution:
+      displayName: Ashley Allen
+      uri: https://www.google.com/maps/contrib/116365786574057829201/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJjZAdgqBVxXJktiZA-f1c3ZayozjOUrm94AT9gZ7P5YK4L3A=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-02-15T03:45:26.954470Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNnM0tLN1F3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNnM0tLN1F3EAE!2m1!1s0x87b203cd083981a1:0xe959610824df4042
+  - name: >-
+      places/ChIJoYE5CM0DsocRQkDfJAhhWek/reviews/ChdDSUhNMG9nS0VJQ0FnTURRdGQ3YTdRRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Sushi spot here in OKC. Be sure to make a reservation ahead of time
+        because they stay busy. Don’t hold back on the apps because both that we
+        got were solid.
+
+
+        P.s. bonus if it’s your birthday bc the bartender can saannngg!!
+      languageCode: en
+    originalText:
+      text: >-
+        Sushi spot here in OKC. Be sure to make a reservation ahead of time
+        because they stay busy. Don’t hold back on the apps because both that we
+        got were solid.
+
+
+        P.s. bonus if it’s your birthday bc the bartender can saannngg!!
+      languageCode: en
+    authorAttribution:
+      displayName: Joann Thomas Cherian
+      uri: https://www.google.com/maps/contrib/112191913736845260162/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVvHmnV84jsuJvAaF-jEDcpFz4PC7N8ONtTjbHfiiwR0uww5Gfn=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-03-12T19:45:47.620519Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURRdGQ3YTdRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURRdGQ3YTdRRRAB!2m1!1s0x87b203cd083981a1:0xe959610824df4042
+review_summary: >-
+  What Visitors Love About This Sushi Gem$$$Folks often rave about the delicious
+  sushi and fresh ingredients that make every bite feel special, turning it into
+  a favorite for anyone searching for quality Japanese cuisine in the area. Many
+  appreciate the friendly service and vibrant vibe that enhance the overall
+  dining experience, with highlights on tasty appetizers and unique dishes that
+  keep things exciting. It's commonly noted that happy hour deals add great
+  value, encouraging repeat visits for those craving something different yet
+  satisfying. Overall, the welcoming environment and solid food offerings make
+  it a reliable choice for groups or solo diners, earning it high marks as one
+  of the best sushi spots around.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+curbside_pickup: false
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: true
+live_music: true
+menu_for_children: true
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
+serves_dinner: true
+serves_dessert: true
 serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

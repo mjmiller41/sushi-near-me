@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi & Noodles"
+title: Sushi & Noodles
 permalink: /new-york/brooklyn/sushi-noodles.html
 stateAbbr: NY
 stateName: New York
 cityName: Brooklyn
 seo:
-  name: "Sushi & Noodles"
-  type: Restaurant
-  links: null
-description: "Sushi & Noodles serves delicious sushi in Brooklyn, New York. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://sushinoodlesny.kwickmenu.com/
 place_id: ChIJcXjFt2JdwokRa-oSWRXXTV4
 photos:
   - name: >-
@@ -170,8 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c25d62b7c57871:0x5e4dd7155912ea6b!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 13
+        minute: 30
+      close:
+        day: 0
+        hour: 22
+        minute: 30
+    - open:
+        day: 1
+        hour: 13
+        minute: 30
+      close:
+        day: 1
+        hour: 22
+        minute: 30
+    - open:
+        day: 3
+        hour: 13
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 30
+    - open:
+        day: 4
+        hour: 13
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 30
+    - open:
+        day: 5
+        hour: 13
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 13
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 1:30 – 10:30 PM'
+    - 'Tuesday: Closed'
+    - 'Wednesday: 1:30 – 10:30 PM'
+    - 'Thursday: 1:30 – 10:30 PM'
+    - 'Friday: 1:30 – 10:30 PM'
+    - 'Saturday: 1:30 – 10:30 PM'
+    - 'Sunday: 1:30 – 10:30 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +234,51 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (718) 366-2825
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.1'
+rating_count: 300
+website: https://sushinoodlesny.kwickmenu.com/
+description: >-
+  Discover Sushi & Noodles in Brooklyn, NY$$$Sushi & Noodles in Brooklyn, NY,
+  stands out as a welcoming Japanese eatery known for its fresh sushi and noodle
+  offerings, perfect for those seeking authentic flavors in a casual setting.
+  The spot emphasizes quality ingredients and a variety of dishes that highlight
+  traditional techniques, making it a go-to for sushi enthusiasts exploring
+  local dining options. With convenient accessibility features like
+  wheelchair-friendly entrances and seating, it caters to a wide range of
+  visitors looking for an easy and enjoyable meal. Operating in the evenings,
+  this neighborhood favorite provides a relaxed atmosphere ideal for dine-in
+  experiences, blending simplicity with satisfying tastes that keep locals
+  coming back for more.
+generative_summary: >-
+  Discover Sushi & Noodles in Brooklyn, NY$$$Sushi & Noodles in Brooklyn, NY,
+  stands out as a welcoming Japanese eatery known for its fresh sushi and noodle
+  offerings, perfect for those seeking authentic flavors in a casual setting.
+  The spot emphasizes quality ingredients and a variety of dishes that highlight
+  traditional techniques, making it a go-to for sushi enthusiasts exploring
+  local dining options. With convenient accessibility features like
+  wheelchair-friendly entrances and seating, it caters to a wide range of
+  visitors looking for an easy and enjoyable meal. Operating in the evenings,
+  this neighborhood favorite provides a relaxed atmosphere ideal for dine-in
+  experiences, blending simplicity with satisfying tastes that keep locals
+  coming back for more.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Buzz Around This Local Sushi Spot$$$Visitors to this Brooklyn sushi restaurant
+  often rave about the fresh flavors and generous portions that make every visit
+  feel worthwhile, drawing in fans of Japanese cuisine from nearby areas. Many
+  appreciate the consistent quality and attentive service that elevate simple
+  meals into memorable ones, with comments frequently highlighting the value for
+  the price. While not every dish hits the mark for everyone, the overall vibe
+  and reliable offerings have earned it solid praise, making it a solid choice
+  for anyone hunting for top-rated sushi options close to home. The positive
+  feedback underscores a welcoming environment that's great for casual outings,
+  encouraging repeat trips for those who enjoy straightforward, honest dining
+  experiences.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +304,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

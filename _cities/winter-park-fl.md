@@ -5,4 +5,5 @@ permalink: /florida/winter-park/
 stateAbbr: FL
 stateName: Florida
 cityName: Winter Park
+
 ---

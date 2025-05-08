@@ -5,4 +5,5 @@ permalink: /new-york/canandaigua/
 stateAbbr: NY
 stateName: New York
 cityName: Canandaigua
+
 ---

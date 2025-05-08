@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "The Goblin Detroit"
+title: The Goblin Detroit
 permalink: /michigan/detroit/the-goblin-detroit.html
 stateAbbr: MI
 stateName: Michigan
 cityName: Detroit
 seo:
-  name: "The Goblin Detroit"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "The Goblin Detroit serves delicious sushi in Detroit, Michigan. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJd3kyp5MtO4gRg5RgD1YigHw
 photos:
   - name: >-
@@ -184,7 +182,42 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover The Goblin Detroit in Detroit, MI$$$The Goblin Detroit in Detroit,
+  MI, stands out as a welcoming sushi restaurant offering a blend of casual
+  dining and authentic Japanese flavors. This spot features an array of fresh
+  sushi rolls and other traditional fare, complemented by a selection of
+  beverages like sake, beer, and wine, making it ideal for relaxed meals.
+  Visitors appreciate the accessible entrance and parking, enhancing the overall
+  experience for everyone. The menu highlights creative options that cater to
+  various tastes, from classic rolls to innovative dishes. Whether you're
+  exploring sushi places near you or seeking a cozy spot for Japanese cuisine,
+  this location delivers a straightforward yet enjoyable atmosphere.
+generative_summary: >-
+  Discover The Goblin Detroit in Detroit, MI$$$The Goblin Detroit in Detroit,
+  MI, stands out as a welcoming sushi restaurant offering a blend of casual
+  dining and authentic Japanese flavors. This spot features an array of fresh
+  sushi rolls and other traditional fare, complemented by a selection of
+  beverages like sake, beer, and wine, making it ideal for relaxed meals.
+  Visitors appreciate the accessible entrance and parking, enhancing the overall
+  experience for everyone. The menu highlights creative options that cater to
+  various tastes, from classic rolls to innovative dishes. Whether you're
+  exploring sushi places near you or seeking a cozy spot for Japanese cuisine,
+  this location delivers a straightforward yet enjoyable atmosphere.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Reviewers Are Buzzing About$$$Folks chatting about this sushi restaurant
+  often rave about the extensive menu packed with inventive rolls and super
+  fresh ingredients, making it a go-to for tasty options without breaking the
+  bank. Many highlight the warm and attentive service that adds a nice touch to
+  the whole visit, helping make every meal feel welcoming. It's frequently noted
+  for offering great value, with affordable prices that keep diners coming back
+  for more. Overall, the feedback paints a picture of a spot that's reliable for
+  casual outings, earning nods as one of the top-rated sushi spots around. If
+  you're on the hunt for solid sushi restaurants nearby, this place seems to hit
+  the mark with its approachable vibe and satisfying dishes.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +243,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

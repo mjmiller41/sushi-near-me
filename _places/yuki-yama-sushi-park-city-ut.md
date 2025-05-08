@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yuki Yama Sushi"
+title: Yuki Yama Sushi
 permalink: /utah/park-city/yuki-yama-sushi.html
 stateAbbr: UT
 stateName: Utah
 cityName: Park City
 seo:
-  name: "Yuki Yama Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.yukiyamasushi.com/
-description: "Yuki Yama Sushi serves delicious sushi in Park City, Utah. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ97fKPL1yUocRqAACv0Qa0PU
 photos:
   - name: >-
@@ -155,7 +153,7 @@ accessibility_options:
   wheelchairAccessibleEntrance: true
   wheelchairAccessibleRestroom: true
   wheelchairAccessibleSeating: true
-business_status: OPERATIONAL
+business_status: CLOSED_TEMPORARILY
 name: Yuki Yama Sushi
 google_maps_links:
   directionsUri: >-
@@ -196,35 +194,238 @@ phone: (435) 649-6293
 price_level: PRICE_LEVEL_EXPENSIVE
 price_range: $50 &ndash; $100
 rating: '4.5'
-rating_count: 0
+rating_count: 972
 website: https://www.yukiyamasushi.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Yuki Yama Sushi in Park City, UT$$$Yuki Yama Sushi in Park City, UT,
+  stands out as a welcoming Japanese eatery blending traditional flavors with
+  creative twists, making it a go-to spot for those seeking authentic sushi
+  experiences in the area. This cozy venue serves up seasonal noodle dishes and
+  innovative sashimi plates, complemented by an airy atmosphere and playful
+  lighting that enhances the dining vibe. Patrons can enjoy a variety of classic
+  Japanese offerings, including fresh rolls and sake selections, all designed to
+  cater to both sushi enthusiasts and newcomers exploring Japanese cuisine
+  nearby. With accessibility features like wheelchair-friendly entrances and
+  seating, it's an inclusive choice for a relaxed meal, perfect for anyone
+  hunting for top-rated Japanese places in this mountain town. Whether you're
+  looking for sushi restaurants near me or a memorable evening out, this spot
+  delivers on fresh ingredients and thoughtful presentation.
+generative_summary: >-
+  Discover Yuki Yama Sushi in Park City, UT$$$Yuki Yama Sushi in Park City, UT,
+  stands out as a welcoming Japanese eatery blending traditional flavors with
+  creative twists, making it a go-to spot for those seeking authentic sushi
+  experiences in the area. This cozy venue serves up seasonal noodle dishes and
+  innovative sashimi plates, complemented by an airy atmosphere and playful
+  lighting that enhances the dining vibe. Patrons can enjoy a variety of classic
+  Japanese offerings, including fresh rolls and sake selections, all designed to
+  cater to both sushi enthusiasts and newcomers exploring Japanese cuisine
+  nearby. With accessibility features like wheelchair-friendly entrances and
+  seating, it's an inclusive choice for a relaxed meal, perfect for anyone
+  hunting for top-rated Japanese places in this mountain town. Whether you're
+  looking for sushi restaurants near me or a memorable evening out, this spot
+  delivers on fresh ingredients and thoughtful presentation.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ97fKPL1yUocRqAACv0Qa0PU/reviews/ChZDSUhNMG9nS0VJQ0FnSUNmci1xZ09BEAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        Incredible experience here at Yuki Yama Sushi. The only downside was how
+        filling every dish was and we couldn't order more! The staff are genuine
+        and recommended excellent dishes. The tokyo sour was a great drink,
+        nicely balanced and frothy.
+      languageCode: en
+    originalText:
+      text: >-
+        Incredible experience here at Yuki Yama Sushi. The only downside was how
+        filling every dish was and we couldn't order more! The staff are genuine
+        and recommended excellent dishes. The tokyo sour was a great drink,
+        nicely balanced and frothy.
+      languageCode: en
+    authorAttribution:
+      displayName: Abigail Thomas
+      uri: https://www.google.com/maps/contrib/109418126251841167751/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWTtUFjZ0uTNeLtCfDJBRXHjbIZdpMyD9JE5egIJv1lvTPQ7rfwbw=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-01-02T20:08:45.351389Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNmci1xZ09BEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNmci1xZ09BEAE!2m1!1s0x875272bd3ccab7f7:0xf5d01a44bf0200a8
+  - name: >-
+      places/ChIJ97fKPL1yUocRqAACv0Qa0PU/reviews/ChdDSUhNMG9nS0VJQ0FnTURneGNLaGl3RRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        Brodie took incredible care of us two nights in a row. Highly recommend
+        sitting at the bar and letting the chef guide you omakase style and let
+        Brodie help you with sake recommendations throughout, Stacie was
+        wonderful in guiding our palettes as well, and it’s worth noting the
+        incredible atmosphere and soundtrack that this place offers in Park
+        City, a very fun night out with incredible food and service! Truly a
+        highly of our first trip to Park City
+      languageCode: en
+    originalText:
+      text: >-
+        Brodie took incredible care of us two nights in a row. Highly recommend
+        sitting at the bar and letting the chef guide you omakase style and let
+        Brodie help you with sake recommendations throughout, Stacie was
+        wonderful in guiding our palettes as well, and it’s worth noting the
+        incredible atmosphere and soundtrack that this place offers in Park
+        City, a very fun night out with incredible food and service! Truly a
+        highly of our first trip to Park City
+      languageCode: en
+    authorAttribution:
+      displayName: Matthew Summers
+      uri: https://www.google.com/maps/contrib/105877988117320880083/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLSVOv5TD-gpezuVJt3BQixQu9gb91vQ15fsPe9_V8XRPuMqmB7=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-02-26T03:26:49.617667Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURneGNLaGl3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURneGNLaGl3RRAB!2m1!1s0x875272bd3ccab7f7:0xf5d01a44bf0200a8
+  - name: >-
+      places/ChIJ97fKPL1yUocRqAACv0Qa0PU/reviews/ChZDSUhNMG9nS0VJQ0FnSUN2X28yWldBEAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        Ramen was outstanding and full of flavor, especially on a cold evening!
+        Sushi options for beginners and those looking to explore fun
+        combinations! Service was super fast and friendly! They brought us the
+        Macha Cheesecake for dessert and it was a delicate,  delicious treat!
+      languageCode: en
+    originalText:
+      text: >-
+        Ramen was outstanding and full of flavor, especially on a cold evening!
+        Sushi options for beginners and those looking to explore fun
+        combinations! Service was super fast and friendly! They brought us the
+        Macha Cheesecake for dessert and it was a delicate,  delicious treat!
+      languageCode: en
+    authorAttribution:
+      displayName: Joy Duncan
+      uri: https://www.google.com/maps/contrib/114137650702533365475/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUI5awNh5vBm_FS21F3sCdF6PBEmewXv2B_GeS6anb587jT5UYAWA=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-12-11T14:26:50.426761Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN2X28yWldBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN2X28yWldBEAE!2m1!1s0x875272bd3ccab7f7:0xf5d01a44bf0200a8
+  - name: >-
+      places/ChIJ97fKPL1yUocRqAACv0Qa0PU/reviews/ChdDSUhNMG9nS0VJQ0FnTURvN29icWl3RRAB
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        Wow! This restaurant was an amazing experience. The sushi was very fresh
+        and delicious. Good menu with unique choices. It was a bit pricey, but
+        worth it for a special evening.
+
+        We sat at the sushi bar and had fun with the chefs behind the counter.
+        Our service was excellent. Don’t miss this place if you enjoy Japanese
+        cuisine.
+      languageCode: en
+    originalText:
+      text: >-
+        Wow! This restaurant was an amazing experience. The sushi was very fresh
+        and delicious. Good menu with unique choices. It was a bit pricey, but
+        worth it for a special evening.
+
+        We sat at the sushi bar and had fun with the chefs behind the counter.
+        Our service was excellent. Don’t miss this place if you enjoy Japanese
+        cuisine.
+      languageCode: en
+    authorAttribution:
+      displayName: ron goral
+      uri: https://www.google.com/maps/contrib/116171845445701624183/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJCcTbwjn3mBzzi4FYy0JcpkNUv2WivVpmX-kmN5tjtsskUBb1L=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-25T04:14:45.472133Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURvN29icWl3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURvN29icWl3RRAB!2m1!1s0x875272bd3ccab7f7:0xf5d01a44bf0200a8
+  - name: >-
+      places/ChIJ97fKPL1yUocRqAACv0Qa0PU/reviews/ChZDSUhNMG9nS0VJQ0FnSUN2eXB1ZUZnEAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        I took advice from a local when I asked for the best sushi restaurant in
+        park city, and I'm thankful I did. The service was excellent and the
+        ambiance is cozy and warm. The sashimi and maki rolls were unique and
+        delicious. Everything was extremely fresh.
+      languageCode: en
+    originalText:
+      text: >-
+        I took advice from a local when I asked for the best sushi restaurant in
+        park city, and I'm thankful I did. The service was excellent and the
+        ambiance is cozy and warm. The sashimi and maki rolls were unique and
+        delicious. Everything was extremely fresh.
+      languageCode: en
+    authorAttribution:
+      displayName: Kim Pisani
+      uri: https://www.google.com/maps/contrib/103921772213353808687/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUvVfRwce_LcwtKGL85sCnhg0rrhIpinElHlQznMpqGk7XDj_r0YA=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-12-10T01:15:18.368590Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN2eXB1ZUZnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN2eXB1ZUZnEAE!2m1!1s0x875272bd3ccab7f7:0xf5d01a44bf0200a8
+review_summary: >-
+  What Visitors Are Saying$$$Folks rave about the fresh and flavorful sushi at
+  this Japanese gem, with standout dishes like creative rolls and hearty ramen
+  leaving a lasting impression on diners. The service stands out as friendly and
+  attentive, often guiding guests through sake pairings and omakase-style
+  options for a fun, personalized experience. Many appreciate the cozy
+  atmosphere and lively soundtrack, making it a great pick for groups seeking a
+  enjoyable night out without the hassle. While prices lean toward the higher
+  end, reviewers agree it's worth it for the quality and unique menu items that
+  keep things exciting. Overall, if you're on the hunt for sushi close to me
+  with a welcoming vibe, this place consistently delivers a positive and
+  satisfying meal that highlights its strengths in both food and ambiance.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  paidParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+delivery: false
+dine_in: true
+good_for_children: false
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Seasonal sushi, classic Japanese plates & sake are served in this airy eatery
+  with playful lighting.
 
 ---

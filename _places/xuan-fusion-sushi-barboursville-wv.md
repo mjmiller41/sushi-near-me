@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Xuan Fusion Sushi"
+title: Xuan Fusion Sushi
 permalink: /west-virginia/barboursville/xuan-fusion-sushi.html
 stateAbbr: WV
 stateName: West Virginia
 cityName: Barboursville
 seo:
-  name: "Xuan Fusion Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://xuanfusionsushitogo.com/
-description: "Xuan Fusion Sushi serves delicious sushi in Barboursville, West Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJzf346XcHRogR_3h3WE0ZAZc
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 0
 website: https://xuanfusionsushitogo.com/
+description: >-
+  Experience Xuan Fusion Sushi in Barboursville, WV$$$Xuan Fusion Sushi in
+  Barboursville, WV, offers a welcoming atmosphere perfect for enjoying fresh
+  sushi and Asian-inspired dishes. This cozy spot highlights creative flavors
+  with a focus on high-quality ingredients and vegetarian-friendly options,
+  making it a great choice for diverse tastes. Diners can explore a variety of
+  rolls and noodles that blend traditional techniques with innovative twists,
+  all served in a relaxed setting. The menu emphasizes affordability and
+  accessibility, appealing to those seeking sushi restaurants nearby that
+  deliver both taste and value. Whether you're in the mood for familiar Asian
+  fare or something new, this local gem provides a satisfying experience for
+  casual meals.
+generative_summary: >-
+  Experience Xuan Fusion Sushi in Barboursville, WV$$$Xuan Fusion Sushi in
+  Barboursville, WV, offers a welcoming atmosphere perfect for enjoying fresh
+  sushi and Asian-inspired dishes. This cozy spot highlights creative flavors
+  with a focus on high-quality ingredients and vegetarian-friendly options,
+  making it a great choice for diverse tastes. Diners can explore a variety of
+  rolls and noodles that blend traditional techniques with innovative twists,
+  all served in a relaxed setting. The menu emphasizes affordability and
+  accessibility, appealing to those seeking sushi restaurants nearby that
+  deliver both taste and value. Whether you're in the mood for familiar Asian
+  fare or something new, this local gem provides a satisfying experience for
+  casual meals.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJzf346XcHRogR_3h3WE0ZAZc/reviews/ChZDSUhNMG9nS0VJQ0FnSUR2OVpqVklnEAE
@@ -324,6 +347,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURWdTUtam5RRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURWdTUtam5RRRAB!2m1!1s0x88460777e9f8fdcd:0x9701194d587778ff
+review_summary: >-
+  Buzz Around the Sushi Scene$$$Visitors consistently praise the sushi here for
+  its incredible freshness and inventive flavors, with many highlighting
+  standout rolls that leave you craving more. People love the generous portions
+  and creative combinations, like those featuring tropical accents, which add a
+  fun twist to classic dishes. The friendly service and welcoming vibe make it a
+  go-to spot for quick lunches or family dinners, drawing in those searching for
+  top-rated sushi options in the area. Overall, feedback emphasizes reliable
+  quality and a cozy environment that enhances the meal, though some note the
+  simple setup keeps things straightforward. If you're exploring sushi places
+  near you, this spot delivers a solid, enjoyable experience that's worth trying
+  out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -356,7 +392,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: null
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

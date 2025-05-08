@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Raku Sushi & Lounge"
+title: Raku Sushi & Lounge
 permalink: /minnesota/st-louis-park/raku-sushi-lounge.html
 stateAbbr: MN
 stateName: Minnesota
 cityName: St Louis Park
 seo:
-  name: "Raku Sushi & Lounge"
-  type: Restaurant
+  type: restaurant
   links: https://www.rakumn.com/
-description: "Stylish choice for sushi & Japanese small plates plus a broad sake selection in sleek, vibrant digs. Raku Sushi & Lounge serves delicious sushi in St Louis Park, Minnesota. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJlW79SKI0s1IR4uF4AgC5FOc
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: null
 rating: '4.2'
 rating_count: 0
 website: https://www.rakumn.com/
+description: >-
+  Experience Raku Sushi & Lounge in St Louis Park, MN$$$Raku Sushi & Lounge in
+  St Louis Park, MN, delivers a contemporary dining vibe perfect for enjoying
+  fresh sushi and Asian fusion flavors in a sleek, inviting atmosphere. The spot
+  features dim lighting and outdoor seating options, making it an ideal choice
+  for those seeking a relaxed yet stylish meal in a Japanese-inspired setting.
+  Guests can savor a variety of expertly prepared dishes, including creative
+  rolls and small plates that highlight quality ingredients and thoughtful
+  presentations. With its moderate pricing and accessible features like
+  wheelchair-friendly entrances, this sushi restaurant stands out as a go-to
+  option for anyone exploring top-rated Japanese dining near urban areas.
+generative_summary: >-
+  Experience Raku Sushi & Lounge in St Louis Park, MN$$$Raku Sushi & Lounge in
+  St Louis Park, MN, delivers a contemporary dining vibe perfect for enjoying
+  fresh sushi and Asian fusion flavors in a sleek, inviting atmosphere. The spot
+  features dim lighting and outdoor seating options, making it an ideal choice
+  for those seeking a relaxed yet stylish meal in a Japanese-inspired setting.
+  Guests can savor a variety of expertly prepared dishes, including creative
+  rolls and small plates that highlight quality ingredients and thoughtful
+  presentations. With its moderate pricing and accessible features like
+  wheelchair-friendly entrances, this sushi restaurant stands out as a go-to
+  option for anyone exploring top-rated Japanese dining near urban areas.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJlW79SKI0s1IR4uF4AgC5FOc/reviews/ChZDSUhNMG9nS0VJQ0FnSUNUdTZLblhnEAE
@@ -374,6 +395,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNicUtQcTlRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNicUtQcTlRRRAB!2m1!1s0x52b334a248fd6e95:0xe714b9000278e1e2
+review_summary: >-
+  Customer Feedback on Raku Sushi & Lounge$$$Visitors often rave about the
+  delicious sushi and fresh flavors at this spot, with many highlighting
+  standout dishes like spicy tuna rolls and sashimi that hit the mark for
+  authentic taste. While the atmosphere and friendly service generally make for
+  a pleasant experience, a few folks have mentioned occasional waits for food or
+  minor inconsistencies in preparation that could use some tweaks. Overall, it's
+  a solid pick for groups looking to enjoy Japanese cuisine in a convenient
+  location, with the majority appreciating the variety and quality that keep
+  diners coming back. Even with some mixed opinions on portion sizes or rice
+  texture, the positive vibes around the menu's creativity and value make it
+  worth checking out if you're in the mood for reliable sushi options nearby.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -406,8 +440,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Stylish choice for sushi & Japanese small plates plus a broad sake selection
   in sleek, vibrant digs.
 

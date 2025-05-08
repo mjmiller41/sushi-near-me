@@ -5,4 +5,5 @@ permalink: /california/san-francisco/
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
+
 ---

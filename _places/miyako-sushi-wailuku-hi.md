@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Miyako Sushi"
+title: Miyako Sushi
 permalink: /hawaii/wailuku/miyako-sushi.html
 stateAbbr: HI
 stateName: Hawaii
 cityName: Wailuku
 seo:
-  name: "Miyako Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.miyakosushimaui.com/
-description: "Miyako Sushi serves delicious sushi in Wailuku, Hawaii. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ9a3guUDTVHkR-Rz6-JYSurs
 photos:
   - name: >-
@@ -168,7 +166,49 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x7954d340b9e0adf5:0xbbba1296f8fa1cf9!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 2
+        hour: 4
+        minute: 0
+      close:
+        day: 2
+        hour: 16
+        minute: 30
+    - open:
+        day: 3
+        hour: 4
+        minute: 0
+      close:
+        day: 3
+        hour: 16
+        minute: 30
+    - open:
+        day: 4
+        hour: 4
+        minute: 0
+      close:
+        day: 4
+        hour: 16
+        minute: 30
+    - open:
+        day: 5
+        hour: 4
+        minute: 0
+      close:
+        day: 5
+        hour: 16
+        minute: 30
+    - open:
+        day: 6
+        hour: 4
+        minute: 0
+      close:
+        day: 6
+        hour: 12
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 4:00 AM – 4:30 PM'
     - 'Wednesday: 4:00 AM – 4:30 PM'
@@ -176,14 +216,7 @@ opening_hours:
     - 'Friday: 4:00 AM – 4:30 PM'
     - 'Saturday: 4:00 AM – 12:30 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 4:00 AM – 4:30 PM'
-    - 'Wednesday: 4:00 AM – 4:30 PM'
-    - 'Thursday: 4:00 AM – 4:30 PM'
-    - 'Friday: 4:00 AM – 4:30 PM'
-    - 'Saturday: 4:00 AM – 12:30 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-03T22:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -195,35 +228,215 @@ phone: (808) 244-0085
 price_level: null
 price_range: $1 &ndash; $10
 rating: '4.6'
-rating_count: 0
+rating_count: 113
 website: https://www.miyakosushimaui.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Explore Miyako Sushi in Wailuku, HI$$$Miyako Sushi in Wailuku, HI, offers a
+  casual dining experience with a focus on fresh sushi specialties and
+  comforting everyday eats, making it a go-to spot for those searching for
+  quality sushi restaurants nearby. The menu highlights a blend of traditional
+  sushi options alongside simple comfort foods, all served in a welcoming
+  atmosphere that's perfect for a quick meal or takeout. With convenient hours
+  that cater to early risers and lunch crowds, this spot stands out for its
+  accessibility and variety, including wheelchair-friendly parking to ensure
+  everyone can enjoy the flavors. Photos from visitors showcase vibrant dishes
+  that emphasize the fresh ingredients and thoughtful preparation, appealing to
+  anyone craving top-rated sushi in the area. Whether you're looking for sushi
+  places near me or a relaxed spot for a satisfying bite, Miyako Sushi delivers
+  on both taste and convenience.
+generative_summary: >-
+  Explore Miyako Sushi in Wailuku, HI$$$Miyako Sushi in Wailuku, HI, offers a
+  casual dining experience with a focus on fresh sushi specialties and
+  comforting everyday eats, making it a go-to spot for those searching for
+  quality sushi restaurants nearby. The menu highlights a blend of traditional
+  sushi options alongside simple comfort foods, all served in a welcoming
+  atmosphere that's perfect for a quick meal or takeout. With convenient hours
+  that cater to early risers and lunch crowds, this spot stands out for its
+  accessibility and variety, including wheelchair-friendly parking to ensure
+  everyone can enjoy the flavors. Photos from visitors showcase vibrant dishes
+  that emphasize the fresh ingredients and thoughtful preparation, appealing to
+  anyone craving top-rated sushi in the area. Whether you're looking for sushi
+  places near me or a relaxed spot for a satisfying bite, Miyako Sushi delivers
+  on both taste and convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ9a3guUDTVHkR-Rz6-JYSurs/reviews/ChZDSUhNMG9nS0VJQ0FnTURvd2NuMU9nEAE
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        Very cute quaint store with many of rare and special treasures. One of a
+        kind very historic old mom and pop store. Many historic items since the
+        early days. A lot of history in it's items and workers. Family oriented.
+        Very friendly.  From old Hawaiian artifacts to sports cards and old
+        glass bottles or China collection. Also hand made jewelry locally made
+        items found no where else in the world. Unique artifacts of various
+        cultures as well as local. Many historical pictures and emblems.
+      languageCode: en
+    originalText:
+      text: >-
+        Very cute quaint store with many of rare and special treasures. One of a
+        kind very historic old mom and pop store. Many historic items since the
+        early days. A lot of history in it's items and workers. Family oriented.
+        Very friendly.  From old Hawaiian artifacts to sports cards and old
+        glass bottles or China collection. Also hand made jewelry locally made
+        items found no where else in the world. Unique artifacts of various
+        cultures as well as local. Many historical pictures and emblems.
+      languageCode: en
+    authorAttribution:
+      displayName: Farrah Pua Kealoha Me Noe Noe Kauakea Pu
+      uri: https://www.google.com/maps/contrib/103643514380383743167/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWPhPyEASZbli32yV3r9KNZV5WROPh9-994JKHQMnMkUOlYGD4=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-25T16:17:07.551907Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURvd2NuMU9nEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURvd2NuMU9nEAE!2m1!1s0x7954d340b9e0adf5:0xbbba1296f8fa1cf9
+  - name: >-
+      places/ChIJ9a3guUDTVHkR-Rz6-JYSurs/reviews/ChZDSUhNMG9nS0VJQ0FnSUN2Ni15M2RBEAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        Best MakiSushi
+
+        Thank you for making platters for our recent family funeral. And having
+        affordable lunches on hand throughout the year. And yes My Favorite
+        white powder cookies. Happy New Year ~
+      languageCode: en
+    originalText:
+      text: >-
+        Best MakiSushi
+
+        Thank you for making platters for our recent family funeral. And having
+        affordable lunches on hand throughout the year. And yes My Favorite
+        white powder cookies. Happy New Year ~
+      languageCode: en
+    authorAttribution:
+      displayName: LL F
+      uri: https://www.google.com/maps/contrib/116163881535924978590/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKpTM-YPeAOOSoDsDAMfr4CzOyHRfb88rRQa0a5xbtLYS7RTA=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-12-14T21:14:52.285799Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN2Ni15M2RBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN2Ni15M2RBEAE!2m1!1s0x7954d340b9e0adf5:0xbbba1296f8fa1cf9
+  - name: >-
+      places/ChIJ9a3guUDTVHkR-Rz6-JYSurs/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJXzhfeVdBEAE
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 5
+    text:
+      text: >-
+        Great service! Fastest sushi I’ve ever had made for me. However the miso
+        Butterfish  is best I’ve ever had! And it is hard to find
+      languageCode: en
+    originalText:
+      text: >-
+        Great service! Fastest sushi I’ve ever had made for me. However the miso
+        Butterfish  is best I’ve ever had! And it is hard to find
+      languageCode: en
+    authorAttribution:
+      displayName: Tim Crowley
+      uri: https://www.google.com/maps/contrib/104099767176686679197/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVUTI6ecB88NrlKVR_hX3pM5u5uNsWPMad9OacdYgoRdqHo46CA=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-06T00:36:31.267820Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNJXzhfeVdBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNJXzhfeVdBEAE!2m1!1s0x7954d340b9e0adf5:0xbbba1296f8fa1cf9
+  - name: >-
+      places/ChIJ9a3guUDTVHkR-Rz6-JYSurs/reviews/ChdDSUhNMG9nS0VJQ0FnSURfeWJmVWhBRRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        We love their home made sushi, bento platters, and of course their
+        amazingly delusional hotdogs with their special sauce. They're all
+        awesome.
+      languageCode: en
+    originalText:
+      text: >-
+        We love their home made sushi, bento platters, and of course their
+        amazingly delusional hotdogs with their special sauce. They're all
+        awesome.
+      languageCode: en
+    authorAttribution:
+      displayName: Victor V
+      uri: https://www.google.com/maps/contrib/116739378871426364356/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWH-A51kTD9ns-Ug0alU8bZA4XT4T0-IYxDjwXdhIQw_8TopvvpCg=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-01-25T06:34:23.592145Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURfeWJmVWhBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURfeWJmVWhBRRAB!2m1!1s0x7954d340b9e0adf5:0xbbba1296f8fa1cf9
+  - name: >-
+      places/ChIJ9a3guUDTVHkR-Rz6-JYSurs/reviews/ChdDSUhNMG9nS0VJQ0FnSURSeHFhbXNRRRAB
+    relativePublishTimeDescription: 2 years ago
+    rating: 5
+    text:
+      text: Best traditional sushi.  Side area full of antiques and collectibles.
+      languageCode: en
+    originalText:
+      text: Best traditional sushi.  Side area full of antiques and collectibles.
+      languageCode: en
+    authorAttribution:
+      displayName: Karen Wong
+      uri: https://www.google.com/maps/contrib/105795598910079354744/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXzxicgtL3voyuXIB_YbqRvnWjgJ_ifFleJ6y1dlUpPxUHZIXU2=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2023-04-24T02:16:52.203925Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURSeHFhbXNRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURSeHFhbXNRRRAB!2m1!1s0x7954d340b9e0adf5:0xbbba1296f8fa1cf9
+review_summary: >-
+  What Customers Are Buzzing About$$$Folks rave about the fresh, homemade sushi
+  and bento platters at this spot, often highlighting how quick and affordable
+  the meals are for a satisfying lunch or dinner outing. Many appreciate the
+  speedy service that makes it easy to grab something delicious without a long
+  wait, along with unique touches like specialty sauces that add a fun twist to
+  comfort foods. Reviewers frequently mention the overall value and variety,
+  noting that it's a great choice for families or anyone seeking reliable sushi
+  options close by. While some enjoy the unexpected mix of traditional eats with
+  a few surprises, the consensus leans positive on the quality and taste that
+  keep people coming back. If you're on the hunt for the best sushi near me,
+  this place earns high marks for its genuine flavors and welcoming vibe, making
+  it a solid pick for a casual meal.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+payment_options:
+  acceptsCashOnly: false
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
+delivery: false
+dine_in: true
 good_for_children: null
 good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
+good_for_sports: false
+live_music: false
+menu_for_children: true
+outdoor_seating: false
 reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
+restroom: false
+serves_beer: false
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: false
+serves_coffee: false
+serves_dinner: true
 serves_dessert: null
-serves_lunch: null
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: false
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "MANN SARKA Asian Bistro"
+title: MANN SARKA Asian Bistro
 permalink: /new-york/floral-park/mann-sarka-asian-bistro.html
 stateAbbr: NY
 stateName: New York
 cityName: Floral Park
 seo:
-  name: "MANN SARKA Asian Bistro"
-  type: Restaurant
+  type: restaurant
   links: https://www.mannsarkafloral.com/
-description: "MANN SARKA Asian Bistro serves delicious sushi in Floral Park, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJISPf3K5jwokR3cvB91MXGiQ
 photos:
   - name: >-
@@ -153,6 +151,7 @@ latitude: '40.728796'
 longitude: '-73.702370'
 accessibility_options:
   wheelchairAccessibleEntrance: true
+  wheelchairAccessibleSeating: true
 business_status: OPERATIONAL
 name: MANN SARKA Asian Bistro
 google_maps_links:
@@ -182,6 +181,33 @@ price_range: $20 &ndash; $30
 rating: '4.8'
 rating_count: 0
 website: https://www.mannsarkafloral.com/
+description: >-
+  Discover MANN SARKA Asian Bistro in Floral Park, NY$$$MANN SARKA Asian Bistro
+  in Floral Park, New York, stands out as a welcoming spot for enjoying fresh
+  sushi and diverse Asian flavors in a relaxed setting. This eatery specializes
+  in artfully prepared dishes that highlight quality ingredients, making it a
+  go-to choice for those seeking flavorful options like expertly crafted rolls
+  and savory entrees. With a selection of cocktails, wine, and beer to
+  complement meals, it caters to both casual diners and those looking for a more
+  leisurely experience. The bistro's accessible features and variety of
+  offerings make it an ideal destination for groups or individuals exploring
+  nearby dining choices. Whether you're in the mood for a quick bite or a full
+  meal, this spot delivers a satisfying blend of taste and ambiance that keeps
+  visitors coming back.
+generative_summary: >-
+  Discover MANN SARKA Asian Bistro in Floral Park, NY$$$MANN SARKA Asian Bistro
+  in Floral Park, New York, stands out as a welcoming spot for enjoying fresh
+  sushi and diverse Asian flavors in a relaxed setting. This eatery specializes
+  in artfully prepared dishes that highlight quality ingredients, making it a
+  go-to choice for those seeking flavorful options like expertly crafted rolls
+  and savory entrees. With a selection of cocktails, wine, and beer to
+  complement meals, it caters to both casual diners and those looking for a more
+  leisurely experience. The bistro's accessible features and variety of
+  offerings make it an ideal destination for groups or individuals exploring
+  nearby dining choices. Whether you're in the mood for a quick bite or a full
+  meal, this spot delivers a satisfying blend of taste and ambiance that keeps
+  visitors coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJISPf3K5jwokR3cvB91MXGiQ/reviews/ChRDSUhNMG9nS0VJQ0FnTUNndGR0dRAB
@@ -359,6 +385,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR2emNDQ1pnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR2emNDQ1pnEAE!2m1!1s0x89c263aedcdf2321:0x241a1753f7c1cbdd
+review_summary: >-
+  What People Love About This Sushi Spot$$$Visitors often praise the fresh and
+  creative sushi selections at this Asian bistro, noting how the dishes bring
+  exciting flavors to the table without overwhelming the palate. Many highlight
+  the overall vibe as cozy and inviting, perfect for family outings or casual
+  evenings out, with service that's consistently helpful and efficient. Folks
+  appreciate the reasonable prices and generous portions, which make it a solid
+  pick for anyone hunting for tasty meals that feel like great value. While some
+  mention the cocktails and desserts as standout extras that add to the fun, the
+  general consensus is that the food hits the spot every time. All in all, it's
+  a reliable choice for those seeking quality Asian cuisine nearby, with
+  positive vibes that encourage repeat visits.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   paidParkingLot: true
@@ -394,7 +433,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

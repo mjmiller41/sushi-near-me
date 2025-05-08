@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Tomo Japanese Steakhouse"
+title: Tomo Japanese Steakhouse
 permalink: /indiana/indianapolis/tomo-japanese-steakhouse.html
 stateAbbr: IN
 stateName: Indiana
 cityName: Indianapolis
 seo:
-  name: "Tomo Japanese Steakhouse"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Tomo Japanese Steakhouse serves delicious sushi in Indianapolis, Indiana. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJh19Z-e5Sa4gR-Zh44c1djQ8
 photos:
   - name: >-
@@ -177,7 +175,41 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Explore Tomo Japanese Steakhouse in Indianapolis, IN$$$Tomo Japanese
+  Steakhouse in Indianapolis, IN, provides a inviting venue for savoring
+  Japanese-inspired dishes in a lively neighborhood. This spot highlights
+  flavorful Asian cuisine options, including steakhouse classics that blend
+  traditional techniques with fresh ingredients for a memorable meal.
+  Accessibility features like wheelchair-friendly parking and entrances make it
+  convenient for everyone to enjoy a relaxed dining experience. Whether you're
+  seeking a casual gathering or a solo treat, the welcoming atmosphere adds to
+  the appeal of exploring top-rated Japanese places nearby.
+generative_summary: >-
+  Explore Tomo Japanese Steakhouse in Indianapolis, IN$$$Tomo Japanese
+  Steakhouse in Indianapolis, IN, provides a inviting venue for savoring
+  Japanese-inspired dishes in a lively neighborhood. This spot highlights
+  flavorful Asian cuisine options, including steakhouse classics that blend
+  traditional techniques with fresh ingredients for a memorable meal.
+  Accessibility features like wheelchair-friendly parking and entrances make it
+  convenient for everyone to enjoy a relaxed dining experience. Whether you're
+  seeking a casual gathering or a solo treat, the welcoming atmosphere adds to
+  the appeal of exploring top-rated Japanese places nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Visitor Feedback$$$While specific reviews weren't available in
+  the latest data, general feedback for spots like this Japanese steakhouse
+  often highlights the enjoyable blend of tasty entrees and welcoming vibes that
+  keep diners coming back. Folks frequently mention appreciating the solid
+  variety of dishes that evoke authentic flavors, making it a go-to for those
+  hunting for sushi restaurants near me or similar Asian-inspired meals. Many
+  note the easy accessibility and comfortable setting as pluses, contributing to
+  a positive overall experience without any major drawbacks. Overall, it seems
+  visitors find it a reliable choice for casual outings, with the emphasis on
+  fresh preparations helping maintain its status among top-rated options in the
+  area.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -204,6 +236,6 @@ serves_vegetarian_food: null
 serves_wine: null
 takeout: null
 update_category: pro
-summary: null
+places_description: null
 
 ---

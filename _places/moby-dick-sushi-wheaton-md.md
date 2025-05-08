@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Moby Dick Sushi"
+title: Moby Dick Sushi
 permalink: /maryland/wheaton/moby-dick-sushi.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Wheaton
 seo:
-  name: "Moby Dick Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.mbdsushi.com/
-description: "Snug setting with a big menu of sushi, Japanese noodles & a few token Korean dishes. Moby Dick Sushi serves delicious sushi in Wheaton, Maryland. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJyeCMiRzPt4kRrma7Z0YjnuE
 photos:
   - name: >-
@@ -184,6 +182,31 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 0
 website: http://www.mbdsushi.com/
+description: >-
+  Discover Moby Dick Sushi in Wheaton, MD$$$Moby Dick Sushi in Wheaton, MD,
+  offers a welcoming spot for enjoying fresh sushi and Japanese favorites,
+  making it a go-to choice for anyone searching for reliable sushi restaurants
+  in the area. The cozy atmosphere highlights a diverse menu featuring flavorful
+  rolls, bento boxes, and traditional noodles, all prepared with attention to
+  quality ingredients that appeal to a variety of tastes. Accessibility features
+  like wheelchair-friendly parking and seating add to the convenience, ensuring
+  a comfortable visit for all guests. This spot stands out for its moderate
+  pricing and options like dine-in or takeout, perfect for those craving
+  top-rated sushi close to home. Whether you're exploring Japanese places near
+  me or looking for a satisfying meal, it's a solid pick for everyday dining.
+generative_summary: >-
+  Discover Moby Dick Sushi in Wheaton, MD$$$Moby Dick Sushi in Wheaton, MD,
+  offers a welcoming spot for enjoying fresh sushi and Japanese favorites,
+  making it a go-to choice for anyone searching for reliable sushi restaurants
+  in the area. The cozy atmosphere highlights a diverse menu featuring flavorful
+  rolls, bento boxes, and traditional noodles, all prepared with attention to
+  quality ingredients that appeal to a variety of tastes. Accessibility features
+  like wheelchair-friendly parking and seating add to the convenience, ensuring
+  a comfortable visit for all guests. This spot stands out for its moderate
+  pricing and options like dine-in or takeout, perfect for those craving
+  top-rated sushi close to home. Whether you're exploring Japanese places near
+  me or looking for a satisfying meal, it's a solid pick for everyday dining.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJyeCMiRzPt4kRrma7Z0YjnuE/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3NmM3QzFRRRAB
@@ -393,6 +416,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR6MUxiOHF3RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR6MUxiOHF3RRAB!2m1!1s0x89b7cf1c898ce0c9:0xe19e234667bb66ae
+review_summary: >-
+  Customer Feedback Highlights$$$Folks rave about the fresh flavors and reliable
+  quality at this sushi spot, with many mentioning how it's become their
+  favorite for consistent, delicious rolls that keep them coming back. While
+  most experiences highlight friendly service and a welcoming vibe, a few notes
+  point to occasional inconsistencies like texture issues or wait times, though
+  these don't overshadow the overall positives. Diners appreciate the variety,
+  including great options for vegetarians and groups, making it feel like a
+  dependable choice for casual meals. Overall, it's praised for hitting the mark
+  on taste and value, encouraging visitors to try it out for themselves if
+  they're hunting for the best sushi near me. With these insights, it's easy to
+  see why this place maintains a strong reputation among local sushi
+  enthusiasts.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   paidParkingLot: true
@@ -426,8 +463,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: null
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Snug setting with a big menu of sushi, Japanese noodles & a few token Korean
   dishes.
 

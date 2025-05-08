@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Hinoki Sushi"
+title: Hinoki Sushi
 permalink: /nevada/reno/hinoki-sushi.html
 stateAbbr: NV
 stateName: Nevada
 cityName: Reno
 seo:
-  name: "Hinoki Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://hinokisushi.site/
-description: "Hinoki Sushi serves delicious sushi in Reno, Nevada. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJdxLnFd0_mYARJ1nMY_2QRZM
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 0
 website: https://hinokisushi.site/
+description: >-
+  Discover Hinoki Sushi in Reno, NV$$$Hinoki Sushi in Reno, NV, stands out as a
+  casual destination for enjoying fresh sushi and Japanese-inspired dishes,
+  perfect for those seeking flavorful options in a welcoming setting. This spot
+  offers an all-you-can-eat experience with a variety of plates, complemented by
+  selections of beer and wine, making it ideal for relaxed meals with friends or
+  family. Accessibility features like wheelchair-friendly parking and entrances
+  ensure everyone can enjoy the vibrant atmosphere and thoughtful menu details.
+  The restaurant's focus on quality ingredients and simple yet inviting ambiance
+  adds to its appeal for sushi enthusiasts exploring local Japanese places.
+  Whether you're in the mood for top-rated rolls or a casual bite, this location
+  delivers a satisfying dining option that captures the essence of authentic
+  flavors.
+generative_summary: >-
+  Discover Hinoki Sushi in Reno, NV$$$Hinoki Sushi in Reno, NV, stands out as a
+  casual destination for enjoying fresh sushi and Japanese-inspired dishes,
+  perfect for those seeking flavorful options in a welcoming setting. This spot
+  offers an all-you-can-eat experience with a variety of plates, complemented by
+  selections of beer and wine, making it ideal for relaxed meals with friends or
+  family. Accessibility features like wheelchair-friendly parking and entrances
+  ensure everyone can enjoy the vibrant atmosphere and thoughtful menu details.
+  The restaurant's focus on quality ingredients and simple yet inviting ambiance
+  adds to its appeal for sushi enthusiasts exploring local Japanese places.
+  Whether you're in the mood for top-rated rolls or a casual bite, this location
+  delivers a satisfying dining option that captures the essence of authentic
+  flavors.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJdxLnFd0_mYARJ1nMY_2QRZM/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJN0xtZy1RRRAB
@@ -330,6 +355,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNnbWQ3VnBnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNnbWQ3VnBnRRAB!2m1!1s0x80993fdd15e71277:0x934590fd63cc5927
+review_summary: >-
+  What Customers Are Saying$$$Folks who've visited this sushi spot often rave
+  about the friendly service and well-prepared rolls that make for a solid meal
+  without breaking the bank. Many highlight the tasty flavors and nice
+  presentation of the dishes, with plenty of positive nods to the
+  all-you-can-eat deals that keep things exciting for groups. While a few
+  mentions note room for improvement in the overall vibe, like lighting, the
+  general consensus leans toward it being a reliable choice for fresh sushi
+  close to home. Overall, it's clear that the attentive staff and quality food
+  create a welcoming experience that's worth returning for, especially if you're
+  hunting for the best sushi near me. If you're in the area, this place comes
+  across as a go-to for enjoyable, honest dining that leaves most patrons
+  smiling.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -362,7 +401,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

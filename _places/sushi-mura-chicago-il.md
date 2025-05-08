@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Mura"
+title: Sushi Mura
 permalink: /illinois/chicago/sushi-mura.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
 seo:
-  name: "Sushi Mura"
-  type: Restaurant
+  type: restaurant
   links: http://www.sushimurachicago.com/
-description: "Sushi restaurant with specialty maki rolls & other Japanese fare in an intimate, stylish space. Sushi Mura serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJL0Z-j07SD4gRpczF7BBU0YY
 photos:
   - name: >-
@@ -184,6 +182,31 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 0
 website: http://www.sushimurachicago.com/
+description: >-
+  Discover Sushi Mura in Chicago, IL$$$Sushi Mura in Chicago, IL, offers a
+  welcoming Japanese dining experience with a focus on fresh sushi and
+  traditional dishes in a relaxed setting. This spot features an array of
+  specialty maki rolls and other authentic fare, all prepared with high-quality
+  ingredients that highlight the flavors of Japanese cuisine. The intimate
+  atmosphere makes it ideal for casual meals or gatherings, complemented by
+  thoughtful touches like outdoor seating and accessibility features for all
+  guests. Visitors can enjoy a variety of options, including vegetarian choices
+  and beverages, making it a versatile choice for those seeking top sushi spots
+  in the area. With its moderate pricing, it's a great option for anyone
+  exploring Japanese places near me looking for a satisfying meal.
+generative_summary: >-
+  Discover Sushi Mura in Chicago, IL$$$Sushi Mura in Chicago, IL, offers a
+  welcoming Japanese dining experience with a focus on fresh sushi and
+  traditional dishes in a relaxed setting. This spot features an array of
+  specialty maki rolls and other authentic fare, all prepared with high-quality
+  ingredients that highlight the flavors of Japanese cuisine. The intimate
+  atmosphere makes it ideal for casual meals or gatherings, complemented by
+  thoughtful touches like outdoor seating and accessibility features for all
+  guests. Visitors can enjoy a variety of options, including vegetarian choices
+  and beverages, making it a versatile choice for those seeking top sushi spots
+  in the area. With its moderate pricing, it's a great option for anyone
+  exploring Japanese places near me looking for a satisfying meal.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJL0Z-j07SD4gRpczF7BBU0YY/reviews/ChZDSUhNMG9nS0VJQ0FnSUNQbmFuTmZ3EAE
@@ -325,6 +348,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQzdHBMLU1REAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQzdHBMLU1REAE!2m1!1s0x880fd24e8f7e462f:0x86d15410ecc5cca5
+review_summary: >-
+  Insights from Recent Reviews$$$Folks generally rave about the fresh sushi and
+  high-quality ingredients at this Chicago favorite, with many highlighting
+  standout rolls that deliver a perfect balance of flavors and textures. While
+  the service is often described as friendly and attentive, a few mentions note
+  occasional lapses that could use some improvement, though it's not a
+  dealbreaker for most. Customers appreciate the attention to detail in side
+  dishes like miso soup, which adds to the overall enjoyable experience without
+  feeling overly complicated. Overall, it's seen as a solid pick for anyone
+  hunting for the best sushi near me, with the positives far outweighing any
+  minor hiccups to keep the vibe upbeat and inviting. If you're in the mood for
+  reliable Japanese fare, this place tends to deliver a memorable dining outing.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidStreetParking: true
 payment_options:
@@ -355,8 +391,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Sushi restaurant with specialty maki rolls & other Japanese fare in an
   intimate, stylish space.
 

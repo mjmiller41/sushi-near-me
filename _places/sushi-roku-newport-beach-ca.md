@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Roku"
+title: Sushi Roku
 permalink: /california/newport-beach/sushi-roku.html
 stateAbbr: CA
 stateName: California
 cityName: Newport Beach
 seo:
-  name: "Sushi Roku"
-  type: Restaurant
-  links: null
-description: "Sushi Roku serves delicious sushi in Newport Beach, California. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.sushiroku.com/
 place_id: ChIJIaMuSobg3IARivqjjjbwORE
 photos:
   - name: >-
@@ -170,22 +168,255 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80dce0864a2ea321:0x1139f0368ea3fa8a!10e5
 primary_type: Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:30 AM – 9:00 PM'
+    - 'Tuesday: 11:30 AM – 9:00 PM'
+    - 'Wednesday: 11:30 AM – 9:00 PM'
+    - 'Thursday: 11:30 AM – 9:30 PM'
+    - 'Friday: 11:30 AM – 10:30 PM'
+    - 'Saturday: 11:30 AM – 10:30 PM'
+    - 'Sunday: 11:30 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T05:30:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 0
+        close:
+          day: 0
+          hour: 21
+          minute: 0
+      - open:
+          day: 1
+          hour: 12
+          minute: 0
+        close:
+          day: 1
+          hour: 21
+          minute: 0
+      - open:
+          day: 2
+          hour: 12
+          minute: 0
+        close:
+          day: 2
+          hour: 21
+          minute: 0
+      - open:
+          day: 3
+          hour: 12
+          minute: 0
+        close:
+          day: 3
+          hour: 21
+          minute: 0
+      - open:
+          day: 4
+          hour: 12
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 0
+      - open:
+          day: 5
+          hour: 12
+          minute: 0
+        close:
+          day: 5
+          hour: 22
+          minute: 0
+      - open:
+          day: 6
+          hour: 12
+          minute: 0
+        close:
+          day: 6
+          hour: 22
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 12:00 – 9:00 PM'
+      - 'Tuesday: 12:00 – 9:00 PM'
+      - 'Wednesday: 12:00 – 9:00 PM'
+      - 'Thursday: 12:00 – 9:00 PM'
+      - 'Friday: 12:00 – 10:00 PM'
+      - 'Saturday: 12:00 – 10:00 PM'
+      - 'Sunday: 12:00 – 9:00 PM'
+    secondaryHoursType: TAKEOUT
+    nextCloseTime: '2025-05-04T05:00:00Z'
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 0
+        close:
+          day: 0
+          hour: 21
+          minute: 0
+      - open:
+          day: 1
+          hour: 12
+          minute: 0
+        close:
+          day: 1
+          hour: 21
+          minute: 0
+      - open:
+          day: 2
+          hour: 12
+          minute: 0
+        close:
+          day: 2
+          hour: 21
+          minute: 0
+      - open:
+          day: 3
+          hour: 12
+          minute: 0
+        close:
+          day: 3
+          hour: 21
+          minute: 0
+      - open:
+          day: 4
+          hour: 12
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 0
+      - open:
+          day: 5
+          hour: 12
+          minute: 0
+        close:
+          day: 5
+          hour: 22
+          minute: 0
+      - open:
+          day: 6
+          hour: 12
+          minute: 0
+        close:
+          day: 6
+          hour: 22
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 12:00 – 9:00 PM'
+      - 'Tuesday: 12:00 – 9:00 PM'
+      - 'Wednesday: 12:00 – 9:00 PM'
+      - 'Thursday: 12:00 – 9:00 PM'
+      - 'Friday: 12:00 – 10:00 PM'
+      - 'Saturday: 12:00 – 10:00 PM'
+      - 'Sunday: 12:00 – 9:00 PM'
+    secondaryHoursType: DELIVERY
+    nextCloseTime: '2025-05-04T05:00:00Z'
+phone: (949) 706-3622
+price_level: PRICE_LEVEL_EXPENSIVE
+price_range: $50 &ndash; $100
+rating: '4.3'
+rating_count: 850
+website: https://www.sushiroku.com/
+description: >-
+  Discover Sushi Roku in Newport Beach$$$Sushi Roku in Newport Beach, CA, stands
+  out as a modern Japanese dining spot that fuses traditional flavors with
+  creative influences for an unforgettable meal. This restaurant delights with
+  fresh sushi options that incorporate global twists, set in a lively atmosphere
+  enhanced by entertainment elements like a resident DJ, making it ideal for
+  both casual outings and special occasions. Accessibility features such as
+  wheelchair-friendly parking and seating ensure a welcoming experience for all
+  visitors, while its convenient hours cater to those seeking top sushi spots
+  throughout the week. Whether you're exploring sushi restaurants near you or
+  craving innovative dishes, this location offers a blend of quality ingredients
+  and vibrant energy that elevates the overall dining adventure.
+generative_summary: >-
+  Discover Sushi Roku in Newport Beach$$$Sushi Roku in Newport Beach, CA, stands
+  out as a modern Japanese dining spot that fuses traditional flavors with
+  creative influences for an unforgettable meal. This restaurant delights with
+  fresh sushi options that incorporate global twists, set in a lively atmosphere
+  enhanced by entertainment elements like a resident DJ, making it ideal for
+  both casual outings and special occasions. Accessibility features such as
+  wheelchair-friendly parking and seating ensure a welcoming experience for all
+  visitors, while its convenient hours cater to those seeking top sushi spots
+  throughout the week. Whether you're exploring sushi restaurants near you or
+  craving innovative dishes, this location offers a blend of quality ingredients
+  and vibrant energy that elevates the overall dining adventure.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Buzzing About$$$Visitors often praise the fresh and
+  flavorful sushi selections at this spot, with highlights like spicy tuna rolls
+  and salmon sashimi that hit the spot for anyone loving Japanese cuisine. The
+  staff comes across as friendly and attentive, adding to the enjoyable vibe in
+  this intimate and energetic setting that makes meals feel special. Many
+  appreciate the high-quality ingredients that bring out the best in every bite,
+  turning a simple outing into a memorable experience. While some note that
+  prices lean towards the higher end, the overall consensus is that the tasty
+  offerings and welcoming service make it worth the visit for those searching
+  for reliable sushi places nearby. All in all, it's a solid choice for a
+  satisfying meal with a positive twist on traditional favorites.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +442,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

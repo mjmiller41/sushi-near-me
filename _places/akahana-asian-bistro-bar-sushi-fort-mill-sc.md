@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Akahana Asian Bistro Bar & Sushi"
+title: Akahana Asian Bistro Bar & Sushi
 permalink: /south-carolina/fort-mill/akahana-asian-bistro-bar-sushi.html
 stateAbbr: SC
 stateName: South Carolina
 cityName: Fort Mill
 seo:
-  name: "Akahana Asian Bistro Bar & Sushi"
-  type: Restaurant
-  links: null
-description: "Akahana Asian Bistro Bar & Sushi serves delicious sushi in Fort Mill, South Carolina. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.akahanabv.com/
 place_id: ChIJA3O8BWuFVogRyDpOXzXRM2k
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8856856b05bc7303:0x6933d1355f4e3ac8!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:30 PM'
+    - 'Tuesday: 11:00 AM – 9:30 PM'
+    - 'Wednesday: 11:00 AM – 9:30 PM'
+    - 'Thursday: 11:00 AM – 9:30 PM'
+    - 'Friday: 11:00 AM – 10:00 PM'
+    - 'Saturday: 11:00 AM – 10:00 PM'
+    - 'Sunday: 11:00 AM – 9:30 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,51 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (803) 548-0036
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.1'
+rating_count: 897
+website: http://www.akahanabv.com/
+description: >-
+  Discover Akahana Asian Bistro in Fort Mill, SC$$$In Fort Mill, SC, Akahana
+  Asian Bistro Bar & Sushi stands out as a vibrant spot for fresh sushi and
+  diverse Asian flavors. This welcoming restaurant features an array of creative
+  sushi rolls alongside Vietnamese and Chinese-inspired dishes, all served in a
+  modern setting that's perfect for casual meals or gatherings. With
+  accessibility options like wheelchair-friendly entrances and seating, it
+  ensures everyone can enjoy the experience comfortably. The menu caters to
+  various tastes with moderately priced options, making it a great choice for
+  those seeking top-rated sushi in a relaxed atmosphere. Open daily with
+  extended hours on weekends, it's an ideal destination for anyone exploring
+  local sushi restaurants nearby.
+generative_summary: >-
+  Discover Akahana Asian Bistro in Fort Mill, SC$$$In Fort Mill, SC, Akahana
+  Asian Bistro Bar & Sushi stands out as a vibrant spot for fresh sushi and
+  diverse Asian flavors. This welcoming restaurant features an array of creative
+  sushi rolls alongside Vietnamese and Chinese-inspired dishes, all served in a
+  modern setting that's perfect for casual meals or gatherings. With
+  accessibility options like wheelchair-friendly entrances and seating, it
+  ensures everyone can enjoy the experience comfortably. The menu caters to
+  various tastes with moderately priced options, making it a great choice for
+  those seeking top-rated sushi in a relaxed atmosphere. Open daily with
+  extended hours on weekends, it's an ideal destination for anyone exploring
+  local sushi restaurants nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Visitors to this sushi spot in Fort Mill often
+  praise the fresh flavors and variety of dishes, noting that the sushi rolls
+  and Asian fare hit the spot for a satisfying meal. Many appreciate the
+  consistent quality and friendly service, which make it a reliable go-to for
+  groups or families looking for something tasty. While a few mention occasional
+  waits during peak times, the overall vibe remains positive with highlights on
+  the generous portions and affordable prices. Feedback generally reflects a
+  solid 4.1 rating from hundreds of reviews, suggesting it's a solid pick for
+  anyone craving authentic Asian-inspired eats without the fuss. If you're
+  hunting for great sushi close to you, this place delivers a generally
+  enjoyable experience with room for the occasional minor tweak.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +312,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

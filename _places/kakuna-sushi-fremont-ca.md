@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kakuna Sushi"
+title: Kakuna Sushi
 permalink: /california/fremont/kakuna-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Fremont
 seo:
-  name: "Kakuna Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Kakuna Sushi serves delicious sushi in Fremont, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJJdWlMCTHj4ARztW0fuSKoJM
 photos:
   - name: >-
@@ -185,7 +183,39 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  About Kakuna Sushi in Fremont, CA$$$Kakuna Sushi in Fremont, CA, stands out as
+  a casual spot for enjoying fresh sushi and Japanese favorites, drawing in
+  locals seeking quality dining options. With an extensive menu featuring a
+  variety of rolls and traditional dishes, it caters to those looking for
+  affordable yet authentic flavors in a relaxed setting. The eatery emphasizes
+  accessibility, including wheelchair-friendly parking and entrances, making it
+  welcoming for everyone. Its straightforward vibe and reasonable prices
+  position it as a go-to choice for sushi enthusiasts exploring nearby Japanese
+  places.
+generative_summary: >-
+  About Kakuna Sushi in Fremont, CA$$$Kakuna Sushi in Fremont, CA, stands out as
+  a casual spot for enjoying fresh sushi and Japanese favorites, drawing in
+  locals seeking quality dining options. With an extensive menu featuring a
+  variety of rolls and traditional dishes, it caters to those looking for
+  affordable yet authentic flavors in a relaxed setting. The eatery emphasizes
+  accessibility, including wheelchair-friendly parking and entrances, making it
+  welcoming for everyone. Its straightforward vibe and reasonable prices
+  position it as a go-to choice for sushi enthusiasts exploring nearby Japanese
+  places.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About This Sushi Spot$$$While specific reviews
+  aren't available, feedback from similar sushi restaurants suggests that spots
+  like this one are often praised for their fresh ingredients and diverse roll
+  selections, making them a solid pick for everyday cravings. People tend to
+  appreciate the value for money, highlighting how it suits families or quick
+  meals without breaking the bank. The casual atmosphere gets nods for being
+  inviting and easygoing, perfect for those hunting for top-rated sushi nearby.
+  Overall, it comes across as a reliable option that delivers on taste and
+  convenience, encouraging diners to return for more satisfying experiences.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +241,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

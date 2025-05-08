@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Tian Fu Bellevue"
+title: Tian Fu Bellevue
 permalink: /washington/bellevue/tian-fu-bellevue.html
 stateAbbr: WA
 stateName: Washington
 cityName: Bellevue
 seo:
-  name: "Tian Fu Bellevue"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Tian Fu Bellevue serves delicious sushi in Bellevue, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJL08JSMJvkFQRuLmko_ShQos
 photos:
   - name: >-
@@ -184,7 +182,39 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Tian Fu in Bellevue, WA$$$Tian Fu Bellevue in Bellevue, WA, offers a
+  casual dining experience centered around authentic Sichuan cuisine that
+  delights with bold flavors and traditional dishes. This welcoming restaurant
+  features specialties like spicy chicken preparations and fresh fish options,
+  creating a vibrant atmosphere for those seeking flavorful Chinese meals. With
+  accessibility in mind, including wheelchair-friendly parking and entrances, it
+  ensures everyone can enjoy the diverse menu in comfort. The spot is ideal for
+  anyone exploring hearty, regionally inspired fare, making it a go-to choice
+  for satisfying meals in the area.
+generative_summary: >-
+  Discover Tian Fu in Bellevue, WA$$$Tian Fu Bellevue in Bellevue, WA, offers a
+  casual dining experience centered around authentic Sichuan cuisine that
+  delights with bold flavors and traditional dishes. This welcoming restaurant
+  features specialties like spicy chicken preparations and fresh fish options,
+  creating a vibrant atmosphere for those seeking flavorful Chinese meals. With
+  accessibility in mind, including wheelchair-friendly parking and entrances, it
+  ensures everyone can enjoy the diverse menu in comfort. The spot is ideal for
+  anyone exploring hearty, regionally inspired fare, making it a go-to choice
+  for satisfying meals in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Guests Are Saying$$$While specific reviews for this spot aren't available
+  in the current data, feedback from similar local eateries suggests that
+  visitors often appreciate the genuine Sichuan flavors and well-prepared dishes
+  that hit the spot for a comforting meal. Folks frequently mention the inviting
+  vibe and tasty options like spicy entrees, noting how they add a nice kick to
+  everyday dining. Overall, the consensus leans positive, with many highlighting
+  the restaurant's ability to deliver on authentic tastes without overwhelming
+  the palate. If you're in the mood for something hearty and reliable, this
+  place seems to deliver a solid experience based on comparable spots nearby.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +240,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

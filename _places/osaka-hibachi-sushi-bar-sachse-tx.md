@@ -1,15 +1,14 @@
 ---
 layout: place
-title: "Osaka Hibachi Sushi & Bar"
+title: Osaka Hibachi Sushi & Bar
 permalink: /texas/sachse/osaka-hibachi-sushi-bar.html
 stateAbbr: TX
 stateName: Texas
 cityName: Sachse
 seo:
-  name: "Osaka Hibachi Sushi & Bar"
-  type: Restaurant
-  links: null
-description: "Osaka Hibachi Sushi & Bar serves delicious sushi in Sachse, Texas. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: >-
+    https://osakainsachse.com/?utm_source=GoogleAdPagesHomepage&utm_id=GoogleAdPagesHomepage
 place_id: ChIJHV5cj-scTIYR7_Fsl766lmU
 photos:
   - name: >-
@@ -170,22 +169,224 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x864c1ceb8f5c5e1d:0x6596babe976cf1ef!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 2:30 PM, 4:30 – 10:00 PM'
+    - 'Tuesday: 11:00 AM – 2:30 PM, 4:30 – 10:00 PM'
+    - 'Wednesday: 11:00 AM – 2:30 PM, 4:30 – 10:00 PM'
+    - 'Thursday: 11:00 AM – 2:30 PM, 4:30 – 10:00 PM'
+    - 'Friday: 11:00 AM – 2:30 PM, 4:30 – 11:00 PM'
+    - 'Saturday: 12:00 – 11:00 PM'
+    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+  - openNow: false
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 0
+        close:
+          day: 0
+          hour: 15
+          minute: 0
+      - open:
+          day: 1
+          hour: 16
+          minute: 30
+        close:
+          day: 1
+          hour: 18
+          minute: 0
+      - open:
+          day: 2
+          hour: 16
+          minute: 30
+        close:
+          day: 2
+          hour: 18
+          minute: 0
+      - open:
+          day: 3
+          hour: 16
+          minute: 30
+        close:
+          day: 3
+          hour: 18
+          minute: 0
+      - open:
+          day: 4
+          hour: 16
+          minute: 30
+        close:
+          day: 4
+          hour: 18
+          minute: 0
+      - open:
+          day: 5
+          hour: 16
+          minute: 30
+        close:
+          day: 5
+          hour: 18
+          minute: 0
+      - open:
+          day: 6
+          hour: 12
+          minute: 0
+        close:
+          day: 6
+          hour: 15
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 4:30 – 6:00 PM'
+      - 'Tuesday: 4:30 – 6:00 PM'
+      - 'Wednesday: 4:30 – 6:00 PM'
+      - 'Thursday: 4:30 – 6:00 PM'
+      - 'Friday: 4:30 – 6:00 PM'
+      - 'Saturday: 12:00 – 3:00 PM'
+      - 'Sunday: 12:00 – 3:00 PM'
+    secondaryHoursType: HAPPY_HOUR
+    nextOpenTime: '2025-05-04T17:00:00Z'
+phone: (972) 495-1322
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.5'
+rating_count: 789
+website: >-
+  https://osakainsachse.com/?utm_source=GoogleAdPagesHomepage&utm_id=GoogleAdPagesHomepage
+description: >-
+  Discover Osaka Hibachi Sushi & Bar in Sachse, TX$$$Osaka Hibachi Sushi & Bar
+  in Sachse, TX, provides a welcoming spot for enjoying fresh hibachi dishes and
+  a wide selection of sushi, ideal for those seeking Japanese-inspired dining
+  near you. The restaurant boasts a casual atmosphere with a full bar offering
+  drinks to complement your meal, making it a great choice for relaxed evenings
+  or casual get-togethers. Accessibility features like wheelchair-friendly
+  parking and seating ensure everyone can enjoy the experience comfortably,
+  while its moderate price range keeps it approachable for everyday sushi
+  lovers. With extended hours including evenings and weekends, it's conveniently
+  open for lunch or dinner cravings in the area.
+generative_summary: >-
+  Discover Osaka Hibachi Sushi & Bar in Sachse, TX$$$Osaka Hibachi Sushi & Bar
+  in Sachse, TX, provides a welcoming spot for enjoying fresh hibachi dishes and
+  a wide selection of sushi, ideal for those seeking Japanese-inspired dining
+  near you. The restaurant boasts a casual atmosphere with a full bar offering
+  drinks to complement your meal, making it a great choice for relaxed evenings
+  or casual get-togethers. Accessibility features like wheelchair-friendly
+  parking and seating ensure everyone can enjoy the experience comfortably,
+  while its moderate price range keeps it approachable for everyday sushi
+  lovers. With extended hours including evenings and weekends, it's conveniently
+  open for lunch or dinner cravings in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this sushi spot often praise the
+  consistently fresh flavors of the rolls and hibachi entrees, highlighting how
+  they hit the spot for a satisfying meal. Many note the friendly service and
+  efficient atmosphere that make it easy to enjoy a night out without any fuss,
+  adding to the overall enjoyable vibe. While some mention occasional waits
+  during peak times, the generous portions and value for the price keep people
+  coming back for more. Overall, the high ratings reflect a solid choice for
+  anyone hunting for top-rated Japanese places nearby, with the tasty options
+  leaving diners feeling content and eager to return.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +412,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

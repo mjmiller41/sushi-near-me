@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Camon Japanese Restaurant"
+title: Camon Japanese Restaurant
 permalink: /south-carolina/columbia/camon-japanese-restaurant.html
 stateAbbr: SC
 stateName: South Carolina
 cityName: Columbia
 seo:
-  name: "Camon Japanese Restaurant"
-  type: Restaurant
+  type: restaurant
   links: https://www.camonjapaneserestaurant.com/
-description: "Sushi bar offerings & Japanese cooked dishes in a comfortable space with traditional accents. Camon Japanese Restaurant serves delicious sushi in Columbia, South Carolina. Try fresh Japanese dishes for a great dining experience. Available for takeout, and dinner."
 place_id: ChIJSe7SWiu7-IgRxZLKfZx4wKw
 photos:
   - name: >-
@@ -184,6 +182,29 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 0
 website: https://www.camonjapaneserestaurant.com/
+description: >-
+  Discover Camon Japanese Restaurant in Columbia, SC$$$Nestled in the heart of
+  Columbia, SC, Camon Japanese Restaurant stands out as a beloved spot for
+  authentic Japanese dining, featuring fresh sushi and traditional cooked dishes
+  in a welcoming environment. This unassuming eatery captures the essence of
+  classic Japanese fare, with options like expertly prepared rolls and sake that
+  appeal to those seeking genuine flavors. The comfortable space boasts
+  traditional accents that create a cozy atmosphere, making it ideal for a
+  relaxed meal. Accessibility features ensure everyone can enjoy the experience,
+  while moderate pricing adds to its appeal for locals and visitors exploring
+  sushi options nearby.
+generative_summary: >-
+  Discover Camon Japanese Restaurant in Columbia, SC$$$Nestled in the heart of
+  Columbia, SC, Camon Japanese Restaurant stands out as a beloved spot for
+  authentic Japanese dining, featuring fresh sushi and traditional cooked dishes
+  in a welcoming environment. This unassuming eatery captures the essence of
+  classic Japanese fare, with options like expertly prepared rolls and sake that
+  appeal to those seeking genuine flavors. The comfortable space boasts
+  traditional accents that create a cozy atmosphere, making it ideal for a
+  relaxed meal. Accessibility features ensure everyone can enjoy the experience,
+  while moderate pricing adds to its appeal for locals and visitors exploring
+  sushi options nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJSe7SWiu7-IgRxZLKfZx4wKw/reviews/ChZDSUhNMG9nS0VJQ0FnTURneXBuSFhBEAE
@@ -367,6 +388,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUM5enN1Nlp3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUM5enN1Nlp3EAE!2m1!1s0x88f8bb2b5ad2ee49:0xacc0789c7dca92c5
+review_summary: >-
+  What Customers Love About This Sushi Spot$$$Visitors often highlight the
+  incredibly fresh ingredients and high-quality preparation that make meals here
+  feel truly special, with many praising the variety of rolls and dishes for
+  their authentic taste. The welcoming vibe and attentive service create a
+  comfortable setting that's perfect for casual get-togethers or solo dining,
+  drawing in those looking for reliable Japanese cuisine in the area. Folks
+  appreciate the generous portions and value for money, making it a go-to choice
+  for anyone craving top-notch sushi without breaking the bank. Overall, the
+  positive experiences shared point to a spot that's become a favorite for its
+  consistent flavors and enjoyable atmosphere, encouraging repeat visits for
+  satisfying meals.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidParkingLot: true
   freeStreetParking: true
@@ -400,8 +434,8 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Sushi bar offerings & Japanese cooked dishes in a comfortable space with
   traditional accents.
 

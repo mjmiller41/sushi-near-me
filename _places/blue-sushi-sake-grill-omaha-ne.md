@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Blue Sushi Sake Grill"
+title: Blue Sushi Sake Grill
 permalink: /nebraska/omaha/blue-sushi-sake-grill.html
 stateAbbr: NE
 stateName: Nebraska
 cityName: Omaha
 seo:
-  name: "Blue Sushi Sake Grill"
-  type: Restaurant
-  links: null
-description: "Blue Sushi Sake Grill serves delicious sushi in Omaha, Nebraska. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.bluesushisakegrill.com/
 place_id: ChIJj2ovCa-Pk4cRgXKUX3LU7Sk
 photos:
   - name: >-
@@ -169,22 +167,183 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x87938faf092f6a8f:0x29edd4725f947281!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 9:00 PM'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 11:00 PM'
+    - 'Saturday: 11:00 AM – 11:00 PM'
+    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 0
+        close:
+          day: 0
+          hour: 21
+          minute: 0
+      - open:
+          day: 1
+          hour: 11
+          minute: 0
+        close:
+          day: 1
+          hour: 18
+          minute: 30
+      - open:
+          day: 2
+          hour: 11
+          minute: 0
+        close:
+          day: 2
+          hour: 18
+          minute: 30
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 18
+          minute: 30
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 18
+          minute: 30
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 18
+          minute: 30
+      - open:
+          day: 6
+          hour: 11
+          minute: 0
+        close:
+          day: 6
+          hour: 18
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 11:00 AM – 6:30 PM'
+      - 'Tuesday: 11:00 AM – 6:30 PM'
+      - 'Wednesday: 11:00 AM – 6:30 PM'
+      - 'Thursday: 11:00 AM – 6:30 PM'
+      - 'Friday: 11:00 AM – 6:30 PM'
+      - 'Saturday: 11:00 AM – 6:30 PM'
+      - 'Sunday: 12:00 – 9:00 PM'
+    secondaryHoursType: HAPPY_HOUR
+    nextCloseTime: '2025-05-03T23:30:00Z'
+phone: (402) 260-8444
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.5'
+rating_count: 3262
+website: http://www.bluesushisakegrill.com/
+description: >-
+  Explore Blue Sushi Sake Grill in Omaha, NE$$$Blue Sushi Sake Grill in Omaha,
+  NE, stands out as a vibrant sushi destination in the heart of the city,
+  blending fresh flavors with a modern twist. This trendy spot offers an array
+  of creative sushi rolls, paired perfectly with sake and inventive cocktails,
+  making it a go-to for those seeking authentic Japanese-inspired dining. With
+  happy hour specials and a welcoming atmosphere, it's ideal for casual meals or
+  gatherings in the lively neighborhood. The restaurant emphasizes accessibility
+  features, ensuring a comfortable experience for all visitors, while its
+  moderate pricing adds to the appeal for sushi enthusiasts exploring local
+  options.
+generative_summary: >-
+  Explore Blue Sushi Sake Grill in Omaha, NE$$$Blue Sushi Sake Grill in Omaha,
+  NE, stands out as a vibrant sushi destination in the heart of the city,
+  blending fresh flavors with a modern twist. This trendy spot offers an array
+  of creative sushi rolls, paired perfectly with sake and inventive cocktails,
+  making it a go-to for those seeking authentic Japanese-inspired dining. With
+  happy hour specials and a welcoming atmosphere, it's ideal for casual meals or
+  gatherings in the lively neighborhood. The restaurant emphasizes accessibility
+  features, ensuring a comfortable experience for all visitors, while its
+  moderate pricing adds to the appeal for sushi enthusiasts exploring local
+  options.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Recent Feedback$$$Folks rave about the diverse menu at this
+  sushi spot, particularly the plentiful vegan choices that cater to various
+  preferences without skimping on taste. Many highlight standout dishes like
+  fresh seafood-inspired appetizers, noting they pair well with the overall vibe
+  for a satisfying meal. Visitors consistently appreciate the attentive service
+  and upbeat, contemporary setting that keeps things lively and enjoyable.
+  Overall, it's clear this place delivers a solid experience for groups or solo
+  diners, with positive nods to its welcoming environment making it a reliable
+  pick for anyone craving quality sushi nearby.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +369,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

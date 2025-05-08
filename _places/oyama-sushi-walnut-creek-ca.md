@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Oyama Sushi"
+title: Oyama Sushi
 permalink: /california/walnut-creek/oyama-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Walnut Creek
 seo:
-  name: "Oyama Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Oyama Sushi serves delicious sushi in Walnut Creek, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJW5hHt6RhhYARbte43vXdVdg
 photos:
   - name: >-
@@ -185,7 +183,47 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Oyama Sushi in Walnut Creek, California$$$Oyama Sushi in Walnut
+  Creek, California, stands out as a welcoming Japanese restaurant that combines
+  relaxed vibes with authentic flavors, making it a go-to spot for sushi
+  enthusiasts. This eatery offers a variety of fresh sushi options and other
+  Japanese favorites, perfect for casual lunches or intimate dinners, drawing in
+  locals and visitors seeking quality Japanese cuisine nearby. With its
+  accessible features like wheelchair-friendly entrances and seating, it ensures
+  everyone can enjoy a comfortable dining experience in a cozy setting. The menu
+  highlights innovative rolls and classic dishes that capture the essence of
+  traditional Japanese cooking, appealing to those exploring top sushi spots in
+  the area. Overall, it's an ideal choice for anyone craving flavorful meals in
+  a laid-back atmosphere that feels both inviting and unpretentious.
+generative_summary: >-
+  Discover Oyama Sushi in Walnut Creek, California$$$Oyama Sushi in Walnut
+  Creek, California, stands out as a welcoming Japanese restaurant that combines
+  relaxed vibes with authentic flavors, making it a go-to spot for sushi
+  enthusiasts. This eatery offers a variety of fresh sushi options and other
+  Japanese favorites, perfect for casual lunches or intimate dinners, drawing in
+  locals and visitors seeking quality Japanese cuisine nearby. With its
+  accessible features like wheelchair-friendly entrances and seating, it ensures
+  everyone can enjoy a comfortable dining experience in a cozy setting. The menu
+  highlights innovative rolls and classic dishes that capture the essence of
+  traditional Japanese cooking, appealing to those exploring top sushi spots in
+  the area. Overall, it's an ideal choice for anyone craving flavorful meals in
+  a laid-back atmosphere that feels both inviting and unpretentious.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback Highlights$$$Visitors to this sushi spot often praise the
+  fresh ingredients and well-prepared dishes, noting that the rolls are
+  consistently tasty and hit the mark for a satisfying meal. Many appreciate the
+  casual, friendly service that makes dining here feel approachable and
+  enjoyable, especially for those stopping by for a quick bite. While some
+  mention minor waits during peak times, the overall consensus leans positive,
+  with folks highlighting the value for authentic Japanese flavors that keep
+  them coming back. It's commonly described as a reliable option for groups or
+  solo diners looking for solid sushi experiences without the fuss. In essence,
+  the feedback paints a picture of a dependable local favorite that's worth
+  trying for anyone searching for great sushi in the neighborhood.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +249,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

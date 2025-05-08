@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Katsuo Sushi and Grill"
+title: Katsuo Sushi and Grill
 permalink: /california/hayward/katsuo-sushi-and-grill.html
 stateAbbr: CA
 stateName: California
 cityName: Hayward
 seo:
-  name: "Katsuo Sushi and Grill"
-  type: Restaurant
+  type: restaurant
   links: http://www.katsuosushigrill.com/
-description: "Katsuo Sushi and Grill serves delicious sushi in Hayward, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ5Raq63yXj4ARPQEYflsBJNk
 photos:
   - name: >-
@@ -169,22 +167,113 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x808f977cebaa16e5:0xd924015b7e18013d!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 14
+        minute: 30
+    - open:
+        day: 0
+        hour: 16
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 0
+      close:
+        day: 5
+        hour: 20
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 14
+        minute: 30
+    - open:
+        day: 6
+        hour: 16
+        minute: 0
+      close:
+        day: 6
+        hour: 20
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:00 AM – 2:30 PM, 4:00 – 8:30 PM'
-    - 'Wednesday: 11:00 AM – 2:00 PM, 4:00 – 8:30 PM'
+    - 'Wednesday: 11:00 AM – 2:30 PM, 4:00 – 8:30 PM'
     - 'Thursday: 11:00 AM – 2:30 PM, 4:00 – 8:30 PM'
-    - 'Friday: 11:00 AM – 2:00 PM, 4:30 – 8:30 PM'
-    - 'Saturday: 11:00 AM – 2:00 PM, 4:30 – 8:30 PM'
-    - 'Sunday: 11:00 AM – 2:00 PM, 4:00 – 8:30 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:00 AM – 2:30 PM, 4:00 – 8:30 PM'
-    - 'Wednesday: 11:00 AM – 2:00 PM, 4:00 – 8:30 PM'
-    - 'Thursday: 11:00 AM – 2:30 PM, 4:00 – 8:30 PM'
-    - 'Friday: 11:00 AM – 2:00 PM, 4:30 – 8:30 PM'
-    - 'Saturday: 11:00 AM – 2:00 PM, 4:30 – 8:30 PM'
-    - 'Sunday: 11:00 AM – 2:00 PM, 4:00 – 8:30 PM'
+    - 'Friday: 11:00 AM – 2:30 PM, 4:00 – 8:30 PM'
+    - 'Saturday: 11:00 AM – 2:30 PM, 4:00 – 8:30 PM'
+    - 'Sunday: 11:00 AM – 2:30 PM, 4:00 – 8:30 PM'
+  nextOpenTime: '2025-05-03T23:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,35 +285,244 @@ phone: (510) 963-5921
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.3'
-rating_count: 0
+rating_count: 205
 website: http://www.katsuosushigrill.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Experience Katsuo Sushi and Grill in Hayward, CA$$$Katsuo Sushi and Grill in
+  Hayward, CA, offers a relaxed atmosphere perfect for enjoying fresh Japanese
+  cuisine, including a variety of sushi rolls and grilled options. This spot
+  stands out with its comfortable dining experience, featuring accessible
+  seating and convenient parking that make it easy to visit for a casual meal.
+  Patrons can savor comforting dishes like teriyaki and bento boxes, all
+  prepared with a focus on flavorful, everyday favorites that appeal to those
+  seeking reliable Japanese fare. The restaurant's moderate pricing and options
+  for dine-in or takeout add to its appeal for families and groups looking for
+  straightforward, satisfying meals. With its welcoming vibe and accessibility
+  features, it's a great choice for anyone exploring sushi restaurants in the
+  area.
+generative_summary: >-
+  Experience Katsuo Sushi and Grill in Hayward, CA$$$Katsuo Sushi and Grill in
+  Hayward, CA, offers a relaxed atmosphere perfect for enjoying fresh Japanese
+  cuisine, including a variety of sushi rolls and grilled options. This spot
+  stands out with its comfortable dining experience, featuring accessible
+  seating and convenient parking that make it easy to visit for a casual meal.
+  Patrons can savor comforting dishes like teriyaki and bento boxes, all
+  prepared with a focus on flavorful, everyday favorites that appeal to those
+  seeking reliable Japanese fare. The restaurant's moderate pricing and options
+  for dine-in or takeout add to its appeal for families and groups looking for
+  straightforward, satisfying meals. With its welcoming vibe and accessibility
+  features, it's a great choice for anyone exploring sushi restaurants in the
+  area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ5Raq63yXj4ARPQEYflsBJNk/reviews/ChZDSUhNMG9nS0VJQ0FnSUNfek9hRVFREAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 3
+    text:
+      text: >-
+        No customer ahead of us but we had to wait more than we should. The
+        price is Ok.
+      languageCode: en
+    originalText:
+      text: >-
+        No customer ahead of us but we had to wait more than we should. The
+        price is Ok.
+      languageCode: en
+    authorAttribution:
+      displayName: Moe Lwin
+      uri: https://www.google.com/maps/contrib/100707389257696164431/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjU9VZ5488TqVYZutA5N_dF488cyT0tRc3D59SWKn-oLwY2TSNAG=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-01-13T15:11:08.583604Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNfek9hRVFREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNfek9hRVFREAE!2m1!1s0x808f977cebaa16e5:0xd924015b7e18013d
+  - name: >-
+      places/ChIJ5Raq63yXj4ARPQEYflsBJNk/reviews/ChdDSUhNMG9nS0VJQ0FnSUNKN2JLQ213RRAB
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        Reasonable price, good portions, and tasty food. Chicken combo is one of
+        their most popular dishes: chicken katsu is actually crunchy! Even
+        though it's not the most authentic Japanese restaurant you can find,
+        it's a good place for some casual Japanese-style cuisine. The staff are
+        friendly and most people do takeout, but you can also dine in.
+      languageCode: en
+    originalText:
+      text: >-
+        Reasonable price, good portions, and tasty food. Chicken combo is one of
+        their most popular dishes: chicken katsu is actually crunchy! Even
+        though it's not the most authentic Japanese restaurant you can find,
+        it's a good place for some casual Japanese-style cuisine. The staff are
+        friendly and most people do takeout, but you can also dine in.
+      languageCode: en
+    authorAttribution:
+      displayName: Terry Lou (TL)
+      uri: https://www.google.com/maps/contrib/112919517008935603314/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUUu6d94S1szWiywVcvkjKhLHc0WFWUnm3vw8WiqVacSXbYVKrAow=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2023-07-02T20:27:26.472845Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNKN2JLQ213RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNKN2JLQ213RRAB!2m1!1s0x808f977cebaa16e5:0xd924015b7e18013d
+  - name: >-
+      places/ChIJ5Raq63yXj4ARPQEYflsBJNk/reviews/ChdDSUhNMG9nS0VJQ0FnSUN1Z2MybTJnRRAB
+    relativePublishTimeDescription: 2 years ago
+    rating: 4
+    text:
+      text: >-
+        Location is convenient, Next to Starbucks and Costco.  lots of parking
+        space.  It is a small "fast food" style sushi store rather than a sushi
+        house. Although you can dine-in.
+
+        I order Double Hamachi roll, Super Dynamite roll, and Lion King roll.
+        Only the Lion King roll is ok, others are very good. For sure the Lion
+        King roll is not the best I have tried in the easy bay area (still you
+        can try).
+
+
+        For pick-up, I would suggest order in person. Seems bit cheaper than
+        order in apps.
+      languageCode: en
+    originalText:
+      text: >-
+        Location is convenient, Next to Starbucks and Costco.  lots of parking
+        space.  It is a small "fast food" style sushi store rather than a sushi
+        house. Although you can dine-in.
+
+        I order Double Hamachi roll, Super Dynamite roll, and Lion King roll.
+        Only the Lion King roll is ok, others are very good. For sure the Lion
+        King roll is not the best I have tried in the easy bay area (still you
+        can try).
+
+
+        For pick-up, I would suggest order in person. Seems bit cheaper than
+        order in apps.
+      languageCode: en
+    authorAttribution:
+      displayName: Chi H
+      uri: https://www.google.com/maps/contrib/102102342969321591230/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVNoQKZLXjN7wA7jCeWV-m2EZqg9cZ73lHXARxAqL4hqtPMSEIB1g=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2022-07-29T20:45:39.907817Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN1Z2MybTJnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN1Z2MybTJnRRAB!2m1!1s0x808f977cebaa16e5:0xd924015b7e18013d
+  - name: >-
+      places/ChIJ5Raq63yXj4ARPQEYflsBJNk/reviews/ChdDSUhNMG9nS0VJQ0FnSUR0ckp2RTVBRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 3
+    text:
+      text: >-
+        It's OK, nothing fancy.  Their menu is basic names of dishes with no
+        descriptions of what your getting.  So that was very confusing and took
+        some time asking what each dish contains and what your getting.
+
+
+        It's not worth the try. There's better places.
+      languageCode: en
+    originalText:
+      text: >-
+        It's OK, nothing fancy.  Their menu is basic names of dishes with no
+        descriptions of what your getting.  So that was very confusing and took
+        some time asking what each dish contains and what your getting.
+
+
+        It's not worth the try. There's better places.
+      languageCode: en
+    authorAttribution:
+      displayName: Glenn Carbullido
+      uri: https://www.google.com/maps/contrib/109394646630083833908/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVwZixTYZn8n1JQDfIiSQbfqxZFlZfu-z7JPr2QIVhA6bvJ2ssr2A=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-02-03T01:12:57.215646Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR0ckp2RTVBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR0ckp2RTVBRRAB!2m1!1s0x808f977cebaa16e5:0xd924015b7e18013d
+  - name: >-
+      places/ChIJ5Raq63yXj4ARPQEYflsBJNk/reviews/ChZDSUhNMG9nS0VJQ0FnSURuekx1UGVBEAE
+    relativePublishTimeDescription: 7 months ago
+    rating: 1
+    text:
+      text: >-
+        Horrible service! They close at 2:30 p.m., I was at the restaurant at
+        2:00 and the guy at the counter refused to serve me, saying I can take
+        the food and eat outside or to go only. What is the meaning of closing
+        time if they stop serving people more than half an hour before the
+        closing time. Very rude service, Will avoid visiting in future
+      languageCode: en
+    originalText:
+      text: >-
+        Horrible service! They close at 2:30 p.m., I was at the restaurant at
+        2:00 and the guy at the counter refused to serve me, saying I can take
+        the food and eat outside or to go only. What is the meaning of closing
+        time if they stop serving people more than half an hour before the
+        closing time. Very rude service, Will avoid visiting in future
+      languageCode: en
+    authorAttribution:
+      displayName: Sarosh Patel
+      uri: https://www.google.com/maps/contrib/111430014609661750298/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXAG7s2dwiz3O3_QAPp9J0AfQUQ2jybkYxH5-QsYbTaFsnXxgn_CA=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-10-03T21:08:07.768025Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURuekx1UGVBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURuekx1UGVBEAE!2m1!1s0x808f977cebaa16e5:0xd924015b7e18013d
+review_summary: >-
+  Customer Feedback Highlights$$$Visitors to this sushi spot often praise the
+  tasty food and good value, with many highlighting the generous portions and
+  crunchy favorites like chicken katsu that hit the spot for casual
+  Japanese-style eats. While some mention occasional waits during busy times,
+  the overall experience is appreciated for its friendly service and convenient
+  location near shopping areas, making it a solid pick for quick meals. Feedback
+  generally notes that the menu offers straightforward options that satisfy
+  cravings without overcomplicating things, though a few suggest checking in
+  early to avoid any service hiccups. All in all, it's a welcoming place for
+  those hunting for top-rated sushi near Hayward, with the positives outweighing
+  any minor issues for an enjoyable outing. If you're on the hunt for sushi
+  places near me, this spot delivers honest, feel-good vibes that keep people
+  coming back.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
+delivery: true
+dine_in: true
+good_for_children: true
 good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
 reservable: null
-restroom: null
+restroom: true
 serves_beer: null
 serves_breakfast: null
 serves_brunch: null
 serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
+serves_coffee: false
+serves_dinner: true
 serves_dessert: null
-serves_lunch: null
+serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

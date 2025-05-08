@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Mizu Sushi"
+title: Mizu Sushi
 permalink: /oregon/portland/mizu-sushi.html
 stateAbbr: OR
 stateName: Oregon
 cityName: Portland
 seo:
-  name: "Mizu Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://mizusuhi.weebly.com/
-description: "Mizu Sushi serves delicious sushi in Portland, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJRe_jyxEKlVQRAiKGn-d3lqI
 photos:
   - name: >-
@@ -168,7 +166,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x54950a11cbe3ef45:0xa29677e79f862202!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 19
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 19
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 19
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 19
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 19
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 19
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 7:00 PM'
     - 'Tuesday: 11:00 AM – 7:00 PM'
     - 'Wednesday: 11:00 AM – 7:00 PM'
@@ -176,14 +224,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 7:00 PM'
     - 'Saturday: 12:00 – 7:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:00 AM – 7:00 PM'
-    - 'Tuesday: 11:00 AM – 7:00 PM'
-    - 'Wednesday: 11:00 AM – 7:00 PM'
-    - 'Thursday: 11:00 AM – 7:00 PM'
-    - 'Friday: 11:00 AM – 7:00 PM'
-    - 'Saturday: 12:00 – 7:00 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -195,35 +236,211 @@ phone: (971) 282-2906
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.7'
-rating_count: 0
+rating_count: 198
 website: http://mizusuhi.weebly.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Mizu Sushi in Portland, OR$$$Mizu Sushi in Portland, OR, stands out
+  as a welcoming spot for enjoying fresh Japanese fare, ideal for those seeking
+  sushi options in the area. This compact eatery boasts a stylish setup with
+  outdoor seating, making it a great choice for casual dining experiences.
+  Visitors can savor generously sized sushi and rolls prepared with quality
+  ingredients, all at moderate prices that appeal to those hunting for top-rated
+  sushi nearby. The place is designed for accessibility and convenience,
+  enhancing its appeal as a go-to destination for authentic Japanese flavors in
+  a relaxed atmosphere.
+generative_summary: >-
+  Discover Mizu Sushi in Portland, OR$$$Mizu Sushi in Portland, OR, stands out
+  as a welcoming spot for enjoying fresh Japanese fare, ideal for those seeking
+  sushi options in the area. This compact eatery boasts a stylish setup with
+  outdoor seating, making it a great choice for casual dining experiences.
+  Visitors can savor generously sized sushi and rolls prepared with quality
+  ingredients, all at moderate prices that appeal to those hunting for top-rated
+  sushi nearby. The place is designed for accessibility and convenience,
+  enhancing its appeal as a go-to destination for authentic Japanese flavors in
+  a relaxed atmosphere.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJRe_jyxEKlVQRAiKGn-d3lqI/reviews/ChdDSUhNMG9nS0VJQ0FnTURJOC15cXRBRRAB
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 3
+    text:
+      text: >-
+        We ordered 3 rolls for ~$25 total which is very affordable. The fish
+        quality is pretty good for the price. I would say the only con is their
+        limited and sometimes uncertain hours.
+      languageCode: en
+    originalText:
+      text: >-
+        We ordered 3 rolls for ~$25 total which is very affordable. The fish
+        quality is pretty good for the price. I would say the only con is their
+        limited and sometimes uncertain hours.
+      languageCode: en
+    authorAttribution:
+      displayName: Matthew Chen
+      uri: https://www.google.com/maps/contrib/100161862587508431499/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKXJ4e6kjKZ9xe33_vydZSii18Yo75tb7FMuXHo6WBAVfFL5gKz=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-04-12T23:31:27.050089Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJOC15cXRBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJOC15cXRBRRAB!2m1!1s0x54950a11cbe3ef45:0xa29677e79f862202
+  - name: >-
+      places/ChIJRe_jyxEKlVQRAiKGn-d3lqI/reviews/ChdDSUhNMG9nS0VJQ0FnSURQbmR1eXlRRRAB
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        Was looking for some sushi and came across this lovely hole in the wall!
+        I got some Spicy salmon rolls to-go and all I can say is it was
+        delicious! If you’re look looking for some delicious sushi and want to
+        support a local business give this place a try!
+      languageCode: en
+    originalText:
+      text: >-
+        Was looking for some sushi and came across this lovely hole in the wall!
+        I got some Spicy salmon rolls to-go and all I can say is it was
+        delicious! If you’re look looking for some delicious sushi and want to
+        support a local business give this place a try!
+      languageCode: en
+    authorAttribution:
+      displayName: Awsomely RandomStuff
+      uri: https://www.google.com/maps/contrib/103953266899642122620/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXlLg2VDumVtCRLtv6kKrSokpFWidwCq-TU-JO0nBu646B4LYm7=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-12-04T22:12:52.781565Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURQbmR1eXlRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURQbmR1eXlRRRAB!2m1!1s0x54950a11cbe3ef45:0xa29677e79f862202
+  - name: >-
+      places/ChIJRe_jyxEKlVQRAiKGn-d3lqI/reviews/ChZDSUhNMG9nS0VJQ0FnSURfclpuMkJnEAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        If you blink (or dip your face in your phone for too long), you'll miss
+        Mizu on Columbia and 3rd. I got the Mizu roll and special, together for
+        under $20. Nice folks, and very conveniently located from my hotel
+      languageCode: en
+    originalText:
+      text: >-
+        If you blink (or dip your face in your phone for too long), you'll miss
+        Mizu on Columbia and 3rd. I got the Mizu roll and special, together for
+        under $20. Nice folks, and very conveniently located from my hotel
+      languageCode: en
+    authorAttribution:
+      displayName: Ty Hen
+      uri: https://www.google.com/maps/contrib/111635350028726091526/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWNVvyWwZGzciXgVT7DV56UFXTNL1ls21pVYcb3F1VBUlXJRHCA=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-01-26T06:39:40.715632Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURfclpuMkJnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURfclpuMkJnEAE!2m1!1s0x54950a11cbe3ef45:0xa29677e79f862202
+  - name: >-
+      places/ChIJRe_jyxEKlVQRAiKGn-d3lqI/reviews/ChZDSUhNMG9nS0VJQ0FnTURBaTluSVB3EAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 4
+    text:
+      text: >-
+        They are kind, quick, and good service. Nice environment. Don't expect
+        the greatest ingredients you've ever had, but a very serviceable lunch
+        option! Don't take AmEx either so maybe that's something to be aware of!
+      languageCode: en
+    originalText:
+      text: >-
+        They are kind, quick, and good service. Nice environment. Don't expect
+        the greatest ingredients you've ever had, but a very serviceable lunch
+        option! Don't take AmEx either so maybe that's something to be aware of!
+      languageCode: en
+    authorAttribution:
+      displayName: Jane J
+      uri: https://www.google.com/maps/contrib/114354540013476675115/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUgGU7OEBKl1YYKVFqp79QW5TyBBLUQvS1xhituOXYPgk2m5Y-J_A=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-02-11T20:34:13.264267Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURBaTluSVB3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURBaTluSVB3EAE!2m1!1s0x54950a11cbe3ef45:0xa29677e79f862202
+  - name: >-
+      places/ChIJRe_jyxEKlVQRAiKGn-d3lqI/reviews/ChZDSUhNMG9nS0VJQ0FnSUNIcll6U2VnEAE
+    relativePublishTimeDescription: 7 months ago
+    rating: 5
+    text:
+      text: >-
+        Have not found fresher sushi in Portland yet. That can't be overstated.
+        Very humble space, not a lot of seating but contributes to low overhead
+        and fair pricing. They take pride in what they do. I can't tell if the
+        two people working there are a couple but it seems like they are, older
+        and fun to talk to. Will definitely keep this as a staple! I do think
+        they should offer larger portions on the edamame though!
+      languageCode: en
+    originalText:
+      text: >-
+        Have not found fresher sushi in Portland yet. That can't be overstated.
+        Very humble space, not a lot of seating but contributes to low overhead
+        and fair pricing. They take pride in what they do. I can't tell if the
+        two people working there are a couple but it seems like they are, older
+        and fun to talk to. Will definitely keep this as a staple! I do think
+        they should offer larger portions on the edamame though!
+      languageCode: en
+    authorAttribution:
+      displayName: Stephen Frederick
+      uri: https://www.google.com/maps/contrib/100581968900447132258/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJ54H9JYuryE3tE4OsgS2M4bS7shliHORXga-Ymc_MRGA4sun2E=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-09-07T16:07:14.982642Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNIcll6U2VnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNIcll6U2VnEAE!2m1!1s0x54950a11cbe3ef45:0xa29677e79f862202
+review_summary: >-
+  Insights from Customer Feedback$$$Folks checking out Mizu Sushi often
+  highlight the fresh and tasty sushi rolls that deliver great value without
+  stretching the budget. Many appreciate the friendly vibe and easy-to-find
+  location, making it a solid pick for anyone craving reliable sushi spots
+  around town. While some mention occasional challenges with operating hours,
+  the overall experience shines through with its affordable specials and
+  satisfying portions. It's frequently noted as a welcoming choice for a quick
+  meal, with the quality of the food keeping things positive and enjoyable for
+  repeat visits.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
+delivery: true
+dine_in: true
 good_for_children: null
 good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: true
+reservable: true
 restroom: null
-serves_beer: null
-serves_breakfast: null
+serves_beer: true
+serves_breakfast: false
 serves_brunch: null
 serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
+serves_coffee: false
+serves_dinner: true
 serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Compact & stylish Japanese lunch counter serving a big menu of generously
+  portioned sushi & sashimi.
 
 ---

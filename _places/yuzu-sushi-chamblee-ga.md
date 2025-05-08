@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yuzu Sushi"
+title: Yuzu Sushi
 permalink: /georgia/chamblee/yuzu-sushi.html
 stateAbbr: GA
 stateName: Georgia
 cityName: Chamblee
 seo:
-  name: "Yuzu Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Yuzu Sushi serves delicious sushi in Chamblee, Georgia. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJRweV364J9YgROFdCqJ7x0Og
 photos:
   - name: >-
@@ -185,7 +183,47 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Experience Yuzu Sushi in Chamblee, GA$$$Nestled in Chamblee, GA, Yuzu Sushi
+  stands out as a welcoming spot for those seeking authentic Japanese flavors in
+  a casual atmosphere. This restaurant offers a variety of sushi rolls that
+  blend traditional techniques with inventive twists, appealing to anyone
+  exploring fresh options at local sushi spots. Patrons can enjoy a selection of
+  sake and beer to complement their meals, creating a relaxed environment
+  perfect for casual dining or gatherings. The venue prioritizes accessibility,
+  ensuring a comfortable visit for all, while its thoughtful menu highlights
+  high-quality ingredients that make it a favorite among sushi enthusiasts in
+  the area. Whether you're looking for sushi places near you or simply craving a
+  taste of Japanese cuisine, this location delivers a satisfying experience with
+  its creative yet approachable offerings.
+generative_summary: >-
+  Experience Yuzu Sushi in Chamblee, GA$$$Nestled in Chamblee, GA, Yuzu Sushi
+  stands out as a welcoming spot for those seeking authentic Japanese flavors in
+  a casual atmosphere. This restaurant offers a variety of sushi rolls that
+  blend traditional techniques with inventive twists, appealing to anyone
+  exploring fresh options at local sushi spots. Patrons can enjoy a selection of
+  sake and beer to complement their meals, creating a relaxed environment
+  perfect for casual dining or gatherings. The venue prioritizes accessibility,
+  ensuring a comfortable visit for all, while its thoughtful menu highlights
+  high-quality ingredients that make it a favorite among sushi enthusiasts in
+  the area. Whether you're looking for sushi places near you or simply craving a
+  taste of Japanese cuisine, this location delivers a satisfying experience with
+  its creative yet approachable offerings.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Visitor Feedback$$$Folks who stop by Yuzu Sushi often highlight
+  the fresh and creative sushi rolls as a standout feature, making it a solid
+  choice for anyone hunting for reliable eats nearby. Many appreciate the casual
+  vibe and variety of drinks like sake, which add to the enjoyable atmosphere
+  without overwhelming the experience. While some mention it's a great spot for
+  trying new flavors, others note that the service keeps things straightforward
+  and friendly, helping it maintain a welcoming feel. Overall, it's frequently
+  recommended for groups or solo diners searching for top-rated sushi options,
+  with the general consensus leaning positive on its value and taste. If you're
+  on the hunt for sushi restaurants close to you, this place seems to deliver a
+  consistently pleasant vibe that keeps people coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +249,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

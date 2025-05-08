@@ -5,4 +5,5 @@ permalink: /tennessee/smyrna/
 stateAbbr: TN
 stateName: Tennessee
 cityName: Smyrna
+
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Masa's Sushi"
+title: Masa's Sushi
 permalink: /illinois/buffalo-grove/masa-s-sushi.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Buffalo Grove
 seo:
-  name: "Masa's Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://facebook.com/Masas-Sushi-111672018872035/
-description: "Simple sushi spot fixing up familiar maki, nigiri & sashimi in compact quarters. Masa's Sushi serves delicious sushi in Buffalo Grove, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJ7YRdgEK8D4gRawyScMOLtdk
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $10 &ndash; $20
 rating: '4.8'
 rating_count: 0
 website: https://facebook.com/Masas-Sushi-111672018872035/
+description: >-
+  About Masa's Sushi in Buffalo Grove, IL$$$Masa's Sushi in Buffalo Grove, IL,
+  stands out as a relaxed sushi spot perfect for those seeking fresh Japanese
+  cuisine in a convenient location. This unpretentious restaurant offers a
+  variety of familiar maki, nigiri, and sashimi options, making it a go-to
+  choice for casual lunches or dinners in the local town center. With its
+  compact and welcoming setup, it emphasizes accessibility features like
+  wheelchair-friendly entrances and parking, ensuring everyone can enjoy a
+  seamless visit. The focus on takeout-friendly meals adds to its appeal for
+  busy diners looking for quality sushi experiences nearby. Whether you're
+  exploring top-rated sushi options or simply craving something light and
+  flavorful, this spot delivers a straightforward yet satisfying vibe.
+generative_summary: >-
+  About Masa's Sushi in Buffalo Grove, IL$$$Masa's Sushi in Buffalo Grove, IL,
+  stands out as a relaxed sushi spot perfect for those seeking fresh Japanese
+  cuisine in a convenient location. This unpretentious restaurant offers a
+  variety of familiar maki, nigiri, and sashimi options, making it a go-to
+  choice for casual lunches or dinners in the local town center. With its
+  compact and welcoming setup, it emphasizes accessibility features like
+  wheelchair-friendly entrances and parking, ensuring everyone can enjoy a
+  seamless visit. The focus on takeout-friendly meals adds to its appeal for
+  busy diners looking for quality sushi experiences nearby. Whether you're
+  exploring top-rated sushi options or simply craving something light and
+  flavorful, this spot delivers a straightforward yet satisfying vibe.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ7YRdgEK8D4gRawyScMOLtdk/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJaTRlWGRREAE
@@ -342,6 +365,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURuenJ5OVRREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURuenJ5OVRREAE!2m1!1s0x880fbc42805d84ed:0xd9b58bc370920c6b
+review_summary: >-
+  What Customers Are Saying About the Sushi$$$Folks generally rave about the
+  fresh and tasty sushi rolls at this spot, with many highlighting how the
+  flavors feel authentic and hit the spot without breaking the bank. While there
+  are occasional mentions of mixed experiences with certain dishes, the overall
+  buzz leans toward positives like the standout Godzilla roll and affordable
+  lunch specials that keep people coming back. Visitors often appreciate the
+  friendly service and family-oriented atmosphere, making it a comfortable
+  choice for quick meals or takeout on the go. In a casual setting like this,
+  the emphasis on quality ingredients and variety helps it stand out among local
+  sushi places. All in all, it's a solid pick for anyone hunting for reliable
+  sushi nearby, with most feedback painting it as a worthwhile stop for everyday
+  dining adventures.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -374,8 +411,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Simple sushi spot fixing up familiar maki, nigiri & sashimi in compact
   quarters.
 

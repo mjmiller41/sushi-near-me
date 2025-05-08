@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Izu-Sushi"
+title: Izu-Sushi
 permalink: /colorado/denver/izu-sushi.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Denver
 seo:
-  name: "Izu-Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://orderizusushi.com/
-description: "Izu-Sushi serves delicious sushi in Denver, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ0_g-u8x-bIcRdpNarLju3TY
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x876c7eccbb3ef8d3:0x36ddeeb8ac5a9376!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 12
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 12
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 12
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 12
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 12
+        minute: 0
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 12:00 – 10:00 PM'
     - 'Tuesday: 12:00 – 10:00 PM'
     - 'Wednesday: 12:00 – 10:00 PM'
@@ -178,54 +234,334 @@ opening_hours:
     - 'Friday: 12:00 – 11:00 PM'
     - 'Saturday: 12:00 – 11:00 PM'
     - 'Sunday: 12:00 – 10:00 PM'
-  current:
-    - 'Monday: 12:00 – 10:00 PM'
-    - 'Tuesday: 12:00 – 10:00 PM'
-    - 'Wednesday: 12:00 – 10:00 PM'
-    - 'Thursday: 12:00 – 10:00 PM'
-    - 'Friday: 12:00 – 11:00 PM'
-    - 'Saturday: 12:00 – 11:00 PM'
-    - 'Sunday: 12:00 – 10:00 PM'
+  nextCloseTime: '2025-05-04T05:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 0
+        close:
+          day: 0
+          hour: 22
+          minute: 0
+      - open:
+          day: 1
+          hour: 12
+          minute: 0
+        close:
+          day: 1
+          hour: 22
+          minute: 0
+      - open:
+          day: 2
+          hour: 12
+          minute: 0
+        close:
+          day: 2
+          hour: 22
+          minute: 0
+      - open:
+          day: 3
+          hour: 12
+          minute: 0
+        close:
+          day: 3
+          hour: 22
+          minute: 0
+      - open:
+          day: 4
+          hour: 12
+          minute: 0
+        close:
+          day: 4
+          hour: 22
+          minute: 0
+      - open:
+          day: 5
+          hour: 12
+          minute: 0
+        close:
+          day: 5
+          hour: 23
+          minute: 0
+      - open:
+          day: 6
+          hour: 12
+          minute: 0
+        close:
+          day: 6
+          hour: 23
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 12:00 – 10:00 PM'
+      - 'Tuesday: 12:00 – 10:00 PM'
+      - 'Wednesday: 12:00 – 10:00 PM'
+      - 'Thursday: 12:00 – 10:00 PM'
+      - 'Friday: 12:00 – 11:00 PM'
+      - 'Saturday: 12:00 – 11:00 PM'
+      - 'Sunday: 12:00 – 10:00 PM'
+    secondaryHoursType: TAKEOUT
+    nextCloseTime: '2025-05-04T05:00:00Z'
 phone: (303) 284-7981
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.3'
-rating_count: 0
+rating_count: 517
 website: https://orderizusushi.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Explore Izu-Sushi in Denver, CO$$$Izu-Sushi in Denver, CO, stands out as a
+  welcoming sushi spot in the vibrant Cheesman Park neighborhood, offering fresh
+  Japanese-inspired dishes that cater to a variety of tastes. This locally owned
+  restaurant features classic sushi options alongside creative rolls and
+  vegetarian choices, making it a go-to for anyone seeking flavorful meals in a
+  cozy, red-and-white accented setting. With its emphasis on happy hours and
+  accessible features like wheelchair-friendly entrances and seating, it's
+  designed for an inclusive dining experience. Open daily from noon until late
+  evening, the spot provides a relaxed atmosphere perfect for enjoying noodle
+  dishes or satisfying your cravings for top-rated sushi near me.
+generative_summary: >-
+  Explore Izu-Sushi in Denver, CO$$$Izu-Sushi in Denver, CO, stands out as a
+  welcoming sushi spot in the vibrant Cheesman Park neighborhood, offering fresh
+  Japanese-inspired dishes that cater to a variety of tastes. This locally owned
+  restaurant features classic sushi options alongside creative rolls and
+  vegetarian choices, making it a go-to for anyone seeking flavorful meals in a
+  cozy, red-and-white accented setting. With its emphasis on happy hours and
+  accessible features like wheelchair-friendly entrances and seating, it's
+  designed for an inclusive dining experience. Open daily from noon until late
+  evening, the spot provides a relaxed atmosphere perfect for enjoying noodle
+  dishes or satisfying your cravings for top-rated sushi near me.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ0_g-u8x-bIcRdpNarLju3TY/reviews/ChZDSUhNMG9nS0VJQ0FnTUNndVBMV1B3EAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        One of the best places I ever went to for dinner. Great cuisine and
+        drinks, on this occasion Sake! Being there just makes you feel special…
+        run, don’t walk.
+      languageCode: en
+    originalText:
+      text: >-
+        One of the best places I ever went to for dinner. Great cuisine and
+        drinks, on this occasion Sake! Being there just makes you feel special…
+        run, don’t walk.
+      languageCode: en
+    authorAttribution:
+      displayName: Richard O'Brien
+      uri: https://www.google.com/maps/contrib/108122814901643431441/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWYH7q6knhwSBsqGJU6Rfjjk2OJAGNhZRK5z2eO_79uOrqSkoH2=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-02-14T01:01:34.796258Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNndVBMV1B3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNndVBMV1B3EAE!2m1!1s0x876c7eccbb3ef8d3:0x36ddeeb8ac5a9376
+  - name: >-
+      places/ChIJ0_g-u8x-bIcRdpNarLju3TY/reviews/ChZDSUhNMG9nS0VJQ0FnSUNYNVpudmFnEAE
+    relativePublishTimeDescription: 6 months ago
+    rating: 5
+    text:
+      text: >-
+        Love this place kinda of my go to when I’m starving and wanna grub! I
+        always get sushi nigiri and a fancy roll! But gotta say this place hit
+        the other day!!! Thank you for always being such a friendly server too!
+      languageCode: en
+    originalText:
+      text: >-
+        Love this place kinda of my go to when I’m starving and wanna grub! I
+        always get sushi nigiri and a fancy roll! But gotta say this place hit
+        the other day!!! Thank you for always being such a friendly server too!
+      languageCode: en
+    authorAttribution:
+      displayName: Vince Majikas
+      uri: https://www.google.com/maps/contrib/114939038898331142918/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjV4DyAjVtv6DLPCAulL3Nc63JylanYKlkziNTnQ7RE_nMSeqSE=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-10-18T20:34:25.255831Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNYNVpudmFnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNYNVpudmFnEAE!2m1!1s0x876c7eccbb3ef8d3:0x36ddeeb8ac5a9376
+  - name: >-
+      places/ChIJ0_g-u8x-bIcRdpNarLju3TY/reviews/ChdDSUhNMG9nS0VJQ0FnSUNscnBDZWhBRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        A quaint restaurant but with big flavors. They've got an open sushi bar
+        and seating in the dinning area. The sushi here is really great. I've
+        gotten 4 roles from here and each of them have been so delicious, no
+        disappointments. Sake bombs and cocktails are always a must. You've got
+        to park on the street if you are dinning in but parking and walking is
+        well worth it.
+      languageCode: en
+    originalText:
+      text: >-
+        A quaint restaurant but with big flavors. They've got an open sushi bar
+        and seating in the dinning area. The sushi here is really great. I've
+        gotten 4 roles from here and each of them have been so delicious, no
+        disappointments. Sake bombs and cocktails are always a must. You've got
+        to park on the street if you are dinning in but parking and walking is
+        well worth it.
+      languageCode: en
+    authorAttribution:
+      displayName: James Blinder
+      uri: https://www.google.com/maps/contrib/102390423959515222176/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWjPqBpPUqv6h0ePuXtotOxL_9rZxaVqT-3Nuk4zPIPlKa41bMcMw=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2023-11-18T18:02:44.641032Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNscnBDZWhBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNscnBDZWhBRRAB!2m1!1s0x876c7eccbb3ef8d3:0x36ddeeb8ac5a9376
+  - name: >-
+      places/ChIJ0_g-u8x-bIcRdpNarLju3TY/reviews/ChZDSUhNMG9nS0VJQ0FnSUNsMFAyU1hBEAE
+    relativePublishTimeDescription: a year ago
+    rating: 1
+    text:
+      text: >-
+        Hello!!
+
+
+        We ordered sushi from you through the Uber Eats app. There are no
+        complaints whatsoever, everything is excellent and on time for delivery.
+
+
+        But you guys do disgusting service!
+
+        -you didn't put a chopstick or a napkin in the bag
+
+        -the rolls look horrible
+
+        -I found a plastic in the sushi (see photo)
+
+
+        Recommendation:
+
+        recommend that the owner hire qualified staff and in general I recommend
+        that you go to Japan and learn how sushi should look like
+
+
+        Ambiance I think the same like plastic in our food
+      languageCode: en
+    originalText:
+      text: >-
+        Hello!!
+
+
+        We ordered sushi from you through the Uber Eats app. There are no
+        complaints whatsoever, everything is excellent and on time for delivery.
+
+
+        But you guys do disgusting service!
+
+        -you didn't put a chopstick or a napkin in the bag
+
+        -the rolls look horrible
+
+        -I found a plastic in the sushi (see photo)
+
+
+        Recommendation:
+
+        recommend that the owner hire qualified staff and in general I recommend
+        that you go to Japan and learn how sushi should look like
+
+
+        Ambiance I think the same like plastic in our food
+      languageCode: en
+    authorAttribution:
+      displayName: Sergey coma
+      uri: https://www.google.com/maps/contrib/118209895909735062714/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjW5TsnB99oDrBq4MYXvV6L7buwkhyJbqFY4aaibuSjOTATdUVO8=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2023-11-13T02:48:45.008055Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNsMFAyU1hBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNsMFAyU1hBEAE!2m1!1s0x876c7eccbb3ef8d3:0x36ddeeb8ac5a9376
+  - name: >-
+      places/ChIJ0_g-u8x-bIcRdpNarLju3TY/reviews/ChZDSUhNMG9nS0VJQ0FnSUMxdGRXU2JnEAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        We came back to Denver from Dallas to have this sushi again! And it was
+        even better than we remembered. The black pepper tuna is amazing in
+        every roll. My favorite is the Jazz roll. We order so much food and the
+        server was supper sweet and accommodating. Definitely plan on coming
+        back again next new year.
+      languageCode: en
+    originalText:
+      text: >-
+        We came back to Denver from Dallas to have this sushi again! And it was
+        even better than we remembered. The black pepper tuna is amazing in
+        every roll. My favorite is the Jazz roll. We order so much food and the
+        server was supper sweet and accommodating. Definitely plan on coming
+        back again next new year.
+      languageCode: en
+    authorAttribution:
+      displayName: Deana Patrick
+      uri: https://www.google.com/maps/contrib/102533906654343725749/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWUZGQkvYwabeQKPUYAUMEKIjM1ENhJDZNygv7pHpR6JYSDTuA=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-01-02T05:00:48.186952Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUMxdGRXU2JnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUMxdGRXU2JnEAE!2m1!1s0x876c7eccbb3ef8d3:0x36ddeeb8ac5a9376
+review_summary: >-
+  Insights from Customer Feedback$$$Visitors to this sushi restaurant often
+  praise the fresh and flavorful rolls, with many highlighting the quality of
+  the nigiri and specialty options that make for a satisfying meal. Folks
+  appreciate the friendly service and welcoming vibe, noting that it's a solid
+  choice for groups or casual dinners, though some mention occasional
+  inconsistencies with takeout orders. Overall, the consensus leans positive,
+  with diners frequently returning for the tasty combinations and inviting
+  ambiance that enhance the experience. If you're searching for reliable sushi
+  places near me, this spot delivers on taste and variety while maintaining a
+  balance of affordability and quality.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  paidStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
+delivery: true
+dine_in: true
 good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Sushi & noodle dishes headline the menu at this Japanese bistro accented by
+  red & white decor.
 
 ---

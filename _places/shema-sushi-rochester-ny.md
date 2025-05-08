@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Shema Sushi"
+title: Shema Sushi
 permalink: /new-york/rochester/shema-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: Rochester
 seo:
-  name: "Shema Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.shema-sushi.com/
-description: "Calm, urban nook since 2007 offering Japanese noodle dishes, along with beer & sake. Shema Sushi serves delicious sushi in Rochester, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJbfUNDALP1okRJ3K-FQQKEgE
 photos:
   - name: >-
@@ -184,6 +182,33 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 0
 website: https://www.shema-sushi.com/
+description: >-
+  Experience Shema Sushi in Rochester, NY$$$Shema Sushi in Rochester, NY, stands
+  out as a welcoming spot for Japanese cuisine enthusiasts, offering a cozy
+  atmosphere since 2007. This sushi restaurant features an array of fresh
+  Japanese favorites like teriyaki, bento boxes, and expertly crafted rolls,
+  complemented by a selection of beer and sake for a complete dining experience.
+  Accessibility is a key highlight, with options like wheelchair-accessible
+  parking and seating making it easy for everyone to enjoy. Patrons appreciate
+  the moderate pricing, which fits well for casual meals or special occasions,
+  positioning it as a go-to choice among local sushi places. Whether you're
+  searching for top-rated sushi nearby or simply craving authentic flavors, this
+  eatery delivers a relaxed urban vibe with thoughtful details that enhance
+  every visit.
+generative_summary: >-
+  Experience Shema Sushi in Rochester, NY$$$Shema Sushi in Rochester, NY, stands
+  out as a welcoming spot for Japanese cuisine enthusiasts, offering a cozy
+  atmosphere since 2007. This sushi restaurant features an array of fresh
+  Japanese favorites like teriyaki, bento boxes, and expertly crafted rolls,
+  complemented by a selection of beer and sake for a complete dining experience.
+  Accessibility is a key highlight, with options like wheelchair-accessible
+  parking and seating making it easy for everyone to enjoy. Patrons appreciate
+  the moderate pricing, which fits well for casual meals or special occasions,
+  positioning it as a go-to choice among local sushi places. Whether you're
+  searching for top-rated sushi nearby or simply craving authentic flavors, this
+  eatery delivers a relaxed urban vibe with thoughtful details that enhance
+  every visit.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJbfUNDALP1okRJ3K-FQQKEgE/reviews/ChdDSUhNMG9nS0VJQ0FnSUNQcTRpNHh3RRAB
@@ -385,6 +410,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNxM1pMLWRREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNxM1pMLWRREAE!2m1!1s0x89d6cf020c0df56d:0x1120a0415be7227
+review_summary: >-
+  Highlights from Customer Feedback$$$Folks dining at this spot often praise the
+  incredibly fresh and flavorful sushi rolls, noting how the high-quality
+  ingredients make every bite memorable in a casual, laid-back setting. Many
+  appreciate the attentive service that adds a welcoming touch without
+  overwhelming the experience, along with generous portions that offer great
+  value for the price. Reviewers frequently highlight standout dishes like
+  tempura and ramen, describing them as some of the best around, which keeps
+  people coming back for more. Overall, the atmosphere strikes a perfect balance
+  of relaxed and authentic, making it a solid pick for groups or solo diners
+  seeking reliable Japanese options. If you're on the hunt for sushi restaurants
+  near you, this place consistently delivers a positive vibe that leaves
+  visitors eager to return.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -417,8 +456,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Calm, urban nook since 2007 offering Japanese noodle dishes, along with beer &
   sake.
 

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sumo Sushi & Grill AYCE - Tacoma"
+title: Sumo Sushi & Grill AYCE - Tacoma
 permalink: /washington/tacoma/sumo-sushi-grill-ayce-tacoma.html
 stateAbbr: WA
 stateName: Washington
 cityName: Tacoma
 seo:
-  name: "Sumo Sushi & Grill AYCE - Tacoma"
-  type: Restaurant
+  type: restaurant
   links: https://www.sumoayce.com/
-description: "Sumo Sushi & Grill AYCE - Tacoma serves delicious sushi in Tacoma, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJj562OLJVkFQR8U7DmGIJvhE
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x549055b238b69e8f:0x11be096298c34ef1!10e5
 primary_type: Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:30 PM'
     - 'Tuesday: 11:00 AM – 9:30 PM'
     - 'Wednesday: 11:00 AM – 9:30 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:00 PM'
     - 'Saturday: 11:00 AM – 10:00 PM'
     - 'Sunday: 11:00 AM – 9:30 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:30 PM'
-    - 'Tuesday: 11:00 AM – 9:30 PM'
-    - 'Wednesday: 11:00 AM – 9:30 PM'
-    - 'Thursday: 11:00 AM – 9:30 PM'
-    - 'Friday: 11:00 AM – 10:00 PM'
-    - 'Saturday: 11:00 AM – 10:00 PM'
-    - 'Sunday: 11:00 AM – 9:30 PM'
+  nextCloseTime: '2025-05-04T05:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +246,52 @@ phone: (253) 267-0063
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.4'
-rating_count: 0
+rating_count: 1813
 website: https://www.sumoayce.com/
+description: >-
+  Discover Sumo Sushi & Grill in Tacoma, WA$$$Sumo Sushi & Grill AYCE in Tacoma,
+  WA, stands out as a go-to spot for sushi enthusiasts seeking a relaxed dining
+  experience with an all-you-can-eat menu featuring fresh Japanese-inspired
+  dishes. This casual restaurant boasts a variety of options including flavorful
+  rolls, grilled favorites, and a complementary salad and dessert bar, making it
+  ideal for anyone exploring local sushi places. Accessibility is a key
+  highlight, with features like wheelchair-friendly parking, entrances,
+  restrooms, and seating that ensure everyone can enjoy the meal comfortably.
+  Operating daily from late morning into the evening, it's perfect for lunch
+  breaks or dinner outings, adding to its appeal for those searching for
+  convenient Japanese dining options nearby. The welcoming atmosphere and
+  diverse selections make it a solid choice for anyone craving top-rated sushi
+  in the area.
+generative_summary: >-
+  Discover Sumo Sushi & Grill in Tacoma, WA$$$Sumo Sushi & Grill AYCE in Tacoma,
+  WA, stands out as a go-to spot for sushi enthusiasts seeking a relaxed dining
+  experience with an all-you-can-eat menu featuring fresh Japanese-inspired
+  dishes. This casual restaurant boasts a variety of options including flavorful
+  rolls, grilled favorites, and a complementary salad and dessert bar, making it
+  ideal for anyone exploring local sushi places. Accessibility is a key
+  highlight, with features like wheelchair-friendly parking, entrances,
+  restrooms, and seating that ensure everyone can enjoy the meal comfortably.
+  Operating daily from late morning into the evening, it's perfect for lunch
+  breaks or dinner outings, adding to its appeal for those searching for
+  convenient Japanese dining options nearby. The welcoming atmosphere and
+  diverse selections make it a solid choice for anyone craving top-rated sushi
+  in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What People Are Saying About Sumo Sushi & Grill$$$Feedback from diners
+  highlights the solid quality and variety at this sushi spot, with many
+  praising the fresh ingredients and generous portions that keep things
+  satisfying and fun. Overall, visitors appreciate the reliable service and
+  inviting vibe, often noting it as a great value for an all-you-can-eat setup
+  without skimping on taste. While some mention occasional waits during peak
+  times, the positive experiences with the menu's creativity and flavors tend to
+  outweigh any minor hiccups. With a strong rating reflecting widespread
+  enjoyment, it's clear that families and groups find this place hits the mark
+  for casual meals. If you're on the hunt for reliable sushi restaurants nearby,
+  the general consensus suggests giving this Tacoma favorite a try for a
+  enjoyable and worthwhile visit.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +317,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

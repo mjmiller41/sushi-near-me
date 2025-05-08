@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "sapporo japanese bistro"
+title: sapporo japanese bistro
 permalink: /texas/magnolia/sapporo-japanese-bistro.html
 stateAbbr: TX
 stateName: Texas
 cityName: Magnolia
 seo:
-  name: "sapporo japanese bistro"
-  type: Restaurant
+  type: restaurant
   links: https://sapporotx.com/
-description: "Sleek, contemporary spot for a full Japanese menu of sushi & cooked fare, with sake & cocktails. sapporo japanese bistro serves delicious sushi in Magnolia, Texas. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJy9zH37svR4YRGLXs0Oc0dZs
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 0
 website: https://sapporotx.com/
+description: >-
+  Discover Sapporo Japanese Bistro in Magnolia, TX$$$Sapporo Japanese Bistro in
+  Magnolia, TX, delivers a modern and inviting atmosphere perfect for enjoying
+  fresh sushi and traditional Japanese dishes. This spot stands out with its
+  accessible features, like wheelchair-friendly entrances and seating, making it
+  welcoming for all diners seeking a comfortable meal. The menu highlights a
+  variety of sushi options alongside cooked fare, complemented by a selection of
+  sake, cocktails, and other beverages that enhance the overall experience.
+  Visitors can appreciate the clean, contemporary design and ample parking,
+  ideal for those exploring sushi restaurants in the area. Whether you're in the
+  mood for a quick lunch or a relaxed dinner, this Japanese place near Magnolia
+  offers a balanced blend of quality and value.
+generative_summary: >-
+  Discover Sapporo Japanese Bistro in Magnolia, TX$$$Sapporo Japanese Bistro in
+  Magnolia, TX, delivers a modern and inviting atmosphere perfect for enjoying
+  fresh sushi and traditional Japanese dishes. This spot stands out with its
+  accessible features, like wheelchair-friendly entrances and seating, making it
+  welcoming for all diners seeking a comfortable meal. The menu highlights a
+  variety of sushi options alongside cooked fare, complemented by a selection of
+  sake, cocktails, and other beverages that enhance the overall experience.
+  Visitors can appreciate the clean, contemporary design and ample parking,
+  ideal for those exploring sushi restaurants in the area. Whether you're in the
+  mood for a quick lunch or a relaxed dinner, this Japanese place near Magnolia
+  offers a balanced blend of quality and value.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJy9zH37svR4YRGLXs0Oc0dZs/reviews/ChZDSUhNMG9nS0VJQ0FnTURBbF9taUVnEAE
@@ -348,6 +371,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNnbk0tcWV3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNnbk0tcWV3EAE!2m1!1s0x86472fbbdfc7dccb:0x9b7534e7d0ecb518
+review_summary: >-
+  What People Are Saying About This Sushi Favorite$$$Folks rave about the fresh
+  sushi and generous portions at this spot, often highlighting how the flavors
+  really hit the mark for a satisfying meal. Many appreciate the friendly
+  service and helpful recommendations from the staff, along with great deals
+  during happy hour that make it a fun choice for groups. While most experiences
+  are positive, a few mentions of minor delivery hiccups show room for
+  improvement in off-site orders, but these don't overshadow the overall
+  enjoyment. Diners frequently note the clean environment and variety of
+  options, making it a go-to for anyone searching for top-rated sushi nearby.
+  All in all, it's a solid pick for those who love sushi, with the welcoming
+  vibe and tasty dishes keeping customers coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -380,8 +416,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Sleek, contemporary spot for a full Japanese menu of sushi & cooked fare, with
   sake & cocktails.
 

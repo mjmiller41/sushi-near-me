@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "One Flew South"
+title: One Flew South
 permalink: /georgia/atlanta/one-flew-south.html
 stateAbbr: GA
 stateName: Georgia
 cityName: Atlanta
 seo:
-  name: "One Flew South"
-  type: Restaurant
-  links: null
-description: "One Flew South serves delicious sushi in Atlanta, Georgia. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://oneflewsouthatl.com/airport/
 place_id: ChIJAbesjs7i9IgRBbfTAGxbrHk
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x88f4e2ce8eacb701:0x79ac5b6c00d3b705!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 7
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 7
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 7
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 7
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 7
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 7:00 AM – 10:00 PM'
+    - 'Tuesday: 7:00 AM – 10:00 PM'
+    - 'Wednesday: 7:00 AM – 10:00 PM'
+    - 'Thursday: 7:00 AM – 10:00 PM'
+    - 'Friday: 7:00 AM – 10:00 PM'
+    - 'Saturday: 11:00 AM – 9:00 PM'
+    - 'Sunday: 11:00 AM – 10:00 PM'
+  nextCloseTime: '2025-05-04T01:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,49 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (404) 209-8209
+price_level: PRICE_LEVEL_EXPENSIVE
+price_range: $30 &ndash; $50
+rating: '4.4'
+rating_count: 1766
+website: https://oneflewsouthatl.com/airport/
+description: >-
+  About One Flew South in Atlanta$$$One Flew South in Atlanta, GA, stands out as
+  a welcoming Japanese restaurant nestled in the heart of the airport, offering
+  a blend of innovative Southern flavors and fresh sushi options for travelers
+  on the go. This spot combines casual vibes with an array of creative rolls and
+  bites, making it a go-to choice for those seeking top-rated sushi near the
+  airport terminal. With its accessible entrance and extended hours, it provides
+  a convenient escape for quick meals or relaxed dining, enhanced by a selection
+  of wines and cocktails that pair perfectly with the menu. The atmosphere
+  strikes a balance between modern elegance and comfort, ideal for anyone
+  exploring sushi places near me during layovers or local outings.
+generative_summary: >-
+  About One Flew South in Atlanta$$$One Flew South in Atlanta, GA, stands out as
+  a welcoming Japanese restaurant nestled in the heart of the airport, offering
+  a blend of innovative Southern flavors and fresh sushi options for travelers
+  on the go. This spot combines casual vibes with an array of creative rolls and
+  bites, making it a go-to choice for those seeking top-rated sushi near the
+  airport terminal. With its accessible entrance and extended hours, it provides
+  a convenient escape for quick meals or relaxed dining, enhanced by a selection
+  of wines and cocktails that pair perfectly with the menu. The atmosphere
+  strikes a balance between modern elegance and comfort, ideal for anyone
+  exploring sushi places near me during layovers or local outings.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About This Spot$$$Visitors to this Atlanta sushi
+  restaurant often highlight the fresh and flavorful dishes as a standout
+  feature, with many appreciating the creative twists on classic rolls that keep
+  things exciting. Feedback frequently praises the efficient service and
+  welcoming environment, making it a solid pick for groups or solo diners
+  looking for reliable Japanese cuisine on the fly. While some note that airport
+  prices can add up, the overall consensus leans positive, emphasizing the
+  quality ingredients and variety that make it one of the best sushi options in
+  the area. Folks enjoy the convenience and taste, often recommending it for a
+  satisfying meal that combines Southern influences with authentic flavors,
+  helping it maintain its high rating among sushi enthusiasts nearby.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +310,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

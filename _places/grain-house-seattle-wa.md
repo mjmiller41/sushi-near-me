@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Grain House"
+title: Grain House
 permalink: /washington/seattle/grain-house.html
 stateAbbr: WA
 stateName: Washington
 cityName: Seattle
 seo:
-  name: "Grain House"
-  type: Restaurant
+  type: restaurant
   links: https://www.grainhouseseattle.com/
-description: "Grain House serves delicious sushi in Seattle, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ8zvG1jNrkFQRHgyfe6qtMEU
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x54906b33d6c63bf3:0x4530adaa7b9f0c1e!10e5
 primary_type: Asian Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:00 PM'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -178,28 +226,119 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:00 PM'
     - 'Saturday: 12:00 – 9:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:00 AM – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 9:00 PM'
-    - 'Saturday: 12:00 – 9:00 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 1
+          hour: 11
+          minute: 0
+        close:
+          day: 1
+          hour: 21
+          minute: 0
+      - open:
+          day: 2
+          hour: 11
+          minute: 0
+        close:
+          day: 2
+          hour: 21
+          minute: 0
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 21
+          minute: 0
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 0
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 21
+          minute: 0
+      - open:
+          day: 6
+          hour: 12
+          minute: 0
+        close:
+          day: 6
+          hour: 21
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 11:00 AM – 9:00 PM'
+      - 'Tuesday: 11:00 AM – 9:00 PM'
+      - 'Wednesday: 11:00 AM – 9:00 PM'
+      - 'Thursday: 11:00 AM – 9:00 PM'
+      - 'Friday: 11:00 AM – 9:00 PM'
+      - 'Saturday: 12:00 – 9:00 PM'
+      - 'Sunday: Closed'
+    secondaryHoursType: TAKEOUT
+    nextCloseTime: '2025-05-04T04:00:00Z'
 phone: (206) 453-4594
 price_level: PRICE_LEVEL_INEXPENSIVE
 price_range: $10 &ndash; $20
 rating: '4.7'
-rating_count: 0
+rating_count: 180
 website: https://www.grainhouseseattle.com/
+description: >-
+  Discover Grain House in Seattle, WA$$$Grain House in Seattle, WA, stands out
+  as a casual Asian restaurant offering a delightful mix of fresh sushi rolls,
+  flavorful pho, and other authentic Asian dishes in a stylishly decorated
+  setting. Visitors can enjoy a welcoming atmosphere that's enhanced by
+  thoughtful accessibility features, including wheelchair-friendly parking and
+  seating, making it easy for everyone to savor their meals. The menu highlights
+  a variety of options that appeal to those seeking top-rated sushi experiences
+  nearby, with an emphasis on quality ingredients and creative presentations.
+  Operating from late morning into the evening most days, it's a convenient spot
+  for locals and tourists alike looking for japanese places near me that combine
+  affordability with a modern vibe. Whether you're in the mood for a quick lunch
+  or a relaxed dinner, this neighborhood gem in Downtown Seattle delivers a
+  satisfying blend of taste and ambiance.
+generative_summary: >-
+  Discover Grain House in Seattle, WA$$$Grain House in Seattle, WA, stands out
+  as a casual Asian restaurant offering a delightful mix of fresh sushi rolls,
+  flavorful pho, and other authentic Asian dishes in a stylishly decorated
+  setting. Visitors can enjoy a welcoming atmosphere that's enhanced by
+  thoughtful accessibility features, including wheelchair-friendly parking and
+  seating, making it easy for everyone to savor their meals. The menu highlights
+  a variety of options that appeal to those seeking top-rated sushi experiences
+  nearby, with an emphasis on quality ingredients and creative presentations.
+  Operating from late morning into the evening most days, it's a convenient spot
+  for locals and tourists alike looking for japanese places near me that combine
+  affordability with a modern vibe. Whether you're in the mood for a quick lunch
+  or a relaxed dinner, this neighborhood gem in Downtown Seattle delivers a
+  satisfying blend of taste and ambiance.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Buzzing About$$$Folks who've dined at Grain House often rave
+  about the fresh, well-prepared sushi and other Asian favorites, noting how the
+  flavors really hit the spot without breaking the bank. Many appreciate the
+  friendly service and efficient vibe that make it a go-to for casual meals,
+  with comments highlighting the restaurant's ability to handle groups smoothly
+  and offer solid value for money. Based on the high ratings, it's clear that
+  the overall experience leaves people feeling satisfied, especially when it
+  comes to standout dishes that keep diners coming back for more sushi close to
+  me. While some mention the spot can get busy during peak times, the general
+  feedback leans positive, praising the welcoming environment and quick
+  turnaround on orders. If you're hunting for best sushi near me, this place
+  seems to deliver a reliably enjoyable outing that balances taste, service, and
+  affordability in a laid-back way.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +364,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

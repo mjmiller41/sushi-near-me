@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Umami Restaurant"
+title: Umami Restaurant
 permalink: /nevada/las-vegas/umami-restaurant.html
 stateAbbr: NV
 stateName: Nevada
 cityName: Las Vegas
 seo:
-  name: "Umami Restaurant"
-  type: Restaurant
+  type: restaurant
   links: https://www.dragonfactories.com/umami
-description: "Umami Restaurant serves delicious sushi in Las Vegas, Nevada. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJx3lNelWTyIAR2rIoHYUkGnU
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c893557a4d79c7:0x751a24851d28b2da!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 0
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 0
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 0
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 0
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 0
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 0
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 0
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 12:00 AM'
     - 'Tuesday: 11:00 AM – 12:00 AM'
     - 'Wednesday: 11:00 AM – 12:00 AM'
@@ -178,54 +234,361 @@ opening_hours:
     - 'Friday: 11:00 AM – 12:00 AM'
     - 'Saturday: 11:00 AM – 12:00 AM'
     - 'Sunday: 11:00 AM – 12:00 AM'
-  current:
-    - 'Monday: 11:00 AM – 12:00 AM'
-    - 'Tuesday: 11:00 AM – 12:00 AM'
-    - 'Wednesday: 11:00 AM – 12:00 AM'
-    - 'Thursday: 11:00 AM – 12:00 AM'
-    - 'Friday: 11:00 AM – 12:00 AM'
-    - 'Saturday: 11:00 AM – 12:00 AM'
-    - 'Sunday: 11:00 AM – 12:00 AM'
+  nextCloseTime: '2025-05-04T07:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 11
+          minute: 0
+        close:
+          day: 1
+          hour: 0
+          minute: 0
+      - open:
+          day: 1
+          hour: 11
+          minute: 0
+        close:
+          day: 2
+          hour: 0
+          minute: 0
+      - open:
+          day: 2
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 0
+          minute: 0
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 0
+          minute: 0
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 0
+          minute: 0
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 6
+          hour: 0
+          minute: 0
+      - open:
+          day: 6
+          hour: 11
+          minute: 0
+        close:
+          day: 0
+          hour: 0
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 11:00 AM – 12:00 AM'
+      - 'Tuesday: 11:00 AM – 12:00 AM'
+      - 'Wednesday: 11:00 AM – 12:00 AM'
+      - 'Thursday: 11:00 AM – 12:00 AM'
+      - 'Friday: 11:00 AM – 12:00 AM'
+      - 'Saturday: 11:00 AM – 12:00 AM'
+      - 'Sunday: 11:00 AM – 12:00 AM'
+    secondaryHoursType: TAKEOUT
+    nextCloseTime: '2025-05-04T07:00:00Z'
 phone: (702) 776-8627
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.2'
-rating_count: 0
+rating_count: 1405
 website: https://www.dragonfactories.com/umami
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Umami Restaurant in Las Vegas, NV$$$Nestled in Las Vegas, NV, Umami
+  Restaurant stands out as a vibrant spot for fresh sushi and Japanese cuisine,
+  offering an all-you-can-eat experience with specialty rolls and beverages in a
+  relaxed environment. This sushi destination features an industrial-style setup
+  with a long bar perfect for watching skilled preparation, alongside a variety
+  of kitchen entrees that cater to diverse tastes. Patrons can enjoy accessible
+  features like wheelchair-friendly seating and parking, making it easy for
+  everyone to savor the flavors. With extended hours from late morning into the
+  evening, it's an ideal choice for those searching for quality sushi near me in
+  a welcoming atmosphere. The menu highlights fresh ingredients and a casual
+  vibe, appealing to anyone looking for top-rated sushi restaurants in the area.
+generative_summary: >-
+  Discover Umami Restaurant in Las Vegas, NV$$$Nestled in Las Vegas, NV, Umami
+  Restaurant stands out as a vibrant spot for fresh sushi and Japanese cuisine,
+  offering an all-you-can-eat experience with specialty rolls and beverages in a
+  relaxed environment. This sushi destination features an industrial-style setup
+  with a long bar perfect for watching skilled preparation, alongside a variety
+  of kitchen entrees that cater to diverse tastes. Patrons can enjoy accessible
+  features like wheelchair-friendly seating and parking, making it easy for
+  everyone to savor the flavors. With extended hours from late morning into the
+  evening, it's an ideal choice for those searching for quality sushi near me in
+  a welcoming atmosphere. The menu highlights fresh ingredients and a casual
+  vibe, appealing to anyone looking for top-rated sushi restaurants in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJx3lNelWTyIAR2rIoHYUkGnU/reviews/ChdDSUhNMG9nS0VJQ0FnSURfbElLZmp3RRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        Nat, our server has great customer service such as great eye contact,
+        repeats our order with a smile and her body language shows she's happy
+        serve you and comes by to check if we are okay with the food. We would
+        love to comeback again. Hopefully to have another Great service like 
+        Nat.
+      languageCode: en
+    originalText:
+      text: >-
+        Nat, our server has great customer service such as great eye contact,
+        repeats our order with a smile and her body language shows she's happy
+        serve you and comes by to check if we are okay with the food. We would
+        love to comeback again. Hopefully to have another Great service like 
+        Nat.
+      languageCode: en
+    authorAttribution:
+      displayName: denise alfonso
+      uri: https://www.google.com/maps/contrib/116092154340510506176/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJCiX3ycPIgcWxia3p8o0i717tFuywtiq5dl4_FiPxJxwF7vQ=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-01-21T21:24:10.106913Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURfbElLZmp3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURfbElLZmp3RRAB!2m1!1s0x80c893557a4d79c7:0x751a24851d28b2da
+  - name: >-
+      places/ChIJx3lNelWTyIAR2rIoHYUkGnU/reviews/ChZDSUhNMG9nS0VJQ0FnSURmdnM3WlNnEAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        Food/Taste/Flavor: 5/5 - ordered 3 rolls of Dancing Eel, Sun of the
+        Beach, and Don't Cry Amigo. While the rolls looked a bit small, it was
+        quite filling. All of the tools were yummy and the ingredients tasted
+        fresh. We really appreciate that the sauces come on the side but are
+        labeled so we know which goes together. We really like the spicy mayo
+        eel sauce that came with sun of the beach but didn't care for the garlic
+        ponzu hot sauce that came with don't cry amigo.
+
+
+        Service: 5/5 - ordered at the counter to go, and Jericho was super
+        friendly and helped make a few recommendations
+
+
+        Ambiance: n/a - ordered food to go. Quite busy as we consistently saw
+        people coming in And out
+
+
+        Value for price: 5/5 - decent price at around $12 per roll but there can
+        be quite a wait depending on the time you get there. The parking lot is
+        quite chaotic
+      languageCode: en
+    originalText:
+      text: >-
+        Food/Taste/Flavor: 5/5 - ordered 3 rolls of Dancing Eel, Sun of the
+        Beach, and Don't Cry Amigo. While the rolls looked a bit small, it was
+        quite filling. All of the tools were yummy and the ingredients tasted
+        fresh. We really appreciate that the sauces come on the side but are
+        labeled so we know which goes together. We really like the spicy mayo
+        eel sauce that came with sun of the beach but didn't care for the garlic
+        ponzu hot sauce that came with don't cry amigo.
+
+
+        Service: 5/5 - ordered at the counter to go, and Jericho was super
+        friendly and helped make a few recommendations
+
+
+        Ambiance: n/a - ordered food to go. Quite busy as we consistently saw
+        people coming in And out
+
+
+        Value for price: 5/5 - decent price at around $12 per roll but there can
+        be quite a wait depending on the time you get there. The parking lot is
+        quite chaotic
+      languageCode: en
+    authorAttribution:
+      displayName: sbbcampervan
+      uri: https://www.google.com/maps/contrib/117282853459880207491/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJlyyaQVkZxm8QY0CoU4gsHPE1es373ShIyqp5wnk6nZYb3GA=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2025-01-07T00:25:42.689124Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURmdnM3WlNnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURmdnM3WlNnEAE!2m1!1s0x80c893557a4d79c7:0x751a24851d28b2da
+  - name: >-
+      places/ChIJx3lNelWTyIAR2rIoHYUkGnU/reviews/ChZDSUhNMG9nS0VJQ0FnSUMzMEt5d1ZBEAE
+    relativePublishTimeDescription: 6 months ago
+    rating: 5
+    text:
+      text: >-
+        Worth it to try all you can it Umami Las Vegas with $30/per person on
+        weekend. Satisfied with the food and the server Saul and the
+        receptionist Jericho. They introduced to me, the best one that I can
+        try. Highly recommend it and will be back again.
+      languageCode: en
+    originalText:
+      text: >-
+        Worth it to try all you can it Umami Las Vegas with $30/per person on
+        weekend. Satisfied with the food and the server Saul and the
+        receptionist Jericho. They introduced to me, the best one that I can
+        try. Highly recommend it and will be back again.
+      languageCode: en
+    authorAttribution:
+      displayName: Ira Wu
+      uri: https://www.google.com/maps/contrib/111876819194224851461/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKgwMT1ON9eLTiK_3n_zr_J-Ac-t6oTQHZXZH1cNlYZE0Apyg=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-11-02T01:01:16.183053Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUMzMEt5d1ZBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUMzMEt5d1ZBEAE!2m1!1s0x80c893557a4d79c7:0x751a24851d28b2da
+  - name: >-
+      places/ChIJx3lNelWTyIAR2rIoHYUkGnU/reviews/ChdDSUhNMG9nS0VJQ0FnSURYZ19yRjV3RRAB
+    relativePublishTimeDescription: 6 months ago
+    rating: 5
+    text:
+      text: >-
+        Absolutely loved this place.   First time eating here but as someone
+        that loves sushi, I can honestly say this place was top notch.  Loved
+        the variety of rolls and the nigiri was incredible.   Also highly
+        recommend the seafood salad.
+      languageCode: en
+    originalText:
+      text: >-
+        Absolutely loved this place.   First time eating here but as someone
+        that loves sushi, I can honestly say this place was top notch.  Loved
+        the variety of rolls and the nigiri was incredible.   Also highly
+        recommend the seafood salad.
+      languageCode: en
+    authorAttribution:
+      displayName: Michael Grieco
+      uri: https://www.google.com/maps/contrib/105688401371223620466/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVIp2Odyoj39LO2e-yDVdqCGWeeiUXOM1touAZgBFD2_ccHK_D4fQ=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-10-30T14:08:31.200049Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURYZ19yRjV3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURYZ19yRjV3RRAB!2m1!1s0x80c893557a4d79c7:0x751a24851d28b2da
+  - name: >-
+      places/ChIJx3lNelWTyIAR2rIoHYUkGnU/reviews/ChdDSUhNMG9nS0VJQ0FnSUQzNy15S3lBRRAB
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        I will start with the Cons:
+
+        I would agree with the comments about the seating being cramp. Also, we
+        got there at around 1pm and there was still a wait time. We had to wait
+        at least 30 minutes but I didnt mind it because the menu and the fast
+        service made it up for it.
+
+
+        Pros:
+
+        Food- the extensive menu was amazing. I have eaten in different ayce
+        sushi places in California and I have never had a $30 acye which
+        included the carpaccio, sea urchin, oyster, and even ikura. The sushi to
+        rice ratio was perfect (rice was smaller). The appetizer “the shit” was
+        the bomb. The hand rolls were full of fish. The yakitori? Or skewers
+        were smalled and perfect in size so as you were able tot aste everything
+        without getting too full. This was the first time we were ever reach the
+        limit of 80 minutes and had to be timed out. That says a lot! The
+        service was fast so ordering was not an issue.
+      languageCode: en
+    originalText:
+      text: >-
+        I will start with the Cons:
+
+        I would agree with the comments about the seating being cramp. Also, we
+        got there at around 1pm and there was still a wait time. We had to wait
+        at least 30 minutes but I didnt mind it because the menu and the fast
+        service made it up for it.
+
+
+        Pros:
+
+        Food- the extensive menu was amazing. I have eaten in different ayce
+        sushi places in California and I have never had a $30 acye which
+        included the carpaccio, sea urchin, oyster, and even ikura. The sushi to
+        rice ratio was perfect (rice was smaller). The appetizer “the shit” was
+        the bomb. The hand rolls were full of fish. The yakitori? Or skewers
+        were smalled and perfect in size so as you were able tot aste everything
+        without getting too full. This was the first time we were ever reach the
+        limit of 80 minutes and had to be timed out. That says a lot! The
+        service was fast so ordering was not an issue.
+      languageCode: en
+    authorAttribution:
+      displayName: A. Mutya
+      uri: https://www.google.com/maps/contrib/117713675622750365388/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocK79oYeq_OvmduVZIDJda7fpkLxY29bBY36W4GxoUKmbyPo2A=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-11-20T08:34:00.651189Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQzNy15S3lBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQzNy15S3lBRRAB!2m1!1s0x80c893557a4d79c7:0x751a24851d28b2da
+review_summary: >-
+  What People Love About This Local Sushi Spot$$$Folks rave about the delicious
+  variety of rolls and fresh ingredients that make every bite satisfying, often
+  highlighting how the portions feel just right without overwhelming. Many
+  appreciate the friendly service that keeps things running smoothly, with staff
+  quick to recommend favorites and ensure a pleasant visit. While the place can
+  get busy with waits during peak times, visitors find the value for the price
+  worthwhile, especially for an all-you-can-eat deal that includes premium
+  options like sashimi and appetizers. Overall, it's seen as a go-to for groups
+  or families seeking authentic Japanese flavors, with the energetic atmosphere
+  adding to the fun without any major drawbacks. If you're on the hunt for best
+  sushi near me, this spot consistently delivers a positive dining experience
+  that leaves people eager to return.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+curbside_pickup: false
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: true
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
+serves_coffee: true
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Industrial-style Japanese restaurant with a long sushi bar for sashimi & maki,
+  plus kitchen entrees.
 
 ---

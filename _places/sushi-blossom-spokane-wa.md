@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Blossom"
+title: Sushi Blossom
 permalink: /washington/spokane/sushi-blossom.html
 stateAbbr: WA
 stateName: Washington
 cityName: Spokane
 seo:
-  name: "Sushi Blossom"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi Blossom serves delicious sushi in Spokane, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJZew9sRgZnlQR4_VvAZ8W5Tc
 photos:
   - name: >-
@@ -185,7 +183,44 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Sushi Blossom in Spokane, WA$$$Sushi Blossom in Spokane, WA, stands
+  out as a welcoming spot for those seeking fresh sushi and Japanese cuisine in
+  a relaxed setting. This cozy restaurant offers an array of creative sushi
+  rolls alongside traditional Japanese dishes, complemented by a selection of
+  beer, wine, and sake to enhance your meal. Patrons can enjoy the intimate
+  atmosphere, making it an ideal choice for anyone exploring top-rated sushi
+  options near the area. The venue prioritizes accessibility, ensuring a
+  comfortable experience for all visitors with features like
+  wheelchair-accessible seating and entrances. Whether you're looking for sushi
+  places near me or simply craving authentic Japanese fare, this spot delivers a
+  satisfying blend of flavors and ambiance that keeps locals coming back.
+generative_summary: >-
+  Discover Sushi Blossom in Spokane, WA$$$Sushi Blossom in Spokane, WA, stands
+  out as a welcoming spot for those seeking fresh sushi and Japanese cuisine in
+  a relaxed setting. This cozy restaurant offers an array of creative sushi
+  rolls alongside traditional Japanese dishes, complemented by a selection of
+  beer, wine, and sake to enhance your meal. Patrons can enjoy the intimate
+  atmosphere, making it an ideal choice for anyone exploring top-rated sushi
+  options near the area. The venue prioritizes accessibility, ensuring a
+  comfortable experience for all visitors with features like
+  wheelchair-accessible seating and entrances. Whether you're looking for sushi
+  places near me or simply craving authentic Japanese fare, this spot delivers a
+  satisfying blend of flavors and ambiance that keeps locals coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying About the Experience$$$Folks who stop by this sushi
+  restaurant often rave about the tasty bento boxes and diverse selection of
+  rolls that bring a burst of flavor to every bite. Many appreciate the friendly
+  service that makes dining out feel effortless and enjoyable, along with prices
+  that offer great value without skimping on quality. The cozy vibe adds to the
+  charm, creating a laid-back spot perfect for casual get-togethers or a quiet
+  evening out. Overall, it's clear that the combination of fresh ingredients and
+  attentive staff leaves a positive impression on most guests. If you're hunting
+  for the best sushi near me, this place seems to hit the mark with its reliable
+  appeal and welcoming feel.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +246,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

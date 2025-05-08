@@ -5,4 +5,5 @@ permalink: /california/upland/
 stateAbbr: CA
 stateName: California
 cityName: Upland
+
 ---

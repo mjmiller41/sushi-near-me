@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ha-La Sushi"
+title: Ha-La Sushi
 permalink: /california/alamo/ha-la-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Alamo
 seo:
-  name: "Ha-La Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.halasushi.com/
-description: "Ha-La Sushi serves delicious sushi in Alamo, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJc4I6O_6Kj4ARYd9LztY2Gxw
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x808f8afe3b3a8273:0x1c1b36d6ce4bdf61!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 9:00 PM'
     - 'Tuesday: 11:30 AM – 9:00 PM'
     - 'Wednesday: 11:30 AM – 9:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 9:00 PM'
     - 'Saturday: 11:30 AM – 9:00 PM'
     - 'Sunday: 11:30 AM – 9:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 9:00 PM'
-    - 'Tuesday: 11:30 AM – 9:00 PM'
-    - 'Wednesday: 11:30 AM – 9:00 PM'
-    - 'Thursday: 11:30 AM – 9:00 PM'
-    - 'Friday: 11:30 AM – 9:00 PM'
-    - 'Saturday: 11:30 AM – 9:00 PM'
-    - 'Sunday: 11:30 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,36 +245,230 @@ secondary_opening_hours:
 phone: (925) 838-5583
 price_level: null
 price_range: $30 &ndash; $50
-rating: '4.4'
-rating_count: 0
+rating: '4.3'
+rating_count: 64
 website: http://www.halasushi.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Ha-La Sushi in Alamo, CA$$$Ha-La Sushi in Alamo, CA, offers a
+  welcoming spot for those craving authentic Japanese flavors in a relaxed
+  setting. Nestled in a convenient shopping center, this sushi restaurant
+  features fresh ingredients and a variety of traditional dishes, including
+  rolls and other Japanese favorites, complemented by sake and wine options. The
+  casual vibe makes it ideal for quick lunches or evening outings, with
+  accessibility features ensuring a comfortable visit for all. Whether you're
+  searching for sushi places near you, this establishment stands out for its
+  commitment to quality and diverse menu selections that cater to different
+  tastes.
+generative_summary: >-
+  Discover Ha-La Sushi in Alamo, CA$$$Ha-La Sushi in Alamo, CA, offers a
+  welcoming spot for those craving authentic Japanese flavors in a relaxed
+  setting. Nestled in a convenient shopping center, this sushi restaurant
+  features fresh ingredients and a variety of traditional dishes, including
+  rolls and other Japanese favorites, complemented by sake and wine options. The
+  casual vibe makes it ideal for quick lunches or evening outings, with
+  accessibility features ensuring a comfortable visit for all. Whether you're
+  searching for sushi places near you, this establishment stands out for its
+  commitment to quality and diverse menu selections that cater to different
+  tastes.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJc4I6O_6Kj4ARYd9LztY2Gxw/reviews/ChdDSUhNMG9nS0VJQ0FnTURvdmFHQjNRRRAB
+    relativePublishTimeDescription: in the last week
+    rating: 5
+    text:
+      text: >-
+        My family loves Ha La Sushi. We are so spoiled by this restaurant that
+        we don’t go anywhere else. The owners are fun and the fish is insanely
+        delicious. Highly recommend!!
+      languageCode: en
+    originalText:
+      text: >-
+        My family loves Ha La Sushi. We are so spoiled by this restaurant that
+        we don’t go anywhere else. The owners are fun and the fish is insanely
+        delicious. Highly recommend!!
+      languageCode: en
+    authorAttribution:
+      displayName: Nancy Daul
+      uri: https://www.google.com/maps/contrib/105539148816392744496/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjW76qsMNsOcV8YWO6rRQUAjtvF4J76n8AuTlm5CYTiJzt2f7szBJg=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-28T01:13:18.658978Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURvdmFHQjNRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURvdmFHQjNRRRAB!2m1!1s0x808f8afe3b3a8273:0x1c1b36d6ce4bdf61
+  - name: >-
+      places/ChIJc4I6O_6Kj4ARYd9LztY2Gxw/reviews/ChdDSUhNMG9nS0VJQ0FnTURvbFlMZHJ3RRAB
+    relativePublishTimeDescription: in the last week
+    rating: 1
+    text:
+      text: >-
+        The menu on DoorDash vs their menu on their website did not match up. I
+        received the wrong order. I complained and asked for a refund. The
+        restaurant should have contacted door dash about having the wrong menu
+        and given me a refund. They could have kept their money from DoorDash
+        and still be paid since it’s a DoorDash issue. They called me 3
+        different times arguing about giving a refund. They were yelling at me
+        about the rolls when I showed screen shots of all the rolls being
+        different. Very rude customer service and unnecessary to keep calling me
+        and leaving voicemails. This was clearly an issue they needed to resolve
+        with the DoorDash platform and not me.
+      languageCode: en
+    originalText:
+      text: >-
+        The menu on DoorDash vs their menu on their website did not match up. I
+        received the wrong order. I complained and asked for a refund. The
+        restaurant should have contacted door dash about having the wrong menu
+        and given me a refund. They could have kept their money from DoorDash
+        and still be paid since it’s a DoorDash issue. They called me 3
+        different times arguing about giving a refund. They were yelling at me
+        about the rolls when I showed screen shots of all the rolls being
+        different. Very rude customer service and unnecessary to keep calling me
+        and leaving voicemails. This was clearly an issue they needed to resolve
+        with the DoorDash platform and not me.
+      languageCode: en
+    authorAttribution:
+      displayName: Melissa Williams
+      uri: https://www.google.com/maps/contrib/105209283335199935679/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIxU4QE66XrJ_Bymat3-FCHeRl7fuGG7sAm-ZZNgGXoGzj9og=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-27T04:08:49.717740Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURvbFlMZHJ3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURvbFlMZHJ3RRAB!2m1!1s0x808f8afe3b3a8273:0x1c1b36d6ce4bdf61
+  - name: >-
+      places/ChIJc4I6O_6Kj4ARYd9LztY2Gxw/reviews/ChdDSUhNMG9nS0VJQ0FnSUR4cXFYZjdnRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        They had incredible hospitality, their food is all super fresh and to
+        die for, the atmosphere of the place extremely charming. I was blown
+        away by this place.
+      languageCode: en
+    originalText:
+      text: >-
+        They had incredible hospitality, their food is all super fresh and to
+        die for, the atmosphere of the place extremely charming. I was blown
+        away by this place.
+      languageCode: en
+    authorAttribution:
+      displayName: Kat Adamo
+      uri: https://www.google.com/maps/contrib/118218468507517800951/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXAiwQa88cU7nyu9Jm8Th_bKCZTyGc6uLFZLVrEB1rNJrZml2EP=s128-c0x00000000-cc-rp-mo
+    publishTime: '2023-06-06T04:00:19.562867Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR4cXFYZjdnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR4cXFYZjdnRRAB!2m1!1s0x808f8afe3b3a8273:0x1c1b36d6ce4bdf61
+  - name: >-
+      places/ChIJc4I6O_6Kj4ARYd9LztY2Gxw/reviews/ChdDSUhNMG9nS0VJQ0FnSUNabDhLVjhRRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        I’ve been dining several times a month at HaLa for years and certainly
+        find my experiences consistently worth 5 stars! Quality and freshness is
+        my priority, and they never disappoint. What’s really unusual is their
+        wine list. It’s top notch, too. Sure, if it’s really busy, I might have
+        to wait a few minutes to order, but with a fine glass of wine to begin
+        with an appetizer, I’m good! Ken and crew are phenomenal hosts and
+        always make me feel welcomed and comfortable.
+      languageCode: en
+    originalText:
+      text: >-
+        I’ve been dining several times a month at HaLa for years and certainly
+        find my experiences consistently worth 5 stars! Quality and freshness is
+        my priority, and they never disappoint. What’s really unusual is their
+        wine list. It’s top notch, too. Sure, if it’s really busy, I might have
+        to wait a few minutes to order, but with a fine glass of wine to begin
+        with an appetizer, I’m good! Ken and crew are phenomenal hosts and
+        always make me feel welcomed and comfortable.
+      languageCode: en
+    authorAttribution:
+      displayName: Marcie S Plummer
+      uri: https://www.google.com/maps/contrib/110957410623542066299/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLSOcgTK5tEaj4eL1j54Btn3cNW1Rnmoyh-GdaW8OsxffDipz3V=s128-c0x00000000-cc-rp-mo
+    publishTime: '2023-09-19T23:45:58.859133Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNabDhLVjhRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNabDhLVjhRRRAB!2m1!1s0x808f8afe3b3a8273:0x1c1b36d6ce4bdf61
+  - name: >-
+      places/ChIJc4I6O_6Kj4ARYd9LztY2Gxw/reviews/ChZDSUhNMG9nS0VJQ0FnSUNHNzcyQWJBEAE
+    relativePublishTimeDescription: 3 years ago
+    rating: 5
+    text:
+      text: >-
+        They have the freshest sushi my husband and I have ever tasted…the fish
+        is top notch. They also have an incredible wine list. We love the staff,
+        they’re so nice and friendly!!
+      languageCode: en
+    originalText:
+      text: >-
+        They have the freshest sushi my husband and I have ever tasted…the fish
+        is top notch. They also have an incredible wine list. We love the staff,
+        they’re so nice and friendly!!
+      languageCode: en
+    authorAttribution:
+      displayName: Shauna Sunkel
+      uri: https://www.google.com/maps/contrib/111962499975704243831/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXiFXnn-FqHfPm3ylgkKH9LfGYwVeDk9BWAHS4f_dkb3h8S-ZW2HA=s128-c0x00000000-cc-rp-mo
+    publishTime: '2021-11-13T15:23:49.850892Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNHNzcyQWJBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNHNzcyQWJBEAE!2m1!1s0x808f8afe3b3a8273:0x1c1b36d6ce4bdf61
+review_summary: >-
+  What Customers Are Saying$$$Folks generally rave about the fresh and flavorful
+  sushi at this spot, often noting how it stands out among local Japanese
+  eateries. Many highlight the friendly atmosphere and solid drink choices, like
+  wine, that pair perfectly with meals for a enjoyable dining experience. While
+  one comment mentioned a hiccup with a delivery order through a third-party
+  service, the overall feedback leans toward praising the reliable service and
+  tasty options that keep people coming back. If you're on the hunt for
+  top-rated sushi near you, this place delivers on fresh ingredients and a
+  welcoming feel, making it a go-to for casual get-togethers or solo visits. In
+  summary, it's a reliable choice that lives up to expectations for quality
+  Japanese cuisine in a laid-back environment.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
 good_for_sports: null
-live_music: null
+live_music: false
 menu_for_children: null
 outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+reservable: true
+restroom: true
+serves_beer: true
 serves_breakfast: null
 serves_brunch: null
 serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

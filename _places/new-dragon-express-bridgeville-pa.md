@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "New Dragon Express"
+title: New Dragon Express
 permalink: /pennsylvania/bridgeville/new-dragon-express.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Bridgeville
 seo:
-  name: "New Dragon Express"
-  type: Restaurant
+  type: restaurant
   links: http://www.newdragonexpress.com/
-description: "New Dragon Express serves delicious sushi in Bridgeville, Pennsylvania. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJz4_9nMNXNIgRWTufdHAZ2DU
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $10 &ndash; $20
 rating: '4.2'
 rating_count: 0
 website: http://www.newdragonexpress.com/
+description: >-
+  Discover New Dragon Express in Bridgeville, PA$$$New Dragon Express in
+  Bridgeville, PA, stands out as a casual dining spot serving up a mix of
+  classic Chinese dishes and fresh sushi options, making it a go-to choice for
+  those craving flavorful meals in a welcoming environment. The restaurant
+  features a variety of staples like savory stir-fries and handcrafted rolls,
+  complemented by a selection of beer and wine to enhance your experience. With
+  its accessible layout and ample seating, it's designed for easy enjoyment
+  whether you're stopping by for a quick bite or a relaxed meal. Ample parking
+  and thoughtful amenities add to the convenience, appealing to families and
+  groups seeking top-rated sushi spots nearby. Overall, this spot delivers a
+  blend of traditional flavors and modern vibes, perfect for anyone exploring
+  sushi restaurants in the area.
+generative_summary: >-
+  Discover New Dragon Express in Bridgeville, PA$$$New Dragon Express in
+  Bridgeville, PA, stands out as a casual dining spot serving up a mix of
+  classic Chinese dishes and fresh sushi options, making it a go-to choice for
+  those craving flavorful meals in a welcoming environment. The restaurant
+  features a variety of staples like savory stir-fries and handcrafted rolls,
+  complemented by a selection of beer and wine to enhance your experience. With
+  its accessible layout and ample seating, it's designed for easy enjoyment
+  whether you're stopping by for a quick bite or a relaxed meal. Ample parking
+  and thoughtful amenities add to the convenience, appealing to families and
+  groups seeking top-rated sushi spots nearby. Overall, this spot delivers a
+  blend of traditional flavors and modern vibes, perfect for anyone exploring
+  sushi restaurants in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJz4_9nMNXNIgRWTufdHAZ2DU/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRb2RYR0NnEAE
@@ -344,6 +369,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNuOE5IenBRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNuOE5IenBRRRAB!2m1!1s0x883457c39cfd8fcf:0x35d81970749f3b59
+review_summary: >-
+  What Customers Are Raving About$$$Folks generally love the hearty portions and
+  tasty Chinese and sushi offerings at this spot, often highlighting how the
+  meals leave them satisfied and coming back for more. Many appreciate the
+  friendly service and clean, inviting atmosphere that makes dining out feel
+  effortless and enjoyable, even if the space is on the cozier side. While most
+  experiences are positive, a few mentions of occasional order mix-ups during
+  pickups show there's room for improvement in accuracy. Still, the overall
+  value and quality of the food, including favorites like sesame chicken and
+  crab rangoon, keep it a solid pick for anyone hunting for the best sushi near
+  me. In the end, it's a reliable choice that delivers a consistently good vibe,
+  encouraging diners to give it a try for their next casual outing.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -377,7 +415,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

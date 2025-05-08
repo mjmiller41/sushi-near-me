@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "BiBimBab(BiBimBap)"
+title: BiBimBab(BiBimBap)
 permalink: /michigan/novi/bibimbab-bibimbap.html
 stateAbbr: MI
 stateName: Michigan
 cityName: Novi
 seo:
-  name: "BiBimBab(BiBimBap)"
-  type: Restaurant
-  links: null
-description: "BiBimBab(BiBimBap) serves delicious sushi in Novi, Michigan. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://bibimbab-novi.com/
 place_id: ChIJjdicEfyuJIgR4bb0K6_HdDQ
 photos:
   - name: >-
@@ -143,7 +141,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOiGy0mwvMNttBrG7j1rAKPvJMxfZ1bDtvCKIXC!2e10!4m2!3m1!1s0x8824aefc119cd88d:0x3474c7af2bf4b6e1
 address: 'Atrium Of Novi, 43155 Main St #300, Novi, MI 48375, USA'
-street: 'Atrium Of Novi, 43155 Main St #300'
+street: 'Atrium Of Novi,43155 Main St #300'
 city: Novi
 state: MI
 zip: '48375'
@@ -170,8 +168,113 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8824aefc119cd88d:0x3474c7af2bf4b6e1!10e5
 primary_type: Korean Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 15
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 15
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 15
+        minute: 0
+    - open:
+        day: 6
+        hour: 16
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM'
+    - 'Thursday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM'
+    - 'Friday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM'
+    - 'Saturday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM'
+    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T01:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +282,47 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (248) 938-4319
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.1'
+rating_count: 903
+website: http://bibimbab-novi.com/
+description: >-
+  About BiBimBab in Novi, MI$$$BiBimBab in Novi, Michigan, stands out as a
+  welcoming spot for authentic Korean cuisine, featuring flavorful dishes like
+  bibimbap and grilled BBQ in a casual shopping center setting. Tables equipped
+  with grills allow diners to enjoy interactive cooking experiences with fresh
+  ingredients and a variety of side dishes, creating an engaging meal
+  atmosphere. The eatery emphasizes accessibility with features like
+  wheelchair-friendly entrances and parking, making it easy for everyone to
+  visit. Operating daily from late morning through evening, it's a convenient
+  choice for those seeking quality Korean fare near local attractions, with
+  moderately priced options that appeal to a wide range of tastes.
+generative_summary: >-
+  About BiBimBab in Novi, MI$$$BiBimBab in Novi, Michigan, stands out as a
+  welcoming spot for authentic Korean cuisine, featuring flavorful dishes like
+  bibimbap and grilled BBQ in a casual shopping center setting. Tables equipped
+  with grills allow diners to enjoy interactive cooking experiences with fresh
+  ingredients and a variety of side dishes, creating an engaging meal
+  atmosphere. The eatery emphasizes accessibility with features like
+  wheelchair-friendly entrances and parking, making it easy for everyone to
+  visit. Operating daily from late morning through evening, it's a convenient
+  choice for those seeking quality Korean fare near local attractions, with
+  moderately priced options that appeal to a wide range of tastes.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$People often highlight the delicious flavors of
+  kimchi, wagyu, and Korean BBQ at this spot, along with a nice assortment of
+  fresh side dishes that add to the overall enjoyment. The staff comes across as
+  friendly and attentive, helping to foster a comfortable, homey feel that makes
+  dining here feel relaxed and inviting. While some mention that portions might
+  not be the largest, the quality and taste generally leave a positive
+  impression that's worth the visit. Overall, it's a solid pick for anyone
+  craving satisfying Korean meals, with the welcoming vibe encouraging repeat
+  trips for casual get-togethers.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +348,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

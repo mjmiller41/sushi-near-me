@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Osaka Hibachi and Sushi"
+title: Osaka Hibachi and Sushi
 permalink: /south-carolina/georgetown/osaka-hibachi-and-sushi.html
 stateAbbr: SC
 stateName: South Carolina
 cityName: Georgetown
 seo:
-  name: "Osaka Hibachi and Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Osaka Hibachi and Sushi serves delicious sushi in Georgetown, South Carolina. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJUWlGIAItAIkRiFp-MISzXcw
 photos:
   - name: >-
@@ -185,7 +183,45 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Explore Osaka Hibachi and Sushi in Georgetown, SC$$$Osaka Hibachi and Sushi in
+  Georgetown, South Carolina, stands out as a cozy Japanese eatery serving fresh
+  sushi and flavorful hibachi dishes in a laid-back setting. This spot excels
+  with its accessible features, making it easy for everyone to enjoy authentic
+  Asian flavors, from expertly prepared rolls to sizzling grill options that
+  highlight quality ingredients. The relaxed atmosphere invites diners to unwind
+  while savoring comforting meals that blend traditional techniques with
+  everyday appeal. Whether you're seeking sushi options nearby or a casual spot
+  for Japanese-inspired dining, this restaurant delivers with its
+  straightforward yet inviting vibe. Its focus on comfort food ensures a
+  satisfying experience for those exploring local eateries in the area.
+generative_summary: >-
+  Explore Osaka Hibachi and Sushi in Georgetown, SC$$$Osaka Hibachi and Sushi in
+  Georgetown, South Carolina, stands out as a cozy Japanese eatery serving fresh
+  sushi and flavorful hibachi dishes in a laid-back setting. This spot excels
+  with its accessible features, making it easy for everyone to enjoy authentic
+  Asian flavors, from expertly prepared rolls to sizzling grill options that
+  highlight quality ingredients. The relaxed atmosphere invites diners to unwind
+  while savoring comforting meals that blend traditional techniques with
+  everyday appeal. Whether you're seeking sushi options nearby or a casual spot
+  for Japanese-inspired dining, this restaurant delivers with its
+  straightforward yet inviting vibe. Its focus on comfort food ensures a
+  satisfying experience for those exploring local eateries in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Visitor Feedback on Osaka Hibachi and Sushi$$$Folks often rave about the fresh
+  sushi and fun hibachi shows at this spot, making it a go-to for tasty meals in
+  a welcoming environment. Many appreciate the reliable flavors and solid
+  portions that keep things enjoyable without any major letdowns, helping it
+  stand out among nearby Japanese places. While some mention it's a great pick
+  for families or groups looking for an easy night out, others note the
+  straightforward service adds to the charm without overwhelming extras.
+  Overall, it's earned positive nods for being a dependable choice in the
+  community, especially if you're hunting for top-rated sushi close by. Keep in
+  mind, it's all about honest, feel-good vibes that make dining here a pleasant
+  option for most.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +247,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

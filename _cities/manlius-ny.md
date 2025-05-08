@@ -5,4 +5,5 @@ permalink: /new-york/manlius/
 stateAbbr: NY
 stateName: New York
 cityName: Manlius
+
 ---

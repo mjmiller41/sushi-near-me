@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Pier (Reno)"
+title: Sushi Pier (Reno)
 permalink: /nevada/reno/sushi-pier-reno.html
 stateAbbr: NV
 stateName: Nevada
 cityName: Reno
 seo:
-  name: "Sushi Pier (Reno)"
-  type: Restaurant
+  type: restaurant
   links: http://www.sushipier1.com/
-description: "Sushi Pier (Reno) serves delicious sushi in Reno, Nevada. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ-_o2ans_mYAR4ZVitwXHKTE
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80993f7b6a36fafb:0x3129c705b76295e1!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:00 PM'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:00 PM'
     - 'Saturday: 11:00 AM – 9:00 PM'
     - 'Sunday: 11:00 AM – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 9:00 PM'
-    - 'Saturday: 11:00 AM – 9:00 PM'
-    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,354 @@ phone: (775) 825-6776
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.3'
-rating_count: 0
+rating_count: 899
 website: http://www.sushipier1.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Sushi Pier in Reno, NV$$$Sushi Pier in Reno, NV, stands out as a
+  welcoming spot for those seeking top-rated sushi experiences in the area. This
+  casual eatery offers an all-you-can-eat setup with a variety of classic and
+  specialty rolls, complemented by refreshing beer and sake options to enhance
+  your meal. The restaurant boasts a spacious dining area with accessibility
+  features like wheelchair-friendly entrances and seating, making it easy for
+  everyone to enjoy fresh Japanese-inspired dishes. Whether you're looking for
+  sushi places near you after a day of exploring, the moderate pricing and
+  consistent hours from 11 AM to 9 PM daily add to its appeal as a reliable
+  go-to for satisfying cravings.
+generative_summary: >-
+  Discover Sushi Pier in Reno, NV$$$Sushi Pier in Reno, NV, stands out as a
+  welcoming spot for those seeking top-rated sushi experiences in the area. This
+  casual eatery offers an all-you-can-eat setup with a variety of classic and
+  specialty rolls, complemented by refreshing beer and sake options to enhance
+  your meal. The restaurant boasts a spacious dining area with accessibility
+  features like wheelchair-friendly entrances and seating, making it easy for
+  everyone to enjoy fresh Japanese-inspired dishes. Whether you're looking for
+  sushi places near you after a day of exploring, the moderate pricing and
+  consistent hours from 11 AM to 9 PM daily add to its appeal as a reliable
+  go-to for satisfying cravings.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ-_o2ans_mYAR4ZVitwXHKTE/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRajh2elB3EAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Have you ever had a week where you had to make so many decisions, that
+        by the time you got to Friday, you couldn’t make one more decision?!?
+        That was me tonight… and boy am I glad I found this place for dinner!
+
+
+        Sat at the sushi bar and the chef knew what to prep 🙌  Super chill
+        place, with fantastic sushi at a great price! Loved the Mountain with
+        all tuna 😋
+
+
+        Will definitely be back!
+      languageCode: en
+    originalText:
+      text: >-
+        Have you ever had a week where you had to make so many decisions, that
+        by the time you got to Friday, you couldn’t make one more decision?!?
+        That was me tonight… and boy am I glad I found this place for dinner!
+
+
+        Sat at the sushi bar and the chef knew what to prep 🙌  Super chill
+        place, with fantastic sushi at a great price! Loved the Mountain with
+        all tuna 😋
+
+
+        Will definitely be back!
+      languageCode: en
+    authorAttribution:
+      displayName: Kate Reid
+      uri: https://www.google.com/maps/contrib/105966499595334525185/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWcspD48t2L02lKmHFgxgAfxBxg_1DYoYriMTs6Di7-rHVoBu8=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-03-08T02:18:07.989822Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNRajh2elB3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNRajh2elB3EAE!2m1!1s0x80993f7b6a36fafb:0x3129c705b76295e1
+  - name: >-
+      places/ChIJ-_o2ans_mYAR4ZVitwXHKTE/reviews/ChdDSUhNMG9nS0VJQ0FnTUNRdUpTLXh3RRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        GOOD EXCELLENT sushi and it’s AYCE!!!
+
+        A++ service.
+
+        Best vibes,  all the sushi chefs and workers here are awesome .
+
+
+        We come here after snowboarding Northstar All the times, It’s our 
+        tradition !!
+
+
+        Started coming here in 2012 til current 2025!!! It’s a RENO SUSHI LEGACY
+        business & will continue to support it .
+
+
+        Also costco right next door is CLUTCH AF.
+
+
+        ❤️❤️❤️❤️
+      languageCode: en
+    originalText:
+      text: >-
+        GOOD EXCELLENT sushi and it’s AYCE!!!
+
+        A++ service.
+
+        Best vibes,  all the sushi chefs and workers here are awesome .
+
+
+        We come here after snowboarding Northstar All the times, It’s our 
+        tradition !!
+
+
+        Started coming here in 2012 til current 2025!!! It’s a RENO SUSHI LEGACY
+        business & will continue to support it .
+
+
+        Also costco right next door is CLUTCH AF.
+
+
+        ❤️❤️❤️❤️
+      languageCode: en
+    authorAttribution:
+      displayName: Eric C.
+      uri: https://www.google.com/maps/contrib/102452335187344419482/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVfeuDU8klg00RpaI2BBA9Q4j3Yvqbng6n7zwQsCaYRBDNgd2gIzg=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-03-01T20:30:10.414650Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNRdUpTLXh3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNRdUpTLXh3RRAB!2m1!1s0x80993f7b6a36fafb:0x3129c705b76295e1
+  - name: >-
+      places/ChIJ-_o2ans_mYAR4ZVitwXHKTE/reviews/ChdDSUhNMG9nS0VJQ0FnSURQcGFpRzFnRRAB
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        Fast service, they'll make sure you have sushi on your plate asap. Good
+        quality sushi for an AYCE place, however a bit limited option on the
+        appys. Will come back!
+      languageCode: en
+    originalText:
+      text: >-
+        Fast service, they'll make sure you have sushi on your plate asap. Good
+        quality sushi for an AYCE place, however a bit limited option on the
+        appys. Will come back!
+      languageCode: en
+    authorAttribution:
+      displayName: Jude Naz
+      uri: https://www.google.com/maps/contrib/106804076142145331166/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWuxecXYJ4qWDAxXMrbxZ_0_rta0ME1zUWtkjTN76ZxD1Upamee=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-12-04T05:18:54.171758Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURQcGFpRzFnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURQcGFpRzFnRRAB!2m1!1s0x80993f7b6a36fafb:0x3129c705b76295e1
+  - name: >-
+      places/ChIJ-_o2ans_mYAR4ZVitwXHKTE/reviews/ChdDSUhNMG9nS0VJQ0FnSURUMnY2T3V3RRAB
+    relativePublishTimeDescription: 11 months ago
+    rating: 4
+    text:
+      text: >-
+        Here’s a place that does vary on quality based on chefs on shift,
+        however they have obviously done something to fix this compared to
+        previous times I’ve come about 1-2 yrs ago. Didn't stop going because of
+        quality just mainly didn’t work in there area anymore.
+
+
+        We went on off peak hours I’d say as most of their traffic is the lunch
+        rush daily considering the amount of business workers that flock to the
+        area for food.
+
+
+        Chicken katsu skewers:
+
+        If you have texture problems this can be a gamble however the chefs
+        tonight did great! I got the dinner entree which includes three skewers,
+        rice, tonkatsu sauce, edamame, a cabbage salad, miso soup, and an orange
+        slice. The chicken was not that fatty and fried great, my bone to pick
+        is I’ve always hated the skewers themselves as you’ll only get about
+        three good dips in the sauce before you are ripping the meat off the
+        stick. Also I’ve always hated the dressing they put in the salad, this
+        is a personal gripe as the sauce is sweet, creamy, and tangy and in my
+        opinion could be left off the plate entirely. I like the edamame as a
+        buffer when I’m eating so much carbs and again the orange slice and kale
+        garnish could be left off the plate as well if they are sent back
+        regularly untouched.
+
+
+        Potstickers:
+
+        A small throw in here they are the most mild or mid potstickers you’ll
+        get. Not the best but good to eat and not really something you’ll crave
+        after eating either. The sauce they produce is ok but it tastes way to
+        strong of Wasabi in a way and is not pleasant or complementing to the
+        flavors of the potsticker. In my experience the best dipping sauce for
+        these is actually the tonkatsu sauce.
+
+
+        All you can eat sushi:
+
+        Def recommend coming here for the sushi, usually fresh and well made and
+        of course will vary on the chef making it. Tonight we got a more
+        generous helping of sauces and garnish with the sushi and although I
+        couldn’t get pictures of all that my partner ate you can see the
+        presentation is beautiful.
+
+
+        In conclusion I could tell they made an effort to improve and as a side
+        note even save a bit on their order sheets by doing a three mark system
+        now (our order pictured below). If you like sushi give it a try and if
+        you like chicken katsu be open to what you might get.
+      languageCode: en
+    originalText:
+      text: >-
+        Here’s a place that does vary on quality based on chefs on shift,
+        however they have obviously done something to fix this compared to
+        previous times I’ve come about 1-2 yrs ago. Didn't stop going because of
+        quality just mainly didn’t work in there area anymore.
+
+
+        We went on off peak hours I’d say as most of their traffic is the lunch
+        rush daily considering the amount of business workers that flock to the
+        area for food.
+
+
+        Chicken katsu skewers:
+
+        If you have texture problems this can be a gamble however the chefs
+        tonight did great! I got the dinner entree which includes three skewers,
+        rice, tonkatsu sauce, edamame, a cabbage salad, miso soup, and an orange
+        slice. The chicken was not that fatty and fried great, my bone to pick
+        is I’ve always hated the skewers themselves as you’ll only get about
+        three good dips in the sauce before you are ripping the meat off the
+        stick. Also I’ve always hated the dressing they put in the salad, this
+        is a personal gripe as the sauce is sweet, creamy, and tangy and in my
+        opinion could be left off the plate entirely. I like the edamame as a
+        buffer when I’m eating so much carbs and again the orange slice and kale
+        garnish could be left off the plate as well if they are sent back
+        regularly untouched.
+
+
+        Potstickers:
+
+        A small throw in here they are the most mild or mid potstickers you’ll
+        get. Not the best but good to eat and not really something you’ll crave
+        after eating either. The sauce they produce is ok but it tastes way to
+        strong of Wasabi in a way and is not pleasant or complementing to the
+        flavors of the potsticker. In my experience the best dipping sauce for
+        these is actually the tonkatsu sauce.
+
+
+        All you can eat sushi:
+
+        Def recommend coming here for the sushi, usually fresh and well made and
+        of course will vary on the chef making it. Tonight we got a more
+        generous helping of sauces and garnish with the sushi and although I
+        couldn’t get pictures of all that my partner ate you can see the
+        presentation is beautiful.
+
+
+        In conclusion I could tell they made an effort to improve and as a side
+        note even save a bit on their order sheets by doing a three mark system
+        now (our order pictured below). If you like sushi give it a try and if
+        you like chicken katsu be open to what you might get.
+      languageCode: en
+    authorAttribution:
+      displayName: A G
+      uri: https://www.google.com/maps/contrib/116453008098655401613/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKeoztzLQhqvBAZrNYpW70BDe_EhO_LM27gj9rOuL4MUCF9Zw=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-05-24T02:14:31.946188Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURUMnY2T3V3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURUMnY2T3V3RRAB!2m1!1s0x80993f7b6a36fafb:0x3129c705b76295e1
+  - name: >-
+      places/ChIJ-_o2ans_mYAR4ZVitwXHKTE/reviews/ChdDSUhNMG9nS0VJQ0FnSUNqM19Mc29nRRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        We eat here almost any time we visit Reno for the weekend. Over a dozen
+        times so far. My wife loves the selection. Priced reasonably, especially
+        the all you can eat. Staff is always pleasant and the restaurant is
+        clean. I prefer sitting at the table and filling out an order instead of
+        trying to shout my order. Plan to keep visiting.
+      languageCode: en
+    originalText:
+      text: >-
+        We eat here almost any time we visit Reno for the weekend. Over a dozen
+        times so far. My wife loves the selection. Priced reasonably, especially
+        the all you can eat. Staff is always pleasant and the restaurant is
+        clean. I prefer sitting at the table and filling out an order instead of
+        trying to shout my order. Plan to keep visiting.
+      languageCode: en
+    authorAttribution:
+      displayName: Cristian Morgan
+      uri: https://www.google.com/maps/contrib/113832571391310214031/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjW6kFBygBlfzYwJVk3gqyZ6EOtlmMdQDtovga8xQnej37RRich8=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-01-29T17:48:27.745460Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNqM19Mc29nRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNqM19Mc29nRRAB!2m1!1s0x80993f7b6a36fafb:0x3129c705b76295e1
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this sushi spot often rave about the
+  fresh, flavorful rolls that make the all-you-can-eat deal feel like a smart
+  choice for a casual outing. Many appreciate the quick service and friendly
+  staff who keep things running smoothly, ensuring your table stays lively
+  without any unnecessary waits. While some note that the space can get a bit
+  cozy during peak times, the overall vibe remains relaxed and enjoyable,
+  perfect for groups or solo diners. Folks frequently highlight the great value
+  and variety, making it a solid pick for anyone hunting for quality Japanese
+  eats nearby. All in all, it's a go-to option that delivers on taste and
+  atmosphere, leaving most people eager to return for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+curbside_pickup: true
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: true
+live_music: false
+menu_for_children: true
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  All-you-can-eat sushi in a large dining area with full cocktail bar &
+  additional à la carte entrees.
 
 ---

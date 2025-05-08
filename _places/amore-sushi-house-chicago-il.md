@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "AMORE Sushi House"
+title: AMORE Sushi House
 permalink: /illinois/chicago/amore-sushi-house.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
 seo:
-  name: "AMORE Sushi House"
-  type: Restaurant
+  type: restaurant
   links: https://www.toasttab.com/amore
-description: "AMORE Sushi House serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJv2jV2dbTD4gRXmXGzIWjNcQ
 photos:
   - name: >-
@@ -183,6 +181,27 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 0
 website: https://www.toasttab.com/amore
+description: >-
+  Discover AMORE Sushi House in Chicago$$$AMORE Sushi House in Chicago, IL,
+  provides a cozy and inviting atmosphere ideal for savoring fresh Japanese
+  cuisine. This spot specializes in artfully prepared sushi, sashimi, and a
+  selection of small plates paired with sake, making it a go-to choice for those
+  exploring sushi options in the area. With thoughtful features like
+  wheelchair-accessible seating and outdoor dining, it caters to a variety of
+  preferences for comfortable meals. The menu highlights flavorful dishes and
+  beverages such as beer and cocktails, creating an enjoyable experience for
+  anyone seeking quality Japanese dining nearby.
+generative_summary: >-
+  Discover AMORE Sushi House in Chicago$$$AMORE Sushi House in Chicago, IL,
+  provides a cozy and inviting atmosphere ideal for savoring fresh Japanese
+  cuisine. This spot specializes in artfully prepared sushi, sashimi, and a
+  selection of small plates paired with sake, making it a go-to choice for those
+  exploring sushi options in the area. With thoughtful features like
+  wheelchair-accessible seating and outdoor dining, it caters to a variety of
+  preferences for comfortable meals. The menu highlights flavorful dishes and
+  beverages such as beer and cocktails, creating an enjoyable experience for
+  anyone seeking quality Japanese dining nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJv2jV2dbTD4gRXmXGzIWjNcQ/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJaXRHU1dREAE
@@ -364,6 +383,17 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNQd3ZXUGxRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNQd3ZXUGxRRRAB!2m1!1s0x880fd3d6d9d568bf:0xc435a385ccc6655e
+review_summary: >-
+  Insights from Diners at This Sushi Spot$$$Folks generally enjoy the fresh and
+  tasty sushi rolls here, often noting the creative flavors that make it a
+  standout neighborhood pick for Japanese eats. While a few mention occasional
+  issues like unavailable items or dim lighting, the quick service and generous
+  portions keep the vibe upbeat and satisfying. Many appreciate the cozy
+  ambiance, perfect for casual gatherings or special occasions, adding to the
+  overall charm. Overall, it's praised for friendly attention from staff and
+  solid food quality, making it a reliable option if you're on the hunt for
+  great sushi in the city.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options:
   acceptsCreditCards: true
@@ -393,7 +423,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kokoro Maki House"
+title: Kokoro Maki House
 permalink: /missouri/kansas-city/kokoro-maki-house.html
 stateAbbr: MO
 stateName: Missouri
 cityName: Kansas City
 seo:
-  name: "Kokoro Maki House"
-  type: Restaurant
+  type: restaurant
   links: https://www.kokoromaki.com/
-description: "Intimate destination for sushi, as well as Japanese & Korean classics such as bibimbap & teriyaki. Kokoro Maki House serves delicious sushi in Kansas City, Missouri. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJVYvoSyXvwIcR0miqLdGULDQ
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 0
 website: https://www.kokoromaki.com/
+description: >-
+  Discover Kokoro Maki House in Kansas City, MO$$$Kokoro Maki House in Kansas
+  City, MO, stands out as a welcoming spot for fresh sushi and authentic
+  Japanese and Korean flavors, blending traditional dishes in a cozy atmosphere.
+  This sushi restaurant offers a variety of specialties like bento boxes and
+  bibimbap, making it a go-to choice for those seeking diverse Asian cuisine
+  options nearby. With its intimate setting and focus on high-quality
+  ingredients, it's ideal for casual meals or quick bites, enhanced by
+  accessible features like wheelchair-friendly entrances and parking. Visitors
+  appreciate the moderate pricing and happy hour deals, which add value to the
+  experience without compromising on taste. If you're exploring sushi places
+  near me, this spot delivers a satisfying mix of flavors that highlight its
+  easygoing vibe and thoughtful presentation.
+generative_summary: >-
+  Discover Kokoro Maki House in Kansas City, MO$$$Kokoro Maki House in Kansas
+  City, MO, stands out as a welcoming spot for fresh sushi and authentic
+  Japanese and Korean flavors, blending traditional dishes in a cozy atmosphere.
+  This sushi restaurant offers a variety of specialties like bento boxes and
+  bibimbap, making it a go-to choice for those seeking diverse Asian cuisine
+  options nearby. With its intimate setting and focus on high-quality
+  ingredients, it's ideal for casual meals or quick bites, enhanced by
+  accessible features like wheelchair-friendly entrances and parking. Visitors
+  appreciate the moderate pricing and happy hour deals, which add value to the
+  experience without compromising on taste. If you're exploring sushi places
+  near me, this spot delivers a satisfying mix of flavors that highlight its
+  easygoing vibe and thoughtful presentation.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJVYvoSyXvwIcR0miqLdGULDQ/reviews/ChZDSUhNMG9nS0VJQ0FnTUNnaHA2Sk1REAE
@@ -348,6 +373,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNRcE9PTnR3RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNRcE9PTnR3RRAB!2m1!1s0x87c0ef254be88b55:0x342c94d12daa68d2
+review_summary: >-
+  What Visitors Are Saying About This Spot$$$Folks who've tried this sushi
+  restaurant are buzzing about the consistently fresh and flavorful rolls, along
+  with other favorites like ramen and fried rice that hit the spot every time.
+  Many highlight the quick, friendly service and cozy ambiance that make dining
+  in feel relaxed and enjoyable, even on busy nights. It's clear that the
+  variety of dishes and reasonable prices keep people coming back, with happy
+  hour specials adding an extra layer of appeal for budget-friendly meals.
+  Overall, the feedback paints a picture of a reliable choice for groups or
+  families, where everything from the food quality to the efficient vibe earns
+  high marks. If you're on the hunt for top-rated sushi near me, this place
+  comes across as a solid pick that's worth checking out for a satisfying
+  experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -380,8 +419,8 @@ serves_lunch: true
 serves_vegetarian_food: false
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Intimate destination for sushi, as well as Japanese & Korean classics such as
   bibimbap & teriyaki.
 

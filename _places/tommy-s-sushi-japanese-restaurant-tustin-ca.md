@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Tommy's Sushi Japanese Restaurant"
+title: Tommy's Sushi Japanese Restaurant
 permalink: /california/tustin/tommy-s-sushi-japanese-restaurant.html
 stateAbbr: CA
 stateName: California
 cityName: Tustin
 seo:
-  name: "Tommy's Sushi Japanese Restaurant"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "This Japanese restaurant lets the sushi take the spotlight amid a no-frills ambiance. Tommy's Sushi Japanese Restaurant serves delicious sushi in Tustin, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJKej5hcLb3IARkfWYVttryh4
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 0
 website: null
+description: >-
+  Discover Tommy's Sushi in Tustin, CA$$$Nestled in Tustin, CA, Tommy's Sushi
+  Japanese Restaurant offers a straightforward yet inviting spot for enjoying
+  fresh Japanese cuisine, where dishes like poke bowls and teriyaki chicken take
+  center stage in a relaxed environment. This unpretentious eatery focuses on
+  high-quality sushi and familiar favorites, making it a go-to choice for those
+  seeking reliable Japanese places near them. Patrons can appreciate the
+  accessibility features, such as wheelchair-friendly entrances and seating,
+  along with options for dine-in or takeout that enhance its appeal for everyday
+  meals. The moderate pricing keeps things approachable, while selections like
+  sashimi and teriyaki provide satisfying options for anyone exploring top-rated
+  sushi in the area. Overall, it's a solid destination for casual diners looking
+  for authentic flavors without the fuss.
+generative_summary: >-
+  Discover Tommy's Sushi in Tustin, CA$$$Nestled in Tustin, CA, Tommy's Sushi
+  Japanese Restaurant offers a straightforward yet inviting spot for enjoying
+  fresh Japanese cuisine, where dishes like poke bowls and teriyaki chicken take
+  center stage in a relaxed environment. This unpretentious eatery focuses on
+  high-quality sushi and familiar favorites, making it a go-to choice for those
+  seeking reliable Japanese places near them. Patrons can appreciate the
+  accessibility features, such as wheelchair-friendly entrances and seating,
+  along with options for dine-in or takeout that enhance its appeal for everyday
+  meals. The moderate pricing keeps things approachable, while selections like
+  sashimi and teriyaki provide satisfying options for anyone exploring top-rated
+  sushi in the area. Overall, it's a solid destination for casual diners looking
+  for authentic flavors without the fuss.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJKej5hcLb3IARkfWYVttryh4/reviews/ChZDSUhNMG9nS0VJQ0FnSUNuNnJQb0VREAE
@@ -358,6 +383,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURteE9iOFpnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURteE9iOFpnEAE!2m1!1s0x80dcdbc285f9e829:0x1eca6bdb5698f591
+review_summary: >-
+  Insights from Recent Visitors$$$Feedback from folks who've tried this spot
+  highlights the consistently fresh and flavorful sushi, with many praising the
+  high-quality ingredients that make it stand out as a favorite for Japanese
+  fare nearby. Diners often mention enjoying a variety of options, from bento
+  boxes to teriyaki dishes, that leave them feeling satisfied and eager to
+  return for more. While the atmosphere gets noted as simple and functional,
+  it's clear that the excellent service and generous portions more than make up
+  for it, creating a welcoming vibe for groups or couples. Overall, people
+  appreciate the value, with specials and rolls delivering a solid experience
+  that keeps this place buzzing in the community. If you're on the hunt for
+  reliable sushi restaurants around Tustin, the positive buzz suggests it's
+  worth checking out for a straightforward, enjoyable meal.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -389,8 +428,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   This Japanese restaurant lets the sushi take the spotlight amid a no-frills
   ambiance.
 

@@ -5,4 +5,5 @@ permalink: /illinois/charleston/
 stateAbbr: IL
 stateName: Illinois
 cityName: Charleston
+
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Fuji Sushi Bar"
+title: Fuji Sushi Bar
 permalink: /louisiana/metairie/fuji-sushi-bar.html
 stateAbbr: LA
 stateName: Louisiana
 cityName: Metairie
 seo:
-  name: "Fuji Sushi Bar"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Fuji Sushi Bar serves delicious sushi in Metairie, Louisiana. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJr7_gYDK3IIYRnzrA4lxXegQ
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8620b73260e0bfaf:0x47a575ce2c03a9f!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 9:00 PM'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 9:30 PM'
+    - 'Saturday: 11:00 AM – 9:30 PM'
+    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,51 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
+phone: (504) 466-1924
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.5'
+rating_count: 310
 website: null
+description: >-
+  Discover Fuji Sushi Bar in Metairie, LA$$$Fuji Sushi Bar in Metairie, LA,
+  stands out as a welcoming spot for those seeking fresh Japanese cuisine in a
+  relaxed setting. This sushi restaurant offers an array of expertly prepared
+  rolls and dishes, making it a go-to choice for anyone craving authentic
+  flavors right in your neighborhood. With its accessible features like
+  wheelchair-friendly entrances and parking, it's designed to accommodate a
+  variety of diners while maintaining a cozy atmosphere. Operating daily from
+  late morning into the evening, it's ideal for quick lunches or casual dinners,
+  blending convenience with quality. Whether you're exploring top-rated sushi
+  options nearby, this place delivers a satisfying experience that highlights
+  the best of Japanese dining traditions.
+generative_summary: >-
+  Discover Fuji Sushi Bar in Metairie, LA$$$Fuji Sushi Bar in Metairie, LA,
+  stands out as a welcoming spot for those seeking fresh Japanese cuisine in a
+  relaxed setting. This sushi restaurant offers an array of expertly prepared
+  rolls and dishes, making it a go-to choice for anyone craving authentic
+  flavors right in your neighborhood. With its accessible features like
+  wheelchair-friendly entrances and parking, it's designed to accommodate a
+  variety of diners while maintaining a cozy atmosphere. Operating daily from
+  late morning into the evening, it's ideal for quick lunches or casual dinners,
+  blending convenience with quality. Whether you're exploring top-rated sushi
+  options nearby, this place delivers a satisfying experience that highlights
+  the best of Japanese dining traditions.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About Fuji Sushi Bar$$$Folks who visit Fuji Sushi
+  Bar often rave about the fresh, flavorful sushi that keeps them coming back
+  for more, earning it high marks among local favorites. Many appreciate the
+  friendly service and inviting vibe, which make meals feel relaxed and
+  enjoyable without any fuss. While some mention wait times during peak hours,
+  the overall consensus leans positive, with diners highlighting generous
+  portions and a solid variety that suits both solo outings and groups. It's
+  clear that the spot lives up to its reputation for being one of the best sushi
+  places around, with feedback emphasizing reliable quality that doesn't
+  disappoint. If you're on the hunt for great sushi near you, this restaurant
+  seems to hit the mark for a satisfying, everyday treat.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +312,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Bonchon Arlington"
+title: Bonchon Arlington
 permalink: /virginia/arlington/bonchon-arlington.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Arlington
 seo:
-  name: "Bonchon Arlington"
-  type: Restaurant
-  links: null
-description: "Bonchon Arlington serves delicious sushi in Arlington, Virginia. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://locations.bonchon.com/ll/US/VA/Arlington/2201-N-Pershing-Dr
 place_id: ChIJpeIs-o22t4kRCUm2YXiK4Ms
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89b7b68dfa2ce2a5:0xcbe08a7861b64909!10e5
 primary_type: Asian Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:30 PM'
+    - 'Tuesday: 11:00 AM – 9:30 PM'
+    - 'Wednesday: 11:00 AM – 9:30 PM'
+    - 'Thursday: 11:00 AM – 9:30 PM'
+    - 'Friday: 11:00 AM – 11:00 PM'
+    - 'Saturday: 11:00 AM – 11:00 PM'
+    - 'Sunday: 11:00 AM – 9:30 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,48 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (703) 528-1011
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.3'
+rating_count: 857
+website: https://locations.bonchon.com/ll/US/VA/Arlington/2201-N-Pershing-Dr
+description: >-
+  Discover Bonchon Arlington in Arlington, VA$$$Bonchon Arlington in Arlington,
+  VA, is a vibrant Asian restaurant specializing in flavorful Korean fried
+  chicken and fusion dishes that blend traditional and modern tastes. This spot
+  boasts a casual, welcoming atmosphere perfect for families and groups, making
+  it an ideal choice for anyone seeking authentic Asian cuisine near you. With
+  accessibility features like wheelchair-friendly parking and entrances, it's
+  designed to accommodate all visitors comfortably. Operating from 11 AM daily
+  with extended hours on weekends, it offers a convenient option for lunch or
+  dinner outings. Whether you're exploring top-rated Asian places in the area,
+  this location stands out for its tasty fare and family-friendly vibe.
+generative_summary: >-
+  Discover Bonchon Arlington in Arlington, VA$$$Bonchon Arlington in Arlington,
+  VA, is a vibrant Asian restaurant specializing in flavorful Korean fried
+  chicken and fusion dishes that blend traditional and modern tastes. This spot
+  boasts a casual, welcoming atmosphere perfect for families and groups, making
+  it an ideal choice for anyone seeking authentic Asian cuisine near you. With
+  accessibility features like wheelchair-friendly parking and entrances, it's
+  designed to accommodate all visitors comfortably. Operating from 11 AM daily
+  with extended hours on weekends, it offers a convenient option for lunch or
+  dinner outings. Whether you're exploring top-rated Asian places in the area,
+  this location stands out for its tasty fare and family-friendly vibe.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Raving About$$$Folks often praise the standout soy garlic
+  wings and strips at this Asian fusion spot, frequently calling them some of
+  the best bites around for a satisfying meal. Many appreciate the friendly and
+  attentive service that makes dining out feel relaxed and enjoyable, along with
+  perks like a military discount that add extra value. While some note that
+  prices can be on the higher side, the overall experience remains worthwhile
+  for the quality and flavors offered. In a casual setting, visitors highlight
+  how the food hits the spot for those craving bold tastes without the fuss. If
+  you're on the hunt for reliable Asian restaurants nearby, this place generally
+  delivers a positive vibe that keeps people coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +309,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

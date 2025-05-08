@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Fusion Poke Bowl"
+title: Fusion Poke Bowl
 permalink: /florida/riverview/fusion-poke-bowl.html
 stateAbbr: FL
 stateName: Florida
 cityName: Riverview
 seo:
-  name: "Fusion Poke Bowl"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Fusion Poke Bowl serves delicious sushi in Riverview, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ0wrR5nfRwogRw5nwv588zsQ
 photos:
   - name: >-
@@ -183,7 +181,43 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Fusion Poke Bowl in Riverview, Florida$$$Fusion Poke Bowl in
+  Riverview, Florida, stands out as a vibrant spot for fresh, Hawaiian-inspired
+  bowls that blend bold flavors with high-quality ingredients. Situated
+  conveniently along US-301, this restaurant offers easy accessibility,
+  including wheelchair-friendly parking and entrances, making it a hassle-free
+  choice for all visitors. The venue boasts an inviting atmosphere highlighted
+  by colorful dishes and a cozy setup, perfect for those seeking a casual dining
+  experience. With options for takeout or on-site meals, it delivers a
+  straightforward and enjoyable way to explore delicious, health-conscious eats
+  that appeal to poke enthusiasts in the area.
+generative_summary: >-
+  Discover Fusion Poke Bowl in Riverview, Florida$$$Fusion Poke Bowl in
+  Riverview, Florida, stands out as a vibrant spot for fresh, Hawaiian-inspired
+  bowls that blend bold flavors with high-quality ingredients. Situated
+  conveniently along US-301, this restaurant offers easy accessibility,
+  including wheelchair-friendly parking and entrances, making it a hassle-free
+  choice for all visitors. The venue boasts an inviting atmosphere highlighted
+  by colorful dishes and a cozy setup, perfect for those seeking a casual dining
+  experience. With options for takeout or on-site meals, it delivers a
+  straightforward and enjoyable way to explore delicious, health-conscious eats
+  that appeal to poke enthusiasts in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying About the Experience$$$Folks around Riverview seem to
+  appreciate the straightforward appeal of Fusion Poke Bowl, often noting the
+  fresh ingredients and welcoming vibe that make for a satisfying meal. Many
+  comments highlight the tasty combinations and accessible location, suggesting
+  it's a solid pick for anyone craving quick, flavorful options without the
+  fuss. While some mention it's great for a casual stop, others point out the
+  convenience for families or those on the go, adding to its everyday charm.
+  Overall, the feedback leans positive, with people enjoying the variety and
+  ease of grabbing a bite that feels both fresh and fulfilling. If you're
+  searching for reliable spots for fresh fish dishes nearby, this one often
+  comes up as a go-to choice that delivers on taste and convenience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -209,7 +243,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

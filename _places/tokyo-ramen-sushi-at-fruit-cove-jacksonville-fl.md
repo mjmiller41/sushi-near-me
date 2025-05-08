@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Tokyo Ramen & Sushi At Fruit Cove"
+title: Tokyo Ramen & Sushi At Fruit Cove
 permalink: /florida/jacksonville/tokyo-ramen-sushi-at-fruit-cove.html
 stateAbbr: FL
 stateName: Florida
 cityName: Jacksonville
 seo:
-  name: "Tokyo Ramen & Sushi At Fruit Cove"
-  type: Restaurant
+  type: restaurant
   links: https://tokyoramenburrito1.com/
-description: "Tokyo Ramen & Sushi At Fruit Cove serves delicious sushi in Jacksonville, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJxy8Cyl_O5YgR0-Dz-m3z91U
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 0
 website: https://tokyoramenburrito1.com/
+description: >-
+  Discover Tokyo Ramen & Sushi in Jacksonville, FL$$$Tokyo Ramen & Sushi At
+  Fruit Cove in Jacksonville, FL, stands out as a vibrant spot for exploring
+  authentic Japanese flavors in a cozy setting. This sushi restaurant delights
+  visitors with its fresh ramen, hibachi dishes, and a selection of creative
+  sushi rolls that cater to a variety of tastes. Affordable lunch specials and
+  value-packed options make it an ideal choice for those seeking top-rated sushi
+  experiences without overspending. The welcoming atmosphere and efficient
+  service enhance every visit, whether you're opting for dine-in or takeout. As
+  one of the go-to Japanese places near me, it offers a satisfying blend of
+  quality and convenience for casual meals with friends or family.
+generative_summary: >-
+  Discover Tokyo Ramen & Sushi in Jacksonville, FL$$$Tokyo Ramen & Sushi At
+  Fruit Cove in Jacksonville, FL, stands out as a vibrant spot for exploring
+  authentic Japanese flavors in a cozy setting. This sushi restaurant delights
+  visitors with its fresh ramen, hibachi dishes, and a selection of creative
+  sushi rolls that cater to a variety of tastes. Affordable lunch specials and
+  value-packed options make it an ideal choice for those seeking top-rated sushi
+  experiences without overspending. The welcoming atmosphere and efficient
+  service enhance every visit, whether you're opting for dine-in or takeout. As
+  one of the go-to Japanese places near me, it offers a satisfying blend of
+  quality and convenience for casual meals with friends or family.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJxy8Cyl_O5YgR0-Dz-m3z91U/reviews/ChZDSUhNMG9nS0VJQ0FnSUN2cjlxQVF3EAE
@@ -364,6 +385,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURaX09hQzFRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURaX09hQzFRRRAB!2m1!1s0x88e5ce5fca022fc7:0x55f7f36dfaf3e0d3
+review_summary: >-
+  Insights from Recent Reviews$$$Visitors frequently praise the flavorful ramen
+  and sushi at this local spot, noting how the tasty combinations make for a
+  fulfilling meal every time. Many highlight the great value from specials and
+  affordable pricing, which keeps people coming back for more without breaking
+  the bank. The quick service and clean environment add to the appeal, creating
+  a relaxed vibe that's perfect for a casual outing or quick bite. While some
+  mention minor issues like slightly chewy meats, overall feedback remains
+  positive, emphasizing the restaurant's reliability for fresh Japanese fare. If
+  you're searching for the best sushi near me, this place often delivers a
+  solid, enjoyable experience that leaves diners eager to return.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -395,7 +428,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

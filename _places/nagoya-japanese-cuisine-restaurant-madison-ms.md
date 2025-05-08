@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Nagoya Japanese Cuisine Restaurant"
+title: Nagoya Japanese Cuisine Restaurant
 permalink: /mississippi/madison/nagoya-japanese-cuisine-restaurant.html
 stateAbbr: MS
 stateName: Mississippi
 cityName: Madison
 seo:
-  name: "Nagoya Japanese Cuisine Restaurant"
-  type: Restaurant
-  links: null
-description: "Nagoya Japanese Cuisine Restaurant serves delicious sushi in Madison, Mississippi. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.nagoyamadison.com/
 place_id: ChIJW20zjdzRKYYRFlMKqCEflGw
 photos:
   - name: >-
@@ -170,8 +168,129 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8629d1dc8d336d5b:0x6c941f21a80a5316!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 15
+        minute: 0
+    - open:
+        day: 0
+        hour: 16
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 15
+        minute: 0
+    - open:
+        day: 6
+        hour: 16
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 2:30 PM, 4:30 – 9:30 PM'
+    - 'Tuesday: 11:00 AM – 2:30 PM, 4:30 – 9:30 PM'
+    - 'Wednesday: 11:00 AM – 2:30 PM, 4:30 – 9:30 PM'
+    - 'Thursday: 11:00 AM – 2:30 PM, 4:30 – 9:30 PM'
+    - 'Friday: 11:00 AM – 2:30 PM, 4:30 – 10:00 PM'
+    - 'Saturday: 11:00 AM – 3:00 PM, 4:30 – 10:00 PM'
+    - 'Sunday: 11:00 AM – 3:00 PM, 4:30 – 9:30 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +298,54 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (601) 856-5678
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.3'
+rating_count: 415
+website: http://www.nagoyamadison.com/
+description: >-
+  Explore Nagoya Japanese Cuisine in Madison, MS$$$Nagoya Japanese Cuisine
+  Restaurant in Madison, MS, stands out as a welcoming spot for those seeking
+  authentic sushi and hibachi-grilled options in a relaxed atmosphere. This
+  eatery specializes in fresh, flavorful dishes that highlight traditional
+  Japanese flavors, making it a great choice for anyone craving top-rated sushi
+  experiences nearby. With accessibility features like wheelchair-friendly
+  parking and seating, it ensures a comfortable visit for all guests, while its
+  moderate price range offers good value for quality meals. The restaurant
+  operates with convenient hours, including evenings and weekends, perfect for
+  casual dinners or quick lunches after exploring the area. Whether you're
+  looking for sushi places near me or Japanese dining options, this location
+  combines simplicity with satisfying tastes that keep locals coming back.
+generative_summary: >-
+  Explore Nagoya Japanese Cuisine in Madison, MS$$$Nagoya Japanese Cuisine
+  Restaurant in Madison, MS, stands out as a welcoming spot for those seeking
+  authentic sushi and hibachi-grilled options in a relaxed atmosphere. This
+  eatery specializes in fresh, flavorful dishes that highlight traditional
+  Japanese flavors, making it a great choice for anyone craving top-rated sushi
+  experiences nearby. With accessibility features like wheelchair-friendly
+  parking and seating, it ensures a comfortable visit for all guests, while its
+  moderate price range offers good value for quality meals. The restaurant
+  operates with convenient hours, including evenings and weekends, perfect for
+  casual dinners or quick lunches after exploring the area. Whether you're
+  looking for sushi places near me or Japanese dining options, this location
+  combines simplicity with satisfying tastes that keep locals coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Feedback from Diners$$$Visitors to this sushi spot often praise the fresh
+  ingredients and well-prepared dishes, noting that the hibachi and rolls
+  deliver a satisfying mix of flavors that hit the mark for everyday meals. Many
+  appreciate the friendly service and efficient atmosphere, which make it a
+  solid pick for groups or solo diners seeking a laid-back vibe without any
+  fuss. While some mention wait times during peak hours, the overall experience
+  earns high marks for consistency and taste, reflecting its strong rating from
+  hundreds of comments. If you're hunting for the best sushi near me, feedback
+  highlights reliable portions and a welcoming feel that enhances the dining
+  outing. In summary, it's a go-to choice for enjoyable Japanese cuisine that
+  balances quality with approachability, encouraging repeat visits for anyone in
+  the mood.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +371,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

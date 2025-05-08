@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yummy Poké Sushi Bubble Tea"
+title: Yummy Poké Sushi Bubble Tea
 permalink: /connecticut/hamden/yummy-poke-sushi-bubble-tea.html
 stateAbbr: CT
 stateName: Connecticut
 cityName: Hamden
 seo:
-  name: "Yummy Poké Sushi Bubble Tea"
-  type: Restaurant
-  links: null
-description: "Yummy Poké Sushi Bubble Tea serves delicious sushi in Hamden, Connecticut. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.yummypokehibachibubbletea.com/
 place_id: ChIJ5-iqWrHb54kR1NgohWHJgEk
 photos:
   - name: >-
@@ -155,7 +153,7 @@ accessibility_options:
   wheelchairAccessibleParking: true
   wheelchairAccessibleEntrance: true
   wheelchairAccessibleRestroom: true
-business_status: CLOSED_TEMPORARILY
+business_status: OPERATIONAL
 name: Yummy Poké Sushi Bubble Tea
 google_maps_links:
   directionsUri: >-
@@ -169,8 +167,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89e7dbb15aaae8e7:0x4980c9618528d8d4!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: Closed'
+    - 'Tuesday: 11:00 AM – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 9:00 PM'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 9:30 PM'
+    - 'Saturday: 11:00 AM – 9:30 PM'
+    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T01:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -178,13 +233,55 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
+phone: (203) 410-3800
 price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+price_range: $10 &ndash; $20
+rating: '4.7'
+rating_count: 123
+website: http://www.yummypokehibachibubbletea.com/
+description: >-
+  Explore Yummy Poké Sushi in Hamden, CT$$$Yummy Poké Sushi Bubble Tea in
+  Hamden, CT, stands out as a casual dining spot blending fresh sushi and poke
+  bowls with refreshing bubble teas, making it a go-to choice for those seeking
+  Japanese-inspired flavors nearby. This welcoming restaurant emphasizes quality
+  ingredients and accessible features like wheelchair-friendly entrances,
+  ensuring a comfortable visit for everyone. Patrons can enjoy a variety of
+  options, from vibrant poke bowls packed with proteins to creative sushi rolls
+  that highlight seasonal tastes, all paired with satisfying bubble tea
+  selections. The spot's convenient hours and family-oriented vibe add to its
+  appeal as one of the top sushi places in the area, perfect for a quick meal or
+  relaxed gathering. Whether you're exploring sushi restaurants close to you or
+  craving something light and flavorful, this location delivers a balanced mix
+  of tradition and fun.
+generative_summary: >-
+  Explore Yummy Poké Sushi in Hamden, CT$$$Yummy Poké Sushi Bubble Tea in
+  Hamden, CT, stands out as a casual dining spot blending fresh sushi and poke
+  bowls with refreshing bubble teas, making it a go-to choice for those seeking
+  Japanese-inspired flavors nearby. This welcoming restaurant emphasizes quality
+  ingredients and accessible features like wheelchair-friendly entrances,
+  ensuring a comfortable visit for everyone. Patrons can enjoy a variety of
+  options, from vibrant poke bowls packed with proteins to creative sushi rolls
+  that highlight seasonal tastes, all paired with satisfying bubble tea
+  selections. The spot's convenient hours and family-oriented vibe add to its
+  appeal as one of the top sushi places in the area, perfect for a quick meal or
+  relaxed gathering. Whether you're exploring sushi restaurants close to you or
+  craving something light and flavorful, this location delivers a balanced mix
+  of tradition and fun.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback Highlights$$$Folks often rave about the fresh and generous
+  poke bowls at this sushi spot, with standout ingredients like tuna and shrimp
+  that keep things tasty and satisfying without overwhelming the palate. It's
+  clear that the bubble tea, especially flavors like brown sugar boba, adds a
+  fun twist that pairs perfectly with the meals, making it a hit for casual
+  diners. Many appreciate the family-friendly atmosphere, which creates a
+  relaxed setting ideal for groups or quick stops after a day out. Overall, this
+  place earns high marks as one of the best sushi options near Hamden, with
+  consistent praise for portion sizes and ingredient quality that make it worth
+  trying. If you're on the hunt for top-rated sushi restaurants in the area, the
+  positive vibes here suggest it's a solid pick for a delightful experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +307,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

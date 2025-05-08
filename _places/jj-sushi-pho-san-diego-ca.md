@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "JJ Sushi & Pho"
+title: JJ Sushi & Pho
 permalink: /california/san-diego/jj-sushi-pho.html
 stateAbbr: CA
 stateName: California
 cityName: San Diego
 seo:
-  name: "JJ Sushi & Pho"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "JJ Sushi & Pho serves delicious sushi in San Diego, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ48MwFxhJ2YARm2CVFiQJ0PQ
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80d949181730c3e3:0xf4d009241695609b!10e5
 primary_type: Vietnamese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 19
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 19
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 19
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 19
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 19
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 19
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:00 AM – 7:30 PM'
     - 'Wednesday: 11:00 AM – 7:30 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 7:30 PM'
     - 'Saturday: 11:00 AM – 7:30 PM'
     - 'Sunday: 11:00 AM – 7:30 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:00 AM – 7:30 PM'
-    - 'Wednesday: 11:00 AM – 7:30 PM'
-    - 'Thursday: 11:00 AM – 7:30 PM'
-    - 'Friday: 11:00 AM – 7:30 PM'
-    - 'Saturday: 11:00 AM – 7:30 PM'
-    - 'Sunday: 11:00 AM – 7:30 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +238,241 @@ phone: (619) 690-1888
 price_level: null
 price_range: $10 &ndash; $20
 rating: '4.7'
-rating_count: 0
+rating_count: 284
 website: null
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover JJ Sushi & Pho in San Diego$$$JJ Sushi & Pho in San Diego, CA, stands
+  out as a welcoming spot blending Japanese and Vietnamese flavors in a casual
+  setting. This restaurant delights with fresh sushi rolls and hearty pho bowls,
+  perfect for those seeking sushi restaurants nearby that emphasize quality
+  ingredients and authentic tastes. Accessibility features like
+  wheelchair-friendly entrances and seating make it easy for everyone to enjoy a
+  meal, while the menu caters to various preferences including vegetarian
+  options. Operating hours accommodate lunch and dinner crowds, adding to its
+  appeal for families and groups looking for reliable dining options in the
+  area.
+generative_summary: >-
+  Discover JJ Sushi & Pho in San Diego$$$JJ Sushi & Pho in San Diego, CA, stands
+  out as a welcoming spot blending Japanese and Vietnamese flavors in a casual
+  setting. This restaurant delights with fresh sushi rolls and hearty pho bowls,
+  perfect for those seeking sushi restaurants nearby that emphasize quality
+  ingredients and authentic tastes. Accessibility features like
+  wheelchair-friendly entrances and seating make it easy for everyone to enjoy a
+  meal, while the menu caters to various preferences including vegetarian
+  options. Operating hours accommodate lunch and dinner crowds, adding to its
+  appeal for families and groups looking for reliable dining options in the
+  area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ48MwFxhJ2YARm2CVFiQJ0PQ/reviews/ChdDSUhNMG9nS0VJQ0FnSURQeDhyX2pBRRAB
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        The shop cooks nice and fresh rare beef pho, the service is quick and
+        very attentive. And the price is great. Their vegetables are fresh.
+      languageCode: en
+    originalText:
+      text: >-
+        The shop cooks nice and fresh rare beef pho, the service is quick and
+        very attentive. And the price is great. Their vegetables are fresh.
+      languageCode: en
+    authorAttribution:
+      displayName: Khải Đơn
+      uri: https://www.google.com/maps/contrib/105459488646312120405/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWctprHJIlLAoUj4qXlMEsZW0qV6Iv9eluHDJTAjDyDxsz9z5ZL=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-12-06T02:15:02.717801Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURQeDhyX2pBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURQeDhyX2pBRRAB!2m1!1s0x80d949181730c3e3:0xf4d009241695609b
+  - name: >-
+      places/ChIJ48MwFxhJ2YARm2CVFiQJ0PQ/reviews/ChdDSUhNMG9nS0VJQ0FnSURmcHJxMWhnRRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        I cannot recommend this place enough! Aside from the freshly squeezed
+        lemonade, the sushi is always fresh and the food is made to order! So
+        much attention to detail goes into every dish.
+      languageCode: en
+    originalText:
+      text: >-
+        I cannot recommend this place enough! Aside from the freshly squeezed
+        lemonade, the sushi is always fresh and the food is made to order! So
+        much attention to detail goes into every dish.
+      languageCode: en
+    authorAttribution:
+      displayName: Marialuisa
+      uri: https://www.google.com/maps/contrib/116598228278076690481/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVkj4V-iaeH4hs4k7b9N-GitUDBKIASTZXjsXbIlGbyl0-wsze3Mg=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-01-06T02:57:18.779030Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURmcHJxMWhnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURmcHJxMWhnRRAB!2m1!1s0x80d949181730c3e3:0xf4d009241695609b
+  - name: >-
+      places/ChIJ48MwFxhJ2YARm2CVFiQJ0PQ/reviews/ChdDSUhNMG9nS0VJQ0FnSUNnX09LYzJBRRAB
+    relativePublishTimeDescription: 7 years ago
+    rating: 5
+    text:
+      text: >-
+        Many thanks to the owner and his sweet wife the chef! I was going to
+        return couple days later for their delicious dragon roll but got caught
+        up. So here's my way to return my gratitude with words. You're both very
+        gracious thanks for taking the time to help me decide which roll would
+        best suit me. Best recommendation! A+++ service love this place will
+        revisit next time in town!
+      languageCode: en
+    originalText:
+      text: >-
+        Many thanks to the owner and his sweet wife the chef! I was going to
+        return couple days later for their delicious dragon roll but got caught
+        up. So here's my way to return my gratitude with words. You're both very
+        gracious thanks for taking the time to help me decide which roll would
+        best suit me. Best recommendation! A+++ service love this place will
+        revisit next time in town!
+      languageCode: en
+    authorAttribution:
+      displayName: Fall Ann
+      uri: https://www.google.com/maps/contrib/113178306999709107168/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJKBlZJP5W6ZQHzRdu1iR7dQzOzxq6EuPTnnUFTRy-h1cwKOQ=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2018-04-28T18:44:24.086Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNnX09LYzJBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNnX09LYzJBRRAB!2m1!1s0x80d949181730c3e3:0xf4d009241695609b
+  - name: >-
+      places/ChIJ48MwFxhJ2YARm2CVFiQJ0PQ/reviews/ChZDSUhNMG9nS0VJQ0FnSURVNloydFdBEAE
+    relativePublishTimeDescription: 5 years ago
+    rating: 5
+    text:
+      text: >-
+        Honestly so good! Prices are little higher than other places, but
+        considering its location in San Ysidro, it's pretty good. There aren't
+        other Asian Fusion or sushi in this general area unless you cross the
+        border or drive to Chula Vista.
+
+
+        This is a family owned business store. I went on a Tuesday after work.
+        There was 2 to go orders and one party in front of me. There was a wait
+        mostly because there was only one person doing sushi.
+
+
+        I ordered the Olive Roll, Won Ton soup (2 orders and not pictured, I ate
+        it so fast), Spicy Garlic Edamame, and crab cheese rangoon. Everything
+        was so good. The won ton is probably the best soup I've had down on this
+        side and pretty close to being better than most other Chinese food
+        places up north.
+
+
+        Definitely will return to try the pho and other dishes. They also accept
+        card!
+      languageCode: en
+    originalText:
+      text: >-
+        Honestly so good! Prices are little higher than other places, but
+        considering its location in San Ysidro, it's pretty good. There aren't
+        other Asian Fusion or sushi in this general area unless you cross the
+        border or drive to Chula Vista.
+
+
+        This is a family owned business store. I went on a Tuesday after work.
+        There was 2 to go orders and one party in front of me. There was a wait
+        mostly because there was only one person doing sushi.
+
+
+        I ordered the Olive Roll, Won Ton soup (2 orders and not pictured, I ate
+        it so fast), Spicy Garlic Edamame, and crab cheese rangoon. Everything
+        was so good. The won ton is probably the best soup I've had down on this
+        side and pretty close to being better than most other Chinese food
+        places up north.
+
+
+        Definitely will return to try the pho and other dishes. They also accept
+        card!
+      languageCode: en
+    authorAttribution:
+      displayName: Kat Locquiao
+      uri: https://www.google.com/maps/contrib/116780335095233737553/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWH7vQv668Ei3RiCVWw30ulej9wOfly0mEw2bKVsVTmzJ8oE56_pA=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2019-08-28T05:45:29.546924Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURVNloydFdBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURVNloydFdBEAE!2m1!1s0x80d949181730c3e3:0xf4d009241695609b
+  - name: >-
+      places/ChIJ48MwFxhJ2YARm2CVFiQJ0PQ/reviews/ChZDSUhNMG9nS0VJQ0FnSUNxZ2RTMkJREAE
+    relativePublishTimeDescription: 2 years ago
+    rating: 5
+    text:
+      text: >-
+        This place is really tasty. 💣 pho was on point and the Sushi was great.
+        Cant wait to go back to try other rolls. Enjoy 👍
+      languageCode: en
+    originalText:
+      text: >-
+        This place is really tasty. 💣 pho was on point and the Sushi was great.
+        Cant wait to go back to try other rolls. Enjoy 👍
+      languageCode: en
+    authorAttribution:
+      displayName: Alfredo Nunez
+      uri: https://www.google.com/maps/contrib/101026196027183683599/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVhEPdZ_3tPnSC1lbudjuZ-hsXuqveJKt0I_D_SYjr83GXdgoyD=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2022-05-05T19:32:45.105617Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNxZ2RTMkJREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNxZ2RTMkJREAE!2m1!1s0x80d949181730c3e3:0xf4d009241695609b
+review_summary: >-
+  What Customers Are Saying$$$Folks rave about the fresh sushi and flavorful pho
+  at this spot, often highlighting how the dishes hit the mark with their
+  authentic vibes and great value. Many appreciate the quick service and
+  attention to detail that make every visit feel smooth and satisfying, turning
+  it into a go-to choice for anyone craving top-rated sushi nearby. While prices
+  are reasonable, reviewers note that the overall experience stands out for its
+  welcoming atmosphere and variety of options. All in all, it's a solid pick for
+  casual diners seeking honest, tasty meals without any major hiccups, keeping
+  things positive and approachable.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
 delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
 serves_beer: null
 serves_breakfast: null
-serves_brunch: null
+serves_brunch: false
 serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
+serves_coffee: true
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
 serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

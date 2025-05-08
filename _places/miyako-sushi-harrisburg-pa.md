@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Miyako Sushi"
+title: Miyako Sushi
 permalink: /pennsylvania/harrisburg/miyako-sushi.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Harrisburg
 seo:
-  name: "Miyako Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.miyakosushiharrisburg.com/
-description: "Miyako Sushi serves delicious sushi in Harrisburg, Pennsylvania. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJq_1MERDByIkRbicRt_2jffs
 photos:
   - name: >-
@@ -169,7 +167,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c8c110114cfdab:0xfb7da3fdb711276e!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 10:00 PM'
     - 'Tuesday: 11:00 AM – 10:00 PM'
     - 'Wednesday: 11:00 AM – 10:00 PM'
@@ -177,14 +225,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 11:00 PM'
     - 'Saturday: 12:00 – 11:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:00 AM – 10:00 PM'
-    - 'Tuesday: 11:00 AM – 10:00 PM'
-    - 'Wednesday: 11:00 AM – 10:00 PM'
-    - 'Thursday: 11:00 AM – 10:00 PM'
-    - 'Friday: 11:00 AM – 11:00 PM'
-    - 'Saturday: 12:00 – 11:00 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,9 +237,47 @@ phone: (717) 234-3250
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.4'
-rating_count: 0
+rating_count: 449
 website: https://www.miyakosushiharrisburg.com/
+description: >-
+  Explore Miyako Sushi in Harrisburg, PA$$$Miyako Sushi in Harrisburg, PA,
+  stands out as a welcoming spot for enjoying fresh Japanese cuisine, featuring
+  an array of sushi rolls and other traditional dishes that cater to various
+  tastes. This laid-back restaurant emphasizes vegetarian options alongside
+  classic favorites, making it a versatile choice for anyone seeking authentic
+  flavors in a comfortable setting. With its accessible entrance and seating,
+  it's designed to accommodate all guests, enhancing the overall dining
+  experience. The moderate pricing adds to its appeal, offering great value for
+  quality meals that highlight the best of Japanese culinary traditions. Whether
+  you're in the mood for a quick bite or a relaxed meal, this spot delivers a
+  satisfying blend of taste and ambiance that keeps locals coming back.
+generative_summary: >-
+  Explore Miyako Sushi in Harrisburg, PA$$$Miyako Sushi in Harrisburg, PA,
+  stands out as a welcoming spot for enjoying fresh Japanese cuisine, featuring
+  an array of sushi rolls and other traditional dishes that cater to various
+  tastes. This laid-back restaurant emphasizes vegetarian options alongside
+  classic favorites, making it a versatile choice for anyone seeking authentic
+  flavors in a comfortable setting. With its accessible entrance and seating,
+  it's designed to accommodate all guests, enhancing the overall dining
+  experience. The moderate pricing adds to its appeal, offering great value for
+  quality meals that highlight the best of Japanese culinary traditions. Whether
+  you're in the mood for a quick bite or a relaxed meal, this spot delivers a
+  satisfying blend of taste and ambiance that keeps locals coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Customer Feedback$$$Diners at this sushi spot often highlight
+  the consistently fresh ingredients and flavorful dishes that make every visit
+  enjoyable, contributing to its strong reputation among Japanese cuisine
+  enthusiasts. Many appreciate the relaxed atmosphere and reliable service,
+  which help create a positive overall experience for groups or solo outings.
+  While some mention minor waits during peak hours, the general consensus leans
+  toward the high-quality rolls and variety that exceed expectations for a
+  casual meal. Feedback frequently praises the affordability and accessibility,
+  making it a go-to option for those exploring top-rated eats nearby. Overall,
+  the buzz around this place suggests it's a solid pick for anyone craving
+  delicious sushi, with most leaving satisfied and eager to return.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -224,7 +303,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

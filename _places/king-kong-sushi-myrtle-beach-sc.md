@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "King Kong Sushi"
+title: King Kong Sushi
 permalink: /south-carolina/myrtle-beach/king-kong-sushi.html
 stateAbbr: SC
 stateName: South Carolina
 cityName: Myrtle Beach
 seo:
-  name: "King Kong Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.kingkongsushi.com/
-description: "King Kong Sushi serves delicious sushi in Myrtle Beach, South Carolina. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJixuBjN9oAIkRjMlc0-JW5Ag
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x890068df8c811b8b:0x8e456e2d35cc98c!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 20
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 20
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 20
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 20
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 20
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 20
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 20
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 8:00 PM'
     - 'Tuesday: 11:30 AM – 8:00 PM'
     - 'Wednesday: 11:30 AM – 8:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 8:30 PM'
     - 'Saturday: 11:30 AM – 8:30 PM'
     - 'Sunday: 11:30 AM – 8:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 8:00 PM'
-    - 'Tuesday: 11:30 AM – 8:00 PM'
-    - 'Wednesday: 11:30 AM – 8:00 PM'
-    - 'Thursday: 11:30 AM – 8:00 PM'
-    - 'Friday: 11:30 AM – 8:30 PM'
-    - 'Saturday: 11:30 AM – 8:30 PM'
-    - 'Sunday: 11:30 AM – 8:00 PM'
+  nextCloseTime: '2025-05-04T00:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +246,46 @@ phone: (843) 626-2444
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.3'
-rating_count: 0
+rating_count: 929
 website: http://www.kingkongsushi.com/
+description: >-
+  Discover King Kong Sushi in Myrtle Beach, SC$$$King Kong Sushi in Myrtle
+  Beach, SC, stands out as a welcoming sushi destination nestled in the vibrant
+  Broadway at the Beach area, offering a mix of casual vibes and authentic Asian
+  flavors that appeal to those seeking sushi restaurants nearby. This spot
+  delights with its fresh selections of sushi rolls, savory Asian bites, and a
+  selection of beer and sake, making it a go-to for anyone craving top-rated
+  sushi in a relaxed setting. The restaurant boasts accessibility features like
+  wheelchair-friendly entrances and seating, ensuring everyone can enjoy their
+  meal comfortably. With daily hours starting from late morning, it's easy to
+  drop in for a satisfying lunch or dinner, enhancing its appeal for locals and
+  visitors hunting for sushi places near me.
+generative_summary: >-
+  Discover King Kong Sushi in Myrtle Beach, SC$$$King Kong Sushi in Myrtle
+  Beach, SC, stands out as a welcoming sushi destination nestled in the vibrant
+  Broadway at the Beach area, offering a mix of casual vibes and authentic Asian
+  flavors that appeal to those seeking sushi restaurants nearby. This spot
+  delights with its fresh selections of sushi rolls, savory Asian bites, and a
+  selection of beer and sake, making it a go-to for anyone craving top-rated
+  sushi in a relaxed setting. The restaurant boasts accessibility features like
+  wheelchair-friendly entrances and seating, ensuring everyone can enjoy their
+  meal comfortably. With daily hours starting from late morning, it's easy to
+  drop in for a satisfying lunch or dinner, enhancing its appeal for locals and
+  visitors hunting for sushi places near me.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Folks rave about the tasty dishes at this sushi
+  spot, with highlights on the fresh rolls and generous portions that make every
+  bite feel worthwhile. Many appreciate the friendly service that keeps things
+  upbeat and attentive, turning a simple meal into a pleasant experience
+  overall. While some note that the prices lean towards the higher side, the
+  quality and variety of options like volcano rolls and bulgogi wraps often
+  justify the cost for a memorable outing. In general, the atmosphere strikes a
+  nice balance of elegant and simple, creating a welcoming vibe for groups or
+  solo diners. If you're on the hunt for reliable sushi near me, this place
+  delivers solid flavors with a positive spin that keeps people coming back.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +311,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

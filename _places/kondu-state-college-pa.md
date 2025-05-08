@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kondu"
+title: Kondu
 permalink: /pennsylvania/state-college/kondu.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: State College
 seo:
-  name: "Kondu"
-  type: Restaurant
+  type: restaurant
   links: http://kondustatecollege.com/
-description: "Kondu serves delicious sushi in State College, Pennsylvania. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJhZxiuJiozokRhJJEB307MJM
 photos:
   - name: >-
@@ -184,6 +182,29 @@ price_range: $10 &ndash; $20
 rating: '4.3'
 rating_count: 0
 website: http://kondustatecollege.com/
+description: >-
+  About Kondu in State College, PA$$$Kondu in State College, PA, stands out as a
+  welcoming spot for savoring Japanese-inspired dishes in a casual atmosphere.
+  This eatery delights with fresh, flavorful options like inventive sushi rolls
+  and hearty poke bowls, making it a go-to choice for those seeking authentic
+  tastes without the formality. Accessibility features such as
+  wheelchair-friendly entrances and seating ensure everyone can enjoy the
+  experience, while the moderate pricing adds to its appeal for everyday dining.
+  Drawing from its focus on quality ingredients and varied menu, it's an ideal
+  stop for anyone exploring Japanese flavors in the area, blending simplicity
+  with satisfying meals that keep customers coming back.
+generative_summary: >-
+  About Kondu in State College, PA$$$Kondu in State College, PA, stands out as a
+  welcoming spot for savoring Japanese-inspired dishes in a casual atmosphere.
+  This eatery delights with fresh, flavorful options like inventive sushi rolls
+  and hearty poke bowls, making it a go-to choice for those seeking authentic
+  tastes without the formality. Accessibility features such as
+  wheelchair-friendly entrances and seating ensure everyone can enjoy the
+  experience, while the moderate pricing adds to its appeal for everyday dining.
+  Drawing from its focus on quality ingredients and varied menu, it's an ideal
+  stop for anyone exploring Japanese flavors in the area, blending simplicity
+  with satisfying meals that keep customers coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJhZxiuJiozokRhJJEB307MJM/reviews/ChdDSUhNMG9nS0VJQ0FnSUM2a2Q2d25nRRAB
@@ -329,6 +350,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQ1dUl6c2x3RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQ1dUl6c2x3RRAB!2m1!1s0x89cea898b8629c85:0x93303b7d07449284
+review_summary: >-
+  What Customers Are Saying$$$Visitors often praise the fresh ingredients and
+  tasty sushi options at this spot, highlighting how the bowls and burritos
+  deliver great flavor without overwhelming portions of rice. While some mention
+  that certain sides like noodles might be a bit too salty for some tastes, the
+  overall vibe remains upbeat with solid portions and affordable prices that
+  suit quick meals on the go. Feedback generally appreciates the variety of
+  toppings and high-quality meats, making it a reliable pick for anyone craving
+  Japanese-inspired eats. Even with a rare slip-up on custom orders, the
+  positive experiences outweigh the negatives, painting a picture of a welcoming
+  place that's worth trying for its standout dishes.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   valetParking: false
 payment_options:
@@ -359,7 +392,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

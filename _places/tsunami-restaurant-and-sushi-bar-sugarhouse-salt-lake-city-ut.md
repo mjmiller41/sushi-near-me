@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Tsunami Restaurant and Sushi Bar - Sugarhouse"
+title: Tsunami Restaurant and Sushi Bar - Sugarhouse
 permalink: /utah/salt-lake-city/tsunami-restaurant-and-sushi-bar-sugarhouse.html
 stateAbbr: UT
 stateName: Utah
 cityName: Salt Lake City
 seo:
-  name: "Tsunami Restaurant and Sushi Bar - Sugarhouse"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Tsunami Restaurant and Sushi Bar - Sugarhouse serves delicious sushi in Salt Lake City, Utah. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJq6pqbKCKUocRs8sfqRAAxrs
 photos:
   - name: >-
@@ -185,7 +183,42 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  About Tsunami Restaurant and Sushi Bar in Salt Lake City, UT$$$Tsunami
+  Restaurant and Sushi Bar in Salt Lake City, UT, stands out as a locally owned
+  venue delivering innovative sushi and authentic Japanese flavors in a modern,
+  welcoming atmosphere. This spot excels with its creative rolls and diverse
+  menu of Japanese-inspired dishes, making it a go-to choice for those seeking
+  fresh, high-quality options in a contemporary setting. Accessibility features
+  like wheelchair-friendly parking and entrances ensure a comfortable visit for
+  all guests, enhancing its appeal as an inclusive dining destination. Whether
+  you're exploring sushi restaurants in the area or looking for Japanese places
+  near you, this establishment combines culinary creativity with a relaxed vibe
+  that keeps patrons coming back.
+generative_summary: >-
+  About Tsunami Restaurant and Sushi Bar in Salt Lake City, UT$$$Tsunami
+  Restaurant and Sushi Bar in Salt Lake City, UT, stands out as a locally owned
+  venue delivering innovative sushi and authentic Japanese flavors in a modern,
+  welcoming atmosphere. This spot excels with its creative rolls and diverse
+  menu of Japanese-inspired dishes, making it a go-to choice for those seeking
+  fresh, high-quality options in a contemporary setting. Accessibility features
+  like wheelchair-friendly parking and entrances ensure a comfortable visit for
+  all guests, enhancing its appeal as an inclusive dining destination. Whether
+  you're exploring sushi restaurants in the area or looking for Japanese places
+  near you, this establishment combines culinary creativity with a relaxed vibe
+  that keeps patrons coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Folks frequently praise the fresh and inventive
+  sushi selections at this spot, noting how the variety keeps things exciting
+  for every meal. Many appreciate the cozy, modern ambiance that makes it ideal
+  for casual get-togethers or a quick bite after work. While opinions vary, most
+  agree that the service adds a nice touch, helping to create a welcoming
+  environment overall. It's often recommended as a solid pick for sushi
+  enthusiasts in the neighborhood, with highlights on the flavorful options that
+  cater to different preferences without any major letdowns.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +244,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

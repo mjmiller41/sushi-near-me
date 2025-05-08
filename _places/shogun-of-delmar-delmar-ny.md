@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Shogun of Delmar"
+title: Shogun of Delmar
 permalink: /new-york/delmar/shogun-of-delmar.html
 stateAbbr: NY
 stateName: New York
 cityName: Delmar
 seo:
-  name: "Shogun of Delmar"
-  type: Restaurant
-  links: null
-description: "Shogun of Delmar serves delicious sushi in Delmar, New York. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.shogunofdelmar.com/
 place_id: ChIJZV-3vxHg3YkR3L4vdCoDCDc
 photos:
   - name: >-
@@ -170,22 +168,168 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89dde011bfb75f65:0x3708032a742fbedc!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 9:00 PM'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 9:30 PM'
+    - 'Saturday: 11:00 AM – 9:30 PM'
+    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T01:30:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+  - openNow: true
+    periods:
+      - open:
+          day: 1
+          hour: 11
+          minute: 0
+        close:
+          day: 1
+          hour: 21
+          minute: 0
+      - open:
+          day: 2
+          hour: 11
+          minute: 0
+        close:
+          day: 2
+          hour: 21
+          minute: 0
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 21
+          minute: 0
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 0
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 21
+          minute: 30
+      - open:
+          day: 6
+          hour: 11
+          minute: 0
+        close:
+          day: 6
+          hour: 21
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 11:00 AM – 9:00 PM'
+      - 'Tuesday: 11:00 AM – 9:00 PM'
+      - 'Wednesday: 11:00 AM – 9:00 PM'
+      - 'Thursday: 11:00 AM – 9:00 PM'
+      - 'Friday: 11:00 AM – 9:30 PM'
+      - 'Saturday: 11:00 AM – 9:30 PM'
+      - 'Sunday: Closed'
+    secondaryHoursType: ACCESS
+    nextCloseTime: '2025-05-04T01:30:00Z'
+phone: (518) 729-5727
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.5'
+rating_count: 210
+website: http://www.shogunofdelmar.com/
+description: >-
+  Discover Shogun of Delmar in Delmar, NY$$$Shogun of Delmar in Delmar, NY,
+  stands out as a welcoming Japanese restaurant offering fresh sushi and tempura
+  in a cozy, accessible setting. This spot features a menu of authentic dishes
+  that highlight traditional flavors, making it ideal for those seeking quality
+  Japanese cuisine close to home. With wheelchair-accessible parking, entrances,
+  and seating, it ensures a comfortable experience for all guests, while its
+  moderate pricing appeals to a wide range of diners. Operating from late
+  morning into the evening most days, it's a convenient choice for casual
+  lunches or intimate dinners, blending simplicity with flavorful options that
+  keep locals returning for more.
+generative_summary: >-
+  Discover Shogun of Delmar in Delmar, NY$$$Shogun of Delmar in Delmar, NY,
+  stands out as a welcoming Japanese restaurant offering fresh sushi and tempura
+  in a cozy, accessible setting. This spot features a menu of authentic dishes
+  that highlight traditional flavors, making it ideal for those seeking quality
+  Japanese cuisine close to home. With wheelchair-accessible parking, entrances,
+  and seating, it ensures a comfortable experience for all guests, while its
+  moderate pricing appeals to a wide range of diners. Operating from late
+  morning into the evening most days, it's a convenient choice for casual
+  lunches or intimate dinners, blending simplicity with flavorful options that
+  keep locals returning for more.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Raving About$$$Folks who visit Shogun of Delmar often
+  praise the fresh, well-prepared sushi and other Japanese favorites, noting how
+  the flavors really hit the spot without overwhelming the wallet. Many
+  appreciate the friendly vibe and attentive service that make meals feel
+  relaxed and enjoyable, especially for groups or families stopping by for a
+  quick bite. With a solid 4.5-star rating from numerous reviews, it's clear
+  that the cozy atmosphere and reliable quality keep people coming back for
+  satisfying experiences. While a few mention minor waits during peak times, the
+  overall consensus is that it's a solid pick for anyone craving top-notch
+  Japanese dishes nearby, offering great value that doesn't disappoint.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +355,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

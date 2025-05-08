@@ -5,4 +5,5 @@ permalink: /georgia/cartersville/
 stateAbbr: GA
 stateName: Georgia
 cityName: Cartersville
+
 ---

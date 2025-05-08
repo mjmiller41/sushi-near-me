@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Cucumber Sushi & Salad Bar on Hylan"
+title: Cucumber Sushi & Salad Bar on Hylan
 permalink: /new-york/staten-island/cucumber-sushi-salad-bar-on-hylan.html
 stateAbbr: NY
 stateName: New York
 cityName: Staten Island
 seo:
-  name: "Cucumber Sushi & Salad Bar on Hylan"
-  type: Restaurant
-  links: null
-description: "Cucumber Sushi & Salad Bar on Hylan serves delicious sushi in Staten Island, New York. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://cucumberhylan.com/
 place_id: ChIJv6TotUtKwokRkwAZ1IWd1GA
 photos:
   - name: >-
@@ -169,22 +167,235 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c24a4bb5e8a4bf:0x60d49d85d4190093!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 10:00 PM'
+    - 'Tuesday: Closed'
+    - 'Wednesday: 11:00 AM – 10:00 PM'
+    - 'Thursday: 11:00 AM – 10:00 PM'
+    - 'Friday: 11:00 AM – 10:00 PM'
+    - 'Saturday: 11:00 AM – 10:00 PM'
+    - 'Sunday: 12:00 – 10:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
-phone: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 0
+        close:
+          day: 0
+          hour: 22
+          minute: 0
+      - open:
+          day: 1
+          hour: 11
+          minute: 0
+        close:
+          day: 1
+          hour: 22
+          minute: 0
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 22
+          minute: 0
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 22
+          minute: 0
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 22
+          minute: 0
+      - open:
+          day: 6
+          hour: 11
+          minute: 0
+        close:
+          day: 6
+          hour: 22
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 11:00 AM – 10:00 PM'
+      - 'Tuesday: Closed'
+      - 'Wednesday: 11:00 AM – 10:00 PM'
+      - 'Thursday: 11:00 AM – 10:00 PM'
+      - 'Friday: 11:00 AM – 10:00 PM'
+      - 'Saturday: 11:00 AM – 10:00 PM'
+      - 'Sunday: 12:00 – 10:00 PM'
+    secondaryHoursType: DELIVERY
+    nextCloseTime: '2025-05-04T02:00:00Z'
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 0
+        close:
+          day: 0
+          hour: 22
+          minute: 0
+      - open:
+          day: 1
+          hour: 11
+          minute: 0
+        close:
+          day: 1
+          hour: 22
+          minute: 0
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 22
+          minute: 0
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 22
+          minute: 0
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 22
+          minute: 0
+      - open:
+          day: 6
+          hour: 11
+          minute: 0
+        close:
+          day: 6
+          hour: 22
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 11:00 AM – 10:00 PM'
+      - 'Tuesday: Closed'
+      - 'Wednesday: 11:00 AM – 10:00 PM'
+      - 'Thursday: 11:00 AM – 10:00 PM'
+      - 'Friday: 11:00 AM – 10:00 PM'
+      - 'Saturday: 11:00 AM – 10:00 PM'
+      - 'Sunday: 12:00 – 10:00 PM'
+    secondaryHoursType: TAKEOUT
+    nextCloseTime: '2025-05-04T02:00:00Z'
+phone: (718) 605-9500
 price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+price_range: $10 &ndash; $20
+rating: '4.4'
+rating_count: 137
+website: https://cucumberhylan.com/
+description: >-
+  Discover Cucumber Sushi & Salad Bar in Staten Island, NY$$$Cucumber Sushi &
+  Salad Bar in Staten Island, NY, stands out as a welcoming spot for those
+  seeking fresh Asian-inspired cuisine in a relaxed setting. This sushi
+  restaurant offers a variety of creative rolls and vibrant salads, complemented
+  by a selection of beverages like beer, wine, and sake, making it a go-to
+  choice for casual dining or quick meals. Visitors appreciate the accessible
+  features, including wheelchair-friendly entrances and seating, which enhance
+  the overall experience for everyone. The menu highlights inventive flavors
+  that blend traditional Japanese elements with local twists, perfect for anyone
+  exploring sushi places near me. With its convenient location and inviting
+  atmosphere, it's an ideal destination for enjoying top-rated sushi in a
+  neighborhood-friendly environment.
+generative_summary: >-
+  Discover Cucumber Sushi & Salad Bar in Staten Island, NY$$$Cucumber Sushi &
+  Salad Bar in Staten Island, NY, stands out as a welcoming spot for those
+  seeking fresh Asian-inspired cuisine in a relaxed setting. This sushi
+  restaurant offers a variety of creative rolls and vibrant salads, complemented
+  by a selection of beverages like beer, wine, and sake, making it a go-to
+  choice for casual dining or quick meals. Visitors appreciate the accessible
+  features, including wheelchair-friendly entrances and seating, which enhance
+  the overall experience for everyone. The menu highlights inventive flavors
+  that blend traditional Japanese elements with local twists, perfect for anyone
+  exploring sushi places near me. With its convenient location and inviting
+  atmosphere, it's an ideal destination for enjoying top-rated sushi in a
+  neighborhood-friendly environment.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About This Local Favorite$$$Feedback from diners at
+  this Staten Island sushi spot paints a picture of consistently enjoyable
+  experiences, with many praising the fresh ingredients and flavorful dishes
+  that keep people coming back for more. Visitors often highlight the friendly
+  service and relaxed vibe, noting that it's a great pick for groups or solo
+  diners looking for reliable Japanese-inspired meals nearby. While some mention
+  minor waits during peak hours, the overall sentiment leans positive,
+  especially regarding the value for the price and variety of options that cater
+  to different tastes. Folks searching for sushi restaurants near me seem to
+  appreciate the solid portions and creative presentations, making it a
+  trustworthy choice for everyday cravings. In summary, the high ratings reflect
+  a welcoming spot that's worth trying for anyone in the mood for quality,
+  approachable dining.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +421,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

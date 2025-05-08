@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kona Grill - Kansas City"
+title: Kona Grill - Kansas City
 permalink: /missouri/kansas-city/kona-grill-kansas-city.html
 stateAbbr: MO
 stateName: Missouri
 cityName: Kansas City
 seo:
-  name: "Kona Grill - Kansas City"
-  type: Restaurant
+  type: restaurant
   links: https://konagrill.com/locations?locations=Kansas-City,64112
-description: "Sleek chain with a broad New American menu including low-calorie options, plus sushi & cocktails. Kona Grill - Kansas City serves delicious sushi in Kansas City, Missouri. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJX-ddzrnvwIcRt8BxRSdH56Y
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: null
 rating: '4.5'
 rating_count: 0
 website: https://konagrill.com/locations?locations=Kansas-City,64112
+description: >-
+  Discover Kona Grill in Kansas City, MO$$$Nestled in the heart of Kansas City,
+  MO, Kona Grill stands out as a vibrant American grill that blends global
+  flavors with a focus on fresh seafood and sushi options. This modern eatery
+  offers an inviting atmosphere with accessible features like
+  wheelchair-friendly entrances and parking, making it easy for everyone to
+  enjoy a meal. Patrons can savor a diverse menu that includes innovative dishes
+  inspired by international cuisine, alongside creative cocktails and lighter
+  fare for those seeking healthier choices. The restaurant's contemporary design
+  enhances the dining experience, providing a stylish backdrop for everything
+  from casual lunches to special occasions. With its emphasis on quality
+  ingredients and a variety of sushi selections, it's a go-to spot for anyone
+  exploring top-rated dining options in the area.
+generative_summary: >-
+  Discover Kona Grill in Kansas City, MO$$$Nestled in the heart of Kansas City,
+  MO, Kona Grill stands out as a vibrant American grill that blends global
+  flavors with a focus on fresh seafood and sushi options. This modern eatery
+  offers an inviting atmosphere with accessible features like
+  wheelchair-friendly entrances and parking, making it easy for everyone to
+  enjoy a meal. Patrons can savor a diverse menu that includes innovative dishes
+  inspired by international cuisine, alongside creative cocktails and lighter
+  fare for those seeking healthier choices. The restaurant's contemporary design
+  enhances the dining experience, providing a stylish backdrop for everything
+  from casual lunches to special occasions. With its emphasis on quality
+  ingredients and a variety of sushi selections, it's a go-to spot for anyone
+  exploring top-rated dining options in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJX-ddzrnvwIcRt8BxRSdH56Y/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJblo2Rkx3EAE
@@ -370,6 +395,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR2Z3BfaDV3RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR2Z3BfaDV3RRAB!2m1!1s0x87c0efb9ce5de75f:0xa6e747274571c0b7
+review_summary: >-
+  What Guests Are Saying$$$Visitors to this spot often rave about the friendly
+  service and tasty menu items, making it a solid choice for a night out or
+  happy hour fun. Many appreciate the fresh flavors in dishes like sushi and
+  seafood, noting that they hit the spot for those craving something light and
+  satisfying. While some mention that prices feel a bit steep for the portion
+  sizes, the overall vibe and quick service keep things enjoyable and worth the
+  visit. Folks enjoy the welcoming environment, especially for groups or casual
+  gatherings, with highlights on well-prepared entrees that leave a positive
+  impression. All in all, it's a reliable pick for sushi enthusiasts looking for
+  a mix of American twists and global tastes, offering a generally upbeat
+  experience despite minor areas for improvement.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -403,8 +441,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Sleek chain with a broad New American menu including low-calorie options, plus
   sushi & cocktails.
 

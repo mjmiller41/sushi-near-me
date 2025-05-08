@@ -5,4 +5,5 @@ permalink: /kentucky/crescent-springs/
 stateAbbr: KY
 stateName: Kentucky
 cityName: Crescent Springs
+
 ---

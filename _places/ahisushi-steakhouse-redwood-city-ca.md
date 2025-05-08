@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "AhiSushi Steakhouse"
+title: AhiSushi Steakhouse
 permalink: /california/redwood-city/ahisushi-steakhouse.html
 stateAbbr: CA
 stateName: California
 cityName: Redwood City
 seo:
-  name: "AhiSushi Steakhouse"
-  type: Restaurant
+  type: restaurant
   links: https://www.ahisushihibachica.com/
-description: "Chill dining space serving sushi & Japanese entrees such as hibachi & teriyaki, plus lunch specials. AhiSushi Steakhouse serves delicious sushi in Redwood City, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJP-i6Iaujj4ARZANvuhslxqQ
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 0
 website: https://www.ahisushihibachica.com/
+description: >-
+  Discover AhiSushi Steakhouse in Redwood City, CA$$$AhiSushi Steakhouse in
+  Redwood City, California, stands out as a welcoming spot for savoring fresh
+  Japanese flavors, blending traditional dishes with modern twists. This
+  restaurant delights with a variety of sushi rolls, bento boxes, and options
+  for vegetarian and gluten-free diners, making it a versatile choice for
+  different tastes. The cozy dining space features accessible entrances and
+  seating, ensuring everyone can enjoy a comfortable meal without hassle. Beyond
+  the tasty entrees like hibachi and teriyaki, lunch specials add great value
+  for those seeking satisfying yet affordable options. Whether you're exploring
+  local sushi spots or looking for a relaxed evening out, this establishment
+  captures the essence of Japanese dining with its thoughtful ambiance and
+  flavorful selections.
+generative_summary: >-
+  Discover AhiSushi Steakhouse in Redwood City, CA$$$AhiSushi Steakhouse in
+  Redwood City, California, stands out as a welcoming spot for savoring fresh
+  Japanese flavors, blending traditional dishes with modern twists. This
+  restaurant delights with a variety of sushi rolls, bento boxes, and options
+  for vegetarian and gluten-free diners, making it a versatile choice for
+  different tastes. The cozy dining space features accessible entrances and
+  seating, ensuring everyone can enjoy a comfortable meal without hassle. Beyond
+  the tasty entrees like hibachi and teriyaki, lunch specials add great value
+  for those seeking satisfying yet affordable options. Whether you're exploring
+  local sushi spots or looking for a relaxed evening out, this establishment
+  captures the essence of Japanese dining with its thoughtful ambiance and
+  flavorful selections.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJP-i6Iaujj4ARZANvuhslxqQ/reviews/ChZDSUhNMG9nS0VJQ0FnSUR2Xy1fNUJ3EAE
@@ -422,6 +447,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNnNGREQWh3RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNnNGREQWh3RRAB!2m1!1s0x808fa3ab21bae83f:0xa4c6251bba6f0364
+review_summary: >-
+  What Customers Love About This Sushi Favorite$$$Folks often rave about the
+  tasty sushi and creative specials that make every visit feel special,
+  highlighting the fresh ingredients and solid value for the price. Many
+  appreciate the friendly service and ability to customize orders, turning meals
+  into personalized experiences that keep diners coming back. While most
+  feedback praises the welcoming atmosphere and generous portions perfect for
+  families or groups, a few mentions point to occasional billing surprises that
+  could use some smoothing out. Overall, it's a go-to for anyone craving
+  authentic Japanese vibes without breaking the bank, with compliments on the
+  unique daily offerings that add excitement to the menu. If you're on the hunt
+  for quality sushi nearby, this spot delivers a reliably enjoyable vibe that
+  leaves most patrons eager to return.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -454,8 +493,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Chill dining space serving sushi & Japanese entrees such as hibachi &
   teriyaki, plus lunch specials.
 

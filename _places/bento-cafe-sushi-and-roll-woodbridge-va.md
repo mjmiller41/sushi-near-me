@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Bento Cafe Sushi and Roll"
+title: Bento Cafe Sushi and Roll
 permalink: /virginia/woodbridge/bento-cafe-sushi-and-roll.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Woodbridge
 seo:
-  name: "Bento Cafe Sushi and Roll"
-  type: Restaurant
+  type: restaurant
   links: http://www.bentocafesushiandroll.com/
-description: "Japanese seafood specialties offered in a down-to-earth strip-mall bistro with free Wi-Fi. Bento Cafe Sushi and Roll serves delicious sushi in Woodbridge, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJb8jIqnNWtokRporQk26qa4A
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: null
 rating: '4.3'
 rating_count: 0
 website: http://www.bentocafesushiandroll.com/
+description: >-
+  Discover Bento Cafe Sushi and Roll in Woodbridge, VA$$$Bento Cafe Sushi and
+  Roll in Woodbridge, VA, stands out as a welcoming spot for enjoying
+  Japanese-inspired dishes in a relaxed, family-friendly environment. This cozy
+  eatery specializes in fresh sushi rolls, flavorful bento boxes, and other
+  authentic fare that highlights quality ingredients and thoughtful preparation.
+  Visitors can appreciate the accessible features like wheelchair-friendly
+  entrances and seating, making it easier for everyone to savor the experience.
+  The atmosphere combines casual vibes with a touch of warmth, ideal for those
+  seeking local sushi options or a quick Japanese meal. Drawing from its
+  inviting setup, it's a great choice for anyone exploring nearby dining spots
+  in the area.
+generative_summary: >-
+  Discover Bento Cafe Sushi and Roll in Woodbridge, VA$$$Bento Cafe Sushi and
+  Roll in Woodbridge, VA, stands out as a welcoming spot for enjoying
+  Japanese-inspired dishes in a relaxed, family-friendly environment. This cozy
+  eatery specializes in fresh sushi rolls, flavorful bento boxes, and other
+  authentic fare that highlights quality ingredients and thoughtful preparation.
+  Visitors can appreciate the accessible features like wheelchair-friendly
+  entrances and seating, making it easier for everyone to savor the experience.
+  The atmosphere combines casual vibes with a touch of warmth, ideal for those
+  seeking local sushi options or a quick Japanese meal. Drawing from its
+  inviting setup, it's a great choice for anyone exploring nearby dining spots
+  in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJb8jIqnNWtokRporQk26qa4A/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJMGNIbnlBRRAB
@@ -360,6 +383,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNRbF96UldnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNRbF96UldnEAE!2m1!1s0x89b65673aac8c86f:0x806baa6e93d08aa6
+review_summary: >-
+  What Customers Are Saying About This Spot$$$Folks rave about the tasty sushi
+  and dumplings here, often highlighting the fresh flavors and welcoming feel
+  that make meals feel special and satisfying. While some mention that prices
+  can feel a bit steep for the portions, many agree the overall experience is
+  worth it for the quality and care put into each dish. Reviewers appreciate the
+  friendly service and homestyle touches that add a nice, comforting layer to
+  visits, even if occasional waits or add-ons come up. Overall, it's seen as a
+  solid pick for anyone craving Japanese cuisine, with plenty of positive nods
+  to the vibrant tastes and relaxed setting. If you're on the hunt for reliable
+  local eats, this place tends to deliver a mostly enjoyable vibe that keeps
+  people coming back.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -392,8 +428,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: null
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Japanese seafood specialties offered in a down-to-earth strip-mall bistro with
   free Wi-Fi.
 

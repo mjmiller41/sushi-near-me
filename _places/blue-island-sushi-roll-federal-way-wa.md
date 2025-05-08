@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Blue Island Sushi & Roll"
+title: Blue Island Sushi & Roll
 permalink: /washington/federal-way/blue-island-sushi-roll.html
 stateAbbr: WA
 stateName: Washington
 cityName: Federal Way
 seo:
-  name: "Blue Island Sushi & Roll"
-  type: Restaurant
+  type: restaurant
   links: http://www.blueislandsushi.com/
-description: "Blue Island Sushi & Roll serves delicious sushi in Federal Way, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJr__HWchXkFQRW5RrrNfqZdM
 photos:
   - name: >-
@@ -170,7 +168,97 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x549057c859c7ffaf:0xd365ead7ac6b945b!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 15
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 15
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 3:00 PM, 4:30 – 9:00 PM'
     - 'Tuesday: 11:00 AM – 3:00 PM, 4:30 – 9:00 PM'
     - 'Wednesday: 11:00 AM – 3:00 PM, 4:30 – 9:00 PM'
@@ -178,14 +266,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:00 PM'
     - 'Saturday: 11:00 AM – 10:00 PM'
     - 'Sunday: 12:00 – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 3:00 PM, 4:30 – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 3:00 PM, 4:30 – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 3:00 PM, 4:30 – 9:00 PM'
-    - 'Thursday: 11:00 AM – 3:00 PM, 4:30 – 9:00 PM'
-    - 'Friday: 11:00 AM – 10:00 PM'
-    - 'Saturday: 11:00 AM – 10:00 PM'
-    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T05:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +278,259 @@ phone: (253) 838-5500
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.0'
-rating_count: 0
+rating_count: 976
 website: http://www.blueislandsushi.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Blue Island Sushi & Roll in Federal Way, WA$$$Nestled in Federal Way,
+  WA, Blue Island Sushi & Roll stands out as a vibrant spot for sushi
+  enthusiasts seeking fresh Asian fusion options. This modern eatery features a
+  unique conveyor belt system that brings a variety of raw and cooked dishes
+  right to your table, making it an engaging choice for casual dining. With a
+  focus on quality ingredients and a welcoming atmosphere, it offers a range of
+  sushi rolls and fusion fare that cater to diverse tastes, all at moderate
+  prices. The restaurant is also accessible and family-friendly, with options
+  for quick bites or leisurely meals, making it a go-to for local sushi dining
+  experiences.
+generative_summary: >-
+  Discover Blue Island Sushi & Roll in Federal Way, WA$$$Nestled in Federal Way,
+  WA, Blue Island Sushi & Roll stands out as a vibrant spot for sushi
+  enthusiasts seeking fresh Asian fusion options. This modern eatery features a
+  unique conveyor belt system that brings a variety of raw and cooked dishes
+  right to your table, making it an engaging choice for casual dining. With a
+  focus on quality ingredients and a welcoming atmosphere, it offers a range of
+  sushi rolls and fusion fare that cater to diverse tastes, all at moderate
+  prices. The restaurant is also accessible and family-friendly, with options
+  for quick bites or leisurely meals, making it a go-to for local sushi dining
+  experiences.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJr__HWchXkFQRW5RrrNfqZdM/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3MDlMenNnRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Great service, everyone was friendly and helpful. Food was excellent! We
+        ordered 3 rolls, the volcano, the godzilla, and the federal way. We also
+        got 3 plates from the conveyer. All of it was very good and fresh.
+        Prices were good as well! 5 star
+      languageCode: en
+    originalText:
+      text: >-
+        Great service, everyone was friendly and helpful. Food was excellent! We
+        ordered 3 rolls, the volcano, the godzilla, and the federal way. We also
+        got 3 plates from the conveyer. All of it was very good and fresh.
+        Prices were good as well! 5 star
+      languageCode: en
+    authorAttribution:
+      displayName: Elizabeth Rabago
+      uri: https://www.google.com/maps/contrib/101283995027246043044/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjV_4LIcBSFSISgYKDMh8RCdCvCBxfSS9uY6Jh7DSShCb8FXLAVfUQ=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-03-28T03:27:36.083097Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUR3MDlMenNnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUR3MDlMenNnRRAB!2m1!1s0x549057c859c7ffaf:0xd365ead7ac6b945b
+  - name: >-
+      places/ChIJr__HWchXkFQRW5RrrNfqZdM/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRNE5qSkFnEAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        Amazing Sushi!! Love the atmosphere!! Best service ever from Olivia!!!
+        We come to Blue Island to celebrate or whenever we are craving some
+        fresh & delicious sushi. Blue Island never disappoints and seems to only
+        get better and better. Super kid friendly as well and they love the cozy
+        and warm atmosphere The conveyor belt dishes are always fresh and
+        appetizing too. WE ♥️ BLUE ISLAND SUSHI!!
+      languageCode: en
+    originalText:
+      text: >-
+        Amazing Sushi!! Love the atmosphere!! Best service ever from Olivia!!!
+        We come to Blue Island to celebrate or whenever we are craving some
+        fresh & delicious sushi. Blue Island never disappoints and seems to only
+        get better and better. Super kid friendly as well and they love the cozy
+        and warm atmosphere The conveyor belt dishes are always fresh and
+        appetizing too. WE ♥️ BLUE ISLAND SUSHI!!
+      languageCode: en
+    authorAttribution:
+      displayName: Samantha Phenix
+      uri: https://www.google.com/maps/contrib/115437957457012013778/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWiz26t0KNzsCvFXJ66fGurL0YJEn-Rcglabb17a5kS6tzqcqfZ=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-01T04:23:30.286384Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNRNE5qSkFnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNRNE5qSkFnEAE!2m1!1s0x549057c859c7ffaf:0xd365ead7ac6b945b
+  - name: >-
+      places/ChIJr__HWchXkFQRW5RrrNfqZdM/reviews/ChdDSUhNMG9nS0VJQ0FnSURYZ1lQVjNBRRAB
+    relativePublishTimeDescription: 6 months ago
+    rating: 4
+    text:
+      text: >-
+        Went in a late lunch on Sunday. Not too busy when we walked in.The
+        seating area was clean. Typical conveyor belt items. You can order fresh
+        as well. I did see a few items circle for a long duration, I skipped
+        those. There were some items without a cover, I skipped those too. I did
+        see staff refresh the items within acceptable intervals. The prices are
+        good. The food tastes good. I asked for ginger and got a good serving.
+        The food is presented well. The staff is welcoming. I ate, I was happy,
+        my tummy was happy after 2+hrs of leaving. I will be going back.
+      languageCode: en
+    originalText:
+      text: >-
+        Went in a late lunch on Sunday. Not too busy when we walked in.The
+        seating area was clean. Typical conveyor belt items. You can order fresh
+        as well. I did see a few items circle for a long duration, I skipped
+        those. There were some items without a cover, I skipped those too. I did
+        see staff refresh the items within acceptable intervals. The prices are
+        good. The food tastes good. I asked for ginger and got a good serving.
+        The food is presented well. The staff is welcoming. I ate, I was happy,
+        my tummy was happy after 2+hrs of leaving. I will be going back.
+      languageCode: en
+    authorAttribution:
+      displayName: ACaring Adult Home
+      uri: https://www.google.com/maps/contrib/108677545310544324606/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLRpH0J7mEIycbRrnJAEdSq2pThQQw1qCgrBk9uohcQzgjB=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-10-28T01:06:03.880342Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURYZ1lQVjNBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURYZ1lQVjNBRRAB!2m1!1s0x549057c859c7ffaf:0xd365ead7ac6b945b
+  - name: >-
+      places/ChIJr__HWchXkFQRW5RrrNfqZdM/reviews/ChdDSUhNMG9nS0VJQ0FnSUNycG9heHlBRRAB
+    relativePublishTimeDescription: 9 months ago
+    rating: 5
+    text:
+      text: >-
+        I had been wanting to eat here for a long time because I absolutely love
+        sushi. I come from Vancouver Canada and it's home to some of the best
+        Asian food in the world so a lot of places in Washington don't compare
+        but this restaurant is definitely on my list of top sushi places. I've
+        had conveyor sushi at other locations around town but usually the
+        quality, flavours and/or freshness is an issue but not here.
+
+        The service is excellent, the atmosphere is pretty mellow and the prices
+        are fantastic.
+
+        I really enjoyed their crab salad filling it had a very nice sweet,
+        clean, fresh flavour and the Unagi was torched perfectly and has that
+        fantastic charred flavour that I love. The spring rolls and tempura were
+        fried perfectly, everything was fresh and they restock the conveyor
+        frequently but you can also order from the menu. The prices here are
+        also totally reasonable and was about $30/person including tip and
+        believe me we stuffed out faces.
+
+        I can't wait to come back
+      languageCode: en
+    originalText:
+      text: >-
+        I had been wanting to eat here for a long time because I absolutely love
+        sushi. I come from Vancouver Canada and it's home to some of the best
+        Asian food in the world so a lot of places in Washington don't compare
+        but this restaurant is definitely on my list of top sushi places. I've
+        had conveyor sushi at other locations around town but usually the
+        quality, flavours and/or freshness is an issue but not here.
+
+        The service is excellent, the atmosphere is pretty mellow and the prices
+        are fantastic.
+
+        I really enjoyed their crab salad filling it had a very nice sweet,
+        clean, fresh flavour and the Unagi was torched perfectly and has that
+        fantastic charred flavour that I love. The spring rolls and tempura were
+        fried perfectly, everything was fresh and they restock the conveyor
+        frequently but you can also order from the menu. The prices here are
+        also totally reasonable and was about $30/person including tip and
+        believe me we stuffed out faces.
+
+        I can't wait to come back
+      languageCode: en
+    authorAttribution:
+      displayName: Amy D
+      uri: https://www.google.com/maps/contrib/112266701959234000922/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWwPsKd6heNd2FeS735a6NYsEkjXxPvwxwQBwsneq5SRg-Rl7RC7A=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2024-07-20T23:06:14.252036Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNycG9heHlBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNycG9heHlBRRAB!2m1!1s0x549057c859c7ffaf:0xd365ead7ac6b945b
+  - name: >-
+      places/ChIJr__HWchXkFQRW5RrrNfqZdM/reviews/ChZDSUhNMG9nS0VJQ0FnTURJOFpXZ0d3EAE
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 5
+    text:
+      text: >-
+        I have a service animal an they were very awesome. The price was decent
+        an we grubbed.
+      languageCode: en
+    originalText:
+      text: >-
+        I have a service animal an they were very awesome. The price was decent
+        an we grubbed.
+      languageCode: en
+    authorAttribution:
+      displayName: Jade Segovia
+      uri: https://www.google.com/maps/contrib/105770771999460796201/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjW2VAfTLoH-XCBk3gtsZ_xD0S3G494DA8FZ3-Y8akMV7LgnXAX1uQ=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-04-10T22:56:36.048441Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURJOFpXZ0d3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJOFpXZ0d3EAE!2m1!1s0x549057c859c7ffaf:0xd365ead7ac6b945b
+review_summary: >-
+  What Customers Love About This Sushi Spot$$$Visitors often rave about the
+  fresh flavors and variety found on the conveyor belt, with many highlighting
+  the delicious rolls and overall value that keep them coming back. Folks
+  appreciate the friendly service and reasonable prices, which make it easy to
+  enjoy a satisfying meal without breaking the bank, especially for groups or
+  families. While some note that the selection might vary, the general consensus
+  is that the food remains tasty and well-prepared, adding to its appeal as a
+  reliable choice for casual sushi outings. Overall, it's praised for being
+  kid-friendly and accommodating, offering a fun atmosphere that enhances the
+  dining experience. If you're searching for top-rated sushi near you, this spot
+  delivers a solid mix of quality and convenience that leaves diners feeling
+  pleased.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
+curbside_pickup: false
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
 menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
 serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+serves_brunch: false
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Self-serve pick for raw & cooked Japanese fare that floats by via conveyor
+  belt in modern environs.
 
 ---

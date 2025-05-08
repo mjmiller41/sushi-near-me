@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Japan"
+title: Sushi Japan
 permalink: /michigan/birmingham/sushi-japan.html
 stateAbbr: MI
 stateName: Michigan
 cityName: Birmingham
 seo:
-  name: "Sushi Japan"
-  type: Restaurant
-  links: null
-description: "Sushi Japan serves delicious sushi in Birmingham, Michigan. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://sushijapanmi.com/
 place_id: ChIJheA4ZzjHJIgRsAd7xomQVRQ
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8824c7386738e085:0x14559089c67b07b0!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:30 PM'
+    - 'Tuesday: 11:00 AM – 9:30 PM'
+    - 'Wednesday: 11:00 AM – 9:30 PM'
+    - 'Thursday: 11:00 AM – 9:30 PM'
+    - 'Friday: 11:00 AM – 10:00 PM'
+    - 'Saturday: 12:00 – 10:00 PM'
+    - 'Sunday: 12:00 – 9:30 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,49 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
+phone: (248) 220-4914
+price_level: PRICE_LEVEL_MODERATE
 price_range: null
-rating: null
-rating_count: 0
-website: null
+rating: '4.3'
+rating_count: 116
+website: http://sushijapanmi.com/
+description: >-
+  Discover Sushi Japan in Birmingham, MI$$$Sushi Japan in Birmingham, MI, stands
+  out as a casual dining spot offering an array of Japanese, Chinese, and Korean
+  flavors that appeal to those exploring local Asian cuisine options. The
+  restaurant features fresh, well-prepared dishes in a relaxed atmosphere,
+  making it an ideal choice for anyone seeking authentic tastes without the
+  formality of upscale settings. With accessibility features like
+  wheelchair-friendly entrances and seating, it ensures a welcoming experience
+  for all visitors, enhancing its appeal as a go-to spot in the area. Operating
+  with extended hours throughout the week, including evenings and weekends, it's
+  perfect for spontaneous meals or planned outings with friends and family.
+generative_summary: >-
+  Discover Sushi Japan in Birmingham, MI$$$Sushi Japan in Birmingham, MI, stands
+  out as a casual dining spot offering an array of Japanese, Chinese, and Korean
+  flavors that appeal to those exploring local Asian cuisine options. The
+  restaurant features fresh, well-prepared dishes in a relaxed atmosphere,
+  making it an ideal choice for anyone seeking authentic tastes without the
+  formality of upscale settings. With accessibility features like
+  wheelchair-friendly entrances and seating, it ensures a welcoming experience
+  for all visitors, enhancing its appeal as a go-to spot in the area. Operating
+  with extended hours throughout the week, including evenings and weekends, it's
+  perfect for spontaneous meals or planned outings with friends and family.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying About This Spot$$$Folks around town rave about the
+  wide range of tasty options at this sushi place, highlighting flavorful rolls,
+  savory chicken dishes, and fresh appetizers that keep diners coming back for
+  more. Many appreciate the calm vibe and reasonable prices, making it a solid
+  pick for casual get-togethers or quick bites without breaking the bank. While
+  some note that service can occasionally take a little longer during busy
+  times, the overall experience is still seen as worthwhile thanks to the
+  quality and variety on offer. In general, it's praised as a reliable choice
+  for fresh meals that satisfy cravings, leaving most people eager to return for
+  another visit. If you're on the hunt for dependable local eats, this spot
+  often delivers a pleasant surprise with its balanced menu and inviting feel.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +310,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

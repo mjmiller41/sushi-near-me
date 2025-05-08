@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kendy's Sushi & Peking Garden"
+title: Kendy's Sushi & Peking Garden
 permalink: /new-jersey/sayreville/kendy-s-sushi-peking-garden.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Sayreville
 seo:
-  name: "Kendy's Sushi & Peking Garden"
-  type: Restaurant
+  type: restaurant
   links: http://kendyssushi881.com/
-description: "Kendy's Sushi & Peking Garden serves delicious sushi in Sayreville, New Jersey. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJZdSKRHvJw4kRx-c2aIfGe0Y
 photos:
   - name: >-
@@ -168,7 +166,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c3c97b448ad465:0x467bc6876836e7c7!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:00 AM – 10:00 PM'
     - 'Wednesday: 11:00 AM – 10:00 PM'
@@ -176,14 +224,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:30 PM'
     - 'Saturday: 11:00 AM – 10:30 PM'
     - 'Sunday: 12:00 – 10:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:00 AM – 10:00 PM'
-    - 'Wednesday: 11:00 AM – 10:00 PM'
-    - 'Thursday: 11:00 AM – 10:00 PM'
-    - 'Friday: 11:00 AM – 10:30 PM'
-    - 'Saturday: 11:00 AM – 10:30 PM'
-    - 'Sunday: 12:00 – 10:00 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -195,9 +236,47 @@ phone: (732) 525-0707
 price_level: PRICE_LEVEL_INEXPENSIVE
 price_range: $10 &ndash; $20
 rating: '4.0'
-rating_count: 0
+rating_count: 135
 website: http://kendyssushi881.com/
+description: >-
+  Discover Kendy's Sushi & Peking Garden in Sayreville, NJ$$$Kendy's Sushi &
+  Peking Garden in Sayreville, NJ, serves up a welcoming mix of
+  Japanese-inspired dishes and casual Chinese favorites, making it a go-to spot
+  for flavorful meals in a relaxed atmosphere. This eatery stands out with its
+  affordable pricing and accessibility features, such as wheelchair-friendly
+  entrances, ensuring everyone can enjoy the experience. Fresh sushi options and
+  vegetarian choices add to the appeal, perfect for those exploring top-rated
+  Japanese places near urban hubs. The venue also offers convenient delivery,
+  ideal for busy days when you're craving sushi close to home. With inviting
+  photos showcasing vibrant plates, it's easy to see why this spot draws in
+  locals seeking authentic flavors without the fuss.
+generative_summary: >-
+  Discover Kendy's Sushi & Peking Garden in Sayreville, NJ$$$Kendy's Sushi &
+  Peking Garden in Sayreville, NJ, serves up a welcoming mix of
+  Japanese-inspired dishes and casual Chinese favorites, making it a go-to spot
+  for flavorful meals in a relaxed atmosphere. This eatery stands out with its
+  affordable pricing and accessibility features, such as wheelchair-friendly
+  entrances, ensuring everyone can enjoy the experience. Fresh sushi options and
+  vegetarian choices add to the appeal, perfect for those exploring top-rated
+  Japanese places near urban hubs. The venue also offers convenient delivery,
+  ideal for busy days when you're craving sushi close to home. With inviting
+  photos showcasing vibrant plates, it's easy to see why this spot draws in
+  locals seeking authentic flavors without the fuss.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Customer Feedback$$$Folks who've visited Kendy's Sushi & Peking
+  Garden often rave about the fresh ingredients and solid variety of rolls,
+  helping it maintain a strong reputation among sushi spots in the area. Many
+  appreciate the quick service and reasonable prices, making it a reliable
+  choice for casual family outings or quick bites. While some mention the
+  atmosphere feels straightforward, the overall vibe leans positive with
+  highlights on tasty options that satisfy cravings for Japanese-inspired fare.
+  It's clear that diners enjoy the balance of flavors, with plenty of nods to
+  the vegetarian selections that keep things inclusive. If you're hunting for
+  dependable sushi restaurants nearby, this place generally delivers a
+  satisfying meal that lives up to its approachable style.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -223,7 +302,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

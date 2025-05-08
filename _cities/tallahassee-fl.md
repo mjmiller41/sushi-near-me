@@ -5,4 +5,5 @@ permalink: /florida/tallahassee/
 stateAbbr: FL
 stateName: Florida
 cityName: Tallahassee
+
 ---

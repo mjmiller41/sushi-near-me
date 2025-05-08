@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sultan Wok Highland Park"
+title: Sultan Wok Highland Park
 permalink: /new-jersey/highland-park/sultan-wok-highland-park.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Highland Park
 seo:
-  name: "Sultan Wok Highland Park"
-  type: Restaurant
-  links: null
-description: "Sultan Wok Highland Park serves delicious sushi in Highland Park, New Jersey. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://asianexpressonlineorder.com/
 place_id: ChIJ3WaPYMvHw4kRTmNQqAJKCIk
 photos:
   - name: >-
@@ -168,22 +166,231 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c3c7cb608f66dd:0x89084a02a850634e!10e5
 primary_type: Chinese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 10
+        minute: 30
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 10
+        minute: 30
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 10
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 10
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 10
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 10
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 10:30 AM – 10:00 PM'
+    - 'Tuesday: Closed'
+    - 'Wednesday: 10:30 AM – 10:00 PM'
+    - 'Thursday: 10:30 AM – 10:00 PM'
+    - 'Friday: 10:30 AM – 10:00 PM'
+    - 'Saturday: 10:30 AM – 10:00 PM'
+    - 'Sunday: 10:30 AM – 10:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 11
+          minute: 0
+        close:
+          day: 0
+          hour: 21
+          minute: 45
+      - open:
+          day: 1
+          hour: 10
+          minute: 30
+        close:
+          day: 1
+          hour: 22
+          minute: 15
+      - open:
+          day: 3
+          hour: 10
+          minute: 30
+        close:
+          day: 3
+          hour: 22
+          minute: 15
+      - open:
+          day: 4
+          hour: 10
+          minute: 30
+        close:
+          day: 4
+          hour: 22
+          minute: 15
+      - open:
+          day: 5
+          hour: 10
+          minute: 30
+        close:
+          day: 5
+          hour: 22
+          minute: 45
+      - open:
+          day: 6
+          hour: 10
+          minute: 30
+        close:
+          day: 6
+          hour: 22
+          minute: 45
+    weekdayDescriptions:
+      - 'Monday: 10:30 AM – 10:15 PM'
+      - 'Tuesday: Closed'
+      - 'Wednesday: 10:30 AM – 10:15 PM'
+      - 'Thursday: 10:30 AM – 10:15 PM'
+      - 'Friday: 10:30 AM – 10:45 PM'
+      - 'Saturday: 10:30 AM – 10:45 PM'
+      - 'Sunday: 11:00 AM – 9:45 PM'
+    secondaryHoursType: DELIVERY
+    nextCloseTime: '2025-05-04T02:45:00Z'
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 11
+          minute: 0
+        close:
+          day: 0
+          hour: 21
+          minute: 45
+      - open:
+          day: 1
+          hour: 10
+          minute: 30
+        close:
+          day: 1
+          hour: 22
+          minute: 15
+      - open:
+          day: 3
+          hour: 10
+          minute: 30
+        close:
+          day: 3
+          hour: 22
+          minute: 15
+      - open:
+          day: 4
+          hour: 10
+          minute: 30
+        close:
+          day: 4
+          hour: 22
+          minute: 15
+      - open:
+          day: 5
+          hour: 10
+          minute: 30
+        close:
+          day: 5
+          hour: 22
+          minute: 45
+      - open:
+          day: 6
+          hour: 10
+          minute: 30
+        close:
+          day: 6
+          hour: 22
+          minute: 45
+    weekdayDescriptions:
+      - 'Monday: 10:30 AM – 10:15 PM'
+      - 'Tuesday: Closed'
+      - 'Wednesday: 10:30 AM – 10:15 PM'
+      - 'Thursday: 10:30 AM – 10:15 PM'
+      - 'Friday: 10:30 AM – 10:45 PM'
+      - 'Saturday: 10:30 AM – 10:45 PM'
+      - 'Sunday: 11:00 AM – 9:45 PM'
+    secondaryHoursType: TAKEOUT
+    nextCloseTime: '2025-05-04T02:45:00Z'
+phone: (732) 393-9656
+price_level: PRICE_LEVEL_INEXPENSIVE
+price_range: $10 &ndash; $20
+rating: '4.0'
+rating_count: 236
+website: https://asianexpressonlineorder.com/
+description: >-
+  Discover Sultan Wok in Highland Park, NJ$$$Sultan Wok in Highland Park, NJ,
+  stands out as a welcoming counter-serve eatery known for its blend of classic
+  Chinese dishes and fresh sushi selections. The spot offers a diverse menu that
+  caters to various tastes, featuring affordable options like stir-fries and
+  handcrafted rolls, all served in a casual, efficient setting. Accessibility
+  features such as wheelchair-friendly parking and entrances make it easy for
+  everyone to enjoy a meal, while its convenient hours from late morning to
+  evening add to its appeal for quick lunches or dinners. Whether you're seeking
+  sushi places near you or simply craving flavorful Asian-inspired cuisine, this
+  location provides a straightforward dining experience that emphasizes variety
+  and value.
+generative_summary: >-
+  Discover Sultan Wok in Highland Park, NJ$$$Sultan Wok in Highland Park, NJ,
+  stands out as a welcoming counter-serve eatery known for its blend of classic
+  Chinese dishes and fresh sushi selections. The spot offers a diverse menu that
+  caters to various tastes, featuring affordable options like stir-fries and
+  handcrafted rolls, all served in a casual, efficient setting. Accessibility
+  features such as wheelchair-friendly parking and entrances make it easy for
+  everyone to enjoy a meal, while its convenient hours from late morning to
+  evening add to its appeal for quick lunches or dinners. Whether you're seeking
+  sushi places near you or simply craving flavorful Asian-inspired cuisine, this
+  location provides a straightforward dining experience that emphasizes variety
+  and value.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Feedback from diners at this spot often highlights
+  the tasty sushi and reliable Chinese favorites, making it a solid choice for
+  anyone hunting for local eats. Many appreciate the fresh ingredients and
+  generous portions that deliver good value for the price, helping it maintain a
+  strong overall rating. While some mention occasional wait times during peak
+  hours, the general consensus leans positive, with folks enjoying the
+  straightforward service and flavorful options that keep them coming back. If
+  you're exploring top-rated sushi restaurants nearby, this place gets nods for
+  its approachable vibe and satisfying meals that balance taste and
+  affordability. Overall, it's a go-to for casual diners looking for honest,
+  enjoyable Asian fare without the fuss.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -209,7 +416,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Blu Sushi"
+title: Blu Sushi
 permalink: /florida/fort-myers/blu-sushi.html
 stateAbbr: FL
 stateName: Florida
 cityName: Fort Myers
 seo:
-  name: "Blu Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.blusushi.com/
-description: "Japanese eatery serving creative sushi & specialty cocktails in a chic setting with a bustling vibe. Blu Sushi serves delicious sushi in Fort Myers, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJe8Ld8nQ_24gRDZcxdse--_o
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: null
 rating: '4.2'
 rating_count: 0
 website: http://www.blusushi.com/
+description: >-
+  Experience Blu Sushi in Fort Myers, FL$$$Blu Sushi in Fort Myers, FL, stands
+  out as a vibrant Japanese restaurant offering creative sushi rolls and
+  specialty cocktails in a chic, bustling environment. The spot features fresh,
+  flavorful dishes that highlight innovative flavors and high-quality
+  ingredients, making it a go-to choice for sushi enthusiasts seeking variety.
+  With options for outdoor seating and a welcoming vibe, it's ideal for casual
+  gatherings or unwinding after a day out. Patrons appreciate the attentive
+  service and thoughtful menu selections, including vegetarian-friendly choices
+  and refreshing beverages. This lively eatery near Fort Myers captures the
+  essence of Japanese dining, perfect for those exploring top-rated sushi
+  options in the area.
+generative_summary: >-
+  Experience Blu Sushi in Fort Myers, FL$$$Blu Sushi in Fort Myers, FL, stands
+  out as a vibrant Japanese restaurant offering creative sushi rolls and
+  specialty cocktails in a chic, bustling environment. The spot features fresh,
+  flavorful dishes that highlight innovative flavors and high-quality
+  ingredients, making it a go-to choice for sushi enthusiasts seeking variety.
+  With options for outdoor seating and a welcoming vibe, it's ideal for casual
+  gatherings or unwinding after a day out. Patrons appreciate the attentive
+  service and thoughtful menu selections, including vegetarian-friendly choices
+  and refreshing beverages. This lively eatery near Fort Myers captures the
+  essence of Japanese dining, perfect for those exploring top-rated sushi
+  options in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJe8Ld8nQ_24gRDZcxdse--_o/reviews/ChZDSUhNMG9nS0VJQ0FnTURJOU1mdVdnEAE
@@ -364,6 +387,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNCall5Tmd3RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNCall5Tmd3RRAB!2m1!1s0x88db3f74f2ddc27b:0xfafbbec77631970d
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors often rave about the fresh sushi and
+  creative specials at this popular spot, making it a favorite for happy hour
+  and group outings. Many highlight the friendly staff and lively atmosphere
+  that enhance the overall experience, with standout mentions of tasty cocktails
+  and reliable service. While most enjoy the flavorful dishes like shrimp and
+  tuna towers, a few note that non-sushi options could use some improvement for
+  better consistency. Overall, it's a solid choice for anyone craving quality
+  Japanese fare, with the welcoming vibe encouraging repeat visits. If you're
+  hunting for the best sushi near you, this place delivers a fun and satisfying
+  meal most of the time.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -396,8 +431,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Japanese eatery serving creative sushi & specialty cocktails in a chic setting
   with a bustling vibe.
 

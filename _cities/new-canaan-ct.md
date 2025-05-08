@@ -5,4 +5,5 @@ permalink: /connecticut/new-canaan/
 stateAbbr: CT
 stateName: Connecticut
 cityName: New Canaan
+
 ---

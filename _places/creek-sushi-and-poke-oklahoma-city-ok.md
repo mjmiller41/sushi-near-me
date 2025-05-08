@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Creek Sushi and Poke"
+title: Creek Sushi and Poke
 permalink: /oklahoma/oklahoma-city/creek-sushi-and-poke.html
 stateAbbr: OK
 stateName: Oklahoma
 cityName: Oklahoma City
 seo:
-  name: "Creek Sushi and Poke"
-  type: Restaurant
+  type: restaurant
   links: https://www.creeksushiokc.com/
-description: "Creek Sushi and Poke serves delicious sushi in Oklahoma City, Oklahoma. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ4z4LC7AFsocRSiQzGxtHXSY
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x87b205b00b0b3ee3:0x265d471b1b33244a!10e5
 primary_type: Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 20
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 20
+        minute: 30
+    - open:
+        day: 6
+        hour: 16
+        minute: 0
+      close:
+        day: 6
+        hour: 20
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 8:30 PM'
     - 'Tuesday: 11:00 AM – 8:30 PM'
     - 'Wednesday: 11:00 AM – 8:30 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 8:30 PM'
     - 'Saturday: 4:00 – 8:30 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:00 AM – 8:30 PM'
-    - 'Tuesday: 11:00 AM – 8:30 PM'
-    - 'Wednesday: 11:00 AM – 8:30 PM'
-    - 'Thursday: 11:00 AM – 8:30 PM'
-    - 'Friday: 11:00 AM – 8:30 PM'
-    - 'Saturday: 4:00 – 8:30 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T01:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +238,299 @@ phone: (405) 506-0558
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.8'
-rating_count: 0
+rating_count: 171
 website: https://www.creeksushiokc.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Creek Sushi and Poke in Oklahoma City, OK$$$Creek Sushi and Poke in
+  Oklahoma City, OK, stands out as a casual spot perfect for enjoying fresh
+  sushi and poke bowls in a relaxed setting. This neighborhood gem offers a
+  variety of Japanese-inspired specialties, including flavorful poke options
+  that highlight high-quality fish and generous portions, all at moderate prices
+  that make it a great choice for everyday dining. With accessibility features
+  like wheelchair-friendly parking and entrances, it's designed to welcome
+  everyone looking for a convenient meal. The spot operates with straightforward
+  hours, making it easy to drop in for lunch or dinner, and its location in a
+  shopping center adds to the hassle-free experience. Whether you're searching
+  for top-rated sushi places near you, this unpretentious eatery delivers a
+  satisfying blend of simplicity and taste that keeps locals coming back.
+generative_summary: >-
+  Discover Creek Sushi and Poke in Oklahoma City, OK$$$Creek Sushi and Poke in
+  Oklahoma City, OK, stands out as a casual spot perfect for enjoying fresh
+  sushi and poke bowls in a relaxed setting. This neighborhood gem offers a
+  variety of Japanese-inspired specialties, including flavorful poke options
+  that highlight high-quality fish and generous portions, all at moderate prices
+  that make it a great choice for everyday dining. With accessibility features
+  like wheelchair-friendly parking and entrances, it's designed to welcome
+  everyone looking for a convenient meal. The spot operates with straightforward
+  hours, making it easy to drop in for lunch or dinner, and its location in a
+  shopping center adds to the hassle-free experience. Whether you're searching
+  for top-rated sushi places near you, this unpretentious eatery delivers a
+  satisfying blend of simplicity and taste that keeps locals coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ4z4LC7AFsocRSiQzGxtHXSY/reviews/ChZDSUhNMG9nS0VJQ0FnTURnMEtfN1JBEAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 3
+    text:
+      text: >-
+        Kind of a no-frills place. I got the creek poke bowl which was bland and
+        meh. Couldve used more sauce, or something. In the pic I provided it has
+        a lot of soy sauce on it to do something for it. Maybe even some
+        sambal..some type of spice.. It was pretty plain Jane raw fish with a
+        little bit of avocado small bits of leaves of something or another, on
+        top of a bed of white rice which could have been stickier. Maybe I just
+        got the wrong thing, but I asked him if that was his most popular bowl,
+        and he said yes. The fish seem to be in decent quality...if only colder,
+        and to be honest it tasted better whenever I got home and put my own
+        spin on it with chilies and sauce without the lettuce after I rinsed the
+        fish off of whatever sauce they had on it and the over used soy sauce,
+        and tossed some zucchini around in a pan with sesame oil. To add to it
+        after I took out the freezer.
+
+
+        I'd say it wouldn't be bad to try for takeout and maybe try to find
+        something you like... I'll probably try it again and adjust my rating.
+        Till then they're most popular bowl was not very popular with me. I gave
+        a 4 for food, but the lack of service and the place looking like a
+        Chinese takeout dive throws off the whole vibe. Decorate the inside and
+        do more then take my order and go back to the back never to return.
+
+        Also, I was thirsty this day and they sell 6oz baby waters for
+        $1....what am I a toddler? That is super cheap in my eyes. You can buy a
+        huge pack of water from Sam's club for like three bucks. You can still
+        charge a dollar for a full size bottle of water... Honestly that's what
+        really took me, Not just the bad service, or the horrible looking
+        atmosphere of a dive which makes me question the cleanliness of the
+        establishment. Yeah. My rating isn't going to change on second thought.
+        As for the other reviews and pics...some people must be easier to
+        please.
+      languageCode: en
+    originalText:
+      text: >-
+        Kind of a no-frills place. I got the creek poke bowl which was bland and
+        meh. Couldve used more sauce, or something. In the pic I provided it has
+        a lot of soy sauce on it to do something for it. Maybe even some
+        sambal..some type of spice.. It was pretty plain Jane raw fish with a
+        little bit of avocado small bits of leaves of something or another, on
+        top of a bed of white rice which could have been stickier. Maybe I just
+        got the wrong thing, but I asked him if that was his most popular bowl,
+        and he said yes. The fish seem to be in decent quality...if only colder,
+        and to be honest it tasted better whenever I got home and put my own
+        spin on it with chilies and sauce without the lettuce after I rinsed the
+        fish off of whatever sauce they had on it and the over used soy sauce,
+        and tossed some zucchini around in a pan with sesame oil. To add to it
+        after I took out the freezer.
+
+
+        I'd say it wouldn't be bad to try for takeout and maybe try to find
+        something you like... I'll probably try it again and adjust my rating.
+        Till then they're most popular bowl was not very popular with me. I gave
+        a 4 for food, but the lack of service and the place looking like a
+        Chinese takeout dive throws off the whole vibe. Decorate the inside and
+        do more then take my order and go back to the back never to return.
+
+        Also, I was thirsty this day and they sell 6oz baby waters for
+        $1....what am I a toddler? That is super cheap in my eyes. You can buy a
+        huge pack of water from Sam's club for like three bucks. You can still
+        charge a dollar for a full size bottle of water... Honestly that's what
+        really took me, Not just the bad service, or the horrible looking
+        atmosphere of a dive which makes me question the cleanliness of the
+        establishment. Yeah. My rating isn't going to change on second thought.
+        As for the other reviews and pics...some people must be easier to
+        please.
+      languageCode: en
+    authorAttribution:
+      displayName: Casey
+      uri: https://www.google.com/maps/contrib/108120572936736651011/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJ1gg_--siipldqEBCGKLRmtYxUAWxVHFSp_JQTx2HbO6u7Kuo=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-02-22T03:22:40.751254Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURnMEtfN1JBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURnMEtfN1JBEAE!2m1!1s0x87b205b00b0b3ee3:0x265d471b1b33244a
+  - name: >-
+      places/ChIJ4z4LC7AFsocRSiQzGxtHXSY/reviews/ChdDSUhNMG9nS0VJQ0FnSUN2cFlfWF9BRRAB
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        Moved to okc a year ago and have drove by here several times.  Finally
+        tried it tonight.  Didn't have high hopes, but been trying to find
+        really good sushi since we moved here.  This place is absolutely
+        amazing!!!
+      languageCode: en
+    originalText:
+      text: >-
+        Moved to okc a year ago and have drove by here several times.  Finally
+        tried it tonight.  Didn't have high hopes, but been trying to find
+        really good sushi since we moved here.  This place is absolutely
+        amazing!!!
+      languageCode: en
+    authorAttribution:
+      displayName: Justin Colvard
+      uri: https://www.google.com/maps/contrib/108683583806256969141/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVqKxH3GG_yf8n5qoswoNRsnxCwuWz4EDlP7C1l-I7eKVOtShaHqA=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-12-13T02:04:40.924247Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN2cFlfWF9BRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN2cFlfWF9BRRAB!2m1!1s0x87b205b00b0b3ee3:0x265d471b1b33244a
+  - name: >-
+      places/ChIJ4z4LC7AFsocRSiQzGxtHXSY/reviews/ChZDSUhNMG9nS0VJQ0FnSUMzNTRYaEVBEAE
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        My fiancée and I went here for our dinner sushi fix in hopes of a quiet
+        place, and got exactly what we wanted! Walking in, it’s quiet and the
+        gentleman working was also very very kind. We are very used to the Sushi
+        Bar, so the prices here are amazing, so we were NOT expecting fresh
+        rolls!
+
+
+        Super good, and we are VERY glad we stopped here!
+      languageCode: en
+    originalText:
+      text: >-
+        My fiancée and I went here for our dinner sushi fix in hopes of a quiet
+        place, and got exactly what we wanted! Walking in, it’s quiet and the
+        gentleman working was also very very kind. We are very used to the Sushi
+        Bar, so the prices here are amazing, so we were NOT expecting fresh
+        rolls!
+
+
+        Super good, and we are VERY glad we stopped here!
+      languageCode: en
+    authorAttribution:
+      displayName: Star Carlson
+      uri: https://www.google.com/maps/contrib/108759101844029516056/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLNPJQUm26MLDt72SZ_k6gHo1t7RwzKo__Rvhce9N_MbyXaTg=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2024-11-10T01:03:40.762743Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUMzNTRYaEVBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUMzNTRYaEVBEAE!2m1!1s0x87b205b00b0b3ee3:0x265d471b1b33244a
+  - name: >-
+      places/ChIJ4z4LC7AFsocRSiQzGxtHXSY/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3LWM3a3FBRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        I moved to OKC about a year ago and I love sushi and I'm very picky
+        since I've tried some of the best sushi living abroad. For some reason,
+        this place is empty when they have some of the best sushi around for
+        some of the best prices I've ever seen. $12 for a massive poke filled to
+        the brim with salmon? Steal. 3 massive nigiris for $6? Steal. I
+        absolutely LOVE salmon and this place has some of the highest quality
+        salmon I've tried, even better than some extremely expensive sushi
+        spots. This place honestly needs more love from customers around town
+        and should have nore traffic. At least give it a shot, especially if you
+        love salmon dishes, great prices, and generous portions.
+      languageCode: en
+    originalText:
+      text: >-
+        I moved to OKC about a year ago and I love sushi and I'm very picky
+        since I've tried some of the best sushi living abroad. For some reason,
+        this place is empty when they have some of the best sushi around for
+        some of the best prices I've ever seen. $12 for a massive poke filled to
+        the brim with salmon? Steal. 3 massive nigiris for $6? Steal. I
+        absolutely LOVE salmon and this place has some of the highest quality
+        salmon I've tried, even better than some extremely expensive sushi
+        spots. This place honestly needs more love from customers around town
+        and should have nore traffic. At least give it a shot, especially if you
+        love salmon dishes, great prices, and generous portions.
+      languageCode: en
+    authorAttribution:
+      displayName: Chris Ryan
+      uri: https://www.google.com/maps/contrib/114990697209423774153/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLJnIVRiuwFkGiaWsMnYAaIO5--wI_DQFheGm9fyHaYPH_ScA=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-19T23:45:36.203644Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUN3LWM3a3FBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUN3LWM3a3FBRRAB!2m1!1s0x87b205b00b0b3ee3:0x265d471b1b33244a
+  - name: >-
+      places/ChIJ4z4LC7AFsocRSiQzGxtHXSY/reviews/ChZDSUhNMG9nS0VJQ0FnTUNROTZmb1JnEAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        I’ve had a few poke bowls from here, which is all I’ll typically get.
+        But I just had the hula bowl with spicy and sushi sauce. It was the very
+        best yet and all the fish was melt in your mouth perfect! I love this
+        place!
+      languageCode: en
+    originalText:
+      text: >-
+        I’ve had a few poke bowls from here, which is all I’ll typically get.
+        But I just had the hula bowl with spicy and sushi sauce. It was the very
+        best yet and all the fish was melt in your mouth perfect! I love this
+        place!
+      languageCode: en
+    authorAttribution:
+      displayName: JT
+      uri: https://www.google.com/maps/contrib/109445489624374648986/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVN07nXbRzRnO9UFnZOCjnn2LwuQjSTa87QtIFsfgUVTBxq3zI=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-08T00:39:30.934560Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNROTZmb1JnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNROTZmb1JnEAE!2m1!1s0x87b205b00b0b3ee3:0x265d471b1b33244a
+review_summary: >-
+  What Customers Are Buzzing About This Sushi Spot$$$Visitors to this sushi
+  haven often rave about the fresh and flavorful poke bowls, with many
+  highlighting how the generous portions and affordable prices make it a
+  standout option for a quick, satisfying meal. While some folks mention that
+  certain dishes could use a bit more seasoning to elevate the flavors, the
+  overall consensus leans positive, praising the high-quality fish and friendly
+  service that adds a welcoming vibe. People frequently enjoy the variety of
+  options like the hula bowl with its spicy twist, noting how it hits the spot
+  for anyone craving authentic Japanese flavors without breaking the bank. In a
+  casual tone, it's clear that this place excels at providing value and taste
+  that appeals to sushi enthusiasts, making it a solid pick for those exploring
+  the best sushi near me. All in all, the feedback paints a picture of a
+  reliable spot where good food and approachable atmosphere come together for an
+  enjoyable experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
+delivery: true
+dine_in: true
+good_for_children: true
 good_for_groups: null
-good_for_sports: null
-live_music: null
+good_for_sports: false
+live_music: false
 menu_for_children: null
 outdoor_seating: null
 reservable: null
-restroom: null
+restroom: true
 serves_beer: null
 serves_breakfast: null
-serves_brunch: null
+serves_brunch: false
 serves_cocktails: null
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

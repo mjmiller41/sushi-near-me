@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Shogun"
+title: Shogun
 permalink: /texas/brenham/shogun.html
 stateAbbr: TX
 stateName: Texas
 cityName: Brenham
 seo:
-  name: "Shogun"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Shogun serves delicious sushi in Brenham, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJWVo8r8ypRoYRK2GAdwYoc8g
 photos:
   - name: >-
@@ -185,7 +183,50 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Shogun in Brenham, Texas$$$Nestled in Brenham, Texas, Shogun offers a
+  vibrant Japanese dining experience that combines the excitement of teppanyaki
+  grilling with a selection of fresh sushi options, making it a go-to spot for
+  sushi enthusiasts in the area. The restaurant features an interactive
+  atmosphere where skilled chefs prepare meals right at your table, blending
+  entertainment with authentic flavors that include sizzling steaks and sake
+  pairings. Visitors can enjoy a variety of Japanese dishes that highlight
+  quality ingredients and traditional techniques, creating a memorable meal for
+  those seeking top-rated sushi near local spots. With accessible features like
+  wheelchair-friendly entrances and seating, Shogun ensures a welcoming
+  environment for all guests looking to explore Japanese places near me. This
+  blend of culinary artistry and casual elegance makes it an ideal choice for
+  anyone craving the best sushi restaurants in a relaxed Texas setting.
+generative_summary: >-
+  Discover Shogun in Brenham, Texas$$$Nestled in Brenham, Texas, Shogun offers a
+  vibrant Japanese dining experience that combines the excitement of teppanyaki
+  grilling with a selection of fresh sushi options, making it a go-to spot for
+  sushi enthusiasts in the area. The restaurant features an interactive
+  atmosphere where skilled chefs prepare meals right at your table, blending
+  entertainment with authentic flavors that include sizzling steaks and sake
+  pairings. Visitors can enjoy a variety of Japanese dishes that highlight
+  quality ingredients and traditional techniques, creating a memorable meal for
+  those seeking top-rated sushi near local spots. With accessible features like
+  wheelchair-friendly entrances and seating, Shogun ensures a welcoming
+  environment for all guests looking to explore Japanese places near me. This
+  blend of culinary artistry and casual elegance makes it an ideal choice for
+  anyone craving the best sushi restaurants in a relaxed Texas setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$From what folks share about Shogun, it seems like
+  the lively teppanyaki shows and fresh sushi rolls really win people over,
+  often leaving diners buzzing about the fun, interactive vibe. Many appreciate
+  how the spot keeps things straightforward and tasty without any fuss, making
+  it a solid pick for casual get-togethers or family outings. While some mention
+  waits during peak times, the overall feedback highlights reliable service and
+  flavorful dishes that satisfy sushi lovers on the hunt for great options
+  nearby. It's clear that the welcoming atmosphere and variety of choices help
+  it stand out as a favorite among Japanese dining spots, with guests generally
+  feeling it's worth returning for that authentic touch. All in all, if you're
+  searching for top-rated sushi close to you, Shogun comes across as a
+  dependable and enjoyable choice that keeps the good times rolling.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +252,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

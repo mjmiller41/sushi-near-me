@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Fusion 25"
+title: Fusion 25
 permalink: /connecticut/newtown/fusion-25.html
 stateAbbr: CT
 stateName: Connecticut
 cityName: Newtown
 seo:
-  name: "Fusion 25"
-  type: Restaurant
+  type: restaurant
   links: https://www.fusion25.com/
-description: "Fusion 25 serves delicious sushi in Newtown, Connecticut. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJGQvMQbD854kR4ztjnGJbjLA
 photos:
   - name: >-
@@ -185,6 +183,27 @@ price_range: null
 rating: '4.3'
 rating_count: 0
 website: https://www.fusion25.com/
+description: >-
+  Explore Fusion 25 in Newtown, CT$$$Fusion 25 in Newtown, CT, stands out as a
+  welcoming Asian fusion spot that blends creative flavors with a relaxed vibe,
+  making it a go-to for sushi enthusiasts. This restaurant features an extensive
+  menu highlighting fresh rolls and innovative dishes, complemented by specials
+  that add value to every visit. With thoughtful accessibility options and
+  outdoor seating, it's designed for comfortable dining experiences that cater
+  to various preferences. Patrons can enjoy a mix of traditional and modern
+  elements, from vibrant happy hour deals to a variety of vegetarian choices,
+  positioning it as a solid choice among local sushi places.
+generative_summary: >-
+  Explore Fusion 25 in Newtown, CT$$$Fusion 25 in Newtown, CT, stands out as a
+  welcoming Asian fusion spot that blends creative flavors with a relaxed vibe,
+  making it a go-to for sushi enthusiasts. This restaurant features an extensive
+  menu highlighting fresh rolls and innovative dishes, complemented by specials
+  that add value to every visit. With thoughtful accessibility options and
+  outdoor seating, it's designed for comfortable dining experiences that cater
+  to various preferences. Patrons can enjoy a mix of traditional and modern
+  elements, from vibrant happy hour deals to a variety of vegetarian choices,
+  positioning it as a solid choice among local sushi places.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJGQvMQbD854kR4ztjnGJbjLA/reviews/ChZDSUhNMG9nS0VJQ0FnSUNYbTRLeEtREAE
@@ -344,6 +363,17 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNBaGNXUU9nEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNBaGNXUU9nEAE!2m1!1s0x89e7fcb041cc0b19:0xb08c5b629c633be3
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors often praise the fresh and flavorful
+  sushi rolls at this spot, noting them as highlights that bring a burst of
+  creativity to the table. While some mention occasional waits for service, the
+  overall food quality keeps things enjoyable and worth the visit for groups or
+  takeout fans. Feedback highlights the inviting atmosphere and reasonable
+  pricing, though a few point out environmental tweaks like room temperature
+  could enhance comfort. Despite minor hiccups, many agree it's a reliable
+  option for casual meals, leaving diners eager to return for more satisfying
+  experiences in this vibrant sushi scene.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -374,7 +404,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

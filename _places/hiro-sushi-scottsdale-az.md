@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Hiro Sushi"
+title: Hiro Sushi
 permalink: /arizona/scottsdale/hiro-sushi.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Scottsdale
 seo:
-  name: "Hiro Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://hirosushiphx.com/
-description: "Hiro Sushi serves delicious sushi in Scottsdale, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJWzmkyjZ1K4cRFmlSEiAtBnM
 photos:
   - name: >-
@@ -170,7 +168,89 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x872b7536caa4395b:0x73062d2012526916!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:30 AM – 2:00 PM, 5:00 – 9:30 PM'
     - 'Wednesday: 11:30 AM – 2:00 PM, 5:00 – 9:30 PM'
@@ -178,14 +258,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 2:00 PM, 5:00 – 10:00 PM'
     - 'Saturday: 5:00 – 10:00 PM'
     - 'Sunday: 5:00 – 9:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:30 AM – 2:00 PM, 5:00 – 9:30 PM'
-    - 'Wednesday: 11:30 AM – 2:00 PM, 5:00 – 9:30 PM'
-    - 'Thursday: 11:30 AM – 2:00 PM, 5:00 – 9:30 PM'
-    - 'Friday: 11:30 AM – 2:00 PM, 5:00 – 10:00 PM'
-    - 'Saturday: 5:00 – 10:00 PM'
-    - 'Sunday: 5:00 – 9:00 PM'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +270,334 @@ phone: (480) 314-4215
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.7'
-rating_count: 0
+rating_count: 980
 website: http://hirosushiphx.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Hiro Sushi in Scottsdale, AZ$$$Nestled in the heart of Scottsdale,
+  AZ, Hiro Sushi stands out as a welcoming Japanese eatery offering fresh sushi
+  and other flavorful specialties in a cozy, intimate atmosphere. This spot
+  features a long sushi bar where diners can enjoy expertly prepared dishes that
+  highlight high-quality ingredients and traditional techniques, making it a
+  go-to choice for those seeking sushi restaurants in the area. With its relaxed
+  vibe and focus on authentic flavors, it's perfect for casual meals or special
+  occasions, complemented by options like sake and teriyaki that add variety to
+  the menu. The restaurant's accessibility and thoughtful design ensure a
+  comfortable experience for all visitors, while its moderate pricing appeals to
+  those exploring top-rated sushi options nearby. Whether you're in the mood for
+  innovative rolls or classic favorites, Hiro Sushi delivers a satisfying blend
+  of taste and simplicity that keeps locals coming back.
+generative_summary: >-
+  Discover Hiro Sushi in Scottsdale, AZ$$$Nestled in the heart of Scottsdale,
+  AZ, Hiro Sushi stands out as a welcoming Japanese eatery offering fresh sushi
+  and other flavorful specialties in a cozy, intimate atmosphere. This spot
+  features a long sushi bar where diners can enjoy expertly prepared dishes that
+  highlight high-quality ingredients and traditional techniques, making it a
+  go-to choice for those seeking sushi restaurants in the area. With its relaxed
+  vibe and focus on authentic flavors, it's perfect for casual meals or special
+  occasions, complemented by options like sake and teriyaki that add variety to
+  the menu. The restaurant's accessibility and thoughtful design ensure a
+  comfortable experience for all visitors, while its moderate pricing appeals to
+  those exploring top-rated sushi options nearby. Whether you're in the mood for
+  innovative rolls or classic favorites, Hiro Sushi delivers a satisfying blend
+  of taste and simplicity that keeps locals coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJWzmkyjZ1K4cRFmlSEiAtBnM/reviews/ChdDSUhNMG9nS0VJQ0FnTUNvMWRTTGhRRRAB
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        Hiro Sushi is top notch, but not in the way that you'd expect. Hiro's
+        does not come in as a "high end" sushi restaurant, touting omakases and
+        bespoke combo flavors. Rather, Hiro Sushi is more of an everyday place
+        where you can visit casually with friends and family to enjoy just great
+        sushi. Again, nothing about this joint is snooty or haughty. It really
+        is a home-style sushi place where the chefs put their heart into serving
+        you a great piece of nigiri and tasty rolls.
+
+
+        The fish is fresh and thickly cut. The rolls are innovative, but more
+        importantly, balanced. The side dishes like the miso-marinated seabass
+        are not done in a stuck up way but as if your grandma would've cooked it
+        for a hearty meal. Definitely tasty. And you can feel the care that has
+        gone into the preparation.
+
+
+        When you remove the formalities imposed by the structure of making,
+        serving and consuming sushi, it really comes down to the love that has
+        gone into the entire flow. And Hiro's absolutely gets this right.
+
+
+        Now is this the best sushi I have ever tasted? Absolutely not. Yes, they
+        are great. But not phenomenal. But then again, you do not judge your
+        mom's food against a Michelin star meal, yet you love it more and lean
+        on it every day. That is what Hiro Sushi nails. It is a very weird way
+        of saying that you find comfort in their food but that is what it is.
+        There is love and comfort in their sushi's and cooking.
+
+
+        Service was a bit spotty as they were super busy and some of the servers
+        seemed overwhelmed. But again, that's okay. Life's not perfect. And most
+        of the times, that's the way it should be.
+
+
+        If you are in Scottsdale, Hiro Sushi should be an absolute destination,
+        more frequently than not. Will return.
+      languageCode: en
+    originalText:
+      text: >-
+        Hiro Sushi is top notch, but not in the way that you'd expect. Hiro's
+        does not come in as a "high end" sushi restaurant, touting omakases and
+        bespoke combo flavors. Rather, Hiro Sushi is more of an everyday place
+        where you can visit casually with friends and family to enjoy just great
+        sushi. Again, nothing about this joint is snooty or haughty. It really
+        is a home-style sushi place where the chefs put their heart into serving
+        you a great piece of nigiri and tasty rolls.
+
+
+        The fish is fresh and thickly cut. The rolls are innovative, but more
+        importantly, balanced. The side dishes like the miso-marinated seabass
+        are not done in a stuck up way but as if your grandma would've cooked it
+        for a hearty meal. Definitely tasty. And you can feel the care that has
+        gone into the preparation.
+
+
+        When you remove the formalities imposed by the structure of making,
+        serving and consuming sushi, it really comes down to the love that has
+        gone into the entire flow. And Hiro's absolutely gets this right.
+
+
+        Now is this the best sushi I have ever tasted? Absolutely not. Yes, they
+        are great. But not phenomenal. But then again, you do not judge your
+        mom's food against a Michelin star meal, yet you love it more and lean
+        on it every day. That is what Hiro Sushi nails. It is a very weird way
+        of saying that you find comfort in their food but that is what it is.
+        There is love and comfort in their sushi's and cooking.
+
+
+        Service was a bit spotty as they were super busy and some of the servers
+        seemed overwhelmed. But again, that's okay. Life's not perfect. And most
+        of the times, that's the way it should be.
+
+
+        If you are in Scottsdale, Hiro Sushi should be an absolute destination,
+        more frequently than not. Will return.
+      languageCode: en
+    authorAttribution:
+      displayName: Wook Chung
+      uri: https://www.google.com/maps/contrib/117281398299717700812/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXmLd7W8jEd1WWjwgdwsifrYxZzQiYZWgE56JE8moSKA62xKy10=s128-c0x00000000-cc-rp-mo-ba7
+    publishTime: '2025-04-18T20:23:43.174989Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNvMWRTTGhRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNvMWRTTGhRRRAB!2m1!1s0x872b7536caa4395b:0x73062d2012526916
+  - name: >-
+      places/ChIJWzmkyjZ1K4cRFmlSEiAtBnM/reviews/ChdDSUhNMG9nS0VJQ0FnTUNvNk5mVXp3RRAB
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        We had an awesome experience at Hiro Sushi!
+
+
+        We ordered the Hiro Roll, Vegas Roll, and some Sake and yellowtail
+        nigiri, and everything was fresh, delicious, and full of flavor. You can
+        really taste the quality in every bite. My kiddo had the chicken
+        teriyaki and loved it too—it was cooked perfectly and had great flavor.
+
+
+        The service was excellent. The servers were super friendly, attentive,
+        and made us feel right at home.
+
+
+        If you’re looking for a great sushi spot with fresh food and amazing
+        service, Hiro Sushi is definitely worth checking out. We’ll absolutely
+        be back!
+
+
+        #HiroSushi #SushiDoneRight #FreshEats
+      languageCode: en
+    originalText:
+      text: >-
+        We had an awesome experience at Hiro Sushi!
+
+
+        We ordered the Hiro Roll, Vegas Roll, and some Sake and yellowtail
+        nigiri, and everything was fresh, delicious, and full of flavor. You can
+        really taste the quality in every bite. My kiddo had the chicken
+        teriyaki and loved it too—it was cooked perfectly and had great flavor.
+
+
+        The service was excellent. The servers were super friendly, attentive,
+        and made us feel right at home.
+
+
+        If you’re looking for a great sushi spot with fresh food and amazing
+        service, Hiro Sushi is definitely worth checking out. We’ll absolutely
+        be back!
+
+
+        #HiroSushi #SushiDoneRight #FreshEats
+      languageCode: en
+    authorAttribution:
+      displayName: David Madrid
+      uri: https://www.google.com/maps/contrib/115434233070077856744/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVmnNhrGOsOGSlAStennNQu2--qc00R4qJ6z_t0HmWw2fvYG0kOHA=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-14T21:20:57.132470Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNvNk5mVXp3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNvNk5mVXp3RRAB!2m1!1s0x872b7536caa4395b:0x73062d2012526916
+  - name: >-
+      places/ChIJWzmkyjZ1K4cRFmlSEiAtBnM/reviews/ChZDSUhNMG9nS0VJQ0FnSURmazl2dE9BEAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        They have amazing, fresh fish. The sashimi is refreshing, thick slices.
+        I do wish as a first time guest they explained how to order at the sushi
+        bar vs server. But that’s minor. The calamari and gyoza were bland. I
+        love the presentation of the sushi’s too. The crispy spicy tuna was
+        absolutely amazing. Even my spouse who doesn’t like sushi loved that
+        one.
+      languageCode: en
+    originalText:
+      text: >-
+        They have amazing, fresh fish. The sashimi is refreshing, thick slices.
+        I do wish as a first time guest they explained how to order at the sushi
+        bar vs server. But that’s minor. The calamari and gyoza were bland. I
+        love the presentation of the sushi’s too. The crispy spicy tuna was
+        absolutely amazing. Even my spouse who doesn’t like sushi loved that
+        one.
+      languageCode: en
+    authorAttribution:
+      displayName: AL
+      uri: https://www.google.com/maps/contrib/108364567993847330977/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLm7QjUYZbD1w-w7xCwE_t7BMRObI8l-SV1JDiQX8iUYY3MgvU=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-01-10T02:53:29.023651Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURmazl2dE9BEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURmazl2dE9BEAE!2m1!1s0x872b7536caa4395b:0x73062d2012526916
+  - name: >-
+      places/ChIJWzmkyjZ1K4cRFmlSEiAtBnM/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3NHVqYXFBRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Super fresh sushi.  Friendly staff and service.   Make sure to come
+        early because we got there when it opened and there was already a line. 
+        If you are in Scottsdale area and craving sushi, stop by.  You won’t be
+        disappointed.
+      languageCode: en
+    originalText:
+      text: >-
+        Super fresh sushi.  Friendly staff and service.   Make sure to come
+        early because we got there when it opened and there was already a line. 
+        If you are in Scottsdale area and craving sushi, stop by.  You won’t be
+        disappointed.
+      languageCode: en
+    authorAttribution:
+      displayName: David K
+      uri: https://www.google.com/maps/contrib/114178064791282340329/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVvJUNnFgGHKRPMwDOCMtH-QEjXshcX4x8HxCnANTBIU6phcMho=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-03-24T22:38:47.626505Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUR3NHVqYXFBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUR3NHVqYXFBRRAB!2m1!1s0x872b7536caa4395b:0x73062d2012526916
+  - name: >-
+      places/ChIJWzmkyjZ1K4cRFmlSEiAtBnM/reviews/ChdDSUhNMG9nS0VJQ0FnTURBb01xaXhRRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        Consistently above all other Japanese restaurants in the area.
+
+        Quality + service + atmosphere is flawless.
+
+        If you are a first timer, sitting at the bar is an excellent experience.
+
+        Go early as its always full and waiting is required, but definitely
+        worth it
+      languageCode: en
+    originalText:
+      text: >-
+        Consistently above all other Japanese restaurants in the area.
+
+        Quality + service + atmosphere is flawless.
+
+        If you are a first timer, sitting at the bar is an excellent experience.
+
+        Go early as its always full and waiting is required, but definitely
+        worth it
+      languageCode: en
+    authorAttribution:
+      displayName: ray jan
+      uri: https://www.google.com/maps/contrib/108359683171329992379/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLpfbf7Rx8zTKRS5njvS3kdecihf2aH08LOQf4MLglcAuxk=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-02-06T03:34:04.363531Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURBb01xaXhRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURBb01xaXhRRRAB!2m1!1s0x872b7536caa4395b:0x73062d2012526916
+review_summary: >-
+  What Customers Love About Hiro Sushi$$$Visitors often rave about the
+  incredibly fresh fish and delicious sushi rolls that make every bite a
+  highlight at this popular Scottsdale spot, with many appreciating the balance
+  of flavors in creative offerings like spicy tuna. The service stands out for
+  being friendly and attentive, even during busy times, creating a welcoming
+  environment that enhances the overall dining experience. While some note that
+  side dishes can vary in taste, the main attractions like nigiri and teriyaki
+  consistently deliver on quality and satisfaction, making it a solid pick for
+  families or groups. If you're searching for reliable sushi places near you,
+  this location's efficient vibe and reasonable prices add to its appeal,
+  encouraging repeat visits for those craving authentic Japanese cuisine.
+  Overall, it's a go-to destination that combines great food with a comfortable
+  setting, leaving diners excited to return for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
+delivery: false
+dine_in: true
 good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Small chef-owned Japanese eatery for sake & teriyaki in an intimate setting
+  with a long sushi bar.
 
 ---

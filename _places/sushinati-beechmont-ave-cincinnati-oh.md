@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "SushiNati - Beechmont Ave"
+title: SushiNati - Beechmont Ave
 permalink: /ohio/cincinnati/sushinati-beechmont-ave.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Cincinnati
 seo:
-  name: "SushiNati - Beechmont Ave"
-  type: Restaurant
+  type: restaurant
   links: http://www.sushinatibeechmont.com/
-description: "SushiNati - Beechmont Ave serves delicious sushi in Cincinnati, Ohio. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJg2p-BzSpQYgRPMzHw7nmnmQ
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $10 &ndash; $20
 rating: '4.1'
 rating_count: 0
 website: http://www.sushinatibeechmont.com/
+description: >-
+  Discover SushiNati in Cincinnati, OH$$$SushiNati in Cincinnati, OH, stands out
+  as a welcoming Japanese restaurant nestled in the Anderson Towne Center,
+  offering a casual vibe perfect for enjoying fresh sushi and other
+  Asian-inspired dishes. The spot emphasizes accessibility with features like
+  wheelchair-friendly entrances and seating, making it easy for everyone to
+  savor the experience. Diners can appreciate the variety of options, including
+  flavorful ramen and a range of vegetarian choices, all served in a laid-back
+  atmosphere that encourages relaxation. With outdoor seating and options for
+  groups, this sushi restaurant near me provides a convenient spot for casual
+  meals, blending quality ingredients with a focus on affordability in the heart
+  of Ohio.
+generative_summary: >-
+  Discover SushiNati in Cincinnati, OH$$$SushiNati in Cincinnati, OH, stands out
+  as a welcoming Japanese restaurant nestled in the Anderson Towne Center,
+  offering a casual vibe perfect for enjoying fresh sushi and other
+  Asian-inspired dishes. The spot emphasizes accessibility with features like
+  wheelchair-friendly entrances and seating, making it easy for everyone to
+  savor the experience. Diners can appreciate the variety of options, including
+  flavorful ramen and a range of vegetarian choices, all served in a laid-back
+  atmosphere that encourages relaxation. With outdoor seating and options for
+  groups, this sushi restaurant near me provides a convenient spot for casual
+  meals, blending quality ingredients with a focus on affordability in the heart
+  of Ohio.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJg2p-BzSpQYgRPMzHw7nmnmQ/reviews/ChRDSUhNMG9nS0VJQ0FnSUN2bUpRNBAB
@@ -378,6 +401,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNmbmNXZzVRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNmbmNXZzVRRRAB!2m1!1s0x8841a934077e6a83:0x649ee6b9c3c7cc3c
+review_summary: >-
+  What Customers Are Buzzing About$$$Visitors to this sushi place often rave
+  about the tasty dishes like fresh sushi rolls and hearty ramen, highlighting
+  how they make for a satisfying meal that keeps people coming back for more.
+  While some mention the cozy space can feel a bit tight during busy times, the
+  overall food quality shines through as a standout feature that adds to the fun
+  of dining out. Feedback generally appreciates the welcoming vibe and helpful
+  staff, with many enjoying the variety that caters to families and groups
+  alike. Even with a few notes on service hiccups, the positive experiences
+  around the menu's flavors and affordability help maintain an upbeat feel,
+  making it a solid choice for anyone searching for top-rated sushi restaurants
+  nearby.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -410,7 +446,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

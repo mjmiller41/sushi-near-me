@@ -5,4 +5,5 @@ permalink: /south-carolina/simpsonville/
 stateAbbr: SC
 stateName: South Carolina
 cityName: Simpsonville
+
 ---

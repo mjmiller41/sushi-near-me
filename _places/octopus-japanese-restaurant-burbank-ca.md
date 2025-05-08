@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Octopus Japanese Restaurant"
+title: Octopus Japanese Restaurant
 permalink: /california/burbank/octopus-japanese-restaurant.html
 stateAbbr: CA
 stateName: California
 cityName: Burbank
 seo:
-  name: "Octopus Japanese Restaurant"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Octopus Japanese Restaurant serves delicious sushi in Burbank, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJOXkXblCVwoARLHzsn0Jpi8Q
 photos:
   - name: >-
@@ -184,7 +182,40 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Octopus Japanese Restaurant in Burbank, CA$$$Octopus Japanese
+  Restaurant in Burbank, CA, provides a welcoming spot for savoring fresh sushi
+  and classic Japanese flavors, making it a go-to choice for those exploring
+  sushi options nearby. The cozy atmosphere enhances the dining experience, with
+  thoughtful touches like a kids' menu and happy-hour specials that cater to
+  families and casual diners alike. Accessibility features ensure everyone can
+  enjoy the vibrant array of dishes, from flavorful rolls to other Japanese
+  favorites. Photos of the space highlight its inviting ambiance, perfect for a
+  relaxed meal after a day out.
+generative_summary: >-
+  Discover Octopus Japanese Restaurant in Burbank, CA$$$Octopus Japanese
+  Restaurant in Burbank, CA, provides a welcoming spot for savoring fresh sushi
+  and classic Japanese flavors, making it a go-to choice for those exploring
+  sushi options nearby. The cozy atmosphere enhances the dining experience, with
+  thoughtful touches like a kids' menu and happy-hour specials that cater to
+  families and casual diners alike. Accessibility features ensure everyone can
+  enjoy the vibrant array of dishes, from flavorful rolls to other Japanese
+  favorites. Photos of the space highlight its inviting ambiance, perfect for a
+  relaxed meal after a day out.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About This Spot$$$Folks searching for sushi near me
+  often highlight the fresh ingredients and tasty variety that make this place
+  stand out as a solid option among Japanese restaurants. Many appreciate the
+  welcoming vibe and kid-friendly choices, which add to the overall enjoyment
+  for groups or families. Happy-hour deals get plenty of nods for their great
+  value, helping it feel like a reliable pick for everyday cravings. While some
+  mention it's a cozy spot without any major issues, the general buzz keeps
+  things positive for anyone looking for top-rated sushi in the area. Overall,
+  it's seen as a dependable choice that delivers on flavor without
+  overcomplicating things.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +241,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

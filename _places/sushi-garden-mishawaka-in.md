@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Garden"
+title: Sushi Garden
 permalink: /indiana/mishawaka/sushi-garden.html
 stateAbbr: IN
 stateName: Indiana
 cityName: Mishawaka
 seo:
-  name: "Sushi Garden"
-  type: Restaurant
-  links: null
-description: "Sushi Garden serves delicious sushi in Mishawaka, Indiana. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.sushigardengranger.com/
 place_id: ChIJ5xK3TD3SFogR1DddwfRZNQE
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8816d23d4cb712e7:0x13559f4c15d37d4!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 9:00 PM'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 9:00 PM'
+    - 'Saturday: 11:00 AM – 9:00 PM'
+    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T01:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,52 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (574) 855-4399
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.1'
+rating_count: 589
+website: https://www.sushigardengranger.com/
+description: >-
+  Discover Sushi Garden in Mishawaka, Indiana$$$Sushi Garden in Mishawaka,
+  Indiana, stands out as a welcoming sushi restaurant offering fresh rolls and
+  Japanese-inspired dishes that appeal to locals searching for top-rated sushi
+  options nearby. With its accessible features like wheelchair-friendly parking
+  and entrances, it ensures a comfortable visit for all diners eager to explore
+  authentic flavors in a casual setting. The spot operates daily from 11 AM to 9
+  PM, making it a convenient choice for lunch or dinner at moderate prices
+  around $20 to $30. Patrons can enjoy a variety of creative sushi combinations,
+  from classic nigiri to innovative rolls, all prepared with quality ingredients
+  that highlight the best of Japanese cuisine. This sushi haven near Mishawaka
+  provides an ideal spot for those craving sushi restaurants in the area,
+  blending taste and accessibility seamlessly.
+generative_summary: >-
+  Discover Sushi Garden in Mishawaka, Indiana$$$Sushi Garden in Mishawaka,
+  Indiana, stands out as a welcoming sushi restaurant offering fresh rolls and
+  Japanese-inspired dishes that appeal to locals searching for top-rated sushi
+  options nearby. With its accessible features like wheelchair-friendly parking
+  and entrances, it ensures a comfortable visit for all diners eager to explore
+  authentic flavors in a casual setting. The spot operates daily from 11 AM to 9
+  PM, making it a convenient choice for lunch or dinner at moderate prices
+  around $20 to $30. Patrons can enjoy a variety of creative sushi combinations,
+  from classic nigiri to innovative rolls, all prepared with quality ingredients
+  that highlight the best of Japanese cuisine. This sushi haven near Mishawaka
+  provides an ideal spot for those craving sushi restaurants in the area,
+  blending taste and accessibility seamlessly.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying About Sushi Garden$$$Visitors often highlight the
+  fresh and tasty sushi rolls as a standout feature, making it a go-to for
+  anyone hunting for reliable Japanese places nearby. Many appreciate the
+  friendly service and reasonable prices, noting that the overall experience
+  feels worthwhile for a casual meal. While some mention occasional waits during
+  peak hours, the general consensus leans positive, with folks enjoying the
+  flavorful options that keep them coming back. The solid 4.1 rating from
+  hundreds of feedback points suggests it's a solid pick for groups or families
+  looking for approachable dining. All in all, if you're on the hunt for best
+  sushi near you, this spot delivers a satisfying vibe that's worth trying out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +313,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Biwako Sushi"
+title: Biwako Sushi
 permalink: /michigan/saline/biwako-sushi.html
 stateAbbr: MI
 stateName: Michigan
 cityName: Saline
 seo:
-  name: "Biwako Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://biwakosushitogo.com/
-description: "Informal eatery serving up traditional Japanese & Korean fare, including sushi, in woody digs. Biwako Sushi serves delicious sushi in Saline, Michigan. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ9yU67TK7PIgRt8LLCPmTncY
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 0
 website: https://biwakosushitogo.com/
+description: >-
+  Discover Biwako Sushi in Saline, Michigan$$$Biwako Sushi in Saline, Michigan,
+  stands out as a welcoming spot for enjoying fresh Japanese cuisine, featuring
+  an array of sushi and other traditional dishes in a cozy, woody setting. This
+  casual eatery offers a variety of options like bibimbap and bento boxes,
+  making it ideal for those seeking authentic flavors with a local twist. With
+  its moderate pricing and focus on quality ingredients, it's a great choice for
+  anyone exploring sushi restaurants in the area, complete with accessible
+  features like wheelchair-friendly entrances and parking. The menu caters to
+  diverse tastes, including vegetarian selections and beer or sake pairings,
+  ensuring a satisfying experience for groups or families. Whether you're
+  looking for top-rated sushi nearby, this spot delivers on both taste and
+  convenience.
+generative_summary: >-
+  Discover Biwako Sushi in Saline, Michigan$$$Biwako Sushi in Saline, Michigan,
+  stands out as a welcoming spot for enjoying fresh Japanese cuisine, featuring
+  an array of sushi and other traditional dishes in a cozy, woody setting. This
+  casual eatery offers a variety of options like bibimbap and bento boxes,
+  making it ideal for those seeking authentic flavors with a local twist. With
+  its moderate pricing and focus on quality ingredients, it's a great choice for
+  anyone exploring sushi restaurants in the area, complete with accessible
+  features like wheelchair-friendly entrances and parking. The menu caters to
+  diverse tastes, including vegetarian selections and beer or sake pairings,
+  ensuring a satisfying experience for groups or families. Whether you're
+  looking for top-rated sushi nearby, this spot delivers on both taste and
+  convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ9yU67TK7PIgRt8LLCPmTncY/reviews/ChZDSUhNMG9nS0VJQ0FnTUNneUlDVVRnEAE
@@ -390,6 +415,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQtNElHN293RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQtNElHN293RRAB!2m1!1s0x883cbb32ed3a25f7:0xc69d93f908cbc2b7
+review_summary: >-
+  What Customers Are Raving About$$$Folks often praise the fresh and flavorful
+  sushi at this spot, highlighting how the ingredients really shine through in
+  every bite for a delightful meal. Many appreciate the huge menu variety, which
+  makes it easy to find something new or stick to classics, along with quick
+  service that keeps things efficient without sacrificing quality. While most
+  experiences are positive, with comments on the clean atmosphere and reasonable
+  prices drawing people back, there are occasional mentions of service slip-ups
+  that could use some smoothing out. Overall, it's a solid pick for anyone
+  craving Japanese fare, as the positives like tasty options and family-friendly
+  vibes far outweigh the rare downsides. If you're hunting for reliable sushi
+  places nearby, this one tends to leave diners feeling satisfied and eager to
+  return.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -422,8 +461,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Informal eatery serving up traditional Japanese & Korean fare, including
   sushi, in woody digs.
 

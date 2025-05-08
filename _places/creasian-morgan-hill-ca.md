@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "CreAsian"
+title: CreAsian
 permalink: /california/morgan-hill/creasian.html
 stateAbbr: CA
 stateName: California
 cityName: Morgan Hill
 seo:
-  name: "CreAsian"
-  type: Restaurant
+  type: restaurant
   links: https://www.creasiansushi.com/home
-description: "CreAsian serves delicious sushi in Morgan Hill, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJfVoM2_EgjoAR-KaCQr5d7Ig
 photos:
   - name: >-
@@ -170,7 +168,105 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x808e20f1db0c5a7d:0x88ec5dbe4282a6f8!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 16
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 14
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 16
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 2:00 PM, 4:30 – 9:00 PM'
     - 'Tuesday: 11:30 AM – 2:00 PM, 4:30 – 9:00 PM'
     - 'Wednesday: 11:30 AM – 2:00 PM, 4:30 – 9:00 PM'
@@ -178,54 +274,373 @@ opening_hours:
     - 'Friday: 11:30 AM – 2:00 PM, 4:30 – 9:00 PM'
     - 'Saturday: 4:00 – 9:00 PM'
     - 'Sunday: 4:00 – 9:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 2:00 PM, 4:30 – 9:00 PM'
-    - 'Tuesday: 11:30 AM – 2:00 PM, 4:30 – 9:00 PM'
-    - 'Wednesday: 11:30 AM – 2:00 PM, 4:30 – 9:00 PM'
-    - 'Thursday: 11:30 AM – 2:00 PM, 4:30 – 9:00 PM'
-    - 'Friday: 11:30 AM – 2:00 PM, 4:30 – 9:00 PM'
-    - 'Saturday: 4:00 – 9:00 PM'
-    - 'Sunday: 4:00 – 9:00 PM'
+  nextOpenTime: '2025-05-03T23:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: false
+    periods:
+      - open:
+          day: 1
+          hour: 11
+          minute: 30
+        close:
+          day: 1
+          hour: 14
+          minute: 0
+      - open:
+          day: 2
+          hour: 11
+          minute: 30
+        close:
+          day: 2
+          hour: 14
+          minute: 0
+      - open:
+          day: 3
+          hour: 11
+          minute: 30
+        close:
+          day: 3
+          hour: 14
+          minute: 0
+      - open:
+          day: 4
+          hour: 11
+          minute: 30
+        close:
+          day: 4
+          hour: 14
+          minute: 0
+      - open:
+          day: 5
+          hour: 11
+          minute: 30
+        close:
+          day: 5
+          hour: 14
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 11:30 AM – 2:00 PM'
+      - 'Tuesday: 11:30 AM – 2:00 PM'
+      - 'Wednesday: 11:30 AM – 2:00 PM'
+      - 'Thursday: 11:30 AM – 2:00 PM'
+      - 'Friday: 11:30 AM – 2:00 PM'
+      - 'Saturday: Closed'
+      - 'Sunday: Closed'
+    secondaryHoursType: LUNCH
+    nextOpenTime: '2025-05-05T18:30:00Z'
+  - openNow: false
+    periods:
+      - open:
+          day: 0
+          hour: 16
+          minute: 0
+        close:
+          day: 0
+          hour: 21
+          minute: 0
+      - open:
+          day: 1
+          hour: 16
+          minute: 30
+        close:
+          day: 1
+          hour: 21
+          minute: 0
+      - open:
+          day: 2
+          hour: 16
+          minute: 30
+        close:
+          day: 2
+          hour: 21
+          minute: 0
+      - open:
+          day: 3
+          hour: 16
+          minute: 30
+        close:
+          day: 3
+          hour: 21
+          minute: 0
+      - open:
+          day: 4
+          hour: 16
+          minute: 30
+        close:
+          day: 4
+          hour: 21
+          minute: 0
+      - open:
+          day: 5
+          hour: 16
+          minute: 30
+        close:
+          day: 5
+          hour: 21
+          minute: 0
+      - open:
+          day: 6
+          hour: 16
+          minute: 0
+        close:
+          day: 6
+          hour: 21
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 4:30 – 9:00 PM'
+      - 'Tuesday: 4:30 – 9:00 PM'
+      - 'Wednesday: 4:30 – 9:00 PM'
+      - 'Thursday: 4:30 – 9:00 PM'
+      - 'Friday: 4:30 – 9:00 PM'
+      - 'Saturday: 4:00 – 9:00 PM'
+      - 'Sunday: 4:00 – 9:00 PM'
+    secondaryHoursType: DINNER
+    nextOpenTime: '2025-05-03T23:00:00Z'
 phone: (408) 782-2505
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.3'
-rating_count: 0
+rating_count: 299
 website: https://www.creasiansushi.com/home
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Explore CreAsian in Morgan Hill, CA$$$CreAsian in Morgan Hill, CA, stands out
+  as a casual Japanese restaurant blending Asian flavors with an array of
+  specialty sushi rolls in a relaxed setting. This spot highlights fresh
+  ingredients and a variety of dishes that cater to different tastes, making it
+  a go-to for those seeking sushi restaurants in the area. Accessibility
+  features like wheelchair-friendly entrances and seating add to its welcoming
+  vibe, ensuring everyone can enjoy the experience. The menu includes options
+  for lunch and dinner, with highlights on authentic-style preparations that
+  appeal to fans of Japanese cuisine. Whether you're looking for sushi places
+  near me or a comfortable spot for groups, CreAsian delivers a satisfying
+  dining option with its moderate pricing and convenient location.
+generative_summary: >-
+  Explore CreAsian in Morgan Hill, CA$$$CreAsian in Morgan Hill, CA, stands out
+  as a casual Japanese restaurant blending Asian flavors with an array of
+  specialty sushi rolls in a relaxed setting. This spot highlights fresh
+  ingredients and a variety of dishes that cater to different tastes, making it
+  a go-to for those seeking sushi restaurants in the area. Accessibility
+  features like wheelchair-friendly entrances and seating add to its welcoming
+  vibe, ensuring everyone can enjoy the experience. The menu includes options
+  for lunch and dinner, with highlights on authentic-style preparations that
+  appeal to fans of Japanese cuisine. Whether you're looking for sushi places
+  near me or a comfortable spot for groups, CreAsian delivers a satisfying
+  dining option with its moderate pricing and convenient location.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJfVoM2_EgjoAR-KaCQr5d7Ig/reviews/ChdDSUhNMG9nS0VJQ0FnTURvdmR1bGpnRRAB
+    relativePublishTimeDescription: in the last week
+    rating: 5
+    text:
+      text: "From the very first visit, the restaurant pleasantly surprised me — they served a delicious miso soup as a complimentary dish from the chef.\n\nPros:\n1.\tExtremely fresh fish\n2.\tDelicious rice\n3.\tOutstanding sushi\n4.\tSteamed gyoza — great dough and tasty filling\n5.\tVery fast order delivery — just 4–5 minutes even with 30% of tables occupied and active delivery orders\n6.\tQuick check presentation\n7.\tClean restroom\n8.\tAuthentic Japanese chefs\n9.\tNice background music\n\nCons:\nFound none.\n\nIt’s a pity the restaurant is far from where I live — I would love to visit much more often.\nLeft a good tip.\nWishing you lots of great customers!"
+      languageCode: en
+    originalText:
+      text: "From the very first visit, the restaurant pleasantly surprised me — they served a delicious miso soup as a complimentary dish from the chef.\n\nPros:\n1.\tExtremely fresh fish\n2.\tDelicious rice\n3.\tOutstanding sushi\n4.\tSteamed gyoza — great dough and tasty filling\n5.\tVery fast order delivery — just 4–5 minutes even with 30% of tables occupied and active delivery orders\n6.\tQuick check presentation\n7.\tClean restroom\n8.\tAuthentic Japanese chefs\n9.\tNice background music\n\nCons:\nFound none.\n\nIt’s a pity the restaurant is far from where I live — I would love to visit much more often.\nLeft a good tip.\nWishing you lots of great customers!"
+      languageCode: en
+    authorAttribution:
+      displayName: Alena Bogatyreva
+      uri: https://www.google.com/maps/contrib/104355219755017618500/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXVbLRuF5bOJSIYwOIT9B8kXypaQy7hCktN7CZyuBCyzB-09YnJ=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-28T01:53:05.768967Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURvdmR1bGpnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURvdmR1bGpnRRAB!2m1!1s0x808e20f1db0c5a7d:0x88ec5dbe4282a6f8
+  - name: >-
+      places/ChIJfVoM2_EgjoAR-KaCQr5d7Ig/reviews/ChZDSUhNMG9nS0VJQ0FnTURJekpDU1lBEAE
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 3
+    text:
+      text: >-
+        FOOD
+
+        honestly food isnt that good— it is okay, but there are definitely
+        better places outside of morgan hill. not very authentic and very pricy.
+        i think if you want to try japanese cuisine i recommend traveling to
+        somewhere like ippudo in cupertino or somewhere more authentic— but
+        creasian is an okay option. overall prices are pricy and food is okay.
+
+
+        SERVICE
+
+        servers are nice, but failed to provide a set of utensils for my brother
+        (7).
+      languageCode: en
+    originalText:
+      text: >-
+        FOOD
+
+        honestly food isnt that good— it is okay, but there are definitely
+        better places outside of morgan hill. not very authentic and very pricy.
+        i think if you want to try japanese cuisine i recommend traveling to
+        somewhere like ippudo in cupertino or somewhere more authentic— but
+        creasian is an okay option. overall prices are pricy and food is okay.
+
+
+        SERVICE
+
+        servers are nice, but failed to provide a set of utensils for my brother
+        (7).
+      languageCode: en
+    authorAttribution:
+      displayName: chelsea
+      uri: https://www.google.com/maps/contrib/113589546443450467532/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjW0N2m_F7P32DUlGZz7qMX5Dlfr6XklCDigIzy1Fb0z-dALxMci=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-07T19:54:35.518188Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURJekpDU1lBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJekpDU1lBEAE!2m1!1s0x808e20f1db0c5a7d:0x88ec5dbe4282a6f8
+  - name: >-
+      places/ChIJfVoM2_EgjoAR-KaCQr5d7Ig/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJck5mWkdnEAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        A solid 9.5 kind of place.
+
+
+        There wasn't many people, the restaurant isn't very prominent from the
+        outside. Servers were nice.
+
+
+        Pictured is the sushi bridge with 4 rolls: cherry blossom, lobster,
+        salmon lover, and specialized roll.
+
+
+        Cherry blossom was the group's favorite.
+      languageCode: en
+    originalText:
+      text: >-
+        A solid 9.5 kind of place.
+
+
+        There wasn't many people, the restaurant isn't very prominent from the
+        outside. Servers were nice.
+
+
+        Pictured is the sushi bridge with 4 rolls: cherry blossom, lobster,
+        salmon lover, and specialized roll.
+
+
+        Cherry blossom was the group's favorite.
+      languageCode: en
+    authorAttribution:
+      displayName: Oliver Holmes
+      uri: https://www.google.com/maps/contrib/113332013878951150813/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXvQgO65NkZzcX-ZaSMV9NiXUP3sWUHX5sGljKvXDmmlTs21rNE9w=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-03-31T01:41:21.185477Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNJck5mWkdnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNJck5mWkdnEAE!2m1!1s0x808e20f1db0c5a7d:0x88ec5dbe4282a6f8
+  - name: >-
+      places/ChIJfVoM2_EgjoAR-KaCQr5d7Ig/reviews/ChZDSUhNMG9nS0VJQ0FnSUR4LTZDLUNBEAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        Delicious and fresh Japanese cuisine. Some of the freshest fish I’ve had
+        in a while. The Sashimi is prepared beautifully. Great casual
+        environment. Lots of food options for every dietary need. My new
+        favorite sushi spots in Morgan Hill. I love their sashimi options and
+        they have excellent cuts of fresh fish.
+      languageCode: en
+    originalText:
+      text: >-
+        Delicious and fresh Japanese cuisine. Some of the freshest fish I’ve had
+        in a while. The Sashimi is prepared beautifully. Great casual
+        environment. Lots of food options for every dietary need. My new
+        favorite sushi spots in Morgan Hill. I love their sashimi options and
+        they have excellent cuts of fresh fish.
+      languageCode: en
+    authorAttribution:
+      displayName: Tom Martinez Jr.
+      uri: https://www.google.com/maps/contrib/113827475102529845770/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXWwWb6ymufOeBTJcmmG8X1okCqUOp33OvOJ_5OtecwJCu_J0h2=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2023-12-24T03:22:45.808093Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR4LTZDLUNBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR4LTZDLUNBEAE!2m1!1s0x808e20f1db0c5a7d:0x88ec5dbe4282a6f8
+  - name: >-
+      places/ChIJfVoM2_EgjoAR-KaCQr5d7Ig/reviews/ChZDSUhNMG9nS0VJQ0FnTURBa3ZhclhnEAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        One of the best sushi restaurants I've been to in a long time. If you
+        want quiet luxury in a roll, try the Lobster Roll. Nigiri is top notch.
+      languageCode: en
+    originalText:
+      text: >-
+        One of the best sushi restaurants I've been to in a long time. If you
+        want quiet luxury in a roll, try the Lobster Roll. Nigiri is top notch.
+      languageCode: en
+    authorAttribution:
+      displayName: Brennan Myers
+      uri: https://www.google.com/maps/contrib/103238894497527580125/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKNVJLcV7XplCTdyd50uqekswpcciVzS2HBIJr3pGgzkB5DwA=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-02-07T22:23:36.309672Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURBa3ZhclhnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURBa3ZhclhnEAE!2m1!1s0x808e20f1db0c5a7d:0x88ec5dbe4282a6f8
+review_summary: >-
+  Visitor Feedback Highlights$$$Visitors often rave about the fresh sushi and
+  rolls at this local favorite, noting how the quality of ingredients elevates
+  the overall meal for a satisfying experience. While some mention that prices
+  lean towards the higher side and the flavors might not feel entirely
+  traditional, many agree that the quick service and welcoming atmosphere make
+  it worth a visit. Folks appreciate the variety in the menu, with standout
+  items like specialty rolls receiving consistent praise for their taste and
+  presentation. Overall, it's seen as a solid choice for anyone hunting for
+  top-rated sushi nearby, offering a casual vibe that keeps diners coming back
+  despite minor drawbacks. If you're exploring sushi restaurants near me, this
+  place generally leaves people feeling pleased with their choice, blending good
+  food with friendly service.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: true
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
 serves_cocktails: null
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Chill eatery with a variety of Asian entrees plus specialty sushi rolls in a
+  casual environment.
 
 ---

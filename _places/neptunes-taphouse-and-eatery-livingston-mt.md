@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Neptunes Taphouse and Eatery"
+title: Neptunes Taphouse and Eatery
 permalink: /montana/livingston/neptunes-taphouse-and-eatery.html
 stateAbbr: MT
 stateName: Montana
 cityName: Livingston
 seo:
-  name: "Neptunes Taphouse and Eatery"
-  type: Restaurant
+  type: restaurant
   links: https://neptunestaphouse.com/
-description: "Neptunes Taphouse and Eatery serves delicious sushi in Livingston, Montana. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJ0yMJ0A17RVMRuRvt9PK8JuI
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 0
 website: https://neptunestaphouse.com/
+description: >-
+  About Neptunes Taphouse and Eatery in Livingston, MT$$$Neptunes Taphouse and
+  Eatery in Livingston, MT, stands out as a welcoming spot for enjoying fresh
+  sushi and coastal-inspired cuisine in a casual environment. The venue features
+  an array of flavorful dishes that draw from seaside traditions, complemented
+  by a relaxing patio and rooftop deck perfect for outdoor dining. With options
+  for beer, wine, and cocktails, it's ideal for those seeking a laid-back meal
+  with friends or groups, all while appreciating accessible features like
+  wheelchair-friendly seating. This sushi restaurant near Livingston offers a
+  blend of innovative flavors and a vibrant atmosphere that makes it a great
+  choice for anyone exploring local dining options.
+generative_summary: >-
+  About Neptunes Taphouse and Eatery in Livingston, MT$$$Neptunes Taphouse and
+  Eatery in Livingston, MT, stands out as a welcoming spot for enjoying fresh
+  sushi and coastal-inspired cuisine in a casual environment. The venue features
+  an array of flavorful dishes that draw from seaside traditions, complemented
+  by a relaxing patio and rooftop deck perfect for outdoor dining. With options
+  for beer, wine, and cocktails, it's ideal for those seeking a laid-back meal
+  with friends or groups, all while appreciating accessible features like
+  wheelchair-friendly seating. This sushi restaurant near Livingston offers a
+  blend of innovative flavors and a vibrant atmosphere that makes it a great
+  choice for anyone exploring local dining options.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ0yMJ0A17RVMRuRvt9PK8JuI/reviews/ChdDSUhNMG9nS0VJQ0FnSURfOVlxVGhRRRAB
@@ -366,6 +387,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNMemNqOGFREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNMemNqOGFREAE!2m1!1s0x53457b0dd00923d3:0xe226bcf2f4ed1bb9
+review_summary: >-
+  What Visitors Are Saying$$$Folks love the tasty mix of sushi and other
+  creative dishes at this spot, with many highlighting the fresh flavors and
+  variety that keep things exciting. The service stands out as friendly and
+  attentive, creating a welcoming vibe that enhances the overall experience,
+  even if a few mentions noted some hits and misses with certain items.
+  Reviewers often praise the fun atmosphere and solid drink selection, making it
+  a go-to for casual gatherings or a quick bite of top-rated sushi close to
+  home. Overall, the consensus leans positive, with diners appreciating the
+  quality and affordability that make it worth returning for more satisfying
+  meals.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeStreetParking: true
   valetParking: false
@@ -397,7 +430,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

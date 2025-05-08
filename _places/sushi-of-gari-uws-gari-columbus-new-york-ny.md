@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi of Gari UWS (Gari Columbus)"
+title: Sushi of Gari UWS (Gari Columbus)
 permalink: /new-york/new-york/sushi-of-gari-uws-gari-columbus.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "Sushi of Gari UWS (Gari Columbus)"
-  type: Restaurant
+  type: restaurant
   links: https://www.sushiofgari.com/
-description: "Minimalist branch of a local upscale sushi chain offering creative rolls, Japanese fare & sake. Sushi of Gari UWS (Gari Columbus) serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, and dinner."
 place_id: ChIJRf0k0Y5YwokR7hh2IBTl3LY
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $100 &ndash; & up
 rating: '4.5'
 rating_count: 0
 website: https://www.sushiofgari.com/
+description: >-
+  Experience the Finer Points$$$Sushi of Gari UWS in New York, NY, stands out as
+  a refined spot for sushi lovers seeking high-quality Japanese cuisine in an
+  elegant atmosphere. This upscale venue specializes in omakase dining, where
+  expertly crafted dishes highlight fresh ingredients and creative
+  presentations, paired with a selection of sake, beer, and wine to enhance the
+  meal. The minimalist design creates an intimate setting that's perfect for
+  enjoying top-rated sushi options, making it a go-to choice for those exploring
+  the best sushi restaurants in the area. Accessibility features like
+  wheelchair-friendly entrances and seating add to the welcoming vibe, ensuring
+  a comfortable visit for all. With its focus on authentic flavors and
+  thoughtful details, it's an ideal destination for anyone craving premium
+  Japanese fare nearby.
+generative_summary: >-
+  Experience the Finer Points$$$Sushi of Gari UWS in New York, NY, stands out as
+  a refined spot for sushi lovers seeking high-quality Japanese cuisine in an
+  elegant atmosphere. This upscale venue specializes in omakase dining, where
+  expertly crafted dishes highlight fresh ingredients and creative
+  presentations, paired with a selection of sake, beer, and wine to enhance the
+  meal. The minimalist design creates an intimate setting that's perfect for
+  enjoying top-rated sushi options, making it a go-to choice for those exploring
+  the best sushi restaurants in the area. Accessibility features like
+  wheelchair-friendly entrances and seating add to the welcoming vibe, ensuring
+  a comfortable visit for all. With its focus on authentic flavors and
+  thoughtful details, it's an ideal destination for anyone craving premium
+  Japanese fare nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJRf0k0Y5YwokR7hh2IBTl3LY/reviews/ChZDSUhNMG9nS0VJQ0FnSURfOU5TMlpREAE
@@ -380,6 +405,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNMaTR1cjRBRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNMaTR1cjRBRRAB!2m1!1s0x89c2588ed124fd45:0xb6dce514207618ee
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors often rave about the fresh and
+  flavorful sushi at this New York spot, highlighting how the creative twists on
+  traditional rolls make every bite memorable and satisfying. Many appreciate
+  the attentive service and cozy ambiance that elevate the overall dining
+  experience, turning a simple meal into something special. While some mention
+  occasional surprises like higher-than-expected prices for drinks, the general
+  consensus is that the quality of the food more than makes up for it, with
+  authentic tastes that rival the best in the city. Folks enjoy the variety of
+  options, from omakase selections to sides like seaweed salad, making it a
+  solid pick for groups or date nights. Overall, it's clear that this place
+  delivers a reliably enjoyable vibe for sushi enthusiasts looking for a
+  standout local option.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options:
   acceptsCreditCards: true
@@ -409,8 +448,8 @@ serves_lunch: null
 serves_vegetarian_food: false
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Minimalist branch of a local upscale sushi chain offering creative rolls,
   Japanese fare & sake.
 

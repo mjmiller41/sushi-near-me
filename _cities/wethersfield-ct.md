@@ -5,4 +5,5 @@ permalink: /connecticut/wethersfield/
 stateAbbr: CT
 stateName: Connecticut
 cityName: Wethersfield
+
 ---

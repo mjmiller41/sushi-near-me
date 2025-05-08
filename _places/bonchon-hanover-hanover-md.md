@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Bonchon Hanover"
+title: Bonchon Hanover
 permalink: /maryland/hanover/bonchon-hanover.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Hanover
 seo:
-  name: "Bonchon Hanover"
-  type: Restaurant
-  links: null
-description: "Bonchon Hanover serves delicious sushi in Hanover, Maryland. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://locations.bonchon.com/ll/US/MD/Hanover/7049-Arundel-Mills-Cir
 place_id: ChIJaTFNe-bjt4kRCZEFXKFHYhA
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89b7e3e67b4d3169:0x106247a15c059109!10e5
 primary_type: Asian Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 9:00 PM'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 9:00 PM'
+    - 'Saturday: 11:00 AM – 9:00 PM'
+    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T01:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,53 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (443) 274-2172
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '3.5'
+rating_count: 652
+website: https://locations.bonchon.com/ll/US/MD/Hanover/7049-Arundel-Mills-Cir
+description: >-
+  Discover Bonchon Hanover in Hanover, MD$$$Bonchon Hanover in Hanover, MD,
+  offers a delightful array of Korean-style fried chicken and Asian-fusion
+  flavors in a welcoming, casual atmosphere, making it a go-to spot for
+  flavorful dining options near you. This Asian restaurant specializes in
+  crispy, savory dishes that blend traditional techniques with modern twists,
+  appealing to those seeking authentic tastes in a relaxed setting. With
+  convenient accessibility features like wheelchair-friendly entrances and
+  parking, it's designed to accommodate everyone looking for an enjoyable meal.
+  Operating daily from 11 AM to 9 PM, it's perfect for lunch or dinner outings,
+  ensuring you can savor bold flavors without the rush. Whether you're exploring
+  Asian fusion spots in the area, this location stands out for its emphasis on
+  fresh ingredients and vibrant culinary experiences.
+generative_summary: >-
+  Discover Bonchon Hanover in Hanover, MD$$$Bonchon Hanover in Hanover, MD,
+  offers a delightful array of Korean-style fried chicken and Asian-fusion
+  flavors in a welcoming, casual atmosphere, making it a go-to spot for
+  flavorful dining options near you. This Asian restaurant specializes in
+  crispy, savory dishes that blend traditional techniques with modern twists,
+  appealing to those seeking authentic tastes in a relaxed setting. With
+  convenient accessibility features like wheelchair-friendly entrances and
+  parking, it's designed to accommodate everyone looking for an enjoyable meal.
+  Operating daily from 11 AM to 9 PM, it's perfect for lunch or dinner outings,
+  ensuring you can savor bold flavors without the rush. Whether you're exploring
+  Asian fusion spots in the area, this location stands out for its emphasis on
+  fresh ingredients and vibrant culinary experiences.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors often rave about the tasty wings,
+  bulgogi fries, and Korean street corn at this Asian fusion eatery,
+  highlighting the flavorful combinations that make meals memorable. While some
+  note that the portions might feel a bit modest, the overall experience is
+  frequently praised for its satisfying taste and variety. Feedback generally
+  appreciates the casual vibe and solid food quality, making it a solid choice
+  for groups or families seeking something different from typical local options.
+  That said, a few mentions of pricing being on the higher side suggest
+  balancing expectations with budget, but the positives like great flavors keep
+  the buzz upbeat. All in all, if you're in the mood for reliable Asian dining
+  nearby, this spot delivers a generally enjoyable experience worth trying.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +314,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

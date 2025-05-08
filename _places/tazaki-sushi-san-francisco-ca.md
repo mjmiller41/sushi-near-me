@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Tazaki Sushi"
+title: Tazaki Sushi
 permalink: /california/san-francisco/tazaki-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
 seo:
-  name: "Tazaki Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://tazakisushisf.com/
-description: "Casual, family-owned Japanese restaurant serving sushi, noodles & cooked fare amid typical decor. Tazaki Sushi serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJfwCq65uHhYARmkkict06u5s
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 0
 website: http://tazakisushisf.com/
+description: >-
+  Discover Tazaki Sushi in San Francisco, CA$$$Nestled in the heart of San
+  Francisco, CA, Tazaki Sushi stands out as a casual haven for sushi enthusiasts
+  seeking fresh, high-quality Japanese cuisine. This spot offers a welcoming
+  atmosphere with a menu featuring an array of sushi rolls, bento boxes, and
+  traditional cooked dishes, all complemented by a selection of beer, wine, and
+  sake for a complete dining experience. The restaurant emphasizes fresh
+  ingredients and thoughtful preparation, making it a go-to choice for those
+  exploring sushi restaurants in the area. Accessibility features like
+  wheelchair-friendly entrances and seating add to its appeal, ensuring everyone
+  can enjoy the flavorful offerings. Whether you're searching for top-rated
+  sushi near me or a relaxed place to savor Japanese flavors, Tazaki Sushi
+  delivers an authentic and satisfying meal in a neighborhood setting.
+generative_summary: >-
+  Discover Tazaki Sushi in San Francisco, CA$$$Nestled in the heart of San
+  Francisco, CA, Tazaki Sushi stands out as a casual haven for sushi enthusiasts
+  seeking fresh, high-quality Japanese cuisine. This spot offers a welcoming
+  atmosphere with a menu featuring an array of sushi rolls, bento boxes, and
+  traditional cooked dishes, all complemented by a selection of beer, wine, and
+  sake for a complete dining experience. The restaurant emphasizes fresh
+  ingredients and thoughtful preparation, making it a go-to choice for those
+  exploring sushi restaurants in the area. Accessibility features like
+  wheelchair-friendly entrances and seating add to its appeal, ensuring everyone
+  can enjoy the flavorful offerings. Whether you're searching for top-rated
+  sushi near me or a relaxed place to savor Japanese flavors, Tazaki Sushi
+  delivers an authentic and satisfying meal in a neighborhood setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJfwCq65uHhYARmkkict06u5s/reviews/ChdDSUhNMG9nS0VJQ0FnSURwOGJqS3B3RRAB
@@ -480,6 +505,21 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURqZ01USWRREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURqZ01USWRREAE!2m1!1s0x8085879bebaa007f:0x9bbb3add7222499a
+review_summary: >-
+  What Customers Are Saying About This Spot$$$Visitors consistently praise the
+  fresh and generous portions of sushi at this San Francisco favorite,
+  highlighting how the flavors and quality make every bite memorable. Many
+  appreciate the attentive service and diverse menu options, which include
+  creative rolls and sashimi that keep things exciting without overwhelming the
+  palate. While most feedback focuses on the positive vibe and quick, friendly
+  staff, a few notes mention room for improvement in rice texture, though it
+  doesn't detract from the overall enjoyment. Overall, it's clear this place has
+  become a beloved neighborhood go-to for casual diners, with its popularity
+  speaking to the satisfying experience that leaves people coming back for more.
+  If you're on the hunt for reliable sushi places near me, the consensus is that
+  this spot offers solid value and a welcoming environment that makes it worth a
+  visit.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   valetParking: false
 payment_options:
@@ -510,8 +550,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Casual, family-owned Japanese restaurant serving sushi, noodles & cooked fare
   amid typical decor.
 

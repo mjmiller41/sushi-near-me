@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Best Taste Chinese Restaurant"
+title: Best Taste Chinese Restaurant
 permalink: /california/campbell/best-taste-chinese-restaurant.html
 stateAbbr: CA
 stateName: California
 cityName: Campbell
 seo:
-  name: "Best Taste Chinese Restaurant"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Best Taste Chinese Restaurant serves delicious sushi in Campbell, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJQQClBJ01joARdnzM_GshlkI
 photos:
   - name: >-
@@ -185,7 +183,41 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Best Taste Chinese Restaurant in Campbell, CA$$$Nestled in the heart
+  of Campbell, CA, Best Taste Chinese Restaurant stands out as a casual dining
+  destination blending traditional Chinese flavors with fresh sushi options.
+  This spot delights visitors with its menu featuring familiar Chinese dishes
+  alongside inventive sushi selections, making it a go-to for those seeking
+  diverse Asian cuisine nearby. The restaurant boasts accessibility features
+  like wheelchair-friendly entrances and seating, ensuring a welcoming
+  experience for all. Its laid-back atmosphere and convenient location near
+  local neighborhoods enhance its appeal for anyone exploring sushi restaurants
+  or Japanese-inspired places in the area.
+generative_summary: >-
+  Discover Best Taste Chinese Restaurant in Campbell, CA$$$Nestled in the heart
+  of Campbell, CA, Best Taste Chinese Restaurant stands out as a casual dining
+  destination blending traditional Chinese flavors with fresh sushi options.
+  This spot delights visitors with its menu featuring familiar Chinese dishes
+  alongside inventive sushi selections, making it a go-to for those seeking
+  diverse Asian cuisine nearby. The restaurant boasts accessibility features
+  like wheelchair-friendly entrances and seating, ensuring a welcoming
+  experience for all. Its laid-back atmosphere and convenient location near
+  local neighborhoods enhance its appeal for anyone exploring sushi restaurants
+  or Japanese-inspired places in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Diners at This Local Favorite$$$Folks often highlight the tasty
+  fried rice and sushi at this spot, noting how the flavors really hit the mark
+  for a satisfying meal. Many appreciate the friendly vibe and helpful staff
+  that make every visit feel warm and inviting, perfect for a quick bite or
+  takeout. The cozy setting and well-organized takeout options, including extras
+  like condiments, add to the convenience for busy days. Overall, diners find
+  the portions generous and the experience worthwhile, encouraging others to try
+  it out for a reliable dining choice. While opinions vary, the general buzz
+  keeps things positive for anyone hunting for top-rated sushi near Campbell.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +243,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Lin L.E.S"
+title: Sushi Lin L.E.S
 permalink: /new-york/new-york/sushi-lin-l-e-s.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "Sushi Lin L.E.S"
-  type: Restaurant
-  links: null
-description: "Sushi Lin L.E.S serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://sushilinny.com/
 place_id: ChIJgZfkWaBZwokRWn_xCzY2gRg
 photos:
   - name: >-
@@ -167,8 +165,89 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c259a059e49781:0x188136360bf17f5a!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 15
+        minute: 0
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 12
+        minute: 0
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 15
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: Closed'
+    - 'Tuesday: 5:00 – 10:00 PM'
+    - 'Wednesday: 5:00 – 10:00 PM'
+    - 'Thursday: 5:00 – 10:00 PM'
+    - 'Friday: 12:00 – 3:00 PM, 5:00 – 10:30 PM'
+    - 'Saturday: 12:00 – 3:00 PM, 5:00 – 10:30 PM'
+    - 'Sunday: 12:00 – 3:00 PM, 5:00 – 10:00 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -176,13 +255,52 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (646) 882-0152
+price_level: PRICE_LEVEL_MODERATE
+price_range: $100 &ndash; & up
+rating: '4.6'
+rating_count: 58
+website: https://sushilinny.com/
+description: >-
+  About Sushi Lin in New York, NY$$$Sushi Lin in New York, NY, stands out as a
+  vibrant spot for authentic Japanese cuisine, blending fresh flavors and
+  innovative dishes in a welcoming setting. This sushi restaurant specializes in
+  omakase experiences that highlight high-quality ingredients, including
+  standout seafood selections that capture the essence of traditional Japanese
+  dining. Visitors appreciate the attentive service and cozy atmosphere, making
+  it an ideal choice for those seeking top sushi options in the bustling city.
+  With convenient hours that include evening and weekend availability, it's
+  perfect for a memorable meal whether you're exploring local eateries or
+  looking for sushi places nearby. The moderate pricing adds to its appeal,
+  offering great value for anyone craving expertly crafted rolls and sashimi in
+  a comfortable environment.
+generative_summary: >-
+  About Sushi Lin in New York, NY$$$Sushi Lin in New York, NY, stands out as a
+  vibrant spot for authentic Japanese cuisine, blending fresh flavors and
+  innovative dishes in a welcoming setting. This sushi restaurant specializes in
+  omakase experiences that highlight high-quality ingredients, including
+  standout seafood selections that capture the essence of traditional Japanese
+  dining. Visitors appreciate the attentive service and cozy atmosphere, making
+  it an ideal choice for those seeking top sushi options in the bustling city.
+  With convenient hours that include evening and weekend availability, it's
+  perfect for a memorable meal whether you're exploring local eateries or
+  looking for sushi places nearby. The moderate pricing adds to its appeal,
+  offering great value for anyone craving expertly crafted rolls and sashimi in
+  a comfortable environment.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Visitor Feedback on Sushi Lin$$$Folks rave about the delicious omakase
+  offerings at this spot, with many highlighting the fresh seafood dishes that
+  really hit the mark for a satisfying meal. It's clear that the service stands
+  out, coming across as friendly and attentive, which helps make every visit
+  feel special and relaxed. Reviewers often note the comfortable vibe, making it
+  a solid pick for casual dinners or date nights without any fuss. Overall, the
+  consensus leans positive, suggesting it's one of those reliable sushi
+  restaurants worth trying if you're in the area and hunting for great flavors.
+  While opinions vary, the general buzz keeps things upbeat, encouraging
+  newcomers to dive in for an enjoyable experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -208,7 +326,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

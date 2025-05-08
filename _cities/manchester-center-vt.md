@@ -5,4 +5,5 @@ permalink: /vermont/manchester-center/
 stateAbbr: VT
 stateName: Vermont
 cityName: Manchester Center
+
 ---

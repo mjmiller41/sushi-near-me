@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Food For Life"
+title: Food For Life
 permalink: /new-jersey/edgewater/food-for-life.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Edgewater
 seo:
-  name: "Food For Life"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Food For Life serves delicious sushi in Edgewater, New Jersey. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJFWUR-8v3wokRtaHkXO3gbZw
 photos:
   - name: >-
@@ -167,8 +165,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c2f7cbfb116515:0x9c6de0ed5ce4a1b5!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: false
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 19
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 19
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 19
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 19
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 19
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 7:00 PM'
+    - 'Tuesday: 11:00 AM – 7:00 PM'
+    - 'Wednesday: 11:00 AM – 7:00 PM'
+    - 'Thursday: 11:00 AM – 7:00 PM'
+    - 'Friday: 11:00 AM – 7:00 PM'
+    - 'Saturday: Closed'
+    - 'Sunday: Closed'
+  nextOpenTime: '2025-05-05T15:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -176,13 +223,54 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
+phone: (201) 941-3977
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.6'
+rating_count: 112
 website: null
+description: >-
+  Discover Food For Life in Edgewater, NJ$$$Food For Life in Edgewater, NJ,
+  stands out as a welcoming spot for sushi enthusiasts, offering a casual vibe
+  and a menu focused on fresh, high-quality ingredients. This informal eatery
+  specializes in a variety of sushi rolls and poke bowls, with options that
+  cater to vegan preferences, making it a versatile choice for diverse tastes.
+  Diners can enjoy the simplicity of the setting while savoring dishes that
+  highlight the flavors of Japanese-inspired cuisine, perfect for those seeking
+  sushi restaurants nearby. The moderate price range ensures accessibility
+  without compromising on freshness, appealing to anyone exploring top-rated
+  sushi options in the area. Whether you're in the mood for a quick meal or a
+  relaxed outing, this spot delivers a straightforward yet satisfying experience
+  that emphasizes quality and variety.
+generative_summary: >-
+  Discover Food For Life in Edgewater, NJ$$$Food For Life in Edgewater, NJ,
+  stands out as a welcoming spot for sushi enthusiasts, offering a casual vibe
+  and a menu focused on fresh, high-quality ingredients. This informal eatery
+  specializes in a variety of sushi rolls and poke bowls, with options that
+  cater to vegan preferences, making it a versatile choice for diverse tastes.
+  Diners can enjoy the simplicity of the setting while savoring dishes that
+  highlight the flavors of Japanese-inspired cuisine, perfect for those seeking
+  sushi restaurants nearby. The moderate price range ensures accessibility
+  without compromising on freshness, appealing to anyone exploring top-rated
+  sushi options in the area. Whether you're in the mood for a quick meal or a
+  relaxed outing, this spot delivers a straightforward yet satisfying experience
+  that emphasizes quality and variety.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About This Sushi Spot$$$Visitors to this sushi
+  restaurant often rave about the fresh flavors and reliable portions, with many
+  highlighting it as a go-to for satisfying meals in a laid-back environment.
+  Feedback frequently points to the vegan-friendly choices and overall value,
+  making it a solid pick for groups or solo diners looking for something
+  dependable. While some note the limited hours as a minor drawback, the high
+  ratings reflect genuine appreciation for the taste and service that keeps
+  people coming back. Overall, folks enjoy the unpretentious atmosphere and the
+  way it handles classic dishes, positioning it as one of the better sushi
+  places near me for everyday enjoyment. If you're on the hunt for
+  straightforward, well-received options, this spot tends to deliver a positive
+  experience that lives up to its strong reputation.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -208,7 +296,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

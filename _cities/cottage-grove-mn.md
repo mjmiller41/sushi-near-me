@@ -5,4 +5,5 @@ permalink: /minnesota/cottage-grove/
 stateAbbr: MN
 stateName: Minnesota
 cityName: Cottage Grove
+
 ---

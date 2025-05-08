@@ -1,15 +1,14 @@
 ---
 layout: place
-title: "Bento Revolving Sushi"
+title: Bento Revolving Sushi
 permalink: /california/fair-oaks/bento-revolving-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Fair Oaks
 seo:
-  name: "Bento Revolving Sushi"
-  type: Restaurant
-  links: https://direct.chownow.com/order/19276/locations/62858?cn_channel=cn_google&utm_source=cn_google
-description: "Bento Revolving Sushi serves delicious sushi in Fair Oaks, California. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: >-
+    https://direct.chownow.com/order/19276/locations/62858?cn_channel=cn_google&utm_source=cn_google
 place_id: ChIJb2rF037nmoARBcdOv3Ps35I
 photos:
   - name: >-
@@ -170,7 +169,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x809ae77ed3c56a6f:0x92dfec73bf4ec705!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:00 PM'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -178,14 +235,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:00 PM'
     - 'Saturday: 11:00 AM – 10:00 PM'
     - 'Sunday: 11:00 AM – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 10:00 PM'
-    - 'Saturday: 11:00 AM – 10:00 PM'
-    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T05:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,36 +247,295 @@ phone: (916) 903-7160
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.3'
-rating_count: 0
+rating_count: 329
 website: >-
   https://direct.chownow.com/order/19276/locations/62858?cn_channel=cn_google&utm_source=cn_google
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Bento Revolving Sushi in Fair Oaks, CA$$$Bento Revolving Sushi in
+  Fair Oaks, CA, brings a fun and innovative twist to Japanese dining with its
+  conveyor belt system featuring fresh sushi and Korean-inspired dishes. This
+  casual spot stands out for its all-you-can-eat options and happy hour
+  specials, making it an ideal choice for those seeking affordable sushi
+  restaurants nearby. The restaurant boasts a clean, spacious atmosphere with
+  accessibility features that enhance the overall experience, catering to a wide
+  range of diners. Patrons can enjoy a variety of flavorful rolls and bento
+  boxes, perfect for families or groups looking for top-rated sushi in the area.
+  Whether you're exploring sushi places near me or craving a lively meal, this
+  location combines convenience with a welcoming vibe that keeps visitors coming
+  back.
+generative_summary: >-
+  Discover Bento Revolving Sushi in Fair Oaks, CA$$$Bento Revolving Sushi in
+  Fair Oaks, CA, brings a fun and innovative twist to Japanese dining with its
+  conveyor belt system featuring fresh sushi and Korean-inspired dishes. This
+  casual spot stands out for its all-you-can-eat options and happy hour
+  specials, making it an ideal choice for those seeking affordable sushi
+  restaurants nearby. The restaurant boasts a clean, spacious atmosphere with
+  accessibility features that enhance the overall experience, catering to a wide
+  range of diners. Patrons can enjoy a variety of flavorful rolls and bento
+  boxes, perfect for families or groups looking for top-rated sushi in the area.
+  Whether you're exploring sushi places near me or craving a lively meal, this
+  location combines convenience with a welcoming vibe that keeps visitors coming
+  back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJb2rF037nmoARBcdOv3Ps35I/reviews/ChdDSUhNMG9nS0VJQ0FnTURvbGZma3FnRRAB
+    relativePublishTimeDescription: in the last week
+    rating: 5
+    text:
+      text: >-
+        Very interesting idea with moving plates. I tried a couple from this
+        tape. Very professional staff, kind, responsive. The restaurant is clean
+        and cozy, calm and has a huge menu. I liked everything from the
+        reception of guests to the bill. I would like more seafood on the tape
+        to see and want to try. Special thanks for the fact that the restaurant
+        does not have any kitchen smells. And despite the fact that the kitchen
+        is huge, and the cooks cook, fry constantly, there are no smells from
+        the kitchen. For me, this is critically important in evaluating a
+        restaurant. I definitely recommend it, I will come again.
+      languageCode: en
+    originalText:
+      text: >-
+        Very interesting idea with moving plates. I tried a couple from this
+        tape. Very professional staff, kind, responsive. The restaurant is clean
+        and cozy, calm and has a huge menu. I liked everything from the
+        reception of guests to the bill. I would like more seafood on the tape
+        to see and want to try. Special thanks for the fact that the restaurant
+        does not have any kitchen smells. And despite the fact that the kitchen
+        is huge, and the cooks cook, fry constantly, there are no smells from
+        the kitchen. For me, this is critically important in evaluating a
+        restaurant. I definitely recommend it, I will come again.
+      languageCode: en
+    authorAttribution:
+      displayName: Polina Ko
+      uri: https://www.google.com/maps/contrib/108617178937541275939/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWYuTWMlhdzcB8zWBFPjuxJ_iZ13pB7EXXITJkLRGUrfM48RRXe=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-27T05:36:05.239758Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURvbGZma3FnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURvbGZma3FnRRAB!2m1!1s0x809ae77ed3c56a6f:0x92dfec73bf4ec705
+  - name: >-
+      places/ChIJb2rF037nmoARBcdOv3Ps35I/reviews/ChZDSUhNMG9nS0VJQ0FnSUR2MnBmcGVREAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        Sushi was fresh. Family of 5 but 1 is a baby. We ordered all you can eat
+        because our girls can eat a lot sushi. We did the math and it was the
+        better option then paying per roll. The girls love grabbing items off
+        the belt.
+
+
+        Service went above and beyond. Clean place.  And really big. Can’t wait
+        to go back!
+
+
+        * If you get all you can eat, I’d order the nigiri but not the rolls
+        only because the rolls are so big. The rolls that you order from the
+        server will come out as full size rolls and not tiny ones like on the
+        belt. I wish someone would have warned us 😆 but all good! It was a
+        yummy surprise!
+      languageCode: en
+    originalText:
+      text: >-
+        Sushi was fresh. Family of 5 but 1 is a baby. We ordered all you can eat
+        because our girls can eat a lot sushi. We did the math and it was the
+        better option then paying per roll. The girls love grabbing items off
+        the belt.
+
+
+        Service went above and beyond. Clean place.  And really big. Can’t wait
+        to go back!
+
+
+        * If you get all you can eat, I’d order the nigiri but not the rolls
+        only because the rolls are so big. The rolls that you order from the
+        server will come out as full size rolls and not tiny ones like on the
+        belt. I wish someone would have warned us 😆 but all good! It was a
+        yummy surprise!
+      languageCode: en
+    authorAttribution:
+      displayName: Erica Luna
+      uri: https://www.google.com/maps/contrib/109661525028349261843/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXh41Q4cCacgAwuDl0je56E6cpJiyGJ0_J8hZa-eYe2nOF6_C8=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2024-12-19T19:10:16.266478Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR2MnBmcGVREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR2MnBmcGVREAE!2m1!1s0x809ae77ed3c56a6f:0x92dfec73bf4ec705
+  - name: >-
+      places/ChIJb2rF037nmoARBcdOv3Ps35I/reviews/ChdDSUhNMG9nS0VJQ0FnSUM3dF9yVm93RRAB
+    relativePublishTimeDescription: 8 months ago
+    rating: 5
+    text:
+      text: >-
+        Great food, service, and atmosphere serves as a foundation to any
+        restaurant. Beneto’s Revolving Sushi went above and beyond for their
+        customer service and exquisite culinary. Moreover, inside the
+        restaurant, a sense of inspiration and diligence can be felt as servers
+        such as Anjun greet your presence like a friend or family member. Above
+        all, Beneto’s is a wonderful place to eat with family, friends, or if
+        dining for oneself.
+
+
+        Notes/Comments:
+
+        -Thank you for making my first experience of trying sushi uniquely
+        delicious and equally delectable. I had to come back a second time to
+        take pictures and try the food again.
+
+
+        -To anyone who may read this review, I recommend the Smoked Salmon and
+        Gyoza as your first dishes. IT IS TO DIE FOR! Anjun will help you as you
+        decide on what to order. Apart from her amazing personality, she will
+        make sure you are always comfortable to eat.
+
+
+        I will undoubtedly come back again!
+      languageCode: en
+    originalText:
+      text: >-
+        Great food, service, and atmosphere serves as a foundation to any
+        restaurant. Beneto’s Revolving Sushi went above and beyond for their
+        customer service and exquisite culinary. Moreover, inside the
+        restaurant, a sense of inspiration and diligence can be felt as servers
+        such as Anjun greet your presence like a friend or family member. Above
+        all, Beneto’s is a wonderful place to eat with family, friends, or if
+        dining for oneself.
+
+
+        Notes/Comments:
+
+        -Thank you for making my first experience of trying sushi uniquely
+        delicious and equally delectable. I had to come back a second time to
+        take pictures and try the food again.
+
+
+        -To anyone who may read this review, I recommend the Smoked Salmon and
+        Gyoza as your first dishes. IT IS TO DIE FOR! Anjun will help you as you
+        decide on what to order. Apart from her amazing personality, she will
+        make sure you are always comfortable to eat.
+
+
+        I will undoubtedly come back again!
+      languageCode: en
+    authorAttribution:
+      displayName: Manny Perez
+      uri: https://www.google.com/maps/contrib/110183348054932590421/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWd4s0BeUKqu1jlM_N2yG8WsIT0fsjyNewcodDQgIig1kGCXP00=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-08-19T06:34:22.105316Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUM3dF9yVm93RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUM3dF9yVm93RRAB!2m1!1s0x809ae77ed3c56a6f:0x92dfec73bf4ec705
+  - name: >-
+      places/ChIJb2rF037nmoARBcdOv3Ps35I/reviews/ChZDSUhNMG9nS0VJQ0FnSUM3dm82WmVnEAE
+    relativePublishTimeDescription: 8 months ago
+    rating: 4
+    text:
+      text: >-
+        First time here. Tried the all you can eat for $38 and thought that was
+        a bit pricey but wanted to try something new. Confused why the rice had
+        a purple tint to it. But all the rolls we tried were good. Everything
+        tasted fresh and not over cooked. Really enjoyed the ebi and baked
+        lobster roll was our favorite. Wanted to order more but our waiter
+        wasn't really coming to our table had us waiting to order more. Store
+        was clean and not busy when we went st lunch time. Will return
+      languageCode: en
+    originalText:
+      text: >-
+        First time here. Tried the all you can eat for $38 and thought that was
+        a bit pricey but wanted to try something new. Confused why the rice had
+        a purple tint to it. But all the rolls we tried were good. Everything
+        tasted fresh and not over cooked. Really enjoyed the ebi and baked
+        lobster roll was our favorite. Wanted to order more but our waiter
+        wasn't really coming to our table had us waiting to order more. Store
+        was clean and not busy when we went st lunch time. Will return
+      languageCode: en
+    authorAttribution:
+      displayName: Michelle Acosta
+      uri: https://www.google.com/maps/contrib/105328413510584891242/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXNe4yXoig3cf8aJydLLuLt5xu4A91c_H4P4mhAYqs1r4UGS8qK=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-08-16T04:30:58.911986Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUM3dm82WmVnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUM3dm82WmVnEAE!2m1!1s0x809ae77ed3c56a6f:0x92dfec73bf4ec705
+  - name: >-
+      places/ChIJb2rF037nmoARBcdOv3Ps35I/reviews/ChdDSUhNMG9nS0VJQ0FnSURINjdUdnpRRRAB
+    relativePublishTimeDescription: 7 months ago
+    rating: 5
+    text:
+      text: >-
+        Johnathan was an awesome server! Delicious, fresh food. Highly recommend
+        the Miso, Lion King, and the Bento Box with the Korean.
+      languageCode: en
+    originalText:
+      text: >-
+        Johnathan was an awesome server! Delicious, fresh food. Highly recommend
+        the Miso, Lion King, and the Bento Box with the Korean.
+      languageCode: en
+    authorAttribution:
+      displayName: Lauren Stokes
+      uri: https://www.google.com/maps/contrib/109391795561819881922/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXB0ST_c7yqhTXTEaA-SQ-q4QnJWwgd6HSLs-vqCiPk0sNsaiUS=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-09-20T03:27:28.910842Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURINjdUdnpRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURINjdUdnpRRRAB!2m1!1s0x809ae77ed3c56a6f:0x92dfec73bf4ec705
+review_summary: >-
+  What Customers Are Saying About This Spot$$$Visitors to this sushi restaurant
+  often rave about the fresh, high-quality dishes that make grabbing items off
+  the conveyor belt a highlight of their meal. Many appreciate the generous
+  portions and tasty all-you-can-eat deals, noting that the variety of rolls and
+  bento options keeps things exciting and satisfying. While service is
+  frequently described as friendly and attentive, some mention occasional waits
+  for custom orders, though the overall atmosphere remains enjoyable and worth
+  the visit. Folks find it a great pick for families or groups, with the fun
+  setup adding a playful element to dining out. Overall, it's a solid choice for
+  anyone hunting for reliable sushi experiences, blending delicious flavors with
+  a relaxed, positive vibe that encourages repeat trips.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+curbside_pickup: true
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: true
+live_music: false
+menu_for_children: true
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: false
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

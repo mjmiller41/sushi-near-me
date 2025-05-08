@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "East Hana Sushi Metuchen"
+title: East Hana Sushi Metuchen
 permalink: /new-jersey/metuchen/east-hana-sushi-metuchen.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Metuchen
 seo:
-  name: "East Hana Sushi Metuchen"
-  type: Restaurant
-  links: null
-description: "East Hana Sushi Metuchen serves delicious sushi in Metuchen, New Jersey. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://hibiscus-amethyst-mgyn.squarespace.com/
 place_id: ChIJYz7fI5a3w4kR3Wzh3LU9E0w
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c3b79623df3e63:0x4c133db5dce16cdd!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 10:00 PM'
+    - 'Tuesday: 11:00 AM – 10:00 PM'
+    - 'Wednesday: 11:00 AM – 10:00 PM'
+    - 'Thursday: 11:00 AM – 10:00 PM'
+    - 'Friday: 11:00 AM – 10:30 PM'
+    - 'Saturday: 11:00 AM – 10:30 PM'
+    - 'Sunday: 12:00 – 10:00 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,50 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (732) 372-7600
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.5'
+rating_count: 290
+website: http://hibiscus-amethyst-mgyn.squarespace.com/
+description: >-
+  Discover East Hana Sushi in Metuchen, NJ$$$East Hana Sushi in Metuchen, NJ,
+  stands out as a go-to destination for fresh Japanese cuisine, blending
+  traditional flavors with modern convenience. This sushi restaurant offers a
+  variety of dishes including expertly crafted rolls, hearty ramen, and other
+  savory options, making it ideal for both dine-in experiences and quick
+  takeout. With accessibility features like wheelchair-friendly parking and
+  entrances, it's designed to welcome everyone looking for a comfortable meal.
+  The spot maintains extended hours throughout the week, perfect for those
+  seeking sushi places near you during lunch or dinner rushes. Its inviting
+  atmosphere, hinted at through vibrant photos, ensures a relaxing spot for
+  enjoying top-rated Japanese fare close to home.
+generative_summary: >-
+  Discover East Hana Sushi in Metuchen, NJ$$$East Hana Sushi in Metuchen, NJ,
+  stands out as a go-to destination for fresh Japanese cuisine, blending
+  traditional flavors with modern convenience. This sushi restaurant offers a
+  variety of dishes including expertly crafted rolls, hearty ramen, and other
+  savory options, making it ideal for both dine-in experiences and quick
+  takeout. With accessibility features like wheelchair-friendly parking and
+  entrances, it's designed to welcome everyone looking for a comfortable meal.
+  The spot maintains extended hours throughout the week, perfect for those
+  seeking sushi places near you during lunch or dinner rushes. Its inviting
+  atmosphere, hinted at through vibrant photos, ensures a relaxing spot for
+  enjoying top-rated Japanese fare close to home.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this sushi restaurant often highlight
+  the consistently fresh and flavorful dishes that keep them coming back for
+  more. Many appreciate the solid portion sizes and variety, making it a great
+  choice for casual meals or group outings without breaking the bank. Feedback
+  frequently notes the efficient service and welcoming vibe, adding to the
+  overall enjoyable experience for families and friends alike. While a few
+  mentions touch on minor waits during peak times, the high satisfaction level
+  shines through in the positive ratings. Overall, it's clear that this spot
+  delivers reliable Japanese cuisine that satisfies cravings for sushi near me,
+  leaving diners eager to return for another taste.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +311,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

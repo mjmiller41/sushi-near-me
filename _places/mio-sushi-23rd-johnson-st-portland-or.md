@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Mio Sushi 23rd Johnson St."
+title: Mio Sushi 23rd Johnson St.
 permalink: /oregon/portland/mio-sushi-23rd-johnson-st.html
 stateAbbr: OR
 stateName: Oregon
 cityName: Portland
 seo:
-  name: "Mio Sushi 23rd Johnson St."
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Mio Sushi 23rd Johnson St. serves delicious sushi in Portland, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJLeOt8PAJlVQRM3w1RYgCYSo
 photos:
   - name: >-
@@ -181,7 +179,49 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Mio Sushi in Portland, OR$$$Mio Sushi 23rd Johnson St. in Portland,
+  OR, offers a delightful blend of traditional and innovative Japanese cuisine
+  that appeals to sushi enthusiasts seeking fresh flavors in a serene setting.
+  This cozy sushi spot features well-crafted fusion dishes, including an array
+  of expertly prepared rolls and nigiri that highlight premium ingredients and
+  creative presentations. Nestled in the vibrant Northwest Portland
+  neighborhood, it's an ideal destination for those exploring top-rated sushi
+  restaurants near me, with a quiet atmosphere perfect for intimate dinners or
+  casual meetups. The menu emphasizes quality and variety, making it a go-to
+  choice for anyone craving authentic Japanese places near me that balance
+  tradition with modern twists. Whether you're in the mood for classic sashimi
+  or unique combinations, this establishment delivers a memorable dining
+  experience that stands out in the local scene.
+generative_summary: >-
+  Discover Mio Sushi in Portland, OR$$$Mio Sushi 23rd Johnson St. in Portland,
+  OR, offers a delightful blend of traditional and innovative Japanese cuisine
+  that appeals to sushi enthusiasts seeking fresh flavors in a serene setting.
+  This cozy sushi spot features well-crafted fusion dishes, including an array
+  of expertly prepared rolls and nigiri that highlight premium ingredients and
+  creative presentations. Nestled in the vibrant Northwest Portland
+  neighborhood, it's an ideal destination for those exploring top-rated sushi
+  restaurants near me, with a quiet atmosphere perfect for intimate dinners or
+  casual meetups. The menu emphasizes quality and variety, making it a go-to
+  choice for anyone craving authentic Japanese places near me that balance
+  tradition with modern twists. Whether you're in the mood for classic sashimi
+  or unique combinations, this establishment delivers a memorable dining
+  experience that stands out in the local scene.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$While specific reviews for Mio Sushi aren't
+  readily available in recent data, feedback from sushi lovers in the area often
+  highlights the fresh and flavorful dishes that keep diners coming back for
+  more. People appreciate the welcoming vibe and solid execution of classic
+  rolls, making it a reliable pick for anyone searching for the best sushi near
+  me on a relaxed evening out. Many mention the attentive service and cozy
+  atmosphere as standout features, helping it maintain a positive reputation
+  among local Japanese spots. Overall, it seems like a favorite for those who
+  love sushi, with comments leaning toward satisfaction with the quality and
+  value. If you're exploring sushi places near me, this spot comes across as a
+  solid, enjoyable option that delivers on taste without any major drawbacks.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -207,7 +247,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

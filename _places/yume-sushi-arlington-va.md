@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yume Sushi"
+title: Yume Sushi
 permalink: /virginia/arlington/yume-sushi.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Arlington
 seo:
-  name: "Yume Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.yumesushiva.com/
-description: "Stylish, understated restaurant for sushi & sashimi featuring bold wall murals & an open kitchen. Yume Sushi serves delicious sushi in Arlington, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJq6pqNO60t4kRfNZpCUNWjRs
 photos:
   - name: >-
@@ -185,6 +183,35 @@ price_range: $50 &ndash; $100
 rating: '4.8'
 rating_count: 0
 website: http://www.yumesushiva.com/
+description: >-
+  Discover Yume Sushi in Arlington, Virginia$$$Yume Sushi in Arlington, VA,
+  stands out as an upscale eatery offering a blend of traditional Japanese fare,
+  including fresh sushi rolls and a curated tasting menu paired with sake
+  options. The restaurant features a stylish, understated ambiance with bold
+  wall murals and an open kitchen that adds to the lively dining experience,
+  making it a go-to spot for those seeking top-rated sushi restaurants in the
+  area. Accessibility is a key highlight, with wheelchair-friendly parking,
+  entrances, restrooms, and seating ensuring everyone can enjoy the high-quality
+  dishes. Patrons appreciate the moderate price range, which reflects the use of
+  premium ingredients and creative presentations that elevate everyday meals.
+  Whether you're exploring sushi places near you or looking for
+  Japanese-inspired dining, this spot delivers an authentic and memorable
+  atmosphere.
+generative_summary: >-
+  Discover Yume Sushi in Arlington, Virginia$$$Yume Sushi in Arlington, VA,
+  stands out as an upscale eatery offering a blend of traditional Japanese fare,
+  including fresh sushi rolls and a curated tasting menu paired with sake
+  options. The restaurant features a stylish, understated ambiance with bold
+  wall murals and an open kitchen that adds to the lively dining experience,
+  making it a go-to spot for those seeking top-rated sushi restaurants in the
+  area. Accessibility is a key highlight, with wheelchair-friendly parking,
+  entrances, restrooms, and seating ensuring everyone can enjoy the high-quality
+  dishes. Patrons appreciate the moderate price range, which reflects the use of
+  premium ingredients and creative presentations that elevate everyday meals.
+  Whether you're exploring sushi places near you or looking for
+  Japanese-inspired dining, this spot delivers an authentic and memorable
+  atmosphere.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJq6pqNO60t4kRfNZpCUNWjRs/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRMF9YTUJBEAE
@@ -422,6 +449,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNJN0tDQVNREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNJN0tDQVNREAE!2m1!1s0x89b7b4ee346aaaab:0x1b8d56430969d67c
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors often praise the fresh and flavorful
+  sushi selections, like creamy scallop rolls and wagyu nigiri, which stand out
+  for their quality and creativity in a casual yet elegant setting. While one
+  comment mentioned the portions might feel small for the price, most agree the
+  overall value shines through in the attentive service and welcoming vibe that
+  makes every meal feel special. Folks love how the restaurant handles groups
+  and special occasions, with highlights on the omakase tasting menu featuring
+  premium ingredients that keep things exciting. If you're hunting for the best
+  sushi near me, this place generally delivers a solid experience that's worth
+  trying, especially for date nights or gatherings. Overall, the positive vibes
+  dominate, encouraging return visits for anyone craving reliable Japanese
+  cuisine in a friendly environment.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: false
   freeStreetParking: false
@@ -457,8 +498,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Stylish, understated restaurant for sushi & sashimi featuring bold wall murals
   & an open kitchen.
 

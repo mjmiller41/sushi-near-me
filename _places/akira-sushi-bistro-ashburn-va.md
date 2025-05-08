@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Akira Sushi Bistro"
+title: Akira Sushi Bistro
 permalink: /virginia/ashburn/akira-sushi-bistro.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Ashburn
 seo:
-  name: "Akira Sushi Bistro"
-  type: Restaurant
-  links: null
-description: "Akira Sushi Bistro serves delicious sushi in Ashburn, Virginia. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://akirasushiashburn.com/
 place_id: ChIJ_bqzsQA8tokRfGCk7C-wGkA
 photos:
   - name: >-
@@ -170,8 +168,113 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89b63c00b1b3bafd:0x401ab02feca4607c!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 16
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:30 AM – 2:30 PM, 4:30 – 9:30 PM'
+    - 'Tuesday: 11:30 AM – 2:30 PM, 4:30 – 9:30 PM'
+    - 'Wednesday: 11:30 AM – 2:30 PM, 4:30 – 9:30 PM'
+    - 'Thursday: 11:30 AM – 2:30 PM, 4:30 – 9:30 PM'
+    - 'Friday: 11:30 AM – 2:30 PM, 4:30 – 10:00 PM'
+    - 'Saturday: 12:00 – 10:00 PM'
+    - 'Sunday: 4:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +282,49 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (703) 723-6799
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.6'
+rating_count: 482
+website: http://akirasushiashburn.com/
+description: >-
+  About Akira Sushi Bistro in Ashburn, Virginia$$$Akira Sushi Bistro in Ashburn,
+  Virginia, stands out as a welcoming spot for those seeking quality Japanese
+  cuisine in a relaxed setting. This sushi restaurant offers an array of fresh
+  rolls, sashimi, and tempura, paired with a selection of sake, beer, wine, and
+  cocktails to enhance the dining experience. Families will appreciate the
+  thoughtful options like a kids' menu, making it easy to enjoy authentic
+  flavors together. The eatery emphasizes accessibility with features like
+  wheelchair-friendly parking and entrances, ensuring everyone can savor the
+  meal. Whether you're looking for sushi places near you or a casual evening
+  out, this bistro delivers a blend of taste and convenience that keeps locals
+  coming back.
+generative_summary: >-
+  About Akira Sushi Bistro in Ashburn, Virginia$$$Akira Sushi Bistro in Ashburn,
+  Virginia, stands out as a welcoming spot for those seeking quality Japanese
+  cuisine in a relaxed setting. This sushi restaurant offers an array of fresh
+  rolls, sashimi, and tempura, paired with a selection of sake, beer, wine, and
+  cocktails to enhance the dining experience. Families will appreciate the
+  thoughtful options like a kids' menu, making it easy to enjoy authentic
+  flavors together. The eatery emphasizes accessibility with features like
+  wheelchair-friendly parking and entrances, ensuring everyone can savor the
+  meal. Whether you're looking for sushi places near you or a casual evening
+  out, this bistro delivers a blend of taste and convenience that keeps locals
+  coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Feedback on Akira Sushi Bistro$$$Folks around Ashburn often rave about the
+  fresh and flavorful sushi, sashimi, and tempura that make meals here feel
+  truly satisfying. Many appreciate the little extras, like the complimentary
+  salad and miso soup, which add a nice touch without breaking the bank. Service
+  stands out as friendly and attentive, helping to create a comfortable vibe for
+  diners of all kinds. Overall, the reasonable prices combined with solid
+  portions make it a go-to choice for anyone hunting for reliable Japanese eats.
+  While opinions can vary, the general buzz keeps a positive spin, encouraging
+  newcomers to give it a try for a laid-back dining adventure.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +350,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Xevichez"
+title: Xevichez
 permalink: /california/palmdale/xevichez.html
 stateAbbr: CA
 stateName: California
 cityName: Palmdale
 seo:
-  name: "Xevichez"
-  type: Restaurant
+  type: restaurant
   links: https://www.xevichezpalmdale.com/
-description: "Xevichez serves delicious sushi in Palmdale, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ5xZHHo9ZwoARqxAcXvD-yn0
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c2598f1e4716e7:0x7dcafef05e1c10ab!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 0
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 0
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 10:00 PM'
     - 'Tuesday: 11:00 AM – 10:00 PM'
     - 'Wednesday: 11:00 AM – 10:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 12:00 AM'
     - 'Saturday: 12:00 PM – 12:00 AM'
     - 'Sunday: 11:00 AM – 10:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 10:00 PM'
-    - 'Tuesday: 11:00 AM – 10:00 PM'
-    - 'Wednesday: 11:00 AM – 10:00 PM'
-    - 'Thursday: 11:00 AM – 10:00 PM'
-    - 'Friday: 11:00 AM – 12:00 AM'
-    - 'Saturday: 12:00 PM – 12:00 AM'
-    - 'Sunday: 11:00 AM – 10:00 PM'
+  nextCloseTime: '2025-05-04T07:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +246,46 @@ phone: (661) 282-1289
 price_level: null
 price_range: null
 rating: '4.1'
-rating_count: 0
+rating_count: 213
 website: https://www.xevichezpalmdale.com/
+description: >-
+  Discover Xevichez in Palmdale, CA$$$Xevichez in Palmdale, CA, stands out as a
+  relaxed dining destination blending fresh sushi with flavorful
+  Mexican-inspired dishes, creating a unique culinary fusion. The spot features
+  a casual vibe perfect for enjoying tacos, other savory plates, and refreshing
+  drinks at the bar, making it an ideal choice for a laid-back meal.
+  Accessibility options like wheelchair-friendly parking and entrances ensure a
+  welcoming experience for all visitors, enhancing its appeal as a go-to sushi
+  restaurant in the area. Whether you're exploring sushi options nearby or
+  seeking Japanese-inspired places with a twist, this location offers a lively
+  atmosphere that caters to diverse tastes, all while maintaining a focus on
+  quality and convenience.
+generative_summary: >-
+  Discover Xevichez in Palmdale, CA$$$Xevichez in Palmdale, CA, stands out as a
+  relaxed dining destination blending fresh sushi with flavorful
+  Mexican-inspired dishes, creating a unique culinary fusion. The spot features
+  a casual vibe perfect for enjoying tacos, other savory plates, and refreshing
+  drinks at the bar, making it an ideal choice for a laid-back meal.
+  Accessibility options like wheelchair-friendly parking and entrances ensure a
+  welcoming experience for all visitors, enhancing its appeal as a go-to sushi
+  restaurant in the area. Whether you're exploring sushi options nearby or
+  seeking Japanese-inspired places with a twist, this location offers a lively
+  atmosphere that caters to diverse tastes, all while maintaining a focus on
+  quality and convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors often highlight the delicious sushi and
+  fried ramen as standout features at this spot, paired with impressive drink
+  selections that keep things exciting. The service is frequently praised for
+  being friendly and attentive, contributing to a fun, energetic environment
+  filled with lively music that makes dining out feel special. While some note
+  that prices can lean toward the higher side, the overall value from the
+  flavorful offerings and welcoming vibe tends to win people over. If you're on
+  the hunt for top-rated sushi restaurants nearby, this place delivers a
+  satisfying experience that's worth checking out, blending honest flavors with
+  a positive, engaging setting.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +311,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

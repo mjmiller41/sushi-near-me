@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Orange Roll & Sushi"
+title: Orange Roll & Sushi
 permalink: /california/tustin/orange-roll-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Tustin
 seo:
-  name: "Orange Roll & Sushi"
-  type: Restaurant
-  links: null
-description: "Orange Roll & Sushi serves delicious sushi in Tustin, California. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.orangerollandsushi.com/
 place_id: ChIJR8Op6dvb3IAR9BvbmiJquMU
 photos:
   - name: >-
@@ -170,22 +168,189 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80dcdbdbe9a9c347:0xc5b86a229adb1bf4!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 9:00 PM'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 9:00 PM'
+    - 'Saturday: 12:00 – 9:00 PM'
+    - 'Sunday: 12:30 – 9:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 30
+        close:
+          day: 0
+          hour: 20
+          minute: 45
+      - open:
+          day: 1
+          hour: 11
+          minute: 0
+        close:
+          day: 1
+          hour: 20
+          minute: 45
+      - open:
+          day: 2
+          hour: 11
+          minute: 0
+        close:
+          day: 2
+          hour: 20
+          minute: 45
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 20
+          minute: 45
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 20
+          minute: 45
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 20
+          minute: 45
+      - open:
+          day: 6
+          hour: 12
+          minute: 0
+        close:
+          day: 6
+          hour: 20
+          minute: 45
+    weekdayDescriptions:
+      - 'Monday: 11:00 AM – 8:45 PM'
+      - 'Tuesday: 11:00 AM – 8:45 PM'
+      - 'Wednesday: 11:00 AM – 8:45 PM'
+      - 'Thursday: 11:00 AM – 8:45 PM'
+      - 'Friday: 11:00 AM – 8:45 PM'
+      - 'Saturday: 12:00 – 8:45 PM'
+      - 'Sunday: 12:30 – 8:45 PM'
+    secondaryHoursType: TAKEOUT
+    nextCloseTime: '2025-05-04T03:45:00Z'
+phone: (714) 734-9300
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.4'
+rating_count: 518
+website: http://www.orangerollandsushi.com/
+description: >-
+  Discover Orange Roll & Sushi in Tustin, CA$$$Orange Roll & Sushi in Tustin,
+  CA, stands out as a welcoming spot for enjoying fresh sushi rolls and
+  traditional Japanese entrees in a cozy, intimate setting. This sushi
+  restaurant near you emphasizes accessibility with features like
+  wheelchair-friendly parking and entrances, making it easy for everyone to
+  savor their meals. Patrons can expect a menu that highlights high-quality
+  ingredients and creative flavors, perfect for those seeking top-rated sushi
+  options close to home. The establishment maintains convenient hours, typically
+  open from late morning into the evening, allowing for relaxed lunches or
+  dinners. With its comfortable atmosphere, it's an ideal choice for anyone
+  exploring Japanese places near me who appreciates straightforward, satisfying
+  dining.
+generative_summary: >-
+  Discover Orange Roll & Sushi in Tustin, CA$$$Orange Roll & Sushi in Tustin,
+  CA, stands out as a welcoming spot for enjoying fresh sushi rolls and
+  traditional Japanese entrees in a cozy, intimate setting. This sushi
+  restaurant near you emphasizes accessibility with features like
+  wheelchair-friendly parking and entrances, making it easy for everyone to
+  savor their meals. Patrons can expect a menu that highlights high-quality
+  ingredients and creative flavors, perfect for those seeking top-rated sushi
+  options close to home. The establishment maintains convenient hours, typically
+  open from late morning into the evening, allowing for relaxed lunches or
+  dinners. With its comfortable atmosphere, it's an ideal choice for anyone
+  exploring Japanese places near me who appreciates straightforward, satisfying
+  dining.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying About This Sushi Spot$$$From the high ratings and
+  numerous comments, it seems folks really enjoy the fresh, well-prepared sushi
+  and entrees at this local favorite, often highlighting the great taste and
+  value for the price. Many appreciate the friendly service and quick delivery
+  of dishes, making it a go-to for casual meals with friends or family in the
+  area. While some mention portions could vary, the overall consensus leans
+  positive, with diners frequently praising the flavorful rolls that keep them
+  coming back for more. If you're on the hunt for sushi restaurants near me,
+  this spot delivers a solid experience that's both affordable and enjoyable.
+  Overall, the buzz suggests it's a reliable pick for anyone craving top-rated
+  sushi without the fuss, blending honest quality with a welcoming vibe.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +376,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Omakase SUSHI DAIRO"
+title: Omakase SUSHI DAIRO
 permalink: /new-york/new-york/omakase-sushi-dairo.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "Omakase SUSHI DAIRO"
-  type: Restaurant
+  type: restaurant
   links: https://omakasesushidairo.com/
-description: "Omakase SUSHI DAIRO serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJub3k-H9ZwokReqic2hvVbgE
 photos:
   - name: >-
@@ -183,6 +181,29 @@ price_range: $50 &ndash; $100
 rating: '4.8'
 rating_count: 0
 website: https://omakasesushidairo.com/
+description: >-
+  Explore Omakase SUSHI DAIRO in New York, NY$$$Omakase SUSHI DAIRO in New York,
+  NY, offers a welcoming spot for those seeking fresh sushi experiences in a
+  casual setting. This sushi restaurant specializes in an omakase menu that
+  highlights high-quality fish and innovative flavors, making it a go-to choice
+  for authentic Japanese dining. With options for both lunch and dinner,
+  visitors can enjoy expertly prepared dishes that emphasize seasonal
+  ingredients and traditional techniques. The intimate atmosphere adds to the
+  appeal, providing a relaxed environment for savoring top-rated sushi
+  selections. Conveniently located in the heart of the city, it's an ideal
+  destination for anyone exploring sushi restaurants near me.
+generative_summary: >-
+  Explore Omakase SUSHI DAIRO in New York, NY$$$Omakase SUSHI DAIRO in New York,
+  NY, offers a welcoming spot for those seeking fresh sushi experiences in a
+  casual setting. This sushi restaurant specializes in an omakase menu that
+  highlights high-quality fish and innovative flavors, making it a go-to choice
+  for authentic Japanese dining. With options for both lunch and dinner,
+  visitors can enjoy expertly prepared dishes that emphasize seasonal
+  ingredients and traditional techniques. The intimate atmosphere adds to the
+  appeal, providing a relaxed environment for savoring top-rated sushi
+  selections. Conveniently located in the heart of the city, it's an ideal
+  destination for anyone exploring sushi restaurants near me.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJub3k-H9ZwokReqic2hvVbgE/reviews/ChZDSUhNMG9nS0VJQ0FnSURQZ2VmN0FREAE
@@ -352,6 +373,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN4MktpRXlnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN4MktpRXlnRRAB!2m1!1s0x89c2597ff8e4bdb9:0x16ed51bda9ca87a
+review_summary: >-
+  What Visitors Are Buzzing About$$$Folks heading to this sushi spot often
+  praise the fresh fish and creative omakase offerings, though some note that
+  certain dishes could use a bit more refinement in seasoning. Overall, the
+  experience stands out for its solid value and approachable vibe, with many
+  appreciating the variety of Japanese-inspired plates that keep things
+  exciting. While a few diners have mentioned occasional inconsistencies in
+  flavor combinations, the general consensus leans toward the positives, like
+  the well-executed sushi platters that make it worth a return visit. If you're
+  on the hunt for reliable sushi places near me, this location delivers a mix of
+  hits that highlight its strengths in fresh ingredients and service. Keep in
+  mind it's a great pick for a casual meal, offering enough highlights to make
+  your dining adventure enjoyable despite any minor drawbacks.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options:
   acceptsCreditCards: true
@@ -381,7 +416,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

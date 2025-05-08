@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Udon Thai and Sushi"
+title: Udon Thai and Sushi
 permalink: /ohio/west-chester-township/udon-thai-and-sushi.html
 stateAbbr: OH
 stateName: Ohio
 cityName: West Chester Township
 seo:
-  name: "Udon Thai and Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.udonthaisushi.com/
-description: "Udon Thai and Sushi serves delicious sushi in West Chester Township, Ohio. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJM58FDARPQIgR5_B6E39CPU8
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 0
 website: http://www.udonthaisushi.com/
+description: >-
+  About Udon Thai and Sushi$$$Udon Thai and Sushi in West Chester Township, OH,
+  is a welcoming spot blending authentic Thai flavors with fresh sushi options
+  in a cozy, relaxed environment. This restaurant highlights its Thai
+  specialties and sushi selections, making it a go-to choice for those seeking
+  flavorful Asian cuisine nearby. With thoughtful accessibility features and
+  ample parking, it's designed for comfortable visits, whether you're dining in
+  or grabbing takeout. The menu boasts generous portions at moderate prices,
+  including options for vegetarians and those enjoying beer or wine with their
+  meal. Its inviting atmosphere makes it easy to savor every bite while
+  exploring top-rated dishes that appeal to sushi enthusiasts.
+generative_summary: >-
+  About Udon Thai and Sushi$$$Udon Thai and Sushi in West Chester Township, OH,
+  is a welcoming spot blending authentic Thai flavors with fresh sushi options
+  in a cozy, relaxed environment. This restaurant highlights its Thai
+  specialties and sushi selections, making it a go-to choice for those seeking
+  flavorful Asian cuisine nearby. With thoughtful accessibility features and
+  ample parking, it's designed for comfortable visits, whether you're dining in
+  or grabbing takeout. The menu boasts generous portions at moderate prices,
+  including options for vegetarians and those enjoying beer or wine with their
+  meal. Its inviting atmosphere makes it easy to savor every bite while
+  exploring top-rated dishes that appeal to sushi enthusiasts.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJM58FDARPQIgR5_B6E39CPU8/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3NDR1NjVBRRAB
@@ -358,6 +379,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURmdXZERURREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURmdXZERURREAE!2m1!1s0x88404f040c059f33:0x4f3d427f137af0e7
+review_summary: >-
+  Customer Feedback Highlights$$$Visitors often rave about the delicious sushi
+  and Thai dishes at this spot, praising the fresh flavors and generous portions
+  that make every meal feel satisfying. Many appreciate the friendly service and
+  peaceful vibe, which create a relaxed setting perfect for casual get-togethers
+  or quick lunches. Folks highlight standout items like flavorful noodles and
+  appetizers, noting how they exceed expectations without breaking the bank.
+  Overall, the consensus is that this place delivers a solid experience for
+  anyone craving quality Asian fare, with most leaving eager to return for more.
+  It's clear from the feedback that the combination of tasty options and
+  attentive staff keeps diners coming back for reliable, enjoyable meals.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -390,7 +423,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

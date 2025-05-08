@@ -5,4 +5,5 @@ permalink: /north-carolina/wilmington/
 stateAbbr: NC
 stateName: North Carolina
 cityName: Wilmington
+
 ---

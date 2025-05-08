@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Nagoya Japanese Cuisine"
+title: Nagoya Japanese Cuisine
 permalink: /kansas/lawrence/nagoya-japanese-cuisine.html
 stateAbbr: KS
 stateName: Kansas
 cityName: Lawrence
 seo:
-  name: "Nagoya Japanese Cuisine"
-  type: Restaurant
-  links: null
-description: "Nagoya Japanese Cuisine serves delicious sushi in Lawrence, Kansas. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.nagoyajapanesecuisine.com/
 place_id: ChIJY7eIg7lov4cRUSRYIMRDlbg
 photos:
   - name: >-
@@ -170,8 +168,89 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x87bf68b98388b763:0xb89543c420582451!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 15
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: Closed'
+    - 'Tuesday: 11:00 AM – 3:00 PM, 4:30 – 9:30 PM'
+    - 'Wednesday: 11:00 AM – 3:00 PM, 4:30 – 9:30 PM'
+    - 'Thursday: 11:00 AM – 3:00 PM, 4:30 – 9:30 PM'
+    - 'Friday: 11:00 AM – 10:00 PM'
+    - 'Saturday: 12:00 – 10:00 PM'
+    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +258,45 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (785) 843-1111
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.7'
+rating_count: 433
+website: https://www.nagoyajapanesecuisine.com/
+description: >-
+  Discover Nagoya Japanese Cuisine in Lawrence, KS$$$Nagoya Japanese Cuisine in
+  Lawrence, KS, stands out as a welcoming spot for those seeking authentic
+  Japanese flavors, featuring a variety of fresh sushi and hibachi options that
+  highlight traditional techniques. This casual eatery serves up noodle and rice
+  dishes in a family-friendly setting, making it ideal for anyone exploring
+  top-rated Japanese places near you. With its accessible design and moderate
+  pricing, it caters to a wide range of diners looking for quality meals without
+  the fuss. The venue's relaxed atmosphere invites patrons to enjoy inventive
+  takes on classic fare, perfect for a satisfying lunch or dinner outing.
+generative_summary: >-
+  Discover Nagoya Japanese Cuisine in Lawrence, KS$$$Nagoya Japanese Cuisine in
+  Lawrence, KS, stands out as a welcoming spot for those seeking authentic
+  Japanese flavors, featuring a variety of fresh sushi and hibachi options that
+  highlight traditional techniques. This casual eatery serves up noodle and rice
+  dishes in a family-friendly setting, making it ideal for anyone exploring
+  top-rated Japanese places near you. With its accessible design and moderate
+  pricing, it caters to a wide range of diners looking for quality meals without
+  the fuss. The venue's relaxed atmosphere invites patrons to enjoy inventive
+  takes on classic fare, perfect for a satisfying lunch or dinner outing.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Recent Reviews$$$Visitors to this sushi restaurant often praise
+  the flavorful selection of rolls and other Japanese dishes, noting how they
+  hit the spot for anyone craving fresh, well-prepared options. Many appreciate
+  the attentive service that makes dining out feel easy and enjoyable, along
+  with the reasonable prices that keep things approachable for casual meals. The
+  calm and welcoming vibe adds to the overall experience, creating a go-to spot
+  for groups or families searching for reliable sushi near me. Overall, feedback
+  highlights it as a solid choice for tasty eats in a comfortable environment,
+  encouraging repeat visits for its consistent quality.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +322,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

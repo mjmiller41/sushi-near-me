@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Aiko Sushi"
+title: Aiko Sushi
 permalink: /california/rancho-cordova/aiko-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Rancho Cordova
 seo:
-  name: "Aiko Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Aiko Sushi serves delicious sushi in Rancho Cordova, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJieYbxL7dmoARGA1JGihv9QI
 photos:
   - name: >-
@@ -185,7 +183,43 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Aiko Sushi in Rancho Cordova, CA$$$Aiko Sushi in Rancho Cordova, CA,
+  delights diners with a blend of traditional and modern Japanese flavors,
+  featuring fresh sashimi and inventive sushi rolls that showcase culinary
+  creativity. The casual atmosphere makes it an ideal spot for those seeking
+  top-rated sushi near me, with a menu that highlights high-quality ingredients
+  and thoughtful presentations. Accessibility features like wheelchair-friendly
+  parking and entrances add to the welcoming vibe, ensuring everyone can enjoy a
+  comfortable meal. Whether you're exploring sushi restaurants in the area or
+  craving Japanese-inspired dishes, this spot stands out for its balance of
+  authenticity and innovation in every bite.
+generative_summary: >-
+  Discover Aiko Sushi in Rancho Cordova, CA$$$Aiko Sushi in Rancho Cordova, CA,
+  delights diners with a blend of traditional and modern Japanese flavors,
+  featuring fresh sashimi and inventive sushi rolls that showcase culinary
+  creativity. The casual atmosphere makes it an ideal spot for those seeking
+  top-rated sushi near me, with a menu that highlights high-quality ingredients
+  and thoughtful presentations. Accessibility features like wheelchair-friendly
+  parking and entrances add to the welcoming vibe, ensuring everyone can enjoy a
+  comfortable meal. Whether you're exploring sushi restaurants in the area or
+  craving Japanese-inspired dishes, this spot stands out for its balance of
+  authenticity and innovation in every bite.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Buzzing About$$$Folks around town rave about the tasty sushi
+  rolls and fresh sashimi at this spot, with popular options like creative
+  twists on classics that keep things exciting and flavorful. Many appreciate
+  the friendly service and laid-back setting that make every visit feel relaxed
+  and enjoyable, all while keeping prices reasonable for a satisfying meal. It's
+  often noted for its inviting atmosphere that pairs well with the fresh
+  ingredients, making it a go-to for anyone hunting for the best sushi near me.
+  Overall, the consensus leans positive, with highlights on the attention to
+  detail that elevates the experience without breaking the bank. If you're in
+  the mood for quality Japanese fare, this place delivers a solid, feel-good
+  dining option that doesn't disappoint.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +245,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

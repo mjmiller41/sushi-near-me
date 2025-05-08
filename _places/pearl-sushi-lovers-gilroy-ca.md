@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Pearl Sushi Lovers"
+title: Pearl Sushi Lovers
 permalink: /california/gilroy/pearl-sushi-lovers.html
 stateAbbr: CA
 stateName: California
 cityName: Gilroy
 seo:
-  name: "Pearl Sushi Lovers"
-  type: Restaurant
+  type: restaurant
   links: http://pearlsushilovers.com/
-description: "Pearl Sushi Lovers serves delicious sushi in Gilroy, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ703e66LjkYAREhNE5_-lvLY
 photos:
   - name: >-
@@ -170,7 +168,49 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8091e3a2ebde4def:0xb6bca5ffe7441312!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: Closed'
     - 'Wednesday: 5:00 – 9:00 PM'
@@ -178,14 +218,7 @@ opening_hours:
     - 'Friday: 5:00 – 9:30 PM'
     - 'Saturday: 5:00 – 9:00 PM'
     - 'Sunday: 5:00 – 9:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: Closed'
-    - 'Wednesday: 5:00 – 9:00 PM'
-    - 'Thursday: 5:00 – 9:00 PM'
-    - 'Friday: 5:00 – 9:30 PM'
-    - 'Saturday: 5:00 – 9:00 PM'
-    - 'Sunday: 5:00 – 9:00 PM'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +230,218 @@ phone: (408) 767-2972
 price_level: PRICE_LEVEL_MODERATE
 price_range: $30 &ndash; $50
 rating: '4.3'
-rating_count: 0
+rating_count: 66
 website: http://pearlsushilovers.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Pearl Sushi Lovers in Gilroy, California$$$Pearl Sushi Lovers in
+  Gilroy, CA, is a welcoming sushi restaurant that serves fresh creations in a
+  relaxed atmosphere, perfect for those seeking Japanese-inspired dining options
+  nearby. The spot emphasizes high-quality ingredients and thoughtful
+  presentations, making it an ideal choice for enjoying flavorful rolls and
+  other specialties in a casual setting. Accessibility features like
+  wheelchair-friendly parking and entrances enhance the experience for all
+  guests, while the cozy decor adds a touch of charm to your meal. Operating in
+  the evenings from Wednesday through Sunday, it caters to those looking for
+  moderately priced sushi experiences that balance taste and convenience in the
+  South Valley area.
+generative_summary: >-
+  Discover Pearl Sushi Lovers in Gilroy, California$$$Pearl Sushi Lovers in
+  Gilroy, CA, is a welcoming sushi restaurant that serves fresh creations in a
+  relaxed atmosphere, perfect for those seeking Japanese-inspired dining options
+  nearby. The spot emphasizes high-quality ingredients and thoughtful
+  presentations, making it an ideal choice for enjoying flavorful rolls and
+  other specialties in a casual setting. Accessibility features like
+  wheelchair-friendly parking and entrances enhance the experience for all
+  guests, while the cozy decor adds a touch of charm to your meal. Operating in
+  the evenings from Wednesday through Sunday, it caters to those looking for
+  moderately priced sushi experiences that balance taste and convenience in the
+  South Valley area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ703e66LjkYAREhNE5_-lvLY/reviews/ChZDSUhNMG9nS0VJQ0FnTURvMDdYY2NnEAE
+    relativePublishTimeDescription: in the last week
+    rating: 5
+    text:
+      text: >-
+        excellent food, beautiful presentation of dishes and personable service.
+        family run with a lot of attention to details. love the kimonos on the
+        wall. wonderful rolls. enjoyed the taiwanese style udon beef soup!
+      languageCode: en
+    originalText:
+      text: >-
+        excellent food, beautiful presentation of dishes and personable service.
+        family run with a lot of attention to details. love the kimonos on the
+        wall. wonderful rolls. enjoyed the taiwanese style udon beef soup!
+      languageCode: en
+    authorAttribution:
+      displayName: Scott Loo
+      uri: https://www.google.com/maps/contrib/106521109536578072952/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUcRTszA49-9F37_NWP_kcAR69OuWWNG5ggz469rV2rEBpCQsdJ=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-28T15:08:14.857941Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURvMDdYY2NnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURvMDdYY2NnEAE!2m1!1s0x8091e3a2ebde4def:0xb6bca5ffe7441312
+  - name: >-
+      places/ChIJ703e66LjkYAREhNE5_-lvLY/reviews/ChdDSUhNMG9nS0VJQ0FnTURvX2Z1c21nRRAB
+    relativePublishTimeDescription: in the last week
+    rating: 5
+    text:
+      text: >-
+        A fairly new restaurant. Limited menu but everything we had was tasty
+        and presented well…house special  roll and the beef noodle soup.  Really
+        liked the decor too…two beautiful kimonos mounted on the wall. Will be
+        coming back to try more food.
+      languageCode: en
+    originalText:
+      text: >-
+        A fairly new restaurant. Limited menu but everything we had was tasty
+        and presented well…house special  roll and the beef noodle soup.  Really
+        liked the decor too…two beautiful kimonos mounted on the wall. Will be
+        coming back to try more food.
+      languageCode: en
+    authorAttribution:
+      displayName: Evelyn Loo
+      uri: https://www.google.com/maps/contrib/108237517430875126300/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUEvN3lb48ZlXt3jC2qc_p39d1tDOd3j65YB48MeQ09dvJmk1fE=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-28T04:05:01.664035Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURvX2Z1c21nRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURvX2Z1c21nRRAB!2m1!1s0x8091e3a2ebde4def:0xb6bca5ffe7441312
+  - name: >-
+      places/ChIJ703e66LjkYAREhNE5_-lvLY/reviews/ChdDSUhNMG9nS0VJQ0FnSUMzd29iVTBBRRAB
+    relativePublishTimeDescription: 6 months ago
+    rating: 4
+    text:
+      text: >-
+        Still in a soft (re)opening, so didn't have full menu, but what they had
+        was good. Tasty assortment of fresh rolls. Wife tried the beef udon
+        soup, which was lovely.
+      languageCode: en
+    originalText:
+      text: >-
+        Still in a soft (re)opening, so didn't have full menu, but what they had
+        was good. Tasty assortment of fresh rolls. Wife tried the beef udon
+        soup, which was lovely.
+      languageCode: en
+    authorAttribution:
+      displayName: Jesse Mundis
+      uri: https://www.google.com/maps/contrib/100384961389354173863/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjU-5XxGwEQTR_z2sziO6UppY1o-9SVI7vLB4E-q1vQsA7O6Og9G=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-11-04T02:39:51.690999Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMzd29iVTBBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMzd29iVTBBRRAB!2m1!1s0x8091e3a2ebde4def:0xb6bca5ffe7441312
+  - name: >-
+      places/ChIJ703e66LjkYAREhNE5_-lvLY/reviews/ChdDSUhNMG9nS0VJQ0FnSUNVMGZXUjFnRRAB
+    relativePublishTimeDescription: 5 years ago
+    rating: 5
+    text:
+      text: >-
+        What a fabulous find. Had a birthday dinner with my niece and sister and
+        enjoyed everything we ordered. Wonderful service too, the lady who
+        helped us was sweet.  Don't miss out on this experience.
+      languageCode: en
+    originalText:
+      text: >-
+        What a fabulous find. Had a birthday dinner with my niece and sister and
+        enjoyed everything we ordered. Wonderful service too, the lady who
+        helped us was sweet.  Don't miss out on this experience.
+      languageCode: en
+    authorAttribution:
+      displayName: Eva Guerrero
+      uri: https://www.google.com/maps/contrib/112901277800300430465/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUvv4pXNjXkCL_c1KI636EUlwpX51REoFRBhoFaR73OzdgB-MJm=s128-c0x00000000-cc-rp-mo
+    publishTime: '2019-07-27T04:48:59.900203Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNVMGZXUjFnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNVMGZXUjFnRRAB!2m1!1s0x8091e3a2ebde4def:0xb6bca5ffe7441312
+  - name: >-
+      places/ChIJ703e66LjkYAREhNE5_-lvLY/reviews/ChdDSUhNMG9nS0VJQ0FnSUNINjlUVGpnRRAB
+    relativePublishTimeDescription: 7 months ago
+    rating: 5
+    text:
+      text: >-
+        Wow! I have a new favorite sushi restaurant!  Service is friendly and
+        speedy.  The atmosphere is clean and cute.  I love the little boats with
+        the waving porcelain kitties.  (We should have eaten in) we order "Who's
+        your Daddy", "Yellow tail lovers" "Red Cherry blossom" and hamachi
+        Maki.   And the miso soup is perfect!  The fish is fresh and delicately
+        flavored.  We will return!
+      languageCode: en
+    originalText:
+      text: >-
+        Wow! I have a new favorite sushi restaurant!  Service is friendly and
+        speedy.  The atmosphere is clean and cute.  I love the little boats with
+        the waving porcelain kitties.  (We should have eaten in) we order "Who's
+        your Daddy", "Yellow tail lovers" "Red Cherry blossom" and hamachi
+        Maki.   And the miso soup is perfect!  The fish is fresh and delicately
+        flavored.  We will return!
+      languageCode: en
+    authorAttribution:
+      displayName: Jean Viarengo
+      uri: https://www.google.com/maps/contrib/105174551378225781278/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLH-xMJrvfSQce2zu91S3fUx37l3FL5qjF2NGfWDxaKbNVB7w=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-09-09T02:36:49.727651Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNINjlUVGpnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNINjlUVGpnRRAB!2m1!1s0x8091e3a2ebde4def:0xb6bca5ffe7441312
+review_summary: >-
+  What Visitors Are Saying About This Local Sushi Spot$$$Folks around town often
+  praise the fresh and tasty sushi rolls at this spot, highlighting how the
+  beautiful presentations make every dish feel special and enjoyable. Many
+  appreciate the friendly service and cozy atmosphere that add to the overall
+  dining vibe, with comments frequently noting the flavorful beef noodle soup as
+  a standout favorite. Reviewers generally agree that the menu offers solid
+  options for a satisfying meal, even if it's not overly extensive, and they
+  express excitement about returning for more. While experiences are mostly
+  positive, some mention it's great for casual visits, helping it stand out as
+  one of the top-rated sushi places near me for anyone craving authentic
+  flavors. Overall, it comes across as a reliable choice for a delightful
+  outing, blending quality food with a welcoming environment that keeps diners
+  coming back.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
+delivery: true
+dine_in: true
+good_for_children: true
 good_for_groups: null
-good_for_sports: null
-live_music: null
+good_for_sports: false
+live_music: false
 menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
 serves_brunch: null
-serves_cocktails: null
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
+serves_dinner: true
 serves_dessert: null
-serves_lunch: null
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

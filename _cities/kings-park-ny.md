@@ -5,4 +5,5 @@ permalink: /new-york/kings-park/
 stateAbbr: NY
 stateName: New York
 cityName: Kings Park
+
 ---

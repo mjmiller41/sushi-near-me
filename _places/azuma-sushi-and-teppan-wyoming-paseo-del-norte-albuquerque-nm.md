@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Azuma Sushi and Teppan Wyoming & Paseo Del Norte"
+title: Azuma Sushi and Teppan Wyoming & Paseo Del Norte
 permalink: /new-mexico/albuquerque/azuma-sushi-and-teppan-wyoming-paseo-del-norte.html
 stateAbbr: NM
 stateName: New Mexico
 cityName: Albuquerque
 seo:
-  name: "Azuma Sushi and Teppan Wyoming & Paseo Del Norte"
-  type: Restaurant
+  type: restaurant
   links: https://www.azuma-sushi-teppan-abq.com/
-description: "Azuma Sushi and Teppan Wyoming & Paseo Del Norte serves delicious sushi in Albuquerque, New Mexico. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJJZvaAJV1IocR4uyZN0dxI0k
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8722759500da9b25:0x492371473799ece2!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 4:30 – 9:00 PM'
     - 'Tuesday: 4:30 – 9:00 PM'
     - 'Wednesday: 4:30 – 9:00 PM'
@@ -178,28 +234,97 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:30 PM'
     - 'Saturday: 11:00 AM – 9:30 PM'
     - 'Sunday: 11:00 AM – 9:00 PM'
-  current:
-    - 'Monday: 4:30 – 9:00 PM'
-    - 'Tuesday: 4:30 – 9:00 PM'
-    - 'Wednesday: 4:30 – 9:00 PM'
-    - 'Thursday: 4:30 – 9:00 PM'
-    - 'Friday: 11:00 AM – 9:30 PM'
-    - 'Saturday: 11:00 AM – 9:30 PM'
-    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T03:30:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: false
+    periods:
+      - open:
+          day: 1
+          hour: 16
+          minute: 30
+        close:
+          day: 1
+          hour: 18
+          minute: 0
+      - open:
+          day: 2
+          hour: 16
+          minute: 30
+        close:
+          day: 2
+          hour: 18
+          minute: 0
+      - open:
+          day: 3
+          hour: 16
+          minute: 30
+        close:
+          day: 3
+          hour: 18
+          minute: 0
+      - open:
+          day: 4
+          hour: 16
+          minute: 30
+        close:
+          day: 4
+          hour: 18
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 4:30 – 6:00 PM'
+      - 'Tuesday: 4:30 – 6:00 PM'
+      - 'Wednesday: 4:30 – 6:00 PM'
+      - 'Thursday: 4:30 – 6:00 PM'
+      - 'Friday: Closed'
+      - 'Saturday: Closed'
+      - 'Sunday: Closed'
+    secondaryHoursType: HAPPY_HOUR
+    nextOpenTime: '2025-05-05T22:30:00Z'
 phone: (505) 821-3583
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.1'
-rating_count: 0
+rating_count: 865
 website: https://www.azuma-sushi-teppan-abq.com/
+description: >-
+  Explore Azuma Sushi in Albuquerque, NM$$$Azuma Sushi and Teppan in
+  Albuquerque, NM, stands out as a welcoming spot for Japanese dining, featuring
+  fresh sushi and sizzling teppanyaki options that highlight the best of
+  authentic flavors. The eatery boasts a cozy atmosphere with a bar area perfect
+  for enjoying happy hour specials, making it an ideal choice for casual meals
+  or gatherings. Accessibility features like wheelchair-friendly parking and
+  entrances ensure everyone can enjoy the experience comfortably. With flexible
+  hours including evenings and weekends, it's easy to find a time that fits your
+  schedule for a satisfying meal. This spot appeals to those seeking top-rated
+  sushi restaurants nearby, blending traditional tastes with a relaxed vibe that
+  keeps locals coming back.
+generative_summary: >-
+  Explore Azuma Sushi in Albuquerque, NM$$$Azuma Sushi and Teppan in
+  Albuquerque, NM, stands out as a welcoming spot for Japanese dining, featuring
+  fresh sushi and sizzling teppanyaki options that highlight the best of
+  authentic flavors. The eatery boasts a cozy atmosphere with a bar area perfect
+  for enjoying happy hour specials, making it an ideal choice for casual meals
+  or gatherings. Accessibility features like wheelchair-friendly parking and
+  entrances ensure everyone can enjoy the experience comfortably. With flexible
+  hours including evenings and weekends, it's easy to find a time that fits your
+  schedule for a satisfying meal. This spot appeals to those seeking top-rated
+  sushi restaurants nearby, blending traditional tastes with a relaxed vibe that
+  keeps locals coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Buzzing About$$$Folks around town often praise the fresh and
+  creative sushi selections at this spot, noting how they hit the spot for
+  anyone craving Japanese flavors without the fuss. Many highlight the
+  teppanyaki dishes for their exciting preparation and bold tastes, adding a fun
+  twist to the dining experience that feels just right for groups or solo
+  diners. While some mention wait times during peak hours, the overall vibe
+  remains upbeat with solid service that makes meals enjoyable. It's clear from
+  the feedback that this place delivers good value for the price, earning it a
+  reputation as a reliable go-to for sushi enthusiasts in the area. If you're on
+  the hunt for tasty options close to home, the positive vibes suggest it's
+  worth checking out for a laid-back meal.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +350,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

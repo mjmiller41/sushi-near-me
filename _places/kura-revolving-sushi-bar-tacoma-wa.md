@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kura Revolving Sushi Bar"
+title: Kura Revolving Sushi Bar
 permalink: /washington/tacoma/kura-revolving-sushi-bar.html
 stateAbbr: WA
 stateName: Washington
 cityName: Tacoma
 seo:
-  name: "Kura Revolving Sushi Bar"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Kura Revolving Sushi Bar serves delicious sushi in Tacoma, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJNwwOaTkBkVQRuerTUQ9S1BQ
 photos:
   - name: >-
@@ -185,7 +183,43 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Kura Revolving Sushi Bar in Tacoma, WA$$$Kura Revolving Sushi Bar in
+  Tacoma, Washington, stands out as a vibrant spot for enjoying fresh Japanese
+  cuisine, featuring a unique revolving setup that brings dishes directly to
+  your table. This innovative sushi restaurant offers a variety of high-quality
+  options like nigiri and other favorites, enhanced by modern technology that
+  adds a fun, interactive element to your meal. Accessibility features make it
+  welcoming for all guests, with easy parking and entrances designed for
+  everyone. Whether you're exploring top-rated sushi options in the area, it's a
+  great choice for a casual yet engaging dining experience that combines
+  tradition with contemporary flair.
+generative_summary: >-
+  Discover Kura Revolving Sushi Bar in Tacoma, WA$$$Kura Revolving Sushi Bar in
+  Tacoma, Washington, stands out as a vibrant spot for enjoying fresh Japanese
+  cuisine, featuring a unique revolving setup that brings dishes directly to
+  your table. This innovative sushi restaurant offers a variety of high-quality
+  options like nigiri and other favorites, enhanced by modern technology that
+  adds a fun, interactive element to your meal. Accessibility features make it
+  welcoming for all guests, with easy parking and entrances designed for
+  everyone. Whether you're exploring top-rated sushi options in the area, it's a
+  great choice for a casual yet engaging dining experience that combines
+  tradition with contemporary flair.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Customer Reviews$$$Visitors to this sushi spot often rave about
+  the fresh flavors and creative presentation of the dishes, making it a go-to
+  for anyone craving quality Japanese fare. Many appreciate the efficient
+  service and the entertaining robot deliveries that keep things lively and
+  efficient, adding a playful twist to the meal. Folks highlight the clean,
+  inviting atmosphere that makes it ideal for groups or families looking for a
+  relaxed vibe. While some note that the prices lean toward the higher end, the
+  overall experience is frequently described as worth it for the novelty and
+  taste. In summary, it's a solid pick for those seeking enjoyable sushi places
+  nearby, with a balance of fun and flavorful options that keep diners coming
+  back.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +245,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

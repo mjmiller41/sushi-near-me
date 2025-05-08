@@ -5,4 +5,5 @@ permalink: /michigan/detroit/
 stateAbbr: MI
 stateName: Michigan
 cityName: Detroit
+
 ---

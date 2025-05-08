@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Omiya"
+title: Sushi Omiya
 permalink: /washington/tukwila/sushi-omiya.html
 stateAbbr: WA
 stateName: Washington
 cityName: Tukwila
 seo:
-  name: "Sushi Omiya"
-  type: Restaurant
+  type: restaurant
   links: https://order.online/business/sushi-omiya-787248
-description: "Sushi Omiya serves delicious sushi in Tukwila, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ1WAbhcBdkFQRJJSnbWqnCf0
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x54905dc0851b60d5:0xfd09a76a6da79424!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 20
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 8:30 PM'
     - 'Tuesday: 11:00 AM – 8:30 PM'
     - 'Wednesday: 11:00 AM – 8:30 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:00 PM'
     - 'Saturday: 11:00 AM – 9:00 PM'
     - 'Sunday: 11:00 AM – 8:30 PM'
-  current:
-    - 'Monday: 11:00 AM – 8:30 PM'
-    - 'Tuesday: 11:00 AM – 8:30 PM'
-    - 'Wednesday: 11:00 AM – 8:30 PM'
-    - 'Thursday: 11:00 AM – 8:30 PM'
-    - 'Friday: 11:00 AM – 9:00 PM'
-    - 'Saturday: 11:00 AM – 9:00 PM'
-    - 'Sunday: 11:00 AM – 8:30 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,226 @@ phone: (206) 397-3497
 price_level: null
 price_range: $20 &ndash; $30
 rating: '4.2'
-rating_count: 0
+rating_count: 538
 website: https://order.online/business/sushi-omiya-787248
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Sushi Omiya in Tukwila, WA$$$Nestled in Tukwila, WA, Sushi Omiya
+  stands out as a vibrant sushi restaurant offering a fun and engaging dining
+  experience with its conveyor belt system. This spot features fresh selections
+  of sushi and Japanese dishes in a casual atmosphere, making it ideal for those
+  seeking quick and enjoyable meals. Patrons can enjoy a variety of options
+  directly from the belt or customize orders through an easy digital menu,
+  enhancing the overall convenience. The restaurant prioritizes accessibility
+  with features like wheelchair-friendly entrances and seating, ensuring
+  everyone can savor the flavors. For anyone exploring sushi places near you,
+  Sushi Omiya combines affordability with a relaxed vibe that appeals to both
+  locals and visitors looking for top-rated Japanese cuisine.
+generative_summary: >-
+  Discover Sushi Omiya in Tukwila, WA$$$Nestled in Tukwila, WA, Sushi Omiya
+  stands out as a vibrant sushi restaurant offering a fun and engaging dining
+  experience with its conveyor belt system. This spot features fresh selections
+  of sushi and Japanese dishes in a casual atmosphere, making it ideal for those
+  seeking quick and enjoyable meals. Patrons can enjoy a variety of options
+  directly from the belt or customize orders through an easy digital menu,
+  enhancing the overall convenience. The restaurant prioritizes accessibility
+  with features like wheelchair-friendly entrances and seating, ensuring
+  everyone can savor the flavors. For anyone exploring sushi places near you,
+  Sushi Omiya combines affordability with a relaxed vibe that appeals to both
+  locals and visitors looking for top-rated Japanese cuisine.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ1WAbhcBdkFQRJJSnbWqnCf0/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfMm9LTXNnRRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 4
+    text:
+      text: >-
+        Great atmosphere, fresh and reasonably priced. Selection on the belt
+        somewhat limited but you can order what you want from the QR code menu.
+        Service was friendly and fast.
+      languageCode: en
+    originalText:
+      text: >-
+        Great atmosphere, fresh and reasonably priced. Selection on the belt
+        somewhat limited but you can order what you want from the QR code menu.
+        Service was friendly and fast.
+      languageCode: en
+    authorAttribution:
+      displayName: Jeremy Satre
+      uri: https://www.google.com/maps/contrib/100373378052477757843/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXNymx17GdtzzMnOtQfAiqAg7-UFyUPkXmlAYx8201HIM_3dqUV=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-01-15T08:16:50.276278Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNfMm9LTXNnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNfMm9LTXNnRRAB!2m1!1s0x54905dc0851b60d5:0xfd09a76a6da79424
+  - name: >-
+      places/ChIJ1WAbhcBdkFQRJJSnbWqnCf0/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJc3M2WlRBEAE
+    relativePublishTimeDescription: a month ago
+    rating: 3
+    text:
+      text: >-
+        I recently visited Sushi Omiya with my grandson. While the food was okay
+        and not really my style, the experience was more about spending time
+        with him, and he really enjoys going there. The restaurant has a
+        pleasant atmosphere, and the staff was friendly, but the menu didn't
+        quite hit the mark for me personally. However, seeing my grandson happy
+        and excited made it worth the visit. If you're a fan of sushi or want a
+        casual place to take someone who loves it, this spot might be a good
+        fit.
+      languageCode: en
+    originalText:
+      text: >-
+        I recently visited Sushi Omiya with my grandson. While the food was okay
+        and not really my style, the experience was more about spending time
+        with him, and he really enjoys going there. The restaurant has a
+        pleasant atmosphere, and the staff was friendly, but the menu didn't
+        quite hit the mark for me personally. However, seeing my grandson happy
+        and excited made it worth the visit. If you're a fan of sushi or want a
+        casual place to take someone who loves it, this spot might be a good
+        fit.
+      languageCode: en
+    authorAttribution:
+      displayName: m. G,sr
+      uri: https://www.google.com/maps/contrib/105456047197341497403/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWnu0CWdmrGkeSeOl3ozLPWf6nl9KLJKzm78urLmj0sDOHOvwRQsQ=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-03-31T20:48:57.811543Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNJc3M2WlRBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNJc3M2WlRBEAE!2m1!1s0x54905dc0851b60d5:0xfd09a76a6da79424
+  - name: >-
+      places/ChIJ1WAbhcBdkFQRJJSnbWqnCf0/reviews/ChZDSUhNMG9nS0VJQ0FnSURfajVMSWJBEAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 4
+    text:
+      text: >-
+        Fun location for lunch. The conveyor is always full which is awesome,
+        just not the largest selection of rolls to chose from.
+      languageCode: en
+    originalText:
+      text: >-
+        Fun location for lunch. The conveyor is always full which is awesome,
+        just not the largest selection of rolls to chose from.
+      languageCode: en
+    authorAttribution:
+      displayName: Chris S
+      uri: https://www.google.com/maps/contrib/111107682504176646952/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXnXLfrsnLAwE7RzzvwGH9svooGA9ZG7EI_GbNaC9xKHkbGE1JJ=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2025-01-28T04:35:16.698580Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURfajVMSWJBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURfajVMSWJBEAE!2m1!1s0x54905dc0851b60d5:0xfd09a76a6da79424
+  - name: >-
+      places/ChIJ1WAbhcBdkFQRJJSnbWqnCf0/reviews/ChdDSUhNMG9nS0VJQ0FnSUR2aU9Mam5nRRAB
+    relativePublishTimeDescription: 4 months ago
+    rating: 2
+    text:
+      text: >-
+        Best variety of sushi on a belt I've experienced. It was easy to order
+        anything I didn't see going around from my phone. Unfortunately eating
+        here made me 🤢🤮 4 hours later. Something ain't right with what I was
+        served.
+      languageCode: en
+    originalText:
+      text: >-
+        Best variety of sushi on a belt I've experienced. It was easy to order
+        anything I didn't see going around from my phone. Unfortunately eating
+        here made me 🤢🤮 4 hours later. Something ain't right with what I was
+        served.
+      languageCode: en
+    authorAttribution:
+      displayName: Ben
+      uri: https://www.google.com/maps/contrib/117623746465222470545/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjW7AWIi60qqbaROg3oM_7cKj-7a8k-SXh7_zAFdl3vxm0-6N2MJ=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2024-12-17T14:06:16.359458Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR2aU9Mam5nRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR2aU9Mam5nRRAB!2m1!1s0x54905dc0851b60d5:0xfd09a76a6da79424
+  - name: >-
+      places/ChIJ1WAbhcBdkFQRJJSnbWqnCf0/reviews/ChdDSUhNMG9nS0VJQ0FnSUM3eUpLN3Z3RRAB
+    relativePublishTimeDescription: 8 months ago
+    rating: 5
+    text:
+      text: >-
+        The place to immediately settle any sushi cravings! Hands down one of
+        the best sushi experiences in Seattle. Fresh made and not overly priced
+        in a very clean restaurant with a quiet and relaxed atmosphere. Take
+        from the belt or make custom orders. They will satisfy your cravings.
+        Highly recommend and will come back for sure.
+      languageCode: en
+    originalText:
+      text: >-
+        The place to immediately settle any sushi cravings! Hands down one of
+        the best sushi experiences in Seattle. Fresh made and not overly priced
+        in a very clean restaurant with a quiet and relaxed atmosphere. Take
+        from the belt or make custom orders. They will satisfy your cravings.
+        Highly recommend and will come back for sure.
+      languageCode: en
+    authorAttribution:
+      displayName: Dominic Ieong
+      uri: https://www.google.com/maps/contrib/108562057922396724580/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUJ8SgbQ66rRJ5-b7b114uc6tOYUI7xOQVF1VgZryfDaURGM_0=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-08-11T22:09:33.018056Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUM3eUpLN3Z3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUM3eUpLN3Z3RRAB!2m1!1s0x54905dc0851b60d5:0xfd09a76a6da79424
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors often praise Sushi Omiya for its
+  lively atmosphere and fresh, reasonably priced sushi that keeps the conveyor
+  belt buzzing with options. While some note the selection might not be the most
+  extensive, many appreciate the ability to order extras via a simple QR code
+  menu, adding to the fun and interactive vibe. Feedback highlights friendly
+  service and a welcoming environment that makes it a solid choice for casual
+  outings or family meals, though a few mentions point to occasional
+  inconsistencies in variety. Overall, it's seen as a reliable spot for
+  satisfying sushi cravings without breaking the bank, drawing in fans of
+  Japanese places near me who value both quality and ease. If you're on the hunt
+  for the best sushi near you, this location tends to deliver a positive
+  experience that encourages return visits.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  paidStreetParking: false
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: false
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: false
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

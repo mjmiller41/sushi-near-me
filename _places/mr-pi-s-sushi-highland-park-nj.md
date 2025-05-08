@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Mr. Pi's Sushi"
+title: Mr. Pi's Sushi
 permalink: /new-jersey/highland-park/mr-pi-s-sushi.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Highland Park
 seo:
-  name: "Mr. Pi's Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://mrpisushi.com/
-description: "Modest Japanese restaurant featuring wood-trimmed booth seating & a sushi bar in a narrow space. Mr. Pi's Sushi serves delicious sushi in Highland Park, New Jersey. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJww_7-VG5w4kRhuFBf8Gu2LA
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 0
 website: https://mrpisushi.com/
+description: >-
+  Discover Mr. Pi's Sushi in Highland Park, NJ$$$Nestled in Highland Park, NJ,
+  Mr. Pi's Sushi stands out as a cozy Japanese restaurant offering fresh sushi
+  and authentic fare in a welcoming atmosphere. The spot features a casual
+  setting with wood-trimmed booths and a sushi bar, perfect for enjoying a
+  variety of rolls and Japanese dishes that highlight quality ingredients.
+  Patrons can savor selections of sake and beer alongside their meals, making it
+  a great choice for those seeking sushi restaurants near me with a relaxed
+  vibe. Accessibility is a key plus, with options like wheelchair-friendly
+  entrances and seating that ensure everyone can enjoy the experience. Overall,
+  this Highland Park gem combines traditional flavors with a straightforward
+  ambiance, ideal for anyone exploring top-rated sushi options in the area.
+generative_summary: >-
+  Discover Mr. Pi's Sushi in Highland Park, NJ$$$Nestled in Highland Park, NJ,
+  Mr. Pi's Sushi stands out as a cozy Japanese restaurant offering fresh sushi
+  and authentic fare in a welcoming atmosphere. The spot features a casual
+  setting with wood-trimmed booths and a sushi bar, perfect for enjoying a
+  variety of rolls and Japanese dishes that highlight quality ingredients.
+  Patrons can savor selections of sake and beer alongside their meals, making it
+  a great choice for those seeking sushi restaurants near me with a relaxed
+  vibe. Accessibility is a key plus, with options like wheelchair-friendly
+  entrances and seating that ensure everyone can enjoy the experience. Overall,
+  this Highland Park gem combines traditional flavors with a straightforward
+  ambiance, ideal for anyone exploring top-rated sushi options in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJww_7-VG5w4kRhuFBf8Gu2LA/reviews/ChZDSUhNMG9nS0VJQ0FnSUNfOTZ6SUd3EAE
@@ -356,6 +379,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURmbzRYSlJ3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURmbzRYSlJ3EAE!2m1!1s0x89c3b951f9fb0fc3:0xb0d8aec17f41e186
+review_summary: >-
+  What Customers Are Buzzing About at This Sushi Spot$$$Folks generally rave
+  about the fresh sushi and sashimi at this Highland Park favorite, noting how
+  the flavors consistently hit the mark for a satisfying meal. While most diners
+  appreciate the creative rolls and prompt service that make visits feel
+  welcoming, a few mention that certain items like ramen might not suit everyone
+  due to its bolder tastes. Overall, the atmosphere comes across as casual and
+  family-friendly, with many highlighting the reliable quality that keeps people
+  coming back for more. It's easy to see why this place earns high marks as one
+  of the best sushi restaurants near me, though some suggest timing visits
+  carefully to avoid any rush. In the end, the positives around fresh
+  ingredients and friendly vibes make it a solid pick for anyone hunting for
+  great Japanese places nearby.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -387,8 +424,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Modest Japanese restaurant featuring wood-trimmed booth seating & a sushi bar
   in a narrow space.
 

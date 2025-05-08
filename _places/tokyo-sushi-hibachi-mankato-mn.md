@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Tokyo Sushi & hibachi"
+title: Tokyo Sushi & hibachi
 permalink: /minnesota/mankato/tokyo-sushi-hibachi.html
 stateAbbr: MN
 stateName: Minnesota
 cityName: Mankato
 seo:
-  name: "Tokyo Sushi & hibachi"
-  type: Restaurant
+  type: restaurant
   links: http://www.tokyomankato.com/
-description: "Casual Japanese restaurant offering a sizable selection of sushi along with hibachi tables. Tokyo Sushi & hibachi serves delicious sushi in Mankato, Minnesota. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJBccBzWQ69IcRMOsBeNHZ_pM
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 0
 website: http://www.tokyomankato.com/
+description: >-
+  Discover Tokyo Sushi & Hibachi in Mankato, MN$$$Nestled in Mankato, MN, Tokyo
+  Sushi & Hibachi stands out as a casual Japanese eatery celebrated for its
+  fresh sushi rolls and flavorful hibachi options, making it a go-to spot for
+  sushi enthusiasts. The restaurant offers a welcoming atmosphere with
+  accessible features like wheelchair-friendly seating and entrances, enhancing
+  the experience for all visitors. Drawing from its reputation for diverse menu
+  choices, including vegetarian and vegan-friendly dishes, it provides a
+  satisfying array of bento boxes and creative rolls that highlight quality
+  ingredients. Whether you're seeking a quick meal or a relaxed dining outing,
+  this sushi restaurant delivers on taste and variety, appealing to those
+  exploring top-rated Japanese places nearby. Its moderate pricing adds to the
+  appeal, ensuring a memorable visit without breaking the bank.
+generative_summary: >-
+  Discover Tokyo Sushi & Hibachi in Mankato, MN$$$Nestled in Mankato, MN, Tokyo
+  Sushi & Hibachi stands out as a casual Japanese eatery celebrated for its
+  fresh sushi rolls and flavorful hibachi options, making it a go-to spot for
+  sushi enthusiasts. The restaurant offers a welcoming atmosphere with
+  accessible features like wheelchair-friendly seating and entrances, enhancing
+  the experience for all visitors. Drawing from its reputation for diverse menu
+  choices, including vegetarian and vegan-friendly dishes, it provides a
+  satisfying array of bento boxes and creative rolls that highlight quality
+  ingredients. Whether you're seeking a quick meal or a relaxed dining outing,
+  this sushi restaurant delivers on taste and variety, appealing to those
+  exploring top-rated Japanese places nearby. Its moderate pricing adds to the
+  appeal, ensuring a memorable visit without breaking the bank.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJBccBzWQ69IcRMOsBeNHZ_pM/reviews/ChdDSUhNMG9nS0VJQ0FnTURnX3NUSDRBRRAB
@@ -454,6 +479,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQyemVueldnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQyemVueldnEAE!2m1!1s0x87f43a64cd01c705:0x93fed9d17801eb30
+review_summary: >-
+  Buzz Around the Reviews$$$Visitors often praise Tokyo Sushi & Hibachi for its
+  fresh and flavorful sushi rolls, with many highlighting the great value and
+  variety that make it a standout choice for casual dinners. While a few folks
+  noted that some rolls could be larger or more robust in flavor, the appetizers
+  and hibachi dishes consistently receive high marks for their delicious taste
+  and satisfying portions. Overall, the service gets thumbs up for being
+  friendly and efficient, creating a welcoming vibe that's perfect for families
+  or groups. Customers appreciate the option for vegetarian items and the
+  overall quality that keeps them coming back, making it a reliable pick for
+  anyone craving quality Japanese fare. In the end, the positive feedback
+  outweighs any minor quibbles, solidifying its status as a favorite among local
+  sushi spots.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -486,8 +525,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Casual Japanese restaurant offering a sizable selection of sushi along with
   hibachi tables.
 

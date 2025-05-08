@@ -5,4 +5,5 @@ permalink: /ohio/liberty-township/
 stateAbbr: OH
 stateName: Ohio
 cityName: Liberty Township
+
 ---

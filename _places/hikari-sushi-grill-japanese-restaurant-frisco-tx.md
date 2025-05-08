@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Hikari Sushi & Grill Japanese Restaurant"
+title: Hikari Sushi & Grill Japanese Restaurant
 permalink: /texas/frisco/hikari-sushi-grill-japanese-restaurant.html
 stateAbbr: TX
 stateName: Texas
 cityName: Frisco
 seo:
-  name: "Hikari Sushi & Grill Japanese Restaurant"
-  type: Restaurant
+  type: restaurant
   links: https://www.myhikarisushi.com/
-description: "Hikari Sushi & Grill Japanese Restaurant serves delicious sushi in Frisco, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJGxuEcfk7TIYRHJSYRQN_Llw
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x864c3bf971841b1b:0x5c2e7f034598941c!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 10:00 PM'
     - 'Tuesday: 11:00 AM – 10:00 PM'
     - 'Wednesday: 11:00 AM – 10:00 PM'
@@ -178,54 +234,341 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:30 PM'
     - 'Saturday: 11:00 AM – 10:30 PM'
     - 'Sunday: 11:00 AM – 9:30 PM'
-  current:
-    - 'Monday: 11:00 AM – 10:00 PM'
-    - 'Tuesday: 11:00 AM – 10:00 PM'
-    - 'Wednesday: 11:00 AM – 10:00 PM'
-    - 'Thursday: 11:00 AM – 10:00 PM'
-    - 'Friday: 11:00 AM – 10:30 PM'
-    - 'Saturday: 11:00 AM – 10:30 PM'
-    - 'Sunday: 11:00 AM – 9:30 PM'
+  nextCloseTime: '2025-05-04T03:30:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 11
+          minute: 0
+        close:
+          day: 0
+          hour: 21
+          minute: 0
+      - open:
+          day: 1
+          hour: 11
+          minute: 0
+        close:
+          day: 1
+          hour: 21
+          minute: 30
+      - open:
+          day: 2
+          hour: 11
+          minute: 0
+        close:
+          day: 2
+          hour: 21
+          minute: 30
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 21
+          minute: 30
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 30
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 22
+          minute: 0
+      - open:
+          day: 6
+          hour: 11
+          minute: 0
+        close:
+          day: 6
+          hour: 22
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 11:00 AM – 9:30 PM'
+      - 'Tuesday: 11:00 AM – 9:30 PM'
+      - 'Wednesday: 11:00 AM – 9:30 PM'
+      - 'Thursday: 11:00 AM – 9:30 PM'
+      - 'Friday: 11:00 AM – 10:00 PM'
+      - 'Saturday: 11:00 AM – 10:00 PM'
+      - 'Sunday: 11:00 AM – 9:00 PM'
+    secondaryHoursType: KITCHEN
+    nextCloseTime: '2025-05-04T03:00:00Z'
 phone: (214) 618-0035
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.2'
-rating_count: 0
+rating_count: 834
 website: https://www.myhikarisushi.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Explore Hikari Sushi in Frisco, TX$$$Hikari Sushi & Grill Japanese Restaurant
+  in Frisco, TX, offers a relaxed atmosphere perfect for enjoying fresh Japanese
+  cuisine in a welcoming setting. This spot features an array of sushi rolls and
+  grilled dishes, complemented by a kid-friendly menu and a variety of sides
+  that cater to diverse tastes. With its neon accents and accessible design,
+  including wheelchair-friendly options, it's an ideal choice for families or
+  groups seeking authentic flavors in a casual environment. The restaurant
+  emphasizes high-quality ingredients in every meal, making it a go-to
+  destination for those exploring top dining options nearby. Open daily with
+  convenient hours, it provides a blend of traditional and modern Japanese fare
+  that keeps diners coming back for more.
+generative_summary: >-
+  Explore Hikari Sushi in Frisco, TX$$$Hikari Sushi & Grill Japanese Restaurant
+  in Frisco, TX, offers a relaxed atmosphere perfect for enjoying fresh Japanese
+  cuisine in a welcoming setting. This spot features an array of sushi rolls and
+  grilled dishes, complemented by a kid-friendly menu and a variety of sides
+  that cater to diverse tastes. With its neon accents and accessible design,
+  including wheelchair-friendly options, it's an ideal choice for families or
+  groups seeking authentic flavors in a casual environment. The restaurant
+  emphasizes high-quality ingredients in every meal, making it a go-to
+  destination for those exploring top dining options nearby. Open daily with
+  convenient hours, it provides a blend of traditional and modern Japanese fare
+  that keeps diners coming back for more.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJGxuEcfk7TIYRHJSYRQN_Llw/reviews/ChdDSUhNMG9nS0VJQ0FnTURBaWVydG9BRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 4
+    text:
+      text: >-
+        We were craving Sushi and found Hikari sushi. The menu looked
+        phenomenal. The dishes are identical to what is in the Menu photos. The
+        flavor is rich. The style of rolls is close to the Japanese style. We
+        were looking for something fried, but we couldn't find it. We ordered 2
+        types of Makis, then a Yakisoba and a Teriyaki. The dishes are all very
+        delicious. good attention. The only thing I didn't like is that the
+        clothes get soaked with the smell of oil. Except that, everything is
+        delicious.
+      languageCode: en
+    originalText:
+      text: >-
+        We were craving Sushi and found Hikari sushi. The menu looked
+        phenomenal. The dishes are identical to what is in the Menu photos. The
+        flavor is rich. The style of rolls is close to the Japanese style. We
+        were looking for something fried, but we couldn't find it. We ordered 2
+        types of Makis, then a Yakisoba and a Teriyaki. The dishes are all very
+        delicious. good attention. The only thing I didn't like is that the
+        clothes get soaked with the smell of oil. Except that, everything is
+        delicious.
+      languageCode: en
+    authorAttribution:
+      displayName: Jaime Calderon
+      uri: https://www.google.com/maps/contrib/116771417196475878772/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjV23eFiidrknWRPC4b3LFPmisL7oZtM6xByvjnKMwgL8SpU-a7itQ=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-02-10T01:09:07.582488Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURBaWVydG9BRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURBaWVydG9BRRAB!2m1!1s0x864c3bf971841b1b:0x5c2e7f034598941c
+  - name: >-
+      places/ChIJGxuEcfk7TIYRHJSYRQN_Llw/reviews/ChdDSUhNMG9nS0VJQ0FnTURnbFBtSnVnRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        Fantastic little spot!
+
+
+        One of the best bento boxes I have had in a while - had to dig in before
+        taking a pic! Everything was top notch; perfectly crispy tempura, very
+        fresh California roll, hearty teriyaki chicken and wonderful soup.
+
+
+        Quick and friendly service too!
+      languageCode: en
+    originalText:
+      text: >-
+        Fantastic little spot!
+
+
+        One of the best bento boxes I have had in a while - had to dig in before
+        taking a pic! Everything was top notch; perfectly crispy tempura, very
+        fresh California roll, hearty teriyaki chicken and wonderful soup.
+
+
+        Quick and friendly service too!
+      languageCode: en
+    authorAttribution:
+      displayName: Kelly Jarisch
+      uri: https://www.google.com/maps/contrib/116647237832693057920/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXRdAwdsZQdRQG-I5zMJSk4FvOjuXn1zQ51wic_JLS6Kaeeh_Li=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-02-22T17:58:43.316112Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURnbFBtSnVnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURnbFBtSnVnRRAB!2m1!1s0x864c3bf971841b1b:0x5c2e7f034598941c
+  - name: >-
+      places/ChIJGxuEcfk7TIYRHJSYRQN_Llw/reviews/ChdDSUhNMG9nS0VJQ0FnSURuanNHczl3RRAB
+    relativePublishTimeDescription: 7 months ago
+    rating: 4
+    text:
+      text: >-
+        Decent Japanese food that was fresh. Service is good and a decent
+        selection to choose from.
+
+
+        We came here for lunch so we each ordered the roll combo, which was
+        plentiful for us to share.
+
+
+        Watch for a lot road closures and expect delays. Only trust your GPS if
+        it has live traffic / road closures info.
+      languageCode: en
+    originalText:
+      text: >-
+        Decent Japanese food that was fresh. Service is good and a decent
+        selection to choose from.
+
+
+        We came here for lunch so we each ordered the roll combo, which was
+        plentiful for us to share.
+
+
+        Watch for a lot road closures and expect delays. Only trust your GPS if
+        it has live traffic / road closures info.
+      languageCode: en
+    authorAttribution:
+      displayName: Francis Wu
+      uri: https://www.google.com/maps/contrib/105421653004172710954/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUachXJf0WTzrHMSnePZ9iHmUBp8eKFhZg_hqN3cQx4lsTYkO0=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-10-05T20:53:12.027505Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURuanNHczl3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURuanNHczl3RRAB!2m1!1s0x864c3bf971841b1b:0x5c2e7f034598941c
+  - name: >-
+      places/ChIJGxuEcfk7TIYRHJSYRQN_Llw/reviews/ChZDSUhNMG9nS0VJQ0FnSUNuLUpIcFN3EAE
+    relativePublishTimeDescription: 7 months ago
+    rating: 5
+    text:
+      text: >-
+        Great atmosphere and decorations are only topped by the food. Sounds
+        strange but the onion rings appetizer was delicious. We went before the
+        FC Dallas game and got in quickly and service was perfect. I recommend
+        ordering several rolls and splitting them.
+      languageCode: en
+    originalText:
+      text: >-
+        Great atmosphere and decorations are only topped by the food. Sounds
+        strange but the onion rings appetizer was delicious. We went before the
+        FC Dallas game and got in quickly and service was perfect. I recommend
+        ordering several rolls and splitting them.
+      languageCode: en
+    authorAttribution:
+      displayName: Jeff Snowden
+      uri: https://www.google.com/maps/contrib/106750719551031585689/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVPo8rpxwTVQJ4wHWoJpvUfYY7zNxH_5RGMTo_pMuWlt8bc-TE=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2024-09-22T17:40:22.946739Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNuLUpIcFN3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNuLUpIcFN3EAE!2m1!1s0x864c3bf971841b1b:0x5c2e7f034598941c
+  - name: >-
+      places/ChIJGxuEcfk7TIYRHJSYRQN_Llw/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3dExTT01REAE
+    relativePublishTimeDescription: a month ago
+    rating: 4
+    text:
+      text: >-
+        The combo fried rice was skimpy on the meat (small steak and shrimp
+        pieces) and passable - it's almost there flavor wise but feels like it's
+        missing something. The steak bits were overcooked but the shrimp bits
+        were fine. Has actual bits of veg and egg mixed in so that was great!
+
+
+        The yumyum sauce was unexpectedly oily and spicy - not for me but
+        probably not a bad thing for the right person.
+
+
+        We enjoyed the baked salmon rolls.
+      languageCode: en
+    originalText:
+      text: >-
+        The combo fried rice was skimpy on the meat (small steak and shrimp
+        pieces) and passable - it's almost there flavor wise but feels like it's
+        missing something. The steak bits were overcooked but the shrimp bits
+        were fine. Has actual bits of veg and egg mixed in so that was great!
+
+
+        The yumyum sauce was unexpectedly oily and spicy - not for me but
+        probably not a bad thing for the right person.
+
+
+        We enjoyed the baked salmon rolls.
+      languageCode: en
+    authorAttribution:
+      displayName: Abra
+      uri: https://www.google.com/maps/contrib/107596863526023698216/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVMZvOHKbDcGz5zeDbzxdT4atDOkYDlN5CouUSK6g8mvKndNPFd=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-03-23T23:07:35.247943Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUR3dExTT01REAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUR3dExTT01REAE!2m1!1s0x864c3bf971841b1b:0x5c2e7f034598941c
+review_summary: >-
+  Insights from Recent Feedback$$$Diners often highlight the fresh sushi rolls
+  and flavorful Japanese dishes as standout features, with many appreciating the
+  generous portions and authentic tastes that make meals feel satisfying.
+  Feedback frequently praises the quick service and welcoming vibe, noting that
+  entrees like bento boxes and teriyaki come out perfectly prepared and hit the
+  spot for lunch or dinner. While some mention minor issues like portions on
+  certain sides not being as hearty, the overall experience remains positive,
+  with tasty appetizers and combinations adding to the fun. Folks enjoy the
+  variety that suits both families and groups, making it a solid pick for casual
+  outings. All in all, it's clear that this spot delivers a reliably enjoyable
+  meal, encouraging visitors to try sharing a few rolls for a well-rounded
+  taste.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  paidStreetParking: false
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+curbside_pickup: true
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: true
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Sushi & cooked Japanese fare served in low-key environs with neon lighting &
+  kid-friendly accents.
 
 ---

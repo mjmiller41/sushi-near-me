@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Zento Japanese Restaurant"
+title: Zento Japanese Restaurant
 permalink: /virginia/alexandria/zento-japanese-restaurant.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Alexandria
 seo:
-  name: "Zento Japanese Restaurant"
-  type: Restaurant
+  type: restaurant
   links: http://www.zentorestaurant.com/index.html
-description: "Sushi, ramen & more in a modern Japanese eatery with exposed beams, brick accents & Asian touches. Zento Japanese Restaurant serves delicious sushi in Alexandria, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ7cAVevqwt4kRB3LFDhAHGCA
 photos:
   - name: >-
@@ -184,6 +182,35 @@ price_range: null
 rating: '4.5'
 rating_count: 0
 website: http://www.zentorestaurant.com/index.html
+description: >-
+  Discover Zento Japanese Restaurant in Alexandria, Virginia$$$Nestled in the
+  heart of Alexandria, Virginia, Zento Japanese Restaurant offers a relaxed and
+  inviting atmosphere perfect for enjoying authentic Japanese cuisine. This
+  modern eatery features a blend of exposed beams and brick accents that create
+  a cozy setting for savoring fresh sushi, bento boxes, and other traditional
+  dishes, complemented by a popular happy hour for casual diners. Patrons
+  appreciate the accessible features like wheelchair-friendly entrances and
+  seating, making it a welcoming spot for everyone seeking Japanese dining
+  options nearby. With its focus on fresh ingredients and a variety of menu
+  choices, it's an ideal destination for those exploring top-rated sushi
+  restaurants in the area. Whether you're in the mood for a quick meal or a
+  leisurely evening, Zento stands out as a go-to choice for flavorful Japanese
+  fare close to home.
+generative_summary: >-
+  Discover Zento Japanese Restaurant in Alexandria, Virginia$$$Nestled in the
+  heart of Alexandria, Virginia, Zento Japanese Restaurant offers a relaxed and
+  inviting atmosphere perfect for enjoying authentic Japanese cuisine. This
+  modern eatery features a blend of exposed beams and brick accents that create
+  a cozy setting for savoring fresh sushi, bento boxes, and other traditional
+  dishes, complemented by a popular happy hour for casual diners. Patrons
+  appreciate the accessible features like wheelchair-friendly entrances and
+  seating, making it a welcoming spot for everyone seeking Japanese dining
+  options nearby. With its focus on fresh ingredients and a variety of menu
+  choices, it's an ideal destination for those exploring top-rated sushi
+  restaurants in the area. Whether you're in the mood for a quick meal or a
+  leisurely evening, Zento stands out as a go-to choice for flavorful Japanese
+  fare close to home.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ7cAVevqwt4kRB3LFDhAHGCA/reviews/ChdDSUhNMG9nS0VJQ0FnTUNnM1BtaXhRRRAB
@@ -347,6 +374,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURIbXBPRW5nRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURIbXBPRW5nRRAB!2m1!1s0x89b7b0fa7a15c0ed:0x201807100ec57207
+review_summary: >-
+  What Visitors Are Saying About the Food and Service$$$Folks who stop by Zento
+  often highlight the consistently fresh and well-prepared dishes that make
+  every visit feel worthwhile, with standout items leaving a strong impression
+  on their meals. Many appreciate the cozy, intimate vibe and great value for
+  the quality, noting that the portions are generous and the overall experience
+  feels rewarding. While some mention that service can occasionally slow down
+  during busier times, the friendly staff and clean environment keep things
+  positive overall. Customers frequently praise the wide selection of Japanese
+  options, including creative rolls and other favorites, making it a solid pick
+  for groups or families. All in all, it's a spot that delivers solid
+  satisfaction for anyone craving reliable sushi in a welcoming setting, with
+  most leaving happy and eager to return.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidStreetParking: true
   valetParking: false
@@ -379,8 +420,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Sushi, ramen & more in a modern Japanese eatery with exposed beams, brick
   accents & Asian touches.
 

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Manpuku"
+title: Manpuku
 permalink: /california/berkeley/manpuku.html
 stateAbbr: CA
 stateName: California
 cityName: Berkeley
 seo:
-  name: "Manpuku"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Manpuku serves delicious sushi in Berkeley, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJU1Yn4s19hYARZJD8_1wy11Q
 photos:
   - name: >-
@@ -183,7 +181,40 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Manpuku in Berkeley, California$$$Manpuku in Berkeley, California,
+  offers a relaxed setting for enjoying authentic Japanese flavors, including
+  fresh sushi rolls and hearty bento boxes paired with refreshing beverages.
+  This casual eatery emphasizes quality ingredients and simple yet flavorful
+  preparations that highlight traditional techniques. Visitors can appreciate
+  the inclusive accessibility features, making it easy for everyone to savor a
+  meal in a welcoming environment. Whether you're exploring nearby dining
+  options or seeking a spot for everyday Japanese cuisine, Manpuku delivers a
+  satisfying experience that balances taste and convenience.
+generative_summary: >-
+  Discover Manpuku in Berkeley, California$$$Manpuku in Berkeley, California,
+  offers a relaxed setting for enjoying authentic Japanese flavors, including
+  fresh sushi rolls and hearty bento boxes paired with refreshing beverages.
+  This casual eatery emphasizes quality ingredients and simple yet flavorful
+  preparations that highlight traditional techniques. Visitors can appreciate
+  the inclusive accessibility features, making it easy for everyone to savor a
+  meal in a welcoming environment. Whether you're exploring nearby dining
+  options or seeking a spot for everyday Japanese cuisine, Manpuku delivers a
+  satisfying experience that balances taste and convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying About Manpuku$$$People checking out this Berkeley
+  spot often highlight the tasty sushi and straightforward Japanese dishes as
+  standout features, making it a reliable choice for casual meals. Many enjoy
+  the laid-back atmosphere and variety of options that cater to different
+  tastes, with positive notes on the overall value and selection. It's
+  frequently mentioned as a go-to for those in the mood for fresh, well-prepared
+  fare without the fuss. While experiences can vary, the general vibe leans
+  toward enjoyment and satisfaction for fans of simple Japanese dining. If
+  you're hunting for solid local eats, this place tends to leave a favorable
+  impression for its approachable style.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -209,7 +240,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

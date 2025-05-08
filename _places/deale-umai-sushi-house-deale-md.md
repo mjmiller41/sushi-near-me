@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Deale Umai Sushi House"
+title: Deale Umai Sushi House
 permalink: /maryland/deale/deale-umai-sushi-house.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Deale
 seo:
-  name: "Deale Umai Sushi House"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Deale Umai Sushi House serves delicious sushi in Deale, Maryland. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJe7h_0a2Ot4kRZWUSM1A7Rwo
 photos:
   - name: >-
@@ -170,22 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89b78eadd17fb87b:0xa473b5033126565!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
-    - 'Monday: 11:00 AM – 9:30 PM'
-    - 'Tuesday: 11:00 AM – 9:30 PM'
-    - 'Wednesday: 11:00 AM – 9:30 PM'
-    - 'Thursday: 11:00 AM – 9:30 PM'
-    - 'Friday: 11:00 AM – 10:00 PM'
-    - 'Saturday: 11:00 AM – 10:00 PM'
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 9:00 PM'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 9:00 PM'
+    - 'Saturday: 11:00 AM – 9:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:00 AM – 9:30 PM'
-    - 'Tuesday: 11:00 AM – 9:30 PM'
-    - 'Wednesday: 11:00 AM – 9:30 PM'
-    - 'Thursday: 11:00 AM – 9:30 PM'
-    - 'Friday: 11:00 AM – 10:00 PM'
-    - 'Saturday: 11:00 AM – 10:00 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T01:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +238,46 @@ phone: (410) 867-4433
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.5'
-rating_count: 0
+rating_count: 299
 website: null
+description: >-
+  Discover Deale Umai Sushi House in Deale, MD$$$Nestled in the charming town of
+  Deale, Maryland, Deale Umai Sushi House stands out as a welcoming spot for
+  fresh sushi and Japanese-inspired dining. This casual eatery offers a
+  delightful mix of sushi rolls, traditional Japanese specialties, and Korean
+  dishes, all paired with a selection of wine and beer for a relaxed meal.
+  Accessibility features like wheelchair-friendly parking and entrances make it
+  easy for everyone to enjoy the inviting atmosphere and flavorful options. With
+  daily hours extending into the evening, it's an ideal choice for those seeking
+  top-rated sushi experiences near the area, blending authentic tastes with a
+  comfortable setting that keeps locals coming back.
+generative_summary: >-
+  Discover Deale Umai Sushi House in Deale, MD$$$Nestled in the charming town of
+  Deale, Maryland, Deale Umai Sushi House stands out as a welcoming spot for
+  fresh sushi and Japanese-inspired dining. This casual eatery offers a
+  delightful mix of sushi rolls, traditional Japanese specialties, and Korean
+  dishes, all paired with a selection of wine and beer for a relaxed meal.
+  Accessibility features like wheelchair-friendly parking and entrances make it
+  easy for everyone to enjoy the inviting atmosphere and flavorful options. With
+  daily hours extending into the evening, it's an ideal choice for those seeking
+  top-rated sushi experiences near the area, blending authentic tastes with a
+  comfortable setting that keeps locals coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What People Are Saying About This Local Sushi Favorite$$$Folks around here
+  seem to really enjoy the fresh flavors and variety at this spot, often
+  praising the quality of the sushi and the overall vibe that makes dining out
+  feel effortless. Many highlight the generous portions and tasty combinations
+  that go beyond just rolls, appealing to anyone on the hunt for reliable
+  Japanese places nearby. While opinions vary, the high marks for service and
+  atmosphere suggest it's a go-to for casual get-togethers, with most agreeing
+  that the experience lives up to the hype. Overall, it's clear that visitors
+  appreciate the honest value and welcoming feel, making it a solid pick for
+  those searching for the best sushi options in the region. Though not everyone
+  mentions specifics, the strong ratings point to a consistently positive
+  experience that keeps the buzz alive.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +303,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

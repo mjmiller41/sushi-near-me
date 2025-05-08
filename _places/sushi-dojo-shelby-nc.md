@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Dojo"
+title: Sushi Dojo
 permalink: /north-carolina/shelby/sushi-dojo.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Shelby
 seo:
-  name: "Sushi Dojo"
-  type: Restaurant
+  type: restaurant
   links: https://www.sushidojo.com/
-description: "Casual restaurant with a bar & Asian fare ranging from specialty rolls to Korean-inspired tacos. Sushi Dojo serves delicious sushi in Shelby, North Carolina. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJKU23lhggV4gRESOTFvvezC4
 photos:
   - name: >-
@@ -184,6 +182,31 @@ price_range: $10 &ndash; $20
 rating: '4.1'
 rating_count: 0
 website: https://www.sushidojo.com/
+description: >-
+  Explore Sushi Dojo in Shelby, NC$$$Sushi Dojo in Shelby, NC, offers a casual
+  dining experience with a focus on fresh sushi rolls, sashimi, and other
+  Japanese-inspired dishes that highlight the best of local sushi restaurants.
+  This spot stands out for its welcoming atmosphere, complete with a bar serving
+  cocktails and beer, making it ideal for those searching for sushi places near
+  me that combine quality and affordability. Accessibility features like
+  wheelchair-friendly seating and parking add to the convenience, ensuring
+  everyone can enjoy the flavorful Asian fare in a relaxed setting. With
+  moderate pricing and generous portions, it's a go-to choice for anyone craving
+  top-rated sushi in a vibrant environment that blends tradition with modern
+  twists.
+generative_summary: >-
+  Explore Sushi Dojo in Shelby, NC$$$Sushi Dojo in Shelby, NC, offers a casual
+  dining experience with a focus on fresh sushi rolls, sashimi, and other
+  Japanese-inspired dishes that highlight the best of local sushi restaurants.
+  This spot stands out for its welcoming atmosphere, complete with a bar serving
+  cocktails and beer, making it ideal for those searching for sushi places near
+  me that combine quality and affordability. Accessibility features like
+  wheelchair-friendly seating and parking add to the convenience, ensuring
+  everyone can enjoy the flavorful Asian fare in a relaxed setting. With
+  moderate pricing and generous portions, it's a go-to choice for anyone craving
+  top-rated sushi in a vibrant environment that blends tradition with modern
+  twists.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJKU23lhggV4gRESOTFvvezC4/reviews/ChdDSUhNMG9nS0VJQ0FnTURJcUs2OC1RRRAB
@@ -323,6 +346,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNJaDhTdUZnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNJaDhTdUZnEAE!2m1!1s0x8857201896b74d29:0x2eccdefb16932311
+review_summary: >-
+  Customer Feedback on Sushi Dojo$$$Visitors often rave about the tasty
+  specialty rolls and appetizers that make this spot a solid pick for anyone
+  hunting for the best sushi near me, with many highlighting the fresh flavors
+  and variety that keep things exciting. While the service stands out as
+  friendly and efficient, helping to create a positive vibe overall, some note
+  that wait times can occasionally stretch a bit during busy periods. Portions
+  are generally described as generous and satisfying, offering great value for
+  the price, which adds to the appeal for groups or families. All in all, the
+  consensus leans toward this place being a reliable choice for delicious meals,
+  with just a few mentions of overly sweet elements in certain dishes that
+  didn't quite hit the mark for everyone.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -354,8 +390,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Casual restaurant with a bar & Asian fare ranging from specialty rolls to
   Korean-inspired tacos.
 

@@ -5,4 +5,5 @@ permalink: /texas/stephenville/
 stateAbbr: TX
 stateName: Texas
 cityName: Stephenville
+
 ---

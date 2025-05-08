@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi AOI"
+title: Sushi AOI
 permalink: /district-of-columbia/washington/sushi-aoi.html
 stateAbbr: DC
 stateName: District of Columbia
 cityName: Washington
 seo:
-  name: "Sushi AOI"
-  type: Restaurant
+  type: restaurant
   links: http://www.thesushiaoi.com/
-description: "Colorful spot serving rolls, vegetarian entrees & noodle dishes, with a happy hour. Sushi AOI serves delicious sushi in Washington, District of Columbia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJkegJ-JO3t4kRZXSWL46fp3I
 photos:
   - name: >-
@@ -183,6 +181,33 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 0
 website: http://www.thesushiaoi.com/
+description: >-
+  Discover Sushi AOI in Washington, DC$$$Sushi AOI in Washington, DC, stands out
+  as a vibrant sushi spot offering fresh rolls, vegetarian options, and
+  flavorful noodle dishes in a lively atmosphere. This top-rated sushi
+  restaurant near Metro Center features a colorful setting perfect for casual
+  meals or happy hour gatherings, with accessible seating and outdoor areas that
+  enhance the dining experience. Patrons appreciate the high-quality ingredients
+  and satisfying entrees that make it a go-to choice for those seeking Japanese
+  cuisine in the heart of the city. Whether you're looking for sushi places near
+  me or exploring the best sushi restaurants in the area, Sushi AOI delivers a
+  welcoming environment with quick service and moderately priced options. Its
+  convenient location makes it an ideal stop for anyone enjoying the bustling
+  energy of downtown DC.
+generative_summary: >-
+  Discover Sushi AOI in Washington, DC$$$Sushi AOI in Washington, DC, stands out
+  as a vibrant sushi spot offering fresh rolls, vegetarian options, and
+  flavorful noodle dishes in a lively atmosphere. This top-rated sushi
+  restaurant near Metro Center features a colorful setting perfect for casual
+  meals or happy hour gatherings, with accessible seating and outdoor areas that
+  enhance the dining experience. Patrons appreciate the high-quality ingredients
+  and satisfying entrees that make it a go-to choice for those seeking Japanese
+  cuisine in the heart of the city. Whether you're looking for sushi places near
+  me or exploring the best sushi restaurants in the area, Sushi AOI delivers a
+  welcoming environment with quick service and moderately priced options. Its
+  convenient location makes it an ideal stop for anyone enjoying the bustling
+  energy of downtown DC.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJkegJ-JO3t4kRZXSWL46fp3I/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3b01pand3RRAB
@@ -330,6 +355,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQzM2NiZnRnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQzM2NiZnRnRRAB!2m1!1s0x89b7b793f809e891:0x72a79f8e2f967465
+review_summary: >-
+  What Visitors Are Saying About Sushi AOI$$$Folks rave about the fresh and
+  tasty sushi rolls at this spot, often highlighting how certain dishes like eel
+  avocado and spicy tuna hit the mark for a satisfying meal. Many appreciate the
+  friendly service and prime location near public transit, making it easy to
+  drop in for a quick bite or group outing without any hassle. While some
+  mention that prices can feel a bit steep for the portion sizes, the overall
+  experience is seen as worthwhile, especially for the quality of the food and
+  atmosphere. Diners generally agree it's a fun, reliable choice for anyone
+  hunting for great sushi close to me, with most leaving happy and eager to
+  return. All in all, the consensus leans positive, emphasizing the solid
+  flavors and welcoming vibe that keep people coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidStreetParking: true
   valetParking: false
@@ -361,8 +399,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Colorful spot serving rolls, vegetarian entrees & noodle dishes, with a happy
   hour.
 

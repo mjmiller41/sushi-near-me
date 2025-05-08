@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "DELSUSHI"
+title: DELSUSHI
 permalink: /california/la-jolla/delsushi.html
 stateAbbr: CA
 stateName: California
 cityName: La Jolla
 seo:
-  name: "DELSUSHI"
-  type: Restaurant
+  type: restaurant
   links: https://www.delsushiorder.com/
-description: "Focused menu of sushi rolls from basic to deluxe offered for takeout or delivery only. DELSUSHI serves delicious sushi in La Jolla, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJZwtuB84G3IARWhwYN_9SiQs
 photos:
   - name: >-
@@ -155,7 +153,6 @@ accessibility_options:
   wheelchairAccessibleParking: false
   wheelchairAccessibleEntrance: false
   wheelchairAccessibleRestroom: false
-  wheelchairAccessibleSeating: false
 business_status: OPERATIONAL
 name: DELSUSHI
 google_maps_links:
@@ -185,6 +182,29 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 0
 website: https://www.delsushiorder.com/
+description: >-
+  Discover DELSUSHI in La Jolla, CA$$$DELSUSHI in La Jolla, CA, stands out as a
+  beloved sushi spot known for its focused menu of rolls ranging from simple
+  classics to more elaborate creations. This casual eatery emphasizes fresh
+  ingredients and offers vegetarian options, making it a versatile choice for
+  various tastes and dietary preferences. With a reputation for being open late,
+  it's an ideal stop for those craving satisfying sushi after hours, whether for
+  takeout or delivery. The unpretentious vibe adds to its appeal, providing a
+  straightforward yet enjoyable experience for anyone exploring sushi
+  restaurants in the area. If you're searching for quality sushi near La Jolla,
+  this spot delivers on flavor and convenience without the fuss.
+generative_summary: >-
+  Discover DELSUSHI in La Jolla, CA$$$DELSUSHI in La Jolla, CA, stands out as a
+  beloved sushi spot known for its focused menu of rolls ranging from simple
+  classics to more elaborate creations. This casual eatery emphasizes fresh
+  ingredients and offers vegetarian options, making it a versatile choice for
+  various tastes and dietary preferences. With a reputation for being open late,
+  it's an ideal stop for those craving satisfying sushi after hours, whether for
+  takeout or delivery. The unpretentious vibe adds to its appeal, providing a
+  straightforward yet enjoyable experience for anyone exploring sushi
+  restaurants in the area. If you're searching for quality sushi near La Jolla,
+  this spot delivers on flavor and convenience without the fuss.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJZwtuB84G3IARWhwYN_9SiQs/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJNl9iN3FRRRAB
@@ -326,6 +346,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQybWJHTGJBEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQybWJHTGJBEAE!2m1!1s0x80dc06ce076e0b67:0xb8952ff37181c5a
+review_summary: >-
+  What People Are Saying About This Sushi Spot$$$Visitors often rave about the
+  fresh, flavorful rolls and generous portions, making it a favorite for those
+  seeking satisfying sushi options nearby. Many appreciate the friendly service
+  and attentive staff that enhance the overall experience, turning a simple meal
+  into a memorable one. While most feedback highlights the delicious taste and
+  great value, a few mention that some ingredients could feel less substantial,
+  suggesting it's best for casual enjoyment rather than upscale expectations.
+  Overall, it's praised as a reliable go-to for tasty sushi in a relaxed
+  setting, with plenty of positive nods for its accessibility and variety. If
+  you're on the hunt for top-rated sushi places near me, this location
+  frequently gets high marks for its solid offerings and easy vibe.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -357,8 +390,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Focused menu of sushi rolls from basic to deluxe offered for takeout or
   delivery only.
 

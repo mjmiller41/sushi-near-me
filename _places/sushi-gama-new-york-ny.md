@@ -1,15 +1,14 @@
 ---
 layout: place
-title: "Sushi Gama"
+title: Sushi Gama
 permalink: /new-york/new-york/sushi-gama.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "Sushi Gama"
-  type: Restaurant
-  links: https://www.smorefood.com/order-online/sushi-gama-new-york-10021-ok4kmrpz??utm_source=gmb&utm_medium=website
-description: "Japanese restaurant with a tavern vibe & bar offering a mix of sushi, rolls & kitchen-cooked plates. Sushi Gama serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
+  type: restaurant
+  links: >-
+    https://www.smorefood.com/order-online/sushi-gama-new-york-10021-ok4kmrpz??utm_source=gmb&utm_medium=website
 place_id: ChIJw9uiOMBYwokR7zqSs85PFUs
 photos:
   - name: >-
@@ -186,6 +185,33 @@ rating: '4.4'
 rating_count: 0
 website: >-
   https://www.smorefood.com/order-online/sushi-gama-new-york-10021-ok4kmrpz??utm_source=gmb&utm_medium=website
+description: >-
+  Explore Sushi Gama in New York, NY$$$Sushi Gama in New York, NY, stands out as
+  a welcoming Japanese restaurant blending a casual tavern atmosphere with an
+  array of fresh sushi and innovative rolls. This spot offers an extensive menu
+  that caters to various preferences, including vegetarian and gluten-free
+  choices, making it a versatile option for diverse diners. With happy-hour
+  specials and a focus on quality kitchen-cooked plates, it's an ideal place for
+  those seeking authentic flavors in a relaxed setting. The restaurant's
+  accessible features, such as wheelchair-friendly entrances and seating,
+  enhance its appeal for everyone looking to enjoy Japanese cuisine. Whether
+  you're exploring sushi restaurants in the city or craving a neighborhood gem,
+  Sushi Gama delivers a memorable dining experience with its thoughtful ambiance
+  and flavorful selections.
+generative_summary: >-
+  Explore Sushi Gama in New York, NY$$$Sushi Gama in New York, NY, stands out as
+  a welcoming Japanese restaurant blending a casual tavern atmosphere with an
+  array of fresh sushi and innovative rolls. This spot offers an extensive menu
+  that caters to various preferences, including vegetarian and gluten-free
+  choices, making it a versatile option for diverse diners. With happy-hour
+  specials and a focus on quality kitchen-cooked plates, it's an ideal place for
+  those seeking authentic flavors in a relaxed setting. The restaurant's
+  accessible features, such as wheelchair-friendly entrances and seating,
+  enhance its appeal for everyone looking to enjoy Japanese cuisine. Whether
+  you're exploring sushi restaurants in the city or craving a neighborhood gem,
+  Sushi Gama delivers a memorable dining experience with its thoughtful ambiance
+  and flavorful selections.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJw9uiOMBYwokR7zqSs85PFUs/reviews/ChZDSUhNMG9nS0VJQ0FnSURIenUtN0VnEAE
@@ -345,6 +371,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNWN01fS1pREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNWN01fS1pREAE!2m1!1s0x89c258c038a2dbc3:0x4b154fceb3923aef
+review_summary: >-
+  Customer Feedback on Sushi Gama$$$Visitors frequently praise the freshness and
+  quality of the sushi rolls, highlighting them as some of the best options in
+  the area for a satisfying meal. Many note the fast and friendly service that
+  adds to the overall enjoyable vibe, making it a go-to spot for casual outings
+  or quick takeout. Dishes like various rolls and rice-based plates often
+  receive high marks for their bold flavors and creative twists, appealing to
+  those seeking top-rated sushi experiences. While the atmosphere is described
+  as energetic and welcoming, feedback also appreciates the efficient handling
+  even during busy times, contributing to a positive repeat visit vibe. Overall,
+  it's clear that this Japanese place near you offers a solid mix of tasty food
+  and attentive service that keeps customers coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options:
   acceptsCreditCards: true
@@ -374,8 +413,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Japanese restaurant with a tavern vibe & bar offering a mix of sushi, rolls &
   kitchen-cooked plates.
 

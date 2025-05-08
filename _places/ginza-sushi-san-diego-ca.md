@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ginza Sushi"
+title: Ginza Sushi
 permalink: /california/san-diego/ginza-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: San Diego
 seo:
-  name: "Ginza Sushi"
-  type: Restaurant
-  links: null
-description: "Ginza Sushi serves delicious sushi in San Diego, California. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.ginzasushirb.com/
 place_id: ChIJwdGSZdLw24AR9SyX2JYDKgg
 photos:
   - name: >-
@@ -170,8 +168,121 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80dbf0d26592d1c1:0x82a0396d8972cf5!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 15
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 15
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 15
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 15
+        minute: 0
+    - open:
+        day: 6
+        hour: 16
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM'
+    - 'Thursday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM'
+    - 'Friday: 11:00 AM – 3:00 PM, 4:00 – 9:30 PM'
+    - 'Saturday: 11:00 AM – 3:00 PM, 4:00 – 9:30 PM'
+    - 'Sunday: 3:00 – 8:30 PM'
+  nextOpenTime: '2025-05-03T23:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +290,54 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (858) 487-7647
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.4'
+rating_count: 319
+website: https://www.ginzasushirb.com/
+description: >-
+  Discover Ginza Sushi in San Diego, CA$$$Ginza Sushi in San Diego, CA, stands
+  out as a welcoming Japanese restaurant offering a casual dining experience
+  with fresh sushi rolls and other flavorful specialties. This spot emphasizes
+  accessibility features like wheelchair-friendly parking and entrances, making
+  it easy for everyone to enjoy its vibrant atmosphere and diverse menu options.
+  Drawing from its focus on authentic Japanese cuisine, visitors can savor
+  dishes such as bibimbap alongside a selection of lunch and dinner choices that
+  cater to various tastes. The moderate pricing adds to its appeal for those
+  seeking quality sushi restaurants near me, with hours that accommodate both
+  midday meals and evening outings. Overall, it's a go-to destination for anyone
+  exploring top-rated sushi in the area, blending simplicity with satisfying
+  flavors.
+generative_summary: >-
+  Discover Ginza Sushi in San Diego, CA$$$Ginza Sushi in San Diego, CA, stands
+  out as a welcoming Japanese restaurant offering a casual dining experience
+  with fresh sushi rolls and other flavorful specialties. This spot emphasizes
+  accessibility features like wheelchair-friendly parking and entrances, making
+  it easy for everyone to enjoy its vibrant atmosphere and diverse menu options.
+  Drawing from its focus on authentic Japanese cuisine, visitors can savor
+  dishes such as bibimbap alongside a selection of lunch and dinner choices that
+  cater to various tastes. The moderate pricing adds to its appeal for those
+  seeking quality sushi restaurants near me, with hours that accommodate both
+  midday meals and evening outings. Overall, it's a go-to destination for anyone
+  exploring top-rated sushi in the area, blending simplicity with satisfying
+  flavors.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying About Ginza Sushi$$$Folks around San Diego seem to
+  really appreciate Ginza Sushi for its consistently fresh and well-prepared
+  dishes, earning it solid praise from the community. Many highlight the variety
+  of sushi options and how they hit the spot for anyone craving Japanese places
+  near me, with comments often noting the friendly service and reasonable prices
+  that make it a reliable choice. While a few mention wait times during peak
+  hours, the overall vibe comes across as relaxed and enjoyable, especially for
+  groups or casual diners. It's clear that the high ratings reflect a genuine
+  love for the authentic flavors and welcoming feel, encouraging repeat visits
+  for those hunting for best sushi near me. In the end, the feedback paints a
+  positive picture of a spot that's worth checking out for a satisfying meal
+  without any major letdowns.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +363,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

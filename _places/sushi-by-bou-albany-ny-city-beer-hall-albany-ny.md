@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi by Bou - Albany NY @ City Beer Hall"
+title: Sushi by Bou - Albany NY @ City Beer Hall
 permalink: /new-york/albany/sushi-by-bou-albany-ny-city-beer-hall.html
 stateAbbr: NY
 stateName: New York
 cityName: Albany
 seo:
-  name: "Sushi by Bou - Albany NY @ City Beer Hall"
-  type: Restaurant
-  links: null
-description: "Sushi by Bou - Albany NY @ City Beer Hall serves delicious sushi in Albany, New York. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://sushibybou.com/
 place_id: ChIJ48hQ9CMK3okRmp3ZykDANsY
 photos:
   - name: >-
@@ -170,8 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89de0a23f450c8e3:0xc636c040cad99d9a!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 23
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 23
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 23
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 0
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 0
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: Closed'
+    - 'Tuesday: 5:00 – 11:00 PM'
+    - 'Wednesday: 5:00 – 11:00 PM'
+    - 'Thursday: 5:00 – 11:00 PM'
+    - 'Friday: 5:00 PM – 12:00 AM'
+    - 'Saturday: 5:00 PM – 12:00 AM'
+    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +226,50 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
+phone: (888) 670-5996
 price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+price_range: $100 &ndash; & up
+rating: '4.9'
+rating_count: 90
+website: https://sushibybou.com/
+description: >-
+  Discover Sushi by Bou in Albany, NY$$$Sushi by Bou in Albany, NY, offers a
+  refined omakase-style dining experience that combines fresh, expertly crafted
+  sushi with a nod to historical charm. Set in a cozy atmosphere reminiscent of
+  Prohibition-era aesthetics, this spot features an array of exotic cocktails
+  and occasional live music, creating an engaging backdrop for your meal.
+  Patrons can savor premium ingredients in dishes that highlight the best of
+  Japanese cuisine, making it a go-to choice for those exploring sushi
+  restaurants in the area. Whether you're seeking top-rated sushi options close
+  to home or simply looking for a memorable evening out, this downtown location
+  delivers on quality and ambiance. Its accessibility features, like
+  wheelchair-friendly entrances, ensure a welcoming visit for everyone.
+generative_summary: >-
+  Discover Sushi by Bou in Albany, NY$$$Sushi by Bou in Albany, NY, offers a
+  refined omakase-style dining experience that combines fresh, expertly crafted
+  sushi with a nod to historical charm. Set in a cozy atmosphere reminiscent of
+  Prohibition-era aesthetics, this spot features an array of exotic cocktails
+  and occasional live music, creating an engaging backdrop for your meal.
+  Patrons can savor premium ingredients in dishes that highlight the best of
+  Japanese cuisine, making it a go-to choice for those exploring sushi
+  restaurants in the area. Whether you're seeking top-rated sushi options close
+  to home or simply looking for a memorable evening out, this downtown location
+  delivers on quality and ambiance. Its accessibility features, like
+  wheelchair-friendly entrances, ensure a welcoming visit for everyone.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Raving About$$$Folks checking out this sushi spot often
+  highlight the fantastic omakase-style meals, with fresh and flavorful dishes
+  that keep things exciting and satisfying. Many appreciate the creative drink
+  selections that pair perfectly with the menu, adding a fun twist to the
+  overall vibe. The intimate setting comes across as engaging and lively, making
+  it easy to enjoy a relaxed night out with friends or a date. People frequently
+  note the helpful staff who guide the experience without overwhelming,
+  contributing to a positive and smooth visit. If you're on the hunt for
+  reliable sushi places near you, this one earns consistent nods for its solid
+  execution and welcoming energy.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +295,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

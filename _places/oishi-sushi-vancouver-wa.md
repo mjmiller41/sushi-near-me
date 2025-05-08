@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Oishi Sushi"
+title: Oishi Sushi
 permalink: /washington/vancouver/oishi-sushi.html
 stateAbbr: WA
 stateName: Washington
 cityName: Vancouver
 seo:
-  name: "Oishi Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://oishisushi.godaddysites.com/
-description: "Oishi Sushi serves delicious sushi in Vancouver, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJK_WTgJOvlVQR7QpXVBlmWyU
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x5495af938093f52b:0x255b661954570aed!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:00 PM'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:00 PM'
     - 'Saturday: 11:00 AM – 9:00 PM'
     - 'Sunday: 11:00 AM – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 9:00 PM'
-    - 'Saturday: 11:00 AM – 9:00 PM'
-    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +246,44 @@ phone: (360) 253-2222
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.4'
-rating_count: 0
+rating_count: 613
 website: https://oishisushi.godaddysites.com/
+description: >-
+  Discover Oishi Sushi in Vancouver, WA$$$Oishi Sushi in Vancouver, WA, stands
+  out as a welcoming spot for enjoying fresh sushi and Asian-inspired dishes in
+  a relaxed environment. This sushi restaurant offers a variety of options like
+  artfully prepared rolls, poke bowls, and bento boxes, making it a go-to choice
+  for those seeking flavorful, everyday meals. The laid-back atmosphere is
+  complemented by thoughtful accessibility features, ensuring a comfortable
+  experience for all visitors. With daily hours that cater to lunch and dinner
+  crowds, it's an ideal stop for anyone exploring sushi spots in the area.
+  Whether you're in the mood for a quick bite or a casual gathering, this
+  Vancouver gem delivers on quality and convenience.
+generative_summary: >-
+  Discover Oishi Sushi in Vancouver, WA$$$Oishi Sushi in Vancouver, WA, stands
+  out as a welcoming spot for enjoying fresh sushi and Asian-inspired dishes in
+  a relaxed environment. This sushi restaurant offers a variety of options like
+  artfully prepared rolls, poke bowls, and bento boxes, making it a go-to choice
+  for those seeking flavorful, everyday meals. The laid-back atmosphere is
+  complemented by thoughtful accessibility features, ensuring a comfortable
+  experience for all visitors. With daily hours that cater to lunch and dinner
+  crowds, it's an ideal stop for anyone exploring sushi spots in the area.
+  Whether you're in the mood for a quick bite or a casual gathering, this
+  Vancouver gem delivers on quality and convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this sushi spot often highlight the
+  consistently fresh flavors and generous portions that make every meal feel
+  satisfying. Many appreciate the relaxed vibe and reliable service, which add
+  to the overall enjoyable dining experience without any major complaints. Based
+  on the strong ratings, it's clear that the variety of dishes keeps people
+  coming back for more, with praise for the balance of taste and value. While
+  opinions vary slightly, the general consensus leans positive, emphasizing it
+  as a solid pick for anyone searching for tasty sushi options nearby. Overall,
+  the feedback paints a picture of a dependable favorite that delivers a
+  pleasant outing for groups or solo diners alike.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +309,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

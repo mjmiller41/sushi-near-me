@@ -5,4 +5,5 @@ permalink: /arizona/glendale/
 stateAbbr: AZ
 stateName: Arizona
 cityName: Glendale
+
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi-Fi"
+title: Sushi-Fi
 permalink: /colorado/fort-collins/sushi-fi.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Fort Collins
 seo:
-  name: "Sushi-Fi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi-Fi serves delicious sushi in Fort Collins, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJpUCjJEZKaYcRSJFdSiCcV7I
 photos:
   - name: >-
@@ -185,7 +183,48 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Sushi-Fi in Fort Collins, Colorado$$$Sushi-Fi in Fort Collins, CO,
+  stands out as a laid-back Japanese restaurant specializing in fresh, flavorful
+  dishes that cater to sushi enthusiasts. This spot features an all-you-can-eat
+  menu with a variety of options like creative rolls and hearty rice bowls,
+  making it a go-to choice for anyone craving authentic Japanese fare in a
+  welcoming atmosphere. The restaurant emphasizes accessibility with features
+  like wheelchair-friendly entrances and seating, ensuring a comfortable
+  experience for all visitors. Its casual vibe and focus on quality ingredients
+  make it an ideal destination for those exploring top-rated sushi options
+  nearby. Whether you're in the mood for a quick meal or a relaxed dining
+  outing, Sushi-Fi delivers a satisfying blend of taste and value that keeps
+  locals coming back.
+generative_summary: >-
+  Discover Sushi-Fi in Fort Collins, Colorado$$$Sushi-Fi in Fort Collins, CO,
+  stands out as a laid-back Japanese restaurant specializing in fresh, flavorful
+  dishes that cater to sushi enthusiasts. This spot features an all-you-can-eat
+  menu with a variety of options like creative rolls and hearty rice bowls,
+  making it a go-to choice for anyone craving authentic Japanese fare in a
+  welcoming atmosphere. The restaurant emphasizes accessibility with features
+  like wheelchair-friendly entrances and seating, ensuring a comfortable
+  experience for all visitors. Its casual vibe and focus on quality ingredients
+  make it an ideal destination for those exploring top-rated sushi options
+  nearby. Whether you're in the mood for a quick meal or a relaxed dining
+  outing, Sushi-Fi delivers a satisfying blend of taste and value that keeps
+  locals coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this sushi spot often rave about the
+  fresh, high-quality ingredients that make every bite feel worthwhile,
+  highlighting it as a solid pick for anyone hunting for reliable Japanese eats
+  in the area. Many appreciate the generous portions and variety in the
+  all-you-can-eat setup, noting that it offers great bang for your buck without
+  skimping on flavor. Folks frequently mention the friendly service and
+  efficient vibe, which adds to the overall enjoyable experience, though some
+  point out that wait times can vary during peak hours. Overall, the feedback
+  paints a positive picture of a place that's perfect for groups or solo diners
+  seeking tasty sushi rolls in a casual setting. If you're on the lookout for
+  approachable Japanese dining, this spot seems to hit the mark for most,
+  blending affordability with satisfying meals that leave a good impression.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +250,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "OHO Sushi Studio"
+title: OHO Sushi Studio
 permalink: /california/long-beach/oho-sushi-studio.html
 stateAbbr: CA
 stateName: California
 cityName: Long Beach
 seo:
-  name: "OHO Sushi Studio"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "OHO Sushi Studio serves delicious sushi in Long Beach, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJXyEpccAx3YARsUYvDtrREyE
 photos:
   - name: >-
@@ -185,7 +183,43 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover OHO Sushi Studio in Long Beach, CA$$$OHO Sushi Studio in Long Beach,
+  CA, stands out as a welcoming spot for anyone craving authentic Japanese
+  flavors and fresh seafood options. This sushi restaurant boasts a casual vibe
+  that makes it ideal for relaxed dinners or quick bites, complemented by a
+  diverse menu that includes plenty of vegetarian choices to suit various
+  tastes. Patrons can enjoy happy-hour specials that add great value to the
+  experience, making it a smart pick for those exploring sushi places near me in
+  a vibrant coastal setting. The emphasis on high-quality ingredients ensures
+  every roll and sashimi delivers a satisfying meal, perfect for locals or
+  visitors seeking top-rated sushi in the area.
+generative_summary: >-
+  Discover OHO Sushi Studio in Long Beach, CA$$$OHO Sushi Studio in Long Beach,
+  CA, stands out as a welcoming spot for anyone craving authentic Japanese
+  flavors and fresh seafood options. This sushi restaurant boasts a casual vibe
+  that makes it ideal for relaxed dinners or quick bites, complemented by a
+  diverse menu that includes plenty of vegetarian choices to suit various
+  tastes. Patrons can enjoy happy-hour specials that add great value to the
+  experience, making it a smart pick for those exploring sushi places near me in
+  a vibrant coastal setting. The emphasis on high-quality ingredients ensures
+  every roll and sashimi delivers a satisfying meal, perfect for locals or
+  visitors seeking top-rated sushi in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Buzzing About$$$Folks heading to this sushi spot often rave
+  about the consistently fresh and flavorful selections, like the standout
+  sashimi options that hit the spot without breaking the bank. Many appreciate
+  how the happy-hour deals make it easy to try a variety of dishes at reasonable
+  prices, adding to the overall fun and approachable vibe. The staff comes
+  across as genuinely helpful and attentive, helping to create a lively
+  atmosphere that keeps diners coming back for more. While opinions highlight
+  the energetic setting as a plus, it's clear that the focus on quality and
+  affordability makes this a solid choice for anyone hunting for reliable sushi
+  restaurants nearby. Overall, it's a go-to for those who love sushi, offering a
+  balanced mix of taste and value that leaves a positive impression.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +245,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

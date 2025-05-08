@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "World Wrapps"
+title: World Wrapps
 permalink: /california/san-francisco/world-wrapps.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
 seo:
-  name: "World Wrapps"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "World Wrapps serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJDTcVeoGBhYARn06UFK87o7E
 photos:
   - name: >-
@@ -184,7 +182,44 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover World Wrapps in San Francisco$$$World Wrapps in San Francisco, CA,
+  stands out as a vibrant counter-serve spot specializing in customizable wraps
+  and bowls that cater to a variety of tastes, including plenty of vegan
+  choices. This lively eatery emphasizes fresh, made-to-order meals that
+  highlight healthy ingredients and creative flavors, making it a go-to for
+  anyone seeking quick yet nutritious dining options in the bustling Marina
+  District. With its accessible features like wheelchair-friendly entrances and
+  seating, the restaurant ensures a welcoming experience for all visitors
+  looking to enjoy a satisfying meal. The focus on customizable options adds to
+  its appeal, allowing patrons to tailor their dishes to fit dietary preferences
+  while savoring the convenience of a casual, efficient service style.
+generative_summary: >-
+  Discover World Wrapps in San Francisco$$$World Wrapps in San Francisco, CA,
+  stands out as a vibrant counter-serve spot specializing in customizable wraps
+  and bowls that cater to a variety of tastes, including plenty of vegan
+  choices. This lively eatery emphasizes fresh, made-to-order meals that
+  highlight healthy ingredients and creative flavors, making it a go-to for
+  anyone seeking quick yet nutritious dining options in the bustling Marina
+  District. With its accessible features like wheelchair-friendly entrances and
+  seating, the restaurant ensures a welcoming experience for all visitors
+  looking to enjoy a satisfying meal. The focus on customizable options adds to
+  its appeal, allowing patrons to tailor their dishes to fit dietary preferences
+  while savoring the convenience of a casual, efficient service style.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback Highlights$$$Visitors to this spot often rave about the
+  tasty wraps and bowls that make for a refreshing, health-conscious meal, with
+  standout items like the flavorful Argentinian-inspired wrap drawing particular
+  praise for its bold tastes. Many appreciate the friendly service that helps
+  guide choices, creating a relaxed atmosphere where quick decisions lead to
+  satisfying results without breaking the bank. Folks frequently mention the
+  reasonable prices as a big plus, especially for the generous portions that
+  leave you feeling full and content. Overall, the combination of delicious
+  options and attentive staff keeps the energy positive, making it a solid pick
+  for anyone in the mood for a casual bite that hits the spot.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +245,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

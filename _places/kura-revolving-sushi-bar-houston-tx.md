@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kura Revolving Sushi Bar"
+title: Kura Revolving Sushi Bar
 permalink: /texas/houston/kura-revolving-sushi-bar.html
 stateAbbr: TX
 stateName: Texas
 cityName: Houston
 seo:
-  name: "Kura Revolving Sushi Bar"
-  type: Restaurant
-  links: null
-description: "Kura Revolving Sushi Bar serves delicious sushi in Houston, Texas. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://kurasushi.com/locations/houston-tx-midtown/
 place_id: ChIJAwoKbG6_QIYRSlYYeR6p1OA
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8640bf6e6c0a0a03:0xe0d4a91e7918564a!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:30 AM – 9:00 PM'
+    - 'Tuesday: 11:30 AM – 9:00 PM'
+    - 'Wednesday: 11:30 AM – 9:00 PM'
+    - 'Thursday: 11:30 AM – 9:00 PM'
+    - 'Friday: 11:30 AM – 9:30 PM'
+    - 'Saturday: 11:00 AM – 9:30 PM'
+    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,54 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (713) 636-2696
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.4'
+rating_count: 2522
+website: https://kurasushi.com/locations/houston-tx-midtown/
+description: >-
+  Experience Kura Revolving Sushi Bar in Houston, TX$$$Kura Revolving Sushi Bar
+  in Houston, TX, offers a unique dining experience at one of the city's top
+  sushi restaurants, where fresh sushi glides along a conveyor belt for easy
+  selection. This chain eatery stands out with its innovative setup that
+  combines quality Japanese cuisine with an interactive element, allowing guests
+  to enjoy a variety of dishes while collecting plates for fun rewards. The
+  restaurant's accessible features, such as wheelchair-friendly entrances and
+  seating, make it welcoming for all visitors seeking sushi places near them.
+  With moderate pricing and a focus on fresh ingredients, it's an ideal spot for
+  those exploring Japanese places near me, blending affordability with authentic
+  flavors. Operating hours cater to both lunch and dinner crowds, ensuring you
+  can savor this lively atmosphere any day of the week.
+generative_summary: >-
+  Experience Kura Revolving Sushi Bar in Houston, TX$$$Kura Revolving Sushi Bar
+  in Houston, TX, offers a unique dining experience at one of the city's top
+  sushi restaurants, where fresh sushi glides along a conveyor belt for easy
+  selection. This chain eatery stands out with its innovative setup that
+  combines quality Japanese cuisine with an interactive element, allowing guests
+  to enjoy a variety of dishes while collecting plates for fun rewards. The
+  restaurant's accessible features, such as wheelchair-friendly entrances and
+  seating, make it welcoming for all visitors seeking sushi places near them.
+  With moderate pricing and a focus on fresh ingredients, it's an ideal spot for
+  those exploring Japanese places near me, blending affordability with authentic
+  flavors. Operating hours cater to both lunch and dinner crowds, ensuring you
+  can savor this lively atmosphere any day of the week.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Customer Feedback$$$Visitors to this Houston sushi spot often
+  rave about the fresh and flavorful selections that keep things exciting on the
+  conveyor belt, making it a hit for casual meals with friends or family. Many
+  appreciate the fun rewards system for collected plates, adding a playful twist
+  that enhances the overall vibe without overwhelming the taste experience.
+  Feedback highlights the good value for money, with portions that satisfy
+  without breaking the bank, though some note that wait times can vary during
+  peak hours. Overall, the high ratings reflect a welcoming environment that's
+  perfect for anyone searching for top-rated sushi restaurants, with most
+  agreeing that the quality and innovation make it worth a return visit. If
+  you're on the hunt for sushi close to you, this place consistently delivers a
+  enjoyable and reliable dining option that balances fun with great taste.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +315,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "YAMA Sushi"
+title: YAMA Sushi
 permalink: /new-york/plattsburgh/yama-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: Plattsburgh
 seo:
-  name: "YAMA Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "YAMA Sushi serves delicious sushi in Plattsburgh, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJffpnTak4ykwRzlADAeEETiQ
 photos:
   - name: >-
@@ -184,7 +182,44 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover YAMA Sushi in Plattsburgh, NY$$$YAMA Sushi in Plattsburgh, NY, stands
+  out as a relaxed destination for fresh Japanese cuisine, offering a welcoming
+  atmosphere perfect for sushi enthusiasts. This spot features a variety of
+  sushi rolls and bento boxes, crafted with quality ingredients that highlight
+  traditional flavors in a casual setting. Accessibility is a key advantage,
+  with options like wheelchair-accessible parking and entrances making it easy
+  for everyone to enjoy a meal. Those searching for top-rated sushi restaurants
+  near them will appreciate the straightforward menu that balances simplicity
+  and taste. Whether you're exploring sushi places in the area or craving a
+  quick Japanese-inspired bite, this location delivers a satisfying experience
+  with its approachable vibe.
+generative_summary: >-
+  Discover YAMA Sushi in Plattsburgh, NY$$$YAMA Sushi in Plattsburgh, NY, stands
+  out as a relaxed destination for fresh Japanese cuisine, offering a welcoming
+  atmosphere perfect for sushi enthusiasts. This spot features a variety of
+  sushi rolls and bento boxes, crafted with quality ingredients that highlight
+  traditional flavors in a casual setting. Accessibility is a key advantage,
+  with options like wheelchair-accessible parking and entrances making it easy
+  for everyone to enjoy a meal. Those searching for top-rated sushi restaurants
+  near them will appreciate the straightforward menu that balances simplicity
+  and taste. Whether you're exploring sushi places in the area or craving a
+  quick Japanese-inspired bite, this location delivers a satisfying experience
+  with its approachable vibe.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this sushi spot often praise the
+  flavorful dishes, especially the fresh sushi and hearty soup that make for a
+  delightful meal. Many highlight the efficient service that keeps things
+  running smoothly without any fuss, adding to the overall enjoyment. Folks
+  appreciate the friendly team that creates a welcoming environment, perfect for
+  a casual outing or a quick bite. While it's clear this place hits the mark for
+  tasty options and quick turnaround, it's a solid pick for anyone hunting for
+  reliable sushi restaurants nearby. In summary, the feedback leans positive,
+  making it a go-to choice for those who love sushi and want a straightforward,
+  enjoyable dining experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +245,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

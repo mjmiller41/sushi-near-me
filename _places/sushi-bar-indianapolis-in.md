@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Bar"
+title: Sushi Bar
 permalink: /indiana/indianapolis/sushi-bar.html
 stateAbbr: IN
 stateName: Indiana
 cityName: Indianapolis
 seo:
-  name: "Sushi Bar"
-  type: Restaurant
-  links: null
-description: "Sushi Bar serves delicious sushi in Indianapolis, Indiana. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.sushibarindy.net/
 place_id: ChIJt6XZGK9Ta4gRboHbFgeiRI4
 photos:
   - name: >-
@@ -169,8 +167,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x886b53af18d9a5b7:0x8e44a20716db816e!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 22
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 22
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 23
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 23
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:30 AM – 10:30 PM'
+    - 'Tuesday: 11:30 AM – 10:30 PM'
+    - 'Wednesday: 11:30 AM – 10:30 PM'
+    - 'Thursday: 11:30 AM – 10:30 PM'
+    - 'Friday: 11:30 AM – 11:30 PM'
+    - 'Saturday: 11:30 AM – 11:30 PM'
+    - 'Sunday: 12:00 – 10:30 PM'
+  nextCloseTime: '2025-05-04T03:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -178,13 +241,44 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (317) 257-7289
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.5'
+rating_count: 658
+website: http://www.sushibarindy.net/
+description: >-
+  Discover Sushi Bar in Indianapolis, IN$$$Sushi Bar in Indianapolis, IN, stands
+  out as a laid-back spot for savoring Japanese flavors, featuring an assortment
+  of fresh sushi rolls alongside options like sake and beer. Nestled in the
+  vibrant Broad Ripple neighborhood, this eatery combines accessibility with a
+  welcoming vibe, including wheelchair-friendly parking and seating for all
+  visitors. Its extended hours make it ideal for quick lunches or relaxed
+  dinners, appealing to those exploring top-rated sushi options in the area. The
+  menu highlights a variety of creative rolls and beverages, creating a go-to
+  destination for anyone craving authentic tastes without the formality.
+generative_summary: >-
+  Discover Sushi Bar in Indianapolis, IN$$$Sushi Bar in Indianapolis, IN, stands
+  out as a laid-back spot for savoring Japanese flavors, featuring an assortment
+  of fresh sushi rolls alongside options like sake and beer. Nestled in the
+  vibrant Broad Ripple neighborhood, this eatery combines accessibility with a
+  welcoming vibe, including wheelchair-friendly parking and seating for all
+  visitors. Its extended hours make it ideal for quick lunches or relaxed
+  dinners, appealing to those exploring top-rated sushi options in the area. The
+  menu highlights a variety of creative rolls and beverages, creating a go-to
+  destination for anyone craving authentic tastes without the formality.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$From the buzz around this popular spot, folks
+  often rave about the incredibly fresh sushi and well-balanced flavors that
+  keep diners coming back for more. Many appreciate the fair pricing and hearty
+  portions, making it a solid pick for anyone hunting for great value at sushi
+  places nearby. The service gets nods for being prompt and helpful, adding to
+  the enjoyable atmosphere without any major hiccups. Overall, with its strong
+  rating, it's clear this location delivers a reliable and satisfying experience
+  for groups or solo visitors seeking Japanese cuisine in a casual setting.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +304,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

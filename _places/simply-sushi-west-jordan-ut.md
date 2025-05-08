@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Simply Sushi"
+title: Simply Sushi
 permalink: /utah/west-jordan/simply-sushi.html
 stateAbbr: UT
 stateName: Utah
 cityName: West Jordan
 seo:
-  name: "Simply Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.simplysushi.us/
-description: "Simply Sushi serves delicious sushi in West Jordan, Utah. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJN56EEDqJUocRk0-Ny6PkFcc
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8752893a10849e37:0xc715e4a3cb8d4f93!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 23
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 23
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 23
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 23
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 0
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 0
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 11:30 PM'
     - 'Tuesday: 11:30 AM – 11:30 PM'
     - 'Wednesday: 11:30 AM – 11:30 PM'
@@ -178,28 +234,120 @@ opening_hours:
     - 'Friday: 11:30 AM – 12:00 AM'
     - 'Saturday: 11:30 AM – 12:00 AM'
     - 'Sunday: 12:00 – 8:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 11:30 PM'
-    - 'Tuesday: 11:30 AM – 11:30 PM'
-    - 'Wednesday: 11:30 AM – 11:30 PM'
-    - 'Thursday: 11:30 AM – 11:30 PM'
-    - 'Friday: 11:30 AM – 12:00 AM'
-    - 'Saturday: 11:30 AM – 12:00 AM'
-    - 'Sunday: 12:00 – 8:00 PM'
+  nextCloseTime: '2025-05-04T06:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 0
+        close:
+          day: 0
+          hour: 20
+          minute: 0
+      - open:
+          day: 1
+          hour: 11
+          minute: 30
+        close:
+          day: 1
+          hour: 23
+          minute: 30
+      - open:
+          day: 2
+          hour: 11
+          minute: 30
+        close:
+          day: 2
+          hour: 23
+          minute: 30
+      - open:
+          day: 3
+          hour: 11
+          minute: 30
+        close:
+          day: 3
+          hour: 23
+          minute: 30
+      - open:
+          day: 4
+          hour: 11
+          minute: 30
+        close:
+          day: 4
+          hour: 23
+          minute: 30
+      - open:
+          day: 5
+          hour: 11
+          minute: 30
+        close:
+          day: 6
+          hour: 0
+          minute: 0
+      - open:
+          day: 6
+          hour: 11
+          minute: 30
+        close:
+          day: 0
+          hour: 0
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 11:30 AM – 11:30 PM'
+      - 'Tuesday: 11:30 AM – 11:30 PM'
+      - 'Wednesday: 11:30 AM – 11:30 PM'
+      - 'Thursday: 11:30 AM – 11:30 PM'
+      - 'Friday: 11:30 AM – 12:00 AM'
+      - 'Saturday: 11:30 AM – 12:00 AM'
+      - 'Sunday: 12:00 – 8:00 PM'
+    secondaryHoursType: TAKEOUT
+    nextCloseTime: '2025-05-04T06:00:00Z'
 phone: (801) 676-7008
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.0'
-rating_count: 0
+rating_count: 1077
 website: https://www.simplysushi.us/
+description: >-
+  Discover Simply Sushi in West Jordan, UT$$$Simply Sushi in West Jordan, UT,
+  stands out as a relaxed spot for enjoying fresh Japanese cuisine, particularly
+  its diverse selection of sushi rolls that cater to a variety of tastes. This
+  welcoming venue emphasizes accessibility with features like
+  wheelchair-friendly parking and entrances, making it easy for everyone to
+  savor their meals. Patrons can explore vegetarian-friendly options alongside
+  traditional favorites, ideal for those seeking sushi places near me that
+  accommodate different dietary preferences. With extended hours into the
+  evening, it's a great choice for late-night cravings or casual gatherings,
+  blending affordability with quality ingredients for an enjoyable dining
+  experience.
+generative_summary: >-
+  Discover Simply Sushi in West Jordan, UT$$$Simply Sushi in West Jordan, UT,
+  stands out as a relaxed spot for enjoying fresh Japanese cuisine, particularly
+  its diverse selection of sushi rolls that cater to a variety of tastes. This
+  welcoming venue emphasizes accessibility with features like
+  wheelchair-friendly parking and entrances, making it easy for everyone to
+  savor their meals. Patrons can explore vegetarian-friendly options alongside
+  traditional favorites, ideal for those seeking sushi places near me that
+  accommodate different dietary preferences. With extended hours into the
+  evening, it's a great choice for late-night cravings or casual gatherings,
+  blending affordability with quality ingredients for an enjoyable dining
+  experience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Based on the solid 4.0 rating from over a thousand
+  reviews, folks generally appreciate the fresh flavors and variety at this
+  sushi spot, often highlighting it as a go-to for satisfying Japanese meals
+  close to home. Many comments note the welcoming atmosphere and reliable
+  service, making it feel like a comfortable choice for everything from quick
+  lunches to evening outings. While some mention occasional waits during peak
+  times, the overall consensus leans positive, with diners praising the value
+  and taste that keep them coming back for more. If you're hunting for top-rated
+  sushi restaurants in the area, this place seems to deliver a consistently
+  enjoyable experience that balances fun and flavor without any major letdowns.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +373,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

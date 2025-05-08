@@ -1,15 +1,14 @@
 ---
 layout: place
-title: "Kyoto Sushi"
+title: Kyoto Sushi
 permalink: /minnesota/eagan/kyoto-sushi.html
 stateAbbr: MN
 stateName: Minnesota
 cityName: Eagan
 seo:
-  name: "Kyoto Sushi"
-  type: Restaurant
-  links: https://order.mealkeyway.com/customer/release/index?mid=76382b72767a6d726857795a69355a736b35356870413d3d
-description: "Japanese restaurant featuring hibachi & specialty rolls from a lunch & dinner buffet or à la carte. Kyoto Sushi serves delicious sushi in Eagan, Minnesota. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
+  type: restaurant
+  links: >-
+    https://order.mealkeyway.com/customer/release/index?mid=76382b72767a6d726857795a69355a736b35356870413d3d
 place_id: ChIJq6qqqsYq9ocR7NktmDIEEB8
 photos:
   - name: >-
@@ -186,6 +185,33 @@ rating: '4.2'
 rating_count: 0
 website: >-
   https://order.mealkeyway.com/customer/release/index?mid=76382b72767a6d726857795a69355a736b35356870413d3d
+description: >-
+  Discover Kyoto Sushi in Eagan, Minnesota$$$Kyoto Sushi in Eagan, MN, stands
+  out as a welcoming Japanese restaurant offering a blend of fresh sushi and
+  other authentic fare in a casual setting. This spot features an
+  all-you-can-eat option that includes specialty rolls and hibachi-style dishes,
+  making it ideal for those seeking variety in their Japanese dining experience.
+  With its moderate pricing and accessible features like wheelchair-friendly
+  entrances and seating, it's designed to accommodate a range of diners looking
+  for convenient sushi places near me. The menu highlights high-quality
+  ingredients and options for groups, including vegetarian choices and beverages
+  like beer and wine, ensuring a satisfying meal for everyone. Whether you're in
+  the mood for top-rated sushi or exploring new Japanese flavors, this venue
+  delivers a reliable and enjoyable atmosphere for casual outings.
+generative_summary: >-
+  Discover Kyoto Sushi in Eagan, Minnesota$$$Kyoto Sushi in Eagan, MN, stands
+  out as a welcoming Japanese restaurant offering a blend of fresh sushi and
+  other authentic fare in a casual setting. This spot features an
+  all-you-can-eat option that includes specialty rolls and hibachi-style dishes,
+  making it ideal for those seeking variety in their Japanese dining experience.
+  With its moderate pricing and accessible features like wheelchair-friendly
+  entrances and seating, it's designed to accommodate a range of diners looking
+  for convenient sushi places near me. The menu highlights high-quality
+  ingredients and options for groups, including vegetarian choices and beverages
+  like beer and wine, ensuring a satisfying meal for everyone. Whether you're in
+  the mood for top-rated sushi or exploring new Japanese flavors, this venue
+  delivers a reliable and enjoyable atmosphere for casual outings.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJq6qqqsYq9ocR7NktmDIEEB8/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJaHB2eGVREAE
@@ -375,6 +401,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURYdTRtWGtRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURYdTRtWGtRRRAB!2m1!1s0x87f62ac6aaaaaaab:0x1f100432982dd9ec
+review_summary: >-
+  What Customers Are Buzzing About$$$Visitors to this sushi spot often rave
+  about the delicious all-you-can-eat deals and consistent quality of the rolls,
+  making it a solid pick for anyone craving affordable Japanese eats. Many
+  appreciate the good variety of options, including fresh fish dishes and hearty
+  sides like donburi and udon, which keep things exciting without breaking the
+  bank. While service can occasionally feel a bit slow during busier times, the
+  overall experience is lifted by the friendly staff and the value you get for
+  your money. Folks highlight it as a great choice for groups or families, with
+  plenty of positives around the fresh flavors and reasonable portions that
+  encourage repeat visits. All in all, it's a go-to for tasty sushi restaurants
+  near me, where the highlights far outweigh any minor hiccups, leaving diners
+  eager to return for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -407,8 +447,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Japanese restaurant featuring hibachi & specialty rolls from a lunch & dinner
   buffet or à la carte.
 

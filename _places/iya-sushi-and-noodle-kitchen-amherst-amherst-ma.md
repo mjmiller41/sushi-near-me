@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "IYA Sushi and Noodle Kitchen - Amherst"
+title: IYA Sushi and Noodle Kitchen - Amherst
 permalink: /massachusetts/amherst/iya-sushi-and-noodle-kitchen-amherst.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Amherst
 seo:
-  name: "IYA Sushi and Noodle Kitchen - Amherst"
-  type: Restaurant
+  type: restaurant
   links: https://www.iyasushi.com/
-description: "IYA Sushi and Noodle Kitchen - Amherst serves delicious sushi in Amherst, Massachusetts. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJNbZNzPDN5okR60x4CkT9NJw
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89e6cdf0cc4db635:0x9c34fd440a784ceb!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 20
+        minute: 30
+    - open:
+        day: 1
+        hour: 16
+        minute: 0
+      close:
+        day: 1
+        hour: 20
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 20
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 20
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 20
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 4:00 – 8:30 PM'
     - 'Tuesday: 11:30 AM – 8:30 PM'
     - 'Wednesday: 11:30 AM – 8:30 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 9:00 PM'
     - 'Saturday: 11:30 AM – 9:00 PM'
     - 'Sunday: 11:30 AM – 8:30 PM'
-  current:
-    - 'Monday: 4:00 – 8:30 PM'
-    - 'Tuesday: 11:30 AM – 8:30 PM'
-    - 'Wednesday: 11:30 AM – 8:30 PM'
-    - 'Thursday: 11:30 AM – 8:30 PM'
-    - 'Friday: 11:30 AM – 9:00 PM'
-    - 'Saturday: 11:30 AM – 9:00 PM'
-    - 'Sunday: 11:30 AM – 8:30 PM'
+  nextCloseTime: '2025-05-04T01:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +246,50 @@ phone: (413) 327-8000
 price_level: null
 price_range: $20 &ndash; $30
 rating: '4.4'
-rating_count: 0
+rating_count: 217
 website: https://www.iyasushi.com/
+description: >-
+  Discover IYA Sushi and Noodle Kitchen in Amherst, MA$$$Nestled in the heart of
+  Amherst, MA, IYA Sushi and Noodle Kitchen stands out as a welcoming spot for
+  fresh Japanese cuisine, blending traditional flavors with modern twists. This
+  sushi restaurant offers an array of expertly crafted dishes, including
+  flavorful ramen and thoughtful vegetarian and vegan choices that cater to
+  diverse tastes. Visitors can enjoy accessible features like
+  wheelchair-friendly parking and seating, making it easy for everyone to savor
+  the experience. With its convenient location near local attractions, it's an
+  ideal stop for those seeking sushi restaurants in the area, where high-quality
+  ingredients shine in every bite. Operating with extended hours including
+  evenings and weekends, it provides a relaxed atmosphere perfect for casual
+  meals or quick visits when you're searching for sushi near you.
+generative_summary: >-
+  Discover IYA Sushi and Noodle Kitchen in Amherst, MA$$$Nestled in the heart of
+  Amherst, MA, IYA Sushi and Noodle Kitchen stands out as a welcoming spot for
+  fresh Japanese cuisine, blending traditional flavors with modern twists. This
+  sushi restaurant offers an array of expertly crafted dishes, including
+  flavorful ramen and thoughtful vegetarian and vegan choices that cater to
+  diverse tastes. Visitors can enjoy accessible features like
+  wheelchair-friendly parking and seating, making it easy for everyone to savor
+  the experience. With its convenient location near local attractions, it's an
+  ideal stop for those seeking sushi restaurants in the area, where high-quality
+  ingredients shine in every bite. Operating with extended hours including
+  evenings and weekends, it provides a relaxed atmosphere perfect for casual
+  meals or quick visits when you're searching for sushi near you.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying About IYA Sushi$$$Based on the strong 4.4-star rating
+  from numerous reviews, folks generally appreciate the fresh and well-prepared
+  sushi and noodle options that keep diners coming back for more. Many highlight
+  the friendly service and variety of choices, including plant-based dishes that
+  add a nice touch for different dietary needs, making it a solid pick for
+  groups or solo outings. While some note that wait times can vary during peak
+  hours, the overall vibe remains upbeat with consistently tasty flavors that
+  leave a positive impression. It's clear that the spot delivers on authentic
+  Japanese-inspired meals in a welcoming setting, encouraging repeat visits for
+  anyone exploring top-rated sushi places nearby. All in all, the feedback
+  paints a picture of a reliable favorite that balances quality and convenience
+  without overhyping the experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +315,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

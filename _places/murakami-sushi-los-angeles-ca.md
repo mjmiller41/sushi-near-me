@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Murakami Sushi"
+title: Murakami Sushi
 permalink: /california/los-angeles/murakami-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Los Angeles
 seo:
-  name: "Murakami Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://murakamimelrose.com/
-description: "Murakami Sushi serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJM3PvUtW4woAR1F1gwwh3HHE
 photos:
   - name: >-
@@ -170,7 +168,121 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c2b8d552ef7333:0x711c7708c3605dd4!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 14
+        minute: 30
+    - open:
+        day: 0
+        hour: 17
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 12
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 17
+        minute: 30
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 12
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 17
+        minute: 30
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 12
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 17
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 12
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 12
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 17
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 14
+        minute: 30
+    - open:
+        day: 6
+        hour: 17
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 12:00 – 2:30 PM, 5:30 – 10:00 PM'
     - 'Tuesday: 12:00 – 2:30 PM, 5:30 – 10:00 PM'
     - 'Wednesday: 12:00 – 2:30 PM, 5:30 – 10:00 PM'
@@ -178,14 +290,7 @@ opening_hours:
     - 'Friday: 12:00 – 2:30 PM, 5:30 – 10:30 PM'
     - 'Saturday: 12:00 – 2:30 PM, 5:30 – 10:30 PM'
     - 'Sunday: 12:00 – 2:30 PM, 5:30 – 9:30 PM'
-  current:
-    - 'Monday: 12:00 – 2:30 PM, 5:30 – 10:00 PM'
-    - 'Tuesday: 12:00 – 2:30 PM, 5:30 – 10:00 PM'
-    - 'Wednesday: 12:00 – 2:30 PM, 5:30 – 10:00 PM'
-    - 'Thursday: 12:00 – 2:30 PM, 5:30 – 10:00 PM'
-    - 'Friday: 12:00 – 2:30 PM, 5:30 – 10:30 PM'
-    - 'Saturday: 12:00 – 2:30 PM, 5:30 – 10:30 PM'
-    - 'Sunday: 12:00 – 2:30 PM, 5:30 – 9:30 PM'
+  nextOpenTime: '2025-05-04T00:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +302,278 @@ phone: (323) 692-1450
 price_level: PRICE_LEVEL_MODERATE
 price_range: $30 &ndash; $50
 rating: '4.4'
-rating_count: 0
+rating_count: 257
 website: http://murakamimelrose.com/
-reviews: null
+description: >-
+  Discover Murakami Sushi in Los Angeles, CA$$$Murakami Sushi in Los Angeles,
+  CA, stands out as a cozy Japanese eatery specializing in fresh, artfully
+  prepared dishes that capture the essence of traditional sushi dining. This
+  spot offers an inviting atmosphere with an omakase menu and chirashi bowls,
+  perfect for those seeking authentic flavors in a relaxed setting, making it a
+  go-to choice among sushi restaurants in the area. Accessibility features like
+  wheelchair-friendly entrances and seating enhance the experience for all
+  visitors, while outdoor options add a pleasant touch for casual meals. Patrons
+  can enjoy a variety of creative rolls and bites, emphasizing quality
+  ingredients that highlight the best of Japanese cuisine. For anyone exploring
+  top-rated sushi near me, this neighborhood gem delivers a satisfying blend of
+  taste and ambiance that keeps locals returning.
+generative_summary: >-
+  Discover Murakami Sushi in Los Angeles, CA$$$Murakami Sushi in Los Angeles,
+  CA, stands out as a cozy Japanese eatery specializing in fresh, artfully
+  prepared dishes that capture the essence of traditional sushi dining. This
+  spot offers an inviting atmosphere with an omakase menu and chirashi bowls,
+  perfect for those seeking authentic flavors in a relaxed setting, making it a
+  go-to choice among sushi restaurants in the area. Accessibility features like
+  wheelchair-friendly entrances and seating enhance the experience for all
+  visitors, while outdoor options add a pleasant touch for casual meals. Patrons
+  can enjoy a variety of creative rolls and bites, emphasizing quality
+  ingredients that highlight the best of Japanese cuisine. For anyone exploring
+  top-rated sushi near me, this neighborhood gem delivers a satisfying blend of
+  taste and ambiance that keeps locals returning.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJM3PvUtW4woAR1F1gwwh3HHE/reviews/ChdDSUhNMG9nS0VJQ0FnSURUMFkzUnBnRRAB
+    relativePublishTimeDescription: 11 months ago
+    rating: 5
+    text:
+      text: >-
+        Fast friendly service. We were given the VIP treatment. We ordered a
+        variety of food, but my favorite was the Yellowtail collar fish. The
+        warm sake was also a great first time experience. The staff was very
+        welcoming and friendly providing us with constant attention. Our local
+        family ordered their favorite foods and it was all delicious and cooked
+        to perfection. They even brought us matcha ice-cream with a candle for
+        well wishes on our journey home. Chef's kiss!
+      languageCode: en
+    originalText:
+      text: >-
+        Fast friendly service. We were given the VIP treatment. We ordered a
+        variety of food, but my favorite was the Yellowtail collar fish. The
+        warm sake was also a great first time experience. The staff was very
+        welcoming and friendly providing us with constant attention. Our local
+        family ordered their favorite foods and it was all delicious and cooked
+        to perfection. They even brought us matcha ice-cream with a candle for
+        well wishes on our journey home. Chef's kiss!
+      languageCode: en
+    authorAttribution:
+      displayName: Cindy J-G
+      uri: https://www.google.com/maps/contrib/116796324614458271050/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIHHVmN99Ul-MMnEuLRiUuk98ihyGBMNyjkOp3l9bGyvAoBJQ=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-05-25T13:41:57.725606Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURUMFkzUnBnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURUMFkzUnBnRRAB!2m1!1s0x80c2b8d552ef7333:0x711c7708c3605dd4
+  - name: >-
+      places/ChIJM3PvUtW4woAR1F1gwwh3HHE/reviews/ChZDSUhNMG9nS0VJQ0FnTURBc2NQOVhnEAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        Best Japanese restaurant in West Hollywood. My partner is Japanese and I
+        lived in Tokyo for over 10 years. Murakami is hands down the most
+        authentic and best Japanese food we’ve had in Los Angeles. Their sushi
+        chefs are actually from Japan and really have the skills, knowledge, and
+        the art, necessary to make great sushi. Reservations during dinner hours
+        are a good idea.
+      languageCode: en
+    originalText:
+      text: >-
+        Best Japanese restaurant in West Hollywood. My partner is Japanese and I
+        lived in Tokyo for over 10 years. Murakami is hands down the most
+        authentic and best Japanese food we’ve had in Los Angeles. Their sushi
+        chefs are actually from Japan and really have the skills, knowledge, and
+        the art, necessary to make great sushi. Reservations during dinner hours
+        are a good idea.
+      languageCode: en
+    authorAttribution:
+      displayName: Gregory Pekar
+      uri: https://www.google.com/maps/contrib/106072222742114762911/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjW5_rC4a1qo2H_qdJQGjS_1a48KWWnO50CYgsoSMrp9c8X40mOJ=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-02-09T22:19:27.278530Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURBc2NQOVhnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURBc2NQOVhnEAE!2m1!1s0x80c2b8d552ef7333:0x711c7708c3605dd4
+  - name: >-
+      places/ChIJM3PvUtW4woAR1F1gwwh3HHE/reviews/ChdDSUhNMG9nS0VJQ0FnTUNRNU5pbTdRRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        Mmmm… I just found one of my favorite sushi spots! No longer do I have
+        to travel to Sushi Gen downtown to get fresh, succulent sushi that has
+        supreme texture and quality taste. I’ll definitely be coming here often
+        from now on!!
+      languageCode: en
+    originalText:
+      text: >-
+        Mmmm… I just found one of my favorite sushi spots! No longer do I have
+        to travel to Sushi Gen downtown to get fresh, succulent sushi that has
+        supreme texture and quality taste. I’ll definitely be coming here often
+        from now on!!
+      languageCode: en
+    authorAttribution:
+      displayName: O
+      uri: https://www.google.com/maps/contrib/104278326779875445526/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWUKt9aHWW915BkLkfkilt6hEZ7c-h8X5NXo9wM6M32LkqDzPWp=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-03-02T04:20:54.710617Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNRNU5pbTdRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNRNU5pbTdRRRAB!2m1!1s0x80c2b8d552ef7333:0x711c7708c3605dd4
+  - name: >-
+      places/ChIJM3PvUtW4woAR1F1gwwh3HHE/reviews/ChdDSUhNMG9nS0VJQ0FnSUNlbXM3X19BRRAB
+    relativePublishTimeDescription: 2 years ago
+    rating: 5
+    text:
+      text: >-
+        Murakami is our go to local sushi LA restaurant! Nothing beats the
+        quality and the service. We found this through a Google search and we
+        have never looked back. Every time we come it never disappoints. It's
+        not as big as your usual chain sushi place, it's smaller and personable!
+        The setting is quaint and good for first dates and group of friends!
+        There is a sushi bar in the middle, and they do have a small patio
+        outdoor seating.
+
+
+        The dishes and the sushi chefs are your local
+
+        Rockstars! The waiting and seating staff is amazing too everyone is so
+        kind and they care. You can tell by the quality of the fish from each
+        bite.
+
+
+        Our go too and recommendations our:
+
+        I love the OMG roll as a cut roll
+
+        And if you love crispy rice I recommend that, I get the spicy tuna on
+        top.
+
+        Shishito, and Karage they have killer fried chicken!
+
+        Spicy tuna in general the best, as a hand roll lover or as cut pieces
+        you aren't missing out, both amazing!
+      languageCode: en
+    originalText:
+      text: >-
+        Murakami is our go to local sushi LA restaurant! Nothing beats the
+        quality and the service. We found this through a Google search and we
+        have never looked back. Every time we come it never disappoints. It's
+        not as big as your usual chain sushi place, it's smaller and personable!
+        The setting is quaint and good for first dates and group of friends!
+        There is a sushi bar in the middle, and they do have a small patio
+        outdoor seating.
+
+
+        The dishes and the sushi chefs are your local
+
+        Rockstars! The waiting and seating staff is amazing too everyone is so
+        kind and they care. You can tell by the quality of the fish from each
+        bite.
+
+
+        Our go too and recommendations our:
+
+        I love the OMG roll as a cut roll
+
+        And if you love crispy rice I recommend that, I get the spicy tuna on
+        top.
+
+        Shishito, and Karage they have killer fried chicken!
+
+        Spicy tuna in general the best, as a hand roll lover or as cut pieces
+        you aren't missing out, both amazing!
+      languageCode: en
+    authorAttribution:
+      displayName: Michael Keonavong
+      uri: https://www.google.com/maps/contrib/104507887359834608499/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXz5Hoaw0aRYqFPMCLvznNP1ILG7oFMprbv63Pzx5MDNNYe5Tgr=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2022-09-11T17:18:34.623788Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNlbXM3X19BRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNlbXM3X19BRRAB!2m1!1s0x80c2b8d552ef7333:0x711c7708c3605dd4
+  - name: >-
+      places/ChIJM3PvUtW4woAR1F1gwwh3HHE/reviews/ChdDSUhNMG9nS0VJQ0FnSURfdDRhaGpnRRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        It's kind of funny but I am their best customer and my name just happens
+        to be Murakami. I've been all around the world and this place has some
+        of the most consistently fresh fish I've ever had. I go here at least
+        once a week, it is SO reliable and a great experience every time.
+      languageCode: en
+    originalText:
+      text: >-
+        It's kind of funny but I am their best customer and my name just happens
+        to be Murakami. I've been all around the world and this place has some
+        of the most consistently fresh fish I've ever had. I go here at least
+        once a week, it is SO reliable and a great experience every time.
+      languageCode: en
+    authorAttribution:
+      displayName: Sean Moo Murakami
+      uri: https://www.google.com/maps/contrib/101965513308428610928/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjX0Bj1ohXOH3oJ43KqeE2dB5PA8YcWLnWJSz8QER_cDxPl_EOSC=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-01-28T01:26:34.933478Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURfdDRhaGpnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURfdDRhaGpnRRAB!2m1!1s0x80c2b8d552ef7333:0x711c7708c3605dd4
+review_summary: >-
+  What Customers Love About This Sushi Spot$$$Visitors consistently praise the
+  incredibly fresh fish and authentic Japanese flavors that make meals here feel
+  truly special, often comparing it favorably to other sushi places nearby. Many
+  highlight the friendly, attentive service that turns every visit into a
+  welcoming experience, with staff going the extra mile to ensure satisfaction.
+  Folks appreciate the variety of creative rolls and dishes that balance
+  tradition with tasty innovations, making it a reliable pick for both solo
+  diners and groups. Overall, the consistent quality and cozy vibe have turned
+  this spot into a favorite for those craving the best sushi near me, with
+  positive feedback on its reliability and delightful presentation. While it's
+  clear this place excels in delivering memorable meals, it's always a good idea
+  to check availability for a seamless visit.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
-payment_options: null
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
+delivery: true
+dine_in: true
 good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
 serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_cocktails: false
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Intimate neighborhood joint offering specialty sushi bowls, creative rolls &
+  other Japanese bites.
 
 ---

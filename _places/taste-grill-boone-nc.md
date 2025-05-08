@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Taste Grill"
+title: Taste Grill
 permalink: /north-carolina/boone/taste-grill.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Boone
 seo:
-  name: "Taste Grill"
-  type: Restaurant
+  type: restaurant
   links: https://www.tastegrillboonenc.com/
-description: "Taste Grill serves delicious sushi in Boone, North Carolina. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJbdrFYUT6UIgRMKXKKtSyLCk
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $10 &ndash; $20
 rating: '3.8'
 rating_count: 0
 website: https://www.tastegrillboonenc.com/
+description: >-
+  Discover Taste Grill in Boone, North Carolina$$$Taste Grill in Boone, North
+  Carolina, stands out as a casual Asian eatery that blends flavorful Chinese
+  dishes with fresh sushi options, making it a go-to spot for those exploring
+  diverse Asian cuisine in the area. The restaurant offers a welcoming
+  atmosphere with accessible features like wheelchair-friendly entrances and
+  seating, ensuring a comfortable visit for all guests. Visitors can enjoy a
+  variety of specialties, from satisfying hibachi-style meals to creative rolls
+  that highlight fresh ingredients, all at an affordable price point. With
+  options for dine-in, takeout, and delivery, it's ideal for families or groups
+  seeking a relaxed meal. Whether you're in the mood for Japanese-inspired
+  flavors or hearty Chinese fare, this spot delivers a solid value without
+  overwhelming the senses.
+generative_summary: >-
+  Discover Taste Grill in Boone, North Carolina$$$Taste Grill in Boone, North
+  Carolina, stands out as a casual Asian eatery that blends flavorful Chinese
+  dishes with fresh sushi options, making it a go-to spot for those exploring
+  diverse Asian cuisine in the area. The restaurant offers a welcoming
+  atmosphere with accessible features like wheelchair-friendly entrances and
+  seating, ensuring a comfortable visit for all guests. Visitors can enjoy a
+  variety of specialties, from satisfying hibachi-style meals to creative rolls
+  that highlight fresh ingredients, all at an affordable price point. With
+  options for dine-in, takeout, and delivery, it's ideal for families or groups
+  seeking a relaxed meal. Whether you're in the mood for Japanese-inspired
+  flavors or hearty Chinese fare, this spot delivers a solid value without
+  overwhelming the senses.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJbdrFYUT6UIgRMKXKKtSyLCk/reviews/ChZDSUhNMG9nS0VJQ0FnSUNfaXBHNFl3EAE
@@ -366,6 +391,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURnc2YyX2J3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURnc2YyX2J3EAE!2m1!1s0x8850fa4461c5da6d:0x292cb2d42acaa530
+review_summary: >-
+  What Visitors Are Saying About Taste Grill$$$Diners often praise the generous
+  portions and tasty Asian dishes like hibachi chicken and sushi rolls, noting
+  that the food feels like a great deal and keeps them coming back for more.
+  While some folks have mentioned occasional hiccups with takeout orders or wait
+  times, the overall experience shines through with friendly service and
+  knowledgeable staff helping out on menu questions. Many appreciate the variety
+  on the menu, which covers both Chinese and Japanese options, making it a solid
+  choice for a casual meal. Despite a few complaints about customer service in
+  specific cases, the majority of feedback highlights the fantastic flavors and
+  value that make this place worth trying. If you're hunting for reliable sushi
+  spots nearby, it's clear that positives like the huge servings and welcoming
+  vibe tend to outweigh the minor issues for most people.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -398,7 +437,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

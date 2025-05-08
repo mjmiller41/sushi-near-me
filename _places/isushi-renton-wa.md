@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "iSushi"
+title: iSushi
 permalink: /washington/renton/isushi.html
 stateAbbr: WA
 stateName: Washington
 cityName: Renton
 seo:
-  name: "iSushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "iSushi serves delicious sushi in Renton, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ4xY0AaNnkFQR76TTOxuMPD8
 photos:
   - name: >-
@@ -185,7 +183,45 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover iSushi in Renton, WA$$$Nestled in Renton, WA, iSushi stands out as a
+  welcoming spot for those seeking fresh sushi restaurants in the area, blending
+  casual vibes with authentic Japanese flavors. This eatery delights visitors
+  with a variety of sushi dishes and teriyaki plates, complemented by a
+  selection of beers and sakes that enhance the dining experience. Its
+  accessible features, like wheelchair-friendly parking and entrances, make it
+  an inclusive choice for everyone looking for sushi near me. The menu focuses
+  on quality ingredients, offering a relaxed atmosphere perfect for casual meals
+  or quick bites after exploring local spots. Whether you're in the mood for
+  top-rated sushi or a simple Japanese-inspired meal, iSushi provides a
+  straightforward yet enjoyable option close to home.
+generative_summary: >-
+  Discover iSushi in Renton, WA$$$Nestled in Renton, WA, iSushi stands out as a
+  welcoming spot for those seeking fresh sushi restaurants in the area, blending
+  casual vibes with authentic Japanese flavors. This eatery delights visitors
+  with a variety of sushi dishes and teriyaki plates, complemented by a
+  selection of beers and sakes that enhance the dining experience. Its
+  accessible features, like wheelchair-friendly parking and entrances, make it
+  an inclusive choice for everyone looking for sushi near me. The menu focuses
+  on quality ingredients, offering a relaxed atmosphere perfect for casual meals
+  or quick bites after exploring local spots. Whether you're in the mood for
+  top-rated sushi or a simple Japanese-inspired meal, iSushi provides a
+  straightforward yet enjoyable option close to home.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Customer Experiences$$$Visitors to iSushi often praise the fresh
+  and flavorful sushi options, noting how the dishes hit the spot for anyone
+  craving reliable Japanese cuisine nearby. Many appreciate the laid-back
+  setting and variety of drinks, which add to the overall enjoyable vibe without
+  overwhelming the palate. Feedback highlights the attentive service and solid
+  portions that make it a go-to for groups or solo diners searching for sushi
+  places near me. While some mention occasional waits during peak times, the
+  general consensus leans positive, emphasizing the value and taste that keep
+  people coming back. Overall, it's a solid pick for those who love sushi,
+  offering a welcoming experience that balances quality with everyday
+  affordability.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +247,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

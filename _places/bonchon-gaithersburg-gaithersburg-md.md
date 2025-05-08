@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Bonchon Gaithersburg"
+title: Bonchon Gaithersburg
 permalink: /maryland/gaithersburg/bonchon-gaithersburg.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Gaithersburg
 seo:
-  name: "Bonchon Gaithersburg"
-  type: Restaurant
-  links: null
-description: "Bonchon Gaithersburg serves delicious sushi in Gaithersburg, Maryland. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://locations.bonchon.com/ll/US/MD/Gaithersburg/130-Market-St
 place_id: ChIJcRm3inkttokRZEKjctKCCVM
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89b62d798ab71971:0x530982d272a34264!10e5
 primary_type: Asian Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 10:00 PM'
+    - 'Tuesday: 11:00 AM – 10:00 PM'
+    - 'Wednesday: 11:00 AM – 10:00 PM'
+    - 'Thursday: 11:00 AM – 10:00 PM'
+    - 'Friday: 11:00 AM – 11:00 PM'
+    - 'Saturday: 11:00 AM – 11:00 PM'
+    - 'Sunday: 11:00 AM – 10:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,51 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (240) 477-5686
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.1'
+rating_count: 137
+website: https://locations.bonchon.com/ll/US/MD/Gaithersburg/130-Market-St
+description: >-
+  Discover Bonchon in Gaithersburg, MD$$$Bonchon Gaithersburg in Gaithersburg,
+  MD, stands out as a welcoming chain specializing in flavorful Korean fried
+  chicken and a mix of Asian fusion options that pair perfectly with beverages
+  like beer and cocktails. The spot features a comfortable dining atmosphere
+  with accessibility in mind, including wheelchair-friendly parking, entrances,
+  restrooms, and seating, making it easy for everyone to enjoy a meal. Its menu
+  highlights crispy, well-seasoned dishes that blend traditional elements with
+  creative twists, appealing to those seeking satisfying Asian-inspired flavors.
+  Operating daily from late morning into the evening, it's an ideal choice for
+  casual lunches or dinners, with a focus on fresh ingredients and a vibrant
+  energy that keeps locals coming back.
+generative_summary: >-
+  Discover Bonchon in Gaithersburg, MD$$$Bonchon Gaithersburg in Gaithersburg,
+  MD, stands out as a welcoming chain specializing in flavorful Korean fried
+  chicken and a mix of Asian fusion options that pair perfectly with beverages
+  like beer and cocktails. The spot features a comfortable dining atmosphere
+  with accessibility in mind, including wheelchair-friendly parking, entrances,
+  restrooms, and seating, making it easy for everyone to enjoy a meal. Its menu
+  highlights crispy, well-seasoned dishes that blend traditional elements with
+  creative twists, appealing to those seeking satisfying Asian-inspired flavors.
+  Operating daily from late morning into the evening, it's an ideal choice for
+  casual lunches or dinners, with a focus on fresh ingredients and a vibrant
+  energy that keeps locals coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Guests Are Saying$$$Visitors often praise the standout spicy chicken
+  wings and legs at this Gaithersburg spot for their satisfying crunch and bold
+  flavors, making it a solid pick for anyone craving hearty Asian fusion eats.
+  Many highlight the tasty seasoned fries and fried rice as go-to sides that
+  complement the main dishes nicely, adding to the overall enjoyable experience.
+  The staff gets consistent nods for their friendly and attentive service, which
+  helps create a relaxed and welcoming vibe for groups or solo diners. While
+  most feedback is positive, some mention occasional inconsistencies like
+  overcooked items, but these don't overshadow the general appeal. All in all,
+  it's a reliable option for flavorful meals that leave a positive impression,
+  especially if you're exploring local Asian dining favorites.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +312,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

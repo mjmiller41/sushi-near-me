@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Mesaku Sushi (Carry Out Only)"
+title: Mesaku Sushi (Carry Out Only)
 permalink: /illinois/lincolnwood/mesaku-sushi-carry-out-only.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Lincolnwood
 seo:
-  name: "Mesaku Sushi (Carry Out Only)"
-  type: Restaurant
+  type: restaurant
   links: http://www.mesaku.com/
-description: "Mesaku Sushi (Carry Out Only) serves delicious sushi in Lincolnwood, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJ1ZYqqfzOD4gRLDfLleXleLc
 photos:
   - name: >-
@@ -183,6 +181,31 @@ price_range: $10 &ndash; $20
 rating: '4.8'
 rating_count: 0
 website: http://www.mesaku.com/
+description: >-
+  Discover Mesaku Sushi in Lincolnwood, IL$$$Mesaku Sushi in Lincolnwood, IL,
+  stands out as a convenient hub for fresh Japanese cuisine tailored for takeout
+  enthusiasts. This spot specializes in creative rolls and flavorful dishes that
+  blend traditional flavors with innovative twists, making it a solid choice for
+  anyone seeking quality sushi options. With its focus on affordability and
+  accessibility, including easy parking and wheelchair-friendly features, it
+  caters to a wide range of diners looking for a hassle-free meal. The menu
+  highlights the essence of Japanese dining, emphasizing fresh ingredients that
+  deliver satisfying tastes without the need for a full dine-in experience. For
+  those exploring sushi restaurants nearby, this location offers a reliable
+  go-to for authentic flavors right in your neighborhood.
+generative_summary: >-
+  Discover Mesaku Sushi in Lincolnwood, IL$$$Mesaku Sushi in Lincolnwood, IL,
+  stands out as a convenient hub for fresh Japanese cuisine tailored for takeout
+  enthusiasts. This spot specializes in creative rolls and flavorful dishes that
+  blend traditional flavors with innovative twists, making it a solid choice for
+  anyone seeking quality sushi options. With its focus on affordability and
+  accessibility, including easy parking and wheelchair-friendly features, it
+  caters to a wide range of diners looking for a hassle-free meal. The menu
+  highlights the essence of Japanese dining, emphasizing fresh ingredients that
+  deliver satisfying tastes without the need for a full dine-in experience. For
+  those exploring sushi restaurants nearby, this location offers a reliable
+  go-to for authentic flavors right in your neighborhood.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ1ZYqqfzOD4gRLDfLleXleLc/reviews/ChZDSUhNMG9nS0VJQ0FnTUNBeWMzU0ZnEAE
@@ -354,6 +377,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURzbVptUDFRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURzbVptUDFRRRAB!2m1!1s0x880fcefca92a96d5:0xb778e5e595cb372c
+review_summary: >-
+  What People Love About This Sushi Spot$$$Folks often rave about the fresh and
+  tasty sushi here, with many highlighting creative rolls and generous portions
+  as standout features that make every bite worthwhile. Customers appreciate the
+  great value for money, noting that it's an affordable option compared to other
+  spots without skimping on flavor or quality. The service stands out for being
+  quick and efficient, perfect for grab-and-go meals that keep things simple and
+  satisfying. Overall, it's frequently praised as a go-to choice for delicious
+  Japanese dishes that hit the spot every time. If you're on the hunt for
+  top-rated sushi nearby, this place delivers a consistently positive experience
+  that keeps people coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -386,7 +421,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

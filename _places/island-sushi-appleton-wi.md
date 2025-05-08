@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Island Sushi"
+title: Island Sushi
 permalink: /wisconsin/appleton/island-sushi.html
 stateAbbr: WI
 stateName: Wisconsin
 cityName: Appleton
 seo:
-  name: "Island Sushi"
-  type: Restaurant
-  links: null
-description: "Island Sushi serves delicious sushi in Appleton, Wisconsin. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://islandsushiwi.com/
 place_id: ChIJcSD0cXKwA4gRXs5E9t6NOyk
 photos:
   - name: >-
@@ -143,7 +141,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDR4PLVqQE!2e10!4m2!3m1!1s0x8803b07271f42071:0x293b8ddef644ce5e
 address: N 162, Eisenhower Dr, Appleton, WI 54915, USA
-street: N 162, Eisenhower Dr
+street: N 162,Eisenhower Dr
 city: Appleton
 state: WI
 zip: '54915'
@@ -170,8 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8803b07271f42071:0x293b8ddef644ce5e!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: Closed'
+    - 'Tuesday: 11:00 AM – 8:30 PM'
+    - 'Wednesday: 11:00 AM – 8:30 PM'
+    - 'Thursday: 11:00 AM – 8:30 PM'
+    - 'Friday: 11:00 AM – 9:00 PM'
+    - 'Saturday: 11:00 AM – 9:00 PM'
+    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +226,50 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (920) 993-2222
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.5'
+rating_count: 1166
+website: http://islandsushiwi.com/
+description: >-
+  About Island Sushi in Appleton, WI$$$Island Sushi in Appleton, WI, stands out
+  as a beloved Japanese restaurant offering a unique and engaging dining
+  experience. This spot is renowned for its all-you-can-eat sushi selections
+  that arrive on floating boats, creating a fun and interactive atmosphere for
+  sushi enthusiasts. With a focus on fresh ingredients and a variety of rolls
+  that cater to different tastes, it's an ideal choice for anyone seeking
+  top-rated sushi options in the area. The restaurant also prioritizes
+  accessibility, making it welcoming for all visitors, and its moderate pricing
+  adds to the appeal for casual meals or gatherings. Whether you're exploring
+  sushi places near you or looking for a memorable meal, this location combines
+  quality flavors with thoughtful service to enhance your visit.
+generative_summary: >-
+  About Island Sushi in Appleton, WI$$$Island Sushi in Appleton, WI, stands out
+  as a beloved Japanese restaurant offering a unique and engaging dining
+  experience. This spot is renowned for its all-you-can-eat sushi selections
+  that arrive on floating boats, creating a fun and interactive atmosphere for
+  sushi enthusiasts. With a focus on fresh ingredients and a variety of rolls
+  that cater to different tastes, it's an ideal choice for anyone seeking
+  top-rated sushi options in the area. The restaurant also prioritizes
+  accessibility, making it welcoming for all visitors, and its moderate pricing
+  adds to the appeal for casual meals or gatherings. Whether you're exploring
+  sushi places near you or looking for a memorable meal, this location combines
+  quality flavors with thoughtful service to enhance your visit.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Sharing$$$Visitors often highlight the fresh fish and
+  well-crafted sushi rolls at this spot, making it a go-to for those craving
+  reliable flavors without the fuss. Many appreciate the all-you-can-eat
+  feature, which keeps things exciting and value-packed for groups or solo
+  diners. The service stands out as friendly and efficient, adding a welcoming
+  vibe that makes every meal feel effortless. Overall, the atmosphere comes
+  across as pleasant and relaxed, perfect for enjoying Japanese-inspired dishes
+  in a casual setting. If you're on the hunt for the best sushi near you,
+  feedback suggests this place delivers a solid experience that's worth trying
+  out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +295,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -5,4 +5,5 @@ permalink: /wyoming/jackson/
 stateAbbr: WY
 stateName: Wyoming
 cityName: Jackson
+
 ---

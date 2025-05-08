@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Mi Gusto Es Restaurant"
+title: Mi Gusto Es Restaurant
 permalink: /california/santa-maria/mi-gusto-es-restaurant.html
 stateAbbr: CA
 stateName: California
 cityName: Santa Maria
 seo:
-  name: "Mi Gusto Es Restaurant"
-  type: Restaurant
+  type: restaurant
   links: http://www.migustoesrestaurant.com/
-description: "Mi Gusto Es Restaurant serves delicious sushi in Santa Maria, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJH9zH54Nr7IAR1O1nNQOMtfg
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80ec6b83e7c7dc1f:0xf8b58c033567edd4!10e5
 primary_type: Mexican Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 8
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 8
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 8
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 8
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 8
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 8
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 8
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 8:00 AM – 9:00 PM'
     - 'Tuesday: 8:00 AM – 9:00 PM'
     - 'Wednesday: 8:00 AM – 9:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 8:00 AM – 9:00 PM'
     - 'Saturday: 8:00 AM – 9:00 PM'
     - 'Sunday: 8:00 AM – 9:00 PM'
-  current:
-    - 'Monday: 8:00 AM – 9:00 PM'
-    - 'Tuesday: 8:00 AM – 9:00 PM'
-    - 'Wednesday: 8:00 AM – 9:00 PM'
-    - 'Thursday: 8:00 AM – 9:00 PM'
-    - 'Friday: 8:00 AM – 9:00 PM'
-    - 'Saturday: 8:00 AM – 9:00 PM'
-    - 'Sunday: 8:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,227 @@ phone: (805) 928-8503
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.0'
-rating_count: 0
+rating_count: 470
 website: http://www.migustoesrestaurant.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Mi Gusto Es Restaurant in Santa Maria, CA$$$Mi Gusto Es Restaurant in
+  Santa Maria, CA, provides a casual and inviting spot for enjoying authentic
+  Mexican flavors in a family-oriented environment. This eatery specializes in
+  hearty, traditional dishes like flavorful stews and refreshing beverages,
+  making it a go-to for those seeking comforting meals with a homestyle touch.
+  Accessibility features such as wheelchair-friendly parking and seating ensure
+  a welcoming experience for all guests, while extended daily hours from early
+  morning to evening offer flexibility for any mealtime. The restaurant's
+  commitment to generous portions and inclusive dining options adds to its
+  appeal as a reliable local favorite.
+generative_summary: >-
+  Discover Mi Gusto Es Restaurant in Santa Maria, CA$$$Mi Gusto Es Restaurant in
+  Santa Maria, CA, provides a casual and inviting spot for enjoying authentic
+  Mexican flavors in a family-oriented environment. This eatery specializes in
+  hearty, traditional dishes like flavorful stews and refreshing beverages,
+  making it a go-to for those seeking comforting meals with a homestyle touch.
+  Accessibility features such as wheelchair-friendly parking and seating ensure
+  a welcoming experience for all guests, while extended daily hours from early
+  morning to evening offer flexibility for any mealtime. The restaurant's
+  commitment to generous portions and inclusive dining options adds to its
+  appeal as a reliable local favorite.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJH9zH54Nr7IAR1O1nNQOMtfg/reviews/ChZDSUhNMG9nS0VJQ0FnTURBMDZ1cVNREAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 4
+    text:
+      text: >-
+        Very good. The fresh tortillas, the huge portions. I wanted to get the
+        mochajete but way to much food for 1 person. I see the food trucks all
+        over town. I went to restaurant on main street. A must see.
+      languageCode: en
+    originalText:
+      text: >-
+        Very good. The fresh tortillas, the huge portions. I wanted to get the
+        mochajete but way to much food for 1 person. I see the food trucks all
+        over town. I went to restaurant on main street. A must see.
+      languageCode: en
+    authorAttribution:
+      displayName: Brian Coker
+      uri: https://www.google.com/maps/contrib/114101253688162565401/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUCaXI9To3fihB_gwpXpC_m_L7cmnQ2hUZvHh0K147lUgmqous=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-02-11T17:11:08.359147Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURBMDZ1cVNREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURBMDZ1cVNREAE!2m1!1s0x80ec6b83e7c7dc1f:0xf8b58c033567edd4
+  - name: >-
+      places/ChIJH9zH54Nr7IAR1O1nNQOMtfg/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3OEtUNkRBEAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: Relaxed spot stopped by after a delivery 😌
+      languageCode: en
+    originalText:
+      text: Relaxed spot stopped by after a delivery 😌
+      languageCode: en
+    authorAttribution:
+      displayName: Emmanuel Carrizo Garay
+      uri: https://www.google.com/maps/contrib/117892019491521693749/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXIgYudNvzKHFxgMhD_aslDqv38WsKCxeQ56_NmUIWLc77xLhwk=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-03-22T23:12:59.692285Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUR3OEtUNkRBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUR3OEtUNkRBEAE!2m1!1s0x80ec6b83e7c7dc1f:0xf8b58c033567edd4
+  - name: >-
+      places/ChIJH9zH54Nr7IAR1O1nNQOMtfg/reviews/ChdDSUhNMG9nS0VJQ0FnSUN4eGFEMGlnRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        The Molcajete is pure fire loved it as authentic as it gets Mexican
+        food. Just as good or even better than the fancy spots with an ocean
+        view.
+
+        Yes. They have all the fixings forgot to take a pic of the delicious
+        rice, refried beans w/ queso and the handmade flour tortillas!
+
+        I’m definitely coming back for more!!
+      languageCode: en
+    originalText:
+      text: >-
+        The Molcajete is pure fire loved it as authentic as it gets Mexican
+        food. Just as good or even better than the fancy spots with an ocean
+        view.
+
+        Yes. They have all the fixings forgot to take a pic of the delicious
+        rice, refried beans w/ queso and the handmade flour tortillas!
+
+        I’m definitely coming back for more!!
+      languageCode: en
+    authorAttribution:
+      displayName: Bryan M203
+      uri: https://www.google.com/maps/contrib/108060775779587489391/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXwZeuKHmkEqRd7AhDbNP42rmsH2qbx6Orsc_umZzHyp4I0_JyJ=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2023-05-21T21:56:28.819536Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN4eGFEMGlnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN4eGFEMGlnRRAB!2m1!1s0x80ec6b83e7c7dc1f:0xf8b58c033567edd4
+  - name: >-
+      places/ChIJH9zH54Nr7IAR1O1nNQOMtfg/reviews/ChZDSUhNMG9nS0VJQ0FnTUNBc3NMdVRREAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 4
+    text:
+      text: >-
+        I was working off Telephone Road and came across one of their food
+        trucks their food was amazing I ended up going to the restaurant there
+        again the food was amazing
+      languageCode: en
+    originalText:
+      text: >-
+        I was working off Telephone Road and came across one of their food
+        trucks their food was amazing I ended up going to the restaurant there
+        again the food was amazing
+      languageCode: en
+    authorAttribution:
+      displayName: John Klug
+      uri: https://www.google.com/maps/contrib/110032004830094975062/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVxMEQ5odNqCHxf6lB9kIP-om5kfVlBpO8dJZCgsFII1eLYctTa=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-01-30T15:59:16.109491Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNBc3NMdVRREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNBc3NMdVRREAE!2m1!1s0x80ec6b83e7c7dc1f:0xf8b58c033567edd4
+  - name: >-
+      places/ChIJH9zH54Nr7IAR1O1nNQOMtfg/reviews/ChdDSUhNMG9nS0VJQ0FnSURudmZMUzZBRRAB
+    relativePublishTimeDescription: 6 months ago
+    rating: 4
+    text:
+      text: >-
+        This was my first time going to the restaurant. The food was good . The
+        service was aweful . My friend and I were standing for about 5 mins
+        waiting for a waitress to seat us . They didn’t even acknowledge us . My
+        friend asked if we can sit at a spot . They finally sat us down. When it
+        was time to pay we were waiting for a long time for the check . We
+        requested check with waitress literally took her 15 mins to give us the
+        check . We had to ask again .Until finally she did . I was upset because
+        waitress wasn’t doing anything she was just talking with co workers .
+        All waitresses need training on how to be a better at hostess. They are
+        not attentive . It was busy but there was 3 waitresses which that’s more
+        than enough .
+      languageCode: en
+    originalText:
+      text: >-
+        This was my first time going to the restaurant. The food was good . The
+        service was aweful . My friend and I were standing for about 5 mins
+        waiting for a waitress to seat us . They didn’t even acknowledge us . My
+        friend asked if we can sit at a spot . They finally sat us down. When it
+        was time to pay we were waiting for a long time for the check . We
+        requested check with waitress literally took her 15 mins to give us the
+        check . We had to ask again .Until finally she did . I was upset because
+        waitress wasn’t doing anything she was just talking with co workers .
+        All waitresses need training on how to be a better at hostess. They are
+        not attentive . It was busy but there was 3 waitresses which that’s more
+        than enough .
+      languageCode: en
+    authorAttribution:
+      displayName: Estephanie Flores
+      uri: https://www.google.com/maps/contrib/101032032190012388681/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocK-D7VqVrUnkzZI6-j_2UC6tSFaheXOWjnqcx1E0uICapIoPA=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-10-09T02:48:49.804823Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURudmZMUzZBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURudmZMUzZBRRAB!2m1!1s0x80ec6b83e7c7dc1f:0xf8b58c033567edd4
+review_summary: >-
+  What Visitors Are Saying$$$Visitors often praise the restaurant for its
+  delicious Mexican dishes and generous servings, highlighting the fresh
+  ingredients and authentic tastes that make meals feel satisfying and true to
+  tradition. While some mention occasional waits during peak times, the overall
+  vibe remains relaxed and enjoyable, with many appreciating the opportunity to
+  try hearty options like stews and sides. Folks frequently note that the food
+  trucks associated with the spot add to its convenience and charm for quick,
+  flavorful eats. Despite a few service hiccups in busier moments, the consensus
+  leans positive, making it a solid choice for anyone craving a comforting
+  dining experience. If you're in the mood for reliable, hearty fare, this place
+  tends to deliver with its welcoming atmosphere and tasty selections.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: true
 live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+menu_for_children: true
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: true
+serves_brunch: true
+serves_cocktails: true
+serves_coffee: true
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: false
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

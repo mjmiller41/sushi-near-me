@@ -5,4 +5,5 @@ permalink: /massachusetts/allston/
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Allston
+
 ---

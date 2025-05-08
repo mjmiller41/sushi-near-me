@@ -5,4 +5,5 @@ permalink: /texas/lewisville/
 stateAbbr: TX
 stateName: Texas
 cityName: Lewisville
+
 ---

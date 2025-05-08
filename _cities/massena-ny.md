@@ -5,4 +5,5 @@ permalink: /new-york/massena/
 stateAbbr: NY
 stateName: New York
 cityName: Massena
+
 ---

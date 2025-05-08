@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Cuddlefish"
+title: Cuddlefish
 permalink: /georgia/dunwoody/cuddlefish.html
 stateAbbr: GA
 stateName: Georgia
 cityName: Dunwoody
 seo:
-  name: "Cuddlefish"
-  type: Restaurant
+  type: restaurant
   links: https://www.cuddlefishatl.com/
-description: "Cuddlefish serves delicious sushi in Dunwoody, Georgia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery."
 place_id: ChIJtdKgDAcJ9YgRRp3VA6b9tGU
 photos:
   - name: >-
@@ -154,6 +152,7 @@ longitude: '-84.346420'
 accessibility_options:
   wheelchairAccessibleParking: true
   wheelchairAccessibleEntrance: true
+  wheelchairAccessibleSeating: true
 business_status: OPERATIONAL
 name: Cuddlefish
 google_maps_links:
@@ -183,6 +182,33 @@ price_range: null
 rating: '4.3'
 rating_count: 0
 website: https://www.cuddlefishatl.com/
+description: >-
+  Explore Cuddlefish in Dunwoody$$$Cuddlefish in Dunwoody, GA, stands out as a
+  modern sushi restaurant blending fresh flavors and elegant vibes for those
+  seeking top-rated sushi options nearby. This spot features a spacious
+  atmosphere with a dedicated temaki bar and cafe, perfect for enjoying hand
+  rolls, appetizers, and a selection of beverages like sake and coffee in a
+  welcoming setting. Accessibility is a key highlight, with wheelchair-friendly
+  parking, entrances, and seating, making it easy for everyone to savor
+  inventive dishes that cater to sushi enthusiasts. The menu showcases a variety
+  of Japanese-inspired eats, ideal for casual meetups or groups looking for
+  sushi places near me that prioritize quality and comfort. With ample outdoor
+  seating and convenient parking, it's a go-to choice for anyone exploring the
+  best sushi restaurants in the area.
+generative_summary: >-
+  Explore Cuddlefish in Dunwoody$$$Cuddlefish in Dunwoody, GA, stands out as a
+  modern sushi restaurant blending fresh flavors and elegant vibes for those
+  seeking top-rated sushi options nearby. This spot features a spacious
+  atmosphere with a dedicated temaki bar and cafe, perfect for enjoying hand
+  rolls, appetizers, and a selection of beverages like sake and coffee in a
+  welcoming setting. Accessibility is a key highlight, with wheelchair-friendly
+  parking, entrances, and seating, making it easy for everyone to savor
+  inventive dishes that cater to sushi enthusiasts. The menu showcases a variety
+  of Japanese-inspired eats, ideal for casual meetups or groups looking for
+  sushi places near me that prioritize quality and comfort. With ample outdoor
+  seating and convenient parking, it's a go-to choice for anyone exploring the
+  best sushi restaurants in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJtdKgDAcJ9YgRRp3VA6b9tGU/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3aE9xNWVREAE
@@ -562,6 +588,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNJOGNiZldREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNJOGNiZldREAE!2m1!1s0x88f509070ca0d2b5:0x65b4fda603d59d46
+review_summary: >-
+  Visitor Feedback Highlights$$$Visitors to this sushi spot often rave about the
+  creative hand rolls and tasty appetizers, noting that the flavors are fresh
+  and exciting for a fun dining experience. While some mention occasional waits
+  during busy times, the overall service is described as friendly and attentive,
+  with staff going the extra mile to recommend options. A few folks point out
+  that prices can feel a bit high for portion sizes, but many agree the unique
+  atmosphere and quality make it worth trying for sushi lovers in the
+  neighborhood. Despite minor hiccups like service speed, the general consensus
+  leans positive, with people appreciating the welcoming vibe and variety that
+  keeps things enjoyable. If you're hunting for sushi close to me, this place
+  delivers a solid mix of hits that encourage repeat visits with a few tweaks
+  for even better satisfaction.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -592,7 +632,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

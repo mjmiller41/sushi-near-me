@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kintaro All You Can Eat Sushi & Hot Pot"
+title: Kintaro All You Can Eat Sushi & Hot Pot
 permalink: /ohio/brooklyn/kintaro-all-you-can-eat-sushi-hot-pot.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Brooklyn
 seo:
-  name: "Kintaro All You Can Eat Sushi & Hot Pot"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Kintaro All You Can Eat Sushi & Hot Pot serves delicious sushi in Brooklyn, Ohio. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJux0-ZlXuMIgRrQyvS4DW3Zw
 photos:
   - name: >-
@@ -185,7 +183,41 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Kintaro All You Can Eat Sushi in Brooklyn, OH$$$Kintaro All You Can
+  Eat Sushi & Hot Pot in Brooklyn, OH, provides a laid-back vibe perfect for
+  savoring endless fresh rolls and flavorful hot pot options. This spot stands
+  out with its casual dining setup, where diners can explore a variety of
+  Japanese-inspired dishes that appeal to sushi enthusiasts seeking quality and
+  variety. Accessibility features like wheelchair-friendly parking and entrances
+  make it welcoming for everyone, enhancing the overall experience for groups or
+  families. Whether you're on the hunt for top-rated sushi spots nearby or
+  craving a satisfying meal, the focus on relaxed ambiance and generous portions
+  ensures a memorable visit that combines value with authentic flavors.
+generative_summary: >-
+  Discover Kintaro All You Can Eat Sushi in Brooklyn, OH$$$Kintaro All You Can
+  Eat Sushi & Hot Pot in Brooklyn, OH, provides a laid-back vibe perfect for
+  savoring endless fresh rolls and flavorful hot pot options. This spot stands
+  out with its casual dining setup, where diners can explore a variety of
+  Japanese-inspired dishes that appeal to sushi enthusiasts seeking quality and
+  variety. Accessibility features like wheelchair-friendly parking and entrances
+  make it welcoming for everyone, enhancing the overall experience for groups or
+  families. Whether you're on the hunt for top-rated sushi spots nearby or
+  craving a satisfying meal, the focus on relaxed ambiance and generous portions
+  ensures a memorable visit that combines value with authentic flavors.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying About This Sushi Spot$$$Folks often praise this place
+  for its tasty all-you-can-eat lineup, highlighting the fresh sushi and hot pot
+  as standout choices that deliver great bang for your buck. Many appreciate the
+  friendly service that keeps things running smoothly and adds a welcoming touch
+  to the meal. While some mention the guidelines around food waste help maintain
+  high standards and keep the experience efficient, it doesn't overshadow the
+  overall fun and satisfying vibe. All in all, it's a solid pick for anyone
+  looking to enjoy quality Japanese dining without breaking the bank, making it
+  a go-to option for casual sushi lovers in the neighborhood.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +243,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

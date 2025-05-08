@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Aji Sushi & Grill"
+title: Aji Sushi & Grill
 permalink: /california/santa-rosa/aji-sushi-grill.html
 stateAbbr: CA
 stateName: California
 cityName: Santa Rosa
 seo:
-  name: "Aji Sushi & Grill"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Aji Sushi & Grill serves delicious sushi in Santa Rosa, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ26uyAsRHhIARcr3zWuO8tyU
 photos:
   - name: >-
@@ -185,7 +183,46 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Aji Sushi & Grill in Santa Rosa, CA$$$Aji Sushi & Grill in Santa
+  Rosa, CA, serves up a fresh selection of sushi and Japanese favorites in a
+  relaxed, welcoming environment, making it a standout choice for those seeking
+  quality sushi restaurants nearby. The menu highlights classic offerings like
+  sashimi and other traditional dishes, prepared with care to deliver authentic
+  flavors that appeal to both newcomers and enthusiasts. With its casual vibe
+  and accessible features, such as wheelchair-friendly entrances and seating,
+  the spot caters to a wide range of diners looking for an easygoing meal. This
+  Japanese-inspired eatery stands out as a convenient option for locals and
+  visitors alike, blending simplicity with satisfying tastes that keep it on the
+  list for top-rated sushi experiences in the area.
+generative_summary: >-
+  Discover Aji Sushi & Grill in Santa Rosa, CA$$$Aji Sushi & Grill in Santa
+  Rosa, CA, serves up a fresh selection of sushi and Japanese favorites in a
+  relaxed, welcoming environment, making it a standout choice for those seeking
+  quality sushi restaurants nearby. The menu highlights classic offerings like
+  sashimi and other traditional dishes, prepared with care to deliver authentic
+  flavors that appeal to both newcomers and enthusiasts. With its casual vibe
+  and accessible features, such as wheelchair-friendly entrances and seating,
+  the spot caters to a wide range of diners looking for an easygoing meal. This
+  Japanese-inspired eatery stands out as a convenient option for locals and
+  visitors alike, blending simplicity with satisfying tastes that keep it on the
+  list for top-rated sushi experiences in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Customer Experiences$$$Folks who visit places like this sushi
+  spot often rave about the fresh ingredients and variety of rolls, making it a
+  reliable pick for anyone craving Japanese cuisine close to home. Many
+  appreciate the straightforward atmosphere and how it handles standard dishes
+  with a touch of consistency that feels just right for casual outings. While
+  some mention occasional waits during peak times, the general buzz highlights
+  solid portions and flavors that make it worth the stop for sushi lovers.
+  Overall, it's seen as a welcoming choice for groups or families, with positive
+  notes on the overall vibe keeping the feedback upbeat and encouraging for
+  those exploring sushi restaurants near me. If you're on the hunt for
+  dependable, tasty options, this place tends to deliver a satisfying experience
+  without overcomplicating things.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +248,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

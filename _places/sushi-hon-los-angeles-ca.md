@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi HON"
+title: Sushi HON
 permalink: /california/los-angeles/sushi-hon.html
 stateAbbr: CA
 stateName: California
 cityName: Los Angeles
 seo:
-  name: "Sushi HON"
-  type: Restaurant
+  type: restaurant
   links: https://s.allsetnow.com/MWaAoJq/
-description: "Sushi HON serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJwwPzgoy4woARMSzLTutAviw
 photos:
   - name: >-
@@ -170,7 +168,97 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c2b88c82f303c3:0x2cbe40eb4ecb2c31!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 16
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 2:30 PM, 5:00 – 10:00 PM'
     - 'Tuesday: 11:30 AM – 2:30 PM, 5:00 – 10:00 PM'
     - 'Wednesday: 11:30 AM – 2:30 PM, 5:00 – 10:00 PM'
@@ -178,54 +266,340 @@ opening_hours:
     - 'Friday: 5:00 – 11:00 PM'
     - 'Saturday: 5:00 – 11:00 PM'
     - 'Sunday: 4:00 – 9:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 2:30 PM, 5:00 – 10:00 PM'
-    - 'Tuesday: 11:30 AM – 2:30 PM, 5:00 – 10:00 PM'
-    - 'Wednesday: 11:30 AM – 2:30 PM, 5:00 – 10:00 PM'
-    - 'Thursday: 11:30 AM – 2:30 PM, 5:00 – 10:00 PM'
-    - 'Friday: 5:00 – 11:00 PM'
-    - 'Saturday: 5:00 – 11:00 PM'
-    - 'Sunday: 4:00 – 9:00 PM'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: false
+    periods:
+      - open:
+          day: 1
+          hour: 17
+          minute: 0
+        close:
+          day: 1
+          hour: 19
+          minute: 0
+      - open:
+          day: 2
+          hour: 17
+          minute: 0
+        close:
+          day: 2
+          hour: 19
+          minute: 0
+      - open:
+          day: 3
+          hour: 17
+          minute: 0
+        close:
+          day: 3
+          hour: 19
+          minute: 0
+      - open:
+          day: 4
+          hour: 17
+          minute: 0
+        close:
+          day: 4
+          hour: 19
+          minute: 0
+      - open:
+          day: 5
+          hour: 17
+          minute: 0
+        close:
+          day: 5
+          hour: 19
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 5:00 – 7:00 PM'
+      - 'Tuesday: 5:00 – 7:00 PM'
+      - 'Wednesday: 5:00 – 7:00 PM'
+      - 'Thursday: 5:00 – 7:00 PM'
+      - 'Friday: 5:00 – 7:00 PM'
+      - 'Saturday: Closed'
+      - 'Sunday: Closed'
+    secondaryHoursType: HAPPY_HOUR
+    nextOpenTime: '2025-05-06T00:00:00Z'
+  - openNow: false
+    periods:
+      - open:
+          day: 1
+          hour: 11
+          minute: 30
+        close:
+          day: 1
+          hour: 14
+          minute: 30
+      - open:
+          day: 2
+          hour: 11
+          minute: 30
+        close:
+          day: 2
+          hour: 14
+          minute: 30
+      - open:
+          day: 3
+          hour: 11
+          minute: 30
+        close:
+          day: 3
+          hour: 14
+          minute: 30
+      - open:
+          day: 4
+          hour: 11
+          minute: 30
+        close:
+          day: 4
+          hour: 14
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 11:30 AM – 2:30 PM'
+      - 'Tuesday: 11:30 AM – 2:30 PM'
+      - 'Wednesday: 11:30 AM – 2:30 PM'
+      - 'Thursday: 11:30 AM – 2:30 PM'
+      - 'Friday: Closed'
+      - 'Saturday: Closed'
+      - 'Sunday: Closed'
+    secondaryHoursType: LUNCH
+    nextOpenTime: '2025-05-05T18:30:00Z'
 phone: (323) 852-3030
 price_level: PRICE_LEVEL_MODERATE
 price_range: $30 &ndash; $50
 rating: '4.5'
-rating_count: 0
+rating_count: 165
 website: https://s.allsetnow.com/MWaAoJq/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Sushi HON in Los Angeles, CA$$$Sushi HON in Los Angeles, CA, stands
+  out as a welcoming hub for fresh Japanese cuisine, blending traditional and
+  inventive rolls in a laid-back atmosphere. This spot excels with its selection
+  of high-quality sashimi and complementary beverages like sake and beer, making
+  it ideal for casual dining or a quick meal. Accessibility features, such as
+  wheelchair-friendly entrances and convenient parking, add to the appeal for
+  all visitors seeking top-rated sushi options nearby. The restaurant's
+  operational hours cater to lunch and dinner crowds, offering a variety of
+  dishes that highlight authentic flavors and creative twists. Whether you're
+  exploring sushi restaurants in the area or looking for Japanese places close
+  to you, Sushi HON delivers a satisfying experience with its moderate pricing
+  and inclusive vibe.
+generative_summary: >-
+  Discover Sushi HON in Los Angeles, CA$$$Sushi HON in Los Angeles, CA, stands
+  out as a welcoming hub for fresh Japanese cuisine, blending traditional and
+  inventive rolls in a laid-back atmosphere. This spot excels with its selection
+  of high-quality sashimi and complementary beverages like sake and beer, making
+  it ideal for casual dining or a quick meal. Accessibility features, such as
+  wheelchair-friendly entrances and convenient parking, add to the appeal for
+  all visitors seeking top-rated sushi options nearby. The restaurant's
+  operational hours cater to lunch and dinner crowds, offering a variety of
+  dishes that highlight authentic flavors and creative twists. Whether you're
+  exploring sushi restaurants in the area or looking for Japanese places close
+  to you, Sushi HON delivers a satisfying experience with its moderate pricing
+  and inclusive vibe.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJwwPzgoy4woARMSzLTutAviw/reviews/ChZDSUhNMG9nS0VJQ0FnTURndmIyckJ3EAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        The sashimi was very fresh and everyone was friendly. They served
+        delicious side dishes and I was very satisfied. Recommended~!
+      languageCode: en
+    originalText:
+      text: >-
+        The sashimi was very fresh and everyone was friendly. They served
+        delicious side dishes and I was very satisfied. Recommended~!
+      languageCode: en
+    authorAttribution:
+      displayName: Happy Liz
+      uri: https://www.google.com/maps/contrib/118434677006649640694/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUNaht668Psq9Wn__lm4qJmmc6q5yHNlbQb1eIKeQYRL9HjQROM=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-02-26T21:33:52.521333Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURndmIyckJ3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURndmIyckJ3EAE!2m1!1s0x80c2b88c82f303c3:0x2cbe40eb4ecb2c31
+  - name: >-
+      places/ChIJwwPzgoy4woARMSzLTutAviw/reviews/ChZDSUhNMG9nS0VJQ0FnSURuNWNPc2FBEAE
+    relativePublishTimeDescription: 6 months ago
+    rating: 5
+    text:
+      text: >-
+        The only sushi spot I go for food and drink in Koreatown.  Great area
+        with ample street parking, plus valet, if need-be.  Or get a takeout
+        order!
+
+
+        When it comes to sushi, I am pretty much a broken record, ordering same
+        items every time for many years at a time.
+
+
+        If you’re not sure of what to order, always ask your server!  Also. Huge
+        selection of soju, sake, beers, with premium options.
+
+
+        Great food, friendly service, and it is on the quieter side of town,
+        which is a big reason I frequent.
+      languageCode: en
+    originalText:
+      text: >-
+        The only sushi spot I go for food and drink in Koreatown.  Great area
+        with ample street parking, plus valet, if need-be.  Or get a takeout
+        order!
+
+
+        When it comes to sushi, I am pretty much a broken record, ordering same
+        items every time for many years at a time.
+
+
+        If you’re not sure of what to order, always ask your server!  Also. Huge
+        selection of soju, sake, beers, with premium options.
+
+
+        Great food, friendly service, and it is on the quieter side of town,
+        which is a big reason I frequent.
+      languageCode: en
+    authorAttribution:
+      displayName: Eric
+      uri: https://www.google.com/maps/contrib/105841066013687572678/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVel8wfgxvW_Bd2X-mZcx-bNeqQl7GpTJF4GTv0biIu7XrC84Gz=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-10-08T03:10:35.511261Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURuNWNPc2FBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURuNWNPc2FBEAE!2m1!1s0x80c2b88c82f303c3:0x2cbe40eb4ecb2c31
+  - name: >-
+      places/ChIJwwPzgoy4woARMSzLTutAviw/reviews/ChZDSUhNMG9nS0VJQ0FnSUM1azY2aklREAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        Some of the best sushi we’ve ever had! We ordered takeout and everyone
+        in the group loved their picks. My absolute favorite was the Under the
+        Sea Roll, but everything was great and there are so many choices here
+        that you won’t find anywhere else. I could absolutely eat here again and
+        again. Check them out!
+      languageCode: en
+    originalText:
+      text: >-
+        Some of the best sushi we’ve ever had! We ordered takeout and everyone
+        in the group loved their picks. My absolute favorite was the Under the
+        Sea Roll, but everything was great and there are so many choices here
+        that you won’t find anywhere else. I could absolutely eat here again and
+        again. Check them out!
+      languageCode: en
+    authorAttribution:
+      displayName: Brittany Coleman
+      uri: https://www.google.com/maps/contrib/118014604312830046567/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWfSKpzy78Bt3H5nl6VDdvVSNThEp-USK8BrumyBEHyEbMQadrUTw=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2023-10-16T23:15:21.719063Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUM1azY2aklREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUM1azY2aklREAE!2m1!1s0x80c2b88c82f303c3:0x2cbe40eb4ecb2c31
+  - name: >-
+      places/ChIJwwPzgoy4woARMSzLTutAviw/reviews/ChZDSUhNMG9nS0VJQ0FnTURRbE5yT0VBEAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        This was our first time visiting Sushi Hon, and it didn't disappoint!
+        Food and service, wonderful; and the music and loud conversation really
+        set a pretty enjoyable atmosphere. I think I just found my new spot!
+        😋🍣🥢 #Sushi #Restaurant #Dinner #GoodFood #Vibes
+      languageCode: en
+    originalText:
+      text: >-
+        This was our first time visiting Sushi Hon, and it didn't disappoint!
+        Food and service, wonderful; and the music and loud conversation really
+        set a pretty enjoyable atmosphere. I think I just found my new spot!
+        😋🍣🥢 #Sushi #Restaurant #Dinner #GoodFood #Vibes
+      languageCode: en
+    authorAttribution:
+      displayName: Doug guevara
+      uri: https://www.google.com/maps/contrib/113141146673843773079/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIFoikv0FJViwKTPL-eFEiuJ9tbofqIYz-fKllfkzeDbNS7EA=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-09T04:08:03.610610Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURRbE5yT0VBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURRbE5yT0VBEAE!2m1!1s0x80c2b88c82f303c3:0x2cbe40eb4ecb2c31
+  - name: >-
+      places/ChIJwwPzgoy4woARMSzLTutAviw/reviews/ChZDSUhNMG9nS0VJQ0FnSUN2Ny1QOVVBEAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        I stopped by this sushi restaurant for a quick meal to pass some time .
+        The food was great and my server Susan was excellent. She was very nice,
+        patient and did a phenomenal job. I highly recommend coming here !!!
+      languageCode: en
+    originalText:
+      text: >-
+        I stopped by this sushi restaurant for a quick meal to pass some time .
+        The food was great and my server Susan was excellent. She was very nice,
+        patient and did a phenomenal job. I highly recommend coming here !!!
+      languageCode: en
+    authorAttribution:
+      displayName: pat d
+      uri: https://www.google.com/maps/contrib/102485570370048058160/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJnIDCo3zk-m1qjgkgjKdz21YACS95haR9hD5nwXYTIGT66=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-12-16T04:30:35.530456Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN2Ny1QOVVBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN2Ny1QOVVBEAE!2m1!1s0x80c2b88c82f303c3:0x2cbe40eb4ecb2c31
+review_summary: >-
+  What Visitors Are Saying About This Spot$$$People really enjoy the fresh
+  sashimi and flavorful appetizers at this sushi restaurant, often noting how
+  they make for a solid and enjoyable meal. The service comes across as friendly
+  and efficient, helping to create a lively atmosphere filled with good music
+  and easygoing conversations. Many highlight the great drink options, like soju
+  and sake, that pair well with the diverse rolls and keep things fun without
+  overwhelming the experience. It's frequently praised as a reliable choice for
+  groups or takeout, with diners appreciating the overall consistency in
+  quality. If you're on the hunt for the best sushi near you, this place tends
+  to leave folks feeling satisfied and eager to return for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeStreetParking: true
+  valetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
+delivery: true
+dine_in: true
+good_for_children: true
 good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
+good_for_sports: true
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: false
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
 serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

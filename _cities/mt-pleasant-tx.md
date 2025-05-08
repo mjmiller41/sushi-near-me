@@ -5,4 +5,5 @@ permalink: /texas/mt-pleasant/
 stateAbbr: TX
 stateName: Texas
 cityName: Mt Pleasant
+
 ---

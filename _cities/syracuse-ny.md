@@ -5,4 +5,5 @@ permalink: /new-york/syracuse/
 stateAbbr: NY
 stateName: New York
 cityName: Syracuse
+
 ---

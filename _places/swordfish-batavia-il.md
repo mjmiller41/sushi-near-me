@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Swordfish"
+title: Swordfish
 permalink: /illinois/batavia/swordfish.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Batavia
 seo:
-  name: "Swordfish"
-  type: Restaurant
+  type: restaurant
   links: http://swordfishsushi.com/
-description: "Modern, loungelike Japanese spot with creative & classic sushi, bento boxes & small & large plates. Swordfish serves delicious sushi in Batavia, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJP6kHJSPjDogR40oC0-70xE4
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: null
 rating: '4.6'
 rating_count: 0
 website: http://swordfishsushi.com/
+description: >-
+  Discover Swordfish in Batavia, IL$$$Swordfish in Batavia, IL, stands out as a
+  contemporary hub for Japanese dining, featuring an extensive array of fresh
+  sushi and creative entrees that cater to a variety of tastes. This modern spot
+  boasts a welcoming atmosphere with thoughtful touches like accessible
+  entrances and outdoor seating, making it ideal for casual meals or gatherings.
+  Patrons can enjoy a full bar with cocktails, beer, and wine, alongside
+  vegetarian options and bento boxes that highlight innovative flavors. For
+  those seeking sushi restaurants near me, Swordfish delivers a blend of
+  traditional and inventive dishes, ensuring a satisfying experience in a
+  relaxed, inclusive environment.
+generative_summary: >-
+  Discover Swordfish in Batavia, IL$$$Swordfish in Batavia, IL, stands out as a
+  contemporary hub for Japanese dining, featuring an extensive array of fresh
+  sushi and creative entrees that cater to a variety of tastes. This modern spot
+  boasts a welcoming atmosphere with thoughtful touches like accessible
+  entrances and outdoor seating, making it ideal for casual meals or gatherings.
+  Patrons can enjoy a full bar with cocktails, beer, and wine, alongside
+  vegetarian options and bento boxes that highlight innovative flavors. For
+  those seeking sushi restaurants near me, Swordfish delivers a blend of
+  traditional and inventive dishes, ensuring a satisfying experience in a
+  relaxed, inclusive environment.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJP6kHJSPjDogR40oC0-70xE4/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfbUtXNnZ3RRAB
@@ -350,6 +371,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN6a3BtUDJ3RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN6a3BtUDJ3RRAB!2m1!1s0x880ee3232507a93f:0x4ec4f4eed3024ae3
+review_summary: >-
+  What People Are Saying About the Vibes$$$Visitors frequently praise the fresh
+  and flavorful sushi rolls at this spot, noting how they hit the spot for
+  anyone craving top-rated options in the area. Many highlight the friendly
+  service and fun elements like robot deliveries, which add a playful twist to
+  the dining experience and make it great for groups or families. While most
+  agree the prices are reasonable and the overall vibe keeps things lively, a
+  few mention occasional waits during busy times, though the staff's
+  accommodating nature often turns it around. Overall, it's a solid pick for
+  delicious Japanese fare, with standout items like creative rolls and salads
+  earning high marks from satisfied diners. If you're on the hunt for sushi
+  places near me, this location delivers a consistently enjoyable meal with just
+  the right mix of quality and fun.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -382,8 +417,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Modern, loungelike Japanese spot with creative & classic sushi, bento boxes &
   small & large plates.
 

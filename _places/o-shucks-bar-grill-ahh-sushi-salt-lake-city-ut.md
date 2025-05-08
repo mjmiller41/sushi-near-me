@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "O'Shucks Bar & Grill Ahh Sushi"
+title: O'Shucks Bar & Grill Ahh Sushi
 permalink: /utah/salt-lake-city/o-shucks-bar-grill-ahh-sushi.html
 stateAbbr: UT
 stateName: Utah
 cityName: Salt Lake City
 seo:
-  name: "O'Shucks Bar & Grill Ahh Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.oshucksutah.com/
-description: "O'Shucks Bar & Grill Ahh Sushi serves delicious sushi in Salt Lake City, Utah. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJEYfzLw_1UocRv24bT0Bso3E
 photos:
   - name: >-
@@ -167,7 +165,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8752f50f2ff38711:0x71a36c404f1b6ebf!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 1
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 1
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 1
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 1
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 1
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 1
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 1
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 1:00 AM'
     - 'Tuesday: 11:30 AM – 1:00 AM'
     - 'Wednesday: 11:30 AM – 1:00 AM'
@@ -175,54 +231,442 @@ opening_hours:
     - 'Friday: 11:30 AM – 1:00 AM'
     - 'Saturday: 11:30 AM – 1:00 AM'
     - 'Sunday: 11:30 AM – 1:00 AM'
-  current:
-    - 'Monday: 11:30 AM – 1:00 AM'
-    - 'Tuesday: 11:30 AM – 1:00 AM'
-    - 'Wednesday: 11:30 AM – 1:00 AM'
-    - 'Thursday: 11:30 AM – 1:00 AM'
-    - 'Friday: 11:30 AM – 1:00 AM'
-    - 'Saturday: 11:30 AM – 1:00 AM'
-    - 'Sunday: 11:30 AM – 1:00 AM'
+  nextCloseTime: '2025-05-04T07:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: false
+    periods:
+      - open:
+          day: 0
+          hour: 11
+          minute: 30
+        close:
+          day: 0
+          hour: 14
+          minute: 0
+      - open:
+          day: 0
+          hour: 17
+          minute: 0
+        close:
+          day: 0
+          hour: 18
+          minute: 0
+      - open:
+          day: 0
+          hour: 22
+          minute: 0
+        close:
+          day: 0
+          hour: 23
+          minute: 0
+      - open:
+          day: 1
+          hour: 11
+          minute: 30
+        close:
+          day: 1
+          hour: 14
+          minute: 0
+      - open:
+          day: 1
+          hour: 17
+          minute: 0
+        close:
+          day: 1
+          hour: 18
+          minute: 0
+      - open:
+          day: 1
+          hour: 22
+          minute: 0
+        close:
+          day: 1
+          hour: 23
+          minute: 0
+      - open:
+          day: 2
+          hour: 11
+          minute: 30
+        close:
+          day: 2
+          hour: 14
+          minute: 0
+      - open:
+          day: 2
+          hour: 17
+          minute: 0
+        close:
+          day: 2
+          hour: 18
+          minute: 0
+      - open:
+          day: 2
+          hour: 22
+          minute: 0
+        close:
+          day: 2
+          hour: 23
+          minute: 0
+      - open:
+          day: 3
+          hour: 11
+          minute: 30
+        close:
+          day: 3
+          hour: 14
+          minute: 0
+      - open:
+          day: 3
+          hour: 17
+          minute: 0
+        close:
+          day: 3
+          hour: 18
+          minute: 0
+      - open:
+          day: 3
+          hour: 22
+          minute: 0
+        close:
+          day: 3
+          hour: 23
+          minute: 0
+      - open:
+          day: 4
+          hour: 11
+          minute: 30
+        close:
+          day: 4
+          hour: 14
+          minute: 0
+      - open:
+          day: 4
+          hour: 17
+          minute: 0
+        close:
+          day: 4
+          hour: 18
+          minute: 0
+      - open:
+          day: 4
+          hour: 22
+          minute: 0
+        close:
+          day: 4
+          hour: 23
+          minute: 0
+      - open:
+          day: 5
+          hour: 11
+          minute: 30
+        close:
+          day: 5
+          hour: 14
+          minute: 0
+      - open:
+          day: 5
+          hour: 17
+          minute: 0
+        close:
+          day: 5
+          hour: 18
+          minute: 0
+      - open:
+          day: 5
+          hour: 22
+          minute: 0
+        close:
+          day: 5
+          hour: 23
+          minute: 0
+      - open:
+          day: 6
+          hour: 11
+          minute: 30
+        close:
+          day: 6
+          hour: 14
+          minute: 0
+      - open:
+          day: 6
+          hour: 17
+          minute: 0
+        close:
+          day: 6
+          hour: 18
+          minute: 0
+      - open:
+          day: 6
+          hour: 22
+          minute: 0
+        close:
+          day: 6
+          hour: 23
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 11:30 AM – 2:00 PM, 5:00 – 6:00 PM, 10:00 – 11:00 PM'
+      - 'Tuesday: 11:30 AM – 2:00 PM, 5:00 – 6:00 PM, 10:00 – 11:00 PM'
+      - 'Wednesday: 11:30 AM – 2:00 PM, 5:00 – 6:00 PM, 10:00 – 11:00 PM'
+      - 'Thursday: 11:30 AM – 2:00 PM, 5:00 – 6:00 PM, 10:00 – 11:00 PM'
+      - 'Friday: 11:30 AM – 2:00 PM, 5:00 – 6:00 PM, 10:00 – 11:00 PM'
+      - 'Saturday: 11:30 AM – 2:00 PM, 5:00 – 6:00 PM, 10:00 – 11:00 PM'
+      - 'Sunday: 11:30 AM – 2:00 PM, 5:00 – 6:00 PM, 10:00 – 11:00 PM'
+    secondaryHoursType: HAPPY_HOUR
+    nextOpenTime: '2025-05-03T23:00:00Z'
 phone: (801) 359-6770
 price_level: PRICE_LEVEL_INEXPENSIVE
-price_range: null
+price_range: $10 &ndash; $20
 rating: '4.2'
-rating_count: 0
+rating_count: 1193
 website: https://www.oshucksutah.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Explore O'Shucks Bar & Grill in Salt Lake City, UT$$$O'Shucks Bar & Grill in
+  Salt Lake City, UT, stands out as a go-to sushi restaurant blending Japanese
+  flavors with a lively bar scene. This spot is celebrated for its creative
+  sushi rolls and hearty burgers, making it a favorite for those seeking
+  affordable Japanese-inspired dining options. With regular happy hour specials
+  that draw in locals and visitors alike, the venue offers a welcoming
+  atmosphere perfect for casual meals or unwinding after a long day. The menu
+  highlights fresh ingredients and a variety of dishes that cater to sushi
+  enthusiasts, ensuring a satisfying experience in a bustling setting. Located
+  in a convenient neighborhood, it's an ideal choice for anyone searching for
+  top-rated sushi restaurants near downtown areas.
+generative_summary: >-
+  Explore O'Shucks Bar & Grill in Salt Lake City, UT$$$O'Shucks Bar & Grill in
+  Salt Lake City, UT, stands out as a go-to sushi restaurant blending Japanese
+  flavors with a lively bar scene. This spot is celebrated for its creative
+  sushi rolls and hearty burgers, making it a favorite for those seeking
+  affordable Japanese-inspired dining options. With regular happy hour specials
+  that draw in locals and visitors alike, the venue offers a welcoming
+  atmosphere perfect for casual meals or unwinding after a long day. The menu
+  highlights fresh ingredients and a variety of dishes that cater to sushi
+  enthusiasts, ensuring a satisfying experience in a bustling setting. Located
+  in a convenient neighborhood, it's an ideal choice for anyone searching for
+  top-rated sushi restaurants near downtown areas.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJEYfzLw_1UocRv24bT0Bso3E/reviews/ChZDSUhNMG9nS0VJQ0FnTURJblAtb1F3EAE
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 5
+    text:
+      text: >-
+        Jeremy was fantastic and Willie. Great service. Amazing rolls and great
+        ambiance. Pay attention to the specials daily so many good options.
+
+        I had two Phillys and a Brooklyn bomber.
+      languageCode: en
+    originalText:
+      text: >-
+        Jeremy was fantastic and Willie. Great service. Amazing rolls and great
+        ambiance. Pay attention to the specials daily so many good options.
+
+        I had two Phillys and a Brooklyn bomber.
+      languageCode: en
+    authorAttribution:
+      displayName: steven parsley
+      uri: https://www.google.com/maps/contrib/112779903089134678468/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUEw8XmZFa38dGD09ECoUfmshkbbQdgDy9J6_TCHdAYaCc-jmxX=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2025-04-08T03:51:30.130430Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURJblAtb1F3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJblAtb1F3EAE!2m1!1s0x8752f50f2ff38711:0x71a36c404f1b6ebf
+  - name: >-
+      places/ChIJEYfzLw_1UocRv24bT0Bso3E/reviews/ChZDSUhNMG9nS0VJQ0FnSUNQN3BmU0N3EAE
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        Found this hidden gem at the first night in SLC because there were few
+        restaurants open near my hotel during late night. Then, I came back for
+        their half price and discounts at late night. The service is welcoming
+        and the vibe is always amazing with a lovely bar and some other
+        interesting things. Rolls taste not impressive, but still fresh at late
+        night.
+      languageCode: en
+    originalText:
+      text: >-
+        Found this hidden gem at the first night in SLC because there were few
+        restaurants open near my hotel during late night. Then, I came back for
+        their half price and discounts at late night. The service is welcoming
+        and the vibe is always amazing with a lovely bar and some other
+        interesting things. Rolls taste not impressive, but still fresh at late
+        night.
+      languageCode: en
+    authorAttribution:
+      displayName: Vincent Lam
+      uri: https://www.google.com/maps/contrib/109356790684726364640/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWhgLU5Jei3Pl4JDPEcEIdZNkffzDIZHGXJ2KnjXHN0yfq3XHBU=s128-c0x00000000-cc-rp-mo-ba7
+    publishTime: '2024-11-24T16:54:56.808437Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNQN3BmU0N3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNQN3BmU0N3EAE!2m1!1s0x8752f50f2ff38711:0x71a36c404f1b6ebf
+  - name: >-
+      places/ChIJEYfzLw_1UocRv24bT0Bso3E/reviews/ChZDSUhNMG9nS0VJQ0FnTUNnLUxYQ0RBEAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        Happy Hour every day, 3 times per day. See pics
+
+        Servers know why you are there and make sure you get your last order in
+        before the stroke of Spam
+
+        On a recent Wednesday, 2 of us had 3 schooners of beer, 1 nigiri
+        (tobiko), 4 rolls (tuna, salmon, eel, California) and the bill with tax
+        before tip was less than 3 Hamiltons (3 x $10).
+      languageCode: en
+    originalText:
+      text: >-
+        Happy Hour every day, 3 times per day. See pics
+
+        Servers know why you are there and make sure you get your last order in
+        before the stroke of Spam
+
+        On a recent Wednesday, 2 of us had 3 schooners of beer, 1 nigiri
+        (tobiko), 4 rolls (tuna, salmon, eel, California) and the bill with tax
+        before tip was less than 3 Hamiltons (3 x $10).
+      languageCode: en
+    authorAttribution:
+      displayName: Elizabeth Tom
+      uri: https://www.google.com/maps/contrib/105638049278805047148/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLTsi4AOhpxh2eV-J9I9cKE2iNAQc7nRSauLPDnVz48tX8zig=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-02-14T03:47:31.975426Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNnLUxYQ0RBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNnLUxYQ0RBEAE!2m1!1s0x8752f50f2ff38711:0x71a36c404f1b6ebf
+  - name: >-
+      places/ChIJEYfzLw_1UocRv24bT0Bso3E/reviews/ChdDSUhNMG9nS0VJQ0FnSUM3bnJyT3FRRRAB
+    relativePublishTimeDescription: 8 months ago
+    rating: 5
+    text:
+      text: >-
+        Was in town and saw some good reviews, and they mentioned half price
+        sushi during happy hours. Was a block away from our hotel, came by and
+        was not disappointed.
+
+
+        We ordered 4 sushi rolls and they were all delicious. We sat around the
+        sushi bar as well, giving some great authenticity. Sushi artists are
+        very good and helpful for any questions.
+
+
+        Few notes, it is in a bar so you need an ID. My wife forgot hers in the
+        hotel so we had to go back to get. Blame dresses for not having pockets.
+        But still a note if you're walking like we were.
+
+
+        Again, solid find for some great sushi. It is a steal during their happy
+        hours.
+      languageCode: en
+    originalText:
+      text: >-
+        Was in town and saw some good reviews, and they mentioned half price
+        sushi during happy hours. Was a block away from our hotel, came by and
+        was not disappointed.
+
+
+        We ordered 4 sushi rolls and they were all delicious. We sat around the
+        sushi bar as well, giving some great authenticity. Sushi artists are
+        very good and helpful for any questions.
+
+
+        Few notes, it is in a bar so you need an ID. My wife forgot hers in the
+        hotel so we had to go back to get. Blame dresses for not having pockets.
+        But still a note if you're walking like we were.
+
+
+        Again, solid find for some great sushi. It is a steal during their happy
+        hours.
+      languageCode: en
+    authorAttribution:
+      displayName: Tyler Harman
+      uri: https://www.google.com/maps/contrib/109495483139805270924/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXsQzdOrYsLIZAeyE2sjRedbHVgrQmD5Q7vJevDcolqk1I5BmpvUQ=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-08-16T00:28:27.973032Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUM3bnJyT3FRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUM3bnJyT3FRRRAB!2m1!1s0x8752f50f2ff38711:0x71a36c404f1b6ebf
+  - name: >-
+      places/ChIJEYfzLw_1UocRv24bT0Bso3E/reviews/ChdDSUhNMG9nS0VJQ0FnTUNRdzVMajhBRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Food was good, the price was good! The only thing I think the place can
+        improve is the interior design and structure, seems a bit old.
+      languageCode: en
+    originalText:
+      text: >-
+        Food was good, the price was good! The only thing I think the place can
+        improve is the interior design and structure, seems a bit old.
+      languageCode: en
+    authorAttribution:
+      displayName: Hibraim Rodriguez
+      uri: https://www.google.com/maps/contrib/108141418008424492315/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVItg1P0XovfmXJ0r6jwgmgEXJdYP3lkmt7BWd4I93P9sX3OK-_pA=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-03-06T19:27:55.177230Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNRdzVMajhBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNRdzVMajhBRRAB!2m1!1s0x8752f50f2ff38711:0x71a36c404f1b6ebf
+review_summary: >-
+  What Visitors Are Saying About This Sushi Spot$$$Visitors often rave about the
+  delicious sushi rolls and unbeatable happy hour deals that make dining here a
+  smart pick for budget-friendly meals. Many appreciate the fresh flavors and
+  generous portions, especially during late-night specials, which add to the
+  fun, relaxed vibe of the place. While the overall atmosphere gets high marks
+  for its energetic feel and great music, a few folks have mentioned that
+  service can occasionally be hit or miss, though it's generally friendly and
+  efficient. Overall, the value for money stands out, with plenty of positive
+  feedback on the variety of options that keep things exciting for groups or
+  solo diners. If you're on the hunt for reliable sushi places near you, this
+  spot delivers a solid experience that's worth checking out for its tasty
+  offerings and welcoming energy.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeStreetParking: true
+  paidStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
 allow_dogs: null
 curbside_pickup: null
 delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+dine_in: true
+good_for_children: false
+good_for_groups: true
+good_for_sports: true
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
 serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_brunch: false
+serves_cocktails: true
+serves_coffee: true
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: false
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Japanese eatery known for unique rolls, large schooners of beer & a bustling
+  happy hour.
 
 ---

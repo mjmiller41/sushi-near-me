@@ -5,4 +5,5 @@ permalink: /michigan/grand-rapids/
 stateAbbr: MI
 stateName: Michigan
 cityName: Grand Rapids
+
 ---

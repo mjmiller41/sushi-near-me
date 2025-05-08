@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Umaya Izakaya"
+title: Umaya Izakaya
 permalink: /district-of-columbia/washington/umaya-izakaya.html
 stateAbbr: DC
 stateName: District of Columbia
 cityName: Washington
 seo:
-  name: "Umaya Izakaya"
-  type: Restaurant
+  type: restaurant
   links: https://www.umayadc.com/
-description: "Japanese comfort fare like robata grills & Asian-accented cocktails in a high-energy room. Umaya Izakaya serves delicious sushi in Washington, District of Columbia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJlWC6bJG3t4kRgVLUK6CRrbA
 photos:
   - name: >-
@@ -184,6 +182,27 @@ price_range: $20 &ndash; $30
 rating: '4.0'
 rating_count: 0
 website: https://www.umayadc.com/
+description: >-
+  Discover Umaya Izakaya in Washington, DC$$$Umaya Izakaya in Washington, DC,
+  stands out as a vibrant Japanese spot where guests can savor comforting dishes
+  like robata grills and creative cocktails in a lively yet relaxed environment.
+  The menu highlights fresh, approachable options such as flavorful skewers and
+  rice bowls, making it a go-to for those exploring sushi restaurants in the
+  area. With thoughtful touches like outdoor seating and an inviting atmosphere,
+  it's ideal for casual meals or gatherings, appealing to anyone seeking
+  top-rated Japanese flavors nearby. Accessibility features ensure a welcoming
+  experience for all, adding to its charm as a neighborhood favorite.
+generative_summary: >-
+  Discover Umaya Izakaya in Washington, DC$$$Umaya Izakaya in Washington, DC,
+  stands out as a vibrant Japanese spot where guests can savor comforting dishes
+  like robata grills and creative cocktails in a lively yet relaxed environment.
+  The menu highlights fresh, approachable options such as flavorful skewers and
+  rice bowls, making it a go-to for those exploring sushi restaurants in the
+  area. With thoughtful touches like outdoor seating and an inviting atmosphere,
+  it's ideal for casual meals or gatherings, appealing to anyone seeking
+  top-rated Japanese flavors nearby. Accessibility features ensure a welcoming
+  experience for all, adding to its charm as a neighborhood favorite.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJlWC6bJG3t4kRgVLUK6CRrbA/reviews/ChdDSUhNMG9nS0VJQ0FnTURneXEtdnZBRRAB
@@ -351,6 +370,17 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURidFo2X2t3RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURidFo2X2t3RRAB!2m1!1s0x89b7b7916cba6095:0xb0ad91a02bd45281
+review_summary: >-
+  What Visitors Are Sharing$$$Folks often rave about the fresh and tasty dishes
+  at this spot, with many highlighting flavorful options like skewers and rice
+  bowls that hit the spot for a satisfying meal. Service stands out as friendly
+  and attentive, creating a cozy vibe that makes dining here feel easygoing and
+  enjoyable, even for groups checking out sushi places nearby. While most
+  experiences lean positive with generous portions and a relaxed setting, a few
+  notes suggest that results can vary based on personal tastes. Overall, it's a
+  solid choice for anyone in the DC area looking for reliable Japanese fare,
+  blending good vibes with honest value that keeps people coming back.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidStreetParking: true
   valetParking: false
@@ -383,8 +413,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Japanese comfort fare like robata grills & Asian-accented cocktails in a
   high-energy room.
 

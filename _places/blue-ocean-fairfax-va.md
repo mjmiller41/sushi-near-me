@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Blue Ocean"
+title: Blue Ocean
 permalink: /virginia/fairfax/blue-ocean.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Fairfax
 seo:
-  name: "Blue Ocean"
-  type: Restaurant
+  type: restaurant
   links: https://www.blueoceanizakaya.com/
-description: "Long-running eatery in a modest strip-mall space offering sushi, bento boxes & Japanese entrees. Blue Ocean serves delicious sushi in Fairfax, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJAWTXzDtMtokRp2bG-hOGcRw
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: null
 rating: '4.3'
 rating_count: 0
 website: https://www.blueoceanizakaya.com/
+description: >-
+  Discover Blue Ocean in Fairfax, VA$$$Blue Ocean in Fairfax, VA, is a cozy
+  izakaya that specializes in authentic Japanese cuisine, offering fresh sushi
+  and a range of traditional entrees for those seeking quality dining options
+  nearby. This long-established spot features a welcoming atmosphere in a simple
+  strip-mall location, making it an ideal choice for casual meals with friends
+  or family. Patrons can savor bento boxes and Japanese favorites, complemented
+  by beverage selections like sake and beer, all prepared with care in a
+  comfortable setting. The restaurant prioritizes accessibility with features
+  like wheelchair-friendly entrances and parking, ensuring a seamless
+  experience. For anyone exploring top sushi restaurants in the area, Blue Ocean
+  provides a reliable spot for flavorful Japanese dishes that highlight fresh
+  ingredients and thoughtful presentation.
+generative_summary: >-
+  Discover Blue Ocean in Fairfax, VA$$$Blue Ocean in Fairfax, VA, is a cozy
+  izakaya that specializes in authentic Japanese cuisine, offering fresh sushi
+  and a range of traditional entrees for those seeking quality dining options
+  nearby. This long-established spot features a welcoming atmosphere in a simple
+  strip-mall location, making it an ideal choice for casual meals with friends
+  or family. Patrons can savor bento boxes and Japanese favorites, complemented
+  by beverage selections like sake and beer, all prepared with care in a
+  comfortable setting. The restaurant prioritizes accessibility with features
+  like wheelchair-friendly entrances and parking, ensuring a seamless
+  experience. For anyone exploring top sushi restaurants in the area, Blue Ocean
+  provides a reliable spot for flavorful Japanese dishes that highlight fresh
+  ingredients and thoughtful presentation.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJAWTXzDtMtokRp2bG-hOGcRw/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3LUtfcDBBRRAB
@@ -356,6 +381,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNqdWRYbUlREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNqdWRYbUlREAE!2m1!1s0x89b64c3bccd76401:0x1c718613fac666a7
+review_summary: >-
+  Insights from Recent Reviews$$$Folks generally rave about the tasty sushi and
+  Japanese dishes at this spot, often calling it a standout for fresh flavors
+  and great value in everyday meals. Many highlight the satisfying lunch
+  specials and entrees like salmon teriyaki, noting they make for a fulfilling
+  dining experience without breaking the bank. While a few mention occasional
+  challenges like tricky parking or slight delays in service, the overall vibe
+  and food quality keep people eager to return for more. Reviewers appreciate
+  the authentic feel and variety of options, making it a solid pick for anyone
+  in the mood for reliable Japanese fare close by. If you're hunting for
+  approachable sushi places nearby, this location earns consistent nods for its
+  genuine taste and welcoming setup.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -388,8 +426,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Long-running eatery in a modest strip-mall space offering sushi, bento boxes &
   Japanese entrees.
 

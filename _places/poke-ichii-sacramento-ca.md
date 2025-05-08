@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Poke Ichii"
+title: Poke Ichii
 permalink: /california/sacramento/poke-ichii.html
 stateAbbr: CA
 stateName: California
 cityName: Sacramento
 seo:
-  name: "Poke Ichii"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Poke Ichii serves delicious sushi in Sacramento, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ73PbESPWmoARJVLgMRkEbdw
 photos:
   - name: >-
@@ -185,7 +183,42 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Poke Ichii in Sacramento, CA$$$Poke Ichii in Sacramento, CA, stands
+  out as a casual dining destination offering customizable poke bowls with a
+  variety of fresh proteins and toppings. Nestled in a convenient shopping
+  center, this spot emphasizes accessibility with features like
+  wheelchair-friendly parking and entrances, making it easy for everyone to
+  enjoy a meal. Patrons can create their own healthy, flavorful combinations,
+  drawing from Japanese-inspired ingredients that appeal to those seeking fresh
+  seafood options nearby. The relaxed vibe and focus on quality ingredients make
+  it an ideal choice for a quick lunch or dinner, perfect for anyone exploring
+  vibrant eateries in the area.
+generative_summary: >-
+  Discover Poke Ichii in Sacramento, CA$$$Poke Ichii in Sacramento, CA, stands
+  out as a casual dining destination offering customizable poke bowls with a
+  variety of fresh proteins and toppings. Nestled in a convenient shopping
+  center, this spot emphasizes accessibility with features like
+  wheelchair-friendly parking and entrances, making it easy for everyone to
+  enjoy a meal. Patrons can create their own healthy, flavorful combinations,
+  drawing from Japanese-inspired ingredients that appeal to those seeking fresh
+  seafood options nearby. The relaxed vibe and focus on quality ingredients make
+  it an ideal choice for a quick lunch or dinner, perfect for anyone exploring
+  vibrant eateries in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Even though detailed reviews are scarce for this
+  spot, the general buzz around customizable poke bowls suggests folks enjoy the
+  fresh flavors and healthy twists on classic dishes. People seem to appreciate
+  the ability to tailor their meals with a range of proteins and toppings,
+  creating a personalized dining experience that's both fun and satisfying. The
+  welcoming atmosphere and accessibility features likely add to the positive
+  vibes, making it a go-to for casual outings. Overall, it's shaping up as a
+  solid pick for anyone in the mood for light, tasty eats, with potential for it
+  to become a local favorite among those hunting for fresh options in
+  Sacramento.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +244,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

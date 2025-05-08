@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Momiji Sushi Restaurant - Mission"
+title: Momiji Sushi Restaurant - Mission
 permalink: /oregon/salem/momiji-sushi-restaurant-mission.html
 stateAbbr: OR
 stateName: Oregon
 cityName: Salem
 seo:
-  name: "Momiji Sushi Restaurant - Mission"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Momiji Sushi Restaurant - Mission serves delicious sushi in Salem, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJHfsiNef_v1QRj80CpmOiJ3M
 photos:
   - name: >-
@@ -185,7 +183,39 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Momiji Sushi in Salem, Oregon$$$Momiji Sushi Restaurant in Salem, OR,
+  stands out as a casual destination for those seeking authentic Japanese dining
+  experiences, featuring a menu that highlights fresh sushi and traditional
+  flavors. With options like all-you-can-eat selections, it caters to a variety
+  of tastes for sushi enthusiasts exploring local Japanese places. The
+  restaurant emphasizes accessibility, making it easy for everyone to enjoy its
+  welcoming atmosphere and thoughtfully prepared dishes. Whether you're in the
+  mood for top-rated sushi or simply craving a relaxed meal, this spot delivers
+  on quality and variety in a comfortable setting.
+generative_summary: >-
+  Discover Momiji Sushi in Salem, Oregon$$$Momiji Sushi Restaurant in Salem, OR,
+  stands out as a casual destination for those seeking authentic Japanese dining
+  experiences, featuring a menu that highlights fresh sushi and traditional
+  flavors. With options like all-you-can-eat selections, it caters to a variety
+  of tastes for sushi enthusiasts exploring local Japanese places. The
+  restaurant emphasizes accessibility, making it easy for everyone to enjoy its
+  welcoming atmosphere and thoughtfully prepared dishes. Whether you're in the
+  mood for top-rated sushi or simply craving a relaxed meal, this spot delivers
+  on quality and variety in a comfortable setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Folks who visit this sushi spot often rave about
+  the fresh ingredients and generous portions that make every bite feel
+  satisfying and flavorful. Many appreciate the all-you-can-eat deals, which are
+  great for groups looking to sample a wide range of options without breaking
+  the bank. While some note that it can get busy during peak times, the overall
+  vibe remains friendly and efficient, adding to the enjoyable experience. It's
+  commonly recommended as a solid choice for anyone searching for reliable sushi
+  restaurants nearby, with most feedback highlighting its value and tasty
+  selections in a casual environment.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +241,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

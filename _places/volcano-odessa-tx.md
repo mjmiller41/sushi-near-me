@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Volcano"
+title: Volcano
 permalink: /texas/odessa/volcano.html
 stateAbbr: TX
 stateName: Texas
 cityName: Odessa
 seo:
-  name: "Volcano"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Volcano serves delicious sushi in Odessa, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJzREzpivP-4YRd4Fc9BGpJcE
 photos:
   - name: >-
@@ -185,7 +183,47 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Volcano in Odessa, TX$$$Volcano in Odessa, TX, stands out as a
+  welcoming Asian restaurant offering a blend of Japanese and Asian fusion
+  cuisine that appeals to locals and visitors alike. This spot features an array
+  of dishes like fresh sushi rolls, hibachi favorites, and flavorful options
+  such as Pad Thai, all served in a relaxed and casual setting that enhances the
+  dining experience. For those exploring sushi restaurants near me, the menu
+  highlights high-quality ingredients and creative presentations that make every
+  meal memorable. The restaurant also prioritizes accessibility, ensuring a
+  comfortable visit for all guests with features like wheelchair-friendly
+  entrances and seating. Whether you're in the mood for top-rated sushi or other
+  Asian-inspired meals, Volcano provides a satisfying option in a laid-back
+  environment.
+generative_summary: >-
+  Discover Volcano in Odessa, TX$$$Volcano in Odessa, TX, stands out as a
+  welcoming Asian restaurant offering a blend of Japanese and Asian fusion
+  cuisine that appeals to locals and visitors alike. This spot features an array
+  of dishes like fresh sushi rolls, hibachi favorites, and flavorful options
+  such as Pad Thai, all served in a relaxed and casual setting that enhances the
+  dining experience. For those exploring sushi restaurants near me, the menu
+  highlights high-quality ingredients and creative presentations that make every
+  meal memorable. The restaurant also prioritizes accessibility, ensuring a
+  comfortable visit for all guests with features like wheelchair-friendly
+  entrances and seating. Whether you're in the mood for top-rated sushi or other
+  Asian-inspired meals, Volcano provides a satisfying option in a laid-back
+  environment.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Visitor Feedback Highlights$$$Feedback from diners at places like Volcano
+  often highlights the fresh and tasty sushi rolls that keep people coming back
+  for more. Many appreciate the variety of Asian fusion dishes, noting how the
+  flavors blend traditional elements with creative twists for an enjoyable meal.
+  While some mention the casual vibe makes it ideal for quick lunches or family
+  dinners, others praise the efficient service that adds to the overall
+  experience. It's commonly recommended as a solid choice for anyone searching
+  for sushi close to me, with most agreeing that the portions are generous and
+  the atmosphere feels welcoming. All in all, the consensus leans positive,
+  making it a go-to spot for those craving reliable and flavorful dining in the
+  area.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +249,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

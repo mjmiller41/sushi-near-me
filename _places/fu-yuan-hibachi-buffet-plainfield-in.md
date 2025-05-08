@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Fu Yuan Hibachi Buffet"
+title: Fu Yuan Hibachi Buffet
 permalink: /indiana/plainfield/fu-yuan-hibachi-buffet.html
 stateAbbr: IN
 stateName: Indiana
 cityName: Plainfield
 seo:
-  name: "Fu Yuan Hibachi Buffet"
-  type: Restaurant
+  type: restaurant
   links: https://fuyuanhibachi.shop/
-description: "Japanese BBQ house with an expansive lunch & dinner buffet including sushi & fried rice dishes. Fu Yuan Hibachi Buffet serves delicious sushi in Plainfield, Indiana. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ2cQVVkmkbIgRZgoOlogFiKs
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $10 &ndash; $20
 rating: '4.0'
 rating_count: 0
 website: https://fuyuanhibachi.shop/
+description: >-
+  About Fu Yuan Hibachi Buffet in Plainfield, IN$$$Fu Yuan Hibachi Buffet in
+  Plainfield, IN, stands out as a casual dining destination offering an
+  all-you-can-eat buffet with fresh Japanese sushi and Chinese-inspired dishes.
+  This spot features a wide variety of options, including flavorful fried rice
+  and hibachi-style selections, making it ideal for those exploring top-rated
+  sushi restaurants in the area. Accessibility is a key highlight, with
+  wheelchair-friendly parking, entrances, and seating that ensure everyone can
+  enjoy the experience. The moderate pricing and family-friendly atmosphere add
+  to its appeal for quick lunches or relaxed dinners. Whether you're seeking
+  sushi places near you or a comfortable meal with friends, this buffet combines
+  convenience and taste in a welcoming setting.
+generative_summary: >-
+  About Fu Yuan Hibachi Buffet in Plainfield, IN$$$Fu Yuan Hibachi Buffet in
+  Plainfield, IN, stands out as a casual dining destination offering an
+  all-you-can-eat buffet with fresh Japanese sushi and Chinese-inspired dishes.
+  This spot features a wide variety of options, including flavorful fried rice
+  and hibachi-style selections, making it ideal for those exploring top-rated
+  sushi restaurants in the area. Accessibility is a key highlight, with
+  wheelchair-friendly parking, entrances, and seating that ensure everyone can
+  enjoy the experience. The moderate pricing and family-friendly atmosphere add
+  to its appeal for quick lunches or relaxed dinners. Whether you're seeking
+  sushi places near you or a comfortable meal with friends, this buffet combines
+  convenience and taste in a welcoming setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ2cQVVkmkbIgRZgoOlogFiKs/reviews/ChZDSUhNMG9nS0VJQ0FnSUNicWNhY0NnEAE
@@ -428,6 +451,21 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNBb1l2Sm5RRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNBb1l2Sm5RRRAB!2m1!1s0x886ca4495615c4d9:0xab880588960e0a66
+review_summary: >-
+  What Customers Are Saying$$$Feedback from visitors to Fu Yuan Hibachi Buffet
+  often highlights the impressive range of dishes, with many appreciating the
+  kid-friendly choices like simple American options alongside Japanese
+  favorites, making it a solid pick for family outings. While some enjoy the
+  clean environment and affordable pricing, others mention that the food can
+  vary in freshness and flavor, with a few dishes feeling underwhelming on
+  busier days. Overall, it's praised for its generous portions and variety,
+  though service speed and certain details like buffet labeling could use some
+  improvement to enhance the experience. If you're hunting for sushi restaurants
+  nearby, this place gets nods for its accessibility and fun vibe, but it's wise
+  to check for peak times to avoid any inconsistencies. In a casual summary,
+  it's a go-to for affordable eats with mixed results that keep things
+  interesting.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -461,8 +499,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Japanese BBQ house with an expansive lunch & dinner buffet including sushi &
   fried rice dishes.
 

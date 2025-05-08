@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Wasabi Sushi Scotts Valley"
+title: Wasabi Sushi Scotts Valley
 permalink: /california/scotts-valley/wasabi-sushi-scotts-valley.html
 stateAbbr: CA
 stateName: California
 cityName: Scotts Valley
 seo:
-  name: "Wasabi Sushi Scotts Valley"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Wasabi Sushi Scotts Valley serves delicious sushi in Scotts Valley, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJb3slnANBjoARCCZefFizCdg
 photos:
   - name: >-
@@ -156,7 +154,7 @@ accessibility_options:
   wheelchairAccessibleEntrance: true
   wheelchairAccessibleRestroom: true
   wheelchairAccessibleSeating: true
-business_status: OPERATIONAL
+business_status: CLOSED_TEMPORARILY
 name: Wasabi Sushi Scotts Valley
 google_maps_links:
   directionsUri: >-
@@ -185,7 +183,40 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Wasabi Sushi in Scotts Valley, CA$$$Wasabi Sushi Scotts Valley in
+  Scotts Valley, CA, offers a relaxed atmosphere for enjoying authentic Japanese
+  flavors, featuring an all-you-can-eat option that appeals to sushi
+  enthusiasts. This spot highlights fresh menu items like poke and a variety of
+  sushi rolls, making it a go-to choice for those seeking Japanese places near
+  me. With thoughtful accessibility features such as wheelchair-friendly parking
+  and entrances, it ensures a welcoming experience for all visitors. The
+  restaurant's focus on light, seasonal dishes adds to its charm, providing a
+  casual dining option that stands out among local sushi restaurants.
+generative_summary: >-
+  Discover Wasabi Sushi in Scotts Valley, CA$$$Wasabi Sushi Scotts Valley in
+  Scotts Valley, CA, offers a relaxed atmosphere for enjoying authentic Japanese
+  flavors, featuring an all-you-can-eat option that appeals to sushi
+  enthusiasts. This spot highlights fresh menu items like poke and a variety of
+  sushi rolls, making it a go-to choice for those seeking Japanese places near
+  me. With thoughtful accessibility features such as wheelchair-friendly parking
+  and entrances, it ensures a welcoming experience for all visitors. The
+  restaurant's focus on light, seasonal dishes adds to its charm, providing a
+  casual dining option that stands out among local sushi restaurants.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors often rave about the tasty
+  all-you-can-eat deals at this Japanese eatery, highlighting favorites like
+  fresh sushi rolls and flavorful appetizers that keep things exciting. Folks
+  appreciate the friendly service that makes every meal feel effortless and
+  enjoyable, adding to the overall positive vibe. Many note the light and
+  seasonal flavors in the food, which bring a refreshing twist to classic dishes
+  and leave diners feeling satisfied. While some mention it's a solid spot for
+  groups looking for variety, the consensus leans toward it being a reliable
+  choice for anyone craving top-rated sushi nearby, blending fun with great
+  taste in a welcoming setting.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +242,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Aki Japanese Steakhouse and Sushi Bar"
+title: Aki Japanese Steakhouse and Sushi Bar
 permalink: /pennsylvania/altoona/aki-japanese-steakhouse-and-sushi-bar.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Altoona
 seo:
-  name: "Aki Japanese Steakhouse and Sushi Bar"
-  type: Restaurant
+  type: restaurant
   links: http://www.aki2118.com/
-description: "Sushi & dramatic tableside teppanyaki-grill dishes in a relaxed restaurant with modern decor. Aki Japanese Steakhouse and Sushi Bar serves delicious sushi in Altoona, Pennsylvania. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ49iN50CRy4kRAfhRX2QeDPI
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 0
 website: http://www.aki2118.com/
+description: >-
+  Discover Aki Japanese Steakhouse in Altoona, PA$$$Nestled in Altoona, PA, Aki
+  Japanese Steakhouse and Sushi Bar offers a delightful blend of authentic
+  Japanese flavors and modern ambiance, making it a go-to spot for sushi
+  enthusiasts. This casual eatery specializes in fresh hibachi steaks and a
+  variety of creative sushi rolls, complemented by a welcoming atmosphere that's
+  perfect for family outings or quick meals. With its focus on high-quality
+  ingredients and dramatic tableside grilling, visitors can enjoy generous
+  portions that cater to both kids and adults, enhancing the overall dining
+  experience. Accessibility features like wheelchair-friendly entrances add to
+  the convenience, while options for beer and coffee make it ideal for those
+  seeking sushi places near me that balance taste and comfort.
+generative_summary: >-
+  Discover Aki Japanese Steakhouse in Altoona, PA$$$Nestled in Altoona, PA, Aki
+  Japanese Steakhouse and Sushi Bar offers a delightful blend of authentic
+  Japanese flavors and modern ambiance, making it a go-to spot for sushi
+  enthusiasts. This casual eatery specializes in fresh hibachi steaks and a
+  variety of creative sushi rolls, complemented by a welcoming atmosphere that's
+  perfect for family outings or quick meals. With its focus on high-quality
+  ingredients and dramatic tableside grilling, visitors can enjoy generous
+  portions that cater to both kids and adults, enhancing the overall dining
+  experience. Accessibility features like wheelchair-friendly entrances add to
+  the convenience, while options for beer and coffee make it ideal for those
+  seeking sushi places near me that balance taste and comfort.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ49iN50CRy4kRAfhRX2QeDPI/reviews/ChdDSUhNMG9nS0VJQ0FnSUNmb2NIbWxBRRAB
@@ -350,6 +373,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUN3MjlyNW1RRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUN3MjlyNW1RRRAB!2m1!1s0x89cb9140e78dd8e3:0xf20c1e645f51f801
+review_summary: >-
+  What Guests Are Saying About This Spot$$$Folks rave about the outstanding
+  sushi quality and fun hibachi experiences at this local favorite, often
+  highlighting the fresh ingredients and generous servings that leave everyone
+  satisfied. Many visitors appreciate the lively atmosphere that's great for
+  celebrations or casual get-togethers, with consistent praise for rolls like
+  the California style that deliver reliable flavors. While some note that
+  certain dishes like tempura might vary in crispness, the overall value and
+  portions more than make up for it, making it a solid choice for families and
+  groups. Overall, diners find it a welcoming place for trying new Japanese
+  options, with the excitement of the grills adding to the enjoyment without any
+  major drawbacks. If you're on the hunt for top-rated sushi near me, this spot
+  consistently delivers a memorable meal that's worth the visit.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -382,8 +419,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Sushi & dramatic tableside teppanyaki-grill dishes in a relaxed restaurant
   with modern decor.
 

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "B.A.D. Sushi"
+title: B.A.D. Sushi
 permalink: /california/los-angeles/b-a-d-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Los Angeles
 seo:
-  name: "B.A.D. Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.thebadsushi.com/
-description: "B.A.D. Sushi serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ_6U_c2-7woARh0tbgsQtdIU
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c2bb6f733fa5ff:0x85742dc4825b4b87!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 16
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 16
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 5:00 – 9:30 PM'
     - 'Wednesday: 5:00 – 9:30 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 4:30 – 10:30 PM'
     - 'Saturday: 4:00 – 10:30 PM'
     - 'Sunday: 4:00 – 9:30 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 5:00 – 9:30 PM'
-    - 'Wednesday: 5:00 – 9:30 PM'
-    - 'Thursday: 5:00 – 9:30 PM'
-    - 'Friday: 4:30 – 10:30 PM'
-    - 'Saturday: 4:00 – 10:30 PM'
-    - 'Sunday: 4:00 – 9:30 PM'
+  nextOpenTime: '2025-05-03T23:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +238,265 @@ phone: (310) 479-4910
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.5'
-rating_count: 0
+rating_count: 287
 website: https://www.thebadsushi.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover B.A.D. Sushi in Los Angeles, CA$$$B.A.D. Sushi in Los Angeles, CA,
+  delivers a relaxed dining vibe centered on creative sushi rolls and flavorful
+  Japanese dishes that appeal to fresh seafood enthusiasts. The spot emphasizes
+  modern twists on classics, including a selection of satisfying combos for
+  lunch or dinner, all served in a simple yet functional setting. With
+  thoughtful accessibility features like wheelchair-friendly entrances and
+  seating, it caters to a wide range of visitors seeking comfortable sushi
+  experiences. Happy hour deals add extra value, making it an inviting choice
+  for those exploring top sushi options in the area. Located in a lively
+  neighborhood, this restaurant stands out for its blend of quality ingredients
+  and approachable atmosphere, ideal for anyone hunting for sushi restaurants
+  nearby.
+generative_summary: >-
+  Discover B.A.D. Sushi in Los Angeles, CA$$$B.A.D. Sushi in Los Angeles, CA,
+  delivers a relaxed dining vibe centered on creative sushi rolls and flavorful
+  Japanese dishes that appeal to fresh seafood enthusiasts. The spot emphasizes
+  modern twists on classics, including a selection of satisfying combos for
+  lunch or dinner, all served in a simple yet functional setting. With
+  thoughtful accessibility features like wheelchair-friendly entrances and
+  seating, it caters to a wide range of visitors seeking comfortable sushi
+  experiences. Happy hour deals add extra value, making it an inviting choice
+  for those exploring top sushi options in the area. Located in a lively
+  neighborhood, this restaurant stands out for its blend of quality ingredients
+  and approachable atmosphere, ideal for anyone hunting for sushi restaurants
+  nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ_6U_c2-7woARh0tbgsQtdIU/reviews/ChdDSUhNMG9nS0VJQ0FnTUNncW9TaTh3RRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 4
+    text:
+      text: >-
+        We came by for an early dinner on Valentines Day on a whim. The place
+        was starting to fill up but we were quickly seated with menus. From the
+        many options we placed our orders and sat back with anticipation while
+        nibbling on warm, salted Edamame.
+
+
+        The five Rolls arrived quickly and we were soon silently occupied by the
+        food. Each Roll was delicious, generous in size and well presented. I
+        liked the White Tiger Roll with its creamy smoothness contrasted by
+        crunchy flakes. My friends liked the Dragon Roll with its eel and the
+        Softshell Crab Roll.
+
+
+        The cozy space was simply decorated but functional. The kitchen was
+        speedy and turned over food quickly. The servers were perfunctory but
+        the bottomless green tea was appreciated. Overall, not a bad place at
+        all.
+      languageCode: en
+    originalText:
+      text: >-
+        We came by for an early dinner on Valentines Day on a whim. The place
+        was starting to fill up but we were quickly seated with menus. From the
+        many options we placed our orders and sat back with anticipation while
+        nibbling on warm, salted Edamame.
+
+
+        The five Rolls arrived quickly and we were soon silently occupied by the
+        food. Each Roll was delicious, generous in size and well presented. I
+        liked the White Tiger Roll with its creamy smoothness contrasted by
+        crunchy flakes. My friends liked the Dragon Roll with its eel and the
+        Softshell Crab Roll.
+
+
+        The cozy space was simply decorated but functional. The kitchen was
+        speedy and turned over food quickly. The servers were perfunctory but
+        the bottomless green tea was appreciated. Overall, not a bad place at
+        all.
+      languageCode: en
+    authorAttribution:
+      displayName: J L
+      uri: https://www.google.com/maps/contrib/109257803431808485686/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJazDYk16rgmdAmEu7J-3asP8UPLQN74NCI_WBDlYCtaoGfgkgK=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2025-02-16T01:12:18.221824Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNncW9TaTh3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNncW9TaTh3RRAB!2m1!1s0x80c2bb6f733fa5ff:0x85742dc4825b4b87
+  - name: >-
+      places/ChIJ_6U_c2-7woARh0tbgsQtdIU/reviews/ChdDSUhNMG9nS0VJQ0FnTURJeV9mZW1RRRAB
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        Best sushi in LA hands down. There is no better spot for delicious,
+        creative rolls that are totally worth the price. Staff is the most
+        friendly in LA and we love going there for them alone. Keep up the great
+        work because you do such an incredible job.
+
+
+        Their rolls are so delicious. High quality fish. Delicious customer
+        rolls. Can’t say enough nice things about this place!
+      languageCode: en
+    originalText:
+      text: >-
+        Best sushi in LA hands down. There is no better spot for delicious,
+        creative rolls that are totally worth the price. Staff is the most
+        friendly in LA and we love going there for them alone. Keep up the great
+        work because you do such an incredible job.
+
+
+        Their rolls are so delicious. High quality fish. Delicious customer
+        rolls. Can’t say enough nice things about this place!
+      languageCode: en
+    authorAttribution:
+      displayName: Bill Pahutski
+      uri: https://www.google.com/maps/contrib/110777558816020165975/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLjB1OBf2JkuUQ23EmrP09uFr_vlxi-7EWdV3bxqgNWiDjK4Q=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-13T03:24:26.655959Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJeV9mZW1RRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJeV9mZW1RRRAB!2m1!1s0x80c2bb6f733fa5ff:0x85742dc4825b4b87
+  - name: >-
+      places/ChIJ_6U_c2-7woARh0tbgsQtdIU/reviews/ChZDSUhNMG9nS0VJQ0FnTUNBMDZuSVRnEAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        Cherry spice roll & spicy tuna crispy rice are my favorite! Great prices
+        and very fast service.
+      languageCode: en
+    originalText:
+      text: >-
+        Cherry spice roll & spicy tuna crispy rice are my favorite! Great prices
+        and very fast service.
+      languageCode: en
+    authorAttribution:
+      displayName: Kayla Jochimsen
+      uri: https://www.google.com/maps/contrib/102208684198820940808/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXFMNC6RXJ-o81D07F_1gdzqJL_Y1_Gx6IYYt6qFmvYzL0RU2OK=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-02-04T01:36:01.232963Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNBMDZuSVRnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNBMDZuSVRnEAE!2m1!1s0x80c2bb6f733fa5ff:0x85742dc4825b4b87
+  - name: >-
+      places/ChIJ_6U_c2-7woARh0tbgsQtdIU/reviews/ChdDSUhNMG9nS0VJQ0FnSURaNHBTdjB3RRAB
+    relativePublishTimeDescription: a year ago
+    rating: 2
+    text:
+      text: >-
+        First timer. I wanted to love this place as it looks so cool inside.
+        When trying a new place I stick with the basics. In the case of sushi
+        that would be cucumber and tuna rolls. If they can't do those right then
+        why bother? The cucumber was thick style and that is never good. Needed
+        to be matchstick style or the taste is wrong (for me). The tuna was
+        decent but not great. I broke my own rule and also tried the shrimp
+        tempura roll. Less shripm and more avacado so that wasn't great either.
+        Still, others are highly reviewing this place so perhaps I came at he
+        wrong time?
+      languageCode: en
+    originalText:
+      text: >-
+        First timer. I wanted to love this place as it looks so cool inside.
+        When trying a new place I stick with the basics. In the case of sushi
+        that would be cucumber and tuna rolls. If they can't do those right then
+        why bother? The cucumber was thick style and that is never good. Needed
+        to be matchstick style or the taste is wrong (for me). The tuna was
+        decent but not great. I broke my own rule and also tried the shrimp
+        tempura roll. Less shripm and more avacado so that wasn't great either.
+        Still, others are highly reviewing this place so perhaps I came at he
+        wrong time?
+      languageCode: en
+    authorAttribution:
+      displayName: Joe Masucci
+      uri: https://www.google.com/maps/contrib/116710775623489310833/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXIjgfWDVojPSrQtl62DcRn1fqPr6t7RUqBhOrN28WLYogZRfqn=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2023-09-27T12:50:41.989456Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURaNHBTdjB3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURaNHBTdjB3RRAB!2m1!1s0x80c2bb6f733fa5ff:0x85742dc4825b4b87
+  - name: >-
+      places/ChIJ_6U_c2-7woARh0tbgsQtdIU/reviews/ChZDSUhNMG9nS0VJQ0FnSUR0MzRqY2FnEAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        The atmosphere is warm and very friendly. The choice of dishes on the
+        menu is huge. Everything is very tasty and beautiful. The order was
+        delivered very quickly. I've added this place to my list of favorite
+        restaurants.
+      languageCode: en
+    originalText:
+      text: >-
+        The atmosphere is warm and very friendly. The choice of dishes on the
+        menu is huge. Everything is very tasty and beautiful. The order was
+        delivered very quickly. I've added this place to my list of favorite
+        restaurants.
+      languageCode: en
+    authorAttribution:
+      displayName: Life in LA
+      uri: https://www.google.com/maps/contrib/104351687425957758958/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWhWPB170Vpdc22J-Di_uvQ-_iLchvw3hKG3HI41doz4mnBLN5XhA=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-02-09T01:55:30.395819Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR0MzRqY2FnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR0MzRqY2FnEAE!2m1!1s0x80c2bb6f733fa5ff:0x85742dc4825b4b87
+review_summary: >-
+  What Customers Are Sharing About the Experience$$$Folks often highlight the
+  tasty and inventive rolls at this spot, with many praising the fresh flavors
+  and generous portions that make meals feel worthwhile. The quick service and
+  reasonable prices come up frequently, creating a welcoming environment that's
+  perfect for casual get-togethers or a solo bite. While some mention that basic
+  options could use a bit more refinement, the overall buzz leans positive,
+  especially for creative specialties that keep diners coming back. It's clear
+  that the friendly vibe and high-quality ingredients contribute to a satisfying
+  visit, helping it rank among the best sushi choices in the region. If you're
+  on the hunt for reliable sushi places near me, this location seems to deliver
+  a solid, enjoyable experience for most.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  paidParkingLot: true
+  freeStreetParking: true
+  paidStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
 serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Simple setting for modern sushi rolls & cooked Japanese dishes, plus lunch &
+  dinner combos.
 
 ---

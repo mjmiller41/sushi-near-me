@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Café Ginger"
+title: Café Ginger
 permalink: /texas/houston/cafe-ginger.html
 stateAbbr: TX
 stateName: Texas
 cityName: Houston
 seo:
-  name: "Café Ginger"
-  type: Restaurant
+  type: restaurant
   links: http://www.cafeginger.net/
-description: "Café Ginger serves delicious sushi in Houston, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJH_WngaTAQIYRkbIiCkpo-ts
 photos:
   - name: >-
@@ -143,7 +141,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipO2oL2ndfYGp6-PmzzWsU3aB5vsmkguIjO33AJ1!2e10!4m2!3m1!1s0x8640c0a481a7f51f:0xdbfa684a0a22b291
 address: River Oaks Shopping Center, 1574 W Gray St, Houston, TX 77019, USA
-street: River Oaks Shopping Center, 1574 W Gray St
+street: River Oaks Shopping Center,1574 W Gray St
 city: Houston
 state: TX
 zip: '77019'
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8640c0a481a7f51f:0xdbfa684a0a22b291!10e5
 primary_type: Asian Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:30 PM'
     - 'Tuesday: 11:00 AM – 9:30 PM'
     - 'Wednesday: 11:00 AM – 9:30 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:30 PM'
     - 'Saturday: 11:00 AM – 9:30 PM'
     - 'Sunday: 11:00 AM – 9:30 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:30 PM'
-    - 'Tuesday: 11:00 AM – 9:30 PM'
-    - 'Wednesday: 11:00 AM – 9:30 PM'
-    - 'Thursday: 11:00 AM – 9:30 PM'
-    - 'Friday: 11:00 AM – 9:30 PM'
-    - 'Saturday: 11:00 AM – 9:30 PM'
-    - 'Sunday: 11:00 AM – 9:30 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +246,49 @@ phone: (713) 528-4288
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.6'
-rating_count: 0
+rating_count: 1127
 website: http://www.cafeginger.net/
+description: >-
+  Experience Café Ginger in Houston, TX$$$Café Ginger in Houston, TX, stands out
+  as a welcoming Asian restaurant nestled in the vibrant River Oaks area,
+  offering a blend of Chinese and Japanese flavors in a serene setting. This
+  spot delights visitors with its diverse menu featuring fresh Japanese dishes
+  and classic Chinese favorites, all served in a cozy atmosphere complemented by
+  a full bar for craft cocktails. Accessibility is a key highlight, with
+  wheelchair-friendly parking, entrances, restrooms, and seating, making it an
+  inclusive choice for everyone. If you're exploring top-rated Asian dining
+  options nearby, Café Ginger provides an elegant yet relaxed environment
+  perfect for savoring expertly prepared meals. Its moderate pricing and
+  extended hours add to the appeal for those seeking quality Japanese-inspired
+  cuisine close to home.
+generative_summary: >-
+  Experience Café Ginger in Houston, TX$$$Café Ginger in Houston, TX, stands out
+  as a welcoming Asian restaurant nestled in the vibrant River Oaks area,
+  offering a blend of Chinese and Japanese flavors in a serene setting. This
+  spot delights visitors with its diverse menu featuring fresh Japanese dishes
+  and classic Chinese favorites, all served in a cozy atmosphere complemented by
+  a full bar for craft cocktails. Accessibility is a key highlight, with
+  wheelchair-friendly parking, entrances, restrooms, and seating, making it an
+  inclusive choice for everyone. If you're exploring top-rated Asian dining
+  options nearby, Café Ginger provides an elegant yet relaxed environment
+  perfect for savoring expertly prepared meals. Its moderate pricing and
+  extended hours add to the appeal for those seeking quality Japanese-inspired
+  cuisine close to home.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Buzzing About$$$Visitors often praise Café Ginger for its
+  flavorful Asian dishes, like the satisfying chicken with eggplant and tender
+  Mongolian beef, along with a solid variety of sushi that keeps things
+  exciting. Folks appreciate the efficient and warm service that makes every
+  meal feel effortless and enjoyable, helping to create a welcoming vibe
+  overall. The restaurant's cozy yet sophisticated ambiance gets high marks for
+  providing a comfortable escape without the fuss. While opinions highlight
+  consistent quality in the food and service, it's clear this spot delivers a
+  reliable experience that leaves diners smiling. If you're on the hunt for
+  great sushi places near you, Café Ginger seems to hit the right notes with its
+  tasty offerings and friendly atmosphere.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +314,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

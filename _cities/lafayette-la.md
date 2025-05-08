@@ -5,4 +5,5 @@ permalink: /louisiana/lafayette/
 stateAbbr: LA
 stateName: Louisiana
 cityName: Lafayette
+
 ---

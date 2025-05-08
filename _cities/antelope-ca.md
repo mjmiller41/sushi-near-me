@@ -5,4 +5,5 @@ permalink: /california/antelope/
 stateAbbr: CA
 stateName: California
 cityName: Antelope
+
 ---

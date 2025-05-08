@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Shin's Sushi"
+title: Shin's Sushi
 permalink: /california/san-luis-obispo/shin-s-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: San Luis Obispo
 seo:
-  name: "Shin's Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.shinssushibar.com/
-description: "No-frills sushi spot with diverse menu, affordable prices & daily happy-hour specials. Shin's Sushi serves delicious sushi in San Luis Obispo, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJHevd-gPx7IARriWqbh-xdfA
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $20 &ndash; $30
 rating: '4.1'
 rating_count: 0
 website: https://www.shinssushibar.com/
+description: >-
+  Discover Shin's Sushi in San Luis Obispo, CA$$$Shin's Sushi in San Luis
+  Obispo, CA, provides a laid-back spot for enjoying fresh Japanese cuisine,
+  featuring a diverse selection of rolls and budget-friendly specials that
+  appeal to sushi enthusiasts. This unpretentious restaurant offers affordable
+  dining options, including buy-one-get-one deals and daily happy-hour
+  promotions, making it an ideal choice for those seeking quality meals without
+  breaking the bank. The menu highlights a variety of creative dishes prepared
+  with care, drawing in locals and visitors looking for reliable sushi places
+  near them. With its welcoming atmosphere and focus on value, it's perfect for
+  casual dinners or quick bites after exploring the area.
+generative_summary: >-
+  Discover Shin's Sushi in San Luis Obispo, CA$$$Shin's Sushi in San Luis
+  Obispo, CA, provides a laid-back spot for enjoying fresh Japanese cuisine,
+  featuring a diverse selection of rolls and budget-friendly specials that
+  appeal to sushi enthusiasts. This unpretentious restaurant offers affordable
+  dining options, including buy-one-get-one deals and daily happy-hour
+  promotions, making it an ideal choice for those seeking quality meals without
+  breaking the bank. The menu highlights a variety of creative dishes prepared
+  with care, drawing in locals and visitors looking for reliable sushi places
+  near them. With its welcoming atmosphere and focus on value, it's perfect for
+  casual dinners or quick bites after exploring the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJHevd-gPx7IARriWqbh-xdfA/reviews/ChZDSUhNMG9nS0VJQ0FnSUNmN0xtT1JnEAE
@@ -376,6 +397,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURmZzhEell3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURmZzhEell3EAE!2m1!1s0x80ecf103faddeb1d:0xf075b11f6eaa25ae
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this sushi spot often highlight the
+  tasty all-you-can-eat deals and fresh flavors that make meals feel worthwhile,
+  with many praising the variety of rolls and appetizers on offer. While some
+  mention occasional waits during busy times, the overall experience is lifted
+  by beautiful presentations and friendly service that add a nice touch to the
+  vibe. Folks appreciate the affordable prices and quality ingredients, making
+  it a go-to option for anyone hunting for top-rated sushi nearby. Despite a few
+  notes on service hiccups, the generous portions and inviting atmosphere keep
+  the feedback mostly positive, encouraging repeat visits for satisfying
+  Japanese dining.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidStreetParking: true
   valetParking: false
@@ -407,8 +440,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   No-frills sushi spot with diverse menu, affordable prices & daily happy-hour
   specials.
 

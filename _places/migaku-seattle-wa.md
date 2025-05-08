@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "MIGAKU"
+title: MIGAKU
 permalink: /washington/seattle/migaku.html
 stateAbbr: WA
 stateName: Washington
 cityName: Seattle
 seo:
-  name: "MIGAKU"
-  type: Restaurant
+  type: restaurant
   links: https://migaku-seattle.com/
-description: "MIGAKU serves delicious sushi in Seattle, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ3cWntM0VkFQRMmfWXCvfCmE
 photos:
   - name: >-
@@ -166,7 +164,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x549015cdb4a7c5dd:0x610adf2b5cd66732!10e5
 primary_type: Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 5:00 – 10:00 PM'
     - 'Tuesday: Closed'
     - 'Wednesday: 5:00 – 10:00 PM'
@@ -174,14 +222,7 @@ opening_hours:
     - 'Friday: 5:00 – 10:00 PM'
     - 'Saturday: 5:00 – 10:00 PM'
     - 'Sunday: 5:00 – 10:00 PM'
-  current:
-    - 'Monday: 5:00 – 10:00 PM'
-    - 'Tuesday: Closed'
-    - 'Wednesday: 5:00 – 10:00 PM'
-    - 'Thursday: 5:00 – 10:00 PM'
-    - 'Friday: 5:00 – 10:00 PM'
-    - 'Saturday: 5:00 – 10:00 PM'
-    - 'Sunday: 5:00 – 10:00 PM'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -193,9 +234,43 @@ phone: (206) 373-1570
 price_level: null
 price_range: $100 &ndash; & up
 rating: '4.9'
-rating_count: 0
+rating_count: 118
 website: https://migaku-seattle.com/
+description: >-
+  Explore MIGAKU in Seattle, WA$$$MIGAKU in Seattle, WA, stands out as a refined
+  spot for Japanese dining, offering an elegant kaiseki experience with
+  meticulously prepared dishes featuring fresh seafood and premium meats. The
+  menu highlights high-quality ingredients that bring out bold flavors,
+  complemented by thoughtful sake selections to elevate every meal. This
+  intimate venue creates a welcoming atmosphere perfect for savoring authentic
+  tastes, making it a go-to choice for those seeking top sushi restaurants in
+  the area. Whether you're exploring sushi places near me or looking for a
+  special evening out, the attention to detail in each course ensures a
+  memorable visit.
+generative_summary: >-
+  Explore MIGAKU in Seattle, WA$$$MIGAKU in Seattle, WA, stands out as a refined
+  spot for Japanese dining, offering an elegant kaiseki experience with
+  meticulously prepared dishes featuring fresh seafood and premium meats. The
+  menu highlights high-quality ingredients that bring out bold flavors,
+  complemented by thoughtful sake selections to elevate every meal. This
+  intimate venue creates a welcoming atmosphere perfect for savoring authentic
+  tastes, making it a go-to choice for those seeking top sushi restaurants in
+  the area. Whether you're exploring sushi places near me or looking for a
+  special evening out, the attention to detail in each course ensures a
+  memorable visit.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors consistently praise the kaiseki
+  offerings at this spot, noting the standout fresh fish and tender A5 wagyu
+  that deliver a truly satisfying meal. The service stands out as warm and
+  attentive, helping to foster a cozy and enjoyable vibe that keeps things
+  relaxed and engaging. Folks also appreciate the well-paired sakes that add an
+  extra layer of enjoyment to the dining experience. Overall, the emphasis on
+  exceptional ingredients and thoughtful preparation makes it a solid pick for
+  anyone hunting for the best sushi near me, with feedback leaning positive on
+  its ability to impress without overhyping.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -221,7 +296,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

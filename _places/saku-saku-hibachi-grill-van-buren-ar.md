@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Saku Saku Hibachi Grill"
+title: Saku Saku Hibachi Grill
 permalink: /arkansas/van-buren/saku-saku-hibachi-grill.html
 stateAbbr: AR
 stateName: Arkansas
 cityName: Van Buren
 seo:
-  name: "Saku Saku Hibachi Grill"
-  type: Restaurant
+  type: restaurant
   links: https://m.facebook.com/sakusakuonwheels/?ref=content_filter
-description: "Saku Saku Hibachi Grill serves delicious sushi in Van Buren, Arkansas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJZS191si1y4cR5JJS_wZnrww
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x87cbb5c8d67d2d65:0xcaf6706ff5292e4!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 20
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 8:30 PM'
     - 'Tuesday: 11:00 AM – 8:30 PM'
     - 'Wednesday: 11:00 AM – 8:30 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:00 PM'
     - 'Saturday: 12:00 – 9:00 PM'
     - 'Sunday: 11:00 AM – 8:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 8:30 PM'
-    - 'Tuesday: 11:00 AM – 8:30 PM'
-    - 'Wednesday: 11:00 AM – 8:30 PM'
-    - 'Thursday: 11:00 AM – 8:30 PM'
-    - 'Friday: 11:00 AM – 9:00 PM'
-    - 'Saturday: 12:00 – 9:00 PM'
-    - 'Sunday: 11:00 AM – 8:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +246,47 @@ phone: (479) 276-3331
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.4'
-rating_count: 0
+rating_count: 570
 website: https://m.facebook.com/sakusakuonwheels/?ref=content_filter
+description: >-
+  About Saku Saku Hibachi Grill$$$Saku Saku Hibachi Grill in Van Buren, AR,
+  offers a relaxed setting for enjoying authentic Japanese flavors, including
+  fresh sushi rolls and other savory dishes ideal for casual dining or quick
+  takeout. The eatery emphasizes a welcoming atmosphere with accessible features
+  like wheelchair-friendly parking and entrances, making it easy for everyone to
+  savor their meals. Patrons can explore a variety of options that highlight the
+  best of Japanese cuisine, from hibachi-style preparations to flavorful entrees
+  at moderate prices. With convenient hours extending into the evening, it's a
+  great spot for lunch or dinner when you're craving sushi restaurants nearby.
+  Whether you're seeking Japanese places near me or top-rated sushi experiences,
+  this location delivers a satisfying blend of taste and convenience.
+generative_summary: >-
+  About Saku Saku Hibachi Grill$$$Saku Saku Hibachi Grill in Van Buren, AR,
+  offers a relaxed setting for enjoying authentic Japanese flavors, including
+  fresh sushi rolls and other savory dishes ideal for casual dining or quick
+  takeout. The eatery emphasizes a welcoming atmosphere with accessible features
+  like wheelchair-friendly parking and entrances, making it easy for everyone to
+  savor their meals. Patrons can explore a variety of options that highlight the
+  best of Japanese cuisine, from hibachi-style preparations to flavorful entrees
+  at moderate prices. With convenient hours extending into the evening, it's a
+  great spot for lunch or dinner when you're craving sushi restaurants nearby.
+  Whether you're seeking Japanese places near me or top-rated sushi experiences,
+  this location delivers a satisfying blend of taste and convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Folks heading to Saku Saku Hibachi Grill often
+  highlight the fresh and tasty sushi as a standout feature, making it a solid
+  pick for anyone hunting for reliable Japanese options. Many appreciate the
+  friendly service and welcoming vibe that keep things casual and enjoyable,
+  especially for groups or families stopping by for a quick bite. The variety of
+  dishes gets plenty of nods for their quality and flavor, with diners
+  frequently noting it as one of the best sushi spots in the area for everyday
+  meals. While some mention it can get lively during busy times, the overall
+  experience earns high marks for value and satisfaction. If you're on the
+  lookout for top-rated sushi near me, this place consistently delivers a
+  positive dining vibe without overhyping the hype.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +312,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

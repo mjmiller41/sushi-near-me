@@ -5,4 +5,5 @@ permalink: /michigan/west-bloomfield-township/
 stateAbbr: MI
 stateName: Michigan
 cityName: West Bloomfield Township
+
 ---

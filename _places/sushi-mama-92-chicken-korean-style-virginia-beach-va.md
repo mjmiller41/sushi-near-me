@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Mama & 92 Chicken korean style"
+title: Sushi Mama & 92 Chicken korean style
 permalink: /virginia/virginia-beach/sushi-mama-92-chicken-korean-style.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Virginia Beach
 seo:
-  name: "Sushi Mama & 92 Chicken korean style"
-  type: Restaurant
+  type: restaurant
   links: https://sushimama.menu11.com/
-description: "Chain teppanyaki grill serving steaks & seafood, plus sushi & a traditional Japanese menu. Sushi Mama & 92 Chicken korean style serves delicious sushi in Virginia Beach, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ66NmUt-VuokRrFnD3Q4G39Q
 photos:
   - name: >-
@@ -185,6 +183,35 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 0
 website: https://sushimama.menu11.com/
+description: >-
+  Discover Sushi Mama in Virginia Beach, VA$$$Sushi Mama & 92 Chicken in
+  Virginia Beach, VA, stands out as a casual dining spot blending Japanese
+  flavors with Korean influences, making it a go-to for fresh sushi and hearty
+  dishes in the area. This welcoming restaurant features a menu that highlights
+  expertly prepared sushi rolls alongside flavorful Korean-style options like
+  fried chicken, all served in a clean and accessible environment with ample
+  parking and wheelchair-friendly features. Visitors appreciate the moderate
+  pricing and variety of choices, from light sashimi to satisfying entrees that
+  cater to different tastes. The spot's commitment to quality ingredients
+  ensures a delightful experience, whether you're seeking a quick meal or a
+  relaxed outing with friends. For those searching for top-rated sushi
+  restaurants nearby, this location delivers a balanced mix of authentic tastes
+  and modern convenience.
+generative_summary: >-
+  Discover Sushi Mama in Virginia Beach, VA$$$Sushi Mama & 92 Chicken in
+  Virginia Beach, VA, stands out as a casual dining spot blending Japanese
+  flavors with Korean influences, making it a go-to for fresh sushi and hearty
+  dishes in the area. This welcoming restaurant features a menu that highlights
+  expertly prepared sushi rolls alongside flavorful Korean-style options like
+  fried chicken, all served in a clean and accessible environment with ample
+  parking and wheelchair-friendly features. Visitors appreciate the moderate
+  pricing and variety of choices, from light sashimi to satisfying entrees that
+  cater to different tastes. The spot's commitment to quality ingredients
+  ensures a delightful experience, whether you're seeking a quick meal or a
+  relaxed outing with friends. For those searching for top-rated sushi
+  restaurants nearby, this location delivers a balanced mix of authentic tastes
+  and modern convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ66NmUt-VuokRrFnD3Q4G39Q/reviews/ChZDSUhNMG9nS0VJQ0FnSUNuLUxtZEt3EAE
@@ -348,6 +375,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURRMXVIekdREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURRMXVIekdREAE!2m1!1s0x89ba95df5266a3eb:0xd4df060eddc359ac
+review_summary: >-
+  What Customers Are Buzzing About$$$Folks rave about the standout Korean fried
+  chicken and fresh sushi at this spot, often calling it a must-try for its
+  crunchy textures and bold flavors that keep diners coming back. Many highlight
+  the friendly service and reasonable prices, making it an easy choice for
+  casual meals with family or groups looking for something satisfying. While
+  most experiences are positive, a few mentions of service multitasking suggest
+  room for smoother operations during busy times, but overall, the food's appeal
+  shines through. If you're on the hunt for great sushi places near you, this
+  restaurant delivers solid portions and tasty combinations that leave a lasting
+  impression. In the end, it's a welcoming option that honestly hits the mark
+  for flavor and value, encouraging repeat visits for anyone exploring local
+  eats.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -380,8 +421,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Chain teppanyaki grill serving steaks & seafood, plus sushi & a traditional
   Japanese menu.
 

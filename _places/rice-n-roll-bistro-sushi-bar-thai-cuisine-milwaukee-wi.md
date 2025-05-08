@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Rice n Roll Bistro | Sushi Bar & Thai Cuisine"
+title: Rice n Roll Bistro | Sushi Bar & Thai Cuisine
 permalink: /wisconsin/milwaukee/rice-n-roll-bistro-sushi-bar-thai-cuisine.html
 stateAbbr: WI
 stateName: Wisconsin
 cityName: Milwaukee
 seo:
-  name: "Rice n Roll Bistro | Sushi Bar & Thai Cuisine"
-  type: Restaurant
+  type: restaurant
   links: https://ricenrollbistro.com/
-description: "Rice n Roll Bistro | Sushi Bar & Thai Cuisine serves delicious sushi in Milwaukee, Wisconsin. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJMymoLucYBYgR4bhgS7lymG4
 photos:
   - name: >-
@@ -170,7 +168,105 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x880518e72ea82933:0x6e9872b94b60b8e1!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 30
+      close:
+        day: 0
+        hour: 14
+        minute: 30
+    - open:
+        day: 0
+        hour: 16
+        minute: 30
+      close:
+        day: 0
+        hour: 20
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 20
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 20
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 20
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 14
+        minute: 30
+    - open:
+        day: 6
+        hour: 16
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:30 AM – 2:30 PM, 4:30 – 8:30 PM'
     - 'Wednesday: 11:30 AM – 2:30 PM, 4:30 – 8:30 PM'
@@ -178,28 +274,268 @@ opening_hours:
     - 'Friday: 11:30 AM – 2:30 PM, 4:30 – 9:00 PM'
     - 'Saturday: 11:30 AM – 2:30 PM, 4:30 – 9:00 PM'
     - 'Sunday: 12:30 – 2:30 PM, 4:30 – 8:30 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:30 AM – 2:30 PM, 4:30 – 8:30 PM'
-    - 'Wednesday: 11:30 AM – 2:30 PM, 4:30 – 8:30 PM'
-    - 'Thursday: 11:30 AM – 2:30 PM, 4:30 – 8:30 PM'
-    - 'Friday: 11:30 AM – 2:30 PM, 4:30 – 9:00 PM'
-    - 'Saturday: 11:30 AM – 2:30 PM, 4:30 – 9:00 PM'
-    - 'Sunday: 12:30 – 2:30 PM, 4:30 – 8:30 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 30
+        close:
+          day: 0
+          hour: 15
+          minute: 0
+      - open:
+          day: 0
+          hour: 16
+          minute: 30
+        close:
+          day: 0
+          hour: 21
+          minute: 0
+      - open:
+          day: 2
+          hour: 11
+          minute: 30
+        close:
+          day: 2
+          hour: 15
+          minute: 0
+      - open:
+          day: 2
+          hour: 16
+          minute: 30
+        close:
+          day: 2
+          hour: 21
+          minute: 0
+      - open:
+          day: 3
+          hour: 11
+          minute: 30
+        close:
+          day: 3
+          hour: 15
+          minute: 0
+      - open:
+          day: 3
+          hour: 16
+          minute: 30
+        close:
+          day: 3
+          hour: 21
+          minute: 0
+      - open:
+          day: 4
+          hour: 11
+          minute: 30
+        close:
+          day: 4
+          hour: 15
+          minute: 0
+      - open:
+          day: 4
+          hour: 16
+          minute: 30
+        close:
+          day: 4
+          hour: 21
+          minute: 0
+      - open:
+          day: 5
+          hour: 11
+          minute: 30
+        close:
+          day: 5
+          hour: 15
+          minute: 0
+      - open:
+          day: 5
+          hour: 16
+          minute: 30
+        close:
+          day: 5
+          hour: 21
+          minute: 30
+      - open:
+          day: 6
+          hour: 11
+          minute: 30
+        close:
+          day: 6
+          hour: 15
+          minute: 0
+      - open:
+          day: 6
+          hour: 16
+          minute: 30
+        close:
+          day: 6
+          hour: 21
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: Closed'
+      - 'Tuesday: 11:30 AM – 3:00 PM, 4:30 – 9:00 PM'
+      - 'Wednesday: 11:30 AM – 3:00 PM, 4:30 – 9:00 PM'
+      - 'Thursday: 11:30 AM – 3:00 PM, 4:30 – 9:00 PM'
+      - 'Friday: 11:30 AM – 3:00 PM, 4:30 – 9:30 PM'
+      - 'Saturday: 11:30 AM – 3:00 PM, 4:30 – 9:30 PM'
+      - 'Sunday: 12:30 – 3:00 PM, 4:30 – 9:00 PM'
+    secondaryHoursType: DELIVERY
+    nextCloseTime: '2025-05-04T02:30:00Z'
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 30
+        close:
+          day: 0
+          hour: 15
+          minute: 0
+      - open:
+          day: 0
+          hour: 16
+          minute: 0
+        close:
+          day: 0
+          hour: 21
+          minute: 0
+      - open:
+          day: 2
+          hour: 11
+          minute: 30
+        close:
+          day: 2
+          hour: 15
+          minute: 0
+      - open:
+          day: 2
+          hour: 16
+          minute: 0
+        close:
+          day: 2
+          hour: 21
+          minute: 0
+      - open:
+          day: 3
+          hour: 11
+          minute: 30
+        close:
+          day: 3
+          hour: 15
+          minute: 0
+      - open:
+          day: 3
+          hour: 16
+          minute: 0
+        close:
+          day: 3
+          hour: 21
+          minute: 0
+      - open:
+          day: 4
+          hour: 11
+          minute: 30
+        close:
+          day: 4
+          hour: 15
+          minute: 0
+      - open:
+          day: 4
+          hour: 16
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 0
+      - open:
+          day: 5
+          hour: 11
+          minute: 30
+        close:
+          day: 5
+          hour: 15
+          minute: 0
+      - open:
+          day: 5
+          hour: 16
+          minute: 0
+        close:
+          day: 5
+          hour: 21
+          minute: 30
+      - open:
+          day: 6
+          hour: 11
+          minute: 30
+        close:
+          day: 6
+          hour: 15
+          minute: 0
+      - open:
+          day: 6
+          hour: 16
+          minute: 0
+        close:
+          day: 6
+          hour: 21
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: Closed'
+      - 'Tuesday: 11:30 AM – 3:00 PM, 4:00 – 9:00 PM'
+      - 'Wednesday: 11:30 AM – 3:00 PM, 4:00 – 9:00 PM'
+      - 'Thursday: 11:30 AM – 3:00 PM, 4:00 – 9:00 PM'
+      - 'Friday: 11:30 AM – 3:00 PM, 4:00 – 9:30 PM'
+      - 'Saturday: 11:30 AM – 3:00 PM, 4:00 – 9:30 PM'
+      - 'Sunday: 12:30 – 3:00 PM, 4:00 – 9:00 PM'
+    secondaryHoursType: TAKEOUT
+    nextCloseTime: '2025-05-04T02:30:00Z'
 phone: (414) 220-9944
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.7'
-rating_count: 0
+rating_count: 822
 website: https://ricenrollbistro.com/
+description: >-
+  Discover Rice n Roll Bistro in Milwaukee, WI$$$Rice n Roll Bistro in
+  Milwaukee, WI, stands out as a welcoming destination for fresh sushi and Thai
+  dishes, blending flavors in a casual, relaxed vibe. This spot features an
+  array of authentic Asian fare, including expertly crafted rolls and savory
+  curries, perfect for anyone seeking sushi restaurants in the area. Its
+  laid-back atmosphere makes it ideal for a quick meal or leisurely dining, with
+  accessibility options ensuring a comfortable visit for all. Moderately priced
+  options add to its appeal, making it a solid choice for those exploring
+  top-rated sushi nearby. Whether you're in the mood for a light lunch or
+  evening outing, the bistro delivers a satisfying taste of diverse Asian
+  cuisine.
+generative_summary: >-
+  Discover Rice n Roll Bistro in Milwaukee, WI$$$Rice n Roll Bistro in
+  Milwaukee, WI, stands out as a welcoming destination for fresh sushi and Thai
+  dishes, blending flavors in a casual, relaxed vibe. This spot features an
+  array of authentic Asian fare, including expertly crafted rolls and savory
+  curries, perfect for anyone seeking sushi restaurants in the area. Its
+  laid-back atmosphere makes it ideal for a quick meal or leisurely dining, with
+  accessibility options ensuring a comfortable visit for all. Moderately priced
+  options add to its appeal, making it a solid choice for those exploring
+  top-rated sushi nearby. Whether you're in the mood for a light lunch or
+  evening outing, the bistro delivers a satisfying taste of diverse Asian
+  cuisine.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Love About This Spot$$$People consistently praise the flavorful
+  sushi rolls and Thai specialties at this laid-back eatery, noting them as some
+  of the best finds for sushi near me. Many highlight the generous portions and
+  fair pricing that make dining here feel like a smart, enjoyable choice without
+  breaking the bank. The staff comes across as helpful and welcoming,
+  contributing to a positive overall experience that keeps guests coming back.
+  It's often recommended for casual get-togethers, with folks appreciating the
+  variety of options that cater to different tastes in Japanese places near me.
+  All in all, the feedback paints a picture of a reliable spot for delicious,
+  value-driven meals that leave diners happy and satisfied.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +561,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

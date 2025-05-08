@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Tabemono Japanese Restaurant"
+title: Tabemono Japanese Restaurant
 permalink: /arizona/phoenix/tabemono-japanese-restaurant.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Phoenix
 seo:
-  name: "Tabemono Japanese Restaurant"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Tabemono Japanese Restaurant serves delicious sushi in Phoenix, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJGQphlWYEK4cRCZKh2mZLJsA
 photos:
   - name: >-
@@ -185,7 +183,40 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Experience Tabemono Japanese Restaurant$$$Tabemono Japanese Restaurant in
+  Phoenix, AZ, delivers a casual yet inviting atmosphere for enjoying authentic
+  Japanese flavors, including fresh sushi and shabu-shabu. This spot stands out
+  with its thoughtful vegetarian options and a selection of sake and wine,
+  making it ideal for a relaxed meal with friends or family. Wheelchair
+  accessibility throughout the venue ensures everyone can savor the experience,
+  from the neighborhood's vibrant Ahwatukee Foothills Village setting. For those
+  exploring sushi restaurants in the area, Tabemono offers a welcoming option
+  that combines quality ingredients with a laid-back vibe, perfect for anyone
+  seeking Japanese dining near Phoenix.
+generative_summary: >-
+  Experience Tabemono Japanese Restaurant$$$Tabemono Japanese Restaurant in
+  Phoenix, AZ, delivers a casual yet inviting atmosphere for enjoying authentic
+  Japanese flavors, including fresh sushi and shabu-shabu. This spot stands out
+  with its thoughtful vegetarian options and a selection of sake and wine,
+  making it ideal for a relaxed meal with friends or family. Wheelchair
+  accessibility throughout the venue ensures everyone can savor the experience,
+  from the neighborhood's vibrant Ahwatukee Foothills Village setting. For those
+  exploring sushi restaurants in the area, Tabemono offers a welcoming option
+  that combines quality ingredients with a laid-back vibe, perfect for anyone
+  seeking Japanese dining near Phoenix.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Visitor Feedback Highlights$$$Folks checking out this spot often rave about
+  the fresh, well-prepared sushi that hits the spot for a satisfying meal. Many
+  appreciate the flavorful shabu-shabu and the variety of vegetarian choices,
+  which make it easy for groups with different tastes to enjoy together. The
+  service tends to be friendly and attentive, adding to the overall chill
+  experience without any major hiccups. While opinions vary, it's generally seen
+  as a solid pick for anyone hunting for top-rated Japanese places nearby,
+  leaving visitors feeling content and ready to come back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +242,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

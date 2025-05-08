@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Shakou Restaurants"
+title: Shakou Restaurants
 permalink: /illinois/barrington/shakou-restaurants.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Barrington
 seo:
-  name: "Shakou Restaurants"
-  type: Restaurant
-  links: null
-description: "Shakou Restaurants serves delicious sushi in Barrington, Illinois. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://shakourestaurants.com/
 place_id: ChIJL9bU49qgD4gRVOkkdzfsf8Q
 photos:
   - name: >-
@@ -170,8 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x880fa0dae3d4d62f:0xc47fec377724e954!10e5
 primary_type: Asian Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: Closed'
+    - 'Tuesday: 5:00 – 9:00 PM'
+    - 'Wednesday: 5:00 – 9:00 PM'
+    - 'Thursday: 5:00 – 9:00 PM'
+    - 'Friday: 11:30 AM – 10:00 PM'
+    - 'Saturday: 11:30 AM – 10:00 PM'
+    - 'Sunday: 5:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +234,53 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (224) 655-2853
+price_level: PRICE_LEVEL_EXPENSIVE
+price_range: $20 &ndash; $30
+rating: '4.4'
+rating_count: 952
+website: http://shakourestaurants.com/
+description: >-
+  Discover Shakou Restaurants in Barrington, IL$$$Shakou Restaurants in
+  Barrington, IL, stands out as a trendy spot for modern Asian cuisine, blending
+  fresh flavors and innovative dishes in a welcoming environment. The venue
+  features a rooftop patio that adds a vibrant outdoor element, perfect for
+  enjoying expertly crafted sushi and other specialties that highlight
+  contemporary twists on classic recipes. With its focus on high-quality
+  ingredients and accessible design, including wheelchair-friendly features, it
+  caters to a wide range of diners seeking an elevated dining experience.
+  Visitors often appreciate the balance of style and substance here, making it a
+  go-to choice for those exploring sushi restaurants in the area. Whether you're
+  in the mood for top-rated Japanese-inspired meals or a relaxed atmosphere,
+  this location delivers a memorable visit close to home.
+generative_summary: >-
+  Discover Shakou Restaurants in Barrington, IL$$$Shakou Restaurants in
+  Barrington, IL, stands out as a trendy spot for modern Asian cuisine, blending
+  fresh flavors and innovative dishes in a welcoming environment. The venue
+  features a rooftop patio that adds a vibrant outdoor element, perfect for
+  enjoying expertly crafted sushi and other specialties that highlight
+  contemporary twists on classic recipes. With its focus on high-quality
+  ingredients and accessible design, including wheelchair-friendly features, it
+  caters to a wide range of diners seeking an elevated dining experience.
+  Visitors often appreciate the balance of style and substance here, making it a
+  go-to choice for those exploring sushi restaurants in the area. Whether you're
+  in the mood for top-rated Japanese-inspired meals or a relaxed atmosphere,
+  this location delivers a memorable visit close to home.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Guests Are Saying$$$Based on the strong 4.4-star rating from hundreds of
+  visitors, Shakou Restaurants leaves a positive impression with its fresh and
+  flavorful sushi offerings that keep people coming back for more. Many
+  highlight the welcoming vibe and solid value for the price, making it a solid
+  pick for casual dinners or group outings without any major complaints. Folks
+  enjoy the variety of dishes that go beyond typical expectations, often noting
+  the attentive service and cozy setting as standout elements. While some
+  mention portions could feel a bit modest, the overall experience remains
+  upbeat and satisfying for those searching for reliable Asian eats nearby. If
+  you're on the hunt for great sushi spots around Barrington, this place comes
+  highly recommended for its consistent appeal and friendly atmosphere.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +306,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

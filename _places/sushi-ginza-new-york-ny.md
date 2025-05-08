@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Ginza"
+title: Sushi Ginza
 permalink: /new-york/new-york/sushi-ginza.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "Sushi Ginza"
-  type: Restaurant
-  links: null
-description: "Sushi Ginza serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://sushiginzany.com/
 place_id: ChIJ4Qov2mRZwokRq7cr4_3wK9c
 photos:
   - name: >-
@@ -167,8 +165,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c25964da2f0ae1:0xd72bf0fde32bb7ab!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 15
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 15
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:30 AM – 9:30 PM'
+    - 'Tuesday: 11:30 AM – 9:30 PM'
+    - 'Wednesday: 11:30 AM – 9:30 PM'
+    - 'Thursday: 11:30 AM – 9:30 PM'
+    - 'Friday: 11:30 AM – 9:30 PM'
+    - 'Saturday: 3:00 – 10:30 PM'
+    - 'Sunday: 3:00 – 10:30 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -176,13 +239,51 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (212) 202-2553
+price_level: PRICE_LEVEL_MODERATE
+price_range: $50 &ndash; $100
+rating: '4.6'
+rating_count: 99
+website: http://sushiginzany.com/
+description: >-
+  About Sushi Ginza in New York, NY$$$Sushi Ginza in New York, NY, stands out as
+  a casual destination for enjoying authentic Japanese flavors in a vibrant
+  urban setting. This spot offers a selection of fresh sushi rolls and
+  traditional dishes, complemented by a variety of beverages like beer, wine,
+  and cocktails, making it ideal for a relaxed meal with friends or a quick
+  bite. The restaurant's welcoming atmosphere and accessible entrance enhance
+  the overall experience, appealing to those seeking top-rated sushi options in
+  the city. With its moderate pricing and convenient location, it's a go-to
+  choice for locals and visitors exploring sushi restaurants near me. Open hours
+  cater to both lunch crowds and evening diners, ensuring you can savor
+  high-quality Japanese fare without the hassle.
+generative_summary: >-
+  About Sushi Ginza in New York, NY$$$Sushi Ginza in New York, NY, stands out as
+  a casual destination for enjoying authentic Japanese flavors in a vibrant
+  urban setting. This spot offers a selection of fresh sushi rolls and
+  traditional dishes, complemented by a variety of beverages like beer, wine,
+  and cocktails, making it ideal for a relaxed meal with friends or a quick
+  bite. The restaurant's welcoming atmosphere and accessible entrance enhance
+  the overall experience, appealing to those seeking top-rated sushi options in
+  the city. With its moderate pricing and convenient location, it's a go-to
+  choice for locals and visitors exploring sushi restaurants near me. Open hours
+  cater to both lunch crowds and evening diners, ensuring you can savor
+  high-quality Japanese fare without the hassle.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Recent Feedback$$$Folks rave about the standout dishes at this
+  Japanese eatery, particularly the fresh sushi and tasty appetizers like shrimp
+  dumplings and summer rolls that keep diners coming back. Many appreciate the
+  friendly service and cozy vibe that make every visit feel inviting and
+  enjoyable, perfect for casual get-togethers or solo meals. While opinions
+  highlight consistent flavors and a welcoming environment, some note that the
+  portions strike a nice balance for those watching their budget. Overall, it's
+  clear this place delivers on quality and atmosphere, earning it a spot among
+  the best sushi spots in the area for anyone searching for reliable Japanese
+  places near me. If you're in the mood for something simple yet satisfying,
+  it's worth checking out for a solid dining experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -208,7 +309,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

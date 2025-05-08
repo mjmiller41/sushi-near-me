@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "jony's sushi"
+title: jony's sushi
 permalink: /ohio/columbus/jony-s-sushi.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Columbus
 seo:
-  name: "jony's sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.jonyssushi.com/
-description: "jony's sushi serves delicious sushi in Columbus, Ohio. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ333LX0yJOIgRlnRAQu2EURo
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: null
 rating: '4.1'
 rating_count: 0
 website: http://www.jonyssushi.com/
+description: >-
+  Discover Jony's Sushi in Columbus, OH$$$Jony's Sushi in Columbus, OH, stands
+  out as a cozy spot for enjoying authentic Japanese flavors, blending fresh
+  ingredients with a relaxed atmosphere perfect for casual dining. This sushi
+  restaurant offers an array of options like expertly crafted rolls, poke bowls,
+  and light appetizers, all paired with a selection of beverages to enhance the
+  experience. Patrons appreciate the accessible features, such as
+  wheelchair-friendly entrances and seating, making it a welcoming choice for
+  everyone seeking Japanese places near me. The menu highlights fresh fish and
+  creative dishes that cater to various tastes, ensuring a satisfying meal in a
+  comfortable setting. Whether you're in the mood for top-rated sushi or a quick
+  Japanese-inspired bite, this spot delivers quality and variety that keeps
+  locals coming back.
+generative_summary: >-
+  Discover Jony's Sushi in Columbus, OH$$$Jony's Sushi in Columbus, OH, stands
+  out as a cozy spot for enjoying authentic Japanese flavors, blending fresh
+  ingredients with a relaxed atmosphere perfect for casual dining. This sushi
+  restaurant offers an array of options like expertly crafted rolls, poke bowls,
+  and light appetizers, all paired with a selection of beverages to enhance the
+  experience. Patrons appreciate the accessible features, such as
+  wheelchair-friendly entrances and seating, making it a welcoming choice for
+  everyone seeking Japanese places near me. The menu highlights fresh fish and
+  creative dishes that cater to various tastes, ensuring a satisfying meal in a
+  comfortable setting. Whether you're in the mood for top-rated sushi or a quick
+  Japanese-inspired bite, this spot delivers quality and variety that keeps
+  locals coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ333LX0yJOIgRlnRAQu2EURo/reviews/ChdDSUhNMG9nS0VJQ0FnSURiZ3R1RjlBRRAB
@@ -354,6 +379,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMwdVlENmdRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMwdVlENmdRRRAB!2m1!1s0x8838894c5fcb7ddf:0x1a5184ed42407496
+review_summary: >-
+  What Customers Are Saying$$$Folks who visit this sushi spot often rave about
+  the fresh and flavorful dishes that make every meal feel like a treat, with
+  many highlighting the high-quality fish and unique twists on classics.
+  Reviewers frequently mention the cozy vibe and solid drink options, adding to
+  the overall enjoyable experience without any major drawbacks. It's clear that
+  the convenience of extended hours and the ability to mix in non-sushi items
+  from a neighboring menu appeals to groups with varied preferences, making it a
+  flexible choice for casual outings. Overall, the feedback leans positive, with
+  people appreciating the reliable service and tasty selections that stand out
+  among sushi restaurants in the area. If you're hunting for best sushi near me,
+  this place seems to hit the mark with its consistent appeal and welcoming
+  feel.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options:
   acceptsCreditCards: true
@@ -382,7 +421,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

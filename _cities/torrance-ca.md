@@ -5,4 +5,5 @@ permalink: /california/torrance/
 stateAbbr: CA
 stateName: California
 cityName: Torrance
+
 ---

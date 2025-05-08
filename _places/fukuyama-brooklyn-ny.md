@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Fukuyama"
+title: Fukuyama
 permalink: /new-york/brooklyn/fukuyama.html
 stateAbbr: NY
 stateName: New York
 cityName: Brooklyn
 seo:
-  name: "Fukuyama"
-  type: Restaurant
+  type: restaurant
   links: http://www.fukuyamaasianfusion.com/?utm_source=gmb&utm_medium=website
-description: "Compact, casual Japanese eatery serving sushi & sashimi, plus ramen, teriyaki & more. Fukuyama serves delicious sushi in Brooklyn, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJe6p921lZwokRhA50_MIlfR0
 photos:
   - name: >-
@@ -183,6 +181,29 @@ price_range: $10 &ndash; $20
 rating: '4.1'
 rating_count: 0
 website: http://www.fukuyamaasianfusion.com/?utm_source=gmb&utm_medium=website
+description: >-
+  Explore Fukuyama in Brooklyn, NY$$$Fukuyama in Brooklyn, NY, stands out as a
+  cozy Japanese eatery offering a delightful mix of fresh sushi and hearty ramen
+  options that cater to casual diners seeking authentic flavors. This spot
+  features a variety of dishes like teriyaki and sashimi, making it a go-to
+  choice for those exploring sushi restaurants in the area. With its
+  approachable vibe and focus on quality ingredients, it's perfect for a quick
+  lunch or dinner, emphasizing flavorful broths and well-prepared rolls that
+  highlight the best of Japanese cuisine. The unpretentious setting adds to the
+  charm, providing an accessible option for anyone searching for top-rated sushi
+  nearby, all while maintaining a welcoming atmosphere for everyday meals.
+generative_summary: >-
+  Explore Fukuyama in Brooklyn, NY$$$Fukuyama in Brooklyn, NY, stands out as a
+  cozy Japanese eatery offering a delightful mix of fresh sushi and hearty ramen
+  options that cater to casual diners seeking authentic flavors. This spot
+  features a variety of dishes like teriyaki and sashimi, making it a go-to
+  choice for those exploring sushi restaurants in the area. With its
+  approachable vibe and focus on quality ingredients, it's perfect for a quick
+  lunch or dinner, emphasizing flavorful broths and well-prepared rolls that
+  highlight the best of Japanese cuisine. The unpretentious setting adds to the
+  charm, providing an accessible option for anyone searching for top-rated sushi
+  nearby, all while maintaining a welcoming atmosphere for everyday meals.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJe6p921lZwokRhA50_MIlfR0/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3em9HU2ZBEAE
@@ -364,6 +385,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNKbk9iUnBnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNKbk9iUnBnRRAB!2m1!1s0x89c25959db7daa7b:0x1d7d25c2fc740e84
+review_summary: >-
+  Customer Feedback on Fukuyama$$$Folks often rave about the fresh sushi and
+  tasty ramen at this neighborhood favorite, noting how the dishes deliver great
+  value without skimping on flavor. Many appreciate the affordable prices and
+  generous portions, making it a solid pick for casual meals or takeout when
+  you're in the mood for something satisfying. Reviewers highlight the flavorful
+  broths and creative rolls that stand out, even in a city full of sushi places,
+  while mentioning it's a reliable spot for both solo diners and groups.
+  Overall, the consensus leans positive, with people enjoying the convenience
+  and quality that keep them coming back for more, though it's wise to expect a
+  simple setup better suited for quick visits. If you're hunting for sushi close
+  to you, this place seems to hit the mark with its honest, everyday appeal.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   valetParking: false
 payment_options:
@@ -394,8 +428,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Compact, casual Japanese eatery serving sushi & sashimi, plus ramen, teriyaki
   & more.
 

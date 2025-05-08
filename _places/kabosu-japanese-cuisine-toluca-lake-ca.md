@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kabosu Japanese Cuisine"
+title: Kabosu Japanese Cuisine
 permalink: /california/toluca-lake/kabosu-japanese-cuisine.html
 stateAbbr: CA
 stateName: California
 cityName: Toluca Lake
 seo:
-  name: "Kabosu Japanese Cuisine"
-  type: Restaurant
+  type: restaurant
   links: https://www.yuzuya-corporation.com/
-description: "Casual Japanese eatery with a broad menu of sushi, teriyaki & tempura, plus hot pots. Kabosu Japanese Cuisine serves delicious sushi in Toluca Lake, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJ-_Uz8jG-woARA7ciWzkkvvs
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $50 &ndash; $100
 rating: '4.4'
 rating_count: 0
 website: https://www.yuzuya-corporation.com/
+description: >-
+  Explore Kabosu Japanese Cuisine in Toluca Lake, CA$$$Kabosu Japanese Cuisine
+  in Toluca Lake, CA, stands out as a cozy destination for enjoying fresh sushi
+  and flavorful small plates in a welcoming atmosphere. This spot offers a
+  diverse menu featuring classic options like teriyaki, tempura, and hot pots,
+  making it ideal for those seeking authentic Japanese dining experiences. With
+  its moderate pricing and accessible features, it's a great choice for casual
+  meals or gatherings, appealing to anyone hunting for top-rated sushi
+  restaurants nearby. The emphasis on quality ingredients and a relaxed vibe
+  ensures a satisfying visit, perfect for exploring Japanese places near me that
+  balance tradition with everyday convenience.
+generative_summary: >-
+  Explore Kabosu Japanese Cuisine in Toluca Lake, CA$$$Kabosu Japanese Cuisine
+  in Toluca Lake, CA, stands out as a cozy destination for enjoying fresh sushi
+  and flavorful small plates in a welcoming atmosphere. This spot offers a
+  diverse menu featuring classic options like teriyaki, tempura, and hot pots,
+  making it ideal for those seeking authentic Japanese dining experiences. With
+  its moderate pricing and accessible features, it's a great choice for casual
+  meals or gatherings, appealing to anyone hunting for top-rated sushi
+  restaurants nearby. The emphasis on quality ingredients and a relaxed vibe
+  ensures a satisfying visit, perfect for exploring Japanese places near me that
+  balance tradition with everyday convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ-_Uz8jG-woARA7ciWzkkvvs/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJdFlySE93EAE
@@ -418,6 +439,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNmdjllLVJBEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNmdjllLVJBEAE!2m1!1s0x80c2be31f233f5fb:0xfbbe24395b22b703
+review_summary: >-
+  Insights from Recent Feedback on This Sushi Spot$$$Folks generally appreciate
+  the fresh and flavorful dishes at this sushi restaurant, with many
+  highlighting the variety of small plates and excellent value for the price.
+  While most visitors enjoy the welcoming service and high-quality ingredients
+  that make meals memorable, a few mentions of occasional wait times remind us
+  that busier evenings can vary. Overall, it's praised as a reliable go-to for
+  tasty sushi options, especially for sharing creative rolls and appetizers that
+  keep diners coming back. If you're on the hunt for sushi near me, the positive
+  vibes around the food's taste and atmosphere make it worth trying, though
+  planning ahead for parking might enhance your experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options:
   acceptsCreditCards: true
@@ -447,8 +480,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Casual Japanese eatery with a broad menu of sushi, teriyaki & tempura, plus
   hot pots.
 

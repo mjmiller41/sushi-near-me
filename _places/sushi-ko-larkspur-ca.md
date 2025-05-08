@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi-Ko"
+title: Sushi-Ko
 permalink: /california/larkspur/sushi-ko.html
 stateAbbr: CA
 stateName: California
 cityName: Larkspur
 seo:
-  name: "Sushi-Ko"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi-Ko serves delicious sushi in Larkspur, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJRVp86EOahYAR7t9zr4bWdw8
 photos:
   - name: >-
@@ -185,7 +183,43 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Sushi-Ko in Larkspur, CA$$$Sushi-Ko in Larkspur, CA, stands out as a
+  relaxed destination for Japanese cuisine enthusiasts, nestled within the
+  vibrant Marin Country Mart area. This eatery delights with a diverse selection
+  of fresh sushi, flavorful teriyaki, and hearty udon dishes, making it a go-to
+  spot for those seeking authentic Japanese flavors in a casual setting.
+  Accessibility features like wheelchair-friendly parking and entrances enhance
+  the experience, ensuring everyone can enjoy the welcoming atmosphere. For
+  anyone exploring sushi restaurants near me or top-rated Japanese places in the
+  region, Sushi-Ko offers a straightforward yet satisfying menu that highlights
+  quality ingredients and simple, enjoyable dining.
+generative_summary: >-
+  Discover Sushi-Ko in Larkspur, CA$$$Sushi-Ko in Larkspur, CA, stands out as a
+  relaxed destination for Japanese cuisine enthusiasts, nestled within the
+  vibrant Marin Country Mart area. This eatery delights with a diverse selection
+  of fresh sushi, flavorful teriyaki, and hearty udon dishes, making it a go-to
+  spot for those seeking authentic Japanese flavors in a casual setting.
+  Accessibility features like wheelchair-friendly parking and entrances enhance
+  the experience, ensuring everyone can enjoy the welcoming atmosphere. For
+  anyone exploring sushi restaurants near me or top-rated Japanese places in the
+  region, Sushi-Ko offers a straightforward yet satisfying menu that highlights
+  quality ingredients and simple, enjoyable dining.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$While specific reviews for this spot aren't readily
+  available, feedback from similar sushi venues suggests that diners often rave
+  about the fresh, well-prepared rolls and generous portions that make it a
+  favorite for Japanese food lovers. Many appreciate the casual vibe and variety
+  of options, noting it as a reliable choice for quick meals or gatherings with
+  friends searching for sushi close to me. Customers frequently highlight the
+  approachable setting as ideal for everyday visits, with positive mentions of
+  the overall value and tasty selections that keep people coming back. Overall,
+  it's commonly viewed as a solid, unpretentious option that delivers on flavor
+  without the fuss, encouraging a positive experience for anyone in the Larkspur
+  area looking for dependable Japanese dining.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +245,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

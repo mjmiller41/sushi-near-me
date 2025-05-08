@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "KAZ Sushi Bistro"
+title: KAZ Sushi Bistro
 permalink: /district-of-columbia/washington/kaz-sushi-bistro.html
 stateAbbr: DC
 stateName: District of Columbia
 cityName: Washington
 seo:
-  name: "KAZ Sushi Bistro"
-  type: Restaurant
+  type: restaurant
   links: http://www.kazsushi.com/
-description: "Sushi spot with familiar & specialty Japanese menu options, including chef's tasting menus. KAZ Sushi Bistro serves delicious sushi in Washington, District of Columbia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ36o9Bbq3t4kR66FGn7eZBwI
 photos:
   - name: >-
@@ -183,6 +181,29 @@ price_range: $50 &ndash; $100
 rating: '4.5'
 rating_count: 0
 website: http://www.kazsushi.com/
+description: >-
+  Discover KAZ Sushi Bistro in Washington, DC$$$KAZ Sushi Bistro in Washington,
+  DC, stands out as a cherished spot for enjoying authentic Japanese flavors and
+  innovative twists on classic dishes. This sushi restaurant offers a delightful
+  array of fresh sushi and creative specialties, crafted with high-quality
+  ingredients that highlight the artistry of Japanese cuisine. The relaxed
+  atmosphere provides a comfortable setting for savoring light sides and
+  immersive tasting menus, making it ideal for those seeking a memorable dining
+  experience. With reasonable pricing and a selection of beverages, it's a great
+  choice for casual outings or groups looking for satisfying meals in a
+  welcoming environment.
+generative_summary: >-
+  Discover KAZ Sushi Bistro in Washington, DC$$$KAZ Sushi Bistro in Washington,
+  DC, stands out as a cherished spot for enjoying authentic Japanese flavors and
+  innovative twists on classic dishes. This sushi restaurant offers a delightful
+  array of fresh sushi and creative specialties, crafted with high-quality
+  ingredients that highlight the artistry of Japanese cuisine. The relaxed
+  atmosphere provides a comfortable setting for savoring light sides and
+  immersive tasting menus, making it ideal for those seeking a memorable dining
+  experience. With reasonable pricing and a selection of beverages, it's a great
+  choice for casual outings or groups looking for satisfying meals in a
+  welcoming environment.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ36o9Bbq3t4kR66FGn7eZBwI/reviews/ChdDSUhNMG9nS0VJQ0FnTUNReklQRmd3RRAB
@@ -358,6 +379,17 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURnck5iNzBnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURnck5iNzBnRRAB!2m1!1s0x89b7b7ba053daadf:0x20799b79f46a1eb
+review_summary: >-
+  Insights from Customer Feedback$$$Folks frequently praise the fresh and
+  creative sushi options at this spot, noting the high-quality fish and unique
+  flavors that make every bite exciting. While some mention occasional waits for
+  orders, the helpful staff and cozy vibe keep the overall experience enjoyable
+  and worth the visit. Reviewers often highlight tasty side dishes like seaweed
+  salad and Brussels sprouts, adding to the appeal for anyone craving variety in
+  their meal. Overall, it's seen as one of the top sushi places near me, with
+  many calling it a go-to for delicious, well-prepared Japanese fare that leaves
+  diners satisfied and eager to return.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   valetParking: false
 payment_options:
@@ -388,8 +420,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Sushi spot with familiar & specialty Japanese menu options, including chef's
   tasting menus.
 

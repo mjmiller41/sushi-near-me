@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ru San's"
+title: Ru San's
 permalink: /north-carolina/charlotte/ru-san-s.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Charlotte
 seo:
-  name: "Ru San's"
-  type: Restaurant
+  type: restaurant
   links: http://www.rusans.com/
-description: "Casual Japanese eatery with a large menu including yakitori, creative sushi rolls & seafood. Ru San's serves delicious sushi in Charlotte, North Carolina. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJM1LSIKCfVogRYMBZFPBlvnU
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 0
 website: http://www.rusans.com/
+description: >-
+  Discover Ru San's in Charlotte, NC$$$Ru San's in Charlotte, NC, stands out as
+  a vibrant Japanese restaurant offering a casual dining experience with an
+  extensive array of sushi rolls and fresh seafood options. This spot features
+  an all-you-can-eat menu that includes creative dishes like yakitori and a
+  selection of beverages such as beer, wine, and sake, making it a go-to choice
+  for sushi enthusiasts exploring local Japanese places. Accessibility is a key
+  highlight, with wheelchair-friendly parking, entrances, and seating that
+  enhance the welcoming atmosphere for all visitors. The restaurant's moderate
+  pricing and variety of options, including vegetarian-friendly choices, make it
+  an appealing destination for those seeking flavorful meals in a relaxed
+  setting. Conveniently located in the Dilworth neighborhood, it's an ideal spot
+  for anyone searching for top-rated sushi restaurants near urban hotspots.
+generative_summary: >-
+  Discover Ru San's in Charlotte, NC$$$Ru San's in Charlotte, NC, stands out as
+  a vibrant Japanese restaurant offering a casual dining experience with an
+  extensive array of sushi rolls and fresh seafood options. This spot features
+  an all-you-can-eat menu that includes creative dishes like yakitori and a
+  selection of beverages such as beer, wine, and sake, making it a go-to choice
+  for sushi enthusiasts exploring local Japanese places. Accessibility is a key
+  highlight, with wheelchair-friendly parking, entrances, and seating that
+  enhance the welcoming atmosphere for all visitors. The restaurant's moderate
+  pricing and variety of options, including vegetarian-friendly choices, make it
+  an appealing destination for those seeking flavorful meals in a relaxed
+  setting. Conveniently located in the Dilworth neighborhood, it's an ideal spot
+  for anyone searching for top-rated sushi restaurants near urban hotspots.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJM1LSIKCfVogRYMBZFPBlvnU/reviews/ChdDSUhNMG9nS0VJQ0FnSUR2eWRDTDhBRRAB
@@ -338,6 +363,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURBcmZ5RU1BEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURBcmZ5RU1BEAE!2m1!1s0x88569fa020d25233:0x75be65f01459c060
+review_summary: >-
+  What Customers Are Raving About$$$Folks generally love the fresh and flavorful
+  sushi at this Charlotte favorite, with many highlighting the creative rolls
+  and generous portions that keep them coming back for more. While most
+  experiences praise the tasty tempura, veggie dishes, and overall variety, a
+  few mentions note occasional service slip-ups or temperature issues with
+  certain items, though these seem to be exceptions rather than the norm. The
+  reasonable prices and friendly vibe make it a solid pick for groups or anyone
+  in the mood for a casual meal with drinks like sake or wine. Overall, it's
+  clear that diners appreciate the authentic Japanese flavors and attentive
+  staff, creating a fun atmosphere that balances quality and affordability. If
+  you're on the hunt for reliable sushi spots nearby, this place often delivers
+  a satisfying experience worth trying out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -369,8 +408,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Casual Japanese eatery with a large menu including yakitori, creative sushi
   rolls & seafood.
 

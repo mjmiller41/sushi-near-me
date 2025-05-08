@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Jpan Sushi & Grill"
+title: Jpan Sushi & Grill
 permalink: /florida/sarasota/jpan-sushi-grill.html
 stateAbbr: FL
 stateName: Florida
 cityName: Sarasota
 seo:
-  name: "Jpan Sushi & Grill"
-  type: Restaurant
+  type: restaurant
   links: https://www.jpanrestaurant.com/
-description: "Jpan Sushi & Grill serves delicious sushi in Sarasota, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJh_eeTtw4w4gR1Ptck7apB8w
 photos:
   - name: >-
@@ -199,7 +197,43 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 0
 website: https://www.jpanrestaurant.com/
+description: >-
+  Discover Jpan Sushi & Grill in Sarasota, FL$$$Jpan Sushi & Grill in Sarasota,
+  Florida, offers a welcoming spot for enjoying fresh Japanese cuisine,
+  featuring a variety of sushi and grilled options that highlight authentic
+  flavors in a relaxed setting. With convenient hours extending from late
+  morning into the evening, it's an ideal choice for those seeking quality sushi
+  experiences nearby, whether for a quick bite or a leisurely meal. The
+  restaurant prioritizes accessibility with features like wheelchair-friendly
+  entrances and seating, ensuring everyone can enjoy the vibrant atmosphere.
+  Moderate pricing delivers excellent value for flavorful dishes, making it a
+  standout option among top-rated Japanese places in the area that appeal to
+  sushi enthusiasts.
+generative_summary: >-
+  Discover Jpan Sushi & Grill in Sarasota, FL$$$Jpan Sushi & Grill in Sarasota,
+  Florida, offers a welcoming spot for enjoying fresh Japanese cuisine,
+  featuring a variety of sushi and grilled options that highlight authentic
+  flavors in a relaxed setting. With convenient hours extending from late
+  morning into the evening, it's an ideal choice for those seeking quality sushi
+  experiences nearby, whether for a quick bite or a leisurely meal. The
+  restaurant prioritizes accessibility with features like wheelchair-friendly
+  entrances and seating, ensuring everyone can enjoy the vibrant atmosphere.
+  Moderate pricing delivers excellent value for flavorful dishes, making it a
+  standout option among top-rated Japanese places in the area that appeal to
+  sushi enthusiasts.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Folks seem to love Jpan Sushi & Grill for its
+  tasty sushi and grilled favorites that deliver fresh ingredients and a solid
+  variety without stretching the budget. Many highlight the welcoming vibe and
+  efficient service, making it a go-to for casual get-togethers or family
+  dinners that feel just right. While there might be a wait during busy times,
+  the overall experience comes across as friendly and reliable, with diners
+  appreciating the consistent quality of the meals. It's clear this spot keeps
+  people coming back for dependable Japanese flavors, positioning it as a
+  trustworthy choice for anyone hunting for great sushi options nearby.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +259,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kansai Japanese Steakhouse"
+title: Kansai Japanese Steakhouse
 permalink: /kentucky/elizabethtown/kansai-japanese-steakhouse.html
 stateAbbr: KY
 stateName: Kentucky
 cityName: Elizabethtown
 seo:
-  name: "Kansai Japanese Steakhouse"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Kansai Japanese Steakhouse serves delicious sushi in Elizabethtown, Kentucky. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJqUWRkJLoaIgR2z67n3rsaMU
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8868e892909145a9:0xc568ec7a9fbb3edb!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:30 PM'
+    - 'Tuesday: 11:00 AM – 9:30 PM'
+    - 'Wednesday: 11:00 AM – 9:30 PM'
+    - 'Thursday: 11:00 AM – 9:30 PM'
+    - 'Friday: 11:00 AM – 10:30 PM'
+    - 'Saturday: 11:00 AM – 10:30 PM'
+    - 'Sunday: 11:30 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,51 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
+phone: (270) 982-2200
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.1'
+rating_count: 1433
 website: null
+description: >-
+  Discover Kansai Japanese Steakhouse in Elizabethtown, KY$$$Kansai Japanese
+  Steakhouse in Elizabethtown, KY, stands out as a welcoming spot for enjoying
+  fresh Japanese-inspired dishes in a relaxed setting. This eatery specializes
+  in flavorful sushi rolls and hibachi-style meals, catering to a variety of
+  tastes with options that include plant-based choices for those seeking lighter
+  fare. The atmosphere combines casual vibes with an emphasis on quality
+  ingredients, making it ideal for anyone exploring top-rated Japanese places
+  nearby. Sake selections add to the authentic experience, enhancing meals with
+  traditional beverages that pair perfectly with the menu. Its accessible
+  features ensure a comfortable visit for all, blending convenience with
+  culinary excellence.
+generative_summary: >-
+  Discover Kansai Japanese Steakhouse in Elizabethtown, KY$$$Kansai Japanese
+  Steakhouse in Elizabethtown, KY, stands out as a welcoming spot for enjoying
+  fresh Japanese-inspired dishes in a relaxed setting. This eatery specializes
+  in flavorful sushi rolls and hibachi-style meals, catering to a variety of
+  tastes with options that include plant-based choices for those seeking lighter
+  fare. The atmosphere combines casual vibes with an emphasis on quality
+  ingredients, making it ideal for anyone exploring top-rated Japanese places
+  nearby. Sake selections add to the authentic experience, enhancing meals with
+  traditional beverages that pair perfectly with the menu. Its accessible
+  features ensure a comfortable visit for all, blending convenience with
+  culinary excellence.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying About the Experience$$$Folks heading to sushi spots
+  around Elizabethtown often highlight the consistently fresh flavors and
+  engaging hibachi presentations that make dining here memorable. Many
+  appreciate the solid value for the price, with meals that satisfy without
+  breaking the bank, earning praise for their balance of taste and
+  affordability. While some note occasional waits during peak times, the overall
+  vibe remains upbeat, with diners enjoying the welcoming service and variety of
+  options. The high ratings reflect a general enthusiasm for the vegan-friendly
+  choices and overall quality, making it a reliable pick for groups or solo
+  adventurers. All in all, it's clear that this spot delivers a enjoyable meal
+  that keeps people coming back for more authentic Japanese flavors.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +312,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

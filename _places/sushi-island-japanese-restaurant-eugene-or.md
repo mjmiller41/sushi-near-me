@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Island Japanese Restaurant"
+title: Sushi Island Japanese Restaurant
 permalink: /oregon/eugene/sushi-island-japanese-restaurant.html
 stateAbbr: OR
 stateName: Oregon
 cityName: Eugene
 seo:
-  name: "Sushi Island Japanese Restaurant"
-  type: Restaurant
-  links: https://pos.chowbus.com/online-ordering/store/15424
-description: "Sushi Island Japanese Restaurant serves delicious sushi in Eugene, Oregon. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.sushiislandoregon.com/
 place_id: ChIJu-KaFz8ewVQRWj4obSC55oA
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x54c11e3f179ae2bb:0x80e6b9206d283e5a!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 20
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 20
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 20
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 8:30 PM'
     - 'Tuesday: 11:00 AM – 8:30 PM'
     - 'Wednesday: 11:00 AM – 8:30 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 8:30 PM'
     - 'Saturday: 11:00 AM – 8:30 PM'
     - 'Sunday: 11:00 AM – 8:30 PM'
-  current:
-    - 'Monday: 11:00 AM – 8:30 PM'
-    - 'Tuesday: 11:00 AM – 8:30 PM'
-    - 'Wednesday: 11:00 AM – 8:30 PM'
-    - 'Thursday: 11:00 AM – 8:30 PM'
-    - 'Friday: 11:00 AM – 8:30 PM'
-    - 'Saturday: 11:00 AM – 8:30 PM'
-    - 'Sunday: 11:00 AM – 8:30 PM'
+  nextCloseTime: '2025-05-04T03:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,261 @@ phone: (541) 345-6969
 price_level: PRICE_LEVEL_INEXPENSIVE
 price_range: $10 &ndash; $20
 rating: '4.3'
-rating_count: 0
-website: https://pos.chowbus.com/online-ordering/store/15424
-reviews: null
-parking_options: null
-payment_options: null
+rating_count: 1105
+website: https://www.sushiislandoregon.com/
+description: >-
+  Explore Sushi Island in Eugene, OR$$$Sushi Island Japanese Restaurant in
+  Eugene, OR, provides a casual and inviting spot for enjoying fresh sushi and
+  other Japanese dishes, ideal for lunch or dinner outings. The restaurant
+  features a unique conveyor belt system that lets diners easily select from a
+  variety of flavorful rolls and appetizers, enhancing the overall dining
+  adventure. With its accessible entrance, parking, and seating options, it's
+  designed to welcome everyone looking for a relaxed meal. Operating daily with
+  affordable pricing, this spot stands out as one of the go-to sushi restaurants
+  near you, perfect for those exploring Japanese flavors in a fun, approachable
+  setting.
+generative_summary: >-
+  Explore Sushi Island in Eugene, OR$$$Sushi Island Japanese Restaurant in
+  Eugene, OR, provides a casual and inviting spot for enjoying fresh sushi and
+  other Japanese dishes, ideal for lunch or dinner outings. The restaurant
+  features a unique conveyor belt system that lets diners easily select from a
+  variety of flavorful rolls and appetizers, enhancing the overall dining
+  adventure. With its accessible entrance, parking, and seating options, it's
+  designed to welcome everyone looking for a relaxed meal. Operating daily with
+  affordable pricing, this spot stands out as one of the go-to sushi restaurants
+  near you, perfect for those exploring Japanese flavors in a fun, approachable
+  setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJu-KaFz8ewVQRWj4obSC55oA/reviews/ChZDSUhNMG9nS0VJQ0FnTUNvNC1fOFJnEAE
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        This was a fun experience with sushi going by on a conveyor belt on
+        little plates. You pick what you want. The sushi was fresh and
+        flavorful. Most flavorful sushi was on the red plates. Gives you a
+        chance to try a lot of different kinds of sushi. Four pieces of sushi
+        per plate, so you can share. The only thing is that the dishes are not
+        labeled, so for us being new to this, it was a bit difficult for us to
+        tell which sushi we were trying so we could remember for the future. We
+        tried to match what we picked to the pictures in the menu, but we
+        weren't always right. The server was able to tell us the name after we
+        picked. We will definitely come here again. It is close to an EV charger
+        in the Fred Meyer parking lot. We had mostly red plates, which are the
+        most expensive, and still ate there very reasonably.
+      languageCode: en
+    originalText:
+      text: >-
+        This was a fun experience with sushi going by on a conveyor belt on
+        little plates. You pick what you want. The sushi was fresh and
+        flavorful. Most flavorful sushi was on the red plates. Gives you a
+        chance to try a lot of different kinds of sushi. Four pieces of sushi
+        per plate, so you can share. The only thing is that the dishes are not
+        labeled, so for us being new to this, it was a bit difficult for us to
+        tell which sushi we were trying so we could remember for the future. We
+        tried to match what we picked to the pictures in the menu, but we
+        weren't always right. The server was able to tell us the name after we
+        picked. We will definitely come here again. It is close to an EV charger
+        in the Fred Meyer parking lot. We had mostly red plates, which are the
+        most expensive, and still ate there very reasonably.
+      languageCode: en
+    authorAttribution:
+      displayName: Jennifer Thoene
+      uri: https://www.google.com/maps/contrib/100384608953006968610/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLTWF7_vH4nQo_9Zn2AowAMcwxoi9A75aAOO2LY13gQ4kFX9w=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-19T15:42:57.602905Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNvNC1fOFJnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNvNC1fOFJnEAE!2m1!1s0x54c11e3f179ae2bb:0x80e6b9206d283e5a
+  - name: >-
+      places/ChIJu-KaFz8ewVQRWj4obSC55oA/reviews/ChdDSUhNMG9nS0VJQ0FnTUNBeUxLZXFBRRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        I loved Sushi Island! The sushi rolls were delicious! They all looked so
+        beautiful, so it was difficult to know which ones to choose! It was very
+        fun to do the conveyer belt thing, and I would highly recommend it for a
+        fun get together. The service was also very friendly and helpful.
+      languageCode: en
+    originalText:
+      text: >-
+        I loved Sushi Island! The sushi rolls were delicious! They all looked so
+        beautiful, so it was difficult to know which ones to choose! It was very
+        fun to do the conveyer belt thing, and I would highly recommend it for a
+        fun get together. The service was also very friendly and helpful.
+      languageCode: en
+    authorAttribution:
+      displayName: Jessica G
+      uri: https://www.google.com/maps/contrib/107074199697334856045/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJKWzrX7mOTsUhQyb9mluVl0wxL4_MXrbthR15DktIxG5tJgg=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-01-29T06:09:08.603787Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNBeUxLZXFBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNBeUxLZXFBRRAB!2m1!1s0x54c11e3f179ae2bb:0x80e6b9206d283e5a
+  - name: >-
+      places/ChIJu-KaFz8ewVQRWj4obSC55oA/reviews/ChdDSUhNMG9nS0VJQ0FnSUNUaHE2aXRBRRAB
+    relativePublishTimeDescription: 10 months ago
+    rating: 5
+    text:
+      text: >-
+        First time here. Really enjoyed the sashimi platter. The rotating belt
+        of different sushi was pretty cool too. Haven’t seen that anywhere.
+        Overall this place was very enjoyable. Can’t leave out the miso soup. 
+        Tons of flavor just like the sushi. And for the price, I don’t think you
+        can beat it. Give them a try if you haven’t been here! Hope you enjoy it
+        as much as I did.
+      languageCode: en
+    originalText:
+      text: >-
+        First time here. Really enjoyed the sashimi platter. The rotating belt
+        of different sushi was pretty cool too. Haven’t seen that anywhere.
+        Overall this place was very enjoyable. Can’t leave out the miso soup. 
+        Tons of flavor just like the sushi. And for the price, I don’t think you
+        can beat it. Give them a try if you haven’t been here! Hope you enjoy it
+        as much as I did.
+      languageCode: en
+    authorAttribution:
+      displayName: Damac (U. S. Traveler)
+      uri: https://www.google.com/maps/contrib/102487123949299897868/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjV3NJEHZaeilJGxM9L0MiVHurCxaB2XkJmD2Jad72rn0Gsy4zwR=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-06-10T10:16:33.185645Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNUaHE2aXRBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNUaHE2aXRBRRAB!2m1!1s0x54c11e3f179ae2bb:0x80e6b9206d283e5a
+  - name: >-
+      places/ChIJu-KaFz8ewVQRWj4obSC55oA/reviews/ChZDSUhNMG9nS0VJQ0FnSURieFliX1ZnEAE
+    relativePublishTimeDescription: 8 months ago
+    rating: 2
+    text:
+      text: >-
+        If you’re looking for a place to enjoy sushi in a more casual setting,
+        this restaurant might be worth a visit. The owner doesn’t have a deep
+        understanding of sushi, so don’t expect high-quality sushi here.
+        However, if you’re just looking to have a California roll or similar
+        types of sushi, it should be fine.
+
+        In terms of traditional sushi, the rice is too sticky and resembles
+        mochi, and the texture and freshness of the fish aren’t great. The
+        tempura also reflects a lack of understanding of Japanese cuisine. The
+        miso soup is made from an instant packet.
+
+        I wouldn’t recommend this place to those who have a good understanding
+        of Japanese sushi or tempura. I don’t plan to visit this place again.
+      languageCode: en
+    originalText:
+      text: >-
+        If you’re looking for a place to enjoy sushi in a more casual setting,
+        this restaurant might be worth a visit. The owner doesn’t have a deep
+        understanding of sushi, so don’t expect high-quality sushi here.
+        However, if you’re just looking to have a California roll or similar
+        types of sushi, it should be fine.
+
+        In terms of traditional sushi, the rice is too sticky and resembles
+        mochi, and the texture and freshness of the fish aren’t great. The
+        tempura also reflects a lack of understanding of Japanese cuisine. The
+        miso soup is made from an instant packet.
+
+        I wouldn’t recommend this place to those who have a good understanding
+        of Japanese sushi or tempura. I don’t plan to visit this place again.
+      languageCode: en
+    authorAttribution:
+      displayName: Kai Dwd
+      uri: https://www.google.com/maps/contrib/109334135779725075329/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUD9T-AJCe55WAcirrc2ysnyVt7GukLNal7VOvkYyWakZMDLUyz=s128-c0x00000000-cc-rp-mo-ba7
+    publishTime: '2024-08-07T11:59:59.012012Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURieFliX1ZnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURieFliX1ZnEAE!2m1!1s0x54c11e3f179ae2bb:0x80e6b9206d283e5a
+  - name: >-
+      places/ChIJu-KaFz8ewVQRWj4obSC55oA/reviews/ChdDSUhNMG9nS0VJQ0FnSURmdnJxenBBRRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 3
+    text:
+      text: >-
+        It was fine. My kids aren't picky on sushi at all and there was a couple
+        pieces that they wouldn't finish. There was also a lot of spicy sauce on
+        stuff. Which is fine but some people just don't love everything spicy.
+        We couldn't get the waitress to come refill my sons cup. We also went at
+        lunch when it was busy and the conveyor was not getting refilled very
+        quickly. I am not sure we will be back.
+      languageCode: en
+    originalText:
+      text: >-
+        It was fine. My kids aren't picky on sushi at all and there was a couple
+        pieces that they wouldn't finish. There was also a lot of spicy sauce on
+        stuff. Which is fine but some people just don't love everything spicy.
+        We couldn't get the waitress to come refill my sons cup. We also went at
+        lunch when it was busy and the conveyor was not getting refilled very
+        quickly. I am not sure we will be back.
+      languageCode: en
+    authorAttribution:
+      displayName: Stefen Bolander
+      uri: https://www.google.com/maps/contrib/100196368174865877708/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUqNYNYuvrG_nV9uqipVr9rflJXM5KPAKOmQodmxmQZKD4XMlkV=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-01-07T00:15:01.887700Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURmdnJxenBBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURmdnJxenBBRRAB!2m1!1s0x54c11e3f179ae2bb:0x80e6b9206d283e5a
+review_summary: >-
+  Visitor Feedback Highlights$$$Folks generally enjoy the lively conveyor belt
+  experience at this sushi spot, making it a fun way to try a range of fresh and
+  tasty rolls without the wait. Many appreciate the reasonable prices and
+  variety of options, which make it a solid pick for casual get-togethers or
+  family meals. While some mention occasional service slowdowns during peak
+  times or preferences for less spicy choices, the overall vibe remains
+  welcoming and enjoyable. It's praised for offering good value and a chance to
+  sample different flavors, helping it earn high marks as one of the top-rated
+  sushi places in the area. If you're searching for sushi near me, this location
+  often delivers a satisfying experience worth checking out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: false
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: false
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Sushi & maki are the specialties of this bright, simple Japanese eatery with
+  some kitchen entrees.
 
 ---

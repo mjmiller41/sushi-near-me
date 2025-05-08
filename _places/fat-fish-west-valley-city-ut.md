@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Fat Fish"
+title: Fat Fish
 permalink: /utah/west-valley-city/fat-fish.html
 stateAbbr: UT
 stateName: Utah
 cityName: West Valley City
 seo:
-  name: "Fat Fish"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Fat Fish serves delicious sushi in West Valley City, Utah. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJawhcV2SLUocRLqRgw99Mkfc
 photos:
   - name: >-
@@ -185,7 +183,41 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Fat Fish in West Valley City, UT$$$Fat Fish in West Valley City, UT,
+  stands out as a welcoming sushi restaurant that blends fresh flavors with a
+  modern dining atmosphere. This spot offers an array of creative sushi rolls
+  and other Asian-inspired dishes, making it a go-to choice for those seeking
+  quality options in the area. With its sleek ambiance and commitment to
+  accessibility features like wheelchair-friendly entrances and seating, it
+  caters to a wide range of diners looking for an inclusive experience. Whether
+  you're exploring sushi restaurants nearby or craving top-rated
+  Japanese-inspired meals, Fat Fish delivers on fresh ingredients and thoughtful
+  presentation to enhance every visit.
+generative_summary: >-
+  Discover Fat Fish in West Valley City, UT$$$Fat Fish in West Valley City, UT,
+  stands out as a welcoming sushi restaurant that blends fresh flavors with a
+  modern dining atmosphere. This spot offers an array of creative sushi rolls
+  and other Asian-inspired dishes, making it a go-to choice for those seeking
+  quality options in the area. With its sleek ambiance and commitment to
+  accessibility features like wheelchair-friendly entrances and seating, it
+  caters to a wide range of diners looking for an inclusive experience. Whether
+  you're exploring sushi restaurants nearby or craving top-rated
+  Japanese-inspired meals, Fat Fish delivers on fresh ingredients and thoughtful
+  presentation to enhance every visit.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Diners Are Buzzing About$$$People often praise the flavorful dishes at
+  this sushi spot, highlighting tasty pho and inventive rolls that bring a fun
+  twist to classic favorites. Standout appetizers like firecracker calamari add
+  an exciting kick, making meals feel fresh and memorable without overwhelming
+  the palate. Service stands out as warm and attentive, helping create a relaxed
+  vibe that keeps guests coming back for casual outings. Overall, the elegant
+  setting adds a nice touch, making it a solid pick for anyone hunting for great
+  sushi experiences nearby, though it's wise to note that variety in options
+  keeps things interesting for different tastes.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +243,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

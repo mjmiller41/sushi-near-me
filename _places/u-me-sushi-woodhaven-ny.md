@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "U-Me Sushi"
+title: U-Me Sushi
 permalink: /new-york/woodhaven/u-me-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: Woodhaven
 seo:
-  name: "U-Me Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://umesushiqueens.com/
-description: "U-Me Sushi serves delicious sushi in Woodhaven, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJncjM5PxdwokR9tFh1SRh_Go
 photos:
   - name: >-
@@ -184,6 +182,29 @@ price_range: $10 &ndash; $20
 rating: '4.2'
 rating_count: 0
 website: https://umesushiqueens.com/
+description: >-
+  Discover U-Me Sushi in Woodhaven, NY$$$U-Me Sushi in Woodhaven, NY, stands out
+  as a welcoming Japanese restaurant serving fresh sushi rolls, teriyaki, and
+  hibachi options in a casual, relaxed atmosphere. This spot emphasizes
+  accessibility with features like wheelchair-friendly entrances and seating,
+  making it easy for everyone to enjoy a meal without hassle. With moderate
+  pricing that keeps things affordable yet satisfying, it's ideal for those
+  exploring sushi restaurants near me who appreciate quality ingredients and a
+  laid-back vibe. The menu highlights a variety of Japanese dishes that cater to
+  different tastes, from light bites to hearty meals, perfect for anyone seeking
+  top-rated sushi in a neighborhood setting.
+generative_summary: >-
+  Discover U-Me Sushi in Woodhaven, NY$$$U-Me Sushi in Woodhaven, NY, stands out
+  as a welcoming Japanese restaurant serving fresh sushi rolls, teriyaki, and
+  hibachi options in a casual, relaxed atmosphere. This spot emphasizes
+  accessibility with features like wheelchair-friendly entrances and seating,
+  making it easy for everyone to enjoy a meal without hassle. With moderate
+  pricing that keeps things affordable yet satisfying, it's ideal for those
+  exploring sushi restaurants near me who appreciate quality ingredients and a
+  laid-back vibe. The menu highlights a variety of Japanese dishes that cater to
+  different tastes, from light bites to hearty meals, perfect for anyone seeking
+  top-rated sushi in a neighborhood setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJncjM5PxdwokR9tFh1SRh_Go/reviews/ChZDSUhNMG9nS0VJQ0FnSUNYOWFXNEdnEAE
@@ -347,6 +368,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURKNzRlVmZREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURKNzRlVmZREAE!2m1!1s0x89c25dfce4ccc89d:0x6afc6124d561d1f6
+review_summary: >-
+  What Customers Are Saying About U-Me Sushi$$$Folks often rave about the fresh
+  and flavorful sushi that hits the spot without breaking the bank, making it a
+  solid pick for anyone hunting for great Japanese eats nearby. Many highlight
+  the friendly service and welcoming feel that turn first-timers into regulars,
+  with comments on how the overall experience feels inviting and reliable.
+  Reviewers frequently mention the value for money, noting that meals are
+  delicious and satisfying for the price, which keeps people coming back week
+  after week. If you're on the lookout for sushi places near me that deliver on
+  taste and atmosphere, this spot gets consistent nods for its approachable vibe
+  and tasty options. All in all, it's a go-to choice that leaves diners feeling
+  pleased and eager to return for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: false
   freeStreetParking: true
@@ -380,7 +414,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: null
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

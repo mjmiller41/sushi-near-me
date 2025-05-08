@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sora Japanese Cuisine & Sushi"
+title: Sora Japanese Cuisine & Sushi
 permalink: /new-jersey/newark/sora-japanese-cuisine-sushi.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Newark
 seo:
-  name: "Sora Japanese Cuisine & Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sora Japanese Cuisine & Sushi serves delicious sushi in Newark, New Jersey. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJk4gApe9SwokRIeNeVPo-z98
 photos:
   - name: >-
@@ -143,7 +141,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICssuP0YQ!2e10!4m2!3m1!1s0x89c252efa5008893:0xdfcf3efa545ee321
 address: Terminal B, 3 Brewster Rd, Newark, NJ 07114, USA
-street: Terminal B, 3 Brewster Rd
+street: Terminal B,3 Brewster Rd
 city: Newark
 state: NJ
 zip: '07114'
@@ -166,8 +164,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c252efa5008893:0xdfcf3efa545ee321!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 4
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 4
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 4
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 4
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 4
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 4
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 4
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 4:00 AM – 9:00 PM'
+    - 'Tuesday: 4:00 AM – 9:00 PM'
+    - 'Wednesday: 4:00 AM – 9:00 PM'
+    - 'Thursday: 4:00 AM – 9:00 PM'
+    - 'Friday: 4:00 AM – 9:00 PM'
+    - 'Saturday: 4:00 AM – 9:00 PM'
+    - 'Sunday: 4:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T01:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -175,13 +238,50 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
+phone: (973) 242-0548
 price_level: null
 price_range: null
-rating: null
-rating_count: 0
+rating: '2.1'
+rating_count: 335
 website: null
+description: >-
+  Discover Sora Japanese Cuisine & Sushi in Newark, NJ$$$Sora Japanese Cuisine &
+  Sushi in Newark, NJ, stands out as a convenient spot for travelers seeking
+  authentic Japanese flavors right in the airport terminal. This casual eatery
+  specializes in a variety of fresh sushi rolls and other traditional dishes,
+  paired with a selection of beers, wines, and sake to enhance your dining
+  experience. The atmosphere is relaxed and ideal for a quick meal or a break
+  between flights, offering a taste of Japan without straying far from sushi
+  spots near you. With its extended hours from early morning to evening, it's a
+  reliable choice for those exploring top-rated sushi options in the area,
+  blending convenience with flavorful bites that capture the essence of Japanese
+  cuisine.
+generative_summary: >-
+  Discover Sora Japanese Cuisine & Sushi in Newark, NJ$$$Sora Japanese Cuisine &
+  Sushi in Newark, NJ, stands out as a convenient spot for travelers seeking
+  authentic Japanese flavors right in the airport terminal. This casual eatery
+  specializes in a variety of fresh sushi rolls and other traditional dishes,
+  paired with a selection of beers, wines, and sake to enhance your dining
+  experience. The atmosphere is relaxed and ideal for a quick meal or a break
+  between flights, offering a taste of Japan without straying far from sushi
+  spots near you. With its extended hours from early morning to evening, it's a
+  reliable choice for those exploring top-rated sushi options in the area,
+  blending convenience with flavorful bites that capture the essence of Japanese
+  cuisine.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Diners at Sora$$$Visitors to this sushi spot often highlight the
+  fresh rolls and handy charging stations, making it a practical pick for
+  airport stops where you can grab a bite and stay powered up. While some
+  mention that prices might run a bit higher than expected, many still find it a
+  worthwhile option for its convenience and solid selection of dishes. The
+  service can occasionally feel slower during busy times, but folks appreciate
+  the overall effort to deliver tasty meals in a pinch. Overall, it's a go-to
+  for sushi lovers on the move, offering a balanced experience that keeps things
+  positive despite minor hiccups, ensuring you leave satisfied with your choice
+  for Japanese eats nearby.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -207,7 +307,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

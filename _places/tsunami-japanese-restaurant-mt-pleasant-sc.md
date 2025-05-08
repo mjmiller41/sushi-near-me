@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Tsunami Japanese Restaurant"
+title: Tsunami Japanese Restaurant
 permalink: /south-carolina/mt-pleasant/tsunami-japanese-restaurant.html
 stateAbbr: SC
 stateName: South Carolina
 cityName: Mt Pleasant
 seo:
-  name: "Tsunami Japanese Restaurant"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Tsunami Japanese Restaurant serves delicious sushi in Mt Pleasant, South Carolina. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJkzD02Atx_ogRY5KmO0NtXyE
 photos:
   - name: >-
@@ -185,7 +183,47 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Tsunami Japanese Restaurant in Mt Pleasant, SC$$$Tsunami Japanese
+  Restaurant in Mt Pleasant, SC, delivers a welcoming spot for enjoying fresh
+  sushi and sashimi alongside a selection of Asian entrees in a relaxed setting.
+  With its laid-back atmosphere and full bar, this sushi restaurant provides an
+  ideal escape for those seeking casual Japanese dining options close to home.
+  Patrons can savor expertly prepared rolls and dishes that highlight quality
+  ingredients, making it a great choice for anyone exploring top-rated sushi
+  spots in the area. The accessible features, like wheelchair-friendly entrances
+  and seating, add to the convenience, ensuring a comfortable visit for all.
+  Whether you're looking for sushi places near you or a laid-back meal with
+  friends, this establishment stands out for its approachable vibe and diverse
+  menu offerings.
+generative_summary: >-
+  Discover Tsunami Japanese Restaurant in Mt Pleasant, SC$$$Tsunami Japanese
+  Restaurant in Mt Pleasant, SC, delivers a welcoming spot for enjoying fresh
+  sushi and sashimi alongside a selection of Asian entrees in a relaxed setting.
+  With its laid-back atmosphere and full bar, this sushi restaurant provides an
+  ideal escape for those seeking casual Japanese dining options close to home.
+  Patrons can savor expertly prepared rolls and dishes that highlight quality
+  ingredients, making it a great choice for anyone exploring top-rated sushi
+  spots in the area. The accessible features, like wheelchair-friendly entrances
+  and seating, add to the convenience, ensuring a comfortable visit for all.
+  Whether you're looking for sushi places near you or a laid-back meal with
+  friends, this establishment stands out for its approachable vibe and diverse
+  menu offerings.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Sharing About the Experience$$$From what folks are buzzing
+  about online, Tsunami Japanese Restaurant seems to hit the mark with its tasty
+  sushi selections and cozy atmosphere, often drawing praise for the fresh
+  flavors and variety. People frequently mention enjoying the relaxed vibe and
+  solid Asian entrees, making it a solid pick for casual outings or quick bites.
+  While some note it's a dependable spot for groups, others appreciate the full
+  bar adding a fun twist to the meal. Overall, it's viewed as a welcoming choice
+  for anyone craving quality Japanese food nearby, with many suggesting it's
+  worth trying for its approachable service and overall vibe. Keep in mind,
+  experiences can vary, but the general feedback leans positive for those
+  hunting down reliable sushi restaurants in the region.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +249,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

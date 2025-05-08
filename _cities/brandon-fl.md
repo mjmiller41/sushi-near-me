@@ -5,4 +5,5 @@ permalink: /florida/brandon/
 stateAbbr: FL
 stateName: Florida
 cityName: Brandon
+
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yuno"
+title: Yuno
 permalink: /tennessee/nolensville/yuno.html
 stateAbbr: TN
 stateName: Tennessee
 cityName: Nolensville
 seo:
-  name: "Yuno"
-  type: Restaurant
+  type: restaurant
   links: http://www.yunosushi.com/
-description: "Down-to-earth venue for specialty sushi rolls, plus other Japanese & Korean fare. Yuno serves delicious sushi in Nolensville, Tennessee. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJU7QHp0hxZIgRo8Fr2CdRFQY
 photos:
   - name: >-
@@ -143,7 +141,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC26pDAfQ!2e10!4m2!3m1!1s0x88647148a707b453:0x6155127d86bc1a3
 address: Brittain Lane, 7175 Nolensville Rd, Nolensville, TN 37135, USA
-street: Brittain Lane, 7175 Nolensville Rd
+street: Brittain Lane,7175 Nolensville Rd
 city: Nolensville
 state: TN
 zip: '37135'
@@ -185,6 +183,31 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 0
 website: http://www.yunosushi.com/
+description: >-
+  Discover Yuno in Nolensville, TN$$$Yuno in Nolensville, TN, stands out as a
+  welcoming Japanese restaurant serving a mix of fresh sushi, hibachi, and
+  tempura options that appeal to those seeking authentic Asian flavors. This
+  casual spot emphasizes accessibility with features like wheelchair-friendly
+  parking and seating, making it easy for everyone to enjoy a relaxed meal.
+  Diners can explore a variety of Japanese fare at moderate prices, including
+  satisfying lunch combos and outdoor seating for a pleasant dining experience.
+  The menu highlights fresh ingredients and thoughtful dishes, perfect for
+  anyone looking for sushi restaurants near me in a laid-back setting. Overall,
+  it's an ideal choice for those exploring top-rated Japanese places near me,
+  blending simplicity with flavorful options.
+generative_summary: >-
+  Discover Yuno in Nolensville, TN$$$Yuno in Nolensville, TN, stands out as a
+  welcoming Japanese restaurant serving a mix of fresh sushi, hibachi, and
+  tempura options that appeal to those seeking authentic Asian flavors. This
+  casual spot emphasizes accessibility with features like wheelchair-friendly
+  parking and seating, making it easy for everyone to enjoy a relaxed meal.
+  Diners can explore a variety of Japanese fare at moderate prices, including
+  satisfying lunch combos and outdoor seating for a pleasant dining experience.
+  The menu highlights fresh ingredients and thoughtful dishes, perfect for
+  anyone looking for sushi restaurants near me in a laid-back setting. Overall,
+  it's an ideal choice for those exploring top-rated Japanese places near me,
+  blending simplicity with flavorful options.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJU7QHp0hxZIgRo8Fr2CdRFQY/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRbmRLNENnEAE
@@ -336,6 +359,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQzc3FUdlZnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQzc3FUdlZnEAE!2m1!1s0x88647148a707b453:0x6155127d86bc1a3
+review_summary: >-
+  What Visitors Are Saying$$$Folks often rave about the tasty sushi and
+  well-prepared Japanese dishes at this spot, noting that the lunch specials
+  offer great value and leave you feeling satisfied. Many appreciate the
+  attentive service and quick pacing during less busy times, which helps make
+  the overall experience enjoyable and efficient. While some mention that things
+  can slow down when the place gets crowded, the food's flavors and portions
+  generally hit the mark, with highlights like flavorful ramen and tempura
+  keeping things positive. It's commonly described as a solid option for casual
+  meals, especially if you're hunting for reliable sushi close to me. All in
+  all, visitors find it a welcoming choice for everyday dining, with the
+  friendly vibe and tasty selections making it worth a return visit.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -368,8 +404,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Down-to-earth venue for specialty sushi rolls, plus other Japanese & Korean
   fare.
 

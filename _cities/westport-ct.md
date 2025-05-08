@@ -5,4 +5,5 @@ permalink: /connecticut/westport/
 stateAbbr: CT
 stateName: Connecticut
 cityName: Westport
+
 ---

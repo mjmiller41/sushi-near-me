@@ -5,4 +5,5 @@ permalink: /new-jersey/rutherford/
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Rutherford
+
 ---

@@ -5,4 +5,5 @@ permalink: /rhode-island/providence/
 stateAbbr: RI
 stateName: Rhode Island
 cityName: Providence
+
 ---

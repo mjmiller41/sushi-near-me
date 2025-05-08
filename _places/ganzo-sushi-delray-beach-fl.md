@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ganzo Sushi"
+title: Ganzo Sushi
 permalink: /florida/delray-beach/ganzo-sushi.html
 stateAbbr: FL
 stateName: Florida
 cityName: Delray Beach
 seo:
-  name: "Ganzo Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://ganzodelray.com/
-description: "Ganzo Sushi serves delicious sushi in Delray Beach, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJV6Bs3WIZ2YgRBnJ1yx3SJoY
 photos:
   - name: >-
@@ -143,7 +141,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICRrpCNvAE!2e10!4m2!3m1!1s0x88d91962dd6ca057:0x8626d21dcb757206
 address: 'Delray Marketplace, 14811 Lyons Rd #106, Delray Beach, FL 33446, USA'
-street: 'Delray Marketplace, 14811 Lyons Rd #106'
+street: 'Delray Marketplace,14811 Lyons Rd #106'
 city: Delray Beach
 state: FL
 zip: '33446'
@@ -185,6 +183,27 @@ price_range: null
 rating: '4.3'
 rating_count: 0
 website: http://ganzodelray.com/
+description: >-
+  Discover Ganzo Sushi in Delray Beach$$$Ganzo Sushi in Delray Beach, FL, stands
+  out as a go-to spot for fresh and creative Japanese cuisine in a lively
+  setting. This sushi restaurant features a wide array of rolls and dishes made
+  with high-quality ingredients that deliver bold flavors and satisfying options
+  for every palate. Patrons appreciate the welcoming vibe and attentive service
+  that enhance the overall dining experience, making it ideal for casual meals
+  or gatherings. With its convenient location in a bustling area, it's perfect
+  for those seeking top-rated sushi restaurants nearby, offering a balance of
+  taste and accessibility that keeps visitors coming back.
+generative_summary: >-
+  Discover Ganzo Sushi in Delray Beach$$$Ganzo Sushi in Delray Beach, FL, stands
+  out as a go-to spot for fresh and creative Japanese cuisine in a lively
+  setting. This sushi restaurant features a wide array of rolls and dishes made
+  with high-quality ingredients that deliver bold flavors and satisfying options
+  for every palate. Patrons appreciate the welcoming vibe and attentive service
+  that enhance the overall dining experience, making it ideal for casual meals
+  or gatherings. With its convenient location in a bustling area, it's perfect
+  for those seeking top-rated sushi restaurants nearby, offering a balance of
+  taste and accessibility that keeps visitors coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJV6Bs3WIZ2YgRBnJ1yx3SJoY/reviews/ChdDSUhNMG9nS0VJQ0FnSURQM1Bhb3dnRRAB
@@ -326,6 +345,17 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN2ajVfRnRnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN2ajVfRnRnRRAB!2m1!1s0x88d91962dd6ca057:0x8626d21dcb757206
+review_summary: >-
+  What Customers Are Saying$$$Folks rave about the fresh and flavorful sushi at
+  this spot, with many highlighting the variety of rolls that hit the spot every
+  time. Service tends to be friendly and efficient, though it can get a little
+  uneven on busier nights, adding a real-world touch to the experience.
+  Reviewers often note the great value for the price, especially in such a
+  convenient location with easy parking, making it a solid choice for a quick or
+  relaxed meal. Overall, it's a favorite for sushi enthusiasts looking for
+  quality dishes and a welcoming atmosphere, with positive vibes outweighing any
+  minor hiccups.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -357,7 +387,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

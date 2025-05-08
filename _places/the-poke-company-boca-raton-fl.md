@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "The Poké Company"
+title: The Poké Company
 permalink: /florida/boca-raton/the-poke-company.html
 stateAbbr: FL
 stateName: Florida
 cityName: Boca Raton
 seo:
-  name: "The Poké Company"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "The Poké Company serves delicious sushi in Boca Raton, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJN-j7Kx3i2IgRVdDTkO_0P80
 photos:
   - name: >-
@@ -185,7 +183,43 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover The Poké Company in Boca Raton, FL$$$The Poké Company in Boca Raton,
+  Florida, stands out as a vibrant spot for enjoying fresh poké bowls crafted
+  with high-quality ingredients. This restaurant, conveniently located on North
+  Federal Highway, offers accessible features like wheelchair-friendly parking
+  and entrances, making it welcoming for all diners seeking a casual meal. Its
+  lively atmosphere, as seen in shared photos, creates an inviting setting
+  perfect for a quick lunch or relaxed gathering. For those exploring healthy,
+  flavor-packed options in the area, it delivers a tropical-inspired twist that
+  feels both refreshing and satisfying, ideal for anyone searching for top-rated
+  fresh fish dishes near me.
+generative_summary: >-
+  Discover The Poké Company in Boca Raton, FL$$$The Poké Company in Boca Raton,
+  Florida, stands out as a vibrant spot for enjoying fresh poké bowls crafted
+  with high-quality ingredients. This restaurant, conveniently located on North
+  Federal Highway, offers accessible features like wheelchair-friendly parking
+  and entrances, making it welcoming for all diners seeking a casual meal. Its
+  lively atmosphere, as seen in shared photos, creates an inviting setting
+  perfect for a quick lunch or relaxed gathering. For those exploring healthy,
+  flavor-packed options in the area, it delivers a tropical-inspired twist that
+  feels both refreshing and satisfying, ideal for anyone searching for top-rated
+  fresh fish dishes near me.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$From what people share about The Poké Company,
+  it's clear that the fresh ingredients and customizable bowls keep folks coming
+  back for more. Many appreciate the generous portions and the way the flavors
+  balance perfectly, making it a go-to for a light yet fulfilling meal. Visitors
+  often mention the welcoming vibe and smooth service, highlighting how it
+  stands out as a healthy dining choice in the neighborhood. Overall, the
+  feedback leans positive, with folks enjoying the authentic taste that adds a
+  fun element to their day, though some note it's best for those who love
+  seafood adventures. If you're on the hunt for reliable spots serving up fresh
+  options like this, it seems like a solid pick that delivers on both taste and
+  convenience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +245,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

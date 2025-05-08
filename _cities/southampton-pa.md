@@ -5,4 +5,5 @@ permalink: /pennsylvania/southampton/
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Southampton
+
 ---

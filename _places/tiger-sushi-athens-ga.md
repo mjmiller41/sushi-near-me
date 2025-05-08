@@ -1,15 +1,14 @@
 ---
 layout: place
-title: "Tiger Sushi"
+title: Tiger Sushi
 permalink: /georgia/athens/tiger-sushi.html
 stateAbbr: GA
 stateName: Georgia
 cityName: Athens
 seo:
-  name: "Tiger Sushi"
-  type: Restaurant
-  links: null
-description: "Tiger Sushi serves delicious sushi in Athens, Georgia. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: >-
+    https://www.instagram.com/tigersushi_athens/profilecard/?igsh=MXY3anIxeGVhaHE1NA==
 place_id: ChIJUatpTc1t9ogRuhoFcMx6Uvs
 photos:
   - name: >-
@@ -169,8 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x88f66dcd4d69ab51:0xfb527acc70051aba!10e5
 primary_type: Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:30 AM – 10:00 PM'
+    - 'Tuesday: 11:30 AM – 10:00 PM'
+    - 'Wednesday: Closed'
+    - 'Thursday: 11:30 AM – 10:00 PM'
+    - 'Friday: 11:30 AM – 10:00 PM'
+    - 'Saturday: 11:30 AM – 10:00 PM'
+    - 'Sunday: 11:30 AM – 10:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -178,13 +234,54 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
+phone: (706) 521-8434
 price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+price_range: $20 &ndash; $30
+rating: '4.5'
+rating_count: 115
+website: >-
+  https://www.instagram.com/tigersushi_athens/profilecard/?igsh=MXY3anIxeGVhaHE1NA==
+description: >-
+  Explore Tiger Sushi in Athens, GA$$$Tiger Sushi in Athens, GA, stands out as a
+  vibrant sushi restaurant offering a delightful array of fresh
+  Japanese-inspired dishes that cater to a variety of tastes. This spot is known
+  for its extensive selection of sushi and sashimi, complemented by creative
+  non-sushi options like fresh salads and hearty rice bowls, all served in a
+  lively atmosphere that adds to the dining experience. With accessibility
+  features such as wheelchair-friendly parking and entrances, it's an inclusive
+  choice for everyone looking for quality meals in a welcoming setting. The
+  restaurant maintains convenient hours, making it easy to stop by for lunch or
+  dinner, especially for those searching for top-rated sushi options nearby. Its
+  focus on fresh ingredients and reasonable pricing ensures a satisfying visit
+  for anyone exploring sushi restaurants in the area.
+generative_summary: >-
+  Explore Tiger Sushi in Athens, GA$$$Tiger Sushi in Athens, GA, stands out as a
+  vibrant sushi restaurant offering a delightful array of fresh
+  Japanese-inspired dishes that cater to a variety of tastes. This spot is known
+  for its extensive selection of sushi and sashimi, complemented by creative
+  non-sushi options like fresh salads and hearty rice bowls, all served in a
+  lively atmosphere that adds to the dining experience. With accessibility
+  features such as wheelchair-friendly parking and entrances, it's an inclusive
+  choice for everyone looking for quality meals in a welcoming setting. The
+  restaurant maintains convenient hours, making it easy to stop by for lunch or
+  dinner, especially for those searching for top-rated sushi options nearby. Its
+  focus on fresh ingredients and reasonable pricing ensures a satisfying visit
+  for anyone exploring sushi restaurants in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Visitor Feedback on Tiger Sushi$$$Folks chatting about Tiger Sushi often rave
+  about the fantastic all-you-can-eat deals that bring a mix of fresh sushi,
+  sashimi, and tasty sides like salads and rice dishes to the table. Many
+  appreciate the warm and attentive service that keeps things running smoothly
+  without any fuss, making every meal feel relaxed and enjoyable. Prices come
+  across as fair for the quality you get, giving good value to groups or solo
+  diners hunting for a fun spot. The playful tiger-themed vibe adds a
+  lighthearted touch that enhances the overall experience, drawing in fans of
+  Japanese cuisine. Overall, it's clear this place hits the mark for anyone
+  craving reliable and flavorful sushi options close by, with most feedback
+  leaning towards a positive and memorable outing.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +307,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

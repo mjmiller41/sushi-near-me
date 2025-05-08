@@ -5,4 +5,5 @@ permalink: /california/camarillo/
 stateAbbr: CA
 stateName: California
 cityName: Camarillo
+
 ---

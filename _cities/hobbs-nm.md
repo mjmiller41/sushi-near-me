@@ -5,4 +5,5 @@ permalink: /new-mexico/hobbs/
 stateAbbr: NM
 stateName: New Mexico
 cityName: Hobbs
+
 ---

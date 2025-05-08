@@ -5,4 +5,5 @@ permalink: /massachusetts/lexington/
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Lexington
+
 ---

@@ -1,15 +1,14 @@
 ---
 layout: place
-title: "Mama Satto"
+title: Mama Satto
 permalink: /michigan/ann-arbor/mama-satto.html
 stateAbbr: MI
 stateName: Michigan
 cityName: Ann Arbor
 seo:
-  name: "Mama Satto"
-  type: Restaurant
-  links: https://order.online/store/238441?slug=-126260&slug=en-US&pickup=true&hideModal=true
-description: "Ramen & udon soups, sushi rolls & other Japanese staples round out the menu at this casual outpost. Mama Satto serves delicious sushi in Ann Arbor, Michigan. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
+  type: restaurant
+  links: >-
+    https://order.online/store/238441?slug=-126260&slug=en-US&pickup=true&hideModal=true
 place_id: ChIJKYz5lECuPIgRdBbAbjI6RCk
 photos:
   - name: >-
@@ -185,6 +184,27 @@ rating: '4.0'
 rating_count: 0
 website: >-
   https://order.online/store/238441?slug=-126260&slug=en-US&pickup=true&hideModal=true
+description: >-
+  Explore Mama Satto in Ann Arbor, MI$$$Mama Satto in Ann Arbor, MI, offers a
+  welcoming atmosphere for enjoying fresh Japanese and Korean-inspired dishes,
+  making it a go-to spot among local sushi restaurants. This casual eatery
+  specializes in flavorful ramen, creative sushi rolls, and delightful bao buns,
+  drawing in those seeking authentic yet approachable Asian cuisine. With
+  thoughtful accessibility features like wheelchair-friendly entrances and
+  seating, it caters to a wide range of diners looking for a relaxed meal. The
+  menu highlights a variety of options that pair well with beverages, ensuring a
+  satisfying experience for anyone exploring top-rated sushi spots in the area.
+generative_summary: >-
+  Explore Mama Satto in Ann Arbor, MI$$$Mama Satto in Ann Arbor, MI, offers a
+  welcoming atmosphere for enjoying fresh Japanese and Korean-inspired dishes,
+  making it a go-to spot among local sushi restaurants. This casual eatery
+  specializes in flavorful ramen, creative sushi rolls, and delightful bao buns,
+  drawing in those seeking authentic yet approachable Asian cuisine. With
+  thoughtful accessibility features like wheelchair-friendly entrances and
+  seating, it caters to a wide range of diners looking for a relaxed meal. The
+  menu highlights a variety of options that pair well with beverages, ensuring a
+  satisfying experience for anyone exploring top-rated sushi spots in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJKYz5lECuPIgRdBbAbjI6RCk/reviews/ChdDSUhNMG9nS0VJQ0FnTURRc2VmVm9RRRAB
@@ -350,6 +370,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR0bGZHU3hRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR0bGZHU3hRRRAB!2m1!1s0x883cae4094f98c29:0x29443a326ec01674
+review_summary: >-
+  Visitor Feedback Highlights$$$Folks rave about the tasty ramen and udon dishes
+  at this spot, often noting the flavorful broths and solid portion sizes that
+  make for a fulfilling meal. While some mention that the sushi rolls can vary
+  in preparation and might not always hit the mark for authenticity, many
+  appreciate the fresh ingredients and creative varieties that keep things
+  exciting. Pricing gets mixed reactions, with a few feeling it's a bit steep
+  for the experience, but overall, the friendly service and quick turnaround add
+  to the charm. Reviewers generally enjoy the cozy vibe, even if it gets busy,
+  making it a reliable choice for casual lunches or dinners in Ann Arbor's sushi
+  scene.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   valetParking: false
 payment_options:
@@ -380,8 +412,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Ramen & udon soups, sushi rolls & other Japanese staples round out the menu at
   this casual outpost.
 

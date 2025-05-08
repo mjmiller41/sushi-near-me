@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Cocoro Restaurant"
+title: Cocoro Restaurant
 permalink: /illinois/chicago/cocoro-restaurant.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
 seo:
-  name: "Cocoro Restaurant"
-  type: Restaurant
+  type: restaurant
   links: http://cocorosushi.squarespace.com/
-description: "Casual, dimly lit eatery serving Japanese dishes such as sushi, ramen, teriyaki & shabu shabu. Cocoro Restaurant serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJL4_fuLQsDogRHULcy-O5gPg
 photos:
   - name: >-
@@ -184,6 +182,31 @@ price_range: null
 rating: '4.5'
 rating_count: 0
 website: http://cocorosushi.squarespace.com/
+description: >-
+  Discover Cocoro in Chicago, IL$$$Cocoro Restaurant in Chicago, IL, stands out
+  as a go-to spot for fresh Japanese cuisine among the city's vibrant sushi
+  options. This casual eatery features a diverse menu with highlights like
+  sushi, ramen, and other traditional dishes, all served in a welcoming
+  atmosphere that includes table and counter service. Accessibility is a key
+  feature, with options like wheelchair-friendly entrances and seating making it
+  easy for everyone to enjoy a meal. The moderate pricing and variety of
+  offerings cater to those seeking authentic Japanese flavors without the
+  formality of upscale dining. Whether you're exploring sushi places near me or
+  looking for japanese places near me, this spot delivers a satisfying
+  experience with its blend of classic and creative eats.
+generative_summary: >-
+  Discover Cocoro in Chicago, IL$$$Cocoro Restaurant in Chicago, IL, stands out
+  as a go-to spot for fresh Japanese cuisine among the city's vibrant sushi
+  options. This casual eatery features a diverse menu with highlights like
+  sushi, ramen, and other traditional dishes, all served in a welcoming
+  atmosphere that includes table and counter service. Accessibility is a key
+  feature, with options like wheelchair-friendly entrances and seating making it
+  easy for everyone to enjoy a meal. The moderate pricing and variety of
+  offerings cater to those seeking authentic Japanese flavors without the
+  formality of upscale dining. Whether you're exploring sushi places near me or
+  looking for japanese places near me, this spot delivers a satisfying
+  experience with its blend of classic and creative eats.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJL4_fuLQsDogRHULcy-O5gPg/reviews/ChZDSUhNMG9nS0VJQ0FnSUR2aEpuSkl3EAE
@@ -353,6 +376,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUM5MjlYT1pBEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUM5MjlYT1pBEAE!2m1!1s0x880e2cb4b8df8f2f:0xf880b9e3cbdc421d
+review_summary: >-
+  What Guests Are Saying About This Sushi Gem$$$Folks often rave about the
+  authentic Japanese dishes at this spot, highlighting the flavorful variety
+  that goes beyond standard sushi rolls to include tasty options like curries
+  and noodles. Many appreciate the quick service and cozy vibe, making it a
+  solid choice for a casual meal with friends or family. While some mention that
+  prices lean towards the higher end, the overall experience is generally seen
+  as worthwhile for the quality and freshness of the food. It's clear that
+  diners enjoy the unique menu items that keep them coming back, offering a
+  refreshing take on Japanese dining in the area. If you're hunting for top
+  rated sushi or the best sushi near me, this place gets nods for its genuine
+  flavors and welcoming feel, though it's always good to keep expectations in
+  check for value.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   valetParking: false
 payment_options:
@@ -383,8 +420,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Casual, dimly lit eatery serving Japanese dishes such as sushi, ramen,
   teriyaki & shabu shabu.
 

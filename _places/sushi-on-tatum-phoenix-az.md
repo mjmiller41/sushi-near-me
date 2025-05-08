@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi on Tatum"
+title: Sushi on Tatum
 permalink: /arizona/phoenix/sushi-on-tatum.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Phoenix
 seo:
-  name: "Sushi on Tatum"
-  type: Restaurant
+  type: restaurant
   links: https://sushiontatumaz.kwickmenu.com/
-description: "Sushi on Tatum serves delicious sushi in Phoenix, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJi4GexeFwK4cRCThRJrwkNIs
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x872b70e1c59e818b:0x8b3424bc26513809!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:30 PM'
     - 'Tuesday: Closed'
     - 'Wednesday: 11:00 AM – 9:30 PM'
@@ -178,54 +226,304 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:00 PM'
     - 'Saturday: 11:00 AM – 10:00 PM'
     - 'Sunday: 11:00 AM – 9:30 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:30 PM'
-    - 'Tuesday: Closed'
-    - 'Wednesday: 11:00 AM – 9:30 PM'
-    - 'Thursday: 11:00 AM – 9:30 PM'
-    - 'Friday: 11:00 AM – 10:00 PM'
-    - 'Saturday: 11:00 AM – 10:00 PM'
-    - 'Sunday: 11:00 AM – 9:30 PM'
+  nextCloseTime: '2025-05-04T05:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: false
+    periods:
+      - open:
+          day: 0
+          hour: 15
+          minute: 0
+        close:
+          day: 0
+          hour: 17
+          minute: 0
+      - open:
+          day: 1
+          hour: 15
+          minute: 0
+        close:
+          day: 1
+          hour: 17
+          minute: 0
+      - open:
+          day: 2
+          hour: 15
+          minute: 0
+        close:
+          day: 2
+          hour: 17
+          minute: 0
+      - open:
+          day: 3
+          hour: 15
+          minute: 0
+        close:
+          day: 3
+          hour: 17
+          minute: 0
+      - open:
+          day: 4
+          hour: 15
+          minute: 0
+        close:
+          day: 4
+          hour: 17
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 3:00 – 5:00 PM'
+      - 'Tuesday: 3:00 – 5:00 PM'
+      - 'Wednesday: 3:00 – 5:00 PM'
+      - 'Thursday: 3:00 – 5:00 PM'
+      - 'Friday: Closed'
+      - 'Saturday: Closed'
+      - 'Sunday: 3:00 – 5:00 PM'
+    secondaryHoursType: HAPPY_HOUR
+    nextOpenTime: '2025-05-04T22:00:00Z'
 phone: (480) 513-8699
 price_level: PRICE_LEVEL_INEXPENSIVE
 price_range: $10 &ndash; $20
 rating: '4.4'
-rating_count: 0
+rating_count: 1702
 website: https://sushiontatumaz.kwickmenu.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Experience Sushi on Tatum in Phoenix, AZ$$$Sushi on Tatum in Phoenix, AZ,
+  stands out as a vibrant conveyor-belt sushi destination, blending fresh,
+  made-to-order rolls with an array of ready-made options for a dynamic dining
+  experience. This spot offers a casual atmosphere where patrons can enjoy a
+  wide selection of sushi rolls, complemented by beverages like beer, sake, and
+  wine, making it ideal for those seeking sushi restaurants near me.
+  Accessibility features, such as wheelchair-friendly seating and entrances,
+  ensure everyone can savor the fun of grabbing dishes from the belt, while
+  affordable pricing keeps it approachable for everyday meals. Happy hour
+  specials add extra value, appealing to locals looking for top-rated sushi in a
+  lively setting that combines convenience with flavorful variety.
+generative_summary: >-
+  Experience Sushi on Tatum in Phoenix, AZ$$$Sushi on Tatum in Phoenix, AZ,
+  stands out as a vibrant conveyor-belt sushi destination, blending fresh,
+  made-to-order rolls with an array of ready-made options for a dynamic dining
+  experience. This spot offers a casual atmosphere where patrons can enjoy a
+  wide selection of sushi rolls, complemented by beverages like beer, sake, and
+  wine, making it ideal for those seeking sushi restaurants near me.
+  Accessibility features, such as wheelchair-friendly seating and entrances,
+  ensure everyone can savor the fun of grabbing dishes from the belt, while
+  affordable pricing keeps it approachable for everyday meals. Happy hour
+  specials add extra value, appealing to locals looking for top-rated sushi in a
+  lively setting that combines convenience with flavorful variety.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJi4GexeFwK4cRCThRJrwkNIs/reviews/ChdDSUhNMG9nS0VJQ0FnTUNvNXZhend3RRAB
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        I was not sure what to expect from sushi on Tatum. I was wonderfully
+        surprised! The food was excellent with a very wide variety of dishes.
+        The price point is very inexpensive. In my opinion. You pay by the color
+        of the plate. You just grab what you want off the belt and knowing about
+        5 or 10 minutes the beginning of the belt is going to return to you.  On
+        the belt is not only a wide variety of sushi choices, but salads, drinks
+        and desserts. I highly recommend this place for anybody looking for an
+        inexpensive very casual place for sushi. Also there were young kids in
+        the restaurant and they looked to be having a blast!
+      languageCode: en
+    originalText:
+      text: >-
+        I was not sure what to expect from sushi on Tatum. I was wonderfully
+        surprised! The food was excellent with a very wide variety of dishes.
+        The price point is very inexpensive. In my opinion. You pay by the color
+        of the plate. You just grab what you want off the belt and knowing about
+        5 or 10 minutes the beginning of the belt is going to return to you.  On
+        the belt is not only a wide variety of sushi choices, but salads, drinks
+        and desserts. I highly recommend this place for anybody looking for an
+        inexpensive very casual place for sushi. Also there were young kids in
+        the restaurant and they looked to be having a blast!
+      languageCode: en
+    authorAttribution:
+      displayName: Jim Marando
+      uri: https://www.google.com/maps/contrib/113356181265626627293/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLHM-p08A9VBm-NkOesUFYv8WMOyW7Z7FVn0RRanP9nEdF57w=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-04-16T19:52:54.836961Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNvNXZhend3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNvNXZhend3RRAB!2m1!1s0x872b70e1c59e818b:0x8b3424bc26513809
+  - name: >-
+      places/ChIJi4GexeFwK4cRCThRJrwkNIs/reviews/ChZDSUhNMG9nS0VJQ0FnSURybUtEWEhnEAE
+    relativePublishTimeDescription: 9 months ago
+    rating: 5
+    text:
+      text: >-
+        We drove 45 minutes to come here because conveyer belt sushi is a good
+        time. Watching the assorted sushi and rolls go by was fun to see. The
+        baked scallop roll was tasty, especially since we ate two of them. My
+        favorite was the crab salad stuffed salmon rolls. Yum yum. We shared a
+        kirin which was the perfect compliment to our meal. My one complaint was
+        that the music was too loud, but that’s really neither here nor there;
+        my lunch companion and I could still hear each other. It was totally
+        worth the 45 minute drive.
+      languageCode: en
+    originalText:
+      text: >-
+        We drove 45 minutes to come here because conveyer belt sushi is a good
+        time. Watching the assorted sushi and rolls go by was fun to see. The
+        baked scallop roll was tasty, especially since we ate two of them. My
+        favorite was the crab salad stuffed salmon rolls. Yum yum. We shared a
+        kirin which was the perfect compliment to our meal. My one complaint was
+        that the music was too loud, but that’s really neither here nor there;
+        my lunch companion and I could still hear each other. It was totally
+        worth the 45 minute drive.
+      languageCode: en
+    authorAttribution:
+      displayName: Dakota Catman
+      uri: https://www.google.com/maps/contrib/114426281475349089839/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXCHrGMUbu9pN6zov7XogbCx8xmsNMrWmL54xjp7G8chvee_0U=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-07-14T01:04:49.368629Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURybUtEWEhnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURybUtEWEhnEAE!2m1!1s0x872b70e1c59e818b:0x8b3424bc26513809
+  - name: >-
+      places/ChIJi4GexeFwK4cRCThRJrwkNIs/reviews/ChdDSUhNMG9nS0VJQ0FnSURGaTVlazlRRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        I ordered delivery from this restaurant. It was above standard and the
+        fish was fresh. I really liked that they sold 3-5 piece rolls that were
+        all $4-$7. It provided a nice variety of rolls for a great price. I
+        would definitely order from this restaurant again. It's probably even
+        better at the restaurant.
+      languageCode: en
+    originalText:
+      text: >-
+        I ordered delivery from this restaurant. It was above standard and the
+        fish was fresh. I really liked that they sold 3-5 piece rolls that were
+        all $4-$7. It provided a nice variety of rolls for a great price. I
+        would definitely order from this restaurant again. It's probably even
+        better at the restaurant.
+      languageCode: en
+    authorAttribution:
+      displayName: bryan debarbieris
+      uri: https://www.google.com/maps/contrib/110640876986620912253/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVPCFx8_06H683yW_M-ifiP7zPyVCq6J_uoB0fhoWLLyuoSdWgG=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2023-11-10T04:59:10.353447Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURGaTVlazlRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURGaTVlazlRRRAB!2m1!1s0x872b70e1c59e818b:0x8b3424bc26513809
+  - name: >-
+      places/ChIJi4GexeFwK4cRCThRJrwkNIs/reviews/ChdDSUhNMG9nS0VJQ0FnSUNmcEw2QzFBRRAB
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        Best sushi in town! Quick friendly service no matter how busy the
+        restaurant is. Great service; they never write our orders and always get
+        it right. Conveyor belt options are fresh, and clearly labeled with
+        ingredients and gluten free options. Prices are fair, menu options
+        include familiar and unique rolls. Grand Canyon, Shaggy Dog, baked
+        scallop roll and seared albacore are some of our favorites. Fun drink
+        options. My family enjoys the lively atmosphere while feeling like we
+        are having an intimate dining experience. Highly recommend!
+      languageCode: en
+    originalText:
+      text: >-
+        Best sushi in town! Quick friendly service no matter how busy the
+        restaurant is. Great service; they never write our orders and always get
+        it right. Conveyor belt options are fresh, and clearly labeled with
+        ingredients and gluten free options. Prices are fair, menu options
+        include familiar and unique rolls. Grand Canyon, Shaggy Dog, baked
+        scallop roll and seared albacore are some of our favorites. Fun drink
+        options. My family enjoys the lively atmosphere while feeling like we
+        are having an intimate dining experience. Highly recommend!
+      languageCode: en
+    authorAttribution:
+      displayName: Cristine
+      uri: https://www.google.com/maps/contrib/116390638465379643246/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXslo2qpql9dEpW8vbGMOkrgJe-99lmXoeeDPzfKLAP7IIqPEg=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-12-26T05:13:14.365888Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNmcEw2QzFBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNmcEw2QzFBRRAB!2m1!1s0x872b70e1c59e818b:0x8b3424bc26513809
+  - name: >-
+      places/ChIJi4GexeFwK4cRCThRJrwkNIs/reviews/ChdDSUhNMG9nS0VJQ0FnSURfNWZXWXNnRRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 4
+    text:
+      text: >-
+        Very clean, staff was helpful and friendly. Was a fun experience. The
+        Food was good. I would only recommend going, if they’re busy.
+      languageCode: en
+    originalText:
+      text: >-
+        Very clean, staff was helpful and friendly. Was a fun experience. The
+        Food was good. I would only recommend going, if they’re busy.
+      languageCode: en
+    authorAttribution:
+      displayName: Charles D.
+      uri: https://www.google.com/maps/contrib/115287732900227923893/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjU0O9WQw6qDARadIozLRyz-6FDmrIFnOJofxgyamN0c7j8asg=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-01-25T19:58:53.844176Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURfNWZXWXNnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURfNWZXWXNnRRAB!2m1!1s0x872b70e1c59e818b:0x8b3424bc26513809
+review_summary: >-
+  Customer Feedback on the Vibes$$$Folks generally love the entertaining
+  conveyor-belt setup at this sushi place, with plenty of fresh rolls and salads
+  keeping things exciting and budget-friendly for a casual bite. Many highlight
+  the great variety of options, from classic favorites to unique creations,
+  making it a solid choice for families or groups hunting for sushi close to me.
+  While the atmosphere can get lively and energetic, it's often praised for
+  being welcoming and fun, though a few note it's best when the spot is buzzing
+  to fully enjoy the experience. Overall, the affordable eats and attentive
+  service create a positive vibe that's worth trying, especially if you're in
+  the mood for reliable, tasty Japanese-inspired dishes that hit the spot
+  without breaking the bank.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
 serves_cocktails: null
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Understated sushi bar with made-to-order items or ready-made options from a
+  revolving conveyor belt.
 
 ---

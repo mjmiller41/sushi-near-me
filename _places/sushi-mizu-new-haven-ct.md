@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Mizu"
+title: Sushi Mizu
 permalink: /connecticut/new-haven/sushi-mizu.html
 stateAbbr: CT
 stateName: Connecticut
 cityName: New Haven
 seo:
-  name: "Sushi Mizu"
-  type: Restaurant
+  type: restaurant
   links: https://eatsushimizu.com/
-description: "Unpretentious venue featuring an ample sushi menu, plus familiar Japanese entrees & noodles. Sushi Mizu serves delicious sushi in New Haven, Connecticut. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJy6Ag3rHZ54kR8rgs0XQVYko
 photos:
   - name: >-
@@ -184,6 +182,31 @@ price_range: $10 &ndash; $20
 rating: '3.0'
 rating_count: 0
 website: https://eatsushimizu.com/
+description: >-
+  Discover Sushi Mizu in New Haven, CT$$$Sushi Mizu in New Haven, CT, stands out
+  as a welcoming Japanese eatery specializing in a variety of fresh sushi
+  options and classic dishes, perfect for those seeking casual dining
+  experiences. This spot offers an all-you-can-eat style menu that highlights
+  flavorful rolls and traditional entrees, making it a go-to choice for sushi
+  enthusiasts in the area. With its unpretentious atmosphere and focus on
+  accessibility features like wheelchair-friendly entrances, it caters to a wide
+  range of diners looking for moderately priced meals. The restaurant's emphasis
+  on generous portions and Japanese favorites ensures a satisfying visit,
+  whether you're in the mood for noodles or inventive rolls that blend fresh
+  ingredients seamlessly.
+generative_summary: >-
+  Discover Sushi Mizu in New Haven, CT$$$Sushi Mizu in New Haven, CT, stands out
+  as a welcoming Japanese eatery specializing in a variety of fresh sushi
+  options and classic dishes, perfect for those seeking casual dining
+  experiences. This spot offers an all-you-can-eat style menu that highlights
+  flavorful rolls and traditional entrees, making it a go-to choice for sushi
+  enthusiasts in the area. With its unpretentious atmosphere and focus on
+  accessibility features like wheelchair-friendly entrances, it caters to a wide
+  range of diners looking for moderately priced meals. The restaurant's emphasis
+  on generous portions and Japanese favorites ensures a satisfying visit,
+  whether you're in the mood for noodles or inventive rolls that blend fresh
+  ingredients seamlessly.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJy6Ag3rHZ54kR8rgs0XQVYko/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRdWNhY2JnEAE
@@ -383,6 +406,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNKd1k3NEdBEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNKd1k3NEdBEAE!2m1!1s0x89e7d9b1de20a0cb:0x4a621574d12cb8f2
+review_summary: >-
+  What Customers Are Saying About the Food$$$Visitors to this sushi spot often
+  praise the fresh and tasty rolls, like the spicy crab and tempura options,
+  which stand out for their bold flavors and generous servings that leave you
+  feeling full. While some folks mention that the food can occasionally arrive
+  cold or with inconsistent preparation, especially during delivery, many still
+  appreciate the overall value and variety on offer. It's clear that the
+  friendly service and standout dishes make it a solid pick for anyone craving
+  Japanese cuisine nearby, though keeping expectations in check for takeout can
+  enhance the experience. All in all, if you're hunting for top-rated sushi in
+  the neighborhood, this place delivers enjoyable meals most of the time, with
+  room for improvement in consistency to keep everyone coming back.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   valetParking: false
 payment_options:
@@ -413,8 +449,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: null
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Unpretentious venue featuring an ample sushi menu, plus familiar Japanese
   entrees & noodles.
 

@@ -5,4 +5,5 @@ permalink: /texas/college-station/
 stateAbbr: TX
 stateName: Texas
 cityName: College Station
+
 ---

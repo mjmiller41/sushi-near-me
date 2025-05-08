@@ -5,4 +5,5 @@ permalink: /pennsylvania/warrington/
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Warrington
+
 ---

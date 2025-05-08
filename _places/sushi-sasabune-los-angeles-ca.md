@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Sasabune"
+title: Sushi Sasabune
 permalink: /california/los-angeles/sushi-sasabune.html
 stateAbbr: CA
 stateName: California
 cityName: Los Angeles
 seo:
-  name: "Sushi Sasabune"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi Sasabune serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJA116vV27woARN578LD_MN7k
 photos:
   - name: >-
@@ -185,7 +183,47 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Sushi Sasabune in Los Angeles, CA$$$Sushi Sasabune in Los Angeles,
+  CA, stands out as an upscale Japanese dining spot, renowned for its refined
+  omakase experiences that highlight fresh, artfully prepared seafood. This
+  elegant restaurant offers a variety of sushi options alongside carefully
+  selected beverages like beer and sake, creating a sophisticated atmosphere for
+  sushi enthusiasts. Patrons can enjoy the meticulous presentation and
+  high-quality ingredients that emphasize traditional techniques, making it a
+  go-to choice for authentic Japanese cuisine in the area. Accessibility
+  features such as wheelchair-friendly parking and entrances add to the
+  welcoming vibe, ensuring a comfortable visit for all. With its location in the
+  vibrant Brentwood neighborhood, it's an ideal destination for those seeking
+  top sushi spots near urban hubs.
+generative_summary: >-
+  Discover Sushi Sasabune in Los Angeles, CA$$$Sushi Sasabune in Los Angeles,
+  CA, stands out as an upscale Japanese dining spot, renowned for its refined
+  omakase experiences that highlight fresh, artfully prepared seafood. This
+  elegant restaurant offers a variety of sushi options alongside carefully
+  selected beverages like beer and sake, creating a sophisticated atmosphere for
+  sushi enthusiasts. Patrons can enjoy the meticulous presentation and
+  high-quality ingredients that emphasize traditional techniques, making it a
+  go-to choice for authentic Japanese cuisine in the area. Accessibility
+  features such as wheelchair-friendly parking and entrances add to the
+  welcoming vibe, ensuring a comfortable visit for all. With its location in the
+  vibrant Brentwood neighborhood, it's an ideal destination for those seeking
+  top sushi spots near urban hubs.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Sushi Diners$$$Visitors to this popular sushi restaurant often
+  rave about the exceptional freshness of the fish and the skillful omakase
+  presentations that make every meal feel special and memorable. Many appreciate
+  the cozy, attentive service that enhances the overall dining experience, even
+  if portions can sometimes feel on the smaller side for the price. Folks
+  frequently note that the beer and sake pairings complement the dishes nicely,
+  adding to the enjoyable atmosphere without overwhelming the flavors. Overall,
+  it's clear that this spot delivers a solid, authentic Japanese vibe that's
+  worth trying, especially for those exploring sushi options in the city. While
+  it's a bit pricey, the general consensus leans positive, making it a reliable
+  pick for anyone craving quality sushi nearby.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +249,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

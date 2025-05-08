@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Umi Sushi&Grill"
+title: Umi Sushi&Grill
 permalink: /michigan/grand-rapids/umi-sushi-grill.html
 stateAbbr: MI
 stateName: Michigan
 cityName: Grand Rapids
 seo:
-  name: "Umi Sushi&Grill"
-  type: Restaurant
+  type: restaurant
   links: http://umisushigrill.com/
-description: "Umi Sushi&Grill serves delicious sushi in Grand Rapids, Michigan. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJxb0dwVG1GYgRCfannlgm8wk
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $10 &ndash; $20
 rating: '4.7'
 rating_count: 0
 website: http://umisushigrill.com/
+description: >-
+  Discover Umi Sushi & Grill in Grand Rapids, Michigan$$$Umi Sushi & Grill in
+  Grand Rapids, Michigan, is a trendy Japanese eatery that delights visitors
+  with its signature sushi rolls and hibachi options, making it a go-to spot for
+  fresh Asian flavors. The menu highlights creative dishes and a selection of
+  sake, paired with a welcoming atmosphere that encourages relaxed dining.
+  Accessibility features like wheelchair-friendly entrances and parking add to
+  the convenience, ensuring everyone can enjoy the experience. For those
+  exploring sushi restaurants nearby, this location stands out with its moderate
+  pricing and thoughtful details, from outdoor seating to a variety of
+  vegetarian choices.
+generative_summary: >-
+  Discover Umi Sushi & Grill in Grand Rapids, Michigan$$$Umi Sushi & Grill in
+  Grand Rapids, Michigan, is a trendy Japanese eatery that delights visitors
+  with its signature sushi rolls and hibachi options, making it a go-to spot for
+  fresh Asian flavors. The menu highlights creative dishes and a selection of
+  sake, paired with a welcoming atmosphere that encourages relaxed dining.
+  Accessibility features like wheelchair-friendly entrances and parking add to
+  the convenience, ensuring everyone can enjoy the experience. For those
+  exploring sushi restaurants nearby, this location stands out with its moderate
+  pricing and thoughtful details, from outdoor seating to a variety of
+  vegetarian choices.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJxb0dwVG1GYgRCfannlgm8wk/reviews/ChdDSUhNMG9nS0VJQ0FnTURnejl1TG93RRAB
@@ -352,6 +373,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURieGR2OEVnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURieGR2OEVnEAE!2m1!1s0x8819b551c11dbdc5:0x9f326589ea7f609
+review_summary: >-
+  What Guests Are Saying About the Experience$$$Folks heading to Umi Sushi &
+  Grill often rave about the super fresh rolls and flavorful hibachi dishes that
+  keep them coming back for more. Many highlight the friendly service and cozy
+  vibe that make every visit feel welcoming and hassle-free, even when small
+  mix-ups are quickly sorted out. While a few mention that some rolls could hold
+  together a bit better, the overall consensus is that the food hits the spot
+  with great taste and value. It's a solid pick for groups or families looking
+  to enjoy affordable Japanese fare without any major downsides. If you're on
+  the hunt for top-rated sushi spots around town, this place generally delivers
+  a satisfying and enjoyable meal that leaves a positive impression.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -384,7 +417,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

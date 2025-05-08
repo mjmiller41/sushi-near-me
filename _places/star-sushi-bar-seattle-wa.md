@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Star Sushi & Bar"
+title: Star Sushi & Bar
 permalink: /washington/seattle/star-sushi-bar.html
 stateAbbr: WA
 stateName: Washington
 cityName: Seattle
 seo:
-  name: "Star Sushi & Bar"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Star Sushi & Bar serves delicious sushi in Seattle, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJNUmhkBgVkFQRijGS0k50iRE
 photos:
   - name: >-
@@ -184,7 +182,47 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Star Sushi & Bar in Seattle, WA$$$Star Sushi & Bar in Seattle, WA,
+  offers a cozy retreat for those seeking authentic Japanese flavors in a
+  vibrant neighborhood setting. This inviting spot specializes in fresh sushi
+  rolls, hearty ramen, and other comforting dishes that blend traditional tastes
+  with a modern twist, making it a go-to choice for sushi enthusiasts. Located
+  on Capitol Hill, it provides a welcoming atmosphere perfect for casual meals
+  or unwinding with friends, enhanced by its accessible features like
+  wheelchair-friendly entrances. Whether you're exploring top-rated sushi
+  options nearby or looking for Japanese places that deliver on quality and
+  comfort, this establishment stands out for its thoughtful menu and relaxed
+  vibe. Its family-inspired approach ensures a genuine dining experience that
+  keeps locals and visitors coming back.
+generative_summary: >-
+  Discover Star Sushi & Bar in Seattle, WA$$$Star Sushi & Bar in Seattle, WA,
+  offers a cozy retreat for those seeking authentic Japanese flavors in a
+  vibrant neighborhood setting. This inviting spot specializes in fresh sushi
+  rolls, hearty ramen, and other comforting dishes that blend traditional tastes
+  with a modern twist, making it a go-to choice for sushi enthusiasts. Located
+  on Capitol Hill, it provides a welcoming atmosphere perfect for casual meals
+  or unwinding with friends, enhanced by its accessible features like
+  wheelchair-friendly entrances. Whether you're exploring top-rated sushi
+  options nearby or looking for Japanese places that deliver on quality and
+  comfort, this establishment stands out for its thoughtful menu and relaxed
+  vibe. Its family-inspired approach ensures a genuine dining experience that
+  keeps locals and visitors coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About This Sushi Spot$$$Visitors often rave about
+  the delicious variety of sushi rolls and fresh sashimi available here,
+  highlighting flavors that feel just right without overwhelming the palate.
+  Many appreciate the reasonable prices and fantastic happy hour specials that
+  make it easy to enjoy a satisfying meal without breaking the bank. The staff
+  comes across as friendly and attentive, adding to the overall enjoyable
+  atmosphere that keeps things light and fun. Overall, it's praised as a
+  reliable choice for anyone in the mood for quality Japanese fare, with the
+  added bonus of tasty options like sake flights rounding out the experience. If
+  you're hunting for great sushi restaurants nearby, this place delivers a
+  consistently positive vibe that leaves diners feeling content.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +248,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "KUMO SUSHI &HIBACHI"
+title: KUMO SUSHI &HIBACHI
 permalink: /florida/the-villages/kumo-sushi-hibachi.html
 stateAbbr: FL
 stateName: Florida
 cityName: The Villages
 seo:
-  name: "KUMO SUSHI &HIBACHI"
-  type: Restaurant
+  type: restaurant
   links: http://www.kumothevillagesfl.com/
-description: "KUMO SUSHI &HIBACHI serves delicious sushi in The Villages, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJPXcEsajD54gRq_VrUJQ7cyI
 photos:
   - name: >-
@@ -199,7 +197,44 @@ price_range: $10 &ndash; $20
 rating: '4.7'
 rating_count: 0
 website: http://www.kumothevillagesfl.com/
+description: >-
+  Explore KUMO SUSHI & HIBACHI in The Villages, FL$$$KUMO SUSHI & HIBACHI in The
+  Villages, Florida, stands out as a welcoming hub for authentic Japanese
+  flavors, featuring fresh sushi and lively hibachi options that appeal to those
+  seeking top-rated dining experiences nearby. This spot emphasizes
+  accessibility with wheelchair-friendly features, making it easy for everyone
+  to enjoy extended hours from late morning through the evening for casual
+  meals. Patrons can savor a variety of flavorful dishes at moderate prices,
+  blending quality ingredients with a relaxed atmosphere that feels just right
+  for everyday visits. Whether you're exploring sushi restaurants in the area or
+  looking for Japanese places near me, the menu delivers great value and
+  satisfying tastes that highlight the essence of traditional cuisine.
+generative_summary: >-
+  Explore KUMO SUSHI & HIBACHI in The Villages, FL$$$KUMO SUSHI & HIBACHI in The
+  Villages, Florida, stands out as a welcoming hub for authentic Japanese
+  flavors, featuring fresh sushi and lively hibachi options that appeal to those
+  seeking top-rated dining experiences nearby. This spot emphasizes
+  accessibility with wheelchair-friendly features, making it easy for everyone
+  to enjoy extended hours from late morning through the evening for casual
+  meals. Patrons can savor a variety of flavorful dishes at moderate prices,
+  blending quality ingredients with a relaxed atmosphere that feels just right
+  for everyday visits. Whether you're exploring sushi restaurants in the area or
+  looking for Japanese places near me, the menu delivers great value and
+  satisfying tastes that highlight the essence of traditional cuisine.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Buzz Around This Local Sushi Favorite$$$If you're on the hunt for the best
+  sushi near The Villages, folks often highlight the fresh rolls and
+  entertaining hibachi presentations that make meals feel fun and worthwhile.
+  People appreciate the consistent flavors and generous portions that keep
+  things satisfying, even if waits can pop up during busy times. Overall, it's
+  got a family-friendly vibe that's perfect for groups or a quick solo bite,
+  with the high ratings pointing to reliable spots for Japanese cuisine in the
+  neighborhood. While service might occasionally slow down on crowded nights,
+  the positive feedback keeps the focus on tasty entrees and a welcoming setting
+  that draws sushi lovers back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +260,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

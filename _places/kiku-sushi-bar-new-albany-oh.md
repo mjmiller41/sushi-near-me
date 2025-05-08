@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kiku Sushi Bar"
+title: Kiku Sushi Bar
 permalink: /ohio/new-albany/kiku-sushi-bar.html
 stateAbbr: OH
 stateName: Ohio
 cityName: New Albany
 seo:
-  name: "Kiku Sushi Bar"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Kiku Sushi Bar serves delicious sushi in New Albany, Ohio. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJx5tJ2BZfOIgRoZkX_P8qJio
 photos:
   - name: >-
@@ -185,7 +183,42 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Kiku Sushi Bar in New Albany, OH$$$Kiku Sushi Bar in New Albany, OH,
+  stands out as a welcoming spot for Japanese cuisine enthusiasts, featuring a
+  menu that highlights fresh sushi alongside vegetarian choices and flavorful
+  small plates. The casual surroundings make it an ideal destination for those
+  seeking relaxed sushi dining near you, with options like ramen adding to the
+  diverse offerings that cater to various tastes. Accessibility features, such
+  as wheelchair-friendly parking and entrances, ensure everyone can enjoy the
+  experience comfortably. This sushi restaurant near me combines simplicity with
+  quality, drawing in locals and visitors alike for its approachable vibe and
+  well-crafted dishes.
+generative_summary: >-
+  Discover Kiku Sushi Bar in New Albany, OH$$$Kiku Sushi Bar in New Albany, OH,
+  stands out as a welcoming spot for Japanese cuisine enthusiasts, featuring a
+  menu that highlights fresh sushi alongside vegetarian choices and flavorful
+  small plates. The casual surroundings make it an ideal destination for those
+  seeking relaxed sushi dining near you, with options like ramen adding to the
+  diverse offerings that cater to various tastes. Accessibility features, such
+  as wheelchair-friendly parking and entrances, ensure everyone can enjoy the
+  experience comfortably. This sushi restaurant near me combines simplicity with
+  quality, drawing in locals and visitors alike for its approachable vibe and
+  well-crafted dishes.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About Kiku Sushi Bar$$$Folks often rave about the
+  fresh and tasty sushi rolls that hit the spot without breaking the bank,
+  making it a go-to for casual meals with friends or family. Many appreciate the
+  variety of options, including vegetarian picks and small plates, which keep
+  things exciting and accommodating for different preferences. While some
+  mention the laid-back atmosphere could use a bit more energy on busier nights,
+  the overall service comes across as friendly and efficient, enhancing the
+  whole visit. If you're hunting for top-rated sushi places near me, it's clear
+  that diners enjoy the reliable flavors and welcoming feel here, leaving them
+  eager to return for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +244,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

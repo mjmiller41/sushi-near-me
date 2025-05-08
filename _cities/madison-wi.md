@@ -5,4 +5,5 @@ permalink: /wisconsin/madison/
 stateAbbr: WI
 stateName: Wisconsin
 cityName: Madison
+
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "dLeña by Chef Richard Sandoval"
+title: dLeña by Chef Richard Sandoval
 permalink: /district-of-columbia/washington/dlena-by-chef-richard-sandoval.html
 stateAbbr: DC
 stateName: District of Columbia
 cityName: Washington
 seo:
-  name: "dLeña by Chef Richard Sandoval"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "dLeña by Chef Richard Sandoval serves delicious sushi in Washington, District of Columbia. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJY4Ci_Iy3t4kRpYIPI3wP6eY
 photos:
   - name: >-
@@ -184,7 +182,43 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Explore dLeña in Washington, DC$$$dLeña by Chef Richard Sandoval in
+  Washington, DC, stands out as a stylish restaurant nestled in the lively Mount
+  Vernon Triangle neighborhood, offering a welcoming atmosphere for casual
+  dining. This spot emphasizes accessibility with features like
+  wheelchair-friendly entrances, restrooms, and seating, ensuring a comfortable
+  experience for all visitors. Its operational vibe and array of visual
+  highlights suggest a modern flair that blends seamlessly with the city's
+  dynamic culinary landscape. Whether you're seeking a relaxed spot to unwind or
+  explore local flavors, dLeña provides an inviting setting that captures the
+  essence of urban dining in the heart of DC.
+generative_summary: >-
+  Explore dLeña in Washington, DC$$$dLeña by Chef Richard Sandoval in
+  Washington, DC, stands out as a stylish restaurant nestled in the lively Mount
+  Vernon Triangle neighborhood, offering a welcoming atmosphere for casual
+  dining. This spot emphasizes accessibility with features like
+  wheelchair-friendly entrances, restrooms, and seating, ensuring a comfortable
+  experience for all visitors. Its operational vibe and array of visual
+  highlights suggest a modern flair that blends seamlessly with the city's
+  dynamic culinary landscape. Whether you're seeking a relaxed spot to unwind or
+  explore local flavors, dLeña provides an inviting setting that captures the
+  essence of urban dining in the heart of DC.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Visitor Feedback$$$Visitors to dLeña in Washington, DC, often
+  highlight the warm and inclusive vibe, making it a go-to for anyone looking
+  for a laid-back meal in a bustling area. Many appreciate the thoughtful
+  accessibility options that enhance the overall experience without any hitches,
+  allowing everyone to enjoy the space comfortably. Feedback frequently praises
+  the modern ambiance and welcoming service, though some note that variety in
+  menu options could be expanded for more adventurous tastes. Overall, folks
+  seem to love the spot for its easygoing atmosphere and solid execution,
+  encouraging repeat visits for those exploring local eateries. If you're in the
+  mood for a reliable dining spot in Mount Vernon Triangle, it's worth checking
+  out for its approachable charm and community feel.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +244,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Ichii"
+title: Sushi Ichii
 permalink: /texas/park-row/sushi-ichii.html
 stateAbbr: TX
 stateName: Texas
 cityName: Park Row
 seo:
-  name: "Sushi Ichii"
-  type: Restaurant
+  type: restaurant
   links: https://sushiichii.kwickmenu.com/
-description: "Sushi Ichii serves delicious sushi in Park Row, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJj6qHCUInQYYR4o3P4jYBM14
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x864127420987aa8f:0x5e330136e2cf8de2!10e5
 primary_type: Buffet Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 10:00 PM'
     - 'Tuesday: 11:00 AM – 10:00 PM'
     - 'Wednesday: 11:00 AM – 10:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 11:00 PM'
     - 'Saturday: 11:00 AM – 11:00 PM'
     - 'Sunday: 12:00 – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 10:00 PM'
-    - 'Tuesday: 11:00 AM – 10:00 PM'
-    - 'Wednesday: 11:00 AM – 10:00 PM'
-    - 'Thursday: 11:00 AM – 10:00 PM'
-    - 'Friday: 11:00 AM – 11:00 PM'
-    - 'Saturday: 11:00 AM – 11:00 PM'
-    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,289 @@ phone: (281) 599-1112
 price_level: PRICE_LEVEL_MODERATE
 price_range: $30 &ndash; $50
 rating: '4.6'
-rating_count: 0
+rating_count: 308
 website: https://sushiichii.kwickmenu.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Sushi Ichii in Park Row, TX$$$Sushi Ichii in Park Row, TX, stands out
+  as a casual spot for enjoying fresh Japanese cuisine, particularly its
+  all-you-can-eat options that highlight a variety of sushi and sashimi. This
+  welcoming buffet restaurant offers an array of dishes including soups, salads,
+  and fried rice, all prepared with high-quality ingredients for a satisfying
+  meal. With accessibility features like wheelchair-friendly parking and
+  entrances, it's designed to accommodate diverse diners seeking convenient
+  sushi experiences. Operating from late morning to evening most days, it's an
+  ideal choice for those exploring top-rated Japanese places near me, blending
+  affordability with flavorful selections that make it a go-to for casual
+  dining.
+generative_summary: >-
+  Discover Sushi Ichii in Park Row, TX$$$Sushi Ichii in Park Row, TX, stands out
+  as a casual spot for enjoying fresh Japanese cuisine, particularly its
+  all-you-can-eat options that highlight a variety of sushi and sashimi. This
+  welcoming buffet restaurant offers an array of dishes including soups, salads,
+  and fried rice, all prepared with high-quality ingredients for a satisfying
+  meal. With accessibility features like wheelchair-friendly parking and
+  entrances, it's designed to accommodate diverse diners seeking convenient
+  sushi experiences. Operating from late morning to evening most days, it's an
+  ideal choice for those exploring top-rated Japanese places near me, blending
+  affordability with flavorful selections that make it a go-to for casual
+  dining.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJj6qHCUInQYYR4o3P4jYBM14/reviews/ChZDSUhNMG9nS0VJQ0FnSURmdy1pckpnEAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 4
+    text:
+      text: >-
+        My co-workers and I tried this place for the first time today since they
+        had all you can eat sushi. I’m not a sushi person so I had hibachi
+        chicken and vegetables and it was pretty good. The table had a large
+        variety of rolls and they all enjoyed them. Consensus was that at an
+        affordable price it was definitely worth the money. I’m sure we’d come
+        back again.
+      languageCode: en
+    originalText:
+      text: >-
+        My co-workers and I tried this place for the first time today since they
+        had all you can eat sushi. I’m not a sushi person so I had hibachi
+        chicken and vegetables and it was pretty good. The table had a large
+        variety of rolls and they all enjoyed them. Consensus was that at an
+        affordable price it was definitely worth the money. I’m sure we’d come
+        back again.
+      languageCode: en
+    authorAttribution:
+      displayName: Perdido Nino
+      uri: https://www.google.com/maps/contrib/100735080119596915483/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWOwaI5t80O7SHdcoZlQGZSOQoOvvWg45anQIRnhfgQpd7XDTlS=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-01-09T19:19:14.466130Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURmdy1pckpnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURmdy1pckpnEAE!2m1!1s0x864127420987aa8f:0x5e330136e2cf8de2
+  - name: >-
+      places/ChIJj6qHCUInQYYR4o3P4jYBM14/reviews/ChZDSUhNMG9nS0VJQ0FnSUQzeGZDRVNnEAE
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        One the best places I've gone to for sushi. Their all you can eat menu
+        was out of this world with their choices of soups, salads, fried rice,
+        sushi varieties' desserts and many other options to choose from. You
+        won't be disappointed. And since they make them fresh as you order it
+        makes for an unforgettable experience that everyone should try. Thanks
+        to the great staff and sushi chefs for a 5 star experience!
+      languageCode: en
+    originalText:
+      text: >-
+        One the best places I've gone to for sushi. Their all you can eat menu
+        was out of this world with their choices of soups, salads, fried rice,
+        sushi varieties' desserts and many other options to choose from. You
+        won't be disappointed. And since they make them fresh as you order it
+        makes for an unforgettable experience that everyone should try. Thanks
+        to the great staff and sushi chefs for a 5 star experience!
+      languageCode: en
+    authorAttribution:
+      displayName: dorian hernandez
+      uri: https://www.google.com/maps/contrib/116635810300680689707/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjV2MK87s_SsvLemlSU8GPxG7hTGPqFba1xMi2W-KQcw76qtJtgMOQ=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-11-16T22:25:15.978069Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQzeGZDRVNnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQzeGZDRVNnEAE!2m1!1s0x864127420987aa8f:0x5e330136e2cf8de2
+  - name: >-
+      places/ChIJj6qHCUInQYYR4o3P4jYBM14/reviews/ChdDSUhNMG9nS0VJQ0FnTURBNXBtU25BRRAB
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 4
+    text:
+      text: >-
+        Nice place to get fresh sushi.  Our waitress was very nice and
+        attentive.
+
+        We arrived just at 5 pm, so the place was pretty empty. Tables and
+        booths were clean.  Did not use the restroom, so I can not comment on
+        that.
+
+        We ordered a sushi boat for 2, spicy edamme,  two custom rolls, and miso
+        soup.  This was all for the 4 of us.  It was the perfect amount.  Rolls
+        were made with not so much rice as other sushi restaurants we have been
+        to.  Because of that, we were able to taste all the yummy fish and other
+        fillings in the roll.
+
+
+        This restaurant is overall a good place to go and have some fresh sushi.
+      languageCode: en
+    originalText:
+      text: >-
+        Nice place to get fresh sushi.  Our waitress was very nice and
+        attentive.
+
+        We arrived just at 5 pm, so the place was pretty empty. Tables and
+        booths were clean.  Did not use the restroom, so I can not comment on
+        that.
+
+        We ordered a sushi boat for 2, spicy edamme,  two custom rolls, and miso
+        soup.  This was all for the 4 of us.  It was the perfect amount.  Rolls
+        were made with not so much rice as other sushi restaurants we have been
+        to.  Because of that, we were able to taste all the yummy fish and other
+        fillings in the roll.
+
+
+        This restaurant is overall a good place to go and have some fresh sushi.
+      languageCode: en
+    authorAttribution:
+      displayName: Jess
+      uri: https://www.google.com/maps/contrib/101436533292088682968/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWuZG_qSqR7hXR2ZKIY5xHD8J98YXznGUGc0q8fKHg-eqEl0aw_jQ=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-04-09T23:43:15.017278Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURBNXBtU25BRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURBNXBtU25BRRAB!2m1!1s0x864127420987aa8f:0x5e330136e2cf8de2
+  - name: >-
+      places/ChIJj6qHCUInQYYR4o3P4jYBM14/reviews/ChZDSUhNMG9nS0VJQ0FnTUNnd2R5amFnEAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        I went here for lunch on a whim and it was the perfect place. The chef
+        here is amazing. The summer roll is filling, crispy and with the right
+        amount of spice that balances the roll. Beautiful plating as well. The
+        Salmon Hibachi is a wonderful medley of flavors. Best Miso soup ever.
+        And yes, people can mess it up. Not here. Yummy.
+
+
+        When I am on the borderline of hangry descent, I really cannot have
+        anything that I do not like. I walked in in that hangry daze and
+        anything off would have just been horrific. It was wonderful! I am very
+        happy I stopped in. I left relaxed, clear headed and with a new go-to
+        place for sushi.
+
+
+        The space feels expansive, warm and welcoming inside. I would definitely
+        recommend for any occasion. The parking in the area is always tight, but
+        this is worth it. It would be great for small or mid-sized large parties
+        as well.
+
+
+        The wait staff is responsive and quick.
+
+
+        I wholeheartedly recommend!
+      languageCode: en
+    originalText:
+      text: >-
+        I went here for lunch on a whim and it was the perfect place. The chef
+        here is amazing. The summer roll is filling, crispy and with the right
+        amount of spice that balances the roll. Beautiful plating as well. The
+        Salmon Hibachi is a wonderful medley of flavors. Best Miso soup ever.
+        And yes, people can mess it up. Not here. Yummy.
+
+
+        When I am on the borderline of hangry descent, I really cannot have
+        anything that I do not like. I walked in in that hangry daze and
+        anything off would have just been horrific. It was wonderful! I am very
+        happy I stopped in. I left relaxed, clear headed and with a new go-to
+        place for sushi.
+
+
+        The space feels expansive, warm and welcoming inside. I would definitely
+        recommend for any occasion. The parking in the area is always tight, but
+        this is worth it. It would be great for small or mid-sized large parties
+        as well.
+
+
+        The wait staff is responsive and quick.
+
+
+        I wholeheartedly recommend!
+      languageCode: en
+    authorAttribution:
+      displayName: Phaino Aletha
+      uri: https://www.google.com/maps/contrib/108436404219831346542/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocL5YuU_lZoYJuhiRkDiAFeYH5R8OnUv8zCBtTi6-azaJMcRhGE=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-02-17T22:02:58.280315Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNnd2R5amFnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNnd2R5amFnEAE!2m1!1s0x864127420987aa8f:0x5e330136e2cf8de2
+  - name: >-
+      places/ChIJj6qHCUInQYYR4o3P4jYBM14/reviews/ChZDSUhNMG9nS0VJQ0FnSUNQMmZPa05nEAE
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        Was debating on what to get for lunch and I have not been alone to get
+        sushi in a long time, so I decided to have the all you can eat lunch.
+        Wow, the staff was great, the tea wonderful and the sushi was fresh and
+        tasty purchase the rainbow roll, eel and avocado roll, Tiger roll, soup,
+        green tea, and crab puffs. The staff is totally wonderful.
+      languageCode: en
+    originalText:
+      text: >-
+        Was debating on what to get for lunch and I have not been alone to get
+        sushi in a long time, so I decided to have the all you can eat lunch.
+        Wow, the staff was great, the tea wonderful and the sushi was fresh and
+        tasty purchase the rainbow roll, eel and avocado roll, Tiger roll, soup,
+        green tea, and crab puffs. The staff is totally wonderful.
+      languageCode: en
+    authorAttribution:
+      displayName: Leslie Sagwal
+      uri: https://www.google.com/maps/contrib/116239467839876335790/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVoH9CSRecyXVXhrM9qEy8Cv8_GTQBd-bW6qSDxTwUMDMRgIVMu=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-11-26T02:55:32.928325Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNQMmZPa05nEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNQMmZPa05nEAE!2m1!1s0x864127420987aa8f:0x5e330136e2cf8de2
+review_summary: >-
+  What Visitors Are Saying$$$Visitors often rave about the wide range of fresh
+  sushi options, like creative rolls and classic favorites, which provide great
+  value for an all-you-can-eat setup that's perfect for groups or solo diners.
+  Many appreciate the attentive service and quick staff that enhance the overall
+  experience, making meals feel relaxed and enjoyable without any major issues.
+  Folks highlight the tasty variety of sides, such as soups and hibachi-style
+  dishes, that complement the main attractions and leave everyone feeling
+  satisfied. Overall, it's seen as a solid pick for anyone searching for best
+  sushi near me, with the affordable pricing and fresh flavors earning
+  consistent praise for a fun, worthwhile visit.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsCashOnly: false
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+curbside_pickup: true
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
 serves_breakfast: null
 serves_brunch: null
 serves_cocktails: null
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

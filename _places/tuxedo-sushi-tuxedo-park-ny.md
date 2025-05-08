@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Tuxedo Sushi"
+title: Tuxedo Sushi
 permalink: /new-york/tuxedo-park/tuxedo-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: Tuxedo Park
 seo:
-  name: "Tuxedo Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.tuxedosushi.menu/
-description: "Tuxedo Sushi serves delicious sushi in Tuxedo Park, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJJXCyERffwokRUM1WlxRozl4
 photos:
   - name: >-
@@ -143,7 +141,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICKnoeIOw!2e10!4m2!3m1!1s0x89c2df1711b27025:0x5ece68149756cd50
 address: 233 for, NY-17, Tuxedo Park, NY 10987, USA
-street: 233 for, NY-17
+street: 233 for,NY-17
 city: Tuxedo Park
 state: NY
 zip: '10987'
@@ -185,6 +183,33 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 0
 website: http://www.tuxedosushi.menu/
+description: >-
+  Discover Tuxedo Sushi in Tuxedo Park, NY$$$Tuxedo Sushi in Tuxedo Park, NY,
+  offers a welcoming atmosphere perfect for enjoying fresh Japanese cuisine,
+  including a variety of sushi rolls and bento boxes that highlight the best of
+  authentic flavors. This cozy spot stands out for its selection of dumplings,
+  sake, and kid-friendly options, making it an ideal choice for families or
+  anyone searching for top-rated sushi restaurants nearby. The menu emphasizes
+  high-quality ingredients and thoughtful dishes that pair traditional elements
+  with creative twists, appealing to those craving a satisfying meal in a
+  relaxed setting. Accessibility features like wheelchair-friendly entrances and
+  seating add to the convenience, ensuring everyone can enjoy the experience.
+  Whether you're looking for sushi places near me or a casual dining option,
+  this location delivers on taste and comfort without overwhelming the senses.
+generative_summary: >-
+  Discover Tuxedo Sushi in Tuxedo Park, NY$$$Tuxedo Sushi in Tuxedo Park, NY,
+  offers a welcoming atmosphere perfect for enjoying fresh Japanese cuisine,
+  including a variety of sushi rolls and bento boxes that highlight the best of
+  authentic flavors. This cozy spot stands out for its selection of dumplings,
+  sake, and kid-friendly options, making it an ideal choice for families or
+  anyone searching for top-rated sushi restaurants nearby. The menu emphasizes
+  high-quality ingredients and thoughtful dishes that pair traditional elements
+  with creative twists, appealing to those craving a satisfying meal in a
+  relaxed setting. Accessibility features like wheelchair-friendly entrances and
+  seating add to the convenience, ensuring everyone can enjoy the experience.
+  Whether you're looking for sushi places near me or a casual dining option,
+  this location delivers on taste and comfort without overwhelming the senses.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJJXCyERffwokRUM1WlxRozl4/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJbHRXMzJBRRAB
@@ -338,6 +363,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR6dUxXMDZBRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR6dUxXMDZBRRAB!2m1!1s0x89c2df1711b27025:0x5ece68149756cd50
+review_summary: >-
+  What Customers Are Raving About$$$Folks who visit this sushi spot often praise
+  the incredibly fresh and flavorful rolls, along with tasty sides like seaweed
+  salad that keep them coming back for more. Many appreciate the variety of
+  options, including vegetarian dishes and customizable meals, which make it a
+  solid pick for different tastes and dietary needs. The cozy vibe and friendly
+  service create a welcoming environment that's great for a casual date or
+  treating yourself after a long day. While some note that prices lean toward
+  the higher end, the overall quality and portion sizes feel like a fair
+  trade-off for the delicious experience. All in all, it's a go-to choice for
+  anyone hunting for the best sushi near me, with positive feedback highlighting
+  its reliability and charm.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -369,7 +407,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

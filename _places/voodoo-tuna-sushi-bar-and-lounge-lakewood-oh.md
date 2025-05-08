@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Voodoo Tuna Sushi Bar and Lounge"
+title: Voodoo Tuna Sushi Bar and Lounge
 permalink: /ohio/lakewood/voodoo-tuna-sushi-bar-and-lounge.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Lakewood
 seo:
-  name: "Voodoo Tuna Sushi Bar and Lounge"
-  type: Restaurant
+  type: restaurant
   links: http://voodootuna.com/
-description: "Asian fusion fare & inventive sushi rolls served with craft cocktails in a sleek space with a patio. Voodoo Tuna Sushi Bar and Lounge serves delicious sushi in Lakewood, Ohio. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, and dinner."
 place_id: ChIJ46K7pmvyMIgRkcNssl2WTyU
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 0
 website: http://voodootuna.com/
+description: >-
+  Discover Voodoo Tuna Sushi Bar and Lounge in Lakewood, OH$$$Voodoo Tuna Sushi
+  Bar and Lounge in Lakewood, OH, stands out as a casual spot blending Asian
+  fusion flavors with inventive sushi options, making it a go-to choice for
+  those seeking fresh Japanese-inspired dishes and a relaxing vibe. The menu
+  highlights creative rolls paired with a variety of craft cocktails, set in a
+  sleek interior that includes an inviting patio for outdoor dining.
+  Accessibility features like wheelchair-friendly entrances and seating add to
+  its appeal for a wide range of visitors, while the focus on vegetarian options
+  and group-friendly atmosphere enhances the overall experience. Whether you're
+  exploring sushi restaurants near me or looking for top-rated spots with a mix
+  of drinks and bites, this location delivers a modern twist on classic
+  favorites that keeps things fresh and engaging.
+generative_summary: >-
+  Discover Voodoo Tuna Sushi Bar and Lounge in Lakewood, OH$$$Voodoo Tuna Sushi
+  Bar and Lounge in Lakewood, OH, stands out as a casual spot blending Asian
+  fusion flavors with inventive sushi options, making it a go-to choice for
+  those seeking fresh Japanese-inspired dishes and a relaxing vibe. The menu
+  highlights creative rolls paired with a variety of craft cocktails, set in a
+  sleek interior that includes an inviting patio for outdoor dining.
+  Accessibility features like wheelchair-friendly entrances and seating add to
+  its appeal for a wide range of visitors, while the focus on vegetarian options
+  and group-friendly atmosphere enhances the overall experience. Whether you're
+  exploring sushi restaurants near me or looking for top-rated spots with a mix
+  of drinks and bites, this location delivers a modern twist on classic
+  favorites that keeps things fresh and engaging.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ46K7pmvyMIgRkcNssl2WTyU/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfOFB6VjNRRRAB
@@ -356,6 +381,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURhcHZ6eUNREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURhcHZ6eUNREAE!2m1!1s0x8830f26ba6bba2e3:0x254f965db26cc391
+review_summary: >-
+  What Customers Are Saying About the Experience$$$Folks who visit this spot
+  often highlight the tasty sushi and appetizers as standout features, with many
+  enjoying the variety of rolls that cater to different tastes and preferences.
+  Service tends to be attentive and welcoming, making for a smooth dining
+  experience even on busier nights, while creative cocktails and fresh starters
+  like calamari add a fun element to meals. While some note that certain dishes
+  could use a bit more flavor punch, the overall consensus leans positive,
+  praising the cozy atmosphere and value for the price. If you're on the hunt
+  for sushi places near me that offer solid options for groups or casual
+  outings, this venue delivers reliably enjoyable vibes without any major
+  letdowns. All in all, it's a solid pick for anyone craving good food in a
+  laid-back setting, with most leaving satisfied and eager to return.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -387,8 +426,8 @@ serves_lunch: null
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Asian fusion fare & inventive sushi rolls served with craft cocktails in a
   sleek space with a patio.
 

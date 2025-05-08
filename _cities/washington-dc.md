@@ -5,4 +5,5 @@ permalink: /district-of-columbia/washington/
 stateAbbr: DC
 stateName: District of Columbia
 cityName: Washington
+
 ---

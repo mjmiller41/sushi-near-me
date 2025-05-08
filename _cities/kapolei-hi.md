@@ -5,4 +5,5 @@ permalink: /hawaii/kapolei/
 stateAbbr: HI
 stateName: Hawaii
 cityName: Kapolei
+
 ---

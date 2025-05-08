@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Locals Sushi & Sports Pub - West Ashley"
+title: Locals Sushi & Sports Pub - West Ashley
 permalink: /south-carolina/charleston/locals-sushi-sports-pub-west-ashley.html
 stateAbbr: SC
 stateName: South Carolina
 cityName: Charleston
 seo:
-  name: "Locals Sushi & Sports Pub - West Ashley"
-  type: Restaurant
+  type: restaurant
   links: http://www.localssushi.com/
-description: "Locals Sushi & Sports Pub - West Ashley serves delicious sushi in Charleston, South Carolina. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ6R2WXq97_ogRzqxo5MBMfEQ
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x88fe7baf5e961de9:0x447c4cc0e468acce!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 23
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:00 PM'
     - 'Tuesday: 11:00 AM – 11:00 PM'
     - 'Wednesday: 11:00 AM – 10:00 PM'
@@ -178,28 +234,105 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:00 PM'
     - 'Saturday: 11:00 AM – 10:00 PM'
     - 'Sunday: 11:00 AM – 10:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 11:00 PM'
-    - 'Wednesday: 11:00 AM – 10:00 PM'
-    - 'Thursday: 11:00 AM – 10:00 PM'
-    - 'Friday: 11:00 AM – 10:00 PM'
-    - 'Saturday: 11:00 AM – 10:00 PM'
-    - 'Sunday: 11:00 AM – 10:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: false
+    periods:
+      - open:
+          day: 1
+          hour: 16
+          minute: 0
+        close:
+          day: 1
+          hour: 18
+          minute: 0
+      - open:
+          day: 2
+          hour: 16
+          minute: 0
+        close:
+          day: 2
+          hour: 18
+          minute: 0
+      - open:
+          day: 3
+          hour: 16
+          minute: 0
+        close:
+          day: 3
+          hour: 18
+          minute: 0
+      - open:
+          day: 4
+          hour: 16
+          minute: 0
+        close:
+          day: 4
+          hour: 18
+          minute: 0
+      - open:
+          day: 5
+          hour: 16
+          minute: 0
+        close:
+          day: 5
+          hour: 18
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 4:00 – 6:00 PM'
+      - 'Tuesday: 4:00 – 6:00 PM'
+      - 'Wednesday: 4:00 – 6:00 PM'
+      - 'Thursday: 4:00 – 6:00 PM'
+      - 'Friday: 4:00 – 6:00 PM'
+      - 'Saturday: Closed'
+      - 'Sunday: Closed'
+    secondaryHoursType: HAPPY_HOUR
+    nextOpenTime: '2025-05-05T20:00:00Z'
 phone: (843) 763-3908
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.4'
-rating_count: 0
+rating_count: 859
 website: http://www.localssushi.com/
+description: >-
+  Discover Locals Sushi & Sports Pub in Charleston, SC$$$Nestled in Charleston,
+  SC, Locals Sushi & Sports Pub - West Ashley stands out as a vibrant spot for
+  enjoying fresh sushi and casual dining options. This eatery combines a relaxed
+  atmosphere with a menu featuring creative rolls, flavorful tacos, and
+  refreshing sake, making it a go-to choice for those seeking sushi restaurants
+  in the area. Patrons can catch the latest sports events on TV while savoring
+  moderately priced meals, enhanced by thoughtful accessibility features like
+  wheelchair-friendly entrances and seating. Open from late morning into the
+  evening most days, it offers a welcoming environment for quick lunches or
+  evening outings, appealing to anyone exploring top-rated sushi near me in this
+  lively neighborhood.
+generative_summary: >-
+  Discover Locals Sushi & Sports Pub in Charleston, SC$$$Nestled in Charleston,
+  SC, Locals Sushi & Sports Pub - West Ashley stands out as a vibrant spot for
+  enjoying fresh sushi and casual dining options. This eatery combines a relaxed
+  atmosphere with a menu featuring creative rolls, flavorful tacos, and
+  refreshing sake, making it a go-to choice for those seeking sushi restaurants
+  in the area. Patrons can catch the latest sports events on TV while savoring
+  moderately priced meals, enhanced by thoughtful accessibility features like
+  wheelchair-friendly entrances and seating. Open from late morning into the
+  evening most days, it offers a welcoming environment for quick lunches or
+  evening outings, appealing to anyone exploring top-rated sushi near me in this
+  lively neighborhood.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What People Are Saying About This Sushi Spot$$$Folks rave about the diverse
+  menu at this Charleston eatery, highlighting the tasty sushi, hearty burgers,
+  and well-crafted cocktails that keep diners coming back for more. Many
+  appreciate the solid service and fair prices, making it a reliable pick for
+  casual meals with friends or family. While some note that attention from staff
+  can vary, the overall vibe remains upbeat and enjoyable, with plenty of
+  positive vibes around the food quality. If you're on the hunt for sushi places
+  near me, this spot delivers a solid experience that's worth trying for its
+  flavorful dishes and welcoming setting. In summary, it's a favorite for those
+  who love sushi, offering a mix of fun and satisfaction that generally leaves
+  visitors pleased.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +358,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

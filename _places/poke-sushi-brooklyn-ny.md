@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Poke Sushi"
+title: Poke Sushi
 permalink: /new-york/brooklyn/poke-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: Brooklyn
 seo:
-  name: "Poke Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://diypokesushi.com/
-description: "Poke Sushi serves delicious sushi in Brooklyn, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ_8973oREwokR_EfLjyx_NAQ
 photos:
   - name: >-
@@ -168,7 +166,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c24484de7bcfff:0x4347f2c8fcb47fc!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 9:00 PM'
     - 'Tuesday: Closed'
     - 'Wednesday: 11:30 AM – 9:00 PM'
@@ -176,28 +224,119 @@ opening_hours:
     - 'Friday: 11:30 AM – 9:00 PM'
     - 'Saturday: 11:30 AM – 9:00 PM'
     - 'Sunday: 11:30 AM – 9:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 9:00 PM'
-    - 'Tuesday: Closed'
-    - 'Wednesday: 11:30 AM – 9:00 PM'
-    - 'Thursday: 11:30 AM – 9:00 PM'
-    - 'Friday: 11:30 AM – 9:00 PM'
-    - 'Saturday: 11:30 AM – 9:00 PM'
-    - 'Sunday: 11:30 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T01:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 11
+          minute: 30
+        close:
+          day: 0
+          hour: 21
+          minute: 0
+      - open:
+          day: 2
+          hour: 11
+          minute: 30
+        close:
+          day: 2
+          hour: 21
+          minute: 0
+      - open:
+          day: 3
+          hour: 11
+          minute: 30
+        close:
+          day: 3
+          hour: 21
+          minute: 0
+      - open:
+          day: 4
+          hour: 11
+          minute: 30
+        close:
+          day: 4
+          hour: 21
+          minute: 0
+      - open:
+          day: 5
+          hour: 11
+          minute: 30
+        close:
+          day: 5
+          hour: 21
+          minute: 0
+      - open:
+          day: 6
+          hour: 11
+          minute: 30
+        close:
+          day: 6
+          hour: 21
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: Closed'
+      - 'Tuesday: 11:30 AM – 9:00 PM'
+      - 'Wednesday: 11:30 AM – 9:00 PM'
+      - 'Thursday: 11:30 AM – 9:00 PM'
+      - 'Friday: 11:30 AM – 9:00 PM'
+      - 'Saturday: 11:30 AM – 9:00 PM'
+      - 'Sunday: 11:30 AM – 9:00 PM'
+    secondaryHoursType: PICKUP
+    nextCloseTime: '2025-05-04T01:00:00Z'
 phone: (718) 616-0028
 price_level: PRICE_LEVEL_INEXPENSIVE
 price_range: $10 &ndash; $20
 rating: '4.0'
-rating_count: 0
+rating_count: 202
 website: http://diypokesushi.com/
+description: >-
+  Discover Poke Sushi in Brooklyn, NY$$$Poke Sushi in Brooklyn, NY, stands out
+  as a welcoming spot for those craving fresh Japanese flavors, offering a menu
+  centered around expertly crafted sushi rolls and poke bowls. Nestled in the
+  vibrant Sheepshead Bay neighborhood, this casual eatery emphasizes
+  accessibility with wheelchair-friendly entrances and seating, making it easy
+  for everyone to enjoy a relaxed meal. Diners can savor the blend of
+  high-quality ingredients in dishes that highlight the essence of Japanese
+  cuisine, all within a laid-back atmosphere perfect for a quick lunch or
+  evening outing. The restaurant operates on a schedule that's convenient for
+  locals, with hours extending into the evening most days, ensuring options for
+  spontaneous visits. Whether you're exploring top-rated sushi options nearby or
+  seeking a simple yet satisfying Japanese meal, Poke Sushi delivers an
+  authentic experience that keeps customers coming back.
+generative_summary: >-
+  Discover Poke Sushi in Brooklyn, NY$$$Poke Sushi in Brooklyn, NY, stands out
+  as a welcoming spot for those craving fresh Japanese flavors, offering a menu
+  centered around expertly crafted sushi rolls and poke bowls. Nestled in the
+  vibrant Sheepshead Bay neighborhood, this casual eatery emphasizes
+  accessibility with wheelchair-friendly entrances and seating, making it easy
+  for everyone to enjoy a relaxed meal. Diners can savor the blend of
+  high-quality ingredients in dishes that highlight the essence of Japanese
+  cuisine, all within a laid-back atmosphere perfect for a quick lunch or
+  evening outing. The restaurant operates on a schedule that's convenient for
+  locals, with hours extending into the evening most days, ensuring options for
+  spontaneous visits. Whether you're exploring top-rated sushi options nearby or
+  seeking a simple yet satisfying Japanese meal, Poke Sushi delivers an
+  authentic experience that keeps customers coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Feedback from visitors to Poke Sushi paints a
+  picture of a spot that's generally well-received for its tasty, fresh
+  offerings and approachable vibe, with many highlighting the flavorful poke
+  bowls and sushi as standout choices. Folks often note that the portions are
+  generous and the prices reasonable, making it a solid pick for everyday dining
+  without breaking the bank. While some mention occasional waits during peak
+  times, the overall consensus leans positive, appreciating the friendly service
+  and variety that caters to different tastes. It's clear that regulars enjoy
+  the consistency of the ingredients and the casual setting, which adds to the
+  appeal for groups or solo diners. If you're on the hunt for reliable Japanese
+  eats in the area, this place earns praise for hitting the mark on flavor and
+  value, though like any spot, it's not without room for tweaks based on
+  individual experiences.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -223,7 +362,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

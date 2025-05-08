@@ -5,4 +5,5 @@ permalink: /texas/southlake/
 stateAbbr: TX
 stateName: Texas
 cityName: Southlake
+
 ---

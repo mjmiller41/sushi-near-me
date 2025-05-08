@@ -5,4 +5,5 @@ permalink: /delaware/laurel/
 stateAbbr: DE
 stateName: Delaware
 cityName: Laurel
+
 ---

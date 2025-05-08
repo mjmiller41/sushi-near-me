@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Stonefish Sushi"
+title: Stonefish Sushi
 permalink: /colorado/cortez/stonefish-sushi.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Cortez
 seo:
-  name: "Stonefish Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://stonefishsushi.com/
-description: "Stonefish Sushi serves delicious sushi in Cortez, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJp1yz8JZvOYcRIwoI8haSB-Q
 photos:
   - name: >-
@@ -169,7 +167,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x87396f96f0b35ca7:0xe4079216f2080a23!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 15
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:00 PM'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -177,54 +233,340 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:00 PM'
     - 'Saturday: 11:00 AM – 9:00 PM'
     - 'Sunday: 3:00 – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 9:00 PM'
-    - 'Saturday: 11:00 AM – 9:00 PM'
-    - 'Sunday: 3:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: false
+    periods:
+      - open:
+          day: 1
+          hour: 11
+          minute: 0
+        close:
+          day: 1
+          hour: 14
+          minute: 30
+      - open:
+          day: 2
+          hour: 11
+          minute: 0
+        close:
+          day: 2
+          hour: 14
+          minute: 30
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 14
+          minute: 30
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 14
+          minute: 30
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 14
+          minute: 30
+      - open:
+          day: 6
+          hour: 11
+          minute: 0
+        close:
+          day: 6
+          hour: 14
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 11:00 AM – 2:30 PM'
+      - 'Tuesday: 11:00 AM – 2:30 PM'
+      - 'Wednesday: 11:00 AM – 2:30 PM'
+      - 'Thursday: 11:00 AM – 2:30 PM'
+      - 'Friday: 11:00 AM – 2:30 PM'
+      - 'Saturday: 11:00 AM – 2:30 PM'
+      - 'Sunday: Closed'
+    secondaryHoursType: LUNCH
+    nextOpenTime: '2025-05-05T17:00:00Z'
 phone: (970) 565-9244
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.6'
-rating_count: 0
+rating_count: 336
 website: http://stonefishsushi.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Stonefish Sushi in Cortez, CO$$$Stonefish Sushi in Cortez, CO, stands
+  out as a premier destination for those seeking fresh sushi and authentic
+  Japanese flavors in a welcoming setting. The restaurant features a variety of
+  meticulously prepared rolls, sashimi, and other Japanese-inspired plates, all
+  served in a casual atmosphere that makes dining enjoyable and relaxed.
+  Accessibility is a key highlight, with options like wheelchair-friendly
+  parking and seating ensuring everyone can savor the experience. Patrons can
+  also enjoy outdoor seating and a menu that caters to groups, making it an
+  ideal spot for casual meals or special occasions. If you're exploring sushi
+  restaurants near you, this location delivers on quality and variety, blending
+  traditional tastes with a modern touch.
+generative_summary: >-
+  Discover Stonefish Sushi in Cortez, CO$$$Stonefish Sushi in Cortez, CO, stands
+  out as a premier destination for those seeking fresh sushi and authentic
+  Japanese flavors in a welcoming setting. The restaurant features a variety of
+  meticulously prepared rolls, sashimi, and other Japanese-inspired plates, all
+  served in a casual atmosphere that makes dining enjoyable and relaxed.
+  Accessibility is a key highlight, with options like wheelchair-friendly
+  parking and seating ensuring everyone can savor the experience. Patrons can
+  also enjoy outdoor seating and a menu that caters to groups, making it an
+  ideal spot for casual meals or special occasions. If you're exploring sushi
+  restaurants near you, this location delivers on quality and variety, blending
+  traditional tastes with a modern touch.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJp1yz8JZvOYcRIwoI8haSB-Q/reviews/ChZDSUhNMG9nS0VJQ0FnTURJLUszU1V3EAE
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 5
+    text:
+      text: >-
+        Absolutely loved our experience!
+
+        The food was delicious—every dish was delicious and well prepared and
+        beautifully presented. Our server, Lewis, was phenomenal! He was kind,
+        respectful, courteous, and incredibly helpful throughout our meal. He
+        made us feel truly welcomed and taken care of. We’ll definitely be
+        coming back—highly recommend!
+      languageCode: en
+    originalText:
+      text: >-
+        Absolutely loved our experience!
+
+        The food was delicious—every dish was delicious and well prepared and
+        beautifully presented. Our server, Lewis, was phenomenal! He was kind,
+        respectful, courteous, and incredibly helpful throughout our meal. He
+        made us feel truly welcomed and taken care of. We’ll definitely be
+        coming back—highly recommend!
+      languageCode: en
+    authorAttribution:
+      displayName: Onelove Islandflava
+      uri: https://www.google.com/maps/contrib/103699304799839264820/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocINwEb1YTU8d-HJiaXhLc9SMn5XuDs1DzReku7tnzE5VjcdqA=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-07T02:06:51.163764Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURJLUszU1V3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJLUszU1V3EAE!2m1!1s0x87396f96f0b35ca7:0xe4079216f2080a23
+  - name: >-
+      places/ChIJp1yz8JZvOYcRIwoI8haSB-Q/reviews/ChdDSUhNMG9nS0VJQ0FnSURIMmFhWGxnRRAB
+    relativePublishTimeDescription: 7 months ago
+    rating: 5
+    text:
+      text: >-
+        Recently moved back to Cortez. This is my 3rd time ordering lunch for
+        pick up. I had the Salmon Protein Bowl. It was delicious. Generous
+        serving and they do not skip out on the sauce.
+
+
+        Today Luis assisted me and considering I have ordered lunch from here
+        more than once—He was the first server to share the STONEFISH SUSHI
+        LOYALTY LUNCH CARD with me. He also educated me on how and when to use
+        it. “Buy 6 lunch entrees from the lunch menu and the 7th is Free.” Luis
+        also packed chop sticks and soy sauce for me. This also had not been
+        done in the past. Definitely noticed his attention to detail.
+
+        It was disheartening it took three trips to learn about the Loyalty
+        Card. However, the food was delicious all of those previous times. I
+        would be 1/2 to my loyalty reward. 😂 This is more of a front end
+        training opportunity rather than food quality/service.
+
+
+        I highly recommend and looking forward to additional meals here.
+      languageCode: en
+    originalText:
+      text: >-
+        Recently moved back to Cortez. This is my 3rd time ordering lunch for
+        pick up. I had the Salmon Protein Bowl. It was delicious. Generous
+        serving and they do not skip out on the sauce.
+
+
+        Today Luis assisted me and considering I have ordered lunch from here
+        more than once—He was the first server to share the STONEFISH SUSHI
+        LOYALTY LUNCH CARD with me. He also educated me on how and when to use
+        it. “Buy 6 lunch entrees from the lunch menu and the 7th is Free.” Luis
+        also packed chop sticks and soy sauce for me. This also had not been
+        done in the past. Definitely noticed his attention to detail.
+
+        It was disheartening it took three trips to learn about the Loyalty
+        Card. However, the food was delicious all of those previous times. I
+        would be 1/2 to my loyalty reward. 😂 This is more of a front end
+        training opportunity rather than food quality/service.
+
+
+        I highly recommend and looking forward to additional meals here.
+      languageCode: en
+    authorAttribution:
+      displayName: Marvina Pete
+      uri: https://www.google.com/maps/contrib/108690154185626395111/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWngLEottfA8Z--BBm2HCNB_JyscjVaO3wUBKyD150grdYn4D28=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-09-17T20:26:49.189681Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURIMmFhWGxnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURIMmFhWGxnRRAB!2m1!1s0x87396f96f0b35ca7:0xe4079216f2080a23
+  - name: >-
+      places/ChIJp1yz8JZvOYcRIwoI8haSB-Q/reviews/ChdDSUhNMG9nS0VJQ0FnSUMzaXJ6b25BRRAB
+    relativePublishTimeDescription: 6 months ago
+    rating: 5
+    text:
+      text: >-
+        Stopped here after being in the mountains for a week. Wow! The food was
+        amazing. I ordered the Shrimp TNT roll just to try something new. I was
+        not disappointed. It was a little spicy, but the flavors were intense
+        and absolutely delicious.
+
+        Prices are a little steep, but what isn’t these days? I just ordered the
+        one item and it was plenty.
+
+        My friend ordered the rainbow roll and liked it as well.
+
+        Service was OK at the bar. A little more attention would have been
+        appreciated as they weren’t that busy, but they were talking with
+        someone about working there so no worries.
+
+        It’s definitely a cool place and probably the best place to eat in
+        Cortez. Not a ton of good options in town.
+      languageCode: en
+    originalText:
+      text: >-
+        Stopped here after being in the mountains for a week. Wow! The food was
+        amazing. I ordered the Shrimp TNT roll just to try something new. I was
+        not disappointed. It was a little spicy, but the flavors were intense
+        and absolutely delicious.
+
+        Prices are a little steep, but what isn’t these days? I just ordered the
+        one item and it was plenty.
+
+        My friend ordered the rainbow roll and liked it as well.
+
+        Service was OK at the bar. A little more attention would have been
+        appreciated as they weren’t that busy, but they were talking with
+        someone about working there so no worries.
+
+        It’s definitely a cool place and probably the best place to eat in
+        Cortez. Not a ton of good options in town.
+      languageCode: en
+    authorAttribution:
+      displayName: Darrell
+      uri: https://www.google.com/maps/contrib/106134431790330299252/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXhLDACz1vEVYIbqoACedFQRLLelVfIraF_PQgeU7OZZfbRkKd0=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2024-11-04T13:29:29.032972Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMzaXJ6b25BRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMzaXJ6b25BRRAB!2m1!1s0x87396f96f0b35ca7:0xe4079216f2080a23
+  - name: >-
+      places/ChIJp1yz8JZvOYcRIwoI8haSB-Q/reviews/ChdDSUhNMG9nS0VJQ0FnTURBOHBtT3ZnRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        This place is top notch. Five star quality food and service. The best
+        place I’ve had dinner in Cortez
+      languageCode: en
+    originalText:
+      text: >-
+        This place is top notch. Five star quality food and service. The best
+        place I’ve had dinner in Cortez
+      languageCode: en
+    authorAttribution:
+      displayName: Landon B
+      uri: https://www.google.com/maps/contrib/117793249096898163647/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLVWNjla8Fattep6rKnMUrdCbaEfxIo4GE55s88zRuEwQsrNw=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-02-08T02:01:49.909820Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURBOHBtT3ZnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURBOHBtT3ZnRRAB!2m1!1s0x87396f96f0b35ca7:0xe4079216f2080a23
+  - name: >-
+      places/ChIJp1yz8JZvOYcRIwoI8haSB-Q/reviews/ChdDSUhNMG9nS0VJQ0FnSUM3NkxhNjlnRRAB
+    relativePublishTimeDescription: 8 months ago
+    rating: 5
+    text:
+      text: >-
+        The staff and service expectations are incredible. Very attentive,
+        professional, and upbeat. The food and drinks are absolutely phenomenal
+        and you can't beat the atmosphere. 12/10. They are killing it and the
+        new owner has made some incredible updates.
+      languageCode: en
+    originalText:
+      text: >-
+        The staff and service expectations are incredible. Very attentive,
+        professional, and upbeat. The food and drinks are absolutely phenomenal
+        and you can't beat the atmosphere. 12/10. They are killing it and the
+        new owner has made some incredible updates.
+      languageCode: en
+    authorAttribution:
+      displayName: Kendall Dixon-calhoun
+      uri: https://www.google.com/maps/contrib/110816672527520315959/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUZvLmgCEVSdJD6E3Qba0CEHOFs-JNxLGV6KeF056RLb9Kduhtj6w=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-08-12T04:06:05.404369Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUM3NkxhNjlnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUM3NkxhNjlnRRAB!2m1!1s0x87396f96f0b35ca7:0xe4079216f2080a23
+review_summary: >-
+  What Customers Are Saying$$$Folks consistently praise the tasty sushi rolls
+  and flavorful Japanese dishes at this spot, highlighting the fresh ingredients
+  and generous portions that leave everyone satisfied. Many comments mention the
+  friendly service and attentive staff, which add to the relaxed vibe and make
+  visits feel welcoming and smooth. Reviewers often note the lively atmosphere
+  and solid drink options, perfect for unwinding after a day out. While some
+  mention prices on the higher side, the overall consensus is that the quality
+  and experience make it worth it for sushi enthusiasts in the area. If you're
+  on the hunt for top-rated sushi close to you, this place comes highly
+  recommended for its reliable and enjoyable meals.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
 live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
+menu_for_children: true
+outdoor_seating: true
+reservable: true
 restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

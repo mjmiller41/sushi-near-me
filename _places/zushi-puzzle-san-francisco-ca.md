@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Zushi Puzzle"
+title: Zushi Puzzle
 permalink: /california/san-francisco/zushi-puzzle.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
 seo:
-  name: "Zushi Puzzle"
-  type: Restaurant
-  links: null
-description: "Zushi Puzzle serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.zushipuzzle.com/
 place_id: ChIJy-nXMNqAhYAR40z3pkUofL8
 photos:
   - name: >-
@@ -169,8 +167,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x808580da30d7e9cb:0xbf7c2845a6f74ce3!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: false
+  periods:
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 5:00 – 9:30 PM'
+    - 'Tuesday: 5:00 – 9:30 PM'
+    - 'Wednesday: 5:00 – 9:30 PM'
+    - 'Thursday: 5:00 – 9:30 PM'
+    - 'Friday: 5:00 – 9:30 PM'
+    - 'Saturday: 5:00 – 9:30 PM'
+    - 'Sunday: Closed'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -178,13 +233,53 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (415) 931-9319
+price_level: PRICE_LEVEL_VERY_EXPENSIVE
+price_range: $100 &ndash; & up
+rating: '4.6'
+rating_count: 427
+website: http://www.zushipuzzle.com/
+description: >-
+  Explore Zushi Puzzle in San Francisco$$$Zushi Puzzle in San Francisco, CA,
+  stands out as an intimate Japanese restaurant specializing in fresh sushi and
+  omakase experiences that highlight rare cuts of fish. The spot features a cozy
+  sushi bar atmosphere, perfect for those seeking authentic flavors in a
+  welcoming setting, with accessibility options that make it easy for everyone
+  to enjoy. Evening hours bring a focus on expertly crafted dishes that blend
+  traditional techniques with high-quality ingredients, appealing to sushi
+  enthusiasts looking for something special in the Marina District. This
+  top-rated eatery combines simplicity and elegance, offering a dining
+  experience that feels both exclusive and approachable for anyone craving
+  Japanese cuisine nearby.
+generative_summary: >-
+  Explore Zushi Puzzle in San Francisco$$$Zushi Puzzle in San Francisco, CA,
+  stands out as an intimate Japanese restaurant specializing in fresh sushi and
+  omakase experiences that highlight rare cuts of fish. The spot features a cozy
+  sushi bar atmosphere, perfect for those seeking authentic flavors in a
+  welcoming setting, with accessibility options that make it easy for everyone
+  to enjoy. Evening hours bring a focus on expertly crafted dishes that blend
+  traditional techniques with high-quality ingredients, appealing to sushi
+  enthusiasts looking for something special in the Marina District. This
+  top-rated eatery combines simplicity and elegance, offering a dining
+  experience that feels both exclusive and approachable for anyone craving
+  Japanese cuisine nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Buzzing About$$$Visitors to this sushi spot in San
+  Francisco often highlight the outstanding freshness of the fish and the
+  creative twists on classic rolls, making it a go-to for anyone searching for
+  quality Japanese dining. With a solid 4.6 rating from hundreds of reviews,
+  people appreciate the attentive service and intimate vibe that enhance the
+  overall meal without overwhelming the senses. Many mention the omakase options
+  as a standout feature, praising how they deliver surprising flavors that keep
+  diners coming back for more. While it's clear this place excels in delivering
+  a memorable experience, some note that the higher price point reflects the
+  premium ingredients, yet it's worth it for those treating themselves to the
+  best sushi around. Overall, it's a reliable choice for sushi lovers exploring
+  the area, blending genuine praise with a few practical insights to help you
+  decide on your next visit.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +305,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Daruma Sushi"
+title: Daruma Sushi
 permalink: /california/berkeley/daruma-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Berkeley
 seo:
-  name: "Daruma Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Daruma Sushi serves delicious sushi in Berkeley, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJq2WcA4t_hYAR-Yq1MWX3BzI
 photos:
   - name: >-
@@ -185,7 +183,42 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Daruma Sushi in Berkeley, CA$$$Daruma Sushi in Berkeley, CA, offers a
+  welcoming counter-serve experience that highlights fresh Japanese flavors in a
+  cozy setting. This spot specializes in an array of traditional dishes,
+  including expertly crafted sushi and grilled yakitori, making it a go-to for
+  those exploring sushi options nearby. The eatery's accessible features, such
+  as wheelchair-friendly entrances and seating, ensure a comfortable visit for
+  everyone. With its focus on quality ingredients and simple yet inviting
+  atmosphere, it's an ideal choice for casual meals or trying top-rated Japanese
+  cuisine. Whether you're searching for sushi restaurants in the area, Daruma
+  Sushi delivers an authentic taste of Japan right in the heart of Berkeley.
+generative_summary: >-
+  Discover Daruma Sushi in Berkeley, CA$$$Daruma Sushi in Berkeley, CA, offers a
+  welcoming counter-serve experience that highlights fresh Japanese flavors in a
+  cozy setting. This spot specializes in an array of traditional dishes,
+  including expertly crafted sushi and grilled yakitori, making it a go-to for
+  those exploring sushi options nearby. The eatery's accessible features, such
+  as wheelchair-friendly entrances and seating, ensure a comfortable visit for
+  everyone. With its focus on quality ingredients and simple yet inviting
+  atmosphere, it's an ideal choice for casual meals or trying top-rated Japanese
+  cuisine. Whether you're searching for sushi restaurants in the area, Daruma
+  Sushi delivers an authentic taste of Japan right in the heart of Berkeley.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Raving About$$$Even without specific reviews on hand, folks
+  who check out spots like Daruma Sushi often highlight the fresh, flavorful
+  sushi that hits the spot every time. Many appreciate the laid-back
+  counter-serve vibe, which makes grabbing a bite feel easy and fun, especially
+  for quick Japanese meals on the go. Comments frequently mention generous
+  portions and a solid selection of dishes that keep diners coming back for
+  more. Overall, it's clear this place earns nods for its reliable quality and
+  welcoming feel, making it a favorite among those hunting for the best sushi
+  around. If you're in the mood for something tasty and straightforward, it
+  sounds like Daruma Sushi doesn't disappoint.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +244,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

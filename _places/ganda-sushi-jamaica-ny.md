@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ganda Sushi"
+title: Ganda Sushi
 permalink: /new-york/jamaica/ganda-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: Jamaica
 seo:
-  name: "Ganda Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Ganda Sushi serves delicious sushi in Jamaica, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJrWNxygBhwokRWJ-_l-Dnf0s
 photos:
   - name: >-
@@ -167,7 +165,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c26100ca7163ad:0x4b7fe7e097bf9f58!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -175,14 +223,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:00 PM'
     - 'Saturday: 11:00 AM – 9:00 PM'
     - 'Sunday: 12:00 – 9:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 9:00 PM'
-    - 'Saturday: 11:00 AM – 9:00 PM'
-    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T01:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -194,9 +235,41 @@ phone: (718) 380-1818
 price_level: PRICE_LEVEL_INEXPENSIVE
 price_range: $10 &ndash; $20
 rating: '4.6'
-rating_count: 0
+rating_count: 188
 website: null
+description: >-
+  About Ganda Sushi in Jamaica, NY$$$Ganda Sushi in Jamaica, New York, stands
+  out as a vibrant sushi spot offering a mix of fresh Japanese flavors and
+  quick, satisfying meals. This trendy eatery focuses on delivering comfort food
+  options that pair perfectly for lunch or dinner, making it a go-to choice for
+  those seeking quality sushi nearby. With its inviting atmosphere and emphasis
+  on flavorful bites, it's ideal for anyone exploring top-rated Japanese places
+  in the area. The restaurant operates with convenient hours, ensuring you can
+  enjoy a relaxed dining experience whether you're stopping by for a speedy meal
+  or a leisurely unwind.
+generative_summary: >-
+  About Ganda Sushi in Jamaica, NY$$$Ganda Sushi in Jamaica, New York, stands
+  out as a vibrant sushi spot offering a mix of fresh Japanese flavors and
+  quick, satisfying meals. This trendy eatery focuses on delivering comfort food
+  options that pair perfectly for lunch or dinner, making it a go-to choice for
+  those seeking quality sushi nearby. With its inviting atmosphere and emphasis
+  on flavorful bites, it's ideal for anyone exploring top-rated Japanese places
+  in the area. The restaurant operates with convenient hours, ensuring you can
+  enjoy a relaxed dining experience whether you're stopping by for a speedy meal
+  or a leisurely unwind.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Based on the high ratings for Ganda Sushi,
+  visitors often highlight the fresh and tasty sushi options that make it a
+  solid pick for casual dining. Many appreciate the variety of dishes that
+  deliver great value without breaking the bank, creating a welcoming vibe for
+  quick lunches or evening outings. While some note the straightforward service
+  keeps things efficient, the overall feedback leans positive, with folks
+  enjoying the authentic flavors that keep them coming back. It's clear this
+  spot earns its strong reputation as a reliable choice for sushi enthusiasts in
+  the neighborhood, though it's always good to check for the latest experiences.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -222,7 +295,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

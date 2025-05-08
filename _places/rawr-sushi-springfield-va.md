@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "RAWR Sushi"
+title: RAWR Sushi
 permalink: /virginia/springfield/rawr-sushi.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Springfield
 seo:
-  name: "RAWR Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.rawrsushi.com/
-description: "Small, simple sushi bar turning out familiar rolls, plus Japanese kitchen entrees & bento boxes. RAWR Sushi serves delicious sushi in Springfield, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ0wZ1DKmyt4kR0LWXHMY-5X4
 photos:
   - name: >-
@@ -185,6 +183,27 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 0
 website: http://www.rawrsushi.com/
+description: >-
+  Discover RAWR Sushi in Springfield, Virginia$$$Nestled in Springfield,
+  Virginia, RAWR Sushi offers a welcoming spot for enjoying fresh Japanese
+  cuisine in a relaxed setting. This cozy sushi restaurant serves a variety of
+  bento boxes, ramen, and creative sushi rolls, making it a go-to choice for
+  casual meals or quick take-out options. With its accessible features and
+  affordable pricing, it's designed to accommodate everyone looking for a
+  straightforward dining experience. The menu highlights flavorful kitchen
+  entrees alongside classic rolls, appealing to those seeking satisfying and
+  approachable Japanese dishes in the area.
+generative_summary: >-
+  Discover RAWR Sushi in Springfield, Virginia$$$Nestled in Springfield,
+  Virginia, RAWR Sushi offers a welcoming spot for enjoying fresh Japanese
+  cuisine in a relaxed setting. This cozy sushi restaurant serves a variety of
+  bento boxes, ramen, and creative sushi rolls, making it a go-to choice for
+  casual meals or quick take-out options. With its accessible features and
+  affordable pricing, it's designed to accommodate everyone looking for a
+  straightforward dining experience. The menu highlights flavorful kitchen
+  entrees alongside classic rolls, appealing to those seeking satisfying and
+  approachable Japanese dishes in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ0wZ1DKmyt4kR0LWXHMY-5X4/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ3OHJEaXVnRRAB
@@ -340,6 +359,17 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURfbGRIT0F3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURfbGRIT0F3EAE!2m1!1s0x89b7b2a90c7506d3:0x7ee53ec61c97b5d0
+review_summary: >-
+  What People Love About This Local Sushi Favorite$$$Visitors often rave about
+  the fresh flavors and quality of the sushi and ramen, noting how it hits the
+  spot for a quick and satisfying meal. Many appreciate the friendly service and
+  welcoming vibe that make every visit feel comfortable and efficient, with
+  meals prepared quickly and at reasonable prices. Folks frequently highlight
+  the great value for authentic Japanese options, perfect for families or groups
+  stopping by for lunch or dinner. Overall, it's praised as a reliable choice
+  for everyday dining, with positive mentions of the variety that keeps
+  customers coming back for more in this vibrant community spot.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -372,8 +402,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Small, simple sushi bar turning out familiar rolls, plus Japanese kitchen
   entrees & bento boxes.
 

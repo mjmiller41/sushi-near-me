@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "541 Sushi Bar"
+title: 541 Sushi Bar
 permalink: /oregon/eugene/541-sushi-bar.html
 stateAbbr: OR
 stateName: Oregon
 cityName: Eugene
 seo:
-  name: "541 Sushi Bar"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "541 Sushi Bar serves delicious sushi in Eugene, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJzZOR-hQewVQRs2ZMzcKq6R0
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x54c11e14fa9193cd:0x1de9aac2cd4c66b3!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:30 AM – 9:00 PM'
     - 'Wednesday: 11:30 AM – 9:00 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 9:00 PM'
     - 'Saturday: 11:30 AM – 9:00 PM'
     - 'Sunday: 11:30 AM – 9:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:30 AM – 9:00 PM'
-    - 'Wednesday: 11:30 AM – 9:00 PM'
-    - 'Thursday: 11:30 AM – 9:00 PM'
-    - 'Friday: 11:30 AM – 9:00 PM'
-    - 'Saturday: 11:30 AM – 9:00 PM'
-    - 'Sunday: 11:30 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +238,263 @@ phone: (541) 654-8171
 price_level: PRICE_LEVEL_INEXPENSIVE
 price_range: $10 &ndash; $20
 rating: '4.2'
-rating_count: 0
+rating_count: 1001
 website: null
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  About 541 Sushi Bar in Eugene, OR$$$In Eugene, OR, the 541 Sushi Bar stands
+  out as a casual spot for fresh Japanese cuisine, featuring a rotating conveyor
+  belt that brings an interactive twist to dining. This sushi restaurant offers
+  a variety of small plates like sushi rolls and tempura, making it a great
+  choice for lunch or dinner in a welcoming downtown setting. With accessibility
+  options such as wheelchair-friendly entrances and parking, it's designed to
+  accommodate everyone looking for quality eats. The affordable pricing and
+  high-quality ingredients ensure a satisfying experience, especially for those
+  seeking sushi places near me. Open most days from late morning until evening,
+  it's an ideal stop for anyone exploring top-rated sushi options in the area.
+generative_summary: >-
+  About 541 Sushi Bar in Eugene, OR$$$In Eugene, OR, the 541 Sushi Bar stands
+  out as a casual spot for fresh Japanese cuisine, featuring a rotating conveyor
+  belt that brings an interactive twist to dining. This sushi restaurant offers
+  a variety of small plates like sushi rolls and tempura, making it a great
+  choice for lunch or dinner in a welcoming downtown setting. With accessibility
+  options such as wheelchair-friendly entrances and parking, it's designed to
+  accommodate everyone looking for quality eats. The affordable pricing and
+  high-quality ingredients ensure a satisfying experience, especially for those
+  seeking sushi places near me. Open most days from late morning until evening,
+  it's an ideal stop for anyone exploring top-rated sushi options in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJzZOR-hQewVQRs2ZMzcKq6R0/reviews/ChdDSUhNMG9nS0VJQ0FnTUNvellqUmt3RRAB
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        Love going here with my friends! The food is always so good, and the
+        staff is always so nice! Much more affordable than other sushi places
+        and a great deal considering the high quality of the ingredients!!
+        There’s not as many vegetarian options as I’d prefer however the
+        asparagus roll is SO so good! The service is quick and the atmosphere is
+        nice and it’s right downtown! Plenty of street parking and pay-to-park
+        lots within a block of here!
+      languageCode: en
+    originalText:
+      text: >-
+        Love going here with my friends! The food is always so good, and the
+        staff is always so nice! Much more affordable than other sushi places
+        and a great deal considering the high quality of the ingredients!!
+        There’s not as many vegetarian options as I’d prefer however the
+        asparagus roll is SO so good! The service is quick and the atmosphere is
+        nice and it’s right downtown! Plenty of street parking and pay-to-park
+        lots within a block of here!
+      languageCode: en
+    authorAttribution:
+      displayName: Payson Hudson
+      uri: https://www.google.com/maps/contrib/107123213103228342544/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJ-lOSaCkLbUAu0N80ICPTgh6eQV6rvmtBYtRB4AjT0zyrTfg=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-19T01:14:38.271433Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNvellqUmt3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNvellqUmt3RRAB!2m1!1s0x54c11e14fa9193cd:0x1de9aac2cd4c66b3
+  - name: >-
+      places/ChIJzZOR-hQewVQRs2ZMzcKq6R0/reviews/ChdDSUhNMG9nS0VJQ0FnTURvMmI3Zm9nRRAB
+    relativePublishTimeDescription: a week ago
+    rating: 1
+    text:
+      text: >-
+        4/24 8pm.
+
+        My husband and son visited 541. On arriving home my husband mentioned
+        that the sushi tasted off.
+
+
+        Both my son and husband are experiencing food poisoning, my son was sent
+        home from school 4/25 12pm with a stomach ache and by 3pm was vomiting.
+
+        4/26 7am diarrhea for both my husband and son.
+
+        It cost them over $100 to get this diarrhea.
+
+        541 clean up your act this is disgusting.
+
+        Health department is following up.
+      languageCode: en
+    originalText:
+      text: >-
+        4/24 8pm.
+
+        My husband and son visited 541. On arriving home my husband mentioned
+        that the sushi tasted off.
+
+
+        Both my son and husband are experiencing food poisoning, my son was sent
+        home from school 4/25 12pm with a stomach ache and by 3pm was vomiting.
+
+        4/26 7am diarrhea for both my husband and son.
+
+        It cost them over $100 to get this diarrhea.
+
+        541 clean up your act this is disgusting.
+
+        Health department is following up.
+      languageCode: en
+    authorAttribution:
+      displayName: Suzanne Satterthwaite
+      uri: https://www.google.com/maps/contrib/112146337515048603285/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocInoeGVzJAlK9Zc5oShaHhFKHwE1Dn-dEtOKUsKcHIRkXOAzg=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-26T14:33:37.286195Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURvMmI3Zm9nRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURvMmI3Zm9nRRAB!2m1!1s0x54c11e14fa9193cd:0x1de9aac2cd4c66b3
+  - name: >-
+      places/ChIJzZOR-hQewVQRs2ZMzcKq6R0/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJNk9MYXh3RRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Awesome Sushi bar! Everything was delicious, and the sushi was fresh.
+        all of the staff was very friendly, and welcoming. Sushi, and Miso soup
+        were very delicious. I wish I would've caught the name of the Woman, and
+        young man there, but they were absolutely amazing and very friendly.
+        10/10 would recommend and go back next time we are in Eugene.
+      languageCode: en
+    originalText:
+      text: >-
+        Awesome Sushi bar! Everything was delicious, and the sushi was fresh.
+        all of the staff was very friendly, and welcoming. Sushi, and Miso soup
+        were very delicious. I wish I would've caught the name of the Woman, and
+        young man there, but they were absolutely amazing and very friendly.
+        10/10 would recommend and go back next time we are in Eugene.
+      languageCode: en
+    authorAttribution:
+      displayName: Michael Hoffee
+      uri: https://www.google.com/maps/contrib/109219469477678103495/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjV78TGqSh8IqnJt7FI6HlthV33Nhqr4FApgoTOtj9D9bZz4OAMq=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-29T22:33:39.032065Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNJNk9MYXh3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNJNk9MYXh3RRAB!2m1!1s0x54c11e14fa9193cd:0x1de9aac2cd4c66b3
+  - name: >-
+      places/ChIJzZOR-hQewVQRs2ZMzcKq6R0/reviews/ChZDSUhNMG9nS0VJQ0FnTURJN183bVNBEAE
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        I fvck with 541 sushi. Always on time. I ain't even gotta ask. Super
+        good every time. It's like exactly what I need every time. I am always
+        satisfied after I eat here. That's just me. My wife and I always eat
+        here amd it's our go to for fast friendly and good quality food. Like
+        uncle Roland says, "Yummy Yummy Yummy".
+      languageCode: en
+    originalText:
+      text: >-
+        I fvck with 541 sushi. Always on time. I ain't even gotta ask. Super
+        good every time. It's like exactly what I need every time. I am always
+        satisfied after I eat here. That's just me. My wife and I always eat
+        here amd it's our go to for fast friendly and good quality food. Like
+        uncle Roland says, "Yummy Yummy Yummy".
+      languageCode: en
+    authorAttribution:
+      displayName: Israel Garza
+      uri: https://www.google.com/maps/contrib/105193878490193619099/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocL-Y6gMEsS84T8omCJBuzbNoNAshd09ivSChQWtTaggzVYQ9w=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-13T23:59:14.218600Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURJN183bVNBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJN183bVNBEAE!2m1!1s0x54c11e14fa9193cd:0x1de9aac2cd4c66b3
+  - name: >-
+      places/ChIJzZOR-hQewVQRs2ZMzcKq6R0/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ5c2VqWjRRRRAB
+    relativePublishTimeDescription: 9 months ago
+    rating: 5
+    text:
+      text: >-
+        This is my favorite moving sushi bar in Eugene 😋. Thet are always happy
+        to make you any roll that's not on the belt and the service is always
+        friendly and Accommodating. Try to save me a seat if you make this your
+        new sushi bar 🍣
+
+        Don't listen to haters who come to a Sushi belt and order soup and a box
+        of non-sushi items like overpriced grapes and cheesecake. Those people
+        are petty and better off at Fred Meyers 😒
+      languageCode: en
+    originalText:
+      text: >-
+        This is my favorite moving sushi bar in Eugene 😋. Thet are always happy
+        to make you any roll that's not on the belt and the service is always
+        friendly and Accommodating. Try to save me a seat if you make this your
+        new sushi bar 🍣
+
+        Don't listen to haters who come to a Sushi belt and order soup and a box
+        of non-sushi items like overpriced grapes and cheesecake. Those people
+        are petty and better off at Fred Meyers 😒
+      languageCode: en
+    authorAttribution:
+      displayName: A. Hiram
+      uri: https://www.google.com/maps/contrib/102208224705818451195/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJI0KmWtf-EqOTetBmp3aVEXZy5g8zqMYhwDsPhpO7IW2JLuk4=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-07-19T02:05:30.998748Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQ5c2VqWjRRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQ5c2VqWjRRRRAB!2m1!1s0x54c11e14fa9193cd:0x1de9aac2cd4c66b3
+review_summary: >-
+  Customer Feedback on 541 Sushi Bar$$$Visitors often rave about the fresh
+  flavors and friendly service at this sushi spot, highlighting how the conveyor
+  belt adds a fun element to grabbing delicious rolls and sides. Many appreciate
+  the quick service and affordable prices, making it a go-to for groups or
+  families enjoying Japanese-inspired meals in a relaxed vibe. While most
+  experiences are positive, a few mentions of occasional inconsistencies remind
+  us that freshness can vary, so it's smart to check for updates. Overall, the
+  atmosphere and variety keep things engaging, with plenty of folks coming back
+  for the satisfying portions and easy downtown access. If you're hunting for
+  sushi restaurants near me, this place delivers solid value with a mostly
+  upbeat crowd favorite feel.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  paidParkingLot: true
+  freeStreetParking: true
+  paidStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: false
+restroom: true
+serves_beer: true
+serves_breakfast: true
+serves_brunch: false
+serves_cocktails: false
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Sushi rolls, tempura & other Japanese plates are served on a conveyor belt at
+  this simple eatery.
 
 ---

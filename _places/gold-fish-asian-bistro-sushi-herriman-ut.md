@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Gold Fish Asian Bistro & Sushi"
+title: Gold Fish Asian Bistro & Sushi
 permalink: /utah/herriman/gold-fish-asian-bistro-sushi.html
 stateAbbr: UT
 stateName: Utah
 cityName: Herriman
 seo:
-  name: "Gold Fish Asian Bistro & Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://goldfishasianbistro.com/
-description: "Gold Fish Asian Bistro & Sushi serves delicious sushi in Herriman, Utah. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJY9VZqzWFUocRCUNVS9AGd4I
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x87528535ab59d563:0x827706d04b554309!10e5
 primary_type: Asian Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 10:00 PM'
     - 'Tuesday: 11:00 AM – 10:00 PM'
     - 'Wednesday: 11:00 AM – 10:00 PM'
@@ -178,54 +234,336 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:30 PM'
     - 'Saturday: 11:00 AM – 10:30 PM'
     - 'Sunday: 11:30 AM – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 10:00 PM'
-    - 'Tuesday: 11:00 AM – 10:00 PM'
-    - 'Wednesday: 11:00 AM – 10:00 PM'
-    - 'Thursday: 11:00 AM – 10:00 PM'
-    - 'Friday: 11:00 AM – 10:30 PM'
-    - 'Saturday: 11:00 AM – 10:30 PM'
-    - 'Sunday: 11:30 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T04:30:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 11
+          minute: 30
+        close:
+          day: 0
+          hour: 21
+          minute: 0
+      - open:
+          day: 1
+          hour: 11
+          minute: 0
+        close:
+          day: 1
+          hour: 22
+          minute: 0
+      - open:
+          day: 2
+          hour: 11
+          minute: 0
+        close:
+          day: 2
+          hour: 22
+          minute: 0
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 22
+          minute: 0
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 22
+          minute: 0
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 22
+          minute: 30
+      - open:
+          day: 6
+          hour: 11
+          minute: 0
+        close:
+          day: 6
+          hour: 22
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 11:00 AM – 10:00 PM'
+      - 'Tuesday: 11:00 AM – 10:00 PM'
+      - 'Wednesday: 11:00 AM – 10:00 PM'
+      - 'Thursday: 11:00 AM – 10:00 PM'
+      - 'Friday: 11:00 AM – 10:30 PM'
+      - 'Saturday: 11:00 AM – 10:30 PM'
+      - 'Sunday: 11:30 AM – 9:00 PM'
+    secondaryHoursType: TAKEOUT
+    nextCloseTime: '2025-05-04T04:30:00Z'
 phone: (801) 260-3500
 price_level: PRICE_LEVEL_INEXPENSIVE
 price_range: $10 &ndash; $20
 rating: '4.4'
-rating_count: 0
+rating_count: 328
 website: https://goldfishasianbistro.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Gold Fish Asian Bistro in Herriman, UT$$$Gold Fish Asian Bistro &
+  Sushi in Herriman, UT, provides a welcoming spot for enjoying fresh
+  Asian-inspired dishes and creative sushi options in a relaxed setting. This
+  local eatery features a variety of flavorful Chinese-style eats, including
+  vegetarian choices, alongside expertly crafted rolls that highlight quality
+  ingredients and thoughtful preparation. Patrons can savor the casual
+  atmosphere while exploring an array of affordable menu items that blend
+  traditional flavors with everyday appeal. The bistro's accessibility features
+  make it easy for everyone to enjoy a meal, enhancing its appeal as a go-to
+  sushi restaurant near you. With generous portions and a focus on value, it's
+  an ideal choice for those seeking top-rated sushi experiences in the area.
+generative_summary: >-
+  Discover Gold Fish Asian Bistro in Herriman, UT$$$Gold Fish Asian Bistro &
+  Sushi in Herriman, UT, provides a welcoming spot for enjoying fresh
+  Asian-inspired dishes and creative sushi options in a relaxed setting. This
+  local eatery features a variety of flavorful Chinese-style eats, including
+  vegetarian choices, alongside expertly crafted rolls that highlight quality
+  ingredients and thoughtful preparation. Patrons can savor the casual
+  atmosphere while exploring an array of affordable menu items that blend
+  traditional flavors with everyday appeal. The bistro's accessibility features
+  make it easy for everyone to enjoy a meal, enhancing its appeal as a go-to
+  sushi restaurant near you. With generous portions and a focus on value, it's
+  an ideal choice for those seeking top-rated sushi experiences in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJY9VZqzWFUocRCUNVS9AGd4I/reviews/ChdDSUhNMG9nS0VJQ0FnSUN2OHF1NG1BRRAB
+    relativePublishTimeDescription: 4 months ago
+    rating: 3
+    text:
+      text: >-
+        Gold Fish Asian Bistro was an okay experience! Nothing horrible, but
+        nothing that was really that good or that really excited me. Overall
+        it's about a 3.5. Chinese is just hard to find in Utah.
+
+
+        The prices I will say are very very fair and very cheap for a sit down
+        Chinese restaurant. They are really good with their prices. 10.99 for a
+        dinner combo with Meat, Dried Rice, Soup, 2 Gyoza, and a spring roll.
+        Impressive. The food itself was very mild in flavor, and just a tad
+        overcooked. The crisp on the chicken dishes were nice though, great
+        breading. General Tsos wasn't very spicy and seasoned, looked better
+        than how it tasted. Orange chicken lacking in orange. Rice very basic
+        and not very flavorful. A little crumbly on the texture. The noodles
+        were very vegetable filled, but they were very nice to give me a little
+        side of lo mein for just a couple bucks! Unfortunately the soup didn't
+        taste like much and could use some salt.
+
+
+        Service was pretty good! They were very kind and helpful, nice little
+        place to be in as well! Maybe okay for a quick budget Chinese stop!
+      languageCode: en
+    originalText:
+      text: >-
+        Gold Fish Asian Bistro was an okay experience! Nothing horrible, but
+        nothing that was really that good or that really excited me. Overall
+        it's about a 3.5. Chinese is just hard to find in Utah.
+
+
+        The prices I will say are very very fair and very cheap for a sit down
+        Chinese restaurant. They are really good with their prices. 10.99 for a
+        dinner combo with Meat, Dried Rice, Soup, 2 Gyoza, and a spring roll.
+        Impressive. The food itself was very mild in flavor, and just a tad
+        overcooked. The crisp on the chicken dishes were nice though, great
+        breading. General Tsos wasn't very spicy and seasoned, looked better
+        than how it tasted. Orange chicken lacking in orange. Rice very basic
+        and not very flavorful. A little crumbly on the texture. The noodles
+        were very vegetable filled, but they were very nice to give me a little
+        side of lo mein for just a couple bucks! Unfortunately the soup didn't
+        taste like much and could use some salt.
+
+
+        Service was pretty good! They were very kind and helpful, nice little
+        place to be in as well! Maybe okay for a quick budget Chinese stop!
+      languageCode: en
+    authorAttribution:
+      displayName: Brenden Redd
+      uri: https://www.google.com/maps/contrib/116113554609361364218/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUS5spIFilzXcE7a9xzN2o9o-fO6C_EYeABdh1ONI0PAUmeyAYRKQ=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-12-09T19:30:54.855592Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN2OHF1NG1BRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN2OHF1NG1BRRAB!2m1!1s0x87528535ab59d563:0x827706d04b554309
+  - name: >-
+      places/ChIJY9VZqzWFUocRCUNVS9AGd4I/reviews/ChdDSUhNMG9nS0VJQ0FnSURyemNyU293RRAB
+    relativePublishTimeDescription: 9 months ago
+    rating: 5
+    text:
+      text: >-
+        Go here. Seriously. Go. Sushi is my favorite food and they did not
+        disappoint. Derek (the chef and owner) and his wife took such great care
+        of us. I’m so full right now, it hurts to breathe and I have no regrets.
+        Super fair prices too. Love mom and pop places!
+      languageCode: en
+    originalText:
+      text: >-
+        Go here. Seriously. Go. Sushi is my favorite food and they did not
+        disappoint. Derek (the chef and owner) and his wife took such great care
+        of us. I’m so full right now, it hurts to breathe and I have no regrets.
+        Super fair prices too. Love mom and pop places!
+      languageCode: en
+    authorAttribution:
+      displayName: Sarah B-H
+      uri: https://www.google.com/maps/contrib/103961832987238308368/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVH0v0XHS8AMwcJwSdfL-2uMKJ9SNRYvq_C5gf3SQqby2yXMsct=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2024-07-19T04:02:17.725500Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURyemNyU293RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURyemNyU293RRAB!2m1!1s0x87528535ab59d563:0x827706d04b554309
+  - name: >-
+      places/ChIJY9VZqzWFUocRCUNVS9AGd4I/reviews/ChZDSUhNMG9nS0VJQ0FnSUNMX0luWGRBEAE
+    relativePublishTimeDescription: 10 months ago
+    rating: 5
+    text:
+      text: >-
+        Delicious food. One of My favorite brunch experiences so far. The mango
+        sushi roll was delightful and the cream cheese wontons were incredible.
+        I feel like cream cheese wontons can be overwhelming at times especially
+        if the crispy part is thick. These were so light and the cheese was
+        melted it was incredible.
+      languageCode: en
+    originalText:
+      text: >-
+        Delicious food. One of My favorite brunch experiences so far. The mango
+        sushi roll was delightful and the cream cheese wontons were incredible.
+        I feel like cream cheese wontons can be overwhelming at times especially
+        if the crispy part is thick. These were so light and the cheese was
+        melted it was incredible.
+      languageCode: en
+    authorAttribution:
+      displayName: Leilanie Chilado
+      uri: https://www.google.com/maps/contrib/107184841410204462813/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjU3_Gq3hHgU6tpnBF8CTCv9LMI7lvvzHws85hFvL26qiRJyIWHc=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-06-16T20:14:48.198905Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNMX0luWGRBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNMX0luWGRBEAE!2m1!1s0x87528535ab59d563:0x827706d04b554309
+  - name: >-
+      places/ChIJY9VZqzWFUocRCUNVS9AGd4I/reviews/ChZDSUhNMG9nS0VJQ0FnTUNBcnFXM2NnEAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        The absolute best sushi in the entire state. Freshest sushi, huge rolls,
+        amazing service, everything is soooooooo good!!!!
+      languageCode: en
+    originalText:
+      text: >-
+        The absolute best sushi in the entire state. Freshest sushi, huge rolls,
+        amazing service, everything is soooooooo good!!!!
+      languageCode: en
+    authorAttribution:
+      displayName: Lena Koop
+      uri: https://www.google.com/maps/contrib/117831513190607972248/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjW2iaRAqsDfmCXTxQvx1JpBtzImrfB1T0p-mZWSaDPQV2LoQetkvQ=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-02-01T00:45:48.635737Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNBcnFXM2NnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNBcnFXM2NnEAE!2m1!1s0x87528535ab59d563:0x827706d04b554309
+  - name: >-
+      places/ChIJY9VZqzWFUocRCUNVS9AGd4I/reviews/ChZDSUhNMG9nS0VJQ0FnSUN4cE02d0FnEAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        I recently had the pleasure of dining at Goldfish Bistro and I have to
+        say, it was an incredible experience. The atmosphere was lovely and the
+        sushi was outstanding. I was particularly impressed by the manager,
+        Adam, who went above and beyond to ensure that my dining experience was
+        exceptional. His attention to detail and knowledge of the menu were
+        truly impressive. Adam made some fantastic recommendations, both for
+        sushi and drinks, and his exceptional service truly elevated our dining
+        experience. I highly recommend Goldfish Bistro to anyone looking for
+        delicious sushi and exceptional service!. Thank you, Adam, for making
+        our visit such a wonderful one!
+      languageCode: en
+    originalText:
+      text: >-
+        I recently had the pleasure of dining at Goldfish Bistro and I have to
+        say, it was an incredible experience. The atmosphere was lovely and the
+        sushi was outstanding. I was particularly impressed by the manager,
+        Adam, who went above and beyond to ensure that my dining experience was
+        exceptional. His attention to detail and knowledge of the menu were
+        truly impressive. Adam made some fantastic recommendations, both for
+        sushi and drinks, and his exceptional service truly elevated our dining
+        experience. I highly recommend Goldfish Bistro to anyone looking for
+        delicious sushi and exceptional service!. Thank you, Adam, for making
+        our visit such a wonderful one!
+      languageCode: en
+    authorAttribution:
+      displayName: Jason He
+      uri: https://www.google.com/maps/contrib/108225145751591736559/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJxp7BfixO2rfkz0kAIZQHVWhIiHoFoVf-3jgwv3aw36qmS6g=s128-c0x00000000-cc-rp-mo
+    publishTime: '2023-05-10T21:49:22.923993Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN4cE02d0FnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN4cE02d0FnEAE!2m1!1s0x87528535ab59d563:0x827706d04b554309
+review_summary: >-
+  What Customers Are Saying About This Spot$$$Folks who visit this sushi place
+  often rave about the fresh, generously sized rolls and the overall friendly
+  vibe that makes dining out feel effortless and enjoyable. Many appreciate the
+  fair pricing and variety of options, including tasty vegetarian dishes, which
+  add to its reputation as a reliable choice for casual meals. While some note
+  that flavors can be on the milder side, the general consensus highlights the
+  solid service and quick, budget-friendly combos that keep people coming back.
+  Overall, it's praised as a great spot for groups or families looking for
+  satisfying Asian fare without breaking the bank. If you're hunting for
+  top-rated sushi nearby, this place delivers a consistently positive experience
+  that's worth trying out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: true
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
 serves_breakfast: null
 serves_brunch: null
 serves_cocktails: null
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

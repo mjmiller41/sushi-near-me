@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Kushi"
+title: Sushi Kushi
 permalink: /texas/carrollton/sushi-kushi.html
 stateAbbr: TX
 stateName: Texas
 cityName: Carrollton
 seo:
-  name: "Sushi Kushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.sushikushitx.com/
-description: "Sushi Kushi serves delicious sushi in Carrollton, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJO0t9TlIlTIYRODAaLOsuIBw
 photos:
   - name: >-
@@ -170,7 +168,105 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x864c25524e7d4b3b:0x1c202eeb2c1a3038!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 2:30 PM, 4:30 – 10:00 PM'
     - 'Tuesday: 11:30 AM – 2:30 PM, 4:30 – 10:00 PM'
     - 'Wednesday: 11:30 AM – 2:30 PM, 4:30 – 10:00 PM'
@@ -178,14 +274,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 2:30 PM, 4:30 – 11:00 PM'
     - 'Saturday: 12:00 – 11:00 PM'
     - 'Sunday: 12:00 – 10:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 2:30 PM, 4:30 – 10:00 PM'
-    - 'Tuesday: 11:30 AM – 2:30 PM, 4:30 – 10:00 PM'
-    - 'Wednesday: 11:30 AM – 2:30 PM, 4:30 – 10:00 PM'
-    - 'Thursday: 11:30 AM – 2:30 PM, 4:30 – 10:00 PM'
-    - 'Friday: 11:30 AM – 2:30 PM, 4:30 – 11:00 PM'
-    - 'Saturday: 12:00 – 11:00 PM'
-    - 'Sunday: 12:00 – 10:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +286,228 @@ phone: (469) 758-0129
 price_level: PRICE_LEVEL_MODERATE
 price_range: $30 &ndash; $50
 rating: '4.2'
-rating_count: 0
+rating_count: 833
 website: http://www.sushikushitx.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Sushi Kushi in Carrollton, TX$$$Sushi Kushi in Carrollton, TX, stands
+  out as a casual spot for enjoying Japanese cuisine, featuring an
+  all-you-can-eat menu that includes fresh sushi rolls, hibachi options, and a
+  range of beverages. This welcoming eatery emphasizes variety in its offerings,
+  making it a go-to choice for those seeking sushi restaurants with diverse
+  flavors and accessible dining features. Patrons appreciate the convenient
+  hours and moderate pricing, which cater to both quick lunches and relaxed
+  dinners. For anyone exploring sushi places near me, the spot's focus on
+  quality Japanese fare ensures a satisfying experience, blending simplicity
+  with flavorful dishes that highlight local favorites.
+generative_summary: >-
+  Discover Sushi Kushi in Carrollton, TX$$$Sushi Kushi in Carrollton, TX, stands
+  out as a casual spot for enjoying Japanese cuisine, featuring an
+  all-you-can-eat menu that includes fresh sushi rolls, hibachi options, and a
+  range of beverages. This welcoming eatery emphasizes variety in its offerings,
+  making it a go-to choice for those seeking sushi restaurants with diverse
+  flavors and accessible dining features. Patrons appreciate the convenient
+  hours and moderate pricing, which cater to both quick lunches and relaxed
+  dinners. For anyone exploring sushi places near me, the spot's focus on
+  quality Japanese fare ensures a satisfying experience, blending simplicity
+  with flavorful dishes that highlight local favorites.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJO0t9TlIlTIYRODAaLOsuIBw/reviews/ChdDSUhNMG9nS0VJQ0FnTURvOF9QbC1RRRAB
+    relativePublishTimeDescription: in the last week
+    rating: 5
+    text:
+      text: >-
+        Our server Andy did a great job serving us. His recommendations were on
+        point and made our all-you-can-eat lunch enjoyable. Most of the sushi
+        was decent, and the appetizers were better than many other sushi places
+      languageCode: en
+    originalText:
+      text: >-
+        Our server Andy did a great job serving us. His recommendations were on
+        point and made our all-you-can-eat lunch enjoyable. Most of the sushi
+        was decent, and the appetizers were better than many other sushi places
+      languageCode: en
+    authorAttribution:
+      displayName: Ryan
+      uri: https://www.google.com/maps/contrib/113611956316284586671/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUrJFpkOpXtyQ6b6ShdjV6KPSJxh6LpwPhMYRLEsKCzcRWQNt0O=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-28T19:17:39.264771Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURvOF9QbC1RRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURvOF9QbC1RRRAB!2m1!1s0x864c25524e7d4b3b:0x1c202eeb2c1a3038
+  - name: >-
+      places/ChIJO0t9TlIlTIYRODAaLOsuIBw/reviews/ChZDSUhNMG9nS0VJQ0FnTURJMTcyYVV3EAE
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 4
+    text:
+      text: >-
+        Decided to grab some sushi the other day with my cousin. We went with an
+        all-you-can-eat spot, and Sushi Kushi was our pick. The atmosphere was
+        nice, and the staff were great—super welcoming and patient, especially
+        since it was our first time there. They didn’t rush us at all despite
+        the huge menu. The specialty rolls had a ton of variety, the appetizers
+        were delicious, and the sashimi tasted really fresh. Overall, it was a
+        solid choice. I appreciated the service and would definitely recommend
+        it to friends and family craving sushi.
+      languageCode: en
+    originalText:
+      text: >-
+        Decided to grab some sushi the other day with my cousin. We went with an
+        all-you-can-eat spot, and Sushi Kushi was our pick. The atmosphere was
+        nice, and the staff were great—super welcoming and patient, especially
+        since it was our first time there. They didn’t rush us at all despite
+        the huge menu. The specialty rolls had a ton of variety, the appetizers
+        were delicious, and the sashimi tasted really fresh. Overall, it was a
+        solid choice. I appreciated the service and would definitely recommend
+        it to friends and family craving sushi.
+      languageCode: en
+    authorAttribution:
+      displayName: Charly Manylott
+      uri: https://www.google.com/maps/contrib/117461621185445940503/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVBztQog0bdOSXczKEnVEk2nJfCzWx_VX4u0CXKfN1PJSG85keE=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-13T16:52:57.320498Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURJMTcyYVV3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJMTcyYVV3EAE!2m1!1s0x864c25524e7d4b3b:0x1c202eeb2c1a3038
+  - name: >-
+      places/ChIJO0t9TlIlTIYRODAaLOsuIBw/reviews/ChZDSUhNMG9nS0VJQ0FnTURJcWZ5V1VBEAE
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 5
+    text:
+      text: >-
+        Always a great experience. Jacob made this one extra special for me,
+        giving us fun recommendations while looking out for my gluten
+        sensitivity! Great, fast service and fun vibes.
+      languageCode: en
+    originalText:
+      text: >-
+        Always a great experience. Jacob made this one extra special for me,
+        giving us fun recommendations while looking out for my gluten
+        sensitivity! Great, fast service and fun vibes.
+      languageCode: en
+    authorAttribution:
+      displayName: Nicole
+      uri: https://www.google.com/maps/contrib/110037579688906487213/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVsCBKmTibkVcBEXUZO456v3PFdgq2UGf2Z57sjK4ZZVVb_jaKT4w=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-11T03:55:07.503847Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURJcWZ5V1VBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJcWZ5V1VBEAE!2m1!1s0x864c25524e7d4b3b:0x1c202eeb2c1a3038
+  - name: >-
+      places/ChIJO0t9TlIlTIYRODAaLOsuIBw/reviews/ChZDSUhNMG9nS0VJQ0FnTURnMy1hSWV3EAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        Came here for my dad’s birthday lunch! The sushi was surprisingly fresh
+        and everything was delicious! We will have to come back for dinner to
+        try out the sashimi!!!
+      languageCode: en
+    originalText:
+      text: >-
+        Came here for my dad’s birthday lunch! The sushi was surprisingly fresh
+        and everything was delicious! We will have to come back for dinner to
+        try out the sashimi!!!
+      languageCode: en
+    authorAttribution:
+      displayName: Jinah
+      uri: https://www.google.com/maps/contrib/109439586206477469673/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWV5dPrrbLie_lxJ7TgttrKQJy59kRCmaUciSIqreEljAiXURlH=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-02-28T19:29:43.783228Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURnMy1hSWV3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURnMy1hSWV3EAE!2m1!1s0x864c25524e7d4b3b:0x1c202eeb2c1a3038
+  - name: >-
+      places/ChIJO0t9TlIlTIYRODAaLOsuIBw/reviews/ChdDSUhNMG9nS0VJQ0FnSUMzcmRIX2p3RRAB
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        The food here was tasty and the server was very polite and quick with
+        our order.  For a larger group, the food came out in an organized way.
+
+        I recommend putting all orders in on one order sheet, handing it in and
+        prepare to share.  It becomes a lot of food quickly.
+
+        You will have to pay extra if a lot of the food is left uneaten and it's
+        states clearly at the bottom of the main menu.
+      languageCode: en
+    originalText:
+      text: >-
+        The food here was tasty and the server was very polite and quick with
+        our order.  For a larger group, the food came out in an organized way.
+
+        I recommend putting all orders in on one order sheet, handing it in and
+        prepare to share.  It becomes a lot of food quickly.
+
+        You will have to pay extra if a lot of the food is left uneaten and it's
+        states clearly at the bottom of the main menu.
+      languageCode: en
+    authorAttribution:
+      displayName: Keysha Berry
+      uri: https://www.google.com/maps/contrib/116416791951600003248/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVAjMbSUM75zoHvJjo41IVzwzKoRZpwaWN55CdCXKBsphb2LKgFbA=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-11-08T03:28:01.214098Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMzcmRIX2p3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMzcmRIX2p3RRAB!2m1!1s0x864c25524e7d4b3b:0x1c202eeb2c1a3038
+review_summary: >-
+  What Customers Love About the Reviews$$$Folks heading to Sushi Kushi often
+  share how the all-you-can-eat setup delivers a solid variety of fresh sushi
+  rolls and tasty appetizers, making it a hit for casual meals. Many highlight
+  the friendly service and efficient vibe that keeps things running smoothly,
+  even during busy times, which adds to the overall enjoyment. While some
+  mention minor inconsistencies like the rice texture, the general consensus
+  leans positive, praising the value and freshness that make it worth returning
+  for. It's frequently recommended as one of the best sushi spots near me for
+  groups or anyone in the mood for Japanese-inspired dining. Overall, the
+  feedback paints a picture of a reliable choice that balances fun and flavor
+  without overcomplicating things.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
+curbside_pickup: false
+delivery: false
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
 menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

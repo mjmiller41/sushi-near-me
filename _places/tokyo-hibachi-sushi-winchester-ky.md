@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Tokyo Hibachi & Sushi"
+title: Tokyo Hibachi & Sushi
 permalink: /kentucky/winchester/tokyo-hibachi-sushi.html
 stateAbbr: KY
 stateName: Kentucky
 cityName: Winchester
 seo:
-  name: "Tokyo Hibachi & Sushi"
-  type: Restaurant
-  links: null
-description: "Tokyo Hibachi & Sushi serves delicious sushi in Winchester, Kentucky. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.tokyohibachionline.com/
 place_id: ChIJSb2AKHSyQ4gRoDwrv2Xrskg
 photos:
   - name: >-
@@ -170,8 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8843b2742880bd49:0x48b2eb65bf2b3ca0!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:00 PM'
+    - 'Tuesday: Closed'
+    - 'Wednesday: 11:00 AM – 9:00 PM'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 9:00 PM'
+    - 'Saturday: 12:00 – 9:00 PM'
+    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T01:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +234,53 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (859) 737-0078
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.5'
+rating_count: 225
+website: https://www.tokyohibachionline.com/
+description: >-
+  Discover Tokyo Hibachi & Sushi in Winchester, KY$$$Tokyo Hibachi & Sushi in
+  Winchester, KY, stands out as a welcoming spot for enjoying authentic Japanese
+  flavors, blending hibachi grilling with fresh sushi options in a casual
+  atmosphere. This restaurant highlights its commitment to quality ingredients
+  and skillful preparation, making it a go-to choice for those seeking flavorful
+  hibachi dishes and creative rolls that balance tradition with innovation. With
+  accessible features like wheelchair-friendly entrances and seating, it ensures
+  everyone can savor the experience comfortably. The menu caters to a variety of
+  tastes, from sizzling hibachi entrees to meticulously crafted sushi, perfect
+  for a relaxed meal with friends or family. If you're exploring sushi places
+  near you, this spot delivers a satisfying blend of taste and convenience in a
+  moderately priced setting.
+generative_summary: >-
+  Discover Tokyo Hibachi & Sushi in Winchester, KY$$$Tokyo Hibachi & Sushi in
+  Winchester, KY, stands out as a welcoming spot for enjoying authentic Japanese
+  flavors, blending hibachi grilling with fresh sushi options in a casual
+  atmosphere. This restaurant highlights its commitment to quality ingredients
+  and skillful preparation, making it a go-to choice for those seeking flavorful
+  hibachi dishes and creative rolls that balance tradition with innovation. With
+  accessible features like wheelchair-friendly entrances and seating, it ensures
+  everyone can savor the experience comfortably. The menu caters to a variety of
+  tastes, from sizzling hibachi entrees to meticulously crafted sushi, perfect
+  for a relaxed meal with friends or family. If you're exploring sushi places
+  near you, this spot delivers a satisfying blend of taste and convenience in a
+  moderately priced setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Buzzing About$$$Folks checking out sushi restaurants in the
+  area often rave about the fresh flavors and lively hibachi shows that make
+  dining here a fun event. Many appreciate the consistent quality of the dishes,
+  noting that the sushi rolls and grilled options hit the spot without breaking
+  the bank, based on the strong overall feedback. While some mention occasional
+  waits during peak times, the general consensus leans positive, with diners
+  praising the attentive service and generous portions that leave you feeling
+  satisfied. Overall, it's clear that this place earns its high marks for
+  delivering a solid Japanese dining experience that's worth recommending. If
+  you're on the hunt for top-rated sushi close to you, the buzz suggests this
+  spot keeps customers coming back for its reliable and enjoyable vibes.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +306,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

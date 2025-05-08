@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Sasabune"
+title: Sushi Sasabune
 permalink: /new-york/new-york/sushi-sasabune.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "Sushi Sasabune"
-  type: Restaurant
-  links: null
-description: "Sushi Sasabune serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://sasabuneny.wordpress.com/
 place_id: ChIJxeHh4cBYwokRrnTTpHq-6fM
 photos:
   - name: >-
@@ -170,8 +168,97 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c258c0e1e1e1c5:0xf3e9be7aa4d374ae!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 17
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 12
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 12
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 12
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 12
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 17
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 5:30 – 9:30 PM'
+    - 'Tuesday: 12:00 – 2:00 PM, 5:30 – 9:30 PM'
+    - 'Wednesday: 12:00 – 2:00 PM, 5:30 – 9:30 PM'
+    - 'Thursday: 12:00 – 2:00 PM, 5:30 – 9:30 PM'
+    - 'Friday: 12:00 – 2:00 PM, 5:30 – 9:30 PM'
+    - 'Saturday: 5:30 – 9:30 PM'
+    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T01:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +266,51 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (212) 249-8583
+price_level: PRICE_LEVEL_VERY_EXPENSIVE
+price_range: $100 &ndash; & up
+rating: '4.4'
+rating_count: 185
+website: https://sasabuneny.wordpress.com/
+description: >-
+  Discover Sushi Sasabune in New York$$$Sushi Sasabune in New York, NY, stands
+  out as a cozy destination for those seeking authentic Japanese flavors in a
+  welcoming setting. This intimate eatery specializes in traditional Edomae
+  sushi, crafted with fresh ingredients and paired with other classic Japanese
+  dishes, making it a favorite among sushi enthusiasts. A standout feature is
+  the tasting menu, which offers a curated journey through seasonal selections
+  that highlight the artistry of Japanese cuisine. The restaurant's unassuming
+  vibe enhances the dining experience, providing a serene escape in the bustling
+  city, ideal for anyone exploring top sushi options nearby. With its focus on
+  quality and tradition, it's a go-to spot for discovering fresh sushi
+  restaurants in the area.
+generative_summary: >-
+  Discover Sushi Sasabune in New York$$$Sushi Sasabune in New York, NY, stands
+  out as a cozy destination for those seeking authentic Japanese flavors in a
+  welcoming setting. This intimate eatery specializes in traditional Edomae
+  sushi, crafted with fresh ingredients and paired with other classic Japanese
+  dishes, making it a favorite among sushi enthusiasts. A standout feature is
+  the tasting menu, which offers a curated journey through seasonal selections
+  that highlight the artistry of Japanese cuisine. The restaurant's unassuming
+  vibe enhances the dining experience, providing a serene escape in the bustling
+  city, ideal for anyone exploring top sushi options nearby. With its focus on
+  quality and tradition, it's a go-to spot for discovering fresh sushi
+  restaurants in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Guests Are Saying$$$Visitors often praise Sushi Sasabune for its
+  delightful omakase offerings, where fresh sushi and sashimi steal the show
+  with their high-quality flavors and thoughtful presentations. The service
+  stands out as friendly and attentive, creating a relaxed atmosphere that makes
+  every meal feel personal and enjoyable. Many appreciate the intimate, low-key
+  vibe that adds to the charm of the experience, perfect for a casual yet
+  memorable outing. While some note that the decor keeps things simple without
+  much flair, it doesn't overshadow the overall satisfaction from the delicious
+  food and welcoming staff. If you're on the hunt for reliable sushi spots
+  nearby, this place delivers a solid, enjoyable experience that keeps fans
+  coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +336,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

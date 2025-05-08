@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Taku"
+title: Sushi Taku
 permalink: /illinois/chicago/sushi-taku.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
 seo:
-  name: "Sushi Taku"
-  type: Restaurant
-  links: null
-description: "Sushi Taku serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.sushitaku.com/
 place_id: ChIJBaAW_sjSD4gRCG58SxozWDs
 photos:
   - name: >-
@@ -169,8 +167,129 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x880fd2c8fe16a005:0x3b58331a4b7c6e08!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 15
+        minute: 30
+    - open:
+        day: 0
+        hour: 16
+        minute: 30
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 12
+        minute: 0
+      close:
+        day: 1
+        hour: 15
+        minute: 30
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 12
+        minute: 0
+      close:
+        day: 2
+        hour: 15
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 12
+        minute: 0
+      close:
+        day: 3
+        hour: 15
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 12
+        minute: 0
+      close:
+        day: 4
+        hour: 15
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 12
+        minute: 0
+      close:
+        day: 5
+        hour: 15
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 15
+        minute: 30
+    - open:
+        day: 6
+        hour: 16
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 12:00 – 3:30 PM, 4:30 – 10:00 PM'
+    - 'Tuesday: 12:00 – 3:30 PM, 4:30 – 10:00 PM'
+    - 'Wednesday: 12:00 – 3:30 PM, 4:30 – 10:00 PM'
+    - 'Thursday: 12:00 – 3:30 PM, 4:30 – 10:00 PM'
+    - 'Friday: 12:00 – 3:30 PM, 4:30 – 10:30 PM'
+    - 'Saturday: 12:00 – 3:30 PM, 4:30 – 10:30 PM'
+    - 'Sunday: 12:00 – 3:30 PM, 4:30 – 10:00 PM'
+  nextCloseTime: '2025-05-04T03:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -178,13 +297,47 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (773) 252-8258
+price_level: PRICE_LEVEL_MODERATE
+price_range: $30 &ndash; $50
+rating: '4.5'
+rating_count: 2575
+website: http://www.sushitaku.com/
+description: >-
+  Explore Sushi Taku in Chicago, IL$$$Sushi Taku in Chicago, IL, stands out as a
+  vibrant spot for sushi enthusiasts, offering an inviting atmosphere with
+  all-you-can-eat deals that highlight fresh flavors and creative presentations.
+  This popular sushi restaurant features a selection of beers and cocktails to
+  complement your meal, along with comfortable outdoor seating for enjoying
+  Chicago's lively vibe. Diners can savor a variety of expertly prepared rolls
+  and appetizers that emphasize quality ingredients, making it a go-to choice
+  for those seeking top sushi spots in the area. Whether you're in the mood for
+  a casual lunch or an evening out, the accessible dining options ensure a
+  welcoming experience for all.
+generative_summary: >-
+  Explore Sushi Taku in Chicago, IL$$$Sushi Taku in Chicago, IL, stands out as a
+  vibrant spot for sushi enthusiasts, offering an inviting atmosphere with
+  all-you-can-eat deals that highlight fresh flavors and creative presentations.
+  This popular sushi restaurant features a selection of beers and cocktails to
+  complement your meal, along with comfortable outdoor seating for enjoying
+  Chicago's lively vibe. Diners can savor a variety of expertly prepared rolls
+  and appetizers that emphasize quality ingredients, making it a go-to choice
+  for those seeking top sushi spots in the area. Whether you're in the mood for
+  a casual lunch or an evening out, the accessible dining options ensure a
+  welcoming experience for all.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What People Are Buzzing About$$$Visitors often praise the all-you-can-eat menu
+  at this sushi spot for its tasty variety, including flavorful appetizers and
+  fresh fish that keep things exciting and satisfying. Many highlight the
+  inventive rolls and solid portions as real highlights, making it a fun pick
+  for anyone craving quality Japanese-inspired dishes without breaking the bank.
+  The service gets nods for being quick and attentive, adding to the overall
+  enjoyable vibe that keeps folks coming back. Overall, it's seen as great value
+  for sushi lovers, with the positive feedback focusing on the fresh ingredients
+  and welcoming setting that make every visit worthwhile.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +363,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

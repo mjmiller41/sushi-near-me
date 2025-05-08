@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Karma"
+title: Karma
 permalink: /massachusetts/concord/karma.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Concord
 seo:
-  name: "Karma"
-  type: Restaurant
+  type: restaurant
   links: https://www.karmaconcord.com/
-description: "Restaurant serving Pan-Asian fare & French-influenced sushi in a trendy space with a bar. Karma serves delicious sushi in Concord, Massachusetts. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJXVhfvEGa44kRNl17dyMYpOw
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $30 &ndash; $50
 rating: '4.4'
 rating_count: 0
 website: https://www.karmaconcord.com/
+description: >-
+  Discover Karma in Concord, MA$$$Karma in Concord, MA, stands out as a dynamic
+  Asian fusion eatery, blending Pan-Asian flavors with creative twists on
+  classic dishes in a modern, inviting space. Located at the Thoreau Shopping
+  Center, this spot offers a variety of fresh sushi options alongside hearty
+  entrees like Mongolian beef and thoughtful vegan choices, making it a go-to
+  for diverse tastes. The restaurant's accessible design ensures a welcoming
+  experience for all guests, with wheelchair-friendly features and a lively bar
+  area perfect for casual meals. Its innovative menu highlights bold flavors and
+  creative presentations, appealing to those seeking top-rated sushi in a
+  comfortable setting. Overall, Karma delivers a memorable dining experience
+  that combines quality ingredients with a trendy vibe.
+generative_summary: >-
+  Discover Karma in Concord, MA$$$Karma in Concord, MA, stands out as a dynamic
+  Asian fusion eatery, blending Pan-Asian flavors with creative twists on
+  classic dishes in a modern, inviting space. Located at the Thoreau Shopping
+  Center, this spot offers a variety of fresh sushi options alongside hearty
+  entrees like Mongolian beef and thoughtful vegan choices, making it a go-to
+  for diverse tastes. The restaurant's accessible design ensures a welcoming
+  experience for all guests, with wheelchair-friendly features and a lively bar
+  area perfect for casual meals. Its innovative menu highlights bold flavors and
+  creative presentations, appealing to those seeking top-rated sushi in a
+  comfortable setting. Overall, Karma delivers a memorable dining experience
+  that combines quality ingredients with a trendy vibe.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJXVhfvEGa44kRNl17dyMYpOw/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3MlBhTE5nEAE
@@ -366,6 +389,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUMxMGFtalpBEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUMxMGFtalpBEAE!2m1!1s0x89e39a41bc5f585d:0xeca41823777b5d36
+review_summary: >-
+  What Guests Are Saying$$$Visitors to Karma often praise the fresh and
+  inventive sushi rolls, along with flavorful hot dishes that make for a
+  satisfying meal in a relaxed atmosphere. Many highlight the friendly service
+  and how staff handle special requests, like dietary accommodations, with ease
+  and efficiency. While some note occasional waits during busy times, the
+  overall experience is uplifted by the restaurant's welcoming vibe and creative
+  cocktails that pair perfectly with the food. Diners appreciate the variety of
+  options, from light salads to hearty entrees, creating a fun spot for groups
+  or solo visits. In general, the consensus leans positive, with guests eager to
+  return for the reliable quality and enjoyable ambiance.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -398,8 +433,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Restaurant serving Pan-Asian fare & French-influenced sushi in a trendy space
   with a bar.
 

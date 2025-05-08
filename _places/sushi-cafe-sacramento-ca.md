@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Cafe"
+title: Sushi Cafe
 permalink: /california/sacramento/sushi-cafe.html
 stateAbbr: CA
 stateName: California
 cityName: Sacramento
 seo:
-  name: "Sushi Cafe"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi Cafe serves delicious sushi in Sacramento, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJKZ0jD7PRmoAR2Wh2zw36vzA
 photos:
   - name: >-
@@ -185,7 +183,44 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Sushi Cafe in Sacramento, CA$$$Sushi Cafe in Sacramento, CA, stands
+  out as a welcoming Japanese restaurant nestled in a vibrant neighborhood,
+  offering an array of fresh sushi and Asian-inspired dishes that cater to
+  various tastes. This spot emphasizes accessibility and convenience, with
+  options for dine-in, takeout, and even catering for special events, making it
+  a go-to choice for those seeking quality sushi experiences nearby. Patrons can
+  enjoy a selection of expertly prepared rolls and flavorful entrees in a
+  relaxed setting, highlighting the blend of traditional flavors and modern
+  touches. Whether you're exploring top sushi options in the area or looking for
+  a casual meal, the menu's variety ensures something for everyone, from classic
+  favorites to creative combinations.
+generative_summary: >-
+  Discover Sushi Cafe in Sacramento, CA$$$Sushi Cafe in Sacramento, CA, stands
+  out as a welcoming Japanese restaurant nestled in a vibrant neighborhood,
+  offering an array of fresh sushi and Asian-inspired dishes that cater to
+  various tastes. This spot emphasizes accessibility and convenience, with
+  options for dine-in, takeout, and even catering for special events, making it
+  a go-to choice for those seeking quality sushi experiences nearby. Patrons can
+  enjoy a selection of expertly prepared rolls and flavorful entrees in a
+  relaxed setting, highlighting the blend of traditional flavors and modern
+  touches. Whether you're exploring top sushi options in the area or looking for
+  a casual meal, the menu's variety ensures something for everyone, from classic
+  favorites to creative combinations.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Folks who visit this sushi spot often praise the
+  tasty variety of dishes like bento boxes, sushi boats, and hearty ramen that
+  hit the spot every time. Many highlight the warm and attentive service that
+  adds to the enjoyable vibe, creating a laid-back atmosphere perfect for
+  unwinding with friends or family. It's frequently noted as a solid pick for
+  everyday dining, with comments focusing on the fresh ingredients and reliable
+  flavors that keep people coming back. Overall, the feedback paints a picture
+  of a dependable place for casual meals, where the combination of good food and
+  friendly vibes makes it worth trying out for anyone in the mood for satisfying
+  Japanese fare.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +246,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

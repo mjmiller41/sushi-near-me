@@ -1,15 +1,14 @@
 ---
 layout: place
-title: "O-Ku"
+title: O-Ku
 permalink: /south-carolina/greenville/o-ku.html
 stateAbbr: SC
 stateName: South Carolina
 cityName: Greenville
 seo:
-  name: "O-Ku"
-  type: Restaurant
-  links: https://www.o-kusushi.com/location/o-ku-greenville/?y_source=1_MTAwMjQwNjU4MS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D
-description: "O-Ku serves delicious sushi in Greenville, South Carolina. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: >-
+    https://www.o-kusushi.com/location/o-ku-greenville/?y_source=1_MTAwMjQwNjU4MS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D
 place_id: ChIJk04nlcoxWIgRHUOAILcbeWA
 photos:
   - name: >-
@@ -170,7 +169,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x885831ca95274e93:0x60791bb72080431d!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 4:00 – 10:00 PM'
     - 'Tuesday: 4:00 – 10:00 PM'
     - 'Wednesday: 5:00 – 10:00 PM'
@@ -178,14 +235,7 @@ opening_hours:
     - 'Friday: 5:00 – 11:00 PM'
     - 'Saturday: 5:00 – 11:00 PM'
     - 'Sunday: 5:00 – 9:00 PM'
-  current:
-    - 'Monday: 4:00 – 10:00 PM'
-    - 'Tuesday: 4:00 – 10:00 PM'
-    - 'Wednesday: 5:00 – 10:00 PM'
-    - 'Thursday: 5:00 – 10:00 PM'
-    - 'Friday: 5:00 – 11:00 PM'
-    - 'Saturday: 5:00 – 11:00 PM'
-    - 'Sunday: 5:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,10 +247,50 @@ phone: (864) 326-4812
 price_level: null
 price_range: null
 rating: '4.6'
-rating_count: 0
+rating_count: 289
 website: >-
   https://www.o-kusushi.com/location/o-ku-greenville/?y_source=1_MTAwMjQwNjU4MS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D
+description: >-
+  Discover O-Ku in Greenville, South Carolina$$$Nestled in the heart of
+  Greenville, South Carolina, O-Ku stands out as a premier Japanese restaurant
+  offering a refined take on fresh sushi and innovative dishes. The spot
+  delights with its selection of expertly crafted rolls and appetizers,
+  featuring high-quality ingredients that highlight flavors like creamy edamame
+  and creative fusion elements. Diners appreciate the welcoming atmosphere that
+  blends modern elegance with a vibrant energy, making it an ideal choice for
+  those seeking authentic Japanese cuisine in a lively setting. Accessibility
+  features ensure a comfortable visit for all, adding to its appeal as a go-to
+  destination for sushi enthusiasts exploring options near you. Whether you're
+  in the mood for top-rated sushi or a sophisticated evening out, this location
+  combines exceptional taste with a memorable dining experience.
+generative_summary: >-
+  Discover O-Ku in Greenville, South Carolina$$$Nestled in the heart of
+  Greenville, South Carolina, O-Ku stands out as a premier Japanese restaurant
+  offering a refined take on fresh sushi and innovative dishes. The spot
+  delights with its selection of expertly crafted rolls and appetizers,
+  featuring high-quality ingredients that highlight flavors like creamy edamame
+  and creative fusion elements. Diners appreciate the welcoming atmosphere that
+  blends modern elegance with a vibrant energy, making it an ideal choice for
+  those seeking authentic Japanese cuisine in a lively setting. Accessibility
+  features ensure a comfortable visit for all, adding to its appeal as a go-to
+  destination for sushi enthusiasts exploring options near you. Whether you're
+  in the mood for top-rated sushi or a sophisticated evening out, this location
+  combines exceptional taste with a memorable dining experience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this Japanese spot often rave about
+  the delicious and fresh menu items that make every meal feel special, with
+  standout dishes leaving a lasting impression. Folks appreciate the friendly
+  and attentive service that enhances the overall vibe, turning a simple dinner
+  into a highlight of their week. Many highlight the high-quality ingredients
+  and creative flavors that keep things exciting without overwhelming the
+  palate. Overall, the consensus leans positive, noting the inviting atmosphere
+  as perfect for casual meetups or date nights, though it's clear that the focus
+  on fresh fish and unique rolls truly steals the show. If you're hunting for
+  reliable sushi places nearby, this one consistently delivers a satisfying
+  experience that keeps people coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -226,7 +316,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

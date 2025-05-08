@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Jellyfish"
+title: Jellyfish
 permalink: /texas/houston/jellyfish.html
 stateAbbr: TX
 stateName: Texas
 cityName: Houston
 seo:
-  name: "Jellyfish"
-  type: Restaurant
+  type: restaurant
   links: https://www.jellyfishsushi.com/
-description: "Jellyfish serves delicious sushi in Houston, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJxS3PrZTHQIYRRcF3dvSBM_U
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8640c794adcf2dc5:0xf53381f47677c145!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:00 AM – 8:30 PM'
     - 'Wednesday: 11:00 AM – 8:30 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:00 PM'
     - 'Saturday: 11:00 AM – 9:00 PM'
     - 'Sunday: 11:00 AM – 8:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:00 AM – 8:30 PM'
-    - 'Wednesday: 11:00 AM – 8:30 PM'
-    - 'Thursday: 11:00 AM – 8:30 PM'
-    - 'Friday: 11:00 AM – 9:00 PM'
-    - 'Saturday: 11:00 AM – 9:00 PM'
-    - 'Sunday: 11:00 AM – 8:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +238,354 @@ phone: (346) 406-3932
 price_level: null
 price_range: $20 &ndash; $30
 rating: '4.9'
-rating_count: 0
+rating_count: 964
 website: https://www.jellyfishsushi.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Jellyfish Sushi in Houston, TX$$$Nestled in Houston, TX, Jellyfish
+  Sushi stands out as a vibrant spot for fresh Japanese cuisine, offering a
+  casual atmosphere perfect for enjoying creative rolls and flavorful hibachi
+  options. This sushi restaurant delights with its inventive dishes and a
+  selection of sake cocktails, making it an ideal choice for those seeking
+  authentic flavors in a welcoming setting. Accessibility features like
+  wheelchair-friendly parking and entrances ensure everyone can savor the
+  experience, while family-friendly amenities add to its appeal for casual
+  dining. With convenient hours including evenings and weekends, it's a go-to
+  destination for sushi enthusiasts exploring top-rated Japanese places near me.
+generative_summary: >-
+  Discover Jellyfish Sushi in Houston, TX$$$Nestled in Houston, TX, Jellyfish
+  Sushi stands out as a vibrant spot for fresh Japanese cuisine, offering a
+  casual atmosphere perfect for enjoying creative rolls and flavorful hibachi
+  options. This sushi restaurant delights with its inventive dishes and a
+  selection of sake cocktails, making it an ideal choice for those seeking
+  authentic flavors in a welcoming setting. Accessibility features like
+  wheelchair-friendly parking and entrances ensure everyone can savor the
+  experience, while family-friendly amenities add to its appeal for casual
+  dining. With convenient hours including evenings and weekends, it's a go-to
+  destination for sushi enthusiasts exploring top-rated Japanese places near me.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJxS3PrZTHQIYRRcF3dvSBM_U/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3OUw3WUdBEAE
+    relativePublishTimeDescription: a month ago
+    rating: 3
+    text:
+      text: >-
+        Jellyfish Sushi & Grill is a casual Japanese restaurant located in a
+        somewhat rundown strip mall, but at least there’s plenty of free
+        parking. We visited on a Sunday evening with our 14-month-old son and
+        immediately noticed that it’s very family-friendly—several other
+        families with kids were dining, and they provided high chairs, which was
+        convenient.
+
+
+        The menu offers a mix of hibachi entrées, nigiri sushi, and rolls. I
+        ordered the House Delight Hibachi Entrée ($23), which included chicken
+        and shrimp grilled with light seasoning, along with onion soup, ginger
+        salad, hibachi vegetables, and fried rice (an extra $3). My son had the
+        Kid’s Teriyaki Chicken ($8), which was just teriyaki chicken and white
+        rice.
+
+
+        My wife tried three sushi rolls:
+
+
+        1) Jellyfish Roll ($15) – Spicy tuna, sliced pepper tuna, cucumber,
+        gochujang, and microgreens.
+
+
+        2) Texas Himachi Roll ($15) – Yellowtail, shrimp tempura, sliced
+        jalapeño, and ponzu sauce.
+
+
+        3) Cherry Blossom Roll ($14) – Cucumber, avocado, microgreens, salmon,
+        tuna, ponzu sauce, scallions, and soy paper.
+
+
+        Overall, the food was fine—nothing special, but it was not bad either.
+        The flavors were decent, but nothing really stood out. The service,
+        however, was great—our waiter checked on us frequently and made sure we
+        had everything we needed.
+
+
+        If you’re looking for a fast, casual spot for a quick Japanese meal with
+        family, this place works. If you’re after high-quality sushi or standout
+        hibachi flavors, you might want to look elsewhere.
+      languageCode: en
+    originalText:
+      text: >-
+        Jellyfish Sushi & Grill is a casual Japanese restaurant located in a
+        somewhat rundown strip mall, but at least there’s plenty of free
+        parking. We visited on a Sunday evening with our 14-month-old son and
+        immediately noticed that it’s very family-friendly—several other
+        families with kids were dining, and they provided high chairs, which was
+        convenient.
+
+
+        The menu offers a mix of hibachi entrées, nigiri sushi, and rolls. I
+        ordered the House Delight Hibachi Entrée ($23), which included chicken
+        and shrimp grilled with light seasoning, along with onion soup, ginger
+        salad, hibachi vegetables, and fried rice (an extra $3). My son had the
+        Kid’s Teriyaki Chicken ($8), which was just teriyaki chicken and white
+        rice.
+
+
+        My wife tried three sushi rolls:
+
+
+        1) Jellyfish Roll ($15) – Spicy tuna, sliced pepper tuna, cucumber,
+        gochujang, and microgreens.
+
+
+        2) Texas Himachi Roll ($15) – Yellowtail, shrimp tempura, sliced
+        jalapeño, and ponzu sauce.
+
+
+        3) Cherry Blossom Roll ($14) – Cucumber, avocado, microgreens, salmon,
+        tuna, ponzu sauce, scallions, and soy paper.
+
+
+        Overall, the food was fine—nothing special, but it was not bad either.
+        The flavors were decent, but nothing really stood out. The service,
+        however, was great—our waiter checked on us frequently and made sure we
+        had everything we needed.
+
+
+        If you’re looking for a fast, casual spot for a quick Japanese meal with
+        family, this place works. If you’re after high-quality sushi or standout
+        hibachi flavors, you might want to look elsewhere.
+      languageCode: en
+    authorAttribution:
+      displayName: Justin Ashar
+      uri: https://www.google.com/maps/contrib/107115337232061776846/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWs7cYq4Yu8IDeSQo8T2NyDaRlM8kjwD17sf2fV9sJBHVVZn9-rVg=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2025-03-24T01:33:15.969851Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUR3OUw3WUdBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUR3OUw3WUdBEAE!2m1!1s0x8640c794adcf2dc5:0xf53381f47677c145
+  - name: >-
+      places/ChIJxS3PrZTHQIYRRcF3dvSBM_U/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRb19pcGJBEAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Enjoyed a fantastic lunch at Jellyfish! The jellyfish roll was a
+        standout, and my husband’s hibachi beef was perfectly cooked. Cozy vibe,
+        deliciously fresh martini, and loved the homemade ginger salad dressing.
+        Bonus points for the thoughtful hand wipes at the end!
+      languageCode: en
+    originalText:
+      text: >-
+        Enjoyed a fantastic lunch at Jellyfish! The jellyfish roll was a
+        standout, and my husband’s hibachi beef was perfectly cooked. Cozy vibe,
+        deliciously fresh martini, and loved the homemade ginger salad dressing.
+        Bonus points for the thoughtful hand wipes at the end!
+      languageCode: en
+    authorAttribution:
+      displayName: Angel Lindsley
+      uri: https://www.google.com/maps/contrib/110965447019101912440/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjULXJbTEXgMPaSK1JR0nfjB1m3X4Nhe5tFYyIPj7C2j9U7UUA4=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-06T20:17:28.596299Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNRb19pcGJBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNRb19pcGJBEAE!2m1!1s0x8640c794adcf2dc5:0xf53381f47677c145
+  - name: >-
+      places/ChIJxS3PrZTHQIYRRcF3dvSBM_U/reviews/ChZDSUhNMG9nS0VJQ0FnSUMzODlIaEhnEAE
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        It was an absolute pleasure dining at jellyfish! Vibes were great, super
+        clean inside, AC was blasting, music was chill.
+
+
+        If this is your first time coming here, I highly recommend starting with
+        the K-pop salmon roll and the jellyfish roll. Both specialty rolls had a
+        an explosion of rich tasting flavor.
+
+
+        Service was also very good. I don’t remember our server’s name, but he
+        was attentive and very generous! I would definitely come back.
+      languageCode: en
+    originalText:
+      text: >-
+        It was an absolute pleasure dining at jellyfish! Vibes were great, super
+        clean inside, AC was blasting, music was chill.
+
+
+        If this is your first time coming here, I highly recommend starting with
+        the K-pop salmon roll and the jellyfish roll. Both specialty rolls had a
+        an explosion of rich tasting flavor.
+
+
+        Service was also very good. I don’t remember our server’s name, but he
+        was attentive and very generous! I would definitely come back.
+      languageCode: en
+    authorAttribution:
+      displayName: Ruby R
+      uri: https://www.google.com/maps/contrib/117951144239005156578/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXyzH9PsCpSVqrU_58A5epNIIfDjCTXN4tOMKEqMF9wuDGmvIwd2A=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2024-11-09T19:00:48.190200Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUMzODlIaEhnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUMzODlIaEhnEAE!2m1!1s0x8640c794adcf2dc5:0xf53381f47677c145
+  - name: >-
+      places/ChIJxS3PrZTHQIYRRcF3dvSBM_U/reviews/ChdDSUhNMG9nS0VJQ0FnSUR2bE5HWDlRRRAB
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        Jellyfish is an awesome spot! The food is amazing, the restaurant is
+        very clean, and the service is great. I thought the jellyfish roll was
+        tasty (as it's the one I had upon my first visit) but boy was I wrong,
+        the Citrus Hamachi roll is just mouth watering. Don't get me wrong,
+        they're all good! Also had the Shaggy Dog, Chicken Yakisoba, and Spicy
+        Fried Rice (this was amazing as well!). If it weren't as far out as it
+        is from me I would probably be going 1-2 times/week. Amazing food and
+        service!
+      languageCode: en
+    originalText:
+      text: >-
+        Jellyfish is an awesome spot! The food is amazing, the restaurant is
+        very clean, and the service is great. I thought the jellyfish roll was
+        tasty (as it's the one I had upon my first visit) but boy was I wrong,
+        the Citrus Hamachi roll is just mouth watering. Don't get me wrong,
+        they're all good! Also had the Shaggy Dog, Chicken Yakisoba, and Spicy
+        Fried Rice (this was amazing as well!). If it weren't as far out as it
+        is from me I would probably be going 1-2 times/week. Amazing food and
+        service!
+      languageCode: en
+    authorAttribution:
+      displayName: Ulises Esparza
+      uri: https://www.google.com/maps/contrib/104145045336996653616/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWsEeYBBNEKpoDtzXFgHk-7ItIjt6LiwYUbZhxRn9YTy6_Xl1F2Uw=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-12-17T22:34:11.662297Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR2bE5HWDlRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR2bE5HWDlRRRAB!2m1!1s0x8640c794adcf2dc5:0xf53381f47677c145
+  - name: >-
+      places/ChIJxS3PrZTHQIYRRcF3dvSBM_U/reviews/ChdDSUhNMG9nS0VJQ0FnTUNBazlMaTN3RRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        I had the most incredible dining experience at Jellyfish sushi and
+        grill! From the moment I walked in, the ambiance was warm and inviting,
+        with just the right blend of modern elegance and traditional Japanese
+        charm.
+
+
+        The sushi was absolutely divine—every piece was crafted with care and
+        precision. The freshness of the fish was unmatched, and the flavors were
+        perfectly balanced. I highly recommend trying their Chirashi, Sweet
+        Shrimp, Crazy Rolls, and Tuna Tataki; it was a true highlight of the
+        meal.
+
+
+        The staff was exceptional—attentive, knowledgeable, and genuinely
+        passionate about their craft. They took the time to explain each dish
+        and made fantastic recommendations based on my preferences.
+
+
+        The attention to detail here is impeccable, from the presentation of the
+        dishes to the thoughtful service.
+
+
+        If you're a sushi lover or just looking for an unforgettable meal,
+        Jellyfish Sushi and Grill is a must-visit. I can’t wait to return and
+        explore more of their menu since I am only 15 mins away from this little
+        gem.
+      languageCode: en
+    originalText:
+      text: >-
+        I had the most incredible dining experience at Jellyfish sushi and
+        grill! From the moment I walked in, the ambiance was warm and inviting,
+        with just the right blend of modern elegance and traditional Japanese
+        charm.
+
+
+        The sushi was absolutely divine—every piece was crafted with care and
+        precision. The freshness of the fish was unmatched, and the flavors were
+        perfectly balanced. I highly recommend trying their Chirashi, Sweet
+        Shrimp, Crazy Rolls, and Tuna Tataki; it was a true highlight of the
+        meal.
+
+
+        The staff was exceptional—attentive, knowledgeable, and genuinely
+        passionate about their craft. They took the time to explain each dish
+        and made fantastic recommendations based on my preferences.
+
+
+        The attention to detail here is impeccable, from the presentation of the
+        dishes to the thoughtful service.
+
+
+        If you're a sushi lover or just looking for an unforgettable meal,
+        Jellyfish Sushi and Grill is a must-visit. I can’t wait to return and
+        explore more of their menu since I am only 15 mins away from this little
+        gem.
+      languageCode: en
+    authorAttribution:
+      displayName: T V
+      uri: https://www.google.com/maps/contrib/111508914972431565263/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKSKdQRozopq6dfOk5o9SOSU7sCNR7OG3DmhUea1T9GzKOhQA=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-02-03T23:08:26.884792Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNBazlMaTN3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNBazlMaTN3RRAB!2m1!1s0x8640c794adcf2dc5:0xf53381f47677c145
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this sushi spot often rave about the
+  fresh and creative rolls that bring a burst of flavors to every bite, making
+  it a favorite for anyone craving delicious Japanese fare. Many appreciate the
+  friendly service and quick attention that enhance the overall relaxed vibe,
+  turning meals into enjoyable outings for families or groups. While some note
+  that the dishes are solid without being overly extravagant, the general
+  consensus highlights great value and tasty options like specialty rolls and
+  hibachi plates that keep folks coming back. Overall, the high ratings reflect
+  a welcoming environment where the food consistently impresses, encouraging
+  diners to try it for a satisfying meal that's worth the visit.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+curbside_pickup: false
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: true
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
 serves_breakfast: null
 serves_brunch: null
-serves_cocktails: null
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

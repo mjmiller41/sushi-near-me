@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Okinii"
+title: Okinii
 permalink: /new-york/new-york/okinii.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "Okinii"
-  type: Restaurant
+  type: restaurant
   links: https://www.okiniiny.com/
-description: "Sashimi & creative maki, plus Japanese kitchen entrees, served in a laid-back space with a full bar. Okinii serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJJQr1wJFZwokRD08Dy1xV9E8
 photos:
   - name: >-
@@ -183,6 +181,31 @@ price_range: $30 &ndash; $50
 rating: '4.4'
 rating_count: 0
 website: https://www.okiniiny.com/
+description: >-
+  Experience Okinii in New York, NY$$$Okinii in New York, NY, stands out as a
+  welcoming sushi restaurant offering a blend of fresh sashimi and inventive
+  rolls that highlight authentic Japanese flavors. This laid-back spot features
+  a variety of creative maki and hearty kitchen entrees, paired with a selection
+  of beverages that enhance the dining experience. With its casual atmosphere
+  and focus on quality ingredients, it's an ideal choice for those seeking sushi
+  places near me that balance tradition and innovation. The menu also includes
+  Japanese classics like teriyaki dishes, making it a go-to for anyone exploring
+  top-rated sushi in the bustling city. Whether you're in the mood for a quick
+  bite or a relaxed meal, Okinii delivers a satisfying escape from the urban
+  hustle.
+generative_summary: >-
+  Experience Okinii in New York, NY$$$Okinii in New York, NY, stands out as a
+  welcoming sushi restaurant offering a blend of fresh sashimi and inventive
+  rolls that highlight authentic Japanese flavors. This laid-back spot features
+  a variety of creative maki and hearty kitchen entrees, paired with a selection
+  of beverages that enhance the dining experience. With its casual atmosphere
+  and focus on quality ingredients, it's an ideal choice for those seeking sushi
+  places near me that balance tradition and innovation. The menu also includes
+  Japanese classics like teriyaki dishes, making it a go-to for anyone exploring
+  top-rated sushi in the bustling city. Whether you're in the mood for a quick
+  bite or a relaxed meal, Okinii delivers a satisfying escape from the urban
+  hustle.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJJQr1wJFZwokRD08Dy1xV9E8/reviews/ChZDSUhNMG9nS0VJQ0FnSURQZ3RUZ1NBEAE
@@ -392,6 +415,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR2ak1IYWtRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR2ak1IYWtRRRAB!2m1!1s0x89c25991c0f50a25:0x4ff4555ccb034f0f
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors to this sushi restaurant often rave
+  about the fresh and flavorful rolls, with many highlighting the high-quality
+  ingredients that make every bite memorable. While most folks appreciate the
+  friendly service and cozy vibe that pairs well with drinks like sake, a few
+  have pointed out occasional inconsistencies in portion sizes or billing.
+  Overall, the consensus leans positive, praising the great atmosphere for
+  groups and the variety of options that cater to different tastes, making it a
+  solid pick for sushi enthusiasts. If you're searching for sushi near me, this
+  spot generally delivers an enjoyable experience with tasty entrees and a
+  welcoming feel. Remember, like any popular eatery, experiences can vary, but
+  the majority of comments suggest it's worth trying for a casual night out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   valetParking: false
 payment_options:
@@ -422,8 +458,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Sashimi & creative maki, plus Japanese kitchen entrees, served in a laid-back
   space with a full bar.
 

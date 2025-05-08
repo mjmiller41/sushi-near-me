@@ -5,4 +5,5 @@ permalink: /texas/lake-dallas/
 stateAbbr: TX
 stateName: Texas
 cityName: Lake Dallas
+
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Delage"
+title: Delage
 permalink: /california/oakland/delage.html
 stateAbbr: CA
 stateName: California
 cityName: Oakland
 seo:
-  name: "Delage"
-  type: Restaurant
+  type: restaurant
   links: http://www.delage-oakland.com/
-description: "Delage serves delicious sushi in Oakland, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ7yAjSreAj4ARO3EqGPi6rZU
 photos:
   - name: >-
@@ -168,7 +166,49 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x808f80b74a2320ef:0x95adbaf8182a713b!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 17
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 17
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 17
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 17
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: Closed'
     - 'Wednesday: 5:30 – 9:30 PM'
@@ -176,14 +216,7 @@ opening_hours:
     - 'Friday: 5:30 – 9:30 PM'
     - 'Saturday: 5:30 – 9:30 PM'
     - 'Sunday: 5:30 – 9:30 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: Closed'
-    - 'Wednesday: 5:30 – 9:30 PM'
-    - 'Thursday: 5:30 – 9:30 PM'
-    - 'Friday: 5:30 – 9:30 PM'
-    - 'Saturday: 5:30 – 9:30 PM'
-    - 'Sunday: 5:30 – 9:30 PM'
+  nextOpenTime: '2025-05-04T00:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -195,35 +228,238 @@ phone: (510) 823-2050
 price_level: PRICE_LEVEL_EXPENSIVE
 price_range: $100 &ndash; & up
 rating: '4.6'
-rating_count: 0
+rating_count: 251
 website: http://www.delage-oakland.com/
-reviews: null
+description: >-
+  About Delage in Oakland, CA$$$Delage in Oakland, California, stands out as an
+  intimate Japanese restaurant that delivers a refined dining experience focused
+  on fresh, seasonal ingredients. This spot offers an omakase-style menu
+  featuring a series of expertly prepared courses, perfect for sushi enthusiasts
+  exploring top-rated options in the area. With a cozy, minimalist ambiance,
+  it's an ideal choice for those seeking authentic Japanese flavors and a
+  thoughtful selection of sake and wine pairings. The restaurant's commitment to
+  quality makes it a go-to destination for anyone looking for high-quality sushi
+  experiences nearby, blending tradition with creative presentations.
+generative_summary: >-
+  About Delage in Oakland, CA$$$Delage in Oakland, California, stands out as an
+  intimate Japanese restaurant that delivers a refined dining experience focused
+  on fresh, seasonal ingredients. This spot offers an omakase-style menu
+  featuring a series of expertly prepared courses, perfect for sushi enthusiasts
+  exploring top-rated options in the area. With a cozy, minimalist ambiance,
+  it's an ideal choice for those seeking authentic Japanese flavors and a
+  thoughtful selection of sake and wine pairings. The restaurant's commitment to
+  quality makes it a go-to destination for anyone looking for high-quality sushi
+  experiences nearby, blending tradition with creative presentations.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ7yAjSreAj4ARO3EqGPi6rZU/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3Nk43YlRnEAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        This is the best sushi/omakase in the Bay Area. I live in LA (and have
+        tried most every sushi restaurant in the Bay and LA) but whenever I fly
+        into Oakland, I always make reservations here. Chikara is a master.  You
+        will not be disappointed. The sake pairing is excellent!
+      languageCode: en
+    originalText:
+      text: >-
+        This is the best sushi/omakase in the Bay Area. I live in LA (and have
+        tried most every sushi restaurant in the Bay and LA) but whenever I fly
+        into Oakland, I always make reservations here. Chikara is a master.  You
+        will not be disappointed. The sake pairing is excellent!
+      languageCode: en
+    authorAttribution:
+      displayName: Anthony Lucero
+      uri: https://www.google.com/maps/contrib/109800115005455650194/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKMUv8r1CsLUV7MClT0poSjSbjhWtq7up-Yu_UN9FvUm0b6Mw=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-23T05:05:35.536384Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUR3Nk43YlRnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUR3Nk43YlRnEAE!2m1!1s0x808f80b74a2320ef:0x95adbaf8182a713b
+  - name: >-
+      places/ChIJ7yAjSreAj4ARO3EqGPi6rZU/reviews/ChZDSUhNMG9nS0VJQ0FnSUMxNGZ5a2R3EAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        Just had dinner at Delage. It was such a delicious meal with wonderful
+        service and very knowledgeable chefs preparing the sushi right in front
+        of us. All of the flavor combinations were creative and well-balanced,
+        and the food was presented very well with the artistic bowls and plates.
+        Would definitely recommend this place for a fancy night out!
+      languageCode: en
+    originalText:
+      text: >-
+        Just had dinner at Delage. It was such a delicious meal with wonderful
+        service and very knowledgeable chefs preparing the sushi right in front
+        of us. All of the flavor combinations were creative and well-balanced,
+        and the food was presented very well with the artistic bowls and plates.
+        Would definitely recommend this place for a fancy night out!
+      languageCode: en
+    authorAttribution:
+      displayName: Ben
+      uri: https://www.google.com/maps/contrib/113830706493226745780/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVOslhTNaik6NORXvCj16_IubNrUKkonp78w6UX8pnFenumvVVTiA=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2023-12-31T04:22:42.030535Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUMxNGZ5a2R3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUMxNGZ5a2R3EAE!2m1!1s0x808f80b74a2320ef:0x95adbaf8182a713b
+  - name: >-
+      places/ChIJ7yAjSreAj4ARO3EqGPi6rZU/reviews/ChZDSUhNMG9nS0VJQ0FnSUNkODhLclFnEAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        This place is a must go.
+
+
+        One thing I look for in places like this is simple but unique flavors.
+        The chefs here absolutely knocked it out of the park with every dish.
+        The flavor combinations were incredible, the textures were spot on, and
+        the plating was beautiful. The staff was really kind and helpful and the
+        overall atmosphere was really laid back.
+
+
+        Can't wait to come back.
+      languageCode: en
+    originalText:
+      text: >-
+        This place is a must go.
+
+
+        One thing I look for in places like this is simple but unique flavors.
+        The chefs here absolutely knocked it out of the park with every dish.
+        The flavor combinations were incredible, the textures were spot on, and
+        the plating was beautiful. The staff was really kind and helpful and the
+        overall atmosphere was really laid back.
+
+
+        Can't wait to come back.
+      languageCode: en
+    authorAttribution:
+      displayName: Stebs
+      uri: https://www.google.com/maps/contrib/106046449713637485654/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVxgX4gruQLHn9Agx9LqMcIrpsInPXbui4t6Y46kApuT-hSXoC_=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-02-18T06:20:46.280112Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNkODhLclFnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNkODhLclFnEAE!2m1!1s0x808f80b74a2320ef:0x95adbaf8182a713b
+  - name: >-
+      places/ChIJ7yAjSreAj4ARO3EqGPi6rZU/reviews/ChdDSUhNMG9nS0VJQ0FnSUNqZzkzaHl3RRAB
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        8 course omakase experience - they get their fish fresh daily and
+        incorporate seasonal ingredients into the menu. The flavors were simple
+        yet complex and each course had it's own surprising element. Each dish
+        is prepared was thoughtful in complimenting flavor and texture! The
+        nigiri was exceptional - (if eaten in the correct order) the buildup of
+        complexity and umami was a delight to experience. They were also
+        accommodating for our dietary restrictions. Highly recommend this place!
+      languageCode: en
+    originalText:
+      text: >-
+        8 course omakase experience - they get their fish fresh daily and
+        incorporate seasonal ingredients into the menu. The flavors were simple
+        yet complex and each course had it's own surprising element. Each dish
+        is prepared was thoughtful in complimenting flavor and texture! The
+        nigiri was exceptional - (if eaten in the correct order) the buildup of
+        complexity and umami was a delight to experience. They were also
+        accommodating for our dietary restrictions. Highly recommend this place!
+      languageCode: en
+    authorAttribution:
+      displayName: Leanne Wong
+      uri: https://www.google.com/maps/contrib/103624197740662372966/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXn-CBM3U9yB5o2G9bwZQudGPc2zpWviTz4efwfY3MtnCntv1Nj=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-04-25T03:37:31.276422Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNqZzkzaHl3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNqZzkzaHl3RRAB!2m1!1s0x808f80b74a2320ef:0x95adbaf8182a713b
+  - name: >-
+      places/ChIJ7yAjSreAj4ARO3EqGPi6rZU/reviews/ChdDSUhNMG9nS0VJQ0FnSUNsX3V1XzF3RRAB
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        Atypical. Tiny restaurant (10 seats, 6 at the counter, one table for 4)
+        with a unique 7-course menu changing each week. Food is very delicate,
+        essentially around fish (only one small piece with meat during the whole
+        meal). I was maybe expecting something more creative, more different
+        across the courses, but was still very enjoyable. Service was very
+        efficient, as all guests were mostly served at the same time.
+      languageCode: en
+    originalText:
+      text: >-
+        Atypical. Tiny restaurant (10 seats, 6 at the counter, one table for 4)
+        with a unique 7-course menu changing each week. Food is very delicate,
+        essentially around fish (only one small piece with meat during the whole
+        meal). I was maybe expecting something more creative, more different
+        across the courses, but was still very enjoyable. Service was very
+        efficient, as all guests were mostly served at the same time.
+      languageCode: en
+    authorAttribution:
+      displayName: Sylvain Francois
+      uri: https://www.google.com/maps/contrib/117379643926774731695/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLeoGTA0M5QSCID0xxjdUQDsMcf3PP7WsFFTMXaE7nJ-L9fvZ0=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2023-11-19T19:07:54.153461Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNsX3V1XzF3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNsX3V1XzF3RRAB!2m1!1s0x808f80b74a2320ef:0x95adbaf8182a713b
+review_summary: >-
+  What Customers Are Saying$$$Visitors consistently praise the exceptional sushi
+  and omakase offerings at this spot, highlighting the fresh ingredients and
+  creative flavor profiles that keep things exciting. Many note the thoughtful
+  preparation and balanced tastes in each course, making it a standout choice
+  for a special meal. The service comes across as efficient and welcoming,
+  adding to the relaxed vibe that makes dining here enjoyable. Overall, it's
+  often recommended for those in the mood for top-notch Japanese cuisine, with
+  folks eager to return for the memorable experience. While some mention a
+  desire for more variety, the general consensus is that it delivers a
+  satisfying and worthwhile visit.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
-payment_options: null
+payment_options:
+  acceptsCreditCards: true
+  acceptsCashOnly: false
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
+curbside_pickup: false
+delivery: true
+dine_in: true
+good_for_children: false
+good_for_groups: false
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
 restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: false
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: false
+serves_vegetarian_food: false
+serves_wine: true
 takeout: null
-update_category: essentials
-summary: null
+update_category: atmosphere
+places_description: >-
+  Buzzy Japanese bistro with upscale omakase-style sushi & drinks in a cozy,
+  minimalist space.
 
 ---

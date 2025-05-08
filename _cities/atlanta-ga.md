@@ -5,4 +5,5 @@ permalink: /georgia/atlanta/
 stateAbbr: GA
 stateName: Georgia
 cityName: Atlanta
+
 ---

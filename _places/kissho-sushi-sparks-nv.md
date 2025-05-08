@@ -1,15 +1,14 @@
 ---
 layout: place
-title: "Kissho Sushi"
+title: Kissho Sushi
 permalink: /nevada/sparks/kissho-sushi.html
 stateAbbr: NV
 stateName: Nevada
 cityName: Sparks
 seo:
-  name: "Kissho Sushi"
-  type: Restaurant
-  links: https://smorefood.com/order-online/kissho-sushi-sparks-89434-jpv3od7s?utm_source=gmb&utm_medium=website
-description: "Kissho Sushi serves delicious sushi in Sparks, Nevada. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
+  type: restaurant
+  links: >-
+    https://smorefood.com/order-online/kissho-sushi-sparks-89434-jpv3od7s?utm_source=gmb&utm_medium=website
 place_id: ChIJtXZTujg_mYARJY1cCe6gELg
 photos:
   - name: >-
@@ -186,6 +185,35 @@ rating: '4.1'
 rating_count: 0
 website: >-
   https://smorefood.com/order-online/kissho-sushi-sparks-89434-jpv3od7s?utm_source=gmb&utm_medium=website
+description: >-
+  Discover Kissho Sushi in Sparks, NV$$$Kissho Sushi in Sparks, NV, stands out
+  as a casual spot for enjoying authentic Japanese flavors, particularly its
+  fresh sushi and hibachi options that attract locals seeking quality dining
+  near shopping areas. This eatery offers a welcoming atmosphere with accessible
+  features like wheelchair-friendly seating and parking, making it easy for
+  everyone to savor the extensive menu of creative rolls and grilled dishes.
+  Drawing from its location at the Outlets at Legends, it provides a relaxed
+  setting for those exploring top sushi restaurants in the region, with options
+  that cater to various tastes and preferences. The all-you-can-eat selections
+  highlight generous portions and a blend of traditional and innovative flavors,
+  ensuring a satisfying meal for sushi enthusiasts looking for variety. Overall,
+  it's a go-to choice for anyone in the area wanting to experience Japanese
+  cuisine without the hassle.
+generative_summary: >-
+  Discover Kissho Sushi in Sparks, NV$$$Kissho Sushi in Sparks, NV, stands out
+  as a casual spot for enjoying authentic Japanese flavors, particularly its
+  fresh sushi and hibachi options that attract locals seeking quality dining
+  near shopping areas. This eatery offers a welcoming atmosphere with accessible
+  features like wheelchair-friendly seating and parking, making it easy for
+  everyone to savor the extensive menu of creative rolls and grilled dishes.
+  Drawing from its location at the Outlets at Legends, it provides a relaxed
+  setting for those exploring top sushi restaurants in the region, with options
+  that cater to various tastes and preferences. The all-you-can-eat selections
+  highlight generous portions and a blend of traditional and innovative flavors,
+  ensuring a satisfying meal for sushi enthusiasts looking for variety. Overall,
+  it's a go-to choice for anyone in the area wanting to experience Japanese
+  cuisine without the hassle.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJtXZTujg_mYARJY1cCe6gELg/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRZ09xTUd3EAE
@@ -399,6 +427,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUR3aHFHMDNBRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUR3aHFHMDNBRRAB!2m1!1s0x80993f38ba5376b5:0xb810a0ee095c8d25
+review_summary: >-
+  Insights from Customer Feedback$$$Visitors to this sushi spot often rave about
+  the wide array of choices in the all-you-can-eat menu, with many highlighting
+  the flavorful rolls and quick service that make for a fun dining experience.
+  While some note that portions can feel rice-heavy or that vegetarian options
+  might need a bit more flair, the overall vibe remains enjoyable with attentive
+  staff keeping things running smoothly. Folks appreciate the unique tastes in
+  specialty rolls and the convenience of trying new dishes, even if a few
+  mention it's best to pick the right items for the best value. In general, it's
+  a solid pick for groups or families craving fresh sushi nearby, offering a mix
+  of hits that keep the energy positive despite minor hiccups. If you're on the
+  hunt for reliable Japanese places close to home, this one delivers a mostly
+  upbeat meal worth checking out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -431,7 +473,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

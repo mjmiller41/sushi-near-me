@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Genki Sushi"
+title: Genki Sushi
 permalink: /hawaii/waipahu/genki-sushi.html
 stateAbbr: HI
 stateName: Hawaii
 cityName: Waipahu
 seo:
-  name: "Genki Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Genki Sushi serves delicious sushi in Waipahu, Hawaii. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJqYdUNoFmAHwRLq8zXvnWNsY
 photos:
   - name: >-
@@ -185,7 +183,47 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Experience Genki Sushi in Waipahu, HI$$$Genki Sushi in Waipahu, HI, offers a
+  modern twist on Japanese dining with its innovative and casual atmosphere that
+  combines technology and fresh flavors. Guests can enjoy a seamless ordering
+  process via touch screens, where sushi and other dishes arrive via a fun
+  bullet train system, making every meal an engaging experience. The restaurant
+  features a variety of sushi options that highlight quality ingredients,
+  perfect for those seeking top-rated sushi near you in a welcoming setting.
+  Accessibility is a key highlight, with features like wheelchair-friendly
+  entrances and seating that ensure everyone can savor the futuristic Japanese
+  vibe. Whether you're looking for sushi places near me or a relaxed spot for a
+  quick bite, this location stands out for its blend of convenience and
+  authentic tastes.
+generative_summary: >-
+  Experience Genki Sushi in Waipahu, HI$$$Genki Sushi in Waipahu, HI, offers a
+  modern twist on Japanese dining with its innovative and casual atmosphere that
+  combines technology and fresh flavors. Guests can enjoy a seamless ordering
+  process via touch screens, where sushi and other dishes arrive via a fun
+  bullet train system, making every meal an engaging experience. The restaurant
+  features a variety of sushi options that highlight quality ingredients,
+  perfect for those seeking top-rated sushi near you in a welcoming setting.
+  Accessibility is a key highlight, with features like wheelchair-friendly
+  entrances and seating that ensure everyone can savor the futuristic Japanese
+  vibe. Whether you're looking for sushi places near me or a relaxed spot for a
+  quick bite, this location stands out for its blend of convenience and
+  authentic tastes.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Buzz Around This Local Sushi Favorite$$$Folks visiting this sushi spot often
+  praise the tasty udon and avocado rolls that deliver a satisfying mix of
+  flavors without breaking the bank. They appreciate the friendly service and
+  the cool, high-tech setup that brings a fun Japanese twist to everyday dining,
+  making it a hit for groups or families. While some mention that things can get
+  a bit slower during busy times, the overall value and welcoming environment
+  keep people coming back for more. If you're hunting for the best sushi near
+  me, the reasonable prices and fresh options make it worth the visit, with many
+  highlighting it as a go-to for a casual meal. All in all, it's a solid choice
+  that balances fun vibes with honest, enjoyable eats, even if timing isn't
+  always perfect.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +249,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

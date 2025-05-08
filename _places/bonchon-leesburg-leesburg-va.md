@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Bonchon Leesburg"
+title: Bonchon Leesburg
 permalink: /virginia/leesburg/bonchon-leesburg.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Leesburg
 seo:
-  name: "Bonchon Leesburg"
-  type: Restaurant
-  links: null
-description: "Bonchon Leesburg serves delicious sushi in Leesburg, Virginia. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://locations.bonchon.com/ll/US/VA/Leesburg/1607-Village-Market-Blvd-SE
 place_id: ChIJtwObZuU9tokRcpVS9YD8iwc
 photos:
   - name: >-
@@ -142,10 +140,8 @@ photos:
       https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMRXTO3q9LfJWHjcjmj7LFQfDNZm3RA1FzPrK08&hl=en-US
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMRXTO3q9LfJWHjcjmj7LFQfDNZm3RA1FzPrK08!2e10!4m2!3m1!1s0x89b63de5669b03b7:0x78bfc80f5529572
-address: >-
-  Village Market Blvd SE Suite K-106, 1607 Village Market Blvd Suite K - 106,
-  Leesburg, VA 20175, USA
-street: Village Market Blvd SE Suite K-106, 1607 Village Market Blvd Suite K - 106
+address: 1607 Village Market Blvd SE Suite K - 106, Leesburg, VA 20175, USA
+street: 1607 Village Market Blvd SE Suite K - 106
 city: Leesburg
 state: VA
 zip: '20175'
@@ -172,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89b63de5669b03b7:0x78bfc80f5529572!10e5
 primary_type: Asian Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 9:00 PM'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 10:00 PM'
+    - 'Saturday: 11:00 AM – 10:00 PM'
+    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -181,13 +242,47 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (571) 707-8183
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.5'
+rating_count: 429
+website: https://locations.bonchon.com/ll/US/VA/Leesburg/1607-Village-Market-Blvd-SE
+description: >-
+  Explore Bonchon in Leesburg, VA$$$Bonchon Leesburg in Leesburg, VA, stands out
+  as a vibrant Asian restaurant offering a mix of Korean-style fried chicken and
+  fusion flavors that appeal to those seeking authentic tastes in a relaxed
+  atmosphere. This spot is known for its crispy, flavorful dishes paired with a
+  selection of beers, making it a go-to for casual dining experiences that blend
+  tradition with modern twists. With accessibility features like
+  wheelchair-friendly parking and entrances, it's designed to welcome everyone
+  comfortably. The restaurant operates daily with extended hours on weekends,
+  providing ample opportunities to enjoy its informal setting and diverse menu
+  options.
+generative_summary: >-
+  Explore Bonchon in Leesburg, VA$$$Bonchon Leesburg in Leesburg, VA, stands out
+  as a vibrant Asian restaurant offering a mix of Korean-style fried chicken and
+  fusion flavors that appeal to those seeking authentic tastes in a relaxed
+  atmosphere. This spot is known for its crispy, flavorful dishes paired with a
+  selection of beers, making it a go-to for casual dining experiences that blend
+  tradition with modern twists. With accessibility features like
+  wheelchair-friendly parking and entrances, it's designed to welcome everyone
+  comfortably. The restaurant operates daily with extended hours on weekends,
+  providing ample opportunities to enjoy its informal setting and diverse menu
+  options.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback Highlights$$$Folks visiting this Asian eatery often praise
+  the tasty, well-prepared meals that deliver a satisfying crunch and bold
+  flavors, making it a solid choice for anyone craving quality Asian fare
+  nearby. Many appreciate the friendly vibe and efficient service that enhance
+  the overall dining experience, helping it maintain a high rating among local
+  spots. While some note occasional waits during peak times, the general
+  consensus leans positive, with diners highlighting the value for the price as
+  a great reason to return. Overall, it's clear that this place hits the mark
+  for those looking for reliable, enjoyable meals in a welcoming environment.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -213,7 +308,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

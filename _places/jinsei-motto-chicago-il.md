@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Jinsei Motto"
+title: Jinsei Motto
 permalink: /illinois/chicago/jinsei-motto.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
 seo:
-  name: "Jinsei Motto"
-  type: Restaurant
+  type: restaurant
   links: https://www.jinseimotto.com/
-description: "Jinsei Motto serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJHfUX-kstDogRvJwilXIwCmY
 photos:
   - name: >-
@@ -184,6 +182,33 @@ price_range: $100 &ndash; & up
 rating: '4.7'
 rating_count: 0
 website: https://www.jinseimotto.com/
+description: >-
+  About Jinsei Motto in Chicago$$$Jinsei Motto in Chicago, IL, stands out as a
+  top sushi restaurant in the bustling West Loop neighborhood, offering an
+  inviting spot for fresh Japanese-inspired dining. The venue features
+  high-quality sushi selections with carefully prepared dishes that emphasize
+  fresh ingredients and thoughtful flavors, making it a go-to choice for those
+  seeking sushi restaurants in the area. Accessibility is a key highlight, with
+  wheelchair-friendly entrances, restrooms, and seating that ensure everyone can
+  enjoy the experience comfortably. Patrons appreciate the cozy atmosphere and
+  variety of options like omakase-style meals, which provide great value for
+  authentic tastes. Whether you're exploring sushi places near me or looking for
+  Japanese dining spots, this location combines excellent service with a
+  welcoming vibe that enhances every visit.
+generative_summary: >-
+  About Jinsei Motto in Chicago$$$Jinsei Motto in Chicago, IL, stands out as a
+  top sushi restaurant in the bustling West Loop neighborhood, offering an
+  inviting spot for fresh Japanese-inspired dining. The venue features
+  high-quality sushi selections with carefully prepared dishes that emphasize
+  fresh ingredients and thoughtful flavors, making it a go-to choice for those
+  seeking sushi restaurants in the area. Accessibility is a key highlight, with
+  wheelchair-friendly entrances, restrooms, and seating that ensure everyone can
+  enjoy the experience comfortably. Patrons appreciate the cozy atmosphere and
+  variety of options like omakase-style meals, which provide great value for
+  authentic tastes. Whether you're exploring sushi places near me or looking for
+  Japanese dining spots, this location combines excellent service with a
+  welcoming vibe that enhances every visit.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJHfUX-kstDogRvJwilXIwCmY/reviews/ChdDSUhNMG9nS0VJQ0FnTURBOXFhUHJ3RRAB
@@ -415,6 +440,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNuX2NLUGRnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNuX2NLUGRnEAE!2m1!1s0x880e2d4bfa17f51d:0x660a307295229cbc
+review_summary: >-
+  Visitor Feedback Highlights$$$Folks generally rave about the fresh and
+  flavorful sushi at this spot, with many highlighting the omakase options as a
+  standout feature that delivers solid value and creative twists on traditional
+  dishes. While most experiences lean positive, a few mentions of occasional
+  service hiccups or mixed feelings on cocktails keep things real, though they
+  don't overshadow the overall enjoyment. Visitors often note that the portions
+  are generous enough to satisfy, especially for groups looking for a casual
+  night out, and the atmosphere adds to the fun without any major letdowns.
+  Overall, it's a reliable pick for anyone hunting for top-rated sushi nearby,
+  with the majority agreeing that the quality of the food makes it worth
+  returning for more. If you're in the mood for great sushi dining, this place
+  tends to hit the mark while offering a relaxed and welcoming feel.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidStreetParking: true
 payment_options:
@@ -443,7 +482,7 @@ serves_lunch: true
 serves_vegetarian_food: false
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

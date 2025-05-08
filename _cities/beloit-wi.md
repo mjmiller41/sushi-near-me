@@ -5,4 +5,5 @@ permalink: /wisconsin/beloit/
 stateAbbr: WI
 stateName: Wisconsin
 cityName: Beloit
+
 ---

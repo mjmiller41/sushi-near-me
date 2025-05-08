@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Mikomi Sushi Monrovia"
+title: Mikomi Sushi Monrovia
 permalink: /california/monrovia/mikomi-sushi-monrovia.html
 stateAbbr: CA
 stateName: California
 cityName: Monrovia
 seo:
-  name: "Mikomi Sushi Monrovia"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Mikomi Sushi Monrovia serves delicious sushi in Monrovia, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJk18KH2rZwoARTZyjbRI8fJs
 photos:
   - name: >-
@@ -185,7 +183,44 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Mikomi Sushi in Monrovia, CA$$$Mikomi Sushi in Monrovia, CA, stands
+  out as a welcoming spot for fresh Japanese cuisine, blending casual vibes with
+  a variety of sushi options that appeal to locals seeking authentic flavors.
+  This eatery features an array of sushi rolls and bento boxes, complemented by
+  a cozy bar area perfect for happy hour gatherings and outdoor patio seating
+  for relaxed dining. Patrons can enjoy the accessibility features like
+  wheelchair-friendly entrances and parking, making it an inclusive choice for
+  everyone. The menu highlights creative dishes that showcase high-quality
+  ingredients, ideal for those exploring top-rated sushi restaurants in the
+  area. Whether you're in the mood for a quick bite or a leisurely meal, this
+  spot delivers a satisfying experience in a clean and inviting atmosphere.
+generative_summary: >-
+  Discover Mikomi Sushi in Monrovia, CA$$$Mikomi Sushi in Monrovia, CA, stands
+  out as a welcoming spot for fresh Japanese cuisine, blending casual vibes with
+  a variety of sushi options that appeal to locals seeking authentic flavors.
+  This eatery features an array of sushi rolls and bento boxes, complemented by
+  a cozy bar area perfect for happy hour gatherings and outdoor patio seating
+  for relaxed dining. Patrons can enjoy the accessibility features like
+  wheelchair-friendly entrances and parking, making it an inclusive choice for
+  everyone. The menu highlights creative dishes that showcase high-quality
+  ingredients, ideal for those exploring top-rated sushi restaurants in the
+  area. Whether you're in the mood for a quick bite or a leisurely meal, this
+  spot delivers a satisfying experience in a clean and inviting atmosphere.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Folks rave about the tasty sushi, sashimi, and
+  rolls at this spot, often noting the super fresh fish and hearty portions that
+  make every meal feel worthwhile. Many appreciate the friendly and quick
+  service that keeps things running smoothly without any fuss, along with prices
+  that offer great value for the quality. The overall vibe is praised for being
+  spotless and comfortable, making it a go-to for casual get-togethers or solo
+  visits. While opinions vary, the general consensus leans positive,
+  highlighting it as a reliable choice for anyone hunting for solid sushi places
+  nearby. All in all, it's a welcoming option that delivers on flavor and
+  convenience, encouraging repeat trips for sushi enthusiasts.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +246,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

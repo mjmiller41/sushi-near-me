@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kumori Sushi & Teppanyaki Palms Crossing"
+title: Kumori Sushi & Teppanyaki Palms Crossing
 permalink: /texas/mcallen/kumori-sushi-teppanyaki-palms-crossing.html
 stateAbbr: TX
 stateName: Texas
 cityName: McAllen
 seo:
-  name: "Kumori Sushi & Teppanyaki Palms Crossing"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Kumori Sushi & Teppanyaki Palms Crossing serves delicious sushi in McAllen, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ_bTq5HCnZYYRvDk0b0I-2KE
 photos:
   - name: >-
@@ -185,7 +183,43 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Kumori Sushi in McAllen, TX$$$In McAllen, TX, Kumori Sushi &
+  Teppanyaki Palms Crossing stands out as a contemporary spot for enjoying fresh
+  sushi and teppanyaki dishes, blending modern vibes with authentic Japanese
+  flavors. This eatery delights diners with a variety of creative rolls and
+  sizzling teppanyaki options, all served in a clean and welcoming environment
+  that emphasizes accessibility for everyone. Its menu highlights high-quality
+  ingredients that bring out the best in Japanese cuisine, making it a go-to
+  choice for those seeking sushi restaurants in the area. With thoughtful design
+  and inclusive features like wheelchair-accessible seating, it caters to a wide
+  range of visitors looking for a relaxed yet flavorful meal.
+generative_summary: >-
+  Discover Kumori Sushi in McAllen, TX$$$In McAllen, TX, Kumori Sushi &
+  Teppanyaki Palms Crossing stands out as a contemporary spot for enjoying fresh
+  sushi and teppanyaki dishes, blending modern vibes with authentic Japanese
+  flavors. This eatery delights diners with a variety of creative rolls and
+  sizzling teppanyaki options, all served in a clean and welcoming environment
+  that emphasizes accessibility for everyone. Its menu highlights high-quality
+  ingredients that bring out the best in Japanese cuisine, making it a go-to
+  choice for those seeking sushi restaurants in the area. With thoughtful design
+  and inclusive features like wheelchair-accessible seating, it caters to a wide
+  range of visitors looking for a relaxed yet flavorful meal.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying About the Experience$$$Folks exploring local sushi
+  spots often praise the delicious and creative rolls at this McAllen favorite,
+  highlighting how the fresh flavors make for a satisfying meal that's perfect
+  for sushi lovers. Many appreciate the friendly service and comfortable
+  atmosphere, which add to the overall enjoyment of dining out with friends or
+  family. While some note that service can vary depending on the time of visit,
+  the general consensus is that the tasty dishes and clean setting keep people
+  coming back for more. Overall, it's seen as a solid pick for anyone hunting
+  for top-rated sushi nearby, with the positives far outweighing any occasional
+  inconsistencies. If you're in the mood for Japanese-inspired eats, this place
+  delivers a reliably enjoyable vibe that leaves diners smiling.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +245,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

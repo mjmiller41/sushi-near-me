@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Neta Shari"
+title: Neta Shari
 permalink: /new-york/brooklyn/neta-shari.html
 stateAbbr: NY
 stateName: New York
 cityName: Brooklyn
 seo:
-  name: "Neta Shari"
-  type: Restaurant
+  type: restaurant
   links: http://www.netashari.nyc/
-description: "Neta Shari serves delicious sushi in Brooklyn, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ7VOxKVBFwokRO4Zf1ESGNAE
 photos:
   - name: >-
@@ -184,6 +182,31 @@ price_range: $100 &ndash; & up
 rating: '4.7'
 rating_count: 0
 website: http://www.netashari.nyc/
+description: >-
+  Explore Neta Shari in Brooklyn, NY$$$Neta Shari in Brooklyn, NY, stands out as
+  a cozy sushi destination where fresh omakase-style dishes take center stage in
+  a welcoming counter-serve setting. This spot delights visitors with an array
+  of small plates, paired perfectly with sake and beer, creating an intimate
+  dining experience that's ideal for sushi enthusiasts. For those seeking
+  top-rated sushi near me, the menu highlights high-quality ingredients and
+  creative presentations that make every bite memorable. The restaurant's
+  accessible entrance and thoughtful ambiance add to its appeal, ensuring a
+  comfortable visit for a variety of diners. Whether you're exploring Japanese
+  places near me or craving the best sushi, Neta Shari offers a refined yet
+  approachable option in the heart of the neighborhood.
+generative_summary: >-
+  Explore Neta Shari in Brooklyn, NY$$$Neta Shari in Brooklyn, NY, stands out as
+  a cozy sushi destination where fresh omakase-style dishes take center stage in
+  a welcoming counter-serve setting. This spot delights visitors with an array
+  of small plates, paired perfectly with sake and beer, creating an intimate
+  dining experience that's ideal for sushi enthusiasts. For those seeking
+  top-rated sushi near me, the menu highlights high-quality ingredients and
+  creative presentations that make every bite memorable. The restaurant's
+  accessible entrance and thoughtful ambiance add to its appeal, ensuring a
+  comfortable visit for a variety of diners. Whether you're exploring Japanese
+  places near me or craving the best sushi, Neta Shari offers a refined yet
+  approachable option in the heart of the neighborhood.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ7VOxKVBFwokRO4Zf1ESGNAE/reviews/ChdDSUhNMG9nS0VJQ0FnTUNneW8ta3VnRRAB
@@ -351,6 +374,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURXa19qeHJ3RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURXa19qeHJ3RRAB!2m1!1s0x89c2455029b153ed:0x1348644d45f863b
+review_summary: >-
+  What People Are Buzzing About This Sushi Spot$$$Visitors often praise the
+  fresh fish and well-crafted omakase courses at this Brooklyn gem, noting how
+  the variety of flavors really hits the spot for a satisfying meal. Many
+  highlight the great value, like generous multi-course options that feel worth
+  every penny without breaking the bank. Folks appreciate the attentive service
+  that keeps things running smoothly, making it easy to enjoy standout items
+  such as the buttery salmon and flavorful wagyu. Overall, the experience comes
+  across as a solid win for anyone hunting for sushi restaurants near me, with
+  positive vibes around the quality and creativity. It's a go-to choice that
+  delivers honest enjoyment, leaving diners eager to return for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options:
   acceptsCreditCards: true
@@ -380,7 +415,7 @@ serves_lunch: true
 serves_vegetarian_food: false
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -5,4 +5,5 @@ permalink: /california/seaside/
 stateAbbr: CA
 stateName: California
 cityName: Seaside
+
 ---

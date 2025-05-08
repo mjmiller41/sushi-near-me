@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kalani's"
+title: Kalani's
 permalink: /california/south-lake-tahoe/kalani-s.html
 stateAbbr: CA
 stateName: California
 cityName: South Lake Tahoe
 seo:
-  name: "Kalani's"
-  type: Restaurant
+  type: restaurant
   links: http://kalanis.com/
-description: "Fine-dining spot at the Heavenly Mountain base featuring Hawaiian eats & a variety of sushi rolls. Kalani's serves delicious sushi in South Lake Tahoe, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJRV9f9HaQmYARS-KagE_VWFA
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $50 &ndash; $100
 rating: '4.3'
 rating_count: 0
 website: http://kalanis.com/
+description: >-
+  Experience Kalani's in South Lake Tahoe, CA$$$Kalani's in South Lake Tahoe,
+  CA, stands out as an upscale eatery nestled in the vibrant Heavenly Village,
+  offering a blend of fresh seafood, steaks, and creative sushi selections that
+  capture a tropical essence. This spot delights with its inviting atmosphere
+  and thoughtful menu, featuring inventive cocktails and dishes that highlight
+  high-quality ingredients for a memorable dining experience. Patrons appreciate
+  the accessible design, including wheelchair-friendly features, making it easy
+  to enjoy the variety of options in a welcoming setting. Whether you're seeking
+  sushi places near me or a relaxed yet refined meal, the focus on flavorful
+  Hawaiian-inspired cuisine ensures every visit feels special and satisfying.
+generative_summary: >-
+  Experience Kalani's in South Lake Tahoe, CA$$$Kalani's in South Lake Tahoe,
+  CA, stands out as an upscale eatery nestled in the vibrant Heavenly Village,
+  offering a blend of fresh seafood, steaks, and creative sushi selections that
+  capture a tropical essence. This spot delights with its inviting atmosphere
+  and thoughtful menu, featuring inventive cocktails and dishes that highlight
+  high-quality ingredients for a memorable dining experience. Patrons appreciate
+  the accessible design, including wheelchair-friendly features, making it easy
+  to enjoy the variety of options in a welcoming setting. Whether you're seeking
+  sushi places near me or a relaxed yet refined meal, the focus on flavorful
+  Hawaiian-inspired cuisine ensures every visit feels special and satisfying.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJRV9f9HaQmYARS-KagE_VWFA/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3am9lM0tREAE
@@ -392,6 +413,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQ3LWZtZ3lRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQ3LWZtZ3lRRRAB!2m1!1s0x80999076f45f5f45:0x5058d54f809ae24b
+review_summary: >-
+  What Guests Are Saying About Kalani's$$$Folks heading to this spot often
+  highlight the fantastic food and drinks, with fresh sushi and tasty cocktails
+  standing out as crowd favorites that keep diners coming back for more. Many
+  appreciate the friendly service and quick delivery of meals, creating a lively
+  vibe that's perfect for groups or a casual night out. While some note that
+  prices can feel a bit steep, the overall experience remains enjoyable,
+  especially with options like hearty soups and appetizers that add to the fun.
+  If you're on the hunt for top-rated sushi restaurants in the area, this place
+  delivers solid satisfaction with its welcoming atmosphere and reliable
+  flavors. All in all, it's a go-to choice for those wanting a positive dining
+  adventure without any major letdowns.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options:
   acceptsCreditCards: true
@@ -421,8 +455,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Fine-dining spot at the Heavenly Mountain base featuring Hawaiian eats & a
   variety of sushi rolls.
 

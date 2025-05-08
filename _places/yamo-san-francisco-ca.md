@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yamo"
+title: Yamo
 permalink: /california/san-francisco/yamo.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
 seo:
-  name: "Yamo"
-  type: Restaurant
+  type: restaurant
   links: https://yamosf.net/
-description: "Hole-in-the-wall, cash-only Burmese restaurant for quick, cheap meals served from an open kitchen. Yamo serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJWdqFtzx-j4ARmbqOHjZACP4
 photos:
   - name: >-
@@ -183,6 +181,27 @@ price_range: $1 &ndash; $10
 rating: '4.4'
 rating_count: 0
 website: https://yamosf.net/
+description: >-
+  Discover Yamo in San Francisco$$$Yamo in San Francisco, CA, is a charming
+  counter-serve eatery specializing in simple Burmese comfort food that captures
+  the essence of everyday flavors. This spot offers affordable meals like tea
+  leaf salad, hearty curries, and fresh fish chowder, all prepared in an open
+  kitchen that adds to the lively, unpretentious vibe. With its cash-only policy
+  and budget-friendly prices, it's an ideal choice for those seeking quick,
+  satisfying eats in the bustling Mission District. The restaurant's compact
+  setup encourages a fast-paced dining experience, making it perfect for locals
+  and visitors looking for authentic Burmese cuisine without the fuss.
+generative_summary: >-
+  Discover Yamo in San Francisco$$$Yamo in San Francisco, CA, is a charming
+  counter-serve eatery specializing in simple Burmese comfort food that captures
+  the essence of everyday flavors. This spot offers affordable meals like tea
+  leaf salad, hearty curries, and fresh fish chowder, all prepared in an open
+  kitchen that adds to the lively, unpretentious vibe. With its cash-only policy
+  and budget-friendly prices, it's an ideal choice for those seeking quick,
+  satisfying eats in the bustling Mission District. The restaurant's compact
+  setup encourages a fast-paced dining experience, making it perfect for locals
+  and visitors looking for authentic Burmese cuisine without the fuss.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJWdqFtzx-j4ARmbqOHjZACP4/reviews/ChdDSUhNMG9nS0VJQ0FnTURBeXVUYXB3RRAB
@@ -406,6 +425,17 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNIOGJ6WE5REAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNIOGJ6WE5REAE!2m1!1s0x808f7e3cb785da59:0xfe0840361e8eba99
+review_summary: >-
+  What People Are Saying$$$Visitors consistently praise Yamo for its tasty
+  Burmese dishes, especially the flavorful house noodles and tea leaf salad that
+  deliver a satisfying punch at unbeatable prices. Many highlight the welcoming
+  atmosphere and efficient service, making it a go-to spot for a casual meal
+  that feels like a hidden gem. While most folks appreciate the straightforward,
+  home-style flavors, a few mention that some items might come across as milder
+  than expected, though this doesn't detract from the overall charm. All in all,
+  it's a solid pick for anyone craving affordable, comforting food in a
+  laid-back setting, with the value standing out as a real winner.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: false
   paidStreetParking: true
@@ -435,8 +465,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Hole-in-the-wall, cash-only Burmese restaurant for quick, cheap meals served
   from an open kitchen.
 

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Top Sushi - Cypress"
+title: Top Sushi - Cypress
 permalink: /texas/cypress/top-sushi-cypress.html
 stateAbbr: TX
 stateName: Texas
 cityName: Cypress
 seo:
-  name: "Top Sushi - Cypress"
-  type: Restaurant
-  links: null
-description: "Top Sushi - Cypress serves delicious sushi in Cypress, Texas. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.topsushibar.com/
 place_id: ChIJk25rwQbXQIYRzW2MOcYVxSc
 photos:
   - name: >-
@@ -170,22 +168,233 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8640d706c16b6e93:0x27c515c6398c6dcd!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 23
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 23
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 23
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 23
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 11:00 PM'
+    - 'Tuesday: 11:00 AM – 11:00 PM'
+    - 'Wednesday: 11:00 AM – 11:00 PM'
+    - 'Thursday: 11:00 AM – 11:00 PM'
+    - 'Friday: 11:00 AM – 11:00 PM'
+    - 'Saturday: 12:00 – 11:00 PM'
+    - 'Sunday: 12:00 – 10:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 0
+        close:
+          day: 0
+          hour: 22
+          minute: 0
+      - open:
+          day: 1
+          hour: 16
+          minute: 0
+        close:
+          day: 1
+          hour: 19
+          minute: 0
+      - open:
+          day: 1
+          hour: 21
+          minute: 0
+        close:
+          day: 1
+          hour: 23
+          minute: 0
+      - open:
+          day: 2
+          hour: 16
+          minute: 0
+        close:
+          day: 2
+          hour: 19
+          minute: 0
+      - open:
+          day: 2
+          hour: 21
+          minute: 0
+        close:
+          day: 2
+          hour: 23
+          minute: 0
+      - open:
+          day: 3
+          hour: 16
+          minute: 0
+        close:
+          day: 3
+          hour: 19
+          minute: 0
+      - open:
+          day: 3
+          hour: 21
+          minute: 0
+        close:
+          day: 3
+          hour: 23
+          minute: 0
+      - open:
+          day: 4
+          hour: 16
+          minute: 0
+        close:
+          day: 4
+          hour: 19
+          minute: 0
+      - open:
+          day: 4
+          hour: 21
+          minute: 0
+        close:
+          day: 4
+          hour: 23
+          minute: 0
+      - open:
+          day: 5
+          hour: 16
+          minute: 0
+        close:
+          day: 5
+          hour: 19
+          minute: 0
+      - open:
+          day: 5
+          hour: 21
+          minute: 0
+        close:
+          day: 6
+          hour: 0
+          minute: 0
+      - open:
+          day: 6
+          hour: 16
+          minute: 0
+        close:
+          day: 6
+          hour: 19
+          minute: 0
+      - open:
+          day: 6
+          hour: 21
+          minute: 0
+        close:
+          day: 0
+          hour: 0
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 4:00 – 7:00 PM, 9:00 – 11:00 PM'
+      - 'Tuesday: 4:00 – 7:00 PM, 9:00 – 11:00 PM'
+      - 'Wednesday: 4:00 – 7:00 PM, 9:00 – 11:00 PM'
+      - 'Thursday: 4:00 – 7:00 PM, 9:00 – 11:00 PM'
+      - 'Friday: 4:00 – 7:00 PM, 9:00 PM – 12:00 AM'
+      - 'Saturday: 4:00 – 7:00 PM, 9:00 PM – 12:00 AM'
+      - 'Sunday: 12:00 – 10:00 PM'
+    secondaryHoursType: HAPPY_HOUR
+    nextCloseTime: '2025-05-04T00:00:00Z'
+phone: (281) 246-4450
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.3'
+rating_count: 1110
+website: https://www.topsushibar.com/
+description: >-
+  About Top Sushi in Cypress, TX$$$Top Sushi - Cypress in Cypress, TX, stands
+  out as a welcoming Japanese restaurant known for its fresh sushi and seafood
+  offerings that capture the essence of authentic flavors. This spot combines
+  casual dining with a selection of beer, wine, and sake, making it an ideal
+  choice for those seeking sushi restaurants near me that balance quality and
+  relaxation. With accessibility features like wheelchair-friendly parking and
+  entrances, it's designed to accommodate everyone looking for a seamless meal
+  experience. The restaurant's extended hours, including evenings and weekends,
+  ensure you can enjoy top-rated sushi options without hassle, perfect for a
+  spontaneous night out or a family gathering.
+generative_summary: >-
+  About Top Sushi in Cypress, TX$$$Top Sushi - Cypress in Cypress, TX, stands
+  out as a welcoming Japanese restaurant known for its fresh sushi and seafood
+  offerings that capture the essence of authentic flavors. This spot combines
+  casual dining with a selection of beer, wine, and sake, making it an ideal
+  choice for those seeking sushi restaurants near me that balance quality and
+  relaxation. With accessibility features like wheelchair-friendly parking and
+  entrances, it's designed to accommodate everyone looking for a seamless meal
+  experience. The restaurant's extended hours, including evenings and weekends,
+  ensure you can enjoy top-rated sushi options without hassle, perfect for a
+  spontaneous night out or a family gathering.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Buzzing About$$$Folks searching for sushi close to me often
+  highlight the fresh, flavorful rolls and generous portions that make every
+  visit worthwhile at this Cypress favorite. Many appreciate the consistent
+  quality and variety, with comments frequently noting how the ingredients shine
+  in dishes that feel both authentic and innovative. It's commonly praised for
+  its relaxed vibe and efficient service, drawing in those who love sushi for
+  casual get-togethers or quick bites. Overall, the feedback leans positive,
+  with diners agreeing it's a solid pick for anyone wanting reliable Japanese
+  cuisine that hits the spot without breaking the bank. While a few mention
+  occasional waits during peak times, the general consensus keeps things upbeat,
+  making it a go-to for exploring best sushi near me.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +420,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

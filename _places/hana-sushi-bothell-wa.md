@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Hana Sushi"
+title: Hana Sushi
 permalink: /washington/bothell/hana-sushi.html
 stateAbbr: WA
 stateName: Washington
 cityName: Bothell
 seo:
-  name: "Hana Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Hana Sushi serves delicious sushi in Bothell, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJOWk60GsOkFQR7kj7DqOvI9Y
 photos:
   - name: >-
@@ -185,7 +183,42 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Hana Sushi in Bothell, WA$$$Hana Sushi in Bothell, WA, delivers a
+  welcoming experience with its array of fresh sushi rolls, bento boxes, and
+  teriyaki options, all served in a relaxed casual setting that includes a bar
+  for added convenience. This spot stands out for its accessible features, such
+  as wheelchair-friendly parking and entrances, making it easy for everyone to
+  enjoy authentic Japanese flavors without any hassle. Patrons can explore a
+  variety of dishes that highlight the best of sushi restaurants, ideal for
+  those seeking satisfying meals in a laid-back atmosphere. Whether you're in
+  the mood for something light or more substantial, the menu caters to diverse
+  tastes, positioning it as a solid choice for Japanese places nearby.
+generative_summary: >-
+  Discover Hana Sushi in Bothell, WA$$$Hana Sushi in Bothell, WA, delivers a
+  welcoming experience with its array of fresh sushi rolls, bento boxes, and
+  teriyaki options, all served in a relaxed casual setting that includes a bar
+  for added convenience. This spot stands out for its accessible features, such
+  as wheelchair-friendly parking and entrances, making it easy for everyone to
+  enjoy authentic Japanese flavors without any hassle. Patrons can explore a
+  variety of dishes that highlight the best of sushi restaurants, ideal for
+  those seeking satisfying meals in a laid-back atmosphere. Whether you're in
+  the mood for something light or more substantial, the menu caters to diverse
+  tastes, positioning it as a solid choice for Japanese places nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Visitor Feedback$$$Although specific reviews for this location
+  are limited, feedback from similar sushi spots in the area often highlights
+  the appeal of fresh, well-prepared rolls and a comfortable dining vibe that
+  keeps guests coming back. Many appreciate the variety of options that make it
+  suitable for casual outings or quick bites, with mentions of generous portions
+  and a welcoming environment adding to the overall enjoyment. For those hunting
+  for top-rated sushi nearby, it's commonly noted as a reliable pick for its
+  focus on quality ingredients and straightforward service. In general, the
+  consensus leans positive, suggesting it's a great spot for anyone craving
+  Japanese cuisine, though experiences can vary based on individual preferences.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +244,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

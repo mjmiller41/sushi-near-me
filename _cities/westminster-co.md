@@ -5,4 +5,5 @@ permalink: /colorado/westminster/
 stateAbbr: CO
 stateName: Colorado
 cityName: Westminster
+
 ---

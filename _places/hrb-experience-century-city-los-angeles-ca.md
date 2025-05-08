@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "HRB Experience Century City"
+title: HRB Experience Century City
 permalink: /california/los-angeles/hrb-experience-century-city.html
 stateAbbr: CA
 stateName: California
 cityName: Los Angeles
 seo:
-  name: "HRB Experience Century City"
-  type: Restaurant
+  type: restaurant
   links: https://www.thehrbexperience.com/
-description: "HRB Experience Century City serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJw524c8-_woARqgzxRcy5zhM
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c2bfcf73b89dc3:0x13ceb9cc45f10caa!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 9:00 PM'
     - 'Tuesday: 11:30 AM – 9:00 PM'
     - 'Wednesday: 11:30 AM – 9:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 9:00 PM'
     - 'Saturday: 11:30 AM – 9:00 PM'
     - 'Sunday: 12:00 – 8:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 9:00 PM'
-    - 'Tuesday: 11:30 AM – 9:00 PM'
-    - 'Wednesday: 11:30 AM – 9:00 PM'
-    - 'Thursday: 11:30 AM – 9:00 PM'
-    - 'Friday: 11:30 AM – 9:00 PM'
-    - 'Saturday: 11:30 AM – 9:00 PM'
-    - 'Sunday: 12:00 – 8:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,286 @@ phone: (424) 302-0110
 price_level: null
 price_range: $30 &ndash; $50
 rating: '4.0'
-rating_count: 0
+rating_count: 158
 website: https://www.thehrbexperience.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Experience the Finer Points of HRB Experience Century City$$$HRB Experience
+  Century City in Los Angeles, CA, stands out as a vibrant sushi restaurant
+  nestled in the heart of a bustling shopping area, offering fresh, high-quality
+  rolls and handrolls that highlight the best of Japanese-inspired cuisine. This
+  spot features an inviting outdoor seating area, perfect for enjoying sushi in
+  a relaxed, open-air environment, along with accessible options like
+  wheelchair-friendly entrances and parking to ensure everyone can savor the
+  meal. Diners appreciate the straightforward menu with trendy combinations that
+  emphasize premium fish, making it a go-to choice for those seeking sushi
+  restaurants in the area. The establishment maintains convenient hours,
+  including lunch and dinner service, allowing visitors to drop in for a quick
+  bite while exploring nearby attractions. Overall, it's an ideal destination
+  for anyone searching for top-rated sushi experiences that blend simplicity and
+  flavor in a welcoming atmosphere.
+generative_summary: >-
+  Experience the Finer Points of HRB Experience Century City$$$HRB Experience
+  Century City in Los Angeles, CA, stands out as a vibrant sushi restaurant
+  nestled in the heart of a bustling shopping area, offering fresh, high-quality
+  rolls and handrolls that highlight the best of Japanese-inspired cuisine. This
+  spot features an inviting outdoor seating area, perfect for enjoying sushi in
+  a relaxed, open-air environment, along with accessible options like
+  wheelchair-friendly entrances and parking to ensure everyone can savor the
+  meal. Diners appreciate the straightforward menu with trendy combinations that
+  emphasize premium fish, making it a go-to choice for those seeking sushi
+  restaurants in the area. The establishment maintains convenient hours,
+  including lunch and dinner service, allowing visitors to drop in for a quick
+  bite while exploring nearby attractions. Overall, it's an ideal destination
+  for anyone searching for top-rated sushi experiences that blend simplicity and
+  flavor in a welcoming atmosphere.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJw524c8-_woARqgzxRcy5zhM/reviews/ChZDSUhNMG9nS0VJQ0FnTURJbU0zakdBEAE
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 4
+    text:
+      text: >-
+        I’ve been coming here since the original opening and I’ve seen the
+        transition the restaurant has been through. It’s a good place to come
+        for a quick meal. Service here isn’t the best so if you’re looking for
+        fine dining with top notch service, this is not it! They typically run
+        on minimal staff and they’re running around but the fish are good and
+        fresh. Would totally recommend if you’re shopping at the mall!
+      languageCode: en
+    originalText:
+      text: >-
+        I’ve been coming here since the original opening and I’ve seen the
+        transition the restaurant has been through. It’s a good place to come
+        for a quick meal. Service here isn’t the best so if you’re looking for
+        fine dining with top notch service, this is not it! They typically run
+        on minimal staff and they’re running around but the fish are good and
+        fresh. Would totally recommend if you’re shopping at the mall!
+      languageCode: en
+    authorAttribution:
+      displayName: Got Food?
+      uri: https://www.google.com/maps/contrib/101558682457734338477/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXpPSMYH_ZZZwCTB-IMBUdGrsdPLvL0DcoirSPh_IkVfr0Ddew=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-06T20:28:31.535821Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURJbU0zakdBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJbU0zakdBEAE!2m1!1s0x80c2bfcf73b89dc3:0x13ceb9cc45f10caa
+  - name: >-
+      places/ChIJw524c8-_woARqgzxRcy5zhM/reviews/ChZDSUhNMG9nS0VJQ0FnSURibjQzVGZBEAE
+    relativePublishTimeDescription: 8 months ago
+    rating: 4
+    text:
+      text: >-
+        Hand Roll Bar that serves recommended sets with trendy comibinations. 
+        The Japanese fusion resto has a limited but satisfying menu.
+
+
+        Service was relaxed but efficient.
+
+
+        Most of the dining is at a semi-outdoor counter bar layout with limited
+        seating on an elevated platform at the courtyard of the Century City
+        mall complex.
+
+
+        Even if the layout is stylish and clean, not sure if the open space is a
+        good fit for eating raw food.  Good weather is needed.
+
+
+        Ideal for quick bites and dates and lone dining.
+      languageCode: en
+    originalText:
+      text: >-
+        Hand Roll Bar that serves recommended sets with trendy comibinations. 
+        The Japanese fusion resto has a limited but satisfying menu.
+
+
+        Service was relaxed but efficient.
+
+
+        Most of the dining is at a semi-outdoor counter bar layout with limited
+        seating on an elevated platform at the courtyard of the Century City
+        mall complex.
+
+
+        Even if the layout is stylish and clean, not sure if the open space is a
+        good fit for eating raw food.  Good weather is needed.
+
+
+        Ideal for quick bites and dates and lone dining.
+      languageCode: en
+    authorAttribution:
+      displayName: Oliver Pe
+      uri: https://www.google.com/maps/contrib/108482139427055811566/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUJr8dUZEDva7iNDeapdYl622ipN0htIR59MtXNUgzSZU8z_H8wBg=s128-c0x00000000-cc-rp-mo-ba7
+    publishTime: '2024-08-10T23:04:53.727842Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURibjQzVGZBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURibjQzVGZBEAE!2m1!1s0x80c2bfcf73b89dc3:0x13ceb9cc45f10caa
+  - name: >-
+      places/ChIJw524c8-_woARqgzxRcy5zhM/reviews/ChdDSUhNMG9nS0VJQ0FnSURKdF92MS13RRAB
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        HRB is a great experience. The sushi quality is top notch. You can tell
+        the sushi here is more traditional and simple, they let the sushi speak
+        for itself and you can tell the quality of the fish really shines
+        through. Yes the meal is expensive. We spent 98$ for a combo 6, miso
+        soup, and a sushi roll. You are paying for quality. If you are starving
+        I might suggest something else. If you are looking for a high quality
+        sushi experience I would suggest checking out HRB.
+      languageCode: en
+    originalText:
+      text: >-
+        HRB is a great experience. The sushi quality is top notch. You can tell
+        the sushi here is more traditional and simple, they let the sushi speak
+        for itself and you can tell the quality of the fish really shines
+        through. Yes the meal is expensive. We spent 98$ for a combo 6, miso
+        soup, and a sushi roll. You are paying for quality. If you are starving
+        I might suggest something else. If you are looking for a high quality
+        sushi experience I would suggest checking out HRB.
+      languageCode: en
+    authorAttribution:
+      displayName: andi nicpon
+      uri: https://www.google.com/maps/contrib/106912143419990620921/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKa9UmDr73osl-fTHcC_YakJoRc9uFIcxOra2lOkYFTAT31gwCE=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2023-07-24T22:21:49.736899Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURKdF92MS13RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURKdF92MS13RRAB!2m1!1s0x80c2bfcf73b89dc3:0x13ceb9cc45f10caa
+  - name: >-
+      places/ChIJw524c8-_woARqgzxRcy5zhM/reviews/ChdDSUhNMG9nS0VJQ0FnSUN4ejdxaW9nRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 3
+    text:
+      text: >-
+        This place was good but not great and that's only due to the portion
+        sizes. For the amount you pay for a roll, you would expect to at least
+        get a little more out of the hand roll/sushi roll. The handrolla are
+        literally 2 bites each which just does not cut it in my opinion. The
+        fish was just a spoon full over rice basically. Disappointed but still
+        good sushi.
+
+
+        The salmon sashimi was 🔥🔥 and like butter in the mouth.
+
+
+        Try it out for yourself!
+      languageCode: en
+    originalText:
+      text: >-
+        This place was good but not great and that's only due to the portion
+        sizes. For the amount you pay for a roll, you would expect to at least
+        get a little more out of the hand roll/sushi roll. The handrolla are
+        literally 2 bites each which just does not cut it in my opinion. The
+        fish was just a spoon full over rice basically. Disappointed but still
+        good sushi.
+
+
+        The salmon sashimi was 🔥🔥 and like butter in the mouth.
+
+
+        Try it out for yourself!
+      languageCode: en
+    authorAttribution:
+      displayName: Michael Johns
+      uri: https://www.google.com/maps/contrib/108592397375994544608/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUdV9zIjR4OkluzFaKjXApHzgAOYcuJvp_SGWaAKkYpSxgbMYQrVw=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2023-05-29T01:56:28.111900Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN4ejdxaW9nRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN4ejdxaW9nRRAB!2m1!1s0x80c2bfcf73b89dc3:0x13ceb9cc45f10caa
+  - name: >-
+      places/ChIJw524c8-_woARqgzxRcy5zhM/reviews/ChZDSUhNMG9nS0VJQ0FnSURENk1EZkpREAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        For single girls seeking a sushi haven with flair, this spot nails it.
+        Whether it's a quick snack or pre-dinner cocktails, the menu caters to
+        every craving. But what truly sets it apart is the outdoor ambiance – a
+        chic setting that invites you to linger, sip, and savor. Here, under the
+        starlit sky, surrounded by the buzz of the city, every bite feels like a
+        mini adventure. So, gather your tribe, indulge in the finest rolls, and
+        toast to the moments that make life deliciously memorable. It's more
+        than a dining experience; it's a rendezvous with culinary delight.
+      languageCode: en
+    originalText:
+      text: >-
+        For single girls seeking a sushi haven with flair, this spot nails it.
+        Whether it's a quick snack or pre-dinner cocktails, the menu caters to
+        every craving. But what truly sets it apart is the outdoor ambiance – a
+        chic setting that invites you to linger, sip, and savor. Here, under the
+        starlit sky, surrounded by the buzz of the city, every bite feels like a
+        mini adventure. So, gather your tribe, indulge in the finest rolls, and
+        toast to the moments that make life deliciously memorable. It's more
+        than a dining experience; it's a rendezvous with culinary delight.
+      languageCode: en
+    authorAttribution:
+      displayName: Alanna You
+      uri: https://www.google.com/maps/contrib/115342773876399251572/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVj8QDF5I3-Q_aBsYNpoflPPT8jKiIBjVioEQ0_zRW7VTjtGaki=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-04-05T04:41:45.206338Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURENk1EZkpREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURENk1EZkpREAE!2m1!1s0x80c2bfcf73b89dc3:0x13ceb9cc45f10caa
+review_summary: >-
+  Insights from Customer Feedback$$$Visitors to this sushi spot often rave about
+  the fresh, high-quality fish that makes every bite feel satisfying and
+  authentic, positioning it as a solid option for casual sushi enthusiasts in
+  the neighborhood. While the service keeps things moving efficiently for quick
+  meals, some note that it's more straightforward than luxurious, which suits
+  those looking for a laid-back vibe rather than an elaborate dining affair.
+  Feedback highlights the trendy menu combinations and outdoor setting as
+  perfect for impromptu outings or solo stops, adding to its appeal for anyone
+  hunting for sushi places nearby. Though portions might not always feel
+  generous for the price, the overall experience earns praise for delivering
+  tasty, memorable flavors that keep people coming back. In essence, it's a
+  reliable choice for enjoying quality sushi with friends, offering a balance of
+  positives that make it worth trying out on your next visit.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  paidParkingLot: true
+  paidGarageParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
+delivery: true
+dine_in: true
+good_for_children: false
 good_for_groups: null
 good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+live_music: false
+menu_for_children: false
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
 serves_breakfast: null
 serves_brunch: null
-serves_cocktails: null
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

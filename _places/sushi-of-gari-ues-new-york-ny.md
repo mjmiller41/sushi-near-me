@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi of Gari UES"
+title: Sushi of Gari UES
 permalink: /new-york/new-york/sushi-of-gari-ues.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "Sushi of Gari UES"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi of Gari UES serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJs9JDurhYwokRSjnRF8h3US8
 photos:
   - name: >-
@@ -185,7 +183,47 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Sushi of Gari UES in New York, NY$$$Sushi of Gari UES in New York,
+  NY, stands out as a top Japanese dining spot, blending fresh sushi selections
+  with a modern, inviting atmosphere that appeals to food lovers. This
+  restaurant offers an array of expertly crafted rolls and dishes, highlighting
+  premium ingredients and creative flavors that elevate the classic sushi
+  experience. Its trendy setting makes it a go-to choice for those seeking
+  authentic Japanese cuisine in a vibrant urban environment, perfect for casual
+  meals or special occasions. With options that cater to sushi enthusiasts
+  exploring local eateries, it's an ideal stop for anyone searching for quality
+  Japanese places near them. The focus on detail ensures every visit feels
+  refined and memorable, making it a standout among sushi restaurants in the
+  area.
+generative_summary: >-
+  Discover Sushi of Gari UES in New York, NY$$$Sushi of Gari UES in New York,
+  NY, stands out as a top Japanese dining spot, blending fresh sushi selections
+  with a modern, inviting atmosphere that appeals to food lovers. This
+  restaurant offers an array of expertly crafted rolls and dishes, highlighting
+  premium ingredients and creative flavors that elevate the classic sushi
+  experience. Its trendy setting makes it a go-to choice for those seeking
+  authentic Japanese cuisine in a vibrant urban environment, perfect for casual
+  meals or special occasions. With options that cater to sushi enthusiasts
+  exploring local eateries, it's an ideal stop for anyone searching for quality
+  Japanese places near them. The focus on detail ensures every visit feels
+  refined and memorable, making it a standout among sushi restaurants in the
+  area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Sharing$$$Visitors often highlight the exceptional quality
+  of the sushi and dishes, praising the fresh ingredients and thoughtful
+  presentations that make every bite enjoyable. Many appreciate the welcoming
+  vibe and attentive service, which add to the overall relaxed dining experience
+  without overwhelming the spotlight on the food. While some note that the menu
+  might feel a bit pricey for everyday eats, the consensus leans toward it being
+  worth it for special treats or date nights. Overall, folks enjoy the variety
+  and creativity, making it a solid pick for anyone craving top-rated sushi in a
+  lively spot. If you're on the hunt for reliable sushi options nearby, this
+  place tends to leave a positive impression with its consistent flavors and
+  ambiance.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +249,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

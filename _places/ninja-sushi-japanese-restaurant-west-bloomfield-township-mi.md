@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ninja Sushi Japanese Restaurant"
+title: Ninja Sushi Japanese Restaurant
 permalink: /michigan/west-bloomfield-township/ninja-sushi-japanese-restaurant.html
 stateAbbr: MI
 stateName: Michigan
 cityName: West Bloomfield Township
 seo:
-  name: "Ninja Sushi Japanese Restaurant"
-  type: Restaurant
+  type: restaurant
   links: http://www.ninjasushimi.com/
-description: "Unfussy restaurant specializing in sushi, sashimi & maki, with free soup & salad. Ninja Sushi Japanese Restaurant serves delicious sushi in West Bloomfield Township, Michigan. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJG4AYk2K6JIgRDSrdd6WHpNM
 photos:
   - name: >-
@@ -185,6 +183,35 @@ price_range: $10 &ndash; $20
 rating: '4.1'
 rating_count: 0
 website: http://www.ninjasushimi.com/
+description: >-
+  Discover Ninja Sushi Japanese Restaurant in West Bloomfield Township,
+  MI$$$Ninja Sushi Japanese Restaurant in West Bloomfield Township, MI, provides
+  a relaxed spot for enjoying fresh sushi and Japanese dishes in a welcoming
+  atmosphere. This casual eatery features an array of creative rolls, sashimi,
+  and maki, complemented by options like beer, sake, and cocktails, making it a
+  go-to choice for sushi enthusiasts seeking variety. With its unfussy vibe and
+  thoughtful touches such as free soup and salad, it stands out as a convenient
+  option for those exploring top-rated Japanese places near me. The restaurant
+  also prioritizes accessibility, ensuring a comfortable visit for all, while
+  offering moderate pricing that appeals to locals looking for quality sushi
+  restaurants without breaking the bank. Its focus on fresh ingredients and
+  simple yet satisfying meals makes it an ideal destination for anyone craving
+  authentic flavors in the area.
+generative_summary: >-
+  Discover Ninja Sushi Japanese Restaurant in West Bloomfield Township,
+  MI$$$Ninja Sushi Japanese Restaurant in West Bloomfield Township, MI, provides
+  a relaxed spot for enjoying fresh sushi and Japanese dishes in a welcoming
+  atmosphere. This casual eatery features an array of creative rolls, sashimi,
+  and maki, complemented by options like beer, sake, and cocktails, making it a
+  go-to choice for sushi enthusiasts seeking variety. With its unfussy vibe and
+  thoughtful touches such as free soup and salad, it stands out as a convenient
+  option for those exploring top-rated Japanese places near me. The restaurant
+  also prioritizes accessibility, ensuring a comfortable visit for all, while
+  offering moderate pricing that appeals to locals looking for quality sushi
+  restaurants without breaking the bank. Its focus on fresh ingredients and
+  simple yet satisfying meals makes it an ideal destination for anyone craving
+  authentic flavors in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJG4AYk2K6JIgRDSrdd6WHpNM/reviews/ChdDSUhNMG9nS0VJQ0FnSUMyeEtfS3Z3RRAB
@@ -384,6 +411,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURRa3FLd2FnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURRa3FLd2FnEAE!2m1!1s0x8824ba629318801b:0xd3a487a577dd2a0d
+review_summary: >-
+  What Customers Are Saying About the Experience$$$Visitors often rave about the
+  fresh and flavorful sushi rolls, along with generous portions that deliver
+  great value for the price at this laid-back spot. Many appreciate the friendly
+  service and welcoming vibe, noting that the overall dining experience feels
+  reliable and enjoyable, especially for groups or families. While some feedback
+  suggests that entrees shine brightest when enjoyed on-site, the consensus
+  leans toward the restaurant's consistency in providing tasty options that keep
+  people coming back for more. Overall, it's clear that this place holds up as
+  one of the better choices for sushi lovers in the region, with highlights on
+  the variety and freshness that make it worth trying. If you're on the hunt for
+  reliable sushi close to me, the positive vibes from diners paint a picture of
+  a spot that's both approachable and satisfying for a casual meal.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -416,8 +457,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Unfussy restaurant specializing in sushi, sashimi & maki, with free soup &
   salad.
 

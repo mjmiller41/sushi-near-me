@@ -5,4 +5,5 @@ permalink: /new-jersey/westfield/
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Westfield
+
 ---

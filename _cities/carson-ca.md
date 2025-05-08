@@ -5,4 +5,5 @@ permalink: /california/carson/
 stateAbbr: CA
 stateName: California
 cityName: Carson
+
 ---

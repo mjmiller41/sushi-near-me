@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Q3 Millersville"
+title: Sushi Q3 Millersville
 permalink: /maryland/millersville/sushi-q3-millersville.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Millersville
 seo:
-  name: "Sushi Q3 Millersville"
-  type: Restaurant
+  type: restaurant
   links: http://www.sushiqmd.com/
-description: "Sushi Q3 Millersville serves delicious sushi in Millersville, Maryland. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJebPYLVD7t4kR819qL7wprdE
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89b7fb502dd8b379:0xd1ad29bc2f6a5ff3!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 10:00 PM'
     - 'Tuesday: 11:00 AM – 10:00 PM'
     - 'Wednesday: 11:00 AM – 10:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 11:00 PM'
     - 'Saturday: 11:00 AM – 11:00 PM'
     - 'Sunday: 12:00 – 10:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 10:00 PM'
-    - 'Tuesday: 11:00 AM – 10:00 PM'
-    - 'Wednesday: 11:00 AM – 10:00 PM'
-    - 'Thursday: 11:00 AM – 10:00 PM'
-    - 'Friday: 11:00 AM – 11:00 PM'
-    - 'Saturday: 11:00 AM – 11:00 PM'
-    - 'Sunday: 12:00 – 10:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +246,45 @@ phone: (443) 685-3325
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.6'
-rating_count: 0
+rating_count: 972
 website: http://www.sushiqmd.com/
+description: >-
+  Discover Sushi Q3 in Millersville, MD$$$Nestled in Millersville, MD, Sushi Q3
+  stands out as a welcoming spot for fresh sushi and Japanese-inspired cuisine,
+  offering a relaxed atmosphere perfect for casual dining. This informal
+  restaurant delights patrons with an array of sushi rolls, hibachi favorites,
+  and teriyaki dishes, all complemented by a selection of beer, wine, and sake
+  to enhance the meal. Visitors appreciate the accessible features like
+  wheelchair-friendly parking and seating, making it easier for everyone to
+  enjoy a meal. For those seeking top-rated sushi options nearby, the menu's
+  variety and moderate pricing provide great value, ideal for a satisfying lunch
+  or dinner outing.
+generative_summary: >-
+  Discover Sushi Q3 in Millersville, MD$$$Nestled in Millersville, MD, Sushi Q3
+  stands out as a welcoming spot for fresh sushi and Japanese-inspired cuisine,
+  offering a relaxed atmosphere perfect for casual dining. This informal
+  restaurant delights patrons with an array of sushi rolls, hibachi favorites,
+  and teriyaki dishes, all complemented by a selection of beer, wine, and sake
+  to enhance the meal. Visitors appreciate the accessible features like
+  wheelchair-friendly parking and seating, making it easier for everyone to
+  enjoy a meal. For those seeking top-rated sushi options nearby, the menu's
+  variety and moderate pricing provide great value, ideal for a satisfying lunch
+  or dinner outing.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Folks often rave about the fantastic lunch
+  specials at this sushi spot, highlighting the generous portions and affordable
+  prices that make it a go-to choice. Many appreciate the wide range of creative
+  rolls and dishes, which add excitement to every visit and keep things fresh
+  for repeat diners. The service stands out for being quick and welcoming,
+  paired with a clean and comfortable environment that enhances the overall
+  experience. Overall, the consensus leans positive, with comments on the
+  excellent value making it a solid pick for anyone craving quality Japanese
+  fare without breaking the bank. If you're on the hunt for reliable sushi
+  places nearby, this location consistently delivers a satisfying meal that
+  leaves customers coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +310,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

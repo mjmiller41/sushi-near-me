@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yummy Teriyaki & Sushi"
+title: Yummy Teriyaki & Sushi
 permalink: /california/antelope/yummy-teriyaki-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Antelope
 seo:
-  name: "Yummy Teriyaki & Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://yummyteriyaki.menu11.com/
-description: "Yummy Teriyaki & Sushi serves delicious sushi in Antelope, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJsViscyonm4ARjR0S-HBB2zI
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x809b272a73ac58b1:0x32db4170f8121d8d!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 20
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 20
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 20
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 20
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 8:30 PM'
     - 'Tuesday: 11:30 AM – 8:30 PM'
     - 'Wednesday: 11:30 AM – 8:30 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 9:00 PM'
     - 'Saturday: 11:30 AM – 9:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:30 AM – 8:30 PM'
-    - 'Tuesday: 11:30 AM – 8:30 PM'
-    - 'Wednesday: 11:30 AM – 8:30 PM'
-    - 'Thursday: 11:30 AM – 8:30 PM'
-    - 'Friday: 11:30 AM – 9:00 PM'
-    - 'Saturday: 11:30 AM – 9:00 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +238,271 @@ phone: (279) 529-2082
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.3'
-rating_count: 0
+rating_count: 104
 website: https://yummyteriyaki.menu11.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Yummy Teriyaki & Sushi in Antelope, California$$$Yummy Teriyaki &
+  Sushi in Antelope, CA, delivers a welcoming casual vibe perfect for enjoying
+  fresh Japanese-inspired dishes in a relaxed environment. This spot specializes
+  in flavorful sushi rolls and teriyaki plates, crafted with high-quality
+  ingredients that highlight authentic tastes for those seeking sushi
+  restaurants nearby. Accessibility features like wheelchair-friendly parking
+  and seating make it an inclusive choice for all diners, adding to its appeal
+  as a go-to option for everyday meals. The family-oriented atmosphere
+  emphasizes simple yet satisfying dining, ideal for anyone exploring top-rated
+  sushi options in the area. Open hours cater to lunch and dinner crowds,
+  ensuring it's easy to drop in for a quick or leisurely bite.
+generative_summary: >-
+  Discover Yummy Teriyaki & Sushi in Antelope, California$$$Yummy Teriyaki &
+  Sushi in Antelope, CA, delivers a welcoming casual vibe perfect for enjoying
+  fresh Japanese-inspired dishes in a relaxed environment. This spot specializes
+  in flavorful sushi rolls and teriyaki plates, crafted with high-quality
+  ingredients that highlight authentic tastes for those seeking sushi
+  restaurants nearby. Accessibility features like wheelchair-friendly parking
+  and seating make it an inclusive choice for all diners, adding to its appeal
+  as a go-to option for everyday meals. The family-oriented atmosphere
+  emphasizes simple yet satisfying dining, ideal for anyone exploring top-rated
+  sushi options in the area. Open hours cater to lunch and dinner crowds,
+  ensuring it's easy to drop in for a quick or leisurely bite.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJsViscyonm4ARjR0S-HBB2zI/reviews/ChZDSUhNMG9nS0VJQ0FnTUNnaHJyOEZREAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        I recently went to Yummy Sushi, and I can't say enough good things about
+        this little gem! As a small family-owned and operated restaurant, they
+        truly provide a warm and inviting atmosphere that makes you feel right
+        at home.
+
+
+        The sushi here is fantastic—each roll is fresh, flavorful, and
+        beautifully presented. You can tell that they take pride in their craft;
+        the ingredients are top-notch, and the combinations are both creative
+        and delicious. I especially loved their signature rolls, which are
+        unique and packed with flavor.
+
+
+        What really impressed me was the value. For the quality of sushi you
+        get, the prices are incredibly reasonable. It’s refreshing to find a
+        place that prioritizes both taste and affordability.
+
+
+        The staff is friendly and attentive, making sure you have everything you
+        need throughout your meal. Yummy Sushi is a must-visit. I’ll definitely
+        be returning soon!
+      languageCode: en
+    originalText:
+      text: >-
+        I recently went to Yummy Sushi, and I can't say enough good things about
+        this little gem! As a small family-owned and operated restaurant, they
+        truly provide a warm and inviting atmosphere that makes you feel right
+        at home.
+
+
+        The sushi here is fantastic—each roll is fresh, flavorful, and
+        beautifully presented. You can tell that they take pride in their craft;
+        the ingredients are top-notch, and the combinations are both creative
+        and delicious. I especially loved their signature rolls, which are
+        unique and packed with flavor.
+
+
+        What really impressed me was the value. For the quality of sushi you
+        get, the prices are incredibly reasonable. It’s refreshing to find a
+        place that prioritizes both taste and affordability.
+
+
+        The staff is friendly and attentive, making sure you have everything you
+        need throughout your meal. Yummy Sushi is a must-visit. I’ll definitely
+        be returning soon!
+      languageCode: en
+    authorAttribution:
+      displayName: Cliff Baker
+      uri: https://www.google.com/maps/contrib/109665566140005335409/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocK5pwiI9xnLUc67QX9f6F0YtJdRm2DVe0QXHh6_F2UsEzjtQw=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-02-16T14:15:07.694192Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNnaHJyOEZREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNnaHJyOEZREAE!2m1!1s0x809b272a73ac58b1:0x32db4170f8121d8d
+  - name: >-
+      places/ChIJsViscyonm4ARjR0S-HBB2zI/reviews/ChZDSUhNMG9nS0VJQ0FnSURwc09lX0V3EAE
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        I'm a fan of spots such as Yummy's. Owners are there and the staff are
+        invested in the food and performance.  They are obviously very
+        passionate about a good product.  If you are lucky on a hectic  day
+        sometimes you can listen in on some of the chatter from the mysterious
+        kitchen in the back.  Regardless the food is more than consistent and
+        the plates all seem to be double checked and then some before heading
+        out.  I am a difficult person and don't gravitate towards the sushi, but
+        could almost live on what the back kitchen makes in chicken, beef,  and
+        the Salmon. Chicken Katui is for the folks who like crispy for sure. I
+        have not had the Pan Fry yet, and I know it's not batch made as a famous
+        Chinese Woman who hardly speaks prepares those magical offerings no
+        matter what I am told. ( Again, key word = passion😉)  I do want to be
+        fair and point out much to my chagrin there aren't any desserts or
+        treats to celebrate after such a good meal, alas, I shouldn't need it. 
+        I do plenty of that in order to keep my Holiday weight + 15 to keep my
+        spirits high. So should you.  Cheers, JB
+      languageCode: en
+    originalText:
+      text: >-
+        I'm a fan of spots such as Yummy's. Owners are there and the staff are
+        invested in the food and performance.  They are obviously very
+        passionate about a good product.  If you are lucky on a hectic  day
+        sometimes you can listen in on some of the chatter from the mysterious
+        kitchen in the back.  Regardless the food is more than consistent and
+        the plates all seem to be double checked and then some before heading
+        out.  I am a difficult person and don't gravitate towards the sushi, but
+        could almost live on what the back kitchen makes in chicken, beef,  and
+        the Salmon. Chicken Katui is for the folks who like crispy for sure. I
+        have not had the Pan Fry yet, and I know it's not batch made as a famous
+        Chinese Woman who hardly speaks prepares those magical offerings no
+        matter what I am told. ( Again, key word = passion😉)  I do want to be
+        fair and point out much to my chagrin there aren't any desserts or
+        treats to celebrate after such a good meal, alas, I shouldn't need it. 
+        I do plenty of that in order to keep my Holiday weight + 15 to keep my
+        spirits high. So should you.  Cheers, JB
+      languageCode: en
+    authorAttribution:
+      displayName: Jeff Barriero
+      uri: https://www.google.com/maps/contrib/100560175972366995435/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjV-qli-OsoD_arfqNsVEwQDxkVBb8BN-g2vlRJX9PqI08IUSYkfwg=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-11-14T05:38:12.041168Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURwc09lX0V3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURwc09lX0V3EAE!2m1!1s0x809b272a73ac58b1:0x32db4170f8121d8d
+  - name: >-
+      places/ChIJsViscyonm4ARjR0S-HBB2zI/reviews/ChdDSUhNMG9nS0VJQ0FnSUNQcHAydDJ3RRAB
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        We ordered a little bit of everything. Sushi, ramen, teriyaki bowls.
+        Food was very good. Service was very friendly. It was my second time
+        visiting and would go again.
+      languageCode: en
+    originalText:
+      text: >-
+        We ordered a little bit of everything. Sushi, ramen, teriyaki bowls.
+        Food was very good. Service was very friendly. It was my second time
+        visiting and would go again.
+      languageCode: en
+    authorAttribution:
+      displayName: gregory ching
+      uri: https://www.google.com/maps/contrib/114140407187070400489/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUSCVLXD0dhi9hROLhoAXO8ExNw_TOtJBQ1Pi2xHYQUX9dguzS_=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-11-23T22:39:57.001988Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNQcHAydDJ3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNQcHAydDJ3RRAB!2m1!1s0x809b272a73ac58b1:0x32db4170f8121d8d
+  - name: >-
+      places/ChIJsViscyonm4ARjR0S-HBB2zI/reviews/ChdDSUhNMG9nS0VJQ0FnTUNnNk5tMnJ3RRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        Food is always incredible. Work crazy hours, and woke up early just so I
+        could come here. Owner and staff is always amazing.
+      languageCode: en
+    originalText:
+      text: >-
+        Food is always incredible. Work crazy hours, and woke up early just so I
+        could come here. Owner and staff is always amazing.
+      languageCode: en
+    authorAttribution:
+      displayName: Dads Rule
+      uri: https://www.google.com/maps/contrib/106263145952380922144/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLSPsRbeqnifpHIuMBjmDu5KpyMoNyCmOgASzmLbVqbEslKuw=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-02-13T20:46:33.813434Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNnNk5tMnJ3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNnNk5tMnJ3RRAB!2m1!1s0x809b272a73ac58b1:0x32db4170f8121d8d
+  - name: >-
+      places/ChIJsViscyonm4ARjR0S-HBB2zI/reviews/ChZDSUhNMG9nS0VJQ0FnSURodmJfZEdnEAE
+    relativePublishTimeDescription: 8 months ago
+    rating: 4
+    text:
+      text: >-
+        Great food, we got the Spider and the Yummy. Very friendly and fast
+        service. There was a steady stream of customers coming in which was
+        great to see. Definitely will be back.
+      languageCode: en
+    originalText:
+      text: >-
+        Great food, we got the Spider and the Yummy. Very friendly and fast
+        service. There was a steady stream of customers coming in which was
+        great to see. Definitely will be back.
+      languageCode: en
+    authorAttribution:
+      displayName: Kristi Mason
+      uri: https://www.google.com/maps/contrib/103695709437952262696/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWMg6t7575u3wecjubMOFMoc2kn7AZrYovGxtYlJN1ba8Tp9BTr=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-08-19T18:21:41.042123Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURodmJfZEdnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURodmJfZEdnEAE!2m1!1s0x809b272a73ac58b1:0x32db4170f8121d8d
+review_summary: >-
+  What Customers Love About This Sushi Spot$$$Folks often rave about the fresh
+  and tasty sushi rolls along with other Japanese favorites like teriyaki bowls,
+  making this place a solid pick for a satisfying meal. Many appreciate the
+  friendly and efficient service that keeps things running smoothly, even during
+  busy times, adding to the overall enjoyable experience. Reviewers frequently
+  note the great value for the quality of food, with portions that feel generous
+  without breaking the bank, encouraging repeat visits for casual diners. While
+  some mention missing out on desserts, the consistent flavors and welcoming
+  vibe keep the feedback overwhelmingly positive, especially for families or
+  groups looking for reliable spots. Overall, it's a hit for anyone searching
+  for dependable sushi near me, blending honest quality with a laid-back charm
+  that leaves people coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
+delivery: true
+dine_in: true
+good_for_children: true
 good_for_groups: null
-good_for_sports: null
-live_music: null
+good_for_sports: false
+live_music: false
 menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
+outdoor_seating: false
+reservable: true
+restroom: true
 serves_beer: null
 serves_breakfast: null
 serves_brunch: null
 serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
+serves_coffee: false
+serves_dinner: true
 serves_dessert: null
-serves_lunch: null
+serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

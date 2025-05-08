@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Oki Sushi"
+title: Oki Sushi
 permalink: /california/san-francisco/oki-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
 seo:
-  name: "Oki Sushi"
-  type: Restaurant
-  links: null
-description: "Oki Sushi serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.okisushica.com/
 place_id: ChIJv9kAl81_j4AR67N1ECZ2Z70
 photos:
   - name: >-
@@ -169,8 +167,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x808f7fcd9700d9bf:0xbd6776261075b3eb!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 16
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 16
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 4:30 – 9:00 PM'
+    - 'Tuesday: 4:30 – 9:00 PM'
+    - 'Wednesday: 4:30 – 9:00 PM'
+    - 'Thursday: 4:30 – 9:00 PM'
+    - 'Friday: 4:30 – 9:30 PM'
+    - 'Saturday: 4:30 – 9:30 PM'
+    - 'Sunday: 4:30 – 9:00 PM'
+  nextOpenTime: '2025-05-03T23:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -178,13 +241,55 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (415) 817-1094
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.3'
+rating_count: 71
+website: https://www.okisushica.com/
+description: >-
+  Explore Oki Sushi in San Francisco$$$Oki Sushi in San Francisco, CA, stands
+  out as a welcoming sushi restaurant nestled in the vibrant Noe Valley
+  neighborhood, offering fresh and generously portioned dishes that highlight
+  high-quality fish in sashimi and creative rolls. This spot is ideal for those
+  seeking authentic Japanese flavors with a focus on small plates that
+  complement the main entrees, making it a go-to for sushi enthusiasts exploring
+  local dining options. The restaurant boasts accessible features like
+  wheelchair-friendly entrances and seating, ensuring a comfortable experience
+  for all visitors. Evening hours from late afternoon provide a cozy setting for
+  casual dinners or quick bites, perfect if you're on the hunt for reliable
+  sushi places nearby. With its moderate pricing, Oki Sushi delivers a
+  satisfying meal that balances taste and value for anyone craving top-rated
+  Japanese cuisine in the area.
+generative_summary: >-
+  Explore Oki Sushi in San Francisco$$$Oki Sushi in San Francisco, CA, stands
+  out as a welcoming sushi restaurant nestled in the vibrant Noe Valley
+  neighborhood, offering fresh and generously portioned dishes that highlight
+  high-quality fish in sashimi and creative rolls. This spot is ideal for those
+  seeking authentic Japanese flavors with a focus on small plates that
+  complement the main entrees, making it a go-to for sushi enthusiasts exploring
+  local dining options. The restaurant boasts accessible features like
+  wheelchair-friendly entrances and seating, ensuring a comfortable experience
+  for all visitors. Evening hours from late afternoon provide a cozy setting for
+  casual dinners or quick bites, perfect if you're on the hunt for reliable
+  sushi places nearby. With its moderate pricing, Oki Sushi delivers a
+  satisfying meal that balances taste and value for anyone craving top-rated
+  Japanese cuisine in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback on Oki Sushi$$$Diners frequently highlight the standout
+  fresh ingredients and hearty portions at this sushi spot, helping it maintain
+  a strong 4.3 rating from numerous visitors. Many appreciate the well-crafted
+  rolls and sashimi that feel generous and flavorful, making it a solid pick for
+  casual meals with friends or family. While a few note that service can vary
+  depending on the time, the overall vibe comes across as relaxed and enjoyable,
+  with the small plates adding a fun variety to the experience. It's clear that
+  folks enjoy the authentic touches that keep things feeling genuine without any
+  over-the-top fuss, contributing to its reputation as a dependable choice in
+  the neighborhood. If you're looking for straightforward, tasty sushi options
+  nearby, this place often leaves people satisfied and ready to return for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +315,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

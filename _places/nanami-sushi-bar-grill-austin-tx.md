@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Nanami Sushi Bar & Grill"
+title: Nanami Sushi Bar & Grill
 permalink: /texas/austin/nanami-sushi-bar-grill.html
 stateAbbr: TX
 stateName: Texas
 cityName: Austin
 seo:
-  name: "Nanami Sushi Bar & Grill"
-  type: Restaurant
+  type: restaurant
   links: https://nanamisushi.com/
-description: "Nanami Sushi Bar & Grill serves delicious sushi in Austin, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJzR-XJnFMW4YRXQD8BnDS6IA
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x865b4c7126971fcd:0x80e8d27006fc005d!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 10:00 PM'
     - 'Tuesday: 11:30 AM – 10:00 PM'
     - 'Wednesday: 11:30 AM – 10:00 PM'
@@ -178,54 +234,486 @@ opening_hours:
     - 'Friday: 11:30 AM – 10:00 PM'
     - 'Saturday: 11:30 AM – 10:00 PM'
     - 'Sunday: 11:30 AM – 10:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 10:00 PM'
-    - 'Tuesday: 11:30 AM – 10:00 PM'
-    - 'Wednesday: 11:30 AM – 10:00 PM'
-    - 'Thursday: 11:30 AM – 10:00 PM'
-    - 'Friday: 11:30 AM – 10:00 PM'
-    - 'Saturday: 11:30 AM – 10:00 PM'
-    - 'Sunday: 11:30 AM – 10:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 11
+          minute: 30
+        close:
+          day: 0
+          hour: 22
+          minute: 0
+      - open:
+          day: 1
+          hour: 11
+          minute: 30
+        close:
+          day: 1
+          hour: 22
+          minute: 0
+      - open:
+          day: 2
+          hour: 11
+          minute: 30
+        close:
+          day: 2
+          hour: 22
+          minute: 0
+      - open:
+          day: 3
+          hour: 11
+          minute: 30
+        close:
+          day: 3
+          hour: 22
+          minute: 0
+      - open:
+          day: 4
+          hour: 11
+          minute: 30
+        close:
+          day: 4
+          hour: 22
+          minute: 0
+      - open:
+          day: 5
+          hour: 11
+          minute: 30
+        close:
+          day: 5
+          hour: 23
+          minute: 0
+      - open:
+          day: 6
+          hour: 11
+          minute: 30
+        close:
+          day: 6
+          hour: 22
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 11:30 AM – 10:00 PM'
+      - 'Tuesday: 11:30 AM – 10:00 PM'
+      - 'Wednesday: 11:30 AM – 10:00 PM'
+      - 'Thursday: 11:30 AM – 10:00 PM'
+      - 'Friday: 11:30 AM – 11:00 PM'
+      - 'Saturday: 11:30 AM – 10:00 PM'
+      - 'Sunday: 11:30 AM – 10:00 PM'
+    secondaryHoursType: DELIVERY
+    nextCloseTime: '2025-05-04T03:00:00Z'
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 11
+          minute: 30
+        close:
+          day: 0
+          hour: 22
+          minute: 0
+      - open:
+          day: 1
+          hour: 11
+          minute: 30
+        close:
+          day: 1
+          hour: 22
+          minute: 0
+      - open:
+          day: 2
+          hour: 11
+          minute: 30
+        close:
+          day: 2
+          hour: 22
+          minute: 0
+      - open:
+          day: 3
+          hour: 11
+          minute: 30
+        close:
+          day: 3
+          hour: 22
+          minute: 0
+      - open:
+          day: 4
+          hour: 11
+          minute: 30
+        close:
+          day: 4
+          hour: 22
+          minute: 0
+      - open:
+          day: 5
+          hour: 11
+          minute: 30
+        close:
+          day: 5
+          hour: 23
+          minute: 0
+      - open:
+          day: 6
+          hour: 11
+          minute: 30
+        close:
+          day: 6
+          hour: 22
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 11:30 AM – 10:00 PM'
+      - 'Tuesday: 11:30 AM – 10:00 PM'
+      - 'Wednesday: 11:30 AM – 10:00 PM'
+      - 'Thursday: 11:30 AM – 10:00 PM'
+      - 'Friday: 11:30 AM – 11:00 PM'
+      - 'Saturday: 11:30 AM – 10:00 PM'
+      - 'Sunday: 11:30 AM – 10:00 PM'
+    secondaryHoursType: TAKEOUT
+    nextCloseTime: '2025-05-04T03:00:00Z'
+  - openNow: false
+    periods:
+      - open:
+          day: 0
+          hour: 11
+          minute: 30
+        close:
+          day: 0
+          hour: 14
+          minute: 30
+      - open:
+          day: 1
+          hour: 11
+          minute: 30
+        close:
+          day: 1
+          hour: 14
+          minute: 30
+      - open:
+          day: 2
+          hour: 11
+          minute: 30
+        close:
+          day: 2
+          hour: 14
+          minute: 30
+      - open:
+          day: 3
+          hour: 11
+          minute: 30
+        close:
+          day: 3
+          hour: 14
+          minute: 30
+      - open:
+          day: 4
+          hour: 11
+          minute: 30
+        close:
+          day: 4
+          hour: 14
+          minute: 30
+      - open:
+          day: 5
+          hour: 11
+          minute: 30
+        close:
+          day: 5
+          hour: 14
+          minute: 30
+      - open:
+          day: 6
+          hour: 11
+          minute: 30
+        close:
+          day: 6
+          hour: 14
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 11:30 AM – 2:30 PM'
+      - 'Tuesday: 11:30 AM – 2:30 PM'
+      - 'Wednesday: 11:30 AM – 2:30 PM'
+      - 'Thursday: 11:30 AM – 2:30 PM'
+      - 'Friday: 11:30 AM – 2:30 PM'
+      - 'Saturday: 11:30 AM – 2:30 PM'
+      - 'Sunday: 11:30 AM – 2:30 PM'
+    secondaryHoursType: LUNCH
+    nextOpenTime: '2025-05-04T16:30:00Z'
+  - openNow: false
+    periods:
+      - open:
+          day: 1
+          hour: 16
+          minute: 0
+        close:
+          day: 1
+          hour: 18
+          minute: 0
+      - open:
+          day: 2
+          hour: 16
+          minute: 0
+        close:
+          day: 2
+          hour: 18
+          minute: 0
+      - open:
+          day: 3
+          hour: 16
+          minute: 0
+        close:
+          day: 3
+          hour: 18
+          minute: 0
+      - open:
+          day: 4
+          hour: 16
+          minute: 0
+        close:
+          day: 4
+          hour: 18
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 4:00 – 6:00 PM'
+      - 'Tuesday: 4:00 – 6:00 PM'
+      - 'Wednesday: 4:00 – 6:00 PM'
+      - 'Thursday: 4:00 – 6:00 PM'
+      - 'Friday: Closed'
+      - 'Saturday: Closed'
+      - 'Sunday: Closed'
+    secondaryHoursType: HAPPY_HOUR
+    nextOpenTime: '2025-05-05T21:00:00Z'
 phone: (512) 292-4228
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.2'
-rating_count: 0
+rating_count: 580
 website: https://nanamisushi.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Experience Nanami Sushi Bar & Grill in Austin, TX$$$Nanami Sushi Bar & Grill
+  in Austin, TX, stands out as a premier spot for sushi enthusiasts seeking a
+  blend of traditional Japanese flavors and modern ambiance. The restaurant
+  features an extensive menu with fresh, high-quality options, including
+  vegetarian dishes that cater to diverse tastes in a welcoming, relaxed
+  environment. Its elegant dining room, highlighted by a soothing waterfall,
+  creates an inviting atmosphere perfect for enjoying top-rated sushi creations,
+  making it an ideal choice for those exploring sushi restaurants nearby.
+  Accessibility is a key highlight, with wheelchair-friendly parking, entrances,
+  and seating ensuring everyone can enjoy the experience. Open daily from 11:30
+  AM to 10:00 PM, this spot also offers convenient takeout and delivery,
+  appealing to anyone looking for authentic Japanese cuisine close to home.
+generative_summary: >-
+  Experience Nanami Sushi Bar & Grill in Austin, TX$$$Nanami Sushi Bar & Grill
+  in Austin, TX, stands out as a premier spot for sushi enthusiasts seeking a
+  blend of traditional Japanese flavors and modern ambiance. The restaurant
+  features an extensive menu with fresh, high-quality options, including
+  vegetarian dishes that cater to diverse tastes in a welcoming, relaxed
+  environment. Its elegant dining room, highlighted by a soothing waterfall,
+  creates an inviting atmosphere perfect for enjoying top-rated sushi creations,
+  making it an ideal choice for those exploring sushi restaurants nearby.
+  Accessibility is a key highlight, with wheelchair-friendly parking, entrances,
+  and seating ensuring everyone can enjoy the experience. Open daily from 11:30
+  AM to 10:00 PM, this spot also offers convenient takeout and delivery,
+  appealing to anyone looking for authentic Japanese cuisine close to home.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJzR-XJnFMW4YRXQD8BnDS6IA/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRa0tIQ0l3EAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        Great spot for sushi! I had both the crunchy roll and the spicy tuna and
+        both were amazing. Also the kitchen was willing to accommodate my non
+        pork preference to one of their house special dishes, and made it with
+        chicken!
+
+        The service was spectacular and the atmosphere was top tier.
+      languageCode: en
+    originalText:
+      text: >-
+        Great spot for sushi! I had both the crunchy roll and the spicy tuna and
+        both were amazing. Also the kitchen was willing to accommodate my non
+        pork preference to one of their house special dishes, and made it with
+        chicken!
+
+        The service was spectacular and the atmosphere was top tier.
+      languageCode: en
+    authorAttribution:
+      displayName: Joshua Ehl
+      uri: https://www.google.com/maps/contrib/105518995314529414123/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUWHNhyrwoa55UhJkFl8ehzT0snpAKHcDhhKSQCZ5IDL6DxuMFS=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-03-01T06:34:41.606272Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNRa0tIQ0l3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNRa0tIQ0l3EAE!2m1!1s0x865b4c7126971fcd:0x80e8d27006fc005d
+  - name: >-
+      places/ChIJzR-XJnFMW4YRXQD8BnDS6IA/reviews/ChdDSUhNMG9nS0VJQ0FnSUM3NS1xTGhRRRAB
+    relativePublishTimeDescription: 8 months ago
+    rating: 5
+    text:
+      text: >-
+        Service was great. Came on a Sunday during lunch time and has plenty of
+        seating. Ordered caterpillar , rock-n-roll , and eel avocado rolls all
+        delicious! Would definitely recommend!
+      languageCode: en
+    originalText:
+      text: >-
+        Service was great. Came on a Sunday during lunch time and has plenty of
+        seating. Ordered caterpillar , rock-n-roll , and eel avocado rolls all
+        delicious! Would definitely recommend!
+      languageCode: en
+    authorAttribution:
+      displayName: Crystal Zuniga
+      uri: https://www.google.com/maps/contrib/104706636699112798895/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVTo8vRPPv2iXfYxbzXxJcKywYVyZhd1hm4gt92Dz0ZKVa-i7-x=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-08-18T18:17:41.402171Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUM3NS1xTGhRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUM3NS1xTGhRRRAB!2m1!1s0x865b4c7126971fcd:0x80e8d27006fc005d
+  - name: >-
+      places/ChIJzR-XJnFMW4YRXQD8BnDS6IA/reviews/ChZDSUhNMG9nS0VJQ0FnSUNqMFAzakhREAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        Overall great experience, great food and good service.
+
+        I will say that the outside could be more welcoming, which is why I put
+        4 stars.
+
+
+        We both got sushi and it tasted better and higher quality than a lot of
+        other sushi we had in ATX
+      languageCode: en
+    originalText:
+      text: >-
+        Overall great experience, great food and good service.
+
+        I will say that the outside could be more welcoming, which is why I put
+        4 stars.
+
+
+        We both got sushi and it tasted better and higher quality than a lot of
+        other sushi we had in ATX
+      languageCode: en
+    authorAttribution:
+      displayName: AutoMotivate
+      uri: https://www.google.com/maps/contrib/102529801925240982343/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXmaPeHaF6ixoY2BNoMr-o3cYi8QcRjWArxdFxIANA7Lnh1wMrKbA=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-04-16T23:50:27.582365Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNqMFAzakhREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNqMFAzakhREAE!2m1!1s0x865b4c7126971fcd:0x80e8d27006fc005d
+  - name: >-
+      places/ChIJzR-XJnFMW4YRXQD8BnDS6IA/reviews/ChdDSUhNMG9nS0VJQ0FnSUNDM296UTZ3RRAB
+    relativePublishTimeDescription: 4 years ago
+    rating: 1
+    text:
+      text: >-
+        I am unamused! The sushi smelt as if it was days old. The tempura and
+        the calamari were both soggy. The sauce for the calamari was VINEGAR.
+        Like someone explain that to me! Vinegar?? Will never ever return or
+        recommend. Do better please for your 4.2 star review I honestly expected
+        a lot more. That’s salmon and shrimp tempura. I’m unamused .
+      languageCode: en
+    originalText:
+      text: >-
+        I am unamused! The sushi smelt as if it was days old. The tempura and
+        the calamari were both soggy. The sauce for the calamari was VINEGAR.
+        Like someone explain that to me! Vinegar?? Will never ever return or
+        recommend. Do better please for your 4.2 star review I honestly expected
+        a lot more. That’s salmon and shrimp tempura. I’m unamused .
+      languageCode: en
+    authorAttribution:
+      displayName: AmaLinda Chindori-Chininga
+      uri: https://www.google.com/maps/contrib/100565274356204219778/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjV7fyV5fghWD4ZEGmVU5BaJvwhxZgOYF8_GeojKm6MeQ1maUus=s128-c0x00000000-cc-rp-mo
+    publishTime: '2020-08-24T00:19:20.416263Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNDM296UTZ3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNDM296UTZ3RRAB!2m1!1s0x865b4c7126971fcd:0x80e8d27006fc005d
+  - name: >-
+      places/ChIJzR-XJnFMW4YRXQD8BnDS6IA/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3dDlQSGVBEAE
+    relativePublishTimeDescription: a month ago
+    rating: 3
+    text:
+      text: >-
+        Not the best sushi especially given the price you pay. Rolls we ordered
+        (spicy tuna, and oceans 7) were very sweet and chemically tasting.
+      languageCode: en
+    originalText:
+      text: >-
+        Not the best sushi especially given the price you pay. Rolls we ordered
+        (spicy tuna, and oceans 7) were very sweet and chemically tasting.
+      languageCode: en
+    authorAttribution:
+      displayName: Michael Schultz
+      uri: https://www.google.com/maps/contrib/114519047534344558822/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKlbhtINPfM8XWGjOu-NhTYY_DGvpQ4gsyay3vmw6ZcT0IvZg=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-21T22:42:34.090437Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUN3dDlQSGVBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUN3dDlQSGVBEAE!2m1!1s0x865b4c7126971fcd:0x80e8d27006fc005d
+review_summary: >-
+  Visitor Feedback on Nanami Sushi Bar & Grill$$$Visitors often praise the fresh
+  and flavorful sushi rolls, noting that the variety and quality make it a solid
+  pick for casual meals or special occasions. While most folks appreciate the
+  accommodating service and tasty specials like spicy tuna or eel avocado rolls,
+  a few have mentioned that some dishes can occasionally be overly sweet or
+  inconsistent in freshness. Overall, the atmosphere and staff friendliness
+  create a relaxed vibe that keeps people coming back for more. It's clear that
+  this place shines for its generous portions and willingness to customize
+  orders, though it's wise to check for any off days to ensure the best
+  experience. If you're hunting for reliable sushi options in the area, this
+  spot generally delivers a satisfying meal with a positive, community feel.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: true
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
+serves_coffee: true
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Elegant dining room anchored by a waterfall serving a wide variety of
+  traditional Japanese dishes.
 
 ---

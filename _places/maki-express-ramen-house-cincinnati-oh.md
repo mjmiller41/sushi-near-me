@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Maki Express Ramen House"
+title: Maki Express Ramen House
 permalink: /ohio/cincinnati/maki-express-ramen-house.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Cincinnati
 seo:
-  name: "Maki Express Ramen House"
-  type: Restaurant
+  type: restaurant
   links: https://makiexpresscincinnati.com/
-description: "Maki Express Ramen House serves delicious sushi in Cincinnati, Ohio. Try fresh Japanese dishes for a great dining experience. Available for, lunch, and dinner."
 place_id: ChIJW-JqKwCzQYgRfbeEL3wikyI
 photos:
   - name: >-
@@ -129,6 +127,29 @@ price_range: $10 &ndash; $20
 rating: '4.3'
 rating_count: 0
 website: https://makiexpresscincinnati.com/
+description: >-
+  Discover Maki Express Ramen House in Cincinnati, OH$$$Maki Express Ramen House
+  in Cincinnati, OH, serves up a cozy spot for enjoying authentic Japanese
+  flavors in a welcoming atmosphere. This unassuming eatery specializes in
+  hearty ramen bowls and other traditional dishes, offering fresh ingredients
+  and generous portions that make it a go-to for casual Japanese dining. With
+  affordable pricing and a focus on comforting meals, it's ideal for those
+  seeking a quick yet satisfying escape from the everyday hustle. The menu
+  highlights warming broths and flavorful options that appeal to fans of
+  Japanese places near me, making it a hidden find for anyone exploring
+  top-rated eats in the area.
+generative_summary: >-
+  Discover Maki Express Ramen House in Cincinnati, OH$$$Maki Express Ramen House
+  in Cincinnati, OH, serves up a cozy spot for enjoying authentic Japanese
+  flavors in a welcoming atmosphere. This unassuming eatery specializes in
+  hearty ramen bowls and other traditional dishes, offering fresh ingredients
+  and generous portions that make it a go-to for casual Japanese dining. With
+  affordable pricing and a focus on comforting meals, it's ideal for those
+  seeking a quick yet satisfying escape from the everyday hustle. The menu
+  highlights warming broths and flavorful options that appeal to fans of
+  Japanese places near me, making it a hidden find for anyone exploring
+  top-rated eats in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJW-JqKwCzQYgRfbeEL3wikyI/reviews/ChZDSUhNMG9nS0VJQ0FnSURfeEl5TVV3EAE
@@ -282,6 +303,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURia3NIcGVBEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURia3NIcGVBEAE!2m1!1s0x8841b3002b6ae25b:0x2293227c2f84b77d
+review_summary: >-
+  What Customers Are Saying About the Experience$$$Visitors often praise the
+  delicious ramen and ample portions that deliver great value without breaking
+  the bank, making it a solid choice for a comforting meal. While most folks
+  enjoy the flavorful broths and friendly service that keep things light and
+  efficient, a few note occasional inconsistencies with ingredients that could
+  use some fine-tuning. Overall, the spot earns high marks for its welcoming
+  vibe and tasty Japanese offerings, encouraging repeat trips for those hunting
+  for reliable eats nearby. If you're on the hunt for Japanese restaurants near
+  me, this place generally hits the spot with its hearty dishes, though it's
+  always good to go in with realistic expectations for a balanced experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   valetParking: false
 payment_options:
@@ -310,7 +343,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

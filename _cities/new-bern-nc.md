@@ -5,4 +5,5 @@ permalink: /north-carolina/new-bern/
 stateAbbr: NC
 stateName: North Carolina
 cityName: New Bern
+
 ---

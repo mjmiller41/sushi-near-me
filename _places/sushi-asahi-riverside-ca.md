@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Asahi"
+title: Sushi Asahi
 permalink: /california/riverside/sushi-asahi.html
 stateAbbr: CA
 stateName: California
 cityName: Riverside
 seo:
-  name: "Sushi Asahi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi Asahi serves delicious sushi in Riverside, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJEzBIYbyw3IAR-rk1OALrLXU
 photos:
   - name: >-
@@ -185,7 +183,49 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Explore Sushi Asahi in Riverside, California$$$Sushi Asahi in Riverside,
+  California, stands out as a welcoming Japanese eatery specializing in fresh
+  sushi options that cater to a variety of tastes. This casual spot features an
+  all-you-can-eat menu packed with creative rolls and other traditional dishes,
+  making it a go-to choice for anyone searching for top sushi restaurants in the
+  area. With accessibility features like wheelchair-friendly parking and
+  entrances, it's designed to accommodate all guests comfortably, enhancing the
+  overall dining experience. The vibrant photos shared by visitors highlight the
+  appealing presentation of their offerings, from classic favorites to
+  innovative combinations that appeal to sushi enthusiasts. Whether you're
+  looking for sushi places near me or simply craving a relaxed meal, Sushi Asahi
+  delivers a satisfying blend of quality and value in a laid-back atmosphere.
+generative_summary: >-
+  Explore Sushi Asahi in Riverside, California$$$Sushi Asahi in Riverside,
+  California, stands out as a welcoming Japanese eatery specializing in fresh
+  sushi options that cater to a variety of tastes. This casual spot features an
+  all-you-can-eat menu packed with creative rolls and other traditional dishes,
+  making it a go-to choice for anyone searching for top sushi restaurants in the
+  area. With accessibility features like wheelchair-friendly parking and
+  entrances, it's designed to accommodate all guests comfortably, enhancing the
+  overall dining experience. The vibrant photos shared by visitors highlight the
+  appealing presentation of their offerings, from classic favorites to
+  innovative combinations that appeal to sushi enthusiasts. Whether you're
+  looking for sushi places near me or simply craving a relaxed meal, Sushi Asahi
+  delivers a satisfying blend of quality and value in a laid-back atmosphere.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Visitor Feedback$$$Folks who stop by Sushi Asahi often rave
+  about the generous all-you-can-eat deals and the fresh, flavorful sushi
+  selections that keep things exciting for groups and families alike. Many
+  appreciate the straightforward vibe and how it makes for a solid spot to
+  unwind after a long day, with comments highlighting the variety that goes
+  beyond just rolls to include other Japanese favorites. While some mention the
+  service as reliably friendly and efficient, others note that the portions and
+  pricing offer great bang for your buck, especially for those exploring sushi
+  restaurants close to home. Overall, it's clear that this place holds up as a
+  dependable choice for casual diners, with positive vibes dominating the
+  conversations around its approachable style and tasty options. If you're on
+  the hunt for best sushi near me, the feedback suggests it's worth checking out
+  for a straightforward and enjoyable meal.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +251,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

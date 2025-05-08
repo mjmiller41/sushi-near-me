@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi On Post Oak"
+title: Sushi On Post Oak
 permalink: /texas/houston/sushi-on-post-oak.html
 stateAbbr: TX
 stateName: Texas
 cityName: Houston
 seo:
-  name: "Sushi On Post Oak"
-  type: Restaurant
+  type: restaurant
   links: https://sopohouston.com/
-description: "Sushi On Post Oak serves delicious sushi in Houston, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJe5qsjvfBQIYR-XEHm31kAvs
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8640c1f78eac9a7b:0xfb02647d9b0771f9!10e5
 primary_type: Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 23
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 23
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 23
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 23
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 0
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 0
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 10:00 PM'
     - 'Tuesday: 11:00 AM – 11:00 PM'
     - 'Wednesday: 11:00 AM – 11:00 PM'
@@ -178,54 +234,450 @@ opening_hours:
     - 'Friday: 11:00 AM – 12:00 AM'
     - 'Saturday: 12:00 PM – 12:00 AM'
     - 'Sunday: 12:00 – 11:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 10:00 PM'
-    - 'Tuesday: 11:00 AM – 11:00 PM'
-    - 'Wednesday: 11:00 AM – 11:00 PM'
-    - 'Thursday: 11:00 AM – 11:00 PM'
-    - 'Friday: 11:00 AM – 12:00 AM'
-    - 'Saturday: 12:00 PM – 12:00 AM'
-    - 'Sunday: 12:00 – 11:00 PM'
+  nextCloseTime: '2025-05-04T05:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 14
+          minute: 0
+        close:
+          day: 0
+          hour: 18
+          minute: 0
+      - open:
+          day: 0
+          hour: 22
+          minute: 0
+        close:
+          day: 0
+          hour: 23
+          minute: 0
+      - open:
+          day: 1
+          hour: 14
+          minute: 0
+        close:
+          day: 1
+          hour: 18
+          minute: 0
+      - open:
+          day: 2
+          hour: 14
+          minute: 0
+        close:
+          day: 2
+          hour: 18
+          minute: 0
+      - open:
+          day: 2
+          hour: 22
+          minute: 0
+        close:
+          day: 2
+          hour: 23
+          minute: 0
+      - open:
+          day: 3
+          hour: 14
+          minute: 0
+        close:
+          day: 3
+          hour: 18
+          minute: 0
+      - open:
+          day: 3
+          hour: 22
+          minute: 0
+        close:
+          day: 3
+          hour: 23
+          minute: 0
+      - open:
+          day: 4
+          hour: 14
+          minute: 0
+        close:
+          day: 4
+          hour: 18
+          minute: 0
+      - open:
+          day: 4
+          hour: 22
+          minute: 0
+        close:
+          day: 4
+          hour: 23
+          minute: 0
+      - open:
+          day: 5
+          hour: 14
+          minute: 0
+        close:
+          day: 5
+          hour: 18
+          minute: 0
+      - open:
+          day: 5
+          hour: 22
+          minute: 0
+        close:
+          day: 6
+          hour: 0
+          minute: 0
+      - open:
+          day: 6
+          hour: 14
+          minute: 0
+        close:
+          day: 6
+          hour: 18
+          minute: 0
+      - open:
+          day: 6
+          hour: 22
+          minute: 0
+        close:
+          day: 0
+          hour: 0
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 2:00 – 6:00 PM'
+      - 'Tuesday: 2:00 – 6:00 PM, 10:00 – 11:00 PM'
+      - 'Wednesday: 2:00 – 6:00 PM, 10:00 – 11:00 PM'
+      - 'Thursday: 2:00 – 6:00 PM, 10:00 – 11:00 PM'
+      - 'Friday: 2:00 – 6:00 PM, 10:00 PM – 12:00 AM'
+      - 'Saturday: 2:00 – 6:00 PM, 10:00 PM – 12:00 AM'
+      - 'Sunday: 2:00 – 6:00 PM, 10:00 – 11:00 PM'
+    secondaryHoursType: HAPPY_HOUR
+    nextCloseTime: '2025-05-03T23:00:00Z'
 phone: (346) 319-2183
 price_level: PRICE_LEVEL_MODERATE
 price_range: $30 &ndash; $50
 rating: '4.7'
-rating_count: 0
+rating_count: 699
 website: https://sopohouston.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Sushi On Post Oak in Houston, TX$$$Sushi On Post Oak in Houston, TX,
+  stands out as a welcoming spot for enjoying fresh Japanese cuisine amidst the
+  vibrant Post Oak shopping area. This sushi restaurant delights with an array
+  of flavorful rolls, miso soup, and classic plates, all served in a relaxed
+  setting that encourages casual dining. Accessibility features like
+  wheelchair-friendly entrances and parking make it easy for everyone to savor
+  the experience, while extended hours cater to both lunch crowds and evening
+  outings. With options for outdoor seating and a menu that includes vegetarian
+  choices, it's a go-to destination for those seeking quality sushi restaurants
+  in the area, blending affordability with a laid-back vibe that keeps locals
+  coming back.
+generative_summary: >-
+  Discover Sushi On Post Oak in Houston, TX$$$Sushi On Post Oak in Houston, TX,
+  stands out as a welcoming spot for enjoying fresh Japanese cuisine amidst the
+  vibrant Post Oak shopping area. This sushi restaurant delights with an array
+  of flavorful rolls, miso soup, and classic plates, all served in a relaxed
+  setting that encourages casual dining. Accessibility features like
+  wheelchair-friendly entrances and parking make it easy for everyone to savor
+  the experience, while extended hours cater to both lunch crowds and evening
+  outings. With options for outdoor seating and a menu that includes vegetarian
+  choices, it's a go-to destination for those seeking quality sushi restaurants
+  in the area, blending affordability with a laid-back vibe that keeps locals
+  coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJe5qsjvfBQIYR-XEHm31kAvs/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3NU8yTEh3EAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        SOPO was perfect for a prom dinner! The place was perfect for pictures
+        and the workers were very attentive and patient with us. The food was
+        absolutely delicious! We tried the Choo Choo roll and the Lickity Split
+        roll, all had fresh fish and rice. Their crème brûlée was also very
+        decadent and creamy! Overall an amazing experience. Would recommend for
+        anyone wanting a higher end sushi restaurant with great food and vibes!
+      languageCode: en
+    originalText:
+      text: >-
+        SOPO was perfect for a prom dinner! The place was perfect for pictures
+        and the workers were very attentive and patient with us. The food was
+        absolutely delicious! We tried the Choo Choo roll and the Lickity Split
+        roll, all had fresh fish and rice. Their crème brûlée was also very
+        decadent and creamy! Overall an amazing experience. Would recommend for
+        anyone wanting a higher end sushi restaurant with great food and vibes!
+      languageCode: en
+    authorAttribution:
+      displayName: Daphne
+      uri: https://www.google.com/maps/contrib/109340736918585678979/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXsw1x_LtqkIvVMMXmhkWOXak-xODEqWzo9vE_b5Dc5BcvY9UV8=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-23T18:27:33.713836Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUR3NU8yTEh3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUR3NU8yTEh3EAE!2m1!1s0x8640c1f78eac9a7b:0xfb02647d9b0771f9
+  - name: >-
+      places/ChIJe5qsjvfBQIYR-XEHm31kAvs/reviews/ChZDSUhNMG9nS0VJQ0FnTUNvd2VLRWJnEAE
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        Delicious sushi and drinks. I went around 7pm on a Wednesday and sat at
+        the bar. It seems to fill up pretty nicely, so I’d recommend having a
+        reservation. Parking was not bad and everyone inside was super friendly.
+        I want to try out their happy hour, so I will def be back! Prices are
+        GREAT. I have been quite a few sushi spots in the last few weeks and
+        this was my smallest bill and I ordered about 6-8 pieces of nigiri, a
+        drink and the blue crab fried rice. I want to try the bento boxes.
+      languageCode: en
+    originalText:
+      text: >-
+        Delicious sushi and drinks. I went around 7pm on a Wednesday and sat at
+        the bar. It seems to fill up pretty nicely, so I’d recommend having a
+        reservation. Parking was not bad and everyone inside was super friendly.
+        I want to try out their happy hour, so I will def be back! Prices are
+        GREAT. I have been quite a few sushi spots in the last few weeks and
+        this was my smallest bill and I ordered about 6-8 pieces of nigiri, a
+        drink and the blue crab fried rice. I want to try the bento boxes.
+      languageCode: en
+    authorAttribution:
+      displayName: Riah H.
+      uri: https://www.google.com/maps/contrib/115845819274540198178/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjU8zDXxmaZdHqZ44Vo7Loy8uLIe8hn7FRDNEEiNX-GfLJFe5eux=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-17T13:41:59.056713Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNvd2VLRWJnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNvd2VLRWJnEAE!2m1!1s0x8640c1f78eac9a7b:0xfb02647d9b0771f9
+  - name: >-
+      places/ChIJe5qsjvfBQIYR-XEHm31kAvs/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRbk1td2RnEAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        Coming in hot with a rave review:
+
+        I swear—I will NEVER get tired of the Kanpai Roll at Sushi on Post Oak!
+
+
+        📍 Sushi on Post Oak, Houston, TX | @sopohouston
+
+
+        Sushi on Post Oak saved our date night last night with excellent
+        service, delicious food, and a dedication to ensuring a safe gluten-free
+        dining experience.
+
+
+        ✨ My favorite roll there (maybe even all-time) is the Kanpai Roll
+        (gluten-free), which comes with spicy yellowtail, cucumber, and avocado
+        inside, topped with amberjack, yuzu kosho, and candied jalapeño. I
+        honestly think I could happily eat that every day with the sushi ginger
+        for the rest of my life.
+
+
+        🍣 My partner ordered one of his favorites, the Surf and Turf roll,
+        which comes with lobster katsu, avocado, topped with Kobe beef, green
+        onion, and a side of basil ponzu and black pepper sauce (disclaimer:
+        this roll is NOT gluten-free).
+
+
+        As always, we had an excellent experience at SOPO!
+
+
+        However, for context: SOPO was our second stop for dinner last night
+        because at a different sushi restaurant we went to beforehand, I was
+        unfortunately glutened on the first bite of a cucumber salad that was on
+        their supposedly “gluten-free menu.” The salad itself wasn’t just
+        cross-contaminated—it was actually made with gluten-containing
+        ingredients. So, we left immediately after that incident.
+
+
+        Even at gluten “friendly” restaurants, I still have anxiety when eating
+        out because of how easily mistakes can be made. I’m still feeling sick
+        almost 24 hours after my initial exposure at the other restaurant.
+
+
+        💛 This is why I’m so thankful for restaurants like SOPO, who go above
+        and beyond to accommodate dietary needs and ensure a safe dining
+        experience. Thanks again for an amazing night—I can’t wait to visit
+        again soon!
+
+
+        ➡️ For more gluten-free restaurant reviews, safe dining tips, and my top
+        gluten-free finds, follow me at @glutenfreewitheoe! 💬 Drop a comment if
+        you’ve been to SOPO or tag a friend who needs to try it!
+      languageCode: en
+    originalText:
+      text: >-
+        Coming in hot with a rave review:
+
+        I swear—I will NEVER get tired of the Kanpai Roll at Sushi on Post Oak!
+
+
+        📍 Sushi on Post Oak, Houston, TX | @sopohouston
+
+
+        Sushi on Post Oak saved our date night last night with excellent
+        service, delicious food, and a dedication to ensuring a safe gluten-free
+        dining experience.
+
+
+        ✨ My favorite roll there (maybe even all-time) is the Kanpai Roll
+        (gluten-free), which comes with spicy yellowtail, cucumber, and avocado
+        inside, topped with amberjack, yuzu kosho, and candied jalapeño. I
+        honestly think I could happily eat that every day with the sushi ginger
+        for the rest of my life.
+
+
+        🍣 My partner ordered one of his favorites, the Surf and Turf roll,
+        which comes with lobster katsu, avocado, topped with Kobe beef, green
+        onion, and a side of basil ponzu and black pepper sauce (disclaimer:
+        this roll is NOT gluten-free).
+
+
+        As always, we had an excellent experience at SOPO!
+
+
+        However, for context: SOPO was our second stop for dinner last night
+        because at a different sushi restaurant we went to beforehand, I was
+        unfortunately glutened on the first bite of a cucumber salad that was on
+        their supposedly “gluten-free menu.” The salad itself wasn’t just
+        cross-contaminated—it was actually made with gluten-containing
+        ingredients. So, we left immediately after that incident.
+
+
+        Even at gluten “friendly” restaurants, I still have anxiety when eating
+        out because of how easily mistakes can be made. I’m still feeling sick
+        almost 24 hours after my initial exposure at the other restaurant.
+
+
+        💛 This is why I’m so thankful for restaurants like SOPO, who go above
+        and beyond to accommodate dietary needs and ensure a safe dining
+        experience. Thanks again for an amazing night—I can’t wait to visit
+        again soon!
+
+
+        ➡️ For more gluten-free restaurant reviews, safe dining tips, and my top
+        gluten-free finds, follow me at @glutenfreewitheoe! 💬 Drop a comment if
+        you’ve been to SOPO or tag a friend who needs to try it!
+      languageCode: en
+    authorAttribution:
+      displayName: Jenna
+      uri: https://www.google.com/maps/contrib/118171225796543990609/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjU5O1Gn3vER6EUGJl_yvdxAIMLzcQG5Qs8qMeOvAMEomDt2aGgR-A=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-03-02T20:27:13.323442Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNRbk1td2RnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNRbk1td2RnEAE!2m1!1s0x8640c1f78eac9a7b:0xfb02647d9b0771f9
+  - name: >-
+      places/ChIJe5qsjvfBQIYR-XEHm31kAvs/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3NU8tOEZBEAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Our experience at SOPO was great! The sushi was top tier. We ordered the
+        SOPO roll and the chocho roll. Both were delicious and the sushi rice
+        was especially good. For dessert I ordered the creme brulee with berries
+        and it had the perfect amount of sweetness. Julie and Mandy were very
+        attentive and Mandy gave great recommendations. Overall we will
+        definitely be back!
+      languageCode: en
+    originalText:
+      text: >-
+        Our experience at SOPO was great! The sushi was top tier. We ordered the
+        SOPO roll and the chocho roll. Both were delicious and the sushi rice
+        was especially good. For dessert I ordered the creme brulee with berries
+        and it had the perfect amount of sweetness. Julie and Mandy were very
+        attentive and Mandy gave great recommendations. Overall we will
+        definitely be back!
+      languageCode: en
+    authorAttribution:
+      displayName: Yovi Oktofianus
+      uri: https://www.google.com/maps/contrib/109070737143334024894/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVFMDkGa2pbMS32MFkKbjEVpPz6IXKbGxnK024kWrlmK43hypCC=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-03-23T18:50:19.387467Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUR3NU8tOEZBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUR3NU8tOEZBEAE!2m1!1s0x8640c1f78eac9a7b:0xfb02647d9b0771f9
+  - name: >-
+      places/ChIJe5qsjvfBQIYR-XEHm31kAvs/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3NVBXcTRRRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        We had a great time there. Thumbs up for Jullie and Mandy who were there
+        to attend to us
+
+        Food was great too. We'll come back soon to try other food here.
+        Recommended place to eat sushi.
+      languageCode: en
+    originalText:
+      text: >-
+        We had a great time there. Thumbs up for Jullie and Mandy who were there
+        to attend to us
+
+        Food was great too. We'll come back soon to try other food here.
+        Recommended place to eat sushi.
+      languageCode: en
+    authorAttribution:
+      displayName: Miss Efi
+      uri: https://www.google.com/maps/contrib/102677470884149084627/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUgzbhlZo3U4pEIlXyVpk9_6tXxCIf3ktMQlk2gsz-lJy7mawuTgA=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-23T18:23:42.729961Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUR3NVBXcTRRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUR3NVBXcTRRRRAB!2m1!1s0x8640c1f78eac9a7b:0xfb02647d9b0771f9
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this Houston sushi spot often rave
+  about the fresh and creative rolls that make every meal feel special,
+  highlighting how the ingredients bring out bold flavors without overwhelming
+  the palate. Many appreciate the friendly service and attentive staff that help
+  create a welcoming atmosphere, making it ideal for groups or casual dates.
+  Folks mention great value for the price, with affordable options during happy
+  hour that add to the appeal for anyone hunting for top-rated sushi nearby.
+  Overall, the clean and elegant ambiance paired with solid portions leaves
+  diners satisfied and eager to return, offering a reliably enjoyable experience
+  for Japanese food enthusiasts.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: true
+live_music: false
+menu_for_children: true
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
+serves_coffee: true
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

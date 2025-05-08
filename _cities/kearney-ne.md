@@ -5,4 +5,5 @@ permalink: /nebraska/kearney/
 stateAbbr: NE
 stateName: Nebraska
 cityName: Kearney
+
 ---

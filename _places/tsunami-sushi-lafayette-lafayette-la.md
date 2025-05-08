@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Tsunami Sushi Lafayette"
+title: Tsunami Sushi Lafayette
 permalink: /louisiana/lafayette/tsunami-sushi-lafayette.html
 stateAbbr: LA
 stateName: Louisiana
 cityName: Lafayette
 seo:
-  name: "Tsunami Sushi Lafayette"
-  type: Restaurant
-  links: null
-description: "Tsunami Sushi Lafayette serves delicious sushi in Lafayette, Louisiana. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://lafayette.servingsushi.com/
 place_id: ChIJ-R_gMYWcJIYRJQX8WqCY--g
 photos:
   - name: >-
@@ -170,8 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x86249c8531e01ff9:0xe8fb98a05afc0525!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: Closed'
+    - 'Tuesday: 11:00 AM – 10:00 PM'
+    - 'Wednesday: 11:00 AM – 10:00 PM'
+    - 'Thursday: 11:00 AM – 10:00 PM'
+    - 'Friday: 11:00 AM – 11:00 PM'
+    - 'Saturday: 12:00 – 11:00 PM'
+    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +226,55 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
+phone: (337) 234-3474
+price_level: PRICE_LEVEL_EXPENSIVE
 price_range: null
-rating: null
-rating_count: 0
-website: null
+rating: '4.6'
+rating_count: 738
+website: https://lafayette.servingsushi.com/
+description: >-
+  Explore Tsunami Sushi in Lafayette, LA$$$Nestled in the heart of Lafayette,
+  LA, Tsunami Sushi stands out as a premier Japanese restaurant offering fresh
+  and flavorful sushi options that capture the essence of authentic Asian
+  dining. The venue boasts a welcoming atmosphere with modern decor and
+  accessibility features like wheelchair-friendly entrances and seating, making
+  it an inclusive spot for all visitors. Diners can enjoy a variety of creative
+  rolls and traditional dishes prepared with high-quality ingredients, perfect
+  for those seeking top-rated sushi experiences in the area. Its location in
+  Downtown Lafayette adds to the appeal, providing a convenient escape for
+  locals and travelers alike looking for Japanese places near me. With extended
+  hours on weekends, it's an ideal choice for casual meals or special occasions
+  centered around delicious, expertly crafted cuisine.
+generative_summary: >-
+  Explore Tsunami Sushi in Lafayette, LA$$$Nestled in the heart of Lafayette,
+  LA, Tsunami Sushi stands out as a premier Japanese restaurant offering fresh
+  and flavorful sushi options that capture the essence of authentic Asian
+  dining. The venue boasts a welcoming atmosphere with modern decor and
+  accessibility features like wheelchair-friendly entrances and seating, making
+  it an inclusive spot for all visitors. Diners can enjoy a variety of creative
+  rolls and traditional dishes prepared with high-quality ingredients, perfect
+  for those seeking top-rated sushi experiences in the area. Its location in
+  Downtown Lafayette adds to the appeal, providing a convenient escape for
+  locals and travelers alike looking for Japanese places near me. With extended
+  hours on weekends, it's an ideal choice for casual meals or special occasions
+  centered around delicious, expertly crafted cuisine.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Visitor Feedback Highlights$$$Visitors often praise the fresh and inventive
+  sushi selections at this Lafayette favorite, noting how the flavors
+  consistently hit the mark for a satisfying meal. Many appreciate the attentive
+  service and cozy vibe that make it a reliable go-to for casual dinners or
+  group outings, with comments frequently highlighting the generous portions and
+  variety of options. While some mention occasional waits during peak times, the
+  overall consensus leans positive, emphasizing the restaurant's ability to
+  deliver on taste and quality that keeps people coming back for more. It's
+  commonly described as a solid pick for anyone searching for sushi restaurants
+  near me, with folks enjoying the balance of traditional and creative dishes
+  that feel both authentic and exciting. Overall, the high ratings reflect a
+  welcoming spot that's worth trying for its dependable flavors and welcoming
+  environment, encouraging a repeat visit for sushi enthusiasts.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +300,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

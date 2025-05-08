@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Salt Society"
+title: Salt Society
 permalink: /massachusetts/scituate/salt-society.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Scituate
 seo:
-  name: "Salt Society"
-  type: Restaurant
+  type: restaurant
   links: http://saltsocietyma.com/
-description: "Salt Society serves delicious sushi in Scituate, Massachusetts. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJDyH87Ixf44kR_-GrRGxWfHA
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $30 &ndash; $50
 rating: '4.6'
 rating_count: 0
 website: http://saltsocietyma.com/
+description: >-
+  Experience Salt Society in Scituate, MA$$$Salt Society in Scituate, MA, stands
+  out as a casual dining spot that artfully combines modern and rustic elements
+  in its design, creating a welcoming atmosphere for enjoying fresh seafood and
+  innovative dishes. The menu highlights a variety of options including
+  succulent steak and expertly crafted sushi, making it a go-to choice for those
+  exploring sushi restaurants in the area. With thoughtful accessibility
+  features like wheelchair-friendly entrances and parking, it caters to a wide
+  range of visitors seeking a comfortable meal. Outdoor seating adds to the
+  charm, perfect for relaxed gatherings, while the selection of creative
+  cocktails and non-alcoholic drinks enhances the overall experience. This local
+  favorite in Scituate offers a blend of quality ingredients and inviting vibes,
+  ideal for anyone looking for top-rated sushi options nearby.
+generative_summary: >-
+  Experience Salt Society in Scituate, MA$$$Salt Society in Scituate, MA, stands
+  out as a casual dining spot that artfully combines modern and rustic elements
+  in its design, creating a welcoming atmosphere for enjoying fresh seafood and
+  innovative dishes. The menu highlights a variety of options including
+  succulent steak and expertly crafted sushi, making it a go-to choice for those
+  exploring sushi restaurants in the area. With thoughtful accessibility
+  features like wheelchair-friendly entrances and parking, it caters to a wide
+  range of visitors seeking a comfortable meal. Outdoor seating adds to the
+  charm, perfect for relaxed gatherings, while the selection of creative
+  cocktails and non-alcoholic drinks enhances the overall experience. This local
+  favorite in Scituate offers a blend of quality ingredients and inviting vibes,
+  ideal for anyone looking for top-rated sushi options nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJDyH87Ixf44kR_-GrRGxWfHA/reviews/ChdDSUhNMG9nS0VJQ0FnTURnajRlNHNnRRAB
@@ -368,6 +393,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNxLUw3a01BEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNxLUw3a01BEAE!2m1!1s0x89e35f8cecfc210f:0x707c566c44abe1ff
+review_summary: >-
+  Highlights from Visitor Feedback$$$Visitors often rave about the fantastic
+  food at this spot, with standout mentions of fresh sushi rolls, tasty tacos,
+  and flavorful appetizers that keep things exciting and delicious. Folks
+  appreciate the attentive service and how the staff goes the extra mile to
+  accommodate special needs, like dietary restrictions, ensuring everyone feels
+  taken care of without any fuss. The atmosphere gets high marks for being cozy
+  and lively, with a creative drink menu that adds a fun twist to the meal.
+  Overall, it's praised as a great place for groups or casual outings, though
+  some note it's on the pricier side, it's worth it for the quality. If you're
+  hunting for reliable sushi places near you, this location seems to hit the
+  mark with its consistent positives and welcoming vibe.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -399,7 +437,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

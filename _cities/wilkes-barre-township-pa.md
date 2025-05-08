@@ -5,4 +5,5 @@ permalink: /pennsylvania/wilkes-barre-township/
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Wilkes-Barre Township
+
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Wen"
+title: Sushi Wen
 permalink: /new-york/staten-island/sushi-wen.html
 stateAbbr: NY
 stateName: New York
 cityName: Staten Island
 seo:
-  name: "Sushi Wen"
-  type: Restaurant
+  type: restaurant
   links: http://www.sushiwenny.com/
-description: "Sushi Wen serves delicious sushi in Staten Island, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJc7n80ghPwokRLdflrYWY0m0
 photos:
   - name: >-
@@ -184,6 +182,29 @@ price_range: $20 &ndash; $30
 rating: '4.8'
 rating_count: 0
 website: http://www.sushiwenny.com/
+description: >-
+  Discover Sushi Wen in Staten Island, NY$$$Sushi Wen in Staten Island, NY,
+  stands out as a cozy destination for savoring authentic Japanese flavors,
+  featuring fresh seafood and creative rolls in a relaxed environment. This spot
+  excels with its commitment to quality ingredients and a menu that highlights
+  traditional dishes alongside modern twists, making it a favorite among those
+  seeking sushi restaurants nearby. The laid-back atmosphere invites diners to
+  unwind while enjoying well-prepared meals, complemented by thoughtful
+  accessibility features that ensure a comfortable visit for everyone. With
+  options like beer and wine, it's an ideal choice for casual evenings or quick
+  lunches, appealing to anyone exploring top-rated sushi options in the area.
+generative_summary: >-
+  Discover Sushi Wen in Staten Island, NY$$$Sushi Wen in Staten Island, NY,
+  stands out as a cozy destination for savoring authentic Japanese flavors,
+  featuring fresh seafood and creative rolls in a relaxed environment. This spot
+  excels with its commitment to quality ingredients and a menu that highlights
+  traditional dishes alongside modern twists, making it a favorite among those
+  seeking sushi restaurants nearby. The laid-back atmosphere invites diners to
+  unwind while enjoying well-prepared meals, complemented by thoughtful
+  accessibility features that ensure a comfortable visit for everyone. With
+  options like beer and wine, it's an ideal choice for casual evenings or quick
+  lunches, appealing to anyone exploring top-rated sushi options in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJc7n80ghPwokRLdflrYWY0m0/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJNGFYMkF3EAE
@@ -369,6 +390,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURabjVIT3FnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURabjVIT3FnRRAB!2m1!1s0x89c24f08d2fcb973:0x6dd29885ade5d72d
+review_summary: >-
+  What Customers Are Saying About This Local Sushi Spot$$$Folks who visit this
+  sushi place often highlight the incredibly fresh flavors and generous portions
+  that make every meal feel satisfying and worthwhile. Many appreciate the
+  speedy service and welcoming vibe, which turns a simple dinner into a pleasant
+  experience without any fuss. While most feedback praises the affordable prices
+  and peaceful setting, a few note that some dishes could use a bit less
+  seasoning to let the natural tastes shine through. Overall, it's clear that
+  this spot delivers solid value for sushi enthusiasts looking for reliable
+  options close by, with repeat visits encouraged by the friendly staff and
+  tasty variety. If you're on the hunt for great sushi near you, this location
+  seems to hit the mark for a laid-back and enjoyable outing.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeStreetParking: true
   paidStreetParking: true
@@ -401,7 +435,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

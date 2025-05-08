@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sweet Tuna Halcyon"
+title: Sweet Tuna Halcyon
 permalink: /georgia/alpharetta/sweet-tuna-halcyon.html
 stateAbbr: GA
 stateName: Georgia
 cityName: Alpharetta
 seo:
-  name: "Sweet Tuna Halcyon"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sweet Tuna Halcyon serves delicious sushi in Alpharetta, Georgia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJZRE-ILyd9YgRw1rVXhqrRus
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $10 &ndash; $20
 rating: '4.2'
 rating_count: 0
 website: null
+description: >-
+  Discover Sweet Tuna Halcyon in Alpharetta, GA$$$Sweet Tuna Halcyon in
+  Alpharetta, GA, offers a relaxed spot for enjoying fresh, healthy poke bowls
+  and quick bites perfect for lunch or dinner. This casual eatery focuses on
+  flavorful, nutritious options that highlight quality ingredients, making it a
+  great choice for those seeking light, satisfying meals in a welcoming
+  environment. With features like wheelchair-accessible seating and free
+  parking, it's designed for easy visits, appealing to anyone looking for
+  convenient dining options. The menu emphasizes fast-paced service and variety,
+  ideal for those exploring Japanese-inspired dishes without the formality. If
+  you're in the mood for top-rated poke near Alpharetta, this spot delivers a
+  simple yet enjoyable experience that balances health and taste.
+generative_summary: >-
+  Discover Sweet Tuna Halcyon in Alpharetta, GA$$$Sweet Tuna Halcyon in
+  Alpharetta, GA, offers a relaxed spot for enjoying fresh, healthy poke bowls
+  and quick bites perfect for lunch or dinner. This casual eatery focuses on
+  flavorful, nutritious options that highlight quality ingredients, making it a
+  great choice for those seeking light, satisfying meals in a welcoming
+  environment. With features like wheelchair-accessible seating and free
+  parking, it's designed for easy visits, appealing to anyone looking for
+  convenient dining options. The menu emphasizes fast-paced service and variety,
+  ideal for those exploring Japanese-inspired dishes without the formality. If
+  you're in the mood for top-rated poke near Alpharetta, this spot delivers a
+  simple yet enjoyable experience that balances health and taste.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJZRE-ILyd9YgRw1rVXhqrRus/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ3NXNubmZ3EAE
@@ -346,6 +369,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUR3NEk2dXdBRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUR3NEk2dXdBRRAB!2m1!1s0x88f59dbc203e1165:0xeb46ab1a5ed55ac3
+review_summary: >-
+  What Customers Are Saying About This Spot$$$Folks rave about the tasty poke
+  bowls at this Alpharetta favorite, especially the spicy tuna option, which
+  stands out for its fresh flavors and great value. Many appreciate the friendly
+  staff and unique menu items that add a fun twist to everyday meals, making it
+  a solid pick for a quick bite. While some mention that portions could be a bit
+  more generous, the overall vibe keeps things positive with highlights on
+  freshness and variety that keep diners coming back. It's a go-to for anyone
+  hunting for sushi-style eats nearby, offering a mix of hits that make it worth
+  trying despite minor feedback. All in all, this place delivers a reliably
+  enjoyable experience that balances the good with honest notes for improvement.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -377,7 +412,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -5,4 +5,5 @@ permalink: /north-carolina/huntersville/
 stateAbbr: NC
 stateName: North Carolina
 cityName: Huntersville
+
 ---

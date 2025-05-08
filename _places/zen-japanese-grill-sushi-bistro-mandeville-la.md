@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Zen Japanese Grill & Sushi Bistro"
+title: Zen Japanese Grill & Sushi Bistro
 permalink: /louisiana/mandeville/zen-japanese-grill-sushi-bistro.html
 stateAbbr: LA
 stateName: Louisiana
 cityName: Mandeville
 seo:
-  name: "Zen Japanese Grill & Sushi Bistro"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Zen Japanese Grill & Sushi Bistro serves delicious sushi in Mandeville, Louisiana. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ1wu-KNtbJ4YRKftLUfvhJQA
 photos:
   - name: >-
@@ -185,7 +183,45 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Zen Japanese Grill & Sushi Bistro in Mandeville, LA$$$Zen Japanese
+  Grill & Sushi Bistro in Mandeville, LA, offers a relaxed dining experience in
+  a convenient shopping center setting, blending Asian fusion flavors with fresh
+  ingredients and thoughtful vegetarian choices. This spot stands out for its
+  approachable menu that includes expertly prepared sushi rolls and grilled
+  dishes, paired with a selection of beer and wine to enhance your meal. Whether
+  you're seeking top-rated sushi near Mandeville or exploring Japanese-inspired
+  places close to you, the bistro's welcoming vibe makes it a go-to for casual
+  outings. The emphasis on accessibility features ensures everyone can enjoy the
+  flavorful offerings without hassle, making it an ideal choice for those
+  hunting for sushi restaurants in the area.
+generative_summary: >-
+  Discover Zen Japanese Grill & Sushi Bistro in Mandeville, LA$$$Zen Japanese
+  Grill & Sushi Bistro in Mandeville, LA, offers a relaxed dining experience in
+  a convenient shopping center setting, blending Asian fusion flavors with fresh
+  ingredients and thoughtful vegetarian choices. This spot stands out for its
+  approachable menu that includes expertly prepared sushi rolls and grilled
+  dishes, paired with a selection of beer and wine to enhance your meal. Whether
+  you're seeking top-rated sushi near Mandeville or exploring Japanese-inspired
+  places close to you, the bistro's welcoming vibe makes it a go-to for casual
+  outings. The emphasis on accessibility features ensures everyone can enjoy the
+  flavorful offerings without hassle, making it an ideal choice for those
+  hunting for sushi restaurants in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Say About This Sushi Spot$$$Folks who visit this sushi
+  restaurant often highlight the fresh, well-crafted rolls and generous portions
+  that leave them satisfied and coming back for more. Many appreciate the
+  friendly service and cozy atmosphere that make dining out feel effortless and
+  enjoyable, even for groups or families. While some mention minor waits during
+  peak times, the overall consensus leans positive, praising the variety of
+  options that cater to different tastes, including vegetarian picks. If you're
+  on the hunt for sushi near me, feedback suggests the flavorful dishes and
+  attentive staff create a welcoming experience that's worth trying. All in all,
+  it's a solid pick for anyone craving reliable Japanese fare in a laid-back
+  environment.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +247,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

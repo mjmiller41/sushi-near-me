@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "ATO SUSHI Korean & Japanese Cuisine"
+title: ATO SUSHI Korean & Japanese Cuisine
 permalink: /michigan/grand-rapids/ato-sushi-korean-japanese-cuisine.html
 stateAbbr: MI
 stateName: Michigan
 cityName: Grand Rapids
 seo:
-  name: "ATO SUSHI Korean & Japanese Cuisine"
-  type: Restaurant
+  type: restaurant
   links: https://www.atosushigr.com/
-description: "Compact cafe mixing classic Korean & Japanese fare including BBQ, noodles, sushi & bento boxes. ATO SUSHI Korean & Japanese Cuisine serves delicious sushi in Grand Rapids, Michigan. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ___veMWtGYgR2hdjnPXd58g
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $20 &ndash; $30
 rating: '4.7'
 rating_count: 0
 website: https://www.atosushigr.com/
+description: >-
+  Discover ATO Sushi in Grand Rapids, MI$$$Nestled in the heart of Grand Rapids,
+  MI, ATO Sushi Korean & Japanese Cuisine offers a welcoming spot for enjoying
+  fresh Japanese sushi and Korean-inspired dishes in a relaxed environment. This
+  compact eatery specializes in flavorful rolls, rice bowls, and bento options,
+  blending traditional flavors with a comfortable ambiance that makes it ideal
+  for casual meals or quick bites. With accessibility features like
+  wheelchair-friendly entrances and seating, it's designed to accommodate a
+  variety of diners seeking authentic Asian cuisine. The menu highlights
+  high-quality ingredients in favorites such as sushi rolls and noodle dishes,
+  making it a go-to choice for those exploring top-rated sushi restaurants in
+  the area.
+generative_summary: >-
+  Discover ATO Sushi in Grand Rapids, MI$$$Nestled in the heart of Grand Rapids,
+  MI, ATO Sushi Korean & Japanese Cuisine offers a welcoming spot for enjoying
+  fresh Japanese sushi and Korean-inspired dishes in a relaxed environment. This
+  compact eatery specializes in flavorful rolls, rice bowls, and bento options,
+  blending traditional flavors with a comfortable ambiance that makes it ideal
+  for casual meals or quick bites. With accessibility features like
+  wheelchair-friendly entrances and seating, it's designed to accommodate a
+  variety of diners seeking authentic Asian cuisine. The menu highlights
+  high-quality ingredients in favorites such as sushi rolls and noodle dishes,
+  making it a go-to choice for those exploring top-rated sushi restaurants in
+  the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ___veMWtGYgR2hdjnPXd58g/reviews/ChZDSUhNMG9nS0VJQ0FnSUNQNUx2RUt3EAE
@@ -382,6 +405,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURfa3VTQTdnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURfa3VTQTdnRRAB!2m1!1s0x8819adc578efffff:0xc8e7ddf59c6317da
+review_summary: >-
+  What Customers Love About ATO Sushi$$$Visitors often rave about the delicious
+  sushi and other dishes at this spot, praising the fresh flavors and variety
+  that keep things exciting for sushi enthusiasts. Many highlight the friendly
+  service and cozy atmosphere, which create a welcoming vibe perfect for casual
+  outings or groups looking for a laid-back meal. Feedback frequently mentions
+  tasty options like rice bowls and fried rice alongside the standout rolls,
+  with diners appreciating the reasonable prices and overall value. While some
+  note the small space, it's generally seen as charming and efficient,
+  encouraging repeat visits for those searching for reliable Japanese places
+  nearby. Overall, the positive experiences shared suggest it's a solid pick for
+  anyone craving great sushi in a hassle-free setting.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidParkingLot: true
   paidStreetParking: true
@@ -415,8 +451,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Compact cafe mixing classic Korean & Japanese fare including BBQ, noodles,
   sushi & bento boxes.
 

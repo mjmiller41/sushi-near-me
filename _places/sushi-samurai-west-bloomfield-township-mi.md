@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Samurai"
+title: Sushi Samurai
 permalink: /michigan/west-bloomfield-township/sushi-samurai.html
 stateAbbr: MI
 stateName: Michigan
 cityName: West Bloomfield Township
 seo:
-  name: "Sushi Samurai"
-  type: Restaurant
-  links: null
-description: "Sushi Samurai serves delicious sushi in West Bloomfield Township, Michigan. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://mysushisamurai.com/
 place_id: ChIJ48yKFpS7JIgRQOTxqDxV_W4
 photos:
   - name: >-
@@ -170,8 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8824bb94168acce3:0x6efd553ca8f1e440!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 2
+        hour: 12
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 12
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 12
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 12
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: Closed'
+    - 'Tuesday: 12:00 – 10:00 PM'
+    - 'Wednesday: 12:00 – 10:00 PM'
+    - 'Thursday: 12:00 – 10:00 PM'
+    - 'Friday: 12:00 – 10:00 PM'
+    - 'Saturday: 12:00 – 10:00 PM'
+    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +226,54 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (248) 737-4408
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.4'
+rating_count: 372
+website: https://mysushisamurai.com/
+description: >-
+  Discover Sushi Samurai in West Bloomfield Township, MI$$$Sushi Samurai in West
+  Bloomfield Township, MI, stands out as a casual destination for enjoying
+  authentic Japanese flavors in a welcoming environment. This spot specializes
+  in fresh sushi rolls and teriyaki dishes, complemented by a selection of
+  beverages like beer and sake, making it ideal for a relaxed meal with friends
+  or family. With accessibility features such as wheelchair-friendly parking and
+  entrances, it's designed to accommodate everyone seeking top-rated Japanese
+  cuisine nearby. The restaurant operates from Tuesday through Saturday,
+  offering ample opportunities for locals and visitors alike to savor these
+  specialties without the hassle. Whether you're exploring sushi restaurants in
+  the area or looking for a go-to place for Japanese fare close to home, Sushi
+  Samurai delivers a memorable dining experience with its focus on quality and
+  simplicity.
+generative_summary: >-
+  Discover Sushi Samurai in West Bloomfield Township, MI$$$Sushi Samurai in West
+  Bloomfield Township, MI, stands out as a casual destination for enjoying
+  authentic Japanese flavors in a welcoming environment. This spot specializes
+  in fresh sushi rolls and teriyaki dishes, complemented by a selection of
+  beverages like beer and sake, making it ideal for a relaxed meal with friends
+  or family. With accessibility features such as wheelchair-friendly parking and
+  entrances, it's designed to accommodate everyone seeking top-rated Japanese
+  cuisine nearby. The restaurant operates from Tuesday through Saturday,
+  offering ample opportunities for locals and visitors alike to savor these
+  specialties without the hassle. Whether you're exploring sushi restaurants in
+  the area or looking for a go-to place for Japanese fare close to home, Sushi
+  Samurai delivers a memorable dining experience with its focus on quality and
+  simplicity.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About Sushi Samurai$$$Folks generally enjoy the
+  fresh and flavorful sushi options here, often highlighting the variety of
+  rolls and how they hit the spot for anyone craving Japanese dishes nearby.
+  Many appreciate the friendly service and cozy atmosphere that make it a solid
+  choice for casual outings or quick bites. While some mention occasional waits
+  during peak times, the overall vibe and tasty selections keep diners coming
+  back for more. It's frequently praised as a reliable spot for groups or solo
+  visits, with the moderate pricing adding to its appeal. If you're on the hunt
+  for the best sushi around, this place tends to deliver a satisfying experience
+  that leaves customers eager to return.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +299,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

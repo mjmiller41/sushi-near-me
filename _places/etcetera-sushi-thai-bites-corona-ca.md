@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "ETCetera Sushi & Thai Bites"
+title: ETCetera Sushi & Thai Bites
 permalink: /california/corona/etcetera-sushi-thai-bites.html
 stateAbbr: CA
 stateName: California
 cityName: Corona
 seo:
-  name: "ETCetera Sushi & Thai Bites"
-  type: Restaurant
+  type: restaurant
   links: http://etcsushi.com/
-description: "ETCetera Sushi & Thai Bites serves delicious sushi in Corona, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJm6Wt0h7H3IAR8RBARn7bamo
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80dcc71ed2ada59b:0x6a6adb7e464010f1!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 12
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 12
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 12
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 12
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 12:00 – 9:00 PM'
     - 'Wednesday: 12:00 – 9:00 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 12:00 – 10:00 PM'
     - 'Saturday: 12:00 – 10:00 PM'
     - 'Sunday: 12:00 – 9:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 12:00 – 9:00 PM'
-    - 'Wednesday: 12:00 – 9:00 PM'
-    - 'Thursday: 12:00 – 10:00 PM'
-    - 'Friday: 12:00 – 10:00 PM'
-    - 'Saturday: 12:00 – 10:00 PM'
-    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T05:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +238,247 @@ phone: (951) 268-6181
 price_level: null
 price_range: null
 rating: '4.5'
-rating_count: 0
+rating_count: 143
 website: http://etcsushi.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover ETCetera Sushi & Thai Bites in Corona, CA$$$ETCetera Sushi & Thai
+  Bites in Corona, CA, stands out as a vibrant spot for enjoying eclectic Thai
+  dishes and specialty sushi rolls in a welcoming environment. This sushi
+  restaurant combines fresh ingredients with creative flavors, offering a cozy
+  atmosphere perfect for casual meals or intimate gatherings. Patrons can savor
+  a variety of expertly crafted rolls and bites, complemented by a selection of
+  cocktails that enhance the dining experience. The venue prioritizes
+  accessibility and comfort, making it an ideal choice for those seeking
+  top-rated sushi options nearby. With its focus on quality and variety, it's a
+  go-to destination for anyone exploring Japanese-inspired places in the area.
+generative_summary: >-
+  Discover ETCetera Sushi & Thai Bites in Corona, CA$$$ETCetera Sushi & Thai
+  Bites in Corona, CA, stands out as a vibrant spot for enjoying eclectic Thai
+  dishes and specialty sushi rolls in a welcoming environment. This sushi
+  restaurant combines fresh ingredients with creative flavors, offering a cozy
+  atmosphere perfect for casual meals or intimate gatherings. Patrons can savor
+  a variety of expertly crafted rolls and bites, complemented by a selection of
+  cocktails that enhance the dining experience. The venue prioritizes
+  accessibility and comfort, making it an ideal choice for those seeking
+  top-rated sushi options nearby. With its focus on quality and variety, it's a
+  go-to destination for anyone exploring Japanese-inspired places in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJm6Wt0h7H3IAR8RBARn7bamo/reviews/ChZDSUhNMG9nS0VJQ0FnTURvZ18ydUdnEAE
+    relativePublishTimeDescription: in the last week
+    rating: 5
+    text:
+      text: >-
+        The food is delicious. I love both Japanese and Thai food here.
+        Especially, the lamd and the sunset rolls I think. The lobster and
+        avocado with their sauce roll. The drinks also great. Services were so
+        great, the food came out not quite fast because the restaurant was a bit
+        busy. The atmosphere was excellent but some tables in the restaurant
+        quite dark to me. But everything else was good
+      languageCode: en
+    originalText:
+      text: >-
+        The food is delicious. I love both Japanese and Thai food here.
+        Especially, the lamd and the sunset rolls I think. The lobster and
+        avocado with their sauce roll. The drinks also great. Services were so
+        great, the food came out not quite fast because the restaurant was a bit
+        busy. The atmosphere was excellent but some tables in the restaurant
+        quite dark to me. But everything else was good
+      languageCode: en
+    authorAttribution:
+      displayName: Ha My Nguyen
+      uri: https://www.google.com/maps/contrib/109395113293918494013/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXxBTpE2iclXaJIfmitjIpFw7FI3YdN4dkC9Qg_CsZCtXEJAoql=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-28T05:44:25.074674Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURvZ18ydUdnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURvZ18ydUdnEAE!2m1!1s0x80dcc71ed2ada59b:0x6a6adb7e464010f1
+  - name: >-
+      places/ChIJm6Wt0h7H3IAR8RBARn7bamo/reviews/ChdDSUhNMG9nS0VJQ0FnSUNYNDkyeHVnRRAB
+    relativePublishTimeDescription: 6 months ago
+    rating: 5
+    text:
+      text: >-
+        It's always a good time when we come, love that it is busy and has great
+        atmosphere,  food is top notch, very fresh and well prepared,  great
+        customer service and the drinks are so good, totally recommend trying
+        them out, it's that good.
+      languageCode: en
+    originalText:
+      text: >-
+        It's always a good time when we come, love that it is busy and has great
+        atmosphere,  food is top notch, very fresh and well prepared,  great
+        customer service and the drinks are so good, totally recommend trying
+        them out, it's that good.
+      languageCode: en
+    authorAttribution:
+      displayName: steven n courtney
+      uri: https://www.google.com/maps/contrib/100959021374787354532/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVtntGGCtUa_8o_SzWoJ3NOKnUbCooO4eMd1lBu1E9I_KfCXSb7=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-10-20T04:04:30.249494Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNYNDkyeHVnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNYNDkyeHVnRRAB!2m1!1s0x80dcc71ed2ada59b:0x6a6adb7e464010f1
+  - name: >-
+      places/ChIJm6Wt0h7H3IAR8RBARn7bamo/reviews/ChZDSUhNMG9nS0VJQ0FnTURvdmFtS2VBEAE
+    relativePublishTimeDescription: in the last week
+    rating: 5
+    text:
+      text: >-
+        Amazing crew at etc sushi, excellent service from our server Taylor and
+        amazing quality of fish. Head chef Isaac prepared some of the best rolls
+        of sushi we’ve had anywhere in the area. Recommend to anyone looking for
+        high quality service, atmosphere and food 10/10
+      languageCode: en
+    originalText:
+      text: >-
+        Amazing crew at etc sushi, excellent service from our server Taylor and
+        amazing quality of fish. Head chef Isaac prepared some of the best rolls
+        of sushi we’ve had anywhere in the area. Recommend to anyone looking for
+        high quality service, atmosphere and food 10/10
+      languageCode: en
+    authorAttribution:
+      displayName: ANDREW ANCONA
+      uri: https://www.google.com/maps/contrib/102940077949562262956/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUyn1sry3EZyO9sdbWRN1dcIvYNd_8mjPw7cyFq12U_Slc7A2iy=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-28T01:20:01.041426Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURvdmFtS2VBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURvdmFtS2VBEAE!2m1!1s0x80dcc71ed2ada59b:0x6a6adb7e464010f1
+  - name: >-
+      places/ChIJm6Wt0h7H3IAR8RBARn7bamo/reviews/ChRDSUhNMG9nS0VJQ0FnSUQzNnFoSxAB
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        Amazing dine in experience the Food is awesome delicious fresh and top
+        quality. For sure I will be back for other menu items.
+      languageCode: en
+    originalText:
+      text: >-
+        Amazing dine in experience the Food is awesome delicious fresh and top
+        quality. For sure I will be back for other menu items.
+      languageCode: en
+    authorAttribution:
+      displayName: James Luei
+      uri: https://www.google.com/maps/contrib/111233179485637375658/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIJxgyzPsA2nmjaCr4-P94VxqJ-VioZpG4QAuz4nsnffxc_YQ=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-11-14T05:41:31.814747Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChRDSUhNMG9nS0VJQ0FnSUQzNnFoSxAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChRDSUhNMG9nS0VJQ0FnSUQzNnFoSxAB!2m1!1s0x80dcc71ed2ada59b:0x6a6adb7e464010f1
+  - name: >-
+      places/ChIJm6Wt0h7H3IAR8RBARn7bamo/reviews/ChZDSUhNMG9nS0VJQ0FnSUM5bEpLemZ3EAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        My fiancé and I came here to celebrate Valentine's Day (weeks after the
+        14th, of course, because we're not crazy enough to go out ON Valentine's
+        Day! 😂). We were able to be seated right away on a Saturday Evening,
+        but the building was far from empty, this was absolutely the place to be
+        and we're so glad we got in!
+
+        Jun was our server. He did a great job making recommendations, was very
+        friendly and easy to talk to, and our water glasses were never empty.
+
+        We had the lamb, cocktails, and several sushi rolls I forgot to take
+        photos of because they were SO delicious! I had the El Norco and it was
+        FIRE in every way - flavor, presentation, and spiciness.
+
+
+        I would definitely recommend the lychee martini and the cactus flower
+        for drinks!
+
+
+        This is definitely going to become a new date spot for us!
+      languageCode: en
+    originalText:
+      text: >-
+        My fiancé and I came here to celebrate Valentine's Day (weeks after the
+        14th, of course, because we're not crazy enough to go out ON Valentine's
+        Day! 😂). We were able to be seated right away on a Saturday Evening,
+        but the building was far from empty, this was absolutely the place to be
+        and we're so glad we got in!
+
+        Jun was our server. He did a great job making recommendations, was very
+        friendly and easy to talk to, and our water glasses were never empty.
+
+        We had the lamb, cocktails, and several sushi rolls I forgot to take
+        photos of because they were SO delicious! I had the El Norco and it was
+        FIRE in every way - flavor, presentation, and spiciness.
+
+
+        I would definitely recommend the lychee martini and the cactus flower
+        for drinks!
+
+
+        This is definitely going to become a new date spot for us!
+      languageCode: en
+    authorAttribution:
+      displayName: Angela B.
+      uri: https://www.google.com/maps/contrib/102162628652640117258/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWsCcwwqvb3gHrkAqYwaJwnhUAoubo9_9AFwe522qXmo4HSB6f7hA=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-03-02T16:40:21.867977Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUM5bEpLemZ3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUM5bEpLemZ3EAE!2m1!1s0x80dcc71ed2ada59b:0x6a6adb7e464010f1
+review_summary: >-
+  What Customers Are Saying About This Spot$$$Folks seem to really enjoy the
+  fresh and flavorful sushi and Thai offerings here, often praising the
+  high-quality ingredients and creative presentations that make every bite
+  memorable. Many highlight the friendly service and lively vibe, which add to
+  the overall fun and relaxed dining experience, even when things get a bit
+  busy. Drinks like cocktails come up as a favorite, adding an extra layer of
+  enjoyment to meals and making it a solid pick for casual outings. While some
+  mention minor spots like lighting, the general consensus leans positive, with
+  diners appreciating the value and recommending it for anyone hunting for great
+  sushi close to home. Overall, it's clear this place delivers a satisfying
+  experience that keeps people coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
+curbside_pickup: false
+delivery: false
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
 reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

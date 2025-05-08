@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Tamon Sushi"
+title: Tamon Sushi
 permalink: /california/los-angeles/tamon-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Los Angeles
 seo:
-  name: "Tamon Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://group.bishamon-ten.com/tamon
-description: "Tamon Sushi serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJN4KVwkfGwoARiQrEIwQLKeQ
 photos:
   - name: >-
@@ -143,7 +141,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDg0pbF4AE!2e10!4m2!3m1!1s0x80c2c647c2958237:0xe4290b0423c40a89
 address: Miyako Hotel 2F, 328 1st St, Los Angeles, CA 90012, USA
-street: Miyako Hotel 2F, 328 1st St
+street: Miyako Hotel 2F,328 1st St
 city: Los Angeles
 state: CA
 zip: '90012'
@@ -170,7 +168,177 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c2c647c2958237:0xe4290b0423c40a89!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 6
+        minute: 30
+      close:
+        day: 0
+        hour: 9
+        minute: 30
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 14
+        minute: 30
+    - open:
+        day: 0
+        hour: 17
+        minute: 30
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 6
+        minute: 30
+      close:
+        day: 1
+        hour: 9
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 17
+        minute: 30
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 6
+        minute: 30
+      close:
+        day: 2
+        hour: 9
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 17
+        minute: 30
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 6
+        minute: 30
+      close:
+        day: 3
+        hour: 9
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 17
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 6
+        minute: 30
+      close:
+        day: 4
+        hour: 9
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 6
+        minute: 30
+      close:
+        day: 5
+        hour: 9
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 17
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 6
+        minute: 30
+      close:
+        day: 6
+        hour: 9
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 14
+        minute: 30
+    - open:
+        day: 6
+        hour: 17
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 6:30 – 9:30 AM, 11:30 AM – 2:30 PM, 5:30 – 10:00 PM'
     - 'Tuesday: 6:30 – 9:30 AM, 11:30 AM – 2:30 PM, 5:30 – 10:00 PM'
     - 'Wednesday: 6:30 – 9:30 AM, 11:30 AM – 2:30 PM, 5:30 – 10:00 PM'
@@ -178,54 +346,430 @@ opening_hours:
     - 'Friday: 6:30 – 9:30 AM, 11:30 AM – 2:30 PM, 5:30 – 10:00 PM'
     - 'Saturday: 6:30 – 9:30 AM, 11:30 AM – 2:30 PM, 5:30 – 10:00 PM'
     - 'Sunday: 6:30 – 9:30 AM, 11:30 AM – 2:30 PM, 5:30 – 10:00 PM'
-  current:
-    - 'Monday: 6:30 – 9:30 AM, 11:30 AM – 2:30 PM, 5:30 – 10:00 PM'
-    - 'Tuesday: 6:30 – 9:30 AM, 11:30 AM – 2:30 PM, 5:30 – 10:00 PM'
-    - 'Wednesday: 6:30 – 9:30 AM, 11:30 AM – 2:30 PM, 5:30 – 10:00 PM'
-    - 'Thursday: 6:30 – 9:30 AM, 11:30 AM – 2:30 PM, 5:30 – 10:00 PM'
-    - 'Friday: 6:30 – 9:30 AM, 11:30 AM – 2:30 PM, 5:30 – 10:00 PM'
-    - 'Saturday: 6:30 – 9:30 AM, 11:30 AM – 2:30 PM, 5:30 – 10:00 PM'
-    - 'Sunday: 6:30 – 9:30 AM, 11:30 AM – 2:30 PM, 5:30 – 10:00 PM'
+  nextOpenTime: '2025-05-04T00:30:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: false
+    periods:
+      - open:
+          day: 0
+          hour: 17
+          minute: 30
+        close:
+          day: 0
+          hour: 19
+          minute: 30
+      - open:
+          day: 1
+          hour: 17
+          minute: 30
+        close:
+          day: 1
+          hour: 19
+          minute: 30
+      - open:
+          day: 2
+          hour: 17
+          minute: 30
+        close:
+          day: 2
+          hour: 19
+          minute: 30
+      - open:
+          day: 4
+          hour: 17
+          minute: 30
+        close:
+          day: 4
+          hour: 19
+          minute: 30
+      - open:
+          day: 5
+          hour: 17
+          minute: 30
+        close:
+          day: 5
+          hour: 19
+          minute: 30
+      - open:
+          day: 6
+          hour: 17
+          minute: 30
+        close:
+          day: 6
+          hour: 19
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 5:30 – 7:30 PM'
+      - 'Tuesday: 5:30 – 7:30 PM'
+      - 'Wednesday: Closed'
+      - 'Thursday: 5:30 – 7:30 PM'
+      - 'Friday: 5:30 – 7:30 PM'
+      - 'Saturday: 5:30 – 7:30 PM'
+      - 'Sunday: 5:30 – 7:30 PM'
+    secondaryHoursType: HAPPY_HOUR
+    nextOpenTime: '2025-05-04T00:30:00Z'
+  - openNow: false
+    periods:
+      - open:
+          day: 0
+          hour: 6
+          minute: 30
+        close:
+          day: 0
+          hour: 9
+          minute: 30
+      - open:
+          day: 1
+          hour: 6
+          minute: 30
+        close:
+          day: 1
+          hour: 9
+          minute: 30
+      - open:
+          day: 2
+          hour: 6
+          minute: 30
+        close:
+          day: 2
+          hour: 9
+          minute: 30
+      - open:
+          day: 3
+          hour: 6
+          minute: 30
+        close:
+          day: 3
+          hour: 9
+          minute: 30
+      - open:
+          day: 4
+          hour: 6
+          minute: 30
+        close:
+          day: 4
+          hour: 9
+          minute: 30
+      - open:
+          day: 5
+          hour: 6
+          minute: 30
+        close:
+          day: 5
+          hour: 9
+          minute: 30
+      - open:
+          day: 6
+          hour: 6
+          minute: 30
+        close:
+          day: 6
+          hour: 9
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 6:30 – 9:30 AM'
+      - 'Tuesday: 6:30 – 9:30 AM'
+      - 'Wednesday: 6:30 – 9:30 AM'
+      - 'Thursday: 6:30 – 9:30 AM'
+      - 'Friday: 6:30 – 9:30 AM'
+      - 'Saturday: 6:30 – 9:30 AM'
+      - 'Sunday: 6:30 – 9:30 AM'
+    secondaryHoursType: BREAKFAST
+    nextOpenTime: '2025-05-04T13:30:00Z'
 phone: (213) 617-7839
 price_level: PRICE_LEVEL_MODERATE
 price_range: $50 &ndash; $100
 rating: '4.5'
-rating_count: 0
+rating_count: 67
 website: https://group.bishamon-ten.com/tamon
-reviews: null
+description: >-
+  About Tamon Sushi in Los Angeles, CA$$$Tamon Sushi in Los Angeles, CA, is a
+  casual Japanese restaurant located within the Miyako Hotel, offering a blend
+  of fresh sushi and flavorful cooked dishes that capture authentic tastes.
+  Patrons can savor a variety of options including sake, wine, and beer, making
+  it an ideal spot for those seeking sushi spots in the bustling downtown area.
+  The venue stands out with its welcoming atmosphere and accessibility features,
+  ensuring a comfortable dining experience for everyone. Additionally, it serves
+  as a great choice for breakfast, lunch, or dinner, with options that cater to
+  groups and include vegetarian selections for a well-rounded meal.
+generative_summary: >-
+  About Tamon Sushi in Los Angeles, CA$$$Tamon Sushi in Los Angeles, CA, is a
+  casual Japanese restaurant located within the Miyako Hotel, offering a blend
+  of fresh sushi and flavorful cooked dishes that capture authentic tastes.
+  Patrons can savor a variety of options including sake, wine, and beer, making
+  it an ideal spot for those seeking sushi spots in the bustling downtown area.
+  The venue stands out with its welcoming atmosphere and accessibility features,
+  ensuring a comfortable dining experience for everyone. Additionally, it serves
+  as a great choice for breakfast, lunch, or dinner, with options that cater to
+  groups and include vegetarian selections for a well-rounded meal.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJN4KVwkfGwoARiQrEIwQLKeQ/reviews/ChdDSUhNMG9nS0VJQ0FnSURQOXFxOG5BRRAB
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        I had my birthday dinner at this restaurant and it was a great
+        experience.
+
+        I got the Tamon Sashimi plate  and it was the perfect portion with very
+        fresh fish.
+
+        Everyone in my party enjoyed their meal thoroughly both fish and nonfish
+        dishes were excellent.
+
+
+        The staff were very friendly and accommodating with the birthday cake we
+        had brought, providing us candles and sang me happy birthday.  I would
+        come again.
+      languageCode: en
+    originalText:
+      text: >-
+        I had my birthday dinner at this restaurant and it was a great
+        experience.
+
+        I got the Tamon Sashimi plate  and it was the perfect portion with very
+        fresh fish.
+
+        Everyone in my party enjoyed their meal thoroughly both fish and nonfish
+        dishes were excellent.
+
+
+        The staff were very friendly and accommodating with the birthday cake we
+        had brought, providing us candles and sang me happy birthday.  I would
+        come again.
+      languageCode: en
+    authorAttribution:
+      displayName: matthew miyata
+      uri: https://www.google.com/maps/contrib/105841351209343175918/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXFqjO25bLpNhCeoD7kGtIw9V_M_UOesDHQbq8oFnu4IyHGtAOm=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-12-02T05:14:50.788070Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURQOXFxOG5BRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURQOXFxOG5BRRAB!2m1!1s0x80c2c647c2958237:0xe4290b0423c40a89
+  - name: >-
+      places/ChIJN4KVwkfGwoARiQrEIwQLKeQ/reviews/ChdDSUhNMG9nS0VJQ0FnSUM1MFpyTzNBRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 2
+    text:
+      text: >-
+        We came here for lunch on a Monday (Oct 9, 2023) as most of the
+        highly-rated sushi spots are closed on Mondays in Little Tokyo. The
+        dining room was empty except for one other table. This place is located
+        inside a hotel on the second floor. The sushi is definitely fresh but
+        the preparation style wasn’t a fit for us. The salmon sashimi and nigiri
+        (and a few other types of fish) are presented with the chewy skin still
+        on which leaves an undesirable texture. While it does look artsy (and
+        allows the restaurant to serve fish parts that most others would trim
+        away), it wasn’t palette friendly for us. We also tried the wagyu sushi
+        which the server verified for us was Japanese A5 wagyu but it didn’t hit
+        the mark. I’m not sure what was going on as it did not have the baseline
+        umami that A5 has and tasted like American wagyu. Miso soup came with my
+        entree and the soup was brought out after my entree was out for a bit.
+        The staff was kind but seemed like a new crew. $100+ for a subpar LA
+        sushi experience. There are much better places in LA.
+      languageCode: en
+    originalText:
+      text: >-
+        We came here for lunch on a Monday (Oct 9, 2023) as most of the
+        highly-rated sushi spots are closed on Mondays in Little Tokyo. The
+        dining room was empty except for one other table. This place is located
+        inside a hotel on the second floor. The sushi is definitely fresh but
+        the preparation style wasn’t a fit for us. The salmon sashimi and nigiri
+        (and a few other types of fish) are presented with the chewy skin still
+        on which leaves an undesirable texture. While it does look artsy (and
+        allows the restaurant to serve fish parts that most others would trim
+        away), it wasn’t palette friendly for us. We also tried the wagyu sushi
+        which the server verified for us was Japanese A5 wagyu but it didn’t hit
+        the mark. I’m not sure what was going on as it did not have the baseline
+        umami that A5 has and tasted like American wagyu. Miso soup came with my
+        entree and the soup was brought out after my entree was out for a bit.
+        The staff was kind but seemed like a new crew. $100+ for a subpar LA
+        sushi experience. There are much better places in LA.
+      languageCode: en
+    authorAttribution:
+      displayName: T T
+      uri: https://www.google.com/maps/contrib/108295203257461732191/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUTREiyRblMqJGfrFceKuMgrcD2RuqRz0cpdGnaFS9NieWJguho=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2023-10-14T22:59:29.231458Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUM1MFpyTzNBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUM1MFpyTzNBRRAB!2m1!1s0x80c2c647c2958237:0xe4290b0423c40a89
+  - name: >-
+      places/ChIJN4KVwkfGwoARiQrEIwQLKeQ/reviews/ChZDSUhNMG9nS0VJQ0FnSUNaNU11MURnEAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        We found this gem of a restaurant hidden on the second floor of the
+        Miyako hotel. It's one of the best kept secrets in LA! Delicious and
+        authentic Japanese food. Fresh and tasty seafood! Try the Chirashi!
+      languageCode: en
+    originalText:
+      text: >-
+        We found this gem of a restaurant hidden on the second floor of the
+        Miyako hotel. It's one of the best kept secrets in LA! Delicious and
+        authentic Japanese food. Fresh and tasty seafood! Try the Chirashi!
+      languageCode: en
+    authorAttribution:
+      displayName: Chris Shaul
+      uri: https://www.google.com/maps/contrib/102350690618105679934/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWkxFdmN2LIn-gcDfwTW2RxLTAilsEfAWFV-eulymIzhLgI3jyNLQ=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2023-09-04T19:30:45.000593Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNaNU11MURnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNaNU11MURnEAE!2m1!1s0x80c2c647c2958237:0xe4290b0423c40a89
+  - name: >-
+      places/ChIJN4KVwkfGwoARiQrEIwQLKeQ/reviews/ChdDSUhNMG9nS0VJQ0FnSURwMjVXLXV3RRAB
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        Tamon Sushi is an underrated gem, located on the second floor of the
+        Miyako Hotel. Japanese hospitality with Japanese-speaking servers,
+        serving authentic Washoku.
+
+
+        I’ve stayed loyal to Tamon throughout the years, including when they
+        downsized their menu to only sushi, and am glad that they are back in
+        full force now.
+
+
+        Definitely try their Fatty Fish nigiri set ($20), which features select
+        chu-toro, yellowtail, and salmon at 2 pieces each, or their Senior Bento
+        ($25) which features grilled fish, simmered veggies, mixed tempura, rice
+        and miso soup.
+
+
+        LOVE their happy hour, which features reduced sake, shochu, and beer
+        options to pair with their fabulous food offerings. Happy hour runs from
+        5:30-7:30pm, and simply rocks. Closed Sundays and Wednesdays.
+
+
+        Excellent views over Historical 1st Street, calm ambiance with plenty of
+        choices to suit any taste. This place consistently earns their 5 stars.
+      languageCode: en
+    originalText:
+      text: >-
+        Tamon Sushi is an underrated gem, located on the second floor of the
+        Miyako Hotel. Japanese hospitality with Japanese-speaking servers,
+        serving authentic Washoku.
+
+
+        I’ve stayed loyal to Tamon throughout the years, including when they
+        downsized their menu to only sushi, and am glad that they are back in
+        full force now.
+
+
+        Definitely try their Fatty Fish nigiri set ($20), which features select
+        chu-toro, yellowtail, and salmon at 2 pieces each, or their Senior Bento
+        ($25) which features grilled fish, simmered veggies, mixed tempura, rice
+        and miso soup.
+
+
+        LOVE their happy hour, which features reduced sake, shochu, and beer
+        options to pair with their fabulous food offerings. Happy hour runs from
+        5:30-7:30pm, and simply rocks. Closed Sundays and Wednesdays.
+
+
+        Excellent views over Historical 1st Street, calm ambiance with plenty of
+        choices to suit any taste. This place consistently earns their 5 stars.
+      languageCode: en
+    authorAttribution:
+      displayName: Anish Thakkar (Doc Thakkar)
+      uri: https://www.google.com/maps/contrib/100632513839405797964/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWnjcbzJ3aFKJ9D42lH6XhWs1v7P9juCvcllloTyKNR4nfoBgz8=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2023-09-12T22:25:25.380060Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURwMjVXLXV3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURwMjVXLXV3RRAB!2m1!1s0x80c2c647c2958237:0xe4290b0423c40a89
+  - name: >-
+      places/ChIJN4KVwkfGwoARiQrEIwQLKeQ/reviews/ChZDSUhNMG9nS0VJQ0FnTUNnMXNuV1h3EAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 2
+    text:
+      text: >-
+        Poor Customer Service
+
+        We were the only table there for lunch on 2/16/25, we ordered chirashi
+        box, Tamon bento box and senior bento, no soy sauce for sashimi, no
+        tentsuyu for tempura, what kind of Japanese cusine is that?
+
+        I asked for a cup of hot water, she gave me cold water.
+      languageCode: en
+    originalText:
+      text: >-
+        Poor Customer Service
+
+        We were the only table there for lunch on 2/16/25, we ordered chirashi
+        box, Tamon bento box and senior bento, no soy sauce for sashimi, no
+        tentsuyu for tempura, what kind of Japanese cusine is that?
+
+        I asked for a cup of hot water, she gave me cold water.
+      languageCode: en
+    authorAttribution:
+      displayName: Angie K
+      uri: https://www.google.com/maps/contrib/101690434481777636128/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWV7N1u7QfHz1k_x_QDfvw8TV4o8ViWgpLgMFyocNmVUjGTj3Vt=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-02-17T00:44:15.508838Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNnMXNuV1h3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNnMXNuV1h3EAE!2m1!1s0x80c2c647c2958237:0xe4290b0423c40a89
+review_summary: >-
+  What Customers Are Sharing About Tamon Sushi$$$Visitors often highlight the
+  fresh fish and authentic flavors that make meals here feel special, especially
+  for celebrations or casual get-togethers. While some appreciate the creative
+  preparations and happy hour deals that add value to the experience, a few note
+  that certain dishes might not align with everyone's preferences due to unique
+  styles. Overall, the friendly service and cozy ambiance earn plenty of praise,
+  creating enjoyable moments for those exploring top-rated sushi in the region.
+  Though occasional service details could use a tweak, the general vibe keeps
+  things positive and worth trying for anyone craving quality Japanese cuisine
+  nearby.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
-payment_options: null
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
+delivery: true
+dine_in: true
 good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: true
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: true
 serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_cocktails: true
+serves_coffee: true
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Modern restaurant in the Miyako Hotel serving creative Japanese cuisine, plus
+  a breakfast buffet.
 
 ---

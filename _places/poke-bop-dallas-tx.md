@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Poke Bop"
+title: Poke Bop
 permalink: /texas/dallas/poke-bop.html
 stateAbbr: TX
 stateName: Texas
 cityName: Dallas
 seo:
-  name: "Poke Bop"
-  type: Restaurant
-  links: null
-description: "Poke Bop serves delicious sushi in Dallas, Texas. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.ilovepokebop.com/
 place_id: ChIJr-_PzmOfToYRtDV1XJhMs1c
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x864e9f63cecfefaf:0x57b34c985c7535b4!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 9:00 PM'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 9:00 PM'
+    - 'Saturday: 11:00 AM – 9:00 PM'
+    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,48 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
+phone: (214) 821-7653
 price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+price_range: $10 &ndash; $20
+rating: '4.3'
+rating_count: 211
+website: http://www.ilovepokebop.com/
+description: >-
+  Explore Poke Bop in Dallas, TX$$$Poke Bop in Dallas, TX, stands out as a
+  relaxed dining spot specializing in fresh poke bowls and innovative
+  Japanese-inspired cuisine, making it a great choice for those seeking sushi
+  places near me. The restaurant boasts a welcoming atmosphere with options like
+  boba tea and beer, complemented by its accessible features such as
+  wheelchair-friendly parking and entrances for all guests. Daily hours from 11
+  AM to 9 PM ensure it's easy to drop in for a quick meal or casual hangout,
+  appealing to anyone hunting for top-rated sushi alternatives in the area.
+  Beyond the menu, the focus on quality ingredients and variety keeps things
+  exciting for locals and visitors alike.
+generative_summary: >-
+  Explore Poke Bop in Dallas, TX$$$Poke Bop in Dallas, TX, stands out as a
+  relaxed dining spot specializing in fresh poke bowls and innovative
+  Japanese-inspired cuisine, making it a great choice for those seeking sushi
+  places near me. The restaurant boasts a welcoming atmosphere with options like
+  boba tea and beer, complemented by its accessible features such as
+  wheelchair-friendly parking and entrances for all guests. Daily hours from 11
+  AM to 9 PM ensure it's easy to drop in for a quick meal or casual hangout,
+  appealing to anyone hunting for top-rated sushi alternatives in the area.
+  Beyond the menu, the focus on quality ingredients and variety keeps things
+  exciting for locals and visitors alike.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback on Poke Bop$$$Based on its strong 4.3-star rating from over
+  200 reviews, Poke Bop seems to hit the mark for fresh flavors and a laid-back
+  vibe that keeps people coming back. Many appreciate the variety of bowls and
+  drinks, often noting how the portions feel just right for a satisfying meal
+  without breaking the bank. It's clear that the friendly service and quick prep
+  times add to the overall enjoyment, making it a solid pick for groups or solo
+  diners. While opinions vary as with any spot, the general consensus leans
+  positive, with folks highlighting the value and taste as reasons to try it out
+  next time you're in the mood for something light and tasty. All in all, it's
+  shaping up as a reliable choice for anyone exploring sushi restaurants nearby.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +309,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Thai Bay & Sushi Restaurant"
+title: Thai Bay & Sushi Restaurant
 permalink: /florida/largo/thai-bay-sushi-restaurant.html
 stateAbbr: FL
 stateName: Florida
 cityName: Largo
 seo:
-  name: "Thai Bay & Sushi Restaurant"
-  type: Restaurant
+  type: restaurant
   links: http://www.thaibaysushi.com/
-description: "Homey find serving up Thai fare, sushi & other eats, plus booze, in a woody, traditional setting. Thai Bay & Sushi Restaurant serves delicious sushi in Largo, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJe4ddTIH6wogRoj_CefbKlcY
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 0
 website: http://www.thaibaysushi.com/
+description: >-
+  About Thai Bay & Sushi Restaurant in Largo, FL$$$Thai Bay & Sushi Restaurant
+  in Largo, FL, offers a welcoming atmosphere where traditional Thai flavors
+  meet fresh sushi creations, making it a go-to spot for those seeking authentic
+  Asian cuisine nearby. The menu features a delightful array of dishes with bold
+  tastes and generous portions, perfect for a casual meal or takeout option in
+  the area. Diners appreciate the cozy, woody setting that enhances the overall
+  experience, complemented by a selection of beverages to pair with their meals.
+  This establishment stands out for its commitment to quality ingredients and
+  efficient service, ideal for anyone exploring top-rated sushi and Thai options
+  in the region.
+generative_summary: >-
+  About Thai Bay & Sushi Restaurant in Largo, FL$$$Thai Bay & Sushi Restaurant
+  in Largo, FL, offers a welcoming atmosphere where traditional Thai flavors
+  meet fresh sushi creations, making it a go-to spot for those seeking authentic
+  Asian cuisine nearby. The menu features a delightful array of dishes with bold
+  tastes and generous portions, perfect for a casual meal or takeout option in
+  the area. Diners appreciate the cozy, woody setting that enhances the overall
+  experience, complemented by a selection of beverages to pair with their meals.
+  This establishment stands out for its commitment to quality ingredients and
+  efficient service, ideal for anyone exploring top-rated sushi and Thai options
+  in the region.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJe4ddTIH6wogRoj_CefbKlcY/reviews/ChdDSUhNMG9nS0VJQ0FnSURYaXYzRW1BRRAB
@@ -324,6 +345,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURRZ3VtVWx3RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURRZ3VtVWx3RRAB!2m1!1s0x88c2fa814c5d877b:0xc695caf679c23fa2
+review_summary: >-
+  What Guests Are Saying$$$Visitors to this spot often rave about the
+  outstanding food quality, with many highlighting the flavorful appetizers and
+  entrees that deliver a satisfying kick without overwhelming the palate. Folks
+  appreciate the quick and friendly service that keeps things running smoothly,
+  whether you're dining in or grabbing takeout for a convenient meal. There's a
+  general buzz about the generous portions and fun vibe, making it a solid
+  choice for anyone craving Thai-inspired dishes or fresh rolls close by.
+  Overall, the consistent praise for the taste and value suggests it's a
+  reliable favorite, though some note that the spice levels can pack more heat
+  than expected, adding an exciting twist to the experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   paidParkingLot: false
@@ -360,8 +393,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Homey find serving up Thai fare, sushi & other eats, plus booze, in a woody,
   traditional setting.
 

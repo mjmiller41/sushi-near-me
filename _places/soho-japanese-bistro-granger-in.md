@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Soho Japanese Bistro"
+title: Soho Japanese Bistro
 permalink: /indiana/granger/soho-japanese-bistro.html
 stateAbbr: IN
 stateName: Indiana
 cityName: Granger
 seo:
-  name: "Soho Japanese Bistro"
-  type: Restaurant
+  type: restaurant
   links: http://www.sohojapanesegranger.com/
-description: "Soho Japanese Bistro serves delicious sushi in Granger, Indiana. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJVxXLKBTTFogR8xdPIVEkQuM
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $30 &ndash; $50
 rating: '3.9'
 rating_count: 0
 website: http://www.sohojapanesegranger.com/
+description: >-
+  Discover Soho Japanese Bistro in Granger, IN$$$Soho Japanese Bistro in
+  Granger, IN, stands out as an elegant dining destination renowned for its
+  fresh sushi and interactive teppanyaki experiences, complemented by engaging
+  entertainment options. The restaurant boasts a welcoming atmosphere with
+  thoughtful accessibility features, making it easy for everyone to enjoy
+  authentic Japanese flavors and creative dishes. Patrons can savor a variety of
+  options, from expertly prepared rolls to hearty entrees, all served in a
+  setting that blends modern vibes with traditional elements. This spot is ideal
+  for those seeking top-rated sushi restaurants in the area, offering meals that
+  highlight quality ingredients and skillful preparation. Whether you're in the
+  mood for a casual lunch or a lively dinner, it provides a memorable experience
+  that captures the essence of Japanese cuisine.
+generative_summary: >-
+  Discover Soho Japanese Bistro in Granger, IN$$$Soho Japanese Bistro in
+  Granger, IN, stands out as an elegant dining destination renowned for its
+  fresh sushi and interactive teppanyaki experiences, complemented by engaging
+  entertainment options. The restaurant boasts a welcoming atmosphere with
+  thoughtful accessibility features, making it easy for everyone to enjoy
+  authentic Japanese flavors and creative dishes. Patrons can savor a variety of
+  options, from expertly prepared rolls to hearty entrees, all served in a
+  setting that blends modern vibes with traditional elements. This spot is ideal
+  for those seeking top-rated sushi restaurants in the area, offering meals that
+  highlight quality ingredients and skillful preparation. Whether you're in the
+  mood for a casual lunch or a lively dinner, it provides a memorable experience
+  that captures the essence of Japanese cuisine.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJVxXLKBTTFogR8xdPIVEkQuM/reviews/ChdDSUhNMG9nS0VJQ0FnTUNBOVozaWhBRRAB
@@ -366,6 +391,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNyZ2ZYTGVREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNyZ2ZYTGVREAE!2m1!1s0x8816d31428cb1557:0xe3422451214f17f3
+review_summary: >-
+  What Guests Are Saying About the Experience$$$Folks rave about the tasty sushi
+  and hibachi dishes at this spot, often highlighting the flavorful fried rice
+  and generous portions that make for a satisfying meal. Many appreciate the
+  friendly service and inviting vibe, which add to the overall fun and relaxed
+  atmosphere during visits. While some diners enjoy specific appetizers like
+  dumplings and soups, others note that a few items might not hit the mark for
+  every palate, keeping things real without overshadowing the positives.
+  Overall, it's a solid choice for families or groups looking for great Japanese
+  places nearby, with plenty of positive feedback on the variety that caters to
+  both meat lovers and vegetarians. If you're hunting for reliable sushi
+  restaurants in the region, this one delivers a generally enjoyable experience
+  that's worth checking out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -398,7 +437,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Taste of Asia Teays Valley"
+title: Taste of Asia Teays Valley
 permalink: /west-virginia/hurricane/taste-of-asia-teays-valley.html
 stateAbbr: WV
 stateName: West Virginia
 cityName: Hurricane
 seo:
-  name: "Taste of Asia Teays Valley"
-  type: Restaurant
-  links: null
-description: "Taste of Asia Teays Valley serves delicious sushi in Hurricane, West Virginia. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.tasteofasiateaysvalley.com/
 place_id: ChIJsbLFxR-0SIgR_dUgOqOHx_0
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8848b41fc5c5b2b1:0xfdc787a33a20d5fd!10e5
 primary_type: Asian Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 10
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 10
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 10
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 10
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 10
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 10
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 10:30 AM – 9:30 PM'
+    - 'Tuesday: 10:30 AM – 9:30 PM'
+    - 'Wednesday: 10:30 AM – 9:30 PM'
+    - 'Thursday: 10:30 AM – 9:30 PM'
+    - 'Friday: 10:30 AM – 10:30 PM'
+    - 'Saturday: 10:30 AM – 10:30 PM'
+    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,51 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (304) 760-6010
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.3'
+rating_count: 685
+website: http://www.tasteofasiateaysvalley.com/
+description: >-
+  Discover Taste of Asia in Hurricane, WV$$$Taste of Asia Teays Valley in
+  Hurricane, West Virginia, stands out as a welcoming spot for those seeking
+  flavorful Asian cuisine in a relaxed setting. This casual eatery features a
+  diverse menu blending Chinese and Japanese dishes, including fresh options
+  that appeal to sushi enthusiasts looking for quality nearby. With its full bar
+  and accessible features like wheelchair-friendly entrances and seating, it's
+  designed for comfortable dining experiences any day of the week. The
+  restaurant's extended hours make it easy to drop in for a satisfying lunch or
+  dinner, catering to both quick visits and leisurely meals. Overall, it's a
+  go-to choice for anyone exploring top-rated Asian flavors in the area,
+  offering a blend of tradition and convenience that keeps locals coming back.
+generative_summary: >-
+  Discover Taste of Asia in Hurricane, WV$$$Taste of Asia Teays Valley in
+  Hurricane, West Virginia, stands out as a welcoming spot for those seeking
+  flavorful Asian cuisine in a relaxed setting. This casual eatery features a
+  diverse menu blending Chinese and Japanese dishes, including fresh options
+  that appeal to sushi enthusiasts looking for quality nearby. With its full bar
+  and accessible features like wheelchair-friendly entrances and seating, it's
+  designed for comfortable dining experiences any day of the week. The
+  restaurant's extended hours make it easy to drop in for a satisfying lunch or
+  dinner, catering to both quick visits and leisurely meals. Overall, it's a
+  go-to choice for anyone exploring top-rated Asian flavors in the area,
+  offering a blend of tradition and convenience that keeps locals coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Folks who visit this spot often rave about the
+  tasty dishes and friendly vibe, making it a solid pick for anyone craving
+  reliable Asian eats nearby. Many highlight the fresh ingredients and
+  well-prepared meals, with plenty of nods to the Japanese selections that hit
+  the mark for variety and flavor. While some mention occasional waits during
+  busy times, the overall experience gets high marks for value and service that
+  feels welcoming without being over the top. It's clear from the feedback that
+  families and groups enjoy the atmosphere, turning it into a favorite for
+  casual outings or quick bites after a long day. In short, if you're on the
+  hunt for dependable sushi or other Asian favorites, this place delivers a
+  consistently positive experience that lives up to its strong reputation.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +312,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Asahi Sushi Bar & Restaurant"
+title: Asahi Sushi Bar & Restaurant
 permalink: /utah/orem/asahi-sushi-bar-restaurant.html
 stateAbbr: UT
 stateName: Utah
 cityName: Orem
 seo:
-  name: "Asahi Sushi Bar & Restaurant"
-  type: Restaurant
+  type: restaurant
   links: https://www.asahiutah.com/order-online
-description: "Asahi Sushi Bar & Restaurant serves delicious sushi in Orem, Utah. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJZxdwzhiFTYcRaQIoUjKuZ0E
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x874d8518ce701767:0x4167ae3252280269!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 0
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 0
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 10:00 PM'
     - 'Tuesday: 11:00 AM – 10:00 PM'
     - 'Wednesday: 11:00 AM – 10:00 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 12:00 AM'
     - 'Saturday: 12:00 PM – 12:00 AM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:00 AM – 10:00 PM'
-    - 'Tuesday: 11:00 AM – 10:00 PM'
-    - 'Wednesday: 11:00 AM – 10:00 PM'
-    - 'Thursday: 11:00 AM – 10:00 PM'
-    - 'Friday: 11:00 AM – 12:00 AM'
-    - 'Saturday: 12:00 PM – 12:00 AM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T06:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +238,346 @@ phone: (801) 225-8883
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.4'
-rating_count: 0
+rating_count: 1362
 website: https://www.asahiutah.com/order-online
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Asahi Sushi Bar in Orem, UT$$$In Orem, UT, Asahi Sushi Bar stands out
+  as a welcoming spot for fresh sushi and Japanese favorites, blending cozy
+  ambiance with flavorful dishes that appeal to those seeking quality dining
+  options nearby. This intimate restaurant offers a variety of classic and
+  specialty rolls, along with comforting entrees like teriyaki chicken, all
+  prepared with care in a setting that's perfect for casual evenings or quick
+  meals. With extended hours into the night, especially on weekends, it's an
+  ideal choice for anyone craving top sushi experiences without the fuss. The
+  venue also prioritizes accessibility, making it easy for everyone to enjoy its
+  elegant yet relaxed vibe, while providing options like outdoor seating and a
+  selection of beverages to enhance your visit.
+generative_summary: >-
+  Discover Asahi Sushi Bar in Orem, UT$$$In Orem, UT, Asahi Sushi Bar stands out
+  as a welcoming spot for fresh sushi and Japanese favorites, blending cozy
+  ambiance with flavorful dishes that appeal to those seeking quality dining
+  options nearby. This intimate restaurant offers a variety of classic and
+  specialty rolls, along with comforting entrees like teriyaki chicken, all
+  prepared with care in a setting that's perfect for casual evenings or quick
+  meals. With extended hours into the night, especially on weekends, it's an
+  ideal choice for anyone craving top sushi experiences without the fuss. The
+  venue also prioritizes accessibility, making it easy for everyone to enjoy its
+  elegant yet relaxed vibe, while providing options like outdoor seating and a
+  selection of beverages to enhance your visit.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJZxdwzhiFTYcRaQIoUjKuZ0E/reviews/ChdDSUhNMG9nS0VJQ0FnTUNvcjhDSnFBRRAB
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        We’ve dined here a few times and we are always pleased. The restaurant
+        itself is tiny and always crowded. The staff is always friendly and the
+        food is always great. Normal prices are fair and their Late Night menu
+        rocks.
+
+
+        This visit, we had an incredibly friendly waitress who took time to
+        treat us like friends, rather than customers. We came after 10PM on a
+        Friday/Saturday which gave us access to the Late Night menu which has a
+        few choice menu items at a discounted price. Just know if you go after
+        10PM, university students flood the place and it gets noisy.
+
+
+        We got the gyoza, shrimp tempura roll, Sundance roll, and spicy salmon
+        roll. Each roll was beautifully rolled, packed all the flavors as
+        advertised, and were exactly what we were craving that night. Sometimes
+        rolls with lemon/limes can use too much citrus but the Sundance was
+        perfect. The salmon for this visit was probably the best quality we’ve
+        ever had from this specific restaurant, so maybe they’ve upgraded their
+        fish? Hopefully!
+
+
+        Overall, this place is consistent and will continue to be a quick and
+        easy place for us to come get sushi, especially when we get those late
+        night cravings on the weekend :)
+      languageCode: en
+    originalText:
+      text: >-
+        We’ve dined here a few times and we are always pleased. The restaurant
+        itself is tiny and always crowded. The staff is always friendly and the
+        food is always great. Normal prices are fair and their Late Night menu
+        rocks.
+
+
+        This visit, we had an incredibly friendly waitress who took time to
+        treat us like friends, rather than customers. We came after 10PM on a
+        Friday/Saturday which gave us access to the Late Night menu which has a
+        few choice menu items at a discounted price. Just know if you go after
+        10PM, university students flood the place and it gets noisy.
+
+
+        We got the gyoza, shrimp tempura roll, Sundance roll, and spicy salmon
+        roll. Each roll was beautifully rolled, packed all the flavors as
+        advertised, and were exactly what we were craving that night. Sometimes
+        rolls with lemon/limes can use too much citrus but the Sundance was
+        perfect. The salmon for this visit was probably the best quality we’ve
+        ever had from this specific restaurant, so maybe they’ve upgraded their
+        fish? Hopefully!
+
+
+        Overall, this place is consistent and will continue to be a quick and
+        easy place for us to come get sushi, especially when we get those late
+        night cravings on the weekend :)
+      languageCode: en
+    authorAttribution:
+      displayName: Brandon Blaser
+      uri: https://www.google.com/maps/contrib/110109878511764987948/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWXrrkjYDY5y4feJp7p0grf6aAPW6wk4XKKsRVGx9_of3VSYwyy=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-20T22:06:08.273259Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNvcjhDSnFBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNvcjhDSnFBRRAB!2m1!1s0x874d8518ce701767:0x4167ae3252280269
+  - name: >-
+      places/ChIJZxdwzhiFTYcRaQIoUjKuZ0E/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfcExLYjd3RRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 1
+    text:
+      text: >-
+        I am so sad to write this because usually I’m happy with my experience
+        here. I went Saturday night at 9:45. We waited for 5 minutes and were
+        sat quickly. We then waited for 45 minutes before any acknowledgment was
+        given to us. No waters, no server came by. Finally someone did and got
+        us waters and said our server would be there soon.
+
+        During this 45 minutes, 3 other tables were sat and given waters and
+        appetizers right away. Our server finally came about 15 minutes later
+        and we ordered. We waited another 30 minutes with no appetizers or food.
+        I looked over, saw our plate of sushi be set down, our server came out
+        of the kitchen eating food and proceeded to walk around the restaurant
+        not giving us our food. About 10 minutes later she brought our rolls, no
+        appetizers still. One of the rolls was horribly made and falling apart
+        (wasn’t even a roll we ordered). I had to flag down our server again and
+        ask for our appetizers and for our correct roll.
+
+        We started eating and all our rolls were warm. The salmon was spoiled
+        and left a disgusting taste in your mouth. The tempura was undercooked
+        and raw and one of the rolls was missing ingredients in it. We all
+        stopped eating and called our server explaining we were done and would
+        not be eating anymore.
+
+        She proceeded to tell us that we already started eating and should
+        continue. I told her we were done and wanted to leave and if we could
+        have something comped because of waiting over an hour and then the food
+        being inedible. Keep in mind we only ate 7 pieces total, out of 6 rolls.
+        She brought us the check with $5 taken off and the wrong rolls on our
+        check. I then asked for a manager 5 times and finally my sister spoke up
+        and also asked for a manager.
+
+        He came over, harassed us some more saying it was all fresh, cut today,
+        we had to ask for the tempura to be cooked fully next time, and asked if
+        we even liked sushi…I was absolutely shocked with this behavior towards
+        us and all we wanted to do was leave. After 20 minutes we were finally
+        given a check with a slight comp on some rolls and then we left.
+
+        As I was walking out the server came to have me sign. I wasn’t even
+        halfway through the signature before she slapped the book shut on me and
+        walked away.
+
+        Will not be coming back after being shown such horrible treatment and
+        being served warm sushi.
+      languageCode: en
+    originalText:
+      text: >-
+        I am so sad to write this because usually I’m happy with my experience
+        here. I went Saturday night at 9:45. We waited for 5 minutes and were
+        sat quickly. We then waited for 45 minutes before any acknowledgment was
+        given to us. No waters, no server came by. Finally someone did and got
+        us waters and said our server would be there soon.
+
+        During this 45 minutes, 3 other tables were sat and given waters and
+        appetizers right away. Our server finally came about 15 minutes later
+        and we ordered. We waited another 30 minutes with no appetizers or food.
+        I looked over, saw our plate of sushi be set down, our server came out
+        of the kitchen eating food and proceeded to walk around the restaurant
+        not giving us our food. About 10 minutes later she brought our rolls, no
+        appetizers still. One of the rolls was horribly made and falling apart
+        (wasn’t even a roll we ordered). I had to flag down our server again and
+        ask for our appetizers and for our correct roll.
+
+        We started eating and all our rolls were warm. The salmon was spoiled
+        and left a disgusting taste in your mouth. The tempura was undercooked
+        and raw and one of the rolls was missing ingredients in it. We all
+        stopped eating and called our server explaining we were done and would
+        not be eating anymore.
+
+        She proceeded to tell us that we already started eating and should
+        continue. I told her we were done and wanted to leave and if we could
+        have something comped because of waiting over an hour and then the food
+        being inedible. Keep in mind we only ate 7 pieces total, out of 6 rolls.
+        She brought us the check with $5 taken off and the wrong rolls on our
+        check. I then asked for a manager 5 times and finally my sister spoke up
+        and also asked for a manager.
+
+        He came over, harassed us some more saying it was all fresh, cut today,
+        we had to ask for the tempura to be cooked fully next time, and asked if
+        we even liked sushi…I was absolutely shocked with this behavior towards
+        us and all we wanted to do was leave. After 20 minutes we were finally
+        given a check with a slight comp on some rolls and then we left.
+
+        As I was walking out the server came to have me sign. I wasn’t even
+        halfway through the signature before she slapped the book shut on me and
+        walked away.
+
+        Will not be coming back after being shown such horrible treatment and
+        being served warm sushi.
+      languageCode: en
+    authorAttribution:
+      displayName: Ainsley Statham
+      uri: https://www.google.com/maps/contrib/106932947134469550132/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXjfY3cR3-gCPOYsHjW_Dk4HowJduWUP7yYdgdjBUNVS2_QX9Zz=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-01-13T00:36:26.177463Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNfcExLYjd3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNfcExLYjd3RRAB!2m1!1s0x874d8518ce701767:0x4167ae3252280269
+  - name: >-
+      places/ChIJZxdwzhiFTYcRaQIoUjKuZ0E/reviews/ChdDSUhNMG9nS0VJQ0FnTUNnNnFQRXF3RRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        If you want a laid-back, elegant sushi experience, come here. I have
+        been coming to this sushi restaurant for years because it’s such good
+        food and the servers are so friendly!
+      languageCode: en
+    originalText:
+      text: >-
+        If you want a laid-back, elegant sushi experience, come here. I have
+        been coming to this sushi restaurant for years because it’s such good
+        food and the servers are so friendly!
+      languageCode: en
+    authorAttribution:
+      displayName: Autumn Tolman
+      uri: https://www.google.com/maps/contrib/106443849223137453438/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLDgu4SWXUIX3bdK-kuBARIZywtwilXAkZ0bfxZVC4OM3ByXZ4=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-02-16T04:55:51.037443Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNnNnFQRXF3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNnNnFQRXF3RRAB!2m1!1s0x874d8518ce701767:0x4167ae3252280269
+  - name: >-
+      places/ChIJZxdwzhiFTYcRaQIoUjKuZ0E/reviews/ChdDSUhNMG9nS0VJQ0FnSURidk1mR213RRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        We have a phenomenal experience every single time! We usually order to
+        go. Whether we dine in or take it with us, we enjoy every single visit!
+        Everyone is so nice and helpful. The food comes out quick and delicious!
+        And the prices are reasonable. Especially their Friday and Saturday
+        night deals. 4 rolls and a 35% tip for $50. Pretty nice! Syd is our
+        favorite! She's down to earth and loves to take care of everyone who
+        comes through the door.
+      languageCode: en
+    originalText:
+      text: >-
+        We have a phenomenal experience every single time! We usually order to
+        go. Whether we dine in or take it with us, we enjoy every single visit!
+        Everyone is so nice and helpful. The food comes out quick and delicious!
+        And the prices are reasonable. Especially their Friday and Saturday
+        night deals. 4 rolls and a 35% tip for $50. Pretty nice! Syd is our
+        favorite! She's down to earth and loves to take care of everyone who
+        comes through the door.
+      languageCode: en
+    authorAttribution:
+      displayName: Amanda J
+      uri: https://www.google.com/maps/contrib/109008639432700469765/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUAl5h5716bvu2cF_cyg1f5yPRIIELmH6gqVmQNB4rP0tIuzKoMyw=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-03-20T03:38:09.100208Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURidk1mR213RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURidk1mR213RRAB!2m1!1s0x874d8518ce701767:0x4167ae3252280269
+  - name: >-
+      places/ChIJZxdwzhiFTYcRaQIoUjKuZ0E/reviews/ChdDSUhNMG9nS0VJQ0FnTUNBNDZ1endBRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        Wonderful food! The wait staff were amazing and the food was so good.
+        It's definitely in the medium price range for food, which makes sense,
+        as the food is the best I've had. I definitely want to come after 10pm
+        and try their late night menu. Asahi is definitely going to be a go-to
+        date spit for my husband and me!
+      languageCode: en
+    originalText:
+      text: >-
+        Wonderful food! The wait staff were amazing and the food was so good.
+        It's definitely in the medium price range for food, which makes sense,
+        as the food is the best I've had. I definitely want to come after 10pm
+        and try their late night menu. Asahi is definitely going to be a go-to
+        date spit for my husband and me!
+      languageCode: en
+    authorAttribution:
+      displayName: Chel Beane
+      uri: https://www.google.com/maps/contrib/114530051441919704639/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjX53KaA5Nk666t1uWt5uSfG6VmENz7amDCDu1LHd0u9sx39EyB8Gw=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-02-03T22:16:13.976343Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNBNDZ1endBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNBNDZ1endBRRAB!2m1!1s0x874d8518ce701767:0x4167ae3252280269
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this sushi spot often rave about the
+  consistently delicious rolls and friendly service that make every meal feel
+  worthwhile, with many highlighting the great value on late-night deals and
+  generous portions. While the atmosphere can get lively and busy during peak
+  times, leading to occasional waits, the overall experience remains enjoyable
+  thanks to the attentive staff and quick preparation of fresh, flavorful
+  dishes. Folks appreciate the reasonable prices and variety of options that
+  cater to groups or solo diners, making it a go-to for satisfying those sushi
+  cravings without breaking the bank. Despite a few mentions of off nights with
+  service hiccups, the majority of feedback leans positive, emphasizing the
+  spot's reliability for tasty Japanese cuisine that keeps customers coming back
+  for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: true
+live_music: false
+menu_for_children: true
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Snug, elegant cafe open late, serving classic & specialty sushi rolls &
+  Japanese entrees.
 
 ---

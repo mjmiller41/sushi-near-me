@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Avana Sushi 2"
+title: Avana Sushi 2
 permalink: /massachusetts/boston/avana-sushi-2.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Boston
 seo:
-  name: "Avana Sushi 2"
-  type: Restaurant
+  type: restaurant
   links: http://www.avanaboston.com/
-description: "Avana Sushi 2 serves delicious sushi in Boston, Massachusetts. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJm6CxbAZx44kRDEILxKgf2Rw
 photos:
   - name: >-
@@ -169,7 +167,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89e371066cb1a09b:0x1cd91fa8c40b420c!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 10
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 10
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 10
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 10
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 10
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 10
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 10
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 10:30 AM – 9:30 PM'
     - 'Tuesday: 10:30 AM – 9:30 PM'
     - 'Wednesday: 10:30 AM – 9:30 PM'
@@ -177,14 +233,7 @@ opening_hours:
     - 'Friday: 10:30 AM – 9:30 PM'
     - 'Saturday: 10:30 AM – 9:30 PM'
     - 'Sunday: 10:30 AM – 9:30 PM'
-  current:
-    - 'Monday: 10:30 AM – 9:30 PM'
-    - 'Tuesday: 10:30 AM – 9:30 PM'
-    - 'Wednesday: 10:30 AM – 9:30 PM'
-    - 'Thursday: 10:30 AM – 9:30 PM'
-    - 'Friday: 10:30 AM – 9:30 PM'
-    - 'Saturday: 10:30 AM – 9:30 PM'
-    - 'Sunday: 10:30 AM – 9:30 PM'
+  nextCloseTime: '2025-05-04T01:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -195,10 +244,43 @@ secondary_opening_hours:
 phone: (617) 423-5000
 price_level: null
 price_range: $10 &ndash; $20
-rating: '4.4'
-rating_count: 0
+rating: '4.3'
+rating_count: 149
 website: http://www.avanaboston.com/
+description: >-
+  Discover Avana Sushi 2 in Boston, MA$$$Avana Sushi 2 in Boston, MA, stands out
+  as a welcoming spot for fresh Japanese-inspired cuisine, ideal for those
+  seeking sushi restaurants in a vibrant downtown setting. This casual eatery
+  specializes in expertly crafted sushi rolls and poke bowls, complemented by
+  affordable lunch specials that make it a go-to choice for everyday dining.
+  Visitors can enjoy a clean and accessible atmosphere, with options that cater
+  to various tastes, including vegetarian-friendly dishes. The restaurant's
+  commitment to quality ingredients ensures a satisfying meal, perfect for
+  anyone exploring top-rated sushi options near you in the heart of the city.
+generative_summary: >-
+  Discover Avana Sushi 2 in Boston, MA$$$Avana Sushi 2 in Boston, MA, stands out
+  as a welcoming spot for fresh Japanese-inspired cuisine, ideal for those
+  seeking sushi restaurants in a vibrant downtown setting. This casual eatery
+  specializes in expertly crafted sushi rolls and poke bowls, complemented by
+  affordable lunch specials that make it a go-to choice for everyday dining.
+  Visitors can enjoy a clean and accessible atmosphere, with options that cater
+  to various tastes, including vegetarian-friendly dishes. The restaurant's
+  commitment to quality ingredients ensures a satisfying meal, perfect for
+  anyone exploring top-rated sushi options near you in the heart of the city.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Buzzing About$$$Folks rave about the fresh and flavorful
+  sushi at this spot, often highlighting how the affordable lunch deals make it
+  a smart pick for a quick bite. Many appreciate the friendly vibe and spotless
+  surroundings that add to the overall enjoyment, turning a simple meal into a
+  pleasant experience. While some note that service can occasionally take a bit
+  longer during busy times, the generous portions and tasty offerings keep
+  diners coming back for more. Overall, it's a solid choice for anyone hunting
+  for reliable sushi places nearby, with the positives far outweighing any minor
+  hiccups. If you're in the mood for Japanese fare that hits the spot, this
+  restaurant delivers a consistently enjoyable outing.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -224,7 +306,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

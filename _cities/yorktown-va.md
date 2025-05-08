@@ -5,4 +5,5 @@ permalink: /virginia/yorktown/
 stateAbbr: VA
 stateName: Virginia
 cityName: Yorktown
+
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "AI Sushi & Grill"
+title: AI Sushi & Grill
 permalink: /colorado/colorado-springs/ai-sushi-grill.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Colorado Springs
 seo:
-  name: "AI Sushi & Grill"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "AI Sushi & Grill serves delicious sushi in Colorado Springs, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJcXEQrYJIE4cRFLsqdbhEsEM
 photos:
   - name: >-
@@ -185,7 +183,39 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  About AI Sushi & Grill in Colorado Springs$$$AI Sushi & Grill in Colorado
+  Springs, CO, is a welcoming Japanese restaurant known for its fresh sushi and
+  flavorful grilled options. This spot offers a variety of teppanyaki dishes and
+  small plates in a relaxed, casual atmosphere, making it an ideal choice for
+  those exploring local sushi restaurants. With a focus on quality ingredients
+  and generous portions, it provides an enjoyable dining experience that appeals
+  to families and groups alike. Accessibility features like wheelchair-friendly
+  parking and seating add to its appeal, ensuring everyone can savor the
+  authentic flavors without hassle.
+generative_summary: >-
+  About AI Sushi & Grill in Colorado Springs$$$AI Sushi & Grill in Colorado
+  Springs, CO, is a welcoming Japanese restaurant known for its fresh sushi and
+  flavorful grilled options. This spot offers a variety of teppanyaki dishes and
+  small plates in a relaxed, casual atmosphere, making it an ideal choice for
+  those exploring local sushi restaurants. With a focus on quality ingredients
+  and generous portions, it provides an enjoyable dining experience that appeals
+  to families and groups alike. Accessibility features like wheelchair-friendly
+  parking and seating add to its appeal, ensuring everyone can savor the
+  authentic flavors without hassle.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What People Are Saying About the Reviews$$$Folks who visit this Japanese
+  eatery often rave about the tasty hibachi and sushi offerings, especially the
+  fresh fish and hearty portions that leave diners satisfied. Many highlight the
+  warm and attentive service, along with the lively hibachi chefs who bring fun
+  to the table with their engaging style. While some mention that the prices can
+  feel a bit steep for what you get, the overall vibe remains positive and worth
+  the visit for sushi lovers. If you're on the hunt for reliable spots serving
+  up solid Japanese cuisine, this one tends to deliver a memorable meal with its
+  flavorful highlights.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +241,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -5,4 +5,5 @@ permalink: /california/burbank/
 stateAbbr: CA
 stateName: California
 cityName: Burbank
+
 ---

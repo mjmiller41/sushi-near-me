@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi King"
+title: Sushi King
 permalink: /california/santa-monica/sushi-king.html
 stateAbbr: CA
 stateName: California
 cityName: Santa Monica
 seo:
-  name: "Sushi King"
-  type: Restaurant
+  type: restaurant
   links: https://order.online/business/sushi-king-431729
-description: "Sushi King serves delicious sushi in Santa Monica, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJO9bOhsqkwoARyKviwUDfR00
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c2a4ca86ced63b:0x4d47df40c1e2abc8!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 17
+        minute: 30
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 30
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 17
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 5:30 – 10:00 PM'
     - 'Wednesday: 5:30 – 10:00 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 5:30 – 10:30 PM'
     - 'Saturday: 5:30 – 10:30 PM'
     - 'Sunday: 5:30 – 10:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 5:30 – 10:00 PM'
-    - 'Wednesday: 5:30 – 10:00 PM'
-    - 'Thursday: 5:30 – 10:00 PM'
-    - 'Friday: 5:30 – 10:30 PM'
-    - 'Saturday: 5:30 – 10:30 PM'
-    - 'Sunday: 5:30 – 10:00 PM'
+  nextOpenTime: '2025-05-04T00:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +238,254 @@ phone: (310) 395-0120
 price_level: PRICE_LEVEL_MODERATE
 price_range: $30 &ndash; $50
 rating: '4.5'
-rating_count: 0
+rating_count: 311
 website: https://order.online/business/sushi-king-431729
-reviews: null
+description: >-
+  Discover Sushi King in Santa Monica, CA$$$Nestled in the heart of Santa
+  Monica, CA, Sushi King offers a delightful escape into authentic Japanese
+  flavors, featuring expertly prepared sushi and fresh dishes in a relaxed
+  atmosphere. This cozy spot highlights a variety of standard rolls and
+  combination deals, paired with options like beer and sake for a complete
+  dining experience. With accessibility features such as wheelchair-friendly
+  entrances and seating, it caters to a wide range of visitors seeking quality
+  sushi options nearby. The restaurant's moderate pricing makes it an appealing
+  choice for those exploring top-rated sushi restaurants in the area,
+  emphasizing fresh ingredients and a casual vibe that enhances every meal.
+generative_summary: >-
+  Discover Sushi King in Santa Monica, CA$$$Nestled in the heart of Santa
+  Monica, CA, Sushi King offers a delightful escape into authentic Japanese
+  flavors, featuring expertly prepared sushi and fresh dishes in a relaxed
+  atmosphere. This cozy spot highlights a variety of standard rolls and
+  combination deals, paired with options like beer and sake for a complete
+  dining experience. With accessibility features such as wheelchair-friendly
+  entrances and seating, it caters to a wide range of visitors seeking quality
+  sushi options nearby. The restaurant's moderate pricing makes it an appealing
+  choice for those exploring top-rated sushi restaurants in the area,
+  emphasizing fresh ingredients and a casual vibe that enhances every meal.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJO9bOhsqkwoARyKviwUDfR00/reviews/ChdDSUhNMG9nS0VJQ0FnTURvd1l6QmdnRRAB
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        No frills, great sushi. Reasonably priced, good service, feels a little
+        like a hole in the wall. Will be back and would recommend giving it a
+        shot.
+      languageCode: en
+    originalText:
+      text: >-
+        No frills, great sushi. Reasonably priced, good service, feels a little
+        like a hole in the wall. Will be back and would recommend giving it a
+        shot.
+      languageCode: en
+    authorAttribution:
+      displayName: Michael Monnette
+      uri: https://www.google.com/maps/contrib/103710475315198393550/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWfmlG7pwJB7DqgOaHqe-b3x-HXL7zraK23Y_XfRlIdwXD84M8Q=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-25T15:34:16.011457Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURvd1l6QmdnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURvd1l6QmdnRRAB!2m1!1s0x80c2a4ca86ced63b:0x4d47df40c1e2abc8
+  - name: >-
+      places/ChIJO9bOhsqkwoARyKviwUDfR00/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRcG9TWk1nEAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 3
+    text:
+      text: >-
+        Unfortunately, we were disappointed with our second visit to Sushi King.
+        We are Japanese and had such a lovely experience our first visit almost
+        a year ago. This time, the rice was bland (could not taste the rice
+        vinegar at all), the fish texture felt off and the wasabi was quite
+        heavy on the nigiri. It was not fishy luckily, but the quality had gone
+        down significantly since the time before. The service was not bad but
+        felt a bit rushed with lots of running around. I can’t say that I would
+        recommend this sadly, I hope they are able to improve
+      languageCode: en
+    originalText:
+      text: >-
+        Unfortunately, we were disappointed with our second visit to Sushi King.
+        We are Japanese and had such a lovely experience our first visit almost
+        a year ago. This time, the rice was bland (could not taste the rice
+        vinegar at all), the fish texture felt off and the wasabi was quite
+        heavy on the nigiri. It was not fishy luckily, but the quality had gone
+        down significantly since the time before. The service was not bad but
+        felt a bit rushed with lots of running around. I can’t say that I would
+        recommend this sadly, I hope they are able to improve
+      languageCode: en
+    authorAttribution:
+      displayName: Elisa Watanabe
+      uri: https://www.google.com/maps/contrib/111517127620957409016/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKlNwc1utybBgq8SJUsZ9vAidFkK9cUyAQCWJmud5uewpg1YA=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-03-03T23:47:28.907276Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNRcG9TWk1nEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNRcG9TWk1nEAE!2m1!1s0x80c2a4ca86ced63b:0x4d47df40c1e2abc8
+  - name: >-
+      places/ChIJO9bOhsqkwoARyKviwUDfR00/reviews/ChdDSUhNMG9nS0VJQ0FnSUNsN3ZQdW9BRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        Sushi King is cool.  Great little place.  Casual feel.  Excellent
+        service.  Great sushi.  Definitely coming back next time I am in town.
+      languageCode: en
+    originalText:
+      text: >-
+        Sushi King is cool.  Great little place.  Casual feel.  Excellent
+        service.  Great sushi.  Definitely coming back next time I am in town.
+      languageCode: en
+    authorAttribution:
+      displayName: Gregory Kuhn
+      uri: https://www.google.com/maps/contrib/104436248368546413678/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWcpSNKjyTNqf2mWnwP8NMjcT8uYZ1ubPj7cflohUspD7LnS2sLSw=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2023-11-19T02:34:48.606238Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNsN3ZQdW9BRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNsN3ZQdW9BRRAB!2m1!1s0x80c2a4ca86ced63b:0x4d47df40c1e2abc8
+  - name: >-
+      places/ChIJO9bOhsqkwoARyKviwUDfR00/reviews/ChdDSUhNMG9nS0VJQ0FnSUNweWF1czhnRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 2
+    text:
+      text: >-
+        I came in on a Saturday night around 9:30pm. I was glad they were still
+        open as a lot of places in Santa Monica close so early. The service was
+        fine. No complaints there. Very to the point and robotic.
+
+
+        The food however was not good. I didn't enjoy eating it. They had a lot
+        of wasabi on every piece of sushi. Even the cucumber had a lot.
+
+
+        We got various nigiri sushi off of their menu. None of it was that good.
+        Too much wasabi and a few fish tasted a little fishy/old.
+      languageCode: en
+    originalText:
+      text: >-
+        I came in on a Saturday night around 9:30pm. I was glad they were still
+        open as a lot of places in Santa Monica close so early. The service was
+        fine. No complaints there. Very to the point and robotic.
+
+
+        The food however was not good. I didn't enjoy eating it. They had a lot
+        of wasabi on every piece of sushi. Even the cucumber had a lot.
+
+
+        We got various nigiri sushi off of their menu. None of it was that good.
+        Too much wasabi and a few fish tasted a little fishy/old.
+      languageCode: en
+    authorAttribution:
+      displayName: Makoto
+      uri: https://www.google.com/maps/contrib/113877730336644871637/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXTNcc6lkWZvsLJb23KG-LQWJEzAHvarTQotbSXWbrqhj2BNcjj=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2023-08-06T06:10:39.470380Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNweWF1czhnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNweWF1czhnRRAB!2m1!1s0x80c2a4ca86ced63b:0x4d47df40c1e2abc8
+  - name: >-
+      places/ChIJO9bOhsqkwoARyKviwUDfR00/reviews/ChZDSUhNMG9nS0VJQ0FnSURoLXVtRk53EAE
+    relativePublishTimeDescription: a year ago
+    rating: 3
+    text:
+      text: >-
+        Downgraded from 4 star in 2022.
+
+
+        Edited: have come back a few more times and the quality has declined.
+        The fish is definitely not as fresh, too cold, slimy. The rice is mushy
+        and feels old. And it’s insanely expensive.
+
+
+        It’s a shame, the service is good and it appears to be really authentic.
+        But with the increase in price with decrease in quality, not worth a
+        Return visit.
+
+
+        For good quality fish, I would recommend Hide in Sawtelle. For value, I
+        would recommend Hara.
+      languageCode: en
+    originalText:
+      text: >-
+        Downgraded from 4 star in 2022.
+
+
+        Edited: have come back a few more times and the quality has declined.
+        The fish is definitely not as fresh, too cold, slimy. The rice is mushy
+        and feels old. And it’s insanely expensive.
+
+
+        It’s a shame, the service is good and it appears to be really authentic.
+        But with the increase in price with decrease in quality, not worth a
+        Return visit.
+
+
+        For good quality fish, I would recommend Hide in Sawtelle. For value, I
+        would recommend Hara.
+      languageCode: en
+    authorAttribution:
+      displayName: Victoria
+      uri: https://www.google.com/maps/contrib/105323676993490918248/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKR7LxkQ5AFy_JVimkj80CTaAF0y_aGG772N8y70g7AbMfocbM=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-03-10T04:30:49.268583Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURoLXVtRk53EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURoLXVtRk53EAE!2m1!1s0x80c2a4ca86ced63b:0x4d47df40c1e2abc8
+review_summary: >-
+  Insights from Recent Visitors$$$Visitors often praise Sushi King for its
+  straightforward appeal, with many highlighting the tasty sushi and efficient
+  service that make it a go-to spot for casual evenings. While some note that
+  the flavors can vary, with occasional mentions of overly bold seasonings, the
+  overall experience leans positive due to its reasonable prices and welcoming
+  feel. Feedback suggests it's a solid pick for anyone craving reliable
+  Japanese-inspired meals, though a few point out that consistency in fish
+  freshness could improve for the best results. Despite these mixed notes, the
+  general consensus is that this Santa Monica favorite delivers good value,
+  encouraging repeat visits for those hunting for quality sushi places close by.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
-payment_options: null
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
+delivery: true
+dine_in: true
 good_for_children: null
 good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
 serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: false
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Smallish dinner-only sushi joint with standard rolls & select combination
+  offers.
 
 ---

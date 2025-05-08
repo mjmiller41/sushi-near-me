@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sapporo Japanese Grill & Sushi"
+title: Sapporo Japanese Grill & Sushi
 permalink: /kentucky/louisville/sapporo-japanese-grill-sushi.html
 stateAbbr: KY
 stateName: Kentucky
 cityName: Louisville
 seo:
-  name: "Sapporo Japanese Grill & Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.sapporolouisville.com/
-description: "Creative sushi, hibachi-cooked meats & other Japanese fare is served in a sleek, modern setting. Sapporo Japanese Grill & Sushi serves delicious sushi in Louisville, Kentucky. Try fresh Japanese dishes for a great dining experience. Available for takeout, and dinner."
 place_id: ChIJN9YUsbcMaYgREsTvf024BSU
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 0
 website: http://www.sapporolouisville.com/
+description: >-
+  Experience Sapporo in Louisville, KY$$$Sapporo Japanese Grill & Sushi in
+  Louisville, KY, stands out as a go-to spot for fresh sushi and Japanese
+  cuisine, blending creative rolls with flavorful hibachi options in a sleek,
+  modern environment. This casual eatery delights visitors with its array of
+  seafood dishes and a full bar, making it an ideal choice for those seeking
+  top-rated Japanese places in the area. Accessibility features like
+  wheelchair-friendly entrances and seating add to the welcoming vibe, ensuring
+  everyone can enjoy the experience. Whether you're in the mood for authentic
+  flavors or a relaxed meal with drinks, it's a standout option among sushi
+  restaurants near me that balances quality and atmosphere seamlessly.
+generative_summary: >-
+  Experience Sapporo in Louisville, KY$$$Sapporo Japanese Grill & Sushi in
+  Louisville, KY, stands out as a go-to spot for fresh sushi and Japanese
+  cuisine, blending creative rolls with flavorful hibachi options in a sleek,
+  modern environment. This casual eatery delights visitors with its array of
+  seafood dishes and a full bar, making it an ideal choice for those seeking
+  top-rated Japanese places in the area. Accessibility features like
+  wheelchair-friendly entrances and seating add to the welcoming vibe, ensuring
+  everyone can enjoy the experience. Whether you're in the mood for authentic
+  flavors or a relaxed meal with drinks, it's a standout option among sushi
+  restaurants near me that balances quality and atmosphere seamlessly.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJN9YUsbcMaYgREsTvf024BSU/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3NEx6enVRRRAB
@@ -402,6 +423,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUR3c1B5UndnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUR3c1B5UndnRRAB!2m1!1s0x88690cb7b114d637:0x2505b84d7fefc412
+review_summary: >-
+  Customer Feedback Highlights$$$Visitors to this Louisville favorite often rave
+  about the outstanding food quality, with many highlighting the delicious sushi
+  rolls and hibachi dishes that make every bite memorable. Folks appreciate the
+  fun, welcoming atmosphere and quick, friendly service that keeps the energy
+  upbeat without feeling rushed. While most agree it's worth the occasional wait
+  for fresh, well-prepared meals, a few note minor inconsistencies like certain
+  items being a bit dry, though these don't overshadow the overall enjoyment.
+  It's clear from the buzz that this spot earns its reputation as a reliable
+  choice for groups or families, offering tasty options that leave people coming
+  back for more. If you're on the hunt for the best sushi near me, the positive
+  experiences shared suggest it's a solid pick for a satisfying dine-in
+  adventure.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -434,8 +469,8 @@ serves_lunch: null
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Creative sushi, hibachi-cooked meats & other Japanese fare is served in a
   sleek, modern setting.
 

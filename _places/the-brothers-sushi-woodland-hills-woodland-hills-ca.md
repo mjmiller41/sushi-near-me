@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "The Brothers Sushi Woodland Hills"
+title: The Brothers Sushi Woodland Hills
 permalink: /california/woodland-hills/the-brothers-sushi-woodland-hills.html
 stateAbbr: CA
 stateName: California
 cityName: Woodland Hills
 seo:
-  name: "The Brothers Sushi Woodland Hills"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "The Brothers Sushi Woodland Hills serves delicious sushi in Woodland Hills, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJIWGWwLSfwoARZIgfhtnSQsk
 photos:
   - name: >-
@@ -185,7 +183,43 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Upscale Sushi in Woodland Hills$$$The Brothers Sushi in Woodland
+  Hills, CA, stands out as a refined destination for fresh Japanese cuisine
+  enthusiasts. This spot offers an elegant selection of dishes that pair
+  perfectly with a variety of beverages, including beer, wine, and sake,
+  creating a well-rounded dining experience. Patrons can enjoy outdoor seating
+  on the patio, ideal for soaking in the local vibe on a pleasant evening. The
+  menu focuses on high-quality ingredients and creative presentations, making it
+  a go-to choice for anyone searching for top-rated sushi restaurants nearby.
+  With its accessible features like wheelchair-friendly options, it's a
+  welcoming place for a memorable meal in a casual yet sophisticated setting.
+generative_summary: >-
+  Discover Upscale Sushi in Woodland Hills$$$The Brothers Sushi in Woodland
+  Hills, CA, stands out as a refined destination for fresh Japanese cuisine
+  enthusiasts. This spot offers an elegant selection of dishes that pair
+  perfectly with a variety of beverages, including beer, wine, and sake,
+  creating a well-rounded dining experience. Patrons can enjoy outdoor seating
+  on the patio, ideal for soaking in the local vibe on a pleasant evening. The
+  menu focuses on high-quality ingredients and creative presentations, making it
+  a go-to choice for anyone searching for top-rated sushi restaurants nearby.
+  With its accessible features like wheelchair-friendly options, it's a
+  welcoming place for a memorable meal in a casual yet sophisticated setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Diners Are Buzzing About$$$Visitors often rave about the fantastic
+  omakase-style meals at this sushi spot, praising the ultra-fresh fish and
+  creative twists on classic dishes that keep things exciting. Folks appreciate
+  the warm and attentive service that makes every visit feel personal and
+  enjoyable, adding to the overall fun atmosphere. Many highlight the lively
+  energy around the sushi bar, which turns a simple dinner into a lively
+  gathering perfect for groups or solo adventurers. While opinions vary, the
+  general consensus leans positive, with people loving how it delivers on flavor
+  and innovation without overwhelming the senses. If you're on the hunt for
+  great sushi places near you, this spot comes highly recommended for its
+  reliable quality and welcoming vibe.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +245,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

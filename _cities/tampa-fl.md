@@ -5,4 +5,5 @@ permalink: /florida/tampa/
 stateAbbr: FL
 stateName: Florida
 cityName: Tampa
+
 ---

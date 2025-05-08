@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Bay Sushi"
+title: Bay Sushi
 permalink: /california/sunnyvale/bay-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Sunnyvale
 seo:
-  name: "Bay Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://baysushica.com/users/login
-description: "Bay Sushi serves delicious sushi in Sunnyvale, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJnRuwrjO0j4ARBJWJqUwEPpE
 photos:
   - name: >-
@@ -170,7 +168,97 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x808fb433aeb01b9d:0x913e044ca9899504!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 20
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 20
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 20
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 2:30 PM, 5:00 – 8:30 PM'
     - 'Tuesday: 11:30 AM – 2:30 PM, 5:00 – 8:30 PM'
     - 'Wednesday: 11:30 AM – 2:30 PM, 5:00 – 8:30 PM'
@@ -178,14 +266,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 2:30 PM, 5:00 – 8:30 PM'
     - 'Saturday: 11:30 AM – 8:30 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:30 AM – 2:30 PM, 5:00 – 8:30 PM'
-    - 'Tuesday: 11:30 AM – 2:30 PM, 5:00 – 8:30 PM'
-    - 'Wednesday: 11:30 AM – 2:30 PM, 5:00 – 8:30 PM'
-    - 'Thursday: 11:30 AM – 2:30 PM, 5:00 – 8:30 PM'
-    - 'Friday: 11:30 AM – 2:30 PM, 5:00 – 8:30 PM'
-    - 'Saturday: 11:30 AM – 8:30 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T03:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +278,265 @@ phone: (408) 735-1777
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.5'
-rating_count: 0
+rating_count: 175
 website: https://baysushica.com/users/login
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Bay Sushi in Sunnyvale, CA$$$Bay Sushi in Sunnyvale, CA, stands out
+  as a welcoming sushi restaurant nestled within a vibrant shopping center,
+  offering an array of fresh specialty rolls and classic Japanese entrees that
+  highlight authentic flavors. This spot emphasizes accessibility with features
+  like wheelchair-friendly parking and entrances, making it easy for everyone to
+  enjoy a casual meal. Patrons can savor a variety of options, including udon
+  and bento dishes, paired with selections of beer for a complete dining
+  experience. If you're exploring top-rated sushi options nearby, Bay Sushi
+  delivers moderate pricing and efficient service, ideal for a quick lunch or
+  evening outing. Its convenient hours cater to those seeking reliable Japanese
+  places close to home, ensuring a satisfying visit any day of the week.
+generative_summary: >-
+  Discover Bay Sushi in Sunnyvale, CA$$$Bay Sushi in Sunnyvale, CA, stands out
+  as a welcoming sushi restaurant nestled within a vibrant shopping center,
+  offering an array of fresh specialty rolls and classic Japanese entrees that
+  highlight authentic flavors. This spot emphasizes accessibility with features
+  like wheelchair-friendly parking and entrances, making it easy for everyone to
+  enjoy a casual meal. Patrons can savor a variety of options, including udon
+  and bento dishes, paired with selections of beer for a complete dining
+  experience. If you're exploring top-rated sushi options nearby, Bay Sushi
+  delivers moderate pricing and efficient service, ideal for a quick lunch or
+  evening outing. Its convenient hours cater to those seeking reliable Japanese
+  places close to home, ensuring a satisfying visit any day of the week.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJnRuwrjO0j4ARBJWJqUwEPpE/reviews/ChZDSUhNMG9nS0VJQ0FnTURnN09XYlJREAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        Discovered a gem of a dining place in that shopping complex. Excellent
+        service, delicious and visually appealing Japanese menu.
+
+        We tried their French Kiss Sushi roll that was unique. Sashimi was fresh
+        and literally melted in mouth. California Spicy Tuna roll was perfect
+        and had a surprise presentation.
+      languageCode: en
+    originalText:
+      text: >-
+        Discovered a gem of a dining place in that shopping complex. Excellent
+        service, delicious and visually appealing Japanese menu.
+
+        We tried their French Kiss Sushi roll that was unique. Sashimi was fresh
+        and literally melted in mouth. California Spicy Tuna roll was perfect
+        and had a surprise presentation.
+      languageCode: en
+    authorAttribution:
+      displayName: Ganesh B
+      uri: https://www.google.com/maps/contrib/100342707144994636717/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJ525g9NGjQzQKXKxz60_rveugswlPp50R9eicivoK0p34yNw=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-02-23T03:38:38.971328Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURnN09XYlJREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURnN09XYlJREAE!2m1!1s0x808fb433aeb01b9d:0x913e044ca9899504
+  - name: >-
+      places/ChIJnRuwrjO0j4ARBJWJqUwEPpE/reviews/ChZDSUhNMG9nS0VJQ0FnSUR2aThQYlNnEAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        The previous reviews aren't an exaggeration, they really make you feel
+        like family here. The service was the best I've had in a very long time!
+
+
+        I absolutely love the decor. All the plants, hanging lights and art
+        really makes this small space cozy instead of cramped. They dont have
+        many tables but everything is really fast so I didn't see anyone have to
+        wait for a table.
+
+
+        You can get a miso soup, salad and sushi roll for about $20 a person so
+        this is a nice lunch spot. Good food, good service and good prices.
+        We'll definitely be back
+      languageCode: en
+    originalText:
+      text: >-
+        The previous reviews aren't an exaggeration, they really make you feel
+        like family here. The service was the best I've had in a very long time!
+
+
+        I absolutely love the decor. All the plants, hanging lights and art
+        really makes this small space cozy instead of cramped. They dont have
+        many tables but everything is really fast so I didn't see anyone have to
+        wait for a table.
+
+
+        You can get a miso soup, salad and sushi roll for about $20 a person so
+        this is a nice lunch spot. Good food, good service and good prices.
+        We'll definitely be back
+      languageCode: en
+    authorAttribution:
+      displayName: Lillith Smith
+      uri: https://www.google.com/maps/contrib/102668882637191277295/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocL40IDMxH82yG-Z6boQN-KfpwZ8dsAsBM_oVwHMY9hf0QSuDA=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-12-24T03:09:08.129045Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR2aThQYlNnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR2aThQYlNnEAE!2m1!1s0x808fb433aeb01b9d:0x913e044ca9899504
+  - name: >-
+      places/ChIJnRuwrjO0j4ARBJWJqUwEPpE/reviews/ChZDSUhNMG9nS0VJQ0FnSURObXVUaU5REAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        Food was great and well priced! Service was friendly and attentive. We
+        liked the variety of options on the menu.
+
+        Ordered the Crazy Roll and Cat’s Eye. - we would pick different ones
+        next time but good to try.
+
+
+        Would go back!
+      languageCode: en
+    originalText:
+      text: >-
+        Food was great and well priced! Service was friendly and attentive. We
+        liked the variety of options on the menu.
+
+        Ordered the Crazy Roll and Cat’s Eye. - we would pick different ones
+        next time but good to try.
+
+
+        Would go back!
+      languageCode: en
+    authorAttribution:
+      displayName: Alyssa M
+      uri: https://www.google.com/maps/contrib/100927761877555297399/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUFo0ms9GLhF3xLq5yQTDPoGr2odUiWmyNZ8Lx3-jOwMBmvdo90=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-01-21T18:55:50.282679Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURObXVUaU5REAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURObXVUaU5REAE!2m1!1s0x808fb433aeb01b9d:0x913e044ca9899504
+  - name: >-
+      places/ChIJnRuwrjO0j4ARBJWJqUwEPpE/reviews/ChdDSUhNMG9nS0VJQ0FnTURBNUtibWt3RRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        It’s been years since I’ve experienced service this exceptional. The
+        atmosphere is warm and inviting. The food is really good, and the prices
+        are just as impressive!
+
+
+        The decor is absolutely charming, with foilage and soft lighting that
+        create a cozy and nostalgic vibe. This place truly brings back memories
+        of how great dining spots used to be.
+      languageCode: en
+    originalText:
+      text: >-
+        It’s been years since I’ve experienced service this exceptional. The
+        atmosphere is warm and inviting. The food is really good, and the prices
+        are just as impressive!
+
+
+        The decor is absolutely charming, with foilage and soft lighting that
+        create a cozy and nostalgic vibe. This place truly brings back memories
+        of how great dining spots used to be.
+      languageCode: en
+    authorAttribution:
+      displayName: Nina Narvaez
+      uri: https://www.google.com/maps/contrib/112027197878831217909/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXBexeX1P1ZAB3Gpu9mmH5NHl9UhWYGU-kKC6jL9fuWaqfAMqXE=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-02-07T04:25:29.895014Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURBNUtibWt3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURBNUtibWt3RRAB!2m1!1s0x808fb433aeb01b9d:0x913e044ca9899504
+  - name: >-
+      places/ChIJnRuwrjO0j4ARBJWJqUwEPpE/reviews/ChZDSUhNMG9nS0VJQ0FnTURBbTV5Q01BEAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        Bay Sushi has been one of my favorite sushi spots for the longest time.
+        The freshness, authenticity, and exceptional service set it apart. I’ve
+        learned my lesson—never again will I gamble on a random sushi place
+        because, compared to Bay Sushi, nothing else comes close. I truly
+        appreciate the integrity and authenticity in how this restaurant is run.
+        If you’re looking for the best sushi experience, Bay Sushi comes highly
+        recommended!
+      languageCode: en
+    originalText:
+      text: >-
+        Bay Sushi has been one of my favorite sushi spots for the longest time.
+        The freshness, authenticity, and exceptional service set it apart. I’ve
+        learned my lesson—never again will I gamble on a random sushi place
+        because, compared to Bay Sushi, nothing else comes close. I truly
+        appreciate the integrity and authenticity in how this restaurant is run.
+        If you’re looking for the best sushi experience, Bay Sushi comes highly
+        recommended!
+      languageCode: en
+    authorAttribution:
+      displayName: Truth Integrity
+      uri: https://www.google.com/maps/contrib/115883587163263558012/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWTa4KMpzCV2YU_5Ry9SNUnxfvk1h0-00zeQQNBZTHH_iGcKv60Cg=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-02-12T01:34:38.403902Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURBbTV5Q01BEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURBbTV5Q01BEAE!2m1!1s0x808fb433aeb01b9d:0x913e044ca9899504
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors consistently praise the warm and
+  attentive service at this sushi spot, creating a cozy atmosphere that feels
+  inviting from the moment you walk in. Many highlight the freshness of the
+  rolls and entrees, noting how the unique presentations and flavors make every
+  meal memorable without breaking the bank. Feedback often mentions the great
+  value, with affordable combos that include favorites like miso soup and spicy
+  tuna rolls, perfect for a laid-back lunch or dinner. Overall, people
+  appreciate the authentic vibe and quick turnaround, making it a go-to choice
+  for those hunting for reliable sushi restaurants in the area. While opinions
+  vary slightly on specific rolls, the consensus leans positive, encouraging
+  anyone nearby to give it a try for a genuinely enjoyable experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
+curbside_pickup: false
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
 menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: false
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Japanese eatery in a hip shopping-center space serving sushi, udon & bento
+  entrees, plus sake.
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Blowfish Sushi & Ramen"
+title: Blowfish Sushi & Ramen
 permalink: /illinois/chicago/blowfish-sushi-ramen.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
 seo:
-  name: "Blowfish Sushi & Ramen"
-  type: Restaurant
+  type: restaurant
   links: http://blowfishchicago.com/
-description: "Creative Asian-fusion fare & sushi in modern, minimalist digs with a BYO policy. Blowfish Sushi & Ramen serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJo6S8k4LRD4gRdaIrevdrc_Y
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $20 &ndash; $30
 rating: '4.7'
 rating_count: 0
 website: http://blowfishchicago.com/
+description: >-
+  Discover Blowfish Sushi & Ramen in Chicago, IL$$$Blowfish Sushi & Ramen in
+  Chicago, IL, stands out as a contemporary Japanese eatery blending fresh sushi
+  rolls and hearty ramen in a cozy, minimalist setting that appeals to those
+  seeking authentic flavors in a relaxed environment. This spot offers creative
+  Asian-fusion dishes that highlight high-quality ingredients, making it a go-to
+  choice for sushi enthusiasts exploring nearby Japanese dining options. With
+  its thoughtful accessibility features, such as wheelchair-friendly entrances
+  and restrooms, it ensures a welcoming experience for all visitors. The
+  eatery's BYO policy adds a fun, personalized touch, allowing patrons to
+  enhance their meal effortlessly. Whether you're in the mood for top-rated
+  sushi or innovative ramen bowls, this Chicago gem delivers a memorable dining
+  adventure that combines tradition with modern vibes.
+generative_summary: >-
+  Discover Blowfish Sushi & Ramen in Chicago, IL$$$Blowfish Sushi & Ramen in
+  Chicago, IL, stands out as a contemporary Japanese eatery blending fresh sushi
+  rolls and hearty ramen in a cozy, minimalist setting that appeals to those
+  seeking authentic flavors in a relaxed environment. This spot offers creative
+  Asian-fusion dishes that highlight high-quality ingredients, making it a go-to
+  choice for sushi enthusiasts exploring nearby Japanese dining options. With
+  its thoughtful accessibility features, such as wheelchair-friendly entrances
+  and restrooms, it ensures a welcoming experience for all visitors. The
+  eatery's BYO policy adds a fun, personalized touch, allowing patrons to
+  enhance their meal effortlessly. Whether you're in the mood for top-rated
+  sushi or innovative ramen bowls, this Chicago gem delivers a memorable dining
+  adventure that combines tradition with modern vibes.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJo6S8k4LRD4gRdaIrevdrc_Y/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3dzRHaVl3EAE
@@ -358,6 +383,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURnNHN5V293RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURnNHN5V293RRAB!2m1!1s0x880fd18293bca4a3:0xf6736bf77a2ba275
+review_summary: >-
+  What Customers Are Saying About This Spot$$$Folks who visit this sushi
+  restaurant often rave about the delicious and flavorful dishes, like the
+  standout ramen and fresh rolls that keep diners coming back for more. Many
+  appreciate the friendly service and accommodating staff who go out of their
+  way to handle dietary needs, making it a reliable choice for everyone from
+  solo eaters to groups. The intimate atmosphere and generous portions add to
+  the appeal, creating a cozy spot perfect for casual meals or date nights
+  without breaking the bank. Overall, the positive buzz highlights how this
+  place nails the balance of quality food and welcoming vibes, encouraging
+  visitors to try it for themselves. If you're on the hunt for satisfying
+  Japanese-inspired eats nearby, the feedback suggests it's well worth the trip
+  for a solid, enjoyable experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidStreetParking: true
   valetParking: false
@@ -389,8 +428,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Creative Asian-fusion fare & sushi in modern, minimalist digs with a BYO
   policy.
 

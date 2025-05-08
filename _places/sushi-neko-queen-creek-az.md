@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Neko"
+title: Sushi Neko
 permalink: /arizona/queen-creek/sushi-neko.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Queen Creek
 seo:
-  name: "Sushi Neko"
-  type: Restaurant
+  type: restaurant
   links: https://sushi-neko.shop/
-description: "Sushi Neko serves delicious sushi in Queen Creek, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ_95nX5RSKocRbARw3wRcHOI
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x872a52945f67deff:0xe21c5c04df70046c!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 20
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 8:30 PM'
     - 'Tuesday: 11:00 AM – 8:30 PM'
     - 'Wednesday: 11:00 AM – 8:30 PM'
@@ -178,54 +234,366 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:00 PM'
     - 'Saturday: 11:00 AM – 9:00 PM'
     - 'Sunday: 11:00 AM – 8:30 PM'
-  current:
-    - 'Monday: 11:00 AM – 8:30 PM'
-    - 'Tuesday: 11:00 AM – 8:30 PM'
-    - 'Wednesday: 11:00 AM – 8:30 PM'
-    - 'Thursday: 11:00 AM – 8:30 PM'
-    - 'Friday: 11:00 AM – 9:00 PM'
-    - 'Saturday: 11:00 AM – 9:00 PM'
-    - 'Sunday: 11:00 AM – 8:30 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: false
+    periods:
+      - open:
+          day: 0
+          hour: 11
+          minute: 0
+        close:
+          day: 0
+          hour: 20
+          minute: 30
+      - open:
+          day: 1
+          hour: 11
+          minute: 0
+        close:
+          day: 1
+          hour: 20
+          minute: 30
+      - open:
+          day: 2
+          hour: 11
+          minute: 0
+        close:
+          day: 2
+          hour: 20
+          minute: 30
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 20
+          minute: 30
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 20
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 11:00 AM – 8:30 PM'
+      - 'Tuesday: 11:00 AM – 8:30 PM'
+      - 'Wednesday: 11:00 AM – 8:30 PM'
+      - 'Thursday: 11:00 AM – 8:30 PM'
+      - 'Friday: Closed'
+      - 'Saturday: Closed'
+      - 'Sunday: 11:00 AM – 8:30 PM'
+    secondaryHoursType: HAPPY_HOUR
+    nextOpenTime: '2025-05-04T18:00:00Z'
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 11
+          minute: 15
+        close:
+          day: 0
+          hour: 20
+          minute: 15
+      - open:
+          day: 1
+          hour: 11
+          minute: 15
+        close:
+          day: 1
+          hour: 20
+          minute: 15
+      - open:
+          day: 2
+          hour: 11
+          minute: 15
+        close:
+          day: 2
+          hour: 20
+          minute: 15
+      - open:
+          day: 3
+          hour: 11
+          minute: 15
+        close:
+          day: 3
+          hour: 20
+          minute: 15
+      - open:
+          day: 4
+          hour: 11
+          minute: 15
+        close:
+          day: 4
+          hour: 20
+          minute: 15
+      - open:
+          day: 5
+          hour: 11
+          minute: 15
+        close:
+          day: 5
+          hour: 20
+          minute: 45
+      - open:
+          day: 6
+          hour: 11
+          minute: 15
+        close:
+          day: 6
+          hour: 20
+          minute: 45
+    weekdayDescriptions:
+      - 'Monday: 11:15 AM – 8:15 PM'
+      - 'Tuesday: 11:15 AM – 8:15 PM'
+      - 'Wednesday: 11:15 AM – 8:15 PM'
+      - 'Thursday: 11:15 AM – 8:15 PM'
+      - 'Friday: 11:15 AM – 8:45 PM'
+      - 'Saturday: 11:15 AM – 8:45 PM'
+      - 'Sunday: 11:15 AM – 8:15 PM'
+    secondaryHoursType: ONLINE_SERVICE_HOURS
+    nextCloseTime: '2025-05-04T03:45:00Z'
 phone: (480) 279-6578
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.7'
-rating_count: 0
+rating_count: 927
 website: https://sushi-neko.shop/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Explore Sushi Neko in Queen Creek, AZ$$$Sushi Neko in Queen Creek, AZ, stands
+  out as a welcoming spot for fresh sushi and Japanese-inspired dining, blending
+  casual vibes with a variety of flavorful dishes like sashimi and creative
+  rolls. This eatery features a relaxed atmosphere complete with a bar and happy
+  hour specials, making it ideal for those seeking tasty options in a laid-back
+  setting. Accessibility is a key highlight, with wheelchair-friendly parking,
+  entrances, and seating that ensure everyone can enjoy the experience. Patrons
+  appreciate the moderate pricing and extensive menu that caters to different
+  tastes, including vegetarian choices. Open daily with extended hours on
+  weekends, it's a convenient choice for anyone looking for quality Japanese
+  cuisine nearby.
+generative_summary: >-
+  Explore Sushi Neko in Queen Creek, AZ$$$Sushi Neko in Queen Creek, AZ, stands
+  out as a welcoming spot for fresh sushi and Japanese-inspired dining, blending
+  casual vibes with a variety of flavorful dishes like sashimi and creative
+  rolls. This eatery features a relaxed atmosphere complete with a bar and happy
+  hour specials, making it ideal for those seeking tasty options in a laid-back
+  setting. Accessibility is a key highlight, with wheelchair-friendly parking,
+  entrances, and seating that ensure everyone can enjoy the experience. Patrons
+  appreciate the moderate pricing and extensive menu that caters to different
+  tastes, including vegetarian choices. Open daily with extended hours on
+  weekends, it's a convenient choice for anyone looking for quality Japanese
+  cuisine nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ_95nX5RSKocRbARw3wRcHOI/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJeWNDb1J3EAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Amazing little sushi place! Friendly staff and delicious food! Family
+        friendly but limited seating.
+      languageCode: en
+    originalText:
+      text: >-
+        Amazing little sushi place! Friendly staff and delicious food! Family
+        friendly but limited seating.
+      languageCode: en
+    authorAttribution:
+      displayName: Mary Hon
+      uri: https://www.google.com/maps/contrib/110478130884882262495/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWDLkjftYntm3KtRa4bOqSq4jkkaWHo9IFxOuj4AUq_krihZRw3=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-03T02:25:33.716345Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNJeWNDb1J3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNJeWNDb1J3EAE!2m1!1s0x872a52945f67deff:0xe21c5c04df70046c
+  - name: >-
+      places/ChIJ_95nX5RSKocRbARw3wRcHOI/reviews/ChdDSUhNMG9nS0VJQ0FnTURnc09DRXRnRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        I absolutely love coming here! It's a 15minute drive from my house and
+        there are so many places in between, that I could go to but the service
+        and quality of food is unbeatable! Also the fact that it's busy every
+        time I've come and still get top service and quality! I have always had
+        a go to sushi roll anywhere I go but I tried the Viking roll tonight and
+        have changed my mind and now have a new favorite! Love this place!
+      languageCode: en
+    originalText:
+      text: >-
+        I absolutely love coming here! It's a 15minute drive from my house and
+        there are so many places in between, that I could go to but the service
+        and quality of food is unbeatable! Also the fact that it's busy every
+        time I've come and still get top service and quality! I have always had
+        a go to sushi roll anywhere I go but I tried the Viking roll tonight and
+        have changed my mind and now have a new favorite! Love this place!
+      languageCode: en
+    authorAttribution:
+      displayName: Chloe Roadruck
+      uri: https://www.google.com/maps/contrib/111236981669342977504/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJQ2U_WwuZeU00BzR9O71EwnvIm1bxheHvodLWAoSEkJmq-Bw=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-02-22T03:11:45.819748Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURnc09DRXRnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURnc09DRXRnRRAB!2m1!1s0x872a52945f67deff:0xe21c5c04df70046c
+  - name: >-
+      places/ChIJ_95nX5RSKocRbARw3wRcHOI/reviews/ChdDSUhNMG9nS0VJQ0FnSUR6djgyZ3VRRRAB
+    relativePublishTimeDescription: 10 months ago
+    rating: 5
+    text:
+      text: >-
+        This is probably the best sushi place I have ever been too. If you have
+        the chance to come eat here I would recommend it. The staff was amazing,
+        they were kind and attentive. I have a celiac and they have a great
+        gluten free menu and they also took time to clean the kitchen to
+        minimize cross contamination which is truly going the extra mile. The
+        hostess was so sweet and knowledgeable and the food was exceptional!
+        I’ve eaten quite a few spicy tuna rolls and the one I got here was by
+        far the best! The fish was fresh, their rice was seasoned perfectly, I
+        don’t live out in queen creek but I will be making the drive down here
+        again just to come eat at Sushi Neko.
+      languageCode: en
+    originalText:
+      text: >-
+        This is probably the best sushi place I have ever been too. If you have
+        the chance to come eat here I would recommend it. The staff was amazing,
+        they were kind and attentive. I have a celiac and they have a great
+        gluten free menu and they also took time to clean the kitchen to
+        minimize cross contamination which is truly going the extra mile. The
+        hostess was so sweet and knowledgeable and the food was exceptional!
+        I’ve eaten quite a few spicy tuna rolls and the one I got here was by
+        far the best! The fish was fresh, their rice was seasoned perfectly, I
+        don’t live out in queen creek but I will be making the drive down here
+        again just to come eat at Sushi Neko.
+      languageCode: en
+    authorAttribution:
+      displayName: mynamjo
+      uri: https://www.google.com/maps/contrib/109939347127504785152/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWBXrTVwUi54OXzXLrLEr1iVDdU1bLiUnkAcutpuyc-xhaYbNk=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-06-13T19:57:51.473245Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR6djgyZ3VRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR6djgyZ3VRRRAB!2m1!1s0x872a52945f67deff:0xe21c5c04df70046c
+  - name: >-
+      places/ChIJ_95nX5RSKocRbARw3wRcHOI/reviews/ChdDSUhNMG9nS0VJQ0FnTUNvanJIUDVnRRAB
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        Did a pickup order of lava, sun-kissed and spicy tuna. Food was ready
+        when they said it would be done, modifications printed on receipt. Food
+        was excellent and decent portions. Moved into the area and this will be
+        our new sushi place.
+      languageCode: en
+    originalText:
+      text: >-
+        Did a pickup order of lava, sun-kissed and spicy tuna. Food was ready
+        when they said it would be done, modifications printed on receipt. Food
+        was excellent and decent portions. Moved into the area and this will be
+        our new sushi place.
+      languageCode: en
+    authorAttribution:
+      displayName: Tim Sagel
+      uri: https://www.google.com/maps/contrib/102186893342202971665/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLpxA49ZiHzjavg7GqUV7wi7YiNfuns_hHYpf2m5odcvZEsCw=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-17T02:03:57.379493Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNvanJIUDVnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNvanJIUDVnRRAB!2m1!1s0x872a52945f67deff:0xe21c5c04df70046c
+  - name: >-
+      places/ChIJ_95nX5RSKocRbARw3wRcHOI/reviews/ChZDSUhNMG9nS0VJQ0FnSUREbHBQUk93EAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        Great little sushi spot out in the QC.  Very tight quarters inside with
+        small tables but it worked. This place is pretty busy with a mix of eat
+        in and pick ups. You order your food and pay first then it gets brought
+        to you which a little odd for a restaurant but it was adequate. The
+        staff is super friendly and the food was good.
+
+
+        Would go back.
+      languageCode: en
+    originalText:
+      text: >-
+        Great little sushi spot out in the QC.  Very tight quarters inside with
+        small tables but it worked. This place is pretty busy with a mix of eat
+        in and pick ups. You order your food and pay first then it gets brought
+        to you which a little odd for a restaurant but it was adequate. The
+        staff is super friendly and the food was good.
+
+
+        Would go back.
+      languageCode: en
+    authorAttribution:
+      displayName: David Ekiss
+      uri: https://www.google.com/maps/contrib/102858824162050764723/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXxZIFKLMrB0AKrV2ZhAYodk0-TvO7UR6c5r_VvkFJbyu0omAKQ=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-04-09T02:39:40.870358Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUREbHBQUk93EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUREbHBQUk93EAE!2m1!1s0x872a52945f67deff:0xe21c5c04df70046c
+review_summary: >-
+  Insights from Recent Feedback$$$Folks rave about the fresh flavors and
+  generous portions at this sushi spot, with standout rolls like spicy tuna and
+  unique creations earning high marks for their taste and quality. Many
+  appreciate the friendly service and efficient handling of orders, even during
+  busy times, which keeps the vibe upbeat and welcoming for families or groups.
+  While the space is cozy with limited seating, it's praised for being
+  family-friendly and accommodating special dietary needs like gluten-free
+  options. Overall, visitors find it worth the trip, highlighting the consistent
+  excellence that makes it a top pick among local dining spots. If you're on the
+  hunt for reliable sushi options close to home, this place delivers a
+  satisfying experience that keeps people coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  paidStreetParking: false
+  valetParking: false
+payment_options:
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: false
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
+curbside_pickup: false
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
 live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
+menu_for_children: true
+outdoor_seating: true
+reservable: false
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
 serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

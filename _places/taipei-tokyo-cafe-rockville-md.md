@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Taipei Tokyo Cafe"
+title: Taipei Tokyo Cafe
 permalink: /maryland/rockville/taipei-tokyo-cafe.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Rockville
 seo:
-  name: "Taipei Tokyo Cafe"
-  type: Restaurant
+  type: restaurant
   links: http://www.taipei-tokyo.net/
-description: "Longtime spot offering Chinese, Thai & Japanese fare including sushi in a casual setting. Taipei Tokyo Cafe serves delicious sushi in Rockville, Maryland. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJIZrY4yTMt4kRZnmc1H0NFSs
 photos:
   - name: >-
@@ -143,7 +141,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICHyobo3AE!2e10!4m2!3m1!1s0x89b7cc24e3d89a21:0x2b150d7dd49c7966
 address: Metro Pike Shopping Center, 11510 Rockville Pike, Rockville, MD 20852, USA
-street: Metro Pike Shopping Center, 11510 Rockville Pike
+street: Metro Pike Shopping Center,11510 Rockville Pike
 city: Rockville
 state: MD
 zip: '20852'
@@ -185,6 +183,31 @@ price_range: $10 &ndash; $20
 rating: '4.8'
 rating_count: 0
 website: http://www.taipei-tokyo.net/
+description: >-
+  Discover Taipei Tokyo Cafe in Rockville, MD$$$Taipei Tokyo Cafe in Rockville,
+  MD, stands out as a welcoming hub for Asian cuisine enthusiasts, blending
+  flavors from Taiwan, Japan, and China in a relaxed environment. This spot
+  excels with its fresh sushi selections and diverse dishes that cater to a
+  variety of tastes, making it a convenient choice for anyone searching for
+  quality sushi options nearby. The cafe's casual atmosphere is enhanced by
+  thoughtful accessibility features, ensuring a comfortable visit for all
+  guests, while its menu highlights generous portions and flavorful combinations
+  that keep diners coming back. Whether you're in the mood for inventive rolls
+  or classic Asian favorites, this establishment delivers a satisfying
+  experience that's perfect for casual meals or quick takeout.
+generative_summary: >-
+  Discover Taipei Tokyo Cafe in Rockville, MD$$$Taipei Tokyo Cafe in Rockville,
+  MD, stands out as a welcoming hub for Asian cuisine enthusiasts, blending
+  flavors from Taiwan, Japan, and China in a relaxed environment. This spot
+  excels with its fresh sushi selections and diverse dishes that cater to a
+  variety of tastes, making it a convenient choice for anyone searching for
+  quality sushi options nearby. The cafe's casual atmosphere is enhanced by
+  thoughtful accessibility features, ensuring a comfortable visit for all
+  guests, while its menu highlights generous portions and flavorful combinations
+  that keep diners coming back. Whether you're in the mood for inventive rolls
+  or classic Asian favorites, this establishment delivers a satisfying
+  experience that's perfect for casual meals or quick takeout.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJIZrY4yTMt4kRZnmc1H0NFSs/reviews/ChZDSUhNMG9nS0VJQ0FnTURJMGE3Vkh3EAE
@@ -406,6 +429,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNJa01XVjRRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNJa01XVjRRRRAB!2m1!1s0x89b7cc24e3d89a21:0x2b150d7dd49c7966
+review_summary: >-
+  What Customers Love About This Sushi Spot$$$Folks rave about the tasty Asian
+  dishes at this spot, especially the fresh sushi and hearty portions that make
+  every meal feel like a great value. Many highlight how the flavorful options,
+  like creative rolls and comforting noodles, hit the spot without breaking the
+  bank, creating a consistently enjoyable vibe for lunch or dinner. Visitors
+  often note the quick service and welcoming staff that add to the overall ease
+  of dining here, turning simple visits into pleasant experiences. While not
+  every dish is a home run for everyone, the general consensus leans positive,
+  with plenty of praise for the variety that suits groups or families looking
+  for reliable eats. If you're on the hunt for top-rated sushi nearby, this
+  place delivers a solid mix of quality and convenience that keeps the feedback
+  upbeat.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -438,8 +475,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Longtime spot offering Chinese, Thai & Japanese fare including sushi in a
   casual setting.
 

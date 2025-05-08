@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "KENKA"
+title: KENKA
 permalink: /new-york/new-york/kenka.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "KENKA"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Japanese restaurant known for street-food-style fare & inexpensive beer, along with flashy decor. KENKA serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, and dinner."
 place_id: ChIJiRfje5xZwokR474atxPrCwE
 photos:
   - name: >-
@@ -184,6 +182,29 @@ price_range: $20 &ndash; $30
 rating: '4.1'
 rating_count: 0
 website: null
+description: >-
+  Discover KENKA in New York, NY$$$KENKA in New York, NY, is a vibrant Japanese
+  restaurant celebrated for its casual vibe and flavorful street food offerings
+  that capture the essence of authentic Japanese dining. This spot delights with
+  an array of affordable dishes like savory takoyaki and hearty okonomiyaki,
+  paired perfectly with selections of beer and sake for a complete experience.
+  The flashy decor adds a fun, energetic atmosphere, making it an ideal choice
+  for those exploring Japanese places near me who crave a lively setting without
+  breaking the bank. Whether you're in the mood for quick bites or a relaxed
+  hangout, KENKA delivers on fresh flavors and a welcoming environment that
+  keeps locals coming back.
+generative_summary: >-
+  Discover KENKA in New York, NY$$$KENKA in New York, NY, is a vibrant Japanese
+  restaurant celebrated for its casual vibe and flavorful street food offerings
+  that capture the essence of authentic Japanese dining. This spot delights with
+  an array of affordable dishes like savory takoyaki and hearty okonomiyaki,
+  paired perfectly with selections of beer and sake for a complete experience.
+  The flashy decor adds a fun, energetic atmosphere, making it an ideal choice
+  for those exploring Japanese places near me who crave a lively setting without
+  breaking the bank. Whether you're in the mood for quick bites or a relaxed
+  hangout, KENKA delivers on fresh flavors and a welcoming environment that
+  keeps locals coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJiRfje5xZwokR474atxPrCwE/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3NTlqVDdnRRAB
@@ -473,6 +494,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChRDSUhNMG9nS0VJQ0FnSURIdXA4MRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChRDSUhNMG9nS0VJQ0FnSURIdXA4MRAB!2m1!1s0x89c2599c7be31789:0x10beb13b71abee3
+review_summary: >-
+  What Visitors Are Saying$$$Visitors often praise KENKA for its tasty,
+  budget-friendly Japanese dishes that make for a satisfying meal, especially
+  when shared with friends in its lively setting. Many highlight the great value
+  and variety, like the flavorful udon and appetizers that hit the spot without
+  emptying wallets, creating a fun vibe reminiscent of a classic izakaya. While
+  the energetic atmosphere and quick service on busy nights add to the
+  excitement, some note that crowds can lead to longer waits or occasional
+  service slowdowns that are worth navigating for the overall experience. All in
+  all, it's a solid pick for anyone seeking top-rated Japanese fare in the city,
+  as long as you go in expecting a bustling scene. If you're hunting for
+  Japanese restaurants near me, this place offers a memorable mix of
+  affordability and flavor that keeps the good times rolling.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: false
   freeStreetParking: true
@@ -505,8 +540,8 @@ serves_lunch: null
 serves_vegetarian_food: false
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Japanese restaurant known for street-food-style fare & inexpensive beer, along
   with flashy decor.
 

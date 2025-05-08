@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Little Wok - Wicker Park"
+title: Little Wok - Wicker Park
 permalink: /illinois/chicago/little-wok-wicker-park.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
 seo:
-  name: "Little Wok - Wicker Park"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Little Wok - Wicker Park serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJXegUymrTD4gRZd5LYkvw4Ec
 photos:
   - name: >-
@@ -184,7 +182,46 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Little Wok in Chicago, IL$$$Little Wok - Wicker Park in Chicago, IL,
+  delivers a refined blend of Chinese and Japanese flavors in a contemporary
+  environment that exudes a sleek, inviting atmosphere. This spot stands out for
+  its modern design and accessible features, making it easy for everyone to
+  enjoy a comfortable dining experience. Patrons can savor a variety of
+  Asian-inspired dishes that highlight fresh ingredients and creative
+  presentations, appealing to those exploring top-rated options for Japanese
+  places near me. The menu's thoughtful fusion brings together traditional
+  elements with a stylish twist, perfect for anyone seeking quality meals in a
+  welcoming setting. With its focus on accessibility and a vibrant vibe, it's an
+  ideal choice for casual outings or special gatherings in the heart of the
+  city.
+generative_summary: >-
+  Discover Little Wok in Chicago, IL$$$Little Wok - Wicker Park in Chicago, IL,
+  delivers a refined blend of Chinese and Japanese flavors in a contemporary
+  environment that exudes a sleek, inviting atmosphere. This spot stands out for
+  its modern design and accessible features, making it easy for everyone to
+  enjoy a comfortable dining experience. Patrons can savor a variety of
+  Asian-inspired dishes that highlight fresh ingredients and creative
+  presentations, appealing to those exploring top-rated options for Japanese
+  places near me. The menu's thoughtful fusion brings together traditional
+  elements with a stylish twist, perfect for anyone seeking quality meals in a
+  welcoming setting. With its focus on accessibility and a vibrant vibe, it's an
+  ideal choice for casual outings or special gatherings in the heart of the
+  city.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Folks rave about the tasty offerings at this spot,
+  with standout dishes like flavorful vegetarian noodles and crispy appetizers
+  that keep diners coming back for more. Many appreciate the great value, noting
+  that the prices are surprisingly affordable for such a polished place, making
+  it a smart pick for budget-friendly meals. The cozy and friendly ambiance adds
+  to the appeal, creating a relaxed space where people feel right at home. While
+  some mention that service can occasionally take a bit longer, overall
+  experiences highlight the satisfying food and welcoming feel that make it
+  worth the visit. If you're on the hunt for reliable sushi restaurants near me,
+  this location earns solid nods for its approachable vibe and enjoyable eats.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +247,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

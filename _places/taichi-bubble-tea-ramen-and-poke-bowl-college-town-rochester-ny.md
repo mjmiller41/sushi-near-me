@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Taichi Bubble Tea, Ramen and Poke Bowl - College town"
+title: Taichi Bubble Tea, Ramen and Poke Bowl - College town
 permalink: /new-york/rochester/taichi-bubble-tea-ramen-and-poke-bowl-college-town.html
 stateAbbr: NY
 stateName: New York
 cityName: Rochester
 seo:
-  name: "Taichi Bubble Tea, Ramen and Poke Bowl - College town"
-  type: Restaurant
-  links: null
-description: "Taichi Bubble Tea, Ramen and Poke Bowl - College town serves delicious sushi in Rochester, New York. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://heroorder.com/taichibubbletea/
 place_id: ChIJ120_5dG01okRMTkrkrGwhZ8
 photos:
   - name: >-
@@ -169,8 +167,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89d6b4d1e53f6dd7:0x9f85b0b1922b3931!10e5
 primary_type: Tea House
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:30 PM'
+    - 'Tuesday: 11:00 AM – 9:30 PM'
+    - 'Wednesday: 11:00 AM – 9:30 PM'
+    - 'Thursday: 11:00 AM – 9:30 PM'
+    - 'Friday: 11:00 AM – 10:00 PM'
+    - 'Saturday: 11:00 AM – 10:00 PM'
+    - 'Sunday: 11:00 AM – 9:30 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -178,13 +241,51 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
+phone: (585) 448-0220
+price_level: PRICE_LEVEL_MODERATE
 price_range: null
-rating: null
-rating_count: 0
-website: null
+rating: '4.4'
+rating_count: 925
+website: https://heroorder.com/taichibubbletea/
+description: >-
+  About Taichi Bubble Tea in Rochester, NY$$$Taichi Bubble Tea, Ramen and Poke
+  Bowl in Rochester, NY, offers a casual dining experience centered around fresh
+  Asian-inspired dishes that highlight bubble tea, ramen, and sushi options.
+  This spot stands out for its welcoming atmosphere and variety of flavorful
+  specialties, making it a go-to for those seeking quick, satisfying meals with
+  a modern twist. Accessibility features like wheelchair-friendly parking and
+  entrances add to its appeal for all visitors, ensuring everyone can enjoy the
+  vibrant flavors on offer. With extended hours from late morning into the
+  evening, it's an ideal choice for anyone exploring sushi restaurants or
+  Japanese-inspired places nearby, blending convenience with tasty, authentic
+  tastes that keep customers coming back.
+generative_summary: >-
+  About Taichi Bubble Tea in Rochester, NY$$$Taichi Bubble Tea, Ramen and Poke
+  Bowl in Rochester, NY, offers a casual dining experience centered around fresh
+  Asian-inspired dishes that highlight bubble tea, ramen, and sushi options.
+  This spot stands out for its welcoming atmosphere and variety of flavorful
+  specialties, making it a go-to for those seeking quick, satisfying meals with
+  a modern twist. Accessibility features like wheelchair-friendly parking and
+  entrances add to its appeal for all visitors, ensuring everyone can enjoy the
+  vibrant flavors on offer. With extended hours from late morning into the
+  evening, it's an ideal choice for anyone exploring sushi restaurants or
+  Japanese-inspired places nearby, blending convenience with tasty, authentic
+  tastes that keep customers coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback Highlights$$$Visitors to this spot often praise the fresh
+  ingredients and diverse menu, noting that the bubble tea and ramen dishes
+  deliver a solid mix of flavors that hit the spot for casual meals. Many
+  appreciate the generous portions and variety, making it a favorite for groups
+  or anyone in the mood for satisfying Asian fare without the fuss. While some
+  mention minor waits during peak times, the overall vibe remains positive, with
+  folks highlighting the value for the price as a key plus. It's frequently
+  recommended for those searching for top-rated sushi or Japanese places close
+  by, offering an honest, enjoyable experience that balances fun and flavor. All
+  in all, the high ratings suggest it's a reliable choice for tasty bites that
+  leave you feeling content and eager to return.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +311,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

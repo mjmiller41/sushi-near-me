@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Bonchon First Hill"
+title: Bonchon First Hill
 permalink: /washington/seattle/bonchon-first-hill.html
 stateAbbr: WA
 stateName: Washington
 cityName: Seattle
 seo:
-  name: "Bonchon First Hill"
-  type: Restaurant
-  links: https://locations.bonchon.com/ll/US/WA/Seattle/554-Broadway?utm_source=google-business-profile&utm_medium=organic&utm_campaign=business-listing&utm_content=seattle-broadway
-description: "Bonchon First Hill serves delicious sushi in Seattle, Washington. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://locations.bonchon.com/ll/US/WA/Seattle/554-Broadway
 place_id: ChIJSbLlDMhqkFQRxYcqw_WK-rM
 photos:
   - name: >-
@@ -169,7 +167,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x54906ac80ce5b249:0xb3fa8af5c32a87c5!10e5
 primary_type: Asian Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:00 PM'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -177,14 +233,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:00 PM'
     - 'Saturday: 11:00 AM – 10:00 PM'
     - 'Sunday: 11:00 AM – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 10:00 PM'
-    - 'Saturday: 11:00 AM – 10:00 PM'
-    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T05:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,10 +245,53 @@ phone: (206) 420-8225
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '3.8'
-rating_count: 0
-website: >-
-  https://locations.bonchon.com/ll/US/WA/Seattle/554-Broadway?utm_source=google-business-profile&utm_medium=organic&utm_campaign=business-listing&utm_content=seattle-broadway
+rating_count: 542
+website: https://locations.bonchon.com/ll/US/WA/Seattle/554-Broadway
+description: >-
+  Discover Bonchon First Hill in Seattle, WA$$$Bonchon First Hill in Seattle,
+  WA, stands out as a vibrant chain restaurant in the Yesler Terrace
+  neighborhood, specializing in Korean fried chicken and a variety of Asian
+  fusion dishes that blend bold flavors with fresh ingredients. This spot offers
+  a welcoming atmosphere for dine-in and takeout, making it ideal for quick
+  meals or relaxed gatherings, with accessibility features like
+  wheelchair-friendly entrances and seating that ensure everyone can enjoy the
+  experience. Patrons can savor signature items such as crispy wings and
+  flavorful rice dishes, all prepared with a focus on authentic Asian tastes
+  that appeal to those seeking diverse culinary options nearby. The restaurant
+  operates daily with convenient hours, providing a reliable choice for lunch or
+  dinner in a bustling urban setting. Whether you're exploring Asian-inspired
+  eateries close to you, this location delivers a satisfying mix of tradition
+  and convenience that keeps locals returning.
+generative_summary: >-
+  Discover Bonchon First Hill in Seattle, WA$$$Bonchon First Hill in Seattle,
+  WA, stands out as a vibrant chain restaurant in the Yesler Terrace
+  neighborhood, specializing in Korean fried chicken and a variety of Asian
+  fusion dishes that blend bold flavors with fresh ingredients. This spot offers
+  a welcoming atmosphere for dine-in and takeout, making it ideal for quick
+  meals or relaxed gatherings, with accessibility features like
+  wheelchair-friendly entrances and seating that ensure everyone can enjoy the
+  experience. Patrons can savor signature items such as crispy wings and
+  flavorful rice dishes, all prepared with a focus on authentic Asian tastes
+  that appeal to those seeking diverse culinary options nearby. The restaurant
+  operates daily with convenient hours, providing a reliable choice for lunch or
+  dinner in a bustling urban setting. Whether you're exploring Asian-inspired
+  eateries close to you, this location delivers a satisfying mix of tradition
+  and convenience that keeps locals returning.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Recent Reviews$$$Visitors often highlight the mouthwatering soy
+  garlic wings and tender boneless chicken as standout features, making this
+  Asian fusion spot a favorite for flavorful, satisfying meals. Many appreciate
+  the tasty fried rice and well-seasoned fries that add a nice touch to the
+  overall experience, creating a casual vibe that's perfect for a quick bite.
+  While some note that portions might feel a bit modest for the price, the bold
+  flavors and variety keep the energy positive and engaging. Overall, it's seen
+  as a solid pick for anyone craving authentic Asian dishes, with the general
+  consensus leaning towards repeat visits despite minor drawbacks. If you're on
+  the hunt for top-rated Asian options nearby, this place delivers a genuine
+  taste adventure that's worth checking out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +317,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

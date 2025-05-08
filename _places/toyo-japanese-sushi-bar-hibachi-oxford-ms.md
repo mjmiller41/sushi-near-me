@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Toyo Japanese Sushi Bar & Hibachi"
+title: Toyo Japanese Sushi Bar & Hibachi
 permalink: /mississippi/oxford/toyo-japanese-sushi-bar-hibachi.html
 stateAbbr: MS
 stateName: Mississippi
 cityName: Oxford
 seo:
-  name: "Toyo Japanese Sushi Bar & Hibachi"
-  type: Restaurant
+  type: restaurant
   links: http://www.toyooxford.com/
-description: "Spacious, kid-friendly Japanese eatery specializing in sushi & hibachi fare, plus happy hour. Toyo Japanese Sushi Bar & Hibachi serves delicious sushi in Oxford, Mississippi. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJV413x2hwgIgRSkBf1vgLoeI
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: null
 rating: '4.5'
 rating_count: 0
 website: http://www.toyooxford.com/
+description: >-
+  Discover Toyo Japanese Sushi Bar in Oxford, MS$$$Toyo Japanese Sushi Bar &
+  Hibachi in Oxford, MS, stands out as a welcoming spot for fresh sushi and
+  interactive hibachi dining, perfect for those seeking top-rated Japanese
+  cuisine nearby. This eatery features a spacious layout with teppanyaki-style
+  meals cooked right at your table, blending entertainment with flavorful dishes
+  like sushi rolls and hearty bento boxes. Accessibility is a key highlight,
+  with options like wheelchair-friendly entrances and seating that make it easy
+  for everyone to enjoy. The bar adds to the appeal with happy hour specials and
+  a variety of cocktails, making it a go-to choice for casual meals or group
+  gatherings at sushi restaurants in the area. Whether you're looking for sushi
+  places near me or a fun night out, Toyo's combination of quality ingredients
+  and lively atmosphere ensures a memorable visit.
+generative_summary: >-
+  Discover Toyo Japanese Sushi Bar in Oxford, MS$$$Toyo Japanese Sushi Bar &
+  Hibachi in Oxford, MS, stands out as a welcoming spot for fresh sushi and
+  interactive hibachi dining, perfect for those seeking top-rated Japanese
+  cuisine nearby. This eatery features a spacious layout with teppanyaki-style
+  meals cooked right at your table, blending entertainment with flavorful dishes
+  like sushi rolls and hearty bento boxes. Accessibility is a key highlight,
+  with options like wheelchair-friendly entrances and seating that make it easy
+  for everyone to enjoy. The bar adds to the appeal with happy hour specials and
+  a variety of cocktails, making it a go-to choice for casual meals or group
+  gatherings at sushi restaurants in the area. Whether you're looking for sushi
+  places near me or a fun night out, Toyo's combination of quality ingredients
+  and lively atmosphere ensures a memorable visit.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJV413x2hwgIgRSkBf1vgLoeI/reviews/ChZDSUhNMG9nS0VJQ0FnTUNnaHFfdGRREAE
@@ -418,6 +443,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNIX2ZuRkZBEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNIX2ZuRkZBEAE!2m1!1s0x88807068c7778d57:0xe2a10bf8d65f404a
+review_summary: >-
+  What Customers Are Saying About the Experience$$$Visitors often rave about the
+  delicious sushi and hibachi options, noting that the fresh flavors and
+  generous portions make for a satisfying meal that's worth returning for. Many
+  appreciate the fun, interactive vibe at the hibachi tables, which adds
+  excitement and keeps things engaging for families and groups alike. While
+  service is generally described as friendly and attentive, some folks mention
+  occasional slip-ups like inconsistent preparation or minor order mix-ups that
+  could use improvement. Overall, the upbeat atmosphere and tasty dishes like
+  the bento box lunch earn high marks, creating a lighthearted spot for anyone
+  hunting for best sushi near me. Despite a few mixed experiences, the general
+  consensus leans positive, making it a solid pick for those wanting reliable
+  Japanese fare with a fun twist.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -451,8 +490,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Spacious, kid-friendly Japanese eatery specializing in sushi & hibachi fare,
   plus happy hour.
 

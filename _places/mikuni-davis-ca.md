@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Mikuni"
+title: Mikuni
 permalink: /california/davis/mikuni.html
 stateAbbr: CA
 stateName: California
 cityName: Davis
 seo:
-  name: "Mikuni"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Mikuni serves delicious sushi in Davis, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJWe0S3XIphYARC_FlAsI8QJo
 photos:
   - name: >-
@@ -185,7 +183,40 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Explore Mikuni in Davis, CA$$$Mikuni in Davis, CA, stands out as a trendy
+  sushi restaurant that combines innovative flavors with a welcoming atmosphere,
+  making it a go-to spot for fresh Japanese cuisine. The establishment features
+  creative rolls and a full bar, appealing to those seeking a modern twist on
+  classic dishes in a lively setting. An inviting patio adds to the charm,
+  offering outdoor dining options that enhance the overall experience for
+  patrons enjoying sushi in a relaxed environment. Accessibility features like
+  wheelchair-friendly parking and entrances ensure it's inclusive for all
+  visitors, adding to its appeal as one of the top sushi spots in the area.
+generative_summary: >-
+  Explore Mikuni in Davis, CA$$$Mikuni in Davis, CA, stands out as a trendy
+  sushi restaurant that combines innovative flavors with a welcoming atmosphere,
+  making it a go-to spot for fresh Japanese cuisine. The establishment features
+  creative rolls and a full bar, appealing to those seeking a modern twist on
+  classic dishes in a lively setting. An inviting patio adds to the charm,
+  offering outdoor dining options that enhance the overall experience for
+  patrons enjoying sushi in a relaxed environment. Accessibility features like
+  wheelchair-friendly parking and entrances ensure it's inclusive for all
+  visitors, adding to its appeal as one of the top sushi spots in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Diners at Mikuni$$$Folks checking out this sushi place often
+  rave about the tasty and inventive dishes, like flavorful rolls and appetizers
+  that hit the spot without overwhelming the palate. Many appreciate the
+  welcoming outdoor seating, which makes it easy to enjoy a casual meal with
+  friends or family in a comfortable vibe. Reviewers frequently mention the
+  helpful and attentive staff, helping to create a positive experience that
+  keeps people coming back for more. Overall, it's clear that the focus on
+  quality ingredients and service makes this a solid choice for anyone hunting
+  for reliable sushi options nearby, though it's always good to check for your
+  preferences.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +242,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

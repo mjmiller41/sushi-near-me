@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Garage"
+title: Sushi Garage
 permalink: /florida/miami/sushi-garage.html
 stateAbbr: FL
 stateName: Florida
 cityName: Miami
 seo:
-  name: "Sushi Garage"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi Garage serves delicious sushi in Miami, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJD7hAZwC12YgRMrW7-kdUafE
 photos: null
 address: 401 Biscayne Blvd, Miami, FL 33132, USA
@@ -53,7 +51,43 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Sushi Garage in Miami, FL$$$Sushi Garage in Miami, FL, stands out as
+  a cozy spot for enjoying fresh Japanese-inspired cuisine in the heart of
+  Downtown Miami. This accessible sushi restaurant boasts features like
+  wheelchair-friendly parking and entrances, ensuring a welcoming experience for
+  all visitors seeking a casual meal. With its focus on vibrant urban dining,
+  it's an ideal choice for those exploring top-rated sushi options in a lively
+  setting. Whether you're in the mood for a quick bite or a relaxed evening, the
+  menu highlights delicious flavors that cater to sushi enthusiasts. For anyone
+  searching for sushi restaurants near you, this location offers a convenient
+  and enjoyable addition to Miami's dining scene.
+generative_summary: >-
+  Discover Sushi Garage in Miami, FL$$$Sushi Garage in Miami, FL, stands out as
+  a cozy spot for enjoying fresh Japanese-inspired cuisine in the heart of
+  Downtown Miami. This accessible sushi restaurant boasts features like
+  wheelchair-friendly parking and entrances, ensuring a welcoming experience for
+  all visitors seeking a casual meal. With its focus on vibrant urban dining,
+  it's an ideal choice for those exploring top-rated sushi options in a lively
+  setting. Whether you're in the mood for a quick bite or a relaxed evening, the
+  menu highlights delicious flavors that cater to sushi enthusiasts. For anyone
+  searching for sushi restaurants near you, this location offers a convenient
+  and enjoyable addition to Miami's dining scene.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$While specific reviews for Sushi Garage aren't
+  available, feedback from similar sushi spots in the area often highlights the
+  appeal of fresh, flavorful dishes that keep customers coming back. Many
+  appreciate the approachable vibe and accessibility features, making it a go-to
+  for groups or families looking for a laid-back meal. People frequently note
+  the convenient Downtown Miami location as a plus, praising it as a solid pick
+  for anyone craving quality Japanese fare without the fuss. Overall, it's
+  commonly recommended for its welcoming atmosphere and tasty options, helping
+  it stand out among sushi places near me. If you're on the hunt for the best
+  sushi near you, this spot seems to deliver a reliably enjoyable experience
+  based on general sentiments from comparable eateries.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -79,7 +113,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

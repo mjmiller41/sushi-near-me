@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "The Cliff Dining Pub"
+title: The Cliff Dining Pub
 permalink: /utah/draper/the-cliff-dining-pub.html
 stateAbbr: UT
 stateName: Utah
 cityName: Draper
 seo:
-  name: "The Cliff Dining Pub"
-  type: Restaurant
+  type: restaurant
   links: http://cliffdiningpub.com/
-description: "The Cliff Dining Pub serves delicious sushi in Draper, Utah. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJw1QSFmqHUocR-8kX2MWP9ew
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8752876a161254c3:0xecf58fc5d817c9fb!10e5
 primary_type: Bar
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 10
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 0
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 10
+        minute: 0
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 4:00 – 10:00 PM'
     - 'Tuesday: 4:00 – 10:00 PM'
     - 'Wednesday: 4:00 – 10:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 4:00 – 11:00 PM'
     - 'Saturday: 10:00 AM – 11:00 PM'
     - 'Sunday: 10:00 AM – 9:00 PM'
-  current:
-    - 'Monday: 4:00 – 10:00 PM'
-    - 'Tuesday: 4:00 – 10:00 PM'
-    - 'Wednesday: 4:00 – 10:00 PM'
-    - 'Thursday: 4:00 – 10:00 PM'
-    - 'Friday: 4:00 – 11:00 PM'
-    - 'Saturday: 10:00 AM – 11:00 PM'
-    - 'Sunday: 10:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T05:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,284 @@ phone: (801) 523-2053
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.3'
-rating_count: 0
+rating_count: 2162
 website: http://cliffdiningpub.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover The Cliff Dining Pub in Draper, UT$$$The Cliff Dining Pub in Draper,
+  UT, stands out as a welcoming gastropub blending global flavors with fresh
+  sushi options in a spacious, inviting setting. This spot features elevated pub
+  fare and sushi that appeal to those exploring local dining scenes, complete
+  with a patio offering stunning valley views for an enhanced meal experience.
+  Live music adds a lively vibe, making it a great choice for casual gatherings
+  or relaxed brunches, while the menu highlights creative dishes that cater to a
+  variety of tastes. Accessibility features ensure it's easy to enjoy, whether
+  you're stopping by for a quick bite or a full evening out, positioning it as a
+  top pick among sushi restaurants in the area.
+generative_summary: >-
+  Discover The Cliff Dining Pub in Draper, UT$$$The Cliff Dining Pub in Draper,
+  UT, stands out as a welcoming gastropub blending global flavors with fresh
+  sushi options in a spacious, inviting setting. This spot features elevated pub
+  fare and sushi that appeal to those exploring local dining scenes, complete
+  with a patio offering stunning valley views for an enhanced meal experience.
+  Live music adds a lively vibe, making it a great choice for casual gatherings
+  or relaxed brunches, while the menu highlights creative dishes that cater to a
+  variety of tastes. Accessibility features ensure it's easy to enjoy, whether
+  you're stopping by for a quick bite or a full evening out, positioning it as a
+  top pick among sushi restaurants in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJw1QSFmqHUocR-8kX2MWP9ew/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3aGNyQkhnEAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: "I never get disappointed with the food & service at Cliff house Dining pub . Sky , our server took care  of us and she was amazing ! She knew the menu  very well and made great suggestions. She refilled our drinks & always checked in on us to ensure that we had a wonderful dining experience.  She made it a very fun & enjoyable dining experience. We ordered :\n\nPrime rib ( cooked to perfection) . Tender , tasty and  a very nice flavor to it .  Loved their horseradish sauce . The mashed potatoes were tasty .  Real potatoes.\n\nBlackened Salmon  :  Firm with a slight bit of moistness.\_My niece enjoyed it very much . It was very tasty & great flavoring .\n\nSushi Nachos :  Very light , fresh & tasty !\n\nCoconut Shrimp: a crispy, golden-brown with a sweet coconut flavor . Shrimp was juicy . I think it’s one of the best Coconut shrimp I have ever tasted .\n\nFor  dessert we had vanilla butter cake ( thanks Sky, for the recommendation :) )\nAll I can say it was delicious.  You’ll just have to take my word for it .\n\nWe will definitely be back ! Thanks Sky for the fun & wonderful service !"
+      languageCode: en
+    originalText:
+      text: "I never get disappointed with the food & service at Cliff house Dining pub . Sky , our server took care  of us and she was amazing ! She knew the menu  very well and made great suggestions. She refilled our drinks & always checked in on us to ensure that we had a wonderful dining experience.  She made it a very fun & enjoyable dining experience. We ordered :\n\nPrime rib ( cooked to perfection) . Tender , tasty and  a very nice flavor to it .  Loved their horseradish sauce . The mashed potatoes were tasty .  Real potatoes.\n\nBlackened Salmon  :  Firm with a slight bit of moistness.\_My niece enjoyed it very much . It was very tasty & great flavoring .\n\nSushi Nachos :  Very light , fresh & tasty !\n\nCoconut Shrimp: a crispy, golden-brown with a sweet coconut flavor . Shrimp was juicy . I think it’s one of the best Coconut shrimp I have ever tasted .\n\nFor  dessert we had vanilla butter cake ( thanks Sky, for the recommendation :) )\nAll I can say it was delicious.  You’ll just have to take my word for it .\n\nWe will definitely be back ! Thanks Sky for the fun & wonderful service !"
+      languageCode: en
+    authorAttribution:
+      displayName: Sara Montoya
+      uri: https://www.google.com/maps/contrib/116293238202439557741/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUxPblAXLVNsKlr7bKDBxC2tc-SGwMd5Jn0LjMp5YySX_7oSrw2=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-03-27T02:29:38.784546Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUR3aGNyQkhnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUR3aGNyQkhnEAE!2m1!1s0x8752876a161254c3:0xecf58fc5d817c9fb
+  - name: >-
+      places/ChIJw1QSFmqHUocR-8kX2MWP9ew/reviews/ChdDSUhNMG9nS0VJQ0FnSUR2dDdiNDNRRRAB
+    relativePublishTimeDescription: 4 months ago
+    rating: 4
+    text:
+      text: >-
+        The Cliff Dining Pub in Draper, Utah, offers a modern American menu with
+        delicious brunch. It has scenic views, live music, and a bar serving
+        handcrafted cocktails. The ambiance and quality of the food are
+        exceptional.
+
+
+        However, experiences are more often good than not. However, on a recent
+        visit, no hosts were present at the front for 10 minutes, so we ended up
+        seating ourselves. Granted, this is an anomaly of my many visits. And I
+        hope it’s doesn’t become more frequent.
+
+
+        If you’re planning to visit, consider making reservations and checking
+        recent reviews to ensure the best experience.
+      languageCode: en
+    originalText:
+      text: >-
+        The Cliff Dining Pub in Draper, Utah, offers a modern American menu with
+        delicious brunch. It has scenic views, live music, and a bar serving
+        handcrafted cocktails. The ambiance and quality of the food are
+        exceptional.
+
+
+        However, experiences are more often good than not. However, on a recent
+        visit, no hosts were present at the front for 10 minutes, so we ended up
+        seating ourselves. Granted, this is an anomaly of my many visits. And I
+        hope it’s doesn’t become more frequent.
+
+
+        If you’re planning to visit, consider making reservations and checking
+        recent reviews to ensure the best experience.
+      languageCode: en
+    authorAttribution:
+      displayName: Ryan Hogan
+      uri: https://www.google.com/maps/contrib/114166427274236256443/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLSEo03C_KljB6RXiXnUcZjN8Ijmkef1cBEHyTpUY4T92iHPcA=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-12-25T01:59:31.149721Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR2dDdiNDNRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR2dDdiNDNRRRAB!2m1!1s0x8752876a161254c3:0xecf58fc5d817c9fb
+  - name: >-
+      places/ChIJw1QSFmqHUocR-8kX2MWP9ew/reviews/ChZDSUhNMG9nS0VJQ0FnSUN2NE52MUVREAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        I dined here yesterday but I have visited a couple of times previously.
+        I really enjoyed myself as I did in the past. The service was great. The
+        lighting and atmosphere on the bar side sets a chill vibe. The menu
+        options are wide and I had a great meal last night. The coconut shrimp
+        are super tasty. The old fashion that was recommended by the server was
+        on point. I will definitely be back and I highly recommend.
+      languageCode: en
+    originalText:
+      text: >-
+        I dined here yesterday but I have visited a couple of times previously.
+        I really enjoyed myself as I did in the past. The service was great. The
+        lighting and atmosphere on the bar side sets a chill vibe. The menu
+        options are wide and I had a great meal last night. The coconut shrimp
+        are super tasty. The old fashion that was recommended by the server was
+        on point. I will definitely be back and I highly recommend.
+      languageCode: en
+    authorAttribution:
+      displayName: Carlos Francisco Rivera
+      uri: https://www.google.com/maps/contrib/105483525749316241553/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWddswobaQtJNGVl-KB8TwSrUsNtdnAre2BRZKbzskXS-0m2RQSkw=s128-c0x00000000-cc-rp-mo-ba7
+    publishTime: '2024-12-07T05:23:35.264611Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN2NE52MUVREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN2NE52MUVREAE!2m1!1s0x8752876a161254c3:0xecf58fc5d817c9fb
+  - name: >-
+      places/ChIJw1QSFmqHUocR-8kX2MWP9ew/reviews/ChZDSUhNMG9nS0VJQ0FnSURQMHB1bU9nEAE
+    relativePublishTimeDescription: 5 months ago
+    rating: 4
+    text:
+      text: >-
+        I recently had the pleasure of dining at The Cliff Dining in Draper and
+        wanted to share my experience. The restaurant offers two distinct
+        seating areas: one side opens up to the bar, which can be lively and a
+        bit loud, while the other side is much quieter and cozier. If you’re
+        looking for a more peaceful ambiance, you can let the host know your
+        preference upon arrival.
+
+
+        A standout part of the evening was the exceptional service. If you
+        visit, I highly recommend asking for Sophie as your server. She truly
+        goes above and beyond to ensure you have everything you need. Her
+        attentiveness and warm personality made the experience even better.
+
+
+        Now, let’s talk about the food. The spinach dip appetizer is absolutely
+        phenomenal—a must-try! The rest of the food was very good overall,
+        though I was a bit disappointed with the jambalaya. It didn’t quite hit
+        the mark as a true Southern-style dish, which was a little misleading.
+
+
+        Despite that, the overall experience was pleasant. The great service,
+        inviting atmosphere, and delicious offerings (especially that spinach
+        dip!) make this a spot worth visiting.
+      languageCode: en
+    originalText:
+      text: >-
+        I recently had the pleasure of dining at The Cliff Dining in Draper and
+        wanted to share my experience. The restaurant offers two distinct
+        seating areas: one side opens up to the bar, which can be lively and a
+        bit loud, while the other side is much quieter and cozier. If you’re
+        looking for a more peaceful ambiance, you can let the host know your
+        preference upon arrival.
+
+
+        A standout part of the evening was the exceptional service. If you
+        visit, I highly recommend asking for Sophie as your server. She truly
+        goes above and beyond to ensure you have everything you need. Her
+        attentiveness and warm personality made the experience even better.
+
+
+        Now, let’s talk about the food. The spinach dip appetizer is absolutely
+        phenomenal—a must-try! The rest of the food was very good overall,
+        though I was a bit disappointed with the jambalaya. It didn’t quite hit
+        the mark as a true Southern-style dish, which was a little misleading.
+
+
+        Despite that, the overall experience was pleasant. The great service,
+        inviting atmosphere, and delicious offerings (especially that spinach
+        dip!) make this a spot worth visiting.
+      languageCode: en
+    authorAttribution:
+      displayName: Sachiyth A
+      uri: https://www.google.com/maps/contrib/112223754240361971689/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWoHvWwci58vV-oIPTFc8vd6oAw2hbi6PlLmhV4GwmqE4tdbuQTAQ=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-11-30T17:47:54.146485Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURQMHB1bU9nEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURQMHB1bU9nEAE!2m1!1s0x8752876a161254c3:0xecf58fc5d817c9fb
+  - name: >-
+      places/ChIJw1QSFmqHUocR-8kX2MWP9ew/reviews/ChZDSUhNMG9nS0VJQ0FnSUNQNU9YUWNBEAE
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        I enjoyed our visit very much. The server was very professional and
+        attentive. The food was excellent. We had the chicken nachos for an
+        appetizer and barely had room for the main course. My husband had
+        stroganoff and I had the chicken sandwich which was huge.  Everything
+        was tasty.  Something I noticed and really appreciated was the tables
+        were not all packed together as is often the case in a restaurant.  Also
+        the lighting was gentle and relaxing.  This created a relaxing
+        atmosphere even with many people in the restaurant.  Also the view from
+        the windows was beautiful. We will definitely be coming back.
+      languageCode: en
+    originalText:
+      text: >-
+        I enjoyed our visit very much. The server was very professional and
+        attentive. The food was excellent. We had the chicken nachos for an
+        appetizer and barely had room for the main course. My husband had
+        stroganoff and I had the chicken sandwich which was huge.  Everything
+        was tasty.  Something I noticed and really appreciated was the tables
+        were not all packed together as is often the case in a restaurant.  Also
+        the lighting was gentle and relaxing.  This created a relaxing
+        atmosphere even with many people in the restaurant.  Also the view from
+        the windows was beautiful. We will definitely be coming back.
+      languageCode: en
+    authorAttribution:
+      displayName: Susan Fisher
+      uri: https://www.google.com/maps/contrib/113321867518312092091/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWUBKcI19SG9VFQaZnYH7q7hfpOtWstjXqwKFZfPYVr27CL04LG=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-11-21T18:08:15.462525Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNQNU9YUWNBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNQNU9YUWNBEAE!2m1!1s0x8752876a161254c3:0xecf58fc5d817c9fb
+review_summary: >-
+  What Visitors Are Saying$$$People really enjoy the tasty sushi and other
+  standout dishes like fresh salmon and shrimp appetizers, often praising their
+  bold flavors and quality ingredients for a satisfying meal. The service tends
+  to be friendly and attentive, helping to create a welcoming atmosphere that
+  keeps diners coming back for more. While the scenic views and lively energy,
+  including live music, add to the fun, some note that prices can feel a bit
+  high or that waits might happen during busy times—though these are minor
+  compared to the positives. Overall, it's a solid spot for anyone hunting for
+  great sushi nearby, with many sharing that the experience leaves them feeling
+  glad they stopped in. If you're on the lookout for top-rated sushi places,
+  this location offers a enjoyable vibe that balances good food with a casual
+  setting.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
 delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+dine_in: true
+good_for_children: false
+good_for_groups: true
+good_for_sports: true
+live_music: true
+menu_for_children: true
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: true
+serves_cocktails: true
+serves_coffee: true
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Elevated global eats & sushi in a spacious setting with a patio overlooking
+  the valley.
 
 ---

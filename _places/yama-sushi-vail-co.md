@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yama Sushi"
+title: Yama Sushi
 permalink: /colorado/vail/yama-sushi.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Vail
 seo:
-  name: "Yama Sushi"
-  type: Restaurant
-  links: null
-description: "Yama Sushi serves delicious sushi in Vail, Colorado. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.yamasushivail.com/
 place_id: ChIJI3JtL2xwaocRAbknCWh0A8w
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x876a706c2f6d7223:0xcc0374680927b901!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 5:00 – 9:00 PM'
+    - 'Tuesday: 5:00 – 9:00 PM'
+    - 'Wednesday: 5:00 – 9:00 PM'
+    - 'Thursday: 5:00 – 9:00 PM'
+    - 'Friday: 5:00 – 9:00 PM'
+    - 'Saturday: 5:00 – 9:00 PM'
+    - 'Sunday: 5:00 – 9:00 PM'
+  nextOpenTime: '2025-05-03T23:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,54 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (970) 476-7332
+price_level: PRICE_LEVEL_EXPENSIVE
+price_range: $50 &ndash; $100
+rating: '4.2'
+rating_count: 237
+website: http://www.yamasushivail.com/
+description: >-
+  Discover Yama Sushi in Vail, CO$$$Yama Sushi in Vail, CO, stands out as a
+  premier destination for fresh sushi and Japanese cuisine, set in an elegant
+  atmosphere that combines modern vibes with traditional flavors. This spot
+  delights diners with a selection of expertly crafted rolls, nigiri, and other
+  Japanese dishes, complemented by a thoughtful array of sake and wine choices
+  that enhance the overall experience. Accessibility features like
+  wheelchair-friendly parking and seating make it a welcoming option for
+  everyone seeking top-rated sushi restaurants in the area. Whether you're
+  exploring Japanese places near me or craving authentic tastes after a day in
+  the mountains, the menu's focus on quality ingredients ensures a memorable
+  meal. With its upscale yet approachable vibe, it's an ideal choice for those
+  searching for the best sushi near me in this scenic Colorado locale.
+generative_summary: >-
+  Discover Yama Sushi in Vail, CO$$$Yama Sushi in Vail, CO, stands out as a
+  premier destination for fresh sushi and Japanese cuisine, set in an elegant
+  atmosphere that combines modern vibes with traditional flavors. This spot
+  delights diners with a selection of expertly crafted rolls, nigiri, and other
+  Japanese dishes, complemented by a thoughtful array of sake and wine choices
+  that enhance the overall experience. Accessibility features like
+  wheelchair-friendly parking and seating make it a welcoming option for
+  everyone seeking top-rated sushi restaurants in the area. Whether you're
+  exploring Japanese places near me or craving authentic tastes after a day in
+  the mountains, the menu's focus on quality ingredients ensures a memorable
+  meal. With its upscale yet approachable vibe, it's an ideal choice for those
+  searching for the best sushi near me in this scenic Colorado locale.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Visitor Feedback$$$Visitors to this sushi spot often highlight
+  the fresh flavors and attentive service that make it a go-to for casual
+  Japanese dining, with many appreciating the variety of options that keep
+  things exciting. Folks frequently mention the solid execution of classic rolls
+  and dishes, earning it praise as a reliable pick among sushi restaurants in
+  the region, though some note that portion sizes could be more generous for the
+  price. Overall, the vibe comes across as relaxed and enjoyable, with positive
+  nods to the cozy setting that pairs well with a mountainside getaway. If
+  you're on the hunt for sushi close to me, feedback suggests it's worth trying
+  for its consistent quality and welcoming feel. In a balanced take, it's clear
+  this place holds up as a favorite for those who love sushi, delivering a
+  generally satisfying experience with room for minor tweaks.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +315,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

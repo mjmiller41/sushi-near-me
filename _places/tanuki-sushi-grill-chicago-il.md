@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Tanuki Sushi & Grill"
+title: Tanuki Sushi & Grill
 permalink: /illinois/chicago/tanuki-sushi-grill.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
 seo:
-  name: "Tanuki Sushi & Grill"
-  type: Restaurant
+  type: restaurant
   links: http://www.tanukichicago.com/
-description: "Small, trendy spot for raw, rolled & robata-grilled Japanese eats & BYOB amid rustic-chic decor. Tanuki Sushi & Grill serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ22do2qnTD4gRuZ0lT7yDtjE
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: null
 rating: '4.5'
 rating_count: 0
 website: http://www.tanukichicago.com/
+description: >-
+  Discover Tanuki Sushi & Grill in Chicago, IL$$$Tanuki Sushi & Grill in
+  Chicago, IL, stands out as a trendy destination for savoring fresh sushi and
+  Asian-inspired dishes in a welcoming environment. This spot features a
+  rustic-chic vibe that enhances the dining experience, allowing guests to enjoy
+  creative rolls and grilled options made with high-quality ingredients. With
+  its BYOB policy, it's an ideal choice for those seeking a personalized touch
+  to their meal, making it perfect for casual nights out or intimate gatherings.
+  If you're exploring sushi restaurants near you, this location offers a variety
+  of flavorful choices that capture the essence of Japanese cuisine, ensuring a
+  memorable visit in the bustling city scene.
+generative_summary: >-
+  Discover Tanuki Sushi & Grill in Chicago, IL$$$Tanuki Sushi & Grill in
+  Chicago, IL, stands out as a trendy destination for savoring fresh sushi and
+  Asian-inspired dishes in a welcoming environment. This spot features a
+  rustic-chic vibe that enhances the dining experience, allowing guests to enjoy
+  creative rolls and grilled options made with high-quality ingredients. With
+  its BYOB policy, it's an ideal choice for those seeking a personalized touch
+  to their meal, making it perfect for casual nights out or intimate gatherings.
+  If you're exploring sushi restaurants near you, this location offers a variety
+  of flavorful choices that capture the essence of Japanese cuisine, ensuring a
+  memorable visit in the bustling city scene.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ22do2qnTD4gRuZ0lT7yDtjE/reviews/ChdDSUhNMG9nS0VJQ0FnSURmamYtUTh3RRAB
@@ -332,6 +353,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNub1lEU1V3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNub1lEU1V3EAE!2m1!1s0x880fd3a9da6867db:0x31b683bc4f259db9
+review_summary: >-
+  What Guests Are Saying About the Experience$$$Folks frequently highlight the
+  fresh, generously portioned sushi and appetizers that make every order feel
+  worthwhile and satisfying. Many appreciate the attentive service and cozy
+  atmosphere, which add a welcoming vibe to meals, especially for group hangouts
+  or special occasions like birthdays. The BYOB option gets nods for letting
+  diners customize their experience without missing a beat on the tasty flavors.
+  Overall, it's often described as a solid pick for anyone craving top-rated
+  Japanese eats, with consistent praise for the quality and variety that keep
+  people coming back. While some mention minor spots near the entrance can get
+  chilly in winter, the positives around food and service shine through, making
+  it a reliable choice for casual sushi lovers.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidStreetParking: true
   valetParking: false
@@ -363,8 +397,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Small, trendy spot for raw, rolled & robata-grilled Japanese eats & BYOB amid
   rustic-chic decor.
 

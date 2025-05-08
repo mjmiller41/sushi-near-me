@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Boto Sushi"
+title: Boto Sushi
 permalink: /california/san-diego/boto-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: San Diego
 seo:
-  name: "Boto Sushi"
-  type: Restaurant
-  links: null
-description: "Boto Sushi serves delicious sushi in San Diego, California. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.botosushi.com/
 place_id: ChIJ5bGvgAH624ARjViq-EAm0xA
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80dbfa0180afb1e5:0x10d32640f8aa588d!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 9:00 PM'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 9:00 PM'
+    - 'Saturday: 11:00 AM – 9:00 PM'
+    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,49 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
+phone: (858) 451-7800
+price_level: PRICE_LEVEL_MODERATE
 price_range: null
-rating: null
-rating_count: 0
-website: null
+rating: '4.3'
+rating_count: 559
+website: http://www.botosushi.com/
+description: >-
+  Discover Boto Sushi in San Diego, CA$$$Boto Sushi in San Diego, CA, stands out
+  as a welcoming sushi restaurant nestled in the vibrant Carmel Mountain Ranch
+  area, offering fresh, high-quality Japanese-inspired dishes that highlight the
+  art of sushi-making. With its moderate pricing and accessibility features like
+  wheelchair-friendly parking and entrances, it's an inclusive spot for anyone
+  seeking a relaxed meal. The restaurant boasts a straightforward menu focused
+  on flavorful rolls and nigiri, paired with a cozy atmosphere that makes it
+  easy to enjoy a casual lunch or dinner. Operating daily from 11 AM to 9 PM,
+  it's a convenient choice for those exploring sushi restaurants near you,
+  ensuring a satisfying experience with options that cater to various tastes.
+generative_summary: >-
+  Discover Boto Sushi in San Diego, CA$$$Boto Sushi in San Diego, CA, stands out
+  as a welcoming sushi restaurant nestled in the vibrant Carmel Mountain Ranch
+  area, offering fresh, high-quality Japanese-inspired dishes that highlight the
+  art of sushi-making. With its moderate pricing and accessibility features like
+  wheelchair-friendly parking and entrances, it's an inclusive spot for anyone
+  seeking a relaxed meal. The restaurant boasts a straightforward menu focused
+  on flavorful rolls and nigiri, paired with a cozy atmosphere that makes it
+  easy to enjoy a casual lunch or dinner. Operating daily from 11 AM to 9 PM,
+  it's a convenient choice for those exploring sushi restaurants near you,
+  ensuring a satisfying experience with options that cater to various tastes.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this sushi spot often praise the
+  consistently fresh ingredients and well-prepared rolls, making it a go-to for
+  anyone craving reliable Japanese cuisine in the area. Many highlight the
+  friendly service and efficient vibe, which adds to the overall enjoyable
+  dining experience without any major drawbacks. While a few note that portions
+  could be more generous, the general consensus leans positive, with folks
+  appreciating the value for a moderate-priced meal. If you're hunting for
+  top-rated sushi near me, this place delivers on flavor and atmosphere, earning
+  solid nods for its approachable style that keeps diners coming back. Overall,
+  it's a solid pick for sushi enthusiasts looking for a hassle-free spot in San
+  Diego.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +310,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Wabi on Rose"
+title: Wabi on Rose
 permalink: /california/venice/wabi-on-rose.html
 stateAbbr: CA
 stateName: California
 cityName: Venice
 seo:
-  name: "Wabi on Rose"
-  type: Restaurant
+  type: restaurant
   links: https://www.wabionrose.com/
-description: "Wabi on Rose serves delicious sushi in Venice, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJCezw1kK7woARKAQBxgyXgdc
 photos:
   - name: >-
@@ -169,7 +167,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c2bb42d6f0ec09:0xd781970cc6010428!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 12
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 12
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 12
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 12
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 12
+        minute: 0
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 12:00 – 9:00 PM'
     - 'Tuesday: 12:00 – 9:00 PM'
     - 'Wednesday: 12:00 – 9:00 PM'
@@ -177,54 +233,371 @@ opening_hours:
     - 'Friday: 12:00 – 11:00 PM'
     - 'Saturday: 12:00 – 11:00 PM'
     - 'Sunday: 12:00 – 9:00 PM'
-  current:
-    - 'Monday: 12:00 – 9:00 PM'
-    - 'Tuesday: 12:00 – 9:00 PM'
-    - 'Wednesday: 12:00 – 9:00 PM'
-    - 'Thursday: 12:00 – 9:00 PM'
-    - 'Friday: 12:00 – 11:00 PM'
-    - 'Saturday: 12:00 – 11:00 PM'
-    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T06:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 0
+        close:
+          day: 0
+          hour: 21
+          minute: 0
+      - open:
+          day: 1
+          hour: 12
+          minute: 0
+        close:
+          day: 1
+          hour: 21
+          minute: 0
+      - open:
+          day: 2
+          hour: 12
+          minute: 0
+        close:
+          day: 2
+          hour: 21
+          minute: 0
+      - open:
+          day: 3
+          hour: 12
+          minute: 0
+        close:
+          day: 3
+          hour: 21
+          minute: 0
+      - open:
+          day: 4
+          hour: 12
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 0
+      - open:
+          day: 5
+          hour: 12
+          minute: 0
+        close:
+          day: 5
+          hour: 23
+          minute: 0
+      - open:
+          day: 6
+          hour: 12
+          minute: 0
+        close:
+          day: 6
+          hour: 23
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 12:00 – 9:00 PM'
+      - 'Tuesday: 12:00 – 9:00 PM'
+      - 'Wednesday: 12:00 – 9:00 PM'
+      - 'Thursday: 12:00 – 9:00 PM'
+      - 'Friday: 12:00 – 11:00 PM'
+      - 'Saturday: 12:00 – 11:00 PM'
+      - 'Sunday: 12:00 – 9:00 PM'
+    secondaryHoursType: LUNCH
+    nextCloseTime: '2025-05-04T06:00:00Z'
 phone: (310) 564-2177
 price_level: null
 price_range: $50 &ndash; $100
 rating: '4.3'
-rating_count: 0
+rating_count: 674
 website: https://www.wabionrose.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Wabi on Rose in Venice, CA$$$Wabi on Rose in Venice, CA, stands out
+  as a vibrant sushi restaurant blending Pacific Rim influences with fresh,
+  innovative Japanese dishes that cater to a variety of tastes. This trendy spot
+  offers an array of gluten-free and vegan options alongside creative cocktails,
+  making it a go-to choice for those seeking flavorful sushi experiences in a
+  welcoming atmosphere. With its upbeat storefront and accessible features like
+  wheelchair-friendly seating, the venue ensures everyone can enjoy the lively
+  vibe and outdoor seating. Open daily from noon with extended hours on
+  weekends, it's an ideal destination for anyone exploring top-rated Japanese
+  cuisine near the coast, perfect for a casual meal or evening out.
+generative_summary: >-
+  Discover Wabi on Rose in Venice, CA$$$Wabi on Rose in Venice, CA, stands out
+  as a vibrant sushi restaurant blending Pacific Rim influences with fresh,
+  innovative Japanese dishes that cater to a variety of tastes. This trendy spot
+  offers an array of gluten-free and vegan options alongside creative cocktails,
+  making it a go-to choice for those seeking flavorful sushi experiences in a
+  welcoming atmosphere. With its upbeat storefront and accessible features like
+  wheelchair-friendly seating, the venue ensures everyone can enjoy the lively
+  vibe and outdoor seating. Open daily from noon with extended hours on
+  weekends, it's an ideal destination for anyone exploring top-rated Japanese
+  cuisine near the coast, perfect for a casual meal or evening out.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJCezw1kK7woARKAQBxgyXgdc/reviews/ChdDSUhNMG9nS0VJQ0FnSURmbmVIRnZnRRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        First time in Cali so you know we couldn’t pass up even fresher sushi!
+        Everything was 10/10, despite us coming to nearly closing time the
+        waitress was understanding and checked in to ensure our needs were meet.
+        Food was absolutely delicious, the drinks… incredible. The way
+        everything melted in your mouth, best believe next time we visit we are
+        stopping back here!!
+      languageCode: en
+    originalText:
+      text: >-
+        First time in Cali so you know we couldn’t pass up even fresher sushi!
+        Everything was 10/10, despite us coming to nearly closing time the
+        waitress was understanding and checked in to ensure our needs were meet.
+        Food was absolutely delicious, the drinks… incredible. The way
+        everything melted in your mouth, best believe next time we visit we are
+        stopping back here!!
+      languageCode: en
+    authorAttribution:
+      displayName: Alexis Sommers
+      uri: https://www.google.com/maps/contrib/101975798899297372566/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUd4tuyCtdiR4KmKfDdtxfsJ3ST7eWGw7A4cGgUJJ5HRHcume1F=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-01-09T11:56:34.102919Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURmbmVIRnZnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURmbmVIRnZnRRAB!2m1!1s0x80c2bb42d6f0ec09:0xd781970cc6010428
+  - name: >-
+      places/ChIJCezw1kK7woARKAQBxgyXgdc/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJdGU2YkZBEAE
+    relativePublishTimeDescription: a month ago
+    rating: 4
+    text:
+      text: >-
+        Excellent Venice vibes, expensive cocktails (that are not as stiff as
+        I’d like), and very fresh sushi. I think that with a slight reduction in
+        price, this place would offer value that would bring in more of my
+        business. But at this price point, I’m better off elsewhere.
+      languageCode: en
+    originalText:
+      text: >-
+        Excellent Venice vibes, expensive cocktails (that are not as stiff as
+        I’d like), and very fresh sushi. I think that with a slight reduction in
+        price, this place would offer value that would bring in more of my
+        business. But at this price point, I’m better off elsewhere.
+      languageCode: en
+    authorAttribution:
+      displayName: Anish Thakkar (Doc Thakkar)
+      uri: https://www.google.com/maps/contrib/100632513839405797964/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWnjcbzJ3aFKJ9D42lH6XhWs1v7P9juCvcllloTyKNR4nfoBgz8=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2025-04-03T18:30:27.906713Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNJdGU2YkZBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNJdGU2YkZBEAE!2m1!1s0x80c2bb42d6f0ec09:0xd781970cc6010428
+  - name: >-
+      places/ChIJCezw1kK7woARKAQBxgyXgdc/reviews/ChdDSUhNMG9nS0VJQ0FnSURQZ3R6eGtBRRAB
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        I loved the drinks, the food and the ambiance. Maria was so cool and
+        fun. She made great drinks and amazing food recommendations based on my
+        preferences. I'll go back again 💯
+
+        The crispy rice and the yellowtail specials were amazing!
+      languageCode: en
+    originalText:
+      text: >-
+        I loved the drinks, the food and the ambiance. Maria was so cool and
+        fun. She made great drinks and amazing food recommendations based on my
+        preferences. I'll go back again 💯
+
+        The crispy rice and the yellowtail specials were amazing!
+      languageCode: en
+    authorAttribution:
+      displayName: Shayan Modiri
+      uri: https://www.google.com/maps/contrib/104903535737036141433/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXn6s6LDID_-jZ_WmKiybzhCCc5Hl32vEdNpd9TGxlNXK-fWx8rsw=s128-c0x00000000-cc-rp-mo-ba7
+    publishTime: '2024-11-30T07:52:12.587296Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURQZ3R6eGtBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURQZ3R6eGtBRRAB!2m1!1s0x80c2bb42d6f0ec09:0xd781970cc6010428
+  - name: >-
+      places/ChIJCezw1kK7woARKAQBxgyXgdc/reviews/ChZDSUhNMG9nS0VJQ0FnSUMzeEpPZkZ3EAE
+    relativePublishTimeDescription: 6 months ago
+    rating: 4
+    text:
+      text: >-
+        Super cute spot on Rose! Cool vibe inside and instagram worthy patio
+        seating.
+
+
+        Came for the happy hour - only available at bar seating. Great price for
+        drinks at $5!
+
+
+        Food-wise, I had the chicken, roll of the day, and salmon sushi. Salmon
+        sushi and the roll were both great! Chicken was just good but not a wow
+        - spend your money on something else - it’s just fried chicken bites.
+        Lesson learned, stick with the sushi!
+
+
+        Would like to come back to try the omakase tasting menu. Bartender told
+        me it was $125 and came with 6 or 7 courses with dessert.
+
+
+        Service-wise, the first bartender I had was great. Very attentive. I
+        think I caught them in a shift change though bc he left and then it took
+        a while to get their attention for drink refill and to pay my check.
+        Timing wise on the food though, everything came out quick and they were
+        on top of clearing the dirty plates.
+
+
+        Overall, highly recommend!
+      languageCode: en
+    originalText:
+      text: >-
+        Super cute spot on Rose! Cool vibe inside and instagram worthy patio
+        seating.
+
+
+        Came for the happy hour - only available at bar seating. Great price for
+        drinks at $5!
+
+
+        Food-wise, I had the chicken, roll of the day, and salmon sushi. Salmon
+        sushi and the roll were both great! Chicken was just good but not a wow
+        - spend your money on something else - it’s just fried chicken bites.
+        Lesson learned, stick with the sushi!
+
+
+        Would like to come back to try the omakase tasting menu. Bartender told
+        me it was $125 and came with 6 or 7 courses with dessert.
+
+
+        Service-wise, the first bartender I had was great. Very attentive. I
+        think I caught them in a shift change though bc he left and then it took
+        a while to get their attention for drink refill and to pay my check.
+        Timing wise on the food though, everything came out quick and they were
+        on top of clearing the dirty plates.
+
+
+        Overall, highly recommend!
+      languageCode: en
+    authorAttribution:
+      displayName: Jordan Wood
+      uri: https://www.google.com/maps/contrib/115174063184246397195/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjW4k7-60lQ9DXE6Ocq-lXOMW4caKTBcyuGaKFEAKbX-23nXZZK5nQ=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-11-02T22:39:59.721016Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUMzeEpPZkZ3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUMzeEpPZkZ3EAE!2m1!1s0x80c2bb42d6f0ec09:0xd781970cc6010428
+  - name: >-
+      places/ChIJCezw1kK7woARKAQBxgyXgdc/reviews/ChdDSUhNMG9nS0VJQ0FnTUNRX01MdDF3RRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        My sister was visiting and found this place on a gluten friendly app it
+        had great reviews and many GF options.  We arrived without a reservation
+        but were still greeted with a smile and shown to a couple of tables for
+        walk-ins.
+
+        After a few minutes, Sidney came and introduced himself to take our
+        drink order. Sidney was met with a berage of questions about the menu
+        being GF. Sidney let us know that the restaurant had decided to go away
+        from the Gluten friendly menu at least 6 months ago.  He did, however,
+        take the time to go through the menu with my sister althewhile
+        suggesting some amazing selections from the daily specials. They still
+        have some really great GF options, and my sister was very pleased with
+        the meal that she had. The classic California roll made with blue crab
+        and the Philly roll were perfect.  We also had a few other rolls,
+        including the tiger roll (gf), the Rick James, and the girlfriend jeans.
+        all of our selections were very appealing and tasted excellent.  Sidney
+        was exceptional throughout the evening and is one of the reasons why I
+        will be returning to this restaurant, with a reservation, of course.
+      languageCode: en
+    originalText:
+      text: >-
+        My sister was visiting and found this place on a gluten friendly app it
+        had great reviews and many GF options.  We arrived without a reservation
+        but were still greeted with a smile and shown to a couple of tables for
+        walk-ins.
+
+        After a few minutes, Sidney came and introduced himself to take our
+        drink order. Sidney was met with a berage of questions about the menu
+        being GF. Sidney let us know that the restaurant had decided to go away
+        from the Gluten friendly menu at least 6 months ago.  He did, however,
+        take the time to go through the menu with my sister althewhile
+        suggesting some amazing selections from the daily specials. They still
+        have some really great GF options, and my sister was very pleased with
+        the meal that she had. The classic California roll made with blue crab
+        and the Philly roll were perfect.  We also had a few other rolls,
+        including the tiger roll (gf), the Rick James, and the girlfriend jeans.
+        all of our selections were very appealing and tasted excellent.  Sidney
+        was exceptional throughout the evening and is one of the reasons why I
+        will be returning to this restaurant, with a reservation, of course.
+      languageCode: en
+    authorAttribution:
+      displayName: Jimmy Magnusson
+      uri: https://www.google.com/maps/contrib/114628154451510619739/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVgrWqekGvlCgFo02uhWm4EOQVGyobX6mcXCCHA6tEoC_m8eOEY6w=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-03-03T03:51:28.673612Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNRX01MdDF3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNRX01MdDF3RRAB!2m1!1s0x80c2bb42d6f0ec09:0xd781970cc6010428
+review_summary: >-
+  What Customers Are Buzzing About$$$Folks rave about the fresh sushi and
+  creative rolls at this spot, often highlighting how the flavors really hit the
+  mark for a satisfying meal. Many appreciate the fun atmosphere and tasty
+  cocktails, especially during happy hour, which adds to the overall enjoyable
+  vibe without breaking the bank too much. While some note that prices lean on
+  the higher side, the quality of the food and drinks makes it worth considering
+  for special occasions or when you're in the mood for something standout.
+  Overall, visitors find it a solid pick for groups or solo diners looking for
+  reliable Japanese-inspired eats, with the added bonus of vegetarian options
+  that keep things inclusive and exciting. If you're hunting for great sushi
+  places nearby, this one often delivers a memorable experience that leaves
+  people coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+curbside_pickup: true
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: true
+menu_for_children: true
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: true
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Upbeat storefront fixture for sushi, innovative Japanese small plates &
+  martinis.
 
 ---

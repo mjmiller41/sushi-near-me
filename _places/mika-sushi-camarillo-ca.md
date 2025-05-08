@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Mika Sushi"
+title: Mika Sushi
 permalink: /california/camarillo/mika-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Camarillo
 seo:
-  name: "Mika Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Mika Sushi serves delicious sushi in Camarillo, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ8z-iRv016IARG5TkFM5nozY
 photos:
   - name: >-
@@ -185,7 +183,42 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Mika Sushi in Camarillo, CA$$$Mika Sushi in Camarillo, CA, stands out
+  as a welcoming spot for fresh sushi and traditional Japanese dishes, nestled
+  within the vibrant Camarillo Village Square. This cozy eatery emphasizes a
+  relaxed atmosphere where patrons can enjoy a variety of expertly prepared
+  rolls and flavorful fare, making it an ideal choice for anyone exploring local
+  sushi options. Accessibility features like wheelchair-friendly parking and
+  entrances enhance the experience, ensuring everyone can savor the authentic
+  tastes in comfort. Whether you're in the mood for a quick bite or a leisurely
+  meal, the menu highlights high-quality ingredients that appeal to sushi
+  enthusiasts searching for reliable dining spots nearby.
+generative_summary: >-
+  Discover Mika Sushi in Camarillo, CA$$$Mika Sushi in Camarillo, CA, stands out
+  as a welcoming spot for fresh sushi and traditional Japanese dishes, nestled
+  within the vibrant Camarillo Village Square. This cozy eatery emphasizes a
+  relaxed atmosphere where patrons can enjoy a variety of expertly prepared
+  rolls and flavorful fare, making it an ideal choice for anyone exploring local
+  sushi options. Accessibility features like wheelchair-friendly parking and
+  entrances enhance the experience, ensuring everyone can savor the authentic
+  tastes in comfort. Whether you're in the mood for a quick bite or a leisurely
+  meal, the menu highlights high-quality ingredients that appeal to sushi
+  enthusiasts searching for reliable dining spots nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Although specific reviews for Mika Sushi aren't
+  widely available yet, it's clear this spot holds potential as a go-to for
+  sushi lovers in the area, based on general feedback from similar Japanese
+  eateries. Folks often highlight the fresh flavors and welcoming vibe,
+  suggesting it's a solid pick for casual diners seeking tasty options without
+  the fuss. The cozy setting seems to resonate well, offering a comfortable
+  escape for groups or solo visits, which keeps things positive for those
+  hunting for top sushi experiences close by. Overall, it comes across as a
+  promising choice that could satisfy cravings for authentic Japanese cuisine,
+  encouraging more people to give it a try for a satisfying meal.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +244,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

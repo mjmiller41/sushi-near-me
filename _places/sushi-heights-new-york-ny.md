@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Heights"
+title: Sushi Heights
 permalink: /new-york/new-york/sushi-heights.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "Sushi Heights"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi Heights serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJZ01zHgD1wokRgg58n7n6r7E
 photos:
   - name: >-
@@ -114,8 +112,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c2f5001e734d67:0xb1affab99f7c0e82!10e5
 primary_type: Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+    - open:
+        day: 6
+        hour: 20
+        minute: 0
+      close:
+        day: 6
+        hour: 23
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:30 AM – 9:00 PM'
+    - 'Tuesday: 11:30 AM – 9:00 PM'
+    - 'Wednesday: 11:30 AM – 9:00 PM'
+    - 'Thursday: 11:30 AM – 9:00 PM'
+    - 'Friday: 11:30 AM – 3:00 PM'
+    - 'Saturday: 8:00 – 11:30 PM'
+    - 'Sunday: 11:30 AM – 9:00 PM'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -123,13 +186,52 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
+phone: (212) 740-7467
 price_level: null
-price_range: null
-rating: null
-rating_count: 0
+price_range: $10 &ndash; $20
+rating: '4.1'
+rating_count: 16
 website: null
+description: >-
+  About Sushi Heights in New York, NY$$$Sushi Heights in New York, NY, stands
+  out as a welcoming spot for fresh Japanese cuisine in the bustling Upper
+  Manhattan area. This restaurant offers a variety of expertly prepared rolls
+  and dishes that highlight high-quality ingredients and authentic flavors,
+  making it a go-to choice for anyone craving sushi options nearby. With its
+  convenient location on Amsterdam Avenue, it's easy to enjoy a meal in a cozy
+  setting that combines modern vibes with traditional touches. The menu caters
+  to different tastes, including options for those seeking lighter fare or
+  hearty meals, and the hours accommodate both lunch crowds and evening diners.
+  Whether you're exploring top-rated sushi places in the city, Sushi Heights
+  delivers a satisfying experience that keeps locals coming back for more.
+generative_summary: >-
+  About Sushi Heights in New York, NY$$$Sushi Heights in New York, NY, stands
+  out as a welcoming spot for fresh Japanese cuisine in the bustling Upper
+  Manhattan area. This restaurant offers a variety of expertly prepared rolls
+  and dishes that highlight high-quality ingredients and authentic flavors,
+  making it a go-to choice for anyone craving sushi options nearby. With its
+  convenient location on Amsterdam Avenue, it's easy to enjoy a meal in a cozy
+  setting that combines modern vibes with traditional touches. The menu caters
+  to different tastes, including options for those seeking lighter fare or
+  hearty meals, and the hours accommodate both lunch crowds and evening diners.
+  Whether you're exploring top-rated sushi places in the city, Sushi Heights
+  delivers a satisfying experience that keeps locals coming back for more.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Feedback from diners at this New York sushi spot
+  generally highlights the fresh flavors and solid value, with many appreciating
+  the well-crafted rolls that make it a reliable choice for casual meals. People
+  often note the friendly service and efficient atmosphere, contributing to a
+  relaxed vibe that suits groups or solo visits, even if occasional waits can
+  occur during peak times. Overall, the positive ratings suggest it's a favorite
+  for those hunting for quality sushi restaurants close to home, with comments
+  praising the balance of taste and affordability. While not every experience is
+  flawless, the consensus leans toward enjoyment, especially for first-timers
+  eager to try local favorites. If you're on the hunt for "sushi near me," this
+  place earns its spot as a worthwhile stop with consistently good feedback from
+  the community.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -155,7 +257,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

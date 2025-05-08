@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Asia Nation"
+title: Asia Nation
 permalink: /new-york/rochester/asia-nation.html
 stateAbbr: NY
 stateName: New York
 cityName: Rochester
 seo:
-  name: "Asia Nation"
-  type: Restaurant
+  type: restaurant
   links: https://pos.chowbus.com/online-ordering/store/15208
-description: "Asia Nation serves delicious sushi in Rochester, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJO77WRQBT0YkRKxsnoMmxTOk
 photos:
   - name: >-
@@ -184,6 +182,31 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 0
 website: https://pos.chowbus.com/online-ordering/store/15208
+description: >-
+  Explore Asia Nation in Rochester, NY$$$Asia Nation in Rochester, NY, stands
+  out as a welcoming Asian restaurant specializing in fresh Japanese dishes that
+  cater to sushi enthusiasts. This casual spot features a variety of staples
+  like sushi rolls and bento boxes, making it an ideal choice for anyone seeking
+  flavorful options in a relaxed setting. With its accessible entrance and
+  seating, it's designed to accommodate all visitors, ensuring a comfortable
+  dining experience. The menu highlights generous portions and a mix of
+  traditional flavors, perfect for those exploring top-rated sushi places
+  nearby. Whether you're in the mood for a quick bite or a satisfying meal, this
+  location combines quality ingredients with a vibrant atmosphere that keeps
+  locals coming back.
+generative_summary: >-
+  Explore Asia Nation in Rochester, NY$$$Asia Nation in Rochester, NY, stands
+  out as a welcoming Asian restaurant specializing in fresh Japanese dishes that
+  cater to sushi enthusiasts. This casual spot features a variety of staples
+  like sushi rolls and bento boxes, making it an ideal choice for anyone seeking
+  flavorful options in a relaxed setting. With its accessible entrance and
+  seating, it's designed to accommodate all visitors, ensuring a comfortable
+  dining experience. The menu highlights generous portions and a mix of
+  traditional flavors, perfect for those exploring top-rated sushi places
+  nearby. Whether you're in the mood for a quick bite or a satisfying meal, this
+  location combines quality ingredients with a vibrant atmosphere that keeps
+  locals coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJO77WRQBT0YkRKxsnoMmxTOk/reviews/ChdDSUhNMG9nS0VJQ0FnSUNUMGZTb2hBRRAB
@@ -373,6 +396,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURUbnYzVkVnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURUbnYzVkVnEAE!2m1!1s0x89d1530045d6be3b:0xe94cb1c9a0271b2b
+review_summary: >-
+  Customer Feedback on Asia Nation$$$Folks often rave about the tasty Asian
+  dishes at this spot, with many highlighting the fresh sushi and hearty fried
+  rice as standout favorites that hit the spot every time. Visitors appreciate
+  the generous portions and quick, friendly service that make every meal feel
+  effortless and enjoyable, even for groups looking for a casual outing. While
+  one comment mentioned a texture issue with certain chicken dishes, the overall
+  consensus leans positive, emphasizing the restaurant's ability to deliver
+  flavorful meals that satisfy cravings. It's clear that diners value the clean
+  environment and variety of options, making it a go-to for anyone searching for
+  reliable sushi restaurants in the area. All in all, this place earns high
+  marks for its consistent quality and welcoming vibe, encouraging repeat visits
+  for those who love exploring new flavors.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -403,7 +440,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

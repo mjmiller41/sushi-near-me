@@ -5,4 +5,5 @@ permalink: /new-jersey/jersey-city/
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Jersey City
+
 ---

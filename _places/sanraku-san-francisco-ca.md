@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sanraku"
+title: Sanraku
 permalink: /california/san-francisco/sanraku.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
 seo:
-  name: "Sanraku"
-  type: Restaurant
-  links: null
-description: "Sanraku serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.sanraku.com/
 place_id: ChIJ6frH_I2AhYAR4oxOqkmBy7A
 photos:
   - name: >-
@@ -170,22 +168,256 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8085808dfcc7fae9:0xb0cb8149aa4e8ce2!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:30 AM – 9:00 PM'
+    - 'Tuesday: 11:30 AM – 9:00 PM'
+    - 'Wednesday: 11:30 AM – 9:00 PM'
+    - 'Thursday: 11:30 AM – 9:00 PM'
+    - 'Friday: 11:30 AM – 10:00 PM'
+    - 'Saturday: 11:30 AM – 10:00 PM'
+    - 'Sunday: 11:30 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T05:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 11
+          minute: 30
+        close:
+          day: 0
+          hour: 21
+          minute: 0
+      - open:
+          day: 1
+          hour: 11
+          minute: 30
+        close:
+          day: 1
+          hour: 21
+          minute: 0
+      - open:
+          day: 2
+          hour: 11
+          minute: 30
+        close:
+          day: 2
+          hour: 21
+          minute: 0
+      - open:
+          day: 3
+          hour: 11
+          minute: 30
+        close:
+          day: 3
+          hour: 21
+          minute: 0
+      - open:
+          day: 4
+          hour: 11
+          minute: 30
+        close:
+          day: 4
+          hour: 21
+          minute: 0
+      - open:
+          day: 5
+          hour: 11
+          minute: 30
+        close:
+          day: 5
+          hour: 22
+          minute: 0
+      - open:
+          day: 6
+          hour: 11
+          minute: 30
+        close:
+          day: 6
+          hour: 22
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 11:30 AM – 9:00 PM'
+      - 'Tuesday: 11:30 AM – 9:00 PM'
+      - 'Wednesday: 11:30 AM – 9:00 PM'
+      - 'Thursday: 11:30 AM – 9:00 PM'
+      - 'Friday: 11:30 AM – 10:00 PM'
+      - 'Saturday: 11:30 AM – 10:00 PM'
+      - 'Sunday: 11:30 AM – 9:00 PM'
+    secondaryHoursType: DELIVERY
+    nextCloseTime: '2025-05-04T05:00:00Z'
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 11
+          minute: 30
+        close:
+          day: 0
+          hour: 21
+          minute: 0
+      - open:
+          day: 1
+          hour: 11
+          minute: 30
+        close:
+          day: 1
+          hour: 21
+          minute: 0
+      - open:
+          day: 2
+          hour: 11
+          minute: 30
+        close:
+          day: 2
+          hour: 21
+          minute: 0
+      - open:
+          day: 3
+          hour: 11
+          minute: 30
+        close:
+          day: 3
+          hour: 21
+          minute: 0
+      - open:
+          day: 4
+          hour: 11
+          minute: 30
+        close:
+          day: 4
+          hour: 21
+          minute: 0
+      - open:
+          day: 5
+          hour: 11
+          minute: 30
+        close:
+          day: 5
+          hour: 22
+          minute: 0
+      - open:
+          day: 6
+          hour: 11
+          minute: 30
+        close:
+          day: 6
+          hour: 22
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 11:30 AM – 9:00 PM'
+      - 'Tuesday: 11:30 AM – 9:00 PM'
+      - 'Wednesday: 11:30 AM – 9:00 PM'
+      - 'Thursday: 11:30 AM – 9:00 PM'
+      - 'Friday: 11:30 AM – 10:00 PM'
+      - 'Saturday: 11:30 AM – 10:00 PM'
+      - 'Sunday: 11:30 AM – 9:00 PM'
+    secondaryHoursType: TAKEOUT
+    nextCloseTime: '2025-05-04T05:00:00Z'
+phone: (415) 771-0803
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.4'
+rating_count: 1671
+website: http://www.sanraku.com/
+description: >-
+  Discover Sanraku in San Francisco, CA$$$Sanraku in San Francisco, CA, is a
+  welcoming spot for enjoying authentic Japanese flavors, featuring an array of
+  fresh sushi and other traditional dishes in a relaxed atmosphere. This eatery
+  stands out with its comfortable setting that combines casual vibes and
+  attentive service, making it ideal for a quick meal or a leisurely dine-in
+  experience. Patrons can savor a variety of expertly prepared rolls and entrees
+  that highlight quality ingredients, perfect for those seeking flavorful
+  options in the heart of the city. Accessibility features like
+  wheelchair-friendly entrances and seating add to the convenience, ensuring
+  everyone can enjoy the inviting ambiance. Located in the vibrant Lower Nob
+  Hill neighborhood, it's a great choice for anyone exploring top sushi spots
+  nearby.
+generative_summary: >-
+  Discover Sanraku in San Francisco, CA$$$Sanraku in San Francisco, CA, is a
+  welcoming spot for enjoying authentic Japanese flavors, featuring an array of
+  fresh sushi and other traditional dishes in a relaxed atmosphere. This eatery
+  stands out with its comfortable setting that combines casual vibes and
+  attentive service, making it ideal for a quick meal or a leisurely dine-in
+  experience. Patrons can savor a variety of expertly prepared rolls and entrees
+  that highlight quality ingredients, perfect for those seeking flavorful
+  options in the heart of the city. Accessibility features like
+  wheelchair-friendly entrances and seating add to the convenience, ensuring
+  everyone can enjoy the inviting ambiance. Located in the vibrant Lower Nob
+  Hill neighborhood, it's a great choice for anyone exploring top sushi spots
+  nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this sushi spot often rave about the
+  consistently fresh and tasty dishes that keep them coming back for more. Many
+  appreciate the friendly service and cozy environment, which make for a
+  pleasant dining experience without any major complaints. Feedback highlights
+  the reasonable prices and generous portions, making it a solid pick for groups
+  or solo diners looking for reliable Japanese cuisine. Overall, the high
+  ratings reflect satisfaction with the variety of options, though some note
+  that wait times can vary during peak hours. If you're in the mood for quality
+  sushi close by, this place delivers a reliably enjoyable meal that lives up to
+  expectations.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +443,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

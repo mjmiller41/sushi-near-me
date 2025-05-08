@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Too"
+title: Sushi Too
 permalink: /pennsylvania/pittsburgh/sushi-too.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Pittsburgh
 seo:
-  name: "Sushi Too"
-  type: Restaurant
+  type: restaurant
   links: http://www.thesushitoo.com/
-description: "Cooked Japanese fare & varied sushi rolls are offered in compact, basic digs with a full bar. Sushi Too serves delicious sushi in Pittsburgh, Pennsylvania. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ3SMtprfzNIgRuLXGhg1SABA
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $20 &ndash; $30
 rating: '4.2'
 rating_count: 0
 website: http://www.thesushitoo.com/
+description: >-
+  Discover Sushi Too in Pittsburgh, PA$$$Sushi Too in Pittsburgh, PA, stands out
+  as a cozy spot for enjoying fresh sushi rolls and authentic Japanese flavors,
+  all served in a relaxed atmosphere that includes refreshing bubble tea
+  options. This welcoming Japanese restaurant features a variety of creative
+  rolls and cooked dishes, making it a great choice for those seeking quality
+  dining without the fuss. With its compact and inviting setup, complete with a
+  full bar and accessible features like wheelchair-friendly entrances, it caters
+  to a wide range of diners looking for a casual meal. The menu balances
+  affordability with premium tastes, positioning it as one of the top-rated
+  sushi places in the area for anyone exploring Japanese cuisine nearby.
+generative_summary: >-
+  Discover Sushi Too in Pittsburgh, PA$$$Sushi Too in Pittsburgh, PA, stands out
+  as a cozy spot for enjoying fresh sushi rolls and authentic Japanese flavors,
+  all served in a relaxed atmosphere that includes refreshing bubble tea
+  options. This welcoming Japanese restaurant features a variety of creative
+  rolls and cooked dishes, making it a great choice for those seeking quality
+  dining without the fuss. With its compact and inviting setup, complete with a
+  full bar and accessible features like wheelchair-friendly entrances, it caters
+  to a wide range of diners looking for a casual meal. The menu balances
+  affordability with premium tastes, positioning it as one of the top-rated
+  sushi places in the area for anyone exploring Japanese cuisine nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ3SMtprfzNIgRuLXGhg1SABA/reviews/ChdDSUhNMG9nS0VJQ0FnTURRc0l1WHRnRRAB
@@ -344,6 +365,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNJMjhhN0tREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNJMjhhN0tREAE!2m1!1s0x8834f3b7a62d23dd:0x1000520d86c6b5b8
+review_summary: >-
+  What Customers Are Saying About This Sushi Spot$$$Folks who visit this sushi
+  restaurant often highlight the fresh flavors and generous portions that make
+  for a satisfying meal, with many considering it a standout option in the city.
+  While some appreciate the creative twists on classic rolls, others note that
+  the dishes lean towards a fusion style rather than traditional authenticity,
+  which adds a fun variety to the experience. Prices might feel a bit steep due
+  to the prime location, but most agree the quality and service make it
+  worthwhile for a special outing or quick bite. Overall, it's praised as a
+  reliable go-to for sushi lovers, with positive feedback on the cozy vibe and
+  attentive staff keeping the energy upbeat. If you're hunting for great sushi
+  near you, this place generally delivers a solid, enjoyable visit with room for
+  the occasional mixed opinion.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidStreetParking: true
   valetParking: false
@@ -375,8 +410,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Cooked Japanese fare & varied sushi rolls are offered in compact, basic digs
   with a full bar.
 

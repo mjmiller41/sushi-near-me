@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Kanpai"
+title: Sushi Kanpai
 permalink: /washington/seattle/sushi-kanpai.html
 stateAbbr: WA
 stateName: Washington
 cityName: Seattle
 seo:
-  name: "Sushi Kanpai"
-  type: Restaurant
+  type: restaurant
   links: https://order.online/business/sushi-kanpai-24560
-description: "Sushi Kanpai serves delicious sushi in Seattle, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJqYTCVbZqkFQR5MCBYcG91Sw
 photos:
   - name: >-
@@ -170,7 +168,89 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x54906ab655c284a9:0x2cd5bdc16181c0e4!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 16
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 16
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:00 AM – 2:30 PM, 4:00 – 9:00 PM'
     - 'Wednesday: 11:00 AM – 2:30 PM, 4:00 – 9:00 PM'
@@ -178,28 +258,118 @@ opening_hours:
     - 'Friday: 11:00 AM – 2:30 PM, 4:00 – 9:00 PM'
     - 'Saturday: 4:00 – 9:00 PM'
     - 'Sunday: 4:00 – 9:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:00 AM – 2:30 PM, 4:00 – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 2:30 PM, 4:00 – 9:00 PM'
-    - 'Thursday: 11:00 AM – 2:30 PM, 4:00 – 9:00 PM'
-    - 'Friday: 11:00 AM – 2:30 PM, 4:00 – 9:00 PM'
-    - 'Saturday: 4:00 – 9:00 PM'
-    - 'Sunday: 4:00 – 9:00 PM'
+  nextOpenTime: '2025-05-03T23:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: false
+    periods:
+      - open:
+          day: 0
+          hour: 16
+          minute: 0
+        close:
+          day: 0
+          hour: 21
+          minute: 0
+      - open:
+          day: 2
+          hour: 16
+          minute: 0
+        close:
+          day: 2
+          hour: 19
+          minute: 0
+      - open:
+          day: 3
+          hour: 16
+          minute: 0
+        close:
+          day: 3
+          hour: 19
+          minute: 0
+      - open:
+          day: 4
+          hour: 16
+          minute: 0
+        close:
+          day: 4
+          hour: 19
+          minute: 0
+      - open:
+          day: 5
+          hour: 16
+          minute: 0
+        close:
+          day: 5
+          hour: 19
+          minute: 0
+      - open:
+          day: 6
+          hour: 16
+          minute: 0
+        close:
+          day: 6
+          hour: 21
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: Closed'
+      - 'Tuesday: 4:00 – 7:00 PM'
+      - 'Wednesday: 4:00 – 7:00 PM'
+      - 'Thursday: 4:00 – 7:00 PM'
+      - 'Friday: 4:00 – 7:00 PM'
+      - 'Saturday: 4:00 – 9:00 PM'
+      - 'Sunday: 4:00 – 9:00 PM'
+    secondaryHoursType: HAPPY_HOUR
+    nextOpenTime: '2025-05-03T23:00:00Z'
 phone: (206) 588-2769
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.5'
-rating_count: 0
+rating_count: 532
 website: https://order.online/business/sushi-kanpai-24560
+description: >-
+  Discover Sushi Kanpai in Seattle, WA$$$Nestled in the heart of Seattle,
+  Washington, Sushi Kanpai stands out as a welcoming spot for fresh sushi and
+  Japanese-inspired dishes, drawing in locals and visitors alike with its
+  inviting ambiance. This cozy eatery features an array of Japanese-style small
+  plates, paired perfectly with a selection of sake and beer, making it a go-to
+  choice for those seeking authentic flavors in a relaxed setting. Accessibility
+  is a key highlight, with options like wheelchair-friendly entrances and
+  seating that ensure everyone can enjoy the experience comfortably.
+  Additionally, the restaurant offers happy hour specials, adding value for
+  diners looking to explore top-rated Japanese cuisine without breaking the
+  bank. Whether you're searching for sushi places near you or craving a casual
+  meal in downtown Seattle, this spot combines quality ingredients with a warm
+  atmosphere to create memorable dining moments.
+generative_summary: >-
+  Discover Sushi Kanpai in Seattle, WA$$$Nestled in the heart of Seattle,
+  Washington, Sushi Kanpai stands out as a welcoming spot for fresh sushi and
+  Japanese-inspired dishes, drawing in locals and visitors alike with its
+  inviting ambiance. This cozy eatery features an array of Japanese-style small
+  plates, paired perfectly with a selection of sake and beer, making it a go-to
+  choice for those seeking authentic flavors in a relaxed setting. Accessibility
+  is a key highlight, with options like wheelchair-friendly entrances and
+  seating that ensure everyone can enjoy the experience comfortably.
+  Additionally, the restaurant offers happy hour specials, adding value for
+  diners looking to explore top-rated Japanese cuisine without breaking the
+  bank. Whether you're searching for sushi places near you or craving a casual
+  meal in downtown Seattle, this spot combines quality ingredients with a warm
+  atmosphere to create memorable dining moments.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Folks who visit Sushi Kanpai often rave about the
+  consistently fresh and flavorful sushi rolls that keep them coming back for
+  more, highlighting it as one of the better options in the area. Many
+  appreciate the reasonable prices and the welcoming vibe that makes it easy to
+  enjoy a meal with friends or solo, even during busy times. While some mention
+  occasional waits during peak hours, the overall experience is praised for its
+  solid portions and attentive service that add to the fun. Diners frequently
+  note the great value on drinks and specials, making it a favorite for anyone
+  hunting for reliable Japanese places nearby. All in all, with its strong
+  reputation and high ratings, this sushi restaurant delivers a satisfying
+  experience that leaves most people eager to recommend it to others looking for
+  quality eats in Seattle.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +395,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

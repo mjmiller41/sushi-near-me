@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ike's Japanese Kitchen"
+title: Ike's Japanese Kitchen
 permalink: /california/san-francisco/ike-s-japanese-kitchen.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
 seo:
-  name: "Ike's Japanese Kitchen"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Ike's Japanese Kitchen serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJkaNdBZeAhYARMYOh91wB560
 photos:
   - name: >-
@@ -169,7 +167,97 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80858097055da391:0xade7015cf7a18331!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 2:30 PM, 5:00 – 9:30 PM'
     - 'Tuesday: 11:00 AM – 2:30 PM, 5:00 – 9:30 PM'
     - 'Wednesday: 11:00 AM – 2:30 PM, 5:00 – 9:30 PM'
@@ -177,14 +265,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 2:30 PM, 5:00 – 10:30 PM'
     - 'Saturday: 5:00 – 10:30 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:00 AM – 2:30 PM, 5:00 – 9:30 PM'
-    - 'Tuesday: 11:00 AM – 2:30 PM, 5:00 – 9:30 PM'
-    - 'Wednesday: 11:00 AM – 2:30 PM, 5:00 – 9:30 PM'
-    - 'Thursday: 11:00 AM – 2:30 PM, 5:00 – 9:30 PM'
-    - 'Friday: 11:00 AM – 2:30 PM, 5:00 – 10:30 PM'
-    - 'Saturday: 5:00 – 10:30 PM'
-    - 'Sunday: Closed'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,35 +277,226 @@ phone: (415) 775-5800
 price_level: null
 price_range: null
 rating: '4.6'
-rating_count: 0
+rating_count: 187
 website: null
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Ike's Japanese Kitchen in San Francisco$$$Ike's Japanese Kitchen in
+  San Francisco, CA, is a welcoming spot for enjoying authentic Japanese cuisine
+  in a relaxed environment. This eatery specializes in fresh sushi and bento
+  boxes, complemented by a selection of sake and beer that pairs perfectly with
+  the menu. Patrons appreciate the casual atmosphere and accessible features
+  like wheelchair-friendly entrances, making it easy for everyone to savor the
+  flavors. The restaurant offers a variety of Japanese-inspired dishes, ideal
+  for those seeking sushi places near me or top-rated options in the area. With
+  convenient hours for lunch and dinner, it's a go-to choice for anyone
+  exploring sushi restaurants in this vibrant city.
+generative_summary: >-
+  Discover Ike's Japanese Kitchen in San Francisco$$$Ike's Japanese Kitchen in
+  San Francisco, CA, is a welcoming spot for enjoying authentic Japanese cuisine
+  in a relaxed environment. This eatery specializes in fresh sushi and bento
+  boxes, complemented by a selection of sake and beer that pairs perfectly with
+  the menu. Patrons appreciate the casual atmosphere and accessible features
+  like wheelchair-friendly entrances, making it easy for everyone to savor the
+  flavors. The restaurant offers a variety of Japanese-inspired dishes, ideal
+  for those seeking sushi places near me or top-rated options in the area. With
+  convenient hours for lunch and dinner, it's a go-to choice for anyone
+  exploring sushi restaurants in this vibrant city.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJkaNdBZeAhYARMYOh91wB560/reviews/ChdDSUhNMG9nS0VJQ0FnTURJbDUzcm1BRRAB
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        The Buljokbal was great ( had to add rice and kimchee as side orders) we
+        got upgraded to a garlic butter cream fries ( more like garlic cheese)
+        we had some sushi and it was ok but the Korean was on point
+      languageCode: en
+    originalText:
+      text: >-
+        The Buljokbal was great ( had to add rice and kimchee as side orders) we
+        got upgraded to a garlic butter cream fries ( more like garlic cheese)
+        we had some sushi and it was ok but the Korean was on point
+      languageCode: en
+    authorAttribution:
+      displayName: Dirk Elmendorf
+      uri: https://www.google.com/maps/contrib/117178240899258647913/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUdI9efW4URG6bTYLWoC9bi_zS6Z6UrSfnYVTQlrRSIEHNE4gRZ5g=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-13T15:42:11.151527Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJbDUzcm1BRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJbDUzcm1BRRAB!2m1!1s0x80858097055da391:0xade7015cf7a18331
+  - name: >-
+      places/ChIJkaNdBZeAhYARMYOh91wB560/reviews/ChdDSUhNMG9nS0VJQ0FnSUNyazlDVzBnRRAB
+    relativePublishTimeDescription: 9 months ago
+    rating: 5
+    text:
+      text: >-
+        I stopped by for an impromptu lunch and was seated quickly. I ordered
+        the tempura udon, which was delicious and generously portioned. The wait
+        staff was friendly and attentive. Overall, it was a pleasant experience!
+      languageCode: en
+    originalText:
+      text: >-
+        I stopped by for an impromptu lunch and was seated quickly. I ordered
+        the tempura udon, which was delicious and generously portioned. The wait
+        staff was friendly and attentive. Overall, it was a pleasant experience!
+      languageCode: en
+    authorAttribution:
+      displayName: Alexandra Johnson
+      uri: https://www.google.com/maps/contrib/106988391010844336825/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocI8RHCbc11UnO_DFXvzQ6MZaN4a99WfeXzuTSlTVlhLhoXqNCE=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-07-10T23:24:47.824837Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNyazlDVzBnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNyazlDVzBnRRAB!2m1!1s0x80858097055da391:0xade7015cf7a18331
+  - name: >-
+      places/ChIJkaNdBZeAhYARMYOh91wB560/reviews/ChdDSUhNMG9nS0VJQ0FnSURqb296TzFnRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        Had a wonderful Soju night with friends! It used to be a great sushi
+        place, and transformed to a fun soju place with delicious food. While
+        the sushi remains top-notch, the addition of Soju and tapas has elevated
+        the experience to new heights. A definite must-visit for a lively and
+        delicious night out. Highly recommended!
+      languageCode: en
+    originalText:
+      text: >-
+        Had a wonderful Soju night with friends! It used to be a great sushi
+        place, and transformed to a fun soju place with delicious food. While
+        the sushi remains top-notch, the addition of Soju and tapas has elevated
+        the experience to new heights. A definite must-visit for a lively and
+        delicious night out. Highly recommended!
+      languageCode: en
+    authorAttribution:
+      displayName: Mookyung Lee
+      uri: https://www.google.com/maps/contrib/104728424625510607853/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJzH0EKIf_fMu8xoTh5yPlnMtOc72Ve3D9QaQVnXh1Fye0Csg=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-05-01T02:09:45.417396Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURqb296TzFnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURqb296TzFnRRAB!2m1!1s0x80858097055da391:0xade7015cf7a18331
+  - name: >-
+      places/ChIJkaNdBZeAhYARMYOh91wB560/reviews/ChZDSUhNMG9nS0VJQ0FnSUNuZ2JuYmRREAE
+    relativePublishTimeDescription: 7 months ago
+    rating: 4
+    text:
+      text: >-
+        Cute little place. Sushi is decent. Rice on regular rolls can also be
+        pink premium. Special rolls are bomb!
+      languageCode: en
+    originalText:
+      text: >-
+        Cute little place. Sushi is decent. Rice on regular rolls can also be
+        pink premium. Special rolls are bomb!
+      languageCode: en
+    authorAttribution:
+      displayName: Anjali Rimi
+      uri: https://www.google.com/maps/contrib/110401857931825289107/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLco9wmV0ejKW_ZA11oI8Yw_OwlnpgW8EvagS9pw_aN-Rx2fg=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-09-26T15:57:11.702118Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNuZ2JuYmRREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNuZ2JuYmRREAE!2m1!1s0x80858097055da391:0xade7015cf7a18331
+  - name: >-
+      places/ChIJkaNdBZeAhYARMYOh91wB560/reviews/ChdDSUhNMG9nS0VJQ0FnSUMtdXBtUGdnRRAB
+    relativePublishTimeDescription: 2 years ago
+    rating: 5
+    text:
+      text: >-
+        This unassuming Japanese and Korean restaurant has some of the best,
+        fresh, and affordable sashimi you will find in the area.
+
+
+        Staff is always a pleasure to deal with and I love the options they
+        have. Everything is presented so thoughtfully and they will let you know
+        what is fresh for the day.
+
+
+        The Korean options are surprisingly very good if you happen to lean for
+        galbi or bibimbop in lieu of fish. Something for everyone. I frequent
+        this place every other week after work.
+      languageCode: en
+    originalText:
+      text: >-
+        This unassuming Japanese and Korean restaurant has some of the best,
+        fresh, and affordable sashimi you will find in the area.
+
+
+        Staff is always a pleasure to deal with and I love the options they
+        have. Everything is presented so thoughtfully and they will let you know
+        what is fresh for the day.
+
+
+        The Korean options are surprisingly very good if you happen to lean for
+        galbi or bibimbop in lieu of fish. Something for everyone. I frequent
+        this place every other week after work.
+      languageCode: en
+    authorAttribution:
+      displayName: Henry T
+      uri: https://www.google.com/maps/contrib/104887961240878408338/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWwV4QwHz-FwTkJSCGDBxkVaH80sxSEX9QKmJCDDK6uW1qMagyJ=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2022-11-02T00:35:08.450217Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMtdXBtUGdnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMtdXBtUGdnRRAB!2m1!1s0x80858097055da391:0xade7015cf7a18331
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this sushi spot often rave about the
+  fresh and flavorful dishes, highlighting the quality of sushi and
+  Korean-inspired options that make meals feel satisfying and affordable. Many
+  appreciate the generous portions and thoughtful presentations, which add to
+  the overall enjoyable experience without overwhelming the palate. The friendly
+  service and lively vibe create a fun atmosphere, perfect for casual outings or
+  groups, though some note that while everyday rolls are solid, the special
+  creations really stand out. Overall, it's praised as a reliable choice for
+  anyone craving top sushi near me, with feedback leaning positive on the
+  variety and value. If you're in the mood for a laid-back meal at Japanese
+  places near me, this spot delivers a consistently pleasant dining adventure.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
+delivery: true
+dine_in: true
+good_for_children: true
 good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+good_for_sports: true
+live_music: false
+menu_for_children: true
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

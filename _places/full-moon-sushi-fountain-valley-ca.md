@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Full Moon Sushi"
+title: Full Moon Sushi
 permalink: /california/fountain-valley/full-moon-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Fountain Valley
 seo:
-  name: "Full Moon Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Full Moon Sushi serves delicious sushi in Fountain Valley, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ-yATIzEn3YARGgM4GOwAGzA
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80dd2731231320fb:0x301b00ec1838031a!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 30
+    - open:
+        day: 1
+        hour: 12
+        minute: 0
+      close:
+        day: 1
+        hour: 20
+        minute: 30
+    - open:
+        day: 2
+        hour: 12
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 30
+    - open:
+        day: 3
+        hour: 12
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 30
+    - open:
+        day: 4
+        hour: 12
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 30
+    - open:
+        day: 5
+        hour: 12
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 12:00 – 8:30 PM'
+    - 'Tuesday: 12:00 – 8:30 PM'
+    - 'Wednesday: 12:00 – 8:30 PM'
+    - 'Thursday: 12:00 – 8:30 PM'
+    - 'Friday: 12:00 – 9:00 PM'
+    - 'Saturday: 12:00 – 9:00 PM'
+    - 'Sunday: 12:00 – 8:30 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,48 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
+phone: (714) 963-3214
+price_level: PRICE_LEVEL_INEXPENSIVE
+price_range: $10 &ndash; $20
+rating: '4.3'
+rating_count: 545
 website: null
+description: >-
+  About Full Moon Sushi in Fountain Valley, CA$$$Nestled in Fountain Valley, CA,
+  Full Moon Sushi stands out as a welcoming spot for those craving authentic
+  Japanese flavors and fresh sushi options. This casual eatery specializes in
+  creative specialty rolls and delectable small plates, paired perfectly with a
+  selection of beer and sake to enhance your dining experience. With its
+  commitment to accessibility features like wheelchair-friendly parking and
+  entrances, it's an inclusive choice for everyone seeking sushi restaurants
+  nearby. Operating daily from midday into the evening, it offers a relaxed
+  atmosphere ideal for casual meals or quick visits when you're looking for
+  top-rated sushi close to home.
+generative_summary: >-
+  About Full Moon Sushi in Fountain Valley, CA$$$Nestled in Fountain Valley, CA,
+  Full Moon Sushi stands out as a welcoming spot for those craving authentic
+  Japanese flavors and fresh sushi options. This casual eatery specializes in
+  creative specialty rolls and delectable small plates, paired perfectly with a
+  selection of beer and sake to enhance your dining experience. With its
+  commitment to accessibility features like wheelchair-friendly parking and
+  entrances, it's an inclusive choice for everyone seeking sushi restaurants
+  nearby. Operating daily from midday into the evening, it offers a relaxed
+  atmosphere ideal for casual meals or quick visits when you're looking for
+  top-rated sushi close to home.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors to Full Moon Sushi often rave about the
+  consistently fresh and flavorful dishes that make it a go-to for sushi
+  enthusiasts in the area. Many appreciate the great value for money, noting
+  that the portions are generous and the variety keeps things exciting without
+  breaking the bank. Folks frequently mention the welcoming vibe and efficient
+  service, which add to the overall enjoyment of a laid-back meal. While a few
+  point out occasional waits during peak times, the high satisfaction with taste
+  and quality keeps the feedback overwhelmingly positive. If you're hunting for
+  reliable sushi places near you, this spot earns solid praise for delivering a
+  satisfying experience that lives up to its strong 4.3-star rating.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +309,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -5,4 +5,5 @@ permalink: /ohio/twinsburg/
 stateAbbr: OH
 stateName: Ohio
 cityName: Twinsburg
+
 ---

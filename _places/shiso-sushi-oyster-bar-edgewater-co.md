@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Shiso Sushi & Oyster Bar"
+title: Shiso Sushi & Oyster Bar
 permalink: /colorado/edgewater/shiso-sushi-oyster-bar.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Edgewater
 seo:
-  name: "Shiso Sushi & Oyster Bar"
-  type: Restaurant
+  type: restaurant
   links: https://shisosushioysterbarco.com/
-description: "Shiso Sushi & Oyster Bar serves delicious sushi in Edgewater, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJyUDlkWqHa4cRDehR-ZeNuQ4
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x876b876a91e540c9:0xeb98d97f951e80d!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:30 PM'
     - 'Tuesday: 11:00 AM – 9:30 PM'
     - 'Wednesday: 11:00 AM – 9:30 PM'
@@ -178,54 +234,403 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:00 PM'
     - 'Saturday: 12:00 – 10:00 PM'
     - 'Sunday: 12:00 – 9:30 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:30 PM'
-    - 'Tuesday: 11:00 AM – 9:30 PM'
-    - 'Wednesday: 11:00 AM – 9:30 PM'
-    - 'Thursday: 11:00 AM – 9:30 PM'
-    - 'Friday: 11:00 AM – 10:00 PM'
-    - 'Saturday: 12:00 – 10:00 PM'
-    - 'Sunday: 12:00 – 9:30 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 0
+        close:
+          day: 0
+          hour: 21
+          minute: 30
+      - open:
+          day: 1
+          hour: 11
+          minute: 0
+        close:
+          day: 1
+          hour: 21
+          minute: 30
+      - open:
+          day: 2
+          hour: 11
+          minute: 0
+        close:
+          day: 2
+          hour: 21
+          minute: 30
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 21
+          minute: 30
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 30
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 22
+          minute: 0
+      - open:
+          day: 6
+          hour: 12
+          minute: 0
+        close:
+          day: 6
+          hour: 22
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 11:00 AM – 9:30 PM'
+      - 'Tuesday: 11:00 AM – 9:30 PM'
+      - 'Wednesday: 11:00 AM – 9:30 PM'
+      - 'Thursday: 11:00 AM – 9:30 PM'
+      - 'Friday: 11:00 AM – 10:00 PM'
+      - 'Saturday: 12:00 – 10:00 PM'
+      - 'Sunday: 12:00 – 9:30 PM'
+    secondaryHoursType: DELIVERY
+    nextCloseTime: '2025-05-04T04:00:00Z'
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 0
+        close:
+          day: 0
+          hour: 21
+          minute: 30
+      - open:
+          day: 1
+          hour: 11
+          minute: 0
+        close:
+          day: 1
+          hour: 21
+          minute: 30
+      - open:
+          day: 2
+          hour: 11
+          minute: 0
+        close:
+          day: 2
+          hour: 21
+          minute: 30
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 21
+          minute: 30
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 30
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 22
+          minute: 0
+      - open:
+          day: 6
+          hour: 12
+          minute: 0
+        close:
+          day: 6
+          hour: 22
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 11:00 AM – 9:30 PM'
+      - 'Tuesday: 11:00 AM – 9:30 PM'
+      - 'Wednesday: 11:00 AM – 9:30 PM'
+      - 'Thursday: 11:00 AM – 9:30 PM'
+      - 'Friday: 11:00 AM – 10:00 PM'
+      - 'Saturday: 12:00 – 10:00 PM'
+      - 'Sunday: 12:00 – 9:30 PM'
+    secondaryHoursType: TAKEOUT
+    nextCloseTime: '2025-05-04T04:00:00Z'
 phone: (303) 462-0873
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.5'
-rating_count: 0
+rating_count: 783
 website: https://shisosushioysterbarco.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Shiso Sushi & Oyster Bar in Edgewater, CO$$$Shiso Sushi & Oyster Bar
+  in Edgewater, CO, stands out as a go-to spot for fresh Japanese cuisine,
+  featuring an inviting selection of sushi rolls, oysters, and classic Asian
+  dishes in a relaxed setting. The menu highlights a variety of options like
+  ramen and tempura, making it a versatile choice for those seeking authentic
+  flavors in a casual atmosphere with stunning views of nearby Sloan Lake.
+  Accessibility features, such as wheelchair-friendly entrances and parking,
+  ensure a welcoming experience for all diners looking for sushi restaurants
+  nearby. This establishment combines affordability with quality, offering
+  moderately priced meals that appeal to families and groups alike. Whether
+  you're in the mood for top-rated sushi or a light oyster bar vibe, it's an
+  ideal destination for enjoying Japanese-inspired fare close to home.
+generative_summary: >-
+  Discover Shiso Sushi & Oyster Bar in Edgewater, CO$$$Shiso Sushi & Oyster Bar
+  in Edgewater, CO, stands out as a go-to spot for fresh Japanese cuisine,
+  featuring an inviting selection of sushi rolls, oysters, and classic Asian
+  dishes in a relaxed setting. The menu highlights a variety of options like
+  ramen and tempura, making it a versatile choice for those seeking authentic
+  flavors in a casual atmosphere with stunning views of nearby Sloan Lake.
+  Accessibility features, such as wheelchair-friendly entrances and parking,
+  ensure a welcoming experience for all diners looking for sushi restaurants
+  nearby. This establishment combines affordability with quality, offering
+  moderately priced meals that appeal to families and groups alike. Whether
+  you're in the mood for top-rated sushi or a light oyster bar vibe, it's an
+  ideal destination for enjoying Japanese-inspired fare close to home.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJyUDlkWqHa4cRDehR-ZeNuQ4/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJNHB6SXlBRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 2
+    text:
+      text: >-
+        The atmosphere was nice, but unfortunately, the food was disappointing.
+        Having grown up partially in Asia and being a huge sushi lover, I had
+        high hopes. The nigiri was decent, but every roll we ordered was
+        overloaded with cheap fillers and seriously lacking in fish. The
+        “crunchy” rolls were almost entirely crunch—so much that I could barely
+        see or taste any fish at all (see photo). Rolls that included cucumber
+        or their mayo-heavy imitation crab salad were the same story—mostly that
+        with very little actual fish. My Japanese friend and I left feeling
+        pretty let down. I personally would not come back.
+      languageCode: en
+    originalText:
+      text: >-
+        The atmosphere was nice, but unfortunately, the food was disappointing.
+        Having grown up partially in Asia and being a huge sushi lover, I had
+        high hopes. The nigiri was decent, but every roll we ordered was
+        overloaded with cheap fillers and seriously lacking in fish. The
+        “crunchy” rolls were almost entirely crunch—so much that I could barely
+        see or taste any fish at all (see photo). Rolls that included cucumber
+        or their mayo-heavy imitation crab salad were the same story—mostly that
+        with very little actual fish. My Japanese friend and I left feeling
+        pretty let down. I personally would not come back.
+      languageCode: en
+    authorAttribution:
+      displayName: Tiffany Chang
+      uri: https://www.google.com/maps/contrib/103098632295365205502/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjU3vOM_nLdr39We2OunKpAZ_gK3x_mFPz56h4ko6oog2LYKcv2xZg=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-01T16:04:16.931200Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNJNHB6SXlBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNJNHB6SXlBRRAB!2m1!1s0x876b876a91e540c9:0xeb98d97f951e80d
+  - name: >-
+      places/ChIJyUDlkWqHa4cRDehR-ZeNuQ4/reviews/ChdDSUhNMG9nS0VJQ0FnSURQbVpQSm13RRAB
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        My favorite affordable sushi spot. Their lunch special is excellent —
+        two rolls plus salad and soup for around $17 including tax and tip. If
+        you want a third roll, it’s just a little more. The sushi is delicious
+        and the staff are great.
+      languageCode: en
+    originalText:
+      text: >-
+        My favorite affordable sushi spot. Their lunch special is excellent —
+        two rolls plus salad and soup for around $17 including tax and tip. If
+        you want a third roll, it’s just a little more. The sushi is delicious
+        and the staff are great.
+      languageCode: en
+    authorAttribution:
+      displayName: Nick Brown
+      uri: https://www.google.com/maps/contrib/101782296496278807098/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVEP1ked1MDjnrZU4R5oSA_3E6U0VdFG5H3tHP0tUOE33D4CNDs=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-12-03T19:45:09.454880Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURQbVpQSm13RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURQbVpQSm13RRAB!2m1!1s0x876b876a91e540c9:0xeb98d97f951e80d
+  - name: >-
+      places/ChIJyUDlkWqHa4cRDehR-ZeNuQ4/reviews/ChRDSUhNMG9nS0VJQ0FnSUMzNUxnVBAB
+    relativePublishTimeDescription: 6 months ago
+    rating: 5
+    text:
+      text: >-
+        Intimate setting with great view of the sushi chefs and bar even from
+        the tables.  Also AMAZING view of Sloan Lake!  Service was 🤩!  Sushi
+        quality is exquisite, especially the Oysters! 🦪
+      languageCode: en
+    originalText:
+      text: >-
+        Intimate setting with great view of the sushi chefs and bar even from
+        the tables.  Also AMAZING view of Sloan Lake!  Service was 🤩!  Sushi
+        quality is exquisite, especially the Oysters! 🦪
+      languageCode: en
+    authorAttribution:
+      displayName: Jessica Lacsina
+      uri: https://www.google.com/maps/contrib/102975660552401849090/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjU4sGNEZvdT5g7Og-4BkB6s3VwnXjoPMVKNRjBwfAZK3b4VvSX9OA=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-11-03T01:35:04.195653Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChRDSUhNMG9nS0VJQ0FnSUMzNUxnVBAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChRDSUhNMG9nS0VJQ0FnSUMzNUxnVBAB!2m1!1s0x876b876a91e540c9:0xeb98d97f951e80d
+  - name: >-
+      places/ChIJyUDlkWqHa4cRDehR-ZeNuQ4/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3a0tPdjVnRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        The restaurant is a throwback to earlier days and still looks like the
+        bars from the Northside!
+
+
+        The sushi choices are many and they have pretty much any combination
+        you'd want. They also have oysters and sashimi 😋
+
+
+        We shared their Udon noodle soup and a couple of sushi rolls. It was a
+        perfect dinner.
+
+
+        Hot green tea rounded out our healthy and very filling meal.
+      languageCode: en
+    originalText:
+      text: >-
+        The restaurant is a throwback to earlier days and still looks like the
+        bars from the Northside!
+
+
+        The sushi choices are many and they have pretty much any combination
+        you'd want. They also have oysters and sashimi 😋
+
+
+        We shared their Udon noodle soup and a couple of sushi rolls. It was a
+        perfect dinner.
+
+
+        Hot green tea rounded out our healthy and very filling meal.
+      languageCode: en
+    authorAttribution:
+      displayName: Gabe Zamudio
+      uri: https://www.google.com/maps/contrib/108634233260970381117/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUW1swT_QCcJjzHr7AQjFkOUmYPqi0ffu5I17o0Lxm6ThQegJRa=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-03-22T19:14:26.081411Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUR3a0tPdjVnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUR3a0tPdjVnRRAB!2m1!1s0x876b876a91e540c9:0xeb98d97f951e80d
+  - name: >-
+      places/ChIJyUDlkWqHa4cRDehR-ZeNuQ4/reviews/ChdDSUhNMG9nS0VJQ0FnTURJaS1xNC13RRAB
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        We love this place. We've been a few times now and realized we've never
+        had a bad experience and needed to leave a review.
+
+
+        I love the food and the service is ALWAYS good.
+
+
+        We rode our bikes over from West Colfax. Really appreciate having them
+        so close to our neighborhood!
+      languageCode: en
+    originalText:
+      text: >-
+        We love this place. We've been a few times now and realized we've never
+        had a bad experience and needed to leave a review.
+
+
+        I love the food and the service is ALWAYS good.
+
+
+        We rode our bikes over from West Colfax. Really appreciate having them
+        so close to our neighborhood!
+      languageCode: en
+    authorAttribution:
+      displayName: Terrence Bowman (TJ)
+      uri: https://www.google.com/maps/contrib/102609194185534900537/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUFNxVQrnpaFiBN16DugrUz9zxXQRj6aaiOAtasDe8t1LG3XAyL=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-13T01:16:29.787668Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJaS1xNC13RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJaS1xNC13RRAB!2m1!1s0x876b876a91e540c9:0xeb98d97f951e80d
+review_summary: >-
+  What Visitors Are Saying About This Sushi Spot$$$Folks generally rave about
+  the affordable lunch specials and tasty sushi rolls at this spot, often
+  highlighting how the variety and portions make for a satisfying meal without
+  breaking the bank. While a few mentions point to some rolls feeling a bit
+  filler-heavy, the overall vibe leans positive with praise for the friendly
+  service and cozy atmosphere that enhances the dining experience. Many
+  appreciate the excellent views and additional options like oysters and udon
+  soup, which add to the appeal for casual outings or groups. It's clear that
+  the staff's consistent attentiveness and the spot's location near local
+  neighborhoods keep customers coming back for more. All in all, if you're
+  hunting for solid sushi places nearby, this one delivers a reliably enjoyable
+  time with a mix of flavors that keep the feedback upbeat.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
+curbside_pickup: false
+delivery: true
+dine_in: true
 good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
 reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Relaxed space serving classic & specialty sushi rolls, oysters & familiar
+  entrees such as teriyaki.
 
 ---

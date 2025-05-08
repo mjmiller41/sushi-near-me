@@ -5,4 +5,5 @@ permalink: /north-carolina/greensboro/
 stateAbbr: NC
 stateName: North Carolina
 cityName: Greensboro
+
 ---

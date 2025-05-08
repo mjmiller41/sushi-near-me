@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "EAV Thai and Sushi"
+title: EAV Thai and Sushi
 permalink: /georgia/atlanta/eav-thai-and-sushi.html
 stateAbbr: GA
 stateName: Georgia
 cityName: Atlanta
 seo:
-  name: "EAV Thai and Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.eavthaisushi.com/
-description: "Retro establishment with brick decor & splashy artwork whips up traditional Thai & sushi dishes. EAV Thai and Sushi serves delicious sushi in Atlanta, Georgia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ0dFAn1sB9YgRep7HiJOdbA8
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 0
 website: http://www.eavthaisushi.com/
+description: >-
+  Discover EAV Thai and Sushi in Atlanta, GA$$$Nestled in the vibrant city of
+  Atlanta, GA, EAV Thai and Sushi offers a delightful blend of traditional Thai
+  specialties and fresh sushi options in a relaxed, informal atmosphere. This
+  Asian restaurant features an inviting setting with retro brick decor and
+  splashy artwork that enhances the dining experience, making it a perfect spot
+  for enjoying flavorful dishes alongside creative cocktails and margaritas.
+  Patrons can savor a variety of sushi choices that complement the Thai cuisine,
+  all prepared with fresh ingredients that highlight bold flavors and authentic
+  tastes. The establishment also prioritizes accessibility with
+  wheelchair-friendly features, ensuring a welcoming environment for all
+  visitors seeking sushi restaurants in the area.
+generative_summary: >-
+  Discover EAV Thai and Sushi in Atlanta, GA$$$Nestled in the vibrant city of
+  Atlanta, GA, EAV Thai and Sushi offers a delightful blend of traditional Thai
+  specialties and fresh sushi options in a relaxed, informal atmosphere. This
+  Asian restaurant features an inviting setting with retro brick decor and
+  splashy artwork that enhances the dining experience, making it a perfect spot
+  for enjoying flavorful dishes alongside creative cocktails and margaritas.
+  Patrons can savor a variety of sushi choices that complement the Thai cuisine,
+  all prepared with fresh ingredients that highlight bold flavors and authentic
+  tastes. The establishment also prioritizes accessibility with
+  wheelchair-friendly features, ensuring a welcoming environment for all
+  visitors seeking sushi restaurants in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ0dFAn1sB9YgRep7HiJOdbA8/reviews/ChZDSUhNMG9nS0VJQ0FnTURndzY3bEVnEAE
@@ -488,6 +511,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURucnZPR3JnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURucnZPR3JnRRAB!2m1!1s0x88f5015b9f40d1d1:0xf6c9d9388c79e7a
+review_summary: >-
+  What Visitors Are Buzzing About This Spot$$$Folks rave about the tasty sushi
+  rolls, Bangkok fried rice, and crispy appetizers that make meals here feel
+  fresh and satisfying, often paired with strong margaritas that add a fun twist
+  to the vibe. Many appreciate the laid-back and welcoming atmosphere, ideal for
+  casual nights out with friends or a quiet date, though some note that service
+  can occasionally slow down during busy times. Overall, the food stands out for
+  its authentic flavors and generous portions, drawing in those hunting for
+  top-rated sushi near Atlanta. It's easy to see why this place keeps pulling in
+  repeat crowds, with its mix of solid drinks and a chill setting that
+  encourages relaxed evenings. If you're exploring sushi places nearby, this
+  spot delivers a reliably enjoyable experience with just a few areas for
+  improvement.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -520,8 +557,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Retro establishment with brick decor & splashy artwork whips up traditional
   Thai & sushi dishes.
 

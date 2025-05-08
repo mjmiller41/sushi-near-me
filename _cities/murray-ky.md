@@ -5,4 +5,5 @@ permalink: /kentucky/murray/
 stateAbbr: KY
 stateName: Kentucky
 cityName: Murray
+
 ---

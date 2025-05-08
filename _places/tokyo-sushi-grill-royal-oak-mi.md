@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Tokyo Sushi & Grill"
+title: Tokyo Sushi & Grill
 permalink: /michigan/royal-oak/tokyo-sushi-grill.html
 stateAbbr: MI
 stateName: Michigan
 cityName: Royal Oak
 seo:
-  name: "Tokyo Sushi & Grill"
-  type: Restaurant
-  links: null
-description: "Tokyo Sushi & Grill serves delicious sushi in Royal Oak, Michigan. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.tokyosushigrillmi.com/
 place_id: ChIJC0jAj0HPJIgRVfW9iJAWRGU
 photos:
   - name: >-
@@ -170,22 +168,174 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8824cf418fc0480b:0x6544169088bdf555!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 20
+        minute: 50
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 50
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 50
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 50
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 20
+        minute: 50
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 20
+        minute: 50
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 8:50 PM'
+    - 'Tuesday: 11:00 AM – 8:50 PM'
+    - 'Wednesday: 11:00 AM – 8:50 PM'
+    - 'Thursday: 11:00 AM – 8:50 PM'
+    - 'Friday: 11:00 AM – 8:50 PM'
+    - 'Saturday: 12:00 – 8:50 PM'
+    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T00:50:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+  - openNow: true
+    periods:
+      - open:
+          day: 1
+          hour: 11
+          minute: 0
+        close:
+          day: 1
+          hour: 21
+          minute: 30
+      - open:
+          day: 2
+          hour: 11
+          minute: 0
+        close:
+          day: 2
+          hour: 21
+          minute: 30
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 21
+          minute: 30
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 30
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 21
+          minute: 30
+      - open:
+          day: 6
+          hour: 12
+          minute: 0
+        close:
+          day: 6
+          hour: 21
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 11:00 AM – 9:30 PM'
+      - 'Tuesday: 11:00 AM – 9:30 PM'
+      - 'Wednesday: 11:00 AM – 9:30 PM'
+      - 'Thursday: 11:00 AM – 9:30 PM'
+      - 'Friday: 11:00 AM – 9:30 PM'
+      - 'Saturday: 12:00 – 9:30 PM'
+      - 'Sunday: Closed'
+    secondaryHoursType: TAKEOUT
+    nextCloseTime: '2025-05-04T01:30:00Z'
+phone: (248) 677-3988
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.2'
+rating_count: 209
+website: https://www.tokyosushigrillmi.com/
+description: >-
+  Explore Tokyo Sushi & Grill in Royal Oak, MI$$$Tokyo Sushi & Grill in Royal
+  Oak, MI, offers a welcoming atmosphere for enjoying fresh sushi and
+  traditional Japanese dishes, making it a go-to spot for casual dining
+  enthusiasts. This relaxed establishment features a variety of options,
+  including flavorful vegetarian choices that cater to diverse tastes, all
+  prepared with care to highlight authentic flavors. Visitors can appreciate the
+  convenient location and accessibility features, such as wheelchair-friendly
+  entrances, ensuring a comfortable experience for everyone. With its moderate
+  pricing and inviting vibe, it's an ideal choice for those seeking top-rated
+  sushi restaurants in the area, perfect for a laid-back meal after exploring
+  the city. Whether you're in the mood for innovative rolls or classic Japanese
+  favorites, this spot delivers on quality and simplicity.
+generative_summary: >-
+  Explore Tokyo Sushi & Grill in Royal Oak, MI$$$Tokyo Sushi & Grill in Royal
+  Oak, MI, offers a welcoming atmosphere for enjoying fresh sushi and
+  traditional Japanese dishes, making it a go-to spot for casual dining
+  enthusiasts. This relaxed establishment features a variety of options,
+  including flavorful vegetarian choices that cater to diverse tastes, all
+  prepared with care to highlight authentic flavors. Visitors can appreciate the
+  convenient location and accessibility features, such as wheelchair-friendly
+  entrances, ensuring a comfortable experience for everyone. With its moderate
+  pricing and inviting vibe, it's an ideal choice for those seeking top-rated
+  sushi restaurants in the area, perfect for a laid-back meal after exploring
+  the city. Whether you're in the mood for innovative rolls or classic Japanese
+  favorites, this spot delivers on quality and simplicity.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback Highlights$$$From what customers are sharing online, Tokyo
+  Sushi & Grill stands out as a solid pick for anyone hunting for great sushi
+  nearby, with many praising the fresh ingredients and tasty Japanese selections
+  that keep things exciting. Folks often mention the welcoming service and
+  reliable flavors that make it a repeat favorite, though some note that wait
+  times can vary during peak hours, adding a bit of real-world honesty to the
+  experience. Overall, the vibe here scores high marks for being family-friendly
+  and approachable, helping it maintain a strong reputation among local diners.
+  If you're on the hunt for sushi places near me that offer good value without
+  skimping on taste, this spot seems to deliver consistently positive vibes. In
+  short, it's a dependable choice that leaves most visitors satisfied and eager
+  to return for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +361,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

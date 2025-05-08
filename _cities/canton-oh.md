@@ -5,4 +5,5 @@ permalink: /ohio/canton/
 stateAbbr: OH
 stateName: Ohio
 cityName: Canton
+
 ---

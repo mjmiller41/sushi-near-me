@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ichiban Sushi"
+title: Ichiban Sushi
 permalink: /new-jersey/plainsboro-township/ichiban-sushi.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Plainsboro Township
 seo:
-  name: "Ichiban Sushi"
-  type: Restaurant
-  links: null
-description: "Ichiban Sushi serves delicious sushi in Plainsboro Township, New Jersey. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://ichibanplainsboro.com/
 place_id: ChIJKRaHoObdw4kRU9yXWogivlU
 photos:
   - name: >-
@@ -169,8 +167,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c3dde6a0871629:0x55be22885a97dc53!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: Closed'
+    - 'Tuesday: 11:00 AM – 9:30 PM'
+    - 'Wednesday: 11:00 AM – 9:30 PM'
+    - 'Thursday: 11:00 AM – 9:30 PM'
+    - 'Friday: 11:00 AM – 10:30 PM'
+    - 'Saturday: 11:00 AM – 10:30 PM'
+    - 'Sunday: 12:00 – 9:30 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -178,13 +233,55 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (609) 936-8818
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.1'
+rating_count: 581
+website: http://ichibanplainsboro.com/
+description: >-
+  Discover Ichiban Sushi in Plainsboro Township, NJ$$$Ichiban Sushi in
+  Plainsboro Township, NJ, stands out as a welcoming Japanese restaurant nestled
+  in a bustling shopping center, offering an array of fresh sushi options that
+  appeal to those seeking authentic flavors nearby. With its all-you-can-eat
+  menu and diverse selection of rolls and dishes, this spot caters to sushi
+  enthusiasts looking for variety and value in a comfortable setting. The
+  restaurant emphasizes accessibility features like wheelchair-friendly parking
+  and seating, making it easier for everyone to enjoy a meal. Operating hours
+  span from late morning into the evening on most days, ideal for casual lunches
+  or dinners after exploring local attractions. Whether you're in the mood for
+  top-rated sushi or exploring Japanese places close to you, this location
+  combines quality ingredients with a relaxed atmosphere to create a memorable
+  dining experience.
+generative_summary: >-
+  Discover Ichiban Sushi in Plainsboro Township, NJ$$$Ichiban Sushi in
+  Plainsboro Township, NJ, stands out as a welcoming Japanese restaurant nestled
+  in a bustling shopping center, offering an array of fresh sushi options that
+  appeal to those seeking authentic flavors nearby. With its all-you-can-eat
+  menu and diverse selection of rolls and dishes, this spot caters to sushi
+  enthusiasts looking for variety and value in a comfortable setting. The
+  restaurant emphasizes accessibility features like wheelchair-friendly parking
+  and seating, making it easier for everyone to enjoy a meal. Operating hours
+  span from late morning into the evening on most days, ideal for casual lunches
+  or dinners after exploring local attractions. Whether you're in the mood for
+  top-rated sushi or exploring Japanese places close to you, this location
+  combines quality ingredients with a relaxed atmosphere to create a memorable
+  dining experience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About the Experience$$$Visitors to this sushi spot
+  often rave about the fresh flavors and generous portions that make it a go-to
+  choice for tasty meals in the area. Many appreciate the variety of options,
+  noting that the all-you-can-eat setup delivers great value without skimping on
+  quality, though some mention occasional waits during peak times. Feedback
+  highlights the welcoming vibe and efficient service, helping it maintain a
+  solid reputation among those hunting for reliable sushi restaurants nearby.
+  Overall, the consensus leans positive, with folks enjoying the authentic taste
+  and atmosphere that keeps them coming back for more casual outings. If you're
+  searching for best sushi near me, this place offers a consistently enjoyable
+  experience that's worth trying for its flavorful dishes and friendly service.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +307,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

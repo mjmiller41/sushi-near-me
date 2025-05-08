@@ -5,4 +5,5 @@ permalink: /california/oxnard/
 stateAbbr: CA
 stateName: California
 cityName: Oxnard
+
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Maru Sushi & Grill"
+title: Maru Sushi & Grill
 permalink: /michigan/east-lansing/maru-sushi-grill.html
 stateAbbr: MI
 stateName: Michigan
 cityName: East Lansing
 seo:
-  name: "Maru Sushi & Grill"
-  type: Restaurant
-  links: null
-description: "Maru Sushi & Grill serves delicious sushi in East Lansing, Michigan. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.marusushi.com/location/east-lansing/
 place_id: ChIJJVShYpfpIogRAdj1sr0P8dk
 photos:
   - name: >-
@@ -170,22 +168,232 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8822e99762a15425:0xd9f10fbdb2f5d801!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:30 AM – 9:00 PM'
+    - 'Tuesday: 11:30 AM – 9:00 PM'
+    - 'Wednesday: 11:30 AM – 9:00 PM'
+    - 'Thursday: 11:30 AM – 9:00 PM'
+    - 'Friday: 11:30 AM – 9:00 PM'
+    - 'Saturday: 11:30 AM – 9:00 PM'
+    - 'Sunday: 11:30 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T01:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+  - openNow: false
+    periods:
+      - open:
+          day: 1
+          hour: 15
+          minute: 0
+        close:
+          day: 1
+          hour: 17
+          minute: 0
+      - open:
+          day: 2
+          hour: 15
+          minute: 0
+        close:
+          day: 2
+          hour: 17
+          minute: 0
+      - open:
+          day: 3
+          hour: 15
+          minute: 0
+        close:
+          day: 3
+          hour: 17
+          minute: 0
+      - open:
+          day: 4
+          hour: 15
+          minute: 0
+        close:
+          day: 4
+          hour: 17
+          minute: 0
+      - open:
+          day: 5
+          hour: 15
+          minute: 0
+        close:
+          day: 5
+          hour: 17
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 3:00 – 5:00 PM'
+      - 'Tuesday: 3:00 – 5:00 PM'
+      - 'Wednesday: 3:00 – 5:00 PM'
+      - 'Thursday: 3:00 – 5:00 PM'
+      - 'Friday: 3:00 – 5:00 PM'
+      - 'Saturday: Closed'
+      - 'Sunday: Closed'
+    secondaryHoursType: HAPPY_HOUR
+    nextOpenTime: '2025-05-05T19:00:00Z'
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 11
+          minute: 30
+        close:
+          day: 0
+          hour: 21
+          minute: 0
+      - open:
+          day: 1
+          hour: 11
+          minute: 30
+        close:
+          day: 1
+          hour: 21
+          minute: 0
+      - open:
+          day: 2
+          hour: 11
+          minute: 30
+        close:
+          day: 2
+          hour: 21
+          minute: 0
+      - open:
+          day: 3
+          hour: 11
+          minute: 30
+        close:
+          day: 3
+          hour: 21
+          minute: 0
+      - open:
+          day: 4
+          hour: 11
+          minute: 30
+        close:
+          day: 4
+          hour: 21
+          minute: 0
+      - open:
+          day: 5
+          hour: 11
+          minute: 30
+        close:
+          day: 5
+          hour: 21
+          minute: 0
+      - open:
+          day: 6
+          hour: 11
+          minute: 30
+        close:
+          day: 6
+          hour: 21
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 11:30 AM – 9:00 PM'
+      - 'Tuesday: 11:30 AM – 9:00 PM'
+      - 'Wednesday: 11:30 AM – 9:00 PM'
+      - 'Thursday: 11:30 AM – 9:00 PM'
+      - 'Friday: 11:30 AM – 9:00 PM'
+      - 'Saturday: 11:30 AM – 9:00 PM'
+      - 'Sunday: 11:30 AM – 9:00 PM'
+    secondaryHoursType: TAKEOUT
+    nextCloseTime: '2025-05-04T01:00:00Z'
+phone: (517) 337-1500
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.5'
+rating_count: 1222
+website: https://www.marusushi.com/location/east-lansing/
+description: >-
+  Discover Maru Sushi & Grill in East Lansing, MI$$$Maru Sushi & Grill in East
+  Lansing, MI, provides a laid-back atmosphere for savoring authentic Japanese
+  dishes that highlight fresh sushi and grilled favorites. This spot stands out
+  with its selection of craft beers and a menu designed for those seeking
+  flavorful, everyday dining options in a welcoming setting. Accessibility
+  features ensure a comfortable visit for all, including easy entry and seating
+  arrangements. Operating daily from late morning until evening, it's an ideal
+  choice for anyone exploring sushi restaurants in the area that blend tradition
+  with casual vibes.
+generative_summary: >-
+  Discover Maru Sushi & Grill in East Lansing, MI$$$Maru Sushi & Grill in East
+  Lansing, MI, provides a laid-back atmosphere for savoring authentic Japanese
+  dishes that highlight fresh sushi and grilled favorites. This spot stands out
+  with its selection of craft beers and a menu designed for those seeking
+  flavorful, everyday dining options in a welcoming setting. Accessibility
+  features ensure a comfortable visit for all, including easy entry and seating
+  arrangements. Operating daily from late morning until evening, it's an ideal
+  choice for anyone exploring sushi restaurants in the area that blend tradition
+  with casual vibes.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Buzzing About$$$Folks frequently rave about the fresh and
+  creative sushi offerings at this East Lansing gem, noting how the flavors hit
+  the spot for sushi enthusiasts. Many highlight the solid service and relaxed
+  environment, making it a go-to for casual meals with friends or family. While
+  some mention prices lean toward the moderate side, the overall value keeps
+  diners coming back for more. If you're on the hunt for top-rated Japanese
+  places nearby, this location often earns high marks for its reliable quality
+  and enjoyable experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +419,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

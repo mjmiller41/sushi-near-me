@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Konnichiwa"
+title: Konnichiwa
 permalink: /north-carolina/charlotte/konnichiwa.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Charlotte
 seo:
-  name: "Konnichiwa"
-  type: Restaurant
+  type: restaurant
   links: https://www.konnichiwacharlotte.com/
-description: "Konnichiwa serves delicious sushi in Charlotte, North Carolina. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJkbGxEdWfVogREC3j2glYA1Y
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x88569fd511b1b191:0x56035809dae32d10!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:30 PM'
     - 'Tuesday: 11:00 AM – 9:30 PM'
     - 'Wednesday: 11:00 AM – 9:30 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:00 PM'
     - 'Saturday: 11:00 AM – 10:00 PM'
     - 'Sunday: 12:00 – 9:30 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:30 PM'
-    - 'Tuesday: 11:00 AM – 9:30 PM'
-    - 'Wednesday: 11:00 AM – 9:30 PM'
-    - 'Thursday: 11:00 AM – 9:30 PM'
-    - 'Friday: 11:00 AM – 10:00 PM'
-    - 'Saturday: 11:00 AM – 10:00 PM'
-    - 'Sunday: 12:00 – 9:30 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +246,53 @@ phone: (980) 498-0420
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.5'
-rating_count: 0
+rating_count: 472
 website: https://www.konnichiwacharlotte.com/
+description: >-
+  Discover Konnichiwa in Charlotte, NC$$$Nestled in the vibrant city of
+  Charlotte, North Carolina, Konnichiwa stands out as a welcoming Japanese
+  restaurant offering an array of fresh sushi and authentic flavors. This spot
+  highlights a diverse selection of expertly crafted dishes, including sashimi
+  and hibachi-style options, paired with refreshing beverages like sake and beer
+  for a complete dining experience. With its convenient location in the Dilworth
+  neighborhood, it's an ideal choice for those seeking quality Japanese cuisine
+  close to home, complete with accessible features like wheelchair-friendly
+  parking and seating. The restaurant's inviting atmosphere and extended hours
+  make it perfect for casual lunches or evening outings, ensuring a satisfying
+  visit any day of the week. Whether you're exploring top-rated sushi spots or
+  looking for Japanese places near me, Konnichiwa delivers a memorable blend of
+  taste and convenience.
+generative_summary: >-
+  Discover Konnichiwa in Charlotte, NC$$$Nestled in the vibrant city of
+  Charlotte, North Carolina, Konnichiwa stands out as a welcoming Japanese
+  restaurant offering an array of fresh sushi and authentic flavors. This spot
+  highlights a diverse selection of expertly crafted dishes, including sashimi
+  and hibachi-style options, paired with refreshing beverages like sake and beer
+  for a complete dining experience. With its convenient location in the Dilworth
+  neighborhood, it's an ideal choice for those seeking quality Japanese cuisine
+  close to home, complete with accessible features like wheelchair-friendly
+  parking and seating. The restaurant's inviting atmosphere and extended hours
+  make it perfect for casual lunches or evening outings, ensuring a satisfying
+  visit any day of the week. Whether you're exploring top-rated sushi spots or
+  looking for Japanese places near me, Konnichiwa delivers a memorable blend of
+  taste and convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About Konnichiwa$$$Folks generally rave about the
+  fresh and flavorful sushi at this Charlotte favorite, often noting how it hits
+  the spot for anyone craving reliable Japanese dining options nearby. Many
+  appreciate the consistent quality and variety, with comments highlighting the
+  generous portions and well-prepared dishes that keep diners coming back for
+  more. While a few mention minor waits during peak times, the overall vibe
+  remains upbeat, with praise for the friendly service and inviting setting that
+  enhances the meal. Based on the solid 4.5-star rating from hundreds of
+  visitors, it's clear this place is a go-to for those hunting for the best
+  sushi near me, offering a reliably enjoyable experience without any major
+  letdowns. If you're on the hunt for top-rated sushi restaurants in the area,
+  Konnichiwa seems to deliver just what people are looking for in a casual,
+  satisfying way.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +318,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

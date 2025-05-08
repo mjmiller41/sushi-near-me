@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Tamashi Ramen Sushi- Oak Forest/Heights"
+title: Tamashi Ramen Sushi- Oak Forest/Heights
 permalink: /texas/houston/tamashi-ramen-sushi-oak-forest-heights.html
 stateAbbr: TX
 stateName: Texas
 cityName: Houston
 seo:
-  name: "Tamashi Ramen Sushi- Oak Forest/Heights"
-  type: Restaurant
-  links: null
-description: "Tamashi Ramen Sushi- Oak Forest/Heights serves delicious sushi in Houston, Texas. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.tamashiramensushi.com/
 place_id: ChIJ5wdW5NvHQIYRS2bA8406bow
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8640c7dbe45607e7:0x8c6e3a8df3c0664b!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:30 PM'
+    - 'Tuesday: 11:00 AM – 9:30 PM'
+    - 'Wednesday: 11:00 AM – 9:30 PM'
+    - 'Thursday: 11:00 AM – 9:30 PM'
+    - 'Friday: 11:00 AM – 10:00 PM'
+    - 'Saturday: 12:00 – 10:00 PM'
+    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,51 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (713) 636-2665
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.5'
+rating_count: 478
+website: http://www.tamashiramensushi.com/
+description: >-
+  Discover Tamashi Ramen Sushi in Houston, TX$$$Tamashi Ramen Sushi in Houston,
+  TX, stands out as a welcoming Japanese restaurant serving fresh ramen and
+  sushi in a relaxed atmosphere. This spot highlights a cozy setting ideal for
+  enjoying authentic flavors, with options that cater to various tastes
+  including hearty noodle dishes and expertly crafted rolls. Accessibility
+  features like wheelchair-friendly parking and entrances make it convenient for
+  everyone to savor the experience. Operating hours span from late morning to
+  evening most days, perfect for those seeking sushi restaurants near me looking
+  for a casual meal. Whether you're in the mood for top-rated sushi or other
+  Japanese favorites, this location combines quality ingredients with a
+  comfortable vibe to enhance your dining outing.
+generative_summary: >-
+  Discover Tamashi Ramen Sushi in Houston, TX$$$Tamashi Ramen Sushi in Houston,
+  TX, stands out as a welcoming Japanese restaurant serving fresh ramen and
+  sushi in a relaxed atmosphere. This spot highlights a cozy setting ideal for
+  enjoying authentic flavors, with options that cater to various tastes
+  including hearty noodle dishes and expertly crafted rolls. Accessibility
+  features like wheelchair-friendly parking and entrances make it convenient for
+  everyone to savor the experience. Operating hours span from late morning to
+  evening most days, perfect for those seeking sushi restaurants near me looking
+  for a casual meal. Whether you're in the mood for top-rated sushi or other
+  Japanese favorites, this location combines quality ingredients with a
+  comfortable vibe to enhance your dining outing.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About the Experience$$$Folks who've visited Tamashi
+  Ramen Sushi often rave about the delicious and well-prepared dishes that keep
+  them coming back for more. Many highlight the flavorful ramen and sushi
+  combinations as standout features, noting that the portions feel just right
+  for a satisfying meal without breaking the bank. While some mention minor
+  waits during peak times, the overall service is described as friendly and
+  efficient, adding to the enjoyable atmosphere. Overall, the high ratings
+  reflect a positive consensus on the value and taste, making it a solid choice
+  for anyone hunting for reliable Japanese places near me. If you're exploring
+  best sushi near me options, this spot seems to deliver a consistently pleasant
+  experience that balances quality with approachability.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +312,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

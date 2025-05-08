@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Young Chow Asian Fusion Sushi Bar"
+title: Young Chow Asian Fusion Sushi Bar
 permalink: /district-of-columbia/washington/young-chow-asian-fusion-sushi-bar.html
 stateAbbr: DC
 stateName: District of Columbia
 cityName: Washington
 seo:
-  name: "Young Chow Asian Fusion Sushi Bar"
-  type: Restaurant
+  type: restaurant
   links: https://www.youngchowdc.com/
-description: "A mix of Asian classics, including sushi, share the sizable menu at this unpretentious eatery. Young Chow Asian Fusion Sushi Bar serves delicious sushi in Washington, District of Columbia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJMzD4fi64t4kRf81PW3oK5Lk
 photos:
   - name: >-
@@ -182,12 +180,48 @@ price_range: $20 &mdash; 30
 rating: '4.3'
 rating_count: 0
 website: https://www.youngchowdc.com/
+description: >-
+  Discover Young Chow Asian Fusion in Washington, DC$$$Nestled in the heart of
+  Washington, DC, Young Chow Asian Fusion Sushi Bar stands out as a go-to spot
+  for flavorful Asian cuisine that blends tradition with creative twists. This
+  unpretentious eatery boasts a diverse menu featuring fresh sushi and classic
+  dishes, making it a welcoming choice for anyone seeking a relaxed dining
+  experience. With thoughtful touches like wheelchair-accessible restrooms and
+  options for beer and wine, it caters to a variety of preferences, including
+  families and groups. The spot emphasizes vegetarian selections and convenient
+  services such as dine-in, takeout, and delivery, enhancing its appeal as a
+  versatile sushi destination in the bustling Capitol Hill area.
+generative_summary: >-
+  Discover Young Chow Asian Fusion in Washington, DC$$$Nestled in the heart of
+  Washington, DC, Young Chow Asian Fusion Sushi Bar stands out as a go-to spot
+  for flavorful Asian cuisine that blends tradition with creative twists. This
+  unpretentious eatery boasts a diverse menu featuring fresh sushi and classic
+  dishes, making it a welcoming choice for anyone seeking a relaxed dining
+  experience. With thoughtful touches like wheelchair-accessible restrooms and
+  options for beer and wine, it caters to a variety of preferences, including
+  families and groups. The spot emphasizes vegetarian selections and convenient
+  services such as dine-in, takeout, and delivery, enhancing its appeal as a
+  versatile sushi destination in the bustling Capitol Hill area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - ChdDSUhNMG9nS0VJQ0FnSUNEbVpfRzVRRRAB
   - ChdDSUhNMG9nS0VJQ0FnSUMxenFXdmxnRRAB
   - ChZDSUhNMG9nS0VJQ0FnSUQ5bjVUVVdBEAE
   - ChZDSUhNMG9nS0VJQ0FnSURCOU8tNUR3EAE
   - ChZDSUhNMG9nS0VJQ0FnSUNYMWR2VmVREAE
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this sushi spot in Washington, DC,
+  often highlight the fresh flavors and variety of dishes, making it a solid
+  pick for those craving reliable Asian fusion options. Many appreciate the
+  friendly service and welcoming atmosphere, which add to the overall enjoyment
+  without overwhelming the experience. Feedback frequently notes the generous
+  portions and tasty vegetarian choices, helping it stand out among local
+  eateries for everyday meals or special occasions. While some mention minor
+  waits during peak times, the general consensus leans positive, with the 4.3
+  rating reflecting satisfaction in taste and value. Overall, it's a
+  neighborhood favorite that delivers on expectations for casual, enjoyable
+  dining without any major drawbacks.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: {}
 payment_options:
   acceptsCreditCards: true
@@ -214,8 +248,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   A mix of Asian classics, including sushi, share the sizable menu at this
   unpretentious eatery.
 

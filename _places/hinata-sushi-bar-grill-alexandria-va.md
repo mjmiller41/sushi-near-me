@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Hinata Sushi Bar &Grill"
+title: Hinata Sushi Bar &Grill
 permalink: /virginia/alexandria/hinata-sushi-bar-grill.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Alexandria
 seo:
-  name: "Hinata Sushi Bar &Grill"
-  type: Restaurant
+  type: restaurant
   links: http://www.clover.com/online-ordering/hinata-alexandria/
-description: "Relaxed locale dishing up traditional Japanese cuisine, including rolls, sashimi & tempura. Hinata Sushi Bar &Grill serves delicious sushi in Alexandria, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJbzxVIsyxt4kRDvR65e416n0
 photos:
   - name: >-
@@ -185,6 +183,35 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 0
 website: http://www.clover.com/online-ordering/hinata-alexandria/
+description: >-
+  Explore Hinata Sushi in Alexandria, VA$$$Hinata Sushi Bar & Grill in
+  Alexandria, VA, offers a relaxed and welcoming atmosphere perfect for enjoying
+  traditional Japanese cuisine, including fresh rolls, sashimi, and tempura that
+  highlight the art of authentic flavors. This spot stands out with its
+  accessible features, such as wheelchair-friendly entrances and seating, making
+  it easy for everyone to savor a meal in comfort. Diners can appreciate the
+  moderate pricing and variety of options, from hearty lunch specials to evening
+  dinners, paired with beers and wines that complement the menu. For those
+  seeking sushi restaurants near you, the emphasis on quality ingredients and
+  thoughtful presentation creates an inviting experience that feels both casual
+  and refined. Whether you're in the mood for top-rated sushi or exploring
+  Japanese places close to home, this location delivers a memorable dining
+  option in the heart of Old Town.
+generative_summary: >-
+  Explore Hinata Sushi in Alexandria, VA$$$Hinata Sushi Bar & Grill in
+  Alexandria, VA, offers a relaxed and welcoming atmosphere perfect for enjoying
+  traditional Japanese cuisine, including fresh rolls, sashimi, and tempura that
+  highlight the art of authentic flavors. This spot stands out with its
+  accessible features, such as wheelchair-friendly entrances and seating, making
+  it easy for everyone to savor a meal in comfort. Diners can appreciate the
+  moderate pricing and variety of options, from hearty lunch specials to evening
+  dinners, paired with beers and wines that complement the menu. For those
+  seeking sushi restaurants near you, the emphasis on quality ingredients and
+  thoughtful presentation creates an inviting experience that feels both casual
+  and refined. Whether you're in the mood for top-rated sushi or exploring
+  Japanese places close to home, this location delivers a memorable dining
+  option in the heart of Old Town.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJbzxVIsyxt4kRDvR65e416n0/reviews/ChZDSUhNMG9nS0VJQ0FnSUMzaHBTcUp3EAE
@@ -372,6 +399,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNJODQ2aGlnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNJODQ2aGlnRRAB!2m1!1s0x89b7b1cc22553c6f:0x7dea35eee57af40e
+review_summary: >-
+  Customer Feedback on Hinata Sushi$$$Folks generally rave about the fresh and
+  flavorful sushi at this spot, with many highlighting the generous portions and
+  creative rolls that make every visit worthwhile. While service can
+  occasionally feel a bit slow during less busy times, the overall vibe remains
+  friendly and the staff attentive, adding to the enjoyable experience. Some
+  note that prices lean toward the higher side for dinner, but the lunch menu
+  offers solid value with plenty of tasty choices that keep things approachable.
+  Overall, it's clear that regulars love the authentic taste and variety, often
+  recommending it as a go-to for anyone hunting for the best sushi nearby. If
+  you're looking for a reliable place to grab great Japanese fare, this one
+  earns solid nods for its consistent quality and welcoming feel.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeStreetParking: true
   freeGarageParking: true
@@ -403,8 +443,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Relaxed locale dishing up traditional Japanese cuisine, including rolls,
   sashimi & tempura.
 

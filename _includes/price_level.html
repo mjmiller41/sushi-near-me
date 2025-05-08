@@ -11,27 +11,33 @@
     .dollar_icons {
       display: flex;
       height: var(--size);
-      fill: #7c9f2f;
+      .icon {
+        height: var(--size);
+      }
     };
   }
   .rating-text {
-    font-size: var(--size);
+    font-size: calc(var(--s) * 0.8);
     line-height: 1;
   }
 </style>
 <div class="price_level">
-  {% if include.level != "" %}
+  {%- if include.level -%}
     <div class="dollar_icons">
-      {% for i in (1..include.level) %}
-        {% include icons/dollar_icon.svg %}
-      {% endfor %}
+      {%- for i in (1..5) -%}
+        {% if i <= include.level %}
+          {% assign color = 'limegreen' %}
+        {% else %}
+          {% assign color = 'grey' %}
+        {% endif %}
+        <span style="fill: {{color}};">{%- include icons/dollar_icon.svg -%}</span>
+      {%- endfor -%}
     </div>
-  {% else %}
-    <span>Cost:&nbsp;</span>
-  {% endif %}
-  {% if include.range %}
+  {%- endif -%}
+  {%- if include.range -%}
     <span class="rating-text">{{ include.range }}</span>
-  {% elsif include.level == empty %}
-    <span>Unknown</span>
   {% endif %}
+  {%- if include.level == null and include.range == null -%}
+    <span>Price Unknown</span>
+  {%- endif -%}
 </div>

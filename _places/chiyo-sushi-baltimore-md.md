@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Chiyo Sushi"
+title: Chiyo Sushi
 permalink: /maryland/baltimore/chiyo-sushi.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Baltimore
 seo:
-  name: "Chiyo Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Chiyo Sushi serves delicious sushi in Baltimore, Maryland. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ0TmnfK8ayIkR3AGWJu0exRA
 photos:
   - name: >-
@@ -184,7 +182,45 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Chiyo Sushi in Baltimore, MD$$$Nestled in the heart of Baltimore, MD,
+  Chiyo Sushi stands out as a welcoming spot for enjoying authentic Japanese
+  cuisine, featuring fresh sushi and tempura in a relaxed environment. This
+  family-friendly eatery offers a casual setting where diners can savor a
+  variety of Japanese dishes, making it an ideal choice for those exploring
+  sushi restaurants nearby. With its comfortable ambiance and accessible
+  features like wheelchair-friendly entrances, it caters to a wide range of
+  visitors seeking quality Japanese fare. Whether you're looking for top-rated
+  sushi options close to home or simply craving a laid-back meal, Chiyo Sushi
+  delivers on fresh flavors and a welcoming vibe that appeals to families and
+  individuals alike.
+generative_summary: >-
+  Discover Chiyo Sushi in Baltimore, MD$$$Nestled in the heart of Baltimore, MD,
+  Chiyo Sushi stands out as a welcoming spot for enjoying authentic Japanese
+  cuisine, featuring fresh sushi and tempura in a relaxed environment. This
+  family-friendly eatery offers a casual setting where diners can savor a
+  variety of Japanese dishes, making it an ideal choice for those exploring
+  sushi restaurants nearby. With its comfortable ambiance and accessible
+  features like wheelchair-friendly entrances, it caters to a wide range of
+  visitors seeking quality Japanese fare. Whether you're looking for top-rated
+  sushi options close to home or simply craving a laid-back meal, Chiyo Sushi
+  delivers on fresh flavors and a welcoming vibe that appeals to families and
+  individuals alike.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Based on general feedback for spots like Chiyo
+  Sushi, folks often highlight the fresh and flavorful sushi as a standout
+  feature, making it a go-to for anyone hunting for reliable Japanese places in
+  the area. Many appreciate the casual, family-oriented atmosphere that keeps
+  things approachable and enjoyable without any fuss. While specific reviews
+  aren't available here, it's common to hear praise for the welcoming setup and
+  solid offerings that make it worth a return visit for sushi enthusiasts.
+  Overall, the vibe seems to lean positive, with diners noting it as a solid
+  pick for casual meals that hit the spot. If you're on the hunt for sushi near
+  you, this spot appears to deliver a straightforward and satisfying experience
+  that keeps customers coming back.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +246,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

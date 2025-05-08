@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Monster Sushi"
+title: Monster Sushi
 permalink: /new-jersey/morristown/monster-sushi.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Morristown
 seo:
-  name: "Monster Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://monstersushinj.com/
-description: "Contemporary BYOB mainstay with polished decor offering creative sushi rolls & outdoor seating. Monster Sushi serves delicious sushi in Morristown, New Jersey. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJw3ud0qKmw4kR3QbI_u0LgRk
 photos:
   - name: >-
@@ -184,6 +182,31 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 0
 website: https://monstersushinj.com/
+description: >-
+  Explore Monster Sushi in Morristown, NJ$$$Monster Sushi in Morristown, NJ,
+  stands out as a casual spot for those seeking top-rated sushi near you,
+  blending creative rolls with traditional Japanese flavors in a welcoming
+  setting. The restaurant features polished decor and outdoor seating, making it
+  ideal for enjoying delicate sauces and fresh ingredients in a relaxed
+  atmosphere. Visitors can appreciate the accessibility options, including
+  wheelchair-friendly entrances, along with a focus on moderately priced meals
+  that highlight inventive dishes. If you're exploring sushi restaurants near
+  me, this location offers a charming escape for both casual diners and those
+  craving authentic tastes, all without the need for reservations in a
+  BYOB-friendly environment.
+generative_summary: >-
+  Explore Monster Sushi in Morristown, NJ$$$Monster Sushi in Morristown, NJ,
+  stands out as a casual spot for those seeking top-rated sushi near you,
+  blending creative rolls with traditional Japanese flavors in a welcoming
+  setting. The restaurant features polished decor and outdoor seating, making it
+  ideal for enjoying delicate sauces and fresh ingredients in a relaxed
+  atmosphere. Visitors can appreciate the accessibility options, including
+  wheelchair-friendly entrances, along with a focus on moderately priced meals
+  that highlight inventive dishes. If you're exploring sushi restaurants near
+  me, this location offers a charming escape for both casual diners and those
+  craving authentic tastes, all without the need for reservations in a
+  BYOB-friendly environment.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJw3ud0qKmw4kR3QbI_u0LgRk/reviews/ChZDSUhNMG9nS0VJQ0FnTURJeXZTMERnEAE
@@ -345,6 +368,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUREdktUSlZ3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUREdktUSlZ3EAE!2m1!1s0x89c3a6a2d29d7bc3:0x19810bedfec806dd
+review_summary: >-
+  Insights from Recent Reviews$$$Folks who visit this sushi spot often rave
+  about the fresh ingredients and generous portions that make every bite feel
+  satisfying and well worth the visit. Many appreciate the variety of menu
+  options, including creative rolls and traditional dishes, which keep things
+  exciting for groups or solo diners looking for something reliable. While most
+  experiences highlight the friendly service and inviting ambiance that add to
+  the overall enjoyment, a few note that some items could use a bit more
+  refinement for the best texture. Overall, it's a go-to choice for anyone
+  searching for quality sushi close to me, with the positive vibes and tasty
+  selections earning high marks from satisfied customers. If you're in the mood
+  for a laid-back meal, this place delivers a solid experience that keeps people
+  coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidStreetParking: true
   valetParking: false
@@ -375,8 +412,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Contemporary BYOB mainstay with polished decor offering creative sushi rolls &
   outdoor seating.
 

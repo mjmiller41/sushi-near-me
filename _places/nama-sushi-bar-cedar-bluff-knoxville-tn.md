@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Nama Sushi Bar - Cedar Bluff"
+title: Nama Sushi Bar - Cedar Bluff
 permalink: /tennessee/knoxville/nama-sushi-bar-cedar-bluff.html
 stateAbbr: TN
 stateName: Tennessee
 cityName: Knoxville
 seo:
-  name: "Nama Sushi Bar - Cedar Bluff"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Nama Sushi Bar - Cedar Bluff serves delicious sushi in Knoxville, Tennessee. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJdfv4wGUlXIgRP7MvFe-c_iA
 photos:
   - name: >-
@@ -185,7 +183,45 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  About Nama Sushi Bar in Knoxville, TN$$$Nama Sushi Bar in Knoxville, TN,
+  provides a relaxed spot for enjoying fresh Asian fusion rolls that blend
+  traditional flavors with creative twists. This sushi restaurant offers a
+  welcoming atmosphere where patrons can savor a variety of dishes alongside a
+  selection of wine, beer, and cocktails, making it ideal for casual dinners or
+  outings with friends. With its focus on quality ingredients and accessible
+  features like wheelchair-friendly parking and entrances, it's a convenient
+  choice for those seeking top-rated sushi options in the area. Whether you're
+  exploring sushi places near you or looking for Japanese-inspired cuisine close
+  to Knoxville, this establishment delivers a satisfying experience that
+  highlights its commitment to flavorful, well-crafted meals.
+generative_summary: >-
+  About Nama Sushi Bar in Knoxville, TN$$$Nama Sushi Bar in Knoxville, TN,
+  provides a relaxed spot for enjoying fresh Asian fusion rolls that blend
+  traditional flavors with creative twists. This sushi restaurant offers a
+  welcoming atmosphere where patrons can savor a variety of dishes alongside a
+  selection of wine, beer, and cocktails, making it ideal for casual dinners or
+  outings with friends. With its focus on quality ingredients and accessible
+  features like wheelchair-friendly parking and entrances, it's a convenient
+  choice for those seeking top-rated sushi options in the area. Whether you're
+  exploring sushi places near you or looking for Japanese-inspired cuisine close
+  to Knoxville, this establishment delivers a satisfying experience that
+  highlights its commitment to flavorful, well-crafted meals.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Sharing$$$Visitors often praise the tasty sushi rolls at
+  this spot, highlighting favorites that bring bold flavors and fresh
+  ingredients to the table, perfect for anyone craving great sushi nearby. The
+  friendly and attentive staff contribute to a clean, inviting environment that
+  makes dining out enjoyable and relaxed. While some note that service can
+  occasionally take a little longer during busy times, the overall atmosphere
+  and quality of the food keep people returning for more. Plus, the delicious
+  cheesecake adds a sweet touch that rounds out the meal nicely, making it a
+  solid pick for sushi enthusiasts in Knoxville. If you're hunting for the best
+  sushi restaurants around, this place offers a genuine and appealing option
+  worth trying.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +247,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

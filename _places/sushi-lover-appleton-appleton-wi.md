@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Lover Appleton"
+title: Sushi Lover Appleton
 permalink: /wisconsin/appleton/sushi-lover-appleton.html
 stateAbbr: WI
 stateName: Wisconsin
 cityName: Appleton
 seo:
-  name: "Sushi Lover Appleton"
-  type: Restaurant
-  links: null
-description: "Sushi Lover Appleton serves delicious sushi in Appleton, Wisconsin. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.sushiloverwi.com/
 place_id: ChIJgeQYe0i3A4gRZEbuVp6ZdzU
 photos:
   - name: >-
@@ -170,8 +168,113 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8803b7487b18e481:0x3577999e56ee4664!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 2:00 PM, 4:30 – 9:30 PM'
+    - 'Tuesday: 11:00 AM – 2:00 PM, 4:30 – 9:30 PM'
+    - 'Wednesday: 11:00 AM – 2:00 PM, 4:30 – 9:30 PM'
+    - 'Thursday: 11:00 AM – 2:00 PM, 4:30 – 9:30 PM'
+    - 'Friday: 11:00 AM – 2:00 PM, 4:30 – 10:00 PM'
+    - 'Saturday: 12:00 – 10:00 PM'
+    - 'Sunday: 12:00 – 8:30 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +282,54 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (920) 257-4255
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.4'
+rating_count: 906
+website: https://www.sushiloverwi.com/
+description: >-
+  Discover Sushi Lover Appleton in Appleton, WI$$$Sushi Lover Appleton in
+  Appleton, WI, stands out as a welcoming spot for enjoying fresh Japanese
+  cuisine, featuring an array of all-you-can-eat options that include flavorful
+  sushi rolls and hibachi-style dishes in a relaxed atmosphere. This sushi
+  restaurant emphasizes accessibility, with features like wheelchair-friendly
+  parking and seating, making it easy for everyone to savor their meals. Patrons
+  can explore a variety of creative rolls and hearty entrees that highlight
+  quality ingredients, ideal for those seeking sushi dining options in the area.
+  The informal setting adds to the charm, providing a casual vibe perfect for
+  casual outings or family gatherings. Whether you're looking for top-rated
+  sushi spots nearby, this location combines affordability with a satisfying
+  menu that keeps locals coming back.
+generative_summary: >-
+  Discover Sushi Lover Appleton in Appleton, WI$$$Sushi Lover Appleton in
+  Appleton, WI, stands out as a welcoming spot for enjoying fresh Japanese
+  cuisine, featuring an array of all-you-can-eat options that include flavorful
+  sushi rolls and hibachi-style dishes in a relaxed atmosphere. This sushi
+  restaurant emphasizes accessibility, with features like wheelchair-friendly
+  parking and seating, making it easy for everyone to savor their meals. Patrons
+  can explore a variety of creative rolls and hearty entrees that highlight
+  quality ingredients, ideal for those seeking sushi dining options in the area.
+  The informal setting adds to the charm, providing a casual vibe perfect for
+  casual outings or family gatherings. Whether you're looking for top-rated
+  sushi spots nearby, this location combines affordability with a satisfying
+  menu that keeps locals coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Buzzing About This Sushi Spot$$$Visitors to this popular
+  sushi restaurant often highlight the consistently fresh flavors and generous
+  portions that make it a go-to choice for casual meals. Many appreciate the
+  variety of options, noting that the all-you-can-eat style delivers great value
+  without skimping on taste, though some mention occasional waits during peak
+  hours. Folks searching for reliable sushi places near me frequently praise the
+  friendly service and welcoming environment, which adds to the overall
+  enjoyable experience. Overall, the high ratings reflect satisfaction with the
+  quality of the food and atmosphere, making it a solid pick for anyone craving
+  Japanese-inspired dishes. If you're on the hunt for the best sushi options in
+  the region, this spot earns its reputation through dependable offerings that
+  leave diners feeling content and eager to return.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +355,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

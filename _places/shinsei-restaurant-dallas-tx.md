@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Shinsei Restaurant"
+title: Shinsei Restaurant
 permalink: /texas/dallas/shinsei-restaurant.html
 stateAbbr: TX
 stateName: Texas
 cityName: Dallas
 seo:
-  name: "Shinsei Restaurant"
-  type: Restaurant
+  type: restaurant
   links: http://shinseirestaurant.com/
-description: "Shinsei Restaurant serves delicious sushi in Dallas, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJSXqRWGKeToYRWqrIL53Phd4
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x864e9e6258917a49:0xde85cf9d2fc8aa5a!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 5:00 – 10:00 PM'
     - 'Tuesday: 5:00 – 10:00 PM'
     - 'Wednesday: 5:00 – 10:00 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 11:00 PM'
     - 'Saturday: 5:00 – 11:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 5:00 – 10:00 PM'
-    - 'Tuesday: 5:00 – 10:00 PM'
-    - 'Wednesday: 5:00 – 10:00 PM'
-    - 'Thursday: 5:00 – 10:00 PM'
-    - 'Friday: 11:00 AM – 11:00 PM'
-    - 'Saturday: 5:00 – 11:00 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +238,253 @@ phone: (214) 352-0005
 price_level: PRICE_LEVEL_EXPENSIVE
 price_range: $50 &ndash; $100
 rating: '4.5'
-rating_count: 0
+rating_count: 530
 website: http://shinseirestaurant.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Shinsei Restaurant in Dallas, TX$$$Nestled in Dallas, TX, Shinsei
+  Restaurant offers a refined blend of Japanese cuisine with a focus on fresh
+  sushi rolls and innovative specialty dishes in an upscale environment. This
+  spot stands out for its modern Pan-Asian flair, featuring high-quality
+  ingredients that elevate classic sushi dining experiences, making it a go-to
+  choice for those seeking flavorful options in a sophisticated setting.
+  Accessibility features like wheelchair-friendly entrances and parking add to
+  the convenience, ensuring a welcoming visit for all. The menu highlights a
+  variety of creative fusions, paired with selections of beer, wine, and sake,
+  perfect for casual evenings or special occasions. With its operational hours
+  catering to dinner crowds and options for outdoor seating, it's an ideal
+  destination for anyone exploring top sushi restaurants in the area.
+generative_summary: >-
+  Discover Shinsei Restaurant in Dallas, TX$$$Nestled in Dallas, TX, Shinsei
+  Restaurant offers a refined blend of Japanese cuisine with a focus on fresh
+  sushi rolls and innovative specialty dishes in an upscale environment. This
+  spot stands out for its modern Pan-Asian flair, featuring high-quality
+  ingredients that elevate classic sushi dining experiences, making it a go-to
+  choice for those seeking flavorful options in a sophisticated setting.
+  Accessibility features like wheelchair-friendly entrances and parking add to
+  the convenience, ensuring a welcoming visit for all. The menu highlights a
+  variety of creative fusions, paired with selections of beer, wine, and sake,
+  perfect for casual evenings or special occasions. With its operational hours
+  catering to dinner crowds and options for outdoor seating, it's an ideal
+  destination for anyone exploring top sushi restaurants in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJSXqRWGKeToYRWqrIL53Phd4/reviews/ChZDSUhNMG9nS0VJQ0FnSUNfNUlISFZnEAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 4
+    text:
+      text: >-
+        The best thing was the hustle of the busboy upstairs.   The worst was an
+        overworked bar tender that was our waiter who couldn't care enough to
+        listen to our drink order and get it right.
+
+
+        Food was fine.
+
+        Its loud upstairs and we were next to three kids birthday parties.  
+        Awesome for them,  not great for us.
+
+
+        I could not recommend unless your wife really wants sushi.  Then it's
+        good, and go.
+      languageCode: en
+    originalText:
+      text: >-
+        The best thing was the hustle of the busboy upstairs.   The worst was an
+        overworked bar tender that was our waiter who couldn't care enough to
+        listen to our drink order and get it right.
+
+
+        Food was fine.
+
+        Its loud upstairs and we were next to three kids birthday parties.  
+        Awesome for them,  not great for us.
+
+
+        I could not recommend unless your wife really wants sushi.  Then it's
+        good, and go.
+      languageCode: en
+    authorAttribution:
+      displayName: William Taylor
+      uri: https://www.google.com/maps/contrib/111601765982469675031/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWDcp3HXo9FM9yimR8qd4VdlUSZ6_0s6SJ_Tg7X1y3i9COMKLdg=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-01-13T03:20:50.128592Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNfNUlISFZnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNfNUlISFZnEAE!2m1!1s0x864e9e6258917a49:0xde85cf9d2fc8aa5a
+  - name: >-
+      places/ChIJSXqRWGKeToYRWqrIL53Phd4/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3MXNQTVh3EAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        We loved it here. It was our first time. Service and atmosphere were
+        great. Food was 4.8/5 we enjoyed everything but there was one dish, the
+        tuna crispy rice was too hard. It tasted very old. But that was the one
+        out of seven dishes we had. Great place, great experience. Signature
+        cocktails were amazing
+      languageCode: en
+    originalText:
+      text: >-
+        We loved it here. It was our first time. Service and atmosphere were
+        great. Food was 4.8/5 we enjoyed everything but there was one dish, the
+        tuna crispy rice was too hard. It tasted very old. But that was the one
+        out of seven dishes we had. Great place, great experience. Signature
+        cocktails were amazing
+      languageCode: en
+    authorAttribution:
+      displayName: george Baltimore
+      uri: https://www.google.com/maps/contrib/112614669856586468677/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIFxTBtvNwsK3VfW4nsnCafVHVSbMi37Bsz97oxtCJ8I6XlLQ=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-18T18:09:58.314113Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUN3MXNQTVh3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUN3MXNQTVh3EAE!2m1!1s0x864e9e6258917a49:0xde85cf9d2fc8aa5a
+  - name: >-
+      places/ChIJSXqRWGKeToYRWqrIL53Phd4/reviews/ChZDSUhNMG9nS0VJQ0FnSUNaajlESlBBEAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        I really enjoyed eating here the other day. I wanted to try so many
+        dishes! The server was so friendly and helped me with dinner
+        recommendations. The purple rain roll and green goddess roll were
+        delicious. The tuna with crispy rice was good as well but not made to be
+        a sushi roll so just keep that in mind. The tempura cauliflower was
+        surprisingly very good! The dipping Gochujang sauce was key with this
+        dish. The ambience is very nice here as well. Perfect for a date night.
+      languageCode: en
+    originalText:
+      text: >-
+        I really enjoyed eating here the other day. I wanted to try so many
+        dishes! The server was so friendly and helped me with dinner
+        recommendations. The purple rain roll and green goddess roll were
+        delicious. The tuna with crispy rice was good as well but not made to be
+        a sushi roll so just keep that in mind. The tempura cauliflower was
+        surprisingly very good! The dipping Gochujang sauce was key with this
+        dish. The ambience is very nice here as well. Perfect for a date night.
+      languageCode: en
+    authorAttribution:
+      displayName: Jayna Patel
+      uri: https://www.google.com/maps/contrib/112651614349878055533/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXGkwY6tkWLHk6HtNTUg6XwAfIujbf50altCqn4ZbgHIlmqJ9rqUQ=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2023-09-20T14:21:23.985052Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNaajlESlBBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNaajlESlBBEAE!2m1!1s0x864e9e6258917a49:0xde85cf9d2fc8aa5a
+  - name: >-
+      places/ChIJSXqRWGKeToYRWqrIL53Phd4/reviews/ChdDSUhNMG9nS0VJQ0FnSUNscXUzZzd3RRAB
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        The service was very good and the staff is professional and
+        knowledgeable. The food quality is excellent and they will customize
+        your menu selections- all of it prepared fresh. A great choice for a
+        quality sushi experience in the Dallas metroplex that won’t cost you an
+        arm and a leg. They also have some non-sushi items on the menu as well.
+        I’ll be back.
+      languageCode: en
+    originalText:
+      text: >-
+        The service was very good and the staff is professional and
+        knowledgeable. The food quality is excellent and they will customize
+        your menu selections- all of it prepared fresh. A great choice for a
+        quality sushi experience in the Dallas metroplex that won’t cost you an
+        arm and a leg. They also have some non-sushi items on the menu as well.
+        I’ll be back.
+      languageCode: en
+    authorAttribution:
+      displayName: Scott Waterbury
+      uri: https://www.google.com/maps/contrib/103116122834722983346/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLGIXE6qO2QFdJ0pQm_qY9FU0cNqxImBQ0pEoIeu8pc7eEaBw=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2023-12-28T05:12:18.898261Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNscXUzZzd3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNscXUzZzd3RRAB!2m1!1s0x864e9e6258917a49:0xde85cf9d2fc8aa5a
+  - name: >-
+      places/ChIJSXqRWGKeToYRWqrIL53Phd4/reviews/ChdDSUhNMG9nS0VJQ0FnTURRcjVQRV93RRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Excellent sushi! In town for an event, business friend took me to this
+        restaurant and I was not disappointed. Clean and fancy atmosphere and
+        the sushi was spot on. I had the Dragon Lady and will get that same dish
+        every time I come back to Dallas!
+      languageCode: en
+    originalText:
+      text: >-
+        Excellent sushi! In town for an event, business friend took me to this
+        restaurant and I was not disappointed. Clean and fancy atmosphere and
+        the sushi was spot on. I had the Dragon Lady and will get that same dish
+        every time I come back to Dallas!
+      languageCode: en
+    authorAttribution:
+      displayName: Ethen Armstrong
+      uri: https://www.google.com/maps/contrib/100508894973742412812/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVkEw6TNy-VB-1U-JHPAe8nDlhJXwKTlSLQj1IVgfMgYSVmC9R-QA=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-03-15T12:22:17.821318Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURRcjVQRV93RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURRcjVQRV93RRAB!2m1!1s0x864e9e6258917a49:0xde85cf9d2fc8aa5a
+review_summary: >-
+  What Guests Are Saying$$$Visitors often praise Shinsei for its fresh and
+  flavorful sushi selections, noting that the dishes deliver a satisfying mix of
+  quality and creativity that keeps them coming back. Many appreciate the
+  attentive service and lively atmosphere, which make for a enjoyable meal
+  whether you're dining with a group or on a quiet night out. While most
+  feedback highlights the excellent food and drinks like signature cocktails, a
+  few mentions point to minor inconsistencies, such as an occasional dish not
+  meeting expectations, but overall, the experience remains positive. The
+  restaurant's upscale vibe and accommodating options, like outdoor seating and
+  good portions, add to its appeal for casual sushi lovers. In general, it's
+  seen as a solid pick for anyone hunting for reliable Japanese places nearby,
+  with the consensus leaning toward it being a worthwhile stop for delicious
+  bites and a welcoming vibe.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  valetParking: true
+payment_options:
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
+curbside_pickup: true
+delivery: true
+dine_in: true
+good_for_children: false
+good_for_groups: true
+good_for_sports: false
 live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+menu_for_children: false
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
+serves_coffee: true
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Modern Pan-Asian restaurant serving sushi & fusion dishes, plus beer, wine &
+  sake.
 
 ---

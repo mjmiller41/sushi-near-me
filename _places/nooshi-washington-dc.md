@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Nooshi"
+title: Nooshi
 permalink: /district-of-columbia/washington/nooshi.html
 stateAbbr: DC
 stateName: District of Columbia
 cityName: Washington
 seo:
-  name: "Nooshi"
-  type: Restaurant
+  type: restaurant
   links: http://www.nooshidc.com/
-description: "Contemporary outfit fixing up Asian specialties like sushi, noodles & spring rolls, plus cocktails. Nooshi serves delicious sushi in Washington, District of Columbia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJUUIrNbi3t4kRPxF3_OEM4Ts
 photos:
   - name: >-
@@ -184,6 +182,37 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 0
 website: http://www.nooshidc.com/
+description: >-
+  Discover Nooshi in Washington, DC$$$Nestled in the heart of Washington, DC,
+  Nooshi stands out as a contemporary sushi restaurant blending Asian flavors
+  with a modern twist, offering fresh sushi, flavorful noodles, and inventive
+  spring rolls alongside crafted cocktails. The spot features a cozy atmosphere
+  that's perfect for casual dining or happy hour gatherings, with accessible
+  options like wheelchair-friendly entrances that make it welcoming for all.
+  Diners appreciate the creative menu highlights, such as uniquely seasoned
+  dishes that bring a smoky depth to favorites, emphasizing high-quality
+  ingredients in every bite. This sushi destination also caters to a variety of
+  tastes, including vegetarian choices and outdoor seating, making it a go-to
+  for those searching for top-rated Asian-inspired meals in the area. Whether
+  you're exploring sushi places near you or seeking a lively spot for a relaxed
+  evening, Nooshi delivers a satisfying experience with its blend of comfort and
+  culinary innovation.
+generative_summary: >-
+  Discover Nooshi in Washington, DC$$$Nestled in the heart of Washington, DC,
+  Nooshi stands out as a contemporary sushi restaurant blending Asian flavors
+  with a modern twist, offering fresh sushi, flavorful noodles, and inventive
+  spring rolls alongside crafted cocktails. The spot features a cozy atmosphere
+  that's perfect for casual dining or happy hour gatherings, with accessible
+  options like wheelchair-friendly entrances that make it welcoming for all.
+  Diners appreciate the creative menu highlights, such as uniquely seasoned
+  dishes that bring a smoky depth to favorites, emphasizing high-quality
+  ingredients in every bite. This sushi destination also caters to a variety of
+  tastes, including vegetarian choices and outdoor seating, making it a go-to
+  for those searching for top-rated Asian-inspired meals in the area. Whether
+  you're exploring sushi places near you or seeking a lively spot for a relaxed
+  evening, Nooshi delivers a satisfying experience with its blend of comfort and
+  culinary innovation.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJUUIrNbi3t4kRPxF3_OEM4Ts/reviews/ChZDSUhNMG9nS0VJQ0FnSURmdk91OUNnEAE
@@ -331,6 +360,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURmNTlQWkZREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURmNTlQWkZREAE!2m1!1s0x89b7b7b8352b4251:0x3be10ce1fc77113f
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this Washington, DC sushi spot often
+  highlight the fresh and delicious flavors, like the standout noodles and sushi
+  that keep people coming back for more. While most folks enjoy the cozy vibe
+  and attentive service that make meals feel welcoming, a few note that portions
+  might not always match the prices, though the overall value shines through in
+  the creative twists on classics. Feedback frequently praises the happy hour
+  deals and variety of options, including tasty appetizers that add to the fun,
+  casual dining scene. In general, it's a solid choice for anyone craving
+  reliable Asian fusion, with many agreeing that the positives far outweigh any
+  minor hiccups, keeping it a favorite among local sushi enthusiasts. If you're
+  on the hunt for sushi restaurants near you, this place offers a mix of hits
+  that make it worth trying for a laid-back, enjoyable outing.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidStreetParking: true
   valetParking: false
@@ -362,8 +405,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Contemporary outfit fixing up Asian specialties like sushi, noodles & spring
   rolls, plus cocktails.
 

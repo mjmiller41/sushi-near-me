@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "House of Sake"
+title: House of Sake
 permalink: /california/walnut-creek/house-of-sake.html
 stateAbbr: CA
 stateName: California
 cityName: Walnut Creek
 seo:
-  name: "House of Sake"
-  type: Restaurant
+  type: restaurant
   links: http://www.thehouseofsake.com/
-description: "House of Sake serves delicious sushi in Walnut Creek, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJyS-Iu6JhhYARcIlt1lx97vE
 photos:
   - name: >-
@@ -170,7 +168,105 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x808561a2bb882fc9:0xf1ee7d5cd66d8970!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 16
+        minute: 30
+      close:
+        day: 0
+        hour: 20
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 15
+        minute: 30
+      close:
+        day: 1
+        hour: 20
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 15
+        minute: 30
+      close:
+        day: 2
+        hour: 20
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 15
+        minute: 30
+      close:
+        day: 3
+        hour: 20
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 15
+        minute: 30
+      close:
+        day: 4
+        hour: 20
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 15
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 16
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 2:30 PM, 3:30 – 8:00 PM'
     - 'Tuesday: 11:30 AM – 2:30 PM, 3:30 – 8:00 PM'
     - 'Wednesday: 11:30 AM – 2:30 PM, 3:30 – 8:00 PM'
@@ -178,14 +274,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 2:30 PM, 3:30 – 9:00 PM'
     - 'Saturday: 4:30 – 9:00 PM'
     - 'Sunday: 4:30 – 8:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 2:30 PM, 3:30 – 8:00 PM'
-    - 'Tuesday: 11:30 AM – 2:30 PM, 3:30 – 8:00 PM'
-    - 'Wednesday: 11:30 AM – 2:30 PM, 3:30 – 8:00 PM'
-    - 'Thursday: 11:30 AM – 2:30 PM, 3:30 – 8:00 PM'
-    - 'Friday: 11:30 AM – 2:30 PM, 3:30 – 9:00 PM'
-    - 'Saturday: 4:30 – 9:00 PM'
-    - 'Sunday: 4:30 – 8:00 PM'
+  nextOpenTime: '2025-05-03T23:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +286,275 @@ phone: (925) 930-8811
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.5'
-rating_count: 0
+rating_count: 369
 website: http://www.thehouseofsake.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover House of Sake in Walnut Creek, CA$$$House of Sake in Walnut Creek,
+  CA, offers a welcoming spot for enjoying fresh Japanese cuisine, including a
+  variety of sushi options that highlight quality ingredients and creative
+  flavors. This casual eatery specializes in traditional dishes like teriyaki
+  and udon, complemented by an impressive selection of sake to enhance your
+  meal. With accessible features such as wheelchair-friendly parking and
+  seating, it's designed for a comfortable dining experience that caters to
+  different needs. The atmosphere blends simplicity with authentic touches,
+  making it an ideal choice for those seeking sushi restaurants near me that
+  prioritize both taste and convenience. Overall, it's a go-to destination for
+  anyone exploring top-rated sushi in the area, blending casual vibes with
+  satisfying Japanese fare.
+generative_summary: >-
+  Discover House of Sake in Walnut Creek, CA$$$House of Sake in Walnut Creek,
+  CA, offers a welcoming spot for enjoying fresh Japanese cuisine, including a
+  variety of sushi options that highlight quality ingredients and creative
+  flavors. This casual eatery specializes in traditional dishes like teriyaki
+  and udon, complemented by an impressive selection of sake to enhance your
+  meal. With accessible features such as wheelchair-friendly parking and
+  seating, it's designed for a comfortable dining experience that caters to
+  different needs. The atmosphere blends simplicity with authentic touches,
+  making it an ideal choice for those seeking sushi restaurants near me that
+  prioritize both taste and convenience. Overall, it's a go-to destination for
+  anyone exploring top-rated sushi in the area, blending casual vibes with
+  satisfying Japanese fare.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJyS-Iu6JhhYARcIlt1lx97vE/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfNU9hMGl3RRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        House of Sake in Walnut Creek is an absolute comfort spot with
+        phenomenal quality sushi! Every dish we tried was a delightful
+        experience. The Spicy Holly Roll stood out with its bold, smoky flavors
+        and scrumptious layers—an absolute must-try. The Godzilla Roll was a
+        petite masterpiece, with a beautifully crafted tempura shell that was
+        perfectly crisp and evenly dispersed.
+
+
+        The Cherry Blossom Roll was another highlight, boasting a clean, fresh
+        flavor and a stunning presentation that was almost too pretty to eat. We
+        also enjoyed the Negihama Cut Roll (yellowtail and green onion) and the
+        New Orleans Roll (spicy tuna cut roll)—both incredibly fresh and
+        satisfying. The creative names for these simple yet perfectly executed
+        rolls added a fun touch to the meal.
+
+
+        Every bite hit the spot, and the attention to detail in both flavor and
+        presentation is second to none. Highly recommend House of Sake for
+        anyone seeking exceptional sushi and a memorable dining experience!
+      languageCode: en
+    originalText:
+      text: >-
+        House of Sake in Walnut Creek is an absolute comfort spot with
+        phenomenal quality sushi! Every dish we tried was a delightful
+        experience. The Spicy Holly Roll stood out with its bold, smoky flavors
+        and scrumptious layers—an absolute must-try. The Godzilla Roll was a
+        petite masterpiece, with a beautifully crafted tempura shell that was
+        perfectly crisp and evenly dispersed.
+
+
+        The Cherry Blossom Roll was another highlight, boasting a clean, fresh
+        flavor and a stunning presentation that was almost too pretty to eat. We
+        also enjoyed the Negihama Cut Roll (yellowtail and green onion) and the
+        New Orleans Roll (spicy tuna cut roll)—both incredibly fresh and
+        satisfying. The creative names for these simple yet perfectly executed
+        rolls added a fun touch to the meal.
+
+
+        Every bite hit the spot, and the attention to detail in both flavor and
+        presentation is second to none. Highly recommend House of Sake for
+        anyone seeking exceptional sushi and a memorable dining experience!
+      languageCode: en
+    authorAttribution:
+      displayName: Lindsey Gilbert
+      uri: https://www.google.com/maps/contrib/117860114028679395362/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUyY9YzMuJItneyIEPdzfEZJ5jFxe2npqUcsCpBlogmrdpkVbD_=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-01-13T03:06:04.771958Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNfNU9hMGl3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNfNU9hMGl3RRAB!2m1!1s0x808561a2bb882fc9:0xf1ee7d5cd66d8970
+  - name: >-
+      places/ChIJyS-Iu6JhhYARcIlt1lx97vE/reviews/ChdDSUhNMG9nS0VJQ0FnSURIaGFTdmpBRRAB
+    relativePublishTimeDescription: 5 months ago
+    rating: 4
+    text:
+      text: >-
+        The service was quick&staff were attentive, and friendly. The food was
+        good. My usual(cherry blossom) was well put together. Because I seen a
+        recommendation in the reviews for the Godzilla roll(deep fried
+        yellowtail roll with a little spice to it)&the salmon belly, I tried
+        them both and they delivered. The prices are decent.
+
+        Altogether a great first time experience.
+
+        I would return, and I would recommend.
+
+        Give House of Sake a try.
+      languageCode: en
+    originalText:
+      text: >-
+        The service was quick&staff were attentive, and friendly. The food was
+        good. My usual(cherry blossom) was well put together. Because I seen a
+        recommendation in the reviews for the Godzilla roll(deep fried
+        yellowtail roll with a little spice to it)&the salmon belly, I tried
+        them both and they delivered. The prices are decent.
+
+        Altogether a great first time experience.
+
+        I would return, and I would recommend.
+
+        Give House of Sake a try.
+      languageCode: en
+    authorAttribution:
+      displayName: SeluF
+      uri: https://www.google.com/maps/contrib/107199329235590694648/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWsD0LHTLu_j7VD0rEaGF_PyxGUaYAudH11B4yRNvXdHCFy0Svf2Q=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-11-25T22:29:04.185921Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURIaGFTdmpBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURIaGFTdmpBRRAB!2m1!1s0x808561a2bb882fc9:0xf1ee7d5cd66d8970
+  - name: >-
+      places/ChIJyS-Iu6JhhYARcIlt1lx97vE/reviews/ChdDSUhNMG9nS0VJQ0FnSURGaXJTLW9RRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 4
+    text:
+      text: >-
+        Going to start off by saying this was my first time here. Getting into
+        the place there was a line and it was fully seated. Place is a decent
+        size not to big not to small with very clean bathrooms. Wait wasn't too
+        long about 5 minutes or so. The food to me was amazing only really got
+        sushi but it was great. I'm generally picky with sushi so everything we
+        got didn't disappoint. Overall great experience would love to come back
+        and try some other rolls
+      languageCode: en
+    originalText:
+      text: >-
+        Going to start off by saying this was my first time here. Getting into
+        the place there was a line and it was fully seated. Place is a decent
+        size not to big not to small with very clean bathrooms. Wait wasn't too
+        long about 5 minutes or so. The food to me was amazing only really got
+        sushi but it was great. I'm generally picky with sushi so everything we
+        got didn't disappoint. Overall great experience would love to come back
+        and try some other rolls
+      languageCode: en
+    authorAttribution:
+      displayName: Brandan McGee
+      uri: https://www.google.com/maps/contrib/107342632786019999499/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJ2g5P77IE8c3TCufy6mZcTl7DrcOxqNpPDaTxRvXq8wNKjzKyI=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2023-11-05T06:33:41.364884Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURGaXJTLW9RRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURGaXJTLW9RRRAB!2m1!1s0x808561a2bb882fc9:0xf1ee7d5cd66d8970
+  - name: >-
+      places/ChIJyS-Iu6JhhYARcIlt1lx97vE/reviews/ChZDSUhNMG9nS0VJQ0FnSUNkd29mWFhBEAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        I travel for work and I am a big fan of sushi. The food at this place is
+        amazing. The flavors of the rolls are right on point, the sashimi is
+        very fresh, and the people are fantastic. I love that this is a local
+        business, and they’re doing a great job, I came back two days in a row.
+        You have to try the salmon belly! And don’t forget to wash it all down
+        with some delicious sake.
+      languageCode: en
+    originalText:
+      text: >-
+        I travel for work and I am a big fan of sushi. The food at this place is
+        amazing. The flavors of the rolls are right on point, the sashimi is
+        very fresh, and the people are fantastic. I love that this is a local
+        business, and they’re doing a great job, I came back two days in a row.
+        You have to try the salmon belly! And don’t forget to wash it all down
+        with some delicious sake.
+      languageCode: en
+    authorAttribution:
+      displayName: Gabriel Beltran
+      uri: https://www.google.com/maps/contrib/107115057712019016450/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKcGSSq97EaA1eJTBk_1h6WWYUwKEBbeSe0mF1eaaiF064qxg=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2024-02-14T00:47:17.521952Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNkd29mWFhBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNkd29mWFhBEAE!2m1!1s0x808561a2bb882fc9:0xf1ee7d5cd66d8970
+  - name: >-
+      places/ChIJyS-Iu6JhhYARcIlt1lx97vE/reviews/ChZDSUhNMG9nS0VJQ0FnSUNuc05uUEtREAE
+    relativePublishTimeDescription: 7 months ago
+    rating: 3
+    text:
+      text: >-
+        Will not recommend Oyako don & Beef don. The sauce on top is definitely
+        not authentic. Weird. Salmon Nigiris are amazing though
+      languageCode: en
+    originalText:
+      text: >-
+        Will not recommend Oyako don & Beef don. The sauce on top is definitely
+        not authentic. Weird. Salmon Nigiris are amazing though
+      languageCode: en
+    authorAttribution:
+      displayName: Hannah Jin
+      uri: https://www.google.com/maps/contrib/106886643289463162646/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjU-Vp4dRIlE0ESrjzGTS6DlEU_p8wHTjZboJ53irljTEwTPQc6q=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-09-22T05:20:18.771753Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNuc05uUEtREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNuc05uUEtREAE!2m1!1s0x808561a2bb882fc9:0xf1ee7d5cd66d8970
+review_summary: >-
+  What Visitors Are Saying About This Spot$$$Folks rave about the fresh and
+  flavorful sushi rolls at this local favorite, often highlighting how the
+  creative combinations make every bite enjoyable and satisfying. Many
+  appreciate the quick service and attentive staff, which add to the overall
+  relaxed vibe and make it a great pick for casual outings or groups. While some
+  mention that certain dishes might not perfectly match traditional
+  expectations, the standout sushi options like salmon belly and specialty rolls
+  keep the experience positive and worth returning for. Overall, it's a solid
+  choice for anyone hunting for sushi places near me, with most feedback
+  emphasizing the freshness and value that leave diners feeling pleased. If
+  you're in the mood for reliable Japanese eats, this spot delivers a memorable
+  meal that balances fun and flavor without missing a beat.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
+curbside_pickup: false
 delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
+dine_in: true
+good_for_children: true
+good_for_groups: true
 good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
 serves_cocktails: null
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Standard Japanese mainstay serving teriyaki, udon & sushi with a variety of
+  sake choices.
 
 ---

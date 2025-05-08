@@ -5,4 +5,5 @@ permalink: /texas/midland/
 stateAbbr: TX
 stateName: Texas
 cityName: Midland
+
 ---

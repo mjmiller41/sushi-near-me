@@ -5,4 +5,5 @@ permalink: /california/la-verne/
 stateAbbr: CA
 stateName: California
 cityName: La Verne
+
 ---

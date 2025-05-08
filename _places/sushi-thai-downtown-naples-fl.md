@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Thai Downtown"
+title: Sushi Thai Downtown
 permalink: /florida/naples/sushi-thai-downtown.html
 stateAbbr: FL
 stateName: Florida
 cityName: Naples
 seo:
-  name: "Sushi Thai Downtown"
-  type: Restaurant
+  type: restaurant
   links: http://sushithaidowntown.com/
-description: "Sushi Thai Downtown serves delicious sushi in Naples, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJi_zMK5zh2ogRU1oXJyy-R9c
 photos:
   - name: >-
@@ -199,7 +197,49 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 0
 website: http://sushithaidowntown.com/
+description: >-
+  Discover Sushi Thai Downtown in Naples, FL$$$Sushi Thai Downtown in Naples,
+  Florida, offers a delightful fusion of fresh sushi and authentic Thai cuisine
+  in a welcoming, cozy environment perfect for casual dining. Located in the
+  heart of the city, this spot stands out with its thoughtful accessibility
+  features, including easy parking and entrances that make it convenient for all
+  visitors. With extended hours on weekends, it's an ideal choice for those
+  seeking quality meals from late morning through the evening, all at a moderate
+  price point that emphasizes value without skimping on flavorful ingredients.
+  The menu highlights creative presentations of Japanese and Thai influences,
+  making it a go-to for anyone exploring top sushi restaurants in the area.
+  Whether you're looking for sushi places near me or a relaxing spot to enjoy
+  diverse flavors, this establishment delivers a seamless blend of tastes that
+  keeps locals and visitors coming back.
+generative_summary: >-
+  Discover Sushi Thai Downtown in Naples, FL$$$Sushi Thai Downtown in Naples,
+  Florida, offers a delightful fusion of fresh sushi and authentic Thai cuisine
+  in a welcoming, cozy environment perfect for casual dining. Located in the
+  heart of the city, this spot stands out with its thoughtful accessibility
+  features, including easy parking and entrances that make it convenient for all
+  visitors. With extended hours on weekends, it's an ideal choice for those
+  seeking quality meals from late morning through the evening, all at a moderate
+  price point that emphasizes value without skimping on flavorful ingredients.
+  The menu highlights creative presentations of Japanese and Thai influences,
+  making it a go-to for anyone exploring top sushi restaurants in the area.
+  Whether you're looking for sushi places near me or a relaxing spot to enjoy
+  diverse flavors, this establishment delivers a seamless blend of tastes that
+  keeps locals and visitors coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Customer Experiences$$$Folks checking out this sushi spot in
+  Naples often rave about the fresh rolls and flavorful Thai dishes that make
+  every meal feel special and satisfying. Many appreciate the laid-back
+  atmosphere and dependable service, which help create a welcoming vibe without
+  any real letdowns. While opinions can vary a bit, the overall buzz is
+  positive, with diners highlighting the great value and variety that make it
+  worth trying for anyone hunting for the best sushi near me. It's frequently
+  noted as a solid pick for casual get-togethers, offering reliable quality that
+  encourages repeat visits. All in all, if you're in the mood for top-rated
+  sushi restaurants close by, this place tends to hit the mark with its
+  approachable style and tasty options that leave a good impression.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +265,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "The Q"
+title: The Q
 permalink: /massachusetts/boston/the-q.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Boston
 seo:
-  name: "The Q"
-  type: Restaurant
+  type: restaurant
   links: https://www.thequsa.com/?y_source=1_OTM1MjkzMjgtNzE1LWxvY2F0aW9uLndlYnNpdGU=
-description: "Mongolian hot pots share a menu of sushi & Chinese dishes at this hip airy eatery & lounge. The Q serves delicious sushi in Boston, Massachusetts. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJF9jb7Hd644kRXiZZ_FXCqX4
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $30 &ndash; $50
 rating: '4.6'
 rating_count: 0
 website: https://www.thequsa.com/?y_source=1_OTM1MjkzMjgtNzE1LWxvY2F0aW9uLndlYnNpdGU=
+description: >-
+  Discover The Q in Boston, MA$$$The Q in Boston, MA, stands out as a casual
+  eatery blending Asian fusion flavors, offering a welcoming spot for enjoying
+  hot pot and fresh sushi options. This lively venue features an airy atmosphere
+  with thoughtful touches like accessible seating and parking, making it easy
+  for everyone to savor a meal in Chinatown's vibrant neighborhood. Diners can
+  explore a menu that highlights flavorful dishes, from steaming hot pots to
+  well-prepared sushi rolls, all served in a modern, relaxed setting that
+  encourages lingering over drinks. The restaurant's commitment to variety
+  ensures options for different tastes, including vegetarian choices, while its
+  moderate pricing adds to the appeal for those seeking top-rated Asian dining
+  experiences nearby.
+generative_summary: >-
+  Discover The Q in Boston, MA$$$The Q in Boston, MA, stands out as a casual
+  eatery blending Asian fusion flavors, offering a welcoming spot for enjoying
+  hot pot and fresh sushi options. This lively venue features an airy atmosphere
+  with thoughtful touches like accessible seating and parking, making it easy
+  for everyone to savor a meal in Chinatown's vibrant neighborhood. Diners can
+  explore a menu that highlights flavorful dishes, from steaming hot pots to
+  well-prepared sushi rolls, all served in a modern, relaxed setting that
+  encourages lingering over drinks. The restaurant's commitment to variety
+  ensures options for different tastes, including vegetarian choices, while its
+  moderate pricing adds to the appeal for those seeking top-rated Asian dining
+  experiences nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJF9jb7Hd644kRXiZZ_FXCqX4/reviews/ChZDSUhNMG9nS0VJQ0FnSURfcTc3OEVnEAE
@@ -392,6 +415,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURYOF9tLUNnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURYOF9tLUNnEAE!2m1!1s0x89e37a77ecdbd817:0x7ea9c255fc59265e
+review_summary: >-
+  What Visitors Are Raving About$$$Folks heading to this spot often highlight
+  the tasty hot pot and sushi as standout features, praising the flavorful
+  broths and fresh ingredients that make for a satisfying meal on a chilly day.
+  Many appreciate the welcoming vibe and quick, friendly service that keeps
+  things running smoothly without any fuss. Reviewers frequently mention the fun
+  atmosphere and strong drinks like Mai Tais, which add an extra layer of
+  enjoyment to group outings or casual visits. Overall, it's clear that the
+  combination of delicious food and attentive staff creates a memorable
+  experience, drawing in those looking for reliable Asian eateries in the area.
+  If you're on the hunt for great sushi places near you, this location seems to
+  hit the mark with its consistent positive feedback.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidParkingLot: true
   paidStreetParking: true
@@ -425,8 +461,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Mongolian hot pots share a menu of sushi & Chinese dishes at this hip airy
   eatery & lounge.
 

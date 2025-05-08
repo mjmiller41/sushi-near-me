@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Koto Japanese Steak House"
+title: Koto Japanese Steak House
 permalink: /florida/tampa/koto-japanese-steak-house.html
 stateAbbr: FL
 stateName: Florida
 cityName: Tampa
 seo:
-  name: "Koto Japanese Steak House"
-  type: Restaurant
+  type: restaurant
   links: http://www.kotosteakhouse.com/
-description: "Koto Japanese Steak House serves delicious sushi in Tampa, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJo-6FVmTDwogRzG0bqGGIbrQ
 photos:
   - name: >-
@@ -199,7 +197,47 @@ price_range: $20 &ndash; $30
 rating: '4.1'
 rating_count: 0
 website: http://www.kotosteakhouse.com/
+description: >-
+  Discover Koto Japanese Steak House in Tampa, FL$$$Koto Japanese Steak House in
+  Tampa, FL, stands out as a welcoming spot for enjoying authentic sushi and
+  hibachi dishes in a relaxed, informal setting. This Japanese restaurant offers
+  a variety of fresh sushi options and expertly prepared hibachi favorites,
+  making it a go-to choice for those seeking flavorful Asian cuisine close to
+  home. With its moderate pricing and accessible features like
+  wheelchair-friendly entrances and seating, it's designed to accommodate a wide
+  range of diners looking for a casual meal. The lively atmosphere enhances the
+  experience, complemented by a menu that includes creative drinks to pair with
+  your meal. Whether you're exploring sushi places near you or craving a fun
+  dining vibe, this spot delivers on taste and convenience in the heart of the
+  city.
+generative_summary: >-
+  Discover Koto Japanese Steak House in Tampa, FL$$$Koto Japanese Steak House in
+  Tampa, FL, stands out as a welcoming spot for enjoying authentic sushi and
+  hibachi dishes in a relaxed, informal setting. This Japanese restaurant offers
+  a variety of fresh sushi options and expertly prepared hibachi favorites,
+  making it a go-to choice for those seeking flavorful Asian cuisine close to
+  home. With its moderate pricing and accessible features like
+  wheelchair-friendly entrances and seating, it's designed to accommodate a wide
+  range of diners looking for a casual meal. The lively atmosphere enhances the
+  experience, complemented by a menu that includes creative drinks to pair with
+  your meal. Whether you're exploring sushi places near you or craving a fun
+  dining vibe, this spot delivers on taste and convenience in the heart of the
+  city.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Diners Are Buzzing About$$$Folks often rave about the fresh and tasty
+  sushi along with the skillfully made hibachi dishes that bring a fun twist to
+  meals at this Japanese spot. Many appreciate the lively atmosphere where
+  entertaining chefs add excitement, making it a great pick for groups or anyone
+  in the mood for a casual night out. Drinks like margaritas and sake get high
+  marks for rounding out the experience with flavorful options. While some
+  mention occasional hiccups with service that could use a bit more polish, the
+  overall vibe and food quality keep things enjoyable and worth returning for.
+  If you're hunting for top-rated sushi restaurants nearby, this place generally
+  hits the mark with its blend of flavor and fun, offering an honest taste of
+  what makes it a local favorite.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +263,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

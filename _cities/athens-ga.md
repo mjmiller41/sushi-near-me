@@ -5,4 +5,5 @@ permalink: /georgia/athens/
 stateAbbr: GA
 stateName: Georgia
 cityName: Athens
+
 ---

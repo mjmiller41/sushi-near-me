@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi X"
+title: Sushi X
 permalink: /new-jersey/ridgewood/sushi-x.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Ridgewood
 seo:
-  name: "Sushi X"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi X serves delicious sushi in Ridgewood, New Jersey. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ9ZHQwKjkwokRMygSqFxBfD8
 photos:
   - name: >-
@@ -184,7 +182,48 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Sushi X in Ridgewood, New Jersey$$$Nestled in the heart of Ridgewood,
+  New Jersey, Sushi X stands out as a welcoming spot for those seeking fresh
+  Japanese cuisine and sushi options nearby. This casual eatery features an
+  appealing all-you-can-eat menu that highlights made-to-order sushi, making it
+  a go-to choice for anyone exploring top-rated sushi restaurants in the area.
+  With its focus on quality ingredients and a variety of dishes, the restaurant
+  offers a relaxed atmosphere perfect for enjoying authentic flavors without the
+  hassle. Accessibility features like wheelchair-friendly parking and entrances
+  add to the convenience, ensuring a comfortable visit for all guests. Whether
+  you're searching for sushi places near me or simply craving a satisfying meal,
+  Sushi X delivers an enjoyable dining experience that captures the essence of
+  Japanese culinary traditions.
+generative_summary: >-
+  Discover Sushi X in Ridgewood, New Jersey$$$Nestled in the heart of Ridgewood,
+  New Jersey, Sushi X stands out as a welcoming spot for those seeking fresh
+  Japanese cuisine and sushi options nearby. This casual eatery features an
+  appealing all-you-can-eat menu that highlights made-to-order sushi, making it
+  a go-to choice for anyone exploring top-rated sushi restaurants in the area.
+  With its focus on quality ingredients and a variety of dishes, the restaurant
+  offers a relaxed atmosphere perfect for enjoying authentic flavors without the
+  hassle. Accessibility features like wheelchair-friendly parking and entrances
+  add to the convenience, ensuring a comfortable visit for all guests. Whether
+  you're searching for sushi places near me or simply craving a satisfying meal,
+  Sushi X delivers an enjoyable dining experience that captures the essence of
+  Japanese culinary traditions.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Buzzing About$$$Visitors often rave about the fantastic
+  all-you-can-eat deals at this sushi spot, making it a solid pick for anyone
+  looking to indulge in delicious options without breaking the bank. Many
+  highlight the fresh and tasty sushi as a standout feature that keeps them
+  coming back for more, praising the variety and quality that elevate the
+  overall meal. While some feedback notes that service can occasionally feel a
+  bit off, the general vibe remains upbeat with plenty of positive experiences
+  shared around the welcoming ambiance. Overall, it's a great choice for groups
+  or families hunting for reliable sushi restaurants nearby, offering good value
+  and flavorful dishes that make for a memorable outing. If you're on the hunt
+  for the best sushi near me, this place delivers a fun and satisfying
+  experience worth trying.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +249,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

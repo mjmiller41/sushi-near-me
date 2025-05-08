@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kauaʻi Sushi Station"
+title: Kauaʻi Sushi Station
 permalink: /hawaii/lihue/kaua-i-sushi-station.html
 stateAbbr: HI
 stateName: Hawaii
 cityName: Lihue
 seo:
-  name: "Kauaʻi Sushi Station"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Kauaʻi Sushi Station serves delicious sushi in Lihue, Hawaii. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJiebOntIdB3wR_UWU-fXRzto
 photos:
   - name: >-
@@ -184,7 +182,46 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Kauaʻi Sushi Station in Lihue, HI$$$Kauaʻi Sushi Station in Lihue,
+  HI, stands out as a welcoming counter-serve spot where fresh sushi rolls and
+  creative offerings take center stage in a relaxed environment. This sushi
+  restaurant near you features a variety of inventive rolls that highlight
+  high-quality ingredients, making it an ideal choice for those seeking
+  authentic Japanese-inspired flavors without the formality. Accessibility is a
+  key highlight, with options like wheelchair-accessible parking and seating
+  ensuring everyone can enjoy the experience comfortably. The casual vibe pairs
+  perfectly with its selection of dishes, appealing to locals and visitors
+  looking for top-rated sushi options in the area. Whether you're exploring
+  sushi places near me or craving a simple yet satisfying meal, this spot
+  delivers on taste and convenience in Hawaii's vibrant dining scene.
+generative_summary: >-
+  Discover Kauaʻi Sushi Station in Lihue, HI$$$Kauaʻi Sushi Station in Lihue,
+  HI, stands out as a welcoming counter-serve spot where fresh sushi rolls and
+  creative offerings take center stage in a relaxed environment. This sushi
+  restaurant near you features a variety of inventive rolls that highlight
+  high-quality ingredients, making it an ideal choice for those seeking
+  authentic Japanese-inspired flavors without the formality. Accessibility is a
+  key highlight, with options like wheelchair-accessible parking and seating
+  ensuring everyone can enjoy the experience comfortably. The casual vibe pairs
+  perfectly with its selection of dishes, appealing to locals and visitors
+  looking for top-rated sushi options in the area. Whether you're exploring
+  sushi places near me or craving a simple yet satisfying meal, this spot
+  delivers on taste and convenience in Hawaii's vibrant dining scene.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors often rave about the tasty specialty
+  rolls like the Godzilla and Pink Salmon varieties, noting the standout fresh
+  fish and inventive flavors that keep things exciting. Folks appreciate the
+  friendly service and efficient pace, which make it easy to grab a quick bite
+  without any hassle. The affordable prices add to its appeal, offering great
+  value for a casual dining outing that doesn't break the bank. Overall, it's
+  praised as a solid pick for anyone in the mood for reliable Japanese eats,
+  with highlights on the creativity and quality that make it a go-to among sushi
+  enthusiasts. If you're searching for the best sushi near me, this place
+  consistently delivers a positive experience that's worth checking out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +247,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

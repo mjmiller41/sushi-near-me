@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sei Sushi"
+title: Sei Sushi
 permalink: /california/san-diego/sei-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: San Diego
 seo:
-  name: "Sei Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.sei-sushi.com/
-description: "Modest eatery & bar turning out rolls, rice bowls, noodles, salads & sides, plus sake & beer. Sei Sushi serves delicious sushi in San Diego, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ-5r0ipdX2YARZiijarRaiLU
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: null
 rating: '4.4'
 rating_count: 0
 website: http://www.sei-sushi.com/
+description: >-
+  About Sei Sushi in San Diego, CA$$$Sei Sushi in San Diego, CA, stands out as a
+  welcoming sushi restaurant nestled in the vibrant San Carlos neighborhood,
+  offering a variety of fresh Japanese dishes that highlight authentic flavors
+  and creative presentations. This spot combines traditional rolls and rice
+  bowls with options like ramen, complemented by a selection of beer, wine, and
+  sake for a complete dining experience. Accessibility features such as
+  wheelchair-friendly parking and seating make it easy for everyone to enjoy the
+  cozy atmosphere and well-prepared meals. Patrons can explore diverse menu
+  choices that cater to different tastes, including vegetarian options, all at
+  reasonable prices that reflect the quality of ingredients used.
+generative_summary: >-
+  About Sei Sushi in San Diego, CA$$$Sei Sushi in San Diego, CA, stands out as a
+  welcoming sushi restaurant nestled in the vibrant San Carlos neighborhood,
+  offering a variety of fresh Japanese dishes that highlight authentic flavors
+  and creative presentations. This spot combines traditional rolls and rice
+  bowls with options like ramen, complemented by a selection of beer, wine, and
+  sake for a complete dining experience. Accessibility features such as
+  wheelchair-friendly parking and seating make it easy for everyone to enjoy the
+  cozy atmosphere and well-prepared meals. Patrons can explore diverse menu
+  choices that cater to different tastes, including vegetarian options, all at
+  reasonable prices that reflect the quality of ingredients used.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ-5r0ipdX2YARZiijarRaiLU/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3dExmQnJRRRAB
@@ -390,6 +411,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURCazZINGRREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURCazZINGRREAE!2m1!1s0x80d957978af49afb:0xb5885ab46aa32866
+review_summary: >-
+  Customer Feedback Highlights$$$Visitors to this sushi spot often rave about
+  the delicious flavors and generous portions that make it a go-to choice for
+  anyone craving Japanese cuisine nearby. Many appreciate the friendly service
+  and clean, inviting vibe that enhance the overall meal, even if occasional
+  waits add a bit of anticipation to the experience. Feedback frequently
+  mentions the affordability and variety, with standout dishes like flavorful
+  rolls and savory sides earning high marks for taste and freshness. While some
+  note that certain items might be missing or prices a tad higher, the general
+  consensus leans positive, making it a solid pick for groups or individuals
+  seeking reliable sushi options in the area. Overall, it's a place where the
+  welcoming environment and tasty offerings keep diners coming back for more
+  casual enjoyment.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -422,8 +457,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Modest eatery & bar turning out rolls, rice bowls, noodles, salads & sides,
   plus sake & beer.
 

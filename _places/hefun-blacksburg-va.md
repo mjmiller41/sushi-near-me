@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Hefun"
+title: Hefun
 permalink: /virginia/blacksburg/hefun.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Blacksburg
 seo:
-  name: "Hefun"
-  type: Restaurant
+  type: restaurant
   links: https://blacksburghefun.com/
-description: "Hefun serves delicious sushi in Blacksburg, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJQZw4VGOVTYgRizx5s-PVKHA
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 0
 website: https://blacksburghefun.com/
+description: >-
+  Discover Hefun in Blacksburg, VA$$$Hefun in Blacksburg, VA, stands out as a
+  trendy Japanese restaurant blending fresh flavors and modern vibes for an
+  enjoyable dining experience. This spot delights visitors with a selection of
+  authentic ramen, sushi, and boba tea, all prepared with high-quality
+  ingredients that highlight the essence of Japanese cuisine. Accessibility
+  features like wheelchair-friendly entrances and seating make it welcoming for
+  everyone, while outdoor options add to the relaxed atmosphere perfect for
+  casual meals. Whether you're seeking sushi spots near you or exploring
+  Japanese dining in the area, Hefun offers a moderate price range that delivers
+  great value without compromising on taste or ambiance.
+generative_summary: >-
+  Discover Hefun in Blacksburg, VA$$$Hefun in Blacksburg, VA, stands out as a
+  trendy Japanese restaurant blending fresh flavors and modern vibes for an
+  enjoyable dining experience. This spot delights visitors with a selection of
+  authentic ramen, sushi, and boba tea, all prepared with high-quality
+  ingredients that highlight the essence of Japanese cuisine. Accessibility
+  features like wheelchair-friendly entrances and seating make it welcoming for
+  everyone, while outdoor options add to the relaxed atmosphere perfect for
+  casual meals. Whether you're seeking sushi spots near you or exploring
+  Japanese dining in the area, Hefun offers a moderate price range that delivers
+  great value without compromising on taste or ambiance.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJQZw4VGOVTYgRizx5s-PVKHA/reviews/ChdDSUhNMG9nS0VJQ0FnTUNRM05uUjZ3RRAB
@@ -354,6 +375,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNJbU5lMTZRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNJbU5lMTZRRRAB!2m1!1s0x884d956354389c41:0x7028d5e3b3793c8b
+review_summary: >-
+  What Visitors Are Buzzing About$$$Folks generally rave about the flavorful
+  dishes at this Japanese eatery, with many highlighting the tasty ramen and
+  sushi as standout choices that make it a go-to for satisfying meals. Service
+  tends to be quick and friendly, creating a cozy vibe that enhances the overall
+  experience, especially for groups or first-timers trying the rice bowls. While
+  most agree the portions and prices feel just right, a few mentions note that
+  some items could use a flavor boost to hit the mark every time. Overall, it's
+  a solid pick for anyone searching for top-rated sushi nearby, offering a
+  welcoming spot that balances fun and affordability while encouraging return
+  visits.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -387,7 +420,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

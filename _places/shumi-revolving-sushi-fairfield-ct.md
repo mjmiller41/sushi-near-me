@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "SHUMI REVOLVING SUSHI"
+title: SHUMI REVOLVING SUSHI
 permalink: /connecticut/fairfield/shumi-revolving-sushi.html
 stateAbbr: CT
 stateName: Connecticut
 cityName: Fairfield
 seo:
-  name: "SHUMI REVOLVING SUSHI"
-  type: Restaurant
+  type: restaurant
   links: http://shumirevolvingsushi.com/
-description: "SHUMI REVOLVING SUSHI serves delicious sushi in Fairfield, Connecticut. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ4X-DTL0P6IkRYWOkjvx1YU0
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $30 &ndash; $50
 rating: '4.4'
 rating_count: 0
 website: http://shumirevolvingsushi.com/
+description: >-
+  Experience SHUMI REVOLVING SUSHI in Fairfield, CT$$$Nestled in Fairfield, CT,
+  SHUMI REVOLVING SUSHI offers a unique all-you-can-eat dining adventure
+  featuring a conveyor belt of fresh Japanese dishes, perfect for those seeking
+  sushi options close to home. This spot stands out with its comfortable setup,
+  serving a variety of comfort foods for lunch and dinner that blend traditional
+  flavors with an interactive twist. Accessibility features like
+  wheelchair-friendly parking and seating make it welcoming for everyone,
+  enhancing the overall visit. Patrons can enjoy a mix of classic rolls and
+  creative bites, all designed to provide a satisfying meal in a cozy
+  atmosphere. If you're exploring top-rated sushi places near you, this location
+  delivers a memorable blend of quality and convenience.
+generative_summary: >-
+  Experience SHUMI REVOLVING SUSHI in Fairfield, CT$$$Nestled in Fairfield, CT,
+  SHUMI REVOLVING SUSHI offers a unique all-you-can-eat dining adventure
+  featuring a conveyor belt of fresh Japanese dishes, perfect for those seeking
+  sushi options close to home. This spot stands out with its comfortable setup,
+  serving a variety of comfort foods for lunch and dinner that blend traditional
+  flavors with an interactive twist. Accessibility features like
+  wheelchair-friendly parking and seating make it welcoming for everyone,
+  enhancing the overall visit. Patrons can enjoy a mix of classic rolls and
+  creative bites, all designed to provide a satisfying meal in a cozy
+  atmosphere. If you're exploring top-rated sushi places near you, this location
+  delivers a memorable blend of quality and convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ4X-DTL0P6IkRYWOkjvx1YU0/reviews/ChdDSUhNMG9nS0VJQ0FnTUNneXMycjZ3RRAB
@@ -358,6 +381,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNMODRhdGh3RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNMODRhdGh3RRAB!2m1!1s0x89e80fbd4c837fe1:0x4d6175fc8ea46361
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors often highlight the incredible value
+  of the all-you-can-eat setup, especially at lunch for around $25, making it a
+  go-to for affordable sushi experiences. Many appreciate the fresh ingredients
+  and wide variety of dishes that keep things exciting with the revolving belt,
+  adding a fun element to every meal. Folks frequently mention the friendly
+  service and tasty options like specialty rolls that feel just right without
+  being overwhelming. Overall, it's clear that this spot leaves a positive
+  impression, with repeat visits encouraged for its comforting vibe and
+  satisfying portions. If you're on the hunt for reliable sushi restaurants
+  nearby, the consistent praise for quality and enjoyment here makes it worth
+  checking out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -389,7 +425,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

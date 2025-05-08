@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ninja hibachi sushi steak house"
+title: Ninja hibachi sushi steak house
 permalink: /ohio/bowling-green/ninja-hibachi-sushi-steak-house.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Bowling Green
 seo:
-  name: "Ninja hibachi sushi steak house"
-  type: Restaurant
+  type: restaurant
   links: http://www.ninjahibachibowlinggreen.com/
-description: "Ninja hibachi sushi steak house serves delicious sushi in Bowling Green, Ohio. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJq9OitdELPIgRSJ7ZYcRsQrU
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 0
 website: http://www.ninjahibachibowlinggreen.com/
+description: >-
+  Explore Ninja Hibachi Sushi Steak House in Bowling Green, OH$$$Ninja Hibachi
+  Sushi Steak House in Bowling Green, OH, stands out as a go-to spot for fresh
+  Japanese cuisine, blending flavorful hibachi grills with an array of sushi
+  options that appeal to locals and visitors alike. This welcoming restaurant
+  offers a variety of dishes, from expertly prepared rolls and nigiri to hearty
+  soups and teas, all served in a lively atmosphere that makes it ideal for
+  casual dinners or group outings. Accessibility features like
+  wheelchair-friendly parking and seating ensure everyone can enjoy the
+  experience, adding to its appeal for families and friends seeking Japanese
+  places near me. With a focus on quality ingredients and authentic flavors,
+  it's a reliable choice for those craving top-rated sushi in a moderately
+  priced setting that combines entertainment with satisfying meals.
+generative_summary: >-
+  Explore Ninja Hibachi Sushi Steak House in Bowling Green, OH$$$Ninja Hibachi
+  Sushi Steak House in Bowling Green, OH, stands out as a go-to spot for fresh
+  Japanese cuisine, blending flavorful hibachi grills with an array of sushi
+  options that appeal to locals and visitors alike. This welcoming restaurant
+  offers a variety of dishes, from expertly prepared rolls and nigiri to hearty
+  soups and teas, all served in a lively atmosphere that makes it ideal for
+  casual dinners or group outings. Accessibility features like
+  wheelchair-friendly parking and seating ensure everyone can enjoy the
+  experience, adding to its appeal for families and friends seeking Japanese
+  places near me. With a focus on quality ingredients and authentic flavors,
+  it's a reliable choice for those craving top-rated sushi in a moderately
+  priced setting that combines entertainment with satisfying meals.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJq9OitdELPIgRSJ7ZYcRsQrU/reviews/ChdDSUhNMG9nS0VJQ0FnSUR2N2N2X193RRAB
@@ -332,6 +357,21 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURSemQ2U09BEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURSemQ2U09BEAE!2m1!1s0x883c0bd1b5a2d3ab:0xb5426cc461d99e48
+review_summary: >-
+  Customer Feedback on the Sushi Experience$$$Visitors often rave about the
+  fresh and flavorful sushi rolls that make this spot a favorite for anyone
+  hunting for sushi near me, with many highlighting the variety and taste as
+  standout features. Folks appreciate the quick and friendly service that keeps
+  things running smoothly, even during busy times, creating a fun and relaxed
+  vibe for enjoying Japanese dishes. While most feedback praises the authentic
+  hibachi shows and overall meal quality, a few notes mention that some items
+  could use a bit more zest, but it's generally seen as a solid pick for casual
+  dining. Overall, it's clear that sushi lovers keep coming back for the
+  reliable flavors and entertaining atmosphere, making it a go-to option for
+  those seeking the best sushi restaurants in the area. If you're in the mood
+  for a satisfying meal, this place delivers a consistently enjoyable experience
+  that's worth trying.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -364,7 +404,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

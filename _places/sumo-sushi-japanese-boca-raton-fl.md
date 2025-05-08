@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sumo Sushi & Japanese"
+title: Sumo Sushi & Japanese
 permalink: /florida/boca-raton/sumo-sushi-japanese.html
 stateAbbr: FL
 stateName: Florida
 cityName: Boca Raton
 seo:
-  name: "Sumo Sushi & Japanese"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sumo Sushi & Japanese serves delicious sushi in Boca Raton, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJhYy0DacZ2YgRGALjz5taam0
 photos:
   - name: >-
@@ -185,7 +183,39 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Explore Sumo Sushi in Boca Raton, FL$$$Sumo Sushi & Japanese in Boca Raton,
+  FL, stands out as a inviting destination for those seeking authentic Japanese
+  flavors and fresh sushi options. This cozy sushi restaurant boasts accessible
+  features like wheelchair-friendly parking and entrances, ensuring a welcoming
+  experience for all diners. With its relaxed atmosphere and variety of dishes
+  inspired by traditional cuisine, it's an ideal spot for enjoying a casual meal
+  or exploring new tastes. Photos highlight the vibrant setting, making it a
+  great choice for anyone searching for top-rated sushi restaurants in the area,
+  whether you're nearby or planning a visit.
+generative_summary: >-
+  Explore Sumo Sushi in Boca Raton, FL$$$Sumo Sushi & Japanese in Boca Raton,
+  FL, stands out as a inviting destination for those seeking authentic Japanese
+  flavors and fresh sushi options. This cozy sushi restaurant boasts accessible
+  features like wheelchair-friendly parking and entrances, ensuring a welcoming
+  experience for all diners. With its relaxed atmosphere and variety of dishes
+  inspired by traditional cuisine, it's an ideal spot for enjoying a casual meal
+  or exploring new tastes. Photos highlight the vibrant setting, making it a
+  great choice for anyone searching for top-rated sushi restaurants in the area,
+  whether you're nearby or planning a visit.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Feedback from Diners$$$From what visitors share, Sumo Sushi & Japanese
+  delivers consistently fresh and flavorful dishes that keep people coming back
+  for more. Many highlight the variety of options, from classic rolls to other
+  Japanese favorites, making it a solid pick for different tastes and
+  preferences. The atmosphere comes across as warm and accommodating, with easy
+  access adding to the overall enjoyment. While experiences can vary, folks
+  often note the reliable quality and inviting vibe, positioning it as a go-to
+  for those hunting for the best sushi near me. All in all, it earns positive
+  nods for providing a satisfying dining spot that's worth checking out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +241,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

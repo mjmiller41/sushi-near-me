@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi8"
+title: Sushi8
 permalink: /new-mexico/santa-fe/sushi8.html
 stateAbbr: NM
 stateName: New Mexico
 cityName: Santa Fe
 seo:
-  name: "Sushi8"
-  type: Restaurant
+  type: restaurant
   links: http://www.sushi8nm.com/
-description: "Sushi8 serves delicious sushi in Santa Fe, New Mexico. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ4V_tGN5RGIcRtvlgG0eFjU0
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x871851de18ed5fe1:0x4d8d85471b60f9b6!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:00 PM'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:00 PM'
     - 'Saturday: 11:00 AM – 9:00 PM'
     - 'Sunday: 11:00 AM – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 9:00 PM'
-    - 'Saturday: 11:00 AM – 9:00 PM'
-    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,239 @@ phone: (505) 204-0332
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.2'
-rating_count: 0
+rating_count: 184
 website: http://www.sushi8nm.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Sushi8 in Santa Fe, NM$$$Sushi8 in Santa Fe, NM, stands out as a
+  casual Japanese eatery specializing in fresh sushi rolls, flavorful bento
+  boxes, and comforting miso soup, making it a go-to option for those seeking
+  authentic Asian flavors in a relaxed setting. The spot emphasizes
+  accessibility with wheelchair-friendly features and a welcoming atmosphere,
+  ideal for enjoying a variety of Japanese dishes without the hassle. Patrons
+  can expect generous portions at moderate prices, paired with an inviting
+  layout that includes outdoor seating for a pleasant dining experience. This
+  sushi destination also offers dine-in and takeout options, perfect for locals
+  or visitors exploring top-rated Japanese places near me.
+generative_summary: >-
+  Discover Sushi8 in Santa Fe, NM$$$Sushi8 in Santa Fe, NM, stands out as a
+  casual Japanese eatery specializing in fresh sushi rolls, flavorful bento
+  boxes, and comforting miso soup, making it a go-to option for those seeking
+  authentic Asian flavors in a relaxed setting. The spot emphasizes
+  accessibility with wheelchair-friendly features and a welcoming atmosphere,
+  ideal for enjoying a variety of Japanese dishes without the hassle. Patrons
+  can expect generous portions at moderate prices, paired with an inviting
+  layout that includes outdoor seating for a pleasant dining experience. This
+  sushi destination also offers dine-in and takeout options, perfect for locals
+  or visitors exploring top-rated Japanese places near me.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ4V_tGN5RGIcRtvlgG0eFjU0/reviews/ChZDSUhNMG9nS0VJQ0FnSURIN3BhS1hBEAE
+    relativePublishTimeDescription: 7 months ago
+    rating: 5
+    text:
+      text: >-
+        We were skeptical at first, but we have always came back because of how
+        fast the service is and honestly how better tasting the food is compared
+        to other areas. For the price you get good proportions AND PRESENTATION.
+        While it is in the “mall” the location is just right if you are staying
+        nearby for lunch
+      languageCode: en
+    originalText:
+      text: >-
+        We were skeptical at first, but we have always came back because of how
+        fast the service is and honestly how better tasting the food is compared
+        to other areas. For the price you get good proportions AND PRESENTATION.
+        While it is in the “mall” the location is just right if you are staying
+        nearby for lunch
+      languageCode: en
+    authorAttribution:
+      displayName: Sir Review Alot
+      uri: https://www.google.com/maps/contrib/101039583372046554658/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUR3eje9M5lFbbvSnC83_LelEil6Pj_-7nC9zHPIhmxtUuZpB8E=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-09-16T07:06:48.447831Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURIN3BhS1hBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURIN3BhS1hBEAE!2m1!1s0x871851de18ed5fe1:0x4d8d85471b60f9b6
+  - name: >-
+      places/ChIJ4V_tGN5RGIcRtvlgG0eFjU0/reviews/ChdDSUhNMG9nS0VJQ0FnTURJM19HOTJnRRAB
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 4
+    text:
+      text: >-
+        Sushi and appetizers were really nice.  There is a language barrier, so
+        we found it difficult to get our requests met.  The waiter was very
+        friendly.  We will go here again. The presentation of the sushi was
+        really cool, art-like.  Atmosphere is okay, a little loud, but
+        tolerable.  They close too early on a Friday night...9pm. I recommend
+        the "Yummy Yummy" sushi!
+      languageCode: en
+    originalText:
+      text: >-
+        Sushi and appetizers were really nice.  There is a language barrier, so
+        we found it difficult to get our requests met.  The waiter was very
+        friendly.  We will go here again. The presentation of the sushi was
+        really cool, art-like.  Atmosphere is okay, a little loud, but
+        tolerable.  They close too early on a Friday night...9pm. I recommend
+        the "Yummy Yummy" sushi!
+      languageCode: en
+    authorAttribution:
+      displayName: Barbra Smith-Cockeran
+      uri: https://www.google.com/maps/contrib/103272829746996198741/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXFJ7u1XSyusxSRJyfEXeqPZk6Nlx0WTsO6Jt-ZczMSljM0IisD=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-14T02:11:34.116877Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJM19HOTJnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJM19HOTJnRRAB!2m1!1s0x871851de18ed5fe1:0x4d8d85471b60f9b6
+  - name: >-
+      places/ChIJ4V_tGN5RGIcRtvlgG0eFjU0/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3bnF6T1dBEAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Mike and I dined on a Tuesday evening. We ordered several rolls to
+        share. They came out quickly and so fresh!  Our host, Calvin, was very
+        kind and wished us luck!  Recommend the Yummy Yummy Roll. Great service.
+        Mall-type atmosphere.
+      languageCode: en
+    originalText:
+      text: >-
+        Mike and I dined on a Tuesday evening. We ordered several rolls to
+        share. They came out quickly and so fresh!  Our host, Calvin, was very
+        kind and wished us luck!  Recommend the Yummy Yummy Roll. Great service.
+        Mall-type atmosphere.
+      languageCode: en
+    authorAttribution:
+      displayName: Karen Krolow
+      uri: https://www.google.com/maps/contrib/112588424418491033486/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocK-PWHDKJwBPZhtwkui9rQ7o4eIJiKyOi5vyVt_N_PZYy_lEg=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-26T01:39:09.588156Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUR3bnF6T1dBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUR3bnF6T1dBEAE!2m1!1s0x871851de18ed5fe1:0x4d8d85471b60f9b6
+  - name: >-
+      places/ChIJ4V_tGN5RGIcRtvlgG0eFjU0/reviews/ChdDSUhNMG9nS0VJQ0FnSUM5MWVLYTRnRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        The food was great and the service was timely and accommodating! The
+        prices are a bit high, but you get quality product and specifically with
+        the nigri the pieces of fish are comparable to what you are paying. The
+        seating is limited, and the live edge wood tables have food stuck in
+        them, from what looks like months to years ago. I think it would have
+        been the perfect experience if these tables had a glass top for
+        cleanliness. Overall, recommend for the food and even though there was
+        an initial miscommunication on the order they fixed it expeditiously.
+      languageCode: en
+    originalText:
+      text: >-
+        The food was great and the service was timely and accommodating! The
+        prices are a bit high, but you get quality product and specifically with
+        the nigri the pieces of fish are comparable to what you are paying. The
+        seating is limited, and the live edge wood tables have food stuck in
+        them, from what looks like months to years ago. I think it would have
+        been the perfect experience if these tables had a glass top for
+        cleanliness. Overall, recommend for the food and even though there was
+        an initial miscommunication on the order they fixed it expeditiously.
+      languageCode: en
+    authorAttribution:
+      displayName: Emily Lobacz
+      uri: https://www.google.com/maps/contrib/101279437527105475379/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWNN3eVbNvTf7AoVXeVS4K45gffCUzloeAH7C5gztQXyhMPIVo=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-03-07T22:30:49.055576Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUM5MWVLYTRnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUM5MWVLYTRnRRAB!2m1!1s0x871851de18ed5fe1:0x4d8d85471b60f9b6
+  - name: >-
+      places/ChIJ4V_tGN5RGIcRtvlgG0eFjU0/reviews/ChdDSUhNMG9nS0VJQ0FnSURfdHNUSXBnRRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        Sean was such a fantastic server.
+
+        Their phone was busy, but I never felt that it affected his service.
+
+        I had a tasty miso soup, crispy harumaki, and salmon and eel sushi.
+        Everything was delicious for the price point. Such a lovely experience.
+        Thank you! I'll be back
+      languageCode: en
+    originalText:
+      text: >-
+        Sean was such a fantastic server.
+
+        Their phone was busy, but I never felt that it affected his service.
+
+        I had a tasty miso soup, crispy harumaki, and salmon and eel sushi.
+        Everything was delicious for the price point. Such a lovely experience.
+        Thank you! I'll be back
+      languageCode: en
+    authorAttribution:
+      displayName: Gabrielle
+      uri: https://www.google.com/maps/contrib/102306225875614976614/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVx7bXFqMo-DiD-yVez3C6_1DWy-Wnkjk8HTAQzHorJ-SGqTNr0=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-01-24T02:47:40.792622Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURfdHNUSXBnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURfdHNUSXBnRRAB!2m1!1s0x871851de18ed5fe1:0x4d8d85471b60f9b6
+review_summary: >-
+  What Customers Are Saying About the Experience$$$Visitors often rave about the
+  fresh and well-presented sushi rolls, highlighting how the flavors stand out
+  compared to other spots around town, making it a solid choice for anyone
+  craving reliable Japanese cuisine. Many appreciate the quick service and good
+  value for the price, with meals arriving promptly and portions that feel
+  satisfying without breaking the bank. While some note minor challenges like
+  communication issues or the early closing times, the overall vibe remains
+  friendly and accommodating, encouraging repeat visits for a casual meal. Folks
+  enjoy the tasty appetizers and recommend trying popular rolls for a delightful
+  experience, positioning this as one of the better sushi restaurants near me
+  for those looking for honest, everyday dining. Overall, the feedback paints a
+  picture of a welcoming spot that delivers on freshness and service, with just
+  a few areas for potential tweaks.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  paidParkingLot: true
+  paidStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
+delivery: true
+dine_in: true
 good_for_children: null
 good_for_groups: null
-good_for_sports: null
-live_music: null
+good_for_sports: false
+live_music: false
 menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
 serves_breakfast: null
 serves_brunch: null
 serves_cocktails: null
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

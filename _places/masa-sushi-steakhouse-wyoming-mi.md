@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Masa Sushi & Steakhouse"
+title: Masa Sushi & Steakhouse
 permalink: /michigan/wyoming/masa-sushi-steakhouse.html
 stateAbbr: MI
 stateName: Michigan
 cityName: Wyoming
 seo:
-  name: "Masa Sushi & Steakhouse"
-  type: Restaurant
+  type: restaurant
   links: http://www.masasushimichigan.com/
-description: "Masa Sushi & Steakhouse serves delicious sushi in Wyoming, Michigan. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ9cuURAK3GYgRQTTXW9IamPs
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 0
 website: http://www.masasushimichigan.com/
+description: >-
+  Discover Masa Sushi & Steakhouse in Wyoming, MI$$$Masa Sushi & Steakhouse in
+  Wyoming, MI, stands out as a welcoming Japanese restaurant serving fresh
+  sushi, flavorful ramen, and convenient bento boxes in a relaxed atmosphere.
+  This spot emphasizes accessibility with wheelchair-friendly features and ample
+  parking, making it easy for everyone to enjoy a casual dining experience.
+  Patrons can savor a range of Japanese dishes that highlight quality
+  ingredients and thoughtful preparation, ideal for those seeking sushi
+  restaurants nearby. The menu caters to various preferences, including
+  vegetarian options and family-friendly meals, with efficient service that
+  keeps things straightforward and enjoyable. Whether you're looking for
+  top-rated sushi close to home or a quick Japanese meal, this location combines
+  affordability with a clean, spacious setting that invites repeat visits.
+generative_summary: >-
+  Discover Masa Sushi & Steakhouse in Wyoming, MI$$$Masa Sushi & Steakhouse in
+  Wyoming, MI, stands out as a welcoming Japanese restaurant serving fresh
+  sushi, flavorful ramen, and convenient bento boxes in a relaxed atmosphere.
+  This spot emphasizes accessibility with wheelchair-friendly features and ample
+  parking, making it easy for everyone to enjoy a casual dining experience.
+  Patrons can savor a range of Japanese dishes that highlight quality
+  ingredients and thoughtful preparation, ideal for those seeking sushi
+  restaurants nearby. The menu caters to various preferences, including
+  vegetarian options and family-friendly meals, with efficient service that
+  keeps things straightforward and enjoyable. Whether you're looking for
+  top-rated sushi close to home or a quick Japanese meal, this location combines
+  affordability with a clean, spacious setting that invites repeat visits.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ9cuURAK3GYgRQTTXW9IamPs/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRNmFEeVVREAE
@@ -378,6 +403,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQ3M3V6MndRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQ3M3V6MndRRRAB!2m1!1s0x8819b7024494cbf5:0xfb981ad25bd73441
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this Japanese eatery often rave about
+  the delicious sushi and ramen, noting the fresh flavors and generous portions
+  that make meals feel satisfying and well-balanced. Many appreciate the
+  friendly staff and quick service, which help create a welcoming vibe for both
+  solo diners and groups looking for a casual spot. While most feedback
+  highlights the clean environment and reasonable prices as standout perks, some
+  mention that certain dishes could use a bit more consistency in preparation
+  for an even better experience. Overall, it's a go-to choice for anyone craving
+  reliable Japanese cuisine, with the convenience of easy ordering and speedy
+  delivery adding to the appeal. If you're exploring sushi places near you, this
+  restaurant generally delivers a positive and enjoyable outing that keeps
+  customers coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -410,7 +449,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

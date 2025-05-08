@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Cho"
+title: Sushi Cho
 permalink: /virginia/fairfax/sushi-cho.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Fairfax
 seo:
-  name: "Sushi Cho"
-  type: Restaurant
+  type: restaurant
   links: http://sushichorestaurants.com/
-description: "Sushi Cho serves delicious sushi in Fairfax, Virginia. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJf0qQqjZPtokROQROv3cBmyY
 photos:
   - name: >-
@@ -170,7 +168,89 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89b64f36aa904a7f:0x269b0177bf4e0439!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 2:30 PM, 4:30 – 9:30 PM'
     - 'Tuesday: Closed'
     - 'Wednesday: 11:00 AM – 2:30 PM, 4:30 – 9:30 PM'
@@ -178,14 +258,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 2:30 PM, 4:30 – 10:00 PM'
     - 'Saturday: 11:00 AM – 10:00 PM'
     - 'Sunday: 11:00 AM – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 2:30 PM, 4:30 – 9:30 PM'
-    - 'Tuesday: Closed'
-    - 'Wednesday: 11:00 AM – 2:30 PM, 4:30 – 9:30 PM'
-    - 'Thursday: 11:00 AM – 2:30 PM, 4:30 – 9:30 PM'
-    - 'Friday: 11:00 AM – 2:30 PM, 4:30 – 10:00 PM'
-    - 'Saturday: 11:00 AM – 10:00 PM'
-    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +270,48 @@ phone: (703) 865-4993
 price_level: PRICE_LEVEL_MODERATE
 price_range: $30 &ndash; $50
 rating: '4.7'
-rating_count: 0
+rating_count: 442
 website: http://sushichorestaurants.com/
+description: >-
+  Discover Sushi Cho in Fairfax, VA$$$Nestled in the heart of Fairfax, VA, Sushi
+  Cho stands out as a welcoming Japanese restaurant offering an array of fresh
+  sushi options that highlight the best of Japanese cuisine. This spot features
+  cozy ambiance and a selection of specialty rolls, paired perfectly with
+  beverages like sake and wine, making it an ideal choice for anyone seeking
+  authentic flavors in a relaxed setting. Patrons can enjoy generous portions of
+  creative dishes that emphasize high-quality ingredients, all while
+  appreciating the restaurant's commitment to accessibility features such as
+  wheelchair-friendly entrances and seating. Whether you're exploring sushi
+  restaurants near you or looking for top-rated Japanese places in the area,
+  Sushi Cho delivers a memorable dining experience that balances tradition with
+  modern appeal.
+generative_summary: >-
+  Discover Sushi Cho in Fairfax, VA$$$Nestled in the heart of Fairfax, VA, Sushi
+  Cho stands out as a welcoming Japanese restaurant offering an array of fresh
+  sushi options that highlight the best of Japanese cuisine. This spot features
+  cozy ambiance and a selection of specialty rolls, paired perfectly with
+  beverages like sake and wine, making it an ideal choice for anyone seeking
+  authentic flavors in a relaxed setting. Patrons can enjoy generous portions of
+  creative dishes that emphasize high-quality ingredients, all while
+  appreciating the restaurant's commitment to accessibility features such as
+  wheelchair-friendly entrances and seating. Whether you're exploring sushi
+  restaurants near you or looking for top-rated Japanese places in the area,
+  Sushi Cho delivers a memorable dining experience that balances tradition with
+  modern appeal.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Feedback on the Experience$$$Visitors often rave about the tasty array of
+  dishes at this Japanese eatery, particularly the flavorful salmon teriyaki
+  bento and fresh salmon rolls that come with hearty portions and vibrant
+  ingredients. Folks appreciate the warm and helpful service that makes every
+  meal feel personal and enjoyable, along with the spot's neat and inviting vibe
+  that enhances the overall atmosphere. While some note that the menu focuses
+  heavily on sushi favorites, it's generally seen as a solid pick for those
+  hunting for reliable options in the neighborhood. If you're on the hunt for
+  sushi close to you, this place earns high marks for its consistent quality and
+  welcoming feel, making it a go-to for casual outings or group gatherings.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +337,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

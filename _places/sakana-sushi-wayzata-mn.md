@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sakana Sushi"
+title: Sakana Sushi
 permalink: /minnesota/wayzata/sakana-sushi.html
 stateAbbr: MN
 stateName: Minnesota
 cityName: Wayzata
 seo:
-  name: "Sakana Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sakana Sushi serves delicious sushi in Wayzata, Minnesota. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJs4fP9ZlMs1IRWWVfok_Sw74
 photos:
   - name: >-
@@ -185,7 +183,46 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  About Sakana Sushi in Wayzata, MN$$$Sakana Sushi in Wayzata, MN, delivers a
+  fresh take on traditional Japanese cuisine, featuring an array of sushi
+  options and other flavorful eats in a relaxed, welcoming environment. This
+  spot stands out for its casual vibe and enticing happy hour specials, making
+  it a go-to choice for anyone craving authentic sushi restaurants in the area.
+  With accessibility features like wheelchair-friendly entrances and seating, it
+  ensures a comfortable experience for all diners seeking Japanese places near
+  me. The menu highlights high-quality ingredients that bring out the best in
+  every roll, appealing to those exploring top-rated sushi options. Whether
+  you're looking for sushi close to me after a lakeside stroll, this spot
+  combines simplicity with satisfying flavors for a memorable meal.
+generative_summary: >-
+  About Sakana Sushi in Wayzata, MN$$$Sakana Sushi in Wayzata, MN, delivers a
+  fresh take on traditional Japanese cuisine, featuring an array of sushi
+  options and other flavorful eats in a relaxed, welcoming environment. This
+  spot stands out for its casual vibe and enticing happy hour specials, making
+  it a go-to choice for anyone craving authentic sushi restaurants in the area.
+  With accessibility features like wheelchair-friendly entrances and seating, it
+  ensures a comfortable experience for all diners seeking Japanese places near
+  me. The menu highlights high-quality ingredients that bring out the best in
+  every roll, appealing to those exploring top-rated sushi options. Whether
+  you're looking for sushi close to me after a lakeside stroll, this spot
+  combines simplicity with satisfying flavors for a memorable meal.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Summary of Customer Feedback$$$Folks generally enjoy the straightforward
+  appeal of this sushi spot, often noting the fresh ingredients and solid
+  variety that keep things tasty without overcomplicating the experience. Many
+  appreciate the casual atmosphere and happy hour deals, which add a fun,
+  approachable vibe to their visits, though some mention it's best for quick
+  bites rather than elaborate dinners. Overall, the consensus leans positive on
+  the quality of the rolls and Japanese-inspired dishes, making it a reliable
+  pick for anyone hunting for sushi near me on a budget. While not every detail
+  is perfect, the general feedback highlights it as a solid choice for laid-back
+  meals with friends, encouraging repeat trips for its consistent flavors. If
+  you're in the mood for dependable sushi restaurants, this place gets nods for
+  its no-fuss charm and satisfying options.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +248,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

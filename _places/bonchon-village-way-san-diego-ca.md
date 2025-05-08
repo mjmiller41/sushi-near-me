@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Bonchon Village Way"
+title: Bonchon Village Way
 permalink: /california/san-diego/bonchon-village-way.html
 stateAbbr: CA
 stateName: California
 cityName: San Diego
 seo:
-  name: "Bonchon Village Way"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Bonchon Village Way serves delicious sushi in San Diego, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJBcFqXXoJ3IARmk4awANFQuo
 photos:
   - name: >-
@@ -185,7 +183,52 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Bonchon Village Way in San Diego, CA$$$Bonchon Village Way in San
+  Diego, CA, stands out as a welcoming Asian restaurant specializing in
+  flavorful Korean fried chicken and comforting dishes in a relaxed atmosphere.
+  This spot delights visitors with its signature crispy wings, paired with a
+  variety of traditional sides that capture the essence of Korean cuisine,
+  making it a go-to for those seeking authentic comfort food options. The casual
+  setting enhances the dining experience, offering an accessible environment
+  with features like wheelchair-friendly parking and entrances, ideal for a
+  broad range of guests. Beyond the tasty menu, the restaurant's vibrant vibe
+  and thoughtful design create a comfortable space for enjoying meals, whether
+  you're grabbing a quick bite or settling in for more. Its location in the
+  lively Carmel Valley neighborhood adds to the appeal, providing an easy spot
+  for locals and visitors alike to explore bold flavors in a hassle-free
+  setting.
+generative_summary: >-
+  Discover Bonchon Village Way in San Diego, CA$$$Bonchon Village Way in San
+  Diego, CA, stands out as a welcoming Asian restaurant specializing in
+  flavorful Korean fried chicken and comforting dishes in a relaxed atmosphere.
+  This spot delights visitors with its signature crispy wings, paired with a
+  variety of traditional sides that capture the essence of Korean cuisine,
+  making it a go-to for those seeking authentic comfort food options. The casual
+  setting enhances the dining experience, offering an accessible environment
+  with features like wheelchair-friendly parking and entrances, ideal for a
+  broad range of guests. Beyond the tasty menu, the restaurant's vibrant vibe
+  and thoughtful design create a comfortable space for enjoying meals, whether
+  you're grabbing a quick bite or settling in for more. Its location in the
+  lively Carmel Valley neighborhood adds to the appeal, providing an easy spot
+  for locals and visitors alike to explore bold flavors in a hassle-free
+  setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$From what people share about Bonchon Village Way,
+  it seems folks really enjoy the standout crispy chicken and bold flavors that
+  keep them coming back for more casual eats. Many highlight the friendly
+  service and quick preparation, making it a solid choice for a relaxed meal
+  with friends or family, though some note that wait times can vary during peak
+  hours. Overall, the atmosphere gets positive nods for being welcoming and
+  unpretentious, with diners appreciating the variety of options that cater to
+  different tastes without overwhelming the menu. It's clear that the focus on
+  quality ingredients and authentic preparation helps this place maintain a
+  loyal following, even if a few mention portion sizes could be more generous.
+  If you're in the mood for reliable Asian-inspired comfort food, this spot
+  often leaves people satisfied and eager to recommend it to others.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +254,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

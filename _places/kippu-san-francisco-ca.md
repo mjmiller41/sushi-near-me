@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kippu"
+title: Kippu
 permalink: /california/san-francisco/kippu.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
 seo:
-  name: "Kippu"
-  type: Restaurant
+  type: restaurant
   links: http://www.kippusushi.com/
-description: "Specialty sushi rolls, sashimi & bento boxes round out the menu at this compact, informal outpost. Kippu serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJmXDZ1LiAhYAR22DvqGrzhik
 photos:
   - name: >-
@@ -183,6 +181,33 @@ price_range: $20 &ndash; $30
 rating: '4.0'
 rating_count: 0
 website: http://www.kippusushi.com/
+description: >-
+  Discover Kippu in San Francisco, CA$$$Nestled in the heart of San Francisco,
+  CA, Kippu stands out as a cozy spot for enjoying authentic Japanese cuisine,
+  featuring fresh sushi and flavorful bento boxes that capture the essence of
+  traditional eats. This unpretentious restaurant offers a variety of options
+  like teriyaki dishes and specialty rolls, making it a go-to choice for those
+  seeking satisfying sushi experiences in the city. With its compact and
+  welcoming atmosphere, it's ideal for casual meals that blend simplicity with
+  taste, appealing to anyone exploring Japanese places nearby. Accessibility
+  features such as wheelchair-friendly entrances add to the convenience,
+  ensuring a smooth visit for all diners. Whether you're in the mood for a quick
+  bite or a relaxed outing, Kippu delivers on quality and variety in a vibrant
+  neighborhood setting.
+generative_summary: >-
+  Discover Kippu in San Francisco, CA$$$Nestled in the heart of San Francisco,
+  CA, Kippu stands out as a cozy spot for enjoying authentic Japanese cuisine,
+  featuring fresh sushi and flavorful bento boxes that capture the essence of
+  traditional eats. This unpretentious restaurant offers a variety of options
+  like teriyaki dishes and specialty rolls, making it a go-to choice for those
+  seeking satisfying sushi experiences in the city. With its compact and
+  welcoming atmosphere, it's ideal for casual meals that blend simplicity with
+  taste, appealing to anyone exploring Japanese places nearby. Accessibility
+  features such as wheelchair-friendly entrances add to the convenience,
+  ensuring a smooth visit for all diners. Whether you're in the mood for a quick
+  bite or a relaxed outing, Kippu delivers on quality and variety in a vibrant
+  neighborhood setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJmXDZ1LiAhYAR22DvqGrzhik/reviews/ChdDSUhNMG9nS0VJQ0FnSUR2eHVEanBBRRAB
@@ -342,6 +367,21 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURUcTlxYzZ3RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURUcTlxYzZ3RRAB!2m1!1s0x808580b8d4d97099:0x2986f36aa8ef60db
+review_summary: >-
+  What Customers Are Sharing About This Spot$$$Visitors to this San Francisco
+  sushi haven often praise the friendly service and solid flavors, with many
+  highlighting the well-seasoned dishes like katsu-don and fresh rolls that hit
+  the spot without overwhelming the palate. While some folks note the food comes
+  out quickly and piping hot, making it a reliable pick for a casual meal, there
+  are occasional mentions of staff being a bit rushed during busy times, though
+  it doesn't overshadow the overall experience. Feedback frequently points to
+  the restaurant's convenience in Japantown, with tasty options that keep people
+  coming back for more satisfying Japanese-inspired fare. On the upside, the
+  variety of rolls and sides earns high marks for being flavorful and not overly
+  salty, helping it stand out among local sushi options. All in all, it's a
+  solid choice for anyone craving good vibes and reliable eats, with the
+  positives far outweighing any minor hiccups.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidParkingLot: true
   paidStreetParking: true
@@ -374,8 +414,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Specialty sushi rolls, sashimi & bento boxes round out the menu at this
   compact, informal outpost.
 

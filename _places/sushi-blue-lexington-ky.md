@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "SUSHI BLUE"
+title: SUSHI BLUE
 permalink: /kentucky/lexington/sushi-blue.html
 stateAbbr: KY
 stateName: Kentucky
 cityName: Lexington
 seo:
-  name: "SUSHI BLUE"
-  type: Restaurant
-  links: null
-description: "SUSHI BLUE serves delicious sushi in Lexington, Kentucky. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.eatsushiblue.com/
 place_id: ChIJ3WuBq1hbQogRtMsbjgwbcts
 photos:
   - name: >-
@@ -170,22 +168,187 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x88425b58ab816bdd:0xdb721b0c8e1bcbb4!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 18
+        minute: 0
+      close:
+        day: 1
+        hour: 2
+        minute: 0
+    - open:
+        day: 1
+        hour: 18
+        minute: 0
+      close:
+        day: 2
+        hour: 2
+        minute: 0
+    - open:
+        day: 2
+        hour: 18
+        minute: 0
+      close:
+        day: 3
+        hour: 2
+        minute: 0
+    - open:
+        day: 3
+        hour: 18
+        minute: 0
+      close:
+        day: 4
+        hour: 2
+        minute: 0
+    - open:
+        day: 4
+        hour: 18
+        minute: 0
+      close:
+        day: 5
+        hour: 2
+        minute: 0
+    - open:
+        day: 5
+        hour: 18
+        minute: 0
+      close:
+        day: 6
+        hour: 2
+        minute: 0
+    - open:
+        day: 6
+        hour: 18
+        minute: 0
+      close:
+        day: 0
+        hour: 2
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 6:00 PM – 2:00 AM'
+    - 'Tuesday: 6:00 PM – 2:00 AM'
+    - 'Wednesday: 6:00 PM – 2:00 AM'
+    - 'Thursday: 6:00 PM – 2:00 AM'
+    - 'Friday: 6:00 PM – 2:00 AM'
+    - 'Saturday: 6:00 PM – 2:00 AM'
+    - 'Sunday: 6:00 PM – 2:00 AM'
+  nextCloseTime: '2025-05-04T06:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 18
+          minute: 0
+        close:
+          day: 1
+          hour: 2
+          minute: 0
+      - open:
+          day: 1
+          hour: 18
+          minute: 0
+        close:
+          day: 2
+          hour: 2
+          minute: 0
+      - open:
+          day: 2
+          hour: 18
+          minute: 0
+        close:
+          day: 3
+          hour: 2
+          minute: 0
+      - open:
+          day: 3
+          hour: 18
+          minute: 0
+        close:
+          day: 4
+          hour: 2
+          minute: 0
+      - open:
+          day: 4
+          hour: 9
+          minute: 0
+        close:
+          day: 5
+          hour: 2
+          minute: 0
+      - open:
+          day: 5
+          hour: 18
+          minute: 0
+        close:
+          day: 6
+          hour: 2
+          minute: 0
+      - open:
+          day: 6
+          hour: 18
+          minute: 0
+        close:
+          day: 0
+          hour: 2
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 6:00 PM – 2:00 AM'
+      - 'Tuesday: 6:00 PM – 2:00 AM'
+      - 'Wednesday: 6:00 PM – 2:00 AM'
+      - 'Thursday: 9:00 AM – 2:00 AM'
+      - 'Friday: 6:00 PM – 2:00 AM'
+      - 'Saturday: 6:00 PM – 2:00 AM'
+      - 'Sunday: 6:00 PM – 2:00 AM'
+    secondaryHoursType: ONLINE_SERVICE_HOURS
+    nextCloseTime: '2025-05-04T06:00:00Z'
+phone: (859) 523-6862
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.6'
+rating_count: 541
+website: http://www.eatsushiblue.com/
+description: >-
+  Discover SUSHI BLUE in Lexington, KY$$$SUSHI BLUE in Lexington, KY, stands out
+  as a welcoming Japanese restaurant offering a variety of fresh sushi options
+  for those seeking authentic flavors in a relaxed environment. This spot is
+  known for its late-night hours, making it ideal for enjoying creative rolls,
+  sashimi, and hearty rice bowls long after dinner time. With a focus on
+  accessibility and a cozy atmosphere, it caters to diners looking for
+  moderately priced meals that highlight quality ingredients and simple
+  elegance. If you're exploring top-rated sushi restaurants nearby, SUSHI BLUE
+  provides a casual setting where every bite feels thoughtfully prepared. Its
+  commitment to fresh, flavorful dishes ensures a satisfying experience for
+  anyone craving Japanese cuisine close to home.
+generative_summary: >-
+  Discover SUSHI BLUE in Lexington, KY$$$SUSHI BLUE in Lexington, KY, stands out
+  as a welcoming Japanese restaurant offering a variety of fresh sushi options
+  for those seeking authentic flavors in a relaxed environment. This spot is
+  known for its late-night hours, making it ideal for enjoying creative rolls,
+  sashimi, and hearty rice bowls long after dinner time. With a focus on
+  accessibility and a cozy atmosphere, it caters to diners looking for
+  moderately priced meals that highlight quality ingredients and simple
+  elegance. If you're exploring top-rated sushi restaurants nearby, SUSHI BLUE
+  provides a casual setting where every bite feels thoughtfully prepared. Its
+  commitment to fresh, flavorful dishes ensures a satisfying experience for
+  anyone craving Japanese cuisine close to home.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Love About This Spot$$$Folks often praise the standout dishes
+  like the flavorful Chicken Ramen Bowls, which bring a comforting twist to
+  classic Japanese fare and keep diners coming back for more. The staff is
+  frequently noted for their warm and efficient service, creating a welcoming
+  vibe that enhances the overall meal. Many appreciate how this place delivers
+  solid portions at reasonable prices, making it a reliable choice for casual
+  get-togethers or solo visits. If you're hunting for great sushi places nearby,
+  the positive feedback highlights the fresh ingredients and relaxed setting
+  that make every visit enjoyable. Overall, it's a go-to option that balances
+  tasty food with friendly hospitality, encouraging repeat trips for anyone in
+  the area.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +374,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

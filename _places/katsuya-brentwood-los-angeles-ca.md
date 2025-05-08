@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Katsuya Brentwood"
+title: Katsuya Brentwood
 permalink: /california/los-angeles/katsuya-brentwood.html
 stateAbbr: CA
 stateName: California
 cityName: Los Angeles
 seo:
-  name: "Katsuya Brentwood"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Katsuya Brentwood serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJf-AasaC8woARt359qhgvQm8
 photos:
   - name: >-
@@ -185,7 +183,42 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Katsuya Brentwood in Los Angeles, CA$$$Katsuya Brentwood in Los
+  Angeles, CA, stands out as a refined Japanese dining spot, offering a
+  selection of fresh sushi and robata dishes in an elegant atmosphere. This
+  establishment combines high-quality ingredients with creative presentations,
+  making it a go-to choice for those exploring authentic Japanese flavors in the
+  heart of Brentwood. Accessibility features like wheelchair-friendly parking
+  and entrances ensure a welcoming experience for all visitors, enhancing its
+  appeal as a modern sushi destination. The upscale setting provides a
+  sophisticated backdrop for enjoying expertly prepared meals, ideal for anyone
+  seeking top-rated Japanese cuisine nearby.
+generative_summary: >-
+  Discover Katsuya Brentwood in Los Angeles, CA$$$Katsuya Brentwood in Los
+  Angeles, CA, stands out as a refined Japanese dining spot, offering a
+  selection of fresh sushi and robata dishes in an elegant atmosphere. This
+  establishment combines high-quality ingredients with creative presentations,
+  making it a go-to choice for those exploring authentic Japanese flavors in the
+  heart of Brentwood. Accessibility features like wheelchair-friendly parking
+  and entrances ensure a welcoming experience for all visitors, enhancing its
+  appeal as a modern sushi destination. The upscale setting provides a
+  sophisticated backdrop for enjoying expertly prepared meals, ideal for anyone
+  seeking top-rated Japanese cuisine nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Guests Are Saying$$$Visitors often rave about the delicious variety of
+  sushi at this spot, highlighting creative rolls and fresh seafood that make
+  every bite memorable. The service stands out as friendly and attentive,
+  contributing to a relaxed and enjoyable meal that keeps diners coming back.
+  While some note that the pricing might be on the higher side, many agree it's
+  worth it for the quality and unique flavors offered. Overall, the consensus
+  leans positive, with guests appreciating the satisfying dining experience that
+  combines great food with a welcoming vibe. If you're in the mood for standout
+  Japanese dishes, this place delivers a solid option with just a few
+  considerations in mind.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +244,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

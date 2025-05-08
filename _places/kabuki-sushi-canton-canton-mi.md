@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kabuki Sushi Canton"
+title: Kabuki Sushi Canton
 permalink: /michigan/canton/kabuki-sushi-canton.html
 stateAbbr: MI
 stateName: Michigan
 cityName: Canton
 seo:
-  name: "Kabuki Sushi Canton"
-  type: Restaurant
-  links: null
-description: "Kabuki Sushi Canton serves delicious sushi in Canton, Michigan. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.kabukisushicantonmi.com/
 place_id: ChIJLdjE5VdSO4gR__hqkz2bQaw
 photos:
   - name: >-
@@ -170,8 +168,97 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x883b5257e5c4d82d:0xac419b3d936af8ff!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 15
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 15
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 20
+        minute: 30
+    - open:
+        day: 6
+        hour: 15
+        minute: 0
+      close:
+        day: 6
+        hour: 20
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: Closed'
+    - 'Tuesday: 11:00 AM – 3:00 PM, 5:00 – 8:30 PM'
+    - 'Wednesday: 11:00 AM – 3:00 PM, 5:00 – 8:30 PM'
+    - 'Thursday: 11:00 AM – 3:00 PM, 5:00 – 8:30 PM'
+    - 'Friday: 11:00 AM – 3:00 PM, 5:00 – 8:30 PM'
+    - 'Saturday: 3:00 – 8:30 PM'
+    - 'Sunday: 3:00 – 8:30 PM'
+  nextCloseTime: '2025-05-04T00:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +266,51 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (734) 844-9000
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.5'
+rating_count: 747
+website: https://www.kabukisushicantonmi.com/
+description: >-
+  Discover Kabuki Sushi in Canton, Michigan$$$Kabuki Sushi in Canton, Michigan,
+  stands out as a welcoming spot for sushi enthusiasts, blending traditional
+  Japanese flavors with Korean influences in a cozy setting. This restaurant
+  delights diners with an array of fresh sushi rolls alongside hearty Korean
+  options like grilled meats and rice bowls, complemented by a selection of
+  beers and sake for a complete meal experience. Accessibility features make it
+  easy for everyone to enjoy the inviting atmosphere, while its moderate pricing
+  adds to the appeal for casual outings or family dinners. Whether you're
+  exploring local dining options or seeking top-rated spots for authentic Asian
+  cuisine, Kabuki Sushi offers a memorable blend of tastes that highlight the
+  best of fresh ingredients and thoughtful preparation.
+generative_summary: >-
+  Discover Kabuki Sushi in Canton, Michigan$$$Kabuki Sushi in Canton, Michigan,
+  stands out as a welcoming spot for sushi enthusiasts, blending traditional
+  Japanese flavors with Korean influences in a cozy setting. This restaurant
+  delights diners with an array of fresh sushi rolls alongside hearty Korean
+  options like grilled meats and rice bowls, complemented by a selection of
+  beers and sake for a complete meal experience. Accessibility features make it
+  easy for everyone to enjoy the inviting atmosphere, while its moderate pricing
+  adds to the appeal for casual outings or family dinners. Whether you're
+  exploring local dining options or seeking top-rated spots for authentic Asian
+  cuisine, Kabuki Sushi offers a memorable blend of tastes that highlight the
+  best of fresh ingredients and thoughtful preparation.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this sushi spot often highlight the
+  consistently fresh and flavorful dishes that make every meal feel special,
+  earning it high marks for quality and variety. Many appreciate the friendly
+  service and efficient atmosphere, which contribute to a relaxed dining
+  experience that's perfect for groups or solo adventurers. While some note that
+  wait times can vary during peak hours, the overall consensus leans positive,
+  with praise for the balanced flavors in both sushi and Korean offerings.
+  Feedback frequently mentions the great value for the price, making it a go-to
+  choice for those craving reliable, tasty options in the area. All in all, it's
+  clear that this place delivers a satisfying experience that keeps people
+  coming back for more enjoyable bites.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +336,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

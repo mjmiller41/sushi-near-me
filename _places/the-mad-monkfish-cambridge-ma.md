@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "The Mad Monkfish"
+title: The Mad Monkfish
 permalink: /massachusetts/cambridge/the-mad-monkfish.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Cambridge
 seo:
-  name: "The Mad Monkfish"
-  type: Restaurant
+  type: restaurant
   links: https://themadmonkfish.com/?utm_source=google
-description: "Creatively named sushi, including rolls inspired by fairy tales, & Pan-Asian plates in simple digs. The Mad Monkfish serves delicious sushi in Cambridge, Massachusetts. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ837FC1R344kRVlYqVsoSQew
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $30 &ndash; $50
 rating: '4.3'
 rating_count: 0
 website: https://themadmonkfish.com/?utm_source=google
+description: >-
+  Discover The Mad Monkfish in Cambridge, MA$$$The Mad Monkfish in Cambridge,
+  MA, is a lively Asian fusion spot that delights with creative sushi rolls and
+  flavorful Thai-inspired dishes in a welcoming setting. This eatery stands out
+  for its blend of fresh, inventive flavors and a cozy atmosphere enhanced by
+  live jazz performances, making it an ideal choice for those seeking sushi
+  restaurants in the area. With a menu that balances comfort food and premium
+  selections, it's perfect for casual outings or special evenings, all while
+  offering accessible features like wheelchair-friendly entrances. If you're
+  exploring sushi places near you, this location provides a vibrant dining
+  experience that combines quality ingredients with an energetic vibe, ensuring
+  a memorable visit.
+generative_summary: >-
+  Discover The Mad Monkfish in Cambridge, MA$$$The Mad Monkfish in Cambridge,
+  MA, is a lively Asian fusion spot that delights with creative sushi rolls and
+  flavorful Thai-inspired dishes in a welcoming setting. This eatery stands out
+  for its blend of fresh, inventive flavors and a cozy atmosphere enhanced by
+  live jazz performances, making it an ideal choice for those seeking sushi
+  restaurants in the area. With a menu that balances comfort food and premium
+  selections, it's perfect for casual outings or special evenings, all while
+  offering accessible features like wheelchair-friendly entrances. If you're
+  exploring sushi places near you, this location provides a vibrant dining
+  experience that combines quality ingredients with an energetic vibe, ensuring
+  a memorable visit.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ837FC1R344kRVlYqVsoSQew/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3a0lMZlpREAE
@@ -382,6 +405,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMzaElyUXRBRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMzaElyUXRBRRAB!2m1!1s0x89e377540bc57ef3:0xec4112ca562a5656
+review_summary: >-
+  What Guests Are Saying About This Spot$$$Visitors frequently praise the tasty
+  sushi and creative rolls at this Cambridge eatery, noting that the variety
+  keeps things exciting for anyone hunting for fresh options nearby. The live
+  jazz adds a fun, lively energy that's great for groups or date nights, with
+  many appreciating the solid appetizers and vegetarian choices that cater to
+  different tastes. While some mention the prices lean towards the higher side,
+  the overall atmosphere and attentive service make it worth the splurge for a
+  special meal. In general, folks find it a reliable pick for enjoying top-rated
+  sushi in a welcoming environment, with the consensus leaning positive for its
+  flavorful dishes and entertaining vibe.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidStreetParking: true
   valetParking: false
@@ -413,8 +448,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Creatively named sushi, including rolls inspired by fairy tales, & Pan-Asian
   plates in simple digs.
 

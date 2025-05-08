@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Koi Ramen"
+title: Koi Ramen
 permalink: /kansas/salina/koi-ramen.html
 stateAbbr: KS
 stateName: Kansas
 cityName: Salina
 seo:
-  name: "Koi Ramen"
-  type: Restaurant
-  links: null
-description: "Koi Ramen serves delicious sushi in Salina, Kansas. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.koiramenks.com/
 place_id: ChIJc0u2-QnJvIcRKdHzJftOboo
 photos:
   - name: >-
@@ -170,8 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x87bcc909f9b64b73:0x8a6e4efb25f3d129!10e5
 primary_type: Asian Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: Closed'
+    - 'Tuesday: 11:00 AM – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 9:00 PM'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 10:00 PM'
+    - 'Saturday: 11:00 AM – 10:00 PM'
+    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +234,55 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (785) 515-2206
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.6'
+rating_count: 271
+website: https://www.koiramenks.com/
+description: >-
+  Discover Koi Ramen in Salina, KS$$$Koi Ramen in Salina, KS, stands out as a
+  welcoming Asian eatery offering a blend of flavorful sushi rolls and hearty
+  ramen bowls that appeal to those seeking top-rated sushi experiences nearby.
+  This spot features a casual atmosphere where patrons can enjoy a variety of
+  Asian-inspired dishes, including fresh ramen options and beverages like beer
+  and sake, making it a go-to choice for sushi enthusiasts in the area. With its
+  accessible entrance and seating designed for all guests, it ensures everyone
+  can savor the diverse menu without hassle. The restaurant operates with
+  convenient hours, allowing visitors to drop in for a satisfying lunch or
+  dinner, perfect for those exploring Japanese-inspired places close to home.
+  Whether you're in the mood for a quick bite or a relaxed meal, Koi Ramen
+  delivers an authentic taste of Asian cuisine that keeps locals coming back for
+  more.
+generative_summary: >-
+  Discover Koi Ramen in Salina, KS$$$Koi Ramen in Salina, KS, stands out as a
+  welcoming Asian eatery offering a blend of flavorful sushi rolls and hearty
+  ramen bowls that appeal to those seeking top-rated sushi experiences nearby.
+  This spot features a casual atmosphere where patrons can enjoy a variety of
+  Asian-inspired dishes, including fresh ramen options and beverages like beer
+  and sake, making it a go-to choice for sushi enthusiasts in the area. With its
+  accessible entrance and seating designed for all guests, it ensures everyone
+  can savor the diverse menu without hassle. The restaurant operates with
+  convenient hours, allowing visitors to drop in for a satisfying lunch or
+  dinner, perfect for those exploring Japanese-inspired places close to home.
+  Whether you're in the mood for a quick bite or a relaxed meal, Koi Ramen
+  delivers an authentic taste of Asian cuisine that keeps locals coming back for
+  more.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About Koi Ramen$$$Folks around Salina rave about the
+  tasty Asian dishes at this spot, especially the flavorful spicy tonkotsu ramen
+  and fresh spicy tuna rolls that hit the spot every time. Many appreciate the
+  helpful staff who make the dining experience feel welcoming and efficient,
+  adding a nice touch to every visit. It's clear that the food stands out for
+  its bold flavors and quality, making it a solid pick for anyone hunting for
+  reliable sushi restaurants in the neighborhood. Overall, the vibe here is
+  laid-back and enjoyable, with diners noting it's a great place to gather with
+  friends or family for a satisfying meal. While opinions are generally
+  positive, it's all about the honest, hearty portions that keep people
+  recommending this as one of the best sushi options around.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +308,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

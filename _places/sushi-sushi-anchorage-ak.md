@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi & Sushi"
+title: Sushi & Sushi
 permalink: /alaska/anchorage/sushi-sushi.html
 stateAbbr: AK
 stateName: Alaska
 cityName: Anchorage
 seo:
-  name: "Sushi & Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi & Sushi serves delicious sushi in Anchorage, Alaska. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJrx-wejaXyFYRPYK0vDNA00k
 photos:
   - name: >-
@@ -185,7 +183,45 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Sushi & Sushi in Anchorage, AK$$$Sushi & Sushi in Anchorage, AK,
+  stands out as a welcoming Japanese eatery offering a variety of fresh sushi
+  options and bento boxes that highlight authentic flavors. This spot
+  specializes in creative rolls and classic dishes, complemented by a selection
+  of sake, beer, and wine to enhance your dining experience. With its focus on
+  high-quality ingredients and accessible features like wheelchair-friendly
+  parking and entrances, it's an ideal choice for those seeking convenient sushi
+  restaurants in the area. The unassuming location in Midtown adds to its charm,
+  making it a go-to for locals and visitors alike looking for reliable Japanese
+  places near me. Whether you're in the mood for a quick meal or a relaxed
+  evening, this eatery delivers a satisfying blend of taste and convenience.
+generative_summary: >-
+  Discover Sushi & Sushi in Anchorage, AK$$$Sushi & Sushi in Anchorage, AK,
+  stands out as a welcoming Japanese eatery offering a variety of fresh sushi
+  options and bento boxes that highlight authentic flavors. This spot
+  specializes in creative rolls and classic dishes, complemented by a selection
+  of sake, beer, and wine to enhance your dining experience. With its focus on
+  high-quality ingredients and accessible features like wheelchair-friendly
+  parking and entrances, it's an ideal choice for those seeking convenient sushi
+  restaurants in the area. The unassuming location in Midtown adds to its charm,
+  making it a go-to for locals and visitors alike looking for reliable Japanese
+  places near me. Whether you're in the mood for a quick meal or a relaxed
+  evening, this eatery delivers a satisfying blend of taste and convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Folks often rave about the tasty California rolls
+  and other specialties like the 911 roll, noting how the fresh ingredients make
+  every bite memorable at this sushi spot. Many appreciate the friendly and
+  efficient service that keeps things running smoothly, along with prices that
+  feel just right for the quality on offer. While some mention that the outside
+  might not look like much, that doesn't take away from the solid experience
+  inside, where the miso soup and overall sushi selection shine through.
+  Overall, it's a spot that delivers on fresh, high-quality meals in a welcoming
+  atmosphere, making it a solid pick for anyone hunting for top-rated sushi
+  nearby. If you're exploring sushi restaurants in the region, this place earns
+  high marks for its reliable flavors and approachable vibe.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +247,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

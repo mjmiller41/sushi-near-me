@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Arigato Sushi"
+title: Arigato Sushi
 permalink: /california/san-luis-obispo/arigato-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: San Luis Obispo
 seo:
-  name: "Arigato Sushi"
-  type: Restaurant
-  links: null
-description: "Arigato Sushi serves delicious sushi in San Luis Obispo, California. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.arigatosushislo.com/
 place_id: ChIJb_uspLvx7IARTwaI7_ohIB0
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80ecf1bba4acfb6f:0x1d2021faef88064f!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 16
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 20
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 16
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 4:30 – 9:30 PM'
+    - 'Tuesday: Closed'
+    - 'Wednesday: 4:30 – 8:30 PM'
+    - 'Thursday: 4:30 – 9:30 PM'
+    - 'Friday: 11:30 AM – 2:00 PM, 4:30 – 10:00 PM'
+    - 'Saturday: 4:30 – 10:00 PM'
+    - 'Sunday: 4:30 – 9:30 PM'
+  nextOpenTime: '2025-05-03T23:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,54 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (805) 439-4408
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.4'
+rating_count: 221
+website: http://www.arigatosushislo.com/
+description: >-
+  Discover Arigato Sushi in San Luis Obispo, CA$$$Arigato Sushi in San Luis
+  Obispo, CA, provides a laid-back vibe perfect for savoring fresh sushi and
+  creative fusion options that blend traditional flavors with local twists. This
+  spot stands out for its accessible dining experience, featuring easy entry and
+  comfortable seating that welcomes everyone looking for quality
+  Japanese-inspired cuisine nearby. Patrons can enjoy a variety of dishes like
+  expertly prepared tempura and hearty miso soup, all served in a relaxed
+  environment that encourages leisurely meals. Whether you're seeking sushi
+  restaurants in the area or simply craving something light and flavorful, the
+  menu highlights fresh ingredients and thoughtful presentations that make every
+  visit memorable. With its convenient location in the heart of downtown, it's
+  an ideal choice for those exploring top-rated sushi options close to home.
+generative_summary: >-
+  Discover Arigato Sushi in San Luis Obispo, CA$$$Arigato Sushi in San Luis
+  Obispo, CA, provides a laid-back vibe perfect for savoring fresh sushi and
+  creative fusion options that blend traditional flavors with local twists. This
+  spot stands out for its accessible dining experience, featuring easy entry and
+  comfortable seating that welcomes everyone looking for quality
+  Japanese-inspired cuisine nearby. Patrons can enjoy a variety of dishes like
+  expertly prepared tempura and hearty miso soup, all served in a relaxed
+  environment that encourages leisurely meals. Whether you're seeking sushi
+  restaurants in the area or simply craving something light and flavorful, the
+  menu highlights fresh ingredients and thoughtful presentations that make every
+  visit memorable. With its convenient location in the heart of downtown, it's
+  an ideal choice for those exploring top-rated sushi options close to home.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Folks who stop by Arigato Sushi often rave about
+  the tasty dishes and friendly service, with many highlighting the fresh
+  flavors that keep them coming back for more. Based on the high ratings, it's
+  clear that the atmosphere and food quality make it a go-to spot for casual
+  dinners or quick bites of Japanese fare. While some mention occasional waits
+  during peak times, the overall consensus leans positive, praising the generous
+  portions and variety that suit different tastes. If you're on the hunt for
+  reliable sushi places nearby, this location seems to deliver solid value
+  without breaking the bank, as evidenced by the enthusiastic feedback on its
+  approachable prices. All in all, it's a welcoming option that honestly hits
+  the mark for anyone eager to try authentic yet approachable eats in a relaxed
+  setting.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +315,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

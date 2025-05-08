@@ -5,4 +5,5 @@ permalink: /north-carolina/apex/
 stateAbbr: NC
 stateName: North Carolina
 cityName: Apex
+
 ---

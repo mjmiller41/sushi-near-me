@@ -5,4 +5,5 @@ permalink: /california/glendale/
 stateAbbr: CA
 stateName: California
 cityName: Glendale
+
 ---

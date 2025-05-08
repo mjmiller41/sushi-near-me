@@ -1,15 +1,14 @@
 ---
 layout: place
-title: "Hy-Vee Market Grille"
+title: Hy-Vee Market Grille
 permalink: /minnesota/shakopee/hy-vee-market-grille.html
 stateAbbr: MN
 stateName: Minnesota
 cityName: Shakopee
 seo:
-  name: "Hy-Vee Market Grille"
-  type: Restaurant
-  links: null
-description: "Hy-Vee Market Grille serves delicious sushi in Shakopee, Minnesota. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: >-
+    https://www.hy-vee.com/pages/mealtime?utm_source=google&utm_medium=organic&utm_campaign=gmb-listing
 place_id: ChIJC-BR-IoQ9ocRM91S1V6i6Uc
 photos:
   - name: >-
@@ -170,8 +169,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x87f6108af851e00b:0x47e9a25ed552dd33!10e5
 primary_type: Bar & Grill
 opening_hours:
-  regular: null
-  current: null
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 6
+        minute: 0
+      close:
+        day: 0
+        hour: 14
+        minute: 0
+    - open:
+        day: 1
+        hour: 6
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 0
+    - open:
+        day: 2
+        hour: 6
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 6
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 6
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 6
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 6
+        hour: 6
+        minute: 0
+      close:
+        day: 6
+        hour: 14
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 6:00 AM – 2:00 PM'
+    - 'Tuesday: 6:00 AM – 2:00 PM'
+    - 'Wednesday: 6:00 AM – 2:00 PM'
+    - 'Thursday: 6:00 AM – 2:00 PM'
+    - 'Friday: 6:00 AM – 2:00 PM'
+    - 'Saturday: 6:00 AM – 2:00 PM'
+    - 'Sunday: 6:00 AM – 2:00 PM'
+  nextOpenTime: '2025-05-04T11:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +243,54 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (952) 403-1532
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.1'
+rating_count: 273
+website: >-
+  https://www.hy-vee.com/pages/mealtime?utm_source=google&utm_medium=organic&utm_campaign=gmb-listing
+description: >-
+  About Hy-Vee Market Grille in Shakopee, MN$$$Hy-Vee Market Grille in Shakopee,
+  MN, offers a welcoming spot for casual dining within a bustling grocery store
+  setting, featuring traditional American favorites and enjoyable happy hours.
+  This bar and grill stands out with its accessible features, including
+  wheelchair-friendly parking, entrances, restrooms, and seating, making it easy
+  for everyone to enjoy a relaxed meal. Patrons can savor moderately priced
+  options ranging from $10 to $20, perfect for everyday lunches or quick bites
+  in a convenient location. The spot operates daily from early morning until
+  early afternoon, providing a straightforward menu that highlights comforting
+  dishes in a laid-back atmosphere. With its integration into a larger shopping
+  experience, it's an ideal stop for those seeking reliable American cuisine
+  near everyday errands.
+generative_summary: >-
+  About Hy-Vee Market Grille in Shakopee, MN$$$Hy-Vee Market Grille in Shakopee,
+  MN, offers a welcoming spot for casual dining within a bustling grocery store
+  setting, featuring traditional American favorites and enjoyable happy hours.
+  This bar and grill stands out with its accessible features, including
+  wheelchair-friendly parking, entrances, restrooms, and seating, making it easy
+  for everyone to enjoy a relaxed meal. Patrons can savor moderately priced
+  options ranging from $10 to $20, perfect for everyday lunches or quick bites
+  in a convenient location. The spot operates daily from early morning until
+  early afternoon, providing a straightforward menu that highlights comforting
+  dishes in a laid-back atmosphere. With its integration into a larger shopping
+  experience, it's an ideal stop for those seeking reliable American cuisine
+  near everyday errands.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Sharing$$$Feedback from guests at this spot often highlights
+  the solid value and tasty American dishes, with many appreciating the friendly
+  service and cozy vibe that make it a go-to for casual meals. People frequently
+  note the happy hours as a fun addition, adding to the overall enjoyable
+  experience without any major complaints. While some mention portions could be
+  more generous, the general consensus leans positive, praising the
+  affordability and quick service that keeps things light and satisfying.
+  Overall, it's seen as a dependable choice for families or groups looking for
+  straightforward dining, earning its solid rating through consistent quality.
+  If you're in the area for a bite, this place delivers a reliably pleasant
+  outing that leaves visitors coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +316,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

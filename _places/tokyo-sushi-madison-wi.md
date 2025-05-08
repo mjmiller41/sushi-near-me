@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Tokyo Sushi"
+title: Tokyo Sushi
 permalink: /wisconsin/madison/tokyo-sushi.html
 stateAbbr: WI
 stateName: Wisconsin
 cityName: Madison
 seo:
-  name: "Tokyo Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://tokyosushimadison.com/
-description: "Tokyo Sushi serves delicious sushi in Madison, Wisconsin. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJjSx-WO9TBogRgSG4_kebsGI
 photos:
   - name: >-
@@ -184,6 +182,29 @@ price_range: $20 &ndash; $30
 rating: '4.7'
 rating_count: 0
 website: http://tokyosushimadison.com/
+description: >-
+  Discover Tokyo Sushi in Madison, WI$$$Tokyo Sushi in Madison, WI, is a casual
+  spot that delights sushi enthusiasts with its fresh Japanese offerings in a
+  bright, modern atmosphere. This welcoming restaurant features a variety of
+  dishes, from classic rolls to specialty creations, all crafted with
+  high-quality ingredients that highlight authentic flavors. Accessibility
+  features like wheelchair-friendly entrances and seating make it easy for
+  everyone to enjoy a meal, while options for outdoor dining add to the relaxed
+  vibe. For those seeking top sushi restaurants near Madison, this spot stands
+  out with its affordable prices and inviting ambiance, perfect for a satisfying
+  Japanese dining experience.
+generative_summary: >-
+  Discover Tokyo Sushi in Madison, WI$$$Tokyo Sushi in Madison, WI, is a casual
+  spot that delights sushi enthusiasts with its fresh Japanese offerings in a
+  bright, modern atmosphere. This welcoming restaurant features a variety of
+  dishes, from classic rolls to specialty creations, all crafted with
+  high-quality ingredients that highlight authentic flavors. Accessibility
+  features like wheelchair-friendly entrances and seating make it easy for
+  everyone to enjoy a meal, while options for outdoor dining add to the relaxed
+  vibe. For those seeking top sushi restaurants near Madison, this spot stands
+  out with its affordable prices and inviting ambiance, perfect for a satisfying
+  Japanese dining experience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJjSx-WO9TBogRgSG4_kebsGI/reviews/ChdDSUhNMG9nS0VJQ0FnTURRb2JYRmt3RRAB
@@ -343,6 +364,17 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUR3bXA2ZEdnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUR3bXA2ZEdnEAE!2m1!1s0x880653ef587e2c8d:0x62b09b47feb82181
+review_summary: >-
+  What Visitors Are Buzzing About$$$Folks who dine at this sushi spot often
+  highlight the super fresh fish and tasty rolls that bring bold flavors to the
+  table, making it a go-to for anyone craving quality Japanese eats. Many
+  appreciate the friendly service and reasonable prices, which make it an easy
+  choice for casual lunches or fun evenings out. While there might be a short
+  wait during peak times, the overall atmosphere feels cozy and enjoyable,
+  adding to the appeal. If you're on the hunt for the best sushi near you, this
+  place gets high marks for delivering great value and a welcoming vibe that
+  keeps people coming back.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeStreetParking: true
   valetParking: false
@@ -374,7 +406,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

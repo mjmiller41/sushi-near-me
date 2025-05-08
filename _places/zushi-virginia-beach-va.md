@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Zushi"
+title: Zushi
 permalink: /virginia/virginia-beach/zushi.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Virginia Beach
 seo:
-  name: "Zushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.zushibistro.com/
-description: "Chill Japanese eatery & sushi bar featuring eclectic rolls & drinks in lounge-like surrounds. Zushi serves delicious sushi in Virginia Beach, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJrVD46p-VuokR-tbg2aGaV2I
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: null
 rating: '4.6'
 rating_count: 0
 website: http://www.zushibistro.com/
+description: >-
+  Discover Zushi in Virginia Beach, VA$$$Zushi, located in the vibrant city of
+  Virginia Beach, VA, is a casual Japanese restaurant that delights patrons with
+  its fresh sushi, sashimi, and comforting fare, complemented by a selection of
+  sake, beer, and cocktails. The eatery boasts a lounge-like atmosphere that
+  combines modern vibes with accessibility features like wheelchair-friendly
+  entrances and seating, making it welcoming for all visitors. Diners can enjoy
+  a variety of inventive rolls and traditional dishes that highlight
+  high-quality ingredients, perfect for those seeking top-rated sushi
+  experiences nearby. With options for dine-in and takeout, it's an ideal spot
+  for both intimate meals and group gatherings, enhanced by its moderate pricing
+  and convenient parking.
+generative_summary: >-
+  Discover Zushi in Virginia Beach, VA$$$Zushi, located in the vibrant city of
+  Virginia Beach, VA, is a casual Japanese restaurant that delights patrons with
+  its fresh sushi, sashimi, and comforting fare, complemented by a selection of
+  sake, beer, and cocktails. The eatery boasts a lounge-like atmosphere that
+  combines modern vibes with accessibility features like wheelchair-friendly
+  entrances and seating, making it welcoming for all visitors. Diners can enjoy
+  a variety of inventive rolls and traditional dishes that highlight
+  high-quality ingredients, perfect for those seeking top-rated sushi
+  experiences nearby. With options for dine-in and takeout, it's an ideal spot
+  for both intimate meals and group gatherings, enhanced by its moderate pricing
+  and convenient parking.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJrVD46p-VuokR-tbg2aGaV2I/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRNU5EckhREAE
@@ -320,6 +343,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNJdVBTRHJBRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNJdVBTRHJBRRAB!2m1!1s0x89ba959feaf850ad:0x62579aa1d9e0d6fa
+review_summary: >-
+  What Customers Are Raving About$$$Visitors to this sushi spot often praise the
+  fresh and flavorful dishes, with standout mentions of creative rolls and
+  appetizers that leave you feeling satisfied and impressed. Folks frequently
+  highlight the attentive service and welcoming vibe, noting how staff go the
+  extra mile to make every meal enjoyable without any hitches. Many appreciate
+  the generous portions and quick delivery of food, which adds to the overall
+  relaxed and fun dining experience. While some enjoy pairing their meals with
+  drinks like cocktails, the general consensus is that the ambiance and variety
+  keep things lively and comfortable. Overall, it's a solid choice for anyone
+  craving quality Japanese cuisine, with feedback leaning positive on both taste
+  and hospitality.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -352,8 +388,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Chill Japanese eatery & sushi bar featuring eclectic rolls & drinks in
   lounge-like surrounds.
 

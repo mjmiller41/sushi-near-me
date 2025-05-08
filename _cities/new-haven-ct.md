@@ -5,4 +5,5 @@ permalink: /connecticut/new-haven/
 stateAbbr: CT
 stateName: Connecticut
 cityName: New Haven
+
 ---

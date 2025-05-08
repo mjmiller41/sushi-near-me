@@ -5,4 +5,5 @@ permalink: /connecticut/east-haven/
 stateAbbr: CT
 stateName: Connecticut
 cityName: East Haven
+
 ---

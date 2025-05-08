@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Poke Fish"
+title: Poke Fish
 permalink: /michigan/shelby-charter-township/poke-fish.html
 stateAbbr: MI
 stateName: Michigan
 cityName: Shelby Charter Township
 seo:
-  name: "Poke Fish"
-  type: Restaurant
-  links: null
-description: "Poke Fish serves delicious sushi in Shelby Charter Township, Michigan. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://pokefishonline.com/
 place_id: ChIJC7taD-LfJIgR3UddtAa3LS4
 photos:
   - name: >-
@@ -170,8 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8824dfe20f5abb0b:0x2e2db706b45d47dd!10e5
 primary_type: American Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:00 PM'
+    - 'Tuesday: Closed'
+    - 'Wednesday: 11:00 AM – 9:00 PM'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 9:30 PM'
+    - 'Saturday: 11:00 AM – 9:30 PM'
+    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T01:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +234,52 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
+phone: (586) 232-9908
 price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+price_range: $10 &ndash; $20
+rating: '4.6'
+rating_count: 365
+website: http://pokefishonline.com/
+description: >-
+  Discover Poke Fish in Shelby Charter Township, MI$$$Poke Fish in Shelby
+  Charter Township, MI, stands out as a casual spot for enjoying fresh poke
+  bowls and Japanese-inspired dishes that appeal to sushi enthusiasts. This
+  laid-back eatery features a variety of options like flavorful ramen, inventive
+  sushi burritos, and satisfying hibachi selections, all made with high-quality
+  ingredients. Visitors can appreciate the welcoming atmosphere and accessible
+  features, such as wheelchair-friendly entrances and seating, making it easy
+  for everyone to dine comfortably. With its focus on quick service and a menu
+  that balances taste and value, it's a go-to choice for those seeking top-rated
+  sushi options nearby. Whether you're in the mood for a light meal or something
+  more filling, this spot delivers a memorable experience that highlights its
+  commitment to fresh flavors.
+generative_summary: >-
+  Discover Poke Fish in Shelby Charter Township, MI$$$Poke Fish in Shelby
+  Charter Township, MI, stands out as a casual spot for enjoying fresh poke
+  bowls and Japanese-inspired dishes that appeal to sushi enthusiasts. This
+  laid-back eatery features a variety of options like flavorful ramen, inventive
+  sushi burritos, and satisfying hibachi selections, all made with high-quality
+  ingredients. Visitors can appreciate the welcoming atmosphere and accessible
+  features, such as wheelchair-friendly entrances and seating, making it easy
+  for everyone to dine comfortably. With its focus on quick service and a menu
+  that balances taste and value, it's a go-to choice for those seeking top-rated
+  sushi options nearby. Whether you're in the mood for a light meal or something
+  more filling, this spot delivers a memorable experience that highlights its
+  commitment to fresh flavors.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Raving About$$$Folks often praise the poke bowls at this
+  spot, like the fresh salmon and tuna varieties, for their bold flavors and
+  generous portions that make for a satisfying meal. Many highlight the tasty
+  hibachi and ramen dishes as solid complements, noting how the ingredients
+  always feel vibrant and well-prepared. Reviewers appreciate the reasonable
+  prices and efficient service, which keep things feeling approachable without
+  skimping on quality. Overall, it's clear that diners enjoy the welcoming vibe
+  and quick turnaround, making it a reliable pick for anyone craving Japanese
+  fare. While not every visit is flawless, the positive buzz around freshness
+  and value keeps the feedback upbeat and encouraging for first-timers.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +305,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

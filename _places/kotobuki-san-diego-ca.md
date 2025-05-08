@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "KOTOBUKI"
+title: KOTOBUKI
 permalink: /california/san-diego/kotobuki.html
 stateAbbr: CA
 stateName: California
 cityName: San Diego
 seo:
-  name: "KOTOBUKI"
-  type: Restaurant
-  links: null
-description: "KOTOBUKI serves delicious sushi in San Diego, California. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.kotobukisd.com/
 place_id: ChIJ60CcUtr_24ARyJNk7yor4ns
 photos:
   - name: >-
@@ -170,8 +168,97 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80dbffda529c40eb:0x7be22b2aef6493c8!10e5
 primary_type: Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: false
+  periods:
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 20
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 14
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 20
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: Closed'
+    - 'Tuesday: 11:30 AM – 2:00 PM, 5:00 – 8:00 PM'
+    - 'Wednesday: 11:30 AM – 2:00 PM, 5:00 – 8:00 PM'
+    - 'Thursday: 11:30 AM – 2:00 PM, 5:00 – 8:00 PM'
+    - 'Friday: 11:30 AM – 2:00 PM, 5:00 – 8:00 PM'
+    - 'Saturday: 11:30 AM – 2:00 PM, 5:00 – 8:00 PM'
+    - 'Sunday: Closed'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +266,50 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
+phone: (858) 737-4267
 price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+price_range: $20 &ndash; $30
+rating: '4.6'
+rating_count: 107
+website: http://www.kotobukisd.com/
+description: >-
+  Discover KOTOBUKI in San Diego, CA$$$KOTOBUKI in San Diego, CA, offers a
+  relaxed atmosphere for enjoying fresh Japanese cuisine, blending traditional
+  flavors with casual dining vibes. This spot specializes in a variety of sushi
+  options, alongside hearty bento boxes and teriyaki dishes, all paired with
+  selections of beer and sake to enhance the meal. Accessibility features like
+  wheelchair-friendly parking and entrances make it welcoming for everyone,
+  adding to its appeal in the vibrant Kearny Mesa area. Patrons can savor the
+  authentic tastes of Japanese favorites, making it a go-to choice for those
+  exploring local sushi dining experiences. With its straightforward yet
+  inviting setup, it's perfect for anyone in the mood for quality Japanese meals
+  in a neighborhood setting.
+generative_summary: >-
+  Discover KOTOBUKI in San Diego, CA$$$KOTOBUKI in San Diego, CA, offers a
+  relaxed atmosphere for enjoying fresh Japanese cuisine, blending traditional
+  flavors with casual dining vibes. This spot specializes in a variety of sushi
+  options, alongside hearty bento boxes and teriyaki dishes, all paired with
+  selections of beer and sake to enhance the meal. Accessibility features like
+  wheelchair-friendly parking and entrances make it welcoming for everyone,
+  adding to its appeal in the vibrant Kearny Mesa area. Patrons can savor the
+  authentic tastes of Japanese favorites, making it a go-to choice for those
+  exploring local sushi dining experiences. With its straightforward yet
+  inviting setup, it's perfect for anyone in the mood for quality Japanese meals
+  in a neighborhood setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this sushi spot often highlight the
+  consistently fresh and flavorful dishes that keep them coming back for more,
+  based on its strong overall ratings. Many appreciate the solid value for the
+  price, with meals that satisfy without breaking the bank, reflecting a
+  welcoming vibe for casual outings. Feedback frequently notes the attentive
+  service and cozy environment, contributing to enjoyable experiences whether
+  you're dining solo or with friends. While opinions vary slightly, the general
+  consensus leans positive, praising the reliable quality of the food and
+  drinks. Overall, it's a solid pick for anyone seeking tasty Japanese options
+  nearby, making it worth a try for a satisfying meal.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +335,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

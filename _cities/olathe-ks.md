@@ -5,4 +5,5 @@ permalink: /kansas/olathe/
 stateAbbr: KS
 stateName: Kansas
 cityName: Olathe
+
 ---

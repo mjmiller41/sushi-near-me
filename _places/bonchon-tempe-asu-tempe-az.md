@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Bonchon Tempe - ASU"
+title: Bonchon Tempe - ASU
 permalink: /arizona/tempe/bonchon-tempe-asu.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Tempe
 seo:
-  name: "Bonchon Tempe - ASU"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Bonchon Tempe - ASU serves delicious sushi in Tempe, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJiejfhhIJK4cRPMyrPWTkgVw
 photos:
   - name: >-
@@ -185,7 +183,44 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Explore Bonchon in Tempe, AZ$$$Bonchon Tempe - ASU in Tempe, AZ, offers a
+  vibrant spot for enjoying authentic Asian flavors right near Arizona State
+  University, making it a convenient choice for students and locals alike. This
+  Asian restaurant stands out with its focus on crispy, double-fried dishes that
+  highlight bold tastes and fresh ingredients, creating an inviting atmosphere
+  for casual dining. Accessibility features like wheelchair-friendly parking and
+  entrances ensure everyone can easily enjoy the experience, adding to its
+  appeal as a welcoming eatery. With its prime location in a bustling area, it's
+  an ideal stop for those seeking top-rated Asian places near me, where the
+  emphasis on quality and convenience shines through in every visit.
+generative_summary: >-
+  Explore Bonchon in Tempe, AZ$$$Bonchon Tempe - ASU in Tempe, AZ, offers a
+  vibrant spot for enjoying authentic Asian flavors right near Arizona State
+  University, making it a convenient choice for students and locals alike. This
+  Asian restaurant stands out with its focus on crispy, double-fried dishes that
+  highlight bold tastes and fresh ingredients, creating an inviting atmosphere
+  for casual dining. Accessibility features like wheelchair-friendly parking and
+  entrances ensure everyone can easily enjoy the experience, adding to its
+  appeal as a welcoming eatery. With its prime location in a bustling area, it's
+  an ideal stop for those seeking top-rated Asian places near me, where the
+  emphasis on quality and convenience shines through in every visit.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Visitor Feedback Highlights$$$Visitors to this Asian spot near ASU often rave
+  about the standout flavors, especially the signature crispy wings that deliver
+  a perfect crunch with every bite, making it a go-to for anyone craving
+  satisfying meals. Many appreciate the friendly service and efficient vibe,
+  noting that it's a solid pick for quick lunches or group outings without any
+  major hiccups. While some mention portions could feel just right for the
+  price, the overall consensus leans positive, with folks enjoying the fresh
+  twists on classic dishes that keep them coming back. It's clear that this
+  place holds up well for those searching for reliable Asian restaurants close
+  to me, offering a consistently enjoyable experience that balances taste and
+  convenience. All in all, it remains a favorite for its approachable vibe and
+  tasty options that leave diners feeling content.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +246,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sanppo Restaurant"
+title: Sanppo Restaurant
 permalink: /california/san-francisco/sanppo-restaurant.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
 seo:
-  name: "Sanppo Restaurant"
-  type: Restaurant
+  type: restaurant
   links: http://sanpposushisf.com/
-description: "Japanese eatery offering a diverse selection of sushi & custom maki rolls, plus tempura & teriyaki. Sanppo Restaurant serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJn1sm1LiAhYARosRri7ggk3w
 photos:
   - name: >-
@@ -183,6 +181,33 @@ price_range: $10 &ndash; $20
 rating: '4.1'
 rating_count: 0
 website: http://sanpposushisf.com/
+description: >-
+  Discover Sanppo Restaurant in San Francisco, CA$$$Sanppo Restaurant in San
+  Francisco, CA, stands out as a welcoming Japanese eatery nestled in the
+  vibrant Japantown neighborhood, offering a relaxed atmosphere for enjoying
+  fresh sushi and hearty bento boxes. This spot delights with a diverse array of
+  sushi options, including custom maki rolls, tempura, and teriyaki dishes, all
+  paired with selections of beer and sake to enhance the dining experience.
+  Accessibility features like wheelchair-friendly seating and restrooms make it
+  an inclusive choice for everyone seeking authentic Japanese flavors. The
+  moderate pricing adds to its appeal, providing filling meals that cater to
+  those exploring top-rated sushi restaurants nearby. Whether you're in the mood
+  for a quick bite or a leisurely meal, this location combines convenience with
+  a cozy vibe that highlights the best of Japanese cuisine.
+generative_summary: >-
+  Discover Sanppo Restaurant in San Francisco, CA$$$Sanppo Restaurant in San
+  Francisco, CA, stands out as a welcoming Japanese eatery nestled in the
+  vibrant Japantown neighborhood, offering a relaxed atmosphere for enjoying
+  fresh sushi and hearty bento boxes. This spot delights with a diverse array of
+  sushi options, including custom maki rolls, tempura, and teriyaki dishes, all
+  paired with selections of beer and sake to enhance the dining experience.
+  Accessibility features like wheelchair-friendly seating and restrooms make it
+  an inclusive choice for everyone seeking authentic Japanese flavors. The
+  moderate pricing adds to its appeal, providing filling meals that cater to
+  those exploring top-rated sushi restaurants nearby. Whether you're in the mood
+  for a quick bite or a leisurely meal, this location combines convenience with
+  a cozy vibe that highlights the best of Japanese cuisine.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJn1sm1LiAhYARosRri7ggk3w/reviews/ChZDSUhNMG9nS0VJQ0FnTURBbjh6cWNnEAE
@@ -352,6 +377,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURiazRmTE1REAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURiazRmTE1REAE!2m1!1s0x808580b8d4265b9f:0x7c9320b88b6bc4a2
+review_summary: >-
+  What Visitors Are Saying About This Sushi Spot$$$Folks rave about the generous
+  portions and variety of sushi rolls at this spot, often highlighting how
+  filling and flavorful the options are for anyone craving Japanese dishes close
+  to Japantown. Many appreciate the welcoming service and convenient location,
+  making it a go-to for groups looking for a casual meal with beer and bento
+  choices that hit the spot. While some mention that prices can feel a bit high,
+  the overall experience is seen as worthwhile, especially for rice lovers who
+  enjoy larger servings. A few note occasional inconsistencies in service or
+  food quality, but these don't overshadow the positives, keeping the vibe
+  upbeat for most diners. If you're searching for reliable sushi places near
+  you, this restaurant generally delivers a satisfying visit with its mix of
+  tasty offerings and approachable atmosphere.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidParkingLot: true
   valetParking: false
@@ -383,8 +422,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Japanese eatery offering a diverse selection of sushi & custom maki rolls,
   plus tempura & teriyaki.
 

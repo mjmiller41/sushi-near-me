@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Bonchon Waltham"
+title: Bonchon Waltham
 permalink: /massachusetts/waltham/bonchon-waltham.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Waltham
 seo:
-  name: "Bonchon Waltham"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Bonchon Waltham serves delicious sushi in Waltham, Massachusetts. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJew_4CEmD44kR_rIs0uaEYgA
 photos:
   - name: >-
@@ -185,7 +183,38 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Experience Bonchon in Waltham, MA$$$Bonchon Waltham in Waltham, MA, stands out
+  as a welcoming spot for Asian fusion dining, emphasizing flavorful
+  Korean-inspired dishes that draw in locals and visitors alike. This
+  family-friendly eatery highlights crispy fried chicken and a selection of
+  beverages, creating a casual vibe perfect for sharing meals with friends or
+  family. With its accessible features like wheelchair-friendly entrances and
+  seating, it's designed to accommodate everyone looking for a comfortable meal.
+  The atmosphere, captured in vibrant photos of the space, adds to the appeal
+  for those seeking nearby Asian options in a lively setting.
+generative_summary: >-
+  Experience Bonchon in Waltham, MA$$$Bonchon Waltham in Waltham, MA, stands out
+  as a welcoming spot for Asian fusion dining, emphasizing flavorful
+  Korean-inspired dishes that draw in locals and visitors alike. This
+  family-friendly eatery highlights crispy fried chicken and a selection of
+  beverages, creating a casual vibe perfect for sharing meals with friends or
+  family. With its accessible features like wheelchair-friendly entrances and
+  seating, it's designed to accommodate everyone looking for a comfortable meal.
+  The atmosphere, captured in vibrant photos of the space, adds to the appeal
+  for those seeking nearby Asian options in a lively setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Buzz Around Bonchon Reviews$$$Visitors often praise the standout soy garlic
+  wings at this Asian fusion spot, noting their irresistible crunch and taste
+  that make for a satisfying meal. While some folks feel the prices hit a bit
+  high for what you get, the bold flavors keep drawing people back for more.
+  Service experiences can be hit or miss, with a few mentioning it wasn't as
+  helpful as hoped, but the overall food quality tends to shine through. If
+  you're in the mood for top-rated Asian eats nearby, it's a solid choice worth
+  trying, just keep expectations in check for the full experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +240,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

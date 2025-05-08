@@ -5,4 +5,5 @@ permalink: /kentucky/erlanger/
 stateAbbr: KY
 stateName: Kentucky
 cityName: Erlanger
+
 ---

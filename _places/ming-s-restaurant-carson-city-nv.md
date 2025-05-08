@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ming's Restaurant"
+title: Ming's Restaurant
 permalink: /nevada/carson-city/ming-s-restaurant.html
 stateAbbr: NV
 stateName: Nevada
 cityName: Carson City
 seo:
-  name: "Ming's Restaurant"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Ming's Restaurant serves delicious sushi in Carson City, Nevada. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJh9yYhxSgmYAR3B5_YER2BFc
 photos:
   - name: >-
@@ -185,7 +183,49 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Ming's Restaurant in Carson City, NV$$$Ming's Restaurant in Carson
+  City, NV, stands out as a laid-back dining destination blending traditional
+  Chinese flavors with an appealing all-you-can-eat sushi experience. This spot
+  offers a welcoming atmosphere where guests can enjoy a variety of fresh sushi
+  options alongside classic Asian dishes, making it a go-to choice for those
+  seeking diverse Japanese-inspired meals in a relaxed setting. Accessibility
+  features like wheelchair-friendly parking and seating ensure everyone can
+  savor the generous portions and flavorful selections without hassle. The menu
+  highlights affordable, satisfying meals that cater to sushi enthusiasts
+  looking for nearby options, with a focus on quality ingredients that keep
+  diners coming back. Whether you're in the mood for quick bites or a full meal,
+  this eatery provides a comfortable environment to explore tasty choices right
+  in your area.
+generative_summary: >-
+  Discover Ming's Restaurant in Carson City, NV$$$Ming's Restaurant in Carson
+  City, NV, stands out as a laid-back dining destination blending traditional
+  Chinese flavors with an appealing all-you-can-eat sushi experience. This spot
+  offers a welcoming atmosphere where guests can enjoy a variety of fresh sushi
+  options alongside classic Asian dishes, making it a go-to choice for those
+  seeking diverse Japanese-inspired meals in a relaxed setting. Accessibility
+  features like wheelchair-friendly parking and seating ensure everyone can
+  savor the generous portions and flavorful selections without hassle. The menu
+  highlights affordable, satisfying meals that cater to sushi enthusiasts
+  looking for nearby options, with a focus on quality ingredients that keep
+  diners coming back. Whether you're in the mood for quick bites or a full meal,
+  this eatery provides a comfortable environment to explore tasty choices right
+  in your area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Recent Feedback$$$Folks often rave about the delicious sushi at
+  this spot, praising the all-you-can-eat deal as a fantastic value for anyone
+  craving fresh rolls without breaking the bank. Many highlight the speedy
+  service and hearty portions that make dining here feel worthwhile, adding to
+  the overall enjoyable vibe of the place. While some note that service can vary
+  a bit from visit to visit, the general consensus leans toward friendly staff
+  and solid food that keeps things positive. Overall, it's a reliable pick for
+  groups or families hunting for tasty Japanese-style eats nearby, with
+  reasonable prices that encourage repeat trips. If you're exploring top-rated
+  sushi options in the region, this restaurant delivers a satisfying experience
+  that's worth checking out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +251,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

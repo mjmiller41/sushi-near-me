@@ -5,4 +5,5 @@ permalink: /virginia/charlottesville/
 stateAbbr: VA
 stateName: Virginia
 cityName: Charlottesville
+
 ---

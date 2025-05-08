@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yuko Kitchen Miracle Mile"
+title: Yuko Kitchen Miracle Mile
 permalink: /california/los-angeles/yuko-kitchen-miracle-mile.html
 stateAbbr: CA
 stateName: California
 cityName: Los Angeles
 seo:
-  name: "Yuko Kitchen Miracle Mile"
-  type: Restaurant
+  type: restaurant
   links: http://www.yukokitchen.com/
-description: "Rice bowls & udon noodles are favorites at this arty cafe with an outdoor patio & free WiFi. Yuko Kitchen Miracle Mile serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJDd6ViR-5woAR3GM-wHwBmu4
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 0
 website: http://www.yukokitchen.com/
+description: >-
+  Experience Yuko Kitchen Miracle Mile$$$Yuko Kitchen Miracle Mile in Los
+  Angeles, CA, is a welcoming Japanese spot known for its fresh rice bowls, udon
+  noodles, and creative sushi rolls that cater to a variety of tastes in a
+  relaxed, plant-filled environment. This affordable eatery boasts an outdoor
+  patio perfect for casual meals, along with accessible features like
+  wheelchair-friendly seating and free parking, making it easy to enjoy Japanese
+  favorites without the hassle. Drawing from its laid-back vibe and thoughtful
+  menu options, it's an ideal choice for those seeking flavorful dishes that
+  balance quality and value. Whether you're in the mood for a quick lunch or a
+  leisurely dinner, the blend of hearty portions and inviting ambiance ensures a
+  satisfying visit. For anyone exploring sushi restaurants near me, this hidden
+  gem delivers authentic flavors with a modern twist.
+generative_summary: >-
+  Experience Yuko Kitchen Miracle Mile$$$Yuko Kitchen Miracle Mile in Los
+  Angeles, CA, is a welcoming Japanese spot known for its fresh rice bowls, udon
+  noodles, and creative sushi rolls that cater to a variety of tastes in a
+  relaxed, plant-filled environment. This affordable eatery boasts an outdoor
+  patio perfect for casual meals, along with accessible features like
+  wheelchair-friendly seating and free parking, making it easy to enjoy Japanese
+  favorites without the hassle. Drawing from its laid-back vibe and thoughtful
+  menu options, it's an ideal choice for those seeking flavorful dishes that
+  balance quality and value. Whether you're in the mood for a quick lunch or a
+  leisurely dinner, the blend of hearty portions and inviting ambiance ensures a
+  satisfying visit. For anyone exploring sushi restaurants near me, this hidden
+  gem delivers authentic flavors with a modern twist.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJDd6ViR-5woAR3GM-wHwBmu4/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3OTgtWUxREAE
@@ -346,6 +371,22 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURIajlxZENBEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURIajlxZENBEAE!2m1!1s0x80c2b91f8995de0d:0xee9a017cc03e63dc
+review_summary: >-
+  What Customers Love$$$Visitors to this Japanese eatery often rave about the
+  delicious, fresh flavors and generous portions that make every meal feel like
+  a treat, with standout dishes like rice bowls and sushi rolls earning high
+  praise for their quality and variety. Folks appreciate the cozy,
+  plant-surrounded atmosphere that creates a peaceful escape right in the heart
+  of the city, along with friendly service that keeps things welcoming and
+  efficient. Many highlight the reasonable prices and thoughtful options for
+  vegetarians and meat lovers alike, making it a go-to for groups or solo diners
+  looking for something satisfying. Overall, it's clear that the combination of
+  tasty drinks like mint lemonade and solid value keeps people coming back,
+  offering a positive experience that's perfect for anyone hunting for top-rated
+  sushi spots. While opinions are overwhelmingly upbeat, it's worth noting that
+  the charm lies in its unpretentious vibe, helping it stand out among local
+  Japanese places near me.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeStreetParking: true
   paidStreetParking: true
@@ -378,8 +419,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Rice bowls & udon noodles are favorites at this arty cafe with an outdoor
   patio & free WiFi.
 

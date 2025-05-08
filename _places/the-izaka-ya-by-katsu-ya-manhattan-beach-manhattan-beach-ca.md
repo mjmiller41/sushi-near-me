@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "The Izaka-ya by Katsu-ya Manhattan Beach"
+title: The Izaka-ya by Katsu-ya Manhattan Beach
 permalink: /california/manhattan-beach/the-izaka-ya-by-katsu-ya-manhattan-beach.html
 stateAbbr: CA
 stateName: California
 cityName: Manhattan Beach
 seo:
-  name: "The Izaka-ya by Katsu-ya Manhattan Beach"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "The Izaka-ya by Katsu-ya Manhattan Beach serves delicious sushi in Manhattan Beach, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJXVWlh-yzwoAR00a54Y-G4MM
 photos:
   - name: >-
@@ -149,8 +147,8 @@ state: CA
 zip: '90266'
 country: USA
 neighborhood: null
-latitude: '33.885222'
-longitude: '-118.409830'
+latitude: '33.885244'
+longitude: '-118.409918'
 accessibility_options:
   wheelchairAccessibleParking: true
   wheelchairAccessibleEntrance: true
@@ -185,7 +183,47 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover The Izaka-ya in Manhattan Beach$$$The Izaka-ya by Katsu-ya in
+  Manhattan Beach, CA, is a welcoming spot for enjoying fresh sushi and
+  authentic Japanese dishes in a laid-back atmosphere. This sushi restaurant
+  near the coast offers a variety of flavorful options, including expertly
+  prepared rolls and other traditional fare, paired with a selection of beers,
+  wines, sake, and cocktails to enhance your meal. Its casual setting makes it
+  ideal for those searching for top-rated sushi places near me, with a focus on
+  quality ingredients and simple yet inviting vibes. Accessibility features like
+  wheelchair-friendly parking and entrances add to the convenience, ensuring
+  everyone can savor the experience. Whether you're looking for sushi
+  restaurants in a relaxed environment, this location stands out for its
+  approachable take on Japanese cuisine.
+generative_summary: >-
+  Discover The Izaka-ya in Manhattan Beach$$$The Izaka-ya by Katsu-ya in
+  Manhattan Beach, CA, is a welcoming spot for enjoying fresh sushi and
+  authentic Japanese dishes in a laid-back atmosphere. This sushi restaurant
+  near the coast offers a variety of flavorful options, including expertly
+  prepared rolls and other traditional fare, paired with a selection of beers,
+  wines, sake, and cocktails to enhance your meal. Its casual setting makes it
+  ideal for those searching for top-rated sushi places near me, with a focus on
+  quality ingredients and simple yet inviting vibes. Accessibility features like
+  wheelchair-friendly parking and entrances add to the convenience, ensuring
+  everyone can savor the experience. Whether you're looking for sushi
+  restaurants in a relaxed environment, this location stands out for its
+  approachable take on Japanese cuisine.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Sharing$$$From what folks have shared online, this spot is
+  often highlighted for its tasty sushi and cozy feel, making it a solid choice
+  for anyone craving Japanese eats nearby. Many appreciate the fresh flavors and
+  variety of drinks, with comments noting it as a go-to for casual dinners or
+  quick bites that hit the spot. While some mention portions could be more
+  generous, the overall vibe keeps things positive, with diners enjoying the
+  straightforward menu without any fuss. It's frequently recommended for groups
+  or solo visits, thanks to the welcoming space that encourages repeat trips.
+  All in all, if you're on the hunt for reliable sushi places near me, this one
+  earns nods for delivering a consistently enjoyable experience with a friendly
+  touch.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +249,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Teriyaki House"
+title: Teriyaki House
 permalink: /massachusetts/boston/teriyaki-house.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Boston
 seo:
-  name: "Teriyaki House"
-  type: Restaurant
+  type: restaurant
   links: http://www.teriyakihouse.info/
-description: "Teriyaki House serves delicious sushi in Boston, Massachusetts. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJa4NAAER744kR_N-8rev0cf0
 photos:
   - name: >-
@@ -181,6 +179,31 @@ price_range: $10 &ndash; $20
 rating: '3.1'
 rating_count: 0
 website: http://www.teriyakihouse.info/
+description: >-
+  Discover Teriyaki House in Boston, MA$$$Teriyaki House in Boston, MA, stands
+  out as a laid-back eatery serving up a blend of classic Chinese and Japanese
+  dishes that appeal to those seeking simple, satisfying meals. This spot
+  specializes in flavorful teriyaki bowls and fresh sushi options, making it a
+  convenient choice for anyone exploring nearby dining scenes. With its focus on
+  takeout and delivery, it caters to busy diners looking for moderately priced
+  fare without the fuss. The menu highlights a variety of Asian-inspired
+  favorites, ensuring there's something for everyone, from quick bites to hearty
+  portions. For those searching for sushi restaurants in the area, Teriyaki
+  House delivers a reliable mix of tastes that capture the essence of Japanese
+  cuisine right in the heart of the city.
+generative_summary: >-
+  Discover Teriyaki House in Boston, MA$$$Teriyaki House in Boston, MA, stands
+  out as a laid-back eatery serving up a blend of classic Chinese and Japanese
+  dishes that appeal to those seeking simple, satisfying meals. This spot
+  specializes in flavorful teriyaki bowls and fresh sushi options, making it a
+  convenient choice for anyone exploring nearby dining scenes. With its focus on
+  takeout and delivery, it caters to busy diners looking for moderately priced
+  fare without the fuss. The menu highlights a variety of Asian-inspired
+  favorites, ensuring there's something for everyone, from quick bites to hearty
+  portions. For those searching for sushi restaurants in the area, Teriyaki
+  House delivers a reliable mix of tastes that capture the essence of Japanese
+  cuisine right in the heart of the city.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJa4NAAER744kR_N-8rev0cf0/reviews/ChZDSUhNMG9nS0VJQ0FnTURRenFib0x3EAE
@@ -368,6 +391,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURaNVkycmxBRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURaNVkycmxBRRAB!2m1!1s0x89e37b440040836b:0xfd71f4ebadbcdffc
+review_summary: >-
+  What Customers Are Saying About the Food$$$Folks often rave about the tasty
+  appetizers like crab rangoon and scallion pancakes, which come out crispy and
+  full of flavor, making them a hit for casual takeout orders. Many appreciate
+  the reasonable prices and quick service, especially when grabbing
+  Japanese-inspired dishes that feel fresh and satisfying for a light meal on
+  the go. While some experiences highlight minor issues like occasional order
+  mix-ups, the overall vibe leans positive with praise for the variety of
+  options that keep things affordable and accessible. It's a solid pick for
+  anyone hunting for sushi places nearby, as the portions generally deliver good
+  value without skimping on taste. All in all, if you're in the mood for
+  straightforward Asian fare, this spot offers enjoyable moments with a few
+  areas that could use a bit more polish for an even better experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeStreetParking: true
   valetParking: false
@@ -399,7 +436,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

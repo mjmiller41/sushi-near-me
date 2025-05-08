@@ -5,4 +5,5 @@ permalink: /michigan/brighton/
 stateAbbr: MI
 stateName: Michigan
 cityName: Brighton
+
 ---

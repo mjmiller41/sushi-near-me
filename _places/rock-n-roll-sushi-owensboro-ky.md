@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Rock N Roll Sushi"
+title: Rock N Roll Sushi
 permalink: /kentucky/owensboro/rock-n-roll-sushi.html
 stateAbbr: KY
 stateName: Kentucky
 cityName: Owensboro
 seo:
-  name: "Rock N Roll Sushi"
-  type: Restaurant
-  links: null
-description: "Rock N Roll Sushi serves delicious sushi in Owensboro, Kentucky. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://rocknrollsushi.com/locations/owensboro-ky/
 place_id: ChIJayWeqaS7b4gREpevJCZUe5w
 photos:
   - name: >-
@@ -169,8 +167,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x886fbba4a99e256b:0x9c7b542624af9712!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 9:00 PM'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 10:00 PM'
+    - 'Saturday: 11:00 AM – 10:00 PM'
+    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -178,13 +241,50 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
+phone: (270) 478-1019
 price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+price_range: $10 &ndash; $20
+rating: '4.1'
+rating_count: 158
+website: https://rocknrollsushi.com/locations/owensboro-ky/
+description: >-
+  Discover Rock N Roll Sushi in Owensboro, KY$$$Rock N Roll Sushi in Owensboro,
+  KY, is a vibrant sushi restaurant that combines fresh, creative rolls with a
+  lively atmosphere inspired by rock culture. This spot offers a menu of
+  inventive dishes, including flavorful appetizers and signature rolls that
+  cater to those craving authentic Japanese-inspired cuisine. With convenient
+  hours from 11 AM daily and full accessibility features like
+  wheelchair-friendly parking and seating, it makes for an inclusive dining
+  experience. The fun decor and upbeat vibe add an extra layer of enjoyment,
+  perfect for anyone exploring sushi options in the area. Whether you're seeking
+  a casual meal or a standout spot for groups, this restaurant delivers quality
+  and excitement for sushi lovers nearby.
+generative_summary: >-
+  Discover Rock N Roll Sushi in Owensboro, KY$$$Rock N Roll Sushi in Owensboro,
+  KY, is a vibrant sushi restaurant that combines fresh, creative rolls with a
+  lively atmosphere inspired by rock culture. This spot offers a menu of
+  inventive dishes, including flavorful appetizers and signature rolls that
+  cater to those craving authentic Japanese-inspired cuisine. With convenient
+  hours from 11 AM daily and full accessibility features like
+  wheelchair-friendly parking and seating, it makes for an inclusive dining
+  experience. The fun decor and upbeat vibe add an extra layer of enjoyment,
+  perfect for anyone exploring sushi options in the area. Whether you're seeking
+  a casual meal or a standout spot for groups, this restaurant delivers quality
+  and excitement for sushi lovers nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying About This Sushi Spot$$$Folks heading to this sushi
+  restaurant often highlight the delicious, fresh rolls that bring bold flavors
+  to the table, making it a solid pick for anyone in the mood for quality
+  Japanese eats. Many enjoy the friendly service and the energetic setting with
+  fun music and decor that keeps things lively and engaging. Appetizers like the
+  tasty poppers and rolls get plenty of praise for their spot-on taste and
+  variety, adding to the overall appeal. While some mention occasional waits for
+  food, the welcoming vibe and great flavors make it a worthwhile stop for a
+  satisfying meal. If you're on the hunt for top sushi near you, this place
+  stands out as a reliable choice that keeps customers coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +310,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

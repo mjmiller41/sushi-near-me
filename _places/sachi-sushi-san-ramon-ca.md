@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sachi Sushi"
+title: Sachi Sushi
 permalink: /california/san-ramon/sachi-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: San Ramon
 seo:
-  name: "Sachi Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sachi Sushi serves delicious sushi in San Ramon, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJXc-7NIDyj4ARhC2QYKXYq04
 photos:
   - name: >-
@@ -185,7 +183,44 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Sachi Sushi in San Ramon, CA$$$Sachi Sushi in San Ramon, CA, provides
+  a relaxed spot for enjoying fresh Japanese cuisine right in the heart of the
+  Marketplace Shopping Center. This sushi restaurant stands out with its
+  selection of flavorful rolls, teriyaki dishes, and traditional options,
+  complemented by a variety of beer and sake to enhance the meal. Accessibility
+  features like wheelchair-friendly parking and entrances make it welcoming for
+  all visitors seeking a comfortable dining experience. Whether you're in the
+  mood for a quick bite or a leisurely dinner, the menu highlights the best of
+  Japanese flavors in a casual setting. For those exploring sushi restaurants
+  nearby, it's an ideal choice that combines quality ingredients with a
+  convenient location.
+generative_summary: >-
+  Discover Sachi Sushi in San Ramon, CA$$$Sachi Sushi in San Ramon, CA, provides
+  a relaxed spot for enjoying fresh Japanese cuisine right in the heart of the
+  Marketplace Shopping Center. This sushi restaurant stands out with its
+  selection of flavorful rolls, teriyaki dishes, and traditional options,
+  complemented by a variety of beer and sake to enhance the meal. Accessibility
+  features like wheelchair-friendly parking and entrances make it welcoming for
+  all visitors seeking a comfortable dining experience. Whether you're in the
+  mood for a quick bite or a leisurely dinner, the menu highlights the best of
+  Japanese flavors in a casual setting. For those exploring sushi restaurants
+  nearby, it's an ideal choice that combines quality ingredients with a
+  convenient location.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Visitor Experiences$$$At places like this sushi spot, folks
+  often highlight the fresh and tasty seafood options that keep diners coming
+  back for more. Many appreciate the range of dishes, from classic rolls to
+  teriyaki favorites, making it a solid pick for anyone craving Japanese flavors
+  on the go. The laid-back vibe gets positive nods for being perfect for casual
+  meetups or solo meals, adding to its appeal as a go-to option in the area.
+  While specific feedback varies, it's generally seen as a reliable choice for
+  those searching for top-rated sushi nearby, with honest praise for the overall
+  value and atmosphere. If you're on the hunt for sushi places near me, this one
+  tends to deliver a satisfying experience without any major drawbacks.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +246,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

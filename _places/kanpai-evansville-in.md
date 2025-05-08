@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kanpai"
+title: Kanpai
 permalink: /indiana/evansville/kanpai.html
 stateAbbr: IN
 stateName: Indiana
 cityName: Evansville
 seo:
-  name: "Kanpai"
-  type: Restaurant
-  links: null
-description: "Kanpai serves delicious sushi in Evansville, Indiana. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://mykanpai.com/
 place_id: ChIJIQzbVS8rbogRXCPqJP9tu2w
 photos:
   - name: >-
@@ -170,8 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x886e2b2f55db0c21:0x6cbb6dff24ea235c!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 9:00 PM'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 9:00 PM'
+    - 'Saturday: 12:00 – 9:00 PM'
+    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +234,49 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (812) 471-7076
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.3'
+rating_count: 765
+website: https://mykanpai.com/
+description: >-
+  Discover Kanpai in Evansville, IN$$$Kanpai in Evansville, IN, is a welcoming
+  Japanese restaurant that specializes in fresh sushi and a range of
+  Asian-inspired dishes, making it a standout choice for those seeking flavorful
+  options in a casual setting. The spot features a relaxed atmosphere paired
+  with a full bar, ideal for unwinding over meals like pho and creative rolls
+  that highlight quality ingredients. Accessibility options such as
+  wheelchair-friendly parking and entrances add to its appeal, ensuring everyone
+  can enjoy the experience comfortably. If you're exploring sushi restaurants in
+  the area, Kanpai offers a convenient location and diverse menu that caters to
+  various tastes, perfect for a satisfying meal when you're in the mood for
+  something light and authentic.
+generative_summary: >-
+  Discover Kanpai in Evansville, IN$$$Kanpai in Evansville, IN, is a welcoming
+  Japanese restaurant that specializes in fresh sushi and a range of
+  Asian-inspired dishes, making it a standout choice for those seeking flavorful
+  options in a casual setting. The spot features a relaxed atmosphere paired
+  with a full bar, ideal for unwinding over meals like pho and creative rolls
+  that highlight quality ingredients. Accessibility options such as
+  wheelchair-friendly parking and entrances add to its appeal, ensuring everyone
+  can enjoy the experience comfortably. If you're exploring sushi restaurants in
+  the area, Kanpai offers a convenient location and diverse menu that caters to
+  various tastes, perfect for a satisfying meal when you're in the mood for
+  something light and authentic.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$With an impressive 4.3-star rating from hundreds of
+  feedback, Kanpai comes across as a reliable favorite for enjoying fresh sushi
+  and other Asian dishes in a laid-back vibe. People often highlight the tasty
+  flavors and solid variety, making it a go-to spot for casual dining without
+  any major letdowns. It's frequently noted for friendly service that enhances
+  the overall experience, helping it stand out among local options when
+  searching for top-rated sushi nearby. While not every visit is flawless, the
+  general consensus leans positive, suggesting it's worth trying if you're in
+  the market for quality eats that deliver on taste and atmosphere.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +302,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

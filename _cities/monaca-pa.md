@@ -5,4 +5,5 @@ permalink: /pennsylvania/monaca/
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Monaca
+
 ---

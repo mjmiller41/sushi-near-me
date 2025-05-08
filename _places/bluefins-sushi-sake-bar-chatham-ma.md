@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Bluefins Sushi & Sake Bar"
+title: Bluefins Sushi & Sake Bar
 permalink: /massachusetts/chatham/bluefins-sushi-sake-bar.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Chatham
 seo:
-  name: "Bluefins Sushi & Sake Bar"
-  type: Restaurant
+  type: restaurant
   links: http://bluefinschatham.com/
-description: "Creative Japanese seafood plus Thai & Korean dishes presented in sophisticated surrounds. Bluefins Sushi & Sake Bar serves delicious sushi in Chatham, Massachusetts. Try fresh Japanese dishes for a great dining experience. Available for takeout, and dinner."
 place_id: ChIJUUkeop8U-4kRb2AiO7P0aqU
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $50 &ndash; $100
 rating: '4.5'
 rating_count: 0
 website: http://bluefinschatham.com/
+description: >-
+  Discover Bluefins Sushi in Chatham, MA$$$Bluefins Sushi & Sake Bar in Chatham,
+  MA, stands out as a vibrant spot for fresh Japanese cuisine, blending trendy
+  flavors with creative seafood dishes that appeal to sushi enthusiasts. This
+  inviting restaurant offers a selection of spicy rolls, sake, and craft
+  cocktails, set in a sophisticated atmosphere that enhances the dining
+  experience for those seeking quality Japanese eats. With its accessible
+  features and thoughtful design, it's an excellent choice for anyone exploring
+  top-rated sushi options in the area, making it a go-to for locals and visitors
+  alike. The menu highlights a mix of innovative rolls and other Asian-inspired
+  fare, ensuring a memorable meal that pairs well with drinks in a lively
+  setting.
+generative_summary: >-
+  Discover Bluefins Sushi in Chatham, MA$$$Bluefins Sushi & Sake Bar in Chatham,
+  MA, stands out as a vibrant spot for fresh Japanese cuisine, blending trendy
+  flavors with creative seafood dishes that appeal to sushi enthusiasts. This
+  inviting restaurant offers a selection of spicy rolls, sake, and craft
+  cocktails, set in a sophisticated atmosphere that enhances the dining
+  experience for those seeking quality Japanese eats. With its accessible
+  features and thoughtful design, it's an excellent choice for anyone exploring
+  top-rated sushi options in the area, making it a go-to for locals and visitors
+  alike. The menu highlights a mix of innovative rolls and other Asian-inspired
+  fare, ensuring a memorable meal that pairs well with drinks in a lively
+  setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJUUkeop8U-4kRb2AiO7P0aqU/reviews/ChZDSUhNMG9nS0VJQ0FnSURmeHJqNUpnEAE
@@ -360,6 +383,21 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURPdm9yYzZ3RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURPdm9yYzZ3RRAB!2m1!1s0x89fb149fa21e4951:0xa56af4b33b22606f
+review_summary: >-
+  Customer Feedback Highlights$$$Visitors often rave about the fresh and
+  flavorful sushi at this popular spot, with many highlighting creative rolls
+  that make it a standout choice among sushi restaurants near Chatham. Folks
+  appreciate the consistently excellent service and welcoming vibe, which add to
+  the overall enjoyment of the meals and drinks on offer. While most experiences
+  are positive, some mention occasional issues with timing policies that could
+  affect longer stays, but these don't overshadow the general praise for the
+  food's quality and variety. Overall, it's a solid pick for anyone searching
+  for the best sushi around, with the lively atmosphere and attentive staff
+  keeping things enjoyable for groups or casual diners. If you're in the mood
+  for top-rated Japanese places nearby, this one delivers a reliably good
+  experience with highlights like tasty burgers and drinks for non-sushi fans
+  too.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -391,8 +429,8 @@ serves_lunch: null
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Creative Japanese seafood plus Thai & Korean dishes presented in sophisticated
   surrounds.
 

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Fuji Revolving Sushi Bar"
+title: Fuji Revolving Sushi Bar
 permalink: /california/los-alamitos/fuji-revolving-sushi-bar.html
 stateAbbr: CA
 stateName: California
 cityName: Los Alamitos
 seo:
-  name: "Fuji Revolving Sushi Bar"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Fuji Revolving Sushi Bar serves delicious sushi in Los Alamitos, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJQ5EmQ8Iu3YARrLRkgI2U86c
 photos:
   - name: >-
@@ -185,7 +183,48 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Fuji Revolving Sushi Bar in Los Alamitos, CA$$$Fuji Revolving Sushi
+  Bar in Los Alamitos, CA, brings a fresh twist to Japanese dining with its
+  innovative conveyor belt system that delivers an array of sushi options right
+  to your table. This casual eatery emphasizes high-quality ingredients,
+  featuring a selection of traditional rolls and creative dishes that highlight
+  the best of Japanese flavors. The setup creates an engaging, interactive
+  experience, making it easy to sample a variety of fresh seafood and vegetarian
+  choices in a relaxed environment. Accessibility features like
+  wheelchair-friendly entrances and seating add to the convenience, ensuring
+  everyone can enjoy the vibrant atmosphere. For those searching for top-rated
+  sushi spots nearby, this location stands out as a go-to destination for
+  authentic and enjoyable meals.
+generative_summary: >-
+  Discover Fuji Revolving Sushi Bar in Los Alamitos, CA$$$Fuji Revolving Sushi
+  Bar in Los Alamitos, CA, brings a fresh twist to Japanese dining with its
+  innovative conveyor belt system that delivers an array of sushi options right
+  to your table. This casual eatery emphasizes high-quality ingredients,
+  featuring a selection of traditional rolls and creative dishes that highlight
+  the best of Japanese flavors. The setup creates an engaging, interactive
+  experience, making it easy to sample a variety of fresh seafood and vegetarian
+  choices in a relaxed environment. Accessibility features like
+  wheelchair-friendly entrances and seating add to the convenience, ensuring
+  everyone can enjoy the vibrant atmosphere. For those searching for top-rated
+  sushi spots nearby, this location stands out as a go-to destination for
+  authentic and enjoyable meals.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying About Fuji Revolving Sushi Bar$$$Although specific
+  reviews aren't available for this spot, revolving sushi bars like this one
+  often get high marks for their fun, hands-on approach to dining that keeps
+  things light and entertaining. Many folks appreciate the wide range of fresh
+  sushi options that let you pick and choose without the wait, making it a hit
+  for casual outings or quick bites. The casual vibe seems to draw in families
+  and groups looking for an easygoing meal with plenty of variety, and it's
+  frequently noted as a solid pick for anyone craving Japanese flavors close by.
+  Overall, it comes across as a welcoming place that delivers on freshness and
+  fun, even if it's still building its reputation. If you're on the hunt for
+  great sushi restaurants in the area, this could be a worthwhile stop based on
+  the general buzz around similar spots.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +250,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

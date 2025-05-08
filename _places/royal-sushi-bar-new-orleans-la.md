@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Royal Sushi & Bar"
+title: Royal Sushi & Bar
 permalink: /louisiana/new-orleans/royal-sushi-bar.html
 stateAbbr: LA
 stateName: Louisiana
 cityName: New Orleans
 seo:
-  name: "Royal Sushi & Bar"
-  type: Restaurant
+  type: restaurant
   links: http://www.royalsushinola.com/
-description: "Royal Sushi & Bar serves delicious sushi in New Orleans, Louisiana. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJExCguxmmIIYR7r_EsdB-wnc
 photos:
   - name: >-
@@ -168,7 +166,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8620a619bba01013:0x77c27ed0b1c4bfee!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 12
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 12
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 12
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 12
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 12
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 12:00 – 9:30 PM'
     - 'Tuesday: 12:00 – 9:30 PM'
     - 'Wednesday: 12:00 – 9:30 PM'
@@ -176,14 +232,7 @@ opening_hours:
     - 'Friday: 12:00 – 10:30 PM'
     - 'Saturday: 12:00 – 10:30 PM'
     - 'Sunday: 12:00 – 9:30 PM'
-  current:
-    - 'Monday: 12:00 – 9:30 PM'
-    - 'Tuesday: 12:00 – 9:30 PM'
-    - 'Wednesday: 12:00 – 9:30 PM'
-    - 'Thursday: 12:00 – 9:30 PM'
-    - 'Friday: 12:00 – 10:30 PM'
-    - 'Saturday: 12:00 – 10:30 PM'
-    - 'Sunday: 12:00 – 9:30 PM'
+  nextCloseTime: '2025-05-04T03:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -195,35 +244,245 @@ phone: (504) 827-1900
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.6'
-rating_count: 0
+rating_count: 903
 website: http://www.royalsushinola.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Royal Sushi & Bar in New Orleans, LA$$$Nestled in the vibrant city of
+  New Orleans, LA, Royal Sushi & Bar offers a welcoming spot for those craving
+  authentic Japanese flavors in a relaxed setting. This casual eatery features
+  an array of creative sushi rolls and classic dishes, perfectly paired with a
+  selection of beers, wines, and cocktails that enhance the dining experience.
+  With its moderate price range and focus on fresh ingredients, it's an ideal
+  choice for anyone searching for top-rated sushi restaurants that deliver both
+  quality and value. The restaurant's accessibility features, like
+  wheelchair-friendly seating, make it easy for everyone to enjoy a meal, while
+  its neighborhood location adds to the charm of exploring sushi places near
+  you.
+generative_summary: >-
+  Discover Royal Sushi & Bar in New Orleans, LA$$$Nestled in the vibrant city of
+  New Orleans, LA, Royal Sushi & Bar offers a welcoming spot for those craving
+  authentic Japanese flavors in a relaxed setting. This casual eatery features
+  an array of creative sushi rolls and classic dishes, perfectly paired with a
+  selection of beers, wines, and cocktails that enhance the dining experience.
+  With its moderate price range and focus on fresh ingredients, it's an ideal
+  choice for anyone searching for top-rated sushi restaurants that deliver both
+  quality and value. The restaurant's accessibility features, like
+  wheelchair-friendly seating, make it easy for everyone to enjoy a meal, while
+  its neighborhood location adds to the charm of exploring sushi places near
+  you.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJExCguxmmIIYR7r_EsdB-wnc/reviews/ChZDSUhNMG9nS0VJQ0FnTURvak9PTVhnEAE
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        This sushi restaurant has been on my list forever.  I always pass it
+        headed to/fro Frenchman at off times of the night.  Could not pass up
+        birthday dinner invite.  They mackerel so I was happy.  They tried and
+        enjoyed my salmon skin, gave them ideas of what to do with leftovers at
+        home.  The twister roll was good as well.  The miso soup was decent,
+        didn't try the hello kitty, but it was the table's favorite.  California
+        and spicy tuna were good, and most of us liked the spicy tonkatsu
+        ramen.  I tried to not go crazy, we ordered for the table.  The mackerel
+        was up to par, so I was satisfied.  The ramen was a surprise, I'd order
+        that for myself.  I'll have to make more of an effort to return.
+      languageCode: en
+    originalText:
+      text: >-
+        This sushi restaurant has been on my list forever.  I always pass it
+        headed to/fro Frenchman at off times of the night.  Could not pass up
+        birthday dinner invite.  They mackerel so I was happy.  They tried and
+        enjoyed my salmon skin, gave them ideas of what to do with leftovers at
+        home.  The twister roll was good as well.  The miso soup was decent,
+        didn't try the hello kitty, but it was the table's favorite.  California
+        and spicy tuna were good, and most of us liked the spicy tonkatsu
+        ramen.  I tried to not go crazy, we ordered for the table.  The mackerel
+        was up to par, so I was satisfied.  The ramen was a surprise, I'd order
+        that for myself.  I'll have to make more of an effort to return.
+      languageCode: en
+    authorAttribution:
+      displayName: Malcolm Earhart
+      uri: https://www.google.com/maps/contrib/115948839104902539592/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWu1E7DN1vC4_EAd_e_Co3J467r1OcVPWThYPbhAZHKDikUBwgA=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2025-04-22T12:20:48.721269Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURvak9PTVhnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURvak9PTVhnEAE!2m1!1s0x8620a619bba01013:0x77c27ed0b1c4bfee
+  - name: >-
+      places/ChIJExCguxmmIIYR7r_EsdB-wnc/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3dVlUSU1nEAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        This restaurant was hands down the highlight of my trip and the perfect
+        spot for a memorable date night. Every dish exceeded expectations, but
+        the spicy edamame was by far my favorite. The flavor was the perfect
+        balance of spicy and garlicky, simply outstanding. The service was
+        exceptional, showing a genuine care for their customers and a dedication
+        to perfecting every dish. The fish was incredibly fresh and delicious,
+        and I loved that they offered ponzu sauce, which is my absolute
+        favorite. The martini was perfectly crafted, with amazing flavor, and
+        the yellowtail jalapeño was both beautiful and packed with flavor. Every
+        single dish was divine, and I will definitely be returning just for the
+        spicy edamame. 10/10 – an unforgettable dinner experience!
+      languageCode: en
+    originalText:
+      text: >-
+        This restaurant was hands down the highlight of my trip and the perfect
+        spot for a memorable date night. Every dish exceeded expectations, but
+        the spicy edamame was by far my favorite. The flavor was the perfect
+        balance of spicy and garlicky, simply outstanding. The service was
+        exceptional, showing a genuine care for their customers and a dedication
+        to perfecting every dish. The fish was incredibly fresh and delicious,
+        and I loved that they offered ponzu sauce, which is my absolute
+        favorite. The martini was perfectly crafted, with amazing flavor, and
+        the yellowtail jalapeño was both beautiful and packed with flavor. Every
+        single dish was divine, and I will definitely be returning just for the
+        spicy edamame. 10/10 – an unforgettable dinner experience!
+      languageCode: en
+    authorAttribution:
+      displayName: Makayla R
+      uri: https://www.google.com/maps/contrib/116277024909050429437/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVOrzhVPw1wSzFOB3Z3_gkCnimaFgxYppww5lRjdwgL-Bu9aBs2=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-03-26T23:59:03.921933Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUR3dVlUSU1nEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUR3dVlUSU1nEAE!2m1!1s0x8620a619bba01013:0x77c27ed0b1c4bfee
+  - name: >-
+      places/ChIJExCguxmmIIYR7r_EsdB-wnc/reviews/ChZDSUhNMG9nS0VJQ0FnSUN2d00yMlZnEAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        low key, friendly, delicious.  im not a big sushi person & i cleaned my
+        plate. everything was so fresh & the flavors were perfectly balanced.
+        Royal Sushi is on my list of places to always go when Im in New Orleans.
+      languageCode: en
+    originalText:
+      text: >-
+        low key, friendly, delicious.  im not a big sushi person & i cleaned my
+        plate. everything was so fresh & the flavors were perfectly balanced.
+        Royal Sushi is on my list of places to always go when Im in New Orleans.
+      languageCode: en
+    authorAttribution:
+      displayName: amber young
+      uri: https://www.google.com/maps/contrib/104615845524338878538/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWrxEerOiaDA5LqzKQePS8Yje_ZZHf1E_pF_ZnFcwfa5A1eNfw=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-01-14T04:01:16.146960Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN2d00yMlZnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN2d00yMlZnEAE!2m1!1s0x8620a619bba01013:0x77c27ed0b1c4bfee
+  - name: >-
+      places/ChIJExCguxmmIIYR7r_EsdB-wnc/reviews/ChZDSUhNMG9nS0VJQ0FnTURncU5xUUN3EAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        Low key sushi spot! Service , drinks , food … everything is great here. 
+        This location is in an actual neighborhood that also has a variety of
+        bars with live jazz music and on the weekends they tend to have pop up
+        shops too. Parking is tight but other than that this place is
+        recommended
+      languageCode: en
+    originalText:
+      text: >-
+        Low key sushi spot! Service , drinks , food … everything is great here. 
+        This location is in an actual neighborhood that also has a variety of
+        bars with live jazz music and on the weekends they tend to have pop up
+        shops too. Parking is tight but other than that this place is
+        recommended
+      languageCode: en
+    authorAttribution:
+      displayName: Silvia Cerritos
+      uri: https://www.google.com/maps/contrib/116545290702842297032/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXqZT8vReWcZDH2TNJqBMRzE6XFQoJ03Wu0hOpXd4a5oWpAL7Lv=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-02-22T07:18:46.088953Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURncU5xUUN3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURncU5xUUN3EAE!2m1!1s0x8620a619bba01013:0x77c27ed0b1c4bfee
+  - name: >-
+      places/ChIJExCguxmmIIYR7r_EsdB-wnc/reviews/ChdDSUhNMG9nS0VJQ0FnSURQeXFUN29RRRAB
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        Finally checked this place out after a year of living here. Bonny the
+        bartender was awesome, friendly, and the food was great. I was in the
+        mood for ramen, and they did not disappoint!
+      languageCode: en
+    originalText:
+      text: >-
+        Finally checked this place out after a year of living here. Bonny the
+        bartender was awesome, friendly, and the food was great. I was in the
+        mood for ramen, and they did not disappoint!
+      languageCode: en
+    authorAttribution:
+      displayName: Steve Friedlander
+      uri: https://www.google.com/maps/contrib/108836244063819780074/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWGi3sV3nXlnpq3x_X2nbhWPKO7I8WJiCxbW1kxtvPtyeTJi9lQpQ=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2024-12-01T00:44:15.413638Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURQeXFUN29RRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURQeXFUN29RRRAB!2m1!1s0x8620a619bba01013:0x77c27ed0b1c4bfee
+review_summary: >-
+  What Customers Love About This Sushi Spot$$$Visitors often rave about the
+  fresh and flavorful sushi options, with many highlighting the balanced tastes
+  and generous portions that make every bite satisfying. The laid-back
+  atmosphere and friendly service create a comfortable vibe, perfect for casual
+  dinners or groups looking to unwind after a day of exploring. Ramen dishes
+  stand out as a surprising favorite, praised for their hearty add-ins and
+  spot-on spices that complement the menu's highlights. Overall, folks
+  appreciate the solid value and variety, making it a go-to for anyone seeking
+  the best sushi near me in a welcoming environment. If you're in the mood for
+  reliable Japanese eats, this spot consistently delivers a positive experience
+  without any major drawbacks.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+curbside_pickup: true
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Easygoing, red-hued Japanese restaurant offering classic fare, hibachi rice &
+  creative sushi rolls.
 
 ---

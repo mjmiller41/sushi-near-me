@@ -5,4 +5,5 @@ permalink: /massachusetts/somerville/
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Somerville
+
 ---

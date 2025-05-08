@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Buffet King"
+title: Buffet King
 permalink: /texas/denton/buffet-king.html
 stateAbbr: TX
 stateName: Texas
 cityName: Denton
 seo:
-  name: "Buffet King"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Buffet King serves delicious sushi in Denton, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ5b47UybLTYYR6kkB36HLs7I
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x864dcb26533bbee5:0xb2b3cba1df0149ea!10e5
 primary_type: Buffet Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:30 PM'
+    - 'Tuesday: 11:00 AM – 9:30 PM'
+    - 'Wednesday: 11:00 AM – 9:30 PM'
+    - 'Thursday: 11:00 AM – 9:30 PM'
+    - 'Friday: 11:00 AM – 10:00 PM'
+    - 'Saturday: 11:00 AM – 10:00 PM'
+    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,51 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
+phone: (940) 387-0888
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '3.9'
+rating_count: 2035
 website: null
+description: >-
+  Explore Buffet King in Denton, TX$$$Buffet King in Denton, Texas, stands out
+  as a welcoming all-you-can-eat destination featuring a variety of
+  Chinese-inspired dishes that cater to diverse tastes. This spot highlights an
+  engaging Mongolian grill where guests can customize their meals, alongside
+  tempting options like a chocolate fountain for a sweet finish. With
+  accessibility features such as wheelchair-friendly parking and entrances, it
+  ensures a comfortable experience for all visitors seeking casual dining
+  options. The restaurant operates with extended hours, making it easy to enjoy
+  hearty meals any day of the week, from flavorful stir-fries to fresh
+  selections that appeal to families and groups looking for satisfying eats
+  nearby.
+generative_summary: >-
+  Explore Buffet King in Denton, TX$$$Buffet King in Denton, Texas, stands out
+  as a welcoming all-you-can-eat destination featuring a variety of
+  Chinese-inspired dishes that cater to diverse tastes. This spot highlights an
+  engaging Mongolian grill where guests can customize their meals, alongside
+  tempting options like a chocolate fountain for a sweet finish. With
+  accessibility features such as wheelchair-friendly parking and entrances, it
+  ensures a comfortable experience for all visitors seeking casual dining
+  options. The restaurant operates with extended hours, making it easy to enjoy
+  hearty meals any day of the week, from flavorful stir-fries to fresh
+  selections that appeal to families and groups looking for satisfying eats
+  nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Visitors to this buffet often appreciate the wide
+  array of food choices and the fun interactive grill, making it a go-to spot
+  for casual meals with friends or family. Many note that the portions are
+  generous and the atmosphere feels relaxed, contributing to a solid overall
+  experience that's worth checking out. While some mention occasional
+  inconsistencies in food freshness, the general consensus leans positive with
+  praise for the value and variety that keeps people coming back. Folks
+  frequently highlight the dessert options as a highlight, adding a nice touch
+  to the meal. All in all, it's a reliable choice for anyone in the area wanting
+  straightforward, enjoyable dining that hits the spot without breaking the
+  bank.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +312,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

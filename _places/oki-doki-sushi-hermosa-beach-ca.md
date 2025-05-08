@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Oki Doki Sushi"
+title: Oki Doki Sushi
 permalink: /california/hermosa-beach/oki-doki-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Hermosa Beach
 seo:
-  name: "Oki Doki Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.okidokisushitogo.com/
-description: "Oki Doki Sushi serves delicious sushi in Hermosa Beach, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ0dbq6IK0woARGPwOnFSc0S0
 photos:
   - name: >-
@@ -170,7 +168,113 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c2b482e8ead6d1:0x2dd19c549c0efc18!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 16
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 16
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 14
+        minute: 30
+    - open:
+        day: 6
+        hour: 16
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 2:30 PM, 4:00 – 9:30 PM'
     - 'Tuesday: 11:30 AM – 2:30 PM, 4:00 – 9:30 PM'
     - 'Wednesday: 11:30 AM – 2:30 PM, 4:00 – 9:30 PM'
@@ -178,14 +282,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 2:30 PM, 4:00 – 9:30 PM'
     - 'Saturday: 11:30 AM – 2:30 PM, 4:00 – 9:30 PM'
     - 'Sunday: 4:00 – 9:30 PM'
-  current:
-    - 'Monday: 11:30 AM – 2:30 PM, 4:00 – 9:30 PM'
-    - 'Tuesday: 11:30 AM – 2:30 PM, 4:00 – 9:30 PM'
-    - 'Wednesday: 11:30 AM – 2:30 PM, 4:00 – 9:30 PM'
-    - 'Thursday: 11:30 AM – 2:30 PM, 4:00 – 9:30 PM'
-    - 'Friday: 11:30 AM – 2:30 PM, 4:00 – 9:30 PM'
-    - 'Saturday: 11:30 AM – 2:30 PM, 4:00 – 9:30 PM'
-    - 'Sunday: 4:00 – 9:30 PM'
+  nextOpenTime: '2025-05-03T23:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +294,229 @@ phone: (310) 798-8289
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.5'
-rating_count: 0
+rating_count: 338
 website: https://www.okidokisushitogo.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Oki Doki Sushi in Hermosa Beach$$$Oki Doki Sushi in Hermosa Beach,
+  CA, stands out as a welcoming spot for enjoying fresh Japanese cuisine in a
+  cozy, unassuming setting. This sushi restaurant offers an array of rolls,
+  bento boxes, and traditional dishes, complemented by options like beer and
+  wine for a relaxed meal. With its accessible features and convenient location,
+  it's designed to accommodate various diners seeking authentic flavors without
+  the fuss. The cheerful atmosphere and thoughtful menu make it a great choice
+  for those exploring local Japanese fare, blending simplicity with quality
+  ingredients.
+generative_summary: >-
+  Discover Oki Doki Sushi in Hermosa Beach$$$Oki Doki Sushi in Hermosa Beach,
+  CA, stands out as a welcoming spot for enjoying fresh Japanese cuisine in a
+  cozy, unassuming setting. This sushi restaurant offers an array of rolls,
+  bento boxes, and traditional dishes, complemented by options like beer and
+  wine for a relaxed meal. With its accessible features and convenient location,
+  it's designed to accommodate various diners seeking authentic flavors without
+  the fuss. The cheerful atmosphere and thoughtful menu make it a great choice
+  for those exploring local Japanese fare, blending simplicity with quality
+  ingredients.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ0dbq6IK0woARGPwOnFSc0S0/reviews/ChdDSUhNMG9nS0VJQ0FnTURJaHFDODl3RRAB
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 5
+    text:
+      text: >-
+        This small sushi spot in the 7-11 center is a local gem putting out
+        great quality fish and creations at reasonable prices for the area.  You
+        can sit at the bar or tables and they also do a brisk take out
+        business.  They have some of the best original rolls loaded with fish
+        and a great variety.  Some of my favorites are 911, fire roll, they do a
+        great crispy rice, and the standard sushi and sashimi is as fresh and
+        delish as anywhere.  The owner and other chef have been there forever
+        holding down Oki Doki and we appreciate this spot.
+      languageCode: en
+    originalText:
+      text: >-
+        This small sushi spot in the 7-11 center is a local gem putting out
+        great quality fish and creations at reasonable prices for the area.  You
+        can sit at the bar or tables and they also do a brisk take out
+        business.  They have some of the best original rolls loaded with fish
+        and a great variety.  Some of my favorites are 911, fire roll, they do a
+        great crispy rice, and the standard sushi and sashimi is as fresh and
+        delish as anywhere.  The owner and other chef have been there forever
+        holding down Oki Doki and we appreciate this spot.
+      languageCode: en
+    authorAttribution:
+      displayName: Swoon Lashes
+      uri: https://www.google.com/maps/contrib/118097095326970967142/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUqHjtRpWqDFG15BfrjvQLfnfvZBI0wgC0BGHjcfPjIxgOLdC4=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-09T06:35:12.749575Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJaHFDODl3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJaHFDODl3RRAB!2m1!1s0x80c2b482e8ead6d1:0x2dd19c549c0efc18
+  - name: >-
+      places/ChIJ0dbq6IK0woARGPwOnFSc0S0/reviews/ChZDSUhNMG9nS0VJQ0FnSUR2ME9uaEZnEAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        The cuts of fish are phenomenal!! The stuff is great, especially if you
+        get Moi!! The sushi chef Jay is incredible and the prices are fair for
+        what you're getting!!
+      languageCode: en
+    originalText:
+      text: >-
+        The cuts of fish are phenomenal!! The stuff is great, especially if you
+        get Moi!! The sushi chef Jay is incredible and the prices are fair for
+        what you're getting!!
+      languageCode: en
+    authorAttribution:
+      displayName: James Gobee
+      uri: https://www.google.com/maps/contrib/117716826681816290000/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXKXPimZbI1fqGhDHYECBrpc0zQV9iUVnF_NN_P5KrMdaK2-3LaSg=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2024-12-16T20:51:27.879757Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR2ME9uaEZnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR2ME9uaEZnEAE!2m1!1s0x80c2b482e8ead6d1:0x2dd19c549c0efc18
+  - name: >-
+      places/ChIJ0dbq6IK0woARGPwOnFSc0S0/reviews/ChZDSUhNMG9nS0VJQ0FnSURQalpmcWVnEAE
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        Excellent sushi at a very reasonable price. I ordered take-out on a
+        Tuesday evening, and everything was fresh and delicious. I particularly
+        liked the snapper.
+      languageCode: en
+    originalText:
+      text: >-
+        Excellent sushi at a very reasonable price. I ordered take-out on a
+        Tuesday evening, and everything was fresh and delicious. I particularly
+        liked the snapper.
+      languageCode: en
+    authorAttribution:
+      displayName: A A
+      uri: https://www.google.com/maps/contrib/101197508060837873010/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJ7WuS8-Mgd0X6nURk43gR8OlBTmiSn8ghn4c08qS1a_VplHaW7=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2024-12-04T15:45:35.041072Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURQalpmcWVnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURQalpmcWVnEAE!2m1!1s0x80c2b482e8ead6d1:0x2dd19c549c0efc18
+  - name: >-
+      places/ChIJ0dbq6IK0woARGPwOnFSc0S0/reviews/ChdDSUhNMG9nS0VJQ0FnSUNzX042MjhBRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Always excellent sushi.  I drive down from Marina del Rey to Oki Doki
+        sushi.  The service is excellent. The staff are kind. The sushi is
+        extremely fresh. The prices are reasonable. Highly recommended
+
+
+        Update March 2025. Still so amazing. Kind staff from sushi chef through
+        to the front-of-the-house staff. Great sushi and even top flight stuff
+        like Toro, Bluefin tuna. And always amazing rolls. Best sushi in the
+        South Bay.
+      languageCode: en
+    originalText:
+      text: >-
+        Always excellent sushi.  I drive down from Marina del Rey to Oki Doki
+        sushi.  The service is excellent. The staff are kind. The sushi is
+        extremely fresh. The prices are reasonable. Highly recommended
+
+
+        Update March 2025. Still so amazing. Kind staff from sushi chef through
+        to the front-of-the-house staff. Great sushi and even top flight stuff
+        like Toro, Bluefin tuna. And always amazing rolls. Best sushi in the
+        South Bay.
+      languageCode: en
+    authorAttribution:
+      displayName: Richard G
+      uri: https://www.google.com/maps/contrib/113566715505641493574/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLfRNeJ_iJPrRPeBSjv1kLd8eYQxhHhOen5LT2i9aCHAvbOfg=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-03-28T20:35:18.440568Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNzX042MjhBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNzX042MjhBRRAB!2m1!1s0x80c2b482e8ead6d1:0x2dd19c549c0efc18
+  - name: >-
+      places/ChIJ0dbq6IK0woARGPwOnFSc0S0/reviews/ChdDSUhNMG9nS0VJQ0FnSUQxZzRDdGxnRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        I was so impressed by this hidden gem.  Some of the best sushi I've ever
+        had. Very unique rolls paired alongside classics.  Incredible
+        presentation. Everything tasted fresh and delicious.  I highly recommend
+        the Orange Crush Roll with their signature Snowcone sauce!
+      languageCode: en
+    originalText:
+      text: >-
+        I was so impressed by this hidden gem.  Some of the best sushi I've ever
+        had. Very unique rolls paired alongside classics.  Incredible
+        presentation. Everything tasted fresh and delicious.  I highly recommend
+        the Orange Crush Roll with their signature Snowcone sauce!
+      languageCode: en
+    authorAttribution:
+      displayName: Perry Larkin
+      uri: https://www.google.com/maps/contrib/101990179172155033980/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjV7hxOoTfU4wos9aWGHE77Bbh2NHkHfGSrHVIdvNJ2MoRjb27-S=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-01-09T16:23:46.961015Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQxZzRDdGxnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQxZzRDdGxnRRAB!2m1!1s0x80c2b482e8ead6d1:0x2dd19c549c0efc18
+review_summary: >-
+  What Customers Are Saying About the Sushi Experience$$$Folks often rave about
+  the fresh fish and creative rolls at this spot, noting how they deliver a
+  satisfying mix of flavors without breaking the bank. Many highlight the
+  variety of options, from unique specials to classic staples, making it a solid
+  pick for anyone craving reliable sushi nearby. The service comes across as
+  friendly and efficient, adding to the overall enjoyable vibe that keeps people
+  coming back. While some mention it's a hidden gem for takeout or dine-in, the
+  general consensus is that it offers great value and quality, perfect for sushi
+  lovers looking for a casual spot to unwind.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: false
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Bustling, cheerful venue serving basic Japanese fare in an unassuming
+  strip-mall location.
 
 ---

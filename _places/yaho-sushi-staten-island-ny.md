@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yaho Sushi"
+title: Yaho Sushi
 permalink: /new-york/staten-island/yaho-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: Staten Island
 seo:
-  name: "Yaho Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://yahosushi.com/
-description: "Yaho Sushi serves delicious sushi in Staten Island, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJmX7bIj-1w4kRBjlmUe3QGYQ
 photos:
   - name: >-
@@ -182,6 +180,27 @@ price_range: $10 &ndash; $20
 rating: '4.8'
 rating_count: 0
 website: https://yahosushi.com/
+description: >-
+  Discover Yaho Sushi in Staten Island, NY$$$Yaho Sushi in Staten Island, NY,
+  stands out as a welcoming spot for fresh Japanese dishes in a laid-back
+  setting. This restaurant specializes in high-quality sushi and other
+  traditional fare, with options that cater to health-conscious diners including
+  vegetarian choices. The emphasis on simple yet flavorful ingredients ensures
+  every meal feels authentic and satisfying, making it a go-to for those
+  exploring sushi restaurants nearby. With moderate pricing and easy
+  accessibility, it's an ideal destination for anyone seeking a casual dining
+  experience that highlights the best of Japanese cuisine.
+generative_summary: >-
+  Discover Yaho Sushi in Staten Island, NY$$$Yaho Sushi in Staten Island, NY,
+  stands out as a welcoming spot for fresh Japanese dishes in a laid-back
+  setting. This restaurant specializes in high-quality sushi and other
+  traditional fare, with options that cater to health-conscious diners including
+  vegetarian choices. The emphasis on simple yet flavorful ingredients ensures
+  every meal feels authentic and satisfying, making it a go-to for those
+  exploring sushi restaurants nearby. With moderate pricing and easy
+  accessibility, it's an ideal destination for anyone seeking a casual dining
+  experience that highlights the best of Japanese cuisine.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJmX7bIj-1w4kRBjlmUe3QGYQ/reviews/ChdDSUhNMG9nS0VJQ0FnTUNRNGRMTjRRRRAB
@@ -335,6 +354,17 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNabjhqNzJBRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNabjhqNzJBRRAB!2m1!1s0x89c3b53f22db7e99:0x8419d0ed51663906
+review_summary: >-
+  What Customers Are Saying About Yaho Sushi$$$Visitors often praise the
+  incredibly fresh sushi and attentive service that make every meal enjoyable
+  and efficient. Many highlight the generous portions and great value, turning
+  it into a favorite for folks looking for reliable Japanese places close by.
+  The straightforward ambiance keeps things focused on the tasty flavors without
+  distractions, appealing to groups or solo diners alike. While some rolls stand
+  out more than others, the overall consensus is that it's a solid pick for
+  quality eats, encouraging repeat visits for anyone hunting for top-rated sushi
+  options.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -366,7 +396,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Blue Ribbon Sushi & Sake"
+title: Blue Ribbon Sushi & Sake
 permalink: /new-york/new-york/blue-ribbon-sushi-sake.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "Blue Ribbon Sushi & Sake"
-  type: Restaurant
+  type: restaurant
   links: https://www.blueribbonsushiandsake.com/
-description: "Blue Ribbon Sushi & Sake serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for, delivery, and dinner."
 place_id: ChIJkSzaOlZZwokRyqFI9Uj1brc
 photos:
   - name: >-
@@ -182,6 +180,33 @@ price_range: $100 &ndash; & up
 rating: '4.9'
 rating_count: 0
 website: https://www.blueribbonsushiandsake.com/
+description: >-
+  Explore Blue Ribbon Sushi & Sake in New York, NY$$$Blue Ribbon Sushi & Sake in
+  New York, NY, offers an intimate dining experience focused on expertly crafted
+  omakase sushi dinners, drawing from a rich tradition of Japanese-inspired
+  cuisine. This cozy venue highlights fresh, high-quality ingredients that bring
+  out the subtle flavors in every dish, making it a standout choice for those
+  seeking authentic sushi options in the heart of the city. With its thoughtful
+  ambiance and attention to detail, it's ideal for a memorable meal that
+  combines elegance and simplicity. Patrons can enjoy a variety of creative
+  presentations that elevate the standard sushi experience, positioning it as a
+  top pick among Japanese places near me. Seasonal influences ensure that each
+  visit feels unique, blending innovation with time-honored techniques for an
+  unforgettable taste of the best sushi near me.
+generative_summary: >-
+  Explore Blue Ribbon Sushi & Sake in New York, NY$$$Blue Ribbon Sushi & Sake in
+  New York, NY, offers an intimate dining experience focused on expertly crafted
+  omakase sushi dinners, drawing from a rich tradition of Japanese-inspired
+  cuisine. This cozy venue highlights fresh, high-quality ingredients that bring
+  out the subtle flavors in every dish, making it a standout choice for those
+  seeking authentic sushi options in the heart of the city. With its thoughtful
+  ambiance and attention to detail, it's ideal for a memorable meal that
+  combines elegance and simplicity. Patrons can enjoy a variety of creative
+  presentations that elevate the standard sushi experience, positioning it as a
+  top pick among Japanese places near me. Seasonal influences ensure that each
+  visit feels unique, blending innovation with time-honored techniques for an
+  unforgettable taste of the best sushi near me.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJkSzaOlZZwokRyqFI9Uj1brc/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ5bE0tSERREAE
@@ -393,6 +418,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURGMzRMdE5nEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURGMzRMdE5nEAE!2m1!1s0x89c259563ada2c91:0xb76ef548f548a1ca
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors often rave about the fresh and
+  inventive omakase offerings at this sushi spot, noting how the creative twists
+  on classic dishes keep things exciting and delicious. Many highlight the
+  welcoming vibe and attentive service that make every meal feel personal and
+  engaging, without overwhelming the experience. Folks appreciate the
+  high-quality ingredients and seasonal menu changes that bring new flavors to
+  the table, making it a reliable go-to for sushi enthusiasts. Overall, it's
+  praised as a fantastic spot for a relaxed yet upscale outing, with the sake
+  pairings adding a fun element to the mix. If you're on the hunt for top-rated
+  sushi near me, this place delivers a solid, enjoyable experience that's worth
+  checking out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options:
   acceptsCreditCards: true
@@ -422,7 +460,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: true
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

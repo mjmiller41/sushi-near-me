@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kobe In Sylva"
+title: Kobe In Sylva
 permalink: /north-carolina/sylva/kobe-in-sylva.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Sylva
 seo:
-  name: "Kobe In Sylva"
-  type: Restaurant
+  type: restaurant
   links: https://zmenu.com/kobe-express-sylva-online-menu/
-description: "Kobe In Sylva serves delicious sushi in Sylva, North Carolina. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJyXqFh9kUWYgR1adIJqrqDRg
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x885914d987857ac9:0x180deaaa2648a7d5!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:00 PM'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:00 PM'
     - 'Saturday: 11:00 AM – 9:00 PM'
     - 'Sunday: 11:00 AM – 8:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 9:00 PM'
-    - 'Saturday: 11:00 AM – 9:00 PM'
-    - 'Sunday: 11:00 AM – 8:00 PM'
+  nextCloseTime: '2025-05-04T01:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +246,46 @@ phone: (828) 586-0999
 price_level: PRICE_LEVEL_INEXPENSIVE
 price_range: $10 &ndash; $20
 rating: '4.3'
-rating_count: 0
+rating_count: 858
 website: https://zmenu.com/kobe-express-sylva-online-menu/
+description: >-
+  Discover Japanese Flavors in Sylva, NC$$$Kobe In Sylva in Sylva, NC, is a
+  welcoming spot for enjoying fresh sushi and classic Japanese dishes in a
+  relaxed setting. This sushi restaurant near you offers a variety of flavorful
+  options, from expertly prepared rolls to satisfying entrees, all served in a
+  laid-back atmosphere that makes it ideal for casual dining. With its
+  accessible features like wheelchair-friendly entrances and parking, it's easy
+  to visit whether you're stopping by for a quick lunch or a leisurely dinner.
+  Operating daily with extended hours, it's a convenient choice for those
+  seeking top-rated sushi places near me, blending affordability with authentic
+  tastes that keep locals coming back.
+generative_summary: >-
+  Discover Japanese Flavors in Sylva, NC$$$Kobe In Sylva in Sylva, NC, is a
+  welcoming spot for enjoying fresh sushi and classic Japanese dishes in a
+  relaxed setting. This sushi restaurant near you offers a variety of flavorful
+  options, from expertly prepared rolls to satisfying entrees, all served in a
+  laid-back atmosphere that makes it ideal for casual dining. With its
+  accessible features like wheelchair-friendly entrances and parking, it's easy
+  to visit whether you're stopping by for a quick lunch or a leisurely dinner.
+  Operating daily with extended hours, it's a convenient choice for those
+  seeking top-rated sushi places near me, blending affordability with authentic
+  tastes that keep locals coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Recent Feedback$$$Folks rave about the tasty and freshly made
+  meals at this Japanese eatery, highlighting dishes like creative rolls and
+  flavorful teriyaki options that hit the spot without breaking the bank. Many
+  appreciate the quick and efficient service that keeps things moving smoothly,
+  even during busy times, making it a solid pick for groups or families looking
+  for a hassle-free meal. While the overall experience leans positive with
+  praise for the hot, well-prepared food, some note that staff interactions
+  could be more friendly to enhance the vibe. All in all, it's a go-to for
+  anyone hunting for reliable sushi restaurants close to me, offering great
+  value and enjoyable flavors that make it worth a try. If you're in the mood
+  for something simple and satisfying, this spot delivers on the basics while
+  encouraging repeat visits.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +311,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yamato Japanese Cuisine"
+title: Yamato Japanese Cuisine
 permalink: /wisconsin/menomonie/yamato-japanese-cuisine.html
 stateAbbr: WI
 stateName: Wisconsin
 cityName: Menomonie
 seo:
-  name: "Yamato Japanese Cuisine"
-  type: Restaurant
-  links: null
-description: "Yamato Japanese Cuisine serves delicious sushi in Menomonie, Wisconsin. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://yamatowi.com/
 place_id: ChIJyeBrg4J7-IcRgnL4eM7DrfQ
 photos:
   - name: >-
@@ -170,8 +168,97 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x87f87b82836be0c9:0xf4adc3ce78f87282!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: Closed'
+    - 'Tuesday: 11:00 AM – 2:30 PM, 4:00 – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 2:30 PM, 4:00 – 9:00 PM'
+    - 'Thursday: 11:00 AM – 2:30 PM, 4:00 – 9:00 PM'
+    - 'Friday: 11:00 AM – 2:30 PM, 4:00 – 9:00 PM'
+    - 'Saturday: 12:00 – 9:00 PM'
+    - 'Sunday: 12:00 – 8:30 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +266,55 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (715) 309-6030
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.5'
+rating_count: 265
+website: http://yamatowi.com/
+description: >-
+  Discover Yamato Japanese Cuisine in Menomonie, Wisconsin$$$Yamato Japanese
+  Cuisine in Menomonie, Wisconsin, stands out as a welcoming spot for those
+  seeking authentic Japanese flavors, featuring an extensive selection of dishes
+  that highlight fresh ingredients and traditional techniques. This casual
+  eatery offers a variety of options perfect for sushi enthusiasts looking for
+  quality meals nearby, complemented by a selection of beverages like beer and
+  wine to enhance your dining experience. With accessibility features such as
+  wheelchair-friendly parking and entrances, it's designed to accommodate all
+  visitors comfortably. The restaurant's moderate pricing makes it an appealing
+  choice for everyday outings, while its operational hours provide flexibility
+  for lunch or dinner stops. Whether you're exploring top-rated Japanese places
+  near you, Yamato delivers a satisfying blend of familiar favorites and
+  thoughtful ambiance.
+generative_summary: >-
+  Discover Yamato Japanese Cuisine in Menomonie, Wisconsin$$$Yamato Japanese
+  Cuisine in Menomonie, Wisconsin, stands out as a welcoming spot for those
+  seeking authentic Japanese flavors, featuring an extensive selection of dishes
+  that highlight fresh ingredients and traditional techniques. This casual
+  eatery offers a variety of options perfect for sushi enthusiasts looking for
+  quality meals nearby, complemented by a selection of beverages like beer and
+  wine to enhance your dining experience. With accessibility features such as
+  wheelchair-friendly parking and entrances, it's designed to accommodate all
+  visitors comfortably. The restaurant's moderate pricing makes it an appealing
+  choice for everyday outings, while its operational hours provide flexibility
+  for lunch or dinner stops. Whether you're exploring top-rated Japanese places
+  near you, Yamato delivers a satisfying blend of familiar favorites and
+  thoughtful ambiance.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying About This Local Spot$$$Folks around town often rave
+  about the fresh and flavorful dishes at this sushi spot, noting that the
+  quality of the ingredients really shines through in every bite. Many
+  appreciate the welcoming atmosphere and efficient service, making it a go-to
+  for casual meals or group gatherings without any major hiccups. While some
+  mention wait times during peak hours, the overall experience is described as
+  worth it, especially for those hunting for reliable sushi options close by.
+  Diners frequently highlight the variety on the menu as a plus, helping it
+  maintain its strong reputation as a solid choice in the area. All in all, with
+  its high ratings, this place comes across as a dependable favorite for anyone
+  craving Japanese cuisine that's both enjoyable and approachable.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +340,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

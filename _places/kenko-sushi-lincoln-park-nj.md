@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kenko Sushi"
+title: Kenko Sushi
 permalink: /new-jersey/lincoln-park/kenko-sushi.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Lincoln Park
 seo:
-  name: "Kenko Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://kenkosushinj.com/home/
-description: "Kenko Sushi serves delicious sushi in Lincoln Park, New Jersey. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ2XvxBPwDw4kRh-NlmTebG4Y
 photos:
   - name: >-
@@ -170,7 +168,41 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c303fc04f17bd9:0x861b9b379965e387!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: Closed'
     - 'Wednesday: 11:30 AM – 9:00 PM'
@@ -178,28 +210,99 @@ opening_hours:
     - 'Friday: 11:30 AM – 9:00 PM'
     - 'Saturday: 11:30 AM – 9:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: Closed'
-    - 'Wednesday: 11:30 AM – 9:00 PM'
-    - 'Thursday: 11:30 AM – 9:00 PM'
-    - 'Friday: 11:30 AM – 9:00 PM'
-    - 'Saturday: 11:30 AM – 9:00 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T01:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 3
+          hour: 11
+          minute: 30
+        close:
+          day: 3
+          hour: 20
+          minute: 0
+      - open:
+          day: 4
+          hour: 11
+          minute: 30
+        close:
+          day: 4
+          hour: 20
+          minute: 0
+      - open:
+          day: 5
+          hour: 11
+          minute: 30
+        close:
+          day: 5
+          hour: 20
+          minute: 0
+      - open:
+          day: 6
+          hour: 11
+          minute: 30
+        close:
+          day: 6
+          hour: 20
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: Closed'
+      - 'Tuesday: Closed'
+      - 'Wednesday: 11:30 AM – 8:00 PM'
+      - 'Thursday: 11:30 AM – 8:00 PM'
+      - 'Friday: 11:30 AM – 8:00 PM'
+      - 'Saturday: 11:30 AM – 8:00 PM'
+      - 'Sunday: Closed'
+    secondaryHoursType: KITCHEN
+    nextCloseTime: '2025-05-04T00:00:00Z'
 phone: null
 price_level: PRICE_LEVEL_MODERATE
-price_range: null
+price_range: $20 &ndash; $30
 rating: '4.6'
-rating_count: 0
+rating_count: 810
 website: http://kenkosushinj.com/home/
+description: >-
+  Discover Kenko Sushi in Lincoln Park, NJ$$$Kenko Sushi in Lincoln Park, New
+  Jersey, stands out as a welcoming spot for sushi enthusiasts seeking a relaxed
+  dining experience with an array of fresh rolls and creative dishes. This
+  laid-back eatery caters to diverse tastes by offering a wide selection of
+  options, including gluten-free, vegetarian, and vegan choices that make it
+  easy for everyone to enjoy authentic Japanese flavors. Visitors appreciate the
+  accessible features like wheelchair-friendly entrances and seating, enhancing
+  its appeal as a convenient choice for casual meals. The restaurant's moderate
+  pricing and variety of sushi selections position it as a go-to destination for
+  those exploring top-rated Japanese places nearby. With hours that accommodate
+  weekday lunches and dinners, it's an ideal stop for anyone craving quality
+  sushi in a comfortable setting.
+generative_summary: >-
+  Discover Kenko Sushi in Lincoln Park, NJ$$$Kenko Sushi in Lincoln Park, New
+  Jersey, stands out as a welcoming spot for sushi enthusiasts seeking a relaxed
+  dining experience with an array of fresh rolls and creative dishes. This
+  laid-back eatery caters to diverse tastes by offering a wide selection of
+  options, including gluten-free, vegetarian, and vegan choices that make it
+  easy for everyone to enjoy authentic Japanese flavors. Visitors appreciate the
+  accessible features like wheelchair-friendly entrances and seating, enhancing
+  its appeal as a convenient choice for casual meals. The restaurant's moderate
+  pricing and variety of sushi selections position it as a go-to destination for
+  those exploring top-rated Japanese places nearby. With hours that accommodate
+  weekday lunches and dinners, it's an ideal stop for anyone craving quality
+  sushi in a comfortable setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What People Love About Kenko Sushi$$$Folks often rave about the tasty and
+  visually appealing sushi here, with standout dishes that deliver a perfect
+  balance of flavors and presentation, making every bite feel special. Many
+  highlight the friendly service that adds a warm, inviting vibe to the overall
+  experience, turning a simple meal into a memorable outing. It's common to hear
+  praise for the thoughtful extras, like complimentary treats that leave diners
+  with a sweet finish to their visit. The cozy atmosphere creates an interactive
+  space that's great for casual get-togethers, drawing in those looking for
+  reliable sushi spots in the area. Overall, the consistent quality and
+  welcoming feel make this a solid pick for anyone hunting for enjoyable
+  Japanese dining without any fuss.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +328,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

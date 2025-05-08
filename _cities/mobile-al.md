@@ -5,4 +5,5 @@ permalink: /alabama/mobile/
 stateAbbr: AL
 stateName: Alabama
 cityName: Mobile
+
 ---

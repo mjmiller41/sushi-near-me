@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "OhSushi"
+title: OhSushi
 permalink: /washington/richland/ohsushi.html
 stateAbbr: WA
 stateName: Washington
 cityName: Richland
 seo:
-  name: "OhSushi"
-  type: Restaurant
+  type: restaurant
   links: http://oh-sushi.com/
-description: "OhSushi serves delicious sushi in Richland, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJJ7v0mJp7mFQRt5DBXgMohiQ
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x54987b9a98f4bb27:0x248628035ec190b7!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 10
+        minute: 30
+      close:
+        day: 1
+        hour: 20
+        minute: 0
+    - open:
+        day: 2
+        hour: 10
+        minute: 30
+      close:
+        day: 2
+        hour: 20
+        minute: 0
+    - open:
+        day: 3
+        hour: 10
+        minute: 30
+      close:
+        day: 3
+        hour: 20
+        minute: 0
+    - open:
+        day: 4
+        hour: 10
+        minute: 30
+      close:
+        day: 4
+        hour: 20
+        minute: 0
+    - open:
+        day: 5
+        hour: 10
+        minute: 30
+      close:
+        day: 5
+        hour: 20
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 20
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 10:30 AM – 8:00 PM'
     - 'Tuesday: 10:30 AM – 8:00 PM'
     - 'Wednesday: 10:30 AM – 8:00 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 10:30 AM – 8:00 PM'
     - 'Saturday: 11:00 AM – 8:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 10:30 AM – 8:00 PM'
-    - 'Tuesday: 10:30 AM – 8:00 PM'
-    - 'Wednesday: 10:30 AM – 8:00 PM'
-    - 'Thursday: 10:30 AM – 8:00 PM'
-    - 'Friday: 10:30 AM – 8:00 PM'
-    - 'Saturday: 11:00 AM – 8:00 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +238,46 @@ phone: (509) 713-7320
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.8'
-rating_count: 0
+rating_count: 204
 website: http://oh-sushi.com/
+description: >-
+  Discover OhSushi in Richland, Washington$$$OhSushi in Richland, Washington,
+  stands out as a welcoming spot for Japanese dining enthusiasts seeking fresh
+  and flavorful options. This casual eatery offers a variety of sushi rolls and
+  bento boxes, crafted with attention to quality and accessibility features like
+  wheelchair-friendly entrances and seating. Patrons can enjoy a range of dishes
+  that highlight traditional flavors, making it a go-to choice for those
+  exploring sushi restaurants in the area. The restaurant's convenient hours,
+  including weekday lunches and weekend dinners, add to its appeal for anyone
+  craving authentic Japanese cuisine nearby. With its moderate pricing and
+  inviting atmosphere, OhSushi provides a relaxed setting perfect for savoring
+  top-rated sushi experiences.
+generative_summary: >-
+  Discover OhSushi in Richland, Washington$$$OhSushi in Richland, Washington,
+  stands out as a welcoming spot for Japanese dining enthusiasts seeking fresh
+  and flavorful options. This casual eatery offers a variety of sushi rolls and
+  bento boxes, crafted with attention to quality and accessibility features like
+  wheelchair-friendly entrances and seating. Patrons can enjoy a range of dishes
+  that highlight traditional flavors, making it a go-to choice for those
+  exploring sushi restaurants in the area. The restaurant's convenient hours,
+  including weekday lunches and weekend dinners, add to its appeal for anyone
+  craving authentic Japanese cuisine nearby. With its moderate pricing and
+  inviting atmosphere, OhSushi provides a relaxed setting perfect for savoring
+  top-rated sushi experiences.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Buzzing About$$$Visitors to this Japanese spot often rave
+  about the tasty poke bowls and vibrant sushi selections that hit the spot
+  every time. Folks appreciate the fresh ingredients and creative dishes like
+  specialty rolls, which keep things exciting without breaking the bank. The
+  staff comes across as friendly and attentive, helping to create a warm and
+  welcoming vibe that makes dining out feel effortless. Overall, the reasonable
+  prices and solid portions contribute to a satisfying meal, drawing in those
+  looking for reliable sushi options. While opinions are generally positive,
+  it's clear that the combination of great food and service keeps customers
+  coming back for more enjoyable visits.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +303,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Dragon Horse"
+title: Dragon Horse
 permalink: /california/san-francisco/dragon-horse.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
 seo:
-  name: "Dragon Horse"
-  type: Restaurant
+  type: restaurant
   links: http://www.dragonhorsesf.com/
-description: "Dragon Horse serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJc4jk1ZWBhYARkZIS5HmVER8
 photos:
   - name: >-
@@ -184,6 +182,31 @@ price_range: $30 &ndash; $50
 rating: '4.7'
 rating_count: 0
 website: http://www.dragonhorsesf.com/
+description: >-
+  Explore Dragon Horse in San Francisco$$$Dragon Horse in San Francisco, CA,
+  stands out as a vibrant Japanese restaurant blending lively ambiance with
+  creative culinary offerings, including an array of inventive cocktails and a
+  dedicated space for karaoke enthusiasts. This spot highlights fresh flavors in
+  its Japanese-inspired dishes, making it an ideal choice for those seeking
+  authentic tastes in a welcoming setting with thoughtful accessibility
+  features. Patrons can enjoy a variety of options like expertly prepared bites
+  and drinks, perfect for casual gatherings or special occasions in the heart of
+  the city. Whether you're in the mood for something light or a full meal, the
+  moderate pricing adds to its appeal as a go-to destination for Japanese places
+  near me.
+generative_summary: >-
+  Explore Dragon Horse in San Francisco$$$Dragon Horse in San Francisco, CA,
+  stands out as a vibrant Japanese restaurant blending lively ambiance with
+  creative culinary offerings, including an array of inventive cocktails and a
+  dedicated space for karaoke enthusiasts. This spot highlights fresh flavors in
+  its Japanese-inspired dishes, making it an ideal choice for those seeking
+  authentic tastes in a welcoming setting with thoughtful accessibility
+  features. Patrons can enjoy a variety of options like expertly prepared bites
+  and drinks, perfect for casual gatherings or special occasions in the heart of
+  the city. Whether you're in the mood for something light or a full meal, the
+  moderate pricing adds to its appeal as a go-to destination for Japanese places
+  near me.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJc4jk1ZWBhYARkZIS5HmVER8/reviews/ChdDSUhNMG9nS0VJQ0FnTUNRdTZYdnh3RRAB
@@ -415,6 +438,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURQdG95V1FREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURQdG95V1FREAE!2m1!1s0x80858195d5e48873:0x1f119579e4129291
+review_summary: >-
+  What People Are Buzzing About$$$Folks often rave about the fresh and flavorful
+  dishes at this spot, with creative cocktails and tasty sushi options standing
+  out as highlights that keep diners coming back for more. While some mention
+  occasional waits or smaller portions that might not satisfy bigger appetites,
+  the overall experience is lifted by friendly service and a fun atmosphere that
+  makes every visit feel special. Many appreciate the solid value, especially
+  for quality Japanese fare in a bustling area, making it a reliable pick for
+  anyone hunting for top-rated sushi nearby. Despite a few mixed notes on
+  timing, the positive vibes around the inventive drinks and fresh ingredients
+  help maintain an upbeat feel, encouraging visitors to give it a try for a
+  memorable meal.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeStreetParking: true
   paidStreetParking: true
@@ -445,7 +481,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

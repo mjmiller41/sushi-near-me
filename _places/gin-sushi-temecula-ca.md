@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Gin Sushi"
+title: Gin Sushi
 permalink: /california/temecula/gin-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Temecula
 seo:
-  name: "Gin Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://ginsushitemecula.com/
-description: "Sushi rolls, udon noodle soups, bento lunch boxes & all-you-can-eat specials in a casual space. Gin Sushi serves delicious sushi in Temecula, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJkbCHzzt-24ARcZ7-f7K4fh0
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $30 &ndash; $50
 rating: '4.4'
 rating_count: 0
 website: http://ginsushitemecula.com/
+description: >-
+  Discover Gin Sushi in Temecula, CA$$$Gin Sushi in Temecula, CA, offers a
+  welcoming atmosphere for those seeking delicious sushi options in a relaxed
+  setting. This casual eatery stands out with its all-you-can-eat specials and a
+  solid variety of fresh rolls and Japanese-inspired dishes, making it a go-to
+  spot for sushi enthusiasts in the area. Patrons can enjoy a wide selection of
+  beers alongside their meals, enhancing the dining experience with affordable
+  pricing and accessible features like wheelchair-friendly entrances. The menu
+  highlights creative flavors and generous portions, perfect for anyone
+  exploring top-rated sushi places near me. With its clean, inviting space, it's
+  an ideal choice for casual dinners or quick lunches in this vibrant Southern
+  California community.
+generative_summary: >-
+  Discover Gin Sushi in Temecula, CA$$$Gin Sushi in Temecula, CA, offers a
+  welcoming atmosphere for those seeking delicious sushi options in a relaxed
+  setting. This casual eatery stands out with its all-you-can-eat specials and a
+  solid variety of fresh rolls and Japanese-inspired dishes, making it a go-to
+  spot for sushi enthusiasts in the area. Patrons can enjoy a wide selection of
+  beers alongside their meals, enhancing the dining experience with affordable
+  pricing and accessible features like wheelchair-friendly entrances. The menu
+  highlights creative flavors and generous portions, perfect for anyone
+  exploring top-rated sushi places near me. With its clean, inviting space, it's
+  an ideal choice for casual dinners or quick lunches in this vibrant Southern
+  California community.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJkbCHzzt-24ARcZ7-f7K4fh0/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3M0s2dEpnEAE
@@ -384,6 +407,21 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNxdlA3MTJBRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNxdlA3MTJBRRAB!2m1!1s0x80db7e3bcf87b091:0x1d7eb8b27ffe9e71
+review_summary: >-
+  What Customers Are Saying$$$Folks who visit this sushi spot often rave about
+  the fresh ingredients and hearty servings that make every bite feel
+  worthwhile, especially with popular rolls like the baked scallop and salmon
+  options. Many appreciate the good value for the price, noting that the
+  all-you-can-eat deals deliver a satisfying variety without breaking the bank,
+  though some mention it can feel a bit pricey at times. Service tends to be
+  friendly and efficient, with quick attention that keeps the vibe upbeat and
+  enjoyable for groups or solo diners. Overall, it's a solid pick for anyone
+  hunting for tasty Japanese fare, as the atmosphere and food quality leave most
+  patrons eager to return for more. While a few have pointed out minor issues
+  like overly saucy rolls or occasional rushes to finish up, the experience
+  generally comes across as fun and fulfilling for sushi lovers in the
+  neighborhood.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -415,8 +453,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Sushi rolls, udon noodle soups, bento lunch boxes & all-you-can-eat specials
   in a casual space.
 

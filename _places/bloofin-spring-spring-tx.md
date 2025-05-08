@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Blōōfin Spring"
+title: Blōōfin Spring
 permalink: /texas/spring/bloofin-spring.html
 stateAbbr: TX
 stateName: Texas
 cityName: Spring
 seo:
-  name: "Blōōfin Spring"
-  type: Restaurant
+  type: restaurant
   links: https://bloofinsushi.com/
-description: "Blōōfin Spring serves delicious sushi in Spring, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJiW0v7f8yR4YRAo6_a6GPtBc
 photos:
   - name: >-
@@ -143,7 +141,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMCFtuV8bqaVVdVl2b5Liygk_VJw2tt24Ugm14n!2e10!4m2!3m1!1s0x864732ffed2f6d89:0x17b48fa16bbf8e02
 address: '6615 N Grand Parkway West, # 325, Spring, TX 77389, USA'
-street: '6615 N Grand Parkway West, # 325'
+street: 6615 N Grand Parkway West,# 325
 city: Spring
 state: TX
 zip: '77389'
@@ -170,7 +168,97 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x864732ffed2f6d89:0x17b48fa16bbf8e02!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 15
+        minute: 0
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 15
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 3:00 PM, 5:00 – 9:30 PM'
     - 'Tuesday: 11:00 AM – 3:00 PM, 5:00 – 9:30 PM'
     - 'Wednesday: 11:00 AM – 3:00 PM, 5:00 – 9:30 PM'
@@ -178,54 +266,349 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:30 PM'
     - 'Saturday: 11:00 AM – 10:30 PM'
     - 'Sunday: 12:00 – 9:30 PM'
-  current:
-    - 'Monday: 11:00 AM – 3:00 PM, 5:00 – 9:30 PM'
-    - 'Tuesday: 11:00 AM – 3:00 PM, 5:00 – 9:30 PM'
-    - 'Wednesday: 11:00 AM – 3:00 PM, 5:00 – 9:30 PM'
-    - 'Thursday: 11:00 AM – 3:00 PM, 5:00 – 9:30 PM'
-    - 'Friday: 11:00 AM – 10:30 PM'
-    - 'Saturday: 11:00 AM – 10:30 PM'
-    - 'Sunday: 12:00 – 9:30 PM'
+  nextCloseTime: '2025-05-04T03:30:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 0
+        close:
+          day: 0
+          hour: 20
+          minute: 0
+      - open:
+          day: 1
+          hour: 11
+          minute: 0
+        close:
+          day: 1
+          hour: 15
+          minute: 0
+      - open:
+          day: 1
+          hour: 17
+          minute: 0
+        close:
+          day: 1
+          hour: 21
+          minute: 30
+      - open:
+          day: 2
+          hour: 11
+          minute: 0
+        close:
+          day: 2
+          hour: 15
+          minute: 0
+      - open:
+          day: 2
+          hour: 17
+          minute: 0
+        close:
+          day: 2
+          hour: 21
+          minute: 30
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 15
+          minute: 0
+      - open:
+          day: 3
+          hour: 17
+          minute: 0
+        close:
+          day: 3
+          hour: 21
+          minute: 30
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 15
+          minute: 0
+      - open:
+          day: 4
+          hour: 17
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 30
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 22
+          minute: 0
+      - open:
+          day: 6
+          hour: 11
+          minute: 0
+        close:
+          day: 6
+          hour: 22
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 11:00 AM – 3:00 PM, 5:00 – 9:30 PM'
+      - 'Tuesday: 11:00 AM – 3:00 PM, 5:00 – 9:30 PM'
+      - 'Wednesday: 11:00 AM – 3:00 PM, 5:00 – 9:30 PM'
+      - 'Thursday: 11:00 AM – 3:00 PM, 5:00 – 9:30 PM'
+      - 'Friday: 11:00 AM – 10:00 PM'
+      - 'Saturday: 11:00 AM – 10:00 PM'
+      - 'Sunday: 12:00 – 8:00 PM'
+    secondaryHoursType: TAKEOUT
+    nextCloseTime: '2025-05-04T03:00:00Z'
 phone: (281) 651-2573
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.7'
-rating_count: 0
+rating_count: 988
 website: https://bloofinsushi.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Blōōfin Spring in Spring, TX$$$Blōōfin Spring in Spring, TX, stands out as a
+  top sushi destination offering a blend of fresh Japanese cuisine in a cozy,
+  boutique-inspired setting. This sushi restaurant delights visitors with an
+  array of expertly crafted rolls, sashimi, and tempura dishes that highlight
+  high-quality ingredients and authentic flavors, making it a go-to spot for
+  those seeking sushi restaurants nearby. Accessibility features like
+  wheelchair-friendly entrances and parking add to the welcoming vibe, ensuring
+  everyone can enjoy a relaxed meal. With extended hours including evenings and
+  weekends, it's ideal for casual lunches or dinners, perfect for anyone
+  exploring the best sushi options in the area. The menu's variety, from classic
+  sashimi to innovative plates, creates an inviting atmosphere for sushi
+  enthusiasts looking for quality dining close to home.
+generative_summary: >-
+  Blōōfin Spring in Spring, TX$$$Blōōfin Spring in Spring, TX, stands out as a
+  top sushi destination offering a blend of fresh Japanese cuisine in a cozy,
+  boutique-inspired setting. This sushi restaurant delights visitors with an
+  array of expertly crafted rolls, sashimi, and tempura dishes that highlight
+  high-quality ingredients and authentic flavors, making it a go-to spot for
+  those seeking sushi restaurants nearby. Accessibility features like
+  wheelchair-friendly entrances and parking add to the welcoming vibe, ensuring
+  everyone can enjoy a relaxed meal. With extended hours including evenings and
+  weekends, it's ideal for casual lunches or dinners, perfect for anyone
+  exploring the best sushi options in the area. The menu's variety, from classic
+  sashimi to innovative plates, creates an inviting atmosphere for sushi
+  enthusiasts looking for quality dining close to home.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJiW0v7f8yR4YRAo6_a6GPtBc/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfeTgyM3hBRRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        We came for a date night on a Saturday & we sat at the bar. Cynthia gave
+        us excellent service, start to finish. The food was fresh & so
+        delicious. Everything we had was superb but one of our favorite items
+        tonight was the Hama Chili appetizer. INCREDIBLE!!! We will definitely
+        be back.
+      languageCode: en
+    originalText:
+      text: >-
+        We came for a date night on a Saturday & we sat at the bar. Cynthia gave
+        us excellent service, start to finish. The food was fresh & so
+        delicious. Everything we had was superb but one of our favorite items
+        tonight was the Hama Chili appetizer. INCREDIBLE!!! We will definitely
+        be back.
+      languageCode: en
+    authorAttribution:
+      displayName: Lexie Swistak - Living in The Woodlands
+      uri: https://www.google.com/maps/contrib/107196760573416602954/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjX7kR3hRZCBSSlIGZ0Vf59tm63fwvPXPex0WGjLtxdZg_S1_yTcvA=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-01-19T02:09:42.803862Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNfeTgyM3hBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNfeTgyM3hBRRAB!2m1!1s0x864732ffed2f6d89:0x17b48fa16bbf8e02
+  - name: >-
+      places/ChIJiW0v7f8yR4YRAo6_a6GPtBc/reviews/ChZDSUhNMG9nS0VJQ0FnSUQzNXZlRkp3EAE
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        Overall I enjoyed our first experience there. The Monkey brains seem to
+        be popular. For me they were good, but not something I'd always order. 
+        I had the Spicy Miso Soup and that broth was great! That one was
+        definitely a re-order type of flavor. The server was very friendly and
+        had a genuine feel to him.  Atmosphere overall was professional and I
+        love the flower woodwork above.
+      languageCode: en
+    originalText:
+      text: >-
+        Overall I enjoyed our first experience there. The Monkey brains seem to
+        be popular. For me they were good, but not something I'd always order. 
+        I had the Spicy Miso Soup and that broth was great! That one was
+        definitely a re-order type of flavor. The server was very friendly and
+        had a genuine feel to him.  Atmosphere overall was professional and I
+        love the flower woodwork above.
+      languageCode: en
+    authorAttribution:
+      displayName: Cesar Rodriguez
+      uri: https://www.google.com/maps/contrib/104434075224717072095/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWlPyhyg_CMdYIyrAKoChVmTT-38jTPHdJhA4Cj0Pg2bRmi903L=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-11-14T19:44:52.216932Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQzNXZlRkp3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQzNXZlRkp3EAE!2m1!1s0x864732ffed2f6d89:0x17b48fa16bbf8e02
+  - name: >-
+      places/ChIJiW0v7f8yR4YRAo6_a6GPtBc/reviews/ChdDSUhNMG9nS0VJQ0FnSUR2NTRHTG5nRRAB
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        I visited bloofin few times for dinner. The have various of menu
+        including sashimi, nigiri and some hot plates. They also has different
+        kind of sake with detail explained in the menu. We found that bento is
+        good value of money and way to enjoy various menu. I had the uni+ikura
+        which is also good. Unagi sushi can be better but overall I enjoyed.
+      languageCode: en
+    originalText:
+      text: >-
+        I visited bloofin few times for dinner. The have various of menu
+        including sashimi, nigiri and some hot plates. They also has different
+        kind of sake with detail explained in the menu. We found that bento is
+        good value of money and way to enjoy various menu. I had the uni+ikura
+        which is also good. Unagi sushi can be better but overall I enjoyed.
+      languageCode: en
+    authorAttribution:
+      displayName: Padchy K.
+      uri: https://www.google.com/maps/contrib/118351500865624849230/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLuIQ8coB0lrgM1vgjeJeY_eMQBW0DuHawybJN9QiEL-kU9Dg=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2024-12-24T20:24:28.709513Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR2NTRHTG5nRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR2NTRHTG5nRRAB!2m1!1s0x864732ffed2f6d89:0x17b48fa16bbf8e02
+  - name: >-
+      places/ChIJiW0v7f8yR4YRAo6_a6GPtBc/reviews/ChdDSUhNMG9nS0VJQ0FnSURud295NzF3RRAB
+    relativePublishTimeDescription: 7 months ago
+    rating: 3
+    text:
+      text: >-
+        Decent service and good atmosphere. Ordered the wagyu skewers as starter
+        and they weren't great. Very chewy and overcooked so that was
+        disappointing especially based on price. Spicy edamame was ok but
+        definitely not spicy as seems they just add some seasoning but no oil to
+        mis it around. Steak fried rice was good but would say the sushi was
+        just average despite decent sized rolls. The Yami roll had so much cream
+        cheese that's all you could taste while the crazy one just lacked flavor
+        so disappointing.  The roll selection is a bit limited as well with not
+        a lot of variety.
+      languageCode: en
+    originalText:
+      text: >-
+        Decent service and good atmosphere. Ordered the wagyu skewers as starter
+        and they weren't great. Very chewy and overcooked so that was
+        disappointing especially based on price. Spicy edamame was ok but
+        definitely not spicy as seems they just add some seasoning but no oil to
+        mis it around. Steak fried rice was good but would say the sushi was
+        just average despite decent sized rolls. The Yami roll had so much cream
+        cheese that's all you could taste while the crazy one just lacked flavor
+        so disappointing.  The roll selection is a bit limited as well with not
+        a lot of variety.
+      languageCode: en
+    authorAttribution:
+      displayName: Brian Carpani, GeckoMediaGroup
+      uri: https://www.google.com/maps/contrib/111854041212764337199/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXtb84r8vgDOtkrZ5crhV8Nw8p7BXcgUD6J4Q8PcdpYPmfenEhOhA=s128-c0x00000000-cc-rp-mo-ba8
+    publishTime: '2024-10-04T11:38:41.879801Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURud295NzF3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURud295NzF3RRAB!2m1!1s0x864732ffed2f6d89:0x17b48fa16bbf8e02
+  - name: >-
+      places/ChIJiW0v7f8yR4YRAo6_a6GPtBc/reviews/ChZDSUhNMG9nS0VJQ0FnTUNndWZlZktBEAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 1
+    text:
+      text: >-
+        Food that was delivered was missing some pieces...unsure if the
+        restaurant didnt pack it full or the doordash driver Carlos ate some en
+        route.  ...No recourse whatsoever because I ordered via the site.
+        Expensive lesson has been learned...
+      languageCode: en
+    originalText:
+      text: >-
+        Food that was delivered was missing some pieces...unsure if the
+        restaurant didnt pack it full or the doordash driver Carlos ate some en
+        route.  ...No recourse whatsoever because I ordered via the site.
+        Expensive lesson has been learned...
+      languageCode: en
+    authorAttribution:
+      displayName: La
+      uri: https://www.google.com/maps/contrib/111236149274939403649/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUb28snedRMirMQwkJrdVXTEK-DwhzMT4EBKNNfPm_yPJVupNa4=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-02-19T01:29:35.354028Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNndWZlZktBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNndWZlZktBEAE!2m1!1s0x864732ffed2f6d89:0x17b48fa16bbf8e02
+review_summary: >-
+  Customer Feedback Highlights$$$Visitors to this sushi spot often rave about
+  the fresh, flavorful dishes that make every bite memorable, with standout
+  items like creative rolls and appetizers earning high praise for their taste
+  and presentation. While most folks appreciate the friendly service and elegant
+  ambiance that enhance the overall experience, a few note that some dishes
+  could vary in consistency for the best results. Overall, the restaurant scores
+  big for its diverse sake selection and high-quality ingredients, drawing in
+  groups and families who enjoy a casual yet refined vibe. If you're hunting for
+  top-rated sushi nearby, this place generally delivers a solid meal that keeps
+  diners coming back, though it's wise to expect a mix of hits and the
+  occasional miss based on shared experiences. In a nutshell, it's a reliable
+  choice for anyone craving Japanese flavors done right, with the positives far
+  outweighing any minor setbacks.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: true
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
 serves_breakfast: null
 serves_brunch: null
-serves_cocktails: null
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Relaxed strip-mall outpost offering Japanese fare from sushi rolls to sashimi
+  & tempura plates.
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Waki"
+title: Waki
 permalink: /california/alameda/waki.html
 stateAbbr: CA
 stateName: California
 cityName: Alameda
 seo:
-  name: "Waki"
-  type: Restaurant
+  type: restaurant
   links: https://www.wakisushi1403.com/
-description: "Waki serves delicious sushi in Alameda, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJkTHW2l6Bj4AR9ayFQ-J4Kqw
 photos:
   - name: >-
@@ -170,7 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x808f815edad63191:0xac2a78e24385acf5!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 14
+        minute: 30
+    - open:
+        day: 0
+        hour: 16
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 5:00 – 9:00 PM'
     - 'Tuesday: 5:00 – 9:00 PM'
     - 'Wednesday: 5:00 – 9:00 PM'
@@ -178,14 +242,7 @@ opening_hours:
     - 'Friday: 5:00 – 9:00 PM'
     - 'Saturday: 5:00 – 9:00 PM'
     - 'Sunday: 12:00 – 2:30 PM, 4:00 – 9:00 PM'
-  current:
-    - 'Monday: 5:00 – 9:00 PM'
-    - 'Tuesday: 5:00 – 9:00 PM'
-    - 'Wednesday: 5:00 – 9:00 PM'
-    - 'Thursday: 5:00 – 9:00 PM'
-    - 'Friday: 5:00 – 9:00 PM'
-    - 'Saturday: 5:00 – 9:00 PM'
-    - 'Sunday: 12:00 – 2:30 PM, 4:00 – 9:00 PM'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,36 +253,208 @@ secondary_opening_hours:
 phone: (510) 217-8396
 price_level: PRICE_LEVEL_MODERATE
 price_range: $30 &ndash; $50
-rating: '4.7'
-rating_count: 0
+rating: '4.6'
+rating_count: 99
 website: https://www.wakisushi1403.com/
-reviews: null
+description: >-
+  Discover Waki in Alameda, CA$$$Nestled in Alameda, CA, Waki offers a
+  delightful array of classic Japanese dishes, including fresh sashimi and
+  nigiri, served in a welcoming and relaxed setting that highlights traditional
+  flavors. This sushi spot stands out for its commitment to quality ingredients
+  and a cozy atmosphere, making it a go-to choice for those seeking authentic
+  Japanese dining experiences nearby. Patrons can enjoy a variety of rolls and
+  plates that emphasize simplicity and taste, paired with options like sake to
+  enhance the meal. The restaurant's accessibility features ensure a comfortable
+  visit, while its moderate pricing adds to the appeal for anyone exploring
+  top-rated sushi options in the area.
+generative_summary: >-
+  Discover Waki in Alameda, CA$$$Nestled in Alameda, CA, Waki offers a
+  delightful array of classic Japanese dishes, including fresh sashimi and
+  nigiri, served in a welcoming and relaxed setting that highlights traditional
+  flavors. This sushi spot stands out for its commitment to quality ingredients
+  and a cozy atmosphere, making it a go-to choice for those seeking authentic
+  Japanese dining experiences nearby. Patrons can enjoy a variety of rolls and
+  plates that emphasize simplicity and taste, paired with options like sake to
+  enhance the meal. The restaurant's accessibility features ensure a comfortable
+  visit, while its moderate pricing adds to the appeal for anyone exploring
+  top-rated sushi options in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJkTHW2l6Bj4AR9ayFQ-J4Kqw/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJOUsyQ0hnEAE
+    relativePublishTimeDescription: a month ago
+    rating: 4
+    text:
+      text: >-
+        Nice place for sushi! The fish was fresh and delicious. My only
+        complaint is the sashimi was cut too thick and the miso soup tasted old.
+        I will stick with the rolls next time but this place is good value!
+      languageCode: en
+    originalText:
+      text: >-
+        Nice place for sushi! The fish was fresh and delicious. My only
+        complaint is the sashimi was cut too thick and the miso soup tasted old.
+        I will stick with the rolls next time but this place is good value!
+      languageCode: en
+    authorAttribution:
+      displayName: Alex Wiley
+      uri: https://www.google.com/maps/contrib/106490561140064465097/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWnkNpW75yf_YSVLdNZNFpC9X7tUPLRR6VHZhV2IM6phIPuBG3ZPA=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-03-30T19:46:49.802301Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNJOUsyQ0hnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNJOUsyQ0hnEAE!2m1!1s0x808f815edad63191:0xac2a78e24385acf5
+  - name: >-
+      places/ChIJkTHW2l6Bj4AR9ayFQ-J4Kqw/reviews/ChdDSUhNMG9nS0VJQ0FnSUN2NzlfbXZBRRAB
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        Great service, delicious food. They were even nice enough to give us a
+        free dessert for my birthday. Great option for a nice dinner out
+      languageCode: en
+    originalText:
+      text: >-
+        Great service, delicious food. They were even nice enough to give us a
+        free dessert for my birthday. Great option for a nice dinner out
+      languageCode: en
+    authorAttribution:
+      displayName: Randy Tseng
+      uri: https://www.google.com/maps/contrib/102816015967714211111/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWot4EBKPqbpD4NniJDvbp7fLzeQPKIZKrQn6OeaAvBOwocbSz9=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-12-16T04:52:05.386902Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN2NzlfbXZBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN2NzlfbXZBRRAB!2m1!1s0x808f815edad63191:0xac2a78e24385acf5
+  - name: >-
+      places/ChIJkTHW2l6Bj4AR9ayFQ-J4Kqw/reviews/ChZDSUhNMG9nS0VJQ0FnTURvcnI3WlVBEAE
+    relativePublishTimeDescription: a week ago
+    rating: 3
+    text:
+      text: >-
+        The sushi has been really good . I ordered dessert and the cheesecake is
+        so tiny! I added a soy sauce packet for reference
+      languageCode: en
+    originalText:
+      text: >-
+        The sushi has been really good . I ordered dessert and the cheesecake is
+        so tiny! I added a soy sauce packet for reference
+      languageCode: en
+    authorAttribution:
+      displayName: EV Ellington
+      uri: https://www.google.com/maps/contrib/105448110426652918691/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVIFOMUvEy05-kXRpwV91XPONA4vADRGYdYOiHyfL7HryMLHOU=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-25T02:03:42.872327Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURvcnI3WlVBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURvcnI3WlVBEAE!2m1!1s0x808f815edad63191:0xac2a78e24385acf5
+  - name: >-
+      places/ChIJkTHW2l6Bj4AR9ayFQ-J4Kqw/reviews/ChZDSUhNMG9nS0VJQ0FnTUNnZ01tZEtBEAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 4
+    text:
+      text: >-
+        The hamachi and wagyu nigiri were wonderful! The restaurant is very
+        clean and minimalistic, and the staff was really friendly. We enjoyed
+        sake throughout dinner. The end of dinner was finished with a lychee
+        drink and a yuzu cheesecake.  Everything was really fresh.
+      languageCode: en
+    originalText:
+      text: >-
+        The hamachi and wagyu nigiri were wonderful! The restaurant is very
+        clean and minimalistic, and the staff was really friendly. We enjoyed
+        sake throughout dinner. The end of dinner was finished with a lychee
+        drink and a yuzu cheesecake.  Everything was really fresh.
+      languageCode: en
+    authorAttribution:
+      displayName: Jennifer Herzog
+      uri: https://www.google.com/maps/contrib/114804420246204851955/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjW4oUSz4R0ikTREXozoCApiK8P_PA990Dc-qEZvuBBghFTDNkkk=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-02-13T05:34:41.103380Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNnZ01tZEtBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNnZ01tZEtBEAE!2m1!1s0x808f815edad63191:0xac2a78e24385acf5
+  - name: >-
+      places/ChIJkTHW2l6Bj4AR9ayFQ-J4Kqw/reviews/ChZDSUhNMG9nS0VJQ0FnSURCOHNibkx3EAE
+    relativePublishTimeDescription: 2 years ago
+    rating: 5
+    text:
+      text: >-
+        We had late Sunday night dinner during last call. The staff was helpful
+        with questions in the menu and the whole experience didn't disappoint.
+        Every dish was delicate, well prepared, and wonderfully fragrant, bite
+        after bite. What a delight to find such find Japanese restaurant in
+        Alameda. Highly recommended and we'll definitely be back!
+      languageCode: en
+    originalText:
+      text: >-
+        We had late Sunday night dinner during last call. The staff was helpful
+        with questions in the menu and the whole experience didn't disappoint.
+        Every dish was delicate, well prepared, and wonderfully fragrant, bite
+        after bite. What a delight to find such find Japanese restaurant in
+        Alameda. Highly recommended and we'll definitely be back!
+      languageCode: en
+    authorAttribution:
+      displayName: Alexandre Conrad-Dormoy
+      uri: https://www.google.com/maps/contrib/102467778598564788019/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWN28R9bnHjji7sMjTuyPepf1o4nl1e6SWUgWAR8eBZIeRBd8ZcQQ=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2023-01-16T05:53:33.797521Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURCOHNibkx3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURCOHNibkx3EAE!2m1!1s0x808f815edad63191:0xac2a78e24385acf5
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this Japanese eatery often rave about
+  the fresh and flavorful sushi selections, noting that the dishes deliver a
+  satisfying balance of quality and taste that keeps them coming back for more.
+  Many appreciate the attentive service and inviting ambiance, which contribute
+  to a pleasant dining experience ideal for casual evenings or special
+  occasions. While some mention minor inconsistencies like portion sizes on
+  certain items, the overall value and variety of options make it a solid pick
+  for sushi lovers in the neighborhood. Feedback highlights the friendly staff
+  and well-prepared meals, creating a positive vibe that encourages repeat
+  visits. In essence, it's a reliable spot for enjoying Japanese cuisine, with
+  enough highlights to appeal to anyone searching for great local sushi spots.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
-payment_options: null
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
+delivery: true
+dine_in: true
+good_for_children: true
 good_for_groups: null
-good_for_sports: null
-live_music: null
+good_for_sports: false
+live_music: false
 menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
 serves_breakfast: null
 serves_brunch: null
 serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

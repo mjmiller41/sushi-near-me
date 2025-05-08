@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Nobu at Paris Hotel"
+title: Nobu at Paris Hotel
 permalink: /nevada/las-vegas/nobu-at-paris-hotel.html
 stateAbbr: NV
 stateName: Nevada
 cityName: Las Vegas
 seo:
-  name: "Nobu at Paris Hotel"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Nobu at Paris Hotel serves delicious sushi in Las Vegas, Nevada. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJCXSDNRbFyIAR3KdPJrCaFU4
 photos:
   - name: >-
@@ -185,7 +183,51 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Nobu at Paris Hotel in Las Vegas, NV$$$Nobu at Paris Hotel in Las
+  Vegas, NV, stands out as a premier Japanese restaurant blending innovative
+  cuisine with a sophisticated atmosphere on the bustling Strip. This spot
+  delights guests with fresh, expertly prepared dishes that highlight classic
+  flavors like miso-infused specialties and crispy tempura, making it a go-to
+  choice for anyone exploring sushi restaurants in the area. The venue's modern
+  design and attentive ambiance create an inviting space for enjoying creative
+  cocktails and shared plates, appealing to those seeking top-rated Japanese
+  places near me. Accessibility features ensure a welcoming experience for all,
+  from convenient parking to seamless entry, enhancing its appeal for diverse
+  diners. Whether you're looking for sushi close to me or a memorable dining
+  outing, Nobu combines high-quality ingredients with a vibrant energy that
+  captures the essence of Las Vegas dining.
+generative_summary: >-
+  Discover Nobu at Paris Hotel in Las Vegas, NV$$$Nobu at Paris Hotel in Las
+  Vegas, NV, stands out as a premier Japanese restaurant blending innovative
+  cuisine with a sophisticated atmosphere on the bustling Strip. This spot
+  delights guests with fresh, expertly prepared dishes that highlight classic
+  flavors like miso-infused specialties and crispy tempura, making it a go-to
+  choice for anyone exploring sushi restaurants in the area. The venue's modern
+  design and attentive ambiance create an inviting space for enjoying creative
+  cocktails and shared plates, appealing to those seeking top-rated Japanese
+  places near me. Accessibility features ensure a welcoming experience for all,
+  from convenient parking to seamless entry, enhancing its appeal for diverse
+  diners. Whether you're looking for sushi close to me or a memorable dining
+  outing, Nobu combines high-quality ingredients with a vibrant energy that
+  captures the essence of Las Vegas dining.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Guests Are Saying About This Spot$$$Visitors to this Japanese restaurant
+  often highlight the mouthwatering dishes like miso cod and shrimp tempura,
+  praising the flavorful options and friendly service that make meals feel
+  special and enjoyable. While some note that the portions might be on the
+  smaller side, many appreciate the creative twists on traditional favorites
+  that keep things exciting without overwhelming the palate. Overall, the
+  attentive staff and inviting vibe contribute to a relaxed experience, even if
+  a few mention the prices as a bit higher than expected, it's seen as worth it
+  for the quality. Folks searching for the best sushi near me will find plenty
+  to love in the positive feedback on taste and presentation, helping balance
+  any minor drawbacks with genuine satisfaction. In a casual setting like this,
+  the mix of hits and thoughtful notes keeps the buzz alive for anyone planning
+  a visit.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +253,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

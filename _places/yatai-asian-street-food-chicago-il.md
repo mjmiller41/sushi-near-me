@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "YATAI Asian Street Food"
+title: YATAI Asian Street Food
 permalink: /illinois/chicago/yatai-asian-street-food.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
 seo:
-  name: "YATAI Asian Street Food"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "YATAI Asian Street Food serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJtcJnPSHRD4gR3JCgw2GtwGc
 photos:
   - name: >-
@@ -169,7 +167,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x880fd1213d67c2b5:0x67c0ad61c3a090dc!10e5
 primary_type: Asian Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 10:00 PM'
     - 'Tuesday: 11:30 AM – 10:00 PM'
     - 'Wednesday: 11:30 AM – 10:00 PM'
@@ -177,14 +233,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 10:30 PM'
     - 'Saturday: 11:30 AM – 10:30 PM'
     - 'Sunday: 11:30 AM – 9:30 PM'
-  current:
-    - 'Monday: 11:30 AM – 10:00 PM'
-    - 'Tuesday: 11:30 AM – 10:00 PM'
-    - 'Wednesday: 11:30 AM – 10:00 PM'
-    - 'Thursday: 11:30 AM – 10:00 PM'
-    - 'Friday: 11:30 AM – 10:30 PM'
-    - 'Saturday: 11:30 AM – 10:30 PM'
-    - 'Sunday: 11:30 AM – 9:30 PM'
+  nextCloseTime: '2025-05-04T03:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,9 +245,43 @@ phone: (773) 961-8000
 price_level: null
 price_range: $10 &ndash; $20
 rating: '4.4'
-rating_count: 0
+rating_count: 316
 website: null
+description: >-
+  Explore YATAI Asian Street Food in Chicago, IL$$$YATAI Asian Street Food in
+  Chicago, IL, brings a casual vibe to pan-Asian dining with a focus on fresh,
+  flavorful dishes that highlight authentic flavors. This spot serves up a
+  variety of options including sushi and ramen, making it a go-to for those
+  seeking tasty Asian cuisine close to home. With wheelchair-accessible
+  entrances and seating, it's designed for everyone to enjoy a comfortable meal,
+  while its extended hours from late morning into the evening add to the
+  convenience. The menu draws from familiar street food inspirations, offering a
+  relaxed atmosphere perfect for quick lunches or relaxed dinners, and it's one
+  of the reliable sushi places near me for quality without the fuss.
+generative_summary: >-
+  Explore YATAI Asian Street Food in Chicago, IL$$$YATAI Asian Street Food in
+  Chicago, IL, brings a casual vibe to pan-Asian dining with a focus on fresh,
+  flavorful dishes that highlight authentic flavors. This spot serves up a
+  variety of options including sushi and ramen, making it a go-to for those
+  seeking tasty Asian cuisine close to home. With wheelchair-accessible
+  entrances and seating, it's designed for everyone to enjoy a comfortable meal,
+  while its extended hours from late morning into the evening add to the
+  convenience. The menu draws from familiar street food inspirations, offering a
+  relaxed atmosphere perfect for quick lunches or relaxed dinners, and it's one
+  of the reliable sushi places near me for quality without the fuss.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback Highlights$$$Visitors to this Asian eatery often rave about
+  the fresh sushi and hearty ramen, noting how the flavors hit the spot every
+  time. Many appreciate the welcoming atmosphere and solid value for money,
+  making it a favorite for casual meals with friends or family. While some
+  mention minor waits during peak times, the overall experience is praised for
+  its reliable taste and friendly service, contributing to its strong reputation
+  among top-rated sushi spots. If you're hunting for sushi restaurants near me,
+  this place stands out for its consistent quality and approachable vibe,
+  leaving most people satisfied and eager to return.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -224,7 +307,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

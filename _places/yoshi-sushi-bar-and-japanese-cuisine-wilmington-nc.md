@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yoshi Sushi Bar and Japanese Cuisine"
+title: Yoshi Sushi Bar and Japanese Cuisine
 permalink: /north-carolina/wilmington/yoshi-sushi-bar-and-japanese-cuisine.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Wilmington
 seo:
-  name: "Yoshi Sushi Bar and Japanese Cuisine"
-  type: Restaurant
+  type: restaurant
   links: https://yoshisushibartogo.com/
-description: "Yoshi Sushi Bar and Japanese Cuisine serves delicious sushi in Wilmington, North Carolina. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJQYUlT8L0qYkRxTJ3kbOwXC8
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89a9f4c24f258541:0x2f5cb0b3917732c5!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 9:00 PM'
     - 'Tuesday: 11:30 AM – 9:00 PM'
     - 'Wednesday: 11:30 AM – 9:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 10:00 PM'
     - 'Saturday: 11:30 AM – 10:00 PM'
     - 'Sunday: 11:30 AM – 9:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 9:00 PM'
-    - 'Tuesday: 11:30 AM – 9:00 PM'
-    - 'Wednesday: 11:30 AM – 9:00 PM'
-    - 'Thursday: 11:30 AM – 9:00 PM'
-    - 'Friday: 11:30 AM – 10:00 PM'
-    - 'Saturday: 11:30 AM – 10:00 PM'
-    - 'Sunday: 11:30 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +246,46 @@ phone: (910) 799-6799
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '3.9'
-rating_count: 0
+rating_count: 544
 website: https://yoshisushibartogo.com/
+description: >-
+  Discover Yoshi Sushi Bar in Wilmington, NC$$$Yoshi Sushi Bar and Japanese
+  Cuisine in Wilmington, NC, stands out as a go-to spot for authentic flavors
+  and relaxed dining, featuring a menu that highlights fresh seafood rolls,
+  sizzling hibachi options, and hearty bento boxes. This casual eatery brings
+  together traditional Japanese elements with modern twists, including
+  satisfying poke bowls and special deals that make it easy to enjoy a meal
+  without breaking the bank. Visitors appreciate the welcoming atmosphere and
+  thoughtful accessibility features, ensuring everyone can savor the experience
+  comfortably. Whether you're craving expertly prepared dishes or looking for a
+  quick bite in a vibrant setting, this location delivers on quality and variety
+  that keeps locals coming back for more.
+generative_summary: >-
+  Discover Yoshi Sushi Bar in Wilmington, NC$$$Yoshi Sushi Bar and Japanese
+  Cuisine in Wilmington, NC, stands out as a go-to spot for authentic flavors
+  and relaxed dining, featuring a menu that highlights fresh seafood rolls,
+  sizzling hibachi options, and hearty bento boxes. This casual eatery brings
+  together traditional Japanese elements with modern twists, including
+  satisfying poke bowls and special deals that make it easy to enjoy a meal
+  without breaking the bank. Visitors appreciate the welcoming atmosphere and
+  thoughtful accessibility features, ensuring everyone can savor the experience
+  comfortably. Whether you're craving expertly prepared dishes or looking for a
+  quick bite in a vibrant setting, this location delivers on quality and variety
+  that keeps locals coming back for more.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Guests Are Saying$$$Folks exploring sushi spots in the area often
+  highlight the tasty, well-prepared dishes at this Wilmington favorite, with
+  many noting the fresh ingredients and solid flavors that hit the spot every
+  time. While some mention occasional waits during peak hours, the overall vibe
+  remains positive, thanks to attentive service and reasonable prices that offer
+  great value. Diners frequently enjoy the variety of options, from creative
+  rolls to satisfying entrees, making it a reliable choice for groups or solo
+  outings. All in all, the feedback paints a picture of a welcoming place where
+  the food consistently impresses, encouraging repeat visits for anyone seeking
+  dependable Japanese-inspired meals nearby.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +311,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

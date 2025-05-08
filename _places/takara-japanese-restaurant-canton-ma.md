@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Takara Japanese Restaurant"
+title: Takara Japanese Restaurant
 permalink: /massachusetts/canton/takara-japanese-restaurant.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Canton
 seo:
-  name: "Takara Japanese Restaurant"
-  type: Restaurant
+  type: restaurant
   links: http://www.takarajapaneserestaurant.com/
-description: "Takara Japanese Restaurant serves delicious sushi in Canton, Massachusetts. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJj2oWON-A5IkR-UfQbR4zyug
 photos:
   - name: >-
@@ -169,7 +167,105 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89e480df38166a8f:0xe8ca331e6dd047f9!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 15
+        minute: 0
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 15
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 3:00 PM, 5:00 – 9:30 PM'
     - 'Tuesday: 11:30 AM – 3:00 PM, 5:00 – 9:30 PM'
     - 'Wednesday: 11:30 AM – 3:00 PM, 5:00 – 9:30 PM'
@@ -177,14 +273,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 3:00 PM, 5:00 – 10:30 PM'
     - 'Saturday: 12:00 – 10:30 PM'
     - 'Sunday: 5:00 – 9:30 PM'
-  current:
-    - 'Monday: 11:30 AM – 3:00 PM, 5:00 – 9:30 PM'
-    - 'Tuesday: 11:30 AM – 3:00 PM, 5:00 – 9:30 PM'
-    - 'Wednesday: 11:30 AM – 3:00 PM, 5:00 – 9:30 PM'
-    - 'Thursday: 11:30 AM – 3:00 PM, 5:00 – 9:30 PM'
-    - 'Friday: 11:30 AM – 3:00 PM, 5:00 – 10:30 PM'
-    - 'Saturday: 12:00 – 10:30 PM'
-    - 'Sunday: 5:00 – 9:30 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,9 +285,52 @@ phone: (781) 821-8822
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.3'
-rating_count: 0
+rating_count: 288
 website: http://www.takarajapaneserestaurant.com/
+description: >-
+  Discover Takara Japanese Restaurant in Canton, Massachusetts$$$Takara Japanese
+  Restaurant in Canton, Massachusetts, stands out as a welcoming spot for
+  authentic Japanese cuisine, featuring a menu that highlights fresh sushi rolls
+  and hearty bibimbap in a relaxed setting. This establishment combines casual
+  dining with thoughtful touches like wheelchair-accessible seating and parking,
+  making it an inclusive choice for everyone seeking quality meals. Visitors can
+  enjoy a variety of Japanese dishes that emphasize fresh ingredients and
+  traditional flavors, perfect for those exploring local sushi options or
+  craving a taste of Asia. The restaurant's convenient hours, including lunch
+  and dinner service throughout the week, add to its appeal for spontaneous
+  visits or planned outings. With its moderate pricing and inviting atmosphere,
+  it's an ideal destination for anyone looking to savor top-notch Japanese fare
+  close to home.
+generative_summary: >-
+  Discover Takara Japanese Restaurant in Canton, Massachusetts$$$Takara Japanese
+  Restaurant in Canton, Massachusetts, stands out as a welcoming spot for
+  authentic Japanese cuisine, featuring a menu that highlights fresh sushi rolls
+  and hearty bibimbap in a relaxed setting. This establishment combines casual
+  dining with thoughtful touches like wheelchair-accessible seating and parking,
+  making it an inclusive choice for everyone seeking quality meals. Visitors can
+  enjoy a variety of Japanese dishes that emphasize fresh ingredients and
+  traditional flavors, perfect for those exploring local sushi options or
+  craving a taste of Asia. The restaurant's convenient hours, including lunch
+  and dinner service throughout the week, add to its appeal for spontaneous
+  visits or planned outings. With its moderate pricing and inviting atmosphere,
+  it's an ideal destination for anyone looking to savor top-notch Japanese fare
+  close to home.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Sharing$$$From what people are saying online, Takara
+  Japanese Restaurant seems to hit the mark with its flavorful sushi and overall
+  vibe, earning solid praise for fresh ingredients and reliable service that
+  keeps diners coming back. Many appreciate the generous portions and variety of
+  options, making it a go-to for casual meals or group gatherings without
+  breaking the bank. While a few mentions note occasional wait times during peak
+  hours, the general consensus leans positive, highlighting the welcoming staff
+  and tasty dishes as standout features. Folks often describe the experience as
+  enjoyable and worth recommending, especially for those hunting for reliable
+  Japanese spots nearby. Overall, it's clear this place maintains a strong
+  reputation for delivering a satisfying meal that balances quality and
+  affordability.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -224,7 +356,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

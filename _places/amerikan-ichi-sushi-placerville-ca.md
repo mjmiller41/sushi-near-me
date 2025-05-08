@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Amerikan Ichi Sushi"
+title: Amerikan Ichi Sushi
 permalink: /california/placerville/amerikan-ichi-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Placerville
 seo:
-  name: "Amerikan Ichi Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://amerikanichi.com/
-description: "Amerikan Ichi Sushi serves delicious sushi in Placerville, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJtymUCLxQmoARMoQhwCZFmD8
 photos:
   - name: >-
@@ -170,7 +168,49 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x809a50bc089429b7:0x3f984526c0218432!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 2
+        hour: 12
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 0
+    - open:
+        day: 3
+        hour: 12
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 0
+    - open:
+        day: 4
+        hour: 12
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 0
+    - open:
+        day: 5
+        hour: 12
+        minute: 0
+      close:
+        day: 5
+        hour: 20
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 20
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 12:00 – 8:00 PM'
     - 'Wednesday: 12:00 – 8:00 PM'
@@ -178,14 +218,7 @@ opening_hours:
     - 'Friday: 12:00 – 8:00 PM'
     - 'Saturday: 12:00 – 8:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 12:00 – 8:00 PM'
-    - 'Wednesday: 12:00 – 8:00 PM'
-    - 'Thursday: 12:00 – 8:00 PM'
-    - 'Friday: 12:00 – 8:00 PM'
-    - 'Saturday: 12:00 – 8:00 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +230,264 @@ phone: (530) 409-0419
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.3'
-rating_count: 0
+rating_count: 658
 website: https://amerikanichi.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Amerikan Ichi Sushi in Placerville, CA$$$Amerikan Ichi Sushi in
+  Placerville, CA, is a trendy fusion spot that brings together fresh Japanese
+  flavors and modern comforts, making it a go-to for those exploring sushi
+  restaurants nearby. Located in a relaxed setting with outdoor seating, it
+  offers an all-you-can-eat menu featuring high-quality ingredients and quick,
+  satisfying bites that blend traditional sushi with innovative twists. The
+  restaurant prioritizes accessibility, ensuring a welcoming environment for all
+  diners, while its moderate pricing adds to the appeal for everyday meals.
+  Whether you're in the mood for classic rolls or something more adventurous,
+  this hidden gem in the area delivers a delightful dining experience that
+  stands out among local Japanese places.
+generative_summary: >-
+  Discover Amerikan Ichi Sushi in Placerville, CA$$$Amerikan Ichi Sushi in
+  Placerville, CA, is a trendy fusion spot that brings together fresh Japanese
+  flavors and modern comforts, making it a go-to for those exploring sushi
+  restaurants nearby. Located in a relaxed setting with outdoor seating, it
+  offers an all-you-can-eat menu featuring high-quality ingredients and quick,
+  satisfying bites that blend traditional sushi with innovative twists. The
+  restaurant prioritizes accessibility, ensuring a welcoming environment for all
+  diners, while its moderate pricing adds to the appeal for everyday meals.
+  Whether you're in the mood for classic rolls or something more adventurous,
+  this hidden gem in the area delivers a delightful dining experience that
+  stands out among local Japanese places.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJtymUCLxQmoARMoQhwCZFmD8/reviews/ChZDSUhNMG9nS0VJQ0FnSURUOHNxeWVnEAE
+    relativePublishTimeDescription: 11 months ago
+    rating: 5
+    text:
+      text: >-
+        I had an excellent dining experience at Amerikan Ichi in Placerville,
+        CA. This clean and cozy spot serves amazing food with high-quality sushi
+        and fresh ingredients. The customer service was outstanding, making the
+        entire experience even better. Highly recommend for anyone looking for a
+        top-notch sushi place!… oh, and the Lobster roll, everyone needs to try
+        at least once, so good!
+      languageCode: en
+    originalText:
+      text: >-
+        I had an excellent dining experience at Amerikan Ichi in Placerville,
+        CA. This clean and cozy spot serves amazing food with high-quality sushi
+        and fresh ingredients. The customer service was outstanding, making the
+        entire experience even better. Highly recommend for anyone looking for a
+        top-notch sushi place!… oh, and the Lobster roll, everyone needs to try
+        at least once, so good!
+      languageCode: en
+    authorAttribution:
+      displayName: Parker McKee
+      uri: https://www.google.com/maps/contrib/117440977119262764381/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLzr2xr730TXiDyWJBSlt8rnmcCZvWFuczlsPDfz1DLVagf_K4=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-05-23T19:16:31.589371Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURUOHNxeWVnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURUOHNxeWVnEAE!2m1!1s0x809a50bc089429b7:0x3f984526c0218432
+  - name: >-
+      places/ChIJtymUCLxQmoARMoQhwCZFmD8/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3aFoyTGpBRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 2
+    text:
+      text: >-
+        I used to proudly bring people in for family dinners or dates here but
+        something has majorly changed. Lately I've had several lackluster
+        experiences and I don't think I'll go back. This most recent time we
+        came in between lunch and dinner and there really wasn't a lot going on,
+        so while we anticipated waiting a little bit (we were not in a hurry,
+        and notable that they literally have signs posted saying you'll wait 30
+        minutes for sushi...) we were watching the sushi guy talk with friends
+        instead of making sushi. Picture it dwindling down to one other party in
+        the whole place and we can literally see that they're not making any
+        sushi. When it finally did come out, the salmon nigiri was NOT fresh
+        tasting - yikes. While our waitress offered to correct the part of the
+        order that they had misread/not made correctly, which was appreciated,
+        at that point we didn't want to wait longer (who knows how long) for the
+        quality of fish. So, while the waitress was very nice and apologetic for
+        both the wait and the error, there's not much that can salvage the rest
+        of the experience. I can understand being patient but not when the sushi
+        staff is just, not working, for an extended period of time? I feel like
+        the quality issue is new, however - prior, service fluctuated,
+        especially when it was busy, but quality was not questionable. I
+        understand there are off days but it's been 3 not great experiences in a
+        row and the not-fresh salmon sealed the deal unfortunately.
+      languageCode: en
+    originalText:
+      text: >-
+        I used to proudly bring people in for family dinners or dates here but
+        something has majorly changed. Lately I've had several lackluster
+        experiences and I don't think I'll go back. This most recent time we
+        came in between lunch and dinner and there really wasn't a lot going on,
+        so while we anticipated waiting a little bit (we were not in a hurry,
+        and notable that they literally have signs posted saying you'll wait 30
+        minutes for sushi...) we were watching the sushi guy talk with friends
+        instead of making sushi. Picture it dwindling down to one other party in
+        the whole place and we can literally see that they're not making any
+        sushi. When it finally did come out, the salmon nigiri was NOT fresh
+        tasting - yikes. While our waitress offered to correct the part of the
+        order that they had misread/not made correctly, which was appreciated,
+        at that point we didn't want to wait longer (who knows how long) for the
+        quality of fish. So, while the waitress was very nice and apologetic for
+        both the wait and the error, there's not much that can salvage the rest
+        of the experience. I can understand being patient but not when the sushi
+        staff is just, not working, for an extended period of time? I feel like
+        the quality issue is new, however - prior, service fluctuated,
+        especially when it was busy, but quality was not questionable. I
+        understand there are off days but it's been 3 not great experiences in a
+        row and the not-fresh salmon sealed the deal unfortunately.
+      languageCode: en
+    authorAttribution:
+      displayName: Lindsey
+      uri: https://www.google.com/maps/contrib/107614107210958323343/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVO1UvN9u9jQoO6U9qoZJ45AZU4o3IgKXQqCUH4P_XQQjtvJWrb=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2025-03-27T03:02:32.320715Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUR3aFoyTGpBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUR3aFoyTGpBRRAB!2m1!1s0x809a50bc089429b7:0x3f984526c0218432
+  - name: >-
+      places/ChIJtymUCLxQmoARMoQhwCZFmD8/reviews/ChdDSUhNMG9nS0VJQ0FnTURvOFpxNG1nRRAB
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        The food is the BEST I’ve ever had. I highly recommend the Sakura roll
+        for anyone looking for a nonspicy heated roll. The only bad thing is
+        sometimes the food comes in a half hour but it is definitely worth it
+      languageCode: en
+    originalText:
+      text: >-
+        The food is the BEST I’ve ever had. I highly recommend the Sakura roll
+        for anyone looking for a nonspicy heated roll. The only bad thing is
+        sometimes the food comes in a half hour but it is definitely worth it
+      languageCode: en
+    authorAttribution:
+      displayName: My Roku TV
+      uri: https://www.google.com/maps/contrib/100960472070755978142/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIDNpu81CGG9ITBIYNDlnSPtPD_JNPdKK2FeN5Tj7XN0vPUFA=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-26T03:16:20.873994Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURvOFpxNG1nRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURvOFpxNG1nRRAB!2m1!1s0x809a50bc089429b7:0x3f984526c0218432
+  - name: >-
+      places/ChIJtymUCLxQmoARMoQhwCZFmD8/reviews/ChdDSUhNMG9nS0VJQ0FnTURBMjYtWHZnRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 2
+    text:
+      text: >-
+        Normally the service is really good! Tonight they were playing the music
+        way tooo loud and they were literally dancing instead of paying
+        attention to customer and did not refill any drinks and I had to ask
+        them to finally bring the check. You can have fun at work but you still
+        have to pay attention to your customers. Hopefully next time will be
+        better!
+      languageCode: en
+    originalText:
+      text: >-
+        Normally the service is really good! Tonight they were playing the music
+        way tooo loud and they were literally dancing instead of paying
+        attention to customer and did not refill any drinks and I had to ask
+        them to finally bring the check. You can have fun at work but you still
+        have to pay attention to your customers. Hopefully next time will be
+        better!
+      languageCode: en
+    authorAttribution:
+      displayName: Pamela Harris
+      uri: https://www.google.com/maps/contrib/105994471535822704756/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocItuIM2LrvXBY21pjneQHZWi7IrOPlGlYTPIWs1_yTnLueyzQ=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-02-12T04:22:52.161785Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURBMjYtWHZnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURBMjYtWHZnRRAB!2m1!1s0x809a50bc089429b7:0x3f984526c0218432
+  - name: >-
+      places/ChIJtymUCLxQmoARMoQhwCZFmD8/reviews/ChZDSUhNMG9nS0VJQ0FnSUN6MC1idVB3EAE
+    relativePublishTimeDescription: 11 months ago
+    rating: 1
+    text:
+      text: >-
+        Worse experience ever! I used to love this place. Food was thrown
+        together, took 40 minutes. Asked the male member of staff for soy sauce,
+        he decided to ogle a female in front of her boyfriend instead. Even when
+        I walked passed him to get what I needed from another area and said,
+        dreadful service he didn’t flinch! Not bothering with place again. Such
+        a shame, it used to be good.
+      languageCode: en
+    originalText:
+      text: >-
+        Worse experience ever! I used to love this place. Food was thrown
+        together, took 40 minutes. Asked the male member of staff for soy sauce,
+        he decided to ogle a female in front of her boyfriend instead. Even when
+        I walked passed him to get what I needed from another area and said,
+        dreadful service he didn’t flinch! Not bothering with place again. Such
+        a shame, it used to be good.
+      languageCode: en
+    authorAttribution:
+      displayName: Sonia Lacayo
+      uri: https://www.google.com/maps/contrib/116884957252824216760/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocL-gPeX8C0b6aDgE73Vl_XO6SYIlu6-sklC309kfvKo3s1pzA=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-06-04T20:32:31.478689Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN6MC1idVB3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN6MC1idVB3EAE!2m1!1s0x809a50bc089429b7:0x3f984526c0218432
+review_summary: >-
+  What Customers Are Saying About This Sushi Favorite$$$Folks who visit this
+  sushi spot often rave about the delicious, fresh flavors and affordable
+  options that make every bite feel like a treat. While some mention occasional
+  waits that can extend during busy times, many agree the quality of the food
+  more than makes up for it, turning meals into memorable occasions. The
+  friendly atmosphere and standout dishes, like creative heated rolls, keep it a
+  top pick for groups or solo diners seeking reliable sushi experiences.
+  Overall, it's praised as a solid choice for anyone hunting for the best sushi
+  nearby, with the positives around taste and service shining through despite a
+  few inconsistencies.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
+curbside_pickup: true
 delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
 live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
+menu_for_children: true
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
 serves_cocktails: null
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Japanese restaurant offering sushi & sashimi in relaxed surrounds with outdoor
+  seating.
 
 ---

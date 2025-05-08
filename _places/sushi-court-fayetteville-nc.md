@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Court"
+title: Sushi Court
 permalink: /north-carolina/fayetteville/sushi-court.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Fayetteville
 seo:
-  name: "Sushi Court"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "This warmly lit Japanese restaurant serves sushi rolls & hot items like teriyaki, hibachi & noodles. Sushi Court serves delicious sushi in Fayetteville, North Carolina. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJC016PzZrq4kRp1QkARm4KYE
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $10 &ndash; $20
 rating: '4.1'
 rating_count: 0
 website: null
+description: >-
+  Explore Sushi Court in Fayetteville, NC$$$Nestled in Fayetteville, NC, Sushi
+  Court stands out as a welcoming Japanese restaurant offering fresh sushi and
+  hibachi options that appeal to those seeking authentic flavors in a casual
+  setting. This spot features a relaxed atmosphere perfect for families, with
+  ample accessibility features like wheelchair-friendly entrances and seating to
+  ensure everyone feels included. Diners can enjoy a variety of hot dishes such
+  as teriyaki and noodles alongside creative rolls, all prepared with an
+  emphasis on quality ingredients that highlight the best of Japanese cuisine.
+  The kid-friendly vibe makes it a great choice for anyone looking for sushi
+  places near me that balance taste and convenience. Whether you're in the mood
+  for a quick meal or a laid-back dinner, this restaurant delivers on
+  affordability and variety, making it a top pick among local Japanese eateries.
+generative_summary: >-
+  Explore Sushi Court in Fayetteville, NC$$$Nestled in Fayetteville, NC, Sushi
+  Court stands out as a welcoming Japanese restaurant offering fresh sushi and
+  hibachi options that appeal to those seeking authentic flavors in a casual
+  setting. This spot features a relaxed atmosphere perfect for families, with
+  ample accessibility features like wheelchair-friendly entrances and seating to
+  ensure everyone feels included. Diners can enjoy a variety of hot dishes such
+  as teriyaki and noodles alongside creative rolls, all prepared with an
+  emphasis on quality ingredients that highlight the best of Japanese cuisine.
+  The kid-friendly vibe makes it a great choice for anyone looking for sushi
+  places near me that balance taste and convenience. Whether you're in the mood
+  for a quick meal or a laid-back dinner, this restaurant delivers on
+  affordability and variety, making it a top pick among local Japanese eateries.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJC016PzZrq4kRp1QkARm4KYE/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3aU1PU3l3RRAB
@@ -480,6 +505,21 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNmdWZqUTdRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNmdWZqUTdRRRAB!2m1!1s0x89ab6b363f7a4d0b:0x8129b819012454a7
+review_summary: >-
+  What People Are Buzzing About$$$Visitors to this sushi spot often rave about
+  the generous portions and fresh flavors that make meals feel like a real
+  treat, with many highlighting the tasty rolls and hibachi dishes as standout
+  favorites for sushi enthusiasts. While some folks appreciate the quick service
+  and overall value, especially for families or groups, a few mentions point to
+  occasional inconsistencies, like with certain noodle dishes or menu details
+  that could use a tweak for better accuracy. Overall, the vibe is positive,
+  with plenty of praise for how it keeps things affordable without skimping on
+  taste, encouraging repeat visits for those hunting for the best sushi near me.
+  It's clear that the welcoming staff and variety of options keep the energy
+  upbeat, though keeping an eye on specifics like ingredient listings could
+  elevate the experience even more. If you're exploring Japanese places near me,
+  this one earns solid nods for its reliable hits and approachable vibe.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -512,8 +552,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   This warmly lit Japanese restaurant serves sushi rolls & hot items like
   teriyaki, hibachi & noodles.
 

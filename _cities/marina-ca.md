@@ -5,4 +5,5 @@ permalink: /california/marina/
 stateAbbr: CA
 stateName: California
 cityName: Marina
+
 ---

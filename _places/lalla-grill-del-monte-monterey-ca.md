@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Lalla Grill Del Monte"
+title: Lalla Grill Del Monte
 permalink: /california/monterey/lalla-grill-del-monte.html
 stateAbbr: CA
 stateName: California
 cityName: Monterey
 seo:
-  name: "Lalla Grill Del Monte"
-  type: Restaurant
-  links: null
-description: "Lalla Grill Del Monte serves delicious sushi in Monterey, California. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.lallagrill.com/
 place_id: ChIJh1XT7CzkjYAR3pWOcFHrjp4
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x808de42cecd35587:0x9e8eeb51708e95de!10e5
 primary_type: Bar & Grill
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 10
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 10:00 PM'
+    - 'Tuesday: 11:00 AM – 10:00 PM'
+    - 'Wednesday: 11:00 AM – 10:00 PM'
+    - 'Thursday: 11:00 AM – 10:00 PM'
+    - 'Friday: 11:00 AM – 11:00 PM'
+    - 'Saturday: 11:00 AM – 11:00 PM'
+    - 'Sunday: 10:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T06:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,46 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (831) 324-4632
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.4'
+rating_count: 1279
+website: http://www.lallagrill.com/
+description: >-
+  About Lalla Grill Del Monte in Monterey, CA$$$Lalla Grill Del Monte in
+  Monterey, CA, is a charming California grill situated in the bustling Del
+  Monte Shopping Center, offering fresh organic dishes in a laid-back
+  atmosphere. The spot features a welcoming fire-side patio that enhances
+  outdoor dining experiences, making it perfect for casual get-togethers or
+  relaxed meals. With accessibility options like wheelchair-friendly parking and
+  entrances, it caters to a wide range of visitors seeking inclusive dining. Its
+  moderate pricing and variety of fare make it an appealing choice for those
+  exploring local eateries in the area.
+generative_summary: >-
+  About Lalla Grill Del Monte in Monterey, CA$$$Lalla Grill Del Monte in
+  Monterey, CA, is a charming California grill situated in the bustling Del
+  Monte Shopping Center, offering fresh organic dishes in a laid-back
+  atmosphere. The spot features a welcoming fire-side patio that enhances
+  outdoor dining experiences, making it perfect for casual get-togethers or
+  relaxed meals. With accessibility options like wheelchair-friendly parking and
+  entrances, it caters to a wide range of visitors seeking inclusive dining. Its
+  moderate pricing and variety of fare make it an appealing choice for those
+  exploring local eateries in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Folks generally rave about the tasty organic
+  options and cozy vibe at this popular grill, with many highlighting the fresh
+  flavors and welcoming setting as standout features. The high rating of 4.4
+  stars from numerous reviews suggests it's a reliable spot for satisfying meals
+  and friendly service. People often mention enjoying the patio for a relaxed
+  outdoor experience, though some note that wait times can vary during peak
+  hours. Overall, it's seen as a solid pick for casual dining near Monterey,
+  with most feedback leaning toward repeat visits for its consistent quality. If
+  you're in the mood for a local favorite, this place delivers a generally
+  positive experience without any major letdowns.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +307,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

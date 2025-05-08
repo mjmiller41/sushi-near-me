@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Genki sushi and grill"
+title: Genki sushi and grill
 permalink: /pennsylvania/lancaster/genki-sushi-and-grill.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Lancaster
 seo:
-  name: "Genki sushi and grill"
-  type: Restaurant
+  type: restaurant
   links: http://www.genkisushiandgrill.com/
-description: "Genki sushi and grill serves delicious sushi in Lancaster, Pennsylvania. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJRaxQArUjxokR2JhU-KOt5pQ
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c623b50250ac45:0x94e6ada3f85498d8!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:30 PM'
     - 'Saturday: 11:00 AM – 9:30 PM'
     - 'Sunday: 11:30 AM – 9:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 9:30 PM'
-    - 'Saturday: 11:00 AM – 9:30 PM'
-    - 'Sunday: 11:30 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T01:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +238,44 @@ phone: (717) 826-9909
 price_level: null
 price_range: $20 &ndash; $30
 rating: '4.9'
-rating_count: 0
+rating_count: 304
 website: http://www.genkisushiandgrill.com/
+description: >-
+  Discover Genki Sushi and Grill in Lancaster, PA$$$Genki Sushi and Grill in
+  Lancaster, PA, stands out as a welcoming spot for enjoying fresh Japanese
+  cuisine, featuring a variety of sushi options in a bright and inviting
+  atmosphere. This sushi restaurant combines casual dining with an array of
+  flavorful rolls and traditional meals, making it a go-to choice for those
+  seeking authentic tastes without the formality. Accessibility features like
+  wheelchair-friendly parking and entrances add to the convenience, ensuring
+  everyone can enjoy a comfortable meal. With hours that cater to lunch and
+  dinner crowds, it's easy to drop in for a satisfying bite, appealing to anyone
+  exploring local Japanese places.
+generative_summary: >-
+  Discover Genki Sushi and Grill in Lancaster, PA$$$Genki Sushi and Grill in
+  Lancaster, PA, stands out as a welcoming spot for enjoying fresh Japanese
+  cuisine, featuring a variety of sushi options in a bright and inviting
+  atmosphere. This sushi restaurant combines casual dining with an array of
+  flavorful rolls and traditional meals, making it a go-to choice for those
+  seeking authentic tastes without the formality. Accessibility features like
+  wheelchair-friendly parking and entrances add to the convenience, ensuring
+  everyone can enjoy a comfortable meal. With hours that cater to lunch and
+  dinner crowds, it's easy to drop in for a satisfying bite, appealing to anyone
+  exploring local Japanese places.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Buzz Around This Local Sushi Favorite$$$Visitors often praise the fresh and
+  creative sushi selections at this spot, highlighting standout dishes that
+  deliver big on flavor without breaking the bank. Many appreciate the welcoming
+  vibe and attentive service that make every meal feel relaxed and enjoyable,
+  perfect for a quick lunch or casual evening out. The clean environment and
+  reasonable prices keep drawing folks back, especially for those hunting for
+  reliable sushi options nearby. Overall, the consensus leans positive, with
+  diners noting the solid variety that satisfies cravings for Japanese-inspired
+  eats in a hassle-free setting. If you're on the hunt for tasty rolls in the
+  area, this place consistently hits the mark with its approachable appeal.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +301,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

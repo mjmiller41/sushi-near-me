@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Hibino"
+title: Hibino
 permalink: /new-york/brooklyn/hibino.html
 stateAbbr: NY
 stateName: New York
 cityName: Brooklyn
 seo:
-  name: "Hibino"
-  type: Restaurant
+  type: restaurant
   links: https://www.hibino-brooklyn.com/
-description: "Hibino serves delicious sushi in Brooklyn, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJC1fwCkVawokRNyLxaZ7tv-s
 photos:
   - name: >-
@@ -170,7 +168,89 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c25a450af0570b:0xebbfed9e69f12237!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 12
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 12
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 12
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 12
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 14
+        minute: 30
+    - open:
+        day: 6
+        hour: 16
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 12:00 – 2:30 PM, 4:30 – 9:30 PM'
     - 'Tuesday: 12:00 – 2:30 PM, 4:30 – 9:30 PM'
     - 'Wednesday: Closed'
@@ -178,14 +258,7 @@ opening_hours:
     - 'Friday: 12:00 – 2:30 PM, 4:30 – 10:00 PM'
     - 'Saturday: 12:00 – 2:30 PM, 4:30 – 10:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 12:00 – 2:30 PM, 4:30 – 9:30 PM'
-    - 'Tuesday: 12:00 – 2:30 PM, 4:30 – 9:30 PM'
-    - 'Wednesday: Closed'
-    - 'Thursday: 12:00 – 2:30 PM, 4:30 – 9:30 PM'
-    - 'Friday: 12:00 – 2:30 PM, 4:30 – 10:00 PM'
-    - 'Saturday: 12:00 – 2:30 PM, 4:30 – 10:00 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +270,44 @@ phone: (718) 260-8052
 price_level: PRICE_LEVEL_MODERATE
 price_range: $30 &ndash; $50
 rating: '4.7'
-rating_count: 0
+rating_count: 464
 website: https://www.hibino-brooklyn.com/
+description: >-
+  Discover Hibino in Brooklyn$$$Hibino in Brooklyn, NY, stands out as a
+  welcoming Japanese eatery offering a blend of traditional flavors and relaxed
+  vibes, making it a go-to spot for those seeking authentic Asian cuisine. This
+  cozy venue specializes in fresh sushi rolls, hearty obanzai dishes, and a
+  variety of sake options, all prepared with care in a casual setting that
+  invites diners to unwind. Accessibility features like wheelchair-friendly
+  entrances and seating enhance the experience for all visitors, while its
+  moderate price range provides great value for quality meals. Open for lunch
+  and dinner several days a week, it's an ideal choice for anyone exploring
+  sushi restaurants near me in the bustling neighborhood.
+generative_summary: >-
+  Discover Hibino in Brooklyn$$$Hibino in Brooklyn, NY, stands out as a
+  welcoming Japanese eatery offering a blend of traditional flavors and relaxed
+  vibes, making it a go-to spot for those seeking authentic Asian cuisine. This
+  cozy venue specializes in fresh sushi rolls, hearty obanzai dishes, and a
+  variety of sake options, all prepared with care in a casual setting that
+  invites diners to unwind. Accessibility features like wheelchair-friendly
+  entrances and seating enhance the experience for all visitors, while its
+  moderate price range provides great value for quality meals. Open for lunch
+  and dinner several days a week, it's an ideal choice for anyone exploring
+  sushi restaurants near me in the bustling neighborhood.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback on Hibino$$$Folks rave about the tasty highlights at this
+  Japanese spot, like the flavorful eel and yellow tail dishes paired with
+  comforting miso soup, all complemented by a solid sake selection that keeps
+  things exciting. Many appreciate the warm and attentive service that makes
+  every visit feel personal and enjoyable, adding to the overall charm of the
+  place. The intimate atmosphere creates a genuine, laid-back feel that's
+  perfect for a casual night out or trying top-rated sushi in the area. While
+  it's clear the food and ambiance hit the mark for most, it's worth noting that
+  the experience can vary based on timing, but overall, it leaves a positive
+  impression for those hunting for reliable Japanese places near me.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +333,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

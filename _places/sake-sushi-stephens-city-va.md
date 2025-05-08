@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sake Sushi"
+title: Sake Sushi
 permalink: /virginia/stephens-city/sake-sushi.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Stephens City
 seo:
-  name: "Sake Sushi"
-  type: Restaurant
-  links: null
-description: "Sake Sushi serves delicious sushi in Stephens City, Virginia. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://sakesushiva.com/
 place_id: ChIJyeBxv4_ptYkRH-V7AFATSpU
 photos:
   - name: >-
@@ -170,22 +168,172 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89b5e98fbf71e0c9:0x954a1350007be51f!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 15
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 10
+        minute: 45
+      close:
+        day: 2
+        hour: 21
+        minute: 45
+    - open:
+        day: 3
+        hour: 10
+        minute: 45
+      close:
+        day: 3
+        hour: 21
+        minute: 45
+    - open:
+        day: 4
+        hour: 10
+        minute: 45
+      close:
+        day: 4
+        hour: 21
+        minute: 45
+    - open:
+        day: 5
+        hour: 10
+        minute: 45
+      close:
+        day: 5
+        hour: 22
+        minute: 45
+    - open:
+        day: 6
+        hour: 10
+        minute: 45
+      close:
+        day: 6
+        hour: 22
+        minute: 45
+  weekdayDescriptions:
+    - 'Monday: Closed'
+    - 'Tuesday: 10:45 AM – 9:45 PM'
+    - 'Wednesday: 10:45 AM – 9:45 PM'
+    - 'Thursday: 10:45 AM – 9:45 PM'
+    - 'Friday: 10:45 AM – 10:45 PM'
+    - 'Saturday: 10:45 AM – 10:45 PM'
+    - 'Sunday: 11:15 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T02:45:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 11
+          minute: 0
+        close:
+          day: 0
+          hour: 21
+          minute: 0
+      - open:
+          day: 2
+          hour: 10
+          minute: 30
+        close:
+          day: 2
+          hour: 22
+          minute: 0
+      - open:
+          day: 3
+          hour: 10
+          minute: 30
+        close:
+          day: 3
+          hour: 22
+          minute: 0
+      - open:
+          day: 4
+          hour: 10
+          minute: 30
+        close:
+          day: 4
+          hour: 22
+          minute: 0
+      - open:
+          day: 5
+          hour: 10
+          minute: 30
+        close:
+          day: 5
+          hour: 22
+          minute: 30
+      - open:
+          day: 6
+          hour: 10
+          minute: 30
+        close:
+          day: 6
+          hour: 22
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: Closed'
+      - 'Tuesday: 10:30 AM – 10:00 PM'
+      - 'Wednesday: 10:30 AM – 10:00 PM'
+      - 'Thursday: 10:30 AM – 10:00 PM'
+      - 'Friday: 10:30 AM – 10:30 PM'
+      - 'Saturday: 10:30 AM – 10:30 PM'
+      - 'Sunday: 11:00 AM – 9:00 PM'
+    secondaryHoursType: TAKEOUT
+    nextCloseTime: '2025-05-04T02:30:00Z'
+phone: (540) 868-8571
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.5'
+rating_count: 284
+website: https://sakesushiva.com/
+description: >-
+  Explore Sake Sushi in Stephens City, VA$$$Sake Sushi in Stephens City, VA,
+  stands out as a welcoming spot for Japanese dining enthusiasts, blending fresh
+  sushi with classic Chinese flavors in a relaxed setting. This eatery delights
+  visitors with its array of authentic dishes, from expertly crafted rolls to
+  savory stir-fries, all prepared with attention to quality ingredients.
+  Accessibility features like wheelchair-friendly entrances and seating make it
+  an inclusive choice for everyone seeking sushi restaurants nearby. The casual
+  vibe and varied menu options cater to those exploring top-rated Japanese
+  places near me, ensuring a satisfying meal whether you're grabbing takeout or
+  dining in. Open hours extend into the evenings, making it a convenient option
+  for casual get-togethers or quick bites after a day out.
+generative_summary: >-
+  Explore Sake Sushi in Stephens City, VA$$$Sake Sushi in Stephens City, VA,
+  stands out as a welcoming spot for Japanese dining enthusiasts, blending fresh
+  sushi with classic Chinese flavors in a relaxed setting. This eatery delights
+  visitors with its array of authentic dishes, from expertly crafted rolls to
+  savory stir-fries, all prepared with attention to quality ingredients.
+  Accessibility features like wheelchair-friendly entrances and seating make it
+  an inclusive choice for everyone seeking sushi restaurants nearby. The casual
+  vibe and varied menu options cater to those exploring top-rated Japanese
+  places near me, ensuring a satisfying meal whether you're grabbing takeout or
+  dining in. Open hours extend into the evenings, making it a convenient option
+  for casual get-togethers or quick bites after a day out.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Visitor Feedback on Sake Sushi$$$From what people are sharing online, Sake
+  Sushi tends to impress with its fresh and flavorful offerings, earning high
+  marks for tasty sushi and well-executed dishes that keep folks coming back.
+  Many appreciate the solid value for the price, noting that portions are
+  generous and the overall experience feels reliable without any major letdowns.
+  It's clear that the friendly service and welcoming atmosphere add to the
+  appeal, making it a go-to for groups or families looking for straightforward
+  Japanese spots close to home. While not every visit is flawless, the general
+  consensus leans positive, with plenty of praise for the variety that suits
+  both sushi lovers and those trying new flavors. All in all, if you're on the
+  hunt for dependable sushi places near me, this spot seems to deliver a
+  consistently enjoyable vibe based on the buzz.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +359,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Tokyo House Ramen & Sushi Restaurant"
+title: Tokyo House Ramen & Sushi Restaurant
 permalink: /california/menifee/tokyo-house-ramen-sushi-restaurant.html
 stateAbbr: CA
 stateName: California
 cityName: Menifee
 seo:
-  name: "Tokyo House Ramen & Sushi Restaurant"
-  type: Restaurant
-  links: null
-description: "Tokyo House Ramen & Sushi Restaurant serves delicious sushi in Menifee, California. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://ramen-sushi.com/
 place_id: ChIJl0gjf_Sd3IARzkfuPPpoPTc
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80dc9df47f234897:0x373d68fa3cee47ce!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 15
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 15
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 15
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 15
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 15
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:15 PM'
+    - 'Tuesday: 11:00 AM – 9:15 PM'
+    - 'Wednesday: 11:00 AM – 9:15 PM'
+    - 'Thursday: 11:00 AM – 9:15 PM'
+    - 'Friday: 11:00 AM – 9:30 PM'
+    - 'Saturday: 11:00 AM – 9:30 PM'
+    - 'Sunday: 11:00 AM – 9:15 PM'
+  nextCloseTime: '2025-05-04T04:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,51 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (951) 679-6388
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.3'
+rating_count: 518
+website: http://ramen-sushi.com/
+description: >-
+  Discover Tokyo House in Menifee, CA$$$Nestled in Menifee, CA, Tokyo House
+  Ramen & Sushi Restaurant offers a welcoming spot for enjoying authentic
+  Japanese flavors in a relaxed atmosphere. This spot specializes in fresh sushi
+  rolls, hearty ramen bowls, and classic bento boxes, making it a go-to choice
+  for anyone craving Japanese cuisine close to home. With its informal setting,
+  diners can savor high-quality ingredients and a variety of familiar dishes
+  that highlight the best of Japanese traditions. The restaurant's accessibility
+  features, like wheelchair-friendly entrances and seating, ensure a comfortable
+  visit for all, while its open hours make it easy to stop by for a satisfying
+  meal. Whether you're exploring sushi options nearby or seeking a casual dining
+  experience, this spot delivers on taste and convenience.
+generative_summary: >-
+  Discover Tokyo House in Menifee, CA$$$Nestled in Menifee, CA, Tokyo House
+  Ramen & Sushi Restaurant offers a welcoming spot for enjoying authentic
+  Japanese flavors in a relaxed atmosphere. This spot specializes in fresh sushi
+  rolls, hearty ramen bowls, and classic bento boxes, making it a go-to choice
+  for anyone craving Japanese cuisine close to home. With its informal setting,
+  diners can savor high-quality ingredients and a variety of familiar dishes
+  that highlight the best of Japanese traditions. The restaurant's accessibility
+  features, like wheelchair-friendly entrances and seating, ensure a comfortable
+  visit for all, while its open hours make it easy to stop by for a satisfying
+  meal. Whether you're exploring sushi options nearby or seeking a casual dining
+  experience, this spot delivers on taste and convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Diners Are Buzzing About$$$Folks rave about the tasty black garlic ramen
+  and fresh sushi rolls at this Japanese eatery, noting how the flavors really
+  hit the spot for a satisfying meal. Many appreciate the attentive service and
+  top-notch ingredients that make every bite feel special, turning simple visits
+  into enjoyable outings. While the spot can get busy at times, it's still a
+  solid pick for groups or anyone in the mood for reliable Japanese fare without
+  the fuss. Overall, the positive vibes around the tempura shrimp rolls and
+  friendly atmosphere keep customers coming back for more. If you're hunting for
+  great sushi places around Menifee, this location stands out for its balance of
+  quality and approachability, making it worth a try for your next dining
+  adventure.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +312,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

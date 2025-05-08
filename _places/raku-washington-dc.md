@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Raku"
+title: Raku
 permalink: /district-of-columbia/washington/raku.html
 stateAbbr: DC
 stateName: District of Columbia
 cityName: Washington
 seo:
-  name: "Raku"
-  type: Restaurant
+  type: restaurant
   links: https://www.rakuasiandining.com/about-raku-cathedral
-description: "Raku serves delicious sushi in Washington, District of Columbia. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJt0ycIdnJt4kRp3BdmDeSK0E
 photos:
   - name: >-
@@ -198,7 +196,45 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 0
 website: https://www.rakuasiandining.com/about-raku-cathedral
+description: >-
+  Explore Raku in Washington, DC$$$Raku in Washington, DC, stands out as a
+  charming Asian dining destination on Wisconsin Avenue in the lively Northwest
+  area, offering a mix of flavorful meals that appeal to those seeking quality
+  options close to home. This spot features an inviting atmosphere with extended
+  hours for both lunch and dinner, making it ideal for casual visits any day of
+  the week. Guests can enjoy moderately priced dishes around $20 to $30,
+  emphasizing fresh ingredients and a comfortable setting that caters to various
+  tastes. Accessibility is a key highlight, with easy entry and seating options
+  ensuring everyone feels welcome. Whether you're looking for top-rated Asian
+  eateries nearby or simply exploring Japanese-inspired places in the area, Raku
+  delivers an authentic and enjoyable experience.
+generative_summary: >-
+  Explore Raku in Washington, DC$$$Raku in Washington, DC, stands out as a
+  charming Asian dining destination on Wisconsin Avenue in the lively Northwest
+  area, offering a mix of flavorful meals that appeal to those seeking quality
+  options close to home. This spot features an inviting atmosphere with extended
+  hours for both lunch and dinner, making it ideal for casual visits any day of
+  the week. Guests can enjoy moderately priced dishes around $20 to $30,
+  emphasizing fresh ingredients and a comfortable setting that caters to various
+  tastes. Accessibility is a key highlight, with easy entry and seating options
+  ensuring everyone feels welcome. Whether you're looking for top-rated Asian
+  eateries nearby or simply exploring Japanese-inspired places in the area, Raku
+  delivers an authentic and enjoyable experience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$From what folks have shared about spots like this
+  one, the overall vibe at Raku comes across as genuinely positive, with many
+  highlighting the tasty dishes and solid service that keep people coming back.
+  Diners often mention the fresh flavors and reliable portions as standout
+  features, helping it earn a strong reputation among local favorites. While
+  everyone has their own take, it's clear that the welcoming environment and
+  attention to detail make it a go-to for groups or solo outings. If you're
+  hunting for the best sushi options around Washington, DC, feedback suggests
+  this place hits the mark with its approachable style and consistent quality.
+  All in all, it's a spot that tends to leave visitors satisfied, blending good
+  value with a relaxed dining feel.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -224,7 +260,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

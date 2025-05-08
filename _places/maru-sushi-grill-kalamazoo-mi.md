@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Maru Sushi & Grill"
+title: Maru Sushi & Grill
 permalink: /michigan/kalamazoo/maru-sushi-grill.html
 stateAbbr: MI
 stateName: Michigan
 cityName: Kalamazoo
 seo:
-  name: "Maru Sushi & Grill"
-  type: Restaurant
-  links: null
-description: "Maru Sushi & Grill serves delicious sushi in Kalamazoo, Michigan. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://marusushi.com/location/kalamazoo
 place_id: ChIJzQgvMzmdF4gRaxIjvXU4Eb0
 photos:
   - name: >-
@@ -170,22 +168,173 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x88179d39332f08cd:0xbd113875bd23126b!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 4:00 – 9:00 PM'
+    - 'Tuesday: 4:00 – 9:00 PM'
+    - 'Wednesday: 4:00 – 9:00 PM'
+    - 'Thursday: 4:00 – 9:00 PM'
+    - 'Friday: 11:30 AM – 9:00 PM'
+    - 'Saturday: 11:30 AM – 9:00 PM'
+    - 'Sunday: 11:30 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T01:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
-phone: null
-price_level: null
+  - openNow: false
+    periods:
+      - open:
+          day: 1
+          hour: 16
+          minute: 0
+        close:
+          day: 1
+          hour: 18
+          minute: 0
+      - open:
+          day: 2
+          hour: 16
+          minute: 0
+        close:
+          day: 2
+          hour: 18
+          minute: 0
+      - open:
+          day: 3
+          hour: 16
+          minute: 0
+        close:
+          day: 3
+          hour: 18
+          minute: 0
+      - open:
+          day: 4
+          hour: 16
+          minute: 0
+        close:
+          day: 4
+          hour: 18
+          minute: 0
+      - open:
+          day: 5
+          hour: 16
+          minute: 0
+        close:
+          day: 5
+          hour: 18
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 4:00 – 6:00 PM'
+      - 'Tuesday: 4:00 – 6:00 PM'
+      - 'Wednesday: 4:00 – 6:00 PM'
+      - 'Thursday: 4:00 – 6:00 PM'
+      - 'Friday: 4:00 – 6:00 PM'
+      - 'Saturday: Closed'
+      - 'Sunday: Closed'
+    secondaryHoursType: HAPPY_HOUR
+    nextOpenTime: '2025-05-05T20:00:00Z'
+phone: (269) 488-4888
+price_level: PRICE_LEVEL_MODERATE
 price_range: null
-rating: null
-rating_count: 0
-website: null
+rating: '4.5'
+rating_count: 1207
+website: http://marusushi.com/location/kalamazoo
+description: >-
+  Discover Maru Sushi & Grill in Kalamazoo, MI$$$Nestled in the heart of
+  Kalamazoo, MI, Maru Sushi & Grill stands out as a welcoming spot for enjoying
+  fresh Japanese cuisine, including an array of sushi options that highlight
+  creative flavors and quality ingredients. The restaurant features a
+  comfortable atmosphere with a cozy bar area, making it ideal for casual
+  dinners or relaxed outings with friends. Patrons can savor a variety of
+  Japanese dishes in a setting that's both accessible and inviting, complete
+  with thoughtful amenities that enhance the overall experience. If you're
+  exploring sushi restaurants near you, this location offers a blend of
+  traditional and innovative menu items that cater to diverse tastes. Its
+  convenient hours and welcoming vibe make it a go-to choice for anyone seeking
+  top-rated sushi in the area.
+generative_summary: >-
+  Discover Maru Sushi & Grill in Kalamazoo, MI$$$Nestled in the heart of
+  Kalamazoo, MI, Maru Sushi & Grill stands out as a welcoming spot for enjoying
+  fresh Japanese cuisine, including an array of sushi options that highlight
+  creative flavors and quality ingredients. The restaurant features a
+  comfortable atmosphere with a cozy bar area, making it ideal for casual
+  dinners or relaxed outings with friends. Patrons can savor a variety of
+  Japanese dishes in a setting that's both accessible and inviting, complete
+  with thoughtful amenities that enhance the overall experience. If you're
+  exploring sushi restaurants near you, this location offers a blend of
+  traditional and innovative menu items that cater to diverse tastes. Its
+  convenient hours and welcoming vibe make it a go-to choice for anyone seeking
+  top-rated sushi in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Visitor Feedback Highlights$$$Visitors often praise the fresh and flavorful
+  sushi selections at this spot, noting how the dishes deliver a satisfying mix
+  of tastes that keep them coming back for more. Many comments highlight the
+  friendly service and relaxed environment, which add to the enjoyable dining
+  experience without any major complaints. Overall, the high ratings reflect a
+  strong appreciation for the value and variety offered, making it a solid pick
+  for groups or solo diners looking for reliable Japanese fare. While some
+  mention portions could vary, the general consensus leans positive, with folks
+  enjoying the approachable prices and quick service. If you're hunting for
+  sushi places near you, this restaurant seems to hit the mark for a casual and
+  rewarding meal.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +360,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

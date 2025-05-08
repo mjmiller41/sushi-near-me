@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Musashi Japanese Steak House"
+title: Musashi Japanese Steak House
 permalink: /north-carolina/havelock/musashi-japanese-steak-house.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Havelock
 seo:
-  name: "Musashi Japanese Steak House"
-  type: Restaurant
+  type: restaurant
   links: https://musashinc.com/
-description: "Musashi Japanese Steak House serves delicious sushi in Havelock, North Carolina. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ7caZc5LBqIkRBp3oeFbq0zg
 photos:
   - name: >-
@@ -170,7 +168,105 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89a8c1927399c6ed:0x38d3ea5678e89d06!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 14
+        minute: 0
+    - open:
+        day: 6
+        hour: 16
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 2:00 PM, 4:00 – 9:00 PM'
     - 'Tuesday: 11:00 AM – 2:00 PM, 4:00 – 9:00 PM'
     - 'Wednesday: 11:00 AM – 2:00 PM, 4:00 – 9:00 PM'
@@ -178,14 +274,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 2:00 PM, 4:00 – 9:30 PM'
     - 'Saturday: 11:00 AM – 2:00 PM, 4:00 – 9:30 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:00 AM – 2:00 PM, 4:00 – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 2:00 PM, 4:00 – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 2:00 PM, 4:00 – 9:00 PM'
-    - 'Thursday: 11:00 AM – 2:00 PM, 4:00 – 9:00 PM'
-    - 'Friday: 11:00 AM – 2:00 PM, 4:00 – 9:30 PM'
-    - 'Saturday: 11:00 AM – 2:00 PM, 4:00 – 9:30 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T01:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +286,48 @@ phone: (252) 444-1389
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.3'
-rating_count: 0
+rating_count: 699
 website: https://musashinc.com/
+description: >-
+  Discover Musashi Japanese Steak House in Havelock, NC$$$Musashi Japanese Steak
+  House in Havelock, NC, stands out as a welcoming spot for enjoying authentic
+  Japanese flavors in a relaxed setting. This venue delights with its selection
+  of fresh sushi rolls, sizzling hibachi dishes, and a variety of other
+  traditional options, making it a go-to for those seeking Japanese dining near
+  you. Accessibility features like wheelchair-friendly parking and entrances
+  ensure everyone can enjoy the experience, while the full bar adds to the
+  inviting atmosphere for casual meals or evenings out. Open for lunch and
+  dinner throughout the week, it's an ideal choice for anyone exploring
+  top-rated sushi options in the area, blending quality ingredients with a cozy
+  vibe that keeps locals coming back.
+generative_summary: >-
+  Discover Musashi Japanese Steak House in Havelock, NC$$$Musashi Japanese Steak
+  House in Havelock, NC, stands out as a welcoming spot for enjoying authentic
+  Japanese flavors in a relaxed setting. This venue delights with its selection
+  of fresh sushi rolls, sizzling hibachi dishes, and a variety of other
+  traditional options, making it a go-to for those seeking Japanese dining near
+  you. Accessibility features like wheelchair-friendly parking and entrances
+  ensure everyone can enjoy the experience, while the full bar adds to the
+  inviting atmosphere for casual meals or evenings out. Open for lunch and
+  dinner throughout the week, it's an ideal choice for anyone exploring
+  top-rated sushi options in the area, blending quality ingredients with a cozy
+  vibe that keeps locals coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying About This Sushi Spot$$$Based on its strong 4.3
+  rating from hundreds of feedback, folks generally rave about the tasty sushi
+  and hibachi at this Japanese restaurant, noting it as a solid pick for
+  flavorful meals. Many highlight the fresh ingredients and well-prepared dishes
+  that make it feel like a reliable go-to for everyday dining or special
+  occasions. Visitors often mention the welcoming environment and attentive
+  service, which add to the overall enjoyment without any major letdowns. While
+  it's clear this place appeals to groups and families, some note it's best for
+  those who appreciate straightforward Japanese fare, keeping things positive
+  yet grounded in real experiences. All in all, if you're hunting for sushi
+  close to Havelock, it's shaping up as a favorite that delivers on taste and
+  value.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +353,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

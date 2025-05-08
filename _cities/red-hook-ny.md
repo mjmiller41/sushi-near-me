@@ -5,4 +5,5 @@ permalink: /new-york/red-hook/
 stateAbbr: NY
 stateName: New York
 cityName: Red Hook
+
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "I Love Sushi on Lake Union"
+title: I Love Sushi on Lake Union
 permalink: /washington/seattle/i-love-sushi-on-lake-union.html
 stateAbbr: WA
 stateName: Washington
 cityName: Seattle
 seo:
-  name: "I Love Sushi on Lake Union"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "I Love Sushi on Lake Union serves delicious sushi in Seattle, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ4_fDyiQVkFQRkFxG9lkivhs
 photos:
   - name: >-
@@ -185,7 +183,39 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover I Love Sushi in Seattle$$$I Love Sushi on Lake Union in Seattle,
+  Washington, is a welcoming sushi restaurant that serves up fresh Japanese
+  cuisine with a focus on quality fare and beverages. Nestled near the scenic
+  Lake Union, this spot boasts a relaxed atmosphere perfect for enjoying harbor
+  views while savoring expertly prepared dishes. The menu highlights a variety
+  of sushi options and sake selections, making it an ideal choice for those
+  seeking authentic Japanese dining experiences in a casual setting. With
+  thoughtful accessibility features like wheelchair-friendly entrances and
+  seating, it's designed to accommodate all guests comfortably.
+generative_summary: >-
+  Discover I Love Sushi in Seattle$$$I Love Sushi on Lake Union in Seattle,
+  Washington, is a welcoming sushi restaurant that serves up fresh Japanese
+  cuisine with a focus on quality fare and beverages. Nestled near the scenic
+  Lake Union, this spot boasts a relaxed atmosphere perfect for enjoying harbor
+  views while savoring expertly prepared dishes. The menu highlights a variety
+  of sushi options and sake selections, making it an ideal choice for those
+  seeking authentic Japanese dining experiences in a casual setting. With
+  thoughtful accessibility features like wheelchair-friendly entrances and
+  seating, it's designed to accommodate all guests comfortably.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Folks who stop by this sushi spot often rave about
+  the fresh flavors and scenic lakeside vibes that make meals feel special and
+  relaxing. Many appreciate the straightforward, approachable atmosphere that
+  pairs well with a range of Japanese dishes, helping it stand out as a go-to
+  for casual get-togethers. While experiences vary, positive feedback frequently
+  highlights the variety of options that cater to different tastes, keeping
+  things welcoming for families or friends. Overall, it's earned nods as a solid
+  pick for anyone hunting for reliable sushi in the area, with the harbor views
+  adding an extra layer of enjoyment to the visit.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +241,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

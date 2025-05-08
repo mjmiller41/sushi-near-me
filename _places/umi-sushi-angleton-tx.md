@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Umi Sushi"
+title: Umi Sushi
 permalink: /texas/angleton/umi-sushi.html
 stateAbbr: TX
 stateName: Texas
 cityName: Angleton
 seo:
-  name: "Umi Sushi"
-  type: Restaurant
-  links: null
-description: "Umi Sushi serves delicious sushi in Angleton, Texas. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://umisushi.kwickmenu.com/index.php
 place_id: ChIJaUCMbBddQIYRgnbh-he3L6c
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x86405d176c8c4069:0xa72fb717fae17682!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:30 PM'
+    - 'Tuesday: 11:00 AM – 9:30 PM'
+    - 'Wednesday: 11:00 AM – 9:30 PM'
+    - 'Thursday: 11:00 AM – 9:30 PM'
+    - 'Friday: 11:00 AM – 10:00 PM'
+    - 'Saturday: 11:00 AM – 10:00 PM'
+    - 'Sunday: 11:00 AM – 9:30 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,50 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (979) 331-3938
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.5'
+rating_count: 552
+website: https://umisushi.kwickmenu.com/index.php
+description: >-
+  Discover Umi Sushi in Angleton, Texas$$$Umi Sushi in Angleton, Texas, offers a
+  welcoming retreat for those craving authentic Japanese flavors in a cozy
+  setting. Nestled within a convenient shopping area, this sushi restaurant
+  features a menu packed with fresh rolls, hearty ramen, and innovative dishes
+  like Japanese lasagna, blending comfort with traditional tastes. Accessibility
+  is a key highlight, with features like wheelchair-friendly parking and
+  entrances ensuring an inclusive experience for all diners. Operating from late
+  morning into the evening, it's an ideal spot for casual lunches or relaxed
+  dinners, appealing to anyone exploring top Japanese options nearby. The
+  atmosphere emphasizes simple, enjoyable dining, making it a go-to choice for
+  quality sushi experiences in the region.
+generative_summary: >-
+  Discover Umi Sushi in Angleton, Texas$$$Umi Sushi in Angleton, Texas, offers a
+  welcoming retreat for those craving authentic Japanese flavors in a cozy
+  setting. Nestled within a convenient shopping area, this sushi restaurant
+  features a menu packed with fresh rolls, hearty ramen, and innovative dishes
+  like Japanese lasagna, blending comfort with traditional tastes. Accessibility
+  is a key highlight, with features like wheelchair-friendly parking and
+  entrances ensuring an inclusive experience for all diners. Operating from late
+  morning into the evening, it's an ideal spot for casual lunches or relaxed
+  dinners, appealing to anyone exploring top Japanese options nearby. The
+  atmosphere emphasizes simple, enjoyable dining, making it a go-to choice for
+  quality sushi experiences in the region.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Folks consistently praise Umi Sushi for its fresh,
+  flavorful dishes that hit the spot every time, especially the variety of sushi
+  rolls that keep things exciting. Many highlight the solid value and generous
+  portions, making it a reliable pick for a satisfying meal without breaking the
+  bank. The friendly vibe and attentive service add to the appeal, with diners
+  often noting it's perfect for quick lunches or laid-back evenings out. While
+  some mention minor waits during peak hours, the overall consensus is that the
+  taste and quality make it worth the visit. All in all, this spot earns high
+  marks as a favorite for Japanese cuisine lovers, reflecting its strong
+  reputation in the local scene.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +311,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

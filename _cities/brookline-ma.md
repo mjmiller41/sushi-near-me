@@ -5,4 +5,5 @@ permalink: /massachusetts/brookline/
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Brookline
+
 ---

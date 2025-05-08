@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Tasu Asian Bistro"
+title: Tasu Asian Bistro
 permalink: /north-carolina/raleigh/tasu-asian-bistro.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Raleigh
 seo:
-  name: "Tasu Asian Bistro"
-  type: Restaurant
+  type: restaurant
   links: http://shikitasu.com/
-description: "Tasu Asian Bistro serves delicious sushi in Raleigh, North Carolina. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJi6YaV4bwrIkR8xoapWozlNs
 photos:
   - name: >-
@@ -170,7 +168,89 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89acf086571aa68b:0xdb94336aa51a1af3!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 15
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 15
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM'
     - 'Tuesday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM'
     - 'Wednesday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM'
@@ -178,28 +258,120 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:00 PM'
     - 'Saturday: 11:00 AM – 10:00 PM'
     - 'Sunday: 11:00 AM – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 10:00 PM'
-    - 'Saturday: 11:00 AM – 10:00 PM'
-    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 11
+          minute: 0
+        close:
+          day: 0
+          hour: 20
+          minute: 0
+      - open:
+          day: 1
+          hour: 11
+          minute: 0
+        close:
+          day: 1
+          hour: 20
+          minute: 0
+      - open:
+          day: 2
+          hour: 11
+          minute: 0
+        close:
+          day: 2
+          hour: 20
+          minute: 0
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 20
+          minute: 0
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 20
+          minute: 0
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 20
+          minute: 0
+      - open:
+          day: 6
+          hour: 11
+          minute: 0
+        close:
+          day: 6
+          hour: 20
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 11:00 AM – 8:00 PM'
+      - 'Tuesday: 11:00 AM – 8:00 PM'
+      - 'Wednesday: 11:00 AM – 8:00 PM'
+      - 'Thursday: 11:00 AM – 8:00 PM'
+      - 'Friday: 11:00 AM – 8:00 PM'
+      - 'Saturday: 11:00 AM – 8:00 PM'
+      - 'Sunday: 11:00 AM – 8:00 PM'
+    secondaryHoursType: TAKEOUT
+    nextCloseTime: '2025-05-04T00:00:00Z'
 phone: (919) 544-8474
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.1'
-rating_count: 0
+rating_count: 1425
 website: http://shikitasu.com/
+description: >-
+  Discover Tasu Asian Bistro in Raleigh, NC$$$Tasu Asian Bistro in Raleigh, NC,
+  stands out as a vibrant Pan-Asian destination blending flavors from Japanese,
+  Chinese, Korean, Thai, and Vietnamese traditions for an exciting dining
+  experience. This spot features a diverse menu with fresh, expertly prepared
+  dishes that cater to sushi lovers and those exploring broader Asian cuisine
+  options nearby. Accessibility is a key highlight, with wheelchair-friendly
+  parking, entrances, and seating making it welcoming for all visitors. Open for
+  lunch and dinner throughout the week, it's an ideal choice for casual meals or
+  group outings in the Umstead neighborhood. Whether you're searching for
+  top-rated sushi restaurants or authentic Japanese places near you, this bistro
+  delivers a satisfying mix of quality and variety.
+generative_summary: >-
+  Discover Tasu Asian Bistro in Raleigh, NC$$$Tasu Asian Bistro in Raleigh, NC,
+  stands out as a vibrant Pan-Asian destination blending flavors from Japanese,
+  Chinese, Korean, Thai, and Vietnamese traditions for an exciting dining
+  experience. This spot features a diverse menu with fresh, expertly prepared
+  dishes that cater to sushi lovers and those exploring broader Asian cuisine
+  options nearby. Accessibility is a key highlight, with wheelchair-friendly
+  parking, entrances, and seating making it welcoming for all visitors. Open for
+  lunch and dinner throughout the week, it's an ideal choice for casual meals or
+  group outings in the Umstead neighborhood. Whether you're searching for
+  top-rated sushi restaurants or authentic Japanese places near you, this bistro
+  delivers a satisfying mix of quality and variety.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Folks who visit Tasu Asian Bistro often rave about
+  the fresh ingredients and flavorful dishes that make every meal feel special,
+  especially the standout sushi selections. Many appreciate the efficient
+  service and welcoming atmosphere that keeps the experience enjoyable and
+  relaxed. While some mention occasional waits during busy hours, the overall
+  value and taste more than make up for it, earning consistent nods for being a
+  solid pick in the area. It's frequently noted as a great spot for groups or
+  families, with the variety of options appealing to different tastes. All in
+  all, this place maintains a positive buzz among diners seeking reliable Asian
+  eateries close to home.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +397,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

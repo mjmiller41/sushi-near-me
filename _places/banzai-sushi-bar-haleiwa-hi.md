@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Banzai Sushi Bar"
+title: Banzai Sushi Bar
 permalink: /hawaii/haleiwa/banzai-sushi-bar.html
 stateAbbr: HI
 stateName: Hawaii
 cityName: Haleiwa
 seo:
-  name: "Banzai Sushi Bar"
-  type: Restaurant
+  type: restaurant
   links: http://www.banzaisushibarhawaii.com/
-description: "Banzai Sushi Bar serves delicious sushi in Haleiwa, Hawaii. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ6-5QkixfAHwRu4mWMnXfyD8
 photos:
   - name: >-
@@ -169,7 +167,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x7c005f2c9250eeeb:0x3fc8df75329689bb!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 15
+        minute: 0
+    - open:
+        day: 0
+        hour: 16
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 15
+        minute: 0
+    - open:
+        day: 6
+        hour: 16
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: Closed'
     - 'Wednesday: 4:00 – 9:00 PM'
@@ -177,14 +233,7 @@ opening_hours:
     - 'Friday: 4:00 – 9:00 PM'
     - 'Saturday: 11:30 AM – 3:00 PM, 4:00 – 9:00 PM'
     - 'Sunday: 11:30 AM – 3:00 PM, 4:00 – 9:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: Closed'
-    - 'Wednesday: 4:00 – 9:00 PM'
-    - 'Thursday: 4:00 – 9:00 PM'
-    - 'Friday: 4:00 – 9:00 PM'
-    - 'Saturday: 11:30 AM – 3:00 PM, 4:00 – 9:00 PM'
-    - 'Sunday: 11:30 AM – 3:00 PM, 4:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T01:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,35 +245,235 @@ phone: (808) 637-4404
 price_level: PRICE_LEVEL_MODERATE
 price_range: $30 &ndash; $50
 rating: '4.4'
-rating_count: 0
+rating_count: 857
 website: http://www.banzaisushibarhawaii.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Banzai Sushi Bar in Haleiwa, HI$$$Banzai Sushi Bar in Haleiwa, HI,
+  offers a casual and inviting atmosphere for enjoying fresh Japanese cuisine,
+  including a variety of sushi options that highlight local flavors and
+  ingredients. The spot features a mix of traditional floor seating and an
+  outdoor patio, making it ideal for relaxed meals or happy hour gatherings in a
+  vibrant setting. With accessibility options like wheelchair-friendly entrances
+  and parking, it's designed to welcome everyone looking for a comfortable
+  dining experience. Additionally, the restaurant serves a range of Japanese
+  fare alongside its sushi selections, appealing to those seeking authentic
+  tastes in a moderately priced environment. This makes it a go-to choice for
+  sushi enthusiasts exploring the area.
+generative_summary: >-
+  Discover Banzai Sushi Bar in Haleiwa, HI$$$Banzai Sushi Bar in Haleiwa, HI,
+  offers a casual and inviting atmosphere for enjoying fresh Japanese cuisine,
+  including a variety of sushi options that highlight local flavors and
+  ingredients. The spot features a mix of traditional floor seating and an
+  outdoor patio, making it ideal for relaxed meals or happy hour gatherings in a
+  vibrant setting. With accessibility options like wheelchair-friendly entrances
+  and parking, it's designed to welcome everyone looking for a comfortable
+  dining experience. Additionally, the restaurant serves a range of Japanese
+  fare alongside its sushi selections, appealing to those seeking authentic
+  tastes in a moderately priced environment. This makes it a go-to choice for
+  sushi enthusiasts exploring the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ6-5QkixfAHwRu4mWMnXfyD8/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3OWZQZ0JREAE
+    relativePublishTimeDescription: a month ago
+    rating: 4
+    text:
+      text: >-
+        We had a “nice dinner out” and we chose this sushi bar. It was fun to
+        sit on the ground and have a more traditional experience (don’t worry
+        you can have regular seating as well). Parking was abundant but the area
+        was quite busy so we had to park a little far (3-4 min walk max). It is
+        certainly a little pricey, but I think the food/atmosphere mostly was
+        worth it. The vegetable tempura was solid. The rolls were good. The
+        nicest part was walking around the area, there are lots of restaurants,
+        ice cream etc all within this area within walking distance.
+      languageCode: en
+    originalText:
+      text: >-
+        We had a “nice dinner out” and we chose this sushi bar. It was fun to
+        sit on the ground and have a more traditional experience (don’t worry
+        you can have regular seating as well). Parking was abundant but the area
+        was quite busy so we had to park a little far (3-4 min walk max). It is
+        certainly a little pricey, but I think the food/atmosphere mostly was
+        worth it. The vegetable tempura was solid. The rolls were good. The
+        nicest part was walking around the area, there are lots of restaurants,
+        ice cream etc all within this area within walking distance.
+      languageCode: en
+    authorAttribution:
+      displayName: Pooja Patel
+      uri: https://www.google.com/maps/contrib/101164831429159852940/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVvdEelKwSFmNN3NwDMyHQRRwQAtWayWEj0WNN_7NQ1-wfjys3o=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-03-20T11:02:05.479453Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUN3OWZQZ0JREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUN3OWZQZ0JREAE!2m1!1s0x7c005f2c9250eeeb:0x3fc8df75329689bb
+  - name: >-
+      places/ChIJ6-5QkixfAHwRu4mWMnXfyD8/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3MU5LTDF3RRAB
+    relativePublishTimeDescription: a month ago
+    rating: 4
+    text:
+      text: >-
+        We came here for dinner and it was good. It’s pretty pricey for
+        relatively small portions, but the staff is nice and loves kids. They
+        went out of their way to entertain the little ones and would even give a
+        free desert. The food was good, just in my opinion a bit pricey.
+      languageCode: en
+    originalText:
+      text: >-
+        We came here for dinner and it was good. It’s pretty pricey for
+        relatively small portions, but the staff is nice and loves kids. They
+        went out of their way to entertain the little ones and would even give a
+        free desert. The food was good, just in my opinion a bit pricey.
+      languageCode: en
+    authorAttribution:
+      displayName: jared dornak
+      uri: https://www.google.com/maps/contrib/103547516598821505359/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJ6_Sx2E4-ZZd2Zi3NxwlMFRD5CP4E4455WKjumdHSGG_5kIQ=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2025-03-23T21:17:51.400473Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUR3MU5LTDF3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUR3MU5LTDF3RRAB!2m1!1s0x7c005f2c9250eeeb:0x3fc8df75329689bb
+  - name: >-
+      places/ChIJ6-5QkixfAHwRu4mWMnXfyD8/reviews/ChdDSUhNMG9nS0VJQ0FnTURvN2VxV3p3RRAB
+    relativePublishTimeDescription: in the last week
+    rating: 4
+    text:
+      text: >-
+        Sushi was fresh and portion size was decent. A bit overpriced, but
+        probably due to location. Service was fast and friendly. Seating area
+        has an option of traditional seating and regular tables. We experienced
+        some yelling children, which affected the ambiance.
+      languageCode: en
+    originalText:
+      text: >-
+        Sushi was fresh and portion size was decent. A bit overpriced, but
+        probably due to location. Service was fast and friendly. Seating area
+        has an option of traditional seating and regular tables. We experienced
+        some yelling children, which affected the ambiance.
+      languageCode: en
+    authorAttribution:
+      displayName: Thomas Coe
+      uri: https://www.google.com/maps/contrib/109863631325834341528/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWipF-H88yZn1ZlfOAhx3OX5jO9_RE3052nrYzHzArWHZcFQND8LA=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-04-27T17:52:55.949690Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURvN2VxV3p3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURvN2VxV3p3RRAB!2m1!1s0x7c005f2c9250eeeb:0x3fc8df75329689bb
+  - name: >-
+      places/ChIJ6-5QkixfAHwRu4mWMnXfyD8/reviews/ChZDSUhNMG9nS0VJQ0FnTURRemJ5dERBEAE
+    relativePublishTimeDescription: a month ago
+    rating: 1
+    text:
+      text: >-
+        I saw many great comments so thought I would give it a try. It is good
+        food however if you are hungry you will not get full. I went during
+        happy hour got 3 sushi and then ordered ceviche and catch of the day.
+        Was never told what the catch was lol
+
+        Staff is friendly and their restrooms are unique
+
+        But very expensive to not get full
+      languageCode: en
+    originalText:
+      text: >-
+        I saw many great comments so thought I would give it a try. It is good
+        food however if you are hungry you will not get full. I went during
+        happy hour got 3 sushi and then ordered ceviche and catch of the day.
+        Was never told what the catch was lol
+
+        Staff is friendly and their restrooms are unique
+
+        But very expensive to not get full
+      languageCode: en
+    authorAttribution:
+      displayName: Gabriela Figueroa
+      uri: https://www.google.com/maps/contrib/111384423844081062603/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVuVs1OfXo3yta2ai2ng-IrqAAsGHhY8hNgAfMzjRCYUOxEVn6NFw=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-03-13T01:22:20.493657Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURRemJ5dERBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURRemJ5dERBEAE!2m1!1s0x7c005f2c9250eeeb:0x3fc8df75329689bb
+  - name: >-
+      places/ChIJ6-5QkixfAHwRu4mWMnXfyD8/reviews/ChdDSUhNMG9nS0VJQ0FnTURvN29Eb2hBRRAB
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        Fantastic food and kinda enjoyed watching the waitress chase off the
+        resident cat "miso" only to pet him at the entrance  🤣 little more than
+        I like to pay but I accidentally ate everything it was so tasty
+      languageCode: en
+    originalText:
+      text: >-
+        Fantastic food and kinda enjoyed watching the waitress chase off the
+        resident cat "miso" only to pet him at the entrance  🤣 little more than
+        I like to pay but I accidentally ate everything it was so tasty
+      languageCode: en
+    authorAttribution:
+      displayName: Rachel Charles
+      uri: https://www.google.com/maps/contrib/108558338340117209731/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUgd5TdiKGYzL8JtgGKXYp-18LVL3PvfVNPEhy-Ql3Te09auj1dTg=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-04-25T03:24:05.633425Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURvN29Eb2hBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURvN29Eb2hBRRAB!2m1!1s0x7c005f2c9250eeeb:0x3fc8df75329689bb
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors often praise the fresh sushi and
+  friendly service at this popular spot, noting that the portions are decent and
+  the overall vibe adds to the enjoyment of a meal out. While some mention the
+  prices as a bit higher than expected, many agree that the quality and
+  welcoming staff make it worthwhile, especially for families or groups. The
+  traditional seating and outdoor options enhance the casual dining experience,
+  with highlights on tasty rolls and appetizers that keep people coming back.
+  Overall, it's seen as a solid pick for anyone craving Japanese flavors, though
+  a few suggest it works best when you're not in a rush for huge servings. If
+  you're hunting for top-rated sushi near you, this place delivers a reliably
+  positive outing with room for everyone to relax and savor the moment.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
+curbside_pickup: true
+delivery: false
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
 menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
 serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_brunch: false
+serves_cocktails: true
+serves_coffee: true
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Stylish spot for sushi & Japanese fare, plus a full bar, traditional floor
+  seating & outdoor patio.
 
 ---

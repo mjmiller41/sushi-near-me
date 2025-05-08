@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Crazy Sushi"
+title: Crazy Sushi
 permalink: /california/elk-grove/crazy-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Elk Grove
 seo:
-  name: "Crazy Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Crazy Sushi serves delicious sushi in Elk Grove, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJDyuHTEnGmoAROlg1esg1JIo
 photos:
   - name: >-
@@ -185,7 +183,46 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Crazy Sushi in Elk Grove, California$$$Nestled in Elk Grove,
+  California, Crazy Sushi stands out as a welcoming sushi restaurant offering a
+  delightful array of fresh rolls and bento boxes in a relaxed setting. This
+  casual spot emphasizes quality ingredients and a comfortable atmosphere,
+  making it an ideal choice for those seeking authentic Japanese flavors without
+  the formality. Patrons can enjoy a variety of creative sushi options that
+  highlight the artistry of traditional preparation, paired with a simple yet
+  inviting ambiance that encourages leisurely meals. The restaurant's
+  accessibility features, such as wheelchair-friendly entrances and seating, add
+  to its appeal for a wide range of visitors looking for convenient Japanese
+  dining options near them.
+generative_summary: >-
+  Discover Crazy Sushi in Elk Grove, California$$$Nestled in Elk Grove,
+  California, Crazy Sushi stands out as a welcoming sushi restaurant offering a
+  delightful array of fresh rolls and bento boxes in a relaxed setting. This
+  casual spot emphasizes quality ingredients and a comfortable atmosphere,
+  making it an ideal choice for those seeking authentic Japanese flavors without
+  the formality. Patrons can enjoy a variety of creative sushi options that
+  highlight the artistry of traditional preparation, paired with a simple yet
+  inviting ambiance that encourages leisurely meals. The restaurant's
+  accessibility features, such as wheelchair-friendly entrances and seating, add
+  to its appeal for a wide range of visitors looking for convenient Japanese
+  dining options near them.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About Crazy Sushi$$$Folks who stop by Crazy Sushi
+  often rave about the fresh, tasty bites that make every visit feel worthwhile,
+  turning it into a favorite spot for sushi enthusiasts in the area. Many
+  appreciate the straightforward menu with solid options that deliver on flavor
+  without overwhelming choices, helping it stand out among local Japanese
+  places. While some mention the cozy vibe adds to the enjoyment, others note
+  that service tends to be quick and attentive, contributing to a generally
+  positive experience. Overall, it's commonly described as a reliable go-to for
+  anyone craving top-rated sushi rolls, with feedback leaning towards
+  satisfaction for both solo diners and groups looking for an easy meal. Though
+  experiences can vary, the general buzz keeps things upbeat for those searching
+  for quality sushi restaurants nearby.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +248,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

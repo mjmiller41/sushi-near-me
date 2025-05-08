@@ -5,4 +5,5 @@ permalink: /tennessee/mt-juliet/
 stateAbbr: TN
 stateName: Tennessee
 cityName: Mt. Juliet
+
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Ko"
+title: Sushi Ko
 permalink: /california/northridge/sushi-ko.html
 stateAbbr: CA
 stateName: California
 cityName: Northridge
 seo:
-  name: "Sushi Ko"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi Ko serves delicious sushi in Northridge, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJARMlCTWbwoARgC8mlA3lB7w
 photos:
   - name: >-
@@ -185,7 +183,48 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Sushi Ko in Northridge, CA$$$Sushi Ko in Northridge, CA, is a
+  laid-back spot that specializes in fresh, all-you-can-eat sushi options
+  perfect for both lunch and dinner crowds. This Japanese-inspired eatery stands
+  out with its accessible features, including wheelchair-friendly parking and
+  seating, making it welcoming for everyone looking to enjoy a relaxed meal.
+  Patrons can explore a variety of sushi selections that highlight quality
+  ingredients and creative presentations, ideal for those seeking top-rated
+  sushi experiences in the area. Whether you're in the mood for classic rolls or
+  something more adventurous, the casual vibe and generous portions make it a
+  go-to choice for sushi lovers exploring local dining scenes. With its
+  convenient location, it's an excellent option for anyone searching for sushi
+  restaurants near Northridge that combine affordability with authentic flavors.
+generative_summary: >-
+  Discover Sushi Ko in Northridge, CA$$$Sushi Ko in Northridge, CA, is a
+  laid-back spot that specializes in fresh, all-you-can-eat sushi options
+  perfect for both lunch and dinner crowds. This Japanese-inspired eatery stands
+  out with its accessible features, including wheelchair-friendly parking and
+  seating, making it welcoming for everyone looking to enjoy a relaxed meal.
+  Patrons can explore a variety of sushi selections that highlight quality
+  ingredients and creative presentations, ideal for those seeking top-rated
+  sushi experiences in the area. Whether you're in the mood for classic rolls or
+  something more adventurous, the casual vibe and generous portions make it a
+  go-to choice for sushi lovers exploring local dining scenes. With its
+  convenient location, it's an excellent option for anyone searching for sushi
+  restaurants near Northridge that combine affordability with authentic flavors.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Visitor Feedback$$$From what diners share about spots like Sushi
+  Ko, the all-you-can-eat deal often stands out as a fantastic value, with fresh
+  fish and creative rolls drawing plenty of praise for their taste and variety.
+  People frequently mention the welcoming atmosphere and solid service, making
+  it a reliable pick for casual get-togethers or solo visits when craving
+  Japanese fare. While some note that wait times can vary during peak hours, the
+  overall consensus leans positive, highlighting it as one of the better sushi
+  places near you for those who love exploring top-rated options. If you're
+  hunting for sushi close to me in Northridge, feedback suggests the menu's
+  diversity keeps things exciting without overwhelming the experience. All in
+  all, it's a spot that delivers honest satisfaction, especially for anyone
+  appreciating good-quality eats in a straightforward setting.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +250,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kampai Sushi"
+title: Kampai Sushi
 permalink: /arizona/tucson/kampai-sushi.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Tucson
 seo:
-  name: "Kampai Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.kampaiaz.com/
-description: "Kampai Sushi serves delicious sushi in Tucson, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ76u5sWxz1oYR0Q63AzZGO58
 photos:
   - name: >-
@@ -170,7 +168,81 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x86d6736cb1b9abef:0x9f3b463603b70ed1!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 0
+      close:
+        day: 5
+        hour: 20
+        minute: 0
+    - open:
+        day: 6
+        hour: 16
+        minute: 0
+      close:
+        day: 6
+        hour: 20
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:30 AM – 2:00 PM, 4:00 – 8:00 PM'
     - 'Wednesday: 11:30 AM – 2:00 PM, 4:00 – 8:00 PM'
@@ -178,14 +250,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 2:00 PM, 4:00 – 8:00 PM'
     - 'Saturday: 4:00 – 8:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:30 AM – 2:00 PM, 4:00 – 8:00 PM'
-    - 'Wednesday: 11:30 AM – 2:00 PM, 4:00 – 8:00 PM'
-    - 'Thursday: 11:30 AM – 2:00 PM, 4:00 – 8:00 PM'
-    - 'Friday: 11:30 AM – 2:00 PM, 4:00 – 8:00 PM'
-    - 'Saturday: 4:00 – 8:00 PM'
-    - 'Sunday: Closed'
+  nextOpenTime: '2025-05-03T23:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,36 +261,229 @@ secondary_opening_hours:
 phone: (520) 219-6550
 price_level: null
 price_range: $30 &ndash; $50
-rating: '4.6'
-rating_count: 0
+rating: '4.5'
+rating_count: 162
 website: http://www.kampaiaz.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Kampai Sushi in Tucson, AZ$$$Kampai Sushi in Tucson, AZ, stands out
+  as a welcoming spot for those seeking top-rated sushi restaurants, offering a
+  casual vibe with authentic Japanese flavors. This family-friendly eatery
+  specializes in fresh sushi rolls, poke bowls, and savory cooked entrees, all
+  prepared with high-quality ingredients in a clean and accessible environment.
+  Visitors appreciate the thoughtful touches like wheelchair-accessible seating
+  and parking, making it easy for everyone to enjoy a meal. Whether you're
+  looking for sushi places near you after a long day, Kampai delivers a relaxed
+  atmosphere perfect for groups or solo diners, with options like beer and wine
+  to enhance the experience.
+generative_summary: >-
+  Discover Kampai Sushi in Tucson, AZ$$$Kampai Sushi in Tucson, AZ, stands out
+  as a welcoming spot for those seeking top-rated sushi restaurants, offering a
+  casual vibe with authentic Japanese flavors. This family-friendly eatery
+  specializes in fresh sushi rolls, poke bowls, and savory cooked entrees, all
+  prepared with high-quality ingredients in a clean and accessible environment.
+  Visitors appreciate the thoughtful touches like wheelchair-accessible seating
+  and parking, making it easy for everyone to enjoy a meal. Whether you're
+  looking for sushi places near you after a long day, Kampai delivers a relaxed
+  atmosphere perfect for groups or solo diners, with options like beer and wine
+  to enhance the experience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ76u5sWxz1oYR0Q63AzZGO58/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ3MUs2cTdRRRAB
+    relativePublishTimeDescription: 8 months ago
+    rating: 5
+    text:
+      text: >-
+        Everything in there was clean, especially the bathrooms! The sushi was
+        delcious, and made fresh. It was a quiet place to eat on a Tuesday
+        night, where you can enjoy the football game on the tv and have good
+        conversation. They didn't have the bottled lemonade when we went, but
+        the can was a good option. We forgot to ask for sriracha,  but forgot
+        because they didn't have them set out on the tables. I recommend the
+        sushi roll with the baked scallops. It was delicious.
+      languageCode: en
+    originalText:
+      text: >-
+        Everything in there was clean, especially the bathrooms! The sushi was
+        delcious, and made fresh. It was a quiet place to eat on a Tuesday
+        night, where you can enjoy the football game on the tv and have good
+        conversation. They didn't have the bottled lemonade when we went, but
+        the can was a good option. We forgot to ask for sriracha,  but forgot
+        because they didn't have them set out on the tables. I recommend the
+        sushi roll with the baked scallops. It was delicious.
+      languageCode: en
+    authorAttribution:
+      displayName: Karla Pena
+      uri: https://www.google.com/maps/contrib/103765500121839922912/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWD_zXAMuUaVvhsddsjDqy8RZL_WWyz-oKD010uTtxIsaqa-lQc=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-08-21T18:44:47.977704Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQ3MUs2cTdRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQ3MUs2cTdRRRAB!2m1!1s0x86d6736cb1b9abef:0x9f3b463603b70ed1
+  - name: >-
+      places/ChIJ76u5sWxz1oYR0Q63AzZGO58/reviews/ChdDSUhNMG9nS0VJQ0FnTURva2JETHZnRRAB
+    relativePublishTimeDescription: a week ago
+    rating: 3
+    text:
+      text: >-
+        It was edible. But the rice was under cooked. The rolls were bland. The
+        edamame was unsalted. The waitress is a little grumpy. They claim to be
+        open until 2 but turned a couple away at 115 because they said they
+        close at 130? Will I be back? Nope.  The yellowtail was good.
+      languageCode: en
+    originalText:
+      text: >-
+        It was edible. But the rice was under cooked. The rolls were bland. The
+        edamame was unsalted. The waitress is a little grumpy. They claim to be
+        open until 2 but turned a couple away at 115 because they said they
+        close at 130? Will I be back? Nope.  The yellowtail was good.
+      languageCode: en
+    authorAttribution:
+      displayName: bluefin21
+      uri: https://www.google.com/maps/contrib/102199297393360264481/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVOWffVEDJjk1obcuZr99SKkGjevbSeWpTKEE01nfbt9CPpa6o=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-25T20:53:18.446345Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURva2JETHZnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURva2JETHZnRRAB!2m1!1s0x86d6736cb1b9abef:0x9f3b463603b70ed1
+  - name: >-
+      places/ChIJ76u5sWxz1oYR0Q63AzZGO58/reviews/ChdDSUhNMG9nS0VJQ0FnSURfMXRPM2lRRRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        Best sushi I have found in Tucson. Everyone can have a good night but
+        this place is consistent. I waited to review until I had at least been
+        here twice and it's just as good the second time. The sashimi is cut
+        thick and it is cold. I couldn't tell you how many times I've been given
+        warm sushi in this town.
+      languageCode: en
+    originalText:
+      text: >-
+        Best sushi I have found in Tucson. Everyone can have a good night but
+        this place is consistent. I waited to review until I had at least been
+        here twice and it's just as good the second time. The sashimi is cut
+        thick and it is cold. I couldn't tell you how many times I've been given
+        warm sushi in this town.
+      languageCode: en
+    authorAttribution:
+      displayName: Jordan Williams
+      uri: https://www.google.com/maps/contrib/111531669880814071930/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIpNdhY1bvCSOXNikRhbNgLYccBqEpyp-8xNNFdW3U23ZO-Bw=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-01-24T02:16:45.547819Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURfMXRPM2lRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURfMXRPM2lRRRAB!2m1!1s0x86d6736cb1b9abef:0x9f3b463603b70ed1
+  - name: >-
+      places/ChIJ76u5sWxz1oYR0Q63AzZGO58/reviews/ChdDSUhNMG9nS0VJQ0FnTUNBaWF2NTJnRRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        The best sushi in Tucson. We try to try other places but this one
+        outranks all other sushi in town and we always compare other places to
+        Kampai. Great quality fish, fish to rice ratio is always right, service
+        is fast, never too packed - overall good value for what you pay.
+      languageCode: en
+    originalText:
+      text: >-
+        The best sushi in Tucson. We try to try other places but this one
+        outranks all other sushi in town and we always compare other places to
+        Kampai. Great quality fish, fish to rice ratio is always right, service
+        is fast, never too packed - overall good value for what you pay.
+      languageCode: en
+    authorAttribution:
+      displayName: Kimberly Tackett
+      uri: https://www.google.com/maps/contrib/112240604343117865616/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIWEx8S4L3UXgmBwKLqZAfDV1jYwpszK21F-CRxVvmXBbaK5w=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-02-02T00:21:08.749072Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNBaWF2NTJnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNBaWF2NTJnRRAB!2m1!1s0x86d6736cb1b9abef:0x9f3b463603b70ed1
+  - name: >-
+      places/ChIJ76u5sWxz1oYR0Q63AzZGO58/reviews/ChdDSUhNMG9nS0VJQ0FnSUNBNi1ISzJnRRAB
+    relativePublishTimeDescription: 6 years ago
+    rating: 5
+    text:
+      text: >-
+        I've been eating at Sushi Bars for over 28 years.  Kampai Sushi would
+        rate among my top 10 Shushi Bars in all of Arizona.  Truthfully I
+        haven't had fish that fresh in probably 15 years.  Every piece of sushi
+        I had melted in my mouth including squid and octopus.  I rate there rice
+        the number one best I ever had.
+      languageCode: en
+    originalText:
+      text: >-
+        I've been eating at Sushi Bars for over 28 years.  Kampai Sushi would
+        rate among my top 10 Shushi Bars in all of Arizona.  Truthfully I
+        haven't had fish that fresh in probably 15 years.  Every piece of sushi
+        I had melted in my mouth including squid and octopus.  I rate there rice
+        the number one best I ever had.
+      languageCode: en
+    authorAttribution:
+      displayName: Dan Conway (Big D)
+      uri: https://www.google.com/maps/contrib/108309359829902999021/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVC7WOklKFezIGO9DpRJ6pbrHsX-4e4q4v9_kmAKJ8-kI7dxGo0kg=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2018-08-05T20:22:04.158Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNBNi1ISzJnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNBNi1ISzJnRRAB!2m1!1s0x86d6736cb1b9abef:0x9f3b463603b70ed1
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this sushi spot often rave about the
+  fresh and flavorful dishes, highlighting the consistent quality that keeps
+  them coming back for more. While most feedback praises the well-balanced rolls
+  and generous portions, a few notes mention occasional inconsistencies like
+  undercooked rice or simpler flavors that could use a bit more seasoning.
+  Overall, it's a solid choice for anyone craving reliable Japanese fare, with
+  many appreciating the clean setting and friendly service that add to the
+  enjoyable vibe. If you're exploring sushi restaurants near you, this place
+  generally delivers good value and a welcoming feel, though it's wise to check
+  for any off days. In summary, the positive experiences far outweigh the minor
+  gripes, making it a worthwhile stop for sushi enthusiasts.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
+delivery: false
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
 menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

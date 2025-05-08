@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yummy Bowl"
+title: Yummy Bowl
 permalink: /pennsylvania/wilkes-barre-township/yummy-bowl.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Wilkes-Barre Township
 seo:
-  name: "Yummy Bowl"
-  type: Restaurant
+  type: restaurant
   links: http://yummybowl.us/
-description: "Yummy Bowl serves delicious sushi in Wilkes-Barre Township, Pennsylvania. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJpT_XN0AbxYkRSh1AVszs1XU
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c51b4037d73fa5:0x75d5eccc56401d4a!10e5
 primary_type: Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:00 PM'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:00 PM'
     - 'Saturday: 11:00 AM – 10:00 PM'
     - 'Sunday: 11:00 AM – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 10:00 PM'
-    - 'Saturday: 11:00 AM – 10:00 PM'
-    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +246,49 @@ phone: (570) 392-3138
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.8'
-rating_count: 0
+rating_count: 497
 website: http://yummybowl.us/
+description: >-
+  Experience Yummy Bowl in Wilkes-Barre Township, PA$$$Yummy Bowl in
+  Wilkes-Barre Township, PA, stands out as a casual eatery blending Mongolian
+  stir-fry and sushi options into a welcoming dining experience. This spot
+  offers customizable meals with fresh ingredients, allowing guests to create
+  their own bowls packed with meats, vegetables, and flavorful sauces for a
+  personalized touch. Known for its all-you-can-eat deals, it caters to those
+  seeking variety in Japanese-inspired dishes without breaking the bank, making
+  it a go-to for sushi enthusiasts in the area. The restaurant also prioritizes
+  accessibility with features like wheelchair-friendly entrances and seating,
+  ensuring everyone can enjoy a comfortable meal. With extended hours through
+  the week, it's an ideal choice for anyone looking for reliable sushi places
+  near me that combine quality and convenience.
+generative_summary: >-
+  Experience Yummy Bowl in Wilkes-Barre Township, PA$$$Yummy Bowl in
+  Wilkes-Barre Township, PA, stands out as a casual eatery blending Mongolian
+  stir-fry and sushi options into a welcoming dining experience. This spot
+  offers customizable meals with fresh ingredients, allowing guests to create
+  their own bowls packed with meats, vegetables, and flavorful sauces for a
+  personalized touch. Known for its all-you-can-eat deals, it caters to those
+  seeking variety in Japanese-inspired dishes without breaking the bank, making
+  it a go-to for sushi enthusiasts in the area. The restaurant also prioritizes
+  accessibility with features like wheelchair-friendly entrances and seating,
+  ensuring everyone can enjoy a comfortable meal. With extended hours through
+  the week, it's an ideal choice for anyone looking for reliable sushi places
+  near me that combine quality and convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors often praise Yummy Bowl for its
+  fresh, customizable bowls that let you mix meats, veggies, and sauces just how
+  you like them, creating a fun and satisfying meal every time. Many highlight
+  the quick and friendly service that keeps things running smoothly, even during
+  busy periods, adding to the overall relaxed vibe. Folks appreciate the value
+  for money, especially with options that feel like a great deal for quality
+  eats, helping it stand out among local dining spots. While some note it's a
+  solid pick for groups or families, the consistent positives around ingredient
+  freshness and efficiency make it a reliable choice for anyone craving Japanese
+  flavors. Overall, it's clear this place delivers a positive experience that
+  keeps diners coming back for more tasty, hassle-free meals.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +314,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

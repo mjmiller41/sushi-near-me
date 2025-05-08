@@ -5,4 +5,5 @@ permalink: /california/lathrop/
 stateAbbr: CA
 stateName: California
 cityName: Lathrop
+
 ---

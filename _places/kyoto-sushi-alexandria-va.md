@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kyoto Sushi"
+title: Kyoto Sushi
 permalink: /virginia/alexandria/kyoto-sushi.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Alexandria
 seo:
-  name: "Kyoto Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.kyotosushibox.com/
-description: "Easygoing, strip-mall destination for sushi, sashimi & cooked Japanese favorites. Kyoto Sushi serves delicious sushi in Alexandria, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJoWSl_2A2tokRjG18NzuhBQM
 photos:
   - name: >-
@@ -185,12 +183,53 @@ price_range: $20 &mdash; 30
 rating: '4.3'
 rating_count: 0
 website: http://www.kyotosushibox.com/
+description: >-
+  Discover Kyoto Sushi in Alexandria, VA$$$Kyoto Sushi in Alexandria, Virginia,
+  stands out as a welcoming Japanese restaurant specializing in fresh sushi and
+  bento boxes, perfect for those seeking authentic flavors in a relaxed setting.
+  This spot highlights its commitment to quality ingredients and traditional
+  dishes, making it a go-to choice for sushi enthusiasts exploring local dining
+  options. With cozy surroundings that enhance the overall experience, visitors
+  can enjoy a variety of Japanese favorites, from sashimi to cooked specialties,
+  all served with attention to detail. The restaurant also offers convenient
+  accessibility features and a menu that caters to different preferences,
+  ensuring a comfortable visit for everyone. Whether you're looking for sushi
+  places near you or simply craving top-rated Japanese cuisine, this location
+  delivers a satisfying meal in a laid-back atmosphere.
+generative_summary: >-
+  Discover Kyoto Sushi in Alexandria, VA$$$Kyoto Sushi in Alexandria, Virginia,
+  stands out as a welcoming Japanese restaurant specializing in fresh sushi and
+  bento boxes, perfect for those seeking authentic flavors in a relaxed setting.
+  This spot highlights its commitment to quality ingredients and traditional
+  dishes, making it a go-to choice for sushi enthusiasts exploring local dining
+  options. With cozy surroundings that enhance the overall experience, visitors
+  can enjoy a variety of Japanese favorites, from sashimi to cooked specialties,
+  all served with attention to detail. The restaurant also offers convenient
+  accessibility features and a menu that caters to different preferences,
+  ensuring a comfortable visit for everyone. Whether you're looking for sushi
+  places near you or simply craving top-rated Japanese cuisine, this location
+  delivers a satisfying meal in a laid-back atmosphere.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - ChdDSUhNMG9nS0VJQ0FnSUNyNWFLa3lRRRAB
   - ChZDSUhNMG9nS0VJQ0FnSURfdWM3elNnEAE
   - ChdDSUhNMG9nS0VJQ0FnSUNIdUttQjhnRRAB
   - ChdDSUhNMG9nS0VJQ0FnSUNQc2VlRy1RRRAB
   - ChZDSUhNMG9nS0VJQ0FnSURfOWVXeUNREAE
+review_summary: >-
+  Insights from Customer Feedback$$$Feedback from visitors to Kyoto Sushi often
+  highlights the fresh and flavorful sushi rolls that keep people coming back
+  for more, creating a generally upbeat vibe around the dining experience. Many
+  appreciate the friendly service and solid portion sizes, which add to the
+  appeal for casual meals or group outings, though some note that wait times can
+  vary during peak hours. Overall, the consensus leans positive, with praises
+  for the variety of options like bento boxes and vegetarian choices that make
+  it a versatile spot for different tastes. Diners frequently mention the
+  reasonable prices as a bonus, helping it stand out among local sushi
+  restaurants without compromising on taste. If you're hunting for reliable
+  sushi near you, this place earns solid nods for its consistent quality and
+  welcoming feel, making it worth a try for anyone in the area.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
 payment_options:
@@ -220,8 +259,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Easygoing, strip-mall destination for sushi, sashimi & cooked Japanese
   favorites.
 

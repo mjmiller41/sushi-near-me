@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Avenue"
+title: Sushi Avenue
 permalink: /georgia/decatur/sushi-avenue.html
 stateAbbr: GA
 stateName: Georgia
 cityName: Decatur
 seo:
-  name: "Sushi Avenue"
-  type: Restaurant
-  links: null
-description: "Sushi Avenue serves delicious sushi in Decatur, Georgia. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.sushiavenuedecatur.com/
 place_id: ChIJfTJJFT0H9YgRKf5tWgxropE
 photos:
   - name: >-
@@ -170,8 +168,129 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x88f5073d1549327d:0x91a26b0c5a6dfe29!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 14
+        minute: 30
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 14
+        minute: 30
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:30 AM – 2:30 PM, 5:00 – 10:00 PM'
+    - 'Tuesday: 11:30 AM – 2:30 PM, 5:00 – 10:00 PM'
+    - 'Wednesday: 11:30 AM – 2:30 PM, 5:00 – 10:00 PM'
+    - 'Thursday: 11:30 AM – 2:30 PM, 5:00 – 10:00 PM'
+    - 'Friday: 11:30 AM – 2:30 PM, 5:00 – 10:00 PM'
+    - 'Saturday: 11:30 AM – 2:30 PM, 5:00 – 10:00 PM'
+    - 'Sunday: 11:30 AM – 2:30 PM, 5:00 – 10:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +298,54 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (404) 378-8448
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.5'
+rating_count: 538
+website: http://www.sushiavenuedecatur.com/
+description: >-
+  Discover Sushi Avenue in Decatur, GA$$$Sushi Avenue in Decatur, GA, brings
+  authentic Japanese flavors to life with a menu featuring fresh sushi, poke,
+  and ramen in a welcoming, cozy atmosphere. This spot stands out for its
+  commitment to traditional home-style cooking, offering a variety of dishes
+  that cater to those seeking top-rated sushi experiences nearby. Patrons can
+  enjoy the convenience of wheelchair-accessible features, making it an
+  inclusive choice for everyone looking to savor Japanese cuisine. The
+  restaurant operates daily with flexible hours, ideal for lunch or dinner
+  outings, and its moderate pricing adds to the appeal for casual diners.
+  Whether you're exploring sushi places near you or craving a comforting meal,
+  this location combines quality ingredients with a relaxed vibe for an
+  enjoyable visit.
+generative_summary: >-
+  Discover Sushi Avenue in Decatur, GA$$$Sushi Avenue in Decatur, GA, brings
+  authentic Japanese flavors to life with a menu featuring fresh sushi, poke,
+  and ramen in a welcoming, cozy atmosphere. This spot stands out for its
+  commitment to traditional home-style cooking, offering a variety of dishes
+  that cater to those seeking top-rated sushi experiences nearby. Patrons can
+  enjoy the convenience of wheelchair-accessible features, making it an
+  inclusive choice for everyone looking to savor Japanese cuisine. The
+  restaurant operates daily with flexible hours, ideal for lunch or dinner
+  outings, and its moderate pricing adds to the appeal for casual diners.
+  Whether you're exploring sushi places near you or craving a comforting meal,
+  this location combines quality ingredients with a relaxed vibe for an
+  enjoyable visit.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Love About This Spot$$$Folks heading to this Japanese eatery
+  often rave about the fresh sushi options, like creative rolls that hit the
+  spot without overwhelming the palate, making it a go-to for anyone searching
+  for reliable sushi restaurants nearby. Reviewers frequently mention the hearty
+  udon noodle soups and efficient, friendly service that keeps things running
+  smoothly from start to finish. Many appreciate the easy parking and overall
+  convenience, which adds to the relaxed dining experience without any major
+  hassles. It's clear that the spot maintains a solid reputation for satisfying
+  meals that feel just right, especially for groups or solo adventurers. All in
+  all, if you're on the hunt for the best sushi near you, this place delivers a
+  consistently positive vibe with dishes that leave you feeling glad you stopped
+  by.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +371,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

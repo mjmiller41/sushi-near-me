@@ -5,4 +5,5 @@ permalink: /virginia/arlington/
 stateAbbr: VA
 stateName: Virginia
 cityName: Arlington
+
 ---

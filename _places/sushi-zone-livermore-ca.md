@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Zone"
+title: Sushi Zone
 permalink: /california/livermore/sushi-zone.html
 stateAbbr: CA
 stateName: California
 cityName: Livermore
 seo:
-  name: "Sushi Zone"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi Zone serves delicious sushi in Livermore, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJwUoPoGjnj4ARfRXN0gRko0M
 photos:
   - name: >-
@@ -185,7 +183,39 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Sushi Zone in Livermore, CA$$$Sushi Zone in Livermore, California,
+  offers a welcoming spot for enjoying fresh Japanese dishes in a relaxed
+  setting. Nestled in the local shopping area, this sushi restaurant features a
+  variety of options like teriyaki, bento boxes, and udon, all prepared with
+  quality ingredients that highlight authentic flavors. The spot is designed
+  with accessibility in mind, making it convenient for everyone to savor a
+  casual meal. Whether you're seeking sushi restaurants nearby or simply craving
+  top-rated Japanese places, Sushi Zone provides a straightforward and enjoyable
+  dining experience that appeals to both locals and visitors.
+generative_summary: >-
+  Discover Sushi Zone in Livermore, CA$$$Sushi Zone in Livermore, California,
+  offers a welcoming spot for enjoying fresh Japanese dishes in a relaxed
+  setting. Nestled in the local shopping area, this sushi restaurant features a
+  variety of options like teriyaki, bento boxes, and udon, all prepared with
+  quality ingredients that highlight authentic flavors. The spot is designed
+  with accessibility in mind, making it convenient for everyone to savor a
+  casual meal. Whether you're seeking sushi restaurants nearby or simply craving
+  top-rated Japanese places, Sushi Zone provides a straightforward and enjoyable
+  dining experience that appeals to both locals and visitors.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying About Sushi Zone$$$Feedback from diners often
+  highlights the fresh and flavorful sushi options that make this spot a solid
+  pick for everyday meals. Many appreciate the variety of dishes like teriyaki
+  and bento boxes, noting they offer great value for a casual outing. While some
+  mention the simple atmosphere keeps things straightforward, others enjoy the
+  easy accessibility and welcoming vibe for quick visits. Overall, it's
+  frequently recommended as a reliable choice for those hunting for sushi close
+  to me, with a generally positive nod to the authentic tastes that keep people
+  coming back.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +241,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

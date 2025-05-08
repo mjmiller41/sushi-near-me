@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Umi Hotpot Sushi & Seafood Buffet"
+title: Umi Hotpot Sushi & Seafood Buffet
 permalink: /new-york/staten-island/umi-hotpot-sushi-seafood-buffet.html
 stateAbbr: NY
 stateName: New York
 cityName: Staten Island
 seo:
-  name: "Umi Hotpot Sushi & Seafood Buffet"
-  type: Restaurant
-  links: null
-description: "Umi Hotpot Sushi & Seafood Buffet serves delicious sushi in Staten Island, New York. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.umibuffet.com/about
 place_id: ChIJCZrTvIBNwokRk6lwTzVEYw4
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c24d80bcd39a09:0xe6344354f70a993!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 10:00 PM'
+    - 'Tuesday: 11:00 AM – 10:00 PM'
+    - 'Wednesday: 11:00 AM – 10:00 PM'
+    - 'Thursday: 11:00 AM – 10:00 PM'
+    - 'Friday: 11:00 AM – 10:30 PM'
+    - 'Saturday: 11:00 AM – 10:30 PM'
+    - 'Sunday: 11:00 AM – 10:00 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,52 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
+phone: (718) 982-8888
 price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+price_range: $30 &ndash; $50
+rating: '4.6'
+rating_count: 1544
+website: https://www.umibuffet.com/about
+description: >-
+  Experience Umi Hotpot Sushi in Staten Island, NY$$$Umi Hotpot Sushi & Seafood
+  Buffet in Staten Island, NY, stands out as a casual all-you-can-eat spot
+  blending fresh sushi with hot pot and Asian-fusion dishes, making it a go-to
+  for those seeking sushi restaurants nearby. The venue offers a wide array of
+  options, from expertly prepared rolls to steaming hot pot selections, all
+  served in a welcoming atmosphere that caters to various tastes. Accessibility
+  features like wheelchair-friendly entrances and seating enhance the experience
+  for all visitors, ensuring everyone can enjoy the flavorful seafood and
+  buffet-style variety. With daily hours extending into the evening, it's an
+  ideal choice for families or groups looking for top-rated sushi close to home,
+  providing great value without compromising on quality.
+generative_summary: >-
+  Experience Umi Hotpot Sushi in Staten Island, NY$$$Umi Hotpot Sushi & Seafood
+  Buffet in Staten Island, NY, stands out as a casual all-you-can-eat spot
+  blending fresh sushi with hot pot and Asian-fusion dishes, making it a go-to
+  for those seeking sushi restaurants nearby. The venue offers a wide array of
+  options, from expertly prepared rolls to steaming hot pot selections, all
+  served in a welcoming atmosphere that caters to various tastes. Accessibility
+  features like wheelchair-friendly entrances and seating enhance the experience
+  for all visitors, ensuring everyone can enjoy the flavorful seafood and
+  buffet-style variety. With daily hours extending into the evening, it's an
+  ideal choice for families or groups looking for top-rated sushi close to home,
+  providing great value without compromising on quality.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Visitor Feedback on Umi$$$Folks searching for the best sushi
+  near me often rave about Umi Hotpot Sushi & Seafood Buffet, highlighting the
+  fresh ingredients and generous portions that make meals feel worthwhile. Many
+  appreciate the variety of options, from creative rolls to hearty hot pot,
+  noting that it's a solid pick for casual dining with friends or family. While
+  some mention wait times during peak hours, the overall vibe and affordability
+  keep things positive, with plenty of praise for the flavorful dishes that
+  satisfy cravings. It's commonly described as a reliable spot for
+  Japanese-inspired eats, where the high energy and tasty selections encourage
+  repeat visits, though a few suggest planning ahead for busier times to fully
+  enjoy the experience. Overall, this place maintains a strong reputation for
+  delivering enjoyable, value-packed meals that leave diners eager to return.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +313,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Totoyama Sushi & Ramen Hollywood"
+title: Totoyama Sushi & Ramen Hollywood
 permalink: /california/los-angeles/totoyama-sushi-ramen-hollywood.html
 stateAbbr: CA
 stateName: California
 cityName: Los Angeles
 seo:
-  name: "Totoyama Sushi & Ramen Hollywood"
-  type: Restaurant
+  type: restaurant
   links: https://www.totoyamasushi.com/
-description: "Compact option for sushi, ramen, Japanese classics or an omakase tasting menu with beer & wine. Totoyama Sushi & Ramen Hollywood serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJJetq1HG_woAR0TzOtLw6fK8
 photos:
   - name: >-
@@ -184,6 +182,33 @@ price_range: $20 &ndash; $30
 rating: '4.2'
 rating_count: 0
 website: https://www.totoyamasushi.com/
+description: >-
+  Discover Totoyama Sushi in Los Angeles, CA$$$Totoyama Sushi & Ramen Hollywood
+  in Los Angeles, CA, stands out as a casual dining destination offering a blend
+  of fresh aburi-style sushi and hearty ramen that draws in locals and visitors
+  alike. This spot highlights an array of Japanese favorites like tempura and
+  pork cutlets, all served with a selection of sake, beer, and wine to enhance
+  the experience. The restaurant's accessible features, including
+  wheelchair-friendly entrances and seating, make it welcoming for everyone
+  seeking convenient sushi options near busy areas. Its cozy yet modern
+  atmosphere provides a perfect backdrop for enjoying flavorful, well-prepared
+  dishes that emphasize quality ingredients. Whether you're exploring sushi
+  places near me or looking for top-rated Japanese cuisine, this location
+  delivers a satisfying meal at approachable prices.
+generative_summary: >-
+  Discover Totoyama Sushi in Los Angeles, CA$$$Totoyama Sushi & Ramen Hollywood
+  in Los Angeles, CA, stands out as a casual dining destination offering a blend
+  of fresh aburi-style sushi and hearty ramen that draws in locals and visitors
+  alike. This spot highlights an array of Japanese favorites like tempura and
+  pork cutlets, all served with a selection of sake, beer, and wine to enhance
+  the experience. The restaurant's accessible features, including
+  wheelchair-friendly entrances and seating, make it welcoming for everyone
+  seeking convenient sushi options near busy areas. Its cozy yet modern
+  atmosphere provides a perfect backdrop for enjoying flavorful, well-prepared
+  dishes that emphasize quality ingredients. Whether you're exploring sushi
+  places near me or looking for top-rated Japanese cuisine, this location
+  delivers a satisfying meal at approachable prices.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJJetq1HG_woAR0TzOtLw6fK8/reviews/ChZDSUhNMG9nS0VJQ0FnTUNnNDlTbVJ3EAE
@@ -421,6 +446,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNmXzVLWENnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNmXzVLWENnEAE!2m1!1s0x80c2bf71d46aeb25:0xaf7c3abcb4ce3cd1
+review_summary: >-
+  What Reviewers Are Buzzing About$$$Visitors to Totoyama Sushi & Ramen often
+  rave about the incredibly fresh sushi rolls and generous portions that make
+  every bite feel like a treat, with many noting how the flavors stand out in a
+  city full of dining choices. Folks appreciate the quick and attentive service
+  that creates a comfortable vibe, especially for those stopping by before
+  nearby events or just wanting a relaxed meal. While some mention it as a
+  hidden gem for affordable yet high-quality eats, others highlight how the
+  staff handles dietary needs with ease, adding to the overall welcoming feel.
+  Overall, the consensus leans positive, with diners enjoying the hearty ramen
+  and creative presentations that keep them coming back for more casual Japanese
+  fare. If you're on the hunt for reliable sushi restaurants near me, this place
+  seems to hit the mark with its solid offerings and friendly atmosphere.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: false
   paidParkingLot: true
@@ -457,8 +496,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Compact option for sushi, ramen, Japanese classics or an omakase tasting menu
   with beer & wine.
 

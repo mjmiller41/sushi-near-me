@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kyoto Japanese Cuisine"
+title: Kyoto Japanese Cuisine
 permalink: /ohio/cincinnati/kyoto-japanese-cuisine.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Cincinnati
 seo:
-  name: "Kyoto Japanese Cuisine"
-  type: Restaurant
+  type: restaurant
   links: http://www.kyotosushibar.com/USA/
-description: "Kyoto Japanese Cuisine serves delicious sushi in Cincinnati, Ohio. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJGzn8ekNWQIgRw_UgovW5RsU
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x884056437afc391b:0xc546b9f5a220f5c3!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 10:00 PM'
     - 'Tuesday: 11:00 AM – 10:00 PM'
     - 'Wednesday: 11:00 AM – 10:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 11:00 PM'
     - 'Saturday: 11:00 AM – 11:00 PM'
     - 'Sunday: 11:00 AM – 10:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 10:00 PM'
-    - 'Tuesday: 11:00 AM – 10:00 PM'
-    - 'Wednesday: 11:00 AM – 10:00 PM'
-    - 'Thursday: 11:00 AM – 10:00 PM'
-    - 'Friday: 11:00 AM – 11:00 PM'
-    - 'Saturday: 11:00 AM – 11:00 PM'
-    - 'Sunday: 11:00 AM – 10:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,10 +245,48 @@ secondary_opening_hours:
 phone: (513) 583-8897
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
-rating: '4.4'
-rating_count: 0
+rating: '4.3'
+rating_count: 857
 website: http://www.kyotosushibar.com/USA/
+description: >-
+  Discover Kyoto Japanese Cuisine in Cincinnati, OH$$$Kyoto Japanese Cuisine in
+  Cincinnati, OH, provides a welcoming spot for those seeking authentic flavors
+  in a relaxed setting, featuring an array of fresh sushi rolls, crispy tempura,
+  and savory teriyaki dishes that highlight traditional techniques. The
+  restaurant boasts a full bar with a selection of beverages to complement your
+  meal, making it an ideal choice for casual dinners or gatherings with friends.
+  With convenient accessibility features and extended hours from late morning
+  into the evening, it's easy to enjoy a satisfying meal without the rush. This
+  spot stands out for its commitment to quality ingredients and a menu that
+  caters to various tastes, offering a taste of Japanese culture right in the
+  heart of the city.
+generative_summary: >-
+  Discover Kyoto Japanese Cuisine in Cincinnati, OH$$$Kyoto Japanese Cuisine in
+  Cincinnati, OH, provides a welcoming spot for those seeking authentic flavors
+  in a relaxed setting, featuring an array of fresh sushi rolls, crispy tempura,
+  and savory teriyaki dishes that highlight traditional techniques. The
+  restaurant boasts a full bar with a selection of beverages to complement your
+  meal, making it an ideal choice for casual dinners or gatherings with friends.
+  With convenient accessibility features and extended hours from late morning
+  into the evening, it's easy to enjoy a satisfying meal without the rush. This
+  spot stands out for its commitment to quality ingredients and a menu that
+  caters to various tastes, offering a taste of Japanese culture right in the
+  heart of the city.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Sharing About This Spot$$$Folks around Cincinnati seem to
+  really enjoy the fresh flavors and welcoming vibe at this Japanese eatery,
+  with many highlighting the tasty sushi and well-prepared classics as standout
+  features. Based on the solid ratings, it's clear that the service hits the
+  mark for a relaxed dining experience, often noted for being efficient and
+  friendly without any major hiccups. People appreciate the value for the price,
+  mentioning that the portions feel generous and the overall atmosphere keeps
+  things light and enjoyable. While opinions vary as with any spot, the general
+  buzz leans positive, making it a go-to option for anyone craving reliable
+  Japanese fare nearby. If you're in the mood for something satisfying, this
+  place often comes recommended for its consistent appeal.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +312,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

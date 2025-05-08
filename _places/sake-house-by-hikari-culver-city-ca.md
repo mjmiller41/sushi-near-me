@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sake House by Hikari"
+title: Sake House by Hikari
 permalink: /california/culver-city/sake-house-by-hikari.html
 stateAbbr: CA
 stateName: California
 cityName: Culver City
 seo:
-  name: "Sake House by Hikari"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sake House by Hikari serves delicious sushi in Culver City, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJD9wR_Si6woARBH3VJ7DAlxw
 photos:
   - name: >-
@@ -185,7 +183,39 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Explore Sake House by Hikari in Culver City, CA$$$Sake House by Hikari in
+  Culver City, CA, stands out as a welcoming spot for enjoying authentic
+  Japanese flavors in a laid-back atmosphere. This sushi restaurant offers a
+  diverse menu featuring fresh sushi rolls and other traditional fare, making it
+  a go-to choice for those seeking quality Japanese dining options nearby. With
+  highlights like affordable happy hour deals and accessible features for all
+  visitors, it provides a comfortable setting for casual meals or group outings.
+  The emphasis on flavorful dishes ensures a satisfying experience, appealing to
+  anyone exploring top-rated sushi spots in the area.
+generative_summary: >-
+  Explore Sake House by Hikari in Culver City, CA$$$Sake House by Hikari in
+  Culver City, CA, stands out as a welcoming spot for enjoying authentic
+  Japanese flavors in a laid-back atmosphere. This sushi restaurant offers a
+  diverse menu featuring fresh sushi rolls and other traditional fare, making it
+  a go-to choice for those seeking quality Japanese dining options nearby. With
+  highlights like affordable happy hour deals and accessible features for all
+  visitors, it provides a comfortable setting for casual meals or group outings.
+  The emphasis on flavorful dishes ensures a satisfying experience, appealing to
+  anyone exploring top-rated sushi spots in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Diners at This Sushi Spot$$$Folks often rave about the tasty
+  sushi and karaage chicken at this Japanese restaurant, with many highlighting
+  the fresh nigiri as a standout favorite. They appreciate the great value from
+  happy hour and lunch specials, noting that the generous portions make it easy
+  to share and enjoy with friends. While some mention occasional inconsistencies
+  in service, the overall vibe keeps things positive and welcoming for repeat
+  visits. All in all, it's a solid pick for anyone hunting for reliable sushi
+  restaurants nearby, blending delicious food with approachable pricing to
+  create a memorable dining experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +241,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

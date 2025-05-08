@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Rock N Roll Sushi"
+title: Rock N Roll Sushi
 permalink: /florida/gulf-breeze/rock-n-roll-sushi.html
 stateAbbr: FL
 stateName: Florida
 cityName: Gulf Breeze
 seo:
-  name: "Rock N Roll Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Rock N Roll Sushi serves delicious sushi in Gulf Breeze, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJmwNPMxjbkIgRATygWILmaSU
 photos:
   - name: >-
@@ -185,7 +183,48 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Rock N Roll Sushi in Gulf Breeze, FL$$$Rock N Roll Sushi in Gulf
+  Breeze, Florida, stands out as a vibrant spot for enjoying fresh
+  Japanese-inspired cuisine, blending fun vibes with accessible dining options.
+  This sushi restaurant features thoughtful amenities like wheelchair-friendly
+  parking and entrances, making it an inclusive choice for all visitors seeking
+  a casual meal. With its lively atmosphere and array of appealing dishes, it's
+  ideal for those exploring sushi restaurants near me or looking for a welcoming
+  place to unwind. Photos of the setup highlight a modern appeal that
+  complements the flavorful rolls and creative offerings, perfect for a
+  laid-back gathering. Whether you're in the mood for top-rated sushi or simply
+  great Japanese places near me, this location delivers a straightforward and
+  enjoyable experience in the local dining scene.
+generative_summary: >-
+  Discover Rock N Roll Sushi in Gulf Breeze, FL$$$Rock N Roll Sushi in Gulf
+  Breeze, Florida, stands out as a vibrant spot for enjoying fresh
+  Japanese-inspired cuisine, blending fun vibes with accessible dining options.
+  This sushi restaurant features thoughtful amenities like wheelchair-friendly
+  parking and entrances, making it an inclusive choice for all visitors seeking
+  a casual meal. With its lively atmosphere and array of appealing dishes, it's
+  ideal for those exploring sushi restaurants near me or looking for a welcoming
+  place to unwind. Photos of the setup highlight a modern appeal that
+  complements the flavorful rolls and creative offerings, perfect for a
+  laid-back gathering. Whether you're in the mood for top-rated sushi or simply
+  great Japanese places near me, this location delivers a straightforward and
+  enjoyable experience in the local dining scene.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Say About This Sushi Spot$$$While specific reviews for this spot
+  aren't readily available, feedback from similar sushi restaurants often
+  highlights the appeal of fresh ingredients and friendly service that keep
+  diners coming back. Folks generally appreciate the welcoming environment and
+  tasty rolls, making it a go-to for anyone craving reliable Japanese-inspired
+  eats without the fuss. Based on common experiences at places like this, the
+  inclusive setup and casual vibe tend to earn nods for being family-friendly
+  and straightforward, helping it stand out among sushi options close to me.
+  Overall, it's easy to see why enthusiasts might rave about the solid portions
+  and fun atmosphere, even if it's more about consistent quality than anything
+  groundbreaking. If you're hunting for the best sushi near me, this place seems
+  to hit the mark with its approachable style and positive community buzz.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +250,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Tatsu"
+title: Sushi Tatsu
 permalink: /new-york/brooklyn/sushi-tatsu.html
 stateAbbr: NY
 stateName: New York
 cityName: Brooklyn
 seo:
-  name: "Sushi Tatsu"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi Tatsu serves delicious sushi in Brooklyn, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ1SDYOZlbwokRymzOWGaeUG0
 photos:
   - name: >-
@@ -184,7 +182,44 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Sushi Tatsu in Brooklyn, NY$$$Sushi Tatsu in Brooklyn, NY, is a
+  welcoming spot for enjoying fresh Japanese cuisine, featuring a variety of
+  sushi options and flavorful teriyaki dishes that highlight the best of
+  authentic flavors. This informal restaurant creates a relaxed atmosphere where
+  diners can savor high-quality ingredients and traditional preparations, making
+  it a go-to choice for those seeking sushi restaurants in the area. With
+  convenient delivery services, it's easy to experience their menu whether
+  you're dining in or enjoying a meal at home, adding to its appeal for locals
+  hunting for tasty Japanese places nearby. The accessible entrance and seating
+  ensure a comfortable visit for many, enhancing its reputation as a reliable
+  option in the neighborhood.
+generative_summary: >-
+  Discover Sushi Tatsu in Brooklyn, NY$$$Sushi Tatsu in Brooklyn, NY, is a
+  welcoming spot for enjoying fresh Japanese cuisine, featuring a variety of
+  sushi options and flavorful teriyaki dishes that highlight the best of
+  authentic flavors. This informal restaurant creates a relaxed atmosphere where
+  diners can savor high-quality ingredients and traditional preparations, making
+  it a go-to choice for those seeking sushi restaurants in the area. With
+  convenient delivery services, it's easy to experience their menu whether
+  you're dining in or enjoying a meal at home, adding to its appeal for locals
+  hunting for tasty Japanese places nearby. The accessible entrance and seating
+  ensure a comfortable visit for many, enhancing its reputation as a reliable
+  option in the neighborhood.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Feedback on the Experience$$$Visitors to this sushi spot often highlight the
+  fresh and well-prepared dishes as a standout feature, with many appreciating
+  the variety of options that cater to different tastes in a casual setting.
+  While specific feedback varies, folks generally note the efficient service and
+  inviting vibe that make it a solid pick for anyone craving Japanese fare close
+  to home. Some mention that the delivery is a convenient plus for quick meals,
+  helping it maintain a positive buzz among sushi enthusiasts in the community.
+  Overall, it's seen as a dependable choice for quality dining, though like any
+  local eatery, experiences can depend on the day, keeping things real and
+  approachable for newcomers.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +245,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

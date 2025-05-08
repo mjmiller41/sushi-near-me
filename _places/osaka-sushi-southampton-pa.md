@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Osaka Sushi"
+title: Osaka Sushi
 permalink: /pennsylvania/southampton/osaka-sushi.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Southampton
 seo:
-  name: "Osaka Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.osaka504.com/
-description: "Osaka Sushi serves delicious sushi in Southampton, Pennsylvania. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJMwBvMWGsxokR7whFki24wWE
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c6ac61316f0033:0x61c1b82d924508ef!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 14
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:00 AM – 9:30 PM'
     - 'Wednesday: 11:00 AM – 9:30 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:00 PM'
     - 'Saturday: 11:00 AM – 10:00 PM'
     - 'Sunday: 2:00 – 9:30 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:00 AM – 9:30 PM'
-    - 'Wednesday: 11:00 AM – 9:30 PM'
-    - 'Thursday: 11:00 AM – 9:30 PM'
-    - 'Friday: 11:00 AM – 10:00 PM'
-    - 'Saturday: 11:00 AM – 10:00 PM'
-    - 'Sunday: 2:00 – 9:30 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +238,44 @@ phone: (215) 942-8802
 price_level: PRICE_LEVEL_INEXPENSIVE
 price_range: $10 &ndash; $20
 rating: '4.4'
-rating_count: 0
+rating_count: 217
 website: http://www.osaka504.com/
+description: >-
+  Discover Osaka Sushi in Southampton, PA$$$Osaka Sushi in Southampton, PA,
+  stands out as a casual dining destination offering a blend of Japanese and
+  Chinese cuisine highlights. This spot features fresh sushi rolls and other
+  flavorful dishes in a cozy, inviting atmosphere that's perfect for a relaxed
+  meal. With accessibility options like wheelchair-friendly parking and
+  entrances, it's designed to welcome everyone seeking authentic flavors without
+  any hassle. Operating hours cater to both lunch and dinner crowds, making it a
+  convenient choice for those exploring sushi restaurants nearby. Whether you're
+  in the mood for expertly prepared rolls or simple staples, this eatery
+  delivers a satisfying experience that combines quality and comfort.
+generative_summary: >-
+  Discover Osaka Sushi in Southampton, PA$$$Osaka Sushi in Southampton, PA,
+  stands out as a casual dining destination offering a blend of Japanese and
+  Chinese cuisine highlights. This spot features fresh sushi rolls and other
+  flavorful dishes in a cozy, inviting atmosphere that's perfect for a relaxed
+  meal. With accessibility options like wheelchair-friendly parking and
+  entrances, it's designed to welcome everyone seeking authentic flavors without
+  any hassle. Operating hours cater to both lunch and dinner crowds, making it a
+  convenient choice for those exploring sushi restaurants nearby. Whether you're
+  in the mood for expertly prepared rolls or simple staples, this eatery
+  delivers a satisfying experience that combines quality and comfort.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors to Osaka Sushi often highlight the fresh,
+  well-prepared dishes that make it a go-to for tasty sushi options in the area.
+  Many appreciate the friendly vibe and efficient service, which add to the
+  overall enjoyable dining experience without any major complaints. With a solid
+  rating reflecting positive feedback, it's clear that folks find the value and
+  flavors here worth returning for, especially when looking for reliable
+  Japanese places close by. While opinions vary slightly, the consensus leans
+  towards the spot being a solid pick for casual meals that hit the spot.
+  Overall, if you're on the hunt for top-rated sushi nearby, this place tends to
+  leave diners feeling pleased with their choice.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +301,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

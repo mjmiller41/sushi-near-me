@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Lulu's Fine Pizza & Sushi"
+title: Lulu's Fine Pizza & Sushi
 permalink: /idaho/boise/lulu-s-fine-pizza-sushi.html
 stateAbbr: ID
 stateName: Idaho
 cityName: Boise
 seo:
-  name: "Lulu's Fine Pizza & Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://ilovelulus.com/
-description: "Lulu's Fine Pizza & Sushi serves delicious sushi in Boise, Idaho. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ2Q-06tL-rlQRybDL6y456a8
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x54aefed2eab40fd9:0xafe9392eebcbb0c9!10e5
 primary_type: Pizza Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:00 PM'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:00 PM'
     - 'Saturday: 11:00 AM – 9:00 PM'
     - 'Sunday: 11:00 AM – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 9:00 PM'
-    - 'Saturday: 11:00 AM – 9:00 PM'
-    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,274 @@ phone: (208) 387-4992
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.4'
-rating_count: 0
+rating_count: 639
 website: http://ilovelulus.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Lulu's Fine Pizza & Sushi in Boise, ID$$$Lulu's Fine Pizza & Sushi in
+  Boise, ID, is a casual dining spot that combines New York-style pizzas with
+  fresh sushi options, creating a unique blend of Italian and Japanese flavors.
+  This eatery stands out for its creative menu featuring wood-fired pies,
+  inventive rolls, and hearty salads, making it a go-to choice for those seeking
+  top sushi restaurants in the area. With wheelchair-accessible features and
+  outdoor seating, it offers an inclusive and relaxed atmosphere perfect for
+  families or groups enjoying sushi near me. The restaurant also boasts a
+  selection of beers and wines, enhancing the overall experience for lunch or
+  dinner. Open daily from 11 AM to 9 PM, it's conveniently located in a
+  welcoming neighborhood, ideal for anyone exploring the best sushi spots in
+  Boise.
+generative_summary: >-
+  Discover Lulu's Fine Pizza & Sushi in Boise, ID$$$Lulu's Fine Pizza & Sushi in
+  Boise, ID, is a casual dining spot that combines New York-style pizzas with
+  fresh sushi options, creating a unique blend of Italian and Japanese flavors.
+  This eatery stands out for its creative menu featuring wood-fired pies,
+  inventive rolls, and hearty salads, making it a go-to choice for those seeking
+  top sushi restaurants in the area. With wheelchair-accessible features and
+  outdoor seating, it offers an inclusive and relaxed atmosphere perfect for
+  families or groups enjoying sushi near me. The restaurant also boasts a
+  selection of beers and wines, enhancing the overall experience for lunch or
+  dinner. Open daily from 11 AM to 9 PM, it's conveniently located in a
+  welcoming neighborhood, ideal for anyone exploring the best sushi spots in
+  Boise.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ2Q-06tL-rlQRybDL6y456a8/reviews/ChdDSUhNMG9nS0VJQ0FnSURfMDRYNXNnRRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 1
+    text:
+      text: >-
+        I ordered a medium pineapple pizza and was on my first slice when I
+        realized I was chewing on hair. I thought it was a cheese pull at first
+        but quickly realized it was in fact a hair. I’m so disappointed because
+        a friend recommended this place and the first bites were delicious. I
+        just couldn’t get myself to eat the rest so I had to throw it.
+      languageCode: en
+    originalText:
+      text: >-
+        I ordered a medium pineapple pizza and was on my first slice when I
+        realized I was chewing on hair. I thought it was a cheese pull at first
+        but quickly realized it was in fact a hair. I’m so disappointed because
+        a friend recommended this place and the first bites were delicious. I
+        just couldn’t get myself to eat the rest so I had to throw it.
+      languageCode: en
+    authorAttribution:
+      displayName: Cici Cruise
+      uri: https://www.google.com/maps/contrib/110105054801090327068/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjV2bmlzFJ9wlthiOm6EBCI5rEQY72yqJW8c75k6yszt-jDCkUj4ww=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-01-26T23:03:41.724901Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURfMDRYNXNnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURfMDRYNXNnRRAB!2m1!1s0x54aefed2eab40fd9:0xafe9392eebcbb0c9
+  - name: >-
+      places/ChIJ2Q-06tL-rlQRybDL6y456a8/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJaDc2a2VREAE
+    relativePublishTimeDescription: 4 weeks ago
+    rating: 1
+    text:
+      text: >-
+        If you’re looking for a slice of pizza with a side of explicit rap
+        lyrics and a heavy dose of passive aggression, look no further than
+        Lulu’s. We stopped in for a bite — instead, we got to enjoy vulgar music
+        blasting overhead, while families sat nearby with their kids.
+
+
+        When we (very politely) asked the staff if they could maybe switch to
+        something more family-friendly, they acted like we had personally
+        insulted their DJ careers. Eye rolls, sarcasm, and zero effort to make
+        the place even remotely comfortable for families. Apparently, asking for
+        basic decency is too much at Lulu’s.
+
+
+        It’s a shame, really — pizza might be decent, but the vibe? Yikes.
+        There’s edgy, and then there’s just careless. Do better.
+      languageCode: en
+    originalText:
+      text: >-
+        If you’re looking for a slice of pizza with a side of explicit rap
+        lyrics and a heavy dose of passive aggression, look no further than
+        Lulu’s. We stopped in for a bite — instead, we got to enjoy vulgar music
+        blasting overhead, while families sat nearby with their kids.
+
+
+        When we (very politely) asked the staff if they could maybe switch to
+        something more family-friendly, they acted like we had personally
+        insulted their DJ careers. Eye rolls, sarcasm, and zero effort to make
+        the place even remotely comfortable for families. Apparently, asking for
+        basic decency is too much at Lulu’s.
+
+
+        It’s a shame, really — pizza might be decent, but the vibe? Yikes.
+        There’s edgy, and then there’s just careless. Do better.
+      languageCode: en
+    authorAttribution:
+      displayName: Kelly E
+      uri: https://www.google.com/maps/contrib/104435476020380122997/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXPbL7c3paCSXgByeIZyhG4_5oOUPg_aNyDCWqIzdIglCSXnwXY=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-05T02:42:30.605245Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNJaDc2a2VREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNJaDc2a2VREAE!2m1!1s0x54aefed2eab40fd9:0xafe9392eebcbb0c9
+  - name: >-
+      places/ChIJ2Q-06tL-rlQRybDL6y456a8/reviews/ChZDSUhNMG9nS0VJQ0FnSURfLXBHT2VBEAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        Delicious vegetarian pizza options that are unique and creative. They
+        obviously have meat options too but I never eat the vegetarian style
+        pizza anywhere else. Their options actually appeal to me.
+
+
+        Pizza and sushi always seemed like a reason NOT to go here because I
+        figured they wouldn’t do either one very well. Totally wrong mindset!
+
+
+        Hit this place on your way down from Bogus and you’ll be so happy!
+      languageCode: en
+    originalText:
+      text: >-
+        Delicious vegetarian pizza options that are unique and creative. They
+        obviously have meat options too but I never eat the vegetarian style
+        pizza anywhere else. Their options actually appeal to me.
+
+
+        Pizza and sushi always seemed like a reason NOT to go here because I
+        figured they wouldn’t do either one very well. Totally wrong mindset!
+
+
+        Hit this place on your way down from Bogus and you’ll be so happy!
+      languageCode: en
+    authorAttribution:
+      displayName: Paul Masi
+      uri: https://www.google.com/maps/contrib/101210169224361359845/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjULxhGr5nTPVlcwZng-5zZNAkxRq7xTLdMwtudtC0LLz886BRTs=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-01-23T17:09:24.608509Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURfLXBHT2VBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURfLXBHT2VBEAE!2m1!1s0x54aefed2eab40fd9:0xafe9392eebcbb0c9
+  - name: >-
+      places/ChIJ2Q-06tL-rlQRybDL6y456a8/reviews/ChZDSUhNMG9nS0VJQ0FnSUNpcXNTSFdnEAE
+    relativePublishTimeDescription: 2 years ago
+    rating: 5
+    text:
+      text: >-
+        Very chill, very bizarre...serving pizza & sushi under the same roof.
+        But both are exceptional. You'd never know that this little Boise area
+        would have one of the best of both worlds tucked in a small commercial
+        (Highlands Village) area in the middle of a sleepy residential town near
+        the University. Pizzas, by the slice or medium/large, rival that of big
+        cities, with nice tangy tomato sauce to cheesy ratio on top of chewy
+        crust you can eat on its own. (They go well with bountiful salads here
+        too.) Sushi is impeccably made, inventive too (spicy rolls with bell
+        pepper & jalapeno), all of your favorites. Staff is equally cool,
+        laid-back & nice.
+      languageCode: en
+    originalText:
+      text: >-
+        Very chill, very bizarre...serving pizza & sushi under the same roof.
+        But both are exceptional. You'd never know that this little Boise area
+        would have one of the best of both worlds tucked in a small commercial
+        (Highlands Village) area in the middle of a sleepy residential town near
+        the University. Pizzas, by the slice or medium/large, rival that of big
+        cities, with nice tangy tomato sauce to cheesy ratio on top of chewy
+        crust you can eat on its own. (They go well with bountiful salads here
+        too.) Sushi is impeccably made, inventive too (spicy rolls with bell
+        pepper & jalapeno), all of your favorites. Staff is equally cool,
+        laid-back & nice.
+      languageCode: en
+    authorAttribution:
+      displayName: Carol Weber
+      uri: https://www.google.com/maps/contrib/101074926318992653684/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWzjQ2CwCPH0enrPeWFtVfDINOyjlfhYfoQ7pAxVIV_CUWCI_yy6A=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2022-05-31T01:58:31.259557Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNpcXNTSFdnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNpcXNTSFdnEAE!2m1!1s0x54aefed2eab40fd9:0xafe9392eebcbb0c9
+  - name: >-
+      places/ChIJ2Q-06tL-rlQRybDL6y456a8/reviews/ChdDSUhNMG9nS0VJQ0FnSUR0azhuX3FBRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 4
+    text:
+      text: >-
+        One of the better pizza joints in Boise! Annnnnnd they have sushi! I was
+        skeptical but not only is the sushi good but the pizza is fantastic!
+        Great flavor combos and you can even get it by the slice. I can’t drive
+        by this place without going in to get a slice of their jalapeño popper
+        pizza!
+      languageCode: en
+    originalText:
+      text: >-
+        One of the better pizza joints in Boise! Annnnnnd they have sushi! I was
+        skeptical but not only is the sushi good but the pizza is fantastic!
+        Great flavor combos and you can even get it by the slice. I can’t drive
+        by this place without going in to get a slice of their jalapeño popper
+        pizza!
+      languageCode: en
+    authorAttribution:
+      displayName: Smokin' With A-Aron
+      uri: https://www.google.com/maps/contrib/111341822601359603433/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjW_kZYWcFKo3qmgd-xqBRMVkMnVhaOUX8UT6PsO-9AjacNZdy4L6w=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2024-02-06T19:20:21.815384Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR0azhuX3FBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR0azhuX3FBRRAB!2m1!1s0x54aefed2eab40fd9:0xafe9392eebcbb0c9
+review_summary: >-
+  What Customers Are Saying About Lulu's$$$Folks generally enjoy the flavorful
+  pizza slices and fresh sushi at Lulu's, often highlighting it as a solid pick
+  for tasty, creative options that satisfy cravings for top-rated sushi in the
+  region. Many appreciate the quick service, friendly vibe, and relaxing patio
+  seating, which make it a great spot for casual meals with friends or family.
+  While the overall experience is positive, some mention occasional service
+  hiccups that could use smoothing out, like inconsistent attention to details.
+  Still, the welcoming atmosphere and variety of dishes, including vegetarian
+  choices and beer selections, keep it a reliable favorite. If you're hunting
+  for sushi places near me, this spot delivers a mostly enjoyable dine-in or
+  takeout experience with its mix of hits and minor areas for improvement.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
+curbside_pickup: false
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: true
+outdoor_seating: true
+reservable: false
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: false
+serves_coffee: false
+serves_dinner: true
 serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Trendy NYC-style pizzeria features wood-fired pies/slices, simple Italian fare
+  & live-music nights.
 
 ---

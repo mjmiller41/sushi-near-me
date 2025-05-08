@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Maki - Palmetto Bay"
+title: Sushi Maki - Palmetto Bay
 permalink: /florida/miami/sushi-maki-palmetto-bay.html
 stateAbbr: FL
 stateName: Florida
 cityName: Miami
 seo:
-  name: "Sushi Maki - Palmetto Bay"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi Maki - Palmetto Bay serves delicious sushi in Miami, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJV8ZsKprG2YgRxNf16gni5Pk
 photos:
   - name: >-
@@ -185,7 +183,44 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Sushi Maki in Miami, FL$$$Sushi Maki - Palmetto Bay in Miami, FL,
+  stands out as a go-to spot for fresh sushi options, blending convenience and
+  accessibility in a welcoming setting. This sushi restaurant features
+  thoughtful design elements like wheelchair-friendly parking and entrances,
+  making it an inclusive choice for diners seeking Japanese-inspired flavors.
+  Patrons can enjoy a relaxed atmosphere with a variety of seating arrangements,
+  ideal for casual meals or quick bites after exploring local spots. The menu
+  draws from traditional elements, offering satisfying dishes that appeal to
+  those hunting for top-rated sushi near me. Overall, it's a reliable option for
+  anyone in the area looking to savor authentic tastes in a comfortable
+  environment.
+generative_summary: >-
+  Discover Sushi Maki in Miami, FL$$$Sushi Maki - Palmetto Bay in Miami, FL,
+  stands out as a go-to spot for fresh sushi options, blending convenience and
+  accessibility in a welcoming setting. This sushi restaurant features
+  thoughtful design elements like wheelchair-friendly parking and entrances,
+  making it an inclusive choice for diners seeking Japanese-inspired flavors.
+  Patrons can enjoy a relaxed atmosphere with a variety of seating arrangements,
+  ideal for casual meals or quick bites after exploring local spots. The menu
+  draws from traditional elements, offering satisfying dishes that appeal to
+  those hunting for top-rated sushi near me. Overall, it's a reliable option for
+  anyone in the area looking to savor authentic tastes in a comfortable
+  environment.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this sushi spot often rave about the
+  fresh, flavorful rolls that make it a standout among sushi restaurants in the
+  region. Many appreciate the approachable vibe and attentive service, which
+  help create a laid-back dining experience perfect for families or groups.
+  Feedback frequently highlights the value for money and variety of options,
+  with folks noting it's a solid pick for anyone searching for sushi close to
+  me. While some mention occasional waits during peak times, the overall
+  consensus leans positive, praising the quality ingredients and welcoming feel.
+  In summary, it's a favorite for those who love sushi, offering a consistently
+  enjoyable visit that keeps people coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +246,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -5,4 +5,5 @@ permalink: /texas/corpus-christi/
 stateAbbr: TX
 stateName: Texas
 cityName: Corpus Christi
+
 ---

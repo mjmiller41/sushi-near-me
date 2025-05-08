@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Black Pine Tree Sushi Bar"
+title: Black Pine Tree Sushi Bar
 permalink: /michigan/southgate/black-pine-tree-sushi-bar.html
 stateAbbr: MI
 stateName: Michigan
 cityName: Southgate
 seo:
-  name: "Black Pine Tree Sushi Bar"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Snug sushi house earns buzz for its unique rolls & classic Japanese fare in a relaxed, simple space. Black Pine Tree Sushi Bar serves delicious sushi in Southgate, Michigan. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJEbpg-YU3O4gRF1-sn0l06Io
 photos:
   - name: >-
@@ -185,6 +183,27 @@ price_range: null
 rating: '4.4'
 rating_count: 0
 website: null
+description: >-
+  Discover Black Pine Tree Sushi Bar in Southgate, MI$$$Nestled in Southgate,
+  MI, Black Pine Tree Sushi Bar stands out as a cozy spot for enjoying fresh
+  sushi and Japanese dishes in a relaxed atmosphere. This sushi restaurant
+  offers a variety of unique rolls and classic fare, paired with options like
+  sake and beer for a complete dining experience. Accessibility features make it
+  welcoming for all guests, ensuring everyone can enjoy the simple yet inviting
+  space. With its focus on quality ingredients and a bar setting, it's an ideal
+  choice for those seeking sushi restaurants in the area that blend tradition
+  with everyday convenience.
+generative_summary: >-
+  Discover Black Pine Tree Sushi Bar in Southgate, MI$$$Nestled in Southgate,
+  MI, Black Pine Tree Sushi Bar stands out as a cozy spot for enjoying fresh
+  sushi and Japanese dishes in a relaxed atmosphere. This sushi restaurant
+  offers a variety of unique rolls and classic fare, paired with options like
+  sake and beer for a complete dining experience. Accessibility features make it
+  welcoming for all guests, ensuring everyone can enjoy the simple yet inviting
+  space. With its focus on quality ingredients and a bar setting, it's an ideal
+  choice for those seeking sushi restaurants in the area that blend tradition
+  with everyday convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJEbpg-YU3O4gRF1-sn0l06Io/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3bnBhMmRREAE
@@ -384,6 +403,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURYNFBQdW53RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURYNFBQdW53RRAB!2m1!1s0x883b3785f960ba11:0x8ae874499fac5f17
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors to this sushi spot often highlight
+  the fresh flavors and well-prepared rolls, making it a go-to for anyone
+  craving authentic Japanese cuisine nearby. While some appreciate the attentive
+  service and specific dishes like creative specials that stand out, others note
+  occasional inconsistencies with to-go orders or certain entrees feeling less
+  flavorful. Overall, the positive vibes around the freshness and variety keep
+  it on the list for casual diners, though it's wise to dine in for the full
+  experience. If you're exploring top-rated sushi options, this place delivers
+  enjoyable moments with room for tweaks, encouraging repeat visits for its
+  strengths in taste and atmosphere.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -416,8 +447,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Snug sushi house earns buzz for its unique rolls & classic Japanese fare in a
   relaxed, simple space.
 

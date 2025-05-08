@@ -5,4 +5,5 @@ permalink: /california/campbell/
 stateAbbr: CA
 stateName: California
 cityName: Campbell
+
 ---

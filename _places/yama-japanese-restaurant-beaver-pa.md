@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yama Japanese Restaurant"
+title: Yama Japanese Restaurant
 permalink: /pennsylvania/beaver/yama-japanese-restaurant.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Beaver
 seo:
-  name: "Yama Japanese Restaurant"
-  type: Restaurant
-  links: null
-description: "Yama Japanese Restaurant serves delicious sushi in Beaver, Pennsylvania. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.yamabeaver.com/
 place_id: ChIJ6bO_RcFvNIgRXPjCbC1xF-g
 photos:
   - name: >-
@@ -170,8 +168,105 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x88346fc145bfb3e9:0xe817712d6cc2f85c!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 15
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 15
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 3:00 PM, 4:30 – 9:30 PM'
+    - 'Tuesday: 11:00 AM – 3:00 PM, 4:30 – 9:30 PM'
+    - 'Wednesday: 11:00 AM – 3:00 PM, 4:30 – 9:30 PM'
+    - 'Thursday: 11:00 AM – 3:00 PM, 4:30 – 9:30 PM'
+    - 'Friday: 11:00 AM – 3:00 PM, 4:30 – 10:30 PM'
+    - 'Saturday: 11:00 AM – 10:30 PM'
+    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +274,50 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (724) 774-5998
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.6'
+rating_count: 589
+website: http://www.yamabeaver.com/
+description: >-
+  Discover Yama Japanese Restaurant in Beaver, PA$$$Yama Japanese Restaurant in
+  Beaver, PA, stands out as a casual dining spot perfect for those seeking
+  flavorful Japanese cuisine, including fresh sushi and bento boxes. The menu
+  caters to a variety of tastes with options that highlight traditional flavors,
+  making it an ideal choice for families or anyone exploring top-rated sushi
+  spots nearby. Accessibility features like wheelchair-friendly entrances and
+  seating add to the welcoming vibe, ensuring everyone can enjoy the experience.
+  Open for lunch and dinner throughout the week, this spot provides a relaxed
+  atmosphere where you can savor authentic dishes, from classic rolls to
+  kid-friendly selections, ideal for those searching for sushi restaurants close
+  to home.
+generative_summary: >-
+  Discover Yama Japanese Restaurant in Beaver, PA$$$Yama Japanese Restaurant in
+  Beaver, PA, stands out as a casual dining spot perfect for those seeking
+  flavorful Japanese cuisine, including fresh sushi and bento boxes. The menu
+  caters to a variety of tastes with options that highlight traditional flavors,
+  making it an ideal choice for families or anyone exploring top-rated sushi
+  spots nearby. Accessibility features like wheelchair-friendly entrances and
+  seating add to the welcoming vibe, ensuring everyone can enjoy the experience.
+  Open for lunch and dinner throughout the week, this spot provides a relaxed
+  atmosphere where you can savor authentic dishes, from classic rolls to
+  kid-friendly selections, ideal for those searching for sushi restaurants close
+  to home.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Customer Reviews$$$Folks often rave about the tasty sushi at
+  this Japanese eatery, with highlights on fresh rolls and sashimi that bring a
+  burst of flavor to every bite. Many appreciate the attentive service that
+  makes dining out feel easy and enjoyable, adding a warm touch to the overall
+  visit. The atmosphere comes across as inviting and comfortable, creating a
+  pleasant backdrop for meals with friends or family. While opinions focus on
+  the solid food quality and friendly staff, it's clear this place delivers a
+  consistently positive experience for those hunting for the best sushi near me.
+  Overall, it's a go-to option that keeps things light and satisfying without
+  any major drawbacks.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +343,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

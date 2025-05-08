@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Umi Japanese Steakhouse"
+title: Umi Japanese Steakhouse
 permalink: /new-york/victor/umi-japanese-steakhouse.html
 stateAbbr: NY
 stateName: New York
 cityName: Victor
 seo:
-  name: "Umi Japanese Steakhouse"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Umi Japanese Steakhouse serves delicious sushi in Victor, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ5_8_zMQz0YkRvD7nk-9yrNE
 photos:
   - name: >-
@@ -185,7 +183,44 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Umi Japanese Steakhouse in Victor, NY$$$Umi Japanese Steakhouse in
+  Victor, New York, stands out as a welcoming spot for savoring fresh sushi and
+  hibachi dishes in a relaxed environment. This Japanese eatery delights with
+  its flavorful offerings, including expertly prepared rolls and sizzling grill
+  experiences that cater to a variety of tastes. The casual setting makes it an
+  ideal choice for casual gatherings or special occasions, blending authentic
+  flavors with an approachable vibe. Accessibility features ensure everyone can
+  enjoy the experience, from ample parking to easy entry, enhancing its appeal
+  for families and groups. Whether you're exploring top-rated Japanese options
+  nearby, Umi combines quality ingredients with a lively atmosphere to create
+  memorable meals.
+generative_summary: >-
+  Discover Umi Japanese Steakhouse in Victor, NY$$$Umi Japanese Steakhouse in
+  Victor, New York, stands out as a welcoming spot for savoring fresh sushi and
+  hibachi dishes in a relaxed environment. This Japanese eatery delights with
+  its flavorful offerings, including expertly prepared rolls and sizzling grill
+  experiences that cater to a variety of tastes. The casual setting makes it an
+  ideal choice for casual gatherings or special occasions, blending authentic
+  flavors with an approachable vibe. Accessibility features ensure everyone can
+  enjoy the experience, from ample parking to easy entry, enhancing its appeal
+  for families and groups. Whether you're exploring top-rated Japanese options
+  nearby, Umi combines quality ingredients with a lively atmosphere to create
+  memorable meals.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Visitor Feedback$$$Visitors frequently highlight the enjoyable
+  sushi selections and lively hibachi performances that bring energy to the
+  table. Many appreciate the laid-back vibe that's perfect for casual meetups or
+  celebrations, making it a go-to for those seeking authentic Japanese flavors
+  without the fuss. While opinions vary, the overall consensus leans positive,
+  with folks noting the fresh ingredients and engaging service that keep things
+  fun and satisfying. It's often recommended for anyone hunting for reliable
+  dining spots in the area, offering a solid mix of taste and entertainment.
+  Keep in mind that while experiences can differ, this place maintains a
+  welcoming feel that's worth checking out for sushi enthusiasts.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +246,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

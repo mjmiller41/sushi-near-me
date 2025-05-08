@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Marui Sushi"
+title: Marui Sushi
 permalink: /california/corona/marui-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Corona
 seo:
-  name: "Marui Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://maruisushica.com/
-description: "Marui Sushi serves delicious sushi in Corona, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJJ8hJIW643IARkWmJPQGJ77Y
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80dcb86e2149c827:0xb6ef89013d896991!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 10:00 PM'
     - 'Tuesday: 11:00 AM – 10:00 PM'
     - 'Wednesday: 11:00 AM – 10:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:00 PM'
     - 'Saturday: 11:00 AM – 10:00 PM'
     - 'Sunday: 12:00 – 10:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 10:00 PM'
-    - 'Tuesday: 11:00 AM – 10:00 PM'
-    - 'Wednesday: 11:00 AM – 10:00 PM'
-    - 'Thursday: 11:00 AM – 10:00 PM'
-    - 'Friday: 11:00 AM – 10:00 PM'
-    - 'Saturday: 11:00 AM – 10:00 PM'
-    - 'Sunday: 12:00 – 10:00 PM'
+  nextCloseTime: '2025-05-04T05:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,223 @@ phone: (951) 734-5800
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.5'
-rating_count: 0
+rating_count: 464
 website: http://maruisushica.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Explore Marui Sushi in Corona, CA$$$Marui Sushi in Corona, CA, stands out as a
+  casual spot for enjoying fresh Japanese cuisine, featuring creative sushi
+  rolls and other authentic dishes in a welcoming environment. This sushi
+  restaurant offers a variety of options including vegetarian plates, paired
+  perfectly with beer and wine, making it ideal for a relaxed meal with friends
+  or family. Accessibility is a key highlight, with wheelchair-friendly features
+  and ample parking that enhance the overall experience for all visitors. Open
+  daily for lunch and dinner, it provides a festive atmosphere in a shopping
+  complex, ensuring a delightful dining option for those seeking quality sushi
+  nearby. Whether you're looking for top-rated Japanese flavors or a cozy place
+  to unwind, Marui Sushi delivers on taste and convenience.
+generative_summary: >-
+  Explore Marui Sushi in Corona, CA$$$Marui Sushi in Corona, CA, stands out as a
+  casual spot for enjoying fresh Japanese cuisine, featuring creative sushi
+  rolls and other authentic dishes in a welcoming environment. This sushi
+  restaurant offers a variety of options including vegetarian plates, paired
+  perfectly with beer and wine, making it ideal for a relaxed meal with friends
+  or family. Accessibility is a key highlight, with wheelchair-friendly features
+  and ample parking that enhance the overall experience for all visitors. Open
+  daily for lunch and dinner, it provides a festive atmosphere in a shopping
+  complex, ensuring a delightful dining option for those seeking quality sushi
+  nearby. Whether you're looking for top-rated Japanese flavors or a cozy place
+  to unwind, Marui Sushi delivers on taste and convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJJ8hJIW643IARkWmJPQGJ77Y/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfOWZYNDN3RRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        I love Mauri! Been going there for years and it is always great food and
+        great atmosphere! I love the volcano roll, it comes to the table
+        flaming! I highly recommend them.
+      languageCode: en
+    originalText:
+      text: >-
+        I love Mauri! Been going there for years and it is always great food and
+        great atmosphere! I love the volcano roll, it comes to the table
+        flaming! I highly recommend them.
+      languageCode: en
+    authorAttribution:
+      displayName: C Ray
+      uri: https://www.google.com/maps/contrib/101339138577423447650/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJVJrCXnatt2EIF6xDayrmIzBUKdwP5mMq9rxhMrejwTGwR6Q=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-01-18T00:59:19.706371Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNfOWZYNDN3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNfOWZYNDN3RRAB!2m1!1s0x80dcb86e2149c827:0xb6ef89013d896991
+  - name: >-
+      places/ChIJJ8hJIW643IARkWmJPQGJ77Y/reviews/ChZDSUhNMG9nS0VJQ0FnSUM3MUwzblF3EAE
+    relativePublishTimeDescription: 8 months ago
+    rating: 5
+    text:
+      text: >-
+        I went there with my son who love to eat sushi, and love it, the salmon
+        sashimi is fresh and tasty and the spicy scallops are amazing.
+      languageCode: en
+    originalText:
+      text: >-
+        I went there with my son who love to eat sushi, and love it, the salmon
+        sashimi is fresh and tasty and the spicy scallops are amazing.
+      languageCode: en
+    authorAttribution:
+      displayName: Jackline Sedra
+      uri: https://www.google.com/maps/contrib/113160733106904288346/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJ0N_dS3Yky_VkXxrKNL53nrD4wm8GXIwU-R6JatGsQrFmYDw=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-08-12T23:30:33.022888Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUM3MUwzblF3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUM3MUwzblF3EAE!2m1!1s0x80dcb86e2149c827:0xb6ef89013d896991
+  - name: >-
+      places/ChIJJ8hJIW643IARkWmJPQGJ77Y/reviews/ChZDSUhNMG9nS0VJQ0FnSUQzX2RPREt3EAE
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        Amazing restaurant for sushi 🍣. Service was quick, and the host was
+        very welcoming. So far, everything I've tried has been very yummy. The
+        owner is also super cool. Give this place a try. You won't be
+        disappointed.
+      languageCode: en
+    originalText:
+      text: >-
+        Amazing restaurant for sushi 🍣. Service was quick, and the host was
+        very welcoming. So far, everything I've tried has been very yummy. The
+        owner is also super cool. Give this place a try. You won't be
+        disappointed.
+      languageCode: en
+    authorAttribution:
+      displayName: Иіск Р
+      uri: https://www.google.com/maps/contrib/108431070402154736615/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUmSbUju2YznkRWFDraDiBBj9E7DMbPb4FFS-sGuWP0EP4-6r24=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-11-18T05:30:10.616740Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQzX2RPREt3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQzX2RPREt3EAE!2m1!1s0x80dcb86e2149c827:0xb6ef89013d896991
+  - name: >-
+      places/ChIJJ8hJIW643IARkWmJPQGJ77Y/reviews/ChdDSUhNMG9nS0VJQ0FnSUNHd3B6cnBnRRAB
+    relativePublishTimeDescription: 3 years ago
+    rating: 5
+    text:
+      text: >-
+        ABSOLUTELY FABULOUS!!! Every single time!! The place is clean, the
+        people are AWESOME!! The sushi is FANTASTIC! Small little place,
+        intimate, great service, best "Salmon skin hand roll," I've ever had.
+        🍣🍤🍚🥣 Rolls are so fresh, and big portions! 😋 You will not be
+        disappointed 🍶🍵🍶🍵
+      languageCode: en
+    originalText:
+      text: >-
+        ABSOLUTELY FABULOUS!!! Every single time!! The place is clean, the
+        people are AWESOME!! The sushi is FANTASTIC! Small little place,
+        intimate, great service, best "Salmon skin hand roll," I've ever had.
+        🍣🍤🍚🥣 Rolls are so fresh, and big portions! 😋 You will not be
+        disappointed 🍶🍵🍶🍵
+      languageCode: en
+    authorAttribution:
+      displayName: Kerrie Boyette
+      uri: https://www.google.com/maps/contrib/103244434407156252801/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVkRAAqoRGo2tQnyvIQuCNHxnm-dpxFSzuVR2xkPU1reF-VPprTDw=s128-c0x00000000-cc-rp-mo
+    publishTime: '2022-03-29T04:59:04.640036Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNHd3B6cnBnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNHd3B6cnBnRRAB!2m1!1s0x80dcb86e2149c827:0xb6ef89013d896991
+  - name: >-
+      places/ChIJJ8hJIW643IARkWmJPQGJ77Y/reviews/ChdDSUhNMG9nS0VJQ0FnSUMxcE9YYWhnRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        I absolutely loved this restaurant!! The sushi was great and tasted very
+        fresh. It felt like such a small town vibe, where everyone knows
+        everyone. They were very warm and welcoming, at least 5 different staff
+        members stopped by to chat with or check on us. You could tell that
+        everyone working there cares a lot about their guests. Truly such a
+        joyful visit!
+      languageCode: en
+    originalText:
+      text: >-
+        I absolutely loved this restaurant!! The sushi was great and tasted very
+        fresh. It felt like such a small town vibe, where everyone knows
+        everyone. They were very warm and welcoming, at least 5 different staff
+        members stopped by to chat with or check on us. You could tell that
+        everyone working there cares a lot about their guests. Truly such a
+        joyful visit!
+      languageCode: en
+    authorAttribution:
+      displayName: Madelyn Giglio
+      uri: https://www.google.com/maps/contrib/104512501900156051449/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVk2pMD9MREbDiTUHGCJWavPbj2CF_I2Lt9Hkv0msODQM44IPg=s128-c0x00000000-cc-rp-mo
+    publishTime: '2023-12-23T05:10:24.534680Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMxcE9YYWhnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMxcE9YYWhnRRAB!2m1!1s0x80dcb86e2149c827:0xb6ef89013d896991
+review_summary: >-
+  Customer Feedback on Marui Sushi$$$Folks often rave about the fresh and
+  flavorful sushi at this spot, with many highlighting how the dishes like rolls
+  and sashimi bring a burst of authentic taste to every bite. Service tends to
+  be quick and welcoming, creating a laid-back vibe that makes diners feel right
+  at home, and it's frequently noted as a great choice for groups or families.
+  Reviewers appreciate the generous portions and overall quality, suggesting
+  it's a reliable pick for anyone craving Japanese eats without any major
+  letdowns. While it's clear this place shines for its atmosphere and variety,
+  it's also mentioned as a solid option for everyday meals, keeping things
+  positive yet real for sushi enthusiasts in the area. All in all, it comes
+  across as one of the go-to sushi restaurants near Corona for a satisfying
+  experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
+curbside_pickup: false
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: true
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
 serves_brunch: null
 serves_cocktails: null
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Festive fixture in a shopping complex with creative sushi & other Japanese
+  dishes, plus beer & sake.
 
 ---

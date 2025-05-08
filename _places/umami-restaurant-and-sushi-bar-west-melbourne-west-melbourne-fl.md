@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Umami Restaurant and Sushi Bar West Melbourne"
+title: Umami Restaurant and Sushi Bar West Melbourne
 permalink: /florida/west-melbourne/umami-restaurant-and-sushi-bar-west-melbourne.html
 stateAbbr: FL
 stateName: Florida
 cityName: West Melbourne
 seo:
-  name: "Umami Restaurant and Sushi Bar West Melbourne"
-  type: Restaurant
+  type: restaurant
   links: http://www.myumamisushi.com/
-description: "Japanese kitchen fare, sushi & imported bottled beers served in a casual environment. Umami Restaurant and Sushi Bar West Melbourne serves delicious sushi in West Melbourne, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJdZlSM3kO3ogRR6JOBRufSB8
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: null
 rating: '4.7'
 rating_count: 0
 website: http://www.myumamisushi.com/
+description: >-
+  Umami Restaurant and Sushi Bar in West Melbourne, FL$$$Nestled in West
+  Melbourne, FL, Umami Restaurant and Sushi Bar stands out as a welcoming spot
+  for enjoying fresh Japanese dishes and creative sushi options in a relaxed
+  setting. This sushi restaurant near me offers a blend of traditional flavors
+  and innovative twists, featuring high-quality ingredients that make every meal
+  memorable, from appetizers to imported beers. The casual atmosphere is perfect
+  for individuals or groups seeking a break from the everyday, with attentive
+  service that enhances the overall experience. Accessibility features like
+  wheelchair-friendly entrances add to its appeal, ensuring everyone can savor
+  the diverse menu that highlights flavorful combinations.
+generative_summary: >-
+  Umami Restaurant and Sushi Bar in West Melbourne, FL$$$Nestled in West
+  Melbourne, FL, Umami Restaurant and Sushi Bar stands out as a welcoming spot
+  for enjoying fresh Japanese dishes and creative sushi options in a relaxed
+  setting. This sushi restaurant near me offers a blend of traditional flavors
+  and innovative twists, featuring high-quality ingredients that make every meal
+  memorable, from appetizers to imported beers. The casual atmosphere is perfect
+  for individuals or groups seeking a break from the everyday, with attentive
+  service that enhances the overall experience. Accessibility features like
+  wheelchair-friendly entrances add to its appeal, ensuring everyone can savor
+  the diverse menu that highlights flavorful combinations.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJdZlSM3kO3ogRR6JOBRufSB8/reviews/ChdDSUhNMG9nS0VJQ0FnTURJdHR1NWlRRRAB
@@ -384,6 +405,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUM3bXRqOEdnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUM3bXRqOEdnEAE!2m1!1s0x88de0e7933529975:0x1f489f1b054ea247
+review_summary: >-
+  Feedback from Diners$$$Visitors often praise the standout sushi and Japanese
+  dishes at this local favorite, noting the fresh ingredients and creative
+  presentations that keep things exciting and delicious. Many appreciate the
+  friendly service and cozy vibe, which make it a great choice for casual
+  dinners or trying new flavors without the fuss. While some mention that
+  portions could feel more generous for the price, the overall experience leaves
+  most satisfied and eager to return for more. Folks searching for top-rated
+  sushi places near me will find the menu's variety, including options for
+  vegetarians, hits the mark for quality and taste. In general, it's a solid
+  pick for anyone looking to enjoy a laid-back meal with reliable flavors that
+  don't disappoint.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -417,8 +451,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Japanese kitchen fare, sushi & imported bottled beers served in a casual
   environment.
 

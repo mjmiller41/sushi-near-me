@@ -5,4 +5,5 @@ permalink: /new-jersey/lake-hopatcong/
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Lake Hopatcong
+
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Moshi Moshi"
+title: Moshi Moshi
 permalink: /new-jersey/waldwick/moshi-moshi.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Waldwick
 seo:
-  name: "Moshi Moshi"
-  type: Restaurant
-  links: null
-description: "Moshi Moshi serves delicious sushi in Waldwick, New Jersey. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.moshimoshinj.com/
 place_id: ChIJ3_lo7njkwokR8MU9C_2sr-o
 photos:
   - name: >-
@@ -170,8 +168,89 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c2e478ee68f9df:0xeaafacfd0b3dc5f0!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 15
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: Closed'
+    - 'Tuesday: 11:30 AM – 3:00 PM, 4:00 – 9:00 PM'
+    - 'Wednesday: 11:30 AM – 3:00 PM, 4:00 – 9:00 PM'
+    - 'Thursday: 11:30 AM – 3:00 PM, 4:00 – 9:00 PM'
+    - 'Friday: 11:30 AM – 3:00 PM, 4:00 – 9:00 PM'
+    - 'Saturday: 11:30 AM – 9:00 PM'
+    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T01:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +258,50 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (201) 444-1130
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.6'
+rating_count: 162
+website: http://www.moshimoshinj.com/
+description: >-
+  Discover Moshi Moshi in Waldwick, NJ$$$Moshi Moshi in Waldwick, NJ, is a
+  welcoming Japanese eatery that combines a casual vibe with authentic flavors,
+  making it a go-to choice for those seeking sushi restaurants in the area. This
+  spot features a cozy sushi bar where fresh, traditional dishes are prepared
+  with care, alongside a selection of teas that enhance the dining experience.
+  Accessibility is a key highlight, with options like wheelchair-accessible
+  seating and entrances ensuring everyone can enjoy the relaxed atmosphere.
+  Operating hours cater to lunch and dinner crowds, with the restaurant
+  currently open for convenient visits. Whether you're exploring Japanese places
+  near you or craving top-rated sushi, Moshi Moshi delivers a straightforward
+  yet satisfying meal at moderate prices.
+generative_summary: >-
+  Discover Moshi Moshi in Waldwick, NJ$$$Moshi Moshi in Waldwick, NJ, is a
+  welcoming Japanese eatery that combines a casual vibe with authentic flavors,
+  making it a go-to choice for those seeking sushi restaurants in the area. This
+  spot features a cozy sushi bar where fresh, traditional dishes are prepared
+  with care, alongside a selection of teas that enhance the dining experience.
+  Accessibility is a key highlight, with options like wheelchair-accessible
+  seating and entrances ensuring everyone can enjoy the relaxed atmosphere.
+  Operating hours cater to lunch and dinner crowds, with the restaurant
+  currently open for convenient visits. Whether you're exploring Japanese places
+  near you or craving top-rated sushi, Moshi Moshi delivers a straightforward
+  yet satisfying meal at moderate prices.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About This Spot$$$Visitors to this local sushi joint
+  often highlight the fresh and flavorful rolls that make it stand out among
+  sushi places nearby, with many noting the consistent quality in their
+  feedback. A strong 4.6-star rating from numerous reviews suggests folks
+  appreciate the variety of traditional options and the overall laid-back feel,
+  perfect for a casual outing. Some mention the attentive service adds to the
+  enjoyable experience, though a few point out that wait times can vary during
+  peak hours. All in all, if you're on the hunt for the best sushi near me, this
+  spot gets solid nods for its reliable taste and welcoming environment, making
+  it a worthwhile stop for anyone in the mood for Japanese-inspired eats.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +327,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

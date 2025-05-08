@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Mint Chinese & Thai Cuisine"
+title: Mint Chinese & Thai Cuisine
 permalink: /georgia/chamblee/mint-chinese-thai-cuisine.html
 stateAbbr: GA
 stateName: Georgia
 cityName: Chamblee
 seo:
-  name: "Mint Chinese & Thai Cuisine"
-  type: Restaurant
+  type: restaurant
   links: https://www.mintchinesenthai.com/
-description: "Strip-mall spot for rice dishes, dumplings & more Chinese classics, plus Thai noodles & curries. Mint Chinese & Thai Cuisine serves delicious sushi in Chamblee, Georgia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJJTqhMl4I9YgRAyuDOExyzbQ
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $10 &ndash; $20
 rating: '4.0'
 rating_count: 0
 website: https://www.mintchinesenthai.com/
+description: >-
+  About Mint Chinese & Thai Cuisine in Chamblee, Georgia$$$Mint Chinese & Thai
+  Cuisine in Chamblee, Georgia, provides a relaxed spot for enjoying a variety
+  of Chinese and Thai dishes, including fresh rice options, flavorful curries,
+  and satisfying desserts. This neighborhood eatery emphasizes accessibility
+  with features like wheelchair-friendly parking and seating, making it
+  welcoming for all diners. It offers a range of vegan and vegetarian choices
+  alongside hearty meals, catering to diverse preferences in a casual strip-mall
+  setting. The menu highlights affordable pricing and convenient takeout, ideal
+  for those seeking Chinese restaurants near Chamblee or Thai cuisine in the
+  Atlanta area.
+generative_summary: >-
+  About Mint Chinese & Thai Cuisine in Chamblee, Georgia$$$Mint Chinese & Thai
+  Cuisine in Chamblee, Georgia, provides a relaxed spot for enjoying a variety
+  of Chinese and Thai dishes, including fresh rice options, flavorful curries,
+  and satisfying desserts. This neighborhood eatery emphasizes accessibility
+  with features like wheelchair-friendly parking and seating, making it
+  welcoming for all diners. It offers a range of vegan and vegetarian choices
+  alongside hearty meals, catering to diverse preferences in a casual strip-mall
+  setting. The menu highlights affordable pricing and convenient takeout, ideal
+  for those seeking Chinese restaurants near Chamblee or Thai cuisine in the
+  Atlanta area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJJTqhMl4I9YgRAyuDOExyzbQ/reviews/ChdDSUhNMG9nS0VJQ0FnSURQeDkyRHNnRRAB
@@ -364,6 +385,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUN3eXRDM2p3RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUN3eXRDM2p3RRAB!2m1!1s0x88f5085e32a13a25:0xb4cd724c38832b03
+review_summary: >-
+  Customer Feedback on Mint Chinese & Thai Cuisine$$$Visitors often appreciate
+  the halal meat and chicken options at this spot, which add a welcoming touch
+  for those with specific dietary needs in the Atlanta region. Many enjoy the
+  tasty dishes like fried rice and beef entrees, noting that meals are generally
+  fresh and hit the spot for a quick, satisfying meal. While most experiences
+  highlight friendly service and quick preparation, a few mentions point to
+  occasional inconsistencies, such as overly tangy flavors or minor operational
+  hiccups, but these don't overshadow the positives. Overall, it's a solid
+  choice for anyone craving affordable Chinese and Thai fare, with the community
+  vibe encouraging repeat visits for takeout or dine-in. If you're exploring
+  Thai places near me or Chinese restaurants in Chamblee, this location delivers
+  a generally enjoyable experience worth trying.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -396,8 +431,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Strip-mall spot for rice dishes, dumplings & more Chinese classics, plus Thai
   noodles & curries.
 

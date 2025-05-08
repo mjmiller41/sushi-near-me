@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Greenlake Sushi and Roll"
+title: Greenlake Sushi and Roll
 permalink: /washington/seattle/greenlake-sushi-and-roll.html
 stateAbbr: WA
 stateName: Washington
 cityName: Seattle
 seo:
-  name: "Greenlake Sushi and Roll"
-  type: Restaurant
+  type: restaurant
   links: https://greenlakesushi.square.site/
-description: "Greenlake Sushi and Roll serves delicious sushi in Seattle, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJpVIcS2gVkFQRKUdeJfFIHmY
 photos:
   - name: >-
@@ -170,7 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x549015684b1c52a5:0x661e48f1255e4729!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 4:30 – 9:00 PM'
     - 'Wednesday: 4:30 – 9:00 PM'
@@ -178,14 +242,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 3:00 PM, 4:30 – 9:00 PM'
     - 'Saturday: 11:30 AM – 9:00 PM'
     - 'Sunday: 11:30 AM – 9:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 4:30 – 9:00 PM'
-    - 'Wednesday: 4:30 – 9:00 PM'
-    - 'Thursday: 11:30 AM – 3:00 PM, 4:30 – 9:00 PM'
-    - 'Friday: 11:30 AM – 3:00 PM, 4:30 – 9:00 PM'
-    - 'Saturday: 11:30 AM – 9:00 PM'
-    - 'Sunday: 11:30 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +254,50 @@ phone: (206) 941-0960
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.4'
-rating_count: 0
+rating_count: 179
 website: https://greenlakesushi.square.site/
+description: >-
+  Explore Greenlake Sushi and Roll in Seattle, WA$$$Greenlake Sushi and Roll in
+  Seattle, WA, stands out as a welcoming spot for enjoying fresh Japanese
+  cuisine, featuring an array of sushi rolls and creative options for all
+  tastes. This casual eatery highlights a variety of dishes that include
+  vegan-friendly choices, paired with a selection of wines and cocktails to
+  enhance the dining experience. Located in the vibrant Green Lake neighborhood,
+  it offers accessible seating and entrances, making it easy for everyone to
+  savor the flavors. The menu focuses on high-quality ingredients and thoughtful
+  presentations, creating a relaxed atmosphere perfect for a casual meal or
+  special occasion. With its moderate pricing and convenient hours, it's an
+  ideal destination for those seeking authentic Japanese flavors in a cozy
+  setting.
+generative_summary: >-
+  Explore Greenlake Sushi and Roll in Seattle, WA$$$Greenlake Sushi and Roll in
+  Seattle, WA, stands out as a welcoming spot for enjoying fresh Japanese
+  cuisine, featuring an array of sushi rolls and creative options for all
+  tastes. This casual eatery highlights a variety of dishes that include
+  vegan-friendly choices, paired with a selection of wines and cocktails to
+  enhance the dining experience. Located in the vibrant Green Lake neighborhood,
+  it offers accessible seating and entrances, making it easy for everyone to
+  savor the flavors. The menu focuses on high-quality ingredients and thoughtful
+  presentations, creating a relaxed atmosphere perfect for a casual meal or
+  special occasion. With its moderate pricing and convenient hours, it's an
+  ideal destination for those seeking authentic Japanese flavors in a cozy
+  setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Feedback from Diners on the Experience$$$Visitors to this Seattle sushi spot
+  often praise the fresh and flavorful rolls, noting how the variety keeps
+  things exciting for both sushi lovers and newcomers. Many appreciate the
+  thoughtful vegan options and the way drinks like wine and cocktails complement
+  the meals, making it a go-to for casual outings or group gatherings. The
+  overall vibe gets high marks for being welcoming and efficient, with folks
+  highlighting the solid value for the price and the restaurant's commitment to
+  quality ingredients. While some mention occasional waits during peak times,
+  the consensus leans positive, emphasizing reliable service and a comfortable
+  environment that encourages repeat visits. If you're hunting for top-rated
+  sushi near you, this place delivers a satisfying experience that balances
+  taste and affordability.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +323,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "TGI Oni Sushi"
+title: TGI Oni Sushi
 permalink: /california/oakland/tgi-oni-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Oakland
 seo:
-  name: "TGI Oni Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://tgioni.menu11.com/
-description: "TGI Oni Sushi serves delicious sushi in Oakland, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJP0e9zpqHj4ARTRPiDgeG-Ac
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 0
 website: https://tgioni.menu11.com/
+description: >-
+  Discover TGI Oni Sushi in Oakland, CA$$$TGI Oni Sushi in Oakland, CA, stands
+  out as an intimate eatery specializing in creative sushi and other Japanese
+  dishes served in a relaxed, welcoming environment. This spot delights visitors
+  with its fresh, inventive rolls and generous portions that highlight
+  high-quality ingredients, making it a go-to choice for those seeking top-rated
+  sushi experiences nearby. The casual setting is enhanced by thoughtful
+  accessibility features, ensuring a comfortable visit for all, while the
+  moderate pricing adds to its appeal for everyday dining. Additionally, options
+  like beer and wine pair perfectly with the menu, catering to a variety of
+  tastes in a neighborhood-friendly atmosphere. Whether you're exploring sushi
+  restaurants close to you or looking for authentic Japanese flavors, this
+  location offers a memorable blend of quality and convenience.
+generative_summary: >-
+  Discover TGI Oni Sushi in Oakland, CA$$$TGI Oni Sushi in Oakland, CA, stands
+  out as an intimate eatery specializing in creative sushi and other Japanese
+  dishes served in a relaxed, welcoming environment. This spot delights visitors
+  with its fresh, inventive rolls and generous portions that highlight
+  high-quality ingredients, making it a go-to choice for those seeking top-rated
+  sushi experiences nearby. The casual setting is enhanced by thoughtful
+  accessibility features, ensuring a comfortable visit for all, while the
+  moderate pricing adds to its appeal for everyday dining. Additionally, options
+  like beer and wine pair perfectly with the menu, catering to a variety of
+  tastes in a neighborhood-friendly atmosphere. Whether you're exploring sushi
+  restaurants close to you or looking for authentic Japanese flavors, this
+  location offers a memorable blend of quality and convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJP0e9zpqHj4ARTRPiDgeG-Ac/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfeGJ6ODhRRRAB
@@ -350,6 +375,21 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNKOUtTb0F3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNKOUtTb0F3EAE!2m1!1s0x808f879acebd473f:0x7f886070ee2134d
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this sushi spot often praise the
+  incredibly fresh fish and hearty portions that make every meal feel indulgent
+  and satisfying, drawing in fans of local sushi options. Many highlight the
+  friendly service and clean, inviting vibe that suits families and groups
+  alike, turning casual outings into enjoyable experiences. Feedback frequently
+  mentions the variety of rolls, nigiri, and other dishes that accommodate
+  different preferences, including vegetarian choices, while keeping things
+  approachable and fun. Overall, folks appreciate the consistent quality that
+  keeps them coming back, with a general consensus that it's one of the best
+  sushi places near me for reliable, tasty meals. While a few notes suggest it's
+  great for everyday visits, the positive buzz around its authenticity and value
+  keeps the energy upbeat and encouraging for anyone curious about trying it
+  out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidStreetParking: true
   valetParking: false
@@ -381,7 +421,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

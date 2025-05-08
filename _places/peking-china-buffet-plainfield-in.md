@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Peking China Buffet"
+title: Peking China Buffet
 permalink: /indiana/plainfield/peking-china-buffet.html
 stateAbbr: IN
 stateName: Indiana
 cityName: Plainfield
 seo:
-  name: "Peking China Buffet"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Peking China Buffet serves delicious sushi in Plainfield, Indiana. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJf0rOhTSkbIgRo0E3YI7xBY4
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x886ca43485ce4a7f:0x8e05f18e603741a3!10e5
 primary_type: Chinese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 10:00 PM'
+    - 'Tuesday: 11:00 AM – 10:00 PM'
+    - 'Wednesday: 11:00 AM – 9:30 PM'
+    - 'Thursday: 11:00 AM – 10:00 PM'
+    - 'Friday: 11:00 AM – 10:00 PM'
+    - 'Saturday: 11:00 AM – 10:00 PM'
+    - 'Sunday: 11:00 AM – 10:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,52 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
+phone: (317) 837-1389
+price_level: PRICE_LEVEL_INEXPENSIVE
+price_range: $10 &ndash; $20
+rating: '2.8'
+rating_count: 803
 website: null
+description: >-
+  Discover Peking China Buffet in Plainfield, IN$$$Peking China Buffet in
+  Plainfield, IN, provides a casual dining spot perfect for those seeking a
+  laid-back meal with diverse options. This Chinese restaurant features an
+  extensive buffet that includes fresh sushi selections and vegetarian-friendly
+  dishes, making it a convenient choice for families or groups. Accessibility is
+  a key highlight, with wheelchair-friendly parking, entrances, and seating that
+  ensure everyone can enjoy the experience comfortably. The spot operates daily
+  with generous hours, ideal for lunch or dinner outings, and its affordable
+  pricing adds to the appeal for locals exploring nearby eateries. Whether
+  you're looking for sushi places near you or a quick bite in a welcoming
+  atmosphere, this buffet stands out for its variety and ease of access.
+generative_summary: >-
+  Discover Peking China Buffet in Plainfield, IN$$$Peking China Buffet in
+  Plainfield, IN, provides a casual dining spot perfect for those seeking a
+  laid-back meal with diverse options. This Chinese restaurant features an
+  extensive buffet that includes fresh sushi selections and vegetarian-friendly
+  dishes, making it a convenient choice for families or groups. Accessibility is
+  a key highlight, with wheelchair-friendly parking, entrances, and seating that
+  ensure everyone can enjoy the experience comfortably. The spot operates daily
+  with generous hours, ideal for lunch or dinner outings, and its affordable
+  pricing adds to the appeal for locals exploring nearby eateries. Whether
+  you're looking for sushi places near you or a quick bite in a welcoming
+  atmosphere, this buffet stands out for its variety and ease of access.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Sharing$$$Visitors often appreciate the polite and attentive
+  staff at this Chinese buffet, creating a welcoming vibe that makes dining out
+  feel relaxed and enjoyable. While some mention that the buffet items can
+  occasionally be on the cooler side, many still find the selection worthwhile
+  for its value and range of choices, including sushi options that satisfy
+  cravings on a budget. Overall, it's a solid pick for casual meals, with the
+  friendly service helping to balance out any minor inconsistencies in food
+  temperature. If you're searching for sushi restaurants nearby, folks suggest
+  giving it a go for an affordable experience, as the positives tend to shine
+  through for those keeping expectations realistic. In a nutshell, it's a go-to
+  spot for everyday dining that keeps things light and approachable without
+  overpromising the finer details.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +313,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

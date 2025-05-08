@@ -1,15 +1,14 @@
 ---
 layout: place
-title: "Formosa"
+title: Formosa
 permalink: /iowa/iowa-city/formosa.html
 stateAbbr: IA
 stateName: Iowa
 cityName: Iowa City
 seo:
-  name: "Formosa"
-  type: Restaurant
-  links: http://formosaiowacity.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=13742112367376203805
-description: "Formosa serves delicious sushi in Iowa City, Iowa. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: >-
+    http://formosaiowacity.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=13742112367376203805
 place_id: ChIJgxklQ-5B5IcRjkvR0-ONPVM
 photos:
   - name: >-
@@ -170,7 +169,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x87e441ee43251983:0x533d8de3d3d14b8e!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 16
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 16
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 4:00 – 9:00 PM'
     - 'Tuesday: 4:00 – 9:00 PM'
     - 'Wednesday: 4:00 – 9:00 PM'
@@ -178,14 +235,7 @@ opening_hours:
     - 'Friday: 4:00 – 10:00 PM'
     - 'Saturday: 4:00 – 10:00 PM'
     - 'Sunday: 4:00 – 9:00 PM'
-  current:
-    - 'Monday: 4:00 – 9:00 PM'
-    - 'Tuesday: 4:00 – 9:00 PM'
-    - 'Wednesday: 4:00 – 9:00 PM'
-    - 'Thursday: 4:00 – 10:00 PM'
-    - 'Friday: 4:00 – 10:00 PM'
-    - 'Saturday: 4:00 – 10:00 PM'
-    - 'Sunday: 4:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,10 +247,44 @@ phone: (319) 338-8880
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.1'
-rating_count: 0
+rating_count: 486
 website: >-
   http://formosaiowacity.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=13742112367376203805
+description: >-
+  Discover Formosa in Iowa City, IA$$$Formosa in Iowa City, IA, stands out as a
+  contemporary destination for Japanese cuisine, offering a blend of traditional
+  and creative dishes that highlight fresh sushi and other flavorful options.
+  This spot is known for its inviting atmosphere, where patrons can enjoy a
+  selection of sake, wine, and craft beer alongside their meals, making it a
+  great choice for those seeking sushi dining experiences nearby. The restaurant
+  emphasizes accessibility with features like wheelchair-friendly parking and
+  entrances, ensuring a welcoming visit for everyone. Its evening hours provide
+  a relaxed setting for casual dinners or special occasions, appealing to locals
+  and visitors alike.
+generative_summary: >-
+  Discover Formosa in Iowa City, IA$$$Formosa in Iowa City, IA, stands out as a
+  contemporary destination for Japanese cuisine, offering a blend of traditional
+  and creative dishes that highlight fresh sushi and other flavorful options.
+  This spot is known for its inviting atmosphere, where patrons can enjoy a
+  selection of sake, wine, and craft beer alongside their meals, making it a
+  great choice for those seeking sushi dining experiences nearby. The restaurant
+  emphasizes accessibility with features like wheelchair-friendly parking and
+  entrances, ensuring a welcoming visit for everyone. Its evening hours provide
+  a relaxed setting for casual dinners or special occasions, appealing to locals
+  and visitors alike.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Feedback from diners at this sushi spot often
+  highlights the consistently fresh flavors and well-prepared dishes,
+  contributing to its strong overall rating. Many appreciate the variety of
+  options that cater to different tastes, from classic rolls to inventive
+  specials, making it a reliable go-to for Japanese fare in the area. While some
+  note that service can vary, the general consensus leans positive, with folks
+  enjoying the cozy vibe and reasonable prices for the quality. Overall, it's
+  clear that this place holds up as a solid choice for anyone craving sushi
+  nearby, backed by hundreds of satisfied experiences.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -226,7 +310,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Hisui Sushi"
+title: Hisui Sushi
 permalink: /california/folsom/hisui-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Folsom
 seo:
-  name: "Hisui Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://hisuisushi.com/
-description: "Hisui Sushi serves delicious sushi in Folsom, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJEVeNHn7kmoARYexiBbT7gCI
 photos:
   - name: >-
@@ -170,7 +168,89 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x809ae47e1e8d5711:0x2280fbb40562ec61!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 20
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 20
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 20
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 20
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 20
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 20
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:00 AM – 2:00 PM, 4:30 – 8:30 PM'
     - 'Wednesday: 11:00 AM – 2:00 PM, 4:30 – 8:30 PM'
@@ -178,14 +258,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 2:00 PM, 4:30 – 8:30 PM'
     - 'Saturday: 11:30 AM – 8:30 PM'
     - 'Sunday: 11:30 AM – 8:30 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:00 AM – 2:00 PM, 4:30 – 8:30 PM'
-    - 'Wednesday: 11:00 AM – 2:00 PM, 4:30 – 8:30 PM'
-    - 'Thursday: 11:00 AM – 2:00 PM, 4:30 – 8:30 PM'
-    - 'Friday: 11:00 AM – 2:00 PM, 4:30 – 8:30 PM'
-    - 'Saturday: 11:30 AM – 8:30 PM'
-    - 'Sunday: 11:30 AM – 8:30 PM'
+  nextCloseTime: '2025-05-04T03:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +270,46 @@ phone: (916) 985-7778
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.5'
-rating_count: 0
+rating_count: 539
 website: http://hisuisushi.com/
+description: >-
+  Discover Hisui Sushi in Folsom, CA$$$Hisui Sushi in Folsom, CA, stands out as
+  a relaxed spot for Japanese cuisine enthusiasts, offering an all-you-can-eat
+  experience with a variety of fresh sushi and hearty cooked dishes. The menu
+  highlights healthy options that cater to those seeking balanced meals, making
+  it a go-to choice for anyone exploring sushi restaurants in the area. With
+  wheelchair-accessible features and a welcoming atmosphere, it's designed for
+  comfortable dining, whether you're stopping by for a quick lunch or a
+  leisurely dinner. Open several days a week with extended hours, this spot
+  provides great value for families and groups looking for top-rated Japanese
+  places near me to enjoy flavorful rolls and sides.
+generative_summary: >-
+  Discover Hisui Sushi in Folsom, CA$$$Hisui Sushi in Folsom, CA, stands out as
+  a relaxed spot for Japanese cuisine enthusiasts, offering an all-you-can-eat
+  experience with a variety of fresh sushi and hearty cooked dishes. The menu
+  highlights healthy options that cater to those seeking balanced meals, making
+  it a go-to choice for anyone exploring sushi restaurants in the area. With
+  wheelchair-accessible features and a welcoming atmosphere, it's designed for
+  comfortable dining, whether you're stopping by for a quick lunch or a
+  leisurely dinner. Open several days a week with extended hours, this spot
+  provides great value for families and groups looking for top-rated Japanese
+  places near me to enjoy flavorful rolls and sides.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this sushi spot often praise the fresh
+  flavors and generous portions that make it a standout among local eateries,
+  with many highlighting the all-you-can-eat deals as a fun and satisfying
+  experience. Folks appreciate the consistent quality of the dishes, noting that
+  the variety keeps things exciting without overwhelming the palate, ideal for
+  anyone searching for reliable sushi near me. While some mention wait times
+  during peak hours, the overall vibe remains positive, thanks to the attentive
+  service that enhances the casual dining feel. Reviewers frequently point out
+  the great value for the price, making it a solid pick for those craving
+  top-rated sushi in a laid-back setting. All in all, the high marks reflect a
+  welcoming place that delivers on taste and convenience, encouraging repeat
+  visits for sushi lovers.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +335,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

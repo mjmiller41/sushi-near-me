@@ -1,15 +1,14 @@
 ---
 layout: place
-title: "Cho Cho San Sushi Bar"
+title: Cho Cho San Sushi Bar
 permalink: /pennsylvania/north-wales/cho-cho-san-sushi-bar.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: North Wales
 seo:
-  name: "Cho Cho San Sushi Bar"
-  type: Restaurant
-  links: https://smorefood.com/order-online/cho-cho-san-north-wales-19454-afub4s90?utm_source=gmb&utm_medium=website
-description: "Simple Japanese eatery with an ample selection of sushi rolls, plus bento boxes & hibachi fare. Cho Cho San Sushi Bar serves delicious sushi in North Wales, Pennsylvania. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
+  type: restaurant
+  links: >-
+    https://smorefood.com/order-online/cho-cho-san-north-wales-19454-afub4s90?utm_source=gmb&utm_medium=website
 place_id: ChIJd442DASkxokRn11CnXUbDPs
 photos:
   - name: >-
@@ -143,7 +142,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICE2bOpogE!2e10!4m2!3m1!1s0x89c6a4040c368e77:0xfb0c1b759d425d9f
 address: '#3, 1422, 981 N Wales Rd, North Wales, PA 19454, USA'
-street: '#3, 1422, 981 N Wales Rd'
+street: '#3,1422,981 N Wales Rd'
 city: North Wales
 state: PA
 zip: '19454'
@@ -186,6 +185,31 @@ rating: '4.5'
 rating_count: 0
 website: >-
   https://smorefood.com/order-online/cho-cho-san-north-wales-19454-afub4s90?utm_source=gmb&utm_medium=website
+description: >-
+  Discover Cho Cho San Sushi Bar in North Wales, PA$$$Cho Cho San Sushi Bar in
+  North Wales, PA, stands out as a welcoming spot for fresh Japanese cuisine,
+  featuring an array of sushi rolls and classic dishes in a laid-back
+  atmosphere. This sushi restaurant near you offers ample options like bento
+  boxes and hibachi-style fare, making it ideal for those craving authentic
+  flavors at moderate prices. Accessibility features such as wheelchair-friendly
+  entrances and seating add to its appeal for a comfortable dining experience.
+  Drawing from its casual vibe and well-crafted menu, it's a go-to choice for
+  anyone exploring top-rated sushi places in the area. Whether you're in the
+  mood for innovative rolls or simple Japanese eats, this location delivers a
+  satisfying meal that highlights quality ingredients.
+generative_summary: >-
+  Discover Cho Cho San Sushi Bar in North Wales, PA$$$Cho Cho San Sushi Bar in
+  North Wales, PA, stands out as a welcoming spot for fresh Japanese cuisine,
+  featuring an array of sushi rolls and classic dishes in a laid-back
+  atmosphere. This sushi restaurant near you offers ample options like bento
+  boxes and hibachi-style fare, making it ideal for those craving authentic
+  flavors at moderate prices. Accessibility features such as wheelchair-friendly
+  entrances and seating add to its appeal for a comfortable dining experience.
+  Drawing from its casual vibe and well-crafted menu, it's a go-to choice for
+  anyone exploring top-rated sushi places in the area. Whether you're in the
+  mood for innovative rolls or simple Japanese eats, this location delivers a
+  satisfying meal that highlights quality ingredients.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJd442DASkxokRn11CnXUbDPs/reviews/ChZDSUhNMG9nS0VJQ0FnTUNnb3RXOVNnEAE
@@ -323,6 +347,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURRMzc3XzNnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURRMzc3XzNnRRAB!2m1!1s0x89c6a4040c368e77:0xfb0c1b759d425d9f
+review_summary: >-
+  Insights from Recent Reviews$$$Folks rave about the consistently delicious
+  sushi and specialty rolls at this spot, often calling it a reliable favorite
+  for fresh flavors and great value. Many appreciate the clean, no-fuss setting
+  that makes it easy to enjoy meals whether dining in or grabbing takeout, with
+  highlights on unique items that keep customers coming back. While most
+  experiences are positive, a few note that the atmosphere feels a bit simple
+  compared to other options nearby, yet it still holds up as a solid pick for
+  everyday sushi cravings. Overall, it's praised for friendly service and
+  high-quality dishes that make it worth trying if you're hunting for sushi
+  restaurants close to home. If you're looking to sample the best sushi around,
+  this place delivers a generally enjoyable vibe with minimal drawbacks.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -355,8 +392,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Simple Japanese eatery with an ample selection of sushi rolls, plus bento
   boxes & hibachi fare.
 

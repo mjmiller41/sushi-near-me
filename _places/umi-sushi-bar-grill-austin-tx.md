@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Umi Sushi Bar & Grill"
+title: Umi Sushi Bar & Grill
 permalink: /texas/austin/umi-sushi-bar-grill.html
 stateAbbr: TX
 stateName: Texas
 cityName: Austin
 seo:
-  name: "Umi Sushi Bar & Grill"
-  type: Restaurant
+  type: restaurant
   links: https://umiaustin.com/?y_source=1_MjUwMzYwMzktNzE1LWxvY2F0aW9uLndlYnNpdGU%3D
-description: "Umi Sushi Bar & Grill serves delicious sushi in Austin, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJxUI_CV6zRIYRU7X8PIdBnYk
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8644b35e093f42c5:0x899d41873cfcb553!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 23
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 0
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 0
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 10:00 PM'
     - 'Tuesday: 11:30 AM – 10:00 PM'
     - 'Wednesday: 11:30 AM – 10:00 PM'
@@ -178,28 +234,151 @@ opening_hours:
     - 'Friday: 11:30 AM – 12:00 AM'
     - 'Saturday: 12:00 PM – 12:00 AM'
     - 'Sunday: 12:00 – 10:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 10:00 PM'
-    - 'Tuesday: 11:30 AM – 10:00 PM'
-    - 'Wednesday: 11:30 AM – 10:00 PM'
-    - 'Thursday: 11:30 AM – 11:00 PM'
-    - 'Friday: 11:30 AM – 12:00 AM'
-    - 'Saturday: 12:00 PM – 12:00 AM'
-    - 'Sunday: 12:00 – 10:00 PM'
+  nextCloseTime: '2025-05-04T05:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 16
+          minute: 0
+        close:
+          day: 0
+          hour: 18
+          minute: 30
+      - open:
+          day: 1
+          hour: 16
+          minute: 0
+        close:
+          day: 1
+          hour: 18
+          minute: 30
+      - open:
+          day: 2
+          hour: 16
+          minute: 0
+        close:
+          day: 2
+          hour: 18
+          minute: 30
+      - open:
+          day: 3
+          hour: 16
+          minute: 0
+        close:
+          day: 3
+          hour: 18
+          minute: 30
+      - open:
+          day: 4
+          hour: 16
+          minute: 0
+        close:
+          day: 4
+          hour: 18
+          minute: 30
+      - open:
+          day: 4
+          hour: 21
+          minute: 30
+        close:
+          day: 4
+          hour: 23
+          minute: 0
+      - open:
+          day: 5
+          hour: 16
+          minute: 0
+        close:
+          day: 5
+          hour: 18
+          minute: 30
+      - open:
+          day: 5
+          hour: 21
+          minute: 30
+        close:
+          day: 6
+          hour: 0
+          minute: 0
+      - open:
+          day: 6
+          hour: 16
+          minute: 0
+        close:
+          day: 6
+          hour: 18
+          minute: 30
+      - open:
+          day: 6
+          hour: 21
+          minute: 30
+        close:
+          day: 0
+          hour: 0
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 4:00 – 6:30 PM'
+      - 'Tuesday: 4:00 – 6:30 PM'
+      - 'Wednesday: 4:00 – 6:30 PM'
+      - 'Thursday: 4:00 – 6:30 PM, 9:30 – 11:00 PM'
+      - 'Friday: 4:00 – 6:30 PM, 9:30 PM – 12:00 AM'
+      - 'Saturday: 4:00 – 6:30 PM, 9:30 PM – 12:00 AM'
+      - 'Sunday: 4:00 – 6:30 PM'
+    secondaryHoursType: HAPPY_HOUR
+    nextCloseTime: '2025-05-03T23:30:00Z'
 phone: (512) 383-8681
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.4'
-rating_count: 0
+rating_count: 2027
 website: https://umiaustin.com/?y_source=1_MjUwMzYwMzktNzE1LWxvY2F0aW9uLndlYnNpdGU%3D
+description: >-
+  Discover Umi Sushi in Austin, TX$$$Umi Sushi Bar & Grill in Austin, Texas,
+  stands out as a vibrant spot for enjoying authentic Japanese cuisine,
+  featuring an array of fresh sushi rolls and sashimi that highlight the city's
+  growing scene for quality Asian dining. This welcoming eatery combines a
+  lively atmosphere with creative specials, including options for sake
+  enthusiasts and budget-friendly happy hour deals that make it a go-to choice
+  for casual meals or date nights. Accessibility is a key feature, with
+  wheelchair-friendly parking, entrances, and seating ensuring everyone can
+  savor the experience. The menu emphasizes high-quality ingredients and a
+  variety of dishes that cater to those seeking top-rated sushi options nearby,
+  making it an ideal destination for anyone exploring Japanese places in the
+  area. With extended hours into the evening, it's perfect for satisfying
+  cravings whether you're stopping by for lunch or a late-night bite.
+generative_summary: >-
+  Discover Umi Sushi in Austin, TX$$$Umi Sushi Bar & Grill in Austin, Texas,
+  stands out as a vibrant spot for enjoying authentic Japanese cuisine,
+  featuring an array of fresh sushi rolls and sashimi that highlight the city's
+  growing scene for quality Asian dining. This welcoming eatery combines a
+  lively atmosphere with creative specials, including options for sake
+  enthusiasts and budget-friendly happy hour deals that make it a go-to choice
+  for casual meals or date nights. Accessibility is a key feature, with
+  wheelchair-friendly parking, entrances, and seating ensuring everyone can
+  savor the experience. The menu emphasizes high-quality ingredients and a
+  variety of dishes that cater to those seeking top-rated sushi options nearby,
+  making it an ideal destination for anyone exploring Japanese places in the
+  area. With extended hours into the evening, it's perfect for satisfying
+  cravings whether you're stopping by for lunch or a late-night bite.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Buzzing About$$$Visitors to this sushi spot often rave about
+  the consistently fresh and flavorful dishes that keep them coming back for
+  more, based on its strong overall rating from a large number of feedback. Many
+  appreciate the attentive service and welcoming vibe that make dining out feel
+  relaxed and enjoyable, even during busy times. While opinions vary, folks
+  generally highlight the great value during happy hours and the variety of
+  options that suit different tastes, from classic rolls to more adventurous
+  picks. It's clear that the spot earns its reputation as one of the better
+  choices around for quality sushi, with positive notes on the atmosphere adding
+  to the appeal without overshadowing any minor waits. Overall, if you're on the
+  hunt for reliable sushi restaurants nearby, this place delivers a solid
+  experience that's worth checking out for its tasty offerings and friendly
+  feel.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +404,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

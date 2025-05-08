@@ -5,4 +5,5 @@ permalink: /california/beverly-hills/
 stateAbbr: CA
 stateName: California
 cityName: Beverly Hills
+
 ---

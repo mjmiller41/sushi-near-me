@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Keeaumoku Seafood"
+title: Keeaumoku Seafood
 permalink: /hawaii/honolulu/keeaumoku-seafood.html
 stateAbbr: HI
 stateName: Hawaii
 cityName: Honolulu
 seo:
-  name: "Keeaumoku Seafood"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Keeaumoku Seafood serves delicious sushi in Honolulu, Hawaii. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJeTYzfultAHwR-ksDQE7Tn7s
 photos:
   - name: >-
@@ -169,7 +167,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x7c006de97e333679:0xbb9fd34e40034bfa!10e5
 primary_type: Takeout Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 10
+        minute: 0
+      close:
+        day: 0
+        hour: 18
+        minute: 0
+    - open:
+        day: 1
+        hour: 9
+        minute: 0
+      close:
+        day: 1
+        hour: 20
+        minute: 0
+    - open:
+        day: 2
+        hour: 9
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 0
+    - open:
+        day: 3
+        hour: 9
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 0
+    - open:
+        day: 4
+        hour: 9
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 0
+    - open:
+        day: 5
+        hour: 9
+        minute: 0
+      close:
+        day: 5
+        hour: 20
+        minute: 0
+    - open:
+        day: 6
+        hour: 9
+        minute: 0
+      close:
+        day: 6
+        hour: 20
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 9:00 AM – 8:00 PM'
     - 'Tuesday: 9:00 AM – 8:00 PM'
     - 'Wednesday: 9:00 AM – 8:00 PM'
@@ -177,14 +233,7 @@ opening_hours:
     - 'Friday: 9:00 AM – 8:00 PM'
     - 'Saturday: 9:00 AM – 8:00 PM'
     - 'Sunday: 10:00 AM – 6:00 PM'
-  current:
-    - 'Monday: 9:00 AM – 8:00 PM'
-    - 'Tuesday: 9:00 AM – 8:00 PM'
-    - 'Wednesday: 9:00 AM – 8:00 PM'
-    - 'Thursday: 9:00 AM – 8:00 PM'
-    - 'Friday: 9:00 AM – 8:00 PM'
-    - 'Saturday: 9:00 AM – 8:00 PM'
-    - 'Sunday: 10:00 AM – 6:00 PM'
+  nextCloseTime: '2025-05-04T06:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,35 +245,241 @@ phone: (808) 942-7792
 price_level: PRICE_LEVEL_INEXPENSIVE
 price_range: $10 &ndash; $20
 rating: '4.6'
-rating_count: 0
+rating_count: 342
 website: null
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Keeaumoku Seafood in Honolulu, HI$$$Keeaumoku Seafood in Honolulu,
+  HI, stands out as a casual takeout spot specializing in fresh seafood dishes
+  that capture the essence of island flavors. This unassuming eatery focuses on
+  high-quality offerings like sashimi and poke, made with the freshest fish
+  available, making it a go-to choice for those seeking simple yet satisfying
+  meals on the go. With its convenient hours and affordable pricing, it's ideal
+  for locals and visitors alike looking for quick, authentic seafood options in
+  a laid-back setting. Accessibility features such as wheelchair-friendly
+  parking and entrances add to its appeal, ensuring a welcoming experience for
+  all. If you're exploring sushi places near me or top-rated Japanese-inspired
+  spots, this location delivers on fresh, flavorful seafood that feels both
+  accessible and genuine.
+generative_summary: >-
+  Discover Keeaumoku Seafood in Honolulu, HI$$$Keeaumoku Seafood in Honolulu,
+  HI, stands out as a casual takeout spot specializing in fresh seafood dishes
+  that capture the essence of island flavors. This unassuming eatery focuses on
+  high-quality offerings like sashimi and poke, made with the freshest fish
+  available, making it a go-to choice for those seeking simple yet satisfying
+  meals on the go. With its convenient hours and affordable pricing, it's ideal
+  for locals and visitors alike looking for quick, authentic seafood options in
+  a laid-back setting. Accessibility features such as wheelchair-friendly
+  parking and entrances add to its appeal, ensuring a welcoming experience for
+  all. If you're exploring sushi places near me or top-rated Japanese-inspired
+  spots, this location delivers on fresh, flavorful seafood that feels both
+  accessible and genuine.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJeTYzfultAHwR-ksDQE7Tn7s/reviews/ChZDSUhNMG9nS0VJQ0FnTURvMWJXcEdBEAE
+    relativePublishTimeDescription: in the last week
+    rating: 5
+    text:
+      text: >-
+        Don't let the drab exterior keep you from stepping in to this amazing
+        spot!
+
+        We've been eating poke and sashimi all around during our visit to Oahu,
+        from hotels to small restaurants to grocery stores. This place was
+        awesome! Freshest fish, great flavors, and super friendly service. Other
+        customers coming and going all seemed like locals who were repeat
+        customers, which is a great sign. My friend and I shared sashimi and
+        poke, my wife had the ahi belly (delicious!) with poke. We will
+        definitely be coming back here before we leave.
+      languageCode: en
+    originalText:
+      text: >-
+        Don't let the drab exterior keep you from stepping in to this amazing
+        spot!
+
+        We've been eating poke and sashimi all around during our visit to Oahu,
+        from hotels to small restaurants to grocery stores. This place was
+        awesome! Freshest fish, great flavors, and super friendly service. Other
+        customers coming and going all seemed like locals who were repeat
+        customers, which is a great sign. My friend and I shared sashimi and
+        poke, my wife had the ahi belly (delicious!) with poke. We will
+        definitely be coming back here before we leave.
+      languageCode: en
+    authorAttribution:
+      displayName: SAL
+      uri: https://www.google.com/maps/contrib/116927322115026312092/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJ9woS268qrDhJNlvnDYaF3uk4vv5htDc67YWmbcvqOwkElwA=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-04-27T07:06:34.336464Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURvMWJXcEdBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURvMWJXcEdBEAE!2m1!1s0x7c006de97e333679:0xbb9fd34e40034bfa
+  - name: >-
+      places/ChIJeTYzfultAHwR-ksDQE7Tn7s/reviews/ChdDSUhNMG9nS0VJQ0FnTUNvbjdYYzNnRRAB
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        Very delicious, fresh, and cheap for the portions and quality! Appears
+        to be run by two women who were so kind and offered us samples. Would
+        definitely return if we are in the area again and highly recommend that
+        you make the trip if you can. The house special was a favorite.
+      languageCode: en
+    originalText:
+      text: >-
+        Very delicious, fresh, and cheap for the portions and quality! Appears
+        to be run by two women who were so kind and offered us samples. Would
+        definitely return if we are in the area again and highly recommend that
+        you make the trip if you can. The house special was a favorite.
+      languageCode: en
+    authorAttribution:
+      displayName: Archna Saha
+      uri: https://www.google.com/maps/contrib/114188076531707717494/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIWOPfu5d_lYWKiBCF1dRJtdaak5sGy79EGImHNKOXBJWFjng=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-21T01:24:49.191786Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNvbjdYYzNnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNvbjdYYzNnRRAB!2m1!1s0x7c006de97e333679:0xbb9fd34e40034bfa
+  - name: >-
+      places/ChIJeTYzfultAHwR-ksDQE7Tn7s/reviews/ChdDSUhNMG9nS0VJQ0FnTUNBN2JMUHRRRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        This was my favourite poke I had kinda rude service at the counter but
+        the food was good had brown rice with the spicy ahi!! Cucumber salad was
+        amazing too! So cheap this place id def come back
+      languageCode: en
+    originalText:
+      text: >-
+        This was my favourite poke I had kinda rude service at the counter but
+        the food was good had brown rice with the spicy ahi!! Cucumber salad was
+        amazing too! So cheap this place id def come back
+      languageCode: en
+    authorAttribution:
+      displayName: Tila
+      uri: https://www.google.com/maps/contrib/103169958218782967940/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUoRHgXrJg9iOU3Mw1o8w5u4XX6zcRgAhJ08dQtEK1Jz5bymkqmWQ=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-02-03T08:12:24.341425Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNBN2JMUHRRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNBN2JMUHRRRRAB!2m1!1s0x7c006de97e333679:0xbb9fd34e40034bfa
+  - name: >-
+      places/ChIJeTYzfultAHwR-ksDQE7Tn7s/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ3eW9MT1h3EAE
+    relativePublishTimeDescription: 8 months ago
+    rating: 5
+    text:
+      text: >-
+        The outside of the shop was very dirty, so I hesitated to enter. But
+        inside, two women were preparing food in the kitchen. The display case
+        wasn't very clean, but the tuna I was given as a sample was very fresh
+        and delicious! The tuna they got at the auction in the fish market was
+        amazing.
+      languageCode: en
+    originalText:
+      text: >-
+        The outside of the shop was very dirty, so I hesitated to enter. But
+        inside, two women were preparing food in the kitchen. The display case
+        wasn't very clean, but the tuna I was given as a sample was very fresh
+        and delicious! The tuna they got at the auction in the fish market was
+        amazing.
+      languageCode: en
+    authorAttribution:
+      displayName: Bob Journey
+      uri: https://www.google.com/maps/contrib/112899158932068705226/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWsr6wUDv_OCADabcLj3mGgPhyqJrkwhvl7JVliygAZA42RvMU=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-08-23T07:03:11.231879Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQ3eW9MT1h3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQ3eW9MT1h3EAE!2m1!1s0x7c006de97e333679:0xbb9fd34e40034bfa
+  - name: >-
+      places/ChIJeTYzfultAHwR-ksDQE7Tn7s/reviews/ChdDSUhNMG9nS0VJQ0FnSURiazQ2MjZnRRAB
+    relativePublishTimeDescription: 8 months ago
+    rating: 5
+    text:
+      text: >-
+        Definitely a hole-in-the-wall place that is worth the drive out of
+        Waikiki and worth the trouble of finding parking if none right in
+        front.  Everything we've had there is good, including several different
+        flavor poke, Kim chi, pickled Cucumber and their sashimi platters.  Yes,
+        doesn't look like the cleanest or most welcoming, but the ladies there
+        have been great to us and the food backs it up.  And prices are WAAY
+        better than most other place you'll find on the island, including the
+        local grocery store chain.
+      languageCode: en
+    originalText:
+      text: >-
+        Definitely a hole-in-the-wall place that is worth the drive out of
+        Waikiki and worth the trouble of finding parking if none right in
+        front.  Everything we've had there is good, including several different
+        flavor poke, Kim chi, pickled Cucumber and their sashimi platters.  Yes,
+        doesn't look like the cleanest or most welcoming, but the ladies there
+        have been great to us and the food backs it up.  And prices are WAAY
+        better than most other place you'll find on the island, including the
+        local grocery store chain.
+      languageCode: en
+    authorAttribution:
+      displayName: Willis Wah
+      uri: https://www.google.com/maps/contrib/108857265752832807620/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJVc-f7cdOPuyLfw-GQzQKsBbX04sCgkfg4VO-4-ECMcpy__w=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-08-09T02:56:15.150996Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURiazQ2MjZnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURiazQ2MjZnRRAB!2m1!1s0x7c006de97e333679:0xbb9fd34e40034bfa
+review_summary: >-
+  What Customers Are Buzzing About$$$Visitors often praise the standout poke and
+  sashimi at this spot, highlighting the fresh flavors and generous portions
+  that make every bite feel worthwhile. Many note the friendly service and great
+  value, with dishes like spicy ahi and cucumber salad standing out as crowd
+  favorites for their bold taste and affordability. While the exterior might not
+  catch your eye at first, the overall experience inside wins people over with
+  its straightforward vibe and reliable quality. Feedback generally appreciates
+  how this place keeps things approachable and budget-friendly, perfect for a
+  quick meal without the fuss. If you're on the hunt for sushi restaurants near
+  me that deliver honest, tasty options, this one's earning high marks for its
+  consistent appeal and welcoming atmosphere.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
+delivery: true
 dine_in: null
 good_for_children: null
 good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: false
+restroom: false
+serves_beer: false
 serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
+serves_brunch: false
+serves_cocktails: false
+serves_coffee: false
+serves_dinner: true
+serves_dessert: false
+serves_lunch: true
+serves_vegetarian_food: false
 serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

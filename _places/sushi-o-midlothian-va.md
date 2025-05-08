@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi-O"
+title: Sushi-O
 permalink: /virginia/midlothian/sushi-o.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Midlothian
 seo:
-  name: "Sushi-O"
-  type: Restaurant
+  type: restaurant
   links: http://www.sushiomidlothian.com/
-description: "Sushi-O serves delicious sushi in Midlothian, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ5WcaRXRtsYkRy1hx1NtAZoM
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: null
 rating: '4.4'
 rating_count: 0
 website: http://www.sushiomidlothian.com/
+description: >-
+  About Sushi-O in Midlothian, Virginia$$$Sushi-O in Midlothian, Virginia,
+  delivers a fresh and inviting experience with its array of authentic Japanese
+  cuisine, including expertly crafted sushi and flavorful small plates. The
+  casual atmosphere pairs perfectly with a selection of wines and cocktails,
+  making it an ideal spot for relaxed dining or gatherings. Accessibility
+  features like wheelchair-friendly entrances and seating ensure everyone can
+  enjoy the vibrant space, while outdoor options add to the appeal for those
+  seeking a bit of fresh air. This spot stands out for its thoughtful
+  presentation and moderate pricing, appealing to anyone exploring top Japanese
+  dining choices nearby.
+generative_summary: >-
+  About Sushi-O in Midlothian, Virginia$$$Sushi-O in Midlothian, Virginia,
+  delivers a fresh and inviting experience with its array of authentic Japanese
+  cuisine, including expertly crafted sushi and flavorful small plates. The
+  casual atmosphere pairs perfectly with a selection of wines and cocktails,
+  making it an ideal spot for relaxed dining or gatherings. Accessibility
+  features like wheelchair-friendly entrances and seating ensure everyone can
+  enjoy the vibrant space, while outdoor options add to the appeal for those
+  seeking a bit of fresh air. This spot stands out for its thoughtful
+  presentation and moderate pricing, appealing to anyone exploring top Japanese
+  dining choices nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ5WcaRXRtsYkRy1hx1NtAZoM/reviews/ChdDSUhNMG9nS0VJQ0FnTUNReWIzNnV3RRAB
@@ -360,6 +381,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJdUthSjRnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJdUthSjRnRRAB!2m1!1s0x89b16d74451a67e5:0x836640dbd47158cb
+review_summary: >-
+  What Reviewers Are Buzzing About$$$Visitors often rave about the delicious
+  sushi and Japanese dishes, highlighting the creative presentations and great
+  value during happy hour deals that keep things lively and affordable. Many
+  appreciate the welcoming vibe and clean, modern setting, which makes it a
+  go-to for groups or casual meals, though a few note occasional waits or minor
+  order mix-ups that could use some smoothing out. Overall, the food quality and
+  variety earn high marks, with folks frequently mentioning they'd return for
+  the tasty appetizers and drinks. Despite a couple of service hiccups in busier
+  times, the positive experiences far outweigh the negatives, painting a picture
+  of a reliable spot for satisfying sushi cravings.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -392,7 +425,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

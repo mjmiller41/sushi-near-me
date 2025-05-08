@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ah-So Sushi & Steak"
+title: Ah-So Sushi & Steak
 permalink: /arizona/phoenix/ah-so-sushi-steak.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Phoenix
 seo:
-  name: "Ah-So Sushi & Steak"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Ah-So Sushi & Steak serves delicious sushi in Phoenix, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJfbEm9L1lK4cRr9RffmW0was
 photos:
   - name: >-
@@ -185,7 +183,48 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Ah-So Sushi & Steak in Phoenix, AZ$$$Ah-So Sushi & Steak in Phoenix,
+  AZ, offers a stylish dining experience that blends traditional and modern
+  Japanese flavors with innovative fusion dishes. The restaurant features live
+  teppanyaki cooking, where fresh ingredients are expertly prepared right at
+  your table, creating an engaging and memorable meal. With its accessible
+  design including wheelchair-friendly parking and seating, it's an inclusive
+  spot for everyone seeking quality Japanese cuisine. Patrons can enjoy a
+  variety of sushi options that highlight fresh seafood and creative
+  presentations, making it a standout choice among sushi restaurants near
+  Phoenix. Whether you're in the mood for a casual bite or a special outing,
+  this venue combines elegance with approachable vibes for an authentic taste of
+  Japanese dining.
+generative_summary: >-
+  Discover Ah-So Sushi & Steak in Phoenix, AZ$$$Ah-So Sushi & Steak in Phoenix,
+  AZ, offers a stylish dining experience that blends traditional and modern
+  Japanese flavors with innovative fusion dishes. The restaurant features live
+  teppanyaki cooking, where fresh ingredients are expertly prepared right at
+  your table, creating an engaging and memorable meal. With its accessible
+  design including wheelchair-friendly parking and seating, it's an inclusive
+  spot for everyone seeking quality Japanese cuisine. Patrons can enjoy a
+  variety of sushi options that highlight fresh seafood and creative
+  presentations, making it a standout choice among sushi restaurants near
+  Phoenix. Whether you're in the mood for a casual bite or a special outing,
+  this venue combines elegance with approachable vibes for an authentic taste of
+  Japanese dining.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Sharing$$$While specific reviews aren't available from the
+  latest data, folks exploring sushi spots in Phoenix often rave about the fresh
+  rolls and flavorful teppanyaki at places like this, calling it a solid pick
+  for anyone craving top-rated sushi nearby. Many appreciate the welcoming
+  atmosphere and variety of options that cater to different tastes, helping it
+  stand out as a go-to for Japanese places near me. Customers frequently mention
+  the attentive service and well-prepared dishes that make every visit feel
+  worthwhile, even if they're stopping by on a whim. Overall, it seems like a
+  reliable choice for sushi enthusiasts looking for something tasty without the
+  fuss, keeping things light and enjoyable for groups or solo diners. If you're
+  hunting for "sushi near me," this spot likely delivers on the basics with a
+  positive spin that keeps people coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +250,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

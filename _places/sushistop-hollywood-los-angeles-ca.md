@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "SushiStop Hollywood"
+title: SushiStop Hollywood
 permalink: /california/los-angeles/sushistop-hollywood.html
 stateAbbr: CA
 stateName: California
 cityName: Los Angeles
 seo:
-  name: "SushiStop Hollywood"
-  type: Restaurant
+  type: restaurant
   links: https://sushistop.com/locations/hollywood/
-description: "SushiStop Hollywood serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJPdKmy0a_woAR4rzPHGegdkE
 photos:
   - name: >-
@@ -169,7 +167,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c2bf46cba6d23d:0x4176a0671ccfbce2!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 23
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 23
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 23
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 23
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 23
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 23
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 23
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 11:00 PM'
     - 'Tuesday: 11:30 AM – 11:00 PM'
     - 'Wednesday: 11:30 AM – 11:00 PM'
@@ -177,14 +233,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 11:30 PM'
     - 'Saturday: 11:30 AM – 11:30 PM'
     - 'Sunday: 11:30 AM – 11:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 11:00 PM'
-    - 'Tuesday: 11:30 AM – 11:00 PM'
-    - 'Wednesday: 11:30 AM – 11:00 PM'
-    - 'Thursday: 11:30 AM – 11:00 PM'
-    - 'Friday: 11:30 AM – 11:30 PM'
-    - 'Saturday: 11:30 AM – 11:30 PM'
-    - 'Sunday: 11:30 AM – 11:00 PM'
+  nextCloseTime: '2025-05-04T06:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,35 +245,223 @@ phone: (323) 468-2496
 price_level: PRICE_LEVEL_INEXPENSIVE
 price_range: $20 &ndash; $30
 rating: '4.1'
-rating_count: 0
+rating_count: 832
 website: https://sushistop.com/locations/hollywood/
-reviews: null
+description: >-
+  Discover SushiStop Hollywood in Los Angeles, CA$$$SushiStop Hollywood in Los
+  Angeles, CA, stands out as a welcoming Japanese eatery known for its fresh
+  sushi and sashimi selections that pair perfectly with a range of beverages.
+  This spot offers a cozy atmosphere with seating centered around a sushi bar,
+  ideal for enjoying small bites in a relaxed setting. Accessibility features
+  like wheelchair-friendly entrances and restrooms ensure everyone can savor the
+  experience, while the menu emphasizes affordable options for a satisfying
+  meal. Whether you're exploring sushi restaurants in the area or seeking a
+  casual place for Japanese cuisine, this location delivers great value with its
+  inviting vibe and extended hours from late morning into the evening.
+generative_summary: >-
+  Discover SushiStop Hollywood in Los Angeles, CA$$$SushiStop Hollywood in Los
+  Angeles, CA, stands out as a welcoming Japanese eatery known for its fresh
+  sushi and sashimi selections that pair perfectly with a range of beverages.
+  This spot offers a cozy atmosphere with seating centered around a sushi bar,
+  ideal for enjoying small bites in a relaxed setting. Accessibility features
+  like wheelchair-friendly entrances and restrooms ensure everyone can savor the
+  experience, while the menu emphasizes affordable options for a satisfying
+  meal. Whether you're exploring sushi restaurants in the area or seeking a
+  casual place for Japanese cuisine, this location delivers great value with its
+  inviting vibe and extended hours from late morning into the evening.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJPdKmy0a_woAR4rzPHGegdkE/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJc2J2OFNREAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Sushi stop in Hollywood is the best, great food, great drinks and great
+        service, perfect for a lunch and dinner spot! If you want great vibes
+        and a chill spot definitely pull up to Sushi stop.
+      languageCode: en
+    originalText:
+      text: >-
+        Sushi stop in Hollywood is the best, great food, great drinks and great
+        service, perfect for a lunch and dinner spot! If you want great vibes
+        and a chill spot definitely pull up to Sushi stop.
+      languageCode: en
+    authorAttribution:
+      displayName: Jason Angulo
+      uri: https://www.google.com/maps/contrib/109672129737124119152/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUx3QcCGDVo6v5inyd30md6X3CPgdLvnyEb1I46170bwHWeSqU=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-02T22:04:54.494981Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNJc2J2OFNREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNJc2J2OFNREAE!2m1!1s0x80c2bf46cba6d23d:0x4176a0671ccfbce2
+  - name: >-
+      places/ChIJPdKmy0a_woAR4rzPHGegdkE/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3X2N6dDNRRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 4
+    text:
+      text: really good ! Lots of basic and interesting specials !
+      languageCode: en
+    originalText:
+      text: really good ! Lots of basic and interesting specials !
+      languageCode: en
+    authorAttribution:
+      displayName: Maria Deschamps
+      uri: https://www.google.com/maps/contrib/116202221121648016048/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVsIezNK7zPsJnkjEI5S3rRD5EheuCShZN3_AZMI-uAuo_w-rXZxw=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-03-27T20:15:56.698012Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUR3X2N6dDNRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUR3X2N6dDNRRRAB!2m1!1s0x80c2bf46cba6d23d:0x4176a0671ccfbce2
+  - name: >-
+      places/ChIJPdKmy0a_woAR4rzPHGegdkE/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ5ek5DRGxBRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 4
+    text:
+      text: >-
+        Tried the sushi stop in pasadena and liked it but service was bad, so we
+        decided to try this one in Hollywood and we have the same situation,
+        good food reasonable price but ok service thar could be better. But
+        overall, I have no real complaints other than the rolls are 5 pcs and 4,
+        so they seem cheap but aren't compared to other spots, especially with
+        happy hour.
+      languageCode: en
+    originalText:
+      text: >-
+        Tried the sushi stop in pasadena and liked it but service was bad, so we
+        decided to try this one in Hollywood and we have the same situation,
+        good food reasonable price but ok service thar could be better. But
+        overall, I have no real complaints other than the rolls are 5 pcs and 4,
+        so they seem cheap but aren't compared to other spots, especially with
+        happy hour.
+      languageCode: en
+    authorAttribution:
+      displayName: Joshua Gonzalez
+      uri: https://www.google.com/maps/contrib/115386817626757195727/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVm0sZT83kX0xHF4mvi7AKaoxN3XG1k9Tl71fWSDVvNMxtoxaXf=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2024-03-14T00:24:55.192216Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQ5ek5DRGxBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQ5ek5DRGxBRRAB!2m1!1s0x80c2bf46cba6d23d:0x4176a0671ccfbce2
+  - name: >-
+      places/ChIJPdKmy0a_woAR4rzPHGegdkE/reviews/ChZDSUhNMG9nS0VJQ0FnSURub2F2ZFl3EAE
+    relativePublishTimeDescription: 6 months ago
+    rating: 5
+    text:
+      text: >-
+        Good food, good service with tap water served as soon as you enter the
+        restaurant. Good portions and good price. Really nice for a healthier
+        option in Los Angeles.
+      languageCode: en
+    originalText:
+      text: >-
+        Good food, good service with tap water served as soon as you enter the
+        restaurant. Good portions and good price. Really nice for a healthier
+        option in Los Angeles.
+      languageCode: en
+    authorAttribution:
+      displayName: Carine Paiva Rezende
+      uri: https://www.google.com/maps/contrib/115274498972006464117/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWLVPl6twCvc4VrTB5E9S5CPGX7yrjU2E4ghEyMY3PmXfxhCfau=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-10-06T17:49:55.032934Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURub2F2ZFl3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURub2F2ZFl3EAE!2m1!1s0x80c2bf46cba6d23d:0x4176a0671ccfbce2
+  - name: >-
+      places/ChIJPdKmy0a_woAR4rzPHGegdkE/reviews/ChdDSUhNMG9nS0VJQ0FnTURBdjQ2WDVRRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 3
+    text:
+      text: >-
+        The sushi was good, for the price, but the service was… weird.
+
+        We checked the bag after leaving and discovered we were missing an ~$11
+        item. We went back in and we were simply told the item was out. No offer
+        for refund or replacement. We had to ask specifically for a replacement
+        with a similar item, then push more to receive enough items to equal the
+        cost of the item. The staff were friendly and did give us these items,
+        it’s just usually in this situation, you’re told the item is missing
+        before you’ve left the store, and you’re automatically offered refunds
+        or a replacement greater than the cost you spent. Not the best customer
+        service  experience I’ve had, :(, but definitely not the worst either.
+      languageCode: en
+    originalText:
+      text: >-
+        The sushi was good, for the price, but the service was… weird.
+
+        We checked the bag after leaving and discovered we were missing an ~$11
+        item. We went back in and we were simply told the item was out. No offer
+        for refund or replacement. We had to ask specifically for a replacement
+        with a similar item, then push more to receive enough items to equal the
+        cost of the item. The staff were friendly and did give us these items,
+        it’s just usually in this situation, you’re told the item is missing
+        before you’ve left the store, and you’re automatically offered refunds
+        or a replacement greater than the cost you spent. Not the best customer
+        service  experience I’ve had, :(, but definitely not the worst either.
+      languageCode: en
+    authorAttribution:
+      displayName: Bob Smith
+      uri: https://www.google.com/maps/contrib/112415896982048243114/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVYTgrWun1c60Ca96im8CfvKgRrE00R6w-sNA8uS7iaLqRe2-78=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-02-13T06:11:27.079989Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURBdjQ2WDVRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURBdjQ2WDVRRRAB!2m1!1s0x80c2bf46cba6d23d:0x4176a0671ccfbce2
+review_summary: >-
+  What Diners Are Saying About This Spot$$$Visitors often rave about the tasty
+  sushi and budget-friendly prices at this Hollywood favorite, highlighting the
+  generous portions and solid deals that make it a smart choice for a quick
+  bite. Many appreciate the efficient service and welcoming atmosphere, which
+  add to the overall enjoyment of fresh rolls and sides. While some feedback
+  points out occasional hiccups in customer interactions, the positives like
+  flavorful specials and healthy menu options tend to shine through. If you're
+  on the hunt for top-rated sushi nearby, this place frequently gets nods for
+  its reliable quality and laid-back feel, making it a solid pick for anyone
+  craving Japanese fare. Overall, it's a go-to destination that balances good
+  value with enjoyable dining experiences in Los Angeles.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
-payment_options: null
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+curbside_pickup: false
+delivery: true
+dine_in: true
+good_for_children: false
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: true
+reservable: false
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: false
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: false
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Mini-chain Japanese spot offering sashimi & small bites with most of the
+  seating around a sushi bar.
 
 ---

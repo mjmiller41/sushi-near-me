@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Good Sushi"
+title: Good Sushi
 permalink: /illinois/lincolnshire/good-sushi.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Lincolnshire
 seo:
-  name: "Good Sushi"
-  type: Restaurant
-  links: null
-description: "Good Sushi serves delicious sushi in Lincolnshire, Illinois. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.goodsushi.com/
 place_id: ChIJ4WIgu_S_D4gRpxRiSzs9bQs
 photos:
   - name: >-
@@ -170,8 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x880fbff4bb2062e1:0xb6d3d3b4b6214a7!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 5:00 – 9:00 PM'
+    - 'Tuesday: 5:00 – 9:00 PM'
+    - 'Wednesday: 5:00 – 9:00 PM'
+    - 'Thursday: 5:00 – 9:00 PM'
+    - 'Friday: 5:00 – 10:00 PM'
+    - 'Saturday: 5:00 – 10:00 PM'
+    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +234,53 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
+phone: (224) 352-2997
 price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+price_range: $50 &ndash; $100
+rating: '4.6'
+rating_count: 85
+website: http://www.goodsushi.com/
+description: >-
+  Discover Good Sushi in Lincolnshire, IL$$$Good Sushi in Lincolnshire, IL,
+  stands out as a refined spot for enjoying authentic Japanese cuisine,
+  particularly its fresh sashimi and sushi selections. The restaurant offers a
+  sophisticated atmosphere where diners can savor a variety of Japanese dishes
+  alongside a selection of beer, wine, and cocktails, making it a great choice
+  for evening outings. With its focus on quality ingredients and elegant
+  presentation, this sushi restaurant near you provides an inviting space that's
+  perfect for casual meals or special occasions. Accessibility features like
+  wheelchair-friendly entrances and seating add to the welcoming vibe, ensuring
+  everyone can enjoy the experience. Whether you're searching for top-rated
+  sushi options in the area, this place combines traditional flavors with a
+  modern touch for a memorable dining adventure.
+generative_summary: >-
+  Discover Good Sushi in Lincolnshire, IL$$$Good Sushi in Lincolnshire, IL,
+  stands out as a refined spot for enjoying authentic Japanese cuisine,
+  particularly its fresh sashimi and sushi selections. The restaurant offers a
+  sophisticated atmosphere where diners can savor a variety of Japanese dishes
+  alongside a selection of beer, wine, and cocktails, making it a great choice
+  for evening outings. With its focus on quality ingredients and elegant
+  presentation, this sushi restaurant near you provides an inviting space that's
+  perfect for casual meals or special occasions. Accessibility features like
+  wheelchair-friendly entrances and seating add to the welcoming vibe, ensuring
+  everyone can enjoy the experience. Whether you're searching for top-rated
+  sushi options in the area, this place combines traditional flavors with a
+  modern touch for a memorable dining adventure.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Diners at Good Sushi$$$Folks checking out this sushi spot often
+  mention how the fresh rolls and sashimi really hit the spot, with plenty of
+  praise for the high-quality fish that keeps things tasting just right. The
+  staff comes across as super friendly and helpful, guiding customers through
+  the menu like pros and making the whole visit feel easygoing. Many appreciate
+  the cool, relaxed atmosphere that makes it a solid pick for a laid-back night
+  out or gathering with friends. Overall, it's clear that the combination of
+  great flavors and attentive service leaves a positive impression, encouraging
+  repeat visits for anyone hunting for reliable sushi restaurants nearby. While
+  opinions are generally upbeat, it's all about enjoying those standout dishes
+  in a welcoming setting that keeps the energy light and fun.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +306,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

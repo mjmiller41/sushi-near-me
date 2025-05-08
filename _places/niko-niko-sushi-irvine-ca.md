@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Niko Niko Sushi"
+title: Niko Niko Sushi
 permalink: /california/irvine/niko-niko-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Irvine
 seo:
-  name: "Niko Niko Sushi"
-  type: Restaurant
-  links: null
-description: "Niko Niko Sushi serves delicious sushi in Irvine, California. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://sushiniko.com/
 place_id: ChIJSSjngyrd3IARkTtyTx6lVlw
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80dcdd2a83e72849:0x5c56a51e4f723b91!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:30 AM – 9:30 PM'
+    - 'Tuesday: 11:30 AM – 9:30 PM'
+    - 'Wednesday: 11:30 AM – 9:30 PM'
+    - 'Thursday: 11:30 AM – 9:30 PM'
+    - 'Friday: 11:30 AM – 9:30 PM'
+    - 'Saturday: 11:30 AM – 9:30 PM'
+    - 'Sunday: 11:30 AM – 9:30 PM'
+  nextCloseTime: '2025-05-04T04:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,51 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (949) 748-3970
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.1'
+rating_count: 310
+website: http://sushiniko.com/
+description: >-
+  Discover Niko Niko Sushi in Irvine, CA$$$Niko Niko Sushi in Irvine, CA, stands
+  out as a welcoming sushi spot offering a variety of fresh rolls and bento
+  options in a relaxed setting. Located in the vibrant Woodbury Town Center,
+  this Japanese-inspired eatery emphasizes accessibility with features like
+  wheelchair-friendly parking and entrances, making it easy for everyone to
+  enjoy a meal. Diners can savor an array of traditional dishes that highlight
+  quality ingredients and authentic flavors, perfect for those seeking sushi
+  restaurants nearby. The spot operates daily with convenient hours from late
+  morning to evening, ideal for quick lunches or relaxed dinners. Whether you're
+  exploring top-rated sushi options close to home, this place combines casual
+  vibes with satisfying cuisine to create a memorable experience.
+generative_summary: >-
+  Discover Niko Niko Sushi in Irvine, CA$$$Niko Niko Sushi in Irvine, CA, stands
+  out as a welcoming sushi spot offering a variety of fresh rolls and bento
+  options in a relaxed setting. Located in the vibrant Woodbury Town Center,
+  this Japanese-inspired eatery emphasizes accessibility with features like
+  wheelchair-friendly parking and entrances, making it easy for everyone to
+  enjoy a meal. Diners can savor an array of traditional dishes that highlight
+  quality ingredients and authentic flavors, perfect for those seeking sushi
+  restaurants nearby. The spot operates daily with convenient hours from late
+  morning to evening, ideal for quick lunches or relaxed dinners. Whether you're
+  exploring top-rated sushi options close to home, this place combines casual
+  vibes with satisfying cuisine to create a memorable experience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Feedback from Sushi Enthusiasts$$$Folks who've visited this sushi joint often
+  rave about the fresh flavors and generous portions that make it a standout
+  choice for Japanese dining in the area. With an impressive 4.1-star rating
+  from hundreds of reviews, many appreciate the welcoming atmosphere and
+  reliable service that keeps customers coming back for more. While some mention
+  minor waits during peak times, the overall consensus highlights the value and
+  taste as reasons to try it out, especially if you're hunting for the best
+  sushi near you. It's clear that the spot delivers on expectations for quality
+  and affordability, making it a solid pick for groups or solo diners alike. If
+  you're in the mood for reliable Japanese places nearby, this one earns high
+  marks for its consistent appeal and tasty offerings.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +312,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

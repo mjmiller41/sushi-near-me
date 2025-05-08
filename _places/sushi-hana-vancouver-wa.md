@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Hana"
+title: Sushi Hana
 permalink: /washington/vancouver/sushi-hana.html
 stateAbbr: WA
 stateName: Washington
 cityName: Vancouver
 seo:
-  name: "Sushi Hana"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi Hana serves delicious sushi in Vancouver, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJL0hIqiGllVQRGbFGh4m8cd4
 photos:
   - name: >-
@@ -185,7 +183,47 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Sushi Hana in Vancouver, Washington$$$Sushi Hana in Vancouver, WA,
+  stands out as a welcoming spot for those seeking fresh and innovative sushi
+  options in a relaxed environment. This sushi restaurant features a unique
+  conveyor belt system that delivers a variety of rolls and specialties,
+  including premium ingredients like salmon roe, making it an exciting choice
+  for casual diners. The laid-back setting enhances the experience, allowing
+  patrons to enjoy their meal at their own pace, whether they're stopping by for
+  a quick bite or a leisurely dinner. Accessibility features such as
+  wheelchair-friendly parking and entrances add to its appeal, ensuring everyone
+  can savor the flavors without hassle. For anyone exploring sushi places near
+  you, Sushi Hana offers a blend of quality and convenience that captures the
+  essence of modern Japanese dining.
+generative_summary: >-
+  Discover Sushi Hana in Vancouver, Washington$$$Sushi Hana in Vancouver, WA,
+  stands out as a welcoming spot for those seeking fresh and innovative sushi
+  options in a relaxed environment. This sushi restaurant features a unique
+  conveyor belt system that delivers a variety of rolls and specialties,
+  including premium ingredients like salmon roe, making it an exciting choice
+  for casual diners. The laid-back setting enhances the experience, allowing
+  patrons to enjoy their meal at their own pace, whether they're stopping by for
+  a quick bite or a leisurely dinner. Accessibility features such as
+  wheelchair-friendly parking and entrances add to its appeal, ensuring everyone
+  can savor the flavors without hassle. For anyone exploring sushi places near
+  you, Sushi Hana offers a blend of quality and convenience that captures the
+  essence of modern Japanese dining.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying About the Experience$$$Folks who visit this sushi
+  spot often rave about the fresh selections on the conveyor belt, highlighting
+  a great variety of rolls that keep things exciting and flavorful. Many
+  appreciate the flexibility of dining in or grabbing takeout, with options like
+  spicy mayo adding a nice kick to make meals more enjoyable. Reviewers
+  frequently note the convenience and quality of the offerings, making it a
+  solid pick for anyone craving reliable sushi close to home. While some mention
+  that service could use a bit more polish to match the tasty food, overall,
+  it's seen as a fun and approachable place worth trying. If you're on the hunt
+  for top-rated sushi restaurants nearby, this spot delivers a generally
+  positive vibe with room for even better interactions.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +249,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

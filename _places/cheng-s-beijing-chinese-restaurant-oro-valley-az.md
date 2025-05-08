@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Cheng's Beijing Chinese Restaurant"
+title: Cheng's Beijing Chinese Restaurant
 permalink: /arizona/oro-valley/cheng-s-beijing-chinese-restaurant.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Oro Valley
 seo:
-  name: "Cheng's Beijing Chinese Restaurant"
-  type: Restaurant
+  type: restaurant
   links: http://www.chengsbeijingtucson.com/
-description: "Cheng's Beijing Chinese Restaurant serves delicious sushi in Oro Valley, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJm4bfiEpz1oYRfiIibMgZulc
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x86d6734a88df869b:0x57ba19c86c22227e!10e5
 primary_type: Chinese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 10
+        minute: 30
+      close:
+        day: 0
+        hour: 20
+        minute: 0
+    - open:
+        day: 1
+        hour: 10
+        minute: 30
+      close:
+        day: 1
+        hour: 20
+        minute: 0
+    - open:
+        day: 2
+        hour: 10
+        minute: 30
+      close:
+        day: 2
+        hour: 20
+        minute: 0
+    - open:
+        day: 3
+        hour: 10
+        minute: 30
+      close:
+        day: 3
+        hour: 20
+        minute: 0
+    - open:
+        day: 4
+        hour: 10
+        minute: 30
+      close:
+        day: 4
+        hour: 20
+        minute: 0
+    - open:
+        day: 5
+        hour: 10
+        minute: 30
+      close:
+        day: 5
+        hour: 20
+        minute: 0
+    - open:
+        day: 6
+        hour: 10
+        minute: 30
+      close:
+        day: 6
+        hour: 20
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 10:30 AM – 8:00 PM'
     - 'Tuesday: 10:30 AM – 8:00 PM'
     - 'Wednesday: 10:30 AM – 8:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 10:30 AM – 8:00 PM'
     - 'Saturday: 10:30 AM – 8:00 PM'
     - 'Sunday: 10:30 AM – 8:00 PM'
-  current:
-    - 'Monday: 10:30 AM – 8:00 PM'
-    - 'Tuesday: 10:30 AM – 8:00 PM'
-    - 'Wednesday: 10:30 AM – 8:00 PM'
-    - 'Thursday: 10:30 AM – 8:00 PM'
-    - 'Friday: 10:30 AM – 8:00 PM'
-    - 'Saturday: 10:30 AM – 8:00 PM'
-    - 'Sunday: 10:30 AM – 8:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +246,46 @@ phone: (520) 297-8080
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.3'
-rating_count: 0
+rating_count: 364
 website: http://www.chengsbeijingtucson.com/
+description: >-
+  About Cheng's Beijing in Oro Valley, AZ$$$Cheng's Beijing Chinese Restaurant
+  in Oro Valley, AZ, provides a welcoming spot for enjoying casual Chinese and
+  Vietnamese-inspired cuisine. This establishment features a selection of
+  comforting dishes like flavorful soups and savory appetizers, all served in a
+  relaxed atmosphere that's perfect for family meals or quick lunches. With
+  accessibility options such as wheelchair-friendly parking and entrances, it
+  caters to a wide range of diners seeking inclusive dining experiences. The
+  restaurant operates daily from late morning until evening, making it a
+  convenient choice for those exploring local Chinese options nearby. Its
+  moderate pricing and diverse menu add to the appeal for anyone looking for
+  authentic Asian flavors in the area.
+generative_summary: >-
+  About Cheng's Beijing in Oro Valley, AZ$$$Cheng's Beijing Chinese Restaurant
+  in Oro Valley, AZ, provides a welcoming spot for enjoying casual Chinese and
+  Vietnamese-inspired cuisine. This establishment features a selection of
+  comforting dishes like flavorful soups and savory appetizers, all served in a
+  relaxed atmosphere that's perfect for family meals or quick lunches. With
+  accessibility options such as wheelchair-friendly parking and entrances, it
+  caters to a wide range of diners seeking inclusive dining experiences. The
+  restaurant operates daily from late morning until evening, making it a
+  convenient choice for those exploring local Chinese options nearby. Its
+  moderate pricing and diverse menu add to the appeal for anyone looking for
+  authentic Asian flavors in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this spot often praise the tasty,
+  well-prepared dishes that highlight fresh ingredients and generous portions,
+  making it a solid pick for casual meals. Many appreciate the friendly service
+  and efficient atmosphere, which contribute to a pleasant overall experience
+  without any major complaints. The high ratings reflect satisfaction with the
+  variety of options, including hearty soups and appetizers that keep people
+  coming back for more. While some note it's best for straightforward dining
+  rather than fancy occasions, the general consensus leans positive, emphasizing
+  good value for the price. If you're in the mood for reliable Chinese cuisine
+  close to home, this place seems to deliver a consistently enjoyable vibe.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +311,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

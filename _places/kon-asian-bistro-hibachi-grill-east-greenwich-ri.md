@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kon Asian Bistro & Hibachi Grill"
+title: Kon Asian Bistro & Hibachi Grill
 permalink: /rhode-island/east-greenwich/kon-asian-bistro-hibachi-grill.html
 stateAbbr: RI
 stateName: Rhode Island
 cityName: East Greenwich
 seo:
-  name: "Kon Asian Bistro & Hibachi Grill"
-  type: Restaurant
+  type: restaurant
   links: https://www.konasianbistro.com/
-description: "Kon Asian Bistro & Hibachi Grill serves delicious sushi in East Greenwich, Rhode Island. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJEeFBbcpM5IkRiG6ful-BE1M
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89e44cca6d41e111:0x5313815fba9f6e88!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 13
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 10:00 PM'
     - 'Tuesday: 11:30 AM – 10:00 PM'
     - 'Wednesday: 11:30 AM – 10:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 10:30 PM'
     - 'Saturday: 11:30 AM – 10:30 PM'
     - 'Sunday: 1:00 – 9:30 PM'
-  current:
-    - 'Monday: 11:30 AM – 10:00 PM'
-    - 'Tuesday: 11:30 AM – 10:00 PM'
-    - 'Wednesday: 11:30 AM – 10:00 PM'
-    - 'Thursday: 11:30 AM – 10:00 PM'
-    - 'Friday: 11:30 AM – 10:30 PM'
-    - 'Saturday: 11:30 AM – 10:30 PM'
-    - 'Sunday: 1:00 – 9:30 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +246,44 @@ phone: (401) 886-9200
 price_level: PRICE_LEVEL_INEXPENSIVE
 price_range: $30 &ndash; $50
 rating: '4.1'
-rating_count: 0
+rating_count: 553
 website: https://www.konasianbistro.com/
+description: >-
+  Discover Kon Asian Bistro in East Greenwich, RI$$$Kon Asian Bistro & Hibachi
+  Grill in East Greenwich, RI, stands out as a vibrant spot for enjoying fresh
+  sushi and dynamic teppanyaki grills, blending traditional Asian flavors with
+  an inviting atmosphere. This establishment offers a mix of classic Chinese
+  dishes and expertly prepared rolls, making it a go-to choice for those seeking
+  top-rated sushi options in the area. With wheelchair-accessible features
+  throughout, it ensures a welcoming experience for all visitors looking for
+  convenient Japanese-inspired dining. The restaurant's lively setup and
+  extended hours cater to both casual lunches and evening outings, enhancing its
+  appeal as a reliable sushi destination near you.
+generative_summary: >-
+  Discover Kon Asian Bistro in East Greenwich, RI$$$Kon Asian Bistro & Hibachi
+  Grill in East Greenwich, RI, stands out as a vibrant spot for enjoying fresh
+  sushi and dynamic teppanyaki grills, blending traditional Asian flavors with
+  an inviting atmosphere. This establishment offers a mix of classic Chinese
+  dishes and expertly prepared rolls, making it a go-to choice for those seeking
+  top-rated sushi options in the area. With wheelchair-accessible features
+  throughout, it ensures a welcoming experience for all visitors looking for
+  convenient Japanese-inspired dining. The restaurant's lively setup and
+  extended hours cater to both casual lunches and evening outings, enhancing its
+  appeal as a reliable sushi destination near you.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying About This Spot$$$Folks generally rave about the
+  flavorful dishes and lively hibachi shows at this popular sushi restaurant,
+  with many highlighting the fresh ingredients and generous portions that keep
+  diners coming back. A solid rating reflects satisfaction with the overall
+  vibe, including quick service and a welcoming environment that feels just
+  right for groups or solo meals. While some mention occasional waits during
+  peak times, the consensus leans positive, praising the variety of options that
+  make it a solid pick for anyone craving authentic Asian flavors. Overall, it's
+  clear that this place delivers a fun and satisfying experience, encouraging
+  repeat visits for those exploring the best sushi spots nearby.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +309,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

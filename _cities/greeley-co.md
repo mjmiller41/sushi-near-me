@@ -5,4 +5,5 @@ permalink: /colorado/greeley/
 stateAbbr: CO
 stateName: Colorado
 cityName: Greeley
+
 ---

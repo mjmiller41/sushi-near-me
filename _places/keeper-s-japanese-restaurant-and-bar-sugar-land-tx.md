@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Keeper's Japanese Restaurant and Bar"
+title: Keeper's Japanese Restaurant and Bar
 permalink: /texas/sugar-land/keeper-s-japanese-restaurant-and-bar.html
 stateAbbr: TX
 stateName: Texas
 cityName: Sugar Land
 seo:
-  name: "Keeper's Japanese Restaurant and Bar"
-  type: Restaurant
+  type: restaurant
   links: https://keepersushi.com/
-description: "Keeper's Japanese Restaurant and Bar serves delicious sushi in Sugar Land, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ5RUXPnTmQIYR_hxF_roJ73c
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8640e6743e1715e5:0x77ef09bafe451cfe!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 22
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 22
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 23
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 23
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 10:30 PM'
     - 'Tuesday: 11:30 AM – 10:30 PM'
     - 'Wednesday: 11:30 AM – 10:30 PM'
@@ -178,28 +234,124 @@ opening_hours:
     - 'Friday: 11:30 AM – 11:30 PM'
     - 'Saturday: 11:30 AM – 11:30 PM'
     - 'Sunday: 11:30 AM – 10:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 10:30 PM'
-    - 'Tuesday: 11:30 AM – 10:30 PM'
-    - 'Wednesday: 11:30 AM – 10:30 PM'
-    - 'Thursday: 11:30 AM – 10:30 PM'
-    - 'Friday: 11:30 AM – 11:30 PM'
-    - 'Saturday: 11:30 AM – 11:30 PM'
-    - 'Sunday: 11:30 AM – 10:00 PM'
+  nextCloseTime: '2025-05-04T04:30:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 11
+          minute: 30
+        close:
+          day: 0
+          hour: 22
+          minute: 0
+      - open:
+          day: 1
+          hour: 11
+          minute: 30
+        close:
+          day: 1
+          hour: 22
+          minute: 30
+      - open:
+          day: 2
+          hour: 11
+          minute: 30
+        close:
+          day: 2
+          hour: 22
+          minute: 30
+      - open:
+          day: 3
+          hour: 11
+          minute: 30
+        close:
+          day: 3
+          hour: 22
+          minute: 30
+      - open:
+          day: 4
+          hour: 11
+          minute: 30
+        close:
+          day: 4
+          hour: 22
+          minute: 30
+      - open:
+          day: 5
+          hour: 11
+          minute: 30
+        close:
+          day: 5
+          hour: 23
+          minute: 30
+      - open:
+          day: 6
+          hour: 11
+          minute: 30
+        close:
+          day: 6
+          hour: 23
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 11:30 AM – 10:30 PM'
+      - 'Tuesday: 11:30 AM – 10:30 PM'
+      - 'Wednesday: 11:30 AM – 10:30 PM'
+      - 'Thursday: 11:30 AM – 10:30 PM'
+      - 'Friday: 11:30 AM – 11:30 PM'
+      - 'Saturday: 11:30 AM – 11:30 PM'
+      - 'Sunday: 11:30 AM – 10:00 PM'
+    secondaryHoursType: HAPPY_HOUR
+    nextCloseTime: '2025-05-04T04:30:00Z'
 phone: (281) 524-4820
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.5'
-rating_count: 0
+rating_count: 1649
 website: https://keepersushi.com/
+description: >-
+  Explore Keeper's Japanese Restaurant in Sugar Land, TX$$$Keeper's Japanese
+  Restaurant and Bar in Sugar Land, TX, stands out as a relaxed dining
+  destination perfect for those seeking quality sushi options in a welcoming
+  environment. This spot features an impressive variety of fresh sushi rolls and
+  classic Japanese favorites, making it a go-to choice for anyone craving
+  authentic flavors close to home. With its inviting atmosphere and convenient
+  happy hour specials, it's ideal for casual meals or gatherings with friends,
+  all at moderate prices that won't break the bank. The restaurant also
+  prioritizes accessibility, ensuring a comfortable experience for all visitors,
+  while its extended hours cater to both lunch and dinner crowds. If you're
+  exploring top sushi places nearby, this location delivers a satisfying blend
+  of taste and value that keeps patrons returning.
+generative_summary: >-
+  Explore Keeper's Japanese Restaurant in Sugar Land, TX$$$Keeper's Japanese
+  Restaurant and Bar in Sugar Land, TX, stands out as a relaxed dining
+  destination perfect for those seeking quality sushi options in a welcoming
+  environment. This spot features an impressive variety of fresh sushi rolls and
+  classic Japanese favorites, making it a go-to choice for anyone craving
+  authentic flavors close to home. With its inviting atmosphere and convenient
+  happy hour specials, it's ideal for casual meals or gatherings with friends,
+  all at moderate prices that won't break the bank. The restaurant also
+  prioritizes accessibility, ensuring a comfortable experience for all visitors,
+  while its extended hours cater to both lunch and dinner crowds. If you're
+  exploring top sushi places nearby, this location delivers a satisfying blend
+  of taste and value that keeps patrons returning.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What People Love About This Sushi Spot$$$Visitors often rave about the
+  delicious sushi and flavorful Japanese dishes that make every meal feel fresh
+  and satisfying, especially with the standout happy hour deals offering great
+  value. Many appreciate the friendly service that adds a warm, welcoming vibe
+  to the overall experience, helping to create a relaxed setting for enjoying
+  time with others. Folks frequently note the reasonable prices and variety of
+  options, which make it a solid pick for both quick bites and leisurely
+  dinners. While it's not without minor preferences for tweaks, the general
+  consensus highlights a positive atmosphere that enhances the dining adventure.
+  Overall, if you're on the hunt for reliable sushi restaurants in the area,
+  this place consistently delivers an enjoyable and approachable option that
+  leaves a good impression.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +377,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

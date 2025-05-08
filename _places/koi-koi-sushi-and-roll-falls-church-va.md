@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Koi Koi Sushi and Roll"
+title: Koi Koi Sushi and Roll
 permalink: /virginia/falls-church/koi-koi-sushi-and-roll.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Falls Church
 seo:
-  name: "Koi Koi Sushi and Roll"
-  type: Restaurant
+  type: restaurant
   links: http://koikoisushi.com/
-description: "Japanese find with an illustrated menu of cooked eats, plus tempura rolls & other specialty sushi. Koi Koi Sushi and Roll serves delicious sushi in Falls Church, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ5SEG-MO0t4kRH_lTssh5TX0
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 0
 website: http://koikoisushi.com/
+description: >-
+  Experience Koi Koi Sushi and Roll in Falls Church, VA$$$Koi Koi Sushi and Roll
+  in Falls Church, VA, offers a casual yet inviting atmosphere perfect for
+  enjoying fresh Japanese cuisine. This sushi restaurant features a variety of
+  specialty rolls and tempura options, making it a go-to spot for those seeking
+  authentic flavors in a welcoming setting. With accessibility features like
+  wheelchair-friendly entrances and parking, it's designed to accommodate all
+  diners comfortably. Outdoor seating adds to the charm, ideal for a relaxed
+  meal, while the menu highlights creative dishes that blend traditional and
+  modern elements. Whether you're exploring sushi restaurants nearby or looking
+  for Japanese places in the area, this spot delivers a satisfying dining
+  experience with moderate pricing.
+generative_summary: >-
+  Experience Koi Koi Sushi and Roll in Falls Church, VA$$$Koi Koi Sushi and Roll
+  in Falls Church, VA, offers a casual yet inviting atmosphere perfect for
+  enjoying fresh Japanese cuisine. This sushi restaurant features a variety of
+  specialty rolls and tempura options, making it a go-to spot for those seeking
+  authentic flavors in a welcoming setting. With accessibility features like
+  wheelchair-friendly entrances and parking, it's designed to accommodate all
+  diners comfortably. Outdoor seating adds to the charm, ideal for a relaxed
+  meal, while the menu highlights creative dishes that blend traditional and
+  modern elements. Whether you're exploring sushi restaurants nearby or looking
+  for Japanese places in the area, this spot delivers a satisfying dining
+  experience with moderate pricing.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ5SEG-MO0t4kRH_lTssh5TX0/reviews/ChZDSUhNMG9nS0VJQ0FnSUNfeXVPQ1Z3EAE
@@ -350,6 +373,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNBamRmcHpBRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNBamRmcHpBRRAB!2m1!1s0x89b7b4c3f80621e5:0x7d4d79c8b253f91f
+review_summary: >-
+  What People Are Buzzing About$$$Visitors to this sushi spot often rave about
+  the delicious rolls and friendly service, making it a solid choice for anyone
+  craving fresh flavors without breaking the bank. Many highlight the great
+  selection of baked and fried options, along with convenient location perks
+  like nearby parking that enhance the overall vibe. While most feedback praises
+  the tasty dishes and attentive staff, a few mentions note occasional waits
+  during busy times, though it's generally worth it for the quality. Overall,
+  folks love the value and variety, turning it into a favorite for casual sushi
+  outings in the neighborhood. If you're hunting for top-rated sushi near you,
+  this place consistently delivers a positive experience with its flavorful
+  offerings and welcoming environment.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -382,8 +418,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Japanese find with an illustrated menu of cooked eats, plus tempura rolls &
   other specialty sushi.
 

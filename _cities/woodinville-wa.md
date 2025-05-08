@@ -5,4 +5,5 @@ permalink: /washington/woodinville/
 stateAbbr: WA
 stateName: Washington
 cityName: Woodinville
+
 ---

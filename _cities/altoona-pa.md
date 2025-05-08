@@ -5,4 +5,5 @@ permalink: /pennsylvania/altoona/
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Altoona
+
 ---

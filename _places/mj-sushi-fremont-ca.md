@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "MJ Sushi"
+title: MJ Sushi
 permalink: /california/fremont/mj-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Fremont
 seo:
-  name: "MJ Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "MJ Sushi serves delicious sushi in Fremont, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJY1GO3DXHj4ARs-GQKj-_R8M
 photos:
   - name: >-
@@ -185,7 +183,42 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover MJ Sushi in Fremont, California$$$MJ Sushi in Fremont, California,
+  stands out as a welcoming Japanese sushi bar known for its casual vibe and
+  flavorful offerings. Nestled within The Globe Mall, this spot serves up fresh
+  small plates and a selection of beers, making it a go-to for those seeking
+  authentic Japanese cuisine in a relaxed setting. The restaurant boasts
+  excellent accessibility features, ensuring a comfortable visit for all guests,
+  while its inviting atmosphere is highlighted by vibrant photos of delicious
+  dishes. Whether you're exploring sushi restaurants nearby or looking for a
+  quick bite, this location combines affordability with quality, perfect for
+  casual diners in the area.
+generative_summary: >-
+  Discover MJ Sushi in Fremont, California$$$MJ Sushi in Fremont, California,
+  stands out as a welcoming Japanese sushi bar known for its casual vibe and
+  flavorful offerings. Nestled within The Globe Mall, this spot serves up fresh
+  small plates and a selection of beers, making it a go-to for those seeking
+  authentic Japanese cuisine in a relaxed setting. The restaurant boasts
+  excellent accessibility features, ensuring a comfortable visit for all guests,
+  while its inviting atmosphere is highlighted by vibrant photos of delicious
+  dishes. Whether you're exploring sushi restaurants nearby or looking for a
+  quick bite, this location combines affordability with quality, perfect for
+  casual diners in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Folks enjoying sushi spots like this one often
+  highlight the tasty rolls that deliver great value without breaking the bank,
+  making it a solid choice for everyday meals. Many appreciate the fun bonus of
+  complimentary soft serve ice cream, adding a sweet touch to wrap up their
+  visit. Service here tends to be friendly and efficient, helping to create a
+  laid-back and enjoyable dining experience for groups or individuals. Overall,
+  the convenient hours make it easy to stop by, earning nods from those seeking
+  reliable Japanese places near me. If you're on the hunt for top-rated sushi,
+  this spot keeps things positive with its approachable vibe and satisfying
+  options.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +244,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

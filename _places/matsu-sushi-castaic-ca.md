@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Matsu Sushi"
+title: Matsu Sushi
 permalink: /california/castaic/matsu-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Castaic
 seo:
-  name: "Matsu Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://matsusushionline.com/
-description: "Matsu Sushi serves delicious sushi in Castaic, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJJWW941B-woARodFRfy1Sgqg
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c27e50e3bd6525:0xa882522d7f51d1a1!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 9:00 PM'
     - 'Tuesday: 11:30 AM – 9:00 PM'
     - 'Wednesday: 11:30 AM – 9:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 10:00 PM'
     - 'Saturday: 11:30 AM – 10:00 PM'
     - 'Sunday: 11:30 AM – 9:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 9:00 PM'
-    - 'Tuesday: 11:30 AM – 9:00 PM'
-    - 'Wednesday: 11:30 AM – 9:00 PM'
-    - 'Thursday: 11:30 AM – 9:00 PM'
-    - 'Friday: 11:30 AM – 10:00 PM'
-    - 'Saturday: 11:30 AM – 10:00 PM'
-    - 'Sunday: 11:30 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T05:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,224 @@ phone: (661) 257-0023
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.5'
-rating_count: 0
+rating_count: 350
 website: https://matsusushionline.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Experience Matsu Sushi in Castaic, CA$$$Nestled in Castaic, CA, Matsu Sushi
+  offers a relaxed dining experience with a focus on traditional Japanese fare,
+  including generous hand rolls and a selection of sake and beer. This spot
+  stands out for its fresh ingredients and welcoming atmosphere, making it an
+  ideal choice for those seeking authentic flavors in a comfortable setting.
+  Accessibility features like wheelchair-friendly parking and entrances ensure
+  everyone can enjoy the meal without hassle, while the moderate price range
+  provides great value for quality dishes. With daily hours extending into the
+  evening, it's a convenient option for lunch or dinner, appealing to anyone
+  exploring top-rated sushi options nearby.
+generative_summary: >-
+  Experience Matsu Sushi in Castaic, CA$$$Nestled in Castaic, CA, Matsu Sushi
+  offers a relaxed dining experience with a focus on traditional Japanese fare,
+  including generous hand rolls and a selection of sake and beer. This spot
+  stands out for its fresh ingredients and welcoming atmosphere, making it an
+  ideal choice for those seeking authentic flavors in a comfortable setting.
+  Accessibility features like wheelchair-friendly parking and entrances ensure
+  everyone can enjoy the meal without hassle, while the moderate price range
+  provides great value for quality dishes. With daily hours extending into the
+  evening, it's a convenient option for lunch or dinner, appealing to anyone
+  exploring top-rated sushi options nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJJWW941B-woARodFRfy1Sgqg/reviews/ChdDSUhNMG9nS0VJQ0FnSUR2NUpEZnVnRRAB
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        While stopping by Castaic to supercharge my car, we stumbled upon Matsu
+        Sushi, and it was a delightful find. Though a cozy establishment, their
+        sushi is truly top-notch. From their flavorful soup and fresh salad to
+        the delicious Hamachi and Sake we tried, every dish left us thoroughly
+        impressed. I wholeheartedly recommend this restaurant—you're in for a
+        treat! Enjoy your meal!
+      languageCode: en
+    originalText:
+      text: >-
+        While stopping by Castaic to supercharge my car, we stumbled upon Matsu
+        Sushi, and it was a delightful find. Though a cozy establishment, their
+        sushi is truly top-notch. From their flavorful soup and fresh salad to
+        the delicious Hamachi and Sake we tried, every dish left us thoroughly
+        impressed. I wholeheartedly recommend this restaurant—you're in for a
+        treat! Enjoy your meal!
+      languageCode: en
+    authorAttribution:
+      displayName: Cheryl Hu
+      uri: https://www.google.com/maps/contrib/100710483292948956143/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXR8dxh3CbQkuUOkB5ybZ_ZpmpVr0Oy_jmkfKughBYs3fFuX_lM=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-12-17T19:40:13.170826Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR2NUpEZnVnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR2NUpEZnVnRRAB!2m1!1s0x80c27e50e3bd6525:0xa882522d7f51d1a1
+  - name: >-
+      places/ChIJJWW941B-woARodFRfy1Sgqg/reviews/ChdDSUhNMG9nS0VJQ0FnSURiZ1pMZjRRRRAB
+    relativePublishTimeDescription: 9 months ago
+    rating: 5
+    text:
+      text: >-
+        Matsu is one of the best sushi restaurants I've ever been too.  I've
+        never had a bad or stringy piece of fish and the service has always been
+        great.  Might not be the biggest pieces of fish, but the quality is
+        always there.  I highly recommend the Matsu Special Roll (It's a hand
+        roll).
+      languageCode: en
+    originalText:
+      text: >-
+        Matsu is one of the best sushi restaurants I've ever been too.  I've
+        never had a bad or stringy piece of fish and the service has always been
+        great.  Might not be the biggest pieces of fish, but the quality is
+        always there.  I highly recommend the Matsu Special Roll (It's a hand
+        roll).
+      languageCode: en
+    authorAttribution:
+      displayName: Brandon Seals
+      uri: https://www.google.com/maps/contrib/104948489023328700175/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIL8i6zQTXukaW4jH8yXhqEmgWpYHkvkbHX9THWBl6vXfsF4Q=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-08-06T03:35:31.398894Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURiZ1pMZjRRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURiZ1pMZjRRRRAB!2m1!1s0x80c27e50e3bd6525:0xa882522d7f51d1a1
+  - name: >-
+      places/ChIJJWW941B-woARodFRfy1Sgqg/reviews/ChdDSUhNMG9nS0VJQ0FnSUQzd1l5Wm5RRRAB
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        Delicious sushi- especially for the price… very friendly and
+        accommodating service too. Always a great stop!
+      languageCode: en
+    originalText:
+      text: >-
+        Delicious sushi- especially for the price… very friendly and
+        accommodating service too. Always a great stop!
+      languageCode: en
+    authorAttribution:
+      displayName: Matthieu Picard
+      uri: https://www.google.com/maps/contrib/103191669080768110280/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjV5lZIOpKuXYV9uJpLKRnBlcyiZYdbI2oxgaGnKLrstqVAXUPI=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-11-15T18:13:13.018450Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQzd1l5Wm5RRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQzd1l5Wm5RRRAB!2m1!1s0x80c27e50e3bd6525:0xa882522d7f51d1a1
+  - name: >-
+      places/ChIJJWW941B-woARodFRfy1Sgqg/reviews/ChZDSUhNMG9nS0VJQ0FnSUNabG9feUtREAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        We arrived near the end of the dinner rush, with just a few servers they
+        still got us sat and got us served in a very reasonable time. Great
+        good, friendly servers and Tesla supercharger in the parking lot, worked
+        out great!
+
+
+        I also loved how they added crab to the cucumber salad, and just the
+        right amount of seasoning.
+      languageCode: en
+    originalText:
+      text: >-
+        We arrived near the end of the dinner rush, with just a few servers they
+        still got us sat and got us served in a very reasonable time. Great
+        good, friendly servers and Tesla supercharger in the parking lot, worked
+        out great!
+
+
+        I also loved how they added crab to the cucumber salad, and just the
+        right amount of seasoning.
+      languageCode: en
+    authorAttribution:
+      displayName: Nayt Grochowski
+      uri: https://www.google.com/maps/contrib/109816882743430855732/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXI9NWaDGq9n3VJr-UDY_ATrTDnRvf6fq_raqvwAmDUfNz3NAFTzw=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2023-09-10T00:35:23.368603Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNabG9feUtREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNabG9feUtREAE!2m1!1s0x80c27e50e3bd6525:0xa882522d7f51d1a1
+  - name: >-
+      places/ChIJJWW941B-woARodFRfy1Sgqg/reviews/ChZDSUhNMG9nS0VJQ0FnSUNMamYtdlJnEAE
+    relativePublishTimeDescription: 10 months ago
+    rating: 5
+    text:
+      text: >-
+        Good food, they also included crispy noodles as appetizers which was
+        nice. Pretty quick service as well. Overall no complaints :)
+      languageCode: en
+    originalText:
+      text: >-
+        Good food, they also included crispy noodles as appetizers which was
+        nice. Pretty quick service as well. Overall no complaints :)
+      languageCode: en
+    authorAttribution:
+      displayName: Jason Krein
+      uri: https://www.google.com/maps/contrib/106122664946757542798/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVEaH_bhO1HJdlGpNx89oWJOcTyF0RI7Ik5D8KlOR-Kyjlh0VM=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-06-22T05:14:13.826982Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNMamYtdlJnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNMamYtdlJnEAE!2m1!1s0x80c27e50e3bd6525:0xa882522d7f51d1a1
+review_summary: >-
+  Customer Feedback Highlights$$$Visitors consistently praise Matsu Sushi for
+  its fresh and flavorful rolls, often highlighting the high quality of the fish
+  and generous portions that deliver solid value. Many appreciate the friendly
+  service and quick turnaround, making it a reliable stop for casual meals or
+  groups looking for a welcoming vibe. The standout dishes, like specialty hand
+  rolls, come up frequently as crowd favorites that keep people coming back for
+  more. Overall, the atmosphere and attentive staff create a positive
+  experience, encouraging folks to try it out for themselves when searching for
+  great sushi spots around town. While a few mentions touch on portion sizes,
+  the general consensus leans toward it being a go-to choice for satisfying,
+  everyday dining.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
 good_for_sports: null
-live_music: null
+live_music: false
 menu_for_children: null
 outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: true
+serves_brunch: false
+serves_cocktails: false
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

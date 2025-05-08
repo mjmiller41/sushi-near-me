@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Shobu Sushi"
+title: Shobu Sushi
 permalink: /new-york/brooklyn/shobu-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: Brooklyn
 seo:
-  name: "Shobu Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.shobusushiincnyc.com/
-description: "Straightforward sushi bar supplying tempura & other Japanese dishes, plus some Thai options. Shobu Sushi serves delicious sushi in Brooklyn, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ93rmMohPwokRzPmDnke_t4I
 photos:
   - name: >-
@@ -183,6 +181,29 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 0
 website: http://www.shobusushiincnyc.com/
+description: >-
+  Discover Shobu Sushi in Brooklyn, NY$$$Shobu Sushi in Brooklyn, NY, is a
+  casual spot renowned for its fresh assortment of sushi rolls and other Asian
+  dishes that appeal to sushi enthusiasts. This welcoming restaurant features a
+  straightforward menu with tempura, Thai-inspired options, and a selection of
+  sake, making it a great choice for those exploring top-rated Japanese places
+  in the area. Accessibility is a key highlight, with wheelchair-friendly
+  entrances and seating that ensure everyone can enjoy the experience. The
+  moderate pricing and outdoor seating add to its charm, offering a relaxed vibe
+  for diners seeking quality sushi restaurants nearby. Overall, it's an ideal
+  destination for anyone craving authentic flavors in a neighborhood setting.
+generative_summary: >-
+  Discover Shobu Sushi in Brooklyn, NY$$$Shobu Sushi in Brooklyn, NY, is a
+  casual spot renowned for its fresh assortment of sushi rolls and other Asian
+  dishes that appeal to sushi enthusiasts. This welcoming restaurant features a
+  straightforward menu with tempura, Thai-inspired options, and a selection of
+  sake, making it a great choice for those exploring top-rated Japanese places
+  in the area. Accessibility is a key highlight, with wheelchair-friendly
+  entrances and seating that ensure everyone can enjoy the experience. The
+  moderate pricing and outdoor seating add to its charm, offering a relaxed vibe
+  for diners seeking quality sushi restaurants nearby. Overall, it's an ideal
+  destination for anyone craving authentic flavors in a neighborhood setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ93rmMohPwokRzPmDnke_t4I/reviews/ChdDSUhNMG9nS0VJQ0FnSUNQcU9qMnZRRRAB
@@ -342,6 +363,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNGcC12OEpnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNGcC12OEpnEAE!2m1!1s0x89c24f8832e67af7:0x82b7bf479e83f9cc
+review_summary: >-
+  What Customers Are Saying About This Sushi Spot$$$Folks generally love the
+  fresh ingredients and high-quality fish at this sushi place, often
+  highlighting the delicious rolls and specials that make it stand out as one of
+  the best options around. While some mention that certain dishes like soups or
+  rolls can vary in preparation, the friendly service and clean atmosphere keep
+  things positive overall. Many appreciate the variety of choices, including
+  bento boxes and teriyaki, which provide solid value for a casual meal. It's
+  praised for being a reliable spot for takeout or dining in with friends,
+  especially when you're in the mood for something tasty without the fuss. All
+  in all, this sushi restaurant near you delivers a satisfying experience that's
+  worth checking out for its consistent flavors and welcoming feel.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   valetParking: false
 payment_options:
@@ -372,8 +406,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Straightforward sushi bar supplying tempura & other Japanese dishes, plus some
   Thai options.
 

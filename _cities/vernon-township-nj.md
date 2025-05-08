@@ -5,4 +5,5 @@ permalink: /new-jersey/vernon-township/
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Vernon Township
+
 ---

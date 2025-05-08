@@ -1,0 +1,20 @@
+{
+  "usage": {
+    "prompt": 42525826,
+    "reasoning": 3517684,
+    "completion": 1478592,
+    "total": 47522102
+  },
+  "cost": {
+    "prompt": 12.757747800000013,
+    "reasoning": 1.7588419999999916,
+    "completion": 0.7392955000000002,
+    "total": 15.255885300000006
+  },
+  "cost_per_mil": {
+    "prompt": 0.3,
+    "completion": 0.5,
+    "reasoning": 0.5
+  },
+  "updated_at": "Thu May 08 2025 02:39:12 GMT-0400 (Eastern Daylight Time)"
+}

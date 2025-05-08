@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Rock N Roll Sushi"
+title: Rock N Roll Sushi
 permalink: /mississippi/hattiesburg/rock-n-roll-sushi.html
 stateAbbr: MS
 stateName: Mississippi
 cityName: Hattiesburg
 seo:
-  name: "Rock N Roll Sushi"
-  type: Restaurant
-  links: null
-description: "Rock N Roll Sushi serves delicious sushi in Hattiesburg, Mississippi. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://rocknrollsushi.com/locations/hattiesburg-ms/
 place_id: ChIJ5ZtnoRbfnIgRU4BO8o-Hrjo
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x889cdf16a1679be5:0x3aae878ff24e8053!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 9:00 PM'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 10:00 PM'
+    - 'Saturday: 11:00 AM – 10:00 PM'
+    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,49 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (769) 390-7957
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.4'
+rating_count: 704
+website: https://rocknrollsushi.com/locations/hattiesburg-ms/
+description: >-
+  Discover Rock N Roll Sushi in Hattiesburg, MS$$$Rock N Roll Sushi in
+  Hattiesburg, MS, brings a lively twist to Japanese dining with its rock 'n'
+  roll-inspired vibe and creative takes on classic sushi rolls. This spot stands
+  out for its fresh, Americanized sushi options and flavorful hibachi dishes,
+  making it a go-to for those seeking vibrant sushi experiences near you.
+  Accessibility features like wheelchair-friendly parking and seating add to its
+  appeal, ensuring a welcoming environment for all visitors. With convenient
+  hours from 11 AM daily and a moderate price range, it's an ideal choice for
+  casual meals or group outings, blending fun atmosphere with satisfying flavors
+  that sushi lovers appreciate.
+generative_summary: >-
+  Discover Rock N Roll Sushi in Hattiesburg, MS$$$Rock N Roll Sushi in
+  Hattiesburg, MS, brings a lively twist to Japanese dining with its rock 'n'
+  roll-inspired vibe and creative takes on classic sushi rolls. This spot stands
+  out for its fresh, Americanized sushi options and flavorful hibachi dishes,
+  making it a go-to for those seeking vibrant sushi experiences near you.
+  Accessibility features like wheelchair-friendly parking and seating add to its
+  appeal, ensuring a welcoming environment for all visitors. With convenient
+  hours from 11 AM daily and a moderate price range, it's an ideal choice for
+  casual meals or group outings, blending fun atmosphere with satisfying flavors
+  that sushi lovers appreciate.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Folks frequently praise the tasty sushi rolls and
+  hibachi selections at this spot, noting how the fresh flavors and creative
+  combinations make for a memorable meal. Many highlight the friendly and
+  attentive service that helps guide choices and keeps things enjoyable from
+  start to finish. While some mention that prices can feel a bit steep compared
+  to other options, the overall quality and variety still make it a worthwhile
+  visit for sushi enthusiasts. In general, it's seen as a solid pick for anyone
+  craving reliable Japanese-inspired fare, with the positive vibes often
+  outweighing any minor drawbacks. If you're on the hunt for top-rated sushi
+  nearby, this place tends to deliver a satisfying experience that keeps diners
+  coming back.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +310,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

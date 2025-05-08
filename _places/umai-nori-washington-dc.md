@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Umai Nori"
+title: Umai Nori
 permalink: /district-of-columbia/washington/umai-nori.html
 stateAbbr: DC
 stateName: District of Columbia
 cityName: Washington
 seo:
-  name: "Umai Nori"
-  type: Restaurant
+  type: restaurant
   links: https://umainori.com/
-description: "Umai Nori serves delicious sushi in Washington, District of Columbia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJwT6Soa63t4kRD3EFbLncYZ8
 photos:
   - name: >-
@@ -184,6 +182,31 @@ price_range: $30 &ndash; $50
 rating: '4.7'
 rating_count: 0
 website: https://umainori.com/
+description: >-
+  Discover Umai Nori in Washington, DC$$$Umai Nori in Washington, DC, stands out
+  as a vibrant Japanese restaurant specializing in innovative sushi and fresh
+  seafood that captivates the senses. This spot highlights high-quality
+  ingredients and creative presentations, making each dish a delightful
+  adventure for sushi enthusiasts exploring options nearby. From hand rolls to
+  nigiri selections, the menu emphasizes flavorful combinations that balance
+  tradition with modern flair, all served in a welcoming atmosphere perfect for
+  casual outings or special occasions. The attentive service adds to the charm,
+  with thoughtful touches that elevate the overall dining experience. If you're
+  seeking top-rated sushi in the heart of the city, this location delivers a
+  memorable meal that's both fun and satisfying.
+generative_summary: >-
+  Discover Umai Nori in Washington, DC$$$Umai Nori in Washington, DC, stands out
+  as a vibrant Japanese restaurant specializing in innovative sushi and fresh
+  seafood that captivates the senses. This spot highlights high-quality
+  ingredients and creative presentations, making each dish a delightful
+  adventure for sushi enthusiasts exploring options nearby. From hand rolls to
+  nigiri selections, the menu emphasizes flavorful combinations that balance
+  tradition with modern flair, all served in a welcoming atmosphere perfect for
+  casual outings or special occasions. The attentive service adds to the charm,
+  with thoughtful touches that elevate the overall dining experience. If you're
+  seeking top-rated sushi in the heart of the city, this location delivers a
+  memorable meal that's both fun and satisfying.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJwT6Soa63t4kRD3EFbLncYZ8/reviews/ChdDSUhNMG9nS0VJQ0FnTURnel8zZnp3RRAB
@@ -391,6 +414,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNRbDVxXzJRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNRbDVxXzJRRRAB!2m1!1s0x89b7b7aea1923ec1:0x9f61dcb96c05710f
+review_summary: >-
+  What Visitors Are Saying$$$Folks rave about the outstanding freshness and
+  quality of the sushi here, often noting how each piece feels expertly crafted
+  and bursting with authentic flavors. Many appreciate the creative twists on
+  classics, like unique hand rolls that offer a fun, exploratory twist without
+  skimping on taste. Service gets high marks for being warm and attentive, with
+  extras like complimentary surprises adding a special touch to the visit.
+  Overall, diners find the atmosphere lively and comfortable, making it a go-to
+  choice for those hunting for reliable Japanese dining spots. If you're in the
+  mood for a solid sushi experience, this place consistently delivers on flavor
+  and hospitality, leaving guests eager to return.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidStreetParking: true
   paidGarageParking: true
@@ -421,7 +456,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

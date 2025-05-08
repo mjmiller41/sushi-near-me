@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "SAI Sushi & Sake"
+title: SAI Sushi & Sake
 permalink: /washington/seattle/sai-sushi-sake.html
 stateAbbr: WA
 stateName: Washington
 cityName: Seattle
 seo:
-  name: "SAI Sushi & Sake"
-  type: Restaurant
+  type: restaurant
   links: http://www.saisushiandsake.com/
-description: "SAI Sushi & Sake serves delicious sushi in Seattle, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJO1azchsVkFQRQUnY7ZQjhZs
 photos:
   - name: >-
@@ -169,7 +167,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x5490151b72b3563b:0x9b852394edd84941!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 16
+        minute: 30
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 16
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 4:30 – 10:00 PM'
     - 'Tuesday: Closed'
     - 'Wednesday: 4:30 – 10:00 PM'
@@ -177,14 +225,7 @@ opening_hours:
     - 'Friday: 4:30 – 10:00 PM'
     - 'Saturday: 4:30 – 10:00 PM'
     - 'Sunday: 4:30 – 10:00 PM'
-  current:
-    - 'Monday: 4:30 – 10:00 PM'
-    - 'Tuesday: Closed'
-    - 'Wednesday: 4:30 – 10:00 PM'
-    - 'Thursday: 4:30 – 10:00 PM'
-    - 'Friday: 4:30 – 10:00 PM'
-    - 'Saturday: 4:30 – 10:00 PM'
-    - 'Sunday: 4:30 – 10:00 PM'
+  nextOpenTime: '2025-05-03T23:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,35 +237,339 @@ phone: null
 price_level: null
 price_range: $100 &ndash; & up
 rating: '4.9'
-rating_count: 0
+rating_count: 100
 website: http://www.saisushiandsake.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Experience SAI Sushi & Sake$$$SAI Sushi & Sake in Seattle, WA, stands out as a
+  cozy Japanese eatery specializing in exquisite omakase dining that draws in
+  sushi enthusiasts from nearby neighborhoods. This intimate spot offers a
+  relaxed atmosphere with fresh, high-quality fish selections and thoughtful
+  menu details that enhance the overall experience, making it a go-to choice for
+  those seeking authentic flavors in a welcoming setting. The restaurant focuses
+  on traditional techniques and creative presentations, providing a menu that
+  includes sushi, sashimi, and delectable desserts for a well-rounded meal.
+  Accessibility features like wheelchair-friendly entrances add to its appeal,
+  ensuring everyone can enjoy the refined ambiance without hassle. Whether
+  you're exploring top-rated Japanese options close to you, this hidden gem
+  delivers a memorable blend of quality and comfort for an elevated dining
+  adventure.
+generative_summary: >-
+  Experience SAI Sushi & Sake$$$SAI Sushi & Sake in Seattle, WA, stands out as a
+  cozy Japanese eatery specializing in exquisite omakase dining that draws in
+  sushi enthusiasts from nearby neighborhoods. This intimate spot offers a
+  relaxed atmosphere with fresh, high-quality fish selections and thoughtful
+  menu details that enhance the overall experience, making it a go-to choice for
+  those seeking authentic flavors in a welcoming setting. The restaurant focuses
+  on traditional techniques and creative presentations, providing a menu that
+  includes sushi, sashimi, and delectable desserts for a well-rounded meal.
+  Accessibility features like wheelchair-friendly entrances add to its appeal,
+  ensuring everyone can enjoy the refined ambiance without hassle. Whether
+  you're exploring top-rated Japanese options close to you, this hidden gem
+  delivers a memorable blend of quality and comfort for an elevated dining
+  adventure.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJO1azchsVkFQRQUnY7ZQjhZs/reviews/ChdDSUhNMG9nS0VJQ0FnTURBeF9LbW9BRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        The only private omakase dining experience in Seattle! I was a bit
+        nervous since I’m socially awkward, so anything 1 on 1 sounds daunting.
+        Chef Saito is very warm and kind, and the food never stopped coming
+        which made the experience less awkward than I had anticipated (can’t
+        think too much when you’re stuffing your face). He’s a one-man show
+        which really pulled at my heart strings; he’s clearly a hard worker and
+        puts a lot of thought into his craft. What I loved that I haven’t seen
+        other sushi places do is he writes out a very thorough menu for you to
+        read alongside your meal. Not only does it list each course in order,
+        but he also includes some cool facts or background of the course.
+        Another thing I loved was that he has a sign in front of you that he
+        flips after each course to tell you what’s up next. It just all felt
+        very accessible and thoughtful to customers.
+
+
+        In terms of the meal, you can tell Chef Saito means business! The moment
+        we sat down, he had our first dish ready. Throughout the meal, we kept
+        noticing fish or small dishes that we had never tried before or hadn’t
+        known much about. If you read other reviews, other people noticed the
+        same thing; Chef Saito picks unique things that you don’t see in other
+        omakase restaurants. It was refreshing to see the different cuts,
+        different regions the fish came from, and different preparation
+        techniques he used for each dish. They were all delicious! I highly
+        recommend pairing your meal with a houjicha tea he picked out from Japan
+        and hands down the best houjicha I’ve ever had. Dessert was also very
+        delicious - a homemade soft pudding with fruit and mochi ice cream.
+
+
+        If you’re looking for a unique dining experience with a different range
+        of omakase items, this is definitely worth the try! People know about
+        the big hitters in Seattle like Taneda, LTD, Sushi Kashiba, etc, and I
+        feel Sai is kind of this low-key hidden gem (opened in 2020 aka the
+        worst time!) that most of Seattle still doesn’t really know about. I
+        really hope Chef Saito gets more recognition, since he deserves it. He
+        won’t be your chatty, super engaging chef, but he is so kind and will
+        make sure your dining experience is meeting/exceeding your standards.
+        I’d love to spread the word on him. We know we’ll definitely be back.
+      languageCode: en
+    originalText:
+      text: >-
+        The only private omakase dining experience in Seattle! I was a bit
+        nervous since I’m socially awkward, so anything 1 on 1 sounds daunting.
+        Chef Saito is very warm and kind, and the food never stopped coming
+        which made the experience less awkward than I had anticipated (can’t
+        think too much when you’re stuffing your face). He’s a one-man show
+        which really pulled at my heart strings; he’s clearly a hard worker and
+        puts a lot of thought into his craft. What I loved that I haven’t seen
+        other sushi places do is he writes out a very thorough menu for you to
+        read alongside your meal. Not only does it list each course in order,
+        but he also includes some cool facts or background of the course.
+        Another thing I loved was that he has a sign in front of you that he
+        flips after each course to tell you what’s up next. It just all felt
+        very accessible and thoughtful to customers.
+
+
+        In terms of the meal, you can tell Chef Saito means business! The moment
+        we sat down, he had our first dish ready. Throughout the meal, we kept
+        noticing fish or small dishes that we had never tried before or hadn’t
+        known much about. If you read other reviews, other people noticed the
+        same thing; Chef Saito picks unique things that you don’t see in other
+        omakase restaurants. It was refreshing to see the different cuts,
+        different regions the fish came from, and different preparation
+        techniques he used for each dish. They were all delicious! I highly
+        recommend pairing your meal with a houjicha tea he picked out from Japan
+        and hands down the best houjicha I’ve ever had. Dessert was also very
+        delicious - a homemade soft pudding with fruit and mochi ice cream.
+
+
+        If you’re looking for a unique dining experience with a different range
+        of omakase items, this is definitely worth the try! People know about
+        the big hitters in Seattle like Taneda, LTD, Sushi Kashiba, etc, and I
+        feel Sai is kind of this low-key hidden gem (opened in 2020 aka the
+        worst time!) that most of Seattle still doesn’t really know about. I
+        really hope Chef Saito gets more recognition, since he deserves it. He
+        won’t be your chatty, super engaging chef, but he is so kind and will
+        make sure your dining experience is meeting/exceeding your standards.
+        I’d love to spread the word on him. We know we’ll definitely be back.
+      languageCode: en
+    authorAttribution:
+      displayName: Denise Lin
+      uri: https://www.google.com/maps/contrib/108394289711831341326/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUr0wUeMxxVDeaXuaQoDIkviO4-lmSCVYQSNb8tUH2oI80gWotu=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-02-12T08:19:51.189062Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURBeF9LbW9BRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURBeF9LbW9BRRAB!2m1!1s0x5490151b72b3563b:0x9b852394edd84941
+  - name: >-
+      places/ChIJO1azchsVkFQRQUnY7ZQjhZs/reviews/ChdDSUhNMG9nS0VJQ0FnTURnc01IRmtRRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        I’ve tried all of omakase in Seattle, and this is by far the most
+        intimate, and unique omakase experience. Chef Sai really differentiate
+        his food by creating nigiris that you won’t find else where such as
+        Kuruma-ebi, Hokke,  Geoduck and etc. if you’re tired or same ole omakase
+        with same sets of fish, and wants to explore refreshing, and unique
+        experience. This is the place to go
+      languageCode: en
+    originalText:
+      text: >-
+        I’ve tried all of omakase in Seattle, and this is by far the most
+        intimate, and unique omakase experience. Chef Sai really differentiate
+        his food by creating nigiris that you won’t find else where such as
+        Kuruma-ebi, Hokke,  Geoduck and etc. if you’re tired or same ole omakase
+        with same sets of fish, and wants to explore refreshing, and unique
+        experience. This is the place to go
+      languageCode: en
+    authorAttribution:
+      displayName: Shawn Park
+      uri: https://www.google.com/maps/contrib/112219386454879341740/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKqdI7RKv8qQQhp2ZUiTo0CVkb2LytIK86e6KQUG2TQtgysXg=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-02-22T03:40:11.137336Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURnc01IRmtRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURnc01IRmtRRRAB!2m1!1s0x5490151b72b3563b:0x9b852394edd84941
+  - name: >-
+      places/ChIJO1azchsVkFQRQUnY7ZQjhZs/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfb2FlcmxnRRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        Me and my friend spent a wonderful birthday event here. The food quality
+        is very good and we were able to enjoy some uncommon nigiri ingredients
+        that barely find on market. The akagai nigiri was probably the most
+        superizing one! Chief is very professional and friendly, delivering very
+        authentic dishes that he learned from the master in Japan. The whole
+        place is not large and looked like only serve 4 people each time, but
+        it's clean, it's quiet and comfortable to place all belongings and bags
+        properly. Would definitely visit again!
+      languageCode: en
+    originalText:
+      text: >-
+        Me and my friend spent a wonderful birthday event here. The food quality
+        is very good and we were able to enjoy some uncommon nigiri ingredients
+        that barely find on market. The akagai nigiri was probably the most
+        superizing one! Chief is very professional and friendly, delivering very
+        authentic dishes that he learned from the master in Japan. The whole
+        place is not large and looked like only serve 4 people each time, but
+        it's clean, it's quiet and comfortable to place all belongings and bags
+        properly. Would definitely visit again!
+      languageCode: en
+    authorAttribution:
+      displayName: Kaiju Lyu
+      uri: https://www.google.com/maps/contrib/107159777829520037916/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLbVJjWo5Ur45ZWa0QoC4RQTp0SeXjugBnc1Z2DlEmUstLo4A=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-01-16T21:11:12.446821Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNfb2FlcmxnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNfb2FlcmxnRRAB!2m1!1s0x5490151b72b3563b:0x9b852394edd84941
+  - name: >-
+      places/ChIJO1azchsVkFQRQUnY7ZQjhZs/reviews/ChdDSUhNMG9nS0VJQ0FnSUMzdE9uSTl3RRAB
+    relativePublishTimeDescription: 6 months ago
+    rating: 5
+    text:
+      text: >-
+        I loved how you can get an entirely private omakase experience at a
+        similar price point to other popular high-end sushi places in Seattle.
+        Sai’s hospitality is awesome, and I’d definitely recommend this place
+        for special occasions.
+
+
+        On a side note, this is a “one-man” restaurant, so Sai would not be at
+        the bar at all times, as he has to handle all sorts of stuff to present
+        a wonderful sushi experience.
+      languageCode: en
+    originalText:
+      text: >-
+        I loved how you can get an entirely private omakase experience at a
+        similar price point to other popular high-end sushi places in Seattle.
+        Sai’s hospitality is awesome, and I’d definitely recommend this place
+        for special occasions.
+
+
+        On a side note, this is a “one-man” restaurant, so Sai would not be at
+        the bar at all times, as he has to handle all sorts of stuff to present
+        a wonderful sushi experience.
+      languageCode: en
+    authorAttribution:
+      displayName: Henry C.
+      uri: https://www.google.com/maps/contrib/118320241738821216449/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVjvx_ZvEp4OWOvTt_VHIDakL-MuS2iBsUGLyCuwHAx36h450Bc=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-11-03T08:10:49.450621Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMzdE9uSTl3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMzdE9uSTl3RRAB!2m1!1s0x5490151b72b3563b:0x9b852394edd84941
+  - name: >-
+      places/ChIJO1azchsVkFQRQUnY7ZQjhZs/reviews/ChZDSUhNMG9nS0VJQ0FnSUNYb0tDdVRREAE
+    relativePublishTimeDescription: 6 months ago
+    rating: 5
+    text:
+      text: >-
+        From start to finish, this omakase experience was very enjoyable . The
+        chef’s attention to detail and mastery of flavors truly shone through in
+        every course.
+
+
+        The purple uni was a standout – its luxurious, buttery texture and briny
+        sweetness was impressive. It melted on the palate like a dream. The toro
+        was equally sublime, rich and fatty with the perfect balance of
+        freshness. I also enjoy the nodoguro. The delicate, smoky flavor of this
+        premium fish, paired with its silky texture, was simply unforgettable.
+
+
+        The ambiance was intimate, and the chef’s passion for each ingredient
+        was evident as they explained the origins and preparation behind every
+        dish. If you’re a sushi lover, this is an absolute must-visit. I can’t
+        wait to return for another round of culinary artistry!
+      languageCode: en
+    originalText:
+      text: >-
+        From start to finish, this omakase experience was very enjoyable . The
+        chef’s attention to detail and mastery of flavors truly shone through in
+        every course.
+
+
+        The purple uni was a standout – its luxurious, buttery texture and briny
+        sweetness was impressive. It melted on the palate like a dream. The toro
+        was equally sublime, rich and fatty with the perfect balance of
+        freshness. I also enjoy the nodoguro. The delicate, smoky flavor of this
+        premium fish, paired with its silky texture, was simply unforgettable.
+
+
+        The ambiance was intimate, and the chef’s passion for each ingredient
+        was evident as they explained the origins and preparation behind every
+        dish. If you’re a sushi lover, this is an absolute must-visit. I can’t
+        wait to return for another round of culinary artistry!
+      languageCode: en
+    authorAttribution:
+      displayName: Estella Liu
+      uri: https://www.google.com/maps/contrib/100775291296505205955/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocL106l2MEvlj7IXpJtIh0zRjiLECEqvPJbBygS43NSBA06KgQ=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-10-12T06:32:11.058531Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNYb0tDdVRREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNYb0tDdVRREAE!2m1!1s0x5490151b72b3563b:0x9b852394edd84941
+review_summary: >-
+  Review Roundup$$$Folks who've visited this spot often share how the intimate
+  omakase setup creates a refreshing change from typical sushi outings,
+  highlighting the unique and high-quality fish that keep things exciting and
+  delicious. Many appreciate the thoughtful touches, like detailed menu insights
+  and a focus on fresh ingredients that make every bite feel special and worth
+  the trip. It's commonly noted that the overall vibe feels professional yet
+  approachable, with standout flavors that leave diners eager to return for
+  more. While it's a smaller, one-person operation, the consistent praise points
+  to solid execution and a passion that shines through in the food. If you're on
+  the hunt for top-rated sushi places near you, this one's buzzing with positive
+  vibes for a satisfying and genuine experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: false
+  freeStreetParking: false
+  valetParking: false
+  freeGarageParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
+curbside_pickup: false
+delivery: false
+dine_in: true
+good_for_children: false
 good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
 serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: false
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: false
+update_category: atmosphere
+places_description: >-
+  Relaxed, cozy Japanese eatery with an omakase menu featuring sushi, sashimi,
+  mains & desserts.
 
 ---

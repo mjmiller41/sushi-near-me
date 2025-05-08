@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Roll On In"
+title: Roll On In
 permalink: /ohio/lebanon/roll-on-in.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Lebanon
 seo:
-  name: "Roll On In"
-  type: Restaurant
+  type: restaurant
   links: https://rollonin.com/
-description: "Roll On In serves delicious sushi in Lebanon, Ohio. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJmQYnoiL0QIgRU7pDQrla2Uk
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 0
 website: https://rollonin.com/
+description: >-
+  About Roll On In in Lebanon, OH$$$Roll On In in Lebanon, OH, stands out as a
+  casual eatery blending fresh fusion dishes that cater to sushi enthusiasts and
+  beyond. This spot features innovative options like sushi-inspired burritos and
+  hibachi-style bowls, paired with a convenient salad bar for customizable
+  meals. Accessibility is a key highlight, with wheelchair-friendly parking,
+  entrances, and seating making it welcoming for all visitors. The venue also
+  offers outdoor seating and ample parking, enhancing the overall dining
+  experience in a clean and vibrant atmosphere. Whether you're seeking quick,
+  flavorful bites or a relaxed meal, it's a go-to choice for local sushi places
+  near me.
+generative_summary: >-
+  About Roll On In in Lebanon, OH$$$Roll On In in Lebanon, OH, stands out as a
+  casual eatery blending fresh fusion dishes that cater to sushi enthusiasts and
+  beyond. This spot features innovative options like sushi-inspired burritos and
+  hibachi-style bowls, paired with a convenient salad bar for customizable
+  meals. Accessibility is a key highlight, with wheelchair-friendly parking,
+  entrances, and seating making it welcoming for all visitors. The venue also
+  offers outdoor seating and ample parking, enhancing the overall dining
+  experience in a clean and vibrant atmosphere. Whether you're seeking quick,
+  flavorful bites or a relaxed meal, it's a go-to choice for local sushi places
+  near me.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJmQYnoiL0QIgRU7pDQrla2Uk/reviews/ChZDSUhNMG9nS0VJQ0FnSUN3NF9fck9nEAE
@@ -324,6 +345,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURnN0plbVlnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURnN0plbVlnEAE!2m1!1s0x8840f422a2270699:0x49d95ab94243ba53
+review_summary: >-
+  Customer Feedback on This Local Sushi Eatery$$$Folks generally rave about the
+  creative menu at this spot, highlighting the tasty fusion items like wonton
+  tacos and fresh salads that make it a fun pick for sushi lovers. Many
+  appreciate the variety and quality of the food, noting it's a great option for
+  diverse tastes and even dietary needs, keeping things light and satisfying.
+  While there was an occasional mention of scheduling hiccups that left some
+  disappointed, the majority of experiences lean positive with praise for the
+  welcoming vibe and solid service. Overall, it's seen as a reliable choice for
+  anyone hunting for top-rated sushi nearby, blending excitement with everyday
+  convenience. If you're in the mood for something different, this place often
+  delivers a memorable meal that keeps diners coming back.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -357,7 +391,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

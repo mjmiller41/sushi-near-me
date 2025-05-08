@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "All You Can Eat Sushi & BBQ"
+title: All You Can Eat Sushi & BBQ
 permalink: /california/los-angeles/all-you-can-eat-sushi-bbq.html
 stateAbbr: CA
 stateName: California
 cityName: Los Angeles
 seo:
-  name: "All You Can Eat Sushi & BBQ"
-  type: Restaurant
+  type: restaurant
   links: http://www.sushinbbq.com/
-description: "All You Can Eat Sushi & BBQ serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJpzvmKPy5woARsHjQlWfEbZs
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c2b9fc28e63ba7:0x9b6dc46795d078b0!10e5
 primary_type: Korean Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 15
+        minute: 0
+      close:
+        day: 1
+        hour: 0
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 0
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 0
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 0
+        minute: 0
+    - open:
+        day: 5
+        hour: 15
+        minute: 0
+      close:
+        day: 6
+        hour: 0
+        minute: 0
+    - open:
+        day: 6
+        hour: 15
+        minute: 0
+      close:
+        day: 0
+        hour: 0
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 5:00 PM – 12:00 AM'
     - 'Wednesday: 5:00 PM – 12:00 AM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 3:00 PM – 12:00 AM'
     - 'Saturday: 3:00 PM – 12:00 AM'
     - 'Sunday: 3:00 PM – 12:00 AM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 5:00 PM – 12:00 AM'
-    - 'Wednesday: 5:00 PM – 12:00 AM'
-    - 'Thursday: 5:00 PM – 12:00 AM'
-    - 'Friday: 3:00 PM – 12:00 AM'
-    - 'Saturday: 3:00 PM – 12:00 AM'
-    - 'Sunday: 3:00 PM – 12:00 AM'
+  nextCloseTime: '2025-05-04T07:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,36 +237,328 @@ secondary_opening_hours:
 phone: (213) 322-2350
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
-rating: '4.1'
-rating_count: 0
+rating: '4.0'
+rating_count: 839
 website: http://www.sushinbbq.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover All You Can Eat Sushi & BBQ in Los Angeles$$$All You Can Eat Sushi &
+  BBQ in Los Angeles, CA, offers a relaxed dining experience blending Japanese
+  and Korean flavors with unlimited options for sushi and barbecue. This spot
+  stands out for its casual vibe, featuring fresh fare and all-you-can-eat
+  selections that appeal to sushi enthusiasts seeking variety in a welcoming
+  atmosphere. With accessibility features like wheelchair-friendly entrances and
+  seating, it's designed for everyone to enjoy hearty meals without hassle. The
+  restaurant also boasts outdoor seating and a range of beverages, making it a
+  go-to choice for those exploring top sushi restaurants near Koreatown.
+generative_summary: >-
+  Discover All You Can Eat Sushi & BBQ in Los Angeles$$$All You Can Eat Sushi &
+  BBQ in Los Angeles, CA, offers a relaxed dining experience blending Japanese
+  and Korean flavors with unlimited options for sushi and barbecue. This spot
+  stands out for its casual vibe, featuring fresh fare and all-you-can-eat
+  selections that appeal to sushi enthusiasts seeking variety in a welcoming
+  atmosphere. With accessibility features like wheelchair-friendly entrances and
+  seating, it's designed for everyone to enjoy hearty meals without hassle. The
+  restaurant also boasts outdoor seating and a range of beverages, making it a
+  go-to choice for those exploring top sushi restaurants near Koreatown.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJpzvmKPy5woARsHjQlWfEbZs/reviews/ChdDSUhNMG9nS0VJQ0FnTURnLTkyZi1BRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        I live in San Diego, and anytime I’m working in LA I try to make it
+        here.  It’s a no frills, come as you are joint which I love.  No music
+        blaring so can actually have a conversation with the people you are
+        dining with.
+
+        The food is great, the prices are great, as is the service.  I’ve never
+        had a bad experience in the dozen or so times I’ve been there, and
+        ALWAYS leave happy and full
+
+        I’m getting hungry just looking at the pictures I posted, and can’t wait
+        for my next trip.  I highly recommend AYCE Sushi and BBQ!
+      languageCode: en
+    originalText:
+      text: >-
+        I live in San Diego, and anytime I’m working in LA I try to make it
+        here.  It’s a no frills, come as you are joint which I love.  No music
+        blaring so can actually have a conversation with the people you are
+        dining with.
+
+        The food is great, the prices are great, as is the service.  I’ve never
+        had a bad experience in the dozen or so times I’ve been there, and
+        ALWAYS leave happy and full
+
+        I’m getting hungry just looking at the pictures I posted, and can’t wait
+        for my next trip.  I highly recommend AYCE Sushi and BBQ!
+      languageCode: en
+    authorAttribution:
+      displayName: John & Cherise Turner
+      uri: https://www.google.com/maps/contrib/113741189442845931477/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKm9QqXDh8MDd2KZW8R3HsQxlKtuT5Plk9P6BoakrbVQQAKEw=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-02-27T21:59:57.399920Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURnLTkyZi1BRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURnLTkyZi1BRRAB!2m1!1s0x80c2b9fc28e63ba7:0x9b6dc46795d078b0
+  - name: >-
+      places/ChIJpzvmKPy5woARsHjQlWfEbZs/reviews/ChdDSUhNMG9nS0VJQ0FnSUQzMTVfZ2tnRRAB
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        Heard so many great reviews about this spot, so we had to check it out
+        for ourselves.
+
+
+        Parking: Welcome to LA where the parking sucks a—. There are metered
+        street parking. I parked a block away and just walked there.
+
+
+        Ambiance/Environment: We came a little past 7pm, and this place was
+        poppin! It was sooo busy. There’s plenty of indoor seating and some
+        outdoor seating. Outdoor seating has heaters.
+
+
+        Service: The workers were quick & efficient! There was a wait, but we
+        only waited about 10 min, considering it was pretty busy. If you walk in
+        through the front, walk to the back to partner with a server. They’ll
+        place you on a waitlist and hand you a ticket then call you when your
+        table is ready. Or you can dm them via their IG page to join the
+        waitlist. They’re really responsive!
+
+
+        Food & drinks: I looove that this spot offers AYCE sushi AND kbbq at an
+        affordable price! The quality does reflect its prices. The meats and
+        sushi were really good! I enjoyed their salmon and brisket. The sides
+        were okay, and you can always order more. They offer a lot of alcoholic
+        beverages also at an affordable price! We ordered Tiger Beers, and it
+        paired perfectly with everything we ate.
+
+
+        Pricing: AYCE for $25, soju for $8.95, and beers for $4?! Can’t beat
+        these prices, especially in LA! I definitely got greedy and ordered more
+        than I should’ve lol. My bf and I left overly fulfilled & satisfied!
+      languageCode: en
+    originalText:
+      text: >-
+        Heard so many great reviews about this spot, so we had to check it out
+        for ourselves.
+
+
+        Parking: Welcome to LA where the parking sucks a—. There are metered
+        street parking. I parked a block away and just walked there.
+
+
+        Ambiance/Environment: We came a little past 7pm, and this place was
+        poppin! It was sooo busy. There’s plenty of indoor seating and some
+        outdoor seating. Outdoor seating has heaters.
+
+
+        Service: The workers were quick & efficient! There was a wait, but we
+        only waited about 10 min, considering it was pretty busy. If you walk in
+        through the front, walk to the back to partner with a server. They’ll
+        place you on a waitlist and hand you a ticket then call you when your
+        table is ready. Or you can dm them via their IG page to join the
+        waitlist. They’re really responsive!
+
+
+        Food & drinks: I looove that this spot offers AYCE sushi AND kbbq at an
+        affordable price! The quality does reflect its prices. The meats and
+        sushi were really good! I enjoyed their salmon and brisket. The sides
+        were okay, and you can always order more. They offer a lot of alcoholic
+        beverages also at an affordable price! We ordered Tiger Beers, and it
+        paired perfectly with everything we ate.
+
+
+        Pricing: AYCE for $25, soju for $8.95, and beers for $4?! Can’t beat
+        these prices, especially in LA! I definitely got greedy and ordered more
+        than I should’ve lol. My bf and I left overly fulfilled & satisfied!
+      languageCode: en
+    authorAttribution:
+      displayName: Millena P.
+      uri: https://www.google.com/maps/contrib/101472370013439372527/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWpy7XUsNCyNt0oBHcloyPVohaTiO-wH70ZI4k8a2uBKRbmdABX=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-11-19T21:57:55.524052Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQzMTVfZ2tnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQzMTVfZ2tnRRAB!2m1!1s0x80c2b9fc28e63ba7:0x9b6dc46795d078b0
+  - name: >-
+      places/ChIJpzvmKPy5woARsHjQlWfEbZs/reviews/ChZDSUhNMG9nS0VJQ0FnTUNveXJ2YUpBEAE
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        Sooo good so good 25$ AYCE sushi + BBQ in LA
+
+
+        💗💗 Amazinggggg💗💗
+
+
+        Salmon eel and scallop was fresh love it💕
+
+        Do not order white fish and albacore ( but maybe depend on the day today
+        not fresh *for me*)
+
+
+        Server was amazing so fast they take out the finished plate and change
+        the grill right away when it burn food come so fast but hope the meat
+        can marinade a little bit more or have more choice of sauce ( if
+        somebody can answer me that I can bring my own sauce or not?🥺 )
+
+
+        It’s the best service I like it 💗
+
+        I will come back again
+
+
+        Ps. The eel roll was sooooo goodddd I order twice !!!!🐟 and the scallop
+        very sweet and fresh 🥺
+      languageCode: en
+    originalText:
+      text: >-
+        Sooo good so good 25$ AYCE sushi + BBQ in LA
+
+
+        💗💗 Amazinggggg💗💗
+
+
+        Salmon eel and scallop was fresh love it💕
+
+        Do not order white fish and albacore ( but maybe depend on the day today
+        not fresh *for me*)
+
+
+        Server was amazing so fast they take out the finished plate and change
+        the grill right away when it burn food come so fast but hope the meat
+        can marinade a little bit more or have more choice of sauce ( if
+        somebody can answer me that I can bring my own sauce or not?🥺 )
+
+
+        It’s the best service I like it 💗
+
+        I will come back again
+
+
+        Ps. The eel roll was sooooo goodddd I order twice !!!!🐟 and the scallop
+        very sweet and fresh 🥺
+      languageCode: en
+    authorAttribution:
+      displayName: Pear Napasorn
+      uri: https://www.google.com/maps/contrib/114688507797715892172/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLMQVmcLFFTMhl1dUGlicN3FzsuFLeBpL5iaIsIGoMtm4cxUw=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-04-16T08:20:06.445395Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNveXJ2YUpBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNveXJ2YUpBEAE!2m1!1s0x80c2b9fc28e63ba7:0x9b6dc46795d078b0
+  - name: >-
+      places/ChIJpzvmKPy5woARsHjQlWfEbZs/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3MG9fSEdBEAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        best deal of the century. $25 for all you can eat sushi and KBBQ. yes,
+        both sushi and kbbq is included. few places can drag me east and this is
+        one of them!
+      languageCode: en
+    originalText:
+      text: >-
+        best deal of the century. $25 for all you can eat sushi and KBBQ. yes,
+        both sushi and kbbq is included. few places can drag me east and this is
+        one of them!
+      languageCode: en
+    authorAttribution:
+      displayName: Tara Belle
+      uri: https://www.google.com/maps/contrib/107374078459917973631/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVjv0jmW2XmJUBq5aqmgR1QcqWhfsIRWC7Dd3EFoTTsmdcOSvmn=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-03-17T19:10:28.092402Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUN3MG9fSEdBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUN3MG9fSEdBEAE!2m1!1s0x80c2b9fc28e63ba7:0x9b6dc46795d078b0
+  - name: >-
+      places/ChIJpzvmKPy5woARsHjQlWfEbZs/reviews/ChZDSUhNMG9nS0VJQ0FnTUNvMjlXUVRnEAE
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        Hands down the best KBBQ in L.A. This is the only place me and my family
+        eat at. Great place and atmosphere. The owner is awesome. Highly
+        recommend.
+      languageCode: en
+    originalText:
+      text: >-
+        Hands down the best KBBQ in L.A. This is the only place me and my family
+        eat at. Great place and atmosphere. The owner is awesome. Highly
+        recommend.
+      languageCode: en
+    authorAttribution:
+      displayName: Angel The Third
+      uri: https://www.google.com/maps/contrib/102081436925363574788/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXncUoEtqn-flpf0O3PO2aInJIMS2GimyB02FAntcPXOcAUF055=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-20T05:51:03.288178Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNvMjlXUVRnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNvMjlXUVRnEAE!2m1!1s0x80c2b9fc28e63ba7:0x9b6dc46795d078b0
+review_summary: >-
+  What Customers Are Saying About This Sushi Spot$$$Visitors often rave about
+  the incredible value of the all-you-can-eat sushi and barbecue deal,
+  highlighting the fresh ingredients and generous portions that make every meal
+  feel satisfying. Many appreciate the efficient service and lively atmosphere,
+  even during busy times, which keeps things running smoothly without any major
+  hiccups. Folks frequently mention the affordable prices as a big win,
+  especially in a city like LA, allowing for repeat visits without breaking the
+  bank. Overall, it's praised as a solid pick for anyone craving top-rated
+  sushi, with the variety of options and quick table turnarounds adding to the
+  fun and relaxed vibe. While some note that certain items might vary in
+  freshness depending on the day, the experience generally leaves people feeling
+  happy and eager to return.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  paidParkingLot: true
+  freeStreetParking: true
+  valetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
+curbside_pickup: true
+delivery: true
+dine_in: true
 good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
+good_for_groups: true
+good_for_sports: true
+live_music: false
+menu_for_children: false
+outdoor_seating: true
+reservable: false
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: false
+serves_coffee: false
+serves_dinner: true
 serves_dessert: null
 serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Casual eatery with rear parking specializing in cook-your-own,  Korean-style
+  BBQ & spicy sides.
 
 ---

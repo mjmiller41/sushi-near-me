@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Hurray"
+title: Sushi Hurray
 permalink: /oregon/west-linn/sushi-hurray.html
 stateAbbr: OR
 stateName: Oregon
 cityName: West Linn
 seo:
-  name: "Sushi Hurray"
-  type: Restaurant
+  type: restaurant
   links: http://www.sushihurray.net/
-description: "Sushi Hurray serves delicious sushi in West Linn, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJacLu2LJ2lVQRuDa-LRaoL8o
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x549576b2d8eec269:0xca2fa8162dbe36b8!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:30 PM'
     - 'Tuesday: 11:00 AM – 9:30 PM'
     - 'Wednesday: 11:00 AM – 9:30 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:30 PM'
     - 'Saturday: 11:00 AM – 9:30 PM'
     - 'Sunday: 11:00 AM – 9:30 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:30 PM'
-    - 'Tuesday: 11:00 AM – 9:30 PM'
-    - 'Wednesday: 11:00 AM – 9:30 PM'
-    - 'Thursday: 11:00 AM – 9:30 PM'
-    - 'Friday: 11:00 AM – 9:30 PM'
-    - 'Saturday: 11:00 AM – 9:30 PM'
-    - 'Sunday: 11:00 AM – 9:30 PM'
+  nextCloseTime: '2025-05-04T04:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,256 @@ phone: (503) 305-7876
 price_level: PRICE_LEVEL_INEXPENSIVE
 price_range: $10 &ndash; $20
 rating: '4.5'
-rating_count: 0
+rating_count: 538
 website: http://www.sushihurray.net/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Sushi Hurray in West Linn, Oregon$$$Sushi Hurray in West Linn,
+  Oregon, stands out as a go-to spot for fresh sushi restaurants near me,
+  featuring a fun conveyor belt system that brings a variety of dishes right to
+  your table. This casual eatery specializes in high-quality sashimi and
+  creative specialty rolls, all prepared with fresh ingredients that highlight
+  the best of Japanese cuisine. With accessibility options like
+  wheelchair-friendly parking and seating, it's an inclusive choice for anyone
+  exploring top-rated sushi options in the area. The restaurant maintains a
+  relaxed vibe, perfect for quick lunches or evening outings, and operates daily
+  with generous hours to accommodate busy schedules. Whether you're in the mood
+  for classic rolls or something more adventurous, Sushi Hurray delivers a
+  satisfying experience for sushi enthusiasts.
+generative_summary: >-
+  Discover Sushi Hurray in West Linn, Oregon$$$Sushi Hurray in West Linn,
+  Oregon, stands out as a go-to spot for fresh sushi restaurants near me,
+  featuring a fun conveyor belt system that brings a variety of dishes right to
+  your table. This casual eatery specializes in high-quality sashimi and
+  creative specialty rolls, all prepared with fresh ingredients that highlight
+  the best of Japanese cuisine. With accessibility options like
+  wheelchair-friendly parking and seating, it's an inclusive choice for anyone
+  exploring top-rated sushi options in the area. The restaurant maintains a
+  relaxed vibe, perfect for quick lunches or evening outings, and operates daily
+  with generous hours to accommodate busy schedules. Whether you're in the mood
+  for classic rolls or something more adventurous, Sushi Hurray delivers a
+  satisfying experience for sushi enthusiasts.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJacLu2LJ2lVQRuDa-LRaoL8o/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3ck8zZ3BRRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        The sushi here was so good! Fish was very high quality and fresh.. the
+        rice was well cooked and the roll pieces were a good size! My boyfriend
+        and I had a lovely date here, we tried lots of different rolls, the hot
+        sake was also very good! Looking forward to coming back. Only thing that
+        wasn’t very pleasant was around 8 they were doing pre close things and
+        they took our wasabi and ginger away, which was 1.5 hours before close.
+        But I’m sure they have a lot to do to break down for the night and isn’t
+        a big deal. My favorite rolls were the New York roll, the spicy shrimp
+        roll and anything with salmon because their salmon was phenomenal.
+        Looking forward to next time.
+      languageCode: en
+    originalText:
+      text: >-
+        The sushi here was so good! Fish was very high quality and fresh.. the
+        rice was well cooked and the roll pieces were a good size! My boyfriend
+        and I had a lovely date here, we tried lots of different rolls, the hot
+        sake was also very good! Looking forward to coming back. Only thing that
+        wasn’t very pleasant was around 8 they were doing pre close things and
+        they took our wasabi and ginger away, which was 1.5 hours before close.
+        But I’m sure they have a lot to do to break down for the night and isn’t
+        a big deal. My favorite rolls were the New York roll, the spicy shrimp
+        roll and anything with salmon because their salmon was phenomenal.
+        Looking forward to next time.
+      languageCode: en
+    authorAttribution:
+      displayName: Kasmira Weinberg
+      uri: https://www.google.com/maps/contrib/111548147038662503121/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIvA1nF8azBHK1eAXVLEJ65v0T4OjiUBWzMq0UcAGgrdjB27w=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-03-24T07:44:44.717120Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUR3ck8zZ3BRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUR3ck8zZ3BRRRAB!2m1!1s0x549576b2d8eec269:0xca2fa8162dbe36b8
+  - name: >-
+      places/ChIJacLu2LJ2lVQRuDa-LRaoL8o/reviews/ChZDSUhNMG9nS0VJQ0FnSUNIMWFxdmNBEAE
+    relativePublishTimeDescription: 7 months ago
+    rating: 5
+    text:
+      text: >-
+        Favorite place to eat. Great sushi and service. Fresh, made to order by
+        menu. Highly recommended by a friend who was a frequent diner. Spicy
+        tuna rolls, ninja rolls without the jalepenos, spider rolls, and
+        yellowtail rolls are top choices. Happy hour is happy for eating more.
+        Thank you to the staff and sushi chefs, especially the kitchen staff.
+        Support your local businesses. We'll see you next time!
+      languageCode: en
+    originalText:
+      text: >-
+        Favorite place to eat. Great sushi and service. Fresh, made to order by
+        menu. Highly recommended by a friend who was a frequent diner. Spicy
+        tuna rolls, ninja rolls without the jalepenos, spider rolls, and
+        yellowtail rolls are top choices. Happy hour is happy for eating more.
+        Thank you to the staff and sushi chefs, especially the kitchen staff.
+        Support your local businesses. We'll see you next time!
+      languageCode: en
+    authorAttribution:
+      displayName: Albie Outside
+      uri: https://www.google.com/maps/contrib/116437996958181197282/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjW5AHIO9gv837fx5z82BVYVe7weXT9kdMCIIJQkMcBpqtD2TxCliA=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-09-08T16:48:03.690699Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNIMWFxdmNBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNIMWFxdmNBEAE!2m1!1s0x549576b2d8eec269:0xca2fa8162dbe36b8
+  - name: >-
+      places/ChIJacLu2LJ2lVQRuDa-LRaoL8o/reviews/ChZDSUhNMG9nS0VJQ0FnTURRcDVyM0l3EAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        This is a good sushi restaurant, you can both order off the menu or do
+        the conveyor belt style sushi and grab a plate as it comes around.
+
+
+        Places are priced by color, and there is a wide selection that comes
+        around. Service was attentive, and they were quick to take our drink
+        order and keep it topped off.
+
+
+        The food here is good, and the service was excellent. This is one of my
+        wife and son's favorite places to eat at, and I can see why. Friendly
+        employees, good food, nice atmosphere.
+      languageCode: en
+    originalText:
+      text: >-
+        This is a good sushi restaurant, you can both order off the menu or do
+        the conveyor belt style sushi and grab a plate as it comes around.
+
+
+        Places are priced by color, and there is a wide selection that comes
+        around. Service was attentive, and they were quick to take our drink
+        order and keep it topped off.
+
+
+        The food here is good, and the service was excellent. This is one of my
+        wife and son's favorite places to eat at, and I can see why. Friendly
+        employees, good food, nice atmosphere.
+      languageCode: en
+    authorAttribution:
+      displayName: James M
+      uri: https://www.google.com/maps/contrib/114353241030482749664/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocL9idysQ8DFvjutjwbBM5y9Ow2OXkYtffbri1SpL_pyAijE8w=s128-c0x00000000-cc-rp-mo-ba7
+    publishTime: '2025-03-14T22:46:51.520730Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURRcDVyM0l3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURRcDVyM0l3EAE!2m1!1s0x549576b2d8eec269:0xca2fa8162dbe36b8
+  - name: >-
+      places/ChIJacLu2LJ2lVQRuDa-LRaoL8o/reviews/ChdDSUhNMG9nS0VJQ0FnSUNyMk9MaHpRRRAB
+    relativePublishTimeDescription: 10 months ago
+    rating: 5
+    text:
+      text: >-
+        Delicious and a great atmosphere. We had a short wait to be seated at a
+        booth but the food is worth it. The fried Philadelphia roll is a group
+        fav!
+      languageCode: en
+    originalText:
+      text: >-
+        Delicious and a great atmosphere. We had a short wait to be seated at a
+        booth but the food is worth it. The fried Philadelphia roll is a group
+        fav!
+      languageCode: en
+    authorAttribution:
+      displayName: Natalia Weyhrich
+      uri: https://www.google.com/maps/contrib/115364780290261380265/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXgzT6aMVI7ymOG0fqWuAi9-jmlY-INMHMwmyfYGKD8g9GqG6n-DA=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-07-03T22:19:03.919369Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNyMk9MaHpRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNyMk9MaHpRRRAB!2m1!1s0x549576b2d8eec269:0xca2fa8162dbe36b8
+  - name: >-
+      places/ChIJacLu2LJ2lVQRuDa-LRaoL8o/reviews/ChdDSUhNMG9nS0VJQ0FnSURyLWRIUHV3RRAB
+    relativePublishTimeDescription: 9 months ago
+    rating: 5
+    text:
+      text: >-
+        I love everything they have here. Fresh and creative menu. Reminds me of
+        the best sushi train回转寿司 in China. The staff are all really nice!
+        Hygienic standards are top notch, which is especially important for a
+        sushi restaurant. I’d drive down from
+
+        Portland for a special treat. happy hour deals go crazy😊
+      languageCode: en
+    originalText:
+      text: >-
+        I love everything they have here. Fresh and creative menu. Reminds me of
+        the best sushi train回转寿司 in China. The staff are all really nice!
+        Hygienic standards are top notch, which is especially important for a
+        sushi restaurant. I’d drive down from
+
+        Portland for a special treat. happy hour deals go crazy😊
+      languageCode: en
+    authorAttribution:
+      displayName: Linda Lu
+      uri: https://www.google.com/maps/contrib/111315390199985329738/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVrNFTGtBk8hSyNFLjXr0VO_zx6u4GHA8zTnz5j16YRjKrFwerb=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2024-07-18T17:18:07.421925Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURyLWRIUHV3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURyLWRIUHV3RRAB!2m1!1s0x549576b2d8eec269:0xca2fa8162dbe36b8
+review_summary: >-
+  What Customers Are Saying$$$Visitors often praise the freshness and quality of
+  the sushi at this spot, noting how the variety of rolls and dishes make it a
+  standout choice for casual Japanese dining. Many highlight the attentive
+  service and fun conveyor belt setup, which adds an enjoyable twist to mealtime
+  without overwhelming the experience. Folks appreciate the value, especially
+  during happy hour, where deals make it easy to try more options while keeping
+  things affordable. Overall, the atmosphere feels welcoming and
+  family-friendly, encouraging repeat visits for both solo diners and groups.
+  While minor operational details like prep for closing are mentioned, the
+  consensus leans positive, making it a reliable pick for anyone searching for
+  great sushi places near me.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: false
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: false
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

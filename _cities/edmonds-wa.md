@@ -5,4 +5,5 @@ permalink: /washington/edmonds/
 stateAbbr: WA
 stateName: Washington
 cityName: Edmonds
+
 ---

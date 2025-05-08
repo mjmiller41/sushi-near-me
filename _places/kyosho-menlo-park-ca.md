@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kyosho"
+title: Kyosho
 permalink: /california/menlo-park/kyosho.html
 stateAbbr: CA
 stateName: California
 cityName: Menlo Park
 seo:
-  name: "Kyosho"
-  type: Restaurant
+  type: restaurant
   links: https://www.kyoshosushi.com/
-description: "Elevated sushi & modern Japanese kitchen entrees served with sake in a rustic-chic environment. Kyosho serves delicious sushi in Menlo Park, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ3RNyM66kj4ARFCWUS_Jt3jg
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: null
 rating: '4.5'
 rating_count: 0
 website: https://www.kyoshosushi.com/
+description: >-
+  Discover Kyosho in Menlo Park, CA$$$Kyosho in Menlo Park, CA, stands out as a
+  charming Japanese restaurant offering a blend of fresh sushi rolls, sashimi,
+  and sake in a cozy, rustic-chic setting that invites relaxed dining. This
+  popular eatery emphasizes elevated flavors with modern twists on traditional
+  Japanese dishes, including a tempting tasting menu that highlights seasonal
+  ingredients and creative presentations. Patrons can enjoy a variety of options
+  like expertly prepared rolls and entrees that pair perfectly with sake
+  selections, making it a go-to spot for those seeking authentic yet innovative
+  Japanese cuisine nearby. The restaurant's accessible features, such as
+  wheelchair-friendly entrances and parking, enhance the overall experience for
+  all visitors. With its focus on quality and atmosphere, Kyosho provides an
+  ideal escape for anyone exploring top-rated sushi options in the area.
+generative_summary: >-
+  Discover Kyosho in Menlo Park, CA$$$Kyosho in Menlo Park, CA, stands out as a
+  charming Japanese restaurant offering a blend of fresh sushi rolls, sashimi,
+  and sake in a cozy, rustic-chic setting that invites relaxed dining. This
+  popular eatery emphasizes elevated flavors with modern twists on traditional
+  Japanese dishes, including a tempting tasting menu that highlights seasonal
+  ingredients and creative presentations. Patrons can enjoy a variety of options
+  like expertly prepared rolls and entrees that pair perfectly with sake
+  selections, making it a go-to spot for those seeking authentic yet innovative
+  Japanese cuisine nearby. The restaurant's accessible features, such as
+  wheelchair-friendly entrances and parking, enhance the overall experience for
+  all visitors. With its focus on quality and atmosphere, Kyosho provides an
+  ideal escape for anyone exploring top-rated sushi options in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ3RNyM66kj4ARFCWUS_Jt3jg/reviews/ChdDSUhNMG9nS0VJQ0FnTUNBbnBhTnB3RRAB
@@ -366,6 +391,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJOUpfZ3pnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJOUpfZ3pnRRAB!2m1!1s0x808fa4ae337213dd:0x38de6df24b942514
+review_summary: >-
+  What Guests Are Saying$$$Visitors often praise Kyosho for its delicious sushi
+  rolls and fresh flavors that make for a satisfying meal, with many
+  highlighting creative dishes like tempura udon and unique twists on classics
+  that keep things exciting. While some folks note that certain items like soups
+  can be a bit too salty, the overall vibe remains welcoming and the ingredients
+  generally shine through as high-quality and thoughtfully prepared. Folks
+  appreciate the reasonable prices and family-friendly feel, making it a solid
+  choice for casual dinners or groups looking to try something new in Japanese
+  dining. Even with a few mixed experiences around service speed, the standout
+  fresh sushi and sake pairings leave most people eager to return for more. All
+  in all, it's a reliable spot for enjoying elevated Japanese fare, as long as
+  you go in with an eye for what works best on the menu.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -397,8 +436,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Elevated sushi & modern Japanese kitchen entrees served with sake in a
   rustic-chic environment.
 

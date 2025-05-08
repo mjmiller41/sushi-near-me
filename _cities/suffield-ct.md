@@ -5,4 +5,5 @@ permalink: /connecticut/suffield/
 stateAbbr: CT
 stateName: Connecticut
 cityName: Suffield
+
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "POKE CHEF"
+title: POKE CHEF
 permalink: /california/san-luis-obispo/poke-chef.html
 stateAbbr: CA
 stateName: California
 cityName: San Luis Obispo
 seo:
-  name: "POKE CHEF"
-  type: Restaurant
+  type: restaurant
   links: https://poke-chef.square.site/?location=11ef7ba2d19fc262ac3e3cecef6dbab4
-description: "POKE CHEF serves delicious sushi in San Luis Obispo, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ77eqcanx7IAR69jF_cUTcl8
 photos:
   - name: >-
@@ -184,6 +182,35 @@ price_range: $10 &ndash; $20
 rating: '4.1'
 rating_count: 0
 website: https://poke-chef.square.site/?location=11ef7ba2d19fc262ac3e3cecef6dbab4
+description: >-
+  Discover POKE CHEF in San Luis Obispo, CA$$$Nestled in the heart of San Luis
+  Obispo, CA, POKE CHEF stands out as a casual spot specializing in fresh poke
+  bowls and sushi-inspired dishes that cater to a variety of tastes. This
+  welcoming restaurant offers a range of customizable options, including hearty
+  poke bowls and innovative sushi burritos, all prepared with quality
+  ingredients that highlight the vibrant flavors of Japanese-inspired cuisine.
+  Visitors appreciate the accessible features like wheelchair-friendly parking
+  and entrances, making it easy for everyone to enjoy a meal on the go or dine
+  in. With its moderate pricing and convenient location near other local
+  eateries, POKE CHEF serves as a go-to choice for those seeking satisfying
+  sushi options in a relaxed setting. Whether you're looking for a quick lunch
+  or a flavorful dinner, this spot delivers a casual dining experience that's
+  perfect for exploring top-rated sushi restaurants in the area.
+generative_summary: >-
+  Discover POKE CHEF in San Luis Obispo, CA$$$Nestled in the heart of San Luis
+  Obispo, CA, POKE CHEF stands out as a casual spot specializing in fresh poke
+  bowls and sushi-inspired dishes that cater to a variety of tastes. This
+  welcoming restaurant offers a range of customizable options, including hearty
+  poke bowls and innovative sushi burritos, all prepared with quality
+  ingredients that highlight the vibrant flavors of Japanese-inspired cuisine.
+  Visitors appreciate the accessible features like wheelchair-friendly parking
+  and entrances, making it easy for everyone to enjoy a meal on the go or dine
+  in. With its moderate pricing and convenient location near other local
+  eateries, POKE CHEF serves as a go-to choice for those seeking satisfying
+  sushi options in a relaxed setting. Whether you're looking for a quick lunch
+  or a flavorful dinner, this spot delivers a casual dining experience that's
+  perfect for exploring top-rated sushi restaurants in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ77eqcanx7IAR69jF_cUTcl8/reviews/ChZDSUhNMG9nS0VJQ0FnSUNYc3FfcmVBEAE
@@ -349,6 +376,22 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQ5LWYyeEVnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQ5LWYyeEVnEAE!2m1!1s0x80ecf1a971aab7ef:0x5f7213c5fdc5d8eb
+review_summary: >-
+  What Customers Are Buzzing About$$$Folks often rave about the delicious poke
+  bowls and great value for money at this spot, with many highlighting the
+  generous portions and variety of fresh toppings that make meals feel exciting
+  and customizable. While some visitors have noted occasional issues with
+  ingredient freshness, like overripe avocado, the overall experience tends to
+  shine through with tasty flavors and quick service that keeps things light and
+  enjoyable. It's clear that the option to create your own bowls adds a fun
+  element, allowing diners to experiment without extra costs, which has become a
+  favorite for groups or individuals alike. In general, the positive vibes
+  around the food's spices and overall satisfaction make it a solid pick for
+  anyone craving sushi nearby, though it's wise to check for the freshest picks
+  on busier days. All in all, this place maintains a welcoming atmosphere that
+  encourages return visits for those hunting for reliable sushi spots in San
+  Luis Obispo.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeStreetParking: true
   valetParking: false
@@ -380,7 +423,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

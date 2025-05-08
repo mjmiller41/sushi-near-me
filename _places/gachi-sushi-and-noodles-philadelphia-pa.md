@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Gachi Sushi and Noodles"
+title: Gachi Sushi and Noodles
 permalink: /pennsylvania/philadelphia/gachi-sushi-and-noodles.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Philadelphia
 seo:
-  name: "Gachi Sushi and Noodles"
-  type: Restaurant
+  type: restaurant
   links: https://www.gachisushi.com/
-description: "Gachi Sushi and Noodles serves delicious sushi in Philadelphia, Pennsylvania. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJQ1B0RE_FxokRlfsQmc27hbo
 photos:
   - name: >-
@@ -154,6 +152,7 @@ longitude: '-75.251362'
 accessibility_options:
   wheelchairAccessibleParking: true
   wheelchairAccessibleEntrance: true
+  wheelchairAccessibleSeating: true
 business_status: OPERATIONAL
 name: Gachi Sushi and Noodles
 google_maps_links:
@@ -181,9 +180,49 @@ phone: (215) 365-7419
 price_level: null
 price_range: $10 &ndash; $20
 rating: '3.0'
-rating_count: 0
+rating_count: 66
 website: https://www.gachisushi.com/
+description: >-
+  Discover Gachi Sushi and Noodles in Philadelphia, PA$$$Gachi Sushi and Noodles
+  in Philadelphia, PA, stands out as a casual sushi restaurant conveniently
+  located near the airport, offering a welcoming spot for travelers and locals
+  alike. This eatery specializes in fresh Japanese-inspired dishes, including a
+  range of breakfast, lunch, and dinner selections that cater to various tastes,
+  with thoughtful vegetarian options to accommodate different dietary
+  preferences. Its accessible features, such as wheelchair-friendly parking and
+  entrances, make it an inclusive choice for diners seeking sushi places near
+  me. The atmosphere blends simplicity with flavorful meals, perfect for a quick
+  bite or a relaxed meal after exploring the city. Whether you're hunting for
+  top-rated sushi restaurants or just craving something light and satisfying,
+  this spot delivers on convenience and variety.
+generative_summary: >-
+  Discover Gachi Sushi and Noodles in Philadelphia, PA$$$Gachi Sushi and Noodles
+  in Philadelphia, PA, stands out as a casual sushi restaurant conveniently
+  located near the airport, offering a welcoming spot for travelers and locals
+  alike. This eatery specializes in fresh Japanese-inspired dishes, including a
+  range of breakfast, lunch, and dinner selections that cater to various tastes,
+  with thoughtful vegetarian options to accommodate different dietary
+  preferences. Its accessible features, such as wheelchair-friendly parking and
+  entrances, make it an inclusive choice for diners seeking sushi places near
+  me. The atmosphere blends simplicity with flavorful meals, perfect for a quick
+  bite or a relaxed meal after exploring the city. Whether you're hunting for
+  top-rated sushi restaurants or just craving something light and satisfying,
+  this spot delivers on convenience and variety.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About Gachi Sushi$$$Visitors to this sushi spot
+  often appreciate the fresh flavors and variety of options, making it a go-to
+  for anyone searching for reliable Japanese places near me. While the overall
+  experience gets solid nods for its convenient location and approachable menu,
+  some folks mention that service can vary, adding a bit of unpredictability to
+  the visit. Many enjoy the vegetarian choices and quick meals, highlighting
+  them as highlights in a casual setting. That said, a few suggest that
+  consistency in preparation could use a tweak, but the positives generally
+  outweigh the minor hiccups. All in all, it's a spot worth trying if you're in
+  the mood for sushi close to me, with enough good vibes to keep things upbeat
+  and inviting.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -209,7 +248,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

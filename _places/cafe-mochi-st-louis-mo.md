@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Cafe Mochi"
+title: Cafe Mochi
 permalink: /missouri/st-louis/cafe-mochi.html
 stateAbbr: MO
 stateName: Missouri
 cityName: St. Louis
 seo:
-  name: "Cafe Mochi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Casual but stylish sushi bar serving inventive rolls plus Vietnamese & Chinese entrees. Cafe Mochi serves delicious sushi in St. Louis, Missouri. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJu4L5Jmi02IcR_QnlRQCG2ss
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 0
 website: null
+description: >-
+  About Cafe Mochi in St. Louis, MO$$$Cafe Mochi in St. Louis, MO, stands out as
+  a casual yet stylish spot for enjoying fresh sushi and Japanese-inspired
+  dishes, blending inventive rolls with a selection of Vietnamese and Chinese
+  entrees. This welcoming sushi restaurant offers a cozy atmosphere perfect for
+  those seeking quality Japanese fare, complete with options like sake, wine,
+  and beer to enhance the dining experience. Accessibility features such as
+  wheelchair-friendly parking and entrances make it an inclusive choice for all
+  visitors, while the moderate price range provides great value for authentic
+  flavors. Outdoor seating adds to the appeal, ideal for a relaxed meal in the
+  Tower Grove South neighborhood, making it a go-to destination for sushi
+  enthusiasts exploring local options.
+generative_summary: >-
+  About Cafe Mochi in St. Louis, MO$$$Cafe Mochi in St. Louis, MO, stands out as
+  a casual yet stylish spot for enjoying fresh sushi and Japanese-inspired
+  dishes, blending inventive rolls with a selection of Vietnamese and Chinese
+  entrees. This welcoming sushi restaurant offers a cozy atmosphere perfect for
+  those seeking quality Japanese fare, complete with options like sake, wine,
+  and beer to enhance the dining experience. Accessibility features such as
+  wheelchair-friendly parking and entrances make it an inclusive choice for all
+  visitors, while the moderate price range provides great value for authentic
+  flavors. Outdoor seating adds to the appeal, ideal for a relaxed meal in the
+  Tower Grove South neighborhood, making it a go-to destination for sushi
+  enthusiasts exploring local options.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJu4L5Jmi02IcR_QnlRQCG2ss/reviews/ChZDSUhNMG9nS0VJQ0FnSUMxOU9LaEdREAE
@@ -346,6 +369,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURQaTl6UW1RRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURQaTl6UW1RRRAB!2m1!1s0x87d8b46826f982bb:0xcbda860045e509fd
+review_summary: >-
+  What Customers Love About the Reviews$$$Patrons consistently praise the fresh
+  and flavorful sushi rolls at this spot, often highlighting how each bite
+  delivers a delightful mix of tastes that keeps them coming back for more.
+  Reviewers frequently mention the helpful service and welcoming vibe, which
+  make it an excellent place for first-timers or groups looking to try new
+  dishes beyond just sushi. While some note minor details like the music volume,
+  the overall experience shines through with mentions of satisfying options like
+  noodles and teas that add variety to the menu. Feedback often emphasizes the
+  restaurant's ability to create memorable meals that feel both comforting and
+  exciting, making it a solid pick for anyone searching for top-rated sushi
+  nearby. Overall, the positive buzz around the food and atmosphere paints it as
+  a reliable favorite in the area.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   paidParkingLot: true
@@ -379,8 +416,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Casual but stylish sushi bar serving inventive rolls plus Vietnamese & Chinese
   entrees.
 

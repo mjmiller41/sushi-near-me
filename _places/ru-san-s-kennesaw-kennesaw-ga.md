@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ru San's Kennesaw"
+title: Ru San's Kennesaw
 permalink: /georgia/kennesaw/ru-san-s-kennesaw.html
 stateAbbr: GA
 stateName: Georgia
 cityName: Kennesaw
 seo:
-  name: "Ru San's Kennesaw"
-  type: Restaurant
-  links: null
-description: "Ru San's Kennesaw serves delicious sushi in Kennesaw, Georgia. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.rusanskennesaw.com/
 place_id: ChIJs4hPzt8U9YgRswAMroK3c3w
 photos:
   - name: >-
@@ -170,8 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x88f514dfce4f88b3:0x7c73b782ae0c00b3!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:30 AM – 10:00 PM'
+    - 'Tuesday: 11:30 AM – 10:00 PM'
+    - 'Wednesday: 11:30 AM – 10:00 PM'
+    - 'Thursday: 11:30 AM – 10:00 PM'
+    - 'Friday: 11:30 AM – 10:00 PM'
+    - 'Saturday: 11:30 AM – 10:00 PM'
+    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +234,53 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (678) 766-0598
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.2'
+rating_count: 1010
+website: https://www.rusanskennesaw.com/
+description: >-
+  About Ru San's Kennesaw in Kennesaw, GA$$$Ru San's Kennesaw in Kennesaw, GA,
+  stands out as a welcoming Japanese restaurant ideal for those seeking sushi
+  places near me with a focus on variety and value. This spot features an
+  all-you-can-eat buffet that highlights fresh Japanese dishes for both lunch
+  and dinner, complemented by enticing happy hour specials that add to the
+  appeal. Accessibility is a key strength, with wheelchair-friendly parking,
+  entrances, restrooms, and seating, making it easy for everyone to enjoy a
+  meal. The moderate price range offers great bang for your buck, perfect for
+  families or groups exploring top-rated sushi options in the area. Whether
+  you're in the mood for classic rolls or innovative flavors, this restaurant in
+  Town Center provides a relaxed atmosphere that keeps diners coming back for
+  more.
+generative_summary: >-
+  About Ru San's Kennesaw in Kennesaw, GA$$$Ru San's Kennesaw in Kennesaw, GA,
+  stands out as a welcoming Japanese restaurant ideal for those seeking sushi
+  places near me with a focus on variety and value. This spot features an
+  all-you-can-eat buffet that highlights fresh Japanese dishes for both lunch
+  and dinner, complemented by enticing happy hour specials that add to the
+  appeal. Accessibility is a key strength, with wheelchair-friendly parking,
+  entrances, restrooms, and seating, making it easy for everyone to enjoy a
+  meal. The moderate price range offers great bang for your buck, perfect for
+  families or groups exploring top-rated sushi options in the area. Whether
+  you're in the mood for classic rolls or innovative flavors, this restaurant in
+  Town Center provides a relaxed atmosphere that keeps diners coming back for
+  more.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Feedback from patrons at this popular sushi
+  restaurant often highlights the fresh ingredients and generous portions that
+  make it a solid choice for anyone hunting for sushi near me. Many appreciate
+  the variety of dishes, noting that the all-you-can-eat setup delivers
+  consistent quality without breaking the bank, though some mention occasional
+  wait times during peak hours. Overall, the vibe is upbeat, with folks enjoying
+  the welcoming environment and attentive service that enhances the dining
+  experience. It's clear that this spot earns its strong rating through reliable
+  flavors and a casual setting, making it a go-to for Japanese cuisine lovers in
+  the region. If you're looking for reliable sushi restaurants close to you, the
+  positive buzz around here suggests it's worth a try for a satisfying meal.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +306,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

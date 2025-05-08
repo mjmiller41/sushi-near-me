@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kappo Miyabi"
+title: Kappo Miyabi
 permalink: /california/santa-monica/kappo-miyabi.html
 stateAbbr: CA
 stateName: California
 cityName: Santa Monica
 seo:
-  name: "Kappo Miyabi"
-  type: Restaurant
+  type: restaurant
   links: http://kappomiyabisantamonica.com/
-description: "Kappo Miyabi serves delicious sushi in Santa Monica, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJRcW0Y7WlwoAR6AK2Zv9QpEk
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c2a5b563b4c545:0x49a450ff66b602e8!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 9:30 PM'
     - 'Tuesday: 11:30 AM – 9:30 PM'
     - 'Wednesday: 11:30 AM – 9:30 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 10:30 PM'
     - 'Saturday: 11:30 AM – 10:30 PM'
     - 'Sunday: 11:30 AM – 9:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 9:30 PM'
-    - 'Tuesday: 11:30 AM – 9:30 PM'
-    - 'Wednesday: 11:30 AM – 9:30 PM'
-    - 'Thursday: 11:30 AM – 9:30 PM'
-    - 'Friday: 11:30 AM – 10:30 PM'
-    - 'Saturday: 11:30 AM – 10:30 PM'
-    - 'Sunday: 11:30 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T05:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,319 @@ phone: (310) 260-0085
 price_level: PRICE_LEVEL_MODERATE
 price_range: $50 &ndash; $100
 rating: '4.3'
-rating_count: 0
+rating_count: 341
 website: http://kappomiyabisantamonica.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Kappo Miyabi in Santa Monica, CA$$$Nestled in the vibrant city of
+  Santa Monica, California, Kappo Miyabi offers a welcoming retreat for those
+  seeking authentic Japanese flavors in a laid-back setting. This sushi
+  restaurant highlights a diverse selection of fresh sushi and sashimi,
+  complemented by an assortment of beverages like sake, beer, and wine, making
+  it a go-to spot for casual dining or special occasions. The atmosphere blends
+  relaxed vibes with elegant touches, featuring accessible options that enhance
+  the overall experience for all guests. With its prime location in a bustling
+  neighborhood, it's easy to see why this spot stands out among local sushi
+  options, drawing in visitors looking for quality Japanese cuisine without the
+  fuss. Conveniently open for lunch and dinner, it provides a perfect escape for
+  anyone exploring top sushi restaurants nearby.
+generative_summary: >-
+  Discover Kappo Miyabi in Santa Monica, CA$$$Nestled in the vibrant city of
+  Santa Monica, California, Kappo Miyabi offers a welcoming retreat for those
+  seeking authentic Japanese flavors in a laid-back setting. This sushi
+  restaurant highlights a diverse selection of fresh sushi and sashimi,
+  complemented by an assortment of beverages like sake, beer, and wine, making
+  it a go-to spot for casual dining or special occasions. The atmosphere blends
+  relaxed vibes with elegant touches, featuring accessible options that enhance
+  the overall experience for all guests. With its prime location in a bustling
+  neighborhood, it's easy to see why this spot stands out among local sushi
+  options, drawing in visitors looking for quality Japanese cuisine without the
+  fuss. Conveniently open for lunch and dinner, it provides a perfect escape for
+  anyone exploring top sushi restaurants nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJRcW0Y7WlwoAR6AK2Zv9QpEk/reviews/ChZDSUhNMG9nS0VJQ0FnTUNnNHZIdURREAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        Was touring Santa Monica area and came upon this sushi restaurant. We
+        were immediately greeted and immediately sat down at the sushi bar.
+
+
+        We had several appetizers from the lamb chop to a soft shell tempura
+        crab, and then we went on to an assorted sushimi and other great
+        dishes..
+
+
+        Everything was delicious and I have to say it was one of the best soft
+        shelf crabs I've ever had. I order it all the time and in all types of
+        restaurants, and I would say this was the best.
+
+
+        The only thing that didn't pan out was the lamb chop, it was way
+        overcooked. Lamb is supposed to be served medium-rare. Whether you like
+        medium-rare or not. This was well done, but I'm not dinging him for
+        that.
+
+
+        Otherwise, we had a wonderful time, great service, great people working
+        there really enjoyed it.
+      languageCode: en
+    originalText:
+      text: >-
+        Was touring Santa Monica area and came upon this sushi restaurant. We
+        were immediately greeted and immediately sat down at the sushi bar.
+
+
+        We had several appetizers from the lamb chop to a soft shell tempura
+        crab, and then we went on to an assorted sushimi and other great
+        dishes..
+
+
+        Everything was delicious and I have to say it was one of the best soft
+        shelf crabs I've ever had. I order it all the time and in all types of
+        restaurants, and I would say this was the best.
+
+
+        The only thing that didn't pan out was the lamb chop, it was way
+        overcooked. Lamb is supposed to be served medium-rare. Whether you like
+        medium-rare or not. This was well done, but I'm not dinging him for
+        that.
+
+
+        Otherwise, we had a wonderful time, great service, great people working
+        there really enjoyed it.
+      languageCode: en
+    authorAttribution:
+      displayName: dietmar doehring
+      uri: https://www.google.com/maps/contrib/108087690316133490640/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWUb5f4Act7E2hz-RTT3GK6NY-S7C1iycZJ7iIstI23jRu5a_dslw=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2025-02-15T12:16:19.655406Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNnNHZIdURREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNnNHZIdURREAE!2m1!1s0x80c2a5b563b4c545:0x49a450ff66b602e8
+  - name: >-
+      places/ChIJRcW0Y7WlwoAR6AK2Zv9QpEk/reviews/ChZDSUhNMG9nS0VJQ0FnTURJaU9HMWR3EAE
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 5
+    text:
+      text: >-
+        Early dinner at the sushi bar was lovely. Chef recommended the fresh
+        mackerel which did not disappoint. I thoroughly enjoyed the spicy tuna
+        on crispy rice which was so big I struggled to pick each piece up with
+        my chopsticks.
+      languageCode: en
+    originalText:
+      text: >-
+        Early dinner at the sushi bar was lovely. Chef recommended the fresh
+        mackerel which did not disappoint. I thoroughly enjoyed the spicy tuna
+        on crispy rice which was so big I struggled to pick each piece up with
+        my chopsticks.
+      languageCode: en
+    authorAttribution:
+      displayName: Jessica Rose
+      uri: https://www.google.com/maps/contrib/106707628434643475597/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVx1VHuedD4A8i-omCo8WwoSb_LPl31pNeGIypkKm7X562Pe3a14A=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-06T14:24:13.508646Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURJaU9HMWR3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJaU9HMWR3EAE!2m1!1s0x80c2a5b563b4c545:0x49a450ff66b602e8
+  - name: >-
+      places/ChIJRcW0Y7WlwoAR6AK2Zv9QpEk/reviews/ChdDSUhNMG9nS0VJQ0FnSUQzc2UtX3RRRRAB
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        Kappo Miyabi is an absolute gem in Santa Monica! From the moment you
+        step in, the atmosphere immerses you in a blend of authentic Japanese
+        elegance and modern charm. The food is nothing short of spectacular –
+        fresh, flavorful, and beautifully presented.
+
+
+        The Omakase experience is a must-try, offering a curated selection of
+        sushi and sashimi that feels like a true culinary journey. Every bite
+        bursts with fresh ingredients and masterful preparation. Standouts for
+        me were the Truffle Salmon Carpaccio and Albacore Sashimi – absolute
+        perfection!
+
+
+        The service is equally impressive. The staff is attentive, friendly, and
+        knowledgeable, always ready to offer recommendations and ensure every
+        detail is just right.
+
+
+        Whether it’s a special occasion or just a regular night out, Kappo
+        Miyabi delivers an unforgettable dining experience. Highly recommend
+        this spot for anyone looking to enjoy authentic Japanese cuisine at its
+        finest!
+      languageCode: en
+    originalText:
+      text: >-
+        Kappo Miyabi is an absolute gem in Santa Monica! From the moment you
+        step in, the atmosphere immerses you in a blend of authentic Japanese
+        elegance and modern charm. The food is nothing short of spectacular –
+        fresh, flavorful, and beautifully presented.
+
+
+        The Omakase experience is a must-try, offering a curated selection of
+        sushi and sashimi that feels like a true culinary journey. Every bite
+        bursts with fresh ingredients and masterful preparation. Standouts for
+        me were the Truffle Salmon Carpaccio and Albacore Sashimi – absolute
+        perfection!
+
+
+        The service is equally impressive. The staff is attentive, friendly, and
+        knowledgeable, always ready to offer recommendations and ensure every
+        detail is just right.
+
+
+        Whether it’s a special occasion or just a regular night out, Kappo
+        Miyabi delivers an unforgettable dining experience. Highly recommend
+        this spot for anyone looking to enjoy authentic Japanese cuisine at its
+        finest!
+      languageCode: en
+    authorAttribution:
+      displayName: Mayis Hambardzumyan
+      uri: https://www.google.com/maps/contrib/105833510308149868706/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWFOCDPebfDOOAEYmWoObr_0CQyQVKncjOHslekK_EoHAvEB4Gu=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-11-16T04:25:03.734736Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQzc2UtX3RRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQzc2UtX3RRRRAB!2m1!1s0x80c2a5b563b4c545:0x49a450ff66b602e8
+  - name: >-
+      places/ChIJRcW0Y7WlwoAR6AK2Zv9QpEk/reviews/ChdDSUhNMG9nS0VJQ0FnSURub3VuaXR3RRAB
+    relativePublishTimeDescription: 7 months ago
+    rating: 5
+    text:
+      text: >-
+        Fun place with very gracious folks. We really loved the sea bass
+        croquettes, and followed with two hot stone rice bowls, eel and salmon.
+        The unagi was well prepared and their sauce is less BBQ and more subtle.
+        Plenty of eel. Same with the salmon, not over seasoned. Rice was also
+        fine and we will go back for raw fish next visit; their omakase choices
+        look good. Had a nice few desserts including persimmon and ice cream and
+        a great stout Japanese beer.
+      languageCode: en
+    originalText:
+      text: >-
+        Fun place with very gracious folks. We really loved the sea bass
+        croquettes, and followed with two hot stone rice bowls, eel and salmon.
+        The unagi was well prepared and their sauce is less BBQ and more subtle.
+        Plenty of eel. Same with the salmon, not over seasoned. Rice was also
+        fine and we will go back for raw fish next visit; their omakase choices
+        look good. Had a nice few desserts including persimmon and ice cream and
+        a great stout Japanese beer.
+      languageCode: en
+    authorAttribution:
+      displayName: David Krivit
+      uri: https://www.google.com/maps/contrib/103003523894628959204/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjU15i5lOUensJ51a0oEPuZNTiAhc9Li5D1Cf7eFDJJ_9je1wYlH=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2024-10-04T13:57:04.335314Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURub3VuaXR3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURub3VuaXR3RRAB!2m1!1s0x80c2a5b563b4c545:0x49a450ff66b602e8
+  - name: >-
+      places/ChIJRcW0Y7WlwoAR6AK2Zv9QpEk/reviews/ChdDSUhNMG9nS0VJQ0FnSUNUNzRxX3V3RRAB
+    relativePublishTimeDescription: 11 months ago
+    rating: 3
+    text:
+      text: >-
+        As an avid sushi seeker, I came with high expectation due to reviews.
+        However, it did not meet my expectations. We ordered sushi omakase
+        ($100), unagi stone hot pot, and few other dishes. As for the omakase,
+        the quality of the fish was average and rice (shari) was disappointing.
+        When it comes to pricy sushis, I expect good quality from not only the
+        fish but the base as well. Also for something that cost 100, I expected
+        something better than a take out tray presentation. As for Unagi stone
+        hot pot, it was actually decent! Unagi was flavorful, soft and juicy.
+        Soft crab roll (current season special), I do not recommend. Bitter, dry
+        and bland. Overall, this place has average sushi and few good warm
+        plates. I recommend sticking to cooked dishes over sushis. Their sushis
+        are priced ridiculously high for subpar quality and presentation.
+      languageCode: en
+    originalText:
+      text: >-
+        As an avid sushi seeker, I came with high expectation due to reviews.
+        However, it did not meet my expectations. We ordered sushi omakase
+        ($100), unagi stone hot pot, and few other dishes. As for the omakase,
+        the quality of the fish was average and rice (shari) was disappointing.
+        When it comes to pricy sushis, I expect good quality from not only the
+        fish but the base as well. Also for something that cost 100, I expected
+        something better than a take out tray presentation. As for Unagi stone
+        hot pot, it was actually decent! Unagi was flavorful, soft and juicy.
+        Soft crab roll (current season special), I do not recommend. Bitter, dry
+        and bland. Overall, this place has average sushi and few good warm
+        plates. I recommend sticking to cooked dishes over sushis. Their sushis
+        are priced ridiculously high for subpar quality and presentation.
+      languageCode: en
+    authorAttribution:
+      displayName: pan s
+      uri: https://www.google.com/maps/contrib/106131605646281029310/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIQMwAYQh1drZUSaNQrXMWUSD3DD4PCBRNMsVqyJHgA0HVcTg=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-05-20T16:48:24.111973Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNUNzRxX3V3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNUNzRxX3V3RRAB!2m1!1s0x80c2a5b563b4c545:0x49a450ff66b602e8
+review_summary: >-
+  What Customers Are Buzzing About$$$Folks rave about the standout sushi and
+  sashimi at this spot, especially the Omakase selections that deliver a fresh
+  and flavorful adventure with every bite. Many appreciate the friendly service
+  and inviting atmosphere that make dining here feel genuinely welcoming and
+  attentive. While most dishes hit the mark with creative appetizers and
+  well-prepared options, a few mentions note that some items might feel a bit
+  pricey compared to the experience. Overall, it's a solid choice for anyone
+  craving Japanese fare, with highlights on the authentic touches that keep
+  people coming back for more. If you're hunting for reliable sushi places in
+  the area, this one earns high marks for its balance of quality and vibe,
+  though it's always good to keep expectations in check for the cost.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  paidParkingLot: true
+  freeStreetParking: true
+  paidStreetParking: true
+  freeGarageParking: false
+  paidGarageParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
+delivery: true
+dine_in: true
+good_for_children: false
 good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
 serves_brunch: null
 serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

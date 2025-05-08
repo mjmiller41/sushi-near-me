@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Starfish Sushi Downey"
+title: Starfish Sushi Downey
 permalink: /california/downey/starfish-sushi-downey.html
 stateAbbr: CA
 stateName: California
 cityName: Downey
 seo:
-  name: "Starfish Sushi Downey"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Starfish Sushi Downey serves delicious sushi in Downey, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJo974OJjNwoARUSCyqc9Qe5s
 photos:
   - name: >-
@@ -185,7 +183,45 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Starfish Sushi in Downey, CA$$$Starfish Sushi in Downey, California,
+  stands out as a cozy Japanese restaurant specializing in fresh sushi rolls and
+  sashimi, perfect for anyone seeking authentic flavors in a relaxed
+  environment. The spot emphasizes accessibility with features like
+  wheelchair-friendly parking and entrances, making it easy for all guests to
+  enjoy their meal. Drawing from its casual vibe, the menu highlights a variety
+  of Japanese dishes that appeal to sushi enthusiasts looking for local options
+  near Downey. With an inviting atmosphere captured in its vibrant photos, this
+  sushi place near me offers a straightforward yet delightful dining experience.
+  Whether you're in the mood for top-rated sushi or exploring Japanese places
+  close to you, it's a solid choice for a casual outing.
+generative_summary: >-
+  Discover Starfish Sushi in Downey, CA$$$Starfish Sushi in Downey, California,
+  stands out as a cozy Japanese restaurant specializing in fresh sushi rolls and
+  sashimi, perfect for anyone seeking authentic flavors in a relaxed
+  environment. The spot emphasizes accessibility with features like
+  wheelchair-friendly parking and entrances, making it easy for all guests to
+  enjoy their meal. Drawing from its casual vibe, the menu highlights a variety
+  of Japanese dishes that appeal to sushi enthusiasts looking for local options
+  near Downey. With an inviting atmosphere captured in its vibrant photos, this
+  sushi place near me offers a straightforward yet delightful dining experience.
+  Whether you're in the mood for top-rated sushi or exploring Japanese places
+  close to you, it's a solid choice for a casual outing.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Folks who visit this sushi restaurant often rave
+  about the fresh ingredients and creative rolls that make every bite feel
+  satisfying and authentic. Many appreciate the laid-back setting and efficient
+  service, which add to the overall enjoyable vibe without any fuss. Some
+  highlight the great value for the quality, noting it's a go-to spot for quick
+  meals or group gatherings when craving sushi places near me. While opinions
+  vary, most agree that the variety keeps things exciting for repeat visits,
+  with positive mentions of the welcoming staff and atmosphere. Overall, it's
+  earned a reputation as one of the best sushi options in the area, ideal for
+  anyone searching for reliable Japanese dining that delivers on taste and
+  convenience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +247,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

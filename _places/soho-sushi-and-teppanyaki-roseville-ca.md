@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Soho Sushi and Teppanyaki"
+title: Soho Sushi and Teppanyaki
 permalink: /california/roseville/soho-sushi-and-teppanyaki.html
 stateAbbr: CA
 stateName: California
 cityName: Roseville
 seo:
-  name: "Soho Sushi and Teppanyaki"
-  type: Restaurant
+  type: restaurant
   links: http://sohoteppanyaki.com/
-description: "Soho Sushi and Teppanyaki serves delicious sushi in Roseville, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJyf7Tp_Ufm4AR-vA_WEqPqQM
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x809b1ff5a7d3fec9:0x3a98f4a583ff0fa!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 4:00 – 9:00 PM'
     - 'Tuesday: Closed'
     - 'Wednesday: 4:00 – 9:00 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 4:00 – 9:00 PM'
     - 'Saturday: 12:00 – 9:00 PM'
     - 'Sunday: 12:00 – 9:00 PM'
-  current:
-    - 'Monday: 4:00 – 9:00 PM'
-    - 'Tuesday: Closed'
-    - 'Wednesday: 4:00 – 9:00 PM'
-    - 'Thursday: 4:00 – 9:00 PM'
-    - 'Friday: 4:00 – 9:00 PM'
-    - 'Saturday: 12:00 – 9:00 PM'
-    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +238,284 @@ phone: (916) 771-4749
 price_level: PRICE_LEVEL_MODERATE
 price_range: $30 &ndash; $50
 rating: '4.3'
-rating_count: 0
+rating_count: 395
 website: http://sohoteppanyaki.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Soho Sushi and Teppanyaki in Roseville, CA$$$Soho Sushi and
+  Teppanyaki in Roseville, California, delivers a relaxed vibe with fresh sushi
+  and teppanyaki options that highlight authentic Japanese flavors in a
+  welcoming setting. The spot features interactive cooking displays and a menu
+  full of diverse choices, including vegetarian-friendly dishes and drinks like
+  beer and wine, making it ideal for casual meals or group outings.
+  Accessibility is a key plus, with options like wheelchair-friendly entrances
+  and parking, ensuring everyone can enjoy the experience. For those seeking
+  sushi near me, this location stands out with its moderately priced offerings
+  and lively atmosphere that combines entertainment with dining. Open evenings
+  and weekends, it provides a convenient escape for anyone craving top-rated
+  sushi restaurants in the area.
+generative_summary: >-
+  Discover Soho Sushi and Teppanyaki in Roseville, CA$$$Soho Sushi and
+  Teppanyaki in Roseville, California, delivers a relaxed vibe with fresh sushi
+  and teppanyaki options that highlight authentic Japanese flavors in a
+  welcoming setting. The spot features interactive cooking displays and a menu
+  full of diverse choices, including vegetarian-friendly dishes and drinks like
+  beer and wine, making it ideal for casual meals or group outings.
+  Accessibility is a key plus, with options like wheelchair-friendly entrances
+  and parking, ensuring everyone can enjoy the experience. For those seeking
+  sushi near me, this location stands out with its moderately priced offerings
+  and lively atmosphere that combines entertainment with dining. Open evenings
+  and weekends, it provides a convenient escape for anyone craving top-rated
+  sushi restaurants in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJyf7Tp_Ufm4AR-vA_WEqPqQM/reviews/ChdDSUhNMG9nS0VJQ0FnTUNnd1BDenlBRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        Had a fantastic dinner here with generous portions of delicious food. I
+        highly recommend ordering a meal that they cook on the grill as it is
+        prepared right in front of you and is super fresh. The chef was highly
+        entertaining and created such a fun and enjoyable experience for
+        everyone. Will definitely be back in the future!
+      languageCode: en
+    originalText:
+      text: >-
+        Had a fantastic dinner here with generous portions of delicious food. I
+        highly recommend ordering a meal that they cook on the grill as it is
+        prepared right in front of you and is super fresh. The chef was highly
+        entertaining and created such a fun and enjoyable experience for
+        everyone. Will definitely be back in the future!
+      languageCode: en
+    authorAttribution:
+      displayName: Janelle Stepper
+      uri: https://www.google.com/maps/contrib/102355255793016153214/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjW6J1pc29UB--cChXy5l2UmxcrlP354D7iXT-uKuw40ArMEMfMb=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-02-13T06:14:48.081006Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNnd1BDenlBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNnd1BDenlBRRAB!2m1!1s0x809b1ff5a7d3fec9:0x3a98f4a583ff0fa
+  - name: >-
+      places/ChIJyf7Tp_Ufm4AR-vA_WEqPqQM/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3OWRla2VREAE
+    relativePublishTimeDescription: a month ago
+    rating: 1
+    text:
+      text: >-
+        Dirtiest restaurant I've been to in years. The bathroom looked like a
+        gas station bathroom from the 1970's that hadn't been cleaned in forever
+        and the rest of the restaurant wasn't much better. Food was bland,
+        service so-so, and how we didn't get food poisoning is a miracle. I
+        reported the bathroom to the staff and they looked at me like they
+        didn't know what to do about it. The place is depressing!
+      languageCode: en
+    originalText:
+      text: >-
+        Dirtiest restaurant I've been to in years. The bathroom looked like a
+        gas station bathroom from the 1970's that hadn't been cleaned in forever
+        and the rest of the restaurant wasn't much better. Food was bland,
+        service so-so, and how we didn't get food poisoning is a miracle. I
+        reported the bathroom to the staff and they looked at me like they
+        didn't know what to do about it. The place is depressing!
+      languageCode: en
+    authorAttribution:
+      displayName: Alex Bixby
+      uri: https://www.google.com/maps/contrib/115457130377990140680/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVjVqXuk-HetMHVL7wC99JKJaTOnihs-s7siDNmgQ3ZRGqSIYM=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-03-20T11:11:56.106314Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUN3OWRla2VREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUN3OWRla2VREAE!2m1!1s0x809b1ff5a7d3fec9:0x3a98f4a583ff0fa
+  - name: >-
+      places/ChIJyf7Tp_Ufm4AR-vA_WEqPqQM/reviews/ChZDSUhNMG9nS0VJQ0FnTUNvczVmRFpnEAE
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 1
+    text:
+      text: >-
+        Disappointed After Years of Loyalty
+
+
+        I’ve been a regular at Soho Sushi and Tappenanyaki for a long time. The
+        food has always been great, the service solid, and I’ve recommended this
+        place to friends and family countless times. In fact, any time we have a
+        special occasion, I usually insist we go to Soho. But after my recent
+        experience, I’m honestly questioning if I’ll ever come back.
+
+
+        We went out as a family—me, my wife, our 4-year-old, our 3-year-old, and
+        our 3-month-old infant. We spent about $184 in total, but nearly $30 of
+        that was an automatic gratuity because of their “parties of 5 or more”
+        policy.
+
+
+        Here’s the issue: they counted our three-month-old baby as a full person
+        toward that party of five. A baby who doesn't order food, doesn't drink
+        water, doesn't even sit in their own chair. Just there, quiet in his car
+        seat. I wouldn’t be complaining if we had five actual people eating. But
+        charging us $30 extra because of an infant is just petty and greedy.
+
+
+        This isn’t about tipping—I always tip well when service is good. This is
+        about principle. If your policy can't distinguish between a paying guest
+        and a literal newborn, it’s flawed. And honestly, it left a bad taste in
+        our mouths after what should’ve been a nice family dinner.
+
+
+        You just lost a loyal customer over $30 you didn’t earn.
+      languageCode: en
+    originalText:
+      text: >-
+        Disappointed After Years of Loyalty
+
+
+        I’ve been a regular at Soho Sushi and Tappenanyaki for a long time. The
+        food has always been great, the service solid, and I’ve recommended this
+        place to friends and family countless times. In fact, any time we have a
+        special occasion, I usually insist we go to Soho. But after my recent
+        experience, I’m honestly questioning if I’ll ever come back.
+
+
+        We went out as a family—me, my wife, our 4-year-old, our 3-year-old, and
+        our 3-month-old infant. We spent about $184 in total, but nearly $30 of
+        that was an automatic gratuity because of their “parties of 5 or more”
+        policy.
+
+
+        Here’s the issue: they counted our three-month-old baby as a full person
+        toward that party of five. A baby who doesn't order food, doesn't drink
+        water, doesn't even sit in their own chair. Just there, quiet in his car
+        seat. I wouldn’t be complaining if we had five actual people eating. But
+        charging us $30 extra because of an infant is just petty and greedy.
+
+
+        This isn’t about tipping—I always tip well when service is good. This is
+        about principle. If your policy can't distinguish between a paying guest
+        and a literal newborn, it’s flawed. And honestly, it left a bad taste in
+        our mouths after what should’ve been a nice family dinner.
+
+
+        You just lost a loyal customer over $30 you didn’t earn.
+      languageCode: en
+    authorAttribution:
+      displayName: Danny Urrutia
+      uri: https://www.google.com/maps/contrib/106666346803312982572/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWIPieCg1mTJ8KcMf87I6fIK1FvvxcyqDo1vQAG_68f0YYl_4Qe=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-19T19:32:39.284304Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNvczVmRFpnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNvczVmRFpnEAE!2m1!1s0x809b1ff5a7d3fec9:0x3a98f4a583ff0fa
+  - name: >-
+      places/ChIJyf7Tp_Ufm4AR-vA_WEqPqQM/reviews/ChZDSUhNMG9nS0VJQ0FnSUN2M2EtY0JBEAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        Not a sushi person but I tried alot of tasty options with my co workers
+        and became a fan! Our server Pim was amazing! The sake is bomb 😄
+      languageCode: en
+    originalText:
+      text: >-
+        Not a sushi person but I tried alot of tasty options with my co workers
+        and became a fan! Our server Pim was amazing! The sake is bomb 😄
+      languageCode: en
+    authorAttribution:
+      displayName: Ciera G.
+      uri: https://www.google.com/maps/contrib/100664597460135283711/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVmU40mDPCp3JsCSpIu7nPJQkjuV3jtFH462omJnx5exU88yZFJDA=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-12-13T21:22:27.164317Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN2M2EtY0JBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN2M2EtY0JBEAE!2m1!1s0x809b1ff5a7d3fec9:0x3a98f4a583ff0fa
+  - name: >-
+      places/ChIJyf7Tp_Ufm4AR-vA_WEqPqQM/reviews/ChZDSUhNMG9nS0VJQ0FnTURJMTZielV3EAE
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 3
+    text:
+      text: >-
+        We ordered food and it was fine, service was less than mid at first but
+        slightly got better, but that went downhill when we asked to share a
+        plate and they made us pay $5. FIVE DOLLARS?? ARE YOU KIDDING ME?
+        Unbelievable manager policy, why make people pay an extra $5 when they
+        already payed for the food? It's up to the customers what they do with
+        the food no?? Food was good though, service was ok. **except for the
+        guys that make the food in front of you, they're the star of the place
+        and are very friendly and funny :D
+      languageCode: en
+    originalText:
+      text: >-
+        We ordered food and it was fine, service was less than mid at first but
+        slightly got better, but that went downhill when we asked to share a
+        plate and they made us pay $5. FIVE DOLLARS?? ARE YOU KIDDING ME?
+        Unbelievable manager policy, why make people pay an extra $5 when they
+        already payed for the food? It's up to the customers what they do with
+        the food no?? Food was good though, service was ok. **except for the
+        guys that make the food in front of you, they're the star of the place
+        and are very friendly and funny :D
+      languageCode: en
+    authorAttribution:
+      displayName: amy
+      uri: https://www.google.com/maps/contrib/112213906206018181180/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIOr5TrpUoS4zeGcfb9bWl-Pz_JE5j0SVWtK8aVwXSF_EvTRoM=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-13T16:32:23.647620Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURJMTZielV3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJMTZielV3EAE!2m1!1s0x809b1ff5a7d3fec9:0x3a98f4a583ff0fa
+review_summary: >-
+  What Customers Are Saying About This Sushi Spot$$$Folks generally enjoy the
+  generous portions and entertaining teppanyaki shows that bring a fun twist to
+  meals at this local favorite, often praising the fresh flavors and
+  family-friendly vibe. While a few mentions highlight occasional service
+  hiccups or minor policies that could use tweaking, the overall consensus leans
+  toward a satisfying experience with tasty dishes that keep diners coming back.
+  If you're hunting for sushi places near me, many appreciate the variety of
+  options that cater to different tastes, including great sides and drinks. The
+  atmosphere gets thumbs up for being lively and accessible, making it a solid
+  pick for groups or casual nights out. All in all, it's a worthwhile stop for
+  anyone who loves sushi, with the positives far outweighing any small
+  drawbacks.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: true
+live_music: false
+menu_for_children: true
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: true
 serves_cocktails: null
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
+serves_dinner: true
+serves_dessert: true
 serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

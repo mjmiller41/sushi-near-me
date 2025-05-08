@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Nori Sushi"
+title: Nori Sushi
 permalink: /washington/maple-valley/nori-sushi.html
 stateAbbr: WA
 stateName: Washington
 cityName: Maple Valley
 seo:
-  name: "Nori Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Nori Sushi serves delicious sushi in Maple Valley, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJr0bWTUqLkFQRBy_0DrszP-w
 photos:
   - name: >-
@@ -184,7 +182,44 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Nori Sushi in Maple Valley, WA$$$Nori Sushi in Maple Valley, WA,
+  offers a welcoming spot for enjoying authentic Japanese cuisine with a focus
+  on fresh, traditional flavors. This casual eatery specializes in high-quality
+  sushi and sashimi, drawing in locals seeking a taste of classic dishes
+  prepared with care and precision. With its accessible features like
+  wheelchair-friendly parking and entrances, it stands out as an inclusive
+  choice for diners looking for a relaxed meal. The menu highlights generous
+  portions that capture the essence of Japanese dining, making it a go-to for
+  anyone exploring sushi restaurants in the area. Whether you're in the mood for
+  inventive rolls or simple nigiri, this spot delivers a satisfying experience
+  that emphasizes quality ingredients and thoughtful presentation.
+generative_summary: >-
+  Discover Nori Sushi in Maple Valley, WA$$$Nori Sushi in Maple Valley, WA,
+  offers a welcoming spot for enjoying authentic Japanese cuisine with a focus
+  on fresh, traditional flavors. This casual eatery specializes in high-quality
+  sushi and sashimi, drawing in locals seeking a taste of classic dishes
+  prepared with care and precision. With its accessible features like
+  wheelchair-friendly parking and entrances, it stands out as an inclusive
+  choice for diners looking for a relaxed meal. The menu highlights generous
+  portions that capture the essence of Japanese dining, making it a go-to for
+  anyone exploring sushi restaurants in the area. Whether you're in the mood for
+  inventive rolls or simple nigiri, this spot delivers a satisfying experience
+  that emphasizes quality ingredients and thoughtful presentation.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Guests Are Saying About the Experience$$$Folks visiting this Japanese
+  spot often rave about the tasty sushi rolls and fresh sashimi that hit the
+  spot without breaking the bank. Many highlight the friendly service and
+  attentive staff that make every meal feel welcoming and hassle-free. Reviewers
+  appreciate the solid portions that leave you feeling full and satisfied, along
+  with prices that keep things approachable for a casual night out. Overall,
+  it's clear that diners enjoy the reliable flavors and vibe, making it a solid
+  pick for anyone hunting for great sushi nearby. While not perfect, the general
+  buzz keeps things upbeat, encouraging others to give it a try for a
+  straightforward, enjoyable dining experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +245,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

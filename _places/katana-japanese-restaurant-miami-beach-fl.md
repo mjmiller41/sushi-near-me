@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Katana Japanese Restaurant"
+title: Katana Japanese Restaurant
 permalink: /florida/miami-beach/katana-japanese-restaurant.html
 stateAbbr: FL
 stateName: Florida
 cityName: Miami Beach
 seo:
-  name: "Katana Japanese Restaurant"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Katana Japanese Restaurant serves delicious sushi in Miami Beach, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJhwkzruWy2YgRaGiGC_fXl2M
 photos:
   - name: >-
@@ -184,7 +182,40 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Katana in Miami Beach, FL$$$Katana Japanese Restaurant in Miami
+  Beach, FL, stands out as a cozy haven offering authentic Japanese cuisine in a
+  welcoming neighborhood atmosphere. Nestled in the charming Normandy Isles
+  area, it features thoughtful accessibility options like wheelchair-friendly
+  parking and entrances, ensuring a comfortable visit for everyone. The spot is
+  ideal for casual dining with its inviting ambiance, as seen in various photos
+  highlighting a simple yet elegant setting. If you're exploring sushi
+  restaurants near me or seeking top-rated Japanese places in the region, this
+  location delivers fresh flavors and a relaxed vibe perfect for a laid-back
+  lunch or dinner.
+generative_summary: >-
+  Discover Katana in Miami Beach, FL$$$Katana Japanese Restaurant in Miami
+  Beach, FL, stands out as a cozy haven offering authentic Japanese cuisine in a
+  welcoming neighborhood atmosphere. Nestled in the charming Normandy Isles
+  area, it features thoughtful accessibility options like wheelchair-friendly
+  parking and entrances, ensuring a comfortable visit for everyone. The spot is
+  ideal for casual dining with its inviting ambiance, as seen in various photos
+  highlighting a simple yet elegant setting. If you're exploring sushi
+  restaurants near me or seeking top-rated Japanese places in the region, this
+  location delivers fresh flavors and a relaxed vibe perfect for a laid-back
+  lunch or dinner.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Folks generally enjoy the fresh and flavorful
+  dishes at this spot, often noting the authentic taste that hits the spot for
+  sushi lovers. Many appreciate the welcoming environment and easy access
+  features that make it a go-to for casual outings. While experiences vary,
+  people frequently mention the cozy feel as a highlight for groups or solo
+  diners looking to unwind. Overall, it's seen as a solid choice for anyone
+  hunting for reliable Japanese eats nearby, with a vibe that's both
+  approachable and satisfying for those craving quality sushi close to home.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +241,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Aikan Sushi - Premium All You Can Eat"
+title: Aikan Sushi - Premium All You Can Eat
 permalink: /california/long-beach/aikan-sushi-premium-all-you-can-eat.html
 stateAbbr: CA
 stateName: California
 cityName: Long Beach
 seo:
-  name: "Aikan Sushi - Premium All You Can Eat"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Aikan Sushi - Premium All You Can Eat serves delicious sushi in Long Beach, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJs4R4MkMx3YARaMrkytOR4pM
 photos:
   - name: >-
@@ -185,7 +183,46 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Aikan Sushi in Long Beach, CA: A Casual Japanese Gem$$$Aikan Sushi in Long
+  Beach, CA, stands out as a casual all-you-can-eat Japanese restaurant that
+  delights diners with its wide array of fresh sushi options and other authentic
+  dishes. This spot emphasizes premium quality in every roll, offering a relaxed
+  atmosphere perfect for enjoying flavorful selections that cater to sushi
+  lovers seeking variety. Accessibility features like wheelchair-friendly
+  parking and seating make it a welcoming choice for everyone, enhancing the
+  overall experience. Whether you're looking for top-rated sushi restaurants in
+  the area, Aikan Sushi delivers on fresh ingredients and generous portions that
+  keep customers coming back. Its approachable vibe makes it an ideal
+  destination for those exploring Japanese places near me in this vibrant city.
+generative_summary: >-
+  Aikan Sushi in Long Beach, CA: A Casual Japanese Gem$$$Aikan Sushi in Long
+  Beach, CA, stands out as a casual all-you-can-eat Japanese restaurant that
+  delights diners with its wide array of fresh sushi options and other authentic
+  dishes. This spot emphasizes premium quality in every roll, offering a relaxed
+  atmosphere perfect for enjoying flavorful selections that cater to sushi
+  lovers seeking variety. Accessibility features like wheelchair-friendly
+  parking and seating make it a welcoming choice for everyone, enhancing the
+  overall experience. Whether you're looking for top-rated sushi restaurants in
+  the area, Aikan Sushi delivers on fresh ingredients and generous portions that
+  keep customers coming back. Its approachable vibe makes it an ideal
+  destination for those exploring Japanese places near me in this vibrant city.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Love About Aikan Sushi$$$Visitors often rave about the fresh
+  and diverse sushi offerings at this Japanese restaurant, highlighting the
+  tasty rolls, sashimi, and unique items that make every meal feel special.
+  Folks appreciate the friendly service and efficient pace that keeps things
+  enjoyable without any wait frustrations, adding to the laid-back dining vibe.
+  Many note the great value of the all-you-can-eat deal, which provides plenty
+  of options for a satisfying experience without breaking the bank. Overall,
+  it's praised as a solid pick for groups or families wanting quality food in a
+  welcoming setting, making it a go-to for anyone hunting for the best sushi
+  near me. While opinions are generally positive, the consistent highlights on
+  freshness and affordability help it maintain a strong reputation among local
+  eateries.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +248,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

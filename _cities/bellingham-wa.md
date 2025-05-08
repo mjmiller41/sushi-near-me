@@ -5,4 +5,5 @@ permalink: /washington/bellingham/
 stateAbbr: WA
 stateName: Washington
 cityName: Bellingham
+
 ---

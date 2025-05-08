@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Tenzan"
+title: Tenzan
 permalink: /new-york/new-york/tenzan.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "Tenzan"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Neighborhood Japanese restaurant offers sushi, sashimi & traditional cooked fare for lunch & dinner. Tenzan serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJsSw70bpYwokR8of7Ji2tqiU
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: null
 rating: '4.1'
 rating_count: 0
 website: null
+description: >-
+  Discover Tenzan in New York, NY$$$Tenzan, located in the vibrant city of New
+  York, NY, is a welcoming Japanese restaurant that specializes in fresh sushi
+  and traditional dishes, making it a standout choice for anyone seeking
+  authentic flavors in a casual atmosphere. The spot offers a variety of
+  expertly prepared options like sushi and udon noodles, served in a
+  neighborhood setting that's perfect for relaxed dining experiences. With its
+  moderate pricing and accessible features, such as wheelchair-friendly
+  entrances and seating, it's an inclusive destination for enjoying top-rated
+  Japanese cuisine. Visitors can also appreciate the thoughtful presentation and
+  selection of dishes that highlight the essence of Japanese dining traditions.
+generative_summary: >-
+  Discover Tenzan in New York, NY$$$Tenzan, located in the vibrant city of New
+  York, NY, is a welcoming Japanese restaurant that specializes in fresh sushi
+  and traditional dishes, making it a standout choice for anyone seeking
+  authentic flavors in a casual atmosphere. The spot offers a variety of
+  expertly prepared options like sushi and udon noodles, served in a
+  neighborhood setting that's perfect for relaxed dining experiences. With its
+  moderate pricing and accessible features, such as wheelchair-friendly
+  entrances and seating, it's an inclusive destination for enjoying top-rated
+  Japanese cuisine. Visitors can also appreciate the thoughtful presentation and
+  selection of dishes that highlight the essence of Japanese dining traditions.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJsSw70bpYwokR8of7Ji2tqiU/reviews/ChZDSUhNMG9nS0VJQ0FnTURROWJfYWVnEAE
@@ -338,6 +359,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMzNUlYaDVRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMzNUlYaDVRRRAB!2m1!1s0x89c258bad13b2cb1:0x25aaad2d26fb87f2
+review_summary: >-
+  What Customers Are Saying About Tenzan$$$Folks rave about the incredibly fresh
+  sushi and flavorful rolls at this spot, often calling it one of the best
+  options in the area for a satisfying meal. Many highlight the reliable quality
+  of the fish and creative specials that make every visit feel special, whether
+  dining in or opting for delivery. Service stands out as friendly and
+  attentive, adding to the overall enjoyable vibe that keeps people coming back
+  for more. It's frequently recommended for casual outings or date nights, with
+  praises for the balanced flavors in sides like miso soup and salads. Overall,
+  this sushi place earns high marks for its consistent taste and welcoming
+  environment, making it a solid pick for anyone exploring local Japanese
+  eateries.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   valetParking: false
 payment_options:
@@ -368,8 +402,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Neighborhood Japanese restaurant offers sushi, sashimi & traditional cooked
   fare for lunch & dinner.
 

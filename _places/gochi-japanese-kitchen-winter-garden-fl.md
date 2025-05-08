@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Gochi Japanese Kitchen"
+title: Gochi Japanese Kitchen
 permalink: /florida/winter-garden/gochi-japanese-kitchen.html
 stateAbbr: FL
 stateName: Florida
 cityName: Winter Garden
 seo:
-  name: "Gochi Japanese Kitchen"
-  type: Restaurant
+  type: restaurant
   links: http://gochijapanesekitchen.com/
-description: "Simple restaurant offering a range of raw & cooked rolls, plus sashimi & other Japanese options. Gochi Japanese Kitchen serves delicious sushi in Winter Garden, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJ23BYCZ2D54gRltCPoqGr4a8
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: null
 rating: '4.5'
 rating_count: 0
 website: http://gochijapanesekitchen.com/
+description: >-
+  Explore Gochi Japanese Kitchen in Winter Garden, FL$$$Gochi Japanese Kitchen
+  in Winter Garden, FL, offers a delightful array of fresh Japanese dishes that
+  highlight the best of authentic flavors and creative presentations. This cozy
+  spot serves up a variety of raw and cooked rolls along with sashimi and other
+  flavorful options, making it a go-to for anyone craving quality sushi in a
+  welcoming environment. The dining area is spacious and clean, perfect for
+  casual meals with friends or family, enhanced by thoughtful touches like happy
+  hour specials that add extra appeal. Overall, it's an inviting place where
+  vibrant tastes and a relaxed vibe come together, ideal for those exploring top
+  sushi options nearby.
+generative_summary: >-
+  Explore Gochi Japanese Kitchen in Winter Garden, FL$$$Gochi Japanese Kitchen
+  in Winter Garden, FL, offers a delightful array of fresh Japanese dishes that
+  highlight the best of authentic flavors and creative presentations. This cozy
+  spot serves up a variety of raw and cooked rolls along with sashimi and other
+  flavorful options, making it a go-to for anyone craving quality sushi in a
+  welcoming environment. The dining area is spacious and clean, perfect for
+  casual meals with friends or family, enhanced by thoughtful touches like happy
+  hour specials that add extra appeal. Overall, it's an inviting place where
+  vibrant tastes and a relaxed vibe come together, ideal for those exploring top
+  sushi options nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ23BYCZ2D54gRltCPoqGr4a8/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJMk5tSml3RRAB
@@ -484,6 +505,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUM5bGFqWFZREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUM5bGFqWFZREAE!2m1!1s0x88e7839d095870db:0xafe1aba1a28fd096
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors often praise the flavorful sushi
+  rolls and poke bowls at this Japanese kitchen, noting how the fresh
+  ingredients make every bite memorable and satisfying. Many enjoy the friendly
+  service and attentive staff who help guide choices, turning meals into
+  enjoyable experiences despite occasional waits that feel worthwhile for the
+  quality delivered. The atmosphere stands out as clean and roomy, great for
+  groups or quick lunches, with happy hour appetizers adding a fun twist to the
+  visit. While there are minor mentions of room for improvement in details like
+  drink options, the overall consensus leans positive, making it a solid pick
+  for anyone seeking reliable sushi spots in the area.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -517,8 +550,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Simple restaurant offering a range of raw & cooked rolls, plus sashimi & other
   Japanese options.
 

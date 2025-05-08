@@ -5,4 +5,5 @@ permalink: /new-jersey/skillman/
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Skillman
+
 ---

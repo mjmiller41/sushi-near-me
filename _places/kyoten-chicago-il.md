@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kyōten"
+title: Kyōten
 permalink: /illinois/chicago/kyoten.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
 seo:
-  name: "Kyōten"
-  type: Restaurant
+  type: restaurant
   links: http://kyotenchicago.com/
-description: "An omakase menu with sake pairings is the highlight at this upscale Japanese eatery & sushi bar Kyōten serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, and dinner."
 place_id: ChIJqbhk96bTD4gR4wJOg2blQYE
 photos:
   - name: >-
@@ -182,6 +180,31 @@ price_range: $100 &ndash; & up
 rating: '4.8'
 rating_count: 0
 website: http://kyotenchicago.com/
+description: >-
+  Discover Kyōten in Chicago, IL$$$Kyōten in Chicago, IL, stands out as an
+  upscale sushi restaurant offering an intimate omakase experience that
+  highlights fresh, high-quality ingredients. This spot features meticulously
+  crafted tasting menus that showcase seasonal seafood and traditional Japanese
+  flavors, making it a go-to for those seeking top-rated sushi in the area.
+  Diners can enjoy thoughtfully paired beverages that enhance the meal, creating
+  a refined atmosphere perfect for special occasions. The focus on premium,
+  wild-caught selections ensures each dish is a standout, appealing to
+  enthusiasts exploring sushi restaurants near me. With its elegant setting in
+  Logan Square, Kyōten provides a memorable escape for anyone craving authentic
+  Japanese-inspired cuisine.
+generative_summary: >-
+  Discover Kyōten in Chicago, IL$$$Kyōten in Chicago, IL, stands out as an
+  upscale sushi restaurant offering an intimate omakase experience that
+  highlights fresh, high-quality ingredients. This spot features meticulously
+  crafted tasting menus that showcase seasonal seafood and traditional Japanese
+  flavors, making it a go-to for those seeking top-rated sushi in the area.
+  Diners can enjoy thoughtfully paired beverages that enhance the meal, creating
+  a refined atmosphere perfect for special occasions. The focus on premium,
+  wild-caught selections ensures each dish is a standout, appealing to
+  enthusiasts exploring sushi restaurants near me. With its elegant setting in
+  Logan Square, Kyōten provides a memorable escape for anyone craving authentic
+  Japanese-inspired cuisine.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJqbhk96bTD4gR4wJOg2blQYE/reviews/ChZDSUhNMG9nS0VJQ0FnSURubHNmTGJREAE
@@ -435,6 +458,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURudWVpZTF3RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURudWVpZTF3RRAB!2m1!1s0x880fd3a6f764b8a9:0x8141e566834e02e3
+review_summary: >-
+  What Guests Are Saying$$$Visitors often rave about the authentic vibes and
+  exceptional quality at this Chicago sushi gem, noting how the fresh fish and
+  creative courses make every bite feel truly special. Many highlight the unique
+  flavors and thoughtful pairings that elevate the overall experience, making it
+  a standout choice for those hunting for the best sushi near me. Folks
+  appreciate the value in the premium ingredients and expert preparation, even
+  with the higher price tag, as it delivers an unforgettable meal worth every
+  penny. Reviews frequently mention the intimate, seasonal menu as a highlight,
+  with diners feeling transported by the attention to detail and innovative
+  twists on classics. Overall, it's clear that this spot keeps customers coming
+  back for its top-notch execution and genuine appeal in the world of Japanese
+  places near me.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options:
   acceptsCreditCards: true
@@ -464,8 +501,8 @@ serves_lunch: null
 serves_vegetarian_food: false
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   An omakase menu with sake pairings is the highlight at this upscale Japanese
   eatery & sushi bar
 

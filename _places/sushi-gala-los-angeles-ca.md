@@ -1,15 +1,14 @@
 ---
 layout: place
-title: "Sushi Gala"
+title: Sushi Gala
 permalink: /california/los-angeles/sushi-gala.html
 stateAbbr: CA
 stateName: California
 cityName: Los Angeles
 seo:
-  name: "Sushi Gala"
-  type: Restaurant
-  links: https://www.sushigala.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=13754010678618380216
-description: "Sushi Gala serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: >-
+    https://www.sushigala.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=13754010678618380216
 place_id: ChIJbwC37EfGwoARDBM2QlVU3a4
 photos:
   - name: >-
@@ -170,7 +169,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c2c647ecb7006f:0xaedd54554236130c!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:00 PM'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -178,14 +235,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:00 PM'
     - 'Saturday: 11:00 AM – 10:00 PM'
     - 'Sunday: 11:00 AM – 10:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 10:00 PM'
-    - 'Saturday: 11:00 AM – 10:00 PM'
-    - 'Sunday: 11:00 AM – 10:00 PM'
+  nextCloseTime: '2025-05-04T05:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,36 +247,280 @@ phone: (213) 687-4811
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.0'
-rating_count: 0
+rating_count: 404
 website: >-
   https://www.sushigala.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=13754010678618380216
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Sushi Gala in Los Angeles, CA$$$Nestled in the heart of Los Angeles,
+  CA, Sushi Gala stands out as a welcoming Japanese restaurant offering a casual
+  dining experience with fresh sushi and flavorful bento boxes. The spot
+  features an inviting patio for outdoor seating, making it ideal for enjoying
+  authentic Japanese flavors in a relaxed atmosphere. Patrons can expect
+  accessibility features like wheelchair-friendly entrances and parking, along
+  with a menu that highlights top-notch sushi options and other traditional
+  dishes. With extended hours that cater to lunch and dinner crowds, it's a
+  convenient choice for anyone searching for quality sushi restaurants in the
+  area. This vibrant location combines affordability with a variety of
+  Japanese-inspired meals, perfect for those exploring the best sushi near
+  bustling urban spots.
+generative_summary: >-
+  Discover Sushi Gala in Los Angeles, CA$$$Nestled in the heart of Los Angeles,
+  CA, Sushi Gala stands out as a welcoming Japanese restaurant offering a casual
+  dining experience with fresh sushi and flavorful bento boxes. The spot
+  features an inviting patio for outdoor seating, making it ideal for enjoying
+  authentic Japanese flavors in a relaxed atmosphere. Patrons can expect
+  accessibility features like wheelchair-friendly entrances and parking, along
+  with a menu that highlights top-notch sushi options and other traditional
+  dishes. With extended hours that cater to lunch and dinner crowds, it's a
+  convenient choice for anyone searching for quality sushi restaurants in the
+  area. This vibrant location combines affordability with a variety of
+  Japanese-inspired meals, perfect for those exploring the best sushi near
+  bustling urban spots.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJbwC37EfGwoARDBM2QlVU3a4/reviews/ChZDSUhNMG9nS0VJQ0FnSUNmN3BQQVNREAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        A very nice experience overall. The staff was polite, and ordering from
+        the table-side tablets was convenient. The service was a bit on the
+        slower side, but the sushi made up for it—it was absolutely incredible.
+        The “Mission Roll” is a must-try and comes highly recommended. A solid
+        spot for sushi lovers!
+      languageCode: en
+    originalText:
+      text: >-
+        A very nice experience overall. The staff was polite, and ordering from
+        the table-side tablets was convenient. The service was a bit on the
+        slower side, but the sushi made up for it—it was absolutely incredible.
+        The “Mission Roll” is a must-try and comes highly recommended. A solid
+        spot for sushi lovers!
+      languageCode: en
+    authorAttribution:
+      displayName: Riyan Ali Khan
+      uri: https://www.google.com/maps/contrib/104501630756229422504/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUCJQkyP46TGC_rcCPLNubbMgLIEx8mIuANuwG-yOw1aCbjmaTQ=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-12-29T08:39:32.271534Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNmN3BQQVNREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNmN3BQQVNREAE!2m1!1s0x80c2c647ecb7006f:0xaedd54554236130c
+  - name: >-
+      places/ChIJbwC37EfGwoARDBM2QlVU3a4/reviews/ChZDSUhNMG9nS0VJQ0FnTUNvbjhlTmV3EAE
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        Loved the chicken curry katsu. The sushi was fresh. We tried the rainbow
+        roll, and it was good. Their edmame was also pretty large, which was
+        great with the drinks. Would go there again .
+      languageCode: en
+    originalText:
+      text: >-
+        Loved the chicken curry katsu. The sushi was fresh. We tried the rainbow
+        roll, and it was good. Their edmame was also pretty large, which was
+        great with the drinks. Would go there again .
+      languageCode: en
+    authorAttribution:
+      displayName: Arshia A
+      uri: https://www.google.com/maps/contrib/106818070866826838262/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVuAFfoNXNMHavMiUQ4L90-PE-9WaZrDEelvTum-x-v-OEEeitJ=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-21T01:37:52.112275Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNvbjhlTmV3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNvbjhlTmV3EAE!2m1!1s0x80c2c647ecb7006f:0xaedd54554236130c
+  - name: >-
+      places/ChIJbwC37EfGwoARDBM2QlVU3a4/reviews/ChZDSUhNMG9nS0VJQ0FnSUNmMVk2dWZnEAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 4
+    text:
+      text: >-
+        Definitely a go to spot for when I’m in little Tokyo with a group,
+        they’ve got decent prices on a good burger and fries. Their ramen was
+        pretty good and so was the fried rice. Never get a chance to try the
+        sushi out but I’m sure it’s great. Service was friendly, and bathroom
+        located inside. They also validate parking.
+      languageCode: en
+    originalText:
+      text: >-
+        Definitely a go to spot for when I’m in little Tokyo with a group,
+        they’ve got decent prices on a good burger and fries. Their ramen was
+        pretty good and so was the fried rice. Never get a chance to try the
+        sushi out but I’m sure it’s great. Service was friendly, and bathroom
+        located inside. They also validate parking.
+      languageCode: en
+    authorAttribution:
+      displayName: Aracely Constantino
+      uri: https://www.google.com/maps/contrib/101867725078498693045/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVUkWiuBGl0QTmzhKPoYFPElPWiDs_QU12YymHvYlzET08PMA=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-12-31T07:41:19.914547Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNmMVk2dWZnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNmMVk2dWZnEAE!2m1!1s0x80c2c647ecb7006f:0xaedd54554236130c
+  - name: >-
+      places/ChIJbwC37EfGwoARDBM2QlVU3a4/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfeTg2R3NnRRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 4
+    text:
+      text: >-
+        The service was good and the rice dishes and sushi were very good;
+        however, I do not recommend getting the ramen. The ramen tasted exactly
+        like the Nissin Roah instant ramen and was very bland and overpriced.
+        The toppings were basic and the roasted pork lacked seasoning. But on
+        the other hand the pork cutlet bento worth the price. It had large
+        portions and the food was good. The yellowtail hand roll was fresh and
+        tasty. Overall the rice dishes was good but the ramen was not it
+      languageCode: en
+    originalText:
+      text: >-
+        The service was good and the rice dishes and sushi were very good;
+        however, I do not recommend getting the ramen. The ramen tasted exactly
+        like the Nissin Roah instant ramen and was very bland and overpriced.
+        The toppings were basic and the roasted pork lacked seasoning. But on
+        the other hand the pork cutlet bento worth the price. It had large
+        portions and the food was good. The yellowtail hand roll was fresh and
+        tasty. Overall the rice dishes was good but the ramen was not it
+      languageCode: en
+    authorAttribution:
+      displayName: Pyro Lyon
+      uri: https://www.google.com/maps/contrib/102776739633274084781/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUx3_Jd-u0O5C29DnIkda4wT5ZqicUmMp_0fNvK5GGQ7IK5aW4=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-01-19T01:45:59.339777Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNfeTg2R3NnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNfeTg2R3NnRRAB!2m1!1s0x80c2c647ecb7006f:0xaedd54554236130c
+  - name: >-
+      places/ChIJbwC37EfGwoARDBM2QlVU3a4/reviews/ChdDSUhNMG9nS0VJQ0FnTUNnM3VPcWx3RRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 4
+    text:
+      text: >-
+        Came here for a chill lunch and they were the only place in the area
+        open early in the day around 11am. The atmosphere was good, I really
+        liked the music choice. Mostly ordered from the tablet, table service
+        was ok. Servers were nice enough. The plates were chipped, and I really
+        didn’t like that. Photo provided.
+
+
+        Unfortunately the food was quite hit or miss. The Katsu bento as
+        pictured in my review was quite bad despite good presentation; 5/10.
+        chicken was extremely dry, I’m used to ono Hawaiian BBQ for katsu and
+        this plate paled in comparison. Possibly was just overcooked. The
+        tempura that came with was undercooked on the other hand, and the
+        veggies were raw in the center. Not a good option.
+
+
+        As for the sushi which most of us are going for anyway though, it was
+        good. I especially enjoyed the tempura salmon roll, which was a stuffed
+        baked salmon roll with the entire roll itself then fried in tempura
+        batter. This was a delicious sushi and the highlight of the meal, a
+        8/10.
+
+
+        Lastly I got an order of the fried calamari and it wasn’t bad either, a
+        solid 7/10 fried crispy and tasty.
+
+
+        Overall the restaurant is probably a 7/10 for me. I’d come back under
+        similar circumstances and just stick to the sushi.
+      languageCode: en
+    originalText:
+      text: >-
+        Came here for a chill lunch and they were the only place in the area
+        open early in the day around 11am. The atmosphere was good, I really
+        liked the music choice. Mostly ordered from the tablet, table service
+        was ok. Servers were nice enough. The plates were chipped, and I really
+        didn’t like that. Photo provided.
+
+
+        Unfortunately the food was quite hit or miss. The Katsu bento as
+        pictured in my review was quite bad despite good presentation; 5/10.
+        chicken was extremely dry, I’m used to ono Hawaiian BBQ for katsu and
+        this plate paled in comparison. Possibly was just overcooked. The
+        tempura that came with was undercooked on the other hand, and the
+        veggies were raw in the center. Not a good option.
+
+
+        As for the sushi which most of us are going for anyway though, it was
+        good. I especially enjoyed the tempura salmon roll, which was a stuffed
+        baked salmon roll with the entire roll itself then fried in tempura
+        batter. This was a delicious sushi and the highlight of the meal, a
+        8/10.
+
+
+        Lastly I got an order of the fried calamari and it wasn’t bad either, a
+        solid 7/10 fried crispy and tasty.
+
+
+        Overall the restaurant is probably a 7/10 for me. I’d come back under
+        similar circumstances and just stick to the sushi.
+      languageCode: en
+    authorAttribution:
+      displayName: Robert Santos
+      uri: https://www.google.com/maps/contrib/107075761872440973420/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXelOd-ZvfvX_9RGmw4Wol_zUlNC2QztVDPoDCsy9wIFfK8OhU=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-02-17T17:10:48.722133Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNnM3VPcWx3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNnM3VPcWx3RRAB!2m1!1s0x80c2c647ecb7006f:0xaedd54554236130c
+review_summary: >-
+  What People Are Buzzing About This Sushi Favorite$$$Visitors often rave about
+  the fresh sushi and creative rolls that make meals here a standout experience,
+  with many highlighting tasty options like the rainbow roll and tempura salmon
+  as go-to choices. While some note that service can occasionally be a bit
+  slower during busy times, the overall atmosphere and friendly staff keep
+  things enjoyable for groups and families alike. Feedback frequently praises
+  the generous portions and solid value, especially for Japanese dishes that
+  pair well with drinks, though a few mention that certain items like ramen
+  might not hit the mark every time. Despite minor inconsistencies, the
+  consensus leans positive, making it a reliable pick for anyone craving
+  authentic flavors in a casual setting. If you're on the hunt for top-rated
+  sushi spots nearby, this place delivers a satisfying vibe that encourages
+  return visits for its highlights in fresh seafood and welcoming environment.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  paidStreetParking: true
+  paidGarageParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+curbside_pickup: false
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
 serves_breakfast: null
 serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_cocktails: false
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

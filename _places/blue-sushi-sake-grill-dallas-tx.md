@@ -1,190 +1,215 @@
 ---
 layout: place
-title: "Blue Sushi Sake Grill"
+title: Blue Sushi Sake Grill
 permalink: /texas/dallas/blue-sushi-sake-grill.html
 stateAbbr: TX
 stateName: Texas
 cityName: Dallas
 seo:
-  name: "Blue Sushi Sake Grill"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Blue Sushi Sake Grill serves delicious sushi in Dallas, Texas. Try fresh Japanese dishes for a great dining experience. "
-place_id: ChIJsYazVsKfToYRlfObICLBJ0A
+place_id: ChIJgyZt3SyZToYR_pQzQ3VNvqk
 photos:
   - name: >-
-      places/ChIJsYazVsKfToYRlfObICLBJ0A/photos/AeeoHcIIXgQAimbn9dJuLotsZCFn3AhWz5EndF2hvrkoXcw6bt78p92_Ea37g_c2dx40Eyo3DRdaVsCDsnxD9S6O1Mp1bfWxToj-1CNUjIKs4xomoyAzN7qtDH6MbNRYLYBJwQ8jUQv4VK9faEa5w8V08DfdML3o1FXBuLURUaJwuz_MqrgcsUVnFutv7VNt1VqJuY1T9m-O77W4pOPccufRrqXZDnBZwxHET3MIAL0Y9id9IPe6VdfWxOTIQt9Gdcrk9j38bhwknoGogVo-26fticRxM7FEATufHUTa_GhoCt382A
-    widthPx: 750
-    heightPx: 546
-    authorAttributions:
-      - displayName: Blue Sushi Sake Grill
-        uri: https://maps.google.com/maps/contrib/106659337858444225090
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjVJylcm9_DxRQcE5BAuq_sKtj5jNwxJnb9sSWq6MAqU_Llvs4Zn=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPNJuj3rWdwmAWNxEWMjuP8ND7DLC5dWbwNpnNd&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPNJuj3rWdwmAWNxEWMjuP8ND7DLC5dWbwNpnNd!2e10!4m2!3m1!1s0x864e9fc256b386b1:0x4027c122209bf395
-  - name: >-
-      places/ChIJsYazVsKfToYRlfObICLBJ0A/photos/AeeoHcL9lJ0VtuBEArboH-9PgJIg7SNBa2WUt-fC7GhjA0pSa_GkbAVsPG7iUrdWY6MHSKi3UARYLrDVvJ2i9R8k3r7kigBTRSdgvbBISJE2u4buHNry3ZsUCiNMEuAYTUFTiiayynjAVmQmCNhzkyIhVk0za2lT8hHyCe1D0yYFoDmOVShJQWWqCnXkW_WOqmC03cYFQV6Gk00DLji0-JqRqgSmr0sKUaPJ_299_0P-boPdv3w0i9mArB9EeJdGluMXDhXoiMe2N3uQ61HcqEceckvgBxqpFFbvgmrpLsDP-mXrAg
+      places/ChIJgyZt3SyZToYR_pQzQ3VNvqk/photos/AeeoHcKpXCH44TWp5w9qFdvWqfGp451JQtvwiedP1H_bGaNDIogdL2H0q2ZselRo-XU0ssTit1woxBUxegIUoG9dSwKfNJos-bP-7lCKPo5oouMiXTihP7pXIE2riurAjMOsOhaehpAOf-HWKhUcntaqaiNyl0q9yPc-bEdQ2LpgU9SeR-G33CHzP3DLfchaEjK1coHLUk9SJN4qJzlLGI_RyxlZGng6aK8dEXEnKR-rWClHiNhBzlCkszFPxpyD0FBt0HF9xUlp0KmjpMH-AG-SpItaks9itTI0NFhZQC16w6j_mQ
     widthPx: 2048
-    heightPx: 1365
+    heightPx: 1536
     authorAttributions:
       - displayName: Blue Sushi Sake Grill
-        uri: https://maps.google.com/maps/contrib/106659337858444225090
+        uri: https://maps.google.com/maps/contrib/106742567110368497532
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjVJylcm9_DxRQcE5BAuq_sKtj5jNwxJnb9sSWq6MAqU_Llvs4Zn=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjUavX9DffeI7_d0ljRiyPW2y_mPoyiqJUrnDWuhU20Q8m-TsHmc=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNY_iBEL69KxviNQ8Z812WvuXqplp9AD0f8F-67&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOkYEgx0SYPpeWUqMYdoRAbF-YRcDSHKNv88jiQ&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNY_iBEL69KxviNQ8Z812WvuXqplp9AD0f8F-67!2e10!4m2!3m1!1s0x864e9fc256b386b1:0x4027c122209bf395
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOkYEgx0SYPpeWUqMYdoRAbF-YRcDSHKNv88jiQ!2e10!4m2!3m1!1s0x864e992cdd6d2683:0xa9be4d75433394fe
   - name: >-
-      places/ChIJsYazVsKfToYRlfObICLBJ0A/photos/AeeoHcIqx8HZEIZBINvWmYuO-c9DI5KAy4HgplaipU39qfQnZ7kbXPq2G0yGa5W9TaDjWYJ2j83EAG7poIWwjIzlziIdXFDqCx_6IUdtN0jdHWohGfZ3AQ3vXeaOtTotJzlRgtX9_peiGEIaY2kb02oErKig5IMqpi5oxUAZbDbDhHw2gF2s1vUx-FWNQR1tPuhAjWfWOcKLFNGAqZxRxO1WXa86UH6S9labmq309ZGcEK2XjWJ3Ek_th43i_X9Z7qwwyPCMUs-3zQ4u5X9rmKgufzCqKAtbO6hyiMjOQI_ClX2vRLYw5fv0fX3ws8xNqq4FFtpCQ1DkIDlj3Fjt2O3YCoqGtBWqXgjvjiKk-fo-d8QhO-kmCLIKTnflEqWMPyGoe6JbtVEN2ekfyWZ69JbrCYydLQ0SNNjFMzh9c3jvvAw
-    widthPx: 3024
-    heightPx: 4032
+      places/ChIJgyZt3SyZToYR_pQzQ3VNvqk/photos/AeeoHcKjpK0BxNiGyaTrp9bLubqGKhtpyyQu0Xld1_6g-MH66CxH7-5LKiRvXUycK1_b99-9lYK8JzRI_dE6sYQG8E46Je17ieRDSOXkx2uTt0nhiMnU6XJACD7FGxmFJJathT6crPGQIawFDxcxwgKM98PEmE_x65v0NLJBblyUDzbDQlVEQ0NJyrU7HA743dcGf5q1dZiwPE2bGhDsvlnvOMsnTdwlladc7bdcHO5zRQE9TXUFw2ib0Qh4NbihzN40ZzWu1otbU6Z1rV1ggqcP8jrTz6RlE5zghf56uTrsjVsB68iHOS4TbpOI7Fqs1LhR5wy2H18ssE7MgF3ulVMu3LSfS3-QKM1Jf4Uld-VXSVMAAU9EJs5HdcCRlvFljntaySBOydaX8zuuuiWiZI__rbLvT3AEgP2wE2o6gcvkKKAmW0M6
+    widthPx: 3000
+    heightPx: 4000
     authorAttributions:
-      - displayName: Thiziri Hadid
-        uri: https://maps.google.com/maps/contrib/110633735368613357591
+      - displayName: Saucha V Doan
+        uri: https://maps.google.com/maps/contrib/102057231949202920680
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjXQBVnkrju9SyDCDbzz7n0kzeX7kuONwmQzItH-siOMzIq6iHwMQA=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjXw12xu3K38R92p-vR5FasK0oENoHdYVjOm9QdLTmfc3zjPe9C5Sw=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDwspmGXw&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC736DqzAE&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDwspmGXw!2e10!4m2!3m1!1s0x864e9fc256b386b1:0x4027c122209bf395
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC736DqzAE!2e10!4m2!3m1!1s0x864e992cdd6d2683:0xa9be4d75433394fe
   - name: >-
-      places/ChIJsYazVsKfToYRlfObICLBJ0A/photos/AeeoHcJrARXKUBEtBCNVfQYAshabUGzMkeyHCHwaDERZVKRLJIsbkBKJOfgZ44MOvOI9foRlVcqveNer7Gx1OX229x7G_DisMBkjFz8WZ7EP_F747eV1EDbr4cObCwudmZogTExpUUzZaOBIHyBhFNh9643JCfkHBcaVfyZf6TYLvaIBnIALgqGQ_rHcir6BPNme7Hu2Kg20f_PV9GxEVutsDUuSAE2IPKU3rdobctuJFisK0OXCnJBbBzyHkNT3B3LlU7vsWvPB1YaamVlk6K4dVNmxaki3JYfKI6Emt4j2d86QsN3y-mrLIoEDxIt-FGnh6Wxqrn50HZDq9Q3zmthteOY4tCLOFSnxnOJMMbw6USTWa2ER8gmg4cuHnnN73iNsMJ_8QHZV33uLxyZl9UBzr5mvsGfqX_CysDtjYeUhgdektg
-    widthPx: 3412
-    heightPx: 3653
-    authorAttributions:
-      - displayName: A M
-        uri: https://maps.google.com/maps/contrib/104846322378350980994
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjUE0qpkFz1nQv1cYo-PCDtmQqfVH6G7JNQGBuOVnXtKG5J1JtuC=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDHzvmyGw&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDHzvmyGw!2e10!4m2!3m1!1s0x864e9fc256b386b1:0x4027c122209bf395
-  - name: >-
-      places/ChIJsYazVsKfToYRlfObICLBJ0A/photos/AeeoHcKlk9czrw43C6DZKDXTyIuhldFUdI25swHDQufctF-S_Au3qOlUJmPSK6vfhAHq_4qfxyznXmxJplno7Q1DKrQd2FcBPe-sDDvT0R_0J6vXGfsM21-wtXGKr2_od6-9GzAr0dsu_Y-FjgBSsUUubZ5JqkJ5kSxOVYGApZ0sGBHXHTvVGr_b98HeNeSiYm1XZicCwEBuS5HQWLJ3pwBFoDDt5PfHmunDG0f21CHb27Hq3vFAge0J-aLewicixv-2PLhtv4TBBlzfwVluJa9mWtMeQC-jjjmzMiemIfAjgtWW-HnNgV6HIVztkuSEDPOJe7W1zYWsLrg75_3mDHOg4AnTLC_UMY687R841w3E4wqOaQhynDzKKbckDpt3Zz5cUYEKHeNEFcagHQu7nJceJTUvbsMMQxhfOkD0goVBuH8merTk
-    widthPx: 1536
-    heightPx: 2048
-    authorAttributions:
-      - displayName: Pratik Patel
-        uri: https://maps.google.com/maps/contrib/110682701567451856982
-        photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocK2qaLlt1RAQtJJ7OBhi3fjjiSX7DyeTmDzhiHwhjrUGI8spWw=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCIi9LZlAE&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCIi9LZlAE!2e10!4m2!3m1!1s0x864e9fc256b386b1:0x4027c122209bf395
-  - name: >-
-      places/ChIJsYazVsKfToYRlfObICLBJ0A/photos/AeeoHcI5mjIzTzWWxMUx3v10gTVkkHOj_34KnseQoK8XPwefLiSZs-AnertRlsPuXGhcvhQ6Ix9sP4hJDvY5_IUTDu0KOlS1NZcnT5bRj0NDBGzyaxl6JvRjrQ_ABHhY4AHpk6vDk3oIUJXwu5d0SxkDUi_R-W6sxnfzXEkIWfG7VGcY8acG5zazT80VW-kMj3IJoY70q9yWUmyJgwzs6yWvBnn-chtyfGr5BDTNInMF_8v-fzDetATMSUDZKSFfIV9w6y6kcnMQzYzI1Cc88mlZfqmimf8N5NU-RtiW9uplQWujbTUaMhBItsMkCNaOiB_M7XtJMsLN7xIQHsu0LQrYDBEwfBhgZdlkzyUvIuOZ8XyQFGNdF04D3suMUVpkxwlb44RU-0zUxSnxDSIEICBvI8uaprdPnrKDowYsVRA9ReE9eN4
+      places/ChIJgyZt3SyZToYR_pQzQ3VNvqk/photos/AeeoHcL2v0Dtcdib9IbZZmTPZnlXukzvHZJREkndlNqzdB0Qwg3gf_50neG28J0WGrAzVykMKMCm47QgAam2s_3proDNnrw0oA2fWiqFwlFrJjX7rQZvOqbpQewmngX2v88cH3hI8BE2lK8ATZt4Pah2OqhCPm649EU1lI0Rayw5KpqHdtiFTGUZ2lezjfxvNDHpTJa2FqtNf3Km1cPi-0hHv0y1t7tWN8F2YHhXHabsfh-ZADfHGwsWV2DejYFI9Q7wi3yaQJ_WY37XLmoGngbDvN3_abKl8Qdy4cohUgPaY85FTFC420l1rJ7NBOo4KRttwcrfXtwkRLwUCX8VT7I62pBcOCPksLjMpgKssxycNZHBEojYXXhdEzh0sl_37BYC6Uvyll_Hl3QKS52_cYKLCKlmCDJsnQlckhcbhlUmg51A2c8
     widthPx: 4800
     heightPx: 3600
     authorAttributions:
-      - displayName: Irving Ramirez
-        uri: https://maps.google.com/maps/contrib/114851614888963287025
+      - displayName: Ron Paul Geri
+        uri: https://maps.google.com/maps/contrib/109744993763477519958
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjUp_WgNPeDIHhBHAE7PedppqkTvxaYpntvHRwnGzU54OCAv0Twd=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjVgbjWyV0cXRxz_H8I6vgsmYv3m4BzFwxsLCBDdkgo5t38TzqA=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDez6LAlQE&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDAxZjn_QE&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDez6LAlQE!2e10!4m2!3m1!1s0x864e9fc256b386b1:0x4027c122209bf395
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDAxZjn_QE!2e10!4m2!3m1!1s0x864e992cdd6d2683:0xa9be4d75433394fe
   - name: >-
-      places/ChIJsYazVsKfToYRlfObICLBJ0A/photos/AeeoHcKUQ88WjykGxftW5I3qBFBJ2lRQ4CcPLtGdwgDtOQOwy8NN1lUKOCSTz1lNq11BrL5-Qvycenl0JHWknHV_K3zaRfl2Pz1uLpyuGsImPynPZIuioy64ZeFZ9q1Ykej_mEUapjDdQci3L1DVo0q1r5BIy3DFJNYOZqWx0MSiqHvP1sEmHzlsRD_YCBpm3KvtxOtiAyxnsYYHX8cnKUZs6XliupncwLZ4wAqvpYr5Oat3P_ASaeFobvRGPc9I0P_7gQhoU88ALCFfr5JUwvNrzx8cUX-par08blSsGC6m77gPbtPu-IZkhacp_4ZkZxkDW8QydjqFDWFSt1ITrCSRufHBnncWwst-oCobSW8N183wovpPgq2LSg3FAe5rRF4qXx5o6jKq_yREmoHn8BIPuxWxAsUBj5IPkIDv_-TWvdCAlsA6_zjdIC4e6FrjtdiW
-    widthPx: 4080
-    heightPx: 3072
+      places/ChIJgyZt3SyZToYR_pQzQ3VNvqk/photos/AeeoHcI8utSuap4zsYKiIq2YrcVYoKNinO4si8r6d9bBEIQoHd1uICcft35c9nuJIQaBg_HATHeG8YBQmc7R4F6gF68dLrvDZOYVeAlbd8kmh4WxlX2gTXYpl-vK9Au91ziphjVWoDV7t8Jszgc4FYZqnCMaALVcQDn7D8k_f_ijgkLKNYS-tw1Ufq0ZD81TuDae9vdA_DXtM9FOpZFr6YeVsaIwyJ8tv1zQHwkf9ZGIbDak2KGfPHK4rFYpnXcxEZjMK4YAEZZ7ni8YdGMEJg1Je1dm5tRp-lZgyK9P5EanWjAyVB59oIDiI3VLLrGEW8TuKgKmGjSYWkmfWLm2fk19M4EqVyQcf9ipZMUU-BBmPS7yGHkGY7-uOu1lYsui5RpvvGdweYfKEr_OQMCQMo4qRAZopxV2JkQbb9jkLpBVVuw
+    widthPx: 3024
+    heightPx: 4032
     authorAttributions:
-      - displayName: Mclovin
-        uri: https://maps.google.com/maps/contrib/104334064449729043243
+      - displayName: Ron Paul Geri
+        uri: https://maps.google.com/maps/contrib/109744993763477519958
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjUjJLkpQyY8UM7vLMXK0Sxlyo6wPt1uMLO7heM35DsOHYnfWueKyQ=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjVgbjWyV0cXRxz_H8I6vgsmYv3m4BzFwxsLCBDdkgo5t38TzqA=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhAA3ireqT2awWee6r8AA_Np&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDAxZjnAw&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAA3ireqT2awWee6r8AA_Np!2e10!4m2!3m1!1s0x864e9fc256b386b1:0x4027c122209bf395
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDAxZjnAw!2e10!4m2!3m1!1s0x864e992cdd6d2683:0xa9be4d75433394fe
   - name: >-
-      places/ChIJsYazVsKfToYRlfObICLBJ0A/photos/AeeoHcInFCwyIHWyrdhtJGsbIQzFyX-mchZdzsKyOzAIy1W5IOIC_W_ec698AaFMejN7q6nz6EYOJwz8AE3xgeF7nGHWkMgMhKQETdZzvvxgspwobAxqAB1hwE6o8NB9FVMFcZOd326BgyXU5Z9XP6pd8u4kAd7WHOdRNYIHuQsr8qwvlykZdpUYaybObcfULIU58rMOVnxfjWGui64Q4eKKm7UT_hETcgvf3CyE216_ScRntRt-m6WzOXHLmq8p101gq05HyuoSX4L2hFR3ajtxX7TN0i6EsZHrLAKava9mGTisy7XSu4gP5Bz_8MceM90pUNRHsrLQ0nR_o0CtvyJZYjdZ7iodVixC-FZzOJfZNAprHw9bEhpREBo-Bp4R8d16likZYn3DZO8fbKVg9VVO2NqbAA-VeKaORQ8FMiyTD8KYnQ
-    widthPx: 4000
-    heightPx: 3000
+      places/ChIJgyZt3SyZToYR_pQzQ3VNvqk/photos/AeeoHcL4MloVXlU7yjNAMez1nHi6cXoeEtaFYK_plWT8_nks05uDTe5CyIs3xfsgHRi9NAtqBMh5C2QqGGlVvYEJcPlpqfTTOIUSozVZCpCJuVfujJq_LtzgD7yLAehPQk46y3oX16fwLcGiMYadk9V7Bsyndbq10Mgwrbyu_gGFY2FHmW3Pna_aIJUn28WRVzScPNq84vraj2vogWqPcaO6HaZZc-i8968_YBjt6CqhNI7P2_jXAC-Oy0g6kJdEVEMZq8YuuS1tHX-Vs7DRBEQc-p87IdgdLfI-vTwff3sI852rtpTUV7uPgcD-FxPXifDzXUU35TF5072ZfhgeFdH-_prJZ9tPlKw7uHxbJbMOIzmHziDIzjxswPsiySJ5DLSsBFhgI8VFkabrxQ9_wsIVmA3QpjMWkpt4hCr0TdmElrstTnxG
+    widthPx: 3024
+    heightPx: 3024
     authorAttributions:
-      - displayName: Anh Tran
-        uri: https://maps.google.com/maps/contrib/118119320574894035603
+      - displayName: Chinwe O.
+        uri: https://maps.google.com/maps/contrib/108909206416844967685
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjVUKCsxIU-O2GzBFSsS99Jnf26sPlFu7q0cr7SgZn8jOIK54_US=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a/ACg8ocLGddeBLFw3vp48yJhuNoxRZAvCi1U9QrrTtN4D82Zl3v4EEQ=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICp7fOEOw&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICx_9HMygE&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICp7fOEOw!2e10!4m2!3m1!1s0x864e9fc256b386b1:0x4027c122209bf395
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICx_9HMygE!2e10!4m2!3m1!1s0x864e992cdd6d2683:0xa9be4d75433394fe
   - name: >-
-      places/ChIJsYazVsKfToYRlfObICLBJ0A/photos/AeeoHcJ-4SdIAQmNeLqDGfSJiZi-nrY0KBCQ9MqhSR8FLsOs9UxKQk1YVDBHHWpLk41JpCbtPooTHAhwebk9iMpKO0bdURKG9w9QfZtAYBhSxs4NeBYuMfqT2vC07sKpOH4or28inqlAQ3KkDsDnzMfdrBtS9S4F0qOhsFo8dn0yLwcyPMPT09vAuK0cVbTv0OMMDQh9XYJ7lGG_dQ7bh6I24dqodLzo1EpT4l5X5HMC2_ZhEElN0bos-5etSB9OFHpX3nWulTmhWI4cXijQnmWHss5RSByaqX0Dt-ChghiMgrXTfmHQYnDrVZe2-fDrHxk1ijIwiii1YxzLS_abdgHME1XGB9zc-cV9pKuxli2MP_tVWIvPJiSnLy1rzspd3cwzpspLQUytYRqUDs8z1s8jIRn0qpvl7dhg8SDi--hKVIAOOatMVBTjFX_ZaY-fEfCp
-    widthPx: 4080
-    heightPx: 3072
-    authorAttributions:
-      - displayName: Mclovin
-        uri: https://maps.google.com/maps/contrib/104334064449729043243
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjUjJLkpQyY8UM7vLMXK0Sxlyo6wPt1uMLO7heM35DsOHYnfWueKyQ=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhADydmY9iNXCWee6sMACl86&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADydmY9iNXCWee6sMACl86!2e10!4m2!3m1!1s0x864e9fc256b386b1:0x4027c122209bf395
-  - name: >-
-      places/ChIJsYazVsKfToYRlfObICLBJ0A/photos/AeeoHcJtQDTQE3StNl3yRyIcRcEnddXN4Y_JjRwu6IarxbIrvEwdcaROYP2ocl1iTZ61wtpdfJXxx3KnVaRJOiyJ2pOZ-i4rqnSULHJe1jONjtTcQTF6eiBZlN6AQIK68NpXUciMrHDFYxv3vGh_cFM4H4Wf500e_mmtB5-J8XS0qlq7dx8bBIuiwi8fMt36jFV-mNmeMaV4-p4l0BnTnxySDUO3PAeQUjn5l8E5D3sgtcBKBDRuo6VrqwoJ9Tf8fYEQuEiuosw1qa21hzpDFl-TFI3_VSw6F4n5aGWAiioIWxfs02KEMjcXYUZOr5YU1bAZnaZKIX3htykFb-ORiXlZqVkDUzrFCHA0Si8G5wkU1-71NTSWcHkU4WJ5_NPJ82zzFoqLf2zRw0jx6XotHEk2FkyxjeGvNf41Ua3zmlZccQLUVQ
+      places/ChIJgyZt3SyZToYR_pQzQ3VNvqk/photos/AeeoHcIq8VMqTbdQSxXL1xogG194qbfMzyrm6PQ2nu9gf2C0EOO9Mqi1VHJl9pp2_ot3jp_7jMrBDNJxTLv33iVQjxd2SslPV-KBJQLy5eJ-02L57gchE7SMe-HSzcjwNMr6-cmA_HuQCpvvYkJQsbIEAhj6q3WyZ289XCdKN4eUfFfHNwzW--jmyDjicn2aBxJm9Cfm2LNinRsXW8plkj_wHygpiQjMgGs6G25EHSNS5kVSI_N4wwRmRFIDWLgRfZQTaTT24nFFZ-9ONfpxXNoi9hhSdnl3bcgWcyWb3--jIItdW9KmFuKF5rhosC9MVX93JDcVxKSFbLr_CsII7RloCDBkN9ACOaZ1yHKBDZiEMRQ957HfP9YfOBqUe_zCgrZTop5ULcYlX3J40HyEw41bcBREaHzQkmqBZrk_DRtSHGQ
     widthPx: 4032
     heightPx: 2268
     authorAttributions:
-      - displayName: Kathleen Valerio
-        uri: https://maps.google.com/maps/contrib/112625629573355357534
+      - displayName: Guma Um
+        uri: https://maps.google.com/maps/contrib/103074737605465273658
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjXnBxC0X_5NPB-W3lN8QEDaJ5Bxn9ExPJ7NwTviYu95sVY6l0Xi=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjVQpDkZ11bl2-YdFb8_VXbVChQfKU1yblcezS9vvTX1ELN0eQjz=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICT4bOYZg&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDRjfigRA&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICT4bOYZg!2e10!4m2!3m1!1s0x864e9fc256b386b1:0x4027c122209bf395
-address: 7859 Walnut Hill Ln STE 180, Dallas, TX 75230, USA
-street: 7859 Walnut Hill Ln STE 180
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDRjfigRA!2e10!4m2!3m1!1s0x864e992cdd6d2683:0xa9be4d75433394fe
+  - name: >-
+      places/ChIJgyZt3SyZToYR_pQzQ3VNvqk/photos/AeeoHcKDEXJ6Wr4szL7AyP9M2e8ihbS8rKSi1GZJlqPoLEvMDZLPcscpz1MbWjbYyiaTnR_zShr3zvo1w2lgoeo7U3ca9uzRvNe0KqBCHYWhcJdO1jqFP0dRTf-hG44_93ssNJLxegC8LQN_WBhWnobuOSarheJpwXGrrOZ2MeSl0SgOjAIH-GyPBgM40LMxWNwDTm9DRqs4tRKdyX6gWoDSTAGL4UjpcasUkawdP20ciQrmgqGFTYkEhdEuiJ8yDysFdqbQVF0NXWk2zsepBZXIT9aa9ilaG57pPcyUjrY63HtLheIDFVUOsMTzw-ZjLn92UzkvSE98j-W4FmCw8WHZ1aRFPLSz7aEPRZ93SBiUMKqap7Uu4FosZ9V0WPrcVR9Fl1QCNx2764NOwlLN7Pv6_oYi1_qnrkgACyqAHK-TuRrqwhru
+    widthPx: 4032
+    heightPx: 2268
+    authorAttributions:
+      - displayName: Brian Timberlake
+        uri: https://maps.google.com/maps/contrib/106384611440017747638
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjU9XiTXm9MluBj5QkjibdFARMgICI0hUJ-oo7mXPkIin5YA7xca_A=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDns9PqhAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDns9PqhAE!2e10!4m2!3m1!1s0x864e992cdd6d2683:0xa9be4d75433394fe
+  - name: >-
+      places/ChIJgyZt3SyZToYR_pQzQ3VNvqk/photos/AeeoHcJpdc_PPjc1moz7_wFvij0mUrcbxlYbc7gU4DFCz8zsKNE5yBCuDfn6F7UszV3jiX6zE9CK_3DNhYbck5DI00Lh3a0mFDvywWxA0LIt8r7NvCJiVL8poSwyrcfl5EwwdJ4V6RtngdaAe7WOSp9a7cn2otvryuKgNdDdpXg-N4zw2SHTlqjDMRUPGpTg_Ro-5O1UDPGTH4cKFBgXFd81gEd_wE6DBgzERNqLOT2YFiO2NSuppwvGyLaxYYM57o14SZicGqVI8ZiiXqKmiQitW8GpwcBGkTbEJLjGjjV7gsfIWKV98mAKacJW5iu8C2OYrrYNG6LoK972GkOpnKtCsHVQPQWSsp2kY096xNe6jt_Mb49UotTUoSBJKK482nPVhdh5RYhEavUbvJm6WHMdAmka6LlWdmv7xvP0qfRK3nb9alg
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Ron Paul Geri
+        uri: https://maps.google.com/maps/contrib/109744993763477519958
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVgbjWyV0cXRxz_H8I6vgsmYv3m4BzFwxsLCBDdkgo5t38TzqA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDAxZjngwE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDAxZjngwE!2e10!4m2!3m1!1s0x864e992cdd6d2683:0xa9be4d75433394fe
+  - name: >-
+      places/ChIJgyZt3SyZToYR_pQzQ3VNvqk/photos/AeeoHcL0jhKt_WZw9Neo3pGZVQUqK2SCXEyX2tsUap_Qq6PSPL9SzOkexpeuZYjYox9oRGRbHiOarBmBsjbiAgB0v4eqBidb9M5xxIlbFCnOnGuw4E8aKnficC43eD_9pRyB8TgxrS4hkX__48kHBQ6WKPC9376L7Q_BBZiCBTMVMplG3JclXOfsV2ohXYp3MKO_NNDA4JseIie8EtJOeuTP9msRMCUfYl2JPg4vx2Y2n0C2rrWhuQ2qCoEV6XM-MjVar2A5C8_Xe6g4wRHonzSAW1X7hkJ-d7aI9fmnqwMSS6Qs9t0e-83ULboijacBPlpqUUVeIfETAKDPsgimftq5oMLLTK0vSXkcyMBKVs5WwBnJKF-6XGruf4PdcfQ1jB6pscHD-U9UDnIpVZogwTC0SGxFKSMybqNxx76uCNuKV1w
+    widthPx: 3468
+    heightPx: 4624
+    authorAttributions:
+      - displayName: Philip Suomu
+        uri: https://maps.google.com/maps/contrib/117181085389567518941
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWTFpnttLGENn_XEL9D7E_JV3Bk1lFuBYa7PJyJTGjmqv66wmw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDx-eWXLQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDx-eWXLQ!2e10!4m2!3m1!1s0x864e992cdd6d2683:0xa9be4d75433394fe
+  - name: >-
+      places/ChIJgyZt3SyZToYR_pQzQ3VNvqk/photos/AeeoHcLS4uQKymyxFp4ZzRNf2Vx2N2Bv3VZGBO6w2gUqSDxQIozu6uNKd2PE6dZ4S03Ex5NzKDzuoP_76RP-TQfKl9x9dIokDyHTZLO4qNoocYu6CAKGkmTTy2MPtQW4Rnq1UWzZzGS3ABGC5ekCoa9BDm7wtbwwCAPsRZfCses9rmaXiFWSG_EZtP51xmXcCErSpIDG5Qn2IGxewpcwOgXj4j87hCJ23nxN6Cz6UmfmjG_s8nCF2tm1YYM3evEeolgM7c_PdUJrn_LfLwIq4IyeyxR_a_emyinyo_Wk2yQYkbOq64WJa9mk-RsRo_NwZ8QC3HSEaRESEmFPyzKJmnra_5YYo20ZbKHiLWrUzJJFWveD0K7Vm1FdQiaqTiM2eHNuuH6dfBzd1J3U27uo3zLQsYqMUFpUlXFkUmzoS-u4D6yxPdw
+    widthPx: 4624
+    heightPx: 3472
+    authorAttributions:
+      - displayName: Monroe Timberlake
+        uri: https://maps.google.com/maps/contrib/100059592837407022969
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWK98IL-vNc9qHQVtDbg9Nn_2qt7qKgq1U1XlCgCrTH67d93CEr=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC3sOfb4QE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC3sOfb4QE!2e10!4m2!3m1!1s0x864e992cdd6d2683:0xa9be4d75433394fe
+address: 3220 McKinney Ave STE 100, Dallas, TX 75204, USA
+street: 3220 McKinney Ave STE 100
 city: Dallas
 state: TX
-zip: '75230'
+zip: '75204'
 country: USA
-neighborhood: North Dallas
-latitude: '32.881347'
-longitude: '-96.772917'
+neighborhood: Oak Lawn
+latitude: '32.803025'
+longitude: '-96.800022'
 accessibility_options:
   wheelchairAccessibleParking: true
-  wheelchairAccessibleRestroom: true
   wheelchairAccessibleSeating: true
 business_status: OPERATIONAL
 name: Blue Sushi Sake Grill
 google_maps_links:
   directionsUri: >-
-    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x864e9fc256b386b1:0x4027c122209bf395!3e0
-  placeUri: https://maps.google.com/?cid=4622875894839243669
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x864e992cdd6d2683:0xa9be4d75433394fe!3e0
+  placeUri: https://maps.google.com/?cid=12231298804018812158
   writeAReviewUri: >-
-    https://www.google.com/maps/place//data=!4m3!3m2!1s0x864e9fc256b386b1:0x4027c122209bf395!12e1
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x864e992cdd6d2683:0xa9be4d75433394fe!12e1
   reviewsUri: >-
-    https://www.google.com/maps/place//data=!4m4!3m3!1s0x864e9fc256b386b1:0x4027c122209bf395!9m1!1b1
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x864e992cdd6d2683:0xa9be4d75433394fe!9m1!1b1
   photosUri: >-
-    https://www.google.com/maps/place//data=!4m3!3m2!1s0x864e9fc256b386b1:0x4027c122209bf395!10e5
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x864e992cdd6d2683:0xa9be4d75433394fe!10e5
 primary_type: Sushi Restaurant
-opening_hours:
-  regular: null
-  current: null
-secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+opening_hours: null
+secondary_opening_hours: null
 phone: null
 price_level: null
 price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Blue Sushi Sake Grill in Dallas, TX$$$Blue Sushi Sake Grill in
+  Dallas, TX, stands out as a casual dining destination offering fresh sushi and
+  creative Japanese-inspired dishes. This spot caters to diverse tastes with a
+  thoughtful selection of vegan and gluten-free options, making it a go-to for
+  those seeking inclusive sushi experiences. Paired with a variety of beverages
+  like beer, wine, and cocktails, the menu enhances the relaxed atmosphere
+  perfect for casual outings or group gatherings. Located in the vibrant Oak
+  Lawn neighborhood, it's an ideal choice for anyone exploring top sushi
+  restaurants in the area, blending accessibility with flavorful choices that
+  appeal to sushi enthusiasts.
+generative_summary: >-
+  Discover Blue Sushi Sake Grill in Dallas, TX$$$Blue Sushi Sake Grill in
+  Dallas, TX, stands out as a casual dining destination offering fresh sushi and
+  creative Japanese-inspired dishes. This spot caters to diverse tastes with a
+  thoughtful selection of vegan and gluten-free options, making it a go-to for
+  those seeking inclusive sushi experiences. Paired with a variety of beverages
+  like beer, wine, and cocktails, the menu enhances the relaxed atmosphere
+  perfect for casual outings or group gatherings. Located in the vibrant Oak
+  Lawn neighborhood, it's an ideal choice for anyone exploring top sushi
+  restaurants in the area, blending accessibility with flavorful choices that
+  appeal to sushi enthusiasts.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Feedback from patrons highlights the appeal of Blue
+  Sushi Sake Grill's fresh and varied sushi selections, often noting the
+  welcoming vibe that makes it a solid pick for casual meals. Many mention
+  enjoying the inclusive menu options, like vegan and gluten-free dishes, which
+  add to the overall satisfaction for different dietary needs. Comments
+  frequently praise the drink choices and laid-back setting, making it a
+  reliable spot for friends or families looking for good vibes. While
+  experiences can vary, the general consensus leans positive, with folks
+  appreciating the straightforward approach to quality Japanese fare. Overall,
+  it's frequently recommended as a worthwhile stop for anyone hunting for
+  reliable sushi places nearby.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +235,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

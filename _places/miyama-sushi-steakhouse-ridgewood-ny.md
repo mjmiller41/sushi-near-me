@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Miyama Sushi & Steakhouse"
+title: Miyama Sushi & Steakhouse
 permalink: /new-york/ridgewood/miyama-sushi-steakhouse.html
 stateAbbr: NY
 stateName: New York
 cityName: Ridgewood
 seo:
-  name: "Miyama Sushi & Steakhouse"
-  type: Restaurant
+  type: restaurant
   links: https://www.miyamany.com/
-description: "Miyama Sushi & Steakhouse serves delicious sushi in Ridgewood, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJVTt_AV5dwokRp20H8tjdav4
 photos:
   - name: >-
@@ -169,7 +167,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c25d5e017f3b55:0xfe6addd8f2076da7!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 22
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 22
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 10:30 PM'
     - 'Tuesday: 11:30 AM – 10:30 PM'
     - 'Wednesday: 11:30 AM – 10:30 PM'
@@ -177,14 +233,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 11:00 PM'
     - 'Saturday: 11:30 AM – 11:00 PM'
     - 'Sunday: 12:00 – 10:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 10:30 PM'
-    - 'Tuesday: 11:30 AM – 10:30 PM'
-    - 'Wednesday: 11:30 AM – 10:30 PM'
-    - 'Thursday: 11:30 AM – 10:30 PM'
-    - 'Friday: 11:30 AM – 11:00 PM'
-    - 'Saturday: 11:30 AM – 11:00 PM'
-    - 'Sunday: 12:00 – 10:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,9 +245,46 @@ phone: (917) 909-0833
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.8'
-rating_count: 0
+rating_count: 229
 website: https://www.miyamany.com/
+description: >-
+  Discover Miyama Sushi & Steakhouse in Ridgewood, NY$$$Miyama Sushi &
+  Steakhouse in Ridgewood, NY, offers a welcoming spot for enjoying fresh
+  Japanese flavors, blending casual dining with a selection of sushi and noodles
+  that highlight the best of local sushi restaurants. This establishment
+  features comfortable seating and accessibility options, making it easy for
+  everyone to savor comforting dishes perfect for a quick meal or relaxed
+  evening out. With extended hours that cater to both lunch and dinner crowds,
+  it's an ideal choice for those searching for top-rated sushi spots nearby. The
+  menu emphasizes quality ingredients in comforting fare, ideal for dine-in or
+  takeout, ensuring a satisfying experience whether you're craving something
+  light or hearty.
+generative_summary: >-
+  Discover Miyama Sushi & Steakhouse in Ridgewood, NY$$$Miyama Sushi &
+  Steakhouse in Ridgewood, NY, offers a welcoming spot for enjoying fresh
+  Japanese flavors, blending casual dining with a selection of sushi and noodles
+  that highlight the best of local sushi restaurants. This establishment
+  features comfortable seating and accessibility options, making it easy for
+  everyone to savor comforting dishes perfect for a quick meal or relaxed
+  evening out. With extended hours that cater to both lunch and dinner crowds,
+  it's an ideal choice for those searching for top-rated sushi spots nearby. The
+  menu emphasizes quality ingredients in comforting fare, ideal for dine-in or
+  takeout, ensuring a satisfying experience whether you're craving something
+  light or hearty.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Folks rave about the tasty sushi rolls and
+  appetizers at this Japanese eatery, noting how the fresh flavors make it a
+  go-to for anyone hunting for great sushi close to home. Many appreciate the
+  friendly service that keeps things upbeat and attentive, creating a relaxed
+  vibe that enhances the overall meal. The spot gets high marks for its clean,
+  comfortable setting and solid value, making it a smart pick for groups or solo
+  diners looking for a satisfying bite. Overall, it's clear that the combination
+  of flavorful dishes and welcoming atmosphere keeps people coming back,
+  offering a positive experience that's worth trying if you're exploring sushi
+  places near you.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -224,7 +310,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

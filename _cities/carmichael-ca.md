@@ -5,4 +5,5 @@ permalink: /california/carmichael/
 stateAbbr: CA
 stateName: California
 cityName: Carmichael
+
 ---

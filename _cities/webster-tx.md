@@ -5,4 +5,5 @@ permalink: /texas/webster/
 stateAbbr: TX
 stateName: Texas
 cityName: Webster
+
 ---

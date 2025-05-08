@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Nishino"
+title: Nishino
 permalink: /washington/seattle/nishino.html
 stateAbbr: WA
 stateName: Washington
 cityName: Seattle
 seo:
-  name: "Nishino"
-  type: Restaurant
+  type: restaurant
   links: https://nishinorestaurant.com/m/
-description: "Nishino serves delicious sushi in Seattle, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJT_OIq9IUkFQRyxvBIQWRZg8
 photos:
   - name: >-
@@ -170,7 +168,49 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x549014d2ab88f34f:0xf66910521c11bcb!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 16
+        minute: 30
+      close:
+        day: 0
+        hour: 20
+        minute: 30
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: Closed'
     - 'Wednesday: 5:00 – 9:00 PM'
@@ -178,14 +218,7 @@ opening_hours:
     - 'Friday: 5:00 – 9:00 PM'
     - 'Saturday: 5:00 – 9:00 PM'
     - 'Sunday: 4:30 – 8:30 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: Closed'
-    - 'Wednesday: 5:00 – 9:00 PM'
-    - 'Thursday: 5:00 – 9:00 PM'
-    - 'Friday: 5:00 – 9:00 PM'
-    - 'Saturday: 5:00 – 9:00 PM'
-    - 'Sunday: 4:30 – 8:30 PM'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +230,46 @@ phone: (206) 322-5800
 price_level: PRICE_LEVEL_EXPENSIVE
 price_range: $100 &ndash; & up
 rating: '4.6'
-rating_count: 0
+rating_count: 456
 website: https://nishinorestaurant.com/m/
+description: >-
+  Discover Nishino in Seattle, WA$$$Nishino in Seattle, WA, stands out as an
+  upscale destination for Japanese dining, emphasizing fresh sushi and
+  innovative flavors that attract those seeking top-rated sushi experiences in
+  the area. This elegant spot offers a refined selection of sake and cocktails,
+  complementing its focus on high-quality Japanese cuisine that blends tradition
+  with creative twists. With accessibility features like wheelchair-friendly
+  parking and entrances, it's designed to welcome everyone looking for a
+  memorable meal in a sophisticated setting. Evening hours make it a great
+  choice for intimate dinners, especially if you're exploring sushi restaurants
+  near you that prioritize quality ingredients and a welcoming atmosphere.
+generative_summary: >-
+  Discover Nishino in Seattle, WA$$$Nishino in Seattle, WA, stands out as an
+  upscale destination for Japanese dining, emphasizing fresh sushi and
+  innovative flavors that attract those seeking top-rated sushi experiences in
+  the area. This elegant spot offers a refined selection of sake and cocktails,
+  complementing its focus on high-quality Japanese cuisine that blends tradition
+  with creative twists. With accessibility features like wheelchair-friendly
+  parking and entrances, it's designed to welcome everyone looking for a
+  memorable meal in a sophisticated setting. Evening hours make it a great
+  choice for intimate dinners, especially if you're exploring sushi restaurants
+  near you that prioritize quality ingredients and a welcoming atmosphere.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this Seattle sushi haven often praise
+  the consistently fresh and flavorful dishes, making it a go-to for anyone
+  craving reliable Japanese options close by. Many highlight the attentive
+  service and cozy ambiance that enhance the overall dining experience, turning
+  a simple meal into something special. While some note that the prices lean
+  toward the premium side, the general consensus is that the quality justifies
+  the cost, with standout mentions of creative rolls and pairings that keep
+  people coming back. Overall, the high ratings reflect a solid spot for groups
+  or solo diners searching for the best sushi near me, offering a balance of
+  excitement and satisfaction that leaves a positive impression. If you're in
+  the mood for something authentic yet approachable, this place delivers without
+  disappointing.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +295,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kona Grill - El Paso"
+title: Kona Grill - El Paso
 permalink: /texas/el-paso/kona-grill-el-paso.html
 stateAbbr: TX
 stateName: Texas
 cityName: El Paso
 seo:
-  name: "Kona Grill - El Paso"
-  type: Restaurant
+  type: restaurant
   links: https://konagrill.com/locations?locations=El-Paso
-description: "Kona Grill - El Paso serves delicious sushi in El Paso, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJke4HnBdb54YRoRHrDyhElcU
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x86e75b179c07ee91:0xc59544280feb11a1!10e5
 primary_type: American Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 10
+        minute: 0
+      close:
+        day: 0
+        hour: 23
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 0
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 0
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 0
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 0
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 1
+        minute: 0
+    - open:
+        day: 6
+        hour: 10
+        minute: 0
+      close:
+        day: 0
+        hour: 1
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 12:00 AM'
     - 'Tuesday: 11:00 AM – 12:00 AM'
     - 'Wednesday: 11:00 AM – 12:00 AM'
@@ -178,54 +234,403 @@ opening_hours:
     - 'Friday: 11:00 AM – 1:00 AM'
     - 'Saturday: 10:00 AM – 1:00 AM'
     - 'Sunday: 10:00 AM – 11:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 12:00 AM'
-    - 'Tuesday: 11:00 AM – 12:00 AM'
-    - 'Wednesday: 11:00 AM – 12:00 AM'
-    - 'Thursday: 11:00 AM – 12:00 AM'
-    - 'Friday: 11:00 AM – 1:00 AM'
-    - 'Saturday: 10:00 AM – 1:00 AM'
-    - 'Sunday: 10:00 AM – 11:00 PM'
+  nextCloseTime: '2025-05-04T07:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: false
+    periods:
+      - open:
+          day: 0
+          hour: 21
+          minute: 0
+        close:
+          day: 1
+          hour: 0
+          minute: 0
+      - open:
+          day: 1
+          hour: 14
+          minute: 0
+        close:
+          day: 1
+          hour: 18
+          minute: 0
+      - open:
+          day: 1
+          hour: 21
+          minute: 0
+        close:
+          day: 2
+          hour: 0
+          minute: 0
+      - open:
+          day: 2
+          hour: 14
+          minute: 0
+        close:
+          day: 2
+          hour: 18
+          minute: 0
+      - open:
+          day: 2
+          hour: 21
+          minute: 0
+        close:
+          day: 3
+          hour: 0
+          minute: 0
+      - open:
+          day: 3
+          hour: 14
+          minute: 0
+        close:
+          day: 3
+          hour: 18
+          minute: 0
+      - open:
+          day: 3
+          hour: 21
+          minute: 0
+        close:
+          day: 4
+          hour: 0
+          minute: 0
+      - open:
+          day: 4
+          hour: 14
+          minute: 0
+        close:
+          day: 4
+          hour: 18
+          minute: 0
+      - open:
+          day: 4
+          hour: 21
+          minute: 0
+        close:
+          day: 5
+          hour: 0
+          minute: 0
+      - open:
+          day: 5
+          hour: 14
+          minute: 0
+        close:
+          day: 5
+          hour: 18
+          minute: 0
+      - open:
+          day: 5
+          hour: 21
+          minute: 0
+        close:
+          day: 6
+          hour: 1
+          minute: 0
+      - open:
+          day: 6
+          hour: 21
+          minute: 0
+        close:
+          day: 0
+          hour: 1
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 2:00 – 6:00 PM, 9:00 PM – 12:00 AM'
+      - 'Tuesday: 2:00 – 6:00 PM, 9:00 PM – 12:00 AM'
+      - 'Wednesday: 2:00 – 6:00 PM, 9:00 PM – 12:00 AM'
+      - 'Thursday: 2:00 – 6:00 PM, 9:00 PM – 12:00 AM'
+      - 'Friday: 2:00 – 6:00 PM, 9:00 PM – 1:00 AM'
+      - 'Saturday: 9:00 PM – 1:00 AM'
+      - 'Sunday: 9:00 PM – 12:00 AM'
+    secondaryHoursType: HAPPY_HOUR
+    nextOpenTime: '2025-05-04T03:00:00Z'
 phone: (915) 249-3803
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.4'
-rating_count: 0
+rating_count: 3997
 website: https://konagrill.com/locations?locations=El-Paso
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Explore Kona Grill in El Paso, TX$$$Kona Grill in El Paso, TX, stands out as a
+  trendy American eatery blending modern vibes with a diverse menu that includes
+  fresh sushi and flavorful seafood options. This spot offers a welcoming
+  atmosphere with accessible features like wheelchair-friendly entrances and
+  seating, making it easy for everyone to enjoy a relaxed meal. Patrons can
+  savor a broad selection of dishes, from light, low-calorie choices to hearty
+  steaks, all paired with creative cocktails that enhance the dining experience.
+  The restaurant's convenient location in a bustling area adds to its appeal for
+  those seeking quality sushi dining near urban hubs. With extended hours and
+  outdoor seating, it's an ideal destination for casual gatherings or a quick
+  bite after shopping.
+generative_summary: >-
+  Explore Kona Grill in El Paso, TX$$$Kona Grill in El Paso, TX, stands out as a
+  trendy American eatery blending modern vibes with a diverse menu that includes
+  fresh sushi and flavorful seafood options. This spot offers a welcoming
+  atmosphere with accessible features like wheelchair-friendly entrances and
+  seating, making it easy for everyone to enjoy a relaxed meal. Patrons can
+  savor a broad selection of dishes, from light, low-calorie choices to hearty
+  steaks, all paired with creative cocktails that enhance the dining experience.
+  The restaurant's convenient location in a bustling area adds to its appeal for
+  those seeking quality sushi dining near urban hubs. With extended hours and
+  outdoor seating, it's an ideal destination for casual gatherings or a quick
+  bite after shopping.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJke4HnBdb54YRoRHrDyhElcU/reviews/ChZDSUhNMG9nS0VJQ0FnTUNnOUktQk5nEAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 4
+    text:
+      text: >-
+        It was a little tight for spacing. The food was good but on the salty
+        side. Our server was a little busy, probably because there were a lot of
+        us and the place was quite packed, but she was very nice and
+        accommodating. We loved the wines.
+
+        It was a good experience. Definitely coming back on a regular day.
+      languageCode: en
+    originalText:
+      text: >-
+        It was a little tight for spacing. The food was good but on the salty
+        side. Our server was a little busy, probably because there were a lot of
+        us and the place was quite packed, but she was very nice and
+        accommodating. We loved the wines.
+
+        It was a good experience. Definitely coming back on a regular day.
+      languageCode: en
+    authorAttribution:
+      displayName: Marah Baldwin
+      uri: https://www.google.com/maps/contrib/100432459591382497748/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjW0QtSFYqlJAPFkakx5xEUDom8sLjAY2fe47p1c3yUmilIyXA=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-02-14T17:16:56.751854Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNnOUktQk5nEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNnOUktQk5nEAE!2m1!1s0x86e75b179c07ee91:0xc59544280feb11a1
+  - name: >-
+      places/ChIJke4HnBdb54YRoRHrDyhElcU/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRLWF2bWRnEAE
+    relativePublishTimeDescription: a month ago
+    rating: 2
+    text:
+      text: >-
+        🧐 Interesting how almost all reviews are 5 stars.  🌟  yelp reviews are
+        more accurate in this occasion.  Glad I was not crazy with my 2 stars.
+        This place, is overpriced by a lot.  Based on prices, you would think
+        you are at some luxury restaurant. Unfortunately you are not. It’s a
+        shopping center restaurant.  A nice one shopping center restaurant.
+
+        Been there 3 times. They have a cloudy unlit fish tank that looks like a
+        hole in the wall Asian restaurant fish tank.  Looks kinda dirty.
+
+
+        Our waitress was nice.  I did have to ask passing staff for something
+        twice. I got a Pad Thai. It was good for El Paso.  The sushi, 🍣,  not
+        so much.  I am a big fan of sushi.  (Try Albertsons fresh sushi.)
+
+
+        The  side plates had some black cloudy staining and oil in the center. 
+        My wife initially said it was the color of the plate, but once I smudged
+        it with my finger she agreed with me.  It was like a cloudy smoke color
+        on those plates.
+
+
+        The decor lacks luxury.  Lacks the nightlife vibe. The wood decor, just
+        does not get it done. People are not taking a picture to post on social
+        media at Kona Grill because it doesn’t look impressive in pictures. Hype
+        and decor is important for a restaurant, especially if they charge so
+        much for food.  Look at menu prices before you go.  Luxury prices
+        without a luxury experience. Pad Thai was like $35.
+
+
+        Lastly the drink, it was mostly ice, two straw sips and it was done. 
+        Maybe this is as good as it gets for El Paso.
+      languageCode: en
+    originalText:
+      text: >-
+        🧐 Interesting how almost all reviews are 5 stars.  🌟  yelp reviews are
+        more accurate in this occasion.  Glad I was not crazy with my 2 stars.
+        This place, is overpriced by a lot.  Based on prices, you would think
+        you are at some luxury restaurant. Unfortunately you are not. It’s a
+        shopping center restaurant.  A nice one shopping center restaurant.
+
+        Been there 3 times. They have a cloudy unlit fish tank that looks like a
+        hole in the wall Asian restaurant fish tank.  Looks kinda dirty.
+
+
+        Our waitress was nice.  I did have to ask passing staff for something
+        twice. I got a Pad Thai. It was good for El Paso.  The sushi, 🍣,  not
+        so much.  I am a big fan of sushi.  (Try Albertsons fresh sushi.)
+
+
+        The  side plates had some black cloudy staining and oil in the center. 
+        My wife initially said it was the color of the plate, but once I smudged
+        it with my finger she agreed with me.  It was like a cloudy smoke color
+        on those plates.
+
+
+        The decor lacks luxury.  Lacks the nightlife vibe. The wood decor, just
+        does not get it done. People are not taking a picture to post on social
+        media at Kona Grill because it doesn’t look impressive in pictures. Hype
+        and decor is important for a restaurant, especially if they charge so
+        much for food.  Look at menu prices before you go.  Luxury prices
+        without a luxury experience. Pad Thai was like $35.
+
+
+        Lastly the drink, it was mostly ice, two straw sips and it was done. 
+        Maybe this is as good as it gets for El Paso.
+      languageCode: en
+    authorAttribution:
+      displayName: Carlos Contreras
+      uri: https://www.google.com/maps/contrib/100214976093347412282/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXkWH8dW3JoidfArF-8-Zrq0ZS2KhstixHS7v3UjS9TN4uj2T6j=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-03-06T04:56:53.651321Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNRLWF2bWRnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNRLWF2bWRnEAE!2m1!1s0x86e75b179c07ee91:0xc59544280feb11a1
+  - name: >-
+      places/ChIJke4HnBdb54YRoRHrDyhElcU/reviews/ChZDSUhNMG9nS0VJQ0FnTUNnb2REdUNREAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        My husband and I went to Kona for my birthday and it was one of the best
+        dining experiences of my life. Our server Daniela was so kind and
+        friendly and even had a bump-friendly sushi roll made especially for me.
+        The food was unbelievably flavorful and unique, we were blown away by
+        everything. We can’t wait to return!
+      languageCode: en
+    originalText:
+      text: >-
+        My husband and I went to Kona for my birthday and it was one of the best
+        dining experiences of my life. Our server Daniela was so kind and
+        friendly and even had a bump-friendly sushi roll made especially for me.
+        The food was unbelievably flavorful and unique, we were blown away by
+        everything. We can’t wait to return!
+      languageCode: en
+    authorAttribution:
+      displayName: Summer Arnold
+      uri: https://www.google.com/maps/contrib/111029122140984279176/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjW1zkBUvs2KEp5oLLKZuenhm7v7kygr3JTiwUVE-_23a4nsUC3j=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-02-17T23:54:30.597653Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNnb2REdUNREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNnb2REdUNREAE!2m1!1s0x86e75b179c07ee91:0xc59544280feb11a1
+  - name: >-
+      places/ChIJke4HnBdb54YRoRHrDyhElcU/reviews/ChdDSUhNMG9nS0VJQ0FnTUNvOWRQTm9BRRAB
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        The happy hour prices and choices were absolutely amazing. Drinks were
+        fantastic. I love all the selections. And our server was on top of
+        everything.
+      languageCode: en
+    originalText:
+      text: >-
+        The happy hour prices and choices were absolutely amazing. Drinks were
+        fantastic. I love all the selections. And our server was on top of
+        everything.
+      languageCode: en
+    authorAttribution:
+      displayName: Desiree Telab
+      uri: https://www.google.com/maps/contrib/109169165449381169252/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUmHcelInPgKLLyY61ANMDDxKknBaEGWESMRZDXVAwwxIV0sd94=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-18T23:36:53.721160Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNvOWRQTm9BRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNvOWRQTm9BRRAB!2m1!1s0x86e75b179c07ee91:0xc59544280feb11a1
+  - name: >-
+      places/ChIJke4HnBdb54YRoRHrDyhElcU/reviews/ChZDSUhNMG9nS0VJQ0FnTUNvNXItNEpREAE
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 1
+    text:
+      text: >-
+        I spent nearly $30 on just 5 small pieces of sushi at Kona Grill, and
+        honestly, I expected way better for the price. The rolls were
+        underwhelming… poorly made, lacking flavor, and definitely not worth
+        what they charge. I’ve had better sushi at places that cost half as
+        much. The server was okay..not rude or anything, just not very attentive
+        or memorable. Overall, pretty disappointed with the experience,
+        especially considering how hyped up this place is. Not sure I’d come
+        back for sushi again.
+      languageCode: en
+    originalText:
+      text: >-
+        I spent nearly $30 on just 5 small pieces of sushi at Kona Grill, and
+        honestly, I expected way better for the price. The rolls were
+        underwhelming… poorly made, lacking flavor, and definitely not worth
+        what they charge. I’ve had better sushi at places that cost half as
+        much. The server was okay..not rude or anything, just not very attentive
+        or memorable. Overall, pretty disappointed with the experience,
+        especially considering how hyped up this place is. Not sure I’d come
+        back for sushi again.
+      languageCode: en
+    authorAttribution:
+      displayName: Blue Ruiz
+      uri: https://www.google.com/maps/contrib/112350327694857809264/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWt0Zr0Stv9Llbr5TM-y3r2bjfyhNDj2tTxqSPcFd2Lk1tu0PWmzw=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-17T06:38:59.944218Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNvNXItNEpREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNvNXItNEpREAE!2m1!1s0x86e75b179c07ee91:0xc59544280feb11a1
+review_summary: >-
+  What Visitors Are Buzzing About$$$Folks heading to this spot often rave about
+  the tasty variety of food and drinks, with many highlighting the solid happy
+  hour deals and flavorful sushi rolls that hit the spot for a satisfying meal.
+  While some mention the prices feel a bit steep compared to the portion sizes,
+  others appreciate the friendly service and accommodating staff that keep
+  things running smoothly during busy times. Overall, diners enjoy the mix of
+  American favorites and Japanese-inspired dishes, making it a go-to for groups
+  looking for a fun vibe without major letdowns. It's clear that the energetic
+  atmosphere and drink selections win over a lot of people, though a few suggest
+  checking expectations for value to ensure a great experience. If you're on the
+  hunt for reliable sushi places nearby, this location tends to deliver
+  enjoyable moments with room for the occasional improvement.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  freeGarageParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+curbside_pickup: true
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: true
+live_music: false
+menu_for_children: true
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: true
+serves_cocktails: true
+serves_coffee: true
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Sleek chain with a broad New American menu including low-calorie options, plus
+  sushi & cocktails.
 
 ---

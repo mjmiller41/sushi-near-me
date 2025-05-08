@@ -5,4 +5,5 @@ permalink: /south-carolina/boiling-springs/
 stateAbbr: SC
 stateName: South Carolina
 cityName: Boiling Springs
+
 ---

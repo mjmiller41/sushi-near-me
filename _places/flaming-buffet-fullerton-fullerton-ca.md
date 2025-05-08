@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Flaming Buffet Fullerton"
+title: Flaming Buffet Fullerton
 permalink: /california/fullerton/flaming-buffet-fullerton.html
 stateAbbr: CA
 stateName: California
 cityName: Fullerton
 seo:
-  name: "Flaming Buffet Fullerton"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Flaming Buffet Fullerton serves delicious sushi in Fullerton, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ07DI7-HX3IAR5WhI1wxdURs
 photos:
   - name: >-
@@ -185,7 +183,43 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Flaming Buffet in Fullerton, CA$$$Flaming Buffet in Fullerton, CA,
+  stands out as a welcoming all-you-can-eat destination nestled in the Fullerton
+  Metrocenter, offering a blend of hearty comfort foods and interactive dining
+  experiences. This spot highlights fresh, customizable options like Mongolian
+  BBQ, where guests can tailor their meals to suit their tastes. The restaurant
+  boasts accessible features, making it easy for everyone to enjoy a relaxed
+  meal, from ample seating to convenient entry points. With its focus on variety
+  and value, it's an ideal choice for those seeking casual dining in a vibrant
+  setting. Whether you're looking for a satisfying lunch or dinner, this buffet
+  delivers on flavor and convenience for everyday diners.
+generative_summary: >-
+  Discover Flaming Buffet in Fullerton, CA$$$Flaming Buffet in Fullerton, CA,
+  stands out as a welcoming all-you-can-eat destination nestled in the Fullerton
+  Metrocenter, offering a blend of hearty comfort foods and interactive dining
+  experiences. This spot highlights fresh, customizable options like Mongolian
+  BBQ, where guests can tailor their meals to suit their tastes. The restaurant
+  boasts accessible features, making it easy for everyone to enjoy a relaxed
+  meal, from ample seating to convenient entry points. With its focus on variety
+  and value, it's an ideal choice for those seeking casual dining in a vibrant
+  setting. Whether you're looking for a satisfying lunch or dinner, this buffet
+  delivers on flavor and convenience for everyday diners.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$From what people share about similar buffet spots,
+  folks generally appreciate the wide array of comfort food choices and the fun
+  of building your own Mongolian BBQ dish at places like this. Many highlight
+  the generous portions and welcoming vibe, making it a go-to for families or
+  groups wanting a laid-back meal without breaking the bank. While some mention
+  the need for quick service during busy times, the overall experience often
+  comes across as satisfying and worthwhile for the price. It's clear that the
+  interactive elements and variety keep things exciting, drawing in repeat
+  visitors who enjoy the casual atmosphere. All in all, this spot seems to hit
+  the mark for anyone craving a straightforward, enjoyable dining outing in the
+  area.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +245,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

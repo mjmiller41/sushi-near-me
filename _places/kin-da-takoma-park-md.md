@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kin Da"
+title: Kin Da
 permalink: /maryland/takoma-park/kin-da.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Takoma Park
 seo:
-  name: "Kin Da"
-  type: Restaurant
+  type: restaurant
   links: https://www.kindatakoma.com/
-description: "Green walls & soft lighting set the scene at this storefront serving sushi, curries & Thai fare. Kin Da serves delicious sushi in Takoma Park, Maryland. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJm4T1wYLIt4kRw8bZTo22tqs
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 0
 website: https://www.kindatakoma.com/
+description: >-
+  Explore Kin Da in Takoma Park, MD$$$Kin Da in Takoma Park, MD, offers a
+  welcoming atmosphere with green walls and soft lighting, making it an ideal
+  spot for enjoying authentic Thai flavors and fresh sushi options. This
+  easygoing restaurant serves a variety of Thai classics like curries and
+  drunken noodles, complemented by sticky rice dishes that highlight bold,
+  aromatic spices. Accessibility features such as wheelchair-friendly entrances
+  and seating ensure a comfortable visit for all guests, while outdoor seating
+  adds to the relaxed vibe. If you're seeking top-rated Thai or sushi
+  experiences nearby, Kin Da stands out for its moderate pricing and thoughtful
+  ambiance, perfect for a casual meal with friends or family.
+generative_summary: >-
+  Explore Kin Da in Takoma Park, MD$$$Kin Da in Takoma Park, MD, offers a
+  welcoming atmosphere with green walls and soft lighting, making it an ideal
+  spot for enjoying authentic Thai flavors and fresh sushi options. This
+  easygoing restaurant serves a variety of Thai classics like curries and
+  drunken noodles, complemented by sticky rice dishes that highlight bold,
+  aromatic spices. Accessibility features such as wheelchair-friendly entrances
+  and seating ensure a comfortable visit for all guests, while outdoor seating
+  adds to the relaxed vibe. If you're seeking top-rated Thai or sushi
+  experiences nearby, Kin Da stands out for its moderate pricing and thoughtful
+  ambiance, perfect for a casual meal with friends or family.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJm4T1wYLIt4kRw8bZTo22tqs/reviews/ChdDSUhNMG9nS0VJQ0FnSURfbGU2NnZRRRAB
@@ -372,6 +393,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNJM2VHSnNBRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNJM2VHSnNBRRAB!2m1!1s0x89b7c882c1f5849b:0xabb6b68d4ed9c6c3
+review_summary: >-
+  Visitor Feedback on Kin Da$$$Folks generally rave about the tasty Thai dishes
+  at this spot, with favorites like Pad Thai and Drunken Noodles earning high
+  marks for their flavorful, umami-rich profiles and great value. While some
+  appreciate the sushi selections for their fresh ingredients, others mention
+  occasional inconsistencies in texture and preparation that could use a tweak.
+  Overall, the friendly service and reasonable prices keep diners coming back,
+  making it a solid choice for anyone craving authentic Asian cuisine in a
+  laid-back setting. It's easy to see why many consider this place a go-to for
+  satisfying meals, though sampling popular items first can help ensure a
+  positive experience. If you're hunting for sushi restaurants nearby, the
+  positives often outweigh any minor hiccups, leaving visitors eager to return.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidParkingLot: true
   paidStreetParking: true
@@ -404,8 +438,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Green walls & soft lighting set the scene at this storefront serving sushi,
   curries & Thai fare.
 

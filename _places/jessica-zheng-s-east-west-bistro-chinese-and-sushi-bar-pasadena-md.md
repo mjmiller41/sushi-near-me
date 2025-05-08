@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Jessica Zheng's East West Bistro - Chinese And Sushi Bar"
+title: Jessica Zheng's East West Bistro - Chinese And Sushi Bar
 permalink: /maryland/pasadena/jessica-zheng-s-east-west-bistro-chinese-and-sushi-bar.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Pasadena
 seo:
-  name: "Jessica Zheng's East West Bistro - Chinese And Sushi Bar"
-  type: Restaurant
+  type: restaurant
   links: http://www.eastwestbistro.net/
-description: "White-tablecloth restaurant serving Asian fusion fare with vegetarian options & a wine list. Jessica Zheng's East West Bistro - Chinese And Sushi Bar serves delicious sushi in Pasadena, Maryland. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJlx5DO3n8t4kRV1cLyMevJec
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 0
 website: http://www.eastwestbistro.net/
+description: >-
+  Discover East West Bistro in Pasadena, MD$$$In Pasadena, MD, Jessica Zheng's
+  East West Bistro stands out as a welcoming spot for Asian-inspired dining,
+  blending familiar Chinese dishes with fresh sushi options in a casual
+  atmosphere. This eatery delights with its diverse menu featuring flavorful
+  fusion fare and vegetarian choices, complemented by a selection of drinks that
+  enhance the overall experience. The setting includes accessible features like
+  wheelchair-friendly entrances and seating, making it easy for everyone to
+  enjoy a relaxed meal. Patrons appreciate the variety of sushi restaurants near
+  me that offer high-quality ingredients and generous portions, positioning this
+  spot as a go-to for those seeking top-rated sushi in the area.
+generative_summary: >-
+  Discover East West Bistro in Pasadena, MD$$$In Pasadena, MD, Jessica Zheng's
+  East West Bistro stands out as a welcoming spot for Asian-inspired dining,
+  blending familiar Chinese dishes with fresh sushi options in a casual
+  atmosphere. This eatery delights with its diverse menu featuring flavorful
+  fusion fare and vegetarian choices, complemented by a selection of drinks that
+  enhance the overall experience. The setting includes accessible features like
+  wheelchair-friendly entrances and seating, making it easy for everyone to
+  enjoy a relaxed meal. Patrons appreciate the variety of sushi restaurants near
+  me that offer high-quality ingredients and generous portions, positioning this
+  spot as a go-to for those seeking top-rated sushi in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJlx5DO3n8t4kRV1cLyMevJec/reviews/ChZDSUhNMG9nS0VJQ0FnSUR2djhPemZ3EAE
@@ -360,6 +381,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURuMzVPeE9REAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURuMzVPeE9REAE!2m1!1s0x89b7fc793b431e97:0xe725afc7c80b5757
+review_summary: >-
+  What Visitors Are Sharing About This Spot$$$Folks seem to really enjoy the
+  fresh flavors and variety at this sushi place, with many highlighting the
+  tasty Chinese dishes and sushi that hit the spot every time. Customers often
+  mention the generous portions and attentive service that make dining out feel
+  effortless and enjoyable, even for those with dietary needs. There's a common
+  buzz about the welcoming vibe and consistent quality, whether you're grabbing
+  takeout or sitting in for a full meal. Overall, it's clear that this spot
+  earns high marks for its reliable experience, encouraging repeat visits for
+  anyone craving the best sushi near me. While some note it can get lively, the
+  positive feedback keeps the energy upbeat and satisfying.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -392,8 +425,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   White-tablecloth restaurant serving Asian fusion fare with vegetarian options
   & a wine list.
 

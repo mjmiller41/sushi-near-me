@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "UMI SUSHI"
+title: UMI SUSHI
 permalink: /michigan/ann-arbor/umi-sushi.html
 stateAbbr: MI
 stateName: Michigan
 cityName: Ann Arbor
 seo:
-  name: "UMI SUSHI"
-  type: Restaurant
-  links: null
-description: "UMI SUSHI serves delicious sushi in Ann Arbor, Michigan. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://umisushiannarbor.com/default.html
 place_id: ChIJe7onUBmsPIgRx4yu0EsDLIM
 photos:
   - name: >-
@@ -170,8 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x883cac195027ba7b:0x832c034bd0ae8cc7!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 10:00 PM'
+    - 'Tuesday: 11:00 AM – 10:00 PM'
+    - 'Wednesday: 11:00 AM – 10:00 PM'
+    - 'Thursday: 11:00 AM – 10:00 PM'
+    - 'Friday: 11:00 AM – 10:00 PM'
+    - 'Saturday: 12:00 – 10:00 PM'
+    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +234,48 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (734) 222-0826
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.3'
+rating_count: 448
+website: http://umisushiannarbor.com/default.html
+description: >-
+  Discover UMI Sushi in Ann Arbor, MI$$$UMI Sushi in Ann Arbor, MI, offers a
+  welcoming atmosphere perfect for enjoying fresh sushi and a variety of
+  Japanese favorites. This spot stands out with its blend of traditional flavors
+  and unique Korean influences, such as hearty bibimbap options, making it a
+  go-to choice for diverse Asian cuisine. Accessibility features like
+  wheelchair-friendly parking and entrances ensure a comfortable visit for
+  everyone, while the moderate pricing keeps dining accessible without
+  sacrificing quality. With daily hours extending into the evening, it's an
+  ideal spot for a casual lunch or dinner, appealing to those searching for
+  reliable sushi restaurants in the area.
+generative_summary: >-
+  Discover UMI Sushi in Ann Arbor, MI$$$UMI Sushi in Ann Arbor, MI, offers a
+  welcoming atmosphere perfect for enjoying fresh sushi and a variety of
+  Japanese favorites. This spot stands out with its blend of traditional flavors
+  and unique Korean influences, such as hearty bibimbap options, making it a
+  go-to choice for diverse Asian cuisine. Accessibility features like
+  wheelchair-friendly parking and entrances ensure a comfortable visit for
+  everyone, while the moderate pricing keeps dining accessible without
+  sacrificing quality. With daily hours extending into the evening, it's an
+  ideal spot for a casual lunch or dinner, appealing to those searching for
+  reliable sushi restaurants in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Feedback from diners at this sushi spot highlights
+  the consistently fresh and flavorful dishes that keep customers coming back
+  for more. Many appreciate the welcoming vibe and solid variety of options,
+  making it a favorite for groups or solo meals without any major complaints.
+  The high rating reflects praise for the attentive service and tasty specials,
+  helping it stand out among top-rated sushi places nearby. Overall, people seem
+  to enjoy the reliable experience, with comments often noting it's a great pick
+  for everyday cravings like "sushi near me." While not perfect, the positive
+  buzz suggests it's worth trying for anyone looking for honest, enjoyable
+  Japanese-inspired dining in a relaxed setting.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +301,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

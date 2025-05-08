@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Star"
+title: Sushi Star
 permalink: /north-carolina/huntersville/sushi-star.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Huntersville
 seo:
-  name: "Sushi Star"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi Star serves delicious sushi in Huntersville, North Carolina. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJRw4jV46oVogR5o6hShfepG4
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8856a88e57230e47:0x6ea4de174aa18ee6!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 16
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:00 PM'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:00 PM'
     - 'Saturday: 11:00 AM – 9:00 PM'
     - 'Sunday: 4:00 – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 9:00 PM'
-    - 'Saturday: 11:00 AM – 9:00 PM'
-    - 'Sunday: 4:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T01:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +246,46 @@ phone: (704) 948-7877
 price_level: PRICE_LEVEL_INEXPENSIVE
 price_range: $10 &ndash; $20
 rating: '4.0'
-rating_count: 0
+rating_count: 327
 website: null
+description: >-
+  Discover Sushi Star in Huntersville, NC$$$Sushi Star in Huntersville, NC,
+  stands out as a laid-back destination for fresh sushi and Japanese-inspired
+  meals, nestled conveniently in a bustling shopping area. This spot delights
+  with its array of specialty rolls and classic fare, making it an ideal choice
+  for anyone craving authentic flavors in a welcoming atmosphere. Accessibility
+  features like wheelchair-friendly parking and entrances add to the
+  convenience, ensuring a smooth visit for all. With extended hours throughout
+  the week, it's perfect for those seeking sushi restaurants near you to enjoy a
+  casual lunch or dinner. Whether you're exploring top-rated Japanese places in
+  the area, Sushi Star offers an affordable way to savor high-quality dishes
+  that highlight fresh ingredients and creative presentations.
+generative_summary: >-
+  Discover Sushi Star in Huntersville, NC$$$Sushi Star in Huntersville, NC,
+  stands out as a laid-back destination for fresh sushi and Japanese-inspired
+  meals, nestled conveniently in a bustling shopping area. This spot delights
+  with its array of specialty rolls and classic fare, making it an ideal choice
+  for anyone craving authentic flavors in a welcoming atmosphere. Accessibility
+  features like wheelchair-friendly parking and entrances add to the
+  convenience, ensuring a smooth visit for all. With extended hours throughout
+  the week, it's perfect for those seeking sushi restaurants near you to enjoy a
+  casual lunch or dinner. Whether you're exploring top-rated Japanese places in
+  the area, Sushi Star offers an affordable way to savor high-quality dishes
+  that highlight fresh ingredients and creative presentations.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this sushi spot often highlight the
+  fresh flavors and solid variety, giving it a well-deserved nod as one of the
+  go-to options for sushi near me. Many appreciate the consistent quality and
+  reasonable prices, making it a reliable pick for everyday meals or quick
+  takeout. While some note that service can vary, the overall vibe keeps things
+  positive with tasty rolls and a cozy setting earning plenty of praise. If
+  you're hunting for the best sushi close to you, this place delivers on flavor
+  without breaking the bank, based on its strong community feedback. All in all,
+  it's a solid choice that keeps customers coming back for more satisfying
+  experiences in a casual environment.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +311,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

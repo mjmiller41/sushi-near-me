@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Saika Sushi"
+title: Saika Sushi
 permalink: /new-york/depew/saika-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: Depew
 seo:
-  name: "Saika Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.saikasushi.com/
-description: "Informal all-you-can-eat sushi house for lunch, dinner & take-out, plus a wine & sake menu. Saika Sushi serves delicious sushi in Depew, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJiwAteoEL04kRkY1QDLVsp_I
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 0
 website: http://www.saikasushi.com/
+description: >-
+  Discover Saika Sushi in Depew, NY$$$Nestled in Depew, New York, Saika Sushi
+  stands out as a go-to spot for casual Japanese dining, featuring an
+  all-you-can-eat selection that highlights fresh rolls, hibachi favorites, and
+  flavorful entrees. This inviting eatery offers a relaxed atmosphere perfect
+  for enjoying authentic flavors, from expertly prepared sushi to hearty noodle
+  dishes, all at reasonable prices that make it a smart choice for locals
+  seeking variety. With options for wine and sake to complement your meal, it's
+  an ideal destination for those exploring Japanese cuisine options nearby. The
+  restaurant also prioritizes accessibility, ensuring a welcoming experience for
+  all diners with thoughtful features like easy parking and adaptable seating.
+generative_summary: >-
+  Discover Saika Sushi in Depew, NY$$$Nestled in Depew, New York, Saika Sushi
+  stands out as a go-to spot for casual Japanese dining, featuring an
+  all-you-can-eat selection that highlights fresh rolls, hibachi favorites, and
+  flavorful entrees. This inviting eatery offers a relaxed atmosphere perfect
+  for enjoying authentic flavors, from expertly prepared sushi to hearty noodle
+  dishes, all at reasonable prices that make it a smart choice for locals
+  seeking variety. With options for wine and sake to complement your meal, it's
+  an ideal destination for those exploring Japanese cuisine options nearby. The
+  restaurant also prioritizes accessibility, ensuring a welcoming experience for
+  all diners with thoughtful features like easy parking and adaptable seating.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJiwAteoEL04kRkY1QDLVsp_I/reviews/ChZDSUhNMG9nS0VJQ0FnTUNnNmJlSUpREAE
@@ -418,6 +439,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUM5bFlUY3BBRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUM5bFlUY3BBRRAB!2m1!1s0x89d30b817a2d008b:0xf2a76cb50c508d91
+review_summary: >-
+  What Patrons Are Buzzing About$$$Visitors often rave about the incredible
+  value of the all-you-can-eat deals at this spot, praising the fresh and tasty
+  sushi rolls that make every bite worthwhile. Many appreciate the friendly
+  service that keeps things running smoothly, with quick deliveries and helpful
+  staff guiding first-timers through the menu. While folks note the importance
+  of ordering mindfully to avoid any charges for uneaten items, the overall vibe
+  remains fun and satisfying, especially for groups looking to indulge. The
+  atmosphere gets high marks for being clean and comfortable, adding to the
+  enjoyable experience without any major drawbacks. All in all, it's a solid
+  pick for anyone craving reliable Japanese flavors, with most feedback leaning
+  toward repeat visits for the quality and affordability.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -450,8 +484,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Informal all-you-can-eat sushi house for lunch, dinner & take-out, plus a wine
   & sake menu.
 

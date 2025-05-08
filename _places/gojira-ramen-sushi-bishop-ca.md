@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Gojira Ramen & Sushi"
+title: Gojira Ramen & Sushi
 permalink: /california/bishop/gojira-ramen-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Bishop
 seo:
-  name: "Gojira Ramen & Sushi"
-  type: Restaurant
-  links: null
-description: "Gojira Ramen & Sushi serves delicious sushi in Bishop, California. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.gojirabishop.com/
 place_id: ChIJP_tUKZsXvoARKVKyV3WjuDE
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80be179b2954fb3f:0x31b8a37557b25229!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 20
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 20
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 20
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 20
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 20
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 20
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 20
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:30 AM – 8:00 PM'
+    - 'Tuesday: 11:30 AM – 8:00 PM'
+    - 'Wednesday: 11:30 AM – 8:00 PM'
+    - 'Thursday: 11:30 AM – 8:00 PM'
+    - 'Friday: 11:30 AM – 8:00 PM'
+    - 'Saturday: 11:30 AM – 8:00 PM'
+    - 'Sunday: 11:30 AM – 8:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,54 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (442) 228-4007
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.2'
+rating_count: 101
+website: https://www.gojirabishop.com/
+description: >-
+  Discover Gojira Ramen & Sushi in Bishop, CA$$$Gojira Ramen & Sushi in Bishop,
+  CA, stands out as a welcoming Japanese eatery blending casual vibes with
+  flavorful dishes that appeal to sushi enthusiasts. This spot features an array
+  of fresh sushi rolls, hearty ramen options, and convenient bento boxes, all
+  set in a fun, themed environment that adds a playful twist to your dining
+  experience. Visitors can enjoy accessible features like wheelchair-friendly
+  parking and seating, making it easy for everyone to savor the authentic
+  flavors of Japanese cuisine. With daily hours from late morning to evening,
+  it's a go-to choice for those seeking top-rated sushi places near me,
+  especially after a day of local adventures. The menu's variety ensures options
+  for quick meals or relaxed gatherings, highlighting why it's a favorite among
+  Japanese restaurants in the area.
+generative_summary: >-
+  Discover Gojira Ramen & Sushi in Bishop, CA$$$Gojira Ramen & Sushi in Bishop,
+  CA, stands out as a welcoming Japanese eatery blending casual vibes with
+  flavorful dishes that appeal to sushi enthusiasts. This spot features an array
+  of fresh sushi rolls, hearty ramen options, and convenient bento boxes, all
+  set in a fun, themed environment that adds a playful twist to your dining
+  experience. Visitors can enjoy accessible features like wheelchair-friendly
+  parking and seating, making it easy for everyone to savor the authentic
+  flavors of Japanese cuisine. With daily hours from late morning to evening,
+  it's a go-to choice for those seeking top-rated sushi places near me,
+  especially after a day of local adventures. The menu's variety ensures options
+  for quick meals or relaxed gatherings, highlighting why it's a favorite among
+  Japanese restaurants in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Love About This Sushi Spot$$$Feedback from diners at this
+  Bishop sushi restaurant paints a positive picture, with many highlighting the
+  fresh and well-prepared dishes that keep flavors balanced and satisfying.
+  People often mention the enjoyable atmosphere and generous portions, making it
+  a solid pick for casual meals or groups looking for tasty Japanese options.
+  While a few notes touch on wait times during busy periods, the overall
+  consensus leans toward praising the quality and variety, earning it a solid
+  rating that reflects reliable experiences. If you're searching for sushi near
+  me, folks appreciate how this place delivers on both taste and value, with the
+  themed setting adding a fun element to the meal. In summary, it's a welcoming
+  choice that honestly delivers on expectations, ideal for anyone craving
+  authentic yet approachable Japanese dining.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +315,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

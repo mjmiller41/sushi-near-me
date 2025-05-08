@@ -5,4 +5,5 @@ permalink: /tennessee/murfreesboro/
 stateAbbr: TN
 stateName: Tennessee
 cityName: Murfreesboro
+
 ---

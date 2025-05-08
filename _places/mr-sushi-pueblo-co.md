@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Mr. Sushi"
+title: Mr. Sushi
 permalink: /colorado/pueblo/mr-sushi.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Pueblo
 seo:
-  name: "Mr. Sushi"
-  type: Restaurant
-  links: null
-description: "Mr. Sushi serves delicious sushi in Pueblo, Colorado. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.mrsushi-pueblo.com/
 place_id: ChIJIxaHr-OiE4cRYVmsquYomjo
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8713a2e3af871623:0x3a9a28e6aaac5961!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 20
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 8:30 PM'
     - 'Tuesday: 11:00 AM – 8:30 PM'
     - 'Wednesday: 11:00 AM – 8:30 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:00 PM'
     - 'Saturday: 11:00 AM – 9:00 PM'
     - 'Sunday: 11:00 AM – 8:30 PM'
-  current:
-    - 'Monday: 11:00 AM – 8:30 PM'
-    - 'Tuesday: 11:00 AM – 8:30 PM'
-    - 'Wednesday: 11:00 AM – 8:30 PM'
-    - 'Thursday: 11:00 AM – 8:30 PM'
-    - 'Friday: 11:00 AM – 9:00 PM'
-    - 'Saturday: 11:00 AM – 9:00 PM'
-    - 'Sunday: 11:00 AM – 8:30 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,253 @@ phone: (719) 225-1713
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.2'
-rating_count: 0
-website: null
-reviews: null
-parking_options: null
-payment_options: null
+rating_count: 803
+website: https://www.mrsushi-pueblo.com/
+description: >-
+  Explore Mr. Sushi in Pueblo, CO$$$In Pueblo, CO, Mr. Sushi stands out as a
+  welcoming spot for fresh sushi and Japanese favorites, blending casual vibes
+  with thoughtful details like balcony seating for an enjoyable meal. This
+  eatery features a laid-back atmosphere perfect for savoring sake alongside
+  creative rolls and classic dishes, making it a go-to choice among local sushi
+  restaurants. With accessibility options ensuring everyone can dine
+  comfortably, it's designed for easy visits whether you're grabbing takeout or
+  enjoying a relaxed lunch. Operating daily with extended hours on weekends, it
+  caters to those seeking quality Japanese cuisine close to home, appealing to
+  anyone exploring sushi options in the area.
+generative_summary: >-
+  Explore Mr. Sushi in Pueblo, CO$$$In Pueblo, CO, Mr. Sushi stands out as a
+  welcoming spot for fresh sushi and Japanese favorites, blending casual vibes
+  with thoughtful details like balcony seating for an enjoyable meal. This
+  eatery features a laid-back atmosphere perfect for savoring sake alongside
+  creative rolls and classic dishes, making it a go-to choice among local sushi
+  restaurants. With accessibility options ensuring everyone can dine
+  comfortably, it's designed for easy visits whether you're grabbing takeout or
+  enjoying a relaxed lunch. Operating daily with extended hours on weekends, it
+  caters to those seeking quality Japanese cuisine close to home, appealing to
+  anyone exploring sushi options in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJIxaHr-OiE4cRYVmsquYomjo/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJbFpPOWhRRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Loved this place! The lady was so nice! Sake was amazing and food was
+        amazing also! Thank you for making our evening amazing! We were visiting
+        from out of town and when we go back we will be visiting y'all again!
+        Loved the visit!
+
+        Thank you thank you!🥰🥰
+      languageCode: en
+    originalText:
+      text: >-
+        Loved this place! The lady was so nice! Sake was amazing and food was
+        amazing also! Thank you for making our evening amazing! We were visiting
+        from out of town and when we go back we will be visiting y'all again!
+        Loved the visit!
+
+        Thank you thank you!🥰🥰
+      languageCode: en
+    authorAttribution:
+      displayName: Jessikole86 Lopez
+      uri: https://www.google.com/maps/contrib/115198370732258211181/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWxL191XKAsngh4ma1bJvL2BOFSbMaBFkPb6kK6uEaSKHkfmLIuig=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-03T16:26:15.375221Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNJbFpPOWhRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNJbFpPOWhRRRAB!2m1!1s0x8713a2e3af871623:0x3a9a28e6aaac5961
+  - name: >-
+      places/ChIJIxaHr-OiE4cRYVmsquYomjo/reviews/ChdDSUhNMG9nS0VJQ0FnSUM5LUthVWlBRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 4
+    text:
+      text: >-
+        First time trying Mr. Sushi 🍣 service and atmosphere were great! We
+        ordered a couple of rolls as well as a beer and some hot saki. Rolls
+        were tasty but priced a little high.
+      languageCode: en
+    originalText:
+      text: >-
+        First time trying Mr. Sushi 🍣 service and atmosphere were great! We
+        ordered a couple of rolls as well as a beer and some hot saki. Rolls
+        were tasty but priced a little high.
+      languageCode: en
+    authorAttribution:
+      displayName: TJ Rogers
+      uri: https://www.google.com/maps/contrib/113618341302001170781/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXWpwx0eiaStew71oDPncvvFp3V9V34HMHHn7S3fxzNaDxu3Bs8vA=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-03-01T19:19:47.422891Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUM5LUthVWlBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUM5LUthVWlBRRAB!2m1!1s0x8713a2e3af871623:0x3a9a28e6aaac5961
+  - name: >-
+      places/ChIJIxaHr-OiE4cRYVmsquYomjo/reviews/ChdDSUhNMG9nS0VJQ0FnTURBMXUtcGtBRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        I come here regularly. Very yummy food plenty of sushi options even if
+        you don’t want sushi. Reasonable prices. Very nice owners and workers.
+        The food is always plated very neatly with pretty plates and decorated
+        as well! I recommend giving this place a try it is worth it! :)
+      languageCode: en
+    originalText:
+      text: >-
+        I come here regularly. Very yummy food plenty of sushi options even if
+        you don’t want sushi. Reasonable prices. Very nice owners and workers.
+        The food is always plated very neatly with pretty plates and decorated
+        as well! I recommend giving this place a try it is worth it! :)
+      languageCode: en
+    authorAttribution:
+      displayName: Julie Estrada
+      uri: https://www.google.com/maps/contrib/113476784374513876432/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUTXhfoGNhLZQkv1-c33q7-AqzORBfya3dJZ5CG-K8botYxwDw=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-02-08T20:43:58.222723Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURBMXUtcGtBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURBMXUtcGtBRRAB!2m1!1s0x8713a2e3af871623:0x3a9a28e6aaac5961
+  - name: >-
+      places/ChIJIxaHr-OiE4cRYVmsquYomjo/reviews/ChdDSUhNMG9nS0VJQ0FnSURaaktqUGhRRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        Mr Sushi (previously called Tsunami) is one of the better sushi places
+        in Pueblo. It is more expensive than some places BUT you definitely get
+        more bang for your buck, and in my opinion is well worth a couple extra
+        dollars. The portions are very generous with thick slices of fish and
+        some creative offerings I haven't seen everywhere else.
+
+        This has become our new go to sushi place in Pueblo.
+
+        Only complaint is the parking lot still has the Tsunami Only signs so it
+        caused a bit of confusion when we first arrived.
+      languageCode: en
+    originalText:
+      text: >-
+        Mr Sushi (previously called Tsunami) is one of the better sushi places
+        in Pueblo. It is more expensive than some places BUT you definitely get
+        more bang for your buck, and in my opinion is well worth a couple extra
+        dollars. The portions are very generous with thick slices of fish and
+        some creative offerings I haven't seen everywhere else.
+
+        This has become our new go to sushi place in Pueblo.
+
+        Only complaint is the parking lot still has the Tsunami Only signs so it
+        caused a bit of confusion when we first arrived.
+      languageCode: en
+    authorAttribution:
+      displayName: Taco Cat
+      uri: https://www.google.com/maps/contrib/103282164887380728008/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjV3qf_qW1XOM5uNLl8hFNipENNMmGgci8EYohCbOtLMm8iQX7g=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2023-09-25T17:03:35.437125Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURaaktqUGhRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURaaktqUGhRRRAB!2m1!1s0x8713a2e3af871623:0x3a9a28e6aaac5961
+  - name: >-
+      places/ChIJIxaHr-OiE4cRYVmsquYomjo/reviews/ChdDSUhNMG9nS0VJQ0FnTURnNUxiUTJBRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 2
+    text:
+      text: >-
+        I went here while it was still tsunami grill and bar and it was very
+        good. This more recent time however it’s clear they are extremely
+        understaffed (one waitress running all the tables, which is not the
+        fault of the waitress), the older people working behind the
+        counter/seating people lacked basic customer service, and we were
+        forgotten about for over 30 minutes after we got our menu but before
+        anyone took our order (people who came in after us were served and got
+        their food before our order was even taken). The poor waitress was so
+        busy I didn’t even get a chance to let her know we were waiting to be
+        served until 30min in. It’s clear this place isn’t well taken care of
+        anymore as far as the furniture and paint goes. The sushi was okay - not
+        bad but not the best either. The place has definitely gone downhill, go
+        somewhere else if you’re wanting sushi because there are definitely
+        better options.
+      languageCode: en
+    originalText:
+      text: >-
+        I went here while it was still tsunami grill and bar and it was very
+        good. This more recent time however it’s clear they are extremely
+        understaffed (one waitress running all the tables, which is not the
+        fault of the waitress), the older people working behind the
+        counter/seating people lacked basic customer service, and we were
+        forgotten about for over 30 minutes after we got our menu but before
+        anyone took our order (people who came in after us were served and got
+        their food before our order was even taken). The poor waitress was so
+        busy I didn’t even get a chance to let her know we were waiting to be
+        served until 30min in. It’s clear this place isn’t well taken care of
+        anymore as far as the furniture and paint goes. The sushi was okay - not
+        bad but not the best either. The place has definitely gone downhill, go
+        somewhere else if you’re wanting sushi because there are definitely
+        better options.
+      languageCode: en
+    authorAttribution:
+      displayName: E Reynolds
+      uri: https://www.google.com/maps/contrib/117615064742847990564/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJLEFQOWKTVUugdinCbbQv6An2plIwE8hR70y980lXfaVeqEQ=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-02-22T16:29:19.708595Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURnNUxiUTJBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURnNUxiUTJBRRAB!2m1!1s0x8713a2e3af871623:0x3a9a28e6aaac5961
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors to this sushi spot often rave about
+  the tasty rolls and welcoming service, highlighting how the generous portions
+  and flavorful dishes make for a satisfying experience. While some note that
+  prices lean toward the higher side, many agree the quality and variety justify
+  the cost, especially for those discovering new favorites in Japanese eats. A
+  few mentions point to occasional busyness leading to waits, but the overall
+  vibe remains positive with friendly staff and neatly presented meals keeping
+  things enjoyable. In general, it's a solid pick for groups or individuals
+  craving reliable sushi nearby, offering a mix of hits that encourage repeat
+  visits while being upfront about potential crowds.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+curbside_pickup: false
+delivery: true
+dine_in: true
+good_for_children: false
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: true
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
 serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_brunch: false
+serves_cocktails: true
+serves_coffee: true
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Unassuming eatery featuring sushi/sashimi & Japanese staples such as teriyaki
+  & bento boxes.
 
 ---

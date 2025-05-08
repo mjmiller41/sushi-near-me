@@ -5,4 +5,5 @@ permalink: /florida/clearwater/
 stateAbbr: FL
 stateName: Florida
 cityName: Clearwater
+
 ---

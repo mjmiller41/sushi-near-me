@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Sasabune"
+title: Sushi Sasabune
 permalink: /hawaii/honolulu/sushi-sasabune.html
 stateAbbr: HI
 stateName: Hawaii
 cityName: Honolulu
 seo:
-  name: "Sushi Sasabune"
-  type: Restaurant
+  type: restaurant
   links: https://sasabuneh.com/
-description: "Sushi Sasabune serves delicious sushi in Honolulu, Hawaii. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJUVThrO5tAHwRiAxoNC_pE5M
 photos:
   - name: >-
@@ -169,7 +167,49 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x7c006deeace15451:0x9313e92f34680c88!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 2
+        hour: 17
+        minute: 30
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 5:30 – 10:00 PM'
     - 'Wednesday: 5:30 – 10:00 PM'
@@ -177,14 +217,7 @@ opening_hours:
     - 'Friday: 5:30 – 10:00 PM'
     - 'Saturday: 5:30 – 10:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 5:30 – 10:00 PM'
-    - 'Wednesday: 5:30 – 10:00 PM'
-    - 'Thursday: 5:30 – 10:00 PM'
-    - 'Friday: 5:30 – 10:00 PM'
-    - 'Saturday: 5:30 – 10:00 PM'
-    - 'Sunday: Closed'
+  nextOpenTime: '2025-05-04T03:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,35 +229,266 @@ phone: (808) 947-3800
 price_level: PRICE_LEVEL_VERY_EXPENSIVE
 price_range: $100 &ndash; & up
 rating: '4.5'
-rating_count: 0
+rating_count: 385
 website: https://sasabuneh.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Experience Sushi Sasabune in Honolulu$$$Sushi Sasabune in Honolulu, HI, stands
+  out as a premier destination for authentic Japanese dining, focusing on
+  meticulously prepared omakase-style meals that highlight fresh, local seafood.
+  This intimate eatery offers a multi-course adventure where each dish surprises
+  with innovative flavors and high-quality ingredients, making it a go-to spot
+  for sushi enthusiasts seeking something special. With accessibility features
+  like wheelchair-friendly entrances and seating, it's designed to welcome all
+  visitors, enhancing the overall experience for a diverse crowd. Evening hours
+  from Tuesday through Saturday provide the perfect setting for a refined meal,
+  while the simple yet elegant atmosphere adds to the charm of discovering
+  top-rated sushi options in the area.
+generative_summary: >-
+  Experience Sushi Sasabune in Honolulu$$$Sushi Sasabune in Honolulu, HI, stands
+  out as a premier destination for authentic Japanese dining, focusing on
+  meticulously prepared omakase-style meals that highlight fresh, local seafood.
+  This intimate eatery offers a multi-course adventure where each dish surprises
+  with innovative flavors and high-quality ingredients, making it a go-to spot
+  for sushi enthusiasts seeking something special. With accessibility features
+  like wheelchair-friendly entrances and seating, it's designed to welcome all
+  visitors, enhancing the overall experience for a diverse crowd. Evening hours
+  from Tuesday through Saturday provide the perfect setting for a refined meal,
+  while the simple yet elegant atmosphere adds to the charm of discovering
+  top-rated sushi options in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJUVThrO5tAHwRiAxoNC_pE5M/reviews/ChdDSUhNMG9nS0VJQ0FnSURfX29TU19nRRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        I have been to sushi restaurants all over. Mostly, the restaurants i
+        have been to, people rave about the food and I usually feel mediocre at
+        best. HOWEVER, this was hands-down, the best sushi experience i have
+        ever had! There is no menu for food (that is saw) and dish after amazing
+        dish kept on arriving at the table. All so different and all so amazing
+        with fantastic flavors melting around my palate. A couple of us had to
+        tap-out near the end, but worth every single bite. With drinks and food,
+        we were just over $200 per person and well-worth it! This unassuming
+        restaurant is a hidden gem! If you are in Ohau,  you must make the time
+        to experience this!
+      languageCode: en
+    originalText:
+      text: >-
+        I have been to sushi restaurants all over. Mostly, the restaurants i
+        have been to, people rave about the food and I usually feel mediocre at
+        best. HOWEVER, this was hands-down, the best sushi experience i have
+        ever had! There is no menu for food (that is saw) and dish after amazing
+        dish kept on arriving at the table. All so different and all so amazing
+        with fantastic flavors melting around my palate. A couple of us had to
+        tap-out near the end, but worth every single bite. With drinks and food,
+        we were just over $200 per person and well-worth it! This unassuming
+        restaurant is a hidden gem! If you are in Ohau,  you must make the time
+        to experience this!
+      languageCode: en
+    authorAttribution:
+      displayName: Tom Michaels
+      uri: https://www.google.com/maps/contrib/106530414616979191659/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocISxHXrzEGlU80yxaXxoYqoC4TF9Gi0_HH6WoZT2ABm2C_Z3oA=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-01-24T15:13:03.069053Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURfX29TU19nRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURfX29TU19nRRAB!2m1!1s0x7c006deeace15451:0x9313e92f34680c88
+  - name: >-
+      places/ChIJUVThrO5tAHwRiAxoNC_pE5M/reviews/ChZDSUhNMG9nS0VJQ0FnSUN2M0syWFFnEAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 3
+    text:
+      text: >-
+        Pretty good sushi, similar to another review the omakase menu isn’t
+        clear. It’s not a set price but the chef chooses what sushi and dishes
+        to serve and then you are charged individually for each. It’s a la carte
+        omakase style. Wouldn’t go back or recommend the spot but nor would I
+        stop someone from going. The decor is quite tired.
+      languageCode: en
+    originalText:
+      text: >-
+        Pretty good sushi, similar to another review the omakase menu isn’t
+        clear. It’s not a set price but the chef chooses what sushi and dishes
+        to serve and then you are charged individually for each. It’s a la carte
+        omakase style. Wouldn’t go back or recommend the spot but nor would I
+        stop someone from going. The decor is quite tired.
+      languageCode: en
+    authorAttribution:
+      displayName: Jason Yiu
+      uri: https://www.google.com/maps/contrib/105155995180990462817/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIo36HGdHLV070z4RYA_LW9hIJVyOK3guV0KBuZOunOiKz6EA=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-12-09T00:12:03.474684Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN2M0syWFFnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN2M0syWFFnEAE!2m1!1s0x7c006deeace15451:0x9313e92f34680c88
+  - name: >-
+      places/ChIJUVThrO5tAHwRiAxoNC_pE5M/reviews/ChdDSUhNMG9nS0VJQ0FnSUNucXV2SjJBRRAB
+    relativePublishTimeDescription: 7 months ago
+    rating: 4
+    text:
+      text: >-
+        Would I go there again? Probably not. It's pretty pricey. You can get to
+        experience local fish and unique sushi. I didn't love every single dish,
+        but there are a handful that I can appreciate and it was an interesting
+        and unique experience since I normally eat the same type of more common
+        sushi. I think there's a lack of transparency with the omakase style and
+        pricing.  I think you can end your courses earlier if you wanted to save
+        money or was full, but we didn't know that and just paid for every
+        course and didn't end up eating the last few dishes thinking it was an
+        all-in cost. The place is also a bit stuffy And not very inviting . The
+        chef who looked like the head chef has a Stern stare and I felt judged
+        by him and the staff . I echo what some of the other reviewers say about
+        it. Feeling like the place thought highly of itself . I mostly wouldn't
+        go back because it's expensive for what it is. It was minimum 200 per
+        person.
+      languageCode: en
+    originalText:
+      text: >-
+        Would I go there again? Probably not. It's pretty pricey. You can get to
+        experience local fish and unique sushi. I didn't love every single dish,
+        but there are a handful that I can appreciate and it was an interesting
+        and unique experience since I normally eat the same type of more common
+        sushi. I think there's a lack of transparency with the omakase style and
+        pricing.  I think you can end your courses earlier if you wanted to save
+        money or was full, but we didn't know that and just paid for every
+        course and didn't end up eating the last few dishes thinking it was an
+        all-in cost. The place is also a bit stuffy And not very inviting . The
+        chef who looked like the head chef has a Stern stare and I felt judged
+        by him and the staff . I echo what some of the other reviewers say about
+        it. Feeling like the place thought highly of itself . I mostly wouldn't
+        go back because it's expensive for what it is. It was minimum 200 per
+        person.
+      languageCode: en
+    authorAttribution:
+      displayName: Hana Kim
+      uri: https://www.google.com/maps/contrib/100391189493962714631/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjW8kP6-1qptUAU4h0Tp-pkF01HavZ_TbfmWaWVOjM4GkCAGKBTt=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-09-25T00:05:34.220078Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNucXV2SjJBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNucXV2SjJBRRAB!2m1!1s0x7c006deeace15451:0x9313e92f34680c88
+  - name: >-
+      places/ChIJUVThrO5tAHwRiAxoNC_pE5M/reviews/ChZDSUhNMG9nS0VJQ0FnSUREeEk2SGZBEAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        Fantastic high end sushi restaurant. Worth the price tag, but be
+        prepared for it if you have never been. We paid $200 per person when we
+        went. I've had high quality sushi and sushi with great flavors before,
+        but this is the best I've ever had of both worlds. Extremely high
+        quality fish and really well played out flavors in the offerings. Highly
+        reccomend this place.
+      languageCode: en
+    originalText:
+      text: >-
+        Fantastic high end sushi restaurant. Worth the price tag, but be
+        prepared for it if you have never been. We paid $200 per person when we
+        went. I've had high quality sushi and sushi with great flavors before,
+        but this is the best I've ever had of both worlds. Extremely high
+        quality fish and really well played out flavors in the offerings. Highly
+        reccomend this place.
+      languageCode: en
+    authorAttribution:
+      displayName: Jesse Clymer
+      uri: https://www.google.com/maps/contrib/110380944241480852765/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLAHcoLHz8QCXfU4bUEXyQKuCwnx-ePY7s6zBdU-pix4K9ejw=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-04-05T17:43:03.998203Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUREeEk2SGZBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUREeEk2SGZBEAE!2m1!1s0x7c006deeace15451:0x9313e92f34680c88
+  - name: >-
+      places/ChIJUVThrO5tAHwRiAxoNC_pE5M/reviews/ChZDSUhNMG9nS0VJQ0FnSUM3blpTRVF3EAE
+    relativePublishTimeDescription: 8 months ago
+    rating: 5
+    text:
+      text: >-
+        Best sushi on the island, hands down. The freshest fish from all over
+        the world (also hawaiian ahi, tako, opakapaka, sea urchin, among others)
+        like Norwegian makeral, Tasmanian salmon, Hokkaido scallops, Japanese
+        himachi, blue shrimp, oysters, lobster, and a bunch of others for a
+        total of 14 courses. And the chef's menu is always changing, so you
+        never know what you're going to get. The sauces and toppings are out of
+        this world and make the nigiri even better. Service couldn't've been
+        better, and a nice selection of sake and sochu also.
+      languageCode: en
+    originalText:
+      text: >-
+        Best sushi on the island, hands down. The freshest fish from all over
+        the world (also hawaiian ahi, tako, opakapaka, sea urchin, among others)
+        like Norwegian makeral, Tasmanian salmon, Hokkaido scallops, Japanese
+        himachi, blue shrimp, oysters, lobster, and a bunch of others for a
+        total of 14 courses. And the chef's menu is always changing, so you
+        never know what you're going to get. The sauces and toppings are out of
+        this world and make the nigiri even better. Service couldn't've been
+        better, and a nice selection of sake and sochu also.
+      languageCode: en
+    authorAttribution:
+      displayName: brandon dengler
+      uri: https://www.google.com/maps/contrib/105614733287830342701/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXUClPomWky_9as7F5_DdISv42IuT3Sefgb7xz1Edvu66Q7BJ9gXw=s128-c0x00000000-cc-rp-mo-ba8
+    publishTime: '2024-08-18T06:38:28.237381Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUM3blpTRVF3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUM3blpTRVF3EAE!2m1!1s0x7c006deeace15451:0x9313e92f34680c88
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors often rave about the exceptional
+  freshness and variety of the sushi, with many highlighting the creative twists
+  on traditional flavors that make each bite memorable for sushi lovers
+  exploring Hawaiian spots. While the omakase-style service keeps things
+  exciting and unpredictable, some note that the pricing can add up quickly, so
+  it's smart to go in with a budget in mind. Overall, the experience earns high
+  marks for quality and service, though a few mention the atmosphere feels a bit
+  formal, which might not suit everyone. If you're on the hunt for reliable
+  sushi places near you, this one delivers a solid, enjoyable outing that's
+  worth trying for its standout dishes and attentive vibe.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  paidParkingLot: true
+  freeStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
+curbside_pickup: false
+delivery: false
+dine_in: true
+good_for_children: false
 good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
 serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: false
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Japanese eatery offers sushi & elaborately prepared omakase multicourse meals
+  in a simple space.
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Gami Sushi"
+title: Gami Sushi
 permalink: /california/san-diego/gami-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: San Diego
 seo:
-  name: "Gami Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.gamisushisd.com/
-description: "Gami Sushi serves delicious sushi in San Diego, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJDdl-VyUG3IAR_caW47i_uxE
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80dc0625577ed90d:0x11bbbfb8e396c6fd!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 9:00 PM'
     - 'Tuesday: 11:30 AM – 9:00 PM'
     - 'Wednesday: 11:30 AM – 9:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 9:00 PM'
     - 'Saturday: 11:30 AM – 9:00 PM'
     - 'Sunday: 11:30 AM – 9:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 9:00 PM'
-    - 'Tuesday: 11:30 AM – 9:00 PM'
-    - 'Wednesday: 11:30 AM – 9:00 PM'
-    - 'Thursday: 11:30 AM – 9:00 PM'
-    - 'Friday: 11:30 AM – 9:00 PM'
-    - 'Saturday: 11:30 AM – 9:00 PM'
-    - 'Sunday: 11:30 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +246,50 @@ phone: (858) 792-5509
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.5'
-rating_count: 0
+rating_count: 607
 website: https://www.gamisushisd.com/
+description: >-
+  Discover Gami Sushi in San Diego, CA$$$Gami Sushi in San Diego, CA, stands out
+  as a go-to spot for fresh Japanese cuisine, featuring inventive dishes that
+  blend traditional flavors with creative twists. This sushi restaurant offers a
+  casual dining experience with a welcoming patio, perfect for enjoying rolls
+  and sashimi in a relaxed outdoor setting. Patrons appreciate the accessible
+  features like wheelchair-friendly parking and seating, making it an inclusive
+  choice for everyone seeking top-rated sushi nearby. With daily hours from late
+  morning to evening, it's easy to drop in for a satisfying meal that highlights
+  high-quality ingredients and thoughtful presentations. Whether you're
+  exploring sushi places near you or looking for the best Japanese options in
+  the area, this spot delivers a memorable taste of authentic yet innovative
+  flavors.
+generative_summary: >-
+  Discover Gami Sushi in San Diego, CA$$$Gami Sushi in San Diego, CA, stands out
+  as a go-to spot for fresh Japanese cuisine, featuring inventive dishes that
+  blend traditional flavors with creative twists. This sushi restaurant offers a
+  casual dining experience with a welcoming patio, perfect for enjoying rolls
+  and sashimi in a relaxed outdoor setting. Patrons appreciate the accessible
+  features like wheelchair-friendly parking and seating, making it an inclusive
+  choice for everyone seeking top-rated sushi nearby. With daily hours from late
+  morning to evening, it's easy to drop in for a satisfying meal that highlights
+  high-quality ingredients and thoughtful presentations. Whether you're
+  exploring sushi places near you or looking for the best Japanese options in
+  the area, this spot delivers a memorable taste of authentic yet innovative
+  flavors.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Customer Feedback$$$Visitors to this sushi spot often rave about
+  the fresh, creative rolls and sashimi that keep things exciting without
+  overcomplicating the classics, making it a solid pick for anyone craving
+  reliable Japanese eats. Many comments highlight the friendly service and
+  comfortable atmosphere, which add to the overall enjoyable experience, even
+  during busy times. While some note that portions can vary, the general
+  consensus leans toward great value for the price, especially for those hunting
+  for moderately priced options close by. Overall, the high ratings suggest it's
+  a favorite for groups or solo diners alike, with folks appreciating the
+  consistent quality that makes it worth returning to time and again. If you're
+  on the hunt for tasty sushi restaurants in your area, this place seems to hit
+  the mark with its blend of flavor and ease.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +315,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

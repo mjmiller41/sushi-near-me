@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ocean 81 Sushi Bar"
+title: Ocean 81 Sushi Bar
 permalink: /oklahoma/oklahoma-city/ocean-81-sushi-bar.html
 stateAbbr: OK
 stateName: Oklahoma
 cityName: Oklahoma City
 seo:
-  name: "Ocean 81 Sushi Bar"
-  type: Restaurant
+  type: restaurant
   links: https://ocean81.com/
-description: "Ocean 81 Sushi Bar serves delicious sushi in Oklahoma City, Oklahoma. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJidA6KVUasocRLezX80q1C1A
 photos:
   - name: >-
@@ -170,7 +168,97 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x87b21a55293ad089:0x500bb54af3d7ec2d!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 0
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 2:00 PM, 5:00 – 9:00 PM'
     - 'Tuesday: 11:00 AM – 2:00 PM, 5:00 – 9:00 PM'
     - 'Wednesday: 11:00 AM – 2:00 PM, 5:00 – 9:00 PM'
@@ -178,14 +266,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 2:00 PM, 5:00 – 9:00 PM'
     - 'Saturday: 5:00 – 9:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:00 AM – 2:00 PM, 5:00 – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 2:00 PM, 5:00 – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 2:00 PM, 5:00 – 9:00 PM'
-    - 'Thursday: 11:00 AM – 2:00 PM, 5:00 – 9:00 PM'
-    - 'Friday: 11:00 AM – 2:00 PM, 5:00 – 9:00 PM'
-    - 'Saturday: 5:00 – 9:00 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +278,239 @@ phone: (405) 842-3764
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.5'
-rating_count: 0
+rating_count: 292
 website: https://ocean81.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Ocean 81 Sushi Bar in Oklahoma City, OK$$$Ocean 81 Sushi Bar in
+  Oklahoma City, OK, is a welcoming spot for sushi enthusiasts seeking creative
+  rolls and classic Japanese flavors in a relaxed setting. The menu features a
+  mix of fresh sushi options and familiar dishes, complemented by sake and
+  handcrafted cocktails that enhance the dining experience. With its accessible
+  entrance and seating, it's an inclusive choice for those exploring top sushi
+  restaurants nearby, making it easy to enjoy a meal with friends or family. The
+  cozy atmosphere and thoughtful touches like outdoor seating add to the appeal,
+  perfect for anyone searching for quality sushi places in the area. Overall,
+  this establishment stands out for its blend of tradition and innovation,
+  offering a satisfying escape for casual diners.
+generative_summary: >-
+  Discover Ocean 81 Sushi Bar in Oklahoma City, OK$$$Ocean 81 Sushi Bar in
+  Oklahoma City, OK, is a welcoming spot for sushi enthusiasts seeking creative
+  rolls and classic Japanese flavors in a relaxed setting. The menu features a
+  mix of fresh sushi options and familiar dishes, complemented by sake and
+  handcrafted cocktails that enhance the dining experience. With its accessible
+  entrance and seating, it's an inclusive choice for those exploring top sushi
+  restaurants nearby, making it easy to enjoy a meal with friends or family. The
+  cozy atmosphere and thoughtful touches like outdoor seating add to the appeal,
+  perfect for anyone searching for quality sushi places in the area. Overall,
+  this establishment stands out for its blend of tradition and innovation,
+  offering a satisfying escape for casual diners.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJidA6KVUasocRLezX80q1C1A/reviews/ChZDSUhNMG9nS0VJQ0FnTUNROThIWVJBEAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Really clean, great bar, friendly staff, will definitely be coming back,
+        the beer is cold and the food is amazing.
+      languageCode: en
+    originalText:
+      text: >-
+        Really clean, great bar, friendly staff, will definitely be coming back,
+        the beer is cold and the food is amazing.
+      languageCode: en
+    authorAttribution:
+      displayName: R Rod
+      uri: https://www.google.com/maps/contrib/116785415744555468986/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUK6hx3GDVKgOhyksur8Pa3WDW43x0DUbAApDkgfSRbCteANJU=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-03-07T23:54:51.669015Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNROThIWVJBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNROThIWVJBEAE!2m1!1s0x87b21a55293ad089:0x500bb54af3d7ec2d
+  - name: >-
+      places/ChIJidA6KVUasocRLezX80q1C1A/reviews/ChdDSUhNMG9nS0VJQ0FnSUNVd00tZl9RRRAB
+    relativePublishTimeDescription: 5 years ago
+    rating: 5
+    text:
+      text: >-
+        I sat at the bar and had the calamari and the Rocking Cajun roll.
+        Everything was perfectly cooked, and I love the spicy mayo on my roll.
+        I'm not normally a big fan of sushi but this place has a great selection
+        of both cooked and fresh fish options!
+
+
+        I also love the vibe of the place, and they have a large drink
+        selection!
+      languageCode: en
+    originalText:
+      text: >-
+        I sat at the bar and had the calamari and the Rocking Cajun roll.
+        Everything was perfectly cooked, and I love the spicy mayo on my roll.
+        I'm not normally a big fan of sushi but this place has a great selection
+        of both cooked and fresh fish options!
+
+
+        I also love the vibe of the place, and they have a large drink
+        selection!
+      languageCode: en
+    authorAttribution:
+      displayName: John Pham
+      uri: https://www.google.com/maps/contrib/115458426403520357922/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXmNfGK0W4gdOrV4EkWtbgZFpo5cUFacO2rScRt8aB26V3FmoCFJw=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2019-07-14T01:37:56.281153Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNVd00tZl9RRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNVd00tZl9RRRAB!2m1!1s0x87b21a55293ad089:0x500bb54af3d7ec2d
+  - name: >-
+      places/ChIJidA6KVUasocRLezX80q1C1A/reviews/ChZDSUhNMG9nS0VJQ0FnSUR2eGNlMU13EAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 3
+    text:
+      text: >-
+        I had the miso salmon nigiri. It was a good plate. Had some other nigiri
+        and sushi also. Good, but overpriced overall. The cocktails were great,
+        honestly the best part of our visit, but overpriced. We asked to see the
+        happy hour menu and the server seemed annoyed even though we got there
+        with 30 minutes left in it and we were the only patrons in there at that
+        time. Also the waitress checked her clock when I ordered more nigiri 2
+        minutes before 6. Funny thing about it was that we didn't get anything
+        from that happy hour menu the whole visit anyway. She was friendly
+        otherwise but her checking of her watch multiple times and telling us
+        how much time was left in happy hour made us uncomfortable, especially
+        since we didn't order anything from the happy hour menu.
+      languageCode: en
+    originalText:
+      text: >-
+        I had the miso salmon nigiri. It was a good plate. Had some other nigiri
+        and sushi also. Good, but overpriced overall. The cocktails were great,
+        honestly the best part of our visit, but overpriced. We asked to see the
+        happy hour menu and the server seemed annoyed even though we got there
+        with 30 minutes left in it and we were the only patrons in there at that
+        time. Also the waitress checked her clock when I ordered more nigiri 2
+        minutes before 6. Funny thing about it was that we didn't get anything
+        from that happy hour menu the whole visit anyway. She was friendly
+        otherwise but her checking of her watch multiple times and telling us
+        how much time was left in happy hour made us uncomfortable, especially
+        since we didn't order anything from the happy hour menu.
+      languageCode: en
+    authorAttribution:
+      displayName: Nathan Troester
+      uri: https://www.google.com/maps/contrib/107907096458586380789/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUCDDZiBwAhY9d6ruft1ZmcuSmAP3sz7QZFUBc2SadCYojV721a2g=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-12-22T08:12:04.984891Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR2eGNlMU13EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR2eGNlMU13EAE!2m1!1s0x87b21a55293ad089:0x500bb54af3d7ec2d
+  - name: >-
+      places/ChIJidA6KVUasocRLezX80q1C1A/reviews/ChZDSUhNMG9nS0VJQ0FnSURTbTViQ0tREAE
+    relativePublishTimeDescription: 4 years ago
+    rating: 5
+    text:
+      text: >-
+        The food was GREAT!! Ordered the OMG sushi roll and I can't remember the
+        other kind but it was just as good. The customer service was good and
+        they were on top of it as to filling drinks and what not
+      languageCode: en
+    originalText:
+      text: >-
+        The food was GREAT!! Ordered the OMG sushi roll and I can't remember the
+        other kind but it was just as good. The customer service was good and
+        they were on top of it as to filling drinks and what not
+      languageCode: en
+    authorAttribution:
+      displayName: A. W.
+      uri: https://www.google.com/maps/contrib/109533119484844435955/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjX2KbJqkN7usIEH6p3p4k1qFZNiw0zdh__0xhMcLO9PyR7CEaU=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2021-01-10T03:56:45.077997Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURTbTViQ0tREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURTbTViQ0tREAE!2m1!1s0x87b21a55293ad089:0x500bb54af3d7ec2d
+  - name: >-
+      places/ChIJidA6KVUasocRLezX80q1C1A/reviews/ChdDSUhNMG9nS0VJQ0FnSUNub1lUMzZRRRAB
+    relativePublishTimeDescription: 7 months ago
+    rating: 3
+    text:
+      text: >-
+        The service and the restaurant itself was great. It's a cool place with
+        friendly workers that were quick and attentive. However, the prices are
+        much too high and the presentation, taste and portion was poor. The fish
+        was good quality but the rest of the meal was more or less
+        disappointing. This is not somewhere I would go back to.
+      languageCode: en
+    originalText:
+      text: >-
+        The service and the restaurant itself was great. It's a cool place with
+        friendly workers that were quick and attentive. However, the prices are
+        much too high and the presentation, taste and portion was poor. The fish
+        was good quality but the rest of the meal was more or less
+        disappointing. This is not somewhere I would go back to.
+      languageCode: en
+    authorAttribution:
+      displayName: Bradyn Robertson
+      uri: https://www.google.com/maps/contrib/105200300293952571305/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLWLsfO1ZqWf2g7is9-YjjbI9dtdQi0V5STMiMKU8qqwWNVdA=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-09-26T18:18:44.078552Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNub1lUMzZRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNub1lUMzZRRRAB!2m1!1s0x87b21a55293ad089:0x500bb54af3d7ec2d
+review_summary: >-
+  Customer Feedback on Ocean 81$$$Folks often rave about the tasty sushi and
+  creative rolls at this spot, with many highlighting the fresh flavors and fun
+  presentations that make meals memorable. The friendly staff and relaxed vibe
+  come up a lot, creating a welcoming environment where drinks like cocktails
+  flow smoothly alongside great service. While some mention that prices can feel
+  a bit steep for what you get, the overall experience still shines through with
+  solid portions and delicious options like tempura treats. It's clear that the
+  attentive team helps turn visits into enjoyable outings, though a few note
+  occasional hiccups with timing during busier hours. All in all, this place
+  keeps things positive for sushi lovers, making it a solid pick for anyone
+  craving authentic Japanese-inspired dining nearby.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
+delivery: true
+dine_in: true
 good_for_children: null
-good_for_groups: null
+good_for_groups: true
 good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
+live_music: false
+menu_for_children: true
+outdoor_seating: true
 reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Relaxed setting for classic & creative sushi rolls, as well as cooked Japanese
+  entrees.
 
 ---

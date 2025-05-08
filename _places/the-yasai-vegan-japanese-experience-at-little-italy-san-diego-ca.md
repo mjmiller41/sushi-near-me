@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "The Yasai: Vegan Japanese Experience at Little Italy"
+title: 'The Yasai: Vegan Japanese Experience at Little Italy'
 permalink: /california/san-diego/the-yasai-vegan-japanese-experience-at-little-italy.html
 stateAbbr: CA
 stateName: California
 cityName: San Diego
 seo:
-  name: "The Yasai: Vegan Japanese Experience at Little Italy"
-  type: Restaurant
-  links: null
-description: "The Yasai: Vegan Japanese Experience at Little Italy serves delicious sushi in San Diego, California. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.yasaivegan.com/
 place_id: ChIJiQXuf1NV2YARrLEXpzF5hJo
 photos:
   - name: >-
@@ -170,8 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80d955537fee0589:0x9a847931a717b1ac!10e5
 primary_type: Vegan Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 16
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 16
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: Closed'
+    - 'Tuesday: Closed'
+    - 'Wednesday: 5:00 – 10:00 PM'
+    - 'Thursday: 5:00 – 10:00 PM'
+    - 'Friday: 4:00 – 10:00 PM'
+    - 'Saturday: 4:00 – 10:00 PM'
+    - 'Sunday: 4:00 – 10:00 PM'
+  nextOpenTime: '2025-05-03T23:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +226,48 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (858) 240-1445
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.4'
+rating_count: 414
+website: https://www.yasaivegan.com/
+description: >-
+  Discover The Yasai in San Diego, CA$$$The Yasai: Vegan Japanese Experience in
+  San Diego, CA, offers a welcoming spot for enjoying plant-based twists on
+  classic Japanese dishes. This cozy venue serves up casual fare like fresh
+  vegan sushi and flavorful ramen, creating a relaxed atmosphere in the heart of
+  Little Italy. Diners can explore creative options that highlight fresh
+  ingredients and thoughtful flavors, making it a go-to choice for those seeking
+  sushi restaurants in a vibrant urban setting. With its accessible design and
+  moderate pricing, the spot appeals to health-minded food lovers looking for a
+  satisfying meal. Whether you're in the mood for innovative rolls or comforting
+  bowls, it provides an authentic yet approachable Japanese-inspired experience.
+generative_summary: >-
+  Discover The Yasai in San Diego, CA$$$The Yasai: Vegan Japanese Experience in
+  San Diego, CA, offers a welcoming spot for enjoying plant-based twists on
+  classic Japanese dishes. This cozy venue serves up casual fare like fresh
+  vegan sushi and flavorful ramen, creating a relaxed atmosphere in the heart of
+  Little Italy. Diners can explore creative options that highlight fresh
+  ingredients and thoughtful flavors, making it a go-to choice for those seeking
+  sushi restaurants in a vibrant urban setting. With its accessible design and
+  moderate pricing, the spot appeals to health-minded food lovers looking for a
+  satisfying meal. Whether you're in the mood for innovative rolls or comforting
+  bowls, it provides an authentic yet approachable Japanese-inspired experience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Sharing$$$Folks often rave about the tasty vegan sushi at
+  The Yasai, highlighting how the creative rolls and hearty ramen make for a
+  delightful plant-based meal. Many appreciate the friendly service that keeps
+  things welcoming and attentive, adding to the overall charm of the place. The
+  sleek, minimalist vibe gives off a cool Japanese aesthetic that enhances the
+  dining experience without overwhelming the senses. While some mention
+  occasional background noise on the outdoor area, it's generally seen as a
+  minor trade-off for the fresh flavors and relaxed setting. All in all, it's a
+  solid pick for anyone hunting for top-rated sushi spots that deliver honest,
+  enjoyable vibes.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +293,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

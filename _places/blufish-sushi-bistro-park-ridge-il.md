@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Blufish Sushi Bistro"
+title: Blufish Sushi Bistro
 permalink: /illinois/park-ridge/blufish-sushi-bistro.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Park Ridge
 seo:
-  name: "Blufish Sushi Bistro"
-  type: Restaurant
-  links: null
-description: "Blufish Sushi Bistro serves delicious sushi in Park Ridge, Illinois. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.blufishsushi.com/
 place_id: ChIJGTmambbJD4gReDI8hS_XGiA
 photos:
   - name: >-
@@ -170,22 +168,363 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x880fc9b6999a3919:0x201ad72f853c3278!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 14
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 14
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:30 AM – 9:00 PM'
+    - 'Tuesday: 11:30 AM – 9:00 PM'
+    - 'Wednesday: 11:30 AM – 9:00 PM'
+    - 'Thursday: 11:30 AM – 9:00 PM'
+    - 'Friday: 11:30 AM – 9:30 PM'
+    - 'Saturday: 2:00 – 9:30 PM'
+    - 'Sunday: 2:00 – 8:30 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 14
+          minute: 0
+        close:
+          day: 0
+          hour: 20
+          minute: 30
+      - open:
+          day: 1
+          hour: 11
+          minute: 30
+        close:
+          day: 1
+          hour: 14
+          minute: 0
+      - open:
+          day: 1
+          hour: 16
+          minute: 30
+        close:
+          day: 1
+          hour: 21
+          minute: 0
+      - open:
+          day: 2
+          hour: 11
+          minute: 30
+        close:
+          day: 2
+          hour: 14
+          minute: 0
+      - open:
+          day: 2
+          hour: 16
+          minute: 30
+        close:
+          day: 2
+          hour: 21
+          minute: 0
+      - open:
+          day: 3
+          hour: 11
+          minute: 30
+        close:
+          day: 3
+          hour: 14
+          minute: 0
+      - open:
+          day: 3
+          hour: 16
+          minute: 30
+        close:
+          day: 3
+          hour: 21
+          minute: 0
+      - open:
+          day: 4
+          hour: 11
+          minute: 30
+        close:
+          day: 4
+          hour: 14
+          minute: 0
+      - open:
+          day: 4
+          hour: 16
+          minute: 30
+        close:
+          day: 4
+          hour: 21
+          minute: 0
+      - open:
+          day: 5
+          hour: 11
+          minute: 30
+        close:
+          day: 5
+          hour: 14
+          minute: 0
+      - open:
+          day: 5
+          hour: 16
+          minute: 30
+        close:
+          day: 5
+          hour: 21
+          minute: 30
+      - open:
+          day: 6
+          hour: 14
+          minute: 0
+        close:
+          day: 6
+          hour: 21
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 11:30 AM – 2:00 PM, 4:30 – 9:00 PM'
+      - 'Tuesday: 11:30 AM – 2:00 PM, 4:30 – 9:00 PM'
+      - 'Wednesday: 11:30 AM – 2:00 PM, 4:30 – 9:00 PM'
+      - 'Thursday: 11:30 AM – 2:00 PM, 4:30 – 9:00 PM'
+      - 'Friday: 11:30 AM – 2:00 PM, 4:30 – 9:30 PM'
+      - 'Saturday: 2:00 – 9:30 PM'
+      - 'Sunday: 2:00 – 8:30 PM'
+    secondaryHoursType: TAKEOUT
+    nextCloseTime: '2025-05-04T02:30:00Z'
+  - openNow: false
+    periods:
+      - open:
+          day: 0
+          hour: 14
+          minute: 0
+        close:
+          day: 0
+          hour: 16
+          minute: 0
+      - open:
+          day: 1
+          hour: 11
+          minute: 30
+        close:
+          day: 1
+          hour: 14
+          minute: 0
+      - open:
+          day: 2
+          hour: 11
+          minute: 30
+        close:
+          day: 2
+          hour: 14
+          minute: 0
+      - open:
+          day: 3
+          hour: 11
+          minute: 30
+        close:
+          day: 3
+          hour: 14
+          minute: 0
+      - open:
+          day: 4
+          hour: 11
+          minute: 30
+        close:
+          day: 4
+          hour: 14
+          minute: 0
+      - open:
+          day: 5
+          hour: 11
+          minute: 30
+        close:
+          day: 5
+          hour: 14
+          minute: 0
+      - open:
+          day: 6
+          hour: 14
+          minute: 0
+        close:
+          day: 6
+          hour: 16
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 11:30 AM – 2:00 PM'
+      - 'Tuesday: 11:30 AM – 2:00 PM'
+      - 'Wednesday: 11:30 AM – 2:00 PM'
+      - 'Thursday: 11:30 AM – 2:00 PM'
+      - 'Friday: 11:30 AM – 2:00 PM'
+      - 'Saturday: 2:00 – 4:00 PM'
+      - 'Sunday: 2:00 – 4:00 PM'
+    secondaryHoursType: LUNCH
+    nextOpenTime: '2025-05-04T19:00:00Z'
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 16
+          minute: 30
+        close:
+          day: 0
+          hour: 20
+          minute: 30
+      - open:
+          day: 1
+          hour: 16
+          minute: 30
+        close:
+          day: 1
+          hour: 21
+          minute: 0
+      - open:
+          day: 2
+          hour: 16
+          minute: 30
+        close:
+          day: 2
+          hour: 21
+          minute: 0
+      - open:
+          day: 3
+          hour: 16
+          minute: 30
+        close:
+          day: 3
+          hour: 21
+          minute: 0
+      - open:
+          day: 4
+          hour: 16
+          minute: 30
+        close:
+          day: 4
+          hour: 21
+          minute: 0
+      - open:
+          day: 5
+          hour: 16
+          minute: 30
+        close:
+          day: 5
+          hour: 21
+          minute: 30
+      - open:
+          day: 6
+          hour: 15
+          minute: 30
+        close:
+          day: 6
+          hour: 21
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 4:30 – 9:00 PM'
+      - 'Tuesday: 4:30 – 9:00 PM'
+      - 'Wednesday: 4:30 – 9:00 PM'
+      - 'Thursday: 4:30 – 9:00 PM'
+      - 'Friday: 4:30 – 9:30 PM'
+      - 'Saturday: 3:30 – 9:30 PM'
+      - 'Sunday: 4:30 – 8:30 PM'
+    secondaryHoursType: DINNER
+    nextCloseTime: '2025-05-04T02:30:00Z'
+phone: (847) 720-4479
+price_level: PRICE_LEVEL_MODERATE
+price_range: $30 &ndash; $50
+rating: '4.6'
+rating_count: 1045
+website: http://www.blufishsushi.com/
+description: >-
+  About Blufish Sushi Bistro in Park Ridge, IL$$$Blufish Sushi Bistro in Park
+  Ridge, IL, stands out as a trendy destination for fresh sushi and inventive
+  cocktails, blending upscale ambiance with creative Japanese-inspired flavors.
+  This inviting sushi restaurant near you offers a modern setting that's perfect
+  for enjoying meticulously prepared rolls and a variety of sake options, making
+  it a go-to spot for those seeking top-rated sushi experiences. With
+  accessibility features like wheelchair-friendly parking and entrances, it's
+  designed to welcome everyone for a comfortable dine-in adventure. The bistro's
+  flexible hours, including evenings and weekends, cater to locals looking for
+  reliable sushi places nearby, ensuring you can savor its imaginative menu at
+  your convenience.
+generative_summary: >-
+  About Blufish Sushi Bistro in Park Ridge, IL$$$Blufish Sushi Bistro in Park
+  Ridge, IL, stands out as a trendy destination for fresh sushi and inventive
+  cocktails, blending upscale ambiance with creative Japanese-inspired flavors.
+  This inviting sushi restaurant near you offers a modern setting that's perfect
+  for enjoying meticulously prepared rolls and a variety of sake options, making
+  it a go-to spot for those seeking top-rated sushi experiences. With
+  accessibility features like wheelchair-friendly parking and entrances, it's
+  designed to welcome everyone for a comfortable dine-in adventure. The bistro's
+  flexible hours, including evenings and weekends, cater to locals looking for
+  reliable sushi places nearby, ensuring you can savor its imaginative menu at
+  your convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Raving About$$$Visitors to this popular sushi spot often
+  highlight the delicious and creative dishes, like flavorful rolls and hearty
+  appetizers that make it a standout choice for sushi lovers in the area. Folks
+  appreciate the strong selection of drinks and sake, which pair perfectly with
+  the fresh flavors and add to the overall enjoyable vibe. The staff's friendly
+  expertise, especially in the bar, creates a welcoming atmosphere that keeps
+  diners coming back for more casual evenings out. While opinions vary, many
+  agree that the modern and spacious setting enhances the experience, making it
+  a solid pick for groups or anyone hunting for the best sushi near me. Overall,
+  it's a reliably positive spot that delivers on taste and service without any
+  major drawbacks.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +550,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Azukar Sushi"
+title: Azukar Sushi
 permalink: /california/sacramento/azukar-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Sacramento
 seo:
-  name: "Azukar Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.azukar-sushi.com/
-description: "Azukar Sushi serves delicious sushi in Sacramento, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJc-tXP-PWmoARC-OnnF7PZ3M
 photos:
   - name: >-
@@ -170,7 +168,89 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x809ad6e33f57eb73:0x7367cf5e9ca7e30b!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 15
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 20
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 20
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:30 AM – 3:00 PM, 5:00 – 8:00 PM'
     - 'Wednesday: 11:30 AM – 3:00 PM, 5:00 – 8:00 PM'
@@ -178,54 +258,426 @@ opening_hours:
     - 'Friday: 11:30 AM – 3:00 PM, 5:00 – 8:00 PM'
     - 'Saturday: 12:00 – 8:00 PM'
     - 'Sunday: 12:00 – 8:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:30 AM – 3:00 PM, 5:00 – 8:00 PM'
-    - 'Wednesday: 11:30 AM – 3:00 PM, 5:00 – 8:00 PM'
-    - 'Thursday: 11:30 AM – 3:00 PM, 5:00 – 8:00 PM'
-    - 'Friday: 11:30 AM – 3:00 PM, 5:00 – 8:00 PM'
-    - 'Saturday: 12:00 – 8:00 PM'
-    - 'Sunday: 12:00 – 8:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 0
+        close:
+          day: 0
+          hour: 19
+          minute: 30
+      - open:
+          day: 2
+          hour: 11
+          minute: 30
+        close:
+          day: 2
+          hour: 14
+          minute: 45
+      - open:
+          day: 2
+          hour: 17
+          minute: 0
+        close:
+          day: 2
+          hour: 19
+          minute: 30
+      - open:
+          day: 3
+          hour: 11
+          minute: 30
+        close:
+          day: 3
+          hour: 14
+          minute: 45
+      - open:
+          day: 3
+          hour: 17
+          minute: 0
+        close:
+          day: 3
+          hour: 19
+          minute: 30
+      - open:
+          day: 4
+          hour: 11
+          minute: 30
+        close:
+          day: 4
+          hour: 14
+          minute: 45
+      - open:
+          day: 4
+          hour: 17
+          minute: 0
+        close:
+          day: 4
+          hour: 19
+          minute: 30
+      - open:
+          day: 5
+          hour: 11
+          minute: 30
+        close:
+          day: 5
+          hour: 14
+          minute: 45
+      - open:
+          day: 5
+          hour: 17
+          minute: 0
+        close:
+          day: 5
+          hour: 19
+          minute: 30
+      - open:
+          day: 6
+          hour: 12
+          minute: 0
+        close:
+          day: 6
+          hour: 19
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: Closed'
+      - 'Tuesday: 11:30 AM – 2:45 PM, 5:00 – 7:30 PM'
+      - 'Wednesday: 11:30 AM – 2:45 PM, 5:00 – 7:30 PM'
+      - 'Thursday: 11:30 AM – 2:45 PM, 5:00 – 7:30 PM'
+      - 'Friday: 11:30 AM – 2:45 PM, 5:00 – 7:30 PM'
+      - 'Saturday: 12:00 – 7:30 PM'
+      - 'Sunday: 12:00 – 7:30 PM'
+    secondaryHoursType: TAKEOUT
+    nextCloseTime: '2025-05-04T02:30:00Z'
 phone: (916) 504-1121
 price_level: PRICE_LEVEL_MODERATE
 price_range: $30 &ndash; $50
 rating: '4.4'
-rating_count: 0
+rating_count: 864
 website: https://www.azukar-sushi.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Azukar Sushi in Sacramento, CA$$$Azukar Sushi in Sacramento, CA,
+  stands out as a popular all-you-can-eat destination featuring an array of
+  classic and inventive rolls that cater to sushi enthusiasts. The restaurant
+  boasts a comfortable, contemporary atmosphere with sleek decor that enhances
+  the dining experience, making it ideal for groups or casual outings. Its
+  extensive menu highlights fresh ingredients and creative presentations,
+  drawing in those seeking top-rated sushi options in the area. Accessibility
+  features like wheelchair-friendly parking and entrances add to its appeal for
+  a wide range of visitors. Whether you're exploring sushi restaurants near you
+  or looking for a reliable spot in Sacramento, this place delivers a satisfying
+  blend of quality and variety.
+generative_summary: >-
+  Discover Azukar Sushi in Sacramento, CA$$$Azukar Sushi in Sacramento, CA,
+  stands out as a popular all-you-can-eat destination featuring an array of
+  classic and inventive rolls that cater to sushi enthusiasts. The restaurant
+  boasts a comfortable, contemporary atmosphere with sleek decor that enhances
+  the dining experience, making it ideal for groups or casual outings. Its
+  extensive menu highlights fresh ingredients and creative presentations,
+  drawing in those seeking top-rated sushi options in the area. Accessibility
+  features like wheelchair-friendly parking and entrances add to its appeal for
+  a wide range of visitors. Whether you're exploring sushi restaurants near you
+  or looking for a reliable spot in Sacramento, this place delivers a satisfying
+  blend of quality and variety.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJc-tXP-PWmoARC-OnnF7PZ3M/reviews/ChZDSUhNMG9nS0VJQ0FnSUNmaDZhMFNnEAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        Very nice atmosphere and good sushi, no loud music blaring. We went on
+        NYE and the service was great. I had the honey walnut shrimp sushi roll,
+        the Philly role, gyoza, and ebi nigiri. All of it was fresh and
+        delicious. The Asahi beer was really good too, I hadn't had that kind
+        before.
+
+
+        Instead of ordering a la carte, everything on their dinner menu is
+        included in an all you can eat for $33 per person. However, the menu
+        notes that you will be charged accordingly for leftovers, which is
+        pretty smart to discourage people from making a lot of waste or trying
+        to take home a bunch of extras for free.
+
+        Note: ice tea does not come with refills, but they did give us a free
+        order of donuts at the end, which was very kind of them.
+      languageCode: en
+    originalText:
+      text: >-
+        Very nice atmosphere and good sushi, no loud music blaring. We went on
+        NYE and the service was great. I had the honey walnut shrimp sushi roll,
+        the Philly role, gyoza, and ebi nigiri. All of it was fresh and
+        delicious. The Asahi beer was really good too, I hadn't had that kind
+        before.
+
+
+        Instead of ordering a la carte, everything on their dinner menu is
+        included in an all you can eat for $33 per person. However, the menu
+        notes that you will be charged accordingly for leftovers, which is
+        pretty smart to discourage people from making a lot of waste or trying
+        to take home a bunch of extras for free.
+
+        Note: ice tea does not come with refills, but they did give us a free
+        order of donuts at the end, which was very kind of them.
+      languageCode: en
+    authorAttribution:
+      displayName: Stacey Armstrong
+      uri: https://www.google.com/maps/contrib/107913843848010365197/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUn3zIx8dC3fb89Go8f6DmFjKPXQ34NNJVHOOAy3cACkS0HSmYmfw=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-01-02T03:36:25.297795Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNmaDZhMFNnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNmaDZhMFNnEAE!2m1!1s0x809ad6e33f57eb73:0x7367cf5e9ca7e30b
+  - name: >-
+      places/ChIJc-tXP-PWmoARC-OnnF7PZ3M/reviews/ChZDSUhNMG9nS0VJQ0FnSUR2MmJpOUtnEAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        I love sushi! So I decided to give this place a chance, and I was not
+        disappointed. Sashimi was delicious and perfectly cut. The caterpillar
+        role was also very delicious.
+      languageCode: en
+    originalText:
+      text: >-
+        I love sushi! So I decided to give this place a chance, and I was not
+        disappointed. Sashimi was delicious and perfectly cut. The caterpillar
+        role was also very delicious.
+      languageCode: en
+    authorAttribution:
+      displayName: Surge Meckem
+      uri: https://www.google.com/maps/contrib/112905224320792441581/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXTJ2qsMM72TcM2jJrax4gIKqR6aZW1M75hwd9Qyb35WGI8QxiyrQ=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-12-21T23:12:19.906116Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR2MmJpOUtnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR2MmJpOUtnEAE!2m1!1s0x809ad6e33f57eb73:0x7367cf5e9ca7e30b
+  - name: >-
+      places/ChIJc-tXP-PWmoARC-OnnF7PZ3M/reviews/ChdDSUhNMG9nS0VJQ0FnSUNMek95X2tRRRAB
+    relativePublishTimeDescription: 10 months ago
+    rating: 3
+    text:
+      text: >-
+        I do not recommend this place.
+
+
+        The 3 stars is for the speed of service, easy to eat portions, and
+        relative affordability for AYCE. Food comes super fast, at the cost of
+        being poorly assembled sometimes. It’s 5 pieces per roll, so you can try
+        a variety without feeling too burdened. The cost for weekends or dinner
+        is $33/person.
+
+
+        The food is just not very good. The worst part is that they can’t even
+        cook rice right. RICE. At a SUSHI restaurant! It’s insanely dense and
+        unpleasant to chew and of course they’d add sooo much of it to
+        everything.
+
+
+        The fish was consistently bland with some highs and lows. The fish on
+        the nigiri wasn’t bad, but it doesn’t taste great either.
+
+
+        I forgot to take a picture of this one but I did enjoy the salmon in the
+        spicy assorted sashimi side specifically. It’s a nice pile of cubed
+        salmon, tuna, and yellowtail. My partner ate the yellowtail and it had a
+        mushy, poorly thawed frozen texture.
+
+
+        Tried the 49ers roll, azukar roll, and bay scallop roll. 49ers is ok but
+        the ratio of ingredients to rice is poor. Azukar roll was my favorite,
+        probably cause it’s a fried maki roll and didn’t have an awful outer
+        layer of rice lol. The bay scallop roll is extremely umami and a little
+        sickening, but it’s fine with sriracha. The selection is not very
+        diverse.
+
+
+        Lastly we ordered sesame balls, it’s nice cause they can be ordered
+        individually. They’re ok, I like how they’re petite. We asked what the
+        donut on their menu is and the server said it’s just a normal sugar
+        donut hole fyi.
+
+
+        You can just go ahead and disregard the Asian food opinions of everyone
+        raving about this being the best sushi ever lol. Just go literally
+        anywhere else run by the Japanese or Koreans. Not trying to sound like a
+        snob, I love cheap slightly low quality sushi. But this is NOT it. Don’t
+        take your Asian friends and don’t take someone here for their first
+        time. Sorry. The inside of the restaurant and servers were nice.
+      languageCode: en
+    originalText:
+      text: >-
+        I do not recommend this place.
+
+
+        The 3 stars is for the speed of service, easy to eat portions, and
+        relative affordability for AYCE. Food comes super fast, at the cost of
+        being poorly assembled sometimes. It’s 5 pieces per roll, so you can try
+        a variety without feeling too burdened. The cost for weekends or dinner
+        is $33/person.
+
+
+        The food is just not very good. The worst part is that they can’t even
+        cook rice right. RICE. At a SUSHI restaurant! It’s insanely dense and
+        unpleasant to chew and of course they’d add sooo much of it to
+        everything.
+
+
+        The fish was consistently bland with some highs and lows. The fish on
+        the nigiri wasn’t bad, but it doesn’t taste great either.
+
+
+        I forgot to take a picture of this one but I did enjoy the salmon in the
+        spicy assorted sashimi side specifically. It’s a nice pile of cubed
+        salmon, tuna, and yellowtail. My partner ate the yellowtail and it had a
+        mushy, poorly thawed frozen texture.
+
+
+        Tried the 49ers roll, azukar roll, and bay scallop roll. 49ers is ok but
+        the ratio of ingredients to rice is poor. Azukar roll was my favorite,
+        probably cause it’s a fried maki roll and didn’t have an awful outer
+        layer of rice lol. The bay scallop roll is extremely umami and a little
+        sickening, but it’s fine with sriracha. The selection is not very
+        diverse.
+
+
+        Lastly we ordered sesame balls, it’s nice cause they can be ordered
+        individually. They’re ok, I like how they’re petite. We asked what the
+        donut on their menu is and the server said it’s just a normal sugar
+        donut hole fyi.
+
+
+        You can just go ahead and disregard the Asian food opinions of everyone
+        raving about this being the best sushi ever lol. Just go literally
+        anywhere else run by the Japanese or Koreans. Not trying to sound like a
+        snob, I love cheap slightly low quality sushi. But this is NOT it. Don’t
+        take your Asian friends and don’t take someone here for their first
+        time. Sorry. The inside of the restaurant and servers were nice.
+      languageCode: en
+    authorAttribution:
+      displayName: Jenny
+      uri: https://www.google.com/maps/contrib/115939301477923159919/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXUBXXpyd0pmBMvFQlIW-ifNAJS6cGYhJ0r8PCIz62HbLmXdyMw=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-06-16T04:24:23.117114Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNMek95X2tRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNMek95X2tRRRAB!2m1!1s0x809ad6e33f57eb73:0x7367cf5e9ca7e30b
+  - name: >-
+      places/ChIJc-tXP-PWmoARC-OnnF7PZ3M/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3M3R6X2R3EAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Genmaicha, brown toasted Rice green tea is very good, if you like it
+        spicy the Arizona roll is probably my favorite
+      languageCode: en
+    originalText:
+      text: >-
+        Genmaicha, brown toasted Rice green tea is very good, if you like it
+        spicy the Arizona roll is probably my favorite
+      languageCode: en
+    authorAttribution:
+      displayName: Byron Zamorano
+      uri: https://www.google.com/maps/contrib/117594550138842786268/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIyw5bG31A_dL-VpymgrXQ8QUwVRklbm5r3EeM2ldk712OQWA=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-26T02:55:46.757287Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUR3M3R6X2R3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUR3M3R6X2R3EAE!2m1!1s0x809ad6e33f57eb73:0x7367cf5e9ca7e30b
+  - name: >-
+      places/ChIJc-tXP-PWmoARC-OnnF7PZ3M/reviews/ChdDSUhNMG9nS0VJQ0FnSURSLWVIdWxBRRAB
+    relativePublishTimeDescription: 8 months ago
+    rating: 5
+    text:
+      text: >-
+        I love Azukar Sushi! It's fresh made to order sushi all you can eat. Out
+        off all other sushi places I have tried. This is my favorite. They have
+        all my favorites which we ordered. The BBQ Albacore, Jalapeño Crispy,
+        Super Dynamite
+
+        , and many more. The price is decent. You make it up just by having 2-3
+        different items.
+      languageCode: en
+    originalText:
+      text: >-
+        I love Azukar Sushi! It's fresh made to order sushi all you can eat. Out
+        off all other sushi places I have tried. This is my favorite. They have
+        all my favorites which we ordered. The BBQ Albacore, Jalapeño Crispy,
+        Super Dynamite
+
+        , and many more. The price is decent. You make it up just by having 2-3
+        different items.
+      languageCode: en
+    authorAttribution:
+      displayName: Gladys Morales
+      uri: https://www.google.com/maps/contrib/112459242069098474871/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVJoHZ78YsiweKvOluTA9O3amkddCZXOALVB5rlPDzpE__59UexEA=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-08-10T02:37:51.238946Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURSLWVIdWxBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURSLWVIdWxBRRAB!2m1!1s0x809ad6e33f57eb73:0x7367cf5e9ca7e30b
+review_summary: >-
+  What Customers Are Saying About This Sushi Spot$$$Visitors often praise the
+  fresh flavors and generous portions at this Sacramento sushi restaurant, with
+  many highlighting the all-you-can-eat deals as a great value for trying
+  different rolls. Feedback frequently mentions quick service and tasty specials
+  like spicy options, making it a go-to choice for those craving satisfying
+  meals. While some note that the rice could be lighter and fluffier, the
+  overall experience remains enjoyable with friendly staff and a welcoming vibe.
+  Diners appreciate the variety that keeps things exciting, helping it stand out
+  among local Japanese places. If you're searching for the best sushi near you,
+  this spot generally delivers a positive and flavorful adventure worth checking
+  out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
+delivery: true
+dine_in: true
 good_for_children: null
-good_for_groups: null
-good_for_sports: null
+good_for_groups: true
+good_for_sports: false
 live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: false
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Shopping-center eatery with sleek, contemporary decor & a large menu of sushi
+  & sashimi.
 
 ---

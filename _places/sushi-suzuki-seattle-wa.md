@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Suzuki"
+title: Sushi Suzuki
 permalink: /washington/seattle/sushi-suzuki.html
 stateAbbr: WA
 stateName: Washington
 cityName: Seattle
 seo:
-  name: "Sushi Suzuki"
-  type: Restaurant
+  type: restaurant
   links: http://sushisuzuki.com/
-description: "Sushi Suzuki serves delicious sushi in Seattle, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJNdwddBEVkFQRFbOM_NGG6-8
 photos:
   - name: >-
@@ -168,7 +166,49 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x54901511741ddc35:0xefeb86d1fc8cb315!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 30
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 30
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: Closed'
     - 'Wednesday: 5:00 – 10:30 PM'
@@ -176,14 +216,7 @@ opening_hours:
     - 'Friday: 5:00 – 10:30 PM'
     - 'Saturday: 5:00 – 10:30 PM'
     - 'Sunday: 5:00 – 10:30 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: Closed'
-    - 'Wednesday: 5:00 – 10:30 PM'
-    - 'Thursday: 5:00 – 10:30 PM'
-    - 'Friday: 5:00 – 10:30 PM'
-    - 'Saturday: 5:00 – 10:30 PM'
-    - 'Sunday: 5:00 – 10:30 PM'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -195,35 +228,257 @@ phone: (206) 466-6621
 price_level: PRICE_LEVEL_VERY_EXPENSIVE
 price_range: $100 &ndash; & up
 rating: '4.8'
-rating_count: 0
+rating_count: 123
 website: http://sushisuzuki.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Experience Sushi Suzuki in Seattle, WA$$$Sushi Suzuki in Seattle, WA, stands
+  out as a premier sushi restaurant offering an upscale dining atmosphere with
+  expertly crafted omakase dinners and thoughtful sake pairings. Nestled in a
+  cozy setting, this spot emphasizes fresh, high-quality ingredients that
+  highlight the artistry of traditional Japanese cuisine, making it a go-to
+  choice for those searching for authentic sushi experiences nearby. The venue's
+  intimate ambiance and attention to detail create a welcoming environment,
+  ideal for special occasions or a refined evening out. With accessibility
+  features like wheelchair-friendly entrances, it caters to a wide range of
+  diners seeking top-rated sushi in the area. Evening hours from Wednesday
+  through Sunday provide the perfect opportunity to explore these
+  Japanese-inspired flavors right in the heart of the city.
+generative_summary: >-
+  Experience Sushi Suzuki in Seattle, WA$$$Sushi Suzuki in Seattle, WA, stands
+  out as a premier sushi restaurant offering an upscale dining atmosphere with
+  expertly crafted omakase dinners and thoughtful sake pairings. Nestled in a
+  cozy setting, this spot emphasizes fresh, high-quality ingredients that
+  highlight the artistry of traditional Japanese cuisine, making it a go-to
+  choice for those searching for authentic sushi experiences nearby. The venue's
+  intimate ambiance and attention to detail create a welcoming environment,
+  ideal for special occasions or a refined evening out. With accessibility
+  features like wheelchair-friendly entrances, it caters to a wide range of
+  diners seeking top-rated sushi in the area. Evening hours from Wednesday
+  through Sunday provide the perfect opportunity to explore these
+  Japanese-inspired flavors right in the heart of the city.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJNdwddBEVkFQRFbOM_NGG6-8/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJc19uc3pBRRAB
+    relativePublishTimeDescription: 4 weeks ago
+    rating: 5
+    text:
+      text: >-
+        We came here to celebrate my husband's birthday and they did not
+        disappoint. From the food to the service, everything was excellent! The
+        sushi was fresh with amazing flavors. During the whole dinner the chef
+        would interact with the customers and allow us to ask questions.
+      languageCode: en
+    originalText:
+      text: >-
+        We came here to celebrate my husband's birthday and they did not
+        disappoint. From the food to the service, everything was excellent! The
+        sushi was fresh with amazing flavors. During the whole dinner the chef
+        would interact with the customers and allow us to ask questions.
+      languageCode: en
+    authorAttribution:
+      displayName: Ryan Chua
+      uri: https://www.google.com/maps/contrib/112570650894563286906/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWAGEhTKxYVmCl_pSI-7OrvvL0jo-_NxPaK-LKC-FIZYQr-fZIzEA=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2025-04-04T14:30:02.493115Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNJc19uc3pBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNJc19uc3pBRRAB!2m1!1s0x54901511741ddc35:0xefeb86d1fc8cb315
+  - name: >-
+      places/ChIJNdwddBEVkFQRFbOM_NGG6-8/reviews/ChZDSUhNMG9nS0VJQ0FnSUNYbC1mWmZREAE
+    relativePublishTimeDescription: 6 months ago
+    rating: 4
+    text:
+      text: >-
+        Super strong and authentic sushi offering — high end omakase.
+
+        Chef is legit… has good experiences skills with temperature, texture,
+        and flavour balance. No fusion BS at all….
+
+        Shari was very good as well as his seasonal selection of fish.
+        Reasonable price too (even compared to Japan/Asia). Only downside is a
+        larger-than-usual sushi counter to which we were met with a rather rowdy
+        crowd disturbing the experience. To be expected outside of Japan
+        though…. But overall very solid meal 8.5/10.
+      languageCode: en
+    originalText:
+      text: >-
+        Super strong and authentic sushi offering — high end omakase.
+
+        Chef is legit… has good experiences skills with temperature, texture,
+        and flavour balance. No fusion BS at all….
+
+        Shari was very good as well as his seasonal selection of fish.
+        Reasonable price too (even compared to Japan/Asia). Only downside is a
+        larger-than-usual sushi counter to which we were met with a rather rowdy
+        crowd disturbing the experience. To be expected outside of Japan
+        though…. But overall very solid meal 8.5/10.
+      languageCode: en
+    authorAttribution:
+      displayName: Joshua Foo
+      uri: https://www.google.com/maps/contrib/117198729803362896471/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVgzBwU87mUHCGkyPpsDKdcZj7r0bdln5i2rZx6X9mffwQk9GjP=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-10-21T15:08:22.784722Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNYbC1mWmZREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNYbC1mWmZREAE!2m1!1s0x54901511741ddc35:0xefeb86d1fc8cb315
+  - name: >-
+      places/ChIJNdwddBEVkFQRFbOM_NGG6-8/reviews/ChdDSUhNMG9nS0VJQ0FnTURvc3VpZ193RRAB
+    relativePublishTimeDescription: a week ago
+    rating: 2
+    text:
+      text: >-
+        Overpriced.  The food and service at Sushi Suzuki are quite nice: the
+        experience is fun and the food is delicious and satiating.  The staff is
+        friendly and the chefs do a great job.  However, at a cost of $325 for a
+        single seat and a drink pairing, it is not worth the experience, in my
+        opinion.  I have been to Michelin star restaurants and similar Omakase
+        restaurants in Hell's Kitchen that are cheaper, and fully deserving of
+        their status.  With the addition of a mandatory 20% gratuity/service
+        charge (equally applied to any alcohol), the now $390 price point (plus
+        tax) is too inflated for this Seattle restaurant.
+      languageCode: en
+    originalText:
+      text: >-
+        Overpriced.  The food and service at Sushi Suzuki are quite nice: the
+        experience is fun and the food is delicious and satiating.  The staff is
+        friendly and the chefs do a great job.  However, at a cost of $325 for a
+        single seat and a drink pairing, it is not worth the experience, in my
+        opinion.  I have been to Michelin star restaurants and similar Omakase
+        restaurants in Hell's Kitchen that are cheaper, and fully deserving of
+        their status.  With the addition of a mandatory 20% gratuity/service
+        charge (equally applied to any alcohol), the now $390 price point (plus
+        tax) is too inflated for this Seattle restaurant.
+      languageCode: en
+    authorAttribution:
+      displayName: Joe Breeden
+      uri: https://www.google.com/maps/contrib/104723681266236537875/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXxzxTEfB5i_ifXcWnnVcqEoNnwsDcjTSnYCbLzvLmGi-ZuYNMe=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-04-23T13:01:27.761427Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURvc3VpZ193RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURvc3VpZ193RRAB!2m1!1s0x54901511741ddc35:0xefeb86d1fc8cb315
+  - name: >-
+      places/ChIJNdwddBEVkFQRFbOM_NGG6-8/reviews/ChdDSUhNMG9nS0VJQ0FnSURiM09iWml3RRAB
+    relativePublishTimeDescription: 9 months ago
+    rating: 5
+    text:
+      text: >-
+        My wife and I love a good omakase. This little hole in the wall reminds
+        me of the exclusively of a Los Angeles Michelin star sushi bar with the
+        quaint modern style you would find in Portland. Absolutely loved the
+        food. The staff is wonderful. I'm mixed about hyping this place too much
+        because getting a table was a little tough, but they totally deserve it.
+
+
+        Definitely worth the visit, but make sure to make a reservation well in
+        advance!
+      languageCode: en
+    originalText:
+      text: >-
+        My wife and I love a good omakase. This little hole in the wall reminds
+        me of the exclusively of a Los Angeles Michelin star sushi bar with the
+        quaint modern style you would find in Portland. Absolutely loved the
+        food. The staff is wonderful. I'm mixed about hyping this place too much
+        because getting a table was a little tough, but they totally deserve it.
+
+
+        Definitely worth the visit, but make sure to make a reservation well in
+        advance!
+      languageCode: en
+    authorAttribution:
+      displayName: Jason Harmon
+      uri: https://www.google.com/maps/contrib/110401472019066313071/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWfW8yTjIHmbqr2lmK-FW4N4y3Y_psMUpcwsFq1ZMDqdUdH-qP3vw=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-08-03T02:19:04.170721Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURiM09iWml3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURiM09iWml3RRAB!2m1!1s0x54901511741ddc35:0xefeb86d1fc8cb315
+  - name: >-
+      places/ChIJNdwddBEVkFQRFbOM_NGG6-8/reviews/ChZDSUhNMG9nS0VJQ0FnSURaZ3NHQ2N3EAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        One of our fave omakase spots. No frills. Just high quality, delicious
+        sushi every time, executed in Chef Suzuki’s unique style! Everyone is
+        super down to earth and friendly. The atmosphere is chill and welcoming.
+      languageCode: en
+    originalText:
+      text: >-
+        One of our fave omakase spots. No frills. Just high quality, delicious
+        sushi every time, executed in Chef Suzuki’s unique style! Everyone is
+        super down to earth and friendly. The atmosphere is chill and welcoming.
+      languageCode: en
+    authorAttribution:
+      displayName: Vikky
+      uri: https://www.google.com/maps/contrib/116312442052994050457/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLQI3ooBjmoyx2CdqncH5e6Q3S15mOoazF-g0E7-Tp2VA2efQ=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-02-15T07:51:16.459537Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURaZ3NHQ2N3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURaZ3NHQ2N3EAE!2m1!1s0x54901511741ddc35:0xefeb86d1fc8cb315
+review_summary: >-
+  Insights from Recent Reviews$$$Visitors to this sushi spot often praise the
+  outstanding omakase offerings, highlighting the fresh fish and creative
+  flavors that make every meal feel special and authentic. Many appreciate the
+  relaxed, engaging atmosphere where the staff's knowledge and friendliness add
+  to the overall enjoyment, creating a chill vibe that's easy to love. While
+  some note that the pricing leans on the higher side, the general consensus is
+  that the quality and unique touches, like thoughtful pairings, make it a
+  worthwhile treat for sushi enthusiasts. Feedback frequently mentions the
+  satisfying portions and seasonal selections, helping it stand out among local
+  options for those craving the best sushi around. Overall, it's a solid pick
+  for anyone looking for a genuine, high-quality dining experience without the
+  fuss.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: false
+  paidParkingLot: false
+  freeStreetParking: true
+  paidStreetParking: false
+  valetParking: false
+  freeGarageParking: false
+  paidGarageParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
+curbside_pickup: false
+delivery: false
+dine_in: true
+good_for_children: false
 good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
 serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_vegetarian_food: false
+serves_wine: true
+takeout: false
+update_category: atmosphere
+places_description: null
 
 ---

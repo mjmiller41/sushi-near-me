@@ -5,4 +5,5 @@ permalink: /california/stockton/
 stateAbbr: CA
 stateName: California
 cityName: Stockton
+
 ---

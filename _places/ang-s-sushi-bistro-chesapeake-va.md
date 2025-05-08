@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ang's Sushi Bistro"
+title: Ang's Sushi Bistro
 permalink: /virginia/chesapeake/ang-s-sushi-bistro.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Chesapeake
 seo:
-  name: "Ang's Sushi Bistro"
-  type: Restaurant
-  links: null
-description: "Ang's Sushi Bistro serves delicious sushi in Chesapeake, Virginia. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.angssushibistro.com/
 place_id: ChIJbf2qlIG7uokRETOWRByFRwE
 photos:
   - name: >-
@@ -170,8 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89babb8194aafd6d:0x147851c44963311!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:00 PM'
+    - 'Tuesday: Closed'
+    - 'Wednesday: 11:00 AM – 9:00 PM'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 9:30 PM'
+    - 'Saturday: 11:00 AM – 9:30 PM'
+    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T01:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +234,52 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (757) 842-6900
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.5'
+rating_count: 291
+website: https://www.angssushibistro.com/
+description: >-
+  Discover Ang's Sushi Bistro in Chesapeake, VA$$$Ang's Sushi Bistro in
+  Chesapeake, VA, stands out as a welcoming Japanese eatery specializing in
+  fresh sushi and hibachi-grilled options, perfect for those seeking flavorful
+  dining experiences in the area. With an all-you-can-eat menu that highlights a
+  variety of expertly prepared dishes, it caters to sushi enthusiasts looking
+  for both traditional rolls and innovative flavors. The spot boasts convenient
+  accessibility features, making it easy for everyone to enjoy a relaxed meal,
+  while its operational hours accommodate busy schedules for lunch or dinner
+  outings. Additionally, the bistro's moderate pricing adds to its appeal for
+  anyone exploring top-rated Japanese places nearby, ensuring a satisfying visit
+  without breaking the bank.
+generative_summary: >-
+  Discover Ang's Sushi Bistro in Chesapeake, VA$$$Ang's Sushi Bistro in
+  Chesapeake, VA, stands out as a welcoming Japanese eatery specializing in
+  fresh sushi and hibachi-grilled options, perfect for those seeking flavorful
+  dining experiences in the area. With an all-you-can-eat menu that highlights a
+  variety of expertly prepared dishes, it caters to sushi enthusiasts looking
+  for both traditional rolls and innovative flavors. The spot boasts convenient
+  accessibility features, making it easy for everyone to enjoy a relaxed meal,
+  while its operational hours accommodate busy schedules for lunch or dinner
+  outings. Additionally, the bistro's moderate pricing adds to its appeal for
+  anyone exploring top-rated Japanese places nearby, ensuring a satisfying visit
+  without breaking the bank.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About the Spot$$$Folks who visit this popular sushi
+  restaurant near Chesapeake often rave about the fresh ingredients and creative
+  flavors that make every bite memorable, based on its strong overall rating.
+  Many appreciate the generous portions and variety of options, which keep
+  diners coming back for more satisfying meals in a casual setting. While some
+  mention minor waits during peak times, the general consensus highlights
+  reliable service and a welcoming vibe that enhances the experience. Overall,
+  it's clear that this spot earns its high marks as a go-to for tasty sushi
+  close to you, with plenty of positive feedback on the quality that makes it
+  worth trying for anyone in the mood for Japanese cuisine. If you're hunting
+  for the best sushi restaurants around, this place delivers a solid, enjoyable
+  option that keeps the good times rolling.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +305,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

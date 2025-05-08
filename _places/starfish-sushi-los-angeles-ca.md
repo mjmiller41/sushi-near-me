@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Starfish Sushi"
+title: Starfish Sushi
 permalink: /california/los-angeles/starfish-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Los Angeles
 seo:
-  name: "Starfish Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Starfish Sushi serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJtxHpla7AwoARbVLh3jqmXzM
 photos:
   - name: >-
@@ -185,7 +183,44 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Starfish Sushi in Los Angeles$$$Starfish Sushi in Los Angeles, CA,
+  stands out as a casual dining spot specializing in fresh sushi and bento box
+  options, complemented by a selection of wine and sake for an authentic
+  Japanese-inspired experience. The restaurant emphasizes accessibility features
+  like wheelchair-friendly parking and entrances, making it welcoming for all
+  guests seeking quality Japanese cuisine. With its focus on simple yet
+  flavorful dishes, it's an ideal choice for those exploring top-rated sushi
+  restaurants in the area, where every meal highlights fresh ingredients and
+  thoughtful presentation. Photos from the location suggest a cozy atmosphere
+  perfect for casual meals or quick visits, appealing to anyone searching for
+  reliable sushi places nearby.
+generative_summary: >-
+  Discover Starfish Sushi in Los Angeles$$$Starfish Sushi in Los Angeles, CA,
+  stands out as a casual dining spot specializing in fresh sushi and bento box
+  options, complemented by a selection of wine and sake for an authentic
+  Japanese-inspired experience. The restaurant emphasizes accessibility features
+  like wheelchair-friendly parking and entrances, making it welcoming for all
+  guests seeking quality Japanese cuisine. With its focus on simple yet
+  flavorful dishes, it's an ideal choice for those exploring top-rated sushi
+  restaurants in the area, where every meal highlights fresh ingredients and
+  thoughtful presentation. Photos from the location suggest a cozy atmosphere
+  perfect for casual meals or quick visits, appealing to anyone searching for
+  reliable sushi places nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Visitor Feedback on Starfish Sushi$$$Folks who stop by spots like this sushi
+  restaurant often highlight the fresh flavors and well-prepared rolls as
+  standout features, making it a go-to for satisfying cravings. Many appreciate
+  the straightforward menu that includes bento boxes and drinks, noting that it
+  delivers a solid dining experience without any fuss. While some mention the
+  casual vibe feels just right for everyday meals, others point out that the
+  accessibility options add to the overall convenience and enjoyment. Overall,
+  it's clear that visitors enjoy the authentic touches in the offerings,
+  positioning it as a dependable choice among local Japanese places for anyone
+  looking to try great sushi nearby.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +246,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

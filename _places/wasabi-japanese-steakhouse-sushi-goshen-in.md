@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Wasabi Japanese Steakhouse & Sushi"
+title: Wasabi Japanese Steakhouse & Sushi
 permalink: /indiana/goshen/wasabi-japanese-steakhouse-sushi.html
 stateAbbr: IN
 stateName: Indiana
 cityName: Goshen
 seo:
-  name: "Wasabi Japanese Steakhouse & Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Wasabi Japanese Steakhouse & Sushi serves delicious sushi in Goshen, Indiana. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJY_7vdhzsFogRzkR5RAF7HH4
 photos:
   - name: >-
@@ -170,8 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8816ec1c76effe63:0x7e1c7b01447944ce!10e5
 primary_type: Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:00 PM'
+    - 'Tuesday: Closed'
+    - 'Wednesday: 11:00 AM – 9:00 PM'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 9:00 PM'
+    - 'Saturday: 11:00 AM – 9:00 PM'
+    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T01:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +234,51 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
+phone: (574) 533-8700
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.4'
+rating_count: 517
 website: null
+description: >-
+  Discover Wasabi Japanese Steakhouse & Sushi in Goshen, IN$$$Wasabi Japanese
+  Steakhouse & Sushi in Goshen, Indiana, delights diners with its authentic
+  Japanese flavors, featuring fresh sushi rolls and sizzling hibachi dishes that
+  capture the essence of traditional cuisine. The spot stands out for its
+  welcoming, family-oriented atmosphere, making it a great choice for casual
+  meals or special occasions, with options for catering that add convenience for
+  events. Accessibility features like wheelchair-friendly parking and seating
+  ensure everyone can enjoy the experience comfortably, while the moderate price
+  range offers good value for flavorful meals. Open daily for lunch and dinner,
+  this spot combines quality ingredients with a lively vibe, appealing to those
+  seeking top-rated Japanese options nearby.
+generative_summary: >-
+  Discover Wasabi Japanese Steakhouse & Sushi in Goshen, IN$$$Wasabi Japanese
+  Steakhouse & Sushi in Goshen, Indiana, delights diners with its authentic
+  Japanese flavors, featuring fresh sushi rolls and sizzling hibachi dishes that
+  capture the essence of traditional cuisine. The spot stands out for its
+  welcoming, family-oriented atmosphere, making it a great choice for casual
+  meals or special occasions, with options for catering that add convenience for
+  events. Accessibility features like wheelchair-friendly parking and seating
+  ensure everyone can enjoy the experience comfortably, while the moderate price
+  range offers good value for flavorful meals. Open daily for lunch and dinner,
+  this spot combines quality ingredients with a lively vibe, appealing to those
+  seeking top-rated Japanese options nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About Wasabi$$$Folks seem to really enjoy the fresh
+  sushi and hibachi selections at this spot, often highlighting the tasty
+  flavors and solid portions that keep them coming back for more. With a strong
+  overall rating, many appreciate the friendly service and relaxed setting that
+  make dining out feel easy and fun, even for families. Some casual comments
+  point to the value for the price, noting it's a reliable pick for anyone
+  craving Japanese fare without breaking the bank. While not every visit is
+  perfect, the general buzz is positive, with people loving the welcoming vibe
+  and quick service that enhance the meal. If you're on the hunt for dependable
+  sushi places around town, this one often gets nods for its consistent quality
+  and enjoyable atmosphere.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +304,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

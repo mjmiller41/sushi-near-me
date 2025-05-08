@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Edoboy"
+title: Edoboy
 permalink: /florida/orlando/edoboy.html
 stateAbbr: FL
 stateName: Florida
 cityName: Orlando
 seo:
-  name: "Edoboy"
-  type: Restaurant
+  type: restaurant
   links: https://www.edoboysushi.com/
-description: "Edoboy serves delicious sushi in Orlando, Florida. Try fresh Japanese dishes for a great dining experience. Available for, and dinner."
 place_id: ChIJS1vTKRd754gRCsTbJUc7AZE
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $50 &ndash; $100
 rating: '4.9'
 rating_count: 0
 website: https://www.edoboysushi.com/
+description: >-
+  Explore Edoboy in Orlando, FL$$$Edoboy in Orlando, FL, stands out as a premier
+  sushi restaurant celebrated for its fresh ingredients and skillfully prepared
+  dishes that capture the essence of authentic Japanese flavors. The venue
+  offers an intimate dining experience with a focus on high-quality seafood and
+  rice that elevates every bite, making it a favorite for those seeking
+  top-rated sushi options in the area. Its welcoming atmosphere and thoughtful
+  setup encourage a relaxed vibe, ideal for enjoying a memorable meal whether
+  dining alone or with friends. Accessibility features like wheelchair-friendly
+  entrances add to the convenience, ensuring everyone can savor the creative
+  presentations and vibrant tastes. For anyone searching for exceptional sushi
+  places near me, this spot delivers a delightful blend of quality and ambiance
+  that keeps diners coming back.
+generative_summary: >-
+  Explore Edoboy in Orlando, FL$$$Edoboy in Orlando, FL, stands out as a premier
+  sushi restaurant celebrated for its fresh ingredients and skillfully prepared
+  dishes that capture the essence of authentic Japanese flavors. The venue
+  offers an intimate dining experience with a focus on high-quality seafood and
+  rice that elevates every bite, making it a favorite for those seeking
+  top-rated sushi options in the area. Its welcoming atmosphere and thoughtful
+  setup encourage a relaxed vibe, ideal for enjoying a memorable meal whether
+  dining alone or with friends. Accessibility features like wheelchair-friendly
+  entrances add to the convenience, ensuring everyone can savor the creative
+  presentations and vibrant tastes. For anyone searching for exceptional sushi
+  places near me, this spot delivers a delightful blend of quality and ambiance
+  that keeps diners coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJS1vTKRd754gRCsTbJUc7AZE/reviews/ChdDSUhNMG9nS0VJQ0FnTUNRdUp5NXV3RRAB
@@ -436,6 +461,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURYbVBtVGZ3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURYbVBtVGZ3EAE!2m1!1s0x88e77b1729d35b4b:0x91013b4725dbc40a
+review_summary: >-
+  Insights from Recent Reviews$$$Visitors consistently praise the fresh fish and
+  flavorful rolls at this cozy sushi spot, highlighting how the ingredients make
+  every meal feel truly special and satisfying. Many appreciate the efficient
+  service and intimate standing setup, which creates a fun, communal vibe
+  without feeling rushed, perfect for a casual night out. While some note the
+  pacing could be a bit more relaxed, the overall consensus is that the tasting
+  sets offer an incredible value and variety that's hard to beat. Folks often
+  mention it as a go-to choice for the best sushi near me, with the miso soup
+  and hand rolls standing out as unexpectedly delightful highlights. In a
+  positive light, this place earns high marks for its welcoming energy and
+  quality, making it a solid pick for anyone craving authentic Japanese cuisine
+  in Orlando.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -467,7 +506,7 @@ serves_lunch: null
 serves_vegetarian_food: false
 serves_wine: true
 takeout: false
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

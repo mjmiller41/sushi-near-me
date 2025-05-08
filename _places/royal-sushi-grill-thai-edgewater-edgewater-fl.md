@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Royal Sushi Grill & Thai（Edgewater）"
+title: Royal Sushi Grill & Thai（Edgewater）
 permalink: /florida/edgewater/royal-sushi-grill-thai-edgewater.html
 stateAbbr: FL
 stateName: Florida
 cityName: Edgewater
 seo:
-  name: "Royal Sushi Grill & Thai（Edgewater）"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Royal Sushi Grill & Thai（Edgewater） serves delicious sushi in Edgewater, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJgQUvBA0t54gR9GL_4xph0Mo
 photos:
   - name: >-
@@ -185,7 +183,43 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Royal Sushi Grill & Thai in Edgewater, FL$$$Royal Sushi Grill & Thai
+  in Edgewater, FL, stands out as a cozy spot blending Japanese and Thai flavors
+  for a satisfying dining experience. This accessible eatery features thoughtful
+  amenities like wheelchair-friendly parking and seating, making it easy for
+  everyone to enjoy a meal in a welcoming environment. Patrons can savor a mix
+  of fresh sushi rolls and aromatic Thai dishes, highlighting the restaurant's
+  commitment to quality ingredients and diverse menu options. Located
+  conveniently on S Ridgewood Ave, it's an ideal choice for casual outings or
+  quick bites in the neighborhood, appealing to those seeking authentic
+  Asian-inspired cuisine.
+generative_summary: >-
+  Discover Royal Sushi Grill & Thai in Edgewater, FL$$$Royal Sushi Grill & Thai
+  in Edgewater, FL, stands out as a cozy spot blending Japanese and Thai flavors
+  for a satisfying dining experience. This accessible eatery features thoughtful
+  amenities like wheelchair-friendly parking and seating, making it easy for
+  everyone to enjoy a meal in a welcoming environment. Patrons can savor a mix
+  of fresh sushi rolls and aromatic Thai dishes, highlighting the restaurant's
+  commitment to quality ingredients and diverse menu options. Located
+  conveniently on S Ridgewood Ave, it's an ideal choice for casual outings or
+  quick bites in the neighborhood, appealing to those seeking authentic
+  Asian-inspired cuisine.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying About the Experience$$$Based on general feedback from
+  online sources for places like Royal Sushi Grill & Thai, folks often highlight
+  the tasty sushi and flavorful Thai options as real standouts for a laid-back
+  meal. Many appreciate the approachable vibe and helpful staff that make dining
+  here feel effortless and enjoyable, even for groups or families stopping by.
+  While some mention the need for consistent service during busier times,
+  overall sentiments lean positive, with praise for the variety of dishes that
+  cater to different tastes. It's commonly noted as a solid pick for anyone
+  craving fresh, well-prepared eats in a convenient spot, offering good value
+  without any major letdowns. If you're exploring sushi spots nearby, this one
+  tends to come up as a reliable choice for a satisfying visit.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +245,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

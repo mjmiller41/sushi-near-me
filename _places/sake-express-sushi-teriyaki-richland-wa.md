@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sake Express Sushi & Teriyaki"
+title: Sake Express Sushi & Teriyaki
 permalink: /washington/richland/sake-express-sushi-teriyaki.html
 stateAbbr: WA
 stateName: Washington
 cityName: Richland
 seo:
-  name: "Sake Express Sushi & Teriyaki"
-  type: Restaurant
+  type: restaurant
   links: https://sakeexpresssushi.com/?utm_source=google
-description: "Sake Express Sushi & Teriyaki serves delicious sushi in Richland, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJZ5knVmhxmFQRgRVi3X_V0js
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x5498716856279967:0x3bd2d57fdd621581!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 19
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 20
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 20
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 20
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 8:30 PM'
     - 'Tuesday: Closed'
     - 'Wednesday: 11:00 AM – 8:30 PM'
@@ -178,28 +226,170 @@ opening_hours:
     - 'Friday: 11:00 AM – 8:30 PM'
     - 'Saturday: 11:00 AM – 8:30 PM'
     - 'Sunday: 12:00 – 7:30 PM'
-  current:
-    - 'Monday: 11:00 AM – 8:30 PM'
-    - 'Tuesday: Closed'
-    - 'Wednesday: 11:00 AM – 8:30 PM'
-    - 'Thursday: 11:00 AM – 8:30 PM'
-    - 'Friday: 11:00 AM – 8:30 PM'
-    - 'Saturday: 11:00 AM – 8:30 PM'
-    - 'Sunday: 12:00 – 7:30 PM'
+  nextCloseTime: '2025-05-04T03:30:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 0
+        close:
+          day: 0
+          hour: 19
+          minute: 30
+      - open:
+          day: 1
+          hour: 11
+          minute: 0
+        close:
+          day: 1
+          hour: 20
+          minute: 30
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 20
+          minute: 30
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 20
+          minute: 30
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 20
+          minute: 30
+      - open:
+          day: 6
+          hour: 11
+          minute: 0
+        close:
+          day: 6
+          hour: 20
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 11:00 AM – 8:30 PM'
+      - 'Tuesday: Closed'
+      - 'Wednesday: 11:00 AM – 8:30 PM'
+      - 'Thursday: 11:00 AM – 8:30 PM'
+      - 'Friday: 11:00 AM – 8:30 PM'
+      - 'Saturday: 11:00 AM – 8:30 PM'
+      - 'Sunday: 12:00 – 7:30 PM'
+    secondaryHoursType: DELIVERY
+    nextCloseTime: '2025-05-04T03:30:00Z'
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 0
+        close:
+          day: 0
+          hour: 19
+          minute: 30
+      - open:
+          day: 1
+          hour: 11
+          minute: 0
+        close:
+          day: 1
+          hour: 20
+          minute: 30
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 20
+          minute: 30
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 20
+          minute: 30
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 20
+          minute: 30
+      - open:
+          day: 6
+          hour: 11
+          minute: 0
+        close:
+          day: 6
+          hour: 20
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 11:00 AM – 8:30 PM'
+      - 'Tuesday: Closed'
+      - 'Wednesday: 11:00 AM – 8:30 PM'
+      - 'Thursday: 11:00 AM – 8:30 PM'
+      - 'Friday: 11:00 AM – 8:30 PM'
+      - 'Saturday: 11:00 AM – 8:30 PM'
+      - 'Sunday: 12:00 – 7:30 PM'
+    secondaryHoursType: TAKEOUT
+    nextCloseTime: '2025-05-04T03:30:00Z'
 phone: (509) 579-4223
 price_level: null
 price_range: $10 &ndash; $20
 rating: '4.2'
-rating_count: 0
+rating_count: 214
 website: https://sakeexpresssushi.com/?utm_source=google
+description: >-
+  Discover Sake Express Sushi in Richland, WA$$$Sake Express Sushi & Teriyaki in
+  Richland, Washington, delivers a laid-back vibe perfect for enjoying fresh
+  Japanese-inspired dishes. This spot specializes in flavorful sushi rolls and
+  teriyaki options, along with refreshing bubble tea, making it a go-to choice
+  for casual meals in the area. With accessible features like
+  wheelchair-friendly parking and seating, it welcomes everyone looking for
+  convenient dining. The menu highlights a mix of traditional flavors and
+  everyday favorites, ideal for those exploring local sushi options. Operating
+  hours cater to both lunch crowds and evening diners, ensuring it's easy to fit
+  into your day.
+generative_summary: >-
+  Discover Sake Express Sushi in Richland, WA$$$Sake Express Sushi & Teriyaki in
+  Richland, Washington, delivers a laid-back vibe perfect for enjoying fresh
+  Japanese-inspired dishes. This spot specializes in flavorful sushi rolls and
+  teriyaki options, along with refreshing bubble tea, making it a go-to choice
+  for casual meals in the area. With accessible features like
+  wheelchair-friendly parking and seating, it welcomes everyone looking for
+  convenient dining. The menu highlights a mix of traditional flavors and
+  everyday favorites, ideal for those exploring local sushi options. Operating
+  hours cater to both lunch crowds and evening diners, ensuring it's easy to fit
+  into your day.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying About This Spot$$$Diners at this sushi restaurant
+  often rave about the tasty, well-prepared dishes that keep things fresh and
+  satisfying without any fuss. Feedback highlights the solid value and variety,
+  with many appreciating the teriyaki and sushi selections as standout choices
+  for a quick, enjoyable meal. While some note occasional busier times, the
+  overall experience comes across as welcoming and reliable, earning it a strong
+  nod from repeat visitors. It's clear folks enjoy the casual atmosphere and
+  friendly service, making it a recommended pick for anyone seeking good
+  Japanese fare nearby. If you're in the mood for something light and flavorful,
+  this place tends to leave a positive impression without overpromising.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +415,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

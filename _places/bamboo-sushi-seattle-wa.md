@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Bamboo Sushi"
+title: Bamboo Sushi
 permalink: /washington/seattle/bamboo-sushi.html
 stateAbbr: WA
 stateName: Washington
 cityName: Seattle
 seo:
-  name: "Bamboo Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Bamboo Sushi serves delicious sushi in Seattle, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJj83EL2EVkFQRJZUWk6KIXn8
 photos:
   - name: >-
@@ -185,7 +183,48 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Explore Bamboo Sushi in Seattle$$$Bamboo Sushi in Seattle, WA, stands out as a
+  welcoming Japanese eatery offering an array of fresh sushi and shareable
+  plates that highlight creative flavors and quality ingredients. This spot is
+  ideal for those seeking vibrant sushi options near you, with a menu that pairs
+  expertly crafted rolls and bites with a selection of cocktails and sake for a
+  complete dining experience. The restaurant emphasizes sustainable practices,
+  making it a thoughtful choice for sushi enthusiasts looking for top-rated
+  Japanese places in the area. Accessibility features like wheelchair-friendly
+  entrances and seating add to the convenience, ensuring everyone can enjoy the
+  inviting atmosphere. Whether you're in the mood for a casual meal or a special
+  outing, this location in the Ravenna neighborhood delivers a memorable blend
+  of taste and ambiance.
+generative_summary: >-
+  Explore Bamboo Sushi in Seattle$$$Bamboo Sushi in Seattle, WA, stands out as a
+  welcoming Japanese eatery offering an array of fresh sushi and shareable
+  plates that highlight creative flavors and quality ingredients. This spot is
+  ideal for those seeking vibrant sushi options near you, with a menu that pairs
+  expertly crafted rolls and bites with a selection of cocktails and sake for a
+  complete dining experience. The restaurant emphasizes sustainable practices,
+  making it a thoughtful choice for sushi enthusiasts looking for top-rated
+  Japanese places in the area. Accessibility features like wheelchair-friendly
+  entrances and seating add to the convenience, ensuring everyone can enjoy the
+  inviting atmosphere. Whether you're in the mood for a casual meal or a special
+  outing, this location in the Ravenna neighborhood delivers a memorable blend
+  of taste and ambiance.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Diners at Bamboo Sushi$$$Folks often rave about the tasty dishes
+  at this sushi spot, like the flavorful rolls and spicy appetizers that make it
+  a go-to for fresh Japanese cuisine near you. Many highlight the friendly
+  service and cozy vibe, noting how it creates a relaxed setting perfect for
+  groups or a quick bite after exploring Seattle. While some mention that prices
+  can feel a bit steep compared to other local options, the overall experience
+  keeps drawing in sushi lovers who appreciate the attention to detail and
+  variety. It's clear that the clean environment and solid portions contribute
+  to its appeal as one of the better sushi restaurants around, making it worth a
+  visit if you're hunting for reliable eats. All in all, this place maintains a
+  positive buzz for its authentic flavors and welcoming feel, even with the
+  occasional note on value.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +250,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

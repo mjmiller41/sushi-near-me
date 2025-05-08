@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Newport Tokyo House"
+title: Newport Tokyo House
 permalink: /rhode-island/newport/newport-tokyo-house.html
 stateAbbr: RI
 stateName: Rhode Island
 cityName: Newport
 seo:
-  name: "Newport Tokyo House"
-  type: Restaurant
+  type: restaurant
   links: https://www.newporttokyohousenewport.com/
-description: "Casual Japanese restaurant featuring teppanyaki chefs cooking tabletop & a sushi menu. Newport Tokyo House serves delicious sushi in Newport, Rhode Island. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJIU5xiz-v5YkROsvLCyhgnE0
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 0
 website: https://www.newporttokyohousenewport.com/
+description: >-
+  Discover Newport Tokyo House in Newport, RI$$$Nestled in the heart of Newport,
+  RI, Newport Tokyo House stands out as a welcoming Japanese restaurant that
+  combines fresh sushi and teppanyaki dishes with a cozy atmosphere. This spot
+  offers a variety of familiar favorites, including expertly prepared rolls and
+  sizzling grill options, making it a go-to choice for anyone craving authentic
+  flavors in a relaxed setting. With accessibility features like
+  wheelchair-friendly entrances and seating, it ensures a comfortable experience
+  for all visitors, while the full bar adds to the appeal for those enjoying a
+  casual night out. The moderate pricing makes it an accessible option for
+  families or groups seeking quality Japanese cuisine without breaking the bank,
+  positioning it as a solid pick among sushi restaurants in the area.
+generative_summary: >-
+  Discover Newport Tokyo House in Newport, RI$$$Nestled in the heart of Newport,
+  RI, Newport Tokyo House stands out as a welcoming Japanese restaurant that
+  combines fresh sushi and teppanyaki dishes with a cozy atmosphere. This spot
+  offers a variety of familiar favorites, including expertly prepared rolls and
+  sizzling grill options, making it a go-to choice for anyone craving authentic
+  flavors in a relaxed setting. With accessibility features like
+  wheelchair-friendly entrances and seating, it ensures a comfortable experience
+  for all visitors, while the full bar adds to the appeal for those enjoying a
+  casual night out. The moderate pricing makes it an accessible option for
+  families or groups seeking quality Japanese cuisine without breaking the bank,
+  positioning it as a solid pick among sushi restaurants in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJIU5xiz-v5YkROsvLCyhgnE0/reviews/ChdDSUhNMG9nS0VJQ0FnSURmdGNPOXpBRRAB
@@ -330,6 +353,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQxdzkyLXh3RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQxdzkyLXh3RRAB!2m1!1s0x89e5af3f8b714e21:0x4d9c60280bcbcb3a
+review_summary: >-
+  What Customers Are Buzzing About This Spot$$$Visitors often rave about the
+  fresh and speedy service at this Newport favorite, with many highlighting the
+  delicious sushi and teppanyaki dishes that keep them coming back for more.
+  While one experience noted that certain items like ramen felt overpriced and
+  not quite up to par, the overall vibe leans positive with praise for the
+  friendly staff and welcoming environment. Families appreciate the kid-friendly
+  menu and fun extras like smoothies and fried ice cream, adding to the
+  enjoyable dining scene. Overall, the consistency in food quality and helpful
+  service make it a reliable choice for a casual meal, encouraging repeat visits
+  from those exploring top-rated Japanese places nearby. If you're in the mood
+  for something satisfying, this spot delivers a generally upbeat experience
+  worth trying.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -362,8 +399,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Casual Japanese restaurant featuring teppanyaki chefs cooking tabletop & a
   sushi menu.
 

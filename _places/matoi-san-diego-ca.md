@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Matoi"
+title: Matoi
 permalink: /california/san-diego/matoi.html
 stateAbbr: CA
 stateName: California
 cityName: San Diego
 seo:
-  name: "Matoi"
-  type: Restaurant
+  type: restaurant
   links: http://www.matoisandiego.com/
-description: "Upmarket restaurant offering refined multi-course sushi meals, including nigiri & sashmi. Matoi serves delicious sushi in San Diego, California. Try fresh Japanese dishes for a great dining experience. Available for, and dinner."
 place_id: ChIJofAAlGT_24ARbD9iWnOF-9s
 photos:
   - name: >-
@@ -185,6 +183,27 @@ price_range: $100 &ndash; & up
 rating: '4.7'
 rating_count: 0
 website: http://www.matoisandiego.com/
+description: >-
+  Discover Matoi in San Diego, CA$$$Nestled in San Diego, CA, Matoi stands out
+  as a cozy, upscale sushi restaurant that specializes in exquisite
+  omakase-style offerings and a selection of sake. This spot delivers refined
+  multi-course meals featuring fresh nigiri and sashimi, drawing on traditional
+  techniques for an authentic dining experience. Patrons can enjoy an inviting
+  atmosphere with thoughtful accessibility features, making it a welcoming
+  choice for various diners. As one of the top sushi destinations in the area,
+  Matoi combines high-quality ingredients with a laid-back yet elegant vibe,
+  perfect for those seeking memorable sushi experiences nearby.
+generative_summary: >-
+  Discover Matoi in San Diego, CA$$$Nestled in San Diego, CA, Matoi stands out
+  as a cozy, upscale sushi restaurant that specializes in exquisite
+  omakase-style offerings and a selection of sake. This spot delivers refined
+  multi-course meals featuring fresh nigiri and sashimi, drawing on traditional
+  techniques for an authentic dining experience. Patrons can enjoy an inviting
+  atmosphere with thoughtful accessibility features, making it a welcoming
+  choice for various diners. As one of the top sushi destinations in the area,
+  Matoi combines high-quality ingredients with a laid-back yet elegant vibe,
+  perfect for those seeking memorable sushi experiences nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJofAAlGT_24ARbD9iWnOF-9s/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJeDdhWENnEAE
@@ -338,6 +357,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNOaHN5LThnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNOaHN5LThnRRAB!2m1!1s0x80dbff649400f0a1:0xdbfb85735a623f6c
+review_summary: >-
+  What Visitors Are Saying About This Sushi Gem$$$Folks rave about the
+  outstanding quality of the fish and creative omakase menus that bring fresh,
+  unique flavors to the table, making it a go-to for anyone craving top-notch
+  sushi in the neighborhood. Many highlight the welcoming and relaxed ambiance
+  that adds a fun, approachable feel to every visit, turning meals into
+  enjoyable highlights. Service stands out as friendly and attentive, enhancing
+  the overall experience without overwhelming the spotlight on the food. While
+  some note the traditional touches and variety of drinks like sake and beer,
+  it's clear this place delivers consistent satisfaction for groups or solo
+  diners looking for a solid sushi outing. Overall, it's a spot that keeps
+  drawing people back for its reliable charm and delicious offerings, ideal for
+  exploring local favorites.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -368,8 +401,8 @@ serves_lunch: null
 serves_vegetarian_food: false
 serves_wine: true
 takeout: false
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Upmarket restaurant offering refined multi-course sushi meals, including
   nigiri & sashmi.
 

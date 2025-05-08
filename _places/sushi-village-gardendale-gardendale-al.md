@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Village Gardendale"
+title: Sushi Village Gardendale
 permalink: /alabama/gardendale/sushi-village-gardendale.html
 stateAbbr: AL
 stateName: Alabama
 cityName: Gardendale
 seo:
-  name: "Sushi Village Gardendale"
-  type: Restaurant
-  links: null
-description: "Sushi Village Gardendale serves delicious sushi in Gardendale, Alabama. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.sushivillage-al.com/
 place_id: ChIJmWAnSAgEiYgRV4fpkSLOb-Y
 photos:
   - name: >-
@@ -170,8 +168,97 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8889040848276099:0xe66fce2291e98757!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 15
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: Closed'
+    - 'Tuesday: 11:00 AM – 3:00 PM, 4:30 – 9:30 PM'
+    - 'Wednesday: 11:00 AM – 3:00 PM, 4:30 – 9:30 PM'
+    - 'Thursday: 11:00 AM – 3:00 PM, 4:30 – 9:30 PM'
+    - 'Friday: 11:00 AM – 3:00 PM, 4:30 – 10:30 PM'
+    - 'Saturday: 11:00 AM – 9:30 PM'
+    - 'Sunday: 11:00 AM – 9:30 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +266,48 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (205) 285-8556
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.5'
+rating_count: 612
+website: https://www.sushivillage-al.com/
+description: >-
+  About Sushi Village in Gardendale, AL$$$Sushi Village in Gardendale, AL,
+  stands out as a welcoming Japanese restaurant offering fresh sushi and hibachi
+  meals in a relaxed, informal setting. This spot delights diners with a variety
+  of authentic Japanese fare, making it a go-to choice for those seeking
+  flavorful options like expertly prepared rolls and grilled dishes. The eatery
+  emphasizes accessibility with features such as wheelchair-friendly entrances
+  and parking, ensuring a comfortable experience for all visitors. Its moderate
+  pricing adds to the appeal, providing great value for anyone exploring sushi
+  restaurants in the area. Open for lunch and dinner on most days, it's an ideal
+  destination for casual meals that capture the essence of Japanese cuisine.
+generative_summary: >-
+  About Sushi Village in Gardendale, AL$$$Sushi Village in Gardendale, AL,
+  stands out as a welcoming Japanese restaurant offering fresh sushi and hibachi
+  meals in a relaxed, informal setting. This spot delights diners with a variety
+  of authentic Japanese fare, making it a go-to choice for those seeking
+  flavorful options like expertly prepared rolls and grilled dishes. The eatery
+  emphasizes accessibility with features such as wheelchair-friendly entrances
+  and parking, ensuring a comfortable experience for all visitors. Its moderate
+  pricing adds to the appeal, providing great value for anyone exploring sushi
+  restaurants in the area. Open for lunch and dinner on most days, it's an ideal
+  destination for casual meals that capture the essence of Japanese cuisine.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Highlights from Customer Feedback$$$Visitors to this sushi spot often rave
+  about the fresh flavors and generous portions that make it a standout among
+  local Japanese places. Many appreciate the friendly service and cozy
+  atmosphere, noting that it delivers a satisfying meal without any major
+  hiccups. While some mention wait times during peak hours, the overall
+  consensus leans positive, with folks highlighting the quality of the sushi as
+  a reason to return. It's frequently praised for hitting the mark on taste and
+  variety, earning it high marks as one of the top-rated options nearby. If
+  you're on the hunt for reliable sushi close to you, this place generally
+  leaves people feeling content and eager to recommend it to others.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +333,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

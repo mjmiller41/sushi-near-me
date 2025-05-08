@@ -5,4 +5,5 @@ permalink: /minnesota/rogers/
 stateAbbr: MN
 stateName: Minnesota
 cityName: Rogers
+
 ---

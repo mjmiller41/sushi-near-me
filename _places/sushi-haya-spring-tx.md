@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Haya"
+title: Sushi Haya
 permalink: /texas/spring/sushi-haya.html
 stateAbbr: TX
 stateName: Texas
 cityName: Spring
 seo:
-  name: "Sushi Haya"
-  type: Restaurant
-  links: null
-description: "Sushi Haya serves delicious sushi in Spring, Texas. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.sushihayaus.com/
 place_id: ChIJ-5kImcEzR4YRM_JouV-HFNo
 photos:
   - name: >-
@@ -170,8 +168,113 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x864733c1990899fb:0xda14875fb968f233!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 2:30 PM, 4:30 – 10:00 PM'
+    - 'Tuesday: 11:00 AM – 2:30 PM, 4:30 – 10:00 PM'
+    - 'Wednesday: 11:00 AM – 2:30 PM, 4:30 – 10:00 PM'
+    - 'Thursday: 11:00 AM – 2:30 PM, 4:30 – 10:00 PM'
+    - 'Friday: 11:00 AM – 2:30 PM, 4:30 – 11:00 PM'
+    - 'Saturday: 12:00 – 11:00 PM'
+    - 'Sunday: 12:00 – 10:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +282,51 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (832) 299-6190
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.6'
+rating_count: 951
+website: https://www.sushihayaus.com/
+description: >-
+  Explore Sushi Haya in Spring, TX$$$Sushi Haya in Spring, TX, stands out as a
+  casual dining destination offering an all-you-can-eat experience with fresh
+  sushi and Japanese-inspired dishes that appeal to sushi lovers nearby. This
+  spot emphasizes accessibility features like wheelchair-friendly parking and
+  entrances, making it easy for everyone to enjoy a relaxed meal. Patrons can
+  savor a variety of specialty rolls and traditional fare, all prepared with
+  high-quality ingredients in a welcoming atmosphere. Whether you're searching
+  for top-rated sushi restaurants in the area or simply craving authentic
+  Japanese flavors close to home, Sushi Haya delivers a satisfying blend of
+  variety and value. Its convenient hours, including evenings and weekends,
+  ensure it's a go-to option for those exploring local dining scenes.
+generative_summary: >-
+  Explore Sushi Haya in Spring, TX$$$Sushi Haya in Spring, TX, stands out as a
+  casual dining destination offering an all-you-can-eat experience with fresh
+  sushi and Japanese-inspired dishes that appeal to sushi lovers nearby. This
+  spot emphasizes accessibility features like wheelchair-friendly parking and
+  entrances, making it easy for everyone to enjoy a relaxed meal. Patrons can
+  savor a variety of specialty rolls and traditional fare, all prepared with
+  high-quality ingredients in a welcoming atmosphere. Whether you're searching
+  for top-rated sushi restaurants in the area or simply craving authentic
+  Japanese flavors close to home, Sushi Haya delivers a satisfying blend of
+  variety and value. Its convenient hours, including evenings and weekends,
+  ensure it's a go-to option for those exploring local dining scenes.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Diners at Sushi Haya$$$Folks chatting about Sushi Haya often
+  rave about the tasty all-you-can-eat selection, featuring a bunch of creative
+  rolls, appetizers, and even hot dishes like tempura and teriyaki that keep
+  things exciting. Many appreciate the friendly service that makes every visit
+  feel smooth and enjoyable, along with prices that offer great bang for your
+  buck. The fresh ingredients stand out as a highlight, adding to the overall
+  appeal for anyone hunting for quality sushi spots around town. While it's
+  clear this place hits the mark for variety and atmosphere, it's also noted for
+  being a solid choice for groups or casual outings without any major drawbacks.
+  All in all, it comes across as a reliable favorite for those seeking a
+  laid-back vibe with delicious options that don't disappoint.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +352,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Isana"
+title: Isana
 permalink: /hawaii/kihei/isana.html
 stateAbbr: HI
 stateName: Hawaii
 cityName: Kihei
 seo:
-  name: "Isana"
-  type: Restaurant
+  type: restaurant
   links: http://www.isanarestaurant.net/
-description: "Isana serves delicious sushi in Kihei, Hawaii. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJwWI08EzQVHkRo9lFVIJDmYo
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x7954d04cf03462c1:0x8a9943825445d9a3!10e5
 primary_type: Seafood Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 15
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 15
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 15
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 15
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 15
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 15
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 15
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 3:00 – 10:00 PM'
     - 'Tuesday: 3:00 – 10:00 PM'
     - 'Wednesday: 3:00 – 10:00 PM'
@@ -178,54 +234,353 @@ opening_hours:
     - 'Friday: 3:00 – 10:00 PM'
     - 'Saturday: 3:00 – 10:00 PM'
     - 'Sunday: 3:00 – 10:00 PM'
-  current:
-    - 'Monday: 3:00 – 10:00 PM'
-    - 'Tuesday: 3:00 – 10:00 PM'
-    - 'Wednesday: 3:00 – 10:00 PM'
-    - 'Thursday: 3:00 – 10:00 PM'
-    - 'Friday: 3:00 – 10:00 PM'
-    - 'Saturday: 3:00 – 10:00 PM'
-    - 'Sunday: 3:00 – 10:00 PM'
+  nextOpenTime: '2025-05-04T01:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: false
+    periods:
+      - open:
+          day: 0
+          hour: 15
+          minute: 0
+        close:
+          day: 0
+          hour: 17
+          minute: 0
+      - open:
+          day: 1
+          hour: 15
+          minute: 0
+        close:
+          day: 1
+          hour: 17
+          minute: 0
+      - open:
+          day: 2
+          hour: 15
+          minute: 0
+        close:
+          day: 2
+          hour: 17
+          minute: 0
+      - open:
+          day: 3
+          hour: 15
+          minute: 0
+        close:
+          day: 3
+          hour: 17
+          minute: 0
+      - open:
+          day: 4
+          hour: 15
+          minute: 0
+        close:
+          day: 4
+          hour: 17
+          minute: 0
+      - open:
+          day: 5
+          hour: 15
+          minute: 0
+        close:
+          day: 5
+          hour: 17
+          minute: 0
+      - open:
+          day: 6
+          hour: 15
+          minute: 0
+        close:
+          day: 6
+          hour: 17
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 3:00 – 5:00 PM'
+      - 'Tuesday: 3:00 – 5:00 PM'
+      - 'Wednesday: 3:00 – 5:00 PM'
+      - 'Thursday: 3:00 – 5:00 PM'
+      - 'Friday: 3:00 – 5:00 PM'
+      - 'Saturday: 3:00 – 5:00 PM'
+      - 'Sunday: 3:00 – 5:00 PM'
+    secondaryHoursType: HAPPY_HOUR
+    nextOpenTime: '2025-05-04T01:00:00Z'
 phone: (808) 874-5700
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.5'
-rating_count: 0
+rating_count: 1019
 website: http://www.isanarestaurant.net/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Explore Isana in Kihei, HI$$$Isana in Kihei, HI, stands out as a welcoming
+  seafood restaurant offering fresh, locally sourced dishes that capture the
+  essence of island flavors. With its focus on high-quality sushi and
+  Asian-inspired fare, the spot provides a relaxed atmosphere perfect for
+  enjoying ocean views and expertly prepared rolls that highlight the area's
+  abundant marine resources. Accessibility features like wheelchair-friendly
+  parking and seating make it an inclusive choice for diners seeking a
+  hassle-free experience. Operating in the evening hours, it caters to those
+  looking for a casual yet refined meal, blending traditional techniques with
+  tropical influences to create memorable dining moments. This Kihei gem is
+  ideal for anyone searching for top-rated sushi restaurants near coastal spots,
+  ensuring a satisfying visit with every bite.
+generative_summary: >-
+  Explore Isana in Kihei, HI$$$Isana in Kihei, HI, stands out as a welcoming
+  seafood restaurant offering fresh, locally sourced dishes that capture the
+  essence of island flavors. With its focus on high-quality sushi and
+  Asian-inspired fare, the spot provides a relaxed atmosphere perfect for
+  enjoying ocean views and expertly prepared rolls that highlight the area's
+  abundant marine resources. Accessibility features like wheelchair-friendly
+  parking and seating make it an inclusive choice for diners seeking a
+  hassle-free experience. Operating in the evening hours, it caters to those
+  looking for a casual yet refined meal, blending traditional techniques with
+  tropical influences to create memorable dining moments. This Kihei gem is
+  ideal for anyone searching for top-rated sushi restaurants near coastal spots,
+  ensuring a satisfying visit with every bite.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJwWI08EzQVHkRo9lFVIJDmYo/reviews/ChZDSUhNMG9nS0VJQ0FnTURJNlpEalZREAE
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 5
+    text:
+      text: >-
+        OMG!!!! Best dinner on the island!  Wife and I enjoyed fresh mahi, lemon
+        butter caper sauce (very light), perfectly done veggies (carrots and
+        asparagus) and either edamame rice or mashed potatoes.  Don’t forget the
+        mud pie!  Our server Crystal was super attentive and extremely pleasant,
+        nice low noise level and for sushi fans, a nice sushi bar.  You can
+        watch the sunset and relax!
+      languageCode: en
+    originalText:
+      text: >-
+        OMG!!!! Best dinner on the island!  Wife and I enjoyed fresh mahi, lemon
+        butter caper sauce (very light), perfectly done veggies (carrots and
+        asparagus) and either edamame rice or mashed potatoes.  Don’t forget the
+        mud pie!  Our server Crystal was super attentive and extremely pleasant,
+        nice low noise level and for sushi fans, a nice sushi bar.  You can
+        watch the sunset and relax!
+      languageCode: en
+    authorAttribution:
+      displayName: AJ Verstrate
+      uri: https://www.google.com/maps/contrib/111870244064298704235/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjU3fP_H3LRT1ritwz1DQpBHEVB2YhzfahYczwOjDGRRqUdvMqc=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-04-11T05:28:10.528494Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURJNlpEalZREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJNlpEalZREAE!2m1!1s0x7954d04cf03462c1:0x8a9943825445d9a3
+  - name: >-
+      places/ChIJwWI08EzQVHkRo9lFVIJDmYo/reviews/ChZDSUhNMG9nS0VJQ0FnTUNncFl5REt3EAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        Our family enjoyed a lovely dinner at Isana this evening. The service
+        was super-friendly and welcoming. We had a bit of trouble finding the
+        restaurant due to road closures from the recent storm. The hostess
+        helped us over the phone and was understanding why we were a little late
+        for our dinner reservation.
+
+
+        Seafood and sushi was fresh and prepared well. For starters, we had the
+        miso butterfish, ahi rice cake, and hamachi collar. For entrees, we had
+        the salmon avocado roll, hamachi avocado roll, spicy salmon roll, and
+        slow roasted pork chow fun. The sushi rice had the proper chewy, firm
+        texture, which in our family’s humble opinion can make or break the
+        quality of a sushi place. Food was delicious and portions were a good
+        size. Our server, Nikki, was attentive and friendly.
+
+
+        Easy to book a reservation through Resy. This place would be a great
+        spot for a date night, a family, or an even a big party for a birthday.
+        Plenty of parking, too.
+
+
+        NOTE: If Google Maps takes you to a parking lot of a condo complex, that
+        is not the way to access the restaurant. From Piilani Hwy, take Okalani
+        Drive and head toward the ocean. When you get to Kihei, turn left and
+        head down for a few minutes. You’ll see the restaurant on the left hand
+        side. The sign says Maui Beach Resort.
+      languageCode: en
+    originalText:
+      text: >-
+        Our family enjoyed a lovely dinner at Isana this evening. The service
+        was super-friendly and welcoming. We had a bit of trouble finding the
+        restaurant due to road closures from the recent storm. The hostess
+        helped us over the phone and was understanding why we were a little late
+        for our dinner reservation.
+
+
+        Seafood and sushi was fresh and prepared well. For starters, we had the
+        miso butterfish, ahi rice cake, and hamachi collar. For entrees, we had
+        the salmon avocado roll, hamachi avocado roll, spicy salmon roll, and
+        slow roasted pork chow fun. The sushi rice had the proper chewy, firm
+        texture, which in our family’s humble opinion can make or break the
+        quality of a sushi place. Food was delicious and portions were a good
+        size. Our server, Nikki, was attentive and friendly.
+
+
+        Easy to book a reservation through Resy. This place would be a great
+        spot for a date night, a family, or an even a big party for a birthday.
+        Plenty of parking, too.
+
+
+        NOTE: If Google Maps takes you to a parking lot of a condo complex, that
+        is not the way to access the restaurant. From Piilani Hwy, take Okalani
+        Drive and head toward the ocean. When you get to Kihei, turn left and
+        head down for a few minutes. You’ll see the restaurant on the left hand
+        side. The sign says Maui Beach Resort.
+      languageCode: en
+    authorAttribution:
+      displayName: chanmi chun
+      uri: https://www.google.com/maps/contrib/102095872053986477020/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVkZY-8_BIWO9oi6VY2vcMD9BE46KhugR3BX4IoHlOI3ovottNa=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-02-19T08:15:33.006249Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNncFl5REt3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNncFl5REt3EAE!2m1!1s0x7954d04cf03462c1:0x8a9943825445d9a3
+  - name: >-
+      places/ChIJwWI08EzQVHkRo9lFVIJDmYo/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3N0tXVV9nRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Fantastic, best fries I have ever had! The fish and Chip swordfish, was
+        phenomenal. Baked mussels were sooo good. Others in the group had rolls
+        and all were very happy with them. Service was quick and friendly. A
+        great dining experience and recommend!
+      languageCode: en
+    originalText:
+      text: >-
+        Fantastic, best fries I have ever had! The fish and Chip swordfish, was
+        phenomenal. Baked mussels were sooo good. Others in the group had rolls
+        and all were very happy with them. Service was quick and friendly. A
+        great dining experience and recommend!
+      languageCode: en
+    authorAttribution:
+      displayName: John Ukos
+      uri: https://www.google.com/maps/contrib/113777217970396785351/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUc0altpJdF-J0Kq7K6JIvdfoqHaW8JSgPVq2fM195ppaoBYmQ7nw=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-03-17T05:52:51.489211Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUN3N0tXVV9nRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUN3N0tXVV9nRRAB!2m1!1s0x7954d04cf03462c1:0x8a9943825445d9a3
+  - name: >-
+      places/ChIJwWI08EzQVHkRo9lFVIJDmYo/reviews/ChdDSUhNMG9nS0VJQ0FnTUNRaUx6eW1BRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        Super friendly and kind staff! Wish I was I had space for dinner sushi
+        wise but I had tried there deserts! I tried the Seasonal Sorbet which
+        was the mango, and the Ube Crème brûlée.
+
+        The owner is cool too, he is a fisherman himself! One of the locals told
+        me he also owns the restaurant Pita Paradise.
+      languageCode: en
+    originalText:
+      text: >-
+        Super friendly and kind staff! Wish I was I had space for dinner sushi
+        wise but I had tried there deserts! I tried the Seasonal Sorbet which
+        was the mango, and the Ube Crème brûlée.
+
+        The owner is cool too, he is a fisherman himself! One of the locals told
+        me he also owns the restaurant Pita Paradise.
+      languageCode: en
+    authorAttribution:
+      displayName: OhItsTori
+      uri: https://www.google.com/maps/contrib/116789963389343886564/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXzHmq7KAr-AESktWXXMZGIkbcXfD_VrVKQVikvtEXFP9wPNG0ujQ=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-03-01T11:40:15.126920Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNRaUx6eW1BRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNRaUx6eW1BRRAB!2m1!1s0x7954d04cf03462c1:0x8a9943825445d9a3
+  - name: >-
+      places/ChIJwWI08EzQVHkRo9lFVIJDmYo/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJenV6MmZBEAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        The best food on the island. No matter what you order, it’s gonna be
+        great. So no need to ask for suggestions from the stuff. I’ve tried
+        almost every item there and it was amazing. Best sitting is at the bar
+        (irony) as bartenders are great and you get your food almost instantly
+        after placing the order.
+      languageCode: en
+    originalText:
+      text: >-
+        The best food on the island. No matter what you order, it’s gonna be
+        great. So no need to ask for suggestions from the stuff. I’ve tried
+        almost every item there and it was amazing. Best sitting is at the bar
+        (irony) as bartenders are great and you get your food almost instantly
+        after placing the order.
+      languageCode: en
+    authorAttribution:
+      displayName: В Еffar
+      uri: https://www.google.com/maps/contrib/107458752270137505826/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLQS3dkQEgahULQv1-6kt3EfqKtXmi_Hht-NmGUsEBfa3Xurg=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-04-02T00:00:54.883275Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNJenV6MmZBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNJenV6MmZBEAE!2m1!1s0x7954d04cf03462c1:0x8a9943825445d9a3
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors to this Kihei sushi spot often rave
+  about the fresh seafood and creative rolls that bring a burst of island
+  flavors to the table, making it a go-to for tasty meals in a laid-back
+  setting. Many appreciate the friendly service and quick delivery of dishes,
+  which adds to the overall enjoyable vibe without any unnecessary fuss. Folks
+  frequently highlight the generous portions and standout items like buttery
+  fish and flavorful sides, noting that everything feels thoughtfully prepared
+  and satisfying. While some mention easy reservations and ample parking as
+  bonuses, the consensus leans toward it being a solid pick for groups or
+  couples hunting for reliable sushi places nearby. Overall, it's clear that
+  this location delivers a positive experience that's worth checking out for
+  anyone craving authentic, well-crafted eats in a welcoming environment.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: true
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
+serves_coffee: true
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Relaxed Japanese restaurant featuring freshly caught local fish, sushi &
+  island cuisine.
 
 ---

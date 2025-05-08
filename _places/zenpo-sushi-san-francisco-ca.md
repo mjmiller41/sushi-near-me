@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Zenpo Sushi"
+title: Zenpo Sushi
 permalink: /california/san-francisco/zenpo-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
 seo:
-  name: "Zenpo Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://zenposushisf.com/
-description: "Zenpo Sushi serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJJUpDSRiBhYARIAIWf8tMCoM
 photos:
   - name: >-
@@ -184,6 +182,27 @@ price_range: $30 &ndash; $50
 rating: '4.4'
 rating_count: 0
 website: https://zenposushisf.com/
+description: >-
+  Discover Zenpo Sushi in San Francisco, CA$$$Zenpo Sushi in San Francisco, CA,
+  stands out as a vibrant spot for fresh Japanese cuisine, offering an inviting
+  atmosphere perfect for casual meals or gatherings. This restaurant delights
+  with its creative sushi selections and thoughtful accessibility features,
+  making it easy for everyone to enjoy a meal. Diners can savor a range of
+  flavorful options, from classic rolls to innovative dishes, all prepared with
+  high-quality ingredients in a moderately priced setting. Located in the
+  bustling Fillmore District, it provides a welcoming escape for those seeking
+  top-rated sushi experiences near the city center.
+generative_summary: >-
+  Discover Zenpo Sushi in San Francisco, CA$$$Zenpo Sushi in San Francisco, CA,
+  stands out as a vibrant spot for fresh Japanese cuisine, offering an inviting
+  atmosphere perfect for casual meals or gatherings. This restaurant delights
+  with its creative sushi selections and thoughtful accessibility features,
+  making it easy for everyone to enjoy a meal. Diners can savor a range of
+  flavorful options, from classic rolls to innovative dishes, all prepared with
+  high-quality ingredients in a moderately priced setting. Located in the
+  bustling Fillmore District, it provides a welcoming escape for those seeking
+  top-rated sushi experiences near the city center.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJJUpDSRiBhYARIAIWf8tMCoM/reviews/ChZDSUhNMG9nS0VJQ0FnTUNnaGNhbUJnEAE
@@ -357,6 +376,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN6cWRTWlhREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN6cWRTWlhREAE!2m1!1s0x8085811849434a25:0x830a4ccb7f160220
+review_summary: >-
+  Insights from Recent Reviews$$$Feedback from visitors highlights the standout
+  flavors and inventive twists on traditional sushi dishes, making it a favorite
+  for anyone craving authentic Japanese fare. Many appreciate the creative
+  presentations and overall dining vibe, often noting how the meals leave a
+  lasting impression with their freshness and variety. While most experiences
+  are positive, some mention that prices can feel a bit steep for the portion
+  sizes, though the quality generally shines through. Overall, it's praised as a
+  solid choice for sushi enthusiasts looking for a reliable spot in the area,
+  with quick service adding to the appeal for those searching for convenient
+  options. If you're exploring sushi places nearby, this one often comes up as a
+  worthwhile visit for its genuine taste and welcoming feel.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidParkingLot: true
   freeStreetParking: true
@@ -388,7 +420,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

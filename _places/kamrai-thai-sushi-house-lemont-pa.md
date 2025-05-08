@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kamrai Thai&Sushi House"
+title: Kamrai Thai&Sushi House
 permalink: /pennsylvania/lemont/kamrai-thai-sushi-house.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Lemont
 seo:
-  name: "Kamrai Thai&Sushi House"
-  type: Restaurant
+  type: restaurant
   links: https://www.kamraithairestaurant.com/
-description: "Sushi rolls & classic Thai entrees are the headliners at this quaint restaurant with a mellow vibe. Kamrai Thai&Sushi House serves delicious sushi in Lemont, Pennsylvania. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, and dinner."
 place_id: ChIJiTaWQLGlzokRKe8zVgqofOg
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 0
 website: https://www.kamraithairestaurant.com/
+description: >-
+  Explore Kamrai Thai&Sushi House in Lemont, PA$$$Kamrai Thai&Sushi House in
+  Lemont, PA, offers a welcoming spot for those seeking fresh sushi and
+  flavorful Thai dishes in a relaxed setting. The menu highlights a variety of
+  sushi rolls alongside traditional Thai curries, making it a go-to choice for
+  diners exploring Asian flavors in the area. With its accessible features like
+  wheelchair-friendly entrances and parking, the restaurant ensures a
+  comfortable experience for all visitors, while maintaining a mellow atmosphere
+  perfect for casual meals. Prices fall in the moderate range, providing good
+  value for authentic tastes that blend Eastern influences. Whether you're
+  looking for top-rated sushi options nearby, this spot delivers a blend of
+  quality ingredients and a serene vibe that enhances the overall dining
+  experience.
+generative_summary: >-
+  Explore Kamrai Thai&Sushi House in Lemont, PA$$$Kamrai Thai&Sushi House in
+  Lemont, PA, offers a welcoming spot for those seeking fresh sushi and
+  flavorful Thai dishes in a relaxed setting. The menu highlights a variety of
+  sushi rolls alongside traditional Thai curries, making it a go-to choice for
+  diners exploring Asian flavors in the area. With its accessible features like
+  wheelchair-friendly entrances and parking, the restaurant ensures a
+  comfortable experience for all visitors, while maintaining a mellow atmosphere
+  perfect for casual meals. Prices fall in the moderate range, providing good
+  value for authentic tastes that blend Eastern influences. Whether you're
+  looking for top-rated sushi options nearby, this spot delivers a blend of
+  quality ingredients and a serene vibe that enhances the overall dining
+  experience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJiTaWQLGlzokRKe8zVgqofOg/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRZ0lPRU5BEAE
@@ -356,6 +381,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNBeWZDUkl3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNBeWZDUkl3EAE!2m1!1s0x89cea5b140963689:0xe87ca80a5633ef29
+review_summary: >-
+  Insights from Recent Reviews$$$Visitors to this sushi restaurant often praise
+  the fresh and tasty sushi rolls, like the Dragon Roll, as a standout feature
+  that keeps them coming back for more. While some Thai entrees receive mixed
+  feedback, with a few noting inconsistencies in flavor, many still appreciate
+  the overall variety and affordability that make it a solid pick for groups.
+  Service tends to vary, with some mentions of slower waits during busy times,
+  but the staff's willingness to address concerns adds a helpful touch to the
+  experience. Overall, it's a great option for anyone searching for sushi places
+  near me, as the positives in quality and atmosphere generally outweigh the
+  occasional hiccups. If you're in the mood for reliable Japanese-inspired eats
+  with a casual twist, this spot delivers an honest mix of hits and areas for
+  improvement.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -388,8 +427,8 @@ serves_lunch: null
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Sushi rolls & classic Thai entrees are the headliners at this quaint
   restaurant with a mellow vibe.
 

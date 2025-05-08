@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Tai's Asian Bistro & Sushi"
+title: Tai's Asian Bistro & Sushi
 permalink: /ohio/columbus/tai-s-asian-bistro-sushi.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Columbus
 seo:
-  name: "Tai's Asian Bistro & Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.taisasianbistrocbus.com/
-description: "A straightforward outlet dishing up Asian fare from wontons to pad Thai to sushi. Tai's Asian Bistro & Sushi serves delicious sushi in Columbus, Ohio. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJzfW8AmWOOIgR1-wo-7bwcl8
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 0
 website: https://www.taisasianbistrocbus.com/
+description: >-
+  Discover Tai's Asian Bistro in Columbus, OH$$$Nestled in the heart of
+  Columbus, OH, Tai's Asian Bistro & Sushi offers a welcoming spot for enjoying
+  a mix of Asian fusion flavors that blend traditional and modern tastes. This
+  casual eatery serves up fresh dishes like pho and sushi, making it a go-to
+  choice for those seeking flavorful options in a relaxed setting. With an
+  emphasis on generous portions and affordable pricing, it's ideal for anyone
+  exploring nearby sushi spots or craving authentic Asian-inspired meals. The
+  menu highlights a variety of options, including bubble tea and other light
+  favorites, ensuring a satisfying experience for diners looking for variety
+  without the fuss.
+generative_summary: >-
+  Discover Tai's Asian Bistro in Columbus, OH$$$Nestled in the heart of
+  Columbus, OH, Tai's Asian Bistro & Sushi offers a welcoming spot for enjoying
+  a mix of Asian fusion flavors that blend traditional and modern tastes. This
+  casual eatery serves up fresh dishes like pho and sushi, making it a go-to
+  choice for those seeking flavorful options in a relaxed setting. With an
+  emphasis on generous portions and affordable pricing, it's ideal for anyone
+  exploring nearby sushi spots or craving authentic Asian-inspired meals. The
+  menu highlights a variety of options, including bubble tea and other light
+  favorites, ensuring a satisfying experience for diners looking for variety
+  without the fuss.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJzfW8AmWOOIgR1-wo-7bwcl8/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3MmJtYU53EAE
@@ -358,6 +379,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNQZ0lXeS13RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNQZ0lXeS13RRAB!2m1!1s0x88388e6502bcf5cd:0x5f72f0b6fb28ecd7
+review_summary: >-
+  What Customers Are Buzzing About$$$Folks rave about the fresh and authentic
+  flavors at this spot, with standout dishes like noodles and seafood
+  preparations earning high marks for their taste and generous servings. Many
+  appreciate the friendly service and welcoming vibe that make it a solid pick
+  for casual get-togethers or solo meals, even on busy nights. While the
+  extensive menu might feel overwhelming at first, reviewers consistently note
+  that the value and quality make it worth trying new items. Overall, it's
+  praised as a reliable choice for tasty, well-priced eats that leave you
+  wanting more, blending fun atmosphere with solid execution to keep customers
+  coming back.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -390,8 +423,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   A straightforward outlet dishing up Asian fare from wontons to pad Thai to
   sushi.
 

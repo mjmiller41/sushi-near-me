@@ -5,4 +5,5 @@ permalink: /tennessee/brentwood/
 stateAbbr: TN
 stateName: Tennessee
 cityName: Brentwood
+
 ---

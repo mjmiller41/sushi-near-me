@@ -5,4 +5,5 @@ permalink: /colorado/centennial/
 stateAbbr: CO
 stateName: Colorado
 cityName: Centennial
+
 ---

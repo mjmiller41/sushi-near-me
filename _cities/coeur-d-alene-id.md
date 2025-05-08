@@ -5,4 +5,5 @@ permalink: /idaho/coeur-d-alene/
 stateAbbr: ID
 stateName: Idaho
 cityName: Coeur d'Alene
+
 ---

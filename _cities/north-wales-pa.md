@@ -5,4 +5,5 @@ permalink: /pennsylvania/north-wales/
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: North Wales
+
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Avana sushi 3 & seafood restaurant"
+title: Avana sushi 3 & seafood restaurant
 permalink: /massachusetts/reading/avana-sushi-3-seafood-restaurant.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Reading
 seo:
-  name: "Avana sushi 3 & seafood restaurant"
-  type: Restaurant
+  type: restaurant
   links: https://www.avanasushi3reading.com/
-description: "Avana sushi 3 & seafood restaurant serves delicious sushi in Reading, Massachusetts. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJBXpbjOcL44kRSET9D7fe_m0
 photos:
   - name: >-
@@ -81,6 +79,31 @@ price_range: $10 &ndash; $20
 rating: '4.3'
 rating_count: 0
 website: https://www.avanasushi3reading.com/
+description: >-
+  Discover Avana Sushi 3 in Reading, Massachusetts$$$Avana Sushi 3 & Seafood
+  Restaurant in Reading, Massachusetts, delivers a relaxed vibe with a focus on
+  fresh Japanese dishes that highlight the best of sushi and dumplings. This
+  spot stands out for its moderately priced menu, featuring customizable options
+  that cater to various tastes, making it a go-to for anyone craving authentic
+  flavors in a welcoming atmosphere. Accessibility features like
+  wheelchair-friendly entrances and seating add to the convenience, ensuring
+  everyone can enjoy a seamless dining experience. With options for delivery and
+  takeout, it's an ideal choice for those seeking quality Japanese meals without
+  leaving home, appealing to sushi enthusiasts exploring local options in the
+  area.
+generative_summary: >-
+  Discover Avana Sushi 3 in Reading, Massachusetts$$$Avana Sushi 3 & Seafood
+  Restaurant in Reading, Massachusetts, delivers a relaxed vibe with a focus on
+  fresh Japanese dishes that highlight the best of sushi and dumplings. This
+  spot stands out for its moderately priced menu, featuring customizable options
+  that cater to various tastes, making it a go-to for anyone craving authentic
+  flavors in a welcoming atmosphere. Accessibility features like
+  wheelchair-friendly entrances and seating add to the convenience, ensuring
+  everyone can enjoy a seamless dining experience. With options for delivery and
+  takeout, it's an ideal choice for those seeking quality Japanese meals without
+  leaving home, appealing to sushi enthusiasts exploring local options in the
+  area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJBXpbjOcL44kRSET9D7fe_m0/reviews/ChdDSUhNMG9nS0VJQ0FnSUNwa083cGlRRRAB
@@ -250,6 +273,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNHdnBLZGRnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNHdnBLZGRnEAE!2m1!1s0x89e30be78c5b7a05:0x6dfedeb70ffd4448
+review_summary: >-
+  What Customers Are Saying About the Food and Service$$$Visitors often rave
+  about the fresh and flavorful sushi rolls that hit the spot, with many
+  highlighting the affordability and tasty dumplings as standout features for a
+  casual meal. While some folks appreciate the friendly service and solid value,
+  a few have noted occasional delays in orders or inconsistencies in portion
+  sizes that could use some tweaking. Overall, the consensus leans positive,
+  praising the restaurant's ability to deliver satisfying Japanese-inspired
+  dishes that keep people coming back for more. It's clear that for sushi
+  lovers, this place offers a reliable option with room for minor improvements
+  in timing and preparation. If you're in the mood for something light and
+  delicious, it's worth checking out based on the generally upbeat experiences
+  shared by diners.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeStreetParking: true
   valetParking: false
@@ -281,7 +318,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

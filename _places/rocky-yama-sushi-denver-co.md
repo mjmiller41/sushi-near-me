@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Rocky Yama Sushi"
+title: Rocky Yama Sushi
 permalink: /colorado/denver/rocky-yama-sushi.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Denver
 seo:
-  name: "Rocky Yama Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://rockyyamasushi.com/
-description: "Rocky Yama Sushi serves delicious sushi in Denver, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ07g_vgl_bIcRNkAPTgdepzw
 photos:
   - name: >-
@@ -169,7 +167,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x876c7f09be3fb8d3:0x3ca75e074e0f4036!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 12
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 12
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 12
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 12
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 12:00 – 9:00 PM'
     - 'Wednesday: 12:00 – 9:00 PM'
@@ -177,14 +225,7 @@ opening_hours:
     - 'Friday: 12:00 – 9:30 PM'
     - 'Saturday: 12:00 – 9:30 PM'
     - 'Sunday: 12:00 – 9:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 12:00 – 9:00 PM'
-    - 'Wednesday: 12:00 – 9:00 PM'
-    - 'Thursday: 12:00 – 9:00 PM'
-    - 'Friday: 12:00 – 9:30 PM'
-    - 'Saturday: 12:00 – 9:30 PM'
-    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T03:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,35 +237,277 @@ phone: (303) 954-9562
 price_level: null
 price_range: $20 &ndash; $30
 rating: '4.7'
-rating_count: 0
+rating_count: 627
 website: http://rockyyamasushi.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  About Rocky Yama Sushi in Denver, CO$$$Rocky Yama Sushi in Denver, CO, stands
+  out as a casual spot for enjoying fresh sushi and Japanese favorites, making
+  it a go-to choice for those seeking top-rated sushi restaurants nearby. This
+  unfussy eatery delights with a variety of small plates, sake selections, and
+  happy-hour specials that cater to a relaxed dining experience. Patrons
+  appreciate the fresh ingredients and diverse menu options, including flavorful
+  rolls and ramen that highlight the best in Japanese cuisine. Accessibility
+  features like wheelchair-friendly seating add to its appeal for a wide range
+  of visitors, while the open hours accommodate both lunch and dinner crowds
+  searching for sushi close to me.
+generative_summary: >-
+  About Rocky Yama Sushi in Denver, CO$$$Rocky Yama Sushi in Denver, CO, stands
+  out as a casual spot for enjoying fresh sushi and Japanese favorites, making
+  it a go-to choice for those seeking top-rated sushi restaurants nearby. This
+  unfussy eatery delights with a variety of small plates, sake selections, and
+  happy-hour specials that cater to a relaxed dining experience. Patrons
+  appreciate the fresh ingredients and diverse menu options, including flavorful
+  rolls and ramen that highlight the best in Japanese cuisine. Accessibility
+  features like wheelchair-friendly seating add to its appeal for a wide range
+  of visitors, while the open hours accommodate both lunch and dinner crowds
+  searching for sushi close to me.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ07g_vgl_bIcRNkAPTgdepzw/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3d0tLbHhBRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Excellent restaurant if you judge by the price/quality ratio. Very fresh
+        sashimi, great fish variety. Rolls have a bit too much rice to my taste.
+        The only drawback is a lack of parking, but if you drive around, you can
+        find a spot.
+      languageCode: en
+    originalText:
+      text: >-
+        Excellent restaurant if you judge by the price/quality ratio. Very fresh
+        sashimi, great fish variety. Rolls have a bit too much rice to my taste.
+        The only drawback is a lack of parking, but if you drive around, you can
+        find a spot.
+      languageCode: en
+    authorAttribution:
+      displayName: Eugene Ilchenko
+      uri: https://www.google.com/maps/contrib/115326691839796926133/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWsiAqtIgXneX_XlHJRg1ptbA68YnZjuz70klhpw-RAX0kl9UIJDA=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-03-22T14:01:00.051Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUR3d0tLbHhBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUR3d0tLbHhBRRAB!2m1!1s0x876c7f09be3fb8d3:0x3ca75e074e0f4036
+  - name: >-
+      places/ChIJ07g_vgl_bIcRNkAPTgdepzw/reviews/ChdDSUhNMG9nS0VJQ0FnSURuOHNXYXJRRRAB
+    relativePublishTimeDescription: 7 months ago
+    rating: 5
+    text:
+      text: >-
+        Excellent! The staff was very kind, restaurant was clean and had
+        beautiful art up.
+
+
+        I had the lunch menu (served until 3), chicken Katsu with salad for $13
+        was great!
+
+
+        Large portion and chicken was cooked perfectly, had a wonderful crisp
+        and tasty, tangy bbq sauce. Salad was modest with mixed greens and
+        delicious ginger dressing.
+
+
+        Also ordered salmon nigiri which was fresh with had nice texture.
+        Altogether a killer spot, can’t wait to come back!
+      languageCode: en
+    originalText:
+      text: >-
+        Excellent! The staff was very kind, restaurant was clean and had
+        beautiful art up.
+
+
+        I had the lunch menu (served until 3), chicken Katsu with salad for $13
+        was great!
+
+
+        Large portion and chicken was cooked perfectly, had a wonderful crisp
+        and tasty, tangy bbq sauce. Salad was modest with mixed greens and
+        delicious ginger dressing.
+
+
+        Also ordered salmon nigiri which was fresh with had nice texture.
+        Altogether a killer spot, can’t wait to come back!
+      languageCode: en
+    authorAttribution:
+      displayName: Collier Gierke
+      uri: https://www.google.com/maps/contrib/102518377832074392517/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjX3wzmIQUD4szdrxUKsojb7eSyklOEuLVEOwuJvyW0KYued22nt=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-10-04T21:22:02.609890Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURuOHNXYXJRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURuOHNXYXJRRRAB!2m1!1s0x876c7f09be3fb8d3:0x3ca75e074e0f4036
+  - name: >-
+      places/ChIJ07g_vgl_bIcRNkAPTgdepzw/reviews/ChdDSUhNMG9nS0VJQ0FnSUNucExHYzFnRRAB
+    relativePublishTimeDescription: 7 months ago
+    rating: 5
+    text:
+      text: >-
+        This place is amazing! The food is excellent, the fish is so fresh, and
+        their mochi ice cream is the best I've had in a long time. The staff was
+        also incredibly friendly and accommodating of my disabled dad. Everyone
+        was so kind and it made it even more of a delight to eat here. The
+        prices are great, especially for the quality and the amount of food.
+        Hands down the best chirashi I've had in Denver. My dad ordered the
+        tempura dinner with shrimp and said it blows our usual place out of the
+        water. I cannot recommend this place enough, you can't go wrong!! After
+        being there for not even twenty minutes I knew I'd be leaving this
+        review afterwards. Shout out to Liam, thanks for holding the doors open
+        for us :)
+      languageCode: en
+    originalText:
+      text: >-
+        This place is amazing! The food is excellent, the fish is so fresh, and
+        their mochi ice cream is the best I've had in a long time. The staff was
+        also incredibly friendly and accommodating of my disabled dad. Everyone
+        was so kind and it made it even more of a delight to eat here. The
+        prices are great, especially for the quality and the amount of food.
+        Hands down the best chirashi I've had in Denver. My dad ordered the
+        tempura dinner with shrimp and said it blows our usual place out of the
+        water. I cannot recommend this place enough, you can't go wrong!! After
+        being there for not even twenty minutes I knew I'd be leaving this
+        review afterwards. Shout out to Liam, thanks for holding the doors open
+        for us :)
+      languageCode: en
+    authorAttribution:
+      displayName: luca jimenez
+      uri: https://www.google.com/maps/contrib/113879490322317254402/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXHN9VNxWy2y16Ia5Q43btsj1cySBCMCn9VWYtai_iUIMLEpPYTLw=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-09-23T00:32:54.212695Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNucExHYzFnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNucExHYzFnRRAB!2m1!1s0x876c7f09be3fb8d3:0x3ca75e074e0f4036
+  - name: >-
+      places/ChIJ07g_vgl_bIcRNkAPTgdepzw/reviews/ChdDSUhNMG9nS0VJQ0FnSUNEbEluYV9RRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        AMAZING GLUTEN FREE SUSHI! The only thing better than the food was our
+        server Rex. Rex was working hard, constantly moving and checking in on
+        tables to see if anyone needed anything. He was a genuine kind and
+        smiling face throughout the entire meal.
+
+
+        Every roll was spectacular in appearance and taste. I haven’t had such
+        great service and food in a long time.
+
+
+        I was pleasantly surprised to find so many gluten free options! They
+        have gluten free soy sauce (tamari) and many rolls can be made gluten
+        free. Beautiful establishment and staff! I will be coming here again!
+      languageCode: en
+    originalText:
+      text: >-
+        AMAZING GLUTEN FREE SUSHI! The only thing better than the food was our
+        server Rex. Rex was working hard, constantly moving and checking in on
+        tables to see if anyone needed anything. He was a genuine kind and
+        smiling face throughout the entire meal.
+
+
+        Every roll was spectacular in appearance and taste. I haven’t had such
+        great service and food in a long time.
+
+
+        I was pleasantly surprised to find so many gluten free options! They
+        have gluten free soy sauce (tamari) and many rolls can be made gluten
+        free. Beautiful establishment and staff! I will be coming here again!
+      languageCode: en
+    authorAttribution:
+      displayName: Merkin Karr
+      uri: https://www.google.com/maps/contrib/103033754063837392445/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJgB-MNQRUW6w1Rg8ipwOmfXVF4tyRD0P9Zd2FEmkgi_gHug3w=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-03-24T20:03:33.051506Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNEbEluYV9RRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNEbEluYV9RRRAB!2m1!1s0x876c7f09be3fb8d3:0x3ca75e074e0f4036
+  - name: >-
+      places/ChIJ07g_vgl_bIcRNkAPTgdepzw/reviews/ChdDSUhNMG9nS0VJQ0FnSUREMmZLSGh3RRAB
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        Among the top 5 spots we’ve been to in the Denver area for Japanese
+        food. Everything we ordered was delicious and of good quality, the
+        service was extremely friendly and efficient, and the prices are very
+        reasonable all things considered. We found this spot by accident but
+        will very intentionally return soon.
+      languageCode: en
+    originalText:
+      text: >-
+        Among the top 5 spots we’ve been to in the Denver area for Japanese
+        food. Everything we ordered was delicious and of good quality, the
+        service was extremely friendly and efficient, and the prices are very
+        reasonable all things considered. We found this spot by accident but
+        will very intentionally return soon.
+      languageCode: en
+    authorAttribution:
+      displayName: Jason Matsumoto
+      uri: https://www.google.com/maps/contrib/114404093772526631940/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVpqUOaupLJRSNbyBEZXp5m9AyPOnXG5C5BATHDZI4drs1b4-gGEw=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2024-04-11T14:36:13.226921Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUREMmZLSGh3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUREMmZLSGh3RRAB!2m1!1s0x876c7f09be3fb8d3:0x3ca75e074e0f4036
+review_summary: >-
+  What Visitors Are Saying About This Sushi Spot$$$Folks exploring sushi places
+  near me often praise Rocky Yama Sushi for its incredibly fresh fish and
+  well-balanced dishes that deliver great value without breaking the bank. Many
+  highlight the generous portions and tasty options like ramen and gyozas,
+  noting that the overall experience feels welcoming and straightforward.
+  Customers frequently mention the friendly service and reasonable prices, which
+  make it a solid pick for casual meals or groups, even with some feedback on
+  parking challenges that don't overshadow the positives. While it's easy to
+  find gluten-free choices and happy-hour deals that keep things affordable, the
+  consensus leans toward it being one of the best sushi options in the area for
+  a satisfying, no-fuss outing. Overall, it's a spot that continues to impress
+  with its reliable quality and vibe, encouraging repeat visits for anyone in
+  the mood for Japanese flavors.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
+delivery: true
+dine_in: true
 good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+good_for_groups: true
+good_for_sports: false
+live_music: true
+menu_for_children: true
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
 serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+serves_brunch: false
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Unfussy Japanese eatery offering sushi rolls, fried rice & ramen, plus sake &
+  happy-hour specials.
 
 ---

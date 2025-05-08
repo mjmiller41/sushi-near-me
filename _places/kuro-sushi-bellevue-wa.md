@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kuro Sushi"
+title: Kuro Sushi
 permalink: /washington/bellevue/kuro-sushi.html
 stateAbbr: WA
 stateName: Washington
 cityName: Bellevue
 seo:
-  name: "Kuro Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Kuro Sushi serves delicious sushi in Bellevue, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJSd6rmVVvkFQRqKgaLIn0Llc
 photos:
   - name: >-
@@ -185,7 +183,44 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Kuro Sushi in Bellevue, WA$$$Kuro Sushi in Bellevue, WA, stands out
+  as a modern Japanese restaurant that brings fresh and innovative flavors to
+  sushi enthusiasts in the area. With a menu featuring an array of sushi rolls,
+  nigiri, and small plates, it captures the essence of traditional Japanese
+  dining in a trendy, welcoming atmosphere perfect for those searching for sushi
+  restaurants nearby. The spot emphasizes high-quality ingredients and creative
+  presentations, making it a go-to choice for anyone craving authentic yet
+  contemporary Japanese cuisine. Accessibility features like wheelchair-friendly
+  parking and seating add to its appeal, ensuring a comfortable visit for all.
+  Whether you're exploring sushi places near me or looking for top-rated
+  options, this location combines style and substance for an enjoyable meal.
+generative_summary: >-
+  Discover Kuro Sushi in Bellevue, WA$$$Kuro Sushi in Bellevue, WA, stands out
+  as a modern Japanese restaurant that brings fresh and innovative flavors to
+  sushi enthusiasts in the area. With a menu featuring an array of sushi rolls,
+  nigiri, and small plates, it captures the essence of traditional Japanese
+  dining in a trendy, welcoming atmosphere perfect for those searching for sushi
+  restaurants nearby. The spot emphasizes high-quality ingredients and creative
+  presentations, making it a go-to choice for anyone craving authentic yet
+  contemporary Japanese cuisine. Accessibility features like wheelchair-friendly
+  parking and seating add to its appeal, ensuring a comfortable visit for all.
+  Whether you're exploring sushi places near me or looking for top-rated
+  options, this location combines style and substance for an enjoyable meal.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Buzzing About$$$Visitors often rave about the tasty sushi
+  rolls at this spot, praising the fresh ingredients and unique twists like the
+  signature purple rice that make dishes stand out. Many appreciate the friendly
+  and attentive service that keeps the vibe relaxed and enjoyable, turning a
+  simple meal into a pleasant experience. Folks highlight the calming atmosphere
+  as a nice backdrop for enjoying Japanese favorites, making it a solid pick for
+  casual outings or groups. Overall, the consensus leans positive, with diners
+  noting consistent quality that lives up to expectations for those seeking the
+  best sushi near me. While opinions vary, the general feedback keeps an upbeat
+  tone, encouraging others to give it a try for a satisfying dining adventure.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +246,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

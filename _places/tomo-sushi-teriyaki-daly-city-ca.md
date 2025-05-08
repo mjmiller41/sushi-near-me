@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Tomo Sushi & Teriyaki"
+title: Tomo Sushi & Teriyaki
 permalink: /california/daly-city/tomo-sushi-teriyaki.html
 stateAbbr: CA
 stateName: California
 cityName: Daly City
 seo:
-  name: "Tomo Sushi & Teriyaki"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Straightforward pick for a large variety of creative rolls & hearty portions of classic Asian eats. Tomo Sushi & Teriyaki serves delicious sushi in Daly City, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJbzxsjEB8j4ARKzKIS39vhbQ
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 0
 website: null
+description: >-
+  About Tomo Sushi & Teriyaki in Daly City, CA$$$Tomo Sushi & Teriyaki in Daly
+  City, CA, stands out as a welcoming Japanese eatery specializing in fresh
+  sushi and flavorful seafood options, perfect for those searching for reliable
+  sushi restaurants nearby. The spot features a cozy ambiance where you can
+  savor creative rolls and hearty Asian classics, complemented by a selection of
+  beer, wine, and sake for an enhanced dining experience. With accessible
+  entrances and ample parking, it's designed to accommodate a variety of
+  visitors, making it an easy choice for families or groups looking for Japanese
+  places near me. This establishment emphasizes generous portions and a
+  straightforward menu that highlights quality ingredients, ensuring a
+  satisfying meal without the fuss.
+generative_summary: >-
+  About Tomo Sushi & Teriyaki in Daly City, CA$$$Tomo Sushi & Teriyaki in Daly
+  City, CA, stands out as a welcoming Japanese eatery specializing in fresh
+  sushi and flavorful seafood options, perfect for those searching for reliable
+  sushi restaurants nearby. The spot features a cozy ambiance where you can
+  savor creative rolls and hearty Asian classics, complemented by a selection of
+  beer, wine, and sake for an enhanced dining experience. With accessible
+  entrances and ample parking, it's designed to accommodate a variety of
+  visitors, making it an easy choice for families or groups looking for Japanese
+  places near me. This establishment emphasizes generous portions and a
+  straightforward menu that highlights quality ingredients, ensuring a
+  satisfying meal without the fuss.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJbzxsjEB8j4ARKzKIS39vhbQ/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3N19TaWhBRRAB
@@ -350,6 +373,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQ5bXNTTmJnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQ5bXNTTmJnEAE!2m1!1s0x808f7c408c6c3c6f:0xb4856f7f4b88322b
+review_summary: >-
+  What Customers Are Saying$$$Folks frequently highlight the friendly service
+  and wide-ranging menu as standout features, making it a go-to for casual sushi
+  enthusiasts. Many appreciate the fresh rolls and classic dishes that deliver
+  great flavors and solid portions, often noting how it pairs well with nearby
+  activities like movies. While some mention occasional variations in texture
+  that keep things real, the overall vibe remains positive with quick service
+  and welcoming staff adding to the charm. It's praised as a reliable spot for
+  everything from quick lunches to group outings, helping it earn high marks
+  among top-rated sushi options. If you're on the hunt for sushi close to me,
+  this place often comes through with honest, enjoyable meals that leave diners
+  coming back.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -383,8 +419,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Straightforward pick for a large variety of creative rolls & hearty portions
   of classic Asian eats.
 

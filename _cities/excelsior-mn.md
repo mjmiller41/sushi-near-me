@@ -5,4 +5,5 @@ permalink: /minnesota/excelsior/
 stateAbbr: MN
 stateName: Minnesota
 cityName: Excelsior
+
 ---

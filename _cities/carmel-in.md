@@ -5,4 +5,5 @@ permalink: /indiana/carmel/
 stateAbbr: IN
 stateName: Indiana
 cityName: Carmel
+
 ---

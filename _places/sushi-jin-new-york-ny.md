@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi jin"
+title: Sushi jin
 permalink: /new-york/new-york/sushi-jin.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "Sushi jin"
-  type: Restaurant
-  links: null
-description: "Sushi jin serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.sushijinny.com/
 place_id: ChIJ4-kkyVdZwokRc4pwM44G53s
 photos:
   - name: >-
@@ -166,8 +164,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c25957c924e9e3:0x7be7068e33708a73!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: Closed'
+    - 'Tuesday: 5:00 – 10:00 PM'
+    - 'Wednesday: 5:00 – 10:00 PM'
+    - 'Thursday: 5:00 – 10:00 PM'
+    - 'Friday: 5:00 – 10:00 PM'
+    - 'Saturday: 5:00 – 10:00 PM'
+    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -175,13 +222,54 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
+phone: (646) 609-6770
 price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+price_range: $100 &ndash; & up
+rating: '4.9'
+rating_count: 153
+website: http://www.sushijinny.com/
+description: >-
+  Discover Sushi Jin in New York, NY$$$Sushi Jin in New York, NY, stands out as
+  a casual dining destination offering an authentic omakase experience with
+  fresh sushi and sashimi sourced from Japanese imports. The restaurant focuses
+  on high-quality ingredients that highlight traditional techniques, creating a
+  menu that's both innovative and true to its roots. Diners can enjoy a cozy
+  atmosphere perfect for intimate meals, complemented by a selection of dishes
+  that emphasize exquisite presentation and flavor. Operating in the heart of
+  the city, it's an ideal spot for those searching for top-rated sushi
+  restaurants nearby, blending simplicity with exceptional culinary
+  craftsmanship. Whether you're exploring Japanese-inspired cuisine in a relaxed
+  setting, Sushi Jin delivers a memorable taste of freshness that's hard to
+  beat.
+generative_summary: >-
+  Discover Sushi Jin in New York, NY$$$Sushi Jin in New York, NY, stands out as
+  a casual dining destination offering an authentic omakase experience with
+  fresh sushi and sashimi sourced from Japanese imports. The restaurant focuses
+  on high-quality ingredients that highlight traditional techniques, creating a
+  menu that's both innovative and true to its roots. Diners can enjoy a cozy
+  atmosphere perfect for intimate meals, complemented by a selection of dishes
+  that emphasize exquisite presentation and flavor. Operating in the heart of
+  the city, it's an ideal spot for those searching for top-rated sushi
+  restaurants nearby, blending simplicity with exceptional culinary
+  craftsmanship. Whether you're exploring Japanese-inspired cuisine in a relaxed
+  setting, Sushi Jin delivers a memorable taste of freshness that's hard to
+  beat.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors to this sushi spot often rave about
+  the outstanding omakase offerings, praising the ultra-fresh fish that's
+  clearly a cut above the rest, making it a go-to for anyone craving quality
+  Japanese flavors. Many highlight the creative twists on classic dishes, with
+  eye-catching presentations that elevate the entire meal without overwhelming
+  the palate. The service stands out as warm and attentive, adding to the
+  laid-back vibe that makes it feel welcoming for all kinds of sushi lovers.
+  Overall, folks appreciate the cozy environment that encourages repeat visits,
+  especially if you're hunting for the best sushi experiences in the area. While
+  it's not without its simple charms, the consensus leans positive, positioning
+  it as a solid choice for anyone looking to enjoy reliable, flavorful dining in
+  a hassle-free setting.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -207,7 +295,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

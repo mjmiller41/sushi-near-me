@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "The BlueFin"
+title: The BlueFin
 permalink: /south-carolina/greenville/the-bluefin.html
 stateAbbr: SC
 stateName: South Carolina
 cityName: Greenville
 seo:
-  name: "The BlueFin"
-  type: Restaurant
+  type: restaurant
   links: https://thebluefingreenville.com/
-description: "The BlueFin serves delicious sushi in Greenville, South Carolina. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJA0NYua4vWIgR7Ss5Hfa9HrY
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x88582faeb9584303:0xb61ebdf61d392bed!10e5
 primary_type: Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:30 PM'
     - 'Tuesday: 11:00 AM – 9:30 PM'
     - 'Wednesday: 11:00 AM – 9:30 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:30 PM'
     - 'Saturday: 11:00 AM – 10:30 PM'
     - 'Sunday: 11:00 AM – 9:30 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:30 PM'
-    - 'Tuesday: 11:00 AM – 9:30 PM'
-    - 'Wednesday: 11:00 AM – 9:30 PM'
-    - 'Thursday: 11:00 AM – 9:30 PM'
-    - 'Friday: 11:00 AM – 10:30 PM'
-    - 'Saturday: 11:00 AM – 10:30 PM'
-    - 'Sunday: 11:00 AM – 9:30 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +246,46 @@ phone: (864) 991-8108
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.6'
-rating_count: 0
+rating_count: 227
 website: https://thebluefingreenville.com/
+description: >-
+  Discover The BlueFin in Greenville, SC$$$The BlueFin in Greenville, SC, stands
+  out as a relaxed spot for enjoying fresh gourmet sushi alongside creative
+  burgers and shareable small plates, making it a go-to for casual dining
+  enthusiasts. This welcoming restaurant boasts an inviting atmosphere where
+  patrons can savor expertly prepared dishes that highlight quality ingredients
+  and innovative flavors. With accessibility features like wheelchair-friendly
+  entrances and seating, it's designed to accommodate everyone comfortably.
+  Operating daily from late morning into the evening, it offers a convenient
+  option for those seeking top-rated sushi or Japanese-inspired meals nearby.
+  Whether you're in the mood for a quick bite or a leisurely meal, this spot
+  combines affordability with a vibrant vibe that keeps locals coming back.
+generative_summary: >-
+  Discover The BlueFin in Greenville, SC$$$The BlueFin in Greenville, SC, stands
+  out as a relaxed spot for enjoying fresh gourmet sushi alongside creative
+  burgers and shareable small plates, making it a go-to for casual dining
+  enthusiasts. This welcoming restaurant boasts an inviting atmosphere where
+  patrons can savor expertly prepared dishes that highlight quality ingredients
+  and innovative flavors. With accessibility features like wheelchair-friendly
+  entrances and seating, it's designed to accommodate everyone comfortably.
+  Operating daily from late morning into the evening, it offers a convenient
+  option for those seeking top-rated sushi or Japanese-inspired meals nearby.
+  Whether you're in the mood for a quick bite or a leisurely meal, this spot
+  combines affordability with a vibrant vibe that keeps locals coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Raving About$$$Visitors often praise the fresh and flavorful
+  sushi at this Greenville favorite, with standout rolls that bring exciting
+  tastes to the table, perfect for anyone hunting for great sushi nearby. Many
+  highlight the delicious burgers and small plates as solid complements to the
+  menu, adding variety to the dining experience without missing a beat. Folks
+  appreciate the friendly service that makes every visit feel welcoming and
+  attentive, enhancing the overall enjoyment. Happy hour deals come up
+  frequently as a fun perk, offering value that makes it easy to try new dishes.
+  Overall, it's a spot that delivers a satisfying meal with a positive vibe,
+  making it a reliable choice for casual outings.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +311,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

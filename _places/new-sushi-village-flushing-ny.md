@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "New Sushi Village"
+title: New Sushi Village
 permalink: /new-york/flushing/new-sushi-village.html
 stateAbbr: NY
 stateName: New York
 cityName: Flushing
 seo:
-  name: "New Sushi Village"
-  type: Restaurant
+  type: restaurant
   links: https://newsushiflushing.com/
-description: "New Sushi Village serves delicious sushi in Flushing, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJkyuoZX-KwokRd1J0FM8uXAM
 photos:
   - name: >-
@@ -169,7 +167,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c28a7f65a82b93:0x35c2ecf14745277!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 22
+        minute: 15
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 22
+        minute: 15
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 22
+        minute: 15
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 15
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 15
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 45
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 45
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 10:15 PM'
     - 'Tuesday: 11:30 AM – 10:15 PM'
     - 'Wednesday: 11:30 AM – 10:15 PM'
@@ -177,14 +233,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 10:45 PM'
     - 'Saturday: 11:30 AM – 10:45 PM'
     - 'Sunday: 11:30 AM – 10:15 PM'
-  current:
-    - 'Monday: 11:30 AM – 10:15 PM'
-    - 'Tuesday: 11:30 AM – 10:15 PM'
-    - 'Wednesday: 11:30 AM – 10:15 PM'
-    - 'Thursday: 11:30 AM – 10:15 PM'
-    - 'Friday: 11:30 AM – 10:45 PM'
-    - 'Saturday: 11:30 AM – 10:45 PM'
-    - 'Sunday: 11:30 AM – 10:15 PM'
+  nextCloseTime: '2025-05-04T02:45:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,9 +245,48 @@ phone: (718) 358-2888
 price_level: PRICE_LEVEL_MODERATE
 price_range: $30 &ndash; $50
 rating: '4.2'
-rating_count: 0
+rating_count: 1340
 website: https://newsushiflushing.com/
+description: >-
+  Discover New Sushi Village in Flushing, NY$$$New Sushi Village in Flushing,
+  NY, stands out as a welcoming spot for those craving authentic Japanese
+  flavors in a casual setting. This sushi restaurant offers an all-you-can-eat
+  experience featuring fresh sashimi, creative rolls, and crispy tempura, making
+  it a go-to choice for sushi enthusiasts exploring local dining options. With
+  its moderate pricing and accessibility features like wheelchair-friendly
+  entrances, it's designed to accommodate a variety of diners seeking convenient
+  and enjoyable meals. The spot maintains extended hours, ensuring you can savor
+  top-rated Japanese fare whether you're stopping by for a quick lunch or a
+  relaxed dinner. Its vibrant atmosphere adds to the appeal for anyone searching
+  for reliable sushi places near me in the bustling area.
+generative_summary: >-
+  Discover New Sushi Village in Flushing, NY$$$New Sushi Village in Flushing,
+  NY, stands out as a welcoming spot for those craving authentic Japanese
+  flavors in a casual setting. This sushi restaurant offers an all-you-can-eat
+  experience featuring fresh sashimi, creative rolls, and crispy tempura, making
+  it a go-to choice for sushi enthusiasts exploring local dining options. With
+  its moderate pricing and accessibility features like wheelchair-friendly
+  entrances, it's designed to accommodate a variety of diners seeking convenient
+  and enjoyable meals. The spot maintains extended hours, ensuring you can savor
+  top-rated Japanese fare whether you're stopping by for a quick lunch or a
+  relaxed dinner. Its vibrant atmosphere adds to the appeal for anyone searching
+  for reliable sushi places near me in the bustling area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Diners at New Sushi Village$$$Visitors often rave about the
+  fresh and flavorful sushi selections that keep them coming back for more,
+  highlighting it as a solid pick for anyone hunting for great Japanese eats
+  nearby. Folks appreciate the wide array of appetizers and drinks like sake
+  that complement the meal, along with the consistently friendly service that
+  makes every visit feel welcoming. While the space might feel a bit cozy during
+  peak times, it adds to the intimate vibe without taking away from the overall
+  experience. Overall, the attentive staff and high-quality dishes earn high
+  marks, making this a trustworthy option for groups or solo diners looking for
+  a satisfying meal. If you're on the hunt for the best sushi near me, this spot
+  delivers a reliably positive experience with just the right mix of variety and
+  value.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -224,7 +312,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

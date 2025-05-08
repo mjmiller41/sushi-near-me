@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kiyoshi Teriyaki & Sushi"
+title: Kiyoshi Teriyaki & Sushi
 permalink: /arizona/san-tan-valley/kiyoshi-teriyaki-sushi.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: San Tan Valley
 seo:
-  name: "Kiyoshi Teriyaki & Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.kiyoshiteriyakisantanvalley.com/
-description: "Kiyoshi Teriyaki & Sushi serves delicious sushi in San Tan Valley, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJHex86uxIKocR0TvZqApubNI
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x872a48ecea7cec1d:0xd26c6e0aa8d93bd1!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:00 PM'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -178,54 +226,401 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:00 PM'
     - 'Saturday: 11:00 AM – 9:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:00 AM – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 9:00 PM'
-    - 'Saturday: 11:00 AM – 9:00 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 1
+          hour: 11
+          minute: 0
+        close:
+          day: 1
+          hour: 21
+          minute: 0
+      - open:
+          day: 2
+          hour: 11
+          minute: 0
+        close:
+          day: 2
+          hour: 21
+          minute: 0
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 21
+          minute: 0
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 0
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 21
+          minute: 0
+      - open:
+          day: 6
+          hour: 11
+          minute: 0
+        close:
+          day: 6
+          hour: 21
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 11:00 AM – 9:00 PM'
+      - 'Tuesday: 11:00 AM – 9:00 PM'
+      - 'Wednesday: 11:00 AM – 9:00 PM'
+      - 'Thursday: 11:00 AM – 9:00 PM'
+      - 'Friday: 11:00 AM – 9:00 PM'
+      - 'Saturday: 11:00 AM – 9:00 PM'
+      - 'Sunday: Closed'
+    secondaryHoursType: TAKEOUT
+    nextCloseTime: '2025-05-04T04:00:00Z'
+  - openNow: true
+    periods:
+      - open:
+          day: 1
+          hour: 11
+          minute: 0
+        close:
+          day: 1
+          hour: 20
+          minute: 40
+      - open:
+          day: 2
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 8
+          minute: 40
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 20
+          minute: 40
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 20
+          minute: 40
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 20
+          minute: 40
+      - open:
+          day: 6
+          hour: 11
+          minute: 0
+        close:
+          day: 6
+          hour: 20
+          minute: 40
+    weekdayDescriptions:
+      - 'Monday: 11:00 AM – 8:40 PM'
+      - 'Tuesday: 11:00 AM – 8:40 AM'
+      - 'Wednesday: 11:00 AM – 8:40 PM'
+      - 'Thursday: 11:00 AM – 8:40 PM'
+      - 'Friday: 11:00 AM – 8:40 PM'
+      - 'Saturday: 11:00 AM – 8:40 PM'
+      - 'Sunday: Closed'
+    secondaryHoursType: ONLINE_SERVICE_HOURS
+    nextCloseTime: '2025-05-04T03:40:00Z'
 phone: (480) 750-3628
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.3'
-rating_count: 0
+rating_count: 511
 website: https://www.kiyoshiteriyakisantanvalley.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Kiyoshi Teriyaki & Sushi in San Tan Valley, AZ$$$Kiyoshi Teriyaki &
+  Sushi in San Tan Valley, AZ, stands out as a welcoming spot for enjoying fresh
+  Japanese-inspired cuisine, featuring a variety of sushi rolls and teriyaki
+  dishes that highlight the best of casual dining. The menu boasts creative
+  options like flavorful teriyaki bowls and innovative rolls, making it a go-to
+  choice for anyone seeking top-rated sushi near you in a relaxed atmosphere.
+  Accessibility is a key feature, with wheelchair-friendly parking, entrances,
+  and seating that ensure everyone can enjoy the experience comfortably. If
+  you're exploring sushi restaurants near me, this location's commitment to
+  quality ingredients and efficient service adds to its appeal, perfect for a
+  quick lunch or dinner outing. Operating from 11 AM to 9 PM most days, it
+  provides a convenient option for those craving authentic flavors without the
+  fuss.
+generative_summary: >-
+  Discover Kiyoshi Teriyaki & Sushi in San Tan Valley, AZ$$$Kiyoshi Teriyaki &
+  Sushi in San Tan Valley, AZ, stands out as a welcoming spot for enjoying fresh
+  Japanese-inspired cuisine, featuring a variety of sushi rolls and teriyaki
+  dishes that highlight the best of casual dining. The menu boasts creative
+  options like flavorful teriyaki bowls and innovative rolls, making it a go-to
+  choice for anyone seeking top-rated sushi near you in a relaxed atmosphere.
+  Accessibility is a key feature, with wheelchair-friendly parking, entrances,
+  and seating that ensure everyone can enjoy the experience comfortably. If
+  you're exploring sushi restaurants near me, this location's commitment to
+  quality ingredients and efficient service adds to its appeal, perfect for a
+  quick lunch or dinner outing. Operating from 11 AM to 9 PM most days, it
+  provides a convenient option for those craving authentic flavors without the
+  fuss.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJHex86uxIKocR0TvZqApubNI/reviews/ChdDSUhNMG9nS0VJQ0FnSURmd3FQMHhRRRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        Best upscaled teriyaki bowl I’ve have had. Crispy onions and crab on top
+        of teriyaki and rice is the best combo. Highly recommend. Gyoza was good
+        too
+      languageCode: en
+    originalText:
+      text: >-
+        Best upscaled teriyaki bowl I’ve have had. Crispy onions and crab on top
+        of teriyaki and rice is the best combo. Highly recommend. Gyoza was good
+        too
+      languageCode: en
+    authorAttribution:
+      displayName: Benjamin Wreath
+      uri: https://www.google.com/maps/contrib/117637945515317790964/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjX-WS88CWpfgj0byV7c2xhHrX7689mQgzvoz5XZKDOTPReq6gEV=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-01-05T00:34:47.149652Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURmd3FQMHhRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURmd3FQMHhRRRAB!2m1!1s0x872a48ecea7cec1d:0xd26c6e0aa8d93bd1
+  - name: >-
+      places/ChIJHex86uxIKocR0TvZqApubNI/reviews/ChZDSUhNMG9nS0VJQ0FnSUN0anVEMVlREAE
+    relativePublishTimeDescription: a year ago
+    rating: 3
+    text:
+      text: >-
+        I really enjoyed my sushi 🍣 burrito 🌯.  I'm glad it was wrapped in
+        paper rather than some places which unwisely do aluminum foil; it tears
+        easier. The dining room area was comfortable and relaxing. The men's
+        restroom was mediocre in cleanliness. There were urine stains and liquid
+        on walls and floors around urinal. The urinal and toilet also needed
+        cleaning and disinfecting. The handicap ♿️ bar next to the toilet was
+        sticky. The top of the soap dispenser was dusty.
+
+
+        I would have given it a 5 out of 5 if the restroom had been clean, but
+        because it wasn't, I give my experience a 3 out of 5.
+      languageCode: en
+    originalText:
+      text: >-
+        I really enjoyed my sushi 🍣 burrito 🌯.  I'm glad it was wrapped in
+        paper rather than some places which unwisely do aluminum foil; it tears
+        easier. The dining room area was comfortable and relaxing. The men's
+        restroom was mediocre in cleanliness. There were urine stains and liquid
+        on walls and floors around urinal. The urinal and toilet also needed
+        cleaning and disinfecting. The handicap ♿️ bar next to the toilet was
+        sticky. The top of the soap dispenser was dusty.
+
+
+        I would have given it a 5 out of 5 if the restroom had been clean, but
+        because it wasn't, I give my experience a 3 out of 5.
+      languageCode: en
+    authorAttribution:
+      displayName: Rodney David Falberg
+      uri: https://www.google.com/maps/contrib/103594402472206235867/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXouq08BsX_M0WN082aGVeHSAhrU14a4OlWi4mgv19qAW9DLAEf=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-01-30T08:58:54.580801Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN0anVEMVlREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN0anVEMVlREAE!2m1!1s0x872a48ecea7cec1d:0xd26c6e0aa8d93bd1
+  - name: >-
+      places/ChIJHex86uxIKocR0TvZqApubNI/reviews/ChZDSUhNMG9nS0VJQ0FnSUNWNDlyNWVBEAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        Tried this place for the first time. The place was clean and organized.
+        The young lady behind the counter was super friendly and welcoming. We
+        had the Las Vegas Roll and spring rolls. The Las Vegas roll was
+        perfectly built and fried. It was also bigger than I thought. It looks
+        weird but don’t let it fool you.They had Xmas music playing and we
+        enjoyed dinning in. Before leaving the young lady asked how everything
+        was. She gave us the run down on what they offer. It’s a little bit out
+        the way but worth it.
+      languageCode: en
+    originalText:
+      text: >-
+        Tried this place for the first time. The place was clean and organized.
+        The young lady behind the counter was super friendly and welcoming. We
+        had the Las Vegas Roll and spring rolls. The Las Vegas roll was
+        perfectly built and fried. It was also bigger than I thought. It looks
+        weird but don’t let it fool you.They had Xmas music playing and we
+        enjoyed dinning in. Before leaving the young lady asked how everything
+        was. She gave us the run down on what they offer. It’s a little bit out
+        the way but worth it.
+      languageCode: en
+    authorAttribution:
+      displayName: Luis P.
+      uri: https://www.google.com/maps/contrib/104232575013607791731/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWTnYIrL2rn9qwLlFNmxJb2c5mcMhq142SwOPTiJuRoXh_S_3mBzg=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2023-12-09T05:06:13.744386Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNWNDlyNWVBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNWNDlyNWVBEAE!2m1!1s0x872a48ecea7cec1d:0xd26c6e0aa8d93bd1
+  - name: >-
+      places/ChIJHex86uxIKocR0TvZqApubNI/reviews/ChZDSUhNMG9nS0VJQ0FnSUR5M3I2MVJnEAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        Always fresh, place always clean, staff always courteous.
+
+
+        Food has kept me coming back for a time.
+
+
+        Grateful they are here!  Teriyaki Chicken & Salmon Roll is my rut. 
+        Enjoy!
+
+
+        Always happy to call in order & then pick up.
+
+
+        Now 2025 & Jeff the owner has never failed to
+
+        provide an outstanding meal.  Have had the pleasure of patronizing now
+        for something like 5 years.
+      languageCode: en
+    originalText:
+      text: >-
+        Always fresh, place always clean, staff always courteous.
+
+
+        Food has kept me coming back for a time.
+
+
+        Grateful they are here!  Teriyaki Chicken & Salmon Roll is my rut. 
+        Enjoy!
+
+
+        Always happy to call in order & then pick up.
+
+
+        Now 2025 & Jeff the owner has never failed to
+
+        provide an outstanding meal.  Have had the pleasure of patronizing now
+        for something like 5 years.
+      languageCode: en
+    authorAttribution:
+      displayName: Daniel Gaddis
+      uri: https://www.google.com/maps/contrib/110717422646451822813/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjX0f2G-J_c7Alv13G81sUgXTLjTapUlWYKQyDT14xJTUKEVJbTJ=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-02-27T19:47:27.346402Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR5M3I2MVJnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR5M3I2MVJnEAE!2m1!1s0x872a48ecea7cec1d:0xd26c6e0aa8d93bd1
+  - name: >-
+      places/ChIJHex86uxIKocR0TvZqApubNI/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3ejRtdWtRRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        The food is always great and the girls at the counter are always sweet.
+
+
+        My wife and I love this place. It's a bit pricey though. We spend $25-30
+        for two people.
+      languageCode: en
+    originalText:
+      text: >-
+        The food is always great and the girls at the counter are always sweet.
+
+
+        My wife and I love this place. It's a bit pricey though. We spend $25-30
+        for two people.
+      languageCode: en
+    authorAttribution:
+      displayName: Randy V
+      uri: https://www.google.com/maps/contrib/112118447828584696137/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUcNRNFe47iKxANjBKRjDobym18iMUR4OJgo3ue_OyVEoWlsapa=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-03-22T03:09:29.305884Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUN3ejRtdWtRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUN3ejRtdWtRRRAB!2m1!1s0x872a48ecea7cec1d:0xd26c6e0aa8d93bd1
+review_summary: >-
+  What Customers Are Sharing About This Sushi Spot$$$Folks rave about the fresh
+  and tasty dishes here, with many highlighting the delicious teriyaki bowls and
+  creative rolls as standout favorites that keep them coming back for more.
+  While most experiences focus on the clean environment and friendly vibes that
+  make dining in feel easygoing, a few notes suggest that attention to details
+  like restroom upkeep could use a little extra care. Overall, visitors
+  appreciate the generous portions and solid value, often mentioning how the
+  food's quality makes it worth the drive for anyone hunting for reliable sushi
+  places near me. It's clear that the welcoming service and consistent flavors
+  create a positive buzz, though it's always smart to check for any minor
+  inconsistencies based on the day. If you're on the hunt for I love sushi
+  moments, this spot generally delivers a satisfying meal that leaves people
+  eager to return.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  paidStreetParking: false
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
+curbside_pickup: false
+delivery: false
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: true
+outdoor_seating: false
+reservable: false
+restroom: true
 serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: false
+serves_coffee: false
+serves_dinner: true
+serves_dessert: false
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

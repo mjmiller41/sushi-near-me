@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Harbor"
+title: Sushi Harbor
 permalink: /colorado/denver/sushi-harbor.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Denver
 seo:
-  name: "Sushi Harbor"
-  type: Restaurant
+  type: restaurant
   links: https://www.sushiharborco.com/
-description: "Sushi Harbor serves delicious sushi in Denver, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJbXjxAx58bIcRloiV8sZYjus
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x876c7c1e03f1786d:0xeb8e58c6f2958896!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:00 AM – 9:30 PM'
     - 'Wednesday: 11:00 AM – 9:30 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:00 PM'
     - 'Saturday: 12:00 – 10:00 PM'
     - 'Sunday: 12:00 – 9:30 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:00 AM – 9:30 PM'
-    - 'Wednesday: 11:00 AM – 9:30 PM'
-    - 'Thursday: 11:00 AM – 9:30 PM'
-    - 'Friday: 11:00 AM – 10:00 PM'
-    - 'Saturday: 12:00 – 10:00 PM'
-    - 'Sunday: 12:00 – 9:30 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -195,37 +236,268 @@ secondary_opening_hours:
     type: null
 phone: (303) 333-6888
 price_level: PRICE_LEVEL_MODERATE
-price_range: null
+price_range: $20 &ndash; $30
 rating: '4.5'
-rating_count: 0
+rating_count: 498
 website: https://www.sushiharborco.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Sushi Harbor in Denver, CO$$$Sushi Harbor in Denver, CO, offers a
+  cozy and accessible spot for enjoying fresh Japanese cuisine, featuring
+  artfully prepared specialty rolls and sashimi that highlight the best of local
+  sushi options. This low-key restaurant provides a welcoming atmosphere with
+  thoughtful touches like wheelchair-accessible seating and outdoor areas,
+  making it easy for everyone to savor their meals. Visitors can indulge in a
+  variety of cooked dishes and bento boxes, perfect for a quick lunch or relaxed
+  dinner, all served in a setting that emphasizes quality and presentation. With
+  convenient hours that include evenings and weekends, it's an ideal choice for
+  those seeking top-rated sushi experiences nearby. The menu's focus on fresh
+  ingredients and moderate pricing adds to its appeal for anyone exploring
+  Japanese places in the area.
+generative_summary: >-
+  Discover Sushi Harbor in Denver, CO$$$Sushi Harbor in Denver, CO, offers a
+  cozy and accessible spot for enjoying fresh Japanese cuisine, featuring
+  artfully prepared specialty rolls and sashimi that highlight the best of local
+  sushi options. This low-key restaurant provides a welcoming atmosphere with
+  thoughtful touches like wheelchair-accessible seating and outdoor areas,
+  making it easy for everyone to savor their meals. Visitors can indulge in a
+  variety of cooked dishes and bento boxes, perfect for a quick lunch or relaxed
+  dinner, all served in a setting that emphasizes quality and presentation. With
+  convenient hours that include evenings and weekends, it's an ideal choice for
+  those seeking top-rated sushi experiences nearby. The menu's focus on fresh
+  ingredients and moderate pricing adds to its appeal for anyone exploring
+  Japanese places in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJbXjxAx58bIcRloiV8sZYjus/reviews/ChdDSUhNMG9nS0VJQ0FnTURJdl83NXlRRRAB
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 1
+    text:
+      text: >-
+        Worst sushi restaurant I’ve dealt with in Denver. Ordered online said
+        delivery or pick up in 30 minutes. Ordered at 7:02, no updates, reached
+        out to sushi harbor at 7:56 to see where my order was after the email
+        said 45 minutes instead of the website’s 30.
+
+
+        They were still waiting for someone to pick it up.
+
+        But over 90 minutes post order, the food is finally here, the tempura is
+        cold, only one set of chopsticks for a relatively large order.
+
+
+        What an absolutely terrible experience.
+
+        Also, shout out to the almost $7 delivery fee for a delivery that was
+        supposed to be delivered at 732, then 747, but finally just left outside
+        with no door lock when I checked outside at 840PM.
+
+
+        I have to make an adjustment, after looking under two random pieces of
+        cardboard, found a second set of chopsticks, coincidentally warmer than
+        the tempura.
+      languageCode: en
+    originalText:
+      text: >-
+        Worst sushi restaurant I’ve dealt with in Denver. Ordered online said
+        delivery or pick up in 30 minutes. Ordered at 7:02, no updates, reached
+        out to sushi harbor at 7:56 to see where my order was after the email
+        said 45 minutes instead of the website’s 30.
+
+
+        They were still waiting for someone to pick it up.
+
+        But over 90 minutes post order, the food is finally here, the tempura is
+        cold, only one set of chopsticks for a relatively large order.
+
+
+        What an absolutely terrible experience.
+
+        Also, shout out to the almost $7 delivery fee for a delivery that was
+        supposed to be delivered at 732, then 747, but finally just left outside
+        with no door lock when I checked outside at 840PM.
+
+
+        I have to make an adjustment, after looking under two random pieces of
+        cardboard, found a second set of chopsticks, coincidentally warmer than
+        the tempura.
+      languageCode: en
+    authorAttribution:
+      displayName: John Kennedy
+      uri: https://www.google.com/maps/contrib/116767163092412185723/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVHuic8kO49bLOVZZq2MhOd2Xf38XKWMDwBXovhJckwZy_tbJ7F=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2025-04-14T02:54:59.612074Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJdl83NXlRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJdl83NXlRRRAB!2m1!1s0x876c7c1e03f1786d:0xeb8e58c6f2958896
+  - name: >-
+      places/ChIJbXjxAx58bIcRloiV8sZYjus/reviews/ChZDSUhNMG9nS0VJQ0FnSUNQdExlY1BnEAE
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        Everything we ordered was so fresh and flavorful! We ordered the crab
+        salad and the coconut shrimp for starters. We recommend trying the angel
+        roll & the pink lady roll! The staff took great care of us, the ladies
+        were so sweet and very attentive.
+      languageCode: en
+    originalText:
+      text: >-
+        Everything we ordered was so fresh and flavorful! We ordered the crab
+        salad and the coconut shrimp for starters. We recommend trying the angel
+        roll & the pink lady roll! The staff took great care of us, the ladies
+        were so sweet and very attentive.
+      languageCode: en
+    authorAttribution:
+      displayName: darrion denzmore
+      uri: https://www.google.com/maps/contrib/118034707388073858589/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUWFr_VUJBUq8wuLUx-wF6VQGY9hJRu5PFHv2oH46snsYGmdX_5=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-11-21T23:16:03.161938Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNQdExlY1BnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNQdExlY1BnEAE!2m1!1s0x876c7c1e03f1786d:0xeb8e58c6f2958896
+  - name: >-
+      places/ChIJbXjxAx58bIcRloiV8sZYjus/reviews/ChZDSUhNMG9nS0VJQ0FnSUNfMEs2SFRBEAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        A lovely little sushi spot. We got a to-go order to take to the hospital
+        and it was made and packaged with such care. Quality and taste were
+        excellent. I would recommend this to anyone in the area
+      languageCode: en
+    originalText:
+      text: >-
+        A lovely little sushi spot. We got a to-go order to take to the hospital
+        and it was made and packaged with such care. Quality and taste were
+        excellent. I would recommend this to anyone in the area
+      languageCode: en
+    authorAttribution:
+      displayName: B S
+      uri: https://www.google.com/maps/contrib/101752411191742083410/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocICyOLKes9KrAE4OSWswVT5-OOJmokYydBdOozhZa6e_42q0w=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-01-12T01:52:12.638460Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNfMEs2SFRBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNfMEs2SFRBEAE!2m1!1s0x876c7c1e03f1786d:0xeb8e58c6f2958896
+  - name: >-
+      places/ChIJbXjxAx58bIcRloiV8sZYjus/reviews/ChZDSUhNMG9nS0VJQ0FnSUREcHRxMkpREAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        Delicious sushi place! The outside looked a little run down but the
+        inside is so nice! Our waitress was very  attentive! Loved everything
+        about our meal! The miso soup was basic but still super delicious! I
+        loved the dessert that came at the end - sliced oranges presented in a
+        nice manner!
+      languageCode: en
+    originalText:
+      text: >-
+        Delicious sushi place! The outside looked a little run down but the
+        inside is so nice! Our waitress was very  attentive! Loved everything
+        about our meal! The miso soup was basic but still super delicious! I
+        loved the dessert that came at the end - sliced oranges presented in a
+        nice manner!
+      languageCode: en
+    authorAttribution:
+      displayName: Jenn Pfankuch
+      uri: https://www.google.com/maps/contrib/114190947241820048286/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXpBS2kmcfMGkqa75jrF2F90hW5setFqqz5XKhzoXKSTiakRgF4wg=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2024-04-08T19:29:34.510892Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUREcHRxMkpREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUREcHRxMkpREAE!2m1!1s0x876c7c1e03f1786d:0xeb8e58c6f2958896
+  - name: >-
+      places/ChIJbXjxAx58bIcRloiV8sZYjus/reviews/ChZDSUhNMG9nS0VJQ0FnSUNUaDY3S0pREAE
+    relativePublishTimeDescription: 11 months ago
+    rating: 5
+    text:
+      text: >-
+        The woman who said the rolls are small is crazy, just look at her
+        photos.
+
+
+        Creative rolls, fresh ingredients and big portions! The sushi here is as
+        delicious as it is beautifully presented. The toro special was
+        melt-in-your-mouth and well cut. They have drinks like hot sake and a
+        variety of noodle and hot dishes as well as sushi. See for yourself!
+      languageCode: en
+    originalText:
+      text: >-
+        The woman who said the rolls are small is crazy, just look at her
+        photos.
+
+
+        Creative rolls, fresh ingredients and big portions! The sushi here is as
+        delicious as it is beautifully presented. The toro special was
+        melt-in-your-mouth and well cut. They have drinks like hot sake and a
+        variety of noodle and hot dishes as well as sushi. See for yourself!
+      languageCode: en
+    authorAttribution:
+      displayName: Jessie Fleming
+      uri: https://www.google.com/maps/contrib/108496496828057329464/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKRAgkQOsT44JbYSZl_WKkkS9rQJwsDBe7vhFdnds_PURJi-QQ=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-05-19T18:37:02.862684Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNUaDY3S0pREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNUaDY3S0pREAE!2m1!1s0x876c7c1e03f1786d:0xeb8e58c6f2958896
+review_summary: >-
+  Insights from Customer Feedback$$$Folks rave about the fresh and flavorful
+  sushi rolls at this spot, with many highlighting creative options like the
+  angel roll and pink lady that deliver big on taste and portion size. While
+  most visitors appreciate the attentive service and careful packaging for
+  takeout, a few mentions of delivery delays show it's not perfect for every
+  order. Overall, the quality of ingredients and cozy vibe make it a go-to for
+  groups or families looking for a satisfying meal. Diners often note the
+  excellent value for the price, making it a solid pick for anyone hunting for
+  reliable sushi restaurants around town. If you're in the mood for something
+  tasty and approachable, this place generally hits the mark with its welcoming
+  vibe and variety of dishes.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+curbside_pickup: false
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Low-key restaurant focusing on artfully presented specialty maki rolls,  plus
+  bento lunch boxes.
 
 ---

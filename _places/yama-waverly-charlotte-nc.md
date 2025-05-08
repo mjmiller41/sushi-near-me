@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "YAMA Waverly"
+title: YAMA Waverly
 permalink: /north-carolina/charlotte/yama-waverly.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Charlotte
 seo:
-  name: "YAMA Waverly"
-  type: Restaurant
+  type: restaurant
   links: http://yamawaverly.com/
-description: "YAMA Waverly serves delicious sushi in Charlotte, North Carolina. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJVTjcp80nVIgR2Bx42hybxvk
 photos:
   - name: >-
@@ -170,7 +168,105 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x885427cda7dc3855:0xf9c69b1cda781cd8!10e5
 primary_type: Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 14
+        minute: 45
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 45
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 45
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 45
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 45
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 14
+        minute: 45
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:30 AM – 2:45 PM, 5:00 – 9:00 PM'
     - 'Wednesday: 11:30 AM – 2:45 PM, 5:00 – 9:00 PM'
@@ -178,14 +274,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 2:45 PM, 5:00 – 10:00 PM'
     - 'Saturday: 11:30 AM – 2:45 PM, 5:00 – 10:00 PM'
     - 'Sunday: 11:30 AM – 2:45 PM, 5:00 – 9:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:30 AM – 2:45 PM, 5:00 – 9:00 PM'
-    - 'Wednesday: 11:30 AM – 2:45 PM, 5:00 – 9:00 PM'
-    - 'Thursday: 11:30 AM – 2:45 PM, 5:00 – 9:00 PM'
-    - 'Friday: 11:30 AM – 2:45 PM, 5:00 – 10:00 PM'
-    - 'Saturday: 11:30 AM – 2:45 PM, 5:00 – 10:00 PM'
-    - 'Sunday: 11:30 AM – 2:45 PM, 5:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +286,47 @@ phone: (980) 265-1528
 price_level: null
 price_range: null
 rating: '4.5'
-rating_count: 0
+rating_count: 653
 website: http://yamawaverly.com/
+description: >-
+  Discover YAMA Waverly in Charlotte, NC$$$YAMA Waverly in Charlotte, NC, stands
+  out as a welcoming spot for enjoying fresh sushi and traditional Japanese
+  dishes in a relaxed environment. This casual restaurant offers a diverse menu
+  featuring flavorful rolls, savory entrees, and a selection of beverages like
+  cocktails, beer, and wine, making it a great choice for various dining
+  occasions. With its accessible features and convenient hours that include
+  lunch and dinner options throughout the week, it's designed to accommodate
+  different schedules and needs. The emphasis on high-quality ingredients
+  ensures a satisfying experience, appealing to those seeking authentic Japanese
+  flavors in a comfortable setting. For anyone exploring sushi restaurants
+  nearby, this location combines quality and convenience for an enjoyable meal.
+generative_summary: >-
+  Discover YAMA Waverly in Charlotte, NC$$$YAMA Waverly in Charlotte, NC, stands
+  out as a welcoming spot for enjoying fresh sushi and traditional Japanese
+  dishes in a relaxed environment. This casual restaurant offers a diverse menu
+  featuring flavorful rolls, savory entrees, and a selection of beverages like
+  cocktails, beer, and wine, making it a great choice for various dining
+  occasions. With its accessible features and convenient hours that include
+  lunch and dinner options throughout the week, it's designed to accommodate
+  different schedules and needs. The emphasis on high-quality ingredients
+  ensures a satisfying experience, appealing to those seeking authentic Japanese
+  flavors in a comfortable setting. For anyone exploring sushi restaurants
+  nearby, this location combines quality and convenience for an enjoyable meal.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors frequently highlight the mouthwatering
+  sushi rolls and creative specials that bring bold flavors to the table, making
+  it a solid pick for Japanese cuisine enthusiasts. Many note the freshness of
+  the fish and the appeal of hearty bento boxes and standout appetizers, which
+  add a delightful touch to every visit. The service stands out as friendly and
+  attentive, enhancing the overall vibe without overwhelming the experience.
+  While opinions vary, the general consensus leans positive, praising the
+  reliable taste and variety that keep diners coming back for more. If you're on
+  the hunt for top-rated sushi spots in the area, this place delivers a
+  consistently enjoyable outing with its flavorful offerings and welcoming
+  atmosphere.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +352,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

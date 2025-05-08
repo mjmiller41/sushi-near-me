@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kona Grill - Gilbert"
+title: Kona Grill - Gilbert
 permalink: /arizona/gilbert/kona-grill-gilbert.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Gilbert
 seo:
-  name: "Kona Grill - Gilbert"
-  type: Restaurant
-  links: https://konagrill.com/locations?locations=Gilbert,85295
-description: "Kona Grill - Gilbert serves delicious sushi in Gilbert, Arizona. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://konagrill.com/locations?locations=Gilbert
 place_id: ChIJa5JiB2ysK4cRAuHjaYAcUGU
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x872bac6c0762926b:0x65501c8069e3e102!10e5
 primary_type: American Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 10
+        minute: 0
+      close:
+        day: 0
+        hour: 23
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 0
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 0
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 0
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 0
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 1
+        minute: 0
+    - open:
+        day: 6
+        hour: 10
+        minute: 0
+      close:
+        day: 0
+        hour: 1
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 12:00 AM'
     - 'Tuesday: 11:00 AM – 12:00 AM'
     - 'Wednesday: 11:00 AM – 12:00 AM'
@@ -178,54 +234,415 @@ opening_hours:
     - 'Friday: 11:00 AM – 1:00 AM'
     - 'Saturday: 10:00 AM – 1:00 AM'
     - 'Sunday: 10:00 AM – 11:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 12:00 AM'
-    - 'Tuesday: 11:00 AM – 12:00 AM'
-    - 'Wednesday: 11:00 AM – 12:00 AM'
-    - 'Thursday: 11:00 AM – 12:00 AM'
-    - 'Friday: 11:00 AM – 1:00 AM'
-    - 'Saturday: 10:00 AM – 1:00 AM'
-    - 'Sunday: 10:00 AM – 11:00 PM'
+  nextCloseTime: '2025-05-04T08:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: false
+    periods:
+      - open:
+          day: 0
+          hour: 21
+          minute: 0
+        close:
+          day: 1
+          hour: 0
+          minute: 0
+      - open:
+          day: 1
+          hour: 14
+          minute: 0
+        close:
+          day: 1
+          hour: 18
+          minute: 0
+      - open:
+          day: 1
+          hour: 21
+          minute: 0
+        close:
+          day: 2
+          hour: 0
+          minute: 0
+      - open:
+          day: 2
+          hour: 14
+          minute: 0
+        close:
+          day: 2
+          hour: 18
+          minute: 0
+      - open:
+          day: 2
+          hour: 21
+          minute: 0
+        close:
+          day: 3
+          hour: 0
+          minute: 0
+      - open:
+          day: 3
+          hour: 14
+          minute: 0
+        close:
+          day: 3
+          hour: 18
+          minute: 0
+      - open:
+          day: 3
+          hour: 21
+          minute: 0
+        close:
+          day: 4
+          hour: 0
+          minute: 0
+      - open:
+          day: 4
+          hour: 14
+          minute: 0
+        close:
+          day: 4
+          hour: 18
+          minute: 0
+      - open:
+          day: 4
+          hour: 21
+          minute: 0
+        close:
+          day: 5
+          hour: 0
+          minute: 0
+      - open:
+          day: 5
+          hour: 14
+          minute: 0
+        close:
+          day: 5
+          hour: 18
+          minute: 0
+      - open:
+          day: 5
+          hour: 21
+          minute: 0
+        close:
+          day: 6
+          hour: 1
+          minute: 0
+      - open:
+          day: 6
+          hour: 21
+          minute: 0
+        close:
+          day: 0
+          hour: 1
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 2:00 – 6:00 PM, 9:00 PM – 12:00 AM'
+      - 'Tuesday: 2:00 – 6:00 PM, 9:00 PM – 12:00 AM'
+      - 'Wednesday: 2:00 – 6:00 PM, 9:00 PM – 12:00 AM'
+      - 'Thursday: 2:00 – 6:00 PM, 9:00 PM – 12:00 AM'
+      - 'Friday: 2:00 – 6:00 PM, 9:00 PM – 1:00 AM'
+      - 'Saturday: 9:00 PM – 1:00 AM'
+      - 'Sunday: 9:00 PM – 12:00 AM'
+    secondaryHoursType: HAPPY_HOUR
+    nextOpenTime: '2025-05-04T04:00:00Z'
 phone: (480) 289-4500
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.3'
-rating_count: 0
-website: https://konagrill.com/locations?locations=Gilbert,85295
-reviews: null
-parking_options: null
-payment_options: null
+rating_count: 3147
+website: https://konagrill.com/locations?locations=Gilbert
+description: >-
+  Discover Kona Grill in Gilbert, AZ$$$Kona Grill in Gilbert, AZ, delivers a
+  polished yet casual dining vibe with a diverse menu that blends American
+  classics and fresh sushi options for a satisfying meal. This spot stands out
+  for its wide-ranging selections, including vegetarian-friendly dishes and
+  innovative twists on traditional fare, making it a go-to for those exploring
+  sushi restaurants in the area. Accessibility features like wheelchair-friendly
+  parking and entrances ensure a welcoming experience for everyone, while
+  extended hours and happy hour specials add to its appeal for casual outings.
+  Whether you're in the mood for expertly prepared sushi or flavorful entrees,
+  the inviting atmosphere and thoughtful details make it a top choice for diners
+  seeking quality nearby.
+generative_summary: >-
+  Discover Kona Grill in Gilbert, AZ$$$Kona Grill in Gilbert, AZ, delivers a
+  polished yet casual dining vibe with a diverse menu that blends American
+  classics and fresh sushi options for a satisfying meal. This spot stands out
+  for its wide-ranging selections, including vegetarian-friendly dishes and
+  innovative twists on traditional fare, making it a go-to for those exploring
+  sushi restaurants in the area. Accessibility features like wheelchair-friendly
+  parking and entrances ensure a welcoming experience for everyone, while
+  extended hours and happy hour specials add to its appeal for casual outings.
+  Whether you're in the mood for expertly prepared sushi or flavorful entrees,
+  the inviting atmosphere and thoughtful details make it a top choice for diners
+  seeking quality nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJa5JiB2ysK4cRAuHjaYAcUGU/reviews/ChZDSUhNMG9nS0VJQ0FnSUR2OEtfLVVnEAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 4
+    text:
+      text: >-
+        We were pleasantly surprised by the kids’ meals. The portion sizes were
+        generous, and the cute bear-shaped orange garnish was such a thoughtful
+        touch. For just $8, it’s truly a great value—highly recommended for
+        families!
+
+
+        From the happy hour menu, we tried the Macadamia Popcorn Chicken. While
+        it had a nice presentation, we found it a bit over-fried and dry, and
+        the dipping sauce was heavier than expected. The Sushi Roll was decent
+        but didn’t particularly stand out. On the other hand, the Chicken &
+        Shrimp Lettuce Wraps were flavorful and enjoyable. The highlight of the
+        evening was definitely the Kona Sliders—the freshly seared meat and
+        perfectly warmed buns made them absolutely delicious!
+
+
+        The overall environment was clean and inviting, though the lighting was
+        a bit dim for our preference. The restrooms were spotless and
+        comfortable, which we appreciated.
+      languageCode: en
+    originalText:
+      text: >-
+        We were pleasantly surprised by the kids’ meals. The portion sizes were
+        generous, and the cute bear-shaped orange garnish was such a thoughtful
+        touch. For just $8, it’s truly a great value—highly recommended for
+        families!
+
+
+        From the happy hour menu, we tried the Macadamia Popcorn Chicken. While
+        it had a nice presentation, we found it a bit over-fried and dry, and
+        the dipping sauce was heavier than expected. The Sushi Roll was decent
+        but didn’t particularly stand out. On the other hand, the Chicken &
+        Shrimp Lettuce Wraps were flavorful and enjoyable. The highlight of the
+        evening was definitely the Kona Sliders—the freshly seared meat and
+        perfectly warmed buns made them absolutely delicious!
+
+
+        The overall environment was clean and inviting, though the lighting was
+        a bit dim for our preference. The restrooms were spotless and
+        comfortable, which we appreciated.
+      languageCode: en
+    authorAttribution:
+      displayName: J. C
+      uri: https://www.google.com/maps/contrib/116884130177886787267/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVm0Ys18KOoWSeSsnJPZFrHhNuPYtq_iN3Tq-d46iFJ-nscsto=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-12-17T01:13:02.652099Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR2OEtfLVVnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR2OEtfLVVnEAE!2m1!1s0x872bac6c0762926b:0x65501c8069e3e102
+  - name: >-
+      places/ChIJa5JiB2ysK4cRAuHjaYAcUGU/reviews/ChZDSUhNMG9nS0VJQ0FnTURRMDdDckdnEAE
+    relativePublishTimeDescription: a month ago
+    rating: 1
+    text:
+      text: >-
+        I recently ordered takeout from Kona Grill, and I have to say, I feel
+        completely ripped off. I got the fish and chips for a staggering $41,
+        expecting at least a decent portion and quality. What I actually
+        received was an insultingly small, unappetizing meal that looked more
+        like a snack than a full entrée.
+
+        The fish was overcooked, dry, and greasy, and the fries were lukewarm
+        and limp by the time I opened the container. For takeout, where you
+        already lose some of the freshness from dining in, you’d expect the
+        restaurant to compensate with generous portions and careful
+        packaging—but nope, not here.
+
+        The portion size was a joke. I’ve had better, bigger, and far cheaper
+        fish and chips from casual spots and pubs. There is absolutely no
+        justification for charging $41 for what they sent me.
+
+        To make matters worse, when I called to express my disappointment, I was
+        met with indifference. Overpriced, underwhelming, and totally not worth
+        it. If you’re thinking of ordering takeout from Kona Grill, do yourself
+        a favor and go somewhere else.
+      languageCode: en
+    originalText:
+      text: >-
+        I recently ordered takeout from Kona Grill, and I have to say, I feel
+        completely ripped off. I got the fish and chips for a staggering $41,
+        expecting at least a decent portion and quality. What I actually
+        received was an insultingly small, unappetizing meal that looked more
+        like a snack than a full entrée.
+
+        The fish was overcooked, dry, and greasy, and the fries were lukewarm
+        and limp by the time I opened the container. For takeout, where you
+        already lose some of the freshness from dining in, you’d expect the
+        restaurant to compensate with generous portions and careful
+        packaging—but nope, not here.
+
+        The portion size was a joke. I’ve had better, bigger, and far cheaper
+        fish and chips from casual spots and pubs. There is absolutely no
+        justification for charging $41 for what they sent me.
+
+        To make matters worse, when I called to express my disappointment, I was
+        met with indifference. Overpriced, underwhelming, and totally not worth
+        it. If you’re thinking of ordering takeout from Kona Grill, do yourself
+        a favor and go somewhere else.
+      languageCode: en
+    authorAttribution:
+      displayName: Tim G
+      uri: https://www.google.com/maps/contrib/106569024760308212806/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWaZBIhHZ0FNoSqrgbj2iP5okkpW25w_mSfLubZko8V_VJVE5AN=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-13T23:18:24.408701Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURRMDdDckdnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURRMDdDckdnEAE!2m1!1s0x872bac6c0762926b:0x65501c8069e3e102
+  - name: >-
+      places/ChIJa5JiB2ysK4cRAuHjaYAcUGU/reviews/ChZDSUhNMG9nS0VJQ0FnSUNYaHNIb01BEAE
+    relativePublishTimeDescription: 6 months ago
+    rating: 4
+    text:
+      text: >-
+        I recently visited Kona Grill in Gilbert and had a great experience! I
+        started with the calamari and tried a few happy hour bites like the
+        satay chicken and sliders. Everything was delicious, especially the
+        sliders—the beef was so flavorful. While the regular menu items are a
+        bit on the pricier side, the happy hour deals are very reasonable. The
+        cozy ambiance makes it a great spot to hang out with friends or loved
+        ones. The drinks were also amazing! Highly recommend checking this place
+        out.
+      languageCode: en
+    originalText:
+      text: >-
+        I recently visited Kona Grill in Gilbert and had a great experience! I
+        started with the calamari and tried a few happy hour bites like the
+        satay chicken and sliders. Everything was delicious, especially the
+        sliders—the beef was so flavorful. While the regular menu items are a
+        bit on the pricier side, the happy hour deals are very reasonable. The
+        cozy ambiance makes it a great spot to hang out with friends or loved
+        ones. The drinks were also amazing! Highly recommend checking this place
+        out.
+      languageCode: en
+    authorAttribution:
+      displayName: Poornima Palaniyappan
+      uri: https://www.google.com/maps/contrib/114204236650035980218/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjW9JtzBTOCkz1w6gVePSPoIutYqP4bXc35v34i9wKqJR90I9BeiMQ=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-10-15T20:06:19.716273Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNYaHNIb01BEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNYaHNIb01BEAE!2m1!1s0x872bac6c0762926b:0x65501c8069e3e102
+  - name: >-
+      places/ChIJa5JiB2ysK4cRAuHjaYAcUGU/reviews/ChZDSUhNMG9nS0VJQ0FnSURIMnZPN1JREAE
+    relativePublishTimeDescription: 7 months ago
+    rating: 5
+    text:
+      text: >-
+        So I would say the place is definitely a higher end version of a typical
+        Hawaiian restaurant. It’s that Hawaiian fusion style, which does include
+        sushi and now they have a brunch which includes things like breakfast
+        burritos, and pancakes to cater for weekends. I would say the quality of
+        the meats are very high end.  The staff and service match the quality of
+        the food, my favorite thing might actually be that butter cake .. that
+        thing is amazing. I loved their loco moco and the drinks are outstanding
+        too!
+      languageCode: en
+    originalText:
+      text: >-
+        So I would say the place is definitely a higher end version of a typical
+        Hawaiian restaurant. It’s that Hawaiian fusion style, which does include
+        sushi and now they have a brunch which includes things like breakfast
+        burritos, and pancakes to cater for weekends. I would say the quality of
+        the meats are very high end.  The staff and service match the quality of
+        the food, my favorite thing might actually be that butter cake .. that
+        thing is amazing. I loved their loco moco and the drinks are outstanding
+        too!
+      languageCode: en
+    authorAttribution:
+      displayName: AJ C
+      uri: https://www.google.com/maps/contrib/116245524164802234194/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjW05pKxu10O1L9y-URIqe5PWEcot3XlNNZwpAMMhIq0B_nycnTC=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-09-15T00:44:46.958110Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURIMnZPN1JREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURIMnZPN1JREAE!2m1!1s0x872bac6c0762926b:0x65501c8069e3e102
+  - name: >-
+      places/ChIJa5JiB2ysK4cRAuHjaYAcUGU/reviews/ChZDSUhNMG9nS0VJQ0FnSURmOS1HdkN3EAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        Oh my gosh! What an amazing experience from great music and over all
+        atmosphere for a fun night with friends and family to our amazing
+        waitress Yazzi and the excellent food. Yazzie made sure to take care of
+        every need as soon as she could and kept us up to date on any kitchen
+        changes that may affect our night (if any arose). Over all, 5 star night
+        in a 5 star restaurant!
+      languageCode: en
+    originalText:
+      text: >-
+        Oh my gosh! What an amazing experience from great music and over all
+        atmosphere for a fun night with friends and family to our amazing
+        waitress Yazzi and the excellent food. Yazzie made sure to take care of
+        every need as soon as she could and kept us up to date on any kitchen
+        changes that may affect our night (if any arose). Over all, 5 star night
+        in a 5 star restaurant!
+      languageCode: en
+    authorAttribution:
+      displayName: Marialysa Salas
+      uri: https://www.google.com/maps/contrib/101706359580546071532/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJ1aBQ5wyvRitxolphUBsQIVonth_Wi8WBkD9adSB2Zggp0QA=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-01-11T02:04:46.066841Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURmOS1HdkN3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURmOS1HdkN3EAE!2m1!1s0x872bac6c0762926b:0x65501c8069e3e102
+review_summary: >-
+  What Customers Are Saying$$$Visitors frequently highlight the tasty sushi and
+  sliders at this spot, praising the generous portions and great deals during
+  happy hour that make it feel like a smart pick for casual meals. Many folks
+  enjoy the family-friendly vibe, with affordable kids' options and attentive
+  service that keeps the experience smooth and enjoyable. While some note that
+  prices can seem a bit steep for certain items, especially takeout, the overall
+  lively atmosphere and quality drinks often outweigh any minor drawbacks.
+  Reviewers appreciate the flavorful dishes and cozy setting, making it a
+  reliable choice for groups or anyone after a relaxed night out. All in all,
+  it's a solid option for those hunting for good food with a welcoming touch.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+curbside_pickup: true
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: true
+live_music: false
+menu_for_children: true
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: true
+serves_cocktails: true
+serves_coffee: true
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Sleek chain with a broad New American menu including low-calorie options, plus
+  sushi & cocktails.
 
 ---

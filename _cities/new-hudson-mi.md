@@ -5,4 +5,5 @@ permalink: /michigan/new-hudson/
 stateAbbr: MI
 stateName: Michigan
 cityName: New Hudson
+
 ---

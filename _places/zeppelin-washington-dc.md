@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Zeppelin"
+title: Zeppelin
 permalink: /district-of-columbia/washington/zeppelin.html
 stateAbbr: DC
 stateName: District of Columbia
 cityName: Washington
 seo:
-  name: "Zeppelin"
-  type: Restaurant
+  type: restaurant
   links: http://www.zeppelindc.com/
-description: "Sushi & grilled Japanese fare with sake & cocktails in a dramatic, contemporary space with karaoke. Zeppelin serves delicious sushi in Washington, District of Columbia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, and dinner."
 place_id: ChIJQ3uHUsO3t4kR86UVegudjP4
 photos:
   - name: >-
@@ -184,6 +182,33 @@ price_range: $30 &ndash; $50
 rating: '4.4'
 rating_count: 0
 website: http://www.zeppelindc.com/
+description: >-
+  Explore Zeppelin in Washington, DC$$$Zeppelin in Washington, DC, stands out as
+  a premier sushi restaurant offering a blend of fresh Japanese dishes and
+  grilled specialties in a modern, inviting atmosphere. The spot features an
+  array of creative sushi options that highlight high-quality ingredients and
+  thoughtful flavors, making it a go-to choice for those seeking top-rated sushi
+  experiences nearby. With its contemporary design and selection of sake and
+  cocktails, the venue creates a lively vibe perfect for groups or casual
+  evenings out. Accessibility is a key plus, including wheelchair-friendly
+  entrances and seating, ensuring everyone can enjoy the welcoming space.
+  Whether you're in the mood for innovative rolls or outdoor dining, this sushi
+  haven delivers a satisfying meal that captures the essence of Japanese cuisine
+  in the heart of the city.
+generative_summary: >-
+  Explore Zeppelin in Washington, DC$$$Zeppelin in Washington, DC, stands out as
+  a premier sushi restaurant offering a blend of fresh Japanese dishes and
+  grilled specialties in a modern, inviting atmosphere. The spot features an
+  array of creative sushi options that highlight high-quality ingredients and
+  thoughtful flavors, making it a go-to choice for those seeking top-rated sushi
+  experiences nearby. With its contemporary design and selection of sake and
+  cocktails, the venue creates a lively vibe perfect for groups or casual
+  evenings out. Accessibility is a key plus, including wheelchair-friendly
+  entrances and seating, ensuring everyone can enjoy the welcoming space.
+  Whether you're in the mood for innovative rolls or outdoor dining, this sushi
+  haven delivers a satisfying meal that captures the essence of Japanese cuisine
+  in the heart of the city.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJQ3uHUsO3t4kR86UVegudjP4/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3NU5TZUd3EAE
@@ -357,6 +382,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNBaW9HSWdnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNBaW9HSWdnRRAB!2m1!1s0x89b7b7c352877b43:0xfe8c9d0b7a15a5f3
+review_summary: >-
+  Customer Feedback on Zeppelin$$$Folks visiting this sushi spot often praise
+  the fresh and flavorful selections, with many highlighting the standout nigiri
+  and chef's specials as highlights of their meals. The overall atmosphere gets
+  high marks for its fun, engaging vibe that makes it ideal for groups or
+  special occasions, complemented by attentive service and a variety of menu
+  choices. While some note that certain elements like rice quality could be
+  refined, the general consensus leans positive, especially regarding the
+  delicious starters and desserts that round out the experience nicely.
+  Reviewers frequently mention enjoying the outdoor seating and drinks like
+  sake, adding to the relaxed and enjoyable dining scene. If you're hunting for
+  reliable sushi restaurants in the area, this place comes through with solid
+  options that keep customers coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeStreetParking: true
   paidStreetParking: true
@@ -389,8 +428,8 @@ serves_lunch: null
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Sushi & grilled Japanese fare with sake & cocktails in a dramatic,
   contemporary space with karaoke.
 

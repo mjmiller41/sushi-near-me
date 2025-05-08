@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Rice Asian Grill & Sushi Bar"
+title: Rice Asian Grill & Sushi Bar
 permalink: /alabama/mobile/rice-asian-grill-sushi-bar.html
 stateAbbr: AL
 stateName: Alabama
 cityName: Mobile
 seo:
-  name: "Rice Asian Grill & Sushi Bar"
-  type: Restaurant
+  type: restaurant
   links: https://riceasiangrilltogo.com/
-description: "Rice Asian Grill & Sushi Bar serves delicious sushi in Mobile, Alabama. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ3e7zT-5MmogRWzbj3jdGrLE
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 0
 website: https://riceasiangrilltogo.com/
+description: >-
+  Discover Rice Asian Grill & Sushi Bar in Mobile, AL$$$Rice Asian Grill & Sushi
+  Bar in Mobile, AL, offers a welcoming spot for enjoying fresh Asian fusion
+  dishes, blending flavors from sushi and Thai specialties in a family-owned
+  setting. This restaurant stands out with its diverse menu that includes
+  flavorful sushi rolls and hearty Thai options, perfect for lunch or dinner
+  gatherings. Accessibility features like wheelchair-friendly parking and
+  entrances make it easy for everyone to enjoy the vibrant atmosphere and
+  moderately priced meals. Patrons appreciate the variety of options, from
+  stir-fries to sushi selections, that cater to different tastes while
+  maintaining a focus on quality ingredients. Whether you're seeking top-rated
+  sushi near you or exploring Japanese-inspired places, this spot delivers a
+  satisfying dining experience with efficient service and a cozy vibe.
+generative_summary: >-
+  Discover Rice Asian Grill & Sushi Bar in Mobile, AL$$$Rice Asian Grill & Sushi
+  Bar in Mobile, AL, offers a welcoming spot for enjoying fresh Asian fusion
+  dishes, blending flavors from sushi and Thai specialties in a family-owned
+  setting. This restaurant stands out with its diverse menu that includes
+  flavorful sushi rolls and hearty Thai options, perfect for lunch or dinner
+  gatherings. Accessibility features like wheelchair-friendly parking and
+  entrances make it easy for everyone to enjoy the vibrant atmosphere and
+  moderately priced meals. Patrons appreciate the variety of options, from
+  stir-fries to sushi selections, that cater to different tastes while
+  maintaining a focus on quality ingredients. Whether you're seeking top-rated
+  sushi near you or exploring Japanese-inspired places, this spot delivers a
+  satisfying dining experience with efficient service and a cozy vibe.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ3e7zT-5MmogRWzbj3jdGrLE/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJOHNyQ0RnEAE
@@ -462,6 +487,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNib2FhbjJnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNib2FhbjJnRRAB!2m1!1s0x889a4cee4ff3eedd:0xb1ac4637dee3365b
+review_summary: >-
+  What Customers Are Saying About the Restaurant$$$Visitors to this sushi spot
+  often rave about the tasty and fresh dishes, with many highlighting the
+  balanced flavors in rolls and entrees that make for a delightful meal. While
+  most feedback praises the attentive staff and accommodating options for
+  dietary needs, a few mentions note that some items didn't quite hit the mark,
+  like certain spices or tastes in the soup. Overall, folks enjoy the generous
+  portions and affordable prices, making it a go-to for casual lunches or group
+  outings without breaking the bank. The welcoming ambiance and quick service
+  come up frequently as positives, encouraging repeat visits for those hunting
+  for reliable sushi restaurants nearby. In a nutshell, it's a solid choice for
+  anyone craving quality Asian fare, with the highlights outweighing any minor
+  hiccups for an enjoyable experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -494,7 +533,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

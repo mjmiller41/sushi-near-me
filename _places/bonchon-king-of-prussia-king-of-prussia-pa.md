@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Bonchon King of Prussia"
+title: Bonchon King of Prussia
 permalink: /pennsylvania/king-of-prussia/bonchon-king-of-prussia.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: King of Prussia
 seo:
-  name: "Bonchon King of Prussia"
-  type: Restaurant
+  type: restaurant
   links: https://locations.bonchon.com/ll/US/PA/King-of-Prussia/350-Mall-Blvd
-description: "Bonchon King of Prussia serves delicious sushi in King of Prussia, Pennsylvania. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJG8XhxMCVxokRtHoJCyJrvA0
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c695c0c4e1c51b:0xdbc6b220b097ab4!10e5
 primary_type: Asian Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 18
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 20
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 8:00 PM'
     - 'Tuesday: 11:00 AM – 8:00 PM'
     - 'Wednesday: 11:00 AM – 8:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:00 PM'
     - 'Saturday: 11:00 AM – 9:00 PM'
     - 'Sunday: 11:00 AM – 6:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 8:00 PM'
-    - 'Tuesday: 11:00 AM – 8:00 PM'
-    - 'Wednesday: 11:00 AM – 8:00 PM'
-    - 'Thursday: 11:00 AM – 8:00 PM'
-    - 'Friday: 11:00 AM – 9:00 PM'
-    - 'Saturday: 11:00 AM – 9:00 PM'
-    - 'Sunday: 11:00 AM – 6:00 PM'
+  nextCloseTime: '2025-05-04T01:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +246,48 @@ phone: (610) 870-0888
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '3.1'
-rating_count: 0
+rating_count: 222
 website: https://locations.bonchon.com/ll/US/PA/King-of-Prussia/350-Mall-Blvd
+description: >-
+  Discover Bonchon in King of Prussia, PA$$$Bonchon in King of Prussia, PA,
+  stands out as a vibrant chain outpost specializing in Korean fried chicken and
+  Asian fusion flavors, nestled conveniently within a bustling mall food court.
+  This spot delights visitors with its crispy, flavorful wings and a variety of
+  fusion dishes that blend traditional Asian elements with modern twists, making
+  it a go-to for those seeking authentic tastes in a casual setting.
+  Accessibility features like wheelchair-friendly parking and entrances ensure
+  everyone can enjoy the experience, while extended hours cater to shoppers and
+  diners alike. The moderate pricing adds to its appeal, offering a satisfying
+  meal without breaking the bank, perfect for anyone exploring Asian-inspired
+  options nearby.
+generative_summary: >-
+  Discover Bonchon in King of Prussia, PA$$$Bonchon in King of Prussia, PA,
+  stands out as a vibrant chain outpost specializing in Korean fried chicken and
+  Asian fusion flavors, nestled conveniently within a bustling mall food court.
+  This spot delights visitors with its crispy, flavorful wings and a variety of
+  fusion dishes that blend traditional Asian elements with modern twists, making
+  it a go-to for those seeking authentic tastes in a casual setting.
+  Accessibility features like wheelchair-friendly parking and entrances ensure
+  everyone can enjoy the experience, while extended hours cater to shoppers and
+  diners alike. The moderate pricing adds to its appeal, offering a satisfying
+  meal without breaking the bank, perfect for anyone exploring Asian-inspired
+  options nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Buzzing About$$$Visitors to this Asian fusion spot often
+  rave about the mouthwatering wings, highlighting the crispy texture and bold
+  flavors of soy garlic and spicy varieties that keep folks coming back for
+  more. While some note that the prices might feel a bit steep for the portion
+  sizes, the overall taste experience tends to win out, making it a solid choice
+  for flavorful bites in a lively atmosphere. Wait times can occasionally
+  stretch a little longer during peak hours, but many find the fresh,
+  well-prepared dishes worth the brief pause. All in all, it's a welcoming place
+  for groups or solo diners hunting for reliable Asian eats, with the tasty
+  sauces and variety earning high marks from satisfied patrons. If you're on the
+  hunt for top Asian restaurants near you, this location delivers a genuinely
+  enjoyable meal that balances fun and flavor.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +313,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Kappo Tamura"
+title: Sushi Kappo Tamura
 permalink: /washington/seattle/sushi-kappo-tamura.html
 stateAbbr: WA
 stateName: Washington
 cityName: Seattle
 seo:
-  name: "Sushi Kappo Tamura"
-  type: Restaurant
+  type: restaurant
   links: http://www.sushikappotamura.com/
-description: "Sushi Kappo Tamura serves delicious sushi in Seattle, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJd1iy3uQUkFQRe6Yz_UHNbKI
 photos:
   - name: >-
@@ -169,7 +167,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x549014e4deb25877:0xa26ccd41fd33a67b!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 14
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 5:00 – 9:30 PM'
     - 'Wednesday: 5:00 – 9:30 PM'
@@ -177,21 +233,141 @@ opening_hours:
     - 'Friday: 11:30 AM – 2:00 PM, 5:00 – 10:00 PM'
     - 'Saturday: 11:30 AM – 2:00 PM, 5:00 – 10:00 PM'
     - 'Sunday: Closed'
-  current: null
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: false
+    periods:
+      - open:
+          day: 2
+          hour: 11
+          minute: 30
+        close:
+          day: 2
+          hour: 14
+          minute: 0
+      - open:
+          day: 2
+          hour: 17
+          minute: 0
+        close:
+          day: 2
+          hour: 21
+          minute: 0
+      - open:
+          day: 3
+          hour: 11
+          minute: 30
+        close:
+          day: 3
+          hour: 14
+          minute: 0
+      - open:
+          day: 3
+          hour: 17
+          minute: 0
+        close:
+          day: 3
+          hour: 21
+          minute: 0
+      - open:
+          day: 4
+          hour: 11
+          minute: 30
+        close:
+          day: 4
+          hour: 14
+          minute: 0
+      - open:
+          day: 4
+          hour: 17
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 0
+      - open:
+          day: 5
+          hour: 11
+          minute: 30
+        close:
+          day: 5
+          hour: 14
+          minute: 0
+      - open:
+          day: 5
+          hour: 17
+          minute: 0
+        close:
+          day: 5
+          hour: 21
+          minute: 30
+      - open:
+          day: 6
+          hour: 11
+          minute: 30
+        close:
+          day: 6
+          hour: 14
+          minute: 0
+      - open:
+          day: 6
+          hour: 17
+          minute: 0
+        close:
+          day: 6
+          hour: 21
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: Closed'
+      - 'Tuesday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
+      - 'Wednesday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
+      - 'Thursday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
+      - 'Friday: 11:30 AM – 2:00 PM, 5:00 – 9:30 PM'
+      - 'Saturday: 11:30 AM – 2:00 PM, 5:00 – 9:30 PM'
+      - 'Sunday: Closed'
+    secondaryHoursType: TAKEOUT
+    nextOpenTime: '2025-05-04T00:00:00Z'
 phone: (206) 547-0937
 price_level: PRICE_LEVEL_EXPENSIVE
 price_range: $100 &ndash; & up
 rating: '4.6'
-rating_count: 0
+rating_count: 826
 website: http://www.sushikappotamura.com/
+description: >-
+  About Sushi Kappo Tamura in Seattle, WA$$$Sushi Kappo Tamura in Seattle, WA,
+  stands out as a premier spot for authentic Japanese dining, featuring an
+  upscale atmosphere that highlights exquisite sushi and seasonal offerings.
+  This restaurant delivers a refined experience with carefully crafted dishes,
+  including chef's tasting menus that showcase fresh ingredients and innovative
+  flavors. Patrons can enjoy a variety of sushi options in a welcoming setting
+  designed for both intimate meals and group gatherings, making it a go-to
+  choice among sushi restaurants in the area. Accessibility features ensure a
+  comfortable visit for all, adding to its appeal as a top destination for those
+  seeking quality Japanese cuisine nearby.
+generative_summary: >-
+  About Sushi Kappo Tamura in Seattle, WA$$$Sushi Kappo Tamura in Seattle, WA,
+  stands out as a premier spot for authentic Japanese dining, featuring an
+  upscale atmosphere that highlights exquisite sushi and seasonal offerings.
+  This restaurant delivers a refined experience with carefully crafted dishes,
+  including chef's tasting menus that showcase fresh ingredients and innovative
+  flavors. Patrons can enjoy a variety of sushi options in a welcoming setting
+  designed for both intimate meals and group gatherings, making it a go-to
+  choice among sushi restaurants in the area. Accessibility features ensure a
+  comfortable visit for all, adding to its appeal as a top destination for those
+  seeking quality Japanese cuisine nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Folks exploring sushi places near Seattle often
+  praise this spot for its mouthwatering omakase selections and fresh oysters
+  that bring a burst of flavor to every bite. Many highlight the tasty cocktails
+  and high-quality fish that make meals feel truly special, along with the
+  attentive service that keeps things running smoothly. It's commonly noted that
+  the overall vibe is welcoming and relaxed, encouraging repeat visits for
+  anyone craving top-rated sushi experiences. While opinions vary, the general
+  consensus leans positive, emphasizing the restaurant's commitment to fresh
+  ingredients and a enjoyable atmosphere that honestly delivers on expectations.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -217,7 +393,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

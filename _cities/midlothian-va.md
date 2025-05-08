@@ -5,4 +5,5 @@ permalink: /virginia/midlothian/
 stateAbbr: VA
 stateName: Virginia
 cityName: Midlothian
+
 ---

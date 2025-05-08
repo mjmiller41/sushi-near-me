@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kooma West Chester"
+title: Kooma West Chester
 permalink: /pennsylvania/west-chester/kooma-west-chester.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: West Chester
 seo:
-  name: "Kooma West Chester"
-  type: Restaurant
+  type: restaurant
   links: http://www.koomafusion.com/
-description: "Kooma West Chester serves delicious sushi in West Chester, Pennsylvania. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJEeT7P0bxxokROiadR8LG_ys
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c6f1463ffbe411:0x2bffc6c2479d263a!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 16
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 9:00 PM'
     - 'Tuesday: 11:30 AM – 9:30 PM'
     - 'Wednesday: 11:30 AM – 9:30 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 11:00 PM'
     - 'Saturday: 11:30 AM – 11:00 PM'
     - 'Sunday: 4:00 – 9:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 9:00 PM'
-    - 'Tuesday: 11:30 AM – 9:30 PM'
-    - 'Wednesday: 11:30 AM – 9:30 PM'
-    - 'Thursday: 11:30 AM – 9:30 PM'
-    - 'Friday: 11:30 AM – 11:00 PM'
-    - 'Saturday: 11:30 AM – 11:00 PM'
-    - 'Sunday: 4:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +246,44 @@ phone: (610) 430-8980
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.3'
-rating_count: 0
+rating_count: 621
 website: http://www.koomafusion.com/
+description: >-
+  Explore Kooma West Chester$$$Kooma West Chester in West Chester, PA, serves up
+  a mix of fresh sushi, Thai, and Korean favorites in a laid-back environment
+  perfect for casual dining. This spot highlights a variety of flavorful plates
+  paired with cocktails, sake, and beer, making it an ideal choice for those
+  craving authentic Asian-inspired meals. Accessibility features like
+  wheelchair-friendly parking and seating ensure a welcoming experience for all
+  visitors, while the extended hours accommodate everything from quick lunches
+  to evening outings. Whether you're seeking top-rated sushi options in the
+  area, Kooma stands out with its vibrant atmosphere and diverse menu selections
+  that appeal to a wide range of tastes.
+generative_summary: >-
+  Explore Kooma West Chester$$$Kooma West Chester in West Chester, PA, serves up
+  a mix of fresh sushi, Thai, and Korean favorites in a laid-back environment
+  perfect for casual dining. This spot highlights a variety of flavorful plates
+  paired with cocktails, sake, and beer, making it an ideal choice for those
+  craving authentic Asian-inspired meals. Accessibility features like
+  wheelchair-friendly parking and seating ensure a welcoming experience for all
+  visitors, while the extended hours accommodate everything from quick lunches
+  to evening outings. Whether you're seeking top-rated sushi options in the
+  area, Kooma stands out with its vibrant atmosphere and diverse menu selections
+  that appeal to a wide range of tastes.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Visitor Feedback Highlights$$$People really enjoy the tasty food and
+  refreshing drinks at this local sushi spot, often highlighting the creative
+  beverage options that add to the fun vibe. Many appreciate the outdoor seating
+  as a great way to relax and soak in the surroundings while savoring their
+  meals. While some mention that service can occasionally take a little longer
+  than expected, the overall experience remains enjoyable and worth the visit.
+  If you're on the hunt for quality sushi places nearby, this one delivers solid
+  flavors and a welcoming feel that keeps diners coming back. All in all, it's a
+  reliable pick for anyone looking to try fresh, well-prepared dishes in a
+  casual setting.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +309,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

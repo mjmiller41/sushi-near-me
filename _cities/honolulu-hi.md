@@ -5,4 +5,5 @@ permalink: /hawaii/honolulu/
 stateAbbr: HI
 stateName: Hawaii
 cityName: Honolulu
+
 ---

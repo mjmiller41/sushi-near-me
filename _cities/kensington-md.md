@@ -5,4 +5,5 @@ permalink: /maryland/kensington/
 stateAbbr: MD
 stateName: Maryland
 cityName: Kensington
+
 ---

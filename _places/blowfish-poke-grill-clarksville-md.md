@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Blowfish Poke & Grill"
+title: Blowfish Poke & Grill
 permalink: /maryland/clarksville/blowfish-poke-grill.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Clarksville
 seo:
-  name: "Blowfish Poke & Grill"
-  type: Restaurant
-  links: null
-description: "Blowfish Poke & Grill serves delicious sushi in Clarksville, Maryland. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://blowfishpoke.com/
 place_id: ChIJPcNHVKPZt4kR5iyaXYU40cs
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89b7d9a35447c33d:0xcbd138855d9a2ce6!10e5
 primary_type: American Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 20
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 20
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 20
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 8:30 PM'
+    - 'Tuesday: 11:00 AM – 8:30 PM'
+    - 'Wednesday: 11:00 AM – 8:30 PM'
+    - 'Thursday: 11:00 AM – 8:30 PM'
+    - 'Friday: 11:00 AM – 8:30 PM'
+    - 'Saturday: 11:00 AM – 8:30 PM'
+    - 'Sunday: 11:00 AM – 8:30 PM'
+  nextCloseTime: '2025-05-04T00:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,54 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (410) 995-9298
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.5'
+rating_count: 271
+website: https://blowfishpoke.com/
+description: >-
+  Discover Blowfish Poke & Grill in Clarksville, MD$$$Blowfish Poke & Grill in
+  Clarksville, MD, offers a welcoming spot for fresh, flavorful poke bowls and
+  grilled dishes that blend casual dining with a touch of island-inspired flair.
+  The restaurant boasts accessible features like wheelchair-friendly parking and
+  entrances, making it easy for everyone to enjoy a relaxed meal. With daily
+  hours from 11 AM to 8:30 PM, it's an ideal choice for lunch or dinner,
+  featuring moderately priced options around $10 to $20 that emphasize quality
+  ingredients and simple yet satisfying preparations. Photos of vibrant dishes
+  highlight the appeal of their seafood-centric menu, perfect for those seeking
+  tasty, health-conscious eats in a laid-back setting. This spot stands out as a
+  go-to for anyone exploring Japanese-inspired cuisine options near the area,
+  blending fresh flavors with a convenient location.
+generative_summary: >-
+  Discover Blowfish Poke & Grill in Clarksville, MD$$$Blowfish Poke & Grill in
+  Clarksville, MD, offers a welcoming spot for fresh, flavorful poke bowls and
+  grilled dishes that blend casual dining with a touch of island-inspired flair.
+  The restaurant boasts accessible features like wheelchair-friendly parking and
+  entrances, making it easy for everyone to enjoy a relaxed meal. With daily
+  hours from 11 AM to 8:30 PM, it's an ideal choice for lunch or dinner,
+  featuring moderately priced options around $10 to $20 that emphasize quality
+  ingredients and simple yet satisfying preparations. Photos of vibrant dishes
+  highlight the appeal of their seafood-centric menu, perfect for those seeking
+  tasty, health-conscious eats in a laid-back setting. This spot stands out as a
+  go-to for anyone exploring Japanese-inspired cuisine options near the area,
+  blending fresh flavors with a convenient location.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback Highlights$$$From what folks are sharing about Blowfish Poke
+  & Grill, the overall vibe is pretty upbeat with plenty of praise for the
+  fresh, tasty poke bowls that hit the spot for seafood lovers. Many appreciate
+  the friendly service and solid portions, making it a reliable pick for a quick
+  meal or gathering with friends, especially given its high rating from numerous
+  visitors. While some mention it's a great value for the price, others note
+  that the variety of flavors keeps things exciting without overwhelming the
+  palate. Overall, it seems like a solid choice for anyone craving quality
+  dishes in a welcoming environment, with most feedback pointing to repeat
+  visits for the consistent taste and atmosphere. If you're on the hunt for
+  top-rated spots serving fresh seafood near you, this place often comes up as a
+  favorite for its approachable style and satisfying meals.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +315,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

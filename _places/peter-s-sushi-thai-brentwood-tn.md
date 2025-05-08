@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Peter's Sushi & Thai"
+title: Peter's Sushi & Thai
 permalink: /tennessee/brentwood/peter-s-sushi-thai.html
 stateAbbr: TN
 stateName: Tennessee
 cityName: Brentwood
 seo:
-  name: "Peter's Sushi & Thai"
-  type: Restaurant
+  type: restaurant
   links: http://petersushi.com/
-description: "Peter's Sushi & Thai serves delicious sushi in Brentwood, Tennessee. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJWQm3kyJ7ZIgRTJXVBhEjtGo
 photos:
   - name: >-
@@ -170,7 +168,105 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x88647b2293b70959:0x6ab4231106d5954c!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 45
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 45
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 45
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 45
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 45
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 2:30 PM, 5:00 – 9:45 PM'
     - 'Tuesday: 11:00 AM – 2:30 PM, 5:00 – 9:45 PM'
     - 'Wednesday: 11:00 AM – 2:30 PM, 5:00 – 9:45 PM'
@@ -178,14 +274,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 2:30 PM, 5:00 – 9:45 PM'
     - 'Saturday: 12:00 – 9:30 PM'
     - 'Sunday: 12:00 – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 2:30 PM, 5:00 – 9:45 PM'
-    - 'Tuesday: 11:00 AM – 2:30 PM, 5:00 – 9:45 PM'
-    - 'Wednesday: 11:00 AM – 2:30 PM, 5:00 – 9:45 PM'
-    - 'Thursday: 11:00 AM – 2:30 PM, 5:00 – 9:45 PM'
-    - 'Friday: 11:00 AM – 2:30 PM, 5:00 – 9:45 PM'
-    - 'Saturday: 12:00 – 9:30 PM'
-    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +286,45 @@ phone: (615) 370-1493
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.5'
-rating_count: 0
+rating_count: 770
 website: http://petersushi.com/
+description: >-
+  Explore Peter's Sushi & Thai in Brentwood, TN$$$Peter's Sushi & Thai in
+  Brentwood, TN, stands out as a welcoming spot for fresh Asian cuisine,
+  blending authentic sushi with flavorful Thai options in a cozy setting. The
+  restaurant boasts a diverse menu featuring high-quality rolls and traditional
+  dishes, all prepared with care to highlight vibrant flavors and fresh
+  ingredients that appeal to sushi enthusiasts. Accessibility features like
+  wheelchair-friendly parking and entrances make it convenient for everyone to
+  enjoy a meal, while its moderate pricing adds to the appeal for casual diners.
+  Operating with extended hours throughout the week, this local favorite offers
+  a pleasant atmosphere perfect for a relaxed lunch or dinner, making it a go-to
+  choice among sushi places near me.
+generative_summary: >-
+  Explore Peter's Sushi & Thai in Brentwood, TN$$$Peter's Sushi & Thai in
+  Brentwood, TN, stands out as a welcoming spot for fresh Asian cuisine,
+  blending authentic sushi with flavorful Thai options in a cozy setting. The
+  restaurant boasts a diverse menu featuring high-quality rolls and traditional
+  dishes, all prepared with care to highlight vibrant flavors and fresh
+  ingredients that appeal to sushi enthusiasts. Accessibility features like
+  wheelchair-friendly parking and entrances make it convenient for everyone to
+  enjoy a meal, while its moderate pricing adds to the appeal for casual diners.
+  Operating with extended hours throughout the week, this local favorite offers
+  a pleasant atmosphere perfect for a relaxed lunch or dinner, making it a go-to
+  choice among sushi places near me.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback Highlights$$$Folks often rave about the wide array of fresh
+  sushi and tasty Thai favorites like coconut soup and curry, noting how they
+  hit the spot without breaking the bank. Many appreciate the quick, friendly
+  service that keeps things smooth and enjoyable, even during busy times at this
+  spot. The overall vibe comes across as warm and inviting, with reasonable
+  prices making it a solid pick for groups or solo visits. While opinions vary,
+  the general consensus leans positive, praising the variety and atmosphere as
+  reasons to return, so if you're hunting for top-rated sushi nearby, it's worth
+  checking out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +350,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

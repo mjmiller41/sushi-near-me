@@ -5,4 +5,5 @@ permalink: /california/claremont/
 stateAbbr: CA
 stateName: California
 cityName: Claremont
+
 ---

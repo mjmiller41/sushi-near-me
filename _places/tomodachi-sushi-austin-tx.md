@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Tomodachi Sushi"
+title: Tomodachi Sushi
 permalink: /texas/austin/tomodachi-sushi.html
 stateAbbr: TX
 stateName: Texas
 cityName: Austin
 seo:
-  name: "Tomodachi Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.tomosushiaustin.com/
-description: "Tomodachi Sushi serves delicious sushi in Austin, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ9-T-zjnMRIYRHG_VND_JAAA
 photos:
   - name: >-
@@ -170,7 +168,81 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8644cc39cefee4f7:0xc93f34d56f1c!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 30
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:30 AM – 2:00 PM, 5:30 – 10:00 PM'
     - 'Wednesday: 11:30 AM – 2:00 PM, 5:30 – 10:00 PM'
@@ -178,14 +250,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 2:00 PM, 5:30 – 10:00 PM'
     - 'Saturday: 12:00 – 10:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:30 AM – 2:00 PM, 5:30 – 10:00 PM'
-    - 'Wednesday: 11:30 AM – 2:00 PM, 5:30 – 10:00 PM'
-    - 'Thursday: 11:30 AM – 2:00 PM, 5:30 – 10:00 PM'
-    - 'Friday: 11:30 AM – 2:00 PM, 5:30 – 10:00 PM'
-    - 'Saturday: 12:00 – 10:00 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +262,247 @@ phone: (512) 821-9472
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.6'
-rating_count: 0
+rating_count: 1227
 website: http://www.tomosushiaustin.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Tomodachi Sushi in Austin, TX$$$Tomodachi Sushi in Austin, TX, stands
+  out as a casual and stylish spot for enjoying a mix of traditional and
+  inventive Japanese dishes, making it a go-to choice for sushi enthusiasts in
+  the area. The eatery features creative rolls crafted from fresh ingredients,
+  paired with a selection of sake, beer, and wine to enhance the dining
+  experience. Its welcoming atmosphere includes thoughtful accessibility options
+  like wheelchair-friendly entrances and seating, ensuring everyone can savor
+  the meal comfortably. Open for lunch and dinner several days a week, it's an
+  ideal destination for those seeking authentic flavors in a relaxed setting.
+  With ample parking and a focus on quality, this sushi restaurant near you
+  offers a memorable escape without the need for an overly formal vibe.
+generative_summary: >-
+  Discover Tomodachi Sushi in Austin, TX$$$Tomodachi Sushi in Austin, TX, stands
+  out as a casual and stylish spot for enjoying a mix of traditional and
+  inventive Japanese dishes, making it a go-to choice for sushi enthusiasts in
+  the area. The eatery features creative rolls crafted from fresh ingredients,
+  paired with a selection of sake, beer, and wine to enhance the dining
+  experience. Its welcoming atmosphere includes thoughtful accessibility options
+  like wheelchair-friendly entrances and seating, ensuring everyone can savor
+  the meal comfortably. Open for lunch and dinner several days a week, it's an
+  ideal destination for those seeking authentic flavors in a relaxed setting.
+  With ample parking and a focus on quality, this sushi restaurant near you
+  offers a memorable escape without the need for an overly formal vibe.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ9-T-zjnMRIYRHG_VND_JAAA/reviews/ChZDSUhNMG9nS0VJQ0FnTURvc2FLM0RBEAE
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        I came across this place by chance. It was Friday and there were no
+        seats so I had to wait, but it was worth the wait because it was so
+        great. The oysters were fresh and the food was friendly. I still think
+        about the freshness even after I got home. This is the best sushi
+        restaurant in Austin.
+      languageCode: en
+    originalText:
+      text: >-
+        I came across this place by chance. It was Friday and there were no
+        seats so I had to wait, but it was worth the wait because it was so
+        great. The oysters were fresh and the food was friendly. I still think
+        about the freshness even after I got home. This is the best sushi
+        restaurant in Austin.
+      languageCode: en
+    authorAttribution:
+      displayName: Seonmi Kim
+      uri: https://www.google.com/maps/contrib/106798920186041672630/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWvSSSe9BfoOkptfW3QEpQE_t5ZRyQztmwgAbAWWHQA83W96faw=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-26T00:57:19.871604Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURvc2FLM0RBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURvc2FLM0RBEAE!2m1!1s0x8644cc39cefee4f7:0xc93f34d56f1c
+  - name: >-
+      places/ChIJ9-T-zjnMRIYRHG_VND_JAAA/reviews/ChdDSUhNMG9nS0VJQ0FnTUNvNzl5cGlnRRAB
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        I’m a returning customer and always find myself craving their new style
+        sashimi—it’s that good. The fish is consistently fresh, beautifully
+        presented, and the flavors are on point. Service is attentive and
+        professional. Yes, it’s on the pricey side, but the quality makes it
+        worth every dollar. You truly get what you pay for.
+
+        Highly recommend the new style sashimi—fresh, flavorful, and beautifully
+        prepared. The 5-piece sampler is a must-try for first-timers. Always a
+        satisfying experience
+      languageCode: en
+    originalText:
+      text: >-
+        I’m a returning customer and always find myself craving their new style
+        sashimi—it’s that good. The fish is consistently fresh, beautifully
+        presented, and the flavors are on point. Service is attentive and
+        professional. Yes, it’s on the pricey side, but the quality makes it
+        worth every dollar. You truly get what you pay for.
+
+        Highly recommend the new style sashimi—fresh, flavorful, and beautifully
+        prepared. The 5-piece sampler is a must-try for first-timers. Always a
+        satisfying experience
+      languageCode: en
+    authorAttribution:
+      displayName: Phuong “Sabrina” Chau
+      uri: https://www.google.com/maps/contrib/100505171230239666869/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJCLJzfqvA2GmTgPSTCjeR5VtPl1weF0fNqptBnJwBlfyqxJ4H4=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-20T23:46:00.071577Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNvNzl5cGlnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNvNzl5cGlnRRAB!2m1!1s0x8644cc39cefee4f7:0xc93f34d56f1c
+  - name: >-
+      places/ChIJ9-T-zjnMRIYRHG_VND_JAAA/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJMy1TTFFBEAE
+    relativePublishTimeDescription: 4 weeks ago
+    rating: 4
+    text:
+      text: >-
+        The place is medium sized. Better to have a reservation. Various options
+        of sushi and other sea food options. Service was good and decent waiting
+        time for food to he prepared. Definitely fresh. I find it pricey though
+        as 3 tiny shares of food and couple drinks would cost $125 or up for 2
+        people.
+
+        The staff is super friendly and nice. There is ample parking lots. Space
+        is too small for ppl with special needs.
+      languageCode: en
+    originalText:
+      text: >-
+        The place is medium sized. Better to have a reservation. Various options
+        of sushi and other sea food options. Service was good and decent waiting
+        time for food to he prepared. Definitely fresh. I find it pricey though
+        as 3 tiny shares of food and couple drinks would cost $125 or up for 2
+        people.
+
+        The staff is super friendly and nice. There is ample parking lots. Space
+        is too small for ppl with special needs.
+      languageCode: en
+    authorAttribution:
+      displayName: DALIA HUSSEIN
+      uri: https://www.google.com/maps/contrib/114471973233953722164/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjW628VBUTCPD0XgA-qmASFDW6OPEU_hPBp5mF1k0bxiMrkp_WsO=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-05T20:03:48.558473Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNJMy1TTFFBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNJMy1TTFFBEAE!2m1!1s0x8644cc39cefee4f7:0xc93f34d56f1c
+  - name: >-
+      places/ChIJ9-T-zjnMRIYRHG_VND_JAAA/reviews/ChZDSUhNMG9nS0VJQ0FnTURvMGNXVE9REAE
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        Place is great, feel like I'm transported somewhere outside of Austin
+        every time I'm here.  Staff is great, fast and friendly.  The
+        food....NOM!
+      languageCode: en
+    originalText:
+      text: >-
+        Place is great, feel like I'm transported somewhere outside of Austin
+        every time I'm here.  Staff is great, fast and friendly.  The
+        food....NOM!
+      languageCode: en
+    authorAttribution:
+      displayName: Ike “RodIKE” Rod
+      uri: https://www.google.com/maps/contrib/101327757486704775459/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJZOaxuk47CI1uVha3TiqdbcRQA1dd0GM3hPUGvgXXwsD7NTMkv=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-25T23:40:19.862627Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURvMGNXVE9REAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURvMGNXVE9REAE!2m1!1s0x8644cc39cefee4f7:0xc93f34d56f1c
+  - name: >-
+      places/ChIJ9-T-zjnMRIYRHG_VND_JAAA/reviews/ChdDSUhNMG9nS0VJQ0FnSURqbXNQZHR3RRAB
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        Make a reservation!!!! We had a reservation to attend a dinner with
+        coworkers. Talk about phenomenal! We were a part of 7 and had a table at
+        the back of the restaurant. The waitress was fantastic and took care of
+        us. She ensured our choices paired and kept us in the right direction.
+        The sushi and all the other things we ordered were amazing. This is a
+        place you should definitely try if you are in North Austin.
+      languageCode: en
+    originalText:
+      text: >-
+        Make a reservation!!!! We had a reservation to attend a dinner with
+        coworkers. Talk about phenomenal! We were a part of 7 and had a table at
+        the back of the restaurant. The waitress was fantastic and took care of
+        us. She ensured our choices paired and kept us in the right direction.
+        The sushi and all the other things we ordered were amazing. This is a
+        place you should definitely try if you are in North Austin.
+      languageCode: en
+    authorAttribution:
+      displayName: Sven Rajala
+      uri: https://www.google.com/maps/contrib/102182009305466650443/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXeZbr-_gPL5MZyV8fn9VS-u0LA_oabXSHzcalMX466MU8tYD8=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2024-05-02T01:46:06.323910Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURqbXNQZHR3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURqbXNQZHR3RRAB!2m1!1s0x8644cc39cefee4f7:0xc93f34d56f1c
+review_summary: >-
+  What Guests Are Saying About This Austin Sushi Favorite$$$Folks heading to
+  this popular sushi spot in Austin often highlight the incredibly fresh fish
+  and creative rolls that make every bite a delight, turning it into a
+  must-visit for anyone craving top-notch Japanese cuisine. Many appreciate the
+  friendly service and efficient staff who help guide choices, making the
+  overall experience smooth and enjoyable, even during busy times when
+  reservations come in handy. While some note that the prices lean towards the
+  higher side, the consistent quality and generous portions make it feel like a
+  worthwhile treat for special occasions or casual outings. Reviewers frequently
+  mention the satisfying variety of dishes that cater to different tastes,
+  adding to its reputation as one of the best sushi restaurants around. Overall,
+  it's clear that diners keep coming back for the reliable flavors and welcoming
+  vibe, solidifying its status as a solid pick for sushi lovers in the
+  neighborhood.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
+delivery: false
+dine_in: true
+good_for_children: false
 good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Snug, stylish eatery with a bar serving Japanese plates & traditional &
+  inventive sushi options.
 
 ---

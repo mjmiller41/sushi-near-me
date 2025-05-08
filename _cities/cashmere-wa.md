@@ -5,4 +5,5 @@ permalink: /washington/cashmere/
 stateAbbr: WA
 stateName: Washington
 cityName: Cashmere
+
 ---

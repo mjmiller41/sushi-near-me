@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Soya Sushi & Grill"
+title: Soya Sushi & Grill
 permalink: /minnesota/chanhassen/soya-sushi-grill.html
 stateAbbr: MN
 stateName: Minnesota
 cityName: Chanhassen
 seo:
-  name: "Soya Sushi & Grill"
-  type: Restaurant
+  type: restaurant
   links: http://www.soyamn.com/
-description: "Sushi, grilled fare, bento boxes & a few mixed Asian eats, served in a trendy strip-mall setting. Soya Sushi & Grill serves delicious sushi in Chanhassen, Minnesota. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJm-b0G5sb9ocR719Z2CxYM8M
 photos:
   - name: >-
@@ -185,6 +183,35 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 0
 website: http://www.soyamn.com/
+description: >-
+  Discover Soya Sushi & Grill in Chanhassen, MN$$$Soya Sushi & Grill in
+  Chanhassen, MN, stands out as a go-to spot for fresh sushi and grilled options
+  in a relaxed setting, blending Japanese flavors with a touch of Thai
+  influences for those seeking sushi places near me. The menu highlights
+  creative rolls, hibachi-style dishes, and flavorful noodles, all prepared with
+  high-quality ingredients that appeal to anyone exploring top-rated sushi in
+  the area. This casual eatery features a welcoming atmosphere with accessible
+  seating and parking, making it easy for groups or families to enjoy a
+  satisfying meal. Moderately priced and offering a variety of options like beer
+  and wine, it's an ideal choice for anyone craving authentic Japanese-inspired
+  cuisine without the fuss. Whether you're in the mood for a quick lunch or a
+  leisurely dinner, the spot's thoughtful details ensure a comfortable dining
+  experience that keeps locals coming back.
+generative_summary: >-
+  Discover Soya Sushi & Grill in Chanhassen, MN$$$Soya Sushi & Grill in
+  Chanhassen, MN, stands out as a go-to spot for fresh sushi and grilled options
+  in a relaxed setting, blending Japanese flavors with a touch of Thai
+  influences for those seeking sushi places near me. The menu highlights
+  creative rolls, hibachi-style dishes, and flavorful noodles, all prepared with
+  high-quality ingredients that appeal to anyone exploring top-rated sushi in
+  the area. This casual eatery features a welcoming atmosphere with accessible
+  seating and parking, making it easy for groups or families to enjoy a
+  satisfying meal. Moderately priced and offering a variety of options like beer
+  and wine, it's an ideal choice for anyone craving authentic Japanese-inspired
+  cuisine without the fuss. Whether you're in the mood for a quick lunch or a
+  leisurely dinner, the spot's thoughtful details ensure a comfortable dining
+  experience that keeps locals coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJm-b0G5sb9ocR719Z2CxYM8M/reviews/ChdDSUhNMG9nS0VJQ0FnTURncDhiMHlnRRAB
@@ -368,6 +395,21 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN4Nk52QXlRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN4Nk52QXlRRRAB!2m1!1s0x87f61b9b1bf4e69b:0xc333582cd8595fef
+review_summary: >-
+  What Customers Are Buzzing About$$$Folks seem to really enjoy the fresh and
+  flavorful sushi at this spot, often highlighting how the rolls and specials
+  deliver great taste at reasonable prices, making it a solid pick for everyday
+  cravings. Many appreciate the laid-back vibe and quick, friendly service that
+  enhances the overall meal, with comments praising the variety of options like
+  spicy rolls and lunch deals that feel like a treat. While some mention
+  expecting a bit more variety in certain dishes, the general feedback leans
+  positive, noting that the food's quality and portions leave diners satisfied
+  and eager to return. It's clear that the welcoming atmosphere and attentive
+  staff make it a favorite for casual get-togethers, with plenty of positive
+  nods to the value and freshness that keep the buzz going. Overall, if you're
+  hunting for reliable sushi restaurants near me, this place gets high marks for
+  its consistent appeal and enjoyable dining experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -400,8 +442,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Sushi, grilled fare, bento boxes & a few mixed Asian eats, served in a trendy
   strip-mall setting.
 

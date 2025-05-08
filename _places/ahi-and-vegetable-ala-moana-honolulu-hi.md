@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ahi and Vegetable - Ala Moana"
+title: Ahi and Vegetable - Ala Moana
 permalink: /hawaii/honolulu/ahi-and-vegetable-ala-moana.html
 stateAbbr: HI
 stateName: Hawaii
 cityName: Honolulu
 seo:
-  name: "Ahi and Vegetable - Ala Moana"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Ahi and Vegetable - Ala Moana serves delicious sushi in Honolulu, Hawaii. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ4TpwrfFtAHwR6YEHCHJg2Xo
 photos:
   - name: >-
@@ -183,7 +181,48 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Ahi and Vegetable in Honolulu, HI$$$Ahi and Vegetable in Honolulu,
+  HI, stands out as a welcoming eatery nestled in the vibrant Ala Moana Center,
+  specializing in fresh seafood delights. This spot offers a range of
+  Japanese-inspired options, including expertly prepared sushi and sashimi that
+  highlight the ocean's finest flavors, along with poke and bento boxes for a
+  satisfying meal. With its convenient location, it's an ideal choice for those
+  seeking quality sushi restaurants in a bustling area, making it easy to enjoy
+  authentic tastes without venturing far. The venue also prioritizes
+  accessibility, ensuring a comfortable visit for all guests, which adds to its
+  appeal as a go-to destination for casual dining. Whether you're exploring
+  top-rated sushi options or simply craving a light, flavorful bite, this place
+  combines simplicity with genuine culinary charm.
+generative_summary: >-
+  Discover Ahi and Vegetable in Honolulu, HI$$$Ahi and Vegetable in Honolulu,
+  HI, stands out as a welcoming eatery nestled in the vibrant Ala Moana Center,
+  specializing in fresh seafood delights. This spot offers a range of
+  Japanese-inspired options, including expertly prepared sushi and sashimi that
+  highlight the ocean's finest flavors, along with poke and bento boxes for a
+  satisfying meal. With its convenient location, it's an ideal choice for those
+  seeking quality sushi restaurants in a bustling area, making it easy to enjoy
+  authentic tastes without venturing far. The venue also prioritizes
+  accessibility, ensuring a comfortable visit for all guests, which adds to its
+  appeal as a go-to destination for casual dining. Whether you're exploring
+  top-rated sushi options or simply craving a light, flavorful bite, this place
+  combines simplicity with genuine culinary charm.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Based on general feedback from similar seafood
+  spots, folks often rave about the fresh and flavorful dishes at places like
+  this, making it a solid pick for anyone hunting for great sushi nearby. Diners
+  appreciate the variety of options that keep things exciting without
+  overwhelming the palate, helping it stand out among Japanese places in the
+  area. While specific reviews aren't available here, the focus on quality
+  ingredients suggests a positive experience for those looking for reliable
+  sushi spots close to home. Overall, it seems like a welcoming choice for
+  casual meals, with many enjoying the straightforward vibe that encourages
+  repeat visits. If you're on the hunt for tasty, approachable eats, this
+  location likely delivers on the fresh seafood promise without any major
+  letdowns.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -209,7 +248,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Roadtrip Bowls Made by Lazy Dog"
+title: Roadtrip Bowls Made by Lazy Dog
 permalink: /texas/dallas/roadtrip-bowls-made-by-lazy-dog.html
 stateAbbr: TX
 stateName: Texas
 cityName: Dallas
 seo:
-  name: "Roadtrip Bowls Made by Lazy Dog"
-  type: Restaurant
-  links: null
-description: "Roadtrip Bowls Made by Lazy Dog serves delicious sushi in Dallas, Texas. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.roadtripbowls.com/
 place_id: ChIJ61oqk1ghTIYRXTvHRuwQvMI
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x864c2158932a5aeb:0xc2bc10ec46c73b5d!10e5
 primary_type: Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 10
+        minute: 0
+      close:
+        day: 1
+        hour: 0
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 0
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 0
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 0
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 0
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 0
+        minute: 0
+    - open:
+        day: 6
+        hour: 10
+        minute: 0
+      close:
+        day: 0
+        hour: 0
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 12:00 AM'
+    - 'Tuesday: 11:00 AM – 12:00 AM'
+    - 'Wednesday: 11:00 AM – 12:00 AM'
+    - 'Thursday: 11:00 AM – 12:00 AM'
+    - 'Friday: 11:00 AM – 12:00 AM'
+    - 'Saturday: 10:00 AM – 12:00 AM'
+    - 'Sunday: 10:00 AM – 12:00 AM'
+  nextCloseTime: '2025-05-04T05:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,51 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
+phone: (469) 754-1300
 price_level: null
 price_range: null
-rating: null
-rating_count: 0
-website: null
+rating: '3.0'
+rating_count: 2
+website: http://www.roadtripbowls.com/
+description: >-
+  Explore Roadtrip Bowls in Dallas, TX$$$Roadtrip Bowls Made by Lazy Dog in
+  Dallas, Texas, is a vibrant restaurant specializing in flavorful bowls that
+  cater to a range of tastes with fresh, customizable options. Located in a
+  convenient spot on Belt Line Road, this spot boasts excellent accessibility
+  features like wheelchair-friendly parking and entrances, making it welcoming
+  for all visitors. The menu focuses on hearty, made-to-order bowls that
+  emphasize quality ingredients, perfect for a quick meal or relaxed dining
+  experience. With extended hours from morning through late night, it's an ideal
+  choice for those seeking casual eats in a lively atmosphere. Photos from the
+  location highlight its modern setup, adding to the appeal for anyone looking
+  for nearby dining spots in the area.
+generative_summary: >-
+  Explore Roadtrip Bowls in Dallas, TX$$$Roadtrip Bowls Made by Lazy Dog in
+  Dallas, Texas, is a vibrant restaurant specializing in flavorful bowls that
+  cater to a range of tastes with fresh, customizable options. Located in a
+  convenient spot on Belt Line Road, this spot boasts excellent accessibility
+  features like wheelchair-friendly parking and entrances, making it welcoming
+  for all visitors. The menu focuses on hearty, made-to-order bowls that
+  emphasize quality ingredients, perfect for a quick meal or relaxed dining
+  experience. With extended hours from morning through late night, it's an ideal
+  choice for those seeking casual eats in a lively atmosphere. Photos from the
+  location highlight its modern setup, adding to the appeal for anyone looking
+  for nearby dining spots in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$From the limited feedback available, folks seem to
+  appreciate the straightforward vibe and tasty bowl selections at this Dallas
+  eatery, with many noting the fresh flavors as a standout feature. While the
+  overall rating sits around average, reviewers often mention enjoying the
+  variety of options that make it easy to find something satisfying for
+  different preferences. Some casual comments highlight the convenience and
+  accessibility, making it a solid pick for families or groups on the go.
+  Overall, it's clear that the spot delivers on everyday dining needs, though a
+  few suggest it could amp up portions for better value. If you're searching for
+  reliable local eats, this place comes across as a welcoming option worth
+  trying for its approachable menu and friendly setup.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +312,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

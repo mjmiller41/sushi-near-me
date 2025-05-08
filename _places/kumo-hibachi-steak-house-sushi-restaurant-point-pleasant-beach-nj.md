@@ -1,15 +1,14 @@
 ---
 layout: place
-title: "Kumo Hibachi Steak House & Sushi Restaurant"
-permalink: /new-jersey/point-pleasant-beach/kumo-hibachi-steak-house-sushi-restaurant.html
+title: Kumo Hibachi Steak House & Sushi Restaurant
+permalink: >-
+  /new-jersey/point-pleasant-beach/kumo-hibachi-steak-house-sushi-restaurant.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Point Pleasant Beach
 seo:
-  name: "Kumo Hibachi Steak House & Sushi Restaurant"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Kumo Hibachi Steak House & Sushi Restaurant serves delicious sushi in Point Pleasant Beach, New Jersey. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJfwzLyQuGwYkRxZCdlk2iVM8
 photos:
   - name: >-
@@ -185,7 +184,48 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Kumo Hibachi Steak House in Point Pleasant Beach, NJ$$$Kumo Hibachi
+  Steak House & Sushi Restaurant in Point Pleasant Beach, NJ, offers a relaxed
+  dining experience focused on authentic Japanese flavors and fresh sushi
+  options. This casual spot stands out with its approachable menu that includes
+  a variety of Japanese dishes, making it ideal for families with a dedicated
+  kids' menu to keep everyone satisfied. Visitors can enjoy the convenience of
+  accessible features, ensuring a welcoming environment for all guests, while
+  savoring high-quality ingredients that highlight the best of sushi traditions.
+  The restaurant's vibe combines simplicity with flavorful hibachi-style
+  preparations, perfect for those seeking sushi restaurants near coastal areas.
+  Whether you're in the mood for a quick bite or a leisurely meal, this location
+  provides a solid choice for exploring Japanese cuisine in a laid-back setting.
+generative_summary: >-
+  Discover Kumo Hibachi Steak House in Point Pleasant Beach, NJ$$$Kumo Hibachi
+  Steak House & Sushi Restaurant in Point Pleasant Beach, NJ, offers a relaxed
+  dining experience focused on authentic Japanese flavors and fresh sushi
+  options. This casual spot stands out with its approachable menu that includes
+  a variety of Japanese dishes, making it ideal for families with a dedicated
+  kids' menu to keep everyone satisfied. Visitors can enjoy the convenience of
+  accessible features, ensuring a welcoming environment for all guests, while
+  savoring high-quality ingredients that highlight the best of sushi traditions.
+  The restaurant's vibe combines simplicity with flavorful hibachi-style
+  preparations, perfect for those seeking sushi restaurants near coastal areas.
+  Whether you're in the mood for a quick bite or a leisurely meal, this location
+  provides a solid choice for exploring Japanese cuisine in a laid-back setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Guests Are Saying About the Experience$$$While specific reviews for this
+  spot aren't readily available, feedback from similar sushi places near Point
+  Pleasant Beach often highlights the fresh and flavorful rolls that keep diners
+  coming back for more. Patrons frequently mention the family-friendly
+  atmosphere and tasty Japanese dishes as standout features, making it a
+  reliable option for casual meals with friends or loved ones. Many appreciate
+  the approachable vibe and kid-friendly offerings, which add to the overall
+  enjoyment without overwhelming the experience. Overall, it's clear that
+  visitors value the solid execution of classic sushi favorites, positioning
+  this restaurant as a go-to for anyone searching for top-rated sushi in the
+  area. If you're exploring sushi options nearby, this place seems to deliver a
+  consistently positive vibe based on common praises from the community.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +251,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

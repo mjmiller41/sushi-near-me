@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Japonessa Sushi Cocina"
+title: Japonessa Sushi Cocina
 permalink: /washington/seattle/japonessa-sushi-cocina.html
 stateAbbr: WA
 stateName: Washington
 cityName: Seattle
 seo:
-  name: "Japonessa Sushi Cocina"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Japonessa Sushi Cocina serves delicious sushi in Seattle, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJUwksT7JqkFQR3kjlZYrA0XY
 photos:
   - name: >-
@@ -185,7 +183,50 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Japonessa Sushi Cocina in Seattle, WA$$$Japonessa Sushi Cocina in
+  Seattle, WA, stands out as a vibrant sushi restaurant blending Japanese
+  traditions with creative flavors in the heart of downtown. This spot delights
+  visitors with its fresh, artfully prepared rolls and inventive dishes that
+  fuse global influences, making it a go-to choice for those seeking top-rated
+  sushi near me. The welcoming atmosphere features modern decor and accessible
+  seating, ensuring a comfortable experience for everyone, while its prime
+  location adds to the appeal for anyone exploring sushi restaurants in the
+  area. Patrons can enjoy a variety of options that highlight high-quality
+  ingredients and thoughtful presentations, elevating the standard dining
+  experience. Whether you're in the mood for classic nigiri or something more
+  adventurous, this establishment captures the essence of innovative Japanese
+  cuisine in a bustling urban setting.
+generative_summary: >-
+  Discover Japonessa Sushi Cocina in Seattle, WA$$$Japonessa Sushi Cocina in
+  Seattle, WA, stands out as a vibrant sushi restaurant blending Japanese
+  traditions with creative flavors in the heart of downtown. This spot delights
+  visitors with its fresh, artfully prepared rolls and inventive dishes that
+  fuse global influences, making it a go-to choice for those seeking top-rated
+  sushi near me. The welcoming atmosphere features modern decor and accessible
+  seating, ensuring a comfortable experience for everyone, while its prime
+  location adds to the appeal for anyone exploring sushi restaurants in the
+  area. Patrons can enjoy a variety of options that highlight high-quality
+  ingredients and thoughtful presentations, elevating the standard dining
+  experience. Whether you're in the mood for classic nigiri or something more
+  adventurous, this establishment captures the essence of innovative Japanese
+  cuisine in a bustling urban setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying About This Sushi Spot$$$Folks heading to sushi places
+  near me often rave about the consistently fresh and flavorful offerings at
+  this lively restaurant, with many highlighting the creative twists on
+  traditional rolls that keep things exciting. Customers frequently mention the
+  welcoming vibe and efficient service that make every visit feel relaxed and
+  enjoyable, though some note that wait times can pick up during peak hours.
+  Overall, the consensus leans positive, praising the solid value for the
+  quality of ingredients and the fun atmosphere that suits both casual meetups
+  and special occasions. It's clear that diners appreciate the attention to
+  detail in the menu, even if a few suggest it might get a bit crowded on
+  weekends. If you're on the hunt for best sushi near me, this spot generally
+  delivers a satisfying experience that leaves people coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +252,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Iwa Morrisville"
+title: Sushi Iwa Morrisville
 permalink: /north-carolina/morrisville/sushi-iwa-morrisville.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Morrisville
 seo:
-  name: "Sushi Iwa Morrisville"
-  type: Restaurant
+  type: restaurant
   links: https://sushiiwa.org/
-description: "Classy restaurant offering a variety of Asian dishes, including sushi, plus a wine list. Sushi Iwa Morrisville serves delicious sushi in Morrisville, North Carolina. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ9c0eX_rtrIkRWixXHK_ZFag
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $10 &ndash; $20
 rating: '4.1'
 rating_count: 0
 website: https://sushiiwa.org/
+description: >-
+  Explore Sushi Iwa in Morrisville, NC$$$Sushi Iwa in Morrisville, NC, stands
+  out as a relaxed spot for enjoying a diverse selection of Asian cuisine,
+  including fresh sushi and Thai-inspired dishes that appeal to local food
+  enthusiasts. This inviting restaurant features a classy ambiance with options
+  like wheelchair-accessible seating and parking, making it a convenient choice
+  for a wide range of diners seeking quality meals in a welcoming environment.
+  Patrons can savor moderately priced fare, such as creative rolls and flavorful
+  entrees, complemented by a thoughtful selection of beverages. The emphasis on
+  authentic flavors and accessibility ensures it's a go-to option for those
+  exploring sushi restaurants near me, blending traditional elements with a
+  casual vibe that enhances the overall dining experience.
+generative_summary: >-
+  Explore Sushi Iwa in Morrisville, NC$$$Sushi Iwa in Morrisville, NC, stands
+  out as a relaxed spot for enjoying a diverse selection of Asian cuisine,
+  including fresh sushi and Thai-inspired dishes that appeal to local food
+  enthusiasts. This inviting restaurant features a classy ambiance with options
+  like wheelchair-accessible seating and parking, making it a convenient choice
+  for a wide range of diners seeking quality meals in a welcoming environment.
+  Patrons can savor moderately priced fare, such as creative rolls and flavorful
+  entrees, complemented by a thoughtful selection of beverages. The emphasis on
+  authentic flavors and accessibility ensures it's a go-to option for those
+  exploring sushi restaurants near me, blending traditional elements with a
+  casual vibe that enhances the overall dining experience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ9c0eX_rtrIkRWixXHK_ZFag/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3MnRMOEVBEAE
@@ -332,6 +355,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURucl9YRk5REAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURucl9YRk5REAE!2m1!1s0x89acedfa5f1ecdf5:0xa815d9af1c572c5a
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors to this sushi spot often rave about
+  the wide variety of rolls and authentic Asian dishes, highlighting the fresh
+  flavors and generous portions that make it a standout choice for casual meals.
+  Many appreciate the excellent service and great value, including specials like
+  buy-one-get-one deals that add to the fun of dining out with friends or
+  family. While most experiences are positive, some note occasional mismatches
+  between menu descriptions and actual dishes, suggesting it's wise to
+  double-check preferences for the best results. Overall, the consensus leans
+  toward it being a reliable pick for anyone searching top-rated sushi near me,
+  with its welcoming atmosphere and tasty options earning high marks for
+  satisfaction. This blend of strengths keeps the vibe upbeat, making it worth a
+  try for those craving Japanese-inspired eats in the area.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -364,8 +401,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Classy restaurant offering a variety of Asian dishes, including sushi, plus a
   wine list.
 

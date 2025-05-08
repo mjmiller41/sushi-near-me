@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Bodeli Sushi"
+title: Bodeli Sushi
 permalink: /tennessee/franklin/bodeli-sushi.html
 stateAbbr: TN
 stateName: Tennessee
 cityName: Franklin
 seo:
-  name: "Bodeli Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.bodelisushi.com/
-description: "Japanese dishes, maki & imported beer offered in laid-back surrounds with ample sushi bar seating. Bodeli Sushi serves delicious sushi in Franklin, Tennessee. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJTbuT5F15ZIgRDYMWj-QwUCQ
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 0
 website: http://www.bodelisushi.com/
+description: >-
+  Discover Bodeli Sushi in Franklin, Tennessee$$$Bodeli Sushi in Franklin, TN,
+  stands out as a lively conveyor belt sushi bar that features all-you-can-eat
+  options, drawing in fans of fresh Japanese-inspired dishes and creative rolls.
+  The spot offers a relaxed atmosphere with plenty of seating at the sushi bar,
+  perfect for enjoying maki and imported beverages in a welcoming setting.
+  Accessibility is a key highlight, with features like wheelchair-friendly
+  entrances and parking that make it easy for everyone to dine comfortably. This
+  sushi restaurant near you combines affordability with quality, appealing to
+  those seeking top-rated sushi experiences in a casual environment. Whether
+  you're in the mood for a quick bite or a full meal, its efficient setup
+  ensures a memorable visit for sushi enthusiasts exploring local options.
+generative_summary: >-
+  Discover Bodeli Sushi in Franklin, Tennessee$$$Bodeli Sushi in Franklin, TN,
+  stands out as a lively conveyor belt sushi bar that features all-you-can-eat
+  options, drawing in fans of fresh Japanese-inspired dishes and creative rolls.
+  The spot offers a relaxed atmosphere with plenty of seating at the sushi bar,
+  perfect for enjoying maki and imported beverages in a welcoming setting.
+  Accessibility is a key highlight, with features like wheelchair-friendly
+  entrances and parking that make it easy for everyone to dine comfortably. This
+  sushi restaurant near you combines affordability with quality, appealing to
+  those seeking top-rated sushi experiences in a casual environment. Whether
+  you're in the mood for a quick bite or a full meal, its efficient setup
+  ensures a memorable visit for sushi enthusiasts exploring local options.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJTbuT5F15ZIgRDYMWj-QwUCQ/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJenJDYUVBEAE
@@ -336,6 +359,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNmOXZpM25nRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNmOXZpM25nRRAB!2m1!1s0x8864795de493bb4d:0x245030e48f16830d
+review_summary: >-
+  What Customers Are Buzzing About$$$Visitors to this sushi spot can't stop
+  raving about the fresh and inventive rolls that keep the conveyor belt buzzing
+  with excitement, making it a fun choice for anyone craving reliable flavors.
+  The service gets high marks for being attentive and helpful, with staff often
+  checking in to customize orders and accommodate various needs, adding a
+  personal touch to the experience. Folks appreciate the spot's cleanliness and
+  welcoming vibe, which makes it ideal for groups or families looking for a
+  laid-back meal. Overall, it's praised as one of the best sushi places near me
+  for its satisfying portions and variety, encouraging repeat visits from those
+  seeking quality without the fuss. If you're hunting for top sushi restaurants
+  in the area, this spot delivers a consistently enjoyable experience that
+  leaves diners feeling happy and well-fed.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -368,8 +405,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Japanese dishes, maki & imported beer offered in laid-back surrounds with
   ample sushi bar seating.
 

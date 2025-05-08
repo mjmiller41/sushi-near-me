@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Sapporo"
+title: Sushi Sapporo
 permalink: /oregon/portland/sushi-sapporo.html
 stateAbbr: OR
 stateName: Oregon
 cityName: Portland
 seo:
-  name: "Sushi Sapporo"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi Sapporo serves delicious sushi in Portland, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ8-HnN7ehlVQRsgjBPJ-DBKI
 photos:
   - name: >-
@@ -185,7 +183,44 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Sushi Sapporo in Portland, OR$$$Sushi Sapporo in Portland, OR, stands
+  out as a welcoming spot for sushi enthusiasts seeking authentic Japanese
+  flavors in a relaxed setting. This casual eatery specializes in traditional
+  sushi options, offering a variety of fresh rolls and dishes that highlight the
+  best of Japanese cuisine, making it a go-to choice for those searching for
+  quality sushi restaurants nearby. With convenient delivery services, it's easy
+  to enjoy their menu from the comfort of your home, adding to its appeal for
+  busy locals or visitors exploring sushi places near me. The restaurant also
+  boasts excellent accessibility features, ensuring a comfortable experience for
+  all diners. Whether you're in the mood for a quick bite or a full meal, Sushi
+  Sapporo delivers on taste and convenience in the heart of Portland.
+generative_summary: >-
+  Discover Sushi Sapporo in Portland, OR$$$Sushi Sapporo in Portland, OR, stands
+  out as a welcoming spot for sushi enthusiasts seeking authentic Japanese
+  flavors in a relaxed setting. This casual eatery specializes in traditional
+  sushi options, offering a variety of fresh rolls and dishes that highlight the
+  best of Japanese cuisine, making it a go-to choice for those searching for
+  quality sushi restaurants nearby. With convenient delivery services, it's easy
+  to enjoy their menu from the comfort of your home, adding to its appeal for
+  busy locals or visitors exploring sushi places near me. The restaurant also
+  boasts excellent accessibility features, ensuring a comfortable experience for
+  all diners. Whether you're in the mood for a quick bite or a full meal, Sushi
+  Sapporo delivers on taste and convenience in the heart of Portland.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Feedback from visitors to this Portland sushi spot
+  often highlights the fresh ingredients and well-prepared rolls that make it a
+  standout option among local Japanese places. Many appreciate the casual vibe
+  and efficient service, noting that it's a reliable choice for anyone craving
+  top-rated sushi without the fuss. While some mention the straightforward menu
+  keeps things simple and satisfying, others praise the value for the quality,
+  making it a favorite for groups or solo diners alike. Overall, the consensus
+  leans positive, with folks enjoying the authentic flavors that keep them
+  coming back for more. If you're on the hunt for the best sushi near me, this
+  place seems to hit the mark with its approachable style and solid offerings.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +246,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Tokyo Japanese Steak House"
+title: Tokyo Japanese Steak House
 permalink: /tennessee/smyrna/tokyo-japanese-steak-house.html
 stateAbbr: TN
 stateName: Tennessee
 cityName: Smyrna
 seo:
-  name: "Tokyo Japanese Steak House"
-  type: Restaurant
+  type: restaurant
   links: http://www.tokyosmyrna.com/
-description: "Lively hibachi-style eatery also serves made-to-order sushi, sake & signature cocktails. Tokyo Japanese Steak House serves delicious sushi in Smyrna, Tennessee. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJzeg6YekMZIgR1EiiaUUi7G8
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 0
 website: http://www.tokyosmyrna.com/
+description: >-
+  Discover Tokyo Japanese Steak House in Smyrna, TN$$$Tokyo Japanese Steak House
+  in Smyrna, TN, delivers a lively dining vibe centered around fresh sushi and
+  interactive hibachi grilling, making it a go-to spot for those seeking sushi
+  restaurants near you. The menu highlights flavorful hibachi meals and classic
+  Japanese fare, complemented by options like sake and signature cocktails for
+  an authentic experience. With accessibility features like wheelchair-friendly
+  seating and parking, it's designed to welcome everyone looking for top-rated
+  sushi close to home. This casual eatery emphasizes generous portions and a
+  variety of vegetarian choices, ensuring a satisfying meal for families or
+  groups enjoying Japanese places near me.
+generative_summary: >-
+  Discover Tokyo Japanese Steak House in Smyrna, TN$$$Tokyo Japanese Steak House
+  in Smyrna, TN, delivers a lively dining vibe centered around fresh sushi and
+  interactive hibachi grilling, making it a go-to spot for those seeking sushi
+  restaurants near you. The menu highlights flavorful hibachi meals and classic
+  Japanese fare, complemented by options like sake and signature cocktails for
+  an authentic experience. With accessibility features like wheelchair-friendly
+  seating and parking, it's designed to welcome everyone looking for top-rated
+  sushi close to home. This casual eatery emphasizes generous portions and a
+  variety of vegetarian choices, ensuring a satisfying meal for families or
+  groups enjoying Japanese places near me.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJzeg6YekMZIgR1EiiaUUi7G8/reviews/ChZDSUhNMG9nS0VJQ0FnSUNYdU83VFJBEAE
@@ -372,6 +393,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNYMk0tcThBRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNYMk0tcThBRRAB!2m1!1s0x88640ce9613ae8cd:0x6fec224569a248d4
+review_summary: >-
+  What Customers Are Saying About This Sushi Spot$$$Visitors often rave about
+  the delicious hibachi dishes and fresh sushi at this spot, with many
+  highlighting the tasty scallops, shrimp, and flavorful ginger dressing as
+  standout features. While some mention occasional hiccups like inconsistent
+  portions or a messy setup during the showy cooking, the overall experience is
+  praised for its generous servings and entertaining chefs who keep things fun.
+  Folks appreciate the family-friendly atmosphere and quick service that makes
+  it worth returning for, especially if you're hunting for the best sushi near
+  me. In general, the positive vibes around the food quality and variety help
+  balance any minor issues, leaving diners excited to come back for more
+  Japanese-inspired meals.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -405,8 +439,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Lively hibachi-style eatery also serves made-to-order sushi, sake & signature
   cocktails.
 

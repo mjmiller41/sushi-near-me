@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Matsuri Japanese Restaurant"
+title: Sushi Matsuri Japanese Restaurant
 permalink: /florida/gainesville/sushi-matsuri-japanese-restaurant.html
 stateAbbr: FL
 stateName: Florida
 cityName: Gainesville
 seo:
-  name: "Sushi Matsuri Japanese Restaurant"
-  type: Restaurant
+  type: restaurant
   links: https://www.facebook.com/SushiMatsuriGainesville
-description: "Japanese dishes & sushi served in a strip-mall setting lit by paper lanterns. Sushi Matsuri Japanese Restaurant serves delicious sushi in Gainesville, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJwXj06iSj6IgRXtXiGBY3RhI
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $20 &ndash; $30
 rating: '4.2'
 rating_count: 0
 website: https://www.facebook.com/SushiMatsuriGainesville
+description: >-
+  Discover Sushi Matsuri in Gainesville, FL$$$Sushi Matsuri Japanese Restaurant
+  in Gainesville, Florida, offers a delightful array of traditional Japanese
+  cuisine and expertly crafted sushi in a cozy strip-mall environment adorned
+  with simple lighting. Diners enjoy generous servings of fresh fish in their
+  nigiri and rolls, providing excellent value that makes every visit feel
+  worthwhile. The menu features well-prepared dishes with eye-catching
+  presentations, complemented by a relaxed atmosphere that enhances the overall
+  dining experience. Additionally, happy hour deals and creative options like
+  specialty rolls highlight the use of high-quality ingredients, making it a
+  go-to spot for those seeking authentic sushi restaurants near me. This
+  welcoming venue caters to a variety of tastes, ensuring a satisfying meal for
+  sushi enthusiasts exploring Japanese places near me.
+generative_summary: >-
+  Discover Sushi Matsuri in Gainesville, FL$$$Sushi Matsuri Japanese Restaurant
+  in Gainesville, Florida, offers a delightful array of traditional Japanese
+  cuisine and expertly crafted sushi in a cozy strip-mall environment adorned
+  with simple lighting. Diners enjoy generous servings of fresh fish in their
+  nigiri and rolls, providing excellent value that makes every visit feel
+  worthwhile. The menu features well-prepared dishes with eye-catching
+  presentations, complemented by a relaxed atmosphere that enhances the overall
+  dining experience. Additionally, happy hour deals and creative options like
+  specialty rolls highlight the use of high-quality ingredients, making it a
+  go-to spot for those seeking authentic sushi restaurants near me. This
+  welcoming venue caters to a variety of tastes, ensuring a satisfying meal for
+  sushi enthusiasts exploring Japanese places near me.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJwXj06iSj6IgRXtXiGBY3RhI/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJN09XOXhBRRAB
@@ -336,6 +361,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQzdHZIREVREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQzdHZIREVREAE!2m1!1s0x88e8a324eaf478c1:0x1246371618e2d55e
+review_summary: >-
+  What Customers Are Saying About This Sushi Spot$$$Visitors frequently praise
+  the fresh sushi and ample portions that deliver great bang for the buck,
+  creating a sense of satisfaction with every order. While most experiences
+  highlight friendly service and well-executed dishes like salads and rolls, a
+  few mentions note occasional waits that could use some smoothing out. Overall,
+  the vibe remains enjoyable, with highlights on affordable happy hour specials
+  and family-friendly options that keep folks coming back for more. If you're
+  hunting for top-rated sushi near me, this place stands out for its reliable
+  flavors and welcoming feel, though it's wise to plan ahead during busy times.
+  In summary, it's a solid choice for anyone craving quality Japanese fare, with
+  the positives far outweighing any minor hiccups.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -367,7 +405,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: Japanese dishes & sushi served in a strip-mall setting lit by paper lanterns.
+update_category: pro
+places_description: Japanese dishes & sushi served in a strip-mall setting lit by paper lanterns.
 
 ---

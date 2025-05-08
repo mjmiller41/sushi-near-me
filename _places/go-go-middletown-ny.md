@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Go-Go"
+title: Go-Go
 permalink: /new-york/middletown/go-go.html
 stateAbbr: NY
 stateName: New York
 cityName: Middletown
 seo:
-  name: "Go-Go"
-  type: Restaurant
-  links: null
-description: "Go-Go serves delicious sushi in Middletown, New York. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://gogomenu.top/
 place_id: ChIJ5abZWxItw4kRoSp0GcG-0lQ
 photos:
   - name: >-
@@ -168,8 +166,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c32d125bd9a6e5:0x54d2bec119742aa1!10e5
 primary_type: Chinese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: Closed'
+    - 'Tuesday: 11:00 AM – 10:00 PM'
+    - 'Wednesday: 11:00 AM – 10:00 PM'
+    - 'Thursday: 11:00 AM – 10:00 PM'
+    - 'Friday: 11:00 AM – 10:30 PM'
+    - 'Saturday: 11:00 AM – 10:30 PM'
+    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -177,13 +232,49 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (845) 343-2900
+price_level: PRICE_LEVEL_INEXPENSIVE
+price_range: $10 &ndash; $20
+rating: '3.7'
+rating_count: 208
+website: https://gogomenu.top/
+description: >-
+  Discover Go-Go in Middletown, NY$$$Go-Go in Middletown, NY, offers a relaxed
+  vibe for enjoying Chinese favorites and fresh sushi in a convenient shopping
+  center setting. This spot stands out with its approachable menu that includes
+  vegetarian choices, making it easy to find satisfying options for various
+  tastes. Accessibility features like wheelchair-friendly parking and entrances
+  add to the welcoming atmosphere, ideal for those exploring sushi restaurants
+  in the area. Operating hours span from late morning into the evening on most
+  days, providing flexibility for casual diners seeking affordable meals.
+  Whether you're looking for reliable sushi places nearby or a quick bite of
+  classic dishes, Go-Go delivers a straightforward and enjoyable experience.
+generative_summary: >-
+  Discover Go-Go in Middletown, NY$$$Go-Go in Middletown, NY, offers a relaxed
+  vibe for enjoying Chinese favorites and fresh sushi in a convenient shopping
+  center setting. This spot stands out with its approachable menu that includes
+  vegetarian choices, making it easy to find satisfying options for various
+  tastes. Accessibility features like wheelchair-friendly parking and entrances
+  add to the welcoming atmosphere, ideal for those exploring sushi restaurants
+  in the area. Operating hours span from late morning into the evening on most
+  days, providing flexibility for casual diners seeking affordable meals.
+  Whether you're looking for reliable sushi places nearby or a quick bite of
+  classic dishes, Go-Go delivers a straightforward and enjoyable experience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying About Go-Go$$$Folks heading to Go-Go often highlight
+  the tasty mix of Chinese and sushi offerings, with many appreciating the fresh
+  flavors and solid portions that keep things satisfying. The value for money
+  stands out, as people enjoy budget-friendly prices without skimping on
+  quality, making it a handy choice for everyday meals. While some note that the
+  ambiance is pretty no-frills, the overall service tends to be efficient and
+  friendly, adding to the laid-back appeal. It's commonly recommended for
+  families or groups hunting for dependable sushi spots around Middletown, with
+  the general feedback leaning positive thanks to consistent food hits. All in
+  all, with its respectable rating, Go-Go proves to be a reliable go-to for
+  those wanting a casual dining win.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -209,7 +300,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

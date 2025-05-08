@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Honda Sushi and Japanese Dining"
+title: Honda Sushi and Japanese Dining
 permalink: /california/torrance/honda-sushi-and-japanese-dining.html
 stateAbbr: CA
 stateName: California
 cityName: Torrance
 seo:
-  name: "Honda Sushi and Japanese Dining"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Honda Sushi and Japanese Dining serves delicious sushi in Torrance, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJo6th8AJL3YARzY1x5TLILb4
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80dd4b02f061aba3:0xbe2dc832e5718dcd!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 20
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 20
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 20
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 20
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 20
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:30 AM – 8:30 PM'
     - 'Wednesday: 11:30 AM – 8:30 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 8:30 PM'
     - 'Saturday: 11:30 AM – 8:30 PM'
     - 'Sunday: 5:00 – 8:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:30 AM – 8:30 PM'
-    - 'Wednesday: 11:30 AM – 8:30 PM'
-    - 'Thursday: 11:30 AM – 8:30 PM'
-    - 'Friday: 11:30 AM – 8:30 PM'
-    - 'Saturday: 11:30 AM – 8:30 PM'
-    - 'Sunday: 5:00 – 8:00 PM'
+  nextCloseTime: '2025-05-04T03:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +238,269 @@ phone: (310) 373-8272
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.5'
-rating_count: 0
+rating_count: 192
 website: null
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Honda Sushi in Torrance, CA$$$Honda Sushi and Japanese Dining in
+  Torrance, California, stands out as a cozy destination for fresh sushi and
+  Japanese-inspired dishes. This straightforward eatery features an inviting
+  atmosphere with comfortable seating, making it ideal for enjoying small
+  plates, sake, and a variety of flavorful options that highlight authentic
+  flavors. Accessibility is a key feature, with wheelchair-friendly parking,
+  entrances, and restrooms ensuring everyone can savor the experience. Patrons
+  appreciate the moderate pricing and selection of Japanese fare, perfect for a
+  relaxed meal after exploring local spots. Whether you're searching for sushi
+  restaurants near me or top-rated Japanese places, this spot delivers a
+  satisfying blend of quality and convenience.
+generative_summary: >-
+  Discover Honda Sushi in Torrance, CA$$$Honda Sushi and Japanese Dining in
+  Torrance, California, stands out as a cozy destination for fresh sushi and
+  Japanese-inspired dishes. This straightforward eatery features an inviting
+  atmosphere with comfortable seating, making it ideal for enjoying small
+  plates, sake, and a variety of flavorful options that highlight authentic
+  flavors. Accessibility is a key feature, with wheelchair-friendly parking,
+  entrances, and restrooms ensuring everyone can savor the experience. Patrons
+  appreciate the moderate pricing and selection of Japanese fare, perfect for a
+  relaxed meal after exploring local spots. Whether you're searching for sushi
+  restaurants near me or top-rated Japanese places, this spot delivers a
+  satisfying blend of quality and convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJo6th8AJL3YARzY1x5TLILb4/reviews/ChZDSUhNMG9nS0VJQ0FnSURZcnNYR1BBEAE
+    relativePublishTimeDescription: 5 years ago
+    rating: 5
+    text:
+      text: >-
+        Last night was my first time at Honda and it was a wonderful culinary
+        experience! We sat at the bar and really enjoyed interacting with the
+        chefs, they all had big personalities and excellent knife skills! I
+        ordered Omakase, chefs choice, sashimi and sushi and was not
+        disappointed, everything that I was served was beautifully prepared, 
+        presented and delicious.  We also enjoyed a nice bottle of sake with our
+        meal.  My only complaint was the time it took to get my sushi.  I
+        understand that sitting at the bar and ordering omakase is an experience
+        but my wife was finished with her meal before I was halfway through my
+        dinner.  The food was tasty, the staff were great but the meal could
+        have been timed a bit better.  I will return to Restaurant Honda again!
+      languageCode: en
+    originalText:
+      text: >-
+        Last night was my first time at Honda and it was a wonderful culinary
+        experience! We sat at the bar and really enjoyed interacting with the
+        chefs, they all had big personalities and excellent knife skills! I
+        ordered Omakase, chefs choice, sashimi and sushi and was not
+        disappointed, everything that I was served was beautifully prepared, 
+        presented and delicious.  We also enjoyed a nice bottle of sake with our
+        meal.  My only complaint was the time it took to get my sushi.  I
+        understand that sitting at the bar and ordering omakase is an experience
+        but my wife was finished with her meal before I was halfway through my
+        dinner.  The food was tasty, the staff were great but the meal could
+        have been timed a bit better.  I will return to Restaurant Honda again!
+      languageCode: en
+    authorAttribution:
+      displayName: Steve Ozelton
+      uri: https://www.google.com/maps/contrib/104637092094641287100/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocK7Sz-b12bDzmvQMT4uo_cJM2NrgF1BKfjr6ZtpCv4esjluuw=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2019-05-12T23:18:15.190727Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURZcnNYR1BBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURZcnNYR1BBEAE!2m1!1s0x80dd4b02f061aba3:0xbe2dc832e5718dcd
+  - name: >-
+      places/ChIJo6th8AJL3YARzY1x5TLILb4/reviews/ChdDSUhNMG9nS0VJQ0FnSUNZdkl5dm9RRRAB
+    relativePublishTimeDescription: 2 years ago
+    rating: 5
+    text:
+      text: >-
+        I had the Pork Katsu which was cooked perfectly and very tender with
+        plenty of flavor and came with Miso Soup and a bowl of White Rice. The
+        Teriyaki Beef Combo that also came with Tempura and Shrimp was cooked
+        perfectly and the Teriyaki Sauce was on point. Salmon Skin Sushi was
+        amazing. This place has a great menu. Lots of great Japanese food with
+        real attentive servers. Give this place a try.
+      languageCode: en
+    originalText:
+      text: >-
+        I had the Pork Katsu which was cooked perfectly and very tender with
+        plenty of flavor and came with Miso Soup and a bowl of White Rice. The
+        Teriyaki Beef Combo that also came with Tempura and Shrimp was cooked
+        perfectly and the Teriyaki Sauce was on point. Salmon Skin Sushi was
+        amazing. This place has a great menu. Lots of great Japanese food with
+        real attentive servers. Give this place a try.
+      languageCode: en
+    authorAttribution:
+      displayName: G Kawa
+      uri: https://www.google.com/maps/contrib/116039576835040342187/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJTF1-fQxr6CNtIdOZTMFt4OxteVh-TPKw1FJtc8_mRlJ3i=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2023-02-20T03:36:27.942103Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNZdkl5dm9RRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNZdkl5dm9RRRAB!2m1!1s0x80dd4b02f061aba3:0xbe2dc832e5718dcd
+  - name: >-
+      places/ChIJo6th8AJL3YARzY1x5TLILb4/reviews/ChdDSUhNMG9nS0VJQ0FnSUN1c3VDQWtnRRAB
+    relativePublishTimeDescription: 2 years ago
+    rating: 5
+    text:
+      text: >-
+        We did omakase for the party of three. It was delicious,  personal, and
+        beyond  traditional experience. Thank you for the great evening!guys
+      languageCode: en
+    originalText:
+      text: >-
+        We did omakase for the party of three. It was delicious,  personal, and
+        beyond  traditional experience. Thank you for the great evening!guys
+      languageCode: en
+    authorAttribution:
+      displayName: Inna Bogatskaya
+      uri: https://www.google.com/maps/contrib/100797290167861592752/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocI_-euX1GI9t69SWWO163um4la3Tr6RnHR7347Srif9n9KX2Bg=s128-c0x00000000-cc-rp-mo
+    publishTime: '2022-07-25T03:41:10.060153Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN1c3VDQWtnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN1c3VDQWtnRRAB!2m1!1s0x80dd4b02f061aba3:0xbe2dc832e5718dcd
+  - name: >-
+      places/ChIJo6th8AJL3YARzY1x5TLILb4/reviews/ChdDSUhNMG9nS0VJQ0FnSUN3LUo2eGdnRRAB
+    relativePublishTimeDescription: 6 years ago
+    rating: 5
+    text:
+      text: >-
+        This place is well hidden, not noticable from the road, but if you take
+        your time to venture behind the Big Tire, you will find Honda!
+
+        Deliciously prepared sushi with so-cal twist. It is fresh, it is tasty,
+        it is amazing!
+      languageCode: en
+    originalText:
+      text: >-
+        This place is well hidden, not noticable from the road, but if you take
+        your time to venture behind the Big Tire, you will find Honda!
+
+        Deliciously prepared sushi with so-cal twist. It is fresh, it is tasty,
+        it is amazing!
+      languageCode: en
+    authorAttribution:
+      displayName: Pavel Yankovich
+      uri: https://www.google.com/maps/contrib/115190945401788420776/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLstJtr0IMVLfJAlnlNBB3SvptnlklySwxPk1btca71er4vjw=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2018-06-11T02:31:28.220Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN3LUo2eGdnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN3LUo2eGdnRRAB!2m1!1s0x80dd4b02f061aba3:0xbe2dc832e5718dcd
+  - name: >-
+      places/ChIJo6th8AJL3YARzY1x5TLILb4/reviews/ChdDSUhNMG9nS0VJQ0FnSUM0MS0yUm9BRRAB
+    relativePublishTimeDescription: 5 years ago
+    rating: 1
+    text:
+      text: >-
+        3 rolls, 25+ mins. Came in 1 hour 10 mins before posted closing time. 25
+        mins later, a server tells us "the kitchen closes in 10 mins, do you
+        have any final orders?" we didnt even get our original order.
+
+
+        No ginger, no wasabi, no sauce plate provided.
+
+
+        Sloppy pepper tuna and whatever the hell was served to us as a spicy
+        yellowtail roll is the picture provided. Take a good look at that piece
+        in the bottom right corner. Literally just seaweed and rice. Really not
+        sure who thought that was acceptable to serve.
+
+
+        Taste wise, just average. Painfully slow service. Bar had a few patrons
+        but there were no other tables when we left.
+
+
+        Not sure what we did but it definitely wasnt worth $60.
+      languageCode: en
+    originalText:
+      text: >-
+        3 rolls, 25+ mins. Came in 1 hour 10 mins before posted closing time. 25
+        mins later, a server tells us "the kitchen closes in 10 mins, do you
+        have any final orders?" we didnt even get our original order.
+
+
+        No ginger, no wasabi, no sauce plate provided.
+
+
+        Sloppy pepper tuna and whatever the hell was served to us as a spicy
+        yellowtail roll is the picture provided. Take a good look at that piece
+        in the bottom right corner. Literally just seaweed and rice. Really not
+        sure who thought that was acceptable to serve.
+
+
+        Taste wise, just average. Painfully slow service. Bar had a few patrons
+        but there were no other tables when we left.
+
+
+        Not sure what we did but it definitely wasnt worth $60.
+      languageCode: en
+    authorAttribution:
+      displayName: V Villa
+      uri: https://www.google.com/maps/contrib/106816924910255462526/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjU96yC4YB9mdbfRTiZo3VAwnsSntcHf12x4ykirqrcDgd1a-MBH=s128-c0x00000000-cc-rp-mo
+    publishTime: '2019-06-12T05:21:09.897564Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUM0MS0yUm9BRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUM0MS0yUm9BRRAB!2m1!1s0x80dd4b02f061aba3:0xbe2dc832e5718dcd
+review_summary: >-
+  What Visitors Are Saying About This Spot$$$Folks who stop by often rave about
+  the fresh and tasty sushi rolls, with many highlighting the creative omakase
+  options and well-prepared classics like teriyaki and katsu for a solid dining
+  experience. The attentive service and variety of dishes make it a go-to choice
+  for anyone craving reliable Japanese flavors, especially if you're on the hunt
+  for sushi near me that's both affordable and enjoyable. While most feedback
+  points to delicious meals and a welcoming vibe, a few mention occasional waits
+  that could use some smoothing out during busier times. Overall, it's clear
+  this place hits the mark for casual diners seeking quality without the fuss,
+  earning it high marks as one of the best sushi restaurants in the area. If
+  you're in the mood for something hearty and authentic, it's worth checking out
+  for a satisfying bite.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
 menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
 serves_cocktails: null
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Large padded booths set apart this straightforward eatery serving sushi,
+  sashimi & bento.
 
 ---

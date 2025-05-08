@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Pho V Noodle House & Sushi"
+title: Pho V Noodle House & Sushi
 permalink: /texas/bedford/pho-v-noodle-house-sushi.html
 stateAbbr: TX
 stateName: Texas
 cityName: Bedford
 seo:
-  name: "Pho V Noodle House & Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.phovnoodlehouse.com/
-description: "Pho V Noodle House & Sushi serves delicious sushi in Bedford, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJMRtG7qt_ToYRbI4f1Rx4Sv4
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x864e7fabee461b31:0xfe4a781cd51f8e6c!10e5
 primary_type: Vietnamese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 10
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 10
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 10
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 10
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 10
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 10
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 10
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 10:30 AM – 9:00 PM'
     - 'Tuesday: 10:30 AM – 9:00 PM'
     - 'Wednesday: 10:30 AM – 9:00 PM'
@@ -178,54 +234,317 @@ opening_hours:
     - 'Friday: 10:30 AM – 10:00 PM'
     - 'Saturday: 10:30 AM – 10:00 PM'
     - 'Sunday: 10:30 AM – 9:00 PM'
-  current:
-    - 'Monday: 10:30 AM – 9:00 PM'
-    - 'Tuesday: 10:30 AM – 9:00 PM'
-    - 'Wednesday: 10:30 AM – 9:00 PM'
-    - 'Thursday: 10:30 AM – 9:00 PM'
-    - 'Friday: 10:30 AM – 10:00 PM'
-    - 'Saturday: 10:30 AM – 10:00 PM'
-    - 'Sunday: 10:30 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: false
+    periods:
+      - open:
+          day: 1
+          hour: 15
+          minute: 0
+        close:
+          day: 1
+          hour: 17
+          minute: 30
+      - open:
+          day: 2
+          hour: 15
+          minute: 0
+        close:
+          day: 2
+          hour: 17
+          minute: 30
+      - open:
+          day: 3
+          hour: 15
+          minute: 0
+        close:
+          day: 3
+          hour: 17
+          minute: 30
+      - open:
+          day: 4
+          hour: 15
+          minute: 0
+        close:
+          day: 4
+          hour: 17
+          minute: 30
+      - open:
+          day: 5
+          hour: 15
+          minute: 0
+        close:
+          day: 5
+          hour: 17
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 3:00 – 5:30 PM'
+      - 'Tuesday: 3:00 – 5:30 PM'
+      - 'Wednesday: 3:00 – 5:30 PM'
+      - 'Thursday: 3:00 – 5:30 PM'
+      - 'Friday: 3:00 – 5:30 PM'
+      - 'Saturday: Closed'
+      - 'Sunday: Closed'
+    secondaryHoursType: HAPPY_HOUR
+    nextOpenTime: '2025-05-05T20:00:00Z'
 phone: (817) 864-0222
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.5'
-rating_count: 0
+rating_count: 2452
 website: https://www.phovnoodlehouse.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Pho V Noodle House & Sushi in Bedford, TX$$$In Bedford, TX, Pho V
+  Noodle House & Sushi stands out as a welcoming spot for authentic Vietnamese
+  flavors combined with fresh sushi options, making it a go-to choice for those
+  searching for sushi restaurants nearby. This easygoing eatery serves up
+  classic dishes like flavorful pho, spring rolls, and hearty curries, alongside
+  a variety of vegan and vegetarian choices that cater to diverse tastes. With
+  generous portions and a menu that includes popular items such as sushi rolls,
+  it's designed for those looking for satisfying meals in a casual setting. The
+  restaurant also features accessibility options like wheelchair-friendly
+  entrances and parking, ensuring a comfortable visit for everyone.
+  Additionally, its full bar, coffee, and boba teas add to the appeal for anyone
+  craving a complete dining experience.
+generative_summary: >-
+  Discover Pho V Noodle House & Sushi in Bedford, TX$$$In Bedford, TX, Pho V
+  Noodle House & Sushi stands out as a welcoming spot for authentic Vietnamese
+  flavors combined with fresh sushi options, making it a go-to choice for those
+  searching for sushi restaurants nearby. This easygoing eatery serves up
+  classic dishes like flavorful pho, spring rolls, and hearty curries, alongside
+  a variety of vegan and vegetarian choices that cater to diverse tastes. With
+  generous portions and a menu that includes popular items such as sushi rolls,
+  it's designed for those looking for satisfying meals in a casual setting. The
+  restaurant also features accessibility options like wheelchair-friendly
+  entrances and parking, ensuring a comfortable visit for everyone.
+  Additionally, its full bar, coffee, and boba teas add to the appeal for anyone
+  craving a complete dining experience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJMRtG7qt_ToYRbI4f1Rx4Sv4/reviews/ChZDSUhNMG9nS0VJQ0FnSUNQamRqU1JREAE
+    relativePublishTimeDescription: 5 months ago
+    rating: 3
+    text:
+      text: >-
+        The atmosphere was not the best. It's very aged, and the building has
+        strong, not-so-pleasant smells. The selection of food was limited. The
+        items we ordered did taste ok, but not great. Not alot of protein in the
+        pho. The location is convenient, right next to the highway.
+      languageCode: en
+    originalText:
+      text: >-
+        The atmosphere was not the best. It's very aged, and the building has
+        strong, not-so-pleasant smells. The selection of food was limited. The
+        items we ordered did taste ok, but not great. Not alot of protein in the
+        pho. The location is convenient, right next to the highway.
+      languageCode: en
+    authorAttribution:
+      displayName: CJ
+      uri: https://www.google.com/maps/contrib/113494199833281456330/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVSCrEuq0_2EWFPtivkh-ClxAmnUMqVeVsqFveIWJ9A-ENyUDOj=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-11-26T19:54:17.907785Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNQamRqU1JREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNQamRqU1JREAE!2m1!1s0x864e7fabee461b31:0xfe4a781cd51f8e6c
+  - name: >-
+      places/ChIJMRtG7qt_ToYRbI4f1Rx4Sv4/reviews/ChdDSUhNMG9nS0VJQ0FnSUR2MnQyajFnRRAB
+    relativePublishTimeDescription: 4 months ago
+    rating: 1
+    text:
+      text: >-
+        This Pho restaurant used to be my favorite spot. I live in Mansfield,
+        and I would always make the drive because I absolutely loved their broth
+        – it had this amazing coconut flavor that made it the best Pho I’d ever
+        had. Unfortunately, after my most recent visit, I won’t be coming back.
+        While enjoying my shrimp Pho, I noticed something brown floating on top.
+        When I flipped it over with my spoon, I was horrified to discover it was
+        a roach. I had already eaten half of my Pho, and I was incredibly
+        disappointed and disgusted. I can’t return after that experience.
+      languageCode: en
+    originalText:
+      text: >-
+        This Pho restaurant used to be my favorite spot. I live in Mansfield,
+        and I would always make the drive because I absolutely loved their broth
+        – it had this amazing coconut flavor that made it the best Pho I’d ever
+        had. Unfortunately, after my most recent visit, I won’t be coming back.
+        While enjoying my shrimp Pho, I noticed something brown floating on top.
+        When I flipped it over with my spoon, I was horrified to discover it was
+        a roach. I had already eaten half of my Pho, and I was incredibly
+        disappointed and disgusted. I can’t return after that experience.
+      languageCode: en
+    authorAttribution:
+      displayName: Dallas Cooper
+      uri: https://www.google.com/maps/contrib/105798480799109864043/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocL98OSKDb2P6NsqiGI_4vPMJv8CA5u1nLwBLYY3FNCMPObHvg=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-12-19T18:49:55.627568Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR2MnQyajFnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR2MnQyajFnRRAB!2m1!1s0x864e7fabee461b31:0xfe4a781cd51f8e6c
+  - name: >-
+      places/ChIJMRtG7qt_ToYRbI4f1Rx4Sv4/reviews/ChdDSUhNMG9nS0VJQ0FnSUNmaGJDQmtBRRAB
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        The food was so good, I had lunch with my sister and we were both
+        impressed with the food!!! I had the small beef pho and my daughter had
+        the shrimp spring rolls. I didn’t take a picture of my pho because I
+        scarfed it down, it was that good! My daughter is young and doesn’t know
+        how to use chop sticks and they have kids chop sticks! I loved how
+        ingenious their kids chopsticks are. I will come back with my family so
+        they can taste the delicious food.
+      languageCode: en
+    originalText:
+      text: >-
+        The food was so good, I had lunch with my sister and we were both
+        impressed with the food!!! I had the small beef pho and my daughter had
+        the shrimp spring rolls. I didn’t take a picture of my pho because I
+        scarfed it down, it was that good! My daughter is young and doesn’t know
+        how to use chop sticks and they have kids chop sticks! I loved how
+        ingenious their kids chopsticks are. I will come back with my family so
+        they can taste the delicious food.
+      languageCode: en
+    authorAttribution:
+      displayName: Yesenia Barboza
+      uri: https://www.google.com/maps/contrib/111600961389276936213/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWpHYz1hMh__Q_vMIimYkEnHJa00W3y9LsJAf5vIVJhnGIlFyS4=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-12-30T20:44:09.347349Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNmaGJDQmtBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNmaGJDQmtBRRAB!2m1!1s0x864e7fabee461b31:0xfe4a781cd51f8e6c
+  - name: >-
+      places/ChIJMRtG7qt_ToYRbI4f1Rx4Sv4/reviews/ChZDSUhNMG9nS0VJQ0FnSUQzNTZUbUp3EAE
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        Was craving some good Pho and went over to this place as it was the
+        nearest one from where I live.  And trust me the food here didn’t
+        disappoint. We ordered Veg Tempura Roll, Veg Pho and Veg fried rice.
+        Since it was-not mentioned on the menu, we didn’t have any idea that
+        their fried rice comes with egg. They were kind enough to exchange it
+        later on. The taste overall of every food was top notch. The broth of
+        Veg pho was very good surprisingly.
+
+        I would definitely recommend this place to anyone looking for a good pho
+        and sushi place. ❤️
+      languageCode: en
+    originalText:
+      text: >-
+        Was craving some good Pho and went over to this place as it was the
+        nearest one from where I live.  And trust me the food here didn’t
+        disappoint. We ordered Veg Tempura Roll, Veg Pho and Veg fried rice.
+        Since it was-not mentioned on the menu, we didn’t have any idea that
+        their fried rice comes with egg. They were kind enough to exchange it
+        later on. The taste overall of every food was top notch. The broth of
+        Veg pho was very good surprisingly.
+
+        I would definitely recommend this place to anyone looking for a good pho
+        and sushi place. ❤️
+      languageCode: en
+    authorAttribution:
+      displayName: Anjali Khanal
+      uri: https://www.google.com/maps/contrib/106293862970040007773/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXT9TU_TDRqFDFb1Mjj7fFjfu53KzHSvqdw5e_HequB79p9SMxt=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-11-19T17:11:03.516104Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQzNTZUbUp3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQzNTZUbUp3EAE!2m1!1s0x864e7fabee461b31:0xfe4a781cd51f8e6c
+  - name: >-
+      places/ChIJMRtG7qt_ToYRbI4f1Rx4Sv4/reviews/ChZDSUhNMG9nS0VJQ0FnSUMzMDdMLVpREAE
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        Visited this place after a coworker's suggestion. This is easily one of
+        my top places for pho. Do yourself a favor and ask for the spicy beef
+        broth instead of the regular broth.....GAME CHANGER. The meat didn't
+        have tons of fat and was flavorful. Generous amount of noodles. I got
+        the medium and barely finished it.  My co-workers both got something
+        different and they were also pleased. Tempura shrimp sushi was good for
+        an appetizer.
+      languageCode: en
+    originalText:
+      text: >-
+        Visited this place after a coworker's suggestion. This is easily one of
+        my top places for pho. Do yourself a favor and ask for the spicy beef
+        broth instead of the regular broth.....GAME CHANGER. The meat didn't
+        have tons of fat and was flavorful. Generous amount of noodles. I got
+        the medium and barely finished it.  My co-workers both got something
+        different and they were also pleased. Tempura shrimp sushi was good for
+        an appetizer.
+      languageCode: en
+    authorAttribution:
+      displayName: Mauricio Castro
+      uri: https://www.google.com/maps/contrib/110180129104762621358/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjU8UThF8_mPX3_TAXBwmuC4oBdPv3v9-6DxLftgXe4uEzTfc7vSMA=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-11-08T22:30:41.121330Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUMzMDdMLVpREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUMzMDdMLVpREAE!2m1!1s0x864e7fabee461b31:0xfe4a781cd51f8e6c
+review_summary: >-
+  Insights from Recent Reviews$$$Visitors to this Vietnamese and sushi spot
+  often rave about the delicious pho and fresh spring rolls, highlighting the
+  generous portions and flavorful broths that make meals feel satisfying and
+  authentic. While most folks appreciate the friendly service and accommodating
+  staff who handle requests with ease, a few have mentioned occasional
+  inconsistencies in the atmosphere or food quality that could use some tweaks.
+  Overall, the sushi selections stand out as a crowd-pleaser, with many enjoying
+  the variety and taste that keep them coming back for more. It's clear that the
+  fresh ingredients and hearty dishes create a positive vibe, though experiences
+  can vary, making it worth trying for anyone exploring top-rated sushi places
+  nearby. If you're in the mood for comforting Vietnamese fare with a sushi
+  twist, this location delivers solid options that generally leave diners
+  smiling.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  paidStreetParking: false
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+curbside_pickup: true
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: true
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
+serves_coffee: true
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Simple, casual restaurant with a no-frills interior serving standard
+  Vietnamese cuisine.
 
 ---

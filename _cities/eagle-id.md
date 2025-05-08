@@ -5,4 +5,5 @@ permalink: /idaho/eagle/
 stateAbbr: ID
 stateName: Idaho
 cityName: Eagle
+
 ---

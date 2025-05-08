@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi One"
+title: Sushi One
 permalink: /colorado/greeley/sushi-one.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Greeley
 seo:
-  name: "Sushi One"
-  type: Restaurant
+  type: restaurant
   links: http://www.sushi1.net/
-description: "Sushi One serves delicious sushi in Greeley, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJLz4kffqjbocRXmreQsKrUow
 photos:
   - name: >-
@@ -170,7 +168,97 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x876ea3fa7d243e2f:0x8c52abc242de6a5e!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 20
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 20
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 20
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 20
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 20
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 2:30 PM, 4:30 – 8:30 PM'
     - 'Tuesday: 11:00 AM – 2:30 PM, 4:30 – 8:30 PM'
     - 'Wednesday: 11:00 AM – 2:30 PM, 4:30 – 8:30 PM'
@@ -178,14 +266,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:30 PM'
     - 'Saturday: 11:30 AM – 9:30 PM'
     - 'Sunday: 11:30 AM – 8:30 PM'
-  current:
-    - 'Monday: 11:00 AM – 2:30 PM, 4:30 – 8:30 PM'
-    - 'Tuesday: 11:00 AM – 2:30 PM, 4:30 – 8:30 PM'
-    - 'Wednesday: 11:00 AM – 2:30 PM, 4:30 – 8:30 PM'
-    - 'Thursday: 11:00 AM – 2:30 PM, 4:30 – 8:30 PM'
-    - 'Friday: 11:00 AM – 9:30 PM'
-    - 'Saturday: 11:30 AM – 9:30 PM'
-    - 'Sunday: 11:30 AM – 8:30 PM'
+  nextCloseTime: '2025-05-04T03:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +278,242 @@ phone: (970) 515-5865
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.5'
-rating_count: 0
+rating_count: 1017
 website: http://www.sushi1.net/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Sushi One in Greeley, CO$$$Sushi One in Greeley, CO, stands out as a
+  casual dining destination ideal for enjoying fresh Japanese flavors in a
+  welcoming setting. The menu boasts an array of rolls, bento boxes, udon, and
+  tempura, appealing to those searching for reliable sushi restaurants nearby.
+  With features like wheelchair-accessible entrances and outdoor seating, it
+  caters to a variety of diners looking for convenience and comfort. Operating
+  hours span lunch and dinner times, making it easy to drop in for a satisfying
+  meal. This spot offers a relaxed atmosphere for anyone exploring top-rated
+  sushi options close to home.
+generative_summary: >-
+  Discover Sushi One in Greeley, CO$$$Sushi One in Greeley, CO, stands out as a
+  casual dining destination ideal for enjoying fresh Japanese flavors in a
+  welcoming setting. The menu boasts an array of rolls, bento boxes, udon, and
+  tempura, appealing to those searching for reliable sushi restaurants nearby.
+  With features like wheelchair-accessible entrances and outdoor seating, it
+  caters to a variety of diners looking for convenience and comfort. Operating
+  hours span lunch and dinner times, making it easy to drop in for a satisfying
+  meal. This spot offers a relaxed atmosphere for anyone exploring top-rated
+  sushi options close to home.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJLz4kffqjbocRXmreQsKrUow/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJa2RqaDRBRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        The food is always top-notch, but what really makes it special is the
+        amazing service—the staff is always so warm and welcoming.
+
+        I grew up coming here with my parents, and now my own kids beg to go,
+        just like I used to. I’ve had sushi in so many places, but for me, Sushi
+        1 is hands down the best.
+
+        This time, I tried their new Ramen, and once again, it blew me away.
+        Huge thanks to Sushi 1 for always being incredible!
+      languageCode: en
+    originalText:
+      text: >-
+        The food is always top-notch, but what really makes it special is the
+        amazing service—the staff is always so warm and welcoming.
+
+        I grew up coming here with my parents, and now my own kids beg to go,
+        just like I used to. I’ve had sushi in so many places, but for me, Sushi
+        1 is hands down the best.
+
+        This time, I tried their new Ramen, and once again, it blew me away.
+        Huge thanks to Sushi 1 for always being incredible!
+      languageCode: en
+    authorAttribution:
+      displayName: Melissa
+      uri: https://www.google.com/maps/contrib/103638874677724513796/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUfG8LPlOtiUKlN2zUOyWuaqx29WkJHecLKxMRlkoTeQaIMJ5qj0Q=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-02T18:23:53.844695Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNJa2RqaDRBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNJa2RqaDRBRRAB!2m1!1s0x876ea3fa7d243e2f:0x8c52abc242de6a5e
+  - name: >-
+      places/ChIJLz4kffqjbocRXmreQsKrUow/reviews/ChdDSUhNMG9nS0VJQ0FnTURJak1yV2pBRRAB
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 5
+    text:
+      text: >-
+        I just recently moved here from Texas and I have finally found a great
+        sushi place. It’s nice and cozy inside, I love sitting at the sushi bar
+        and talking to Annie while she makes sushi. Annie is such a sweetheart,
+        I will come sit at the sushi bar just to talk to her.
+
+
+        Ann Marie is a great server, very friendly and helpful!! I have an
+        allergy to sesame and she makes sure to double check my order and make
+        sure it  is spot on every time!
+
+
+        I always have to get the Superman burrito with extra sauce when I come
+        in. Next time you come in check out the specials they have, you cant
+        find a better deal!! 🍣🍱
+      languageCode: en
+    originalText:
+      text: >-
+        I just recently moved here from Texas and I have finally found a great
+        sushi place. It’s nice and cozy inside, I love sitting at the sushi bar
+        and talking to Annie while she makes sushi. Annie is such a sweetheart,
+        I will come sit at the sushi bar just to talk to her.
+
+
+        Ann Marie is a great server, very friendly and helpful!! I have an
+        allergy to sesame and she makes sure to double check my order and make
+        sure it  is spot on every time!
+
+
+        I always have to get the Superman burrito with extra sauce when I come
+        in. Next time you come in check out the specials they have, you cant
+        find a better deal!! 🍣🍱
+      languageCode: en
+    authorAttribution:
+      displayName: lauren shodrock
+      uri: https://www.google.com/maps/contrib/113958247958424981579/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJ494q2Hq8sNA9Rrzu53yyB7cauu0Li17VI89mrtdLd44-Rrg=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-07T18:34:54.067597Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJak1yV2pBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJak1yV2pBRRAB!2m1!1s0x876ea3fa7d243e2f:0x8c52abc242de6a5e
+  - name: >-
+      places/ChIJLz4kffqjbocRXmreQsKrUow/reviews/ChZDSUhNMG9nS0VJQ0FnTUNvemFMTUVnEAE
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        This place was really nice and our waiter Sierra was top tier amazing
+        and so helpful! Her attitude was so crazy positive. She was so excited
+        to be helping every table she had, even on a busy friday night.
+        Definitely coming back to have her serve us.
+      languageCode: en
+    originalText:
+      text: >-
+        This place was really nice and our waiter Sierra was top tier amazing
+        and so helpful! Her attitude was so crazy positive. She was so excited
+        to be helping every table she had, even on a busy friday night.
+        Definitely coming back to have her serve us.
+      languageCode: en
+    authorAttribution:
+      displayName: hay oliva
+      uri: https://www.google.com/maps/contrib/106104219433880905536/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJF4MGrtd_fNoV9dgsaxSI8Xz2UHFfZTuD6PnJwB3-1C5R7JA=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-19T01:55:54.616752Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNvemFMTUVnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNvemFMTUVnEAE!2m1!1s0x876ea3fa7d243e2f:0x8c52abc242de6a5e
+  - name: >-
+      places/ChIJLz4kffqjbocRXmreQsKrUow/reviews/ChZDSUhNMG9nS0VJQ0FnTURvODczUUVREAE
+    relativePublishTimeDescription: in the last week
+    rating: 5
+    text:
+      text: >-
+        Amazing sushi and ramen! Employees are very sweet and attentive. The
+        food came out quick and they have great lunch specials. Always satisfied
+        coming here. 10/10 recommend!!
+      languageCode: en
+    originalText:
+      text: >-
+        Amazing sushi and ramen! Employees are very sweet and attentive. The
+        food came out quick and they have great lunch specials. Always satisfied
+        coming here. 10/10 recommend!!
+      languageCode: en
+    authorAttribution:
+      displayName: Savana Griego
+      uri: https://www.google.com/maps/contrib/116663745979080451922/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjW8_ygaqha8PcsbwhW8Vpm0iPJ3i5L6Yu8RznMVsMpHRuLEepg=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-28T19:08:29.292288Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURvODczUUVREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURvODczUUVREAE!2m1!1s0x876ea3fa7d243e2f:0x8c52abc242de6a5e
+  - name: >-
+      places/ChIJLz4kffqjbocRXmreQsKrUow/reviews/ChdDSUhNMG9nS0VJQ0FnTUNvemMzNXpnRRAB
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        Sierra was amazing. She was so patient with our child and made sure we
+        got what we ordered! She was knowledgeable about the menu as well and
+        helpful. The food was delicious and we will definitely be back.
+      languageCode: en
+    originalText:
+      text: >-
+        Sierra was amazing. She was so patient with our child and made sure we
+        got what we ordered! She was knowledgeable about the menu as well and
+        helpful. The food was delicious and we will definitely be back.
+      languageCode: en
+    authorAttribution:
+      displayName: Alexus Rink
+      uri: https://www.google.com/maps/contrib/116097274455648219483/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJNwBW_-nWPm8rXXhU6pzLtGgmOdUR8zTdy3q_Kg9ouRCV5nw=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-19T02:27:10.848482Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNvemMzNXpnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNvemMzNXpnRRAB!2m1!1s0x876ea3fa7d243e2f:0x8c52abc242de6a5e
+review_summary: >-
+  What Customers Are Saying About This Sushi Spot$$$Folks frequently rave about
+  the fresh and flavorful sushi and ramen, highlighting how it consistently hits
+  the mark for quality and taste. Service is often described as friendly and
+  attentive, adding a warm touch to the overall vibe that keeps people coming
+  back. Many appreciate the great deals on lunch specials and the cozy
+  environment, making it a solid choice for casual outings or groups. Overall,
+  it's seen as a reliable pick for those seeking value and variety in their
+  meals. If you're on the hunt for top-rated sushi nearby, this place seems to
+  deliver a consistently positive experience that leaves diners satisfied.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+curbside_pickup: false
+delivery: false
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: true
+live_music: false
+menu_for_children: true
+outdoor_seating: true
+reservable: false
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Strip-mall Japanese joint offering a variety of sushi rolls & sashimi, plus
+  grilled fare & sake.
 
 ---

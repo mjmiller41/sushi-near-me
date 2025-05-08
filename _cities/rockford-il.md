@@ -5,4 +5,5 @@ permalink: /illinois/rockford/
 stateAbbr: IL
 stateName: Illinois
 cityName: Rockford
+
 ---

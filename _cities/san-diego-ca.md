@@ -5,4 +5,5 @@ permalink: /california/san-diego/
 stateAbbr: CA
 stateName: California
 cityName: San Diego
+
 ---

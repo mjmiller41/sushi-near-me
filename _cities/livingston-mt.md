@@ -5,4 +5,5 @@ permalink: /montana/livingston/
 stateAbbr: MT
 stateName: Montana
 cityName: Livingston
+
 ---

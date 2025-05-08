@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Oasis Bay Sushi + Seafood Buffet"
+title: Oasis Bay Sushi + Seafood Buffet
 permalink: /arizona/chandler/oasis-bay-sushi-seafood-buffet.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Chandler
 seo:
-  name: "Oasis Bay Sushi + Seafood Buffet"
-  type: Restaurant
+  type: restaurant
   links: https://oasisbaybuffet.com/
-description: "Oasis Bay Sushi + Seafood Buffet serves delicious sushi in Chandler, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJd73CsQ6rK4cRdhThGVoUUvE
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x872bab0eb1c2bd77:0xf152145a19e11476!10e5
 primary_type: Seafood Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:30 PM'
     - 'Tuesday: 11:00 AM – 9:30 PM'
     - 'Wednesday: 11:00 AM – 9:30 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:00 PM'
     - 'Saturday: 11:00 AM – 9:30 PM'
     - 'Sunday: 11:00 AM – 10:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:30 PM'
-    - 'Tuesday: 11:00 AM – 9:30 PM'
-    - 'Wednesday: 11:00 AM – 9:30 PM'
-    - 'Thursday: 11:00 AM – 9:30 PM'
-    - 'Friday: 11:00 AM – 10:00 PM'
-    - 'Saturday: 11:00 AM – 9:30 PM'
-    - 'Sunday: 11:00 AM – 10:00 PM'
+  nextCloseTime: '2025-05-04T04:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +246,50 @@ phone: (480) 812-3888
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.0'
-rating_count: 0
+rating_count: 2006
 website: https://oasisbaybuffet.com/
+description: >-
+  Discover Oasis Bay Sushi + Seafood Buffet in Chandler, AZ$$$Oasis Bay Sushi +
+  Seafood Buffet in Chandler, AZ, stands out as a welcoming spot for those
+  craving fresh seafood and diverse dining options in a relaxed setting. This
+  all-you-can-eat buffet features an array of dishes, from succulent seafood
+  selections to flavorful Japanese-inspired choices, making it a go-to
+  destination for anyone exploring sushi restaurants nearby. The casual
+  atmosphere is enhanced by thoughtful accessibility features, ensuring a
+  comfortable visit for all guests, while its moderate pricing adds to the
+  appeal for everyday diners. With extended hours throughout the week, it's easy
+  to drop in and enjoy a satisfying meal that highlights the best of coastal and
+  Asian flavors, perfect for those seeking top-rated sushi experiences close to
+  home.
+generative_summary: >-
+  Discover Oasis Bay Sushi + Seafood Buffet in Chandler, AZ$$$Oasis Bay Sushi +
+  Seafood Buffet in Chandler, AZ, stands out as a welcoming spot for those
+  craving fresh seafood and diverse dining options in a relaxed setting. This
+  all-you-can-eat buffet features an array of dishes, from succulent seafood
+  selections to flavorful Japanese-inspired choices, making it a go-to
+  destination for anyone exploring sushi restaurants nearby. The casual
+  atmosphere is enhanced by thoughtful accessibility features, ensuring a
+  comfortable visit for all guests, while its moderate pricing adds to the
+  appeal for everyday diners. With extended hours throughout the week, it's easy
+  to drop in and enjoy a satisfying meal that highlights the best of coastal and
+  Asian flavors, perfect for those seeking top-rated sushi experiences close to
+  home.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About This Seafood Spot$$$Visitors to this sushi and
+  seafood buffet often rave about the impressive variety of dishes, including
+  fresh options like crab legs, oysters, and well-prepared sushi that keep
+  things exciting and flavorful. Many appreciate the friendly service and
+  reasonable prices, which make it a solid choice for casual family outings or
+  group gatherings without breaking the bank. The clean environment adds to the
+  overall enjoyment, creating a welcoming vibe that encourages repeat visits.
+  While some folks note that certain items can occasionally be on the cooler
+  side, it doesn't overshadow the general satisfaction with the quality and
+  abundance on offer. Overall, it's a dependable spot for a hearty meal that
+  delivers good value and a positive dining experience for sushi enthusiasts in
+  the area.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +315,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

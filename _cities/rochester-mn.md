@@ -5,4 +5,5 @@ permalink: /minnesota/rochester/
 stateAbbr: MN
 stateName: Minnesota
 cityName: Rochester
+
 ---

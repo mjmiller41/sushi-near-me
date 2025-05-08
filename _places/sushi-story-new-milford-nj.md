@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "SUSHI STORY"
+title: SUSHI STORY
 permalink: /new-jersey/new-milford/sushi-story.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: New Milford
 seo:
-  name: "SUSHI STORY"
-  type: Restaurant
+  type: restaurant
   links: https://www.sushistorynj.com/
-description: "SUSHI STORY serves delicious sushi in New Milford, New Jersey. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJU2q02DvxwokRyJvMevmVwqc
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $20 &ndash; $30
 rating: '4.8'
 rating_count: 0
 website: https://www.sushistorynj.com/
+description: >-
+  Discover SUSHI STORY in New Milford, NJ$$$Nestled in the heart of New Milford,
+  NJ, SUSHI STORY stands out as a welcoming spot for fresh Japanese cuisine
+  enthusiasts. This casual eatery delights with creative sushi rolls, flavorful
+  teriyaki dishes, and other authentic Japanese favorites, making it a go-to
+  choice for anyone searching for sushi restaurants nearby. The menu also
+  features satisfying options like ice cream to round out your meal, adding a
+  fun twist to traditional dining. With its accessible features and cozy vibe,
+  it's an ideal destination for those craving top-rated sushi experiences close
+  to home. Whether you're looking for a quick bite or a relaxed evening, this
+  spot combines quality ingredients with a simple yet inviting atmosphere.
+generative_summary: >-
+  Discover SUSHI STORY in New Milford, NJ$$$Nestled in the heart of New Milford,
+  NJ, SUSHI STORY stands out as a welcoming spot for fresh Japanese cuisine
+  enthusiasts. This casual eatery delights with creative sushi rolls, flavorful
+  teriyaki dishes, and other authentic Japanese favorites, making it a go-to
+  choice for anyone searching for sushi restaurants nearby. The menu also
+  features satisfying options like ice cream to round out your meal, adding a
+  fun twist to traditional dining. With its accessible features and cozy vibe,
+  it's an ideal destination for those craving top-rated sushi experiences close
+  to home. Whether you're looking for a quick bite or a relaxed evening, this
+  spot combines quality ingredients with a simple yet inviting atmosphere.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJU2q02DvxwokRyJvMevmVwqc/reviews/ChZDSUhNMG9nS0VJQ0FnSURQdXUtYlFREAE
@@ -368,6 +389,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNJaU1xVFdREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNJaU1xVFdREAE!2m1!1s0x89c2f13bd8b46a53:0xa7c295f97acc9bc8
+review_summary: >-
+  What Customers Love About This Sushi Spot$$$Visitors often rave about the
+  fresh and flavorful sushi selections, with many highlighting the amazing
+  sashimi and seared options that deliver a perfect balance of taste and
+  presentation. The service stands out as friendly and efficient, helping to
+  create a cozy, welcoming environment that makes every meal feel special. Folks
+  appreciate how quickly dishes arrive, even during busy times, allowing for
+  enjoyable dinners without long waits. Overall, it's praised as a reliable
+  local choice for families and groups seeking the best sushi near me, with the
+  added bonus of generous portions and a positive vibe. If you're in the area
+  and love sushi, this place offers a solid experience that's worth trying for
+  its consistent quality and approachable style.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -399,7 +433,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

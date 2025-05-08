@@ -5,4 +5,5 @@ permalink: /pennsylvania/malvern/
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Malvern
+
 ---

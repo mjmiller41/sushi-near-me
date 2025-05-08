@@ -5,4 +5,5 @@ permalink: /wisconsin/milwaukee/
 stateAbbr: WI
 stateName: Wisconsin
 cityName: Milwaukee
+
 ---

@@ -5,4 +5,5 @@ permalink: /illinois/freeport/
 stateAbbr: IL
 stateName: Illinois
 cityName: Freeport
+
 ---

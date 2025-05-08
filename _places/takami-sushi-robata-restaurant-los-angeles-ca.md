@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Takami Sushi & Robata Restaurant"
+title: Takami Sushi & Robata Restaurant
 permalink: /california/los-angeles/takami-sushi-robata-restaurant.html
 stateAbbr: CA
 stateName: California
 cityName: Los Angeles
 seo:
-  name: "Takami Sushi & Robata Restaurant"
-  type: Restaurant
+  type: restaurant
   links: http://www.takamisushi.com/
-description: "Takami Sushi & Robata Restaurant serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJA7qR47PHwoARNmZh5luni-U
 photos:
   - name: >-
@@ -170,62 +168,534 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c2c7b3e391ba03:0xe58ba75be6616636!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
-    - 'Monday: 11:30 AM – 2:15 PM, 5:00 – 9:30 PM'
-    - 'Tuesday: 11:30 AM – 2:15 PM, 5:00 – 9:30 PM'
-    - 'Wednesday: 11:30 AM – 2:15 PM, 5:00 – 9:30 PM'
-    - 'Thursday: 11:30 AM – 2:15 PM, 5:00 – 9:30 PM'
-    - 'Friday: 11:30 AM – 2:15 PM, 5:00 – 10:30 PM'
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:30 AM – 2:30 PM, 5:00 – 9:30 PM'
+    - 'Tuesday: 11:30 AM – 2:30 PM, 5:00 – 9:30 PM'
+    - 'Wednesday: 11:30 AM – 2:30 PM, 5:00 – 9:30 PM'
+    - 'Thursday: 11:30 AM – 2:30 PM, 5:00 – 9:30 PM'
+    - 'Friday: 11:30 AM – 2:30 PM, 5:00 – 10:30 PM'
     - 'Saturday: 5:00 – 10:30 PM'
     - 'Sunday: 5:00 – 9:30 PM'
-  current:
-    - 'Monday: 11:30 AM – 2:15 PM, 5:00 – 9:30 PM'
-    - 'Tuesday: 11:30 AM – 2:15 PM, 5:00 – 9:30 PM'
-    - 'Wednesday: 11:30 AM – 2:15 PM, 5:00 – 9:30 PM'
-    - 'Thursday: 11:30 AM – 2:15 PM, 5:00 – 9:30 PM'
-    - 'Friday: 11:30 AM – 2:15 PM, 5:00 – 10:30 PM'
-    - 'Saturday: 5:00 – 10:30 PM'
-    - 'Sunday: 5:00 – 9:30 PM'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: false
+    periods:
+      - open:
+          day: 1
+          hour: 17
+          minute: 0
+        close:
+          day: 1
+          hour: 19
+          minute: 0
+      - open:
+          day: 2
+          hour: 17
+          minute: 0
+        close:
+          day: 2
+          hour: 19
+          minute: 0
+      - open:
+          day: 3
+          hour: 17
+          minute: 0
+        close:
+          day: 3
+          hour: 19
+          minute: 0
+      - open:
+          day: 4
+          hour: 17
+          minute: 0
+        close:
+          day: 4
+          hour: 19
+          minute: 0
+      - open:
+          day: 5
+          hour: 17
+          minute: 0
+        close:
+          day: 5
+          hour: 19
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 5:00 – 7:00 PM'
+      - 'Tuesday: 5:00 – 7:00 PM'
+      - 'Wednesday: 5:00 – 7:00 PM'
+      - 'Thursday: 5:00 – 7:00 PM'
+      - 'Friday: 5:00 – 7:00 PM'
+      - 'Saturday: Closed'
+      - 'Sunday: Closed'
+    secondaryHoursType: HAPPY_HOUR
+    nextOpenTime: '2025-05-06T00:00:00Z'
+  - openNow: false
+    periods:
+      - open:
+          day: 1
+          hour: 11
+          minute: 30
+        close:
+          day: 1
+          hour: 14
+          minute: 15
+      - open:
+          day: 2
+          hour: 11
+          minute: 30
+        close:
+          day: 2
+          hour: 14
+          minute: 15
+      - open:
+          day: 3
+          hour: 11
+          minute: 30
+        close:
+          day: 3
+          hour: 14
+          minute: 15
+      - open:
+          day: 4
+          hour: 11
+          minute: 30
+        close:
+          day: 4
+          hour: 14
+          minute: 15
+      - open:
+          day: 5
+          hour: 11
+          minute: 30
+        close:
+          day: 5
+          hour: 14
+          minute: 15
+    weekdayDescriptions:
+      - 'Monday: 11:30 AM – 2:15 PM'
+      - 'Tuesday: 11:30 AM – 2:15 PM'
+      - 'Wednesday: 11:30 AM – 2:15 PM'
+      - 'Thursday: 11:30 AM – 2:15 PM'
+      - 'Friday: 11:30 AM – 2:15 PM'
+      - 'Saturday: Closed'
+      - 'Sunday: Closed'
+    secondaryHoursType: LUNCH
+    nextOpenTime: '2025-05-05T18:30:00Z'
+  - openNow: false
+    periods:
+      - open:
+          day: 0
+          hour: 17
+          minute: 0
+        close:
+          day: 0
+          hour: 21
+          minute: 30
+      - open:
+          day: 1
+          hour: 17
+          minute: 0
+        close:
+          day: 1
+          hour: 21
+          minute: 30
+      - open:
+          day: 2
+          hour: 17
+          minute: 0
+        close:
+          day: 2
+          hour: 21
+          minute: 30
+      - open:
+          day: 3
+          hour: 17
+          minute: 0
+        close:
+          day: 3
+          hour: 21
+          minute: 30
+      - open:
+          day: 4
+          hour: 17
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 30
+      - open:
+          day: 5
+          hour: 17
+          minute: 0
+        close:
+          day: 5
+          hour: 22
+          minute: 30
+      - open:
+          day: 6
+          hour: 17
+          minute: 0
+        close:
+          day: 6
+          hour: 22
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 5:00 – 9:30 PM'
+      - 'Tuesday: 5:00 – 9:30 PM'
+      - 'Wednesday: 5:00 – 9:30 PM'
+      - 'Thursday: 5:00 – 9:30 PM'
+      - 'Friday: 5:00 – 10:30 PM'
+      - 'Saturday: 5:00 – 10:30 PM'
+      - 'Sunday: 5:00 – 9:30 PM'
+    secondaryHoursType: DINNER
+    nextOpenTime: '2025-05-04T00:00:00Z'
 phone: (213) 236-9600
 price_level: PRICE_LEVEL_EXPENSIVE
 price_range: $50 &ndash; $100
 rating: '4.4'
-rating_count: 0
+rating_count: 1071
 website: http://www.takamisushi.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Takami Sushi & Robata in Los Angeles, CA$$$Takami Sushi & Robata
+  Restaurant in Los Angeles, CA, delivers an upscale dining adventure on a
+  rooftop with breathtaking city views and a menu blending fresh Japanese
+  flavors. This spot specializes in artfully prepared sushi rolls,
+  robata-grilled skewers, and creative entrees, all paired with a full bar
+  offering craft cocktails and sake selections. The elegant outdoor seating and
+  accessible features make it a go-to choice for enjoying top sushi restaurants
+  in a vibrant urban setting. Whether you're seeking sushi places near me for a
+  special night out or simply exploring Japanese-inspired dishes, the
+  combination of quality ingredients and panoramic downtown sights creates an
+  inviting atmosphere. Its location in the heart of the city ensures it's a
+  standout option for those hunting local sushi spots with a touch of
+  sophistication.
+generative_summary: >-
+  Discover Takami Sushi & Robata in Los Angeles, CA$$$Takami Sushi & Robata
+  Restaurant in Los Angeles, CA, delivers an upscale dining adventure on a
+  rooftop with breathtaking city views and a menu blending fresh Japanese
+  flavors. This spot specializes in artfully prepared sushi rolls,
+  robata-grilled skewers, and creative entrees, all paired with a full bar
+  offering craft cocktails and sake selections. The elegant outdoor seating and
+  accessible features make it a go-to choice for enjoying top sushi restaurants
+  in a vibrant urban setting. Whether you're seeking sushi places near me for a
+  special night out or simply exploring Japanese-inspired dishes, the
+  combination of quality ingredients and panoramic downtown sights creates an
+  inviting atmosphere. Its location in the heart of the city ensures it's a
+  standout option for those hunting local sushi spots with a touch of
+  sophistication.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJA7qR47PHwoARNmZh5luni-U/reviews/ChdDSUhNMG9nS0VJQ0FnSUR2aktDWnp3RRAB
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        Takami is one of our favorite place to go for sushi 🍣 and cocktails. 🍸
+        Been here for many times and been going here for over 8 yrs now. They
+        have  great service and their bartenders are amazing. We had our company
+        holiday luncheon and the event director was really a wonderful guy. Our
+        server and bar tender Cole was super nice 👍🏻
+
+        I always recommend this place. By the way, nice venue too. Great place
+        for any celebrations 👍🏻
+      languageCode: en
+    originalText:
+      text: >-
+        Takami is one of our favorite place to go for sushi 🍣 and cocktails. 🍸
+        Been here for many times and been going here for over 8 yrs now. They
+        have  great service and their bartenders are amazing. We had our company
+        holiday luncheon and the event director was really a wonderful guy. Our
+        server and bar tender Cole was super nice 👍🏻
+
+        I always recommend this place. By the way, nice venue too. Great place
+        for any celebrations 👍🏻
+      languageCode: en
+    authorAttribution:
+      displayName: R. D.
+      uri: https://www.google.com/maps/contrib/110021613026994700926/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVH6sg5Nlm54JivDt0xwR8PABQjmtgzZZQieTUbmdyLXl3EjGly=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-12-18T05:19:14.680593Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR2aktDWnp3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR2aktDWnp3RRAB!2m1!1s0x80c2c7b3e391ba03:0xe58ba75be6616636
+  - name: >-
+      places/ChIJA7qR47PHwoARNmZh5luni-U/reviews/ChZDSUhNMG9nS0VJQ0FnSUNmcnVYREFREAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        Incredible views of DTLA, open air, yet covered, excellent, and
+        extensive menu. There are tons of cold sake to choose from, special
+        rolls, classic rolls, and fun appetizers. Also, they have a plentiful
+        dessert menu. Service was fast and friendly. Ambiance at dinner was very
+        romantic and dimly lit. Wonderful location and quality.
+      languageCode: en
+    originalText:
+      text: >-
+        Incredible views of DTLA, open air, yet covered, excellent, and
+        extensive menu. There are tons of cold sake to choose from, special
+        rolls, classic rolls, and fun appetizers. Also, they have a plentiful
+        dessert menu. Service was fast and friendly. Ambiance at dinner was very
+        romantic and dimly lit. Wonderful location and quality.
+      languageCode: en
+    authorAttribution:
+      displayName: E. Dominic Black
+      uri: https://www.google.com/maps/contrib/113056801039421773205/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVjPTf7nVLcI6vOOWe9_BjR7dfv08M7-VkndUkJkiVauQj-T9BV=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2024-12-29T06:26:16.121218Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNmcnVYREFREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNmcnVYREFREAE!2m1!1s0x80c2c7b3e391ba03:0xe58ba75be6616636
+  - name: >-
+      places/ChIJA7qR47PHwoARNmZh5luni-U/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3cXRxR0FnEAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Just go! Great food, strong drinks, nice location & ambiance, excellent
+        service! Well worth the price!
+
+
+        I had vegetable tempura, miso soup & the surf n turf roll. All amazing
+        and I can’t wait to return.
+      languageCode: en
+    originalText:
+      text: >-
+        Just go! Great food, strong drinks, nice location & ambiance, excellent
+        service! Well worth the price!
+
+
+        I had vegetable tempura, miso soup & the surf n turf roll. All amazing
+        and I can’t wait to return.
+      languageCode: en
+    authorAttribution:
+      displayName: Tokyo M
+      uri: https://www.google.com/maps/contrib/114891526531578793302/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWvfULq-3cAwwj4iGP8b9d07ZRC_0aZ705FuGZMq0Lzj42Bx5o=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-03-18T03:14:45.070643Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUN3cXRxR0FnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUN3cXRxR0FnEAE!2m1!1s0x80c2c7b3e391ba03:0xe58ba75be6616636
+  - name: >-
+      places/ChIJA7qR47PHwoARNmZh5luni-U/reviews/ChdDSUhNMG9nS0VJQ0FnSUR2NUtpcm13RRAB
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        Hey! I was there on October 18th,  with a 🥳 party of 7. This Birthday
+        are awesome  with friends we started at the bar and got over  the top
+        bartender that know his juice. Wow. Than the foods was honest  😋 to
+        goodness no comment needed awesome. The services we got was like going
+        to a place and you're the guest of honors.  Brilliant  services
+      languageCode: en
+    originalText:
+      text: >-
+        Hey! I was there on October 18th,  with a 🥳 party of 7. This Birthday
+        are awesome  with friends we started at the bar and got over  the top
+        bartender that know his juice. Wow. Than the foods was honest  😋 to
+        goodness no comment needed awesome. The services we got was like going
+        to a place and you're the guest of honors.  Brilliant  services
+      languageCode: en
+    authorAttribution:
+      displayName: Jacqueline Walters
+      uri: https://www.google.com/maps/contrib/110653293666430982271/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLq9VaQRyX7fdubIKVOGdZLJyndNF-aQ50JDjm6KetXA5VHLA=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-12-21T00:04:33.608370Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR2NUtpcm13RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR2NUtpcm13RRAB!2m1!1s0x80c2c7b3e391ba03:0xe58ba75be6616636
+  - name: >-
+      places/ChIJA7qR47PHwoARNmZh5luni-U/reviews/ChdDSUhNMG9nS0VJQ0FnTURnaDZuUXd3RRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        Takami is an EXCELLENT restaurant to visit, especially for date night,
+        Birthday/ Anniversary celebrations and special occasions! With authentic
+        and well-made Asian cuisine, Takami offers so many delicious options for
+        food & drinks, with vegan or vegetarian choices, to boot! Located on the
+        21st floor, the semi-open air seating has a beautiful view of DTLA, and
+        a very sexy, vibey ambience. Be prepared to spend $160-$300, but I
+        guarantee it's well worth it!
+      languageCode: en
+    originalText:
+      text: >-
+        Takami is an EXCELLENT restaurant to visit, especially for date night,
+        Birthday/ Anniversary celebrations and special occasions! With authentic
+        and well-made Asian cuisine, Takami offers so many delicious options for
+        food & drinks, with vegan or vegetarian choices, to boot! Located on the
+        21st floor, the semi-open air seating has a beautiful view of DTLA, and
+        a very sexy, vibey ambience. Be prepared to spend $160-$300, but I
+        guarantee it's well worth it!
+      languageCode: en
+    authorAttribution:
+      displayName: CHRISTOPHER AKEEM
+      uri: https://www.google.com/maps/contrib/117916875411736642008/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUgPMgFk9DXRA9SGr3SAOJHELOZILugc5flc3bkk9eobpAhERY=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-02-27T23:28:08.083939Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURnaDZuUXd3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURnaDZuUXd3RRAB!2m1!1s0x80c2c7b3e391ba03:0xe58ba75be6616636
+review_summary: >-
+  What Visitors Are Saying About This Sushi Spot$$$Folks love the fresh sushi
+  and flavorful Japanese dishes at this rooftop venue, often praising the
+  creative rolls and grilled options that hit the spot every time. Many
+  highlight the amazing drinks and stunning city views that add a fun, romantic
+  vibe, making it ideal for celebrations or date nights in a casual yet lively
+  environment. Service stands out as friendly and attentive, with quick
+  responses that enhance the overall experience, even if the prices lean toward
+  the higher end. While some note that the cost might be a bit steep for
+  everyday meals, most agree it's worth it for the quality and atmosphere that
+  keeps diners coming back. If you're on the hunt for the best sushi near me,
+  this place delivers a solid, enjoyable experience that balances tasty food
+  with a welcoming feel.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: false
+  freeStreetParking: false
+  valetParking: true
+  freeGarageParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: false
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: true
+live_music: false
+menu_for_children: false
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
+serves_coffee: true
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Elegant rooftop setting for Japanese sushi & grilled entrees, with panoramic
+  views of Downtown.
 
 ---

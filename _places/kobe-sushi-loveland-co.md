@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kobe Sushi"
+title: Kobe Sushi
 permalink: /colorado/loveland/kobe-sushi.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Loveland
 seo:
-  name: "Kobe Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.toasttab.com/kobe-sushi-1569-fall-river-drive-169
-description: "Kobe Sushi serves delicious sushi in Loveland, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJQ36il-esbocR766kq2gqyNk
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x876eace797a27e43:0xd9c82a68aba4aeef!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:00 PM'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:30 PM'
     - 'Saturday: 11:00 AM – 9:30 PM'
     - 'Sunday: 11:00 AM – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 9:30 PM'
-    - 'Saturday: 11:00 AM – 9:30 PM'
-    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T03:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,323 @@ phone: (970) 622-8383
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.5'
-rating_count: 0
+rating_count: 801
 website: https://www.toasttab.com/kobe-sushi-1569-fall-river-drive-169
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Explore Kobe Sushi in Loveland, CO$$$Kobe Sushi in Loveland, CO, stands out as
+  a welcoming spot for enjoying fresh Japanese dishes, including an array of
+  sushi rolls and bento boxes in a cozy, approachable atmosphere. This sushi
+  restaurant near you offers a variety of options like flavorful tempura and
+  noodles, complemented by specialties such as sake, making it ideal for casual
+  family outings or quick meals. Accessibility features like wheelchair-friendly
+  parking and seating ensure everyone can enjoy the experience, while the
+  kid-friendly menu adds to its appeal for all ages. With extended hours into
+  the evening, it's a convenient choice for those seeking top-rated sushi places
+  in the area, blending quality ingredients and a relaxed vibe for a satisfying
+  dining adventure.
+generative_summary: >-
+  Explore Kobe Sushi in Loveland, CO$$$Kobe Sushi in Loveland, CO, stands out as
+  a welcoming spot for enjoying fresh Japanese dishes, including an array of
+  sushi rolls and bento boxes in a cozy, approachable atmosphere. This sushi
+  restaurant near you offers a variety of options like flavorful tempura and
+  noodles, complemented by specialties such as sake, making it ideal for casual
+  family outings or quick meals. Accessibility features like wheelchair-friendly
+  parking and seating ensure everyone can enjoy the experience, while the
+  kid-friendly menu adds to its appeal for all ages. With extended hours into
+  the evening, it's a convenient choice for those seeking top-rated sushi places
+  in the area, blending quality ingredients and a relaxed vibe for a satisfying
+  dining adventure.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJQ36il-esbocR766kq2gqyNk/reviews/ChdDSUhNMG9nS0VJQ0FnSURQeHFPOTh3RRAB
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        Best sushi I've had in NoCo. It's hard to find good sushi in a
+        landlocked state, and being from a seaside state, standards are high.
+        The sushi was fresh & delicious!  Lots of options for sushi on the menu.
+        The spot has primarily sushi options, but there are also some other
+        items on the menu like tempura, noodles, fried rice, along with a number
+        of appetizers. The presentation of the sushi & sashimi was also really
+        good. I loved the small boats with the dry ice for larger platters of
+        sushi. The atmosphere was nice, the place was clean, and the service was
+        quick and friendly on the evening we went. We ordered the Sushi platter
+        2 as well as an appetizer for dining in and a Bento box that we ordered
+        to go. The Thai tea was good, strong tea, and not too sweet like a lot
+        of places tend to do. The decor was nice, the music playing was not too
+        loud or distracting. Our waitress was very attentive. We will be back to
+        try some other options on the menu. Highly recommend for sushi &
+        sashimi.
+      languageCode: en
+    originalText:
+      text: >-
+        Best sushi I've had in NoCo. It's hard to find good sushi in a
+        landlocked state, and being from a seaside state, standards are high.
+        The sushi was fresh & delicious!  Lots of options for sushi on the menu.
+        The spot has primarily sushi options, but there are also some other
+        items on the menu like tempura, noodles, fried rice, along with a number
+        of appetizers. The presentation of the sushi & sashimi was also really
+        good. I loved the small boats with the dry ice for larger platters of
+        sushi. The atmosphere was nice, the place was clean, and the service was
+        quick and friendly on the evening we went. We ordered the Sushi platter
+        2 as well as an appetizer for dining in and a Bento box that we ordered
+        to go. The Thai tea was good, strong tea, and not too sweet like a lot
+        of places tend to do. The decor was nice, the music playing was not too
+        loud or distracting. Our waitress was very attentive. We will be back to
+        try some other options on the menu. Highly recommend for sushi &
+        sashimi.
+      languageCode: en
+    authorAttribution:
+      displayName: Connie
+      uri: https://www.google.com/maps/contrib/104464290114284234269/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXY5COUgOK6FepvrZ6MEIOA2a0-Hc2tMWX__4NTL-I4AAia9ZRU=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2024-12-01T17:24:57.914873Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURQeHFPOTh3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURQeHFPOTh3RRAB!2m1!1s0x876eace797a27e43:0xd9c82a68aba4aeef
+  - name: >-
+      places/ChIJQ36il-esbocR766kq2gqyNk/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3d1BIWktBEAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        My delivery order arrived with fresh, well-packaged sashimi! 😋 The
+        octopus salad was flavorful. 🐙 #FoodDelivery #Sashimi #OctopusSalad
+        #Seafood #Dinner
+      languageCode: en
+    originalText:
+      text: >-
+        My delivery order arrived with fresh, well-packaged sashimi! 😋 The
+        octopus salad was flavorful. 🐙 #FoodDelivery #Sashimi #OctopusSalad
+        #Seafood #Dinner
+      languageCode: en
+    authorAttribution:
+      displayName: John Victor “JV” Ubana
+      uri: https://www.google.com/maps/contrib/108693314311384234260/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVZNo8OWDxpK11qlfdLmyHIYnsayzNHW-toR4u76VPuEWZdSfjVfg=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2025-03-22T12:09:12.508049Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUN3d1BIWktBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUN3d1BIWktBEAE!2m1!1s0x876eace797a27e43:0xd9c82a68aba4aeef
+  - name: >-
+      places/ChIJQ36il-esbocR766kq2gqyNk/reviews/ChdDSUhNMG9nS0VJQ0FnSURmZ3I3UXdRRRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 2
+    text:
+      text: >-
+        If you were to drive off the freeway, go to a strip mall, and see a
+        random sushi place in northern colorado, how good do you think it would
+        be?
+
+
+        If you are the forever optimist you would enter telling yourself you
+        found some hole in the wall that bill become your new go to place.  You
+        won't write a review about it cause youndont want it to be instagrammed
+        to death and want your little secret to stay in your front pocket. But
+        more likely- staistically your secret and its sushi would be medicore -
+        maybe even worse- and when you got the bill would be asking yourself,
+        "why did I think this was a good idea?" That pretty much sums up Kobe
+        sushi: a Japanese restaurant masking as a Chinese Asian all in one stop
+        with a fish tank, random Asian decor,  with really average bland
+        flavors... think sushi but stuff you got at MCR. Surprisingly a fair
+        amount of people go there? Maybe they were like me and hoped food would
+        be different than the free stuff at the hospital.
+
+
+        I spent 50 bucks for sushi and tempura i could have bought at sprouts or
+        whole foods - and that is not saying much if you like sushi. Just save
+        yourself the time and go to in and out next door.
+      languageCode: en
+    originalText:
+      text: >-
+        If you were to drive off the freeway, go to a strip mall, and see a
+        random sushi place in northern colorado, how good do you think it would
+        be?
+
+
+        If you are the forever optimist you would enter telling yourself you
+        found some hole in the wall that bill become your new go to place.  You
+        won't write a review about it cause youndont want it to be instagrammed
+        to death and want your little secret to stay in your front pocket. But
+        more likely- staistically your secret and its sushi would be medicore -
+        maybe even worse- and when you got the bill would be asking yourself,
+        "why did I think this was a good idea?" That pretty much sums up Kobe
+        sushi: a Japanese restaurant masking as a Chinese Asian all in one stop
+        with a fish tank, random Asian decor,  with really average bland
+        flavors... think sushi but stuff you got at MCR. Surprisingly a fair
+        amount of people go there? Maybe they were like me and hoped food would
+        be different than the free stuff at the hospital.
+
+
+        I spent 50 bucks for sushi and tempura i could have bought at sprouts or
+        whole foods - and that is not saying much if you like sushi. Just save
+        yourself the time and go to in and out next door.
+      languageCode: en
+    authorAttribution:
+      displayName: Chase Renick
+      uri: https://www.google.com/maps/contrib/101815825429337571653/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUlM9QbpjSuuRjU8NC5O1dN2d4nWFiozYhcm4JrTvxOnQTc3X39=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-01-04T22:19:27.564505Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURmZ3I3UXdRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURmZ3I3UXdRRRAB!2m1!1s0x876eace797a27e43:0xd9c82a68aba4aeef
+  - name: >-
+      places/ChIJQ36il-esbocR766kq2gqyNk/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJMElMT01nEAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        So so so good! Every item I’ve eaten is delicious, the servers are very
+        friendly and attentive, and the odd musical selection makes the ambiance
+        even better.
+      languageCode: en
+    originalText:
+      text: >-
+        So so so good! Every item I’ve eaten is delicious, the servers are very
+        friendly and attentive, and the odd musical selection makes the ambiance
+        even better.
+      languageCode: en
+    authorAttribution:
+      displayName: Molly Jameson
+      uri: https://www.google.com/maps/contrib/101187360183431190932/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjURF3134kften9ohFVpMLQ9HnZESuZWrzMIP1wWzm4hsDnaAnv1Bw=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-03-29T16:27:19.454336Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNJMElMT01nEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNJMElMT01nEAE!2m1!1s0x876eace797a27e43:0xd9c82a68aba4aeef
+  - name: >-
+      places/ChIJQ36il-esbocR766kq2gqyNk/reviews/ChZDSUhNMG9nS0VJQ0FnSUN2bGFLX0N3EAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 2
+    text:
+      text: >-
+        Ordered 3 rolls and a Teriyaki chicken, sesame chicken bento.
+
+        Presentation was pretty nice, but price and taste is not great.
+
+        Rolls ordered: Lion dance roll, Paradise roll, and dragon roll.
+
+        Every roll was mediocre to taste, the fish used was honestly bland, low
+        quality fish, the spicy tuna had no spice and barely tasted it in the
+        roll.
+
+        Most of the fish you can see at the bar had no plastic wrap on them to
+        keep them fresh, or sitting on any ice.
+
+        So the rolls came out lukewarm instead of having any chilled fish in
+        them. That ruins the texture and quality when served.
+
+        I don't know any Japanese restaurant that also didn't offer iced green
+        tea or matcha tea. So I stuck to it and ordered the hot green tea.
+        Again, extremely low quality green tea. Checked inside the pot and it
+        was just a cheap low quality instant green tea bag.
+
+        Barely had any green tea taste. Yes I let it brew for a while before
+        tasting again, same, bland.
+
+        Everything was about 18-20 per roll and the darn bento was almost 30.
+        That's very expensive for low quality mediocre food.
+
+        I don't mind paying well for decent quality, this isn't the place.
+      languageCode: en
+    originalText:
+      text: >-
+        Ordered 3 rolls and a Teriyaki chicken, sesame chicken bento.
+
+        Presentation was pretty nice, but price and taste is not great.
+
+        Rolls ordered: Lion dance roll, Paradise roll, and dragon roll.
+
+        Every roll was mediocre to taste, the fish used was honestly bland, low
+        quality fish, the spicy tuna had no spice and barely tasted it in the
+        roll.
+
+        Most of the fish you can see at the bar had no plastic wrap on them to
+        keep them fresh, or sitting on any ice.
+
+        So the rolls came out lukewarm instead of having any chilled fish in
+        them. That ruins the texture and quality when served.
+
+        I don't know any Japanese restaurant that also didn't offer iced green
+        tea or matcha tea. So I stuck to it and ordered the hot green tea.
+        Again, extremely low quality green tea. Checked inside the pot and it
+        was just a cheap low quality instant green tea bag.
+
+        Barely had any green tea taste. Yes I let it brew for a while before
+        tasting again, same, bland.
+
+        Everything was about 18-20 per roll and the darn bento was almost 30.
+        That's very expensive for low quality mediocre food.
+
+        I don't mind paying well for decent quality, this isn't the place.
+      languageCode: en
+    authorAttribution:
+      displayName: Ami Siharat
+      uri: https://www.google.com/maps/contrib/100097880851658100651/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjU5pXBsVOH8ZVvoaSxdPGx0Y97izFiAq7ZvT5hPNp8jnXr0gfvb=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2024-12-13T04:38:51.921046Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN2bGFLX0N3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN2bGFLX0N3EAE!2m1!1s0x876eace797a27e43:0xd9c82a68aba4aeef
+review_summary: >-
+  Visitor Feedback on Kobe Sushi$$$Folks often highlight the fresh flavors and
+  well-prepared dishes like sashimi and appetizers, making it a go-to for
+  satisfying sushi cravings in a friendly setting. While many appreciate the
+  attentive service and clean environment that enhance the overall meal, some
+  mention that certain items can feel a bit pricey or inconsistent in taste
+  compared to expectations. Overall, the vibe comes across as enjoyable, with
+  quick delivery options adding convenience for takeout lovers. If you're
+  hunting for sushi restaurants nearby, this spot generally delivers a solid
+  experience, though it's worth noting a few diners suggest sticking to the
+  classics for the best results.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: true
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Japanese spot serving a variety of sushi, plus sake & other specialties, in a
+  down-to-earth space.
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Shiku Sushi"
+title: Shiku Sushi
 permalink: /washington/seattle/shiku-sushi.html
 stateAbbr: WA
 stateName: Washington
 cityName: Seattle
 seo:
-  name: "Shiku Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://shikusushi.com/?utm_source=google
-description: "Shiku Sushi serves delicious sushi in Seattle, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJW02WUcYVkFQRmqe50d7Uajg
 photos:
   - name: >-
@@ -169,7 +167,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x549015c651964d5b:0x386ad4ded1b9a79a!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 4:30 – 9:00 PM'
     - 'Tuesday: 4:30 – 9:00 PM'
     - 'Wednesday: 4:30 – 9:00 PM'
@@ -177,28 +233,258 @@ opening_hours:
     - 'Friday: 4:30 – 10:00 PM'
     - 'Saturday: 12:00 – 10:00 PM'
     - 'Sunday: 12:00 – 9:00 PM'
-  current:
-    - 'Monday: 4:30 – 9:00 PM'
-    - 'Tuesday: 4:30 – 9:00 PM'
-    - 'Wednesday: 4:30 – 9:00 PM'
-    - 'Thursday: 4:30 – 9:00 PM'
-    - 'Friday: 4:30 – 10:00 PM'
-    - 'Saturday: 12:00 – 10:00 PM'
-    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T05:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 0
+        close:
+          day: 0
+          hour: 20
+          minute: 30
+      - open:
+          day: 1
+          hour: 16
+          minute: 30
+        close:
+          day: 1
+          hour: 20
+          minute: 30
+      - open:
+          day: 2
+          hour: 16
+          minute: 30
+        close:
+          day: 2
+          hour: 20
+          minute: 30
+      - open:
+          day: 3
+          hour: 16
+          minute: 30
+        close:
+          day: 3
+          hour: 20
+          minute: 30
+      - open:
+          day: 4
+          hour: 16
+          minute: 30
+        close:
+          day: 4
+          hour: 20
+          minute: 30
+      - open:
+          day: 5
+          hour: 16
+          minute: 30
+        close:
+          day: 5
+          hour: 21
+          minute: 30
+      - open:
+          day: 6
+          hour: 12
+          minute: 0
+        close:
+          day: 6
+          hour: 21
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 4:30 – 8:30 PM'
+      - 'Tuesday: 4:30 – 8:30 PM'
+      - 'Wednesday: 4:30 – 8:30 PM'
+      - 'Thursday: 4:30 – 8:30 PM'
+      - 'Friday: 4:30 – 9:30 PM'
+      - 'Saturday: 12:00 – 9:30 PM'
+      - 'Sunday: 12:00 – 8:30 PM'
+    secondaryHoursType: DELIVERY
+    nextCloseTime: '2025-05-04T04:30:00Z'
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 0
+        close:
+          day: 0
+          hour: 20
+          minute: 30
+      - open:
+          day: 1
+          hour: 16
+          minute: 30
+        close:
+          day: 1
+          hour: 20
+          minute: 30
+      - open:
+          day: 2
+          hour: 16
+          minute: 30
+        close:
+          day: 2
+          hour: 20
+          minute: 30
+      - open:
+          day: 3
+          hour: 16
+          minute: 30
+        close:
+          day: 3
+          hour: 20
+          minute: 30
+      - open:
+          day: 4
+          hour: 16
+          minute: 30
+        close:
+          day: 4
+          hour: 20
+          minute: 30
+      - open:
+          day: 5
+          hour: 16
+          minute: 30
+        close:
+          day: 5
+          hour: 21
+          minute: 30
+      - open:
+          day: 6
+          hour: 12
+          minute: 0
+        close:
+          day: 6
+          hour: 21
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 4:30 – 8:30 PM'
+      - 'Tuesday: 4:30 – 8:30 PM'
+      - 'Wednesday: 4:30 – 8:30 PM'
+      - 'Thursday: 4:30 – 8:30 PM'
+      - 'Friday: 4:30 – 9:30 PM'
+      - 'Saturday: 12:00 – 9:30 PM'
+      - 'Sunday: 12:00 – 8:30 PM'
+    secondaryHoursType: TAKEOUT
+    nextCloseTime: '2025-05-04T04:30:00Z'
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 0
+        close:
+          day: 0
+          hour: 18
+          minute: 0
+      - open:
+          day: 1
+          hour: 16
+          minute: 30
+        close:
+          day: 1
+          hour: 18
+          minute: 30
+      - open:
+          day: 2
+          hour: 16
+          minute: 30
+        close:
+          day: 2
+          hour: 18
+          minute: 30
+      - open:
+          day: 3
+          hour: 16
+          minute: 30
+        close:
+          day: 3
+          hour: 18
+          minute: 30
+      - open:
+          day: 4
+          hour: 16
+          minute: 30
+        close:
+          day: 4
+          hour: 18
+          minute: 30
+      - open:
+          day: 5
+          hour: 16
+          minute: 30
+        close:
+          day: 5
+          hour: 18
+          minute: 30
+      - open:
+          day: 6
+          hour: 12
+          minute: 0
+        close:
+          day: 6
+          hour: 18
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 4:30 – 6:30 PM'
+      - 'Tuesday: 4:30 – 6:30 PM'
+      - 'Wednesday: 4:30 – 6:30 PM'
+      - 'Thursday: 4:30 – 6:30 PM'
+      - 'Friday: 4:30 – 6:30 PM'
+      - 'Saturday: 12:00 – 6:00 PM'
+      - 'Sunday: 12:00 – 6:00 PM'
+    secondaryHoursType: HAPPY_HOUR
+    nextCloseTime: '2025-05-04T01:00:00Z'
 phone: (206) 588-2151
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.3'
-rating_count: 0
+rating_count: 584
 website: https://shikusushi.com/?utm_source=google
+description: >-
+  Explore Shiku Sushi in Seattle, WA$$$Nestled in the vibrant neighborhood of
+  Seattle, WA, Shiku Sushi stands out as a premier spot for fresh Japanese
+  cuisine, offering inventive rolls and classic fare in a relaxed atmosphere.
+  This sushi restaurant delights patrons with its creative twists on traditional
+  dishes, complemented by enticing happy hour options that make it a go-to
+  choice for locals seeking quality dining experiences. Accessibility features
+  like wheelchair-friendly entrances and seating ensure everyone can enjoy the
+  flavorful selections, from expertly crafted nigiri to a variety of sake
+  choices. With its welcoming vibe and moderate pricing, it's an ideal
+  destination for anyone exploring top sushi options in the area, perfect for
+  those searching for authentic Japanese places nearby.
+generative_summary: >-
+  Explore Shiku Sushi in Seattle, WA$$$Nestled in the vibrant neighborhood of
+  Seattle, WA, Shiku Sushi stands out as a premier spot for fresh Japanese
+  cuisine, offering inventive rolls and classic fare in a relaxed atmosphere.
+  This sushi restaurant delights patrons with its creative twists on traditional
+  dishes, complemented by enticing happy hour options that make it a go-to
+  choice for locals seeking quality dining experiences. Accessibility features
+  like wheelchair-friendly entrances and seating ensure everyone can enjoy the
+  flavorful selections, from expertly crafted nigiri to a variety of sake
+  choices. With its welcoming vibe and moderate pricing, it's an ideal
+  destination for anyone exploring top sushi options in the area, perfect for
+  those searching for authentic Japanese places nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Visitor Feedback on This Local Sushi Favorite$$$Folks rave about the tasty
+  seafood dishes at this Seattle sushi spot, highlighting flavorful options like
+  creamy scallop nigiri and amberjack that keep diners coming back for more.
+  Many appreciate the helpful staff and the upbeat, inviting environment that
+  makes every visit feel enjoyable and relaxed. While some note that service can
+  occasionally take a bit longer during busy times, the overall experience
+  remains positive with generous portions and a solid drink selection adding to
+  the appeal. It's clear that this place earns its reputation as a reliable
+  choice for casual meals, offering a balance of great flavors and atmosphere
+  that suits groups or solo diners alike. If you're on the hunt for solid sushi
+  near you, this spot delivers a consistently satisfying vibe with room for
+  improvement in pacing.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -224,7 +510,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

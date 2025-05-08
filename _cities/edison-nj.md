@@ -5,4 +5,5 @@ permalink: /new-jersey/edison/
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Edison
+
 ---

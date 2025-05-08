@@ -5,4 +5,5 @@ permalink: /florida/lakeland/
 stateAbbr: FL
 stateName: Florida
 cityName: Lakeland
+
 ---

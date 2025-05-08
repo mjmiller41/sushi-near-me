@@ -5,4 +5,5 @@ permalink: /north-carolina/fayetteville/
 stateAbbr: NC
 stateName: North Carolina
 cityName: Fayetteville
+
 ---

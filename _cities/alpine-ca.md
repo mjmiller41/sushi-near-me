@@ -5,4 +5,5 @@ permalink: /california/alpine/
 stateAbbr: CA
 stateName: California
 cityName: Alpine
+
 ---

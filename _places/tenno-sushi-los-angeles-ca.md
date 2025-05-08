@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Tenno Sushi"
+title: Tenno Sushi
 permalink: /california/los-angeles/tenno-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Los Angeles
 seo:
-  name: "Tenno Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.tennosushi.com/
-description: "Tenno Sushi serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJmRcbbTjGwoARNiMWogDPMc8
 photos:
   - name: >-
@@ -169,7 +167,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c2c6386d1b1799:0xcf31cf00a2162336!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 23
+        minute: 30
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 23
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 10:00 PM'
     - 'Tuesday: 11:30 AM – 10:00 PM'
     - 'Wednesday: 11:30 AM – 10:00 PM'
@@ -177,14 +233,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 11:30 PM'
     - 'Saturday: 12:00 – 11:30 PM'
     - 'Sunday: 12:00 – 10:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 10:00 PM'
-    - 'Tuesday: 11:30 AM – 10:00 PM'
-    - 'Wednesday: 11:30 AM – 10:00 PM'
-    - 'Thursday: 11:30 AM – 10:30 PM'
-    - 'Friday: 11:30 AM – 11:30 PM'
-    - 'Saturday: 12:00 – 11:30 PM'
-    - 'Sunday: 12:00 – 10:00 PM'
+  nextCloseTime: '2025-05-04T06:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,35 +245,300 @@ phone: (213) 625-0602
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.4'
-rating_count: 0
+rating_count: 1568
 website: http://www.tennosushi.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Explore Tenno Sushi in Los Angeles$$$Tenno Sushi in Los Angeles, CA, stands
+  out as a vibrant spot for Japanese-inspired dining, blending fresh sushi and
+  Asian-fusion flavors in a modern, artistically designed space. The restaurant
+  features an inviting atmosphere with contemporary touches like curvy walls and
+  decorative elements, making it a go-to choice for those seeking quality sushi
+  experiences in the heart of Downtown. Patrons can enjoy a variety of expertly
+  prepared rolls and sake selections, complemented by accessible features such
+  as wheelchair-friendly entrances and seating. With convenient hours extending
+  into the evening, it's an ideal destination for casual meals or group
+  gatherings, appealing to anyone exploring top-rated sushi options nearby.
+generative_summary: >-
+  Explore Tenno Sushi in Los Angeles$$$Tenno Sushi in Los Angeles, CA, stands
+  out as a vibrant spot for Japanese-inspired dining, blending fresh sushi and
+  Asian-fusion flavors in a modern, artistically designed space. The restaurant
+  features an inviting atmosphere with contemporary touches like curvy walls and
+  decorative elements, making it a go-to choice for those seeking quality sushi
+  experiences in the heart of Downtown. Patrons can enjoy a variety of expertly
+  prepared rolls and sake selections, complemented by accessible features such
+  as wheelchair-friendly entrances and seating. With convenient hours extending
+  into the evening, it's an ideal destination for casual meals or group
+  gatherings, appealing to anyone exploring top-rated sushi options nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJmRcbbTjGwoARNiMWogDPMc8/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJc2IzTTNRRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Hands down the best sushi we ever had. I had the Bora bora, then the
+        pork belly.
+
+        Appetizer
+
+        We had the strawberry soju and it was amazing. I highly recommend this
+        place, and I definitely will be back!!! My favorite thing is fresh
+        tasted.Great and the portions were large. I don't know about the parking
+        because I ubered there.
+      languageCode: en
+    originalText:
+      text: >-
+        Hands down the best sushi we ever had. I had the Bora bora, then the
+        pork belly.
+
+        Appetizer
+
+        We had the strawberry soju and it was amazing. I highly recommend this
+        place, and I definitely will be back!!! My favorite thing is fresh
+        tasted.Great and the portions were large. I don't know about the parking
+        because I ubered there.
+      languageCode: en
+    authorAttribution:
+      displayName: Valerie Rivera
+      uri: https://www.google.com/maps/contrib/117994692254154928257/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJr7YvpvrFJoEkOEFMrvl_orSdIwceTUL5qZ6Pmy0JrN1UD8Q=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-02T21:57:22.964135Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNJc2IzTTNRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNJc2IzTTNRRRAB!2m1!1s0x80c2c6386d1b1799:0xcf31cf00a2162336
+  - name: >-
+      places/ChIJmRcbbTjGwoARNiMWogDPMc8/reviews/ChZDSUhNMG9nS0VJQ0FnTURJdDY2QVp3EAE
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 4
+    text:
+      text: >-
+        Cool sushi place in Little Tokyo, not much waiting. With so many sushi
+        restaurants nearby it's hard to compare the sushi taste. We went in at
+        noon and got the Hawaiian Poke Salad. It's excellent and very filling.
+        It's a little pricey at about $19 but 2 people can share it. There are
+        lunch deals too but we didn't try them. Overall, it's a good restaurant,
+        cannot say it's better or worse than nearby but at least it's not as
+        crowded.
+      languageCode: en
+    originalText:
+      text: >-
+        Cool sushi place in Little Tokyo, not much waiting. With so many sushi
+        restaurants nearby it's hard to compare the sushi taste. We went in at
+        noon and got the Hawaiian Poke Salad. It's excellent and very filling.
+        It's a little pricey at about $19 but 2 people can share it. There are
+        lunch deals too but we didn't try them. Overall, it's a good restaurant,
+        cannot say it's better or worse than nearby but at least it's not as
+        crowded.
+      languageCode: en
+    authorAttribution:
+      displayName: G Nguyen
+      uri: https://www.google.com/maps/contrib/102108938932962774055/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLGTSJP0HKDEO8mgzTQhRd2K6oZfyNACl80H7KnKsiDisSnIQ=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-13T17:38:35.385745Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURJdDY2QVp3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJdDY2QVp3EAE!2m1!1s0x80c2c6386d1b1799:0xcf31cf00a2162336
+  - name: >-
+      places/ChIJmRcbbTjGwoARNiMWogDPMc8/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfNzlIYTBnRRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        I was waitlisted a block away at another sushi restaurant, with a
+        90-minute wait ahead of me. I was getting “hangry” and could not wait
+        any longer. I walked over, and Tenno seated me right away. The sushi is
+        simply fantastic and is a solid value. Very friendly and attentive
+        service. I got the 12-piece chef’s choice sushi. I was at the sushi bar
+        and even had a nice conversation with the sushi chef who prepared my
+        meal. Strong recommendation.
+      languageCode: en
+    originalText:
+      text: >-
+        I was waitlisted a block away at another sushi restaurant, with a
+        90-minute wait ahead of me. I was getting “hangry” and could not wait
+        any longer. I walked over, and Tenno seated me right away. The sushi is
+        simply fantastic and is a solid value. Very friendly and attentive
+        service. I got the 12-piece chef’s choice sushi. I was at the sushi bar
+        and even had a nice conversation with the sushi chef who prepared my
+        meal. Strong recommendation.
+      languageCode: en
+    authorAttribution:
+      displayName: Carlos Reyes
+      uri: https://www.google.com/maps/contrib/111705795797025108766/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWA7aiSl2EHOanK2fWbOsuAxTxdXYU3UXlhv7pO_pgUn5vvutKd=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-01-20T06:16:20.455176Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNfNzlIYTBnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNfNzlIYTBnRRAB!2m1!1s0x80c2c6386d1b1799:0xcf31cf00a2162336
+  - name: >-
+      places/ChIJmRcbbTjGwoARNiMWogDPMc8/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3dEs3cjVBRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Best sushi happy hour in Little Tokyo. They have a great deal with
+        ordering one large beer at regular price ($9.50) and getting a large
+        sake for 1 cent! If you’re not a sake drinker, you can simply order the
+        HH large kirin / asahi / Sapporo bottl for $6.50. HH hand rolls also
+        fare for $6.95, cementing their happy hour value for sushi. Rolls were
+        ok but kinda pricey - aka rainbow for $13.95.
+
+
+        Happy hour goes from 4-7pm Tues-Fri, all day Monday, and Saturday from
+        open-4pm. Will definitely come back!
+      languageCode: en
+    originalText:
+      text: >-
+        Best sushi happy hour in Little Tokyo. They have a great deal with
+        ordering one large beer at regular price ($9.50) and getting a large
+        sake for 1 cent! If you’re not a sake drinker, you can simply order the
+        HH large kirin / asahi / Sapporo bottl for $6.50. HH hand rolls also
+        fare for $6.95, cementing their happy hour value for sushi. Rolls were
+        ok but kinda pricey - aka rainbow for $13.95.
+
+
+        Happy hour goes from 4-7pm Tues-Fri, all day Monday, and Saturday from
+        open-4pm. Will definitely come back!
+      languageCode: en
+    authorAttribution:
+      displayName: Anish Thakkar (Doc Thakkar)
+      uri: https://www.google.com/maps/contrib/100632513839405797964/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWnjcbzJ3aFKJ9D42lH6XhWs1v7P9juCvcllloTyKNR4nfoBgz8=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2025-03-16T22:41:35.921061Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUN3dEs3cjVBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUN3dEs3cjVBRRAB!2m1!1s0x80c2c6386d1b1799:0xcf31cf00a2162336
+  - name: >-
+      places/ChIJmRcbbTjGwoARNiMWogDPMc8/reviews/ChdDSUhNMG9nS0VJQ0FnTUNnak1teTV3RRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        We went here on a Thursday night at 8 and had no wait and found street
+        parking. Street parking was free after 8.
+
+
+        We were seated right away. After about 34 minutes we were pretty much
+        done eating because the food came out super quickly!
+
+
+        The presentation was beautiful, the sushi was fresh, and the rice was
+        still warm!
+
+        The servers were very attentive as well.
+
+
+        We got the Captain America roll, truffle hunter roll, crunchy roll, and
+        a bento box with California rolls and pork katsu.
+
+
+        The Captain America roll was topped with a PILE of tempura shrimp chunks
+        and a yummy sweet and creamy sauce. The truffle hunter roll was yummy
+        also with the truffle oil coming through. The bento box was large and 1
+        entree would’ve been enough.
+
+
+        The sushi was a great value for money. I’ve been to Japan, omakase, and
+        many sushi restaurants and I was very impressed. Too bad I’m from out of
+        town or else I would come here again!
+      languageCode: en
+    originalText:
+      text: >-
+        We went here on a Thursday night at 8 and had no wait and found street
+        parking. Street parking was free after 8.
+
+
+        We were seated right away. After about 34 minutes we were pretty much
+        done eating because the food came out super quickly!
+
+
+        The presentation was beautiful, the sushi was fresh, and the rice was
+        still warm!
+
+        The servers were very attentive as well.
+
+
+        We got the Captain America roll, truffle hunter roll, crunchy roll, and
+        a bento box with California rolls and pork katsu.
+
+
+        The Captain America roll was topped with a PILE of tempura shrimp chunks
+        and a yummy sweet and creamy sauce. The truffle hunter roll was yummy
+        also with the truffle oil coming through. The bento box was large and 1
+        entree would’ve been enough.
+
+
+        The sushi was a great value for money. I’ve been to Japan, omakase, and
+        many sushi restaurants and I was very impressed. Too bad I’m from out of
+        town or else I would come here again!
+      languageCode: en
+    authorAttribution:
+      displayName: Christina Chic
+      uri: https://www.google.com/maps/contrib/107583999430329904619/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUEPhp8gWQjHIT_h2FIjBGDTa_Nbv3BALPMBS_4ZmoRCMwSkbNvOw=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-02-14T18:17:41.260565Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNnak1teTV3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNnak1teTV3RRAB!2m1!1s0x80c2c6386d1b1799:0xcf31cf00a2162336
+review_summary: >-
+  Customer Feedback Highlights$$$Visitors to this Los Angeles sushi spot often
+  rave about the fresh, flavorful rolls and generous portions that make every
+  bite satisfying and worthwhile. Many appreciate the great value, especially
+  during happy hour with deals on drinks and hand rolls that keep things
+  affordable without skimping on quality. Folks mention the quick service and
+  welcoming vibe, noting it's a solid pick for avoiding long waits compared to
+  other nearby options. Overall, the consensus leans positive, with diners
+  enjoying the variety of choices like poke salads and specialty rolls that
+  cater to different tastes. If you're on the hunt for reliable sushi places
+  close to you, this spot delivers a consistently enjoyable experience that's
+  worth checking out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  paidParkingLot: true
+  paidStreetParking: true
+  paidGarageParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
+curbside_pickup: true
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
 outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
 serves_brunch: null
-serves_cocktails: null
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Japanese sushi, Asian-fusion eats & sake in a mod space with curvy walls &
+  arty scrolls.
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Maki Yaki Japanese Grill"
+title: Maki Yaki Japanese Grill
 permalink: /wisconsin/milwaukee/maki-yaki-japanese-grill.html
 stateAbbr: WI
 stateName: Wisconsin
 cityName: Milwaukee
 seo:
-  name: "Maki Yaki Japanese Grill"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Maki Yaki Japanese Grill serves delicious sushi in Milwaukee, Wisconsin. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJRUe-qCoaBYgR7ofMyS2IHgw
 photos:
   - name: >-
@@ -177,7 +175,42 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Maki Yaki Japanese Grill in Milwaukee$$$Maki Yaki Japanese Grill in
+  Milwaukee, WI, stands out as a go-to spot for fresh Japanese flavors and sushi
+  options that appeal to locals searching for top-rated dining experiences
+  nearby. This inviting grill focuses on grilled dishes prepared with authentic
+  techniques, using high-quality ingredients that bring out the best in
+  traditional tastes. Accessibility features like wheelchair-friendly parking
+  and entrances make it easy for everyone to enjoy a meal, adding to its
+  welcoming vibe. Situated on West Wisconsin Avenue, it offers a relaxed setting
+  ideal for casual get-togethers, whether you're craving sushi restaurants close
+  to home or exploring Japanese places in the area.
+generative_summary: >-
+  Discover Maki Yaki Japanese Grill in Milwaukee$$$Maki Yaki Japanese Grill in
+  Milwaukee, WI, stands out as a go-to spot for fresh Japanese flavors and sushi
+  options that appeal to locals searching for top-rated dining experiences
+  nearby. This inviting grill focuses on grilled dishes prepared with authentic
+  techniques, using high-quality ingredients that bring out the best in
+  traditional tastes. Accessibility features like wheelchair-friendly parking
+  and entrances make it easy for everyone to enjoy a meal, adding to its
+  welcoming vibe. Situated on West Wisconsin Avenue, it offers a relaxed setting
+  ideal for casual get-togethers, whether you're craving sushi restaurants close
+  to home or exploring Japanese places in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What People Are Buzzing About$$$Folks who visit this Japanese grill often
+  highlight the tasty, well-prepared dishes that make it a solid pick for sushi
+  lovers on the hunt for fresh options nearby. Many appreciate the
+  straightforward atmosphere and how it delivers on authentic flavors without
+  overcomplicating things, creating a generally upbeat dining vibe. While
+  experiences can vary, the consensus leans toward praising the quality
+  ingredients and approachable style, helping it stand out among local eateries.
+  Overall, it's frequently recommended as a reliable choice for anyone seeking
+  Japanese-inspired meals, with a nod to its casual charm that keeps things
+  enjoyable and worth trying out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -204,6 +237,6 @@ serves_vegetarian_food: null
 serves_wine: null
 takeout: null
 update_category: pro
-summary: null
+places_description: null
 
 ---

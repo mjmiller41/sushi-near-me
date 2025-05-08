@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sake Sushi"
+title: Sake Sushi
 permalink: /wisconsin/madison/sake-sushi.html
 stateAbbr: WI
 stateName: Wisconsin
 cityName: Madison
 seo:
-  name: "Sake Sushi"
-  type: Restaurant
-  links: null
-description: "Sake Sushi serves delicious sushi in Madison, Wisconsin. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.sakesushimadison.com/
 place_id: ChIJ512wCdSvB4gR_hSolTxQTwI
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8807afd409b05de7:0x24f503c95a814fe!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:30 AM – 9:30 PM'
+    - 'Tuesday: 11:30 AM – 9:30 PM'
+    - 'Wednesday: 11:30 AM – 9:30 PM'
+    - 'Thursday: 11:30 AM – 9:30 PM'
+    - 'Friday: 11:30 AM – 10:00 PM'
+    - 'Saturday: 11:30 AM – 10:00 PM'
+    - 'Sunday: 11:30 AM – 9:30 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,48 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (608) 203-5990
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.5'
+rating_count: 392
+website: https://www.sakesushimadison.com/
+description: >-
+  Discover Sake Sushi in Madison, WI$$$Sake Sushi in Madison, Wisconsin, stands
+  out as a go-to spot for fresh Japanese dishes in a laid-back environment,
+  perfect for those exploring sushi options nearby. This restaurant features an
+  enticing all-you-can-eat selection that includes a variety of sushi and other
+  traditional fare, making it ideal for anyone seeking satisfying Japanese
+  cuisine without the hassle. With its accessible entrances, parking, and
+  seating, it's designed to welcome everyone for a comfortable dining
+  experience, while maintaining extended hours that cater to lunch and dinner
+  crowds. The menu highlights high-quality ingredients and creative
+  presentations, appealing to both sushi newcomers and enthusiasts looking for
+  top-rated Japanese places in the area.
+generative_summary: >-
+  Discover Sake Sushi in Madison, WI$$$Sake Sushi in Madison, Wisconsin, stands
+  out as a go-to spot for fresh Japanese dishes in a laid-back environment,
+  perfect for those exploring sushi options nearby. This restaurant features an
+  enticing all-you-can-eat selection that includes a variety of sushi and other
+  traditional fare, making it ideal for anyone seeking satisfying Japanese
+  cuisine without the hassle. With its accessible entrances, parking, and
+  seating, it's designed to welcome everyone for a comfortable dining
+  experience, while maintaining extended hours that cater to lunch and dinner
+  crowds. The menu highlights high-quality ingredients and creative
+  presentations, appealing to both sushi newcomers and enthusiasts looking for
+  top-rated Japanese places in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Folks frequently highlight the fresh and tasty
+  sushi varieties at this spot, making it a solid choice for anyone craving
+  reliable Japanese eats. The all-you-can-eat deal gets plenty of nods for
+  offering great value with options like sashimi and ramen that keep diners
+  coming back. Service stands out as warm and attentive, adding to the enjoyable
+  vibe without overwhelming the meal. Overall, visitors appreciate the
+  straightforward appeal and affordability, positioning it as a welcoming option
+  for casual outings or groups searching for satisfying sushi nearby.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +309,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

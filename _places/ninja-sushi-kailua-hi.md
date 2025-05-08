@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ninja Sushi"
+title: Ninja Sushi
 permalink: /hawaii/kailua/ninja-sushi.html
 stateAbbr: HI
 stateName: Hawaii
 cityName: Kailua
 seo:
-  name: "Ninja Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Ninja Sushi serves delicious sushi in Kailua, Hawaii. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ-V28K8MUAHwRqShz5pJ8jfw
 photos:
   - name: >-
@@ -184,7 +182,42 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Ninja Sushi in Kailua, HI$$$Ninja Sushi in Kailua, HI, stands out as
+  a locally owned spot dedicated to authentic Japanese flavors, offering a
+  welcoming environment for sushi enthusiasts. This charming restaurant features
+  a menu with fresh maki rolls, hearty donburi bowls, and crispy tempura, all
+  prepared with care to highlight the best of traditional cuisine. Its
+  accessibility options, including wheelchair-friendly parking and seating, make
+  it an inclusive choice for diners seeking quality meals in a relaxed setting.
+  For those exploring sushi restaurants in the area, the emphasis on familiar
+  dishes ensures a satisfying experience that captures the essence of Japanese
+  dining.
+generative_summary: >-
+  Discover Ninja Sushi in Kailua, HI$$$Ninja Sushi in Kailua, HI, stands out as
+  a locally owned spot dedicated to authentic Japanese flavors, offering a
+  welcoming environment for sushi enthusiasts. This charming restaurant features
+  a menu with fresh maki rolls, hearty donburi bowls, and crispy tempura, all
+  prepared with care to highlight the best of traditional cuisine. Its
+  accessibility options, including wheelchair-friendly parking and seating, make
+  it an inclusive choice for diners seeking quality meals in a relaxed setting.
+  For those exploring sushi restaurants in the area, the emphasis on familiar
+  dishes ensures a satisfying experience that captures the essence of Japanese
+  dining.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$While specific reviews for this spot are limited,
+  feedback from similar sushi places near me often highlights the fresh
+  ingredients and well-crafted dishes that make for a memorable meal. Patrons
+  generally appreciate the variety of options like maki and tempura, noting how
+  they deliver on flavor without overwhelming the palate. Many casual diners
+  mention a cozy vibe that feels just right for enjoying top-rated sushi in a
+  laid-back setting, with positives around the overall value and taste. If
+  you're on the hunt for reliable Japanese places close to you, this location
+  seems to earn nods for its straightforward appeal, encouraging visitors to
+  give it a try for a solid, enjoyable outing.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +243,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

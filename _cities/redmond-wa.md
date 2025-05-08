@@ -5,4 +5,5 @@ permalink: /washington/redmond/
 stateAbbr: WA
 stateName: Washington
 cityName: Redmond
+
 ---

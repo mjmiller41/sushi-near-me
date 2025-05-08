@@ -5,4 +5,5 @@ permalink: /minnesota/bemidji/
 stateAbbr: MN
 stateName: Minnesota
 cityName: Bemidji
+
 ---

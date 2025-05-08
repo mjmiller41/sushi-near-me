@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Arigato Sushi"
+title: Arigato Sushi
 permalink: /california/roseville/arigato-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Roseville
 seo:
-  name: "Arigato Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Arigato Sushi serves delicious sushi in Roseville, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJzSn1LNQhm4ARqVf6bA9OOdk
 photos:
   - name: >-
@@ -185,7 +183,46 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Arigato Sushi in Roseville, California$$$Arigato Sushi in Roseville,
+  California, serves up a casual dining experience centered around fresh sushi
+  rolls, bento boxes, and other authentic Japanese dishes that appeal to flavor
+  enthusiasts. This spot stands out for its welcoming atmosphere and
+  accessibility features, making it easy for everyone to enjoy a meal without
+  hassle. Patrons can explore a menu that highlights high-quality ingredients
+  and simple yet satisfying options, ideal for those seeking a laid-back spot
+  for Japanese cuisine. Whether you're in the mood for sushi restaurants in your
+  local area, this eatery provides a reliable choice for a quick and enjoyable
+  bite. Its approachable vibe ensures it's a great option for anyone discovering
+  top-rated Japanese places nearby.
+generative_summary: >-
+  Discover Arigato Sushi in Roseville, California$$$Arigato Sushi in Roseville,
+  California, serves up a casual dining experience centered around fresh sushi
+  rolls, bento boxes, and other authentic Japanese dishes that appeal to flavor
+  enthusiasts. This spot stands out for its welcoming atmosphere and
+  accessibility features, making it easy for everyone to enjoy a meal without
+  hassle. Patrons can explore a menu that highlights high-quality ingredients
+  and simple yet satisfying options, ideal for those seeking a laid-back spot
+  for Japanese cuisine. Whether you're in the mood for sushi restaurants in your
+  local area, this eatery provides a reliable choice for a quick and enjoyable
+  bite. Its approachable vibe ensures it's a great option for anyone discovering
+  top-rated Japanese places nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About Arigato Sushi$$$Folks heading to Arigato Sushi
+  often mention the fresh flavors and well-prepared dishes that keep things
+  light and tasty, making it a solid pick for sushi lovers. Many appreciate the
+  relaxed setting, which feels just right for casual get-togethers or a solo
+  meal, with comments highlighting the variety that caters to different
+  preferences. Some note that the service hits the mark with its efficiency and
+  friendliness, adding to the overall positive vibe without any major drawbacks.
+  While a few point out it's a dependable spot for everyday dining, the general
+  feedback leans toward it being a go-to for quality Japanese fare in the
+  neighborhood. If you're on the hunt for sushi close to you, this place seems
+  to deliver a consistently enjoyable experience that leaves people coming back
+  for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +248,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -5,4 +5,5 @@ permalink: /arizona/avondale/
 stateAbbr: AZ
 stateName: Arizona
 cityName: Avondale
+
 ---

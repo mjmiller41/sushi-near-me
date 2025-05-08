@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Go 55"
+title: Sushi Go 55
 permalink: /california/los-angeles/sushi-go-55.html
 stateAbbr: CA
 stateName: California
 cityName: Los Angeles
 seo:
-  name: "Sushi Go 55"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi Go 55 serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJyy_0pjnGwoAR9O-lN9DuOJc
 photos:
   - name: >-
@@ -170,7 +168,121 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c2c639a6f42fcb:0x9738eed037a5eff4!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 14
+        minute: 30
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 15
+      close:
+        day: 1
+        hour: 14
+        minute: 15
+    - open:
+        day: 1
+        hour: 17
+        minute: 30
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 15
+      close:
+        day: 2
+        hour: 14
+        minute: 15
+    - open:
+        day: 2
+        hour: 17
+        minute: 30
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 15
+      close:
+        day: 3
+        hour: 14
+        minute: 15
+    - open:
+        day: 3
+        hour: 17
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 15
+      close:
+        day: 4
+        hour: 14
+        minute: 15
+    - open:
+        day: 4
+        hour: 17
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 15
+      close:
+        day: 5
+        hour: 14
+        minute: 15
+    - open:
+        day: 5
+        hour: 17
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 14
+        minute: 30
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:15 AM – 2:15 PM, 5:30 – 10:00 PM'
     - 'Tuesday: 11:15 AM – 2:15 PM, 5:30 – 10:00 PM'
     - 'Wednesday: 11:15 AM – 2:15 PM, 5:30 – 10:00 PM'
@@ -178,14 +290,7 @@ opening_hours:
     - 'Friday: 11:15 AM – 2:15 PM, 5:30 – 10:00 PM'
     - 'Saturday: 11:30 AM – 2:30 PM, 5:00 – 10:00 PM'
     - 'Sunday: 11:30 AM – 2:30 PM, 5:00 – 10:00 PM'
-  current:
-    - 'Monday: 11:15 AM – 2:15 PM, 5:30 – 10:00 PM'
-    - 'Tuesday: 11:15 AM – 2:15 PM, 5:30 – 10:00 PM'
-    - 'Wednesday: 11:15 AM – 2:15 PM, 5:30 – 10:00 PM'
-    - 'Thursday: 11:15 AM – 2:15 PM, 5:30 – 10:00 PM'
-    - 'Friday: 11:15 AM – 2:15 PM, 5:30 – 10:00 PM'
-    - 'Saturday: 11:30 AM – 2:30 PM, 5:00 – 10:00 PM'
-    - 'Sunday: 11:30 AM – 2:30 PM, 5:00 – 10:00 PM'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +302,255 @@ phone: (213) 687-0777
 price_level: PRICE_LEVEL_MODERATE
 price_range: $30 &ndash; $50
 rating: '4.4'
-rating_count: 0
+rating_count: 309
 website: null
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Sushi Go 55 in Los Angeles, CA$$$Sushi Go 55 in Los Angeles, CA,
+  offers a welcoming retreat for those seeking fresh Japanese flavors in a
+  casual setting. Nestled within the vibrant Little Tokyo area, this spot
+  highlights simple yet expertly prepared sushi dishes that emphasize
+  high-quality fish and traditional techniques. Visitors can enjoy a variety of
+  Japanese fare alongside options like beer and sake, making it a go-to choice
+  for authentic dining experiences near bustling urban spots. The restaurant's
+  accessible features, such as wheelchair-friendly entrances and seating, ensure
+  a comfortable visit for everyone, while its moderate pricing adds to the
+  appeal for locals and tourists exploring top sushi options in the city.
+generative_summary: >-
+  Discover Sushi Go 55 in Los Angeles, CA$$$Sushi Go 55 in Los Angeles, CA,
+  offers a welcoming retreat for those seeking fresh Japanese flavors in a
+  casual setting. Nestled within the vibrant Little Tokyo area, this spot
+  highlights simple yet expertly prepared sushi dishes that emphasize
+  high-quality fish and traditional techniques. Visitors can enjoy a variety of
+  Japanese fare alongside options like beer and sake, making it a go-to choice
+  for authentic dining experiences near bustling urban spots. The restaurant's
+  accessible features, such as wheelchair-friendly entrances and seating, ensure
+  a comfortable visit for everyone, while its moderate pricing adds to the
+  appeal for locals and tourists exploring top sushi options in the city.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJyy_0pjnGwoAR9O-lN9DuOJc/reviews/ChdDSUhNMG9nS0VJQ0FnTURvck5XcGhnRRAB
+    relativePublishTimeDescription: a week ago
+    rating: 3
+    text:
+      text: >-
+        Lots of good reviews but sadly I did not have a positive experience. I
+        am giving 3 stars because i want so badly to like it. The server and
+        sushi chef were nice but unfortunately we had a language barrier w our
+        waiter which resulted in receiving food with ingredients we voiced we
+        could not have. It was also really expensive. $40 for 2 pieces of
+        scallop and 2 pieces of massago sashimi.
+      languageCode: en
+    originalText:
+      text: >-
+        Lots of good reviews but sadly I did not have a positive experience. I
+        am giving 3 stars because i want so badly to like it. The server and
+        sushi chef were nice but unfortunately we had a language barrier w our
+        waiter which resulted in receiving food with ingredients we voiced we
+        could not have. It was also really expensive. $40 for 2 pieces of
+        scallop and 2 pieces of massago sashimi.
+      languageCode: en
+    authorAttribution:
+      displayName: elisabeth krimian
+      uri: https://www.google.com/maps/contrib/107402957377434581131/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJ4gYW7YoaBE3rt4CBVEDp1CTGb9JFYsi5vIX0OKNXriNHzgQ=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-22T15:29:19.200195Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURvck5XcGhnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURvck5XcGhnRRAB!2m1!1s0x80c2c639a6f42fcb:0x9738eed037a5eff4
+  - name: >-
+      places/ChIJyy_0pjnGwoAR9O-lN9DuOJc/reviews/ChZDSUhNMG9nS0VJQ0FnSUREZ3F5c0xBEAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        A top 3 LA sushi restaurant, probably one of the closest to authentic
+        Japanese sushi. Definitley some of the best little Tokyo has to offer.
+        The sushi plate was fresh and with subtle flavors in the fish.
+      languageCode: en
+    originalText:
+      text: >-
+        A top 3 LA sushi restaurant, probably one of the closest to authentic
+        Japanese sushi. Definitley some of the best little Tokyo has to offer.
+        The sushi plate was fresh and with subtle flavors in the fish.
+      languageCode: en
+    authorAttribution:
+      displayName: Austin M
+      uri: https://www.google.com/maps/contrib/109198446957076044714/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUj6AC8RBXCGYGRKa0IQx2OTCktOfv21CV1B-DKPIiysPPIlHo=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-04-07T03:45:36.508103Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUREZ3F5c0xBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUREZ3F5c0xBEAE!2m1!1s0x80c2c639a6f42fcb:0x9738eed037a5eff4
+  - name: >-
+      places/ChIJyy_0pjnGwoAR9O-lN9DuOJc/reviews/ChZDSUhNMG9nS0VJQ0FnSUNwbWFYdkNREAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        We placed a Togo order for a delightful variety of dishes at this
+        Japanese restaurant located in downtown LA. It happens to be one of my
+        brother's favorite places, and he was determined to welcome me with a
+        special dinner from here, despite the crazy Friday traffic in the area.
+        Arriving a little early, we patiently waited for them to open at exactly
+        5:00 pm. Since our order was quite substantial, they kindly brought the
+        food to our car in the parking structure. My generous brother left a big
+        tip for both the waitress and the person who delivered the food. The
+        entire family thoroughly enjoyed the meal. I opted for the chirashi,
+        which was a generous portion of fresh sashimi, rice, and a variety of
+        veggies. It paired perfectly with my niece's favorite beer, Allagash
+        Curieux, which I found to be excellent. Later, we also indulged in some
+        sake. The gathering was filled with heartwarming conversations and
+        scrumptious food, making it a truly cherished moment for all of us. Such
+        experiences remind us of the joy of family gatherings and the simple
+        pleasures of life.
+      languageCode: en
+    originalText:
+      text: >-
+        We placed a Togo order for a delightful variety of dishes at this
+        Japanese restaurant located in downtown LA. It happens to be one of my
+        brother's favorite places, and he was determined to welcome me with a
+        special dinner from here, despite the crazy Friday traffic in the area.
+        Arriving a little early, we patiently waited for them to open at exactly
+        5:00 pm. Since our order was quite substantial, they kindly brought the
+        food to our car in the parking structure. My generous brother left a big
+        tip for both the waitress and the person who delivered the food. The
+        entire family thoroughly enjoyed the meal. I opted for the chirashi,
+        which was a generous portion of fresh sashimi, rice, and a variety of
+        veggies. It paired perfectly with my niece's favorite beer, Allagash
+        Curieux, which I found to be excellent. Later, we also indulged in some
+        sake. The gathering was filled with heartwarming conversations and
+        scrumptious food, making it a truly cherished moment for all of us. Such
+        experiences remind us of the joy of family gatherings and the simple
+        pleasures of life.
+      languageCode: en
+    authorAttribution:
+      displayName: Xavier K
+      uri: https://www.google.com/maps/contrib/106667355305306471721/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXULRzCa_Muo6R6Fr_CUp-sDtY7U2kSzTZ7omiw8MBoXG2WmxdSUw=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2023-08-06T14:46:20.581874Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNwbWFYdkNREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNwbWFYdkNREAE!2m1!1s0x80c2c639a6f42fcb:0x9738eed037a5eff4
+  - name: >-
+      places/ChIJyy_0pjnGwoAR9O-lN9DuOJc/reviews/ChZDSUhNMG9nS0VJQ0FnSURJMmJMYkVBEAE
+    relativePublishTimeDescription: 6 years ago
+    rating: 5
+    text:
+      text: >-
+        We arrived after the lunch rush and was treated to the front-row seat
+        right by the chefs. We had been looking forward to this meal after
+        finding Sushi Go 55 from our research. We loved how fresh the sushi and
+        sashimi’s were, and the servers were warm and attentive. We did have a
+        little difficulty finding the restaurant at first. There was a lack of
+        obvious signage outside, but the food more than made up for it.
+        Definitely going back next time we’re in LA.
+      languageCode: en
+    originalText:
+      text: >-
+        We arrived after the lunch rush and was treated to the front-row seat
+        right by the chefs. We had been looking forward to this meal after
+        finding Sushi Go 55 from our research. We loved how fresh the sushi and
+        sashimi’s were, and the servers were warm and attentive. We did have a
+        little difficulty finding the restaurant at first. There was a lack of
+        obvious signage outside, but the food more than made up for it.
+        Definitely going back next time we’re in LA.
+      languageCode: en
+    authorAttribution:
+      displayName: Rocky Yim
+      uri: https://www.google.com/maps/contrib/116761403705231842669/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWj7-FD2CJ_Iiwqah_0EzGY9aet6iIZoVeZ9BepOAyoXADciWqY=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2019-01-12T00:02:41.465485630Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURJMmJMYkVBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURJMmJMYkVBEAE!2m1!1s0x80c2c639a6f42fcb:0x9738eed037a5eff4
+  - name: >-
+      places/ChIJyy_0pjnGwoAR9O-lN9DuOJc/reviews/ChZDSUhNMG9nS0VJQ0FnSUM2bUxtQUlnEAE
+    relativePublishTimeDescription: 3 years ago
+    rating: 4
+    text:
+      text: >-
+        2 hours from start to finish including wait-list. Sorry to say but it
+        wasn't worth the wait. Was only 4th on the list but the limited 7 tables
+        made the wait over 30 min. Coming from a real Japanese visitor, it
+        didn't meet expectations especially from the higher prices being
+        charged. Received the wrong nigiri order at first. Only 1 server who can
+        speak Japanese couldn't provide all the tables with the proper attention
+        that was required. Decent level of authentic sushi in US.
+      languageCode: en
+    originalText:
+      text: >-
+        2 hours from start to finish including wait-list. Sorry to say but it
+        wasn't worth the wait. Was only 4th on the list but the limited 7 tables
+        made the wait over 30 min. Coming from a real Japanese visitor, it
+        didn't meet expectations especially from the higher prices being
+        charged. Received the wrong nigiri order at first. Only 1 server who can
+        speak Japanese couldn't provide all the tables with the proper attention
+        that was required. Decent level of authentic sushi in US.
+      languageCode: en
+    authorAttribution:
+      displayName: Coy Tran
+      uri: https://www.google.com/maps/contrib/102319808565524021569/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWITOU0PB5BXCbtPMOoWd4X36p3f7VcXY2bR13w7UOqJlxx1lzvlA=s128-c0x00000000-cc-rp-mo-ba8
+    publishTime: '2021-08-30T00:09:03.952729Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUM2bUxtQUlnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUM2bUxtQUlnEAE!2m1!1s0x80c2c639a6f42fcb:0x9738eed037a5eff4
+review_summary: >-
+  What People Are Buzzing About$$$Visitors often rave about the fresh and
+  authentic sushi at this spot, praising its subtle flavors and high-quality
+  ingredients that make it stand out among local Japanese places. While some
+  mention occasional waits during peak times, many appreciate the warm service
+  and cozy atmosphere that enhance the overall meal. Feedback highlights the
+  generous portions and variety of dishes, creating a satisfying experience for
+  groups or solo diners looking for reliable sushi nearby. Overall, it's clear
+  that the restaurant delivers on taste and value, with most agreeing it's a
+  solid pick for anyone craving top-rated sushi in a laid-back environment,
+  though a few note the costs can add up for premium selections.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
+delivery: true
+dine_in: true
 good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: false
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: false
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Cozy family-owned Japanese joint focuses on the fish with simple sushi
+  preparations, plus sake.
 
 ---

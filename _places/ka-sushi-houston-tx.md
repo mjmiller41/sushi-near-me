@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "KA Sushi"
+title: KA Sushi
 permalink: /texas/houston/ka-sushi.html
 stateAbbr: TX
 stateName: Texas
 cityName: Houston
 seo:
-  name: "KA Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.kasushi.com/
-description: "KA Sushi serves delicious sushi in Houston, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJbRSAzG3HQIYRfJ40p4-T1X4
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8640c76dcc80146d:0x7ed5938fa7349e7c!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 10:00 PM'
     - 'Tuesday: 11:30 AM – 10:00 PM'
     - 'Wednesday: 11:30 AM – 10:00 PM'
@@ -178,54 +234,367 @@ opening_hours:
     - 'Friday: 11:30 AM – 11:00 PM'
     - 'Saturday: 11:30 AM – 11:00 PM'
     - 'Sunday: 11:30 AM – 9:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 10:00 PM'
-    - 'Tuesday: 11:30 AM – 10:00 PM'
-    - 'Wednesday: 11:30 AM – 10:00 PM'
-    - 'Thursday: 11:30 AM – 10:00 PM'
-    - 'Friday: 11:30 AM – 11:00 PM'
-    - 'Saturday: 11:30 AM – 11:00 PM'
-    - 'Sunday: 11:30 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 11
+          minute: 30
+        close:
+          day: 0
+          hour: 18
+          minute: 30
+      - open:
+          day: 1
+          hour: 15
+          minute: 0
+        close:
+          day: 1
+          hour: 18
+          minute: 30
+      - open:
+          day: 2
+          hour: 15
+          minute: 0
+        close:
+          day: 2
+          hour: 18
+          minute: 30
+      - open:
+          day: 3
+          hour: 15
+          minute: 0
+        close:
+          day: 3
+          hour: 18
+          minute: 30
+      - open:
+          day: 4
+          hour: 15
+          minute: 0
+        close:
+          day: 4
+          hour: 18
+          minute: 30
+      - open:
+          day: 5
+          hour: 15
+          minute: 0
+        close:
+          day: 5
+          hour: 18
+          minute: 30
+      - open:
+          day: 6
+          hour: 11
+          minute: 30
+        close:
+          day: 6
+          hour: 18
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 3:00 – 6:30 PM'
+      - 'Tuesday: 3:00 – 6:30 PM'
+      - 'Wednesday: 3:00 – 6:30 PM'
+      - 'Thursday: 3:00 – 6:30 PM'
+      - 'Friday: 3:00 – 6:30 PM'
+      - 'Saturday: 11:30 AM – 6:30 PM'
+      - 'Sunday: 11:30 AM – 6:30 PM'
+    secondaryHoursType: HAPPY_HOUR
+    nextCloseTime: '2025-05-03T23:30:00Z'
 phone: (832) 879-2118
 price_level: PRICE_LEVEL_MODERATE
-price_range: null
+price_range: $20 &ndash; $30
 rating: '4.4'
-rating_count: 0
+rating_count: 1001
 website: https://www.kasushi.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover KA Sushi in Houston$$$KA Sushi in Houston, TX, stands out as a trendy
+  destination for enjoying fresh sushi and innovative Japanese flavors. This
+  contemporary spot offers a variety of inventive small plates and cocktails,
+  complemented by a selection of sake, wine, and Japanese whiskey, making it
+  ideal for casual outings or happy hour gatherings. With accessible features
+  like wheelchair-friendly entrances and seating, along with inviting outdoor
+  options, it caters to a wide range of diners seeking quality Japanese cuisine.
+  The atmosphere blends chic design with a clean, welcoming vibe, enhancing the
+  overall dining experience. Whether you're looking for top-rated sushi places
+  near you, this location delivers a modern twist on classics that keeps locals
+  coming back for more.
+generative_summary: >-
+  Discover KA Sushi in Houston$$$KA Sushi in Houston, TX, stands out as a trendy
+  destination for enjoying fresh sushi and innovative Japanese flavors. This
+  contemporary spot offers a variety of inventive small plates and cocktails,
+  complemented by a selection of sake, wine, and Japanese whiskey, making it
+  ideal for casual outings or happy hour gatherings. With accessible features
+  like wheelchair-friendly entrances and seating, along with inviting outdoor
+  options, it caters to a wide range of diners seeking quality Japanese cuisine.
+  The atmosphere blends chic design with a clean, welcoming vibe, enhancing the
+  overall dining experience. Whether you're looking for top-rated sushi places
+  near you, this location delivers a modern twist on classics that keeps locals
+  coming back for more.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJbRSAzG3HQIYRfJ40p4-T1X4/reviews/ChZDSUhNMG9nS0VJQ0FnTURvMmYzRFlnEAE
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        KA Sushi’s happy hour is outstanding! We enjoyed the beautiful weather
+        on their charming patio, which set the perfect vibe. The oysters, both
+        raw and broiled, were phenomenal, bursting with fresh, bold flavors. The
+        Old Fashioned was spot on—perfectly balanced and expertly crafted. Happy
+        hour deals are fantastic, with generous portions and great prices on
+        cocktails and sushi. The staff was friendly and attentive, making it an
+        ideal spot for a fun evening. Highly recommend and can’t wait to return!
+      languageCode: en
+    originalText:
+      text: >-
+        KA Sushi’s happy hour is outstanding! We enjoyed the beautiful weather
+        on their charming patio, which set the perfect vibe. The oysters, both
+        raw and broiled, were phenomenal, bursting with fresh, bold flavors. The
+        Old Fashioned was spot on—perfectly balanced and expertly crafted. Happy
+        hour deals are fantastic, with generous portions and great prices on
+        cocktails and sushi. The staff was friendly and attentive, making it an
+        ideal spot for a fun evening. Highly recommend and can’t wait to return!
+      languageCode: en
+    authorAttribution:
+      displayName: Lex Nguyen
+      uri: https://www.google.com/maps/contrib/108631845490703909967/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUr4L8ECXwROIHi_EEU0m3aXlzyPakJK5n4mcy0jJYs8R5spkBasA=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-26T14:59:58.833205Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURvMmYzRFlnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURvMmYzRFlnEAE!2m1!1s0x8640c76dcc80146d:0x7ed5938fa7349e7c
+  - name: >-
+      places/ChIJbRSAzG3HQIYRfJ40p4-T1X4/reviews/ChZDSUhNMG9nS0VJQ0FnSUNfNi0zLUJBEAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        I have been to myriad sushi restaurants through the decades, and by far
+        this restaurant produces the best meals I am lucky to enjoy!  They don't
+        serve 'ordinary' sushi meals; no, the flavors and creations are
+        next-level. You'll get very tasty food, presented beautifully.
+
+
+        The staff was as wonderful as was the food.  We were immediately greeted
+        and made to feel special.  The food came quickly and our server made
+        sure we were well attended to.
+
+
+        The restaurant is clean and neat, an indication that the kitchen is also
+        clean.
+
+
+        One of the best!
+      languageCode: en
+    originalText:
+      text: >-
+        I have been to myriad sushi restaurants through the decades, and by far
+        this restaurant produces the best meals I am lucky to enjoy!  They don't
+        serve 'ordinary' sushi meals; no, the flavors and creations are
+        next-level. You'll get very tasty food, presented beautifully.
+
+
+        The staff was as wonderful as was the food.  We were immediately greeted
+        and made to feel special.  The food came quickly and our server made
+        sure we were well attended to.
+
+
+        The restaurant is clean and neat, an indication that the kitchen is also
+        clean.
+
+
+        One of the best!
+      languageCode: en
+    authorAttribution:
+      displayName: JaMonDrew
+      uri: https://www.google.com/maps/contrib/101474487466987245521/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJ_y8DpkIFOl2JSlu9pFs2_eRBGSkWW3cEHdvHKmSrHGimG5g=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-01-19T04:26:10.279261Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNfNi0zLUJBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNfNi0zLUJBEAE!2m1!1s0x8640c76dcc80146d:0x7ed5938fa7349e7c
+  - name: >-
+      places/ChIJbRSAzG3HQIYRfJ40p4-T1X4/reviews/ChZDSUhNMG9nS0VJQ0FnSUNfcG96YlB3EAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 4
+    text:
+      text: >-
+        Good place for a quick drink and bite. The eggplant is delicious.
+        Tempura veggies were good, not amazing. Didn’t have a cocktail, was told
+        they were good, and had super clear big balls of ice. The mocktails
+        weren’t super. Would maybe go here again.
+      languageCode: en
+    originalText:
+      text: >-
+        Good place for a quick drink and bite. The eggplant is delicious.
+        Tempura veggies were good, not amazing. Didn’t have a cocktail, was told
+        they were good, and had super clear big balls of ice. The mocktails
+        weren’t super. Would maybe go here again.
+      languageCode: en
+    authorAttribution:
+      displayName: Susan McGowan
+      uri: https://www.google.com/maps/contrib/107133237901741956073/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVzk4mcBWO0B5CunxCLkMqmIz0Azih9w7ZSUosn4DEGmndUIL8M=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2025-01-15T17:41:27.732062Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNfcG96YlB3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNfcG96YlB3EAE!2m1!1s0x8640c76dcc80146d:0x7ed5938fa7349e7c
+  - name: >-
+      places/ChIJbRSAzG3HQIYRfJ40p4-T1X4/reviews/ChRDSUhNMG9nS0VJQ0FnSURyMTlscRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 2
+    text:
+      text: >-
+        Edit 2/14 - 2 stars: I finally came here for dinner and it was bad. The
+        service took forever - I had to ask 3 times for a waiter to take my
+        order - it took 20min. The food prep took another 25min. The team was
+        putting dirty dishes right around where I was seated at the counter, so
+        I felt like sitting in the kitchen. The sushi quality was just ok too…
+        Not worth the price tag.
+
+
+        Really liked this spot. Neat and spacious inside. Very friendly staff -
+        especially Michael at the bar!
+
+        Can highly recommend to try their happy hour (everyday until 6:30pm)
+      languageCode: en
+    originalText:
+      text: >-
+        Edit 2/14 - 2 stars: I finally came here for dinner and it was bad. The
+        service took forever - I had to ask 3 times for a waiter to take my
+        order - it took 20min. The food prep took another 25min. The team was
+        putting dirty dishes right around where I was seated at the counter, so
+        I felt like sitting in the kitchen. The sushi quality was just ok too…
+        Not worth the price tag.
+
+
+        Really liked this spot. Neat and spacious inside. Very friendly staff -
+        especially Michael at the bar!
+
+        Can highly recommend to try their happy hour (everyday until 6:30pm)
+      languageCode: en
+    authorAttribution:
+      displayName: Anton S.
+      uri: https://www.google.com/maps/contrib/118018933681888379139/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUWwYyXm9QC53xdcYQo-cbblrDEM65S8LQ4a-wTQnPh1lJMK5pA=s128-c0x00000000-cc-rp-mo-ba7
+    publishTime: '2025-02-15T16:37:36.522156Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChRDSUhNMG9nS0VJQ0FnSURyMTlscRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChRDSUhNMG9nS0VJQ0FnSURyMTlscRAB!2m1!1s0x8640c76dcc80146d:0x7ed5938fa7349e7c
+  - name: >-
+      places/ChIJbRSAzG3HQIYRfJ40p4-T1X4/reviews/ChdDSUhNMG9nS0VJQ0FnSUQzanBfSXZRRRAB
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        We came in on a tuesday night, it was quiet. we sat outside and had
+        Danny as our server, he was great! and the manager also stopped by to
+        make sure we were being taken care of.
+
+
+        I had the espresso martini- it is made with tequila which i’m not
+        entirely sure i’m a fan of. My cousin loved her sake.
+
+
+        1.rockefeller oysters 9/10 would get again
+
+        2nd roll- 2/10 do not like fried rolls- not the restaurants fault at all
+        tho.
+
+        3. wagyu slim- 7.5/10 i liked it but i needed a lil extra something
+
+        4.chimi roll - 8/10. interesting flavors, pretty good.
+      languageCode: en
+    originalText:
+      text: >-
+        We came in on a tuesday night, it was quiet. we sat outside and had
+        Danny as our server, he was great! and the manager also stopped by to
+        make sure we were being taken care of.
+
+
+        I had the espresso martini- it is made with tequila which i’m not
+        entirely sure i’m a fan of. My cousin loved her sake.
+
+
+        1.rockefeller oysters 9/10 would get again
+
+        2nd roll- 2/10 do not like fried rolls- not the restaurants fault at all
+        tho.
+
+        3. wagyu slim- 7.5/10 i liked it but i needed a lil extra something
+
+        4.chimi roll - 8/10. interesting flavors, pretty good.
+      languageCode: en
+    authorAttribution:
+      displayName: arianny diaz
+      uri: https://www.google.com/maps/contrib/111826566779920723896/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjU8-Wtc8UTjSDggsCgzk-7V6wFEQAXGAFTOQogbrRcFlM7rEuk=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2024-11-15T05:05:28.203316Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQzanBfSXZRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQzanBfSXZRRRAB!2m1!1s0x8640c76dcc80146d:0x7ed5938fa7349e7c
+review_summary: >-
+  Visitor Feedback Highlights$$$Visitors often rave about the fantastic happy
+  hour deals at this sushi spot, praising the tasty rolls, fresh oysters, and
+  well-crafted cocktails that make for an enjoyable evening. Many appreciate the
+  attentive service and the clean, spacious atmosphere with both indoor and
+  outdoor seating, perfect for groups or relaxed meals. While the wide selection
+  of sushi and sashimi impresses with its flavors and presentation, some note
+  that prices can feel a bit steep for what you get. Overall, it's a solid
+  choice for anyone hunting for great Japanese places near me, with the
+  positives like generous portions and drink options outweighing minor
+  drawbacks. If you're in the mood for reliable sushi restaurants close to you,
+  this one delivers a mostly positive vibe worth checking out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
+delivery: true
+dine_in: true
+good_for_children: false
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
 serves_brunch: null
-serves_cocktails: null
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Contemporary sushi bar serving twists on Japanese classics, inventive small
+  plates & cocktails.
 
 ---

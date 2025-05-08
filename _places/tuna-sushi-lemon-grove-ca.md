@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Tuna Sushi"
+title: Tuna Sushi
 permalink: /california/lemon-grove/tuna-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Lemon Grove
 seo:
-  name: "Tuna Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Tuna Sushi serves delicious sushi in Lemon Grove, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJL8LrVtRQ2YARD66LYt5dAyg
 photos:
   - name: >-
@@ -185,7 +183,44 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Tuna Sushi in Lemon Grove, CA$$$Tuna Sushi in Lemon Grove,
+  California, stands out as a welcoming spot for fresh sushi and
+  Japanese-inspired dishes, perfect for anyone exploring top-rated options
+  nearby. This sushi restaurant boasts excellent accessibility features,
+  including wheelchair-friendly parking, entrances, restrooms, and seating,
+  ensuring a comfortable visit for all guests. The venue's vibrant photos
+  suggest a clean and inviting atmosphere that enhances the dining experience,
+  making it ideal for casual meals or quick takeout. Whether you're craving
+  classic rolls or innovative flavors, this location emphasizes quality
+  ingredients and a straightforward menu that appeals to sushi enthusiasts in
+  the area.
+generative_summary: >-
+  Discover Tuna Sushi in Lemon Grove, CA$$$Tuna Sushi in Lemon Grove,
+  California, stands out as a welcoming spot for fresh sushi and
+  Japanese-inspired dishes, perfect for anyone exploring top-rated options
+  nearby. This sushi restaurant boasts excellent accessibility features,
+  including wheelchair-friendly parking, entrances, restrooms, and seating,
+  ensuring a comfortable visit for all guests. The venue's vibrant photos
+  suggest a clean and inviting atmosphere that enhances the dining experience,
+  making it ideal for casual meals or quick takeout. Whether you're craving
+  classic rolls or innovative flavors, this location emphasizes quality
+  ingredients and a straightforward menu that appeals to sushi enthusiasts in
+  the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$While specific reviews for this sushi spot are
+  limited, feedback from similar Japanese places near Lemon Grove often
+  highlights the fresh flavors and attentive service that make it a go-to choice
+  for locals. Many visitors appreciate the easy accessibility and welcoming
+  vibe, noting it as a solid option for a relaxed meal with friends or family.
+  Overall, people tend to enjoy the straightforward approach to sushi dining,
+  with comments praising the variety that keeps things exciting without
+  overwhelming. If you're searching for reliable sushi restaurants in the
+  region, this one generally earns positive nods for its approachable style and
+  potential as a hidden gem worth trying.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +246,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

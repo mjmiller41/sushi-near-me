@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Wild Rice Sushi and Grill"
+title: Wild Rice Sushi and Grill
 permalink: /illinois/naperville/wild-rice-sushi-and-grill.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Naperville
 seo:
-  name: "Wild Rice Sushi and Grill"
-  type: Restaurant
+  type: restaurant
   links: http://www.wildricesushi.net/
-description: "Wild Rice Sushi and Grill serves delicious sushi in Naperville, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ9TXG7oxXDogRZFhKm2ai0fw
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: null
 rating: '4.7'
 rating_count: 0
 website: http://www.wildricesushi.net/
+description: >-
+  Explore Wild Rice Sushi and Grill in Naperville, IL$$$Wild Rice Sushi and
+  Grill in Naperville, IL, offers a welcoming spot for enjoying fresh sushi and
+  hibachi-style dishes in a relaxed environment. This sushi restaurant stands
+  out with its casual vibe, making it ideal for casual meals or gatherings,
+  while featuring accessible options like wheelchair-friendly entrances and
+  seating for all visitors. Patrons can savor a variety of expertly prepared
+  rolls and grilled favorites, emphasizing quality ingredients that highlight
+  traditional Japanese flavors. The menu caters to diverse tastes, including
+  vegetarian choices and options for beer and wine, making it a go-to
+  destination for those seeking sushi places near me. With its convenient
+  location, it's perfect for anyone looking for top-rated sushi in the area.
+generative_summary: >-
+  Explore Wild Rice Sushi and Grill in Naperville, IL$$$Wild Rice Sushi and
+  Grill in Naperville, IL, offers a welcoming spot for enjoying fresh sushi and
+  hibachi-style dishes in a relaxed environment. This sushi restaurant stands
+  out with its casual vibe, making it ideal for casual meals or gatherings,
+  while featuring accessible options like wheelchair-friendly entrances and
+  seating for all visitors. Patrons can savor a variety of expertly prepared
+  rolls and grilled favorites, emphasizing quality ingredients that highlight
+  traditional Japanese flavors. The menu caters to diverse tastes, including
+  vegetarian choices and options for beer and wine, making it a go-to
+  destination for those seeking sushi places near me. With its convenient
+  location, it's perfect for anyone looking for top-rated sushi in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ9TXG7oxXDogRZFhKm2ai0fw/reviews/ChZDSUhNMG9nS0VJQ0FnSUR2X3FhbllBEAE
@@ -344,6 +367,21 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURmc19MQjdnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURmc19MQjdnRRAB!2m1!1s0x880e578ceec635f5:0xfcd1a2669b4a5864
+review_summary: >-
+  What Visitors Are Sharing About the Experience$$$Visitors often praise the
+  fresh sushi and flavorful hibachi dishes at this spot, noting that the rolls
+  are well-balanced and the service keeps things running smoothly for a
+  enjoyable meal. While most folks highlight the light, tasty options like
+  tempura and teriyaki that leave them feeling satisfied, a few mention that hot
+  dishes can vary in consistency, though the overall vibe remains upbeat. It's
+  clear that the friendly atmosphere and quick service make it a solid choice
+  for groups or families craving Japanese-inspired fare, with many leaving happy
+  and planning to return. Even with some mixed feedback on portion sizes or wait
+  times during busier moments, the general consensus leans positive, especially
+  for those hunting for reliable sushi restaurants nearby. If you're in the mood
+  for something simple and satisfying, this place delivers a generally uplifting
+  dining experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -375,7 +413,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

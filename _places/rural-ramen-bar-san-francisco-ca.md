@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Rural Ramen Bar"
+title: Rural Ramen Bar
 permalink: /california/san-francisco/rural-ramen-bar.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
 seo:
-  name: "Rural Ramen Bar"
-  type: Restaurant
+  type: restaurant
   links: https://www.ruralramenbarca.com/l9h0w017/restaurant/order-online
-description: "Rural Ramen Bar serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJr_OH-WiBhYARfUXHwDqwdSo
 photos:
   - name: >-
@@ -169,7 +167,121 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80858168f987f3af:0x2a75b03ac0c7457d!10e5
 primary_type: Ramen Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 15
+        minute: 30
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 20
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 20
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 15
+        minute: 30
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 20
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 2:30 PM, 5:00 – 8:00 PM'
     - 'Tuesday: 11:00 AM – 2:30 PM, 5:00 – 8:00 PM'
     - 'Wednesday: 11:00 AM – 2:30 PM, 5:00 – 8:00 PM'
@@ -177,14 +289,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 2:30 PM, 5:00 – 8:00 PM'
     - 'Saturday: 12:00 – 3:30 PM, 5:00 – 8:00 PM'
     - 'Sunday: 12:00 – 3:30 PM, 5:00 – 8:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 2:30 PM, 5:00 – 8:00 PM'
-    - 'Tuesday: 11:00 AM – 2:30 PM, 5:00 – 8:00 PM'
-    - 'Wednesday: 11:00 AM – 2:30 PM, 5:00 – 8:00 PM'
-    - 'Thursday: 11:00 AM – 2:30 PM, 5:00 – 8:00 PM'
-    - 'Friday: 11:00 AM – 2:30 PM, 5:00 – 8:00 PM'
-    - 'Saturday: 12:00 – 3:30 PM, 5:00 – 8:00 PM'
-    - 'Sunday: 12:00 – 3:30 PM, 5:00 – 8:00 PM'
+  nextCloseTime: '2025-05-03T22:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,35 +301,240 @@ phone: (415) 274-9942
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.5'
-rating_count: 0
+rating_count: 351
 website: https://www.ruralramenbarca.com/l9h0w017/restaurant/order-online
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Explore Rural Ramen Bar in San Francisco, CA$$$Nestled in the heart of San
+  Francisco, CA, Rural Ramen Bar offers a welcoming spot for enjoying authentic
+  Japanese-inspired dishes in a cozy, informal setting. The menu highlights
+  flavorful options like tonkotsu and spicy miso ramen, along with vegan
+  choices, making it a versatile choice for various tastes in Japanese places
+  near me. This accessible eatery features wheelchair-friendly entrances and
+  seating, ensuring everyone can savor the fresh broths and hearty noodles
+  without hassle. With its relaxed atmosphere and thoughtful decor, it's an
+  ideal stop for a comforting meal after exploring the city. Open for lunch and
+  dinner with options like beer and wine, this spot combines simplicity and
+  quality to satisfy cravings for top-rated Japanese cuisine.
+generative_summary: >-
+  Explore Rural Ramen Bar in San Francisco, CA$$$Nestled in the heart of San
+  Francisco, CA, Rural Ramen Bar offers a welcoming spot for enjoying authentic
+  Japanese-inspired dishes in a cozy, informal setting. The menu highlights
+  flavorful options like tonkotsu and spicy miso ramen, along with vegan
+  choices, making it a versatile choice for various tastes in Japanese places
+  near me. This accessible eatery features wheelchair-friendly entrances and
+  seating, ensuring everyone can savor the fresh broths and hearty noodles
+  without hassle. With its relaxed atmosphere and thoughtful decor, it's an
+  ideal stop for a comforting meal after exploring the city. Open for lunch and
+  dinner with options like beer and wine, this spot combines simplicity and
+  quality to satisfy cravings for top-rated Japanese cuisine.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJr_OH-WiBhYARfUXHwDqwdSo/reviews/ChZDSUhNMG9nS0VJQ0FnTURRNG8yOEpREAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        While en route to Fisherman's Wharf, our cable car happened to pass by
+        this ramen shop. Uncertain of what to anticipate, we were pleasantly
+        surprised to discover that it was the finest ramen establishment we had
+        the pleasure of visiting in San Francisco. The service was prompt, the
+        ambiance cozy, and the cuisine delectable, evoking memories of Japan.
+      languageCode: en
+    originalText:
+      text: >-
+        While en route to Fisherman's Wharf, our cable car happened to pass by
+        this ramen shop. Uncertain of what to anticipate, we were pleasantly
+        surprised to discover that it was the finest ramen establishment we had
+        the pleasure of visiting in San Francisco. The service was prompt, the
+        ambiance cozy, and the cuisine delectable, evoking memories of Japan.
+      languageCode: en
+    authorAttribution:
+      displayName: Mycah Midem
+      uri: https://www.google.com/maps/contrib/114692976951046331857/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUpHX5JDtCBYkF4FqT_T4E8k6qD6Q-tSxTO6-TyJSVD2BWlvEYx=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-03-10T04:17:38.928610Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURRNG8yOEpREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURRNG8yOEpREAE!2m1!1s0x80858168f987f3af:0x2a75b03ac0c7457d
+  - name: >-
+      places/ChIJr_OH-WiBhYARfUXHwDqwdSo/reviews/ChdDSUhNMG9nS0VJQ0FnSUMzbWQtRW1nRRAB
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        The BEST ramen we’ve had!! Broth was perfectly seasoned and all
+        Ingredients tasted fresh. Salad and appetizers were also very delicious.
+        Waiter was friendly and attentive. Lunch special was a great deal.
+      languageCode: en
+    originalText:
+      text: >-
+        The BEST ramen we’ve had!! Broth was perfectly seasoned and all
+        Ingredients tasted fresh. Salad and appetizers were also very delicious.
+        Waiter was friendly and attentive. Lunch special was a great deal.
+      languageCode: en
+    authorAttribution:
+      displayName: Jim Mayorga
+      uri: https://www.google.com/maps/contrib/111897537661845278613/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjW1WQYfMQY9DBqNCcc-rZujd27zuHMwVibD1RIxb8ZJ1dMUfkMKFg=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-11-07T01:58:52.273200Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMzbWQtRW1nRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMzbWQtRW1nRRAB!2m1!1s0x80858168f987f3af:0x2a75b03ac0c7457d
+  - name: >-
+      places/ChIJr_OH-WiBhYARfUXHwDqwdSo/reviews/ChdDSUhNMG9nS0VJQ0FnTURRaG83NDhnRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        My new favorite ramen 🍜 in SF! I appreciate that the Niwa is vegan as
+        is and doesn't need any additions (but I still asked for extra tofu for
+        the protein 💪). Delicious broth and the noodles are perfect. My only
+        complaint would be that the bok choy was a little hard to eat, but
+        that's so minor because otherwise it's amazing. Order a young coconut 🥥
+        and it comes with both a compostable straw (no plastic here!) plus a
+        spoon to scoop the meat. Polite service and very relaxed atmosphere with
+        cute decorations. I will absolutely be back and recommend this to
+        others.
+      languageCode: en
+    originalText:
+      text: >-
+        My new favorite ramen 🍜 in SF! I appreciate that the Niwa is vegan as
+        is and doesn't need any additions (but I still asked for extra tofu for
+        the protein 💪). Delicious broth and the noodles are perfect. My only
+        complaint would be that the bok choy was a little hard to eat, but
+        that's so minor because otherwise it's amazing. Order a young coconut 🥥
+        and it comes with both a compostable straw (no plastic here!) plus a
+        spoon to scoop the meat. Polite service and very relaxed atmosphere with
+        cute decorations. I will absolutely be back and recommend this to
+        others.
+      languageCode: en
+    authorAttribution:
+      displayName: Kristina Femal
+      uri: https://www.google.com/maps/contrib/108314476728056138700/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUR0_jmRy0tjpiseS8CIWZ_OzLIzkhOYD1KkRdZ0WMTmgJycSEpxw=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-03-10T18:33:11.346257Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURRaG83NDhnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURRaG83NDhnRRAB!2m1!1s0x80858168f987f3af:0x2a75b03ac0c7457d
+  - name: >-
+      places/ChIJr_OH-WiBhYARfUXHwDqwdSo/reviews/ChZDSUhNMG9nS0VJQ0FnSUNfeE1HZENnEAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        Very calm and relaxing atmosphere for your ramen and Curry crave. Only
+        one waiter so patients is of the essence, not very big party friendly
+        but luckily ours was able to find a table.
+      languageCode: en
+    originalText:
+      text: >-
+        Very calm and relaxing atmosphere for your ramen and Curry crave. Only
+        one waiter so patients is of the essence, not very big party friendly
+        but luckily ours was able to find a table.
+      languageCode: en
+    authorAttribution:
+      displayName: ElNinioRio
+      uri: https://www.google.com/maps/contrib/104660562819663798354/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUrTtJKeOniwZhLqGeIfbZY2TDfbPHnDM0yQx7AFpv3SbnYVdk_=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-01-12T22:52:48.885555Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNfeE1HZENnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNfeE1HZENnEAE!2m1!1s0x80858168f987f3af:0x2a75b03ac0c7457d
+  - name: >-
+      places/ChIJr_OH-WiBhYARfUXHwDqwdSo/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRM3NmOFFnEAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        We found rural ramen bar because we wanted something warm on a rainy day
+        and we were not disappointed! The spicy miso was super spicy without
+        being salty and the tori paitan was sooo creamy. They were perfect to
+        order together! The ramen portions are huge and the pork and chicken
+        chashu in the ramen was giant too. I've never seen chashu that big
+        before lol The poke salad was fresh and the chicken katsu curry was
+        juicy and crispy too. My partner thought the curry was a little sweet
+        but I thought it was just right and helped calm the spiciness from the
+        spicy ramen lol The staff was very friendly and the food came out
+        quickly. The perfect ramen spot!
+      languageCode: en
+    originalText:
+      text: >-
+        We found rural ramen bar because we wanted something warm on a rainy day
+        and we were not disappointed! The spicy miso was super spicy without
+        being salty and the tori paitan was sooo creamy. They were perfect to
+        order together! The ramen portions are huge and the pork and chicken
+        chashu in the ramen was giant too. I've never seen chashu that big
+        before lol The poke salad was fresh and the chicken katsu curry was
+        juicy and crispy too. My partner thought the curry was a little sweet
+        but I thought it was just right and helped calm the spiciness from the
+        spicy ramen lol The staff was very friendly and the food came out
+        quickly. The perfect ramen spot!
+      languageCode: en
+    authorAttribution:
+      displayName: Sam Lee
+      uri: https://www.google.com/maps/contrib/106303392246044193092/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLuEefaGrCHxYCHLDJQ0JU2Y9iJrtrHuNoihWg5L5aXMPtc167V=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-03-04T16:57:07.218601Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNRM3NmOFFnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNRM3NmOFFnEAE!2m1!1s0x80858168f987f3af:0x2a75b03ac0c7457d
+review_summary: >-
+  Visitor Feedback on Rural Ramen Bar$$$Folks rave about the delicious ramen
+  here, praising the perfectly seasoned broths and fresh ingredients that make
+  every bite feel like a standout experience. Many appreciate the generous
+  portions and great value, especially with lunch specials that keep things
+  affordable without skimping on flavor. The service stands out as friendly and
+  attentive, creating a calm and relaxed vibe that's perfect for a quick solo
+  visit or a casual get-together. While it's noted that the space works best for
+  smaller groups, the overall atmosphere and quick service add to the appeal for
+  anyone seeking a satisfying meal. All in all, it's a solid pick for those
+  hunting for hearty, well-prepared dishes that leave you feeling content and
+  ready to return.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+curbside_pickup: false
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
 serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_brunch: false
+serves_cocktails: false
+serves_coffee: true
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Thai curries, noodles & soups are served in a basic storefront space with a
+  few tables.
 
 ---

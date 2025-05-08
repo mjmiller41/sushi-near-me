@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Green Tea sushi"
+title: Green Tea sushi
 permalink: /kansas/manhattan/green-tea-sushi.html
 stateAbbr: KS
 stateName: Kansas
 cityName: Manhattan
 seo:
-  name: "Green Tea sushi"
-  type: Restaurant
+  type: restaurant
   links: https://greenteasushitogo.com/
-description: "Sushi house with Japanese decor for a variety of rolls, plus entrees such as teriyaki beef. Green Tea sushi serves delicious sushi in Manhattan, Kansas. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJIcDQnnnSvYcRFbvShmUS5bI
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 0
 website: https://greenteasushitogo.com/
+description: >-
+  Discover Green Tea Sushi in Manhattan, Kansas$$$Green Tea Sushi in Manhattan,
+  KS, stands out as a welcoming spot for enjoying fresh sushi and other
+  Asian-inspired dishes in a relaxed environment. This cozy Japanese restaurant
+  features authentic decor that enhances the dining experience, making it ideal
+  for those seeking top-rated sushi options nearby. Visitors can savor a variety
+  of creative rolls and entrees like teriyaki beef, all prepared with flavorful
+  ingredients that highlight traditional techniques. The casual setting is
+  perfect for casual meals, whether you're grabbing takeout or dining in, and it
+  caters to a range of preferences including vegetarian choices. For anyone
+  exploring sushi restaurants in the area, this location offers accessible
+  features like wheelchair-friendly options, ensuring a comfortable visit for
+  all.
+generative_summary: >-
+  Discover Green Tea Sushi in Manhattan, Kansas$$$Green Tea Sushi in Manhattan,
+  KS, stands out as a welcoming spot for enjoying fresh sushi and other
+  Asian-inspired dishes in a relaxed environment. This cozy Japanese restaurant
+  features authentic decor that enhances the dining experience, making it ideal
+  for those seeking top-rated sushi options nearby. Visitors can savor a variety
+  of creative rolls and entrees like teriyaki beef, all prepared with flavorful
+  ingredients that highlight traditional techniques. The casual setting is
+  perfect for casual meals, whether you're grabbing takeout or dining in, and it
+  caters to a range of preferences including vegetarian choices. For anyone
+  exploring sushi restaurants in the area, this location offers accessible
+  features like wheelchair-friendly options, ensuring a comfortable visit for
+  all.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJIcDQnnnSvYcRFbvShmUS5bI/reviews/ChZDSUhNMG9nS0VJQ0FnTURnek4zTElREAE
@@ -374,6 +399,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNPOE5TcmtRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNPOE5TcmtRRRAB!2m1!1s0x87bdd2799ed0c021:0xb2e5126586d2bb15
+review_summary: >-
+  What People Are Saying About the Experience$$$Folks around town often rave
+  about the tasty sushi and friendly service at this spot, with many
+  highlighting the flavorful dishes and artistic presentations that make meals
+  feel special. While most visitors appreciate the reasonable prices and
+  efficient ordering process, a few have mentioned occasional inconsistencies
+  with takeout portions that didn't quite meet expectations. Overall, the lively
+  atmosphere and attentive staff create a positive vibe that's drawn people from
+  nearby areas to return time and again. It's clear that this place shines for
+  groups or families looking for solid Asian cuisine, though some suggest
+  double-checking orders for the best results. If you're on the hunt for great
+  sushi close to you, this restaurant generally delivers a satisfying experience
+  worth trying out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -406,8 +445,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Sushi house with Japanese decor for a variety of rolls, plus entrees such as
   teriyaki beef.
 

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Samurai Sushi And Hibachi"
+title: Samurai Sushi And Hibachi
 permalink: /kentucky/louisville/samurai-sushi-and-hibachi.html
 stateAbbr: KY
 stateName: Kentucky
 cityName: Louisville
 seo:
-  name: "Samurai Sushi And Hibachi"
-  type: Restaurant
+  type: restaurant
   links: https://www.toasttab.com/samurai-sushi-and-hibachi-12905-shelbyville-road/v3
-description: "Samurai Sushi And Hibachi serves delicious sushi in Louisville, Kentucky. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJXWFMULKYaYgRzZ_Da0VcHqQ
 photos:
   - name: >-
@@ -170,7 +168,97 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x886998b2504c615d:0xa41e5c456bc39fcd!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 14
+        minute: 0
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 2:00 PM, 5:00 – 9:30 PM'
     - 'Tuesday: 11:30 AM – 2:00 PM, 5:00 – 9:30 PM'
     - 'Wednesday: 11:30 AM – 2:00 PM, 5:00 – 9:30 PM'
@@ -178,14 +266,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 2:00 PM, 5:00 – 10:30 PM'
     - 'Saturday: 5:00 – 10:30 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:30 AM – 2:00 PM, 5:00 – 9:30 PM'
-    - 'Tuesday: 11:30 AM – 2:00 PM, 5:00 – 9:30 PM'
-    - 'Wednesday: 11:30 AM – 2:00 PM, 5:00 – 9:30 PM'
-    - 'Thursday: 11:30 AM – 2:00 PM, 5:00 – 9:30 PM'
-    - 'Friday: 11:30 AM – 2:00 PM, 5:00 – 10:30 PM'
-    - 'Saturday: 5:00 – 10:30 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +278,48 @@ phone: (502) 253-0036
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.4'
-rating_count: 0
+rating_count: 538
 website: https://www.toasttab.com/samurai-sushi-and-hibachi-12905-shelbyville-road/v3
+description: >-
+  Discover Samurai Sushi And Hibachi in Louisville, KY$$$Samurai Sushi And
+  Hibachi in Louisville, KY, stands out as a casual dining spot specializing in
+  fresh sushi and flavorful hibachi options, perfect for those seeking authentic
+  Japanese cuisine. This restaurant boasts an array of creative rolls and
+  sizzling hibachi plates, complemented by a selection of sake to enhance your
+  meal. With accessibility features like wheelchair-friendly parking and
+  entrances, it's designed to welcome everyone for a comfortable experience.
+  Operating with convenient hours for lunch and dinner throughout the week, it
+  caters to busy diners looking for top sushi spots in the area. Whether you're
+  exploring sushi restaurants near you or craving a relaxed evening out, this
+  location delivers a blend of quality ingredients and inviting ambiance that
+  keeps patrons coming back.
+generative_summary: >-
+  Discover Samurai Sushi And Hibachi in Louisville, KY$$$Samurai Sushi And
+  Hibachi in Louisville, KY, stands out as a casual dining spot specializing in
+  fresh sushi and flavorful hibachi options, perfect for those seeking authentic
+  Japanese cuisine. This restaurant boasts an array of creative rolls and
+  sizzling hibachi plates, complemented by a selection of sake to enhance your
+  meal. With accessibility features like wheelchair-friendly parking and
+  entrances, it's designed to welcome everyone for a comfortable experience.
+  Operating with convenient hours for lunch and dinner throughout the week, it
+  caters to busy diners looking for top sushi spots in the area. Whether you're
+  exploring sushi restaurants near you or craving a relaxed evening out, this
+  location delivers a blend of quality ingredients and inviting ambiance that
+  keeps patrons coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What People Are Buzzing About$$$Visitors often rave about the delicious sushi
+  and hibachi dishes at this spot, noting how the flavors consistently hit the
+  mark for a satisfying meal. Many appreciate the friendly and attentive service
+  that makes dining out feel welcoming and efficient, adding to the overall
+  enjoyable vibe. Folks highlight the reliably good food quality, with fresh
+  ingredients shining through in every bite, making it a go-to for Japanese fare
+  enthusiasts. While it can get a bit busy at peak times, this adds to the
+  lively atmosphere without overshadowing the positives. All in all, it's a
+  solid choice for anyone hunting for great sushi places nearby, offering a mix
+  of tasty options and warm hospitality that leaves a positive impression.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +345,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

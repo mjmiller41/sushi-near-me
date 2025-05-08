@@ -5,4 +5,5 @@ permalink: /delaware/newark/
 stateAbbr: DE
 stateName: Delaware
 cityName: Newark
+
 ---

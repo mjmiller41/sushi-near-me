@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Anaya Sushi & Ramen"
+title: Anaya Sushi & Ramen
 permalink: /connecticut/new-haven/anaya-sushi-ramen.html
 stateAbbr: CT
 stateName: Connecticut
 cityName: New Haven
 seo:
-  name: "Anaya Sushi & Ramen"
-  type: Restaurant
+  type: restaurant
   links: https://www.orderanayact.com/
-description: "Anaya Sushi & Ramen serves delicious sushi in New Haven, Connecticut. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ5ydNwLLZ54kR3PKhEdmkceE
 photos:
   - name: >-
@@ -169,7 +167,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89e7d9b2c04d27e7:0xe171a4d911a1f2dc!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 9:00 PM'
     - 'Tuesday: 11:30 AM – 9:00 PM'
     - 'Wednesday: 11:30 AM – 9:00 PM'
@@ -177,28 +233,187 @@ opening_hours:
     - 'Friday: 11:30 AM – 10:00 PM'
     - 'Saturday: 11:30 AM – 10:00 PM'
     - 'Sunday: 11:30 AM – 9:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 9:00 PM'
-    - 'Tuesday: 11:30 AM – 9:00 PM'
-    - 'Wednesday: 11:30 AM – 9:00 PM'
-    - 'Thursday: 11:30 AM – 9:00 PM'
-    - 'Friday: 11:30 AM – 10:00 PM'
-    - 'Saturday: 11:30 AM – 10:00 PM'
-    - 'Sunday: 11:30 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 11
+          minute: 30
+        close:
+          day: 0
+          hour: 21
+          minute: 0
+      - open:
+          day: 1
+          hour: 11
+          minute: 30
+        close:
+          day: 1
+          hour: 21
+          minute: 0
+      - open:
+          day: 2
+          hour: 11
+          minute: 30
+        close:
+          day: 2
+          hour: 21
+          minute: 0
+      - open:
+          day: 3
+          hour: 11
+          minute: 30
+        close:
+          day: 3
+          hour: 21
+          minute: 0
+      - open:
+          day: 4
+          hour: 11
+          minute: 30
+        close:
+          day: 4
+          hour: 21
+          minute: 0
+      - open:
+          day: 5
+          hour: 11
+          minute: 30
+        close:
+          day: 5
+          hour: 21
+          minute: 0
+      - open:
+          day: 6
+          hour: 11
+          minute: 30
+        close:
+          day: 6
+          hour: 21
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 11:30 AM – 9:00 PM'
+      - 'Tuesday: 11:30 AM – 9:00 PM'
+      - 'Wednesday: 11:30 AM – 9:00 PM'
+      - 'Thursday: 11:30 AM – 9:00 PM'
+      - 'Friday: 11:30 AM – 9:00 PM'
+      - 'Saturday: 11:30 AM – 9:00 PM'
+      - 'Sunday: 11:30 AM – 9:00 PM'
+    secondaryHoursType: DELIVERY
+    nextCloseTime: '2025-05-04T01:00:00Z'
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 11
+          minute: 30
+        close:
+          day: 0
+          hour: 21
+          minute: 15
+      - open:
+          day: 1
+          hour: 11
+          minute: 30
+        close:
+          day: 1
+          hour: 21
+          minute: 15
+      - open:
+          day: 2
+          hour: 11
+          minute: 30
+        close:
+          day: 2
+          hour: 21
+          minute: 15
+      - open:
+          day: 3
+          hour: 11
+          minute: 30
+        close:
+          day: 3
+          hour: 21
+          minute: 15
+      - open:
+          day: 4
+          hour: 11
+          minute: 30
+        close:
+          day: 4
+          hour: 21
+          minute: 15
+      - open:
+          day: 5
+          hour: 11
+          minute: 30
+        close:
+          day: 5
+          hour: 21
+          minute: 15
+      - open:
+          day: 6
+          hour: 11
+          minute: 30
+        close:
+          day: 6
+          hour: 21
+          minute: 15
+    weekdayDescriptions:
+      - 'Monday: 11:30 AM – 9:15 PM'
+      - 'Tuesday: 11:30 AM – 9:15 PM'
+      - 'Wednesday: 11:30 AM – 9:15 PM'
+      - 'Thursday: 11:30 AM – 9:15 PM'
+      - 'Friday: 11:30 AM – 9:15 PM'
+      - 'Saturday: 11:30 AM – 9:15 PM'
+      - 'Sunday: 11:30 AM – 9:15 PM'
+    secondaryHoursType: TAKEOUT
+    nextCloseTime: '2025-05-04T01:15:00Z'
 phone: (203) 891-6716
 price_level: null
 price_range: $10 &ndash; $20
 rating: '3.6'
-rating_count: 0
+rating_count: 256
 website: https://www.orderanayact.com/
+description: >-
+  Discover Anaya Sushi & Ramen in New Haven, CT$$$Anaya Sushi & Ramen in New
+  Haven, CT, stands out as a welcoming hub for Japanese-inspired dining,
+  blending fresh sushi options with hearty ramen in a relaxed setting. This spot
+  highlights an array of creative rolls and flavorful noodle dishes, making it a
+  favorite for those exploring top-rated Japanese places nearby. The cozy
+  atmosphere enhances the experience, offering a comfortable space for casual
+  meals throughout the week. Accessibility features ensure it's easy for
+  everyone to enjoy, from quick lunches to evening gatherings. Whether you're
+  searching for sushi restaurants close to home, Anaya delivers a satisfying
+  taste of authentic flavors that keep diners returning.
+generative_summary: >-
+  Discover Anaya Sushi & Ramen in New Haven, CT$$$Anaya Sushi & Ramen in New
+  Haven, CT, stands out as a welcoming hub for Japanese-inspired dining,
+  blending fresh sushi options with hearty ramen in a relaxed setting. This spot
+  highlights an array of creative rolls and flavorful noodle dishes, making it a
+  favorite for those exploring top-rated Japanese places nearby. The cozy
+  atmosphere enhances the experience, offering a comfortable space for casual
+  meals throughout the week. Accessibility features ensure it's easy for
+  everyone to enjoy, from quick lunches to evening gatherings. Whether you're
+  searching for sushi restaurants close to home, Anaya delivers a satisfying
+  taste of authentic flavors that keep diners returning.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About Anaya$$$Visitors often rave about the fresh
+  sushi and tasty ramen at this spot, noting it as a solid pick for anyone
+  craving Japanese fare on a budget. While some mention occasional waits during
+  peak times, the overall vibe and food quality make it worth the visit for a
+  laid-back meal. Many appreciate the variety of options that cater to different
+  tastes, helping it maintain a respectable rating among local eateries. It's
+  frequently recommended for groups or solo diners looking for reliable sushi
+  places nearby, with the consensus leaning toward it being a dependable choice
+  rather than a standout. All in all, if you're hunting for "sushi near me,"
+  feedback suggests Anaya offers an enjoyable experience with room for minor
+  improvements.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -224,7 +439,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

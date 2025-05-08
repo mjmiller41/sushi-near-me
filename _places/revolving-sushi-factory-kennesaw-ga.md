@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Revolving Sushi Factory"
+title: Revolving Sushi Factory
 permalink: /georgia/kennesaw/revolving-sushi-factory.html
 stateAbbr: GA
 stateName: Georgia
 cityName: Kennesaw
 seo:
-  name: "Revolving Sushi Factory"
-  type: Restaurant
-  links: null
-description: "Revolving Sushi Factory serves delicious sushi in Kennesaw, Georgia. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://revolvingsushifactory.shop/
 place_id: ChIJMZt9UnQV9YgRmqu3ZY8fXFY
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x88f51574527d9b31:0x565c1f8f65b7ab9a!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:30 PM'
+    - 'Tuesday: 11:00 AM – 9:30 PM'
+    - 'Wednesday: 11:00 AM – 9:30 PM'
+    - 'Thursday: 11:00 AM – 9:30 PM'
+    - 'Friday: 11:00 AM – 10:00 PM'
+    - 'Saturday: 11:00 AM – 10:00 PM'
+    - 'Sunday: 11:30 AM – 9:30 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,53 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (770) 575-9933
+price_level: PRICE_LEVEL_INEXPENSIVE
+price_range: $10 &ndash; $20
+rating: '4.5'
+rating_count: 2304
+website: https://revolvingsushifactory.shop/
+description: >-
+  Discover Revolving Sushi Factory in Kennesaw, GA$$$Revolving Sushi Factory in
+  Kennesaw, GA, offers a lively dining experience centered around a rotating
+  sushi bar that brings fresh Japanese flavors right to your table. This spot
+  highlights traditional recipes with creative twists, including delectable
+  tempura and hearty noodles, making it a go-to for those seeking authentic yet
+  accessible Japanese cuisine. With its convenient location in a bustling area,
+  the restaurant features wheelchair-accessible amenities and affordable
+  pricing, ideal for families or casual outings. Operating daily with extended
+  hours on weekends, it's perfect for a quick lunch or evening meal, appealing
+  to anyone exploring top sushi options nearby. The vibrant setup ensures a fun,
+  interactive vibe that enhances every visit, drawing in locals and visitors
+  alike.
+generative_summary: >-
+  Discover Revolving Sushi Factory in Kennesaw, GA$$$Revolving Sushi Factory in
+  Kennesaw, GA, offers a lively dining experience centered around a rotating
+  sushi bar that brings fresh Japanese flavors right to your table. This spot
+  highlights traditional recipes with creative twists, including delectable
+  tempura and hearty noodles, making it a go-to for those seeking authentic yet
+  accessible Japanese cuisine. With its convenient location in a bustling area,
+  the restaurant features wheelchair-accessible amenities and affordable
+  pricing, ideal for families or casual outings. Operating daily with extended
+  hours on weekends, it's perfect for a quick lunch or evening meal, appealing
+  to anyone exploring top sushi options nearby. The vibrant setup ensures a fun,
+  interactive vibe that enhances every visit, drawing in locals and visitors
+  alike.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Folks who stop by this sushi spot often praise the
+  fresh ingredients and variety of rolls that keep things exciting and
+  flavorful, making it a solid choice for Japanese dining enthusiasts. Many
+  highlight the fun revolving bar concept as a highlight, adding an entertaining
+  twist to enjoying classic dishes without any fuss. While some mention
+  occasional waits during peak times, the overall atmosphere and speedy service
+  tend to win people over, especially for groups or families. It's frequently
+  noted as a budget-friendly option that doesn't skimp on taste, with plenty of
+  positive feedback on the tempura and noodle selections that leave diners
+  satisfied. All in all, this place maintains a strong reputation for reliable
+  quality, encouraging repeat visits for anyone craving great sushi in the area.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +314,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

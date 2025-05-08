@@ -5,4 +5,5 @@ permalink: /north-carolina/raleigh/
 stateAbbr: NC
 stateName: North Carolina
 cityName: Raleigh
+
 ---

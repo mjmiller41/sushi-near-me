@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "EBESU"
+title: EBESU
 permalink: /texas/plano/ebesu.html
 stateAbbr: TX
 stateName: Texas
 cityName: Plano
 seo:
-  name: "EBESU"
-  type: Restaurant
+  type: restaurant
   links: http://ebesu-usa.com/
-description: "EBESU serves delicious sushi in Plano, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJAwBQgxsZTIYRfiDFLMllic8
 photos:
   - name: >-
@@ -168,7 +166,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x864c191b83500003:0xcf8965c92cc5207e!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 5:00 – 9:30 PM'
     - 'Tuesday: 5:00 – 9:30 PM'
     - 'Wednesday: 5:00 – 9:30 PM'
@@ -176,54 +232,353 @@ opening_hours:
     - 'Friday: 5:00 – 10:00 PM'
     - 'Saturday: 5:00 – 10:00 PM'
     - 'Sunday: 5:00 – 9:30 PM'
-  current:
-    - 'Monday: 5:00 – 9:30 PM'
-    - 'Tuesday: 5:00 – 9:30 PM'
-    - 'Wednesday: 5:00 – 9:30 PM'
-    - 'Thursday: 5:00 – 9:30 PM'
-    - 'Friday: 5:00 – 10:00 PM'
-    - 'Saturday: 5:00 – 10:00 PM'
-    - 'Sunday: 5:00 – 9:30 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 17
+          minute: 0
+        close:
+          day: 0
+          hour: 21
+          minute: 0
+      - open:
+          day: 1
+          hour: 17
+          minute: 0
+        close:
+          day: 1
+          hour: 21
+          minute: 0
+      - open:
+          day: 2
+          hour: 17
+          minute: 0
+        close:
+          day: 2
+          hour: 21
+          minute: 0
+      - open:
+          day: 3
+          hour: 17
+          minute: 0
+        close:
+          day: 3
+          hour: 21
+          minute: 0
+      - open:
+          day: 4
+          hour: 17
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 0
+      - open:
+          day: 5
+          hour: 17
+          minute: 0
+        close:
+          day: 5
+          hour: 21
+          minute: 30
+      - open:
+          day: 6
+          hour: 17
+          minute: 0
+        close:
+          day: 6
+          hour: 21
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 5:00 – 9:00 PM'
+      - 'Tuesday: 5:00 – 9:00 PM'
+      - 'Wednesday: 5:00 – 9:00 PM'
+      - 'Thursday: 5:00 – 9:00 PM'
+      - 'Friday: 5:00 – 9:30 PM'
+      - 'Saturday: 5:00 – 9:30 PM'
+      - 'Sunday: 5:00 – 9:00 PM'
+    secondaryHoursType: TAKEOUT
+    nextCloseTime: '2025-05-04T02:30:00Z'
 phone: (972) 212-4564
 price_level: null
 price_range: $50 &ndash; $100
 rating: '4.8'
-rating_count: 0
+rating_count: 642
 website: http://ebesu-usa.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover EBESU in Plano, TX$$$EBESU in Plano, TX, stands out as a high-end
+  Japanese eatery specializing in fresh sushi and robata grill offerings, making
+  it a go-to spot for authentic flavors in the area. The inviting atmosphere
+  combines elegant design with thoughtful details, creating an ideal setting for
+  enjoying expertly prepared dishes that highlight quality ingredients. Visitors
+  can indulge in a variety of sushi options alongside robata-grilled
+  specialties, complemented by a lively happy hour that adds to the appeal.
+  Accessibility features like wheelchair-friendly entrances ensure a welcoming
+  experience for all, while the restaurant's operational hours cater to evening
+  diners seeking top-rated Japanese cuisine nearby.
+generative_summary: >-
+  Discover EBESU in Plano, TX$$$EBESU in Plano, TX, stands out as a high-end
+  Japanese eatery specializing in fresh sushi and robata grill offerings, making
+  it a go-to spot for authentic flavors in the area. The inviting atmosphere
+  combines elegant design with thoughtful details, creating an ideal setting for
+  enjoying expertly prepared dishes that highlight quality ingredients. Visitors
+  can indulge in a variety of sushi options alongside robata-grilled
+  specialties, complemented by a lively happy hour that adds to the appeal.
+  Accessibility features like wheelchair-friendly entrances ensure a welcoming
+  experience for all, while the restaurant's operational hours cater to evening
+  diners seeking top-rated Japanese cuisine nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJAwBQgxsZTIYRfiDFLMllic8/reviews/ChZDSUhNMG9nS0VJQ0FnTURRenZudWRREAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        This place became my favorite Japanese restaurant after the visit! The
+        interior is pleasant! The staffs were friendly and attentive. We ordered
+        the four courses, and each presentation was beautiful and each meal
+        tasted delicious! What a wonderful night was!
+      languageCode: en
+    originalText:
+      text: >-
+        This place became my favorite Japanese restaurant after the visit! The
+        interior is pleasant! The staffs were friendly and attentive. We ordered
+        the four courses, and each presentation was beautiful and each meal
+        tasted delicious! What a wonderful night was!
+      languageCode: en
+    authorAttribution:
+      displayName: Pin Yeoh (Foodie life)
+      uri: https://www.google.com/maps/contrib/113779777220300540641/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUSf-E4D5pguSIJBXT3cOzMmfDShwh2eL7htQbyRrSARrIQvNokeg=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-03-11T03:59:40.064001Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURRenZudWRREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURRenZudWRREAE!2m1!1s0x864c191b83500003:0xcf8965c92cc5207e
+  - name: >-
+      places/ChIJAwBQgxsZTIYRfiDFLMllic8/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRci12b0Z3EAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        This restaurant might be the best of any I’ve ever been to in my life. 
+        Certainly the best sushi.  The tuna was so fresh and everything just
+        melted in your mouth.  The tuna tartare with basil sauce was something
+        I’ve never even heard of but wow you have to try it.  The only thing
+        better than that was the A5 wagyu.  I can’t even describe how good it
+        is.  If you’ve never had it, it’s worth the price to try it.  The only
+        thing we didn’t care for was the sauce for
+
+        The fried chicken appetizer we got.  The chicken was perfectly fried in
+        tempura batter and so flavorful.  The sauce was a lemony creamy
+        something I don’t know, but it just wasn’t for us.  We got a side of eel
+        sauce for it instead and that was perfect. The service was absolutely
+        excellent and every person in the restaurant clearly cares about your
+        experience and does an outstanding job.  Very classy and upscale
+        restaurant.  This will be my absolute must come back to place in Dallas
+        when we visit!!
+      languageCode: en
+    originalText:
+      text: >-
+        This restaurant might be the best of any I’ve ever been to in my life. 
+        Certainly the best sushi.  The tuna was so fresh and everything just
+        melted in your mouth.  The tuna tartare with basil sauce was something
+        I’ve never even heard of but wow you have to try it.  The only thing
+        better than that was the A5 wagyu.  I can’t even describe how good it
+        is.  If you’ve never had it, it’s worth the price to try it.  The only
+        thing we didn’t care for was the sauce for
+
+        The fried chicken appetizer we got.  The chicken was perfectly fried in
+        tempura batter and so flavorful.  The sauce was a lemony creamy
+        something I don’t know, but it just wasn’t for us.  We got a side of eel
+        sauce for it instead and that was perfect. The service was absolutely
+        excellent and every person in the restaurant clearly cares about your
+        experience and does an outstanding job.  Very classy and upscale
+        restaurant.  This will be my absolute must come back to place in Dallas
+        when we visit!!
+      languageCode: en
+    authorAttribution:
+      displayName: Marlon Clark
+      uri: https://www.google.com/maps/contrib/101903602611211335762/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJ7aIAgr_tWOf0QxPbcogRbS1KhJhwE1tO9S1PHw3G9XB9ejg=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-03-08T04:51:22.453445Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNRci12b0Z3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNRci12b0Z3EAE!2m1!1s0x864c191b83500003:0xcf8965c92cc5207e
+  - name: >-
+      places/ChIJAwBQgxsZTIYRfiDFLMllic8/reviews/ChZDSUhNMG9nS0VJQ0FnTUNnM05faVJnEAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        It was absolutely AMAZING! Took my best friend here for valentines and I
+        have ZERO regrets! Everything was so clean, well thought out, and just
+        overall awesome! The server Emily was a sweetheart and the staff were
+        all very kind, considerate, and professional! Genuinely look forward to
+        coming back!
+
+
+        FLAVOR IN THE FOOD AND THE QUALITY OF THE FOOD WAS OTHER WORDLY TOO IT
+        GENUINELY MADE MY DAY 😭❤️
+      languageCode: en
+    originalText:
+      text: >-
+        It was absolutely AMAZING! Took my best friend here for valentines and I
+        have ZERO regrets! Everything was so clean, well thought out, and just
+        overall awesome! The server Emily was a sweetheart and the staff were
+        all very kind, considerate, and professional! Genuinely look forward to
+        coming back!
+
+
+        FLAVOR IN THE FOOD AND THE QUALITY OF THE FOOD WAS OTHER WORDLY TOO IT
+        GENUINELY MADE MY DAY 😭❤️
+      languageCode: en
+    authorAttribution:
+      displayName: Lilly
+      uri: https://www.google.com/maps/contrib/112117024118869198316/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUkmfg43W4V8pNS0F0kotJM6kXu_RCqMCi1AoqxC_6AK6GJUoAF=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-02-15T04:51:58.007971Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNnM05faVJnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNnM05faVJnEAE!2m1!1s0x864c191b83500003:0xcf8965c92cc5207e
+  - name: >-
+      places/ChIJAwBQgxsZTIYRfiDFLMllic8/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJb3NUd2VnEAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        This has been one of the best experiences I’ve ever had at a restaurant
+        and some of the best sushi ever!! Me, my husband and 8 month old wanted
+        sushi to celebrate Eid and we walked in and asked for a table near the
+        wall because we had a stroller with us and didn’t want to block any
+        pathways - they did us one better and set us up in a private little room
+        with a sliding door!! It was so special and unexpected and just plain
+        nice that I almost started crying. The service was impeccable by
+        everyone and they even gave me avocado for my baby to eat (which she
+        LOVED). The sushi was so fresh and delicious. I’m so so so happy we
+        chanced upon this place. Thank you for topping off a wonderful day.
+      languageCode: en
+    originalText:
+      text: >-
+        This has been one of the best experiences I’ve ever had at a restaurant
+        and some of the best sushi ever!! Me, my husband and 8 month old wanted
+        sushi to celebrate Eid and we walked in and asked for a table near the
+        wall because we had a stroller with us and didn’t want to block any
+        pathways - they did us one better and set us up in a private little room
+        with a sliding door!! It was so special and unexpected and just plain
+        nice that I almost started crying. The service was impeccable by
+        everyone and they even gave me avocado for my baby to eat (which she
+        LOVED). The sushi was so fresh and delicious. I’m so so so happy we
+        chanced upon this place. Thank you for topping off a wonderful day.
+      languageCode: en
+    authorAttribution:
+      displayName: Reem Al-zubeidi
+      uri: https://www.google.com/maps/contrib/109826851799785360785/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKDMPyOf7oicOpOesN_6PTp63TtcUKNQUMtwTduZCvPOAhHbHXK=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-03-31T13:43:44.365252Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNJb3NUd2VnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNJb3NUd2VnEAE!2m1!1s0x864c191b83500003:0xcf8965c92cc5207e
+  - name: >-
+      places/ChIJAwBQgxsZTIYRfiDFLMllic8/reviews/ChdDSUhNMG9nS0VJQ0FnTURRbnV1X3pRRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        ebesu has been my favorite sushi spot for YEARS. i would 100% recommend
+        trying this place out especially for their special rolls!!
+
+        my favorites would have to be the yama hama roll, deluxe salmon and tuna
+        rolls, and the crunch ell roll!!
+
+
+        my friends and i actually have made a yearly tradition to come here to
+        eat and celebrate eachothers’ birthdays because the food never
+        disappoints. this restaurant needs more recognition for their amazing
+        food.
+      languageCode: en
+    originalText:
+      text: >-
+        ebesu has been my favorite sushi spot for YEARS. i would 100% recommend
+        trying this place out especially for their special rolls!!
+
+        my favorites would have to be the yama hama roll, deluxe salmon and tuna
+        rolls, and the crunch ell roll!!
+
+
+        my friends and i actually have made a yearly tradition to come here to
+        eat and celebrate eachothers’ birthdays because the food never
+        disappoints. this restaurant needs more recognition for their amazing
+        food.
+      languageCode: en
+    authorAttribution:
+      displayName: sophia
+      uri: https://www.google.com/maps/contrib/118244535815888324094/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVHkFmeTaGqkxW4WMtElsXp12Adzok1ypb_CcltpluD40FlkRiS=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-03-11T08:06:12.013155Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURRbnV1X3pRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURRbnV1X3pRRRAB!2m1!1s0x864c191b83500003:0xcf8965c92cc5207e
+review_summary: >-
+  What Customers Are Buzzing About$$$Folks rave about the standout sushi
+  selections at this spot, praising the incredibly fresh fish and creative rolls
+  that deliver a melt-in-your-mouth experience every time. Many highlight the
+  attentive service and cozy vibe, perfect for special occasions or a casual
+  night out, with dishes like nigiri and sashimi earning high marks for their
+  authentic taste. While most visitors appreciate the overall quality and
+  presentation, a few note that certain sauces might not suit every palate,
+  though alternatives like eel sauce often save the day. Overall, it's clear
+  this place hits the mark for those hunting for reliable Japanese options close
+  by, making it a solid choice for anyone craving delicious, well-crafted meals
+  in a welcoming environment.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+delivery: true
+dine_in: true
+good_for_children: false
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  A Japanese chef & staff differentiate this inviting sushi & robata spot from
+  most in the city.
 
 ---

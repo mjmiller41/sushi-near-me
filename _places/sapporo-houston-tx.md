@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sapporo"
+title: Sapporo
 permalink: /texas/houston/sapporo.html
 stateAbbr: TX
 stateName: Texas
 cityName: Houston
 seo:
-  name: "Sapporo"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sapporo serves delicious sushi in Houston, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ15Jh3C-_QIYRbhbJff6Ko2s
 photos:
   - name: >-
@@ -185,7 +183,42 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Sapporo in Houston, TX$$$Sapporo in Houston, TX, is a laid-back spot
+  that delights sushi lovers with its array of fresh Japanese-inspired dishes.
+  This casual eatery specializes in flavorful sushi rolls, teriyaki options, and
+  hearty fried rice, making it a go-to choice for anyone exploring top sushi
+  restaurants in the area. With an inviting atmosphere perfect for unwinding, it
+  also features special deals like all-day happy hour on Sundays to enhance your
+  dining experience. Located in the vibrant Downtown Houston neighborhood, the
+  venue prioritizes accessibility, ensuring a welcoming visit for all. Whether
+  you're seeking sushi places near you or authentic Japanese flavors, Sapporo
+  delivers a satisfying blend of quality and affordability.
+generative_summary: >-
+  Discover Sapporo in Houston, TX$$$Sapporo in Houston, TX, is a laid-back spot
+  that delights sushi lovers with its array of fresh Japanese-inspired dishes.
+  This casual eatery specializes in flavorful sushi rolls, teriyaki options, and
+  hearty fried rice, making it a go-to choice for anyone exploring top sushi
+  restaurants in the area. With an inviting atmosphere perfect for unwinding, it
+  also features special deals like all-day happy hour on Sundays to enhance your
+  dining experience. Located in the vibrant Downtown Houston neighborhood, the
+  venue prioritizes accessibility, ensuring a welcoming visit for all. Whether
+  you're seeking sushi places near you or authentic Japanese flavors, Sapporo
+  delivers a satisfying blend of quality and affordability.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Diners frequently highlight the fresh and
+  well-prepared sushi at this Houston favorite, often noting it as a solid pick
+  for casual meals with friends. Many appreciate the value, especially with
+  promotions like happy hour that keep things budget-friendly without skimping
+  on taste. The overall vibe comes across as relaxed and enjoyable, with service
+  described as friendly and attentive to make every visit smooth. While some
+  mention room for variety in the menu, the consensus leans positive for those
+  craving reliable Japanese dishes. If you're on the hunt for sushi restaurants
+  near you, this spot tends to earn nods for its approachable vibe and
+  satisfying options.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +244,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Asian Island"
+title: Asian Island
 permalink: /new-jersey/sparta/asian-island.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Sparta
 seo:
-  name: "Asian Island"
-  type: Restaurant
-  links: null
-description: "Asian Island serves delicious sushi in Sparta, New Jersey. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.asianislandsushi.com/
 place_id: ChIJbcPt5YZyw4kRZhhiTpwGcCE
 photos:
   - name: >-
@@ -170,8 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c37286e5edc36d:0x2170069c4e621866!10e5
 primary_type: Asian Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 14
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 13
+        minute: 0
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 10:00 PM'
+    - 'Tuesday: Closed'
+    - 'Wednesday: 11:00 AM – 10:00 PM'
+    - 'Thursday: 11:00 AM – 10:00 PM'
+    - 'Friday: 11:00 AM – 11:00 PM'
+    - 'Saturday: 1:00 – 11:00 PM'
+    - 'Sunday: 2:00 – 10:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +234,49 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (973) 729-2218
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.5'
+rating_count: 373
+website: https://www.asianislandsushi.com/
+description: >-
+  Discover Asian Island in Sparta, NJ$$$Asian Island in Sparta, NJ, stands out
+  as a cozy destination for those seeking flavorful Asian fusion options,
+  blending traditional and innovative dishes in a relaxed setting. This eatery
+  offers a variety of fresh sushi rolls, hearty noodle dishes like pad thai, and
+  crispy tempura specialties, making it a go-to spot for anyone craving
+  authentic yet creative Asian flavors. With wheelchair-accessible features and
+  moderate pricing, it caters to a wide range of diners looking for convenience
+  and quality in one place. Open from late morning through evening on most days,
+  it's an ideal choice for casual meals or quick takeout, appealing to locals
+  and visitors exploring nearby sushi options.
+generative_summary: >-
+  Discover Asian Island in Sparta, NJ$$$Asian Island in Sparta, NJ, stands out
+  as a cozy destination for those seeking flavorful Asian fusion options,
+  blending traditional and innovative dishes in a relaxed setting. This eatery
+  offers a variety of fresh sushi rolls, hearty noodle dishes like pad thai, and
+  crispy tempura specialties, making it a go-to spot for anyone craving
+  authentic yet creative Asian flavors. With wheelchair-accessible features and
+  moderate pricing, it caters to a wide range of diners looking for convenience
+  and quality in one place. Open from late morning through evening on most days,
+  it's an ideal choice for casual meals or quick takeout, appealing to locals
+  and visitors exploring nearby sushi options.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What People Are Buzzing About$$$Folks around Sparta have been raving about the
+  solid vibes at this spot, with its high rating reflecting tasty dishes and
+  reliable service that keep customers coming back. Many highlight the fresh
+  ingredients and variety in the menu, especially the sushi selections that hit
+  the spot for those searching for quality Asian eats nearby. While opinions
+  vary a bit on wait times, the overall consensus leans positive, praising the
+  welcoming atmosphere and value for the price. It's clear from the feedback
+  that this place does a great job satisfying cravings for top-notch fusion
+  fare, making it a solid pick for anyone in the mood for a satisfying meal. If
+  you're hunting for dependable sushi in the area, it seems like a winner based
+  on the enthusiastic responses.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +302,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

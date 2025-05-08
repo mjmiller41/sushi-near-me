@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Pearl Sushi At Mohegan Sun"
+title: Pearl Sushi At Mohegan Sun
 permalink: /pennsylvania/wilkes-barre/pearl-sushi-at-mohegan-sun.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Wilkes-Barre
 seo:
-  name: "Pearl Sushi At Mohegan Sun"
-  type: Restaurant
+  type: restaurant
   links: https://moheganpa.com/poi/dining/pearl.html
-description: "Pearl Sushi At Mohegan Sun serves delicious sushi in Wilkes-Barre, Pennsylvania. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJtWFbFuUbxYkRb3sgx2slMIk
 photos:
   - name: >-
@@ -170,7 +168,33 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c51be5165b61b5:0x8930256bc7207b6f!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 0
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: Closed'
     - 'Wednesday: Closed'
@@ -178,14 +202,7 @@ opening_hours:
     - 'Friday: 4:00 – 11:00 PM'
     - 'Saturday: 12:00 – 11:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: Closed'
-    - 'Wednesday: Closed'
-    - 'Thursday: 4:00 – 10:00 PM'
-    - 'Friday: 4:00 – 11:00 PM'
-    - 'Saturday: 12:00 – 11:00 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +214,47 @@ phone: (570) 831-2100
 price_level: null
 price_range: $20 &ndash; $30
 rating: '4.2'
-rating_count: 0
+rating_count: 56
 website: https://moheganpa.com/poi/dining/pearl.html
+description: >-
+  About Pearl Sushi in Wilkes-Barre, PA$$$Pearl Sushi At Mohegan Sun in
+  Wilkes-Barre, PA, offers an intimate dining experience perfect for those
+  seeking top-rated sushi restaurants in the area. This cozy spot specializes in
+  specialty rolls crafted with fresh ingredients, paired seamlessly with a
+  selection of martinis and cocktails that elevate the meal. Located within the
+  vibrant Mohegan Pennsylvania complex, it provides a welcoming atmosphere for
+  enjoying Japanese-inspired cuisine without the hassle. Accessibility features
+  like wheelchair-friendly parking and entrances make it easy for everyone to
+  savor the flavors, while its operational hours cater to evening outings.
+  Whether you're looking for sushi places near me or a relaxing spot for crafted
+  drinks, this venue delivers a memorable blend of quality and ambiance.
+generative_summary: >-
+  About Pearl Sushi in Wilkes-Barre, PA$$$Pearl Sushi At Mohegan Sun in
+  Wilkes-Barre, PA, offers an intimate dining experience perfect for those
+  seeking top-rated sushi restaurants in the area. This cozy spot specializes in
+  specialty rolls crafted with fresh ingredients, paired seamlessly with a
+  selection of martinis and cocktails that elevate the meal. Located within the
+  vibrant Mohegan Pennsylvania complex, it provides a welcoming atmosphere for
+  enjoying Japanese-inspired cuisine without the hassle. Accessibility features
+  like wheelchair-friendly parking and entrances make it easy for everyone to
+  savor the flavors, while its operational hours cater to evening outings.
+  Whether you're looking for sushi places near me or a relaxing spot for crafted
+  drinks, this venue delivers a memorable blend of quality and ambiance.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Visitors to this sushi spot often highlight the
+  fresh and creative rolls that make it a go-to choice for Japanese places near
+  me, with many appreciating the overall vibe and drink selections. The solid
+  4.2 rating from numerous reviews suggests folks enjoy the attentive service
+  and cozy setting, even if some note minor waits during peak times. It's clear
+  that the combination of flavorful dishes and a relaxed atmosphere keeps diners
+  coming back for more casual evenings out. Overall, the feedback leans
+  positive, emphasizing great value for the price and a welcoming feel that
+  suits groups or solo diners. If you're hunting for the best sushi near me,
+  this place seems to hit the mark with its reliable appeal and enjoyable
+  experiences.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +280,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

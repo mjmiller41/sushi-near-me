@@ -5,4 +5,5 @@ permalink: /north-dakota/fargo/
 stateAbbr: ND
 stateName: North Dakota
 cityName: Fargo
+
 ---

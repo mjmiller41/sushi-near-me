@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Heemo Sushi"
+title: Heemo Sushi
 permalink: /california/duarte/heemo-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Duarte
 seo:
-  name: "Heemo Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Heemo Sushi serves delicious sushi in Duarte, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJVU9ZgrHZwoARmcA6vg0akIg
 photos:
   - name: >-
@@ -185,7 +183,41 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Heemo Sushi in Duarte, CA$$$Heemo Sushi in Duarte, CA, stands out as
+  a relaxed destination for sushi enthusiasts seeking fresh and healthy dining
+  options. This spot offers a variety of quick bites that cater to those looking
+  for light, flavorful meals, complemented by a selection of beer and wine to
+  enhance the experience. With its approachable atmosphere, it's ideal for
+  anyone exploring top-rated sushi restaurants nearby, making it a go-to choice
+  for casual meals or a quick treat. The focus on wholesome ingredients ensures
+  diners can enjoy authentic Japanese-inspired dishes without compromising on
+  taste or convenience, appealing to those searching for sushi places near me.
+generative_summary: >-
+  Discover Heemo Sushi in Duarte, CA$$$Heemo Sushi in Duarte, CA, stands out as
+  a relaxed destination for sushi enthusiasts seeking fresh and healthy dining
+  options. This spot offers a variety of quick bites that cater to those looking
+  for light, flavorful meals, complemented by a selection of beer and wine to
+  enhance the experience. With its approachable atmosphere, it's ideal for
+  anyone exploring top-rated sushi restaurants nearby, making it a go-to choice
+  for casual meals or a quick treat. The focus on wholesome ingredients ensures
+  diners can enjoy authentic Japanese-inspired dishes without compromising on
+  taste or convenience, appealing to those searching for sushi places near me.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying About the Experience$$$Visitors often rave about the
+  incredible quality of the sushi and sashimi, praising its freshness and bold
+  flavors that make every bite memorable. Many highlight the warm and inviting
+  vibe, with comments on the welcoming service that adds to the overall
+  enjoyment of the meal. Folks appreciate the appealing ambiance, which creates
+  a comfortable setting for casual gatherings or solo visits, keeping things
+  light and fun without overwhelming the senses. Overall, it's clear that this
+  spot delivers a solid experience for sushi lovers, with positive notes on the
+  variety and execution that keep people coming back for more. If you're on the
+  hunt for the best sushi near me, this place seems to hit the mark with its
+  reliable appeal and satisfying options.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +243,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

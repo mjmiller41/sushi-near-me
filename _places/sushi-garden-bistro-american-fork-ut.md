@@ -1,15 +1,14 @@
 ---
 layout: place
-title: "Sushi Garden Bistro"
+title: Sushi Garden Bistro
 permalink: /utah/american-fork/sushi-garden-bistro.html
 stateAbbr: UT
 stateName: Utah
 cityName: American Fork
 seo:
-  name: "Sushi Garden Bistro"
-  type: Restaurant
-  links: https://www.smorefood.com/order-online/sushi-garden-bistro-american-fork-84003-ji1gd7sj?utm_source=gmb&utm_medium=website
-description: "Sushi Garden Bistro serves delicious sushi in American Fork, Utah. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: >-
+    https://www.smorefood.com/order-online/sushi-garden-bistro-american-fork-84003-ji1gd7sj?utm_source=gmb&utm_medium=website
 place_id: ChIJg5iOZmeBTYcRDSeUxMvB8C8
 photos:
   - name: >-
@@ -170,7 +169,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x874d8167668e9883:0x2ff0c1cbc494270d!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:30 PM'
     - 'Tuesday: 11:00 AM – 9:30 PM'
     - 'Wednesday: 11:00 AM – 9:30 PM'
@@ -178,14 +235,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:30 PM'
     - 'Saturday: 11:00 AM – 10:30 PM'
     - 'Sunday: 11:00 AM – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:30 PM'
-    - 'Tuesday: 11:00 AM – 9:30 PM'
-    - 'Wednesday: 11:00 AM – 9:30 PM'
-    - 'Thursday: 11:00 AM – 9:30 PM'
-    - 'Friday: 11:00 AM – 10:30 PM'
-    - 'Saturday: 11:00 AM – 10:30 PM'
-    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T04:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,36 +247,237 @@ phone: (801) 756-7072
 price_level: PRICE_LEVEL_INEXPENSIVE
 price_range: $10 &ndash; $20
 rating: '4.3'
-rating_count: 0
+rating_count: 745
 website: >-
   https://www.smorefood.com/order-online/sushi-garden-bistro-american-fork-84003-ji1gd7sj?utm_source=gmb&utm_medium=website
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Sushi Garden Bistro in American Fork, UT$$$Sushi Garden Bistro in
+  American Fork, UT, stands out as a casual spot for enjoying fresh
+  Japanese-inspired dishes and top-rated sushi options. This welcoming
+  restaurant caters to various preferences with gluten-free and vegetarian
+  selections, alongside a variety of teas that pair perfectly with meals. Its
+  affordable pricing and accessible features, like wheelchair-friendly entrances
+  and parking, make it an easy choice for families or groups seeking sushi
+  places near me. Open daily from late morning into the evening, the bistro
+  offers a relaxed atmosphere where diners can savor generous portions and
+  flavorful rolls. For anyone exploring sushi restaurants in the area, it's a
+  reliable destination that combines quality ingredients with a comfortable
+  dining experience.
+generative_summary: >-
+  Discover Sushi Garden Bistro in American Fork, UT$$$Sushi Garden Bistro in
+  American Fork, UT, stands out as a casual spot for enjoying fresh
+  Japanese-inspired dishes and top-rated sushi options. This welcoming
+  restaurant caters to various preferences with gluten-free and vegetarian
+  selections, alongside a variety of teas that pair perfectly with meals. Its
+  affordable pricing and accessible features, like wheelchair-friendly entrances
+  and parking, make it an easy choice for families or groups seeking sushi
+  places near me. Open daily from late morning into the evening, the bistro
+  offers a relaxed atmosphere where diners can savor generous portions and
+  flavorful rolls. For anyone exploring sushi restaurants in the area, it's a
+  reliable destination that combines quality ingredients with a comfortable
+  dining experience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJg5iOZmeBTYcRDSeUxMvB8C8/reviews/ChdDSUhNMG9nS0VJQ0FnSUNmc2VLTHVRRRAB
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        I’m from out of town and really needed some sushi and sake… so glad I
+        found Sushi Garden Bistro! Good sized portions of appetizers, soups, and
+        salads (biggest seaweed salad ever!). They have quite a large selection
+        of rolls that are marked 50% off on their menu. They have a $9 lunch
+        special that I would get every day if I lived here. I also appreciated
+        the generous serving of wasabi and non-colored spicy ginger. Overall the
+        prices, portions, and variety make this a 4.5 star review. I’ll be back
+        every time I’m in town!!
+      languageCode: en
+    originalText:
+      text: >-
+        I’m from out of town and really needed some sushi and sake… so glad I
+        found Sushi Garden Bistro! Good sized portions of appetizers, soups, and
+        salads (biggest seaweed salad ever!). They have quite a large selection
+        of rolls that are marked 50% off on their menu. They have a $9 lunch
+        special that I would get every day if I lived here. I also appreciated
+        the generous serving of wasabi and non-colored spicy ginger. Overall the
+        prices, portions, and variety make this a 4.5 star review. I’ll be back
+        every time I’m in town!!
+      languageCode: en
+    authorAttribution:
+      displayName: Michelle Morris
+      uri: https://www.google.com/maps/contrib/115510240636059308861/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjU5YvJqyElAVzu-L8-ca5bG4F8mxUdskBBjPFRFjvG7MiOF8SleWQ=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-12-30T03:25:22.299700Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNmc2VLTHVRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNmc2VLTHVRRRAB!2m1!1s0x874d8167668e9883:0x2ff0c1cbc494270d
+  - name: >-
+      places/ChIJg5iOZmeBTYcRDSeUxMvB8C8/reviews/ChZDSUhNMG9nS0VJQ0FnSUNMbnRXWWVnEAE
+    relativePublishTimeDescription: 10 months ago
+    rating: 5
+    text:
+      text: >-
+        Both my husband and I were pleasantly surprised at how good and fast the
+        service was. Honestly one of the best experiences we have had at a sushi
+        restaurant in a while and we have been to a lot of them. The sushi was
+        great! The pink salmon, executive, and citrus rolls are a favorite. And
+        they did a really good job on the fried rolls as well. The restaurant
+        felt very clean and well kept. And overall we were very impressed with
+        our whole experience last night.
+      languageCode: en
+    originalText:
+      text: >-
+        Both my husband and I were pleasantly surprised at how good and fast the
+        service was. Honestly one of the best experiences we have had at a sushi
+        restaurant in a while and we have been to a lot of them. The sushi was
+        great! The pink salmon, executive, and citrus rolls are a favorite. And
+        they did a really good job on the fried rolls as well. The restaurant
+        felt very clean and well kept. And overall we were very impressed with
+        our whole experience last night.
+      languageCode: en
+    authorAttribution:
+      displayName: Asha Skousen
+      uri: https://www.google.com/maps/contrib/105506193206727204171/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLk-OOWJ9HgZh0oZ6QCuRAdgT1j2f5kPMor8jTi9cjjgc_9CQ=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-06-19T12:34:37.023191Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNMbnRXWWVnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNMbnRXWWVnEAE!2m1!1s0x874d8167668e9883:0x2ff0c1cbc494270d
+  - name: >-
+      places/ChIJg5iOZmeBTYcRDSeUxMvB8C8/reviews/ChdDSUhNMG9nS0VJQ0FnSURIXzh1TnhBRRAB
+    relativePublishTimeDescription: 7 months ago
+    rating: 5
+    text:
+      text: >-
+        Popular spot. We enjoyed the intimate atmosphere and the affordable
+        prices. Great service and great sushi. We had the volcano roll and it
+        was just the right amount of spice. Staff did great at handling our
+        order during a busy time. Highly recommend.
+      languageCode: en
+    originalText:
+      text: >-
+        Popular spot. We enjoyed the intimate atmosphere and the affordable
+        prices. Great service and great sushi. We had the volcano roll and it
+        was just the right amount of spice. Staff did great at handling our
+        order during a busy time. Highly recommend.
+      languageCode: en
+    authorAttribution:
+      displayName: Tyson Davis
+      uri: https://www.google.com/maps/contrib/103085445049397941881/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVh8Q30KPjwem0MhTVqN0N1Xsp79eZvSIVzsMhlGBELwi2xgrnA=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2024-09-21T13:06:32.052067Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURIXzh1TnhBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURIXzh1TnhBRRAB!2m1!1s0x874d8167668e9883:0x2ff0c1cbc494270d
+  - name: >-
+      places/ChIJg5iOZmeBTYcRDSeUxMvB8C8/reviews/ChZDSUhNMG9nS0VJQ0FnSUNMdUlmckxREAE
+    relativePublishTimeDescription: 10 months ago
+    rating: 5
+    text:
+      text: >-
+        One of the best sushi places I've eaten at in a long time. Their Vegas
+        Rolls are to die for! I will definitely be a regular here. The
+        Strawberry soda was a nice touch, love the design of it.
+      languageCode: en
+    originalText:
+      text: >-
+        One of the best sushi places I've eaten at in a long time. Their Vegas
+        Rolls are to die for! I will definitely be a regular here. The
+        Strawberry soda was a nice touch, love the design of it.
+      languageCode: en
+    authorAttribution:
+      displayName: Jameson Fuller
+      uri: https://www.google.com/maps/contrib/115403855164825881191/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXhRtnve_uHlvA5LVaPTl8CGAh2JquhrW5TvsRcKSoFMCa00UJG=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-06-14T23:55:50.933366Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNMdUlmckxREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNMdUlmckxREAE!2m1!1s0x874d8167668e9883:0x2ff0c1cbc494270d
+  - name: >-
+      places/ChIJg5iOZmeBTYcRDSeUxMvB8C8/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3d28zcDhRRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        My wife and I love this sushi joint. The workers are friendly, always
+        smiling, and quick to service. Those workers need a raise. This adds to
+        the already existing great environment. The sushi is fantastic and
+        overall I've been impressed with Sushi Garden Bistro more than other
+        sushi places in the valley that I've been to.
+      languageCode: en
+    originalText:
+      text: >-
+        My wife and I love this sushi joint. The workers are friendly, always
+        smiling, and quick to service. Those workers need a raise. This adds to
+        the already existing great environment. The sushi is fantastic and
+        overall I've been impressed with Sushi Garden Bistro more than other
+        sushi places in the valley that I've been to.
+      languageCode: en
+    authorAttribution:
+      displayName: Spencer Nelson
+      uri: https://www.google.com/maps/contrib/106446628637450021753/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUD_IEwBTZMCe6KGAfC_VlYHjPUe_OxyRmSJddrJkQJAeChORCT7A=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-24T19:57:28.564272Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUR3d28zcDhRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUR3d28zcDhRRRAB!2m1!1s0x874d8167668e9883:0x2ff0c1cbc494270d
+review_summary: >-
+  What Diners Love About This Local Sushi Spot$$$Folks frequently highlight the
+  generous portions and wide array of rolls as standout features, making meals
+  feel satisfying and well worth the price. Many appreciate the quick and
+  friendly service that keeps things running smoothly, even during busy times,
+  adding to the overall enjoyable vibe. Specific dishes often get nods for their
+  balanced flavors and just-right spice levels, encouraging repeat visits from
+  sushi enthusiasts. While some mention it's a great value for everyday dining,
+  the clean environment and variety keep it feeling fresh and inviting. All in
+  all, it's a solid pick for anyone craving reliable sushi near me, with
+  positive feedback painting it as a go-to for casual, tasty eats.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  paidStreetParking: false
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
 serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

@@ -5,4 +5,5 @@ permalink: /missouri/kansas-city/
 stateAbbr: MO
 stateName: Missouri
 cityName: Kansas City
+
 ---

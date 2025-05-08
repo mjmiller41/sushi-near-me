@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Akaya Sushi, Izakaya & Ramen"
+title: Akaya Sushi, Izakaya & Ramen
 permalink: /texas/richardson/akaya-sushi-izakaya-ramen.html
 stateAbbr: TX
 stateName: Texas
 cityName: Richardson
 seo:
-  name: "Akaya Sushi, Izakaya & Ramen"
-  type: Restaurant
+  type: restaurant
   links: http://www.akayaizakaya.com/
-description: "Akaya Sushi, Izakaya & Ramen serves delicious sushi in Richardson, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJJwloXPEhTIYRboIzP_nrWi8
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x864c21f15c680927:0x2f5aebf93f33826e!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 10:00 PM'
     - 'Tuesday: 11:00 AM – 10:00 PM'
     - 'Wednesday: 11:00 AM – 10:00 PM'
@@ -178,54 +234,454 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:00 PM'
     - 'Saturday: 11:00 AM – 10:00 PM'
     - 'Sunday: 11:00 AM – 10:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 10:00 PM'
-    - 'Tuesday: 11:00 AM – 10:00 PM'
-    - 'Wednesday: 11:00 AM – 10:00 PM'
-    - 'Thursday: 11:00 AM – 10:00 PM'
-    - 'Friday: 11:00 AM – 10:00 PM'
-    - 'Saturday: 11:00 AM – 10:00 PM'
-    - 'Sunday: 11:00 AM – 10:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 15
+          minute: 0
+        close:
+          day: 0
+          hour: 18
+          minute: 0
+      - open:
+          day: 1
+          hour: 15
+          minute: 0
+        close:
+          day: 1
+          hour: 18
+          minute: 0
+      - open:
+          day: 2
+          hour: 15
+          minute: 0
+        close:
+          day: 2
+          hour: 18
+          minute: 0
+      - open:
+          day: 3
+          hour: 15
+          minute: 0
+        close:
+          day: 3
+          hour: 18
+          minute: 0
+      - open:
+          day: 4
+          hour: 15
+          minute: 0
+        close:
+          day: 4
+          hour: 18
+          minute: 0
+      - open:
+          day: 5
+          hour: 15
+          minute: 0
+        close:
+          day: 5
+          hour: 18
+          minute: 0
+      - open:
+          day: 6
+          hour: 15
+          minute: 0
+        close:
+          day: 6
+          hour: 18
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 3:00 – 6:00 PM'
+      - 'Tuesday: 3:00 – 6:00 PM'
+      - 'Wednesday: 3:00 – 6:00 PM'
+      - 'Thursday: 3:00 – 6:00 PM'
+      - 'Friday: 3:00 – 6:00 PM'
+      - 'Saturday: 3:00 – 6:00 PM'
+      - 'Sunday: 3:00 – 6:00 PM'
+    secondaryHoursType: HAPPY_HOUR
+    nextCloseTime: '2025-05-03T23:00:00Z'
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 11
+          minute: 0
+        close:
+          day: 0
+          hour: 21
+          minute: 30
+      - open:
+          day: 1
+          hour: 11
+          minute: 0
+        close:
+          day: 1
+          hour: 21
+          minute: 30
+      - open:
+          day: 2
+          hour: 11
+          minute: 0
+        close:
+          day: 2
+          hour: 21
+          minute: 30
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 21
+          minute: 30
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 30
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 21
+          minute: 30
+      - open:
+          day: 6
+          hour: 11
+          minute: 0
+        close:
+          day: 6
+          hour: 21
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 11:00 AM – 9:30 PM'
+      - 'Tuesday: 11:00 AM – 9:30 PM'
+      - 'Wednesday: 11:00 AM – 9:30 PM'
+      - 'Thursday: 11:00 AM – 9:30 PM'
+      - 'Friday: 11:00 AM – 9:30 PM'
+      - 'Saturday: 11:00 AM – 9:30 PM'
+      - 'Sunday: 11:00 AM – 9:30 PM'
+    secondaryHoursType: TAKEOUT
+    nextCloseTime: '2025-05-04T02:30:00Z'
+  - openNow: false
+    periods:
+      - open:
+          day: 0
+          hour: 11
+          minute: 0
+        close:
+          day: 0
+          hour: 15
+          minute: 0
+      - open:
+          day: 1
+          hour: 11
+          minute: 0
+        close:
+          day: 1
+          hour: 15
+          minute: 0
+      - open:
+          day: 2
+          hour: 11
+          minute: 0
+        close:
+          day: 2
+          hour: 15
+          minute: 0
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 15
+          minute: 0
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 15
+          minute: 0
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 15
+          minute: 0
+      - open:
+          day: 6
+          hour: 11
+          minute: 0
+        close:
+          day: 6
+          hour: 15
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 11:00 AM – 3:00 PM'
+      - 'Tuesday: 11:00 AM – 3:00 PM'
+      - 'Wednesday: 11:00 AM – 3:00 PM'
+      - 'Thursday: 11:00 AM – 3:00 PM'
+      - 'Friday: 11:00 AM – 3:00 PM'
+      - 'Saturday: 11:00 AM – 3:00 PM'
+      - 'Sunday: 11:00 AM – 3:00 PM'
+    secondaryHoursType: LUNCH
+    nextOpenTime: '2025-05-04T16:00:00Z'
 phone: (972) 707-0722
 price_level: null
 price_range: $10 &ndash; $20
 rating: '4.2'
-rating_count: 0
+rating_count: 591
 website: http://www.akayaizakaya.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Akaya Sushi in Richardson, Texas$$$Nestled in Richardson, Texas,
+  Akaya Sushi, Izakaya & Ramen offers a casual dining experience centered around
+  fresh Japanese flavors, making it a go-to spot for sushi enthusiasts in the
+  area. This welcoming eatery features an array of authentic dishes like
+  flavorful ramen and inventive sushi rolls, all served in a relaxed setting
+  that emphasizes accessibility with wheelchair-friendly options throughout.
+  Patrons can enjoy generous portions of high-quality seafood and traditional
+  favorites, complemented by daily specials that cater to a variety of tastes.
+  With extended hours and options for takeout, it's an ideal choice for those
+  seeking convenient Japanese cuisine nearby. The unassuming vibe in a local
+  center adds to its charm, providing a straightforward yet enjoyable atmosphere
+  for casual meals.
+generative_summary: >-
+  Discover Akaya Sushi in Richardson, Texas$$$Nestled in Richardson, Texas,
+  Akaya Sushi, Izakaya & Ramen offers a casual dining experience centered around
+  fresh Japanese flavors, making it a go-to spot for sushi enthusiasts in the
+  area. This welcoming eatery features an array of authentic dishes like
+  flavorful ramen and inventive sushi rolls, all served in a relaxed setting
+  that emphasizes accessibility with wheelchair-friendly options throughout.
+  Patrons can enjoy generous portions of high-quality seafood and traditional
+  favorites, complemented by daily specials that cater to a variety of tastes.
+  With extended hours and options for takeout, it's an ideal choice for those
+  seeking convenient Japanese cuisine nearby. The unassuming vibe in a local
+  center adds to its charm, providing a straightforward yet enjoyable atmosphere
+  for casual meals.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJJwloXPEhTIYRboIzP_nrWi8/reviews/ChZDSUhNMG9nS0VJQ0FnSUN2bU5yZUZBEAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 3
+    text:
+      text: >-
+        My friend and I went in during a weekday lunch. There were only a couple
+        other guests aside from us, but service was still slow.
+
+
+        That being said, the sushi was pretty decent! There is a generous amount
+        of fish and less rice, which is what I prefer. The cuts of fish are also
+        generously sized for the nigiris. The seafood was pretty fresh and good
+        for the price.
+
+
+        Overall, not my favorite sushi I've ever had, but I still enjoyed my
+        meal.
+      languageCode: en
+    originalText:
+      text: >-
+        My friend and I went in during a weekday lunch. There were only a couple
+        other guests aside from us, but service was still slow.
+
+
+        That being said, the sushi was pretty decent! There is a generous amount
+        of fish and less rice, which is what I prefer. The cuts of fish are also
+        generously sized for the nigiris. The seafood was pretty fresh and good
+        for the price.
+
+
+        Overall, not my favorite sushi I've ever had, but I still enjoyed my
+        meal.
+      languageCode: en
+    authorAttribution:
+      displayName: Shelley F
+      uri: https://www.google.com/maps/contrib/104952786537292486189/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXMERyq2RH5-orF3FS959WhnXhj55IrtHKXwwe2BkVXmY8Jdb3Rkg=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-12-07T18:50:00.688566Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN2bU5yZUZBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN2bU5yZUZBEAE!2m1!1s0x864c21f15c680927:0x2f5aebf93f33826e
+  - name: >-
+      places/ChIJJwloXPEhTIYRboIzP_nrWi8/reviews/ChZDSUhNMG9nS0VJQ0FnTURJa3RTWlJREAE
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 5
+    text:
+      text: >-
+        The sushi is so amazing. I did not expect the sushi roll to be that big
+        lol, so must definitely I had to take some to go. I went during my
+        lunchtime on a weekday, and there was one other customer dining inside.
+        The service was amazing. It did take about 15 to 20 minutes for them to
+        make my sushi. So be mindful if you are trying to make a quick stop. The
+        waitress was so patient with me. The sushi I got was the ‘Goldengate’
+        which was AMAZING.
+      languageCode: en
+    originalText:
+      text: >-
+        The sushi is so amazing. I did not expect the sushi roll to be that big
+        lol, so must definitely I had to take some to go. I went during my
+        lunchtime on a weekday, and there was one other customer dining inside.
+        The service was amazing. It did take about 15 to 20 minutes for them to
+        make my sushi. So be mindful if you are trying to make a quick stop. The
+        waitress was so patient with me. The sushi I got was the ‘Goldengate’
+        which was AMAZING.
+      languageCode: en
+    authorAttribution:
+      displayName: Johanna
+      uri: https://www.google.com/maps/contrib/108516976763881822351/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWtzJdRhN9eIpGdDdmAVhYIqVREqcmYAEXz8e1ekCsSQ5x8sUgv=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-04-08T12:35:28.673018Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURJa3RTWlJREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJa3RTWlJREAE!2m1!1s0x864c21f15c680927:0x2f5aebf93f33826e
+  - name: >-
+      places/ChIJJwloXPEhTIYRboIzP_nrWi8/reviews/ChZDSUhNMG9nS0VJQ0FnTURBcnJqRkh3EAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 4
+    text:
+      text: >-
+        The Takoyaki here is good and so is their specialty rolls, however they
+        don’t note on the menu if a roll is raw or not and we ordered a spicy
+        salmon roll thinking it was cooked and ended up not eating it.
+      languageCode: en
+    originalText:
+      text: >-
+        The Takoyaki here is good and so is their specialty rolls, however they
+        don’t note on the menu if a roll is raw or not and we ordered a spicy
+        salmon roll thinking it was cooked and ended up not eating it.
+      languageCode: en
+    authorAttribution:
+      displayName: Taylor Nguyen
+      uri: https://www.google.com/maps/contrib/111274000382872871698/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWTACK2GWjlneMiFbuMKxLRDpSgQIGkbEKBCKwHKr5y-dZXwVnNcQ=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-02-09T03:09:15.147501Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURBcnJqRkh3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURBcnJqRkh3EAE!2m1!1s0x864c21f15c680927:0x2f5aebf93f33826e
+  - name: >-
+      places/ChIJJwloXPEhTIYRboIzP_nrWi8/reviews/ChZDSUhNMG9nS0VJQ0FnSUN2MGVfMEtBEAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        One of the few places that have pretty authentic seared salmon nigiri.
+        Veggie tempura was alright.
+      languageCode: en
+    originalText:
+      text: >-
+        One of the few places that have pretty authentic seared salmon nigiri.
+        Veggie tempura was alright.
+      languageCode: en
+    authorAttribution:
+      displayName: Jessica Macaspac
+      uri: https://www.google.com/maps/contrib/107266678815507016472/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWM9xQAFCYMzFW7QLyPaxq09GqA2RpTIdxDGKsTGhEwBYX54y5Z=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-12-12T01:48:43.222472Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN2MGVfMEtBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN2MGVfMEtBEAE!2m1!1s0x864c21f15c680927:0x2f5aebf93f33826e
+  - name: >-
+      places/ChIJJwloXPEhTIYRboIzP_nrWi8/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJajhMa2dRRRAB
+    relativePublishTimeDescription: 4 weeks ago
+    rating: 4
+    text:
+      text: >-
+        Every time I visit, the food is great, and the service from Oscar takes
+        it to the next level—he’s always attentive, efficient, and on top of
+        everything. It’s just not the same when he’s not there; the other
+        servers are often slow and forgetful. We definitely need to see more of
+        Oscar—he truly makes the experience exceptional.
+      languageCode: en
+    originalText:
+      text: >-
+        Every time I visit, the food is great, and the service from Oscar takes
+        it to the next level—he’s always attentive, efficient, and on top of
+        everything. It’s just not the same when he’s not there; the other
+        servers are often slow and forgetful. We definitely need to see more of
+        Oscar—he truly makes the experience exceptional.
+      languageCode: en
+    authorAttribution:
+      displayName: Tony M
+      uri: https://www.google.com/maps/contrib/114229990826239636844/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLEfLf1RRkJLcTuuNzStH6h6RzzAhqnW3f6SFTnXDT5mmonnw=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-05T12:49:59.056402Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNJajhMa2dRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNJajhMa2dRRRAB!2m1!1s0x864c21f15c680927:0x2f5aebf93f33826e
+review_summary: >-
+  What Visitors Are Saying About This Sushi Spot$$$Folks who stop by this sushi
+  restaurant often rave about the fresh, generously portioned rolls and dishes
+  that deliver solid flavors without overcomplicating things, making it a
+  reliable pick for everyday cravings. While some mention that service can
+  occasionally slow down during busier times, many appreciate the overall
+  attentiveness that keeps the experience smooth and enjoyable. Customers
+  frequently highlight standout items like specialty rolls and takoyaki, noting
+  their authentic taste and good value that leave a positive impression.
+  Overall, it's seen as a welcoming place for groups or quick lunches, with the
+  general consensus leaning toward satisfaction for those exploring top-rated
+  Japanese options nearby. If you're in the mood for something hearty and
+  flavorful, this spot tends to hit the mark while offering room for a relaxed
+  vibe.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: true
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
 serves_brunch: null
-serves_cocktails: null
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Casual Japanese eatery offering an array of sushi, ramen noodles & lunch
+  specials in unfussy digs.
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Cho Sushi Japanese Fusion"
+title: Cho Sushi Japanese Fusion
 permalink: /texas/austin/cho-sushi-japanese-fusion.html
 stateAbbr: TX
 stateName: Texas
 cityName: Austin
 seo:
-  name: "Cho Sushi Japanese Fusion"
-  type: Restaurant
+  type: restaurant
   links: http://choaustin.com/
-description: "Cho Sushi Japanese Fusion serves delicious sushi in Austin, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJWcQU-rI2W4YRXMinifixE8A
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x865b36b2fa14c459:0xc013b1f889a7c85c!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:30 PM'
     - 'Tuesday: 11:00 AM – 9:30 PM'
     - 'Wednesday: 11:00 AM – 9:30 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:00 PM'
     - 'Saturday: 11:00 AM – 10:00 PM'
     - 'Sunday: 12:00 – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:30 PM'
-    - 'Tuesday: 11:00 AM – 9:30 PM'
-    - 'Wednesday: 11:00 AM – 9:30 PM'
-    - 'Thursday: 11:00 AM – 9:30 PM'
-    - 'Friday: 11:00 AM – 10:00 PM'
-    - 'Saturday: 11:00 AM – 10:00 PM'
-    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,260 @@ phone: (512) 266-8700
 price_level: PRICE_LEVEL_MODERATE
 price_range: $30 &ndash; $50
 rating: '4.5'
-rating_count: 0
+rating_count: 507
 website: http://choaustin.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Cho Sushi Japanese Fusion in Austin, TX$$$Cho Sushi Japanese Fusion
+  in Austin, TX, stands out as a vibrant spot for enjoying fresh sushi and
+  innovative Japanese-inspired dishes in a welcoming environment. This
+  restaurant blends traditional flavors with creative twists, offering a menu
+  that includes delectable seafood options, signature rolls, and a selection of
+  beverages like wine and cocktails to enhance your meal. With its modern setup
+  and daily happy hour specials, it's an ideal choice for anyone seeking a
+  relaxed yet elegant dining experience in the heart of Austin's bustling scene.
+  The place prioritizes accessibility with features like wheelchair-friendly
+  entrances and parking, making it easy for everyone to savor top-rated Japanese
+  cuisine. Whether you're exploring sushi places near me or looking for
+  authentic fusion eats, this location delivers a memorable taste of Austin's
+  diverse food culture.
+generative_summary: >-
+  Discover Cho Sushi Japanese Fusion in Austin, TX$$$Cho Sushi Japanese Fusion
+  in Austin, TX, stands out as a vibrant spot for enjoying fresh sushi and
+  innovative Japanese-inspired dishes in a welcoming environment. This
+  restaurant blends traditional flavors with creative twists, offering a menu
+  that includes delectable seafood options, signature rolls, and a selection of
+  beverages like wine and cocktails to enhance your meal. With its modern setup
+  and daily happy hour specials, it's an ideal choice for anyone seeking a
+  relaxed yet elegant dining experience in the heart of Austin's bustling scene.
+  The place prioritizes accessibility with features like wheelchair-friendly
+  entrances and parking, making it easy for everyone to savor top-rated Japanese
+  cuisine. Whether you're exploring sushi places near me or looking for
+  authentic fusion eats, this location delivers a memorable taste of Austin's
+  diverse food culture.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJWcQU-rI2W4YRXMinifixE8A/reviews/ChdDSUhNMG9nS0VJQ0FnTURRZ3F2OGtRRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 2
+    text:
+      text: >-
+        Unfortunately, this place has gone downhill in the last 3 years and
+        continues to hit new lows.
+
+
+        The menus smell like wet socks. The Bentley roll has microwaved beef on
+        top. The service is always slow - don’t get the flaming thing they wrap
+        in aluminum because it tastes like burnt aluminum.
+
+
+        Overall - I hope they get it together but if not hopefully something new
+        comes in soon.
+
+
+        And they forgot my son’s meal. It didn’t come until everyone else
+        finished eating.
+      languageCode: en
+    originalText:
+      text: >-
+        Unfortunately, this place has gone downhill in the last 3 years and
+        continues to hit new lows.
+
+
+        The menus smell like wet socks. The Bentley roll has microwaved beef on
+        top. The service is always slow - don’t get the flaming thing they wrap
+        in aluminum because it tastes like burnt aluminum.
+
+
+        Overall - I hope they get it together but if not hopefully something new
+        comes in soon.
+
+
+        And they forgot my son’s meal. It didn’t come until everyone else
+        finished eating.
+      languageCode: en
+    authorAttribution:
+      displayName: Dan Abeling
+      uri: https://www.google.com/maps/contrib/117760654620354186356/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLGvMbWW7cQlkXhYZEfgc23RJ_YuyzO6CkS0bZjHqKjEex-URyh=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-10T00:33:42.707966Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURRZ3F2OGtRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURRZ3F2OGtRRRAB!2m1!1s0x865b36b2fa14c459:0xc013b1f889a7c85c
+  - name: >-
+      places/ChIJWcQU-rI2W4YRXMinifixE8A/reviews/ChZDSUhNMG9nS0VJQ0FnSURhcE95WE93EAE
+    relativePublishTimeDescription: 3 years ago
+    rating: 4
+    text:
+      text: >-
+        Good local place in Austin for sushi. Not many rolls on the menu, but
+        they have their own flavor. I'm a spicy roll person, so the geisha roll
+        hit home! Definitely recommended!
+      languageCode: en
+    originalText:
+      text: >-
+        Good local place in Austin for sushi. Not many rolls on the menu, but
+        they have their own flavor. I'm a spicy roll person, so the geisha roll
+        hit home! Definitely recommended!
+      languageCode: en
+    authorAttribution:
+      displayName: Jarrett Stuckey
+      uri: https://www.google.com/maps/contrib/118273887490405030705/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWRzZlU_KM5jCEgcPoGetOwRlyhPFFVK1j4XbAtoYZErhuZXTpd=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2021-08-15T15:03:34.259521Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURhcE95WE93EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURhcE95WE93EAE!2m1!1s0x865b36b2fa14c459:0xc013b1f889a7c85c
+  - name: >-
+      places/ChIJWcQU-rI2W4YRXMinifixE8A/reviews/ChdDSUhNMG9nS0VJQ0FnSUNWdllXNXlBRRAB
+    relativePublishTimeDescription: 10 months ago
+    rating: 5
+    text:
+      text: >-
+        Under new ownership the quality of food has declined. Prices have
+        increased.
+
+        I no longer recommend this restaurant.
+      languageCode: en
+    originalText:
+      text: >-
+        Under new ownership the quality of food has declined. Prices have
+        increased.
+
+        I no longer recommend this restaurant.
+      languageCode: en
+    authorAttribution:
+      displayName: Tommy Young
+      uri: https://www.google.com/maps/contrib/105038311561356627048/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWd3bsGUmR63rUuNQMlsPRln00UPDs2iv2c545x2yS8hz4RDdwG=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-07-03T17:54:59.270834Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNWdllXNXlBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNWdllXNXlBRRAB!2m1!1s0x865b36b2fa14c459:0xc013b1f889a7c85c
+  - name: >-
+      places/ChIJWcQU-rI2W4YRXMinifixE8A/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3cjZ1aWl3RRAB
+    relativePublishTimeDescription: a month ago
+    rating: 1
+    text:
+      text: >-
+        The price is ok but food is way below the quality of its price should
+        be.
+
+
+        I had a hard time finishing all the sashimi, really bad.
+
+
+        The noodle of ramen is definitely something from a cheap supermarket,
+        the soup is made by powder, and the onsen egg is just pure boil egg.
+
+
+        I can barely find another restaurant that serves this low quality food
+        with this high price.
+      languageCode: en
+    originalText:
+      text: >-
+        The price is ok but food is way below the quality of its price should
+        be.
+
+
+        I had a hard time finishing all the sashimi, really bad.
+
+
+        The noodle of ramen is definitely something from a cheap supermarket,
+        the soup is made by powder, and the onsen egg is just pure boil egg.
+
+
+        I can barely find another restaurant that serves this low quality food
+        with this high price.
+      languageCode: en
+    authorAttribution:
+      displayName: YUMIN LIN
+      uri: https://www.google.com/maps/contrib/109560240725964126115/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWh1nutTOivs3TWYg57Tr4LI4dCdR2GRVCZJb1zrLbV6WVQtdT68A=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-03-29T04:05:55.468968Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUR3cjZ1aWl3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUR3cjZ1aWl3RRAB!2m1!1s0x865b36b2fa14c459:0xc013b1f889a7c85c
+  - name: >-
+      places/ChIJWcQU-rI2W4YRXMinifixE8A/reviews/ChZDSUhNMG9nS0VJQ0FnSUNybUtHSEJnEAE
+    relativePublishTimeDescription: 10 months ago
+    rating: 5
+    text:
+      text: >-
+        Really good sushi and very clean place. Great music/atmosphere. Very
+        friendly service. Will definitely come back.
+      languageCode: en
+    originalText:
+      text: >-
+        Really good sushi and very clean place. Great music/atmosphere. Very
+        friendly service. Will definitely come back.
+      languageCode: en
+    authorAttribution:
+      displayName: Alejandro Rios
+      uri: https://www.google.com/maps/contrib/107749151100070188200/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUD6GlV5DD-q2tWaZD8B3IMhk5sVKX8JBjiE7nTf_8BhyIDT-Z0=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-07-03T20:52:18.825469Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNybUtHSEJnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNybUtHSEJnEAE!2m1!1s0x865b36b2fa14c459:0xc013b1f889a7c85c
+review_summary: >-
+  What Visitors Are Sharing About Cho Sushi$$$Folks heading to sushi restaurants
+  around Austin often rave about the fresh flavors and cozy atmosphere at this
+  spot, making it a go-to for enjoyable meals with friends or family. While many
+  appreciate the variety of rolls and friendly service that keep the vibe
+  upbeat, some mention occasional inconsistencies in food quality and wait times
+  that could use a bit of fine-tuning. Overall, it's clear that sushi
+  enthusiasts find plenty to love here, with highlights on the creative dishes
+  that make dining out feel special and worth the visit. Even with a few mixed
+  opinions on pricing and preparation, the general consensus leans positive,
+  encouraging newcomers to try it for a satisfying experience. If you're on the
+  hunt for the best sushi near me, this place offers solid options that balance
+  fun and flavor, helping you decide if it's the right fit for your next outing.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
+curbside_pickup: true
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
 good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+live_music: false
+menu_for_children: true
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
+serves_coffee: true
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Japanese spot preparing sushi rolls, noodle dishes & steaks in a modern setup
+  with daily happy hour.
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kozo Sushi"
+title: Kozo Sushi
 permalink: /hawaii/honolulu/kozo-sushi.html
 stateAbbr: HI
 stateName: Hawaii
 cityName: Honolulu
 seo:
-  name: "Kozo Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Kozo Sushi serves delicious sushi in Honolulu, Hawaii. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJI7ByhGBtAHwR_w53Scf-oa0
 photos:
   - name: >-
@@ -184,7 +182,41 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Kozo Sushi in Honolulu, HI$$$Kozo Sushi in Honolulu, HI, stands out
+  as a beloved fast-food sushi chain originating from Japan, offering an array
+  of fresh hand rolls and satisfying bento platters that capture authentic
+  flavors. This spot provides affordable dining options perfect for those
+  seeking Japanese cuisine in a casual setting, with a focus on quick service
+  and variety to suit different preferences. Accessibility features like
+  wheelchair-friendly parking and entrances make it welcoming for all visitors,
+  enhancing the overall experience. Whether you're in the mood for top-rated
+  sushi or a simple meal, the menu's emphasis on quality ingredients ensures a
+  delightful visit in a vibrant neighborhood.
+generative_summary: >-
+  Discover Kozo Sushi in Honolulu, HI$$$Kozo Sushi in Honolulu, HI, stands out
+  as a beloved fast-food sushi chain originating from Japan, offering an array
+  of fresh hand rolls and satisfying bento platters that capture authentic
+  flavors. This spot provides affordable dining options perfect for those
+  seeking Japanese cuisine in a casual setting, with a focus on quick service
+  and variety to suit different preferences. Accessibility features like
+  wheelchair-friendly parking and entrances make it welcoming for all visitors,
+  enhancing the overall experience. Whether you're in the mood for top-rated
+  sushi or a simple meal, the menu's emphasis on quality ingredients ensures a
+  delightful visit in a vibrant neighborhood.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$People generally enjoy the fresh, flavorful sushi
+  at this spot, praising its quick preparation and budget-friendly prices that
+  make it ideal for everyday meals. Many highlight the variety of hand rolls and
+  bento options as great choices for solo diners or groups looking for something
+  light and tasty. While a few note that portions might feel modest, the overall
+  consensus is that it delivers solid value without compromising on taste. If
+  you're hunting for reliable sushi restaurants nearby, this place often gets
+  nods for its convenience and appeal, keeping things positive for those
+  exploring Japanese eats on the go.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +242,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

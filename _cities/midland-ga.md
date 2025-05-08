@@ -5,4 +5,5 @@ permalink: /georgia/midland/
 stateAbbr: GA
 stateName: Georgia
 cityName: Midland
+
 ---

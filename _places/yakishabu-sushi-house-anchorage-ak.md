@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yakishabu Sushi House"
+title: Yakishabu Sushi House
 permalink: /alaska/anchorage/yakishabu-sushi-house.html
 stateAbbr: AK
 stateName: Alaska
 cityName: Anchorage
 seo:
-  name: "Yakishabu Sushi House"
-  type: Restaurant
+  type: restaurant
   links: http://www.yakishabu.com/
-description: "Yakishabu Sushi House serves delicious sushi in Anchorage, Alaska. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJMdQzoAOZyFYR1rEIFO_2Wyo
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x56c89903a033d431:0x2a5bf6ef1408b1d6!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 13
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 10:00 PM'
     - 'Tuesday: Closed'
     - 'Wednesday: 11:30 AM – 10:00 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 11:00 PM'
     - 'Saturday: 12:00 – 11:00 PM'
     - 'Sunday: 1:00 – 10:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 10:00 PM'
-    - 'Tuesday: Closed'
-    - 'Wednesday: 11:30 AM – 10:00 PM'
-    - 'Thursday: 11:30 AM – 10:00 PM'
-    - 'Friday: 11:30 AM – 11:00 PM'
-    - 'Saturday: 12:00 – 11:00 PM'
-    - 'Sunday: 1:00 – 10:00 PM'
+  nextCloseTime: '2025-05-04T07:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +238,47 @@ phone: (907) 561-7807
 price_level: PRICE_LEVEL_MODERATE
 price_range: $30 &ndash; $50
 rating: '4.4'
-rating_count: 0
+rating_count: 318
 website: http://www.yakishabu.com/
+description: >-
+  Discover Yakishabu Sushi House in Anchorage, AK$$$Yakishabu Sushi House in
+  Anchorage, AK, stands out as a welcoming spot for enjoying authentic Japanese
+  cuisine, blending fresh sushi with other flavorful options. This sushi
+  restaurant offers a diverse menu that includes hot pot and barbecue dishes,
+  making it a great choice for those seeking variety in their dining experience.
+  With accessibility features like wheelchair-friendly parking and entrances,
+  it's designed to accommodate all visitors comfortably. The spot is ideal for
+  families, featuring kid-friendly options that add to its appeal for casual
+  meals. Whether you're exploring top-rated sushi places near you, this location
+  provides a cozy atmosphere perfect for savoring Japanese flavors in a relaxed
+  setting.
+generative_summary: >-
+  Discover Yakishabu Sushi House in Anchorage, AK$$$Yakishabu Sushi House in
+  Anchorage, AK, stands out as a welcoming spot for enjoying authentic Japanese
+  cuisine, blending fresh sushi with other flavorful options. This sushi
+  restaurant offers a diverse menu that includes hot pot and barbecue dishes,
+  making it a great choice for those seeking variety in their dining experience.
+  With accessibility features like wheelchair-friendly parking and entrances,
+  it's designed to accommodate all visitors comfortably. The spot is ideal for
+  families, featuring kid-friendly options that add to its appeal for casual
+  meals. Whether you're exploring top-rated sushi places near you, this location
+  provides a cozy atmosphere perfect for savoring Japanese flavors in a relaxed
+  setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What People Are Buzzing About This Sushi Spot$$$Folks searching for sushi near
+  me in Anchorage often rave about the fresh, high-quality rolls and generous
+  portions that make every visit worthwhile. Many highlight the flavorful hot
+  pot and barbecue selections as standout features, adding excitement to the
+  overall meal experience. With a solid rating reflecting consistent
+  satisfaction, visitors appreciate the welcoming vibe and attentive service
+  that enhance the dining atmosphere. While some note it's a go-to for groups or
+  families due to its kid-friendly menu, others enjoy the moderate pricing for
+  such tasty, authentic Japanese fare. Overall, if you're on the hunt for
+  reliable sushi restaurants close to you, this place delivers a positive and
+  enjoyable experience that keeps people coming back.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +304,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

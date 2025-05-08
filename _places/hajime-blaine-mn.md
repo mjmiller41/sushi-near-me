@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Hajime"
+title: Hajime
 permalink: /minnesota/blaine/hajime.html
 stateAbbr: MN
 stateName: Minnesota
 cityName: Blaine
 seo:
-  name: "Hajime"
-  type: Restaurant
-  links: null
-description: "Hajime serves delicious sushi in Blaine, Minnesota. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.hajimemn.com/
 place_id: ChIJwdgOH3Aks1IRAzU3D3k1od8
 photos:
   - name: >-
@@ -170,22 +168,229 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x52b324701f0ed8c1:0xdfa135790f373503!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 15
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 12
+        minute: 15
+      close:
+        day: 1
+        hour: 22
+        minute: 45
+    - open:
+        day: 2
+        hour: 12
+        minute: 15
+      close:
+        day: 2
+        hour: 22
+        minute: 45
+    - open:
+        day: 3
+        hour: 12
+        minute: 15
+      close:
+        day: 3
+        hour: 22
+        minute: 45
+    - open:
+        day: 4
+        hour: 12
+        minute: 15
+      close:
+        day: 4
+        hour: 22
+        minute: 45
+    - open:
+        day: 5
+        hour: 12
+        minute: 15
+      close:
+        day: 5
+        hour: 23
+        minute: 45
+    - open:
+        day: 6
+        hour: 12
+        minute: 15
+      close:
+        day: 6
+        hour: 23
+        minute: 45
+  weekdayDescriptions:
+    - 'Monday: 12:15 – 10:45 PM'
+    - 'Tuesday: 12:15 – 10:45 PM'
+    - 'Wednesday: 12:15 – 10:45 PM'
+    - 'Thursday: 12:15 – 10:45 PM'
+    - 'Friday: 12:15 – 11:45 PM'
+    - 'Saturday: 12:15 – 11:45 PM'
+    - 'Sunday: 12:15 – 10:00 PM'
+  nextCloseTime: '2025-05-04T04:45:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 15
+        close:
+          day: 0
+          hour: 21
+          minute: 45
+      - open:
+          day: 1
+          hour: 14
+          minute: 30
+        close:
+          day: 1
+          hour: 18
+          minute: 0
+      - open:
+          day: 1
+          hour: 21
+          minute: 0
+        close:
+          day: 1
+          hour: 23
+          minute: 0
+      - open:
+          day: 2
+          hour: 14
+          minute: 30
+        close:
+          day: 2
+          hour: 18
+          minute: 0
+      - open:
+          day: 2
+          hour: 21
+          minute: 0
+        close:
+          day: 2
+          hour: 23
+          minute: 0
+      - open:
+          day: 3
+          hour: 14
+          minute: 30
+        close:
+          day: 3
+          hour: 18
+          minute: 0
+      - open:
+          day: 3
+          hour: 21
+          minute: 0
+        close:
+          day: 3
+          hour: 23
+          minute: 0
+      - open:
+          day: 4
+          hour: 14
+          minute: 30
+        close:
+          day: 4
+          hour: 18
+          minute: 0
+      - open:
+          day: 4
+          hour: 21
+          minute: 0
+        close:
+          day: 4
+          hour: 23
+          minute: 0
+      - open:
+          day: 5
+          hour: 14
+          minute: 30
+        close:
+          day: 5
+          hour: 18
+          minute: 0
+      - open:
+          day: 5
+          hour: 21
+          minute: 0
+        close:
+          day: 5
+          hour: 23
+          minute: 0
+      - open:
+          day: 6
+          hour: 14
+          minute: 30
+        close:
+          day: 6
+          hour: 18
+          minute: 0
+      - open:
+          day: 6
+          hour: 21
+          minute: 0
+        close:
+          day: 6
+          hour: 23
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 2:30 – 6:00 PM, 9:00 – 11:00 PM'
+      - 'Tuesday: 2:30 – 6:00 PM, 9:00 – 11:00 PM'
+      - 'Wednesday: 2:30 – 6:00 PM, 9:00 – 11:00 PM'
+      - 'Thursday: 2:30 – 6:00 PM, 9:00 – 11:00 PM'
+      - 'Friday: 2:30 – 6:00 PM, 9:00 – 11:00 PM'
+      - 'Saturday: 2:30 – 6:00 PM, 9:00 – 11:00 PM'
+      - 'Sunday: 12:15 – 9:45 PM'
+    secondaryHoursType: HAPPY_HOUR
+    nextCloseTime: '2025-05-03T23:00:00Z'
+phone: (763) 780-7944
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.7'
+rating_count: 1714
+website: http://www.hajimemn.com/
+description: >-
+  Discover Hajime in Blaine, MN$$$Hajime in Blaine, MN, is a welcoming spot for
+  enjoying fresh sushi and Japanese-inspired dishes in a casual setting. This
+  sushi restaurant features a variety of rolls, hibachi options, and other
+  flavorful fare, making it a great choice for those seeking authentic tastes
+  without the formality. With convenient hours that include happy-hour specials,
+  it's ideal for a relaxed meal any day of the week, and the venue prioritizes
+  accessibility for all visitors. Whether you're in the mood for a quick bite or
+  a leisurely dinner, the menu highlights quality ingredients that appeal to
+  sushi enthusiasts exploring local options.
+generative_summary: >-
+  Discover Hajime in Blaine, MN$$$Hajime in Blaine, MN, is a welcoming spot for
+  enjoying fresh sushi and Japanese-inspired dishes in a casual setting. This
+  sushi restaurant features a variety of rolls, hibachi options, and other
+  flavorful fare, making it a great choice for those seeking authentic tastes
+  without the formality. With convenient hours that include happy-hour specials,
+  it's ideal for a relaxed meal any day of the week, and the venue prioritizes
+  accessibility for all visitors. Whether you're in the mood for a quick bite or
+  a leisurely dinner, the menu highlights quality ingredients that appeal to
+  sushi enthusiasts exploring local options.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this sushi spot often praise the
+  flavorful Japanese dishes, particularly the fresh rolls and specials that
+  offer excellent value, especially during happy hour. Many highlight the
+  efficient and welcoming service that keeps things running smoothly, adding to
+  the overall enjoyable vibe. Folks appreciate the lively atmosphere that makes
+  it a fun place to gather, whether for a casual meal or something more.
+  Overall, the consensus leans positive, with diners noting the tasty selections
+  and reasonable prices that make it a reliable choice for anyone craving
+  quality sushi nearby.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +416,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

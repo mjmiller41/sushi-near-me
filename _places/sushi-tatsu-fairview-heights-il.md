@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Tatsu"
+title: Sushi Tatsu
 permalink: /illinois/fairview-heights/sushi-tatsu.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Fairview Heights
 seo:
-  name: "Sushi Tatsu"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi Tatsu serves delicious sushi in Fairview Heights, Illinois. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJRV3XCuwBdogRozH2a-QcvFU
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x887601ec0ad75d45:0x55bc1ce46bf631a3!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 20
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 8:00 PM'
     - 'Tuesday: Closed'
     - 'Wednesday: 11:00 AM – 8:00 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:00 PM'
     - 'Saturday: 11:00 AM – 9:00 PM'
     - 'Sunday: 11:00 AM – 8:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 8:00 PM'
-    - 'Tuesday: Closed'
-    - 'Wednesday: 11:00 AM – 8:00 PM'
-    - 'Thursday: 11:00 AM – 8:00 PM'
-    - 'Friday: 11:00 AM – 9:00 PM'
-    - 'Saturday: 11:00 AM – 9:00 PM'
-    - 'Sunday: 11:00 AM – 8:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +238,47 @@ phone: (618) 277-5554
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.7'
-rating_count: 0
+rating_count: 675
 website: null
+description: >-
+  Explore Sushi Tatsu in Fairview Heights, IL$$$Sushi Tatsu in Fairview Heights,
+  IL, stands out as a laid-back spot for enjoying fresh Japanese-inspired
+  dishes, blending casual vibes with authentic flavors that appeal to sushi
+  enthusiasts. This family-oriented eatery specializes in classic rolls and
+  creative options, making it a go-to choice for those seeking reliable sushi
+  spots nearby. With its welcoming atmosphere and focus on quality ingredients,
+  it's designed to accommodate various needs, including accessible entry and
+  seating for a comfortable dining experience. Operating hours cater to lunch
+  and dinner crowds, ensuring you can drop in for a satisfying meal without
+  hassle. Whether you're exploring top-rated sushi options in the area, it's a
+  solid pick for anyone craving flavorful bites in a relaxed setting.
+generative_summary: >-
+  Explore Sushi Tatsu in Fairview Heights, IL$$$Sushi Tatsu in Fairview Heights,
+  IL, stands out as a laid-back spot for enjoying fresh Japanese-inspired
+  dishes, blending casual vibes with authentic flavors that appeal to sushi
+  enthusiasts. This family-oriented eatery specializes in classic rolls and
+  creative options, making it a go-to choice for those seeking reliable sushi
+  spots nearby. With its welcoming atmosphere and focus on quality ingredients,
+  it's designed to accommodate various needs, including accessible entry and
+  seating for a comfortable dining experience. Operating hours cater to lunch
+  and dinner crowds, ensuring you can drop in for a satisfying meal without
+  hassle. Whether you're exploring top-rated sushi options in the area, it's a
+  solid pick for anyone craving flavorful bites in a relaxed setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Recent Feedback on This Sushi Spot$$$Visitors often highlight
+  the tasty variety of dishes like chicken bento and fresh veggie rolls, noting
+  how they deliver great flavors at reasonable prices that make it a smart
+  choice for everyday meals. Many appreciate the attentive service that keeps
+  things running smoothly, adding to the overall enjoyable vibe without any
+  fuss. Folks frequently mention the satisfaction of finding a welcoming place
+  that supports local efforts, which adds a feel-good element to the experience.
+  Overall, it's praised for offering solid value and variety, making it a
+  reliable option for groups or families looking to try something new. If you're
+  on the hunt for quality sushi places nearby, this spot seems to hit the mark
+  with its consistent appeal and positive dining experiences.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +304,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

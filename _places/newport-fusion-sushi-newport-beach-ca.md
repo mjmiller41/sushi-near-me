@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Newport Fusion Sushi"
+title: Newport Fusion Sushi
 permalink: /california/newport-beach/newport-fusion-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Newport Beach
 seo:
-  name: "Newport Fusion Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://newportfusionsushi.com/
-description: "Unique sushi preparations & Japanese entrees served in an intimate space with contemporary decor. Newport Fusion Sushi serves delicious sushi in Newport Beach, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJb7SktzPn3IAReDAzqjXkh6M
 photos:
   - name: >-
@@ -185,6 +183,35 @@ price_range: null
 rating: '4.5'
 rating_count: 0
 website: https://newportfusionsushi.com/
+description: >-
+  Explore Newport Fusion Sushi in Newport Beach, CA$$$Newport Fusion Sushi in
+  Newport Beach, CA, stands out as a casual eatery specializing in fresh sushi
+  rolls, sashimi, and authentic Japanese dishes, making it a go-to spot for
+  those seeking top-rated sushi options nearby. Nestled in the vibrant Newport
+  Coast area, this intimate venue boasts contemporary decor and accessible
+  features like wheelchair-friendly entrances and seating, ensuring a welcoming
+  experience for all diners. The menu highlights unique preparations that blend
+  traditional flavors with creative twists, paired with options for outdoor
+  seating and a variety of beverages, ideal for casual meals or group
+  gatherings. Whether you're looking for sushi places near me or craving
+  Japanese-inspired fare, this spot delivers on quality and atmosphere. Its
+  convenient location in a shopping center adds to the appeal for locals and
+  visitors alike searching for the best sushi restaurants in the region.
+generative_summary: >-
+  Explore Newport Fusion Sushi in Newport Beach, CA$$$Newport Fusion Sushi in
+  Newport Beach, CA, stands out as a casual eatery specializing in fresh sushi
+  rolls, sashimi, and authentic Japanese dishes, making it a go-to spot for
+  those seeking top-rated sushi options nearby. Nestled in the vibrant Newport
+  Coast area, this intimate venue boasts contemporary decor and accessible
+  features like wheelchair-friendly entrances and seating, ensuring a welcoming
+  experience for all diners. The menu highlights unique preparations that blend
+  traditional flavors with creative twists, paired with options for outdoor
+  seating and a variety of beverages, ideal for casual meals or group
+  gatherings. Whether you're looking for sushi places near me or craving
+  Japanese-inspired fare, this spot delivers on quality and atmosphere. Its
+  convenient location in a shopping center adds to the appeal for locals and
+  visitors alike searching for the best sushi restaurants in the region.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJb7SktzPn3IAReDAzqjXkh6M/reviews/ChdDSUhNMG9nS0VJQ0FnSUQzanI2SGdnRRAB
@@ -348,6 +375,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNpM0xLQzVnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNpM0xLQzVnRRAB!2m1!1s0x80dce733b7a4b46f:0xa387e435aa333078
+review_summary: >-
+  Visitor Feedback on the Sushi Scene$$$Folks rave about the fresh and flavorful
+  sushi at this spot, often highlighting how the ingredients strike a perfect
+  balance with just the right crunch and sauces. Many appreciate the quick
+  service and welcoming vibe, making it a reliable choice for everything from
+  family dinners to quick bites on a busy night. Reviewers frequently mention
+  the variety that caters to both sushi enthusiasts and those trying something
+  new, like tasty non-sushi options that keep everyone happy. Overall, it's
+  clear this place hits the mark for a relaxed dining experience, with positive
+  notes on the efficient atmosphere and return-worthy meals. If you're on the
+  hunt for great sushi close to you, the consistent praise for its quality and
+  hospitality makes it worth a visit.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -379,8 +419,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Unique sushi preparations & Japanese entrees served in an intimate space with
   contemporary decor.
 

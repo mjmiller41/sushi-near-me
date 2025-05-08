@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Noz"
+title: Sushi Noz
 permalink: /new-york/new-york/sushi-noz.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "Sushi Noz"
-  type: Restaurant
-  links: null
-description: "Sushi Noz serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.sushinoz.com/
 place_id: ChIJmUAVNb5YwokRyFZIbhQ_cxM
 photos:
   - name: >-
@@ -168,8 +166,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c258be35154099:0x13733f146e4856c8!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 17
+        minute: 45
+      close:
+        day: 1
+        hour: 23
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 45
+      close:
+        day: 2
+        hour: 23
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 45
+      close:
+        day: 3
+        hour: 23
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 45
+      close:
+        day: 4
+        hour: 23
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 45
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 45
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 5:45 – 11:00 PM'
+    - 'Tuesday: 5:45 – 11:00 PM'
+    - 'Wednesday: 5:45 – 11:00 PM'
+    - 'Thursday: 5:45 – 11:00 PM'
+    - 'Friday: 5:45 – 11:00 PM'
+    - 'Saturday: 5:45 – 11:00 PM'
+    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -177,13 +232,56 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (917) 338-1792
+price_level: PRICE_LEVEL_VERY_EXPENSIVE
+price_range: $100 &ndash; & up
+rating: '4.5'
+rating_count: 412
+website: http://www.sushinoz.com/
+description: >-
+  Discover Sushi Noz in New York, NY$$$Nestled in the heart of New York, NY,
+  Sushi Noz stands out as a premier destination for refined Japanese dining,
+  featuring a cozy counter setup that emphasizes fresh, seasonal ingredients in
+  its exquisite edomae-style sushi. This intimate spot delivers a high-end
+  culinary experience with carefully curated dishes that highlight the artistry
+  of traditional techniques, making it a go-to choice for those seeking
+  top-rated sushi restaurants in the area. Patrons can enjoy an array of sake
+  and wine options that pair perfectly with the menu, enhancing the overall
+  ambiance of exclusivity and quality. The restaurant's focus on seasonal
+  flavors ensures each visit feels unique, appealing to sushi enthusiasts
+  looking for authentic tastes close to home. With its operational hours
+  catering to evening diners, it's an ideal spot for anyone exploring the best
+  sushi near you in this vibrant city.
+generative_summary: >-
+  Discover Sushi Noz in New York, NY$$$Nestled in the heart of New York, NY,
+  Sushi Noz stands out as a premier destination for refined Japanese dining,
+  featuring a cozy counter setup that emphasizes fresh, seasonal ingredients in
+  its exquisite edomae-style sushi. This intimate spot delivers a high-end
+  culinary experience with carefully curated dishes that highlight the artistry
+  of traditional techniques, making it a go-to choice for those seeking
+  top-rated sushi restaurants in the area. Patrons can enjoy an array of sake
+  and wine options that pair perfectly with the menu, enhancing the overall
+  ambiance of exclusivity and quality. The restaurant's focus on seasonal
+  flavors ensures each visit feels unique, appealing to sushi enthusiasts
+  looking for authentic tastes close to home. With its operational hours
+  catering to evening diners, it's an ideal spot for anyone exploring the best
+  sushi near you in this vibrant city.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors to this popular sushi spot often rave
+  about the exceptional quality and freshness of the dishes, making it a
+  favorite among those hunting for reliable sushi places near me. Many highlight
+  the attentive service and inviting atmosphere that elevate the overall meal,
+  contributing to its strong reputation in the local dining scene. While some
+  note the higher price point as a consideration, the consensus leans toward it
+  being worth the investment for an authentic Japanese experience. Feedback
+  frequently praises the variety of options that cater to different tastes,
+  helping it maintain its status as one of the top-rated sushi restaurants in
+  New York, NY. Overall, the positive buzz around flavorful offerings and
+  seamless visits keeps the energy upbeat, encouraging newcomers to give it a
+  try for a satisfying outing.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -209,7 +307,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

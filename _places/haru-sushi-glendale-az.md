@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "HARU sushi"
+title: HARU sushi
 permalink: /arizona/glendale/haru-sushi.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Glendale
 seo:
-  name: "HARU sushi"
-  type: Restaurant
+  type: restaurant
   links: http://harusushigrillaz.menu11.com/
-description: "HARU sushi serves delicious sushi in Glendale, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJO5viNRBpK4cRxWk52ohrOBk
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x872b691035e29b3b:0x19386b88da3969c5!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 30
+      close:
+        day: 0
+        hour: 20
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 9:00 PM'
     - 'Tuesday: 11:30 AM – 9:00 PM'
     - 'Wednesday: 11:30 AM – 9:00 PM'
@@ -178,54 +234,373 @@ opening_hours:
     - 'Friday: 11:30 AM – 9:00 PM'
     - 'Saturday: 11:30 AM – 9:00 PM'
     - 'Sunday: 12:30 – 8:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 9:00 PM'
-    - 'Tuesday: 11:30 AM – 9:00 PM'
-    - 'Wednesday: 11:30 AM – 9:00 PM'
-    - 'Thursday: 11:30 AM – 9:00 PM'
-    - 'Friday: 11:30 AM – 9:00 PM'
-    - 'Saturday: 11:30 AM – 9:00 PM'
-    - 'Sunday: 12:30 – 8:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: false
+    periods:
+      - open:
+          day: 1
+          hour: 11
+          minute: 30
+        close:
+          day: 1
+          hour: 21
+          minute: 0
+      - open:
+          day: 2
+          hour: 15
+          minute: 0
+        close:
+          day: 2
+          hour: 18
+          minute: 0
+      - open:
+          day: 3
+          hour: 15
+          minute: 0
+        close:
+          day: 3
+          hour: 18
+          minute: 0
+      - open:
+          day: 4
+          hour: 15
+          minute: 0
+        close:
+          day: 4
+          hour: 18
+          minute: 0
+      - open:
+          day: 5
+          hour: 15
+          minute: 0
+        close:
+          day: 5
+          hour: 18
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 11:30 AM – 9:00 PM'
+      - 'Tuesday: 3:00 – 6:00 PM'
+      - 'Wednesday: 3:00 – 6:00 PM'
+      - 'Thursday: 3:00 – 6:00 PM'
+      - 'Friday: 3:00 – 6:00 PM'
+      - 'Saturday: Closed'
+      - 'Sunday: Closed'
+    secondaryHoursType: HAPPY_HOUR
+    nextOpenTime: '2025-05-05T18:30:00Z'
+  - openNow: false
+    periods:
+      - open:
+          day: 1
+          hour: 11
+          minute: 30
+        close:
+          day: 1
+          hour: 15
+          minute: 0
+      - open:
+          day: 2
+          hour: 11
+          minute: 30
+        close:
+          day: 2
+          hour: 15
+          minute: 0
+      - open:
+          day: 3
+          hour: 11
+          minute: 30
+        close:
+          day: 3
+          hour: 15
+          minute: 0
+      - open:
+          day: 4
+          hour: 11
+          minute: 30
+        close:
+          day: 4
+          hour: 15
+          minute: 0
+      - open:
+          day: 5
+          hour: 11
+          minute: 30
+        close:
+          day: 5
+          hour: 15
+          minute: 0
+      - open:
+          day: 6
+          hour: 11
+          minute: 30
+        close:
+          day: 6
+          hour: 15
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 11:30 AM – 3:00 PM'
+      - 'Tuesday: 11:30 AM – 3:00 PM'
+      - 'Wednesday: 11:30 AM – 3:00 PM'
+      - 'Thursday: 11:30 AM – 3:00 PM'
+      - 'Friday: 11:30 AM – 3:00 PM'
+      - 'Saturday: 11:30 AM – 3:00 PM'
+      - 'Sunday: Closed'
+    secondaryHoursType: LUNCH
+    nextOpenTime: '2025-05-05T18:30:00Z'
 phone: (623) 217-2720
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.6'
-rating_count: 0
+rating_count: 558
 website: http://harusushigrillaz.menu11.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover HARU Sushi in Glendale, Arizona$$$HARU Sushi in Glendale, AZ, stands
+  out as a laid-back destination for fresh sushi enthusiasts, blending classic
+  Japanese flavors with a welcoming vibe. This spot offers an array of
+  traditional rolls and sashimi, complemented by a selection of beer, wine, and
+  sake, making it a go-to for casual dining or a quick meal in the area. With
+  its accessible features like wheelchair-friendly entrances and ample parking,
+  it's designed for everyone seeking top sushi restaurants nearby. The
+  atmosphere is relaxed and clean, ideal for enjoying high-quality dishes
+  without the fuss, while its convenient hours cater to lunch crowds or evening
+  outings. Whether you're exploring sushi places near me or looking for reliable
+  Japanese options, this location delivers a satisfying experience with generous
+  portions and customizable meals.
+generative_summary: >-
+  Discover HARU Sushi in Glendale, Arizona$$$HARU Sushi in Glendale, AZ, stands
+  out as a laid-back destination for fresh sushi enthusiasts, blending classic
+  Japanese flavors with a welcoming vibe. This spot offers an array of
+  traditional rolls and sashimi, complemented by a selection of beer, wine, and
+  sake, making it a go-to for casual dining or a quick meal in the area. With
+  its accessible features like wheelchair-friendly entrances and ample parking,
+  it's designed for everyone seeking top sushi restaurants nearby. The
+  atmosphere is relaxed and clean, ideal for enjoying high-quality dishes
+  without the fuss, while its convenient hours cater to lunch crowds or evening
+  outings. Whether you're exploring sushi places near me or looking for reliable
+  Japanese options, this location delivers a satisfying experience with generous
+  portions and customizable meals.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJO5viNRBpK4cRxWk52ohrOBk/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3OXN2cXlBRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 4
+    text:
+      text: >-
+        Haru is a nice, quiet restaurant, nicely decorated. Service was fast but
+        not pushy. I would give the food a 3.5 if I were able. The Korean steak
+        was disappointing, on the bland side, but plenty of it. All dishes were
+        very ample, and we did take some home. Plenty of good miso, and plenty
+        of good cucumber salad. A nice bonus is that you can tailor any dish!
+        Because of the good service and nice atmosphere, the 3 of us enjoyed our
+        time there. We will return, and I would recommend.
+      languageCode: en
+    originalText:
+      text: >-
+        Haru is a nice, quiet restaurant, nicely decorated. Service was fast but
+        not pushy. I would give the food a 3.5 if I were able. The Korean steak
+        was disappointing, on the bland side, but plenty of it. All dishes were
+        very ample, and we did take some home. Plenty of good miso, and plenty
+        of good cucumber salad. A nice bonus is that you can tailor any dish!
+        Because of the good service and nice atmosphere, the 3 of us enjoyed our
+        time there. We will return, and I would recommend.
+      languageCode: en
+    authorAttribution:
+      displayName: Eugene R. Ehmann
+      uri: https://www.google.com/maps/contrib/117998050459955136626/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUx-iwZc8_eiMn-q9CXFGmYvUrhZkUZDIgr8tf645E17P8YDQ=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-03-25T21:20:17.960849Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUR3OXN2cXlBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUR3OXN2cXlBRRAB!2m1!1s0x872b691035e29b3b:0x19386b88da3969c5
+  - name: >-
+      places/ChIJO5viNRBpK4cRxWk52ohrOBk/reviews/ChdDSUhNMG9nS0VJQ0FnTURnN2FUR3pnRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        Haru is absolutely phenomenal! It’s hands-down one of the most authentic
+        sushi spots you’ll find outside of Japan. The sushi here is crafted to
+        perfection—super fresh, incredibly flavorful, and simply unforgettable.
+        Their spicy chicken and wings are equally stellar, offering bold,
+        delicious flavors that keep you coming back for more. The service is
+        spot-on, attentive without being intrusive, making the entire experience
+        feel both personal and luxurious. We had an amazing time dining here and
+        can’t wait to return. Haru is a true gem, and we’re so grateful to have
+        discovered it!
+      languageCode: en
+    originalText:
+      text: >-
+        Haru is absolutely phenomenal! It’s hands-down one of the most authentic
+        sushi spots you’ll find outside of Japan. The sushi here is crafted to
+        perfection—super fresh, incredibly flavorful, and simply unforgettable.
+        Their spicy chicken and wings are equally stellar, offering bold,
+        delicious flavors that keep you coming back for more. The service is
+        spot-on, attentive without being intrusive, making the entire experience
+        feel both personal and luxurious. We had an amazing time dining here and
+        can’t wait to return. Haru is a true gem, and we’re so grateful to have
+        discovered it!
+      languageCode: en
+    authorAttribution:
+      displayName: Grace Yang
+      uri: https://www.google.com/maps/contrib/109154648135717337187/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIpFEual97sxK2vhAriy6zmmfOiCR1DQqs0C3gB0m_6_QkPUw=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-02-26T16:34:48.681698Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURnN2FUR3pnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURnN2FUR3pnRRAB!2m1!1s0x872b691035e29b3b:0x19386b88da3969c5
+  - name: >-
+      places/ChIJO5viNRBpK4cRxWk52ohrOBk/reviews/ChZDSUhNMG9nS0VJQ0FnSURiM09MdUhREAE
+    relativePublishTimeDescription: 9 months ago
+    rating: 5
+    text:
+      text: >-
+        We were in the mood for sushi, and after checking out HARU’s reviews, we
+        decided to try it. I love their sushi!
+
+
+        My wife and I enjoyed the “double-double” and “avenger” rolls. We also
+        had the O-toro, and it was perfect! I strongly recommend this place if
+        you’re in the mood for great sushi!
+      languageCode: en
+    originalText:
+      text: >-
+        We were in the mood for sushi, and after checking out HARU’s reviews, we
+        decided to try it. I love their sushi!
+
+
+        My wife and I enjoyed the “double-double” and “avenger” rolls. We also
+        had the O-toro, and it was perfect! I strongly recommend this place if
+        you’re in the mood for great sushi!
+      languageCode: en
+    authorAttribution:
+      displayName: David Madrid
+      uri: https://www.google.com/maps/contrib/115434233070077856744/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVmnNhrGOsOGSlAStennNQu2--qc00R4qJ6z_t0HmWw2fvYG0kOHA=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-08-03T01:55:49.804946Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURiM09MdUhREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURiM09MdUhREAE!2m1!1s0x872b691035e29b3b:0x19386b88da3969c5
+  - name: >-
+      places/ChIJO5viNRBpK4cRxWk52ohrOBk/reviews/ChdDSUhNMG9nS0VJQ0FnSUNMNmY3cjhBRRAB
+    relativePublishTimeDescription: 10 months ago
+    rating: 5
+    text:
+      text: >-
+        Wow, a hidden gem!! 🍣 ✨ Chef Nick (AZ, represent!) has built an
+        incredible menu and a super fun environment! Buy some sake and share
+        with the sushi Chef's, I dare ya!
+
+
+        This place is clean 🫧 and there is no fishy smell at all.
+
+
+        We enjoyed the Big Daddy roll, the Paradise roll,  the Blue Fin roll,
+        and blue fin, ebi, and horse mackerel Nigri. Everything was very high
+        quality and unique! We will DEFINITELY be back!
+      languageCode: en
+    originalText:
+      text: >-
+        Wow, a hidden gem!! 🍣 ✨ Chef Nick (AZ, represent!) has built an
+        incredible menu and a super fun environment! Buy some sake and share
+        with the sushi Chef's, I dare ya!
+
+
+        This place is clean 🫧 and there is no fishy smell at all.
+
+
+        We enjoyed the Big Daddy roll, the Paradise roll,  the Blue Fin roll,
+        and blue fin, ebi, and horse mackerel Nigri. Everything was very high
+        quality and unique! We will DEFINITELY be back!
+      languageCode: en
+    authorAttribution:
+      displayName: Emily Guile
+      uri: https://www.google.com/maps/contrib/100190863090189036726/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWcX25ybQ7Y8uH5OeFynRPHEfrRTEv3DTjlSPhlZc9R3oNGiiwAUg=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-06-21T03:44:51.090013Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNMNmY3cjhBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNMNmY3cjhBRRAB!2m1!1s0x872b691035e29b3b:0x19386b88da3969c5
+  - name: >-
+      places/ChIJO5viNRBpK4cRxWk52ohrOBk/reviews/ChZDSUhNMG9nS0VJQ0FnTURBN2MtX0ZnEAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 4
+    text:
+      text: >-
+        The food was pretty good and the staff seemed scared to help us but
+        overall it was pretty good.
+      languageCode: en
+    originalText:
+      text: >-
+        The food was pretty good and the staff seemed scared to help us but
+        overall it was pretty good.
+      languageCode: en
+    authorAttribution:
+      displayName: JoAnn Kittrell
+      uri: https://www.google.com/maps/contrib/112976320050860699555/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJqGoC3lqEF8iswfXR8qisI_WtAcf8Mhzv8WxAkWvgZ12RxlQ=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-02-11T06:11:06.871524Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURBN2MtX0ZnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURBN2MtX0ZnEAE!2m1!1s0x872b691035e29b3b:0x19386b88da3969c5
+review_summary: >-
+  What Customers Are Saying About the Experience$$$Visitors often highlight the
+  freshness and variety of the sushi rolls and sashimi, making it a solid pick
+  for anyone craving authentic flavors at reasonable prices. Many appreciate the
+  friendly service and efficient staff that keep things running smoothly without
+  overwhelming the vibe, adding to the overall enjoyment of a meal out. While
+  some note that certain dishes could use a bit more zest, the generous portions
+  and standout options like bento boxes still leave folks feeling satisfied and
+  eager to return. It's commonly praised as a great spot for groups or casual
+  get-togethers, with the outdoor seating and relaxed setting enhancing the fun.
+  If you're hunting for best sushi near me, this place earns high marks for its
+  consistent quality and welcoming approach, offering a reliably positive dining
+  adventure.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: false
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+delivery: true
+dine_in: true
+good_for_children: false
+good_for_groups: true
+good_for_sports: true
+live_music: false
+menu_for_children: false
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

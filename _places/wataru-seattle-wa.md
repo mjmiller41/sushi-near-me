@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Wataru"
+title: Wataru
 permalink: /washington/seattle/wataru.html
 stateAbbr: WA
 stateName: Washington
 cityName: Seattle
 seo:
-  name: "Wataru"
-  type: Restaurant
+  type: restaurant
   links: http://wataruseattle.com/
-description: "Wataru serves delicious sushi in Seattle, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ679-rHkUkFQREVsDVFnTmLo
 photos:
   - name: >-
@@ -169,7 +167,49 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x54901479ac7ebfeb:0xba98d35954035b11!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 16
+        minute: 30
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 19
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 19
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 19
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 16
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: Closed'
     - 'Wednesday: 7:30 – 10:00 PM'
@@ -177,21 +217,78 @@ opening_hours:
     - 'Friday: 7:30 – 10:00 PM'
     - 'Saturday: 4:30 – 10:00 PM'
     - 'Sunday: 4:30 – 10:00 PM'
-  current: null
+  nextOpenTime: '2025-05-03T23:30:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: false
+    periods:
+      - open:
+          day: 4
+          hour: 17
+          minute: 0
+        close:
+          day: 4
+          hour: 19
+          minute: 0
+      - open:
+          day: 5
+          hour: 17
+          minute: 0
+        close:
+          day: 5
+          hour: 19
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: Closed'
+      - 'Tuesday: Closed'
+      - 'Wednesday: Closed'
+      - 'Thursday: 5:00 – 7:00 PM'
+      - 'Friday: 5:00 – 7:00 PM'
+      - 'Saturday: Closed'
+      - 'Sunday: Closed'
+    secondaryHoursType: TAKEOUT
+    nextOpenTime: '2025-05-09T00:00:00Z'
 phone: (206) 525-2073
 price_level: PRICE_LEVEL_EXPENSIVE
 price_range: $100 &ndash; & up
 rating: '4.7'
-rating_count: 0
+rating_count: 394
 website: http://wataruseattle.com/
+description: >-
+  Discover Wataru in Seattle, WA$$$Wataru in Seattle, WA, stands out as a
+  refined sushi destination, specializing in traditional Edomae-style
+  preparations that highlight the freshest seafood selections. This spot offers
+  an intimate dining experience where guests can enjoy meticulously crafted
+  rolls and nigiri, complemented by a selection of sake and beer to enhance the
+  flavors. With its focus on quality ingredients and expert techniques, it's a
+  go-to choice for those seeking authentic Japanese cuisine in a welcoming
+  atmosphere. Accessibility features like wheelchair-friendly entrances make it
+  easier for everyone to savor this top sushi option in the area, perfect for
+  anyone exploring local eateries.
+generative_summary: >-
+  Discover Wataru in Seattle, WA$$$Wataru in Seattle, WA, stands out as a
+  refined sushi destination, specializing in traditional Edomae-style
+  preparations that highlight the freshest seafood selections. This spot offers
+  an intimate dining experience where guests can enjoy meticulously crafted
+  rolls and nigiri, complemented by a selection of sake and beer to enhance the
+  flavors. With its focus on quality ingredients and expert techniques, it's a
+  go-to choice for those seeking authentic Japanese cuisine in a welcoming
+  atmosphere. Accessibility features like wheelchair-friendly entrances make it
+  easier for everyone to savor this top sushi option in the area, perfect for
+  anyone exploring local eateries.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Folks rave about the outstanding omakase offerings
+  at this sushi spot, praising the high-quality fish that's aged to perfection
+  and paired with just-right seasoned rice for a memorable meal. Many highlight
+  the creative twists on flavors that keep things exciting without overwhelming
+  the classics, making it a favorite for sushi enthusiasts. The cozy, intimate
+  vibe and attentive service add to the appeal, creating a relaxed environment
+  that's ideal for special occasions. Overall, diners appreciate the skill
+  behind the dishes, noting it as a solid pick for anyone hunting for reliable
+  Japanese flavors nearby. While it's not without its busy nights, the positive
+  experiences make it worth checking out for a satisfying dine-in adventure.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -217,7 +314,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

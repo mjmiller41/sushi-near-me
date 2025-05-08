@@ -5,4 +5,5 @@ permalink: /utah/ogden/
 stateAbbr: UT
 stateName: Utah
 cityName: Ogden
+
 ---

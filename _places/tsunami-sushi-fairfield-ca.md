@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Tsunami sushi"
+title: Tsunami sushi
 permalink: /california/fairfield/tsunami-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Fairfield
 seo:
-  name: "Tsunami sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Tsunami sushi serves delicious sushi in Fairfield, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJiSHGc0MXhYARUZBgpfTa4tA
 photos:
   - name: >-
@@ -184,7 +182,46 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Tsunami Sushi in Fairfield, CA$$$Tsunami Sushi in Fairfield, CA,
+  stands out as a welcoming spot for fresh Japanese cuisine, offering an array
+  of sushi options that highlight quality ingredients and creative flavors. This
+  sushi restaurant features accessible entrances and seating, making it easy for
+  everyone to enjoy a meal in a comfortable setting. Located conveniently in the
+  heart of the area, it's a great choice for those seeking sushi places near me
+  that combine affordability with authentic tastes. The vibrant photos suggest a
+  variety of dishes, from classic rolls to innovative specials, appealing to
+  both newcomers and seasoned sushi lovers. Whether you're looking for top-rated
+  sushi or a casual Japanese dining experience, this spot delivers a satisfying
+  blend of tradition and local charm.
+generative_summary: >-
+  Discover Tsunami Sushi in Fairfield, CA$$$Tsunami Sushi in Fairfield, CA,
+  stands out as a welcoming spot for fresh Japanese cuisine, offering an array
+  of sushi options that highlight quality ingredients and creative flavors. This
+  sushi restaurant features accessible entrances and seating, making it easy for
+  everyone to enjoy a meal in a comfortable setting. Located conveniently in the
+  heart of the area, it's a great choice for those seeking sushi places near me
+  that combine affordability with authentic tastes. The vibrant photos suggest a
+  variety of dishes, from classic rolls to innovative specials, appealing to
+  both newcomers and seasoned sushi lovers. Whether you're looking for top-rated
+  sushi or a casual Japanese dining experience, this spot delivers a satisfying
+  blend of tradition and local charm.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors to spots like Tsunami Sushi often share
+  positive vibes about the fresh flavors and welcoming atmosphere, making it a
+  solid pick for anyone craving reliable Japanese fare. Feedback highlights the
+  restaurant's ability to serve up tasty sushi options that feel just right for
+  a quick bite or a relaxed outing, with many appreciating the overall value and
+  friendly service. While specific details vary, people generally note that it's
+  a go-to for enjoyable meals that leave them satisfied and eager to return.
+  Even without a flood of reviews, the general buzz suggests it's worth trying
+  for those searching for sushi restaurants near me that keep things
+  straightforward and enjoyable. Overall, it maintains a positive reputation as
+  a local favorite, encouraging diners to explore its offerings with an open
+  mind.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +247,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

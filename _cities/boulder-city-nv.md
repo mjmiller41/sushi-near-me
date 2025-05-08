@@ -5,4 +5,5 @@ permalink: /nevada/boulder-city/
 stateAbbr: NV
 stateName: Nevada
 cityName: Boulder City
+
 ---

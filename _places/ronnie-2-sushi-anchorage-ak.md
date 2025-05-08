@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ronnie 2 Sushi"
+title: Ronnie 2 Sushi
 permalink: /alaska/anchorage/ronnie-2-sushi.html
 stateAbbr: AK
 stateName: Alaska
 cityName: Anchorage
 seo:
-  name: "Ronnie 2 Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://ronnie2.com/
-description: "Ronnie 2 Sushi serves delicious sushi in Anchorage, Alaska. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJxcDwQqKWyFYRIkTmj-QO59A
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x56c896a242f0c0c5:0xd0e70ee48fe64422!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 14
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 10:00 PM'
     - 'Tuesday: 11:00 AM – 10:00 PM'
     - 'Wednesday: 11:00 AM – 10:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 11:00 PM'
     - 'Saturday: 12:00 – 11:00 PM'
     - 'Sunday: 2:00 – 10:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 10:00 PM'
-    - 'Tuesday: 11:00 AM – 10:00 PM'
-    - 'Wednesday: 11:00 AM – 10:00 PM'
-    - 'Thursday: 11:00 AM – 10:00 PM'
-    - 'Friday: 11:00 AM – 11:00 PM'
-    - 'Saturday: 12:00 – 11:00 PM'
-    - 'Sunday: 2:00 – 10:00 PM'
+  nextCloseTime: '2025-05-04T07:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +246,50 @@ phone: (907) 338-0001
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.5'
-rating_count: 0
+rating_count: 901
 website: https://ronnie2.com/
+description: >-
+  Discover Ronnie 2 Sushi in Anchorage, Alaska$$$Ronnie 2 Sushi in Anchorage,
+  AK, stands out as a welcoming Japanese eatery offering an array of fresh rolls
+  and seafood specialties that capture the essence of authentic flavors. This
+  spot excels in providing a cozy atmosphere where diners can enjoy expertly
+  prepared dishes alongside a selection of beverages like beer and sake, making
+  it ideal for casual meals or relaxed evenings. With its focus on quality
+  ingredients and thoughtful presentation, it's a great choice for those seeking
+  top-rated sushi experiences in the area. Accessibility features ensure a
+  comfortable visit for everyone, enhancing its appeal as a neighborhood
+  favorite. Whether you're exploring sushi places near me or looking for
+  reliable Japanese options, this location delivers a satisfying blend of taste
+  and convenience.
+generative_summary: >-
+  Discover Ronnie 2 Sushi in Anchorage, Alaska$$$Ronnie 2 Sushi in Anchorage,
+  AK, stands out as a welcoming Japanese eatery offering an array of fresh rolls
+  and seafood specialties that capture the essence of authentic flavors. This
+  spot excels in providing a cozy atmosphere where diners can enjoy expertly
+  prepared dishes alongside a selection of beverages like beer and sake, making
+  it ideal for casual meals or relaxed evenings. With its focus on quality
+  ingredients and thoughtful presentation, it's a great choice for those seeking
+  top-rated sushi experiences in the area. Accessibility features ensure a
+  comfortable visit for everyone, enhancing its appeal as a neighborhood
+  favorite. Whether you're exploring sushi places near me or looking for
+  reliable Japanese options, this location delivers a satisfying blend of taste
+  and convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Feedback from visitors highlights Ronnie 2 Sushi
+  as a solid pick for anyone craving fresh, flavorful rolls and a laid-back
+  vibe, with many praising the consistent quality and variety on offer. People
+  often note that the portions are generous and the service feels attentive
+  without being overwhelming, making it a go-to for casual get-togethers or solo
+  stops at sushi restaurants nearby. While a few mentions touch on typical wait
+  times during peak hours, the overall consensus leans positive, emphasizing the
+  spot's ability to deliver on taste and value for the price. If you're hunting
+  for the best sushi near me, this place frequently gets nods for its reliable
+  execution and welcoming feel, encouraging repeat visits for both locals and
+  travelers. All in all, the high ratings suggest it's worth checking out for a
+  satisfying meal that keeps things enjoyable and straightforward.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +315,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

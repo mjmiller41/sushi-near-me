@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kobe Buddha House"
+title: Kobe Buddha House
 permalink: /massachusetts/haverhill/kobe-buddha-house.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Haverhill
 seo:
-  name: "Kobe Buddha House"
-  type: Restaurant
+  type: restaurant
   links: https://www.kobehaverhill.com/#footer
-description: "Kobe Buddha House serves delicious sushi in Haverhill, Massachusetts. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJmbUDXVn_4okRRQ7LEU2LrIc
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $30 &ndash; $50
 rating: '4.2'
 rating_count: 0
 website: https://www.kobehaverhill.com/#footer
+description: >-
+  Discover Kobe Buddha House in Haverhill, MA$$$Kobe Buddha House in Haverhill,
+  Massachusetts, stands out as a welcoming Japanese restaurant offering a blend
+  of counter and table service with a diverse menu featuring flavorful hibachi
+  meals and other Asian-inspired dishes. The spot emphasizes fresh preparations
+  and a variety of options that cater to different tastes, making it a go-to for
+  those seeking authentic Japanese flavors in a casual setting. With
+  accessibility features like wheelchair-friendly entrances and seating, it's
+  designed to accommodate everyone comfortably, enhancing the overall dining
+  experience. Additionally, the restaurant provides ample parking and options
+  for groups, adding to its appeal for family outings or casual meetups, while
+  its moderate pricing keeps it accessible for everyday sushi enthusiasts
+  exploring local eateries.
+generative_summary: >-
+  Discover Kobe Buddha House in Haverhill, MA$$$Kobe Buddha House in Haverhill,
+  Massachusetts, stands out as a welcoming Japanese restaurant offering a blend
+  of counter and table service with a diverse menu featuring flavorful hibachi
+  meals and other Asian-inspired dishes. The spot emphasizes fresh preparations
+  and a variety of options that cater to different tastes, making it a go-to for
+  those seeking authentic Japanese flavors in a casual setting. With
+  accessibility features like wheelchair-friendly entrances and seating, it's
+  designed to accommodate everyone comfortably, enhancing the overall dining
+  experience. Additionally, the restaurant provides ample parking and options
+  for groups, adding to its appeal for family outings or casual meetups, while
+  its moderate pricing keeps it accessible for everyday sushi enthusiasts
+  exploring local eateries.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJmbUDXVn_4okRRQ7LEU2LrIc/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3OE5hSVdnEAE
@@ -394,6 +419,21 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUR3NUlQQV9nRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUR3NUlQQV9nRRAB!2m1!1s0x89e2ff595d03b599:0x87ac8b4d11cb0e45
+review_summary: >-
+  What Customers Are Sharing$$$Visitors to this Japanese spot often rave about
+  the delicious hibachi dishes and tasty appetizers like teriyaki and bento
+  boxes, highlighting the fresh flavors and generous portions that leave them
+  satisfied. While some mention occasional service hiccups, such as wait times
+  or minor issues with drinks, the staff generally steps in to resolve problems
+  quickly, keeping the atmosphere upbeat. Many enjoy the lively hibachi side
+  where the interactive cooking adds fun to meals, making it a solid choice for
+  groups or families looking for an engaging dining experience. Overall, the
+  food quality shines through, with positive feedback on variety and taste
+  encouraging repeat visits, though a few suggest it's best to stick with the
+  hibachi options for the most enjoyable experience. If you're searching for
+  top-rated sushi places nearby, this location delivers a mix of excitement and
+  solid flavors that make it worth trying.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -426,7 +466,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

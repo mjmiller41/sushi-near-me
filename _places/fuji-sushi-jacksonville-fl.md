@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Fuji Sushi"
+title: Fuji Sushi
 permalink: /florida/jacksonville/fuji-sushi.html
 stateAbbr: FL
 stateName: Florida
 cityName: Jacksonville
 seo:
-  name: "Fuji Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Fuji Sushi serves delicious sushi in Jacksonville, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJre9MHam35YgRwIfjBrhY3EY
 photos:
   - name: >-
@@ -185,7 +183,45 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Fuji Sushi in Jacksonville, FL$$$Fuji Sushi in Jacksonville, Florida,
+  offers a delightful Japanese dining experience nestled in the charming San
+  Marco neighborhood, perfect for those seeking fresh sushi and authentic
+  flavors. This spot highlights a diverse selection of menu items that emphasize
+  high-quality ingredients and traditional preparation methods, making it an
+  ideal choice for sushi enthusiasts exploring local options. With thoughtful
+  accessibility features like wheelchair-friendly parking, entrances, and
+  seating, the restaurant ensures a comfortable visit for everyone. Photos of
+  the inviting atmosphere further enhance its appeal, inviting patrons to enjoy
+  a relaxed meal in this operational eatery that's well-suited for anyone
+  looking for top-rated sushi near me.
+generative_summary: >-
+  Discover Fuji Sushi in Jacksonville, FL$$$Fuji Sushi in Jacksonville, Florida,
+  offers a delightful Japanese dining experience nestled in the charming San
+  Marco neighborhood, perfect for those seeking fresh sushi and authentic
+  flavors. This spot highlights a diverse selection of menu items that emphasize
+  high-quality ingredients and traditional preparation methods, making it an
+  ideal choice for sushi enthusiasts exploring local options. With thoughtful
+  accessibility features like wheelchair-friendly parking, entrances, and
+  seating, the restaurant ensures a comfortable visit for everyone. Photos of
+  the inviting atmosphere further enhance its appeal, inviting patrons to enjoy
+  a relaxed meal in this operational eatery that's well-suited for anyone
+  looking for top-rated sushi near me.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors to Fuji Sushi often appreciate the fresh
+  and flavorful dishes that bring a taste of Japan right to Jacksonville, with
+  many highlighting the quality of the sushi rolls and overall variety. Feedback
+  frequently notes the welcoming vibe and efficient service, making it a solid
+  pick for casual outings or groups. While some mention minor waits during peak
+  times, the general consensus leans positive, praising the authentic flavors
+  that keep diners coming back. Overall, it's a go-to spot for those searching
+  for reliable Japanese places near me, offering a satisfying experience that
+  balances taste and convenience. Though experiences can vary, the majority of
+  comments suggest it's worth trying for anyone craving the best sushi in the
+  area.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +247,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

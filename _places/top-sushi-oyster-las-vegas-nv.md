@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Top Sushi & Oyster"
+title: Top Sushi & Oyster
 permalink: /nevada/las-vegas/top-sushi-oyster.html
 stateAbbr: NV
 stateName: Nevada
 cityName: Las Vegas
 seo:
-  name: "Top Sushi & Oyster"
-  type: Restaurant
+  type: restaurant
   links: https://topsushi.top/
-description: "Top Sushi & Oyster serves delicious sushi in Las Vegas, Nevada. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJD48i9NPPyIARfPCAEeZCzxk
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c8cfd3f4228f0f:0x19cf42e61180f07c!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 23
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 23
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 23
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 23
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 23
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 0
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 0
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 11:00 PM'
     - 'Tuesday: 11:30 AM – 11:00 PM'
     - 'Wednesday: 11:30 AM – 11:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 12:00 AM'
     - 'Saturday: 11:30 AM – 12:00 AM'
     - 'Sunday: 11:30 AM – 11:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 11:00 PM'
-    - 'Tuesday: 11:30 AM – 11:00 PM'
-    - 'Wednesday: 11:30 AM – 11:00 PM'
-    - 'Thursday: 11:30 AM – 11:00 PM'
-    - 'Friday: 11:30 AM – 12:00 AM'
-    - 'Saturday: 11:30 AM – 12:00 AM'
-    - 'Sunday: 11:30 AM – 11:00 PM'
+  nextCloseTime: '2025-05-04T07:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +246,49 @@ phone: (702) 805-2799
 price_level: PRICE_LEVEL_MODERATE
 price_range: $30 &ndash; $50
 rating: '4.5'
-rating_count: 0
+rating_count: 776
 website: https://topsushi.top/
+description: >-
+  Discover Top Sushi & Oyster in Las Vegas, NV$$$Top Sushi & Oyster in Las
+  Vegas, NV, stands out as a welcoming spot for those craving fresh seafood and
+  diverse flavors, offering an all-you-can-eat experience that combines quality
+  sushi with innovative twists. This casual eatery features a wide array of
+  nigiri, rolls, and even Korean-inspired street food, making it a go-to choice
+  for anyone exploring local dining options in the area. With its accessible
+  features like wheelchair-friendly parking and entrances, it's designed to
+  accommodate all visitors seeking a relaxed meal. The restaurant's extended
+  hours ensure you can enjoy top-notch seafood dishes well into the evening,
+  perfect for spontaneous outings or family gatherings. Whether you're in the
+  mood for authentic Japanese-inspired cuisine or something with a fusion edge,
+  this spot delivers a satisfying blend that keeps patrons coming back for more.
+generative_summary: >-
+  Discover Top Sushi & Oyster in Las Vegas, NV$$$Top Sushi & Oyster in Las
+  Vegas, NV, stands out as a welcoming spot for those craving fresh seafood and
+  diverse flavors, offering an all-you-can-eat experience that combines quality
+  sushi with innovative twists. This casual eatery features a wide array of
+  nigiri, rolls, and even Korean-inspired street food, making it a go-to choice
+  for anyone exploring local dining options in the area. With its accessible
+  features like wheelchair-friendly parking and entrances, it's designed to
+  accommodate all visitors seeking a relaxed meal. The restaurant's extended
+  hours ensure you can enjoy top-notch seafood dishes well into the evening,
+  perfect for spontaneous outings or family gatherings. Whether you're in the
+  mood for authentic Japanese-inspired cuisine or something with a fusion edge,
+  this spot delivers a satisfying blend that keeps patrons coming back for more.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Buzzing About$$$Folks rave about the fantastic
+  all-you-can-eat deals at this sushi spot, highlighting the impressive
+  selection of rolls, sashimi, and creative Asian fusion plates that make every
+  visit feel like a treat. Many appreciate the smooth and attentive service that
+  keeps things running effortlessly, adding to the fun and lively vibe of the
+  place. It's often noted as a solid pick for groups or anyone wanting a casual
+  yet energetic dining experience without breaking the bank. While opinions
+  vary, the overall consensus leans positive, with diners enjoying the variety
+  and atmosphere that make it stand out among nearby options. If you're on the
+  hunt for reliable sushi experiences, this location consistently delivers on
+  fresh flavors and a welcoming environment that leaves people satisfied.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +314,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

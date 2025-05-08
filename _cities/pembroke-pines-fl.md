@@ -5,4 +5,5 @@ permalink: /florida/pembroke-pines/
 stateAbbr: FL
 stateName: Florida
 cityName: Pembroke Pines
+
 ---

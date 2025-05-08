@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "The Cowfish® Sushi Burger Bar"
+title: The Cowfish® Sushi Burger Bar
 permalink: /florida/orlando/the-cowfish-sushi-burger-bar.html
 stateAbbr: FL
 stateName: Florida
 cityName: Orlando
 seo:
-  name: "The Cowfish® Sushi Burger Bar"
-  type: Restaurant
+  type: restaurant
   links: https://www.universalorlando.com/web/en/us/things-to-do/dining/the-cowfish
-description: "Bustling, family-friendly fusion eatery at Universal CityWalk with burgers, sushi & a full bar. The Cowfish® Sushi Burger Bar serves delicious sushi in Orlando, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJSfXhPed-54gR5flbxVwTdyc
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $20 &ndash; $30
 rating: '3.9'
 rating_count: 0
 website: https://www.universalorlando.com/web/en/us/things-to-do/dining/the-cowfish
+description: >-
+  Discover The Cowfish Sushi Burger Bar in Orlando, FL$$$In Orlando, FL, The
+  Cowfish Sushi Burger Bar stands out as a vibrant fusion spot at Universal
+  CityWalk, where creative sushi and burgers come together for an exciting
+  dining adventure. This lively eatery boasts an inventive menu with generous
+  portions of fresh rolls and hearty burgers, blending bold flavors that appeal
+  to sushi enthusiasts and burger lovers alike. The welcoming atmosphere
+  features outdoor seating and a full bar, making it ideal for families or
+  groups seeking a relaxed vibe amidst the area's energy. Accessibility options
+  like wheelchair-friendly entrances enhance the experience, while easy
+  reservations add convenience for visitors exploring top sushi restaurants
+  nearby. Overall, it's a fantastic choice for anyone craving shareable,
+  flavorful dishes in a fun, accessible setting.
+generative_summary: >-
+  Discover The Cowfish Sushi Burger Bar in Orlando, FL$$$In Orlando, FL, The
+  Cowfish Sushi Burger Bar stands out as a vibrant fusion spot at Universal
+  CityWalk, where creative sushi and burgers come together for an exciting
+  dining adventure. This lively eatery boasts an inventive menu with generous
+  portions of fresh rolls and hearty burgers, blending bold flavors that appeal
+  to sushi enthusiasts and burger lovers alike. The welcoming atmosphere
+  features outdoor seating and a full bar, making it ideal for families or
+  groups seeking a relaxed vibe amidst the area's energy. Accessibility options
+  like wheelchair-friendly entrances enhance the experience, while easy
+  reservations add convenience for visitors exploring top sushi restaurants
+  nearby. Overall, it's a fantastic choice for anyone craving shareable,
+  flavorful dishes in a fun, accessible setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJSfXhPed-54gR5flbxVwTdyc/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJMjQtRXZ3RRAB
@@ -426,6 +451,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR2dC12YjRnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR2dC12YjRnRRAB!2m1!1s0x88e77ee73de1f549:0x2777135cc55bf9e5
+review_summary: >-
+  What Guests Are Buzzing About$$$Visitors to this popular sushi spot in Orlando
+  often rave about the creative fusion of flavors, with standout dishes like
+  unique sushi rolls and inventive appetizers leaving a lasting impression. Many
+  highlight the lively atmosphere and efficient service that make it a go-to for
+  families and groups, especially after a day of exploring nearby attractions.
+  Feedback frequently praises the generous portions and tasty combinations that
+  satisfy both sushi cravings and burger desires, creating a welcoming
+  environment for casual meals. While some note minor tweaks could improve
+  certain items, the overall consensus is that it's a solid pick for fresh,
+  enjoyable fare with friendly vibes. If you're hunting for top-rated sushi
+  places near Universal Studios, this spot delivers a reliably fun and flavorful
+  experience that keeps people coming back.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidGarageParking: true
 payment_options:
@@ -454,8 +493,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Bustling, family-friendly fusion eatery at Universal CityWalk with burgers,
   sushi & a full bar.
 

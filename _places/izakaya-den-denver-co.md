@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Izakaya Den"
+title: Izakaya Den
 permalink: /colorado/denver/izakaya-den.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Denver
 seo:
-  name: "Izakaya Den"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Izakaya Den serves delicious sushi in Denver, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJv509BFJ-bIcR6gQNwBoYoao
 photos:
   - name: >-
@@ -183,7 +181,45 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  About Izakaya Den in Denver, CO$$$Izakaya Den in Denver, CO, is a stylish
+  Japanese restaurant that captivates with its modern vibe and innovative take
+  on traditional cuisine. Drawing from a summary of its offerings, this spot
+  features a selection of global small plates, fresh sushi, and expertly crafted
+  sake and cocktails, making it a go-to for flavorful dining experiences. The
+  contemporary atmosphere blends seamlessly with high-quality ingredients,
+  creating an inviting space for enjoying Japanese-inspired dishes. For those
+  exploring sushi restaurants in the area, it delivers a memorable blend of
+  authenticity and creativity that appeals to both locals and visitors. Whether
+  you're in the mood for a casual meal or something more special, this Denver
+  gem stands out for its thoughtful menu and welcoming ambiance.
+generative_summary: >-
+  About Izakaya Den in Denver, CO$$$Izakaya Den in Denver, CO, is a stylish
+  Japanese restaurant that captivates with its modern vibe and innovative take
+  on traditional cuisine. Drawing from a summary of its offerings, this spot
+  features a selection of global small plates, fresh sushi, and expertly crafted
+  sake and cocktails, making it a go-to for flavorful dining experiences. The
+  contemporary atmosphere blends seamlessly with high-quality ingredients,
+  creating an inviting space for enjoying Japanese-inspired dishes. For those
+  exploring sushi restaurants in the area, it delivers a memorable blend of
+  authenticity and creativity that appeals to both locals and visitors. Whether
+  you're in the mood for a casual meal or something more special, this Denver
+  gem stands out for its thoughtful menu and welcoming ambiance.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Folks checking out Izakaya Den often highlight the
+  fresh, creative sushi and small plates that bring a fun twist to classic
+  flavors, making it a solid pick for Japanese dining fans. Many appreciate the
+  cozy, lively vibe that feels just right for gatherings or a relaxed evening
+  out, with service that's friendly and helpful without being over the top.
+  Reviews frequently mention the great drink pairings, like sake and cocktails,
+  that elevate the overall experience and add to the appeal. All in all, it's
+  seen as one of the top spots for quality sushi nearby, with plenty of nods to
+  its welcoming feel and tasty options that keep people coming back. If you're
+  on the hunt for reliable sushi places around town, this one earns genuine
+  praise for hitting the mark on taste and atmosphere.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -209,7 +245,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

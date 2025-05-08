@@ -5,4 +5,5 @@ permalink: /massachusetts/concord/
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Concord
+
 ---

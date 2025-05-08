@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Wa Sushi & Izakaya"
+title: Wa Sushi & Izakaya
 permalink: /california/alhambra/wa-sushi-izakaya.html
 stateAbbr: CA
 stateName: California
 cityName: Alhambra
 seo:
-  name: "Wa Sushi & Izakaya"
-  type: Restaurant
-  links: null
-description: "Wa Sushi & Izakaya serves delicious sushi in Alhambra, California. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://wasushiandizakaya.epipay.com/
 place_id: ChIJpRUAIQfFwoARpC9v5H9lPbM
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c2c507210015a5:0xb33d657fe46f2fa4!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:30 AM – 10:00 PM'
+    - 'Tuesday: 11:30 AM – 10:00 PM'
+    - 'Wednesday: 11:30 AM – 10:00 PM'
+    - 'Thursday: 11:30 AM – 10:00 PM'
+    - 'Friday: 11:30 AM – 11:00 PM'
+    - 'Saturday: 11:30 AM – 11:00 PM'
+    - 'Sunday: 11:30 AM – 10:00 PM'
+  nextCloseTime: '2025-05-04T06:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,51 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
+phone: (626) 282-5636
 price_level: null
 price_range: null
-rating: null
-rating_count: 0
-website: null
+rating: '4.4'
+rating_count: 116
+website: http://wasushiandizakaya.epipay.com/
+description: >-
+  Explore Wa Sushi & Izakaya in Alhambra, CA$$$Wa Sushi & Izakaya in Alhambra,
+  CA, stands out as a welcoming spot for authentic Japanese cuisine, featuring
+  fresh sushi rolls, sashimi, and a selection of sake and cocktails in a relaxed
+  setting. This eatery emphasizes accessibility with wheelchair-friendly
+  parking, entrances, and seating, making it easy for everyone to enjoy a meal.
+  Patrons can savor the diverse menu that highlights traditional flavors
+  alongside creative twists, ideal for those seeking sushi dining options
+  nearby. The inviting atmosphere, complete with ample photo-worthy dishes, adds
+  to the appeal for casual outings or intimate gatherings. Open daily from late
+  morning into the evening, it's a convenient choice for anyone exploring top
+  Japanese places in the area.
+generative_summary: >-
+  Explore Wa Sushi & Izakaya in Alhambra, CA$$$Wa Sushi & Izakaya in Alhambra,
+  CA, stands out as a welcoming spot for authentic Japanese cuisine, featuring
+  fresh sushi rolls, sashimi, and a selection of sake and cocktails in a relaxed
+  setting. This eatery emphasizes accessibility with wheelchair-friendly
+  parking, entrances, and seating, making it easy for everyone to enjoy a meal.
+  Patrons can savor the diverse menu that highlights traditional flavors
+  alongside creative twists, ideal for those seeking sushi dining options
+  nearby. The inviting atmosphere, complete with ample photo-worthy dishes, adds
+  to the appeal for casual outings or intimate gatherings. Open daily from late
+  morning into the evening, it's a convenient choice for anyone exploring top
+  Japanese places in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors to this sushi restaurant often rave
+  about the fresh, high-quality ingredients that make every bite memorable,
+  earning it a solid reputation among local favorites. Many appreciate the
+  friendly service and cozy vibe that enhance the overall dining experience,
+  with comments highlighting the variety of options for different tastes. While
+  some note that portions could be more generous, the consensus leans positive,
+  praising the reasonable prices and flavorful dishes that keep people coming
+  back. Overall, it's seen as a reliable spot for satisfying cravings,
+  especially for those searching for great sushi close to home. If you're in the
+  mood for a laid-back meal, this place delivers a consistently enjoyable
+  experience based on shared opinions.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +312,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

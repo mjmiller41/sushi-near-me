@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Shwe Letyar Sushi"
+title: Shwe Letyar Sushi
 permalink: /utah/salt-lake-city/shwe-letyar-sushi.html
 stateAbbr: UT
 stateName: Utah
 cityName: Salt Lake City
 seo:
-  name: "Shwe Letyar Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://order.toasttab.com/online/shwe-letyar-sushi-545-west-700-south
-description: "Shwe Letyar Sushi serves delicious sushi in Salt Lake City, Utah. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ9XBEu8P1UocRlwt4ceMfYZE
 photos:
   - name: >-
@@ -168,7 +166,49 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8752f5c3bb4470f5:0x91611fe371780b97!10e5
 primary_type: Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -176,14 +216,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:00 PM'
     - 'Saturday: 11:00 AM – 10:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 10:00 PM'
-    - 'Saturday: 11:00 AM – 10:00 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -195,19 +228,228 @@ phone: (801) 631-2804
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '5.0'
-rating_count: 0
+rating_count: 15
 website: https://order.toasttab.com/online/shwe-letyar-sushi-545-west-700-south
-reviews: null
+description: >-
+  Explore Shwe Letyar Sushi in Salt Lake City, UT$$$Shwe Letyar Sushi in Salt
+  Lake City, UT, offers a delightful fusion of flavors in a welcoming food hall
+  setting, making it a standout spot for fresh Asian-inspired dishes. This
+  restaurant features accessible entrances and parking, ensuring a comfortable
+  visit for all guests, while its moderate pricing appeals to those seeking
+  quality without breaking the bank. Diners can enjoy a variety of options
+  including vegetarian-friendly meals and authentic tastes that highlight
+  regional ingredients, served in a vibrant atmosphere perfect for casual
+  lunches or dinners. With convenient hours and takeout available, it's an ideal
+  choice for anyone craving flavorful bites in a lively urban environment.
+  Whether you're in the mood for something light and healthy or a satisfying
+  meal, this spot delivers an experience that's both accessible and memorable.
+generative_summary: >-
+  Explore Shwe Letyar Sushi in Salt Lake City, UT$$$Shwe Letyar Sushi in Salt
+  Lake City, UT, offers a delightful fusion of flavors in a welcoming food hall
+  setting, making it a standout spot for fresh Asian-inspired dishes. This
+  restaurant features accessible entrances and parking, ensuring a comfortable
+  visit for all guests, while its moderate pricing appeals to those seeking
+  quality without breaking the bank. Diners can enjoy a variety of options
+  including vegetarian-friendly meals and authentic tastes that highlight
+  regional ingredients, served in a vibrant atmosphere perfect for casual
+  lunches or dinners. With convenient hours and takeout available, it's an ideal
+  choice for anyone craving flavorful bites in a lively urban environment.
+  Whether you're in the mood for something light and healthy or a satisfying
+  meal, this spot delivers an experience that's both accessible and memorable.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ9XBEu8P1UocRlwt4ceMfYZE/reviews/ChZDSUhNMG9nS0VJQ0FnSUNmM2ZYbldnEAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        This place is absolutely incredible. We got the rice pyramids (coconut +
+        lovely bamboo leaf herbal flavor), tea leaf salad (bursting with flavor,
+        order with rice!), and samosas (perfect - sauce is wonderful).
+
+
+        Run here!!!
+      languageCode: en
+    originalText:
+      text: >-
+        This place is absolutely incredible. We got the rice pyramids (coconut +
+        lovely bamboo leaf herbal flavor), tea leaf salad (bursting with flavor,
+        order with rice!), and samosas (perfect - sauce is wonderful).
+
+
+        Run here!!!
+      languageCode: en
+    authorAttribution:
+      displayName: Jacob Richards
+      uri: https://www.google.com/maps/contrib/101662109775677266159/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVJP8nftPGzRVTgzC0NRqcgAJKf8hKxhoUNZsMs1_6r3K8ilBEI=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-12-31T21:05:44.390416Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNmM2ZYbldnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNmM2ZYbldnEAE!2m1!1s0x8752f5c3bb4470f5:0x91611fe371780b97
+  - name: >-
+      places/ChIJ9XBEu8P1UocRlwt4ceMfYZE/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3eDZ2eTBnRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Absolutely mind-blowing chicken fried rice. The steamed pork buns were
+        also superb. I can’t wait to take friends here. Highly recommend!
+      languageCode: en
+    originalText:
+      text: >-
+        Absolutely mind-blowing chicken fried rice. The steamed pork buns were
+        also superb. I can’t wait to take friends here. Highly recommend!
+      languageCode: en
+    authorAttribution:
+      displayName: Ashley Walton
+      uri: https://www.google.com/maps/contrib/111232934443038137347/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWEv4R-uiVU30RuafsGrDKDWDRlWBMeYsEJkbfHaYsa8yb7yPZC=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-03-21T16:09:44.247622Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUN3eDZ2eTBnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUN3eDZ2eTBnRRAB!2m1!1s0x8752f5c3bb4470f5:0x91611fe371780b97
+  - name: >-
+      places/ChIJ9XBEu8P1UocRlwt4ceMfYZE/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3LTl6MzRRRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Had a great experience. Food was quick and was really good too!
+
+
+        Tried a new BiteClub where we all tried the restaurant and met new
+        people and it was fun! Definitely recommended that too!
+      languageCode: en
+    originalText:
+      text: >-
+        Had a great experience. Food was quick and was really good too!
+
+
+        Tried a new BiteClub where we all tried the restaurant and met new
+        people and it was fun! Definitely recommended that too!
+      languageCode: en
+    authorAttribution:
+      displayName: Chanell B
+      uri: https://www.google.com/maps/contrib/101444035758694267135/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjX-6qVFuQavIE_TBpWPehRvwseHw8HzJ6xiF379OiZ27KFDbotOdg=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2025-03-21T13:18:12.932283Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUN3LTl6MzRRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUN3LTl6MzRRRRAB!2m1!1s0x8752f5c3bb4470f5:0x91611fe371780b97
+  - name: >-
+      places/ChIJ9XBEu8P1UocRlwt4ceMfYZE/reviews/ChZDSUhNMG9nS0VJQ0FnSUNmNzZHWURnEAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        We recently came back from a trip to Thailand where we had laphet thoke
+        (fermented tea leaf salad) for the first time and we were so excited to
+        find a place that served it here in SLC. It is such a unique, delicious
+        flavor that I highly recommend everyone to try and I hope they add more
+        Burmese salads to their menu.
+
+
+        The chicken stir fry was also great, as were the samosas (they were more
+        like seasoned mashed potato samosas rather than the chunks of potato
+        that I'm used to with Indian samosas, just fyi). The woman we spoke to
+        who I believe is the owner said that they do a special Burmese menu on
+        Fridays and Saturdays that is not listed so we are very excited about
+        going back to try that!
+
+
+        *This restaurant is located inside a food hall with other vendors, photo
+        attached of their stall.
+      languageCode: en
+    originalText:
+      text: >-
+        We recently came back from a trip to Thailand where we had laphet thoke
+        (fermented tea leaf salad) for the first time and we were so excited to
+        find a place that served it here in SLC. It is such a unique, delicious
+        flavor that I highly recommend everyone to try and I hope they add more
+        Burmese salads to their menu.
+
+
+        The chicken stir fry was also great, as were the samosas (they were more
+        like seasoned mashed potato samosas rather than the chunks of potato
+        that I'm used to with Indian samosas, just fyi). The woman we spoke to
+        who I believe is the owner said that they do a special Burmese menu on
+        Fridays and Saturdays that is not listed so we are very excited about
+        going back to try that!
+
+
+        *This restaurant is located inside a food hall with other vendors, photo
+        attached of their stall.
+      languageCode: en
+    authorAttribution:
+      displayName: Sam
+      uri: https://www.google.com/maps/contrib/107334142940965928053/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUiXWnWtHJCENhKdvLeGONRAFlPMfU7_uLFFxHl8vzYIybtA2M=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-01-02T22:15:13.158752Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNmNzZHWURnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNmNzZHWURnEAE!2m1!1s0x8752f5c3bb4470f5:0x91611fe371780b97
+  - name: >-
+      places/ChIJ9XBEu8P1UocRlwt4ceMfYZE/reviews/ChdDSUhNMG9nS0VJQ0FnSUR2X3V2WXp3RRAB
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        Excellent food, really enjoyed the samosas, shrimp fried rice and dragon
+        roll we ate from here. The sauce with the fried rice and samosas was
+        magical
+      languageCode: en
+    originalText:
+      text: >-
+        Excellent food, really enjoyed the samosas, shrimp fried rice and dragon
+        roll we ate from here. The sauce with the fried rice and samosas was
+        magical
+      languageCode: en
+    authorAttribution:
+      displayName: Mitchell Larson
+      uri: https://www.google.com/maps/contrib/112053264360777094260/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXqicgEiuctEkRmOUY6S8WYrBzFiMat5G4mQJ9Pk5VNBQxpGT_V=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-12-21T01:01:34.753746Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR2X3V2WXp3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR2X3V2WXp3RRAB!2m1!1s0x8752f5c3bb4470f5:0x91611fe371780b97
+review_summary: >-
+  Customer Favorites at Shwe Letyar Sushi$$$Folks rave about the tasty dishes at
+  this sushi spot, with highlights on flavorful salads, rice dishes, and snacks
+  that bring a burst of authentic Asian vibes to every bite. Many appreciate how
+  the meals come out quickly and pair well for groups or solo diners, adding to
+  the fun and relaxed vibe of the place. It's clear that the focus on fresh
+  ingredients and unique flavors keeps people coming back, often mentioning the
+  satisfying options that feel just right for a casual meal. Overall, visitors
+  find it a solid pick for anyone hunting for great food in a friendly setting,
+  making it easy to see why it's gaining buzz among local food lovers. If you're
+  exploring sushi restaurants nearby, this one stands out for its reliable
+  quality and welcoming feel, encouraging repeat visits for more delicious
+  discoveries.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
-payment_options: null
+payment_options:
+  acceptsCreditCards: true
+  acceptsCashOnly: false
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
+curbside_pickup: false
+delivery: false
+dine_in: true
 good_for_children: null
 good_for_groups: null
-good_for_sports: null
-live_music: null
+good_for_sports: false
+live_music: false
 menu_for_children: null
 outdoor_seating: null
 reservable: null
@@ -217,13 +459,13 @@ serves_breakfast: null
 serves_brunch: null
 serves_cocktails: null
 serves_coffee: null
-serves_dinner: null
+serves_dinner: true
 serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
+serves_lunch: true
+serves_vegetarian_food: true
 serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

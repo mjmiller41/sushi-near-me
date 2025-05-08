@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Touka Japanese Sushi, Hibachi & Poke Bowl"
+title: Touka Japanese Sushi, Hibachi & Poke Bowl
 permalink: /new-york/east-aurora/touka-japanese-sushi-hibachi-poke-bowl.html
 stateAbbr: NY
 stateName: New York
 cityName: East Aurora
 seo:
-  name: "Touka Japanese Sushi, Hibachi & Poke Bowl"
-  type: Restaurant
+  type: restaurant
   links: http://www.toukabuffalo.com/
-description: "Touka Japanese Sushi, Hibachi & Poke Bowl serves delicious sushi in East Aurora, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJF8rSYeqn04kRg0xeDLzH52k
 photos:
   - name: >-
@@ -169,7 +167,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89d3a7ea61d2ca17:0x69e7c7bc0c5e4c83!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -177,14 +225,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:00 PM'
     - 'Saturday: 11:00 AM – 9:00 PM'
     - 'Sunday: 12:00 – 9:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 9:00 PM'
-    - 'Saturday: 11:00 AM – 9:00 PM'
-    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T01:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,9 +237,44 @@ phone: (716) 655-8888
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.5'
-rating_count: 0
+rating_count: 99
 website: http://www.toukabuffalo.com/
+description: >-
+  Discover Touka Japanese Sushi in East Aurora, NY$$$Touka Japanese Sushi,
+  Hibachi & Poke Bowl in East Aurora, NY, stands out as a laid-back destination
+  for authentic Japanese flavors, blending fresh sushi rolls with hibachi and
+  poke bowl options. This spot emphasizes a casual vibe that makes it ideal for
+  quick meals or relaxed dining, featuring high-quality ingredients that
+  highlight the essence of traditional Japanese cuisine. Visitors can enjoy
+  dine-in experiences or convenient takeout, catering to those seeking top-rated
+  sushi nearby without the fuss. The menu balances variety and simplicity,
+  appealing to anyone looking for flavorful, everyday Japanese dishes in a
+  welcoming setting.
+generative_summary: >-
+  Discover Touka Japanese Sushi in East Aurora, NY$$$Touka Japanese Sushi,
+  Hibachi & Poke Bowl in East Aurora, NY, stands out as a laid-back destination
+  for authentic Japanese flavors, blending fresh sushi rolls with hibachi and
+  poke bowl options. This spot emphasizes a casual vibe that makes it ideal for
+  quick meals or relaxed dining, featuring high-quality ingredients that
+  highlight the essence of traditional Japanese cuisine. Visitors can enjoy
+  dine-in experiences or convenient takeout, catering to those seeking top-rated
+  sushi nearby without the fuss. The menu balances variety and simplicity,
+  appealing to anyone looking for flavorful, everyday Japanese dishes in a
+  welcoming setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What People Are Saying About This Sushi Spot$$$People often highlight the
+  delicious sushi and sashimi at this Japanese restaurant, noting how the fresh
+  fish really shines in every bite. Many appreciate the friendly service that
+  adds a warm touch to the overall experience, making it a go-to for casual
+  meals. Takeout options come through as quick and hassle-free, perfect for busy
+  days when you're craving something tasty on the run. While opinions vary, the
+  general vibe is positive, with diners enjoying the reliable quality that keeps
+  them coming back for more Japanese favorites. All in all, it's a solid choice
+  for anyone exploring local sushi spots, offering a balance of flavor and
+  convenience that feels just right.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -224,7 +300,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

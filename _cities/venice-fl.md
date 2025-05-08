@@ -5,4 +5,5 @@ permalink: /florida/venice/
 stateAbbr: FL
 stateName: Florida
 cityName: Venice
+
 ---

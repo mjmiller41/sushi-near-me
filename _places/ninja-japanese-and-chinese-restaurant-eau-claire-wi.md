@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ninja Japanese and Chinese Restaurant"
+title: Ninja Japanese and Chinese Restaurant
 permalink: /wisconsin/eau-claire/ninja-japanese-and-chinese-restaurant.html
 stateAbbr: WI
 stateName: Wisconsin
 cityName: Eau Claire
 seo:
-  name: "Ninja Japanese and Chinese Restaurant"
-  type: Restaurant
+  type: restaurant
   links: https://ninjabarstow.com/?utm_source=google
-description: "Ninja Japanese and Chinese Restaurant serves delicious sushi in Eau Claire, Wisconsin. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJwTTG8Pa8-IcRTks4keQTKsI
 photos:
   - name: >-
@@ -170,7 +168,89 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x87f8bcf6f0c634c1:0xc22a13e491384b4e!10e5
 primary_type: Chinese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 10
+        minute: 0
+      close:
+        day: 1
+        hour: 15
+        minute: 0
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 10
+        minute: 0
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 10
+        minute: 0
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 10
+        minute: 0
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 10:00 AM – 3:00 PM, 5:00 – 10:00 PM'
     - 'Tuesday: Closed'
     - 'Wednesday: 10:00 AM – 3:00 PM, 5:00 – 10:00 PM'
@@ -178,28 +258,238 @@ opening_hours:
     - 'Friday: 10:00 AM – 3:00 PM, 5:00 – 11:00 PM'
     - 'Saturday: 12:00 – 11:00 PM'
     - 'Sunday: 12:00 – 9:00 PM'
-  current:
-    - 'Monday: 10:00 AM – 3:00 PM, 5:00 – 10:00 PM'
-    - 'Tuesday: Closed'
-    - 'Wednesday: 10:00 AM – 3:00 PM, 5:00 – 10:00 PM'
-    - 'Thursday: 10:00 AM – 3:00 PM, 5:00 – 10:00 PM'
-    - 'Friday: 10:00 AM – 3:00 PM, 5:00 – 11:00 PM'
-    - 'Saturday: 12:00 – 11:00 PM'
-    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 0
+        close:
+          day: 0
+          hour: 21
+          minute: 0
+      - open:
+          day: 1
+          hour: 10
+          minute: 0
+        close:
+          day: 1
+          hour: 15
+          minute: 0
+      - open:
+          day: 1
+          hour: 17
+          minute: 0
+        close:
+          day: 1
+          hour: 22
+          minute: 0
+      - open:
+          day: 3
+          hour: 10
+          minute: 0
+        close:
+          day: 3
+          hour: 15
+          minute: 0
+      - open:
+          day: 3
+          hour: 17
+          minute: 0
+        close:
+          day: 3
+          hour: 22
+          minute: 0
+      - open:
+          day: 4
+          hour: 10
+          minute: 0
+        close:
+          day: 4
+          hour: 15
+          minute: 0
+      - open:
+          day: 4
+          hour: 17
+          minute: 0
+        close:
+          day: 4
+          hour: 22
+          minute: 0
+      - open:
+          day: 5
+          hour: 10
+          minute: 0
+        close:
+          day: 5
+          hour: 15
+          minute: 0
+      - open:
+          day: 5
+          hour: 17
+          minute: 0
+        close:
+          day: 5
+          hour: 23
+          minute: 0
+      - open:
+          day: 6
+          hour: 12
+          minute: 0
+        close:
+          day: 6
+          hour: 23
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 10:00 AM – 3:00 PM, 5:00 – 10:00 PM'
+      - 'Tuesday: Closed'
+      - 'Wednesday: 10:00 AM – 3:00 PM, 5:00 – 10:00 PM'
+      - 'Thursday: 10:00 AM – 3:00 PM, 5:00 – 10:00 PM'
+      - 'Friday: 10:00 AM – 3:00 PM, 5:00 – 11:00 PM'
+      - 'Saturday: 12:00 – 11:00 PM'
+      - 'Sunday: 12:00 – 9:00 PM'
+    secondaryHoursType: DELIVERY
+    nextCloseTime: '2025-05-04T04:00:00Z'
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 0
+        close:
+          day: 0
+          hour: 21
+          minute: 0
+      - open:
+          day: 1
+          hour: 10
+          minute: 0
+        close:
+          day: 1
+          hour: 15
+          minute: 0
+      - open:
+          day: 1
+          hour: 17
+          minute: 0
+        close:
+          day: 1
+          hour: 22
+          minute: 0
+      - open:
+          day: 3
+          hour: 10
+          minute: 0
+        close:
+          day: 3
+          hour: 15
+          minute: 0
+      - open:
+          day: 3
+          hour: 17
+          minute: 0
+        close:
+          day: 3
+          hour: 22
+          minute: 0
+      - open:
+          day: 4
+          hour: 10
+          minute: 0
+        close:
+          day: 4
+          hour: 15
+          minute: 0
+      - open:
+          day: 4
+          hour: 17
+          minute: 0
+        close:
+          day: 4
+          hour: 22
+          minute: 0
+      - open:
+          day: 5
+          hour: 10
+          minute: 0
+        close:
+          day: 5
+          hour: 15
+          minute: 0
+      - open:
+          day: 5
+          hour: 17
+          minute: 0
+        close:
+          day: 5
+          hour: 23
+          minute: 0
+      - open:
+          day: 6
+          hour: 12
+          minute: 0
+        close:
+          day: 6
+          hour: 23
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 10:00 AM – 3:00 PM, 5:00 – 10:00 PM'
+      - 'Tuesday: Closed'
+      - 'Wednesday: 10:00 AM – 3:00 PM, 5:00 – 10:00 PM'
+      - 'Thursday: 10:00 AM – 3:00 PM, 5:00 – 10:00 PM'
+      - 'Friday: 10:00 AM – 3:00 PM, 5:00 – 11:00 PM'
+      - 'Saturday: 12:00 – 11:00 PM'
+      - 'Sunday: 12:00 – 9:00 PM'
+    secondaryHoursType: TAKEOUT
+    nextCloseTime: '2025-05-04T04:00:00Z'
 phone: (715) 598-7088
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.3'
-rating_count: 0
+rating_count: 904
 website: https://ninjabarstow.com/?utm_source=google
+description: >-
+  Discover Ninja Japanese and Chinese Restaurant in Eau Claire, WI$$$Ninja
+  Japanese and Chinese Restaurant in Eau Claire, WI, stands out as a welcoming
+  spot for fresh Asian-inspired dishes, blending casual vibes with a variety of
+  sushi options and hibachi favorites. This eatery delights visitors with its
+  range of flavorful Chinese fare, creative sushi rolls, and special happy hour
+  deals that add to the relaxed atmosphere. Accessibility features like
+  wheelchair-friendly parking and seating make it an inclusive choice for
+  everyone, while the moderate pricing ensures a satisfying meal without
+  breaking the bank. With its operational hours catering to both lunch and
+  dinner crowds, it's a go-to destination for those seeking top-rated Japanese
+  and Chinese cuisine nearby.
+generative_summary: >-
+  Discover Ninja Japanese and Chinese Restaurant in Eau Claire, WI$$$Ninja
+  Japanese and Chinese Restaurant in Eau Claire, WI, stands out as a welcoming
+  spot for fresh Asian-inspired dishes, blending casual vibes with a variety of
+  sushi options and hibachi favorites. This eatery delights visitors with its
+  range of flavorful Chinese fare, creative sushi rolls, and special happy hour
+  deals that add to the relaxed atmosphere. Accessibility features like
+  wheelchair-friendly parking and seating make it an inclusive choice for
+  everyone, while the moderate pricing ensures a satisfying meal without
+  breaking the bank. With its operational hours catering to both lunch and
+  dinner crowds, it's a go-to destination for those seeking top-rated Japanese
+  and Chinese cuisine nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback on This Local Favorite$$$Folks often rave about the tasty
+  sushi and other standout dishes like hearty soups and flavorful chicken
+  options at this spot, making it a solid pick for anyone craving authentic
+  Asian flavors close to home. Many highlight the creative presentation of meals
+  and the generous portions that leave you feeling fully satisfied without
+  emptying your wallet. Service is generally described as friendly and
+  efficient, though some note there could be slight improvements for a smoother
+  experience overall. Despite minor hiccups, the overall vibe keeps things
+  positive, with reasonable prices and a welcoming environment earning high
+  marks from diners. If you're on the hunt for reliable sushi places near you,
+  this location delivers a consistently enjoyable meal that keeps customers
+  coming back.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +515,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

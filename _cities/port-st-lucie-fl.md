@@ -5,4 +5,5 @@ permalink: /florida/port-st-lucie/
 stateAbbr: FL
 stateName: Florida
 cityName: Port St. Lucie
+
 ---

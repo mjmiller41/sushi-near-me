@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Rolls N Bowls"
+title: Rolls N Bowls
 permalink: /illinois/chicago/rolls-n-bowls.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
 seo:
-  name: "Rolls N Bowls"
-  type: Restaurant
+  type: restaurant
   links: http://rollsnbowlschicago.com/
-description: "Snug restaurant serving sushi & traditional Japanese mains such as yakisoba & bento boxes. Rolls N Bowls serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJA6L5oBrSD4gRlOqsMYbT3vo
 photos:
   - name: >-
@@ -184,6 +182,33 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 0
 website: http://rollsnbowlschicago.com/
+description: >-
+  Discover Rolls N Bowls in Chicago, IL$$$Rolls N Bowls in Chicago, IL, stands
+  out as a welcoming spot for enjoying authentic Japanese flavors, featuring
+  fresh sushi and tempura in a cozy setting that invites relaxation. This sushi
+  restaurant near you offers a variety of traditional dishes like bento boxes
+  and yakisoba, all prepared with care to highlight quality ingredients and
+  balanced tastes. Visitors appreciate the accessible vibe, including
+  wheelchair-friendly entrances and seating, making it easy for everyone to
+  savor the experience. The menu caters to a range of preferences, from hearty
+  mains to lighter options, ensuring a satisfying meal in a
+  neighborhood-friendly atmosphere. Whether you're searching for top-rated sushi
+  places near me, this location delivers on both taste and convenience in the
+  heart of Lincoln Square.
+generative_summary: >-
+  Discover Rolls N Bowls in Chicago, IL$$$Rolls N Bowls in Chicago, IL, stands
+  out as a welcoming spot for enjoying authentic Japanese flavors, featuring
+  fresh sushi and tempura in a cozy setting that invites relaxation. This sushi
+  restaurant near you offers a variety of traditional dishes like bento boxes
+  and yakisoba, all prepared with care to highlight quality ingredients and
+  balanced tastes. Visitors appreciate the accessible vibe, including
+  wheelchair-friendly entrances and seating, making it easy for everyone to
+  savor the experience. The menu caters to a range of preferences, from hearty
+  mains to lighter options, ensuring a satisfying meal in a
+  neighborhood-friendly atmosphere. Whether you're searching for top-rated sushi
+  places near me, this location delivers on both taste and convenience in the
+  heart of Lincoln Square.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJA6L5oBrSD4gRlOqsMYbT3vo/reviews/ChdDSUhNMG9nS0VJQ0FnSUN2MGN5WXlRRRAB
@@ -413,6 +438,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChRDSUhNMG9nS0VJQ0FnSURfaVlGNBAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChRDSUhNMG9nS0VJQ0FnSURfaVlGNBAB!2m1!1s0x880fd21aa0f9a203:0xfaded38631acea94
+review_summary: >-
+  What Customers Are Saying About This Spot$$$Folks rave about the delicious
+  sushi and other Japanese favorites at this cozy eatery, often noting the
+  generous portions and spot-on flavors that make every bite worthwhile. Many
+  highlight the friendly service and quick turnaround, creating a relaxed vibe
+  that's perfect for casual dinners or groups. While most agree the atmosphere
+  and affordability add to the appeal, a few mention that some dishes didn't
+  quite hit the mark, though overall experiences lean positive. It's clear that
+  diners enjoy the hearty options like ramen and rolls, with plenty of praise
+  for the welcoming staff and reasonable prices. If you're on the hunt for
+  reliable sushi restaurants in Chicago, this place generally delivers a solid,
+  enjoyable meal that keeps people coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   valetParking: false
 payment_options:
@@ -443,8 +481,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Snug restaurant serving sushi & traditional Japanese mains such as yakisoba &
   bento boxes.
 

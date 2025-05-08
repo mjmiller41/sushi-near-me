@@ -1,15 +1,14 @@
 ---
 layout: place
-title: "Sake House II"
+title: Sake House II
 permalink: /florida/panama-city-beach/sake-house-ii.html
 stateAbbr: FL
 stateName: Florida
 cityName: Panama City Beach
 seo:
-  name: "Sake House II"
-  type: Restaurant
-  links: https://www.smorefood.com/order-online/sake-house-ii-panama-city-beach-32408-h28yoht0?utm_source=gmb&utm_medium=website
-description: "Sake House II serves delicious sushi in Panama City Beach, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
+  type: restaurant
+  links: >-
+    https://www.smorefood.com/order-online/sake-house-ii-panama-city-beach-32408-h28yoht0?utm_source=gmb&utm_medium=website
 place_id: ChIJSU0SQASGk4gR_5XM4nbqlK8
 photos:
   - name: >-
@@ -186,6 +185,29 @@ rating: '4.3'
 rating_count: 0
 website: >-
   https://www.smorefood.com/order-online/sake-house-ii-panama-city-beach-32408-h28yoht0?utm_source=gmb&utm_medium=website
+description: >-
+  Explore Sake House II in Panama City Beach, FL$$$Sake House II in Panama City
+  Beach, FL, stands out as a cozy Japanese restaurant offering a blend of fresh
+  flavors and inviting ambiance that draws in locals and visitors alike. The
+  menu features delectable sushi options alongside classic dishes like tempura
+  and dumplings, all prepared with authentic tastes that provide great value for
+  a satisfying meal. Accessibility features such as wheelchair-friendly parking
+  and entrances make it a convenient spot for everyone, enhancing the overall
+  dining experience. Whether you're grabbing takeout or enjoying a relaxed
+  sit-down, this eatery captures the essence of quality Japanese cuisine in a
+  welcoming environment, perfect for those seeking top-rated sushi spots nearby.
+generative_summary: >-
+  Explore Sake House II in Panama City Beach, FL$$$Sake House II in Panama City
+  Beach, FL, stands out as a cozy Japanese restaurant offering a blend of fresh
+  flavors and inviting ambiance that draws in locals and visitors alike. The
+  menu features delectable sushi options alongside classic dishes like tempura
+  and dumplings, all prepared with authentic tastes that provide great value for
+  a satisfying meal. Accessibility features such as wheelchair-friendly parking
+  and entrances make it a convenient spot for everyone, enhancing the overall
+  dining experience. Whether you're grabbing takeout or enjoying a relaxed
+  sit-down, this eatery captures the essence of quality Japanese cuisine in a
+  welcoming environment, perfect for those seeking top-rated sushi spots nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJSU0SQASGk4gR_5XM4nbqlK8/reviews/ChZDSUhNMG9nS0VJQ0FnTUNnMjhMMEZBEAE
@@ -385,6 +407,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUM0eWFlVmRREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUM0eWFlVmRREAE!2m1!1s0x8893860440124d49:0xaf94ea76e2cc95ff
+review_summary: >-
+  Insights from Guest Feedback$$$Visitors to this Japanese eatery often
+  highlight the fresh and flavorful sushi rolls as a standout feature, making it
+  a go-to choice for anyone craving authentic tastes in a casual setting. Many
+  appreciate the friendly service and reasonable prices, which contribute to a
+  comfortable atmosphere ideal for family outings or quick meals. While most
+  experiences are positive, a few mentions of occasional issues with takeout
+  orders remind us that consistency can vary, but overall, the vibe remains
+  enjoyable. If you're exploring sushi restaurants near you, this spot earns
+  praise for its solid offerings and welcoming feel, encouraging repeat visits
+  for those who love quality Japanese fare. In summary, it's a reliable option
+  that balances tasty dishes with good service, keeping things light and
+  satisfying for diners in the area.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -418,7 +454,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

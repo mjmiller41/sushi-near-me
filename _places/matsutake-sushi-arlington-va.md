@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Matsutake Sushi"
+title: Matsutake Sushi
 permalink: /virginia/arlington/matsutake-sushi.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Arlington
 seo:
-  name: "Matsutake Sushi"
-  type: Restaurant
-  links: null
-description: "Matsutake Sushi serves delicious sushi in Arlington, Virginia. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.flyreagan.com/store/matsutake-sushi
 place_id: ChIJFZy6PdOwt4kRhTqnMRa0Enc
 photos:
   - name: >-
@@ -146,7 +144,7 @@ address: >-
   Reagan National Airport National Hall, 2401 Ronald Reagan Washington National
   Airport Access Rd, Arlington, VA 22202, USA
 street: >-
-  Reagan National Airport National Hall, 2401 Ronald Reagan Washington National
+  Reagan National Airport National Hall,2401 Ronald Reagan Washington National
   Airport Access Rd
 city: Arlington
 state: VA
@@ -174,8 +172,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89b7b0d33dba9c15:0x7712b41631a73a85!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 10
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 10
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 10
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 10
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 10
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 10
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 10
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 10:30 AM – 9:00 PM'
+    - 'Tuesday: 10:30 AM – 9:00 PM'
+    - 'Wednesday: 10:30 AM – 9:00 PM'
+    - 'Thursday: 10:30 AM – 9:00 PM'
+    - 'Friday: 10:30 AM – 9:00 PM'
+    - 'Saturday: 10:30 AM – 9:00 PM'
+    - 'Sunday: 10:30 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T01:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -183,13 +246,49 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (703) 417-0521
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '3.8'
+rating_count: 184
+website: https://www.flyreagan.com/store/matsutake-sushi
+description: >-
+  Discover Matsutake Sushi in Arlington, VA$$$Matsutake Sushi in Arlington,
+  Virginia, offers a relaxed dining experience right at Ronald Reagan Washington
+  National Airport, perfect for travelers seeking fresh Japanese-inspired meals.
+  This spot specializes in a variety of sushi options and other Asian favorites,
+  complemented by a selection of wine and beer to enhance your meal. With its
+  convenient location and accessibility features, it's an ideal choice for those
+  exploring sushi restaurants nearby, providing a quick yet satisfying break
+  from airport hustle. The moderate pricing and extended hours make it easy to
+  enjoy authentic flavors without straying far from your gate, appealing to
+  anyone hunting for top-rated sushi in the area.
+generative_summary: >-
+  Discover Matsutake Sushi in Arlington, VA$$$Matsutake Sushi in Arlington,
+  Virginia, offers a relaxed dining experience right at Ronald Reagan Washington
+  National Airport, perfect for travelers seeking fresh Japanese-inspired meals.
+  This spot specializes in a variety of sushi options and other Asian favorites,
+  complemented by a selection of wine and beer to enhance your meal. With its
+  convenient location and accessibility features, it's an ideal choice for those
+  exploring sushi restaurants nearby, providing a quick yet satisfying break
+  from airport hustle. The moderate pricing and extended hours make it easy to
+  enjoy authentic flavors without straying far from your gate, appealing to
+  anyone hunting for top-rated sushi in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Visitor Feedback Highlights$$$Visitors often praise Matsutake Sushi for its
+  fresh rolls and efficient service, making it a go-to option for airport stops
+  that hit the spot. While the overall vibe earns solid marks with a rating
+  around 3.8, some folks note that portions could be more generous, though the
+  flavors generally keep things enjoyable. It's frequently mentioned as a
+  reliable pick for casual bites, especially if you're in the mood for
+  Japanese-inspired dishes on the fly. Overall, the consensus leans positive,
+  with many appreciating the convenience and variety, though a few suggest it
+  shines brightest for quick visits rather than elaborate meals. If you're
+  looking for sushi places near you, this spot delivers a straightforward and
+  mostly satisfying experience worth considering.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -215,7 +314,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

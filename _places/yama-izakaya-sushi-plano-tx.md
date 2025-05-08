@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yama Izakaya & Sushi"
+title: Yama Izakaya & Sushi
 permalink: /texas/plano/yama-izakaya-sushi.html
 stateAbbr: TX
 stateName: Texas
 cityName: Plano
 seo:
-  name: "Yama Izakaya & Sushi"
-  type: Restaurant
-  links: null
-description: "Yama Izakaya & Sushi serves delicious sushi in Plano, Texas. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.yamadallas.com/
 place_id: ChIJEb5HlsI8TIYRHhA6unltrZE
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x864c3cc29647be11:0x91ad6d79ba3a101e!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 17
+        minute: 30
+      close:
+        day: 0
+        hour: 22
+        minute: 30
+    - open:
+        day: 1
+        hour: 17
+        minute: 30
+      close:
+        day: 2
+        hour: 2
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 30
+      close:
+        day: 3
+        hour: 2
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 30
+      close:
+        day: 4
+        hour: 2
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 30
+      close:
+        day: 5
+        hour: 2
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 30
+      close:
+        day: 6
+        hour: 2
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 30
+      close:
+        day: 0
+        hour: 2
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 5:30 PM – 2:00 AM'
+    - 'Tuesday: 5:30 PM – 2:00 AM'
+    - 'Wednesday: 5:30 PM – 2:00 AM'
+    - 'Thursday: 5:30 PM – 2:00 AM'
+    - 'Friday: 5:30 PM – 2:00 AM'
+    - 'Saturday: 5:30 PM – 2:00 AM'
+    - 'Sunday: 5:30 – 10:30 PM'
+  nextOpenTime: '2025-05-03T22:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,53 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
+phone: (214) 618-8379
+price_level: PRICE_LEVEL_MODERATE
 price_range: null
-rating: null
-rating_count: 0
-website: null
+rating: '4.5'
+rating_count: 1140
+website: https://www.yamadallas.com/
+description: >-
+  Explore Yama Izakaya & Sushi in Plano, TX$$$Yama Izakaya & Sushi in Plano, TX,
+  stands out as a welcoming Japanese spot ideal for those seeking fresh sushi
+  and authentic flavors in a vibrant setting. This restaurant features a diverse
+  menu with highlights like expertly crafted sushi rolls, hearty ramen, and
+  satisfying bento options, all paired with a selection of sake to enhance the
+  experience. Located in a convenient shopping area, it offers accessible
+  features such as wheelchair-friendly entrances and parking, making it easy for
+  everyone to enjoy a casual meal. The atmosphere combines modern vibes with
+  traditional elements, creating a relaxed environment perfect for sushi
+  enthusiasts looking for top-rated options nearby. Evening hours extend late
+  into the night, providing a great choice for dinner outings or spontaneous
+  visits to sample Japanese-inspired dishes.
+generative_summary: >-
+  Explore Yama Izakaya & Sushi in Plano, TX$$$Yama Izakaya & Sushi in Plano, TX,
+  stands out as a welcoming Japanese spot ideal for those seeking fresh sushi
+  and authentic flavors in a vibrant setting. This restaurant features a diverse
+  menu with highlights like expertly crafted sushi rolls, hearty ramen, and
+  satisfying bento options, all paired with a selection of sake to enhance the
+  experience. Located in a convenient shopping area, it offers accessible
+  features such as wheelchair-friendly entrances and parking, making it easy for
+  everyone to enjoy a casual meal. The atmosphere combines modern vibes with
+  traditional elements, creating a relaxed environment perfect for sushi
+  enthusiasts looking for top-rated options nearby. Evening hours extend late
+  into the night, providing a great choice for dinner outings or spontaneous
+  visits to sample Japanese-inspired dishes.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Buzzing About$$$Folks who visit Yama Izakaya & Sushi often
+  rave about the consistently fresh and creative sushi selections that keep
+  things exciting and delicious. Many appreciate the solid portions and
+  flavorful twists on classic Japanese dishes, making it a reliable pick for
+  groups or solo diners hunting for quality meals. With its high ratings, it's
+  clear that the service tends to be friendly and attentive, helping to create a
+  comfortable vibe that encourages repeat visits. Overall, the spot gets praise
+  for delivering good value without skimping on taste, though some note that
+  wait times can vary during busy evenings. If you're on the hunt for tasty
+  sushi places near you, this location seems to hit the mark for a satisfying
+  and enjoyable dining experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +314,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

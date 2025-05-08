@@ -5,4 +5,5 @@ permalink: /pennsylvania/mechanicsburg/
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Mechanicsburg
+
 ---

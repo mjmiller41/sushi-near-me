@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Domodachi Sushi"
+title: Domodachi Sushi
 permalink: /new-jersey/rutherford/domodachi-sushi.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Rutherford
 seo:
-  name: "Domodachi Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://domodachisushi.smartonlineorder.com/
-description: "Domodachi Sushi serves delicious sushi in Rutherford, New Jersey. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJPaag30v5wokRJVXbO8T9vUU
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $20 &ndash; $30
 rating: '4.7'
 rating_count: 0
 website: https://domodachisushi.smartonlineorder.com/
+description: >-
+  Discover Domodachi Sushi in Rutherford, NJ$$$Domodachi Sushi in Rutherford,
+  NJ, stands out as a welcoming sushi restaurant offering fresh and flavorful
+  Japanese-inspired dishes that highlight the art of traditional preparation.
+  This spot features a variety of rolls and appetizers made with high-quality
+  ingredients, making it a go-to choice for anyone seeking authentic flavors in
+  a comfortable setting. Accessibility is a key highlight, with options like
+  wheelchair-friendly entrances and seating that ensure everyone can enjoy the
+  experience. The menu caters to a range of preferences, including vegetarian
+  options and family-friendly choices, while maintaining reasonable prices for a
+  satisfying meal. Whether you're looking for a casual dine-in or convenient
+  takeout, this sushi place near Rutherford delivers a blend of taste and
+  convenience that keeps locals coming back.
+generative_summary: >-
+  Discover Domodachi Sushi in Rutherford, NJ$$$Domodachi Sushi in Rutherford,
+  NJ, stands out as a welcoming sushi restaurant offering fresh and flavorful
+  Japanese-inspired dishes that highlight the art of traditional preparation.
+  This spot features a variety of rolls and appetizers made with high-quality
+  ingredients, making it a go-to choice for anyone seeking authentic flavors in
+  a comfortable setting. Accessibility is a key highlight, with options like
+  wheelchair-friendly entrances and seating that ensure everyone can enjoy the
+  experience. The menu caters to a range of preferences, including vegetarian
+  options and family-friendly choices, while maintaining reasonable prices for a
+  satisfying meal. Whether you're looking for a casual dine-in or convenient
+  takeout, this sushi place near Rutherford delivers a blend of taste and
+  convenience that keeps locals coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJPaag30v5wokRJVXbO8T9vUU/reviews/ChdDSUhNMG9nS0VJQ0FnTURRMzhheGdRRRAB
@@ -320,6 +345,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURMbXZqcDBRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURMbXZqcDBRRRAB!2m1!1s0x89c2f94bdfa0a63d:0x45bdfdc43bdb5525
+review_summary: >-
+  What Customers Are Buzzing About$$$Visitors to this sushi spot often rave
+  about the incredibly fresh rolls and tasty combinations that make every bite
+  feel like a treat, with many highlighting the great value for the price. Folks
+  appreciate the friendly and attentive service that adds a warm touch to the
+  overall vibe, helping to create a relaxed atmosphere for both quick lunches
+  and evening outings. While most experiences are glowing, some note that
+  certain dishes bring just the right level of spice and abundance, making it a
+  solid pick for groups or families. Overall, the consensus leans positive, with
+  diners frequently mentioning how the quality stands out in the area,
+  encouraging repeat visits for those exploring nearby Japanese options. If
+  you're on the hunt for reliable sushi spots around town, this one delivers a
+  consistently enjoyable experience without any major letdowns.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
 payment_options:
@@ -350,7 +389,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

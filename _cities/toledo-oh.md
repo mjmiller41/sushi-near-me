@@ -5,4 +5,5 @@ permalink: /ohio/toledo/
 stateAbbr: OH
 stateName: Ohio
 cityName: Toledo
+
 ---

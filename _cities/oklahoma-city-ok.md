@@ -5,4 +5,5 @@ permalink: /oklahoma/oklahoma-city/
 stateAbbr: OK
 stateName: Oklahoma
 cityName: Oklahoma City
+
 ---

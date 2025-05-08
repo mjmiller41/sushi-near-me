@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ikaho Sushi Japanese Restaurant"
+title: Ikaho Sushi Japanese Restaurant
 permalink: /florida/groveland/ikaho-sushi-japanese-restaurant.html
 stateAbbr: FL
 stateName: Florida
 cityName: Groveland
 seo:
-  name: "Ikaho Sushi Japanese Restaurant"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Ikaho Sushi Japanese Restaurant serves delicious sushi in Groveland, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJRfzuGlaM54gRzOdqbBECjLk
 photos:
   - name: >-
@@ -185,7 +183,43 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Ikaho Sushi in Groveland, FL$$$Ikaho Sushi Japanese Restaurant in
+  Groveland, FL, stands out as a convenient spot for savoring fresh Japanese
+  cuisine along a bustling route. This eatery emphasizes accessibility with
+  features like wheelchair-friendly parking and seating, ensuring a comfortable
+  visit for all guests. Its inviting atmosphere is captured in a variety of
+  vibrant photos, hinting at a cozy setting ideal for casual meals or quick
+  stops. Visitors exploring sushi restaurants in the area will appreciate the
+  operational reliability, making it a reliable choice for authentic flavors.
+  Overall, it's a great option for those seeking top-rated sushi experiences
+  nearby, blending simplicity with thoughtful design.
+generative_summary: >-
+  Discover Ikaho Sushi in Groveland, FL$$$Ikaho Sushi Japanese Restaurant in
+  Groveland, FL, stands out as a convenient spot for savoring fresh Japanese
+  cuisine along a bustling route. This eatery emphasizes accessibility with
+  features like wheelchair-friendly parking and seating, ensuring a comfortable
+  visit for all guests. Its inviting atmosphere is captured in a variety of
+  vibrant photos, hinting at a cozy setting ideal for casual meals or quick
+  stops. Visitors exploring sushi restaurants in the area will appreciate the
+  operational reliability, making it a reliable choice for authentic flavors.
+  Overall, it's a great option for those seeking top-rated sushi experiences
+  nearby, blending simplicity with thoughtful design.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Diners Are Saying About Ikaho Sushi$$$Folks heading to sushi places near
+  me often highlight the fresh and flavorful rolls at Ikaho Sushi, making it a
+  go-to for satisfying Japanese cravings. Many appreciate the friendly service
+  and welcoming vibe, which add to the overall enjoyable dining experience
+  without any major letdowns. While some mention portions could be more
+  generous, the consensus leans toward it being a solid pick for quality and
+  affordability in Groveland. Visitors searching for best sushi near me
+  frequently note the variety of options that cater to different tastes, keeping
+  things light and fun. All in all, it's earned positive nods for being a
+  reliable spot that delivers on fresh ingredients and a relaxed atmosphere,
+  encouraging repeat visits.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +245,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

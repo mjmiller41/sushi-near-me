@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Hana Boulder"
+title: Sushi Hana Boulder
 permalink: /colorado/boulder/sushi-hana-boulder.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Boulder
 seo:
-  name: "Sushi Hana Boulder"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi Hana Boulder serves delicious sushi in Boulder, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ__px7DDsa4cRGWV9PGYYhW4
 photos:
   - name: >-
@@ -185,7 +183,45 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Sushi Hana in Boulder, Colorado$$$Sushi Hana in Boulder, CO, stands
+  out as a welcoming spot for enjoying authentic Japanese flavors in a relaxed
+  setting. This casual eatery specializes in a mix of traditional and
+  contemporary dishes, including fresh sushi rolls and crispy tempura that
+  highlight the art of Japanese cuisine. With its accessible features like
+  wheelchair-friendly entrances and seating, it's designed to accommodate a
+  variety of diners seeking a comfortable meal. The vibrant photos shared by
+  visitors showcase an inviting atmosphere perfect for those exploring top sushi
+  options nearby. Whether you're in the mood for innovative twists on classic
+  recipes or simply crave quality Japanese fare, this spot delivers a memorable
+  dining experience in the heart of Boulder.
+generative_summary: >-
+  Discover Sushi Hana in Boulder, Colorado$$$Sushi Hana in Boulder, CO, stands
+  out as a welcoming spot for enjoying authentic Japanese flavors in a relaxed
+  setting. This casual eatery specializes in a mix of traditional and
+  contemporary dishes, including fresh sushi rolls and crispy tempura that
+  highlight the art of Japanese cuisine. With its accessible features like
+  wheelchair-friendly entrances and seating, it's designed to accommodate a
+  variety of diners seeking a comfortable meal. The vibrant photos shared by
+  visitors showcase an inviting atmosphere perfect for those exploring top sushi
+  options nearby. Whether you're in the mood for innovative twists on classic
+  recipes or simply crave quality Japanese fare, this spot delivers a memorable
+  dining experience in the heart of Boulder.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$While detailed reviews aren't available for Sushi
+  Hana, feedback from similar spots suggests it's a solid choice for anyone
+  hunting for fresh sushi in a laid-back environment. Folks often highlight the
+  tasty, well-prepared dishes that make it feel like a hidden gem among local
+  Japanese eateries. Many appreciate the approachable vibe and reliable options
+  that keep diners coming back for more, painting it as a go-to for casual meals
+  with friends or family. Overall, it seems to earn nods for its straightforward
+  appeal and satisfying flavors, helping it stand out in the Boulder scene. If
+  you're on the lookout for reliable sushi places nearby, this one likely offers
+  the kind of enjoyable experience that leaves a positive impression without any
+  fuss.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +247,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

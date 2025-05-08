@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Crystal Fish"
+title: Crystal Fish
 permalink: /california/monterey/crystal-fish.html
 stateAbbr: CA
 stateName: California
 cityName: Monterey
 seo:
-  name: "Crystal Fish"
-  type: Restaurant
+  type: restaurant
   links: https://www.crystalfish-monterey.com/
-description: "Storefront sushi spot offers Japanese favorites, in addition to wine, beer, sake & lunch specials. Crystal Fish serves delicious sushi in Monterey, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJLSqwjwLkjYARHAVS3BL45wY
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: null
 rating: '4.5'
 rating_count: 0
 website: https://www.crystalfish-monterey.com/
+description: >-
+  Discover Crystal Fish in Monterey, CA$$$Nestled in the heart of Monterey, CA,
+  Crystal Fish stands out as a welcoming sushi restaurant offering a blend of
+  authentic Japanese flavors and fresh seafood options. This cozy spot features
+  an array of sushi rolls and Japanese favorites, complemented by selections of
+  wine, beer, and sake, making it a great choice for casual meals or special
+  occasions. With thoughtful accessibility features and a focus on quality
+  ingredients, it provides a comfortable setting for enjoying inventive dishes
+  and lunch specials that highlight the best of coastal cuisine. Visitors can
+  expect generous portions and a variety of vegetarian choices, adding to its
+  appeal as a go-to destination for sushi enthusiasts exploring the area.
+generative_summary: >-
+  Discover Crystal Fish in Monterey, CA$$$Nestled in the heart of Monterey, CA,
+  Crystal Fish stands out as a welcoming sushi restaurant offering a blend of
+  authentic Japanese flavors and fresh seafood options. This cozy spot features
+  an array of sushi rolls and Japanese favorites, complemented by selections of
+  wine, beer, and sake, making it a great choice for casual meals or special
+  occasions. With thoughtful accessibility features and a focus on quality
+  ingredients, it provides a comfortable setting for enjoying inventive dishes
+  and lunch specials that highlight the best of coastal cuisine. Visitors can
+  expect generous portions and a variety of vegetarian choices, adding to its
+  appeal as a go-to destination for sushi enthusiasts exploring the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJLSqwjwLkjYARHAVS3BL45wY/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3ejdUMU1nEAE
@@ -368,6 +389,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURQLTUtXzlBRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURQLTUtXzlBRRAB!2m1!1s0x808de4028fb02a2d:0x6e7f812dc52051c
+review_summary: >-
+  What People Are Saying About This Sushi Spot$$$Folks often rave about the
+  fresh and creative sushi options here, with many highlighting the delicious
+  rolls and nigiri that bring a burst of flavor to every bite. While some
+  visitors appreciate the reasonable prices and generous servings that make it
+  feel like a solid value, others note that service can vary, with occasional
+  mix-ups that don't always hit the mark. Overall, the standout appetizers and
+  unique twists on classics keep things exciting, though a few have mentioned
+  inconsistencies in taste that might depend on the day. Despite these mixed
+  experiences, it's clear that this place draws in sushi lovers for its
+  welcoming vibe and tasty seafood, making it worth a try if you're in the mood
+  for something reliable yet adventurous.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeStreetParking: true
   paidStreetParking: true
@@ -400,8 +434,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Storefront sushi spot offers Japanese favorites, in addition to wine, beer,
   sake & lunch specials.
 

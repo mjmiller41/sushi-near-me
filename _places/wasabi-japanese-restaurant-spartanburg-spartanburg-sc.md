@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Wasabi Japanese Restaurant (Spartanburg)"
+title: Wasabi Japanese Restaurant (Spartanburg)
 permalink: /south-carolina/spartanburg/wasabi-japanese-restaurant-spartanburg.html
 stateAbbr: SC
 stateName: South Carolina
 cityName: Spartanburg
 seo:
-  name: "Wasabi Japanese Restaurant (Spartanburg)"
-  type: Restaurant
+  type: restaurant
   links: https://wasabispartanburg.wixsite.com/menu
-description: "Wasabi Japanese Restaurant (Spartanburg) serves delicious sushi in Spartanburg, South Carolina. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ3R-Ns8CdV4gRz59awV7YvSE
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x88579dc0b38d1fdd:0x21bdd85ec15a9fcf!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 5:00 – 9:00 PM'
     - 'Wednesday: 5:00 – 9:00 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
     - 'Saturday: 5:00 – 9:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 5:00 – 9:00 PM'
-    - 'Wednesday: 5:00 – 9:00 PM'
-    - 'Thursday: 5:00 – 9:00 PM'
-    - 'Friday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
-    - 'Saturday: 5:00 – 9:00 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T01:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +238,44 @@ phone: (864) 576-8998
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.6'
-rating_count: 0
+rating_count: 429
 website: https://wasabispartanburg.wixsite.com/menu
+description: >-
+  About Wasabi Japanese Restaurant in Spartanburg, SC$$$Wasabi Japanese
+  Restaurant in Spartanburg, SC, provides a relaxed and inviting atmosphere for
+  savoring authentic Japanese flavors right in your local area. This spot
+  focuses on fresh sushi and hibachi dishes, offering a diverse menu that
+  includes creative rolls and grilled specialties to delight any sushi
+  enthusiast. With options for beer, wine, and sake, it's an ideal place for
+  casual meals or unwinding after a day out. The restaurant's accessibility
+  features make it welcoming for all diners, enhancing the overall experience.
+  For those searching for quality Japanese cuisine nearby, it stands out as a
+  reliable choice in the heart of the community.
+generative_summary: >-
+  About Wasabi Japanese Restaurant in Spartanburg, SC$$$Wasabi Japanese
+  Restaurant in Spartanburg, SC, provides a relaxed and inviting atmosphere for
+  savoring authentic Japanese flavors right in your local area. This spot
+  focuses on fresh sushi and hibachi dishes, offering a diverse menu that
+  includes creative rolls and grilled specialties to delight any sushi
+  enthusiast. With options for beer, wine, and sake, it's an ideal place for
+  casual meals or unwinding after a day out. The restaurant's accessibility
+  features make it welcoming for all diners, enhancing the overall experience.
+  For those searching for quality Japanese cuisine nearby, it stands out as a
+  reliable choice in the heart of the community.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Diners Are Buzzing About$$$Visitors often rave about the tasty sushi
+  selections here, with popular choices like classic and inventive rolls
+  delivering fresh, flavorful bites that hit the spot. Folks appreciate the
+  creative twists on dishes, such as lightly seared beef options, which add an
+  exciting variety to the menu without overwhelming the palate. The laid-back
+  vibe gets high marks for its friendly service and welcoming feel, making every
+  meal feel comfortable and enjoyable. Overall, it's clear that the spot
+  maintains a solid reputation for reliable Japanese fare that keeps people
+  coming back. If you're on the hunt for a go-to sushi place, this one earns
+  praise for its consistent quality and approachable charm.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +301,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

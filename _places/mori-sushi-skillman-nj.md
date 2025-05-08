@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Mori Sushi"
+title: Mori Sushi
 permalink: /new-jersey/skillman/mori-sushi.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Skillman
 seo:
-  name: "Mori Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.morisushinj.com/
-description: "Mori Sushi serves delicious sushi in Skillman, New Jersey. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJh7vrsCjmw4kRsTn65bjz9Bk
 photos:
   - name: >-
@@ -185,6 +183,35 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 0
 website: http://www.morisushinj.com/
+description: >-
+  Discover Mori Sushi in Skillman, NJ$$$Mori Sushi in Skillman, NJ, stands out
+  as an unpretentious Japanese eatery offering an all-you-can-eat experience for
+  lunch and dinner, making it a go-to spot for fresh sushi options in the area.
+  The restaurant features a variety of traditional dishes, including expertly
+  prepared rolls and sashimi that highlight quality ingredients and authentic
+  flavors, appealing to those seeking top-rated sushi near Skillman. With its
+  convenient location and accessible features like wheelchair-friendly parking
+  and entrances, it caters to a wide range of diners looking for Japanese places
+  near me that prioritize comfort and value. The moderate pricing adds to its
+  appeal for casual meals, while options like takeout and delivery make it easy
+  to enjoy flavorful bites without leaving home. Overall, this sushi restaurant
+  delivers a straightforward yet satisfying dining experience for anyone
+  exploring local eateries.
+generative_summary: >-
+  Discover Mori Sushi in Skillman, NJ$$$Mori Sushi in Skillman, NJ, stands out
+  as an unpretentious Japanese eatery offering an all-you-can-eat experience for
+  lunch and dinner, making it a go-to spot for fresh sushi options in the area.
+  The restaurant features a variety of traditional dishes, including expertly
+  prepared rolls and sashimi that highlight quality ingredients and authentic
+  flavors, appealing to those seeking top-rated sushi near Skillman. With its
+  convenient location and accessible features like wheelchair-friendly parking
+  and entrances, it caters to a wide range of diners looking for Japanese places
+  near me that prioritize comfort and value. The moderate pricing adds to its
+  appeal for casual meals, while options like takeout and delivery make it easy
+  to enjoy flavorful bites without leaving home. Overall, this sushi restaurant
+  delivers a straightforward yet satisfying dining experience for anyone
+  exploring local eateries.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJh7vrsCjmw4kRsTn65bjz9Bk/reviews/ChZDSUhNMG9nS0VJQ0FnSUNfMGRTZFJ3EAE
@@ -378,6 +405,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURnc1p6ZmVREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURnc1p6ZmVREAE!2m1!1s0x89c3e628b0ebbb87:0x19f4f3b8e5fa39b1
+review_summary: >-
+  What Customers Are Saying About This Sushi Spot$$$Visitors to this sushi
+  restaurant often praise the fresh selections and affordable all-you-can-eat
+  deals, making it a solid choice for a casual meal with friends or family. Many
+  appreciate the variety of rolls and sashimi, noting that the flavors add an
+  enjoyable twist to traditional options, though some mention that certain items
+  like soups could use a freshness boost. The service stands out as efficient
+  and friendly, especially during less busy times, helping to create a relaxed
+  atmosphere that's perfect for groups. Overall, it's seen as a worthwhile spot
+  for those hunting for best sushi near me, with the value standing up well
+  against other local options despite a few average experiences. If you're in
+  the mood for straightforward Japanese cuisine, this place delivers a generally
+  positive vibe that's worth checking out for its reliable hits.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -409,7 +450,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

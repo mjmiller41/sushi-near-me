@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Metsuyan"
+title: Sushi Metsuyan
 permalink: /new-jersey/teaneck/sushi-metsuyan.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Teaneck
 seo:
-  name: "Sushi Metsuyan"
-  type: Restaurant
+  type: restaurant
   links: http://www.metsuyanteaneck.com/
-description: "Sushi Metsuyan serves delicious sushi in Teaneck, New Jersey. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJj6hCU-vwwokRHFNZAc1UfH0
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c2f0eb5342a88f:0x7d7c54cd0159531c!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 30
+      close:
+        day: 0
+        hour: 20
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 20
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 8:30 PM'
     - 'Tuesday: 11:00 AM – 8:30 PM'
     - 'Wednesday: 11:00 AM – 8:30 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 2:30 PM'
     - 'Saturday: Closed'
     - 'Sunday: 12:30 – 8:30 PM'
-  current:
-    - 'Monday: 11:00 AM – 8:30 PM'
-    - 'Tuesday: 11:00 AM – 8:30 PM'
-    - 'Wednesday: 11:00 AM – 8:30 PM'
-    - 'Thursday: 11:00 AM – 8:30 PM'
-    - 'Friday: 11:00 AM – 2:30 PM'
-    - 'Saturday: Closed'
-    - 'Sunday: 12:30 – 8:30 PM'
+  nextOpenTime: '2025-05-04T16:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +238,47 @@ phone: (201) 837-8000
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.3'
-rating_count: 0
+rating_count: 271
 website: http://www.metsuyanteaneck.com/
+description: >-
+  Discover Sushi Metsuyan in Teaneck, NJ$$$Nestled in the heart of Teaneck, NJ,
+  Sushi Metsuyan stands out as a welcoming spot for fresh sushi and
+  Asian-inspired dishes, catering to those searching for reliable sushi
+  restaurants nearby. This kosher establishment features a vibrant sushi bar
+  alongside options like grilled fish and other flavorful Asian fare, all served
+  in a relaxed and approachable atmosphere that makes it ideal for casual
+  dining. With thoughtful accessibility features such as wheelchair-friendly
+  entrances and seating, it ensures everyone can enjoy a comfortable meal. The
+  menu highlights a variety of top-rated sushi options, perfect for anyone
+  exploring Japanese places near me, and its moderate pricing adds to the appeal
+  for everyday visits.
+generative_summary: >-
+  Discover Sushi Metsuyan in Teaneck, NJ$$$Nestled in the heart of Teaneck, NJ,
+  Sushi Metsuyan stands out as a welcoming spot for fresh sushi and
+  Asian-inspired dishes, catering to those searching for reliable sushi
+  restaurants nearby. This kosher establishment features a vibrant sushi bar
+  alongside options like grilled fish and other flavorful Asian fare, all served
+  in a relaxed and approachable atmosphere that makes it ideal for casual
+  dining. With thoughtful accessibility features such as wheelchair-friendly
+  entrances and seating, it ensures everyone can enjoy a comfortable meal. The
+  menu highlights a variety of top-rated sushi options, perfect for anyone
+  exploring Japanese places near me, and its moderate pricing adds to the appeal
+  for everyday visits.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this sushi spot often rave about the
+  consistently fresh and well-prepared rolls, making it a go-to choice for those
+  craving satisfying sushi close to home. Many appreciate the friendly service
+  and cozy vibe that enhance the overall dining experience, even if occasional
+  waits can occur during peak times. Feedback highlights the variety of options
+  that cater to different tastes, with plenty of positive nods to the quality
+  ingredients that keep diners coming back for more. Overall, the solid rating
+  reflects a genuine enjoyment of the flavorful dishes and attentive staff,
+  offering an honest recommendation for anyone seeking the best sushi near me.
+  While not every visit is flawless, the general consensus leans toward it being
+  a reliable and enjoyable option for casual meals with friends or family.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +304,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

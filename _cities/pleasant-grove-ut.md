@@ -5,4 +5,5 @@ permalink: /utah/pleasant-grove/
 stateAbbr: UT
 stateName: Utah
 cityName: Pleasant Grove
+
 ---

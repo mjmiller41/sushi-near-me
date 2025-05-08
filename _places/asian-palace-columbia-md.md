@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Asian Palace"
+title: Asian Palace
 permalink: /maryland/columbia/asian-palace.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Columbia
 seo:
-  name: "Asian Palace"
-  type: Restaurant
+  type: restaurant
   links: https://www.asianpalacecolumbiamd.com/
-description: "Asian Palace serves delicious sushi in Columbia, Maryland. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJhUpsshHft4kRcYO6scARUA4
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89b7df11b26c4a85:0xe5011c0b1ba8371!10e5
 primary_type: Chinese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 16
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:00 PM'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -178,28 +234,184 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:30 PM'
     - 'Saturday: 11:00 AM – 9:00 PM'
     - 'Sunday: 4:00 – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 9:30 PM'
-    - 'Saturday: 11:00 AM – 9:00 PM'
-    - 'Sunday: 4:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T01:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 16
+          minute: 0
+        close:
+          day: 0
+          hour: 21
+          minute: 0
+      - open:
+          day: 1
+          hour: 11
+          minute: 0
+        close:
+          day: 1
+          hour: 21
+          minute: 0
+      - open:
+          day: 2
+          hour: 11
+          minute: 0
+        close:
+          day: 2
+          hour: 21
+          minute: 0
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 21
+          minute: 0
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 0
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 21
+          minute: 30
+      - open:
+          day: 6
+          hour: 11
+          minute: 0
+        close:
+          day: 6
+          hour: 21
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 11:00 AM – 9:00 PM'
+      - 'Tuesday: 11:00 AM – 9:00 PM'
+      - 'Wednesday: 11:00 AM – 9:00 PM'
+      - 'Thursday: 11:00 AM – 9:00 PM'
+      - 'Friday: 11:00 AM – 9:30 PM'
+      - 'Saturday: 11:00 AM – 9:00 PM'
+      - 'Sunday: 4:00 – 9:00 PM'
+    secondaryHoursType: DELIVERY
+    nextCloseTime: '2025-05-04T01:00:00Z'
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 16
+          minute: 0
+        close:
+          day: 0
+          hour: 18
+          minute: 30
+      - open:
+          day: 1
+          hour: 16
+          minute: 0
+        close:
+          day: 1
+          hour: 18
+          minute: 30
+      - open:
+          day: 2
+          hour: 16
+          minute: 0
+        close:
+          day: 2
+          hour: 18
+          minute: 30
+      - open:
+          day: 3
+          hour: 16
+          minute: 0
+        close:
+          day: 3
+          hour: 18
+          minute: 30
+      - open:
+          day: 4
+          hour: 16
+          minute: 0
+        close:
+          day: 4
+          hour: 18
+          minute: 30
+      - open:
+          day: 5
+          hour: 16
+          minute: 0
+        close:
+          day: 5
+          hour: 18
+          minute: 30
+      - open:
+          day: 6
+          hour: 16
+          minute: 0
+        close:
+          day: 6
+          hour: 18
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 4:00 – 6:30 PM'
+      - 'Tuesday: 4:00 – 6:30 PM'
+      - 'Wednesday: 4:00 – 6:30 PM'
+      - 'Thursday: 4:00 – 6:30 PM'
+      - 'Friday: 4:00 – 6:30 PM'
+      - 'Saturday: 4:00 – 6:30 PM'
+      - 'Sunday: 4:00 – 6:30 PM'
+    secondaryHoursType: HAPPY_HOUR
+    nextCloseTime: '2025-05-03T22:30:00Z'
 phone: (410) 772-8888
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.2'
-rating_count: 0
+rating_count: 346
 website: https://www.asianpalacecolumbiamd.com/
+description: >-
+  Discover Asian Palace in Columbia, MD$$$Asian Palace in Columbia, MD, offers a
+  welcoming spot for enjoying a variety of Asian-inspired dishes in a relaxed
+  atmosphere. With options like fresh sushi and sashimi alongside other
+  flavorful plates, this spot stands out for its diverse menu that caters to
+  those seeking authentic tastes without the fuss. The laid-back setting
+  includes a bar area, making it ideal for casual meals or unwinding after a
+  day, while accessibility features ensure everyone can enjoy the experience.
+  Operating with convenient hours and moderate pricing, it's a great choice for
+  anyone exploring top-rated Asian cuisine options nearby.
+generative_summary: >-
+  Discover Asian Palace in Columbia, MD$$$Asian Palace in Columbia, MD, offers a
+  welcoming spot for enjoying a variety of Asian-inspired dishes in a relaxed
+  atmosphere. With options like fresh sushi and sashimi alongside other
+  flavorful plates, this spot stands out for its diverse menu that caters to
+  those seeking authentic tastes without the fuss. The laid-back setting
+  includes a bar area, making it ideal for casual meals or unwinding after a
+  day, while accessibility features ensure everyone can enjoy the experience.
+  Operating with convenient hours and moderate pricing, it's a great choice for
+  anyone exploring top-rated Asian cuisine options nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Visitor Feedback on Asian Palace$$$Visitors to Asian Palace often highlight
+  the tasty sushi and well-prepared Asian dishes as standout features, making it
+  a solid pick for anyone craving flavorful meals in a comfortable environment.
+  Many appreciate the friendly service and reasonable prices, which add to the
+  overall enjoyable dining experience without any major complaints. The
+  consistent quality has earned it high marks, with folks noting that the
+  variety keeps things exciting for groups or solo diners. While some mention
+  occasional waits during peak times, the general consensus leans positive,
+  encouraging newcomers to give it a try for a satisfying meal that hits the
+  spot.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +437,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

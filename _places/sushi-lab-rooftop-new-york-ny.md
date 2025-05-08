@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Lab Rooftop"
+title: Sushi Lab Rooftop
 permalink: /new-york/new-york/sushi-lab-rooftop.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "Sushi Lab Rooftop"
-  type: Restaurant
-  links: null
-description: "Sushi Lab Rooftop serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.sushilab.com/
 place_id: ChIJscH4RxpZwokRFIrk37HvBT8
 photos:
   - name: >-
@@ -167,8 +165,113 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c2591a47f8c1b1:0x3f05efb1dfe48a14!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 12
+        minute: 0
+      close:
+        day: 1
+        hour: 15
+        minute: 0
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 12
+        minute: 0
+      close:
+        day: 2
+        hour: 15
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 12
+        minute: 0
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 12
+        minute: 0
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 12
+        minute: 0
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 12:00 – 3:00 PM, 5:00 – 9:30 PM'
+    - 'Tuesday: 12:00 – 3:00 PM, 5:00 – 10:00 PM'
+    - 'Wednesday: 12:00 – 3:00 PM, 5:00 – 10:00 PM'
+    - 'Thursday: 12:00 – 3:00 PM, 5:00 – 10:00 PM'
+    - 'Friday: 12:00 – 3:00 PM, 5:00 – 10:00 PM'
+    - 'Saturday: 12:00 – 10:00 PM'
+    - 'Sunday: 12:00 – 10:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -176,13 +279,51 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
+phone: (212) 432-0000
 price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+price_range: $100 &ndash; & up
+rating: '4.2'
+rating_count: 1010
+website: https://www.sushilab.com/
+description: >-
+  Discover Sushi Lab Rooftop in New York, NY$$$Sushi Lab Rooftop in New York,
+  NY, offers a refreshing escape with its elevated dining vibe, blending
+  innovative Japanese flavors and creative twists on classic dishes. This
+  rooftop spot features a selection of expertly prepared sushi rolls,
+  traditional fare, and handcrafted cocktails, all set against an open-air
+  backdrop that enhances the meal. Diners can savor fresh ingredients and
+  inventive presentations that highlight the best of Japanese cuisine, making it
+  a go-to choice for those exploring sushi restaurants in the area. The lively
+  atmosphere and thoughtful menu details create an inviting setting for casual
+  outings or special occasions, appealing to anyone seeking top-rated sushi
+  experiences nearby.
+generative_summary: >-
+  Discover Sushi Lab Rooftop in New York, NY$$$Sushi Lab Rooftop in New York,
+  NY, offers a refreshing escape with its elevated dining vibe, blending
+  innovative Japanese flavors and creative twists on classic dishes. This
+  rooftop spot features a selection of expertly prepared sushi rolls,
+  traditional fare, and handcrafted cocktails, all set against an open-air
+  backdrop that enhances the meal. Diners can savor fresh ingredients and
+  inventive presentations that highlight the best of Japanese cuisine, making it
+  a go-to choice for those exploring sushi restaurants in the area. The lively
+  atmosphere and thoughtful menu details create an inviting setting for casual
+  outings or special occasions, appealing to anyone seeking top-rated sushi
+  experiences nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying About This Sushi Spot$$$Folks frequently rave about
+  the tasty lineup of dishes at this popular sushi destination, with highlights
+  like flavorful appetizers and creative rolls that bring bold flavors to the
+  table. The charming rooftop environment, complete with cozy lighting and
+  greenery, adds a fun and relaxed vibe that makes every visit feel special and
+  memorable. Attentive service from the team helps round out the experience,
+  ensuring guests feel right at home while enjoying their meals. While some
+  mention that prices lean toward the premium side, many agree the high-quality
+  ingredients and unique setting deliver great value for sushi lovers. If you're
+  on the hunt for the best sushi around, this spot often leaves people satisfied
+  and eager to return for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -208,7 +349,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

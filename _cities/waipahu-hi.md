@@ -5,4 +5,5 @@ permalink: /hawaii/waipahu/
 stateAbbr: HI
 stateName: Hawaii
 cityName: Waipahu
+
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ginban Sushi"
+title: Ginban Sushi
 permalink: /arizona/phoenix/ginban-sushi.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Phoenix
 seo:
-  name: "Ginban Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.ginbansushiphoenix.com/
-description: "Ginban Sushi serves delicious sushi in Phoenix, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJqbfHx2EEK4cR-ye4bCvIHfk
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x872b0461c7c7b7a9:0xf91dc82b6cb827fb!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:30 PM'
     - 'Tuesday: 11:00 AM – 9:30 PM'
     - 'Wednesday: 11:00 AM – 9:30 PM'
@@ -178,54 +234,284 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:30 PM'
     - 'Saturday: 12:00 – 9:30 PM'
     - 'Sunday: 12:00 – 9:30 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:30 PM'
-    - 'Tuesday: 11:00 AM – 9:30 PM'
-    - 'Wednesday: 11:00 AM – 9:30 PM'
-    - 'Thursday: 11:00 AM – 9:30 PM'
-    - 'Friday: 11:00 AM – 9:30 PM'
-    - 'Saturday: 12:00 – 9:30 PM'
-    - 'Sunday: 12:00 – 9:30 PM'
+  nextCloseTime: '2025-05-04T04:30:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: false
+    periods:
+      - open:
+          day: 0
+          hour: 15
+          minute: 30
+        close:
+          day: 0
+          hour: 17
+          minute: 0
+      - open:
+          day: 1
+          hour: 15
+          minute: 30
+        close:
+          day: 1
+          hour: 17
+          minute: 0
+      - open:
+          day: 2
+          hour: 15
+          minute: 30
+        close:
+          day: 2
+          hour: 17
+          minute: 0
+      - open:
+          day: 3
+          hour: 15
+          minute: 30
+        close:
+          day: 3
+          hour: 17
+          minute: 0
+      - open:
+          day: 4
+          hour: 15
+          minute: 30
+        close:
+          day: 4
+          hour: 17
+          minute: 0
+      - open:
+          day: 5
+          hour: 15
+          minute: 30
+        close:
+          day: 5
+          hour: 17
+          minute: 0
+      - open:
+          day: 6
+          hour: 15
+          minute: 30
+        close:
+          day: 6
+          hour: 17
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 3:30 – 5:00 PM'
+      - 'Tuesday: 3:30 – 5:00 PM'
+      - 'Wednesday: 3:30 – 5:00 PM'
+      - 'Thursday: 3:30 – 5:00 PM'
+      - 'Friday: 3:30 – 5:00 PM'
+      - 'Saturday: 3:30 – 5:00 PM'
+      - 'Sunday: 3:30 – 5:00 PM'
+    secondaryHoursType: HAPPY_HOUR
+    nextOpenTime: '2025-05-03T22:30:00Z'
 phone: (480) 706-1388
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.4'
-rating_count: 0
+rating_count: 329
 website: http://www.ginbansushiphoenix.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Ginban Sushi in Phoenix, AZ$$$Ginban Sushi in Phoenix, AZ, stands out
+  as a contemporary spot for enjoying fresh Japanese cuisine, blending classic
+  dishes like sashimi and teriyaki with a welcoming vibe. This family-oriented
+  eatery offers a variety of sushi rolls and other favorites, making it a great
+  choice for those seeking reliable sushi places nearby. With its kid-friendly
+  atmosphere and a cozy bar area, it's designed for casual meals or relaxed
+  evenings, enhanced by thoughtful accessibility features like
+  wheelchair-friendly entrances. The menu highlights fresh flavors and moderate
+  pricing, appealing to anyone exploring top-rated sushi options in the area,
+  and it's conveniently open for lunch and dinner most days.
+generative_summary: >-
+  Discover Ginban Sushi in Phoenix, AZ$$$Ginban Sushi in Phoenix, AZ, stands out
+  as a contemporary spot for enjoying fresh Japanese cuisine, blending classic
+  dishes like sashimi and teriyaki with a welcoming vibe. This family-oriented
+  eatery offers a variety of sushi rolls and other favorites, making it a great
+  choice for those seeking reliable sushi places nearby. With its kid-friendly
+  atmosphere and a cozy bar area, it's designed for casual meals or relaxed
+  evenings, enhanced by thoughtful accessibility features like
+  wheelchair-friendly entrances. The menu highlights fresh flavors and moderate
+  pricing, appealing to anyone exploring top-rated sushi options in the area,
+  and it's conveniently open for lunch and dinner most days.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJqbfHx2EEK4cR-ye4bCvIHfk/reviews/ChdDSUhNMG9nS0VJQ0FnTURvc2IzaXNnRRAB
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        We call this place “home” because we feel so welcome at this charming
+        family restaurant. (Also, we eat here so often we practically live here,
+        lol). The food is incredible, with a huge selection, and the owners are
+        friendly and attentive. Give it a try!
+      languageCode: en
+    originalText:
+      text: >-
+        We call this place “home” because we feel so welcome at this charming
+        family restaurant. (Also, we eat here so often we practically live here,
+        lol). The food is incredible, with a huge selection, and the owners are
+        friendly and attentive. Give it a try!
+      languageCode: en
+    authorAttribution:
+      displayName: Charlie Bink
+      uri: https://www.google.com/maps/contrib/103017210578108345992/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUjR1_38EyBm15Ah8__MOy-lYbVEugPM9UczTX8XeD64webXUk=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-26T01:57:04.869867Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURvc2IzaXNnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURvc2IzaXNnRRAB!2m1!1s0x872b0461c7c7b7a9:0xf91dc82b6cb827fb
+  - name: >-
+      places/ChIJqbfHx2EEK4cR-ye4bCvIHfk/reviews/ChdDSUhNMG9nS0VJQ0FnSURuMFlqa3lRRRAB
+    relativePublishTimeDescription: 6 months ago
+    rating: 5
+    text:
+      text: >-
+        Quick service and delicious food! They have good Bento boxes as well.
+        Fresh flavor and good service.
+      languageCode: en
+    originalText:
+      text: >-
+        Quick service and delicious food! They have good Bento boxes as well.
+        Fresh flavor and good service.
+      languageCode: en
+    authorAttribution:
+      displayName: Trish Wright
+      uri: https://www.google.com/maps/contrib/114706998483409437866/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjV60RjLGHPREKA1hx4UC-8Ub8ifjUrkl3I-_FlcJJG8lL7tKcw=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-10-06T21:41:01.482825Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURuMFlqa3lRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURuMFlqa3lRRRAB!2m1!1s0x872b0461c7c7b7a9:0xf91dc82b6cb827fb
+  - name: >-
+      places/ChIJqbfHx2EEK4cR-ye4bCvIHfk/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3aGNxcFdBEAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        My wife and I eat sushi about once a week and have tried a lot of
+        places. Ginban continues to be at the top of the list. Sushi is
+        delicious, service is great. We always have a great experience coming
+        here.
+      languageCode: en
+    originalText:
+      text: >-
+        My wife and I eat sushi about once a week and have tried a lot of
+        places. Ginban continues to be at the top of the list. Sushi is
+        delicious, service is great. We always have a great experience coming
+        here.
+      languageCode: en
+    authorAttribution:
+      displayName: Kyle Price
+      uri: https://www.google.com/maps/contrib/110948314844048826008/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLq17aGeobNo5PmGBdDkCzeCiqGMiRpLcAxplgB82ruUHskyw=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-27T02:29:43.060691Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUR3aGNxcFdBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUR3aGNxcFdBEAE!2m1!1s0x872b0461c7c7b7a9:0xf91dc82b6cb827fb
+  - name: >-
+      places/ChIJqbfHx2EEK4cR-ye4bCvIHfk/reviews/ChdDSUhNMG9nS0VJQ0FnSURMbDRlVHF3RRAB
+    relativePublishTimeDescription: 10 months ago
+    rating: 5
+    text:
+      text: >-
+        We go here at least once a week, and they never fail us. The food is
+        always delicious and at top quality. The customer service is great as
+        well!
+      languageCode: en
+    originalText:
+      text: >-
+        We go here at least once a week, and they never fail us. The food is
+        always delicious and at top quality. The customer service is great as
+        well!
+      languageCode: en
+    authorAttribution:
+      displayName: Monica Ramirez
+      uri: https://www.google.com/maps/contrib/106244026000983192237/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjW-ix77vR0bsgJkcxK2h82n7y3Bm9xGnvZX1b2T22D5Juyeo0gO=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2024-07-02T01:29:18.967686Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURMbDRlVHF3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURMbDRlVHF3RRAB!2m1!1s0x872b0461c7c7b7a9:0xf91dc82b6cb827fb
+  - name: >-
+      places/ChIJqbfHx2EEK4cR-ye4bCvIHfk/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3aGZMN0ZREAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Been coming to Ginban for 11 years and I’m absolutely obsessed with it.
+        No other sushi place compares. Drive from Mesa for date nights to eat
+        here. Food is always consistently good.
+      languageCode: en
+    originalText:
+      text: >-
+        Been coming to Ginban for 11 years and I’m absolutely obsessed with it.
+        No other sushi place compares. Drive from Mesa for date nights to eat
+        here. Food is always consistently good.
+      languageCode: en
+    authorAttribution:
+      displayName: Olivia Murray
+      uri: https://www.google.com/maps/contrib/106270991951516179340/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocINoae54Q0j5TTJcXf-t00kQ1IyqEUID2W8YigeiW76HFHLsg=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-03-27T02:28:43.474088Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUR3aGZMN0ZREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUR3aGZMN0ZREAE!2m1!1s0x872b0461c7c7b7a9:0xf91dc82b6cb827fb
+review_summary: >-
+  What Customers Are Raving About$$$Visitors to this sushi spot often praise the
+  consistently fresh and flavorful dishes, with many highlighting the tasty
+  bento boxes and rolls as standout choices for a satisfying meal. Folks
+  appreciate the quick service and high-quality ingredients that keep them
+  coming back week after week, making it feel like a go-to for everyday dining.
+  The friendly atmosphere and reliable experience add to the appeal, with
+  regulars noting it's perfect for casual get-togethers or date nights without
+  any fuss. Overall, the feedback leans positive, emphasizing great value and a
+  welcoming feel that makes exploring local Japanese places worthwhile, though
+  it's clear the spot shines brightest for its dependable sushi offerings.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: true
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Sleek, contemporary eatery serving classic Japanese fare like sashimi, hand
+  rolls & teriyaki.
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Ave"
+title: Sushi Ave
 permalink: /arizona/gilbert/sushi-ave.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Gilbert
 seo:
-  name: "Sushi Ave"
-  type: Restaurant
+  type: restaurant
   links: http://sushiave.net/
-description: "Sushi Ave serves delicious sushi in Gilbert, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ-_7KjJNxK4cRcZd3QSLdRtc
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x872b71938ccafefb:0xd746dd2241779771!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:00 PM'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:30 PM'
     - 'Saturday: 11:00 AM – 9:30 PM'
     - 'Sunday: 11:00 AM – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 9:30 PM'
-    - 'Saturday: 11:00 AM – 9:30 PM'
-    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T04:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,236 @@ phone: (480) 218-5700
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.3'
-rating_count: 0
+rating_count: 794
 website: http://sushiave.net/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Sushi Ave in Gilbert, Arizona$$$Sushi Ave in Gilbert, AZ, stands out
+  as a welcoming spot for enjoying fresh sushi and Japanese cuisine in a relaxed
+  setting. This eatery features a variety of creative rolls and dishes,
+  complemented by a full bar and special deals that make it ideal for casual
+  dining or unwinding after a long day. With its accessible entrance, seating,
+  and parking options, it's designed to accommodate everyone looking for
+  convenient Japanese flavors nearby. The atmosphere emphasizes comfort and
+  simplicity, making it a go-to choice for those seeking top-rated sushi
+  experiences without the fuss. Whether you're in the mood for inventive rolls
+  or classic options, this location delivers a satisfying blend of quality and
+  affordability that keeps locals coming back.
+generative_summary: >-
+  Discover Sushi Ave in Gilbert, Arizona$$$Sushi Ave in Gilbert, AZ, stands out
+  as a welcoming spot for enjoying fresh sushi and Japanese cuisine in a relaxed
+  setting. This eatery features a variety of creative rolls and dishes,
+  complemented by a full bar and special deals that make it ideal for casual
+  dining or unwinding after a long day. With its accessible entrance, seating,
+  and parking options, it's designed to accommodate everyone looking for
+  convenient Japanese flavors nearby. The atmosphere emphasizes comfort and
+  simplicity, making it a go-to choice for those seeking top-rated sushi
+  experiences without the fuss. Whether you're in the mood for inventive rolls
+  or classic options, this location delivers a satisfying blend of quality and
+  affordability that keeps locals coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ-_7KjJNxK4cRcZd3QSLdRtc/reviews/ChdDSUhNMG9nS0VJQ0FnSURmOWJUQnFBRRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        Absolutely loved it! I ordered 3 separate times from the menu, and the
+        food was brought promptly. My server was Alexis. While busy the entire
+        visit, she made sure to check in on and with me constantly. I'm
+        definitely coming back!
+      languageCode: en
+    originalText:
+      text: >-
+        Absolutely loved it! I ordered 3 separate times from the menu, and the
+        food was brought promptly. My server was Alexis. While busy the entire
+        visit, she made sure to check in on and with me constantly. I'm
+        definitely coming back!
+      languageCode: en
+    authorAttribution:
+      displayName: NIC ATENCIO
+      uri: https://www.google.com/maps/contrib/115985909141824457246/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVmkO4hSPMN9lqn9h5tnPmauvJi_XoAdTcG9nG9seaWDxhPXZsJng=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-01-09T00:59:45.880282Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURmOWJUQnFBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURmOWJUQnFBRRAB!2m1!1s0x872b71938ccafefb:0xd746dd2241779771
+  - name: >-
+      places/ChIJ-_7KjJNxK4cRcZd3QSLdRtc/reviews/ChdDSUhNMG9nS0VJQ0FnSURmX3Y3Ul9BRRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        Okay, so not only is the sushi rolled really well with great flavor and
+        great playlist, but we totally ran into one our favorite people from
+        around town who gave us a VIP experience for our Daddy/Daughter Date
+        Night! Need sushi? Look no further - and don’t forget to leave room for
+        Vanilla Mochi! Thanks Alexis!
+      languageCode: en
+    originalText:
+      text: >-
+        Okay, so not only is the sushi rolled really well with great flavor and
+        great playlist, but we totally ran into one our favorite people from
+        around town who gave us a VIP experience for our Daddy/Daughter Date
+        Night! Need sushi? Look no further - and don’t forget to leave room for
+        Vanilla Mochi! Thanks Alexis!
+      languageCode: en
+    authorAttribution:
+      displayName: Tony Siebers
+      uri: https://www.google.com/maps/contrib/100464211663003565027/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXYIp__XDKvLfHgQpB_50kasxw9ztnauJIjRVp5GD71YEzIcgPk=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-01-07T02:38:51.350605Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURmX3Y3Ul9BRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURmX3Y3Ul9BRRAB!2m1!1s0x872b71938ccafefb:0xd746dd2241779771
+  - name: >-
+      places/ChIJ-_7KjJNxK4cRcZd3QSLdRtc/reviews/ChZDSUhNMG9nS0VJQ0FnSUR6bDZLcmF3EAE
+    relativePublishTimeDescription: 10 months ago
+    rating: 5
+    text:
+      text: >-
+        We ordered ahead and when we arrived it was ready to go. Once they
+        checked the name we took it home and feasted! The sushi was delicious
+        and each roll was great. There were pot stickers as well and spicy
+        edamame. Very happy with the food, the service and our visit
+      languageCode: en
+    originalText:
+      text: >-
+        We ordered ahead and when we arrived it was ready to go. Once they
+        checked the name we took it home and feasted! The sushi was delicious
+        and each roll was great. There were pot stickers as well and spicy
+        edamame. Very happy with the food, the service and our visit
+      languageCode: en
+    authorAttribution:
+      displayName: Christian Heaton
+      uri: https://www.google.com/maps/contrib/106603429240910492565/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjX8748MNY1mhx1BFN-oXTG6ao3REy61qc5krX98Qr3LmF5lB92Ysg=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-06-13T03:28:27.961562Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR6bDZLcmF3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR6bDZLcmF3EAE!2m1!1s0x872b71938ccafefb:0xd746dd2241779771
+  - name: >-
+      places/ChIJ-_7KjJNxK4cRcZd3QSLdRtc/reviews/ChZDSUhNMG9nS0VJQ0FnTUNvdHRPSUtnEAE
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 3
+    text:
+      text: >-
+        Dinner & sushi menu is good. Nothing fancy about the environment or
+        sushi, but tastes good. They sometimes get backed up and stop seating
+        people, even with open tables, but I think it’s so they can get caught
+        up with current orders.
+      languageCode: en
+    originalText:
+      text: >-
+        Dinner & sushi menu is good. Nothing fancy about the environment or
+        sushi, but tastes good. They sometimes get backed up and stop seating
+        people, even with open tables, but I think it’s so they can get caught
+        up with current orders.
+      languageCode: en
+    authorAttribution:
+      displayName: A Forsyth
+      uri: https://www.google.com/maps/contrib/117712491919708838921/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVOH2Y7syM5PF5Ou-7HR3MuQ4Rd8OTlh68lbOTL2GVfef4rEBM=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-16T23:35:28.283260Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNvdHRPSUtnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNvdHRPSUtnEAE!2m1!1s0x872b71938ccafefb:0xd746dd2241779771
+  - name: >-
+      places/ChIJ-_7KjJNxK4cRcZd3QSLdRtc/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ5bnZ2WEx3EAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        What and awesome hidden gem!    It does not look like anything amazing
+        walking by, but let me say it's far more special!    Low key, but great
+        service and the quality of the sushi is true amazing .   Very fresh, and
+        talently prepared!
+
+
+        BYOB for wine as well!
+
+
+        Will be coming back again and again!
+      languageCode: en
+    originalText:
+      text: >-
+        What and awesome hidden gem!    It does not look like anything amazing
+        walking by, but let me say it's far more special!    Low key, but great
+        service and the quality of the sushi is true amazing .   Very fresh, and
+        talently prepared!
+
+
+        BYOB for wine as well!
+
+
+        Will be coming back again and again!
+      languageCode: en
+    authorAttribution:
+      displayName: Art Hogarth
+      uri: https://www.google.com/maps/contrib/110906760469389003285/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVcw9hePoKdPXy21W6vnC9bKSZP8gRjlGyJQ6rxv_2bjIdV7ak1=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-03-17T04:58:13.705527Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQ5bnZ2WEx3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQ5bnZ2WEx3EAE!2m1!1s0x872b71938ccafefb:0xd746dd2241779771
+review_summary: >-
+  What Customers Are Saying$$$Folks who visit this sushi spot often rave about
+  the fresh and flavorful rolls that hit the spot every time, making it a solid
+  pick for anyone hunting for reliable Japanese eats nearby. Many appreciate the
+  efficient service and quick delivery of orders, which adds to the overall
+  enjoyable vibe for groups or quick meals. While some mention occasional waits
+  during busy periods, the general consensus highlights the tasty selections and
+  welcoming environment as reasons to return. Overall, it's clear that diners
+  find the experience worthwhile, with plenty of positive feedback on the
+  variety and value that make it one of the better options in the area. If
+  you're on the hunt for great sushi close to home, this place gets high marks
+  for delivering a consistently pleasant outing.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
+delivery: true
+dine_in: true
+good_for_children: false
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: true
+outdoor_seating: false
 reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: true
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Creative sushi rolls & Japanese plates are the draw at this popular eatery
+  with a relaxed ambiance.
 
 ---

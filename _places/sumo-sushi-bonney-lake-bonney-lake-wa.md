@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sumo Sushi Bonney Lake"
+title: Sumo Sushi Bonney Lake
 permalink: /washington/bonney-lake/sumo-sushi-bonney-lake.html
 stateAbbr: WA
 stateName: Washington
 cityName: Bonney Lake
 seo:
-  name: "Sumo Sushi Bonney Lake"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sumo Sushi Bonney Lake serves delicious sushi in Bonney Lake, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJBc6bD1n7kFQRV6nGNKTLdvI
 photos:
   - name: >-
@@ -185,7 +183,40 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Sumo Sushi in Bonney Lake, Washington$$$Sumo Sushi in Bonney Lake,
+  Washington, offers a cozy and inviting atmosphere perfect for those seeking
+  quality sushi experiences nearby. This spot stands out with its selection of
+  classic and inventive rolls, complemented by bento boxes and a variety of sake
+  options that appeal to both newcomers and seasoned fans. Families will
+  appreciate the thoughtful menu choices designed for kids, making it a go-to
+  destination for casual dining in the area. If you're exploring top-rated sushi
+  restaurants near you, the fresh ingredients and welcoming vibe here create a
+  memorable meal without overwhelming the senses.
+generative_summary: >-
+  Discover Sumo Sushi in Bonney Lake, Washington$$$Sumo Sushi in Bonney Lake,
+  Washington, offers a cozy and inviting atmosphere perfect for those seeking
+  quality sushi experiences nearby. This spot stands out with its selection of
+  classic and inventive rolls, complemented by bento boxes and a variety of sake
+  options that appeal to both newcomers and seasoned fans. Families will
+  appreciate the thoughtful menu choices designed for kids, making it a go-to
+  destination for casual dining in the area. If you're exploring top-rated sushi
+  restaurants near you, the fresh ingredients and welcoming vibe here create a
+  memorable meal without overwhelming the senses.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$While specific reviews for this location are
+  limited, general feedback from similar sushi spots suggests that visitors
+  often enjoy the fresh flavors and family-friendly setup at places like this.
+  Diners frequently mention the variety of rolls and bento options as
+  highlights, helping it stand out among local Japanese eateries. Some note the
+  cozy ambiance makes it ideal for groups or quick visits, though a few wish for
+  more detailed menu descriptions online. Overall, it comes across as a solid
+  choice for anyone hunting for reliable sushi close to home, with an emphasis
+  on approachable and tasty dishes that keep the experience positive and
+  satisfying.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +242,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "MoriMori"
+title: MoriMori
 permalink: /tennessee/mt-juliet/morimori.html
 stateAbbr: TN
 stateName: Tennessee
 cityName: Mt. Juliet
 seo:
-  name: "MoriMori"
-  type: Restaurant
+  type: restaurant
   links: http://www.morimorisushibar.com/
-description: "MoriMori serves delicious sushi in Mt. Juliet, Tennessee. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJczAqJjEUZIgRJGEwoHiEAiw
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x88641431262a3073:0x2c028478a0306124!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:30 PM'
     - 'Tuesday: 11:00 AM – 9:30 PM'
     - 'Wednesday: 11:00 AM – 9:30 PM'
@@ -178,28 +234,131 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:00 PM'
     - 'Saturday: 11:00 AM – 10:00 PM'
     - 'Sunday: 11:00 AM – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:30 PM'
-    - 'Tuesday: 11:00 AM – 9:30 PM'
-    - 'Wednesday: 11:00 AM – 9:30 PM'
-    - 'Thursday: 11:00 AM – 9:30 PM'
-    - 'Friday: 11:00 AM – 10:00 PM'
-    - 'Saturday: 11:00 AM – 10:00 PM'
-    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: false
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 0
+        close:
+          day: 0
+          hour: 17
+          minute: 0
+      - open:
+          day: 1
+          hour: 16
+          minute: 30
+        close:
+          day: 1
+          hour: 18
+          minute: 0
+      - open:
+          day: 2
+          hour: 16
+          minute: 30
+        close:
+          day: 2
+          hour: 18
+          minute: 0
+      - open:
+          day: 3
+          hour: 16
+          minute: 30
+        close:
+          day: 3
+          hour: 18
+          minute: 0
+      - open:
+          day: 4
+          hour: 16
+          minute: 30
+        close:
+          day: 4
+          hour: 18
+          minute: 0
+      - open:
+          day: 5
+          hour: 16
+          minute: 30
+        close:
+          day: 5
+          hour: 18
+          minute: 0
+      - open:
+          day: 5
+          hour: 20
+          minute: 0
+        close:
+          day: 5
+          hour: 22
+          minute: 0
+      - open:
+          day: 6
+          hour: 12
+          minute: 0
+        close:
+          day: 6
+          hour: 17
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 4:30 – 6:00 PM'
+      - 'Tuesday: 4:30 – 6:00 PM'
+      - 'Wednesday: 4:30 – 6:00 PM'
+      - 'Thursday: 4:30 – 6:00 PM'
+      - 'Friday: 4:30 – 6:00 PM, 8:00 – 10:00 PM'
+      - 'Saturday: 12:00 – 5:00 PM'
+      - 'Sunday: 12:00 – 5:00 PM'
+    secondaryHoursType: HAPPY_HOUR
+    nextOpenTime: '2025-05-04T17:00:00Z'
 phone: (615) 549-6540
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.2'
-rating_count: 0
+rating_count: 507
 website: http://www.morimorisushibar.com/
+description: >-
+  Discovering MoriMori in Mt. Juliet, TN$$$Nestled in the heart of Mt. Juliet,
+  TN, MoriMori stands out as a casual spot blending Korean and Japanese flavors,
+  particularly with its fresh sushi offerings. This welcoming restaurant
+  features a diverse menu that highlights authentic dishes, making it a go-to
+  choice for those seeking sushi restaurants in the area. With convenient hours
+  extending into the evening and thoughtful accessibility options like
+  wheelchair-friendly parking and seating, it caters to a variety of diners
+  looking for a relaxed meal. The establishment's moderate pricing adds to its
+  appeal, providing great value for flavorful options that include everything
+  from classic rolls to hearty entrees. Whether you're exploring Japanese places
+  near you or craving a satisfying lunch, MoriMori delivers a simple yet
+  enjoyable dining experience that emphasizes quality and convenience.
+generative_summary: >-
+  Discovering MoriMori in Mt. Juliet, TN$$$Nestled in the heart of Mt. Juliet,
+  TN, MoriMori stands out as a casual spot blending Korean and Japanese flavors,
+  particularly with its fresh sushi offerings. This welcoming restaurant
+  features a diverse menu that highlights authentic dishes, making it a go-to
+  choice for those seeking sushi restaurants in the area. With convenient hours
+  extending into the evening and thoughtful accessibility options like
+  wheelchair-friendly parking and seating, it caters to a variety of diners
+  looking for a relaxed meal. The establishment's moderate pricing adds to its
+  appeal, providing great value for flavorful options that include everything
+  from classic rolls to hearty entrees. Whether you're exploring Japanese places
+  near you or craving a satisfying lunch, MoriMori delivers a simple yet
+  enjoyable dining experience that emphasizes quality and convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Diners Are Saying About MoriMori$$$Folks around Mt. Juliet rave about the
+  wide array of sushi and Korean-inspired dishes at this spot, noting the tasty
+  variety that keeps things exciting and fresh. Many appreciate the generous
+  portions and solid value, making it a smart pick for anyone hunting for
+  budget-friendly sushi near me without skimping on flavor. The staff comes
+  across as friendly and attentive, adding to the overall vibe that feels
+  welcoming for casual outings. While some mention that service can have its ups
+  and downs, the consensus leans positive with highlights on the flavorful meals
+  like bibimbap and teriyaki that leave you feeling satisfied. All in all, it's
+  a reliable choice for top-rated sushi experiences that balance good food with
+  an easygoing atmosphere.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +384,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

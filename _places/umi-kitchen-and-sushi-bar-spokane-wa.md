@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Umi Kitchen and Sushi Bar"
+title: Umi Kitchen and Sushi Bar
 permalink: /washington/spokane/umi-kitchen-and-sushi-bar.html
 stateAbbr: WA
 stateName: Washington
 cityName: Spokane
 seo:
-  name: "Umi Kitchen and Sushi Bar"
-  type: Restaurant
-  links: null
-description: "Umi Kitchen and Sushi Bar serves delicious sushi in Spokane, Washington. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.umispokane.com/
 place_id: ChIJof4Aa1wYnlQRNb2W2W_ROkY
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x549e185c6b00fea1:0x463ad16fd996bd35!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 20
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 20
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 20
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 8:30 PM'
+    - 'Tuesday: 11:00 AM – 8:30 PM'
+    - 'Wednesday: 11:00 AM – 8:30 PM'
+    - 'Thursday: 11:00 AM – 8:30 PM'
+    - 'Friday: 11:00 AM – 8:30 PM'
+    - 'Saturday: 11:00 AM – 8:30 PM'
+    - 'Sunday: 11:00 AM – 8:30 PM'
+  nextCloseTime: '2025-05-04T03:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,44 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (509) 368-9372
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.5'
+rating_count: 1001
+website: https://www.umispokane.com/
+description: >-
+  Discover Umi Kitchen and Sushi Bar in Spokane, WA$$$Umi Kitchen and Sushi Bar
+  in Spokane, WA, stands out as a lively destination for fresh sushi and
+  Asian-inspired dishes, crafted by seasoned experts. This spot features
+  creative rolls and flavorful fare in a modern, inviting atmosphere that
+  appeals to those seeking authentic Japanese flavors. With its focus on
+  high-quality ingredients and innovative presentations, it's an ideal choice
+  for anyone exploring local sushi options. The restaurant's accessibility
+  features and welcoming vibe make it a convenient spot for a memorable meal,
+  enhancing the overall dining experience.
+generative_summary: >-
+  Discover Umi Kitchen and Sushi Bar in Spokane, WA$$$Umi Kitchen and Sushi Bar
+  in Spokane, WA, stands out as a lively destination for fresh sushi and
+  Asian-inspired dishes, crafted by seasoned experts. This spot features
+  creative rolls and flavorful fare in a modern, inviting atmosphere that
+  appeals to those seeking authentic Japanese flavors. With its focus on
+  high-quality ingredients and innovative presentations, it's an ideal choice
+  for anyone exploring local sushi options. The restaurant's accessibility
+  features and welcoming vibe make it a convenient spot for a memorable meal,
+  enhancing the overall dining experience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Folks frequently highlight the tasty sushi
+  selections at this Japanese eatery, with standout rolls delivering bold
+  flavors and creative twists that keep diners coming back. The cocktails on
+  offer pair perfectly with the meals, adding a fun element to the experience
+  without overwhelming the palate. Service is often described as warm and
+  attentive, helping to create a relaxed and enjoyable atmosphere for everyone.
+  Overall, the fresh ingredients and generous servings make it a solid pick for
+  sushi lovers, offering a satisfying meal that lives up to expectations.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +305,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Mujiri"
+title: Mujiri
 permalink: /california/oakland/mujiri.html
 stateAbbr: CA
 stateName: California
 cityName: Oakland
 seo:
-  name: "Mujiri"
-  type: Restaurant
+  type: restaurant
   links: http://www.mujiri-oakland.com/
-description: "Mujiri serves delicious sushi in Oakland, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJbwFfhgh_hYAR66UbFLHUdnk
 photos:
   - name: >-
@@ -169,7 +167,105 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80857f08865f016f:0x7976d4b1141ba5eb!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 17
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 17
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 17
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 17
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 14
+        minute: 30
+    - open:
+        day: 6
+        hour: 17
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 2:30 PM, 5:30 – 9:00 PM'
     - 'Tuesday: 11:30 AM – 2:30 PM, 5:30 – 9:00 PM'
     - 'Wednesday: 11:30 AM – 2:30 PM, 5:30 – 9:00 PM'
@@ -177,14 +273,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 2:30 PM, 5:30 – 9:00 PM'
     - 'Saturday: 11:30 AM – 2:30 PM, 5:30 – 9:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:30 AM – 2:30 PM, 5:30 – 9:00 PM'
-    - 'Tuesday: 11:30 AM – 2:30 PM, 5:30 – 9:00 PM'
-    - 'Wednesday: 11:30 AM – 2:30 PM, 5:30 – 9:00 PM'
-    - 'Thursday: 11:30 AM – 2:30 PM, 5:30 – 9:00 PM'
-    - 'Friday: 11:30 AM – 2:30 PM, 5:30 – 9:00 PM'
-    - 'Saturday: 11:30 AM – 2:30 PM, 5:30 – 9:00 PM'
-    - 'Sunday: Closed'
+  nextOpenTime: '2025-05-04T00:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,35 +285,240 @@ phone: (510) 879-6597
 price_level: PRICE_LEVEL_MODERATE
 price_range: $30 &ndash; $50
 rating: '4.6'
-rating_count: 0
+rating_count: 448
 website: http://www.mujiri-oakland.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Mujiri in Oakland, California$$$Mujiri in Oakland, California, stands
+  out as a welcoming sushi restaurant offering a casual atmosphere perfect for
+  enjoying fresh Japanese dishes. This spot features high-quality nigiri and
+  other traditional offerings, making it a go-to choice for those seeking
+  authentic flavors in a relaxed setting. With options like outdoor seating and
+  accessibility features, it's designed to accommodate a variety of diners
+  looking for a comfortable meal. The menu highlights seasonal ingredients and
+  simple preparations that emphasize quality, appealing to anyone exploring
+  top-rated sushi options nearby. Whether you're in the mood for a quick lunch
+  or an evening out, Mujiri delivers a satisfying experience that captures the
+  essence of Japanese cuisine.
+generative_summary: >-
+  Discover Mujiri in Oakland, California$$$Mujiri in Oakland, California, stands
+  out as a welcoming sushi restaurant offering a casual atmosphere perfect for
+  enjoying fresh Japanese dishes. This spot features high-quality nigiri and
+  other traditional offerings, making it a go-to choice for those seeking
+  authentic flavors in a relaxed setting. With options like outdoor seating and
+  accessibility features, it's designed to accommodate a variety of diners
+  looking for a comfortable meal. The menu highlights seasonal ingredients and
+  simple preparations that emphasize quality, appealing to anyone exploring
+  top-rated sushi options nearby. Whether you're in the mood for a quick lunch
+  or an evening out, Mujiri delivers a satisfying experience that captures the
+  essence of Japanese cuisine.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJbwFfhgh_hYAR66UbFLHUdnk/reviews/ChZDSUhNMG9nS0VJQ0FnTUNvc3B2bk5BEAE
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        I dropped by while in the area to try Mujiri for the first time, and it
+        will definitely not be the last! I had the sashimi plate and I was
+        totally blown away, it was so delicious! Lots of variety of fish, super
+        high quality and beautifully prepared. Sat at the sushi bar solo, and
+        loved everything about the restaurant and vibes!
+      languageCode: en
+    originalText:
+      text: >-
+        I dropped by while in the area to try Mujiri for the first time, and it
+        will definitely not be the last! I had the sashimi plate and I was
+        totally blown away, it was so delicious! Lots of variety of fish, super
+        high quality and beautifully prepared. Sat at the sushi bar solo, and
+        loved everything about the restaurant and vibes!
+      languageCode: en
+    authorAttribution:
+      displayName: Tarah Elizabeth
+      uri: https://www.google.com/maps/contrib/100210572733678460654/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUTARJAbDKB7iRWvK7qdGzsmh2FbRc_5f5fJORv1vWSx80bcRHhEg=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-16T03:00:19.218486Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNvc3B2bk5BEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNvc3B2bk5BEAE!2m1!1s0x80857f08865f016f:0x7976d4b1141ba5eb
+  - name: >-
+      places/ChIJbwFfhgh_hYAR66UbFLHUdnk/reviews/ChdDSUhNMG9nS0VJQ0FnTUNneEpTS3dnRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        I’ve always ordered takeout from here and finally dined in person. Sushi
+        is high quality, at unbelievably affordable prices. Their classic
+        omakase set starts at $25 and comes with a maki roll and 7 nigiris of
+        your choice. You can pay extra for premium cuts like toro or uni. I
+        tried their seaweed salad, which is nothing like the standard
+        artificially green seaweed salads you would get at a typical sushi
+        restaurant, ton more texture and different textured of seaweed and kelp.
+        We also shared their toro trio, and finished with the kinako mochi. Such
+        a gem of a restaurant and will def try to be back for in person dining
+        again. With everything we ordered which included premium cuts and
+        additional pcs, we ended up only spending $170 total for 2, which is the
+        typical pricing for one person at a sf omakase restaurant at similar
+        quality.
+      languageCode: en
+    originalText:
+      text: >-
+        I’ve always ordered takeout from here and finally dined in person. Sushi
+        is high quality, at unbelievably affordable prices. Their classic
+        omakase set starts at $25 and comes with a maki roll and 7 nigiris of
+        your choice. You can pay extra for premium cuts like toro or uni. I
+        tried their seaweed salad, which is nothing like the standard
+        artificially green seaweed salads you would get at a typical sushi
+        restaurant, ton more texture and different textured of seaweed and kelp.
+        We also shared their toro trio, and finished with the kinako mochi. Such
+        a gem of a restaurant and will def try to be back for in person dining
+        again. With everything we ordered which included premium cuts and
+        additional pcs, we ended up only spending $170 total for 2, which is the
+        typical pricing for one person at a sf omakase restaurant at similar
+        quality.
+      languageCode: en
+    authorAttribution:
+      displayName: Joanne Yuen
+      uri: https://www.google.com/maps/contrib/108509009458836632239/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXH6OOeqmjZnUIxunbKduX5gUPDjQu225_uGRLc-LYkEy49xqAe9A=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-02-14T06:21:26.060395Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNneEpTS3dnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNneEpTS3dnRRAB!2m1!1s0x80857f08865f016f:0x7976d4b1141ba5eb
+  - name: >-
+      places/ChIJbwFfhgh_hYAR66UbFLHUdnk/reviews/ChZDSUhNMG9nS0VJQ0FnSUNucFl6c1hREAE
+    relativePublishTimeDescription: 7 months ago
+    rating: 5
+    text:
+      text: >-
+        This place was amazing. Don't think of your typical Japanese American
+        rolls. Think simple, elegant, and flavorful, almost decadent.  We
+        ordered the specials that day, plus some extra rice, japanese uni, and
+        the nigiri box. Everything was wonderful. Most things do not need any
+        extra seasoning/sauce. The sear on the poke was so light, which made me
+        really happy as i don't personally like cooked salmon, and it was
+        seasoned so wonderfully. Tuna hand rolls were great. Tuna carpaccio
+        melted in your mouth. I also recommend the Ume drink. Mmmmmm.
+      languageCode: en
+    originalText:
+      text: >-
+        This place was amazing. Don't think of your typical Japanese American
+        rolls. Think simple, elegant, and flavorful, almost decadent.  We
+        ordered the specials that day, plus some extra rice, japanese uni, and
+        the nigiri box. Everything was wonderful. Most things do not need any
+        extra seasoning/sauce. The sear on the poke was so light, which made me
+        really happy as i don't personally like cooked salmon, and it was
+        seasoned so wonderfully. Tuna hand rolls were great. Tuna carpaccio
+        melted in your mouth. I also recommend the Ume drink. Mmmmmm.
+      languageCode: en
+    authorAttribution:
+      displayName: Alisha Louise
+      uri: https://www.google.com/maps/contrib/113661107509026550271/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVWb0J1J_ztI-Z7GzjKpbEwy82GbusY9sGm02AkfvpI2Yv9hCTi=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2024-09-27T23:48:38.379922Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNucFl6c1hREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNucFl6c1hREAE!2m1!1s0x80857f08865f016f:0x7976d4b1141ba5eb
+  - name: >-
+      places/ChIJbwFfhgh_hYAR66UbFLHUdnk/reviews/ChdDSUhNMG9nS0VJQ0FnSURfalBDTTd3RRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        Very good fish! Extremely fresh. Good service. Pricing is reasonable for
+        how high the quality is. Def boxes above it's weight
+      languageCode: en
+    originalText:
+      text: >-
+        Very good fish! Extremely fresh. Good service. Pricing is reasonable for
+        how high the quality is. Def boxes above it's weight
+      languageCode: en
+    authorAttribution:
+      displayName: Thomas Clark
+      uri: https://www.google.com/maps/contrib/116653744090789852700/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjV1e01-WL6LbTldnBBaiakNmN6I3k8igFf5Z3uQKdKwgsa0RuWU=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-01-26T03:03:18.906259Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURfalBDTTd3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURfalBDTTd3RRAB!2m1!1s0x80857f08865f016f:0x7976d4b1141ba5eb
+  - name: >-
+      places/ChIJbwFfhgh_hYAR66UbFLHUdnk/reviews/ChdDSUhNMG9nS0VJQ0FnTUNnMmJ5N2l3RRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        Some of the best sushi i’ve had !! Sushi rice is perfectly seasoned and
+        fish variety overall is very fresh.
+      languageCode: en
+    originalText:
+      text: >-
+        Some of the best sushi i’ve had !! Sushi rice is perfectly seasoned and
+        fish variety overall is very fresh.
+      languageCode: en
+    authorAttribution:
+      displayName: Angela Phan N
+      uri: https://www.google.com/maps/contrib/112075920546924462755/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKsgrZWDcsDR1SODKHiRRBW0d-DAjC5xmnQq8Y7JKMEGP9nbA=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-02-18T22:40:46.702784Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNnMmJ5N2l3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNnMmJ5N2l3RRAB!2m1!1s0x80857f08865f016f:0x7976d4b1141ba5eb
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors to this sushi spot often rave about
+  the incredibly fresh fish and well-balanced flavors that make every bite
+  memorable. Many appreciate the great value, with affordable sets of nigiri and
+  rolls that stand up to higher-end places without breaking the bank. Folks
+  highlight the friendly service and cozy vibe that add to the overall
+  enjoyment, making it a solid pick for casual meals or groups. While some note
+  it's a hidden gem for quality Japanese dishes, the consistent praise keeps the
+  positive energy flowing. If you're hunting for reliable sushi restaurants in
+  the area, this one earns high marks for its tasty selections and welcoming
+  feel, encouraging repeat visits for anyone craving a flavorful escape.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
+delivery: true
+dine_in: true
 good_for_children: null
 good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Cozy & unpretentious sushi joint serving Japanese classics & offering outdoor
+  seating.
 
 ---

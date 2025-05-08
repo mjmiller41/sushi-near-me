@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Bonchon - Rockville"
+title: Bonchon - Rockville
 permalink: /maryland/rockville/bonchon-rockville.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Rockville
 seo:
-  name: "Bonchon - Rockville"
-  type: Restaurant
-  links: null
-description: "Bonchon - Rockville serves delicious sushi in Rockville, Maryland. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://locations.bonchon.com/ll/US/MD/Rockville/107-Gibbs-St
 place_id: ChIJ9-J6BHXNt4kRKuvOyOUIonc
 photos:
   - name: >-
@@ -170,22 +168,171 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89b7cd75047ae2f7:0x77a208e5c8ceeb2a!10e5
 primary_type: Asian Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:30 PM'
+    - 'Tuesday: 11:00 AM – 9:30 PM'
+    - 'Wednesday: 11:00 AM – 9:30 PM'
+    - 'Thursday: 11:00 AM – 9:30 PM'
+    - 'Friday: 11:00 AM – 10:30 PM'
+    - 'Saturday: 11:00 AM – 10:30 PM'
+    - 'Sunday: 11:00 AM – 9:30 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+  - openNow: false
+    periods:
+      - open:
+          day: 1
+          hour: 15
+          minute: 0
+        close:
+          day: 1
+          hour: 19
+          minute: 0
+      - open:
+          day: 2
+          hour: 15
+          minute: 0
+        close:
+          day: 2
+          hour: 19
+          minute: 0
+      - open:
+          day: 3
+          hour: 15
+          minute: 0
+        close:
+          day: 3
+          hour: 19
+          minute: 0
+      - open:
+          day: 4
+          hour: 15
+          minute: 0
+        close:
+          day: 4
+          hour: 19
+          minute: 0
+      - open:
+          day: 5
+          hour: 15
+          minute: 0
+        close:
+          day: 5
+          hour: 19
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 3:00 – 7:00 PM'
+      - 'Tuesday: 3:00 – 7:00 PM'
+      - 'Wednesday: 3:00 – 7:00 PM'
+      - 'Thursday: 3:00 – 7:00 PM'
+      - 'Friday: 3:00 – 7:00 PM'
+      - 'Saturday: Closed'
+      - 'Sunday: Closed'
+    secondaryHoursType: HAPPY_HOUR
+    nextOpenTime: '2025-05-05T19:00:00Z'
+phone: (301) 637-9079
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.1'
+rating_count: 518
+website: https://locations.bonchon.com/ll/US/MD/Rockville/107-Gibbs-St
+description: >-
+  Experience Bonchon in Rockville, MD$$$Bonchon in Rockville, MD, stands out as
+  a vibrant casual eatery specializing in Korean-inspired dishes and Asian
+  fusion flavors that attract those seeking diverse dining options. This spot is
+  renowned for its signature fried chicken wings, prepared with a perfect blend
+  of crispiness and bold seasonings, alongside a menu that highlights fresh,
+  flavorful entrees in a welcoming atmosphere. Located in the lively Rockville
+  Town Square neighborhood, it offers convenient accessibility features like
+  wheelchair-friendly parking and entrances, making it easy for everyone to
+  enjoy a meal. With moderate pricing and extended hours into the evening, it's
+  an ideal choice for a satisfying lunch or dinner, blending traditional
+  elements with modern twists to create an engaging culinary experience.
+generative_summary: >-
+  Experience Bonchon in Rockville, MD$$$Bonchon in Rockville, MD, stands out as
+  a vibrant casual eatery specializing in Korean-inspired dishes and Asian
+  fusion flavors that attract those seeking diverse dining options. This spot is
+  renowned for its signature fried chicken wings, prepared with a perfect blend
+  of crispiness and bold seasonings, alongside a menu that highlights fresh,
+  flavorful entrees in a welcoming atmosphere. Located in the lively Rockville
+  Town Square neighborhood, it offers convenient accessibility features like
+  wheelchair-friendly parking and entrances, making it easy for everyone to
+  enjoy a meal. With moderate pricing and extended hours into the evening, it's
+  an ideal choice for a satisfying lunch or dinner, blending traditional
+  elements with modern twists to create an engaging culinary experience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Visitor Feedback Highlights$$$Folks chatting about Bonchon often rave about
+  the tasty Korean-style chicken and solid Asian fusion offerings, noting how
+  the flavors really hit the spot without breaking the bank. Many appreciate the
+  friendly service and clean, accessible setup that makes grabbing a bite feel
+  hassle-free and enjoyable. While some mention waits during peak times, the
+  overall vibe comes across as worth it for the fresh ingredients and generous
+  portions that leave you satisfied. It's clear from the buzz that this place
+  nails the balance of quick service and quality food, making it a go-to for
+  anyone in the mood for something flavorful and fun. All in all, the positive
+  energy around here suggests it's a solid pick for casual diners looking to try
+  something new.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +358,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

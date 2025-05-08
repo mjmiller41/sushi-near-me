@@ -5,4 +5,5 @@ permalink: /massachusetts/gloucester/
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Gloucester
+
 ---

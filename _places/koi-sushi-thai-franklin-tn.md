@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Koi Sushi & Thai"
+title: Koi Sushi & Thai
 permalink: /tennessee/franklin/koi-sushi-thai.html
 stateAbbr: TN
 stateName: Tennessee
 cityName: Franklin
 seo:
-  name: "Koi Sushi & Thai"
-  type: Restaurant
-  links: null
-description: "Koi Sushi & Thai serves delicious sushi in Franklin, Tennessee. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://koisushithaifranklin.com/
 place_id: ChIJ7Y7GTLx_ZIgRUxNC9sud2L0
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x88647fbc4cc68eed:0xbdd89dcbf6421353!10e5
 primary_type: Thai Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 9:00 PM'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 9:00 PM'
+    - 'Saturday: 12:00 – 9:00 PM'
+    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,55 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (615) 538-6018
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.3'
+rating_count: 787
+website: http://koisushithaifranklin.com/
+description: >-
+  Discover Koi Sushi & Thai in Franklin, Tennessee$$$Koi Sushi & Thai in
+  Franklin, TN, is a welcoming spot where you can savor a mix of fresh sushi
+  rolls and flavorful Thai dishes in a relaxed setting. This sushi restaurant
+  near Franklin combines casual vibes with an understated jazz-inspired
+  atmosphere, making it ideal for a laid-back meal with friends or family.
+  Patrons appreciate the accessible features like wheelchair-friendly parking
+  and entrances, along with a menu that balances affordability and quality for
+  everyday dining. Whether you're searching for top-rated sushi options close to
+  home or exploring Japanese-inspired places in the area, the venue's moderate
+  pricing and extended hours add to its appeal as a go-to destination. With its
+  focus on authentic flavors and comfortable ambiance, it's a great choice for
+  anyone craving a satisfying meal without the fuss.
+generative_summary: >-
+  Discover Koi Sushi & Thai in Franklin, Tennessee$$$Koi Sushi & Thai in
+  Franklin, TN, is a welcoming spot where you can savor a mix of fresh sushi
+  rolls and flavorful Thai dishes in a relaxed setting. This sushi restaurant
+  near Franklin combines casual vibes with an understated jazz-inspired
+  atmosphere, making it ideal for a laid-back meal with friends or family.
+  Patrons appreciate the accessible features like wheelchair-friendly parking
+  and entrances, along with a menu that balances affordability and quality for
+  everyday dining. Whether you're searching for top-rated sushi options close to
+  home or exploring Japanese-inspired places in the area, the venue's moderate
+  pricing and extended hours add to its appeal as a go-to destination. With its
+  focus on authentic flavors and comfortable ambiance, it's a great choice for
+  anyone craving a satisfying meal without the fuss.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying About Koi Sushi & Thai$$$Folks who stop by Koi Sushi
+  & Thai often rave about the tasty sushi and Thai favorites that hit the spot,
+  backed by a solid 4.3-star rating from plenty of satisfied customers. Many
+  mention the fresh ingredients and well-prepared dishes that make it stand out
+  among local sushi spots, with a casual nod to the welcoming vibe that keeps
+  people coming back. While not everyone loves every detail, the overall
+  feedback highlights reliable service and a cozy atmosphere that's perfect for
+  casual get-togethers, making it feel like a hidden gem for sushi enthusiasts
+  nearby. If you're on the hunt for sushi restaurants in Franklin that deliver
+  good value and enjoyable meals, this place generally lives up to expectations
+  without any major letdowns. All in all, it's easy to see why so many
+  appreciate the straightforward appeal here, offering a positive experience for
+  those exploring options around town.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +316,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Love Sushi"
+title: Love Sushi
 permalink: /south-carolina/greenville/love-sushi.html
 stateAbbr: SC
 stateName: South Carolina
 cityName: Greenville
 seo:
-  name: "Love Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.lovesushisc.com/
-description: "Love Sushi serves delicious sushi in Greenville, South Carolina. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ2y-oyKcpWIgRQZXZZrsVb9E
 photos:
   - name: >-
@@ -170,7 +168,97 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x885829a7c8a82fdb:0xd16f15bb66d99541!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 16
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
     - 'Tuesday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
     - 'Wednesday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
@@ -178,14 +266,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 2:30 PM, 4:30 – 9:30 PM'
     - 'Saturday: 4:30 – 9:30 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
-    - 'Thursday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
-    - 'Friday: 11:00 AM – 2:30 PM, 4:30 – 9:30 PM'
-    - 'Saturday: 4:30 – 9:30 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T01:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,10 +277,50 @@ secondary_opening_hours:
 phone: (864) 675-6360
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
-rating: '4.4'
-rating_count: 0
+rating: '4.5'
+rating_count: 95
 website: https://www.lovesushisc.com/
+description: >-
+  Discover Love Sushi in Greenville, SC$$$Love Sushi in Greenville, SC, stands
+  out as a welcoming Japanese restaurant offering a variety of fresh sushi and
+  creative specialty rolls perfect for a relaxed dining experience. This spot
+  emphasizes accessibility with features like wheelchair-friendly parking and
+  entrances, making it easy for everyone to enjoy authentic flavors in a
+  comfortable setting. Patrons can savor the diverse menu that highlights
+  top-rated sushi options, ideal for those searching for quality Japanese places
+  nearby. The restaurant operates with convenient hours, including evenings and
+  weekends, catering to both quick lunches and leisurely dinners. Whether you're
+  craving innovative rolls or classic dishes, this establishment delivers a
+  satisfying blend of taste and ambiance that appeals to sushi enthusiasts in
+  the area.
+generative_summary: >-
+  Discover Love Sushi in Greenville, SC$$$Love Sushi in Greenville, SC, stands
+  out as a welcoming Japanese restaurant offering a variety of fresh sushi and
+  creative specialty rolls perfect for a relaxed dining experience. This spot
+  emphasizes accessibility with features like wheelchair-friendly parking and
+  entrances, making it easy for everyone to enjoy authentic flavors in a
+  comfortable setting. Patrons can savor the diverse menu that highlights
+  top-rated sushi options, ideal for those searching for quality Japanese places
+  nearby. The restaurant operates with convenient hours, including evenings and
+  weekends, catering to both quick lunches and leisurely dinners. Whether you're
+  craving innovative rolls or classic dishes, this establishment delivers a
+  satisfying blend of taste and ambiance that appeals to sushi enthusiasts in
+  the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Raving About$$$Visitors to this sushi spot often praise the
+  fresh, flavorful rolls and attentive service that make every meal feel
+  special, based on its strong overall rating. Many highlight the variety of
+  options that cater to different tastes, from traditional favorites to unique
+  creations, helping it stand out among local eateries. Folks appreciate the
+  cozy atmosphere and efficient operations, noting it's a great choice for
+  casual get-togethers or solo visits when seeking reliable sushi close by.
+  While some mention minor waits during peak times, the general consensus leans
+  positive, with diners frequently returning for the consistent quality and
+  value. Overall, it's clear that this place earns its reputation as a go-to for
+  enjoyable Japanese dining experiences in the community.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +346,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

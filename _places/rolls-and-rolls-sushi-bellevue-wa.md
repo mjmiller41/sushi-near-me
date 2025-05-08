@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Rolls and Rolls + Sushi"
+title: Rolls and Rolls + Sushi
 permalink: /washington/bellevue/rolls-and-rolls-sushi.html
 stateAbbr: WA
 stateName: Washington
 cityName: Bellevue
 seo:
-  name: "Rolls and Rolls + Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Rolls and Rolls + Sushi serves delicious sushi in Bellevue, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJpamWX4xskFQRritF68ngAmk
 photos:
   - name: >-
@@ -169,7 +167,89 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x54906c8c5f96a9a5:0x6902e0c9eb452bae!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 2
+        hour: 10
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 10
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 10
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 10
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 10
+        minute: 30
+      close:
+        day: 6
+        hour: 14
+        minute: 30
+    - open:
+        day: 6
+        hour: 16
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 10:30 AM – 2:30 PM, 4:00 – 9:00 PM'
     - 'Wednesday: 10:30 AM – 2:30 PM, 4:00 – 9:00 PM'
@@ -177,14 +257,7 @@ opening_hours:
     - 'Friday: 10:30 AM – 2:30 PM, 4:00 – 9:00 PM'
     - 'Saturday: 10:30 AM – 2:30 PM, 4:00 – 9:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 10:30 AM – 2:30 PM, 4:00 – 9:00 PM'
-    - 'Wednesday: 10:30 AM – 2:30 PM, 4:00 – 9:00 PM'
-    - 'Thursday: 10:30 AM – 2:30 PM, 4:00 – 9:00 PM'
-    - 'Friday: 10:30 AM – 2:30 PM, 4:00 – 9:00 PM'
-    - 'Saturday: 10:30 AM – 2:30 PM, 4:00 – 9:00 PM'
-    - 'Sunday: Closed'
+  nextOpenTime: '2025-05-03T23:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,35 +269,267 @@ phone: (425) 454-4313
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.6'
-rating_count: 0
+rating_count: 455
 website: null
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Explore Rolls and Rolls + Sushi in Bellevue, WA$$$Rolls and Rolls + Sushi in
+  Bellevue, WA, offers a cozy spot for enjoying fresh Japanese cuisine, focusing
+  on an array of creative sushi options that highlight quality ingredients and
+  authentic flavors. This welcoming sushi restaurant features a menu centered
+  around expertly crafted rolls, alongside classic dishes and beverages like
+  sake and beer, making it a go-to choice for those seeking sushi places near
+  me. With thoughtful accessibility features and a comfortable atmosphere, it's
+  ideal for casual meals or quick takeout, appealing to anyone hunting for
+  top-rated sushi in the area. The spot's moderate pricing and convenient
+  location add to its charm, ensuring a satisfying experience for sushi
+  enthusiasts looking for reliable options close to home.
+generative_summary: >-
+  Explore Rolls and Rolls + Sushi in Bellevue, WA$$$Rolls and Rolls + Sushi in
+  Bellevue, WA, offers a cozy spot for enjoying fresh Japanese cuisine, focusing
+  on an array of creative sushi options that highlight quality ingredients and
+  authentic flavors. This welcoming sushi restaurant features a menu centered
+  around expertly crafted rolls, alongside classic dishes and beverages like
+  sake and beer, making it a go-to choice for those seeking sushi places near
+  me. With thoughtful accessibility features and a comfortable atmosphere, it's
+  ideal for casual meals or quick takeout, appealing to anyone hunting for
+  top-rated sushi in the area. The spot's moderate pricing and convenient
+  location add to its charm, ensuring a satisfying experience for sushi
+  enthusiasts looking for reliable options close to home.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJpamWX4xskFQRritF68ngAmk/reviews/ChdDSUhNMG9nS0VJQ0FnSUNQekpuVTNnRRAB
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        My favorite place for sushi. Absolutely incredible service. The food is
+        excellent. The thing I specifically like about the place - quite vibe of
+        classical music.
+      languageCode: en
+    originalText:
+      text: >-
+        My favorite place for sushi. Absolutely incredible service. The food is
+        excellent. The thing I specifically like about the place - quite vibe of
+        classical music.
+      languageCode: en
+    authorAttribution:
+      displayName: Anna Solodova
+      uri: https://www.google.com/maps/contrib/114193524865828590121/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUqHPeTJskNSSx9ftoT8UtrH35Hvtp02qxkI_3P_Oc1f_pi4NeP=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2024-11-22T03:55:32.670217Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNQekpuVTNnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNQekpuVTNnRRAB!2m1!1s0x54906c8c5f96a9a5:0x6902e0c9eb452bae
+  - name: >-
+      places/ChIJpamWX4xskFQRritF68ngAmk/reviews/ChZDSUhNMG9nS0VJQ0FnTURJeElMbUN3EAE
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 5
+    text:
+      text: >-
+        I had an amazing experience at this family-run sushi restaurant! The
+        staff were incredibly friendly.
+
+
+        The food was absolutely delicious. This place is a gem.
+
+
+        Highly recommend it to anyone looking for great food, great people, and
+        a cozy, inviting vibe. I'll definitely be coming back!
+      languageCode: en
+    originalText:
+      text: >-
+        I had an amazing experience at this family-run sushi restaurant! The
+        staff were incredibly friendly.
+
+
+        The food was absolutely delicious. This place is a gem.
+
+
+        Highly recommend it to anyone looking for great food, great people, and
+        a cozy, inviting vibe. I'll definitely be coming back!
+      languageCode: en
+    authorAttribution:
+      displayName: Borisav Grujicic
+      uri: https://www.google.com/maps/contrib/118165171282389862469/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVE8pMH1V0r6FEQ-bZkEE-9At3NulN_OriV3XjxsmcdfAEXak5j=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-07T05:33:15.035622Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURJeElMbUN3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJeElMbUN3EAE!2m1!1s0x54906c8c5f96a9a5:0x6902e0c9eb452bae
+  - name: >-
+      places/ChIJpamWX4xskFQRritF68ngAmk/reviews/ChZDSUhNMG9nS0VJQ0FnSUNwNHFPekJnEAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        This place makes the best Sushi rolls!! The portion sizes are huge, and
+        we tried 3 different rolls, all of which were excellent. The rolls are
+        filled with great quality sushi, tempura, avocado, and other fillings.
+        They are full of flavor and filled to the brim with fish! Definitely the
+        best rolls I’ve tried in Seattle, though I’ve been to plenty of sushi
+        restaurants. The server was so kind and attentive, and the restaurant &
+        bathroom were spotless. I would definitely come back here again!
+      languageCode: en
+    originalText:
+      text: >-
+        This place makes the best Sushi rolls!! The portion sizes are huge, and
+        we tried 3 different rolls, all of which were excellent. The rolls are
+        filled with great quality sushi, tempura, avocado, and other fillings.
+        They are full of flavor and filled to the brim with fish! Definitely the
+        best rolls I’ve tried in Seattle, though I’ve been to plenty of sushi
+        restaurants. The server was so kind and attentive, and the restaurant &
+        bathroom were spotless. I would definitely come back here again!
+      languageCode: en
+    authorAttribution:
+      displayName: Christine
+      uri: https://www.google.com/maps/contrib/110577894348754015143/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWMm5y0hCQvx2aGDu_7HruXiKjBBZk-pPucGg8nj58FArutV57lyw=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2023-07-31T16:46:04.805418Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNwNHFPekJnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNwNHFPekJnEAE!2m1!1s0x54906c8c5f96a9a5:0x6902e0c9eb452bae
+  - name: >-
+      places/ChIJpamWX4xskFQRritF68ngAmk/reviews/ChdDSUhNMG9nS0VJQ0FnSURfalk3a3p3RRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 1
+    text:
+      text: >-
+        We ordered 10 items from this restaurant tonight. My friend, who was in
+        Bellevue,  picked up the order and drove it to my house in Seattle,
+        where she also lives. Upon opening thr bag and sorting through all of
+        the food, we discovered that they had left out 2 Avocado Rolls. My
+        friend called them and asked for a refund for those 2 rolls that she
+        paid for, but which they didn't give her, and they told her they
+        couldn't refund her.
+
+
+        **Tl;dr: Don't eat here - if they leave food out of.your order, they
+        will not refund you.**
+
+
+        **Editing to respond to the restaurant's claim below that she asked for
+        a full refund - no, she did not. I heard the whole conversation. You
+        kept interrupting her when she tried to say "I'm asking for a refund for
+        the 2 avocado rolls." You replied over and over that it is your policy 
+        not to give any refunds.
+      languageCode: en
+    originalText:
+      text: >-
+        We ordered 10 items from this restaurant tonight. My friend, who was in
+        Bellevue,  picked up the order and drove it to my house in Seattle,
+        where she also lives. Upon opening thr bag and sorting through all of
+        the food, we discovered that they had left out 2 Avocado Rolls. My
+        friend called them and asked for a refund for those 2 rolls that she
+        paid for, but which they didn't give her, and they told her they
+        couldn't refund her.
+
+
+        **Tl;dr: Don't eat here - if they leave food out of.your order, they
+        will not refund you.**
+
+
+        **Editing to respond to the restaurant's claim below that she asked for
+        a full refund - no, she did not. I heard the whole conversation. You
+        kept interrupting her when she tried to say "I'm asking for a refund for
+        the 2 avocado rolls." You replied over and over that it is your policy 
+        not to give any refunds.
+      languageCode: en
+    authorAttribution:
+      displayName: Maria Pintar
+      uri: https://www.google.com/maps/contrib/105674725133727823494/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUwINmqdj5qG1FXYQB2EnRrEK_sX2X1E_0XdNyblPxmd6NN1XVC9g=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-01-26T08:06:39.529568Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURfalk3a3p3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURfalk3a3p3RRAB!2m1!1s0x54906c8c5f96a9a5:0x6902e0c9eb452bae
+  - name: >-
+      places/ChIJpamWX4xskFQRritF68ngAmk/reviews/ChZDSUhNMG9nS0VJQ0FnSURPNl9fYlFBEAE
+    relativePublishTimeDescription: 2 years ago
+    rating: 4
+    text:
+      text: >-
+        I love this place. Would have given it 5 stars if it wasn't next to the
+        salon. Walking in was unpleasant due to the smell coming from the salon
+        besides that the service was fast, super friendly, and delicious food.
+        Everything we had was fresh, perfectly made, and delicious. We even
+        ordered the two bento boxes to go. If you are on the hunt for a good
+        sushi restaurant highly recommended this place.
+      languageCode: en
+    originalText:
+      text: >-
+        I love this place. Would have given it 5 stars if it wasn't next to the
+        salon. Walking in was unpleasant due to the smell coming from the salon
+        besides that the service was fast, super friendly, and delicious food.
+        Everything we had was fresh, perfectly made, and delicious. We even
+        ordered the two bento boxes to go. If you are on the hunt for a good
+        sushi restaurant highly recommended this place.
+      languageCode: en
+    authorAttribution:
+      displayName: Kimberly Pham
+      uri: https://www.google.com/maps/contrib/109479845758910778779/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWO1dARYUL2Mzc-rZaF6IoFRL6CQVAIOAT6Zusl515wQAooebafSw=s128-c0x00000000-cc-rp-mo-ba7
+    publishTime: '2022-07-14T16:23:01.304454Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURPNl9fYlFBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURPNl9fYlFBEAE!2m1!1s0x54906c8c5f96a9a5:0x6902e0c9eb452bae
+review_summary: >-
+  Insights from Customer Feedback$$$Visitors to this sushi restaurant often rave
+  about the delicious, generously portioned rolls and fresh fish selections that
+  make every bite feel special and satisfying. Many folks appreciate the
+  friendly service and relaxed vibe, which create a welcoming environment
+  perfect for a laid-back meal with friends or family. While most experiences
+  highlight the spot's great value and cozy feel, a few mentions note occasional
+  hiccups with order handling, though these seem rare compared to the overall
+  positive vibes. If you're on the hunt for sushi restaurants near me, this
+  place generally delivers solid flavors and attentive staff that keep diners
+  coming back for more. All in all, it's a solid pick for anyone craving quality
+  Japanese fare without the fuss.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
+curbside_pickup: true
 delivery: null
-dine_in: null
-good_for_children: null
+dine_in: true
+good_for_children: true
 good_for_groups: null
-good_for_sports: null
+good_for_sports: false
 live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+menu_for_children: false
+outdoor_seating: false
+reservable: false
+restroom: true
+serves_beer: true
+serves_breakfast: true
+serves_brunch: true
+serves_cocktails: false
 serves_coffee: null
-serves_dinner: null
+serves_dinner: true
 serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Nothing but the namesake items make up the menu at this dine-in or take-out
+  spot with 101 rolls.
 
 ---

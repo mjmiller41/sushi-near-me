@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Absolute Noodle and Sushi Bar"
+title: Absolute Noodle and Sushi Bar
 permalink: /district-of-columbia/washington/absolute-noodle-and-sushi-bar.html
 stateAbbr: DC
 stateName: District of Columbia
 cityName: Washington
 seo:
-  name: "Absolute Noodle and Sushi Bar"
-  type: Restaurant
+  type: restaurant
   links: https://absolutenoodlesushi.com/
-description: "Custom noodle bowls plus classic & inventive Pan-Asian dishes served in a relaxed, modern space. Absolute Noodle and Sushi Bar serves delicious sushi in Washington, District of Columbia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ14Ze0423t4kRtHBdW7SIpcM
 photos:
   - name: >-
@@ -183,12 +181,51 @@ price_range: $20 &mdash; 30
 rating: '4.4'
 rating_count: 0
 website: https://absolutenoodlesushi.com/
+description: >-
+  Discover Absolute Noodle and Sushi Bar in Washington, DC$$$Absolute Noodle and
+  Sushi Bar in Washington, DC, offers a welcoming atmosphere for enjoying fresh
+  Pan-Asian cuisine, including custom noodle bowls and creative sushi options
+  that highlight authentic flavors. This Japanese restaurant features a modern,
+  relaxed setting with thoughtful touches like wheelchair-accessible entrances
+  and seating, making it easy for everyone to savor a comfortable meal. Diners
+  can explore a variety of inventive dishes alongside vegetarian choices, all at
+  moderate prices that appeal to those seeking quality without breaking the
+  bank. Whether you're opting for dine-in, takeout, or delivery, the spot pairs
+  its offerings with beverages like beer, wine, and cocktails to enhance the
+  overall experience.
+generative_summary: >-
+  Discover Absolute Noodle and Sushi Bar in Washington, DC$$$Absolute Noodle and
+  Sushi Bar in Washington, DC, offers a welcoming atmosphere for enjoying fresh
+  Pan-Asian cuisine, including custom noodle bowls and creative sushi options
+  that highlight authentic flavors. This Japanese restaurant features a modern,
+  relaxed setting with thoughtful touches like wheelchair-accessible entrances
+  and seating, making it easy for everyone to savor a comfortable meal. Diners
+  can explore a variety of inventive dishes alongside vegetarian choices, all at
+  moderate prices that appeal to those seeking quality without breaking the
+  bank. Whether you're opting for dine-in, takeout, or delivery, the spot pairs
+  its offerings with beverages like beer, wine, and cocktails to enhance the
+  overall experience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - ChZDSUhNMG9nS0VJQ0FnSUR2cTRhZUd3EAE
   - ChdDSUhNMG9nS0VJQ0FnSUM3alpQNzhnRRAB
   - ChdDSUhNMG9nS0VJQ0FnSURuOW8zZ25RRRAB
   - ChdDSUhNMG9nS0VJQ0FnSUQ3Mjhib3J3RRAB
   - ChdDSUhNMG9nS0VJQ0FnSUNfOWRYTjJ3RRAB
+review_summary: >-
+  What Visitors Are Saying About This Sushi Spot$$$Visitors to this sushi
+  restaurant in Washington, DC, often rave about the fresh ingredients and
+  flavorful dishes that make every bite memorable, earning it high marks for
+  taste and variety. Many appreciate the efficient service and cozy vibe that
+  create a pleasant dining experience, especially for groups or families looking
+  for reliable options nearby. Feedback frequently highlights the generous
+  portions and creative twists on classics, helping it stand out among local
+  eateries for those searching for top-rated sushi spots. While some note minor
+  waits during peak times, the overall consensus leans positive, with folks
+  enjoying the welcoming environment and solid value that keeps them coming
+  back. If you're exploring sushi places near you, this one delivers a
+  satisfying mix of quality and convenience that leaves a good impression.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidStreetParking: true
 payment_options:
@@ -218,8 +255,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Custom noodle bowls plus classic & inventive Pan-Asian dishes served in a
   relaxed, modern space.
 

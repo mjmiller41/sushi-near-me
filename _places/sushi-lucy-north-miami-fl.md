@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Lucy"
+title: Sushi Lucy
 permalink: /florida/north-miami/sushi-lucy.html
 stateAbbr: FL
 stateName: Florida
 cityName: North Miami
 seo:
-  name: "Sushi Lucy"
-  type: Restaurant
+  type: restaurant
   links: https://sushilucy.toast.site/
-description: "Sushi Lucy serves delicious sushi in North Miami, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJAaaFUnOy2YgRh5x0YouPMLA
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: null
 rating: '4.4'
 rating_count: 0
 website: https://sushilucy.toast.site/
+description: >-
+  Explore Sushi Lucy in North Miami, FL$$$Sushi Lucy in North Miami, FL, offers
+  a vibrant and innovative dining experience centered around its unique conveyor
+  belt system, bringing fresh sushi options right to your table. This spot
+  stands out for its high-quality selections, including a variety of flavorful
+  rolls and dishes that highlight the best of Japanese-inspired cuisine, making
+  it a go-to choice for those seeking sushi restaurants nearby. The welcoming
+  atmosphere combines casual vibes with thoughtful details, perfect for enjoying
+  a relaxed meal with friends or family while savoring cold beverages like beer.
+  Accessibility features such as wheelchair-friendly entrances and seating add
+  to its appeal, ensuring everyone can enjoy the fresh flavors in a comfortable
+  setting. Overall, it's an excellent option for anyone exploring top-rated
+  sushi in the area, blending fun and freshness into every visit.
+generative_summary: >-
+  Explore Sushi Lucy in North Miami, FL$$$Sushi Lucy in North Miami, FL, offers
+  a vibrant and innovative dining experience centered around its unique conveyor
+  belt system, bringing fresh sushi options right to your table. This spot
+  stands out for its high-quality selections, including a variety of flavorful
+  rolls and dishes that highlight the best of Japanese-inspired cuisine, making
+  it a go-to choice for those seeking sushi restaurants nearby. The welcoming
+  atmosphere combines casual vibes with thoughtful details, perfect for enjoying
+  a relaxed meal with friends or family while savoring cold beverages like beer.
+  Accessibility features such as wheelchair-friendly entrances and seating add
+  to its appeal, ensuring everyone can enjoy the fresh flavors in a comfortable
+  setting. Overall, it's an excellent option for anyone exploring top-rated
+  sushi in the area, blending fun and freshness into every visit.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJAaaFUnOy2YgRh5x0YouPMLA/reviews/ChdDSUhNMG9nS0VJQ0FnTURnbjYzZHpRRRAB
@@ -398,6 +423,21 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNWMy1MUkNBEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNWMy1MUkNBEAE!2m1!1s0x88d9b2735285a601:0xb0308f8b62749c87
+review_summary: >-
+  Insights from Customer Feedback$$$Visitors to this sushi spot often praise the
+  incredibly fresh rolls and creative presentation, making it a fun pick for
+  anyone craving quality Japanese fare in a lively environment. While some
+  mention that portions might feel small for the price and service can vary
+  during busy times, many agree that the overall vibe and beer selections keep
+  things enjoyable and worth trying. Folks appreciate the welcoming atmosphere
+  that's great for groups, with highlights on the tasty dishes that deliver a
+  satisfying meal despite occasional waits. In general, it's seen as a hidden
+  gem for sushi enthusiasts, where the positives like fresh ingredients and
+  friendly service outweigh any minor hiccups, encouraging repeat visits for
+  those searching for the best sushi near me. If you're in the mood for a casual
+  outing, this place delivers a solid experience with room for even better
+  service as it grows.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -430,7 +470,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

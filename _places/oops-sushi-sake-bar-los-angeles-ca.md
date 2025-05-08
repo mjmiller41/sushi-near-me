@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Oops! Sushi & Sake Bar"
+title: Oops! Sushi & Sake Bar
 permalink: /california/los-angeles/oops-sushi-sake-bar.html
 stateAbbr: CA
 stateName: California
 cityName: Los Angeles
 seo:
-  name: "Oops! Sushi & Sake Bar"
-  type: Restaurant
+  type: restaurant
   links: http://oopssushi.com/
-description: "Oops! Sushi & Sake Bar serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ2bg1jwi7woARDqDZbO7YxeM
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c2bb088f35b8d9:0xe3c5d8ee6cd9a00e!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 12
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 12
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 12
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 12
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 12
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 12:00 – 9:30 PM'
     - 'Tuesday: 12:00 – 9:30 PM'
     - 'Wednesday: 12:00 – 9:30 PM'
@@ -178,54 +234,424 @@ opening_hours:
     - 'Friday: 12:00 – 10:00 PM'
     - 'Saturday: 12:00 – 9:30 PM'
     - 'Sunday: 12:00 – 9:30 PM'
-  current:
-    - 'Monday: 12:00 – 9:30 PM'
-    - 'Tuesday: 12:00 – 9:30 PM'
-    - 'Wednesday: 12:00 – 9:30 PM'
-    - 'Thursday: 12:00 – 9:30 PM'
-    - 'Friday: 12:00 – 10:00 PM'
-    - 'Saturday: 12:00 – 9:30 PM'
-    - 'Sunday: 12:00 – 9:30 PM'
+  nextCloseTime: '2025-05-04T04:30:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 0
+        close:
+          day: 0
+          hour: 21
+          minute: 30
+      - open:
+          day: 1
+          hour: 17
+          minute: 0
+        close:
+          day: 1
+          hour: 19
+          minute: 0
+      - open:
+          day: 2
+          hour: 17
+          minute: 0
+        close:
+          day: 2
+          hour: 19
+          minute: 0
+      - open:
+          day: 3
+          hour: 17
+          minute: 0
+        close:
+          day: 3
+          hour: 19
+          minute: 0
+      - open:
+          day: 4
+          hour: 17
+          minute: 0
+        close:
+          day: 4
+          hour: 19
+          minute: 0
+      - open:
+          day: 5
+          hour: 17
+          minute: 0
+        close:
+          day: 5
+          hour: 19
+          minute: 0
+      - open:
+          day: 6
+          hour: 12
+          minute: 0
+        close:
+          day: 6
+          hour: 17
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 5:00 – 7:00 PM'
+      - 'Tuesday: 5:00 – 7:00 PM'
+      - 'Wednesday: 5:00 – 7:00 PM'
+      - 'Thursday: 5:00 – 7:00 PM'
+      - 'Friday: 5:00 – 7:00 PM'
+      - 'Saturday: 12:00 – 5:00 PM'
+      - 'Sunday: 12:00 – 9:30 PM'
+    secondaryHoursType: HAPPY_HOUR
+    nextCloseTime: '2025-05-04T00:00:00Z'
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 0
+        close:
+          day: 0
+          hour: 21
+          minute: 30
+      - open:
+          day: 1
+          hour: 12
+          minute: 0
+        close:
+          day: 1
+          hour: 21
+          minute: 30
+      - open:
+          day: 2
+          hour: 12
+          minute: 0
+        close:
+          day: 2
+          hour: 21
+          minute: 30
+      - open:
+          day: 3
+          hour: 12
+          minute: 0
+        close:
+          day: 3
+          hour: 21
+          minute: 30
+      - open:
+          day: 4
+          hour: 12
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 30
+      - open:
+          day: 5
+          hour: 12
+          minute: 0
+        close:
+          day: 5
+          hour: 22
+          minute: 0
+      - open:
+          day: 6
+          hour: 12
+          minute: 0
+        close:
+          day: 6
+          hour: 21
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 12:00 – 9:30 PM'
+      - 'Tuesday: 12:00 – 9:30 PM'
+      - 'Wednesday: 12:00 – 9:30 PM'
+      - 'Thursday: 12:00 – 9:30 PM'
+      - 'Friday: 12:00 – 10:00 PM'
+      - 'Saturday: 12:00 – 9:30 PM'
+      - 'Sunday: 12:00 – 9:30 PM'
+    secondaryHoursType: DELIVERY
+    nextCloseTime: '2025-05-04T04:30:00Z'
 phone: (310) 478-8991
 price_level: PRICE_LEVEL_MODERATE
 price_range: $30 &ndash; $50
 rating: '4.5'
-rating_count: 0
+rating_count: 323
 website: http://oopssushi.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Oops! Sushi & Sake Bar in Los Angeles$$$Oops! Sushi & Sake Bar in Los
+  Angeles, CA, stands out as a contemporary Japanese spot where traditional and
+  creative sushi rolls take center stage in a relaxed setting. This sushi
+  restaurant near you features an array of stylish rolls paired with enticing
+  happy-hour specials on fresh dishes and sake, making it a go-to choice for
+  those seeking flavorful Japanese cuisine. Accessibility is a key highlight,
+  with options like wheelchair-friendly parking and seating that ensure everyone
+  can enjoy the experience comfortably. The laid-back atmosphere complements the
+  menu's variety, from classic nigiri to innovative combinations, appealing to
+  anyone exploring top-rated sushi options in the area. Open daily with extended
+  hours on weekends, it's an ideal destination for casual diners looking for
+  quality sushi restaurants close to home.
+generative_summary: >-
+  Discover Oops! Sushi & Sake Bar in Los Angeles$$$Oops! Sushi & Sake Bar in Los
+  Angeles, CA, stands out as a contemporary Japanese spot where traditional and
+  creative sushi rolls take center stage in a relaxed setting. This sushi
+  restaurant near you features an array of stylish rolls paired with enticing
+  happy-hour specials on fresh dishes and sake, making it a go-to choice for
+  those seeking flavorful Japanese cuisine. Accessibility is a key highlight,
+  with options like wheelchair-friendly parking and seating that ensure everyone
+  can enjoy the experience comfortably. The laid-back atmosphere complements the
+  menu's variety, from classic nigiri to innovative combinations, appealing to
+  anyone exploring top-rated sushi options in the area. Open daily with extended
+  hours on weekends, it's an ideal destination for casual diners looking for
+  quality sushi restaurants close to home.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ2bg1jwi7woARDqDZbO7YxeM/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRX1ppNUFnEAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Oops is one of my favorite sushi spots on the west side. They have the
+        best happy hour deals, my favorite roll (the hot night) is only $12
+        during HH! & they have happy hour prices all day Sunday! The spicy tuna
+        bites are amazing & the shisito peppers are delicious. Highly recommend
+        coming here!
+      languageCode: en
+    originalText:
+      text: >-
+        Oops is one of my favorite sushi spots on the west side. They have the
+        best happy hour deals, my favorite roll (the hot night) is only $12
+        during HH! & they have happy hour prices all day Sunday! The spicy tuna
+        bites are amazing & the shisito peppers are delicious. Highly recommend
+        coming here!
+      languageCode: en
+    authorAttribution:
+      displayName: Kayla Jochimsen
+      uri: https://www.google.com/maps/contrib/102208684198820940808/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXFMNC6RXJ-o81D07F_1gdzqJL_Y1_Gx6IYYt6qFmvYzL0RU2OK=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-03-06T17:43:30.501820Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNRX1ppNUFnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNRX1ppNUFnEAE!2m1!1s0x80c2bb088f35b8d9:0xe3c5d8ee6cd9a00e
+  - name: >-
+      places/ChIJ2bg1jwi7woARDqDZbO7YxeM/reviews/ChdDSUhNMG9nS0VJQ0FnSURqdzlTYnhBRRAB
+    relativePublishTimeDescription: 12 months ago
+    rating: 5
+    text:
+      text: >-
+        Strange name but delicious sushi. We stopped in yesterday for an
+        unplanned Sunday dinner and we were both really impressed with Oops!
+        It’s situated in the corner of a small strip mall in a quiet part of
+        Sawtelle. Parking in the parking lot can be a bit tricky because the
+        spaces are small and close together and it was completely full when we
+        arrived for a 6 PM dinner but we were able to find neighborhood parking
+        on the block next to the strip mall. We were seated right when we
+        arrived and had a great dinner at the sushi bar. I was really impressed
+        with all of the options on the menu and the pricing is very fair
+        compared to other sushi spots close by.
+
+
+        As always, we got a mix of items and shared everything. We started off
+        with the Miso Soup, which is something I order all the time, next came
+        the Softshell Crab, which was terrific. It wasn’t over fried and still
+        had the great soft shell flavors and I would highly recommend ordering
+        it. Next, we shared the Yellowtail Sampler, and it was a perfect amount
+        with four pieces of yellowtail nigiri. Finally, we split three rolls:
+        the Barrington, OMG, and Oops (I Did it Again). All three were really
+        delicious, but our favorite was the OMG roll. It was packed with
+        different fish, basically a new take on the Rainbow Roll.
+
+
+        Everything was prepared with a lot of love and came out very quickly, so
+        it’s the sort of place that you can dash in and out or stay a while with
+        friends, family, or a date. It’s fairly small on the inside, but in a
+        cozy way. Definitely will be back in the near future to try more items
+        and would recommend to anyone else who is a sushi fan to do the same.
+      languageCode: en
+    originalText:
+      text: >-
+        Strange name but delicious sushi. We stopped in yesterday for an
+        unplanned Sunday dinner and we were both really impressed with Oops!
+        It’s situated in the corner of a small strip mall in a quiet part of
+        Sawtelle. Parking in the parking lot can be a bit tricky because the
+        spaces are small and close together and it was completely full when we
+        arrived for a 6 PM dinner but we were able to find neighborhood parking
+        on the block next to the strip mall. We were seated right when we
+        arrived and had a great dinner at the sushi bar. I was really impressed
+        with all of the options on the menu and the pricing is very fair
+        compared to other sushi spots close by.
+
+
+        As always, we got a mix of items and shared everything. We started off
+        with the Miso Soup, which is something I order all the time, next came
+        the Softshell Crab, which was terrific. It wasn’t over fried and still
+        had the great soft shell flavors and I would highly recommend ordering
+        it. Next, we shared the Yellowtail Sampler, and it was a perfect amount
+        with four pieces of yellowtail nigiri. Finally, we split three rolls:
+        the Barrington, OMG, and Oops (I Did it Again). All three were really
+        delicious, but our favorite was the OMG roll. It was packed with
+        different fish, basically a new take on the Rainbow Roll.
+
+
+        Everything was prepared with a lot of love and came out very quickly, so
+        it’s the sort of place that you can dash in and out or stay a while with
+        friends, family, or a date. It’s fairly small on the inside, but in a
+        cozy way. Definitely will be back in the near future to try more items
+        and would recommend to anyone else who is a sushi fan to do the same.
+      languageCode: en
+    authorAttribution:
+      displayName: Zan Lee
+      uri: https://www.google.com/maps/contrib/108779042509160492676/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUN5C3H72aGGcR8PtqR1l-OglvxT_md2x261gTi8kiOsK2nOLA=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2024-05-06T23:13:38.177918Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURqdzlTYnhBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURqdzlTYnhBRRAB!2m1!1s0x80c2bb088f35b8d9:0xe3c5d8ee6cd9a00e
+  - name: >-
+      places/ChIJ2bg1jwi7woARDqDZbO7YxeM/reviews/ChdDSUhNMG9nS0VJQ0FnSUNqa1pLOXNnRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        This is a very hard post for me to make. I want to keep this place a
+        secret but it really is to good to not share! I have been going here for
+        over two years now and this is my favorite sushi restaurant in all of
+        LA. The fish is so fresh the sauce is lite and the atmosphere (in my
+        opinion) is perfect. I highly suggest this place! The lemon roll is
+        where it’s at.
+      languageCode: en
+    originalText:
+      text: >-
+        This is a very hard post for me to make. I want to keep this place a
+        secret but it really is to good to not share! I have been going here for
+        over two years now and this is my favorite sushi restaurant in all of
+        LA. The fish is so fresh the sauce is lite and the atmosphere (in my
+        opinion) is perfect. I highly suggest this place! The lemon roll is
+        where it’s at.
+      languageCode: en
+    authorAttribution:
+      displayName: George Ballenger
+      uri: https://www.google.com/maps/contrib/113063586567855996127/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXF-cQMluL0Wih8SWT7fXrYDedlTUQrvzrMobZ4HYh8pAIyOXEGvg=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-04-22T18:48:24.312981Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNqa1pLOXNnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNqa1pLOXNnRRAB!2m1!1s0x80c2bb088f35b8d9:0xe3c5d8ee6cd9a00e
+  - name: >-
+      places/ChIJ2bg1jwi7woARDqDZbO7YxeM/reviews/ChdDSUhNMG9nS0VJQ0FnSUNoME5YZF9nRRAB
+    relativePublishTimeDescription: 2 years ago
+    rating: 5
+    text:
+      text: >-
+        Wow simply amazing!! My boyfriend and I came here for the first time and
+        we were very satisfied. Out of all the places we've tried this is by far
+        the best in town. The "lemon" roll was my favorite but all of the rolls
+        were so yummy and fresh. The chef is very nice and very professional.
+        Love the atmosphere  10/10 🍣
+      languageCode: en
+    originalText:
+      text: >-
+        Wow simply amazing!! My boyfriend and I came here for the first time and
+        we were very satisfied. Out of all the places we've tried this is by far
+        the best in town. The "lemon" roll was my favorite but all of the rolls
+        were so yummy and fresh. The chef is very nice and very professional.
+        Love the atmosphere  10/10 🍣
+      languageCode: en
+    authorAttribution:
+      displayName: Mariela Carrillo
+      uri: https://www.google.com/maps/contrib/108944763028549722791/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUACYimbD0ALPMuXqsrm1oN0cBq_0pkywoMx7VvWJosRSe14MSz=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2023-02-07T08:43:30.108702Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNoME5YZF9nRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNoME5YZF9nRRAB!2m1!1s0x80c2bb088f35b8d9:0xe3c5d8ee6cd9a00e
+  - name: >-
+      places/ChIJ2bg1jwi7woARDqDZbO7YxeM/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3a0xDLTFnRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        The Baked Lobster Roll was amazing. We had three specialty rolls and
+        three types of sushi and the garlic edamame. No complaints. Service was
+        quick and friendly and everything came out as it was ready so it was all
+        fresh! The yellowtail with the ginger/ponzu was also magical.  Would
+        absolutely return!
+      languageCode: en
+    originalText:
+      text: >-
+        The Baked Lobster Roll was amazing. We had three specialty rolls and
+        three types of sushi and the garlic edamame. No complaints. Service was
+        quick and friendly and everything came out as it was ready so it was all
+        fresh! The yellowtail with the ginger/ponzu was also magical.  Would
+        absolutely return!
+      languageCode: en
+    authorAttribution:
+      displayName: Catherine Lovejoy
+      uri: https://www.google.com/maps/contrib/114011686061021177738/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIqYXiTsx8ldTGaT2kSI75UYsmSOwZ2drCQ3O-GisPPD64Jgg=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-16T01:15:05.044498Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUN3a0xDLTFnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUN3a0xDLTFnRRAB!2m1!1s0x80c2bb088f35b8d9:0xe3c5d8ee6cd9a00e
+review_summary: >-
+  What Customers Love About This Sushi Spot$$$Visitors often rave about the
+  fresh and inventive rolls, like the baked lobster and specialty options, which
+  deliver bold flavors and generous portions that make every meal feel
+  satisfying. Many appreciate the fantastic happy-hour deals that keep things
+  affordable without skimping on quality, turning it into a favorite for casual
+  evenings out. The service stands out as quick and friendly, ensuring your
+  visit is smooth and enjoyable from start to finish, even during busier times.
+  Folks frequently mention the cozy vibe and well-prepared dishes, such as
+  garlic edamame and yellowtail, that add to the overall appeal for groups or
+  solo diners. Overall, it's a solid pick for anyone hunting for reliable sushi
+  places near me, with the consensus leaning positive on its fresh ingredients
+  and welcoming environment.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
 good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Small, contemporary Japanese option with stylish sushi rolls & happy-hour
+  deals on food & sake.
 
 ---

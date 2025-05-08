@@ -5,4 +5,5 @@ permalink: /pennsylvania/carlisle/
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Carlisle
+
 ---

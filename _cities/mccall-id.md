@@ -5,4 +5,5 @@ permalink: /idaho/mccall/
 stateAbbr: ID
 stateName: Idaho
 cityName: McCall
+
 ---

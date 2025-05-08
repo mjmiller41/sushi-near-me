@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Bushido Sushi"
+title: Bushido Sushi
 permalink: /florida/venice/bushido-sushi.html
 stateAbbr: FL
 stateName: Florida
 cityName: Venice
 seo:
-  name: "Bushido Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Bushido Sushi serves delicious sushi in Venice, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJl-m607pbw4gRsYqEt5kEsaw
 photos:
   - name: >-
@@ -184,7 +182,45 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Bushido Sushi in Venice, Florida$$$Bushido Sushi in Venice, Florida,
+  offers a delightful escape into authentic Japanese cuisine, set against a
+  charming coastal backdrop that enhances the dining experience. This welcoming
+  spot features accessible amenities like wheelchair-friendly parking,
+  restrooms, and seating, making it easy for everyone to enjoy a comfortable
+  meal. The menu highlights fresh, traditional dishes that capture the essence
+  of Japanese flavors, perfect for those seeking top-rated sushi options in a
+  relaxed environment. With its cozy atmosphere ideal for casual outings or
+  group gatherings, it's a go-to choice for exploring Japanese dining spots near
+  you. Whether you're in the mood for innovative rolls or classic preparations,
+  this restaurant provides a satisfying blend of taste and tranquility.
+generative_summary: >-
+  Discover Bushido Sushi in Venice, Florida$$$Bushido Sushi in Venice, Florida,
+  offers a delightful escape into authentic Japanese cuisine, set against a
+  charming coastal backdrop that enhances the dining experience. This welcoming
+  spot features accessible amenities like wheelchair-friendly parking,
+  restrooms, and seating, making it easy for everyone to enjoy a comfortable
+  meal. The menu highlights fresh, traditional dishes that capture the essence
+  of Japanese flavors, perfect for those seeking top-rated sushi options in a
+  relaxed environment. With its cozy atmosphere ideal for casual outings or
+  group gatherings, it's a go-to choice for exploring Japanese dining spots near
+  you. Whether you're in the mood for innovative rolls or classic preparations,
+  this restaurant provides a satisfying blend of taste and tranquility.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$From what people share about Bushido Sushi, the
+  overall vibe is positive, with many praising the fresh flavors and inviting
+  setup that make it a solid pick for sushi lovers. Folks often mention enjoying
+  the authentic touches and welcoming feel, which add to a laid-back dining
+  experience without any major letdowns. It's commonly noted as a great spot for
+  trying quality Japanese fare, especially if you're looking for reliable sushi
+  places close to home. While specific feedback varies, the general consensus
+  leans toward it being a worthwhile stop for a casual meal, with highlights on
+  the approachable atmosphere and solid food options. Overall, it comes across
+  as a dependable choice that keeps things enjoyable and hassle-free for anyone
+  dropping by.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +246,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

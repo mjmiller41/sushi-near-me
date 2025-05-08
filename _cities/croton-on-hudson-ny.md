@@ -5,4 +5,5 @@ permalink: /new-york/croton-on-hudson/
 stateAbbr: NY
 stateName: New York
 cityName: Croton-On-Hudson
+
 ---

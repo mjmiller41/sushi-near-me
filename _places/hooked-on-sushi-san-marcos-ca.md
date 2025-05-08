@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Hooked On Sushi"
+title: Hooked On Sushi
 permalink: /california/san-marcos/hooked-on-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: San Marcos
 seo:
-  name: "Hooked On Sushi"
-  type: Restaurant
-  links: null
-description: "Hooked On Sushi serves delicious sushi in San Marcos, California. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.hookedonsushi.com/
 place_id: ChIJ9dz7HYN13IARbW96fSL0xiY
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80dc75831dfbdcf5:0x26c6f4227d7a6f6d!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:30 AM – 9:00 PM'
+    - 'Tuesday: 11:30 AM – 9:00 PM'
+    - 'Wednesday: 11:30 AM – 9:00 PM'
+    - 'Thursday: 11:30 AM – 9:00 PM'
+    - 'Friday: 11:30 AM – 9:30 PM'
+    - 'Saturday: 11:30 AM – 9:30 PM'
+    - 'Sunday: 12:00 – 8:00 PM'
+  nextCloseTime: '2025-05-04T04:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,50 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
+phone: (760) 471-4700
 price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+price_range: $10 &ndash; $20
+rating: '3.8'
+rating_count: 93
+website: https://www.hookedonsushi.com/
+description: >-
+  Explore Hooked On Sushi in San Marcos, CA$$$Hooked On Sushi in San Marcos, CA,
+  stands out as a welcoming sushi restaurant offering fresh Japanese-inspired
+  dishes in a convenient neighborhood setting. This spot emphasizes
+  accessibility with features like wheelchair-friendly parking and entrances,
+  making it easy for everyone to enjoy a meal. Diners can savor a variety of
+  sushi options, from classic rolls to creative specials, all prepared with
+  high-quality ingredients that highlight the flavors of the sea. The restaurant
+  maintains a cozy atmosphere, perfect for casual lunches or dinners, and
+  operates with extended hours to accommodate busy schedules. Whether you're
+  searching for top-rated sushi places nearby, it's a solid choice for those
+  craving authentic tastes without the hassle.
+generative_summary: >-
+  Explore Hooked On Sushi in San Marcos, CA$$$Hooked On Sushi in San Marcos, CA,
+  stands out as a welcoming sushi restaurant offering fresh Japanese-inspired
+  dishes in a convenient neighborhood setting. This spot emphasizes
+  accessibility with features like wheelchair-friendly parking and entrances,
+  making it easy for everyone to enjoy a meal. Diners can savor a variety of
+  sushi options, from classic rolls to creative specials, all prepared with
+  high-quality ingredients that highlight the flavors of the sea. The restaurant
+  maintains a cozy atmosphere, perfect for casual lunches or dinners, and
+  operates with extended hours to accommodate busy schedules. Whether you're
+  searching for top-rated sushi places nearby, it's a solid choice for those
+  craving authentic tastes without the hassle.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Visitor Feedback Highlights$$$Visitors to this sushi restaurant often praise
+  the fresh flavors and generous portions, making it a go-to for anyone hunting
+  for great sushi close to home. Many comments highlight the friendly service
+  and quick preparation, which add to the overall enjoyable experience without
+  any major complaints. While some note that wait times can vary during peak
+  hours, the general consensus is that the quality of the food makes it worth
+  the visit. Folks appreciate the variety of options that cater to different
+  tastes, helping it maintain a solid reputation among local sushi enthusiasts.
+  Overall, if you're exploring the best sushi near me, this place delivers a
+  reliably positive vibe that keeps people coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +311,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

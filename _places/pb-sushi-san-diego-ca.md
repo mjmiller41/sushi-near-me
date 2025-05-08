@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "PB Sushi"
+title: PB Sushi
 permalink: /california/san-diego/pb-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: San Diego
 seo:
-  name: "PB Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.pbsushi.net/
-description: "Casual, colorful place with a long sushi bar for sashimi, nigiri & unique maki, plus imported beer. PB Sushi serves delicious sushi in San Diego, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJfwGsO-sB3IARgC4QersmNIA
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: null
 rating: '4.1'
 rating_count: 0
 website: http://www.pbsushi.net/
+description: >-
+  Discover PB Sushi in San Diego, CA$$$Nestled in the vibrant neighborhood of
+  Pacific Beach in San Diego, CA, PB Sushi stands out as a welcoming spot for
+  fresh sushi and Japanese-inspired dishes. This casual eatery boasts a colorful
+  atmosphere with a long sushi bar, perfect for enjoying sashimi, nigiri, and
+  creative rolls that highlight unique flavors and high-quality ingredients.
+  Visitors can pair their meals with a selection of sake, beer, and wine in a
+  comfortable setting that emphasizes accessibility, including
+  wheelchair-friendly features throughout. Whether you're seeking top sushi
+  options near you or a relaxed place to unwind, PB Sushi delivers a satisfying
+  experience with moderate pricing and options for outdoor seating. Its focus on
+  fresh seafood and thoughtful ambiance makes it a go-to choice for anyone
+  exploring sushi restaurants in the area.
+generative_summary: >-
+  Discover PB Sushi in San Diego, CA$$$Nestled in the vibrant neighborhood of
+  Pacific Beach in San Diego, CA, PB Sushi stands out as a welcoming spot for
+  fresh sushi and Japanese-inspired dishes. This casual eatery boasts a colorful
+  atmosphere with a long sushi bar, perfect for enjoying sashimi, nigiri, and
+  creative rolls that highlight unique flavors and high-quality ingredients.
+  Visitors can pair their meals with a selection of sake, beer, and wine in a
+  comfortable setting that emphasizes accessibility, including
+  wheelchair-friendly features throughout. Whether you're seeking top sushi
+  options near you or a relaxed place to unwind, PB Sushi delivers a satisfying
+  experience with moderate pricing and options for outdoor seating. Its focus on
+  fresh seafood and thoughtful ambiance makes it a go-to choice for anyone
+  exploring sushi restaurants in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJfwGsO-sB3IARgC4QersmNIA/reviews/ChdDSUhNMG9nS0VJQ0FnTUNRMXY3ZTlnRRAB
@@ -344,6 +369,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURJOUs2c2VREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJOUs2c2VREAE!2m1!1s0x80dc01eb3bac017f:0x803426bb7a102e80
+review_summary: >-
+  What Customers Are Saying About This Spot$$$Folks rave about the fresh and
+  inventive rolls at this laid-back sushi joint, often highlighting the generous
+  portions and tasty specials that keep them coming back for more. Many
+  appreciate the friendly service and cozy vibe, along with fun additions like
+  plum wine that add to the overall enjoyment. While most experiences are
+  positive, a few mentions note occasional mix-ups with orders, though the rest
+  of the food generally hits the mark for its value. Overall, it's clear that
+  this place delivers a solid meal that's perfect for groups or a casual night
+  out, earning it praise as one of the best sushi spots around. If you're on the
+  hunt for reliable sushi near me, this location seems to strike a nice balance
+  of quality and fun without any major letdowns.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeStreetParking: true
   paidStreetParking: true
@@ -376,8 +414,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Casual, colorful place with a long sushi bar for sashimi, nigiri & unique
   maki, plus imported beer.
 

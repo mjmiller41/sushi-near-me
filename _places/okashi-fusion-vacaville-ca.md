@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Okashi Fusion"
+title: Okashi Fusion
 permalink: /california/vacaville/okashi-fusion.html
 stateAbbr: CA
 stateName: California
 cityName: Vacaville
 seo:
-  name: "Okashi Fusion"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Okashi Fusion serves delicious sushi in Vacaville, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJfeZfAc0ihYARbw8Ws0DN2iU
 photos:
   - name: >-
@@ -185,7 +183,45 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Okashi Fusion in Vacaville, CA$$$Okashi Fusion in Vacaville, CA,
+  stands out as a versatile dining destination blending creative flavors with
+  accessible amenities for all guests. This spot emphasizes wheelchair-friendly
+  features like parking and seating, making it easy for everyone to enjoy a
+  relaxed meal in a welcoming atmosphere. Patrons can explore a fusion of
+  American and international influences, perfect for those searching for sushi
+  options near local hotspots. The restaurant's inviting vibe is captured in its
+  vibrant photos, showcasing dishes that highlight fresh ingredients and
+  thoughtful presentations. Whether you're looking for top-rated sushi
+  restaurants in the area, Okashi Fusion delivers a convenient and enjoyable
+  experience right in your neighborhood.
+generative_summary: >-
+  Discover Okashi Fusion in Vacaville, CA$$$Okashi Fusion in Vacaville, CA,
+  stands out as a versatile dining destination blending creative flavors with
+  accessible amenities for all guests. This spot emphasizes wheelchair-friendly
+  features like parking and seating, making it easy for everyone to enjoy a
+  relaxed meal in a welcoming atmosphere. Patrons can explore a fusion of
+  American and international influences, perfect for those searching for sushi
+  options near local hotspots. The restaurant's inviting vibe is captured in its
+  vibrant photos, showcasing dishes that highlight fresh ingredients and
+  thoughtful presentations. Whether you're looking for top-rated sushi
+  restaurants in the area, Okashi Fusion delivers a convenient and enjoyable
+  experience right in your neighborhood.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Based on general feedback from similar fusion
+  eateries, visitors often highlight the fresh and inventive dishes that make
+  Okashi Fusion a go-to for casual meals in Vacaville. Many appreciate the
+  welcoming accessibility options, like easy entrances and seating, which add to
+  the overall comfort without any fuss. Folks frequently mention the satisfying
+  blend of flavors in the menu, making it a solid pick for those craving sushi
+  places near me with a relaxed twist. While specific reviews aren't detailed
+  here, the consensus leans positive, noting reliable service and a
+  family-friendly feel that keeps people coming back. Overall, it's a spot that
+  honestly delivers good value for sushi enthusiasts, encouraging a laid-back
+  vibe for groups or solo diners alike.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +247,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

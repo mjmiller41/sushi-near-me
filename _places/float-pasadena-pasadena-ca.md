@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Float Pasadena"
+title: Float Pasadena
 permalink: /california/pasadena/float-pasadena.html
 stateAbbr: CA
 stateName: California
 cityName: Pasadena
 seo:
-  name: "Float Pasadena"
-  type: Restaurant
+  type: restaurant
   links: http://www.floatcoffeeshop.com/
-description: "Float Pasadena serves delicious sushi in Pasadena, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJh0SGHV_DwoAR10qCbAdei0U
 photos:
   - name: >-
@@ -169,7 +167,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c2c35f1d864487:0x458b5e076c824ad7!10e5
 primary_type: Coffee Shop
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 9
+        minute: 0
+      close:
+        day: 0
+        hour: 17
+        minute: 0
+    - open:
+        day: 1
+        hour: 9
+        minute: 0
+      close:
+        day: 1
+        hour: 17
+        minute: 0
+    - open:
+        day: 2
+        hour: 9
+        minute: 0
+      close:
+        day: 2
+        hour: 17
+        minute: 0
+    - open:
+        day: 3
+        hour: 9
+        minute: 0
+      close:
+        day: 3
+        hour: 17
+        minute: 0
+    - open:
+        day: 4
+        hour: 9
+        minute: 0
+      close:
+        day: 4
+        hour: 17
+        minute: 0
+    - open:
+        day: 5
+        hour: 9
+        minute: 0
+      close:
+        day: 5
+        hour: 17
+        minute: 0
+    - open:
+        day: 6
+        hour: 9
+        minute: 0
+      close:
+        day: 6
+        hour: 17
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 9:00 AM – 5:00 PM'
     - 'Tuesday: 9:00 AM – 5:00 PM'
     - 'Wednesday: 9:00 AM – 5:00 PM'
@@ -177,14 +233,7 @@ opening_hours:
     - 'Friday: 9:00 AM – 5:00 PM'
     - 'Saturday: 9:00 AM – 5:00 PM'
     - 'Sunday: 9:00 AM – 5:00 PM'
-  current:
-    - 'Monday: 9:00 AM – 5:00 PM'
-    - 'Tuesday: 9:00 AM – 5:00 PM'
-    - 'Wednesday: 9:00 AM – 5:00 PM'
-    - 'Thursday: 9:00 AM – 5:00 PM'
-    - 'Friday: 9:00 AM – 5:00 PM'
-    - 'Saturday: 9:00 AM – 5:00 PM'
-    - 'Sunday: 9:00 AM – 5:00 PM'
+  nextCloseTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,35 +245,283 @@ phone: (626) 844-3488
 price_level: PRICE_LEVEL_INEXPENSIVE
 price_range: $10 &ndash; $20
 rating: '4.5'
-rating_count: 0
+rating_count: 204
 website: http://www.floatcoffeeshop.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Float Pasadena in Pasadena, CA$$$Float Pasadena in Pasadena, CA,
+  offers a cozy retreat with its retro-inspired ambiance and versatile
+  indoor-outdoor seating, making it a favorite for casual gatherings. This
+  easygoing cafe serves up comforting options like fresh sandwiches, baked
+  goods, and ice cream, complemented by a selection of coffee and teas in a
+  welcoming environment equipped with Wi-Fi for productivity on the go.
+  Accessibility features, such as wheelchair-friendly parking and seating,
+  ensure everyone can enjoy the space comfortably. The spot's convenient hours
+  and menu variety cater to breakfast, brunch, and lunch seekers, adding to its
+  everyday appeal. Its location in a vibrant area makes it an ideal stop for
+  those exploring local coffee spots near Pasadena.
+generative_summary: >-
+  Discover Float Pasadena in Pasadena, CA$$$Float Pasadena in Pasadena, CA,
+  offers a cozy retreat with its retro-inspired ambiance and versatile
+  indoor-outdoor seating, making it a favorite for casual gatherings. This
+  easygoing cafe serves up comforting options like fresh sandwiches, baked
+  goods, and ice cream, complemented by a selection of coffee and teas in a
+  welcoming environment equipped with Wi-Fi for productivity on the go.
+  Accessibility features, such as wheelchair-friendly parking and seating,
+  ensure everyone can enjoy the space comfortably. The spot's convenient hours
+  and menu variety cater to breakfast, brunch, and lunch seekers, adding to its
+  everyday appeal. Its location in a vibrant area makes it an ideal stop for
+  those exploring local coffee spots near Pasadena.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJh0SGHV_DwoAR10qCbAdei0U/reviews/ChZDSUhNMG9nS0VJQ0FnTUNveTkyWll3EAE
+    relativePublishTimeDescription: a week ago
+    rating: 2
+    text:
+      text: >-
+        This is a late review but I was really hoping to like this place since
+        it's in a neat little area. This shop is kinda cold though, also when we
+        went they kept the food orders on a shelf above the drinks and I guess
+        that's how a staple got in my child's drink. They apologized and said
+        they'd move stuff around but still I couldn't believe my kid almost
+        swallowed a staple. I understand it was an accident but never coming
+        here again personally. :/
+      languageCode: en
+    originalText:
+      text: >-
+        This is a late review but I was really hoping to like this place since
+        it's in a neat little area. This shop is kinda cold though, also when we
+        went they kept the food orders on a shelf above the drinks and I guess
+        that's how a staple got in my child's drink. They apologized and said
+        they'd move stuff around but still I couldn't believe my kid almost
+        swallowed a staple. I understand it was an accident but never coming
+        here again personally. :/
+      languageCode: en
+    authorAttribution:
+      displayName: Amethyst Heart
+      uri: https://www.google.com/maps/contrib/108548372671117979775/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJFhqvVQjdbd9M3ADsDDgpe9sZxLTR7rn3eChsWvh65Sjos6Us=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-20T00:03:28.141841Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNveTkyWll3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNveTkyWll3EAE!2m1!1s0x80c2c35f1d864487:0x458b5e076c824ad7
+  - name: >-
+      places/ChIJh0SGHV_DwoAR10qCbAdei0U/reviews/ChdDSUhNMG9nS0VJQ0FnTURBLU95RmhnRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        This is honestly my new go to place. I've lived in pasadena for 4 yrs
+        and I can't believe I haven't been here before. It's a hidden gem with
+        great food and amazing people. The workers here are amazing and so
+        welcoming!!! I honestly drop by every week just to say hi and grab my
+        usual breakfast bagel and my matcha chai latte with cold foam or their
+        amazon london fog tea latte with cold foam. It's seriously so good I
+        have to stop myself from coming here everyday. I do hope they sell loose
+        tea leaf soon since it's really calming.
+      languageCode: en
+    originalText:
+      text: >-
+        This is honestly my new go to place. I've lived in pasadena for 4 yrs
+        and I can't believe I haven't been here before. It's a hidden gem with
+        great food and amazing people. The workers here are amazing and so
+        welcoming!!! I honestly drop by every week just to say hi and grab my
+        usual breakfast bagel and my matcha chai latte with cold foam or their
+        amazon london fog tea latte with cold foam. It's seriously so good I
+        have to stop myself from coming here everyday. I do hope they sell loose
+        tea leaf soon since it's really calming.
+      languageCode: en
+    authorAttribution:
+      displayName: leslie H
+      uri: https://www.google.com/maps/contrib/116213374044458342440/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjW54czQGzuuZuZFouNd8lF2j5MYEo5rdsWuxsoIoonR_D1O5e8lUA=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-02-06T22:29:59.512048Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURBLU95RmhnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURBLU95RmhnRRAB!2m1!1s0x80c2c35f1d864487:0x458b5e076c824ad7
+  - name: >-
+      places/ChIJh0SGHV_DwoAR10qCbAdei0U/reviews/ChdDSUhNMG9nS0VJQ0FnSUN1M3ZDUWpnRRAB
+    relativePublishTimeDescription: 9 months ago
+    rating: 4
+    text:
+      text: >-
+        Excellent sandwich, highly recommended.
+
+
+        This is a 2nd edit:
+
+        We are back to Pasadena on June 11, 2024 again to attend the
+        commencement on June 14.  It is a very exciting experience to come back
+        to Float again that my son likes most when he was here during summer of
+        2019.
+
+        The food is the same high quality and excellent taste.
+      languageCode: en
+    originalText:
+      text: >-
+        Excellent sandwich, highly recommended.
+
+
+        This is a 2nd edit:
+
+        We are back to Pasadena on June 11, 2024 again to attend the
+        commencement on June 14.  It is a very exciting experience to come back
+        to Float again that my son likes most when he was here during summer of
+        2019.
+
+        The food is the same high quality and excellent taste.
+      languageCode: en
+    authorAttribution:
+      displayName: Jason Lin
+      uri: https://www.google.com/maps/contrib/104353524709313134733/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKfX4ODrZJLf1l0nRHZdohcAtUgC232QRtAYsYmoArbDbMx8w=s128-c0x00000000-cc-rp-mo-ba7
+    publishTime: '2024-07-21T08:23:03.061847Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN1M3ZDUWpnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN1M3ZDUWpnRRAB!2m1!1s0x80c2c35f1d864487:0x458b5e076c824ad7
+  - name: >-
+      places/ChIJh0SGHV_DwoAR10qCbAdei0U/reviews/ChZDSUhNMG9nS0VJQ0FnTURvMFBXQU1REAE
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        I hopped out of line from the other coffee shop since the line did not
+        move 10 minutes. I wish I would have stayed. I guess there is really a
+        reason the other place is so popular compared to this one. Coffee (mocha
+        latte) was just OK until I found a faux eyelash in my cup. Then it was
+        yuck. Service was not that great either. She definitely did not want to
+        be there.
+      languageCode: en
+    originalText:
+      text: >-
+        I hopped out of line from the other coffee shop since the line did not
+        move 10 minutes. I wish I would have stayed. I guess there is really a
+        reason the other place is so popular compared to this one. Coffee (mocha
+        latte) was just OK until I found a faux eyelash in my cup. Then it was
+        yuck. Service was not that great either. She definitely did not want to
+        be there.
+      languageCode: en
+    authorAttribution:
+      displayName: Amare Mom
+      uri: https://www.google.com/maps/contrib/104179168375819408332/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXql6_VhXavrQKtdKcMIPo0UXeiE3zr7eqYeJgo3zRsqQbKaxc=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-21T11:42:23.162106Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURvMFBXQU1REAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURvMFBXQU1REAE!2m1!1s0x80c2c35f1d864487:0x458b5e076c824ad7
+  - name: >-
+      places/ChIJh0SGHV_DwoAR10qCbAdei0U/reviews/ChdDSUhNMG9nS0VJQ0FnSUNmenJ5QTN3RRAB
+    relativePublishTimeDescription: 4 months ago
+    rating: 4
+    text:
+      text: >-
+        Not all who wonder are lost. Some are just looking for coffee.
+
+
+        Float Pasadena is a small specialty coffee and tea shop in the eclectic
+        setting of the Burlington Arcade. It’s located on South Lake avenue in
+        Pasadena. It offers lattes, lunch, sandwiches, salads, bagels, catering
+        and gift cards. Similarly, they have cold bottled drinks like Root
+        beers.
+
+
+        Its interior layout is quite small with limited seats and a relax static
+        stability.
+
+        Menu list has all of your basic coffee, teas  and lattes. I had a Mocha
+        Latte (H); it was perfect. Staff was competent and professional. Service
+        was satisfactory.
+
+        Prices are competitive. Collectively, I enjoyed my latte and order
+        experience. I recommend this coffee shop.
+      languageCode: en
+    originalText:
+      text: >-
+        Not all who wonder are lost. Some are just looking for coffee.
+
+
+        Float Pasadena is a small specialty coffee and tea shop in the eclectic
+        setting of the Burlington Arcade. It’s located on South Lake avenue in
+        Pasadena. It offers lattes, lunch, sandwiches, salads, bagels, catering
+        and gift cards. Similarly, they have cold bottled drinks like Root
+        beers.
+
+
+        Its interior layout is quite small with limited seats and a relax static
+        stability.
+
+        Menu list has all of your basic coffee, teas  and lattes. I had a Mocha
+        Latte (H); it was perfect. Staff was competent and professional. Service
+        was satisfactory.
+
+        Prices are competitive. Collectively, I enjoyed my latte and order
+        experience. I recommend this coffee shop.
+      languageCode: en
+    authorAttribution:
+      displayName: Carlo N.
+      uri: https://www.google.com/maps/contrib/101680887019881172299/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjU8Y9Xe8NXGEDSQtYrgdmgizh7sgcFuZAKLd8RusFf7W_wjqw96Cg=s128-c0x00000000-cc-rp-mo-ba7
+    publishTime: '2024-12-29T03:50:54.615846Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNmenJ5QTN3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNmenJ5QTN3RRAB!2m1!1s0x80c2c35f1d864487:0x458b5e076c824ad7
+review_summary: >-
+  What Customers Are Sharing$$$Folks generally enjoy the tasty coffee and
+  sandwiches at this laid-back cafe, often highlighting the flavorful lattes and
+  bagels as go-to picks for a quick, satisfying meal. While a few mentions point
+  to occasional service slip-ups, the overall vibe comes across as friendly and
+  inviting, with many returning for the comforting atmosphere and affordable
+  prices. Customers appreciate the variety of options, like matcha drinks and
+  light bites, that make it perfect for breakfast or a relaxed break. Despite
+  some rare incidents, the shop's commitment to quality food and a welcoming
+  setting keeps the feedback mostly positive. If you're searching for a solid
+  coffee spot in Pasadena, it's worth checking out for its reliable comfort and
+  community feel.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  paidParkingLot: true
+  valetParking: false
+payment_options:
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
+delivery: true
+dine_in: true
+good_for_children: true
 good_for_groups: null
-good_for_sports: null
+good_for_sports: false
 live_music: null
 menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
+outdoor_seating: true
+reservable: false
+restroom: true
+serves_beer: false
+serves_breakfast: true
+serves_brunch: true
+serves_cocktails: false
+serves_coffee: true
 serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: false
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Retro storefront with indoor-outdoor seating serving cafe fare (sandwiches,
+  baked goods, ice cream).
 
 ---

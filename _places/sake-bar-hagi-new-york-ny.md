@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sake Bar Hagi"
+title: Sake Bar Hagi
 permalink: /new-york/new-york/sake-bar-hagi.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "Sake Bar Hagi"
-  type: Restaurant
+  type: restaurant
   links: http://www.sakebar-hagi.com/
-description: "Cozy, brick-walled Japanese eatery and sake bar, offering yakitori, noodles, and sushi, plus happy hours. Sake Bar Hagi serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJx-Yt5lNYwokRzwFhNuRwCwQ
 photos:
   - name: >-
@@ -185,6 +183,35 @@ price_range: $30 &ndash; $50
 rating: '4.4'
 rating_count: 0
 website: http://www.sakebar-hagi.com/
+description: >-
+  Experience Sake Bar Hagi in New York, NY$$$Sake Bar Hagi in New York, NY,
+  stands out as a welcoming Japanese-style spot that combines casual vibes with
+  an array of flavorful small plates, fresh sushi options, and a selection of
+  sake that appeals to those exploring Japanese dining near the city center.
+  This cozy establishment features a brick-walled atmosphere perfect for
+  enjoying happy-hour specials, making it a great choice for anyone seeking
+  authentic Japanese flavors in a relaxed setting. With its focus on dishes like
+  yakitori and noodles, the bar offers a balance of traditional tastes and
+  modern twists that cater to both newcomers and enthusiasts. Accessibility
+  features ensure it's easy to visit, enhancing its appeal as a go-to
+  destination for quality sushi restaurants in the area. Whether you're in the
+  mood for a quick bite or a leisurely meal, this spot delivers on taste and
+  atmosphere without overwhelming the senses.
+generative_summary: >-
+  Experience Sake Bar Hagi in New York, NY$$$Sake Bar Hagi in New York, NY,
+  stands out as a welcoming Japanese-style spot that combines casual vibes with
+  an array of flavorful small plates, fresh sushi options, and a selection of
+  sake that appeals to those exploring Japanese dining near the city center.
+  This cozy establishment features a brick-walled atmosphere perfect for
+  enjoying happy-hour specials, making it a great choice for anyone seeking
+  authentic Japanese flavors in a relaxed setting. With its focus on dishes like
+  yakitori and noodles, the bar offers a balance of traditional tastes and
+  modern twists that cater to both newcomers and enthusiasts. Accessibility
+  features ensure it's easy to visit, enhancing its appeal as a go-to
+  destination for quality sushi restaurants in the area. Whether you're in the
+  mood for a quick bite or a leisurely meal, this spot delivers on taste and
+  atmosphere without overwhelming the senses.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJx-Yt5lNYwokRzwFhNuRwCwQ/reviews/ChZDSUhNMG9nS0VJQ0FnTURnaXZqZWVnEAE
@@ -490,6 +517,21 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNuOF9MLTVRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNuOF9MLTVRRRAB!2m1!1s0x89c25853e62de6c7:0x40b70e4366101cf
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors to this Japanese eatery often rave
+  about the variety of tasty dishes like grilled meats, sushi rolls, and
+  onigiri, which make for a fun and adventurous meal experience that's perfect
+  for groups or solo diners. Many appreciate the quick service and extensive
+  drink options, including sake and cocktails, that pair well with the food and
+  keep the energy lively without feeling rushed. While some folks mention that
+  certain items can be on the salty side or have textural preferences, the
+  overall vibe remains upbeat with highlights on the friendly staff and
+  reasonable prices that add to its charm. It's clear that the retro-themed
+  setting and solid selections keep people coming back, offering a solid spot
+  for anyone hunting for top-rated sushi nearby. All in all, this place delivers
+  a generally enjoyable outing with just a few minor tweaks that don't
+  overshadow the good times.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidStreetParking: true
   valetParking: false
@@ -521,8 +563,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Cozy, brick-walled Japanese eatery and sake bar, offering yakitori, noodles,
   and sushi, plus happy hours.
 

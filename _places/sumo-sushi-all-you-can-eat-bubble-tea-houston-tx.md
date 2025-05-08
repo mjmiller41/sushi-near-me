@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sumo Sushi All You Can Eat & Bubble Tea"
+title: Sumo Sushi All You Can Eat & Bubble Tea
 permalink: /texas/houston/sumo-sushi-all-you-can-eat-bubble-tea.html
 stateAbbr: TX
 stateName: Texas
 cityName: Houston
 seo:
-  name: "Sumo Sushi All You Can Eat & Bubble Tea"
-  type: Restaurant
+  type: restaurant
   links: http://www.sumosushihouston.com/
-description: "Sumo Sushi All You Can Eat & Bubble Tea serves delicious sushi in Houston, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJVfDeQWjRQIYR5Pv28CYUMtY
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8640d16841def055:0xd6321426f0f6fbe4!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 10:00 PM'
     - 'Tuesday: 11:00 AM – 10:00 PM'
     - 'Wednesday: 11:00 AM – 10:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 11:00 PM'
     - 'Saturday: 11:00 AM – 11:00 PM'
     - 'Sunday: 11:00 AM – 10:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 10:00 PM'
-    - 'Tuesday: 11:00 AM – 10:00 PM'
-    - 'Wednesday: 11:00 AM – 10:00 PM'
-    - 'Thursday: 11:00 AM – 10:00 PM'
-    - 'Friday: 11:00 AM – 11:00 PM'
-    - 'Saturday: 11:00 AM – 11:00 PM'
-    - 'Sunday: 11:00 AM – 10:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,306 @@ phone: (832) 478-5307
 price_level: PRICE_LEVEL_MODERATE
 price_range: $30 &ndash; $50
 rating: '4.7'
-rating_count: 0
+rating_count: 1048
 website: http://www.sumosushihouston.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Explore Sumo Sushi in Houston, TX$$$Sumo Sushi All You Can Eat & Bubble Tea in
+  Houston, TX, stands out as a vibrant spot for enjoying fresh Japanese cuisine,
+  perfect for those seeking sushi options nearby. This restaurant offers an
+  all-you-can-eat menu featuring a variety of sushi rolls, sashimi, and
+  refreshing bubble tea, making it a go-to choice for casual dining experiences.
+  With its accessible features like wheelchair-friendly entrances and ample
+  seating, it caters to a wide range of visitors looking for convenience and
+  quality. The spot's extended hours and welcoming atmosphere add to its appeal,
+  ideal for families or groups exploring top-rated Japanese places in the area.
+  Whether you're in the mood for inventive flavors or classic dishes, this
+  location delivers a satisfying blend of taste and value.
+generative_summary: >-
+  Explore Sumo Sushi in Houston, TX$$$Sumo Sushi All You Can Eat & Bubble Tea in
+  Houston, TX, stands out as a vibrant spot for enjoying fresh Japanese cuisine,
+  perfect for those seeking sushi options nearby. This restaurant offers an
+  all-you-can-eat menu featuring a variety of sushi rolls, sashimi, and
+  refreshing bubble tea, making it a go-to choice for casual dining experiences.
+  With its accessible features like wheelchair-friendly entrances and ample
+  seating, it caters to a wide range of visitors looking for convenience and
+  quality. The spot's extended hours and welcoming atmosphere add to its appeal,
+  ideal for families or groups exploring top-rated Japanese places in the area.
+  Whether you're in the mood for inventive flavors or classic dishes, this
+  location delivers a satisfying blend of taste and value.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJVfDeQWjRQIYR5Pv28CYUMtY/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJdkluVGRnEAE
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 5
+    text:
+      text: >-
+        Been going to Sumo for the past year but this Sunday afternoon
+        experience, was the best visit my family and I have had. Our server,
+        Sean, was pleasant even though we bombarded him with our orders haha. I
+        loved all of my previous experiences but the atmosphere last night was
+        wonderful, of course, along with our server! The food was wonderful as
+        always and I recommend the salmon rolls because they’re always such high
+        quality! Also, the seaweed salad here is by far my favorite, hands down.
+        It’s so fresh and tasty.
+      languageCode: en
+    originalText:
+      text: >-
+        Been going to Sumo for the past year but this Sunday afternoon
+        experience, was the best visit my family and I have had. Our server,
+        Sean, was pleasant even though we bombarded him with our orders haha. I
+        loved all of my previous experiences but the atmosphere last night was
+        wonderful, of course, along with our server! The food was wonderful as
+        always and I recommend the salmon rolls because they’re always such high
+        quality! Also, the seaweed salad here is by far my favorite, hands down.
+        It’s so fresh and tasty.
+      languageCode: en
+    authorAttribution:
+      displayName: Meagan Tran
+      uri: https://www.google.com/maps/contrib/111894711717075871440/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUJku2zL8apEJHbICwDoGpyOiQdQgDExajiG_Qso6Jr6n1Kk003=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-04-07T17:41:35.007322Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNJdkluVGRnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNJdkluVGRnEAE!2m1!1s0x8640d16841def055:0xd6321426f0f6fbe4
+  - name: >-
+      places/ChIJVfDeQWjRQIYR5Pv28CYUMtY/reviews/ChZDSUhNMG9nS0VJQ0FnSURmeE12YWN3EAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        This was our second visit, and once again, this restaurant has blown us
+        away! Despite how busy it was, the experience was flawless from start to
+        finish, and much of that is thanks to our phenomenal server, Lily. She
+        truly went above and beyond, exceeding all of our expectations with her
+        warmth, attentiveness, and effortless ability to keep everything running
+        smoothly.
+
+
+        The food was outstanding—as always—and arrived incredibly fast, even
+        with the restaurant packed. It’s rare to find a place where the quality
+        of the food is matched by the quality of the service, but this
+        restaurant achieves both with ease.
+
+
+        During our first visit, we were fortunate to have Alina as our server.
+        She took time out of her busy shift to acknowledge us and made us feel
+        genuinely valued. This time, Lily picked up right where Alina left off,
+        delivering the same incredible care but with her own special touch that
+        elevated the experience even further.
+
+
+        Every visit here has been spectacular, and it’s clear that the team is
+        dedicated to creating memorable moments for their guests. If you’re
+        lucky enough to have Lily or Alina as your server, you’re in for an
+        unforgettable dining experience. We can’t wait to come back again!
+      languageCode: en
+    originalText:
+      text: >-
+        This was our second visit, and once again, this restaurant has blown us
+        away! Despite how busy it was, the experience was flawless from start to
+        finish, and much of that is thanks to our phenomenal server, Lily. She
+        truly went above and beyond, exceeding all of our expectations with her
+        warmth, attentiveness, and effortless ability to keep everything running
+        smoothly.
+
+
+        The food was outstanding—as always—and arrived incredibly fast, even
+        with the restaurant packed. It’s rare to find a place where the quality
+        of the food is matched by the quality of the service, but this
+        restaurant achieves both with ease.
+
+
+        During our first visit, we were fortunate to have Alina as our server.
+        She took time out of her busy shift to acknowledge us and made us feel
+        genuinely valued. This time, Lily picked up right where Alina left off,
+        delivering the same incredible care but with her own special touch that
+        elevated the experience even further.
+
+
+        Every visit here has been spectacular, and it’s clear that the team is
+        dedicated to creating memorable moments for their guests. If you’re
+        lucky enough to have Lily or Alina as your server, you’re in for an
+        unforgettable dining experience. We can’t wait to come back again!
+      languageCode: en
+    authorAttribution:
+      displayName: Zander
+      uri: https://www.google.com/maps/contrib/111968419695186681478/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLbmTFy_qF-aJkBo6yfs7XfzlyUjaUbMJSeWDYsZGCb0EdZ5g=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-01-04T00:38:18.963799Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURmeE12YWN3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURmeE12YWN3EAE!2m1!1s0x8640d16841def055:0xd6321426f0f6fbe4
+  - name: >-
+      places/ChIJVfDeQWjRQIYR5Pv28CYUMtY/reviews/ChZDSUhNMG9nS0VJQ0FnTURvMVpiZVJBEAE
+    relativePublishTimeDescription: in the last week
+    rating: 4
+    text:
+      text: >-
+        Visit: April 2024
+
+
+        The AYCE was pretty good. Some rolls were better than others, as some
+        had weird combinations, like cream cheese and flaming hot Cheetos 😬.
+        The fish to rice ratio was alright as well
+      languageCode: en
+    originalText:
+      text: >-
+        Visit: April 2024
+
+
+        The AYCE was pretty good. Some rolls were better than others, as some
+        had weird combinations, like cream cheese and flaming hot Cheetos 😬.
+        The fish to rice ratio was alright as well
+      languageCode: en
+    authorAttribution:
+      displayName: Daniel Tran
+      uri: https://www.google.com/maps/contrib/113034697017571614764/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXfSsNEAYlmAtd8Irlhr5hG5vGCx-XSwOrOKo08XLgHYZPCp6Yt=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2025-04-27T06:33:36.546212Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURvMVpiZVJBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURvMVpiZVJBEAE!2m1!1s0x8640d16841def055:0xd6321426f0f6fbe4
+  - name: >-
+      places/ChIJVfDeQWjRQIYR5Pv28CYUMtY/reviews/ChZDSUhNMG9nS0VJQ0FnTURRMDRyUVd3EAE
+    relativePublishTimeDescription: a month ago
+    rating: 2
+    text:
+      text: >-
+        Don't go here for the Sushi rolls or the Nigiri. You will be sadly
+        disappointed. This place is just a moder version of a buffet.
+
+
+        Three out of the five rolls we ordered were just bad, sub-par quality
+        rolls.
+
+
+        The Nigiri pieces we ordered were served with hot rice, and it really
+        messed up the flavor and texture, not to mention the rice itself was too
+        small and an amount and fell apart immediately after being touched
+
+
+        As for the appetizers such as the gyoza, the miso soup, fried rice,
+        edamame, and the beef udon noodles, they were pretty good. The fried
+        oreo with ice cream was descent to.
+
+
+        Our waitress would disappear for long periods of time, so we didn't get
+        to try everything we would have liked to.
+      languageCode: en
+    originalText:
+      text: >-
+        Don't go here for the Sushi rolls or the Nigiri. You will be sadly
+        disappointed. This place is just a moder version of a buffet.
+
+
+        Three out of the five rolls we ordered were just bad, sub-par quality
+        rolls.
+
+
+        The Nigiri pieces we ordered were served with hot rice, and it really
+        messed up the flavor and texture, not to mention the rice itself was too
+        small and an amount and fell apart immediately after being touched
+
+
+        As for the appetizers such as the gyoza, the miso soup, fried rice,
+        edamame, and the beef udon noodles, they were pretty good. The fried
+        oreo with ice cream was descent to.
+
+
+        Our waitress would disappear for long periods of time, so we didn't get
+        to try everything we would have liked to.
+      languageCode: en
+    authorAttribution:
+      displayName: Patrick Winham
+      uri: https://www.google.com/maps/contrib/114653147413229085324/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIVjXY0f2F3NeC2jlNKU1B2sEjyhqjEs2mMsEsxMSRNAN-1QQ=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-03-14T00:14:21.191482Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURRMDRyUVd3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURRMDRyUVd3EAE!2m1!1s0x8640d16841def055:0xd6321426f0f6fbe4
+  - name: >-
+      places/ChIJVfDeQWjRQIYR5Pv28CYUMtY/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3bnZEOHd3RRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        This place was so much fun!! It’s AYCE sushi and other random stuff. The
+        sushi was so fun and delicious. The waitstaff was so cheerful and
+        lovely. It wasn’t crowded at all. There is even a cute little cat
+        delivery robot!!
+      languageCode: en
+    originalText:
+      text: >-
+        This place was so much fun!! It’s AYCE sushi and other random stuff. The
+        sushi was so fun and delicious. The waitstaff was so cheerful and
+        lovely. It wasn’t crowded at all. There is even a cute little cat
+        delivery robot!!
+      languageCode: en
+    authorAttribution:
+      displayName: Whitney Howell
+      uri: https://www.google.com/maps/contrib/113062858652720402120/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVmWWGtV4QfWZrROBCe9ZG4WC1KENM_K4gad62cFfySbzVHtHjJ=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-03-19T02:00:11.740882Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUN3bnZEOHd3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUN3bnZEOHd3RRAB!2m1!1s0x8640d16841def055:0xd6321426f0f6fbe4
+review_summary: >-
+  What Customers Are Buzzing About$$$Visitors to this sushi spot often rave
+  about the fresh and flavorful all-you-can-eat selections, with many
+  highlighting the quality of the rolls and appetizers as a real standout. Folks
+  appreciate the quick service and friendly staff that keep things running
+  smoothly, even during busy times, making meals feel effortless and enjoyable.
+  While some mention occasional variations in certain dishes, the overall
+  experience comes across as fun and worthwhile, especially for the price point.
+  It's clear that the vibrant atmosphere and variety keep people coming back,
+  offering great bang for your buck if you're craving Japanese eats nearby. All
+  in all, this place maintains a positive vibe that makes it a solid pick for
+  anyone hunting for reliable sushi adventures.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
 good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+live_music: false
+menu_for_children: true
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
 serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_brunch: false
+serves_cocktails: true
+serves_coffee: true
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kuru Kuru Sushi"
+title: Kuru Kuru Sushi
 permalink: /washington/bellingham/kuru-kuru-sushi.html
 stateAbbr: WA
 stateName: Washington
 cityName: Bellingham
 seo:
-  name: "Kuru Kuru Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.kurukurubellingham.com/
-description: "Kuru Kuru Sushi serves delicious sushi in Bellingham, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJbxdSb6ajhVQRLL3LSASiGwc
 photos:
   - name: >-
@@ -170,22 +168,113 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x5485a3a66f52176f:0x71ba20448cbbd2c!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
-    - 'Monday: 11:00 AM – 2:30 PM, 5:00 – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 2:30 PM, 5:00 – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 2:30 PM, 5:00 – 9:00 PM'
-    - 'Thursday: 11:00 AM – 2:30 PM, 5:00 – 9:00 PM'
-    - 'Friday: 11:00 AM – 2:30 PM, 5:00 – 9:00 PM'
-    - 'Saturday: 11:00 AM – 2:30 PM, 5:00 – 9:00 PM'
+  openNow: false
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 14
+        minute: 30
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
+    - 'Tuesday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
+    - 'Wednesday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
+    - 'Thursday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
+    - 'Friday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
+    - 'Saturday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:00 AM – 2:30 PM, 5:00 – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 2:30 PM, 5:00 – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 2:30 PM, 5:00 – 9:00 PM'
-    - 'Thursday: 11:00 AM – 2:30 PM, 5:00 – 9:00 PM'
-    - 'Friday: 11:00 AM – 2:30 PM, 5:00 – 9:00 PM'
-    - 'Saturday: 11:00 AM – 2:30 PM, 5:00 – 9:00 PM'
-    - 'Sunday: Closed'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +286,48 @@ phone: (360) 392-8224
 price_level: PRICE_LEVEL_INEXPENSIVE
 price_range: $20 &ndash; $30
 rating: '4.3'
-rating_count: 0
+rating_count: 934
 website: http://www.kurukurubellingham.com/
+description: >-
+  Discover Kuru Kuru Sushi in Bellingham, WA$$$Kuru Kuru Sushi in Bellingham,
+  WA, delivers a lively and casual dining vibe centered around fresh rolls and
+  nigiri served on a rotating belt, making it a standout spot for sushi
+  enthusiasts. This informal restaurant emphasizes a variety of high-quality
+  options that highlight creative flavors and traditional preparations,
+  appealing to those seeking top sushi experiences near you. With its accessible
+  entrance and seating, it's designed for everyone to enjoy a seamless meal,
+  complemented by reasonable pricing that fits everyday outings. The eatery's
+  focus on authentic Japanese-inspired dishes adds to its charm as one of the
+  best sushi restaurants in the area, perfect for locals or visitors looking for
+  a fun twist on classic fare.
+generative_summary: >-
+  Discover Kuru Kuru Sushi in Bellingham, WA$$$Kuru Kuru Sushi in Bellingham,
+  WA, delivers a lively and casual dining vibe centered around fresh rolls and
+  nigiri served on a rotating belt, making it a standout spot for sushi
+  enthusiasts. This informal restaurant emphasizes a variety of high-quality
+  options that highlight creative flavors and traditional preparations,
+  appealing to those seeking top sushi experiences near you. With its accessible
+  entrance and seating, it's designed for everyone to enjoy a seamless meal,
+  complemented by reasonable pricing that fits everyday outings. The eatery's
+  focus on authentic Japanese-inspired dishes adds to its charm as one of the
+  best sushi restaurants in the area, perfect for locals or visitors looking for
+  a fun twist on classic fare.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Love About This Sushi Spot$$$Folks at this Bellingham sushi
+  restaurant rave about the entertaining conveyor belt setup that brings a wide
+  array of tasty options right to your table, including inventive rolls that
+  keep things exciting and delicious. Many appreciate the friendly service and
+  great value, making it a go-to choice for groups or families hunting for
+  top-rated sushi near me without breaking the bank. While the food consistently
+  impresses with its fresh flavors and variety, some note that waits for custom
+  orders can add a bit of time, though it's often worth it for the overall
+  experience. Overall, it's praised as a welcoming place for casual meals, where
+  the atmosphere and affordability enhance the enjoyment of Japanese-inspired
+  cuisine. If you're exploring sushi places in the area, this spot stands out
+  for its balance of fun and flavorful dining.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +353,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

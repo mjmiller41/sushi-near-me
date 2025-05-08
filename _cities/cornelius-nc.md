@@ -5,4 +5,5 @@ permalink: /north-carolina/cornelius/
 stateAbbr: NC
 stateName: North Carolina
 cityName: Cornelius
+
 ---

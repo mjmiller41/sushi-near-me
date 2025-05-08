@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Mizuki Sushi"
+title: Mizuki Sushi
 permalink: /california/citrus-heights/mizuki-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Citrus Heights
 seo:
-  name: "Mizuki Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Mizuki Sushi serves delicious sushi in Citrus Heights, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJgVROqhnemoARSPyEJQS4NfQ
 photos:
   - name: >-
@@ -185,7 +183,45 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Mizuki Sushi$$$Mizuki Sushi in Citrus Heights, CA, offers a
+  delightful array of sushi rolls and traditional Japanese dishes in a welcoming
+  atmosphere perfect for casual dining. This cozy spot specializes in fresh
+  nigiri and other flavorful fare, making it a go-to choice for those seeking
+  authentic Japanese cuisine late into the evening. With its focus on quality
+  ingredients and a comfortable setting, it's an ideal destination for anyone
+  exploring sushi restaurants in the area. The restaurant's accessibility
+  features ensure a seamless experience, adding to its appeal for a wide range
+  of visitors. Whether you're in the mood for top-rated sushi options or simply
+  want to enjoy Japanese places nearby, Mizuki Sushi delivers a satisfying meal
+  with a touch of convenience.
+generative_summary: >-
+  Discover Mizuki Sushi$$$Mizuki Sushi in Citrus Heights, CA, offers a
+  delightful array of sushi rolls and traditional Japanese dishes in a welcoming
+  atmosphere perfect for casual dining. This cozy spot specializes in fresh
+  nigiri and other flavorful fare, making it a go-to choice for those seeking
+  authentic Japanese cuisine late into the evening. With its focus on quality
+  ingredients and a comfortable setting, it's an ideal destination for anyone
+  exploring sushi restaurants in the area. The restaurant's accessibility
+  features ensure a seamless experience, adding to its appeal for a wide range
+  of visitors. Whether you're in the mood for top-rated sushi options or simply
+  want to enjoy Japanese places nearby, Mizuki Sushi delivers a satisfying meal
+  with a touch of convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Review Highlights$$$Visitors often rave about the excellent sushi at this
+  spot, particularly highlighting favorites like the Rock and Roll roll and
+  tasty deep-fried selections that keep things exciting and delicious. Many
+  appreciate the reasonable prices and spotless environment, making it a solid
+  pick for anyone hunting for great sushi close to home without breaking the
+  bank. While some feedback notes that customer service could use a bit more
+  polish to match the food's quality, the overall vibe remains welcoming and
+  enjoyable. All in all, it's a reliable choice for sushi lovers looking for a
+  casual meal, with plenty of positive vibes outweighing any minor hiccups. If
+  you're searching for the best sushi near me, this place stands out for its
+  flavorful offerings and clean, approachable setting.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +247,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

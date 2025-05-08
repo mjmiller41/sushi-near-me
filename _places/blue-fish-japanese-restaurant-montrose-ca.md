@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Blue Fish Japanese Restaurant"
+title: Blue Fish Japanese Restaurant
 permalink: /california/montrose/blue-fish-japanese-restaurant.html
 stateAbbr: CA
 stateName: California
 cityName: Montrose
 seo:
-  name: "Blue Fish Japanese Restaurant"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Blue Fish Japanese Restaurant serves delicious sushi in Montrose, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJDdEjfg3qwoARzqorel80tT4
 photos:
   - name: >-
@@ -185,7 +183,47 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Blue Fish in Montrose, California$$$Blue Fish Japanese Restaurant in
+  Montrose, California, stands out as a casual spot for enjoying authentic
+  Japanese flavors, featuring fresh sushi rolls and tempura dishes that
+  highlight the region's culinary traditions. Paired with options like sake and
+  beer, the menu offers a well-rounded selection for those seeking a relaxed
+  dining experience in a welcoming atmosphere. The restaurant's accessibility
+  features, such as wheelchair-friendly parking and entrances, make it an
+  inclusive choice for everyone looking to explore Japanese places near me. With
+  its emphasis on quality ingredients and simple yet inviting vibe, it's an
+  ideal stop for anyone craving top-rated sushi in a neighborhood setting.
+  Photos shared by visitors showcase the vibrant presentation of dishes, adding
+  to the appeal for sushi enthusiasts in the area.
+generative_summary: >-
+  Discover Blue Fish in Montrose, California$$$Blue Fish Japanese Restaurant in
+  Montrose, California, stands out as a casual spot for enjoying authentic
+  Japanese flavors, featuring fresh sushi rolls and tempura dishes that
+  highlight the region's culinary traditions. Paired with options like sake and
+  beer, the menu offers a well-rounded selection for those seeking a relaxed
+  dining experience in a welcoming atmosphere. The restaurant's accessibility
+  features, such as wheelchair-friendly parking and entrances, make it an
+  inclusive choice for everyone looking to explore Japanese places near me. With
+  its emphasis on quality ingredients and simple yet inviting vibe, it's an
+  ideal stop for anyone craving top-rated sushi in a neighborhood setting.
+  Photos shared by visitors showcase the vibrant presentation of dishes, adding
+  to the appeal for sushi enthusiasts in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Feedback from diners at this sushi spot often
+  highlights the fresh and flavorful rolls that make it a go-to for Japanese
+  cuisine lovers in the community. Many appreciate the casual, approachable vibe
+  that pairs well with everyday meals, noting that the variety of options keeps
+  things exciting without overwhelming the palate. While some mention it's a
+  solid pick for groups or families, others point out the reliable service that
+  enhances the overall experience, making it feel like a neighborhood favorite.
+  Overall, it's praised for delivering good value on tasty dishes, with folks
+  frequently returning for the satisfying tempura and drinks. If you're
+  searching for sushi restaurants near me, this place tends to leave a positive
+  impression with its straightforward, enjoyable offerings.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +249,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

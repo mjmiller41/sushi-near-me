@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Ichiban"
+title: Sushi Ichiban
 permalink: /illinois/champaign/sushi-ichiban.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Champaign
 seo:
-  name: "Sushi Ichiban"
-  type: Restaurant
+  type: restaurant
   links: https://www.sushiichiban.net/
-description: "Simple counter-serve place for sushi & Japanese basics like noodle soups & teriyaki dishes. Sushi Ichiban serves delicious sushi in Champaign, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJm91feD_XDIgRGK707_uqJ-g
 photos:
   - name: >-
@@ -183,6 +181,33 @@ price_range: $10 &ndash; $20
 rating: '3.9'
 rating_count: 0
 website: https://www.sushiichiban.net/
+description: >-
+  Discover Sushi Ichiban in Champaign, IL$$$Nestled in the heart of Champaign,
+  IL, Sushi Ichiban stands out as a casual spot for enjoying fresh Japanese
+  cuisine, offering a variety of sushi rolls and savory teriyaki options that
+  appeal to those seeking sushi restaurants nearby. This welcoming eatery
+  emphasizes accessibility with features like wheelchair-friendly entrances,
+  making it easy for everyone to savor its affordable all-you-can-eat style
+  dishes. Patrons appreciate the straightforward menu that includes flavorful
+  noodle soups and grilled favorites, perfect for a quick yet satisfying meal in
+  a lively campus area. Whether you're exploring top-rated sushi options close
+  to you or looking for Japanese-inspired eats, the atmosphere here balances
+  simplicity with tasty, everyday dining experiences that keep locals coming
+  back.
+generative_summary: >-
+  Discover Sushi Ichiban in Champaign, IL$$$Nestled in the heart of Champaign,
+  IL, Sushi Ichiban stands out as a casual spot for enjoying fresh Japanese
+  cuisine, offering a variety of sushi rolls and savory teriyaki options that
+  appeal to those seeking sushi restaurants nearby. This welcoming eatery
+  emphasizes accessibility with features like wheelchair-friendly entrances,
+  making it easy for everyone to savor its affordable all-you-can-eat style
+  dishes. Patrons appreciate the straightforward menu that includes flavorful
+  noodle soups and grilled favorites, perfect for a quick yet satisfying meal in
+  a lively campus area. Whether you're exploring top-rated sushi options close
+  to you or looking for Japanese-inspired eats, the atmosphere here balances
+  simplicity with tasty, everyday dining experiences that keep locals coming
+  back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJm91feD_XDIgRGK707_uqJ-g/reviews/ChZDSUhNMG9nS0VJQ0FnTURRa2RMclRnEAE
@@ -382,6 +407,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNncUxUV0hnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNncUxUV0hnEAE!2m1!1s0x880cd73f785fdd9b:0xe827aafbeff4ae18
+review_summary: >-
+  What Customers Are Saying About Sushi Ichiban$$$Visitors often praise Sushi
+  Ichiban for its high-quality food and great value, highlighting the fresh
+  rolls and generous deals that make it a go-to for sushi lovers in the area.
+  While some folks mention occasional service hiccups, the overall vibe leans
+  positive with many enjoying the helpful staff and cozy setting that enhances
+  the meal. It's clear that the affordable pricing and variety keep things
+  appealing, though a few note that consistency in preparation can vary,
+  encouraging a balanced approach to expectations. All in all, this spot
+  delivers solid Japanese flavors that satisfy cravings, making it worth trying
+  if you're hunting for reliable sushi places nearby, as long as you go in with
+  an open mind for a casual dining adventure.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidParkingLot: true
   paidStreetParking: true
@@ -414,8 +452,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Simple counter-serve place for sushi & Japanese basics like noodle soups &
   teriyaki dishes.
 

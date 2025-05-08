@@ -5,4 +5,5 @@ permalink: /california/cupertino/
 stateAbbr: CA
 stateName: California
 cityName: Cupertino
+
 ---

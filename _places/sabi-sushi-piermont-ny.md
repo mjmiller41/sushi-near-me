@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sabi Sushi"
+title: Sabi Sushi
 permalink: /new-york/piermont/sabi-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: Piermont
 seo:
-  name: "Sabi Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.sabisushinyc.com/
-description: "Sabi Sushi serves delicious sushi in Piermont, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJ9xEYSJfrwokR5OcHXj410G8
 photos:
   - name: >-
@@ -185,6 +183,35 @@ price_range: null
 rating: '4.7'
 rating_count: 0
 website: http://www.sabisushinyc.com/
+description: >-
+  Discover Sabi Sushi in Piermont, New York$$$Sabi Sushi in Piermont, New York,
+  stands out as a welcoming spot for fresh sushi and Japanese-inspired dishes,
+  blending casual vibes with flavorful options like creative dumplings and light
+  appetizers. This cozy restaurant offers a selection of beer and wine to
+  complement its menu, making it an ideal choice for those seeking authentic
+  Japanese fare in a relaxed setting. Patrons can enjoy high-quality ingredients
+  and a variety of sushi rolls that highlight the best of Japanese cuisine, all
+  within an intimate atmosphere perfect for a casual meal. Accessibility
+  features like wheelchair-friendly entrances and seating add to the appeal,
+  ensuring a comfortable visit for everyone. Whether you're exploring sushi
+  restaurants near Piermont or looking for top-rated options in the area, Sabi
+  Sushi delivers a memorable dining experience with its focus on quality and
+  variety.
+generative_summary: >-
+  Discover Sabi Sushi in Piermont, New York$$$Sabi Sushi in Piermont, New York,
+  stands out as a welcoming spot for fresh sushi and Japanese-inspired dishes,
+  blending casual vibes with flavorful options like creative dumplings and light
+  appetizers. This cozy restaurant offers a selection of beer and wine to
+  complement its menu, making it an ideal choice for those seeking authentic
+  Japanese fare in a relaxed setting. Patrons can enjoy high-quality ingredients
+  and a variety of sushi rolls that highlight the best of Japanese cuisine, all
+  within an intimate atmosphere perfect for a casual meal. Accessibility
+  features like wheelchair-friendly entrances and seating add to the appeal,
+  ensuring a comfortable visit for everyone. Whether you're exploring sushi
+  restaurants near Piermont or looking for top-rated options in the area, Sabi
+  Sushi delivers a memorable dining experience with its focus on quality and
+  variety.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ9xEYSJfrwokR5OcHXj410G8/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3LWJIZG5BRRAB
@@ -318,6 +345,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNab2RLZkZREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNab2RLZkZREAE!2m1!1s0x89c2eb97481811f7:0x6fd0353e5e07e7e4
+review_summary: >-
+  What People Love About This Sushi Spot$$$Folks rave about the fresh and
+  flavorful sushi at this spot, often highlighting how it stands out for its
+  high quality and creative presentations that make every bite exciting. Many
+  appreciate the friendly service and cozy atmosphere, which create a welcoming
+  vibe that's perfect for a relaxed outing or special occasion. While some note
+  that the prices are on the higher side, most agree it's worth it for the
+  delicious entrees and overall experience that keeps diners coming back.
+  Reviewers frequently mention the variety of options, including Japanese
+  favorites that cater to different tastes, making it a go-to for groups or solo
+  visits. If you're hunting for the best sushi near you, this place consistently
+  delivers solid satisfaction with its tasty dishes and attentive staff, earning
+  it a reputation as a reliable favorite in the community.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options:
   acceptsCreditCards: true
@@ -347,7 +388,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

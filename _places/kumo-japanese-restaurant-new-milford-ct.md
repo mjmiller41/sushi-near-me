@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kumo Japanese Restaurant"
+title: Kumo Japanese Restaurant
 permalink: /connecticut/new-milford/kumo-japanese-restaurant.html
 stateAbbr: CT
 stateName: Connecticut
 cityName: New Milford
 seo:
-  name: "Kumo Japanese Restaurant"
-  type: Restaurant
-  links: null
-description: "Kumo Japanese Restaurant serves delicious sushi in New Milford, Connecticut. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.ctkumo.com/
 place_id: ChIJKfGpTl_254kRIkXQrOuJTX8
 photos:
   - name: >-
@@ -170,22 +168,284 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89e7f65f4ea9f129:0x7f4d89ebacd04522!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:30 PM'
+    - 'Tuesday: Closed'
+    - 'Wednesday: 11:00 AM – 9:30 PM'
+    - 'Thursday: 11:00 AM – 9:30 PM'
+    - 'Friday: 11:00 AM – 10:00 PM'
+    - 'Saturday: 11:00 AM – 10:00 PM'
+    - 'Sunday: 12:00 – 9:30 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 0
+        close:
+          day: 0
+          hour: 22
+          minute: 0
+      - open:
+          day: 1
+          hour: 11
+          minute: 0
+        close:
+          day: 1
+          hour: 21
+          minute: 30
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 21
+          minute: 30
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 30
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 22
+          minute: 0
+      - open:
+          day: 6
+          hour: 11
+          minute: 0
+        close:
+          day: 6
+          hour: 21
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 11:00 AM – 9:30 PM'
+      - 'Tuesday: Closed'
+      - 'Wednesday: 11:00 AM – 9:30 PM'
+      - 'Thursday: 11:00 AM – 9:30 PM'
+      - 'Friday: 11:00 AM – 10:00 PM'
+      - 'Saturday: 11:00 AM – 9:30 PM'
+      - 'Sunday: 12:00 – 10:00 PM'
+    secondaryHoursType: TAKEOUT
+    nextCloseTime: '2025-05-04T01:30:00Z'
+  - openNow: false
+    periods:
+      - open:
+          day: 1
+          hour: 11
+          minute: 0
+        close:
+          day: 1
+          hour: 15
+          minute: 30
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 15
+          minute: 30
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 15
+          minute: 30
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 15
+          minute: 30
+      - open:
+          day: 6
+          hour: 11
+          minute: 0
+        close:
+          day: 6
+          hour: 15
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 11:00 AM – 3:30 PM'
+      - 'Tuesday: Closed'
+      - 'Wednesday: 11:00 AM – 3:30 PM'
+      - 'Thursday: 11:00 AM – 3:30 PM'
+      - 'Friday: 11:00 AM – 3:30 PM'
+      - 'Saturday: 11:00 AM – 3:30 PM'
+      - 'Sunday: Closed'
+    secondaryHoursType: LUNCH
+    nextOpenTime: '2025-05-05T15:00:00Z'
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 0
+        close:
+          day: 0
+          hour: 21
+          minute: 30
+      - open:
+          day: 1
+          hour: 15
+          minute: 30
+        close:
+          day: 1
+          hour: 21
+          minute: 30
+      - open:
+          day: 3
+          hour: 15
+          minute: 30
+        close:
+          day: 3
+          hour: 21
+          minute: 30
+      - open:
+          day: 4
+          hour: 15
+          minute: 30
+        close:
+          day: 4
+          hour: 21
+          minute: 30
+      - open:
+          day: 5
+          hour: 15
+          minute: 30
+        close:
+          day: 5
+          hour: 22
+          minute: 0
+      - open:
+          day: 6
+          hour: 15
+          minute: 30
+        close:
+          day: 6
+          hour: 22
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 3:30 – 9:30 PM'
+      - 'Tuesday: Closed'
+      - 'Wednesday: 3:30 – 9:30 PM'
+      - 'Thursday: 3:30 – 9:30 PM'
+      - 'Friday: 3:30 – 10:00 PM'
+      - 'Saturday: 3:30 – 10:00 PM'
+      - 'Sunday: 12:00 – 9:30 PM'
+    secondaryHoursType: DINNER
+    nextCloseTime: '2025-05-04T02:00:00Z'
+phone: (860) 799-5711
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.5'
+rating_count: 212
+website: http://www.ctkumo.com/
+description: >-
+  Discover Kumo Japanese Restaurant in New Milford, CT$$$Nestled in the heart of
+  New Milford, CT, Kumo Japanese Restaurant offers a welcoming atmosphere for
+  enjoying authentic Japanese cuisine. This spot stands out with its relaxed
+  vibe and a variety of all-you-can-eat options, including fresh sushi rolls and
+  flavorful teriyaki dishes that highlight traditional flavors. Diners can
+  appreciate the accessible features like wheelchair-friendly parking and
+  seating, making it easy for everyone to savor the experience. Whether you're
+  seeking sushi places near you or craving a casual Japanese meal, the menu
+  balances simplicity with satisfying portions. Open for lunch and dinner
+  several days a week, it's a great choice for those exploring top-rated dining
+  options in the area.
+generative_summary: >-
+  Discover Kumo Japanese Restaurant in New Milford, CT$$$Nestled in the heart of
+  New Milford, CT, Kumo Japanese Restaurant offers a welcoming atmosphere for
+  enjoying authentic Japanese cuisine. This spot stands out with its relaxed
+  vibe and a variety of all-you-can-eat options, including fresh sushi rolls and
+  flavorful teriyaki dishes that highlight traditional flavors. Diners can
+  appreciate the accessible features like wheelchair-friendly parking and
+  seating, making it easy for everyone to savor the experience. Whether you're
+  seeking sushi places near you or craving a casual Japanese meal, the menu
+  balances simplicity with satisfying portions. Open for lunch and dinner
+  several days a week, it's a great choice for those exploring top-rated dining
+  options in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What People Are Saying About the Food$$$Visitors to this sushi spot often rave
+  about the fresh, high-quality ingredients that make every bite feel satisfying
+  and authentic, earning it a solid reputation among local favorites. Many
+  appreciate the generous portions and variety of dishes, noting that the
+  all-you-can-eat style keeps things exciting without breaking the bank. While
+  some mention occasional waits during peak hours, the overall service comes
+  across as friendly and efficient, adding to the enjoyable vibe. Folks
+  searching for the best sushi near them frequently highlight the flavorful
+  teriyaki and rolls as standout choices that deliver on taste and value. All in
+  all, the positive feedback paints a picture of a reliable go-to for casual
+  Japanese dining, making it worth a try if you're in the mood for something
+  delicious.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +471,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

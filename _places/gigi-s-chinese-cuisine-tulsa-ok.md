@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Gigi's Chinese Cuisine"
+title: Gigi's Chinese Cuisine
 permalink: /oklahoma/tulsa/gigi-s-chinese-cuisine.html
 stateAbbr: OK
 stateName: Oklahoma
 cityName: Tulsa
 seo:
-  name: "Gigi's Chinese Cuisine"
-  type: Restaurant
-  links: null
-description: "Gigi's Chinese Cuisine serves delicious sushi in Tulsa, Oklahoma. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.facebook.com/GiGisTulsa/
 place_id: ChIJmV9x-UKStocRmrVgqjhoCa0
 photos:
   - name: >-
@@ -170,8 +168,113 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x87b69242f9715f99:0xad096838aa60b59a!10e5
 primary_type: Asian Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 14
+        minute: 30
+    - open:
+        day: 6
+        hour: 16
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
+    - 'Thursday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
+    - 'Friday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
+    - 'Saturday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
+    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +282,50 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
+phone: (918) 992-5822
 price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+price_range: $10 &ndash; $20
+rating: '4.5'
+rating_count: 363
+website: https://www.facebook.com/GiGisTulsa/
+description: >-
+  About Gigi's Chinese Cuisine in Tulsa, OK$$$Gigi's Chinese Cuisine in Tulsa,
+  OK, stands out as a welcoming spot for enjoying a mix of creative sushi
+  options and classic Chinese dishes in a contemporary environment. The menu
+  highlights fresh sushi selections alongside comforting traditional favorites,
+  making it a go-to choice for those seeking diverse Asian flavors close to
+  home. With accessible features like wheelchair-friendly entrances and ample
+  seating, it caters to a wide range of diners looking for an inclusive dining
+  experience. Operating hours span lunch and dinner services throughout the
+  week, ensuring options for both quick meals and relaxed evenings. This sushi
+  restaurant near Tulsa provides a modern vibe that enhances the overall
+  enjoyment of its flavorful offerings.
+generative_summary: >-
+  About Gigi's Chinese Cuisine in Tulsa, OK$$$Gigi's Chinese Cuisine in Tulsa,
+  OK, stands out as a welcoming spot for enjoying a mix of creative sushi
+  options and classic Chinese dishes in a contemporary environment. The menu
+  highlights fresh sushi selections alongside comforting traditional favorites,
+  making it a go-to choice for those seeking diverse Asian flavors close to
+  home. With accessible features like wheelchair-friendly entrances and ample
+  seating, it caters to a wide range of diners looking for an inclusive dining
+  experience. Operating hours span lunch and dinner services throughout the
+  week, ensuring options for both quick meals and relaxed evenings. This sushi
+  restaurant near Tulsa provides a modern vibe that enhances the overall
+  enjoyment of its flavorful offerings.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback Highlights$$$Folks frequently mention that the appetizers
+  and main dishes, such as flavorful soups and hearty noodles, hit the spot with
+  their tasty profiles and satisfying portions. The staff comes across as
+  friendly and attentive, helping to create a relaxed and welcoming vibe that
+  makes every visit feel easygoing. Service tends to be prompt, allowing diners
+  to enjoy their meals without long waits, which adds to the appeal for casual
+  get-togethers. Overall, the calm atmosphere combined with solid food choices
+  keeps things positive for groups or individuals exploring top-rated sushi
+  spots nearby. If you're on the hunt for reliable Asian cuisine in the area,
+  this place often leaves people feeling glad they stopped by.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +351,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

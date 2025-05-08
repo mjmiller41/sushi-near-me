@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "I Love Sushi"
+title: I Love Sushi
 permalink: /california/davis/i-love-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Davis
 seo:
-  name: "I Love Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.ilovesushiucdavis.com/
-description: "I Love Sushi serves delicious sushi in Davis, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJfSV0cHcphYAR4k2c9QVDkCU
 photos:
   - name: >-
@@ -170,7 +168,121 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x808529777074257d:0x25904305f59c4de2!10e5
 primary_type: Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 15
+        minute: 0
+    - open:
+        day: 0
+        hour: 16
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 15
+        minute: 0
+    - open:
+        day: 6
+        hour: 16
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
     - 'Tuesday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
     - 'Wednesday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
@@ -178,14 +290,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
     - 'Saturday: 11:00 AM – 3:00 PM, 4:30 – 9:00 PM'
     - 'Sunday: 12:00 – 3:00 PM, 4:30 – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
-    - 'Thursday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
-    - 'Friday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
-    - 'Saturday: 11:00 AM – 3:00 PM, 4:30 – 9:00 PM'
-    - 'Sunday: 12:00 – 3:00 PM, 4:30 – 9:00 PM'
+  nextOpenTime: '2025-05-03T23:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +302,270 @@ phone: (530) 758-4560
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.1'
-rating_count: 0
+rating_count: 342
 website: http://www.ilovesushiucdavis.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover I Love Sushi in Davis, CA$$$I Love Sushi in Davis, California, stands
+  out as a welcoming spot for those seeking flavorful Japanese cuisine and
+  beyond, offering an all-you-can-eat experience that combines fresh sushi rolls
+  with a selection of Chinese and Korean-inspired dishes. This restaurant
+  provides a comfortable atmosphere with thoughtful accessibility features,
+  making it easy for everyone to enjoy their meal, whether you're dining with
+  friends or family. Patrons can savor a variety of options that cater to
+  different tastes, from classic rolls to hearty entrees, all at a moderate
+  price point that feels accessible for everyday visits. If you're exploring
+  sushi restaurants near you or looking for top-rated Japanese places in the
+  area, this location delivers a satisfying blend of quality and value that
+  keeps diners coming back.
+generative_summary: >-
+  Discover I Love Sushi in Davis, CA$$$I Love Sushi in Davis, California, stands
+  out as a welcoming spot for those seeking flavorful Japanese cuisine and
+  beyond, offering an all-you-can-eat experience that combines fresh sushi rolls
+  with a selection of Chinese and Korean-inspired dishes. This restaurant
+  provides a comfortable atmosphere with thoughtful accessibility features,
+  making it easy for everyone to enjoy their meal, whether you're dining with
+  friends or family. Patrons can savor a variety of options that cater to
+  different tastes, from classic rolls to hearty entrees, all at a moderate
+  price point that feels accessible for everyday visits. If you're exploring
+  sushi restaurants near you or looking for top-rated Japanese places in the
+  area, this location delivers a satisfying blend of quality and value that
+  keeps diners coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJfSV0cHcphYAR4k2c9QVDkCU/reviews/ChZDSUhNMG9nS0VJQ0FnSUMzXzYtTUZnEAE
+    relativePublishTimeDescription: 5 months ago
+    rating: 2
+    text:
+      text: >-
+        I don’t know where to begin with this restaurant, but I will definitely
+        say the sushi quality is very poor. I am a huge sushi fanatic and have
+        eaten at many sushi restaurants in the Bay Area! The quality of the
+        salmon and eel were very, very gross. The crab was the worst imitation
+        crab I have had. It’s worse than Safeway!!! The best part is they
+        forcefully add a 15% gratuity tip on allllll orders! This is quite
+        ridiculous especially because the service was very mediocre, the only
+        person who was on top of the service was the younger girl. Aside from
+        that this place was very mediocre. I wouldn’t recommend coming here.
+      languageCode: en
+    originalText:
+      text: >-
+        I don’t know where to begin with this restaurant, but I will definitely
+        say the sushi quality is very poor. I am a huge sushi fanatic and have
+        eaten at many sushi restaurants in the Bay Area! The quality of the
+        salmon and eel were very, very gross. The crab was the worst imitation
+        crab I have had. It’s worse than Safeway!!! The best part is they
+        forcefully add a 15% gratuity tip on allllll orders! This is quite
+        ridiculous especially because the service was very mediocre, the only
+        person who was on top of the service was the younger girl. Aside from
+        that this place was very mediocre. I wouldn’t recommend coming here.
+      languageCode: en
+    authorAttribution:
+      displayName: Nick G
+      uri: https://www.google.com/maps/contrib/113440770989574243002/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUNxaR58XsgIsQ96xTyQmTl0ViGNhIQy-h8i_Dmrv16miU7y6k=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-11-10T22:48:15.445241Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUMzXzYtTUZnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUMzXzYtTUZnEAE!2m1!1s0x808529777074257d:0x25904305f59c4de2
+  - name: >-
+      places/ChIJfSV0cHcphYAR4k2c9QVDkCU/reviews/ChZDSUhNMG9nS0VJQ0FnSUNuaTltQ1JBEAE
+    relativePublishTimeDescription: 7 months ago
+    rating: 4
+    text:
+      text: >-
+        I really love this place! They have fresh seafood, and their service is
+        excellent. We ordered the California roll, the Dynamite roll, the Salmon
+        Lemon roll, and the Rainbow roll (as shown in the picture). You can
+        choose the all-you-can-eat menu, which I found to be affordable compared
+        to other places.
+      languageCode: en
+    originalText:
+      text: >-
+        I really love this place! They have fresh seafood, and their service is
+        excellent. We ordered the California roll, the Dynamite roll, the Salmon
+        Lemon roll, and the Rainbow roll (as shown in the picture). You can
+        choose the all-you-can-eat menu, which I found to be affordable compared
+        to other places.
+      languageCode: en
+    authorAttribution:
+      displayName: Charly Aldebs
+      uri: https://www.google.com/maps/contrib/117006345428562720515/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjX56Isv5Uivwpq1Vscw8iTJdf6KornlwCDrCPhUvZHTNZZYU-8v=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-09-29T22:00:26.670702Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNuaTltQ1JBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNuaTltQ1JBEAE!2m1!1s0x808529777074257d:0x25904305f59c4de2
+  - name: >-
+      places/ChIJfSV0cHcphYAR4k2c9QVDkCU/reviews/ChZDSUhNMG9nS0VJQ0FnSUREa2FQNEhnEAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        From start to finish, an experience worth coming back for; this will not
+        be our last time here. We are making this our go to Japanese spot in
+        Davis moving forward. My fam LOVES sushi and they never have it with me
+        because of the limited vegan/vegetarian options. Despite the mixed
+        reviews, decided to give it a whirl because I did see things I can have
+        and wanted to make it a special date for my fam.
+
+
+        On several reviews the top complaints referenced terrible service and
+        dry, tasteless food. Both I can dispute based on my experience. Wendy
+        and her team were so attentive, placed our order at 7:11 pm and was
+        dining at 7:20! Nothing at all to complain about. We had the teriyaki
+        chicken meal and an avocado salad, the house tea (green tea/rice blend)
+        and a taste of their delicious coffee cake for dessert.
+
+
+        Plenty of parking in the plaza lot. They have an outstanding all you can
+        eat menu that we will try in the near future.
+      languageCode: en
+    originalText:
+      text: >-
+        From start to finish, an experience worth coming back for; this will not
+        be our last time here. We are making this our go to Japanese spot in
+        Davis moving forward. My fam LOVES sushi and they never have it with me
+        because of the limited vegan/vegetarian options. Despite the mixed
+        reviews, decided to give it a whirl because I did see things I can have
+        and wanted to make it a special date for my fam.
+
+
+        On several reviews the top complaints referenced terrible service and
+        dry, tasteless food. Both I can dispute based on my experience. Wendy
+        and her team were so attentive, placed our order at 7:11 pm and was
+        dining at 7:20! Nothing at all to complain about. We had the teriyaki
+        chicken meal and an avocado salad, the house tea (green tea/rice blend)
+        and a taste of their delicious coffee cake for dessert.
+
+
+        Plenty of parking in the plaza lot. They have an outstanding all you can
+        eat menu that we will try in the near future.
+      languageCode: en
+    authorAttribution:
+      displayName: Crystal
+      uri: https://www.google.com/maps/contrib/115391966130693506810/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWnCpLHarsw4QGsOgTJ10ZKzYUtU8yox6jEAspKkr9RYzAW9OvJ=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2024-04-10T19:54:47.867090Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUREa2FQNEhnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUREa2FQNEhnEAE!2m1!1s0x808529777074257d:0x25904305f59c4de2
+  - name: >-
+      places/ChIJfSV0cHcphYAR4k2c9QVDkCU/reviews/ChZDSUhNMG9nS0VJQ0FnSUNCeDhlWlB3EAE
+    relativePublishTimeDescription: 2 years ago
+    rating: 5
+    text:
+      text: >-
+        The owner, Wendy, is an incredibly kind person, she took good care of
+        our table. The food itself was super tasty, and all the sashimi tasted
+        very fresh. The rolls were also super delicious. I also liked the hot
+        tea that we ordered! It was a very high quality genmai, and we enjoyed
+        many refills. All in all, it was a great experience, and I will be
+        recommending this place to my friends.
+      languageCode: en
+    originalText:
+      text: >-
+        The owner, Wendy, is an incredibly kind person, she took good care of
+        our table. The food itself was super tasty, and all the sashimi tasted
+        very fresh. The rolls were also super delicious. I also liked the hot
+        tea that we ordered! It was a very high quality genmai, and we enjoyed
+        many refills. All in all, it was a great experience, and I will be
+        recommending this place to my friends.
+      languageCode: en
+    authorAttribution:
+      displayName: Mei Yan Lin
+      uri: https://www.google.com/maps/contrib/117402158409718135779/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjW8BP7cLbLmypy4MtvyTS1hmxk5KrYZ52YyMRE8gH7d6jHRFgU=s128-c0x00000000-cc-rp-mo
+    publishTime: '2023-01-06T04:03:30.765347Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNCeDhlWlB3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNCeDhlWlB3EAE!2m1!1s0x808529777074257d:0x25904305f59c4de2
+  - name: >-
+      places/ChIJfSV0cHcphYAR4k2c9QVDkCU/reviews/ChdDSUhNMG9nS0VJQ0FnSUNuX2JqN3FnRRAB
+    relativePublishTimeDescription: 7 months ago
+    rating: 5
+    text:
+      text: >-
+        Love love this sushi place! Me and my boyfriend always come here every
+        week when we can! This is place is so good that we’ve been coming here
+        for a year!The food,service, atmosphere is 100/10! Love this place so
+        much! We usually get the Domo arigato, golden roll, dragon roll, reggae
+        man, the gyozas, and the tuna and salmon sashimi! Their Thai tea is also
+        so good! Highly recommend this place to all sushi lovers!
+      languageCode: en
+    originalText:
+      text: >-
+        Love love this sushi place! Me and my boyfriend always come here every
+        week when we can! This is place is so good that we’ve been coming here
+        for a year!The food,service, atmosphere is 100/10! Love this place so
+        much! We usually get the Domo arigato, golden roll, dragon roll, reggae
+        man, the gyozas, and the tuna and salmon sashimi! Their Thai tea is also
+        so good! Highly recommend this place to all sushi lovers!
+      languageCode: en
+    authorAttribution:
+      displayName: Chelsea Bahena
+      uri: https://www.google.com/maps/contrib/116309174544590283668/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocI7nrY17fanRGUv08nm5oKEfo-bY90i4mzHMYrPHo4XjXA9Qw=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-09-29T02:07:23.346497Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNuX2JqN3FnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNuX2JqN3FnRRAB!2m1!1s0x808529777074257d:0x25904305f59c4de2
+review_summary: >-
+  What People Are Buzzing About$$$Folks often rave about the fresh seafood and
+  tasty rolls at this spot, making it a solid pick for anyone craving reliable
+  sushi options without breaking the bank. Many appreciate the all-you-can-eat
+  deals and friendly service that add to the overall fun vibe, especially for
+  groups or families looking to try a mix of dishes. While some comments mention
+  occasional inconsistencies with food quality, the general feedback leans
+  positive, highlighting the affordability and variety that make it worth a
+  visit. Overall, it's a go-to choice for sushi enthusiasts searching nearby,
+  offering a relaxed setting where the highlights far outweigh any minor
+  hiccups. If you're on the hunt for the best sushi near me, this place delivers
+  an enjoyable experience that's easy to recommend.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+curbside_pickup: false
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: true
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: true
+serves_brunch: false
+serves_cocktails: true
+serves_coffee: true
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

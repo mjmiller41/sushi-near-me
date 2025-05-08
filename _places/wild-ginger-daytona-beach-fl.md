@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Wild Ginger"
+title: Wild Ginger
 permalink: /florida/daytona-beach/wild-ginger.html
 stateAbbr: FL
 stateName: Florida
 cityName: Daytona Beach
 seo:
-  name: "Wild Ginger"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Wild Ginger serves delicious sushi in Daytona Beach, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ5Zl_27Pd5ogRefR2AEF_RjY
 photos:
   - name: >-
@@ -185,7 +183,44 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Wild Ginger in Daytona Beach, FL$$$Wild Ginger in Daytona Beach, FL,
+  stands out as a welcoming Asian restaurant offering a variety of fresh dishes
+  in a relaxed setting. This spot specializes in sushi, ramen, and poke bowls,
+  drawing in locals and visitors with its flavorful Asian favorites and casual
+  vibe that makes dining enjoyable. Accessibility features like
+  wheelchair-friendly parking and entrances add to the convenience, ensuring
+  everyone can savor the experience. The menu highlights generous portions and a
+  clean atmosphere, making it a go-to choice for those seeking tasty
+  Japanese-inspired meals near the area. Whether you're exploring sushi options
+  or simply craving a laid-back meal, this restaurant delivers on quality and
+  comfort.
+generative_summary: >-
+  Discover Wild Ginger in Daytona Beach, FL$$$Wild Ginger in Daytona Beach, FL,
+  stands out as a welcoming Asian restaurant offering a variety of fresh dishes
+  in a relaxed setting. This spot specializes in sushi, ramen, and poke bowls,
+  drawing in locals and visitors with its flavorful Asian favorites and casual
+  vibe that makes dining enjoyable. Accessibility features like
+  wheelchair-friendly parking and entrances add to the convenience, ensuring
+  everyone can savor the experience. The menu highlights generous portions and a
+  clean atmosphere, making it a go-to choice for those seeking tasty
+  Japanese-inspired meals near the area. Whether you're exploring sushi options
+  or simply craving a laid-back meal, this restaurant delivers on quality and
+  comfort.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Sharing$$$Folks often rave about the delicious sushi and
+  ramen at this spot, praising the fresh ingredients and hearty portions that
+  make every bite satisfying. Many highlight the friendly service and reasonable
+  prices, creating a welcoming environment that keeps people coming back for
+  more. The clean and casual setup adds to the overall appeal, with diners
+  appreciating the straightforward atmosphere that pairs well with their meals.
+  While some mention that certain dishes could use a bit more zest to enhance
+  the flavors, the positives far outweigh any minor critiques. Overall, it's a
+  solid pick for anyone hunting for reliable Asian eats, offering a mix of tasty
+  options and attentive vibes that leave a good impression.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +246,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

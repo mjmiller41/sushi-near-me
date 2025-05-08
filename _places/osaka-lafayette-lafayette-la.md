@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Osaka Lafayette"
+title: Osaka Lafayette
 permalink: /louisiana/lafayette/osaka-lafayette.html
 stateAbbr: LA
 stateName: Louisiana
 cityName: Lafayette
 seo:
-  name: "Osaka Lafayette"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Osaka Lafayette serves delicious sushi in Lafayette, Louisiana. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJdWkshUScJIYR01XpeSkLMQw
 photos:
   - name: >-
@@ -170,8 +168,113 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x86249c44852c6975:0xc310b2979e955d3!10e5
 primary_type: Korean Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 0
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 2:00 PM, 5:00 – 10:00 PM'
+    - 'Tuesday: 11:00 AM – 2:00 PM, 5:00 – 10:00 PM'
+    - 'Wednesday: 11:00 AM – 2:00 PM, 5:00 – 10:00 PM'
+    - 'Thursday: 11:00 AM – 2:00 PM, 5:00 – 10:00 PM'
+    - 'Friday: 11:00 AM – 2:00 PM, 5:00 – 10:00 PM'
+    - 'Saturday: 12:00 – 10:00 PM'
+    - 'Sunday: 5:00 – 10:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +282,48 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
+phone: (337) 264-9997
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.3'
+rating_count: 348
 website: null
+description: >-
+  Discover Osaka Lafayette in Lafayette, LA$$$Osaka Lafayette in Lafayette, LA,
+  is a casual eatery renowned for its fresh sushi and a fusion of Korean,
+  Japanese, and Vietnamese dishes that appeal to diverse tastes. The restaurant
+  boasts accessible features like wheelchair-friendly parking and seating,
+  making it welcoming for all diners seeking sushi places near them. With
+  extended hours from lunch through dinner on most days, it's an ideal spot for
+  those exploring top-rated sushi options in a relaxed atmosphere. Guests can
+  enjoy a variety of flavorful specialties, from expertly prepared rolls to
+  hearty entrees, all served in a setting that combines simplicity with
+  authentic Asian influences.
+generative_summary: >-
+  Discover Osaka Lafayette in Lafayette, LA$$$Osaka Lafayette in Lafayette, LA,
+  is a casual eatery renowned for its fresh sushi and a fusion of Korean,
+  Japanese, and Vietnamese dishes that appeal to diverse tastes. The restaurant
+  boasts accessible features like wheelchair-friendly parking and seating,
+  making it welcoming for all diners seeking sushi places near them. With
+  extended hours from lunch through dinner on most days, it's an ideal spot for
+  those exploring top-rated sushi options in a relaxed atmosphere. Guests can
+  enjoy a variety of flavorful specialties, from expertly prepared rolls to
+  hearty entrees, all served in a setting that combines simplicity with
+  authentic Asian influences.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About Osaka$$$Folks hunting for sushi restaurants
+  near them often rave about the fresh flavors and creative twists at Osaka
+  Lafayette, based on its solid 4.3-star rating from hundreds of visitors. Many
+  highlight the menu's mix of sushi and other Asian dishes as a standout choice
+  for a satisfying meal, with comments praising the generous portions and taste
+  that keep people coming back. While some note occasional waits during peak
+  times, the overall vibe is positive, with diners appreciating the attentive
+  service and welcoming environment. It's frequently recommended as a go-to for
+  groups or anyone in the mood for reliable, enjoyable dining that lives up to
+  expectations without any major letdowns.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +349,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,14 @@
 ---
 layout: place
-title: "Nobu San Diego"
+title: Nobu San Diego
 permalink: /california/san-diego/nobu-san-diego.html
 stateAbbr: CA
 stateName: California
 cityName: San Diego
 seo:
-  name: "Nobu San Diego"
-  type: Restaurant
-  links: https://www.noburestaurants.com/sandiego/home/?utm_source=google&utm_medium=Yext
-description: "Nobu San Diego serves delicious sushi in San Diego, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, and dinner."
+  type: restaurant
+  links: >-
+    https://www.noburestaurants.com/sandiego/home/?utm_source=google&utm_medium=Yext
 place_id: ChIJTTePWlpT2YARQlYBgNZDN7Q
 photos:
   - name: >-
@@ -186,6 +185,29 @@ rating: '4.2'
 rating_count: 0
 website: >-
   https://www.noburestaurants.com/sandiego/home/?utm_source=google&utm_medium=Yext
+description: >-
+  About Nobu San Diego in San Diego, CA$$$Nobu San Diego in San Diego, CA,
+  stands out as a top spot for innovative Japanese cuisine infused with global
+  influences, set in a sleek and modern environment. This restaurant delights
+  visitors with its fresh seafood selections and creative dishes that highlight
+  exquisite flavors and elegant presentations, making it a go-to for sushi
+  enthusiasts. Accessibility features like wheelchair-friendly entrances and
+  seating add to the welcoming vibe, ensuring everyone can enjoy the stylish
+  ambiance. Whether you're exploring Japanese places near you or seeking
+  standout sushi options, the venue's attention to detail and high-quality
+  ingredients create a memorable dining atmosphere.
+generative_summary: >-
+  About Nobu San Diego in San Diego, CA$$$Nobu San Diego in San Diego, CA,
+  stands out as a top spot for innovative Japanese cuisine infused with global
+  influences, set in a sleek and modern environment. This restaurant delights
+  visitors with its fresh seafood selections and creative dishes that highlight
+  exquisite flavors and elegant presentations, making it a go-to for sushi
+  enthusiasts. Accessibility features like wheelchair-friendly entrances and
+  seating add to the welcoming vibe, ensuring everyone can enjoy the stylish
+  ambiance. Whether you're exploring Japanese places near you or seeking
+  standout sushi options, the venue's attention to detail and high-quality
+  ingredients create a memorable dining atmosphere.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJTTePWlpT2YARQlYBgNZDN7Q/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3czdydUZBEAE
@@ -451,6 +473,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURRMHNDdHpnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURRMHNDdHpnRRAB!2m1!1s0x80d9535a5a8f374d:0xb43743d680015642
+review_summary: >-
+  Visitor Feedback Highlights$$$Folks heading to sushi spots like this one often
+  rave about the tasty standout dishes, such as flavorful seafood specials and
+  creative rolls that bring fresh, bold flavors to the table, making it a solid
+  pick for anyone craving top-rated sushi. The chic, modern setting gets plenty
+  of nods for its lively energy and comfortable vibe, perfect for date nights or
+  group outings, with service that's generally friendly and efficient to keep
+  things running smoothly. While some mention the prices lean towards the
+  premium side, the overall experience feels worth it for the quality and
+  creativity on offer. It's a great choice if you're on the hunt for sushi
+  restaurants near you, as diners appreciate the reliable hits despite
+  occasional minor hiccups, leaving most satisfied and eager to return.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   valetParking: true
   paidGarageParking: true
@@ -482,7 +517,7 @@ serves_lunch: null
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

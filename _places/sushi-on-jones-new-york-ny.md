@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi on Jones"
+title: Sushi on Jones
 permalink: /new-york/new-york/sushi-on-jones.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "Sushi on Jones"
-  type: Restaurant
-  links: null
-description: "Sushi on Jones serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.sushionjones.com/
 place_id: ChIJSYgFhZRZwokRdJ_SHWmaIfs
 photos:
   - name: >-
@@ -167,8 +165,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c2599485058849:0xfb219a691dd29f74!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 12
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 5:00 – 10:00 PM'
+    - 'Tuesday: 5:00 – 10:00 PM'
+    - 'Wednesday: 5:00 – 10:00 PM'
+    - 'Thursday: 5:00 – 10:00 PM'
+    - 'Friday: 12:00 – 10:00 PM'
+    - 'Saturday: 12:00 – 10:00 PM'
+    - 'Sunday: 12:00 – 10:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -176,13 +239,48 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (646) 357-0453
+price_level: PRICE_LEVEL_EXPENSIVE
+price_range: $50 &ndash; $100
+rating: '4.1'
+rating_count: 364
+website: https://www.sushionjones.com/
+description: >-
+  Experience Sushi on Jones in New York, NY$$$Sushi on Jones in New York, NY,
+  stands out as a go-to spot for authentic Japanese cuisine, offering an
+  intimate dining experience centered around expertly crafted omakase meals.
+  This sushi restaurant near bustling city streets features a selection of
+  fresh, high-quality ingredients that highlight traditional flavors, making it
+  a favorite for those seeking top-rated sushi options in the area. With its
+  cozy atmosphere and focus on seasonal dishes, visitors can enjoy a
+  multi-course journey that captures the essence of Japanese dining culture. The
+  venue's commitment to quality extends to its carefully curated menu, appealing
+  to anyone exploring sushi places near me for a memorable meal.
+generative_summary: >-
+  Experience Sushi on Jones in New York, NY$$$Sushi on Jones in New York, NY,
+  stands out as a go-to spot for authentic Japanese cuisine, offering an
+  intimate dining experience centered around expertly crafted omakase meals.
+  This sushi restaurant near bustling city streets features a selection of
+  fresh, high-quality ingredients that highlight traditional flavors, making it
+  a favorite for those seeking top-rated sushi options in the area. With its
+  cozy atmosphere and focus on seasonal dishes, visitors can enjoy a
+  multi-course journey that captures the essence of Japanese dining culture. The
+  venue's commitment to quality extends to its carefully curated menu, appealing
+  to anyone exploring sushi places near me for a memorable meal.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Feedback from Sushi Enthusiasts$$$Folks who dine at this sushi spot often rave
+  about the fresh flavors and creative presentations that make every bite feel
+  special, earning it solid marks for overall satisfaction. Many appreciate the
+  attentive service and the way the omakase style keeps things exciting without
+  overwhelming the palate, though some mention the prices as a bit on the higher
+  side for casual visits. Overall, the consensus leans positive, with plenty of
+  praise for the restaurant's ability to deliver a genuine Japanese dining vibe
+  that stands out among local options. If you're hunting for reliable sushi
+  restaurants in the city, it's clear that this place hits the mark for quality
+  and taste, making it worth checking out for your next meal.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -208,7 +306,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

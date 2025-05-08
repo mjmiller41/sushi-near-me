@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Poseidon Sushi & Hibachi"
+title: Poseidon Sushi & Hibachi
 permalink: /texas/stephenville/poseidon-sushi-hibachi.html
 stateAbbr: TX
 stateName: Texas
 cityName: Stephenville
 seo:
-  name: "Poseidon Sushi & Hibachi"
-  type: Restaurant
+  type: restaurant
   links: https://poseidonsushihibachi.com/
-description: "Poseidon Sushi & Hibachi serves delicious sushi in Stephenville, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJVx7wJpOxUYYRQstqvRzTIXU
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8651b19326f01e57:0x7521d31cbd6acb42!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:00 PM'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:00 PM'
     - 'Saturday: 11:00 AM – 9:00 PM'
     - 'Sunday: 11:00 AM – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 9:00 PM'
-    - 'Saturday: 11:00 AM – 9:00 PM'
-    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,36 +245,209 @@ secondary_opening_hours:
 phone: (254) 434-4155
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
-rating: '4.2'
-rating_count: 0
+rating: '4.3'
+rating_count: 256
 website: https://poseidonsushihibachi.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Experience Poseidon Sushi & Hibachi in Stephenville, TX$$$Poseidon Sushi &
+  Hibachi in Stephenville, TX, offers a welcoming spot for enjoying fresh
+  Japanese-inspired dishes in a relaxed atmosphere. This sushi restaurant
+  features an array of expertly prepared hibachi entrees and flavorful fare,
+  making it a go-to choice for those seeking authentic tastes close to home.
+  With its informal setting and accessibility options, it's ideal for casual
+  meals or gatherings, complemented by a variety of options that cater to
+  different preferences. The menu highlights quality ingredients in dishes like
+  sushi rolls and hibachi specials, ensuring a satisfying experience for anyone
+  exploring Japanese places near me. Open daily with moderate pricing, it
+  provides a convenient option for locals and visitors alike looking for
+  top-rated sushi in the area.
+generative_summary: >-
+  Experience Poseidon Sushi & Hibachi in Stephenville, TX$$$Poseidon Sushi &
+  Hibachi in Stephenville, TX, offers a welcoming spot for enjoying fresh
+  Japanese-inspired dishes in a relaxed atmosphere. This sushi restaurant
+  features an array of expertly prepared hibachi entrees and flavorful fare,
+  making it a go-to choice for those seeking authentic tastes close to home.
+  With its informal setting and accessibility options, it's ideal for casual
+  meals or gatherings, complemented by a variety of options that cater to
+  different preferences. The menu highlights quality ingredients in dishes like
+  sushi rolls and hibachi specials, ensuring a satisfying experience for anyone
+  exploring Japanese places near me. Open daily with moderate pricing, it
+  provides a convenient option for locals and visitors alike looking for
+  top-rated sushi in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJVx7wJpOxUYYRQstqvRzTIXU/reviews/ChdDSUhNMG9nS0VJQ0FnTUNRZ0o3NS1BRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        I got the Posiden special curry with shrimp and steamed rice. It had
+        good flavor and a great assortment of vegetables. The shrimp were good.
+        The only thing is that it could have been a little spicier. The Crab
+        Rangoons where ok.  The Stevenville roll was excellent.
+      languageCode: en
+    originalText:
+      text: >-
+        I got the Posiden special curry with shrimp and steamed rice. It had
+        good flavor and a great assortment of vegetables. The shrimp were good.
+        The only thing is that it could have been a little spicier. The Crab
+        Rangoons where ok.  The Stevenville roll was excellent.
+      languageCode: en
+    authorAttribution:
+      displayName: James Richardson (Eternal Rock)
+      uri: https://www.google.com/maps/contrib/106000055380261699240/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUN2XY-I9VbmExFJNcTg1wTm4irKxJR2XB5qscEfwYUKxnylFng=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2025-03-01T00:29:26.361994Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNRZ0o3NS1BRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNRZ0o3NS1BRRAB!2m1!1s0x8651b19326f01e57:0x7521d31cbd6acb42
+  - name: >-
+      places/ChIJVx7wJpOxUYYRQstqvRzTIXU/reviews/ChdDSUhNMG9nS0VJQ0FnTUNveS1YRWpRRRAB
+    relativePublishTimeDescription: a week ago
+    rating: 4
+    text:
+      text: >-
+        Our food was good, but there could have been a bit bigger of a serving
+        for the hibachi meals. Our chef was good and entertaining. Our server
+        was kind and quick to give us refills. Just overall was quiet and slow,
+        which isn’t bad but isn’t inviting to fun conversations. Our server was
+        Iqbal, and again he did amazing!
+      languageCode: en
+    originalText:
+      text: >-
+        Our food was good, but there could have been a bit bigger of a serving
+        for the hibachi meals. Our chef was good and entertaining. Our server
+        was kind and quick to give us refills. Just overall was quiet and slow,
+        which isn’t bad but isn’t inviting to fun conversations. Our server was
+        Iqbal, and again he did amazing!
+      languageCode: en
+    authorAttribution:
+      displayName: Eleni Jensen
+      uri: https://www.google.com/maps/contrib/111924808415552094415/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjX5k4wjIDuBUDr1PkHrRrmmasIqxKYqQhnJKWJmqVo1bLVh3W5_=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-19T23:55:52.576266Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNveS1YRWpRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNveS1YRWpRRRAB!2m1!1s0x8651b19326f01e57:0x7521d31cbd6acb42
+  - name: >-
+      places/ChIJVx7wJpOxUYYRQstqvRzTIXU/reviews/ChZDSUhNMG9nS0VJQ0FnTUNvczVEZFF3EAE
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        The food is good and the people are better. Me and my sisters love to
+        come here. Iqbal our server was great.
+      languageCode: en
+    originalText:
+      text: >-
+        The food is good and the people are better. Me and my sisters love to
+        come here. Iqbal our server was great.
+      languageCode: en
+    authorAttribution:
+      displayName: Brenna Dempsey
+      uri: https://www.google.com/maps/contrib/109548783142515735974/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVfDMEArLLeogwiCpUjNX2fhtCnjyTRq0Dd1rAWDFNVBBWSqN9x=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-19T18:38:31.968222Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNvczVEZFF3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNvczVEZFF3EAE!2m1!1s0x8651b19326f01e57:0x7521d31cbd6acb42
+  - name: >-
+      places/ChIJVx7wJpOxUYYRQstqvRzTIXU/reviews/ChdDSUhNMG9nS0VJQ0FnTURvam8yaDV3RRAB
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        Food was delicious!! It’s are second time coming here we really love
+        this place!! 10/10 recommended
+      languageCode: en
+    originalText:
+      text: >-
+        Food was delicious!! It’s are second time coming here we really love
+        this place!! 10/10 recommended
+      languageCode: en
+    authorAttribution:
+      displayName: Brianna Garcia
+      uri: https://www.google.com/maps/contrib/108812116829588004881/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKe1-6kQWCT_AaKQrcPcSUgzCOcFRsKyoiD_OSV7EM84f5_ig=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-24T21:14:06.765472Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURvam8yaDV3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURvam8yaDV3RRAB!2m1!1s0x8651b19326f01e57:0x7521d31cbd6acb42
+  - name: >-
+      places/ChIJVx7wJpOxUYYRQstqvRzTIXU/reviews/ChZDSUhNMG9nS0VJQ0FnTUNvdUlDRUJBEAE
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: Celebrated my birthday here love the staff food was great! Will return
+      languageCode: en
+    originalText:
+      text: Celebrated my birthday here love the staff food was great! Will return
+      languageCode: en
+    authorAttribution:
+      displayName: Sidney
+      uri: https://www.google.com/maps/contrib/117248068499101603705/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJxxCUDRyVyPL8G3HCI09SlNuXqszyCigf0zFOnizkNEZMjSA=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-15T00:47:56.550721Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNvdUlDRUJBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNvdUlDRUJBEAE!2m1!1s0x8651b19326f01e57:0x7521d31cbd6acb42
+review_summary: >-
+  Insights from Recent Feedback$$$Diners frequently praise the tasty hibachi
+  meals and sushi selections for their bold flavors and fresh ingredients,
+  making it a solid pick for anyone craving reliable Japanese cuisine. While
+  some mention that portions could be a bit more generous, the overall
+  experience is enhanced by attentive service and an entertaining vibe that
+  keeps things light and enjoyable. Feedback often highlights the great value
+  and variety, with many returning for the flavorful specials and welcoming
+  environment that suits families and groups. It's clear that the spot delivers
+  on quality, offering a fun dining option that's worth trying for those
+  searching sushi restaurants near me. All in all, the positive vibes dominate,
+  encouraging an honest recommendation for a satisfying meal out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+curbside_pickup: false
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: true
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
 serves_breakfast: null
 serves_brunch: null
-serves_cocktails: null
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

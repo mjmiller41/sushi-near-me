@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Deep Sushi"
+title: Deep Sushi
 permalink: /texas/dallas/deep-sushi.html
 stateAbbr: TX
 stateName: Texas
 cityName: Dallas
 seo:
-  name: "Deep Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://deepsushi.site/
-description: "Veteran Japanese eatery with specialty rolls,  happy hour & lunch deals in modern digs with a patio. Deep Sushi serves delicious sushi in Dallas, Texas. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ44ttwN2YToYRb0eFQ3ykLVk
 photos:
   - name: >-
@@ -185,6 +183,35 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 0
 website: https://deepsushi.site/
+description: >-
+  Discover Deep Sushi in Dallas, TX$$$Nestled in the heart of Dallas, TX, Deep
+  Sushi stands out as a premier spot for Japanese cuisine enthusiasts, offering
+  a cozy atmosphere perfect for savoring fresh sushi rolls and innovative
+  dishes. The restaurant features a modern setup with a welcoming bar and
+  outdoor patio, making it an ideal choice for casual meals or happy hour
+  gatherings. Drawing from its specialty in Japanese eats, visitors can enjoy a
+  variety of flavorful options that highlight fresh ingredients and creative
+  presentations, all at moderate prices that appeal to those searching for great
+  sushi restaurants nearby. Accessibility is a key highlight, with
+  wheelchair-friendly features throughout, ensuring everyone can enjoy the
+  experience. Whether you're exploring top-rated sushi spots in the area, this
+  venue combines quality dining with a relaxed vibe that keeps patrons coming
+  back.
+generative_summary: >-
+  Discover Deep Sushi in Dallas, TX$$$Nestled in the heart of Dallas, TX, Deep
+  Sushi stands out as a premier spot for Japanese cuisine enthusiasts, offering
+  a cozy atmosphere perfect for savoring fresh sushi rolls and innovative
+  dishes. The restaurant features a modern setup with a welcoming bar and
+  outdoor patio, making it an ideal choice for casual meals or happy hour
+  gatherings. Drawing from its specialty in Japanese eats, visitors can enjoy a
+  variety of flavorful options that highlight fresh ingredients and creative
+  presentations, all at moderate prices that appeal to those searching for great
+  sushi restaurants nearby. Accessibility is a key highlight, with
+  wheelchair-friendly features throughout, ensuring everyone can enjoy the
+  experience. Whether you're exploring top-rated sushi spots in the area, this
+  venue combines quality dining with a relaxed vibe that keeps patrons coming
+  back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ44ttwN2YToYRb0eFQ3ykLVk/reviews/ChZDSUhNMG9nS0VJQ0FnSUN6enFMS2ZnEAE
@@ -352,6 +379,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNyakx6TkZREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNyakx6TkZREAE!2m1!1s0x864e98ddc06d8be3:0x592da47c4385476f
+review_summary: >-
+  What Customers Are Buzzing About$$$Folks rave about the fresh and tasty sushi
+  at this spot, with standout rolls and dishes that deliver bold flavors without
+  breaking the bank, making it a go-to for anyone craving reliable Japanese eats
+  nearby. Many appreciate the quick service and friendly staff who go out of
+  their way to make diners feel welcome, especially during happy hour when deals
+  on drinks and appetizers add extra value. While the food portions are generous
+  and satisfying, some mention that parking can be a hassle in the area, though
+  it doesn't overshadow the overall enjoyable experience. Overall, it's a solid
+  choice for groups or dates, with the vibrant atmosphere and affordable options
+  earning high marks from regular visitors. If you're on the hunt for the best
+  sushi around, this place consistently delivers a positive vibe that leaves
+  people excited to return.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidParkingLot: true
   paidStreetParking: true
@@ -383,8 +424,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Veteran Japanese eatery with specialty rolls,  happy hour & lunch deals in
   modern digs with a patio.
 

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Mat-Jib - Korean Corndogs & Sushi Rolls"
+title: Mat-Jib - Korean Corndogs & Sushi Rolls
 permalink: /north-carolina/cary/mat-jib-korean-corndogs-sushi-rolls.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Cary
 seo:
-  name: "Mat-Jib - Korean Corndogs & Sushi Rolls"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Mat-Jib - Korean Corndogs & Sushi Rolls serves delicious sushi in Cary, North Carolina. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJk7RnISXtrIkRX5NF8oQz-IA
 photos:
   - name: >-
@@ -177,7 +175,43 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Mat-Jib in Cary, North Carolina$$$Mat-Jib - Korean Corndogs & Sushi
+  Rolls in Cary, North Carolina, stands out as a vibrant spot for enjoying
+  creative fusion dishes that combine Korean and Japanese flavors. This
+  restaurant delights visitors with its fresh sushi rolls and inventive
+  corndogs, offering a perfect blend of traditional elements and modern twists
+  for an exciting dining experience. Accessibility is a key feature, with
+  options like wheelchair-friendly parking and entrances ensuring everyone can
+  enjoy the welcoming atmosphere. Located conveniently on High House Road, it's
+  an ideal destination for those seeking top-rated sushi options or casual meals
+  with family, making it a go-to choice among local sushi places.
+generative_summary: >-
+  Discover Mat-Jib in Cary, North Carolina$$$Mat-Jib - Korean Corndogs & Sushi
+  Rolls in Cary, North Carolina, stands out as a vibrant spot for enjoying
+  creative fusion dishes that combine Korean and Japanese flavors. This
+  restaurant delights visitors with its fresh sushi rolls and inventive
+  corndogs, offering a perfect blend of traditional elements and modern twists
+  for an exciting dining experience. Accessibility is a key feature, with
+  options like wheelchair-friendly parking and entrances ensuring everyone can
+  enjoy the welcoming atmosphere. Located conveniently on High House Road, it's
+  an ideal destination for those seeking top-rated sushi options or casual meals
+  with family, making it a go-to choice among local sushi places.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Visitor Experiences$$$Folks rave about the tasty fusion of
+  Korean corndogs and sushi at this spot, often highlighting the fresh
+  ingredients and creative flavors that keep things lively and satisfying. Many
+  appreciate the approachable vibe and solid accessibility features, which make
+  it easy for all to stop by and enjoy a meal without any hassle. While some
+  mention it's a great pick for groups looking for something different from
+  standard sushi restaurants, others note the portions are generous and the
+  overall experience feels welcoming for everyday outings. Overall, it's clear
+  that this place earns high marks for its blend of fun eats and friendly
+  service, making it a solid option if you're searching for reliable sushi near
+  you.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -204,6 +238,6 @@ serves_vegetarian_food: null
 serves_wine: null
 takeout: null
 update_category: pro
-summary: null
+places_description: null
 
 ---

@@ -5,4 +5,5 @@ permalink: /north-carolina/havelock/
 stateAbbr: NC
 stateName: North Carolina
 cityName: Havelock
+
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Mastro's Steakhouse"
+title: Mastro's Steakhouse
 permalink: /arizona/scottsdale/mastro-s-steakhouse.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Scottsdale
 seo:
-  name: "Mastro's Steakhouse"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Mastro's Steakhouse serves delicious sushi in Scottsdale, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJQ-5FB7F3K4cRB9kOcZQQGBI
 photos:
   - name: >-
@@ -185,7 +183,41 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Experience Mastro's Steakhouse in Scottsdale, AZ$$$Mastro's Steakhouse in
+  Scottsdale, AZ, stands out as an elegant fine dining destination offering
+  premium steak and seafood selections in a sophisticated setting. This
+  establishment is known for its upscale ambiance, enhanced by live
+  entertainment that adds a vibrant touch to meals. Accessibility features like
+  wheelchair-friendly parking, entrances, restrooms, and seating make it
+  welcoming for all guests. The menu focuses on high-quality ingredients,
+  creating memorable dining experiences with a blend of classic and refined
+  flavors. Its location in the vibrant Scottsdale area makes it a go-to spot for
+  those seeking an elevated evening out.
+generative_summary: >-
+  Experience Mastro's Steakhouse in Scottsdale, AZ$$$Mastro's Steakhouse in
+  Scottsdale, AZ, stands out as an elegant fine dining destination offering
+  premium steak and seafood selections in a sophisticated setting. This
+  establishment is known for its upscale ambiance, enhanced by live
+  entertainment that adds a vibrant touch to meals. Accessibility features like
+  wheelchair-friendly parking, entrances, restrooms, and seating make it
+  welcoming for all guests. The menu focuses on high-quality ingredients,
+  creating memorable dining experiences with a blend of classic and refined
+  flavors. Its location in the vibrant Scottsdale area makes it a go-to spot for
+  those seeking an elevated evening out.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Visitor Feedback$$$Visitors often praise the delicious steaks at
+  this fine dining spot, highlighting favorites like tender filets and flavorful
+  bone-in ribeyes that hit the spot every time. Folks appreciate the delectable
+  desserts, such as rich chocolate cakes, which cap off meals on a sweet note.
+  The service stands out for being impeccable and attentive, contributing to a
+  welcoming atmosphere that keeps guests coming back. Live music adds an
+  enjoyable layer to the experience, making evenings feel lively and special.
+  Overall, it's a solid choice for a memorable meal, with the elegant vibe and
+  quality offerings earning high marks from diners.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +243,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

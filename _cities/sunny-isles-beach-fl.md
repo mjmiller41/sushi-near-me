@@ -5,4 +5,5 @@ permalink: /florida/sunny-isles-beach/
 stateAbbr: FL
 stateName: Florida
 cityName: Sunny Isles Beach
+
 ---

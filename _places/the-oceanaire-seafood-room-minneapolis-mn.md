@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "The Oceanaire Seafood Room"
+title: The Oceanaire Seafood Room
 permalink: /minnesota/minneapolis/the-oceanaire-seafood-room.html
 stateAbbr: MN
 stateName: Minnesota
 cityName: Minneapolis
 seo:
-  name: "The Oceanaire Seafood Room"
-  type: Restaurant
+  type: restaurant
   links: https://www.theoceanaire.com/location/minneapolis-mn/
-description: "High-end chain offering seafood, steaks & a deep wine list in sophisticated but lively environs. The Oceanaire Seafood Room serves delicious sushi in Minneapolis, Minnesota. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, and dinner."
 place_id: ChIJMYwGzL8ys1IR3HOaQldAnW4
 photos:
   - name: >-
@@ -185,6 +183,35 @@ price_range: $100 &ndash; & up
 rating: '4.5'
 rating_count: 0
 website: https://www.theoceanaire.com/location/minneapolis-mn/
+description: >-
+  Fine Dining at The Oceanaire Seafood Room in Minneapolis, MN$$$The Oceanaire
+  Seafood Room in Minneapolis, MN, stands out as a premier fine-dining
+  destination, featuring fresh seafood sourced globally for an authentic and
+  elevated culinary adventure. This elegant establishment boasts a sophisticated
+  atmosphere with daily imports that ensure top-quality dishes, making it ideal
+  for special occasions or those seeking upscale meals near the city center.
+  Accessibility is a key highlight, with wheelchair-friendly options throughout,
+  including parking and seating, catering to a wide range of diners.
+  Complementing the menu are expertly prepared steaks and sides that add variety
+  to the seafood-focused offerings, creating a memorable experience in a lively
+  yet refined setting. For those exploring top-rated seafood places near you,
+  this spot delivers exceptional flavors that highlight the best of
+  coastal-inspired cuisine.
+generative_summary: >-
+  Fine Dining at The Oceanaire Seafood Room in Minneapolis, MN$$$The Oceanaire
+  Seafood Room in Minneapolis, MN, stands out as a premier fine-dining
+  destination, featuring fresh seafood sourced globally for an authentic and
+  elevated culinary adventure. This elegant establishment boasts a sophisticated
+  atmosphere with daily imports that ensure top-quality dishes, making it ideal
+  for special occasions or those seeking upscale meals near the city center.
+  Accessibility is a key highlight, with wheelchair-friendly options throughout,
+  including parking and seating, catering to a wide range of diners.
+  Complementing the menu are expertly prepared steaks and sides that add variety
+  to the seafood-focused offerings, creating a memorable experience in a lively
+  yet refined setting. For those exploring top-rated seafood places near you,
+  this spot delivers exceptional flavors that highlight the best of
+  coastal-inspired cuisine.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJMYwGzL8ys1IR3HOaQldAnW4/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3bEw3bDN3RRAB
@@ -402,6 +429,21 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN2NHBldENnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN2NHBldENnEAE!2m1!1s0x52b332bfcc068c31:0x6e9d4057429a73dc
+review_summary: >-
+  What Guests Are Saying About the Experience$$$Visitors consistently praise the
+  outstanding food quality and attentive service at this beloved seafood venue,
+  often highlighting the fresh, flavorful dishes that make every meal feel
+  special. Many enjoy the variety of options like perfectly cooked seafood and
+  steaks, along with creative sides that add a delightful twist to the dining
+  experience, making it a go-to for celebrations or date nights. Feedback often
+  notes the welcoming ambiance and efficient staff who handle any minor issues
+  with ease, contributing to a smooth and enjoyable visit overall. While it's
+  recognized as a pricier choice, guests appreciate the value for special
+  events, with standout moments like shared desserts leaving a lasting
+  impression. If you're on the hunt for reliable seafood restaurants near me,
+  this place earns high marks for its consistent excellence and welcoming vibe
+  that keeps people coming back.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidParkingLot: true
   paidStreetParking: true
@@ -435,8 +477,8 @@ serves_lunch: false
 serves_vegetarian_food: false
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   High-end chain offering seafood, steaks & a deep wine list in sophisticated
   but lively environs.
 

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Hiko Sushi"
+title: Hiko Sushi
 permalink: /california/los-angeles/hiko-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Los Angeles
 seo:
-  name: "Hiko Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://hikosushila.com/
-description: "Hiko Sushi serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ5S6ofq67woARzzKqmoJ-dpw
 photos:
   - name: >-
@@ -170,22 +168,97 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c2bbae7ea82ee5:0x9c767e829aaa32cf!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
-    - 'Monday: 12:15 – 2:00 PM, 6:15 – 9:00 PM'
-    - 'Tuesday: 12:15 – 2:00 PM, 6:15 – 9:00 PM'
-    - 'Wednesday: 12:15 – 2:00 PM, 6:15 – 9:00 PM'
-    - 'Thursday: 12:15 – 2:00 PM, 6:15 – 9:00 PM'
-    - 'Friday: 12:15 – 2:00 PM, 6:15 – 9:00 PM'
+  openNow: false
+  periods:
+    - open:
+        day: 1
+        hour: 12
+        minute: 15
+      close:
+        day: 1
+        hour: 14
+        minute: 0
+    - open:
+        day: 1
+        hour: 18
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 12
+        minute: 15
+      close:
+        day: 2
+        hour: 14
+        minute: 0
+    - open:
+        day: 2
+        hour: 18
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 12
+        minute: 15
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 18
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 12
+        minute: 15
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 18
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 12
+        minute: 15
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 18
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 12:15 – 2:00 PM, 6:00 – 9:00 PM'
+    - 'Tuesday: 12:15 – 2:00 PM, 6:00 – 9:00 PM'
+    - 'Wednesday: 12:15 – 2:00 PM, 6:00 – 9:00 PM'
+    - 'Thursday: 12:15 – 2:00 PM, 6:00 – 9:00 PM'
+    - 'Friday: 12:15 – 2:00 PM, 6:00 – 9:00 PM'
     - 'Saturday: Closed'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 12:15 – 2:00 PM, 6:15 – 9:00 PM'
-    - 'Tuesday: 12:15 – 2:00 PM, 6:15 – 9:00 PM'
-    - 'Wednesday: 12:15 – 2:00 PM, 6:15 – 9:00 PM'
-    - 'Thursday: 12:15 – 2:00 PM, 6:15 – 9:00 PM'
-    - 'Friday: 12:15 – 2:00 PM, 6:15 – 9:00 PM'
-    - 'Saturday: Closed'
-    - 'Sunday: Closed'
+  nextOpenTime: '2025-05-05T19:15:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +270,279 @@ phone: (310) 473-7688
 price_level: PRICE_LEVEL_EXPENSIVE
 price_range: $50 &ndash; $100
 rating: '4.6'
-rating_count: 0
+rating_count: 108
 website: http://hikosushila.com/
-reviews: null
+description: >-
+  Discover Hiko Sushi in Los Angeles, CA$$$Hiko Sushi in Los Angeles, CA, stands
+  out as a cozy spot for authentic Japanese cuisine, featuring creative sushi
+  and sashimi options that highlight fresh, seasonal ingredients in a simple,
+  unpretentious atmosphere. This neighborhood gem offers warm-rice nigiri and
+  seared specialties, making it a go-to for those exploring sushi restaurants in
+  the area that emphasize quality and traditional preparation. With
+  accessibility features like wheelchair-friendly entrances and parking, it's
+  designed to welcome everyone seeking a relaxed dining experience. The menu
+  caters to dinner and lunch crowds, serving beer and wine alongside
+  vegetarian-friendly choices, all in a setting that's perfect for enjoying
+  top-rated sushi without the fuss. Whether you're searching for sushi places
+  near me or the best sushi in Los Angeles, this spot delivers a genuine taste
+  of Japan right in the Sawtelle neighborhood.
+generative_summary: >-
+  Discover Hiko Sushi in Los Angeles, CA$$$Hiko Sushi in Los Angeles, CA, stands
+  out as a cozy spot for authentic Japanese cuisine, featuring creative sushi
+  and sashimi options that highlight fresh, seasonal ingredients in a simple,
+  unpretentious atmosphere. This neighborhood gem offers warm-rice nigiri and
+  seared specialties, making it a go-to for those exploring sushi restaurants in
+  the area that emphasize quality and traditional preparation. With
+  accessibility features like wheelchair-friendly entrances and parking, it's
+  designed to welcome everyone seeking a relaxed dining experience. The menu
+  caters to dinner and lunch crowds, serving beer and wine alongside
+  vegetarian-friendly choices, all in a setting that's perfect for enjoying
+  top-rated sushi without the fuss. Whether you're searching for sushi places
+  near me or the best sushi in Los Angeles, this spot delivers a genuine taste
+  of Japan right in the Sawtelle neighborhood.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ5S6ofq67woARzzKqmoJ-dpw/reviews/ChdDSUhNMG9nS0VJQ0FnSUNqZzg3MzhnRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        Shockingly fresh sushi (everything we ordered!) in this hole in the wall
+        - highly recommend! Even did the high end sushi place thing where
+        sometimes sushi is seasoned / specific approach to the sushi is
+        recommended based on seasonality / preparation. This is going to be our
+        neighborhood spot for sure. Don’t sleep on this place!
+      languageCode: en
+    originalText:
+      text: >-
+        Shockingly fresh sushi (everything we ordered!) in this hole in the wall
+        - highly recommend! Even did the high end sushi place thing where
+        sometimes sushi is seasoned / specific approach to the sushi is
+        recommended based on seasonality / preparation. This is going to be our
+        neighborhood spot for sure. Don’t sleep on this place!
+      languageCode: en
+    authorAttribution:
+      displayName: Joyce Lee
+      uri: https://www.google.com/maps/contrib/103196459589474771307/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjX9s9hjwFkQzX4Hfp6SCNy6jml7lcNhgHQnozewbXpts-uEtFcALA=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2024-04-25T02:58:44.951858Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNqZzg3MzhnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNqZzg3MzhnRRAB!2m1!1s0x80c2bbae7ea82ee5:0x9c767e829aaa32cf
+  - name: >-
+      places/ChIJ5S6ofq67woARzzKqmoJ-dpw/reviews/ChZDSUhNMG9nS0VJQ0FnSUNubHNuT09REAE
+    relativePublishTimeDescription: 7 months ago
+    rating: 3
+    text:
+      text: >-
+        The food and service here were both really good. Unfortunately, I
+        thought the prices were too high for what I got. A few of the dishes on
+        the menu seem overpriced compared to similar restaurants in the area.
+      languageCode: en
+    originalText:
+      text: >-
+        The food and service here were both really good. Unfortunately, I
+        thought the prices were too high for what I got. A few of the dishes on
+        the menu seem overpriced compared to similar restaurants in the area.
+      languageCode: en
+    authorAttribution:
+      displayName: Iván Gómez Villafañe
+      uri: https://www.google.com/maps/contrib/113848554497798779518/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWJHeMNVQ6nRS0Zn91dr1Vhz4cFJVLyS5ZnvV0OXT-xqrtuBu_a0A=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-09-25T17:40:49.834684Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNubHNuT09REAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNubHNuT09REAE!2m1!1s0x80c2bbae7ea82ee5:0x9c767e829aaa32cf
+  - name: >-
+      places/ChIJ5S6ofq67woARzzKqmoJ-dpw/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRcE9Hd0R3EAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 1
+    text:
+      text: >-
+        They don't answer or return calls. No menu online. Hours online are
+        incorrect/incomplete from voice message.
+      languageCode: en
+    originalText:
+      text: >-
+        They don't answer or return calls. No menu online. Hours online are
+        incorrect/incomplete from voice message.
+      languageCode: en
+    authorAttribution:
+      displayName: Bianca Lombardo
+      uri: https://www.google.com/maps/contrib/115722226574397651135/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUUNUyiJTYursAkLEHkhRHX7jcmOSM15qXrYqvGciH7ipZv9wMxjQ=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-03-02T03:13:33.771472Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNRcE9Hd0R3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNRcE9Hd0R3EAE!2m1!1s0x80c2bbae7ea82ee5:0x9c767e829aaa32cf
+  - name: >-
+      places/ChIJ5S6ofq67woARzzKqmoJ-dpw/reviews/ChdDSUhNMG9nS0VJQ0FnSUREaHAzSjh3RRAB
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        Visited from the midwest and was told to stop here. What a beautiful
+        experience. The fish was so delicate and delightfully prepared. The rice
+        was out of this world. A quaint and memorable experience in the big
+        city!
+      languageCode: en
+    originalText:
+      text: >-
+        Visited from the midwest and was told to stop here. What a beautiful
+        experience. The fish was so delicate and delightfully prepared. The rice
+        was out of this world. A quaint and memorable experience in the big
+        city!
+      languageCode: en
+    authorAttribution:
+      displayName: Kara Sikorski
+      uri: https://www.google.com/maps/contrib/105106117294414800574/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVJ5s5-mMfZt7c7IP0zpE51esfZ2fmokdbRABenv3lJ4E3DMujj=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-04-08T15:52:55.419022Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUREaHAzSjh3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUREaHAzSjh3RRAB!2m1!1s0x80c2bbae7ea82ee5:0x9c767e829aaa32cf
+  - name: >-
+      places/ChIJ5S6ofq67woARzzKqmoJ-dpw/reviews/ChdDSUhNMG9nS0VJQ0FnSURneW9XeXhBRRAB
+    relativePublishTimeDescription: 6 years ago
+    rating: 5
+    text:
+      text: >-
+        To give fair warning to anyone going in the first time: It's required to
+        order a minimum of 4 items per person at a table and 5 per person if
+        sitting at the bar. Sitting at the bar also means that the chef decides
+        what you eat.
+
+
+        With that caveat out of the way the sushi was absolutely the best I've
+        ever had. Many of the dishes had sauces put into them while being made
+        and were recommended to be eaten without anything added to them. I
+        followed that advice and didn't regret it for a moment.
+
+
+        The fish melted in the mouth and, even as a person who enjoys spicy
+        foods but doesn't handle them well, the spicy sauce put into each item
+        was superbly done and never caused me any problems. Each individual part
+        was designed to perfectly compliment the main ingredient.
+
+
+        I do have to specifically mention that the eel was stunningly delectable
+        and now heads my "best sushi item ever" list.
+
+
+        The staff was incredibly nice and unfailingly polite even though I came
+        in a bare 30 minutes before they closed. The restaurant was small but
+        delightfully proportioned to allow close seating without feeling
+        crowded. The place seemed quite clean and well kept, the music selection
+        was nice and provided excellent background to the idle talk, and the
+        location makes it into a hidden gem nestled between other businesses.
+
+
+        I highly recommend this place for anyone looking to delight their palate
+        and appreciate a small and quiet meal. I personally intend to make a
+        more regular habit of visiting.
+      languageCode: en
+    originalText:
+      text: >-
+        To give fair warning to anyone going in the first time: It's required to
+        order a minimum of 4 items per person at a table and 5 per person if
+        sitting at the bar. Sitting at the bar also means that the chef decides
+        what you eat.
+
+
+        With that caveat out of the way the sushi was absolutely the best I've
+        ever had. Many of the dishes had sauces put into them while being made
+        and were recommended to be eaten without anything added to them. I
+        followed that advice and didn't regret it for a moment.
+
+
+        The fish melted in the mouth and, even as a person who enjoys spicy
+        foods but doesn't handle them well, the spicy sauce put into each item
+        was superbly done and never caused me any problems. Each individual part
+        was designed to perfectly compliment the main ingredient.
+
+
+        I do have to specifically mention that the eel was stunningly delectable
+        and now heads my "best sushi item ever" list.
+
+
+        The staff was incredibly nice and unfailingly polite even though I came
+        in a bare 30 minutes before they closed. The restaurant was small but
+        delightfully proportioned to allow close seating without feeling
+        crowded. The place seemed quite clean and well kept, the music selection
+        was nice and provided excellent background to the idle talk, and the
+        location makes it into a hidden gem nestled between other businesses.
+
+
+        I highly recommend this place for anyone looking to delight their palate
+        and appreciate a small and quiet meal. I personally intend to make a
+        more regular habit of visiting.
+      languageCode: en
+    authorAttribution:
+      displayName: Hal Lutsko
+      uri: https://www.google.com/maps/contrib/108145579792989251982/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUDZtvldhubgQZ-5PD6nEoNbLPwfEHZ_W0iKmLV5BrMMukThAE=s128-c0x00000000-cc-rp-mo
+    publishTime: '2018-08-23T07:12:38.638715Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURneW9XeXhBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURneW9XeXhBRRAB!2m1!1s0x80c2bbae7ea82ee5:0x9c767e829aaa32cf
+review_summary: >-
+  What Customers Are Saying About the Spot$$$Folks generally rave about the
+  incredibly fresh and well-prepared sushi here, often highlighting how the
+  flavors and presentation make for a memorable meal that's worth seeking out.
+  While some appreciate the high-quality ingredients and creative touches that
+  elevate the experience, a few mention that the prices can feel a bit steep
+  compared to other local options, though many agree it's justified for the
+  taste. There have been occasional gripes about challenges like outdated hours
+  or difficulty getting in touch, but these don't overshadow the overall
+  positive vibes from satisfied diners. All in all, it's a solid choice for
+  anyone hunting for top-rated sushi near me, with the authentic Japanese
+  specialties winning over repeat visitors. If you're in the mood for reliable
+  sushi restaurants close to you, this place offers a welcoming vibe that's
+  generally hit the mark for flavor and service.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
-payment_options: null
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
+curbside_pickup: false
 delivery: null
-dine_in: null
-good_for_children: null
+dine_in: true
+good_for_children: false
 good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
 reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
 serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: false
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Japanese eatery dishing out creative sushi, sashimi & rolls in unpretentious
+  environs.
 
 ---

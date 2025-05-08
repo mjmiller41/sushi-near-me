@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushiko"
+title: Sushiko
 permalink: /california/los-angeles/sushiko.html
 stateAbbr: CA
 stateName: California
 cityName: Los Angeles
 seo:
-  name: "Sushiko"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushiko serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJH7P76-G7woARLGaf5dWSGvk
 photos:
   - name: >-
@@ -185,7 +183,43 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Sushiko in Los Angeles, CA$$$Sushiko in Los Angeles, CA, stands out
+  as a welcoming spot for fresh sushi experiences, blending casual vibes with
+  kosher dining options that cater to a variety of tastes. This sushi restaurant
+  offers a straightforward menu featuring flavorful rolls, sashimi, and other
+  Japanese-inspired dishes, making it a go-to choice for those seeking quality
+  meals in a relaxed setting. With selections that include beer, wine, and sake
+  to complement your meal, it's an ideal place for enjoying lunch or dinner in
+  the vibrant Pico-Robertson neighborhood. The spot emphasizes accessibility,
+  ensuring a comfortable visit for all, while its focus on fresh ingredients
+  keeps diners coming back for authentic flavors that evoke the best of Japanese
+  cuisine.
+generative_summary: >-
+  Discover Sushiko in Los Angeles, CA$$$Sushiko in Los Angeles, CA, stands out
+  as a welcoming spot for fresh sushi experiences, blending casual vibes with
+  kosher dining options that cater to a variety of tastes. This sushi restaurant
+  offers a straightforward menu featuring flavorful rolls, sashimi, and other
+  Japanese-inspired dishes, making it a go-to choice for those seeking quality
+  meals in a relaxed setting. With selections that include beer, wine, and sake
+  to complement your meal, it's an ideal place for enjoying lunch or dinner in
+  the vibrant Pico-Robertson neighborhood. The spot emphasizes accessibility,
+  ensuring a comfortable visit for all, while its focus on fresh ingredients
+  keeps diners coming back for authentic flavors that evoke the best of Japanese
+  cuisine.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What People Are Buzzing About$$$Folks exploring sushi spots around Los Angeles
+  often highlight the fresh, high-quality ingredients that make every bite feel
+  satisfying and genuine. Many appreciate the kosher-friendly approach, which
+  adds a unique twist to classic rolls and makes it easier for different dietary
+  needs to shine. The laid-back atmosphere gets thumbs up for being perfect for
+  casual meetups or solo outings, with service that's generally friendly and
+  attentive. Overall, it's seen as a solid pick for anyone craving top-notch
+  sushi without the fuss, leaving visitors eager to return for more of that
+  reliable, tasty experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +245,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

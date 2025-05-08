@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Asahi Japanese Steak & Seafood"
+title: Asahi Japanese Steak & Seafood
 permalink: /maryland/california/asahi-japanese-steak-seafood.html
 stateAbbr: MD
 stateName: Maryland
 cityName: California
 seo:
-  name: "Asahi Japanese Steak & Seafood"
-  type: Restaurant
-  links: null
-description: "Asahi Japanese Steak & Seafood serves delicious sushi in California, Maryland. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.asahisomd.com/
 place_id: ChIJHby_lyBit4kRWGXTrDaxne4
 photos:
   - name: >-
@@ -170,8 +168,113 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89b7622097bfbc1d:0xee9db136acd36558!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 2:00 PM, 4:30 – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 2:00 PM, 4:30 – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 2:00 PM, 4:30 – 9:00 PM'
+    - 'Thursday: 11:00 AM – 2:00 PM, 4:30 – 9:00 PM'
+    - 'Friday: 11:00 AM – 2:00 PM, 4:30 – 9:30 PM'
+    - 'Saturday: 11:00 AM – 9:30 PM'
+    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T01:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +282,51 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (301) 866-9070
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.4'
+rating_count: 642
+website: http://www.asahisomd.com/
+description: >-
+  Discover Asahi Japanese Steak & Seafood in California, MD$$$Nestled in
+  California, MD, Asahi Japanese Steak & Seafood offers a welcoming spot for
+  enjoying authentic Japanese cuisine, including fresh sushi and interactive
+  teppanyaki dishes prepared right at your table. This casual restaurant stands
+  out with its accessible features, such as wheelchair-friendly parking and
+  seating, making it a convenient choice for a wide range of diners seeking
+  sushi restaurants nearby. Patrons can savor a variety of Japanese fare in a
+  relaxed atmosphere, with options that highlight high-quality ingredients and
+  flavorful grilling techniques. The spot's moderate pricing and extended hours
+  add to its appeal for those looking for top-rated sushi experiences close to
+  home, blending tradition with everyday enjoyment.
+generative_summary: >-
+  Discover Asahi Japanese Steak & Seafood in California, MD$$$Nestled in
+  California, MD, Asahi Japanese Steak & Seafood offers a welcoming spot for
+  enjoying authentic Japanese cuisine, including fresh sushi and interactive
+  teppanyaki dishes prepared right at your table. This casual restaurant stands
+  out with its accessible features, such as wheelchair-friendly parking and
+  seating, making it a convenient choice for a wide range of diners seeking
+  sushi restaurants nearby. Patrons can savor a variety of Japanese fare in a
+  relaxed atmosphere, with options that highlight high-quality ingredients and
+  flavorful grilling techniques. The spot's moderate pricing and extended hours
+  add to its appeal for those looking for top-rated sushi experiences close to
+  home, blending tradition with everyday enjoyment.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Sharing$$$Feedback from diners at this sushi spot in
+  California, MD, generally highlights the fresh flavors and entertaining meal
+  preparation, making it a fun go-to for groups or families. Many appreciate the
+  consistent quality of the dishes, with comments often noting the satisfying
+  balance of taste and presentation that keeps people coming back for more
+  Japanese-inspired meals. While some mention occasional waits during peak
+  times, the overall experience earns praise for reliable service and a
+  welcoming vibe that enhances the dining outing. Overall, it's seen as a solid
+  pick for anyone searching for reliable sushi places near me, with the high
+  ratings reflecting its reputation for delivering enjoyable, value-driven meals
+  without major drawbacks.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +352,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

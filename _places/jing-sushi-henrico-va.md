@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Jing Sushi"
+title: Jing Sushi
 permalink: /virginia/henrico/jing-sushi.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Henrico
 seo:
-  name: "Jing Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.jingsushi.com/
-description: "Jing Sushi serves delicious sushi in Henrico, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJHb38mHIVsYkRkkq77_TKYo4
 photos:
   - name: >-
@@ -94,6 +92,29 @@ price_range: null
 rating: '3.6'
 rating_count: 0
 website: https://www.jingsushi.com/
+description: >-
+  Explore Jing Sushi in Henrico, VA$$$Jing Sushi in Henrico, VA, stands out as a
+  welcoming sushi spot offering fresh, flavorful Japanese-inspired dishes that
+  cater to a variety of tastes, including vegetarian options. This accessible
+  eatery features wheelchair-friendly amenities and convenient services like
+  delivery and takeout, making it easy for locals to enjoy quality meals without
+  leaving home. Diners can savor a range of sushi favorites, from classic rolls
+  to sashimi, all prepared with attention to detail in a neighborhood setting.
+  With options for dine-in and pickup, it's a go-to choice for those searching
+  for reliable sushi restaurants nearby, blending convenience with satisfying
+  flavors that keep customers coming back.
+generative_summary: >-
+  Explore Jing Sushi in Henrico, VA$$$Jing Sushi in Henrico, VA, stands out as a
+  welcoming sushi spot offering fresh, flavorful Japanese-inspired dishes that
+  cater to a variety of tastes, including vegetarian options. This accessible
+  eatery features wheelchair-friendly amenities and convenient services like
+  delivery and takeout, making it easy for locals to enjoy quality meals without
+  leaving home. Diners can savor a range of sushi favorites, from classic rolls
+  to sashimi, all prepared with attention to detail in a neighborhood setting.
+  With options for dine-in and pickup, it's a go-to choice for those searching
+  for reliable sushi restaurants nearby, blending convenience with satisfying
+  flavors that keep customers coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJHb38mHIVsYkRkkq77_TKYo4/reviews/ChdDSUhNMG9nS0VJQ0FnSUNPdjRxRGt3RRAB
@@ -247,6 +268,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURXeUlleUZREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURXeUlleUZREAE!2m1!1s0x89b1157298fcbd1d:0x8e62caf4efbb4a92
+review_summary: >-
+  Customer Feedback on Jing Sushi$$$Visitors often rave about the fresh and
+  tasty sushi selections, highlighting favorites like sashimi and specialty
+  rolls that deliver a solid dining experience. While most feedback praises the
+  quick service and variety of options for different preferences, including
+  vegetarian choices, a few notes mention occasional inconsistencies with
+  portions or delivery packaging that could use some tweaks. Overall, folks
+  appreciate the welcoming vibe and reliable flavors, making it a solid pick for
+  anyone craving top-rated sushi close to home. Despite a couple of mixed
+  experiences, the general consensus leans positive, encouraging sushi
+  enthusiasts to give it a try for a satisfying meal that hits the spot.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -279,7 +312,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: null
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "KUSAKABE"
+title: KUSAKABE
 permalink: /california/san-francisco/kusakabe.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
 seo:
-  name: "KUSAKABE"
-  type: Restaurant
+  type: restaurant
   links: http://www.kusakabe-sf.com/
-description: "This high-end sushi spot offers a light-soaked, Zen-like space for sushi, sake, wine & beer. KUSAKABE serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, and dinner."
 place_id: ChIJL9EdyIqAhYARMTuAjQDC7Bs
 photos:
   - name: >-
@@ -184,6 +182,33 @@ price_range: $100 &ndash; & up
 rating: '4.8'
 rating_count: 0
 website: http://www.kusakabe-sf.com/
+description: >-
+  Experience KUSAKABE in San Francisco, CA$$$KUSAKABE in San Francisco, CA,
+  provides an intimate setting perfect for savoring a chef's choice tasting menu
+  of refined Japanese cuisine, blending fresh sushi and sake in a serene,
+  light-filled space. This top-rated sushi spot stands out for its elegant
+  presentation and high-quality ingredients, making it a go-to choice for those
+  exploring sushi restaurants in the area. Visitors can enjoy a thoughtful
+  selection of wines and beers alongside meticulously prepared dishes that
+  highlight seasonal flavors and expert craftsmanship. The welcoming atmosphere,
+  combined with accessibility features like wheelchair-friendly entrances,
+  ensures a comfortable experience for all. For anyone seeking the best sushi
+  near me, KUSAKABE delivers an authentic and memorable dining adventure in the
+  heart of the city.
+generative_summary: >-
+  Experience KUSAKABE in San Francisco, CA$$$KUSAKABE in San Francisco, CA,
+  provides an intimate setting perfect for savoring a chef's choice tasting menu
+  of refined Japanese cuisine, blending fresh sushi and sake in a serene,
+  light-filled space. This top-rated sushi spot stands out for its elegant
+  presentation and high-quality ingredients, making it a go-to choice for those
+  exploring sushi restaurants in the area. Visitors can enjoy a thoughtful
+  selection of wines and beers alongside meticulously prepared dishes that
+  highlight seasonal flavors and expert craftsmanship. The welcoming atmosphere,
+  combined with accessibility features like wheelchair-friendly entrances,
+  ensures a comfortable experience for all. For anyone seeking the best sushi
+  near me, KUSAKABE delivers an authentic and memorable dining adventure in the
+  heart of the city.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJL9EdyIqAhYARMTuAjQDC7Bs/reviews/ChZDSUhNMG9nS0VJQ0FnSURYa1BqblFnEAE
@@ -437,6 +462,21 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURkeHFHa3l3RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURkeHFHa3l3RRAB!2m1!1s0x8085808ac81dd12f:0x1becc2008d803b31
+review_summary: >-
+  Insights from Recent Reviews$$$Diners consistently praise KUSAKABE for its
+  outstanding omakase experience, with fresh sushi and creative appetizers like
+  chawan mushi stealing the show in a relaxed yet sophisticated vibe. Many
+  highlight the extensive sake options and thoughtful drink pairings that
+  elevate the meal without breaking the bank, making it a solid pick for special
+  occasions or a night out. While the service keeps things efficient and
+  attentive, a few notes mention the pace feeling a bit rushed in a cozy space,
+  though it doesn't overshadow the overall enjoyment. Folks love how the
+  restaurant accommodates preferences and surprises with nice touches, leaving
+  them feeling it was well worth the splurge for authentic Japanese flavors. If
+  you're hunting for sushi places near me with a reputation for quality and
+  charm, this spot keeps things positive and worth returning to for a genuine
+  treat.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidParkingLot: true
   freeStreetParking: true
@@ -470,8 +510,8 @@ serves_lunch: false
 serves_vegetarian_food: false
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   This high-end sushi spot offers a light-soaked, Zen-like space for sushi,
   sake, wine & beer.
 

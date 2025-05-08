@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "House of Kirin Chinese Restaurant"
+title: House of Kirin Chinese Restaurant
 permalink: /minnesota/brooklyn-park/house-of-kirin-chinese-restaurant.html
 stateAbbr: MN
 stateName: Minnesota
 cityName: Brooklyn Park
 seo:
-  name: "House of Kirin Chinese Restaurant"
-  type: Restaurant
-  links: null
-description: "House of Kirin Chinese Restaurant serves delicious sushi in Brooklyn Park, Minnesota. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://kirinhouseonline.com/
 place_id: ChIJBWuU1Fg7s1IR_uZrDtJb5Bs
 photos:
   - name: >-
@@ -170,8 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x52b33b58d4946b05:0x1be45bd20e6be6fe!10e5
 primary_type: Chinese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 10
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 10
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:00 PM'
+    - 'Tuesday: Closed'
+    - 'Wednesday: 11:00 AM – 9:00 PM'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 9:00 PM'
+    - 'Saturday: 10:00 AM – 9:00 PM'
+    - 'Sunday: 10:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +234,48 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (763) 273-4247
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.1'
+rating_count: 145
+website: http://kirinhouseonline.com/
+description: >-
+  About House of Kirin in Brooklyn Park, MN$$$House of Kirin Chinese Restaurant
+  in Brooklyn Park, MN, offers a welcoming atmosphere for enjoying casual
+  comfort food with a variety of small plates and vegetarian choices. The spot
+  focuses on hearty, satisfying meals that highlight traditional flavors, making
+  it a great option for those seeking everyday dining with thoughtful options
+  for different tastes. Accessibility features like wheelchair-friendly parking
+  and entrances add to the convenience, ensuring everyone can enjoy the
+  experience. With moderate pricing and extended hours, it's ideal for quick
+  lunches or relaxed dinners, blending simplicity with flavorful offerings that
+  keep customers coming back.
+generative_summary: >-
+  About House of Kirin in Brooklyn Park, MN$$$House of Kirin Chinese Restaurant
+  in Brooklyn Park, MN, offers a welcoming atmosphere for enjoying casual
+  comfort food with a variety of small plates and vegetarian choices. The spot
+  focuses on hearty, satisfying meals that highlight traditional flavors, making
+  it a great option for those seeking everyday dining with thoughtful options
+  for different tastes. Accessibility features like wheelchair-friendly parking
+  and entrances add to the convenience, ensuring everyone can enjoy the
+  experience. With moderate pricing and extended hours, it's ideal for quick
+  lunches or relaxed dinners, blending simplicity with flavorful offerings that
+  keep customers coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this Chinese restaurant often praise
+  the tasty, comforting dishes that deliver on flavor without breaking the bank,
+  based on its solid reputation for reliable meals. Many highlight the friendly
+  service and welcoming vibe that make it feel like a go-to neighborhood spot
+  for everyday eats. While some mention occasional waits during peak times, the
+  overall consensus leans positive, with folks appreciating the value and
+  variety in the menu. It's clear that the combination of affordable options and
+  satisfying portions has won over diners looking for a dependable meal in the
+  area. Overall, the feedback paints a picture of a place that's worth trying
+  for anyone in the mood for straightforward, enjoyable dining.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +301,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

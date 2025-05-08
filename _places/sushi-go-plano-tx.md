@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Go"
+title: Sushi Go
 permalink: /texas/plano/sushi-go.html
 stateAbbr: TX
 stateName: Texas
 cityName: Plano
 seo:
-  name: "Sushi Go"
-  type: Restaurant
-  links: null
-description: "Sushi Go serves delicious sushi in Plano, Texas. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.sushigoplanotx.com/
 place_id: ChIJ-8TePMoiTIYRGzcXI2gMqW0
 photos:
   - name: >-
@@ -170,22 +168,247 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x864c22ca3cdec4fb:0x6da90c682317371b!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 9:00 PM'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 9:00 PM'
+    - 'Saturday: 11:00 AM – 9:00 PM'
+    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 0
+        close:
+          day: 0
+          hour: 20
+          minute: 30
+      - open:
+          day: 1
+          hour: 11
+          minute: 0
+        close:
+          day: 1
+          hour: 21
+          minute: 0
+      - open:
+          day: 2
+          hour: 11
+          minute: 0
+        close:
+          day: 2
+          hour: 21
+          minute: 0
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 21
+          minute: 0
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 0
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 21
+          minute: 0
+      - open:
+          day: 6
+          hour: 11
+          minute: 0
+        close:
+          day: 6
+          hour: 21
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 11:00 AM – 9:00 PM'
+      - 'Tuesday: 11:00 AM – 9:00 PM'
+      - 'Wednesday: 11:00 AM – 9:00 PM'
+      - 'Thursday: 11:00 AM – 9:00 PM'
+      - 'Friday: 11:00 AM – 9:00 PM'
+      - 'Saturday: 11:00 AM – 9:00 PM'
+      - 'Sunday: 12:00 – 8:30 PM'
+    secondaryHoursType: DELIVERY
+    nextCloseTime: '2025-05-04T02:00:00Z'
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 0
+        close:
+          day: 0
+          hour: 20
+          minute: 45
+      - open:
+          day: 1
+          hour: 11
+          minute: 0
+        close:
+          day: 1
+          hour: 20
+          minute: 45
+      - open:
+          day: 2
+          hour: 11
+          minute: 0
+        close:
+          day: 2
+          hour: 20
+          minute: 45
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 20
+          minute: 45
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 20
+          minute: 45
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 20
+          minute: 45
+      - open:
+          day: 6
+          hour: 11
+          minute: 0
+        close:
+          day: 6
+          hour: 20
+          minute: 45
+    weekdayDescriptions:
+      - 'Monday: 11:00 AM – 8:45 PM'
+      - 'Tuesday: 11:00 AM – 8:45 PM'
+      - 'Wednesday: 11:00 AM – 8:45 PM'
+      - 'Thursday: 11:00 AM – 8:45 PM'
+      - 'Friday: 11:00 AM – 8:45 PM'
+      - 'Saturday: 11:00 AM – 8:45 PM'
+      - 'Sunday: 12:00 – 8:45 PM'
+    secondaryHoursType: TAKEOUT
+    nextCloseTime: '2025-05-04T01:45:00Z'
+phone: (214) 227-1818
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.3'
+rating_count: 174
+website: https://www.sushigoplanotx.com/
+description: >-
+  Discover Sushi Go in Plano, Texas$$$Sushi Go in Plano, TX, stands out as a
+  welcoming spot for those seeking fresh Japanese cuisine, blending casual vibes
+  with authentic flavors that appeal to sushi enthusiasts. This eatery
+  specializes in a variety of dishes like nigiri and sashimi, making it a go-to
+  choice for anyone exploring top-rated sushi options in the area. With options
+  for both dine-in and takeout, it's designed to accommodate busy lifestyles
+  while offering accessible features such as wheelchair-friendly entrances and
+  parking. The atmosphere is relaxed, perfect for enjoying a meal with friends
+  or grabbing something quick, and its moderate pricing adds to the appeal for
+  everyday diners. Operating from late morning into the evening most days, it
+  provides a convenient stop for anyone craving Japanese-inspired meals nearby.
+generative_summary: >-
+  Discover Sushi Go in Plano, Texas$$$Sushi Go in Plano, TX, stands out as a
+  welcoming spot for those seeking fresh Japanese cuisine, blending casual vibes
+  with authentic flavors that appeal to sushi enthusiasts. This eatery
+  specializes in a variety of dishes like nigiri and sashimi, making it a go-to
+  choice for anyone exploring top-rated sushi options in the area. With options
+  for both dine-in and takeout, it's designed to accommodate busy lifestyles
+  while offering accessible features such as wheelchair-friendly entrances and
+  parking. The atmosphere is relaxed, perfect for enjoying a meal with friends
+  or grabbing something quick, and its moderate pricing adds to the appeal for
+  everyday diners. Operating from late morning into the evening most days, it
+  provides a convenient stop for anyone craving Japanese-inspired meals nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What People Are Saying About the Spot$$$Folks who visit this sushi place often
+  rave about the fresh ingredients and flavorful dishes that make every bite
+  feel satisfying and authentic. Many appreciate the variety on offer, noting
+  that it's a solid pick for casual meals or groups looking to try something new
+  without breaking the bank. While some mention occasional waits during peak
+  hours, the overall experience gets high marks for friendly service and
+  reliable quality that keeps customers coming back. It's clear that the focus
+  on simple yet tasty options resonates with sushi lovers, earning it praise as
+  one of the reliable Japanese spots in the neighborhood. All in all, if you're
+  on the hunt for enjoyable, wallet-friendly sushi experiences, this location
+  delivers a consistently positive vibe that lives up to its solid reputation.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +434,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

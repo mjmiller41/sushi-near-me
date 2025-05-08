@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yokozuna Yale"
+title: Yokozuna Yale
 permalink: /oklahoma/tulsa/yokozuna-yale.html
 stateAbbr: OK
 stateName: Oklahoma
 cityName: Tulsa
 seo:
-  name: "Yokozuna Yale"
-  type: Restaurant
-  links: null
-description: "Yokozuna Yale serves delicious sushi in Tulsa, Oklahoma. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.yokozunasushi.com/
 place_id: ChIJy4hxYyCStocRxKPwAyzwz3o
 photos:
   - name: >-
@@ -170,22 +168,184 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x87b69220637188cb:0x7acff02c03f0a3c4!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 9:00 PM'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 10:00 PM'
+    - 'Saturday: 11:00 AM – 10:00 PM'
+    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
-phone: null
-price_level: null
+  - openNow: false
+    periods:
+      - open:
+          day: 0
+          hour: 14
+          minute: 0
+        close:
+          day: 0
+          hour: 17
+          minute: 0
+      - open:
+          day: 1
+          hour: 14
+          minute: 0
+        close:
+          day: 1
+          hour: 17
+          minute: 0
+      - open:
+          day: 2
+          hour: 14
+          minute: 0
+        close:
+          day: 2
+          hour: 17
+          minute: 0
+      - open:
+          day: 3
+          hour: 14
+          minute: 0
+        close:
+          day: 3
+          hour: 17
+          minute: 0
+      - open:
+          day: 4
+          hour: 14
+          minute: 0
+        close:
+          day: 4
+          hour: 17
+          minute: 0
+      - open:
+          day: 5
+          hour: 14
+          minute: 0
+        close:
+          day: 5
+          hour: 17
+          minute: 0
+      - open:
+          day: 6
+          hour: 14
+          minute: 0
+        close:
+          day: 6
+          hour: 17
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 2:00 – 5:00 PM'
+      - 'Tuesday: 2:00 – 5:00 PM'
+      - 'Wednesday: 2:00 – 5:00 PM'
+      - 'Thursday: 2:00 – 5:00 PM'
+      - 'Friday: 2:00 – 5:00 PM'
+      - 'Saturday: 2:00 – 5:00 PM'
+      - 'Sunday: 2:00 – 5:00 PM'
+    secondaryHoursType: HAPPY_HOUR
+    nextOpenTime: '2025-05-04T19:00:00Z'
+phone: (918) 619-6271
+price_level: PRICE_LEVEL_MODERATE
 price_range: null
-rating: null
-rating_count: 0
-website: null
+rating: '4.3'
+rating_count: 1207
+website: http://www.yokozunasushi.com/
+description: >-
+  Discover Yokozuna Yale in Tulsa, OK$$$Yokozuna Yale in Tulsa, OK, offers an
+  upscale dining experience focused on fresh sushi rolls and flavorful Asian
+  cuisine. This spot delights visitors with a selection of expertly prepared
+  dishes, including satisfying ramen and other savory options that highlight
+  authentic flavors. With inviting happy hour deals, it's an ideal choice for
+  those seeking sushi restaurants nearby to enjoy a relaxed meal. The venue
+  emphasizes accessibility, making it easy for everyone to enjoy its welcoming
+  atmosphere and thoughtful design. Whether you're exploring Japanese-inspired
+  eats close to home, Yokozuna Yale combines quality ingredients with a
+  sophisticated vibe for an enjoyable outing.
+generative_summary: >-
+  Discover Yokozuna Yale in Tulsa, OK$$$Yokozuna Yale in Tulsa, OK, offers an
+  upscale dining experience focused on fresh sushi rolls and flavorful Asian
+  cuisine. This spot delights visitors with a selection of expertly prepared
+  dishes, including satisfying ramen and other savory options that highlight
+  authentic flavors. With inviting happy hour deals, it's an ideal choice for
+  those seeking sushi restaurants nearby to enjoy a relaxed meal. The venue
+  emphasizes accessibility, making it easy for everyone to enjoy its welcoming
+  atmosphere and thoughtful design. Whether you're exploring Japanese-inspired
+  eats close to home, Yokozuna Yale combines quality ingredients with a
+  sophisticated vibe for an enjoyable outing.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Say About This Sushi Spot$$$Folks often praise the delicious
+  sushi rolls at this lively restaurant, highlighting creative options that pair
+  perfectly with tasty ramen and fish tacos for a well-rounded meal. The staff
+  comes across as friendly and attentive, creating a welcoming environment that
+  keeps diners coming back for more. While some mention that prices might feel a
+  tad high compared to similar sushi places nearby, the overall experience
+  remains enjoyable and worth it for the quality. It's frequently noted as a
+  go-to for anyone hunting top-rated sushi near me, with the energetic
+  atmosphere adding to the fun. In the end, the positives like fresh flavors and
+  great service make it a solid pick for casual dining adventures.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +371,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

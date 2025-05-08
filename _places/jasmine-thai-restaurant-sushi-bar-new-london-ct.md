@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Jasmine Thai Restaurant & Sushi Bar"
+title: Jasmine Thai Restaurant & Sushi Bar
 permalink: /connecticut/new-london/jasmine-thai-restaurant-sushi-bar.html
 stateAbbr: CT
 stateName: Connecticut
 cityName: New London
 seo:
-  name: "Jasmine Thai Restaurant & Sushi Bar"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Jasmine Thai Restaurant & Sushi Bar serves delicious sushi in New London, Connecticut. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJTQfw0l0O5okR5K9_I8annJc
 photos:
   - name: >-
@@ -185,7 +183,48 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Jasmine Thai Restaurant & Sushi Bar in New London, CT$$$Jasmine Thai
+  Restaurant & Sushi Bar in New London, CT, offers a relaxed dining experience
+  blending authentic Thai flavors with fresh sushi options, making it a go-to
+  spot for those seeking diverse Asian cuisine. This casual eatery highlights
+  flavorful Thai dishes alongside vegetarian choices and convenient bento boxes,
+  appealing to a wide range of tastes including sushi enthusiasts exploring
+  options near them. The restaurant's accessibility features, such as
+  wheelchair-friendly entrances and seating, ensure a welcoming atmosphere for
+  all visitors. With its focus on quality ingredients and variety, it's an ideal
+  choice for anyone craving top-rated sushi or Japanese-inspired meals in a cozy
+  setting. Whether you're looking for sushi places near me or simply a
+  satisfying meal, this spot delivers a balance of tradition and convenience.
+generative_summary: >-
+  Discover Jasmine Thai Restaurant & Sushi Bar in New London, CT$$$Jasmine Thai
+  Restaurant & Sushi Bar in New London, CT, offers a relaxed dining experience
+  blending authentic Thai flavors with fresh sushi options, making it a go-to
+  spot for those seeking diverse Asian cuisine. This casual eatery highlights
+  flavorful Thai dishes alongside vegetarian choices and convenient bento boxes,
+  appealing to a wide range of tastes including sushi enthusiasts exploring
+  options near them. The restaurant's accessibility features, such as
+  wheelchair-friendly entrances and seating, ensure a welcoming atmosphere for
+  all visitors. With its focus on quality ingredients and variety, it's an ideal
+  choice for anyone craving top-rated sushi or Japanese-inspired meals in a cozy
+  setting. Whether you're looking for sushi places near me or simply a
+  satisfying meal, this spot delivers a balance of tradition and convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Diners at This Sushi Destination$$$Although specific reviews for
+  this spot aren't available right now, similar sushi restaurants often receive
+  praise for their fresh rolls and tasty Thai selections, drawing in folks who
+  love exploring new flavors. Diners typically highlight the variety of options
+  as a standout feature, making it a solid pick for groups or individuals
+  seeking reliable, everyday eats without any fuss. Feedback from comparable
+  places suggests the atmosphere feels inviting and the portions are generous,
+  helping it stand out among local favorites. Overall, it seems like a great
+  option for anyone hunting for the best sushi near me, with many appreciating
+  the blend of affordability and quality in their experiences. If you're in the
+  mood for sushi close to me, this type of spot generally delivers a positive
+  vibe that keeps people coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +250,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

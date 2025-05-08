@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sake Sushi"
+title: Sake Sushi
 permalink: /california/wildomar/sake-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Wildomar
 seo:
-  name: "Sake Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://sakesushiwildomar.com/
-description: "Sake Sushi serves delicious sushi in Wildomar, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJbbIg_kaD3IARLpUyhp2zruo
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80dc8346fe20b26d:0xeaaeb39d8632952e!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 9:00 PM'
     - 'Tuesday: 11:30 AM – 9:00 PM'
     - 'Wednesday: 11:30 AM – 9:00 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 9:00 PM'
     - 'Saturday: 12:00 – 9:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:30 AM – 9:00 PM'
-    - 'Tuesday: 11:30 AM – 9:00 PM'
-    - 'Wednesday: 11:30 AM – 9:00 PM'
-    - 'Thursday: 11:30 AM – 9:00 PM'
-    - 'Friday: 11:30 AM – 9:00 PM'
-    - 'Saturday: 12:00 – 9:00 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +238,51 @@ phone: (951) 678-4420
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.7'
-rating_count: 0
+rating_count: 376
 website: http://sakesushiwildomar.com/
+description: >-
+  Discover Sake Sushi in Wildomar, CA$$$Sake Sushi in Wildomar, CA, stands out
+  as a welcoming Japanese dining destination, blending casual vibes with a focus
+  on fresh, flavorful sushi options that appeal to locals and visitors alike.
+  This spot offers an array of creative rolls, including crispy deep-fried
+  varieties, paired with traditional elements like sake to enhance the meal.
+  With its accessible features such as wheelchair-friendly entrances and
+  seating, it's designed for everyone seeking a comfortable sushi experience in
+  a laid-back setting. Operating with extended hours through the week, it's an
+  ideal choice for those exploring top-rated Japanese places nearby, making it
+  easy to enjoy authentic tastes without the hassle. Whether you're in the mood
+  for a quick bite or a relaxed evening, Sake Sushi delivers on quality and
+  variety that keeps diners coming back for more.
+generative_summary: >-
+  Discover Sake Sushi in Wildomar, CA$$$Sake Sushi in Wildomar, CA, stands out
+  as a welcoming Japanese dining destination, blending casual vibes with a focus
+  on fresh, flavorful sushi options that appeal to locals and visitors alike.
+  This spot offers an array of creative rolls, including crispy deep-fried
+  varieties, paired with traditional elements like sake to enhance the meal.
+  With its accessible features such as wheelchair-friendly entrances and
+  seating, it's designed for everyone seeking a comfortable sushi experience in
+  a laid-back setting. Operating with extended hours through the week, it's an
+  ideal choice for those exploring top-rated Japanese places nearby, making it
+  easy to enjoy authentic tastes without the hassle. Whether you're in the mood
+  for a quick bite or a relaxed evening, Sake Sushi delivers on quality and
+  variety that keeps diners coming back for more.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Love About This Sushi Spot$$$If you're on the hunt for sushi
+  restaurants with solid vibes, this place gets high marks for its tasty lunch
+  specials that come with generous portions of fresh rolls, crisp salads, hearty
+  miso soup, and even savory egg rolls to mix things up. People often mention
+  how the meals feel like great value, leaving you satisfied without breaking
+  the bank, which makes it a go-to for casual eaters in the area. The staff
+  stands out for being super friendly and getting your order out quickly, adding
+  to the overall chill atmosphere that keeps things light and enjoyable.
+  Overall, it's clear that folks appreciate the reliable service and flavorful
+  options that make every visit feel worthwhile, encouraging repeat trips for
+  anyone craving top-notch sushi nearby. While not every detail is perfect, the
+  positive feedback paints a picture of a spot that's worth checking out for a
+  dependable and fun dining experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +308,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

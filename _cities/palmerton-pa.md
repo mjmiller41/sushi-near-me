@@ -5,4 +5,5 @@ permalink: /pennsylvania/palmerton/
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Palmerton
+
 ---

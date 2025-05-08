@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Migi Sushi Restaurant"
+title: Migi Sushi Restaurant
 permalink: /florida/bradenton/migi-sushi-restaurant.html
 stateAbbr: FL
 stateName: Florida
 cityName: Bradenton
 seo:
-  name: "Migi Sushi Restaurant"
-  type: Restaurant
+  type: restaurant
   links: https://www.migisushibradenton.com//?utm_source=gmb&utm_medium=referral
-description: "Migi Sushi Restaurant serves delicious sushi in Bradenton, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJyWPn9u09w4gRUJLQ-QZdmbU
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 0
 website: https://www.migisushibradenton.com//?utm_source=gmb&utm_medium=referral
+description: >-
+  Discover Migi Sushi in Bradenton, Florida$$$Migi Sushi Restaurant in
+  Bradenton, Florida, stands out as a popular destination for those seeking
+  fresh Japanese flavors and a relaxed dining experience. The spot features an
+  inviting atmosphere perfect for casual meals, with a menu that highlights a
+  variety of sushi options designed to appeal to different preferences,
+  including family-friendly choices. Diners can enjoy reasonably priced dishes
+  that emphasize quality ingredients, making it a great pick for everything from
+  quick lunches to evening gatherings. Accessibility features like
+  wheelchair-friendly entrances and ample parking add to the convenience, while
+  options for dine-in, takeout, and delivery ensure you can savor authentic
+  sushi vibes anytime sushi cravings hit nearby.
+generative_summary: >-
+  Discover Migi Sushi in Bradenton, Florida$$$Migi Sushi Restaurant in
+  Bradenton, Florida, stands out as a popular destination for those seeking
+  fresh Japanese flavors and a relaxed dining experience. The spot features an
+  inviting atmosphere perfect for casual meals, with a menu that highlights a
+  variety of sushi options designed to appeal to different preferences,
+  including family-friendly choices. Diners can enjoy reasonably priced dishes
+  that emphasize quality ingredients, making it a great pick for everything from
+  quick lunches to evening gatherings. Accessibility features like
+  wheelchair-friendly entrances and ample parking add to the convenience, while
+  options for dine-in, takeout, and delivery ensure you can savor authentic
+  sushi vibes anytime sushi cravings hit nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJyWPn9u09w4gRUJLQ-QZdmbU/reviews/ChZDSUhNMG9nS0VJQ0FnTUNBbElxckR3EAE
@@ -344,6 +367,21 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNYdTlyclpnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNYdTlyclpnEAE!2m1!1s0x88c33dedf6e763c9:0xb5995d06f9d09250
+review_summary: >-
+  What Visitors Think of Migi Sushi$$$Folks often highlight the tasty sushi
+  rolls and welcoming vibe as standout features, making it a solid choice for
+  casual get-togethers or a quick bite at top-rated Japanese spots in the area.
+  While some appreciate the reasonable prices and flavorful options that keep
+  things enjoyable for groups, a few mentions point to occasional
+  inconsistencies with certain dishes, like texture or preparation, which might
+  vary by order. Overall, the positive buzz around the atmosphere and variety
+  keeps many coming back for more, especially when searching for reliable sushi
+  restaurants close to home. It's worth noting that despite a couple of letdowns
+  with specific items, the general excitement about fresh flavors and service
+  helps maintain its appeal for those exploring local favorites. If you're in
+  the mood for something authentic yet approachable, this place tends to deliver
+  a satisfying experience most of the time.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -376,7 +414,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

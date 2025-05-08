@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sunshine Kitchen"
+title: Sunshine Kitchen
 permalink: /california/oceanside/sunshine-kitchen.html
 stateAbbr: CA
 stateName: California
 cityName: Oceanside
 seo:
-  name: "Sunshine Kitchen"
-  type: Restaurant
+  type: restaurant
   links: https://sunshinekitchenoceanside.com/
-description: "Bright, informal outpost serving quick-serve poke bowls alongside standard sushi rolls. Sunshine Kitchen serves delicious sushi in Oceanside, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJL2EHq9Vv3IARO1vmyi_6s6A
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 0
 website: https://sunshinekitchenoceanside.com/
+description: >-
+  Discover Sunshine Kitchen in Oceanside, CA$$$Sunshine Kitchen in Oceanside,
+  CA, stands out as a welcoming spot for Japanese cuisine enthusiasts, blending
+  fresh flavors with a casual, family-oriented vibe. This informal eatery
+  specializes in a range of dishes like sushi and poke bowls, paired with
+  selections of beer and wine for a relaxed dining experience. Its prime
+  location near the coast adds to the appeal, making it an ideal stop for those
+  seeking top-rated sushi options in the area. Accessibility features, such as
+  wheelchair-friendly entrances and seating, ensure it's enjoyable for everyone,
+  while the quick-serve style keeps things efficient without sacrificing
+  quality.
+generative_summary: >-
+  Discover Sunshine Kitchen in Oceanside, CA$$$Sunshine Kitchen in Oceanside,
+  CA, stands out as a welcoming spot for Japanese cuisine enthusiasts, blending
+  fresh flavors with a casual, family-oriented vibe. This informal eatery
+  specializes in a range of dishes like sushi and poke bowls, paired with
+  selections of beer and wine for a relaxed dining experience. Its prime
+  location near the coast adds to the appeal, making it an ideal stop for those
+  seeking top-rated sushi options in the area. Accessibility features, such as
+  wheelchair-friendly entrances and seating, ensure it's enjoyable for everyone,
+  while the quick-serve style keeps things efficient without sacrificing
+  quality.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJL2EHq9Vv3IARO1vmyi_6s6A/reviews/ChZDSUhNMG9nS0VJQ0FnTURJc2JtOFh3EAE
@@ -354,6 +375,17 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURMcTRuRkRnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURMcTRuRkRnEAE!2m1!1s0x80dc6fd5ab07612f:0xa0b3fa2fcae65b3b
+review_summary: >-
+  What Customers Are Raving About$$$Visitors frequently praise the fresh and
+  flavorful sushi and poke bowls at this Japanese spot, noting how they hit the
+  spot for a satisfying meal. Many highlight the friendly service and speedy
+  preparation, which make it a go-to choice for casual lunches or dinners
+  without the wait. While some mention a brief line at ordering, the overall
+  value and tasty options like teriyaki keep the experience positive and worth
+  it. If you're on the hunt for sushi restaurants near me, feedback often points
+  to this place as a reliable pick for families, with its reasonable prices and
+  welcoming atmosphere earning consistent nods.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -386,8 +418,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Bright, informal outpost serving quick-serve poke bowls alongside standard
   sushi rolls.
 

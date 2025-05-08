@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ahi Sushi"
+title: Ahi Sushi
 permalink: /pennsylvania/philadelphia/ahi-sushi.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Philadelphia
 seo:
-  name: "Ahi Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://ahisushi.kwickmenu.com/index.php
-description: "Sushi is the focus of this simple Japanese restaurant with a casual vibe & lunch specials. Ahi Sushi serves delicious sushi in Philadelphia, Pennsylvania. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJBeUxKk2yxokRPIt97SqDG14
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $10 &ndash; $20
 rating: '4.2'
 rating_count: 0
 website: https://ahisushi.kwickmenu.com/index.php
+description: >-
+  Discover Ahi Sushi in Philadelphia, PA$$$Nestled in the heart of Philadelphia,
+  PA, Ahi Sushi stands out as a welcoming spot for fresh Japanese cuisine,
+  blending a laid-back atmosphere with an array of flavorful sashimi and
+  creative rolls. This eatery emphasizes accessibility features like
+  wheelchair-friendly parking and entrances, making it easy for everyone to
+  enjoy a casual dining experience. Diners can savor a variety of Japanese
+  dishes, including lunch specials and delivery options that add convenience for
+  those seeking sushi restaurants nearby. The moderate pricing and thoughtful
+  menu selections, such as vegetarian-friendly choices, highlight its appeal as
+  a go-to destination for everyday meals or quick takeout. With its focus on
+  quality ingredients and simple yet inviting vibe, it's a solid choice for
+  anyone exploring top-rated sushi places in the area.
+generative_summary: >-
+  Discover Ahi Sushi in Philadelphia, PA$$$Nestled in the heart of Philadelphia,
+  PA, Ahi Sushi stands out as a welcoming spot for fresh Japanese cuisine,
+  blending a laid-back atmosphere with an array of flavorful sashimi and
+  creative rolls. This eatery emphasizes accessibility features like
+  wheelchair-friendly parking and entrances, making it easy for everyone to
+  enjoy a casual dining experience. Diners can savor a variety of Japanese
+  dishes, including lunch specials and delivery options that add convenience for
+  those seeking sushi restaurants nearby. The moderate pricing and thoughtful
+  menu selections, such as vegetarian-friendly choices, highlight its appeal as
+  a go-to destination for everyday meals or quick takeout. With its focus on
+  quality ingredients and simple yet inviting vibe, it's a solid choice for
+  anyone exploring top-rated sushi places in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJBeUxKk2yxokRPIt97SqDG14/reviews/ChZDSUhNMG9nS0VJQ0FnTUNneHRpM1pBEAE
@@ -318,6 +343,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUM3emZMWlp3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUM3emZMWlp3EAE!2m1!1s0x89c6b24d2a31e505:0x5e1b832aed7d8b3c
+review_summary: >-
+  What Customers Love About Ahi Sushi$$$Folks often rave about the fresh and
+  tasty sushi rolls that make this spot a favorite for casual Japanese dining,
+  with many highlighting how the food arrives quickly and hits the spot every
+  time. The service stands out as friendly and efficient, creating a relaxed
+  environment that's perfect for unwinding over a meal. Visitors frequently
+  mention the reasonable prices and variety of options, like gyoza soup and
+  specialty rolls, that keep things affordable without skimping on flavor.
+  Overall, it's clear that the combination of solid vibes and reliable delivery
+  adds to the appeal, making it a go-to for those searching for the best sushi
+  near me. While experiences can vary, the consistent praise for freshness and
+  atmosphere paints a positive picture for anyone considering a visit.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   valetParking: false
@@ -349,8 +387,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Sushi is the focus of this simple Japanese restaurant with a casual vibe &
   lunch specials.
 

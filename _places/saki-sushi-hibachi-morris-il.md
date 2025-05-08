@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Saki Sushi&Hibachi"
+title: Saki Sushi&Hibachi
 permalink: /illinois/morris/saki-sushi-hibachi.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Morris
 seo:
-  name: "Saki Sushi&Hibachi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Saki Sushi&Hibachi serves delicious sushi in Morris, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJOa5bTa6ZDogR27BZpZaYH28
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $10 &ndash; $20
 rating: '4.8'
 rating_count: 0
 website: null
+description: >-
+  Discover Saki Sushi & Hibachi in Morris, IL$$$Saki Sushi & Hibachi in Morris,
+  IL, offers a welcoming retreat for those craving fresh sushi and
+  Japanese-inspired dishes in a casual setting. This spot serves up a variety of
+  expertly prepared rolls and hibachi favorites, paired with options like beer,
+  wine, and sake to enhance the dining experience. The restaurant's thoughtful
+  accessibility features and ample parking make it easy for everyone to enjoy a
+  meal without hassle. For anyone searching for top-rated sushi restaurants
+  nearby, the flavorful menu and comfortable atmosphere stand out as key
+  highlights. It's a great choice for exploring Japanese places that deliver
+  authentic tastes right in the heart of the area.
+generative_summary: >-
+  Discover Saki Sushi & Hibachi in Morris, IL$$$Saki Sushi & Hibachi in Morris,
+  IL, offers a welcoming retreat for those craving fresh sushi and
+  Japanese-inspired dishes in a casual setting. This spot serves up a variety of
+  expertly prepared rolls and hibachi favorites, paired with options like beer,
+  wine, and sake to enhance the dining experience. The restaurant's thoughtful
+  accessibility features and ample parking make it easy for everyone to enjoy a
+  meal without hassle. For anyone searching for top-rated sushi restaurants
+  nearby, the flavorful menu and comfortable atmosphere stand out as key
+  highlights. It's a great choice for exploring Japanese places that deliver
+  authentic tastes right in the heart of the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJOa5bTa6ZDogR27BZpZaYH28/reviews/ChZDSUhNMG9nS0VJQ0FnTUNnbTVmbkNBEAE
@@ -428,6 +449,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNwa29YclpREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNwa29YclpREAE!2m1!1s0x880e99ae4d5bae39:0x6f1f9896a559b0db
+review_summary: >-
+  What Visitors Are Buzzing About$$$Folks who dine at this sushi spot often
+  highlight the tasty sushi and hibachi dishes as standout favorites, with
+  creative rolls and tender meats earning plenty of praise. The service gets
+  high marks for being friendly and attentive, helping to create a relaxed and
+  enjoyable vibe for all guests. Many appreciate the fair prices and charming
+  atmosphere that make every visit feel special and welcoming. Overall, it's a
+  reliable pick for anyone seeking the best sushi experiences around, with
+  consistent feedback on the quality and flavors that keep people coming back.
+  If you're on the hunt for sushi places near you, this location delivers a
+  solid, feel-good meal every time.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -459,7 +492,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Ota"
+title: Sushi Ota
 permalink: /california/san-diego/sushi-ota.html
 stateAbbr: CA
 stateName: California
 cityName: San Diego
 seo:
-  name: "Sushi Ota"
-  type: Restaurant
+  type: restaurant
   links: https://www.sushi-ota.com/
-description: "Sushi Ota serves delicious sushi in San Diego, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJc0ibUjQA3IAR88otUfRaxYs
 photos:
   - name: >-
@@ -170,7 +168,81 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80dc0034529b4873:0x8bc55af4512dcaf3!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 5:00 – 10:00 PM'
     - 'Wednesday: 11:30 AM – 2:00 PM, 5:00 – 10:00 PM'
@@ -178,28 +250,139 @@ opening_hours:
     - 'Friday: 11:30 AM – 2:00 PM, 5:00 – 10:00 PM'
     - 'Saturday: 5:00 – 10:00 PM'
     - 'Sunday: 5:00 – 10:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 5:00 – 10:00 PM'
-    - 'Wednesday: 11:30 AM – 2:00 PM, 5:00 – 10:00 PM'
-    - 'Thursday: 11:30 AM – 2:00 PM, 5:00 – 10:00 PM'
-    - 'Friday: 11:30 AM – 2:00 PM, 5:00 – 10:00 PM'
-    - 'Saturday: 5:00 – 10:00 PM'
-    - 'Sunday: 5:00 – 10:00 PM'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: false
+    periods:
+      - open:
+          day: 0
+          hour: 17
+          minute: 0
+        close:
+          day: 0
+          hour: 21
+          minute: 30
+      - open:
+          day: 2
+          hour: 17
+          minute: 0
+        close:
+          day: 2
+          hour: 21
+          minute: 30
+      - open:
+          day: 3
+          hour: 11
+          minute: 30
+        close:
+          day: 3
+          hour: 14
+          minute: 0
+      - open:
+          day: 3
+          hour: 17
+          minute: 0
+        close:
+          day: 3
+          hour: 21
+          minute: 30
+      - open:
+          day: 4
+          hour: 11
+          minute: 30
+        close:
+          day: 4
+          hour: 14
+          minute: 0
+      - open:
+          day: 4
+          hour: 17
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 30
+      - open:
+          day: 5
+          hour: 11
+          minute: 30
+        close:
+          day: 5
+          hour: 14
+          minute: 0
+      - open:
+          day: 5
+          hour: 17
+          minute: 0
+        close:
+          day: 5
+          hour: 21
+          minute: 30
+      - open:
+          day: 6
+          hour: 17
+          minute: 0
+        close:
+          day: 6
+          hour: 21
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: Closed'
+      - 'Tuesday: 5:00 – 9:30 PM'
+      - 'Wednesday: 11:30 AM – 2:00 PM, 5:00 – 9:30 PM'
+      - 'Thursday: 11:30 AM – 2:00 PM, 5:00 – 9:30 PM'
+      - 'Friday: 11:30 AM – 2:00 PM, 5:00 – 9:30 PM'
+      - 'Saturday: 5:00 – 9:30 PM'
+      - 'Sunday: 5:00 – 9:30 PM'
+    secondaryHoursType: TAKEOUT
+    nextOpenTime: '2025-05-04T00:00:00Z'
 phone: (858) 880-8778
 price_level: PRICE_LEVEL_EXPENSIVE
 price_range: $50 &ndash; $100
 rating: '4.7'
-rating_count: 0
+rating_count: 2361
 website: https://www.sushi-ota.com/
+description: >-
+  About Sushi Ota in San Diego, CA$$$Sushi Ota in San Diego, CA, stands out as a
+  top-rated Japanese sushi restaurant, offering an immersive dining experience
+  with its omakase-style menus and fresh specialty dishes in a relaxed
+  atmosphere. This spot excels in delivering high-quality sushi options, drawing
+  on premium ingredients that highlight the artistry of traditional preparation
+  techniques. With accessibility features like wheelchair-friendly parking and
+  seating, it's an inclusive choice for those seeking authentic flavors without
+  barriers. The restaurant's evening hours and convenient location in the
+  Pacific Beach neighborhood make it a go-to for sushi enthusiasts exploring
+  local dining scenes. Whether you're looking for sushi restaurants near me or
+  the best sushi spots in the area, Sushi Ota combines quality and convenience
+  for a memorable meal.
+generative_summary: >-
+  About Sushi Ota in San Diego, CA$$$Sushi Ota in San Diego, CA, stands out as a
+  top-rated Japanese sushi restaurant, offering an immersive dining experience
+  with its omakase-style menus and fresh specialty dishes in a relaxed
+  atmosphere. This spot excels in delivering high-quality sushi options, drawing
+  on premium ingredients that highlight the artistry of traditional preparation
+  techniques. With accessibility features like wheelchair-friendly parking and
+  seating, it's an inclusive choice for those seeking authentic flavors without
+  barriers. The restaurant's evening hours and convenient location in the
+  Pacific Beach neighborhood make it a go-to for sushi enthusiasts exploring
+  local dining scenes. Whether you're looking for sushi restaurants near me or
+  the best sushi spots in the area, Sushi Ota combines quality and convenience
+  for a memorable meal.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Highlights from Visitor Feedback$$$Visitors often praise the standout omakase
+  offerings at this sushi spot, noting the delicious variety of fresh fish and
+  creative presentations that keep things exciting. Many highlight the quick and
+  attentive service that makes dining feel seamless and enjoyable, adding to the
+  overall vibe of a solid meal out. Folks appreciate the high-quality
+  ingredients, like the flavorful uni and fatty tuna, which come across as
+  genuinely fresh and well-sourced in their experiences. While it's clear this
+  place draws crowds for its authentic Japanese flavors, some mention it's worth
+  planning ahead due to its popularity among sushi lovers. Overall, it's a
+  reliable choice for anyone searching top-rated sushi nearby, delivering a
+  positive and satisfying experience that lives up to the buzz.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +408,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -5,4 +5,5 @@ permalink: /illinois/centralia/
 stateAbbr: IL
 stateName: Illinois
 cityName: Centralia
+
 ---

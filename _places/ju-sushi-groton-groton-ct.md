@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "JU-SUSHI​ Groton"
+title: JU-SUSHI​ Groton
 permalink: /connecticut/groton/ju-sushi-groton.html
 stateAbbr: CT
 stateName: Connecticut
 cityName: Groton
 seo:
-  name: "JU-SUSHI​ Groton"
-  type: Restaurant
+  type: restaurant
   links: http://www.ju-sushi.com/
-description: "JU-SUSHI​ Groton serves delicious sushi in Groton, Connecticut. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJTyt4ybUO5okR-Cfb61RDJLk
 photos:
   - name: >-
@@ -184,6 +182,29 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 0
 website: http://www.ju-sushi.com/
+description: >-
+  Discover JU-SUSHI in Groton, CT$$$JU-SUSHI in Groton, CT, stands out as a
+  casual sushi restaurant offering a variety of creative rolls and fresh
+  Japanese-inspired dishes that appeal to locals seeking authentic flavors. This
+  spot features a welcoming atmosphere with accessible seating and outdoor
+  options, making it easy for families and groups to enjoy a relaxed meal.
+  Patrons can explore an extensive menu that includes inventive sushi
+  combinations alongside traditional sake selections, perfect for those looking
+  for a satisfying dining experience. The restaurant's commitment to
+  affordability and convenience adds to its charm, with options like takeout and
+  delivery enhancing its appeal for busy diners in the area.
+generative_summary: >-
+  Discover JU-SUSHI in Groton, CT$$$JU-SUSHI in Groton, CT, stands out as a
+  casual sushi restaurant offering a variety of creative rolls and fresh
+  Japanese-inspired dishes that appeal to locals seeking authentic flavors. This
+  spot features a welcoming atmosphere with accessible seating and outdoor
+  options, making it easy for families and groups to enjoy a relaxed meal.
+  Patrons can explore an extensive menu that includes inventive sushi
+  combinations alongside traditional sake selections, perfect for those looking
+  for a satisfying dining experience. The restaurant's commitment to
+  affordability and convenience adds to its charm, with options like takeout and
+  delivery enhancing its appeal for busy diners in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJTyt4ybUO5okR-Cfb61RDJLk/reviews/ChZDSUhNMG9nS0VJQ0FnSURfNHN1R2FREAE
@@ -355,6 +376,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURYeDYta3JnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURYeDYta3JnRRAB!2m1!1s0x89e60eb5c9782b4f:0xb9244354ebdb27f8
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors to this sushi spot often praise the
+  fresh ingredients and creative flavors that make every roll a standout choice,
+  helping it earn high marks for quality and taste. While most enjoy the
+  affordable prices and cozy vibe that cater well to casual outings, a few have
+  mentioned occasional hiccups with order accuracy during busier times,
+  suggesting it's best to plan ahead for larger groups. Overall, the consensus
+  leans positive, with many highlighting the restaurant's ability to deliver a
+  satisfying meal that keeps people coming back for more. Despite some mixed
+  experiences with service speed, the general excitement around the menu's
+  variety ensures it's a solid pick for anyone craving top-notch sushi nearby.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -387,7 +420,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

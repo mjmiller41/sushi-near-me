@@ -5,4 +5,5 @@ permalink: /texas/brownsville/
 stateAbbr: TX
 stateName: Texas
 cityName: Brownsville
+
 ---

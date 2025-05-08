@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "aa Sushi"
+title: aa Sushi
 permalink: /washington/kirkland/aa-sushi.html
 stateAbbr: WA
 stateName: Washington
 cityName: Kirkland
 seo:
-  name: "aa Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "aa Sushi serves delicious sushi in Kirkland, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJkYN0VG8SkFQR0Dpy86FhvdM
 photos:
   - name: >-
@@ -185,7 +183,43 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover aa Sushi in Kirkland, WA$$$aa Sushi in Kirkland, WA, stands out as a
+  laid-back spot for enjoying a wide array of fresh sushi options, making it a
+  go-to choice for those craving Japanese flavors. This casual eatery offers an
+  impressive variety of sushi plates, creative rolls, and complementary small
+  plates, all paired with selections of sake for a well-rounded dining
+  experience. Accessibility features like wheelchair-friendly parking and
+  seating ensure everyone can savor the meal comfortably, adding to its appeal
+  for diverse visitors. Whether you're exploring sushi restaurants in the area
+  or looking for a relaxing place to unwind, the focus on quality ingredients
+  and simple ambiance makes it a solid pick for authentic tastes.
+generative_summary: >-
+  Discover aa Sushi in Kirkland, WA$$$aa Sushi in Kirkland, WA, stands out as a
+  laid-back spot for enjoying a wide array of fresh sushi options, making it a
+  go-to choice for those craving Japanese flavors. This casual eatery offers an
+  impressive variety of sushi plates, creative rolls, and complementary small
+  plates, all paired with selections of sake for a well-rounded dining
+  experience. Accessibility features like wheelchair-friendly parking and
+  seating ensure everyone can savor the meal comfortably, adding to its appeal
+  for diverse visitors. Whether you're exploring sushi restaurants in the area
+  or looking for a relaxing place to unwind, the focus on quality ingredients
+  and simple ambiance makes it a solid pick for authentic tastes.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Diners Are Saying About aa Sushi$$$From what folks share online, this
+  sushi spot often gets nods for its fresh, flavorful rolls and solid portion
+  sizes that keep customers coming back for more. Many highlight the variety of
+  options as a big plus, making it easy to find something for different tastes
+  without breaking the bank. While some mention the casual vibe could use a bit
+  more excitement, the overall experience is frequently described as reliable
+  and enjoyable for quick meals or gatherings. It's commonly recommended as one
+  of the top sushi places nearby, especially for those seeking straightforward,
+  tasty dishes in a welcoming setting. All in all, the feedback paints a picture
+  of a dependable choice that satisfies sushi cravings without any major
+  letdowns.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +245,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

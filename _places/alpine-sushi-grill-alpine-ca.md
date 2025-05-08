@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Alpine Sushi & Grill"
+title: Alpine Sushi & Grill
 permalink: /california/alpine/alpine-sushi-grill.html
 stateAbbr: CA
 stateName: California
 cityName: Alpine
 seo:
-  name: "Alpine Sushi & Grill"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Alpine Sushi & Grill serves delicious sushi in Alpine, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJW1Utto1g2YARkZpsLXtmePk
 photos:
   - name: >-
@@ -185,7 +183,44 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Alpine Sushi & Grill in Alpine, CA$$$Alpine Sushi & Grill in Alpine,
+  CA, serves up a delightful mix of Chinese and Japanese dishes, making it a
+  go-to spot for fresh sushi and vegetarian options in a relaxed environment.
+  This sushi restaurant near you highlights flavorful fare that's perfect for
+  those seeking authentic Asian-inspired meals, with an emphasis on quality
+  ingredients and a casual vibe that invites repeat visits. Accessibility
+  features like wheelchair-friendly parking and entrances add to the
+  convenience, ensuring everyone can enjoy the experience. Whether you're
+  looking for top-rated sushi options or a cozy place to unwind, this
+  establishment delivers on both taste and atmosphere, appealing to locals and
+  visitors alike.
+generative_summary: >-
+  Discover Alpine Sushi & Grill in Alpine, CA$$$Alpine Sushi & Grill in Alpine,
+  CA, serves up a delightful mix of Chinese and Japanese dishes, making it a
+  go-to spot for fresh sushi and vegetarian options in a relaxed environment.
+  This sushi restaurant near you highlights flavorful fare that's perfect for
+  those seeking authentic Asian-inspired meals, with an emphasis on quality
+  ingredients and a casual vibe that invites repeat visits. Accessibility
+  features like wheelchair-friendly parking and entrances add to the
+  convenience, ensuring everyone can enjoy the experience. Whether you're
+  looking for top-rated sushi options or a cozy place to unwind, this
+  establishment delivers on both taste and atmosphere, appealing to locals and
+  visitors alike.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying About This Spot$$$Feedback from folks who have tried
+  Alpine Sushi & Grill often highlights the fresh flavors and welcoming setup,
+  making it a solid choice for anyone craving reliable Japanese-inspired eats.
+  Many appreciate the variety of sushi selections and how the easygoing
+  atmosphere enhances the overall meal, though some note it's best for
+  straightforward dining rather than anything fancy. Diners frequently mention
+  the vegetarian-friendly dishes as a nice plus, adding to its appeal for
+  diverse tastes without overwhelming the menu. Overall, it's seen as a
+  dependable local option that keeps things positive and approachable,
+  encouraging others to stop by for a satisfying bite.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +246,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

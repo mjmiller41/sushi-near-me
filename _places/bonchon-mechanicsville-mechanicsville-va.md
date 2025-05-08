@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Bonchon Mechanicsville"
+title: Bonchon Mechanicsville
 permalink: /virginia/mechanicsville/bonchon-mechanicsville.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Mechanicsville
 seo:
-  name: "Bonchon Mechanicsville"
-  type: Restaurant
-  links: null
-description: "Bonchon Mechanicsville serves delicious sushi in Mechanicsville, Virginia. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://locations.bonchon.com/ll/US/VA/Mechanicsville/7380-Bell-Creek-Rd
 place_id: ChIJ8-TxE0cYsYkRzAEqi16fKzM
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89b1184713f1e4f3:0x332b9f5e8b2a01cc!10e5
 primary_type: Asian Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:30 PM'
+    - 'Tuesday: 11:00 AM – 9:30 PM'
+    - 'Wednesday: 11:00 AM – 9:30 PM'
+    - 'Thursday: 11:00 AM – 9:30 PM'
+    - 'Friday: 11:00 AM – 10:00 PM'
+    - 'Saturday: 11:00 AM – 10:00 PM'
+    - 'Sunday: 11:00 AM – 9:30 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,53 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (804) 833-2977
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.3'
+rating_count: 499
+website: https://locations.bonchon.com/ll/US/VA/Mechanicsville/7380-Bell-Creek-Rd
+description: >-
+  About Bonchon in Mechanicsville, VA$$$Bonchon Mechanicsville in
+  Mechanicsville, VA, stands out as a vibrant chain specializing in Korean fried
+  chicken and flavorful Asian fusion dishes, creating an energetic dining
+  experience for all. This spot is known for its crispy, double-fried chicken
+  options alongside a variety of fusion favorites, all served in a lively
+  atmosphere that encourages casual gatherings. With accessibility features like
+  wheelchair-friendly parking and entrances, it caters to a wide range of
+  visitors seeking inclusive dining options. The restaurant operates with
+  convenient hours from late morning into the evening, making it easy to enjoy
+  authentic Asian flavors in a welcoming environment. Its moderate pricing and
+  focus on quality ingredients make it a go-to choice for those exploring
+  top-rated Asian places near you.
+generative_summary: >-
+  About Bonchon in Mechanicsville, VA$$$Bonchon Mechanicsville in
+  Mechanicsville, VA, stands out as a vibrant chain specializing in Korean fried
+  chicken and flavorful Asian fusion dishes, creating an energetic dining
+  experience for all. This spot is known for its crispy, double-fried chicken
+  options alongside a variety of fusion favorites, all served in a lively
+  atmosphere that encourages casual gatherings. With accessibility features like
+  wheelchair-friendly parking and entrances, it caters to a wide range of
+  visitors seeking inclusive dining options. The restaurant operates with
+  convenient hours from late morning into the evening, making it easy to enjoy
+  authentic Asian flavors in a welcoming environment. Its moderate pricing and
+  focus on quality ingredients make it a go-to choice for those exploring
+  top-rated Asian places near you.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Raving About$$$Visitors to this Asian fusion spot often
+  praise the tasty highlights like savory chicken dishes, hearty bulgogi fries,
+  and inventive Korean tacos that keep things fresh and exciting. Many
+  appreciate the friendly team and efficient service that make every meal feel
+  smooth and enjoyable, adding to the overall fun vibe. While some note that the
+  prices lean toward the higher side, the value in bold flavors and quick
+  delivery keeps folks coming back for more. Overall, the consensus leans
+  positive, with diners highlighting the satisfying portions and welcoming
+  atmosphere as standout features. If you're in the mood for reliable Asian
+  cuisine options close to home, this place delivers a solid experience with
+  just the right mix of taste and convenience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +314,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

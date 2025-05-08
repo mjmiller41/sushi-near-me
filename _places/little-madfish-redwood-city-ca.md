@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Little Madfish"
+title: Little Madfish
 permalink: /california/redwood-city/little-madfish.html
 stateAbbr: CA
 stateName: California
 cityName: Redwood City
 seo:
-  name: "Little Madfish"
-  type: Restaurant
+  type: restaurant
   links: http://littlemadfishrwc.com/
-description: "Sushi rolls, bento box meals, ramen & other Japanese fare round out the menu at this snug fixture. Little Madfish serves delicious sushi in Redwood City, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJg0Iyv7Kjj4AR3fWZ0B-Nhio
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $20 &ndash; $30
 rating: '4.1'
 rating_count: 0
 website: http://littlemadfishrwc.com/
+description: >-
+  Discover Little Madfish in Redwood City, CA$$$Little Madfish in Redwood City,
+  CA, stands out as a welcoming Japanese restaurant serving fresh sushi and
+  other flavorful fare in a relaxed atmosphere. This spot highlights its
+  happy-hour specials and a variety of options like sushi rolls, bento boxes,
+  and ramen, making it ideal for casual dining or quick meals. The menu
+  emphasizes high-quality ingredients and balanced flavors, complemented by
+  accessibility features that ensure a comfortable visit for all. With moderate
+  pricing and a cozy setting, it's a go-to choice for those exploring sushi
+  restaurants in the area. Whether you're seeking sushi places near me or simply
+  enjoying Japanese cuisine, this location delivers a satisfying experience with
+  its thoughtful offerings.
+generative_summary: >-
+  Discover Little Madfish in Redwood City, CA$$$Little Madfish in Redwood City,
+  CA, stands out as a welcoming Japanese restaurant serving fresh sushi and
+  other flavorful fare in a relaxed atmosphere. This spot highlights its
+  happy-hour specials and a variety of options like sushi rolls, bento boxes,
+  and ramen, making it ideal for casual dining or quick meals. The menu
+  emphasizes high-quality ingredients and balanced flavors, complemented by
+  accessibility features that ensure a comfortable visit for all. With moderate
+  pricing and a cozy setting, it's a go-to choice for those exploring sushi
+  restaurants in the area. Whether you're seeking sushi places near me or simply
+  enjoying Japanese cuisine, this location delivers a satisfying experience with
+  its thoughtful offerings.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJg0Iyv7Kjj4AR3fWZ0B-Nhio/reviews/ChdDSUhNMG9nS0VJQ0FnTURRaFA3ZXVBRRAB
@@ -364,6 +387,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUM1bGFPVmZ3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUM1bGFPVmZ3EAE!2m1!1s0x808fa3b2bf324283:0x2a868d1fd099f5dd
+review_summary: >-
+  What Customers Are Saying About Little Madfish$$$Visitors often praise the
+  tasty dishes and generous portions at this sushi spot, with many highlighting
+  the delicious ramen and rolls that make for a fulfilling meal. While the
+  atmosphere is generally described as pleasant and family-friendly, some note
+  occasional inconsistencies in service that could improve the overall flow.
+  Feedback frequently mentions the spot's value for money and kid-friendly vibe,
+  encouraging repeat visits for lunch or dinner specials. Despite a few mixed
+  experiences, the general consensus leans positive, positioning it as one of
+  the top-rated sushi restaurants worth trying if you're in the mood for
+  something fresh. Overall, folks searching for best sushi near me will find it
+  a solid option that balances fun flavors with a welcoming environment.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -396,8 +432,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Sushi rolls, bento box meals, ramen & other Japanese fare round out the menu
   at this snug fixture.
 

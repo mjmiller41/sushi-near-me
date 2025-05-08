@@ -5,4 +5,5 @@ permalink: /kansas/lenexa/
 stateAbbr: KS
 stateName: Kansas
 cityName: Lenexa
+
 ---

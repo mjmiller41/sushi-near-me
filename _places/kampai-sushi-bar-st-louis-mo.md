@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kampai Sushi Bar"
+title: Kampai Sushi Bar
 permalink: /missouri/st-louis/kampai-sushi-bar.html
 stateAbbr: MO
 stateName: Missouri
 cityName: St. Louis
 seo:
-  name: "Kampai Sushi Bar"
-  type: Restaurant
+  type: restaurant
   links: https://kampaisushibarstl.com/
-description: "Cheery venue, with floor table options, offers creative rolls, nigiri & other Japanese standards. Kampai Sushi Bar serves delicious sushi in St. Louis, Missouri. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJOdAadSi12IcR7yUw42Qq_Os
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $30 &ndash; $50
 rating: '4.4'
 rating_count: 0
 website: https://kampaisushibarstl.com/
+description: >-
+  Discover Kampai Sushi Bar in St. Louis, MO$$$Nestled in the heart of St.
+  Louis, MO, Kampai Sushi Bar stands out as a welcoming spot for fresh sushi and
+  Japanese favorites, blending creativity with traditional flavors. This relaxed
+  venue offers an array of inventive rolls, nigiri, and classic dishes,
+  complemented by a selection of sake, beer, and cocktails that enhance the
+  dining experience. With options like low tables for a more authentic feel and
+  accessible seating, it caters to a variety of preferences for those seeking
+  sushi restaurants in the area. The cozy atmosphere and thoughtful details make
+  it an ideal choice for anyone exploring top-rated sushi near me, providing a
+  delightful escape in the bustling Central West End neighborhood.
+generative_summary: >-
+  Discover Kampai Sushi Bar in St. Louis, MO$$$Nestled in the heart of St.
+  Louis, MO, Kampai Sushi Bar stands out as a welcoming spot for fresh sushi and
+  Japanese favorites, blending creativity with traditional flavors. This relaxed
+  venue offers an array of inventive rolls, nigiri, and classic dishes,
+  complemented by a selection of sake, beer, and cocktails that enhance the
+  dining experience. With options like low tables for a more authentic feel and
+  accessible seating, it caters to a variety of preferences for those seeking
+  sushi restaurants in the area. The cozy atmosphere and thoughtful details make
+  it an ideal choice for anyone exploring top-rated sushi near me, providing a
+  delightful escape in the bustling Central West End neighborhood.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJOdAadSi12IcR7yUw42Qq_Os/reviews/ChdDSUhNMG9nS0VJQ0FnTURBeEphRDV3RRAB
@@ -346,6 +367,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNWNVBmVkFnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNWNVBmVkFnEAE!2m1!1s0x87d8b528751ad039:0xebfc2a64e33025ef
+review_summary: >-
+  What Visitors Are Buzzing About$$$Folks rave about the tasty sushi rolls and
+  authentic Japanese flavors at this spot, often highlighting how the fresh
+  ingredients and creative presentations make every bite memorable. Many
+  appreciate the friendly service and laid-back vibe that turns a simple meal
+  into a fun outing, perfect for groups or a casual night out. While some
+  mention that prices lean toward the higher end, most agree the quality and
+  atmosphere justify the cost, especially for standout dishes like specialty
+  rolls. Overall, it's a go-to place for enjoying great sushi close to me, with
+  positive notes on the inviting space and welcoming staff that keep diners
+  coming back. If you're in the mood for reliable Japanese cuisine, this
+  location delivers a satisfying experience without any major letdowns.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: false
   paidParkingLot: false
@@ -382,8 +416,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Cheery venue, with floor table options, offers creative rolls, nigiri & other
   Japanese standards.
 

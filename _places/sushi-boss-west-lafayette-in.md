@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Boss"
+title: Sushi Boss
 permalink: /indiana/west-lafayette/sushi-boss.html
 stateAbbr: IN
 stateName: Indiana
 cityName: West Lafayette
 seo:
-  name: "Sushi Boss"
-  type: Restaurant
-  links: null
-description: "Sushi Boss serves delicious sushi in West Lafayette, Indiana. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://sushiboss.com/
 place_id: ChIJ86GAd-7jEogRgrNCoq9LlYc
 photos:
   - name: >-
@@ -168,8 +166,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8812e3ee7780a1f3:0x87954bafa242b382!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 20
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 20
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 20
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 8:00 PM'
+    - 'Tuesday: 11:00 AM – 8:00 PM'
+    - 'Wednesday: 11:00 AM – 8:00 PM'
+    - 'Thursday: 11:00 AM – 8:00 PM'
+    - 'Friday: 11:00 AM – 8:00 PM'
+    - 'Saturday: 11:00 AM – 8:00 PM'
+    - 'Sunday: 11:00 AM – 8:00 PM'
+  nextCloseTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,11 +242,52 @@ secondary_opening_hours:
     type: null
 phone: null
 price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+price_range: $1 &ndash; $10
+rating: '4.5'
+rating_count: 31
+website: https://sushiboss.com/
+description: >-
+  Explore Sushi Boss in West Lafayette$$$Sushi Boss in West Lafayette, Indiana,
+  stands out as a welcoming Japanese restaurant specializing in fresh sushi
+  options that cater to a variety of tastes. The spot features accessible
+  entrances and parking, making it easy for everyone to enjoy a meal, while its
+  daily hours from 11 AM to 8 PM ensure flexibility for lunch or dinner outings.
+  Diners can expect an affordable menu with dishes that highlight quality
+  ingredients and creative flavors, perfect for those seeking sushi dining
+  nearby. The vibrant atmosphere, suggested by its photos, adds to the appeal,
+  creating a relaxed setting for savoring rolls and other Japanese favorites.
+  Whether you're looking for top-rated sushi spots or Japanese places close to
+  home, this location delivers a satisfying experience with its commitment to
+  fresh preparations.
+generative_summary: >-
+  Explore Sushi Boss in West Lafayette$$$Sushi Boss in West Lafayette, Indiana,
+  stands out as a welcoming Japanese restaurant specializing in fresh sushi
+  options that cater to a variety of tastes. The spot features accessible
+  entrances and parking, making it easy for everyone to enjoy a meal, while its
+  daily hours from 11 AM to 8 PM ensure flexibility for lunch or dinner outings.
+  Diners can expect an affordable menu with dishes that highlight quality
+  ingredients and creative flavors, perfect for those seeking sushi dining
+  nearby. The vibrant atmosphere, suggested by its photos, adds to the appeal,
+  creating a relaxed setting for savoring rolls and other Japanese favorites.
+  Whether you're looking for top-rated sushi spots or Japanese places close to
+  home, this location delivers a satisfying experience with its commitment to
+  fresh preparations.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What People Are Saying About Sushi Boss$$$Folks who visit Sushi Boss often
+  highlight the fresh and flavorful sushi rolls that make it a go-to choice for
+  casual meals in the area. Many appreciate the solid value for money, with
+  portions that leave you feeling satisfied without breaking the bank, and the
+  friendly vibe that enhances the overall dining experience. While some mention
+  that the menu could offer even more variety, the general consensus leans
+  positive, praising the quality of ingredients and quick service that keeps
+  things efficient. It's clear from the feedback that this spot ranks high among
+  sushi restaurants nearby, with regulars coming back for reliable favorites
+  like tasty nigiri and creative specials. If you're on the hunt for the best
+  sushi near me, the upbeat reviews suggest it's worth a try for a laid-back and
+  enjoyable outing.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -209,7 +313,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

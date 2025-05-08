@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Akeno Sushi Bar and Thai Alexandria"
+title: Akeno Sushi Bar and Thai Alexandria
 permalink: /virginia/alexandria/akeno-sushi-bar-and-thai-alexandria.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Alexandria
 seo:
-  name: "Akeno Sushi Bar and Thai Alexandria"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Akeno Sushi Bar and Thai Alexandria serves delicious sushi in Alexandria, Virginia. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ0eyx1Qqzt4kRJ3J3eZ_2ugk
 photos:
   - name: >-
@@ -184,7 +182,46 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Explore Akeno Sushi Bar and Thai in Alexandria, VA$$$Akeno Sushi Bar and Thai
+  in Alexandria, VA, offers a welcoming spot for enjoying fresh sushi and Thai
+  flavors in a conveniently located setting. This sushi restaurant stands out
+  with its accessible features, including wheelchair-friendly parking,
+  entrances, and seating, making it easy for everyone to savor the experience.
+  Diners can expect a variety of expertly prepared dishes that highlight quality
+  ingredients, perfect for those searching for top-rated sushi options nearby.
+  The atmosphere blends casual vibes with authentic tastes, ideal for a relaxed
+  meal after exploring the area. Whether you're craving sushi places near me or
+  Japanese-inspired cuisine, this establishment provides a solid choice for a
+  satisfying dining outing.
+generative_summary: >-
+  Explore Akeno Sushi Bar and Thai in Alexandria, VA$$$Akeno Sushi Bar and Thai
+  in Alexandria, VA, offers a welcoming spot for enjoying fresh sushi and Thai
+  flavors in a conveniently located setting. This sushi restaurant stands out
+  with its accessible features, including wheelchair-friendly parking,
+  entrances, and seating, making it easy for everyone to savor the experience.
+  Diners can expect a variety of expertly prepared dishes that highlight quality
+  ingredients, perfect for those searching for top-rated sushi options nearby.
+  The atmosphere blends casual vibes with authentic tastes, ideal for a relaxed
+  meal after exploring the area. Whether you're craving sushi places near me or
+  Japanese-inspired cuisine, this establishment provides a solid choice for a
+  satisfying dining outing.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Visitor Feedback$$$Although specific reviews for this sushi
+  restaurant are not yet available, similar local spots often receive positive
+  nods for their fresh and flavorful offerings that appeal to sushi enthusiasts.
+  Visitors typically appreciate the approachable ambiance and well-prepared
+  meals, making it a go-to for anyone hunting for sushi near me or reliable
+  Thai-Japanese fusion. Feedback from comparable eateries highlights the
+  convenience and accessibility, with many enjoying the ease of dining in a
+  welcoming environment. Overall, it seems like a promising option for groups or
+  individuals seeking quality sushi restaurants close to home, based on the
+  general appeal of such venues. If you're on the lookout for the best sushi
+  near me, this place could be worth trying for its potential to deliver a
+  enjoyable and accessible experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +247,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

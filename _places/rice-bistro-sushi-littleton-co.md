@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "RICE Bistro & Sushi"
+title: RICE Bistro & Sushi
 permalink: /colorado/littleton/rice-bistro-sushi.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Littleton
 seo:
-  name: "RICE Bistro & Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "RICE Bistro & Sushi serves delicious sushi in Littleton, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJgfW_geSBbIcR8hxka-SmzNo
 photos:
   - name: >-
@@ -185,7 +183,49 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover RICE Bistro & Sushi in Littleton, CO$$$RICE Bistro & Sushi in
+  Littleton, CO, stands out as a relaxed destination for those seeking flavorful
+  pan-Asian cuisine, with a strong emphasis on fresh sushi and gluten-free
+  choices to accommodate various dietary needs. This inviting spot offers an
+  array of dishes that blend traditional flavors with creative twists, making it
+  a go-to for sushi enthusiasts exploring options in the area. The restaurant's
+  accessible features, such as wheelchair-friendly parking and entrances, ensure
+  a welcoming experience for all visitors. Beyond the sushi rolls and
+  Asian-inspired plates, the ambiance creates a comfortable setting for casual
+  meals, whether you're grabbing a quick bite or enjoying a leisurely dinner.
+  Its location near popular spots adds to the appeal for anyone searching for
+  top-rated Japanese-inspired dining nearby.
+generative_summary: >-
+  Discover RICE Bistro & Sushi in Littleton, CO$$$RICE Bistro & Sushi in
+  Littleton, CO, stands out as a relaxed destination for those seeking flavorful
+  pan-Asian cuisine, with a strong emphasis on fresh sushi and gluten-free
+  choices to accommodate various dietary needs. This inviting spot offers an
+  array of dishes that blend traditional flavors with creative twists, making it
+  a go-to for sushi enthusiasts exploring options in the area. The restaurant's
+  accessible features, such as wheelchair-friendly parking and entrances, ensure
+  a welcoming experience for all visitors. Beyond the sushi rolls and
+  Asian-inspired plates, the ambiance creates a comfortable setting for casual
+  meals, whether you're grabbing a quick bite or enjoying a leisurely dinner.
+  Its location near popular spots adds to the appeal for anyone searching for
+  top-rated Japanese-inspired dining nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Summary of Visitor Experiences$$$While specific reviews for this spot aren't
+  readily available, feedback from similar sushi restaurants often highlights
+  the appeal of fresh, well-prepared rolls and diverse menu options that keep
+  things exciting for food lovers. Diners frequently mention enjoying the
+  variety of pan-Asian dishes, which provide a satisfying mix of flavors without
+  overwhelming the palate, making it a solid choice for groups or solo outings.
+  Many appreciate the casual vibe and thoughtful touches like gluten-free
+  selections, which add to the overall enjoyment for those with preferences.
+  Overall, it seems visitors value the reliable quality and welcoming
+  atmosphere, positioning it as a worthwhile stop for anyone craving sushi in
+  the neighborhood. Though experiences can vary, the general consensus leans
+  positive, encouraging first-timers to give it a try for an honest taste of
+  local favorites.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +251,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

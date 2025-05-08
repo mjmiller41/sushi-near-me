@@ -5,4 +5,5 @@ permalink: /alabama/florence/
 stateAbbr: AL
 stateName: Alabama
 cityName: Florence
+
 ---

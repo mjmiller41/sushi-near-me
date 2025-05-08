@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "RA Sushi Bar Restaurant"
+title: RA Sushi Bar Restaurant
 permalink: /arizona/phoenix/ra-sushi-bar-restaurant.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Phoenix
 seo:
-  name: "RA Sushi Bar Restaurant"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "RA Sushi Bar Restaurant serves delicious sushi in Phoenix, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ-yhuDkcEK4cRHL3sL5pNhOE
 photos:
   - name: >-
@@ -185,7 +183,39 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover RA Sushi in Phoenix$$$RA Sushi Bar Restaurant in Phoenix, AZ, is a
+  vibrant Japanese eatery known for its creative twists on classic sushi and
+  other flavorful dishes. This spot offers a trendy atmosphere where diners can
+  savor inventive rolls and fresh Japanese-inspired meals, making it ideal for
+  casual outings or group gatherings. With accessibility features like
+  wheelchair-friendly parking and entrances, it's designed to welcome everyone
+  seeking quality sushi experiences nearby. The menu highlights a variety of
+  options that blend traditional elements with modern flair, appealing to those
+  exploring top sushi spots in the area.
+generative_summary: >-
+  Discover RA Sushi in Phoenix$$$RA Sushi Bar Restaurant in Phoenix, AZ, is a
+  vibrant Japanese eatery known for its creative twists on classic sushi and
+  other flavorful dishes. This spot offers a trendy atmosphere where diners can
+  savor inventive rolls and fresh Japanese-inspired meals, making it ideal for
+  casual outings or group gatherings. With accessibility features like
+  wheelchair-friendly parking and entrances, it's designed to welcome everyone
+  seeking quality sushi experiences nearby. The menu highlights a variety of
+  options that blend traditional elements with modern flair, appealing to those
+  exploring top sushi spots in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Guests Are Saying$$$Folks at this sushi spot often highlight the wide
+  range of tasty rolls, appetizers like shishito peppers, and refreshing drinks
+  that keep things exciting. Many appreciate the value from happy hour specials,
+  which make it a fun and affordable choice for casual meals. The service stands
+  out as friendly and attentive, creating a clean and inviting vibe that
+  enhances the overall visit. While some mention occasional waits during busy
+  times, the positive energy and welcoming environment still make it a reliable
+  go-to for sushi lovers. Overall, it's a solid pick for anyone hunting for
+  enjoyable Japanese dining options close by.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +241,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

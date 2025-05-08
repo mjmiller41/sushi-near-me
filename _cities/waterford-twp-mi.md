@@ -5,4 +5,5 @@ permalink: /michigan/waterford-twp/
 stateAbbr: MI
 stateName: Michigan
 cityName: Waterford Twp
+
 ---

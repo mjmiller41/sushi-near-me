@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ohana Kitchen"
+title: Ohana Kitchen
 permalink: /new-hampshire/portsmouth/ohana-kitchen.html
 stateAbbr: NH
 stateName: New Hampshire
 cityName: Portsmouth
 seo:
-  name: "Ohana Kitchen"
-  type: Restaurant
-  links: null
-description: "Ohana Kitchen serves delicious sushi in Portsmouth, New Hampshire. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.ohana.kitchen/
 place_id: ChIJLUo5aJu_4okRSjsGaYuEH80
 photos:
   - name: >-
@@ -143,7 +141,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDEuKGARg!2e10!4m2!3m1!1s0x89e2bf9b68394a2d:0xcd1f848b69063b4a
 address: 800 Islington St 800, Suite 7, Portsmouth, NH 03801, USA
-street: 800 Islington St 800, Suite 7
+street: 800 Islington St 800,Suite 7
 city: Portsmouth
 state: NH
 zip: '03801'
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89e2bf9b68394a2d:0xcd1f848b69063b4a!10e5
 primary_type: American Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 20
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 20
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 20
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 8:30 PM'
+    - 'Tuesday: 11:00 AM – 8:30 PM'
+    - 'Wednesday: 11:00 AM – 8:30 PM'
+    - 'Thursday: 11:00 AM – 8:30 PM'
+    - 'Friday: 11:00 AM – 8:30 PM'
+    - 'Saturday: 11:00 AM – 8:30 PM'
+    - 'Sunday: 12:00 – 8:00 PM'
+  nextCloseTime: '2025-05-04T00:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,53 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (603) 319-8234
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.6'
+rating_count: 374
+website: http://www.ohana.kitchen/
+description: >-
+  Discover Ohana Kitchen in Portsmouth, NH$$$Ohana Kitchen in Portsmouth, NH,
+  stands out as a vibrant fast-casual spot specializing in fresh poke bowls and
+  innovative sushi options that cater to health-conscious diners. This welcoming
+  eatery emphasizes nutritious choices with a variety of vegan and gluten-free
+  dishes, making it a go-to for those seeking sushi restaurants with thoughtful
+  dietary accommodations. Patrons can enjoy a relaxed atmosphere enhanced by
+  accessibility features like wheelchair-friendly entrances and seating,
+  ensuring everyone feels included. The menu draws from Japanese influences,
+  offering creative twists on classic favorites that highlight quality
+  ingredients and balanced flavors. Whether you're exploring sushi places near
+  me or looking for a quick, satisfying meal, Ohana Kitchen delivers a modern
+  dining experience in the heart of Portsmouth.
+generative_summary: >-
+  Discover Ohana Kitchen in Portsmouth, NH$$$Ohana Kitchen in Portsmouth, NH,
+  stands out as a vibrant fast-casual spot specializing in fresh poke bowls and
+  innovative sushi options that cater to health-conscious diners. This welcoming
+  eatery emphasizes nutritious choices with a variety of vegan and gluten-free
+  dishes, making it a go-to for those seeking sushi restaurants with thoughtful
+  dietary accommodations. Patrons can enjoy a relaxed atmosphere enhanced by
+  accessibility features like wheelchair-friendly entrances and seating,
+  ensuring everyone feels included. The menu draws from Japanese influences,
+  offering creative twists on classic favorites that highlight quality
+  ingredients and balanced flavors. Whether you're exploring sushi places near
+  me or looking for a quick, satisfying meal, Ohana Kitchen delivers a modern
+  dining experience in the heart of Portsmouth.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Visitor Feedback on Ohana Kitchen$$$Folks often rave about the fresh poke
+  bowls at this spot, noting the wide array of ingredients that make for
+  customizable and healthy meals without skimping on taste. Many appreciate the
+  reasonable prices and friendly service that add to the overall enjoyable vibe,
+  turning a simple lunch into a pleasant outing. It's clear that the variety of
+  options keeps things exciting, with plenty of positive mentions for the
+  balanced flavors and quick preparation that suit busy days. Overall, diners
+  find it a solid choice for casual sushi experiences, highlighting how it
+  stands out among local eateries for its commitment to fresh, wholesome
+  choices. If you're on the hunt for top-rated sushi near me, this place seems
+  to hit the mark with its reliable appeal and welcoming approach.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +314,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

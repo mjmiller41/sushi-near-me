@@ -5,4 +5,5 @@ permalink: /ohio/akron/
 stateAbbr: OH
 stateName: Ohio
 cityName: Akron
+
 ---

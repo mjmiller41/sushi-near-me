@@ -5,4 +5,5 @@ permalink: /oregon/redmond/
 stateAbbr: OR
 stateName: Oregon
 cityName: Redmond
+
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kisaki Japanese Cuisine"
+title: Kisaki Japanese Cuisine
 permalink: /new-hampshire/manchester/kisaki-japanese-cuisine.html
 stateAbbr: NH
 stateName: New Hampshire
 cityName: Manchester
 seo:
-  name: "Kisaki Japanese Cuisine"
-  type: Restaurant
+  type: restaurant
   links: http://kisakisushi.com/
-description: "Sushi, sashimi, rolls & classic Japanese cooked fare offered in à la carte & unlimited options. Kisaki Japanese Cuisine serves delicious sushi in Manchester, New Hampshire. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJLzHCfNhO4okRaZDccfvRAJ8
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $30 &ndash; $50
 rating: '4.4'
 rating_count: 0
 website: http://kisakisushi.com/
+description: >-
+  Experience Kisaki Japanese Cuisine$$$Kisaki Japanese Cuisine in Manchester,
+  NH, stands out as a welcoming spot for those seeking authentic Japanese
+  flavors in a vibrant downtown setting. This eatery delights with an array of
+  fresh sushi options, hibachi dishes, and appetizers that cater to a variety of
+  tastes, making it a go-to choice for sushi enthusiasts exploring local dining
+  scenes. The all-you-can-eat selections provide great value, complemented by a
+  cozy atmosphere and accessible features like wheelchair-friendly entrances and
+  seating. With moderate pricing and a menu that includes both traditional rolls
+  and creative twists, it's an ideal destination for anyone craving Japanese
+  places near me. Whether you're in the mood for a quick bite or a leisurely
+  meal, the focus on quality ingredients ensures a satisfying experience that
+  keeps diners coming back.
+generative_summary: >-
+  Experience Kisaki Japanese Cuisine$$$Kisaki Japanese Cuisine in Manchester,
+  NH, stands out as a welcoming spot for those seeking authentic Japanese
+  flavors in a vibrant downtown setting. This eatery delights with an array of
+  fresh sushi options, hibachi dishes, and appetizers that cater to a variety of
+  tastes, making it a go-to choice for sushi enthusiasts exploring local dining
+  scenes. The all-you-can-eat selections provide great value, complemented by a
+  cozy atmosphere and accessible features like wheelchair-friendly entrances and
+  seating. With moderate pricing and a menu that includes both traditional rolls
+  and creative twists, it's an ideal destination for anyone craving Japanese
+  places near me. Whether you're in the mood for a quick bite or a leisurely
+  meal, the focus on quality ingredients ensures a satisfying experience that
+  keeps diners coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJLzHCfNhO4okRaZDccfvRAJ8/reviews/ChZDSUhNMG9nS0VJQ0FnSURQNlpfYWJ3EAE
@@ -404,6 +429,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNRNDdlLTl3RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNRNDdlLTl3RRAB!2m1!1s0x89e24ed87cc2312f:0x9f00d1fb71dc9069
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors to this sushi restaurant often rave
+  about the fresh, flavorful dishes and the lively vibe that makes every meal
+  feel special, with many highlighting the all-you-can-eat deals as a standout
+  feature for groups. Feedback frequently praises the excellent drinks and
+  efficient service, creating a relaxed environment that's perfect for enjoying
+  top-rated sushi without the hassle. While some notes mention occasional
+  inconsistencies in taste or attention from staff, the overall consensus leans
+  toward it being a solid pick for affordable Japanese cuisine in the area.
+  Folks appreciate the variety that suits both solo diners and families, making
+  it a reliable spot for those searching sushi near me. All in all, it's a place
+  that delivers on fun and freshness, encouraging repeat visits for its
+  welcoming approach to Japanese dining.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeStreetParking: true
   paidStreetParking: true
@@ -436,8 +475,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Sushi, sashimi, rolls & classic Japanese cooked fare offered in à la carte &
   unlimited options.
 

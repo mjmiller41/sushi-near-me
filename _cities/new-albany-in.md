@@ -5,4 +5,5 @@ permalink: /indiana/new-albany/
 stateAbbr: IN
 stateName: Indiana
 cityName: New Albany
+
 ---

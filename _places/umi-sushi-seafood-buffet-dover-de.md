@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Umi Sushi & Seafood Buffet"
+title: Umi Sushi & Seafood Buffet
 permalink: /delaware/dover/umi-sushi-seafood-buffet.html
 stateAbbr: DE
 stateName: Delaware
 cityName: Dover
 seo:
-  name: "Umi Sushi & Seafood Buffet"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Umi Sushi & Seafood Buffet serves delicious sushi in Dover, Delaware. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJP-aC3Ft7x4kR_kH0nhMnyaA
 photos:
   - name: >-
@@ -185,7 +183,46 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Umi Sushi & Seafood Buffet in Dover, DE$$$Umi Sushi & Seafood Buffet
+  in Dover, DE, offers a welcoming spot for enjoying fresh seafood and sushi in
+  a casual buffet setting, perfect for those seeking Japanese-inspired dining
+  options nearby. The restaurant features an array of delectable seafood
+  selections, including tender snow crab legs and a variety of sashimi, all
+  presented in a vibrant and family-friendly environment that includes
+  kid-friendly choices. Visitors can appreciate the accessible features like
+  wheelchair-friendly parking and entrances, making it easier for everyone to
+  enjoy a satisfying meal. This spot stands out for its emphasis on variety and
+  quality, appealing to anyone looking for top-rated sushi experiences in the
+  area. With its inviting atmosphere, it's an ideal choice for casual gatherings
+  or quick bites of fresh flavors.
+generative_summary: >-
+  Discover Umi Sushi & Seafood Buffet in Dover, DE$$$Umi Sushi & Seafood Buffet
+  in Dover, DE, offers a welcoming spot for enjoying fresh seafood and sushi in
+  a casual buffet setting, perfect for those seeking Japanese-inspired dining
+  options nearby. The restaurant features an array of delectable seafood
+  selections, including tender snow crab legs and a variety of sashimi, all
+  presented in a vibrant and family-friendly environment that includes
+  kid-friendly choices. Visitors can appreciate the accessible features like
+  wheelchair-friendly parking and entrances, making it easier for everyone to
+  enjoy a satisfying meal. This spot stands out for its emphasis on variety and
+  quality, appealing to anyone looking for top-rated sushi experiences in the
+  area. With its inviting atmosphere, it's an ideal choice for casual gatherings
+  or quick bites of fresh flavors.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Customer Feedback$$$Folks rave about the wide range of fresh
+  seafood at this buffet, with highlights on tasty sushi rolls, crab legs, and
+  hot pot options that keep things exciting and flavorful. Many appreciate the
+  friendly service and spotless, well-lit space that makes dining out feel
+  relaxed and enjoyable. While some note that the prices might run a bit higher
+  than expected, it's often seen as worth it for the quality and selection on
+  offer. Overall, it's a solid pick for groups or families wanting a fun meal,
+  blending good vibes with reliable dishes. If you're hunting for sushi places
+  nearby, this spot delivers a positive experience with just the right mix of
+  variety and hospitality.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +248,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

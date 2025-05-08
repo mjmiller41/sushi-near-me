@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ozumo San Francisco"
+title: Ozumo San Francisco
 permalink: /california/san-francisco/ozumo-san-francisco.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
 seo:
-  name: "Ozumo San Francisco"
-  type: Restaurant
+  type: restaurant
   links: https://www.ozumosanfrancisco.com/
-description: "Creative sushi, robata grilled items & an extensive sake menu in a contemporary space. Ozumo San Francisco serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJJRHaqGWAhYARpXxUOdyMox0
 photos:
   - name: >-
@@ -184,6 +182,31 @@ price_range: $100 &ndash; & up
 rating: '4.4'
 rating_count: 0
 website: https://www.ozumosanfrancisco.com/
+description: >-
+  Discover Ozumo in San Francisco, CA$$$Ozumo San Francisco in San Francisco,
+  CA, stands out as a refined spot for enjoying Japanese flavors, featuring an
+  array of fresh sushi and expertly grilled dishes in a modern environment. This
+  eatery delights with its creative takes on traditional cuisine, including a
+  selection of robata-style offerings that highlight quality ingredients and
+  thoughtful preparation. Patrons can explore an upscale setting that combines
+  contemporary design with a welcoming vibe, making it ideal for those seeking
+  sushi experiences in the area. Accessibility features like wheelchair-friendly
+  entrances add to the convenience, ensuring a comfortable visit for all.
+  Overall, it's a go-to choice for anyone looking to savor authentic Japanese
+  dining in the heart of the city.
+generative_summary: >-
+  Discover Ozumo in San Francisco, CA$$$Ozumo San Francisco in San Francisco,
+  CA, stands out as a refined spot for enjoying Japanese flavors, featuring an
+  array of fresh sushi and expertly grilled dishes in a modern environment. This
+  eatery delights with its creative takes on traditional cuisine, including a
+  selection of robata-style offerings that highlight quality ingredients and
+  thoughtful preparation. Patrons can explore an upscale setting that combines
+  contemporary design with a welcoming vibe, making it ideal for those seeking
+  sushi experiences in the area. Accessibility features like wheelchair-friendly
+  entrances add to the convenience, ensuring a comfortable visit for all.
+  Overall, it's a go-to choice for anyone looking to savor authentic Japanese
+  dining in the heart of the city.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJJRHaqGWAhYARpXxUOdyMox0/reviews/ChZDSUhNMG9nS0VJQ0FnSUNfdkxTUWFREAE
@@ -377,6 +400,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUM3OWVYYTJRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUM3OWVYYTJRRRAB!2m1!1s0x80858065a8da1125:0x1da38cdc39547ca5
+review_summary: >-
+  What People Are Buzzing About$$$Visitors often rave about the incredibly fresh
+  sushi and flavorful rolls that make this spot a favorite for Japanese food
+  lovers, with many highlighting the high-quality ingredients and tasty
+  specials. While some note that prices can be on the steeper side, the overall
+  experience is praised for its efficient service and pleasant atmosphere that
+  keeps things enjoyable. Folks appreciate the quick service and well-timed
+  dishes, turning meals into memorable outings despite occasional minor hiccups
+  like unexpected costs. In general, the consensus leans positive, with diners
+  eager to return for the standout flavors and welcoming feel. If you're hunting
+  for top-notch sushi nearby, this place delivers a solid, satisfying vibe that
+  doesn't disappoint.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidStreetParking: true
   paidGarageParking: true
@@ -408,8 +444,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Creative sushi, robata grilled items & an extensive sake menu in a
   contemporary space.
 

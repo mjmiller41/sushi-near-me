@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Noma Sushi"
+title: Noma Sushi
 permalink: /california/santa-monica/noma-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Santa Monica
 seo:
-  name: "Noma Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.nomasushi.com/
-description: "Noma Sushi serves delicious sushi in Santa Monica, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJQ0q4u0u7woARTE_WdIUZVQ8
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c2bb4bbbb84a43:0xf55198574d64f4c!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 9:30 PM'
     - 'Tuesday: 11:30 AM – 9:30 PM'
     - 'Wednesday: 11:30 AM – 9:30 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 10:00 PM'
     - 'Saturday: 12:00 – 10:00 PM'
     - 'Sunday: 12:00 – 9:30 PM'
-  current:
-    - 'Monday: 11:30 AM – 9:30 PM'
-    - 'Tuesday: 11:30 AM – 9:30 PM'
-    - 'Wednesday: 11:30 AM – 9:30 PM'
-    - 'Thursday: 11:30 AM – 9:30 PM'
-    - 'Friday: 11:30 AM – 10:00 PM'
-    - 'Saturday: 12:00 – 10:00 PM'
-    - 'Sunday: 12:00 – 9:30 PM'
+  nextCloseTime: '2025-05-04T05:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,311 @@ phone: (310) 453-4848
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.2'
-rating_count: 0
+rating_count: 739
 website: http://www.nomasushi.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Noma Sushi in Santa Monica, CA$$$Noma Sushi in Santa Monica, CA,
+  stands out as a welcoming Japanese eatery specializing in fresh sushi rolls
+  and sashimi, perfect for those seeking authentic flavors in a laid-back
+  environment. The spot offers a relaxed space with a full bar, making it ideal
+  for casual meals or unwinding after exploring the area, while its accessible
+  features ensure everyone can enjoy the experience. Diners can savor an
+  eclectic array of rolls and tempura, all prepared with high-quality
+  ingredients that highlight traditional techniques. Operating from late morning
+  into the evening, it's a convenient choice for locals and visitors hunting for
+  top-rated sushi options nearby, blending simplicity with a touch of elegance.
+generative_summary: >-
+  Discover Noma Sushi in Santa Monica, CA$$$Noma Sushi in Santa Monica, CA,
+  stands out as a welcoming Japanese eatery specializing in fresh sushi rolls
+  and sashimi, perfect for those seeking authentic flavors in a laid-back
+  environment. The spot offers a relaxed space with a full bar, making it ideal
+  for casual meals or unwinding after exploring the area, while its accessible
+  features ensure everyone can enjoy the experience. Diners can savor an
+  eclectic array of rolls and tempura, all prepared with high-quality
+  ingredients that highlight traditional techniques. Operating from late morning
+  into the evening, it's a convenient choice for locals and visitors hunting for
+  top-rated sushi options nearby, blending simplicity with a touch of elegance.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJQ0q4u0u7woARTE_WdIUZVQ8/reviews/ChZDSUhNMG9nS0VJQ0FnTUNvNmNqOVF3EAE
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        Hidden gem in Santa Monica!
+
+        We stumbled upon this amazing Japanese restaurant while visiting Santa
+        Monica with our family, including seniors and kids. It turned out to be
+        one of the highlights of our trip. The ingredients were incredibly
+        fresh, and every dish was beautifully presented and full of flavor—from
+        sashimi and sushi rolls to hot dishes like beef bowls and crispy
+        karaage.
+
+
+        The variety was impressive, and everything tasted authentic and
+        well-balanced. Even our kids, who usually have small appetites, couldn’t
+        stop eating!
+
+
+        If you're looking for a cozy, delicious, and family-friendly Japanese
+        spot in Santa Monica, don’t miss this place. It truly deserves more
+        recognition!
+      languageCode: en
+    originalText:
+      text: >-
+        Hidden gem in Santa Monica!
+
+        We stumbled upon this amazing Japanese restaurant while visiting Santa
+        Monica with our family, including seniors and kids. It turned out to be
+        one of the highlights of our trip. The ingredients were incredibly
+        fresh, and every dish was beautifully presented and full of flavor—from
+        sashimi and sushi rolls to hot dishes like beef bowls and crispy
+        karaage.
+
+
+        The variety was impressive, and everything tasted authentic and
+        well-balanced. Even our kids, who usually have small appetites, couldn’t
+        stop eating!
+
+
+        If you're looking for a cozy, delicious, and family-friendly Japanese
+        spot in Santa Monica, don’t miss this place. It truly deserves more
+        recognition!
+      languageCode: en
+    authorAttribution:
+      displayName: Richard Huang
+      uri: https://www.google.com/maps/contrib/102843976112427083733/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocI4-P6OJc5mFHhHh6MprSJg3AHoxJKwwKF2Ru4pOpikV9H2eQ=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-18T06:08:40.672441Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNvNmNqOVF3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNvNmNqOVF3EAE!2m1!1s0x80c2bb4bbbb84a43:0xf55198574d64f4c
+  - name: >-
+      places/ChIJQ0q4u0u7woARTE_WdIUZVQ8/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3a0xLaEF3EAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        This is one of my favorite sushi spot in west LA! The sushi and sashimi
+        is so fresh. We love the black truffle salmon and order it every single
+        time. The service is great and the atmosphere here is lovely and we
+        enjoying dining in. Make sure to check in at Yelp when u r near by
+        because there’s a lot of people during lunch and dinner.
+      languageCode: en
+    originalText:
+      text: >-
+        This is one of my favorite sushi spot in west LA! The sushi and sashimi
+        is so fresh. We love the black truffle salmon and order it every single
+        time. The service is great and the atmosphere here is lovely and we
+        enjoying dining in. Make sure to check in at Yelp when u r near by
+        because there’s a lot of people during lunch and dinner.
+      languageCode: en
+    authorAttribution:
+      displayName: bros gear
+      uri: https://www.google.com/maps/contrib/106491851330957575451/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKXpT0MZWvGa1tUQN8KghwEy-9FI2Q8gEG3UwC1DffRLezkPA=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-03-22T18:32:27.639906Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUR3a0xLaEF3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUR3a0xLaEF3EAE!2m1!1s0x80c2bb4bbbb84a43:0xf55198574d64f4c
+  - name: >-
+      places/ChIJQ0q4u0u7woARTE_WdIUZVQ8/reviews/ChZDSUhNMG9nS0VJQ0FnTURRdF95VFVBEAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Great sushi spot! They do offer a very large variety on their menu from
+        fish to bento (with meat) to different types of rolls.
+
+
+        You need to sign in outside for your party to be added to the waiting
+        list, and once it is your turn they will come up to you. They have a
+        system and just make sure you respect that as the entrance would get
+        crowded very fast.
+
+
+        For the food, we have our regulars items that we like to order. I do
+        tend to order a bit too much - I feel portion are very decent. It has
+        always been good and refreshing place.
+
+        The crispy rice I prefer when they are smaller.
+      languageCode: en
+    originalText:
+      text: >-
+        Great sushi spot! They do offer a very large variety on their menu from
+        fish to bento (with meat) to different types of rolls.
+
+
+        You need to sign in outside for your party to be added to the waiting
+        list, and once it is your turn they will come up to you. They have a
+        system and just make sure you respect that as the entrance would get
+        crowded very fast.
+
+
+        For the food, we have our regulars items that we like to order. I do
+        tend to order a bit too much - I feel portion are very decent. It has
+        always been good and refreshing place.
+
+        The crispy rice I prefer when they are smaller.
+      languageCode: en
+    authorAttribution:
+      displayName: Margaux
+      uri: https://www.google.com/maps/contrib/115376168312243862002/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUf7BM9wpqLuX41Io4VLzvduwd3NdJp444ewnjx5gU4pu4yzU1B=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-03-15T14:25:51.658195Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURRdF95VFVBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURRdF95VFVBEAE!2m1!1s0x80c2bb4bbbb84a43:0xf55198574d64f4c
+  - name: >-
+      places/ChIJQ0q4u0u7woARTE_WdIUZVQ8/reviews/ChdDSUhNMG9nS0VJQ0FnTURRNC1mcXd3RRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        My friends took us to this incredible Japanese restaurant in Santa
+        Monica, and wow! This place has been a local icon since 1973, and it’s
+        easy to see why it’s still packed decades later.
+
+
+        We arrived at 4 pm and walked right in (pro tip: avoid peak lunch/dinner
+        hours if you hate waiting!). Many regulars here are Japanese locals
+        who’ve been dining here for years, which is always a good sign.
+
+
+        We ordered their bento boxes, and let me tell you—they’re a steal at
+        just over $20! Each box was packed with fresh, flavorful dishes, all
+        perfectly balanced and hearty enough to leave us stuffed.
+
+
+        If you’re craving an authentic Japanese experience in Santa Monica
+        without breaking the bank, this spot is a must-visit. Affordable,
+        delicious, and oozing with charm—you can’t go wrong here!
+      languageCode: en
+    originalText:
+      text: >-
+        My friends took us to this incredible Japanese restaurant in Santa
+        Monica, and wow! This place has been a local icon since 1973, and it’s
+        easy to see why it’s still packed decades later.
+
+
+        We arrived at 4 pm and walked right in (pro tip: avoid peak lunch/dinner
+        hours if you hate waiting!). Many regulars here are Japanese locals
+        who’ve been dining here for years, which is always a good sign.
+
+
+        We ordered their bento boxes, and let me tell you—they’re a steal at
+        just over $20! Each box was packed with fresh, flavorful dishes, all
+        perfectly balanced and hearty enough to leave us stuffed.
+
+
+        If you’re craving an authentic Japanese experience in Santa Monica
+        without breaking the bank, this spot is a must-visit. Affordable,
+        delicious, and oozing with charm—you can’t go wrong here!
+      languageCode: en
+    authorAttribution:
+      displayName: 李佳怡
+      uri: https://www.google.com/maps/contrib/109438831498766527798/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJGpfx6TEZnrxrlQWB8EwqcMmo4P3LhwzJ5O4WiBsx9ZDClig=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-03-13T20:56:47.427342Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURRNC1mcXd3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURRNC1mcXd3RRAB!2m1!1s0x80c2bb4bbbb84a43:0xf55198574d64f4c
+  - name: >-
+      places/ChIJQ0q4u0u7woARTE_WdIUZVQ8/reviews/ChdDSUhNMG9nS0VJQ0FnTURnMHJhT21BRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        Let me start by saying, I am not a sushi guy. I always had that barrier
+        of eating raw seafood. I came here with a friend who promised they have
+        cooked sushi. He ordered bunch of things that I didn’t even understand,
+        some of them were cooked and the others were raw. He tricked me into
+        eating some of the raw options, and oh my! It was fantastic!! No fishy
+        taste at all, which was surprising to me. The place looks extremely
+        authentic and ambience is excellent!!! Staff were extremely friendly and
+        helpful. I loved everything about that place. 10/10. Would I come here
+        again? Hell yeah!!
+      languageCode: en
+    originalText:
+      text: >-
+        Let me start by saying, I am not a sushi guy. I always had that barrier
+        of eating raw seafood. I came here with a friend who promised they have
+        cooked sushi. He ordered bunch of things that I didn’t even understand,
+        some of them were cooked and the others were raw. He tricked me into
+        eating some of the raw options, and oh my! It was fantastic!! No fishy
+        taste at all, which was surprising to me. The place looks extremely
+        authentic and ambience is excellent!!! Staff were extremely friendly and
+        helpful. I loved everything about that place. 10/10. Would I come here
+        again? Hell yeah!!
+      languageCode: en
+    authorAttribution:
+      displayName: Peter Khalil
+      uri: https://www.google.com/maps/contrib/114947101870678740198/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVseoMCNQkO91r9pA6EI-hDFLH3dbxns2I0Qjbrvt07qIWurRlh=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-02-23T17:24:32.284481Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURnMHJhT21BRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURnMHJhT21BRRAB!2m1!1s0x80c2bb4bbbb84a43:0xf55198574d64f4c
+review_summary: >-
+  What People Are Saying About This Spot$$$Folks rave about the fresh and
+  flavorful sushi at this popular spot, often highlighting the variety of rolls
+  and dishes that keep things exciting and satisfying. Many appreciate the
+  friendly service and cozy atmosphere, making it a go-to for families or groups
+  looking for a relaxed meal without the fuss. Reviewers frequently note that
+  the portions are generous and the overall value hits the mark, turning
+  first-timers into regulars with its authentic vibe. While some mention
+  occasional waits during peak times, the consensus leans positive, with diners
+  enjoying the balance of traditional flavors and modern twists that make it a
+  solid pick for anyone craving quality Japanese cuisine. Overall, it's a hit
+  for those exploring sushi restaurants in the region, offering an honest,
+  enjoyable dining experience that leaves people coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  paidStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
+delivery: true
+dine_in: true
 good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
 serves_cocktails: null
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: false
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Simple setting for Japanese tempura, sashimi & sushi, including an eclectic
+  range of rolls.
 
 ---

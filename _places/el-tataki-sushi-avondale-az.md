@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "El Tataki Sushi"
+title: El Tataki Sushi
 permalink: /arizona/avondale/el-tataki-sushi.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Avondale
 seo:
-  name: "El Tataki Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "El Tataki Sushi serves delicious sushi in Avondale, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJn_zLGYFAK4cR4iGUgJLzVAI
 photos:
   - name: >-
@@ -185,7 +183,46 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover El Tataki Sushi in Avondale, AZ$$$El Tataki Sushi in Avondale, AZ,
+  delivers a fresh take on dining by combining traditional Japanese flavors with
+  creative twists, creating a welcoming spot for sushi enthusiasts. This relaxed
+  restaurant features an array of artfully prepared rolls and fusion dishes that
+  highlight high-quality ingredients, making it an ideal choice for anyone
+  exploring sushi restaurants in the area. With a full bar offering drinks to
+  complement your meal, it's perfect for casual evenings or gatherings with
+  friends. The accessible layout ensures everyone can enjoy the experience, from
+  intimate dates to family outings. For those seeking top-rated sushi near me,
+  this hidden gem stands out with its innovative blend of tastes in a
+  comfortable setting.
+generative_summary: >-
+  Discover El Tataki Sushi in Avondale, AZ$$$El Tataki Sushi in Avondale, AZ,
+  delivers a fresh take on dining by combining traditional Japanese flavors with
+  creative twists, creating a welcoming spot for sushi enthusiasts. This relaxed
+  restaurant features an array of artfully prepared rolls and fusion dishes that
+  highlight high-quality ingredients, making it an ideal choice for anyone
+  exploring sushi restaurants in the area. With a full bar offering drinks to
+  complement your meal, it's perfect for casual evenings or gatherings with
+  friends. The accessible layout ensures everyone can enjoy the experience, from
+  intimate dates to family outings. For those seeking top-rated sushi near me,
+  this hidden gem stands out with its innovative blend of tastes in a
+  comfortable setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About This Spot$$$Though specific reviews for this
+  sushi place are limited, general feedback from similar fusion restaurants
+  suggests diners appreciate the creative mix of Japanese and Mexican flavors,
+  often highlighting the fresh and flavorful rolls. Many visitors enjoy the
+  laid-back vibe and variety of options, making it a solid pick for anyone
+  craving sushi close to me on a relaxed night out. People frequently note the
+  welcoming atmosphere as a plus, with comments leaning toward satisfaction for
+  both solo diners and groups. While ratings aren't widely available yet, the
+  overall sentiment points to it being a reliable choice for tasty meals without
+  the fuss. If you're hunting for Japanese places near me that deliver on both
+  taste and comfort, this spot seems to hit the mark based on shared
+  experiences.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +248,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

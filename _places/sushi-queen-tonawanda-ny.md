@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Queen"
+title: Sushi Queen
 permalink: /new-york/tonawanda/sushi-queen.html
 stateAbbr: NY
 stateName: New York
 cityName: Tonawanda
 seo:
-  name: "Sushi Queen"
-  type: Restaurant
+  type: restaurant
   links: https://www.sushiqueenny.com/
-description: "Sushi Queen serves delicious sushi in Tonawanda, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJMVOMdQpt04kRYAZPPigFjYU
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 0
 website: https://www.sushiqueenny.com/
+description: >-
+  Discover Sushi Queen in Tonawanda, NY$$$Sushi Queen in Tonawanda, New York,
+  stands out as a go-to spot for fresh Japanese dining, offering an inviting
+  atmosphere and a menu brimming with flavorful sushi options that appeal to
+  anyone searching for top-rated sushi nearby. The restaurant features an
+  all-you-can-eat selection that highlights creative rolls and traditional
+  dishes, all prepared with high-quality ingredients for a satisfying meal.
+  Accessibility is a key highlight, with wheelchair-friendly parking, entrances,
+  and seating that make it easy for everyone to enjoy. Whether you're craving
+  innovative flavors or classic favorites, this Japanese eatery provides a
+  welcoming space for casual lunches or group dinners, making it a solid choice
+  among sushi places near me. Its moderate pricing adds to the appeal, ensuring
+  a memorable experience without breaking the bank.
+generative_summary: >-
+  Discover Sushi Queen in Tonawanda, NY$$$Sushi Queen in Tonawanda, New York,
+  stands out as a go-to spot for fresh Japanese dining, offering an inviting
+  atmosphere and a menu brimming with flavorful sushi options that appeal to
+  anyone searching for top-rated sushi nearby. The restaurant features an
+  all-you-can-eat selection that highlights creative rolls and traditional
+  dishes, all prepared with high-quality ingredients for a satisfying meal.
+  Accessibility is a key highlight, with wheelchair-friendly parking, entrances,
+  and seating that make it easy for everyone to enjoy. Whether you're craving
+  innovative flavors or classic favorites, this Japanese eatery provides a
+  welcoming space for casual lunches or group dinners, making it a solid choice
+  among sushi places near me. Its moderate pricing adds to the appeal, ensuring
+  a memorable experience without breaking the bank.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJMVOMdQpt04kRYAZPPigFjYU/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJelpiLTd3RRAB
@@ -364,6 +389,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNuXzd2UWV3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNuXzd2UWV3EAE!2m1!1s0x89d36d0a758c5331:0x858d05283e4f0660
+review_summary: >-
+  What Customers Are Buzzing About$$$Visitors to Sushi Queen often rave about
+  the fantastic value of the all-you-can-eat deals, which let you sample a wide
+  range of tasty sushi and appetizers without feeling rushed. Folks appreciate
+  how everything comes out fresh and well-prepared, with creative rolls standing
+  out as crowd-pleasers that expand your sushi horizons. The service gets high
+  marks for being friendly and efficient, creating a relaxed vibe that keeps
+  people coming back for more. Overall, it's clear that the reasonable prices
+  and variety make this a reliable pick for anyone hunting for quality Japanese
+  eats, though some note that portion sizes are on the smaller side to encourage
+  trying more options. If you're looking for a spot that delivers solid flavors
+  and a positive dining experience, this place doesn't disappoint.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -396,7 +434,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

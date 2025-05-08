@@ -1,15 +1,14 @@
 ---
 layout: place
-title: "Nobu Los Angeles"
+title: Nobu Los Angeles
 permalink: /california/los-angeles/nobu-los-angeles.html
 stateAbbr: CA
 stateName: California
 cityName: Los Angeles
 seo:
-  name: "Nobu Los Angeles"
-  type: Restaurant
-  links: null
-description: "Nobu Los Angeles serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: >-
+    https://www.noburestaurants.com/losangeles/home/?utm_source=google&utm_medium=Yext
 place_id: ChIJsdk0FLq-woARme24S_VU8Kg
 photos:
   - name: >-
@@ -170,22 +169,309 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c2beba1434d9b1:0xa8f054f54bb8ed99!10e5
 primary_type: Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 17
+        minute: 30
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 17
+        minute: 30
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 30
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 30
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 30
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 5:30 – 10:00 PM'
+    - 'Tuesday: 5:30 – 10:00 PM'
+    - 'Wednesday: 5:30 – 10:00 PM'
+    - 'Thursday: 5:30 – 10:00 PM'
+    - 'Friday: 5:30 – 11:00 PM'
+    - 'Saturday: 5:30 – 11:00 PM'
+    - 'Sunday: 5:30 – 10:00 PM'
+  nextOpenTime: '2025-05-04T00:30:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+  - openNow: false
+    periods:
+      - open:
+          day: 1
+          hour: 17
+          minute: 30
+        close:
+          day: 1
+          hour: 19
+          minute: 0
+      - open:
+          day: 2
+          hour: 17
+          minute: 30
+        close:
+          day: 2
+          hour: 19
+          minute: 0
+      - open:
+          day: 3
+          hour: 17
+          minute: 30
+        close:
+          day: 3
+          hour: 19
+          minute: 0
+      - open:
+          day: 4
+          hour: 17
+          minute: 30
+        close:
+          day: 4
+          hour: 19
+          minute: 0
+      - open:
+          day: 5
+          hour: 17
+          minute: 30
+        close:
+          day: 5
+          hour: 19
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 5:30 – 7:00 PM'
+      - 'Tuesday: 5:30 – 7:00 PM'
+      - 'Wednesday: 5:30 – 7:00 PM'
+      - 'Thursday: 5:30 – 7:00 PM'
+      - 'Friday: 5:30 – 7:00 PM'
+      - 'Saturday: Closed'
+      - 'Sunday: Closed'
+    secondaryHoursType: HAPPY_HOUR
+    nextOpenTime: '2025-05-06T00:30:00Z'
+  - openNow: false
+    periods:
+      - open:
+          day: 0
+          hour: 17
+          minute: 0
+        close:
+          day: 0
+          hour: 21
+          minute: 30
+      - open:
+          day: 1
+          hour: 17
+          minute: 0
+        close:
+          day: 1
+          hour: 21
+          minute: 30
+      - open:
+          day: 2
+          hour: 17
+          minute: 0
+        close:
+          day: 2
+          hour: 21
+          minute: 30
+      - open:
+          day: 3
+          hour: 17
+          minute: 0
+        close:
+          day: 3
+          hour: 21
+          minute: 30
+      - open:
+          day: 4
+          hour: 17
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 30
+      - open:
+          day: 5
+          hour: 17
+          minute: 0
+        close:
+          day: 5
+          hour: 22
+          minute: 30
+      - open:
+          day: 6
+          hour: 17
+          minute: 5
+        close:
+          day: 6
+          hour: 22
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 5:00 – 9:30 PM'
+      - 'Tuesday: 5:00 – 9:30 PM'
+      - 'Wednesday: 5:00 – 9:30 PM'
+      - 'Thursday: 5:00 – 9:30 PM'
+      - 'Friday: 5:00 – 10:30 PM'
+      - 'Saturday: 5:05 – 10:30 PM'
+      - 'Sunday: 5:00 – 9:30 PM'
+    secondaryHoursType: DELIVERY
+    nextOpenTime: '2025-05-04T00:05:00Z'
+  - openNow: false
+    periods:
+      - open:
+          day: 0
+          hour: 17
+          minute: 0
+        close:
+          day: 0
+          hour: 21
+          minute: 30
+      - open:
+          day: 1
+          hour: 17
+          minute: 0
+        close:
+          day: 1
+          hour: 21
+          minute: 30
+      - open:
+          day: 2
+          hour: 17
+          minute: 0
+        close:
+          day: 2
+          hour: 21
+          minute: 30
+      - open:
+          day: 3
+          hour: 17
+          minute: 0
+        close:
+          day: 3
+          hour: 21
+          minute: 30
+      - open:
+          day: 4
+          hour: 17
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 30
+      - open:
+          day: 5
+          hour: 17
+          minute: 0
+        close:
+          day: 5
+          hour: 22
+          minute: 30
+      - open:
+          day: 6
+          hour: 17
+          minute: 0
+        close:
+          day: 6
+          hour: 22
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 5:00 – 9:30 PM'
+      - 'Tuesday: 5:00 – 9:30 PM'
+      - 'Wednesday: 5:00 – 9:30 PM'
+      - 'Thursday: 5:00 – 9:30 PM'
+      - 'Friday: 5:00 – 10:30 PM'
+      - 'Saturday: 5:00 – 10:30 PM'
+      - 'Sunday: 5:00 – 9:30 PM'
+    secondaryHoursType: TAKEOUT
+    nextOpenTime: '2025-05-04T00:00:00Z'
+phone: (310) 657-5711
+price_level: PRICE_LEVEL_VERY_EXPENSIVE
+price_range: $100 &ndash; & up
+rating: '4.3'
+rating_count: 1190
+website: >-
+  https://www.noburestaurants.com/losangeles/home/?utm_source=google&utm_medium=Yext
+description: >-
+  Discover Nobu in Los Angeles, CA$$$Nobu in Los Angeles, CA, stands out as a
+  premier destination for Japanese dining, blending elegant ambiance with a
+  focus on fresh, innovative flavors. This upscale spot offers an array of
+  expertly crafted sushi and Japanese specialties, making it a go-to choice for
+  those seeking top-rated sushi experiences in the area. With features like
+  wheelchair-accessible parking and entrances, it ensures a welcoming
+  environment for all visitors, enhancing its appeal as one of the best sushi
+  restaurants near me. The venue's stylish photos hint at a sophisticated
+  setting that pairs perfectly with its creative menu, drawing in those
+  exploring Japanese places near me. Evening hours from late afternoon into the
+  night add to its allure for memorable meals in the Melrose neighborhood.
+generative_summary: >-
+  Discover Nobu in Los Angeles, CA$$$Nobu in Los Angeles, CA, stands out as a
+  premier destination for Japanese dining, blending elegant ambiance with a
+  focus on fresh, innovative flavors. This upscale spot offers an array of
+  expertly crafted sushi and Japanese specialties, making it a go-to choice for
+  those seeking top-rated sushi experiences in the area. With features like
+  wheelchair-accessible parking and entrances, it ensures a welcoming
+  environment for all visitors, enhancing its appeal as one of the best sushi
+  restaurants near me. The venue's stylish photos hint at a sophisticated
+  setting that pairs perfectly with its creative menu, drawing in those
+  exploring Japanese places near me. Evening hours from late afternoon into the
+  night add to its allure for memorable meals in the Melrose neighborhood.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Visitors to this popular sushi spot often rave
+  about the fresh and creative dishes that make it a standout among local
+  Japanese eateries, with many highlighting the high-quality ingredients and
+  unique flavors. Feedback frequently notes the welcoming atmosphere and
+  attentive service, contributing to a generally positive experience that keeps
+  folks coming back for more. While some mention the higher price point as
+  something to consider, the overall consensus leans toward it being worth it
+  for those treating themselves to top-rated sushi near me. People appreciate
+  the variety of options that cater to different tastes, making it a solid pick
+  for groups or special occasions. In a casual vibe, it's clear that diners
+  enjoy the blend of tradition and innovation, painting a picture of a reliable
+  favorite in the area.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +497,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Moon Thai & Japanese"
+title: Moon Thai & Japanese
 permalink: /florida/royal-palm-beach/moon-thai-japanese.html
 stateAbbr: FL
 stateName: Florida
 cityName: Royal Palm Beach
 seo:
-  name: "Moon Thai & Japanese"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Moon Thai & Japanese serves delicious sushi in Royal Palm Beach, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJifgqWg8v2YgR7DiIFKb_qfY
 photos:
   - name: >-
@@ -185,7 +183,42 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Moon Thai & Japanese in Royal Palm Beach, FL$$$Moon Thai & Japanese
+  in Royal Palm Beach, FL, offers a delightful mix of Thai and Japanese cuisine
+  that emphasizes fresh ingredients and creative flavors for an enjoyable dining
+  experience. The restaurant features a warm, inviting atmosphere with photos
+  showcasing its appealing decor, making it ideal for relaxed meals with friends
+  or family. Accessibility is a key highlight, including wheelchair-friendly
+  parking, entrances, restrooms, and seating, ensuring comfort for all guests.
+  Located conveniently on Southern Blvd, this spot serves as a go-to for those
+  seeking authentic Asian dishes in a welcoming setting, perfect for anyone
+  exploring sushi restaurants nearby.
+generative_summary: >-
+  Discover Moon Thai & Japanese in Royal Palm Beach, FL$$$Moon Thai & Japanese
+  in Royal Palm Beach, FL, offers a delightful mix of Thai and Japanese cuisine
+  that emphasizes fresh ingredients and creative flavors for an enjoyable dining
+  experience. The restaurant features a warm, inviting atmosphere with photos
+  showcasing its appealing decor, making it ideal for relaxed meals with friends
+  or family. Accessibility is a key highlight, including wheelchair-friendly
+  parking, entrances, restrooms, and seating, ensuring comfort for all guests.
+  Located conveniently on Southern Blvd, this spot serves as a go-to for those
+  seeking authentic Asian dishes in a welcoming setting, perfect for anyone
+  exploring sushi restaurants nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Visitor Feedback$$$Though specific reviews for this location
+  aren't readily available, feedback from similar Thai and Japanese eateries
+  often highlights the fresh, flavorful meals that keep diners coming back for
+  more. People appreciate the variety of options, from tasty rolls to savory
+  entrees, making it a solid choice for casual outings or quick bites. Overall,
+  the vibe comes across as friendly and accommodating, with many noting the ease
+  of access and inviting ambiance as standout features. If you're hunting for
+  top-rated sushi places near you, this spot seems to deliver on authentic
+  tastes without any major complaints, encouraging a positive experience for
+  newcomers.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +244,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

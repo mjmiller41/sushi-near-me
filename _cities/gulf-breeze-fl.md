@@ -5,4 +5,5 @@ permalink: /florida/gulf-breeze/
 stateAbbr: FL
 stateName: Florida
 cityName: Gulf Breeze
+
 ---

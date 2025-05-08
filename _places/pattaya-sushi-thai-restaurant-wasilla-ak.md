@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Pattaya | Sushi & Thai Restaurant"
+title: Pattaya | Sushi & Thai Restaurant
 permalink: /alaska/wasilla/pattaya-sushi-thai-restaurant.html
 stateAbbr: AK
 stateName: Alaska
 cityName: Wasilla
 seo:
-  name: "Pattaya | Sushi & Thai Restaurant"
-  type: Restaurant
+  type: restaurant
   links: https://www.clover.com/online-ordering/pattaya-sushi-restaurant-wasilla
-description: "Pattaya | Sushi & Thai Restaurant serves delicious sushi in Wasilla, Alaska. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJYa0lTRPeyFYRk037iqC1_7E
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x56c8de134d25ad61:0xb1ffb5a08afb4d93!10e5
 primary_type: Thai Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 12
+        minute: 0
+      close:
+        day: 1
+        hour: 20
+        minute: 0
+    - open:
+        day: 2
+        hour: 12
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 12
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 12
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 12
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 12:00 – 8:00 PM'
     - 'Tuesday: 12:00 – 9:30 PM'
     - 'Wednesday: 12:00 – 9:30 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 12:00 – 9:30 PM'
     - 'Saturday: 12:00 – 9:30 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 12:00 – 8:00 PM'
-    - 'Tuesday: 12:00 – 9:30 PM'
-    - 'Wednesday: 12:00 – 9:30 PM'
-    - 'Thursday: 12:00 – 9:30 PM'
-    - 'Friday: 12:00 – 9:30 PM'
-    - 'Saturday: 12:00 – 9:30 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T05:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +238,48 @@ phone: (907) 373-0706
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.3'
-rating_count: 0
+rating_count: 229
 website: https://www.clover.com/online-ordering/pattaya-sushi-restaurant-wasilla
+description: >-
+  Discover Pattaya Sushi & Thai Restaurant in Wasilla, Alaska$$$Pattaya | Sushi
+  & Thai Restaurant in Wasilla, AK, brings together a welcoming mix of authentic
+  Thai flavors and fresh sushi options in a relaxed environment. This spot is
+  known for its generous portions that highlight bold spices and expertly
+  prepared rolls, making it a great choice for those exploring local dining
+  scenes. The casual setting invites families and groups to enjoy a variety of
+  dishes, from classic Thai curries to creative sushi combinations that cater to
+  diverse tastes. Accessibility features like wheelchair-friendly entrances and
+  seating add to the convenience, ensuring everyone can savor the experience.
+  With convenient hours in the evening, it's an ideal stop for anyone seeking
+  quality sushi spots in the area.
+generative_summary: >-
+  Discover Pattaya Sushi & Thai Restaurant in Wasilla, Alaska$$$Pattaya | Sushi
+  & Thai Restaurant in Wasilla, AK, brings together a welcoming mix of authentic
+  Thai flavors and fresh sushi options in a relaxed environment. This spot is
+  known for its generous portions that highlight bold spices and expertly
+  prepared rolls, making it a great choice for those exploring local dining
+  scenes. The casual setting invites families and groups to enjoy a variety of
+  dishes, from classic Thai curries to creative sushi combinations that cater to
+  diverse tastes. Accessibility features like wheelchair-friendly entrances and
+  seating add to the convenience, ensuring everyone can savor the experience.
+  With convenient hours in the evening, it's an ideal stop for anyone seeking
+  quality sushi spots in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About the Experience$$$Visitors often praise the
+  generous portions and flavorful Thai and sushi dishes at this spot, noting how
+  they leave feeling satisfied without breaking the bank. Many highlight the
+  casual atmosphere as perfect for a laid-back meal, with comments on the fresh
+  ingredients and variety that keep people coming back for more. While some
+  mention occasional waits during busy times, the overall vibe remains positive,
+  with folks appreciating the value and taste that make it a reliable choice.
+  It's clear that the restaurant's commitment to quality shines through in the
+  feedback, offering a welcoming option for those hunting for top-rated sushi
+  nearby. All in all, the general consensus leans toward enjoyment, making it a
+  solid pick for anyone in the mood for authentic flavors in a comfortable
+  setting.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +305,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

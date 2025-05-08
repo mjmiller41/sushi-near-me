@@ -5,4 +5,5 @@ permalink: /massachusetts/northampton/
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Northampton
+
 ---

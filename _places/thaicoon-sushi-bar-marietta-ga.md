@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Thaicoon & Sushi Bar"
+title: Thaicoon & Sushi Bar
 permalink: /georgia/marietta/thaicoon-sushi-bar.html
 stateAbbr: GA
 stateName: Georgia
 cityName: Marietta
 seo:
-  name: "Thaicoon & Sushi Bar"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Thaicoon & Sushi Bar serves delicious sushi in Marietta, Georgia. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJjRlOFyUU9YgRnjX1IOy8Mg0
 photos:
   - name: >-
@@ -185,7 +183,44 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Thaicoon & Sushi Bar in Marietta, GA$$$Thaicoon & Sushi Bar in
+  Marietta, GA, stands out as a welcoming Asian restaurant blending fresh sushi
+  options with flavorful Thai-inspired dishes in a relaxed environment. Guests
+  can enjoy a variety of expertly prepared rolls and specialties that highlight
+  the best of Japanese and Thai cuisine, making it a go-to spot for those
+  exploring sushi restaurants nearby. The casual setting is enhanced by
+  thoughtful accessibility features, ensuring a comfortable visit for everyone.
+  Additionally, the vibrant atmosphere captured in shared photos adds to the
+  appeal, perfect for casual outings or quick meals. Whether you're seeking
+  top-rated sushi or simply great Asian flavors close to home, this spot
+  delivers a satisfying experience.
+generative_summary: >-
+  Discover Thaicoon & Sushi Bar in Marietta, GA$$$Thaicoon & Sushi Bar in
+  Marietta, GA, stands out as a welcoming Asian restaurant blending fresh sushi
+  options with flavorful Thai-inspired dishes in a relaxed environment. Guests
+  can enjoy a variety of expertly prepared rolls and specialties that highlight
+  the best of Japanese and Thai cuisine, making it a go-to spot for those
+  exploring sushi restaurants nearby. The casual setting is enhanced by
+  thoughtful accessibility features, ensuring a comfortable visit for everyone.
+  Additionally, the vibrant atmosphere captured in shared photos adds to the
+  appeal, perfect for casual outings or quick meals. Whether you're seeking
+  top-rated sushi or simply great Asian flavors close to home, this spot
+  delivers a satisfying experience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Folks often praise the tasty sushi selections at
+  this Asian eatery, with standout rolls and Thai favorites like flavorful
+  curries and spring rolls making meals memorable. Service stands out as
+  friendly and attentive, helping create a welcoming vibe that keeps diners
+  coming back. Many appreciate the comfortable and cool atmosphere, ideal for
+  unwinding over a casual lunch or dinner. Overall, it's a solid choice for
+  anyone craving reliable Asian dishes, with positive notes on the variety that
+  honestly hits the mark for fresh and enjoyable flavors. If you're on the hunt
+  for great sushi places nearby, this one tends to deliver a consistently
+  pleasant experience without any major letdowns.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +246,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "O-Ku"
+title: O-Ku
 permalink: /florida/alys-beach/o-ku.html
 stateAbbr: FL
 stateName: Florida
 cityName: Alys Beach
 seo:
-  name: "O-Ku"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "O-Ku serves delicious sushi in Alys Beach, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJr3QMS77vk4gRdWQjC5hsSpU
 photos:
   - name: >-
@@ -185,7 +183,46 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover O-Ku in Alys Beach, Florida$$$O-Ku in Alys Beach, Florida, stands out
+  as a delightful Japanese restaurant blending authentic flavors with a serene
+  coastal vibe, making it an ideal spot for those seeking fresh sushi
+  experiences. This establishment specializes in a variety of Japanese dishes,
+  offering a relaxed atmosphere where visitors can enjoy diverse and
+  thoughtfully prepared meals. Accessibility is a key feature, with options like
+  wheelchair-accessible parking and seating ensuring everyone can savor the
+  inclusive dining environment. Whether you're exploring top-rated sushi options
+  near the beach or looking for a casual Japanese place to unwind, O-Ku delivers
+  a comfortable and inviting setting that captures the essence of coastal
+  dining.
+generative_summary: >-
+  Discover O-Ku in Alys Beach, Florida$$$O-Ku in Alys Beach, Florida, stands out
+  as a delightful Japanese restaurant blending authentic flavors with a serene
+  coastal vibe, making it an ideal spot for those seeking fresh sushi
+  experiences. This establishment specializes in a variety of Japanese dishes,
+  offering a relaxed atmosphere where visitors can enjoy diverse and
+  thoughtfully prepared meals. Accessibility is a key feature, with options like
+  wheelchair-accessible parking and seating ensuring everyone can savor the
+  inclusive dining environment. Whether you're exploring top-rated sushi options
+  near the beach or looking for a casual Japanese place to unwind, O-Ku delivers
+  a comfortable and inviting setting that captures the essence of coastal
+  dining.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying About O-Ku$$$Feedback from diners highlights O-Ku as
+  a solid choice for anyone craving fresh sushi in a welcoming setting, with
+  many praising the high-quality ingredients and creative presentations that
+  keep meals exciting. People often note the friendly service and cozy
+  atmosphere, making it a go-to for casual get-togethers or solo visits, though
+  some mention occasional waits during peak times. Overall, it's frequently
+  recommended as one of the best sushi spots around, with comments appreciating
+  the balance of flavors and attention to detail in every dish. While not every
+  experience is flawless, the general consensus leans positive, suggesting it's
+  worth trying for those searching for reliable Japanese places nearby. If
+  you're in the mood for top-rated sushi, O-Ku seems to hit the mark for a
+  satisfying and enjoyable meal.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +248,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

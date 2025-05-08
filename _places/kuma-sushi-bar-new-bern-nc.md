@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kuma Sushi Bar"
+title: Kuma Sushi Bar
 permalink: /north-carolina/new-bern/kuma-sushi-bar.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: New Bern
 seo:
-  name: "Kuma Sushi Bar"
-  type: Restaurant
+  type: restaurant
   links: https://www.kumasushibar.com/
-description: "Kuma Sushi Bar serves delicious sushi in New Bern, North Carolina. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJpXszpyPRqIkRtqtkcSj1VPg
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $20 &ndash; $30
 rating: '4.7'
 rating_count: 0
 website: https://www.kumasushibar.com/
+description: >-
+  Discover Kuma Sushi Bar in New Bern, NC$$$Nestled in the heart of New Bern,
+  North Carolina, Kuma Sushi Bar offers a welcoming spot for enjoying fresh
+  Japanese-inspired dishes in a casual setting. This eatery shines with its
+  array of sushi rolls, poke bowls, and dumplings, paired with a selection of
+  sake that complements the menu perfectly. Visitors appreciate the accessible
+  features like wheelchair-friendly parking and entrances, making it easy for
+  everyone to savor the experience. The spot's focus on quality ingredients and
+  thoughtful presentations creates an inviting atmosphere for those seeking
+  sushi restaurants near me. Whether you're in the mood for a quick bite or a
+  relaxed meal, Kuma Sushi Bar stands out as a go-to choice for authentic
+  flavors in a vibrant local scene.
+generative_summary: >-
+  Discover Kuma Sushi Bar in New Bern, NC$$$Nestled in the heart of New Bern,
+  North Carolina, Kuma Sushi Bar offers a welcoming spot for enjoying fresh
+  Japanese-inspired dishes in a casual setting. This eatery shines with its
+  array of sushi rolls, poke bowls, and dumplings, paired with a selection of
+  sake that complements the menu perfectly. Visitors appreciate the accessible
+  features like wheelchair-friendly parking and entrances, making it easy for
+  everyone to savor the experience. The spot's focus on quality ingredients and
+  thoughtful presentations creates an inviting atmosphere for those seeking
+  sushi restaurants near me. Whether you're in the mood for a quick bite or a
+  relaxed meal, Kuma Sushi Bar stands out as a go-to choice for authentic
+  flavors in a vibrant local scene.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJpXszpyPRqIkRtqtkcSj1VPg/reviews/ChdDSUhNMG9nS0VJQ0FnSUR2LS1XVnd3RRAB
@@ -390,6 +413,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNJLXVQOUl3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNJLXVQOUl3EAE!2m1!1s0x89a8d123a7337ba5:0xf854f5287164abb6
+review_summary: >-
+  What Guests Are Saying About This Sushi Favorite$$$Folks rave about the
+  fantastic sushi rolls and fresh fish at this Japanese spot, often highlighting
+  how the flavors make it worth a visit even if it's a bit of a drive. Many
+  appreciate the friendly service and solid drink options, including beers and
+  cocktails that pair well with the meals, adding to the overall enjoyable vibe.
+  While some note that prices can feel a tad high and portions might lean
+  heavier on rice, the general consensus is that the quality and presentation
+  keep things feeling worthwhile. Diners frequently mention the cozy atmosphere
+  as a plus, though it can get busy, so planning ahead is smart for groups
+  looking for sushi places near me. Overall, it's a solid pick for anyone
+  craving top-rated sushi with a mix of hits that make it a repeat destination.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -421,7 +457,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

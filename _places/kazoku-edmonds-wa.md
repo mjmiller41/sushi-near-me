@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kazoku"
+title: Kazoku
 permalink: /washington/edmonds/kazoku.html
 stateAbbr: WA
 stateName: Washington
 cityName: Edmonds
 seo:
-  name: "Kazoku"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Kazoku serves delicious sushi in Edmonds, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ7c-jdU8bkFQR3WyRpolOlVE
 photos:
   - name: >-
@@ -185,7 +183,47 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Explore Kazoku in Edmonds, WA$$$Kazoku in Edmonds, WA, stands out as a
+  welcoming sushi restaurant that combines casual vibes with authentic Japanese
+  flavors, making it an ideal spot for those seeking quality sushi options
+  nearby. This establishment specializes in fresh omakase selections and a
+  variety of specialties, complemented by small plates, beer, and wine to
+  enhance your meal. With thoughtful accessibility features like
+  wheelchair-friendly entrances and seating, it caters to a wide range of diners
+  looking for an inclusive dining experience. The menu highlights creative
+  dishes that balance tradition and innovation, appealing to anyone exploring
+  top-rated Japanese places in the area. Whether you're in the mood for a
+  relaxed evening or a quick bite, Kazoku delivers a memorable atmosphere that
+  pairs perfectly with its flavorful offerings.
+generative_summary: >-
+  Explore Kazoku in Edmonds, WA$$$Kazoku in Edmonds, WA, stands out as a
+  welcoming sushi restaurant that combines casual vibes with authentic Japanese
+  flavors, making it an ideal spot for those seeking quality sushi options
+  nearby. This establishment specializes in fresh omakase selections and a
+  variety of specialties, complemented by small plates, beer, and wine to
+  enhance your meal. With thoughtful accessibility features like
+  wheelchair-friendly entrances and seating, it caters to a wide range of diners
+  looking for an inclusive dining experience. The menu highlights creative
+  dishes that balance tradition and innovation, appealing to anyone exploring
+  top-rated Japanese places in the area. Whether you're in the mood for a
+  relaxed evening or a quick bite, Kazoku delivers a memorable atmosphere that
+  pairs perfectly with its flavorful offerings.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Diners at This Local Sushi Spot$$$Folks who visit this sushi
+  restaurant often praise the fresh and flavorful selections, including tasty
+  nigiri, sashimi, and inventive rolls that keep things exciting and satisfying.
+  Many highlight the high-quality fish and additional appetizers like chicken
+  karaage, which add a nice variety to the menu without overwhelming the palate.
+  The staff comes across as friendly and attentive, helping to create a
+  comfortable environment that enhances the overall meal. While opinions vary,
+  the general consensus leans positive, noting that it's a solid choice for
+  anyone hunting for reliable sushi close to home. Overall, it's a go-to option
+  for casual diners aiming for a pleasant experience with well-prepared dishes
+  that hit the mark on freshness and taste.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +249,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

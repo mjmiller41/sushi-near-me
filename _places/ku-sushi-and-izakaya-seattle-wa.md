@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ku Sushi and Izakaya"
+title: Ku Sushi and Izakaya
 permalink: /washington/seattle/ku-sushi-and-izakaya.html
 stateAbbr: WA
 stateName: Washington
 cityName: Seattle
 seo:
-  name: "Ku Sushi and Izakaya"
-  type: Restaurant
+  type: restaurant
   links: http://www.kusushiizakaya.com/
-description: "Ku Sushi and Izakaya serves delicious sushi in Seattle, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJh3EmgGEUkFQRRlT-TDOYsTo
 photos:
   - name: >-
@@ -169,7 +167,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x5490146180267187:0x3ab198334cfe5446!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 5:00 – 9:30 PM'
     - 'Tuesday: 5:00 – 9:30 PM'
     - 'Wednesday: 5:00 – 9:30 PM'
@@ -177,14 +225,7 @@ opening_hours:
     - 'Friday: 5:00 – 9:30 PM'
     - 'Saturday: 5:00 – 9:30 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 5:00 – 9:30 PM'
-    - 'Tuesday: 5:00 – 9:30 PM'
-    - 'Wednesday: 5:00 – 9:30 PM'
-    - 'Thursday: 5:00 – 9:30 PM'
-    - 'Friday: 5:00 – 9:30 PM'
-    - 'Saturday: 5:00 – 9:30 PM'
-    - 'Sunday: Closed'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,9 +237,52 @@ phone: (206) 524-6101
 price_level: PRICE_LEVEL_INEXPENSIVE
 price_range: $10 &ndash; $20
 rating: '4.3'
-rating_count: 0
+rating_count: 443
 website: http://www.kusushiizakaya.com/
+description: >-
+  Discover Ku Sushi and Izakaya in Seattle, WA$$$Ku Sushi and Izakaya in
+  Seattle, WA, stands out as a welcoming spot for enjoying fresh sushi alongside
+  a mix of Korean-inspired dishes and vegetarian choices, all served in a
+  relaxed, casual setting. This neighborhood gem in the University Heights area
+  emphasizes accessibility with features like wheelchair-friendly entrances and
+  seating, making it easy for everyone to savor the experience. Patrons can
+  explore a variety of creative rolls and flavorful options that highlight
+  quality ingredients, perfect for those seeking diverse sushi restaurants in
+  the area. With evening hours that cater to casual dinners, it's an ideal
+  choice for anyone looking for authentic flavors without the fuss. Whether
+  you're in the mood for a quick bite or a laid-back meal, this spot delivers on
+  both taste and convenience, appealing to sushi enthusiasts exploring options
+  nearby.
+generative_summary: >-
+  Discover Ku Sushi and Izakaya in Seattle, WA$$$Ku Sushi and Izakaya in
+  Seattle, WA, stands out as a welcoming spot for enjoying fresh sushi alongside
+  a mix of Korean-inspired dishes and vegetarian choices, all served in a
+  relaxed, casual setting. This neighborhood gem in the University Heights area
+  emphasizes accessibility with features like wheelchair-friendly entrances and
+  seating, making it easy for everyone to savor the experience. Patrons can
+  explore a variety of creative rolls and flavorful options that highlight
+  quality ingredients, perfect for those seeking diverse sushi restaurants in
+  the area. With evening hours that cater to casual dinners, it's an ideal
+  choice for anyone looking for authentic flavors without the fuss. Whether
+  you're in the mood for a quick bite or a laid-back meal, this spot delivers on
+  both taste and convenience, appealing to sushi enthusiasts exploring options
+  nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Buzzing About$$$Visitors to this sushi spot often rave about
+  the fresh, well-prepared rolls and the unexpected blend of Korean flavors that
+  add a unique twist to the menu, making it a go-to for variety-loving diners.
+  Many appreciate the casual atmosphere and solid vegetarian selections, which
+  keep things approachable for different tastes and preferences. With an overall
+  strong rating reflecting plenty of positive feedback, folks frequently note
+  the reliable quality and attentive service that enhance the overall
+  experience. While some mention occasional waits during peak times, the
+  consensus leans toward it being a solid pick for anyone hunting for top-rated
+  sushi in the neighborhood. All in all, it's a place that delivers enjoyable
+  meals with a welcoming vibe, encouraging repeat visits for those craving
+  authentic and satisfying options.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -224,7 +308,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

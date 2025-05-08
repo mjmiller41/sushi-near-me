@@ -5,4 +5,5 @@ permalink: /arizona/scottsdale/
 stateAbbr: AZ
 stateName: Arizona
 cityName: Scottsdale
+
 ---

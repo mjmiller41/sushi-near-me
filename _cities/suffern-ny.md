@@ -5,4 +5,5 @@ permalink: /new-york/suffern/
 stateAbbr: NY
 stateName: New York
 cityName: Suffern
+
 ---

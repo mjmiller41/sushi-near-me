@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi 101"
+title: Sushi 101
 permalink: /arizona/tempe/sushi-101.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Tempe
 seo:
-  name: "Sushi 101"
-  type: Restaurant
+  type: restaurant
   links: https://www.sushi101tempe.com/
-description: "Sushi 101 serves delicious sushi in Tempe, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJATplIecIK4cR5UuBpX7I8L4
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x872b08e721653a01:0xbef0c87ea5814be5!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 10:00 PM'
     - 'Tuesday: 11:00 AM – 10:00 PM'
     - 'Wednesday: 11:00 AM – 10:00 PM'
@@ -178,54 +234,811 @@ opening_hours:
     - 'Friday: 11:00 AM – 11:00 PM'
     - 'Saturday: 12:00 – 11:00 PM'
     - 'Sunday: 12:00 – 10:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 10:00 PM'
-    - 'Tuesday: 11:00 AM – 10:00 PM'
-    - 'Wednesday: 11:00 AM – 10:00 PM'
-    - 'Thursday: 11:00 AM – 10:00 PM'
-    - 'Friday: 11:00 AM – 11:00 PM'
-    - 'Saturday: 12:00 – 11:00 PM'
-    - 'Sunday: 12:00 – 10:00 PM'
+  nextCloseTime: '2025-05-04T06:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 15
+          minute: 0
+        close:
+          day: 0
+          hour: 18
+          minute: 0
+      - open:
+          day: 0
+          hour: 21
+          minute: 0
+        close:
+          day: 0
+          hour: 22
+          minute: 0
+      - open:
+          day: 1
+          hour: 15
+          minute: 0
+        close:
+          day: 1
+          hour: 18
+          minute: 0
+      - open:
+          day: 1
+          hour: 21
+          minute: 0
+        close:
+          day: 1
+          hour: 22
+          minute: 0
+      - open:
+          day: 2
+          hour: 15
+          minute: 0
+        close:
+          day: 2
+          hour: 18
+          minute: 0
+      - open:
+          day: 2
+          hour: 21
+          minute: 0
+        close:
+          day: 2
+          hour: 22
+          minute: 0
+      - open:
+          day: 3
+          hour: 15
+          minute: 0
+        close:
+          day: 3
+          hour: 18
+          minute: 0
+      - open:
+          day: 3
+          hour: 21
+          minute: 0
+        close:
+          day: 3
+          hour: 22
+          minute: 0
+      - open:
+          day: 4
+          hour: 15
+          minute: 0
+        close:
+          day: 4
+          hour: 18
+          minute: 0
+      - open:
+          day: 4
+          hour: 21
+          minute: 0
+        close:
+          day: 4
+          hour: 22
+          minute: 0
+      - open:
+          day: 5
+          hour: 15
+          minute: 0
+        close:
+          day: 5
+          hour: 18
+          minute: 0
+      - open:
+          day: 5
+          hour: 21
+          minute: 0
+        close:
+          day: 5
+          hour: 23
+          minute: 0
+      - open:
+          day: 6
+          hour: 15
+          minute: 0
+        close:
+          day: 6
+          hour: 18
+          minute: 0
+      - open:
+          day: 6
+          hour: 21
+          minute: 0
+        close:
+          day: 6
+          hour: 23
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 3:00 – 6:00 PM, 9:00 – 10:00 PM'
+      - 'Tuesday: 3:00 – 6:00 PM, 9:00 – 10:00 PM'
+      - 'Wednesday: 3:00 – 6:00 PM, 9:00 – 10:00 PM'
+      - 'Thursday: 3:00 – 6:00 PM, 9:00 – 10:00 PM'
+      - 'Friday: 3:00 – 6:00 PM, 9:00 – 11:00 PM'
+      - 'Saturday: 3:00 – 6:00 PM, 9:00 – 11:00 PM'
+      - 'Sunday: 3:00 – 6:00 PM, 9:00 – 10:00 PM'
+    secondaryHoursType: HAPPY_HOUR
+    nextCloseTime: '2025-05-04T01:00:00Z'
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 0
+        close:
+          day: 0
+          hour: 21
+          minute: 30
+      - open:
+          day: 1
+          hour: 11
+          minute: 0
+        close:
+          day: 1
+          hour: 21
+          minute: 30
+      - open:
+          day: 2
+          hour: 11
+          minute: 0
+        close:
+          day: 2
+          hour: 21
+          minute: 30
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 21
+          minute: 30
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 30
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 22
+          minute: 30
+      - open:
+          day: 6
+          hour: 12
+          minute: 0
+        close:
+          day: 6
+          hour: 22
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 11:00 AM – 9:30 PM'
+      - 'Tuesday: 11:00 AM – 9:30 PM'
+      - 'Wednesday: 11:00 AM – 9:30 PM'
+      - 'Thursday: 11:00 AM – 9:30 PM'
+      - 'Friday: 11:00 AM – 10:30 PM'
+      - 'Saturday: 12:00 – 10:30 PM'
+      - 'Sunday: 12:00 – 9:30 PM'
+    secondaryHoursType: DELIVERY
+    nextCloseTime: '2025-05-04T05:30:00Z'
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 0
+        close:
+          day: 0
+          hour: 21
+          minute: 45
+      - open:
+          day: 1
+          hour: 11
+          minute: 0
+        close:
+          day: 1
+          hour: 21
+          minute: 45
+      - open:
+          day: 2
+          hour: 11
+          minute: 0
+        close:
+          day: 2
+          hour: 21
+          minute: 45
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 21
+          minute: 45
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 45
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 22
+          minute: 45
+      - open:
+          day: 6
+          hour: 12
+          minute: 0
+        close:
+          day: 6
+          hour: 22
+          minute: 45
+    weekdayDescriptions:
+      - 'Monday: 11:00 AM – 9:45 PM'
+      - 'Tuesday: 11:00 AM – 9:45 PM'
+      - 'Wednesday: 11:00 AM – 9:45 PM'
+      - 'Thursday: 11:00 AM – 9:45 PM'
+      - 'Friday: 11:00 AM – 10:45 PM'
+      - 'Saturday: 12:00 – 10:45 PM'
+      - 'Sunday: 12:00 – 9:45 PM'
+    secondaryHoursType: TAKEOUT
+    nextCloseTime: '2025-05-04T05:45:00Z'
+  - openNow: false
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 0
+        close:
+          day: 0
+          hour: 15
+          minute: 0
+      - open:
+          day: 1
+          hour: 11
+          minute: 0
+        close:
+          day: 1
+          hour: 15
+          minute: 0
+      - open:
+          day: 2
+          hour: 11
+          minute: 0
+        close:
+          day: 2
+          hour: 15
+          minute: 0
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 15
+          minute: 0
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 15
+          minute: 0
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 15
+          minute: 0
+      - open:
+          day: 6
+          hour: 12
+          minute: 0
+        close:
+          day: 6
+          hour: 15
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 11:00 AM – 3:00 PM'
+      - 'Tuesday: 11:00 AM – 3:00 PM'
+      - 'Wednesday: 11:00 AM – 3:00 PM'
+      - 'Thursday: 11:00 AM – 3:00 PM'
+      - 'Friday: 11:00 AM – 3:00 PM'
+      - 'Saturday: 12:00 – 3:00 PM'
+      - 'Sunday: 12:00 – 3:00 PM'
+    secondaryHoursType: BRUNCH
+    nextOpenTime: '2025-05-04T19:00:00Z'
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 0
+        close:
+          day: 0
+          hour: 22
+          minute: 0
+      - open:
+          day: 1
+          hour: 11
+          minute: 0
+        close:
+          day: 1
+          hour: 22
+          minute: 0
+      - open:
+          day: 2
+          hour: 11
+          minute: 0
+        close:
+          day: 2
+          hour: 22
+          minute: 0
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 22
+          minute: 0
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 22
+          minute: 0
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 23
+          minute: 0
+      - open:
+          day: 6
+          hour: 12
+          minute: 0
+        close:
+          day: 6
+          hour: 23
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 11:00 AM – 10:00 PM'
+      - 'Tuesday: 11:00 AM – 10:00 PM'
+      - 'Wednesday: 11:00 AM – 10:00 PM'
+      - 'Thursday: 11:00 AM – 10:00 PM'
+      - 'Friday: 11:00 AM – 11:00 PM'
+      - 'Saturday: 12:00 – 11:00 PM'
+      - 'Sunday: 12:00 – 10:00 PM'
+    secondaryHoursType: ACCESS
+    nextCloseTime: '2025-05-04T06:00:00Z'
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 0
+        close:
+          day: 0
+          hour: 22
+          minute: 10
+      - open:
+          day: 1
+          hour: 11
+          minute: 0
+        close:
+          day: 1
+          hour: 22
+          minute: 10
+      - open:
+          day: 2
+          hour: 11
+          minute: 0
+        close:
+          day: 2
+          hour: 22
+          minute: 10
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 22
+          minute: 10
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 22
+          minute: 10
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 23
+          minute: 10
+      - open:
+          day: 6
+          hour: 12
+          minute: 0
+        close:
+          day: 6
+          hour: 23
+          minute: 10
+    weekdayDescriptions:
+      - 'Monday: 11:00 AM – 10:10 PM'
+      - 'Tuesday: 11:00 AM – 10:10 PM'
+      - 'Wednesday: 11:00 AM – 10:10 PM'
+      - 'Thursday: 11:00 AM – 10:10 PM'
+      - 'Friday: 11:00 AM – 11:10 PM'
+      - 'Saturday: 12:00 – 11:10 PM'
+      - 'Sunday: 12:00 – 10:10 PM'
+    secondaryHoursType: KITCHEN
+    nextCloseTime: '2025-05-04T06:10:00Z'
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 0
+        close:
+          day: 0
+          hour: 21
+          minute: 45
+      - open:
+          day: 1
+          hour: 11
+          minute: 0
+        close:
+          day: 1
+          hour: 21
+          minute: 45
+      - open:
+          day: 2
+          hour: 11
+          minute: 0
+        close:
+          day: 2
+          hour: 21
+          minute: 45
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 21
+          minute: 45
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 45
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 22
+          minute: 45
+      - open:
+          day: 6
+          hour: 12
+          minute: 0
+        close:
+          day: 6
+          hour: 22
+          minute: 45
+    weekdayDescriptions:
+      - 'Monday: 11:00 AM – 9:45 PM'
+      - 'Tuesday: 11:00 AM – 9:45 PM'
+      - 'Wednesday: 11:00 AM – 9:45 PM'
+      - 'Thursday: 11:00 AM – 9:45 PM'
+      - 'Friday: 11:00 AM – 10:45 PM'
+      - 'Saturday: 12:00 – 10:45 PM'
+      - 'Sunday: 12:00 – 9:45 PM'
+    secondaryHoursType: ONLINE_SERVICE_HOURS
+    nextCloseTime: '2025-05-04T05:45:00Z'
 phone: (480) 317-0101
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.3'
-rating_count: 0
+rating_count: 828
 website: https://www.sushi101tempe.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Explore Sushi 101 in Tempe, AZ$$$Sushi 101 in Tempe, AZ, stands out as a
+  welcoming Japanese eatery offering fresh sushi and diverse options for all
+  preferences, including vegan and vegetarian choices. The spot features casual
+  seating with a patio area, making it ideal for relaxed meals or quick bites
+  near local hotspots. Known for its happy hour deals and variety of dishes,
+  this restaurant provides an approachable introduction to authentic Japanese
+  flavors that appeal to sushi enthusiasts. Accessibility is a key highlight,
+  with features like wheelchair-friendly entrances and parking, ensuring
+  everyone can enjoy the experience. Whether you're seeking top-rated sushi
+  options close to home, this location combines quality ingredients with a
+  laid-back vibe for a satisfying dining outing.
+generative_summary: >-
+  Explore Sushi 101 in Tempe, AZ$$$Sushi 101 in Tempe, AZ, stands out as a
+  welcoming Japanese eatery offering fresh sushi and diverse options for all
+  preferences, including vegan and vegetarian choices. The spot features casual
+  seating with a patio area, making it ideal for relaxed meals or quick bites
+  near local hotspots. Known for its happy hour deals and variety of dishes,
+  this restaurant provides an approachable introduction to authentic Japanese
+  flavors that appeal to sushi enthusiasts. Accessibility is a key highlight,
+  with features like wheelchair-friendly entrances and parking, ensuring
+  everyone can enjoy the experience. Whether you're seeking top-rated sushi
+  options close to home, this location combines quality ingredients with a
+  laid-back vibe for a satisfying dining outing.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJATplIecIK4cR5UuBpX7I8L4/reviews/ChZDSUhNMG9nS0VJQ0FnTURvbXRhSUFnEAE
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        Great food, phenomenal service, and extremely welcoming atmosphere. The
+        employees are awesome they treat you like family in all the best ways.
+        For someone who never cared for sushi, this place changed my entire
+        perspective. From their unique sushi combos like the firetail or their
+        mouth watering, chicken sliders down to their seared tuna salad or even
+        their teriyaki bowls. This place will leave you wanting more from their
+        menu. HIGH PRAISE! HIGHLY RECOMMEND!
+      languageCode: en
+    originalText:
+      text: >-
+        Great food, phenomenal service, and extremely welcoming atmosphere. The
+        employees are awesome they treat you like family in all the best ways.
+        For someone who never cared for sushi, this place changed my entire
+        perspective. From their unique sushi combos like the firetail or their
+        mouth watering, chicken sliders down to their seared tuna salad or even
+        their teriyaki bowls. This place will leave you wanting more from their
+        menu. HIGH PRAISE! HIGHLY RECOMMEND!
+      languageCode: en
+    authorAttribution:
+      displayName: Brian Garrett
+      uri: https://www.google.com/maps/contrib/108200176856070904047/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKqkGX3puQeF_puEPyRBpXlDwvPb47rIWJF2jU3kxdP8VZRrA=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-23T23:03:15.387847Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURvbXRhSUFnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURvbXRhSUFnEAE!2m1!1s0x872b08e721653a01:0xbef0c87ea5814be5
+  - name: >-
+      places/ChIJATplIecIK4cR5UuBpX7I8L4/reviews/ChZDSUhNMG9nS0VJQ0FnSURfeHZ5dlB3EAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        Sushi Chef Miguel did an incredible job! The quality was spectacular,
+        and every bite was thoughtfully crafted. I had the unagi donburi,
+        assorted nigiri, and the Captain Crunch and Ruby Sunset rolls—both left
+        me wanting more. Great customer service and fresh ingredients. This
+        Sushi 101 is even better than I remember!
+      languageCode: en
+    originalText:
+      text: >-
+        Sushi Chef Miguel did an incredible job! The quality was spectacular,
+        and every bite was thoughtfully crafted. I had the unagi donburi,
+        assorted nigiri, and the Captain Crunch and Ruby Sunset rolls—both left
+        me wanting more. Great customer service and fresh ingredients. This
+        Sushi 101 is even better than I remember!
+      languageCode: en
+    authorAttribution:
+      displayName: Ekim
+      uri: https://www.google.com/maps/contrib/114748481973289309398/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJaj0gU7SIloOA-571c8T7__qIFXB2Kp-vsI1j7OGomNestBQ=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-01-23T19:34:22.216509Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURfeHZ5dlB3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURfeHZ5dlB3EAE!2m1!1s0x872b08e721653a01:0xbef0c87ea5814be5
+  - name: >-
+      places/ChIJATplIecIK4cR5UuBpX7I8L4/reviews/ChZDSUhNMG9nS0VJQ0FnTURJdXFMTEZ3EAE
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 4
+    text:
+      text: >-
+        The food was very average—not something I’d go back for. It wasn’t
+        terrible, but definitely not impressive. There are plenty of sushi spots
+        that offer much better quality for the same price.
+      languageCode: en
+    originalText:
+      text: >-
+        The food was very average—not something I’d go back for. It wasn’t
+        terrible, but definitely not impressive. There are plenty of sushi spots
+        that offer much better quality for the same price.
+      languageCode: en
+    authorAttribution:
+      displayName: Pegah Kh
+      uri: https://www.google.com/maps/contrib/108192563746375581583/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWs2qZuovjsN0xDVZhUuGZ6M6-Uqbdt7y3p11tHcc1015bHkre3=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-09T03:42:18.247996Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURJdXFMTEZ3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJdXFMTEZ3EAE!2m1!1s0x872b08e721653a01:0xbef0c87ea5814be5
+  - name: >-
+      places/ChIJATplIecIK4cR5UuBpX7I8L4/reviews/ChZDSUhNMG9nS0VJQ0FnSUNYMlBPckNnEAE
+    relativePublishTimeDescription: 6 months ago
+    rating: 5
+    text:
+      text: >-
+        I've been coming to sushi 101 since 2012. Their specialty rolls do not
+        miss.  They have lots of options from salads, rice, noodles bowls, maki,
+        and some amazing desert.
+
+
+        Their hhr is daily 3 to 7. We got spring rolls and pork gyoza. It was
+        light and crispy and the dipping sauce was so good.
+
+
+        For rolls we did a shrimp tempura with crunch and Philly. For special
+        rolls today was the diamond backs and sun devil.
+
+
+        The service was quick and she checked on us frequently making our
+        experience today a great one.
+
+
+        We'll be back soon!
+      languageCode: en
+    originalText:
+      text: >-
+        I've been coming to sushi 101 since 2012. Their specialty rolls do not
+        miss.  They have lots of options from salads, rice, noodles bowls, maki,
+        and some amazing desert.
+
+
+        Their hhr is daily 3 to 7. We got spring rolls and pork gyoza. It was
+        light and crispy and the dipping sauce was so good.
+
+
+        For rolls we did a shrimp tempura with crunch and Philly. For special
+        rolls today was the diamond backs and sun devil.
+
+
+        The service was quick and she checked on us frequently making our
+        experience today a great one.
+
+
+        We'll be back soon!
+      languageCode: en
+    authorAttribution:
+      displayName: sarah abdelrasul
+      uri: https://www.google.com/maps/contrib/107669087775991230458/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVNYk4d4DBfk648L8OJ4iLOQW1UY4bB7a_ACsjS5tH2InyYe5mp=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-10-13T02:16:44.931344Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNYMlBPckNnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNYMlBPckNnEAE!2m1!1s0x872b08e721653a01:0xbef0c87ea5814be5
+  - name: >-
+      places/ChIJATplIecIK4cR5UuBpX7I8L4/reviews/ChdDSUhNMG9nS0VJQ0FnSUNOeHVuTDlRRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        I'm so happy to find this place! Best Sushi I have  been to in Arizona,
+        hands down. I've lived in Hawaii and been to Japan. The quality of food
+        and freshness is as good or better than I've had there. Truly something
+        for everyone on their menu. You can tell they go through great pains to
+        get the best ingredients to use in their time-tested authentic recipes.
+        If you're looking for the best Japanese food in Arizona, look no
+        further. This is the place! The environment is very clean and friendly
+        plus there are plenty of TVs for the sports enthusiasts.  Another great
+        thing is I noticed that under their bar they have outlets so if you're
+        Cellphone is low you have a place to get a charg while you eat. Take my
+        advice and stop in like me. I'm sure it will become your new local
+        favorite!
+      languageCode: en
+    originalText:
+      text: >-
+        I'm so happy to find this place! Best Sushi I have  been to in Arizona,
+        hands down. I've lived in Hawaii and been to Japan. The quality of food
+        and freshness is as good or better than I've had there. Truly something
+        for everyone on their menu. You can tell they go through great pains to
+        get the best ingredients to use in their time-tested authentic recipes.
+        If you're looking for the best Japanese food in Arizona, look no
+        further. This is the place! The environment is very clean and friendly
+        plus there are plenty of TVs for the sports enthusiasts.  Another great
+        thing is I noticed that under their bar they have outlets so if you're
+        Cellphone is low you have a place to get a charg while you eat. Take my
+        advice and stop in like me. I'm sure it will become your new local
+        favorite!
+      languageCode: en
+    authorAttribution:
+      displayName: Ub2bsoB 1
+      uri: https://www.google.com/maps/contrib/105179076691066741310/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWyvbgf1x38isDh2voSq2L-Ed6NBBBoTGVd-afRVmGYwgz8yvMHpg=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-01-14T03:32:52.549476Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNOeHVuTDlRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNOeHVuTDlRRRAB!2m1!1s0x872b08e721653a01:0xbef0c87ea5814be5
+review_summary: >-
+  What Customers Are Buzzing About$$$Folks rave about the fresh flavors and
+  creative rolls at this spot, often highlighting how the menu's variety keeps
+  things exciting for repeat visits. Many appreciate the welcoming service and
+  atmosphere that make every meal feel effortless and enjoyable, with happy hour
+  specials adding extra value to the experience. While most feedback praises the
+  quality of ingredients and dishes like specialty rolls and salads, a few note
+  that it hits the mark for everyday cravings without always wowing in
+  innovation. Overall, it's clear this place delivers solid satisfaction for
+  sushi lovers, earning high marks for its balance of taste, affordability, and
+  friendly vibes. If you're on the hunt for reliable Japanese places nearby,
+  it's worth checking out for a meal that leaves you content and coming back for
+  more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
+curbside_pickup: true
+delivery: false
+dine_in: true
 good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+good_for_groups: true
+good_for_sports: true
+live_music: false
+menu_for_children: true
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: true
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Sushi & other Japanese fare, including lunchtime specials, are served in this
+  ASU-campus eatery.
 
 ---

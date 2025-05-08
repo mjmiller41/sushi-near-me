@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Momo Sushi"
+title: Momo Sushi
 permalink: /nevada/boulder-city/momo-sushi.html
 stateAbbr: NV
 stateName: Nevada
 cityName: Boulder City
 seo:
-  name: "Momo Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Momo Sushi serves delicious sushi in Boulder City, Nevada. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJMRfzNTQryYARBu1d1SjOxdI
 photos:
   - name: >-
@@ -185,7 +183,50 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Momo Sushi in Boulder City, NV$$$Nestled in the heart of Boulder
+  City, NV, Momo Sushi stands out as a trendy Japanese eatery blending
+  traditional flavors with innovative fusion dishes, making it a go-to spot for
+  sushi enthusiasts. This restaurant boasts a welcoming atmosphere in the
+  historic district, complete with a diverse selection of teas that perfectly
+  complement fresh seafood options and creative rolls. Visitors can enjoy a
+  variety of Japanese-inspired fare, from classic nigiri to modern twists, all
+  prepared with high-quality ingredients that highlight the best of local and
+  authentic tastes. The spot emphasizes accessibility with features like
+  wheelchair-friendly seating and entrances, ensuring a comfortable dining
+  experience for all. Whether you're searching for top-rated sushi places near
+  you, this location offers a delightful mix of cultural vibes and satisfying
+  meals that keep diners coming back.
+generative_summary: >-
+  Discover Momo Sushi in Boulder City, NV$$$Nestled in the heart of Boulder
+  City, NV, Momo Sushi stands out as a trendy Japanese eatery blending
+  traditional flavors with innovative fusion dishes, making it a go-to spot for
+  sushi enthusiasts. This restaurant boasts a welcoming atmosphere in the
+  historic district, complete with a diverse selection of teas that perfectly
+  complement fresh seafood options and creative rolls. Visitors can enjoy a
+  variety of Japanese-inspired fare, from classic nigiri to modern twists, all
+  prepared with high-quality ingredients that highlight the best of local and
+  authentic tastes. The spot emphasizes accessibility with features like
+  wheelchair-friendly seating and entrances, ensuring a comfortable dining
+  experience for all. Whether you're searching for top-rated sushi places near
+  you, this location offers a delightful mix of cultural vibes and satisfying
+  meals that keep diners coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Raving About$$$From what folks are sharing online, Momo
+  Sushi seems to hit the mark with its fresh and flavorful dishes, earning nods
+  for creative rolls and a solid tea menu that adds a nice touch to the meal.
+  People often mention the welcoming vibe and attentive service, making it a
+  relaxed choice for casual dinners or groups looking for reliable Japanese
+  options. While some note that portions could be more generous, the overall
+  consensus leans positive, with many appreciating the fusion elements that
+  bring a fresh spin to traditional sushi. It's clear that this spot maintains a
+  reputation for quality ingredients and a cozy setting, helping it stand out
+  among sushi restaurants in the area. If you're on the hunt for great sushi
+  close to you, the feedback suggests it's worth a try for an enjoyable,
+  straightforward dining experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +252,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

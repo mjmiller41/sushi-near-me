@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Asahi Sushi"
+title: Asahi Sushi
 permalink: /washington/olympia/asahi-sushi.html
 stateAbbr: WA
 stateName: Washington
 cityName: Olympia
 seo:
-  name: "Asahi Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://asahisushiolympia.com/
-description: "Asahi Sushi serves delicious sushi in Olympia, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJVW-dpaB1kVQR7GkEIBBF6Bc
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x549175a0a59d6f55:0x17e84510200469ec!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 9:00 PM'
     - 'Tuesday: 11:30 AM – 9:00 PM'
     - 'Wednesday: 11:30 AM – 9:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 9:00 PM'
     - 'Saturday: 11:30 AM – 9:00 PM'
     - 'Sunday: 11:30 AM – 9:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 9:00 PM'
-    - 'Tuesday: 11:30 AM – 9:00 PM'
-    - 'Wednesday: 11:30 AM – 9:00 PM'
-    - 'Thursday: 11:30 AM – 9:00 PM'
-    - 'Friday: 11:30 AM – 9:00 PM'
-    - 'Saturday: 11:30 AM – 9:00 PM'
-    - 'Sunday: 11:30 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +246,45 @@ phone: (360) 705-8000
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.7'
-rating_count: 0
+rating_count: 699
 website: https://asahisushiolympia.com/
+description: >-
+  Discover Asahi Sushi in Olympia, Washington$$$Asahi Sushi in Olympia,
+  Washington, stands out as a welcoming spot for enjoying authentic Japanese
+  cuisine, featuring a variety of fresh rolls and classic dishes in a relaxed
+  setting. This sushi restaurant offers an array of options like sashimi and
+  flavorful Japanese favorites, complemented by selections of beer and sake to
+  enhance your meal. Nestled in a historic area, it provides easy access and
+  thoughtful amenities, making it a convenient choice for anyone seeking quality
+  dining experiences. With its moderate pricing and inviting atmosphere, it's an
+  ideal destination for those exploring top-rated sushi options nearby, ensuring
+  a satisfying visit for individuals or small groups.
+generative_summary: >-
+  Discover Asahi Sushi in Olympia, Washington$$$Asahi Sushi in Olympia,
+  Washington, stands out as a welcoming spot for enjoying authentic Japanese
+  cuisine, featuring a variety of fresh rolls and classic dishes in a relaxed
+  setting. This sushi restaurant offers an array of options like sashimi and
+  flavorful Japanese favorites, complemented by selections of beer and sake to
+  enhance your meal. Nestled in a historic area, it provides easy access and
+  thoughtful amenities, making it a convenient choice for anyone seeking quality
+  dining experiences. With its moderate pricing and inviting atmosphere, it's an
+  ideal destination for those exploring top-rated sushi options nearby, ensuring
+  a satisfying visit for individuals or small groups.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Love About This Spot$$$Visitors often rave about the fresh and
+  flavorful fish at this sushi restaurant, with many highlighting the tasty
+  bento boxes and creative rolls that keep things exciting and delicious. Folks
+  appreciate the efficient service and welcoming vibe that make every meal feel
+  effortless and enjoyable, without any unnecessary waits. The reasonable prices
+  add to the appeal, offering great value for anyone looking for reliable
+  Japanese dining options close to home. Overall, it's praised as a go-to place
+  for quality sushi experiences, where the combination of variety and friendly
+  attention leaves diners feeling pleased and eager to return. If you're on the
+  hunt for the best sushi around, this spot delivers a consistently positive
+  vibe that hits the mark.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +310,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

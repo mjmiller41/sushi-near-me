@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Park"
+title: Sushi Park
 permalink: /california/west-hollywood/sushi-park.html
 stateAbbr: CA
 stateName: California
 cityName: West Hollywood
 seo:
-  name: "Sushi Park"
-  type: Restaurant
+  type: restaurant
   links: https://www.exploretock.com/sushipark/
-description: "Sushi Park serves delicious sushi in West Hollywood, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJW4fmrr2-woARCAUMyNnly3U
 photos:
   - name: >-
@@ -169,7 +167,49 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c2bebdaee6875b:0x75cbe5d9c80c0508!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 2
+        hour: 17
+        minute: 30
+      close:
+        day: 2
+        hour: 20
+        minute: 45
+    - open:
+        day: 3
+        hour: 17
+        minute: 30
+      close:
+        day: 3
+        hour: 20
+        minute: 45
+    - open:
+        day: 4
+        hour: 17
+        minute: 30
+      close:
+        day: 4
+        hour: 20
+        minute: 45
+    - open:
+        day: 5
+        hour: 17
+        minute: 30
+      close:
+        day: 5
+        hour: 20
+        minute: 45
+    - open:
+        day: 6
+        hour: 17
+        minute: 30
+      close:
+        day: 6
+        hour: 20
+        minute: 45
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 5:30 – 8:45 PM'
     - 'Wednesday: 5:30 – 8:45 PM'
@@ -177,14 +217,7 @@ opening_hours:
     - 'Friday: 5:30 – 8:45 PM'
     - 'Saturday: 5:30 – 8:45 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 5:30 – 8:45 PM'
-    - 'Wednesday: 5:30 – 8:45 PM'
-    - 'Thursday: 5:30 – 8:45 PM'
-    - 'Friday: 5:30 – 8:45 PM'
-    - 'Saturday: 5:30 – 8:45 PM'
-    - 'Sunday: Closed'
+  nextOpenTime: '2025-05-04T00:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,35 +229,273 @@ phone: (310) 652-0523
 price_level: PRICE_LEVEL_VERY_EXPENSIVE
 price_range: $100 &ndash; & up
 rating: '4.7'
-rating_count: 0
+rating_count: 141
 website: https://www.exploretock.com/sushipark/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Experience Sushi Park in West Hollywood$$$Sushi Park in West Hollywood, CA,
+  stands out as a hidden favorite among sushi spots, offering an intimate
+  omakase dining experience that focuses on fresh, chef-selected dishes in a
+  simple strip mall setting. This Japanese-inspired eatery emphasizes
+  high-quality sushi paired with beer and wine options, making it a go-to choice
+  for those seeking authentic flavors without the fuss. With thoughtful
+  accessibility features like wheelchair-friendly entrances and seating, it
+  caters to a wide range of visitors looking for a relaxed yet refined meal. The
+  restaurant's limited hours add to its exclusive appeal, encouraging patrons to
+  plan ahead for an evening of expertly crafted bites that highlight seasonal
+  ingredients.
+generative_summary: >-
+  Experience Sushi Park in West Hollywood$$$Sushi Park in West Hollywood, CA,
+  stands out as a hidden favorite among sushi spots, offering an intimate
+  omakase dining experience that focuses on fresh, chef-selected dishes in a
+  simple strip mall setting. This Japanese-inspired eatery emphasizes
+  high-quality sushi paired with beer and wine options, making it a go-to choice
+  for those seeking authentic flavors without the fuss. With thoughtful
+  accessibility features like wheelchair-friendly entrances and seating, it
+  caters to a wide range of visitors looking for a relaxed yet refined meal. The
+  restaurant's limited hours add to its exclusive appeal, encouraging patrons to
+  plan ahead for an evening of expertly crafted bites that highlight seasonal
+  ingredients.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJW4fmrr2-woARCAUMyNnly3U/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRbE8zTVp3EAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        This place looks like whatever but it's the best sushi I've had without
+        any competition at all. Been all over the world, this place easily takes
+        it. There's just one other place in LA that I used to think was the best
+        of the best....it's been dethroned
+      languageCode: en
+    originalText:
+      text: >-
+        This place looks like whatever but it's the best sushi I've had without
+        any competition at all. Been all over the world, this place easily takes
+        it. There's just one other place in LA that I used to think was the best
+        of the best....it's been dethroned
+      languageCode: en
+    authorAttribution:
+      displayName: Bob F
+      uri: https://www.google.com/maps/contrib/103548868690212232533/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXqvCkKRVk1W85uoV40oFSss_ViSYXffCL49gGRSlt02NUGcozz=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-03-02T06:40:21.865498Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNRbE8zTVp3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNRbE8zTVp3EAE!2m1!1s0x80c2bebdaee6875b:0x75cbe5d9c80c0508
+  - name: >-
+      places/ChIJW4fmrr2-woARCAUMyNnly3U/reviews/ChdDSUhNMG9nS0VJQ0FnSUNKNFk2MWhnRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 4
+    text:
+      text: >-
+        Prepare to pay around 200$ per person for omakase.
+
+        The food is great. You don't know what you're getting, the chef is
+        choosing for you.
+
+        The service is splendid, with Japanese attentiveness.
+
+        If you're visiting from abroad, be prepared to be shocked by the
+        secluded location of this restaurant beloved by celebrities.
+      languageCode: en
+    originalText:
+      text: >-
+        Prepare to pay around 200$ per person for omakase.
+
+        The food is great. You don't know what you're getting, the chef is
+        choosing for you.
+
+        The service is splendid, with Japanese attentiveness.
+
+        If you're visiting from abroad, be prepared to be shocked by the
+        secluded location of this restaurant beloved by celebrities.
+      languageCode: en
+    authorAttribution:
+      displayName: Anna S
+      uri: https://www.google.com/maps/contrib/111190179136662492857/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJS-UEhz7rdoZZEuXHWsL9VqZz9PBMXoiDumdKVdFf2Z81ndXo=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2023-06-29T00:08:35.473242Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNKNFk2MWhnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNKNFk2MWhnRRAB!2m1!1s0x80c2bebdaee6875b:0x75cbe5d9c80c0508
+  - name: >-
+      places/ChIJW4fmrr2-woARCAUMyNnly3U/reviews/ChdDSUhNMG9nS0VJQ0FnTURRdi02dDZ3RRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        a lot of sushi! great dining experience, good service. weird LA location
+        but regardless really solid. would’ve liked a bit less because we were
+        stuffed by the end..
+      languageCode: en
+    originalText:
+      text: >-
+        a lot of sushi! great dining experience, good service. weird LA location
+        but regardless really solid. would’ve liked a bit less because we were
+        stuffed by the end..
+      languageCode: en
+    authorAttribution:
+      displayName: Gummy
+      uri: https://www.google.com/maps/contrib/100863075122711412277/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIfZwqjuTZI7cOopqSiCRS0lPQDZPifmkWue3PtUh38c3ka=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-03-15T16:24:47.827861Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURRdi02dDZ3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURRdi02dDZ3RRAB!2m1!1s0x80c2bebdaee6875b:0x75cbe5d9c80c0508
+  - name: >-
+      places/ChIJW4fmrr2-woARCAUMyNnly3U/reviews/ChZDSUhNMG9nS0VJQ0FnSUNXcS1ya0d3EAE
+    relativePublishTimeDescription: 3 years ago
+    rating: 3
+    text:
+      text: >-
+        There’s a lot of hype about this place. Thats what got me curious.
+
+        If you have some deposable income (200+/person), and that’s what I had,
+        this isn’t a bad choice.
+
+        But if you’ve been to Japan for fine dinning, it might not meet your
+        expectations for a few reasons.
+
+        Fish selection wasn’t bad, they have a bit more than run of the mill.
+        but the rice kind of ruined it. It had enough moist and favor, but the
+        middle is a bit harder than it should. Almost like they didn’t cook long
+        enough before taking it out to cool.
+
+        The size of each piece is smaller than expected be about 20%. Normal
+        each piece should comfortably fill your mouth, but every time I ate a
+        piece, it feels like a bit more empty than it should, not enough to feel
+        fulfilling for each bite.
+
+        Also, Would also be nice if they offer real wasabi, not the substitute
+        from a tube.
+
+        I know they are going for simple decoration with quality ingredients.
+        But for this price point, not sure if the quality justifies it.
+      languageCode: en
+    originalText:
+      text: >-
+        There’s a lot of hype about this place. Thats what got me curious.
+
+        If you have some deposable income (200+/person), and that’s what I had,
+        this isn’t a bad choice.
+
+        But if you’ve been to Japan for fine dinning, it might not meet your
+        expectations for a few reasons.
+
+        Fish selection wasn’t bad, they have a bit more than run of the mill.
+        but the rice kind of ruined it. It had enough moist and favor, but the
+        middle is a bit harder than it should. Almost like they didn’t cook long
+        enough before taking it out to cool.
+
+        The size of each piece is smaller than expected be about 20%. Normal
+        each piece should comfortably fill your mouth, but every time I ate a
+        piece, it feels like a bit more empty than it should, not enough to feel
+        fulfilling for each bite.
+
+        Also, Would also be nice if they offer real wasabi, not the substitute
+        from a tube.
+
+        I know they are going for simple decoration with quality ingredients.
+        But for this price point, not sure if the quality justifies it.
+      languageCode: en
+    authorAttribution:
+      displayName: Vicente Leong
+      uri: https://www.google.com/maps/contrib/101001908343417654957/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKEl9aO5vzS6oQHMEZmLAO30ChhZal9UOAkRSrPHigmtuttMQ=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2022-03-06T23:07:14.801283Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNXcS1ya0d3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNXcS1ya0d3EAE!2m1!1s0x80c2bebdaee6875b:0x75cbe5d9c80c0508
+  - name: >-
+      places/ChIJW4fmrr2-woARCAUMyNnly3U/reviews/ChdDSUhNMG9nS0VJQ0FnSUNubFk3emlnRRAB
+    relativePublishTimeDescription: 7 months ago
+    rating: 3
+    text:
+      text: >-
+        This place falls short of a true omakase experience—it's more like a
+        standard sushi bar trying to pass as one. If you're seeking an authentic
+        omakase, you're better off at Onodera.( even though it’s more expensive
+        it’s worth it) For high-quality sushi, Sushi Gen is a much better
+        option. Also you pay $12 for self parking. A guy who sits there just
+        collects the money without doing anything and have a bad attitude.
+
+        Whole experience is not worth $200 per person meal.
+      languageCode: en
+    originalText:
+      text: >-
+        This place falls short of a true omakase experience—it's more like a
+        standard sushi bar trying to pass as one. If you're seeking an authentic
+        omakase, you're better off at Onodera.( even though it’s more expensive
+        it’s worth it) For high-quality sushi, Sushi Gen is a much better
+        option. Also you pay $12 for self parking. A guy who sits there just
+        collects the money without doing anything and have a bad attitude.
+
+        Whole experience is not worth $200 per person meal.
+      languageCode: en
+    authorAttribution:
+      displayName: Erin Bouriakov
+      uri: https://www.google.com/maps/contrib/102406514244618413163/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUNSpb3_HlhvVrgeJ0VIfvmahyktYnYlJYZPNGY5YNOA5IjXyE=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-09-28T04:39:50.615027Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNubFk3emlnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNubFk3emlnRRAB!2m1!1s0x80c2bebdaee6875b:0x75cbe5d9c80c0508
+review_summary: >-
+  What Visitors Are Sharing$$$Folks often rave about the outstanding omakase
+  offerings at this spot, highlighting the fresh flavors and attentive service
+  that make for a memorable dining adventure. While some appreciate the generous
+  portions and solid overall vibe, others mention it's a bit pricey, which might
+  feel steep for everyday eats but delivers great value for special occasions.
+  There are mixed feelings on the rice quality and portion sizes, with many
+  agreeing it's worth trying if you're in the mood for top-notch sushi without
+  the hype of busier places. All in all, it's a solid pick for sushi lovers
+  exploring the area, offering a straightforward yet enjoyable experience that
+  keeps people coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  paidGarageParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: false
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
+curbside_pickup: false
+delivery: false
+dine_in: true
+good_for_children: false
 good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: false
+serves_coffee: false
+serves_dinner: true
 serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
+serves_lunch: false
+serves_vegetarian_food: false
+serves_wine: true
 takeout: null
-update_category: essentials
-summary: null
+update_category: atmosphere
+places_description: >-
+  Unassuming joint on the 2nd floor of a strip mall serving omakase (chef's
+  choice) Japanese sushi.
 
 ---

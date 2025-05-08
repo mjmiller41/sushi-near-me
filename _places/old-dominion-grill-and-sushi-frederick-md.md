@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Old Dominion Grill and Sushi"
+title: Old Dominion Grill and Sushi
 permalink: /maryland/frederick/old-dominion-grill-and-sushi.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Frederick
 seo:
-  name: "Old Dominion Grill and Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.olddominiongrillsushi.com/
-description: "Casual, modern restaurant featuring Thai, Japanese & American standards, plus lots of beers on tap. Old Dominion Grill and Sushi serves delicious sushi in Frederick, Maryland. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJV1uzyTvayYkRXflZbOZk5UE
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 0
 website: http://www.olddominiongrillsushi.com/
+description: >-
+  Discover Old Dominion Grill and Sushi in Frederick, Maryland$$$Old Dominion
+  Grill and Sushi in Frederick, MD, stands out as a casual dining spot blending
+  Japanese flavors with other global influences, making it a go-to choice for
+  fresh sushi enthusiasts in the area. This relaxed eatery offers a variety of
+  sushi rolls, Thai-inspired dishes, and comforting American options, all served
+  in a modern setting that's perfect for a laid-back meal. Accessibility
+  features like wheelchair-friendly entrances and seating add to the welcoming
+  vibe, ensuring everyone can enjoy the experience. With options for outdoor
+  seating and a selection of beers on tap, it's an ideal spot for groups or
+  families seeking flavorful, moderately priced meals that highlight quality
+  ingredients.
+generative_summary: >-
+  Discover Old Dominion Grill and Sushi in Frederick, Maryland$$$Old Dominion
+  Grill and Sushi in Frederick, MD, stands out as a casual dining spot blending
+  Japanese flavors with other global influences, making it a go-to choice for
+  fresh sushi enthusiasts in the area. This relaxed eatery offers a variety of
+  sushi rolls, Thai-inspired dishes, and comforting American options, all served
+  in a modern setting that's perfect for a laid-back meal. Accessibility
+  features like wheelchair-friendly entrances and seating add to the welcoming
+  vibe, ensuring everyone can enjoy the experience. With options for outdoor
+  seating and a selection of beers on tap, it's an ideal spot for groups or
+  families seeking flavorful, moderately priced meals that highlight quality
+  ingredients.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJV1uzyTvayYkRXflZbOZk5UE/reviews/ChZDSUhNMG9nS0VJQ0FnSUR2NHVQd0VREAE
@@ -338,6 +361,21 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURBem9DUDlnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURBem9DUDlnRRAB!2m1!1s0x89c9da3bc9b35b57:0x41e564e66c59f95d
+review_summary: >-
+  What Customers Love About This Local Sushi Favorite$$$Visitors often praise
+  the fresh and delicious sushi selections, like rolls that hit the spot with
+  their quality ingredients and flavors, making it a solid pick for anyone
+  craving Japanese-inspired eats nearby. The staff's friendly and attentive
+  service stands out, with quick refills and efficient handling of orders that
+  keep the dining flow smooth and enjoyable. While most feedback highlights the
+  reasonable prices and speedy service, a few notes mention minor issues like
+  portion sizes that were promptly fixed, adding to the overall positive
+  experience. Overall, it's clear this spot has become a favorite for casual
+  get-togethers, where the welcoming atmosphere and tasty options encourage
+  repeat visits for both dine-in and takeout crowds. If you're exploring
+  top-rated sushi places around Frederick, this one delivers a reliably good
+  vibe without any major drawbacks.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -370,8 +408,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Casual, modern restaurant featuring Thai, Japanese & American standards, plus
   lots of beers on tap.
 

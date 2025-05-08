@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yugen Sushi NYC"
+title: Yugen Sushi NYC
 permalink: /new-york/brooklyn/yugen-sushi-nyc.html
 stateAbbr: NY
 stateName: New York
 cityName: Brooklyn
 seo:
-  name: "Yugen Sushi NYC"
-  type: Restaurant
+  type: restaurant
   links: http://yugensushinyc.com/
-description: "Yugen Sushi NYC serves delicious sushi in Brooklyn, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, and dinner."
 place_id: ChIJCcO5mBFdwokRo6SlfqrctSc
 photos:
   - name: >-
@@ -182,6 +180,31 @@ price_range: $10 &ndash; $20
 rating: '4.7'
 rating_count: 0
 website: http://yugensushinyc.com/
+description: >-
+  Explore Yugen Sushi in Brooklyn, NY$$$Yugen Sushi NYC in Brooklyn, NY, stands
+  out as a premier sushi restaurant offering a delightful array of fresh rolls
+  and creative specials that capture the essence of Japanese cuisine. Located in
+  the vibrant Williamsburg neighborhood, this spot delivers an authentic dining
+  experience with high-quality ingredients and innovative dishes that go beyond
+  traditional options, making it a go-to choice for sushi enthusiasts. The menu
+  features expertly crafted rolls and desserts that add a unique twist, ensuring
+  every visit feels special and satisfying. With its focus on flavorful
+  combinations and attention to detail, it's an ideal destination for anyone
+  seeking top-rated sushi restaurants in a lively urban setting, perfect for
+  casual outings or quick meals.
+generative_summary: >-
+  Explore Yugen Sushi in Brooklyn, NY$$$Yugen Sushi NYC in Brooklyn, NY, stands
+  out as a premier sushi restaurant offering a delightful array of fresh rolls
+  and creative specials that capture the essence of Japanese cuisine. Located in
+  the vibrant Williamsburg neighborhood, this spot delivers an authentic dining
+  experience with high-quality ingredients and innovative dishes that go beyond
+  traditional options, making it a go-to choice for sushi enthusiasts. The menu
+  features expertly crafted rolls and desserts that add a unique twist, ensuring
+  every visit feels special and satisfying. With its focus on flavorful
+  combinations and attention to detail, it's an ideal destination for anyone
+  seeking top-rated sushi restaurants in a lively urban setting, perfect for
+  casual outings or quick meals.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJCcO5mBFdwokRo6SlfqrctSc/reviews/ChZDSUhNMG9nS0VJQ0FnSURxb1ludFlBEAE
@@ -383,6 +406,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURiaUxHaUF3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURiaUxHaUF3EAE!2m1!1s0x89c25d1198b9c309:0x27b5dcaa7ea5a4a3
+review_summary: >-
+  Insights from Customer Feedback$$$Folks who visit Yugen Sushi often highlight
+  the fresh and creative rolls as standout favorites, praising the spot for
+  delivering some of the best sushi experiences around without breaking the
+  bank. Many appreciate the variety of specialty items that bring bold flavors
+  and satisfying textures, making it a reliable pick for takeout or casual
+  dinners with friends. While the location might not be the most central,
+  reviewers agree it's totally worth the trip for the consistent quality and
+  friendly vibe that keeps people coming back. Overall, the feedback leans
+  positive, with plenty of mentions of the restaurant's ability to offer a
+  high-end feel at reasonable prices, encouraging anyone hunting for great sushi
+  near them to give it a shot.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeStreetParking: true
 payment_options:
@@ -413,7 +449,7 @@ serves_lunch: null
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

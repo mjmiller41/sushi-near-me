@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Van's Sushi Cafe"
+title: Van's Sushi Cafe
 permalink: /illinois/vernon-hills/van-s-sushi-cafe.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Vernon Hills
 seo:
-  name: "Van's Sushi Cafe"
-  type: Restaurant
+  type: restaurant
   links: http://www.vanssushicafe.com/
-description: "Small, unpretentious counter-serve place specializing in pre-packaged sushi & sashimi. Van's Sushi Cafe serves delicious sushi in Vernon Hills, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJP4N0O_m_D4gRefyd7pclF8g
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $10 &ndash; $20
 rating: '4.7'
 rating_count: 0
 website: http://www.vanssushicafe.com/
+description: >-
+  Explore Van's Sushi Cafe in Vernon Hills, IL$$$Van's Sushi Cafe in Vernon
+  Hills, IL, offers a welcoming spot for those seeking fresh sushi options in a
+  straightforward setting. This family-run establishment specializes in a wide
+  array of sushi rolls and sashimi, perfect for quick take-out or limited
+  dine-in experiences that cater to casual diners. With its focus on quality
+  ingredients and accessible features like wheelchair-friendly entrances, it
+  stands out as a convenient choice for anyone exploring sushi restaurants
+  nearby. The cafe's unpretentious vibe makes it easy to grab high-quality meals
+  at reasonable prices, appealing to those looking for everyday
+  Japanese-inspired flavors. Whether you're in the mood for a light lunch or
+  dinner on the go, this spot delivers satisfying options that highlight the
+  best of simple, authentic sushi.
+generative_summary: >-
+  Explore Van's Sushi Cafe in Vernon Hills, IL$$$Van's Sushi Cafe in Vernon
+  Hills, IL, offers a welcoming spot for those seeking fresh sushi options in a
+  straightforward setting. This family-run establishment specializes in a wide
+  array of sushi rolls and sashimi, perfect for quick take-out or limited
+  dine-in experiences that cater to casual diners. With its focus on quality
+  ingredients and accessible features like wheelchair-friendly entrances, it
+  stands out as a convenient choice for anyone exploring sushi restaurants
+  nearby. The cafe's unpretentious vibe makes it easy to grab high-quality meals
+  at reasonable prices, appealing to those looking for everyday
+  Japanese-inspired flavors. Whether you're in the mood for a light lunch or
+  dinner on the go, this spot delivers satisfying options that highlight the
+  best of simple, authentic sushi.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJP4N0O_m_D4gRefyd7pclF8g/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJb0xHR2NnEAE
@@ -340,6 +365,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNnZ0xPajh3RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNnZ0xPajh3RRAB!2m1!1s0x880fbff93b74833f:0xc8172597ee9dfc79
+review_summary: >-
+  Customer Feedback on This Local Sushi Favorite$$$Visitors consistently praise
+  the freshness and affordability of the sushi at this spot, making it a go-to
+  for anyone craving quality rolls without breaking the bank. Many highlight the
+  impressive variety of flavors and options, which keeps things exciting for
+  families and groups alike. Folks appreciate the friendly service that adds a
+  welcoming touch to the overall experience, helping to create a relaxed
+  atmosphere for casual meals. While it's a no-frills setup, the consistent
+  taste and thoughtful accommodations, like handling special requests, leave
+  people feeling satisfied and eager to return. Overall, it's clear this place
+  hits the mark for delicious, everyday sushi that keeps customers coming back
+  for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -372,8 +410,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Small, unpretentious counter-serve place specializing in pre-packaged sushi &
   sashimi.
 

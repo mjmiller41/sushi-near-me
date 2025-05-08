@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ace Wasabi San Francisco"
+title: Ace Wasabi San Francisco
 permalink: /california/san-francisco/ace-wasabi-san-francisco.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
 seo:
-  name: "Ace Wasabi San Francisco"
-  type: Restaurant
+  type: restaurant
   links: https://www.acewasabisf.com/
-description: "Modern Japanese dishes, sushi & more in a trendy hangout featuring music & happy-hour bingo. Ace Wasabi San Francisco serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, and dinner."
 place_id: ChIJSU2s09CAhYARiWvgxQMge-k
 photos:
   - name: >-
@@ -184,6 +182,29 @@ price_range: $30 &ndash; $50
 rating: '4.5'
 rating_count: 0
 website: https://www.acewasabisf.com/
+description: >-
+  Discover Ace Wasabi in San Francisco$$$Nestled in the vibrant city of San
+  Francisco, California, Ace Wasabi stands out as a go-to spot for Japanese
+  cuisine enthusiasts seeking fresh sushi and creative small plates. This casual
+  eatery combines traditional flavors with modern twists, offering an array of
+  sake and cocktails that pair perfectly with their inventive menu. Patrons can
+  enjoy a relaxed atmosphere ideal for unwinding after exploring the nearby
+  Marina District, making it a convenient choice for those hunting for top-rated
+  sushi options. Accessibility features like wheelchair-friendly entrances and
+  seating add to its appeal, ensuring everyone can savor the experience without
+  hassle.
+generative_summary: >-
+  Discover Ace Wasabi in San Francisco$$$Nestled in the vibrant city of San
+  Francisco, California, Ace Wasabi stands out as a go-to spot for Japanese
+  cuisine enthusiasts seeking fresh sushi and creative small plates. This casual
+  eatery combines traditional flavors with modern twists, offering an array of
+  sake and cocktails that pair perfectly with their inventive menu. Patrons can
+  enjoy a relaxed atmosphere ideal for unwinding after exploring the nearby
+  Marina District, making it a convenient choice for those hunting for top-rated
+  sushi options. Accessibility features like wheelchair-friendly entrances and
+  seating add to its appeal, ensuring everyone can savor the experience without
+  hassle.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJSU2s09CAhYARiWvgxQMge-k/reviews/ChdDSUhNMG9nS0VJQ0FnTURnblBHWGlBRRAB
@@ -327,6 +348,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQ5cGNxWkxREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQ5cGNxWkxREAE!2m1!1s0x808580d0d3ac4d49:0xe97b2003c5e06b89
+review_summary: >-
+  What Diners Are Buzzing About$$$Visitors often rave about the fresh and
+  flavorful sushi rolls that make this spot a standout for anyone craving
+  quality Japanese fare in a lively setting. Many appreciate the great happy
+  hour deals, where affordable options like spicy tuna and creative tempura
+  dishes keep things exciting and budget-friendly. The atmosphere gets high
+  marks for being fun and engaging, with elements like bingo nights adding a
+  playful vibe to the meal. Service tends to be quick and welcoming, helping to
+  create a positive overall experience that encourages return trips. Overall,
+  it's clear that folks enjoy the mix of delicious food and casual energy,
+  making it a solid pick for groups or solo adventurers looking for a satisfying
+  bite.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   valetParking: false
 payment_options:
@@ -357,8 +391,8 @@ serves_lunch: null
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Modern Japanese dishes, sushi & more in a trendy hangout featuring music &
   happy-hour bingo.
 

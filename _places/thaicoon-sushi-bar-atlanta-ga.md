@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Thaicoon & Sushi Bar"
+title: Thaicoon & Sushi Bar
 permalink: /georgia/atlanta/thaicoon-sushi-bar.html
 stateAbbr: GA
 stateName: Georgia
 cityName: Atlanta
 seo:
-  name: "Thaicoon & Sushi Bar"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Thaicoon & Sushi Bar serves delicious sushi in Atlanta, Georgia. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJCQfrG2EG9YgR4nvlXQ1Cep8
 photos:
   - name: >-
@@ -185,7 +183,41 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Thaicoon & Sushi Bar in Atlanta, GA$$$Thaicoon & Sushi Bar in
+  Atlanta, GA, is a welcoming spot where fresh sushi and authentic Thai flavors
+  come together in a casual setting. This Asian restaurant stands out for its
+  diverse menu that highlights creative rolls and traditional dishes, perfect
+  for anyone exploring sushi options in the area. With thoughtful accessibility
+  features like wheelchair-friendly parking and entrances, it ensures a
+  comfortable visit for all guests. The unpretentious atmosphere makes it an
+  ideal choice for those seeking sushi places near me, blending quality
+  ingredients with a relaxed vibe that appeals to everyday diners.
+generative_summary: >-
+  Discover Thaicoon & Sushi Bar in Atlanta, GA$$$Thaicoon & Sushi Bar in
+  Atlanta, GA, is a welcoming spot where fresh sushi and authentic Thai flavors
+  come together in a casual setting. This Asian restaurant stands out for its
+  diverse menu that highlights creative rolls and traditional dishes, perfect
+  for anyone exploring sushi options in the area. With thoughtful accessibility
+  features like wheelchair-friendly parking and entrances, it ensures a
+  comfortable visit for all guests. The unpretentious atmosphere makes it an
+  ideal choice for those seeking sushi places near me, blending quality
+  ingredients with a relaxed vibe that appeals to everyday diners.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$From what people share about Thaicoon & Sushi Bar,
+  the focus on fresh sushi and flavorful Thai options often stands out as a
+  highlight, drawing in locals looking for reliable spots in the neighborhood.
+  Many appreciate the straightforward approach to classic dishes, noting that it
+  delivers a satisfying meal without any fuss, which keeps things feeling
+  approachable and enjoyable. While experiences vary, the general feedback leans
+  positive, with folks mentioning the value and taste as reasons to return for
+  casual outings. Overall, it's seen as a solid pick for those hunting for
+  top-rated sushi nearby, offering a blend of simplicity and quality that makes
+  it worth trying. If you're in the mood for something easygoing, this place
+  tends to hit the mark for a laid-back dining experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +243,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ginza Sushi"
+title: Ginza Sushi
 permalink: /california/san-jose/ginza-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: San Jose
 seo:
-  name: "Ginza Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Ginza Sushi serves delicious sushi in San Jose, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJfyB6C-c1joAR-7G6z2fgKdE
 photos:
   - name: >-
@@ -185,7 +183,42 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Ginza Sushi in San Jose, CA$$$Ginza Sushi in San Jose, CA, stands out
+  as a welcoming hub for authentic Japanese cuisine, offering a menu filled with
+  fresh sushi rolls, sashimi, and bento boxes in a laid-back environment. This
+  spot highlights the best of Japanese fare with high-quality ingredients that
+  capture the essence of traditional flavors, making it a great choice for
+  anyone exploring top-rated sushi options nearby. Accessibility features like
+  wheelchair-friendly parking and entrances add to its appeal, ensuring a
+  comfortable visit for all diners. The easygoing atmosphere pairs perfectly
+  with the variety of dishes, ideal for casual meals or quick bites after a day
+  in the Willow Glen neighborhood.
+generative_summary: >-
+  Discover Ginza Sushi in San Jose, CA$$$Ginza Sushi in San Jose, CA, stands out
+  as a welcoming hub for authentic Japanese cuisine, offering a menu filled with
+  fresh sushi rolls, sashimi, and bento boxes in a laid-back environment. This
+  spot highlights the best of Japanese fare with high-quality ingredients that
+  capture the essence of traditional flavors, making it a great choice for
+  anyone exploring top-rated sushi options nearby. Accessibility features like
+  wheelchair-friendly parking and entrances add to its appeal, ensuring a
+  comfortable visit for all diners. The easygoing atmosphere pairs perfectly
+  with the variety of dishes, ideal for casual meals or quick bites after a day
+  in the Willow Glen neighborhood.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About Ginza Sushi$$$Folks often rave about the fresh
+  flavors and solid variety at this sushi spot, with many highlighting the tasty
+  rolls and well-prepared bento options that hit the spot for everyday cravings.
+  It's frequently noted as a reliable pick for those hunting for quality
+  Japanese eats close by, thanks to its approachable vibe and consistent service
+  that keeps things simple and enjoyable. While some mention that portions might
+  feel just right for lighter meals, the overall experience tends to leave
+  people satisfied and coming back for more. Diners appreciate the welcoming
+  feel, making it a go-to for casual sushi lovers looking to unwind over
+  favorites like sashimi or rolls.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +244,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

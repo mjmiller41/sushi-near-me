@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kruba"
+title: Kruba
 permalink: /district-of-columbia/washington/kruba.html
 stateAbbr: DC
 stateName: District of Columbia
 cityName: Washington
 seo:
-  name: "Kruba"
-  type: Restaurant
+  type: restaurant
   links: http://krubathai.com/
-description: "Thai dishes, sushi & sashimi served amid teak tables, carved-wood decor & a convivial bar scene. Kruba serves delicious sushi in Washington, District of Columbia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJGYRr_9C5t4kRVgyzuVBkCRg
 photos:
   - name: >-
@@ -184,12 +182,55 @@ price_range: $10 &mdash; 20
 rating: '4.0'
 rating_count: 0
 website: http://krubathai.com/
+description: >-
+  Discover Kruba in Washington DC$$$Kruba in Washington, DC, stands out as a
+  vibrant sushi restaurant blending Thai flavors with fresh seafood options,
+  creating an ideal spot for those seeking authentic Asian cuisine. The venue
+  boasts a cozy atmosphere featuring teak tables and intricate carved-wood
+  decor, perfect for casual dining or enjoying a lively bar experience in the
+  heart of the city. With thoughtful amenities like outdoor seating and full
+  accessibility features, it's designed to accommodate various preferences,
+  making it a go-to choice for sushi enthusiasts exploring local
+  Japanese-inspired places. Visitors can savor a range of vegetarian-friendly
+  dishes and beverages, including cocktails and wine, all while appreciating the
+  convenience of takeout or dine-in services. This establishment offers a
+  relaxed environment for anyone hunting for top-rated sushi near urban
+  hotspots, ensuring a memorable meal in a welcoming setting.
+generative_summary: >-
+  Discover Kruba in Washington DC$$$Kruba in Washington, DC, stands out as a
+  vibrant sushi restaurant blending Thai flavors with fresh seafood options,
+  creating an ideal spot for those seeking authentic Asian cuisine. The venue
+  boasts a cozy atmosphere featuring teak tables and intricate carved-wood
+  decor, perfect for casual dining or enjoying a lively bar experience in the
+  heart of the city. With thoughtful amenities like outdoor seating and full
+  accessibility features, it's designed to accommodate various preferences,
+  making it a go-to choice for sushi enthusiasts exploring local
+  Japanese-inspired places. Visitors can savor a range of vegetarian-friendly
+  dishes and beverages, including cocktails and wine, all while appreciating the
+  convenience of takeout or dine-in services. This establishment offers a
+  relaxed environment for anyone hunting for top-rated sushi near urban
+  hotspots, ensuring a memorable meal in a welcoming setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - ChdDSUhNMG9nS0VJQ0FnSUNYMjhLcDdnRRAB
   - ChdDSUhNMG9nS0VJQ0FnSUNicHI2a3J3RRAB
   - ChdDSUhNMG9nS0VJQ0FnTUNRdF82STlRRRAB
   - ChZDSUhNMG9nS0VJQ0FnSUNmcGFpX1h3EAE
   - ChdDSUhNMG9nS0VJQ0FnSURWMmNiTTR3RRAB
+review_summary: >-
+  Insights from Customer Feedback$$$Feedback for this sushi spot highlights its
+  solid reputation for delivering tasty, fresh rolls and Thai-inspired dishes
+  that keep diners coming back for more. Many appreciate the friendly vibe and
+  efficient service, noting how the outdoor seating adds to the overall
+  enjoyment during warmer days in Washington DC. While some mention minor waits
+  during peak hours, the general consensus praises the value for the price, with
+  moderate costs making it accessible for groups or families. Reviewers often
+  commend the variety of options, like beer and cocktails, that pair well with
+  the menu, creating a casual and inviting experience. Overall, it's clear that
+  this place earns its spot among local favorites for those searching sushi
+  restaurants nearby, with most experiences leaning positive and encouraging
+  repeat visits.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: {}
 payment_options:
   acceptsCreditCards: true
@@ -218,8 +259,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Thai dishes, sushi & sashimi served amid teak tables, carved-wood decor & a
   convivial bar scene.
 

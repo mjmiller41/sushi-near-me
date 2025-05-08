@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Noguchi"
+title: Sushi Noguchi
 permalink: /california/yorba-linda/sushi-noguchi.html
 stateAbbr: CA
 stateName: California
 cityName: Yorba Linda
 seo:
-  name: "Sushi Noguchi"
-  type: Restaurant
+  type: restaurant
   links: http://www.sushinoguchi.com/
-description: "Sushi Noguchi serves delicious sushi in Yorba Linda, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJwxTh-N_T3IARGsQw6YQV1io
 photos:
   - name: >-
@@ -170,7 +168,89 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80dcd3dff8e114c3:0x2ad61584e930c41a!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
     - 'Wednesday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
@@ -178,14 +258,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
     - 'Saturday: 5:00 – 9:00 PM'
     - 'Sunday: 5:00 – 9:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
-    - 'Wednesday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
-    - 'Thursday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
-    - 'Friday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
-    - 'Saturday: 5:00 – 9:00 PM'
-    - 'Sunday: 5:00 – 9:00 PM'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +270,367 @@ phone: (714) 777-6789
 price_level: PRICE_LEVEL_EXPENSIVE
 price_range: $100 &ndash; & up
 rating: '4.3'
-rating_count: 0
+rating_count: 296
 website: http://www.sushinoguchi.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Sushi Noguchi in Yorba Linda, CA$$$Sushi Noguchi in Yorba Linda, CA,
+  offers an authentic taste of traditional Japanese cuisine, featuring fresh
+  sushi and omakase options that highlight high-quality ingredients and expert
+  preparation. The restaurant's sleek, minimalist setting provides a welcoming
+  atmosphere for enjoying classic dishes like nigiri and hand rolls, making it a
+  standout choice for sushi enthusiasts seeking a refined dining experience.
+  With accessibility features such as wheelchair-friendly entrances and parking,
+  it's designed to accommodate a variety of visitors while maintaining a focus
+  on genuine flavors. Operating with convenient hours for lunch and dinner, this
+  spot delivers a memorable meal that emphasizes freshness and simplicity in
+  every bite. Whether you're exploring top-rated sushi places nearby or craving
+  Japanese favorites, Sushi Noguchi stands out for its commitment to quality and
+  thoughtful ambiance.
+generative_summary: >-
+  Discover Sushi Noguchi in Yorba Linda, CA$$$Sushi Noguchi in Yorba Linda, CA,
+  offers an authentic taste of traditional Japanese cuisine, featuring fresh
+  sushi and omakase options that highlight high-quality ingredients and expert
+  preparation. The restaurant's sleek, minimalist setting provides a welcoming
+  atmosphere for enjoying classic dishes like nigiri and hand rolls, making it a
+  standout choice for sushi enthusiasts seeking a refined dining experience.
+  With accessibility features such as wheelchair-friendly entrances and parking,
+  it's designed to accommodate a variety of visitors while maintaining a focus
+  on genuine flavors. Operating with convenient hours for lunch and dinner, this
+  spot delivers a memorable meal that emphasizes freshness and simplicity in
+  every bite. Whether you're exploring top-rated sushi places nearby or craving
+  Japanese favorites, Sushi Noguchi stands out for its commitment to quality and
+  thoughtful ambiance.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJwxTh-N_T3IARGsQw6YQV1io/reviews/ChZDSUhNMG9nS0VJQ0FnSURIdnNMM0dREAE
+    relativePublishTimeDescription: 7 months ago
+    rating: 5
+    text:
+      text: >-
+        very fresh sushi, scottish salmon, omakase options.  as others have
+        mentioned the stand out feature is the quality of the ingredients - if
+        you want a fried rocket drenched in spicy mayo you won’t enjoy this
+        place although they do have fried options - this is more authentic and
+        for those with some sushi experience.   food is clean and fresh and
+        tasty.
+
+
+        i never had crispy tuna rice where i could see the fresh tuna chunks
+        very cool!
+      languageCode: en
+    originalText:
+      text: >-
+        very fresh sushi, scottish salmon, omakase options.  as others have
+        mentioned the stand out feature is the quality of the ingredients - if
+        you want a fried rocket drenched in spicy mayo you won’t enjoy this
+        place although they do have fried options - this is more authentic and
+        for those with some sushi experience.   food is clean and fresh and
+        tasty.
+
+
+        i never had crispy tuna rice where i could see the fresh tuna chunks
+        very cool!
+      languageCode: en
+    authorAttribution:
+      displayName: Sanjay Manaktala
+      uri: https://www.google.com/maps/contrib/112393098084962642982/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWRa2BH11OVz7jfmTiveYUE4rQz4ZKqKOiq7kbUS5OcYKP6m0PzJQ=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-09-16T12:47:12.593678Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURIdnNMM0dREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURIdnNMM0dREAE!2m1!1s0x80dcd3dff8e114c3:0x2ad61584e930c41a
+  - name: >-
+      places/ChIJwxTh-N_T3IARGsQw6YQV1io/reviews/ChdDSUhNMG9nS0VJQ0FnSURidkxDNW13RRAB
+    relativePublishTimeDescription: 9 months ago
+    rating: 5
+    text:
+      text: >-
+        It's been a minute since my last visit, but I dined here recently and
+        had a wonderful experience. We made reservations for dinner, and
+        everything was set up when we arrived.
+
+
+        We looked through the menu and decided on some nigiri, hand rolls,
+        tempura, starters, and a couple of beers. The sushi tasted fresh and
+        well prepared, and the nigiri were decently sized. I enjoyed the Baked
+        Blue Crab Handroll and the Agedashi Tofu. Overall, everything was
+        delicious.
+
+
+        We had one child with us; his order was the karaage (fried chicken)
+        plate for kids.
+
+
+        The staff was excellent, and the owner greeted us and ensured everything
+        was going well. This is a solid sushi restaurant. with a relaxed
+        atmosphere, and I hope to return to try the omakase and other offerings.
+      languageCode: en
+    originalText:
+      text: >-
+        It's been a minute since my last visit, but I dined here recently and
+        had a wonderful experience. We made reservations for dinner, and
+        everything was set up when we arrived.
+
+
+        We looked through the menu and decided on some nigiri, hand rolls,
+        tempura, starters, and a couple of beers. The sushi tasted fresh and
+        well prepared, and the nigiri were decently sized. I enjoyed the Baked
+        Blue Crab Handroll and the Agedashi Tofu. Overall, everything was
+        delicious.
+
+
+        We had one child with us; his order was the karaage (fried chicken)
+        plate for kids.
+
+
+        The staff was excellent, and the owner greeted us and ensured everything
+        was going well. This is a solid sushi restaurant. with a relaxed
+        atmosphere, and I hope to return to try the omakase and other offerings.
+      languageCode: en
+    authorAttribution:
+      displayName: Phil C
+      uri: https://www.google.com/maps/contrib/109032152868006589685/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXv8kaGxl8_9p9Z8Z6sCGH6mipmjJfnAAK3hDNyXJklFvuDfhaKGA=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-08-03T04:07:06.528147Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURidkxDNW13RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURidkxDNW13RRAB!2m1!1s0x80dcd3dff8e114c3:0x2ad61584e930c41a
+  - name: >-
+      places/ChIJwxTh-N_T3IARGsQw6YQV1io/reviews/ChZDSUhNMG9nS0VJQ0FnSUNfM0s3LWRnEAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 1
+    text:
+      text: >-
+        My wife and I discovered Sushi Noguchi a few months  ago, and we quickly
+        became regulars, bringing guests here for memorable sushi meals. We’ve
+        visited four times with nothing but stellar experiences—until our most
+        recent visit.
+
+
+        On this occasion, we ordered two servings of the sweet shrimp, a dish we
+        always enjoy. However, when the shrimp arrived, they immediately looked
+        different—an obvious red flag that I unfortunately ignored. I decided to
+        give them a try, but the shrimp tasted overwhelmingly fishy, which
+        raised a second concern.
+
+
+        I brought this up to our server, who explained that due to seasonal
+        availability, they could only get frozen shrimp, rather than the usual
+        live ones. She mentioned that the chef should have informed us of this
+        substitution when we ordered, but we were never told. The server was
+        apologetic, and the main chef came out to apologize as well, offering a
+        50% discount on the sweet shrimp. While we appreciated the gesture, the
+        issue was far from resolved.
+
+
+        Five hours later, I woke up around 2 AM feeling extremely nauseous,
+        chilled, and with an urgent need to vomit. I spent the next several
+        hours suffering from severe diarrhea, body aches, and general
+        discomfort. My wife experienced the same symptoms.
+
+
+        This was incredibly disappointing, especially considering how much we’ve
+        enjoyed this restaurant in the past. It’s concerning that the chef
+        either didn't catch the issue with the shrimp before serving them or
+        failed to disclose the substitution to us. Given the noticeable
+        difference in appearance and smell, it seems clear that the shrimp
+        should have been discarded rather than served.
+
+
+        As much as we’ve liked Sushi Noguchi in the past, this experience has
+        left us hesitant to return. It's unfortunate, but I can’t see myself
+        revisiting after this.
+      languageCode: en
+    originalText:
+      text: >-
+        My wife and I discovered Sushi Noguchi a few months  ago, and we quickly
+        became regulars, bringing guests here for memorable sushi meals. We’ve
+        visited four times with nothing but stellar experiences—until our most
+        recent visit.
+
+
+        On this occasion, we ordered two servings of the sweet shrimp, a dish we
+        always enjoy. However, when the shrimp arrived, they immediately looked
+        different—an obvious red flag that I unfortunately ignored. I decided to
+        give them a try, but the shrimp tasted overwhelmingly fishy, which
+        raised a second concern.
+
+
+        I brought this up to our server, who explained that due to seasonal
+        availability, they could only get frozen shrimp, rather than the usual
+        live ones. She mentioned that the chef should have informed us of this
+        substitution when we ordered, but we were never told. The server was
+        apologetic, and the main chef came out to apologize as well, offering a
+        50% discount on the sweet shrimp. While we appreciated the gesture, the
+        issue was far from resolved.
+
+
+        Five hours later, I woke up around 2 AM feeling extremely nauseous,
+        chilled, and with an urgent need to vomit. I spent the next several
+        hours suffering from severe diarrhea, body aches, and general
+        discomfort. My wife experienced the same symptoms.
+
+
+        This was incredibly disappointing, especially considering how much we’ve
+        enjoyed this restaurant in the past. It’s concerning that the chef
+        either didn't catch the issue with the shrimp before serving them or
+        failed to disclose the substitution to us. Given the noticeable
+        difference in appearance and smell, it seems clear that the shrimp
+        should have been discarded rather than served.
+
+
+        As much as we’ve liked Sushi Noguchi in the past, this experience has
+        left us hesitant to return. It's unfortunate, but I can’t see myself
+        revisiting after this.
+      languageCode: en
+    authorAttribution:
+      displayName: Sean Lee
+      uri: https://www.google.com/maps/contrib/114676451379087945004/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXZkuqGXUni8BKHvhW9XhrsCy_V0e6XXR3_GgcMwZVYHeXxMitF=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-01-13T23:34:35.782171Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNfM0s3LWRnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNfM0s3LWRnEAE!2m1!1s0x80dcd3dff8e114c3:0x2ad61584e930c41a
+  - name: >-
+      places/ChIJwxTh-N_T3IARGsQw6YQV1io/reviews/ChZDSUhNMG9nS0VJQ0FnSUNOdUtmRmF3EAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        Noguchi is simply the best sushi spot in Yorba Linda and we are so lucky
+        to have it. There are quite a few options around here and some are quite
+        a bit cheaper but none have the quality that Noguchi has.
+
+
+        Their fish is not only impeccably sourced but masterfully cut and
+        presented. You can tell that the all the chefs are quite passionate
+        about their trade and it really elevates the experience.
+
+
+        Their dining room is quite casual and I feel comfortable coming dressed
+        up for dinner or right off the tennis courts for lunch.
+      languageCode: en
+    originalText:
+      text: >-
+        Noguchi is simply the best sushi spot in Yorba Linda and we are so lucky
+        to have it. There are quite a few options around here and some are quite
+        a bit cheaper but none have the quality that Noguchi has.
+
+
+        Their fish is not only impeccably sourced but masterfully cut and
+        presented. You can tell that the all the chefs are quite passionate
+        about their trade and it really elevates the experience.
+
+
+        Their dining room is quite casual and I feel comfortable coming dressed
+        up for dinner or right off the tennis courts for lunch.
+      languageCode: en
+    authorAttribution:
+      displayName: Davis Nardi
+      uri: https://www.google.com/maps/contrib/100246062723909138528/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjV7M4SJ66X1baGnOStwv33CUuOhfL0A78moYIRHgw6d-wNzaBQ=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-01-12T00:47:13.529337Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNOdUtmRmF3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNOdUtmRmF3EAE!2m1!1s0x80dcd3dff8e114c3:0x2ad61584e930c41a
+  - name: >-
+      places/ChIJwxTh-N_T3IARGsQw6YQV1io/reviews/ChdDSUhNMG9nS0VJQ0FnSURDMzliN3JRRRAB
+    relativePublishTimeDescription: 4 years ago
+    rating: 5
+    text:
+      text: >-
+        It was amazing,  tried both Jun's and Hiro's omakases and they were both
+        amazing, definitely the best fish I've ever eaten, and I've eaten plenty
+        of sushi in Japan. Also tried their Miyazaki beef and it was also
+        delicious, as good as the A5 steaks I've had in Japan, definitely would
+        recommend.
+
+
+        Came during covid and they were very professional and clean. The number
+        of people inside was very limited, all the staff was wearing masks, and
+        we sat at the bar, where each space was separated by a divider,
+        definitely felt safe.
+      languageCode: en
+    originalText:
+      text: >-
+        It was amazing,  tried both Jun's and Hiro's omakases and they were both
+        amazing, definitely the best fish I've ever eaten, and I've eaten plenty
+        of sushi in Japan. Also tried their Miyazaki beef and it was also
+        delicious, as good as the A5 steaks I've had in Japan, definitely would
+        recommend.
+
+
+        Came during covid and they were very professional and clean. The number
+        of people inside was very limited, all the staff was wearing masks, and
+        we sat at the bar, where each space was separated by a divider,
+        definitely felt safe.
+      languageCode: en
+    authorAttribution:
+      displayName: Nico Ekasumara
+      uri: https://www.google.com/maps/contrib/106429900727999941561/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWsq8Dwu6a4PLypJ3hQNQyNu4fZoB2HNYIvNV1CyNsSE3sbkXLduQ=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2020-10-17T04:46:30.832603Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURDMzliN3JRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURDMzliN3JRRRAB!2m1!1s0x80dcd3dff8e114c3:0x2ad61584e930c41a
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this sushi spot often praise the
+  incredibly fresh fish and well-prepared dishes, noting that the ingredients
+  make for a truly authentic and enjoyable experience. Many appreciate the
+  variety of options like omakase and hand rolls, which deliver great flavors
+  without overwhelming extras, though some mention occasional inconsistencies
+  with certain items. Overall, the atmosphere feels relaxed and welcoming, with
+  friendly service that enhances the meal, making it a solid pick for groups or
+  families. While there are rare reports of minor issues, like with specific
+  seafood selections, the majority of feedback highlights it as a reliable
+  choice for quality sushi dining. If you're hunting for the best sushi near
+  you, this place generally delivers a satisfying vibe that keeps people coming
+  back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
 allow_dogs: null
-curbside_pickup: null
+curbside_pickup: true
 delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: true
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
 serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Sushi, omakase plates & traditional Japanese favorites are served in sleek,
+  minimalist digs.
 
 ---

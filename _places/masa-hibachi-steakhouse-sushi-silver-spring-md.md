@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Masa Hibachi Steakhouse & Sushi"
+title: Masa Hibachi Steakhouse & Sushi
 permalink: /maryland/silver-spring/masa-hibachi-steakhouse-sushi.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Silver Spring
 seo:
-  name: "Masa Hibachi Steakhouse & Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.masahibachisteakhousemd.com/
-description: "Masa Hibachi Steakhouse & Sushi serves delicious sushi in Silver Spring, Maryland. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJB0BbPrrIt4kRDLhB8yjpUzQ
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89b7c8ba3e5b4007:0x3453e928f341b80c!10e5
 primary_type: Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 10:00 PM'
     - 'Tuesday: 11:30 AM – 10:00 PM'
     - 'Wednesday: 11:30 AM – 10:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 11:00 PM'
     - 'Saturday: 12:00 – 11:00 PM'
     - 'Sunday: 12:00 – 10:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 10:00 PM'
-    - 'Tuesday: 11:30 AM – 10:00 PM'
-    - 'Wednesday: 11:30 AM – 10:00 PM'
-    - 'Thursday: 11:30 AM – 10:00 PM'
-    - 'Friday: 11:30 AM – 11:00 PM'
-    - 'Saturday: 12:00 – 11:00 PM'
-    - 'Sunday: 12:00 – 10:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +246,52 @@ phone: (301) 608-8989
 price_level: PRICE_LEVEL_MODERATE
 price_range: $30 &ndash; $50
 rating: '4.3'
-rating_count: 0
+rating_count: 1307
 website: https://www.masahibachisteakhousemd.com/
+description: >-
+  Discover Masa in Silver Spring, MD$$$Masa Hibachi Steakhouse & Sushi in Silver
+  Spring, MD, stands out as a welcoming spot for enjoying fresh Japanese
+  cuisine, blending casual vibes with flavorful hibachi and sushi options that
+  appeal to locals seeking authentic tastes. The restaurant features a
+  family-friendly atmosphere where diners can savor expertly prepared dishes,
+  including creative rolls and sizzling grill performances, all set in a
+  conveniently accessible location with thoughtful amenities like
+  wheelchair-friendly entrances. Drawing from its emphasis on quality
+  ingredients and a relaxed environment, it's an ideal choice for those
+  exploring sushi restaurants in the area, making it easy to find great Japanese
+  places near you for a satisfying meal. Operating with extended hours into the
+  evening, it caters to both quick lunches and leisurely dinners, ensuring
+  visitors have plenty of opportunities to experience its diverse menu
+  offerings.
+generative_summary: >-
+  Discover Masa in Silver Spring, MD$$$Masa Hibachi Steakhouse & Sushi in Silver
+  Spring, MD, stands out as a welcoming spot for enjoying fresh Japanese
+  cuisine, blending casual vibes with flavorful hibachi and sushi options that
+  appeal to locals seeking authentic tastes. The restaurant features a
+  family-friendly atmosphere where diners can savor expertly prepared dishes,
+  including creative rolls and sizzling grill performances, all set in a
+  conveniently accessible location with thoughtful amenities like
+  wheelchair-friendly entrances. Drawing from its emphasis on quality
+  ingredients and a relaxed environment, it's an ideal choice for those
+  exploring sushi restaurants in the area, making it easy to find great Japanese
+  places near you for a satisfying meal. Operating with extended hours into the
+  evening, it caters to both quick lunches and leisurely dinners, ensuring
+  visitors have plenty of opportunities to experience its diverse menu
+  offerings.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Buzzing About$$$Visitors to this spot often rave about the
+  fresh, flavorful sushi and the entertaining hibachi cooking style that keeps
+  things lively and fun without overwhelming the palate. Many appreciate the
+  solid value for the price, noting that the portions are generous and the
+  overall experience feels worthwhile for a casual night out. While some mention
+  occasional waits during peak times, the general consensus highlights reliable
+  service and a welcoming vibe that makes it a go-to for groups or families.
+  Overall, with a strong rating reflecting consistent satisfaction, it's clear
+  that folks enjoy returning for the tasty dishes and relaxed setting, making it
+  a solid pick if you're hunting for top-rated sushi nearby.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +317,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

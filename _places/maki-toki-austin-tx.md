@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Maki Toki"
+title: Maki Toki
 permalink: /texas/austin/maki-toki.html
 stateAbbr: TX
 stateName: Texas
 cityName: Austin
 seo:
-  name: "Maki Toki"
-  type: Restaurant
+  type: restaurant
   links: http://www.makitoki.com/
-description: "Maki Toki serves delicious sushi in Austin, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJsaf4dfjLRIYRuMqneejhFXg
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8644cbf875f8a7b1:0x7815e1e879a7cab8!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 0
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 0
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 0
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 0
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 0
+        minute: 0
+    - open:
+        day: 6
+        hour: 16
+        minute: 30
+      close:
+        day: 0
+        hour: 0
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 12:00 AM'
     - 'Tuesday: 11:00 AM – 12:00 AM'
     - 'Wednesday: 11:00 AM – 12:00 AM'
@@ -178,54 +226,355 @@ opening_hours:
     - 'Friday: 11:00 AM – 12:00 AM'
     - 'Saturday: 4:30 PM – 12:00 AM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:00 AM – 12:00 AM'
-    - 'Tuesday: 11:00 AM – 12:00 AM'
-    - 'Wednesday: 11:00 AM – 12:00 AM'
-    - 'Thursday: 11:00 AM – 12:00 AM'
-    - 'Friday: 11:00 AM – 12:00 AM'
-    - 'Saturday: 4:30 PM – 12:00 AM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T05:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 1
+          hour: 16
+          minute: 30
+        close:
+          day: 1
+          hour: 19
+          minute: 0
+      - open:
+          day: 2
+          hour: 16
+          minute: 30
+        close:
+          day: 2
+          hour: 19
+          minute: 0
+      - open:
+          day: 3
+          hour: 16
+          minute: 30
+        close:
+          day: 3
+          hour: 19
+          minute: 0
+      - open:
+          day: 4
+          hour: 16
+          minute: 30
+        close:
+          day: 4
+          hour: 19
+          minute: 0
+      - open:
+          day: 5
+          hour: 16
+          minute: 30
+        close:
+          day: 5
+          hour: 19
+          minute: 0
+      - open:
+          day: 6
+          hour: 16
+          minute: 30
+        close:
+          day: 6
+          hour: 19
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 4:30 – 7:00 PM'
+      - 'Tuesday: 4:30 – 7:00 PM'
+      - 'Wednesday: 4:30 – 7:00 PM'
+      - 'Thursday: 4:30 – 7:00 PM'
+      - 'Friday: 4:30 – 7:00 PM'
+      - 'Saturday: 4:30 – 7:00 PM'
+      - 'Sunday: Closed'
+    secondaryHoursType: HAPPY_HOUR
+    nextCloseTime: '2025-05-04T00:00:00Z'
 phone: (512) 832-0200
 price_level: PRICE_LEVEL_INEXPENSIVE
 price_range: $10 &ndash; $20
 rating: '4.1'
-rating_count: 0
+rating_count: 488
 website: http://www.makitoki.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Maki Toki Sushi in Austin, TX$$$Maki Toki in Austin, TX, stands out
+  as a casual spot for enjoying a variety of fresh sushi rolls and bento boxes,
+  making it a go-to choice for those seeking Japanese-inspired dining. The
+  restaurant offers an inviting atmosphere with options like all-you-can-eat
+  selections and happy-hour deals, appealing to both quick lunches and relaxed
+  evenings. Accessibility features such as wheelchair-friendly entrances and
+  seating ensure a welcoming experience for everyone, while ample parking adds
+  to the convenience. With its focus on flavorful dishes and affordable pricing,
+  this sushi restaurant near you provides a satisfying blend of quality and
+  value for locals and visitors alike.
+generative_summary: >-
+  Discover Maki Toki Sushi in Austin, TX$$$Maki Toki in Austin, TX, stands out
+  as a casual spot for enjoying a variety of fresh sushi rolls and bento boxes,
+  making it a go-to choice for those seeking Japanese-inspired dining. The
+  restaurant offers an inviting atmosphere with options like all-you-can-eat
+  selections and happy-hour deals, appealing to both quick lunches and relaxed
+  evenings. Accessibility features such as wheelchair-friendly entrances and
+  seating ensure a welcoming experience for everyone, while ample parking adds
+  to the convenience. With its focus on flavorful dishes and affordable pricing,
+  this sushi restaurant near you provides a satisfying blend of quality and
+  value for locals and visitors alike.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJsaf4dfjLRIYRuMqneejhFXg/reviews/ChZDSUhNMG9nS0VJQ0FnSUNSdkltR0xREAE
+    relativePublishTimeDescription: 2 years ago
+    rating: 5
+    text:
+      text: >-
+        Maki Toki was the first restaurant I tried sushi at and I will never
+        need to try anywhere else. My mind was blown beyond expectations with
+        the selection of sushi available, the amazing customer service, and the
+        high quality sushi that is served. This is one of the best family owned
+        restaurants in the Austin area and not just when it comes to sushi. Our
+        server Tima has provided excellent and thorough service for us time and
+        time again. My favorite aspect of Maki Toki is how beautifully the food
+        is presented on every occasion AND they have the best tasting/strongest
+        margaritas you can find.
+      languageCode: en
+    originalText:
+      text: >-
+        Maki Toki was the first restaurant I tried sushi at and I will never
+        need to try anywhere else. My mind was blown beyond expectations with
+        the selection of sushi available, the amazing customer service, and the
+        high quality sushi that is served. This is one of the best family owned
+        restaurants in the Austin area and not just when it comes to sushi. Our
+        server Tima has provided excellent and thorough service for us time and
+        time again. My favorite aspect of Maki Toki is how beautifully the food
+        is presented on every occasion AND they have the best tasting/strongest
+        margaritas you can find.
+      languageCode: en
+    authorAttribution:
+      displayName: Erryn R
+      uri: https://www.google.com/maps/contrib/112212981334274282916/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocI-DqLhQyyJ5Mi7MKQ4clcHQfFVmjWpfZRG1vLAXHbUGoq5LA=s128-c0x00000000-cc-rp-mo
+    publishTime: '2023-03-27T22:24:30.919728Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNSdkltR0xREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNSdkltR0xREAE!2m1!1s0x8644cbf875f8a7b1:0x7815e1e879a7cab8
+  - name: >-
+      places/ChIJsaf4dfjLRIYRuMqneejhFXg/reviews/ChdDSUhNMG9nS0VJQ0FnSURILWZiOTdRRRAB
+    relativePublishTimeDescription: 7 months ago
+    rating: 1
+    text:
+      text: >-
+        Ordered takeout. Immediately get a message that says they are super busy
+        and the order will take 45 minutes. Unfortunately for them I was sitting
+        outside and could see the restaurant completely empty. I go in after 15
+        minutes and they have the order out immediately and the girl smirks at
+        me and says "made fresh just for you". Who says that? Give them the
+        benefit of the doubt? Nope. Food was old and chewy and clearly been
+        sitting out and tasted kind of sour. On top of all that I paid
+        ridiculous fees to order online. Never going back.
+      languageCode: en
+    originalText:
+      text: >-
+        Ordered takeout. Immediately get a message that says they are super busy
+        and the order will take 45 minutes. Unfortunately for them I was sitting
+        outside and could see the restaurant completely empty. I go in after 15
+        minutes and they have the order out immediately and the girl smirks at
+        me and says "made fresh just for you". Who says that? Give them the
+        benefit of the doubt? Nope. Food was old and chewy and clearly been
+        sitting out and tasted kind of sour. On top of all that I paid
+        ridiculous fees to order online. Never going back.
+      languageCode: en
+    authorAttribution:
+      displayName: D S
+      uri: https://www.google.com/maps/contrib/106104690030864358601/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWj04x1yJIwlktGWZse0EJRBXXmW7VX3RY5VS6CdTq7dfsqtsNx=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-09-18T01:13:06.890437Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURILWZiOTdRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURILWZiOTdRRRAB!2m1!1s0x8644cbf875f8a7b1:0x7815e1e879a7cab8
+  - name: >-
+      places/ChIJsaf4dfjLRIYRuMqneejhFXg/reviews/ChZDSUhNMG9nS0VJQ0FnSUNMMF9peGJnEAE
+    relativePublishTimeDescription: 10 months ago
+    rating: 3
+    text:
+      text: >-
+        This is the first established that I have encountered that has a
+        separate menu for their AYCE items, which is more limited. I had to
+        constantly compare the two menus to see if the rolls I wanted was AYCE.
+        It was a good place to try and a good time for date night.
+      languageCode: en
+    originalText:
+      text: >-
+        This is the first established that I have encountered that has a
+        separate menu for their AYCE items, which is more limited. I had to
+        constantly compare the two menus to see if the rolls I wanted was AYCE.
+        It was a good place to try and a good time for date night.
+      languageCode: en
+    authorAttribution:
+      displayName: Abigail Delos Reyes
+      uri: https://www.google.com/maps/contrib/115712938685168129415/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVUT_FHUyFKVfn45lBek185GcLkCQ1ieoqod13OAW8eL0LqkvhhHw=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-06-22T21:56:10.681694Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNMMF9peGJnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNMMF9peGJnEAE!2m1!1s0x8644cbf875f8a7b1:0x7815e1e879a7cab8
+  - name: >-
+      places/ChIJsaf4dfjLRIYRuMqneejhFXg/reviews/ChdDSUhNMG9nS0VJQ0FnSUNWd0ttQTFBRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 1
+    text:
+      text: >-
+        Honestly one of the worst meals I’ve ever eaten.
+
+
+        I’m not sure the restaurant owner has any idea what “tempura” means. Or
+        “katsu”. Or “sushi” for that matter.
+
+
+        I ordered a tonkatsu bento. Even the rice was awful: it was freaking
+        *minute rice*. Yes, that’s right, a 22 dollar “Japanese” meal came with
+        instant rice, and it wasn’t even shortgrained rice. Instead of katsu
+        sauce, it included some rank pink sauce (NOT yumyum sauce, as I had
+        initially hoped). Instead it veggie tempura, it came with three pieces
+        of oily fried vegetables with no panko anywhere on them. The katsu
+        itself was also foul, drenched in old oil and breaded in some stuffy,
+        dense garbage instead of panko.
+
+
+        Even the California roll managed to be pointless, though perhaps that
+        was due to not even coming out with wasabi.
+
+
+        And the prices? Like, I can’t cut them a break, I paid 30 dollars for
+        lunch with a soda. The only way you’re hitting that 10-20 dollar range
+        the google page claims is if you just order miso soup and don’t leave a
+        tip.
+
+
+        Abysmal. I hate to be so negative but there was ***nothing*** redeeming
+        about this. Not a single decent item.
+      languageCode: en
+    originalText:
+      text: >-
+        Honestly one of the worst meals I’ve ever eaten.
+
+
+        I’m not sure the restaurant owner has any idea what “tempura” means. Or
+        “katsu”. Or “sushi” for that matter.
+
+
+        I ordered a tonkatsu bento. Even the rice was awful: it was freaking
+        *minute rice*. Yes, that’s right, a 22 dollar “Japanese” meal came with
+        instant rice, and it wasn’t even shortgrained rice. Instead of katsu
+        sauce, it included some rank pink sauce (NOT yumyum sauce, as I had
+        initially hoped). Instead it veggie tempura, it came with three pieces
+        of oily fried vegetables with no panko anywhere on them. The katsu
+        itself was also foul, drenched in old oil and breaded in some stuffy,
+        dense garbage instead of panko.
+
+
+        Even the California roll managed to be pointless, though perhaps that
+        was due to not even coming out with wasabi.
+
+
+        And the prices? Like, I can’t cut them a break, I paid 30 dollars for
+        lunch with a soda. The only way you’re hitting that 10-20 dollar range
+        the google page claims is if you just order miso soup and don’t leave a
+        tip.
+
+
+        Abysmal. I hate to be so negative but there was ***nothing*** redeeming
+        about this. Not a single decent item.
+      languageCode: en
+    authorAttribution:
+      displayName: Joshua Jefferies
+      uri: https://www.google.com/maps/contrib/111649933693524872836/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXNDZOsN7-pjnvU_EH5CY-lCCDYjHkAqxmQaR_xkOM400gDfQ2P=s128-c0x00000000-cc-rp-mo
+    publishTime: '2023-12-04T21:31:22.835785Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNWd0ttQTFBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNWd0ttQTFBRRAB!2m1!1s0x8644cbf875f8a7b1:0x7815e1e879a7cab8
+  - name: >-
+      places/ChIJsaf4dfjLRIYRuMqneejhFXg/reviews/ChZDSUhNMG9nS0VJQ0FnSUNmMjVEUkVREAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        Each piece was fresh, beautifully presented, and bursting with flavor. I
+        especially loved the Dragon Roll and Sweet Stacy Roll. The Dragon Roll
+        had the perfect balance of flavors with its rich eel and avocado, while
+        the Sweet Stacy Roll was a delightful mix of sweetness and savory
+        goodness that I couldn’t stop raving about. Every bite was a treat
+      languageCode: en
+    originalText:
+      text: >-
+        Each piece was fresh, beautifully presented, and bursting with flavor. I
+        especially loved the Dragon Roll and Sweet Stacy Roll. The Dragon Roll
+        had the perfect balance of flavors with its rich eel and avocado, while
+        the Sweet Stacy Roll was a delightful mix of sweetness and savory
+        goodness that I couldn’t stop raving about. Every bite was a treat
+      languageCode: en
+    authorAttribution:
+      displayName: Vicki Tamra
+      uri: https://www.google.com/maps/contrib/100192430325210155741/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocK84d2ENUkxjos9OTBY3meFOAlUQUoHQ2MfR4TbhTby6V_Wvw=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-01-01T21:15:38.210380Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNmMjVEUkVREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNmMjVEUkVREAE!2m1!1s0x8644cbf875f8a7b1:0x7815e1e879a7cab8
+review_summary: >-
+  What Customers Are Saying About This Spot$$$Visitors often rave about the
+  fresh and flavorful sushi rolls that make meals here a highlight, with many
+  appreciating the creative presentations and tasty combinations that keep
+  things exciting. While some note occasional wait times or inconsistencies in
+  food preparation, the overall vibe leans positive, especially for groups
+  enjoying the all-you-can-eat options or happy-hour specials. Folks love the
+  variety that caters to different tastes, including vegetarian choices, and the
+  solid portions that deliver good bang for the buck. In general, it's a solid
+  pick for anyone craving top-rated sushi nearby, offering a mix of fun and
+  satisfying experiences that encourage repeat visits.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+curbside_pickup: true
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: true
+live_music: false
+menu_for_children: true
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
+serves_coffee: true
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Contemporary sushi house providing specialty rolls & bento boxes, plus
+  all-you-can-eat choices.
 
 ---

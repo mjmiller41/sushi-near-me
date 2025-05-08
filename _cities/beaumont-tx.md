@@ -5,4 +5,5 @@ permalink: /texas/beaumont/
 stateAbbr: TX
 stateName: Texas
 cityName: Beaumont
+
 ---

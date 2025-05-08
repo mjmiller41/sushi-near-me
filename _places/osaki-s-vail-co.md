@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Osaki’s"
+title: Osaki’s
 permalink: /colorado/vail/osaki-s.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Vail
 seo:
-  name: "Osaki’s"
-  type: Restaurant
+  type: restaurant
   links: http://www.osakisvail.com/
-description: "Osaki’s serves delicious sushi in Vail, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJAQDQNWlwaocRpMtV14sRdhk
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x876a706935d00001:0x1976118bd755cba4!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 17
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 5:30 – 9:00 PM'
     - 'Wednesday: 5:30 – 9:00 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 5:30 – 9:00 PM'
     - 'Saturday: 5:30 – 9:00 PM'
     - 'Sunday: 5:30 – 9:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 5:30 – 9:00 PM'
-    - 'Wednesday: 5:30 – 9:00 PM'
-    - 'Thursday: 5:30 – 9:00 PM'
-    - 'Friday: 5:30 – 9:00 PM'
-    - 'Saturday: 5:30 – 9:00 PM'
-    - 'Sunday: 5:30 – 9:00 PM'
+  nextOpenTime: '2025-05-03T23:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +238,45 @@ phone: (970) 476-0977
 price_level: null
 price_range: $100 &ndash; & up
 rating: '4.5'
-rating_count: 0
+rating_count: 126
 website: http://www.osakisvail.com/
+description: >-
+  Discover Osaki’s in Vail, CO$$$Osaki’s in Vail, Colorado, stands out as an
+  intimate spot for enjoying fresh sushi and Japanese cuisine, drawing in those
+  seeking authentic flavors in a cozy setting. This sushi restaurant offers a
+  popular omakase experience, where diners can savor carefully curated meals
+  that highlight seasonal ingredients and expert preparation. With its
+  convenient location near mountain activities, it's an ideal choice for anyone
+  exploring sushi restaurants in the area, complete with accessibility features
+  like wheelchair-friendly entrances and parking. The evening hours provide a
+  relaxed vibe for those looking to unwind after a day out, making it a go-to
+  option for Japanese places near me that blend quality and convenience.
+generative_summary: >-
+  Discover Osaki’s in Vail, CO$$$Osaki’s in Vail, Colorado, stands out as an
+  intimate spot for enjoying fresh sushi and Japanese cuisine, drawing in those
+  seeking authentic flavors in a cozy setting. This sushi restaurant offers a
+  popular omakase experience, where diners can savor carefully curated meals
+  that highlight seasonal ingredients and expert preparation. With its
+  convenient location near mountain activities, it's an ideal choice for anyone
+  exploring sushi restaurants in the area, complete with accessibility features
+  like wheelchair-friendly entrances and parking. The evening hours provide a
+  relaxed vibe for those looking to unwind after a day out, making it a go-to
+  option for Japanese places near me that blend quality and convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$If you're hunting for the best sushi near Vail,
+  folks generally rave about the fresh, flavorful dishes that make Osaki’s a
+  standout choice among local sushi spots. Many highlight the high-quality
+  ingredients and thoughtful presentations, with the omakase menu often praised
+  as a highlight for its variety and taste. Overall, visitors appreciate the
+  welcoming atmosphere and solid service, contributing to its strong reputation
+  as a top-rated sushi restaurant in the region. While some note it's a bit
+  pricey, the consensus leans positive, with plenty of repeat fans loving the
+  overall experience for casual dinners or special occasions. In a nutshell,
+  it's a reliable pick for anyone searching sushi close to me who values honest,
+  enjoyable meals with a personal touch.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +302,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

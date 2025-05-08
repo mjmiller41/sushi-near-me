@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yum Sushi Burrito and Poke"
+title: Yum Sushi Burrito and Poke
 permalink: /south-carolina/duncan/yum-sushi-burrito-and-poke.html
 stateAbbr: SC
 stateName: South Carolina
 cityName: Duncan
 seo:
-  name: "Yum Sushi Burrito and Poke"
-  type: Restaurant
+  type: restaurant
   links: https://www.yumpokespot.com/
-description: "Yum Sushi Burrito and Poke serves delicious sushi in Duncan, South Carolina. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJCZ_MV3qDV4gRtPIQ2Wk79mY
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8857837a57cc9f09:0x66f63b69d910f2b4!10e5
 primary_type: American Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:00 PM'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:00 PM'
     - 'Saturday: Closed'
     - 'Sunday: 11:00 AM – 8:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 9:00 PM'
-    - 'Saturday: Closed'
-    - 'Sunday: 11:00 AM – 8:00 PM'
+  nextOpenTime: '2025-05-04T15:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +238,50 @@ phone: (864) 336-5600
 price_level: null
 price_range: $10 &ndash; $20
 rating: '4.7'
-rating_count: 0
+rating_count: 74
 website: https://www.yumpokespot.com/
+description: >-
+  Explore Yum Sushi Burrito and Poke in Duncan, SC$$$In Duncan, SC, Yum Sushi
+  Burrito and Poke stands out as a casual spot blending fresh Hawaiian-inspired
+  flavors with creative twists on sushi and poke bowls. This welcoming
+  restaurant offers a variety of customizable options, including hearty poke
+  selections and innovative sushi burritos that cater to vegetarian and vegan
+  preferences, making it a go-to for those seeking diverse sushi experiences
+  nearby. Visitors can enjoy generous portions of high-quality ingredients, all
+  served in a relaxed atmosphere that emphasizes accessibility and comfort.
+  Whether you're in the mood for a quick lunch or a flavorful dinner, the menu
+  highlights fresh seafood and bold tastes that appeal to sushi enthusiasts
+  exploring local eateries. With its convenient location and thoughtful
+  offerings, it's an ideal choice for anyone hunting for top-rated sushi
+  restaurants in the area.
+generative_summary: >-
+  Explore Yum Sushi Burrito and Poke in Duncan, SC$$$In Duncan, SC, Yum Sushi
+  Burrito and Poke stands out as a casual spot blending fresh Hawaiian-inspired
+  flavors with creative twists on sushi and poke bowls. This welcoming
+  restaurant offers a variety of customizable options, including hearty poke
+  selections and innovative sushi burritos that cater to vegetarian and vegan
+  preferences, making it a go-to for those seeking diverse sushi experiences
+  nearby. Visitors can enjoy generous portions of high-quality ingredients, all
+  served in a relaxed atmosphere that emphasizes accessibility and comfort.
+  Whether you're in the mood for a quick lunch or a flavorful dinner, the menu
+  highlights fresh seafood and bold tastes that appeal to sushi enthusiasts
+  exploring local eateries. With its convenient location and thoughtful
+  offerings, it's an ideal choice for anyone hunting for top-rated sushi
+  restaurants in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What People Love About the Reviews$$$Feedback from visitors highlights the
+  delicious poke bowls and spicy ahi fries at this spot, with plenty of fresh
+  ingredients that make every meal feel satisfying and well-balanced. Many
+  appreciate the generous portions that offer great value without skimping on
+  quality, creating a memorable dining experience for sushi lovers. The service
+  stands out as friendly and attentive, helping guests feel right at home from
+  the moment they arrive. Overall, the clean and inviting environment adds to
+  the appeal, making it a reliable pick for casual get-togethers or solo
+  outings. If you're on the hunt for sushi places near you, the positive vibes
+  from these reviews suggest it's worth a try for a solid, enjoyable meal.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +307,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Fever"
+title: Sushi Fever
 permalink: /texas/cedar-park/sushi-fever.html
 stateAbbr: TX
 stateName: Texas
 cityName: Cedar Park
 seo:
-  name: "Sushi Fever"
-  type: Restaurant
+  type: restaurant
   links: http://www.sushifevertx.com/
-description: "Sushi Fever serves delicious sushi in Cedar Park, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ5RJ3OP0sW4YRywIYK3cY_e4
 photos:
   - name: >-
@@ -170,7 +168,89 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x865b2cfd387712e5:0xeefd18772b1802cb!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:00 AM – 2:30 PM, 4:30 – 9:30 PM'
     - 'Wednesday: 11:00 AM – 2:30 PM, 4:30 – 9:30 PM'
@@ -178,14 +258,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 2:30 PM, 4:30 – 10:00 PM'
     - 'Saturday: 12:00 – 10:00 PM'
     - 'Sunday: 12:00 – 9:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:00 AM – 2:30 PM, 4:30 – 9:30 PM'
-    - 'Wednesday: 11:00 AM – 2:30 PM, 4:30 – 9:30 PM'
-    - 'Thursday: 11:00 AM – 2:30 PM, 4:30 – 9:30 PM'
-    - 'Friday: 11:00 AM – 2:30 PM, 4:30 – 10:00 PM'
-    - 'Saturday: 12:00 – 10:00 PM'
-    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +270,314 @@ phone: (512) 259-1010
 price_level: PRICE_LEVEL_MODERATE
 price_range: $30 &ndash; $50
 rating: '4.5'
-rating_count: 0
+rating_count: 1107
 website: http://www.sushifevertx.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Explore Sushi Fever in Cedar Park, TX$$$Sushi Fever in Cedar Park, TX, stands
+  out as a welcoming spot for enjoying fresh Japanese cuisine in a casual
+  setting. This sushi restaurant offers an array of specialty rolls crafted with
+  high-quality ingredients, alongside options like sake, beer, and wine to
+  complement your meal. The eatery boasts accessible features and a cozy
+  atmosphere that makes it ideal for groups or families looking for authentic
+  flavors. With its convenient location and thoughtful menu variety, it's a
+  great choice for anyone seeking tasty noodle dishes and inventive sushi
+  options. Whether you're in the mood for top-rated sushi or a relaxed dining
+  experience, this spot delivers on both quality and vibe.
+generative_summary: >-
+  Explore Sushi Fever in Cedar Park, TX$$$Sushi Fever in Cedar Park, TX, stands
+  out as a welcoming spot for enjoying fresh Japanese cuisine in a casual
+  setting. This sushi restaurant offers an array of specialty rolls crafted with
+  high-quality ingredients, alongside options like sake, beer, and wine to
+  complement your meal. The eatery boasts accessible features and a cozy
+  atmosphere that makes it ideal for groups or families looking for authentic
+  flavors. With its convenient location and thoughtful menu variety, it's a
+  great choice for anyone seeking tasty noodle dishes and inventive sushi
+  options. Whether you're in the mood for top-rated sushi or a relaxed dining
+  experience, this spot delivers on both quality and vibe.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ5RJ3OP0sW4YRywIYK3cY_e4/reviews/ChZDSUhNMG9nS0VJQ0FnTURnM3BEZElnEAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        Here’s a great review for Sushi Fever:
+
+
+        Sushi Fever is an absolute gem! The cozy atmosphere makes for a warm and
+        inviting dining experience, and the staff is exceptionally friendly,
+        making us feel right at home every time we visit.
+
+
+        Having enjoyed sushi all over the world, we can confidently say that the
+        flavors and freshness here are beyond exceptional. Every bite is a
+        delight, with the perfect balance of quality ingredients and expert
+        preparation. From the beautifully crafted rolls to the
+        melt-in-your-mouth Chef’s Special Rolls, Sushi Fever exceeds
+        expectations in every way.
+
+
+        If you’re looking for top-tier sushi in a welcoming setting, this is the
+        place to go. We can’t recommend it highly enough!
+      languageCode: en
+    originalText:
+      text: >-
+        Here’s a great review for Sushi Fever:
+
+
+        Sushi Fever is an absolute gem! The cozy atmosphere makes for a warm and
+        inviting dining experience, and the staff is exceptionally friendly,
+        making us feel right at home every time we visit.
+
+
+        Having enjoyed sushi all over the world, we can confidently say that the
+        flavors and freshness here are beyond exceptional. Every bite is a
+        delight, with the perfect balance of quality ingredients and expert
+        preparation. From the beautifully crafted rolls to the
+        melt-in-your-mouth Chef’s Special Rolls, Sushi Fever exceeds
+        expectations in every way.
+
+
+        If you’re looking for top-tier sushi in a welcoming setting, this is the
+        place to go. We can’t recommend it highly enough!
+      languageCode: en
+    authorAttribution:
+      displayName: Mark & Gina Walker
+      uri: https://www.google.com/maps/contrib/109625662902153580223/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWjUPB5yMOj9cnN5H1ZpP31Z5wXKfO1WKwqmPCjmHuqK_expzUJ=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-02-24T23:22:13.816289Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURnM3BEZElnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURnM3BEZElnEAE!2m1!1s0x865b2cfd387712e5:0xeefd18772b1802cb
+  - name: >-
+      places/ChIJ5RJ3OP0sW4YRywIYK3cY_e4/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJMl9MSnhRRRAB
+    relativePublishTimeDescription: 4 weeks ago
+    rating: 5
+    text:
+      text: >-
+        This was a great place. We are from out of town and not knowing the area
+        we weren’t sure about it. But we were pleasantly surprised that the food
+        was outstanding and our waitress was exceptional our daughter wasn’t
+        sure of what to order and after asking my daughter a few questions she
+        recommended a fabulous roll unfortunately I don’t recall the name but
+        she did say it wasn’t on the menu (it is the one on the pic) I
+        absolutely recommend this great place oh and the kids fried chicken was
+        really good too.
+      languageCode: en
+    originalText:
+      text: >-
+        This was a great place. We are from out of town and not knowing the area
+        we weren’t sure about it. But we were pleasantly surprised that the food
+        was outstanding and our waitress was exceptional our daughter wasn’t
+        sure of what to order and after asking my daughter a few questions she
+        recommended a fabulous roll unfortunately I don’t recall the name but
+        she did say it wasn’t on the menu (it is the one on the pic) I
+        absolutely recommend this great place oh and the kids fried chicken was
+        really good too.
+      languageCode: en
+    authorAttribution:
+      displayName: Gee **
+      uri: https://www.google.com/maps/contrib/110553295007475250231/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWy_ElzsDLtVWIRJsfoYIc1H2yM0Ubypodr5zLbZeYFaSyIsg=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-04-04T22:12:31.986187Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNJMl9MSnhRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNJMl9MSnhRRRAB!2m1!1s0x865b2cfd387712e5:0xeefd18772b1802cb
+  - name: >-
+      places/ChIJ5RJ3OP0sW4YRywIYK3cY_e4/reviews/ChZDSUhNMG9nS0VJQ0FnTURJbDR1YmNnEAE
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        We were in cedar park for a show and decided to grab dinner before. The
+        sushi was amazing, our waitress was amazing, and the speed of the food
+        delivery was impressive. We had three sushi rolls and dessert. We will
+        definitely go back to grab try more items on the menu.
+      languageCode: en
+    originalText:
+      text: >-
+        We were in cedar park for a show and decided to grab dinner before. The
+        sushi was amazing, our waitress was amazing, and the speed of the food
+        delivery was impressive. We had three sushi rolls and dessert. We will
+        definitely go back to grab try more items on the menu.
+      languageCode: en
+    authorAttribution:
+      displayName: Jennifer Diaz Ruby
+      uri: https://www.google.com/maps/contrib/117885700907844597842/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKMcJQGjdLpPxGd9T6Tr9fQdKB2lYDGijvKOcCR-We5v6lo8w=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-13T15:51:33.181670Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURJbDR1YmNnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJbDR1YmNnEAE!2m1!1s0x865b2cfd387712e5:0xeefd18772b1802cb
+  - name: >-
+      places/ChIJ5RJ3OP0sW4YRywIYK3cY_e4/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3MTVyUDJnRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Sushi Fever: A Hidden Gem for Sushi Lovers
+
+
+        If you're looking for an amazing sushi experience, look no further than
+        Sushi Fever! This place has quickly become my go-to spot, and for good
+        reason. First off, the food is absolutely incredible. Every dish is made
+        with such care, and the sushi is always fresh and bursting with flavor.
+        Whether you’re a fan of traditional rolls or more inventive creations,
+        Sushi Fever has something to satisfy every craving.
+
+
+        The quality of the ingredients is always top-notch, and you can tell
+        that they use only the freshest fish. The rolls are beautifully
+        presented, and you can taste the difference in every bite. I especially
+        love the variety they offer—it's hard to choose just one favorite!
+
+
+        What truly sets Sushi Fever apart, though, is the staff. Amanda is
+        incredibly friendly and attentive, making each visit feel special.
+        Whether you're a regular or a first-timer, they always greet you with a
+        smile and provide excellent service throughout your meal.
+
+
+        Another standout feature is the pricing. For the quality of food you’re
+        getting, the prices are more than reasonable. It's definitely an amazing
+        value for the experience.
+
+
+        Overall, I can't recommend Sushi Fever enough. If you’re in the mood for
+        amazing sushi, and great service Sushi Fever is the place to be!
+      languageCode: en
+    originalText:
+      text: >-
+        Sushi Fever: A Hidden Gem for Sushi Lovers
+
+
+        If you're looking for an amazing sushi experience, look no further than
+        Sushi Fever! This place has quickly become my go-to spot, and for good
+        reason. First off, the food is absolutely incredible. Every dish is made
+        with such care, and the sushi is always fresh and bursting with flavor.
+        Whether you’re a fan of traditional rolls or more inventive creations,
+        Sushi Fever has something to satisfy every craving.
+
+
+        The quality of the ingredients is always top-notch, and you can tell
+        that they use only the freshest fish. The rolls are beautifully
+        presented, and you can taste the difference in every bite. I especially
+        love the variety they offer—it's hard to choose just one favorite!
+
+
+        What truly sets Sushi Fever apart, though, is the staff. Amanda is
+        incredibly friendly and attentive, making each visit feel special.
+        Whether you're a regular or a first-timer, they always greet you with a
+        smile and provide excellent service throughout your meal.
+
+
+        Another standout feature is the pricing. For the quality of food you’re
+        getting, the prices are more than reasonable. It's definitely an amazing
+        value for the experience.
+
+
+        Overall, I can't recommend Sushi Fever enough. If you’re in the mood for
+        amazing sushi, and great service Sushi Fever is the place to be!
+      languageCode: en
+    authorAttribution:
+      displayName: Ck Cone
+      uri: https://www.google.com/maps/contrib/115952946950901356435/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUgHxRlodwTGhbztn-VzzPzHv_Vk5pgDyKu0t7F0NBMlvqJt3Q=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-28T21:47:32.354204Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUR3MTVyUDJnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUR3MTVyUDJnRRAB!2m1!1s0x865b2cfd387712e5:0xeefd18772b1802cb
+  - name: >-
+      places/ChIJ5RJ3OP0sW4YRywIYK3cY_e4/reviews/ChZDSUhNMG9nS0VJQ0FnSUNMdTR2TVJREAE
+    relativePublishTimeDescription: 10 months ago
+    rating: 5
+    text:
+      text: >-
+        First time trying Sushi Fever and it was delicious! Everything we had
+        was really good. From the calamari (which is not your typical calamari,
+        it is better) to the specialty rolls. My favorite was the Carrot Top. So
+        many flavors exploding in your mouth! We also tried the spicy Hawaiian
+        and I believe the sex on the beach.
+
+        The place is small and was very busy but we will definitely be back!
+      languageCode: en
+    originalText:
+      text: >-
+        First time trying Sushi Fever and it was delicious! Everything we had
+        was really good. From the calamari (which is not your typical calamari,
+        it is better) to the specialty rolls. My favorite was the Carrot Top. So
+        many flavors exploding in your mouth! We also tried the spicy Hawaiian
+        and I believe the sex on the beach.
+
+        The place is small and was very busy but we will definitely be back!
+      languageCode: en
+    authorAttribution:
+      displayName: Valeria Cordova
+      uri: https://www.google.com/maps/contrib/109996244099453580761/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWdE10UCfa7I2cfTco1h-Le2hn7W7uJ4V9WidQT6E4QU9c1FlAH=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-06-23T13:10:56.135363Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNMdTR2TVJREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNMdTR2TVJREAE!2m1!1s0x865b2cfd387712e5:0xeefd18772b1802cb
+review_summary: >-
+  What People Are Saying About the Reviews$$$Visitors to this sushi spot often
+  highlight the fantastic flavors and fresh ingredients that make every bite
+  memorable, creating a buzz among local food enthusiasts. Many appreciate the
+  friendly service and efficient delivery that enhance the overall dining
+  experience, turning first-timers into regulars. The variety of rolls and
+  reasonable prices get consistent nods for providing great value without
+  skimping on taste, making it a solid pick for casual meals or special
+  occasions. While the atmosphere can get lively during peak times, folks
+  generally find it adds to the fun without overwhelming the meal. If you're
+  hunting for reliable sushi restaurants nearby, this place earns high marks for
+  its consistent appeal and satisfying options.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  paidStreetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
+curbside_pickup: true
 delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: true
+live_music: false
+menu_for_children: true
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Japanese eatery is a local draw for noodle dishes & playfully named sushi
+  rolls in traditional digs.
 
 ---

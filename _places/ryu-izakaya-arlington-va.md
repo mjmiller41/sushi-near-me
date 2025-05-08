@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ryu Izakaya"
+title: Ryu Izakaya
 permalink: /virginia/arlington/ryu-izakaya.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Arlington
 seo:
-  name: "Ryu Izakaya"
-  type: Restaurant
+  type: restaurant
   links: http://ryuizakayava.com/
-description: "Casual eatery featuring Japanese street food, including ramen and yakitori, plus sake. Ryu Izakaya serves delicious sushi in Arlington, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJl4eEHY63t4kRIgatQbyaXVU
 photos:
   - name: >-
@@ -184,12 +182,49 @@ price_range: null
 rating: '4.5'
 rating_count: 0
 website: http://ryuizakayava.com/
+description: >-
+  Discover Ryu Izakaya in Arlington, VA$$$Ryu Izakaya in Arlington, VA, stands
+  out as a welcoming spot for authentic Japanese cuisine, blending casual vibes
+  with flavorful street food options. This eatery delights visitors with a menu
+  featuring hearty ramen, grilled yakitori, and a selection of sake, all
+  prepared with fresh ingredients that highlight traditional flavors.
+  Accessibility features like wheelchair-friendly entrances and parking make it
+  easy for everyone to enjoy a meal, while the moderate pricing adds to its
+  appeal for casual diners. Whether you're seeking Japanese places near you or
+  exploring top-rated options for a satisfying dinner, Ryu Izakaya offers a
+  relaxed atmosphere that pairs well with its diverse offerings, making it a
+  go-to choice in the area.
+generative_summary: >-
+  Discover Ryu Izakaya in Arlington, VA$$$Ryu Izakaya in Arlington, VA, stands
+  out as a welcoming spot for authentic Japanese cuisine, blending casual vibes
+  with flavorful street food options. This eatery delights visitors with a menu
+  featuring hearty ramen, grilled yakitori, and a selection of sake, all
+  prepared with fresh ingredients that highlight traditional flavors.
+  Accessibility features like wheelchair-friendly entrances and parking make it
+  easy for everyone to enjoy a meal, while the moderate pricing adds to its
+  appeal for casual diners. Whether you're seeking Japanese places near you or
+  exploring top-rated options for a satisfying dinner, Ryu Izakaya offers a
+  relaxed atmosphere that pairs well with its diverse offerings, making it a
+  go-to choice in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - ChdDSUhNMG9nS0VJQ0FnSUNQMXFQVGhRRRAB
   - ChZDSUhNMG9nS0VJQ0FnSUNQbWJ6SEl3EAE
   - ChZDSUhNMG9nS0VJQ0FnSUMxN01TakRnEAE
   - ChdDSUhNMG9nS0VJQ0FnSUM5aTQzMXNBRRAB
   - ChZDSUhNMG9nS0VJQ0FnTUNRaC0zNU1nEAE
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this Japanese restaurant often rave
+  about the tasty dishes and welcoming environment, with many highlighting the
+  fresh flavors and generous portions that keep them coming back. Feedback
+  frequently praises the variety of options like ramen and grilled favorites,
+  noting how they hit the spot for anyone searching for quality Japanese eats
+  nearby. While some mention the service as efficient and friendly, others
+  appreciate the overall value, especially for groups or those looking for a
+  casual night out. Overall, the high ratings reflect a positive experience,
+  making it a solid pick if you're in the mood for reliable, enjoyable meals at
+  sushi spots or similar venues in the neighborhood.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
 payment_options:
@@ -219,8 +254,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Casual eatery featuring Japanese street food, including ramen and yakitori,
   plus sake.
 

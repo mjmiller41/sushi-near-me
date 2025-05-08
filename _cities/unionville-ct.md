@@ -5,4 +5,5 @@ permalink: /connecticut/unionville/
 stateAbbr: CT
 stateName: Connecticut
 cityName: Unionville
+
 ---

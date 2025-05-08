@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi In Joy"
+title: Sushi In Joy
 permalink: /washington/bellevue/sushi-in-joy.html
 stateAbbr: WA
 stateName: Washington
 cityName: Bellevue
 seo:
-  name: "Sushi In Joy"
-  type: Restaurant
+  type: restaurant
   links: https://sijbellevue.com/
-description: "Sushi In Joy serves delicious sushi in Bellevue, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJEV-SJMBskFQRB6cEdcEWLPs
 photos:
   - name: >-
@@ -170,22 +168,97 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x54906cc024925f11:0xfb2c16c17504a707!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
-    - 'Monday: 4:30 – 9:00 PM'
-    - 'Tuesday: 11:30 AM – 2:00 PM, 4:30 – 9:00 PM'
-    - 'Wednesday: 11:30 AM – 2:00 PM, 4:30 – 9:00 PM'
-    - 'Thursday: 11:30 AM – 2:00 PM, 4:30 – 9:00 PM'
-    - 'Friday: 11:30 AM – 2:00 PM, 4:30 – 9:00 PM'
-    - 'Saturday: 4:30 – 9:00 PM'
-    - 'Sunday: 4:30 – 8:00 PM'
-  current:
-    - 'Monday: 4:30 – 9:00 PM'
-    - 'Tuesday: 11:30 AM – 2:00 PM, 4:30 – 9:00 PM'
-    - 'Wednesday: 11:30 AM – 2:00 PM, 4:30 – 9:00 PM'
-    - 'Thursday: 11:30 AM – 2:00 PM, 4:30 – 9:00 PM'
-    - 'Friday: 11:30 AM – 2:00 PM, 4:30 – 9:00 PM'
-    - 'Saturday: 4:30 – 9:00 PM'
-    - 'Sunday: 4:30 – 8:00 PM'
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: Closed'
+    - 'Tuesday: 11:30 AM – 2:00 PM, 5:00 – 9:30 PM'
+    - 'Wednesday: 11:30 AM – 2:00 PM, 5:00 – 9:30 PM'
+    - 'Thursday: 11:30 AM – 2:00 PM, 5:00 – 9:30 PM'
+    - 'Friday: 11:30 AM – 2:00 PM, 5:00 – 9:30 PM'
+    - 'Saturday: 5:00 – 9:30 PM'
+    - 'Sunday: 5:00 – 9:30 PM'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +270,235 @@ phone: (425) 576-1743
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.5'
-rating_count: 0
+rating_count: 290
 website: https://sijbellevue.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Sushi In Joy in Bellevue, WA$$$Sushi In Joy in Bellevue, WA, stands
+  out as a casual Japanese eatery offering fresh sushi rolls and classic dishes
+  that capture the essence of authentic flavors. This welcoming spot features an
+  array of inventive options like bento boxes, paired perfectly with selections
+  of beer, sake, and wine, making it a go-to choice for those seeking quality
+  Japanese cuisine in a relaxed setting. Accessibility is a key highlight, with
+  wheelchair-friendly parking, entrances, and seating that ensure everyone can
+  enjoy the experience comfortably. The restaurant's unassuming location in a
+  strip mall adds to its charm, providing an intimate atmosphere ideal for
+  casual meals or special occasions. For anyone exploring sushi restaurants near
+  me, this spot delivers a satisfying blend of affordability and taste that
+  keeps diners coming back.
+generative_summary: >-
+  Discover Sushi In Joy in Bellevue, WA$$$Sushi In Joy in Bellevue, WA, stands
+  out as a casual Japanese eatery offering fresh sushi rolls and classic dishes
+  that capture the essence of authentic flavors. This welcoming spot features an
+  array of inventive options like bento boxes, paired perfectly with selections
+  of beer, sake, and wine, making it a go-to choice for those seeking quality
+  Japanese cuisine in a relaxed setting. Accessibility is a key highlight, with
+  wheelchair-friendly parking, entrances, and seating that ensure everyone can
+  enjoy the experience comfortably. The restaurant's unassuming location in a
+  strip mall adds to its charm, providing an intimate atmosphere ideal for
+  casual meals or special occasions. For anyone exploring sushi restaurants near
+  me, this spot delivers a satisfying blend of affordability and taste that
+  keeps diners coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJEV-SJMBskFQRB6cEdcEWLPs/reviews/ChdDSUhNMG9nS0VJQ0FnTUNvdGRmV293RRAB
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        Sushi in JOY lives up to its name! This cozy spot offers incredibly
+        friendly service and, most importantly, wonderfully fresh sushi. We
+        especially enjoyed the flavorful eel sushi and their signature
+        Washington rolls. With affordable prices, we're already looking forward
+        to our next visit. Highly recommended!
+      languageCode: en
+    originalText:
+      text: >-
+        Sushi in JOY lives up to its name! This cozy spot offers incredibly
+        friendly service and, most importantly, wonderfully fresh sushi. We
+        especially enjoyed the flavorful eel sushi and their signature
+        Washington rolls. With affordable prices, we're already looking forward
+        to our next visit. Highly recommended!
+      languageCode: en
+    authorAttribution:
+      displayName: Konstantin Fedorov (Kot)
+      uri: https://www.google.com/maps/contrib/117962009313378557803/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVu-DKuCLyqPw5rYaiTtb3FlvBnJkXFgc9i-nWokvLEKK13s7r6=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-18T22:18:18.753046Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNvdGRmV293RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNvdGRmV293RRAB!2m1!1s0x54906cc024925f11:0xfb2c16c17504a707
+  - name: >-
+      places/ChIJEV-SJMBskFQRB6cEdcEWLPs/reviews/ChZDSUhNMG9nS0VJQ0FnSUNIa0plWElREAE
+    relativePublishTimeDescription: 8 months ago
+    rating: 5
+    text:
+      text: >-
+        Fun experience. Loved the atmosphere inside with the curtains, etc. Very
+        good quality food, could even tell with the Wasabi, generous portions.
+        It's off the beaten path, but IMHO it is well worth it. Incredible
+        variety to their menu. Great value here compared to other places in
+        Bellevue.
+      languageCode: en
+    originalText:
+      text: >-
+        Fun experience. Loved the atmosphere inside with the curtains, etc. Very
+        good quality food, could even tell with the Wasabi, generous portions.
+        It's off the beaten path, but IMHO it is well worth it. Incredible
+        variety to their menu. Great value here compared to other places in
+        Bellevue.
+      languageCode: en
+    authorAttribution:
+      displayName: Ken Paterson
+      uri: https://www.google.com/maps/contrib/103380652288702587359/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXbT7dCxf2u8i318blbYT9MR3voWGE3L2yQZJ07s42WqQkGVi4y=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-08-31T03:10:34.052186Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNIa0plWElREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNIa0plWElREAE!2m1!1s0x54906cc024925f11:0xfb2c16c17504a707
+  - name: >-
+      places/ChIJEV-SJMBskFQRB6cEdcEWLPs/reviews/ChZDSUhNMG9nS0VJQ0FnSUNoMXJHQ2VBEAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        This is an old hidden little gem in Bellevue for Japanese food! The
+        sweet staff are friendly and efficient and the food is fresh and
+        delicious, with some creative roll combinations for. Tucked into a strip
+        mall between a shipping store and Silver Platters, it's definitely worth
+        stopping in for fresh sashimi, tasty appetizers, and great maki rolls.
+        We enjoy coming here for birthdays and special occasions.
+      languageCode: en
+    originalText:
+      text: >-
+        This is an old hidden little gem in Bellevue for Japanese food! The
+        sweet staff are friendly and efficient and the food is fresh and
+        delicious, with some creative roll combinations for. Tucked into a strip
+        mall between a shipping store and Silver Platters, it's definitely worth
+        stopping in for fresh sashimi, tasty appetizers, and great maki rolls.
+        We enjoy coming here for birthdays and special occasions.
+      languageCode: en
+    authorAttribution:
+      displayName: Jenny Ma
+      uri: https://www.google.com/maps/contrib/114296390441564676002/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUgIEDkB2PzsQAjZtJxzL5NwawLrCpei_X1mvBSmllmI0Q-tBD5=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2025-02-12T02:35:48.107987Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNoMXJHQ2VBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNoMXJHQ2VBEAE!2m1!1s0x54906cc024925f11:0xfb2c16c17504a707
+  - name: >-
+      places/ChIJEV-SJMBskFQRB6cEdcEWLPs/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJclBfLVJBEAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Hands-down, this is my favorite sushi restaurant! The food is always
+        excellent. They’re always fast I find the price is reasonable. The staff
+        is always pleasant and they remember me and know what I like and do it
+        perfectly every time this place is like I said hands-down, my favorite
+        place.
+      languageCode: en
+    originalText:
+      text: >-
+        Hands-down, this is my favorite sushi restaurant! The food is always
+        excellent. They’re always fast I find the price is reasonable. The staff
+        is always pleasant and they remember me and know what I like and do it
+        perfectly every time this place is like I said hands-down, my favorite
+        place.
+      languageCode: en
+    authorAttribution:
+      displayName: Erin
+      uri: https://www.google.com/maps/contrib/101303412381794962265/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJmg82R9qrkp19hh4zfs_GeFl_PSsHip7UlUb6kH0GpV1J8pw=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-31T01:49:06.356558Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNJclBfLVJBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNJclBfLVJBEAE!2m1!1s0x54906cc024925f11:0xfb2c16c17504a707
+  - name: >-
+      places/ChIJEV-SJMBskFQRB6cEdcEWLPs/reviews/ChZDSUhNMG9nS0VJQ0FnTURRMk55Y0V3EAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        The food is fantastic,  and very fairly price.  The family that owns and
+        runs the restaurant are all amazing, kind people.  I strongly recommend
+        Sushi In Joy, I have been dozens of times and have never been
+        disappointed with anything!
+      languageCode: en
+    originalText:
+      text: >-
+        The food is fantastic,  and very fairly price.  The family that owns and
+        runs the restaurant are all amazing, kind people.  I strongly recommend
+        Sushi In Joy, I have been dozens of times and have never been
+        disappointed with anything!
+      languageCode: en
+    authorAttribution:
+      displayName: Lance Fort
+      uri: https://www.google.com/maps/contrib/104659611659324628937/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKhAdxsFvlGAAz5Tw3zM3HYzw2DsvKKj63w-vtTJiXCWpxRMA=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-08T20:00:15.451284Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURRMk55Y0V3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURRMk55Y0V3EAE!2m1!1s0x54906cc024925f11:0xfb2c16c17504a707
+review_summary: >-
+  Insights from Recent Reviews$$$Visitors to this sushi place often rave about
+  the fresh, high-quality ingredients that make every bite feel genuinely
+  satisfying and full of flavor. Folks appreciate the friendly service and
+  reasonable prices, noting that it offers great value compared to other options
+  in the area, which makes it a solid pick for everyday dining or group outings.
+  Many highlight the variety on the menu, including creative rolls and generous
+  portions that cater to different tastes without breaking the bank. Overall,
+  the atmosphere comes across as fun and cozy, perfect for enjoying top-rated
+  sushi close to home, though some mention it's a bit off the main paths but
+  well worth the visit. If you're on the hunt for the best sushi near me, these
+  experiences suggest it's a reliable spot that consistently delivers a positive
+  vibe.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Inventive sushi & Japanese classics including sake & plum wine in an
+  unassuming strip-mall location.
 
 ---

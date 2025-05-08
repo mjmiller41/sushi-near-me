@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Mon's Thai Bistro & Sushi Bar"
+title: Mon's Thai Bistro & Sushi Bar
 permalink: /texas/san-antonio/mon-s-thai-bistro-sushi-bar.html
 stateAbbr: TX
 stateName: Texas
 cityName: San Antonio
 seo:
-  name: "Mon's Thai Bistro & Sushi Bar"
-  type: Restaurant
+  type: restaurant
   links: http://www.monsthai.com/
-description: "Mon's Thai Bistro & Sushi Bar serves delicious sushi in San Antonio, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ6_ntwZ_1XIYRG0r71Wy2k7Q
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x865cf59fc1edf9eb:0xb493b66cd5fb4a1b!10e5
 primary_type: Thai Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 10:00 PM'
     - 'Tuesday: 11:00 AM – 10:00 PM'
     - 'Wednesday: 11:00 AM – 10:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:00 PM'
     - 'Saturday: 11:00 AM – 10:00 PM'
     - 'Sunday: 5:00 – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 10:00 PM'
-    - 'Tuesday: 11:00 AM – 10:00 PM'
-    - 'Wednesday: 11:00 AM – 10:00 PM'
-    - 'Thursday: 11:00 AM – 10:00 PM'
-    - 'Friday: 11:00 AM – 10:00 PM'
-    - 'Saturday: 11:00 AM – 10:00 PM'
-    - 'Sunday: 5:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,282 @@ phone: (210) 822-3253
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.1'
-rating_count: 0
+rating_count: 461
 website: http://www.monsthai.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Mon's Thai Bistro in San Antonio, TX$$$Mon's Thai Bistro & Sushi Bar
+  in San Antonio, TX, offers a welcoming spot for enjoying authentic Thai
+  flavors alongside fresh sushi selections in a vibrant, plant-filled setting.
+  This casual eatery stands out with its modern Asian decor and accessible
+  features, including wheelchair-friendly entrances and outdoor seating under
+  shady trees, making it ideal for relaxed meals. Patrons can savor a variety of
+  Thai specialties and sushi options, complemented by a full bar for craft
+  cocktails and beverages. The menu caters to diverse tastes with vegetarian
+  choices and generous portions, ensuring a satisfying experience for those
+  seeking top-rated Asian cuisine nearby. Open daily with convenient hours, it's
+  a go-to destination for anyone exploring sushi restaurants in the area.
+generative_summary: >-
+  Discover Mon's Thai Bistro in San Antonio, TX$$$Mon's Thai Bistro & Sushi Bar
+  in San Antonio, TX, offers a welcoming spot for enjoying authentic Thai
+  flavors alongside fresh sushi selections in a vibrant, plant-filled setting.
+  This casual eatery stands out with its modern Asian decor and accessible
+  features, including wheelchair-friendly entrances and outdoor seating under
+  shady trees, making it ideal for relaxed meals. Patrons can savor a variety of
+  Thai specialties and sushi options, complemented by a full bar for craft
+  cocktails and beverages. The menu caters to diverse tastes with vegetarian
+  choices and generous portions, ensuring a satisfying experience for those
+  seeking top-rated Asian cuisine nearby. Open daily with convenient hours, it's
+  a go-to destination for anyone exploring sushi restaurants in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ6_ntwZ_1XIYRG0r71Wy2k7Q/reviews/ChdDSUhNMG9nS0VJQ0FnSUNmeXAzUnpRRRAB
+    relativePublishTimeDescription: 4 months ago
+    rating: 2
+    text:
+      text: >-
+        I used to love this place and even gave them a five-star review in the
+        past. Unfortunately, it seems like all good things come to an end. On
+        12/27/24 at 6:00 PM, I picked up dinner, but my experience was far from
+        what I expected.
+
+
+        I ordered my usual Kung Pao Chicken with extra chicken—a dish I’ve had
+        many times before. This time, however, the portion was shockingly small,
+        more like a kid’s side meal than a proper dinner. Confused, I called the
+        restaurant to give them an opportunity to address the issue. Instead of
+        understanding my concern, I was told, “You can speak to the manager, but
+        it’s not going to make a difference; those are our portion sizes.”
+
+
+        As someone who values consistency, this was disappointing, especially
+        since my previous experiences were excellent. If this is their new
+        standard, I guess I’ll be taking my business elsewhere.  To be fair, at
+        the end of the call, they said, oh sorry we didn’t add the extra
+        chicken.
+      languageCode: en
+    originalText:
+      text: >-
+        I used to love this place and even gave them a five-star review in the
+        past. Unfortunately, it seems like all good things come to an end. On
+        12/27/24 at 6:00 PM, I picked up dinner, but my experience was far from
+        what I expected.
+
+
+        I ordered my usual Kung Pao Chicken with extra chicken—a dish I’ve had
+        many times before. This time, however, the portion was shockingly small,
+        more like a kid’s side meal than a proper dinner. Confused, I called the
+        restaurant to give them an opportunity to address the issue. Instead of
+        understanding my concern, I was told, “You can speak to the manager, but
+        it’s not going to make a difference; those are our portion sizes.”
+
+
+        As someone who values consistency, this was disappointing, especially
+        since my previous experiences were excellent. If this is their new
+        standard, I guess I’ll be taking my business elsewhere.  To be fair, at
+        the end of the call, they said, oh sorry we didn’t add the extra
+        chicken.
+      languageCode: en
+    authorAttribution:
+      displayName: Jimmy Wise
+      uri: https://www.google.com/maps/contrib/106635863895128484079/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIxdOlGQo2hEZhsQCEvq_9eu-DPa-o5qctllkNWJ0qzpHUW0w=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-12-28T00:29:56.860401Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNmeXAzUnpRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNmeXAzUnpRRRAB!2m1!1s0x865cf59fc1edf9eb:0xb493b66cd5fb4a1b
+  - name: >-
+      places/ChIJ6_ntwZ_1XIYRG0r71Wy2k7Q/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3eGZlNVlBEAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Mon’s is in a great location in Alamo Heights and the restaurant itself
+        is quaint and has a neighborhood feel.  The food is amazing!!!! 
+        Consistently delicious.  I’ve had almost everything on the menu at one
+        time or another and I have never been disappointed.  And any
+        modifications that are requested are well noted and the food comes out
+        just as one details.  The staff is attentive and very knowledgeable
+        about the menu.  The ingredients are so fresh. One can tell when the
+        food is received.  The attention to how spicy an individual prefers his
+        or her meal is impeccable.  The prices are great!  Not only because of
+        the quality but also the quantity of food one receives.  There is both
+        inside and outside dining and the large oak trees outside lend to such a
+        lovely surrounding if dining on the patio!  Mon’s is kid friendly and
+        wheelchair accessible.  The restaurant is always neat and clean.
+      languageCode: en
+    originalText:
+      text: >-
+        Mon’s is in a great location in Alamo Heights and the restaurant itself
+        is quaint and has a neighborhood feel.  The food is amazing!!!! 
+        Consistently delicious.  I’ve had almost everything on the menu at one
+        time or another and I have never been disappointed.  And any
+        modifications that are requested are well noted and the food comes out
+        just as one details.  The staff is attentive and very knowledgeable
+        about the menu.  The ingredients are so fresh. One can tell when the
+        food is received.  The attention to how spicy an individual prefers his
+        or her meal is impeccable.  The prices are great!  Not only because of
+        the quality but also the quantity of food one receives.  There is both
+        inside and outside dining and the large oak trees outside lend to such a
+        lovely surrounding if dining on the patio!  Mon’s is kid friendly and
+        wheelchair accessible.  The restaurant is always neat and clean.
+      languageCode: en
+    authorAttribution:
+      displayName: Kathleen Kraemer
+      uri: https://www.google.com/maps/contrib/117769913482281773174/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUCofZ7s2-0TFz45RPjlfSc3s0_dS6NXqJMuM-eU3xMOUaNba3S=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-03-20T03:26:21.248612Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUN3eGZlNVlBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUN3eGZlNVlBEAE!2m1!1s0x865cf59fc1edf9eb:0xb493b66cd5fb4a1b
+  - name: >-
+      places/ChIJ6_ntwZ_1XIYRG0r71Wy2k7Q/reviews/ChdDSUhNMG9nS0VJQ0FnSURoX2ZyZTN3RRAB
+    relativePublishTimeDescription: 2 years ago
+    rating: 5
+    text:
+      text: >-
+        Atmosphere is excellent. Very clean and serene. We loved the Thai
+        butterflies. So tasty. The Pad Thai medium is pretty spice and yummy.
+        The children’s chicken fried rice was perfect! My daughter is so picky
+        and loved it. Very lovely shaded outdoor seating. Service was wonderful.
+      languageCode: en
+    originalText:
+      text: >-
+        Atmosphere is excellent. Very clean and serene. We loved the Thai
+        butterflies. So tasty. The Pad Thai medium is pretty spice and yummy.
+        The children’s chicken fried rice was perfect! My daughter is so picky
+        and loved it. Very lovely shaded outdoor seating. Service was wonderful.
+      languageCode: en
+    authorAttribution:
+      displayName: Shelly Sanchez Terrell
+      uri: https://www.google.com/maps/contrib/114337606913650576428/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjU3LFW_oFMG-qjjTqInVGma5KHvkEFVBe0fXVTpbzLbgK1YPgQ8dQ=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2023-03-15T23:21:11.840793Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURoX2ZyZTN3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURoX2ZyZTN3RRAB!2m1!1s0x865cf59fc1edf9eb:0xb493b66cd5fb4a1b
+  - name: >-
+      places/ChIJ6_ntwZ_1XIYRG0r71Wy2k7Q/reviews/ChZDSUhNMG9nS0VJQ0FnSUNtNFphM0hREAE
+    relativePublishTimeDescription: 3 years ago
+    rating: 3
+    text:
+      text: >-
+        When I visited this restaurant I did not have the highest expectations
+        due to the atmosphere and general decorations, which usually doesn’t
+        bother me because some of the most amazing food is hidden behind ugly
+        places. That being said, my experience was not the best. Seaweed salad
+        was good, but the spring rolls were almost burnt, due to excessive
+        frying. I could barely taste anything besides the batter from the fry.
+        As I know this is a Thai restaurant, but the sushi was far from perfect.
+        The fresh fish on the sushi was warm, and the selection of rolls was not
+        limited but seemed to be repeated.
+      languageCode: en
+    originalText:
+      text: >-
+        When I visited this restaurant I did not have the highest expectations
+        due to the atmosphere and general decorations, which usually doesn’t
+        bother me because some of the most amazing food is hidden behind ugly
+        places. That being said, my experience was not the best. Seaweed salad
+        was good, but the spring rolls were almost burnt, due to excessive
+        frying. I could barely taste anything besides the batter from the fry.
+        As I know this is a Thai restaurant, but the sushi was far from perfect.
+        The fresh fish on the sushi was warm, and the selection of rolls was not
+        limited but seemed to be repeated.
+      languageCode: en
+    authorAttribution:
+      displayName: Beck Wofford
+      uri: https://www.google.com/maps/contrib/108053497408124278935/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWlwCtKbzfPVduBOQMldlVvkeid6yyB20XEYhbiMQwTQZHeWJ3m=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2021-12-31T05:03:13.183733Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNtNFphM0hREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNtNFphM0hREAE!2m1!1s0x865cf59fc1edf9eb:0xb493b66cd5fb4a1b
+  - name: >-
+      places/ChIJ6_ntwZ_1XIYRG0r71Wy2k7Q/reviews/ChdDSUhNMG9nS0VJQ0FnTUNRa015UjhnRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 3
+    text:
+      text: >-
+        They serve my favorite kind of curry; sometimes it’s off the chain good,
+        but the taste is very inconsistent.  They have a fantastic coconut ice
+        cream.  Service is average.  One thing this place desperately needs is
+        noise abatement of some kind…we rarely go there because it is so very
+        loud.
+      languageCode: en
+    originalText:
+      text: >-
+        They serve my favorite kind of curry; sometimes it’s off the chain good,
+        but the taste is very inconsistent.  They have a fantastic coconut ice
+        cream.  Service is average.  One thing this place desperately needs is
+        noise abatement of some kind…we rarely go there because it is so very
+        loud.
+      languageCode: en
+    authorAttribution:
+      displayName: R Llewellyn
+      uri: https://www.google.com/maps/contrib/105463921197171890967/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWMcSZl6ozeSRz6LDAHj9eKNw5MyJvcFy0_BCPMXgpxYZVTZkm4=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-03-01T06:03:31.471758Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNRa015UjhnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNRa015UjhnRRAB!2m1!1s0x865cf59fc1edf9eb:0xb493b66cd5fb4a1b
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors often rave about the delicious Thai
+  dishes and sushi at this spot, highlighting the fresh ingredients and
+  consistent flavors that keep people coming back for more. While some note
+  occasional inconsistencies with portion sizes or spice levels, the overall
+  vibe remains upbeat, especially with its kid-friendly atmosphere and outdoor
+  dining options. Many appreciate the attentive service and great value for the
+  price, making it a solid choice for groups or families looking for a casual
+  meal. Despite a few mentions of it getting a bit noisy at times, the general
+  consensus leans positive, with folks enjoying the accessibility and variety
+  that make it one of the better Japanese-inspired places around. If you're in
+  the mood for quality eats, this location delivers a reliably enjoyable
+  experience without any major drawbacks.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: true
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
+serves_coffee: true
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Thai food, Chinese favorites & sushi served in a cheerful space with plants &
+  modern Asian decor.
 
 ---

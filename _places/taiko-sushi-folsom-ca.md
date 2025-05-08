@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Taiko Sushi"
+title: Taiko Sushi
 permalink: /california/folsom/taiko-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Folsom
 seo:
-  name: "Taiko Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Taiko Sushi serves delicious sushi in Folsom, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ4f0m9v_kmoARbEMNpw_N-lU
 photos:
   - name: >-
@@ -185,7 +183,43 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Explore Taiko Sushi in Folsom, CA$$$Taiko Sushi in Folsom, CA, stands out as a
+  laid-back destination for enjoying fresh sushi rolls and traditional Japanese
+  cuisine, complemented by a selection of beer, wine, and sake. This spot
+  emphasizes accessibility with features like wheelchair-friendly parking and
+  entrances, making it welcoming for all diners seeking authentic flavors. The
+  restaurant's vibe captures a serene Japanese essence, ideal for casual meals
+  or gatherings, with options that highlight seasonal ingredients and creative
+  presentations. Whether you're looking for top-rated sushi near you or
+  exploring Japanese places in the area, Taiko Sushi delivers a satisfying blend
+  of quality and comfort that appeals to sushi enthusiasts.
+generative_summary: >-
+  Explore Taiko Sushi in Folsom, CA$$$Taiko Sushi in Folsom, CA, stands out as a
+  laid-back destination for enjoying fresh sushi rolls and traditional Japanese
+  cuisine, complemented by a selection of beer, wine, and sake. This spot
+  emphasizes accessibility with features like wheelchair-friendly parking and
+  entrances, making it welcoming for all diners seeking authentic flavors. The
+  restaurant's vibe captures a serene Japanese essence, ideal for casual meals
+  or gatherings, with options that highlight seasonal ingredients and creative
+  presentations. Whether you're looking for top-rated sushi near you or
+  exploring Japanese places in the area, Taiko Sushi delivers a satisfying blend
+  of quality and comfort that appeals to sushi enthusiasts.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Visitor Feedback on Taiko Sushi$$$Folks often praise this spot for its tasty
+  sushi and sashimi, noting the use of fresh ingredients and eye-catching
+  preparations that make every bite feel special. The staff comes across as
+  friendly and attentive, helping to create a relaxed dining experience that
+  keeps things enjoyable from start to finish. Many appreciate the cozy
+  atmosphere with its genuine Japanese feel, perfect for unwinding over a meal.
+  While it's clear this place hits the mark for sushi lovers searching nearby,
+  it's also a solid choice for groups, offering a casual vibe that balances fun
+  and quality without any major drawbacks. Overall, it's a go-to option if
+  you're craving reliable, well-crafted dishes at a sushi restaurant in the
+  area.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +245,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -5,4 +5,5 @@ permalink: /arkansas/fayetteville/
 stateAbbr: AR
 stateName: Arkansas
 cityName: Fayetteville
+
 ---

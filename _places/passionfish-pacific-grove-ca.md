@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Passionfish"
+title: Passionfish
 permalink: /california/pacific-grove/passionfish.html
 stateAbbr: CA
 stateName: California
 cityName: Pacific Grove
 seo:
-  name: "Passionfish"
-  type: Restaurant
+  type: restaurant
   links: http://www.passionfish.net/
-description: "Californian-inspired fare featuring seafood along with hard-to-find wines in a small, modern room. Passionfish serves delicious sushi in Pacific Grove, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, and dinner."
 place_id: ChIJpXXm5EjhjYAR47VvED9RA0M
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $50 &ndash; $100
 rating: '4.6'
 rating_count: 0
 website: http://www.passionfish.net/
+description: >-
+  Discover Passionfish in Pacific Grove, CA$$$Passionfish in Pacific Grove, CA,
+  stands out as an upscale seafood destination emphasizing sustainable and fresh
+  catches. The restaurant offers a modern, inviting atmosphere with organic and
+  gluten-free options that cater to health-conscious diners, making it a go-to
+  spot for quality coastal cuisine. Its commitment to eco-friendly practices and
+  accessibility features ensures a welcoming experience for all guests, from
+  intimate dinners to group outings. Beyond the menu, the focus on hard-to-find
+  wines pairs perfectly with the inventive dishes, creating a memorable meal in
+  a cozy setting. This seafood haven near the coast appeals to those exploring
+  top-rated dining options in the area.
+generative_summary: >-
+  Discover Passionfish in Pacific Grove, CA$$$Passionfish in Pacific Grove, CA,
+  stands out as an upscale seafood destination emphasizing sustainable and fresh
+  catches. The restaurant offers a modern, inviting atmosphere with organic and
+  gluten-free options that cater to health-conscious diners, making it a go-to
+  spot for quality coastal cuisine. Its commitment to eco-friendly practices and
+  accessibility features ensures a welcoming experience for all guests, from
+  intimate dinners to group outings. Beyond the menu, the focus on hard-to-find
+  wines pairs perfectly with the inventive dishes, creating a memorable meal in
+  a cozy setting. This seafood haven near the coast appeals to those exploring
+  top-rated dining options in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJpXXm5EjhjYAR47VvED9RA0M/reviews/ChZDSUhNMG9nS0VJQ0FnTURRcWZDUEN3EAE
@@ -418,6 +439,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNJbk4zVzlBRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNJbk4zVzlBRRAB!2m1!1s0x808de148e4e675a5:0x4303513f106fb5e3
+review_summary: >-
+  What Guests Are Saying$$$Visitors often praise the flavorful seafood dishes at
+  this spot, with standout items like tender scallops and hearty biscuits
+  leaving a strong impression on palates. Service stands out as friendly and
+  attentive, contributing to a relaxed and welcoming vibe that makes evenings
+  feel special without any fuss. While some mention occasional waits during busy
+  times, the overall experience remains enjoyable and worth the visit for the
+  consistent quality. Many appreciate the calm atmosphere and thoughtful
+  touches, like perfectly cooked entrees, making it a solid choice for a
+  satisfying meal. If you're hunting for reliable seafood spots nearby, this
+  place delivers a generally positive dining adventure with fresh flavors and
+  attentive care.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeStreetParking: true
 payment_options:
@@ -447,8 +481,8 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Californian-inspired fare featuring seafood along with hard-to-find wines in a
   small, modern room.
 

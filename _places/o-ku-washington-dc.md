@@ -1,15 +1,14 @@
 ---
 layout: place
-title: "O-Ku"
+title: O-Ku
 permalink: /district-of-columbia/washington/o-ku.html
 stateAbbr: DC
 stateName: District of Columbia
 cityName: Washington
 seo:
-  name: "O-Ku"
-  type: Restaurant
-  links: https://www.o-kusushi.com/location/o-ku-washington-dc/?y_source=1_ODE4NDQwNTctNzE1LWxvY2F0aW9uLndlYnNpdGU%3D
-description: "A menu focused on Japanese robata-style dishes & sushi in an elevated setting with modernist decor. O-Ku serves delicious sushi in Washington, District of Columbia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, and dinner."
+  type: restaurant
+  links: >-
+    https://www.o-kusushi.com/location/o-ku-washington-dc/?y_source=1_ODE4NDQwNTctNzE1LWxvY2F0aW9uLndlYnNpdGU%3D
 place_id: ChIJVzXSswW5t4kRVrNbXqA_Vnw
 photos:
   - name: >-
@@ -185,12 +184,52 @@ rating: '4.6'
 rating_count: 0
 website: >-
   https://www.o-kusushi.com/location/o-ku-washington-dc/?y_source=1_ODE4NDQwNTctNzE1LWxvY2F0aW9uLndlYnNpdGU%3D
+description: >-
+  Discover O-Ku in Washington, DC$$$O-Ku in Washington, DC, stands out as a
+  premier Japanese restaurant, blending fresh sushi and robata-style dishes in a
+  modern, inviting atmosphere that enhances every meal. The menu features a
+  range of flavorful options, including expertly prepared rolls and pairings
+  with beer, wine, and cocktails, making it an ideal spot for casual gatherings
+  or special occasions. Accessibility is a key highlight, with
+  wheelchair-friendly entrances, restrooms, and outdoor seating that welcomes
+  all diners comfortably. Additionally, convenient services like reservations,
+  delivery, and takeout ensure flexibility for enjoying its Japanese-inspired
+  cuisine at your leisure. For those exploring top sushi spots in the area, this
+  location delivers a memorable dining experience with a focus on quality and
+  convenience.
+generative_summary: >-
+  Discover O-Ku in Washington, DC$$$O-Ku in Washington, DC, stands out as a
+  premier Japanese restaurant, blending fresh sushi and robata-style dishes in a
+  modern, inviting atmosphere that enhances every meal. The menu features a
+  range of flavorful options, including expertly prepared rolls and pairings
+  with beer, wine, and cocktails, making it an ideal spot for casual gatherings
+  or special occasions. Accessibility is a key highlight, with
+  wheelchair-friendly entrances, restrooms, and outdoor seating that welcomes
+  all diners comfortably. Additionally, convenient services like reservations,
+  delivery, and takeout ensure flexibility for enjoying its Japanese-inspired
+  cuisine at your leisure. For those exploring top sushi spots in the area, this
+  location delivers a memorable dining experience with a focus on quality and
+  convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - ChdDSUhNMG9nS0VJQ0FnTUNRemUtMDNBRRAB
   - ChdDSUhNMG9nS0VJQ0FnSUQzbEliNXhnRRAB
   - ChZDSUhNMG9nS0VJQ0FnTURBeExTR1BBEAE
   - ChdDSUhNMG9nS0VJQ0FnSUN2NFAzS3NBRRAB
   - ChZDSUhNMG9nS0VJQ0FnSURia3Bma0pBEAE
+review_summary: >-
+  What Visitors Are Saying$$$Based on the high ratings and feedback from recent
+  visitors, O-Ku comes across as a go-to choice for fresh sushi and satisfying
+  Japanese flavors that keep people coming back. Many appreciate the welcoming
+  vibe and solid selection of dishes, noting how the attentive service and cozy
+  setting make for a relaxed outing. While some mention minor waits during peak
+  times, the overall consensus highlights the great value and taste that exceed
+  expectations for a moderate-priced meal. Folks often rave about the variety of
+  options that cater to groups, emphasizing the outdoor seating and drink
+  choices as added perks. All in all, it's clear that this spot maintains a
+  positive reputation for delivering enjoyable experiences that make it worth
+  checking out for sushi enthusiasts in the neighborhood.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -222,8 +261,8 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   A menu focused on Japanese robata-style dishes & sushi in an elevated setting
   with modernist decor.
 

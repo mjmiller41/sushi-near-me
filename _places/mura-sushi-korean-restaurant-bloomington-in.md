@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Mura Sushi & Korean Restaurant (무라 스시 & 한식당)"
+title: Mura Sushi & Korean Restaurant (무라 스시 & 한식당)
 permalink: /indiana/bloomington/mura-sushi-korean-restaurant.html
 stateAbbr: IN
 stateName: Indiana
 cityName: Bloomington
 seo:
-  name: "Mura Sushi & Korean Restaurant (무라 스시 & 한식당)"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Mura Sushi & Korean Restaurant (무라 스시 & 한식당) serves delicious sushi in Bloomington, Indiana. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ90QG7XxnbIgRDf-NHIKeOtA
 photos:
   - name: >-
@@ -170,8 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x886c677ced0644f7:0xd03a9e821c8dff0d!10e5
 primary_type: Korean Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 23
+        minute: 0
+    - open:
+        day: 2
+        hour: 12
+        minute: 0
+      close:
+        day: 2
+        hour: 23
+        minute: 30
+    - open:
+        day: 3
+        hour: 12
+        minute: 0
+      close:
+        day: 3
+        hour: 23
+        minute: 30
+    - open:
+        day: 4
+        hour: 12
+        minute: 0
+      close:
+        day: 4
+        hour: 23
+        minute: 30
+    - open:
+        day: 5
+        hour: 12
+        minute: 0
+      close:
+        day: 5
+        hour: 23
+        minute: 30
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 23
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: Closed'
+    - 'Tuesday: 12:00 – 11:30 PM'
+    - 'Wednesday: 12:00 – 11:30 PM'
+    - 'Thursday: 12:00 – 11:30 PM'
+    - 'Friday: 12:00 – 11:30 PM'
+    - 'Saturday: 12:00 – 11:30 PM'
+    - 'Sunday: 12:00 – 11:00 PM'
+  nextCloseTime: '2025-05-04T03:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +234,51 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
+phone: (812) 369-4448
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.5'
+rating_count: 95
 website: null
+description: >-
+  Explore Mura Sushi in Bloomington, IN$$$Mura Sushi & Korean Restaurant in
+  Bloomington, IN, is a welcoming spot for enjoying authentic Japanese and
+  Korean flavors in a laid-back atmosphere. This sushi restaurant near you
+  features a menu with fresh sushi rolls, hearty ramen, and other traditional
+  fare, all prepared with care in a relaxed setting that invites casual dining.
+  Accessibility is a key highlight, with options like wheelchair-accessible
+  parking and entrances making it easy for everyone to enjoy a meal. Whether
+  you're looking for top-rated sushi spots or Japanese places close to you, the
+  variety of dishes ensures something for every palate. Open most days from noon
+  until late evening, it's an ideal choice for a satisfying lunch or dinner
+  outing.
+generative_summary: >-
+  Explore Mura Sushi in Bloomington, IN$$$Mura Sushi & Korean Restaurant in
+  Bloomington, IN, is a welcoming spot for enjoying authentic Japanese and
+  Korean flavors in a laid-back atmosphere. This sushi restaurant near you
+  features a menu with fresh sushi rolls, hearty ramen, and other traditional
+  fare, all prepared with care in a relaxed setting that invites casual dining.
+  Accessibility is a key highlight, with options like wheelchair-accessible
+  parking and entrances making it easy for everyone to enjoy a meal. Whether
+  you're looking for top-rated sushi spots or Japanese places close to you, the
+  variety of dishes ensures something for every palate. Open most days from noon
+  until late evening, it's an ideal choice for a satisfying lunch or dinner
+  outing.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback Highlights$$$Visitors to this sushi spot often praise the
+  fresh and flavorful dishes that make it stand out among local options. Many
+  note that the sushi and Korean specialties deliver a great balance of taste
+  and quality, earning it high marks for authenticity and value. While some
+  mention occasional waits during peak times, the overall experience is
+  frequently described as enjoyable and worth returning for, with friendly
+  service adding to the appeal. If you're hunting for the best sushi near me,
+  this place consistently gets nods for its generous portions and welcoming
+  vibe, making it a solid pick for groups or solo diners. All in all, it's a
+  reliable choice that keeps things positive without overpromising, based on the
+  buzz from regular patrons.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +304,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

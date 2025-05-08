@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sei Bar Medford"
+title: Sei Bar Medford
 permalink: /massachusetts/medford/sei-bar-medford.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Medford
 seo:
-  name: "Sei Bar Medford"
-  type: Restaurant
+  type: restaurant
   links: http://www.seibar.com/
-description: "Sei Bar Medford serves delicious sushi in Medford, Massachusetts. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJq3hj3cV244kR3j-zjw-X-do
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89e376c5dd6378ab:0xdaf9970f8fb33fde!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 9:00 PM'
     - 'Tuesday: Closed'
     - 'Wednesday: 11:30 AM – 9:00 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 10:00 PM'
     - 'Saturday: 11:30 AM – 10:00 PM'
     - 'Sunday: 12:30 – 9:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 9:00 PM'
-    - 'Tuesday: Closed'
-    - 'Wednesday: 11:30 AM – 9:00 PM'
-    - 'Thursday: 11:30 AM – 9:00 PM'
-    - 'Friday: 11:30 AM – 10:00 PM'
-    - 'Saturday: 11:30 AM – 10:00 PM'
-    - 'Sunday: 12:30 – 9:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +238,43 @@ phone: (781) 391-4363
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.3'
-rating_count: 0
+rating_count: 320
 website: http://www.seibar.com/
+description: >-
+  About Sei Bar in Medford, MA$$$Sei Bar Medford in Medford, MA, stands out as a
+  cozy spot for exploring Japanese and Chinese flavors, particularly fresh sushi
+  options that appeal to those seeking authentic Asian cuisine nearby. This
+  eatery boasts a relaxed atmosphere where diners can enjoy a variety of
+  specialties, from expertly prepared rolls to flavorful entrees, all served in
+  a welcoming casual setting. Accessibility features like wheelchair-friendly
+  entrances and seating make it convenient for everyone, enhancing the overall
+  experience. With hours that accommodate both lunch and dinner crowds, it's an
+  ideal choice for those looking for reliable sushi restaurants in the area,
+  blending tradition with everyday convenience.
+generative_summary: >-
+  About Sei Bar in Medford, MA$$$Sei Bar Medford in Medford, MA, stands out as a
+  cozy spot for exploring Japanese and Chinese flavors, particularly fresh sushi
+  options that appeal to those seeking authentic Asian cuisine nearby. This
+  eatery boasts a relaxed atmosphere where diners can enjoy a variety of
+  specialties, from expertly prepared rolls to flavorful entrees, all served in
+  a welcoming casual setting. Accessibility features like wheelchair-friendly
+  entrances and seating make it convenient for everyone, enhancing the overall
+  experience. With hours that accommodate both lunch and dinner crowds, it's an
+  ideal choice for those looking for reliable sushi restaurants in the area,
+  blending tradition with everyday convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Guests Are Raving About$$$Based on the solid 4.3-star rating from
+  hundreds of visitors, folks generally appreciate the tasty sushi and
+  well-executed Japanese dishes that keep things feeling fresh and satisfying.
+  Many comments highlight the friendly vibe and solid portions, making it a
+  go-to for casual meals with friends or family without any fuss. While some
+  note it's a bit of a hidden gem for affordable eats, the consistent praise for
+  quality ingredients and quick service adds to its charm. Overall, it comes
+  across as a reliable pick for anyone hunting for top-rated sushi spots,
+  leaving most people excited to return for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +300,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

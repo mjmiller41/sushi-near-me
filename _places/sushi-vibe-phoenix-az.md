@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Vibe"
+title: Sushi Vibe
 permalink: /arizona/phoenix/sushi-vibe.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Phoenix
 seo:
-  name: "Sushi Vibe"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi Vibe serves delicious sushi in Phoenix, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJK1wlHr4TK4cR9yjAxE-OR24
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x872b13be1e255c2b:0x6e478e4fc4c028f7!10e5
 primary_type: Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 23
+        minute: 45
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 23
+        minute: 45
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 10:00 PM'
     - 'Tuesday: 11:00 AM – 10:00 PM'
     - 'Wednesday: 11:00 AM – 10:00 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 11:45 PM'
     - 'Saturday: 11:00 AM – 11:45 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:00 AM – 10:00 PM'
-    - 'Tuesday: 11:00 AM – 10:00 PM'
-    - 'Wednesday: 11:00 AM – 10:00 PM'
-    - 'Thursday: 11:00 AM – 10:00 PM'
-    - 'Friday: 11:00 AM – 11:45 PM'
-    - 'Saturday: 11:00 AM – 11:45 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T06:45:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +238,277 @@ phone: (602) 279-5299
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.5'
-rating_count: 0
+rating_count: 461
 website: null
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Explore Sushi Vibe in Phoenix, AZ$$$Sushi Vibe in Phoenix, AZ, offers a
+  welcoming atmosphere perfect for enjoying fresh sushi options in a cozy
+  setting. This spot stands out with its wide array of rolls and sashimi,
+  complemented by a selection of beverages like beer, wine, and sake, making it
+  ideal for casual meals or relaxed evenings. Accessibility features such as
+  wheelchair-friendly parking and seating add to the convenience, ensuring
+  everyone can savor the experience. The restaurant's extended hours, including
+  late-night options on weekends, make it a go-to choice for those seeking
+  quality sushi restaurants in the area. With its modern vibe and thoughtful
+  details, it's a great pick for anyone exploring top-rated sushi spots nearby.
+generative_summary: >-
+  Explore Sushi Vibe in Phoenix, AZ$$$Sushi Vibe in Phoenix, AZ, offers a
+  welcoming atmosphere perfect for enjoying fresh sushi options in a cozy
+  setting. This spot stands out with its wide array of rolls and sashimi,
+  complemented by a selection of beverages like beer, wine, and sake, making it
+  ideal for casual meals or relaxed evenings. Accessibility features such as
+  wheelchair-friendly parking and seating add to the convenience, ensuring
+  everyone can savor the experience. The restaurant's extended hours, including
+  late-night options on weekends, make it a go-to choice for those seeking
+  quality sushi restaurants in the area. With its modern vibe and thoughtful
+  details, it's a great pick for anyone exploring top-rated sushi spots nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJK1wlHr4TK4cR9yjAxE-OR24/reviews/ChZDSUhNMG9nS0VJQ0FnSUR2OFpPY0pBEAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 3
+    text:
+      text: >-
+        We stopped here for dinner mid week, and even though it was slow, the
+        service was relatively fast. I ordered a miso soup that arrived almost
+        cold, but I was so hungry I still attempted to eat it. The sushi rolls
+        we ordered seemed pretty average compared to the other locations
+        associated with Sushi Vibe.
+      languageCode: en
+    originalText:
+      text: >-
+        We stopped here for dinner mid week, and even though it was slow, the
+        service was relatively fast. I ordered a miso soup that arrived almost
+        cold, but I was so hungry I still attempted to eat it. The sushi rolls
+        we ordered seemed pretty average compared to the other locations
+        associated with Sushi Vibe.
+      languageCode: en
+    authorAttribution:
+      displayName: Jess
+      uri: https://www.google.com/maps/contrib/117523958814800743555/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUa4pOT0nSN_4A_z1H1LRgg444t-LedTDgKaADfsps8lmr0izP2=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-12-21T13:51:22.374493Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR2OFpPY0pBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR2OFpPY0pBEAE!2m1!1s0x872b13be1e255c2b:0x6e478e4fc4c028f7
+  - name: >-
+      places/ChIJK1wlHr4TK4cR9yjAxE-OR24/reviews/ChdDSUhNMG9nS0VJQ0FnTURvbXNxVDF3RRAB
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        This is a good sushi spot, and I’ll tell you what’s good about it after
+        I say one thing. It’s not the best sushi in the valley.
+
+
+        But that’s not always what you’re looking for.
+
+
+        They have an amazing set of lunch specials, so lunch is quick and pretty
+        darned cheap for what it is. Bento box for those who want to be less
+        sushi forward, and sushi specials for the sushi folk. The sushi and food
+        is always consistent.
+
+
+        Similarly, their happy hour menu is available for a lot longer than
+        most. Not as good a deal as the lunch menu, but it’s still not bad.
+
+
+        They’re also open fairly late in an area that tends to close down early,
+        so a late drink or bite is a possibility.
+
+
+        I usually like to sit at the bar. The bartenders are nice, and they know
+        how to make a real martini. The TVs aren’t as well curated as one could
+        hope, but it’s not a sports bar.
+
+
+        If you want the best sushi in the valley, you can find it elsewhere, but
+        if you want a great deal on quality food with nice people and a good
+        bar, you can find it here.
+
+
+        Also, I wish they had online ordering for takeout, but their website is
+        just their menu.
+      languageCode: en
+    originalText:
+      text: >-
+        This is a good sushi spot, and I’ll tell you what’s good about it after
+        I say one thing. It’s not the best sushi in the valley.
+
+
+        But that’s not always what you’re looking for.
+
+
+        They have an amazing set of lunch specials, so lunch is quick and pretty
+        darned cheap for what it is. Bento box for those who want to be less
+        sushi forward, and sushi specials for the sushi folk. The sushi and food
+        is always consistent.
+
+
+        Similarly, their happy hour menu is available for a lot longer than
+        most. Not as good a deal as the lunch menu, but it’s still not bad.
+
+
+        They’re also open fairly late in an area that tends to close down early,
+        so a late drink or bite is a possibility.
+
+
+        I usually like to sit at the bar. The bartenders are nice, and they know
+        how to make a real martini. The TVs aren’t as well curated as one could
+        hope, but it’s not a sports bar.
+
+
+        If you want the best sushi in the valley, you can find it elsewhere, but
+        if you want a great deal on quality food with nice people and a good
+        bar, you can find it here.
+
+
+        Also, I wish they had online ordering for takeout, but their website is
+        just their menu.
+      languageCode: en
+    authorAttribution:
+      displayName: Chris Brown
+      uri: https://www.google.com/maps/contrib/115047950478507677805/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIrnlea9V7Z5k-Ah1-03g4dv4rhy62-oekuvHpM3rFcH2AiPQ=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-23T22:52:52.960308Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURvbXNxVDF3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURvbXNxVDF3RRAB!2m1!1s0x872b13be1e255c2b:0x6e478e4fc4c028f7
+  - name: >-
+      places/ChIJK1wlHr4TK4cR9yjAxE-OR24/reviews/ChdDSUhNMG9nS0VJQ0FnSUNseHJ5VHVnRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 4
+    text:
+      text: >-
+        The food is good. The appetizers came out quickly and fresh. The happy
+        hour sake bombs were a hit. The sushi was not bad. We ordered several
+        rolls. A few were loose and fell apart, but the flavor did not
+        disappoint. The service was good. Our waitress was prompt and attentive.
+        This is not a bad happy hour spot.
+      languageCode: en
+    originalText:
+      text: >-
+        The food is good. The appetizers came out quickly and fresh. The happy
+        hour sake bombs were a hit. The sushi was not bad. We ordered several
+        rolls. A few were loose and fell apart, but the flavor did not
+        disappoint. The service was good. Our waitress was prompt and attentive.
+        This is not a bad happy hour spot.
+      languageCode: en
+    authorAttribution:
+      displayName: Hannah Rae
+      uri: https://www.google.com/maps/contrib/110683690695164325555/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWd8yoJ0pN7PtIVdD13VAGf-thIPikEhfYH5-hoyJZ-F718cx2S=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2023-11-17T07:39:03.717717Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNseHJ5VHVnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNseHJ5VHVnRRAB!2m1!1s0x872b13be1e255c2b:0x6e478e4fc4c028f7
+  - name: >-
+      places/ChIJK1wlHr4TK4cR9yjAxE-OR24/reviews/ChdDSUhNMG9nS0VJQ0FnSUQzMUtlbHdRRRAB
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        One of my favorite places to eat!!! The prices are fair and the service
+        is generally quick. I recommend sushi vibe to anyone on a budget. It’s a
+        nice first date kinda thang as it is in beautiful uptown Phoenix.
+      languageCode: en
+    originalText:
+      text: >-
+        One of my favorite places to eat!!! The prices are fair and the service
+        is generally quick. I recommend sushi vibe to anyone on a budget. It’s a
+        nice first date kinda thang as it is in beautiful uptown Phoenix.
+      languageCode: en
+    authorAttribution:
+      displayName: Foodie “The gift of Gab” Musician
+      uri: https://www.google.com/maps/contrib/113320654621301645443/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXYgrnO1f4l-Wr9kdYDtY1AX0-T7l09NjKVxq6RHmlX_j-vqKCQ=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-11-12T15:12:03.469453Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQzMUtlbHdRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQzMUtlbHdRRRAB!2m1!1s0x872b13be1e255c2b:0x6e478e4fc4c028f7
+  - name: >-
+      places/ChIJK1wlHr4TK4cR9yjAxE-OR24/reviews/ChdDSUhNMG9nS0VJQ0FnTURRbEtISzVRRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Love this place. Found it after a bad experience at another sushi place.
+        Been back 3x since. Absolutely great sushi. Comes out fast and is always
+        delicious. Haven’t met a roll we didn’t like. Great all the way around.
+        Can’t wait to go back
+      languageCode: en
+    originalText:
+      text: >-
+        Love this place. Found it after a bad experience at another sushi place.
+        Been back 3x since. Absolutely great sushi. Comes out fast and is always
+        delicious. Haven’t met a roll we didn’t like. Great all the way around.
+        Can’t wait to go back
+      languageCode: en
+    authorAttribution:
+      displayName: Darrell Mandy Bellamy
+      uri: https://www.google.com/maps/contrib/107960453401560613660/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXpMZ0CEAeV-aHxNd7tj-nhGt3N8ZnbZG2GUIL-IMIWx_Gibkc=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-09T04:19:58.730568Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURRbEtISzVRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURRbEtISzVRRRAB!2m1!1s0x872b13be1e255c2b:0x6e478e4fc4c028f7
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors often praise Sushi Vibe for its tasty
+  rolls and reliable flavors that hit the spot without breaking the bank, making
+  it a solid pick for affordable sushi adventures. Many highlight the fantastic
+  lunch and happy hour deals that keep things quick and enjoyable, especially
+  for groups or casual get-togethers. While a few mentions note minor
+  inconsistencies like temperature issues with appetizers, the overall service
+  stands out as friendly and efficient, enhancing the laid-back dining vibe.
+  Folks appreciate the convenient location in Phoenix for easy access, turning
+  it into a favorite for repeat visits when craving fresh bites. All in all,
+  it's a welcoming place that delivers good value and a positive experience for
+  sushi enthusiasts exploring local options.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
+curbside_pickup: false
+delivery: false
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: true
 reservable: null
-restroom: null
-serves_beer: null
+restroom: true
+serves_beer: true
 serves_breakfast: null
 serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_cocktails: true
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: false
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

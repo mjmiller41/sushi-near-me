@@ -5,4 +5,5 @@ permalink: /kentucky/newport/
 stateAbbr: KY
 stateName: Kentucky
 cityName: Newport
+
 ---

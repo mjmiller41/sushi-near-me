@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kabuto Sushi and Teppanyaki"
+title: Kabuto Sushi and Teppanyaki
 permalink: /virginia/charlottesville/kabuto-sushi-and-teppanyaki.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Charlottesville
 seo:
-  name: "Kabuto Sushi and Teppanyaki"
-  type: Restaurant
+  type: restaurant
   links: http://www.kabutosushipantops.com/
-description: "Kabuto Sushi and Teppanyaki serves delicious sushi in Charlottesville, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJhy6vxO-Is4kReLJSfMFCTXE
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $10 &ndash; $20
 rating: '4.3'
 rating_count: 0
 website: http://www.kabutosushipantops.com/
+description: >-
+  Discover Kabuto Sushi and Teppanyaki in Charlottesville, VA$$$Kabuto Sushi and
+  Teppanyaki in Charlottesville, VA, offers a relaxed dining experience centered
+  around flavorful hibachi meals and an array of fresh sushi rolls, making it a
+  go-to spot for Japanese cuisine enthusiasts. The restaurant features a
+  laid-back atmosphere perfect for casual lunches or dinners, with options that
+  cater to various tastes including vegetarian dishes and family-friendly meals.
+  Accessibility is a highlight, with wheelchair-friendly parking, entrances, and
+  seating that ensure everyone can enjoy the experience comfortably.
+  Additionally, the spot provides convenient services like takeout and delivery,
+  enhancing its appeal for those seeking quality sushi options nearby. Its
+  moderate pricing adds to the value, making it an inviting choice for anyone
+  exploring top-rated Japanese places in the area.
+generative_summary: >-
+  Discover Kabuto Sushi and Teppanyaki in Charlottesville, VA$$$Kabuto Sushi and
+  Teppanyaki in Charlottesville, VA, offers a relaxed dining experience centered
+  around flavorful hibachi meals and an array of fresh sushi rolls, making it a
+  go-to spot for Japanese cuisine enthusiasts. The restaurant features a
+  laid-back atmosphere perfect for casual lunches or dinners, with options that
+  cater to various tastes including vegetarian dishes and family-friendly meals.
+  Accessibility is a highlight, with wheelchair-friendly parking, entrances, and
+  seating that ensure everyone can enjoy the experience comfortably.
+  Additionally, the spot provides convenient services like takeout and delivery,
+  enhancing its appeal for those seeking quality sushi options nearby. Its
+  moderate pricing adds to the value, making it an inviting choice for anyone
+  exploring top-rated Japanese places in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJhy6vxO-Is4kReLJSfMFCTXE/reviews/ChdDSUhNMG9nS0VJQ0FnSUNib2MzazR3RRAB
@@ -316,6 +341,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURYakwzWjZBRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURYakwzWjZBRRAB!2m1!1s0x89b388efc4af2e87:0x714d42c17c52b278
+review_summary: >-
+  Insights from Recent Feedback$$$Folks rave about the friendly service and
+  quick turnaround at this spot, often highlighting how it makes for a welcoming
+  meal whether you're grabbing lunch specials or enjoying hibachi dishes. Many
+  appreciate the fresh flavors in the sushi rolls and other offerings, noting
+  that the portions feel generous and satisfying without breaking the bank.
+  Customers frequently mention the consistent quality over the years, with the
+  cozy vibe and efficient staff turning visits into enjoyable routines. While
+  some find the hibachi standard, overall sentiments lean positive, praising it
+  as a reliable choice for groups or families looking for tasty Japanese fare.
+  If you're hunting for great sushi near you, this place often comes through
+  with solid, crowd-pleasing results that keep diners coming back.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -349,7 +387,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

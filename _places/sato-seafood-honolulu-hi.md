@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sato Seafood"
+title: Sato Seafood
 permalink: /hawaii/honolulu/sato-seafood.html
 stateAbbr: HI
 stateName: Hawaii
 cityName: Honolulu
 seo:
-  name: "Sato Seafood"
-  type: Restaurant
+  type: restaurant
   links: https://www.instagram.com/satoseafood808/
-description: "Sato Seafood serves delicious sushi in Honolulu, Hawaii. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJFwvGmU5tAHwRnJoJ8bt9-x0
 photos:
   - name: >-
@@ -152,7 +150,6 @@ neighborhood: Waikiki
 latitude: '21.279672'
 longitude: '-157.826138'
 accessibility_options:
-  wheelchairAccessibleEntrance: true
   wheelchairAccessibleSeating: true
 business_status: OPERATIONAL
 name: Sato Seafood
@@ -168,7 +165,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x7c006d4e99c60b17:0x1dfb7dbbf1099a9c!10e5
 primary_type: American Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 7
+        minute: 30
+      close:
+        day: 0
+        hour: 20
+        minute: 30
+    - open:
+        day: 1
+        hour: 7
+        minute: 30
+      close:
+        day: 1
+        hour: 20
+        minute: 30
+    - open:
+        day: 2
+        hour: 7
+        minute: 30
+      close:
+        day: 2
+        hour: 20
+        minute: 30
+    - open:
+        day: 3
+        hour: 7
+        minute: 30
+      close:
+        day: 3
+        hour: 20
+        minute: 30
+    - open:
+        day: 4
+        hour: 7
+        minute: 30
+      close:
+        day: 4
+        hour: 20
+        minute: 30
+    - open:
+        day: 5
+        hour: 7
+        minute: 30
+      close:
+        day: 5
+        hour: 20
+        minute: 30
+    - open:
+        day: 6
+        hour: 7
+        minute: 30
+      close:
+        day: 6
+        hour: 20
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 7:30 AM – 8:30 PM'
     - 'Tuesday: 7:30 AM – 8:30 PM'
     - 'Wednesday: 7:30 AM – 8:30 PM'
@@ -176,14 +231,7 @@ opening_hours:
     - 'Friday: 7:30 AM – 8:30 PM'
     - 'Saturday: 7:30 AM – 8:30 PM'
     - 'Sunday: 7:30 AM – 8:30 PM'
-  current:
-    - 'Monday: 7:30 AM – 8:30 PM'
-    - 'Tuesday: 7:30 AM – 8:30 PM'
-    - 'Wednesday: 7:30 AM – 8:30 PM'
-    - 'Thursday: 7:30 AM – 8:30 PM'
-    - 'Friday: 7:30 AM – 8:30 PM'
-    - 'Saturday: 7:30 AM – 8:30 PM'
-    - 'Sunday: 7:30 AM – 8:30 PM'
+  nextCloseTime: '2025-05-04T06:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -195,35 +243,261 @@ phone: (808) 628-8008
 price_level: null
 price_range: $10 &ndash; $20
 rating: '4.5'
-rating_count: 0
+rating_count: 500
 website: https://www.instagram.com/satoseafood808/
-reviews: null
+description: >-
+  Explore Sato Seafood in Honolulu, HI$$$Sato Seafood in Honolulu, HI, offers a
+  laid-back vibe perfect for enjoying fresh Hawaiian poke bowls and hand-held
+  sushi rolls in a casual setting. This spot stands out for its customizable
+  options, allowing diners to mix flavors that blend sweet, savory, and spicy
+  elements, all made with high-quality ingredients that highlight the best of
+  local seafood. With a few outdoor tables for al fresco dining, it's an ideal
+  choice for those seeking sushi places near me in the Waikiki neighborhood,
+  especially after a day of exploring. The operation maintains a welcoming
+  atmosphere that's easy to access, making it a go-to for anyone craving
+  top-rated sushi in a relaxed environment. Open daily from early morning, it
+  provides a convenient stop for both quick meals and satisfying poke
+  experiences that capture the essence of island cuisine.
+generative_summary: >-
+  Explore Sato Seafood in Honolulu, HI$$$Sato Seafood in Honolulu, HI, offers a
+  laid-back vibe perfect for enjoying fresh Hawaiian poke bowls and hand-held
+  sushi rolls in a casual setting. This spot stands out for its customizable
+  options, allowing diners to mix flavors that blend sweet, savory, and spicy
+  elements, all made with high-quality ingredients that highlight the best of
+  local seafood. With a few outdoor tables for al fresco dining, it's an ideal
+  choice for those seeking sushi places near me in the Waikiki neighborhood,
+  especially after a day of exploring. The operation maintains a welcoming
+  atmosphere that's easy to access, making it a go-to for anyone craving
+  top-rated sushi in a relaxed environment. Open daily from early morning, it
+  provides a convenient stop for both quick meals and satisfying poke
+  experiences that capture the essence of island cuisine.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJFwvGmU5tAHwRnJoJ8bt9-x0/reviews/ChZDSUhNMG9nS0VJQ0FnSUNfMWUteEJ3EAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        Fantastic poke and hand rolls. The poke is tender and melts in your
+        mouth. The salmon as well. The flavor combinations on their special
+        bowls are on point and give the right mix of sweet, savory, and spicy.
+
+
+        The hand rolls are fresh and crisp seaweed. There is also filling
+        throughout the entire roll.
+
+
+        Best poke we have had in Honolulu, and is extremely consistent in having
+        the same experience 4 times.
+      languageCode: en
+    originalText:
+      text: >-
+        Fantastic poke and hand rolls. The poke is tender and melts in your
+        mouth. The salmon as well. The flavor combinations on their special
+        bowls are on point and give the right mix of sweet, savory, and spicy.
+
+
+        The hand rolls are fresh and crisp seaweed. There is also filling
+        throughout the entire roll.
+
+
+        Best poke we have had in Honolulu, and is extremely consistent in having
+        the same experience 4 times.
+      languageCode: en
+    authorAttribution:
+      displayName: Michael Christensen
+      uri: https://www.google.com/maps/contrib/103855622882766287101/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVwdw1eyRF5b65dqm3GlFyBbEewzT3xPB6SmiLVlvGfYsBzgkZG=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-01-17T22:31:47.418146Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNfMWUteEJ3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNfMWUteEJ3EAE!2m1!1s0x7c006d4e99c60b17:0x1dfb7dbbf1099a9c
+  - name: >-
+      places/ChIJFwvGmU5tAHwRnJoJ8bt9-x0/reviews/ChZDSUhNMG9nS0VJQ0FnSUNmanFpM0NnEAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        You know the poke’s good when you visit the place twice during one trip
+        🤣 TRY THE MACADAMIA ABURI SALMON POKE‼️‼️‼️ On my soul, you’ll love it.
+        The smoky flavor is so unique, and that sauce? Perfectly balanced.
+        Easily top 3 poke spots I’ve tried this year.
+      languageCode: en
+    originalText:
+      text: >-
+        You know the poke’s good when you visit the place twice during one trip
+        🤣 TRY THE MACADAMIA ABURI SALMON POKE‼️‼️‼️ On my soul, you’ll love it.
+        The smoky flavor is so unique, and that sauce? Perfectly balanced.
+        Easily top 3 poke spots I’ve tried this year.
+      languageCode: en
+    authorAttribution:
+      displayName: G
+      uri: https://www.google.com/maps/contrib/103696282926790559047/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUPbvPpHFZhTvdvzqAeSl1maIF76Rkmgp2HOHFbTiYaLQn0-48SKg=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-12-29T01:32:46.716027Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNmanFpM0NnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNmanFpM0NnEAE!2m1!1s0x7c006d4e99c60b17:0x1dfb7dbbf1099a9c
+  - name: >-
+      places/ChIJFwvGmU5tAHwRnJoJ8bt9-x0/reviews/ChZDSUhNMG9nS0VJQ0FnSUR2cTlLekNBEAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        Wonderful Poke and handrolls! The service is excellent and the food is
+        delicious! Hard to find this place as it's always blocked by the line up
+        for the Udon restaurant. But the food here is amazing! There are two
+        tables outside but this food is easy to take out and eat on the go.
+        Highly recommend!
+      languageCode: en
+    originalText:
+      text: >-
+        Wonderful Poke and handrolls! The service is excellent and the food is
+        delicious! Hard to find this place as it's always blocked by the line up
+        for the Udon restaurant. But the food here is amazing! There are two
+        tables outside but this food is easy to take out and eat on the go.
+        Highly recommend!
+      languageCode: en
+    authorAttribution:
+      displayName: Philip Chao
+      uri: https://www.google.com/maps/contrib/112338245870906533942/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUpmsUGIAv-JfQ_evHgJr3sWA4vygfQSuzdH5R5DGCum2urYsaG=s128-c0x00000000-cc-rp-mo-ba7
+    publishTime: '2024-12-24T05:53:03.694249Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR2cTlLekNBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR2cTlLekNBEAE!2m1!1s0x7c006d4e99c60b17:0x1dfb7dbbf1099a9c
+  - name: >-
+      places/ChIJFwvGmU5tAHwRnJoJ8bt9-x0/reviews/ChdDSUhNMG9nS0VJQ0FnSURfNzhMU3B3RRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 3
+    text:
+      text: >-
+        Extremely overpriced for the amount you get. Rice was hard and clumpy.
+
+
+        Fish was fresh but cut into too-tiny cubes and the sauces weren’t
+        interesting or special.
+
+
+        wasn’t impressed with the wasabi salmon or the crunch recommended bowl,
+        way better Poke in Honolulu
+      languageCode: en
+    originalText:
+      text: >-
+        Extremely overpriced for the amount you get. Rice was hard and clumpy.
+
+
+        Fish was fresh but cut into too-tiny cubes and the sauces weren’t
+        interesting or special.
+
+
+        wasn’t impressed with the wasabi salmon or the crunch recommended bowl,
+        way better Poke in Honolulu
+      languageCode: en
+    authorAttribution:
+      displayName: Victoria
+      uri: https://www.google.com/maps/contrib/105323676993490918248/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKR7LxkQ5AFy_JVimkj80CTaAF0y_aGG772N8y70g7AbMfocbM=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-01-28T09:17:18.595591Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURfNzhMU3B3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURfNzhMU3B3RRAB!2m1!1s0x7c006d4e99c60b17:0x1dfb7dbbf1099a9c
+  - name: >-
+      places/ChIJFwvGmU5tAHwRnJoJ8bt9-x0/reviews/ChdDSUhNMG9nS0VJQ0FnSUR2OC1QMV9nRRAB
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        AMAZING HOLE IN THE WALL! This place gets a glowing recommendation from
+        me. As a local born and raised and hearing the lack of “authentic
+        places” on the island, try this spot to prove them wrong. For the one
+        item I’ve tried in particular: the macadamia aburi salmon bowl. It’s
+        incredible. Imagine Genki Sushi’s seared salmon nigiri, but increase the
+        quality and amount by a lot. The service is great, there are some seats
+        out front to enjoy your meal, and it definitely beats waiting in the
+        Marugame line if you’re in the area. It was so ono I went there on back
+        to back days. Can’t speak much for the rest of the items there, but the
+        macadamia aburi salmon bowl is one you cannot pass up on.
+      languageCode: en
+    originalText:
+      text: >-
+        AMAZING HOLE IN THE WALL! This place gets a glowing recommendation from
+        me. As a local born and raised and hearing the lack of “authentic
+        places” on the island, try this spot to prove them wrong. For the one
+        item I’ve tried in particular: the macadamia aburi salmon bowl. It’s
+        incredible. Imagine Genki Sushi’s seared salmon nigiri, but increase the
+        quality and amount by a lot. The service is great, there are some seats
+        out front to enjoy your meal, and it definitely beats waiting in the
+        Marugame line if you’re in the area. It was so ono I went there on back
+        to back days. Can’t speak much for the rest of the items there, but the
+        macadamia aburi salmon bowl is one you cannot pass up on.
+      languageCode: en
+    authorAttribution:
+      displayName: Anthony Lee
+      uri: https://www.google.com/maps/contrib/104941841494852880565/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXq_Hvehnzbe1Jv3H2_QxT5JmLYSLeAFrB-Reic5_6Nr2O7dNxS=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-12-24T01:09:27.108361Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR2OC1QMV9nRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR2OC1QMV9nRRAB!2m1!1s0x7c006d4e99c60b17:0x1dfb7dbbf1099a9c
+review_summary: >-
+  Insights from Customer Feedback$$$Visitors to Sato Seafood often rave about
+  the fresh poke bowls and hand rolls, noting their tender fish and
+  well-balanced flavors that make for a satisfying meal on the go. Many
+  appreciate the consistent quality and unique combinations, like smoky salmon
+  options that add a special twist to traditional dishes, making it a standout
+  among Japanese places near me. While a few mention that portions might feel
+  pricey for the amount, the overall consensus highlights excellent service and
+  the ease of takeout, turning it into a reliable favorite for locals and
+  tourists alike. Folks frequently describe the experience as authentic and
+  enjoyable, with the outdoor seating adding to the charm for casual bites. All
+  in all, it's a solid pick for anyone hunting for best sushi near me,
+  delivering a mix of freshness and flavor that keeps people coming back for
+  more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
-payment_options: null
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
+curbside_pickup: false
+delivery: true
+dine_in: true
+good_for_children: true
 good_for_groups: null
-good_for_sports: null
-live_music: null
+good_for_sports: false
+live_music: false
 menu_for_children: null
-outdoor_seating: null
+outdoor_seating: true
 reservable: null
 restroom: null
-serves_beer: null
+serves_beer: false
 serves_breakfast: null
 serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_cocktails: false
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: false
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Easygoing operation turning out customizable poke bowls & hand-held sushi
+  rolls.
 
 ---

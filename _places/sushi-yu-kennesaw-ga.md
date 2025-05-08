@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Yu"
+title: Sushi Yu
 permalink: /georgia/kennesaw/sushi-yu.html
 stateAbbr: GA
 stateName: Georgia
 cityName: Kennesaw
 seo:
-  name: "Sushi Yu"
-  type: Restaurant
+  type: restaurant
   links: https://www.sushiyukennesaw.com/
-description: "Informal sushi bar offering classic sushi rolls, with all-you-can-eat menus at lunch & dinner. Sushi Yu serves delicious sushi in Kennesaw, Georgia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJfYylsSEV9YgRnOWpqeIIwTI
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $20 &ndash; $30
 rating: '4.1'
 rating_count: 0
 website: https://www.sushiyukennesaw.com/
+description: >-
+  Experience Sushi Yu in Kennesaw, GA$$$Sushi Yu in Kennesaw, GA, offers a
+  relaxed dining experience centered around all-you-can-eat sushi and
+  hibachi-grilled options, making it a go-to spot for fresh Japanese cuisine in
+  the area. The laid-back atmosphere features comforting elements like a
+  fireplace, enhancing the cozy vibe for enjoying top-rated sushi rolls and
+  flavorful dishes. With moderate pricing and accessibility features such as
+  wheelchair-friendly seating and parking, it's an inviting choice for casual
+  meals or groups seeking sushi near me. Additional perks include a variety of
+  sides like miso soup and tempura, all prepared with care to highlight the
+  quality of ingredients. Whether you're exploring sushi restaurants in Kennesaw
+  or looking for Japanese places near me, this spot delivers a satisfying blend
+  of tradition and convenience.
+generative_summary: >-
+  Experience Sushi Yu in Kennesaw, GA$$$Sushi Yu in Kennesaw, GA, offers a
+  relaxed dining experience centered around all-you-can-eat sushi and
+  hibachi-grilled options, making it a go-to spot for fresh Japanese cuisine in
+  the area. The laid-back atmosphere features comforting elements like a
+  fireplace, enhancing the cozy vibe for enjoying top-rated sushi rolls and
+  flavorful dishes. With moderate pricing and accessibility features such as
+  wheelchair-friendly seating and parking, it's an inviting choice for casual
+  meals or groups seeking sushi near me. Additional perks include a variety of
+  sides like miso soup and tempura, all prepared with care to highlight the
+  quality of ingredients. Whether you're exploring sushi restaurants in Kennesaw
+  or looking for Japanese places near me, this spot delivers a satisfying blend
+  of tradition and convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJfYylsSEV9YgRnOWpqeIIwTI/reviews/ChdDSUhNMG9nS0VJQ0FnSUNYei1EcDlBRRAB
@@ -338,6 +363,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURWMjV6R0NnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURWMjV6R0NnEAE!2m1!1s0x88f51521b1a58c7d:0x32c108e2a9a9e59c
+review_summary: >-
+  Buzz Around Sushi Yu$$$Folks heading to Sushi Yu often appreciate the fresh,
+  made-to-order sushi rolls and hibachi fare that make for a fulfilling meal
+  without breaking the bank. Many highlight the generous portions and tasty
+  add-ons like garlic fried rice, creating a welcoming vibe that's perfect for a
+  laid-back lunch or dinner. While some note that certain sides might not stand
+  out, the overall value and quality of the fish keep things positive for sushi
+  enthusiasts. It's easy to see why this place gets nods for its speedy service
+  and variety, making it a solid pick if you're craving top-rated sushi nearby.
+  All in all, the feedback leans toward it being a reliable option for anyone
+  searching for sushi restaurants near me, with a focus on fresh flavors and a
+  comfortable setting.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -370,8 +408,8 @@ serves_lunch: true
 serves_vegetarian_food: false
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Informal sushi bar offering classic sushi rolls, with all-you-can-eat menus at
   lunch & dinner.
 

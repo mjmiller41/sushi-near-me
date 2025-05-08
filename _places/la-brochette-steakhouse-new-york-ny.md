@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "La Brochette Steakhouse"
+title: La Brochette Steakhouse
 permalink: /new-york/new-york/la-brochette-steakhouse.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "La Brochette Steakhouse"
-  type: Restaurant
+  type: restaurant
   links: http://labrochetteny.com/
-description: "Upscale kosher steakhouse showcasing dry-aged beef, veal & sushi in an elegant, multifloor setting. La Brochette Steakhouse serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJZ38QVwFZwokRHFXpGj9Q9VI
 photos:
   - name: >-
@@ -184,6 +182,33 @@ price_range: $100 &ndash; & up
 rating: '4.5'
 rating_count: 0
 website: http://labrochetteny.com/
+description: >-
+  Discover La Brochette Steakhouse in New York, NY$$$La Brochette Steakhouse in
+  New York, NY, stands out as a French-inspired eatery featuring a blend of
+  upscale steak and sushi options that attract those seeking quality dining
+  experiences. This elegant, multi-level venue showcases premium dry-aged beef
+  and veal alongside fresh sushi selections, all served in a sophisticated
+  setting that combines comfort food with creative small plates. With its
+  accessible entrances and thoughtful amenities, it's designed for an enjoyable
+  visit for a wide range of guests, making it a go-to spot for exploring
+  top-rated sushi in the heart of the city. The restaurant's commitment to a
+  refined atmosphere enhances the overall appeal, drawing in locals and visitors
+  alike who appreciate kosher-friendly, high-end meals near bustling urban
+  areas.
+generative_summary: >-
+  Discover La Brochette Steakhouse in New York, NY$$$La Brochette Steakhouse in
+  New York, NY, stands out as a French-inspired eatery featuring a blend of
+  upscale steak and sushi options that attract those seeking quality dining
+  experiences. This elegant, multi-level venue showcases premium dry-aged beef
+  and veal alongside fresh sushi selections, all served in a sophisticated
+  setting that combines comfort food with creative small plates. With its
+  accessible entrances and thoughtful amenities, it's designed for an enjoyable
+  visit for a wide range of guests, making it a go-to spot for exploring
+  top-rated sushi in the heart of the city. The restaurant's commitment to a
+  refined atmosphere enhances the overall appeal, drawing in locals and visitors
+  alike who appreciate kosher-friendly, high-end meals near bustling urban
+  areas.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJZ38QVwFZwokRHFXpGj9Q9VI/reviews/ChZDSUhNMG9nS0VJQ0FnTURna3FtalF3EAE
@@ -343,6 +368,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNBc01QTlBBEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNBc01QTlBBEAE!2m1!1s0x89c2590157107f67:0x52f5503f1ae9551c
+review_summary: >-
+  What Guests Are Saying About La Brochette Steakhouse$$$Visitors often rave
+  about the delicious kosher meals and standout dishes like ribs and sushi,
+  noting that everything arrives fresh and perfectly prepared for a satisfying
+  dining experience. Many appreciate the friendly staff and efficient service,
+  which add to the welcoming vibe and make meals feel effortless and enjoyable.
+  Folks highlight the convenient Midtown location and cozy ambiance as ideal for
+  groups or special occasions, with clean facilities and easy parking adding
+  extra convenience. Overall, the feedback leans positive, emphasizing great
+  value in a relaxed setting that keeps diners coming back for more flavorful
+  options. While some mention minor details like surcharges, the general
+  consensus is that it's a solid choice for anyone craving top-notch eats in a
+  lively city environment.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options:
   acceptsCreditCards: true
@@ -372,8 +411,8 @@ serves_lunch: true
 serves_vegetarian_food: false
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Upscale kosher steakhouse showcasing dry-aged beef, veal & sushi in an
   elegant, multifloor setting.
 

@@ -5,4 +5,5 @@ permalink: /california/gardena/
 stateAbbr: CA
 stateName: California
 cityName: Gardena
+
 ---

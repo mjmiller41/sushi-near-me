@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Noda Restaurant"
+title: Noda Restaurant
 permalink: /california/pasadena/noda-restaurant.html
 stateAbbr: CA
 stateName: California
 cityName: Pasadena
 seo:
-  name: "Noda Restaurant"
-  type: Restaurant
+  type: restaurant
   links: http://noda.lany.io/
-description: "Noda Restaurant serves delicious sushi in Pasadena, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ5VWQm6DEwoARWXUXFoaxr_k
 photos:
   - name: >-
@@ -170,7 +168,97 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c2c4a09b9055e5:0xf9afb18616177559!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 14
+        minute: 0
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 20
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 2:00 PM, 5:00 – 8:30 PM'
     - 'Tuesday: 11:30 AM – 2:00 PM, 5:00 – 8:30 PM'
     - 'Wednesday: 11:30 AM – 2:00 PM, 5:00 – 8:30 PM'
@@ -178,14 +266,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
     - 'Saturday: 5:00 – 9:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:30 AM – 2:00 PM, 5:00 – 8:30 PM'
-    - 'Tuesday: 11:30 AM – 2:00 PM, 5:00 – 8:30 PM'
-    - 'Wednesday: 11:30 AM – 2:00 PM, 5:00 – 8:30 PM'
-    - 'Thursday: 11:30 AM – 2:00 PM, 5:00 – 8:30 PM'
-    - 'Friday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
-    - 'Saturday: 5:00 – 9:00 PM'
-    - 'Sunday: Closed'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +278,215 @@ phone: (626) 793-2600
 price_level: PRICE_LEVEL_MODERATE
 price_range: $30 &ndash; $50
 rating: '4.3'
-rating_count: 0
+rating_count: 94
 website: http://noda.lany.io/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Noda Restaurant in Pasadena, CA$$$Nestled in the heart of Pasadena,
+  California, Noda Restaurant offers a relaxed spot for enjoying authentic
+  Japanese cuisine, including fresh sushi rolls and other traditional dishes.
+  This unpretentious eatery boasts a welcoming atmosphere with simple decor and
+  outdoor seating options, making it ideal for casual meals with friends or
+  family. Patrons can savor high-quality ingredients in a variety of menu items,
+  from bento boxes to grilled specialties, all prepared with care in a laid-back
+  setting. The restaurant emphasizes accessibility and convenience, with
+  features like wheelchair-friendly entrances and a moderate price range that
+  appeals to those seeking reliable Japanese dining options nearby. Whether
+  you're exploring sushi places in the area or looking for a comforting meal
+  after a day out, Noda provides a straightforward yet satisfying experience
+  that highlights the best of local flavors.
+generative_summary: >-
+  Discover Noda Restaurant in Pasadena, CA$$$Nestled in the heart of Pasadena,
+  California, Noda Restaurant offers a relaxed spot for enjoying authentic
+  Japanese cuisine, including fresh sushi rolls and other traditional dishes.
+  This unpretentious eatery boasts a welcoming atmosphere with simple decor and
+  outdoor seating options, making it ideal for casual meals with friends or
+  family. Patrons can savor high-quality ingredients in a variety of menu items,
+  from bento boxes to grilled specialties, all prepared with care in a laid-back
+  setting. The restaurant emphasizes accessibility and convenience, with
+  features like wheelchair-friendly entrances and a moderate price range that
+  appeals to those seeking reliable Japanese dining options nearby. Whether
+  you're exploring sushi places in the area or looking for a comforting meal
+  after a day out, Noda provides a straightforward yet satisfying experience
+  that highlights the best of local flavors.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ5VWQm6DEwoARWXUXFoaxr_k/reviews/ChdDSUhNMG9nS0VJQ0FnSUNSOUs3TnRnRRAB
+    relativePublishTimeDescription: 2 years ago
+    rating: 4
+    text:
+      text: >-
+        It’s my second time in this sushi restaurant. The service started out
+        slow on a busy Friday night but it quickly improved.
+
+
+        We loved the seaweed salad, grilled shishito peppers and soft shell crab
+        appetizer. The sashimi, salmon lover roll and Cynthia roll were fresh
+        and nicely prepared. I asked for grilled salmon without teriyaki sauce
+        and it came out nice. The dinner was satisfying.
+      languageCode: en
+    originalText:
+      text: >-
+        It’s my second time in this sushi restaurant. The service started out
+        slow on a busy Friday night but it quickly improved.
+
+
+        We loved the seaweed salad, grilled shishito peppers and soft shell crab
+        appetizer. The sashimi, salmon lover roll and Cynthia roll were fresh
+        and nicely prepared. I asked for grilled salmon without teriyaki sauce
+        and it came out nice. The dinner was satisfying.
+      languageCode: en
+    authorAttribution:
+      displayName: Susanna SS
+      uri: https://www.google.com/maps/contrib/108061464935798864805/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIAjOtaAF0hv85korHcFMnz3vfM-mAJ_UFlNXvhVys3tw5C2w=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2023-03-26T15:18:25.179995Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNSOUs3TnRnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNSOUs3TnRnRRAB!2m1!1s0x80c2c4a09b9055e5:0xf9afb18616177559
+  - name: >-
+      places/ChIJ5VWQm6DEwoARWXUXFoaxr_k/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRcjVhWkhnEAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Best sushi in Pasadena! The quality of fish is excellent. And the owners
+        are lovely.
+      languageCode: en
+    originalText:
+      text: >-
+        Best sushi in Pasadena! The quality of fish is excellent. And the owners
+        are lovely.
+      languageCode: en
+    authorAttribution:
+      displayName: Claire Bevan
+      uri: https://www.google.com/maps/contrib/116788172404377915860/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWH_6dhc72FGh2UqluJm9GA23e3GtQDaDQkys_63YAIbh3QPMiIrg=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-08T04:26:57.245796Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNRcjVhWkhnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNRcjVhWkhnEAE!2m1!1s0x80c2c4a09b9055e5:0xf9afb18616177559
+  - name: >-
+      places/ChIJ5VWQm6DEwoARWXUXFoaxr_k/reviews/ChdDSUhNMG9nS0VJQ0FnTURRbE9PSnB3RRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: A great low key sushi spot. Staff is very welcoming and friendly.
+      languageCode: en
+    originalText:
+      text: A great low key sushi spot. Staff is very welcoming and friendly.
+      languageCode: en
+    authorAttribution:
+      displayName: Britton Robitzsch
+      uri: https://www.google.com/maps/contrib/102220553946561904829/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIOWaxAlyHrF8bOhzarus033tZFl2Qcb2tLHOJD8gaqRnDDjWmJ=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-09T04:42:38.044878Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURRbE9PSnB3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURRbE9PSnB3RRAB!2m1!1s0x80c2c4a09b9055e5:0xf9afb18616177559
+  - name: >-
+      places/ChIJ5VWQm6DEwoARWXUXFoaxr_k/reviews/ChZDSUhNMG9nS0VJQ0FnSURBOTRTS2NBEAE
+    relativePublishTimeDescription: 7 years ago
+    rating: 4
+    text:
+      text: >-
+        The food is pretty good here but for the money I'd rather go somewhere
+        else. If you come here you'll enjoy the food but you won't get as much
+        here as you would at some other places.
+      languageCode: en
+    originalText:
+      text: >-
+        The food is pretty good here but for the money I'd rather go somewhere
+        else. If you come here you'll enjoy the food but you won't get as much
+        here as you would at some other places.
+      languageCode: en
+    authorAttribution:
+      displayName: Jose Baldonado
+      uri: https://www.google.com/maps/contrib/109938665301450312177/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXYUCcpr3QzTCNpsQHEmaD2ULJrunSJ5U6MqD92BDrT_GCPQ26l=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2018-03-05T06:43:00.314Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURBOTRTS2NBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURBOTRTS2NBEAE!2m1!1s0x80c2c4a09b9055e5:0xf9afb18616177559
+  - name: >-
+      places/ChIJ5VWQm6DEwoARWXUXFoaxr_k/reviews/ChdDSUhNMG9nS0VJQ0FnSUNiak1EQnpnRRAB
+    relativePublishTimeDescription: 9 months ago
+    rating: 4
+    text:
+      text: >-
+        Small and cozy place. I appreciate the lunch option to choose my own
+        Bento box. The food was delicious, generous serving of tempura.
+      languageCode: en
+    originalText:
+      text: >-
+        Small and cozy place. I appreciate the lunch option to choose my own
+        Bento box. The food was delicious, generous serving of tempura.
+      languageCode: en
+    authorAttribution:
+      displayName: Mirtha Hernandez
+      uri: https://www.google.com/maps/contrib/102516733877196000668/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUmvArfE_kZClKtuantkvulTc78OgpsK1e8S7lZrnrojlWDnZUVkA=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2024-07-24T01:09:34.139366Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNiak1EQnpnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNiak1EQnpnRRAB!2m1!1s0x80c2c4a09b9055e5:0xf9afb18616177559
+review_summary: >-
+  What Visitors Are Saying About This Sushi Spot$$$Folks who stop by this
+  Pasadena favorite often rave about the fresh and flavorful sushi, with many
+  highlighting the excellent quality of the fish and generous portions that make
+  for a satisfying meal. The staff comes across as friendly and welcoming,
+  creating a cozy vibe that encourages repeat visits for lunch or dinner. While
+  some mention that service can occasionally slow down during peak times,
+  overall experiences lean positive, with diners appreciating the value in
+  customizable options like bento boxes. It's clear that this spot holds up well
+  for those searching for top-rated sushi in the neighborhood, offering a solid
+  mix of tasty dishes and a relaxed environment without any major letdowns. If
+  you're in the mood for reliable Japanese eats close to home, the feedback
+  suggests it's worth checking out for a pleasant and enjoyable outing.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
+delivery: true
+dine_in: true
 good_for_children: null
-good_for_groups: null
+good_for_groups: true
 good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
+live_music: false
+menu_for_children: false
+outdoor_seating: false
 reservable: null
-restroom: null
+restroom: true
 serves_beer: null
 serves_breakfast: null
-serves_brunch: null
+serves_brunch: false
 serves_cocktails: null
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Casual sushi bar serving a menu of standard Japanese fare in a low-key setting
+  with sidewalk seats.
 
 ---

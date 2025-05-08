@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "SUSHI SNOB"
+title: SUSHI SNOB
 permalink: /district-of-columbia/washington/sushi-snob.html
 stateAbbr: DC
 stateName: District of Columbia
 cityName: Washington
 seo:
-  name: "SUSHI SNOB"
-  type: Restaurant
+  type: restaurant
   links: https://sushisnob.us/
-description: "Sushi, udon & bento boxes & many Pan-Asian dishes dispensed with speed in a compact luncheonette. SUSHI SNOB serves delicious sushi in Washington, District of Columbia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ3xiis7i3t4kRNhZc2od2_-c
 photos:
   - name: >-
@@ -182,6 +180,31 @@ price_range: null
 rating: '4.4'
 rating_count: 0
 website: https://sushisnob.us/
+description: >-
+  About SUSHI SNOB in Washington, DC$$$SUSHI SNOB in Washington, DC, offers a
+  compact and welcoming atmosphere perfect for those seeking fresh sushi and
+  other Pan-Asian favorites like udon and bento boxes. The spot emphasizes
+  quick, efficient service that makes it ideal for a satisfying meal on the go,
+  with a focus on high-quality ingredients that deliver authentic flavors.
+  Accessibility features, such as wheelchair-friendly restrooms, ensure it's a
+  convenient choice for everyone looking for sushi restaurants in the area.
+  Whether you're in the mood for a casual lunch or dinner, this place stands out
+  for its straightforward approach to tasty, well-prepared dishes that cater to
+  various tastes. It's a reliable option for anyone exploring top-rated sushi
+  spots nearby, blending speed and flavor in a no-fuss setting.
+generative_summary: >-
+  About SUSHI SNOB in Washington, DC$$$SUSHI SNOB in Washington, DC, offers a
+  compact and welcoming atmosphere perfect for those seeking fresh sushi and
+  other Pan-Asian favorites like udon and bento boxes. The spot emphasizes
+  quick, efficient service that makes it ideal for a satisfying meal on the go,
+  with a focus on high-quality ingredients that deliver authentic flavors.
+  Accessibility features, such as wheelchair-friendly restrooms, ensure it's a
+  convenient choice for everyone looking for sushi restaurants in the area.
+  Whether you're in the mood for a casual lunch or dinner, this place stands out
+  for its straightforward approach to tasty, well-prepared dishes that cater to
+  various tastes. It's a reliable option for anyone exploring top-rated sushi
+  spots nearby, blending speed and flavor in a no-fuss setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ3xiis7i3t4kRNhZc2od2_-c/reviews/ChdDSUhNMG9nS0VJQ0FnSUR6cC15Sl9RRRAB
@@ -321,6 +344,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNmNXFHVWR3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNmNXFHVWR3EAE!2m1!1s0x89b7b7b8b3a218df:0xe7ff7687da5c1636
+review_summary: >-
+  What Visitors Are Saying$$$Folks generally enjoy the fresh and flavorful sushi
+  at this spot, often highlighting how it hits the spot for a quick and
+  satisfying meal without the high-end fuss. Many appreciate the variety of
+  options like udon and rice bowls that make it great for families or anyone
+  grabbing a bite on a busy day. While most experiences praise the quality and
+  value, a few mention occasional inconsistencies with service or preparation
+  that could use some tweaks. Overall, it's seen as a solid go-to for casual
+  dining, with positive vibes dominating the feedback for its approachable vibe
+  and tasty selections. If you're hunting for reliable sushi places near you,
+  this one tends to deliver a worthwhile experience that keeps people coming
+  back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: false
   freeStreetParking: true
@@ -353,8 +389,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Sushi, udon & bento boxes & many Pan-Asian dishes dispensed with speed in a
   compact luncheonette.
 

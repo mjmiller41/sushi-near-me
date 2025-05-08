@@ -1,15 +1,14 @@
 ---
 layout: place
-title: "Thai Spoon and Sushi"
+title: Thai Spoon and Sushi
 permalink: /illinois/chicago/thai-spoon-and-sushi.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
 seo:
-  name: "Thai Spoon and Sushi"
-  type: Restaurant
-  links: https://www.thaispoonsushichicago.com/?utm_source=google&utm_medium=gmb&utm_campaign=thaispoon
-description: "Casual restaurant with colorful decor serving traditional Thai cuisine, plus sushi. Thai Spoon and Sushi serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
+  type: restaurant
+  links: >-
+    https://www.thaispoonsushichicago.com/?utm_source=google&utm_medium=gmb&utm_campaign=thaispoon
 place_id: ChIJdxokPaAtDogRwy7RMkjsfM0
 photos:
   - name: >-
@@ -185,6 +184,33 @@ rating: '4.2'
 rating_count: 0
 website: >-
   https://www.thaispoonsushichicago.com/?utm_source=google&utm_medium=gmb&utm_campaign=thaispoon
+description: >-
+  Explore Thai Spoon and Sushi in Chicago, IL$$$Nestled in the heart of Chicago,
+  IL, Thai Spoon and Sushi offers a cozy dining experience that blends
+  traditional Thai flavors with fresh sushi options, making it a go-to spot for
+  those seeking authentic Asian cuisine. The restaurant features a welcoming
+  atmosphere with colorful decor and accessible amenities, including
+  wheelchair-friendly entrances and seating, ensuring everyone can enjoy their
+  meal comfortably. Standout elements include a variety of vegetarian dishes and
+  moderately priced meals that cater to diverse tastes, perfect for casual
+  lunches or dinners. Its location in the bustling South Loop adds to the
+  appeal, providing an ideal setting for exploring top-rated sushi and Thai
+  options nearby. With a focus on flavorful specialties, this spot stands out as
+  a reliable choice for anyone craving quality Asian fare in the city.
+generative_summary: >-
+  Explore Thai Spoon and Sushi in Chicago, IL$$$Nestled in the heart of Chicago,
+  IL, Thai Spoon and Sushi offers a cozy dining experience that blends
+  traditional Thai flavors with fresh sushi options, making it a go-to spot for
+  those seeking authentic Asian cuisine. The restaurant features a welcoming
+  atmosphere with colorful decor and accessible amenities, including
+  wheelchair-friendly entrances and seating, ensuring everyone can enjoy their
+  meal comfortably. Standout elements include a variety of vegetarian dishes and
+  moderately priced meals that cater to diverse tastes, perfect for casual
+  lunches or dinners. Its location in the bustling South Loop adds to the
+  appeal, providing an ideal setting for exploring top-rated sushi and Thai
+  options nearby. With a focus on flavorful specialties, this spot stands out as
+  a reliable choice for anyone craving quality Asian fare in the city.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJdxokPaAtDogRwy7RMkjsfM0/reviews/ChZDSUhNMG9nS0VJQ0FnSUNQOU5QUkN3EAE
@@ -572,6 +598,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURYaDctQ0p3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURYaDctQ0p3EAE!2m1!1s0x880e2da03d241a77:0xcd7cec4832d12ec3
+review_summary: >-
+  Insights from Customer Feedback$$$Visitors to Thai Spoon and Sushi often
+  praise the spot for its tasty Thai dishes like Pad Thai and flavorful curries,
+  which deliver a nice balance of spice and freshness that keeps things
+  satisfying. Many appreciate the efficient service and chill vibe, along with
+  affordable prices that make it a solid pick for groups or quick meals, even if
+  occasional inconsistencies in flavor pop up. The sushi selections get high
+  marks for being fresh and well-prepared, adding to the overall appeal for
+  those hunting for great options close by. While some mentions of service
+  hiccups exist, the general consensus leans positive, highlighting it as a
+  welcoming place for casual dining that honestly delivers on taste and value.
+  If you're in the mood for reliable Thai and sushi experiences, this location
+  tends to hit the mark for many diners looking for everyday favorites.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidStreetParking: true
 payment_options:
@@ -602,8 +642,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Casual restaurant with colorful decor serving traditional Thai cuisine, plus
   sushi.
 

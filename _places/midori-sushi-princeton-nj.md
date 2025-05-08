@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Midori Sushi"
+title: Midori Sushi
 permalink: /new-jersey/princeton/midori-sushi.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Princeton
 seo:
-  name: "Midori Sushi"
-  type: Restaurant
-  links: null
-description: "Midori Sushi serves delicious sushi in Princeton, New Jersey. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.midoriorder.com/
 place_id: ChIJYySAKS7mw4kRO1ke5q9lZJU
 photos:
   - name: >-
@@ -170,8 +168,121 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c3e62e29802463:0x956465afe61e593b!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 13
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 15
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 15
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 15
+        minute: 0
+    - open:
+        day: 6
+        hour: 16
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:30 AM – 3:00 PM, 4:30 – 10:00 PM'
+    - 'Tuesday: 11:30 AM – 3:00 PM, 4:30 – 10:00 PM'
+    - 'Wednesday: 11:30 AM – 3:00 PM, 4:30 – 10:00 PM'
+    - 'Thursday: 11:30 AM – 3:00 PM, 4:30 – 10:00 PM'
+    - 'Friday: 11:30 AM – 3:00 PM, 4:30 – 10:00 PM'
+    - 'Saturday: 11:30 AM – 3:00 PM, 4:30 – 10:00 PM'
+    - 'Sunday: 1:00 – 10:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +290,51 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (609) 454-3998
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.2'
+rating_count: 182
+website: https://www.midoriorder.com/
+description: >-
+  Discover Midori Sushi in Princeton, NJ$$$Midori Sushi in Princeton, NJ, stands
+  out as a welcoming spot for enjoying authentic Japanese flavors, nestled
+  conveniently in a local shopping center. This casual eatery specializes in
+  fresh sushi rolls and flavorful hibachi dishes, making it an ideal choice for
+  those exploring sushi options in the area. With its moderate pricing and
+  accessibility features like wheelchair-friendly parking and entrances, it
+  caters to a wide range of diners seeking a relaxed meal. The restaurant's
+  extended hours, including evenings and weekends, ensure it's easy to fit into
+  your schedule for a satisfying lunch or dinner. Whether you're looking for top
+  sushi spots nearby or simply craving Japanese-inspired cuisine, Midori Sushi
+  delivers a dependable and enjoyable experience.
+generative_summary: >-
+  Discover Midori Sushi in Princeton, NJ$$$Midori Sushi in Princeton, NJ, stands
+  out as a welcoming spot for enjoying authentic Japanese flavors, nestled
+  conveniently in a local shopping center. This casual eatery specializes in
+  fresh sushi rolls and flavorful hibachi dishes, making it an ideal choice for
+  those exploring sushi options in the area. With its moderate pricing and
+  accessibility features like wheelchair-friendly parking and entrances, it
+  caters to a wide range of diners seeking a relaxed meal. The restaurant's
+  extended hours, including evenings and weekends, ensure it's easy to fit into
+  your schedule for a satisfying lunch or dinner. Whether you're looking for top
+  sushi spots nearby or simply craving Japanese-inspired cuisine, Midori Sushi
+  delivers a dependable and enjoyable experience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Folks who visit Midori Sushi often highlight the
+  fresh ingredients and tasty dishes that make every bite worthwhile, based on
+  the solid feedback from regular patrons. Many appreciate the friendly
+  atmosphere and efficient service, which add to the overall appeal for casual
+  meals or quick takeout. While some mention minor waits during peak times, the
+  general consensus leans toward it being a reliable pick for quality sushi
+  without breaking the bank. Overall, it's clear that this spot earns its strong
+  reputation as a go-to for Japanese fare, with diners frequently returning for
+  the consistent flavors and welcoming vibe. If you're on the hunt for great
+  sushi restaurants in your neighborhood, the positive buzz around Midori Sushi
+  suggests it's worth checking out for a satisfying experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +360,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

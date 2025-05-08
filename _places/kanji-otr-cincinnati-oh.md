@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kanji OTR"
+title: Kanji OTR
 permalink: /ohio/cincinnati/kanji-otr.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Cincinnati
 seo:
-  name: "Kanji OTR"
-  type: Restaurant
+  type: restaurant
   links: http://kanjiotr.com/
-description: "Kanji OTR serves delicious sushi in Cincinnati, Ohio. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJhUrHtyuzQYgRC4P5fFGXVLo
 photos:
   - name: >-
@@ -184,6 +182,29 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 0
 website: http://kanjiotr.com/
+description: >-
+  Discover Kanji OTR in Cincinnati, OH$$$Kanji OTR in Cincinnati, OH, stands out
+  as a vibrant Korean restaurant blending traditional flavors with fresh sushi
+  options, making it a go-to spot for those seeking diverse Asian cuisine in the
+  area. The establishment boasts an inviting atmosphere with spacious seating
+  and accessible features like wheelchair-friendly entrances, ensuring a
+  comfortable dining experience for all. Patrons can enjoy a variety of dishes,
+  from creative rolls to Korean classics, paired with an array of drinks in a
+  setting that feels both modern and welcoming. For anyone exploring sushi
+  places near me, this location delivers on quality ingredients and thoughtful
+  presentation, enhancing every meal with its fusion of tastes.
+generative_summary: >-
+  Discover Kanji OTR in Cincinnati, OH$$$Kanji OTR in Cincinnati, OH, stands out
+  as a vibrant Korean restaurant blending traditional flavors with fresh sushi
+  options, making it a go-to spot for those seeking diverse Asian cuisine in the
+  area. The establishment boasts an inviting atmosphere with spacious seating
+  and accessible features like wheelchair-friendly entrances, ensuring a
+  comfortable dining experience for all. Patrons can enjoy a variety of dishes,
+  from creative rolls to Korean classics, paired with an array of drinks in a
+  setting that feels both modern and welcoming. For anyone exploring sushi
+  places near me, this location delivers on quality ingredients and thoughtful
+  presentation, enhancing every meal with its fusion of tastes.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJhUrHtyuzQYgRC4P5fFGXVLo/reviews/ChZDSUhNMG9nS0VJQ0FnSUNmdjY3SE1nEAE
@@ -337,6 +358,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQ3d2Z6VnB3RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQ3d2Z6VnB3RRAB!2m1!1s0x8841b32bb7c74a85:0xba5497517cf9830b
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this spot often praise the fresh sushi
+  and flavorful Korean dishes, like the crispy wings that hit the spot for a
+  satisfying crunch without losing texture. While most feedback highlights the
+  attentive service and wide menu variety that caters to different preferences,
+  some note minor inconsistencies with certain drinks that didn't quite meet
+  expectations. Overall, folks appreciate the welcoming vibe and solid portions
+  that make it ideal for groups or solo diners looking for reliable eats. If
+  you're on the hunt for top-rated sushi restaurants nearby, this place
+  generally delivers a positive experience with its mix of authentic flavors and
+  friendly atmosphere. Though not perfect, the highlights far outweigh any small
+  hiccups, making it a solid choice for your next outing.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeStreetParking: true
   paidStreetParking: true
@@ -369,7 +403,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

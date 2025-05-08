@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Happy Sushi"
+title: Happy Sushi
 permalink: /california/santa-clara/happy-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Santa Clara
 seo:
-  name: "Happy Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.happysushimenu.com/
-description: "Happy Sushi serves delicious sushi in Santa Clara, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJc7N9RQzKj4ARH9gEYX95_I0
 photos:
   - name: >-
@@ -170,7 +168,121 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x808fca0c457db373:0x8dfc797f6104d81f!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 15
+        minute: 0
+    - open:
+        day: 0
+        hour: 16
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 10
+        minute: 30
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 10
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 10
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 10
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 10
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 15
+        minute: 0
+    - open:
+        day: 6
+        hour: 16
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 10:30 AM – 2:30 PM, 4:30 – 9:00 PM'
     - 'Tuesday: 10:30 AM – 2:30 PM, 4:30 – 9:00 PM'
     - 'Wednesday: 10:30 AM – 2:30 PM, 4:30 – 9:00 PM'
@@ -178,14 +290,7 @@ opening_hours:
     - 'Friday: 10:30 AM – 2:30 PM, 4:30 – 9:30 PM'
     - 'Saturday: 11:00 AM – 3:00 PM, 4:30 – 9:30 PM'
     - 'Sunday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM'
-  current:
-    - 'Monday: 10:30 AM – 2:30 PM, 4:30 – 9:00 PM'
-    - 'Tuesday: 10:30 AM – 2:30 PM, 4:30 – 9:00 PM'
-    - 'Wednesday: 10:30 AM – 2:30 PM, 4:30 – 9:00 PM'
-    - 'Thursday: 10:30 AM – 2:30 PM, 4:30 – 9:00 PM'
-    - 'Friday: 10:30 AM – 2:30 PM, 4:30 – 9:30 PM'
-    - 'Saturday: 11:00 AM – 3:00 PM, 4:30 – 9:30 PM'
-    - 'Sunday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM'
+  nextOpenTime: '2025-05-03T23:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,36 +301,252 @@ secondary_opening_hours:
 phone: (408) 638-7606
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
-rating: '4.4'
-rating_count: 0
+rating: '4.5'
+rating_count: 440
 website: https://www.happysushimenu.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Happy Sushi in Santa Clara, CA$$$Happy Sushi in Santa Clara, CA,
+  stands out as a welcoming spot for those seeking fresh sushi and Japanese
+  flavors in a relaxed setting. This casual eatery boasts a diverse selection of
+  creative rolls, traditional Japanese and Korean dishes, and convenient bento
+  boxes, making it a go-to choice for sushi enthusiasts exploring top-rated
+  options nearby. With its straightforward decor and focus on quality
+  ingredients, the restaurant offers accessible features like
+  wheelchair-friendly entrances and parking, ensuring everyone can enjoy a
+  comfortable meal. Pricing is moderate, providing great value for authentic
+  tastes that appeal to anyone hunting for reliable sushi places near me.
+  Whether you're in the mood for a quick lunch or dinner, this spot delivers a
+  satisfying experience with efficient service and a menu that balances
+  simplicity and variety.
+generative_summary: >-
+  Discover Happy Sushi in Santa Clara, CA$$$Happy Sushi in Santa Clara, CA,
+  stands out as a welcoming spot for those seeking fresh sushi and Japanese
+  flavors in a relaxed setting. This casual eatery boasts a diverse selection of
+  creative rolls, traditional Japanese and Korean dishes, and convenient bento
+  boxes, making it a go-to choice for sushi enthusiasts exploring top-rated
+  options nearby. With its straightforward decor and focus on quality
+  ingredients, the restaurant offers accessible features like
+  wheelchair-friendly entrances and parking, ensuring everyone can enjoy a
+  comfortable meal. Pricing is moderate, providing great value for authentic
+  tastes that appeal to anyone hunting for reliable sushi places near me.
+  Whether you're in the mood for a quick lunch or dinner, this spot delivers a
+  satisfying experience with efficient service and a menu that balances
+  simplicity and variety.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJc7N9RQzKj4ARH9gEYX95_I0/reviews/ChdDSUhNMG9nS0VJQ0FnSUNQaG9lYXZBRRAB
+    relativePublishTimeDescription: 5 months ago
+    rating: 4
+    text:
+      text: >-
+        Came here on a Friday around 7pm, there was no rush and we were seated
+        immediately.
+
+        Everything we tried was good. The fish is fresh and the portions are
+        great. They don’t slather on too much sauce that everything tastes
+        homogeneous. We LOVED the torched salmon belly- it was
+        melt-in-your-mouth amazing. Would definitely visit again
+      languageCode: en
+    originalText:
+      text: >-
+        Came here on a Friday around 7pm, there was no rush and we were seated
+        immediately.
+
+        Everything we tried was good. The fish is fresh and the portions are
+        great. They don’t slather on too much sauce that everything tastes
+        homogeneous. We LOVED the torched salmon belly- it was
+        melt-in-your-mouth amazing. Would definitely visit again
+      languageCode: en
+    authorAttribution:
+      displayName: Misbah Ahmad
+      uri: https://www.google.com/maps/contrib/109203513524588871163/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXuvhA6mGyicuDT-niKNLtuQ0pwwiP2AF5twGVNkV81zyJ8yVlx=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-11-23T18:49:58.455560Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNQaG9lYXZBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNQaG9lYXZBRRAB!2m1!1s0x808fca0c457db373:0x8dfc797f6104d81f
+  - name: >-
+      places/ChIJc7N9RQzKj4ARH9gEYX95_I0/reviews/ChdDSUhNMG9nS0VJQ0FnTUNRMktIZHFnRRAB
+    relativePublishTimeDescription: in the last week
+    rating: 4
+    text:
+      text: >-
+        We were here years ago and remembered that we enjoyed it, so when were
+        around the area, we decided to come again. And it lived up to our
+        recollection. They serve generous proportions of fish in their rolls,
+        and the prices are very reasonable. There is a roll I would not
+        recommend, however: the no-rice sushi burrito.
+      languageCode: en
+    originalText:
+      text: >-
+        We were here years ago and remembered that we enjoyed it, so when were
+        around the area, we decided to come again. And it lived up to our
+        recollection. They serve generous proportions of fish in their rolls,
+        and the prices are very reasonable. There is a roll I would not
+        recommend, however: the no-rice sushi burrito.
+      languageCode: en
+    authorAttribution:
+      displayName: Kien Lam
+      uri: https://www.google.com/maps/contrib/114156057841605211208/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXqiQOuQyIKfRjWsWu0OowPkCTmwgICtsdSh9nKepjW-IFdr7LYsg=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2025-04-29T00:13:47.358398Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNRMktIZHFnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNRMktIZHFnRRAB!2m1!1s0x808fca0c457db373:0x8dfc797f6104d81f
+  - name: >-
+      places/ChIJc7N9RQzKj4ARH9gEYX95_I0/reviews/ChZDSUhNMG9nS0VJQ0FnTURnX3QtMmR3EAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        Very tasty. Sushi was a bit hot but it was very good. We’re salmon
+        lovers and this place has very high quality salmon. Sashimi was amazing.
+      languageCode: en
+    originalText:
+      text: >-
+        Very tasty. Sushi was a bit hot but it was very good. We’re salmon
+        lovers and this place has very high quality salmon. Sashimi was amazing.
+      languageCode: en
+    authorAttribution:
+      displayName: Shachar Ben-Hador
+      uri: https://www.google.com/maps/contrib/109040658340291466889/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIRKXvO9fGS5U_x6c4mvVbFC76EvMFYugN477hvzZd-LaMypA=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-02-25T03:55:56.822657Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURnX3QtMmR3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURnX3QtMmR3EAE!2m1!1s0x808fca0c457db373:0x8dfc797f6104d81f
+  - name: >-
+      places/ChIJc7N9RQzKj4ARH9gEYX95_I0/reviews/ChZDSUhNMG9nS0VJQ0FnSUNueTlPbVVnEAE
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        At Happy Sushi, I found a tranquil space that embodies the essence of
+        simple pleasures. I ordered the Avocado roll, a testament to the
+        philosophy of savoring the essentials. The service was swift and
+        courteous, reflecting a commitment to excellence without pretense.
+
+
+        For just $7, the roll was not only affordable but also a reminder that
+        satisfaction does not require extravagance. In this establishment, one
+        can appreciate the balance of quality and value. In a world that often
+        overwhelms, Happy Sushi offers a serene experience that allows one to
+        enjoy the moment. I recommend it to anyone seeking a straightforward yet
+        fulfilling dining experience.
+      languageCode: en
+    originalText:
+      text: >-
+        At Happy Sushi, I found a tranquil space that embodies the essence of
+        simple pleasures. I ordered the Avocado roll, a testament to the
+        philosophy of savoring the essentials. The service was swift and
+        courteous, reflecting a commitment to excellence without pretense.
+
+
+        For just $7, the roll was not only affordable but also a reminder that
+        satisfaction does not require extravagance. In this establishment, one
+        can appreciate the balance of quality and value. In a world that often
+        overwhelms, Happy Sushi offers a serene experience that allows one to
+        enjoy the moment. I recommend it to anyone seeking a straightforward yet
+        fulfilling dining experience.
+      languageCode: en
+    authorAttribution:
+      displayName: Amritpal Bhagat
+      uri: https://www.google.com/maps/contrib/104501149953700300558/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUobxoWK6hP4fZdWkNNXzwmGXi2fsuoLy0xvZyHEZXHtaxquuZ3=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2024-11-25T03:26:18.121230Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNueTlPbVVnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNueTlPbVVnEAE!2m1!1s0x808fca0c457db373:0x8dfc797f6104d81f
+  - name: >-
+      places/ChIJc7N9RQzKj4ARH9gEYX95_I0/reviews/ChZDSUhNMG9nS0VJQ0FnSUNEak52Z2JREAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        A small cute Sushi place with lots of great options! This is almost a
+        hidden gem. It's been here this whole time and I didn't notice😅 They
+        have pretty good selection for vegetarians and it quickly drew me in!
+        It's also pretty inexpensive compared to many other sushi places in the
+        area! Their service is pretty quick as well! Only downside is it's small
+        so it doesn't have a lot of seating! Shall be going back again!
+      languageCode: en
+    originalText:
+      text: >-
+        A small cute Sushi place with lots of great options! This is almost a
+        hidden gem. It's been here this whole time and I didn't notice😅 They
+        have pretty good selection for vegetarians and it quickly drew me in!
+        It's also pretty inexpensive compared to many other sushi places in the
+        area! Their service is pretty quick as well! Only downside is it's small
+        so it doesn't have a lot of seating! Shall be going back again!
+      languageCode: en
+    authorAttribution:
+      displayName: Sunita Bhattacharya
+      uri: https://www.google.com/maps/contrib/103764093472549464440/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVQBQHr8yYNT4zb7Z_6dGhj3gCEpqpCShFuNlwCdh5ACq1lMwENjw=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-03-25T07:02:37.579846Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNEak52Z2JREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNEak52Z2JREAE!2m1!1s0x808fca0c457db373:0x8dfc797f6104d81f
+review_summary: >-
+  What Customers Are Saying About the Reviews$$$Folks dining at this sushi spot
+  often rave about the fresh, high-quality fish and generous portions that make
+  every bite feel worthwhile, drawing in fans of authentic Japanese cuisine.
+  Many appreciate the reasonable prices and quick service, which add to the
+  overall convenience for those looking for sushi restaurants near me on a
+  budget. While most experiences highlight delicious options like premium salmon
+  dishes and solid vegetarian choices, a few mentions note that some specialty
+  items might not hit the mark for everyone. Overall, the vibe is positive, with
+  visitors frequently returning for the reliable flavors and welcoming
+  atmosphere that keep things light and enjoyable. If you're searching for
+  tasty, everyday sushi options, this place tends to deliver a solid, feel-good
+  meal that lives up to the buzz.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
+delivery: true
+dine_in: true
+good_for_children: true
 good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: false
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Small Japanese eatery with spartan decor & a large menu of classic & creative
+  sushi rolls.
 
 ---

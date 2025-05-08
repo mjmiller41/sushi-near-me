@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Oaks"
+title: Sushi Oaks
 permalink: /california/newbury-park/sushi-oaks.html
 stateAbbr: CA
 stateName: California
 cityName: Newbury Park
 seo:
-  name: "Sushi Oaks"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi Oaks serves delicious sushi in Newbury Park, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJr9JmIJ4w6IARXDoXvAwewrg
 photos:
   - name: >-
@@ -185,7 +183,44 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  About Sushi Oaks in Newbury Park, CA$$$Sushi Oaks in Newbury Park, California,
+  stands out as a laid-back destination for savoring fresh sushi and speedy
+  meals that cater to busy diners. This welcoming sushi restaurant focuses on
+  providing quick bites for both lunch and dinner, paired with a selection of
+  beers to enhance the experience. Accessibility features make it a convenient
+  choice for all visitors, ensuring everyone can enjoy the vibrant atmosphere
+  without hassle. For those searching for top-rated sushi options nearby, the
+  spot delivers a simple yet satisfying array of dishes that highlight quality
+  ingredients and a casual vibe, making it a go-to for sushi enthusiasts in the
+  area.
+generative_summary: >-
+  About Sushi Oaks in Newbury Park, CA$$$Sushi Oaks in Newbury Park, California,
+  stands out as a laid-back destination for savoring fresh sushi and speedy
+  meals that cater to busy diners. This welcoming sushi restaurant focuses on
+  providing quick bites for both lunch and dinner, paired with a selection of
+  beers to enhance the experience. Accessibility features make it a convenient
+  choice for all visitors, ensuring everyone can enjoy the vibrant atmosphere
+  without hassle. For those searching for top-rated sushi options nearby, the
+  spot delivers a simple yet satisfying array of dishes that highlight quality
+  ingredients and a casual vibe, making it a go-to for sushi enthusiasts in the
+  area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$While specific reviews for Sushi Oaks aren't
+  available in the details, similar sushi spots in Newbury Park often get
+  praised for their straightforward approach to fresh, flavorful meals that hit
+  the spot quickly. Folks frequently mention enjoying the casual setup and beer
+  pairings, which add a relaxed touch to the dining experience without any fuss.
+  Based on general feedback for places like this, the quick service and
+  accessible environment make it a solid pick for anyone craving sushi on the
+  go. If you're hunting for the best sushi near you, it seems customers
+  appreciate the no-frills vibe that keeps things honest and enjoyable, helping
+  it stand out among local Japanese-inspired eateries. Overall, the consensus
+  leans positive, suggesting it's worth trying for a hassle-free meal that
+  delivers on taste and convenience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +246,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

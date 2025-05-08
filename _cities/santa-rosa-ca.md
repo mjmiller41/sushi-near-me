@@ -5,4 +5,5 @@ permalink: /california/santa-rosa/
 stateAbbr: CA
 stateName: California
 cityName: Santa Rosa
+
 ---

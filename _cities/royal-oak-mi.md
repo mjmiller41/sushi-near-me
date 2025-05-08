@@ -5,4 +5,5 @@ permalink: /michigan/royal-oak/
 stateAbbr: MI
 stateName: Michigan
 cityName: Royal Oak
+
 ---

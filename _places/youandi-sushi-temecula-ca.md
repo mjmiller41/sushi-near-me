@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "YouandI Sushi"
+title: YouandI Sushi
 permalink: /california/temecula/youandi-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Temecula
 seo:
-  name: "YouandI Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "YouandI Sushi serves delicious sushi in Temecula, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJX8BSc5t_24AR8Bewx1VJr7Q
 photos:
   - name: >-
@@ -170,8 +168,113 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80db7f9b7352c05f:0xb4af4955c7b017f0!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 14
+        minute: 30
+    - open:
+        day: 0
+        hour: 16
+        minute: 30
+      close:
+        day: 0
+        hour: 20
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 14
+        minute: 30
+    - open:
+        day: 6
+        hour: 16
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: Closed'
+    - 'Tuesday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
+    - 'Thursday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
+    - 'Friday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
+    - 'Saturday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
+    - 'Sunday: 11:30 AM – 2:30 PM, 4:30 – 8:30 PM'
+  nextOpenTime: '2025-05-03T23:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +282,50 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
+phone: (951) 719-1083
 price_level: null
-price_range: null
-rating: null
-rating_count: 0
+price_range: $20 &ndash; $30
+rating: '4.7'
+rating_count: 284
 website: null
+description: >-
+  Discover YouandI Sushi in Temecula, CA$$$YouandI Sushi in Temecula, CA, stands
+  out as a welcoming spot for those seeking top-rated sushi restaurants,
+  offering a cozy atmosphere with fresh rolls, sake, and beer in a casual
+  setting. The menu highlights a variety of expertly crafted dishes made from
+  high-quality ingredients, perfect for anyone exploring Japanese-inspired
+  cuisine close to home. With accessibility features like wheelchair-friendly
+  parking and seating, it caters to a wide range of diners looking for inclusive
+  dining options. Operating hours provide flexibility for lunch or dinner,
+  making it an ideal choice for locals or visitors searching for reliable sushi
+  places near them. This establishment combines affordability with authentic
+  flavors, ensuring a memorable experience for sushi enthusiasts in the area.
+generative_summary: >-
+  Discover YouandI Sushi in Temecula, CA$$$YouandI Sushi in Temecula, CA, stands
+  out as a welcoming spot for those seeking top-rated sushi restaurants,
+  offering a cozy atmosphere with fresh rolls, sake, and beer in a casual
+  setting. The menu highlights a variety of expertly crafted dishes made from
+  high-quality ingredients, perfect for anyone exploring Japanese-inspired
+  cuisine close to home. With accessibility features like wheelchair-friendly
+  parking and seating, it caters to a wide range of diners looking for inclusive
+  dining options. Operating hours provide flexibility for lunch or dinner,
+  making it an ideal choice for locals or visitors searching for reliable sushi
+  places near them. This establishment combines affordability with authentic
+  flavors, ensuring a memorable experience for sushi enthusiasts in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About This Sushi Spot$$$Folks frequently praise the
+  fresh and creative sushi rolls at this Temecula favorite, noting how the use
+  of daily-sourced fish adds a unique twist to every bite. Many appreciate the
+  welcoming vibe and attentive service that make dining out feel relaxed and
+  enjoyable without breaking the bank. Prices are often described as reasonable
+  for the quality, giving a solid bang for your buck on standout dishes.
+  Overall, the atmosphere strikes a pleasant balance, creating a go-to spot for
+  groups or individuals craving a casual meal. If you're on the hunt for tasty
+  Japanese options nearby, this place consistently delivers a satisfying
+  experience that keeps people coming back.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +351,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

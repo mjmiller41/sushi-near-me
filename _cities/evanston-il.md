@@ -5,4 +5,5 @@ permalink: /illinois/evanston/
 stateAbbr: IL
 stateName: Illinois
 cityName: Evanston
+
 ---

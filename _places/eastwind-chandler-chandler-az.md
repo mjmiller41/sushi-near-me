@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Eastwind Chandler"
+title: Eastwind Chandler
 permalink: /arizona/chandler/eastwind-chandler.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Chandler
 seo:
-  name: "Eastwind Chandler"
-  type: Restaurant
+  type: restaurant
   links: https://www.facebook.com/EastwindSushi/
-description: "Eastwind Chandler serves delicious sushi in Chandler, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJjXHIYhCqK4cRMcY6eXYJhGs
 photos:
   - name: >-
@@ -170,7 +168,97 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x872baa1062c8718d:0x6b840976793ac631!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 2:30 PM, 4:30 – 9:30 PM'
     - 'Tuesday: 11:00 AM – 2:30 PM, 4:30 – 9:30 PM'
     - 'Wednesday: 11:00 AM – 2:30 PM, 4:30 – 9:30 PM'
@@ -178,14 +266,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:30 PM'
     - 'Saturday: 11:00 AM – 10:30 PM'
     - 'Sunday: 12:00 – 8:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 2:30 PM, 4:30 – 9:30 PM'
-    - 'Tuesday: 11:00 AM – 2:30 PM, 4:30 – 9:30 PM'
-    - 'Wednesday: 11:00 AM – 2:30 PM, 4:30 – 9:30 PM'
-    - 'Thursday: 11:00 AM – 2:30 PM, 4:30 – 9:30 PM'
-    - 'Friday: 11:00 AM – 10:30 PM'
-    - 'Saturday: 11:00 AM – 10:30 PM'
-    - 'Sunday: 12:00 – 8:00 PM'
+  nextCloseTime: '2025-05-04T05:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +278,282 @@ phone: (480) 855-7451
 price_level: PRICE_LEVEL_INEXPENSIVE
 price_range: $10 &ndash; $20
 rating: '4.2'
-rating_count: 0
+rating_count: 872
 website: https://www.facebook.com/EastwindSushi/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Experience Eastwind Chandler in Chandler, AZ$$$Nestled in the heart of
+  Chandler, AZ, Eastwind Chandler stands out as a laid-back spot for sushi
+  enthusiasts seeking a casual dining adventure. This welcoming eatery features
+  a revolving belt of fresh maki and nigiri rolls, paired with options for beer
+  and sake to enhance the meal. Patrons can enjoy an array of affordable
+  Japanese-inspired dishes in a relaxed atmosphere, making it a go-to choice for
+  those exploring sushi restaurants nearby. The venue's accessibility features,
+  like wheelchair-friendly seating and parking, add to its appeal for a broad
+  range of visitors. Whether you're in the mood for a quick lunch or an evening
+  out, this local favorite combines convenience with flavorful options that keep
+  diners coming back.
+generative_summary: >-
+  Experience Eastwind Chandler in Chandler, AZ$$$Nestled in the heart of
+  Chandler, AZ, Eastwind Chandler stands out as a laid-back spot for sushi
+  enthusiasts seeking a casual dining adventure. This welcoming eatery features
+  a revolving belt of fresh maki and nigiri rolls, paired with options for beer
+  and sake to enhance the meal. Patrons can enjoy an array of affordable
+  Japanese-inspired dishes in a relaxed atmosphere, making it a go-to choice for
+  those exploring sushi restaurants nearby. The venue's accessibility features,
+  like wheelchair-friendly seating and parking, add to its appeal for a broad
+  range of visitors. Whether you're in the mood for a quick lunch or an evening
+  out, this local favorite combines convenience with flavorful options that keep
+  diners coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJjXHIYhCqK4cRMcY6eXYJhGs/reviews/ChZDSUhNMG9nS0VJQ0FnSUNQX3ZYeFd3EAE
+    relativePublishTimeDescription: 5 months ago
+    rating: 3
+    text:
+      text: >-
+        This is what happens when a bunch of dudes with no restaurant experience
+        try to open a sushi restaurant. It looked like the staff had gotten into
+        a soy sauce fight before we showed up; all of the napkins and
+        countertops had soy sauce splattered everywhere.
+
+
+        The sushi was… warm. At 5pm. Big red flag. Thankfully, no diarrhea.
+
+
+        We were interrupted no fewer than 9 times by the staff, who definitely
+        resembled those annoying helicopter parents who linger unnecessarily at
+        their kids’s friend’s backyard birthday party.
+
+
+        Man, I just can’t get over that warm sushi. So freaking weird…
+      languageCode: en
+    originalText:
+      text: >-
+        This is what happens when a bunch of dudes with no restaurant experience
+        try to open a sushi restaurant. It looked like the staff had gotten into
+        a soy sauce fight before we showed up; all of the napkins and
+        countertops had soy sauce splattered everywhere.
+
+
+        The sushi was… warm. At 5pm. Big red flag. Thankfully, no diarrhea.
+
+
+        We were interrupted no fewer than 9 times by the staff, who definitely
+        resembled those annoying helicopter parents who linger unnecessarily at
+        their kids’s friend’s backyard birthday party.
+
+
+        Man, I just can’t get over that warm sushi. So freaking weird…
+      languageCode: en
+    authorAttribution:
+      displayName: Ryan
+      uri: https://www.google.com/maps/contrib/115257142540307196287/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjX1EJRvsrgR6a6Iiuu_kTtSHjdNxidw0mMnUrZTRtn4OmdcUwKEAw=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2024-11-24T23:55:55.187986Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNQX3ZYeFd3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNQX3ZYeFd3EAE!2m1!1s0x872baa1062c8718d:0x6b840976793ac631
+  - name: >-
+      places/ChIJjXHIYhCqK4cRMcY6eXYJhGs/reviews/ChdDSUhNMG9nS0VJQ0FnTURvd29qN2hnRRAB
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        Came here on a random Tuesday. We were the only ones in this place so we
+        were skeptical. Well we were very impressed to say the least. Great
+        sushi, great service, great portions… to top it all off it was very very
+        reasonably priced! 10/10 would come back
+      languageCode: en
+    originalText:
+      text: >-
+        Came here on a random Tuesday. We were the only ones in this place so we
+        were skeptical. Well we were very impressed to say the least. Great
+        sushi, great service, great portions… to top it all off it was very very
+        reasonably priced! 10/10 would come back
+      languageCode: en
+    authorAttribution:
+      displayName: weston zellers
+      uri: https://www.google.com/maps/contrib/115515887077277195933/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLFE3UFTUeVucq89GVfCufCWVfGlWAu7Icq9nvH9O5DWM9OMg=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-23T03:51:50.974009Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURvd29qN2hnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURvd29qN2hnRRAB!2m1!1s0x872baa1062c8718d:0x6b840976793ac631
+  - name: >-
+      places/ChIJjXHIYhCqK4cRMcY6eXYJhGs/reviews/ChZDSUhNMG9nS0VJQ0FnTUNROTVtd0d3EAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Great vibe and service. I really don’t know any other way to get sushi
+        than from a conveyor belt. They also can make a selection if they don’t
+        have it out and they’ll make it fresh. I mean it’s the best. Me and my
+        girlfriend come here all the time and we love it. Seriously this has
+        been my spot since high school going on 6 years now and I won’t eat
+        sushi anywhere else. The workers are so friendly and they make it a
+        comfortable atmosphere every-time. I recommend this spot highly!
+      languageCode: en
+    originalText:
+      text: >-
+        Great vibe and service. I really don’t know any other way to get sushi
+        than from a conveyor belt. They also can make a selection if they don’t
+        have it out and they’ll make it fresh. I mean it’s the best. Me and my
+        girlfriend come here all the time and we love it. Seriously this has
+        been my spot since high school going on 6 years now and I won’t eat
+        sushi anywhere else. The workers are so friendly and they make it a
+        comfortable atmosphere every-time. I recommend this spot highly!
+      languageCode: en
+    authorAttribution:
+      displayName: Braden Coleman
+      uri: https://www.google.com/maps/contrib/100943349437002168579/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXAKiSxl7vCFYAiBsKLZAfwiYI6RO8Oa_l6HoAXI-wtYNNIlTDQIQ=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-03-08T00:05:00.379844Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNROTVtd0d3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNROTVtd0d3EAE!2m1!1s0x872baa1062c8718d:0x6b840976793ac631
+  - name: >-
+      places/ChIJjXHIYhCqK4cRMcY6eXYJhGs/reviews/ChZDSUhNMG9nS0VJQ0FnTUNBcWFtS0x3EAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 1
+    text:
+      text: >-
+        Extremely disappointed. I’ve come here constantly for about 4 years now.
+        Always a good experience until today. Drove from Arrowhead all the way
+        here just for the food to be absolutely disgusting. The bar sushi was
+        moist and cold. I bit into a roll and the rice was completely
+        undercooked and hard. The Rangoon was wet, the spring roll also was wet
+        and soggy. After telling my waitress she told me she can take my half
+        bitten spring roll, and put it back in the deep fryer. Not only is that
+        a health code violation, it’s stupid and gross. I was then told “if you
+        want fresh food, order from the menu”. At that moment I felt extremely
+        belittled and disrespected. I was told that I was lying about my spring
+        roll, was constantly told that this is how the food always is, was told
+        “we’re not busy so they’re not making the food fresh every hour” and was
+        not shown any compassion for the utterly disgusting food I had just
+        eaten. Literally the worst experience ever and I will most definitely
+        never be back.
+      languageCode: en
+    originalText:
+      text: >-
+        Extremely disappointed. I’ve come here constantly for about 4 years now.
+        Always a good experience until today. Drove from Arrowhead all the way
+        here just for the food to be absolutely disgusting. The bar sushi was
+        moist and cold. I bit into a roll and the rice was completely
+        undercooked and hard. The Rangoon was wet, the spring roll also was wet
+        and soggy. After telling my waitress she told me she can take my half
+        bitten spring roll, and put it back in the deep fryer. Not only is that
+        a health code violation, it’s stupid and gross. I was then told “if you
+        want fresh food, order from the menu”. At that moment I felt extremely
+        belittled and disrespected. I was told that I was lying about my spring
+        roll, was constantly told that this is how the food always is, was told
+        “we’re not busy so they’re not making the food fresh every hour” and was
+        not shown any compassion for the utterly disgusting food I had just
+        eaten. Literally the worst experience ever and I will most definitely
+        never be back.
+      languageCode: en
+    authorAttribution:
+      displayName: Nah'Jei Cunningham
+      uri: https://www.google.com/maps/contrib/105857205586157730607/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJKjYxS1J8lVzT7YI5l3b8a3gIh3Oh4Nl_n0CuTkFzxwMhZZA=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-02-02T03:36:56.690311Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNBcWFtS0x3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNBcWFtS0x3EAE!2m1!1s0x872baa1062c8718d:0x6b840976793ac631
+  - name: >-
+      places/ChIJjXHIYhCqK4cRMcY6eXYJhGs/reviews/ChdDSUhNMG9nS0VJQ0FnSUNGam9tbmt3RRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 2
+    text:
+      text: >-
+        Went at night time. Sushi go round or a la carte. Chose to try out the
+        sushi go. Round.  $2.50 each plate, sushi wasn't stale, but didn't taste
+        very fresh
+
+        Whatevers on conveyor belt must have been made hours ago.
+
+
+        Will i return? Probably not. Was it a fun experience?. Kind of, but the
+        quality of food leaves something to be desired.
+      languageCode: en
+    originalText:
+      text: >-
+        Went at night time. Sushi go round or a la carte. Chose to try out the
+        sushi go. Round.  $2.50 each plate, sushi wasn't stale, but didn't taste
+        very fresh
+
+        Whatevers on conveyor belt must have been made hours ago.
+
+
+        Will i return? Probably not. Was it a fun experience?. Kind of, but the
+        quality of food leaves something to be desired.
+      languageCode: en
+    authorAttribution:
+      displayName: kimkimkim
+      uri: https://www.google.com/maps/contrib/117177852713658042934/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWtGDuTxnf0CaAUyJya18RlgbsBM0xP5YLXsymgT56D90kbifErKw=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-01-26T03:14:02.318202Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNGam9tbmt3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNGam9tbmt3RRAB!2m1!1s0x872baa1062c8718d:0x6b840976793ac631
+review_summary: >-
+  Visitor Feedback Highlights$$$Visitors often praise Eastwind Chandler for its
+  fun conveyor belt setup and solid selection of tasty rolls, making it a hit
+  for casual sushi outings. While most folks appreciate the friendly service and
+  reasonable prices that make it feel like a great value, a few mentions point
+  to occasional inconsistencies in food freshness during busier times. Overall,
+  the atmosphere and portions leave many satisfied, with highlights on the
+  welcoming vibe and quick service that enhance the experience. It's clear that
+  families and groups enjoy the accessible location and variety, though some
+  suggest sticking to peak hours for the best quality. If you're hunting for a
+  straightforward spot to try local sushi options, this place generally delivers
+  a enjoyable meal with room for the occasional tweak.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  freeGarageParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
 good_for_sports: null
-live_music: null
+live_music: false
 menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  This easygoing option with sushi bar seats offers a selection of maki & nigiri
+  on a conveyer belt.
 
 ---

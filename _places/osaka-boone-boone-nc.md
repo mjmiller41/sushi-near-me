@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Osaka Boone"
+title: Osaka Boone
 permalink: /north-carolina/boone/osaka-boone.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Boone
 seo:
-  name: "Osaka Boone"
-  type: Restaurant
+  type: restaurant
   links: https://www.ezordernow.com/osakaboone
-description: "Osaka Boone serves delicious sushi in Boone, North Carolina. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJIUz15lr6UIgRpluDNnF-6Ys
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $10 &ndash; $20
 rating: '3.7'
 rating_count: 0
 website: https://www.ezordernow.com/osakaboone
+description: >-
+  Explore Osaka Boone in Boone, NC$$$Osaka Boone in Boone, NC, stands out as a
+  relaxed spot for enjoying authentic Japanese-inspired dishes, including fresh
+  sushi and flavorful hibachi options. This Asian eatery offers a welcoming
+  atmosphere with accessible features like wheelchair-friendly seating and
+  parking, making it easy for everyone to savor teriyaki and other familiar
+  fare. The menu highlights affordable, diverse choices that cater to groups and
+  families, with options for vegetarian dishes and beer to enhance your meal.
+  Whether you're seeking sushi restaurants in the area or a casual place for
+  Japanese cuisine, this location delivers on taste and convenience, providing a
+  comfortable dining experience in a clean setting.
+generative_summary: >-
+  Explore Osaka Boone in Boone, NC$$$Osaka Boone in Boone, NC, stands out as a
+  relaxed spot for enjoying authentic Japanese-inspired dishes, including fresh
+  sushi and flavorful hibachi options. This Asian eatery offers a welcoming
+  atmosphere with accessible features like wheelchair-friendly seating and
+  parking, making it easy for everyone to savor teriyaki and other familiar
+  fare. The menu highlights affordable, diverse choices that cater to groups and
+  families, with options for vegetarian dishes and beer to enhance your meal.
+  Whether you're seeking sushi restaurants in the area or a casual place for
+  Japanese cuisine, this location delivers on taste and convenience, providing a
+  comfortable dining experience in a clean setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJIUz15lr6UIgRpluDNnF-6Ys/reviews/ChdDSUhNMG9nS0VJQ0FnTURRcU11VWdnRRAB
@@ -324,6 +345,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNnenNLWHRBRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNnenNLWHRBRRAB!2m1!1s0x8850fa5ae6f54c21:0x8be97e7136835ba6
+review_summary: >-
+  Visitor Feedback on Osaka Boone$$$Visitors often praise the food at this spot
+  for its excellent flavors, especially the hibachi and sushi selections that
+  stand out as some of the best around. While service is generally friendly and
+  efficient, a few folks have mentioned occasional waits or minor mix-ups that
+  could use some smoothing out. The clean environment and timely delivery keep
+  things positive overall, with many appreciating the reasonable prices and
+  variety on offer. If you're hunting for top-rated sushi near you, this place
+  gets solid nods for its tasty entrees and welcoming vibe, making it a go-to
+  choice despite the rare hiccup. All in all, it's a spot that delivers good
+  value and enjoyable meals for those exploring local Japanese places.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -355,7 +388,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

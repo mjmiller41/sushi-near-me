@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Katana Sushi & Hibachi"
+title: Katana Sushi & Hibachi
 permalink: /georgia/marietta/katana-sushi-hibachi.html
 stateAbbr: GA
 stateName: Georgia
 cityName: Marietta
 seo:
-  name: "Katana Sushi & Hibachi"
-  type: Restaurant
+  type: restaurant
   links: https://katanamarietta.com/
-description: "Katana Sushi & Hibachi serves delicious sushi in Marietta, Georgia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJfcOFRVIN9YgRaqEuBDVG3W4
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $20 &ndash; $30
 rating: '4.7'
 rating_count: 0
 website: https://katanamarietta.com/
+description: >-
+  Experience Katana Sushi & Hibachi in Marietta, GA$$$Nestled in Marietta, GA,
+  Katana Sushi & Hibachi stands out as a welcoming Japanese spot offering fresh
+  sushi rolls and classic fare in a relaxed atmosphere, perfect for those
+  searching for top-rated sushi options nearby. The restaurant boasts an array
+  of expertly prepared dishes that highlight high-quality ingredients, including
+  creative rolls and hibachi selections that appeal to sushi enthusiasts. With
+  thoughtful accessibility features and a casual vibe, it's an ideal choice for
+  anyone craving authentic Japanese flavors without the fuss. Ample parking and
+  a menu that includes vegetarian options make it convenient for families or
+  groups looking for sushi places near me. This spot combines affordability with
+  a cozy setting, ensuring a memorable dining experience that keeps locals
+  coming back.
+generative_summary: >-
+  Experience Katana Sushi & Hibachi in Marietta, GA$$$Nestled in Marietta, GA,
+  Katana Sushi & Hibachi stands out as a welcoming Japanese spot offering fresh
+  sushi rolls and classic fare in a relaxed atmosphere, perfect for those
+  searching for top-rated sushi options nearby. The restaurant boasts an array
+  of expertly prepared dishes that highlight high-quality ingredients, including
+  creative rolls and hibachi selections that appeal to sushi enthusiasts. With
+  thoughtful accessibility features and a casual vibe, it's an ideal choice for
+  anyone craving authentic Japanese flavors without the fuss. Ample parking and
+  a menu that includes vegetarian options make it convenient for families or
+  groups looking for sushi places near me. This spot combines affordability with
+  a cozy setting, ensuring a memorable dining experience that keeps locals
+  coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJfcOFRVIN9YgRaqEuBDVG3W4/reviews/ChdDSUhNMG9nS0VJQ0FnTURBbjhEQV9nRRAB
@@ -440,6 +465,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUMxc0pXeE93EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUMxc0pXeE93EAE!2m1!1s0x88f50d524585c37d:0x6edd4635042ea16a
+review_summary: >-
+  What Reviewers Are Buzzing About$$$Folks rave about the fresh and flavorful
+  sushi at this spot, with many highlighting the variety of rolls and specials
+  that make it a go-to for sushi lovers in the area. Service stands out as
+  friendly and attentive, creating a welcoming vibe that enhances the overall
+  meal, even if some note that the hibachi dishes could use a bit more flair.
+  Diners appreciate the modern atmosphere and reasonable prices, often
+  mentioning it as a solid pick for casual outings or family dinners. While
+  everything leans positive, a few comments suggest sticking to the sushi
+  highlights for the best experience, but the general consensus is that it's
+  worth trying for anyone seeking reliable Japanese places near me. Overall,
+  it's a spot that delivers on taste and hospitality, leaving visitors eager to
+  return for more delicious bites.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -472,7 +511,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

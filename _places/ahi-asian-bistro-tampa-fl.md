@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ahi Asian Bistro"
+title: Ahi Asian Bistro
 permalink: /florida/tampa/ahi-asian-bistro.html
 stateAbbr: FL
 stateName: Florida
 cityName: Tampa
 seo:
-  name: "Ahi Asian Bistro"
-  type: Restaurant
+  type: restaurant
   links: http://www.ahiasianbistro.com/
-description: "Ahi Asian Bistro serves delicious sushi in Tampa, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJyeFTA8DBwogRpNbNsMFWuFE
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $10 &ndash; $20
 rating: '4.7'
 rating_count: 0
 website: http://www.ahiasianbistro.com/
+description: >-
+  Experience Ahi Asian Bistro in Tampa, Florida$$$Ahi Asian Bistro in Tampa,
+  Florida, stands out as a cozy spot for savoring fresh Asian flavors, including
+  top-rated sushi and rolls that highlight high-quality ingredients. This
+  welcoming sushi restaurant offers a variety of dishes designed to please, from
+  vegetarian options to flavorful entrees, all served in an inviting atmosphere
+  that encourages relaxed dining. Patrons enjoy the thoughtful decor and
+  accessible features like outdoor seating, making it ideal for casual meals or
+  gatherings. Whether you're exploring sushi places near me or seeking
+  Japanese-inspired cuisine, this bistro delivers a satisfying blend of taste
+  and comfort that keeps visitors returning for more.
+generative_summary: >-
+  Experience Ahi Asian Bistro in Tampa, Florida$$$Ahi Asian Bistro in Tampa,
+  Florida, stands out as a cozy spot for savoring fresh Asian flavors, including
+  top-rated sushi and rolls that highlight high-quality ingredients. This
+  welcoming sushi restaurant offers a variety of dishes designed to please, from
+  vegetarian options to flavorful entrees, all served in an inviting atmosphere
+  that encourages relaxed dining. Patrons enjoy the thoughtful decor and
+  accessible features like outdoor seating, making it ideal for casual meals or
+  gatherings. Whether you're exploring sushi places near me or seeking
+  Japanese-inspired cuisine, this bistro delivers a satisfying blend of taste
+  and comfort that keeps visitors returning for more.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJyeFTA8DBwogRpNbNsMFWuFE/reviews/ChZDSUhNMG9nS0VJQ0FnTURROVotbExBEAE
@@ -430,6 +451,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR6OE4yNExBEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR6OE4yNExBEAE!2m1!1s0x88c2c1c00353e1c9:0x51b856c1b0cdd6a4
+review_summary: >-
+  Insights from Recent Reviews$$$Folks who've dined at this spot often praise
+  the super fresh ingredients and tasty sushi selections that make every bite
+  feel special and authentic. Many appreciate the friendly service and cozy
+  vibe, noting how it enhances the overall experience for groups or solo
+  outings. While some mention portions could be a bit more generous for the
+  price, the standout dishes like sweet shrimp and salmon belly still win over
+  fans looking for quality flavors. Overall, it's a go-to choice for anyone
+  searching for reliable sushi restaurants near me, with most agreeing that the
+  welcoming staff and variety keep things enjoyable and worth trying again. If
+  you're in the mood for something delicious, this place delivers a solid,
+  feel-good meal that lives up to the buzz.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   paidParkingLot: false
@@ -466,7 +500,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

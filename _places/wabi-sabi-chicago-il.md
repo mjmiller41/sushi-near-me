@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Wabi Sabi"
+title: Wabi Sabi
 permalink: /illinois/chicago/wabi-sabi.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
 seo:
-  name: "Wabi Sabi"
-  type: Restaurant
-  links: null
-description: "Wabi Sabi serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.wabisabiramen.com/
 place_id: ChIJexfyQeXND4gROm-dTl0vEaU
 photos:
   - name: >-
@@ -169,8 +167,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x880fcde541f2177b:0xa5112f5d4e9d6f3a!10e5
 primary_type: Ramen Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:30 PM'
+    - 'Tuesday: 11:00 AM – 9:30 PM'
+    - 'Wednesday: 11:00 AM – 9:30 PM'
+    - 'Thursday: 11:00 AM – 9:30 PM'
+    - 'Friday: 11:00 AM – 9:30 PM'
+    - 'Saturday: 11:00 AM – 9:30 PM'
+    - 'Sunday: 11:00 AM – 9:30 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -178,13 +241,47 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (773) 866-1161
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.4'
+rating_count: 506
+website: http://www.wabisabiramen.com/
+description: >-
+  Discover Wabi Sabi in Chicago, IL$$$Wabi Sabi in Chicago, IL, stands out as a
+  casual spot for savoring authentic Japanese flavors, blending hearty ramen
+  with fresh sushi and other favorites like teriyaki and tempura. This eatery
+  offers a welcoming atmosphere perfect for those exploring local Japanese
+  cuisine, with options that cater to a variety of tastes and dietary
+  preferences. Its moderate pricing and accessibility features, such as
+  wheelchair-friendly seating, make it an inclusive choice for diners seeking
+  quality meals in a relaxed setting. Open daily from late morning until
+  evening, it's ideal for anyone hunting for satisfying Japanese dishes in the
+  heart of the city, ensuring a memorable experience with every visit.
+generative_summary: >-
+  Discover Wabi Sabi in Chicago, IL$$$Wabi Sabi in Chicago, IL, stands out as a
+  casual spot for savoring authentic Japanese flavors, blending hearty ramen
+  with fresh sushi and other favorites like teriyaki and tempura. This eatery
+  offers a welcoming atmosphere perfect for those exploring local Japanese
+  cuisine, with options that cater to a variety of tastes and dietary
+  preferences. Its moderate pricing and accessibility features, such as
+  wheelchair-friendly seating, make it an inclusive choice for diners seeking
+  quality meals in a relaxed setting. Open daily from late morning until
+  evening, it's ideal for anyone hunting for satisfying Japanese dishes in the
+  heart of the city, ensuring a memorable experience with every visit.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Folks often highlight the tasty tonkotsu ramen and
+  fresh sushi as standout features, praising the spot for its reliable flavors
+  and solid portion sizes that keep things enjoyable without breaking the bank.
+  Many appreciate the quick service and great value, making it a go-to for
+  casual meals with friends or family. While some note that interactions with
+  staff can occasionally feel a bit rushed, the overall vibe remains positive
+  with consistent dishes like takoyaki and spicy options winning fans over. In
+  general, it's seen as a dependable choice for Japanese fare, offering enough
+  variety to satisfy cravings while delivering on affordability and taste.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +307,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

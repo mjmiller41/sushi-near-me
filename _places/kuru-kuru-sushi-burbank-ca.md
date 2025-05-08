@@ -1,15 +1,14 @@
 ---
 layout: place
-title: "Kuru Kuru Sushi"
+title: Kuru Kuru Sushi
 permalink: /california/burbank/kuru-kuru-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Burbank
 seo:
-  name: "Kuru Kuru Sushi"
-  type: Restaurant
-  links: https://www.clover.com/online-ordering/kuru-kuru-burbank?utm_source=web-dashboard&utm_medium=qrcode&utm_campaign=olo-qr-template
-description: "Kuru Kuru Sushi serves delicious sushi in Burbank, California. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: >-
+    https://www.clover.com/online-ordering/kuru-kuru-burbank?utm_source=web-dashboard&utm_medium=qrcode&utm_campaign=olo-qr-template
 place_id: ChIJFXz_g9S_woARZeFRKFSs-dM
 photos:
   - name: >-
@@ -170,7 +169,97 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c2bfd483ff7c15:0xd3f9ac542851e165!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 14
+        minute: 0
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
     - 'Tuesday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
     - 'Wednesday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
@@ -178,14 +267,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 2:30 PM, 5:00 – 9:30 PM'
     - 'Saturday: 5:00 – 9:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
-    - 'Tuesday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
-    - 'Wednesday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
-    - 'Thursday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
-    - 'Friday: 11:30 AM – 2:30 PM, 5:00 – 9:30 PM'
-    - 'Saturday: 5:00 – 9:00 PM'
-    - 'Sunday: Closed'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,36 +279,268 @@ phone: (818) 848-3355
 price_level: null
 price_range: null
 rating: '4.4'
-rating_count: 0
+rating_count: 154
 website: >-
   https://www.clover.com/online-ordering/kuru-kuru-burbank?utm_source=web-dashboard&utm_medium=qrcode&utm_campaign=olo-qr-template
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Kuru Kuru Sushi in Burbank, CA$$$Nestled in the heart of Burbank, CA,
+  Kuru Kuru Sushi stands out as a welcoming spot for those craving authentic
+  Japanese flavors and fresh seafood options. This sushi restaurant offers a
+  variety of lunch and dinner selections, including creative rolls and drinks,
+  all set within the vibrant Burbank Towne Center for an easy dining experience.
+  With its focus on high-quality ingredients and accessible features like
+  wheelchair-friendly parking and seating, it's an ideal choice for anyone
+  exploring top-rated sushi restaurants in the area. The cozy atmosphere and
+  thoughtful menu make it a go-to destination for sushi enthusiasts looking for
+  a casual yet refined meal near local attractions.
+generative_summary: >-
+  Discover Kuru Kuru Sushi in Burbank, CA$$$Nestled in the heart of Burbank, CA,
+  Kuru Kuru Sushi stands out as a welcoming spot for those craving authentic
+  Japanese flavors and fresh seafood options. This sushi restaurant offers a
+  variety of lunch and dinner selections, including creative rolls and drinks,
+  all set within the vibrant Burbank Towne Center for an easy dining experience.
+  With its focus on high-quality ingredients and accessible features like
+  wheelchair-friendly parking and seating, it's an ideal choice for anyone
+  exploring top-rated sushi restaurants in the area. The cozy atmosphere and
+  thoughtful menu make it a go-to destination for sushi enthusiasts looking for
+  a casual yet refined meal near local attractions.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJFXz_g9S_woARZeFRKFSs-dM/reviews/ChZDSUhNMG9nS0VJQ0FnSUM1MGV6dmNREAE
+    relativePublishTimeDescription: a year ago
+    rating: 2
+    text:
+      text: >-
+        There is no shortage of sushi selection in town. The sushi here leaves a
+        lot to be desired. The rolls are small for the price and given the small
+        portion of fish inside the rolls, it is hard to tell the freshness and
+        flavor of the ingredients. Amongst all the rolls ordered, the only one
+        that I would recommend would be K3 on the menu (Garlic Salmon Roll).
+
+
+        The seats were not clean and the tables still feel sticky from the
+        previous guests. The one time use chopsticks were low quality with some
+        tips were discolored already.
+
+
+        For a similar price, there are much better alternatives.
+      languageCode: en
+    originalText:
+      text: >-
+        There is no shortage of sushi selection in town. The sushi here leaves a
+        lot to be desired. The rolls are small for the price and given the small
+        portion of fish inside the rolls, it is hard to tell the freshness and
+        flavor of the ingredients. Amongst all the rolls ordered, the only one
+        that I would recommend would be K3 on the menu (Garlic Salmon Roll).
+
+
+        The seats were not clean and the tables still feel sticky from the
+        previous guests. The one time use chopsticks were low quality with some
+        tips were discolored already.
+
+
+        For a similar price, there are much better alternatives.
+      languageCode: en
+    authorAttribution:
+      displayName: Kevin Wong
+      uri: https://www.google.com/maps/contrib/105521678299059092380/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXw3DzbJjzagFGCffaUf_bEzzROuckrEmR2MKidBKSJv211VH8c=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2023-10-14T22:17:07.999068Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUM1MGV6dmNREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUM1MGV6dmNREAE!2m1!1s0x80c2bfd483ff7c15:0xd3f9ac542851e165
+  - name: >-
+      places/ChIJFXz_g9S_woARZeFRKFSs-dM/reviews/ChdDSUhNMG9nS0VJQ0FnSURQemV1MzFRRRAB
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        The screen actors guild is the bomb. Every thing is good that I’ve had.
+        Service people are friendly but should use eye contact more. It’s hard
+        to get their attention because they are busy. I enjoy it here until kids
+        come in. It’s so small and they are usually loud and distracting. I
+        would recommend this place for sure. Except on Fridays. Super busy.
+      languageCode: en
+    originalText:
+      text: >-
+        The screen actors guild is the bomb. Every thing is good that I’ve had.
+        Service people are friendly but should use eye contact more. It’s hard
+        to get their attention because they are busy. I enjoy it here until kids
+        come in. It’s so small and they are usually loud and distracting. I
+        would recommend this place for sure. Except on Fridays. Super busy.
+      languageCode: en
+    authorAttribution:
+      displayName: Lisa clark
+      uri: https://www.google.com/maps/contrib/103879009064380372912/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWbjxXsQnc9BBSYWrkJD3vqk2U_S0xqqx6R-O8epMTHVrh6UGYO=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-12-04T17:11:56.127564Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURQemV1MzFRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURQemV1MzFRRRAB!2m1!1s0x80c2bfd483ff7c15:0xd3f9ac542851e165
+  - name: >-
+      places/ChIJFXz_g9S_woARZeFRKFSs-dM/reviews/ChdDSUhNMG9nS0VJQ0FnSURPOHVhNDh3RRAB
+    relativePublishTimeDescription: 2 years ago
+    rating: 5
+    text:
+      text: >-
+        Great sushi and great people.
+
+        There is a reason that Kuru Kuru was voted Burbank’s best sushi.
+
+        While small and unassuming, this unfussy sushi place gets right to the
+        point. Best seat is at the counter, and a little blackboard at the end
+        gives the day’s fresh catch and chef recommendations. The sushi and
+        sashimi preparations melt in your mouth, and the cut rolls are
+        dimensionally pleasing and structurally sound - no weird jaw-unhinging
+        needed or messy dropsies here!
+
+        The “regulars” are frequent and many, and you can tell by the greetings
+        and practiced orders that they share my appreciation.
+
+        We’ve left happy and full every time - and always there is a new bite of
+        delicious discovery enjoyed.
+
+        The staff is friendly, professional and the fish is fresh.
+      languageCode: en
+    originalText:
+      text: >-
+        Great sushi and great people.
+
+        There is a reason that Kuru Kuru was voted Burbank’s best sushi.
+
+        While small and unassuming, this unfussy sushi place gets right to the
+        point. Best seat is at the counter, and a little blackboard at the end
+        gives the day’s fresh catch and chef recommendations. The sushi and
+        sashimi preparations melt in your mouth, and the cut rolls are
+        dimensionally pleasing and structurally sound - no weird jaw-unhinging
+        needed or messy dropsies here!
+
+        The “regulars” are frequent and many, and you can tell by the greetings
+        and practiced orders that they share my appreciation.
+
+        We’ve left happy and full every time - and always there is a new bite of
+        delicious discovery enjoyed.
+
+        The staff is friendly, professional and the fish is fresh.
+      languageCode: en
+    authorAttribution:
+      displayName: Alex Hill
+      uri: https://www.google.com/maps/contrib/112469548086392618465/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjV7_CzyWXMYL8fvasq2f1Ctuks3jV8MdGOU4kQNABY5eaolOBTS=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2022-07-02T01:08:56.825475Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURPOHVhNDh3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURPOHVhNDh3RRAB!2m1!1s0x80c2bfd483ff7c15:0xd3f9ac542851e165
+  - name: >-
+      places/ChIJFXz_g9S_woARZeFRKFSs-dM/reviews/ChdDSUhNMG9nS0VJQ0FnSURBZ2Q2YV9RRRAB
+    relativePublishTimeDescription: 6 years ago
+    rating: 5
+    text:
+      text: >-
+        I love Kuru Kuru. The sushi here is delicious. They have excellent house
+        specials, too along with a huge selection to choose from. It was this
+        restaurant that got me hooked on Hakutsuru's Junmai Ginjo Sake. The
+        staff here is awesome, attentive and they always have great music
+        playing, too. A great spot for an intimate dinner however we love
+        sitting at the bar and speaking with the sushi chef,  Johnny. Definitely
+        our number 1 favorite spot for sushi!
+      languageCode: en
+    originalText:
+      text: >-
+        I love Kuru Kuru. The sushi here is delicious. They have excellent house
+        specials, too along with a huge selection to choose from. It was this
+        restaurant that got me hooked on Hakutsuru's Junmai Ginjo Sake. The
+        staff here is awesome, attentive and they always have great music
+        playing, too. A great spot for an intimate dinner however we love
+        sitting at the bar and speaking with the sushi chef,  Johnny. Definitely
+        our number 1 favorite spot for sushi!
+      languageCode: en
+    authorAttribution:
+      displayName: Mortimer Thebear
+      uri: https://www.google.com/maps/contrib/107672358814466417548/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXRqwpc6Yo6hoYVRHwvqqYwyVkKT7FTjiqjJnqdbdLS3XHyi50=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2018-08-31T12:31:33.356099Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURBZ2Q2YV9RRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURBZ2Q2YV9RRRAB!2m1!1s0x80c2bfd483ff7c15:0xd3f9ac542851e165
+  - name: >-
+      places/ChIJFXz_g9S_woARZeFRKFSs-dM/reviews/ChZDSUhNMG9nS0VJQ0FnSUNPenBLeUF3EAE
+    relativePublishTimeDescription: 2 years ago
+    rating: 5
+    text:
+      text: >-
+        My go to sushi spot! Super fresh and delicious. They just won best sushi
+        in Burbank!!!!
+      languageCode: en
+    originalText:
+      text: >-
+        My go to sushi spot! Super fresh and delicious. They just won best sushi
+        in Burbank!!!!
+      languageCode: en
+    authorAttribution:
+      displayName: Meghan Lynch
+      uri: https://www.google.com/maps/contrib/107769248785449569113/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKn0SgDXDa9I1DRGillSZPaj-rWIkgl5Qk3Lu9RcyNndMhQHQ=s128-c0x00000000-cc-rp-mo
+    publishTime: '2022-06-10T05:50:53.531980Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNPenBLeUF3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNPenBLeUF3EAE!2m1!1s0x80c2bfd483ff7c15:0xd3f9ac542851e165
+review_summary: >-
+  What Customers Are Saying About This Spot$$$Visitors often rave about the
+  fresh and flavorful sushi offerings, making it a reliable pick for anyone
+  hunting for quality Japanese eats nearby. While some folks mention that
+  portions could be more generous, the overall experience shines through with
+  praise for the friendly service and welcoming vibe that keeps regulars coming
+  back. Many appreciate the cozy setting and solid selection, noting it's
+  perfect for a relaxed dinner or quick bite after a day out. Despite a few
+  comments on busier times affecting the pace, the general consensus leans
+  positive, highlighting it as a top choice for sushi lovers seeking a
+  satisfying meal in a convenient location. All in all, it's a spot that
+  delivers on fresh tastes and good value, encouraging diners to give it a try
+  for their next sushi adventure.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: true
+live_music: false
 menu_for_children: null
 outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+reservable: true
+restroom: true
+serves_beer: true
 serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+serves_brunch: false
+serves_cocktails: false
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

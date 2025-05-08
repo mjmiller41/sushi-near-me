@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Bonsai 3"
+title: Bonsai 3
 permalink: /new-york/fishkill/bonsai-3.html
 stateAbbr: NY
 stateName: New York
 cityName: Fishkill
 seo:
-  name: "Bonsai 3"
-  type: Restaurant
-  links: null
-description: "Bonsai 3 serves delicious sushi in Fishkill, New York. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.ezordernow.com/bonsai3
 place_id: ChIJxdfG82833YkRd-E5xuz58WQ
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89dd376ff3c6d7c5:0x64f1f9ecc639e177!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 10:00 PM'
+    - 'Tuesday: 11:00 AM – 10:00 PM'
+    - 'Wednesday: 11:00 AM – 10:00 PM'
+    - 'Thursday: 11:00 AM – 10:00 PM'
+    - 'Friday: 11:00 AM – 10:30 PM'
+    - 'Saturday: 11:00 AM – 10:30 PM'
+    - 'Sunday: 12:00 – 10:00 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,51 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
+phone: (845) 896-8808
 price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+price_range: $10 &ndash; $20
+rating: '4.3'
+rating_count: 114
+website: https://www.ezordernow.com/bonsai3
+description: >-
+  Discover Bonsai 3 in Fishkill, NY$$$Bonsai 3 in Fishkill, New York, is a
+  welcoming Japanese restaurant known for its fresh sushi and classic dishes
+  served in a laid-back setting. The spot features a variety of traditional
+  Japanese plates that highlight quality ingredients and authentic flavors,
+  making it a great choice for those seeking sushi options nearby. Nestled in a
+  convenient plaza location, it offers accessibility features like
+  wheelchair-friendly entrances and seating, ensuring a comfortable visit for
+  all. With extended hours that cater to both lunch and dinner crowds, it's an
+  ideal place to unwind and enjoy flavorful meals in a relaxed environment. This
+  sushi haven stands out as one of the top Japanese places in the area,
+  appealing to anyone craving a satisfying dining experience.
+generative_summary: >-
+  Discover Bonsai 3 in Fishkill, NY$$$Bonsai 3 in Fishkill, New York, is a
+  welcoming Japanese restaurant known for its fresh sushi and classic dishes
+  served in a laid-back setting. The spot features a variety of traditional
+  Japanese plates that highlight quality ingredients and authentic flavors,
+  making it a great choice for those seeking sushi options nearby. Nestled in a
+  convenient plaza location, it offers accessibility features like
+  wheelchair-friendly entrances and seating, ensuring a comfortable visit for
+  all. With extended hours that cater to both lunch and dinner crowds, it's an
+  ideal place to unwind and enjoy flavorful meals in a relaxed environment. This
+  sushi haven stands out as one of the top Japanese places in the area,
+  appealing to anyone craving a satisfying dining experience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$From the solid 4.3-star rating based on over 100
+  reviews, folks seem to really appreciate the fresh sushi and tasty Japanese
+  offerings at this spot, often noting the great value for the price. Many
+  diners mention the relaxed atmosphere as a highlight, making it a go-to for
+  casual meals with friends or family without any fuss. While opinions vary, the
+  overall feedback leans positive, with praise for the attentive service and
+  variety of dishes that keep things interesting. It's clear that the authentic
+  flavors and welcoming vibe have won over plenty of repeat customers, though
+  some suggest checking for busier times to avoid waits. All in all, if you're
+  hunting for reliable sushi restaurants nearby, this place comes across as a
+  solid pick that delivers on both taste and convenience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +312,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

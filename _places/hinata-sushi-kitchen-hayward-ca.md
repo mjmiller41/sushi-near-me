@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Hinata Sushi Kitchen"
+title: Hinata Sushi Kitchen
 permalink: /california/hayward/hinata-sushi-kitchen.html
 stateAbbr: CA
 stateName: California
 cityName: Hayward
 seo:
-  name: "Hinata Sushi Kitchen"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Hinata Sushi Kitchen serves delicious sushi in Hayward, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJbbd-n6WTj4ARMu0vFPq9rUw
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x808f93a59f7eb76d:0x4cadbdfa142fed32!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 9:30 PM'
     - 'Tuesday: 11:30 AM – 9:30 PM'
     - 'Wednesday: 11:30 AM – 9:30 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 10:30 PM'
     - 'Saturday: 11:30 AM – 10:30 PM'
     - 'Sunday: 11:30 AM – 9:30 PM'
-  current:
-    - 'Monday: 11:30 AM – 9:30 PM'
-    - 'Tuesday: 11:30 AM – 9:30 PM'
-    - 'Wednesday: 11:30 AM – 9:30 PM'
-    - 'Thursday: 11:30 AM – 9:30 PM'
-    - 'Friday: 11:30 AM – 10:30 PM'
-    - 'Saturday: 11:30 AM – 10:30 PM'
-    - 'Sunday: 11:30 AM – 9:30 PM'
+  nextCloseTime: '2025-05-04T05:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,262 @@ phone: (510) 881-8868
 price_level: PRICE_LEVEL_MODERATE
 price_range: $30 &ndash; $50
 rating: '4.0'
-rating_count: 0
+rating_count: 282
 website: null
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Hinata Sushi Kitchen in Hayward, CA$$$Hinata Sushi Kitchen in
+  Hayward, California, stands out as a casual dining destination offering an
+  all-you-can-eat array of fresh sushi rolls and Japanese-inspired dishes,
+  making it a go-to spot for those seeking top-rated sushi options nearby. The
+  restaurant features a welcoming atmosphere with accessible seating and
+  entrances, ideal for groups looking to enjoy a variety of flavorful selections
+  in a relaxed setting. Patrons can savor high-quality seafood and sides,
+  enhanced by thoughtful touches like outdoor seating and a menu that caters to
+  different tastes, including vegetarian choices. With convenient hours from
+  late morning into the evening, it's perfect for lunch or dinner cravings at
+  Japanese places near you, ensuring a satisfying experience without the fuss.
+generative_summary: >-
+  Discover Hinata Sushi Kitchen in Hayward, CA$$$Hinata Sushi Kitchen in
+  Hayward, California, stands out as a casual dining destination offering an
+  all-you-can-eat array of fresh sushi rolls and Japanese-inspired dishes,
+  making it a go-to spot for those seeking top-rated sushi options nearby. The
+  restaurant features a welcoming atmosphere with accessible seating and
+  entrances, ideal for groups looking to enjoy a variety of flavorful selections
+  in a relaxed setting. Patrons can savor high-quality seafood and sides,
+  enhanced by thoughtful touches like outdoor seating and a menu that caters to
+  different tastes, including vegetarian choices. With convenient hours from
+  late morning into the evening, it's perfect for lunch or dinner cravings at
+  Japanese places near you, ensuring a satisfying experience without the fuss.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJbbd-n6WTj4ARMu0vFPq9rUw/reviews/ChZDSUhNMG9nS0VJQ0FnTURnenZTT0lBEAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        Hinata Sushi in Hayward offers a dining experience rooted in quality and
+        simplicity. The salmon sushi was fresh and well-prepared, a reminder
+        that great ingredients need little embellishment. The Omakase box
+        provided a well-curated selection, each piece speaking for itself. The
+        beef skewers were flavorful and satisfying, and even the fries—an
+        unexpected addition—were crisp and enjoyable, enhanced by a variety of
+        well-balanced sauces. The atmosphere was relaxed, and sharing the meal
+        with a best friend made it all the more worthwhile. Good food, good
+        company—nothing more is needed.
+      languageCode: en
+    originalText:
+      text: >-
+        Hinata Sushi in Hayward offers a dining experience rooted in quality and
+        simplicity. The salmon sushi was fresh and well-prepared, a reminder
+        that great ingredients need little embellishment. The Omakase box
+        provided a well-curated selection, each piece speaking for itself. The
+        beef skewers were flavorful and satisfying, and even the fries—an
+        unexpected addition—were crisp and enjoyable, enhanced by a variety of
+        well-balanced sauces. The atmosphere was relaxed, and sharing the meal
+        with a best friend made it all the more worthwhile. Good food, good
+        company—nothing more is needed.
+      languageCode: en
+    authorAttribution:
+      displayName: Amritpal Bhagat
+      uri: https://www.google.com/maps/contrib/104501149953700300558/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUobxoWK6hP4fZdWkNNXzwmGXi2fsuoLy0xvZyHEZXHtaxquuZ3=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2025-02-24T18:59:42.996816Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURnenZTT0lBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURnenZTT0lBEAE!2m1!1s0x808f93a59f7eb76d:0x4cadbdfa142fed32
+  - name: >-
+      places/ChIJbbd-n6WTj4ARMu0vFPq9rUw/reviews/ChdDSUhNMG9nS0VJQ0FnTURvMWVDeXFRRRAB
+    relativePublishTimeDescription: in the last week
+    rating: 5
+    text:
+      text: >-
+        Really amazing quality for AYCE! In particular the Tuna quality was
+        really high, and they had some kind of chu-toro or otoro in their
+        sashimi omakase box?! Anyways, amazing AYCE sushi for $42 and the sides
+        were also very yummy!
+      languageCode: en
+    originalText:
+      text: >-
+        Really amazing quality for AYCE! In particular the Tuna quality was
+        really high, and they had some kind of chu-toro or otoro in their
+        sashimi omakase box?! Anyways, amazing AYCE sushi for $42 and the sides
+        were also very yummy!
+      languageCode: en
+    authorAttribution:
+      displayName: Jonathan Joo
+      uri: https://www.google.com/maps/contrib/117354981604813208194/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXoh_hY0lpfUJu4T6STncfJAPfP9FW_dcSbYtYWpVT225dswqvRtA=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-27T05:47:17.459669Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURvMWVDeXFRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURvMWVDeXFRRRAB!2m1!1s0x808f93a59f7eb76d:0x4cadbdfa142fed32
+  - name: >-
+      places/ChIJbbd-n6WTj4ARMu0vFPq9rUw/reviews/ChdDSUhNMG9nS0VJQ0FnSURuX2JxWDRnRRAB
+    relativePublishTimeDescription: 6 months ago
+    rating: 5
+    text:
+      text: >-
+        First time at all you can eat sushi spot. Everything was fine. Sushi was
+        fresh. Only thing was I'm not a all you can eat person. Take my wife
+        there to try it. Service was great as well. Wish there was a door at the
+        entrance. The day my wife and I went is was hot and the place was kind
+        of warm at the area where we sat.
+      languageCode: en
+    originalText:
+      text: >-
+        First time at all you can eat sushi spot. Everything was fine. Sushi was
+        fresh. Only thing was I'm not a all you can eat person. Take my wife
+        there to try it. Service was great as well. Wish there was a door at the
+        entrance. The day my wife and I went is was hot and the place was kind
+        of warm at the area where we sat.
+      languageCode: en
+    authorAttribution:
+      displayName: P Saechao (RPM510)
+      uri: https://www.google.com/maps/contrib/109693348857178851973/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKEPAhJ3JfE6sCZsxvHFVpwqcju3XjFb8uMKjOHEh68Wh9Wew=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-10-09T05:23:12.847529Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURuX2JxWDRnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURuX2JxWDRnRRAB!2m1!1s0x808f93a59f7eb76d:0x4cadbdfa142fed32
+  - name: >-
+      places/ChIJbbd-n6WTj4ARMu0vFPq9rUw/reviews/ChZDSUhNMG9nS0VJQ0FnSURmM0xiVEhBEAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 4
+    text:
+      text: >-
+        Legit sushi buffet! Sashimi quality is above average but not the
+        best....but cmon now, it all you can eat! Been here 3 times and never
+        been disappointed, the omakase is a nice touch but you can also order
+        the sashimi if you want more. The beef n pork skewers were also good, i
+        ordered mine without the teriyaki sauce which can be too sweet
+        sometimes. Overall, great place to go if you're craving sushi! Great
+        staff, nice menu offering, and good atmosphere.
+      languageCode: en
+    originalText:
+      text: >-
+        Legit sushi buffet! Sashimi quality is above average but not the
+        best....but cmon now, it all you can eat! Been here 3 times and never
+        been disappointed, the omakase is a nice touch but you can also order
+        the sashimi if you want more. The beef n pork skewers were also good, i
+        ordered mine without the teriyaki sauce which can be too sweet
+        sometimes. Overall, great place to go if you're craving sushi! Great
+        staff, nice menu offering, and good atmosphere.
+      languageCode: en
+    authorAttribution:
+      displayName: kuling balmaceda
+      uri: https://www.google.com/maps/contrib/100298806888684626586/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXzfsZk7h_CqxSh9tfZPzTmmQUaC1dNnBArrB1kFKHaOj8LRxqK=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-01-04T17:12:55.130388Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURmM0xiVEhBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURmM0xiVEhBEAE!2m1!1s0x808f93a59f7eb76d:0x4cadbdfa142fed32
+  - name: >-
+      places/ChIJbbd-n6WTj4ARMu0vFPq9rUw/reviews/ChZDSUhNMG9nS0VJQ0FnSUN2Z3FQZlpBEAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        Recently moved to Hayward from Fremont, and was asked to give this
+        recommendation a try. I was really impressed with the quality of their
+        seafood and the speed of service. The staff were all very nice and
+        welcoming, which is major in the food industry.
+
+
+        Started off with the Omakase box, pork belly skewers, miso soup, gyudon,
+        potstickers, and chicken karaage. Everything was a hit! My favorite had
+        to be the pork belly. I'm not sure what the sauce was, but it's was
+        sticky, sweet, and delicious.
+
+
+        I ended my order with a few other rolls that were extremely satisfying.
+        Everything ordered was shared family style, and we were beyond stuffed.
+        $200+ for a group of 4, with all the food we ordered, is a steal
+        compared to full menu restaurants.
+      languageCode: en
+    originalText:
+      text: >-
+        Recently moved to Hayward from Fremont, and was asked to give this
+        recommendation a try. I was really impressed with the quality of their
+        seafood and the speed of service. The staff were all very nice and
+        welcoming, which is major in the food industry.
+
+
+        Started off with the Omakase box, pork belly skewers, miso soup, gyudon,
+        potstickers, and chicken karaage. Everything was a hit! My favorite had
+        to be the pork belly. I'm not sure what the sauce was, but it's was
+        sticky, sweet, and delicious.
+
+
+        I ended my order with a few other rolls that were extremely satisfying.
+        Everything ordered was shared family style, and we were beyond stuffed.
+        $200+ for a group of 4, with all the food we ordered, is a steal
+        compared to full menu restaurants.
+      languageCode: en
+    authorAttribution:
+      displayName: Chan Man
+      uri: https://www.google.com/maps/contrib/101192234895734969507/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUtCWaPxwrzK4Oies1dL_GC2DZzAuUd72gu38FIz_4YKP6jdITd3Q=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-12-10T07:07:08.029544Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN2Z3FQZlpBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN2Z3FQZlpBEAE!2m1!1s0x808f93a59f7eb76d:0x4cadbdfa142fed32
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this sushi spot often rave about the
+  fresh, high-quality ingredients that make every bite feel worthwhile,
+  especially in their all-you-can-eat deals that offer great value for the
+  price. Many appreciate the friendly service and efficient staff who keep
+  things running smoothly, helping to create a comfortable vibe for casual
+  meals. While some mention minor temperature issues in certain areas, the
+  overall consensus highlights the variety of dishes like skewers and rolls that
+  keep things exciting and satisfying. Folks find it a solid choice for groups
+  or families, with plenty of options to please different preferences, making it
+  a reliable pick for anyone hunting for the best sushi around. In short, it's a
+  welcoming place where good food and a laid-back feel combine to leave diners
+  happy and eager to return.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
 serves_breakfast: null
-serves_brunch: null
+serves_brunch: true
 serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
 serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

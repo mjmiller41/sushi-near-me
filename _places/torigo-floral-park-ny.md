@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Torigo"
+title: Torigo
 permalink: /new-york/floral-park/torigo.html
 stateAbbr: NY
 stateName: New York
 cityName: Floral Park
 seo:
-  name: "Torigo"
-  type: Restaurant
+  type: restaurant
   links: https://www.torigorestaurant.com/
-description: "Casual Japanese outpost offering a roster of rolls & tempura, plus fried ice cream for dessert. Torigo serves delicious sushi in Floral Park, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJL33hHVliwokRc8B-PlqI2Xs
 photos:
   - name: >-
@@ -184,6 +182,31 @@ price_range: null
 rating: '4.6'
 rating_count: 0
 website: https://www.torigorestaurant.com/
+description: >-
+  Discover Torigo in Floral Park, NY$$$Torigo in Floral Park, NY, stands out as
+  a welcoming Japanese eatery known for its cozy atmosphere and inviting vibe.
+  This spot offers a variety of fresh sushi rolls, flavorful bento boxes, and
+  classic tempura, making it a go-to choice for those seeking authentic Japanese
+  flavors in a relaxed setting. With accessible features like
+  wheelchair-friendly entrances and seating, it ensures everyone can enjoy the
+  experience comfortably. The menu extends to delightful desserts, adding a
+  sweet finish to meals that highlight quality ingredients and thoughtful
+  preparation. Whether you're looking for sushi options nearby or a casual
+  Japanese meal, Torigo delivers a memorable dining experience that combines
+  simplicity with satisfying tastes.
+generative_summary: >-
+  Discover Torigo in Floral Park, NY$$$Torigo in Floral Park, NY, stands out as
+  a welcoming Japanese eatery known for its cozy atmosphere and inviting vibe.
+  This spot offers a variety of fresh sushi rolls, flavorful bento boxes, and
+  classic tempura, making it a go-to choice for those seeking authentic Japanese
+  flavors in a relaxed setting. With accessible features like
+  wheelchair-friendly entrances and seating, it ensures everyone can enjoy the
+  experience comfortably. The menu extends to delightful desserts, adding a
+  sweet finish to meals that highlight quality ingredients and thoughtful
+  preparation. Whether you're looking for sushi options nearby or a casual
+  Japanese meal, Torigo delivers a memorable dining experience that combines
+  simplicity with satisfying tastes.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJL33hHVliwokRc8B-PlqI2Xs/reviews/ChZDSUhNMG9nS0VJQ0FnSURYbDdIbEh3EAE
@@ -369,6 +392,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURmNWVPbXJBRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURmNWVPbXJBRRAB!2m1!1s0x89c262591de17d2f:0x7bd9885a3e7ec073
+review_summary: >-
+  What Customers Are Saying$$$Visitors often rave about the fresh and flavorful
+  sushi at this spot, with many highlighting the high-quality rolls and entrees
+  that keep them coming back for more. While most feedback praises the friendly
+  service and welcoming atmosphere, a few mentions point to occasional
+  inconsistencies in customer interactions, though these seem to be exceptions.
+  Overall, the vibe is buzzing and enjoyable, especially for groups or those
+  grabbing a quick lunch, with bento boxes standing out as perfectly portioned
+  and tasty. If you're searching for top-rated Japanese places near you, this
+  location generally delivers a solid experience that's worth trying for its
+  reliable flavors and convenient options. Keep in mind that while the positives
+  far outweigh any minor hiccups, it's always a good idea to check for peak
+  times to ensure a smooth visit.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidParkingLot: true
   paidStreetParking: true
@@ -401,8 +438,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Casual Japanese outpost offering a roster of rolls & tempura, plus fried ice
   cream for dessert.
 

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Flyin Fin Sushi and Seafood"
+title: Flyin Fin Sushi and Seafood
 permalink: /california/redondo-beach/flyin-fin-sushi-and-seafood.html
 stateAbbr: CA
 stateName: California
 cityName: Redondo Beach
 seo:
-  name: "Flyin Fin Sushi and Seafood"
-  type: Restaurant
+  type: restaurant
   links: http://flyinfin.com/
-description: "Flyin Fin Sushi and Seafood serves delicious sushi in Redondo Beach, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJYbSDRldL3YARTTOIqq4xnoE
 photos:
   - name: >-
@@ -170,7 +168,105 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80dd4b574683b461:0x819e31aeaa88334d!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 2:30 PM, 4:30 – 9:30 PM'
     - 'Tuesday: 11:30 AM – 2:30 PM, 4:30 – 9:30 PM'
     - 'Wednesday: 11:30 AM – 2:30 PM, 4:30 – 9:30 PM'
@@ -178,14 +274,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 2:30 PM, 4:30 – 10:00 PM'
     - 'Saturday: 12:00 – 10:00 PM'
     - 'Sunday: 12:00 – 9:30 PM'
-  current:
-    - 'Monday: 11:30 AM – 2:30 PM, 4:30 – 9:30 PM'
-    - 'Tuesday: 11:30 AM – 2:30 PM, 4:30 – 9:30 PM'
-    - 'Wednesday: 11:30 AM – 2:30 PM, 4:30 – 9:30 PM'
-    - 'Thursday: 11:30 AM – 2:30 PM, 4:30 – 9:30 PM'
-    - 'Friday: 11:30 AM – 2:30 PM, 4:30 – 10:00 PM'
-    - 'Saturday: 12:00 – 10:00 PM'
-    - 'Sunday: 12:00 – 9:30 PM'
+  nextCloseTime: '2025-05-04T05:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +286,246 @@ phone: (310) 373-3718
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.5'
-rating_count: 0
+rating_count: 370
 website: http://flyinfin.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Flyin Fin Sushi in Redondo Beach, CA$$$Flyin Fin Sushi and Seafood in
+  Redondo Beach, CA, provides a relaxed and inviting spot for enjoying creative
+  sushi and Japanese-inspired dishes, highlighted by fresh seafood and happy
+  hour deals that attract locals and visitors alike. The restaurant features a
+  cozy, minimalist setup with outdoor seating options, making it ideal for
+  casual meals in a vibrant coastal atmosphere. Accessibility is a key strength,
+  with wheelchair-friendly parking, entrances, and seating that ensure everyone
+  can enjoy the experience. Patrons appreciate the moderate pricing and variety
+  of options, from classic rolls to unique specials, positioning it as a go-to
+  choice for fresh sushi in the area. Whether you're seeking a quick bite or a
+  leisurely dinner, this spot combines quality ingredients with a welcoming vibe
+  to enhance your dining adventure.
+generative_summary: >-
+  Discover Flyin Fin Sushi in Redondo Beach, CA$$$Flyin Fin Sushi and Seafood in
+  Redondo Beach, CA, provides a relaxed and inviting spot for enjoying creative
+  sushi and Japanese-inspired dishes, highlighted by fresh seafood and happy
+  hour deals that attract locals and visitors alike. The restaurant features a
+  cozy, minimalist setup with outdoor seating options, making it ideal for
+  casual meals in a vibrant coastal atmosphere. Accessibility is a key strength,
+  with wheelchair-friendly parking, entrances, and seating that ensure everyone
+  can enjoy the experience. Patrons appreciate the moderate pricing and variety
+  of options, from classic rolls to unique specials, positioning it as a go-to
+  choice for fresh sushi in the area. Whether you're seeking a quick bite or a
+  leisurely dinner, this spot combines quality ingredients with a welcoming vibe
+  to enhance your dining adventure.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJYbSDRldL3YARTTOIqq4xnoE/reviews/ChdDSUhNMG9nS0VJQ0FnTURJMlBMUW9RRRAB
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 5
+    text:
+      text: >-
+        Flying Fin is a great sushi place right in the heart of the Riv.. with
+        the outdoor dining on the street and a lively indoor bar area.  The menu
+        has many of the typical items but there are some nice special rolls and
+        dishes you won't find elsewhere.  Service is friendly and fast.. they
+        are busy and tend to be pretty crowded at peak times... and friends you
+        want a BUSY sushi place.. that means they sell through the fish
+        constantly and it is always fresh.  We have dined here countless times
+        and we always enjoy it.. making it one of our favorite sushi spots in
+        the area.  Parking is parking... plan accordingly.. bring your feet and
+        some quarters.
+      languageCode: en
+    originalText:
+      text: >-
+        Flying Fin is a great sushi place right in the heart of the Riv.. with
+        the outdoor dining on the street and a lively indoor bar area.  The menu
+        has many of the typical items but there are some nice special rolls and
+        dishes you won't find elsewhere.  Service is friendly and fast.. they
+        are busy and tend to be pretty crowded at peak times... and friends you
+        want a BUSY sushi place.. that means they sell through the fish
+        constantly and it is always fresh.  We have dined here countless times
+        and we always enjoy it.. making it one of our favorite sushi spots in
+        the area.  Parking is parking... plan accordingly.. bring your feet and
+        some quarters.
+      languageCode: en
+    authorAttribution:
+      displayName: Swoon Lashes
+      uri: https://www.google.com/maps/contrib/118097095326970967142/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUqHjtRpWqDFG15BfrjvQLfnfvZBI0wgC0BGHjcfPjIxgOLdC4=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-06T21:39:28.080498Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJMlBMUW9RRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJMlBMUW9RRRAB!2m1!1s0x80dd4b574683b461:0x819e31aeaa88334d
+  - name: >-
+      places/ChIJYbSDRldL3YARTTOIqq4xnoE/reviews/ChdDSUhNMG9nS0VJQ0FnSURQaDhDdjdBRRAB
+    relativePublishTimeDescription: 4 months ago
+    rating: 4
+    text:
+      text: >-
+        Nice outdoors seating on a good day. Had 2 rolls and 2 "carpaccio".
+        Rolls were ok but had better in the area. The albacore with onion was a
+        definite pass, it did not work at all imo. The snapper was delicious,
+        light and refreshing flavor.
+      languageCode: en
+    originalText:
+      text: >-
+        Nice outdoors seating on a good day. Had 2 rolls and 2 "carpaccio".
+        Rolls were ok but had better in the area. The albacore with onion was a
+        definite pass, it did not work at all imo. The snapper was delicious,
+        light and refreshing flavor.
+      languageCode: en
+    authorAttribution:
+      displayName: electro wasabi
+      uri: https://www.google.com/maps/contrib/102272806035685061938/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUDausqnWWLNOq631Ylytsvfbd5EJfqWTJlH6PJ1UAknSLLhucE=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-12-06T00:26:06.796041Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURQaDhDdjdBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURQaDhDdjdBRRAB!2m1!1s0x80dd4b574683b461:0x819e31aeaa88334d
+  - name: >-
+      places/ChIJYbSDRldL3YARTTOIqq4xnoE/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3d3RIWU5nEAE
+    relativePublishTimeDescription: a month ago
+    rating: 2
+    text:
+      text: >-
+        The service was great and friendly. All of the food tasted fine, though
+        fish in our sushi seemed a little less cold than I typically expect.
+
+
+        The next day my wife and I both felt fairly ill. It was the only place
+        we ate at together on our visit, which eliminates other variables, and
+        we shared all of the food we ordered.
+      languageCode: en
+    originalText:
+      text: >-
+        The service was great and friendly. All of the food tasted fine, though
+        fish in our sushi seemed a little less cold than I typically expect.
+
+
+        The next day my wife and I both felt fairly ill. It was the only place
+        we ate at together on our visit, which eliminates other variables, and
+        we shared all of the food we ordered.
+      languageCode: en
+    authorAttribution:
+      displayName: DJ Eickhoff
+      uri: https://www.google.com/maps/contrib/112828115194713612877/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJdavD6tdE_TquJcEnm7TCdbOYWPT3Bxpd6SU0QE3xMcXkJiw=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-03-24T19:39:48.394852Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUR3d3RIWU5nEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUR3d3RIWU5nEAE!2m1!1s0x80dd4b574683b461:0x819e31aeaa88334d
+  - name: >-
+      places/ChIJYbSDRldL3YARTTOIqq4xnoE/reviews/ChdDSUhNMG9nS0VJQ0FnTUNvaGV1SmdBRRAB
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        If you have unruly toddlers or 4 legged family members you can dine
+        outside, very casual. Sushi choices were varied definitely recommend. We
+        had the salmon collar and yellow fin collar as appetizers. They were
+        excellent.
+      languageCode: en
+    originalText:
+      text: >-
+        If you have unruly toddlers or 4 legged family members you can dine
+        outside, very casual. Sushi choices were varied definitely recommend. We
+        had the salmon collar and yellow fin collar as appetizers. They were
+        excellent.
+      languageCode: en
+    authorAttribution:
+      displayName: Denise Bynum Vignati
+      uri: https://www.google.com/maps/contrib/101528267830859312099/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIyDt-OXteV_sNLKJUjEqpVdkzZ34LOwDtTNI3d3G8bEXLIJA=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-18T15:50:49.827299Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNvaGV1SmdBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNvaGV1SmdBRRAB!2m1!1s0x80dd4b574683b461:0x819e31aeaa88334d
+  - name: >-
+      places/ChIJYbSDRldL3YARTTOIqq4xnoE/reviews/ChdDSUhNMG9nS0VJQ0FnSURYOHJETV9nRRAB
+    relativePublishTimeDescription: 6 months ago
+    rating: 1
+    text:
+      text: >-
+        A metal wire in the food.
+
+        The taste is good. But... My wife ate Unagi rolls yesterday and she felt
+        something scraping her mouth, but she thought it was bones and swallowed
+        it. But today she ate the leftovers, felt something foreign again and
+        found a metal wire, about 1.5 inches long. She is shocked and assumes
+        that she swallowed some wire yesterday and is afraid for her health.
+      languageCode: en
+    originalText:
+      text: >-
+        A metal wire in the food.
+
+        The taste is good. But... My wife ate Unagi rolls yesterday and she felt
+        something scraping her mouth, but she thought it was bones and swallowed
+        it. But today she ate the leftovers, felt something foreign again and
+        found a metal wire, about 1.5 inches long. She is shocked and assumes
+        that she swallowed some wire yesterday and is afraid for her health.
+      languageCode: en
+    authorAttribution:
+      displayName: Pavlo Skyba
+      uri: https://www.google.com/maps/contrib/102824587783026293678/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVQzVjQXiM57tFC1OqMikWo9nZ4udm1bbj2hWIVsLY5luCcQjee=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2024-10-25T20:58:42.176897Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURYOHJETV9nRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURYOHJETV9nRRAB!2m1!1s0x80dd4b574683b461:0x819e31aeaa88334d
+review_summary: >-
+  What Customers Love About the Reviews$$$Folks rave about the fresh,
+  high-quality sushi at this spot, often highlighting the generous portions and
+  creative flavors that make it stand out among local options. Many appreciate
+  the lively outdoor seating, which adds a fun, casual element perfect for
+  enjoying meals in the fresh air. Service gets high marks for being friendly
+  and efficient, helping to create a welcoming environment that keeps diners
+  coming back. While a few mentions note occasional inconsistencies like
+  less-than-ideal preparations, the overall consensus leans positive,
+  emphasizing fair value and tasty selections. If you're on the hunt for
+  reliable sushi nearby, this place delivers a solid experience that's worth
+  checking out for its standout features and community vibe.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  paidStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
+delivery: true
+dine_in: true
+good_for_children: true
 good_for_groups: null
-good_for_sports: null
+good_for_sports: false
 live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+menu_for_children: false
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Japanese fish specialist offering sushi & sashimi in cozy, minimalist digs
+  with outdoor tables.
 
 ---

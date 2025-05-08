@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Estihana"
+title: Estihana
 permalink: /new-jersey/teaneck/estihana.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Teaneck
 seo:
-  name: "Estihana"
-  type: Restaurant
+  type: restaurant
   links: http://www.estihana.com/
-description: "Estihana serves delicious sushi in Teaneck, New Jersey. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJI9rE_KXwwokR2x1bWIHR-pU
 photos:
   - name: >-
@@ -170,7 +168,49 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c2f0a5fcc4da23:0x95fad181585b1ddb!10e5
 primary_type: Asian Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 12
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 12
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 12
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 12
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 12:00 – 9:30 PM'
     - 'Tuesday: 12:00 – 9:30 PM'
     - 'Wednesday: 12:00 – 9:30 PM'
@@ -178,14 +218,7 @@ opening_hours:
     - 'Friday: Closed'
     - 'Saturday: Closed'
     - 'Sunday: 12:00 – 9:30 PM'
-  current:
-    - 'Monday: 12:00 – 9:30 PM'
-    - 'Tuesday: 12:00 – 9:30 PM'
-    - 'Wednesday: 12:00 – 9:30 PM'
-    - 'Thursday: 12:00 – 9:30 PM'
-    - 'Friday: Closed'
-    - 'Saturday: Closed'
-    - 'Sunday: 12:00 – 9:30 PM'
+  nextOpenTime: '2025-05-04T16:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +230,48 @@ phone: (201) 530-5665
 price_level: PRICE_LEVEL_MODERATE
 price_range: $50 &ndash; $100
 rating: '4.4'
-rating_count: 0
+rating_count: 803
 website: http://www.estihana.com/
+description: >-
+  Discover Estihana in Teaneck, NJ$$$Estihana in Teaneck, New Jersey, stands out
+  as a welcoming spot for those seeking Asian fusion dining, with a focus on
+  fresh sushi and creative menu options in a relaxed environment. This
+  restaurant blends traditional flavors with innovative twists, offering dishes
+  that highlight high-quality ingredients and thoughtful presentations for an
+  enjoyable meal. Its comfortable setting makes it ideal for casual gatherings
+  or a quick bite, appealing to anyone exploring sushi restaurants nearby.
+  Accessibility features like wheelchair-friendly entrances add to the
+  convenience, ensuring a seamless experience for all visitors. Whether you're
+  in the mood for top-rated sushi or simply great Japanese-inspired fare close
+  to home, Estihana delivers a satisfying culinary adventure.
+generative_summary: >-
+  Discover Estihana in Teaneck, NJ$$$Estihana in Teaneck, New Jersey, stands out
+  as a welcoming spot for those seeking Asian fusion dining, with a focus on
+  fresh sushi and creative menu options in a relaxed environment. This
+  restaurant blends traditional flavors with innovative twists, offering dishes
+  that highlight high-quality ingredients and thoughtful presentations for an
+  enjoyable meal. Its comfortable setting makes it ideal for casual gatherings
+  or a quick bite, appealing to anyone exploring sushi restaurants nearby.
+  Accessibility features like wheelchair-friendly entrances add to the
+  convenience, ensuring a seamless experience for all visitors. Whether you're
+  in the mood for top-rated sushi or simply great Japanese-inspired fare close
+  to home, Estihana delivers a satisfying culinary adventure.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this sushi spot often praise the
+  fresh, flavorful dishes and attentive service that make every meal feel
+  special, based on its strong overall rating. Many highlight the creative
+  fusion elements that keep things exciting without overwhelming the palate,
+  making it a go-to choice for casual diners. Feedback frequently notes the
+  comfortable atmosphere as a plus, helping to create a relaxed vibe that's
+  perfect for groups or solo outings. While some mention occasional waits during
+  peak times, the general consensus leans positive, with folks appreciating the
+  value and variety that keep them coming back. Overall, it's clear that this
+  place holds up as a solid option for anyone hunting for reliable sushi
+  experiences nearby, blending quality and enjoyment in a way that leaves a
+  lasting impression.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +297,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yamachen Sushi"
+title: Yamachen Sushi
 permalink: /virginia/yorktown/yamachen-sushi.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Yorktown
 seo:
-  name: "Yamachen Sushi"
-  type: Restaurant
-  links: null
-description: "Yamachen Sushi serves delicious sushi in Yorktown, Virginia. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.yamachen.com/
 place_id: ChIJkRZgS1N_sIkRttj365_Pqj4
 photos:
   - name: >-
@@ -170,8 +168,113 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89b07f534b601691:0x3eaacf9febf7d8b6!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 15
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 15
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:30 AM – 3:00 PM, 4:30 – 9:30 PM'
+    - 'Tuesday: 11:30 AM – 3:00 PM, 4:30 – 9:30 PM'
+    - 'Wednesday: 11:30 AM – 3:00 PM, 4:30 – 9:30 PM'
+    - 'Thursday: 11:30 AM – 3:00 PM, 4:30 – 9:30 PM'
+    - 'Friday: 11:30 AM – 3:00 PM, 4:30 – 10:00 PM'
+    - 'Saturday: 12:00 – 10:00 PM'
+    - 'Sunday: 12:00 – 9:30 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +282,54 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (757) 234-8899
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.8'
+rating_count: 810
+website: http://www.yamachen.com/
+description: >-
+  Discover Yamachen Sushi in Yorktown, VA$$$Yamachen Sushi in Yorktown, VA,
+  stands out as a cozy haven for those craving authentic Japanese flavors,
+  featuring an array of fresh sushi rolls and traditional dishes that capture
+  the essence of Japanese cuisine. The restaurant boasts a relaxed atmosphere
+  perfect for casual dining or intimate gatherings, complemented by a selection
+  of beverages like beer and wine to enhance your meal. Accessibility is a key
+  highlight, with features such as wheelchair-accessible parking and seating
+  making it welcoming for all visitors. Operating with flexible hours, including
+  evenings and weekends, it's an ideal spot for anyone searching for quality
+  sushi options nearby. Whether you're exploring top-rated Japanese places in
+  the area, this establishment delivers a satisfying blend of taste and comfort
+  that keeps diners coming back.
+generative_summary: >-
+  Discover Yamachen Sushi in Yorktown, VA$$$Yamachen Sushi in Yorktown, VA,
+  stands out as a cozy haven for those craving authentic Japanese flavors,
+  featuring an array of fresh sushi rolls and traditional dishes that capture
+  the essence of Japanese cuisine. The restaurant boasts a relaxed atmosphere
+  perfect for casual dining or intimate gatherings, complemented by a selection
+  of beverages like beer and wine to enhance your meal. Accessibility is a key
+  highlight, with features such as wheelchair-accessible parking and seating
+  making it welcoming for all visitors. Operating with flexible hours, including
+  evenings and weekends, it's an ideal spot for anyone searching for quality
+  sushi options nearby. Whether you're exploring top-rated Japanese places in
+  the area, this establishment delivers a satisfying blend of taste and comfort
+  that keeps diners coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this sushi spot often rave about the
+  mouthwatering rolls and ultra-fresh sashimi that make every bite feel like a
+  treat, along with delightful surprises like complimentary cheesecake to wrap
+  up the experience. Folks appreciate the warm and attentive service that
+  creates a laid-back vibe, helping to make meals feel effortless and enjoyable.
+  Prices here strike a great balance, offering solid value without skimping on
+  quality, which is a big plus for anyone watching their budget. Overall, the
+  welcoming environment adds to the appeal, turning a simple dinner into a
+  relaxing outing that leaves people feeling satisfied. If you're on the hunt
+  for reliable sushi restaurants in the region, this place consistently delivers
+  a positive experience that highlights its strengths while staying true to what
+  customers love.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +355,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

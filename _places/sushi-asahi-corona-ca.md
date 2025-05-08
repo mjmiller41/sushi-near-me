@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Asahi"
+title: Sushi Asahi
 permalink: /california/corona/sushi-asahi.html
 stateAbbr: CA
 stateName: California
 cityName: Corona
 seo:
-  name: "Sushi Asahi"
-  type: Restaurant
-  links: null
-description: "Sushi Asahi serves delicious sushi in Corona, California. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://sushiasahi.net/
 place_id: ChIJVyPNw5O33IARwVwjvW8Qf1Y
 photos:
   - name: >-
@@ -143,7 +141,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC6uISJxAE!2e10!4m2!3m1!1s0x80dcb793c3cd2357:0x567f106fbd235cc1
 address: Corona Hills Plaza, 420 N McKinley St STE 106, Corona, CA 92879, USA
-street: Corona Hills Plaza, 420 N McKinley St STE 106
+street: Corona Hills Plaza,420 N McKinley St STE 106
 city: Corona
 state: CA
 zip: '92879'
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80dcb793c3cd2357:0x567f106fbd235cc1!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 20
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 20
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 20
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 20
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:30 AM – 8:30 PM'
+    - 'Tuesday: 11:30 AM – 8:30 PM'
+    - 'Wednesday: 11:30 AM – 8:30 PM'
+    - 'Thursday: 11:30 AM – 8:30 PM'
+    - 'Friday: 11:30 AM – 9:30 PM'
+    - 'Saturday: 11:30 AM – 9:30 PM'
+    - 'Sunday: 11:30 AM – 9:30 PM'
+  nextCloseTime: '2025-05-04T04:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,54 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (951) 738-3000
+price_level: PRICE_LEVEL_MODERATE
+price_range: $30 &ndash; $50
+rating: '4.3'
+rating_count: 1042
+website: https://sushiasahi.net/
+description: >-
+  Discover Sushi Asahi in Corona, CA$$$Sushi Asahi in Corona, California, stands
+  out as a welcoming Japanese eatery that combines fresh flavors with a relaxed
+  vibe, making it a go-to spot for sushi enthusiasts. This spot features an
+  array of creative rolls and an appealing all-you-can-eat option, perfect for
+  those looking to sample a variety of dishes without breaking the bank. With
+  its accessible entrance and seating designed for everyone, it's an inclusive
+  choice for casual meals in a bustling plaza setting. The restaurant maintains
+  convenient hours, opening mid-morning to accommodate both lunch crowds and
+  evening diners seeking authentic tastes. Whether you're exploring sushi places
+  nearby or craving top-rated Japanese cuisine, Sushi Asahi delivers a
+  satisfying experience that highlights quality ingredients and thoughtful
+  preparation.
+generative_summary: >-
+  Discover Sushi Asahi in Corona, CA$$$Sushi Asahi in Corona, California, stands
+  out as a welcoming Japanese eatery that combines fresh flavors with a relaxed
+  vibe, making it a go-to spot for sushi enthusiasts. This spot features an
+  array of creative rolls and an appealing all-you-can-eat option, perfect for
+  those looking to sample a variety of dishes without breaking the bank. With
+  its accessible entrance and seating designed for everyone, it's an inclusive
+  choice for casual meals in a bustling plaza setting. The restaurant maintains
+  convenient hours, opening mid-morning to accommodate both lunch crowds and
+  evening diners seeking authentic tastes. Whether you're exploring sushi places
+  nearby or craving top-rated Japanese cuisine, Sushi Asahi delivers a
+  satisfying experience that highlights quality ingredients and thoughtful
+  preparation.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Feedback on the Experience$$$Visitors to this sushi spot often praise the
+  fresh, flavorful rolls and the value of the all-you-can-eat deal, making it a
+  solid pick for groups or anyone in the mood for variety. Many comments
+  highlight the friendly service and clean atmosphere, which add to the overall
+  enjoyment without any major drawbacks. While some note that wait times can
+  vary during peak hours, the general consensus leans positive, with folks
+  appreciating the reasonable prices and tasty options that keep them coming
+  back. It's clear that the restaurant hits the mark for those searching for
+  reliable sushi restaurants in the area, offering a balance of quality and
+  affordability that leaves diners satisfied. All in all, the buzz around here
+  suggests it's worth trying if you're after a casual, enjoyable meal that
+  doesn't disappoint.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +315,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,14 @@
 ---
 layout: place
-title: "Inari Sushi"
+title: Inari Sushi
 permalink: /illinois/elmwood-park/inari-sushi.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Elmwood Park
 seo:
-  name: "Inari Sushi"
-  type: Restaurant
-  links: https://www.smorefood.com/order-online/inari-sushi-elmwood-park-60707-xsyepkq5?utm_source=gmb&utm_medium=website
-description: "Japanese restaurant & bar serving sushi & hot entrees in chic modern surroundings with a patio. Inari Sushi serves delicious sushi in Elmwood Park, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
+  type: restaurant
+  links: >-
+    https://www.smorefood.com/order-online/inari-sushi-elmwood-park-60707-xsyepkq5?utm_source=gmb&utm_medium=website
 place_id: ChIJG6nTICbLD4gRfZgs84Rez5o
 photos:
   - name: >-
@@ -186,6 +185,31 @@ rating: '4.5'
 rating_count: 0
 website: >-
   https://www.smorefood.com/order-online/inari-sushi-elmwood-park-60707-xsyepkq5?utm_source=gmb&utm_medium=website
+description: >-
+  Experience Inari Sushi in Elmwood Park, IL$$$Inari Sushi in Elmwood Park, IL,
+  stands out as a welcoming Japanese spot for those seeking fresh sushi and
+  relaxed dining. This restaurant offers a variety of familiar rolls alongside
+  hot entrees, all served in a chic, modern environment that includes a cozy
+  patio for outdoor enjoyment. Patrons can savor a chill atmosphere complemented
+  by options like sake, cocktails, and beer, making it ideal for casual meals or
+  gatherings. The spot emphasizes accessibility with features like
+  wheelchair-friendly entrances and seating, ensuring a comfortable visit for
+  all. For anyone exploring sushi restaurants near me, this location delivers a
+  blend of quality flavors and thoughtful ambiance that keeps diners coming
+  back.
+generative_summary: >-
+  Experience Inari Sushi in Elmwood Park, IL$$$Inari Sushi in Elmwood Park, IL,
+  stands out as a welcoming Japanese spot for those seeking fresh sushi and
+  relaxed dining. This restaurant offers a variety of familiar rolls alongside
+  hot entrees, all served in a chic, modern environment that includes a cozy
+  patio for outdoor enjoyment. Patrons can savor a chill atmosphere complemented
+  by options like sake, cocktails, and beer, making it ideal for casual meals or
+  gatherings. The spot emphasizes accessibility with features like
+  wheelchair-friendly entrances and seating, ensuring a comfortable visit for
+  all. For anyone exploring sushi restaurants near me, this location delivers a
+  blend of quality flavors and thoughtful ambiance that keeps diners coming
+  back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJG6nTICbLD4gRfZgs84Rez5o/reviews/ChZDSUhNMG9nS0VJQ0FnSURmcnYyY1RnEAE
@@ -351,6 +375,21 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN2ODlEYzhBRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN2ODlEYzhBRRAB!2m1!1s0x880fcb2620d3a91b:0x9acf5e84f32c987d
+review_summary: >-
+  Visitor Feedback on Inari Sushi$$$Folks rave about the laid-back vibe and
+  tasty dishes at this spot, with many highlighting the delicious sushi rolls
+  and affordable lunch specials that make it a go-to for everyday meals. While
+  one comment mentioned some inconsistencies with portion sizes and preparation,
+  the overall buzz leans toward positive experiences, like the well-fried
+  tempura and flavorful sides that hit the spot without breaking the bank.
+  Reviewers often note the quick service and inviting setting, perfect for
+  families or couples looking for japanese places near me that deliver solid
+  value. Despite a rare hiccup, the general consensus is that it's worth trying
+  for anyone hunting top rated sushi, as the friendly staff and variety keep the
+  energy upbeat and satisfying. If you're in the area searching for sushi close
+  to me, this place generally delivers a enjoyable meal with room for repeat
+  visits.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -383,8 +422,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Japanese restaurant & bar serving sushi & hot entrees in chic modern
   surroundings with a patio.
 

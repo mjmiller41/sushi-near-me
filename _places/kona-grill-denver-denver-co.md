@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kona Grill - Denver"
+title: Kona Grill - Denver
 permalink: /colorado/denver/kona-grill-denver.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Denver
 seo:
-  name: "Kona Grill - Denver"
-  type: Restaurant
+  type: restaurant
   links: https://konagrill.com/locations?locations=Denver,80206
-description: "Kona Grill - Denver serves delicious sushi in Denver, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJX4Jmj5B-bIcRuvDQd9B-06k
 photos:
   - name: >-
@@ -143,7 +141,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPcpTi6NiNF4diUF6uP3wkBs0Edjk8qw3KW_ars!2e10!4m2!3m1!1s0x876c7e908f66825f:0xa9d37ed077d0f0ba
 address: '3000 East 1st Ave, #184 Cherry Creek Mall, Denver, CO 80206, USA'
-street: '3000 East 1st Ave, #184 Cherry Creek Mall'
+street: 3000 East 1st Ave,#184 Cherry Creek Mall
 city: Denver
 state: CO
 zip: '80206'
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x876c7e908f66825f:0xa9d37ed077d0f0ba!10e5
 primary_type: American Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 10
+        minute: 0
+      close:
+        day: 0
+        hour: 23
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 0
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 0
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 0
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 0
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 1
+        minute: 0
+    - open:
+        day: 6
+        hour: 10
+        minute: 0
+      close:
+        day: 0
+        hour: 1
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 12:00 AM'
     - 'Tuesday: 11:00 AM – 12:00 AM'
     - 'Wednesday: 11:00 AM – 12:00 AM'
@@ -178,54 +234,454 @@ opening_hours:
     - 'Friday: 11:00 AM – 1:00 AM'
     - 'Saturday: 10:00 AM – 1:00 AM'
     - 'Sunday: 10:00 AM – 11:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 12:00 AM'
-    - 'Tuesday: 11:00 AM – 12:00 AM'
-    - 'Wednesday: 11:00 AM – 12:00 AM'
-    - 'Thursday: 11:00 AM – 12:00 AM'
-    - 'Friday: 11:00 AM – 1:00 AM'
-    - 'Saturday: 10:00 AM – 1:00 AM'
-    - 'Sunday: 10:00 AM – 11:00 PM'
+  nextCloseTime: '2025-05-04T07:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: false
+    periods:
+      - open:
+          day: 0
+          hour: 21
+          minute: 0
+        close:
+          day: 1
+          hour: 0
+          minute: 0
+      - open:
+          day: 1
+          hour: 14
+          minute: 0
+        close:
+          day: 1
+          hour: 18
+          minute: 0
+      - open:
+          day: 1
+          hour: 21
+          minute: 0
+        close:
+          day: 2
+          hour: 0
+          minute: 0
+      - open:
+          day: 2
+          hour: 14
+          minute: 0
+        close:
+          day: 2
+          hour: 18
+          minute: 0
+      - open:
+          day: 2
+          hour: 21
+          minute: 0
+        close:
+          day: 3
+          hour: 0
+          minute: 0
+      - open:
+          day: 3
+          hour: 14
+          minute: 0
+        close:
+          day: 3
+          hour: 18
+          minute: 0
+      - open:
+          day: 3
+          hour: 21
+          minute: 0
+        close:
+          day: 4
+          hour: 0
+          minute: 0
+      - open:
+          day: 4
+          hour: 14
+          minute: 0
+        close:
+          day: 4
+          hour: 18
+          minute: 0
+      - open:
+          day: 4
+          hour: 21
+          minute: 0
+        close:
+          day: 5
+          hour: 0
+          minute: 0
+      - open:
+          day: 5
+          hour: 14
+          minute: 0
+        close:
+          day: 5
+          hour: 18
+          minute: 0
+      - open:
+          day: 5
+          hour: 21
+          minute: 0
+        close:
+          day: 6
+          hour: 1
+          minute: 0
+      - open:
+          day: 6
+          hour: 21
+          minute: 0
+        close:
+          day: 0
+          hour: 1
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 2:00 – 6:00 PM, 9:00 PM – 12:00 AM'
+      - 'Tuesday: 2:00 – 6:00 PM, 9:00 PM – 12:00 AM'
+      - 'Wednesday: 2:00 – 6:00 PM, 9:00 PM – 12:00 AM'
+      - 'Thursday: 2:00 – 6:00 PM, 9:00 PM – 12:00 AM'
+      - 'Friday: 2:00 – 6:00 PM, 9:00 PM – 1:00 AM'
+      - 'Saturday: 9:00 PM – 1:00 AM'
+      - 'Sunday: 9:00 PM – 12:00 AM'
+    secondaryHoursType: HAPPY_HOUR
+    nextOpenTime: '2025-05-04T03:00:00Z'
+  - openNow: false
+    periods:
+      - open:
+          day: 0
+          hour: 10
+          minute: 0
+        close:
+          day: 0
+          hour: 14
+          minute: 0
+      - open:
+          day: 6
+          hour: 10
+          minute: 0
+        close:
+          day: 6
+          hour: 14
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: Closed'
+      - 'Tuesday: Closed'
+      - 'Wednesday: Closed'
+      - 'Thursday: Closed'
+      - 'Friday: Closed'
+      - 'Saturday: 10:00 AM – 2:00 PM'
+      - 'Sunday: 10:00 AM – 2:00 PM'
+    secondaryHoursType: BRUNCH
+    nextOpenTime: '2025-05-04T16:00:00Z'
+  - openNow: false
+    periods:
+      - open:
+          day: 1
+          hour: 11
+          minute: 0
+        close:
+          day: 1
+          hour: 14
+          minute: 0
+      - open:
+          day: 2
+          hour: 11
+          minute: 0
+        close:
+          day: 2
+          hour: 14
+          minute: 0
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 14
+          minute: 0
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 14
+          minute: 0
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 14
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 11:00 AM – 2:00 PM'
+      - 'Tuesday: 11:00 AM – 2:00 PM'
+      - 'Wednesday: 11:00 AM – 2:00 PM'
+      - 'Thursday: 11:00 AM – 2:00 PM'
+      - 'Friday: 11:00 AM – 2:00 PM'
+      - 'Saturday: Closed'
+      - 'Sunday: Closed'
+    secondaryHoursType: LUNCH
+    nextOpenTime: '2025-05-05T17:00:00Z'
 phone: (720) 974-1300
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.7'
-rating_count: 0
+rating_count: 13859
 website: https://konagrill.com/locations?locations=Denver,80206
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Kona Grill in Denver, CO$$$Kona Grill in Denver, CO, delivers a blend
+  of global-inspired American cuisine and fresh sushi options in a
+  polished-casual setting, making it a go-to spot for those seeking quality
+  dining near the city center. The menu highlights inventive dishes that cater
+  to various tastes, including light fare and flavorful cocktails, all served in
+  an atmosphere that's both lively and welcoming for casual outings or special
+  occasions. With features like wheelchair-accessible entrances and outdoor
+  seating, it's designed to accommodate diverse needs while offering a relaxed
+  vibe perfect for exploring sushi restaurants in the area. Ample parking and
+  extended hours add to the convenience, ideal for anyone looking for top-rated
+  sushi spots close to home. This location stands out for its commitment to a
+  modern dining experience that combines accessibility with a menu full of
+  creative flavors.
+generative_summary: >-
+  Discover Kona Grill in Denver, CO$$$Kona Grill in Denver, CO, delivers a blend
+  of global-inspired American cuisine and fresh sushi options in a
+  polished-casual setting, making it a go-to spot for those seeking quality
+  dining near the city center. The menu highlights inventive dishes that cater
+  to various tastes, including light fare and flavorful cocktails, all served in
+  an atmosphere that's both lively and welcoming for casual outings or special
+  occasions. With features like wheelchair-accessible entrances and outdoor
+  seating, it's designed to accommodate diverse needs while offering a relaxed
+  vibe perfect for exploring sushi restaurants in the area. Ample parking and
+  extended hours add to the convenience, ideal for anyone looking for top-rated
+  sushi spots close to home. This location stands out for its commitment to a
+  modern dining experience that combines accessibility with a menu full of
+  creative flavors.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJX4Jmj5B-bIcRuvDQd9B-06k/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3aUpISHV3RRAB
+    relativePublishTimeDescription: a month ago
+    rating: 3
+    text:
+      text: >-
+        It's not what I imagined being in the cherry creek district. It's
+        definitely not worth $200. The service was phenomenal, but the food
+        lacked big time! I was disappointed, and many who follow me (over 3
+        million viewers) know I don't run into many disappointments. The food
+        presentation looked good, but the taste was below quality for such an
+        upscale restaurant.
+      languageCode: en
+    originalText:
+      text: >-
+        It's not what I imagined being in the cherry creek district. It's
+        definitely not worth $200. The service was phenomenal, but the food
+        lacked big time! I was disappointed, and many who follow me (over 3
+        million viewers) know I don't run into many disappointments. The food
+        presentation looked good, but the taste was below quality for such an
+        upscale restaurant.
+      languageCode: en
+    authorAttribution:
+      displayName: Terrance Kelly
+      uri: https://www.google.com/maps/contrib/105795081432460824968/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUL_UEDxS9AJHoQAu3IXD4nXdWdSyqs1Ynm5FIWcpg45wL96yMM=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-03-16T07:25:39.790641Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUN3aUpISHV3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUN3aUpISHV3RRAB!2m1!1s0x876c7e908f66825f:0xa9d37ed077d0f0ba
+  - name: >-
+      places/ChIJX4Jmj5B-bIcRuvDQd9B-06k/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJM19uWDFBRRAB
+    relativePublishTimeDescription: 4 weeks ago
+    rating: 5
+    text:
+      text: >-
+        Fantastic and walkable from our hotel in Cherry Creek.   Parking was
+        available with valet right out front if not.  I loved the open window
+        wall to the outside.   Very cool vibe but also family friendly.   Good
+        options on the menu that made it hard to choose.
+      languageCode: en
+    originalText:
+      text: >-
+        Fantastic and walkable from our hotel in Cherry Creek.   Parking was
+        available with valet right out front if not.  I loved the open window
+        wall to the outside.   Very cool vibe but also family friendly.   Good
+        options on the menu that made it hard to choose.
+      languageCode: en
+    authorAttribution:
+      displayName: Sarah Drewing
+      uri: https://www.google.com/maps/contrib/117599932344838669285/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjU6CM_Jvk2DtbEVOk7dr-Wk2cD2-41cHnAuFjz6Y_RzfJN8n3sYJQ=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-05T20:52:49.636845Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNJM19uWDFBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNJM19uWDFBRRAB!2m1!1s0x876c7e908f66825f:0xa9d37ed077d0f0ba
+  - name: >-
+      places/ChIJX4Jmj5B-bIcRuvDQd9B-06k/reviews/ChdDSUhNMG9nS0VJQ0FnSURfa0tLaDBRRRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        I am a big fan of Kona Grill! The location in Cherry Creek is perfect if
+        you are already at the mall but they also have plenty of parking (&
+        valet) available.
+
+
+        I’ve come multiple times for the ‘Taste of Kona’ menu which is an
+        AMAZING value. This is a 3-course meal that includes a glass of wine or
+        bubbles for only $39! I usually order the salad and steak option and
+        then the cheesecake for dessert. Talk about an amazing value! Kona Grill
+        is great for a date night or girl’s night out!
+      languageCode: en
+    originalText:
+      text: >-
+        I am a big fan of Kona Grill! The location in Cherry Creek is perfect if
+        you are already at the mall but they also have plenty of parking (&
+        valet) available.
+
+
+        I’ve come multiple times for the ‘Taste of Kona’ menu which is an
+        AMAZING value. This is a 3-course meal that includes a glass of wine or
+        bubbles for only $39! I usually order the salad and steak option and
+        then the cheesecake for dessert. Talk about an amazing value! Kona Grill
+        is great for a date night or girl’s night out!
+      languageCode: en
+    authorAttribution:
+      displayName: Kelsey Kawamoto
+      uri: https://www.google.com/maps/contrib/103914821053168150204/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWrhLZk3HZcWhjMlIlcQbOJC9oE6peKPXKJgkQzigWXhEcZ3pbF=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-01-20T19:31:13.408293Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURfa0tLaDBRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURfa0tLaDBRRRAB!2m1!1s0x876c7e908f66825f:0xa9d37ed077d0f0ba
+  - name: >-
+      places/ChIJX4Jmj5B-bIcRuvDQd9B-06k/reviews/ChdDSUhNMG9nS0VJQ0FnTUNnNnF5YW9RRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        Ate here for the first time and it was amazing from the food to the
+        service. Our service was DJ and he was fabulous. He made some great
+        recommendations on food and drinks. He made the experience wonderful.
+
+        The food was amazing my boyfriend got the wagyu steak with the lobster
+        roll. The steak was cooked great. I got the 6oz fillet and that was also
+        really good it came with miso mashed potatoes and green beans. For
+        dessert we had the chocolate lava cake and that was a good way to end
+        the meal.
+
+        I'd go back and I'd definitely have DJ as my server again.
+      languageCode: en
+    originalText:
+      text: >-
+        Ate here for the first time and it was amazing from the food to the
+        service. Our service was DJ and he was fabulous. He made some great
+        recommendations on food and drinks. He made the experience wonderful.
+
+        The food was amazing my boyfriend got the wagyu steak with the lobster
+        roll. The steak was cooked great. I got the 6oz fillet and that was also
+        really good it came with miso mashed potatoes and green beans. For
+        dessert we had the chocolate lava cake and that was a good way to end
+        the meal.
+
+        I'd go back and I'd definitely have DJ as my server again.
+      languageCode: en
+    authorAttribution:
+      displayName: Belicia Manes
+      uri: https://www.google.com/maps/contrib/111557673790400462593/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVB7n2rayHjARhb4IA4S7alvdyVmzoaHRkRkwF-xqwbu7wPWcQQaA=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-02-16T03:47:30.644014Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNnNnF5YW9RRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNnNnF5YW9RRRAB!2m1!1s0x876c7e908f66825f:0xa9d37ed077d0f0ba
+  - name: >-
+      places/ChIJX4Jmj5B-bIcRuvDQd9B-06k/reviews/ChZDSUhNMG9nS0VJQ0FnTUNvOXBUSWZ3EAE
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 1
+    text:
+      text: >-
+        One of the worst dining experiences I've had in years. It took 30
+        minutes to get water. The service was completely absent and hopeless.
+        The spicy tuna roll wasn't particularly edible and the food presentation
+        generally was terrible. I came here for my mom's 81st birthday and
+        wished I hadn't bothered. You couldn't pay me to go back.
+      languageCode: en
+    originalText:
+      text: >-
+        One of the worst dining experiences I've had in years. It took 30
+        minutes to get water. The service was completely absent and hopeless.
+        The spicy tuna roll wasn't particularly edible and the food presentation
+        generally was terrible. I came here for my mom's 81st birthday and
+        wished I hadn't bothered. You couldn't pay me to go back.
+      languageCode: en
+    authorAttribution:
+      displayName: James Beswick
+      uri: https://www.google.com/maps/contrib/102951244563603960635/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXkO9BCjy2FE6zufYHXbmxehfUTcdNIl54e78Uqu5luiBXCUkMn-Q=s128-c0x00000000-cc-rp-mo-ba7
+    publishTime: '2025-04-17T00:00:48.700689Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNvOXBUSWZ3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNvOXBUSWZ3EAE!2m1!1s0x876c7e908f66825f:0xa9d37ed077d0f0ba
+review_summary: >-
+  What Visitors Are Sharing$$$Folks often rave about the tasty sushi and hearty
+  American dishes at this spot, noting how the flavorful options and attentive
+  service make for a memorable meal that's worth checking out. Many appreciate
+  the lively atmosphere and helpful staff recommendations, which help create a
+  welcoming environment for groups or casual dinners, even if there are
+  occasional hiccups like wait times. Overall, diners highlight the solid value
+  from specials and the variety of drinks that pair well with the food, keeping
+  things enjoyable for repeat visits. While some mention that presentation could
+  be better on certain items, the general consensus leans positive, with plenty
+  of praise for the overall experience that keeps the energy upbeat. If you're
+  hunting for reliable sushi places nearby, this location frequently gets nods
+  for its friendly vibe and satisfying meals that leave a good impression.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  paidParkingLot: true
+  paidStreetParking: true
+  valetParking: true
+  paidGarageParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+curbside_pickup: true
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: true
+live_music: false
+menu_for_children: true
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: true
+serves_cocktails: true
+serves_coffee: true
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Sleek chain with a broad New American menu including low-calorie options, plus
+  sushi & cocktails.
 
 ---

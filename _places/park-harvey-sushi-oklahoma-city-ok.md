@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Park Harvey Sushi"
+title: Park Harvey Sushi
 permalink: /oklahoma/oklahoma-city/park-harvey-sushi.html
 stateAbbr: OK
 stateName: Oklahoma
 cityName: Oklahoma City
 seo:
-  name: "Park Harvey Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.parkharveysushi.com/
-description: "Park Harvey Sushi serves delicious sushi in Oklahoma City, Oklahoma. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJPQN6zy4XsocRq38z02GWX4w
 photos:
   - name: >-
@@ -170,7 +168,49 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x87b2172ecf7a033d:0x8c5f9661d3337fab!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:00 PM'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -178,54 +218,262 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:00 PM'
     - 'Saturday: Closed'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:00 AM – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 9:00 PM'
-    - 'Saturday: Closed'
-    - 'Sunday: Closed'
+  nextOpenTime: '2025-05-05T16:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: false
+    periods:
+      - open:
+          day: 1
+          hour: 11
+          minute: 0
+        close:
+          day: 1
+          hour: 21
+          minute: 0
+      - open:
+          day: 2
+          hour: 11
+          minute: 0
+        close:
+          day: 2
+          hour: 21
+          minute: 0
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 21
+          minute: 0
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 0
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 21
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 11:00 AM – 9:00 PM'
+      - 'Tuesday: 11:00 AM – 9:00 PM'
+      - 'Wednesday: 11:00 AM – 9:00 PM'
+      - 'Thursday: 11:00 AM – 9:00 PM'
+      - 'Friday: 11:00 AM – 9:00 PM'
+      - 'Saturday: Closed'
+      - 'Sunday: Closed'
+    secondaryHoursType: KITCHEN
+    nextOpenTime: '2025-05-05T16:00:00Z'
 phone: (405) 600-7575
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
-rating: '4.3'
-rating_count: 0
+rating: '4.4'
+rating_count: 297
 website: http://www.parkharveysushi.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Park Harvey Sushi in Oklahoma City, OK$$$Park Harvey Sushi in
+  Oklahoma City, OK, stands out as a go-to spot for fresh sushi and
+  Japanese-inspired dishes in a lively, contemporary setting. This sushi
+  restaurant features a casual atmosphere with sports broadcasts on TV, making
+  it ideal for relaxed meals or casual gatherings with friends. Patrons can
+  enjoy artisanal rolls, sake, and cocktails, along with gluten-free options
+  that cater to various dietary needs. The space is designed for accessibility,
+  including wheelchair-friendly features, ensuring everyone can savor the
+  experience. Whether you're searching for top-rated sushi near me or exploring
+  Japanese places in the area, this spot delivers a welcoming vibe perfect for
+  everyday dining.
+generative_summary: >-
+  Discover Park Harvey Sushi in Oklahoma City, OK$$$Park Harvey Sushi in
+  Oklahoma City, OK, stands out as a go-to spot for fresh sushi and
+  Japanese-inspired dishes in a lively, contemporary setting. This sushi
+  restaurant features a casual atmosphere with sports broadcasts on TV, making
+  it ideal for relaxed meals or casual gatherings with friends. Patrons can
+  enjoy artisanal rolls, sake, and cocktails, along with gluten-free options
+  that cater to various dietary needs. The space is designed for accessibility,
+  including wheelchair-friendly features, ensuring everyone can savor the
+  experience. Whether you're searching for top-rated sushi near me or exploring
+  Japanese places in the area, this spot delivers a welcoming vibe perfect for
+  everyday dining.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJPQN6zy4XsocRq38z02GWX4w/reviews/ChZDSUhNMG9nS0VJQ0FnTUNnb1lIb1J3EAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        Go during Happy Hour! We came in for an early dinner, and the happy hour
+        prices on sushi is awesome 👌 my wife got the veggie rolls with soy
+        paper instead of seaweed, and she loved them. I got the crunchy roll and
+        spicy tuna, which are both excellent 😋.
+
+
+        The atmosphere is nice and relaxed, and the service was excellent.
+      languageCode: en
+    originalText:
+      text: >-
+        Go during Happy Hour! We came in for an early dinner, and the happy hour
+        prices on sushi is awesome 👌 my wife got the veggie rolls with soy
+        paper instead of seaweed, and she loved them. I got the crunchy roll and
+        spicy tuna, which are both excellent 😋.
+
+
+        The atmosphere is nice and relaxed, and the service was excellent.
+      languageCode: en
+    authorAttribution:
+      displayName: Josh Laufer
+      uri: https://www.google.com/maps/contrib/108144268129486996483/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWPX_-6xVh1aKHa95X996pAiHB4dK9lD8loIho-l18k1rfzvZM=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-02-18T01:00:10.969188Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNnb1lIb1J3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNnb1lIb1J3EAE!2m1!1s0x87b2172ecf7a033d:0x8c5f9661d3337fab
+  - name: >-
+      places/ChIJPQN6zy4XsocRq38z02GWX4w/reviews/ChdDSUhNMG9nS0VJQ0FnTUNnaTdMVDd3RRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: Always a great place. Sushi is yummmmm. Good happy hour specials too!
+      languageCode: en
+    originalText:
+      text: Always a great place. Sushi is yummmmm. Good happy hour specials too!
+      languageCode: en
+    authorAttribution:
+      displayName: Jennifer Walke
+      uri: https://www.google.com/maps/contrib/117979859752669401643/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVYEnFguaMcUzVAFtBk5GAGm3lvoJpp6EnjUy_hv3DjtzzDPerB=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-02-20T18:53:08.549057Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNnaTdMVDd3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNnaTdMVDd3RRAB!2m1!1s0x87b2172ecf7a033d:0x8c5f9661d3337fab
+  - name: >-
+      places/ChIJPQN6zy4XsocRq38z02GWX4w/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJalpLNTVBRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: Amazing food! Awesome service! Will come again!
+      languageCode: en
+    originalText:
+      text: Amazing food! Awesome service! Will come again!
+      languageCode: en
+    authorAttribution:
+      displayName: Victoria Parnell
+      uri: https://www.google.com/maps/contrib/117305673189760098947/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXn_0QvL9NBdmmUcIgs99LXRfKkW4OoQg9SccrhOWbLiQLNLnaL0g=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-03T20:53:16.367666Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNJalpLNTVBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNJalpLNTVBRRAB!2m1!1s0x87b2172ecf7a033d:0x8c5f9661d3337fab
+  - name: >-
+      places/ChIJPQN6zy4XsocRq38z02GWX4w/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3dWZqMzNRRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Such a unique vibe in the best way! Food is outstanding. I love the
+        lounge type vibe of the place! Would always recommend if you’re
+        downtown.
+      languageCode: en
+    originalText:
+      text: >-
+        Such a unique vibe in the best way! Food is outstanding. I love the
+        lounge type vibe of the place! Would always recommend if you’re
+        downtown.
+      languageCode: en
+    authorAttribution:
+      displayName: Jacob Quinn
+      uri: https://www.google.com/maps/contrib/110018310038460685083/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjV9Xw2hSyQWUuVYFnMaXgwdaszM0iLBs3l3S7z9y1phunFIFSK6=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-26T23:59:02.273064Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUR3dWZqMzNRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUR3dWZqMzNRRRAB!2m1!1s0x87b2172ecf7a033d:0x8c5f9661d3337fab
+  - name: >-
+      places/ChIJPQN6zy4XsocRq38z02GWX4w/reviews/ChZDSUhNMG9nS0VJQ0FnSURydGM3Y2RnEAE
+    relativePublishTimeDescription: 9 months ago
+    rating: 1
+    text:
+      text: >-
+        Man.... This place should definitely change their menu. You guys should
+        stop serving sushi and maybe start making hamburger fries and pizza.
+      languageCode: en
+    originalText:
+      text: >-
+        Man.... This place should definitely change their menu. You guys should
+        stop serving sushi and maybe start making hamburger fries and pizza.
+      languageCode: en
+    authorAttribution:
+      displayName: lxxney ig
+      uri: https://www.google.com/maps/contrib/112681035838381253741/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVA3PDD5tGuo_LikYKjroEJPHUkwjFaCUxgiMBsIXJu_DO25ZYm=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-07-19T00:41:56.492652Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURydGM3Y2RnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURydGM3Y2RnEAE!2m1!1s0x87b2172ecf7a033d:0x8c5f9661d3337fab
+review_summary: >-
+  What Customers Are Saying About This Sushi Spot$$$Visitors frequently praise
+  the tasty sushi rolls and fantastic happy hour deals, making it a favorite for
+  affordable yet flavorful meals in a laid-back environment. Many highlight the
+  outstanding service and unique lounge-like atmosphere that enhances the
+  overall dining experience, especially for groups or sports enthusiasts. While
+  the majority of feedback focuses on the fresh ingredients and welcoming vibe,
+  a few note room for more menu variety to appeal to diverse tastes. Overall,
+  it's clear that this place earns high marks as one of the best sushi
+  restaurants near me, with most folks leaving satisfied and eager to return. If
+  you're in the mood for quality Japanese cuisine, this spot comes highly
+  recommended for its consistent positives and enjoyable setting.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
+curbside_pickup: false
 delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
+dine_in: true
+good_for_children: false
+good_for_groups: true
+good_for_sports: true
 live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+menu_for_children: false
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
+serves_coffee: true
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Fun sushi bar & restaurant offers artisanal rolls in a contemporary space with
+  TVs & a sports theme.
 
 ---

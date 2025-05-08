@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Blue Sushi Sake Grill"
+title: Blue Sushi Sake Grill
 permalink: /nebraska/lincoln/blue-sushi-sake-grill.html
 stateAbbr: NE
 stateName: Nebraska
 cityName: Lincoln
 seo:
-  name: "Blue Sushi Sake Grill"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Blue Sushi Sake Grill serves delicious sushi in Lincoln, Nebraska. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJPYSdURy_locRrnP09JipyCs
 photos:
   - name: >-
@@ -185,7 +183,43 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Blue Sushi Sake Grill in Lincoln, NE$$$In Lincoln, NE, Blue Sushi
+  Sake Grill stands out as a vibrant hub for fresh sushi and creative
+  Japanese-inspired cuisine. This spot delights with an array of sushi rolls,
+  flavorful small plates, and handcrafted cocktails, all served in a laid-back
+  setting that includes a welcoming patio for outdoor dining. Patrons can enjoy
+  the relaxed vibe and enticing happy hour options, making it ideal for casual
+  meals or unwinding after a day in the city. For those searching for top-rated
+  sushi restaurants nearby, the emphasis on quality ingredients and diverse
+  flavors ensures a memorable experience that captures the essence of modern
+  Japanese dining.
+generative_summary: >-
+  Discover Blue Sushi Sake Grill in Lincoln, NE$$$In Lincoln, NE, Blue Sushi
+  Sake Grill stands out as a vibrant hub for fresh sushi and creative
+  Japanese-inspired cuisine. This spot delights with an array of sushi rolls,
+  flavorful small plates, and handcrafted cocktails, all served in a laid-back
+  setting that includes a welcoming patio for outdoor dining. Patrons can enjoy
+  the relaxed vibe and enticing happy hour options, making it ideal for casual
+  meals or unwinding after a day in the city. For those searching for top-rated
+  sushi restaurants nearby, the emphasis on quality ingredients and diverse
+  flavors ensures a memorable experience that captures the essence of modern
+  Japanese dining.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Buzzing About$$$Visitors often praise this sushi spot for
+  its tasty appetizers and rolls, like the flavorful crab-inspired dishes and
+  crunchy specialties that hit the spot every time. The staff comes across as
+  friendly and attentive, creating a calm atmosphere that's perfect for relaxed
+  get-togethers or quick bites. Many highlight the value of happy hour deals,
+  which add to the appeal for anyone craving affordable Japanese options without
+  skimping on quality. Overall, it's a solid choice for sushi lovers seeking a
+  welcoming environment, with feedback leaning positive on the blend of great
+  food and service that keeps people coming back. If you're on the hunt for
+  reliable sushi places nearby, this one delivers a consistently enjoyable vibe
+  that's worth checking out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +245,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

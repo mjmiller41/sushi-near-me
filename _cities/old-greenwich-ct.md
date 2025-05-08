@@ -5,4 +5,5 @@ permalink: /connecticut/old-greenwich/
 stateAbbr: CT
 stateName: Connecticut
 cityName: Old Greenwich
+
 ---

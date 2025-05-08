@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Osaka Sushi"
+title: Osaka Sushi
 permalink: /colorado/denver/osaka-sushi.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Denver
 seo:
-  name: "Osaka Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Osaka Sushi serves delicious sushi in Denver, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJCSTMnYB-bIcRxQhOWnTV3G0
 photos:
   - name: >-
@@ -185,7 +183,39 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Osaka Sushi in Denver, CO$$$Osaka Sushi in Denver, CO, stands out as
+  a welcoming spot for enjoying authentic Japanese flavors in a relaxed setting.
+  Located at the Belcaro Shopping Center, this casual eatery specializes in
+  fresh sushi and other traditional dishes, making it a go-to choice for those
+  seeking sushi restaurants in the area. The venue boasts accessible features
+  like wheelchair-friendly parking and entrances, ensuring a comfortable visit
+  for all guests. With its focus on quality ingredients and simple ambiance,
+  it's ideal for anyone exploring top-rated sushi options nearby, whether you're
+  in the mood for a quick bite or a leisurely meal.
+generative_summary: >-
+  Discover Osaka Sushi in Denver, CO$$$Osaka Sushi in Denver, CO, stands out as
+  a welcoming spot for enjoying authentic Japanese flavors in a relaxed setting.
+  Located at the Belcaro Shopping Center, this casual eatery specializes in
+  fresh sushi and other traditional dishes, making it a go-to choice for those
+  seeking sushi restaurants in the area. The venue boasts accessible features
+  like wheelchair-friendly parking and entrances, ensuring a comfortable visit
+  for all guests. With its focus on quality ingredients and simple ambiance,
+  it's ideal for anyone exploring top-rated sushi options nearby, whether you're
+  in the mood for a quick bite or a leisurely meal.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Love About Osaka Sushi$$$Visitors often praise the fresh and
+  flavorful sushi selections, highlighting creative rolls that deliver great
+  taste without breaking the bank, making it a solid pick for everyday dining.
+  The service stands out for its friendly and attentive approach, creating a
+  cozy atmosphere that puts everyone at ease from the moment they arrive. Many
+  appreciate the affordable prices paired with generous portions, turning casual
+  meals into memorable experiences. Overall, it's frequently recommended as a
+  reliable spot for quality Japanese cuisine, with the welcoming vibe
+  encouraging repeat visits for those searching for sushi places near me.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +241,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

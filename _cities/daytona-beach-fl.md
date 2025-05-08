@@ -5,4 +5,5 @@ permalink: /florida/daytona-beach/
 stateAbbr: FL
 stateName: Florida
 cityName: Daytona Beach
+
 ---

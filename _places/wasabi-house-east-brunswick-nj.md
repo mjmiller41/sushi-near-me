@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Wasabi House"
+title: Wasabi House
 permalink: /new-jersey/east-brunswick/wasabi-house.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: East Brunswick
 seo:
-  name: "Wasabi House"
-  type: Restaurant
+  type: restaurant
   links: http://wasabihouse9988.com/
-description: "Wasabi House serves delicious sushi in East Brunswick, New Jersey. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ2-58b2vPw4kRvJ8qsEupUmw
 photos:
   - name: >-
@@ -170,22 +168,97 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c3cf6b6f7ceedb:0x6c52a94bb02a9fbc!10e5
 primary_type: Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 15
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM'
     - 'Tuesday: Closed'
     - 'Wednesday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM'
     - 'Thursday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM'
-    - 'Friday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM'
-    - 'Saturday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 3:00 PM, 4:00 – 10:00 PM'
+    - 'Saturday: 11:00 AM – 10:00 PM'
     - 'Sunday: 12:00 – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM'
-    - 'Tuesday: Closed'
-    - 'Wednesday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM'
-    - 'Thursday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM'
-    - 'Friday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM'
-    - 'Saturday: 11:00 AM – 9:00 PM'
-    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +270,48 @@ phone: (732) 254-9988
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.5'
-rating_count: 0
+rating_count: 117
 website: http://wasabihouse9988.com/
+description: >-
+  Discover Wasabi House in East Brunswick, NJ$$$Wasabi House in East Brunswick,
+  NJ, stands out as a welcoming spot for those seeking fresh Japanese-inspired
+  cuisine, blending casual vibes with a focus on high-quality sushi and sashimi.
+  This restaurant offers a variety of cooked dishes alongside its seafood
+  specialties, making it an ideal choice for lunch or dinner outings in the
+  area. With its moderate pricing and accessible features like
+  wheelchair-friendly entrances, it caters to a wide range of diners looking for
+  reliable sushi options nearby. The menu highlights flavorful selections that
+  appeal to sushi enthusiasts, providing a comfortable atmosphere for enjoying
+  top-rated Japanese fare. Whether you're exploring sushi places near me or
+  craving a laid-back meal, Wasabi House delivers on taste and convenience.
+generative_summary: >-
+  Discover Wasabi House in East Brunswick, NJ$$$Wasabi House in East Brunswick,
+  NJ, stands out as a welcoming spot for those seeking fresh Japanese-inspired
+  cuisine, blending casual vibes with a focus on high-quality sushi and sashimi.
+  This restaurant offers a variety of cooked dishes alongside its seafood
+  specialties, making it an ideal choice for lunch or dinner outings in the
+  area. With its moderate pricing and accessible features like
+  wheelchair-friendly entrances, it caters to a wide range of diners looking for
+  reliable sushi options nearby. The menu highlights flavorful selections that
+  appeal to sushi enthusiasts, providing a comfortable atmosphere for enjoying
+  top-rated Japanese fare. Whether you're exploring sushi places near me or
+  craving a laid-back meal, Wasabi House delivers on taste and convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Customer Feedback$$$Visitors to Wasabi House often highlight the
+  solid quality of the food, with many praising the fresh flavors and generous
+  portions that make it a standout among local sushi spots. Feedback frequently
+  notes the friendly service and efficient operations, helping create a relaxed
+  dining experience that's perfect for casual get-togethers or quick meals.
+  While some mention occasional wait times during peak hours, the overall
+  consensus leans positive, emphasizing the restaurant's ability to deliver
+  satisfying dishes that keep people coming back. With a strong rating
+  reflecting these experiences, it's clear that this place holds up well for
+  those hunting for the best sushi near me. All in all, the buzz around Wasabi
+  House suggests it's a reliable choice for anyone in the mood for tasty
+  Japanese cuisine without the fuss.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +337,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

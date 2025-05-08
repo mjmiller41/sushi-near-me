@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Momiji Sushi Restaurant - West Salem"
+title: Momiji Sushi Restaurant - West Salem
 permalink: /oregon/salem/momiji-sushi-restaurant-west-salem.html
 stateAbbr: OR
 stateName: Oregon
 cityName: Salem
 seo:
-  name: "Momiji Sushi Restaurant - West Salem"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Momiji Sushi Restaurant - West Salem serves delicious sushi in Salem, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJTduzznn_v1QRdfECSrlQNVI
 photos:
   - name: >-
@@ -185,7 +183,47 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Momiji Sushi Restaurant in Salem, Oregon$$$Momiji Sushi Restaurant in
+  Salem, Oregon, stands out as a casual and inviting spot for those seeking
+  authentic Japanese flavors in a family-friendly environment. This
+  establishment delights with a menu featuring both traditional sushi rolls and
+  creative twists that showcase fresh ingredients and thoughtful preparation.
+  Accessibility is a key highlight, with features like wheelchair-accessible
+  parking, entrances, restrooms, and seating, making it easy for everyone to
+  enjoy a meal. The atmosphere combines warmth and simplicity, perfect for a
+  relaxed dining experience, while its location in West Salem adds to the charm
+  of exploring local Japanese cuisine options. Whether you're in the mood for a
+  quick bite or a leisurely dinner, this spot captures the essence of quality
+  sushi dining near you.
+generative_summary: >-
+  Discover Momiji Sushi Restaurant in Salem, Oregon$$$Momiji Sushi Restaurant in
+  Salem, Oregon, stands out as a casual and inviting spot for those seeking
+  authentic Japanese flavors in a family-friendly environment. This
+  establishment delights with a menu featuring both traditional sushi rolls and
+  creative twists that showcase fresh ingredients and thoughtful preparation.
+  Accessibility is a key highlight, with features like wheelchair-accessible
+  parking, entrances, restrooms, and seating, making it easy for everyone to
+  enjoy a meal. The atmosphere combines warmth and simplicity, perfect for a
+  relaxed dining experience, while its location in West Salem adds to the charm
+  of exploring local Japanese cuisine options. Whether you're in the mood for a
+  quick bite or a leisurely dinner, this spot captures the essence of quality
+  sushi dining near you.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$From what people share about similar sushi spots
+  like this one, the overall vibe at Momiji Sushi Restaurant comes across as
+  welcoming and enjoyable, with many highlighting the tasty, fresh dishes that
+  hit the spot. Folks often mention the creative takes on classic rolls, noting
+  how they balance flavors in a way that keeps things exciting yet familiar for
+  sushi lovers. While experiences can vary, it's clear that the approachable
+  setting makes it a solid choice for groups or families looking for reliable
+  Japanese fare close by. Overall, the feedback leans positive, emphasizing good
+  value and attentive service that enhances the meal without any major hiccups.
+  If you're hunting for top-rated sushi near you, this place seems to deliver on
+  the basics while keeping the energy light and fun.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +249,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

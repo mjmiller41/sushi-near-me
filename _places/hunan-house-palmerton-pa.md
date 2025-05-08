@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Hunan House"
+title: Hunan House
 permalink: /pennsylvania/palmerton/hunan-house.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Palmerton
 seo:
-  name: "Hunan House"
-  type: Restaurant
+  type: restaurant
   links: http://palmertonhunanhouse.com/
-description: "Hunan House serves delicious sushi in Palmerton, Pennsylvania. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJO6s6vJFOxIkRkI0918uQKSQ
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c44e91bc3aab3b:0x242990cbd73d8d90!10e5
 primary_type: Chinese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:00 AM – 10:00 PM'
     - 'Wednesday: 11:00 AM – 10:00 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 11:00 PM'
     - 'Saturday: 11:00 AM – 11:00 PM'
     - 'Sunday: 12:00 – 10:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:00 AM – 10:00 PM'
-    - 'Wednesday: 11:00 AM – 10:00 PM'
-    - 'Thursday: 11:00 AM – 10:00 PM'
-    - 'Friday: 11:00 AM – 11:00 PM'
-    - 'Saturday: 11:00 AM – 11:00 PM'
-    - 'Sunday: 12:00 – 10:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +238,48 @@ phone: (610) 826-4567
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.1'
-rating_count: 0
+rating_count: 241
 website: http://palmertonhunanhouse.com/
+description: >-
+  Explore Hunan House in Palmerton, PA$$$Hunan House in Palmerton, PA, stands
+  out as a welcoming spot for enjoying authentic Chinese flavors alongside fresh
+  sushi options, making it a go-to choice for diverse dining preferences. This
+  casual eatery features a menu with classic dishes like lo mein and hearty
+  vegetarian selections, appealing to those seeking balanced, flavorful meals in
+  a relaxed atmosphere. With its accessible entrance and seating, it's designed
+  for everyone to enjoy a comfortable visit, especially for families or groups
+  exploring local Japanese-inspired cuisine. Open most days with extended
+  evening hours, it provides a convenient option for anyone hunting for quality
+  sushi restaurants nearby, blending traditional tastes with everyday
+  accessibility.
+generative_summary: >-
+  Explore Hunan House in Palmerton, PA$$$Hunan House in Palmerton, PA, stands
+  out as a welcoming spot for enjoying authentic Chinese flavors alongside fresh
+  sushi options, making it a go-to choice for diverse dining preferences. This
+  casual eatery features a menu with classic dishes like lo mein and hearty
+  vegetarian selections, appealing to those seeking balanced, flavorful meals in
+  a relaxed atmosphere. With its accessible entrance and seating, it's designed
+  for everyone to enjoy a comfortable visit, especially for families or groups
+  exploring local Japanese-inspired cuisine. Open most days with extended
+  evening hours, it provides a convenient option for anyone hunting for quality
+  sushi restaurants nearby, blending traditional tastes with everyday
+  accessibility.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Visitor Feedback Highlights$$$Visitors to Hunan House often praise the solid
+  mix of Chinese classics and sushi, noting that the flavors are consistently
+  fresh and satisfying for a casual meal out. Many appreciate the reasonable
+  prices and welcoming vibe, which make it a reliable spot for quick lunches or
+  relaxed dinners, with the overall experience earning high marks for variety
+  and taste. Feedback frequently highlights the attentive service and
+  accommodating options, helping it stand out as a favorite among those
+  searching for top-rated sushi places in the area. While some mention minor
+  waits during peak times, the general consensus is that the quality outweighs
+  any small hiccups, leaving diners eager to return for more. Overall, it's
+  clear that folks enjoy the approachable atmosphere and dependable offerings
+  that keep the ratings strong.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +305,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

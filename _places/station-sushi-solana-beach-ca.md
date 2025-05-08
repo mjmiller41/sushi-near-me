@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Station Sushi"
+title: Station Sushi
 permalink: /california/solana-beach/station-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Solana Beach
 seo:
-  name: "Station Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.stationsushi.com/
-description: "Sports bar serving up Japanese fare amid a flurry of festive events & plenty of TVs. Station Sushi serves delicious sushi in Solana Beach, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJZfE6wM0O3IARcWH6bYpLaTE
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $20 &ndash; $30
 rating: '4.2'
 rating_count: 0
 website: https://www.stationsushi.com/
+description: >-
+  Discover Station Sushi in Solana Beach, CA$$$Station Sushi in Solana Beach,
+  CA, stands out as a welcoming spot for sushi enthusiasts seeking a relaxed
+  dining experience. This casual eatery boasts a diverse array of fresh sushi
+  options, including creative special rolls, alongside hearty noodles and
+  flavorful soups that cater to various tastes. With its accessible features
+  like wheelchair-friendly seating and outdoor areas, it's an inclusive choice
+  for anyone exploring top sushi restaurants in the region. The moderate pricing
+  and inviting atmosphere make it a go-to destination for those craving
+  authentic Japanese flavors without the formality. Whether you're looking for
+  sushi places near me or simply a laid-back meal, this spot delivers on quality
+  and variety.
+generative_summary: >-
+  Discover Station Sushi in Solana Beach, CA$$$Station Sushi in Solana Beach,
+  CA, stands out as a welcoming spot for sushi enthusiasts seeking a relaxed
+  dining experience. This casual eatery boasts a diverse array of fresh sushi
+  options, including creative special rolls, alongside hearty noodles and
+  flavorful soups that cater to various tastes. With its accessible features
+  like wheelchair-friendly seating and outdoor areas, it's an inclusive choice
+  for anyone exploring top sushi restaurants in the region. The moderate pricing
+  and inviting atmosphere make it a go-to destination for those craving
+  authentic Japanese flavors without the formality. Whether you're looking for
+  sushi places near me or simply a laid-back meal, this spot delivers on quality
+  and variety.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJZfE6wM0O3IARcWH6bYpLaTE/reviews/ChdDSUhNMG9nS0VJQ0FnTUNBeVliRm53RRAB
@@ -372,6 +395,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR2OHZmMDl3RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR2OHZmMDl3RRAB!2m1!1s0x80dc0ecdc03af165:0x31694b8a6dfa6171
+review_summary: >-
+  What Customers Are Raving About$$$Feedback from diners highlights the standout
+  sushi and speedy service that keep folks coming back for more at this
+  laid-back spot. Many appreciate the generous vegan selections and tasty rolls
+  that make for a satisfying meal, especially during happy hour deals on
+  weekdays. While the atmosphere is simple and unpretentious, it's the fresh
+  flavors and solid portions that earn consistent nods of approval. Overall,
+  visitors enjoy the casual vibe and recommend it as a reliable choice for
+  groups or quick bites, with a few mentioning it's worth the wait for those
+  special rolls. If you're hunting for the best sushi near me, this place often
+  hits the mark with its approachable and enjoyable dining experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -403,8 +438,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Sports bar serving up Japanese fare amid a flurry of festive events & plenty
   of TVs.
 

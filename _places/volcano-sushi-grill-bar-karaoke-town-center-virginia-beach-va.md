@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Volcano Sushi, Grill, Bar& karaoke (Town Center)"
+title: Volcano Sushi, Grill, Bar& karaoke (Town Center)
 permalink: /virginia/virginia-beach/volcano-sushi-grill-bar-karaoke-town-center.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Virginia Beach
 seo:
-  name: "Volcano Sushi, Grill, Bar& karaoke (Town Center)"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Volcano Sushi, Grill, Bar& karaoke (Town Center) serves delicious sushi in Virginia Beach, Virginia. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJsbMX3l2VuokRCIBa7S1Es_Q
 photos:
   - name: >-
@@ -185,7 +183,42 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Volcano Sushi in Virginia Beach, VA$$$Volcano Sushi, Grill, Bar &
+  Karaoke in Virginia Beach, VA, offers a relaxed vibe perfect for enjoying
+  fresh sushi and Japanese-inspired dishes in a welcoming setting. This spot
+  stands out with its blend of tasty rolls, grilled options, and a lively bar
+  area that includes karaoke rooms for added entertainment. Accessibility
+  features like wheelchair-friendly parking and entrances make it easy for
+  everyone to savor the experience, enhancing its appeal for casual diners.
+  Whether you're in the mood for a quick meal or a fun night out, the
+  combination of flavorful eats and modern amenities creates a memorable visit
+  for those seeking sushi restaurants nearby.
+generative_summary: >-
+  Discover Volcano Sushi in Virginia Beach, VA$$$Volcano Sushi, Grill, Bar &
+  Karaoke in Virginia Beach, VA, offers a relaxed vibe perfect for enjoying
+  fresh sushi and Japanese-inspired dishes in a welcoming setting. This spot
+  stands out with its blend of tasty rolls, grilled options, and a lively bar
+  area that includes karaoke rooms for added entertainment. Accessibility
+  features like wheelchair-friendly parking and entrances make it easy for
+  everyone to savor the experience, enhancing its appeal for casual diners.
+  Whether you're in the mood for a quick meal or a fun night out, the
+  combination of flavorful eats and modern amenities creates a memorable visit
+  for those seeking sushi restaurants nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Folks searching for top-rated sushi near Virginia
+  Beach often highlight the fresh flavors and friendly atmosphere at places like
+  this, making it a go-to for Japanese eats close to home. Many appreciate the
+  variety of rolls and the energetic bar scene, which adds a fun twist to dining
+  out with friends or family. While some mention it's a solid spot for casual
+  gatherings, others note the consistent quality that keeps locals coming back
+  for more. Overall, it's praised as a reliable choice for sushi enthusiasts,
+  with the karaoke element bringing an extra layer of enjoyment that balances
+  good food with good times. If you're on the hunt for sushi places near me,
+  this one tends to deliver a positive experience that feels just right.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +244,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

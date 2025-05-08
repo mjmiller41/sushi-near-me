@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Tsukimi"
+title: Tsukimi
 permalink: /texas/austin/tsukimi.html
 stateAbbr: TX
 stateName: Texas
 cityName: Austin
 seo:
-  name: "Tsukimi"
-  type: Restaurant
+  type: restaurant
   links: https://www.tsukimiaustin.com/
-description: "Tsukimi serves delicious sushi in Austin, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJWW1mSSPPRIYRriBy7jZ9QgY
 photos:
   - name: >-
@@ -170,7 +168,89 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8644cf2349666d59:0x6427d36ee7220ae!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:00 AM – 2:30 PM, 4:30 – 9:30 PM'
     - 'Wednesday: 11:00 AM – 2:30 PM, 4:30 – 9:30 PM'
@@ -178,14 +258,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 2:30 PM, 4:30 – 10:30 PM'
     - 'Saturday: 12:00 – 10:00 PM'
     - 'Sunday: 12:00 – 10:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:00 AM – 2:30 PM, 4:30 – 9:30 PM'
-    - 'Wednesday: 11:00 AM – 2:30 PM, 4:30 – 9:30 PM'
-    - 'Thursday: 11:00 AM – 2:30 PM, 4:30 – 9:30 PM'
-    - 'Friday: 11:00 AM – 2:30 PM, 4:30 – 10:30 PM'
-    - 'Saturday: 12:00 – 10:00 PM'
-    - 'Sunday: 12:00 – 10:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +270,47 @@ phone: (512) 386-1037
 price_level: PRICE_LEVEL_MODERATE
 price_range: $30 &ndash; $50
 rating: '4.2'
-rating_count: 0
+rating_count: 782
 website: https://www.tsukimiaustin.com/
+description: >-
+  Discover Tsukimi in Austin, TX$$$Tsukimi in Austin, TX, stands out as a casual
+  sushi spot that delights locals and visitors with its fresh offerings and
+  inviting atmosphere. This Japanese-inspired restaurant features a variety of
+  sushi rolls, sashimi, and bento boxes, making it a go-to choice for anyone
+  craving authentic flavors in a relaxed setting. With options like happy hour
+  specials, it's easy to enjoy high-quality dishes without breaking the bank,
+  appealing to those searching for sushi restaurants nearby. The venue
+  prioritizes accessibility, ensuring a comfortable experience for all guests,
+  which adds to its appeal as a neighborhood favorite. Whether you're looking
+  for a quick bite or a leisurely meal, Tsukimi combines affordability and taste
+  in a way that keeps diners coming back for more.
+generative_summary: >-
+  Discover Tsukimi in Austin, TX$$$Tsukimi in Austin, TX, stands out as a casual
+  sushi spot that delights locals and visitors with its fresh offerings and
+  inviting atmosphere. This Japanese-inspired restaurant features a variety of
+  sushi rolls, sashimi, and bento boxes, making it a go-to choice for anyone
+  craving authentic flavors in a relaxed setting. With options like happy hour
+  specials, it's easy to enjoy high-quality dishes without breaking the bank,
+  appealing to those searching for sushi restaurants nearby. The venue
+  prioritizes accessibility, ensuring a comfortable experience for all guests,
+  which adds to its appeal as a neighborhood favorite. Whether you're looking
+  for a quick bite or a leisurely meal, Tsukimi combines affordability and taste
+  in a way that keeps diners coming back for more.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this sushi place often highlight the
+  consistently fresh and flavorful dishes, with many appreciating the solid
+  value for the price. Feedback frequently praises the friendly service and cozy
+  vibe, making it a reliable spot for casual get-togethers or solo outings.
+  While a few notes mention occasional wait times during peak hours, the overall
+  sentiment leans positive, reflected in the strong rating from hundreds of
+  satisfied patrons. Folks enjoy the variety of options that cater to different
+  tastes, positioning it as one of the top picks for Japanese cuisine in the
+  area. In summary, it's a welcoming choice for anyone seeking quality sushi
+  experiences, with the general buzz suggesting it's worth trying for its
+  dependable appeal.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +336,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

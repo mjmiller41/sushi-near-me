@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yonsei Handrolls - Oakland"
+title: Yonsei Handrolls - Oakland
 permalink: /california/oakland/yonsei-handrolls-oakland.html
 stateAbbr: CA
 stateName: California
 cityName: Oakland
 seo:
-  name: "Yonsei Handrolls - Oakland"
-  type: Restaurant
+  type: restaurant
   links: https://www.yonseihandrolls.com/
-description: "Yonsei Handrolls - Oakland serves delicious sushi in Oakland, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJgUhKz2aBj4ARuN4px709pHY
 photos:
   - name: >-
@@ -169,7 +167,105 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x808f8166cf4a4881:0x76a43dbdc729deb8!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 15
+        minute: 0
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 15
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 3:00 PM, 5:00 – 9:30 PM'
     - 'Tuesday: 11:30 AM – 3:00 PM, 5:00 – 9:30 PM'
     - 'Wednesday: 11:30 AM – 3:00 PM, 5:00 – 9:30 PM'
@@ -177,54 +273,417 @@ opening_hours:
     - 'Friday: 11:30 AM – 3:00 PM, 5:00 – 9:30 PM'
     - 'Saturday: 5:00 – 9:30 PM'
     - 'Sunday: 5:00 – 9:30 PM'
-  current:
-    - 'Monday: 11:30 AM – 3:00 PM, 5:00 – 9:30 PM'
-    - 'Tuesday: 11:30 AM – 3:00 PM, 5:00 – 9:30 PM'
-    - 'Wednesday: 11:30 AM – 3:00 PM, 5:00 – 9:30 PM'
-    - 'Thursday: 11:30 AM – 3:00 PM, 5:00 – 9:30 PM'
-    - 'Friday: 11:30 AM – 3:00 PM, 5:00 – 9:30 PM'
-    - 'Saturday: 5:00 – 9:30 PM'
-    - 'Sunday: 5:00 – 9:30 PM'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: false
+    periods:
+      - open:
+          day: 1
+          hour: 11
+          minute: 30
+        close:
+          day: 1
+          hour: 15
+          minute: 0
+      - open:
+          day: 2
+          hour: 11
+          minute: 30
+        close:
+          day: 2
+          hour: 15
+          minute: 0
+      - open:
+          day: 3
+          hour: 11
+          minute: 30
+        close:
+          day: 3
+          hour: 15
+          minute: 0
+      - open:
+          day: 4
+          hour: 11
+          minute: 30
+        close:
+          day: 4
+          hour: 15
+          minute: 0
+      - open:
+          day: 5
+          hour: 11
+          minute: 30
+        close:
+          day: 5
+          hour: 15
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 11:30 AM – 3:00 PM'
+      - 'Tuesday: 11:30 AM – 3:00 PM'
+      - 'Wednesday: 11:30 AM – 3:00 PM'
+      - 'Thursday: 11:30 AM – 3:00 PM'
+      - 'Friday: 11:30 AM – 3:00 PM'
+      - 'Saturday: Closed'
+      - 'Sunday: Closed'
+    secondaryHoursType: LUNCH
+    nextOpenTime: '2025-05-05T18:30:00Z'
+  - openNow: false
+    periods:
+      - open:
+          day: 0
+          hour: 17
+          minute: 0
+        close:
+          day: 0
+          hour: 21
+          minute: 30
+      - open:
+          day: 1
+          hour: 17
+          minute: 0
+        close:
+          day: 1
+          hour: 21
+          minute: 30
+      - open:
+          day: 2
+          hour: 17
+          minute: 0
+        close:
+          day: 2
+          hour: 21
+          minute: 30
+      - open:
+          day: 3
+          hour: 17
+          minute: 0
+        close:
+          day: 3
+          hour: 21
+          minute: 30
+      - open:
+          day: 4
+          hour: 17
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 30
+      - open:
+          day: 5
+          hour: 17
+          minute: 0
+        close:
+          day: 5
+          hour: 21
+          minute: 30
+      - open:
+          day: 6
+          hour: 17
+          minute: 0
+        close:
+          day: 6
+          hour: 21
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 5:00 – 9:30 PM'
+      - 'Tuesday: 5:00 – 9:30 PM'
+      - 'Wednesday: 5:00 – 9:30 PM'
+      - 'Thursday: 5:00 – 9:30 PM'
+      - 'Friday: 5:00 – 9:30 PM'
+      - 'Saturday: 5:00 – 9:30 PM'
+      - 'Sunday: 5:00 – 9:30 PM'
+    secondaryHoursType: DINNER
+    nextOpenTime: '2025-05-04T00:00:00Z'
 phone: (510) 588-6924
 price_level: null
 price_range: $50 &ndash; $100
 rating: '4.6'
-rating_count: 0
+rating_count: 132
 website: https://www.yonseihandrolls.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Yonsei Handrolls in Oakland, CA$$$Yonsei Handrolls in Oakland, CA,
+  offers an intimate dining experience with an industrial vibe, making it a
+  standout spot for fresh sushi enthusiasts. Specializing in Japanese temaki
+  handrolls, the restaurant crafts flavorful rolls using high-quality
+  ingredients, complemented by a selection of sake and cocktails that enhance
+  the meal. Its accessible features, such as wheelchair-friendly entrances and
+  seating, ensure a welcoming atmosphere for all visitors seeking sushi places
+  near me. Operating with convenient hours for lunch and dinner, this venue
+  captures the essence of authentic Japanese cuisine in a cozy setting. Whether
+  you're exploring top-rated sushi restaurants in the area, it's a great choice
+  for a memorable meal that balances tradition with modern flair.
+generative_summary: >-
+  Discover Yonsei Handrolls in Oakland, CA$$$Yonsei Handrolls in Oakland, CA,
+  offers an intimate dining experience with an industrial vibe, making it a
+  standout spot for fresh sushi enthusiasts. Specializing in Japanese temaki
+  handrolls, the restaurant crafts flavorful rolls using high-quality
+  ingredients, complemented by a selection of sake and cocktails that enhance
+  the meal. Its accessible features, such as wheelchair-friendly entrances and
+  seating, ensure a welcoming atmosphere for all visitors seeking sushi places
+  near me. Operating with convenient hours for lunch and dinner, this venue
+  captures the essence of authentic Japanese cuisine in a cozy setting. Whether
+  you're exploring top-rated sushi restaurants in the area, it's a great choice
+  for a memorable meal that balances tradition with modern flair.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJgUhKz2aBj4ARuN4px709pHY/reviews/ChZDSUhNMG9nS0VJQ0FnSUNYLVAtR1JBEAE
+    relativePublishTimeDescription: 6 months ago
+    rating: 4
+    text:
+      text: >-
+        -The quality of the fish is very good and tasty. They know how to
+        combine and play with the ingredients
+
+        - the price is too expensive for what you get
+
+        - the service is average. Our server is very friendly. However, we
+        arrived a bit early for our appointment, the server told us to wait for
+        10-15 min for them to get a table ready since the customers at that
+        table about to pay.We waited for more than 30 min outside, watching new
+        customers came in and out. The server knew we were waiting outside at
+        the door. Then we went inside just to see why they took new customers
+        and saw there were multiple empty tables. It's quite weird when they
+        have available tables and still let us wait outside. It took us a while
+        to get the server attention at the door and also at dining.
+      languageCode: en
+    originalText:
+      text: >-
+        -The quality of the fish is very good and tasty. They know how to
+        combine and play with the ingredients
+
+        - the price is too expensive for what you get
+
+        - the service is average. Our server is very friendly. However, we
+        arrived a bit early for our appointment, the server told us to wait for
+        10-15 min for them to get a table ready since the customers at that
+        table about to pay.We waited for more than 30 min outside, watching new
+        customers came in and out. The server knew we were waiting outside at
+        the door. Then we went inside just to see why they took new customers
+        and saw there were multiple empty tables. It's quite weird when they
+        have available tables and still let us wait outside. It took us a while
+        to get the server attention at the door and also at dining.
+      languageCode: en
+    authorAttribution:
+      displayName: Vicky T
+      uri: https://www.google.com/maps/contrib/114166196358031162906/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVbJXMk7RxiyiCPg8Ofc7vdTBngXtAugTNV4g09clzsK2skKLgb9w=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2024-10-13T06:50:08.737768Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNYLVAtR1JBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNYLVAtR1JBEAE!2m1!1s0x808f8166cf4a4881:0x76a43dbdc729deb8
+  - name: >-
+      places/ChIJgUhKz2aBj4ARuN4px709pHY/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJcW9tMWFnEAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Very cozy place with amazing service and delicious and unique Japanese
+        handrolls. Zoe was super friendly and helpful with choosing the order.
+        Absolutely loved the experience. Highly recommend and will come back for
+        sure.
+      languageCode: en
+    originalText:
+      text: >-
+        Very cozy place with amazing service and delicious and unique Japanese
+        handrolls. Zoe was super friendly and helpful with choosing the order.
+        Absolutely loved the experience. Highly recommend and will come back for
+        sure.
+      languageCode: en
+    authorAttribution:
+      displayName: Robert Shyroian
+      uri: https://www.google.com/maps/contrib/110360567226238524172/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWGh7qNZVIeP8G56Q4pCV_y_Vsrfi5XnQjFBG1UKnTZyighSMY=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-01T04:03:00.324237Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNJcW9tMWFnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNJcW9tMWFnEAE!2m1!1s0x808f8166cf4a4881:0x76a43dbdc729deb8
+  - name: >-
+      places/ChIJgUhKz2aBj4ARuN4px709pHY/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJcXNtdlp3EAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        We had such a great experience—Zoe went above and beyond in helping us
+        choose the perfect handrolls. Her recommendations were spot on, and she
+        made the whole experience even more enjoyable. The food was incredible,
+        especially the Uni with ikura, which was a standout. The atmosphere was
+        welcoming and lively, and we’re already looking forward to coming back.
+        Hoping to be served by Zoe again next time!
+      languageCode: en
+    originalText:
+      text: >-
+        We had such a great experience—Zoe went above and beyond in helping us
+        choose the perfect handrolls. Her recommendations were spot on, and she
+        made the whole experience even more enjoyable. The food was incredible,
+        especially the Uni with ikura, which was a standout. The atmosphere was
+        welcoming and lively, and we’re already looking forward to coming back.
+        Hoping to be served by Zoe again next time!
+      languageCode: en
+    authorAttribution:
+      displayName: Tigran Shyroyan
+      uri: https://www.google.com/maps/contrib/114491048485581056106/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKSQA-eMfF23hB33IewpVPiP2CDnWuG7ffc9WPGil3RZBYf-A=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-01T04:04:04.605446Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNJcXNtdlp3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNJcXNtdlp3EAE!2m1!1s0x808f8166cf4a4881:0x76a43dbdc729deb8
+  - name: >-
+      places/ChIJgUhKz2aBj4ARuN4px709pHY/reviews/ChdDSUhNMG9nS0VJQ0FnSUNqMlBTdzZRRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        Some really good Sushi here.  I enjoyed the presentation and flavor on
+        pretty much all of our rolls. There were a few I wasn't a fan of, but
+        that's a preference thing, I could still appreciate them and they were
+        fresh and flavorful.  We did end up ordering pretty much 1 of every
+        roll, so it wasn't cheap, but it was a great night out.  Standout for us
+        was the Black Cod and the Snow Crab.  Drink menu was decent, my wife
+        liked both her cocktails and I was happy with the Fieldwork IPA on
+        draft.
+      languageCode: en
+    originalText:
+      text: >-
+        Some really good Sushi here.  I enjoyed the presentation and flavor on
+        pretty much all of our rolls. There were a few I wasn't a fan of, but
+        that's a preference thing, I could still appreciate them and they were
+        fresh and flavorful.  We did end up ordering pretty much 1 of every
+        roll, so it wasn't cheap, but it was a great night out.  Standout for us
+        was the Black Cod and the Snow Crab.  Drink menu was decent, my wife
+        liked both her cocktails and I was happy with the Fieldwork IPA on
+        draft.
+      languageCode: en
+    authorAttribution:
+      displayName: Corey Strock
+      uri: https://www.google.com/maps/contrib/109413032626718987280/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjURtAkqsCker1bUiXLXPVZ_Kh9adrYeblBpdHxa_-DT0D3wcTGQoQ=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2024-04-17T16:09:06.027033Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNqMlBTdzZRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNqMlBTdzZRRRAB!2m1!1s0x808f8166cf4a4881:0x76a43dbdc729deb8
+  - name: >-
+      places/ChIJgUhKz2aBj4ARuN4px709pHY/reviews/ChdDSUhNMG9nS0VJQ0FnSURMbE5fUl93RRAB
+    relativePublishTimeDescription: 10 months ago
+    rating: 4
+    text:
+      text: >-
+        I made a reservation for Yonsei Handrolls at 6:30 PM. It's crucial to
+        book in advance as getting a seat without a reservation is extremely
+        difficult. The restaurant is located in an area that might be considered
+        somewhat rundown, so it's important to park in a safe spot.
+
+
+        Upon arrival, I noticed that there were two servers working inside,
+        which was great because they were quite attentive and responsive
+        throughout our meal. The restaurant has a dark and cozy ambiance, which
+        creates a unique dining atmosphere. The setup is simple yet effective,
+        contributing to an intimate dining experience.
+
+
+        For our meal, we opted for the BALLER set, which offered a variety of
+        rolls. We decided to swap out the uni due to its high cost—an additional
+        $8 on top of the $57 set price. Instead, we chose two different rolls
+        from the menu. Among the rolls we tried, the toro roll was the standout,
+        offering a delicious and memorable taste.
+
+
+        Overall, Yonsei Handrolls met my expectations. The attentive service,
+        unique ambiance, and quality of the food made for a satisfying dining
+        experience. If you're planning to visit, I highly recommend making a
+        reservation and being mindful of parking in a safe area.
+      languageCode: en
+    originalText:
+      text: >-
+        I made a reservation for Yonsei Handrolls at 6:30 PM. It's crucial to
+        book in advance as getting a seat without a reservation is extremely
+        difficult. The restaurant is located in an area that might be considered
+        somewhat rundown, so it's important to park in a safe spot.
+
+
+        Upon arrival, I noticed that there were two servers working inside,
+        which was great because they were quite attentive and responsive
+        throughout our meal. The restaurant has a dark and cozy ambiance, which
+        creates a unique dining atmosphere. The setup is simple yet effective,
+        contributing to an intimate dining experience.
+
+
+        For our meal, we opted for the BALLER set, which offered a variety of
+        rolls. We decided to swap out the uni due to its high cost—an additional
+        $8 on top of the $57 set price. Instead, we chose two different rolls
+        from the menu. Among the rolls we tried, the toro roll was the standout,
+        offering a delicious and memorable taste.
+
+
+        Overall, Yonsei Handrolls met my expectations. The attentive service,
+        unique ambiance, and quality of the food made for a satisfying dining
+        experience. If you're planning to visit, I highly recommend making a
+        reservation and being mindful of parking in a safe area.
+      languageCode: en
+    authorAttribution:
+      displayName: Leo
+      uri: https://www.google.com/maps/contrib/104826521661728272927/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWg2b3LPF3vXkFALCJVmYIw7MKiZQ_YzfHO3Iy74xUmQOpx7IHp=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-06-25T17:57:09.341193Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURMbE5fUl93RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURMbE5fUl93RRAB!2m1!1s0x808f8166cf4a4881:0x76a43dbdc729deb8
+review_summary: >-
+  What Customers Are Saying About This Sushi Spot$$$Visitors often praise the
+  fresh and creative handrolls at this Oakland eatery, highlighting standout
+  options like the uni and ikura combinations that bring bold flavors to the
+  table. Many appreciate the friendly service and helpful recommendations that
+  make dining feel personalized and enjoyable, even in a casual vibe. While some
+  note that prices lean toward the higher end for the portions, the overall
+  experience is frequently described as worth it for the quality and atmosphere.
+  Folks enjoy the cozy, intimate setting that adds to the fun of trying new
+  sushi dishes, making it a solid pick for those searching for best sushi near
+  me. In general, the positive feedback on taste and ambiance keeps the energy
+  upbeat, encouraging repeat visits for anyone craving authentic
+  Japanese-inspired eats.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  paidStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
+delivery: true
+dine_in: true
+good_for_children: false
 good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
 serves_lunch: null
 serves_vegetarian_food: null
-serves_wine: null
+serves_wine: true
 takeout: null
-update_category: essentials
-summary: null
+update_category: atmosphere
+places_description: null
 
 ---

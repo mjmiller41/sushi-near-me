@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi O Sushi Japanese Cuisine"
+title: Sushi O Sushi Japanese Cuisine
 permalink: /california/santa-clara/sushi-o-sushi-japanese-cuisine.html
 stateAbbr: CA
 stateName: California
 cityName: Santa Clara
 seo:
-  name: "Sushi O Sushi Japanese Cuisine"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi O Sushi Japanese Cuisine serves delicious sushi in Santa Clara, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJj5rFQBPKj4AR1IU4bKscQCs
 photos:
   - name: >-
@@ -185,7 +183,40 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Sushi O Sushi in Santa Clara, CA$$$Sushi O Sushi Japanese Cuisine in
+  Santa Clara, California, stands out as a welcoming hub for fresh sushi and
+  authentic Japanese flavors in a laid-back atmosphere. This spot boasts a
+  diverse array of sushi rolls and traditional dishes, making it a go-to choice
+  for anyone exploring sushi restaurants in the area. The cozy, casual setting
+  enhances the dining experience, ideal for quick lunches or relaxed evenings
+  with friends. Accessibility features like wheelchair-friendly parking and
+  entrances add to its appeal, ensuring it's inclusive for all visitors seeking
+  top-rated sushi options nearby.
+generative_summary: >-
+  Discover Sushi O Sushi in Santa Clara, CA$$$Sushi O Sushi Japanese Cuisine in
+  Santa Clara, California, stands out as a welcoming hub for fresh sushi and
+  authentic Japanese flavors in a laid-back atmosphere. This spot boasts a
+  diverse array of sushi rolls and traditional dishes, making it a go-to choice
+  for anyone exploring sushi restaurants in the area. The cozy, casual setting
+  enhances the dining experience, ideal for quick lunches or relaxed evenings
+  with friends. Accessibility features like wheelchair-friendly parking and
+  entrances add to its appeal, ensuring it's inclusive for all visitors seeking
+  top-rated sushi options nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying About This Spot$$$Feedback from diners highlights the
+  fresh ingredients and flavorful variety that make Sushi O Sushi a solid pick
+  for Japanese eats in Santa Clara. Many appreciate the balance of traditional
+  and creative rolls, often noting it as a reliable option for casual sushi
+  cravings without breaking the bank. While some mention occasional waits during
+  busy times, the overall vibe and quality keep it recommended for groups or
+  solo diners. It's frequently praised for delivering good value and a welcoming
+  feel, helping it stand out among local sushi places for those searching for
+  satisfying meals. All in all, the positive buzz suggests it's worth trying for
+  anyone hunting for tasty sushi near me.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +242,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

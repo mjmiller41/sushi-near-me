@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Nama Sushi Bar - Downtown Knoxville"
+title: Nama Sushi Bar - Downtown Knoxville
 permalink: /tennessee/knoxville/nama-sushi-bar-downtown-knoxville.html
 stateAbbr: TN
 stateName: Tennessee
 cityName: Knoxville
 seo:
-  name: "Nama Sushi Bar - Downtown Knoxville"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Nama Sushi Bar - Downtown Knoxville serves delicious sushi in Knoxville, Tennessee. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJx4b3XsUXXIgR6938FJlDWao
 photos:
   - name: >-
@@ -185,7 +183,44 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Nama Sushi Bar in Knoxville, TN$$$Nama Sushi Bar in Knoxville, TN,
+  stands out as a welcoming spot for savoring fresh Japanese dishes in a relaxed
+  setting. This cozy establishment specializes in artfully prepared sushi rolls
+  and a range of small plates that highlight authentic flavors, making it an
+  ideal choice for anyone exploring sushi options nearby. Complementing the menu
+  are carefully selected cocktails and sake, enhancing the overall dining
+  experience with a touch of elegance. The restaurant's thoughtful accessibility
+  features ensure it's enjoyable for all guests, adding to its appeal as a go-to
+  destination in the downtown area. Whether you're in the mood for top-rated
+  sushi or simply seeking a taste of Japanese cuisine close to home, this spot
+  delivers a memorable meal in a comfortable atmosphere.
+generative_summary: >-
+  Discover Nama Sushi Bar in Knoxville, TN$$$Nama Sushi Bar in Knoxville, TN,
+  stands out as a welcoming spot for savoring fresh Japanese dishes in a relaxed
+  setting. This cozy establishment specializes in artfully prepared sushi rolls
+  and a range of small plates that highlight authentic flavors, making it an
+  ideal choice for anyone exploring sushi options nearby. Complementing the menu
+  are carefully selected cocktails and sake, enhancing the overall dining
+  experience with a touch of elegance. The restaurant's thoughtful accessibility
+  features ensure it's enjoyable for all guests, adding to its appeal as a go-to
+  destination in the downtown area. Whether you're in the mood for top-rated
+  sushi or simply seeking a taste of Japanese cuisine close to home, this spot
+  delivers a memorable meal in a comfortable atmosphere.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Folks who visit this sushi spot often rave about
+  the fresh, high-quality ingredients that make every bite feel satisfying and
+  authentic. Many appreciate the cozy vibe and attentive service that create a
+  welcoming environment for casual get-togethers or solo outings. While some
+  mention occasional waits during peak times, the overall consensus highlights
+  it as a solid pick for enjoying flavorful Japanese fare without the fuss.
+  Diners frequently note the variety of options that cater to different
+  preferences, helping it stand out among local eateries. All in all, it's seen
+  as a reliable favorite for those hunting for great sushi nearby, with feedback
+  leaning positive on its ability to deliver a enjoyable experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +246,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

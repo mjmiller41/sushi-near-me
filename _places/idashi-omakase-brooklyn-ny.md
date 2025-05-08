@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "idashi Omakase"
+title: idashi Omakase
 permalink: /new-york/brooklyn/idashi-omakase.html
 stateAbbr: NY
 stateName: New York
 cityName: Brooklyn
 seo:
-  name: "idashi Omakase"
-  type: Restaurant
+  type: restaurant
   links: https://www.idashiomakase.com/
-description: "idashi Omakase serves delicious sushi in Brooklyn, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, and dinner."
 place_id: ChIJca2ebQBbwokRTjTkh72DWPE
 photos:
   - name: >-
@@ -146,8 +144,8 @@ address: >-
   ALCOHOL & BYOB, 90 Min Per Session Please Be On Time, White Store, 464 Bergen
   St Front, Brooklyn, NY 11217, USA
 street: >-
-  ALCOHOL & BYOB, 90 Min Per Session Please Be On Time, White Store, 464 Bergen
-  St Front
+  ALCOHOL & BYOB,90 Min Per Session Please Be On Time,White Store,464 Bergen St
+  Front
 city: Brooklyn
 state: NY
 zip: '11217'
@@ -189,6 +187,33 @@ price_range: $100 &ndash; & up
 rating: '4.9'
 rating_count: 0
 website: https://www.idashiomakase.com/
+description: >-
+  Discover Idashi Omakase in Brooklyn, NY$$$Idashi Omakase in Brooklyn, NY,
+  stands out as a reservations-only destination for authentic Japanese dining,
+  blending fresh ingredients and expert preparation in an intimate setting. This
+  spot specializes in omakase experiences that highlight high-quality seafood
+  and thoughtful pairings, making it a go-to for those exploring sushi
+  restaurants in the area. With options like BYOB and a focus on sake and beer
+  to complement the meal, it offers a welcoming atmosphere that's perfect for
+  savoring seasonal flavors without pretense. Visitors appreciate the accessible
+  entrance and overall convenience, adding to its appeal for anyone searching
+  for top-rated Japanese places near me. Whether you're in the mood for a
+  refined evening or simply great sushi close to home, this venue delivers a
+  memorable taste of tradition with every course.
+generative_summary: >-
+  Discover Idashi Omakase in Brooklyn, NY$$$Idashi Omakase in Brooklyn, NY,
+  stands out as a reservations-only destination for authentic Japanese dining,
+  blending fresh ingredients and expert preparation in an intimate setting. This
+  spot specializes in omakase experiences that highlight high-quality seafood
+  and thoughtful pairings, making it a go-to for those exploring sushi
+  restaurants in the area. With options like BYOB and a focus on sake and beer
+  to complement the meal, it offers a welcoming atmosphere that's perfect for
+  savoring seasonal flavors without pretense. Visitors appreciate the accessible
+  entrance and overall convenience, adding to its appeal for anyone searching
+  for top-rated Japanese places near me. Whether you're in the mood for a
+  refined evening or simply great sushi close to home, this venue delivers a
+  memorable taste of tradition with every course.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJca2ebQBbwokRTjTkh72DWPE/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfd19iUG1BRRAB
@@ -350,6 +375,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURRNW9PWUtREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURRNW9PWUtREAE!2m1!1s0x89c25b006d9ead71:0xf15883bd87e4344e
+review_summary: >-
+  What Guests Are Saying$$$Folks who visit Idashi Omakase often rave about the
+  fresh, flavorful omakase dishes that make for a standout meal, with highlights
+  like perfectly seasoned seafood and creative ingredient combinations keeping
+  things exciting from start to finish. Many appreciate the friendly and
+  attentive service that creates a relaxed, welcoming vibe, making it easy to
+  enjoy the experience without any fuss. Reviewers frequently note the great
+  value for the quality on offer, praising how the spot accommodates preferences
+  while keeping prices reasonable for such a high-end feel. Overall, the
+  intimate atmosphere and thoughtful touches like BYOB add to the charm, leaving
+  guests eager to return for more delicious bites. It's clear this place hits
+  the mark for anyone hunting for the best sushi near me, with a consistently
+  positive buzz around its authentic and satisfying offerings.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: false
   paidParkingLot: false
@@ -386,7 +425,7 @@ serves_lunch: false
 serves_vegetarian_food: false
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

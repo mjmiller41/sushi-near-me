@@ -5,4 +5,5 @@ permalink: /utah/draper/
 stateAbbr: UT
 stateName: Utah
 cityName: Draper
+
 ---

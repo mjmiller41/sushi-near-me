@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sabeing Boone King"
+title: Sabeing Boone King
 permalink: /north-carolina/boone/sabeing-boone-king.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Boone
 seo:
-  name: "Sabeing Boone King"
-  type: Restaurant
+  type: restaurant
   links: http://sabeingbooneking.com/
-description: "Classic Thai & Vietnamese dishes, plus sushi rolls, served in an informal establishment. Sabeing Boone King serves delicious sushi in Boone, North Carolina. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJk01ACA76UIgRdPNLzV2iPnU
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 0
 website: http://sabeingbooneking.com/
+description: >-
+  Discover Sabeing Boone King in Boone, NC$$$Nestled in the heart of Boone, NC,
+  Sabeing Boone King stands out as a family-owned eatery blending Thai and
+  Vietnamese flavors with fresh sushi options, making it a go-to spot for those
+  seeking diverse Asian cuisine. This casual restaurant boasts a wide array of
+  dishes, from spicy curries and savory stir-fries to meticulously prepared
+  sushi rolls that highlight quality ingredients and authentic tastes. Visitors
+  can enjoy the convenience of takeout or dine-in with accessible features like
+  wheelchair-friendly entrances and seating, enhancing its appeal for a relaxed
+  meal. The menu's variety caters to various preferences, including vegetarian
+  choices and bold flavors that pair well with coffee or dessert options, ideal
+  for anyone exploring sushi restaurants in the area.
+generative_summary: >-
+  Discover Sabeing Boone King in Boone, NC$$$Nestled in the heart of Boone, NC,
+  Sabeing Boone King stands out as a family-owned eatery blending Thai and
+  Vietnamese flavors with fresh sushi options, making it a go-to spot for those
+  seeking diverse Asian cuisine. This casual restaurant boasts a wide array of
+  dishes, from spicy curries and savory stir-fries to meticulously prepared
+  sushi rolls that highlight quality ingredients and authentic tastes. Visitors
+  can enjoy the convenience of takeout or dine-in with accessible features like
+  wheelchair-friendly entrances and seating, enhancing its appeal for a relaxed
+  meal. The menu's variety caters to various preferences, including vegetarian
+  choices and bold flavors that pair well with coffee or dessert options, ideal
+  for anyone exploring sushi restaurants in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJk01ACA76UIgRdPNLzV2iPnU/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3eXBDMVhBEAE
@@ -334,6 +357,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUMzNTlyUVBBEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUMzNTlyUVBBEAE!2m1!1s0x8850fa0e08404d93:0x753ea25dcd4bf374
+review_summary: >-
+  Insights from Customer Feedback$$$Folks often rave about the flavorful Thai
+  and Vietnamese dishes at this spot, with many highlighting the delicious sushi
+  and quick takeout service that keeps things convenient and hot. While some
+  orders come out just right and earn high praise for their authentic spices and
+  variety, a few mentions note occasional mix-ups that could use some
+  fine-tuning for a smoother experience. Overall, the friendly vibes and
+  reliable options like Pad Thai make it a solid choice for anyone craving
+  top-rated Asian eats nearby. If you're in the mood for affordable, satisfying
+  meals that balance bold tastes with ease of access, this place generally
+  delivers a positive vibe worth trying. Keep in mind, it's praised for its
+  consistency in flavors, helping it stand out among local sushi places.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeStreetParking: true
   paidStreetParking: true
@@ -366,8 +402,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Classic Thai & Vietnamese dishes, plus sushi rolls, served in an informal
   establishment.
 

@@ -1,15 +1,14 @@
 ---
 layout: place
-title: "Lin's Mandarin Chinese & Asian Restaurant"
+title: Lin's Mandarin Chinese & Asian Restaurant
 permalink: /illinois/norridge/lin-s-mandarin-chinese-asian-restaurant.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Norridge
 seo:
-  name: "Lin's Mandarin Chinese & Asian Restaurant"
-  type: Restaurant
-  links: https://www.smorefood.com/order-online/lins-mandarin-chinese-and-asian-restaurant-norridge-60706-8qbgl32e?utm_source=gmb&utm_medium=website
-description: "Casual eatery offering a large menu of modern & traditional Chinese fare in simple surrounds. Lin's Mandarin Chinese & Asian Restaurant serves delicious sushi in Norridge, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
+  type: restaurant
+  links: >-
+    https://www.smorefood.com/order-online/lins-mandarin-chinese-and-asian-restaurant-norridge-60706-8qbgl32e?utm_source=gmb&utm_medium=website
 place_id: ChIJiVtu-RjKD4gRewhKKxwDJTs
 photos:
   - name: >-
@@ -186,6 +185,33 @@ rating: '4.1'
 rating_count: 0
 website: >-
   https://www.smorefood.com/order-online/lins-mandarin-chinese-and-asian-restaurant-norridge-60706-8qbgl32e?utm_source=gmb&utm_medium=website
+description: >-
+  Discover Lin's in Norridge, IL$$$Lin's Mandarin Chinese & Asian Restaurant in
+  Norridge, IL, provides a laid-back spot for enjoying a mix of classic and
+  contemporary Chinese dishes in a simple, welcoming setting. Located
+  conveniently in the Regency Plaza area, this eatery serves up hearty portions
+  of favorites like sesame chicken and egg rolls, making it a reliable choice
+  for everyday meals. With accessibility features such as wheelchair-friendly
+  entrances and seating, it's an inclusive option for various diners seeking
+  Asian-inspired cuisine. The menu highlights affordable options under $20,
+  ideal for families or groups looking for flavorful, freshly prepared meals.
+  Whether you're exploring local Chinese restaurants near you, this spot
+  delivers a satisfying blend of taste and convenience for a casual dining
+  experience.
+generative_summary: >-
+  Discover Lin's in Norridge, IL$$$Lin's Mandarin Chinese & Asian Restaurant in
+  Norridge, IL, provides a laid-back spot for enjoying a mix of classic and
+  contemporary Chinese dishes in a simple, welcoming setting. Located
+  conveniently in the Regency Plaza area, this eatery serves up hearty portions
+  of favorites like sesame chicken and egg rolls, making it a reliable choice
+  for everyday meals. With accessibility features such as wheelchair-friendly
+  entrances and seating, it's an inclusive option for various diners seeking
+  Asian-inspired cuisine. The menu highlights affordable options under $20,
+  ideal for families or groups looking for flavorful, freshly prepared meals.
+  Whether you're exploring local Chinese restaurants near you, this spot
+  delivers a satisfying blend of taste and convenience for a casual dining
+  experience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJiVtu-RjKD4gRewhKKxwDJTs/reviews/ChZDSUhNMG9nS0VJQ0FnTURBOF9lckJREAE
@@ -361,6 +387,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJZ0lLd3JnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJZ0lLd3JnRRAB!2m1!1s0x880fca18f96e5b89:0x3b25031c2b4a087b
+review_summary: >-
+  What Customers Are Saying$$$Visitors often praise the generous portions and
+  fresh flavors at this spot, making it a solid pick for anyone craving hearty
+  Chinese fare. Many highlight the reliable service and tasty options like
+  veggie egg rolls and fried rice, which leave folks feeling satisfied and ready
+  for more. While a few mentions note that some dishes can vary in seasoning or
+  preparation, the overall vibe leans positive with quick delivery and great
+  value keeping people coming back. It's clear that the restaurant's commitment
+  to ample servings and a welcoming atmosphere resonates with diners, offering
+  an honest win for budget-friendly meals. If you're in the mood for dependable
+  Asian eats nearby, this place generally delivers a feel-good experience that
+  lives up to the hype.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -393,8 +432,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: null
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Casual eatery offering a large menu of modern & traditional Chinese fare in
   simple surrounds.
 

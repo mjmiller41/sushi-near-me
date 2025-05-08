@@ -5,4 +5,5 @@ permalink: /georgia/acworth/
 stateAbbr: GA
 stateName: Georgia
 cityName: Acworth
+
 ---

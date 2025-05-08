@@ -5,4 +5,5 @@ permalink: /texas/addison/
 stateAbbr: TX
 stateName: Texas
 cityName: Addison
+
 ---

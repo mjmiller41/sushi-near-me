@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Maya Sushi"
+title: Maya Sushi
 permalink: /california/fresno/maya-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Fresno
 seo:
-  name: "Maya Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.mayasushifresno.com/
-description: "Maya Sushi serves delicious sushi in Fresno, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJA-8zVUNDlIARmK1_7QIoMYs
 photos:
   - name: >-
@@ -170,36 +168,237 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x809443435533ef03:0x8b312802ed7fad98!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
-    - 'Monday: 5:00 – 8:45 PM'
-    - 'Tuesday: 5:00 – 8:45 PM'
-    - 'Wednesday: 5:00 – 8:45 PM'
-    - 'Thursday: 5:00 – 8:45 PM'
-    - 'Friday: 5:00 – 8:45 PM'
-    - 'Saturday: 5:00 – 8:45 PM'
-    - 'Sunday: 5:00 – 8:45 PM'
-  current:
-    - 'Monday: 5:00 – 8:45 PM'
-    - 'Tuesday: 5:00 – 8:45 PM'
-    - 'Wednesday: 5:00 – 8:45 PM'
-    - 'Thursday: 5:00 – 8:45 PM'
-    - 'Friday: 5:00 – 8:45 PM'
-    - 'Saturday: 5:00 – 8:45 PM'
-    - 'Sunday: 5:00 – 8:45 PM'
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 14
+        minute: 30
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 14
+        minute: 30
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 5:00 – 9:00 PM'
+    - 'Tuesday: 5:00 – 9:00 PM'
+    - 'Wednesday: 5:00 – 9:00 PM'
+    - 'Thursday: 5:00 – 9:00 PM'
+    - 'Friday: 11:30 AM – 2:30 PM, 5:00 – 9:30 PM'
+    - 'Saturday: 11:30 AM – 2:30 PM, 5:00 – 9:30 PM'
+    - 'Sunday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: false
+    periods:
+      - open:
+          day: 0
+          hour: 11
+          minute: 30
+        close:
+          day: 0
+          hour: 14
+          minute: 0
+      - open:
+          day: 0
+          hour: 17
+          minute: 0
+        close:
+          day: 0
+          hour: 20
+          minute: 30
+      - open:
+          day: 1
+          hour: 17
+          minute: 0
+        close:
+          day: 1
+          hour: 20
+          minute: 30
+      - open:
+          day: 2
+          hour: 17
+          minute: 0
+        close:
+          day: 2
+          hour: 20
+          minute: 30
+      - open:
+          day: 3
+          hour: 17
+          minute: 0
+        close:
+          day: 3
+          hour: 20
+          minute: 30
+      - open:
+          day: 4
+          hour: 17
+          minute: 0
+        close:
+          day: 4
+          hour: 20
+          minute: 30
+      - open:
+          day: 5
+          hour: 11
+          minute: 30
+        close:
+          day: 5
+          hour: 14
+          minute: 0
+      - open:
+          day: 5
+          hour: 17
+          minute: 0
+        close:
+          day: 5
+          hour: 21
+          minute: 0
+      - open:
+          day: 6
+          hour: 11
+          minute: 30
+        close:
+          day: 6
+          hour: 14
+          minute: 0
+      - open:
+          day: 6
+          hour: 17
+          minute: 0
+        close:
+          day: 6
+          hour: 21
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 5:00 – 8:30 PM'
+      - 'Tuesday: 5:00 – 8:30 PM'
+      - 'Wednesday: 5:00 – 8:30 PM'
+      - 'Thursday: 5:00 – 8:30 PM'
+      - 'Friday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
+      - 'Saturday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
+      - 'Sunday: 11:30 AM – 2:00 PM, 5:00 – 8:30 PM'
+    secondaryHoursType: TAKEOUT
+    nextOpenTime: '2025-05-04T00:00:00Z'
 phone: (559) 434-1464
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.6'
-rating_count: 0
+rating_count: 229
 website: https://www.mayasushifresno.com/
+description: >-
+  Discover Maya Sushi in Fresno, CA$$$Maya Sushi in Fresno, CA, stands out as a
+  welcoming Japanese restaurant that specializes in fresh, expertly crafted
+  sushi and other authentic dishes. This spot features an array of creative
+  rolls and specials that emphasize high-quality ingredients and artistic
+  presentation, making it a go-to choice for anyone craving flavorful Japanese
+  cuisine. With its accessible location and thoughtful amenities like
+  wheelchair-friendly options, it caters to a variety of diners seeking a
+  relaxed yet refined dining experience. The menu highlights inventive flavors
+  that appeal to sushi enthusiasts, offering a perfect blend of traditional
+  techniques and modern twists. Whether you're exploring top-rated Japanese
+  places nearby or looking for satisfying sushi options close to home, Maya
+  Sushi delivers a memorable meal in a comfortable setting.
+generative_summary: >-
+  Discover Maya Sushi in Fresno, CA$$$Maya Sushi in Fresno, CA, stands out as a
+  welcoming Japanese restaurant that specializes in fresh, expertly crafted
+  sushi and other authentic dishes. This spot features an array of creative
+  rolls and specials that emphasize high-quality ingredients and artistic
+  presentation, making it a go-to choice for anyone craving flavorful Japanese
+  cuisine. With its accessible location and thoughtful amenities like
+  wheelchair-friendly options, it caters to a variety of diners seeking a
+  relaxed yet refined dining experience. The menu highlights inventive flavors
+  that appeal to sushi enthusiasts, offering a perfect blend of traditional
+  techniques and modern twists. Whether you're exploring top-rated Japanese
+  places nearby or looking for satisfying sushi options close to home, Maya
+  Sushi delivers a memorable meal in a comfortable setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What People Are Saying About the Experience$$$Visitors often praise the
+  standout sushi rolls and specials at this Japanese eatery, noting how the
+  creative flavors and fresh ingredients make every bite enjoyable. Many
+  highlight the friendly and attentive service that adds a warm touch to the
+  overall vibe, helping to create a welcoming atmosphere for casual meals. The
+  beautiful way the food is presented gets a lot of nods, with folks
+  appreciating the eye-catching details that enhance the dining experience.
+  Overall, it's clear that this place hits the mark for those hunting for
+  reliable sushi spots, offering solid value without any major drawbacks. If
+  you're in the mood for great Japanese fare near you, the consistent positives
+  from diners suggest it's worth a try for a satisfying outing.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +424,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

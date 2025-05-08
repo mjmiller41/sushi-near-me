@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Zanmai"
+title: Sushi Zanmai
 permalink: /colorado/boulder/sushi-zanmai.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Boulder
 seo:
-  name: "Sushi Zanmai"
-  type: Restaurant
+  type: restaurant
   links: https://www.izakayaamu.com/
-description: "Sushi Zanmai serves delicious sushi in Boulder, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJxWMcuifsa4cRjjP8d1UTftc
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x876bec27ba1c63c5:0xd77e135577fc338e!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 12
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 10:00 PM'
     - 'Tuesday: 11:30 AM – 10:00 PM'
     - 'Wednesday: 11:30 AM – 10:00 PM'
@@ -178,54 +234,405 @@ opening_hours:
     - 'Friday: 12:00 – 10:00 PM'
     - 'Saturday: 12:00 – 10:00 PM'
     - 'Sunday: 12:00 – 10:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 10:00 PM'
-    - 'Tuesday: 11:30 AM – 10:00 PM'
-    - 'Wednesday: 11:30 AM – 10:00 PM'
-    - 'Thursday: 11:30 AM – 10:00 PM'
-    - 'Friday: 12:00 – 10:00 PM'
-    - 'Saturday: 12:00 – 10:00 PM'
-    - 'Sunday: 12:00 – 10:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: false
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 0
+        close:
+          day: 0
+          hour: 21
+          minute: 30
+      - open:
+          day: 1
+          hour: 17
+          minute: 0
+        close:
+          day: 1
+          hour: 18
+          minute: 30
+      - open:
+          day: 2
+          hour: 17
+          minute: 0
+        close:
+          day: 2
+          hour: 18
+          minute: 30
+      - open:
+          day: 3
+          hour: 17
+          minute: 0
+        close:
+          day: 3
+          hour: 18
+          minute: 30
+      - open:
+          day: 4
+          hour: 17
+          minute: 0
+        close:
+          day: 4
+          hour: 18
+          minute: 30
+      - open:
+          day: 5
+          hour: 17
+          minute: 0
+        close:
+          day: 5
+          hour: 18
+          minute: 30
+      - open:
+          day: 6
+          hour: 17
+          minute: 0
+        close:
+          day: 6
+          hour: 18
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 5:00 – 6:30 PM'
+      - 'Tuesday: 5:00 – 6:30 PM'
+      - 'Wednesday: 5:00 – 6:30 PM'
+      - 'Thursday: 5:00 – 6:30 PM'
+      - 'Friday: 5:00 – 6:30 PM'
+      - 'Saturday: 5:00 – 6:30 PM'
+      - 'Sunday: 12:00 – 9:30 PM'
+    secondaryHoursType: HAPPY_HOUR
+    nextOpenTime: '2025-05-03T23:00:00Z'
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 0
+        close:
+          day: 0
+          hour: 21
+          minute: 30
+      - open:
+          day: 1
+          hour: 11
+          minute: 30
+        close:
+          day: 1
+          hour: 21
+          minute: 30
+      - open:
+          day: 2
+          hour: 11
+          minute: 30
+        close:
+          day: 2
+          hour: 21
+          minute: 30
+      - open:
+          day: 3
+          hour: 11
+          minute: 30
+        close:
+          day: 3
+          hour: 21
+          minute: 30
+      - open:
+          day: 4
+          hour: 11
+          minute: 30
+        close:
+          day: 4
+          hour: 21
+          minute: 30
+      - open:
+          day: 5
+          hour: 12
+          minute: 0
+        close:
+          day: 5
+          hour: 21
+          minute: 30
+      - open:
+          day: 6
+          hour: 12
+          minute: 0
+        close:
+          day: 6
+          hour: 21
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 11:30 AM – 9:30 PM'
+      - 'Tuesday: 11:30 AM – 9:30 PM'
+      - 'Wednesday: 11:30 AM – 9:30 PM'
+      - 'Thursday: 11:30 AM – 9:30 PM'
+      - 'Friday: 12:00 – 9:30 PM'
+      - 'Saturday: 12:00 – 9:30 PM'
+      - 'Sunday: 12:00 – 9:30 PM'
+    secondaryHoursType: TAKEOUT
+    nextCloseTime: '2025-05-04T03:30:00Z'
 phone: (303) 440-0733
 price_level: PRICE_LEVEL_MODERATE
 price_range: $30 &ndash; $50
 rating: '4.4'
-rating_count: 0
+rating_count: 991
 website: https://www.izakayaamu.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Sushi Zanmai in Boulder, CO$$$Sushi Zanmai in Boulder, CO, stands out
+  as a popular destination for authentic Japanese dining, offering a casual
+  atmosphere that combines fresh sushi rolls with other flavorful dishes. The
+  spot features a welcoming space ideal for enjoying happy hours and a dedicated
+  tea room, making it a great choice for those seeking a relaxed meal after
+  exploring the area. With accessibility options like wheelchair-friendly
+  entrances and parking, it's designed to accommodate a variety of diners, while
+  its moderate price range provides good value for quality ingredients. Open
+  throughout the week with extended hours for lunch and dinner, this sushi
+  restaurant near you delivers a festive vibe that enhances the overall
+  experience, perfect for anyone hunting for top-rated Japanese cuisine in the
+  region.
+generative_summary: >-
+  Discover Sushi Zanmai in Boulder, CO$$$Sushi Zanmai in Boulder, CO, stands out
+  as a popular destination for authentic Japanese dining, offering a casual
+  atmosphere that combines fresh sushi rolls with other flavorful dishes. The
+  spot features a welcoming space ideal for enjoying happy hours and a dedicated
+  tea room, making it a great choice for those seeking a relaxed meal after
+  exploring the area. With accessibility options like wheelchair-friendly
+  entrances and parking, it's designed to accommodate a variety of diners, while
+  its moderate price range provides good value for quality ingredients. Open
+  throughout the week with extended hours for lunch and dinner, this sushi
+  restaurant near you delivers a festive vibe that enhances the overall
+  experience, perfect for anyone hunting for top-rated Japanese cuisine in the
+  region.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJxWMcuifsa4cRjjP8d1UTftc/reviews/ChZDSUhNMG9nS0VJQ0FnSUNQNU9UWE5REAE
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        This place offers some exotic Nigiri options that we haven't tried
+        before. We like that most of their rolls don't use imitation crab and
+        fancy sauces to over compensate for the imitation filling. I chose this
+        place because I wanted the fan fair of a sushi boat. If your order is
+        large enough, they'll fulfill the request. We went on a Sunday night,
+        and the place was full, but not loud. They've got a couple of really
+        cute seating options depending on the size of your party. We'll still
+        explore the other sushi restaurants in town, but this one has so far
+        been the best sushi we've had in Colorado.
+      languageCode: en
+    originalText:
+      text: >-
+        This place offers some exotic Nigiri options that we haven't tried
+        before. We like that most of their rolls don't use imitation crab and
+        fancy sauces to over compensate for the imitation filling. I chose this
+        place because I wanted the fan fair of a sushi boat. If your order is
+        large enough, they'll fulfill the request. We went on a Sunday night,
+        and the place was full, but not loud. They've got a couple of really
+        cute seating options depending on the size of your party. We'll still
+        explore the other sushi restaurants in town, but this one has so far
+        been the best sushi we've had in Colorado.
+      languageCode: en
+    authorAttribution:
+      displayName: debby alvarenga
+      uri: https://www.google.com/maps/contrib/114368441540128816259/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWKVPdDesHTx_J8AjEQkj-TXgR24lhhPyo84eIt2WW1EUTN9ROh=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-11-21T17:16:59.733799Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNQNU9UWE5REAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNQNU9UWE5REAE!2m1!1s0x876bec27ba1c63c5:0xd77e135577fc338e
+  - name: >-
+      places/ChIJxWMcuifsa4cRjjP8d1UTftc/reviews/ChdDSUhNMG9nS0VJQ0FnSUNmcXBLWHJ3RRAB
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        We had such a wonderful time with our kids here. It's super kid friendly
+        and the kids menu has so many options. I got the 007 roll and the taste
+        was amazing. Our waitress was also very friendly. The food even came out
+        very quickly.
+      languageCode: en
+    originalText:
+      text: >-
+        We had such a wonderful time with our kids here. It's super kid friendly
+        and the kids menu has so many options. I got the 007 roll and the taste
+        was amazing. Our waitress was also very friendly. The food even came out
+        very quickly.
+      languageCode: en
+    authorAttribution:
+      displayName: Jessica Landers
+      uri: https://www.google.com/maps/contrib/115101920362981858013/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKMWkbY7E5pNhsLE-2w9VMPoQw02wG2lOMMZmEqPaMNkEjgvw=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-12-28T01:16:25.760628Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNmcXBLWHJ3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNmcXBLWHJ3RRAB!2m1!1s0x876bec27ba1c63c5:0xd77e135577fc338e
+  - name: >-
+      places/ChIJxWMcuifsa4cRjjP8d1UTftc/reviews/ChZDSUhNMG9nS0VJQ0FnSUR2NDdDU1p3EAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        Our favorite sushi spot in Boulder for decades! Fresh high quality fish,
+        beautiful presentation and a nice variety of appetizers and entrees.
+        Service is great and we always look forward to the friendly
+        "Irashaimase" each time we walk in the door.
+      languageCode: en
+    originalText:
+      text: >-
+        Our favorite sushi spot in Boulder for decades! Fresh high quality fish,
+        beautiful presentation and a nice variety of appetizers and entrees.
+        Service is great and we always look forward to the friendly
+        "Irashaimase" each time we walk in the door.
+      languageCode: en
+    authorAttribution:
+      displayName: Lizzy Perruzzi
+      uri: https://www.google.com/maps/contrib/103649939643064009434/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWQL2nAaDz7U29RQ5ZIU0MHkTCaGqiQ0Lp4cUAtYpnVA1aTST0ysg=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-12-23T16:25:52.180380Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR2NDdDU1p3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR2NDdDU1p3EAE!2m1!1s0x876bec27ba1c63c5:0xd77e135577fc338e
+  - name: >-
+      places/ChIJxWMcuifsa4cRjjP8d1UTftc/reviews/ChdDSUhNMG9nS0VJQ0FnSUNIcTkzaHZRRRAB
+    relativePublishTimeDescription: 7 months ago
+    rating: 5
+    text:
+      text: >-
+        This place is so yummy! My group happened to find parking right outside
+        this restaurant and we decided to try it out for lunch. I'm so glad we
+        did because the sushi they prepare is fantastic and and so well
+        prepared! The presentation of each plate is beautiful and the staff are
+        so friendly and welcoming. The energy in this establishment is positive
+        and tranquil and the decor is really cool. We had a great experience and
+        we will definitely be back! Thank you Zanmai!!
+      languageCode: en
+    originalText:
+      text: >-
+        This place is so yummy! My group happened to find parking right outside
+        this restaurant and we decided to try it out for lunch. I'm so glad we
+        did because the sushi they prepare is fantastic and and so well
+        prepared! The presentation of each plate is beautiful and the staff are
+        so friendly and welcoming. The energy in this establishment is positive
+        and tranquil and the decor is really cool. We had a great experience and
+        we will definitely be back! Thank you Zanmai!!
+      languageCode: en
+    authorAttribution:
+      displayName: Samjay
+      uri: https://www.google.com/maps/contrib/109124973311614726846/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWTv80oDBgGMYuADOvaljR7eh4_2r2SbDysqduEHJTDurGvpOkX=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-09-09T01:32:20.677805Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNIcTkzaHZRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNIcTkzaHZRRRAB!2m1!1s0x876bec27ba1c63c5:0xd77e135577fc338e
+  - name: >-
+      places/ChIJxWMcuifsa4cRjjP8d1UTftc/reviews/ChdDSUhNMG9nS0VJQ0FnTURJXy02c3FRRRAB
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 2
+    text:
+      text: >-
+        Don't order the King Crab roll (with the cooked crab on top).   We first
+        tried it three months ago when it was new.  It was pretty good, so we
+        ordered it again a month later when we went, and this time it tasted a
+        bit burned/off.   We thought a cook was having an off day.  Then we
+        ordered it this weekend.  You could tell someone had burned the crab
+        topping, but they still decided to serve it.  It was burned so bad the
+        whole roll smelled like burned food.  We were really hungry and ate
+        three pieces before we stopped eating it.  I told the server but she
+        didn't offer to to anything- remake it, refund it, or talk to the
+        kitchen.  She clearly saw we had only eaten half the roll.  The other
+        rolls we've had here are fine, but when your average bill is $90-100 for
+        two people you expect higher quality.  I have to rethink how often I
+        visit here.  Just be warned about the crab roll.  I was burping burned
+        crab topping all night because of it, and my wife had bad indegestion
+        also.
+      languageCode: en
+    originalText:
+      text: >-
+        Don't order the King Crab roll (with the cooked crab on top).   We first
+        tried it three months ago when it was new.  It was pretty good, so we
+        ordered it again a month later when we went, and this time it tasted a
+        bit burned/off.   We thought a cook was having an off day.  Then we
+        ordered it this weekend.  You could tell someone had burned the crab
+        topping, but they still decided to serve it.  It was burned so bad the
+        whole roll smelled like burned food.  We were really hungry and ate
+        three pieces before we stopped eating it.  I told the server but she
+        didn't offer to to anything- remake it, refund it, or talk to the
+        kitchen.  She clearly saw we had only eaten half the roll.  The other
+        rolls we've had here are fine, but when your average bill is $90-100 for
+        two people you expect higher quality.  I have to rethink how often I
+        visit here.  Just be warned about the crab roll.  I was burping burned
+        crab topping all night because of it, and my wife had bad indegestion
+        also.
+      languageCode: en
+    authorAttribution:
+      displayName: tgrundon
+      uri: https://www.google.com/maps/contrib/105107421581184583293/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLpRcsf8lknzaUlE2xK1Smlz3oBcyu8fXeiyWDvTjsTAbvCrg=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-14T03:46:09.701080Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJXy02c3FRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJXy02c3FRRRAB!2m1!1s0x876bec27ba1c63c5:0xd77e135577fc338e
+review_summary: >-
+  What Visitors Are Buzzing About$$$Visitors often rave about the fresh and
+  high-quality fish used in the rolls and nigiri, highlighting how the variety
+  keeps things exciting without relying on artificial fillers. Many appreciate
+  the family-friendly setup with kid-friendly options and quick service that
+  makes meals feel effortless and enjoyable. While the atmosphere is generally
+  praised for its positive energy and beautiful presentations, a few mentions
+  note occasional inconsistencies with specific dishes, though these seem to be
+  exceptions rather than the norm. Overall, folks find it a solid pick for
+  groups or casual outings, with the attentive staff adding to the welcoming
+  feel that encourages repeat visits. If you're on the hunt for reliable sushi
+  spots nearby, this place delivers a mostly delightful experience that's worth
+  checking out for its balance of flavor and convenience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeStreetParking: true
+  paidStreetParking: true
+  paidGarageParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+curbside_pickup: true
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: true
+live_music: false
+menu_for_children: true
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: true
+serves_brunch: true
+serves_cocktails: true
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Sushi, special rolls & more in a festive atmosphere, plus lunch specials &
+  weekend-night karaoke.
 
 ---

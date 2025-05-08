@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Poke Bowl"
+title: Poke Bowl
 permalink: /north-dakota/fargo/poke-bowl.html
 stateAbbr: ND
 stateName: North Dakota
 cityName: Fargo
 seo:
-  name: "Poke Bowl"
-  type: Restaurant
-  links: null
-description: "Poke Bowl serves delicious sushi in Fargo, North Dakota. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.wasabipokebowl.com/
 place_id: ChIJm2_PV__JyFIRDC7kVlT-Sno
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x52c8c9ff57cf6f9b:0x7a4afe5456e42e0c!10e5
 primary_type: American Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:30 AM – 9:00 PM'
+    - 'Tuesday: 11:30 AM – 9:00 PM'
+    - 'Wednesday: 11:30 AM – 9:00 PM'
+    - 'Thursday: 11:30 AM – 9:00 PM'
+    - 'Friday: 11:30 AM – 9:00 PM'
+    - 'Saturday: 11:30 AM – 9:00 PM'
+    - 'Sunday: 12:00 – 8:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,53 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (701) 478-2442
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.7'
+rating_count: 321
+website: https://www.wasabipokebowl.com/
+description: >-
+  Discover Poke Bowl in Fargo, ND$$$Poke Bowl in Fargo, ND, stands out as a
+  casual Hawaiian-inspired spot offering fresh poke bowls and sushi options that
+  capture the essence of island flavors. This restaurant features an informal
+  setting where diners can enjoy customizable meals made with high-quality
+  ingredients, making it a go-to choice for those seeking sushi places in the
+  area. With accessibility features like wheelchair-friendly entrances and
+  seating, it ensures a welcoming experience for everyone looking for convenient
+  dining. The menu extends beyond traditional sushi restaurants, incorporating a
+  variety of healthy and vibrant dishes that appeal to those exploring
+  Japanese-inspired cuisine nearby. Open for lunch and dinner throughout the
+  week, it's an ideal stop for anyone searching for satisfying, moderately
+  priced meals in a relaxed environment.
+generative_summary: >-
+  Discover Poke Bowl in Fargo, ND$$$Poke Bowl in Fargo, ND, stands out as a
+  casual Hawaiian-inspired spot offering fresh poke bowls and sushi options that
+  capture the essence of island flavors. This restaurant features an informal
+  setting where diners can enjoy customizable meals made with high-quality
+  ingredients, making it a go-to choice for those seeking sushi places in the
+  area. With accessibility features like wheelchair-friendly entrances and
+  seating, it ensures a welcoming experience for everyone looking for convenient
+  dining. The menu extends beyond traditional sushi restaurants, incorporating a
+  variety of healthy and vibrant dishes that appeal to those exploring
+  Japanese-inspired cuisine nearby. Open for lunch and dinner throughout the
+  week, it's an ideal stop for anyone searching for satisfying, moderately
+  priced meals in a relaxed environment.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Feedback from diners highlights the fresh and
+  flavorful poke bowls and sushi selections that keep people coming back for
+  more at this Fargo favorite. Many appreciate the generous portions and quick
+  service, making it a reliable option for casual meals with friends or solo
+  visits. While some note that the variety of toppings adds a fun twist, others
+  praise the overall value for the price, positioning it as one of the top-rated
+  spots for Japanese-inspired eats around town. The high ratings reflect a
+  positive vibe, with comments often mentioning the welcoming atmosphere that
+  enhances the dining experience. Overall, it's clear that folks searching for
+  great sushi near me find this place hits the mark with its tasty offerings and
+  easygoing appeal.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +314,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

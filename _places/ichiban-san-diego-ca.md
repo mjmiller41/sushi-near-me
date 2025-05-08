@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ichiban"
+title: Ichiban
 permalink: /california/san-diego/ichiban.html
 stateAbbr: CA
 stateName: California
 cityName: San Diego
 seo:
-  name: "Ichiban"
-  type: Restaurant
-  links: null
-description: "Ichiban serves delicious sushi in San Diego, California. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.ichibansushisandiego.com/
 place_id: ChIJt_bxqcJU2YARyJW0mapNYog
 photos:
   - name: >-
@@ -170,22 +168,184 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80d954c2a9f1f6b7:0x88624daa99b495c8!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 9:00 PM'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 9:00 PM'
+    - 'Saturday: 11:00 AM – 9:00 PM'
+    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+  - openNow: false
+    periods:
+      - open:
+          day: 0
+          hour: 16
+          minute: 0
+        close:
+          day: 0
+          hour: 20
+          minute: 0
+      - open:
+          day: 1
+          hour: 16
+          minute: 0
+        close:
+          day: 1
+          hour: 20
+          minute: 0
+      - open:
+          day: 2
+          hour: 16
+          minute: 0
+        close:
+          day: 2
+          hour: 20
+          minute: 0
+      - open:
+          day: 3
+          hour: 16
+          minute: 0
+        close:
+          day: 3
+          hour: 20
+          minute: 0
+      - open:
+          day: 4
+          hour: 16
+          minute: 0
+        close:
+          day: 4
+          hour: 20
+          minute: 0
+      - open:
+          day: 5
+          hour: 16
+          minute: 0
+        close:
+          day: 5
+          hour: 20
+          minute: 0
+      - open:
+          day: 6
+          hour: 16
+          minute: 0
+        close:
+          day: 6
+          hour: 20
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 4:00 – 8:00 PM'
+      - 'Tuesday: 4:00 – 8:00 PM'
+      - 'Wednesday: 4:00 – 8:00 PM'
+      - 'Thursday: 4:00 – 8:00 PM'
+      - 'Friday: 4:00 – 8:00 PM'
+      - 'Saturday: 4:00 – 8:00 PM'
+      - 'Sunday: 4:00 – 8:00 PM'
+    secondaryHoursType: HAPPY_HOUR
+    nextOpenTime: '2025-05-03T23:00:00Z'
+phone: (619) 299-7203
+price_level: PRICE_LEVEL_INEXPENSIVE
+price_range: $10 &ndash; $20
+rating: '4.5'
+rating_count: 776
+website: http://www.ichibansushisandiego.com/
+description: >-
+  Discover Ichiban in San Diego$$$Ichiban in San Diego, CA, is a welcoming
+  Japanese restaurant that delights diners with its fresh selection of sushi
+  rolls, bento boxes, and savory teriyaki options in a laid-back atmosphere.
+  This spot stands out for its accessible features, including
+  wheelchair-friendly parking and entrances, making it easy for everyone to
+  enjoy a meal. Patrons can savor the flavors of traditional Japanese dishes
+  while appreciating the informal vibe that encourages relaxed gatherings. With
+  daily hours from 11 AM to 9 PM, it's a convenient choice for those seeking
+  top-rated sushi restaurants near you, blending authenticity with everyday
+  accessibility.
+generative_summary: >-
+  Discover Ichiban in San Diego$$$Ichiban in San Diego, CA, is a welcoming
+  Japanese restaurant that delights diners with its fresh selection of sushi
+  rolls, bento boxes, and savory teriyaki options in a laid-back atmosphere.
+  This spot stands out for its accessible features, including
+  wheelchair-friendly parking and entrances, making it easy for everyone to
+  enjoy a meal. Patrons can savor the flavors of traditional Japanese dishes
+  while appreciating the informal vibe that encourages relaxed gatherings. With
+  daily hours from 11 AM to 9 PM, it's a convenient choice for those seeking
+  top-rated sushi restaurants near you, blending authenticity with everyday
+  accessibility.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Folks who stop by Ichiban often highlight the fresh
+  and tasty sushi as a standout feature, making it a solid pick for anyone
+  craving reliable Japanese eats. Many appreciate the value for money, with
+  meals coming in at a budget-friendly range that doesn't skimp on quality or
+  portion sizes. The casual setting gets thumbs up for creating a comfortable
+  vibe that's great for quick lunches or evening hangouts, though some note that
+  service can vary depending on the time of day. Overall, it's clear that this
+  place earns its high marks for delivering satisfying dishes that keep people
+  coming back, especially if you're on the hunt for sushi spots close to you
+  that balance flavor with affordability.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +371,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

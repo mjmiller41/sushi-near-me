@@ -5,4 +5,5 @@ permalink: /washington/blaine/
 stateAbbr: WA
 stateName: Washington
 cityName: Blaine
+
 ---

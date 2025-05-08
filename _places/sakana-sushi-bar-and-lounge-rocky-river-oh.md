@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sakana Sushi Bar and Lounge"
+title: Sakana Sushi Bar and Lounge
 permalink: /ohio/rocky-river/sakana-sushi-bar-and-lounge.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Rocky River
 seo:
-  name: "Sakana Sushi Bar and Lounge"
-  type: Restaurant
+  type: restaurant
   links: https://www.sakanacleveland.com/
-description: "Sakana Sushi Bar and Lounge serves delicious sushi in Rocky River, Ohio. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJmw-53cnzMIgR2uclzOV8WY8
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $20 &ndash; $30
 rating: '4.7'
 rating_count: 0
 website: https://www.sakanacleveland.com/
+description: >-
+  Discover Sakana Sushi Bar and Lounge$$$Sakana Sushi Bar and Lounge in Rocky
+  River, OH, offers a casual and modern vibe perfect for enjoying fresh sushi
+  and Asian fusion dishes. This spot specializes in innovative takes on
+  traditional rolls, blending flavors that appeal to a variety of tastes,
+  including creative options for those seeking plant-based choices. With its
+  welcoming atmosphere and thoughtful happy hour specials, it's an ideal
+  destination for anyone craving a relaxed dining experience. The restaurant
+  also boasts accessibility features and outdoor seating, making it easy to
+  enjoy a meal in comfort. Whether you're looking for top-rated sushi places
+  nearby or a cozy spot for fusion cuisine, this location delivers on quality
+  and style.
+generative_summary: >-
+  Discover Sakana Sushi Bar and Lounge$$$Sakana Sushi Bar and Lounge in Rocky
+  River, OH, offers a casual and modern vibe perfect for enjoying fresh sushi
+  and Asian fusion dishes. This spot specializes in innovative takes on
+  traditional rolls, blending flavors that appeal to a variety of tastes,
+  including creative options for those seeking plant-based choices. With its
+  welcoming atmosphere and thoughtful happy hour specials, it's an ideal
+  destination for anyone craving a relaxed dining experience. The restaurant
+  also boasts accessibility features and outdoor seating, making it easy to
+  enjoy a meal in comfort. Whether you're looking for top-rated sushi places
+  nearby or a cozy spot for fusion cuisine, this location delivers on quality
+  and style.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJmw-53cnzMIgR2uclzOV8WY8/reviews/ChZDSUhNMG9nS0VJQ0FnSUNma296NmZ3EAE
@@ -356,6 +379,21 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNmMjk3eVVREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNmMjk3eVVREAE!2m1!1s0x8830f3c9ddb90f9b:0x8f597ce5cc25e7da
+review_summary: >-
+  Buzz Around the Reviews$$$Folks who've visited this sushi spot often highlight
+  the impressive variety of vegan options, praising how they capture the essence
+  of classic rolls without compromising on taste or creativity. Many appreciate
+  the welcoming service and efficient staff that make every meal feel
+  personalized and enjoyable, with comments frequently noting the cozy, upscale
+  atmosphere that enhances the overall experience. Reviewers consistently rave
+  about the high-quality dishes and generous portions, leading to repeat visits
+  and enthusiastic recommendations for families and groups alike. Overall, the
+  feedback paints a picture of a reliable favorite for those searching for the
+  best sushi near me, with a strong emphasis on satisfaction and value that
+  keeps diners coming back. While opinions are overwhelmingly positive, it's
+  clear this place excels at meeting diverse dietary needs while maintaining a
+  fun, approachable vibe.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -388,7 +426,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

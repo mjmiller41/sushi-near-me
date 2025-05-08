@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Shogun Hibachi Steakhouse"
+title: Shogun Hibachi Steakhouse
 permalink: /pennsylvania/monaca/shogun-hibachi-steakhouse.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Monaca
 seo:
-  name: "Shogun Hibachi Steakhouse"
-  type: Restaurant
+  type: restaurant
   links: http://shogunhibachisteakhousepa.com/
-description: "Shogun Hibachi Steakhouse serves delicious sushi in Monaca, Pennsylvania. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ5dntlKlvNIgRGvdnWt7YBKQ
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x88346fa994edd9e5:0xa404d8de5a67f71a!10e5
 primary_type: Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:00 PM'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:30 PM'
     - 'Saturday: 11:00 AM – 9:30 PM'
     - 'Sunday: 12:00 – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 9:30 PM'
-    - 'Saturday: 11:00 AM – 9:30 PM'
-    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T01:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +246,45 @@ phone: (724) 773-9898
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.4'
-rating_count: 0
+rating_count: 754
 website: http://shogunhibachisteakhousepa.com/
+description: >-
+  Experience Shogun Hibachi Steakhouse$$$Shogun Hibachi Steakhouse in Monaca,
+  PA, offers a casual dining experience centered around fresh Japanese cuisine
+  in a convenient mall setting. This spot features an array of flavorful sushi
+  options alongside hibachi-style dishes, making it a go-to for those seeking
+  Japanese places near me with a relaxed vibe. Guests can enjoy a variety of
+  bento boxes and refreshing drinks like beer, sake, and cocktails, all prepared
+  with attention to quality and presentation. The restaurant's accessibility
+  features, such as wheelchair-friendly entrances and seating, ensure a
+  welcoming atmosphere for all diners. With its lively hibachi cooking, it's an
+  ideal choice for anyone exploring top-rated sushi restaurants in the area.
+generative_summary: >-
+  Experience Shogun Hibachi Steakhouse$$$Shogun Hibachi Steakhouse in Monaca,
+  PA, offers a casual dining experience centered around fresh Japanese cuisine
+  in a convenient mall setting. This spot features an array of flavorful sushi
+  options alongside hibachi-style dishes, making it a go-to for those seeking
+  Japanese places near me with a relaxed vibe. Guests can enjoy a variety of
+  bento boxes and refreshing drinks like beer, sake, and cocktails, all prepared
+  with attention to quality and presentation. The restaurant's accessibility
+  features, such as wheelchair-friendly entrances and seating, ensure a
+  welcoming atmosphere for all diners. With its lively hibachi cooking, it's an
+  ideal choice for anyone exploring top-rated sushi restaurants in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Highlights from Guest Feedback$$$Folks rave about the tasty sushi and hibachi
+  dishes at this Japanese steakhouse, with many highlighting fresh rolls and
+  flavorful veggie sides that hit the spot for a satisfying meal. Visitors often
+  appreciate the fun, interactive cooking style that adds entertainment to the
+  dining experience, along with the spot's clean and attractive decor that makes
+  for a pleasant outing. While some note that service can vary and might not
+  always be spot-on, the overall vibe keeps things upbeat and enjoyable for
+  groups or families. Overall, it's a solid pick for anyone hunting for sushi
+  restaurants near me, offering a mix of great food and engaging elements that
+  make it worth a visit. If you're in the mood for something like "I love sushi"
+  moments, this place delivers with its reliable flavors and welcoming setup.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +310,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

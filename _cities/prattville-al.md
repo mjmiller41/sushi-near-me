@@ -5,4 +5,5 @@ permalink: /alabama/prattville/
 stateAbbr: AL
 stateName: Alabama
 cityName: Prattville
+
 ---

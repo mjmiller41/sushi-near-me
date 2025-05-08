@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ocean Star Seafood Co"
+title: Ocean Star Seafood Co
 permalink: /montana/great-falls/ocean-star-seafood-co.html
 stateAbbr: MT
 stateName: Montana
 cityName: Great Falls
 seo:
-  name: "Ocean Star Seafood Co"
-  type: Restaurant
-  links: null
-description: "Ocean Star Seafood Co serves delicious sushi in Great Falls, Montana. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.greatfallsoceanstar.com/
 place_id: ChIJc1taMQBJQlMRuKVAlHFfDy8
 photos:
   - name: >-
@@ -154,6 +152,7 @@ longitude: '-111.339066'
 accessibility_options:
   wheelchairAccessibleParking: true
   wheelchairAccessibleEntrance: true
+  wheelchairAccessibleSeating: true
 business_status: OPERATIONAL
 name: Ocean Star Seafood Co
 google_maps_links:
@@ -168,8 +167,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x53424900315a5b73:0x2f0f5f719440a5b8!10e5
 primary_type: Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 4:00 – 9:30 PM'
+    - 'Tuesday: 4:00 – 9:30 PM'
+    - 'Wednesday: 4:00 – 9:30 PM'
+    - 'Thursday: 4:00 – 9:30 PM'
+    - 'Friday: 4:00 – 10:00 PM'
+    - 'Saturday: 12:00 – 10:00 PM'
+    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -177,13 +241,51 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: +1-941-251-6940
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (406) 770-3147
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.5'
+rating_count: 90
+website: http://www.greatfallsoceanstar.com/
+description: >-
+  Discover Ocean Star Seafood Co in Great Falls, MT$$$Ocean Star Seafood Co in
+  Great Falls, MT, stands out as a welcoming spot for fresh seafood and
+  Japanese-inspired cuisine, drawing in locals and visitors seeking quality
+  dining options. This restaurant boasts accessible features like
+  wheelchair-friendly parking and entrances, making it easy for everyone to
+  enjoy its vibrant atmosphere and well-prepared dishes. With moderate pricing
+  and extended hours including evenings and weekends, it's an ideal choice for
+  those exploring sushi restaurants in the area, offering a taste of the ocean's
+  best in a comfortable setting. The high rating reflects its commitment to
+  fresh ingredients and flavorful meals, perfect for anyone hunting for top
+  sushi spots nearby.
+generative_summary: >-
+  Discover Ocean Star Seafood Co in Great Falls, MT$$$Ocean Star Seafood Co in
+  Great Falls, MT, stands out as a welcoming spot for fresh seafood and
+  Japanese-inspired cuisine, drawing in locals and visitors seeking quality
+  dining options. This restaurant boasts accessible features like
+  wheelchair-friendly parking and entrances, making it easy for everyone to
+  enjoy its vibrant atmosphere and well-prepared dishes. With moderate pricing
+  and extended hours including evenings and weekends, it's an ideal choice for
+  those exploring sushi restaurants in the area, offering a taste of the ocean's
+  best in a comfortable setting. The high rating reflects its commitment to
+  fresh ingredients and flavorful meals, perfect for anyone hunting for top
+  sushi spots nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback Highlights$$$Folks who visit Ocean Star Seafood Co often
+  rave about the fresh flavors and solid portions that make meals feel
+  worthwhile, helping it stand out among local eateries. Many appreciate the
+  friendly vibe and efficient service, which add to the overall enjoyable
+  experience without any major hiccups. Based on the strong ratings, it's clear
+  that diners frequently highlight the variety of dishes as a highlight for
+  groups or casual nights out, keeping things light and satisfying. While not
+  every visit is flawless, the general buzz leans positive, with plenty of
+  praise for the spot's reliability as a go-to for sushi enthusiasts in the
+  region. Overall, it comes across as a solid pick for anyone in the mood for
+  tasty, approachable dining that doesn't disappoint.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -209,7 +311,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

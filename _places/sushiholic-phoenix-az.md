@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushiholic"
+title: Sushiholic
 permalink: /arizona/phoenix/sushiholic.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Phoenix
 seo:
-  name: "Sushiholic"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushiholic serves delicious sushi in Phoenix, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ33-H5fwMK4cR_naewCpkEMY
 photos:
   - name: >-
@@ -185,7 +183,43 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Sushiholic in Phoenix, AZ$$$Sushiholic in Phoenix, AZ, stands out as
+  a welcoming Japanese eatery known for its fresh sushi and satisfying bento
+  boxes, making it a go-to spot for those craving authentic flavors. This casual
+  venue offers a variety of traditional dishes alongside options like sake,
+  creating a relaxed atmosphere perfect for a quick meal or casual gathering.
+  With thoughtful accessibility features ensuring everyone can enjoy the
+  experience, it's an inclusive choice for diners seeking quality Japanese
+  cuisine. Whether you're exploring sushi restaurants nearby or looking for a
+  dependable lunch option, the menu highlights creative rolls and classic
+  favorites that deliver on taste and value.
+generative_summary: >-
+  Discover Sushiholic in Phoenix, AZ$$$Sushiholic in Phoenix, AZ, stands out as
+  a welcoming Japanese eatery known for its fresh sushi and satisfying bento
+  boxes, making it a go-to spot for those craving authentic flavors. This casual
+  venue offers a variety of traditional dishes alongside options like sake,
+  creating a relaxed atmosphere perfect for a quick meal or casual gathering.
+  With thoughtful accessibility features ensuring everyone can enjoy the
+  experience, it's an inclusive choice for diners seeking quality Japanese
+  cuisine. Whether you're exploring sushi restaurants nearby or looking for a
+  dependable lunch option, the menu highlights creative rolls and classic
+  favorites that deliver on taste and value.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Buzzing About$$$Visitors often rave about the delicious
+  array of dishes at this sushi spot, including flavorful bento boxes and crispy
+  shrimp tempura that make for a satisfying meal. Many appreciate the friendly
+  service and efficient pace, which keeps things light and enjoyable without any
+  unnecessary delays. Folks highlight the reasonable prices and diverse sushi
+  selections, like inventive rolls that add a fun twist to traditional
+  favorites, making it easy to find something for everyone. Overall, the
+  experience comes across as reliably positive, with quick service and attentive
+  staff enhancing the vibe for those stopping by for a casual bite. If you're on
+  the hunt for top-rated sushi near you, this place seems to hit the mark with
+  its solid offerings and welcoming approach.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +245,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

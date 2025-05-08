@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ebisu Japanese Restaurant"
+title: Ebisu Japanese Restaurant
 permalink: /florida/palm-beach-gardens/ebisu-japanese-restaurant.html
 stateAbbr: FL
 stateName: Florida
 cityName: Palm Beach Gardens
 seo:
-  name: "Ebisu Japanese Restaurant"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Ebisu Japanese Restaurant serves delicious sushi in Palm Beach Gardens, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJS-KHSy7V3ogRMQoh6UkGnKU
 photos:
   - name: >-
@@ -185,7 +183,40 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Ebisu in Palm Beach Gardens$$$Ebisu Japanese Restaurant in Palm Beach
+  Gardens, FL, stands out as a reliable destination for savoring authentic
+  Japanese flavors in a hassle-free setting. The spot emphasizes accessibility
+  with features like wheelchair-friendly parking and seating, ensuring a
+  comfortable visit for all guests. Its clean and welcoming atmosphere, as seen
+  in various photos, makes it ideal for casual meals and everyday dining. If
+  you're on the hunt for sushi restaurants nearby, this location delivers a
+  straightforward option with classic dishes that appeal to those exploring
+  local Japanese cuisine.
+generative_summary: >-
+  Discover Ebisu in Palm Beach Gardens$$$Ebisu Japanese Restaurant in Palm Beach
+  Gardens, FL, stands out as a reliable destination for savoring authentic
+  Japanese flavors in a hassle-free setting. The spot emphasizes accessibility
+  with features like wheelchair-friendly parking and seating, ensuring a
+  comfortable visit for all guests. Its clean and welcoming atmosphere, as seen
+  in various photos, makes it ideal for casual meals and everyday dining. If
+  you're on the hunt for sushi restaurants nearby, this location delivers a
+  straightforward option with classic dishes that appeal to those exploring
+  local Japanese cuisine.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Insights$$$Folks generally enjoy the fresh tastes and straightforward
+  vibe at this Japanese eatery, often noting the solid food quality as a
+  highlight. Many share that the welcoming environment adds to a relaxed
+  experience, making it a go-to for casual get-togethers or solo stops. While
+  opinions can vary, there's a common nod to the authenticity of the offerings,
+  which keeps it on the radar for sushi enthusiasts in the area. Overall, it
+  comes across as a dependable choice for anyone seeking top-rated Japanese
+  spots, with positive vibes around the convenience and flavors. Keep in mind
+  that personal preferences play a role, so it's always good to check it out
+  based on your own tastes.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +242,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

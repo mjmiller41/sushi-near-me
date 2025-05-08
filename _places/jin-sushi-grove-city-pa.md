@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "JIN SUSHI"
+title: JIN SUSHI
 permalink: /pennsylvania/grove-city/jin-sushi.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Grove City
 seo:
-  name: "JIN SUSHI"
-  type: Restaurant
+  type: restaurant
   links: https://jinsushigc.com/
-description: "JIN SUSHI serves delicious sushi in Grove City, Pennsylvania. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJAQBExER1M4gRcwyJe6aNC7U
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $10 &ndash; $20
 rating: '4.7'
 rating_count: 0
 website: https://jinsushigc.com/
+description: >-
+  Discover JIN SUSHI in Grove City, PA$$$JIN SUSHI in Grove City, PA, stands out
+  as a cozy spot for fresh Japanese cuisine, featuring an array of sushi and
+  hibachi options that highlight quality ingredients and creative flavors. The
+  restaurant offers moderate pricing with generous portions, making it an
+  accessible choice for casual diners seeking satisfying meals. Its welcoming
+  atmosphere is enhanced by thoughtful accessibility features, such as
+  wheelchair-friendly entrances and seating, ensuring a comfortable visit for
+  all. Additionally, the efficient service and variety of dishes cater to those
+  exploring top-rated sushi experiences in the area, blending traditional tastes
+  with local appeal for an enjoyable outing.
+generative_summary: >-
+  Discover JIN SUSHI in Grove City, PA$$$JIN SUSHI in Grove City, PA, stands out
+  as a cozy spot for fresh Japanese cuisine, featuring an array of sushi and
+  hibachi options that highlight quality ingredients and creative flavors. The
+  restaurant offers moderate pricing with generous portions, making it an
+  accessible choice for casual diners seeking satisfying meals. Its welcoming
+  atmosphere is enhanced by thoughtful accessibility features, such as
+  wheelchair-friendly entrances and seating, ensuring a comfortable visit for
+  all. Additionally, the efficient service and variety of dishes cater to those
+  exploring top-rated sushi experiences in the area, blending traditional tastes
+  with local appeal for an enjoyable outing.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJAQBExER1M4gRcwyJe6aNC7U/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJb0pfaXFRRRAB
@@ -336,6 +357,17 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN2X1pYQ3N3RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN2X1pYQ3N3RRAB!2m1!1s0x88337544c4440001:0xb50b8da67b890c73
+review_summary: >-
+  What Customers Are Saying$$$Folks hunting for great sushi near Grove City
+  often praise this spot for its fresh and flavorful rolls that deliver on taste
+  without breaking the bank. Many highlight the tasty hibachi and creative
+  options like specialty rolls, noting they consistently leave diners satisfied
+  with generous portions and solid value. The friendly staff and welcoming vibe
+  add to the overall charm, making it a reliable go-to for groups or families
+  looking for a relaxed meal. While opinions are generally positive, some
+  mention it's a hidden gem worth the drive, encouraging repeat visits for
+  anyone craving the best sushi experiences around.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -368,7 +400,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

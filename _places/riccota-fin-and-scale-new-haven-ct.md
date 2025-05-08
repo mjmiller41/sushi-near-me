@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Riccota Fin And Scale"
+title: Riccota Fin And Scale
 permalink: /connecticut/new-haven/riccota-fin-and-scale.html
 stateAbbr: CT
 stateName: Connecticut
 cityName: New Haven
 seo:
-  name: "Riccota Fin And Scale"
-  type: Restaurant
+  type: restaurant
   links: https://www.ricotta-kosher.com/
-description: "Riccota Fin And Scale serves delicious sushi in New Haven, Connecticut. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJt-_h5-jZ54kRvL0yASE4LSc
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $20 &ndash; $30
 rating: '4.7'
 rating_count: 0
 website: https://www.ricotta-kosher.com/
+description: >-
+  Discover Riccota Fin And Scale in New Haven, CT$$$Riccota Fin And Scale in New
+  Haven, CT, stands out as a relaxed spot for savoring kosher sushi and
+  Asian-inspired dishes, perfect for those seeking flavorful options in a
+  welcoming setting. This restaurant combines casual vibes with a selection of
+  fresh rolls and Asian fare, enhanced by drinks like wine and cocktails to
+  elevate the meal. Accessibility features make it easy for everyone to enjoy
+  the experience, while its moderate pricing appeals to locals and visitors
+  alike hunting for top sushi spots nearby. Whether you're in the mood for a
+  quick bite or a leisurely dinner, the focus on quality ingredients ensures a
+  satisfying visit in this vibrant area.
+generative_summary: >-
+  Discover Riccota Fin And Scale in New Haven, CT$$$Riccota Fin And Scale in New
+  Haven, CT, stands out as a relaxed spot for savoring kosher sushi and
+  Asian-inspired dishes, perfect for those seeking flavorful options in a
+  welcoming setting. This restaurant combines casual vibes with a selection of
+  fresh rolls and Asian fare, enhanced by drinks like wine and cocktails to
+  elevate the meal. Accessibility features make it easy for everyone to enjoy
+  the experience, while its moderate pricing appeals to locals and visitors
+  alike hunting for top sushi spots nearby. Whether you're in the mood for a
+  quick bite or a leisurely dinner, the focus on quality ingredients ensures a
+  satisfying visit in this vibrant area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJt-_h5-jZ54kRvL0yASE4LSc/reviews/ChdDSUhNMG9nS0VJQ0FnTUNBOWJ5UDFnRRAB
@@ -338,6 +359,17 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNXMThySDNRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNXMThySDNRRRAB!2m1!1s0x89e7d9e8e7e1efb7:0x272d38210132bdbc
+review_summary: >-
+  Insights from Recent Feedback$$$Folks generally enjoy the fresh flavors and
+  solid service at this sushi haven, with many praising the tasty rolls and
+  appetizers that hit the spot for a casual meal. While some note that the setup
+  leans more toward takeout with a simple atmosphere, the overall food quality
+  keeps diners coming back for more. Positive vibes shine through in comments
+  about the calm setting and variety of options, making it a go-to choice for
+  groups or late-night cravings. Even with a few mentions of room for
+  improvement in ambiance, the generous portions and authentic touches maintain
+  a positive draw for anyone exploring sushi restaurants around here.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: false
@@ -373,7 +405,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

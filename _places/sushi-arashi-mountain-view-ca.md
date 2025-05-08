@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Arashi"
+title: Sushi Arashi
 permalink: /california/mountain-view/sushi-arashi.html
 stateAbbr: CA
 stateName: California
 cityName: Mountain View
 seo:
-  name: "Sushi Arashi"
-  type: Restaurant
-  links: null
-description: "Sushi Arashi serves delicious sushi in Mountain View, California. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.sushiarashi.com/
 place_id: ChIJLalQbCu3j4ARhYSFis6AvSA
 photos:
   - name: >-
@@ -169,8 +167,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x808fb72b6c50a92d:0x20bd80ce8a858485!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 10:00 PM'
+    - 'Tuesday: 11:00 AM – 10:00 PM'
+    - 'Wednesday: 11:00 AM – 10:00 PM'
+    - 'Thursday: 11:00 AM – 10:00 PM'
+    - 'Friday: 11:00 AM – 10:00 PM'
+    - 'Saturday: 11:00 AM – 10:00 PM'
+    - 'Sunday: 11:00 AM – 10:00 PM'
+  nextCloseTime: '2025-05-04T05:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -178,13 +241,49 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
+phone: (650) 274-8988
 price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+price_range: $20 &ndash; $30
+rating: '4.4'
+rating_count: 146
+website: http://www.sushiarashi.com/
+description: >-
+  Explore Sushi Arashi in Mountain View, CA$$$Sushi Arashi in Mountain View, CA,
+  stands out as a welcoming spot for enjoying fresh Japanese flavors, featuring
+  staples like sushi, teriyaki, and bento boxes in a relaxed setting. This sushi
+  restaurant near you offers a variety of options that cater to those seeking
+  authentic tastes, with an emphasis on quality ingredients and simple,
+  approachable dining. Accessibility features make it easy for everyone to enjoy
+  a meal, while its convenient location in the heart of the city adds to the
+  appeal for locals and visitors alike. Whether you're in the mood for top-rated
+  sushi or a quick Japanese meal, the laid-back atmosphere ensures a comfortable
+  experience that keeps diners coming back.
+generative_summary: >-
+  Explore Sushi Arashi in Mountain View, CA$$$Sushi Arashi in Mountain View, CA,
+  stands out as a welcoming spot for enjoying fresh Japanese flavors, featuring
+  staples like sushi, teriyaki, and bento boxes in a relaxed setting. This sushi
+  restaurant near you offers a variety of options that cater to those seeking
+  authentic tastes, with an emphasis on quality ingredients and simple,
+  approachable dining. Accessibility features make it easy for everyone to enjoy
+  a meal, while its convenient location in the heart of the city adds to the
+  appeal for locals and visitors alike. Whether you're in the mood for top-rated
+  sushi or a quick Japanese meal, the laid-back atmosphere ensures a comfortable
+  experience that keeps diners coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Feedback on Sushi Arashi Experiences$$$Visitors to this sushi spot often
+  highlight the consistently fresh and flavorful dishes, making it a go-to
+  choice for anyone craving reliable Japanese cuisine. Folks appreciate the
+  solid value for the price, with many noting that the portions are generous and
+  the overall vibe feels just right for a casual outing. While some mention
+  occasional waits during peak hours, the general consensus leans positive,
+  praising the attentive service that enhances the meal. It's clear that sushi
+  enthusiasts find plenty to love here, from the variety of options to the
+  welcoming feel that encourages repeat visits. All in all, this place delivers
+  a satisfying experience that keeps the praise rolling in for those exploring
+  local dining gems.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +309,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

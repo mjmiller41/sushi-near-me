@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kiku Restaurant"
+title: Kiku Restaurant
 permalink: /new-jersey/paramus/kiku-restaurant.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Paramus
 seo:
-  name: "Kiku Restaurant"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Kiku Restaurant serves delicious sushi in Paramus, New Jersey. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJj_TsGt76wokRGE681oqWOE8
 photos:
   - name: >-
@@ -185,7 +183,48 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Kiku Restaurant in Paramus, NJ$$$Nestled in Paramus, NJ, Kiku
+  Restaurant stands out as a casual spot for enjoying authentic Japanese
+  cuisine, blending lively hibachi cooking with fresh sushi options. This eatery
+  delights visitors with its entertaining hibachi meals and a selection of sushi
+  that captures the essence of Japanese traditions, making it a go-to choice for
+  those seeking sushi restaurants in the area. The venue boasts accessible
+  features like wheelchair-friendly parking and entrances, ensuring a welcoming
+  experience for all guests. Beyond the flavorful dishes, the atmosphere
+  combines casual vibes with engaging presentations, perfect for families or
+  groups looking for top-rated sushi near me. Whether you're exploring Japanese
+  places near me or craving a memorable meal, Kiku offers a blend of taste and
+  entertainment that keeps diners coming back.
+generative_summary: >-
+  Discover Kiku Restaurant in Paramus, NJ$$$Nestled in Paramus, NJ, Kiku
+  Restaurant stands out as a casual spot for enjoying authentic Japanese
+  cuisine, blending lively hibachi cooking with fresh sushi options. This eatery
+  delights visitors with its entertaining hibachi meals and a selection of sushi
+  that captures the essence of Japanese traditions, making it a go-to choice for
+  those seeking sushi restaurants in the area. The venue boasts accessible
+  features like wheelchair-friendly parking and entrances, ensuring a welcoming
+  experience for all guests. Beyond the flavorful dishes, the atmosphere
+  combines casual vibes with engaging presentations, perfect for families or
+  groups looking for top-rated sushi near me. Whether you're exploring Japanese
+  places near me or craving a memorable meal, Kiku offers a blend of taste and
+  entertainment that keeps diners coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About Kiku$$$Folks often rave about the tasty
+  hibachi dishes at this Japanese spot, with many highlighting the flavorful
+  combinations like the standout seafood options that really hit the spot.
+  Visitors appreciate the fun and welcoming vibe from the chefs, adding a
+  lighthearted touch to the dining experience that makes meals feel special.
+  While the food is consistently fresh and satisfying, some note that service
+  can occasionally be a bit slow, though it's not enough to overshadow the
+  overall enjoyment. In general, it's a solid pick for anyone hunting for great
+  sushi close to me, with the positive feedback on quality and atmosphere
+  outweighing any minor hiccups. If you're in the mood for reliable Japanese
+  fare, Kiku tends to deliver a meal that's worth the visit, keeping things
+  upbeat and enjoyable for most.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +250,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

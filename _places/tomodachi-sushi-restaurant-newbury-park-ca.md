@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Tomodachi Sushi Restaurant"
+title: Tomodachi Sushi Restaurant
 permalink: /california/newbury-park/tomodachi-sushi-restaurant.html
 stateAbbr: CA
 stateName: California
 cityName: Newbury Park
 seo:
-  name: "Tomodachi Sushi Restaurant"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Tomodachi Sushi Restaurant serves delicious sushi in Newbury Park, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJl_jLp7ow6IARn4QImlGOLoQ
 photos:
   - name: >-
@@ -185,7 +183,45 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Tomodachi Sushi in Newbury Park, CA$$$Tomodachi Sushi Restaurant in
+  Newbury Park, CA, delights diners with its fresh seafood offerings and a
+  relaxed atmosphere perfect for enjoying Japanese-inspired meals. The spot
+  specializes in high-quality sushi dishes paired with options like beer and
+  sake, making it a go-to choice for those exploring sushi places near me.
+  Accessibility features, such as wheelchair-friendly parking and seating,
+  ensure everyone can savor the experience comfortably. This informal eatery
+  stands out for its emphasis on authentic flavors and simple yet inviting
+  ambiance, ideal for casual outings or quick bites. Whether you're seeking
+  top-rated sushi restaurants in the area, Tomodachi provides a welcoming spot
+  to unwind and indulge.
+generative_summary: >-
+  Discover Tomodachi Sushi in Newbury Park, CA$$$Tomodachi Sushi Restaurant in
+  Newbury Park, CA, delights diners with its fresh seafood offerings and a
+  relaxed atmosphere perfect for enjoying Japanese-inspired meals. The spot
+  specializes in high-quality sushi dishes paired with options like beer and
+  sake, making it a go-to choice for those exploring sushi places near me.
+  Accessibility features, such as wheelchair-friendly parking and seating,
+  ensure everyone can savor the experience comfortably. This informal eatery
+  stands out for its emphasis on authentic flavors and simple yet inviting
+  ambiance, ideal for casual outings or quick bites. Whether you're seeking
+  top-rated sushi restaurants in the area, Tomodachi provides a welcoming spot
+  to unwind and indulge.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors frequently praise the fresh and flavorful
+  sushi rolls at this spot, often noting how they hit the spot for anyone
+  craving Japanese places near me. Many appreciate the laid-back vibe and
+  attentive service that make dining here feel effortless and enjoyable, with
+  comments highlighting the variety of options for different tastes. While some
+  mention portions could be more generous, the overall consensus is that it's a
+  solid pick for quality and value, especially for casual meals with friends or
+  family. Folks love how it caters to sushi enthusiasts looking for reliable
+  choices, keeping things positive without overwhelming the experience. All in
+  all, it's shaping up as a favorite for those hunting for the best sushi near
+  me in Newbury Park, based on shared feedback from the community.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +247,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

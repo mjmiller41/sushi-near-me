@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi King"
+title: Sushi King
 permalink: /virginia/hampton/sushi-king.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Hampton
 seo:
-  name: "Sushi King"
-  type: Restaurant
+  type: restaurant
   links: http://www.sushikingptc.com/
-description: "Sushi King serves delicious sushi in Hampton, Virginia. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJLeiv1xWDuokRY7VcKRfHRjY
 photos:
   - name: >-
@@ -170,7 +168,105 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89ba8315d7afe82d:0x3646c717295cb563!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 15
+        minute: 0
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 15
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM'
     - 'Tuesday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM'
     - 'Wednesday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM'
@@ -178,14 +274,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 3:00 PM, 5:00 – 10:00 PM'
     - 'Saturday: 12:00 – 10:00 PM'
     - 'Sunday: 12:00 – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM'
-    - 'Thursday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM'
-    - 'Friday: 11:00 AM – 3:00 PM, 5:00 – 10:00 PM'
-    - 'Saturday: 12:00 – 10:00 PM'
-    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +286,48 @@ phone: (757) 788-7080
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '3.8'
-rating_count: 0
+rating_count: 1587
 website: http://www.sushikingptc.com/
+description: >-
+  Discover Sushi King in Hampton, VA$$$Sushi King in Hampton, VA, stands out as
+  a welcoming spot for enjoying authentic Japanese cuisine, featuring an array
+  of fresh sushi options and hibachi favorites in a casual setting. This sushi
+  restaurant offers an all-you-can-eat experience that appeals to those seeking
+  flavorful dishes made with quality ingredients, making it a go-to choice for
+  sushi enthusiasts in the area. Accessibility features like wheelchair-friendly
+  parking and seating ensure a comfortable visit for everyone, while the
+  extended hours accommodate both lunch crowds and evening diners. Whether
+  you're exploring top-rated sushi spots nearby or looking for a relaxed meal
+  with friends, the vibrant atmosphere and diverse menu selections provide a
+  satisfying dining adventure.
+generative_summary: >-
+  Discover Sushi King in Hampton, VA$$$Sushi King in Hampton, VA, stands out as
+  a welcoming spot for enjoying authentic Japanese cuisine, featuring an array
+  of fresh sushi options and hibachi favorites in a casual setting. This sushi
+  restaurant offers an all-you-can-eat experience that appeals to those seeking
+  flavorful dishes made with quality ingredients, making it a go-to choice for
+  sushi enthusiasts in the area. Accessibility features like wheelchair-friendly
+  parking and seating ensure a comfortable visit for everyone, while the
+  extended hours accommodate both lunch crowds and evening diners. Whether
+  you're exploring top-rated sushi spots nearby or looking for a relaxed meal
+  with friends, the vibrant atmosphere and diverse menu selections provide a
+  satisfying dining adventure.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this sushi spot often highlight the
+  fresh flavors and generous portions as standout features, with many
+  appreciating the variety of rolls and hibachi options that keep things
+  exciting. Feedback generally praises the value for money, especially for those
+  searching for reliable sushi restaurants close by, though some note that
+  service can vary depending on the time of day. Overall, the solid 3.8 rating
+  from numerous reviews suggests it's a dependable pick for casual meals, with
+  diners frequently mentioning the welcoming vibe and tasty selections that make
+  it worth returning to. If you're in the mood for quality Japanese fare near
+  you, this place delivers a generally positive experience that's ideal for
+  groups or solo outings. While not perfect, the consistent highlights on fresh
+  ingredients and atmosphere help maintain its appeal among local favorites.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +353,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

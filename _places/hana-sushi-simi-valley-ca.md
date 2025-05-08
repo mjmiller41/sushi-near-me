@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Hana Sushi"
+title: Hana Sushi
 permalink: /california/simi-valley/hana-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Simi Valley
 seo:
-  name: "Hana Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Hana Sushi serves delicious sushi in Simi Valley, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJOxtX8_8u6IARW3mf77HRqpM
 photos:
   - name: >-
@@ -143,7 +141,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID4ytT9MA!2e10!4m2!3m1!1s0x80e82efff3571b3b:0x93aad1b1ef9f795b
 address: 7694, 575 Country Club Dr Suite D, Simi Valley, CA 93065, USA
-street: 7694, 575 Country Club Dr Suite D
+street: 7694,575 Country Club Dr Suite D
 city: Simi Valley
 state: CA
 zip: '93065'
@@ -170,8 +168,81 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80e82efff3571b3b:0x93aad1b1ef9f795b!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: false
+  periods:
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 14
+        minute: 30
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 5:00 – 9:30 PM'
+    - 'Tuesday: 5:00 – 9:30 PM'
+    - 'Wednesday: 5:00 – 9:30 PM'
+    - 'Thursday: 5:00 – 9:30 PM'
+    - 'Friday: 11:30 AM – 2:30 PM, 5:00 – 10:00 PM'
+    - 'Saturday: 11:30 AM – 2:30 PM, 5:00 – 10:00 PM'
+    - 'Sunday: Closed'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +250,56 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
+phone: (805) 520-1333
 price_level: null
-price_range: null
-rating: null
-rating_count: 0
+price_range: $20 &ndash; $30
+rating: '4.6'
+rating_count: 109
 website: null
+description: >-
+  Explore Hana Sushi in Simi Valley, CA$$$Hana Sushi in Simi Valley, CA, offers
+  a welcoming spot for those craving fresh Japanese cuisine, nestled in a
+  convenient shopping area with a cozy vibe and thoughtful health-focused
+  options. This sushi restaurant stands out with its accessible features,
+  including wheelchair-friendly parking and seating, making it easy for everyone
+  to enjoy a relaxed meal. Patrons can savor a variety of sushi dishes that
+  highlight quality ingredients, complemented by a bar for casual drinks, ideal
+  for anyone searching for top-rated sushi near me. The spot's hours cater to
+  evening diners, with extended weekend options, providing flexibility for a
+  quick bite or leisurely dinner. Whether you're exploring Japanese places near
+  me or seeking sushi restaurants with a comfortable atmosphere, Hana Sushi
+  delivers an authentic experience that balances tradition and modern
+  convenience.
+generative_summary: >-
+  Explore Hana Sushi in Simi Valley, CA$$$Hana Sushi in Simi Valley, CA, offers
+  a welcoming spot for those craving fresh Japanese cuisine, nestled in a
+  convenient shopping area with a cozy vibe and thoughtful health-focused
+  options. This sushi restaurant stands out with its accessible features,
+  including wheelchair-friendly parking and seating, making it easy for everyone
+  to enjoy a relaxed meal. Patrons can savor a variety of sushi dishes that
+  highlight quality ingredients, complemented by a bar for casual drinks, ideal
+  for anyone searching for top-rated sushi near me. The spot's hours cater to
+  evening diners, with extended weekend options, providing flexibility for a
+  quick bite or leisurely dinner. Whether you're exploring Japanese places near
+  me or seeking sushi restaurants with a comfortable atmosphere, Hana Sushi
+  delivers an authentic experience that balances tradition and modern
+  convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What People Love About the Reviews$$$Visitors to this sushi spot often rave
+  about the consistently fresh flavors and generous portions that make every
+  visit feel worthwhile, earning it a solid reputation among local favorites.
+  Many highlight the attentive service and welcoming environment, which add to
+  the overall enjoyment without overwhelming the experience. While some note
+  that wait times can vary during peak hours, the high-quality ingredients and
+  variety keep diners coming back for more, especially for those hunting for the
+  best sushi near me. Overall, the feedback paints a picture of a reliable
+  choice for casual meals or group outings, with plenty of positive nods to the
+  healthy options and cozy setup. If you're on the lookout for sushi places near
+  me that deliver on taste and value, this spot seems to hit the mark based on
+  the enthusiastic responses from the community.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +325,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

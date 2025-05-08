@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "East Sushi Bistro"
+title: East Sushi Bistro
 permalink: /new-york/brooklyn/east-sushi-bistro.html
 stateAbbr: NY
 stateName: New York
 cityName: Brooklyn
 seo:
-  name: "East Sushi Bistro"
-  type: Restaurant
+  type: restaurant
   links: https://www.facebook.com/East-Sushi-Bistro-Inc-113798351984306/
-description: "East Sushi Bistro serves delicious sushi in Brooklyn, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJlyfBlo5EwokRUvxnUsU7z-A
 photos:
   - name: >-
@@ -183,6 +181,31 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 0
 website: https://www.facebook.com/East-Sushi-Bistro-Inc-113798351984306/
+description: >-
+  About East Sushi Bistro in Brooklyn, NY$$$East Sushi Bistro in Brooklyn, NY,
+  stands out as a casual spot serving fresh sushi and Japanese-inspired dishes
+  that appeal to locals seeking everyday dining options. With its focus on
+  affordable yet flavorful fare, including a variety of rolls and lunch
+  specials, this neighborhood gem offers a straightforward menu perfect for
+  quick meals or takeout. The restaurant emphasizes quality ingredients and
+  simple presentations, making it an ideal choice for those exploring sushi
+  restaurants near me without breaking the bank. Drawing from its approachable
+  vibe, it's a reliable destination for enjoying Japanese places near me,
+  especially during lunch or dinner hours. This unpretentious eatery captures
+  the essence of accessible, satisfying cuisine in a bustling area.
+generative_summary: >-
+  About East Sushi Bistro in Brooklyn, NY$$$East Sushi Bistro in Brooklyn, NY,
+  stands out as a casual spot serving fresh sushi and Japanese-inspired dishes
+  that appeal to locals seeking everyday dining options. With its focus on
+  affordable yet flavorful fare, including a variety of rolls and lunch
+  specials, this neighborhood gem offers a straightforward menu perfect for
+  quick meals or takeout. The restaurant emphasizes quality ingredients and
+  simple presentations, making it an ideal choice for those exploring sushi
+  restaurants near me without breaking the bank. Drawing from its approachable
+  vibe, it's a reliable destination for enjoying Japanese places near me,
+  especially during lunch or dinner hours. This unpretentious eatery captures
+  the essence of accessible, satisfying cuisine in a bustling area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJlyfBlo5EwokRUvxnUsU7z-A/reviews/ChZDSUhNMG9nS0VJQ0FnSURoM1BUdVlBEAE
@@ -350,6 +373,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNBOGNmeE9BEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNBOGNmeE9BEAE!2m1!1s0x89c2448e96c12797:0xe0cf3bc55267fc52
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this cozy sushi spot often highlight
+  the fresh flavors and great value that make it a go-to for casual meals, with
+  many appreciating the consistent quality of the dishes. Folks frequently
+  mention enjoying the tasty specials and straightforward takeout options, which
+  add to the overall convenience without any fuss. While it's not positioned as
+  a high-end experience, the general feedback leans positive, noting that the
+  food hits the spot for everyday cravings and occasional treats. Some point out
+  it's best to plan ahead during busy times, but the overall vibe keeps things
+  light and satisfying for those searching for top-rated sushi nearby. In
+  summary, it's a solid pick for anyone looking to savor reliable Japanese fare
+  in a welcoming setting, blending affordability with enjoyable tastes.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   valetParking: false
 payment_options:
@@ -377,7 +413,7 @@ serves_lunch: true
 serves_vegetarian_food: false
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

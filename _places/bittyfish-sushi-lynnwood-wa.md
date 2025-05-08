@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "BittyFish Sushi"
+title: BittyFish Sushi
 permalink: /washington/lynnwood/bittyfish-sushi.html
 stateAbbr: WA
 stateName: Washington
 cityName: Lynnwood
 seo:
-  name: "BittyFish Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.bittyfishsushi.com/
-description: "BittyFish Sushi serves delicious sushi in Lynnwood, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJtT4oP_EFkFQRlaMRUl7KYoE
 photos:
   - name: >-
@@ -170,22 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x549005f13f283eb5:0x8162ca5e5211a395!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 20
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 20
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 20
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 20
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 20
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 8:00 PM'
     - 'Tuesday: 11:30 AM – 8:00 PM'
     - 'Wednesday: 11:30 AM – 8:00 PM'
     - 'Thursday: 11:30 AM – 8:00 PM'
-    - 'Friday: 11:30 AM – 8:00 PM'
-    - 'Saturday: 11:30 AM – 8:00 PM'
+    - 'Friday: 11:30 AM – 9:00 PM'
+    - 'Saturday: 11:30 AM – 9:00 PM'
     - 'Sunday: 11:30 AM – 8:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 8:00 PM'
-    - 'Tuesday: 11:30 AM – 8:00 PM'
-    - 'Wednesday: 11:30 AM – 8:00 PM'
-    - 'Thursday: 11:30 AM – 8:00 PM'
-    - 'Friday: 11:30 AM – 8:00 PM'
-    - 'Saturday: 11:30 AM – 8:00 PM'
-    - 'Sunday: 11:30 AM – 8:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,236 @@ phone: (425) 977-0378
 price_level: null
 price_range: $20 &ndash; $30
 rating: '4.1'
-rating_count: 0
+rating_count: 695
 website: http://www.bittyfishsushi.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover BittyFish Sushi in Lynnwood, WA$$$Nestled in Lynnwood, WA, BittyFish
+  Sushi stands out as a casual spot for enjoying fresh sushi and innovative
+  small plates, all conveniently served via a fun conveyor belt system. This
+  welcoming sushi restaurant combines traditional flavors with creative twists,
+  making it an ideal choice for those seeking vibrant Japanese-inspired dining
+  options in the area. Visitors appreciate the accessible features like
+  wheelchair-friendly entrances and ample parking, enhancing the overall
+  experience for everyone. With extended hours that cater to lunch and dinner
+  crowds, it's a go-to destination for satisfying sushi cravings, whether you're
+  looking for a quick bite or a relaxed meal. The menu highlights a variety of
+  dishes that blend quality ingredients with affordability, appealing to fans of
+  top sushi spots nearby.
+generative_summary: >-
+  Discover BittyFish Sushi in Lynnwood, WA$$$Nestled in Lynnwood, WA, BittyFish
+  Sushi stands out as a casual spot for enjoying fresh sushi and innovative
+  small plates, all conveniently served via a fun conveyor belt system. This
+  welcoming sushi restaurant combines traditional flavors with creative twists,
+  making it an ideal choice for those seeking vibrant Japanese-inspired dining
+  options in the area. Visitors appreciate the accessible features like
+  wheelchair-friendly entrances and ample parking, enhancing the overall
+  experience for everyone. With extended hours that cater to lunch and dinner
+  crowds, it's a go-to destination for satisfying sushi cravings, whether you're
+  looking for a quick bite or a relaxed meal. The menu highlights a variety of
+  dishes that blend quality ingredients with affordability, appealing to fans of
+  top sushi spots nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJtT4oP_EFkFQRlaMRUl7KYoE/reviews/ChdDSUhNMG9nS0VJQ0FnTURvX0x6XzFnRRAB
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        This place really impressed me. The sushi was super good. The atmosphere
+        was cozy and clean, and the staff were welcoming. Highly recommend if
+        you’re craving quality sushi!
+      languageCode: en
+    originalText:
+      text: >-
+        This place really impressed me. The sushi was super good. The atmosphere
+        was cozy and clean, and the staff were welcoming. Highly recommend if
+        you’re craving quality sushi!
+      languageCode: en
+    authorAttribution:
+      displayName: Vy Le
+      uri: https://www.google.com/maps/contrib/105796528674875543825/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWzqxlxscCXA7kBu2L-ds28hx8ZhloRQP-y_B6OXLvsrLLk3kRy=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-22T23:48:54.008529Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURvX0x6XzFnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURvX0x6XzFnRRAB!2m1!1s0x549005f13f283eb5:0x8162ca5e5211a395
+  - name: >-
+      places/ChIJtT4oP_EFkFQRlaMRUl7KYoE/reviews/ChdDSUhNMG9nS0VJQ0FnSUMza3JEam5BRRAB
+    relativePublishTimeDescription: 6 months ago
+    rating: 4
+    text:
+      text: >-
+        Beautiful restaurant but a little pricey compared to others like it that
+        I've been to. I wasn't crazy about the amount of sushi on the conveyor
+        belt that was just sitting, especially since the restaurant wasn't full.
+        What we ordered that was fresh was fantastic. I won't likely be back
+        though because of the pricing and I'm not sure how fresh it is.
+      languageCode: en
+    originalText:
+      text: >-
+        Beautiful restaurant but a little pricey compared to others like it that
+        I've been to. I wasn't crazy about the amount of sushi on the conveyor
+        belt that was just sitting, especially since the restaurant wasn't full.
+        What we ordered that was fresh was fantastic. I won't likely be back
+        though because of the pricing and I'm not sure how fresh it is.
+      languageCode: en
+    authorAttribution:
+      displayName: Mariam Greb
+      uri: https://www.google.com/maps/contrib/117791737139480580111/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKl3qZ1jaRqbxOuF8YYk8aoel1Tmf78w7_hYoYKRt7sU-2GOA=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2024-11-04T07:04:08.533068Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMza3JEam5BRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMza3JEam5BRRAB!2m1!1s0x549005f13f283eb5:0x8162ca5e5211a395
+  - name: >-
+      places/ChIJtT4oP_EFkFQRlaMRUl7KYoE/reviews/ChdDSUhNMG9nS0VJQ0FnSURIdXZxdDVnRRAB
+    relativePublishTimeDescription: 7 months ago
+    rating: 2
+    text:
+      text: >-
+        If you've never had fresh sushi before, you might like this place. The
+        atmosphere is a good balance between trendy and cozy, the service
+        friendly but not intrusive, and the drinks are good.  But the sushi -
+        good Lord, the sushi! The rice is old ( so they make one batch every 3
+        days?), the fish is dry and dull rather than shiny, and even the veggies
+        are past their prime. If that weren't enough, their rolls are uninspired
+        combinations. Safeway sushi surpasses this in quality, by far. The kids
+        liked the conveyor belt though, and the company made for a pleasant
+        meal.  Next time, I'll just order a drink.
+      languageCode: en
+    originalText:
+      text: >-
+        If you've never had fresh sushi before, you might like this place. The
+        atmosphere is a good balance between trendy and cozy, the service
+        friendly but not intrusive, and the drinks are good.  But the sushi -
+        good Lord, the sushi! The rice is old ( so they make one batch every 3
+        days?), the fish is dry and dull rather than shiny, and even the veggies
+        are past their prime. If that weren't enough, their rolls are uninspired
+        combinations. Safeway sushi surpasses this in quality, by far. The kids
+        liked the conveyor belt though, and the company made for a pleasant
+        meal.  Next time, I'll just order a drink.
+      languageCode: en
+    authorAttribution:
+      displayName: Arkady T
+      uri: https://www.google.com/maps/contrib/100177080383791440320/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVNT4i_EgNro_le8taXJ4uCHSdxgYA2bGWuQvDojMtv58WZSyns=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-09-15T02:12:15.375282Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURIdXZxdDVnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURIdXZxdDVnRRAB!2m1!1s0x549005f13f283eb5:0x8162ca5e5211a395
+  - name: >-
+      places/ChIJtT4oP_EFkFQRlaMRUl7KYoE/reviews/ChdDSUhNMG9nS0VJQ0FnSUNwNUpXcnF3RRAB
+    relativePublishTimeDescription: a year ago
+    rating: 4
+    text:
+      text: >-
+        This restaurant is a good place to enjoy a quick and tasty meal. Menu
+        items are prepared fresh, and the sushi from the conveyor belt was warm
+        and delicious. Additionally, they offer a good selection of sake, which
+        I quite enjoyed. The waiting staff was very attentive and provided
+        prompt service for all of our orders. Overall, we thoroughly enjoyed our
+        dining experience here. If you are shopping in the mall and need a
+        break, this place would be perfect for grabbing a quick bite.
+      languageCode: en
+    originalText:
+      text: >-
+        This restaurant is a good place to enjoy a quick and tasty meal. Menu
+        items are prepared fresh, and the sushi from the conveyor belt was warm
+        and delicious. Additionally, they offer a good selection of sake, which
+        I quite enjoyed. The waiting staff was very attentive and provided
+        prompt service for all of our orders. Overall, we thoroughly enjoyed our
+        dining experience here. If you are shopping in the mall and need a
+        break, this place would be perfect for grabbing a quick bite.
+      languageCode: en
+    authorAttribution:
+      displayName: Kiddarth
+      uri: https://www.google.com/maps/contrib/107766303068799540076/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIdTkyAR9avN3-cy5pqcvA_WHvdT1kIVD_eAtFXqZtvR8fXrw=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2023-07-29T06:43:47.501191Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNwNUpXcnF3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNwNUpXcnF3RRAB!2m1!1s0x549005f13f283eb5:0x8162ca5e5211a395
+  - name: >-
+      places/ChIJtT4oP_EFkFQRlaMRUl7KYoE/reviews/ChdDSUhNMG9nS0VJQ0FnTURvdkp2RXlnRRAB
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        Food and atmosphere is amazing! And The Hostesses and Servers are all so
+        kind and give such outstanding service, very tentative to their
+        customers, I recommend to anyone who wants to try out a new sushi spot
+        and they have conveyor belt!
+      languageCode: en
+    originalText:
+      text: >-
+        Food and atmosphere is amazing! And The Hostesses and Servers are all so
+        kind and give such outstanding service, very tentative to their
+        customers, I recommend to anyone who wants to try out a new sushi spot
+        and they have conveyor belt!
+      languageCode: en
+    authorAttribution:
+      displayName: Diana Rouhani
+      uri: https://www.google.com/maps/contrib/110783310128022359937/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVjxBB6OKAS6TId29HKX4I44znc7OzM7zemlTU67DgBo3dfXs0mWA=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-22T23:07:23.629806Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURvdkp2RXlnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURvdkp2RXlnRRAB!2m1!1s0x549005f13f283eb5:0x8162ca5e5211a395
+review_summary: >-
+  What People Love About This Sushi Spot$$$Folks rave about the lively conveyor
+  belt setup at this Lynnwood sushi restaurant, which adds a playful element to
+  grabbing fresh rolls and sides like cucumber salad and gyoza. Many highlight
+  the friendly service and attentive staff that make dining here feel welcoming
+  and efficient, even during busy times. While some note that the sushi quality
+  can vary, overall feedback leans positive with praise for the tasty flavors
+  and reasonable prices that keep things approachable. It's a solid pick for
+  families or groups wanting a casual vibe, with options like beer and cocktails
+  rounding out the experience nicely. If you're on the hunt for reliable sushi
+  places in the region, this spot delivers a generally enjoyable meal that
+  balances fun and flavor without breaking the bank.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsCashOnly: false
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
 serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+serves_brunch: false
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Origami Sushi"
+title: Origami Sushi
 permalink: /florida/tampa/origami-sushi.html
 stateAbbr: FL
 stateName: Florida
 cityName: Tampa
 seo:
-  name: "Origami Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.origamisushirestaurant.com/#/
-description: "Bare-bones sushi outfit offering creative & traditional rolls, plus other Japanese eats. Origami Sushi serves delicious sushi in Tampa, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJC3zJU9nDwogRwY_md-FwzSY
 photos:
   - name: >-
@@ -185,6 +183,27 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 0
 website: https://www.origamisushirestaurant.com/#/
+description: >-
+  Discover Origami Sushi in Tampa, FL$$$Origami Sushi in Tampa, FL, stands out
+  as a charming Japanese eatery where fresh flavors and creative twists on
+  classic dishes create a memorable dining experience. This spot delights with a
+  variety of sushi rolls, from traditional options to inventive specials, all
+  crafted with high-quality ingredients that bring out the best in Japanese
+  cuisine. The welcoming atmosphere makes it ideal for casual meals or family
+  gatherings, enhanced by efficient service that keeps things relaxed and
+  enjoyable. Accessibility features like wheelchair-friendly options add to its
+  appeal, ensuring everyone can enjoy the tasty offerings without hassle.
+generative_summary: >-
+  Discover Origami Sushi in Tampa, FL$$$Origami Sushi in Tampa, FL, stands out
+  as a charming Japanese eatery where fresh flavors and creative twists on
+  classic dishes create a memorable dining experience. This spot delights with a
+  variety of sushi rolls, from traditional options to inventive specials, all
+  crafted with high-quality ingredients that bring out the best in Japanese
+  cuisine. The welcoming atmosphere makes it ideal for casual meals or family
+  gatherings, enhanced by efficient service that keeps things relaxed and
+  enjoyable. Accessibility features like wheelchair-friendly options add to its
+  appeal, ensuring everyone can enjoy the tasty offerings without hassle.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJC3zJU9nDwogRwY_md-FwzSY/reviews/ChZDSUhNMG9nS0VJQ0FnTUNBdGVPWFpBEAE
@@ -324,6 +343,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMxbU5QLW93RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMxbU5QLW93RRAB!2m1!1s0x88c2c3d953c97c0b:0x26cd70e177e68fc1
+review_summary: >-
+  What Customers Say About This Tampa Sushi Spot$$$Folks around Tampa often rave
+  about the fresh, flavorful sushi and creative rolls that make meals feel
+  special and satisfying. Many highlight the friendly service and cozy vibe that
+  turn a simple dinner into a pleasant outing, with quick attention that keeps
+  the experience smooth. While some note that portions might be a bit modest for
+  bigger appetites, the overall consensus leans toward it being a reliable
+  choice for quality Japanese eats. It's frequently praised as one of the top
+  local options for anyone craving sushi, with the welcoming environment
+  encouraging repeat visits. All in all, this place delivers a solid experience
+  that leaves most diners happy and eager to return.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -356,8 +387,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Bare-bones sushi outfit offering creative & traditional rolls, plus other
   Japanese eats.
 

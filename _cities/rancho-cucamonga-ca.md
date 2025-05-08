@@ -5,4 +5,5 @@ permalink: /california/rancho-cucamonga/
 stateAbbr: CA
 stateName: California
 cityName: Rancho Cucamonga
+
 ---

@@ -5,4 +5,5 @@ permalink: /california/folsom/
 stateAbbr: CA
 stateName: California
 cityName: Folsom
+
 ---

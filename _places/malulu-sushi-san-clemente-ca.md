@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Malulu Sushi"
+title: Malulu Sushi
 permalink: /california/san-clemente/malulu-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: San Clemente
 seo:
-  name: "Malulu Sushi"
-  type: Restaurant
-  links: null
-description: "Malulu Sushi serves delicious sushi in San Clemente, California. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://malulusushica.com/
 place_id: ChIJ7RnQ8fXz3IARtloOW7q-bv0
 photos:
   - name: >-
@@ -170,8 +168,129 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80dcf3f5f1d019ed:0xfd6ebeba5b0e5ab6!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 14
+        minute: 0
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 14
+        minute: 0
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 20
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 20
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 14
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 20
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:30 AM – 2:00 PM, 5:00 – 8:30 PM'
+    - 'Tuesday: 11:30 AM – 2:00 PM, 5:00 – 8:30 PM'
+    - 'Wednesday: 11:30 AM – 2:00 PM, 5:00 – 8:30 PM'
+    - 'Thursday: 11:30 AM – 2:00 PM, 5:00 – 8:30 PM'
+    - 'Friday: 11:30 AM – 2:00 PM, 5:00 – 8:30 PM'
+    - 'Saturday: 11:30 AM – 2:00 PM, 5:00 – 8:30 PM'
+    - 'Sunday: 11:30 AM – 2:00 PM, 5:00 – 8:30 PM'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +298,50 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
+phone: (949) 498-5331
+price_level: PRICE_LEVEL_MODERATE
 price_range: null
-rating: null
-rating_count: 0
-website: null
+rating: '4.6'
+rating_count: 156
+website: http://malulusushica.com/
+description: >-
+  Discover Malulu Sushi in San Clemente, CA$$$Malulu Sushi in San Clemente, CA,
+  stands out as a laid-back spot in a bustling strip-mall setting, offering an
+  inviting atmosphere for enjoying fresh seafood and creative rolls. This sushi
+  restaurant emphasizes high-quality ingredients, with a menu that showcases a
+  variety of expertly crafted dishes inspired by traditional Japanese flavors.
+  Accessibility features like wheelchair-friendly parking and entrances make it
+  a welcoming choice for all diners seeking convenient sushi options. Operating
+  with flexible hours for both lunch and dinner, it's an ideal destination for
+  those exploring top-rated sushi near me. The overall vibe combines casual
+  charm with a focus on flavorful selections that keep locals and visitors
+  coming back.
+generative_summary: >-
+  Discover Malulu Sushi in San Clemente, CA$$$Malulu Sushi in San Clemente, CA,
+  stands out as a laid-back spot in a bustling strip-mall setting, offering an
+  inviting atmosphere for enjoying fresh seafood and creative rolls. This sushi
+  restaurant emphasizes high-quality ingredients, with a menu that showcases a
+  variety of expertly crafted dishes inspired by traditional Japanese flavors.
+  Accessibility features like wheelchair-friendly parking and entrances make it
+  a welcoming choice for all diners seeking convenient sushi options. Operating
+  with flexible hours for both lunch and dinner, it's an ideal destination for
+  those exploring top-rated sushi near me. The overall vibe combines casual
+  charm with a focus on flavorful selections that keep locals and visitors
+  coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Diners frequently highlight the outstanding
+  freshness of the ingredients and the welcoming ambiance at this popular sushi
+  spot, contributing to its impressive overall rating. Many appreciate the
+  generous portions and thoughtful preparation that make meals feel satisfying
+  and authentic. While a few mention wait times during peak hours, the consensus
+  leans toward praising the variety of options for different preferences.
+  Overall, it's often described as a reliable go-to for quality sushi
+  experiences, with feedback emphasizing its value in the community. If you're
+  on the hunt for sushi restaurants near me, the positive buzz suggests it's
+  worth a try for a enjoyable dining outing.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +367,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

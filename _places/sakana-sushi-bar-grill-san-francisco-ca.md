@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sakana Sushi Bar & Grill"
+title: Sakana Sushi Bar & Grill
 permalink: /california/san-francisco/sakana-sushi-bar-grill.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
 seo:
-  name: "Sakana Sushi Bar & Grill"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sakana Sushi Bar & Grill serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJhb7OEI6AhYAR0erQPfGXf5c
 photos:
   - name: >-
@@ -182,7 +180,42 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  About Sakana Sushi Bar & Grill in San Francisco, CA$$$Sakana Sushi Bar & Grill
+  in San Francisco, CA, offers a cozy atmosphere perfect for enjoying authentic
+  Japanese dishes that highlight fresh seafood and flavorful options. This sushi
+  restaurant specializes in a variety of creative rolls, tempura, and sashimi,
+  making it a go-to spot for those seeking Japanese cuisine in the heart of the
+  city. Guests can expect a welcoming vibe in the Lower Nob Hill neighborhood,
+  with a focus on quality ingredients that bring out the best in every bite.
+  Whether you're looking for a casual meal or a place to savor top-rated sushi
+  options, this establishment delivers a satisfying experience that blends
+  tradition with modern flair.
+generative_summary: >-
+  About Sakana Sushi Bar & Grill in San Francisco, CA$$$Sakana Sushi Bar & Grill
+  in San Francisco, CA, offers a cozy atmosphere perfect for enjoying authentic
+  Japanese dishes that highlight fresh seafood and flavorful options. This sushi
+  restaurant specializes in a variety of creative rolls, tempura, and sashimi,
+  making it a go-to spot for those seeking Japanese cuisine in the heart of the
+  city. Guests can expect a welcoming vibe in the Lower Nob Hill neighborhood,
+  with a focus on quality ingredients that bring out the best in every bite.
+  Whether you're looking for a casual meal or a place to savor top-rated sushi
+  options, this establishment delivers a satisfying experience that blends
+  tradition with modern flair.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this sushi spot often praise the
+  incredibly fresh and delicious rolls that make every visit worthwhile, paired
+  with tasty sides like tempura and yakitori that add extra flavor to the meal.
+  Many appreciate the friendly and attentive service that keeps the vibe relaxed
+  and enjoyable, helping to create a welcoming environment for all. Folks
+  frequently note the reasonable prices, which make it easy to indulge without
+  breaking the bank, especially for those searching for great sushi places
+  nearby. Overall, the consensus leans positive, with diners highlighting the
+  reliable quality that keeps them coming back for more satisfying Japanese
+  fare.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -208,7 +241,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

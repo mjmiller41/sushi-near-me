@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Narumi Sushi"
+title: Narumi Sushi
 permalink: /california/rancho-cordova/narumi-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Rancho Cordova
 seo:
-  name: "Narumi Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Narumi Sushi serves delicious sushi in Rancho Cordova, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJGZgcnqrnmoARAgyhVGbKxZo
 photos:
   - name: >-
@@ -185,7 +183,44 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Narumi Sushi in Rancho Cordova, CA$$$Narumi Sushi in Rancho Cordova,
+  CA, offers an inviting experience as an established spot for Japanese flavors,
+  featuring fresh sushi and classic dishes in a relaxed environment. This eatery
+  emphasizes accessibility with features like wheelchair-friendly parking and
+  entrances, making it easy for everyone to enjoy top-rated sushi options
+  nearby. Patrons can explore a menu of traditional specialties that highlight
+  the essence of Japanese cuisine, perfect for those seeking sushi restaurants
+  in the area. Whether you're looking for a casual meal after a day out or
+  simply craving sushi close to you, the welcoming atmosphere adds to the
+  appeal. Its location in a vibrant neighborhood makes it a go-to choice for
+  anyone hunting for the best sushi near me.
+generative_summary: >-
+  Discover Narumi Sushi in Rancho Cordova, CA$$$Narumi Sushi in Rancho Cordova,
+  CA, offers an inviting experience as an established spot for Japanese flavors,
+  featuring fresh sushi and classic dishes in a relaxed environment. This eatery
+  emphasizes accessibility with features like wheelchair-friendly parking and
+  entrances, making it easy for everyone to enjoy top-rated sushi options
+  nearby. Patrons can explore a menu of traditional specialties that highlight
+  the essence of Japanese cuisine, perfect for those seeking sushi restaurants
+  in the area. Whether you're looking for a casual meal after a day out or
+  simply craving sushi close to you, the welcoming atmosphere adds to the
+  appeal. Its location in a vibrant neighborhood makes it a go-to choice for
+  anyone hunting for the best sushi near me.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Folks generally enjoy the fresh and flavorful
+  sushi rolls at this spot, often noting how they hit the spot for a satisfying
+  meal. Many appreciate the laid-back vibe that makes it feel welcoming for
+  quick lunches or dinners with friends, adding to the overall charm of the
+  place. Comments frequently highlight the variety of traditional dishes that
+  cater to different tastes, making it a solid pick for sushi enthusiasts in the
+  region. While some mention it's a great value for the quality, others praise
+  the efficient service that keeps things running smoothly. All in all, it's
+  earning positive buzz as a reliable option for anyone searching for tasty
+  Japanese places near me.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +246,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Itamae Thai and Sushi Bar"
+title: Itamae Thai and Sushi Bar
 permalink: /pennsylvania/pittsburgh/itamae-thai-and-sushi-bar.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Pittsburgh
 seo:
-  name: "Itamae Thai and Sushi Bar"
-  type: Restaurant
+  type: restaurant
   links: https://www.itamaethaisushi.com/
-description: "Itamae Thai and Sushi Bar serves delicious sushi in Pittsburgh, Pennsylvania. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJy1c2JOD3NIgRGMmNPXgbUmk
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $20 &ndash; $30
 rating: '4.9'
 rating_count: 0
 website: https://www.itamaethaisushi.com/
+description: >-
+  Discover Itamae Thai and Sushi Bar in Pittsburgh, PA$$$Itamae Thai and Sushi
+  Bar in Pittsburgh, PA, provides a welcoming spot for those seeking flavorful
+  Asian cuisine that blends Thai specialties with fresh sushi options. This cozy
+  establishment highlights a variety of dishes, including hearty Thai favorites
+  and expertly prepared Japanese rolls, all served in a comfortable setting that
+  emphasizes quality ingredients and attentive service. Visitors exploring sushi
+  places near them will appreciate the fresh fish and creative presentations
+  that make every meal feel special. The restaurant's moderate pricing and
+  accessible features add to its appeal, making it a go-to choice for casual
+  dinners or groups looking for top-rated sushi in the area.
+generative_summary: >-
+  Discover Itamae Thai and Sushi Bar in Pittsburgh, PA$$$Itamae Thai and Sushi
+  Bar in Pittsburgh, PA, provides a welcoming spot for those seeking flavorful
+  Asian cuisine that blends Thai specialties with fresh sushi options. This cozy
+  establishment highlights a variety of dishes, including hearty Thai favorites
+  and expertly prepared Japanese rolls, all served in a comfortable setting that
+  emphasizes quality ingredients and attentive service. Visitors exploring sushi
+  places near them will appreciate the fresh fish and creative presentations
+  that make every meal feel special. The restaurant's moderate pricing and
+  accessible features add to its appeal, making it a go-to choice for casual
+  dinners or groups looking for top-rated sushi in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJy1c2JOD3NIgRGMmNPXgbUmk/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJaWZLWFdBEAE
@@ -370,6 +391,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJd08yUDZ3RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJd08yUDZ3RRAB!2m1!1s0x8834f7e0243657cb:0x69521b783d8dc918
+review_summary: >-
+  What Customers Are Buzzing About$$$Folks who visit this spot often rave about
+  the super fresh sushi and tasty Thai dishes that hit the spot every time, with
+  highlights like creative rolls and crunchy appetizers stealing the show. While
+  some mention occasional waits during busy evenings, the overall experience
+  shines through with friendly vibes and a welcoming atmosphere that keeps
+  diners coming back. Many appreciate the consistent quality and variety, noting
+  that it's a solid pick for anyone craving reliable Asian flavors without
+  breaking the bank. Even with a few service hiccups on peak nights, the
+  positives far outweigh the minor drawbacks, making it a worthwhile destination
+  for those hunting for great sushi nearby. If you're in the mood for something
+  delicious, this place delivers a generally enjoyable meal that leaves a
+  positive impression.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeStreetParking: true
 payment_options:
@@ -400,7 +435,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: null
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

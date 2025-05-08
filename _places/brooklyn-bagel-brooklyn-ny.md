@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Brooklyn Bagel"
+title: Brooklyn Bagel
 permalink: /new-york/brooklyn/brooklyn-bagel.html
 stateAbbr: NY
 stateName: New York
 cityName: Brooklyn
 seo:
-  name: "Brooklyn Bagel"
-  type: Restaurant
-  links: null
-description: "Brooklyn Bagel serves delicious sushi in Brooklyn, New York. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://brooklynbagelny.com/
 place_id: ChIJp8PEe8JbwokRoj3MDjtq1-U
 photos:
   - name: >-
@@ -168,8 +166,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c25bc27bc4c3a7:0xe5d76a3b0ecc3da2!10e5
 primary_type: Bagel Shop
 opening_hours:
-  regular: null
-  current: null
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 8
+        minute: 30
+      close:
+        day: 0
+        hour: 17
+        minute: 30
+    - open:
+        day: 1
+        hour: 7
+        minute: 30
+      close:
+        day: 1
+        hour: 17
+        minute: 30
+    - open:
+        day: 2
+        hour: 7
+        minute: 30
+      close:
+        day: 2
+        hour: 17
+        minute: 30
+    - open:
+        day: 3
+        hour: 7
+        minute: 30
+      close:
+        day: 3
+        hour: 17
+        minute: 30
+    - open:
+        day: 4
+        hour: 7
+        minute: 30
+      close:
+        day: 4
+        hour: 17
+        minute: 30
+    - open:
+        day: 5
+        hour: 7
+        minute: 30
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 7:30 AM – 5:30 PM'
+    - 'Tuesday: 7:30 AM – 5:30 PM'
+    - 'Wednesday: 7:30 AM – 5:30 PM'
+    - 'Thursday: 7:30 AM – 5:30 PM'
+    - 'Friday: 7:30 AM – 3:00 PM'
+    - 'Saturday: Closed'
+    - 'Sunday: 8:30 AM – 5:30 PM'
+  nextOpenTime: '2025-05-04T12:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -177,13 +232,47 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (347) 678-3928
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.1'
+rating_count: 414
+website: http://brooklynbagelny.com/
+description: >-
+  About Brooklyn Bagel$$$Brooklyn Bagel in Brooklyn, NY, is a welcoming bagel
+  shop that delights locals and visitors with its array of fresh baked goods and
+  casual dining options. The spot features a variety of breakfast choices,
+  including hearty sourdough pizzas, flaky croissants, and an assortment of
+  pastries that capture the essence of neighborhood charm. Its menu highlights
+  quality ingredients and inventive twists on classic items, making it a
+  favorite for those seeking a satisfying meal in a vibrant area. With
+  convenient hours that cater to early risers, this establishment adds to the
+  lively food scene in Williamsburg, offering a cozy atmosphere for quick bites
+  or takeout.
+generative_summary: >-
+  About Brooklyn Bagel$$$Brooklyn Bagel in Brooklyn, NY, is a welcoming bagel
+  shop that delights locals and visitors with its array of fresh baked goods and
+  casual dining options. The spot features a variety of breakfast choices,
+  including hearty sourdough pizzas, flaky croissants, and an assortment of
+  pastries that capture the essence of neighborhood charm. Its menu highlights
+  quality ingredients and inventive twists on classic items, making it a
+  favorite for those seeking a satisfying meal in a vibrant area. With
+  convenient hours that cater to early risers, this establishment adds to the
+  lively food scene in Williamsburg, offering a cozy atmosphere for quick bites
+  or takeout.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Visitor Feedback Highlights$$$Visitors often rave about the delicious bagels
+  and creative sourdough pizzas at this spot, noting how they hit the spot for a
+  satisfying meal. Many appreciate the friendly service and efficient pace that
+  make grabbing a quick bite feel effortless and enjoyable. While some mention
+  that the prices might be a bit higher than expected, the overall value comes
+  through in the fresh flavors and variety of pastries available. Overall, it's
+  a solid choice for anyone in the mood for quality eats, with the welcoming
+  vibe encouraging repeat visits. If you're exploring local options, this place
+  delivers a reliably good experience that keeps things light and fun.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -209,7 +298,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

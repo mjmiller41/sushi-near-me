@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi House 스시하우스"
+title: Sushi House 스시하우스
 permalink: /new-jersey/fort-lee/sushi-house.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Fort Lee
 seo:
-  name: "Sushi House 스시하우스"
-  type: Restaurant
-  links: null
-description: "Sushi House 스시하우스 serves delicious sushi in Fort Lee, New Jersey. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://njsushihouse.com/
 place_id: ChIJpQpcuuj2wokRyg15qL_5raU
 photos:
   - name: >-
@@ -185,22 +183,168 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c2f6e8ba5c0aa5:0xa5adf9bfa8790dca!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 20
+        minute: 50
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 50
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 50
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 50
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 20
+        minute: 50
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 20
+        minute: 50
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 8:50 PM'
+    - 'Tuesday: 11:00 AM – 8:50 PM'
+    - 'Wednesday: 11:00 AM – 8:50 PM'
+    - 'Thursday: 11:00 AM – 8:50 PM'
+    - 'Friday: 11:00 AM – 8:50 PM'
+    - 'Saturday: 11:00 AM – 8:50 PM'
+    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T00:50:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
-phone: null
+  - openNow: true
+    periods:
+      - open:
+          day: 1
+          hour: 11
+          minute: 0
+        close:
+          day: 1
+          hour: 21
+          minute: 0
+      - open:
+          day: 2
+          hour: 11
+          minute: 0
+        close:
+          day: 2
+          hour: 21
+          minute: 0
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 21
+          minute: 0
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 0
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 21
+          minute: 0
+      - open:
+          day: 6
+          hour: 11
+          minute: 0
+        close:
+          day: 6
+          hour: 21
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 11:00 AM – 9:00 PM'
+      - 'Tuesday: 11:00 AM – 9:00 PM'
+      - 'Wednesday: 11:00 AM – 9:00 PM'
+      - 'Thursday: 11:00 AM – 9:00 PM'
+      - 'Friday: 11:00 AM – 9:00 PM'
+      - 'Saturday: 11:00 AM – 9:00 PM'
+      - 'Sunday: Closed'
+    secondaryHoursType: TAKEOUT
+    nextCloseTime: '2025-05-04T01:00:00Z'
+phone: (201) 947-8884
 price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+price_range: $20 &ndash; $30
+rating: '4.6'
+rating_count: 160
+website: http://njsushihouse.com/
+description: >-
+  Discover Sushi House in Fort Lee, NJ$$$Sushi House in Fort Lee, NJ, offers a
+  relaxed and inviting atmosphere for anyone seeking authentic Japanese cuisine.
+  This casual spot specializes in a wide array of fresh sushi rolls, sashimi,
+  and creative options like dragon rolls, making it a go-to for flavorful meals
+  that highlight quality ingredients. With its focus on quick preparation and
+  takeout services, it's perfect for busy days or casual gatherings without the
+  need for a formal dining experience. The menu caters to sushi lovers looking
+  for variety, ensuring every visit feels satisfying and well-balanced. If
+  you're exploring top sushi restaurants in the area, this location stands out
+  for its accessible vibe and reliable flavors that keep customers coming back.
+generative_summary: >-
+  Discover Sushi House in Fort Lee, NJ$$$Sushi House in Fort Lee, NJ, offers a
+  relaxed and inviting atmosphere for anyone seeking authentic Japanese cuisine.
+  This casual spot specializes in a wide array of fresh sushi rolls, sashimi,
+  and creative options like dragon rolls, making it a go-to for flavorful meals
+  that highlight quality ingredients. With its focus on quick preparation and
+  takeout services, it's perfect for busy days or casual gatherings without the
+  need for a formal dining experience. The menu caters to sushi lovers looking
+  for variety, ensuring every visit feels satisfying and well-balanced. If
+  you're exploring top sushi restaurants in the area, this location stands out
+  for its accessible vibe and reliable flavors that keep customers coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What People Love About This Spot$$$Visitors often praise the freshness of the
+  sushi and fish, noting how it delivers a truly satisfying taste with every
+  bite. The friendly team adds a welcoming touch, making the overall experience
+  feel warm and approachable right from the start. Folks appreciate the
+  efficient prep and delivery, which means you can enjoy high-quality meals
+  without long waits. It's frequently highlighted as a dependable choice for
+  casual sushi cravings, blending solid execution with everyday convenience. If
+  you're on the hunt for great sushi options nearby, this place earns consistent
+  nods for its reliable service and tasty results, keeping things positive and
+  enjoyable for all.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -226,7 +370,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

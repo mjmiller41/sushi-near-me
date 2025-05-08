@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Shinju Sushi"
+title: Shinju Sushi
 permalink: /illinois/chicago/shinju-sushi.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
 seo:
-  name: "Shinju Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.shinjusushichicago.com/
-description: "Casual spot for raw & cooked Japanese fare with all-you-can-eat sushi plus lunch & dinner buffets. Shinju Sushi serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJmU3XOWwpDogRxlrGyntgjao
 photos:
   - name: >-
@@ -183,6 +181,31 @@ price_range: $10 &ndash; $20
 rating: '4.2'
 rating_count: 0
 website: http://www.shinjusushichicago.com/
+description: >-
+  Explore Shinju Sushi in Chicago, IL$$$Nestled in the heart of Chicago, IL,
+  Shinju Sushi stands out as a casual spot offering an array of Japanese dishes,
+  highlighted by its all-you-can-eat sushi options that cater to fresh cravings
+  on the go. This welcoming eatery features a variety of sashimi and other fare
+  served in a straightforward style, making it a go-to choice for those seeking
+  satisfying Japanese flavors without the fuss. With options that emphasize
+  quality ingredients and convenient dining, it's ideal for anyone exploring top
+  sushi spots in the area. The moderate pricing and accessible setup add to its
+  appeal, providing a relaxed atmosphere for enjoying authentic tastes. Whether
+  you're in the mood for a quick bite or a fuller meal, this spot delivers on
+  fresh, everyday Japanese dining experiences.
+generative_summary: >-
+  Explore Shinju Sushi in Chicago, IL$$$Nestled in the heart of Chicago, IL,
+  Shinju Sushi stands out as a casual spot offering an array of Japanese dishes,
+  highlighted by its all-you-can-eat sushi options that cater to fresh cravings
+  on the go. This welcoming eatery features a variety of sashimi and other fare
+  served in a straightforward style, making it a go-to choice for those seeking
+  satisfying Japanese flavors without the fuss. With options that emphasize
+  quality ingredients and convenient dining, it's ideal for anyone exploring top
+  sushi spots in the area. The moderate pricing and accessible setup add to its
+  appeal, providing a relaxed atmosphere for enjoying authentic tastes. Whether
+  you're in the mood for a quick bite or a fuller meal, this spot delivers on
+  fresh, everyday Japanese dining experiences.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJmU3XOWwpDogRxlrGyntgjao/reviews/ChZDSUhNMG9nS0VJQ0FnSURWc2ZXMWJBEAE
@@ -368,6 +391,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUR3ajh2TTh3RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUR3ajh2TTh3RRAB!2m1!1s0x880e296c39d74d99:0xaa8d607bcac65ac6
+review_summary: >-
+  Feedback on the Sushi Scene$$$Folks often rave about the all-you-can-eat deals
+  at this spot, praising the fresh salmon sashimi and creative rolls that hit
+  the spot without breaking the bank. While some diners note the portions can
+  vary and service might slow down during busy times, many appreciate the
+  overall value and welcoming vibe that keeps things light and enjoyable. It's
+  clear that the flavorful options like spring rolls and bento boxes make it a
+  solid pick for groups or anyone hunting for reliable Japanese eats nearby.
+  That said, a few mentions of rice-heavy rolls remind you to keep expectations
+  in check for consistency. All in all, if you're on the lookout for decent
+  sushi in the neighborhood, this place offers a fun, budget-friendly option
+  worth trying out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeStreetParking: true
   paidStreetParking: true
@@ -398,8 +434,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Casual spot for raw & cooked Japanese fare with all-you-can-eat sushi plus
   lunch & dinner buffets.
 

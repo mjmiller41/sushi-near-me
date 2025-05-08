@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Uoko Sushi and Japanese Cuisine"
+title: Uoko Sushi and Japanese Cuisine
 permalink: /california/lake-forest/uoko-sushi-and-japanese-cuisine.html
 stateAbbr: CA
 stateName: California
 cityName: Lake Forest
 seo:
-  name: "Uoko Sushi and Japanese Cuisine"
-  type: Restaurant
+  type: restaurant
   links: http://uokolakeforest.com/
-description: "Uoko Sushi and Japanese Cuisine serves delicious sushi in Lake Forest, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ9dpTZGbo3IAR8zOL50H7_X0
 photos:
   - name: >-
@@ -170,7 +168,97 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80dce8666453daf5:0x7dfdfb41e78b33f3!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 14
+        minute: 0
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
     - 'Tuesday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
     - 'Wednesday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
@@ -178,14 +266,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
     - 'Saturday: 5:00 – 9:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
-    - 'Tuesday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
-    - 'Wednesday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
-    - 'Thursday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
-    - 'Friday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
-    - 'Saturday: 5:00 – 9:00 PM'
-    - 'Sunday: Closed'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +278,297 @@ phone: (949) 837-7231
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.4'
-rating_count: 0
+rating_count: 333
 website: http://uokolakeforest.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Uoko Sushi and Japanese Cuisine in Lake Forest, CA$$$Nestled in Lake
+  Forest, CA, Uoko Sushi and Japanese Cuisine offers a welcoming spot for
+  enjoying fresh sushi and authentic Japanese dishes in a relaxed atmosphere.
+  This family-run establishment features a variety of expertly crafted rolls and
+  specialties, making it a go-to choice for those seeking quality dining options
+  in the area. With its casual vibe and focus on fresh ingredients, it's ideal
+  for a quick lunch or an evening meal, enhanced by thoughtful accessibility
+  features like wheelchair-friendly seating and parking. The menu highlights a
+  range of Japanese favorites, from classic rolls to hearty entrees, appealing
+  to anyone exploring local sushi restaurants nearby. Operating with convenient
+  hours throughout the week, it provides a solid option for diners looking for
+  reliable, moderately priced meals in a comfortable setting.
+generative_summary: >-
+  Discover Uoko Sushi and Japanese Cuisine in Lake Forest, CA$$$Nestled in Lake
+  Forest, CA, Uoko Sushi and Japanese Cuisine offers a welcoming spot for
+  enjoying fresh sushi and authentic Japanese dishes in a relaxed atmosphere.
+  This family-run establishment features a variety of expertly crafted rolls and
+  specialties, making it a go-to choice for those seeking quality dining options
+  in the area. With its casual vibe and focus on fresh ingredients, it's ideal
+  for a quick lunch or an evening meal, enhanced by thoughtful accessibility
+  features like wheelchair-friendly seating and parking. The menu highlights a
+  range of Japanese favorites, from classic rolls to hearty entrees, appealing
+  to anyone exploring local sushi restaurants nearby. Operating with convenient
+  hours throughout the week, it provides a solid option for diners looking for
+  reliable, moderately priced meals in a comfortable setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ9dpTZGbo3IAR8zOL50H7_X0/reviews/ChdDSUhNMG9nS0VJQ0FnTUNveTlUM2dRRRAB
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        Our fav sushi spot in South OC. It's a local / regulars spot and
+        excellent if you sit at the sushi bar. But sushi bar is competitive and
+        it's hard to get a seat unless you arrive before opening, most days,
+        both lunch and dinner. We usually let the chef decide what we'll eat and
+        it's seriously good sushi. Very reasonably priced for the quality.
+      languageCode: en
+    originalText:
+      text: >-
+        Our fav sushi spot in South OC. It's a local / regulars spot and
+        excellent if you sit at the sushi bar. But sushi bar is competitive and
+        it's hard to get a seat unless you arrive before opening, most days,
+        both lunch and dinner. We usually let the chef decide what we'll eat and
+        it's seriously good sushi. Very reasonably priced for the quality.
+      languageCode: en
+    authorAttribution:
+      displayName: Jen Y.
+      uri: https://www.google.com/maps/contrib/109469826506682170491/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocL7dYK2IYpUDHaLnGXNbZTVDBGzwFIxLQRNsEVIE6UWqV6uBEIg=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-04-19T23:05:17.575289Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNveTlUM2dRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNveTlUM2dRRRAB!2m1!1s0x80dce8666453daf5:0x7dfdfb41e78b33f3
+  - name: >-
+      places/ChIJ9dpTZGbo3IAR8zOL50H7_X0/reviews/ChZDSUhNMG9nS0VJQ0FnTURveGJtZURBEAE
+    relativePublishTimeDescription: in the last week
+    rating: 5
+    text:
+      text: >-
+        Here’s a refined version of your review with improved flow and clarity,
+        while keeping your original voice:
+
+
+        We went for lunch on a weekday and tried their lunch special, where you
+        can pick five items from a list for about $22. We sat at the bar, which
+        was a nice spot to watch the sushi being prepared.
+
+
+        The yellowtail sushi was amazing — definitely a highlight. The tuna
+        sushi and tuna cut roll were also really good. Eel sushi was great too.
+
+
+        We didn’t love the albacore or salmon sushi, but that might have been
+        because of the sauce they used; next time, I'll probably ask for it
+        without the sauce. We also weren’t fans of the spicy yellowtail hand
+        roll, but the regular yellowtail hand roll was good, so it seems it was
+        the sauce in the spicy version that didn’t quite work for us.
+
+
+        overall great customer service, great atmosphere, great fish quality,
+        and a great selection. I would highly recommend.
+      languageCode: en
+    originalText:
+      text: >-
+        Here’s a refined version of your review with improved flow and clarity,
+        while keeping your original voice:
+
+
+        We went for lunch on a weekday and tried their lunch special, where you
+        can pick five items from a list for about $22. We sat at the bar, which
+        was a nice spot to watch the sushi being prepared.
+
+
+        The yellowtail sushi was amazing — definitely a highlight. The tuna
+        sushi and tuna cut roll were also really good. Eel sushi was great too.
+
+
+        We didn’t love the albacore or salmon sushi, but that might have been
+        because of the sauce they used; next time, I'll probably ask for it
+        without the sauce. We also weren’t fans of the spicy yellowtail hand
+        roll, but the regular yellowtail hand roll was good, so it seems it was
+        the sauce in the spicy version that didn’t quite work for us.
+
+
+        overall great customer service, great atmosphere, great fish quality,
+        and a great selection. I would highly recommend.
+      languageCode: en
+    authorAttribution:
+      displayName: A H
+      uri: https://www.google.com/maps/contrib/105219838329400382268/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJMUtWiK5mdD_u3eBroG-9-8V0NsoX8iSYCPjT_SVC9xO5Ve6M=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-04-26T22:29:45.705573Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURveGJtZURBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURveGJtZURBEAE!2m1!1s0x80dce8666453daf5:0x7dfdfb41e78b33f3
+  - name: >-
+      places/ChIJ9dpTZGbo3IAR8zOL50H7_X0/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ1a3ZXQVV3EAE
+    relativePublishTimeDescription: a year ago
+    rating: 4
+    text:
+      text: >-
+        Came for lunch on a weekday, and service was fast. They have a sushi bar
+        area, regular seating, and booth seating near the entrance. We opted for
+        two lunch combos to try, and both were good. Loved that their raw fish
+        and sushi were pretty fresh, and the owner was super friendly and nice.
+        The only suggestion would be the portions, the pork chop sashimi combo
+        was so tiny (like a kid’s meal)
+
+
+        Overall, love the freshness. Relatively reasonable prices compared to LA
+        sushi places, but we do wish the portions were bigger. Worth a visit!
+
+
+        #bb11
+      languageCode: en
+    originalText:
+      text: >-
+        Came for lunch on a weekday, and service was fast. They have a sushi bar
+        area, regular seating, and booth seating near the entrance. We opted for
+        two lunch combos to try, and both were good. Loved that their raw fish
+        and sushi were pretty fresh, and the owner was super friendly and nice.
+        The only suggestion would be the portions, the pork chop sashimi combo
+        was so tiny (like a kid’s meal)
+
+
+        Overall, love the freshness. Relatively reasonable prices compared to LA
+        sushi places, but we do wish the portions were bigger. Worth a visit!
+
+
+        #bb11
+      languageCode: en
+    authorAttribution:
+      displayName: Christy E
+      uri: https://www.google.com/maps/contrib/102630569206649149310/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocL6jh1tqWsRX8vt4wetJ2i_HAcdWihmy_6j9lzKcvWAZmqb30g=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2023-10-23T19:52:33.799117Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQ1a3ZXQVV3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQ1a3ZXQVV3EAE!2m1!1s0x80dce8666453daf5:0x7dfdfb41e78b33f3
+  - name: >-
+      places/ChIJ9dpTZGbo3IAR8zOL50H7_X0/reviews/ChdDSUhNMG9nS0VJQ0FnSUM1dnE3cHp3RRAB
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        It is an unpretentious place with an immaculate execution. A perfect
+        place for lunch or dinner. The rice and sushi is awesome. Better than in
+        Japan. A warm towel starts you off with a salad and drink. Everything
+        after that is wonderful, light, and super clean tastes. Best I've had.
+        They show you the whole fish to show you how fresh it is. Absolute
+        perfection. A must.
+      languageCode: en
+    originalText:
+      text: >-
+        It is an unpretentious place with an immaculate execution. A perfect
+        place for lunch or dinner. The rice and sushi is awesome. Better than in
+        Japan. A warm towel starts you off with a salad and drink. Everything
+        after that is wonderful, light, and super clean tastes. Best I've had.
+        They show you the whole fish to show you how fresh it is. Absolute
+        perfection. A must.
+      languageCode: en
+    authorAttribution:
+      displayName: Quang Dang
+      uri: https://www.google.com/maps/contrib/117516030572761806659/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUoWXyvSdTDcth4pVNBJ4IaeJJGsr7tamLGlLo9ZA6PTjRqtSha=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2023-10-13T22:06:36.877838Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUM1dnE3cHp3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUM1dnE3cHp3RRAB!2m1!1s0x80dce8666453daf5:0x7dfdfb41e78b33f3
+  - name: >-
+      places/ChIJ9dpTZGbo3IAR8zOL50H7_X0/reviews/ChZDSUhNMG9nS0VJQ0FnSURSaDk3YUdnEAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        A wonderful little sushi dive in the area of the hotels. This is my
+        third trip in and the food has been very fresh and extremely
+        consistent.  There is no fancy styling on my plate, just fresh sushi
+        roles.
+
+        made quick and good. always busy when I above been at this place. We
+        went with two rolls, one rainbow, and one spicy salmon. very good and
+        nice size. Very simple decor and very busy sushi chefs.  I loved the
+        women serving us as I ordered, She only let us order what she thought we
+        would eat.
+
+        found this place originally on Yelp
+      languageCode: en
+    originalText:
+      text: >-
+        A wonderful little sushi dive in the area of the hotels. This is my
+        third trip in and the food has been very fresh and extremely
+        consistent.  There is no fancy styling on my plate, just fresh sushi
+        roles.
+
+        made quick and good. always busy when I above been at this place. We
+        went with two rolls, one rainbow, and one spicy salmon. very good and
+        nice size. Very simple decor and very busy sushi chefs.  I loved the
+        women serving us as I ordered, She only let us order what she thought we
+        would eat.
+
+        found this place originally on Yelp
+      languageCode: en
+    authorAttribution:
+      displayName: Joel Zaidspiner
+      uri: https://www.google.com/maps/contrib/107240326938346211813/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKlbUf7XwVqxnop4RLS6kHDkuPLj7p33L03-hglJk93RMQZNA=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2023-05-05T02:27:41.934611Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURSaDk3YUdnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURSaDk3YUdnEAE!2m1!1s0x80dce8666453daf5:0x7dfdfb41e78b33f3
+review_summary: >-
+  What Customers Are Saying About the Experience$$$Visitors often praise the
+  fresh fish and high-quality sushi at this spot, noting that it's a solid pick
+  for a satisfying meal without breaking the bank. Many enjoy the lunch specials
+  and the chance to watch dishes being prepared, which adds to the overall fun
+  vibe, though some mention that portions could be a bit more generous. The
+  service stands out as friendly and attentive, with staff helping guide choices
+  to ensure a great experience, even if a few sauces don't always hit the mark
+  for everyone. Overall, the atmosphere is described as simple and inviting,
+  making it a reliable choice for groups or solo diners seeking tasty Japanese
+  options. If you're in the mood for dependable sushi dining nearby, this place
+  delivers a consistently positive experience worth trying.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
+curbside_pickup: false
+delivery: false
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
 menu_for_children: null
 outdoor_seating: null
 reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: false
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

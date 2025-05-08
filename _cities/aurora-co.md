@@ -5,4 +5,5 @@ permalink: /colorado/aurora/
 stateAbbr: CO
 stateName: Colorado
 cityName: Aurora
+
 ---

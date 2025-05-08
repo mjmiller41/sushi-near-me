@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Basa Seafood Express"
+title: Basa Seafood Express
 permalink: /california/san-francisco/basa-seafood-express.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
 seo:
-  name: "Basa Seafood Express"
-  type: Restaurant
+  type: restaurant
   links: https://basaexpress.square.site/
-description: "Compact seafood market & restaurant serving fresh-caught fish sandwiches, ceviche & clam chowder. Basa Seafood Express serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJsWzH0kd-j4ARcZzDCbBrFA4
 photos:
   - name: >-
@@ -182,6 +180,31 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 0
 website: https://basaexpress.square.site/
+description: >-
+  Discover Basa Seafood Express in San Francisco, CA$$$Basa Seafood Express in
+  San Francisco, CA, stands out as a casual seafood spot in the vibrant Mission
+  District, offering fresh catches and flavorful dishes that appeal to those
+  seeking quality Japanese-inspired eats. This compact eatery specializes in
+  popular items like spicy salmon poke and sushi options, making it a go-to for
+  locals and visitors hunting for tasty, affordable meals near urban hotspots.
+  With its focus on fresh ingredients and quick service, it's an ideal choice
+  for anyone exploring sushi places near me or craving top-rated seafood in a
+  laid-back setting. The spot's accessibility features ensure a welcoming
+  experience, enhancing its appeal as one of the best sushi restaurants in the
+  area for everyday dining.
+generative_summary: >-
+  Discover Basa Seafood Express in San Francisco, CA$$$Basa Seafood Express in
+  San Francisco, CA, stands out as a casual seafood spot in the vibrant Mission
+  District, offering fresh catches and flavorful dishes that appeal to those
+  seeking quality Japanese-inspired eats. This compact eatery specializes in
+  popular items like spicy salmon poke and sushi options, making it a go-to for
+  locals and visitors hunting for tasty, affordable meals near urban hotspots.
+  With its focus on fresh ingredients and quick service, it's an ideal choice
+  for anyone exploring sushi places near me or craving top-rated seafood in a
+  laid-back setting. The spot's accessibility features ensure a welcoming
+  experience, enhancing its appeal as one of the best sushi restaurants in the
+  area for everyday dining.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJsWzH0kd-j4ARcZzDCbBrFA4/reviews/ChZDSUhNMG9nS0VJQ0FnSUNfNXRmc01nEAE
@@ -331,6 +354,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJd3JUV2pRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJd3JUV2pRRRAB!2m1!1s0x808f7e47d2c76cb1:0xe146bb009c39c71
+review_summary: >-
+  Customer Feedback Highlights$$$Folks who visit Basa Seafood Express often rave
+  about the fresh and flavorful seafood dishes, especially the poke and rolls
+  that deliver a satisfying mix of taste and value without breaking the bank.
+  Many appreciate the quick, take-out style service that makes it easy to grab a
+  meal on the go, along with the friendly vibe that keeps things approachable
+  and enjoyable. While most experiences highlight the high-quality fish and
+  generous portions as standout features, a few notes mention occasional
+  inconsistencies with certain sides, but overall, it's seen as a solid pick for
+  budget-friendly options. If you're on the hunt for sushi restaurants near me
+  or Japanese places close to me, this spot earns praise for its reliable
+  flavors and affordability, making it a favorite for repeat visits among
+  seafood lovers.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeStreetParking: true
   paidStreetParking: true
@@ -363,8 +400,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Compact seafood market & restaurant serving fresh-caught fish sandwiches,
   ceviche & clam chowder.
 

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ikyu 一休"
+title: Ikyu 一休
 permalink: /new-york/new-york/ikyu.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "Ikyu 一休"
-  type: Restaurant
+  type: restaurant
   links: http://www.ikyuny.com/
-description: "Ikyu 一休 serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJGbyO-NNZwokRd4TnMb0H-v4
 photos:
   - name: >-
@@ -183,6 +181,27 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 0
 website: http://www.ikyuny.com/
+description: >-
+  Discover Ikyu in New York, NY$$$Ikyu 一休 in New York, NY, is a casual dining
+  spot that blends Japanese and Chinese influences, offering a menu highlighted
+  by fresh sushi and dim sum options. The restaurant features a cozy atmosphere
+  with simple, inviting decor that makes it ideal for enjoying authentic Asian
+  flavors in a relaxed setting. Diners can explore a variety of seafood dishes
+  prepared with quality ingredients, alongside convenient services like dine-in
+  and delivery for those seeking sushi restaurants nearby. Its accessibility,
+  including wheelchair-friendly restrooms, adds to the welcoming vibe, making it
+  a solid choice for anyone hunting for top-rated sushi experiences in the city.
+generative_summary: >-
+  Discover Ikyu in New York, NY$$$Ikyu 一休 in New York, NY, is a casual dining
+  spot that blends Japanese and Chinese influences, offering a menu highlighted
+  by fresh sushi and dim sum options. The restaurant features a cozy atmosphere
+  with simple, inviting decor that makes it ideal for enjoying authentic Asian
+  flavors in a relaxed setting. Diners can explore a variety of seafood dishes
+  prepared with quality ingredients, alongside convenient services like dine-in
+  and delivery for those seeking sushi restaurants nearby. Its accessibility,
+  including wheelchair-friendly restrooms, adds to the welcoming vibe, making it
+  a solid choice for anyone hunting for top-rated sushi experiences in the city.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJGbyO-NNZwokRd4TnMb0H-v4/reviews/ChZDSUhNMG9nS0VJQ0FnSURmd3BqVWJ3EAE
@@ -388,6 +407,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNsck1MQUtBEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNsck1MQUtBEAE!2m1!1s0x89c259d3f88ebc19:0xfefa07bd31e78477
+review_summary: >-
+  What Visitors Are Buzzing About$$$Folks often rave about the fresh sushi and
+  sashimi at this spot, noting how the fish stands out for its quality and
+  flavor that keeps things light and satisfying. Many appreciate the flavorful
+  miso soup and friendly service that make meals feel warm and approachable,
+  turning even simple visits into enjoyable outings. While some mention portions
+  could be a bit more generous for the price, the overall value shines through
+  with reasonable costs and a cozy ambiance that encourages repeat trips. It's
+  frequently praised as a great pick for casual dinners, with diners
+  highlighting the balance of taste and convenience that makes it worth checking
+  out if you're in the mood for reliable Japanese-inspired eats. If you're
+  exploring sushi places around town, this one consistently delivers a solid,
+  feel-good experience without any major letdowns.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: false
   paidStreetParking: true
@@ -420,7 +453,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

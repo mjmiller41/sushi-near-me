@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "SUGARFISH by sushi nozawa"
+title: SUGARFISH by sushi nozawa
 permalink: /california/calabasas/sugarfish-by-sushi-nozawa.html
 stateAbbr: CA
 stateName: California
 cityName: Calabasas
 seo:
-  name: "SUGARFISH by sushi nozawa"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "SUGARFISH by sushi nozawa serves delicious sushi in Calabasas, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ_zMqb2mewoARzy0_Hi3P0AY
 photos:
   - name: >-
@@ -185,7 +183,48 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Experience SUGARFISH in Calabasas, CA$$$SUGARFISH by sushi nozawa in
+  Calabasas, CA, stands out as an upscale spot for those seeking authentic
+  Japanese cuisine, featuring a carefully curated selection of fresh sushi and
+  other traditional dishes. This restaurant emphasizes high-quality ingredients,
+  including prime fish sourced for an omakase-style experience that delights
+  diners with its simplicity and precision. The inviting atmosphere combines
+  modern elegance with accessibility features like wheelchair-friendly parking
+  and seating, making it a welcoming choice for a variety of visitors. For
+  anyone exploring sushi restaurants in the area, it's a go-to option that
+  highlights the art of Japanese dining without overwhelming the senses. Whether
+  you're looking for top-rated sushi near you, this location offers a refined
+  yet approachable way to enjoy flavorful, expertly prepared meals.
+generative_summary: >-
+  Experience SUGARFISH in Calabasas, CA$$$SUGARFISH by sushi nozawa in
+  Calabasas, CA, stands out as an upscale spot for those seeking authentic
+  Japanese cuisine, featuring a carefully curated selection of fresh sushi and
+  other traditional dishes. This restaurant emphasizes high-quality ingredients,
+  including prime fish sourced for an omakase-style experience that delights
+  diners with its simplicity and precision. The inviting atmosphere combines
+  modern elegance with accessibility features like wheelchair-friendly parking
+  and seating, making it a welcoming choice for a variety of visitors. For
+  anyone exploring sushi restaurants in the area, it's a go-to option that
+  highlights the art of Japanese dining without overwhelming the senses. Whether
+  you're looking for top-rated sushi near you, this location offers a refined
+  yet approachable way to enjoy flavorful, expertly prepared meals.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$From what people share about SUGARFISH, the fresh
+  and expertly crafted sushi tends to be a big hit, with many appreciating the
+  straightforward yet delicious flavors that keep things feeling genuine and
+  satisfying. Folks often note the attentive service and cozy vibe, making it a
+  solid pick for casual outings or special occasions without any major hiccups.
+  While some mention portions might feel light for the price, the overall
+  experience leaves most feeling impressed by the quality and attention to
+  detail in every bite. It's clear that sushi lovers in the area keep coming
+  back for the reliable taste and atmosphere, painting a picture of a place
+  that's worth trying if you're hunting for great Japanese options nearby. All
+  in all, the feedback leans positive, suggesting it's a dependable choice for
+  anyone craving top-notch sushi in a welcoming setting.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +250,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

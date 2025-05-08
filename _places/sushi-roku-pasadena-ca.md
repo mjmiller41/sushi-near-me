@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Roku"
+title: Sushi Roku
 permalink: /california/pasadena/sushi-roku.html
 stateAbbr: CA
 stateName: California
 cityName: Pasadena
 seo:
-  name: "Sushi Roku"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi Roku serves delicious sushi in Pasadena, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJlw-aQnHDwoARi4Cuuo9wf1E
 photos:
   - name: >-
@@ -185,7 +183,45 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  About Sushi Roku in Pasadena, CA$$$Sushi Roku in Pasadena, CA, stands out as a
+  contemporary sushi bar that blends traditional Japanese flavors with
+  innovative twists on classic dishes. This spot features an extensive menu
+  incorporating nontraditional ingredients, offering a fresh take on sushi that
+  appeals to both purists and adventurers. Located in the vibrant Old Pasadena
+  neighborhood, the restaurant boasts wheelchair-accessible features, making it
+  welcoming for all diners seeking a modern dining experience. Its stylish
+  ambiance and high-quality presentation elevate the overall meal, perfect for
+  those exploring top sushi options in the area. Whether you're craving creative
+  rolls or authentic starters, this Pasadena gem provides a sophisticated yet
+  approachable setting for enjoying Japanese-inspired cuisine.
+generative_summary: >-
+  About Sushi Roku in Pasadena, CA$$$Sushi Roku in Pasadena, CA, stands out as a
+  contemporary sushi bar that blends traditional Japanese flavors with
+  innovative twists on classic dishes. This spot features an extensive menu
+  incorporating nontraditional ingredients, offering a fresh take on sushi that
+  appeals to both purists and adventurers. Located in the vibrant Old Pasadena
+  neighborhood, the restaurant boasts wheelchair-accessible features, making it
+  welcoming for all diners seeking a modern dining experience. Its stylish
+  ambiance and high-quality presentation elevate the overall meal, perfect for
+  those exploring top sushi options in the area. Whether you're craving creative
+  rolls or authentic starters, this Pasadena gem provides a sophisticated yet
+  approachable setting for enjoying Japanese-inspired cuisine.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback on Sushi Roku$$$Folks often rave about the delicious and
+  fresh sushi at this spot, with plenty highlighting the unique, creative rolls
+  that bring a fun twist to every bite. Many appreciate the friendly and
+  attentive service that makes dining here feel welcoming and personalized,
+  adding to the intimate and sophisticated vibe of the place. While the
+  atmosphere gets high marks for its cozy charm, it's clear that the overall
+  experience leaves visitors satisfied and coming back for more. That said, some
+  note that the prices can be on the higher side, but the quality and creativity
+  make it worth the splurge for sushi enthusiasts. All in all, it's a solid
+  choice for anyone hunting for top-rated sushi nearby, with the positives far
+  outweighing any minor drawbacks.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +247,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

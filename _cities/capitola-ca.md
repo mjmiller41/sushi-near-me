@@ -5,4 +5,5 @@ permalink: /california/capitola/
 stateAbbr: CA
 stateName: California
 cityName: Capitola
+
 ---

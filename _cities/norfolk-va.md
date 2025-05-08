@@ -5,4 +5,5 @@ permalink: /virginia/norfolk/
 stateAbbr: VA
 stateName: Virginia
 cityName: Norfolk
+
 ---

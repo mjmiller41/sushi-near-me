@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Fin Sushi Bar"
+title: Fin Sushi Bar
 permalink: /illinois/chicago/fin-sushi-bar.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
 seo:
-  name: "Fin Sushi Bar"
-  type: Restaurant
+  type: restaurant
   links: http://www.finsushibar.com/
-description: "Pan-Asian BYOB spot serving Thai food & sushi in a contemporary space with outdoor seating. Fin Sushi Bar serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ79sBVDvSD4gR7Gqkd4aoa64
 photos:
   - name: >-
@@ -184,6 +182,29 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 0
 website: http://www.finsushibar.com/
+description: >-
+  About Fin Sushi Bar in Chicago, IL$$$Fin Sushi Bar in Chicago, IL, stands out
+  as a welcoming spot for fresh sushi and Thai-inspired dishes, blending casual
+  dining with a vibrant atmosphere. This BYOB establishment offers a variety of
+  lunch specials and outdoor seating options, making it ideal for enjoying
+  flavorful meals in a relaxed setting. Accessibility features like
+  wheelchair-friendly entrances and seating add to its appeal for a wide range
+  of visitors, while the moderate pricing keeps it accessible without
+  sacrificing quality. Whether you're seeking authentic Asian flavors or a
+  casual meal with friends, this sushi restaurant captures the essence of
+  neighborhood dining with its contemporary vibe.
+generative_summary: >-
+  About Fin Sushi Bar in Chicago, IL$$$Fin Sushi Bar in Chicago, IL, stands out
+  as a welcoming spot for fresh sushi and Thai-inspired dishes, blending casual
+  dining with a vibrant atmosphere. This BYOB establishment offers a variety of
+  lunch specials and outdoor seating options, making it ideal for enjoying
+  flavorful meals in a relaxed setting. Accessibility features like
+  wheelchair-friendly entrances and seating add to its appeal for a wide range
+  of visitors, while the moderate pricing keeps it accessible without
+  sacrificing quality. Whether you're seeking authentic Asian flavors or a
+  casual meal with friends, this sushi restaurant captures the essence of
+  neighborhood dining with its contemporary vibe.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ79sBVDvSD4gR7Gqkd4aoa64/reviews/ChZDSUhNMG9nS0VJQ0FnSURmOVp5dUZREAE
@@ -369,6 +390,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNadXNuNFh3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNadXNuNFh3EAE!2m1!1s0x880fd23b5401dbef:0xae6ba88677a46aec
+review_summary: >-
+  Visitor Feedback on Fin Sushi Bar$$$Folks around Chicago seem to really enjoy
+  the quick service and tasty sushi rolls at this spot, often highlighting the
+  friendly staff and great outdoor patio for a laid-back vibe. Many appreciate
+  the BYOB policy and family-friendly atmosphere, making it a go-to for casual
+  gatherings or enjoying Thai options alongside fresh seafood. While most diners
+  praise the authentic flavors and reasonable prices, a few mention that
+  portions might feel a bit small for the cost, though it doesn't overshadow the
+  overall experience. In general, it's a solid choice for anyone craving quality
+  Asian cuisine, with the positives far outweighing any minor gripes. If you're
+  hunting for top-rated sushi nearby, this place delivers a consistently
+  enjoyable meal with a welcoming touch.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeStreetParking: true
   valetParking: false
@@ -400,8 +434,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Pan-Asian BYOB spot serving Thai food & sushi in a contemporary space with
   outdoor seating.
 

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Watami Sushi Bistro"
+title: Watami Sushi Bistro
 permalink: /utah/north-ogden/watami-sushi-bistro.html
 stateAbbr: UT
 stateName: Utah
 cityName: North Ogden
 seo:
-  name: "Watami Sushi Bistro"
-  type: Restaurant
+  type: restaurant
   links: https://watamisushibistrotogo.com/
-description: "Watami Sushi Bistro serves delicious sushi in North Ogden, Utah. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ_Uyooo4MU4cRQi2iJBQ6RCc
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x87530c8ea2a84cfd:0x27443a1424a22d42!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:00 PM'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:30 PM'
     - 'Saturday: 11:00 AM – 9:30 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: Closed'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 9:30 PM'
-    - 'Saturday: 11:00 AM – 9:30 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T03:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +238,270 @@ phone: (801) 737-0888
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.1'
-rating_count: 0
+rating_count: 458
 website: https://watamisushibistrotogo.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Watami Sushi Bistro in North Ogden, UT$$$Nestled in North Ogden, UT,
+  Watami Sushi Bistro offers a welcoming spot for enjoying fresh sushi rolls,
+  bento boxes, and tempura in a relaxed atmosphere ideal for family outings.
+  This local sushi restaurant stands out with its accessible features, including
+  wheelchair-friendly parking and seating, making it easy for everyone to savor
+  the flavors. Patrons appreciate the moderate pricing and variety of options,
+  from quick lunches to satisfying dinners, all served in a casual setting that
+  emphasizes fresh ingredients and thoughtful presentations. The bistro's
+  convenient hours and takeout services make it a go-to choice for those seeking
+  top-rated sushi options nearby, blending Japanese-inspired cuisine with
+  everyday convenience.
+generative_summary: >-
+  Discover Watami Sushi Bistro in North Ogden, UT$$$Nestled in North Ogden, UT,
+  Watami Sushi Bistro offers a welcoming spot for enjoying fresh sushi rolls,
+  bento boxes, and tempura in a relaxed atmosphere ideal for family outings.
+  This local sushi restaurant stands out with its accessible features, including
+  wheelchair-friendly parking and seating, making it easy for everyone to savor
+  the flavors. Patrons appreciate the moderate pricing and variety of options,
+  from quick lunches to satisfying dinners, all served in a casual setting that
+  emphasizes fresh ingredients and thoughtful presentations. The bistro's
+  convenient hours and takeout services make it a go-to choice for those seeking
+  top-rated sushi options nearby, blending Japanese-inspired cuisine with
+  everyday convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ_Uyooo4MU4cRQi2iJBQ6RCc/reviews/ChdDSUhNMG9nS0VJQ0FnSUMzaDZiSWh3RRAB
+    relativePublishTimeDescription: 5 months ago
+    rating: 2
+    text:
+      text: >-
+        Barely even made 2 stars and the only reason they did was because the
+        area was clean.
+
+
+        Waitress was super pissed that I was there or something but she was very
+        short and full of enough attitude to keep the place heated.
+
+
+        As for the sushi they ah e a big banner in the from that says 50% off
+        but in all actuality the Dubai is just priced regularly with the
+        “discounted price” being an absurdly high price on the menu.
+
+
+        The sushi quality is about as low as you possibly could get as well
+        super massive sizes with way too much rice or inconsistency where it was
+        falling apart. The ingredients were such a low quality that I just
+        stopped eating halfway through.
+
+
+        In all there are PLENTY of other places to eat with way better quality.
+      languageCode: en
+    originalText:
+      text: >-
+        Barely even made 2 stars and the only reason they did was because the
+        area was clean.
+
+
+        Waitress was super pissed that I was there or something but she was very
+        short and full of enough attitude to keep the place heated.
+
+
+        As for the sushi they ah e a big banner in the from that says 50% off
+        but in all actuality the Dubai is just priced regularly with the
+        “discounted price” being an absurdly high price on the menu.
+
+
+        The sushi quality is about as low as you possibly could get as well
+        super massive sizes with way too much rice or inconsistency where it was
+        falling apart. The ingredients were such a low quality that I just
+        stopped eating halfway through.
+
+
+        In all there are PLENTY of other places to eat with way better quality.
+      languageCode: en
+    authorAttribution:
+      displayName: Steven Wake
+      uri: https://www.google.com/maps/contrib/103995338155909572604/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWl52TuYD6e1Ay2ywUe9Qq9CZEH71DJYQ3Z3gDcVZEmvXLiSALR=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-11-09T19:16:51.381297Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMzaDZiSWh3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMzaDZiSWh3RRAB!2m1!1s0x87530c8ea2a84cfd:0x27443a1424a22d42
+  - name: >-
+      places/ChIJ_Uyooo4MU4cRQi2iJBQ6RCc/reviews/ChdDSUhNMG9nS0VJQ0FnSURQLV9hZTZ3RRAB
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        Went around 330pm and there was nobody else there so obviously that
+        helped with atmosphere & service but the staff was still very friendly.
+        Food presentation was great and tasted even better! This will definitely
+        be one of our new sushi spots!!
+      languageCode: en
+    originalText:
+      text: >-
+        Went around 330pm and there was nobody else there so obviously that
+        helped with atmosphere & service but the staff was still very friendly.
+        Food presentation was great and tasted even better! This will definitely
+        be one of our new sushi spots!!
+      languageCode: en
+    authorAttribution:
+      displayName: P J
+      uri: https://www.google.com/maps/contrib/112363273510570582038/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjW5XweVAXx7tdnAM_iu4SUQiKIuitAXQoxpDVA9QhtyGHjvMgwJBA=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2024-12-05T23:29:23.433939Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURQLV9hZTZ3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURQLV9hZTZ3RRAB!2m1!1s0x87530c8ea2a84cfd:0x27443a1424a22d42
+  - name: >-
+      places/ChIJ_Uyooo4MU4cRQi2iJBQ6RCc/reviews/ChdDSUhNMG9nS0VJQ0FnSURHdF9tM2pRRRAB
+    relativePublishTimeDescription: 3 years ago
+    rating: 5
+    text:
+      text: >-
+        Went here with my wife because we wanted sushi and loved everything.
+        They have these awesome boxes for lunch specials that was delicious!
+        Service was great and all the food was full of flavor and tasted fresh.
+
+
+        We drank water, had an appetizer, got two lunch boxes and added a mango
+        roll and our bill was only $33. We were impressed.
+
+
+        We will be back!
+      languageCode: en
+    originalText:
+      text: >-
+        Went here with my wife because we wanted sushi and loved everything.
+        They have these awesome boxes for lunch specials that was delicious!
+        Service was great and all the food was full of flavor and tasted fresh.
+
+
+        We drank water, had an appetizer, got two lunch boxes and added a mango
+        roll and our bill was only $33. We were impressed.
+
+
+        We will be back!
+      languageCode: en
+    authorAttribution:
+      displayName: Zack Shapiro
+      uri: https://www.google.com/maps/contrib/107231622058464498706/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXlholrCLPsiL4cACgmskW6PEcYmKLgnukRRquKLxD2EPNeDRThPg=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2021-12-12T15:57:13.264257Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURHdF9tM2pRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURHdF9tM2pRRRAB!2m1!1s0x87530c8ea2a84cfd:0x27443a1424a22d42
+  - name: >-
+      places/ChIJ_Uyooo4MU4cRQi2iJBQ6RCc/reviews/ChZDSUhNMG9nS0VJQ0FnTURnclBfVlhnEAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 1
+    text:
+      text: >-
+        Absolutely do not go here if you have gluten allergies. They do not list
+        everything that they put into the rolls. Both my rolls had some form of
+        gluten in them, crunchies and fried shrimp. Neither were listed on the
+        ingredients for the rolls. I should have listened to the other reviewer
+        saying they don’t care about allergies. My family didn’t even eat any of
+        the things they ordered because they said it was gross and not fresh at
+        all. Save your money and eat at Sushi Totto. Much fresher and cleaner.
+      languageCode: en
+    originalText:
+      text: >-
+        Absolutely do not go here if you have gluten allergies. They do not list
+        everything that they put into the rolls. Both my rolls had some form of
+        gluten in them, crunchies and fried shrimp. Neither were listed on the
+        ingredients for the rolls. I should have listened to the other reviewer
+        saying they don’t care about allergies. My family didn’t even eat any of
+        the things they ordered because they said it was gross and not fresh at
+        all. Save your money and eat at Sushi Totto. Much fresher and cleaner.
+      languageCode: en
+    authorAttribution:
+      displayName: Haley Young
+      uri: https://www.google.com/maps/contrib/108397243828970243030/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVBJjXZNV0rowpWIO1xcWTs2lZ6ry13M9sNk4GeTBIaLXMdUpDf=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-02-23T02:43:49.414046Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURnclBfVlhnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURnclBfVlhnEAE!2m1!1s0x87530c8ea2a84cfd:0x27443a1424a22d42
+  - name: >-
+      places/ChIJ_Uyooo4MU4cRQi2iJBQ6RCc/reviews/ChdDSUhNMG9nS0VJQ0FnSURacWJQN2pBRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        We love this place! The sushi is great! They are fast and always impress
+        with their presentation. This place is the perfect sushi bar for us. We
+        don’t like the fancy, we love the hole in the wall type. This isn’t hole
+        in the wall by any means, just not fancy. Come and enjoy some sushi!!!
+      languageCode: en
+    originalText:
+      text: >-
+        We love this place! The sushi is great! They are fast and always impress
+        with their presentation. This place is the perfect sushi bar for us. We
+        don’t like the fancy, we love the hole in the wall type. This isn’t hole
+        in the wall by any means, just not fancy. Come and enjoy some sushi!!!
+      languageCode: en
+    authorAttribution:
+      displayName: D Griffin
+      uri: https://www.google.com/maps/contrib/109985119335074330644/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXNwwx5Z6fM9cN5XuvDUpiomSlZV-ylPQuLlwYTG-Ae5ms0p27pCg=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2023-10-03T21:09:45.827529Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURacWJQN2pBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURacWJQN2pBRRAB!2m1!1s0x87530c8ea2a84cfd:0x27443a1424a22d42
+review_summary: >-
+  What Customers Are Saying About This Sushi Spot$$$Folks often rave about the
+  tasty sushi and unbeatable value at this spot, highlighting how the affordable
+  prices and speedy service make it a solid pick for a casual meal. While some
+  diners note that the service can feel a bit straightforward at times, many
+  appreciate the friendly vibes and great food presentations that keep things
+  enjoyable. Overall, the fresh flavors and generous portions have won over
+  plenty of visitors, with lunch specials standing out as a budget-friendly
+  favorite. Even with a few mentions of inconsistencies in quality, the positive
+  experiences around quick delivery and reasonable costs help maintain its
+  appeal as a reliable option for sushi lovers in the area. If you're on the
+  hunt for a straightforward sushi experience, this place delivers on flavor
+  without breaking the bank.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
 allow_dogs: null
 curbside_pickup: null
 delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
 serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: false
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
 serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Wave Sushi Island Grill"
+title: Wave Sushi Island Grill
 permalink: /washington/spokane/wave-sushi-island-grill.html
 stateAbbr: WA
 stateName: Washington
 cityName: Spokane
 seo:
-  name: "Wave Sushi Island Grill"
-  type: Restaurant
+  type: restaurant
   links: http://www.wavesushiislandgrill.com/
-description: "Wave Sushi Island Grill serves delicious sushi in Spokane, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJRSmfE2EYnlQRjAhA-58BZzE
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x549e1861139f2945:0x3167019ffb40088c!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:00 PM'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -178,28 +234,117 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:00 PM'
     - 'Saturday: 11:00 AM – 10:00 PM'
     - 'Sunday: 11:00 AM – 8:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 10:00 PM'
-    - 'Saturday: 11:00 AM – 10:00 PM'
-    - 'Sunday: 11:00 AM – 8:00 PM'
+  nextCloseTime: '2025-05-04T05:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 15
+          minute: 0
+        close:
+          day: 0
+          hour: 17
+          minute: 0
+      - open:
+          day: 1
+          hour: 15
+          minute: 0
+        close:
+          day: 1
+          hour: 17
+          minute: 0
+      - open:
+          day: 2
+          hour: 15
+          minute: 0
+        close:
+          day: 2
+          hour: 17
+          minute: 0
+      - open:
+          day: 3
+          hour: 15
+          minute: 0
+        close:
+          day: 3
+          hour: 17
+          minute: 0
+      - open:
+          day: 4
+          hour: 15
+          minute: 0
+        close:
+          day: 4
+          hour: 17
+          minute: 0
+      - open:
+          day: 5
+          hour: 15
+          minute: 0
+        close:
+          day: 5
+          hour: 17
+          minute: 0
+      - open:
+          day: 6
+          hour: 15
+          minute: 0
+        close:
+          day: 6
+          hour: 17
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 3:00 – 5:00 PM'
+      - 'Tuesday: 3:00 – 5:00 PM'
+      - 'Wednesday: 3:00 – 5:00 PM'
+      - 'Thursday: 3:00 – 5:00 PM'
+      - 'Friday: 3:00 – 5:00 PM'
+      - 'Saturday: 3:00 – 5:00 PM'
+      - 'Sunday: 3:00 – 5:00 PM'
+    secondaryHoursType: HAPPY_HOUR
+    nextCloseTime: '2025-05-04T00:00:00Z'
 phone: (509) 606-8050
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.4'
-rating_count: 0
+rating_count: 1502
 website: http://www.wavesushiislandgrill.com/
+description: >-
+  Discover Wave Sushi in Spokane, WA$$$In Spokane, WA, Wave Sushi Island Grill
+  stands out as a vibrant spot for enjoying fresh sushi and Asian-inspired
+  dishes. This casual eatery combines a relaxed, sports-bar vibe with a menu
+  featuring expertly crafted rolls, flavorful poke bowls, and a variety of
+  cocktails, making it a go-to for sushi enthusiasts in the area. With
+  convenient accessibility options like wheelchair-friendly parking and
+  entrances, it's designed to welcome everyone for a comfortable dining
+  experience. The spot also offers daily happy hours and extended hours into the
+  evening, perfect for those seeking top-rated sushi places near me after a day
+  of exploring the city.
+generative_summary: >-
+  Discover Wave Sushi in Spokane, WA$$$In Spokane, WA, Wave Sushi Island Grill
+  stands out as a vibrant spot for enjoying fresh sushi and Asian-inspired
+  dishes. This casual eatery combines a relaxed, sports-bar vibe with a menu
+  featuring expertly crafted rolls, flavorful poke bowls, and a variety of
+  cocktails, making it a go-to for sushi enthusiasts in the area. With
+  convenient accessibility options like wheelchair-friendly parking and
+  entrances, it's designed to welcome everyone for a comfortable dining
+  experience. The spot also offers daily happy hours and extended hours into the
+  evening, perfect for those seeking top-rated sushi places near me after a day
+  of exploring the city.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors to this sushi restaurant often rave
+  about the delicious and fresh rolls, along with satisfying poke bowls and
+  sashimi that make for a standout meal. Many appreciate the friendly service
+  and welcoming atmosphere, which add to the overall enjoyment without breaking
+  the bank on prices. While the tasty drinks and casual setting keep things
+  lively, some note that wait times can pick up during peak hours, though it's
+  generally worth the anticipation. Overall, it's a solid choice for anyone
+  hunting for great sushi restaurants in the region, blending quality food with
+  a relaxed vibe that keeps customers coming back.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +370,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

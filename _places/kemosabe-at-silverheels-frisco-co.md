@@ -1,15 +1,14 @@
 ---
 layout: place
-title: "Kemosabe at Silverheels"
+title: Kemosabe at Silverheels
 permalink: /colorado/frisco/kemosabe-at-silverheels.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Frisco
 seo:
-  name: "Kemosabe at Silverheels"
-  type: Restaurant
-  links: https://kemosabeatsilverheels.com/?utm_source=Google%20My%20Business&utm_medium=organic
-description: "Kemosabe at Silverheels serves delicious sushi in Frisco, Colorado. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: >-
+    https://kemosabeatsilverheels.com/?utm_source=Google%20My%20Business&utm_medium=organic
 place_id: ChIJ91PdoZBeaocRFTg2xkP6UMg
 photos:
   - name: >-
@@ -170,7 +169,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x876a5e90a1dd53f7:0xc850fa43c6363815!10e5
 primary_type: Bar & Grill
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 4:00 – 10:00 PM'
     - 'Tuesday: 4:00 – 10:00 PM'
     - 'Wednesday: 4:00 – 10:00 PM'
@@ -178,55 +235,327 @@ opening_hours:
     - 'Friday: 11:30 AM – 10:00 PM'
     - 'Saturday: 11:30 AM – 10:00 PM'
     - 'Sunday: 11:30 AM – 10:00 PM'
-  current:
-    - 'Monday: 4:00 – 10:00 PM'
-    - 'Tuesday: 4:00 – 10:00 PM'
-    - 'Wednesday: 4:00 – 10:00 PM'
-    - 'Thursday: 4:00 – 10:00 PM'
-    - 'Friday: 11:30 AM – 10:00 PM'
-    - 'Saturday: 11:30 AM – 10:00 PM'
-    - 'Sunday: 11:30 AM – 10:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 0
+        close:
+          day: 0
+          hour: 21
+          minute: 30
+      - open:
+          day: 1
+          hour: 12
+          minute: 0
+        close:
+          day: 1
+          hour: 21
+          minute: 30
+      - open:
+          day: 2
+          hour: 12
+          minute: 0
+        close:
+          day: 2
+          hour: 21
+          minute: 30
+      - open:
+          day: 3
+          hour: 12
+          minute: 0
+        close:
+          day: 3
+          hour: 21
+          minute: 30
+      - open:
+          day: 4
+          hour: 12
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 30
+      - open:
+          day: 5
+          hour: 12
+          minute: 0
+        close:
+          day: 5
+          hour: 21
+          minute: 30
+      - open:
+          day: 6
+          hour: 12
+          minute: 0
+        close:
+          day: 6
+          hour: 21
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 12:00 – 9:30 PM'
+      - 'Tuesday: 12:00 – 9:30 PM'
+      - 'Wednesday: 12:00 – 9:30 PM'
+      - 'Thursday: 12:00 – 9:30 PM'
+      - 'Friday: 12:00 – 9:30 PM'
+      - 'Saturday: 12:00 – 9:30 PM'
+      - 'Sunday: 12:00 – 9:30 PM'
+    secondaryHoursType: TAKEOUT
+    nextCloseTime: '2025-05-04T03:30:00Z'
 phone: (970) 668-0345
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.3'
-rating_count: 0
+rating_count: 1442
 website: >-
   https://kemosabeatsilverheels.com/?utm_source=Google%20My%20Business&utm_medium=organic
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Kemosabe at Silverheels in Frisco, Colorado$$$Nestled in the heart of
+  Frisco, Colorado, Kemosabe at Silverheels stands out as a vibrant bar and
+  grill blending American favorites with fresh sushi options, making it a go-to
+  spot for those seeking diverse dining experiences. This creative eatery offers
+  a fusion of hearty dishes and Japanese-inspired rolls, complemented by a
+  casual atmosphere perfect for watching sports or enjoying outdoor seating
+  after a day of adventure. With accessible features and a welcoming vibe,
+  visitors can savor moderately priced meals that highlight quality ingredients
+  and flavorful preparations. The venue's lively setting, including options for
+  groups and outdoor dining, adds to its appeal as one of the top sushi
+  restaurants in the area, ideal for anyone exploring local eats near the
+  mountains.
+generative_summary: >-
+  Discover Kemosabe at Silverheels in Frisco, Colorado$$$Nestled in the heart of
+  Frisco, Colorado, Kemosabe at Silverheels stands out as a vibrant bar and
+  grill blending American favorites with fresh sushi options, making it a go-to
+  spot for those seeking diverse dining experiences. This creative eatery offers
+  a fusion of hearty dishes and Japanese-inspired rolls, complemented by a
+  casual atmosphere perfect for watching sports or enjoying outdoor seating
+  after a day of adventure. With accessible features and a welcoming vibe,
+  visitors can savor moderately priced meals that highlight quality ingredients
+  and flavorful preparations. The venue's lively setting, including options for
+  groups and outdoor dining, adds to its appeal as one of the top sushi
+  restaurants in the area, ideal for anyone exploring local eats near the
+  mountains.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ91PdoZBeaocRFTg2xkP6UMg/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3MU43SGxnRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        In a world where customer service is non-existent, and most people seem
+        to do just enough….this place is the exception.  We had the pleasure of
+        interacting with Tyler, one of the owners, during our experience at this
+        establishment.  From the moment we sat down through the time we left his
+        genuine desire to give us the best experience possible was absolutely
+        evident.  Of course the food was amazing but he truly went out of his
+        way, something one business owner recognizes when dealing with another
+        who truly enjoys sharing their passion with others.  5 stars, because
+        there aren’t 6.  ⭐️ ⭐️ ⭐️ ⭐️ ⭐️
+      languageCode: en
+    originalText:
+      text: >-
+        In a world where customer service is non-existent, and most people seem
+        to do just enough….this place is the exception.  We had the pleasure of
+        interacting with Tyler, one of the owners, during our experience at this
+        establishment.  From the moment we sat down through the time we left his
+        genuine desire to give us the best experience possible was absolutely
+        evident.  Of course the food was amazing but he truly went out of his
+        way, something one business owner recognizes when dealing with another
+        who truly enjoys sharing their passion with others.  5 stars, because
+        there aren’t 6.  ⭐️ ⭐️ ⭐️ ⭐️ ⭐️
+      languageCode: en
+    authorAttribution:
+      displayName: Phil Spence
+      uri: https://www.google.com/maps/contrib/107357013722806417365/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUh6LJodUvNNeX0RfcPJT7EYktQpH5j0S-cFCf1Zf659jGpF2P0=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-16T21:18:08.812942Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUN3MU43SGxnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUN3MU43SGxnRRAB!2m1!1s0x876a5e90a1dd53f7:0xc850fa43c6363815
+  - name: >-
+      places/ChIJ91PdoZBeaocRFTg2xkP6UMg/reviews/ChZDSUhNMG9nS0VJQ0FnSUNmcmZ6cUpnEAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 4
+    text:
+      text: >-
+        This location was busy and waiters do  double duty cleaning tables. 
+        Bread was great.  Trout was good. Sushi was better.  Our waiter was not
+        friendly when questioned on menu items.  Later in the evening, I
+        observed the staff shortage and did understand.  I would be patient
+        visiting this location.
+      languageCode: en
+    originalText:
+      text: >-
+        This location was busy and waiters do  double duty cleaning tables. 
+        Bread was great.  Trout was good. Sushi was better.  Our waiter was not
+        friendly when questioned on menu items.  Later in the evening, I
+        observed the staff shortage and did understand.  I would be patient
+        visiting this location.
+      languageCode: en
+    authorAttribution:
+      displayName: robert benitez
+      uri: https://www.google.com/maps/contrib/100250570602548945609/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocI700WYxK7y08JFZU-X26WpoIynvJeqAYKxvtBvAoN0dFfGEA=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2024-12-31T15:48:29.439438Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNmcmZ6cUpnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNmcmZ6cUpnEAE!2m1!1s0x876a5e90a1dd53f7:0xc850fa43c6363815
+  - name: >-
+      places/ChIJ91PdoZBeaocRFTg2xkP6UMg/reviews/ChZDSUhNMG9nS0VJQ0FnSUMzMlk3Wld3EAE
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        Great spot for burgers and beers! The burgers are juicy and full of
+        flavor, and they have an awesome selection of craft beers. Friendly
+        staff and a laid-back vibe make it the perfect place to relax with
+        friends. Highly recommend!!!
+      languageCode: en
+    originalText:
+      text: >-
+        Great spot for burgers and beers! The burgers are juicy and full of
+        flavor, and they have an awesome selection of craft beers. Friendly
+        staff and a laid-back vibe make it the perfect place to relax with
+        friends. Highly recommend!!!
+      languageCode: en
+    authorAttribution:
+      displayName: Juan Palima
+      uri: https://www.google.com/maps/contrib/102303960261579383671/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjW6EXa1M6chP5RYpl7rF1MWBdJDT7LMnuVcUI3YonUjNvNzF3TK=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-11-07T02:55:56.394654Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUMzMlk3Wld3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUMzMlk3Wld3EAE!2m1!1s0x876a5e90a1dd53f7:0xc850fa43c6363815
+  - name: >-
+      places/ChIJ91PdoZBeaocRFTg2xkP6UMg/reviews/ChdDSUhNMG9nS0VJQ0FnSUMxMHB1bndnRRAB
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        Updated: we STILL love Kemosabe. It's definitely one of our go-to places
+        in Frisco.
+
+
+        We absolutely LOVE Kemosabe. The atmosphere is perfect and the food is
+        great. We had happy hour menu items this time around, sitting by the
+        fireplace and I couldn't have asked for a better meal. Servers are very
+        attentive and I like that you can watch the sushi guys. Can't wait to be
+        back.
+      languageCode: en
+    originalText:
+      text: >-
+        Updated: we STILL love Kemosabe. It's definitely one of our go-to places
+        in Frisco.
+
+
+        We absolutely LOVE Kemosabe. The atmosphere is perfect and the food is
+        great. We had happy hour menu items this time around, sitting by the
+        fireplace and I couldn't have asked for a better meal. Servers are very
+        attentive and I like that you can watch the sushi guys. Can't wait to be
+        back.
+      languageCode: en
+    authorAttribution:
+      displayName: Breanne Tyre
+      uri: https://www.google.com/maps/contrib/104382253809285880293/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjW52zS9VFpSPfdCGY1CO0Xt9F2yaW_wNzOipnlNLd9JSuSXPwGv8A=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-12-02T01:15:40.441592Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMxMHB1bndnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMxMHB1bndnRRAB!2m1!1s0x876a5e90a1dd53f7:0xc850fa43c6363815
+  - name: >-
+      places/ChIJ91PdoZBeaocRFTg2xkP6UMg/reviews/ChZDSUhNMG9nS0VJQ0FnSUNfbE5McERnEAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        Big group from all over met at this awesome American sushi restaurant.
+        We showed up a few hours before our reservation and enjoyed the happy
+        hour menu. After skiing all day it was a great afternoon and evening for
+        everyone surrounded by other happy guests and lots of laughs. Everything
+        we tried was great, we will be back. Thank you for putting up with our
+        loud group.
+      languageCode: en
+    originalText:
+      text: >-
+        Big group from all over met at this awesome American sushi restaurant.
+        We showed up a few hours before our reservation and enjoyed the happy
+        hour menu. After skiing all day it was a great afternoon and evening for
+        everyone surrounded by other happy guests and lots of laughs. Everything
+        we tried was great, we will be back. Thank you for putting up with our
+        loud group.
+      languageCode: en
+    authorAttribution:
+      displayName: Jocelyn Haxton
+      uri: https://www.google.com/maps/contrib/101297068009223936514/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVkBXVm1wpz3xbFjPVzaTiQxwpyVf-UxaJwotxO-17VsGq4iY-P=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-01-13T05:00:44.595470Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNfbE5McERnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNfbE5McERnEAE!2m1!1s0x876a5e90a1dd53f7:0xc850fa43c6363815
+review_summary: >-
+  What Guests Are Saying About This Spot$$$Folks rave about the tasty sushi
+  rolls and burgers at this laid-back bar and grill, often mentioning how the
+  happy hour deals make it a fantastic choice for unwinding after skiing or a
+  long day. Many appreciate the friendly service and energetic atmosphere, with
+  highlights on the outdoor seating and overall fun vibe that keeps things
+  lively without overwhelming the experience. While some note that things can
+  get a bit busy leading to occasional waits, the general consensus is that the
+  flavorful food and welcoming environment more than make up for it, positioning
+  it as one of the best sushi places near me for casual gatherings. Overall,
+  visitors find it a solid pick for groups, with the variety of options ensuring
+  there's something for everyone to enjoy in a relaxed setting. If you're
+  hunting for top-rated sushi restaurants in the area, this spot delivers a
+  reliably good time with its mix of pub grub and fresh flavors.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
+curbside_pickup: true
+delivery: false
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: true
+live_music: false
+menu_for_children: true
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
 serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_cocktails: true
+serves_coffee: true
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Casual hub for Southwestern-style steaks, seafood & pub grub, with patio
+  dining & live-music nights.
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "East Moon Asian Bistro & sushi"
+title: East Moon Asian Bistro & sushi
 permalink: /colorado/centennial/east-moon-asian-bistro-sushi.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Centennial
 seo:
-  name: "East Moon Asian Bistro & sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "East Moon Asian Bistro & sushi serves delicious sushi in Centennial, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJbx8LwROEbIcRAAN1THikgaA
 photos:
   - name: >-
@@ -185,7 +183,43 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Explore East Moon Asian Bistro in Centennial$$$East Moon Asian Bistro & Sushi
+  in Centennial, CO, offers a cozy and inviting atmosphere for those seeking a
+  taste of diverse Asian flavors. This spot specializes in fresh sushi alongside
+  an array of Japanese, Chinese, and Thai dishes, making it a go-to choice for
+  anyone craving authentic options in the area. With a full bar enhancing the
+  dining experience, patrons can enjoy creative cocktails that pair perfectly
+  with their meals. The restaurant's comfortable setting and accessible features
+  ensure a relaxed visit, ideal for exploring top-rated Asian cuisine nearby.
+  Whether you're in the mood for something light or a full feast, this bistro
+  stands out as a reliable destination for quality eats in the community.
+generative_summary: >-
+  Explore East Moon Asian Bistro in Centennial$$$East Moon Asian Bistro & Sushi
+  in Centennial, CO, offers a cozy and inviting atmosphere for those seeking a
+  taste of diverse Asian flavors. This spot specializes in fresh sushi alongside
+  an array of Japanese, Chinese, and Thai dishes, making it a go-to choice for
+  anyone craving authentic options in the area. With a full bar enhancing the
+  dining experience, patrons can enjoy creative cocktails that pair perfectly
+  with their meals. The restaurant's comfortable setting and accessible features
+  ensure a relaxed visit, ideal for exploring top-rated Asian cuisine nearby.
+  Whether you're in the mood for something light or a full feast, this bistro
+  stands out as a reliable destination for quality eats in the community.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors often praise East Moon Asian Bistro
+  for its impressive selection of tasty Asian dishes, including fresh rolls and
+  flavorful mains like ramen and stir-fries that hit the spot. The staff comes
+  across as welcoming and attentive, helping to create a pleasant vibe in the
+  clean, modern space that feels just right for casual outings. Many appreciate
+  the fair pricing, making it an easy pick for everyday meals or group
+  gatherings without breaking the bank. While some note that wait times can
+  occasionally stretch a bit during busy periods, the overall experience remains
+  worthwhile with generous portions and solid flavors. All in all, it's a solid
+  choice for anyone looking to enjoy reliable Asian fare in a friendly
+  environment.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +245,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

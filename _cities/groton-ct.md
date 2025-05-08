@@ -5,4 +5,5 @@ permalink: /connecticut/groton/
 stateAbbr: CT
 stateName: Connecticut
 cityName: Groton
+
 ---

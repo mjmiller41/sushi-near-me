@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Lawrence Fish Market"
+title: Lawrence Fish Market
 permalink: /illinois/chicago/lawrence-fish-market.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
 seo:
-  name: "Lawrence Fish Market"
-  type: Restaurant
+  type: restaurant
   links: https://lawrencefish.com/
-description: "Lawrence Fish Market serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJJZhykdrND4gRuX65ROMOVDU
 photos:
   - name: >-
@@ -168,7 +166,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x880fcdda91729825:0x35540ee344b97eb9!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 10
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 0
+    - open:
+        day: 1
+        hour: 10
+        minute: 0
+      close:
+        day: 1
+        hour: 20
+        minute: 0
+    - open:
+        day: 2
+        hour: 10
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 0
+    - open:
+        day: 3
+        hour: 10
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 0
+    - open:
+        day: 4
+        hour: 10
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 0
+    - open:
+        day: 5
+        hour: 10
+        minute: 0
+      close:
+        day: 5
+        hour: 20
+        minute: 0
+    - open:
+        day: 6
+        hour: 10
+        minute: 0
+      close:
+        day: 6
+        hour: 20
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 10:00 AM – 8:00 PM'
     - 'Tuesday: 10:00 AM – 8:00 PM'
     - 'Wednesday: 10:00 AM – 8:00 PM'
@@ -176,14 +232,7 @@ opening_hours:
     - 'Friday: 10:00 AM – 8:00 PM'
     - 'Saturday: 10:00 AM – 8:00 PM'
     - 'Sunday: 10:00 AM – 8:00 PM'
-  current:
-    - 'Monday: 10:00 AM – 8:00 PM'
-    - 'Tuesday: 10:00 AM – 8:00 PM'
-    - 'Wednesday: 10:00 AM – 8:00 PM'
-    - 'Thursday: 10:00 AM – 8:00 PM'
-    - 'Friday: 10:00 AM – 8:00 PM'
-    - 'Saturday: 10:00 AM – 8:00 PM'
-    - 'Sunday: 10:00 AM – 8:00 PM'
+  nextCloseTime: '2025-05-04T01:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -195,9 +244,45 @@ phone: (773) 267-6838
 price_level: PRICE_LEVEL_INEXPENSIVE
 price_range: $10 &ndash; $20
 rating: '4.7'
-rating_count: 0
+rating_count: 1583
 website: https://lawrencefish.com/
+description: >-
+  Explore Lawrence Fish Market in Chicago, IL$$$Lawrence Fish Market in Chicago,
+  IL, stands out as a straightforward sushi destination offering fresh rolls and
+  convenient party trays, perfect for those seeking quality takeout options in
+  the bustling Albany Park neighborhood. This spot emphasizes affordability and
+  simplicity, making it an ideal choice for anyone craving authentic
+  Japanese-inspired dishes without the fuss of a fancy dining experience. With
+  daily hours from 10 AM to 8 PM, it's easy to drop in for a quick meal or grab
+  something on the go, appealing to locals and visitors alike looking for
+  reliable sushi restaurants nearby. The focus on fresh ingredients and
+  value-for-money selections ensures a satisfying experience that highlights the
+  best of casual Japanese cuisine.
+generative_summary: >-
+  Explore Lawrence Fish Market in Chicago, IL$$$Lawrence Fish Market in Chicago,
+  IL, stands out as a straightforward sushi destination offering fresh rolls and
+  convenient party trays, perfect for those seeking quality takeout options in
+  the bustling Albany Park neighborhood. This spot emphasizes affordability and
+  simplicity, making it an ideal choice for anyone craving authentic
+  Japanese-inspired dishes without the fuss of a fancy dining experience. With
+  daily hours from 10 AM to 8 PM, it's easy to drop in for a quick meal or grab
+  something on the go, appealing to locals and visitors alike looking for
+  reliable sushi restaurants nearby. The focus on fresh ingredients and
+  value-for-money selections ensures a satisfying experience that highlights the
+  best of casual Japanese cuisine.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Customer Feedback$$$Visitors to this sushi spot often rave about
+  the tasty platters and creative rolls that bring a burst of flavor to every
+  bite, making it a go-to for anyone hunting for great sushi options around
+  town. Folks appreciate the fresh fish and variety of Asian snacks and drinks
+  that add extra excitement to their meals, all while keeping things
+  budget-friendly with solid portions at fair prices. The fast and efficient
+  service stands out too, helping to make every visit smooth and enjoyable, even
+  during busy times. Overall, it's clear that this place delivers a dependable
+  and delightful experience that keeps people coming back for more tasty treats.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -223,7 +308,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

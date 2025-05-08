@@ -5,4 +5,5 @@ permalink: /california/lemon-grove/
 stateAbbr: CA
 stateName: California
 cityName: Lemon Grove
+
 ---

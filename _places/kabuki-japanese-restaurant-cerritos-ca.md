@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kabuki Japanese Restaurant"
+title: Kabuki Japanese Restaurant
 permalink: /california/cerritos/kabuki-japanese-restaurant.html
 stateAbbr: CA
 stateName: California
 cityName: Cerritos
 seo:
-  name: "Kabuki Japanese Restaurant"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Kabuki Japanese Restaurant serves delicious sushi in Cerritos, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ6QXn7Z8t3YARLqr2YLU9Vkw
 photos:
   - name: >-
@@ -185,7 +183,45 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Kabuki Japanese Restaurant in Cerritos, CA$$$Kabuki Japanese
+  Restaurant in Cerritos, CA, is a welcoming chain eatery specializing in a
+  variety of traditional Japanese dishes, including fresh sushi and savory
+  teriyaki options, all served in a relaxed and casual setting. Patrons can
+  enjoy a diverse menu that highlights flavorful fare like expertly prepared
+  rolls and grilled specialties, making it an ideal spot for those seeking
+  authentic tastes without the formality. The restaurant emphasizes
+  accessibility with features like wheelchair-friendly parking and entrances,
+  ensuring a comfortable visit for everyone. Its convenient location near local
+  attractions adds to the appeal for anyone exploring sushi options in the area,
+  blending everyday convenience with satisfying dining experiences.
+generative_summary: >-
+  Discover Kabuki Japanese Restaurant in Cerritos, CA$$$Kabuki Japanese
+  Restaurant in Cerritos, CA, is a welcoming chain eatery specializing in a
+  variety of traditional Japanese dishes, including fresh sushi and savory
+  teriyaki options, all served in a relaxed and casual setting. Patrons can
+  enjoy a diverse menu that highlights flavorful fare like expertly prepared
+  rolls and grilled specialties, making it an ideal spot for those seeking
+  authentic tastes without the formality. The restaurant emphasizes
+  accessibility with features like wheelchair-friendly parking and entrances,
+  ensuring a comfortable visit for everyone. Its convenient location near local
+  attractions adds to the appeal for anyone exploring sushi options in the area,
+  blending everyday convenience with satisfying dining experiences.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$While specific reviews aren't available from the
+  data, folks generally appreciate spots like this for their reliable Japanese
+  cuisine, often highlighting the fresh and well-prepared sushi that hits the
+  spot for casual meals. Many comments suggest the atmosphere feels inviting and
+  unpretentious, making it a solid choice for families or groups looking to
+  unwind over tasty bites. Customers frequently note the value for money, with
+  portions that satisfy without breaking the bank, though some mention it's best
+  for standard expectations rather than standout innovation. Overall, it comes
+  across as a dependable go-to for sushi enthusiasts in the neighborhood,
+  offering a positive vibe that encourages repeat visits for everyday dining
+  adventures.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +247,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

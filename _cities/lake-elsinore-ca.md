@@ -5,4 +5,5 @@ permalink: /california/lake-elsinore/
 stateAbbr: CA
 stateName: California
 cityName: Lake Elsinore
+
 ---

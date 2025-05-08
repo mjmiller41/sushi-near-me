@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Mijouri SushiBune"
+title: Mijouri SushiBune
 permalink: /california/san-bruno/mijouri-sushibune.html
 stateAbbr: CA
 stateName: California
 cityName: San Bruno
 seo:
-  name: "Mijouri SushiBune"
-  type: Restaurant
+  type: restaurant
   links: http://www.mijourisushibune1230b.com/
-description: "Sushi rolls, classic Japanese fare & sake are dispensed in an unassuming strip-mall setting. Mijouri SushiBune serves delicious sushi in San Bruno, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJk7Cgmb95j4ARLgQRsr2ljuY
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $20 &ndash; $30
 rating: '4.2'
 rating_count: 0
 website: http://www.mijourisushibune1230b.com/
+description: >-
+  Discover Mijouri SushiBune in San Bruno, CA$$$Mijouri SushiBune in San Bruno,
+  CA, provides a welcoming spot for enjoying fresh Japanese flavors in a
+  straightforward setting. This laid-back eatery specializes in a variety of
+  sushi options and classic dishes like teriyaki, complemented by beverages such
+  as sake and beer, making it a go-to choice for those seeking sushi restaurants
+  nearby. The menu highlights affordable yet satisfying meals, with
+  accessibility features like wheelchair-friendly entrances and seating that
+  ensure everyone can enjoy the experience. Additionally, options for dine-in,
+  takeout, and delivery add convenience for locals exploring Japanese places
+  close to home. Overall, it's a reliable destination for anyone craving
+  authentic tastes in a comfortable atmosphere.
+generative_summary: >-
+  Discover Mijouri SushiBune in San Bruno, CA$$$Mijouri SushiBune in San Bruno,
+  CA, provides a welcoming spot for enjoying fresh Japanese flavors in a
+  straightforward setting. This laid-back eatery specializes in a variety of
+  sushi options and classic dishes like teriyaki, complemented by beverages such
+  as sake and beer, making it a go-to choice for those seeking sushi restaurants
+  nearby. The menu highlights affordable yet satisfying meals, with
+  accessibility features like wheelchair-friendly entrances and seating that
+  ensure everyone can enjoy the experience. Additionally, options for dine-in,
+  takeout, and delivery add convenience for locals exploring Japanese places
+  close to home. Overall, it's a reliable destination for anyone craving
+  authentic tastes in a comfortable atmosphere.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJk7Cgmb95j4ARLgQRsr2ljuY/reviews/ChZDSUhNMG9nS0VJQ0FnTUNBenQ3TkV3EAE
@@ -358,6 +381,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURlb05POXR3RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURlb05POXR3RRAB!2m1!1s0x808f79bf99a0b093:0xe68ea5bdb211042e
+review_summary: >-
+  What Guests Are Saying$$$Visitors to this sushi spot often rave about the
+  tasty and well-prepared meals that offer great value, with many highlighting
+  the flavorful specials and generous portions that leave them satisfied. Folks
+  appreciate the friendly and attentive service, which creates a welcoming vibe
+  and makes every visit feel smooth and enjoyable. The clean environment and
+  consistent quality have turned it into a favorite for repeat trips, especially
+  for groups or families looking for reliable dining options. While some note
+  it's a hidden gem in the area, the overall feedback leans positive,
+  emphasizing how the combination of affordability and taste keeps people coming
+  back for more sushi experiences. In short, it's a solid pick for anyone
+  searching for top-rated sushi near San Bruno, with honest highlights on what
+  makes it stand out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -390,8 +427,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Sushi rolls, classic Japanese fare & sake are dispensed in an unassuming
   strip-mall setting.
 

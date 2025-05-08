@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Crazy Rock'n Sushi - Glendale"
+title: Crazy Rock'n Sushi - Glendale
 permalink: /california/glendale/crazy-rock-n-sushi-glendale.html
 stateAbbr: CA
 stateName: California
 cityName: Glendale
 seo:
-  name: "Crazy Rock'n Sushi - Glendale"
-  type: Restaurant
+  type: restaurant
   links: http://www.crazyrockinsushigd.com/
-description: "Crazy Rock'n Sushi - Glendale serves delicious sushi in Glendale, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ3-grTt3BwoAR-nXSpbOYloA
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c2c1dd4e2be8df:0x809698b3a5d275fa!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 10:00 PM'
     - 'Tuesday: 11:30 AM – 10:00 PM'
     - 'Wednesday: 11:30 AM – 10:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 11:00 PM'
     - 'Saturday: 12:00 – 11:00 PM'
     - 'Sunday: 12:00 – 10:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 10:00 PM'
-    - 'Tuesday: 11:30 AM – 10:00 PM'
-    - 'Wednesday: 11:30 AM – 10:00 PM'
-    - 'Thursday: 11:30 AM – 10:00 PM'
-    - 'Friday: 11:30 AM – 11:00 PM'
-    - 'Saturday: 12:00 – 11:00 PM'
-    - 'Sunday: 12:00 – 10:00 PM'
+  nextCloseTime: '2025-05-04T06:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,414 @@ phone: (818) 396-5604
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.4'
-rating_count: 0
+rating_count: 712
 website: http://www.crazyrockinsushigd.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Explore Crazy Rock'n Sushi in Glendale, CA$$$Crazy Rock'n Sushi in Glendale,
+  CA, offers a cozy and vibrant atmosphere perfect for enjoying fresh Japanese
+  cuisine, including a variety of sushi rolls and bento boxes that cater to
+  diverse tastes. This spot stands out with its contemporary setup, featuring
+  boldly painted interiors that create a welcoming environment for casual dining
+  or groups seeking flavorful options like sake pairings. Accessibility is a key
+  highlight, with wheelchair-friendly features making it easy for everyone to
+  enjoy the experience, while its moderate pricing adds to the appeal for those
+  exploring sushi restaurants nearby. Operating from late morning into the
+  evening, it's an ideal choice for lunch or dinner, blending traditional
+  flavors with a relaxed vibe that keeps patrons coming back for more.
+generative_summary: >-
+  Explore Crazy Rock'n Sushi in Glendale, CA$$$Crazy Rock'n Sushi in Glendale,
+  CA, offers a cozy and vibrant atmosphere perfect for enjoying fresh Japanese
+  cuisine, including a variety of sushi rolls and bento boxes that cater to
+  diverse tastes. This spot stands out with its contemporary setup, featuring
+  boldly painted interiors that create a welcoming environment for casual dining
+  or groups seeking flavorful options like sake pairings. Accessibility is a key
+  highlight, with wheelchair-friendly features making it easy for everyone to
+  enjoy the experience, while its moderate pricing adds to the appeal for those
+  exploring sushi restaurants nearby. Operating from late morning into the
+  evening, it's an ideal choice for lunch or dinner, blending traditional
+  flavors with a relaxed vibe that keeps patrons coming back for more.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ3-grTt3BwoAR-nXSpbOYloA/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3X1ktbVpREAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        This is the sushi place. THE sushi place!! I've been here twice now and
+        let me tell you, im not disappointed. My first time here i had baked
+        salmon sushi and some fried rice. The baked salmon was so delicious that
+        it left me craving for more! I recently went here again and I can
+        confidently say that I wasn't disappointed again! Of course I got the
+        baked salmon sushi but I also got a different sushi. I forget the name
+        but it was so good! It had shrimp sticking out and was topped with green
+        onion, spicy mayo and eel sauce! The popcorn shrimp was super good too
+        and even better with the spicy mayo!
+
+
+        The environment is really nice as well! It feels really comfy and so
+        chill. The workers here are very nice too! This whole place is my happy
+        place!
+
+
+        For price, I think its justified. The sushi really do fill you up. I was
+        stuffed both times.
+
+
+        Would I recommend this place? Heck yeah! This place ROCK'N rolls!! I
+        would come back here again and try out the rest of the menu! So yummers!
+      languageCode: en
+    originalText:
+      text: >-
+        This is the sushi place. THE sushi place!! I've been here twice now and
+        let me tell you, im not disappointed. My first time here i had baked
+        salmon sushi and some fried rice. The baked salmon was so delicious that
+        it left me craving for more! I recently went here again and I can
+        confidently say that I wasn't disappointed again! Of course I got the
+        baked salmon sushi but I also got a different sushi. I forget the name
+        but it was so good! It had shrimp sticking out and was topped with green
+        onion, spicy mayo and eel sauce! The popcorn shrimp was super good too
+        and even better with the spicy mayo!
+
+
+        The environment is really nice as well! It feels really comfy and so
+        chill. The workers here are very nice too! This whole place is my happy
+        place!
+
+
+        For price, I think its justified. The sushi really do fill you up. I was
+        stuffed both times.
+
+
+        Would I recommend this place? Heck yeah! This place ROCK'N rolls!! I
+        would come back here again and try out the rest of the menu! So yummers!
+      languageCode: en
+    authorAttribution:
+      displayName: Rex Santos
+      uri: https://www.google.com/maps/contrib/114399165992549696471/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUjzPucJGRKjmNO2omy_Z7nclYR6n-ZXR5zns9ntA_A23eDbdbn=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-27T21:25:00.716710Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUR3X1ktbVpREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUR3X1ktbVpREAE!2m1!1s0x80c2c1dd4e2be8df:0x809698b3a5d275fa
+  - name: >-
+      places/ChIJ3-grTt3BwoAR-nXSpbOYloA/reviews/ChdDSUhNMG9nS0VJQ0FnSUNKeW9HQjJRRRAB
+    relativePublishTimeDescription: in the last week
+    rating: 2
+    text:
+      text: >-
+        *UPDATE 4/27/25* MINUS 3 STARS for rotten shrimp & condescending, rude
+        Hostess/Manager. PLUS 2 STARS stars for the excellent waitresses,
+        waiters & to the chefs for the majority of our meal.
+
+
+        Tonight, my husband & I were having a great dinner! The food was
+        wonderful, the service was excellent, & the vibes were chill UNTIL our
+        last dish came...
+
+
+        I love Amaebi & have eaten it (in the States & in Japan) more times than
+        I can count, so I was excited for the dish to arrive! IT. WAS. AWEFUL.
+        It tasted rotten/sour. I spit it out! It made me feel kind of sick just
+        from the taste! A lovely waitress must have seen this because she came
+        right over to take it away very politely. I thanked her.
+
+
+        It was hard to get the bad taste out of my mouth. That shrimp was
+        definitely bad, but it happens, I thought. Oh well! Husband & I
+        continued chatting.
+
+
+        THEN, the Hostess/Manager came over to talk to us... SHE WAS VERY RUDE.
+        She said that the chefs tried the shrimp & it was fine, then she
+        condescendingly EXPLAINED to me what Amaebi was supposed to taste
+        like... Seriously?! Next she said that said she "respected" that I
+        didn't like it but that that WAS how it was supposed to taste... Even
+        though she didn't taste the piece I spit out. I explained that I've
+        eaten it many times here & in Japan, I know how it should taste. She
+        rudely said, "well, it's MY culture"... Seriously!? Rotten food tastes
+        the same in every country, so what's the point of saying that?It's
+        preposterous, condescending & weird! Horribly unprofessional.
+
+
+        She kept pushing saying that the shrimp tasted fine until I said, "But
+        there were two shrimp. The shrimp YOU had may have been fine but the one
+        I spit out certainly wasn't." She was like, Oooh. Yeah, that could be
+        it.
+
+
+        I should have told her how rude I thought she was being in the moment,
+        but I didn't. So, yeah...
+
+
+        PRO TIP: Just take the rotten food off of the customers bill, don't act
+        condescending like you're the only person that's ever eaten shrimp, &
+        don't lecture customers about how you think they're dumb & wrong & don't
+        know what their favorite sushi is supposed to taste like because they
+        aren't the same race as you.
+
+
+        Also, if you don't want people to love & appreciate eating food from
+        your culture, don't work at a Japanese restaurant.
+
+
+        We used to like this place, but we're never coming back because of this
+        rude Hostess/Manager. Horrible customer service from her! Definitely not
+        someone you want interacting with customers. She's so cringe.
+
+
+        The waitresses & waiters were FANTASTIC! The rest of the meal was
+        fantastic as well. Thank you to all the staff EXCEPT the rude
+        Hostess/Manager. YIKES.
+      languageCode: en
+    originalText:
+      text: >-
+        *UPDATE 4/27/25* MINUS 3 STARS for rotten shrimp & condescending, rude
+        Hostess/Manager. PLUS 2 STARS stars for the excellent waitresses,
+        waiters & to the chefs for the majority of our meal.
+
+
+        Tonight, my husband & I were having a great dinner! The food was
+        wonderful, the service was excellent, & the vibes were chill UNTIL our
+        last dish came...
+
+
+        I love Amaebi & have eaten it (in the States & in Japan) more times than
+        I can count, so I was excited for the dish to arrive! IT. WAS. AWEFUL.
+        It tasted rotten/sour. I spit it out! It made me feel kind of sick just
+        from the taste! A lovely waitress must have seen this because she came
+        right over to take it away very politely. I thanked her.
+
+
+        It was hard to get the bad taste out of my mouth. That shrimp was
+        definitely bad, but it happens, I thought. Oh well! Husband & I
+        continued chatting.
+
+
+        THEN, the Hostess/Manager came over to talk to us... SHE WAS VERY RUDE.
+        She said that the chefs tried the shrimp & it was fine, then she
+        condescendingly EXPLAINED to me what Amaebi was supposed to taste
+        like... Seriously?! Next she said that said she "respected" that I
+        didn't like it but that that WAS how it was supposed to taste... Even
+        though she didn't taste the piece I spit out. I explained that I've
+        eaten it many times here & in Japan, I know how it should taste. She
+        rudely said, "well, it's MY culture"... Seriously!? Rotten food tastes
+        the same in every country, so what's the point of saying that?It's
+        preposterous, condescending & weird! Horribly unprofessional.
+
+
+        She kept pushing saying that the shrimp tasted fine until I said, "But
+        there were two shrimp. The shrimp YOU had may have been fine but the one
+        I spit out certainly wasn't." She was like, Oooh. Yeah, that could be
+        it.
+
+
+        I should have told her how rude I thought she was being in the moment,
+        but I didn't. So, yeah...
+
+
+        PRO TIP: Just take the rotten food off of the customers bill, don't act
+        condescending like you're the only person that's ever eaten shrimp, &
+        don't lecture customers about how you think they're dumb & wrong & don't
+        know what their favorite sushi is supposed to taste like because they
+        aren't the same race as you.
+
+
+        Also, if you don't want people to love & appreciate eating food from
+        your culture, don't work at a Japanese restaurant.
+
+
+        We used to like this place, but we're never coming back because of this
+        rude Hostess/Manager. Horrible customer service from her! Definitely not
+        someone you want interacting with customers. She's so cringe.
+
+
+        The waitresses & waiters were FANTASTIC! The rest of the meal was
+        fantastic as well. Thank you to all the staff EXCEPT the rude
+        Hostess/Manager. YIKES.
+      languageCode: en
+    authorAttribution:
+      displayName: MFC
+      uri: https://www.google.com/maps/contrib/102686902768080816752/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXX05z4GHs9z9WB8l2kX6Lr2Q3b7CyFCOL96jNUH_0fmOn0kRnFMg=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-28T02:04:50.210427Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNKeW9HQjJRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNKeW9HQjJRRRAB!2m1!1s0x80c2c1dd4e2be8df:0x809698b3a5d275fa
+  - name: >-
+      places/ChIJ3-grTt3BwoAR-nXSpbOYloA/reviews/ChdDSUhNMG9nS0VJQ0FnSUNQd2UtUXB3RRAB
+    relativePublishTimeDescription: 5 months ago
+    rating: 2
+    text:
+      text: >-
+        Food is alright. Service is OK. I mean my food came out after my party
+        finished eating. And this wasn't the first time this happened here so.
+        Whatever. I guess koreans don't know how to run restaurants. Yes
+        readers, this restaurant is owned by Koreans. Shocker I know
+      languageCode: en
+    originalText:
+      text: >-
+        Food is alright. Service is OK. I mean my food came out after my party
+        finished eating. And this wasn't the first time this happened here so.
+        Whatever. I guess koreans don't know how to run restaurants. Yes
+        readers, this restaurant is owned by Koreans. Shocker I know
+      languageCode: en
+    authorAttribution:
+      displayName: Austin Choi
+      uri: https://www.google.com/maps/contrib/112185526533146047914/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXPogZy6FYv_MtTRZMeRzQAhs46GNNI4NpBYsTl9nNy1CoYdIvo=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-11-25T04:56:13.559511Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNQd2UtUXB3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNQd2UtUXB3RRAB!2m1!1s0x80c2c1dd4e2be8df:0x809698b3a5d275fa
+  - name: >-
+      places/ChIJ3-grTt3BwoAR-nXSpbOYloA/reviews/ChZDSUhNMG9nS0VJQ0FnTURJaEpfOERREAE
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 1
+    text:
+      text: >-
+        Went on a Saturday night place was almost empty. 1.5 prior to closing
+        host took like 7 minutes to seat us she said we only had 15 min maximum
+        to order because kitchen was shutting down . They close at 11pm ..
+        Everyone looked lost not knowing which plate was going to which table.
+        Running food to wrong tables and the servers in white T shirts talking
+        down to busboys or food runners . They should be more professional when
+        they are around people . Carlos G was apparently our server we tried to
+        order food with him he said no drink only . Okay !!! Then 10-15 minutes
+        later the sever  in a white t shirt tall with glasses. By that time 30
+        minutes had gone by the time our food got to the table 10:35pm last dish
+        was dropped . Had to rush they kept pushing and rudely feeling forced to
+        eat 2 sushi plates a yakisoba to large beers and saki in under 30 min …
+        Geez if only the 1st server would’ve gotten our food order that would’ve
+        mattered . And the sushi rolls are a completely different portion that
+        the rolls at the WEST HOLLYWOOD LOCATION!!! but same price . If I
+        would’ve had enough time I could’ve taken pictures unfortunately that
+        wasn’t the case so pretty much got kicked out was told to leave because
+        it was closed . All I needed was an extra 10 minutes I was forced out by
+        11:03 pm … Bad service . Alright food . I suggest you go to the WEST
+        HOLLYWOOD LOCATION AND you will definitely see the difference . Little
+        do they know I work in the hospitality industry and this is not how u
+        close a restaurant you wait politely for guest to finish eating . You
+        could have done your side work while people finished eating. Never going
+        back… 1st and last . This is not proper hospitality.
+      languageCode: en
+    originalText:
+      text: >-
+        Went on a Saturday night place was almost empty. 1.5 prior to closing
+        host took like 7 minutes to seat us she said we only had 15 min maximum
+        to order because kitchen was shutting down . They close at 11pm ..
+        Everyone looked lost not knowing which plate was going to which table.
+        Running food to wrong tables and the servers in white T shirts talking
+        down to busboys or food runners . They should be more professional when
+        they are around people . Carlos G was apparently our server we tried to
+        order food with him he said no drink only . Okay !!! Then 10-15 minutes
+        later the sever  in a white t shirt tall with glasses. By that time 30
+        minutes had gone by the time our food got to the table 10:35pm last dish
+        was dropped . Had to rush they kept pushing and rudely feeling forced to
+        eat 2 sushi plates a yakisoba to large beers and saki in under 30 min …
+        Geez if only the 1st server would’ve gotten our food order that would’ve
+        mattered . And the sushi rolls are a completely different portion that
+        the rolls at the WEST HOLLYWOOD LOCATION!!! but same price . If I
+        would’ve had enough time I could’ve taken pictures unfortunately that
+        wasn’t the case so pretty much got kicked out was told to leave because
+        it was closed . All I needed was an extra 10 minutes I was forced out by
+        11:03 pm … Bad service . Alright food . I suggest you go to the WEST
+        HOLLYWOOD LOCATION AND you will definitely see the difference . Little
+        do they know I work in the hospitality industry and this is not how u
+        close a restaurant you wait politely for guest to finish eating . You
+        could have done your side work while people finished eating. Never going
+        back… 1st and last . This is not proper hospitality.
+      languageCode: en
+    authorAttribution:
+      displayName: Dee Dee
+      uri: https://www.google.com/maps/contrib/114256197238544075936/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjV4n3stdjV6zsOtLdXGDY_a20EK5Td7odXiKaDiwZGvrv3CXx_a2A=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-07T04:53:19.013497Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURJaEpfOERREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJaEpfOERREAE!2m1!1s0x80c2c1dd4e2be8df:0x809698b3a5d275fa
+  - name: >-
+      places/ChIJ3-grTt3BwoAR-nXSpbOYloA/reviews/ChdDSUhNMG9nS0VJQ0FnSURYOXR2Sjl3RRAB
+    relativePublishTimeDescription: 6 months ago
+    rating: 5
+    text:
+      text: >-
+        Fresh sushi with beautiful presentation and attentive service. Worth
+        trying for sushi lovers!
+      languageCode: en
+    originalText:
+      text: >-
+        Fresh sushi with beautiful presentation and attentive service. Worth
+        trying for sushi lovers!
+      languageCode: en
+    authorAttribution:
+      displayName: Hayk Nurijanyan
+      uri: https://www.google.com/maps/contrib/112207071693686070298/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVOOrGqmsedwQJ7VEbO4o2M15-2r5InYV2DSOut2sASxFEwMkihMQ=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-10-27T08:13:58.265970Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURYOXR2Sjl3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURYOXR2Sjl3RRAB!2m1!1s0x80c2c1dd4e2be8df:0x809698b3a5d275fa
+review_summary: >-
+  Buzz Around This Local Sushi Favorite$$$Folks heading to sushi spots like this
+  one often rave about the fresh rolls and tasty entrees that hit the spot
+  without breaking the bank, making it a solid pick for anyone craving quality
+  Japanese fare close to home. While the atmosphere gets high marks for being
+  comfy and chill, with many appreciating the overall vibe and attentive service
+  from the team, a few diners note occasional hiccups like wait times or
+  inconsistencies that could use some smoothing out. Overall, the standout
+  dishes, such as baked salmon and creative toppings, leave most visitors
+  satisfied and eager to return, especially with deals that enhance the value.
+  If you're on the hunt for top-rated sushi near you, this place delivers a
+  generally enjoyable experience that's worth trying for its flavorful options
+  and welcoming feel.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  paidParkingLot: true
+  paidStreetParking: true
+  valetParking: false
+  paidGarageParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: true
 outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+reservable: true
+restroom: true
+serves_beer: true
 serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_brunch: false
+serves_cocktails: true
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Contemporary Japanese eatery serving classic sushi rolls &  hot entrees in a
+  boldly painted locale.
 
 ---

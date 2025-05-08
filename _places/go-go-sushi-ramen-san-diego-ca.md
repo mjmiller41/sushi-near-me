@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Go Go Sushi & Ramen"
+title: Go Go Sushi & Ramen
 permalink: /california/san-diego/go-go-sushi-ramen.html
 stateAbbr: CA
 stateName: California
 cityName: San Diego
 seo:
-  name: "Go Go Sushi & Ramen"
-  type: Restaurant
+  type: restaurant
   links: https://gogosushisd.com/?utm_source=google
-description: "Laid-back locale serving up Japanese dishes, including sushi & teriyaki, plus Korean noodle soups. Go Go Sushi & Ramen serves delicious sushi in San Diego, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJQ3AsQRz524ARdHA8jUQDdG8
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $10 &ndash; $20
 rating: '4.0'
 rating_count: 0
 website: https://gogosushisd.com/?utm_source=google
+description: >-
+  About Go Go Sushi & Ramen in San Diego, CA$$$Go Go Sushi & Ramen in San Diego,
+  CA, stands out as a relaxed spot for enjoying authentic Japanese flavors,
+  featuring fresh sushi and hearty bento options that appeal to those seeking
+  sushi restaurants in the area. This casual eatery offers a variety of Japanese
+  dishes, including teriyaki and noodle soups, all served in a laid-back
+  atmosphere perfect for a quick meal. With thoughtful accessibility features
+  like wheelchair-friendly entrances and ample parking, it caters to a wide
+  range of diners looking for convenient Japanese places near me. The menu
+  highlights affordable choices that balance traditional tastes with everyday
+  appeal, making it a go-to for anyone craving top-rated sushi without the fuss.
+  Overall, it's a welcoming destination for flavorful, budget-friendly bites in
+  a neighborhood setting.
+generative_summary: >-
+  About Go Go Sushi & Ramen in San Diego, CA$$$Go Go Sushi & Ramen in San Diego,
+  CA, stands out as a relaxed spot for enjoying authentic Japanese flavors,
+  featuring fresh sushi and hearty bento options that appeal to those seeking
+  sushi restaurants in the area. This casual eatery offers a variety of Japanese
+  dishes, including teriyaki and noodle soups, all served in a laid-back
+  atmosphere perfect for a quick meal. With thoughtful accessibility features
+  like wheelchair-friendly entrances and ample parking, it caters to a wide
+  range of diners looking for convenient Japanese places near me. The menu
+  highlights affordable choices that balance traditional tastes with everyday
+  appeal, making it a go-to for anyone craving top-rated sushi without the fuss.
+  Overall, it's a welcoming destination for flavorful, budget-friendly bites in
+  a neighborhood setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJQ3AsQRz524ARdHA8jUQDdG8/reviews/ChZDSUhNMG9nS0VJQ0FnSURyN0pycmZ3EAE
@@ -396,6 +421,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUM5Xy1fNmN3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUM5Xy1fNmN3EAE!2m1!1s0x80dbf91c412c7043:0x6f7403448d3c7074
+review_summary: >-
+  Insights from Recent Reviews$$$Visitors to this sushi spot often appreciate
+  the solid value and variety in the menu, with many highlighting the tasty
+  bento boxes and satisfying ramen as reliable choices for a casual lunch. While
+  some note that certain dishes like sushi rolls could be fresher or hold
+  together better, the overall experience remains enjoyable thanks to flavorful
+  elements such as miso soup and tempura that keep things light and fun. Folks
+  frequently mention the affordable prices make it a smart pick for everyday
+  dining, even if a few items don't quite hit the mark every time. Despite minor
+  inconsistencies, the welcoming vibe and quick service add to the appeal,
+  encouraging return trips for those exploring Japanese eateries nearby. In the
+  end, it's a straightforward option that delivers decent flavors with a
+  positive, approachable feel for sushi enthusiasts.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -427,8 +466,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Laid-back locale serving up Japanese dishes, including sushi & teriyaki, plus
   Korean noodle soups.
 

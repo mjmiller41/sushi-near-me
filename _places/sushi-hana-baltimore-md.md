@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Hana"
+title: Sushi Hana
 permalink: /maryland/baltimore/sushi-hana.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Baltimore
 seo:
-  name: "Sushi Hana"
-  type: Restaurant
+  type: restaurant
   links: https://baltimoresushihana.com/#/
-description: "Sushi Hana serves delicious sushi in Baltimore, Maryland. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJrSxEhwcQyIkRBNiSkgpfTWM
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c8100787442cad:0x634d5f0a9292d804!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 13
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 10:00 PM'
     - 'Tuesday: 11:00 AM – 10:00 PM'
     - 'Wednesday: 11:00 AM – 10:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 11:00 PM'
     - 'Saturday: 12:00 – 11:00 PM'
     - 'Sunday: 1:00 – 10:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 10:00 PM'
-    - 'Tuesday: 11:00 AM – 10:00 PM'
-    - 'Wednesday: 11:00 AM – 10:00 PM'
-    - 'Thursday: 11:00 AM – 10:00 PM'
-    - 'Friday: 11:00 AM – 11:00 PM'
-    - 'Saturday: 12:00 – 11:00 PM'
-    - 'Sunday: 1:00 – 10:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +246,48 @@ phone: (410) 377-4228
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.1'
-rating_count: 0
+rating_count: 346
 website: https://baltimoresushihana.com/#/
+description: >-
+  Explore Sushi Hana in Baltimore, MD$$$Sushi Hana in Baltimore, MD, stands out
+  as a welcoming spot for enjoying authentic Japanese cuisine, featuring an
+  array of fresh sushi rolls and crispy tempura in a relaxed atmosphere. This
+  sushi restaurant emphasizes accessibility with features like
+  wheelchair-friendly entrances and seating, making it easy for everyone to
+  savor their meals. Patrons can expect a menu that highlights traditional
+  flavors alongside creative twists, all served in a casual setting that invites
+  both quick lunches and evening outings. With convenient hours extending into
+  the evenings most days, it's a go-to choice for those seeking top-rated sushi
+  spots in the area, blending quality ingredients with a comfortable vibe that
+  keeps locals coming back.
+generative_summary: >-
+  Explore Sushi Hana in Baltimore, MD$$$Sushi Hana in Baltimore, MD, stands out
+  as a welcoming spot for enjoying authentic Japanese cuisine, featuring an
+  array of fresh sushi rolls and crispy tempura in a relaxed atmosphere. This
+  sushi restaurant emphasizes accessibility with features like
+  wheelchair-friendly entrances and seating, making it easy for everyone to
+  savor their meals. Patrons can expect a menu that highlights traditional
+  flavors alongside creative twists, all served in a casual setting that invites
+  both quick lunches and evening outings. With convenient hours extending into
+  the evenings most days, it's a go-to choice for those seeking top-rated sushi
+  spots in the area, blending quality ingredients with a comfortable vibe that
+  keeps locals coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback on This Local Sushi Favorite$$$Visitors to this Baltimore
+  sushi haunt often praise the fresh flavors and variety of rolls, noting that
+  the dishes deliver a satisfying taste of Japanese-inspired eats without
+  breaking the bank. Many appreciate the friendly service and efficient
+  atmosphere, which make it a solid pick for casual dinners or groups looking
+  for reliable options nearby. While some mention occasional waits during peak
+  times, the overall consensus highlights the value and quality that earn it a
+  strong rating among sushi restaurants in the region. Folks frequently share
+  that it's a great spot for discovering new favorites, with the balance of
+  affordability and taste keeping the positive vibes flowing. All in all, if
+  you're hunting for the best sushi near you, this place holds up as a
+  dependable choice that combines solid execution with a welcoming feel.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +313,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

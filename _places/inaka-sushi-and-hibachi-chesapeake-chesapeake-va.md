@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Inaka Sushi and Hibachi Chesapeake"
+title: Inaka Sushi and Hibachi Chesapeake
 permalink: /virginia/chesapeake/inaka-sushi-and-hibachi-chesapeake.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Chesapeake
 seo:
-  name: "Inaka Sushi and Hibachi Chesapeake"
-  type: Restaurant
-  links: null
-description: "Inaka Sushi and Hibachi Chesapeake serves delicious sushi in Chesapeake, Virginia. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.inakachesapeake.com/
 place_id: ChIJOypLh9O9uokR8Tp9SYZj9XY
 photos:
   - name: >-
@@ -170,8 +168,121 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89babdd3874b2a3b:0x76f56386497d3af1!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 16
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 14
+        minute: 30
+    - open:
+        day: 6
+        hour: 16
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:30 AM – 2:30 PM, 4:30 – 9:30 PM'
+    - 'Tuesday: 11:30 AM – 2:30 PM, 4:30 – 9:30 PM'
+    - 'Wednesday: 11:30 AM – 2:30 PM, 4:30 – 9:30 PM'
+    - 'Thursday: 11:30 AM – 2:30 PM, 4:30 – 9:30 PM'
+    - 'Friday: 11:30 AM – 2:30 PM, 4:30 – 9:30 PM'
+    - 'Saturday: 11:30 AM – 2:30 PM, 4:30 – 9:30 PM'
+    - 'Sunday: 4:30 – 9:30 PM'
+  nextCloseTime: '2025-05-04T01:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +290,50 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
+phone: (757) 698-4475
 price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+price_range: $20 &ndash; $30
+rating: '4.8'
+rating_count: 318
+website: http://www.inakachesapeake.com/
+description: >-
+  Discover Inaka Sushi and Hibachi in Chesapeake, VA$$$Inaka Sushi and Hibachi
+  Chesapeake, nestled in the heart of Chesapeake, VA, offers a cozy and inviting
+  atmosphere perfect for enjoying authentic Japanese cuisine. This spot
+  specializes in fresh sushi rolls, flavorful hibachi dishes, and a selection of
+  beverages like beer, wine, and sake, making it an ideal choice for those
+  seeking quality Japanese fare nearby. With wheelchair-accessible features
+  throughout, it's designed to welcome everyone for a comfortable dining
+  experience. The restaurant's flexible hours cater to both lunch and dinner
+  crowds, ensuring you can savor expertly prepared meals at your convenience.
+  Whether you're in the mood for a quick bite or a relaxed evening, this
+  location stands out as a go-to for top-rated sushi options in the area.
+generative_summary: >-
+  Discover Inaka Sushi and Hibachi in Chesapeake, VA$$$Inaka Sushi and Hibachi
+  Chesapeake, nestled in the heart of Chesapeake, VA, offers a cozy and inviting
+  atmosphere perfect for enjoying authentic Japanese cuisine. This spot
+  specializes in fresh sushi rolls, flavorful hibachi dishes, and a selection of
+  beverages like beer, wine, and sake, making it an ideal choice for those
+  seeking quality Japanese fare nearby. With wheelchair-accessible features
+  throughout, it's designed to welcome everyone for a comfortable dining
+  experience. The restaurant's flexible hours cater to both lunch and dinner
+  crowds, ensuring you can savor expertly prepared meals at your convenience.
+  Whether you're in the mood for a quick bite or a relaxed evening, this
+  location stands out as a go-to for top-rated sushi options in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Buzzing About$$$Visitors often rave about the fresh and
+  flavorful sushi, hibachi, and noodle dishes that make meals here feel
+  genuinely satisfying and well-balanced. Folks appreciate the friendly and
+  attentive service that keeps things running smoothly without any fuss, adding
+  to the overall enjoyable vibe. Many highlight how quick and efficient the
+  experience is, ideal for a casual outing or a group gathering on the go. While
+  opinions vary, the consistent praise for the quality ingredients and welcoming
+  staff paints a positive picture for anyone craving Japanese-inspired eats. If
+  you're searching for reliable sushi spots nearby, this place delivers a solid
+  mix of tasty options and hassle-free dining that keeps people coming back.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +359,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

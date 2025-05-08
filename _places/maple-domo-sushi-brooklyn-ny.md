@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Maple Domo Sushi"
+title: Maple Domo Sushi
 permalink: /new-york/brooklyn/maple-domo-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: Brooklyn
 seo:
-  name: "Maple Domo Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.domosushii.com/
-description: "Maple Domo Sushi serves delicious sushi in Brooklyn, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJZa7raWVbwokRGX4rzWvVCrY
 photos:
   - name: >-
@@ -166,7 +164,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c25b6569ebae65:0xb60ad56bcd2b7e19!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 45
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 45
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 45
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 45
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 45
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 9:45 PM'
     - 'Tuesday: 11:30 AM – 9:45 PM'
     - 'Wednesday: 11:30 AM – 9:45 PM'
@@ -174,14 +230,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 10:00 PM'
     - 'Saturday: 12:00 – 10:00 PM'
     - 'Sunday: 12:00 – 9:45 PM'
-  current:
-    - 'Monday: 11:30 AM – 9:45 PM'
-    - 'Tuesday: 11:30 AM – 9:45 PM'
-    - 'Wednesday: 11:30 AM – 9:45 PM'
-    - 'Thursday: 11:30 AM – 9:45 PM'
-    - 'Friday: 11:30 AM – 10:00 PM'
-    - 'Saturday: 12:00 – 10:00 PM'
-    - 'Sunday: 12:00 – 9:45 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -192,10 +241,43 @@ secondary_opening_hours:
 phone: (718) 222-5758
 price_level: null
 price_range: null
-rating: '4.3'
-rating_count: 0
+rating: '4.4'
+rating_count: 17
 website: http://www.domosushii.com/
+description: >-
+  Experience Maple Domo Sushi in Brooklyn, NY$$$Maple Domo Sushi in Brooklyn,
+  New York, stands out as a welcoming spot for fresh Japanese cuisine in the
+  vibrant Carroll Gardens neighborhood. This cozy sushi restaurant delights with
+  its array of expertly crafted rolls and traditional dishes, using high-quality
+  ingredients that highlight authentic flavors. Patrons can enjoy a relaxed
+  atmosphere perfect for casual meals or quick bites, with options that cater to
+  various tastes including vegetarian choices. The spot's convenient hours make
+  it an ideal choice for those searching for reliable sushi options nearby,
+  enhancing its appeal as a go-to destination for flavorful dining experiences.
+generative_summary: >-
+  Experience Maple Domo Sushi in Brooklyn, NY$$$Maple Domo Sushi in Brooklyn,
+  New York, stands out as a welcoming spot for fresh Japanese cuisine in the
+  vibrant Carroll Gardens neighborhood. This cozy sushi restaurant delights with
+  its array of expertly crafted rolls and traditional dishes, using high-quality
+  ingredients that highlight authentic flavors. Patrons can enjoy a relaxed
+  atmosphere perfect for casual meals or quick bites, with options that cater to
+  various tastes including vegetarian choices. The spot's convenient hours make
+  it an ideal choice for those searching for reliable sushi options nearby,
+  enhancing its appeal as a go-to destination for flavorful dining experiences.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Buzzing About$$$From what folks are sharing online, Maple
+  Domo Sushi seems to hit the mark with its tasty rolls and solid service,
+  earning plenty of nods for fresh ingredients and generous portions. Many
+  appreciate the welcoming vibe that makes it feel like a neighborhood favorite,
+  especially for anyone craving reliable sushi spots close by. While a few
+  mentions hint at wait times during peak hours, the overall feedback leans
+  positive with highlights on the variety and quality that keep people coming
+  back. It's clear that diners value the consistency and flavors that make this
+  place stand out among local Japanese eateries, making it a solid pick for your
+  next meal out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -221,7 +303,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Oku"
+title: Sushi Oku
 permalink: /new-york/new-york/sushi-oku.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "Sushi Oku"
-  type: Restaurant
+  type: restaurant
   links: https://www.sushioku.com/
-description: "Sushi Oku serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ45FUYptbwokR1AvGBrX_6Io
 photos:
   - name: >-
@@ -167,7 +165,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c25b9b625491e3:0x8ae8ffb506c60bd4!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 18
+        minute: 0
+      close:
+        day: 0
+        hour: 23
+        minute: 30
+    - open:
+        day: 1
+        hour: 18
+        minute: 0
+      close:
+        day: 1
+        hour: 23
+        minute: 30
+    - open:
+        day: 3
+        hour: 18
+        minute: 0
+      close:
+        day: 3
+        hour: 23
+        minute: 30
+    - open:
+        day: 4
+        hour: 18
+        minute: 0
+      close:
+        day: 4
+        hour: 23
+        minute: 30
+    - open:
+        day: 5
+        hour: 17
+        minute: 30
+      close:
+        day: 6
+        hour: 0
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 30
+      close:
+        day: 0
+        hour: 0
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 6:00 – 11:30 PM'
     - 'Tuesday: Closed'
     - 'Wednesday: 6:00 – 11:30 PM'
@@ -175,14 +223,7 @@ opening_hours:
     - 'Friday: 5:30 PM – 12:00 AM'
     - 'Saturday: 5:30 PM – 12:00 AM'
     - 'Sunday: 6:00 – 11:30 PM'
-  current:
-    - 'Monday: 6:00 – 11:30 PM'
-    - 'Tuesday: Closed'
-    - 'Wednesday: 6:00 – 11:30 PM'
-    - 'Thursday: 6:00 – 11:30 PM'
-    - 'Friday: 5:30 PM – 12:00 AM'
-    - 'Saturday: 5:30 PM – 12:00 AM'
-    - 'Sunday: 6:00 – 11:30 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -194,9 +235,45 @@ phone: (646) 956-5535
 price_level: null
 price_range: $100 &ndash; & up
 rating: '4.9'
-rating_count: 0
+rating_count: 47
 website: https://www.sushioku.com/
+description: >-
+  Experience Sushi Oku in New York, NY$$$Sushi Oku in New York, NY, stands out
+  as a top-rated sushi restaurant nestled in the bustling Lower East Side,
+  offering an authentic Japanese dining experience with fresh, expertly crafted
+  rolls and omakase selections. This intimate spot highlights creative
+  presentations of seafood dishes that blend traditional flavors with a modern
+  twist, making it a go-to for those seeking high-quality sushi places near me.
+  Patrons can enjoy a cozy atmosphere perfect for evenings out, with evening
+  hours that cater to dinner seekers in the vibrant city neighborhood. The
+  restaurant's focus on premium ingredients ensures each meal feels special,
+  appealing to anyone exploring the best sushi restaurants in the area.
+generative_summary: >-
+  Experience Sushi Oku in New York, NY$$$Sushi Oku in New York, NY, stands out
+  as a top-rated sushi restaurant nestled in the bustling Lower East Side,
+  offering an authentic Japanese dining experience with fresh, expertly crafted
+  rolls and omakase selections. This intimate spot highlights creative
+  presentations of seafood dishes that blend traditional flavors with a modern
+  twist, making it a go-to for those seeking high-quality sushi places near me.
+  Patrons can enjoy a cozy atmosphere perfect for evenings out, with evening
+  hours that cater to dinner seekers in the vibrant city neighborhood. The
+  restaurant's focus on premium ingredients ensures each meal feels special,
+  appealing to anyone exploring the best sushi restaurants in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback Highlights$$$Visitors to this sushi spot often rave about
+  the fantastic omakase offerings that deliver delicious, inventive dishes with
+  a mix of Tokyo-inspired tastes and local vibes, making it a favorite for fresh
+  sushi experiences. Folks appreciate the welcoming, attentive service that
+  enhances the cozy setting, turning meals into memorable occasions without
+  feeling overly formal. Overall, the consensus leans positive, with many noting
+  the creative flair in every bite that keeps diners coming back for more. While
+  it's clear this place excels in blending quality and atmosphere, it's also a
+  solid pick for anyone hunting for reliable sushi close to me. In short, the
+  feedback paints a picture of a dependable, enjoyable spot that lives up to its
+  reputation in a fun, easygoing way.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -222,7 +299,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -5,4 +5,5 @@ permalink: /indiana/franklin/
 stateAbbr: IN
 stateName: Indiana
 cityName: Franklin
+
 ---

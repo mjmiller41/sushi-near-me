@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Pokeworks"
+title: Pokeworks
 permalink: /texas/richardson/pokeworks.html
 stateAbbr: TX
 stateName: Texas
 cityName: Richardson
 seo:
-  name: "Pokeworks"
-  type: Restaurant
-  links: null
-description: "Pokeworks serves delicious sushi in Richardson, Texas. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.pokeworks.com/
 place_id: ChIJV4Ti7fofTIYRg71Tub7sda0
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x864c1ffaede28457:0xad75ecbeb953bd83!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 9:00 PM'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 9:00 PM'
+    - 'Saturday: 11:00 AM – 9:00 PM'
+    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,51 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (469) 872-0159
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.3'
+rating_count: 165
+website: https://www.pokeworks.com/
+description: >-
+  Discover Pokeworks in Richardson, Texas$$$Nestled in the heart of Richardson,
+  Texas, Pokeworks stands out as a vibrant sushi restaurant offering a fresh
+  take on Japanese-inspired cuisine. This spot delights visitors with its
+  customizable poke bowls and sushi rolls made from high-quality ingredients,
+  perfect for those seeking healthy and flavorful dining options. With
+  convenient hours from 11 AM to 9 PM every day, it's an accessible choice for
+  lunch or dinner, complemented by features like wheelchair-friendly parking and
+  entrances that ensure everyone can enjoy the experience. The modern
+  atmosphere, hinted at through its inviting photos, makes it a great stop for
+  anyone exploring local eateries, especially if you're in the mood for
+  top-rated sushi in the area.
+generative_summary: >-
+  Discover Pokeworks in Richardson, Texas$$$Nestled in the heart of Richardson,
+  Texas, Pokeworks stands out as a vibrant sushi restaurant offering a fresh
+  take on Japanese-inspired cuisine. This spot delights visitors with its
+  customizable poke bowls and sushi rolls made from high-quality ingredients,
+  perfect for those seeking healthy and flavorful dining options. With
+  convenient hours from 11 AM to 9 PM every day, it's an accessible choice for
+  lunch or dinner, complemented by features like wheelchair-friendly parking and
+  entrances that ensure everyone can enjoy the experience. The modern
+  atmosphere, hinted at through its inviting photos, makes it a great stop for
+  anyone exploring local eateries, especially if you're in the mood for
+  top-rated sushi in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About Pokeworks$$$Folks around Richardson seem to
+  really enjoy their visits to this sushi spot, often praising the fresh flavors
+  and generous portions that make meals feel satisfying and well worth it. Many
+  highlight the quick service and variety of options, which keep things exciting
+  for repeat trips without any major complaints. While some mention that the
+  wait times can pick up during peak hours, the overall vibe remains positive
+  with a solid 4.3 rating reflecting consistent satisfaction. It's clear that
+  the focus on quality ingredients and friendly staff helps this place stand out
+  as a reliable choice for casual diners. If you're hunting for sushi nearby,
+  the feedback suggests it's a spot that delivers a solid, enjoyable experience
+  most of the time.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +312,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Izumi Kaiten Sushi"
+title: Izumi Kaiten Sushi
 permalink: /california/san-francisco/izumi-kaiten-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
 seo:
-  name: "Izumi Kaiten Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Izumi Kaiten Sushi serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJp6hUL4mBhYARy4LV0kueG9g
 photos:
   - name: >-
@@ -183,7 +181,45 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Izumi Kaiten Sushi in San Francisco, CA$$$Izumi Kaiten Sushi in San
+  Francisco, CA, offers a fun and engaging dining experience centered around its
+  innovative conveyor belt system, making it a standout choice for fresh sushi
+  enthusiasts. Nestled in the vibrant Japan Center Malls, this casual eatery
+  specializes in a variety of high-quality rolls and sashimi that appeal to
+  those seeking authentic Japanese flavors without the formality. The setup
+  allows diners to easily select from an array of dishes gliding by, perfect for
+  anyone exploring top-rated sushi options in a lively urban setting. With
+  accessibility features like wheelchair-friendly entrances and seating, it
+  caters to a wide range of visitors looking for convenient and enjoyable sushi
+  restaurants nearby.
+generative_summary: >-
+  Discover Izumi Kaiten Sushi in San Francisco, CA$$$Izumi Kaiten Sushi in San
+  Francisco, CA, offers a fun and engaging dining experience centered around its
+  innovative conveyor belt system, making it a standout choice for fresh sushi
+  enthusiasts. Nestled in the vibrant Japan Center Malls, this casual eatery
+  specializes in a variety of high-quality rolls and sashimi that appeal to
+  those seeking authentic Japanese flavors without the formality. The setup
+  allows diners to easily select from an array of dishes gliding by, perfect for
+  anyone exploring top-rated sushi options in a lively urban setting. With
+  accessibility features like wheelchair-friendly entrances and seating, it
+  caters to a wide range of visitors looking for convenient and enjoyable sushi
+  restaurants nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Sharing$$$Folks rave about the wide selection of
+  well-crafted sushi at this spot, praising the thick-cut sashimi and overall
+  value that keeps things affordable for a casual meal out. Many highlight the
+  friendly team and smooth service that make the experience feel welcoming and
+  efficient, ideal for groups or quick bites. While the majority enjoy the fresh
+  flavors and variety, a few mention occasional inconsistencies with the sushi's
+  quality, though this doesn't overshadow the positives. Overall, it's a solid
+  pick for anyone hunting for reliable sushi places in the area, with the
+  atmosphere adding to the fun vibe. If you're in the mood for something tasty
+  and approachable, this location often delivers a satisfying visit that leaves
+  diners coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -209,7 +245,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

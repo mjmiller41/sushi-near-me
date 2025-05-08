@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Nimblefish"
+title: Nimblefish
 permalink: /oregon/portland/nimblefish.html
 stateAbbr: OR
 stateName: Oregon
 cityName: Portland
 seo:
-  name: "Nimblefish"
-  type: Restaurant
+  type: restaurant
   links: http://www.nimblefishpdx.com/
-description: "Nimblefish serves delicious sushi in Portland, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJIXLSW5mglVQRwgzqGQl2BAM
 photos:
   - name: >-
@@ -169,7 +167,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x5495a0995bd27221:0x304760919ea0cc2!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 5:00 – 9:00 PM'
     - 'Tuesday: 5:00 – 9:00 PM'
     - 'Wednesday: 5:00 – 9:00 PM'
@@ -177,14 +233,7 @@ opening_hours:
     - 'Friday: 5:00 – 9:00 PM'
     - 'Saturday: 5:00 – 9:00 PM'
     - 'Sunday: 5:00 – 9:00 PM'
-  current:
-    - 'Monday: 5:00 – 9:00 PM'
-    - 'Tuesday: 5:00 – 9:00 PM'
-    - 'Wednesday: 5:00 – 9:00 PM'
-    - 'Thursday: 5:00 – 9:00 PM'
-    - 'Friday: 5:00 – 9:00 PM'
-    - 'Saturday: 5:00 – 9:00 PM'
-    - 'Sunday: 5:00 – 9:00 PM'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,35 +245,271 @@ phone: (503) 719-4064
 price_level: PRICE_LEVEL_EXPENSIVE
 price_range: $100 &ndash; & up
 rating: '4.6'
-rating_count: 0
+rating_count: 424
 website: http://www.nimblefishpdx.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Nimblefish in Portland, OR$$$Nimblefish in Portland, OR, stands out
+  as a cozy Japanese-inspired eatery specializing in seasonal omakase meals and
+  a la carte selections, offering a fresh take on traditional sushi dining. The
+  restaurant features a warm, intimate atmosphere that highlights high-quality
+  nigiri and creative dishes made with flavorful, seasonal ingredients, making
+  it a go-to spot for those seeking authentic Japanese cuisine. With options
+  like sake, wine, beer, and whiskey to complement the meals, it provides an
+  elevated yet approachable experience for sushi enthusiasts. Accessibility
+  features ensure a welcoming environment, while the focus on seasonal offerings
+  keeps the menu dynamic and exciting for repeat visits. Whether you're
+  exploring top-rated sushi options in the area, this spot delivers a memorable
+  blend of quality and simplicity that captures the essence of Japanese dining.
+generative_summary: >-
+  Discover Nimblefish in Portland, OR$$$Nimblefish in Portland, OR, stands out
+  as a cozy Japanese-inspired eatery specializing in seasonal omakase meals and
+  a la carte selections, offering a fresh take on traditional sushi dining. The
+  restaurant features a warm, intimate atmosphere that highlights high-quality
+  nigiri and creative dishes made with flavorful, seasonal ingredients, making
+  it a go-to spot for those seeking authentic Japanese cuisine. With options
+  like sake, wine, beer, and whiskey to complement the meals, it provides an
+  elevated yet approachable experience for sushi enthusiasts. Accessibility
+  features ensure a welcoming environment, while the focus on seasonal offerings
+  keeps the menu dynamic and exciting for repeat visits. Whether you're
+  exploring top-rated sushi options in the area, this spot delivers a memorable
+  blend of quality and simplicity that captures the essence of Japanese dining.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJIXLSW5mglVQRwgzqGQl2BAM/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3aTZQUUt3EAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        High-end sushi with excellent quality and a personal touch. It's very
+        expensive, but that makes sense. Everything we ate was delicious. The
+        Taisho was friendly, professional, and explained each dish in detail.
+        Not a place for everyday meals, but perfect for a special, intimate
+        experience.
+      languageCode: en
+    originalText:
+      text: >-
+        High-end sushi with excellent quality and a personal touch. It's very
+        expensive, but that makes sense. Everything we ate was delicious. The
+        Taisho was friendly, professional, and explained each dish in detail.
+        Not a place for everyday meals, but perfect for a special, intimate
+        experience.
+      languageCode: en
+    authorAttribution:
+      displayName: Mark Hassin
+      uri: https://www.google.com/maps/contrib/102453660605022717072/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLxt1lZ1biiKfbmR1qF07TMoXCV_-YNlMxdIsjjjLO3xva4Ug=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2025-03-21T05:39:40.753437Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUN3aTZQUUt3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUN3aTZQUUt3EAE!2m1!1s0x5495a0995bd27221:0x304760919ea0cc2
+  - name: >-
+      places/ChIJIXLSW5mglVQRwgzqGQl2BAM/reviews/ChdDSUhNMG9nS0VJQ0FnSUR2dGVQOGh3RRAB
+    relativePublishTimeDescription: 4 months ago
+    rating: 4
+    text:
+      text: >-
+        This was the closest to the Edo-style Sushi Omakaze shown in "Jiro
+        Dreams of Sushi" I've ever had. It is single nigiri pieces put down in
+        front of you every five minutes for an hour and a half. You are expected
+        to eat the piece quickly, even while your partner is next in queue to
+        get their piece. At first it feels like way too little food, but by the
+        end you feel a warm satisfaction.
+
+
+        I would admit that this style, quantity, and cost is not for everyone,
+        and may even anger some who come unprepared, on a fully hungry stomach,
+        and stretching their budget.
+
+
+        All the fish and preparation was of higher quality and delicious balance
+        not got from other Sushi places or even making it at home.
+
+
+        Great for special occasions where the meal is the entire focus of
+        evening.
+      languageCode: en
+    originalText:
+      text: >-
+        This was the closest to the Edo-style Sushi Omakaze shown in "Jiro
+        Dreams of Sushi" I've ever had. It is single nigiri pieces put down in
+        front of you every five minutes for an hour and a half. You are expected
+        to eat the piece quickly, even while your partner is next in queue to
+        get their piece. At first it feels like way too little food, but by the
+        end you feel a warm satisfaction.
+
+
+        I would admit that this style, quantity, and cost is not for everyone,
+        and may even anger some who come unprepared, on a fully hungry stomach,
+        and stretching their budget.
+
+
+        All the fish and preparation was of higher quality and delicious balance
+        not got from other Sushi places or even making it at home.
+
+
+        Great for special occasions where the meal is the entire focus of
+        evening.
+      languageCode: en
+    authorAttribution:
+      displayName: Mike Jackson
+      uri: https://www.google.com/maps/contrib/114962248734792507191/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXbi3VOOlEZcH9MMZt3LdFDhksrAEsugmb8G7y2sKNKHq9MaVfy=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-12-22T16:44:22.694724Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR2dGVQOGh3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR2dGVQOGh3RRAB!2m1!1s0x5495a0995bd27221:0x304760919ea0cc2
+  - name: >-
+      places/ChIJIXLSW5mglVQRwgzqGQl2BAM/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJb1lyUnV3RRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Had no clue what we were walking into, but this omakase sushi spot was
+        awesome...definitely, would wander in all over again. The food was
+        awesome, the staff was friendly, and the pacing was on point. It felt
+        like an 'experience.' The fish? So fresh and flavorful I’m still
+        thinking about it. Overall, it was an adventure I’d gladly repeat.
+      languageCode: en
+    originalText:
+      text: >-
+        Had no clue what we were walking into, but this omakase sushi spot was
+        awesome...definitely, would wander in all over again. The food was
+        awesome, the staff was friendly, and the pacing was on point. It felt
+        like an 'experience.' The fish? So fresh and flavorful I’m still
+        thinking about it. Overall, it was an adventure I’d gladly repeat.
+      languageCode: en
+    authorAttribution:
+      displayName: Kayla Graves
+      uri: https://www.google.com/maps/contrib/115885142399038484782/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVDFEjH_ykCDp6f3c1lBeZYrWsZbf2-_pCXCc9JJvR3oVn6RxN5=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-04-02T15:44:39.733057Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNJb1lyUnV3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNJb1lyUnV3RRAB!2m1!1s0x5495a0995bd27221:0x304760919ea0cc2
+  - name: >-
+      places/ChIJIXLSW5mglVQRwgzqGQl2BAM/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ5dGZXMElREAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        Hands down the best dinner experience I had on my trip to Portland - and
+        I went to Han Oak be Laangbaan so really the bar was high! Intimate but
+        approachable setting, great service, and quality fish. Our chef was
+        thoughtful and informative without being too overbearing, and we were
+        able to have a nice family meal while learning about the ingredients and
+        engaging with the experience. Would recommend and will be back! Not
+        cheap but worth the price point.
+      languageCode: en
+    originalText:
+      text: >-
+        Hands down the best dinner experience I had on my trip to Portland - and
+        I went to Han Oak be Laangbaan so really the bar was high! Intimate but
+        approachable setting, great service, and quality fish. Our chef was
+        thoughtful and informative without being too overbearing, and we were
+        able to have a nice family meal while learning about the ingredients and
+        engaging with the experience. Would recommend and will be back! Not
+        cheap but worth the price point.
+      languageCode: en
+    authorAttribution:
+      displayName: Zoe Amaris
+      uri: https://www.google.com/maps/contrib/116640408461761642574/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLb9N07cG0iTUgvL4rMCBJ6Oks3LbzPTVh5RMNAtUbisy1YyA=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-03-19T14:07:54.213011Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQ5dGZXMElREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQ5dGZXMElREAE!2m1!1s0x5495a0995bd27221:0x304760919ea0cc2
+  - name: >-
+      places/ChIJIXLSW5mglVQRwgzqGQl2BAM/reviews/ChZDSUhNMG9nS0VJQ0FnSUNiekxfVkhnEAE
+    relativePublishTimeDescription: 9 months ago
+    rating: 5
+    text:
+      text: >-
+        I went here with three sophisticated ladies. That really has nothing to
+        do with the restaurant, but it gives you a sense of who is dining that
+        night. The food is delicious. The sushi chefs are incredible. This is a
+        place that everybody should go to, I truly have no feedback.
+
+
+        OK, I wish they would’ve asked me “do you like Uni“ because I don’t
+        really like Uni, but even the Uni piece was delicious .
+      languageCode: en
+    originalText:
+      text: >-
+        I went here with three sophisticated ladies. That really has nothing to
+        do with the restaurant, but it gives you a sense of who is dining that
+        night. The food is delicious. The sushi chefs are incredible. This is a
+        place that everybody should go to, I truly have no feedback.
+
+
+        OK, I wish they would’ve asked me “do you like Uni“ because I don’t
+        really like Uni, but even the Uni piece was delicious .
+      languageCode: en
+    authorAttribution:
+      displayName: Joshua Ferris
+      uri: https://www.google.com/maps/contrib/112115916070970654938/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXrlyDQkUg4y0NGoLqt8KDzVn1ggiHpq58hVaDe3vARhzjnnzdr=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-07-24T06:50:29.460353Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNiekxfVkhnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNiekxfVkhnEAE!2m1!1s0x5495a0995bd27221:0x304760919ea0cc2
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this Portland sushi spot often rave
+  about the outstanding omakase experience, praising the fresh and flavorful
+  fish that makes every bite feel special and satisfying. Many appreciate the
+  attentive service and cozy vibe, which create a perfect setting for intimate
+  evenings or celebrations without feeling overwhelming. Folks note that while
+  the portions might seem light at first, they leave you feeling content and
+  impressed by the overall quality, making it a solid choice for those wanting
+  something beyond everyday eats. It's frequently described as worth the
+  investment for food lovers seeking a unique adventure, with highlights on the
+  balance of taste and presentation that keeps things enjoyable. Overall, the
+  feedback leans positive, suggesting it's a reliable pick for anyone hunting
+  for great sushi nearby, as long as you're in the mood for a more refined
+  treat.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
+curbside_pickup: false
+delivery: true
+dine_in: true
+good_for_children: false
 good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
 serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: false
+serves_vegetarian_food: false
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Warm, cozy Japanese spot for nigiri-focused sushi & omakase menus plus sake,
+  wine, beer & whiskey.
 
 ---

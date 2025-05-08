@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "BarChi Sushi"
+title: BarChi Sushi
 permalink: /texas/austin/barchi-sushi.html
 stateAbbr: TX
 stateName: Texas
 cityName: Austin
 seo:
-  name: "BarChi Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.barchisushi.com/
-description: "BarChi Sushi serves delicious sushi in Austin, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJk5k9kQi1RIYRO2s3u2CYNBs
 photos:
   - name: >-
@@ -170,7 +168,105 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8644b508913d9993:0x1b349860bb376b3b!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 15
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 0
+      close:
+        day: 6
+        hour: 0
+        minute: 0
+    - open:
+        day: 6
+        hour: 16
+        minute: 0
+      close:
+        day: 0
+        hour: 0
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 2:00 PM, 4:00 – 10:00 PM'
     - 'Tuesday: 11:00 AM – 2:00 PM, 4:00 – 10:00 PM'
     - 'Wednesday: 11:00 AM – 2:00 PM, 4:00 – 10:00 PM'
@@ -178,54 +274,331 @@ opening_hours:
     - 'Friday: 11:00 AM – 2:00 PM, 4:00 PM – 12:00 AM'
     - 'Saturday: 4:00 PM – 12:00 AM'
     - 'Sunday: 3:00 – 10:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 2:00 PM, 4:00 – 10:00 PM'
-    - 'Tuesday: 11:00 AM – 2:00 PM, 4:00 – 10:00 PM'
-    - 'Wednesday: 11:00 AM – 2:00 PM, 4:00 – 10:00 PM'
-    - 'Thursday: 11:00 AM – 2:00 PM, 4:00 – 10:00 PM'
-    - 'Friday: 11:00 AM – 2:00 PM, 4:00 PM – 12:00 AM'
-    - 'Saturday: 4:00 PM – 12:00 AM'
-    - 'Sunday: 3:00 – 10:00 PM'
+  nextCloseTime: '2025-05-04T05:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 15
+          minute: 0
+        close:
+          day: 0
+          hour: 22
+          minute: 0
+      - open:
+          day: 1
+          hour: 16
+          minute: 0
+        close:
+          day: 1
+          hour: 19
+          minute: 0
+      - open:
+          day: 2
+          hour: 16
+          minute: 0
+        close:
+          day: 2
+          hour: 19
+          minute: 0
+      - open:
+          day: 3
+          hour: 16
+          minute: 0
+        close:
+          day: 3
+          hour: 19
+          minute: 0
+      - open:
+          day: 4
+          hour: 16
+          minute: 0
+        close:
+          day: 4
+          hour: 19
+          minute: 0
+      - open:
+          day: 5
+          hour: 16
+          minute: 0
+        close:
+          day: 5
+          hour: 19
+          minute: 0
+      - open:
+          day: 5
+          hour: 22
+          minute: 0
+        close:
+          day: 6
+          hour: 0
+          minute: 0
+      - open:
+          day: 6
+          hour: 16
+          minute: 0
+        close:
+          day: 6
+          hour: 19
+          minute: 0
+      - open:
+          day: 6
+          hour: 22
+          minute: 0
+        close:
+          day: 0
+          hour: 0
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 4:00 – 7:00 PM'
+      - 'Tuesday: 4:00 – 7:00 PM'
+      - 'Wednesday: 4:00 – 7:00 PM'
+      - 'Thursday: 4:00 – 7:00 PM'
+      - 'Friday: 4:00 – 7:00 PM, 10:00 PM – 12:00 AM'
+      - 'Saturday: 4:00 – 7:00 PM, 10:00 PM – 12:00 AM'
+      - 'Sunday: 3:00 – 10:00 PM'
+    secondaryHoursType: HAPPY_HOUR
+    nextCloseTime: '2025-05-04T00:00:00Z'
 phone: (512) 382-5557
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.4'
-rating_count: 0
+rating_count: 1061
 website: http://www.barchisushi.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover BarChi Sushi in Austin, TX$$$BarChi Sushi in Austin, TX, stands out
+  as a top-rated spot for fresh sushi and Japanese-inspired small plates, set in
+  a cozy and romantic atmosphere that invites relaxation. This sushi restaurant
+  near you offers enticing happy hour specials, making it an accessible choice
+  for enjoying flavorful rolls and appetizers without breaking the bank. With
+  thoughtful features like wheelchair-accessible entrances and outdoor seating,
+  it caters to a wide range of diners seeking a comfortable meal. The modern
+  vibe and variety of options ensure it's a go-to for anyone exploring the best
+  sushi experiences in the area, blending affordability with quality in a
+  welcoming space.
+generative_summary: >-
+  Discover BarChi Sushi in Austin, TX$$$BarChi Sushi in Austin, TX, stands out
+  as a top-rated spot for fresh sushi and Japanese-inspired small plates, set in
+  a cozy and romantic atmosphere that invites relaxation. This sushi restaurant
+  near you offers enticing happy hour specials, making it an accessible choice
+  for enjoying flavorful rolls and appetizers without breaking the bank. With
+  thoughtful features like wheelchair-accessible entrances and outdoor seating,
+  it caters to a wide range of diners seeking a comfortable meal. The modern
+  vibe and variety of options ensure it's a go-to for anyone exploring the best
+  sushi experiences in the area, blending affordability with quality in a
+  welcoming space.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJk5k9kQi1RIYRO2s3u2CYNBs/reviews/ChdDSUhNMG9nS0VJQ0FnTUNnM01LcXRRRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        BarChi Sushi offers a fantastic happy hour menu with a wide variety of
+        appetizers, sushi nigiri, rolls, and more to choose from. The sushi and
+        appetizers were B+ but considering the price was an A. While the drink
+        selection was somewhat limited, the quality was still impressive,
+        complementing the dishes well.
+
+
+        One thing I wish I knew was they have validated parking in certain
+        nearby garages. The atmosphere was also nice for a date – the low-lit
+        vibe gave it an evening dinner feel even in the middle of the day.
+        Overall, BarChi Sushi is a great spot for delicious food and a cool
+        ambiance, especially during happy hour.
+      languageCode: en
+    originalText:
+      text: >-
+        BarChi Sushi offers a fantastic happy hour menu with a wide variety of
+        appetizers, sushi nigiri, rolls, and more to choose from. The sushi and
+        appetizers were B+ but considering the price was an A. While the drink
+        selection was somewhat limited, the quality was still impressive,
+        complementing the dishes well.
+
+
+        One thing I wish I knew was they have validated parking in certain
+        nearby garages. The atmosphere was also nice for a date – the low-lit
+        vibe gave it an evening dinner feel even in the middle of the day.
+        Overall, BarChi Sushi is a great spot for delicious food and a cool
+        ambiance, especially during happy hour.
+      languageCode: en
+    authorAttribution:
+      displayName: Quentin Scott
+      uri: https://www.google.com/maps/contrib/117997783372859796643/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUh9faX3vSrpJDs7mMJFHEEi4BU8BmsqdU6RNnAioFlScZcoWgJ=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-02-15T03:43:53.023768Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNnM01LcXRRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNnM01LcXRRRRAB!2m1!1s0x8644b508913d9993:0x1b349860bb376b3b
+  - name: >-
+      places/ChIJk5k9kQi1RIYRO2s3u2CYNBs/reviews/ChZDSUhNMG9nS0VJQ0FnTUNBak16UWVREAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 4
+    text:
+      text: >-
+        Overall a decent sushi restaurant with fresh ingredients. However, I
+        just can’t give 5 stars to a Japanese restaurant which uses fake wasabi
+        (colored horseradish with some seasoning). Also no (obvious) dedicated
+        parking… the “free street parking” is just never available because it’s
+        close to 6th street - good luck finding where to park
+      languageCode: en
+    originalText:
+      text: >-
+        Overall a decent sushi restaurant with fresh ingredients. However, I
+        just can’t give 5 stars to a Japanese restaurant which uses fake wasabi
+        (colored horseradish with some seasoning). Also no (obvious) dedicated
+        parking… the “free street parking” is just never available because it’s
+        close to 6th street - good luck finding where to park
+      languageCode: en
+    authorAttribution:
+      displayName: Anton S.
+      uri: https://www.google.com/maps/contrib/118018933681888379139/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUWwYyXm9QC53xdcYQo-cbblrDEM65S8LQ4a-wTQnPh1lJMK5pA=s128-c0x00000000-cc-rp-mo-ba7
+    publishTime: '2025-01-29T23:56:35.074757Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNBak16UWVREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNBak16UWVREAE!2m1!1s0x8644b508913d9993:0x1b349860bb376b3b
+  - name: >-
+      places/ChIJk5k9kQi1RIYRO2s3u2CYNBs/reviews/ChZDSUhNMG9nS0VJQ0FnSUNYd0xXdENnEAE
+    relativePublishTimeDescription: 6 months ago
+    rating: 5
+    text:
+      text: >-
+        This is my second time here and it was delicious. We came for happy hour
+        and got to try a bunch of things at good price. The pizza with the
+        truffle oil is a must. The bacon wrapped scallops hit the spot. I must
+        return to taste all the Nigiri options. Everything was fresh and melted
+        in my mouth. The tempura cheesecake dessert was a perfect way to finish
+        the evening. The drinks were tasty and strong.
+      languageCode: en
+    originalText:
+      text: >-
+        This is my second time here and it was delicious. We came for happy hour
+        and got to try a bunch of things at good price. The pizza with the
+        truffle oil is a must. The bacon wrapped scallops hit the spot. I must
+        return to taste all the Nigiri options. Everything was fresh and melted
+        in my mouth. The tempura cheesecake dessert was a perfect way to finish
+        the evening. The drinks were tasty and strong.
+      languageCode: en
+    authorAttribution:
+      displayName: Karina Maldonado
+      uri: https://www.google.com/maps/contrib/102221301587652315116/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjX6Xf0-eFlbk92C43JwP1fsNEKoxn5574XkyUlwvZyfmw1pQ_8=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-10-12T05:55:59.764593Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNYd0xXdENnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNYd0xXdENnEAE!2m1!1s0x8644b508913d9993:0x1b349860bb376b3b
+  - name: >-
+      places/ChIJk5k9kQi1RIYRO2s3u2CYNBs/reviews/ChdDSUhNMG9nS0VJQ0FnTUNRbktuWWtnRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        Food was good. Had a mocktail, a sushi roll and the creme brulee for
+        dessert. Enjoyed every bite.
+      languageCode: en
+    originalText:
+      text: >-
+        Food was good. Had a mocktail, a sushi roll and the creme brulee for
+        dessert. Enjoyed every bite.
+      languageCode: en
+    authorAttribution:
+      displayName: Brenda
+      uri: https://www.google.com/maps/contrib/107585476333545109282/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVrtSjuG6egRxJ4cLwBT_TJaSUjpTUJRsB9D4krg3Hg1wnF1tH4=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-02T20:26:42.589121Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNRbktuWWtnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNRbktuWWtnRRAB!2m1!1s0x8644b508913d9993:0x1b349860bb376b3b
+  - name: >-
+      places/ChIJk5k9kQi1RIYRO2s3u2CYNBs/reviews/ChdDSUhNMG9nS0VJQ0FnTURRdGVLNi1RRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        We had an excellent time at BarChi Sushi. The atmosphere is high-end and
+        most of the dishes were really good. The hamachi was surprisingly not
+        very flavorful, but everything else was definitely 5 star.
+
+
+        We went on a Sunday and they had all day happy hour so the bill was
+        really affordable. Great experience!!
+      languageCode: en
+    originalText:
+      text: >-
+        We had an excellent time at BarChi Sushi. The atmosphere is high-end and
+        most of the dishes were really good. The hamachi was surprisingly not
+        very flavorful, but everything else was definitely 5 star.
+
+
+        We went on a Sunday and they had all day happy hour so the bill was
+        really affordable. Great experience!!
+      languageCode: en
+    authorAttribution:
+      displayName: Dan Magstadt
+      uri: https://www.google.com/maps/contrib/105273982297788483741/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVpflFbGLAV7VpdLW-v6ftcM-KlhPvKbDVuOyafWznOy50UihFp4w=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-03-12T19:22:13.346779Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURRdGVLNi1RRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURRdGVLNi1RRRAB!2m1!1s0x8644b508913d9993:0x1b349860bb376b3b
+review_summary: >-
+  What Customers Are Saying$$$Visitors often highlight the fantastic happy hour
+  deals at this sushi spot, praising the wide array of affordable appetizers and
+  fresh rolls that deliver great value and taste. Many enjoy the overall quality
+  of the food, with dishes noted for their freshness and ability to satisfy
+  cravings for Japanese flavors. The atmosphere gets thumbs up for its romantic
+  and chill vibe, making it a solid pick for casual outings or dates. While a
+  few mention occasional slowdowns in service, the positives like delicious
+  selections and welcoming feel keep the feedback upbeat. If you're on the hunt
+  for reliable sushi places nearby, this location frequently earns nods for its
+  enjoyable dining experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+curbside_pickup: true
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Sushi, small plates & happy-hour specials on rolls & drinks are served in a
+  modern setting.
 
 ---

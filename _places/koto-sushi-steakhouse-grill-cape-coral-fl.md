@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Koto Sushi & Steakhouse Grill"
+title: Koto Sushi & Steakhouse Grill
 permalink: /florida/cape-coral/koto-sushi-steakhouse-grill.html
 stateAbbr: FL
 stateName: Florida
 cityName: Cape Coral
 seo:
-  name: "Koto Sushi & Steakhouse Grill"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Koto Sushi & Steakhouse Grill serves delicious sushi in Cape Coral, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ6zM9_eZD24gRuroNqyFOh4M
 photos:
   - name: >-
@@ -185,7 +183,39 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Koto Sushi & Steakhouse in Cape Coral$$$Koto Sushi & Steakhouse Grill
+  in Cape Coral, FL, offers a welcoming spot for savoring fresh sushi and
+  grilled favorites in a cozy Japanese-inspired setting. The restaurant
+  emphasizes accessibility with features like easy parking and entrances, making
+  it convenient for all diners to enjoy their meals. It highlights traditional
+  flavors through a variety of well-prepared dishes, perfect for casual outings
+  or gatherings with friends. Whether you're exploring sushi options or
+  steakhouse classics, this spot stands out for its relaxed vibe and thoughtful
+  design, appealing to those seeking authentic Japanese cuisine nearby.
+generative_summary: >-
+  Discover Koto Sushi & Steakhouse in Cape Coral$$$Koto Sushi & Steakhouse Grill
+  in Cape Coral, FL, offers a welcoming spot for savoring fresh sushi and
+  grilled favorites in a cozy Japanese-inspired setting. The restaurant
+  emphasizes accessibility with features like easy parking and entrances, making
+  it convenient for all diners to enjoy their meals. It highlights traditional
+  flavors through a variety of well-prepared dishes, perfect for casual outings
+  or gatherings with friends. Whether you're exploring sushi options or
+  steakhouse classics, this spot stands out for its relaxed vibe and thoughtful
+  design, appealing to those seeking authentic Japanese cuisine nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying About Koto Sushi$$$Folks frequently highlight the
+  fresh and tasty sushi rolls as a standout feature, noting how the ingredients
+  bring out bold flavors that keep them coming back. Many appreciate the
+  inviting atmosphere and efficient service, which make for a comfortable dining
+  experience without any fuss. While some mention minor waits during peak times,
+  the overall consensus leans positive, with praise for the variety of options
+  that cater to different tastes. It's often recommended as a solid choice for
+  anyone hunting for reliable Japanese spots, helping it maintain a reputation
+  as one of the go-to sushi restaurants in the area.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +241,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Nara"
+title: Sushi Nara
 permalink: /california/morgan-hill/sushi-nara.html
 stateAbbr: CA
 stateName: California
 cityName: Morgan Hill
 seo:
-  name: "Sushi Nara"
-  type: Restaurant
+  type: restaurant
   links: https://sushinaraca.com/
-description: "Sushi Nara serves delicious sushi in Morgan Hill, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJbfMDB28gjoARnz_MK8ZS_xQ
 photos:
   - name: >-
@@ -170,7 +168,97 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x808e206f0703f36d:0x14ff52c62bcc3f9f!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 20
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 2:30 PM, 5:00 – 8:30 PM'
     - 'Tuesday: 11:30 AM – 2:30 PM, 5:00 – 8:30 PM'
     - 'Wednesday: 11:30 AM – 2:30 PM, 5:00 – 8:30 PM'
@@ -178,14 +266,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
     - 'Saturday: 5:00 – 9:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:30 AM – 2:30 PM, 5:00 – 8:30 PM'
-    - 'Tuesday: 11:30 AM – 2:30 PM, 5:00 – 8:30 PM'
-    - 'Wednesday: 11:30 AM – 2:30 PM, 5:00 – 8:30 PM'
-    - 'Thursday: 11:30 AM – 2:30 PM, 5:00 – 8:30 PM'
-    - 'Friday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
-    - 'Saturday: 5:00 – 9:00 PM'
-    - 'Sunday: Closed'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +278,248 @@ phone: (408) 782-7939
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.4'
-rating_count: 0
+rating_count: 222
 website: https://sushinaraca.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Sushi Nara in Morgan Hill, CA$$$Nestled in the heart of Morgan Hill,
+  CA, Sushi Nara stands out as a welcoming sushi restaurant offering fresh and
+  flavorful Japanese cuisine in a casual setting. This spot is ideal for those
+  seeking sushi options near you, with highlights including creative wraps made
+  from seaweed or cucumber that cater to various preferences. The restaurant
+  boasts accessibility features like wheelchair-friendly entrances and parking,
+  making it easy for everyone to enjoy a meal. Families will appreciate the
+  kid-friendly menu and moderate pricing, perfect for a relaxed dining
+  experience. Whether you're looking for top-rated sushi places in the area,
+  Sushi Nara combines quality ingredients with a cozy atmosphere to satisfy your
+  cravings.
+generative_summary: >-
+  Discover Sushi Nara in Morgan Hill, CA$$$Nestled in the heart of Morgan Hill,
+  CA, Sushi Nara stands out as a welcoming sushi restaurant offering fresh and
+  flavorful Japanese cuisine in a casual setting. This spot is ideal for those
+  seeking sushi options near you, with highlights including creative wraps made
+  from seaweed or cucumber that cater to various preferences. The restaurant
+  boasts accessibility features like wheelchair-friendly entrances and parking,
+  making it easy for everyone to enjoy a meal. Families will appreciate the
+  kid-friendly menu and moderate pricing, perfect for a relaxed dining
+  experience. Whether you're looking for top-rated sushi places in the area,
+  Sushi Nara combines quality ingredients with a cozy atmosphere to satisfy your
+  cravings.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJbfMDB28gjoARnz_MK8ZS_xQ/reviews/ChZDSUhNMG9nS0VJQ0FnSUR6aXNLUVBREAE
+    relativePublishTimeDescription: 10 months ago
+    rating: 4
+    text:
+      text: >-
+        Family dinner place, beef teriyaki was ok, salad was fresh, sushi was
+        good. Cleaning the tables without pushing a trash cart would be much
+        nicer.
+      languageCode: en
+    originalText:
+      text: >-
+        Family dinner place, beef teriyaki was ok, salad was fresh, sushi was
+        good. Cleaning the tables without pushing a trash cart would be much
+        nicer.
+      languageCode: en
+    authorAttribution:
+      displayName: Arwed Niestroj
+      uri: https://www.google.com/maps/contrib/109785642430360806146/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIAONgQpbCb2fqENFYLjN0wmY3vW2Tkh0OcW5Gd0nUXY5UJuw=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2024-06-09T03:49:30.129523Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR6aXNLUVBREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR6aXNLUVBREAE!2m1!1s0x808e206f0703f36d:0x14ff52c62bcc3f9f
+  - name: >-
+      places/ChIJbfMDB28gjoARnz_MK8ZS_xQ/reviews/ChdDSUhNMG9nS0VJQ0FnSURQaGZqbHdnRRAB
+    relativePublishTimeDescription: 5 months ago
+    rating: 1
+    text:
+      text: >-
+        My friend and I dined at this restaurant for the first time last night.
+        Upon our arrival at approximately 5:30 PM, we noticed that only a few
+        small tables were occupied, with around ten to twelve customers present.
+        At 5:35 PM, a server came to take my order for teriyaki beef and
+        teriyaki salmon, while my friend chose udon. Surprisingly, he did not
+        record our orders but went directly to the kitchen.
+
+        After a twenty-minute of wait, more patrons arrived, including a couple
+        to my right, another to my left, and a few individuals in the corner and
+        behind us. Within ten minutes of ordering, their food was served.
+        Meanwhile, we had already waited for thirty minutes without receiving
+        our meals.
+
+        After waiting an additional fifteen minutes, still with no food in
+        sight, I approached the server to inquire about the delay. Without
+        checking with the kitchen, he simply stated that our food was on its
+        way, even though other customers who had arrived later had already been
+        served and some were finishing their meals.
+
+        We waited an additional five minutes, but our dishes still had not
+        arrived. Frustrated by the experience, I suggested to my friend that we
+        should stand up and leave the restaurant and that we would never come
+        back here again. It was the worst dining experience we've had at this
+        place.
+      languageCode: en
+    originalText:
+      text: >-
+        My friend and I dined at this restaurant for the first time last night.
+        Upon our arrival at approximately 5:30 PM, we noticed that only a few
+        small tables were occupied, with around ten to twelve customers present.
+        At 5:35 PM, a server came to take my order for teriyaki beef and
+        teriyaki salmon, while my friend chose udon. Surprisingly, he did not
+        record our orders but went directly to the kitchen.
+
+        After a twenty-minute of wait, more patrons arrived, including a couple
+        to my right, another to my left, and a few individuals in the corner and
+        behind us. Within ten minutes of ordering, their food was served.
+        Meanwhile, we had already waited for thirty minutes without receiving
+        our meals.
+
+        After waiting an additional fifteen minutes, still with no food in
+        sight, I approached the server to inquire about the delay. Without
+        checking with the kitchen, he simply stated that our food was on its
+        way, even though other customers who had arrived later had already been
+        served and some were finishing their meals.
+
+        We waited an additional five minutes, but our dishes still had not
+        arrived. Frustrated by the experience, I suggested to my friend that we
+        should stand up and leave the restaurant and that we would never come
+        back here again. It was the worst dining experience we've had at this
+        place.
+      languageCode: en
+    authorAttribution:
+      displayName: Brian T*
+      uri: https://www.google.com/maps/contrib/103230214161110876393/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJHKi2-Cl2Oluj4x0kFUhjHzFK3StBWsT0JFk67-vnJYofT6j4=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-12-04T03:54:00.715470Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURQaGZqbHdnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURQaGZqbHdnRRAB!2m1!1s0x808e206f0703f36d:0x14ff52c62bcc3f9f
+  - name: >-
+      places/ChIJbfMDB28gjoARnz_MK8ZS_xQ/reviews/ChZDSUhNMG9nS0VJQ0FnSUNsc2FmS09REAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        No people at Monday 11:59am!!!!
+
+        Teriyaki chicken with tempura bento box was around $18.50 plus tips
+        $21.50. Bento box includes salad, rice, and miso soup. Good deal to me!
+        Would totally come back to try other bento boxes :))))
+      languageCode: en
+    originalText:
+      text: >-
+        No people at Monday 11:59am!!!!
+
+        Teriyaki chicken with tempura bento box was around $18.50 plus tips
+        $21.50. Bento box includes salad, rice, and miso soup. Good deal to me!
+        Would totally come back to try other bento boxes :))))
+      languageCode: en
+    authorAttribution:
+      displayName: mars gemini
+      uri: https://www.google.com/maps/contrib/101713187877978609082/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUmvK_P86XYvLOWq0fzzNqz24r9arm4dgTHzIx-7lZsQOzltPwG=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2023-11-21T01:29:28.123Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNsc2FmS09REAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNsc2FmS09REAE!2m1!1s0x808e206f0703f36d:0x14ff52c62bcc3f9f
+  - name: >-
+      places/ChIJbfMDB28gjoARnz_MK8ZS_xQ/reviews/ChdDSUhNMG9nS0VJQ0FnTURBenJpSDZ3RRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: My fav place!
+      languageCode: en
+    originalText:
+      text: My fav place!
+      languageCode: en
+    authorAttribution:
+      displayName: Areli Lopez
+      uri: https://www.google.com/maps/contrib/118125391354657081001/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXAeaKHo4pc9IqoOyHzaxloZQcGMu5tDDRhumQG5DEaAeQqunj9tw=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-02-09T01:31:39.623346Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURBenJpSDZ3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURBenJpSDZ3RRAB!2m1!1s0x808e206f0703f36d:0x14ff52c62bcc3f9f
+  - name: >-
+      places/ChIJbfMDB28gjoARnz_MK8ZS_xQ/reviews/ChZDSUhNMG9nS0VJQ0FnSURvLUxuX1JREAE
+    relativePublishTimeDescription: 6 years ago
+    rating: 5
+    text:
+      text: >-
+        Went here Friday night. Place is nice and clean. Food is delicious!
+        Prices are decent. Would return for the baked sushi!!!
+      languageCode: en
+    originalText:
+      text: >-
+        Went here Friday night. Place is nice and clean. Food is delicious!
+        Prices are decent. Would return for the baked sushi!!!
+      languageCode: en
+    authorAttribution:
+      displayName: Dominique Guerrero
+      uri: https://www.google.com/maps/contrib/114726054567624778298/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVK6CgxZCk7gw4QIX8PBQx0VFF6rYL5je9CDr5SPSQ30Wcybf_zXQ=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2019-03-11T23:21:16.759510Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURvLUxuX1JREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURvLUxuX1JREAE!2m1!1s0x808e206f0703f36d:0x14ff52c62bcc3f9f
+review_summary: >-
+  What Customers Are Saying About This Local Sushi Favorite$$$Visitors to this
+  sushi restaurant often praise the fresh and tasty dishes, with many
+  highlighting the delicious sushi rolls and bento boxes as standout choices for
+  a satisfying meal. While some folks mention occasional waits during busy
+  times, the overall experience is frequently described as worthwhile due to the
+  generous portions and good value. Feedback leans positive on the
+  family-friendly vibe and variety of options, making it a go-to spot for groups
+  or quick lunches. Even with a few service bumps, diners appreciate the
+  welcoming environment and plan to return for more, keeping things enjoyable
+  overall. If you're hunting for the best sushi near you, this place delivers a
+  solid mix of flavors and convenience that keeps customers coming back.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
+curbside_pickup: false
+delivery: false
+dine_in: true
+good_for_children: true
+good_for_groups: true
 good_for_sports: null
-live_music: null
-menu_for_children: null
+live_music: false
+menu_for_children: true
 outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: false
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

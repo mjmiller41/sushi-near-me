@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "AI Fusion Sushi & Grill"
+title: AI Fusion Sushi & Grill
 permalink: /michigan/east-lansing/ai-fusion-sushi-grill.html
 stateAbbr: MI
 stateName: Michigan
 cityName: East Lansing
 seo:
-  name: "AI Fusion Sushi & Grill"
-  type: Restaurant
+  type: restaurant
   links: http://ai-fusion.com/
-description: "Japanese & Korean fare, including sushi, is served in an airy space with Western & Asian elements. AI Fusion Sushi & Grill serves delicious sushi in East Lansing, Michigan. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJIVTKuajCIogR1fbN8Gd-gKg
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 0
 website: http://ai-fusion.com/
+description: >-
+  Discover AI Fusion Sushi & Grill in East Lansing, MI$$$Nestled in East
+  Lansing, MI, AI Fusion Sushi & Grill offers a delightful blend of Japanese and
+  Korean flavors in a welcoming, airy setting that combines Western and Asian
+  influences. This spot stands out for its fresh sushi selections, bento boxes,
+  and other traditional fare, making it a go-to choice for anyone craving
+  top-rated sushi near you. With daily happy-hour specials and a menu full of
+  generous portions at moderate prices, it's easy to see why it appeals to those
+  exploring sushi restaurants in the area. The restaurant also prioritizes
+  accessibility, featuring wheelchair-friendly options and a relaxed atmosphere
+  perfect for groups or families seeking Japanese places near me.
+generative_summary: >-
+  Discover AI Fusion Sushi & Grill in East Lansing, MI$$$Nestled in East
+  Lansing, MI, AI Fusion Sushi & Grill offers a delightful blend of Japanese and
+  Korean flavors in a welcoming, airy setting that combines Western and Asian
+  influences. This spot stands out for its fresh sushi selections, bento boxes,
+  and other traditional fare, making it a go-to choice for anyone craving
+  top-rated sushi near you. With daily happy-hour specials and a menu full of
+  generous portions at moderate prices, it's easy to see why it appeals to those
+  exploring sushi restaurants in the area. The restaurant also prioritizes
+  accessibility, featuring wheelchair-friendly options and a relaxed atmosphere
+  perfect for groups or families seeking Japanese places near me.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJIVTKuajCIogR1fbN8Gd-gKg/reviews/ChdDSUhNMG9nS0VJQ0FnSUNyOG8tNWp3RRAB
@@ -338,6 +359,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNRdVlPY3VnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNRdVlPY3VnRRAB!2m1!1s0x8822c2a8b9ca5421:0xa8807e67f0cdf6d5
+review_summary: >-
+  What Customers Are Sharing About the Experience$$$Visitors often rave about
+  the fresh and flavorful sushi that keeps them coming back for more,
+  highlighting it as one of the best options around for a satisfying meal. Many
+  appreciate the reasonable prices and generous portions, especially with lunch
+  specials and deals that make it a smart pick for everyday dining. While
+  service is generally friendly and efficient, some note that it can get a bit
+  rushed during peak times, though this doesn't overshadow the overall positive
+  vibes. All in all, folks enjoy the clean environment and variety of choices,
+  making it a solid spot for anyone hunting for quality sushi close to me. If
+  you're in the mood for reliable Japanese cuisine, this place delivers a
+  consistently enjoyable experience that lives up to its reputation.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   valetParking: false
@@ -369,8 +403,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Japanese & Korean fare, including sushi, is served in an airy space with
   Western & Asian elements.
 

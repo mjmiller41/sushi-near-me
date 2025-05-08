@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Got Sushi?"
+title: Got Sushi?
 permalink: /arizona/mesa/got-sushi.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Mesa
 seo:
-  name: "Got Sushi?"
-  type: Restaurant
+  type: restaurant
   links: http://www.gotsushimesa.com/
-description: "Got Sushi? serves delicious sushi in Mesa, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJQeZXdCSlK4cReJ3Z7eP0rQ4
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x872ba5247457e641:0xeadf4e3edd99d78!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:00 PM'
     - 'Tuesday: Closed'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -178,54 +226,385 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:00 PM'
     - 'Saturday: 12:00 – 10:00 PM'
     - 'Sunday: 12:00 – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:00 PM'
-    - 'Tuesday: Closed'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 10:00 PM'
-    - 'Saturday: 12:00 – 10:00 PM'
-    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T05:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 0
+        close:
+          day: 0
+          hour: 17
+          minute: 0
+      - open:
+          day: 1
+          hour: 11
+          minute: 0
+        close:
+          day: 1
+          hour: 17
+          minute: 0
+      - open:
+          day: 2
+          hour: 11
+          minute: 0
+        close:
+          day: 2
+          hour: 17
+          minute: 0
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 17
+          minute: 0
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 17
+          minute: 0
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 17
+          minute: 0
+      - open:
+          day: 6
+          hour: 12
+          minute: 0
+        close:
+          day: 6
+          hour: 17
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 11:00 AM – 5:00 PM'
+      - 'Tuesday: 11:00 AM – 5:00 PM'
+      - 'Wednesday: 11:00 AM – 5:00 PM'
+      - 'Thursday: 11:00 AM – 5:00 PM'
+      - 'Friday: 11:00 AM – 5:00 PM'
+      - 'Saturday: 12:00 – 5:00 PM'
+      - 'Sunday: 12:00 – 5:00 PM'
+    secondaryHoursType: HAPPY_HOUR
+    nextCloseTime: '2025-05-04T00:00:00Z'
 phone: (480) 807-8500
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.4'
-rating_count: 0
+rating_count: 738
 website: http://www.gotsushimesa.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Got Sushi? in Mesa, Arizona$$$Got Sushi? in Mesa, AZ, stands out as a
+  welcoming spot for those seeking fresh sushi and Asian-inspired dishes in a
+  relaxed setting. This casual venue offers a variety of options including
+  Korean BBQ, sushi rolls, and Chinese favorites, making it a versatile choice
+  for diners looking to explore flavorful, authentic tastes without breaking the
+  bank. With happy-hour specials and a focus on quality ingredients, it's an
+  ideal stop for anyone craving a satisfying meal that combines traditional
+  elements with everyday convenience. The restaurant also provides accessible
+  features like wheelchair-friendly entrances and parking, enhancing the overall
+  experience for all visitors. Whether you're in the mood for a quick bite or a
+  leisurely dinner, this sushi spot delivers a blend of affordability and taste
+  that keeps locals coming back.
+generative_summary: >-
+  Discover Got Sushi? in Mesa, Arizona$$$Got Sushi? in Mesa, AZ, stands out as a
+  welcoming spot for those seeking fresh sushi and Asian-inspired dishes in a
+  relaxed setting. This casual venue offers a variety of options including
+  Korean BBQ, sushi rolls, and Chinese favorites, making it a versatile choice
+  for diners looking to explore flavorful, authentic tastes without breaking the
+  bank. With happy-hour specials and a focus on quality ingredients, it's an
+  ideal stop for anyone craving a satisfying meal that combines traditional
+  elements with everyday convenience. The restaurant also provides accessible
+  features like wheelchair-friendly entrances and parking, enhancing the overall
+  experience for all visitors. Whether you're in the mood for a quick bite or a
+  leisurely dinner, this sushi spot delivers a blend of affordability and taste
+  that keeps locals coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJQeZXdCSlK4cReJ3Z7eP0rQ4/reviews/ChdDSUhNMG9nS0VJQ0FnSUM3dlBiTnFnRRAB
+    relativePublishTimeDescription: 5 months ago
+    rating: 4
+    text:
+      text: >-
+        To begin, the soup was excellent. Eel and crab sushi arrived with
+        dumplings commencing what quickly became a feast of fried rice,
+        vegetables, chicken, and even a few pieces of octopus. My dining
+        companion and I were famished and everything tasted good, especially the
+        sushi and cucumbers. The service was kind and the experience was
+        enjoyable overall. Not too crowded but not empty.
+
+
+        The music was too loud and was rather obnoxious, as it did not seem to
+        belong in this kind of venue. They would do better to establish a mood
+        with some traditional asiatic music or something less blaring and
+        intrusive.
+
+
+        I'd return to this location, although I can't say I was highly
+        impressed, nor disappointed. It presents an option for the area. The
+        food is standard in numerous ways but it is also done with care and had
+        excellent taste. It was not so good that I would necessarily order the
+        same thing again, but good enough to return and try other options.
+
+
+        Upon returning the impression seemed to dwindle a bit. The food is worth
+        a try but I'm not sure how often I'd return.
+      languageCode: en
+    originalText:
+      text: >-
+        To begin, the soup was excellent. Eel and crab sushi arrived with
+        dumplings commencing what quickly became a feast of fried rice,
+        vegetables, chicken, and even a few pieces of octopus. My dining
+        companion and I were famished and everything tasted good, especially the
+        sushi and cucumbers. The service was kind and the experience was
+        enjoyable overall. Not too crowded but not empty.
+
+
+        The music was too loud and was rather obnoxious, as it did not seem to
+        belong in this kind of venue. They would do better to establish a mood
+        with some traditional asiatic music or something less blaring and
+        intrusive.
+
+
+        I'd return to this location, although I can't say I was highly
+        impressed, nor disappointed. It presents an option for the area. The
+        food is standard in numerous ways but it is also done with care and had
+        excellent taste. It was not so good that I would necessarily order the
+        same thing again, but good enough to return and try other options.
+
+
+        Upon returning the impression seemed to dwindle a bit. The food is worth
+        a try but I'm not sure how often I'd return.
+      languageCode: en
+    authorAttribution:
+      displayName: John Nichols III
+      uri: https://www.google.com/maps/contrib/114350449831431478425/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXClG1eEBGbkctBkum_KFW-eom0IpYhg4q9KKAouU7DGoWXHK9t=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-11-14T06:58:56.767578Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUM3dlBiTnFnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUM3dlBiTnFnRRAB!2m1!1s0x872ba5247457e641:0xeadf4e3edd99d78
+  - name: >-
+      places/ChIJQeZXdCSlK4cReJ3Z7eP0rQ4/reviews/ChZDSUhNMG9nS0VJQ0FnSUMzdmVxcURBEAE
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        Did you know that the word Teppanyaki in Japanese means ‘splash hot oil
+        in customer’s eye?
+
+
+        Although Got Sushi tossed out its much beloved teppanyaki tables (and
+        chefs) ages ago, the cuisine and customer service still SIZZLE!
+
+
+        So after hittin’ the ballot box and pounding down two Whopper Junior
+        appetizers at BK, I was ready for a REAL meal. And I found it at Got
+        Sushi!
+
+
+        The tall bottle of Kirin (not Japanese?) and Lemon Chicken Bento box
+        instantly made life worth living again.
+
+
+        Gochisosama deshita!
+      languageCode: en
+    originalText:
+      text: >-
+        Did you know that the word Teppanyaki in Japanese means ‘splash hot oil
+        in customer’s eye?
+
+
+        Although Got Sushi tossed out its much beloved teppanyaki tables (and
+        chefs) ages ago, the cuisine and customer service still SIZZLE!
+
+
+        So after hittin’ the ballot box and pounding down two Whopper Junior
+        appetizers at BK, I was ready for a REAL meal. And I found it at Got
+        Sushi!
+
+
+        The tall bottle of Kirin (not Japanese?) and Lemon Chicken Bento box
+        instantly made life worth living again.
+
+
+        Gochisosama deshita!
+      languageCode: en
+    authorAttribution:
+      displayName: likemindscreative
+      uri: https://www.google.com/maps/contrib/102373271829640422908/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWyRMRVQcFdzGKoJ7LZtgubgUU8qancya4454cNyy-b3MP5yXrM=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-11-09T15:08:54.078771Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUMzdmVxcURBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUMzdmVxcURBEAE!2m1!1s0x872ba5247457e641:0xeadf4e3edd99d78
+  - name: >-
+      places/ChIJQeZXdCSlK4cReJ3Z7eP0rQ4/reviews/ChZDSUhNMG9nS0VJQ0FnSUNUbGZxMkVBEAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 4
+    text:
+      text: >-
+        This place has been around for a long time. Sushi here is really good.
+        Unfortunately, other alternate options like the chinese food are alright
+        but expensive. Mind as well spend more money on the 🍣.
+
+
+        This place can honestly use some renovations. There are a lot of people
+        order takeout here rather than coming in. It's probably best to enjoy
+        their sushi fresh from the bar and talk to very friendly people at the
+        sushi bar. They're also very fast. I think they changed the owner a few
+        years back, and that explains the poor customer service. It's a shame
+        because this place was alive and filled with people when I visited in
+        the past. Now it's kind of a ghost town and a place to order takeout.
+        The alcohol bar is covered in takeout plastic bags and containers. One
+        of the table near the bar is a financial office for this old lady doing
+        paperwork while people are awkwardly eating in the same room lol.
+      languageCode: en
+    originalText:
+      text: >-
+        This place has been around for a long time. Sushi here is really good.
+        Unfortunately, other alternate options like the chinese food are alright
+        but expensive. Mind as well spend more money on the 🍣.
+
+
+        This place can honestly use some renovations. There are a lot of people
+        order takeout here rather than coming in. It's probably best to enjoy
+        their sushi fresh from the bar and talk to very friendly people at the
+        sushi bar. They're also very fast. I think they changed the owner a few
+        years back, and that explains the poor customer service. It's a shame
+        because this place was alive and filled with people when I visited in
+        the past. Now it's kind of a ghost town and a place to order takeout.
+        The alcohol bar is covered in takeout plastic bags and containers. One
+        of the table near the bar is a financial office for this old lady doing
+        paperwork while people are awkwardly eating in the same room lol.
+      languageCode: en
+    authorAttribution:
+      displayName: TheSpectradude
+      uri: https://www.google.com/maps/contrib/106275105160560805354/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXmMyYYBqibAap8w1RW6UZ3Y4h211J91W8E1On67qwLeOI2RLc=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-01-14T19:30:17.902233Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNUbGZxMkVBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNUbGZxMkVBEAE!2m1!1s0x872ba5247457e641:0xeadf4e3edd99d78
+  - name: >-
+      places/ChIJQeZXdCSlK4cReJ3Z7eP0rQ4/reviews/ChZDSUhNMG9nS0VJQ0FnSURKNEpXUUVBEAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        Really great service fast and friendly! Miso soup came complimentary.
+        The edamame was fresh and steamed perfectly. The sushi chef helped me
+        pick out which rolls I would like best! Loved all 7 of them! Had my
+        birthday dinner here and came out with green tea icecream! So happy and
+        wonderful! My new favorite place for sushi and for a birthday dinner.
+      languageCode: en
+    originalText:
+      text: >-
+        Really great service fast and friendly! Miso soup came complimentary.
+        The edamame was fresh and steamed perfectly. The sushi chef helped me
+        pick out which rolls I would like best! Loved all 7 of them! Had my
+        birthday dinner here and came out with green tea icecream! So happy and
+        wonderful! My new favorite place for sushi and for a birthday dinner.
+      languageCode: en
+    authorAttribution:
+      displayName: Brandi Martinez
+      uri: https://www.google.com/maps/contrib/113993791666083112219/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWXt9wcPhSbtKzcd7VVRCoGaQtytr4BgWRbpxwYkxT8NH2Sd3Q=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2023-07-09T01:02:41.334379Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURKNEpXUUVBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURKNEpXUUVBEAE!2m1!1s0x872ba5247457e641:0xeadf4e3edd99d78
+  - name: >-
+      places/ChIJQeZXdCSlK4cReJ3Z7eP0rQ4/reviews/ChdDSUhNMG9nS0VJQ0FnSUNsMXVLSWx3RRAB
+    relativePublishTimeDescription: a year ago
+    rating: 4
+    text:
+      text: >-
+        Good sushi at a good price. They also have some tasty hot dishes. Save a
+        few dollars by checking out their happy hour. The pics I am adding were
+        played by me and all food was purchased to go at Got Sushi.
+      languageCode: en
+    originalText:
+      text: >-
+        Good sushi at a good price. They also have some tasty hot dishes. Save a
+        few dollars by checking out their happy hour. The pics I am adding were
+        played by me and all food was purchased to go at Got Sushi.
+      languageCode: en
+    authorAttribution:
+      displayName: Renny Mitchell
+      uri: https://www.google.com/maps/contrib/110184960648309700440/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVOjBSEL2wU6C7l0CTvN-miEEco33fq3t2nA1oGGRY7e4GVozYYhA=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2023-11-17T22:00:59.564075Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNsMXVLSWx3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNsMXVLSWx3RRAB!2m1!1s0x872ba5247457e641:0xeadf4e3edd99d78
+review_summary: >-
+  What People Are Saying About the Food and Service$$$Visitors to this sushi
+  restaurant often rave about the fresh, well-prepared rolls and generous
+  portions that make for a satisfying meal without overspending. Many appreciate
+  the friendly service and speedy preparation, especially during happy hour when
+  deals add extra value to the experience. While some note that the atmosphere
+  could use a refresh to feel more vibrant, the overall consensus highlights the
+  tasty hot dishes and sushi as standout features worth trying. Folks generally
+  find it a solid option for casual dining, with positive mentions of
+  complimentary items like miso soup adding to the appeal. All in all, it's a
+  go-to spot for sushi enthusiasts looking for reliable quality and a welcoming
+  vibe, though a few suggest exploring other menu items for the best results.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
 good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+live_music: false
+menu_for_children: true
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Japanese-style steak & seafood cooked at traditional tableside teppanyaki
+  grills & a full sushi bar.
 
 ---

@@ -5,4 +5,5 @@ permalink: /minnesota/north-oaks/
 stateAbbr: MN
 stateName: Minnesota
 cityName: North Oaks
+
 ---

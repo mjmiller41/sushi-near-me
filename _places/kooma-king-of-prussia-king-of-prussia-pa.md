@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kooma - King of Prussia"
+title: Kooma - King of Prussia
 permalink: /pennsylvania/king-of-prussia/kooma-king-of-prussia.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: King of Prussia
 seo:
-  name: "Kooma - King of Prussia"
-  type: Restaurant
+  type: restaurant
   links: http://koomakop.com/
-description: "Kooma - King of Prussia serves delicious sushi in King of Prussia, Pennsylvania. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJA4OZqVSVxokRJdPX9NTOu8Y
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c69554a9998303:0xc6bbced4f4d7d325!10e5
 primary_type: Asian Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 23
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 10:00 PM'
     - 'Tuesday: 11:30 AM – 10:00 PM'
     - 'Wednesday: 11:30 AM – 10:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 11:00 PM'
     - 'Saturday: 11:30 AM – 11:00 PM'
     - 'Sunday: 12:30 – 9:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 10:00 PM'
-    - 'Tuesday: 11:30 AM – 10:00 PM'
-    - 'Wednesday: 11:30 AM – 10:00 PM'
-    - 'Thursday: 11:30 AM – 11:00 PM'
-    - 'Friday: 11:30 AM – 11:00 PM'
-    - 'Saturday: 11:30 AM – 11:00 PM'
-    - 'Sunday: 12:30 – 9:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +246,49 @@ phone: (484) 681-5593
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.2'
-rating_count: 0
+rating_count: 653
 website: http://koomakop.com/
+description: >-
+  Discover Kooma in King of Prussia, PA$$$Kooma in King of Prussia, PA, stands
+  out as a vibrant Asian fusion spot nestled in the lively King of Prussia Town
+  Center, blending modern ambiance with a menu that highlights creative
+  beverages and fresh flavors. This restaurant offers an array of inventive
+  cocktails, beers, and sakes that pair perfectly with its diverse selection of
+  dishes, making it a go-to choice for those seeking top-rated sushi options in
+  the area. The accessible design ensures a welcoming environment for all
+  visitors, with thoughtful features that enhance the overall dining experience.
+  Its convenient location and extended hours add to the appeal for locals and
+  travelers alike, providing an ideal spot for casual meals or special
+  occasions. Whether you're exploring sushi restaurants near you or looking for
+  Japanese-inspired places, Kooma delivers a stylish and flavorful escape.
+generative_summary: >-
+  Discover Kooma in King of Prussia, PA$$$Kooma in King of Prussia, PA, stands
+  out as a vibrant Asian fusion spot nestled in the lively King of Prussia Town
+  Center, blending modern ambiance with a menu that highlights creative
+  beverages and fresh flavors. This restaurant offers an array of inventive
+  cocktails, beers, and sakes that pair perfectly with its diverse selection of
+  dishes, making it a go-to choice for those seeking top-rated sushi options in
+  the area. The accessible design ensures a welcoming environment for all
+  visitors, with thoughtful features that enhance the overall dining experience.
+  Its convenient location and extended hours add to the appeal for locals and
+  travelers alike, providing an ideal spot for casual meals or special
+  occasions. Whether you're exploring sushi restaurants near you or looking for
+  Japanese-inspired places, Kooma delivers a stylish and flavorful escape.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Diners Are Buzzing About$$$Folks rave about the tasty sushi rolls and
+  other standout dishes at this Asian fusion eatery, with fresh options like
+  creative rolls and hearty bites bringing bold, vibrant flavors to the table.
+  Many highlight the friendly service and solid drink selection, including
+  Japanese whiskeys that elevate the meal without a hitch. While the food
+  consistently impresses with its quality and variety, some note that prices can
+  feel a bit steep for what you get, though it's often seen as worth it for the
+  experience. Overall, the atmosphere and offerings make it a solid pick for
+  groups or solo diners hunting for reliable sushi spots nearby. If you're on
+  the hunt for the best sushi near me, this place keeps things positive with its
+  mix of delicious eats and attentive vibes.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +314,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

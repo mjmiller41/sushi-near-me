@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sumo Sushi Maple Valley"
+title: Sumo Sushi Maple Valley
 permalink: /washington/maple-valley/sumo-sushi-maple-valley.html
 stateAbbr: WA
 stateName: Washington
 cityName: Maple Valley
 seo:
-  name: "Sumo Sushi Maple Valley"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sumo Sushi Maple Valley serves delicious sushi in Maple Valley, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJuYTAL11gkFQRbWjpYVJpgF4
 photos:
   - name: >-
@@ -185,7 +183,40 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Sumo Sushi in Maple Valley$$$Sumo Sushi Maple Valley in Maple Valley,
+  WA, offers a relaxed and inviting atmosphere for anyone craving authentic
+  Japanese flavors. This spot features an extensive selection of fresh sushi
+  rolls, hearty bento boxes, and classic dishes that appeal to a wide range of
+  tastes, making it a go-to choice for sushi enthusiasts in the area. With its
+  family-friendly vibe, it's ideal for casual meals or gatherings, emphasizing
+  accessibility and comfort for all diners. The menu highlights creative options
+  that blend traditional techniques with local inspirations, ensuring a
+  satisfying experience for those exploring sushi restaurants nearby.
+generative_summary: >-
+  Discover Sumo Sushi in Maple Valley$$$Sumo Sushi Maple Valley in Maple Valley,
+  WA, offers a relaxed and inviting atmosphere for anyone craving authentic
+  Japanese flavors. This spot features an extensive selection of fresh sushi
+  rolls, hearty bento boxes, and classic dishes that appeal to a wide range of
+  tastes, making it a go-to choice for sushi enthusiasts in the area. With its
+  family-friendly vibe, it's ideal for casual meals or gatherings, emphasizing
+  accessibility and comfort for all diners. The menu highlights creative options
+  that blend traditional techniques with local inspirations, ensuring a
+  satisfying experience for those exploring sushi restaurants nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$People really enjoy the tasty sushi and flavorful
+  chicken teriyaki at this laid-back Japanese spot, with standout rolls like the
+  signature specials adding a fun twist to every meal. The team here is super
+  friendly and always on point, helping make the whole experience feel welcoming
+  and smooth. Folks appreciate how quickly everything comes out, without
+  skimping on quality or presentation that makes the food look as good as it
+  tastes. Overall, it's a solid pick for anyone hunting for reliable sushi
+  places close by, blending fresh ingredients with efficient service to keep
+  customers coming back. If you're in the mood for dependable Japanese dining,
+  this location often hits the mark with its approachable vibe.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +242,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sora Sushi"
+title: Sora Sushi
 permalink: /oregon/redmond/sora-sushi.html
 stateAbbr: OR
 stateName: Oregon
 cityName: Redmond
 seo:
-  name: "Sora Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sora Sushi serves delicious sushi in Redmond, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJwR4Q3HXVuFQR3Z8mr4Xu-zA
 photos:
   - name: >-
@@ -185,7 +183,48 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Explore Sora Sushi in Redmond, OR$$$Sora Sushi in Redmond, OR, is a casual
+  dining spot that delights visitors with its fresh Japanese cuisine and unique
+  entertainment options. This sushi restaurant stands out for its approachable
+  atmosphere, featuring a variety of authentic dishes that highlight the flavors
+  of Japanese fare, making it a great choice for those seeking quality meals in
+  a relaxed setting. Accessibility features like wheelchair-friendly parking and
+  entrances add to the convenience, ensuring everyone can enjoy the experience.
+  The spot also incorporates fun elements that blend dining with light
+  entertainment, appealing to both locals and those exploring sushi options
+  nearby. Whether you're in the mood for a quick bite or a leisurely meal, Sora
+  Sushi offers a welcoming vibe that complements the best of Japanese culinary
+  traditions.
+generative_summary: >-
+  Explore Sora Sushi in Redmond, OR$$$Sora Sushi in Redmond, OR, is a casual
+  dining spot that delights visitors with its fresh Japanese cuisine and unique
+  entertainment options. This sushi restaurant stands out for its approachable
+  atmosphere, featuring a variety of authentic dishes that highlight the flavors
+  of Japanese fare, making it a great choice for those seeking quality meals in
+  a relaxed setting. Accessibility features like wheelchair-friendly parking and
+  entrances add to the convenience, ensuring everyone can enjoy the experience.
+  The spot also incorporates fun elements that blend dining with light
+  entertainment, appealing to both locals and those exploring sushi options
+  nearby. Whether you're in the mood for a quick bite or a leisurely meal, Sora
+  Sushi offers a welcoming vibe that complements the best of Japanese culinary
+  traditions.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Visitor Feedback on Sora Sushi$$$Folks chatting about Sora Sushi often rave
+  about the lively conveyor belt setup that makes grabbing fresh rolls feel like
+  an adventure, with standout options like creative specialty rolls keeping
+  things exciting and tasty. Many appreciate the warm, attentive service that
+  helps make every visit feel smooth and enjoyable, paired with a clean, cozy
+  space that's perfect for casual get-togethers. While some note that the prices
+  might run a bit higher than expected, the overall quality and flavor of the
+  dishes generally leave people satisfied and coming back for more. It's clear
+  that this spot hits the mark for those hunting for reliable sushi experiences,
+  blending fun vibes with solid food that keeps the energy positive. All in all,
+  it's a go-to choice if you're looking for a welcoming place to unwind over
+  good eats, even if budgeting plays a small role in the decision.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +250,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

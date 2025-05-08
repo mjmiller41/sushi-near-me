@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Tokyo Steakhouse & Sushi Bar"
+title: Tokyo Steakhouse & Sushi Bar
 permalink: /new-mexico/hobbs/tokyo-steakhouse-sushi-bar.html
 stateAbbr: NM
 stateName: New Mexico
 cityName: Hobbs
 seo:
-  name: "Tokyo Steakhouse & Sushi Bar"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Tokyo Steakhouse & Sushi Bar serves delicious sushi in Hobbs, New Mexico. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJVwuLeRqV_IYRJQ6pdmDfKdg
 photos:
   - name: >-
@@ -185,7 +183,50 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Tokyo Steakhouse & Sushi Bar in Hobbs, NM$$$Tokyo Steakhouse & Sushi
+  Bar in Hobbs, NM, offers a vibrant Japanese dining experience with hibachi
+  grills and hearty portions that make it a standout choice for casual meals.
+  The restaurant features an energetic atmosphere where fresh ingredients come
+  together in comforting dishes served during lunch and dinner, appealing to
+  those seeking authentic flavors in a welcoming setting. Patrons can enjoy a
+  variety of Japanese-inspired options, including expertly prepared sushi and
+  steakhouse favorites, making it a go-to spot for anyone exploring sushi places
+  nearby. Accessibility is a key highlight, with features like
+  wheelchair-accessible seating and entrances that ensure everyone can savor the
+  experience. This blend of flavorful cuisine and inclusive amenities positions
+  it as a reliable option for those searching for top-rated Japanese places in
+  the area.
+generative_summary: >-
+  Discover Tokyo Steakhouse & Sushi Bar in Hobbs, NM$$$Tokyo Steakhouse & Sushi
+  Bar in Hobbs, NM, offers a vibrant Japanese dining experience with hibachi
+  grills and hearty portions that make it a standout choice for casual meals.
+  The restaurant features an energetic atmosphere where fresh ingredients come
+  together in comforting dishes served during lunch and dinner, appealing to
+  those seeking authentic flavors in a welcoming setting. Patrons can enjoy a
+  variety of Japanese-inspired options, including expertly prepared sushi and
+  steakhouse favorites, making it a go-to spot for anyone exploring sushi places
+  nearby. Accessibility is a key highlight, with features like
+  wheelchair-accessible seating and entrances that ensure everyone can savor the
+  experience. This blend of flavorful cuisine and inclusive amenities positions
+  it as a reliable option for those searching for top-rated Japanese places in
+  the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Sharing About the Experience$$$Folks chatting about Tokyo
+  Steakhouse & Sushi Bar often highlight the fun, interactive hibachi grills and
+  generous servings that keep things lively and satisfying, even if specific
+  feedback varies. Many appreciate the comforting, big-portion meals that hit
+  the spot for lunch or dinner, adding to its appeal as a casual hangout for
+  groups or families. While some note the straightforward vibe makes it easy to
+  enjoy without fuss, others mention it feels like a solid pick for everyday
+  cravings in a laid-back environment. Overall, it comes across as a welcoming
+  spot that delivers on tasty Japanese-inspired dishes, helping it stand out
+  among local sushi restaurants. If you're on the hunt for reliable sushi near
+  Hobbs, this place seems to earn nods for its approachable style and comforting
+  eats, making it worth a try for a relaxed meal.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +252,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

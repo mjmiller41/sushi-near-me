@@ -5,4 +5,5 @@ permalink: /ohio/dublin/
 stateAbbr: OH
 stateName: Ohio
 cityName: Dublin
+
 ---

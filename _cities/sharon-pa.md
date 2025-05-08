@@ -5,4 +5,5 @@ permalink: /pennsylvania/sharon/
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Sharon
+
 ---

@@ -5,4 +5,5 @@ permalink: /north-carolina/mt-airy/
 stateAbbr: NC
 stateName: North Carolina
 cityName: Mt Airy
+
 ---

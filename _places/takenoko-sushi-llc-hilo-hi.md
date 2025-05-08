@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Takenoko Sushi Llc"
+title: Takenoko Sushi Llc
 permalink: /hawaii/hilo/takenoko-sushi-llc.html
 stateAbbr: HI
 stateName: Hawaii
 cityName: Hilo
 seo:
-  name: "Takenoko Sushi Llc"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Takenoko Sushi Llc serves delicious sushi in Hilo, Hawaii. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJB--GNmZLUnkR9yLNQUWT9NM
 photos:
   - name: >-
@@ -168,7 +166,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x79524b663686ef07:0xd3f4934541cd22f7!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 13
+        minute: 0
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 13
+        minute: 30
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 20
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 30
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 20
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 13
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 20
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 1:30 PM, 5:00 – 8:30 PM'
     - 'Tuesday: Closed'
     - 'Wednesday: Closed'
@@ -176,14 +240,7 @@ opening_hours:
     - 'Friday: 5:00 – 8:30 PM'
     - 'Saturday: 11:00 AM – 1:00 PM, 5:00 – 8:30 PM'
     - 'Sunday: 11:00 AM – 1:00 PM, 5:00 – 8:30 PM'
-  current:
-    - 'Monday: 11:00 AM – 1:30 PM, 5:00 – 8:30 PM'
-    - 'Tuesday: Closed'
-    - 'Wednesday: Closed'
-    - 'Thursday: 5:00 – 8:30 PM'
-    - 'Friday: 5:00 – 8:30 PM'
-    - 'Saturday: 11:00 AM – 1:00 PM, 5:00 – 8:30 PM'
-    - 'Sunday: 11:00 AM – 1:00 PM, 5:00 – 8:30 PM'
+  nextCloseTime: '2025-05-03T23:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -195,35 +252,204 @@ phone: (808) 933-3939
 price_level: null
 price_range: null
 rating: '4.4'
-rating_count: 0
+rating_count: 76
 website: null
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Takenoko Sushi in Hilo, HI$$$Takenoko Sushi Llc in Hilo, HI, offers a
+  casual dining experience nestled within a vibrant local marketplace, perfect
+  for those seeking authentic sushi options. This spot specializes in fresh,
+  high-quality dishes like baked avocado and other creative specialties, drawing
+  in fans of Japanese-inspired cuisine with its emphasis on simplicity and
+  flavor. The restaurant provides accessible features such as
+  wheelchair-friendly parking and entrances, making it welcoming for all
+  visitors exploring sushi restaurants near me. With convenient hours including
+  lunch and dinner services several days a week, it's an ideal choice for anyone
+  craving top-rated sushi in a relaxed setting. Its location adds to the appeal,
+  blending seamlessly with the area's charm for those searching for sushi places
+  near me.
+generative_summary: >-
+  Discover Takenoko Sushi in Hilo, HI$$$Takenoko Sushi Llc in Hilo, HI, offers a
+  casual dining experience nestled within a vibrant local marketplace, perfect
+  for those seeking authentic sushi options. This spot specializes in fresh,
+  high-quality dishes like baked avocado and other creative specialties, drawing
+  in fans of Japanese-inspired cuisine with its emphasis on simplicity and
+  flavor. The restaurant provides accessible features such as
+  wheelchair-friendly parking and entrances, making it welcoming for all
+  visitors exploring sushi restaurants near me. With convenient hours including
+  lunch and dinner services several days a week, it's an ideal choice for anyone
+  craving top-rated sushi in a relaxed setting. Its location adds to the appeal,
+  blending seamlessly with the area's charm for those searching for sushi places
+  near me.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJB--GNmZLUnkR9yLNQUWT9NM/reviews/ChZDSUhNMG9nS0VJQ0FnSUQyOTR1elRBEAE
+    relativePublishTimeDescription: 2 years ago
+    rating: 5
+    text:
+      text: >-
+        Best sushi in town. Great selection. Delicious Aji, uni, cod roe,... 8
+        seats in the house. Try the abalone, the baked Avocado, and delicious
+        ice creams & sorbets. Try it all!!! Reservation only.
+      languageCode: en
+    originalText:
+      text: >-
+        Best sushi in town. Great selection. Delicious Aji, uni, cod roe,... 8
+        seats in the house. Try the abalone, the baked Avocado, and delicious
+        ice creams & sorbets. Try it all!!! Reservation only.
+      languageCode: en
+    authorAttribution:
+      displayName: Gregory Arianoff
+      uri: https://www.google.com/maps/contrib/113588228015244833912/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXFuNWfiwkC5sGpXsveqZCapkG_5Y6kh6yLXNYtd7AvfW3qT3Ph7w=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2022-05-28T08:08:05.477640Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQyOTR1elRBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQyOTR1elRBEAE!2m1!1s0x79524b663686ef07:0xd3f4934541cd22f7
+  - name: >-
+      places/ChIJB--GNmZLUnkR9yLNQUWT9NM/reviews/ChZDSUhNMG9nS0VJQ0FnSURmNHFhaExBEAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 1
+    text:
+      text: >-
+        Hour of operation is not correct. Restaurant closes from Dec.25 - Jan.9
+        without online notice and says fully booked until June.2025.
+      languageCode: en
+    originalText:
+      text: >-
+        Hour of operation is not correct. Restaurant closes from Dec.25 - Jan.9
+        without online notice and says fully booked until June.2025.
+      languageCode: en
+    authorAttribution:
+      displayName: Tiehan Pan
+      uri: https://www.google.com/maps/contrib/102294555508533452164/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIZheOCuvVh4dPRGQUnZFbyyTfCdt5fYE48TB7GcSxZWKYmbg=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-01-05T03:16:43.416805Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURmNHFhaExBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURmNHFhaExBEAE!2m1!1s0x79524b663686ef07:0xd3f4934541cd22f7
+  - name: >-
+      places/ChIJB--GNmZLUnkR9yLNQUWT9NM/reviews/ChZDSUhNMG9nS0VJQ0FnSURsOHNfa0VBEAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: Really fresh food and very delicious. Reasonable price.
+      languageCode: en
+    originalText:
+      text: Really fresh food and very delicious. Reasonable price.
+      languageCode: en
+    authorAttribution:
+      displayName: Jenny Li
+      uri: https://www.google.com/maps/contrib/100345881029502846300/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIsezuD8lqY0FHiwjEzNvxLzLCd0Az3rj6qTPMxHJPGn25nBg=s128-c0x00000000-cc-rp-mo
+    publishTime: '2023-12-01T07:28:13.011929Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURsOHNfa0VBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURsOHNfa0VBEAE!2m1!1s0x79524b663686ef07:0xd3f4934541cd22f7
+  - name: >-
+      places/ChIJB--GNmZLUnkR9yLNQUWT9NM/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ2OC1LMUZBEAE
+    relativePublishTimeDescription: 3 years ago
+    rating: 5
+    text:
+      text: >-
+        Hands down this sushi is the best. It tastes like it came straight out
+        of Japan. Which it did! All the fish comes straight out of Japan and
+        caught the day before. It tastes so good but I had to wait 9 months
+        before I could dine here. This was so good. 5 star rating!
+      languageCode: en
+    originalText:
+      text: >-
+        Hands down this sushi is the best. It tastes like it came straight out
+        of Japan. Which it did! All the fish comes straight out of Japan and
+        caught the day before. It tastes so good but I had to wait 9 months
+        before I could dine here. This was so good. 5 star rating!
+      languageCode: en
+    authorAttribution:
+      displayName: Nick_The_King
+      uri: https://www.google.com/maps/contrib/106859877908587069803/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXiNl0FmBI8oVUH7gtsvgR9bC0mNcDEKtEcIj9NzYoGXKqLVgOX-w=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2021-10-11T00:10:57.849236Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQ2OC1LMUZBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQ2OC1LMUZBEAE!2m1!1s0x79524b663686ef07:0xd3f4934541cd22f7
+  - name: >-
+      places/ChIJB--GNmZLUnkR9yLNQUWT9NM/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfN3VHTTBRRRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 1
+    text:
+      text: >-
+        This place don't answer phone calls. Don't care about customers.  They
+        not even booked out. Restaurant is always empty!
+      languageCode: en
+    originalText:
+      text: >-
+        This place don't answer phone calls. Don't care about customers.  They
+        not even booked out. Restaurant is always empty!
+      languageCode: en
+    authorAttribution:
+      displayName: Terrell
+      uri: https://www.google.com/maps/contrib/105088715216286588339/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKw5y7a2Jeiuio4VOodEN5YtD1Dw2ZESMxZ5UiGxOOfNHk_CA=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-01-16T10:41:29.087725Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNfN3VHTTBRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNfN3VHTTBRRRAB!2m1!1s0x79524b663686ef07:0xd3f4934541cd22f7
+review_summary: >-
+  What Visitors Are Buzzing About$$$Visitors often rave about the fresh and
+  flavorful sushi at this spot, highlighting its great selection and reasonable
+  prices that make it a standout for Japanese dining enthusiasts. While some
+  have noted occasional challenges with booking and availability, the overall
+  experience is praised for delivering delicious, high-quality meals that feel
+  truly authentic. Many appreciate the variety of options that cater to
+  different tastes, keeping things exciting for groups or individuals stopping
+  by for a casual meal. Despite a few mentions of communication hiccups, the
+  positive vibes around the food's taste and freshness help maintain its strong
+  reputation among top-rated sushi spots. If you're on the hunt for sushi near
+  me, this place generally leaves people satisfied with its genuine flavors and
+  welcoming vibe.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
+delivery: false
+dine_in: true
+good_for_children: false
 good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
 serves_beer: null
-serves_breakfast: null
-serves_brunch: null
+serves_breakfast: false
+serves_brunch: false
 serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

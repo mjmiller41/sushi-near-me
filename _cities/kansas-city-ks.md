@@ -5,4 +5,5 @@ permalink: /kansas/kansas-city/
 stateAbbr: KS
 stateName: Kansas
 cityName: Kansas City
+
 ---

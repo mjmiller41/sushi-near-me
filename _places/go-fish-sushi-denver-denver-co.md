@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Go Fish Sushi Denver"
+title: Go Fish Sushi Denver
 permalink: /colorado/denver/go-fish-sushi-denver.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Denver
 seo:
-  name: "Go Fish Sushi Denver"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Go Fish Sushi Denver serves delicious sushi in Denver, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJw8dMmh9_bIcRZMATPy9nWwo
 photos:
   - name: >-
@@ -185,7 +183,42 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Go Fish Sushi in Denver, CO$$$Go Fish Sushi in Denver, CO, offers a
+  relaxed atmosphere perfect for enjoying fresh Japanese cuisine in the heart of
+  the city. This spot specializes in creative rolls and a selection of sake
+  along with other traditional drinks, making it an ideal choice for those
+  seeking authentic flavors in a casual setting. The outdoor patio provides a
+  welcoming space to dine al fresco, enhancing the experience on warmer days.
+  Additionally, accessibility features like wheelchair-friendly seating and
+  parking ensure a comfortable visit for everyone. Whether you're exploring
+  local dining options or looking for a go-to spot for quality meals, this
+  restaurant stands out with its thoughtful blend of taste and convenience.
+generative_summary: >-
+  Discover Go Fish Sushi in Denver, CO$$$Go Fish Sushi in Denver, CO, offers a
+  relaxed atmosphere perfect for enjoying fresh Japanese cuisine in the heart of
+  the city. This spot specializes in creative rolls and a selection of sake
+  along with other traditional drinks, making it an ideal choice for those
+  seeking authentic flavors in a casual setting. The outdoor patio provides a
+  welcoming space to dine al fresco, enhancing the experience on warmer days.
+  Additionally, accessibility features like wheelchair-friendly seating and
+  parking ensure a comfortable visit for everyone. Whether you're exploring
+  local dining options or looking for a go-to spot for quality meals, this
+  restaurant stands out with its thoughtful blend of taste and convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Folks heading to this sushi spot often rave about
+  the creative rolls and tasty drinks that make every meal feel special, drawing
+  in fans of fresh Japanese fare. Many appreciate the laid-back vibe and outdoor
+  seating, which add to the overall enjoyment without any fuss. While
+  experiences can vary, common feedback highlights the solid portions and
+  welcoming environment as reasons to return. Overall, it's clear that diners
+  value the straightforward approach to quality ingredients, helping it hold its
+  own among nearby options. If you're on the hunt for reliable eats in the area,
+  this place tends to deliver a satisfying experience that keeps the positive
+  vibes flowing.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +244,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

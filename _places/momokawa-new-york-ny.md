@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Momokawa"
+title: Momokawa
 permalink: /new-york/new-york/momokawa.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "Momokawa"
-  type: Restaurant
+  type: restaurant
   links: http://www.momokawanyc.com/
-description: "Traditional techniques are used at this compact local restaurant for Japanese favorites. Momokawa serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJc_k9q8BYwokR_h64b37WXD8
 photos:
   - name: >-
@@ -184,6 +182,29 @@ price_range: $50 &ndash; $100
 rating: '4.3'
 rating_count: 0
 website: http://www.momokawanyc.com/
+description: >-
+  Discover Momokawa in New York$$$Momokawa in New York, NY, stands out as a
+  welcoming Japanese restaurant celebrated for its authentic dishes and relaxed
+  setting. This spot specializes in flavorful sukiyaki and fresh sushi options,
+  paired with creative cocktails that enhance the dining experience. Drawing on
+  traditional techniques, the menu highlights high-quality ingredients in a cozy
+  atmosphere perfect for casual meals or intimate gatherings. Visitors
+  appreciate the accessible entrance and seating, making it easier to enjoy
+  Japanese favorites without hassle. Whether you're exploring top sushi spots in
+  the city, this place offers a taste of genuine Japanese cuisine that feels
+  both comforting and refined.
+generative_summary: >-
+  Discover Momokawa in New York$$$Momokawa in New York, NY, stands out as a
+  welcoming Japanese restaurant celebrated for its authentic dishes and relaxed
+  setting. This spot specializes in flavorful sukiyaki and fresh sushi options,
+  paired with creative cocktails that enhance the dining experience. Drawing on
+  traditional techniques, the menu highlights high-quality ingredients in a cozy
+  atmosphere perfect for casual meals or intimate gatherings. Visitors
+  appreciate the accessible entrance and seating, making it easier to enjoy
+  Japanese favorites without hassle. Whether you're exploring top sushi spots in
+  the city, this place offers a taste of genuine Japanese cuisine that feels
+  both comforting and refined.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJc_k9q8BYwokR_h64b37WXD8/reviews/ChdDSUhNMG9nS0VJQ0FnTURBcmJHaGt3RRAB
@@ -389,6 +410,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNIcnI3Z1JREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNIcnI3Z1JREAE!2m1!1s0x89c258c0ab3df973:0x3f5cd67e6fb81efe
+review_summary: >-
+  What Guests Are Saying$$$Folks often rave about the standout sukiyaki and
+  sushi at this Japanese eatery, noting how the flavorful dishes make for a
+  satisfying meal in a warm, traditional vibe. Many highlight the friendly
+  service and quick attention, which add to the overall enjoyable experience,
+  especially during less crowded times. While some mention the prices lean
+  toward the higher side, the quality of the food and cozy atmosphere generally
+  make it feel worthwhile for a special outing. It's clear that options like the
+  beef sukiyaki stand out as must-tries, with diners appreciating the filling
+  portions and variety. Overall, this spot comes across as a solid choice for
+  anyone craving authentic Japanese flavors, delivering a balanced mix of hits
+  that keep the energy positive and inviting.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidStreetParking: true
   valetParking: false
@@ -420,8 +454,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Traditional techniques are used at this compact local restaurant for Japanese
   favorites.
 

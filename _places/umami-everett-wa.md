@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Umami"
+title: Umami
 permalink: /washington/everett/umami.html
 stateAbbr: WA
 stateName: Washington
 cityName: Everett
 seo:
-  name: "Umami"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Umami serves delicious sushi in Everett, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ_TTdYe2rmlQRiTlJLw5UkQg
 photos:
   - name: >-
@@ -185,7 +183,39 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  About Umami in Everett, WA$$$Umami in Everett, WA, offers a welcoming spot for
+  those craving fresh Japanese cuisine and innovative sushi options. This casual
+  restaurant specializes in flavorful poke bowls and sushi burritos, alongside
+  popular sides like boba, gyoza, and karaage, making it a go-to for variety in
+  local dining. With accessibility features such as wheelchair-friendly parking
+  and entrances, it ensures a comfortable experience for all guests exploring
+  Japanese flavors. The menu's creative twists on traditional dishes provide a
+  relaxed atmosphere ideal for quick meals or casual gatherings, appealing to
+  anyone seeking sushi restaurants nearby.
+generative_summary: >-
+  About Umami in Everett, WA$$$Umami in Everett, WA, offers a welcoming spot for
+  those craving fresh Japanese cuisine and innovative sushi options. This casual
+  restaurant specializes in flavorful poke bowls and sushi burritos, alongside
+  popular sides like boba, gyoza, and karaage, making it a go-to for variety in
+  local dining. With accessibility features such as wheelchair-friendly parking
+  and entrances, it ensures a comfortable experience for all guests exploring
+  Japanese flavors. The menu's creative twists on traditional dishes provide a
+  relaxed atmosphere ideal for quick meals or casual gatherings, appealing to
+  anyone seeking sushi restaurants nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Visitor Feedback on Umami$$$Folks exploring sushi spots in the area often
+  highlight the fresh ingredients and creative menu items as standout features,
+  making meals feel both satisfying and unique. Many appreciate the casual vibe
+  and solid variety of options that cater to different preferences, from light
+  bites to hearty choices. It's commonly noted that the overall experience
+  delivers good value for those hunting for reliable Japanese places close by,
+  with positive mentions of the welcoming setup. While opinions vary, the
+  general consensus leans toward it being a solid pick for everyday dining,
+  encouraging visitors to try it for a pleasant meal out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +241,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

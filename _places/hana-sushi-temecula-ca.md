@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Hana Sushi"
+title: Hana Sushi
 permalink: /california/temecula/hana-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Temecula
 seo:
-  name: "Hana Sushi"
-  type: Restaurant
-  links: null
-description: "Hana Sushi serves delicious sushi in Temecula, California. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.myhanasushi.com/
 place_id: ChIJXbjL3l9_24AR6WnalauMHUU
 photos:
   - name: >-
@@ -170,22 +168,185 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80db7f5fdecbb85d:0x451d8cab95da69e9!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 9:00 PM'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 9:00 PM'
+    - 'Saturday: 11:00 AM – 9:00 PM'
+    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
-phone: null
-price_level: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 15
+          minute: 0
+        close:
+          day: 0
+          hour: 17
+          minute: 0
+      - open:
+          day: 1
+          hour: 15
+          minute: 0
+        close:
+          day: 1
+          hour: 17
+          minute: 0
+      - open:
+          day: 2
+          hour: 15
+          minute: 0
+        close:
+          day: 2
+          hour: 17
+          minute: 0
+      - open:
+          day: 3
+          hour: 15
+          minute: 0
+        close:
+          day: 3
+          hour: 17
+          minute: 0
+      - open:
+          day: 4
+          hour: 15
+          minute: 0
+        close:
+          day: 4
+          hour: 17
+          minute: 0
+      - open:
+          day: 5
+          hour: 15
+          minute: 0
+        close:
+          day: 5
+          hour: 17
+          minute: 0
+      - open:
+          day: 6
+          hour: 15
+          minute: 0
+        close:
+          day: 6
+          hour: 17
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 3:00 – 5:00 PM'
+      - 'Tuesday: 3:00 – 5:00 PM'
+      - 'Wednesday: 3:00 – 5:00 PM'
+      - 'Thursday: 3:00 – 5:00 PM'
+      - 'Friday: 3:00 – 5:00 PM'
+      - 'Saturday: 3:00 – 5:00 PM'
+      - 'Sunday: 3:00 – 5:00 PM'
+    secondaryHoursType: HAPPY_HOUR
+    nextCloseTime: '2025-05-04T00:00:00Z'
+phone: (951) 303-0395
+price_level: PRICE_LEVEL_MODERATE
 price_range: null
-rating: null
-rating_count: 0
-website: null
+rating: '4.5'
+rating_count: 533
+website: https://www.myhanasushi.com/
+description: >-
+  Discover Hana Sushi in Temecula, CA$$$Hana Sushi in Temecula, CA, stands out
+  as a popular Japanese dining spot, offering an array of fresh sushi rolls and
+  traditional flavors that appeal to sushi enthusiasts. Located in a convenient
+  area, this restaurant features a cozy atmosphere with options for beer, wine,
+  and sake, making it ideal for casual meals or gatherings. Its commitment to
+  accessibility ensures a welcoming experience for all guests, with
+  wheelchair-friendly parking and seating that enhance the overall visit.
+  Drawing from its reputation, the spot delivers a satisfying blend of authentic
+  tastes and modern twists, perfect for anyone seeking top-rated sushi options
+  nearby.
+generative_summary: >-
+  Discover Hana Sushi in Temecula, CA$$$Hana Sushi in Temecula, CA, stands out
+  as a popular Japanese dining spot, offering an array of fresh sushi rolls and
+  traditional flavors that appeal to sushi enthusiasts. Located in a convenient
+  area, this restaurant features a cozy atmosphere with options for beer, wine,
+  and sake, making it ideal for casual meals or gatherings. Its commitment to
+  accessibility ensures a welcoming experience for all guests, with
+  wheelchair-friendly parking and seating that enhance the overall visit.
+  Drawing from its reputation, the spot delivers a satisfying blend of authentic
+  tastes and modern twists, perfect for anyone seeking top-rated sushi options
+  nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Feedback from diners at Hana Sushi highlights the
+  consistently fresh and flavorful sushi rolls that keep people coming back for
+  more, with many appreciating the generous portions and variety on offer. Folks
+  often note the solid value for the price, especially during happy hour deals,
+  making it a go-to choice for relaxed lunches or dinners. While some mention
+  occasional waits during peak times, the overall vibe remains positive, with
+  praise for the efficient service and inviting ambiance that adds to the
+  enjoyment. In general, visitors share that it's a reliable spot for quality
+  Japanese cuisine, earning high marks for taste and atmosphere without any
+  major drawbacks. If you're on the hunt for sushi places near you, this one
+  tends to leave a favorable impression with its dependable offerings.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +372,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Castano's Sushi House"
+title: Castano's Sushi House
 permalink: /arkansas/searcy/castano-s-sushi-house.html
 stateAbbr: AR
 stateName: Arkansas
 cityName: Searcy
 seo:
-  name: "Castano's Sushi House"
-  type: Restaurant
+  type: restaurant
   links: https://www.facebook.com/CastanosHouse?mibextid=LQQJ4d
-description: "Castano's Sushi House serves delicious sushi in Searcy, Arkansas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJzcx3f_Kp04cRQj3CZE2cHHY
 photos:
   - name: >-
@@ -169,7 +167,105 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x87d3a9f27f77cccd:0x761c9c4d64c23d42!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 14
+        minute: 0
+    - open:
+        day: 0
+        hour: 16
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 14
+        minute: 0
+    - open:
+        day: 6
+        hour: 16
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:00 AM – 2:00 PM, 4:00 – 9:00 PM'
     - 'Wednesday: 11:00 AM – 2:00 PM, 4:00 – 9:00 PM'
@@ -177,54 +273,326 @@ opening_hours:
     - 'Friday: 11:00 AM – 2:00 PM, 4:00 – 10:00 PM'
     - 'Saturday: 11:00 AM – 2:00 PM, 4:00 – 10:00 PM'
     - 'Sunday: 11:00 AM – 2:00 PM, 4:00 – 9:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:00 AM – 2:00 PM, 4:00 – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 2:00 PM, 4:00 – 9:00 PM'
-    - 'Thursday: 11:00 AM – 2:00 PM, 4:00 – 9:00 PM'
-    - 'Friday: 11:00 AM – 2:00 PM, 4:00 – 10:00 PM'
-    - 'Saturday: 11:00 AM – 2:00 PM, 4:00 – 10:00 PM'
-    - 'Sunday: 11:00 AM – 2:00 PM, 4:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: false
+    periods:
+      - open:
+          day: 2
+          hour: 11
+          minute: 0
+        close:
+          day: 2
+          hour: 14
+          minute: 0
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 14
+          minute: 0
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 14
+          minute: 0
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 14
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: Closed'
+      - 'Tuesday: 11:00 AM – 2:00 PM'
+      - 'Wednesday: 11:00 AM – 2:00 PM'
+      - 'Thursday: 11:00 AM – 2:00 PM'
+      - 'Friday: 11:00 AM – 2:00 PM'
+      - 'Saturday: Closed'
+      - 'Sunday: Closed'
+    secondaryHoursType: LUNCH
+    nextOpenTime: '2025-05-06T16:00:00Z'
 phone: (501) 268-8898
 price_level: null
 price_range: $10 &ndash; $20
 rating: '4.8'
-rating_count: 0
+rating_count: 84
 website: https://www.facebook.com/CastanosHouse?mibextid=LQQJ4d
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Castano's Sushi House in Searcy, AR$$$Castano's Sushi House in
+  Searcy, AR, offers a welcoming spot for enjoying fresh Japanese-inspired
+  cuisine, blending casual vibes with a focus on quality ingredients and
+  creative flavors. This eatery serves up a variety of sushi rolls and other
+  dishes, making it a go-to choice for those seeking top-rated sushi restaurants
+  in the area. With accessibility features like wheelchair-friendly parking and
+  seating, it's designed for a comfortable dining experience that caters to all
+  visitors. The menu highlights generous portions and a range of options that
+  appeal to sushi enthusiasts, providing a relaxed atmosphere for lunch or
+  dinner. If you're exploring sushi places near me, this spot stands out for its
+  commitment to fresh, flavorful meals that keep diners coming back.
+generative_summary: >-
+  Discover Castano's Sushi House in Searcy, AR$$$Castano's Sushi House in
+  Searcy, AR, offers a welcoming spot for enjoying fresh Japanese-inspired
+  cuisine, blending casual vibes with a focus on quality ingredients and
+  creative flavors. This eatery serves up a variety of sushi rolls and other
+  dishes, making it a go-to choice for those seeking top-rated sushi restaurants
+  in the area. With accessibility features like wheelchair-friendly parking and
+  seating, it's designed for a comfortable dining experience that caters to all
+  visitors. The menu highlights generous portions and a range of options that
+  appeal to sushi enthusiasts, providing a relaxed atmosphere for lunch or
+  dinner. If you're exploring sushi places near me, this spot stands out for its
+  commitment to fresh, flavorful meals that keep diners coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJzcx3f_Kp04cRQj3CZE2cHHY/reviews/ChdDSUhNMG9nS0VJQ0FnTURndnVySjlnRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        I'm always looking for new places to eat. I love sushi and love going to
+        Searcy. Castano's is a must visit if you love sushi. Bring your appetite
+        because the portions are not small. The food was fantastic and would
+        have you coming back for more. I've had a few raw sushi rolls, but the
+        Fish Killer is hands down the best I've so far. I didn't count all the
+        different rolls that they have, but I'm pretty sure it's over 50+
+        different rolls. So if you love sushi and your in/visiting Searcy, AR
+        swing by Castano's Sushi House. As another reviewer said of Castano's,
+        it is a bit chilly. So if you get cold easily like my wife does, bring a
+        jacket or sweater.
+      languageCode: en
+    originalText:
+      text: >-
+        I'm always looking for new places to eat. I love sushi and love going to
+        Searcy. Castano's is a must visit if you love sushi. Bring your appetite
+        because the portions are not small. The food was fantastic and would
+        have you coming back for more. I've had a few raw sushi rolls, but the
+        Fish Killer is hands down the best I've so far. I didn't count all the
+        different rolls that they have, but I'm pretty sure it's over 50+
+        different rolls. So if you love sushi and your in/visiting Searcy, AR
+        swing by Castano's Sushi House. As another reviewer said of Castano's,
+        it is a bit chilly. So if you get cold easily like my wife does, bring a
+        jacket or sweater.
+      languageCode: en
+    authorAttribution:
+      displayName: Christian Tipton
+      uri: https://www.google.com/maps/contrib/107504135130983732412/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWgxZY9ZddYKzOKFrWrchiq_ixilZAguoRAXqFbHtavUeZUyfs=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-02-25T01:26:08.929789Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURndnVySjlnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURndnVySjlnRRAB!2m1!1s0x87d3a9f27f77cccd:0x761c9c4d64c23d42
+  - name: >-
+      places/ChIJzcx3f_Kp04cRQj3CZE2cHHY/reviews/ChdDSUhNMG9nS0VJQ0FnTUNvc3NDaTBnRRAB
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        This was my first time but will not be my last! Huge sushi rolls and it
+        was so good! Try the Arkansas!
+      languageCode: en
+    originalText:
+      text: >-
+        This was my first time but will not be my last! Huge sushi rolls and it
+        was so good! Try the Arkansas!
+      languageCode: en
+    authorAttribution:
+      displayName: Heather Sharp
+      uri: https://www.google.com/maps/contrib/101185607112331826176/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUqKXwp5BSIwEXUeO4z7fuwiYArGMib7pv5bCmHiJ6nDDH0ih-AFA=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-04-16T01:20:33.662092Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNvc3NDaTBnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNvc3NDaTBnRRAB!2m1!1s0x87d3a9f27f77cccd:0x761c9c4d64c23d42
+  - name: >-
+      places/ChIJzcx3f_Kp04cRQj3CZE2cHHY/reviews/ChdDSUhNMG9nS0VJQ0FnSURkZ3B2MnZnRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        Let me start by saying OUT with the old restaurant and IN with this new
+        one! Wow! We were hesitant to try this since it was in the same
+        establishment as the old sushi place. I’m glad my husband and I went in
+        and gave it a go. My husband and I have eaten at many sushi restaurants
+        around the US and this one is top three for us! Their portions are
+        wonderful, the sushi is creative, fun, and beautifully crafted. The rice
+        was wonderful and the crab ragoons were like dessert, so good! It may be
+        a bit pricier than some of the other restaurants but it is worth it to
+        us to have QUALITY sushi. This is our new go to Sushi place in the area.
+        Wonderful job and please keep up the amazing food and quality you’ve
+        started out with.
+      languageCode: en
+    originalText:
+      text: >-
+        Let me start by saying OUT with the old restaurant and IN with this new
+        one! Wow! We were hesitant to try this since it was in the same
+        establishment as the old sushi place. I’m glad my husband and I went in
+        and gave it a go. My husband and I have eaten at many sushi restaurants
+        around the US and this one is top three for us! Their portions are
+        wonderful, the sushi is creative, fun, and beautifully crafted. The rice
+        was wonderful and the crab ragoons were like dessert, so good! It may be
+        a bit pricier than some of the other restaurants but it is worth it to
+        us to have QUALITY sushi. This is our new go to Sushi place in the area.
+        Wonderful job and please keep up the amazing food and quality you’ve
+        started out with.
+      languageCode: en
+    authorAttribution:
+      displayName: Stormy Acuna
+      uri: https://www.google.com/maps/contrib/115615826701145157308/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVOec2u4kT_MqSvX_hqXi125Pt8MWRLwU2EPsmgTa925AJRG7Oo=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-03-21T22:07:38.959076Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURkZ3B2MnZnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURkZ3B2MnZnRRAB!2m1!1s0x87d3a9f27f77cccd:0x761c9c4d64c23d42
+  - name: >-
+      places/ChIJzcx3f_Kp04cRQj3CZE2cHHY/reviews/ChZDSUhNMG9nS0VJQ0FnSUNua3JfT2NBEAE
+    relativePublishTimeDescription: 7 months ago
+    rating: 5
+    text:
+      text: >-
+        I just had another awesome meal at Castano's Sushi House, and I’m still
+        smiling! I always get the Godzilla Roll, and let me tell you, it never
+        disappoints. Seriously, it’s a flavor explosion every single time!
+
+
+        The mix of fresh ingredients and that perfect presentation? So good! The
+        vibe is chill, and the staff are super friendly, making the whole
+        experience even better. If you’re in the mood for sushi, you have to try
+        the Godzilla Roll. (It's cold in here, so bring a sweater!) I can’t
+        recommend it enough! Can’t wait for my next visit!🍣😊
+      languageCode: en
+    originalText:
+      text: >-
+        I just had another awesome meal at Castano's Sushi House, and I’m still
+        smiling! I always get the Godzilla Roll, and let me tell you, it never
+        disappoints. Seriously, it’s a flavor explosion every single time!
+
+
+        The mix of fresh ingredients and that perfect presentation? So good! The
+        vibe is chill, and the staff are super friendly, making the whole
+        experience even better. If you’re in the mood for sushi, you have to try
+        the Godzilla Roll. (It's cold in here, so bring a sweater!) I can’t
+        recommend it enough! Can’t wait for my next visit!🍣😊
+      languageCode: en
+    authorAttribution:
+      displayName: Rosalyn Cofer
+      uri: https://www.google.com/maps/contrib/109782267716443337874/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWgFUEgg6uuZLK5zLPkEOwHFdgUU0avPM1RbXtaKnVkFXlgK0P_0w=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2024-09-24T13:11:39.648986Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNua3JfT2NBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNua3JfT2NBEAE!2m1!1s0x87d3a9f27f77cccd:0x761c9c4d64c23d42
+  - name: >-
+      places/ChIJzcx3f_Kp04cRQj3CZE2cHHY/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ5NGNPQ0tREAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        I just moved here from Chicago and was sad about giving up good sushi. I
+        found out this place opened up four months ago and had to give it a try.
+        I always get Philadelphia roll the first time I eat at a sushi place as
+        a baseline to compare the sushi places.
+
+        The roll had the freshest, avocado, and salmon I’ve had in a while. The
+        inside of the roll is loaded up more than any sushi place I’ve been.
+
+        The servers are so attentive here.
+
+        Good pricing. Nice interior with good amount of seating.
+
+
+        What a relief to know that there is a delicious sushi place here. I will
+        definitely be coming here weekly.
+      languageCode: en
+    originalText:
+      text: >-
+        I just moved here from Chicago and was sad about giving up good sushi. I
+        found out this place opened up four months ago and had to give it a try.
+        I always get Philadelphia roll the first time I eat at a sushi place as
+        a baseline to compare the sushi places.
+
+        The roll had the freshest, avocado, and salmon I’ve had in a while. The
+        inside of the roll is loaded up more than any sushi place I’ve been.
+
+        The servers are so attentive here.
+
+        Good pricing. Nice interior with good amount of seating.
+
+
+        What a relief to know that there is a delicious sushi place here. I will
+        definitely be coming here weekly.
+      languageCode: en
+    authorAttribution:
+      displayName: Tara Piryaei
+      uri: https://www.google.com/maps/contrib/101600428762063200708/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJW03Lc6nhZfKsbZ6aRzfxbp1U-Pn03asiWDcgMeHhKlnH2ww=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-03-17T18:03:18.352586Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQ5NGNPQ0tREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQ5NGNPQ0tREAE!2m1!1s0x87d3a9f27f77cccd:0x761c9c4d64c23d42
+review_summary: >-
+  What Diners Are Buzzing About$$$Folks who visit this sushi spot often rave
+  about the generous portions and creative rolls that pack a flavorful punch,
+  making it a solid pick for anyone craving fresh and satisfying options. Many
+  highlight the high-quality ingredients and variety, with comments suggesting
+  it's one of the best sushi experiences around for its taste and presentation.
+  While some mention the interior can feel a bit cool, the overall service and
+  atmosphere keep things positive and enjoyable for groups or solo diners.
+  Reviewers appreciate the value for the price, noting it's worth trying for a
+  casual meal that hits the spot. If you're on the hunt for sushi near me, this
+  place delivers a reliably tasty vibe that leaves customers eager to return for
+  more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
 delivery: null
-dine_in: null
+dine_in: true
 good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
+good_for_groups: true
+good_for_sports: false
+live_music: false
 menu_for_children: null
-outdoor_seating: null
+outdoor_seating: false
 reservable: null
-restroom: null
+restroom: true
 serves_beer: null
 serves_breakfast: null
-serves_brunch: null
+serves_brunch: false
 serves_cocktails: null
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
 serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

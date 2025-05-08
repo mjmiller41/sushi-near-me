@@ -5,4 +5,5 @@ permalink: /ohio/loveland/
 stateAbbr: OH
 stateName: Ohio
 cityName: Loveland
+
 ---

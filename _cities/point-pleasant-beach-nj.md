@@ -5,4 +5,5 @@ permalink: /new-jersey/point-pleasant-beach/
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Point Pleasant Beach
+
 ---

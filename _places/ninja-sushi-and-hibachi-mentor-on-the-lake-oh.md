@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ninja Sushi and Hibachi"
+title: Ninja Sushi and Hibachi
 permalink: /ohio/mentor-on-the-lake/ninja-sushi-and-hibachi.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Mentor-On-The-Lake
 seo:
-  name: "Ninja Sushi and Hibachi"
-  type: Restaurant
+  type: restaurant
   links: http://ninjainmentor.com/
-description: "Ninja Sushi and Hibachi serves delicious sushi in Mentor-On-The-Lake, Ohio. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJA_SNRXKvMYgRH7sTW6rAqzo
 photos:
   - name: >-
@@ -185,6 +183,35 @@ price_range: $30 &ndash; $50
 rating: '4.8'
 rating_count: 0
 website: http://ninjainmentor.com/
+description: >-
+  Experience Ninja Sushi and Hibachi in Mentor-On-The-Lake, OH$$$Ninja Sushi and
+  Hibachi in Mentor-On-The-Lake, OH, stands out as a top-rated spot for fresh
+  Japanese cuisine, blending authentic sushi and hibachi options that appeal to
+  those seeking the best sushi near me. The restaurant boasts a welcoming
+  atmosphere with accessible features like wheelchair-friendly seating and
+  entrances, making it easy for everyone to enjoy a memorable meal. Diners can
+  savor expertly prepared dishes using high-quality ingredients, including
+  flavorful rolls and grilled specialties that highlight traditional flavors.
+  It's a popular choice for sushi enthusiasts looking for quality Japanese
+  places near me, with a clean and stylish setting that encourages reservations
+  for a seamless visit. Whether you're craving innovative rolls or classic
+  hibachi, this spot delivers a satisfying dining experience that keeps locals
+  coming back.
+generative_summary: >-
+  Experience Ninja Sushi and Hibachi in Mentor-On-The-Lake, OH$$$Ninja Sushi and
+  Hibachi in Mentor-On-The-Lake, OH, stands out as a top-rated spot for fresh
+  Japanese cuisine, blending authentic sushi and hibachi options that appeal to
+  those seeking the best sushi near me. The restaurant boasts a welcoming
+  atmosphere with accessible features like wheelchair-friendly seating and
+  entrances, making it easy for everyone to enjoy a memorable meal. Diners can
+  savor expertly prepared dishes using high-quality ingredients, including
+  flavorful rolls and grilled specialties that highlight traditional flavors.
+  It's a popular choice for sushi enthusiasts looking for quality Japanese
+  places near me, with a clean and stylish setting that encourages reservations
+  for a seamless visit. Whether you're craving innovative rolls or classic
+  hibachi, this spot delivers a satisfying dining experience that keeps locals
+  coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJA_SNRXKvMYgRH7sTW6rAqzo/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3MmVQdmV3EAE
@@ -346,6 +373,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUR3cEoyRVRREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUR3cEoyRVRREAE!2m1!1s0x8831af72458df403:0x3aabc0aa5b13bb1f
+review_summary: >-
+  Buzz Around Ninja Sushi Reviews$$$Visitors consistently praise this sushi
+  restaurant for its incredibly fresh and delicious offerings, making it a go-to
+  for anyone hunting for top sushi spots that deliver on taste and variety. Many
+  highlight the fantastic hibachi dishes and creative drinks that add to the
+  overall fun vibe, with comments noting it's worth the drive for an authentic
+  meal. The service gets high marks for being friendly and attentive, helping to
+  create a welcoming environment that enhances the whole experience. Folks
+  appreciate the reasonable prices and recommend planning ahead for busier
+  times, ensuring a smooth visit without any hassle. Overall, it's clear this
+  place hits the mark for sushi lovers, offering a reliably enjoyable outing
+  that leaves everyone satisfied.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -378,7 +418,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

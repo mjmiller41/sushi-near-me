@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Happy Sumo"
+title: Happy Sumo
 permalink: /colorado/westminster/happy-sumo.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Westminster
 seo:
-  name: "Happy Sumo"
-  type: Restaurant
+  type: restaurant
   links: https://www.happysumoorchard.com/
-description: "Happy Sumo serves delicious sushi in Westminster, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJRRDG1yN1bIcRrYFtHu1Q20o
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x876c7523d7c61045:0x4adb50ed1e6d81ad!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 9:00 PM'
     - 'Tuesday: 11:30 AM – 9:00 PM'
     - 'Wednesday: 11:30 AM – 9:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 9:30 PM'
     - 'Saturday: 11:30 AM – 9:30 PM'
     - 'Sunday: 11:30 AM – 9:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 9:00 PM'
-    - 'Tuesday: 11:30 AM – 9:00 PM'
-    - 'Wednesday: 11:30 AM – 9:00 PM'
-    - 'Thursday: 11:30 AM – 9:00 PM'
-    - 'Friday: 11:30 AM – 9:30 PM'
-    - 'Saturday: 11:30 AM – 9:30 PM'
-    - 'Sunday: 11:30 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T03:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,286 @@ phone: (303) 920-4400
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.1'
-rating_count: 0
+rating_count: 1101
 website: https://www.happysumoorchard.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Happy Sumo in Westminster, CO$$$Happy Sumo in Westminster, CO, stands
+  out as a welcoming Japanese eatery known for its diverse selection of fresh
+  sushi rolls and classic dishes that appeal to a wide range of tastes. This
+  spot combines casual vibes with innovative options like creative rolls and
+  signature cocktails, making it a go-to for those exploring sushi restaurants
+  in the area. Accessibility features such as wheelchair-friendly entrances and
+  parking add to the convenience, ensuring everyone can enjoy a relaxed meal.
+  With generous portions and a menu that includes vegetarian choices, it's an
+  ideal place for anyone seeking flavorful Japanese-inspired fare. Open daily
+  with outdoor seating available, Happy Sumo offers a comfortable setting for
+  both quick lunches and evening outings near you.
+generative_summary: >-
+  Discover Happy Sumo in Westminster, CO$$$Happy Sumo in Westminster, CO, stands
+  out as a welcoming Japanese eatery known for its diverse selection of fresh
+  sushi rolls and classic dishes that appeal to a wide range of tastes. This
+  spot combines casual vibes with innovative options like creative rolls and
+  signature cocktails, making it a go-to for those exploring sushi restaurants
+  in the area. Accessibility features such as wheelchair-friendly entrances and
+  parking add to the convenience, ensuring everyone can enjoy a relaxed meal.
+  With generous portions and a menu that includes vegetarian choices, it's an
+  ideal place for anyone seeking flavorful Japanese-inspired fare. Open daily
+  with outdoor seating available, Happy Sumo offers a comfortable setting for
+  both quick lunches and evening outings near you.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJRRDG1yN1bIcRrYFtHu1Q20o/reviews/ChZDSUhNMG9nS0VJQ0FnTURvclB2TllnEAE
+    relativePublishTimeDescription: a week ago
+    rating: 1
+    text:
+      text: >-
+        Potentially unsafe food: Rotten looking Broccoli stems in tempura the
+        Manager could not explain.  Poorly wrapped sushi rolls with a shocking
+        number of pieces having no fish inside, very little spiraled fish/rice,
+        or being 70% fish fat (not the good kind i.e. Fatty Tuna).  Apparently
+        there was a new employee.
+
+
+        The manager got replacement rolls and half of the new rolls had the same
+        issues.  The replacement rolls should have been checked by the Manager
+        on duty before giving them to us.
+
+
+        The manager on duty took off the bad Tempura and bad rolls. That was
+        fair, but given that we may have eaten Rotten food in the tempura, the
+        fact that we never did get good replacement rolls, and the overall
+        broken up dining experience, I think a different approach would have
+        been better.
+
+
+        I am happy to discuss the problems we had with the Owner or Restaurant
+        manager.  Outside of that, we will not be going back again.
+      languageCode: en
+    originalText:
+      text: >-
+        Potentially unsafe food: Rotten looking Broccoli stems in tempura the
+        Manager could not explain.  Poorly wrapped sushi rolls with a shocking
+        number of pieces having no fish inside, very little spiraled fish/rice,
+        or being 70% fish fat (not the good kind i.e. Fatty Tuna).  Apparently
+        there was a new employee.
+
+
+        The manager got replacement rolls and half of the new rolls had the same
+        issues.  The replacement rolls should have been checked by the Manager
+        on duty before giving them to us.
+
+
+        The manager on duty took off the bad Tempura and bad rolls. That was
+        fair, but given that we may have eaten Rotten food in the tempura, the
+        fact that we never did get good replacement rolls, and the overall
+        broken up dining experience, I think a different approach would have
+        been better.
+
+
+        I am happy to discuss the problems we had with the Owner or Restaurant
+        manager.  Outside of that, we will not be going back again.
+      languageCode: en
+    authorAttribution:
+      displayName: Mikej Joos
+      uri: https://www.google.com/maps/contrib/101369976205431030473/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJCmONQuBE8uZSyFMp9cXb0_TQpFbzYLw6NxmV3xP8JSemg2w=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-22T15:52:40.126994Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURvclB2TllnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURvclB2TllnEAE!2m1!1s0x876c7523d7c61045:0x4adb50ed1e6d81ad
+  - name: >-
+      places/ChIJRRDG1yN1bIcRrYFtHu1Q20o/reviews/ChdDSUhNMG9nS0VJQ0FnSURmdW8tYThRRRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 1
+    text:
+      text: >-
+        Left so disappointed. We got 5 different rolls and they did not taste
+        fresh. The kids meals were a good value and a hit with the kids, but the
+        two rolls that were $17 dollars each were drown in sauce and were not
+        the quality we have had in the past, even metallic tasting . Dust on the
+        walls and blinds left the atmosphere lacking. Our waitress was kind and
+        tried to fix the rolls we ordered even blaming herself for them not
+        being fresh. 1/5. I would not come back.
+      languageCode: en
+    originalText:
+      text: >-
+        Left so disappointed. We got 5 different rolls and they did not taste
+        fresh. The kids meals were a good value and a hit with the kids, but the
+        two rolls that were $17 dollars each were drown in sauce and were not
+        the quality we have had in the past, even metallic tasting . Dust on the
+        walls and blinds left the atmosphere lacking. Our waitress was kind and
+        tried to fix the rolls we ordered even blaming herself for them not
+        being fresh. 1/5. I would not come back.
+      languageCode: en
+    authorAttribution:
+      displayName: kim mauch
+      uri: https://www.google.com/maps/contrib/104500962709654301249/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXsNR-0eMKbWiChvE6kjHZ5UPIohFJSgMYaVY-tjz7hZRH080A9=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-01-05T20:07:40.768675Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURmdW8tYThRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURmdW8tYThRRRAB!2m1!1s0x876c7523d7c61045:0x4adb50ed1e6d81ad
+  - name: >-
+      places/ChIJRRDG1yN1bIcRrYFtHu1Q20o/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3M3RMeS1nRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 1
+    text:
+      text: >-
+        Food was disgusting and inedible. Yakisoba noodles were just instant
+        ramen noodles and “stir fried” vegetables weren’t cooked they were
+        barely warmed up and absolutely nothing was seasoned. Spider roll was
+        mid but I did eat all of it so meh. Server was kinda rude and definitely
+        didnt serve us in anyway. At best she would be considered a food runner.
+        When I asked to get the yakisoba garbage taken off the check she only
+        discounted it 50% and slammed the check at me. This place has a nice
+        interior but serves trash food and hires trash people. Went somewhere
+        else afterwards to get some actual food. $20 for instant ramen is
+        embarrassing.
+      languageCode: en
+    originalText:
+      text: >-
+        Food was disgusting and inedible. Yakisoba noodles were just instant
+        ramen noodles and “stir fried” vegetables weren’t cooked they were
+        barely warmed up and absolutely nothing was seasoned. Spider roll was
+        mid but I did eat all of it so meh. Server was kinda rude and definitely
+        didnt serve us in anyway. At best she would be considered a food runner.
+        When I asked to get the yakisoba garbage taken off the check she only
+        discounted it 50% and slammed the check at me. This place has a nice
+        interior but serves trash food and hires trash people. Went somewhere
+        else afterwards to get some actual food. $20 for instant ramen is
+        embarrassing.
+      languageCode: en
+    authorAttribution:
+      displayName: muah muah
+      uri: https://www.google.com/maps/contrib/103857337653129218718/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLC1iYNdGC7pLtchYH7jqCPrAQ8cmHjpvPc5lV4LKk_wunCMos=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-26T02:58:19.819324Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUR3M3RMeS1nRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUR3M3RMeS1nRRAB!2m1!1s0x876c7523d7c61045:0x4adb50ed1e6d81ad
+  - name: >-
+      places/ChIJRRDG1yN1bIcRrYFtHu1Q20o/reviews/ChdDSUhNMG9nS0VJQ0FnSURWajVDWjBnRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 4
+    text:
+      text: >-
+        First time visiting, and the food was outstanding. Loved the ambiance,
+        booths, and lighting were romantic. Waitstaff was complimentary and
+        polite. Ordered the lettuce wraps, thinking they were prewrapped, but
+        you prepared them yourself. The bento box comes with a good portion of
+        food. Sushi rolls are also fulfilling. It's definitely worth visiting.
+      languageCode: en
+    originalText:
+      text: >-
+        First time visiting, and the food was outstanding. Loved the ambiance,
+        booths, and lighting were romantic. Waitstaff was complimentary and
+        polite. Ordered the lettuce wraps, thinking they were prewrapped, but
+        you prepared them yourself. The bento box comes with a good portion of
+        food. Sushi rolls are also fulfilling. It's definitely worth visiting.
+      languageCode: en
+    authorAttribution:
+      displayName: Lorenzo R. C
+      uri: https://www.google.com/maps/contrib/113825469726453112594/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjW0fevbH7qpd6EJipqUk31seuoz2lRlFaBXwazD0rkDf9Sgxe69=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2023-12-18T15:06:06.963137Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURWajVDWjBnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURWajVDWjBnRRAB!2m1!1s0x876c7523d7c61045:0x4adb50ed1e6d81ad
+  - name: >-
+      places/ChIJRRDG1yN1bIcRrYFtHu1Q20o/reviews/ChRDSUhNMG9nS0VJQ0FnSURYLXJ0SBAB
+    relativePublishTimeDescription: 6 months ago
+    rating: 5
+    text:
+      text: |-
+        The food was good.
+
+        Good menu selection.
+
+        Service was good.
+
+        Restaurant was clean.
+
+        Bathrooms were clean.
+      languageCode: en
+    originalText:
+      text: |-
+        The food was good.
+
+        Good menu selection.
+
+        Service was good.
+
+        Restaurant was clean.
+
+        Bathrooms were clean.
+      languageCode: en
+    authorAttribution:
+      displayName: Athena G M
+      uri: https://www.google.com/maps/contrib/105945965963719917030/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJku5WOgheOzLVXpqwmZvp8AKg2tuAETkCZopTAK5V06MPPKw=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-10-26T14:08:48.637520Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChRDSUhNMG9nS0VJQ0FnSURYLXJ0SBAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChRDSUhNMG9nS0VJQ0FnSURYLXJ0SBAB!2m1!1s0x876c7523d7c61045:0x4adb50ed1e6d81ad
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors often rave about the solid value of
+  Happy Sumo's lunch specials, highlighting generous portions of sushi that make
+  for a satisfying meal without breaking the bank. Many appreciate the friendly
+  service and efficient staff who keep things running smoothly, adding to the
+  overall enjoyable experience at this local favorite. While some note that
+  certain dishes could use a bit more zest, the standout rolls and sides like
+  Hawaiian fried rice still earn high marks for their taste and variety.
+  Overall, it's a spot where folks feel welcomed, with quick service and a cozy
+  atmosphere making it worth trying for sushi enthusiasts. If you're on the hunt
+  for reliable Japanese places nearby, this one tends to deliver a positive vibe
+  despite the occasional minor hiccup.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
+delivery: true
+dine_in: true
 good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: true
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
 serves_brunch: null
-serves_cocktails: null
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Sophisticated Asian bistro offering both traditional Japanese fare &
+  innovative sushi rolls.
 
 ---

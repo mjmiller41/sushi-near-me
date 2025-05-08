@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Muse Fusion + Sushi"
+title: Muse Fusion + Sushi
 permalink: /texas/austin/muse-fusion-sushi.html
 stateAbbr: TX
 stateName: Texas
 cityName: Austin
 seo:
-  name: "Muse Fusion + Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.musefusionsushiatx.com/
-description: "Muse Fusion + Sushi serves delicious sushi in Austin, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJm4FCsbVLW4YROYdCHI2vVq8
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x865b4bb5b142819b:0xaf56af8d1c428739!10e5
 primary_type: Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:00 PM'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:30 PM'
     - 'Saturday: 11:00 AM – 9:30 PM'
     - 'Sunday: 11:00 AM – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 9:30 PM'
-    - 'Saturday: 11:00 AM – 9:30 PM'
-    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,344 @@ phone: (512) 291-3637
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.4'
-rating_count: 0
+rating_count: 198
 website: http://www.musefusionsushiatx.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Muse Fusion + Sushi in Austin, TX$$$Muse Fusion + Sushi in Austin,
+  TX, stands out as a welcoming spot for those seeking fresh sushi and
+  innovative Japanese-inspired dishes in a relaxed neighborhood setting. This
+  casual eatery offers a variety of options including boba drinks, bento boxes,
+  and thoughtful choices for vegetarian and vegan diners, making it a go-to for
+  diverse tastes. Patrons can enjoy the convenience of wheelchair-accessible
+  features and a moderate price range that fits everyday dining, all while
+  savoring consistently high-quality flavors. With its open hours and focus on
+  fresh ingredients, it's an ideal choice for anyone exploring top-rated sushi
+  restaurants nearby, blending simplicity with satisfying meals that keep locals
+  coming back.
+generative_summary: >-
+  Discover Muse Fusion + Sushi in Austin, TX$$$Muse Fusion + Sushi in Austin,
+  TX, stands out as a welcoming spot for those seeking fresh sushi and
+  innovative Japanese-inspired dishes in a relaxed neighborhood setting. This
+  casual eatery offers a variety of options including boba drinks, bento boxes,
+  and thoughtful choices for vegetarian and vegan diners, making it a go-to for
+  diverse tastes. Patrons can enjoy the convenience of wheelchair-accessible
+  features and a moderate price range that fits everyday dining, all while
+  savoring consistently high-quality flavors. With its open hours and focus on
+  fresh ingredients, it's an ideal choice for anyone exploring top-rated sushi
+  restaurants nearby, blending simplicity with satisfying meals that keep locals
+  coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJm4FCsbVLW4YROYdCHI2vVq8/reviews/ChZDSUhNMG9nS0VJQ0FnTURvOGV6SFNnEAE
+    relativePublishTimeDescription: a week ago
+    rating: 4
+    text:
+      text: >-
+        Cute spot in south Austin ✨ it was our first time!
+
+        Ordered potstickers for our appetizer. One Thai tea, one ube drink 🥤
+
+
+        The rolls were tasty. The OMG roll was a bit over the top for me but
+        still delicious. My absolute favorite was the Snow White roll with cream
+        cheese added! 🍥
+
+        that’s worth returning for takeout 🥡
+
+        The bowl of rice on the side was definitely tasty and brought some
+        balance to the flavors in the OMG.
+
+        Total bill with drinks was $78 😮
+
+        Drinks alone we paid $19.
+
+        Maybe try their specials on Tuesday to start (:
+      languageCode: en
+    originalText:
+      text: >-
+        Cute spot in south Austin ✨ it was our first time!
+
+        Ordered potstickers for our appetizer. One Thai tea, one ube drink 🥤
+
+
+        The rolls were tasty. The OMG roll was a bit over the top for me but
+        still delicious. My absolute favorite was the Snow White roll with cream
+        cheese added! 🍥
+
+        that’s worth returning for takeout 🥡
+
+        The bowl of rice on the side was definitely tasty and brought some
+        balance to the flavors in the OMG.
+
+        Total bill with drinks was $78 😮
+
+        Drinks alone we paid $19.
+
+        Maybe try their specials on Tuesday to start (:
+      languageCode: en
+    authorAttribution:
+      displayName: Viva M
+      uri: https://www.google.com/maps/contrib/105817452679760243839/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjW16NQlKMJatjlo5gjOLWwf4FG5XdkwQlSwwr3E8yNXhgwg2iE8=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-26T02:59:23.626157Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURvOGV6SFNnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURvOGV6SFNnEAE!2m1!1s0x865b4bb5b142819b:0xaf56af8d1c428739
+  - name: >-
+      places/ChIJm4FCsbVLW4YROYdCHI2vVq8/reviews/ChZDSUhNMG9nS0VJQ0FnTUNnbHVQdldREAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        I’ve come here time to time since they opened, and they have gotten
+        better and better over time. The food is always consistent fresh, and
+        delicious. The staff is very nice, especially the Asian man who is very
+        smiley and friendly at the counter. The drinks are yummy, I really enjoy
+        the cucumber mint drink, and the strawberry limeade. They have a Tuna
+        sando and it is pretty tasty and the portions match the price. I always
+        enjoy my meals here. Also glad to have a quick not over crowded sushi
+        place close to home.
+      languageCode: en
+    originalText:
+      text: >-
+        I’ve come here time to time since they opened, and they have gotten
+        better and better over time. The food is always consistent fresh, and
+        delicious. The staff is very nice, especially the Asian man who is very
+        smiley and friendly at the counter. The drinks are yummy, I really enjoy
+        the cucumber mint drink, and the strawberry limeade. They have a Tuna
+        sando and it is pretty tasty and the portions match the price. I always
+        enjoy my meals here. Also glad to have a quick not over crowded sushi
+        place close to home.
+      languageCode: en
+    authorAttribution:
+      displayName: Samantha Vicario
+      uri: https://www.google.com/maps/contrib/116404289426025971201/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJK0dCzH4C0clAH5O99XCSbGZ4fLzuEtVmsaE1mG5I7kyawzw=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-02-16T22:46:54.412819Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNnbHVQdldREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNnbHVQdldREAE!2m1!1s0x865b4bb5b142819b:0xaf56af8d1c428739
+  - name: >-
+      places/ChIJm4FCsbVLW4YROYdCHI2vVq8/reviews/ChZDSUhNMG9nS0VJQ0FnTUNvOHY2RlRREAE
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        I went by Muse with a couple friends tonight and had a great time. The
+        girl at the counter Alex was the perfect mix of friendly and
+        professional; she was fun and set a happy tone for the night. Seating
+        was open with plenty of space for our group, and our drinks and
+        appetizers came out quickly. The food was fantastic and the atmosphere
+        was great. There was some music, but it wasn’t  loud so my friends and I
+        could have easily have a conversation.
+
+
+        I’d absolutely recommend it as a great spot for a night out with your
+        friends or significant other.
+      languageCode: en
+    originalText:
+      text: >-
+        I went by Muse with a couple friends tonight and had a great time. The
+        girl at the counter Alex was the perfect mix of friendly and
+        professional; she was fun and set a happy tone for the night. Seating
+        was open with plenty of space for our group, and our drinks and
+        appetizers came out quickly. The food was fantastic and the atmosphere
+        was great. There was some music, but it wasn’t  loud so my friends and I
+        could have easily have a conversation.
+
+
+        I’d absolutely recommend it as a great spot for a night out with your
+        friends or significant other.
+      languageCode: en
+    authorAttribution:
+      displayName: Alex Shoopman
+      uri: https://www.google.com/maps/contrib/113636546561444866591/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJ8WgVoyEzNOOsPeMAMHhj6grnZJTuv0QrT1G8gI9fx66vMdA=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-16T04:06:30.947909Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNvOHY2RlRREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNvOHY2RlRREAE!2m1!1s0x865b4bb5b142819b:0xaf56af8d1c428739
+  - name: >-
+      places/ChIJm4FCsbVLW4YROYdCHI2vVq8/reviews/ChZDSUhNMG9nS0VJQ0FnTURJNnFtOFZREAE
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 4
+    text:
+      text: >-
+        Nice clean
+
+        Service  was pretty quick I had the spicy tuna Sando got a cucumber mint
+        lime
+
+        Trying to eat good but tuna was nice and fresh crisp clean . I wish a
+        seafood salad.
+      languageCode: en
+    originalText:
+      text: >-
+        Nice clean
+
+        Service  was pretty quick I had the spicy tuna Sando got a cucumber mint
+        lime
+
+        Trying to eat good but tuna was nice and fresh crisp clean . I wish a
+        seafood salad.
+      languageCode: en
+    authorAttribution:
+      displayName: Andy Herrera
+      uri: https://www.google.com/maps/contrib/108697405178560816044/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjX7Z-ZQx94Erd6o2NEVxxPgl-jm4Qb4CPPouW7RDRDomWNj7aI7=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-08T23:36:37.877787Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURJNnFtOFZREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJNnFtOFZREAE!2m1!1s0x865b4bb5b142819b:0xaf56af8d1c428739
+  - name: >-
+      places/ChIJm4FCsbVLW4YROYdCHI2vVq8/reviews/ChdDSUhNMG9nS0VJQ0FnTUNReE96aWt3RRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 4
+    text:
+      text: >-
+        Rating: 3.6/5 [delivery]
+
+
+        The food took about an hour to arrive, and unfortunately, the sushi
+        rolls were underwhelming—basic in flavor and small for the price. The
+        search for great sushi in Austin continues.
+
+
+        C9 Dragon Roll ($17): Nori with protein, kanikama mix, cucumbers,
+        masago, scallions, and sesame seeds. They offer more protein choices on
+        Postmates, so my husband chose BBQ eel. This had a more cohesive flavor
+        than the Happy Roll, but still nothing special.
+
+
+        M10 Happy Roll ($19.50): Nori with BBQ eel, cucumbers, kanikama, fresh
+        salmon, lemon, crunchy topping, unagi sauce, sriracha, masago, sesame
+        seeds, and scallions. I didn’t realize it had eel until checking the
+        menu—mostly tasted the salmon. Wasn’t a fan of the overall flavor.
+
+
+        A1 Bird Nest ($15.95): Baked avocado stuffed with kanikama mix, spicy
+        mayo, snow sauce, and sesame seeds. This was the highlight of the
+        meal—delicious and much better than the sushi. Highly recommend!
+
+
+        Pistachio Berry Sandwich ($9.50): Fried Japanese shokupan milk bread
+        filled with pistachio whipped cream, topped with pistachios and
+        strawberry jam. This was so good and easily the best part of the meal.
+        The crispy bread was amazing! There was a bit too much cream left over,
+        but it wasn’t overly sweet.
+
+
+        They also forgot our tiger milk with honey boba, but we got a refund.
+
+
+        Would I come back for the sushi? Probably not. But the Bird Nest and
+        dessert made the visit worthwhile!
+      languageCode: en
+    originalText:
+      text: >-
+        Rating: 3.6/5 [delivery]
+
+
+        The food took about an hour to arrive, and unfortunately, the sushi
+        rolls were underwhelming—basic in flavor and small for the price. The
+        search for great sushi in Austin continues.
+
+
+        C9 Dragon Roll ($17): Nori with protein, kanikama mix, cucumbers,
+        masago, scallions, and sesame seeds. They offer more protein choices on
+        Postmates, so my husband chose BBQ eel. This had a more cohesive flavor
+        than the Happy Roll, but still nothing special.
+
+
+        M10 Happy Roll ($19.50): Nori with BBQ eel, cucumbers, kanikama, fresh
+        salmon, lemon, crunchy topping, unagi sauce, sriracha, masago, sesame
+        seeds, and scallions. I didn’t realize it had eel until checking the
+        menu—mostly tasted the salmon. Wasn’t a fan of the overall flavor.
+
+
+        A1 Bird Nest ($15.95): Baked avocado stuffed with kanikama mix, spicy
+        mayo, snow sauce, and sesame seeds. This was the highlight of the
+        meal—delicious and much better than the sushi. Highly recommend!
+
+
+        Pistachio Berry Sandwich ($9.50): Fried Japanese shokupan milk bread
+        filled with pistachio whipped cream, topped with pistachios and
+        strawberry jam. This was so good and easily the best part of the meal.
+        The crispy bread was amazing! There was a bit too much cream left over,
+        but it wasn’t overly sweet.
+
+
+        They also forgot our tiger milk with honey boba, but we got a refund.
+
+
+        Would I come back for the sushi? Probably not. But the Bird Nest and
+        dessert made the visit worthwhile!
+      languageCode: en
+    authorAttribution:
+      displayName: Angelica Le
+      uri: https://www.google.com/maps/contrib/106253729330825296811/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIOWBMa7jVofIayjpnICgpnxr9edArDUjsP5bGPjhHs-B9ToL8l=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2025-03-02T01:07:30.536407Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNReE96aWt3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNReE96aWt3RRAB!2m1!1s0x865b4bb5b142819b:0xaf56af8d1c428739
+review_summary: >-
+  Customer Feedback Highlights$$$Visitors to this Austin sushi spot often rave
+  about the fresh, flavorful rolls and drinks that hit the spot without
+  overwhelming the palate, creating a laid-back vibe perfect for casual meetups.
+  Many appreciate the quick service and welcoming atmosphere, which makes it
+  easy to enjoy a meal whether you're grabbing takeout or dining in with
+  friends. While some note that prices can add up for larger orders, the overall
+  experience is frequently praised for its balance of tasty options and portion
+  sizes that feel just right. Folks searching for sushi places near them find it
+  a solid pick for everyday cravings, with highlights like creative appetizers
+  and refreshing beverages earning consistent nods. All in all, it's a reliable
+  choice that delivers on flavor and convenience, encouraging repeat visits for
+  those who love exploring local Japanese fare.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: false
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
+curbside_pickup: false
+delivery: true
+dine_in: true
 good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
+good_for_groups: true
+good_for_sports: false
+live_music: false
 menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+outdoor_seating: false
+reservable: false
+restroom: true
+serves_beer: false
 serves_breakfast: null
 serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_cocktails: false
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: false
+serves_wine: false
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

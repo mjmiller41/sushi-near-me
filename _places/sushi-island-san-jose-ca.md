@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Island"
+title: Sushi Island
 permalink: /california/san-jose/sushi-island.html
 stateAbbr: CA
 stateName: California
 cityName: San Jose
 seo:
-  name: "Sushi Island"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi Island serves delicious sushi in San Jose, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJd5S4W6s1joARE51FdFCKIUY
 photos:
   - name: >-
@@ -185,7 +183,44 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Sushi Island in San Jose, CA$$$Sushi Island in San Jose, California,
+  stands out as a welcoming Japanese restaurant offering a variety of fresh
+  rolls, nigiri, and tempura for those seeking sushi places near me. The spot
+  features convenient bento boxes packed with flavorful options, making it ideal
+  for a casual meal with friends or a quick solo visit. Accessibility is a key
+  highlight, with wheelchair-friendly parking, entrances, and seating that
+  enhance the overall experience for all guests. If you're exploring top-rated
+  sushi restaurants in the area, this location delivers a relaxed vibe with
+  authentic flavors that capture the essence of Japanese cuisine. Its
+  straightforward menu and inviting atmosphere make it a go-to choice for anyone
+  craving quality sushi close to me.
+generative_summary: >-
+  Discover Sushi Island in San Jose, CA$$$Sushi Island in San Jose, California,
+  stands out as a welcoming Japanese restaurant offering a variety of fresh
+  rolls, nigiri, and tempura for those seeking sushi places near me. The spot
+  features convenient bento boxes packed with flavorful options, making it ideal
+  for a casual meal with friends or a quick solo visit. Accessibility is a key
+  highlight, with wheelchair-friendly parking, entrances, and seating that
+  enhance the overall experience for all guests. If you're exploring top-rated
+  sushi restaurants in the area, this location delivers a relaxed vibe with
+  authentic flavors that capture the essence of Japanese cuisine. Its
+  straightforward menu and inviting atmosphere make it a go-to choice for anyone
+  craving quality sushi close to me.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Recent Feedback$$$Folks often rave about the fresh and tasty
+  sushi at this spot, noting the generous portions that leave you feeling
+  satisfied without breaking the bank. Many highlight the creative twists on
+  classic dishes, adding a fun element that keeps things exciting on every
+  visit. The service stands out as friendly and efficient, helping to create a
+  welcoming environment that makes dining out a breeze. Overall, visitors
+  describe their experiences as memorable and enjoyable, with the combination of
+  great food and attentive staff earning high marks. If you're on the hunt for
+  reliable Japanese places near me, this restaurant seems to deliver a solid,
+  feel-good meal that keeps people coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +246,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

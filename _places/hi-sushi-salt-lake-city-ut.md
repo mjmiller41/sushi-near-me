@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Hi Sushi"
+title: Hi Sushi
 permalink: /utah/salt-lake-city/hi-sushi.html
 stateAbbr: UT
 stateName: Utah
 cityName: Salt Lake City
 seo:
-  name: "Hi Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.hisushiut.com/
-description: "Hi Sushi serves delicious sushi in Salt Lake City, Utah. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJHV8Eb3FgUocREp3ZztwYIq4
 photos:
   - name: >-
@@ -156,7 +154,7 @@ accessibility_options:
   wheelchairAccessibleEntrance: true
   wheelchairAccessibleRestroom: true
   wheelchairAccessibleSeating: true
-business_status: OPERATIONAL
+business_status: CLOSED_TEMPORARILY
 name: Hi Sushi
 google_maps_links:
   directionsUri: >-
@@ -197,35 +195,270 @@ phone: (801) 906-8320
 price_level: null
 price_range: $10 &ndash; $20
 rating: '4.2'
-rating_count: 0
+rating_count: 223
 website: http://www.hisushiut.com/
-reviews: null
+description: >-
+  Discover Hi Sushi in Salt Lake City, UT$$$Hi Sushi in Salt Lake City, UT,
+  stands out as a cozy spot for enjoying fresh Japanese-inspired dishes in a
+  relaxed strip-mall setting, perfect for those seeking sushi restaurants near
+  me. This eatery delights with a variety of options like expertly crafted sushi
+  rolls, sashimi, and bento boxes, all prepared with attention to quality and
+  flavor that make it a go-to choice for authentic tastes. Accessibility
+  features such as wheelchair-friendly entrances and seating add to the
+  welcoming vibe, ensuring everyone can savor the experience. Evening hours from
+  5 PM cater well to diners looking for a casual meal, while the menu's balance
+  of traditional elements keeps things simple yet satisfying for sushi
+  enthusiasts exploring the best options in the area.
+generative_summary: >-
+  Discover Hi Sushi in Salt Lake City, UT$$$Hi Sushi in Salt Lake City, UT,
+  stands out as a cozy spot for enjoying fresh Japanese-inspired dishes in a
+  relaxed strip-mall setting, perfect for those seeking sushi restaurants near
+  me. This eatery delights with a variety of options like expertly crafted sushi
+  rolls, sashimi, and bento boxes, all prepared with attention to quality and
+  flavor that make it a go-to choice for authentic tastes. Accessibility
+  features such as wheelchair-friendly entrances and seating add to the
+  welcoming vibe, ensuring everyone can savor the experience. Evening hours from
+  5 PM cater well to diners looking for a casual meal, while the menu's balance
+  of traditional elements keeps things simple yet satisfying for sushi
+  enthusiasts exploring the best options in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJHV8Eb3FgUocREp3ZztwYIq4/reviews/ChdDSUhNMG9nS0VJQ0FnSURWNzZiUGxBRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 4
+    text:
+      text: >-
+        I didn’t have high hopes walking into this place but BOY was I wrong to
+        assume! The area is quite nice and the service was quick and attentive.
+        Food was great, we thought it would be fun to get the Funky White Boy
+        Sushi Roll which was SO good along with the Flaming U which was lit on
+        fire before our eyes. (It was incredible!!) We got another one that I
+        forgot the name of but every roll was great. Would recommend!
+      languageCode: en
+    originalText:
+      text: >-
+        I didn’t have high hopes walking into this place but BOY was I wrong to
+        assume! The area is quite nice and the service was quick and attentive.
+        Food was great, we thought it would be fun to get the Funky White Boy
+        Sushi Roll which was SO good along with the Flaming U which was lit on
+        fire before our eyes. (It was incredible!!) We got another one that I
+        forgot the name of but every roll was great. Would recommend!
+      languageCode: en
+    authorAttribution:
+      displayName: Breanna Giang
+      uri: https://www.google.com/maps/contrib/102645386738032415564/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVuczhlovfQUfVdKqkv1XQvWO5ToYgV5JKmOkvh81NqfHFrJwF3=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2023-12-19T05:59:21.807619Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURWNzZiUGxBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURWNzZiUGxBRRAB!2m1!1s0x875260716f045f1d:0xae2218dcced99d12
+  - name: >-
+      places/ChIJHV8Eb3FgUocREp3ZztwYIq4/reviews/ChZDSUhNMG9nS0VJQ0FnSUNENk5XTVlnEAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        I stumbled across this small intimate feeling sushi place.  I ordered
+        the Shrimp Tempura Bento (substitute extra gyoza for california roll) &
+        Vegetable Tempura.
+
+
+        The tempura was very light & perfectly textured.  The pumpkin & sweet
+        potato are especially yummy.
+
+
+        The bento box was beautifully displayed.  The gyoza tasted delicious. 
+        The salad dressing a little tart to off set the rice, and tempura.  The
+        miso was warm and exactly what you expect from miso soup.
+
+
+        Definitely a place I plan to come back to for another great dining
+        experience.
+      languageCode: en
+    originalText:
+      text: >-
+        I stumbled across this small intimate feeling sushi place.  I ordered
+        the Shrimp Tempura Bento (substitute extra gyoza for california roll) &
+        Vegetable Tempura.
+
+
+        The tempura was very light & perfectly textured.  The pumpkin & sweet
+        potato are especially yummy.
+
+
+        The bento box was beautifully displayed.  The gyoza tasted delicious. 
+        The salad dressing a little tart to off set the rice, and tempura.  The
+        miso was warm and exactly what you expect from miso soup.
+
+
+        Definitely a place I plan to come back to for another great dining
+        experience.
+      languageCode: en
+    authorAttribution:
+      displayName: Bethany S
+      uri: https://www.google.com/maps/contrib/109042910800817127301/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVzT8IE_7hD-ql6IZy87Ah8wvjAob5tqRAyR0BJMpa5FAKMnnE1zQ=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-03-24T01:35:32.648921Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNENk5XTVlnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNENk5XTVlnEAE!2m1!1s0x875260716f045f1d:0xae2218dcced99d12
+  - name: >-
+      places/ChIJHV8Eb3FgUocREp3ZztwYIq4/reviews/ChZDSUhNMG9nS0VJQ0FnSURScTRqQkVBEAE
+    relativePublishTimeDescription: 2 years ago
+    rating: 5
+    text:
+      text: >-
+        Loved it here! Very unassuming place, but my friend booked the karaoke
+        room for a bachelorette party. The staff was quick and friendly - and
+        super accommodating. We showed up early to eat before karaoke, and they
+        let us into the room a bit early.
+
+
+        Definitely recommend the Katsu combo or the combo sushi!
+      languageCode: en
+    originalText:
+      text: >-
+        Loved it here! Very unassuming place, but my friend booked the karaoke
+        room for a bachelorette party. The staff was quick and friendly - and
+        super accommodating. We showed up early to eat before karaoke, and they
+        let us into the room a bit early.
+
+
+        Definitely recommend the Katsu combo or the combo sushi!
+      languageCode: en
+    authorAttribution:
+      displayName: Felicity Dawn
+      uri: https://www.google.com/maps/contrib/117002823913861302566/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJWvpWKBP66r7fpyXlVSW5XW8Fpsel-ZaaFlCx3iEKVTZVn2Mo=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2023-05-03T22:48:08.622236Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURScTRqQkVBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURScTRqQkVBEAE!2m1!1s0x875260716f045f1d:0xae2218dcced99d12
+  - name: >-
+      places/ChIJHV8Eb3FgUocREp3ZztwYIq4/reviews/ChRDSUhNMG9nS0VJQ0FnSUNlMVpobxAB
+    relativePublishTimeDescription: 2 years ago
+    rating: 5
+    text:
+      text: >-
+        It's our new FAVORITE sushi restaurant now!
+
+
+        The rolls are so amazing and loaded with fish/crab/shrimp and not over
+        loaded with rice and other fillers.
+
+
+        10 out of 10 on the service and staff. 👍👍👍👍👍
+      languageCode: en
+    originalText:
+      text: >-
+        It's our new FAVORITE sushi restaurant now!
+
+
+        The rolls are so amazing and loaded with fish/crab/shrimp and not over
+        loaded with rice and other fillers.
+
+
+        10 out of 10 on the service and staff. 👍👍👍👍👍
+      languageCode: en
+    authorAttribution:
+      displayName: Mike
+      uri: https://www.google.com/maps/contrib/112502661060943049218/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVI_PqvdERQSnqzhyFSrV5DxtbtR7v5d-4hDgHBSi6ttEm7vHrMoQ=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2022-09-19T20:15:15.837120Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChRDSUhNMG9nS0VJQ0FnSUNlMVpobxAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChRDSUhNMG9nS0VJQ0FnSUNlMVpobxAB!2m1!1s0x875260716f045f1d:0xae2218dcced99d12
+  - name: >-
+      places/ChIJHV8Eb3FgUocREp3ZztwYIq4/reviews/ChZDSUhNMG9nS0VJQ0FnSUN5XzRUalJnEAE
+    relativePublishTimeDescription: 4 years ago
+    rating: 5
+    text:
+      text: >-
+        Pros: a little off the beaten path, Hi Sushi was a pleasant surprise.
+        The atmosphere in the restaurant is calm and relaxing. I liked this vibe
+        more than Tsunami which is crowded and dark. The waiters were really
+        nice. And the sushi was great. Nothing crazy but a solid experience all
+        around.
+
+
+        Cons: Nothing will blow you away, but Hi Sushi is a solid restaurant.
+      languageCode: en
+    originalText:
+      text: >-
+        Pros: a little off the beaten path, Hi Sushi was a pleasant surprise.
+        The atmosphere in the restaurant is calm and relaxing. I liked this vibe
+        more than Tsunami which is crowded and dark. The waiters were really
+        nice. And the sushi was great. Nothing crazy but a solid experience all
+        around.
+
+
+        Cons: Nothing will blow you away, but Hi Sushi is a solid restaurant.
+      languageCode: en
+    authorAttribution:
+      displayName: Niel Christensen
+      uri: https://www.google.com/maps/contrib/104769014306141331381/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIJ2q_65RsPsdB4G8WeueoZA8TjLqz_bYppORhd-H1gjol70F8=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2021-02-19T10:10:30.588130Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN5XzRUalJnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN5XzRUalJnEAE!2m1!1s0x875260716f045f1d:0xae2218dcced99d12
+review_summary: >-
+  What Customers Are Saying$$$Visitors to Hi Sushi often praise the fresh and
+  flavorful rolls, with many highlighting how the generous portions and creative
+  presentations make for a standout meal when craving top-rated sushi. Folks
+  appreciate the quick, friendly service that enhances the laid-back atmosphere,
+  turning a simple dinner into a enjoyable outing without any fuss. Feedback
+  frequently notes the delicious bento boxes and tempura as reliable favorites
+  that deliver great value, encouraging repeat visits for anyone searching for
+  reliable Japanese places near me. Overall, the consensus leans positive, with
+  diners enjoying the solid food quality and accommodating staff, though some
+  mention it's more about consistent goodness than groundbreaking innovation. If
+  you're in the mood for I love sushi moments, this spot seems to hit the mark
+  for a satisfying experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
-payment_options: null
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
+delivery: false
+dine_in: true
+good_for_children: true
 good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
 serves_cocktails: null
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Informal strip-mall eatery serving Japanese fare such as sushi rolls, sashimi
+  & bento boxes.
 
 ---

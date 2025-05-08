@@ -5,4 +5,5 @@ permalink: /pennsylvania/red-lion/
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Red Lion
+
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Xinbao"
+title: Xinbao
 permalink: /new-york/jamaica/xinbao.html
 stateAbbr: NY
 stateName: New York
 cityName: Jamaica
 seo:
-  name: "Xinbao"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Xinbao serves delicious sushi in Jamaica, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJI14DKsFmwokRzOwOx0OfdbM
 photos:
   - name: >-
@@ -195,6 +193,29 @@ price_range: null
 rating: '3.6'
 rating_count: 0
 website: null
+description: >-
+  Discover Xinbao in Jamaica, NY$$$Xinbao in Jamaica, New York, stands out as a
+  casual Chinese eatery offering a selection of classic dishes that highlight
+  fresh flavors and hearty portions. This spot serves up favorites like sesame
+  chicken, barbecue options, and lo mein, making it a go-to for anyone craving
+  authentic Chinese cuisine in a relaxed setting. With convenient hours from
+  11:00 AM to 11:00 PM most days, it's ideal for quick lunches or evening
+  dinners, and its affordable pricing adds to the appeal for locals seeking
+  Chinese restaurants nearby. The eatery emphasizes simple, satisfying meals
+  that pair well with everyday routines, ensuring a welcoming atmosphere for
+  those exploring Chinese food options in the area.
+generative_summary: >-
+  Discover Xinbao in Jamaica, NY$$$Xinbao in Jamaica, New York, stands out as a
+  casual Chinese eatery offering a selection of classic dishes that highlight
+  fresh flavors and hearty portions. This spot serves up favorites like sesame
+  chicken, barbecue options, and lo mein, making it a go-to for anyone craving
+  authentic Chinese cuisine in a relaxed setting. With convenient hours from
+  11:00 AM to 11:00 PM most days, it's ideal for quick lunches or evening
+  dinners, and its affordable pricing adds to the appeal for locals seeking
+  Chinese restaurants nearby. The eatery emphasizes simple, satisfying meals
+  that pair well with everyday routines, ensuring a welcoming atmosphere for
+  those exploring Chinese food options in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJI14DKsFmwokRzOwOx0OfdbM/reviews/ChdDSUhNMG9nS0VJQ0FnSUN2cXVTWXV3RRAB
@@ -412,6 +433,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNIb0lEVEh3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNIb0lEVEh3EAE!2m1!1s0x89c266c12a035e23:0xb3759f43c70eeccc
+review_summary: >-
+  Insights from Recent Feedback$$$Feedback from visitors to this Chinese eatery
+  often highlights the tasty and flavorful dishes as a major plus, with many
+  appreciating the variety and solid portions that make meals feel worthwhile.
+  While some mentions point to occasional delays in delivery that can frustrate
+  quick orders, the overall value and taste keep it on the favorites list for
+  affordable takeout. Folks generally note that calling ahead helps smooth out
+  any service kinks, leading to a more enjoyable experience when grabbing
+  Chinese favorites. Despite a few mix-ups with orders in the past, the
+  consensus leans positive on the food's quality, encouraging newcomers to give
+  it a try for a satisfying bite in a casual vibe.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -437,7 +470,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

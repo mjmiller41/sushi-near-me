@@ -5,4 +5,5 @@ permalink: /maryland/takoma-park/
 stateAbbr: MD
 stateName: Maryland
 cityName: Takoma Park
+
 ---

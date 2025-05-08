@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Bayard Sushi"
+title: Bayard Sushi
 permalink: /new-york/new-york/bayard-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "Bayard Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.bayardsushinewyork.com/
-description: "Bayard Sushi serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJuxFpJjVbwokR6Y47VCV0z9Q
 photos:
   - name: >-
@@ -181,6 +179,29 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 0
 website: https://www.bayardsushinewyork.com/
+description: >-
+  Discover Bayard Sushi in New York, NY$$$Bayard Sushi in New York, NY, stands
+  out as a casual eatery specializing in authentic Japanese flavors, perfect for
+  those exploring sushi restaurants in the bustling city. This cozy spot offers
+  a selection of fresh sushi and tempura, drawing in locals and visitors alike
+  with its simple yet inviting vibe. Patrons can savor a variety of Japanese
+  dishes that highlight quality ingredients and traditional preparation, making
+  it a go-to for anyone craving sushi near me. The moderate pricing adds to its
+  appeal, providing an accessible option for enjoying top-rated sushi without
+  the fuss. Whether you're in the mood for a quick meal or a relaxed dining
+  experience, this place delivers on fresh tastes in a welcoming environment.
+generative_summary: >-
+  Discover Bayard Sushi in New York, NY$$$Bayard Sushi in New York, NY, stands
+  out as a casual eatery specializing in authentic Japanese flavors, perfect for
+  those exploring sushi restaurants in the bustling city. This cozy spot offers
+  a selection of fresh sushi and tempura, drawing in locals and visitors alike
+  with its simple yet inviting vibe. Patrons can savor a variety of Japanese
+  dishes that highlight quality ingredients and traditional preparation, making
+  it a go-to for anyone craving sushi near me. The moderate pricing adds to its
+  appeal, providing an accessible option for enjoying top-rated sushi without
+  the fuss. Whether you're in the mood for a quick meal or a relaxed dining
+  experience, this place delivers on fresh tastes in a welcoming environment.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJuxFpJjVbwokR6Y47VCV0z9Q/reviews/ChdDSUhNMG9nS0VJQ0FnTURJOW95YndRRRAB
@@ -328,6 +349,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUR3b0pIOTVRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUR3b0pIOTVRRRAB!2m1!1s0x89c25b35266911bb:0xd4cf7425543b8ee9
+review_summary: >-
+  What Customers Are Buzzing About$$$Visitors often praise the flavorful sushi
+  selections, like spicy salmon and tempura shrimp, for their fresh taste and
+  solid value at this spot. Many folks appreciate the friendly service and
+  efficient takeout options, making it a handy choice for busy days or casual
+  meetups. While most feedback highlights the reasonable prices and quality
+  ingredients that keep things enjoyable, a few note that portions can vary, so
+  it's worth keeping expectations in check. Overall, the vibe is cozy and
+  unpretentious, adding to the fun of grabbing top sushi nearby without breaking
+  the bank. If you're hunting for reliable Japanese places near me, this
+  location gets solid nods for its straightforward appeal and tasty bites.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options:
   acceptsCreditCards: true
@@ -357,7 +390,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

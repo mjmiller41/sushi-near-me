@@ -5,4 +5,5 @@ permalink: /new-york/scarsdale/
 stateAbbr: NY
 stateName: New York
 cityName: Scarsdale
+
 ---

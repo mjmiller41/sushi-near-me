@@ -5,4 +5,5 @@ permalink: /wisconsin/burlington/
 stateAbbr: WI
 stateName: Wisconsin
 cityName: Burlington
+
 ---

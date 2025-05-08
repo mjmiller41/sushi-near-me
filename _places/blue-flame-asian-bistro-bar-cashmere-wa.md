@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Blue Flame Asian Bistro & Bar"
+title: Blue Flame Asian Bistro & Bar
 permalink: /washington/cashmere/blue-flame-asian-bistro-bar.html
 stateAbbr: WA
 stateName: Washington
 cityName: Cashmere
 seo:
-  name: "Blue Flame Asian Bistro & Bar"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Blue Flame Asian Bistro & Bar serves delicious sushi in Cashmere, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJAWLOTdNKmlQRBnG07WgNZ9c
 photos:
   - name: >-
@@ -185,7 +183,45 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Blue Flame Asian Bistro & Bar in Cashmere, WA$$$Blue Flame Asian
+  Bistro & Bar in Cashmere, Washington, offers a relaxed atmosphere perfect for
+  enjoying a variety of Asian flavors, including fresh sushi options that appeal
+  to those exploring local dining spots. This spot specializes in a range of
+  dishes served for both lunch and dinner, making it an ideal choice for casual
+  meals with friends or family. Patrons can appreciate the accessible features,
+  such as easy entry and seating, enhancing the overall experience for everyone.
+  The bistro's focus on quality ingredients shines through in its menu,
+  providing a welcoming space for discovering new tastes in Japanese-inspired
+  cuisine. Whether you're seeking sushi places near you or simply a cozy spot
+  for Asian fare, this location delivers on both comfort and culinary variety.
+generative_summary: >-
+  Discover Blue Flame Asian Bistro & Bar in Cashmere, WA$$$Blue Flame Asian
+  Bistro & Bar in Cashmere, Washington, offers a relaxed atmosphere perfect for
+  enjoying a variety of Asian flavors, including fresh sushi options that appeal
+  to those exploring local dining spots. This spot specializes in a range of
+  dishes served for both lunch and dinner, making it an ideal choice for casual
+  meals with friends or family. Patrons can appreciate the accessible features,
+  such as easy entry and seating, enhancing the overall experience for everyone.
+  The bistro's focus on quality ingredients shines through in its menu,
+  providing a welcoming space for discovering new tastes in Japanese-inspired
+  cuisine. Whether you're seeking sushi places near you or simply a cozy spot
+  for Asian fare, this location delivers on both comfort and culinary variety.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About This Spot$$$Folks frequently highlight the
+  fresh and flavorful sushi selections, noting how they hit the spot for anyone
+  craving reliable options close by. Many appreciate the welcoming vibe and
+  solid service that make dining here feel effortless and enjoyable, even for
+  groups looking to unwind. Comments often touch on the variety of Asian dishes
+  available, praising their balance of taste and portion sizes for both lunch
+  and dinner crowds. Overall, it's seen as a go-to choice for those searching
+  for top-rated sushi experiences without the fuss, with positive nods to its
+  accessibility features adding to the appeal. While experiences can vary, the
+  general feedback keeps an upbeat tone, suggesting it's worth a visit for
+  anyone in the area hunting for quality eats.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +247,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Nori Ramen and Sushi Bar"
+title: Nori Ramen and Sushi Bar
 permalink: /new-mexico/rio-rancho/nori-ramen-and-sushi-bar.html
 stateAbbr: NM
 stateName: New Mexico
 cityName: Rio Rancho
 seo:
-  name: "Nori Ramen and Sushi Bar"
-  type: Restaurant
+  type: restaurant
   links: https://selflane.com/bizs/nori-ramen-and-sushi-bar_rio-rancho_nm
-description: "Nori Ramen and Sushi Bar serves delicious sushi in Rio Rancho, New Mexico. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJx0hF8UFwIocRmtLYczRAvPM
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x87227041f14548c7:0xf3bc403473d8d29a!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:30 PM'
     - 'Saturday: 12:00 – 9:30 PM'
     - 'Sunday: 12:00 – 9:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 9:30 PM'
-    - 'Saturday: 12:00 – 9:30 PM'
-    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T03:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +238,261 @@ phone: (505) 796-5065
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '3.9'
-rating_count: 0
+rating_count: 703
 website: https://selflane.com/bizs/nori-ramen-and-sushi-bar_rio-rancho_nm
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Nori Ramen and Sushi Bar in Rio Rancho, NM$$$Nori Ramen and Sushi Bar
+  in Rio Rancho, NM, stands out as a casual destination for those seeking
+  authentic Japanese flavors in a welcoming setting. This spot delights with a
+  menu featuring fresh ramen, sushi rolls, bento boxes, and savory curries,
+  complemented by selections of beer and sake for a complete dining experience.
+  Accessibility is a key highlight, with wheelchair-friendly parking, entrances,
+  and seating making it easy for everyone to enjoy. Open most days with extended
+  hours on weekends, it's ideal for a relaxed lunch or dinner outing. Whether
+  you're exploring sushi restaurants in the area or looking for Japanese places
+  near me, this venue offers a straightforward vibe that emphasizes quality
+  ingredients and everyday affordability.
+generative_summary: >-
+  Discover Nori Ramen and Sushi Bar in Rio Rancho, NM$$$Nori Ramen and Sushi Bar
+  in Rio Rancho, NM, stands out as a casual destination for those seeking
+  authentic Japanese flavors in a welcoming setting. This spot delights with a
+  menu featuring fresh ramen, sushi rolls, bento boxes, and savory curries,
+  complemented by selections of beer and sake for a complete dining experience.
+  Accessibility is a key highlight, with wheelchair-friendly parking, entrances,
+  and seating making it easy for everyone to enjoy. Open most days with extended
+  hours on weekends, it's ideal for a relaxed lunch or dinner outing. Whether
+  you're exploring sushi restaurants in the area or looking for Japanese places
+  near me, this venue offers a straightforward vibe that emphasizes quality
+  ingredients and everyday affordability.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJx0hF8UFwIocRmtLYczRAvPM/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfaGZmWjhnRRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 1
+    text:
+      text: >-
+        Probably one of the worst sushi places we have visited. We love to try
+        new things, but... We should have just left after we walked in. Food is
+        way overpriced and mediocre at best. Would not recommend.
+
+        Poke bowl, unagi bowl, tonkatsu ramen.
+
+        We also got the sushi boat after specifically asking if it would come in
+        a boat and being told it does .. It doesn't. And half of the "boat" is a
+        California roll. Absolutely ridiculous.
+      languageCode: en
+    originalText:
+      text: >-
+        Probably one of the worst sushi places we have visited. We love to try
+        new things, but... We should have just left after we walked in. Food is
+        way overpriced and mediocre at best. Would not recommend.
+
+        Poke bowl, unagi bowl, tonkatsu ramen.
+
+        We also got the sushi boat after specifically asking if it would come in
+        a boat and being told it does .. It doesn't. And half of the "boat" is a
+        California roll. Absolutely ridiculous.
+      languageCode: en
+    authorAttribution:
+      displayName: Alona Malone (kotenka)
+      uri: https://www.google.com/maps/contrib/111753990027942944790/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocI8SwPoFns22aeimYE8qzVkNhc3Ey8GJHLia2E5DDxYE2-53Ovt=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-01-17T19:23:07.993832Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNfaGZmWjhnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNfaGZmWjhnRRAB!2m1!1s0x87227041f14548c7:0xf3bc403473d8d29a
+  - name: >-
+      places/ChIJx0hF8UFwIocRmtLYczRAvPM/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3OE1hXzhBRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 1
+    text:
+      text: >-
+        Do not order out here.
+
+        They shorted me this time,as well as the last time I ordered to go.
+
+        Swiss rolls come with 2 rolls, I got one.
+
+        The tuna poki bowl is a pound of rice and an 1/8 inch layer of toppings,
+        for $19?
+
+
+        A tip was left also, for what?
+      languageCode: en
+    originalText:
+      text: >-
+        Do not order out here.
+
+        They shorted me this time,as well as the last time I ordered to go.
+
+        Swiss rolls come with 2 rolls, I got one.
+
+        The tuna poki bowl is a pound of rice and an 1/8 inch layer of toppings,
+        for $19?
+
+
+        A tip was left also, for what?
+      languageCode: en
+    authorAttribution:
+      displayName: Fella
+      uri: https://www.google.com/maps/contrib/101094121787379078662/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWHpz5AwB12EMIQG4EzfB7iAGrQDNHfTdcTkmCapRu6vp3j2LLI=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-03-22T23:40:17.320905Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUR3OE1hXzhBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUR3OE1hXzhBRRAB!2m1!1s0x87227041f14548c7:0xf3bc403473d8d29a
+  - name: >-
+      places/ChIJx0hF8UFwIocRmtLYczRAvPM/reviews/ChZDSUhNMG9nS0VJQ0FnSURYMV9fLUJREAE
+    relativePublishTimeDescription: 6 months ago
+    rating: 1
+    text:
+      text: >-
+        I left a review already took that down because this needs to be seen on
+        a new post do not eat here at all last 3 time I have gone it has slowly
+        got worse and worse with my most recent time having a clump of hair in
+        my food if it wasn’t for my fiancé saying we would pay for the food that
+        was fine I would have walked out with my money still in my pocket this
+        place is nasty nasty nasty any review about the food being good is wrong
+        stay away go to best lees 4 stores down by far better service and better
+        quality food
+      languageCode: en
+    originalText:
+      text: >-
+        I left a review already took that down because this needs to be seen on
+        a new post do not eat here at all last 3 time I have gone it has slowly
+        got worse and worse with my most recent time having a clump of hair in
+        my food if it wasn’t for my fiancé saying we would pay for the food that
+        was fine I would have walked out with my money still in my pocket this
+        place is nasty nasty nasty any review about the food being good is wrong
+        stay away go to best lees 4 stores down by far better service and better
+        quality food
+      languageCode: en
+    authorAttribution:
+      displayName: Lawson Littleford
+      uri: https://www.google.com/maps/contrib/109252910709918548938/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVGkzvyjJgqCzcqD4Z_dzv2Ejf5iPfgFYLStRGax6f3dTo9JXBJ=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-10-31T23:14:17.631630Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURYMV9fLUJREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURYMV9fLUJREAE!2m1!1s0x87227041f14548c7:0xf3bc403473d8d29a
+  - name: >-
+      places/ChIJx0hF8UFwIocRmtLYczRAvPM/reviews/ChdDSUhNMG9nS0VJQ0FnTUNBN3ZUVDlnRRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 3
+    text:
+      text: Very simple place. Food is average. Very limited vegetarian options
+      languageCode: en
+    originalText:
+      text: Very simple place. Food is average. Very limited vegetarian options
+      languageCode: en
+    authorAttribution:
+      displayName: Samina Quraishi
+      uri: https://www.google.com/maps/contrib/109835581850171945108/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJ6TFdlo0ilZAU9VGkWylTiyl9I6D-w3X_YtxKyjSObJeZ-Pw=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-02-01T01:48:56.233757Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNBN3ZUVDlnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNBN3ZUVDlnRRAB!2m1!1s0x87227041f14548c7:0xf3bc403473d8d29a
+  - name: >-
+      places/ChIJx0hF8UFwIocRmtLYczRAvPM/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfNWZhWG1nRRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 1
+    text:
+      text: >-
+        We came in wanting some Sushi, and boy, were we disappointed. We ordered
+        things like Yellowtail and were served fish that was most definitely not
+        yellowtail. They messed up our order, forgot multiple items, and had no
+        drinks besides water the day we came. We should've walked out like many
+        others did when they found no drinks. The food was lacking; this is the
+        worst sushi or sushi experience I have ever had. Gas station sushi is
+        better quality and more accurate.
+
+
+        We do not recommend this place. I am honestly surprised we did not get
+        food poisoning as the little fish we ate tasted off and old. We didn't
+        finish anything we got and left after our order finally came out.
+      languageCode: en
+    originalText:
+      text: >-
+        We came in wanting some Sushi, and boy, were we disappointed. We ordered
+        things like Yellowtail and were served fish that was most definitely not
+        yellowtail. They messed up our order, forgot multiple items, and had no
+        drinks besides water the day we came. We should've walked out like many
+        others did when they found no drinks. The food was lacking; this is the
+        worst sushi or sushi experience I have ever had. Gas station sushi is
+        better quality and more accurate.
+
+
+        We do not recommend this place. I am honestly surprised we did not get
+        food poisoning as the little fish we ate tasted off and old. We didn't
+        finish anything we got and left after our order finally came out.
+      languageCode: en
+    authorAttribution:
+      displayName: Vanessa Barela
+      uri: https://www.google.com/maps/contrib/100019874586699533239/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWstlIRbV52az83FxzzXC0i6SiLI_uKeOqBO-xyKv5C1DZA-G6BDw=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-01-17T18:41:16.393328Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNfNWZhWG1nRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNfNWZhWG1nRRAB!2m1!1s0x87227041f14548c7:0xf3bc403473d8d29a
+review_summary: >-
+  What Customers Are Sharing About the Experience$$$Visitors to this sushi spot
+  often mention that the variety of Japanese dishes provides a fun option for
+  casual meals, though some have pointed out inconsistencies in portion sizes
+  and order accuracy that can affect the overall enjoyment. Many appreciate the
+  attempt at fresh flavors in ramen and sushi, but a few note that pricing feels
+  a bit high compared to what shows up on the plate, suggesting it's best for
+  those with modest expectations. Despite these mixed feelings, the atmosphere
+  remains a draw for groups or families wanting a simple dine-in experience, and
+  it's generally seen as worth a try if you're nearby and craving something
+  light. Overall, feedback leans toward being honest about occasional service
+  slip-ups, but the positive aspects like quick takeout options keep it on the
+  radar for local sushi enthusiasts looking to explore more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
 menu_for_children: null
-outdoor_seating: null
+outdoor_seating: false
 reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+restroom: true
+serves_beer: false
+serves_breakfast: false
+serves_brunch: true
+serves_cocktails: false
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

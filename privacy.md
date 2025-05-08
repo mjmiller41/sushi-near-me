@@ -1,14 +1,14 @@
 ---
 layout: page
-permalink: /privacy
-sitemap: false
+permalink: /privacy.html
+title: Privacy Policy
 ---
 
 # Privacy Policy
 
 **Last Updated: April 14, 2025**
 
-At Sushi Near Me ([www.sushi-near-me.us](https://www.sushi-near-me.us)), we value your privacy. This Privacy Policy explains what data we collect, how we use it, and your choices regarding that data. Our website is a directory designed to help you find sushi restaurants near your location.
+At {{ site.title }} ([{{ site.domain }}]({{ site.url }})), we value your privacy. This Privacy Policy explains what data we collect, how we use it, and your choices regarding that data. Our website is a directory designed to help you find {{ site.place_type }}s near your location.
 
 ## 1. Data We Collect
 

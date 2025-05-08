@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Arashi Yama sushi & hibachi lounge"
+title: Arashi Yama sushi & hibachi lounge
 permalink: /florida/gainesville/arashi-yama-sushi-hibachi-lounge.html
 stateAbbr: FL
 stateName: Florida
 cityName: Gainesville
 seo:
-  name: "Arashi Yama sushi & hibachi lounge"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Arashi Yama sushi & hibachi lounge serves delicious sushi in Gainesville, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJiYXcMY-76IgRBXkyJ0-y_HQ
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 0
 website: null
+description: >-
+  Discover Arashi Yama in Gainesville, FL$$$Arashi Yama sushi & hibachi lounge
+  in Gainesville, FL, stands out as a vibrant Japanese restaurant serving fresh
+  sushi and hibachi dishes that blend creative flavors with top-notch
+  ingredients. The menu features a variety of inventive rolls and generous
+  portions, making it an ideal choice for anyone seeking a memorable dining
+  experience in a welcoming environment. Patrons appreciate the attentive
+  service that enhances the cozy atmosphere, perfect for casual meetups or
+  special celebrations. This spot excels in offering both classic favorites and
+  innovative specials, ensuring a satisfying meal that highlights the best of
+  Japanese cuisine. For those exploring sushi options nearby, it's a go-to
+  destination that delivers on quality and taste.
+generative_summary: >-
+  Discover Arashi Yama in Gainesville, FL$$$Arashi Yama sushi & hibachi lounge
+  in Gainesville, FL, stands out as a vibrant Japanese restaurant serving fresh
+  sushi and hibachi dishes that blend creative flavors with top-notch
+  ingredients. The menu features a variety of inventive rolls and generous
+  portions, making it an ideal choice for anyone seeking a memorable dining
+  experience in a welcoming environment. Patrons appreciate the attentive
+  service that enhances the cozy atmosphere, perfect for casual meetups or
+  special celebrations. This spot excels in offering both classic favorites and
+  innovative specials, ensuring a satisfying meal that highlights the best of
+  Japanese cuisine. For those exploring sushi options nearby, it's a go-to
+  destination that delivers on quality and taste.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJiYXcMY-76IgRBXkyJ0-y_HQ/reviews/ChdDSUhNMG9nS0VJQ0FnTUNRNzYzMHhBRRAB
@@ -454,6 +477,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURuNnJTV3hnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURuNnJTV3hnRRAB!2m1!1s0x88e8bb8f31dc8589:0x74fcb24f27327905
+review_summary: >-
+  What Customers Are Raving About$$$From what folks are sharing, this sushi spot
+  really hits the mark with its fresh and flavorful rolls that keep diners
+  coming back for more. Many highlight the generous portions and creative
+  combinations, making it a solid pick for everything from quick bites to date
+  nights, all while feeling like great value for the price. Service stands out
+  as friendly and helpful, adding to the relaxed vibe that makes every visit
+  enjoyable. Overall, it's clear that the high-quality ingredients and variety
+  of dishes make it a favorite among those searching for reliable sushi places
+  in the area. If you're in the mood for something tasty and reliable, this spot
+  consistently delivers a positive experience without any major letdowns.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -485,7 +520,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

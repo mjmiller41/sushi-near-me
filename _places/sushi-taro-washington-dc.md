@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Taro"
+title: Sushi Taro
 permalink: /district-of-columbia/washington/sushi-taro.html
 stateAbbr: DC
 stateName: District of Columbia
 cityName: Washington
 seo:
-  name: "Sushi Taro"
-  type: Restaurant
+  type: restaurant
   links: http://www.sushitaro.com/
-description: "High-end sushi spot with chef's choice dinners, bento-box lunch specials, sake & sho-chu. Sushi Taro serves delicious sushi in Washington, District of Columbia. Try fresh Japanese dishes for a great dining experience. Available for takeout, and dinner."
 place_id: ChIJxSAeOsG3t4kR0DMcgNu5kVQ
 photos:
   - name: >-
@@ -183,6 +181,31 @@ price_range: $100 &ndash; & up
 rating: '4.4'
 rating_count: 0
 website: http://www.sushitaro.com/
+description: >-
+  About Sushi Taro in Washington, DC$$$Sushi Taro in Washington, DC, is a
+  standout spot for those seeking premium Japanese dining, featuring an array of
+  high-quality sushi and creative chef-driven meals. The restaurant shines with
+  its fresh sashimi and thoughtfully prepared small plates that blend bold
+  flavors and textures for a memorable experience. Diners can enjoy bento-box
+  options for lunch or indulge in signature desserts that provide a silky,
+  satisfying finish to any meal. With a focus on authentic ingredients and an
+  intimate atmosphere, it's ideal for anyone exploring top sushi options in the
+  area. Whether you're looking for sushi restaurants near me or a special
+  evening out, this venue delivers polished service and a welcoming vibe that
+  enhances every visit.
+generative_summary: >-
+  About Sushi Taro in Washington, DC$$$Sushi Taro in Washington, DC, is a
+  standout spot for those seeking premium Japanese dining, featuring an array of
+  high-quality sushi and creative chef-driven meals. The restaurant shines with
+  its fresh sashimi and thoughtfully prepared small plates that blend bold
+  flavors and textures for a memorable experience. Diners can enjoy bento-box
+  options for lunch or indulge in signature desserts that provide a silky,
+  satisfying finish to any meal. With a focus on authentic ingredients and an
+  intimate atmosphere, it's ideal for anyone exploring top sushi options in the
+  area. Whether you're looking for sushi restaurants near me or a special
+  evening out, this venue delivers polished service and a welcoming vibe that
+  enhances every visit.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJxSAeOsG3t4kR0DMcgNu5kVQ/reviews/ChZDSUhNMG9nS0VJQ0FnTURBNXN6ME93EAE
@@ -432,6 +455,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQ3cnNmaFR3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQ3cnNmaFR3EAE!2m1!1s0x89b7b7c13a1e20c5:0x5491b9db801c33d0
+review_summary: >-
+  Summary of Visitor Experiences$$$Folks who stop by often highlight the
+  fantastic freshness and generous portions of the sushi and sashimi, making it
+  a go-to choice for satisfying meals. Many appreciate the attentive service and
+  diverse menu that includes flavorful small plates and standout desserts,
+  creating a well-rounded dining adventure. It's commonly noted that the value
+  shines through, especially during events like restaurant week, where the
+  quality feels worth every bite without breaking the bank. Overall, the spot
+  maintains a cozy and polished feel that keeps guests coming back for more
+  authentic flavors. If you're on the hunt for reliable sushi places near me,
+  this location consistently earns praise for its solid execution and enjoyable
+  atmosphere.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeStreetParking: true
   paidStreetParking: true
@@ -464,8 +500,8 @@ serves_lunch: null
 serves_vegetarian_food: false
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   High-end sushi spot with chef's choice dinners, bento-box lunch specials, sake
   & sho-chu.
 

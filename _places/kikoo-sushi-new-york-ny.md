@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kikoo Sushi"
+title: Kikoo Sushi
 permalink: /new-york/new-york/kikoo-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "Kikoo Sushi"
-  type: Restaurant
-  links: null
-description: "Kikoo Sushi serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://kikoosushi.com/
 place_id: ChIJ3bEAB51ZwokRkOAb5GbrWhk
 photos:
   - name: >-
@@ -170,8 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c2599d0700b1dd:0x195aeb66e41be090!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 15
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 0
+      close:
+        day: 1
+        hour: 23
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 23
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 23
+        minute: 0
+    - open:
+        day: 5
+        hour: 15
+        minute: 0
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 15
+        minute: 0
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 4:00 – 11:00 PM'
+    - 'Tuesday: Closed'
+    - 'Wednesday: 4:00 – 11:00 PM'
+    - 'Thursday: 4:00 – 11:00 PM'
+    - 'Friday: 3:00 – 11:00 PM'
+    - 'Saturday: 3:00 – 11:00 PM'
+    - 'Sunday: 3:00 – 10:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +234,50 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (212) 533-3888
+price_level: PRICE_LEVEL_MODERATE
+price_range: $30 &ndash; $50
+rating: '4.2'
+rating_count: 1709
+website: http://kikoosushi.com/
+description: >-
+  Discover Kikoo Sushi in New York, NY$$$Kikoo Sushi in New York, NY, offers a
+  delightful all-you-can-eat experience featuring fresh Japanese dishes in a
+  casual and welcoming environment. Patrons can enjoy a variety of sushi
+  options, from classic rolls to sashimi, all ordered effortlessly via tablets
+  for a modern dining twist. The spot stands out for its relaxed atmosphere,
+  making it ideal for those seeking top-rated sushi restaurants in the bustling
+  city. Accessibility features like wheelchair-friendly entrances add to the
+  convenience, ensuring everyone can savor the generous portions and vibrant
+  flavors. Whether you're exploring sushi places near you or craving authentic
+  Japanese cuisine, this location provides a satisfying blend of quality and
+  ease.
+generative_summary: >-
+  Discover Kikoo Sushi in New York, NY$$$Kikoo Sushi in New York, NY, offers a
+  delightful all-you-can-eat experience featuring fresh Japanese dishes in a
+  casual and welcoming environment. Patrons can enjoy a variety of sushi
+  options, from classic rolls to sashimi, all ordered effortlessly via tablets
+  for a modern dining twist. The spot stands out for its relaxed atmosphere,
+  making it ideal for those seeking top-rated sushi restaurants in the bustling
+  city. Accessibility features like wheelchair-friendly entrances add to the
+  convenience, ensuring everyone can savor the generous portions and vibrant
+  flavors. Whether you're exploring sushi places near you or craving authentic
+  Japanese cuisine, this location provides a satisfying blend of quality and
+  ease.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Raving About$$$Folks often praise this sushi spot for its
+  tasty all-you-can-eat deals, with plenty of fresh sushi, sashimi, and rolls
+  that keep diners coming back for more. The friendly service and lively vibe
+  make it a fun choice for casual get-togethers, adding to the overall enjoyable
+  experience. Many appreciate the unlimited drinks and generous portions that
+  make meals feel worthwhile, turning it into a go-to for anyone hunting for the
+  best sushi around. While some mention occasional waits during peak times, it's
+  generally seen as a minor trade-off for the great value and atmosphere.
+  Overall, it's a solid pick for sushi enthusiasts looking for a relaxed and
+  satisfying outing, with honest highlights that keep the energy positive.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +303,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

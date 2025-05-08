@@ -5,4 +5,5 @@ permalink: /michigan/ann-arbor/
 stateAbbr: MI
 stateName: Michigan
 cityName: Ann Arbor
+
 ---

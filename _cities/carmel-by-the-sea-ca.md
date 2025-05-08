@@ -5,4 +5,5 @@ permalink: /california/carmel-by-the-sea/
 stateAbbr: CA
 stateName: California
 cityName: Carmel-By-The-Sea
+
 ---

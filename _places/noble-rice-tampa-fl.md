@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Noble Rice"
+title: Noble Rice
 permalink: /florida/tampa/noble-rice.html
 stateAbbr: FL
 stateName: Florida
 cityName: Tampa
 seo:
-  name: "Noble Rice"
-  type: Restaurant
+  type: restaurant
   links: http://www.noblericeco.com/
-description: "Noble Rice serves delicious sushi in Tampa, Florida. Try fresh Japanese dishes for a great dining experience. Available for, and dinner."
 place_id: ChIJu6oEyYTEwogRAE4Dg9Q-AH4
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $100 &ndash; & up
 rating: '4.4'
 rating_count: 0
 website: http://www.noblericeco.com/
+description: >-
+  Discover Noble Rice in Tampa, FL$$$Noble Rice in Tampa, Florida, stands out as
+  a top-rated sushi destination, blending fresh Asian-inspired flavors with
+  creative culinary touches. This spot delights visitors with its innovative
+  sushi rolls and appetizers, where every bite highlights high-quality
+  ingredients and balanced tastes that make dining memorable. The atmosphere
+  strikes a perfect balance of sophistication and comfort, ideal for those
+  seeking a relaxing meal in a welcoming setting. For anyone exploring sushi
+  restaurants near me or looking for the best sushi in the area, Noble Rice
+  offers an inviting experience with attentive service and a variety of drinks
+  to complement the meal.
+generative_summary: >-
+  Discover Noble Rice in Tampa, FL$$$Noble Rice in Tampa, Florida, stands out as
+  a top-rated sushi destination, blending fresh Asian-inspired flavors with
+  creative culinary touches. This spot delights visitors with its innovative
+  sushi rolls and appetizers, where every bite highlights high-quality
+  ingredients and balanced tastes that make dining memorable. The atmosphere
+  strikes a perfect balance of sophistication and comfort, ideal for those
+  seeking a relaxing meal in a welcoming setting. For anyone exploring sushi
+  restaurants near me or looking for the best sushi in the area, Noble Rice
+  offers an inviting experience with attentive service and a variety of drinks
+  to complement the meal.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJu6oEyYTEwogRAE4Dg9Q-AH4/reviews/ChdDSUhNMG9nS0VJQ0FnTURJNnJ1QTh3RRAB
@@ -408,6 +429,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN2cTU3TnpRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN2cTU3TnpRRRAB!2m1!1s0x88c2c484c904aabb:0x7e003ed483034e00
+review_summary: >-
+  What Customers Are Saying$$$Folks heading to sushi places near me often praise
+  Noble Rice for its fresh and tasty dishes, like the creative rolls and
+  flavorful appetizers that keep everyone coming back. Many highlight the cozy,
+  sophisticated vibe and the helpful staff that make every visit feel smooth and
+  enjoyable, turning a simple meal into a highlight of the day. While some note
+  that the prices lean toward the higher side, the overall quality and unique
+  flavors make it a solid pick for a special outing. If you're on the hunt for
+  top-rated sushi, diners generally agree that the experience here delivers
+  great value, with fresh ingredients and creative options that satisfy sushi
+  lovers looking for something a bit different.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidParkingLot: true
   paidStreetParking: true
@@ -440,7 +473,7 @@ serves_lunch: null
 serves_vegetarian_food: true
 serves_wine: true
 takeout: false
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

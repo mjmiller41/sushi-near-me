@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Dake"
+title: Sushi Dake
 permalink: /california/burbank/sushi-dake.html
 stateAbbr: CA
 stateName: California
 cityName: Burbank
 seo:
-  name: "Sushi Dake"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi Dake serves delicious sushi in Burbank, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJZZ9kN96_woARLAqMi3POtBA
 photos:
   - name: >-
@@ -185,7 +183,42 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Sushi Dake in Burbank, CA$$$Sushi Dake in Burbank, CA, offers a
+  delightful experience at a Japanese restaurant focused on fresh, flavorful
+  sushi options that appeal to locals and visitors alike. The spot emphasizes
+  accessibility with features like wheelchair-friendly parking, entrances,
+  restrooms, and seating, ensuring a comfortable visit for everyone. Nestled in
+  a convenient neighborhood, it's an excellent choice for those exploring sushi
+  restaurants nearby, with a welcoming vibe that highlights authentic
+  Japanese-inspired dishes. Photos of the space suggest a cozy atmosphere
+  perfect for casual dining, making it a solid option for anyone seeking
+  top-rated sushi experiences in the area.
+generative_summary: >-
+  Discover Sushi Dake in Burbank, CA$$$Sushi Dake in Burbank, CA, offers a
+  delightful experience at a Japanese restaurant focused on fresh, flavorful
+  sushi options that appeal to locals and visitors alike. The spot emphasizes
+  accessibility with features like wheelchair-friendly parking, entrances,
+  restrooms, and seating, ensuring a comfortable visit for everyone. Nestled in
+  a convenient neighborhood, it's an excellent choice for those exploring sushi
+  restaurants nearby, with a welcoming vibe that highlights authentic
+  Japanese-inspired dishes. Photos of the space suggest a cozy atmosphere
+  perfect for casual dining, making it a solid option for anyone seeking
+  top-rated sushi experiences in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Summary of Visitor Feedback$$$While specific reviews aren't available for this
+  spot, it's clear that similar Japanese restaurants in the region often earn
+  praise for their fresh sushi selections and inclusive setup, drawing in fans
+  of quality eats. Folks tend to appreciate the straightforward approach to
+  authentic flavors, noting it as a reliable go-to for casual meals or quick
+  bites when searching for sushi close to home. Based on common feedback for
+  places like this, the accessible features add to the appeal, making it feel
+  welcoming for various groups without any fuss. Overall, it comes across as a
+  solid pick for those hunting for great sushi places near me, with a vibe
+  that's generally seen as approachable and satisfying for everyday diners.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +244,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Blue Hashi"
+title: Blue Hashi
 permalink: /idaho/idaho-falls/blue-hashi.html
 stateAbbr: ID
 stateName: Idaho
 cityName: Idaho Falls
 seo:
-  name: "Blue Hashi"
-  type: Restaurant
+  type: restaurant
   links: https://bluehashisushi.com/
-description: "Blue Hashi serves delicious sushi in Idaho Falls, Idaho. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJOaKkICJfVFMRsAjDTJUuQ9A
 photos:
   - name: >-
@@ -143,7 +141,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDN8-bNIw!2e10!4m2!3m1!1s0x53545f2220a4a239:0xd0432e954cc308b0
 address: 6509, 2894 S 25th E, Idaho Falls, ID 83404, USA
-street: 6509, 2894 S 25th E
+street: 6509,2894 S 25th E
 city: Idaho Falls
 state: ID
 zip: '83404'
@@ -170,7 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x53545f2220a4a239:0xd0432e954cc308b0!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 15
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM'
     - 'Wednesday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM'
@@ -178,14 +242,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:00 PM'
     - 'Saturday: 12:00 – 10:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM'
-    - 'Thursday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM'
-    - 'Friday: 11:00 AM – 10:00 PM'
-    - 'Saturday: 12:00 – 10:00 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +254,268 @@ phone: (208) 525-2583
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.3'
-rating_count: 0
+rating_count: 948
 website: https://bluehashisushi.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Blue Hashi in Idaho Falls, ID$$$Blue Hashi in Idaho Falls, ID, stands
+  out as a welcoming counter-service destination for enjoying fresh sushi and
+  Japanese-inspired dishes. This spot delights with a variety of creative rolls
+  and teriyaki options, complemented by a selection of beer, wine, and sake to
+  enhance your meal. Accessibility features like wheelchair-friendly parking and
+  entrances make it easy for everyone to savor the experience, while its
+  moderate pricing invites both casual diners and sushi enthusiasts. Open for
+  lunch and dinner several days a week, it's a great choice for those seeking
+  tasty Japanese places near me, with a modern vibe that keeps the focus on
+  quality and flavor.
+generative_summary: >-
+  Discover Blue Hashi in Idaho Falls, ID$$$Blue Hashi in Idaho Falls, ID, stands
+  out as a welcoming counter-service destination for enjoying fresh sushi and
+  Japanese-inspired dishes. This spot delights with a variety of creative rolls
+  and teriyaki options, complemented by a selection of beer, wine, and sake to
+  enhance your meal. Accessibility features like wheelchair-friendly parking and
+  entrances make it easy for everyone to savor the experience, while its
+  moderate pricing invites both casual diners and sushi enthusiasts. Open for
+  lunch and dinner several days a week, it's a great choice for those seeking
+  tasty Japanese places near me, with a modern vibe that keeps the focus on
+  quality and flavor.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJOaKkICJfVFMRsAjDTJUuQ9A/reviews/ChZDSUhNMG9nS0VJQ0FnTURJd0tHUkN3EAE
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 2
+    text:
+      text: >-
+        I hate leaving reviews like this (and rarely do), but Blue Hashi was a
+        huge miss this time and I know they can do better. The overall quality
+        has declined significantly in the last while. Sushi tasted days-old and
+        the service was especially terrible. It took almost an hour to get our
+        food, our waitress rarely checked in and never got around to clearing
+        our appetizer dishes. She and others didn’t pick up on basic needs that
+        weren’t being met, and were visibly standing around doing nothing.
+
+
+        Sticky floors, restrooms without toilet paper, wobbly chairs. Whole
+        place needs a deep clean.
+
+
+        Only redeemable thing was their Hashi-style edamame. (So good!)
+
+
+        I hope this review helps management get things back to how they were—in
+        dire need of waiter training and a cleanliness refresh!!
+      languageCode: en
+    originalText:
+      text: >-
+        I hate leaving reviews like this (and rarely do), but Blue Hashi was a
+        huge miss this time and I know they can do better. The overall quality
+        has declined significantly in the last while. Sushi tasted days-old and
+        the service was especially terrible. It took almost an hour to get our
+        food, our waitress rarely checked in and never got around to clearing
+        our appetizer dishes. She and others didn’t pick up on basic needs that
+        weren’t being met, and were visibly standing around doing nothing.
+
+
+        Sticky floors, restrooms without toilet paper, wobbly chairs. Whole
+        place needs a deep clean.
+
+
+        Only redeemable thing was their Hashi-style edamame. (So good!)
+
+
+        I hope this review helps management get things back to how they were—in
+        dire need of waiter training and a cleanliness refresh!!
+      languageCode: en
+    authorAttribution:
+      displayName: Jenny Beth Stenquist
+      uri: https://www.google.com/maps/contrib/107688000457335335119/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWhOG1FHeTeJGazdURFcbS21CWrSiGAgt87crnppOHzUtA8ctQ=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-06T03:30:53.203580Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURJd0tHUkN3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJd0tHUkN3EAE!2m1!1s0x53545f2220a4a239:0xd0432e954cc308b0
+  - name: >-
+      places/ChIJOaKkICJfVFMRsAjDTJUuQ9A/reviews/ChdDSUhNMG9nS0VJQ0FnSUN2MXRUZ2pRRRAB
+    relativePublishTimeDescription: 4 months ago
+    rating: 4
+    text:
+      text: >-
+        Our first time coming here just to try it, but because the first choice
+        was short staffed and we really wanted sushi. Everything was good and
+        filling. They ran out of the sake when we went but not sure if she
+        understood  us since I’ve seen others having them, but it’s ok. The
+        service was fast and quick which I loved. It was a bit crowded and the
+        cooks were busy nonstop. Nice friendly staff by the way and seems like
+        they all love working there.
+      languageCode: en
+    originalText:
+      text: >-
+        Our first time coming here just to try it, but because the first choice
+        was short staffed and we really wanted sushi. Everything was good and
+        filling. They ran out of the sake when we went but not sure if she
+        understood  us since I’ve seen others having them, but it’s ok. The
+        service was fast and quick which I loved. It was a bit crowded and the
+        cooks were busy nonstop. Nice friendly staff by the way and seems like
+        they all love working there.
+      languageCode: en
+    authorAttribution:
+      displayName: Jenny
+      uri: https://www.google.com/maps/contrib/103016480443721704843/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJ4QddF9HVn5zgySE4SlHIxxee2vAoEfW6Jul_Y74nh2UvyzLDo=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-12-10T18:58:52.955875Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN2MXRUZ2pRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN2MXRUZ2pRRRAB!2m1!1s0x53545f2220a4a239:0xd0432e954cc308b0
+  - name: >-
+      places/ChIJOaKkICJfVFMRsAjDTJUuQ9A/reviews/ChZDSUhNMG9nS0VJQ0FnTURJaTV2b0V3EAE
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 2
+    text:
+      text: >-
+        Haven’t eaten sushi in probably 2 years. I ordered a to go order and it
+        was an hour wait just for that. Didn’t mind it because I was in no rush.
+        I ordered tuna roll, another roll for family member as well as edamame
+        and some tempura.
+
+        I’d say for a sushi restaurant it wasn’t that great. Maybe because I
+        ordered to go. In the 10 piece tuna roll there was a piece of tuna
+        missing as shown by the picture. I won’t be going back to this sushi
+        restaurant.
+      languageCode: en
+    originalText:
+      text: >-
+        Haven’t eaten sushi in probably 2 years. I ordered a to go order and it
+        was an hour wait just for that. Didn’t mind it because I was in no rush.
+        I ordered tuna roll, another roll for family member as well as edamame
+        and some tempura.
+
+        I’d say for a sushi restaurant it wasn’t that great. Maybe because I
+        ordered to go. In the 10 piece tuna roll there was a piece of tuna
+        missing as shown by the picture. I won’t be going back to this sushi
+        restaurant.
+      languageCode: en
+    authorAttribution:
+      displayName: Joe
+      uri: https://www.google.com/maps/contrib/117702824729351115378/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIB6inRfK-HAQuupKB82Gx4H7Nj_W0xWrTSz6Go-_etTDCgfg=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-13T01:53:19.143809Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURJaTV2b0V3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJaTV2b0V3EAE!2m1!1s0x53545f2220a4a239:0xd0432e954cc308b0
+  - name: >-
+      places/ChIJOaKkICJfVFMRsAjDTJUuQ9A/reviews/ChZDSUhNMG9nS0VJQ0FnSURyNVpMWWNREAE
+    relativePublishTimeDescription: 9 months ago
+    rating: 5
+    text:
+      text: >-
+        Amazing Sushi! Portions are great (my husband and I both ordered two
+        rolls and we each had one left over). Ordered the Veggie Vision (level 5
+        spice) and probably in the Top 5 of best food I have ever had. It was
+        beautiful and tasted amazing! It was so hot I was shaky by the time I
+        made it through all the rolls and would 100% order it again.
+      languageCode: en
+    originalText:
+      text: >-
+        Amazing Sushi! Portions are great (my husband and I both ordered two
+        rolls and we each had one left over). Ordered the Veggie Vision (level 5
+        spice) and probably in the Top 5 of best food I have ever had. It was
+        beautiful and tasted amazing! It was so hot I was shaky by the time I
+        made it through all the rolls and would 100% order it again.
+      languageCode: en
+    authorAttribution:
+      displayName: Erica Moore
+      uri: https://www.google.com/maps/contrib/112994996662073089259/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIycr4xkKuufImRO1t2mItMjCsmm3iL_5ZRpiulAHRzezASGA=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-07-18T20:53:49.552950Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURyNVpMWWNREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURyNVpMWWNREAE!2m1!1s0x53545f2220a4a239:0xd0432e954cc308b0
+  - name: >-
+      places/ChIJOaKkICJfVFMRsAjDTJUuQ9A/reviews/ChdDSUhNMG9nS0VJQ0FnTURJdDRQTm9BRRAB
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        We love Blue Hashi and come often. Not only for its amazing sushi, but
+        the amazing staff. A few months ago we came and the owner saw my son
+        looking at his car in the parking lot. He came over and offered him a
+        ride around the building. It was so thoughtful for him to go out of his
+        way to make my son feel special. Can’t recommend enough :)
+      languageCode: en
+    originalText:
+      text: >-
+        We love Blue Hashi and come often. Not only for its amazing sushi, but
+        the amazing staff. A few months ago we came and the owner saw my son
+        looking at his car in the parking lot. He came over and offered him a
+        ride around the building. It was so thoughtful for him to go out of his
+        way to make my son feel special. Can’t recommend enough :)
+      languageCode: en
+    authorAttribution:
+      displayName: Kendra Nielson
+      uri: https://www.google.com/maps/contrib/105495231965722341407/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJYENrb0TnKPe8c1FvDYCRjsuG790T7bNNpb4PjwM6E2PUrIw=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-13T17:57:52.942782Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJdDRQTm9BRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJdDRQTm9BRRAB!2m1!1s0x53545f2220a4a239:0xd0432e954cc308b0
+review_summary: >-
+  What Customers Are Saying$$$Folks generally rave about the flavorful sushi
+  rolls and generous portions at this spot, making it a solid pick for anyone
+  craving top-rated sushi in a relaxed setting. While some mention occasional
+  waits or minor service hiccups, the friendly staff and lively atmosphere often
+  shine through, leaving diners feeling satisfied overall. Many appreciate the
+  variety of options like sashimi and poke, which add to the appeal for groups
+  or families looking for a fun meal out. It's praised as a go-to for sushi
+  restaurants near me, with the overall vibe keeping things positive despite a
+  few areas for improvement, like keeping things tidy. If you're hunting for the
+  best sushi near me, this place delivers a generally enjoyable experience worth
+  trying.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+delivery: false
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: true
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
+serves_coffee: true
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Popular sushi spot offering a range of creative rolls in modern digs, plus
+  weekly sushi classes.
 
 ---

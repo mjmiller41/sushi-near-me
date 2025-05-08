@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Bonsai Teriyaki & Sushi"
+title: Bonsai Teriyaki & Sushi
 permalink: /oregon/medford/bonsai-teriyaki-sushi.html
 stateAbbr: OR
 stateName: Oregon
 cityName: Medford
 seo:
-  name: "Bonsai Teriyaki & Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.facebook.com/Bonsai-Teriyaki-Sushi-Medford-OR-120030958187660/
-description: "Bonsai Teriyaki & Sushi serves delicious sushi in Medford, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJVzm7_gx6z1QR8PazD_v4fJ4
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x54cf7a0cfebb3957:0x9e7cf8fb0fb3f6f0!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 20
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 20
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 20
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 8:30 PM'
     - 'Tuesday: 11:00 AM – 8:30 PM'
     - 'Wednesday: 11:00 AM – 8:30 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 8:30 PM'
     - 'Saturday: 11:00 AM – 8:30 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:00 AM – 8:30 PM'
-    - 'Tuesday: 11:00 AM – 8:30 PM'
-    - 'Wednesday: 11:00 AM – 8:30 PM'
-    - 'Thursday: 11:00 AM – 8:30 PM'
-    - 'Friday: 11:00 AM – 8:30 PM'
-    - 'Saturday: 11:00 AM – 8:30 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T03:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +238,267 @@ phone: (541) 779-0354
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.4'
-rating_count: 0
+rating_count: 779
 website: https://www.facebook.com/Bonsai-Teriyaki-Sushi-Medford-OR-120030958187660/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Bonsai Teriyaki & Sushi in Medford, Oregon$$$Nestled in Medford,
+  Oregon, Bonsai Teriyaki & Sushi offers a welcoming spot for enjoying fresh
+  Japanese cuisine, blending casual vibes with authentic flavors that highlight
+  its signature rolls and bento boxes. The restaurant features a cozy atmosphere
+  illuminated by subtle lighting, making it an ideal choice for those seeking
+  quality sushi options in a relaxed setting. With accessibility features like
+  wheelchair-friendly entrances and parking, it's designed to accommodate
+  everyone looking for a convenient dining experience. You'll find a variety of
+  dishes including sashimi and teriyaki, paired with beverages like sake and
+  beer, all served in a space that emphasizes fresh ingredients and thoughtful
+  presentation. Whether you're exploring top-rated sushi places nearby, this
+  spot delivers a satisfying meal that captures the essence of Japanese dining
+  traditions.
+generative_summary: >-
+  Discover Bonsai Teriyaki & Sushi in Medford, Oregon$$$Nestled in Medford,
+  Oregon, Bonsai Teriyaki & Sushi offers a welcoming spot for enjoying fresh
+  Japanese cuisine, blending casual vibes with authentic flavors that highlight
+  its signature rolls and bento boxes. The restaurant features a cozy atmosphere
+  illuminated by subtle lighting, making it an ideal choice for those seeking
+  quality sushi options in a relaxed setting. With accessibility features like
+  wheelchair-friendly entrances and parking, it's designed to accommodate
+  everyone looking for a convenient dining experience. You'll find a variety of
+  dishes including sashimi and teriyaki, paired with beverages like sake and
+  beer, all served in a space that emphasizes fresh ingredients and thoughtful
+  presentation. Whether you're exploring top-rated sushi places nearby, this
+  spot delivers a satisfying meal that captures the essence of Japanese dining
+  traditions.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJVzm7_gx6z1QR8PazD_v4fJ4/reviews/ChZDSUhNMG9nS0VJQ0FnSUNmem96X1l3EAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        すばらしい
+
+
+        So good. Perfectly prepared and presented. Udon Noodle soup with tempura
+        vegetables was perfect. The tuna lovers roll has a small amount of rice
+        and a large portion of fish.
+
+
+        Would have loved some old style Kyoto music.
+      languageCode: en
+    originalText:
+      text: >-
+        すばらしい
+
+
+        So good. Perfectly prepared and presented. Udon Noodle soup with tempura
+        vegetables was perfect. The tuna lovers roll has a small amount of rice
+        and a large portion of fish.
+
+
+        Would have loved some old style Kyoto music.
+      languageCode: en
+    authorAttribution:
+      displayName: Lawrence Kagawa
+      uri: https://www.google.com/maps/contrib/111881791307822433845/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWkkrTLT8dgK1JgRCGCc_CRd9Cwh4-QVwK_3cMw9w2nVcEiB6U4EQ=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-12-29T03:46:48.838603Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNmem96X1l3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNmem96X1l3EAE!2m1!1s0x54cf7a0cfebb3957:0x9e7cf8fb0fb3f6f0
+  - name: >-
+      places/ChIJVzm7_gx6z1QR8PazD_v4fJ4/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJemZ1WThBRRAB
+    relativePublishTimeDescription: 4 weeks ago
+    rating: 5
+    text:
+      text: >-
+        What a cute, amazing, authentic sushi house.
+
+
+        I will be back with my gf and will recommend it for business lunches and
+        dinner parties.
+
+
+        Absolutely amazing food I had the lion 🦁 king roll. Which is
+        incredible. Absolutely 10/10 sushi 🍣 😋 😍
+      languageCode: en
+    originalText:
+      text: >-
+        What a cute, amazing, authentic sushi house.
+
+
+        I will be back with my gf and will recommend it for business lunches and
+        dinner parties.
+
+
+        Absolutely amazing food I had the lion 🦁 king roll. Which is
+        incredible. Absolutely 10/10 sushi 🍣 😋 😍
+      languageCode: en
+    authorAttribution:
+      displayName: alexei lindes
+      uri: https://www.google.com/maps/contrib/103551230478316769363/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVTSvfakst9mh8d5wk9lKeBvc1o_LG8eCekFQsz8jqx4ewiUBk=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-04-03T23:03:44.461123Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNJemZ1WThBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNJemZ1WThBRRAB!2m1!1s0x54cf7a0cfebb3957:0x9e7cf8fb0fb3f6f0
+  - name: >-
+      places/ChIJVzm7_gx6z1QR8PazD_v4fJ4/reviews/ChdDSUhNMG9nS0VJQ0FnSUNIdG83OHN3RRAB
+    relativePublishTimeDescription: 8 months ago
+    rating: 5
+    text:
+      text: >-
+        This is a great no frills sushi restaurant. Very quick service, food
+        comes out quickly and tastes really good. It's a little off the beaten
+        path, in a kinda rough area but the food is worth it. The rockstar roll
+        is pictured.
+      languageCode: en
+    originalText:
+      text: >-
+        This is a great no frills sushi restaurant. Very quick service, food
+        comes out quickly and tastes really good. It's a little off the beaten
+        path, in a kinda rough area but the food is worth it. The rockstar roll
+        is pictured.
+      languageCode: en
+    authorAttribution:
+      displayName: HereFishyFishy
+      uri: https://www.google.com/maps/contrib/105520436112871480083/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXmmMC48bw_NEo_aPsIjKTX0BYuya3HMSGjMixXUuEXQ91FW1VS=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-09-04T19:42:27.718441Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNIdG83OHN3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNIdG83OHN3RRAB!2m1!1s0x54cf7a0cfebb3957:0x9e7cf8fb0fb3f6f0
+  - name: >-
+      places/ChIJVzm7_gx6z1QR8PazD_v4fJ4/reviews/ChdDSUhNMG9nS0VJQ0FnTURJZ3FUMG13RRAB
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        Conveniently located on Barnett Road near several medical facilities
+        Bonsai was a pleasant surprise. The entrees were fresh and flavorful
+        with decent portion sizes. Extensive Sushi offerings and Terriyaki.
+        Their roll selection is huge.  Having been to nearly every Asian
+        restaurant in the Rogue Valley Bonsai is a stand out. It's tucked back
+        in the small shopping center behind a flower shop. Give it a try, They
+        serve a very pleasant offering.
+      languageCode: en
+    originalText:
+      text: >-
+        Conveniently located on Barnett Road near several medical facilities
+        Bonsai was a pleasant surprise. The entrees were fresh and flavorful
+        with decent portion sizes. Extensive Sushi offerings and Terriyaki.
+        Their roll selection is huge.  Having been to nearly every Asian
+        restaurant in the Rogue Valley Bonsai is a stand out. It's tucked back
+        in the small shopping center behind a flower shop. Give it a try, They
+        serve a very pleasant offering.
+      languageCode: en
+    authorAttribution:
+      displayName: Randy Bray
+      uri: https://www.google.com/maps/contrib/116171269864028511525/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXg7BvqiziV1V9YHdozbIivDxz8seSa3l0rJJDo3jRqy4ALEgqRDQ=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-04-15T12:34:26.045072Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJZ3FUMG13RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJZ3FUMG13RRAB!2m1!1s0x54cf7a0cfebb3957:0x9e7cf8fb0fb3f6f0
+  - name: >-
+      places/ChIJVzm7_gx6z1QR8PazD_v4fJ4/reviews/ChdDSUhNMG9nS0VJQ0FnSURPOGN5azFnRRAB
+    relativePublishTimeDescription: 2 years ago
+    rating: 5
+    text:
+      text: >-
+        Enjoyed an excellent family meal at Bonsai!
+
+
+        Prompt & friendly service, a large menu as well.
+
+
+        The sushi came out quickly & was eaten just as quickly.
+
+
+        My Korean spicy stir fry was very, very good 👍 great heat, great
+        vegetables & tender chicken.
+      languageCode: en
+    originalText:
+      text: >-
+        Enjoyed an excellent family meal at Bonsai!
+
+
+        Prompt & friendly service, a large menu as well.
+
+
+        The sushi came out quickly & was eaten just as quickly.
+
+
+        My Korean spicy stir fry was very, very good 👍 great heat, great
+        vegetables & tender chicken.
+      languageCode: en
+    authorAttribution:
+      displayName: Forrest Corbin
+      uri: https://www.google.com/maps/contrib/113272087210658726054/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjX6DS5gHjx2rcYUNZXJ9lI9DBJwfviCdcL8AxHp45IAJ-7moYV2=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2022-07-08T04:25:40.544697Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURPOGN5azFnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURPOGN5azFnRRAB!2m1!1s0x54cf7a0cfebb3957:0x9e7cf8fb0fb3f6f0
+review_summary: >-
+  What Customers Are Buzzing About This Sushi Spot$$$Folks rave about the fresh
+  and flavorful sushi rolls that pack a punch with generous portions of fish and
+  creative combinations, making it a go-to for anyone craving authentic Japanese
+  flavors. Many appreciate the quick service and extensive menu, which includes
+  standout options like specialty rolls and teriyaki dishes that keep diners
+  coming back for more. Visitors often note the restaurant's convenient location
+  and welcoming vibe, highlighting how it stands out as a reliable choice for
+  casual meals or group gatherings without any major drawbacks. Overall, the
+  consensus leans positive, with praise for the well-prepared entrees and
+  efficient atmosphere that enhance the overall enjoyment. If you're hunting for
+  the best sushi near you, this place consistently delivers a solid experience
+  that leaves people satisfied and eager to recommend it to friends.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
 menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
 serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_coffee: true
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Cozy Asian kitchen offering classic & signature rolls in homey surrounds lit
+  by Japanese lanterns.
 
 ---

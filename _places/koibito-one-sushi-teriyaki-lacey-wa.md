@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Koibito One Sushi & Teriyaki"
+title: Koibito One Sushi & Teriyaki
 permalink: /washington/lacey/koibito-one-sushi-teriyaki.html
 stateAbbr: WA
 stateName: Washington
 cityName: Lacey
 seo:
-  name: "Koibito One Sushi & Teriyaki"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Koibito One Sushi & Teriyaki serves delicious sushi in Lacey, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ9wslUjYLkVQRRoVW69o_zq0
 photos:
   - name: >-
@@ -185,7 +183,45 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Koibito One Sushi & Teriyaki in Lacey, WA$$$Koibito One Sushi &
+  Teriyaki in Lacey, Washington, stands out as a cozy spot for savoring
+  authentic Japanese flavors, including fresh sushi rolls and flavorful teriyaki
+  options that appeal to those seeking top-rated Japanese places nearby. This
+  family-operated eatery emphasizes a welcoming vibe with specialties that
+  highlight quality ingredients and traditional preparation methods, making it a
+  great choice for casual meals or quick bites. Accessibility features like
+  wheelchair-friendly parking and entrances add to the convenience, ensuring
+  everyone can enjoy the experience. Whether you're in the mood for inventive
+  sushi combinations or classic dishes, this spot delivers a satisfying blend of
+  taste and simplicity that keeps locals coming back for more.
+generative_summary: >-
+  Discover Koibito One Sushi & Teriyaki in Lacey, WA$$$Koibito One Sushi &
+  Teriyaki in Lacey, Washington, stands out as a cozy spot for savoring
+  authentic Japanese flavors, including fresh sushi rolls and flavorful teriyaki
+  options that appeal to those seeking top-rated Japanese places nearby. This
+  family-operated eatery emphasizes a welcoming vibe with specialties that
+  highlight quality ingredients and traditional preparation methods, making it a
+  great choice for casual meals or quick bites. Accessibility features like
+  wheelchair-friendly parking and entrances add to the convenience, ensuring
+  everyone can enjoy the experience. Whether you're in the mood for inventive
+  sushi combinations or classic dishes, this spot delivers a satisfying blend of
+  taste and simplicity that keeps locals coming back for more.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About This Sushi Spot$$$Folks searching for sushi
+  near me often rave about the fresh, well-prepared rolls and teriyaki at this
+  laid-back restaurant, noting how the flavors hit the spot without breaking the
+  bank. Many appreciate the variety of options that cater to different
+  preferences, from hearty entrees to lighter bites, making it a solid pick for
+  families or friends gathering over a meal. While some mention occasional waits
+  during busy times, the overall atmosphere and service tend to leave a positive
+  impression, with diners feeling the wait is worth it for the authentic taste.
+  It's clear that the focus on quality ingredients and friendly vibes helps this
+  place stand out among Japanese restaurants in the area, encouraging repeat
+  visits for anyone craving reliable sushi experiences.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +247,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

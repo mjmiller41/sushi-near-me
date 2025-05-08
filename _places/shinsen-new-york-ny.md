@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Shinsen"
+title: Shinsen
 permalink: /new-york/new-york/shinsen.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "Shinsen"
-  type: Restaurant
+  type: restaurant
   links: http://boweryshinsen.com/
-description: "Minimalist design Japanese restaurant, sushi bar & sake lounge in Chinatown. Shinsen serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ__8OsCdawokRLgMZI2Ja0Mw
 photos:
   - name: >-
@@ -185,6 +183,35 @@ price_range: null
 rating: '4.2'
 rating_count: 0
 website: http://boweryshinsen.com/
+description: >-
+  Discover Shinsen in New York, NY$$$Nestled in the heart of New York, NY,
+  Shinsen stands out as a contemporary sushi restaurant that blends traditional
+  Japanese flavors with a modern twist, offering fresh sushi rolls, sake, and a
+  selection of beverages in a minimalist setting. This spot in Chinatown
+  provides a casual yet sophisticated atmosphere, perfect for those seeking
+  authentic Japanese dining experiences close to the bustling city streets.
+  Patrons can enjoy a variety of expertly crafted dishes that highlight
+  high-quality ingredients, alongside an inviting sake lounge that pairs well
+  with the menu's innovative takes on classics. The restaurant also boasts
+  accessible features and outdoor seating, making it a convenient choice for
+  anyone exploring top sushi options in the area. With its focus on fresh,
+  contemporary cuisine, Shinsen delivers a memorable meal that appeals to both
+  locals and visitors searching for the best sushi near urban hubs.
+generative_summary: >-
+  Discover Shinsen in New York, NY$$$Nestled in the heart of New York, NY,
+  Shinsen stands out as a contemporary sushi restaurant that blends traditional
+  Japanese flavors with a modern twist, offering fresh sushi rolls, sake, and a
+  selection of beverages in a minimalist setting. This spot in Chinatown
+  provides a casual yet sophisticated atmosphere, perfect for those seeking
+  authentic Japanese dining experiences close to the bustling city streets.
+  Patrons can enjoy a variety of expertly crafted dishes that highlight
+  high-quality ingredients, alongside an inviting sake lounge that pairs well
+  with the menu's innovative takes on classics. The restaurant also boasts
+  accessible features and outdoor seating, making it a convenient choice for
+  anyone exploring top sushi options in the area. With its focus on fresh,
+  contemporary cuisine, Shinsen delivers a memorable meal that appeals to both
+  locals and visitors searching for the best sushi near urban hubs.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ__8OsCdawokRLgMZI2Ja0Mw/reviews/ChdDSUhNMG9nS0VJQ0FnTUNndVBHNThRRRAB
@@ -394,6 +421,21 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQzNjhlX1RnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQzNjhlX1RnEAE!2m1!1s0x89c25a27b00effff:0xccd05a622319032e
+review_summary: >-
+  What Guests Are Saying$$$Visitors to this New York sushi spot often rave about
+  the fresh, flavorful sushi and creative cocktails that make for a relaxed,
+  trendy vibe, with many highlighting the friendly service and chill atmosphere
+  as standout elements. While some note that the prices can feel a bit steep for
+  the portions, the overall experience is frequently praised for its
+  high-quality drinks and welcoming ambiance that encourages good times with
+  friends. Feedback generally appreciates the variety of options, like sake and
+  beer pairings, which add to the fun of dining out in a lively setting. It's
+  clear that the staff's attentiveness helps turn meals into enjoyable
+  occasions, even if a few guests mention occasional inconsistencies with food
+  freshness. All in all, if you're on the hunt for solid sushi places nearby,
+  this location offers a generally positive experience that's worth checking out
+  for its energetic feel and tasty selections.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidStreetParking: true
 payment_options:
@@ -424,7 +466,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: Minimalist design Japanese restaurant, sushi bar & sake lounge in Chinatown.
+update_category: pro
+places_description: Minimalist design Japanese restaurant, sushi bar & sake lounge in Chinatown.
 
 ---

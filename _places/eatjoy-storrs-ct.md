@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Eatjoy"
+title: Eatjoy
 permalink: /connecticut/storrs/eatjoy.html
 stateAbbr: CT
 stateName: Connecticut
 cityName: Storrs
 seo:
-  name: "Eatjoy"
-  type: Restaurant
+  type: restaurant
   links: https://www.eatjoystorrs.com/
-description: "Eatjoy serves delicious sushi in Storrs, Connecticut. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJZ1WQXdSL5okR-8FLvMRNzUk
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $10 &ndash; $20
 rating: '3.9'
 rating_count: 0
 website: https://www.eatjoystorrs.com/
+description: >-
+  About Eatjoy in Storrs, CT$$$Eatjoy in Storrs, CT, stands out as a trendy
+  eatery specializing in customizable bowls, fresh poke options, and refreshing
+  bubble tea, making it a go-to for those seeking vibrant, health-conscious
+  meals. The spot emphasizes fresh ingredients and vegan-friendly choices,
+  creating a welcoming atmosphere for quick, satisfying dining experiences. With
+  accessibility features like wheelchair-friendly entrances and seating, it
+  caters to a wide range of visitors looking for convenient, flavorful options
+  in the area. This Storrs favorite also offers moderate pricing, appealing to
+  students and locals hunting for everyday eats that balance taste and
+  affordability. Whether you're in the mood for build-your-own creations or
+  light, energizing drinks, Eatjoy delivers a modern twist on casual dining that
+  feels both innovative and accessible.
+generative_summary: >-
+  About Eatjoy in Storrs, CT$$$Eatjoy in Storrs, CT, stands out as a trendy
+  eatery specializing in customizable bowls, fresh poke options, and refreshing
+  bubble tea, making it a go-to for those seeking vibrant, health-conscious
+  meals. The spot emphasizes fresh ingredients and vegan-friendly choices,
+  creating a welcoming atmosphere for quick, satisfying dining experiences. With
+  accessibility features like wheelchair-friendly entrances and seating, it
+  caters to a wide range of visitors looking for convenient, flavorful options
+  in the area. This Storrs favorite also offers moderate pricing, appealing to
+  students and locals hunting for everyday eats that balance taste and
+  affordability. Whether you're in the mood for build-your-own creations or
+  light, energizing drinks, Eatjoy delivers a modern twist on casual dining that
+  feels both innovative and accessible.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJZ1WQXdSL5okR-8FLvMRNzUk/reviews/ChdDSUhNMG9nS0VJQ0FnSURkeWJfcTRBRRAB
@@ -338,6 +363,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURYcXBicmhnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURYcXBicmhnRRAB!2m1!1s0x89e68bd45d905567:0x49cd4dc4bc4bc1fb
+review_summary: >-
+  Customer Feedback Highlights$$$Visitors to this Storrs spot often rave about
+  the fresh, delicious ingredients in dishes like beef bowls and poke, making it
+  a solid choice for anyone craving quick and tasty meals. Many appreciate the
+  friendly service and attention to detail, such as staff verifying orders for
+  accuracy, which adds to the overall positive vibe. While most feedback
+  highlights great value and quality for the price, a few notes caution about
+  potential allergen issues, so it's wise to communicate preferences clearly.
+  Overall, it's seen as a reliable option for groups or individuals seeking
+  convenient, flavorful bites that don't break the bank. If you're exploring
+  top-rated eateries nearby, this place earns praise for its fresh offerings and
+  easy online ordering, keeping the experience enjoyable and straightforward.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -371,7 +409,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

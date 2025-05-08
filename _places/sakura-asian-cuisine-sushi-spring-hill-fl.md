@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sakura Asian Cuisine & Sushi"
+title: Sakura Asian Cuisine & Sushi
 permalink: /florida/spring-hill/sakura-asian-cuisine-sushi.html
 stateAbbr: FL
 stateName: Florida
 cityName: Spring Hill
 seo:
-  name: "Sakura Asian Cuisine & Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.sakuraspringhillfl.com/
-description: "Chinese hot plates & Japanese sushi menu & hibachi with lunch specials & casual, modern interiors. Sakura Asian Cuisine & Sushi serves delicious sushi in Spring Hill, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJq9QuhjqgwogRFiBkSzCi8zw
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $10 &ndash; $20
 rating: '3.9'
 rating_count: 0
 website: http://www.sakuraspringhillfl.com/
+description: >-
+  About Sakura Asian Cuisine & Sushi in Spring Hill, FL$$$Sakura Asian Cuisine &
+  Sushi in Spring Hill, Florida, delivers a delightful mix of Japanese sushi and
+  Chinese hot plates in a casual, modern environment that's perfect for everyday
+  dining. The menu features fresh, flavorful dishes like hibachi specialties and
+  generous portions that make it easy to share with friends or family,
+  complemented by affordable lunch specials. With options for vegetarians and a
+  welcoming vibe that enhances the overall experience, this spot stands out for
+  its accessibility and variety. Reasonable pricing around $10 to $20 ensures
+  it's a go-to choice for those seeking tasty Asian flavors without breaking the
+  bank, making it a solid option for sushi enthusiasts exploring local eateries.
+generative_summary: >-
+  About Sakura Asian Cuisine & Sushi in Spring Hill, FL$$$Sakura Asian Cuisine &
+  Sushi in Spring Hill, Florida, delivers a delightful mix of Japanese sushi and
+  Chinese hot plates in a casual, modern environment that's perfect for everyday
+  dining. The menu features fresh, flavorful dishes like hibachi specialties and
+  generous portions that make it easy to share with friends or family,
+  complemented by affordable lunch specials. With options for vegetarians and a
+  welcoming vibe that enhances the overall experience, this spot stands out for
+  its accessibility and variety. Reasonable pricing around $10 to $20 ensures
+  it's a go-to choice for those seeking tasty Asian flavors without breaking the
+  bank, making it a solid option for sushi enthusiasts exploring local eateries.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJq9QuhjqgwogRFiBkSzCi8zw/reviews/ChZDSUhNMG9nS0VJQ0FnSUNuX2N5OFRREAE
@@ -368,6 +389,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN4eXRqZDVRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN4eXRqZDVRRRAB!2m1!1s0x88c2a03a862ed4ab:0x3cf3a2304b642016
+review_summary: >-
+  What Visitors Are Buzzing About$$$Visitors often rave about the vibrant
+  atmosphere and generous portions at this sushi spot, highlighting how the
+  fresh rolls and hot dishes make for a satisfying meal whether dining in or
+  grabbing takeout. Many appreciate the attentive service and fair prices that
+  keep things approachable and enjoyable for groups or quick bites. While most
+  feedback praises the overall quality and variety, a few notes suggest that
+  some sushi items could be firmer for the best texture, but this doesn't
+  overshadow the positive experiences. Overall, it's a welcoming place for
+  anyone searching for top-rated sushi near them, with the consensus leaning
+  toward repeat visits for its reliable flavors and friendly vibe. If you're in
+  the mood for Japanese-inspired eats close to home, this spot delivers a
+  consistently upbeat dining experience that's worth trying.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -400,8 +435,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Chinese hot plates & Japanese sushi menu & hibachi with lunch specials &
   casual, modern interiors.
 

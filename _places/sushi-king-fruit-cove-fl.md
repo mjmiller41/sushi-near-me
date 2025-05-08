@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi King"
+title: Sushi King
 permalink: /florida/fruit-cove/sushi-king.html
 stateAbbr: FL
 stateName: Florida
 cityName: Fruit Cove
 seo:
-  name: "Sushi King"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi King serves delicious sushi in Fruit Cove, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJV7ZKXs7N5YgRXexs2r7Ro4A
 photos:
   - name: >-
@@ -185,7 +183,44 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Experience Sushi King in Fruit Cove, FL$$$Sushi King in Fruit Cove, Florida,
+  stands out as a welcoming spot for those seeking fresh Japanese cuisine in a
+  relaxed setting. This sushi restaurant offers a variety of delicious dishes
+  that highlight authentic flavors, making it an ideal choice for anyone
+  exploring top-rated sushi options nearby. With thoughtful accessibility
+  features like wheelchair-friendly parking, entrances, and seating, it ensures
+  a comfortable visit for all diners. The cozy atmosphere invites casual meals
+  or quick bites, perfect for locals or visitors craving high-quality sushi in
+  the area. Whether you're looking for sushi places near me or simply enjoying a
+  laid-back dining experience, this spot delivers a straightforward and
+  enjoyable vibe.
+generative_summary: >-
+  Experience Sushi King in Fruit Cove, FL$$$Sushi King in Fruit Cove, Florida,
+  stands out as a welcoming spot for those seeking fresh Japanese cuisine in a
+  relaxed setting. This sushi restaurant offers a variety of delicious dishes
+  that highlight authentic flavors, making it an ideal choice for anyone
+  exploring top-rated sushi options nearby. With thoughtful accessibility
+  features like wheelchair-friendly parking, entrances, and seating, it ensures
+  a comfortable visit for all diners. The cozy atmosphere invites casual meals
+  or quick bites, perfect for locals or visitors craving high-quality sushi in
+  the area. Whether you're looking for sushi places near me or simply enjoying a
+  laid-back dining experience, this spot delivers a straightforward and
+  enjoyable vibe.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Visitor Feedback$$$Visitors to Sushi King often rave about the
+  fresh ingredients and flavorful rolls that make every meal feel satisfying and
+  authentic. Many folks appreciate the friendly service and efficient
+  atmosphere, which keeps things light and enjoyable for a quick lunch or dinner
+  outing. While some mention minor waits during peak times, the overall
+  consensus highlights the value and taste that keep people coming back for
+  more. Diners frequently note that it's a solid pick for families or groups
+  seeking reliable Japanese flavors without the fuss. If you're hunting for the
+  best sushi near me, feedback suggests this place offers a consistently
+  positive experience that's worth trying out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +246,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

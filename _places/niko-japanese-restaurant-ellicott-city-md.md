@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Niko Japanese Restaurant"
+title: Niko Japanese Restaurant
 permalink: /maryland/ellicott-city/niko-japanese-restaurant.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Ellicott City
 seo:
-  name: "Niko Japanese Restaurant"
-  type: Restaurant
-  links: null
-description: "Niko Japanese Restaurant serves delicious sushi in Ellicott City, Maryland. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.nikorestaurant.com/
 place_id: ChIJ1za2umsfyIkRnOoRF90yPe4
 photos:
   - name: >-
@@ -170,8 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c81f6bbab636d7:0xee3d32dd1711ea9c!10e5
 primary_type: Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: Closed'
+    - 'Tuesday: 11:30 AM – 9:00 PM'
+    - 'Wednesday: 11:30 AM – 9:00 PM'
+    - 'Thursday: 11:30 AM – 9:00 PM'
+    - 'Friday: 11:30 AM – 9:00 PM'
+    - 'Saturday: 11:30 AM – 9:00 PM'
+    - 'Sunday: 12:30 – 9:00 PM'
+  nextCloseTime: '2025-05-04T01:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +234,50 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (410) 750-3836
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.5'
+rating_count: 420
+website: http://www.nikorestaurant.com/
+description: >-
+  Discover Niko Japanese Restaurant in Ellicott City, MD$$$Niko Japanese
+  Restaurant in Ellicott City, MD, provides a relaxed atmosphere for enjoying
+  authentic Japanese cuisine, featuring fresh sushi and other traditional
+  dishes. This spot stands out with its accessible features, including
+  wheelchair-friendly parking and entrances, making it welcoming for all
+  visitors. Diners can savor a variety of options like sashimi and bento boxes,
+  prepared with care to highlight quality ingredients and flavors. The
+  restaurant's moderate pricing and convenient hours add to its appeal as a
+  go-to choice for those seeking sushi restaurants nearby. Whether you're in the
+  mood for a quick lunch or a casual evening meal, this location offers a solid
+  option for exploring Japanese flavors right in your area.
+generative_summary: >-
+  Discover Niko Japanese Restaurant in Ellicott City, MD$$$Niko Japanese
+  Restaurant in Ellicott City, MD, provides a relaxed atmosphere for enjoying
+  authentic Japanese cuisine, featuring fresh sushi and other traditional
+  dishes. This spot stands out with its accessible features, including
+  wheelchair-friendly parking and entrances, making it welcoming for all
+  visitors. Diners can savor a variety of options like sashimi and bento boxes,
+  prepared with care to highlight quality ingredients and flavors. The
+  restaurant's moderate pricing and convenient hours add to its appeal as a
+  go-to choice for those seeking sushi restaurants nearby. Whether you're in the
+  mood for a quick lunch or a casual evening meal, this location offers a solid
+  option for exploring Japanese flavors right in your area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Diners Are Saying About the Experience$$$Folks frequently highlight the
+  fresh sushi offerings at this spot, with standout dishes like creative rolls
+  and hearty yakisoba that keep things tasty and satisfying. Many appreciate the
+  attentive service that makes every visit feel smooth and enjoyable, without
+  any unnecessary fuss. Prices are often described as reasonable, providing
+  great value for the quality of food served in such a convenient Ellicott City
+  setting. Overall, it's praised as a reliable choice for groups or solo diners
+  looking for top-rated Japanese places, blending solid flavors with a welcoming
+  vibe. While not perfect, the positive feedback emphasizes it as a worthwhile
+  stop for anyone craving sushi close to home.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +303,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

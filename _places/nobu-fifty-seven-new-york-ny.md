@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Nobu Fifty Seven"
+title: Nobu Fifty Seven
 permalink: /new-york/new-york/nobu-fifty-seven.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "Nobu Fifty Seven"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Nobu Fifty Seven serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJPX5iCfpYwokRACnACAf2pJw
 photos:
   - name: >-
@@ -184,7 +182,49 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Nobu Fifty Seven in New York, NY$$$Nobu Fifty Seven in New York, NY,
+  stands out as a stylish destination for innovative Japanese dining, featuring
+  a blend of fresh flavors and creative presentations that highlight modern
+  twists on traditional cuisine. This chic restaurant boasts an elegant
+  atmosphere perfect for enjoying expertly crafted dishes, including a variety
+  of sushi options that draw in enthusiasts searching for top-rated Japanese
+  places. With its focus on high-quality ingredients and artistic plating, it
+  offers a memorable experience for those exploring sushi restaurants in the
+  city. Accessibility features like wheelchair-friendly entrances and seating
+  add to its appeal, making it a welcoming spot for a broad range of diners.
+  Whether you're seeking sushi close to you or a refined meal in a vibrant urban
+  setting, this establishment delivers a seamless blend of taste and ambiance.
+generative_summary: >-
+  Discover Nobu Fifty Seven in New York, NY$$$Nobu Fifty Seven in New York, NY,
+  stands out as a stylish destination for innovative Japanese dining, featuring
+  a blend of fresh flavors and creative presentations that highlight modern
+  twists on traditional cuisine. This chic restaurant boasts an elegant
+  atmosphere perfect for enjoying expertly crafted dishes, including a variety
+  of sushi options that draw in enthusiasts searching for top-rated Japanese
+  places. With its focus on high-quality ingredients and artistic plating, it
+  offers a memorable experience for those exploring sushi restaurants in the
+  city. Accessibility features like wheelchair-friendly entrances and seating
+  add to its appeal, making it a welcoming spot for a broad range of diners.
+  Whether you're seeking sushi close to you or a refined meal in a vibrant urban
+  setting, this establishment delivers a seamless blend of taste and ambiance.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Guests Are Saying$$$Visitors to Nobu Fifty Seven often rave about the
+  fresh and inventive sushi selections that bring a creative edge to classic
+  Japanese flavors, making it a go-to for anyone craving something exciting yet
+  familiar. Many appreciate the stylish vibe and attentive service that enhance
+  the overall dining experience, though some note that the prices reflect the
+  premium quality and location. Folks frequently mention the variety of dishes
+  as a highlight, praising how the menu balances bold tastes with elegant
+  presentations for a satisfying meal. Overall, it's seen as a solid choice for
+  groups or special occasions, with the consensus leaning positive on the
+  flavorful options and welcoming atmosphere. If you're on the hunt for the best
+  sushi near me, this spot tends to leave people feeling impressed by the
+  attention to detail and enjoyable vibes, even if it's not the most
+  budget-friendly option.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +250,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

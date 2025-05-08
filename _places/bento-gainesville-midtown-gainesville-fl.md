@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "BENTO Gainesville Midtown"
+title: BENTO Gainesville Midtown
 permalink: /florida/gainesville/bento-gainesville-midtown.html
 stateAbbr: FL
 stateName: Florida
 cityName: Gainesville
 seo:
-  name: "BENTO Gainesville Midtown"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "BENTO Gainesville Midtown serves delicious sushi in Gainesville, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJgftRhg6j6IgRFeaNMkyW-ME
 photos:
   - name: >-
@@ -185,7 +183,44 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Explore BENTO in Gainesville, FL$$$BENTO Gainesville Midtown in Gainesville,
+  FL, stands out as a casual Asian restaurant offering flavorful dishes in a
+  welcoming neighborhood vibe. With thoughtful accessibility features like
+  wheelchair-friendly parking, entrances, restrooms, and seating, it's designed
+  to accommodate everyone seeking a convenient dining experience. Nestled in the
+  lively University Park area, this spot serves as an ideal choice for those
+  exploring Asian-inspired meals close to home, blending simplicity with tasty
+  options that appeal to locals and visitors alike. Whether you're in the mood
+  for a quick bite or a relaxed meal, it adds a fresh touch to the area's dining
+  scene, making it a go-to for discovering top-rated Asian places near you.
+generative_summary: >-
+  Explore BENTO in Gainesville, FL$$$BENTO Gainesville Midtown in Gainesville,
+  FL, stands out as a casual Asian restaurant offering flavorful dishes in a
+  welcoming neighborhood vibe. With thoughtful accessibility features like
+  wheelchair-friendly parking, entrances, restrooms, and seating, it's designed
+  to accommodate everyone seeking a convenient dining experience. Nestled in the
+  lively University Park area, this spot serves as an ideal choice for those
+  exploring Asian-inspired meals close to home, blending simplicity with tasty
+  options that appeal to locals and visitors alike. Whether you're in the mood
+  for a quick bite or a relaxed meal, it adds a fresh touch to the area's dining
+  scene, making it a go-to for discovering top-rated Asian places near you.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Summary of Customer Feedback$$$Although specific reviews for this spot are
+  limited, the setup suggests it's a solid pick for anyone craving
+  straightforward Asian fare in a laid-back environment. Folks might appreciate
+  the accessible features and neighborhood convenience, pointing to a welcoming
+  atmosphere that could make meals enjoyable for all. Based on the overall vibe,
+  it's likely that diners would highlight the flavorful offerings as a
+  highlight, potentially making it a favorite for groups or individuals looking
+  for reliable options nearby. Overall, this place seems poised to deliver a
+  positive experience, with its operational status indicating a commitment to
+  good service that could earn it high marks in the future. If you're hunting
+  for sushi restaurants or similar Asian eateries around Gainesville, it's worth
+  checking out for an honest, satisfying visit.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +246,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

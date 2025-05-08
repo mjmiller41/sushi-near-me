@@ -1,15 +1,14 @@
 ---
 layout: place
-title: "Toro Sushi Stone Grill & Bar"
+title: Toro Sushi Stone Grill & Bar
 permalink: /california/fremont/toro-sushi-stone-grill-bar.html
 stateAbbr: CA
 stateName: California
 cityName: Fremont
 seo:
-  name: "Toro Sushi Stone Grill & Bar"
-  type: Restaurant
-  links: https://www.bestfoodtodayus.com/ordering/restaurant/menu?restaurant_uid=bb78acd0-448a-4ccc-81f7-605f68a82f65
-description: "Toro Sushi Stone Grill & Bar serves delicious sushi in Fremont, California. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: >-
+    https://www.bestfoodtodayus.com/ordering/restaurant/menu?restaurant_uid=bb78acd0-448a-4ccc-81f7-605f68a82f65
 place_id: ChIJdbu3YWzHj4ARioMDEMOoZyU
 photos:
   - name: >-
@@ -170,7 +169,105 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x808fc76c61b7bb75:0x2567a8c31003838a!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 2:30 PM, 5:00 – 9:30 PM'
     - 'Tuesday: 11:00 AM – 2:30 PM, 5:00 – 9:30 PM'
     - 'Wednesday: 11:00 AM – 2:30 PM, 5:00 – 9:30 PM'
@@ -178,14 +275,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 2:30 PM, 5:00 – 10:30 PM'
     - 'Saturday: 11:30 AM – 10:30 PM'
     - 'Sunday: 11:30 AM – 9:30 PM'
-  current:
-    - 'Monday: 11:00 AM – 2:30 PM, 5:00 – 9:30 PM'
-    - 'Tuesday: 11:00 AM – 2:30 PM, 5:00 – 9:30 PM'
-    - 'Wednesday: 11:00 AM – 2:30 PM, 5:00 – 9:30 PM'
-    - 'Thursday: 11:00 AM – 2:30 PM, 5:00 – 9:30 PM'
-    - 'Friday: 11:00 AM – 2:30 PM, 5:00 – 10:30 PM'
-    - 'Saturday: 11:30 AM – 10:30 PM'
-    - 'Sunday: 11:30 AM – 9:30 PM'
+  nextCloseTime: '2025-05-04T05:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,10 +287,42 @@ phone: (510) 683-8800
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.3'
-rating_count: 0
+rating_count: 1088
 website: >-
   https://www.bestfoodtodayus.com/ordering/restaurant/menu?restaurant_uid=bb78acd0-448a-4ccc-81f7-605f68a82f65
+description: >-
+  Discover Toro Sushi in Fremont, CA$$$Toro Sushi Stone Grill & Bar in Fremont,
+  California, stands out as a casual destination for enjoying fresh Japanese
+  cuisine and innovative dishes. This spot delights with a menu featuring
+  creative sushi options and premium selections like Wagyu beef, complemented by
+  a well-stocked bar for craft drinks. Its welcoming atmosphere makes it ideal
+  for relaxed meals or gatherings, with accessibility features ensuring everyone
+  can enjoy the experience comfortably. Open throughout the week with extended
+  hours on weekends, it's a convenient choice for those searching for top-rated
+  sushi restaurants in the area.
+generative_summary: >-
+  Discover Toro Sushi in Fremont, CA$$$Toro Sushi Stone Grill & Bar in Fremont,
+  California, stands out as a casual destination for enjoying fresh Japanese
+  cuisine and innovative dishes. This spot delights with a menu featuring
+  creative sushi options and premium selections like Wagyu beef, complemented by
+  a well-stocked bar for craft drinks. Its welcoming atmosphere makes it ideal
+  for relaxed meals or gatherings, with accessibility features ensuring everyone
+  can enjoy the experience comfortably. Open throughout the week with extended
+  hours on weekends, it's a convenient choice for those searching for top-rated
+  sushi restaurants in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this sushi spot often praise the
+  fresh, flavorful dishes that bring authentic Japanese tastes to life in a
+  casual setting. Many highlight the attentive service and cozy vibe that
+  enhance the overall dining experience, making it a go-to for groups or solo
+  diners. While some note that prices lean toward the moderate side, the quality
+  of ingredients and creative presentations generally make it feel worthwhile.
+  If you're on the hunt for reliable sushi places nearby, feedback frequently
+  points to this location as a solid pick for satisfying meals with a positive,
+  welcoming touch.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -226,7 +348,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

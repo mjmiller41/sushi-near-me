@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Drake's Lexington"
+title: Drake's Lexington
 permalink: /kentucky/lexington/drake-s-lexington.html
 stateAbbr: KY
 stateName: Kentucky
 cityName: Lexington
 seo:
-  name: "Drake's Lexington"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Drake's Lexington serves delicious sushi in Lexington, Kentucky. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJPxDYmhZbQogRQhLebLTAByk
 photos:
   - name: >-
@@ -185,7 +183,44 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Explore Drake's in Lexington, KY$$$Drake's in Lexington, KY, stands out as a
+  lively hangout spot blending craft beers with a selection of fresh sushi and
+  pub favorites. This venue offers an extensive array of over 20 craft beers on
+  tap, alongside hearty burgers and classic pub grub that appeal to those
+  seeking a casual yet engaging dining experience. The atmosphere is perfect for
+  unwinding, with accessible features like wheelchair-friendly parking and
+  seating that make it welcoming for everyone. Sushi enthusiasts will appreciate
+  the variety of options, ideal for anyone searching for quality
+  Japanese-inspired dishes in a relaxed setting. Whether you're looking for a
+  spot to enjoy top-rated sushi or simply gather with friends, this location
+  delivers a fun and inclusive vibe.
+generative_summary: >-
+  Explore Drake's in Lexington, KY$$$Drake's in Lexington, KY, stands out as a
+  lively hangout spot blending craft beers with a selection of fresh sushi and
+  pub favorites. This venue offers an extensive array of over 20 craft beers on
+  tap, alongside hearty burgers and classic pub grub that appeal to those
+  seeking a casual yet engaging dining experience. The atmosphere is perfect for
+  unwinding, with accessible features like wheelchair-friendly parking and
+  seating that make it welcoming for everyone. Sushi enthusiasts will appreciate
+  the variety of options, ideal for anyone searching for quality
+  Japanese-inspired dishes in a relaxed setting. Whether you're looking for a
+  spot to enjoy top-rated sushi or simply gather with friends, this location
+  delivers a fun and inclusive vibe.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Visitor Feedback$$$Visitors often highlight the welcoming
+  atmosphere and solid food choices at this spot, making it a go-to for casual
+  meals and drinks. Many appreciate the fresh sushi selections and craft beer
+  variety, noting that it hits the mark for those craving flavorful options
+  without the fuss. Folks mention the overall experience feels laid-back and
+  enjoyable, with the pub grub adding a nice touch for group outings. While some
+  point out that service can vary, the general consensus leans positive,
+  praising the accessibility and vibe as reasons to return. If you're exploring
+  sushi restaurants nearby, this place tends to deliver a reliably good time,
+  encouraging repeat visits for its approachable and satisfying offerings.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +246,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

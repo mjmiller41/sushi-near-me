@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sendo Sushi"
+title: Sendo Sushi
 permalink: /california/san-jose/sendo-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: San Jose
 seo:
-  name: "Sendo Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://sjsendosushi.com/
-description: "Sendo Sushi serves delicious sushi in San Jose, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJv-HvlQfJj4ARiWOE181jLAA
 photos:
   - name: >-
@@ -170,22 +168,97 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x808fc90795efe1bf:0x2c63cdd7846389!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 0
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 20
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 20
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 2:00 PM, 5:00 – 8:00 PM'
     - 'Tuesday: 11:00 AM – 2:00 PM, 5:00 – 8:00 PM'
     - 'Wednesday: 11:00 AM – 2:00 PM, 5:00 – 8:00 PM'
     - 'Thursday: 11:00 AM – 2:00 PM, 5:00 – 8:00 PM'
     - 'Friday: 11:00 AM – 2:00 PM, 5:00 – 8:00 PM'
-    - 'Saturday: 12:00 – 2:30 PM, 5:00 – 8:00 PM'
+    - 'Saturday: Closed'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:00 AM – 2:00 PM, 5:00 – 8:00 PM'
-    - 'Tuesday: 11:00 AM – 2:00 PM, 5:00 – 8:00 PM'
-    - 'Wednesday: 11:00 AM – 2:00 PM, 5:00 – 8:00 PM'
-    - 'Thursday: 11:00 AM – 2:00 PM, 5:00 – 8:00 PM'
-    - 'Friday: 11:00 AM – 2:00 PM, 5:00 – 8:00 PM'
-    - 'Saturday: 12:00 – 2:30 PM, 5:00 – 8:00 PM'
-    - 'Sunday: Closed'
+  nextOpenTime: '2025-05-05T18:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +270,260 @@ phone: (408) 433-3322
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.2'
-rating_count: 0
+rating_count: 288
 website: http://sjsendosushi.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Experience Sendo Sushi in San Jose$$$Sendo Sushi in San Jose, CA, stands out
+  as a welcoming Japanese eatery nestled in a bustling shopping center, offering
+  fresh sushi and classic cooked dishes that draw in locals seeking authentic
+  flavors. This spot excels with its generous portions of high-quality fish and
+  creative rolls, making it a go-to choice for anyone exploring top-rated sushi
+  options nearby. Accessibility features like wheelchair-friendly parking and
+  seating add to the convenience, ensuring a comfortable visit for all. The
+  restaurant operates Monday through Friday with a focus on moderately priced
+  meals that balance taste and value, perfect for quick lunches or relaxed
+  dinners. Whether you're in the mood for innovative rolls or traditional fare,
+  this sushi haven provides a straightforward yet satisfying experience in the
+  heart of the area.
+generative_summary: >-
+  Experience Sendo Sushi in San Jose$$$Sendo Sushi in San Jose, CA, stands out
+  as a welcoming Japanese eatery nestled in a bustling shopping center, offering
+  fresh sushi and classic cooked dishes that draw in locals seeking authentic
+  flavors. This spot excels with its generous portions of high-quality fish and
+  creative rolls, making it a go-to choice for anyone exploring top-rated sushi
+  options nearby. Accessibility features like wheelchair-friendly parking and
+  seating add to the convenience, ensuring a comfortable visit for all. The
+  restaurant operates Monday through Friday with a focus on moderately priced
+  meals that balance taste and value, perfect for quick lunches or relaxed
+  dinners. Whether you're in the mood for innovative rolls or traditional fare,
+  this sushi haven provides a straightforward yet satisfying experience in the
+  heart of the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJv-HvlQfJj4ARiWOE181jLAA/reviews/ChdDSUhNMG9nS0VJQ0FnTUNBMUt1Zmd3RRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        Visited them quite a few times. All raw fish dishes are highest quality.
+        Fish pieces are of generous size. Staff is very friendly and quick.
+        Can't believe we have this gem at our little lunch plaza.
+      languageCode: en
+    originalText:
+      text: >-
+        Visited them quite a few times. All raw fish dishes are highest quality.
+        Fish pieces are of generous size. Staff is very friendly and quick.
+        Can't believe we have this gem at our little lunch plaza.
+      languageCode: en
+    authorAttribution:
+      displayName: Sergey Feduleyev
+      uri: https://www.google.com/maps/contrib/107852974094489428753/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXWl2FdlBnOXuerB7ugxMqWklKI7GpOehdxySmLUWRPadzTCj82GQ=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-01-29T21:09:55.192621Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNBMUt1Zmd3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNBMUt1Zmd3RRAB!2m1!1s0x808fc90795efe1bf:0x2c63cdd7846389
+  - name: >-
+      places/ChIJv-HvlQfJj4ARiWOE181jLAA/reviews/ChdDSUhNMG9nS0VJQ0FnSURKX0puQzdRRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        Delicious sushi and nice atmosphere.
+
+        Highly recommend the food here. I had the specialty rolls and they’re
+        always fresh and flavorful. The rolls are a good large portion! I like
+        that if you sit down they give you complementary edamame. The miso soup
+        was full of flavor and the mochi ice cream was soft and sweet, so
+        delicious!
+
+        Also, every time I’ve been to the restaurant the staff have always been
+        kind and made me feel welcomed.
+
+        I like the decor, my part favorite being a wall of cinematic posters.
+        Good for starting a conversation of you’re with someone.
+      languageCode: en
+    originalText:
+      text: >-
+        Delicious sushi and nice atmosphere.
+
+        Highly recommend the food here. I had the specialty rolls and they’re
+        always fresh and flavorful. The rolls are a good large portion! I like
+        that if you sit down they give you complementary edamame. The miso soup
+        was full of flavor and the mochi ice cream was soft and sweet, so
+        delicious!
+
+        Also, every time I’ve been to the restaurant the staff have always been
+        kind and made me feel welcomed.
+
+        I like the decor, my part favorite being a wall of cinematic posters.
+        Good for starting a conversation of you’re with someone.
+      languageCode: en
+    authorAttribution:
+      displayName: Tell O
+      uri: https://www.google.com/maps/contrib/104329974806936211089/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIOB5Wh1HLapdKC0LUs_Os4KmuC9tZkwacdRcOdoazwNSXzHg=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2023-07-13T06:16:25.690737Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURKX0puQzdRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURKX0puQzdRRRAB!2m1!1s0x808fc90795efe1bf:0x2c63cdd7846389
+  - name: >-
+      places/ChIJv-HvlQfJj4ARiWOE181jLAA/reviews/ChdDSUhNMG9nS0VJQ0FnSUNoaTV2dDVRRRAB
+    relativePublishTimeDescription: 2 years ago
+    rating: 5
+    text:
+      text: >-
+        UNDER NEW MANAGEMENT
+
+
+        It's a shame the previous owners tarnished the Sendo Sushi name because
+        my experience was nothing like I had previously read online. The sashimi
+        tasted fresh and had the right consistency. Teriyaki chicken was
+        flavorful but not overly artificial and sugary. And the salmon was
+        cooked to perfection with a wonderful flavor profile. The Dynamite and
+        Crunchy Salmon rolls were of similar vein while also offering all the
+        trendy accouchements that most modern sushi spots have nowadays. I would
+        have to say, Sendo Sushi punches above it's weight class and the pricing
+        was extremely competitive for the quality of food you're getting. I can
+        comfortably say Sendo is one of the better eateries in the North San
+        Jose
+      languageCode: en
+    originalText:
+      text: >-
+        UNDER NEW MANAGEMENT
+
+
+        It's a shame the previous owners tarnished the Sendo Sushi name because
+        my experience was nothing like I had previously read online. The sashimi
+        tasted fresh and had the right consistency. Teriyaki chicken was
+        flavorful but not overly artificial and sugary. And the salmon was
+        cooked to perfection with a wonderful flavor profile. The Dynamite and
+        Crunchy Salmon rolls were of similar vein while also offering all the
+        trendy accouchements that most modern sushi spots have nowadays. I would
+        have to say, Sendo Sushi punches above it's weight class and the pricing
+        was extremely competitive for the quality of food you're getting. I can
+        comfortably say Sendo is one of the better eateries in the North San
+        Jose
+      languageCode: en
+    authorAttribution:
+      displayName: Troy Walker
+      uri: https://www.google.com/maps/contrib/109617418927063908714/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLbNZVPcUWdu0eaO2VGg6KD65ao9t8SRrqSQXsliEQY4lK2ieuF=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2023-02-22T04:53:03.615107Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNoaTV2dDVRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNoaTV2dDVRRRAB!2m1!1s0x808fc90795efe1bf:0x2c63cdd7846389
+  - name: >-
+      places/ChIJv-HvlQfJj4ARiWOE181jLAA/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ3emFEZTF3RRAB
+    relativePublishTimeDescription: 8 months ago
+    rating: 5
+    text:
+      text: >-
+        Dinner bento box is a great option if you want to try multiple items!
+        Had the tuna roll, salmon teriyaki, and sashimi- all were very good and
+        the fish was very fresh! Portions are large and the food is all
+        delicious. Service was wonderful and attentive. Will definitely be back!
+      languageCode: en
+    originalText:
+      text: >-
+        Dinner bento box is a great option if you want to try multiple items!
+        Had the tuna roll, salmon teriyaki, and sashimi- all were very good and
+        the fish was very fresh! Portions are large and the food is all
+        delicious. Service was wonderful and attentive. Will definitely be back!
+      languageCode: en
+    authorAttribution:
+      displayName: Jenny Kim
+      uri: https://www.google.com/maps/contrib/108518734811901088613/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIZwJuEy6cwSEc4PM4ge6nHUD-p7GKqvytq6FMp_UDkPuZIq4Q=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-08-27T03:19:14.271792Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQ3emFEZTF3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQ3emFEZTF3RRAB!2m1!1s0x808fc90795efe1bf:0x2c63cdd7846389
+  - name: >-
+      places/ChIJv-HvlQfJj4ARiWOE181jLAA/reviews/ChZDSUhNMG9nS0VJQ0FnSUM1MVlxcVVBEAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        I had a dinner bento with 3 items to go and thought the price was a bit
+        high, but it came with a huge portion and everything tasted great, so it
+        totally justified the price. Would come back for the teriyaki chicken.
+        :)
+      languageCode: en
+    originalText:
+      text: >-
+        I had a dinner bento with 3 items to go and thought the price was a bit
+        high, but it came with a huge portion and everything tasted great, so it
+        totally justified the price. Would come back for the teriyaki chicken.
+        :)
+      languageCode: en
+    authorAttribution:
+      displayName: Brian Choi
+      uri: https://www.google.com/maps/contrib/101026057925070932651/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVMh8HTinCGXCY8pVgPPaGN62Wwfn7VkpZHKmBYfB0gMJ58CAhw9g=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2023-10-16T02:37:14.186564Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUM1MVlxcVVBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUM1MVlxcVVBEAE!2m1!1s0x808fc90795efe1bf:0x2c63cdd7846389
+review_summary: >-
+  Buzz Around the Reviews$$$Folks chatting about this sushi spot often highlight
+  the fresh, flavorful dishes that make every bite feel worthwhile, with plenty
+  of praise for the generous servings and tasty combinations like bento boxes
+  and specialty rolls. Many appreciate the welcoming vibe and attentive service
+  that keep things light and enjoyable without any fuss. It's clear that the
+  value for money stands out, as diners frequently note how the quality
+  justifies the cost for a solid meal. Overall, the feedback leans positive,
+  suggesting it's a reliable pick for anyone craving good sushi nearby, though
+  it's best to plan around its weekday hours. If you're on the hunt for
+  dependable Japanese places in the neighborhood, this one comes through with
+  consistently satisfying results that leave you feeling glad you stopped by.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: false
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: false
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Shopping-center Japanese joint serving sushi & typical cooked fare, Monday to
+  Friday only.
 
 ---

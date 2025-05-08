@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kura Revolving Sushi Bar"
+title: Kura Revolving Sushi Bar
 permalink: /washington/bellevue/kura-revolving-sushi-bar.html
 stateAbbr: WA
 stateName: Washington
 cityName: Bellevue
 seo:
-  name: "Kura Revolving Sushi Bar"
-  type: Restaurant
+  type: restaurant
   links: https://kurasushi.com/locations/bellevue-wa/
-description: "Kura Revolving Sushi Bar serves delicious sushi in Bellevue, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJa-kOxDltkFQRg7A5nJLZM5w
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x54906d39c40ee96b:0x9c33d9929c39b083!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 10
+        minute: 30
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 10
+        minute: 30
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 10:00 PM'
     - 'Tuesday: 11:00 AM – 10:00 PM'
     - 'Wednesday: 11:00 AM – 10:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 11:00 PM'
     - 'Saturday: 10:30 AM – 11:00 PM'
     - 'Sunday: 10:30 AM – 10:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 10:00 PM'
-    - 'Tuesday: 11:00 AM – 10:00 PM'
-    - 'Wednesday: 11:00 AM – 10:00 PM'
-    - 'Thursday: 11:00 AM – 10:00 PM'
-    - 'Friday: 11:00 AM – 11:00 PM'
-    - 'Saturday: 10:30 AM – 11:00 PM'
-    - 'Sunday: 10:30 AM – 10:00 PM'
+  nextCloseTime: '2025-05-04T06:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,298 @@ phone: (360) 822-9333
 price_level: PRICE_LEVEL_MODERATE
 price_range: $30 &ndash; $50
 rating: '4.1'
-rating_count: 0
+rating_count: 1831
 website: https://kurasushi.com/locations/bellevue-wa/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Experience Kura Revolving Sushi Bar in Bellevue, WA$$$Nestled in the heart of
+  Bellevue, WA, Kura Revolving Sushi Bar offers a modern twist on traditional
+  Japanese dining with its innovative conveyor belt system delivering fresh
+  plates right to your table. This trendy spot emphasizes high-quality
+  ingredients in its sushi selections, making it a go-to for those seeking
+  authentic flavors in a fun, interactive environment. The restaurant boasts a
+  variety of dishes, including classic rolls and unique options like fried
+  donuts, all served in a welcoming space that's accessible for everyone. With
+  convenient hours extending into the evening, it's an ideal choice for casual
+  meals or gatherings, blending efficiency and enjoyment for sushi enthusiasts
+  exploring local options.
+generative_summary: >-
+  Experience Kura Revolving Sushi Bar in Bellevue, WA$$$Nestled in the heart of
+  Bellevue, WA, Kura Revolving Sushi Bar offers a modern twist on traditional
+  Japanese dining with its innovative conveyor belt system delivering fresh
+  plates right to your table. This trendy spot emphasizes high-quality
+  ingredients in its sushi selections, making it a go-to for those seeking
+  authentic flavors in a fun, interactive environment. The restaurant boasts a
+  variety of dishes, including classic rolls and unique options like fried
+  donuts, all served in a welcoming space that's accessible for everyone. With
+  convenient hours extending into the evening, it's an ideal choice for casual
+  meals or gatherings, blending efficiency and enjoyment for sushi enthusiasts
+  exploring local options.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJa-kOxDltkFQRg7A5nJLZM5w/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3c192dDF3RRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Always such a fun experience. The sushi is varied and quite tasty. The
+        soy sauce has a sweet taste that goes well with the beef rolls. The toro
+        tuna is fantastic as well. After every 5 plates a movie plays and after
+        15 you get a toy. I recommend getting the app to see how many plates you
+        can do over time.
+      languageCode: en
+    originalText:
+      text: >-
+        Always such a fun experience. The sushi is varied and quite tasty. The
+        soy sauce has a sweet taste that goes well with the beef rolls. The toro
+        tuna is fantastic as well. After every 5 plates a movie plays and after
+        15 you get a toy. I recommend getting the app to see how many plates you
+        can do over time.
+      languageCode: en
+    authorAttribution:
+      displayName: Wayne Lucchese
+      uri: https://www.google.com/maps/contrib/112177957656840148185/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjU5CVit0edskgtJGHmqJWQkrxhN3zDSS1x6M0ympNpL9e5t6FSr=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-03-21T03:17:02.743396Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUN3c192dDF3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUN3c192dDF3RRAB!2m1!1s0x54906d39c40ee96b:0x9c33d9929c39b083
+  - name: >-
+      places/ChIJa-kOxDltkFQRg7A5nJLZM5w/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRbTVPLUpBEAE
+    relativePublishTimeDescription: a month ago
+    rating: 4
+    text:
+      text: >-
+        Kura was a cool conveyor belt sushi spot which ended up being a nice
+        Thursday dinner. Service throughout was congenial and helpful - for sure
+        the highlight. The atmosphere inside was  energetic and interior design
+        perfectly functional - our conveyor belt completely stopped several
+        times during our meal however (there may have been technical
+        difficulties.) Food variety was solid, and on average food quality/taste
+        was decent but not great. Would come back for the experience, but not
+        necessarily because of standout sushi.
+      languageCode: en
+    originalText:
+      text: >-
+        Kura was a cool conveyor belt sushi spot which ended up being a nice
+        Thursday dinner. Service throughout was congenial and helpful - for sure
+        the highlight. The atmosphere inside was  energetic and interior design
+        perfectly functional - our conveyor belt completely stopped several
+        times during our meal however (there may have been technical
+        difficulties.) Food variety was solid, and on average food quality/taste
+        was decent but not great. Would come back for the experience, but not
+        necessarily because of standout sushi.
+      languageCode: en
+    authorAttribution:
+      displayName: Jeremy Yowell
+      uri: https://www.google.com/maps/contrib/106556951592978288011/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLIvNiXXnlnA7a-7VkIoPkyQA-idajw2GKyEslgLsTxpIosHg=s128-c0x00000000-cc-rp-mo-ba7
+    publishTime: '2025-03-07T08:40:20.141491Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNRbTVPLUpBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNRbTVPLUpBEAE!2m1!1s0x54906d39c40ee96b:0x9c33d9929c39b083
+  - name: >-
+      places/ChIJa-kOxDltkFQRg7A5nJLZM5w/reviews/ChdDSUhNMG9nS0VJQ0FnTURRdDdqdXRBRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Great customer service, very friendly servers, and kitchen staff are
+        quick with the tablet orders. Best to eat during lunch if you don’t want
+        to wait too long during dinner time. Don’t be shy asking for a tutorial
+        on how to grab plates (rather have you learn how than watch someone take
+        the whole thing off the belt, lol).
+
+
+        To prevent long wait times, especially during dinner peak hours,
+        download the app add yourself to the waitlist on your way to the
+        restaurant because it’ll make a huge difference to knock some time off
+        than waiting in the parking lot. They have a great notification system
+        via text to let you know when to checkin at the front.
+
+
+        Can’t wait to visit the Lynnwood location once it opens.
+
+
+        Photos/videos are our typical orders.
+      languageCode: en
+    originalText:
+      text: >-
+        Great customer service, very friendly servers, and kitchen staff are
+        quick with the tablet orders. Best to eat during lunch if you don’t want
+        to wait too long during dinner time. Don’t be shy asking for a tutorial
+        on how to grab plates (rather have you learn how than watch someone take
+        the whole thing off the belt, lol).
+
+
+        To prevent long wait times, especially during dinner peak hours,
+        download the app add yourself to the waitlist on your way to the
+        restaurant because it’ll make a huge difference to knock some time off
+        than waiting in the parking lot. They have a great notification system
+        via text to let you know when to checkin at the front.
+
+
+        Can’t wait to visit the Lynnwood location once it opens.
+
+
+        Photos/videos are our typical orders.
+      languageCode: en
+    authorAttribution:
+      displayName: Kayycee Z
+      uri: https://www.google.com/maps/contrib/105691946788647134002/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWTBBV4TpBVFL3FxqzuTtU2A3sa0hrbAYs9c_lJ0UNFcalFCTvQ=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-03-19T01:47:59.514878Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURRdDdqdXRBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURRdDdqdXRBRRAB!2m1!1s0x54906d39c40ee96b:0x9c33d9929c39b083
+  - name: >-
+      places/ChIJa-kOxDltkFQRg7A5nJLZM5w/reviews/ChdDSUhNMG9nS0VJQ0FnTURBc183dHpRRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        I wanted sushi and I got so much more! It was fun to eat in an automated
+        sushi bar. I really didn’t need to talk with a human! The sushi and
+        soups were very good and the people I did talk with were great. Lots of
+        selection and fast service since it is always rolling by you
+      languageCode: en
+    originalText:
+      text: >-
+        I wanted sushi and I got so much more! It was fun to eat in an automated
+        sushi bar. I really didn’t need to talk with a human! The sushi and
+        soups were very good and the people I did talk with were great. Lots of
+        selection and fast service since it is always rolling by you
+      languageCode: en
+    authorAttribution:
+      displayName: John Elmer
+      uri: https://www.google.com/maps/contrib/104335796968710935997/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWSMwnxS9sxdxDZldI7rcYgB4Je146ryp0zS_89l284wRxHXnM=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2025-02-11T17:59:08.305372Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURBc183dHpRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURBc183dHpRRRAB!2m1!1s0x54906d39c40ee96b:0x9c33d9929c39b083
+  - name: >-
+      places/ChIJa-kOxDltkFQRg7A5nJLZM5w/reviews/ChZDSUhNMG9nS0VJQ0FnTURvaGZybUVnEAE
+    relativePublishTimeDescription: a week ago
+    rating: 1
+    text:
+      text: >-
+        Absolutely furious with Kura Revolving Sushi today.
+
+        I drove all the way from Kirkland to Mercer Island to get two $8 milk
+        teas — went right at 11am when the shop opened because I really wanted
+        them. Took barely two sips before heading to Kura for lunch.
+
+
+        At the door, staff told me no outside drinks — fine, I respected the
+        rule. I handed over my nearly full teas and clearly said I would get
+        them back after my meal. Not once did anyone warn me they’d be trashed.
+
+
+        After lunch? Staff casually tells me they threw them away without
+        asking, without informing me — just gone. If they had even a shred of
+        basic communication, I would’ve put my drinks in my car — the weather
+        was perfectly fine for it. Instead, they wasted nearly $20 of drinks I
+        went out of my way to get.
+
+
+        This is straight-up disrespectful and careless. I will not be returning,
+        and I’ll make sure everyone I know hears about how Kura treats their
+        customers’ property.
+      languageCode: en
+    originalText:
+      text: >-
+        Absolutely furious with Kura Revolving Sushi today.
+
+        I drove all the way from Kirkland to Mercer Island to get two $8 milk
+        teas — went right at 11am when the shop opened because I really wanted
+        them. Took barely two sips before heading to Kura for lunch.
+
+
+        At the door, staff told me no outside drinks — fine, I respected the
+        rule. I handed over my nearly full teas and clearly said I would get
+        them back after my meal. Not once did anyone warn me they’d be trashed.
+
+
+        After lunch? Staff casually tells me they threw them away without
+        asking, without informing me — just gone. If they had even a shred of
+        basic communication, I would’ve put my drinks in my car — the weather
+        was perfectly fine for it. Instead, they wasted nearly $20 of drinks I
+        went out of my way to get.
+
+
+        This is straight-up disrespectful and careless. I will not be returning,
+        and I’ll make sure everyone I know hears about how Kura treats their
+        customers’ property.
+      languageCode: en
+    authorAttribution:
+      displayName: Kexiang Wang
+      uri: https://www.google.com/maps/contrib/100001035233052026174/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXWTAASJ9rIDhqOq7M-X1kMGjWjeWV27B3HqnAGXsmrBDo_41Q=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-26T19:56:27.565068Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURvaGZybUVnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURvaGZybUVnEAE!2m1!1s0x54906d39c40ee96b:0x9c33d9929c39b083
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors to this sushi spot often rave about
+  the lively atmosphere and engaging conveyor belt setup, which adds a playful
+  element to every meal and keeps things feeling fresh and exciting. Many
+  appreciate the solid variety of dishes, with comments highlighting tasty
+  options that satisfy cravings for quality Japanese cuisine without breaking
+  the bank. Service stands out as friendly and efficient, helping to make the
+  overall experience smooth and enjoyable, even during busier times. While there
+  are occasional mentions of minor operational hiccups, like handling external
+  items, the general consensus leans toward it being a worthwhile visit for its
+  fun vibe and reliable flavors. If you're on the hunt for top-rated sushi
+  nearby, this place delivers a memorable dining adventure that's worth checking
+  out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+  freeGarageParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+curbside_pickup: false
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: false
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: false
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Simple sushi house and takeaway offering traditional Japanese dishes and fried
+  donuts.
 
 ---

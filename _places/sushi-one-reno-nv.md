@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi One"
+title: Sushi One
 permalink: /nevada/reno/sushi-one.html
 stateAbbr: NV
 stateName: Nevada
 cityName: Reno
 seo:
-  name: "Sushi One"
-  type: Restaurant
+  type: restaurant
   links: http://www.sushionereno.com/
-description: "Sushi One serves delicious sushi in Reno, Nevada. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJx9-QenZAmYARYvGzmRTosOc
 photos:
   - name: >-
@@ -170,7 +168,105 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x809940767a90dfc7:0xe7b0e81499b3f162!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 15
+        minute: 0
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 15
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM'
     - 'Tuesday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM'
     - 'Wednesday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM'
@@ -178,14 +274,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM'
     - 'Saturday: 11:00 AM – 9:00 PM'
     - 'Sunday: 11:00 AM – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM'
-    - 'Thursday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM'
-    - 'Friday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM'
-    - 'Saturday: 11:00 AM – 9:00 PM'
-    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +286,223 @@ phone: (775) 828-2335
 price_level: null
 price_range: $20 &ndash; $30
 rating: '4.1'
-rating_count: 0
+rating_count: 330
 website: http://www.sushionereno.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Sushi One in Reno, Nevada$$$Located in the heart of Reno, Nevada,
+  Sushi One offers a welcoming spot for sushi enthusiasts seeking fresh,
+  flavorful Japanese-inspired cuisine. This casual restaurant boasts a cozy
+  atmosphere with traditional decor, featuring an all-you-can-eat option that
+  highlights a wide array of rolls and dishes, making it ideal for those
+  exploring sushi dining in the area. Accessibility is a key highlight, with
+  wheelchair-friendly parking, entrances, and seating that ensure everyone can
+  enjoy the experience comfortably. The menu includes a mix of sushi and cooked
+  items, perfect for groups or families looking for affordable yet satisfying
+  meals. Whether you're searching for top sushi spots near you, Sushi One stands
+  out for its reliable hours and inviting vibe that caters to everyday diners.
+generative_summary: >-
+  Discover Sushi One in Reno, Nevada$$$Located in the heart of Reno, Nevada,
+  Sushi One offers a welcoming spot for sushi enthusiasts seeking fresh,
+  flavorful Japanese-inspired cuisine. This casual restaurant boasts a cozy
+  atmosphere with traditional decor, featuring an all-you-can-eat option that
+  highlights a wide array of rolls and dishes, making it ideal for those
+  exploring sushi dining in the area. Accessibility is a key highlight, with
+  wheelchair-friendly parking, entrances, and seating that ensure everyone can
+  enjoy the experience comfortably. The menu includes a mix of sushi and cooked
+  items, perfect for groups or families looking for affordable yet satisfying
+  meals. Whether you're searching for top sushi spots near you, Sushi One stands
+  out for its reliable hours and inviting vibe that caters to everyday diners.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJx9-QenZAmYARYvGzmRTosOc/reviews/ChZDSUhNMG9nS0VJQ0FnTUNncjVQU0lnEAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        The variety and quality of Sushi One is second to none. Their prices for
+        ayce are astoundingly reasonable for the exceptional service and quality
+        of food and service. Our sushi chef, Jon, was amazing. His experience in
+        the art was apparent, and it was clear he enjoys his work, having 25
+        years of making sushi under his belt.
+
+
+        I will definitely be returning here as a regular. If you're in Reno,
+        looking for wonderful sushi, a truly delightful experience, and at a
+        good price, Sushi One is for you.
+      languageCode: en
+    originalText:
+      text: >-
+        The variety and quality of Sushi One is second to none. Their prices for
+        ayce are astoundingly reasonable for the exceptional service and quality
+        of food and service. Our sushi chef, Jon, was amazing. His experience in
+        the art was apparent, and it was clear he enjoys his work, having 25
+        years of making sushi under his belt.
+
+
+        I will definitely be returning here as a regular. If you're in Reno,
+        looking for wonderful sushi, a truly delightful experience, and at a
+        good price, Sushi One is for you.
+      languageCode: en
+    authorAttribution:
+      displayName: Pierce Carrington
+      uri: https://www.google.com/maps/contrib/110264655424692509070/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXYL2Qq6fv_WnvyeGg6Iuy8HsthDKD5FWXG8oVIt0wk3N3AgnbU=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-02-21T17:21:14.628923Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNncjVQU0lnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNncjVQU0lnEAE!2m1!1s0x809940767a90dfc7:0xe7b0e81499b3f162
+  - name: >-
+      places/ChIJx9-QenZAmYARYvGzmRTosOc/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfaEthMjNRRRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 4
+    text:
+      text: >-
+        Very clean venue. A friend recommended this place but I felt the nigiri
+        rolls could be better. The fried rolls were delicious. The service was
+        excellent since the staff were very friendly.
+      languageCode: en
+    originalText:
+      text: >-
+        Very clean venue. A friend recommended this place but I felt the nigiri
+        rolls could be better. The fried rolls were delicious. The service was
+        excellent since the staff were very friendly.
+      languageCode: en
+    authorAttribution:
+      displayName: Ana Garcia
+      uri: https://www.google.com/maps/contrib/102517544850966704050/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLYwdM7VnEGa6UafOHs0hKrtx5Li-lIF_wKWwJ1aOfGJWFFFA=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-01-12T20:35:20.262938Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNfaEthMjNRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNfaEthMjNRRRAB!2m1!1s0x809940767a90dfc7:0xe7b0e81499b3f162
+  - name: >-
+      places/ChIJx9-QenZAmYARYvGzmRTosOc/reviews/ChdDSUhNMG9nS0VJQ0FnTURvcThTYnh3RRAB
+    relativePublishTimeDescription: in the last week
+    rating: 5
+    text:
+      text: >-
+        Amazing food here today got the best service/help by JJ at the sushi bar
+        go see he for some great sushi roll I got the Reno ace ball park roll
+      languageCode: en
+    originalText:
+      text: >-
+        Amazing food here today got the best service/help by JJ at the sushi bar
+        go see he for some great sushi roll I got the Reno ace ball park roll
+      languageCode: en
+    authorAttribution:
+      displayName: Michael Wallace jr
+      uri: https://www.google.com/maps/contrib/107876284730189177546/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJe4pJPsHQzA9FTUny9CxAjNfU3THdQceb5B1u4ZnngCFdnmQ=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-29T00:00:25.226064Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURvcThTYnh3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURvcThTYnh3RRAB!2m1!1s0x809940767a90dfc7:0xe7b0e81499b3f162
+  - name: >-
+      places/ChIJx9-QenZAmYARYvGzmRTosOc/reviews/ChZDSUhNMG9nS0VJQ0FnTURnaW9DLWFBEAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        Best sushi in lake tahoe so far, best big iris and the quality of the
+        fish is just amazing. I would recommend this restaurant to anyone. Will
+        come back for sure.
+      languageCode: en
+    originalText:
+      text: >-
+        Best sushi in lake tahoe so far, best big iris and the quality of the
+        fish is just amazing. I would recommend this restaurant to anyone. Will
+        come back for sure.
+      languageCode: en
+    authorAttribution:
+      displayName: andrea camarena
+      uri: https://www.google.com/maps/contrib/107216398624147888843/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKNqOwCKp0iY1QmOHV_YFypoiyxsu92LjksoAhSKDhpEs7V2w=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-02-23T22:28:03.310412Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURnaW9DLWFBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURnaW9DLWFBEAE!2m1!1s0x809940767a90dfc7:0xe7b0e81499b3f162
+  - name: >-
+      places/ChIJx9-QenZAmYARYvGzmRTosOc/reviews/ChZDSUhNMG9nS0VJQ0FnTURvbk8tWkNnEAE
+    relativePublishTimeDescription: a week ago
+    rating: 3
+    text:
+      text: >-
+        So sad, been wanting sushi and was so excited to eat it till I realize
+        all of my rolls still had avocado.
+      languageCode: en
+    originalText:
+      text: >-
+        So sad, been wanting sushi and was so excited to eat it till I realize
+        all of my rolls still had avocado.
+      languageCode: en
+    authorAttribution:
+      displayName: Alexa Cristales
+      uri: https://www.google.com/maps/contrib/112075614238517388456/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXlro0qyyENgOkCzNCroOMdJ2b8ok5cUKm0R3aTm07uE9QKRAA=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-22T19:23:46.429193Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURvbk8tWkNnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURvbk8tWkNnEAE!2m1!1s0x809940767a90dfc7:0xe7b0e81499b3f162
+review_summary: >-
+  What Customers Are Saying$$$Visitors often rave about the fresh flavors and
+  generous portions at this sushi spot, with many highlighting the excellent
+  variety that keeps things exciting and satisfying. Feedback frequently praises
+  the friendly service and reasonable prices, making it a go-to choice for
+  anyone craving a casual meal without breaking the bank. While most folks enjoy
+  the standout fried rolls and high-quality fish, a few mentions note minor
+  inconsistencies like ingredient preferences, but these don't overshadow the
+  overall positive vibe. In general, the atmosphere and food quality leave
+  people eager to return, offering a solid option for those hunting for reliable
+  sushi places nearby. If you're in the mood for a laid-back dining experience,
+  this spot delivers on taste and value while keeping things approachable and
+  enjoyable.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
 good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+live_music: false
+menu_for_children: true
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  All-you-can-eat sushi rolls & nigiri in a casual space with traditional
+  Japanese decor.
 
 ---

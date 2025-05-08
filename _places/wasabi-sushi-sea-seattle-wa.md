@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Wasabi Sushi SEA"
+title: Wasabi Sushi SEA
 permalink: /washington/seattle/wasabi-sushi-sea.html
 stateAbbr: WA
 stateName: Washington
 cityName: Seattle
 seo:
-  name: "Wasabi Sushi SEA"
-  type: Restaurant
+  type: restaurant
   links: http://www.happypeopleeatsushi.com/
-description: "Wasabi Sushi SEA serves delicious sushi in Seattle, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJA_ekD0wVkFQRBT2qVJvy2Kc
 photos:
   - name: >-
@@ -169,7 +167,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x5490154c0fa4f703:0xa7d8f29b54aa3d05!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:00 PM'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -177,54 +233,318 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:00 PM'
     - 'Saturday: 11:00 AM – 9:00 PM'
     - 'Sunday: 11:00 AM – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 9:00 PM'
-    - 'Saturday: 11:00 AM – 9:00 PM'
-    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 11
+          minute: 0
+        close:
+          day: 0
+          hour: 20
+          minute: 30
+      - open:
+          day: 1
+          hour: 11
+          minute: 0
+        close:
+          day: 1
+          hour: 20
+          minute: 30
+      - open:
+          day: 2
+          hour: 11
+          minute: 0
+        close:
+          day: 2
+          hour: 20
+          minute: 30
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 20
+          minute: 30
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 20
+          minute: 30
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 21
+          minute: 30
+      - open:
+          day: 6
+          hour: 11
+          minute: 0
+        close:
+          day: 6
+          hour: 21
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 11:00 AM – 8:30 PM'
+      - 'Tuesday: 11:00 AM – 8:30 PM'
+      - 'Wednesday: 11:00 AM – 8:30 PM'
+      - 'Thursday: 11:00 AM – 8:30 PM'
+      - 'Friday: 11:00 AM – 9:30 PM'
+      - 'Saturday: 11:00 AM – 9:30 PM'
+      - 'Sunday: 11:00 AM – 8:30 PM'
+    secondaryHoursType: ONLINE_SERVICE_HOURS
+    nextCloseTime: '2025-05-04T04:30:00Z'
 phone: (206) 890-7056
 price_level: null
 price_range: $10 &ndash; $20
 rating: '4.5'
-rating_count: 0
+rating_count: 139
 website: http://www.happypeopleeatsushi.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Wasabi Sushi SEA in Seattle, WA$$$Wasabi Sushi SEA in Seattle, WA, is
+  a vibrant spot for enjoying modern sushi creations, featuring fresh
+  ingredients and thoughtful veggie options that cater to a variety of tastes.
+  Nestled in the lively Capitol Hill neighborhood, this casual eatery boasts an
+  inviting atmosphere with thoughtful decor that enhances the dining experience,
+  making it a go-to choice for sushi enthusiasts seeking options close to home.
+  The restaurant emphasizes accessibility with features like wheelchair-friendly
+  entrances and seating, ensuring everyone can enjoy their meal comfortably.
+  Open daily from 11 AM to 9 PM, it's an ideal stop for lunch or dinner, where
+  you can savor affordable Japanese-inspired dishes that highlight the best of
+  local sushi spots. Whether you're exploring top-rated sushi restaurants near
+  you or looking for a relaxed place to unwind, Wasabi Sushi SEA delivers a
+  welcoming vibe that keeps patrons coming back.
+generative_summary: >-
+  Discover Wasabi Sushi SEA in Seattle, WA$$$Wasabi Sushi SEA in Seattle, WA, is
+  a vibrant spot for enjoying modern sushi creations, featuring fresh
+  ingredients and thoughtful veggie options that cater to a variety of tastes.
+  Nestled in the lively Capitol Hill neighborhood, this casual eatery boasts an
+  inviting atmosphere with thoughtful decor that enhances the dining experience,
+  making it a go-to choice for sushi enthusiasts seeking options close to home.
+  The restaurant emphasizes accessibility with features like wheelchair-friendly
+  entrances and seating, ensuring everyone can enjoy their meal comfortably.
+  Open daily from 11 AM to 9 PM, it's an ideal stop for lunch or dinner, where
+  you can savor affordable Japanese-inspired dishes that highlight the best of
+  local sushi spots. Whether you're exploring top-rated sushi restaurants near
+  you or looking for a relaxed place to unwind, Wasabi Sushi SEA delivers a
+  welcoming vibe that keeps patrons coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJA_ekD0wVkFQRBT2qVJvy2Kc/reviews/ChdDSUhNMG9nS0VJQ0FnTURnNnNIWnJnRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        Happened upon Wasabi Sushi Sea while walking to a different place and
+        decided to go in here instead. What a pleasant surprise. I can't think
+        of a single thing that could be better so 5 stars it is. It is
+        noticeable that the owners put some thought and effort into the
+        decor...three flowering trees inside. The service was prompt and with a
+        smile. The sushi and poke bowls were delish. The best part was the
+        pricing was very reasonable!
+      languageCode: en
+    originalText:
+      text: >-
+        Happened upon Wasabi Sushi Sea while walking to a different place and
+        decided to go in here instead. What a pleasant surprise. I can't think
+        of a single thing that could be better so 5 stars it is. It is
+        noticeable that the owners put some thought and effort into the
+        decor...three flowering trees inside. The service was prompt and with a
+        smile. The sushi and poke bowls were delish. The best part was the
+        pricing was very reasonable!
+      languageCode: en
+    authorAttribution:
+      displayName: natalie padilla-gillett
+      uri: https://www.google.com/maps/contrib/115766597831689229975/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJPEPWKDWwyiyuZExk4Vb_U0fjYCqiTZnRxuLsVaGVxO_7JgQ=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-02-24T04:18:00.845160Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURnNnNIWnJnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURnNnNIWnJnRRAB!2m1!1s0x5490154c0fa4f703:0xa7d8f29b54aa3d05
+  - name: >-
+      places/ChIJA_ekD0wVkFQRBT2qVJvy2Kc/reviews/ChZDSUhNMG9nS0VJQ0FnSURQb1lQQ1hBEAE
+    relativePublishTimeDescription: 5 months ago
+    rating: 4
+    text:
+      text: >-
+        We got the Sea King and Spider sushi burritos. They were both quite
+        tasty, but I want to take off half a star because the Sea King was
+        incredibly greasy beyond belief, leaving actual puddles of oil in the
+        wrapper (it's a deep fried roll). I'm amazed they put it in the wrapper
+        without even running it over a paper towel once it seems.
+
+
+        Still, the food is tasty and reasonably priced for the portion. Fancier
+        sushi burritos than like pokeworks or ij sushi burrito for example, but
+        not "make your own". Cute decor and nice employees that left us alone
+        for the most part.
+      languageCode: en
+    originalText:
+      text: >-
+        We got the Sea King and Spider sushi burritos. They were both quite
+        tasty, but I want to take off half a star because the Sea King was
+        incredibly greasy beyond belief, leaving actual puddles of oil in the
+        wrapper (it's a deep fried roll). I'm amazed they put it in the wrapper
+        without even running it over a paper towel once it seems.
+
+
+        Still, the food is tasty and reasonably priced for the portion. Fancier
+        sushi burritos than like pokeworks or ij sushi burrito for example, but
+        not "make your own". Cute decor and nice employees that left us alone
+        for the most part.
+      languageCode: en
+    authorAttribution:
+      displayName: Jeannette
+      uri: https://www.google.com/maps/contrib/116174434523034526058/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWUrm2tAM8jGioAwAFe461H6IoZ1LXTmgQLzpvC_w1ZypnYRRk=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-12-03T03:06:35.396610Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURQb1lQQ1hBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURQb1lQQ1hBEAE!2m1!1s0x5490154c0fa4f703:0xa7d8f29b54aa3d05
+  - name: >-
+      places/ChIJA_ekD0wVkFQRBT2qVJvy2Kc/reviews/ChdDSUhNMG9nS0VJQ0FnTURJeTd2XzhnRRAB
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        Very friendly and welcoming. Had the Beef Teriyaki Bowl and Las Vegas
+        Roll. The taste was superb. Try it and you will be please.
+      languageCode: en
+    originalText:
+      text: >-
+        Very friendly and welcoming. Had the Beef Teriyaki Bowl and Las Vegas
+        Roll. The taste was superb. Try it and you will be please.
+      languageCode: en
+    authorAttribution:
+      displayName: James Mahlmeister
+      uri: https://www.google.com/maps/contrib/109432892557654955269/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLv41cRxQI0xYJaSCblmkY3Gjq8ybEr1wM-G6Xk1Hls8g1-jA=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-13T03:15:36.071628Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJeTd2XzhnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJeTd2XzhnRRAB!2m1!1s0x5490154c0fa4f703:0xa7d8f29b54aa3d05
+  - name: >-
+      places/ChIJA_ekD0wVkFQRBT2qVJvy2Kc/reviews/ChZDSUhNMG9nS0VJQ0FnSUNiMnM3bldBEAE
+    relativePublishTimeDescription: 9 months ago
+    rating: 5
+    text:
+      text: >-
+        The Salmon Hawaii poke bowl was delicious, with 8 different items around
+        the diced salmon on a bed of rice and soy-based sauce. I also ordered
+        the strawberry and chocolate mochis, which were velvety and sweet on the
+        outside and had a cold ice-cream centre. The interior decor had a fun
+        cherry blossom theme, and the staff provided friendly table service.
+      languageCode: en
+    originalText:
+      text: >-
+        The Salmon Hawaii poke bowl was delicious, with 8 different items around
+        the diced salmon on a bed of rice and soy-based sauce. I also ordered
+        the strawberry and chocolate mochis, which were velvety and sweet on the
+        outside and had a cold ice-cream centre. The interior decor had a fun
+        cherry blossom theme, and the staff provided friendly table service.
+      languageCode: en
+    authorAttribution:
+      displayName: Irfan Ahmad
+      uri: https://www.google.com/maps/contrib/103251337756218840335/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXcNOq5R8SCdito3L-pHSkVv98euqblCZE5ZfhtoN0UjJx4j6y9=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-07-26T04:27:36.995900Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNiMnM3bldBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNiMnM3bldBEAE!2m1!1s0x5490154c0fa4f703:0xa7d8f29b54aa3d05
+  - name: >-
+      places/ChIJA_ekD0wVkFQRBT2qVJvy2Kc/reviews/ChZDSUhNMG9nS0VJQ0FnSUNMcXE3d1VnEAE
+    relativePublishTimeDescription: 10 months ago
+    rating: 5
+    text:
+      text: >-
+        The restaurant is really good & they had great customer service. Per
+        waitress’ recommendation I ordered the red dragon roll & it was sooo
+        good. Food came out quickly. The waitress gave me 3 different sauces to
+        try and all were great. Highly recommend stopping in ☺️
+      languageCode: en
+    originalText:
+      text: >-
+        The restaurant is really good & they had great customer service. Per
+        waitress’ recommendation I ordered the red dragon roll & it was sooo
+        good. Food came out quickly. The waitress gave me 3 different sauces to
+        try and all were great. Highly recommend stopping in ☺️
+      languageCode: en
+    authorAttribution:
+      displayName: Kaitlynn Pena
+      uri: https://www.google.com/maps/contrib/108564632960835204652/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVIdASY3UVIbmDlOj1zKcwLneHAC5iYVd6ioTZHN9jfEOHN802h=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-06-18T00:34:20.195289Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNMcXE3d1VnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNMcXE3d1VnEAE!2m1!1s0x5490154c0fa4f703:0xa7d8f29b54aa3d05
+review_summary: >-
+  What Visitors Are Buzzing About$$$Folks rave about the flavorful sushi rolls
+  and poke bowls that pack a punch with fresh ingredients and generous portions,
+  making it a solid pick for anyone craving satisfying Japanese fare. While most
+  diners appreciate the friendly service and reasonable prices that add to the
+  overall charm, a few note that some dishes can feel a bit oily, though it
+  doesn't overshadow the tasty results. The cozy decor and efficient staff
+  create a laid-back environment that's perfect for quick lunches or casual
+  meetups, with many highlighting the variety of options that suit different
+  preferences. Overall, it's clear that this spot hits the mark for quality and
+  value, encouraging repeat visits from those searching for reliable sushi
+  places nearby. If you're in the mood for a meal that combines solid flavors
+  with a welcoming feel, it's definitely worth checking out for an enjoyable
+  experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  paidParkingLot: true
+  paidStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
+curbside_pickup: false
+delivery: true
+dine_in: true
+good_for_children: true
 good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+good_for_sports: false
+live_music: false
+menu_for_children: true
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
 serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_brunch: false
+serves_cocktails: false
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

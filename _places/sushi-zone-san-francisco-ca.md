@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Zone"
+title: Sushi Zone
 permalink: /california/san-francisco/sushi-zone.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
 seo:
-  name: "Sushi Zone"
-  type: Restaurant
-  links: null
-description: "Sushi Zone serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.sushizone-sf.com/
 place_id: ChIJJ2XZ-Z-AhYARIPyY07HwxVg
 photos:
   - name: >-
@@ -169,8 +167,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8085809ff9d96527:0x58c5f0b1d398fc20!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: false
+  periods:
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 16
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 4:30 – 9:00 PM'
+    - 'Tuesday: 4:30 – 9:00 PM'
+    - 'Wednesday: 4:30 – 9:00 PM'
+    - 'Thursday: 4:30 – 9:00 PM'
+    - 'Friday: 4:30 – 9:30 PM'
+    - 'Saturday: 4:30 – 9:30 PM'
+    - 'Sunday: Closed'
+  nextOpenTime: '2025-05-03T23:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -178,13 +233,52 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (415) 621-1114
+price_level: PRICE_LEVEL_MODERATE
+price_range: $30 &ndash; $50
+rating: '4.6'
+rating_count: 319
+website: https://www.sushizone-sf.com/
+description: >-
+  Discover Sushi Zone in San Francisco, CA$$$Sushi Zone in San Francisco, CA,
+  stands out as a casual dining destination specializing in fresh sushi and
+  Japanese-inspired dishes, making it a go-to choice for those exploring local
+  eateries. This spot offers a relaxed atmosphere with options like baked fish
+  specialties, paired with an array of flavorful rolls that highlight quality
+  ingredients. Accessibility features ensure a welcoming experience for all
+  visitors, including easy entry and seating arrangements. Located in the
+  vibrant Mint Hill neighborhood, it's conveniently positioned for anyone
+  seeking sushi restaurants in the area, with evening hours that cater to
+  after-work crowds. Its moderate pricing adds to the appeal, providing an
+  affordable yet satisfying option for sushi enthusiasts looking for a nearby
+  gem.
+generative_summary: >-
+  Discover Sushi Zone in San Francisco, CA$$$Sushi Zone in San Francisco, CA,
+  stands out as a casual dining destination specializing in fresh sushi and
+  Japanese-inspired dishes, making it a go-to choice for those exploring local
+  eateries. This spot offers a relaxed atmosphere with options like baked fish
+  specialties, paired with an array of flavorful rolls that highlight quality
+  ingredients. Accessibility features ensure a welcoming experience for all
+  visitors, including easy entry and seating arrangements. Located in the
+  vibrant Mint Hill neighborhood, it's conveniently positioned for anyone
+  seeking sushi restaurants in the area, with evening hours that cater to
+  after-work crowds. Its moderate pricing adds to the appeal, providing an
+  affordable yet satisfying option for sushi enthusiasts looking for a nearby
+  gem.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this sushi spot often praise the
+  flavorful dishes, like the tender baked fish and zesty rolls that bring a
+  burst of taste to every bite. Many highlight the fresh ingredients and variety
+  that make meals feel satisfying and well-balanced, perfect for a casual night
+  out. The service gets nods for being attentive and warm, helping to create a
+  comfortable vibe that enhances the overall experience. Folks appreciate the
+  cozy outdoor seating area, which adds a nice touch for enjoying meals in a
+  relaxed setting. Overall, it's a solid pick for anyone craving quality sushi,
+  with feedback pointing to a consistently enjoyable visit that keeps diners
+  coming back.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +304,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

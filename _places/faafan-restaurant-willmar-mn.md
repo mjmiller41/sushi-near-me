@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Faafan Restaurant"
+title: Faafan Restaurant
 permalink: /minnesota/willmar/faafan-restaurant.html
 stateAbbr: MN
 stateName: Minnesota
 cityName: Willmar
 seo:
-  name: "Faafan Restaurant"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Faafan Restaurant serves delicious sushi in Willmar, Minnesota. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJs6-UG9BetVIRt2sPO42ErPM
 photos:
   - name: >-
@@ -177,7 +175,40 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Experience Faafan Restaurant in Willmar, MN$$$Faafan Restaurant in Willmar,
+  MN, provides a cozy and inclusive dining option that emphasizes comfort and
+  accessibility for all guests. With features like wheelchair-friendly parking,
+  entrances, and seating, this spot ensures everyone can enjoy a relaxed meal
+  without barriers. The available photos showcase a warm atmosphere ideal for
+  casual get-togethers, making it a straightforward choice for everyday dining.
+  Whether you're stopping by for a quick bite or spending time with loved ones,
+  the restaurant's operational vibe adds to its appeal as a reliable local
+  eatery.
+generative_summary: >-
+  Experience Faafan Restaurant in Willmar, MN$$$Faafan Restaurant in Willmar,
+  MN, provides a cozy and inclusive dining option that emphasizes comfort and
+  accessibility for all guests. With features like wheelchair-friendly parking,
+  entrances, and seating, this spot ensures everyone can enjoy a relaxed meal
+  without barriers. The available photos showcase a warm atmosphere ideal for
+  casual get-togethers, making it a straightforward choice for everyday dining.
+  Whether you're stopping by for a quick bite or spending time with loved ones,
+  the restaurant's operational vibe adds to its appeal as a reliable local
+  eatery.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Feedback on Faafan Restaurant$$$Although specific reviews aren't available for
+  this spot, its emphasis on accessibility and welcoming setup hints at a
+  positive experience for a wide range of visitors. People generally appreciate
+  places that prioritize comfort and inclusivity, which could make this
+  restaurant a hidden gem in the area. Based on its operational status and
+  thoughtful design, it's likely to offer straightforward satisfaction for
+  casual diners. We recommend giving it a try to form your own opinion, as such
+  spots often deliver reliable and enjoyable meals in a supportive environment.
+  Overall, it seems like a solid pick for those seeking an unpretentious dining
+  option.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -204,6 +235,6 @@ serves_vegetarian_food: null
 serves_wine: null
 takeout: null
 update_category: pro
-summary: null
+places_description: null
 
 ---

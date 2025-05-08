@@ -5,4 +5,5 @@ permalink: /maine/portland/
 stateAbbr: ME
 stateName: Maine
 cityName: Portland
+
 ---

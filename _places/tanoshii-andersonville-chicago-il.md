@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Tanoshii Andersonville"
+title: Tanoshii Andersonville
 permalink: /illinois/chicago/tanoshii-andersonville.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
 seo:
-  name: "Tanoshii Andersonville"
-  type: Restaurant
-  links: null
-description: "Tanoshii Andersonville serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://tanoshiiandersonville.com/
 place_id: ChIJ5_FPg4_RD4gRYqCP-6QJtMQ
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x880fd18f834ff1e7:0xc4b409a4fb8fa062!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 13
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 9:00 PM'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 10:00 PM'
+    - 'Saturday: 11:00 AM – 10:00 PM'
+    - 'Sunday: 1:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,45 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (773) 878-6886
+price_level: PRICE_LEVEL_MODERATE
+price_range: $50 &ndash; $100
+rating: '4.5'
+rating_count: 511
+website: https://tanoshiiandersonville.com/
+description: >-
+  Discover Tanoshii Andersonville in Chicago, IL$$$Tanoshii Andersonville in
+  Chicago, IL, stands out as a welcoming sushi destination nestled in the
+  vibrant Andersonville neighborhood. This eatery combines casual counter-serve
+  and table-service options, offering an omakase menu that highlights fresh,
+  inventive flavors for those seeking sushi restaurants near me. With a BYOB
+  policy that adds a personal touch, it's an ideal spot for enjoying top-rated
+  sushi in a relaxed atmosphere. The venue prioritizes accessibility, making it
+  easy for everyone to savor Japanese-inspired dishes, and its extended hours
+  cater perfectly to lunch and dinner crowds looking for sushi close to me.
+generative_summary: >-
+  Discover Tanoshii Andersonville in Chicago, IL$$$Tanoshii Andersonville in
+  Chicago, IL, stands out as a welcoming sushi destination nestled in the
+  vibrant Andersonville neighborhood. This eatery combines casual counter-serve
+  and table-service options, offering an omakase menu that highlights fresh,
+  inventive flavors for those seeking sushi restaurants near me. With a BYOB
+  policy that adds a personal touch, it's an ideal spot for enjoying top-rated
+  sushi in a relaxed atmosphere. The venue prioritizes accessibility, making it
+  easy for everyone to savor Japanese-inspired dishes, and its extended hours
+  cater perfectly to lunch and dinner crowds looking for sushi close to me.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Buzzing About$$$Folks often highlight the omakase offerings
+  at this sushi spot, praising the fresh and creative rolls that deliver an
+  unforgettable taste experience. Many appreciate standout dishes like the
+  flavorful truffle-infused options, which add a unique twist to classic
+  favorites. The friendly staff and cozy, intimate setting create a welcoming
+  vibe that enhances every meal, while the BYOB policy lets diners customize
+  their visit for a fun, personalized touch. Overall, it's frequently
+  recommended for anyone hunting for the best sushi near me, with positive notes
+  on the attentive service and overall charm that keep people coming back.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +306,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

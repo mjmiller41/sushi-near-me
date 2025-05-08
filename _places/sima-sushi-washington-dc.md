@@ -1,17 +1,13 @@
 ---
 layout: place
-title: "Sima Sushi"
+title: Sima Sushi
 permalink: /district-of-columbia/washington/sima-sushi.html
 stateAbbr: DC
 stateName: District of Columbia
 cityName: Washington
 seo:
-  name: "Sima Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://sites.google.com/view/simasushi-dc/home
-description: "Casual, Korean-style conveyor belt sushi restaurant offering lunch and dinner in Downtown's Connecticut Ave/K Street neighborhood.
-The menu includes healthy and vegetarian choices, along with beer, sake, and cocktails. Sushi, sashimi, eel, and tonkotsu ramen are popular items, and guests often order the DC sashimi bibimbap, mochi ice cream, and udon.
-The place has a happy atmosphere and is good for kids. Guests say the service is fast, friendly, and professional. Sima Sushi serves delicious sushi in Washington, District of Columbia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJoS_hzr-3t4kR4Zw5TIzbIKw
 photos:
   - name: >-
@@ -187,12 +183,51 @@ price_range: $30 &mdash; 50
 rating: '4.5'
 rating_count: 0
 website: https://sites.google.com/view/simasushi-dc/home
+description: >-
+  Discover Sima Sushi in Washington, DC$$$Sima Sushi in Washington, DC, offers a
+  casual and innovative dining experience with its Korean-style conveyor belt
+  setup, making it a standout spot for fresh sushi and Japanese-inspired dishes
+  in the heart of the downtown area. The menu highlights a range of healthy
+  choices, including vegetarian options and creative specialties like ramen and
+  bibimbap, appealing to those seeking flavorful meals that balance tradition
+  with variety. Visitors enjoy a welcoming atmosphere that's particularly
+  suitable for families, enhanced by selections of beer, sake, and cocktails for
+  a relaxed vibe. Accessibility features such as wheelchair-friendly entrances
+  and seating add to the convenience, while takeout options make it easy for
+  anyone looking for top-rated sushi spots nearby to enjoy on the go.
+generative_summary: >-
+  Discover Sima Sushi in Washington, DC$$$Sima Sushi in Washington, DC, offers a
+  casual and innovative dining experience with its Korean-style conveyor belt
+  setup, making it a standout spot for fresh sushi and Japanese-inspired dishes
+  in the heart of the downtown area. The menu highlights a range of healthy
+  choices, including vegetarian options and creative specialties like ramen and
+  bibimbap, appealing to those seeking flavorful meals that balance tradition
+  with variety. Visitors enjoy a welcoming atmosphere that's particularly
+  suitable for families, enhanced by selections of beer, sake, and cocktails for
+  a relaxed vibe. Accessibility features such as wheelchair-friendly entrances
+  and seating add to the convenience, while takeout options make it easy for
+  anyone looking for top-rated sushi spots nearby to enjoy on the go.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - ChZDSUhNMG9nS0VJQ0FnTUNBaFlqM0VnEAE
   - ChdDSUhNMG9nS0VJQ0FnSUNYOUt5Vl9BRRAB
   - ChZDSUhNMG9nS0VJQ0FnTURnaFpxNlJnEAE
   - ChdDSUhNMG9nS0VJQ0FnSUNmOVBiSGx3RRAB
   - ChdDSUhNMG9nS0VJQ0FnSUQ3ajh2UG1nRRAB
+review_summary: >-
+  What Customers Are Saying About Sima Sushi$$$Folks who've checked out this
+  spot often rave about the quick and friendly service that keeps things running
+  smoothly, helping make every meal feel effortless and enjoyable. Many
+  appreciate the fresh flavors and variety on the menu, with dishes like sushi
+  and ramen standing out as reliable favorites that hit the spot without any
+  fuss. It's clear that the family-friendly vibe and solid options for groups
+  add to the appeal, drawing in people searching for reliable sushi places in
+  the area. Overall, the high marks for atmosphere and efficiency suggest it's a
+  go-to choice for a satisfying bite, though some note it's best for
+  straightforward visits rather than something overly fancy. If you're in the
+  mood for a casual sushi adventure, this place seems to deliver a consistently
+  positive experience that leaves diners coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidParkingLot: true
   paidStreetParking: true
@@ -225,8 +260,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Casual, Korean-style conveyor belt sushi restaurant offering lunch and dinner
   in Downtown's Connecticut Ave/K Street neighborhood.
 

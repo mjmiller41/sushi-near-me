@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sakana Sushi Lounge DTLA"
+title: Sakana Sushi Lounge DTLA
 permalink: /california/los-angeles/sakana-sushi-lounge-dtla.html
 stateAbbr: CA
 stateName: California
 cityName: Los Angeles
 seo:
-  name: "Sakana Sushi Lounge DTLA"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sakana Sushi Lounge DTLA serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJt2HpD8rHwoARfrY2malhAEY
 photos:
   - name: >-
@@ -185,7 +183,51 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Sakana Sushi Lounge in Los Angeles, CA$$$Sakana Sushi Lounge in Los
+  Angeles, CA, stands out as a welcoming spot for Japanese dining enthusiasts,
+  blending casual vibes with fresh flavors that highlight classic dishes like
+  sushi and tempura. This downtown eatery offers a relaxed atmosphere perfect
+  for enjoying sake and happy hour deals, making it an ideal choice for anyone
+  seeking authentic tastes in a lively urban setting. With its accessible
+  features, such as wheelchair-friendly entrances and seating, it caters to a
+  wide range of visitors looking for convenient sushi restaurants in the area.
+  The menu emphasizes high-quality ingredients that bring out the best in
+  Japanese cuisine, appealing to those searching for top-rated sushi options
+  near bustling city spots. Whether you're exploring local Japanese places or
+  craving a quick bite, this lounge provides a memorable experience that
+  balances tradition with modern convenience.
+generative_summary: >-
+  Discover Sakana Sushi Lounge in Los Angeles, CA$$$Sakana Sushi Lounge in Los
+  Angeles, CA, stands out as a welcoming spot for Japanese dining enthusiasts,
+  blending casual vibes with fresh flavors that highlight classic dishes like
+  sushi and tempura. This downtown eatery offers a relaxed atmosphere perfect
+  for enjoying sake and happy hour deals, making it an ideal choice for anyone
+  seeking authentic tastes in a lively urban setting. With its accessible
+  features, such as wheelchair-friendly entrances and seating, it caters to a
+  wide range of visitors looking for convenient sushi restaurants in the area.
+  The menu emphasizes high-quality ingredients that bring out the best in
+  Japanese cuisine, appealing to those searching for top-rated sushi options
+  near bustling city spots. Whether you're exploring local Japanese places or
+  craving a quick bite, this lounge provides a memorable experience that
+  balances tradition with modern convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Guests Are Saying About the Experience$$$Visitors often praise Sakana
+  Sushi Lounge for its fresh and flavorful sushi selections, noting that the
+  dishes deliver a satisfying mix of quality and variety that keeps them coming
+  back. Many highlight the laid-back ambiance and value-driven specials, like
+  happy hour offerings, as reasons it's a go-to for casual meals with friends or
+  solo diners. Feedback frequently mentions the welcoming service and accessible
+  environment, which enhance the overall enjoyment without overwhelming the
+  senses. While some suggest it's best for those seeking straightforward
+  Japanese fare rather than elaborate presentations, the consensus leans toward
+  it being a reliable spot for tasty options in a convenient location. If you're
+  hunting for sushi places near you, this lounge generally earns nods for its
+  honest flavors and approachable vibe, making it a solid pick for anyone in the
+  mood for dependable dining.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +253,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

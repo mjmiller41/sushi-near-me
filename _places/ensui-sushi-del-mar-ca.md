@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "ENSUI SUSHI"
+title: ENSUI SUSHI
 permalink: /california/del-mar/ensui-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Del Mar
 seo:
-  name: "ENSUI SUSHI"
-  type: Restaurant
+  type: restaurant
   links: http://ensuisushi.com/
-description: "ENSUI SUSHI serves delicious sushi in Del Mar, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJbzpNVp4J3IAR4yW9VcEAhoA
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 0
 website: http://ensuisushi.com/
+description: >-
+  Discover ENSUI SUSHI in Del Mar, CA$$$Nestled in the vibrant Del Mar, CA,
+  ENSUI SUSHI stands out as a welcoming spot for fresh Japanese-inspired dining,
+  perfect for those seeking casual meals in a relaxed atmosphere. This sushi
+  destination features a cozy setup in the local shopping area, where visitors
+  can enjoy a variety of expertly prepared rolls and dishes alongside selections
+  of wine and beer. With thoughtful happy-hour offerings and an emphasis on
+  quality ingredients, it's an ideal choice for anyone exploring nearby options
+  for authentic flavors. The restaurant also provides accessible features and
+  outdoor seating, making it easy to savor a satisfying meal in a comfortable
+  environment. Whether you're looking for a quick bite or a leisurely evening,
+  this spot delivers a blend of simplicity and taste that keeps locals
+  returning.
+generative_summary: >-
+  Discover ENSUI SUSHI in Del Mar, CA$$$Nestled in the vibrant Del Mar, CA,
+  ENSUI SUSHI stands out as a welcoming spot for fresh Japanese-inspired dining,
+  perfect for those seeking casual meals in a relaxed atmosphere. This sushi
+  destination features a cozy setup in the local shopping area, where visitors
+  can enjoy a variety of expertly prepared rolls and dishes alongside selections
+  of wine and beer. With thoughtful happy-hour offerings and an emphasis on
+  quality ingredients, it's an ideal choice for anyone exploring nearby options
+  for authentic flavors. The restaurant also provides accessible features and
+  outdoor seating, making it easy to savor a satisfying meal in a comfortable
+  environment. Whether you're looking for a quick bite or a leisurely evening,
+  this spot delivers a blend of simplicity and taste that keeps locals
+  returning.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJbzpNVp4J3IAR4yW9VcEAhoA/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJckt6U25BRRAB
@@ -324,6 +349,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURRNV9PUmNnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURRNV9PUmNnEAE!2m1!1s0x80dc099e564d3a6f:0x808600c155bd25e3
+review_summary: >-
+  What Customers Are Buzzing About$$$Folks often rave about the outstanding
+  quality and variety of sushi here, highlighting the fresh ingredients and
+  creative presentations that make every visit memorable. While some mention
+  occasional waits with delivery services, the overall experience shines through
+  with praise for the friendly staff and accommodating vibe that enhances the
+  dining scene. Happy-hour deals and a lively bar area come up frequently as
+  highlights, drawing in groups for a fun, casual outing. Many appreciate the
+  consistent flavors and welcoming setting, making it a go-to for those hunting
+  for reliable nearby spots. All in all, it's a solid pick for sushi
+  enthusiasts, with the positives far outweighing any minor hiccups, encouraging
+  repeat trips for delicious meals.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
 payment_options:
@@ -353,7 +391,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

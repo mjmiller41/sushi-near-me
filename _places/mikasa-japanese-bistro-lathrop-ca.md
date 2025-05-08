@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Mikasa | Japanese Bistro"
+title: Mikasa | Japanese Bistro
 permalink: /california/lathrop/mikasa-japanese-bistro.html
 stateAbbr: CA
 stateName: California
 cityName: Lathrop
 seo:
-  name: "Mikasa | Japanese Bistro"
-  type: Restaurant
+  type: restaurant
   links: http://www.mikasasushilathrop.com/
-description: "Mikasa | Japanese Bistro serves delicious sushi in Lathrop, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJxerF3WoVkIAR6ckAj0WCOeA
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8090156addc5eac5:0xe03982458f00c9e9!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:00 PM'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:30 PM'
     - 'Saturday: 11:00 AM – 9:30 PM'
     - 'Sunday: 11:00 AM – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 9:30 PM'
-    - 'Saturday: 11:00 AM – 9:30 PM'
-    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T04:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,253 @@ phone: (209) 858-1818
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.2'
-rating_count: 0
+rating_count: 1078
 website: http://www.mikasasushilathrop.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Experience Mikasa Japanese Bistro in Lathrop, CA$$$Mikasa Japanese Bistro in
+  Lathrop, CA, provides a cozy and accessible spot for savoring fresh sushi and
+  classic Japanese favorites, making it a go-to choice for those exploring local
+  dining options. The eatery boasts a comfortable atmosphere with
+  wheelchair-accessible features and a menu that highlights flavorful dishes
+  like sushi rolls and bento boxes, paired with selections of wine and beer for
+  a relaxed meal. Diners can enjoy the variety of options that cater to
+  different tastes, including hearty entrees that emphasize quality ingredients
+  and balanced flavors. With its convenient hours and family-friendly vibe, this
+  spot stands out as an ideal destination for anyone seeking sushi restaurants
+  nearby that combine tradition with everyday convenience.
+generative_summary: >-
+  Experience Mikasa Japanese Bistro in Lathrop, CA$$$Mikasa Japanese Bistro in
+  Lathrop, CA, provides a cozy and accessible spot for savoring fresh sushi and
+  classic Japanese favorites, making it a go-to choice for those exploring local
+  dining options. The eatery boasts a comfortable atmosphere with
+  wheelchair-accessible features and a menu that highlights flavorful dishes
+  like sushi rolls and bento boxes, paired with selections of wine and beer for
+  a relaxed meal. Diners can enjoy the variety of options that cater to
+  different tastes, including hearty entrees that emphasize quality ingredients
+  and balanced flavors. With its convenient hours and family-friendly vibe, this
+  spot stands out as an ideal destination for anyone seeking sushi restaurants
+  nearby that combine tradition with everyday convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJxerF3WoVkIAR6ckAj0WCOeA/reviews/ChZDSUhNMG9nS0VJQ0FnTURRLXR5WFpREAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        My wife and I have been coming here for years. We’ve never had a bad
+        experience. The sushi tastes fresh. The workers are sedulous. The
+        seating can be a little crammed at times when they’re busy, and they
+        seem to be busy often. The bento box is worthwhile. I’ve enjoyed every
+        roll I’ve tried but the shrimp volcano one offers the most value for me
+        as far as quality and quantity.
+      languageCode: en
+    originalText:
+      text: >-
+        My wife and I have been coming here for years. We’ve never had a bad
+        experience. The sushi tastes fresh. The workers are sedulous. The
+        seating can be a little crammed at times when they’re busy, and they
+        seem to be busy often. The bento box is worthwhile. I’ve enjoyed every
+        roll I’ve tried but the shrimp volcano one offers the most value for me
+        as far as quality and quantity.
+      languageCode: en
+    authorAttribution:
+      displayName: Ted Gonzalez
+      uri: https://www.google.com/maps/contrib/101627900614543563958/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUYWnOUYmdeWkGXUX9JpgVmmqY5iC0ju97z_whB90nKA5hpOX85=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-03-10T17:00:50.427957Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURRLXR5WFpREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURRLXR5WFpREAE!2m1!1s0x8090156addc5eac5:0xe03982458f00c9e9
+  - name: >-
+      places/ChIJxerF3WoVkIAR6ckAj0WCOeA/reviews/ChdDSUhNMG9nS0VJQ0FnTUNvdFlfejdRRRAB
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 1
+    text:
+      text: >-
+        Extremely slow servers waited over 30 mins just for a refill on my
+        drink, and they brought my order out wrong had to get it replaced and
+        took another wait for that. Good food. But needs work on the service
+        really badly.
+      languageCode: en
+    originalText:
+      text: >-
+        Extremely slow servers waited over 30 mins just for a refill on my
+        drink, and they brought my order out wrong had to get it replaced and
+        took another wait for that. Good food. But needs work on the service
+        really badly.
+      languageCode: en
+    authorAttribution:
+      displayName: Mike Floyd
+      uri: https://www.google.com/maps/contrib/117330484596704335054/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLif70VfTZPfMGmD7FepjfWKJbi9rMPlzDRFVHC51VG8oTzYQ=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-18T22:20:38.402992Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNvdFlfejdRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNvdFlfejdRRRAB!2m1!1s0x8090156addc5eac5:0xe03982458f00c9e9
+  - name: >-
+      places/ChIJxerF3WoVkIAR6ckAj0WCOeA/reviews/ChZDSUhNMG9nS0VJQ0FnSURyazRMa0pREAE
+    relativePublishTimeDescription: 9 months ago
+    rating: 5
+    text:
+      text: >-
+        I started vacation early 🍶🍣 ❤️🔥 As I picked up my online order, I sat
+        and ordered a drink 🍶
+
+        The young man who made this astonishing oyster 🦪 shot for me, was one
+        of the cooks. Cross strained. He got up from his meal to prepare my
+        oyster 🦪 shooter. I actually begged him to finish his meal first but
+        exactly as I would have done, he left his meal to wait on me. I
+        appreciated beyond words it as someone with over 20 years in the
+        industry. Cheers to vacation ❤️ Light the fires 🔥 and kick the tires 🛞
+        I’m comin’ home 🎶
+
+        I haven’t been into this location in months. But consider myself a
+        regular as I use to go once a week. I love the staff and the owner is a
+        friend. The place has improved since I last visited and that says so
+        much, this is a beautiful establishment. Bravo 👏🏻
+      languageCode: en
+    originalText:
+      text: >-
+        I started vacation early 🍶🍣 ❤️🔥 As I picked up my online order, I sat
+        and ordered a drink 🍶
+
+        The young man who made this astonishing oyster 🦪 shot for me, was one
+        of the cooks. Cross strained. He got up from his meal to prepare my
+        oyster 🦪 shooter. I actually begged him to finish his meal first but
+        exactly as I would have done, he left his meal to wait on me. I
+        appreciated beyond words it as someone with over 20 years in the
+        industry. Cheers to vacation ❤️ Light the fires 🔥 and kick the tires 🛞
+        I’m comin’ home 🎶
+
+        I haven’t been into this location in months. But consider myself a
+        regular as I use to go once a week. I love the staff and the owner is a
+        friend. The place has improved since I last visited and that says so
+        much, this is a beautiful establishment. Bravo 👏🏻
+      languageCode: en
+    authorAttribution:
+      displayName: Brittany DiBene
+      uri: https://www.google.com/maps/contrib/105527826612321997867/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocI2MTYWGSaGYz_1J_e6wfA4y66YGzH1g4obD2zDiXa3Drr1Wg=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2024-07-19T21:58:11.470144Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURyazRMa0pREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURyazRMa0pREAE!2m1!1s0x8090156addc5eac5:0xe03982458f00c9e9
+  - name: >-
+      places/ChIJxerF3WoVkIAR6ckAj0WCOeA/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ5OGRqWWhRRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 2
+    text:
+      text: >-
+        After having my chair moved while I was still sitting in it to make room
+        for another customer I can honestly say that I was embarrassed and
+        surprised to be treated as less than.
+
+        The food was good and I return regularly for their fried rice. I think
+        it may be sometime before I return to enjoy a meal inside this
+        restaurant again.
+      languageCode: en
+    originalText:
+      text: >-
+        After having my chair moved while I was still sitting in it to make room
+        for another customer I can honestly say that I was embarrassed and
+        surprised to be treated as less than.
+
+        The food was good and I return regularly for their fried rice. I think
+        it may be sometime before I return to enjoy a meal inside this
+        restaurant again.
+      languageCode: en
+    authorAttribution:
+      displayName: Steve (The Party Goers Club)
+      uri: https://www.google.com/maps/contrib/107886218657361949220/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJlANXlrSeW24_80jIsoidZFqewQTbYBrWQSlP9SeiOHDopZQ=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-03-18T02:52:14.397079Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQ5OGRqWWhRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQ5OGRqWWhRRRAB!2m1!1s0x8090156addc5eac5:0xe03982458f00c9e9
+  - name: >-
+      places/ChIJxerF3WoVkIAR6ckAj0WCOeA/reviews/ChdDSUhNMG9nS0VJQ0FnSURuOGNteXB3RRAB
+    relativePublishTimeDescription: 6 months ago
+    rating: 5
+    text:
+      text: >-
+        Tiger Roll, Volcano Roll, & Godzilla Roll. Sushi is delicious, and
+        customer service was amazing. I like it when they check up on you and
+        refill your drink without asking. Went for a birthday dinner, so they
+        gave a free dessert and sung happy birthday.
+      languageCode: en
+    originalText:
+      text: >-
+        Tiger Roll, Volcano Roll, & Godzilla Roll. Sushi is delicious, and
+        customer service was amazing. I like it when they check up on you and
+        refill your drink without asking. Went for a birthday dinner, so they
+        gave a free dessert and sung happy birthday.
+      languageCode: en
+    authorAttribution:
+      displayName: Christopher Pimentel
+      uri: https://www.google.com/maps/contrib/101343383940681256875/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXz-26GVZrYZV-2rqDqeUBTQIx6PIiK96-oIQyWdDvMyWv3gFspeA=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-10-07T03:57:37.657323Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURuOGNteXB3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURuOGNteXB3RRAB!2m1!1s0x8090156addc5eac5:0xe03982458f00c9e9
+review_summary: >-
+  Customer Feedback Highlights$$$Visitors to this Japanese bistro often rave
+  about the fresh and tasty sushi rolls, along with generous portions that offer
+  great value for a satisfying meal. While the service is frequently described
+  as friendly and attentive, especially during special occasions like birthdays,
+  some folks note occasional slowdowns during busy times that could use a bit of
+  fine-tuning. Overall, the welcoming environment and variety of dishes, such as
+  bento boxes and teriyaki options, make it a solid pick for groups or families
+  looking for reliable Japanese cuisine. Despite a few inconsistencies in
+  service speed, the positive experiences with food quality and atmosphere keep
+  it a favorite among those hunting for top-rated sushi spots in the area. If
+  you're in the mood for something delicious, it's worth checking out for an
+  enjoyable dining experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: true
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

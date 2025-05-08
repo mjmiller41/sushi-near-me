@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yamato Japanese Steakhouse"
+title: Yamato Japanese Steakhouse
 permalink: /illinois/centralia/yamato-japanese-steakhouse.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Centralia
 seo:
-  name: "Yamato Japanese Steakhouse"
-  type: Restaurant
-  links: null
-description: "Yamato Japanese Steakhouse serves delicious sushi in Centralia, Illinois. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://yamatocentralia.com/
 place_id: ChIJ8VKSA7WZdogRAHL3zh4IvLI
 photos:
   - name: >-
@@ -170,8 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x887699b5039252f1:0xb2bc081ecef77200!10e5
 primary_type: Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: Closed'
+    - 'Tuesday: 11:00 AM – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 9:00 PM'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 9:30 PM'
+    - 'Saturday: 11:00 AM – 9:30 PM'
+    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +234,51 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
+phone: (618) 918-2288
 price_level: null
 price_range: null
-rating: null
-rating_count: 0
-website: null
+rating: '3.9'
+rating_count: 123
+website: https://yamatocentralia.com/
+description: >-
+  Discover Yamato Japanese Steakhouse in Centralia, IL$$$Yamato Japanese
+  Steakhouse in Centralia, IL, serves up a variety of fresh sushi and hibachi
+  options in a relaxed, approachable atmosphere, making it a go-to spot for
+  Japanese dining enthusiasts. This eatery highlights flavorful dishes that
+  blend traditional flavors with interactive cooking styles, appealing to those
+  seeking authentic yet casual sushi experiences nearby. With accessible
+  features like wheelchair-friendly entrances and seating, it ensures everyone
+  can enjoy the vibrant ambiance and well-prepared meals. Operating hours cater
+  to both lunch and dinner crowds, adding convenience for locals hunting for
+  top-rated Japanese places. Photos from visitors showcase the inviting setup,
+  emphasizing why it's a popular choice among sushi restaurants in the area.
+generative_summary: >-
+  Discover Yamato Japanese Steakhouse in Centralia, IL$$$Yamato Japanese
+  Steakhouse in Centralia, IL, serves up a variety of fresh sushi and hibachi
+  options in a relaxed, approachable atmosphere, making it a go-to spot for
+  Japanese dining enthusiasts. This eatery highlights flavorful dishes that
+  blend traditional flavors with interactive cooking styles, appealing to those
+  seeking authentic yet casual sushi experiences nearby. With accessible
+  features like wheelchair-friendly entrances and seating, it ensures everyone
+  can enjoy the vibrant ambiance and well-prepared meals. Operating hours cater
+  to both lunch and dinner crowds, adding convenience for locals hunting for
+  top-rated Japanese places. Photos from visitors showcase the inviting setup,
+  emphasizing why it's a popular choice among sushi restaurants in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About This Sushi Spot$$$Visitors to this Japanese
+  steakhouse often praise the fresh sushi and entertaining hibachi
+  presentations, noting that the flavors hit the spot for a satisfying meal.
+  Many appreciate the casual vibe and solid portions, making it a fun option for
+  groups or families looking for reliable dining choices nearby. While some
+  mention occasional waits during peak times, the overall experience earns high
+  marks for value and taste, reflecting a generally positive reception. Feedback
+  highlights the restaurant's ability to deliver on classic dishes, helping it
+  stand out as one of the better sushi options in Centralia. All in all, it's a
+  welcoming place that keeps customers coming back for more enjoyable evenings
+  out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +304,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -5,4 +5,5 @@ permalink: /oklahoma/tulsa/
 stateAbbr: OK
 stateName: Oklahoma
 cityName: Tulsa
+
 ---

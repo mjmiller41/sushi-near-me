@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "M Sushi"
+title: M Sushi
 permalink: /virginia/charlottesville/m-sushi.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Charlottesville
 seo:
-  name: "M Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://msushiva.com/
-description: "Contemporary Japanese eatery with a casual ambiance known for all-you-can-eat sushi. M Sushi serves delicious sushi in Charlottesville, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJIxZkQd2Hs4kRTTEB-8XJHvk
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $20 &ndash; $30
 rating: '4.0'
 rating_count: 0
 website: http://msushiva.com/
+description: >-
+  Experience M Sushi in Charlottesville, VA$$$Nestled in the heart of
+  Charlottesville, VA, M Sushi stands out as a contemporary Japanese eatery
+  offering a relaxed vibe perfect for casual dining enthusiasts. This spot is
+  renowned for its all-you-can-eat options, featuring fresh sushi rolls, a
+  vibrant salad bar, and flavorful hibachi selections that cater to a variety of
+  tastes. With accessibility features like wheelchair-friendly entrances and
+  seating, it's an inclusive choice for everyone seeking quality Japanese
+  cuisine close to home. Diners appreciate the moderate pricing and variety of
+  dishes, making it a go-to option for those exploring top-rated sushi places
+  near me. Whether you're in the mood for a quick lunch or a satisfying dinner,
+  the blend of affordability and authentic flavors ensures a memorable meal in a
+  welcoming setting.
+generative_summary: >-
+  Experience M Sushi in Charlottesville, VA$$$Nestled in the heart of
+  Charlottesville, VA, M Sushi stands out as a contemporary Japanese eatery
+  offering a relaxed vibe perfect for casual dining enthusiasts. This spot is
+  renowned for its all-you-can-eat options, featuring fresh sushi rolls, a
+  vibrant salad bar, and flavorful hibachi selections that cater to a variety of
+  tastes. With accessibility features like wheelchair-friendly entrances and
+  seating, it's an inclusive choice for everyone seeking quality Japanese
+  cuisine close to home. Diners appreciate the moderate pricing and variety of
+  dishes, making it a go-to option for those exploring top-rated sushi places
+  near me. Whether you're in the mood for a quick lunch or a satisfying dinner,
+  the blend of affordability and authentic flavors ensures a memorable meal in a
+  welcoming setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJIxZkQd2Hs4kRTTEB-8XJHvk/reviews/ChdDSUhNMG9nS0VJQ0FnSUMzZ2F2SXdBRRAB
@@ -412,6 +437,21 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURfaS1XcmtRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURfaS1XcmtRRRAB!2m1!1s0x89b387dd41641623:0xf91ec9c5fb01314d
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors to this sushi spot often highlight
+  the fresh and well-prepared rolls as a standout feature, making it a solid
+  pick for anyone craving reliable Japanese flavors without breaking the bank.
+  While some note that certain sides like teriyaki or tempura could use a bit
+  more refinement, the overall value, especially during lunch hours, keeps
+  things feeling worthwhile and enjoyable. Feedback frequently mentions the
+  salad bar as a fun addition that adds variety to the meal, though service
+  experiences vary and could be more consistent for a smoother visit. Despite a
+  few mentions of ambiance needing a refresh, the general consensus leans
+  positive, with many appreciating the good portions and deals that make it a
+  go-to for casual sushi lovers in the area. If you're hunting for approachable
+  sushi restaurants nearby, this place delivers honest satisfaction with room
+  for ongoing improvements.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -443,8 +483,8 @@ serves_lunch: true
 serves_vegetarian_food: false
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Contemporary Japanese eatery with a casual ambiance known for all-you-can-eat
   sushi.
 

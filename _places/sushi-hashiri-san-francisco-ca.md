@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Hashiri"
+title: Sushi Hashiri
 permalink: /california/san-francisco/sushi-hashiri.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
 seo:
-  name: "Sushi Hashiri"
-  type: Restaurant
+  type: restaurant
   links: http://hashirisf.com/
-description: "Highbrow, multicourse Japanese sushi & seasonal mains offered in sleek, modern quarters. Sushi Hashiri serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. Available for, and dinner."
 place_id: ChIJhSGf1oWAhYARAMBHjcaw_RI
 photos:
   - name: >-
@@ -184,6 +182,33 @@ price_range: $100 &ndash; & up
 rating: '4.6'
 rating_count: 0
 website: http://hashirisf.com/
+description: >-
+  About Sushi Hashiri in San Francisco$$$Sushi Hashiri in San Francisco, CA,
+  stands out as a premier destination for fresh, innovative Japanese cuisine in
+  a modern and inviting atmosphere. This trendy spot highlights hyper-seasonal
+  ingredients that bring out the best in traditional sushi dishes, paired
+  seamlessly with carefully selected sake options for an elevated dining
+  experience. The sleek quarters offer a romantic setting ideal for special
+  occasions, with multicourse meals that showcase the artistry of seasonal
+  flavors. Accessibility features like wheelchair-friendly entrances and seating
+  make it welcoming for all, enhancing its appeal as one of the top sushi places
+  near me in the bustling city. Whether you're exploring Japanese-inspired eats
+  or seeking the best sushi restaurants, this location delivers a memorable
+  blend of quality and ambiance.
+generative_summary: >-
+  About Sushi Hashiri in San Francisco$$$Sushi Hashiri in San Francisco, CA,
+  stands out as a premier destination for fresh, innovative Japanese cuisine in
+  a modern and inviting atmosphere. This trendy spot highlights hyper-seasonal
+  ingredients that bring out the best in traditional sushi dishes, paired
+  seamlessly with carefully selected sake options for an elevated dining
+  experience. The sleek quarters offer a romantic setting ideal for special
+  occasions, with multicourse meals that showcase the artistry of seasonal
+  flavors. Accessibility features like wheelchair-friendly entrances and seating
+  make it welcoming for all, enhancing its appeal as one of the top sushi places
+  near me in the bustling city. Whether you're exploring Japanese-inspired eats
+  or seeking the best sushi restaurants, this location delivers a memorable
+  blend of quality and ambiance.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJhSGf1oWAhYARAMBHjcaw_RI/reviews/ChdDSUhNMG9nS0VJQ0FnTUNRbk9HaThRRRAB
@@ -371,6 +396,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN0dU8tbjVRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN0dU8tbjVRRRAB!2m1!1s0x80858085d69f2185:0x12fdb0c68d47c000
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors consistently praise the exceptional
+  quality of the sushi and creative dishes that highlight fresh, seasonal
+  ingredients, making it a go-to for anyone craving authentic flavors. Many note
+  the thoughtful sake pairings and attentive service that add a special touch to
+  every meal, creating a welcoming vibe perfect for intimate gatherings. The
+  overall experience is often described as unforgettable, with highlights on the
+  chef's skillful preparation and the restaurant's elegant yet approachable
+  setting. While it's clear this spot excels in hospitality and culinary
+  details, some mention it's best suited for those open to a more upscale
+  adventure rather than casual bites. If you're hunting for top-rated sushi near
+  me, the general buzz suggests it's worth a visit for its reliable excellence
+  and positive energy.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options:
   acceptsCreditCards: true
@@ -400,8 +439,8 @@ serves_lunch: null
 serves_vegetarian_food: false
 serves_wine: true
 takeout: null
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Highbrow, multicourse Japanese sushi & seasonal mains offered in sleek, modern
   quarters.
 

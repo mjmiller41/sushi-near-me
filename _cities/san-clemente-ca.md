@@ -5,4 +5,5 @@ permalink: /california/san-clemente/
 stateAbbr: CA
 stateName: California
 cityName: San Clemente
+
 ---

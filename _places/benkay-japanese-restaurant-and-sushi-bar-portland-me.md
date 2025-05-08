@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Benkay Japanese Restaurant And Sushi Bar"
+title: Benkay Japanese Restaurant And Sushi Bar
 permalink: /maine/portland/benkay-japanese-restaurant-and-sushi-bar.html
 stateAbbr: ME
 stateName: Maine
 cityName: Portland
 seo:
-  name: "Benkay Japanese Restaurant And Sushi Bar"
-  type: Restaurant
+  type: restaurant
   links: http://sushiman.com/
-description: "Long-standing local Japanese restaurant with traditional decor prepares sushi & other favorites. Benkay Japanese Restaurant And Sushi Bar serves delicious sushi in Portland, Maine. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ_6q4AkGcskwR8QV_pTDjBtg
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $30 &ndash; $50
 rating: '4.5'
 rating_count: 0
 website: http://sushiman.com/
+description: >-
+  Discover Benkay in Portland, ME$$$Benkay Japanese Restaurant And Sushi Bar in
+  Portland, ME, stands out as a casual spot for enjoying authentic Japanese
+  cuisine in a welcoming setting. With its traditional decor and focus on fresh
+  sushi and sashimi, this restaurant offers a menu that includes familiar
+  favorites like miso soup and other classic dishes, complemented by a selection
+  of beverages such as sake and cocktails. The emphasis on high-quality
+  ingredients ensures a delightful dining experience, making it a go-to choice
+  for those seeking sushi options in the area. Accessibility features like
+  wheelchair-friendly entrances and seating add to its appeal for a wide range
+  of visitors, enhancing the overall comfort and convenience.
+generative_summary: >-
+  Discover Benkay in Portland, ME$$$Benkay Japanese Restaurant And Sushi Bar in
+  Portland, ME, stands out as a casual spot for enjoying authentic Japanese
+  cuisine in a welcoming setting. With its traditional decor and focus on fresh
+  sushi and sashimi, this restaurant offers a menu that includes familiar
+  favorites like miso soup and other classic dishes, complemented by a selection
+  of beverages such as sake and cocktails. The emphasis on high-quality
+  ingredients ensures a delightful dining experience, making it a go-to choice
+  for those seeking sushi options in the area. Accessibility features like
+  wheelchair-friendly entrances and seating add to its appeal for a wide range
+  of visitors, enhancing the overall comfort and convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ_6q4AkGcskwR8QV_pTDjBtg/reviews/ChZDSUhNMG9nS0VJQ0FnSUNQbHRqTVBnEAE
@@ -386,6 +407,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURkc01MSUlBEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURkc01MSUlBEAE!2m1!1s0x4cb29c4102b8aaff:0xd806e330a57f05f1
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors to this Portland sushi spot often
+  rave about the fresh and flavorful sushi rolls and sashimi, highlighting how
+  the quality makes every bite memorable and satisfying. While most folks
+  appreciate the relaxed vibe and attentive service that make meals feel
+  effortless and enjoyable, a few mentions of delivery inconsistencies remind us
+  that takeout experiences can vary. Overall, the consensus leans toward it
+  being a solid pick for anyone craving top-rated Japanese fare, with many
+  noting the balanced flavors and welcoming atmosphere that keep them coming
+  back. If you're exploring sushi places near you, this location delivers a
+  generally positive vibe that's worth trying for a tasty, straightforward meal.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeStreetParking: true
   paidStreetParking: true
@@ -418,8 +451,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Long-standing local Japanese restaurant with traditional decor prepares sushi
   & other favorites.
 

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Akaru Sushi"
+title: Akaru Sushi
 permalink: /new-york/brooklyn/akaru-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: Brooklyn
 seo:
-  name: "Akaru Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.akarusushi.com/
-description: "Compact sushi joint in a subdued, exposed-brick space serving creative rolls & Japanese mains. Akaru Sushi serves delicious sushi in Brooklyn, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJs5wt5h5cwokRIvxftd3N908
 photos:
   - name: >-
@@ -184,6 +182,29 @@ price_range: $20 &ndash; $30
 rating: '4.1'
 rating_count: 0
 website: http://www.akarusushi.com/
+description: >-
+  Discover Akaru Sushi in Brooklyn, NY$$$Akaru Sushi in Brooklyn, NY, stands out
+  as a cozy spot for enjoying fresh Japanese dishes in a casual, exposed-brick
+  setting that highlights creative rolls and classic mains. This sushi
+  restaurant near you offers a variety of options like inventive specials and
+  affordable lunch deals, making it a go-to choice for those seeking authentic
+  flavors in a relaxed atmosphere. Drawing from its focus on quality ingredients
+  and convenient delivery, it's ideal for both dine-in experiences and quick
+  takeout, appealing to fans of Japanese places in the area. The moderate
+  pricing adds to its appeal, providing great value without compromising on
+  taste, while accessibility features ensure a welcoming visit for many.
+generative_summary: >-
+  Discover Akaru Sushi in Brooklyn, NY$$$Akaru Sushi in Brooklyn, NY, stands out
+  as a cozy spot for enjoying fresh Japanese dishes in a casual, exposed-brick
+  setting that highlights creative rolls and classic mains. This sushi
+  restaurant near you offers a variety of options like inventive specials and
+  affordable lunch deals, making it a go-to choice for those seeking authentic
+  flavors in a relaxed atmosphere. Drawing from its focus on quality ingredients
+  and convenient delivery, it's ideal for both dine-in experiences and quick
+  takeout, appealing to fans of Japanese places in the area. The moderate
+  pricing adds to its appeal, providing great value without compromising on
+  taste, while accessibility features ensure a welcoming visit for many.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJs5wt5h5cwokRIvxftd3N908/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3cDYtTHdnRRAB
@@ -329,6 +350,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUN3OU9hLVlnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUN3OU9hLVlnEAE!2m1!1s0x89c25c1ee62d9cb3:0x4ff7cdddb55ffc22
+review_summary: >-
+  What Customers Are Saying About This Sushi Spot$$$Visitors often rave about
+  the fresh and flavorful sushi rolls, with many highlighting affordable lunch
+  specials that make it a smart pick for everyday meals. While the food
+  consistently impresses with its quality and variety, some note that the
+  service can feel straightforward, though it doesn't detract from the overall
+  enjoyment. Feedback frequently praises the tender mains and fresh ingredients,
+  positioning this as one of the top-rated sushi options near me for those
+  craving reliable Japanese cuisine. Overall, it's a solid choice for groups or
+  solo diners looking for good value, with the positive vibes around the food
+  helping to outweigh any minor drawbacks. If you're exploring sushi restaurants
+  in the neighborhood, this spot delivers a satisfying experience that's worth
+  trying out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   valetParking: false
 payment_options:
@@ -359,8 +394,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Compact sushi joint in a subdued, exposed-brick space serving creative rolls &
   Japanese mains.
 

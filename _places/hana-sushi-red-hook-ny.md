@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Hana Sushi"
+title: Hana Sushi
 permalink: /new-york/red-hook/hana-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: Red Hook
 seo:
-  name: "Hana Sushi"
-  type: Restaurant
-  links: null
-description: "Hana Sushi serves delicious sushi in Red Hook, New York. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.hana-sushi.com/
 place_id: ChIJp9xNigML3YkRanXX48M8UuE
 photos:
   - name: >-
@@ -170,8 +168,49 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89dd0b038a4ddca7:0xe1523cc3e3d7756a!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: false
+  periods:
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 0
+      close:
+        day: 5
+        hour: 20
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: Closed'
+    - 'Tuesday: 4:00 – 8:00 PM'
+    - 'Wednesday: 4:00 – 8:00 PM'
+    - 'Thursday: 4:00 – 8:00 PM'
+    - 'Friday: 4:00 – 8:00 PM'
+    - 'Saturday: Closed'
+    - 'Sunday: Closed'
+  nextOpenTime: '2025-05-06T20:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +218,54 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (845) 758-4333
+price_level: PRICE_LEVEL_MODERATE
+price_range: $30 &ndash; $50
+rating: '4.7'
+rating_count: 144
+website: http://www.hana-sushi.com/
+description: >-
+  Discover Hana Sushi in Red Hook, NY$$$Hana Sushi in Red Hook, NY, stands out
+  as a welcoming Japanese eatery that specializes in fresh, flavorful dishes
+  perfect for those seeking authentic Asian cuisine nearby. This spot offers a
+  variety of options like expertly prepared sushi rolls, teriyaki favorites, and
+  convenient bento boxes, all served in a relaxed and unpretentious setting that
+  makes it ideal for casual dining. With its focus on quality ingredients and
+  accessible features such as wheelchair-friendly entrances and parking, it's a
+  go-to choice for anyone exploring top-rated Japanese places in the area. The
+  moderate pricing adds to its appeal, providing great value for meals that
+  satisfy cravings for light, healthy fare. Whether you're in the mood for a
+  quick bite or a relaxed evening, Hana Sushi delivers a straightforward yet
+  enjoyable experience that highlights the best of Japanese flavors.
+generative_summary: >-
+  Discover Hana Sushi in Red Hook, NY$$$Hana Sushi in Red Hook, NY, stands out
+  as a welcoming Japanese eatery that specializes in fresh, flavorful dishes
+  perfect for those seeking authentic Asian cuisine nearby. This spot offers a
+  variety of options like expertly prepared sushi rolls, teriyaki favorites, and
+  convenient bento boxes, all served in a relaxed and unpretentious setting that
+  makes it ideal for casual dining. With its focus on quality ingredients and
+  accessible features such as wheelchair-friendly entrances and parking, it's a
+  go-to choice for anyone exploring top-rated Japanese places in the area. The
+  moderate pricing adds to its appeal, providing great value for meals that
+  satisfy cravings for light, healthy fare. Whether you're in the mood for a
+  quick bite or a relaxed evening, Hana Sushi delivers a straightforward yet
+  enjoyable experience that highlights the best of Japanese flavors.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback on Hana Sushi$$$Visitors to Hana Sushi often highlight the
+  fresh and creative sushi selections that keep things exciting and delicious,
+  making it a solid pick for anyone hunting for reliable options close by. Many
+  appreciate the consistent quality and generous portions, which contribute to a
+  satisfying meal without breaking the bank, though some note that wait times
+  can vary during peak hours. Folks frequently mention the welcoming vibe and
+  attentive service that enhance the overall dining experience, helping it
+  maintain its high marks among local favorites. Overall, the consensus leans
+  positive, with praise for the variety of dishes that cater to different
+  tastes, encouraging repeat visits for those who enjoy Japanese-inspired meals.
+  While not every detail is perfect, the strong ratings reflect a place that's
+  worth trying for its standout flavors and approachable atmosphere.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +291,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

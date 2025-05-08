@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Mino Japanese Restaurant & Sushi Bar"
+title: Mino Japanese Restaurant & Sushi Bar
 permalink: /pennsylvania/malvern/mino-japanese-restaurant-sushi-bar.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Malvern
 seo:
-  name: "Mino Japanese Restaurant & Sushi Bar"
-  type: Restaurant
+  type: restaurant
   links: http://www.minosushi.com/
-description: "Cozy BYOB spot offering creative sushi rolls, kitchen entrees & an all-you-can-eat option. Mino Japanese Restaurant & Sushi Bar serves delicious sushi in Malvern, Pennsylvania. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJXzD5lLfyxokR5W9vQBJJLVY
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $30 &ndash; $50
 rating: '4.5'
 rating_count: 0
 website: http://www.minosushi.com/
+description: >-
+  Discover Mino Japanese Restaurant in Malvern, PA$$$In Malvern, PA, Mino
+  Japanese Restaurant & Sushi Bar stands out as a casual spot for enjoying
+  authentic Japanese cuisine, featuring fresh sushi and creative rolls that
+  cater to a variety of tastes. This cozy eatery offers an all-you-can-eat
+  option alongside vegan-friendly dishes, making it a versatile choice for
+  diners seeking flavorful options without the hassle. With its welcoming
+  atmosphere and thoughtful accessibility features, it's ideal for a relaxed
+  meal or quick takeout, enhancing the overall dining experience. Whether you're
+  exploring top-rated sushi spots nearby or looking for Japanese places that
+  blend tradition with innovation, this restaurant delivers on fresh ingredients
+  and thoughtful presentations.
+generative_summary: >-
+  Discover Mino Japanese Restaurant in Malvern, PA$$$In Malvern, PA, Mino
+  Japanese Restaurant & Sushi Bar stands out as a casual spot for enjoying
+  authentic Japanese cuisine, featuring fresh sushi and creative rolls that
+  cater to a variety of tastes. This cozy eatery offers an all-you-can-eat
+  option alongside vegan-friendly dishes, making it a versatile choice for
+  diners seeking flavorful options without the hassle. With its welcoming
+  atmosphere and thoughtful accessibility features, it's ideal for a relaxed
+  meal or quick takeout, enhancing the overall dining experience. Whether you're
+  exploring top-rated sushi spots nearby or looking for Japanese places that
+  blend tradition with innovation, this restaurant delivers on fresh ingredients
+  and thoughtful presentations.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJXzD5lLfyxokR5W9vQBJJLVY/reviews/ChdDSUhNMG9nS0VJQ0FnTUNRdk91cDFBRRAB
@@ -426,6 +449,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNSaWE3TFpREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNSaWE3TFpREAE!2m1!1s0x89c6f2b794f9305f:0x562d4912406f6fe5
+review_summary: >-
+  What People Love About This Sushi Spot$$$Visitors often highlight the
+  incredibly fresh sushi and creative rolls that make every bite a treat, with
+  many praising the generous portions and variety available for both dine-in and
+  takeout. Folks appreciate the solid service and welcoming vibe that keeps
+  things comfortable and enjoyable, even during busy times, though some note
+  that certain rolls might not always hit the mark for everyone. Overall, the
+  all-you-can-eat deals and tasty sides like fried rice add great value, making
+  it a go-to for groups or families looking for a satisfying meal. If you're on
+  the hunt for the best sushi near you, this spot consistently delivers a
+  positive experience with its reliable flavors and reasonable prices,
+  encouraging repeat visits for casual sushi lovers.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -458,8 +494,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Cozy BYOB spot offering creative sushi rolls, kitchen entrees & an
   all-you-can-eat option.
 

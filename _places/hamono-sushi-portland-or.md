@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Hamono Sushi"
+title: Hamono Sushi
 permalink: /oregon/portland/hamono-sushi.html
 stateAbbr: OR
 stateName: Oregon
 cityName: Portland
 seo:
-  name: "Hamono Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.hamonosushi.com/
-description: "Hamono Sushi serves delicious sushi in Portland, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJm-dwwvwLlVQRED2Nwtt8auI
 photos:
   - name: >-
@@ -169,7 +167,89 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x54950bfcc270e79b:0xe26a7cdbc28d3d10!10e5
 primary_type: Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
     - 'Wednesday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
@@ -177,14 +257,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
     - 'Saturday: 12:30 – 9:00 PM'
     - 'Sunday: 12:30 – 9:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
-    - 'Wednesday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
-    - 'Thursday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
-    - 'Friday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
-    - 'Saturday: 12:30 – 9:00 PM'
-    - 'Sunday: 12:30 – 9:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,35 +269,249 @@ phone: (503) 863-1683
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.4'
-rating_count: 0
+rating_count: 320
 website: https://www.hamonosushi.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Hamono Sushi in Portland, OR$$$Nestled in the heart of Portland, OR,
+  Hamono Sushi stands out as a go-to spot for those seeking authentic Japanese
+  cuisine in a welcoming setting. This cozy restaurant specializes in fresh
+  sushi and sashimi, crafted with high-quality ingredients that highlight
+  traditional flavors and innovative twists. Visitors can enjoy a variety of
+  rice dishes and noodles in an easygoing ambiance, making it ideal for casual
+  dinners or special occasions. The spot also boasts accessible features like
+  wheelchair-friendly entrances, ensuring everyone can savor the experience. For
+  anyone exploring top-rated sushi options near you, Hamono Sushi delivers a
+  satisfying blend of taste and convenience.
+generative_summary: >-
+  Discover Hamono Sushi in Portland, OR$$$Nestled in the heart of Portland, OR,
+  Hamono Sushi stands out as a go-to spot for those seeking authentic Japanese
+  cuisine in a welcoming setting. This cozy restaurant specializes in fresh
+  sushi and sashimi, crafted with high-quality ingredients that highlight
+  traditional flavors and innovative twists. Visitors can enjoy a variety of
+  rice dishes and noodles in an easygoing ambiance, making it ideal for casual
+  dinners or special occasions. The spot also boasts accessible features like
+  wheelchair-friendly entrances, ensuring everyone can savor the experience. For
+  anyone exploring top-rated sushi options near you, Hamono Sushi delivers a
+  satisfying blend of taste and convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJm-dwwvwLlVQRED2Nwtt8auI/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJcnUtSERBEAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Had an amazing dining experience at Hamono sushi! Every dish was
+        incredibly fresh and full of flavor. The presentation was beautiful, and
+        you can really taste the quality in every bite. The service was
+        attentive and made the meal even more enjoyable. If you’re looking for a
+        delicious and authentic omakase experience, this place is a must-try!
+        I’ll definitely be coming back for more.
+      languageCode: en
+    originalText:
+      text: >-
+        Had an amazing dining experience at Hamono sushi! Every dish was
+        incredibly fresh and full of flavor. The presentation was beautiful, and
+        you can really taste the quality in every bite. The service was
+        attentive and made the meal even more enjoyable. If you’re looking for a
+        delicious and authentic omakase experience, this place is a must-try!
+        I’ll definitely be coming back for more.
+      languageCode: en
+    authorAttribution:
+      displayName: YMC
+      uri: https://www.google.com/maps/contrib/111927012866139432218/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXO2hNFtfQ4YjRZ3pGAsWqj63YoJxuUOwtiTlbnnEyYha_aL7cq=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-02T03:15:04.501448Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNJcnUtSERBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNJcnUtSERBEAE!2m1!1s0x54950bfcc270e79b:0xe26a7cdbc28d3d10
+  - name: >-
+      places/ChIJm-dwwvwLlVQRED2Nwtt8auI/reviews/ChZDSUhNMG9nS0VJQ0FnTUNvcThYWlpnEAE
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        Everything was delicious, especially the sashimi. The staff were
+        personable and attentive. The atmosphere was small and cozy. It was a
+        great, complete experience. I can't wait to come back again to try their
+        omakase.
+      languageCode: en
+    originalText:
+      text: >-
+        Everything was delicious, especially the sashimi. The staff were
+        personable and attentive. The atmosphere was small and cozy. It was a
+        great, complete experience. I can't wait to come back again to try their
+        omakase.
+      languageCode: en
+    authorAttribution:
+      displayName: Eliana Sterna
+      uri: https://www.google.com/maps/contrib/111017459332475670057/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXXyJj9vzI-vbJRZyXJBA5mRbM_n8LNYt5t7a4GZIkHrzgH5Dw=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-04-20T01:24:00.919790Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNvcThYWlpnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNvcThYWlpnEAE!2m1!1s0x54950bfcc270e79b:0xe26a7cdbc28d3d10
+  - name: >-
+      places/ChIJm-dwwvwLlVQRED2Nwtt8auI/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJN1AtbzBBRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Absolutely fantastic sushi, maybe the best or tied for the best I have
+        had in Portland.  The quality of the fish was great and the AYCE menu
+        had some banger fish that was so fun to revisit.  Their tempura was also
+        excellent, with a super nice cronch and lovely taste on the insides.  
+        The interior was really cool and smaller than I thought it would be, but
+        very cozy.  The server Nate was incredibly knowledgeable and willing to
+        talk through anything being served.
+
+
+        Would go back for the Spanish tuna belly toro alone, but everything was
+        so good I will be going back for it all!!!
+      languageCode: en
+    originalText:
+      text: >-
+        Absolutely fantastic sushi, maybe the best or tied for the best I have
+        had in Portland.  The quality of the fish was great and the AYCE menu
+        had some banger fish that was so fun to revisit.  Their tempura was also
+        excellent, with a super nice cronch and lovely taste on the insides.  
+        The interior was really cool and smaller than I thought it would be, but
+        very cozy.  The server Nate was incredibly knowledgeable and willing to
+        talk through anything being served.
+
+
+        Would go back for the Spanish tuna belly toro alone, but everything was
+        so good I will be going back for it all!!!
+      languageCode: en
+    authorAttribution:
+      displayName: Patrick “Jerkface” E.
+      uri: https://www.google.com/maps/contrib/117738866812413166466/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWB1uNS6m9zZs0s4GUQLVZPGx7ubJrcv1yYT10Tpb6W0F6yfvg=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-03-31T03:39:17.664910Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNJN1AtbzBBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNJN1AtbzBBRRAB!2m1!1s0x54950bfcc270e79b:0xe26a7cdbc28d3d10
+  - name: >-
+      places/ChIJm-dwwvwLlVQRED2Nwtt8auI/reviews/ChZDSUhNMG9nS0VJQ0FnSURfc3NEcUF3EAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        Had the pleasure to experience the unlimited omakase during my visit to
+        Portland. Our host was very knowledgeable about each dish and also
+        recommended which sake to choose to accompany our dishes (where one of
+        them was specifically chosen out of menu). He is also very generous on
+        the portions and pampered us until the end. I can go over each dish and
+        say how well each of them are but I think it’s an experience you have to
+        experience yourself. Would definitely visit every time I drop by
+        Portland.
+      languageCode: en
+    originalText:
+      text: >-
+        Had the pleasure to experience the unlimited omakase during my visit to
+        Portland. Our host was very knowledgeable about each dish and also
+        recommended which sake to choose to accompany our dishes (where one of
+        them was specifically chosen out of menu). He is also very generous on
+        the portions and pampered us until the end. I can go over each dish and
+        say how well each of them are but I think it’s an experience you have to
+        experience yourself. Would definitely visit every time I drop by
+        Portland.
+      languageCode: en
+    authorAttribution:
+      displayName: Jonathan Kwee
+      uri: https://www.google.com/maps/contrib/111053954857296007385/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLZgZrgd-Oz2AJxBh4yywxW61thtv8g0iO_yCAP2Se0EY-k=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-01-23T03:21:58.624305Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURfc3NEcUF3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURfc3NEcUF3EAE!2m1!1s0x54950bfcc270e79b:0xe26a7cdbc28d3d10
+  - name: >-
+      places/ChIJm-dwwvwLlVQRED2Nwtt8auI/reviews/ChdDSUhNMG9nS0VJQ0FnTUNBaEs3c2xnRRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        Took my buddy here for his birthday and we had a blast. Our server was
+        extremely knowledgeable and ran the floor like a boss. We chose the
+        omakase option and it was amazing. The kitchen kept up with the orders
+        and the flow. 10/10
+      languageCode: en
+    originalText:
+      text: >-
+        Took my buddy here for his birthday and we had a blast. Our server was
+        extremely knowledgeable and ran the floor like a boss. We chose the
+        omakase option and it was amazing. The kitchen kept up with the orders
+        and the flow. 10/10
+      languageCode: en
+    authorAttribution:
+      displayName: Brandon Minsein
+      uri: https://www.google.com/maps/contrib/103185012126081564354/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXhickeH7BxqjBcychaCDerJIJuPdo2p_j7gw0T8fimsJid3ynj=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-01-29T14:52:49.354457Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNBaEs3c2xnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNBaEs3c2xnRRAB!2m1!1s0x54950bfcc270e79b:0xe26a7cdbc28d3d10
+review_summary: >-
+  What Customers Are Buzzing About$$$Folks who've dined at this sushi haven
+  often rave about the incredibly fresh and flavorful dishes, with many
+  highlighting the standout sashimi and omakase selections that keep things
+  exciting. The service stands out as attentive and knowledgeable, helping make
+  every meal feel personalized and enjoyable without overwhelming the vibe. It's
+  commonly noted that the cozy, intimate atmosphere adds to the overall charm,
+  perfect for a relaxed outing or group gathering. While the menu impresses with
+  its quality and variety, some mention it's a great value for the price,
+  encouraging repeat visits. Overall, the positive feedback paints a picture of
+  a reliable choice for Japanese fare, making it worth checking out if you're in
+  the mood for something delicious and genuine.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: false
+  freeStreetParking: false
+  paidStreetParking: true
+  valetParking: false
+  freeGarageParking: false
+  paidGarageParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
+delivery: true
+dine_in: true
+good_for_children: false
 good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
 serves_breakfast: null
-serves_brunch: null
+serves_brunch: false
 serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Compact Japanese restaurant offering sushi, rice dishes & noodles amid an
+  easygoing ambiance.
 
 ---

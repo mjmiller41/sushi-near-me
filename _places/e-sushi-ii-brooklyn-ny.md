@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "E Sushi II"
+title: E Sushi II
 permalink: /new-york/brooklyn/e-sushi-ii.html
 stateAbbr: NY
 stateName: New York
 cityName: Brooklyn
 seo:
-  name: "E Sushi II"
-  type: Restaurant
+  type: restaurant
   links: https://www.esushi2.com/
-description: "E Sushi II serves delicious sushi in Brooklyn, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJQdooxllDwokR0slzWjBMCxc
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c24359c628da41:0x170b4c305a73c9d2!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 10:00 PM'
     - 'Tuesday: 11:30 AM – 10:00 PM'
     - 'Wednesday: 11:30 AM – 10:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 11:00 PM'
     - 'Saturday: 11:30 AM – 11:00 PM'
     - 'Sunday: 11:30 AM – 10:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 10:00 PM'
-    - 'Tuesday: 11:30 AM – 10:00 PM'
-    - 'Wednesday: 11:30 AM – 10:00 PM'
-    - 'Thursday: 11:30 AM – 10:00 PM'
-    - 'Friday: 11:30 AM – 11:00 PM'
-    - 'Saturday: 11:30 AM – 11:00 PM'
-    - 'Sunday: 11:30 AM – 10:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +246,50 @@ phone: (718) 338-1038
 price_level: PRICE_LEVEL_MODERATE
 price_range: $30 &ndash; $50
 rating: '4.2'
-rating_count: 0
+rating_count: 935
 website: https://www.esushi2.com/
+description: >-
+  Discover E Sushi II in Brooklyn, NY$$$E Sushi II in Brooklyn, NY, stands out
+  as a welcoming spot for sushi enthusiasts seeking a relaxed dining experience.
+  This casual restaurant features an all-you-can-eat menu packed with fresh
+  sushi rolls, sashimi, and a variety of hot Japanese-inspired dishes, making it
+  a go-to choice for those exploring top sushi options in the area.
+  Complementing the meal selections is a thoughtful sake menu that adds an
+  authentic touch to every visit, ideal for anyone craving flavorful Japanese
+  cuisine nearby. The spot's accessible entrance and seating ensure a
+  comfortable atmosphere for a wide range of diners, while its daily hours from
+  late morning to evening cater to both lunch crowds and dinner seekers. With
+  its moderate pricing, E Sushi II offers great value for anyone looking to
+  enjoy quality Japanese fare without breaking the bank.
+generative_summary: >-
+  Discover E Sushi II in Brooklyn, NY$$$E Sushi II in Brooklyn, NY, stands out
+  as a welcoming spot for sushi enthusiasts seeking a relaxed dining experience.
+  This casual restaurant features an all-you-can-eat menu packed with fresh
+  sushi rolls, sashimi, and a variety of hot Japanese-inspired dishes, making it
+  a go-to choice for those exploring top sushi options in the area.
+  Complementing the meal selections is a thoughtful sake menu that adds an
+  authentic touch to every visit, ideal for anyone craving flavorful Japanese
+  cuisine nearby. The spot's accessible entrance and seating ensure a
+  comfortable atmosphere for a wide range of diners, while its daily hours from
+  late morning to evening cater to both lunch crowds and dinner seekers. With
+  its moderate pricing, E Sushi II offers great value for anyone looking to
+  enjoy quality Japanese fare without breaking the bank.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About E Sushi II$$$Folks generally rave about the
+  fresh flavors and generous portions at this spot, with many highlighting the
+  all-you-can-eat deals as a solid win for sushi lovers on a budget. It's clear
+  from the feedback that the variety of rolls and hot dishes keeps things
+  exciting, though a few mention waits during peak times as a minor downside
+  that's easy to overlook. Overall, visitors appreciate the welcoming vibe and
+  consistent quality, often noting it as a reliable pick for casual group
+  outings or solo meals. The solid rating reflects praise for the attentive
+  service and tasty options that make it feel like a neighborhood favorite. If
+  you're hunting for dependable Japanese dining spots nearby, this place seems
+  to deliver a satisfying experience that leaves most people coming back for
+  more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +315,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

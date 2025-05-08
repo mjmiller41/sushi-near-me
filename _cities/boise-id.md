@@ -5,4 +5,5 @@ permalink: /idaho/boise/
 stateAbbr: ID
 stateName: Idaho
 cityName: Boise
+
 ---

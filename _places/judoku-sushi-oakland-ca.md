@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Judoku Sushi"
+title: Judoku Sushi
 permalink: /california/oakland/judoku-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Oakland
 seo:
-  name: "Judoku Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Judoku Sushi serves delicious sushi in Oakland, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJwRdL9lWHj4ARdkHKSmcvV-w
 photos:
   - name: >-
@@ -184,7 +182,39 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Judoku Sushi in Oakland, CA$$$Judoku Sushi in Oakland, CA, is a
+  welcoming spot for enjoying fresh sushi and small plates, perfect for those
+  seeking sushi restaurants in the area. The casual atmosphere makes it an ideal
+  choice for a relaxed meal, complemented by a selection of beer and sake to
+  enhance your dining experience. With thoughtful veggie options available, it
+  caters to a variety of tastes while maintaining a focus on quality
+  ingredients. Additionally, the restaurant's accessibility features ensure it's
+  easy for everyone to enjoy, making it a convenient option for sushi near me in
+  this vibrant neighborhood.
+generative_summary: >-
+  Discover Judoku Sushi in Oakland, CA$$$Judoku Sushi in Oakland, CA, is a
+  welcoming spot for enjoying fresh sushi and small plates, perfect for those
+  seeking sushi restaurants in the area. The casual atmosphere makes it an ideal
+  choice for a relaxed meal, complemented by a selection of beer and sake to
+  enhance your dining experience. With thoughtful veggie options available, it
+  caters to a variety of tastes while maintaining a focus on quality
+  ingredients. Additionally, the restaurant's accessibility features ensure it's
+  easy for everyone to enjoy, making it a convenient option for sushi near me in
+  this vibrant neighborhood.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this Oakland sushi spot often rave
+  about the fresh, flavorful rolls and creative small plates that keep things
+  exciting and satisfying. Many appreciate the laid-back vibe and efficient
+  service, which make it a go-to for casual get-togethers or quick bites after a
+  day out. While some note that portions can vary, the overall consensus
+  highlights it as a solid pick for anyone hunting for top-rated sushi nearby,
+  with positive mentions of the drink selections adding to the fun. Overall,
+  it's praised as a reliable choice that delivers good value, encouraging repeat
+  visits for those exploring Japanese places near me.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +240,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

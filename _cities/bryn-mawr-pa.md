@@ -5,4 +5,5 @@ permalink: /pennsylvania/bryn-mawr/
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Bryn Mawr
+
 ---

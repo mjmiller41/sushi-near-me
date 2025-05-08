@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Lee's Sushi"
+title: Lee's Sushi
 permalink: /new-jersey/wayne/lee-s-sushi.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Wayne
 seo:
-  name: "Lee's Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://leesushiwayne.com/
-description: "Informal, family-friendly destination for hand rolls plus other Japanese & Korean standard dishes. Lee's Sushi serves delicious sushi in Wayne, New Jersey. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ_3XU6rUDw4kR7QEXlrdCDtM
 photos:
   - name: >-
@@ -143,7 +141,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC65vrm2AE!2e10!4m2!3m1!1s0x89c303b5ead475ff:0xd30e42b7961701ed
 address: Glen Ridge Shopping Center, 1475 NJ-23, Wayne, NJ 07470, USA
-street: Glen Ridge Shopping Center, 1475 NJ-23
+street: Glen Ridge Shopping Center,1475 NJ-23
 city: Wayne
 state: NJ
 zip: '07470'
@@ -185,6 +183,27 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 0
 website: https://leesushiwayne.com/
+description: >-
+  About Lee's Sushi in Wayne, NJ$$$Lee's Sushi in Wayne, NJ, offers a welcoming
+  spot for enjoying fresh Japanese dishes in a casual setting. This sushi
+  restaurant combines traditional favorites like sushi and sashimi with
+  flavorful Korean options, making it a versatile choice for diners seeking
+  authentic Asian flavors. The spot stands out for its accessible features,
+  including wheelchair-friendly entrances and ample parking, ensuring everyone
+  can enjoy a comfortable visit. With generous portions and a family-friendly
+  vibe, it's ideal for quick lunches or relaxed dinners, appealing to those
+  exploring top-rated sushi options nearby.
+generative_summary: >-
+  About Lee's Sushi in Wayne, NJ$$$Lee's Sushi in Wayne, NJ, offers a welcoming
+  spot for enjoying fresh Japanese dishes in a casual setting. This sushi
+  restaurant combines traditional favorites like sushi and sashimi with
+  flavorful Korean options, making it a versatile choice for diners seeking
+  authentic Asian flavors. The spot stands out for its accessible features,
+  including wheelchair-friendly entrances and ample parking, ensuring everyone
+  can enjoy a comfortable visit. With generous portions and a family-friendly
+  vibe, it's ideal for quick lunches or relaxed dinners, appealing to those
+  exploring top-rated sushi options nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ_3XU6rUDw4kR7QEXlrdCDtM/reviews/ChZDSUhNMG9nS0VJQ0FnTUNReHRuOUp3EAE
@@ -382,6 +401,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUMxeFBXa2FREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUMxeFBXa2FREAE!2m1!1s0x89c303b5ead475ff:0xd30e42b7961701ed
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this sushi spot often highlight the
+  generous portions and friendly service that make meals feel worthwhile and
+  affordable. Many enjoy the variety of specialty rolls and Korean-inspired
+  dishes, praising the fresh flavors that keep people coming back for more.
+  While most experiences are positive, a few note occasional inconsistencies
+  with food freshness, but overall, the value and taste win out for a satisfying
+  dine-in or takeout option. If you're searching for reliable sushi places near
+  you, this location delivers on taste and convenience, making it a go-to for
+  casual eaters. In summary, it's a solid pick that balances everyday enjoyment
+  with memorable bites, encouraging repeat visits from locals.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -413,8 +444,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Informal, family-friendly destination for hand rolls plus other Japanese &
   Korean standard dishes.
 

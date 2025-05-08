@@ -5,4 +5,5 @@ permalink: /arkansas/springdale/
 stateAbbr: AR
 stateName: Arkansas
 cityName: Springdale
+
 ---

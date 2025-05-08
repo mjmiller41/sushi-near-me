@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Jako"
+title: Sushi Jako
 permalink: /virginia/harrisonburg/sushi-jako.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Harrisonburg
 seo:
-  name: "Sushi Jako"
-  type: Restaurant
-  links: null
-description: "Sushi Jako serves delicious sushi in Harrisonburg, Virginia. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://bsdesign12.wixsite.com/sushijako
 place_id: ChIJC-XtupuStIkRUfCrbkGfA1Q
 photos:
   - name: >-
@@ -170,8 +168,97 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89b4929bbaede50b:0x54039f416eabf051!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 4:30 – 9:00 PM'
+    - 'Tuesday: 11:30 AM – 2:30 PM, 4:30 – 9:00 PM'
+    - 'Wednesday: 11:30 AM – 2:30 PM, 4:30 – 9:00 PM'
+    - 'Thursday: 11:30 AM – 2:30 PM, 4:30 – 9:00 PM'
+    - 'Friday: 11:30 AM – 2:30 PM, 4:30 – 9:00 PM'
+    - 'Saturday: 12:00 – 9:00 PM'
+    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T01:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +266,49 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (540) 434-7278
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.7'
+rating_count: 428
+website: https://bsdesign12.wixsite.com/sushijako
+description: >-
+  Discover Sushi in Harrisonburg, VA$$$Sushi Jako in Harrisonburg, VA, offers a
+  relaxed and inviting atmosphere for those seeking authentic Japanese flavors
+  right in the heart of the city. This cozy spot specializes in fresh sushi
+  rolls, hearty bulgogi, and a range of vegetarian choices that cater to diverse
+  tastes, making it a go-to for casual dining experiences. With its accessible
+  entrance and seating, it's designed to welcome everyone looking for a
+  comfortable meal, complemented by moderate pricing that fits everyday budgets.
+  The restaurant's flexible hours ensure you can enjoy these delightful options
+  whether you're stopping by for a quick lunch or an evening unwind, adding to
+  its appeal as a reliable local favorite for Japanese cuisine enthusiasts.
+generative_summary: >-
+  Discover Sushi in Harrisonburg, VA$$$Sushi Jako in Harrisonburg, VA, offers a
+  relaxed and inviting atmosphere for those seeking authentic Japanese flavors
+  right in the heart of the city. This cozy spot specializes in fresh sushi
+  rolls, hearty bulgogi, and a range of vegetarian choices that cater to diverse
+  tastes, making it a go-to for casual dining experiences. With its accessible
+  entrance and seating, it's designed to welcome everyone looking for a
+  comfortable meal, complemented by moderate pricing that fits everyday budgets.
+  The restaurant's flexible hours ensure you can enjoy these delightful options
+  whether you're stopping by for a quick lunch or an evening unwind, adding to
+  its appeal as a reliable local favorite for Japanese cuisine enthusiasts.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Buzz Around Local Sushi Spots$$$Folks searching for top-rated sushi near
+  Harrisonburg often highlight the fresh ingredients and creative rolls that
+  make meals here feel special, with many praising the variety that includes
+  satisfying vegetarian picks. While some note the cozy vibe enhances the
+  overall experience, others appreciate how the service keeps things smooth and
+  enjoyable without overwhelming fuss. Overall, the high marks from diners
+  suggest this spot delivers consistent quality that lives up to expectations
+  for Japanese places close to home, making it a solid choice for anyone craving
+  reliable flavors. If you're exploring sushi restaurants in the area, the
+  positive feedback leans towards it being a hidden gem worth trying for its
+  balance of taste and affordability.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +334,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

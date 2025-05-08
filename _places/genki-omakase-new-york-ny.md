@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Genki omakase"
+title: Genki omakase
 permalink: /new-york/new-york/genki-omakase.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "Genki omakase"
-  type: Restaurant
+  type: restaurant
   links: http://www.genkiomakase.com/
-description: "Genki omakase serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for, lunch, and dinner."
 place_id: ChIJx232mt9ZwokR7MuLz8Vpqr0
 photos:
   - name: >-
@@ -182,6 +180,35 @@ price_range: $50 &ndash; $100
 rating: '4.8'
 rating_count: 0
 website: http://www.genkiomakase.com/
+description: >-
+  Experience Genki Omakase in New York, NY$$$Genki Omakase in New York, NY,
+  stands out as a casual Japanese eatery offering fresh sushi and a variety of
+  dishes perfect for lunch or dinner, drawing in those seeking top-rated sushi
+  options in the city. This spot delivers an authentic omakase experience with
+  carefully prepared courses that highlight high-quality ingredients and
+  thoughtful flavors, all at an impressive value. Located near bustling areas
+  like Washington Square Park, it's an ideal choice for anyone exploring sushi
+  restaurants nearby who appreciates efficiency without sacrificing taste. The
+  intimate setting allows diners to enjoy a streamlined meal, making it a go-to
+  for those in search of reliable Japanese places near me. With its focus on
+  fresh seafood and simple yet elegant presentations, Genki Omakase provides a
+  satisfying escape for sushi lovers looking to savor the best of Japanese
+  cuisine.
+generative_summary: >-
+  Experience Genki Omakase in New York, NY$$$Genki Omakase in New York, NY,
+  stands out as a casual Japanese eatery offering fresh sushi and a variety of
+  dishes perfect for lunch or dinner, drawing in those seeking top-rated sushi
+  options in the city. This spot delivers an authentic omakase experience with
+  carefully prepared courses that highlight high-quality ingredients and
+  thoughtful flavors, all at an impressive value. Located near bustling areas
+  like Washington Square Park, it's an ideal choice for anyone exploring sushi
+  restaurants nearby who appreciates efficiency without sacrificing taste. The
+  intimate setting allows diners to enjoy a streamlined meal, making it a go-to
+  for those in search of reliable Japanese places near me. With its focus on
+  fresh seafood and simple yet elegant presentations, Genki Omakase provides a
+  satisfying escape for sushi lovers looking to savor the best of Japanese
+  cuisine.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJx232mt9ZwokR7MuLz8Vpqr0/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3c0t5TVNREAE
@@ -361,6 +388,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN2MktqR213RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN2MktqR213RRAB!2m1!1s0x89c259df9af66dc7:0xbdaa69c5cf8bcbec
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors often highlight the fantastic value
+  of the omakase menu, praising the fresh fish and creative dishes that make for
+  a memorable meal without a hefty price tag. Many appreciate the efficient
+  service that keeps things moving smoothly, allowing for a quick yet enjoyable
+  dining experience that doesn't feel rushed. While some note the pace is on the
+  faster side, it's generally seen as a plus for those with busy schedules,
+  letting them dive right into highlights like premium uni and otoro. Overall,
+  the consensus leans positive, with folks loving how the spot balances quality
+  ingredients and attentive staff to create a welcoming vibe. If you're hunting
+  for sushi close to me that's both affordable and delicious, this place
+  delivers a solid, crowd-pleasing option that keeps diners coming back for
+  more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: false
   freeStreetParking: true
@@ -394,7 +435,7 @@ serves_lunch: true
 serves_vegetarian_food: false
 serves_wine: true
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "YUKI Handroll Bar"
+title: YUKI Handroll Bar
 permalink: /texas/austin/yuki-handroll-bar.html
 stateAbbr: TX
 stateName: Texas
 cityName: Austin
 seo:
-  name: "YUKI Handroll Bar"
-  type: Restaurant
+  type: restaurant
   links: http://yukihandroll.com/
-description: "YUKI Handroll Bar serves delicious sushi in Austin, Texas. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJAykSq3A1W4YRYca6HwwrKXw
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $30 &ndash; $50
 rating: '4.5'
 rating_count: 0
 website: http://yukihandroll.com/
+description: >-
+  Discover YUKI Handroll Bar in Austin, TX$$$YUKI Handroll Bar in Austin, TX,
+  stands out as a casual spot for enjoying fresh sushi and sashimi in a relaxed
+  atmosphere. This eatery offers a selection of hand rolls, starters, and
+  Japanese-inspired dishes, complemented by beverages like beer, wine, and sake,
+  making it ideal for a laid-back meal. With its accessible features including
+  wheelchair-friendly parking and seating, it's designed to welcome everyone
+  seeking quality dining options. The menu highlights top-notch ingredients that
+  elevate simple rolls into memorable bites, appealing to those exploring sushi
+  restaurants in the area. For anyone hunting for the best sushi near me, this
+  place delivers a straightforward yet enjoyable experience that captures the
+  essence of Japanese cuisine.
+generative_summary: >-
+  Discover YUKI Handroll Bar in Austin, TX$$$YUKI Handroll Bar in Austin, TX,
+  stands out as a casual spot for enjoying fresh sushi and sashimi in a relaxed
+  atmosphere. This eatery offers a selection of hand rolls, starters, and
+  Japanese-inspired dishes, complemented by beverages like beer, wine, and sake,
+  making it ideal for a laid-back meal. With its accessible features including
+  wheelchair-friendly parking and seating, it's designed to welcome everyone
+  seeking quality dining options. The menu highlights top-notch ingredients that
+  elevate simple rolls into memorable bites, appealing to those exploring sushi
+  restaurants in the area. For anyone hunting for the best sushi near me, this
+  place delivers a straightforward yet enjoyable experience that captures the
+  essence of Japanese cuisine.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJAykSq3A1W4YRYca6HwwrKXw/reviews/ChZDSUhNMG9nS0VJQ0FnTUNnc3JYMEZREAE
@@ -348,6 +371,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURieDRlZXlRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURieDRlZXlRRRAB!2m1!1s0x865b3570ab122903:0x7c292b0c1fbac661
+review_summary: >-
+  What Customers Are Saying$$$Folks who visit YUKI Handroll Bar often praise the
+  fresh fish and tasty hand rolls that make for a fun and satisfying meal,
+  perfect for casual outings or date nights. Many appreciate the attentive
+  service and reasonable prices, noting how it adds up to a welcoming vibe
+  that's easy to enjoy. While most experiences highlight the high-quality
+  ingredients and overall atmosphere, a few mention occasional inconsistencies
+  with portions, but these don't overshadow the positives. Overall, it's a spot
+  that keeps drawing people back for its unique take on sushi, blending
+  simplicity with great flavors. If you're on the hunt for sushi places near me,
+  this one comes across as a solid choice that delivers on freshness and fun
+  without any major letdowns.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -377,7 +413,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

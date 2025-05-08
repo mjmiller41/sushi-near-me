@@ -5,4 +5,5 @@ permalink: /california/north-hollywood/
 stateAbbr: CA
 stateName: California
 cityName: North Hollywood
+
 ---

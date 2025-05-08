@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Shojin"
+title: Shojin
 permalink: /california/los-angeles/shojin.html
 stateAbbr: CA
 stateName: California
 cityName: Los Angeles
 seo:
-  name: "Shojin"
-  type: Restaurant
+  type: restaurant
   links: http://www.theshojin.com/
-description: "Upscale eatery offering creative macrobiotic & vegan Japanese dishes, plus saki & wine. Shojin serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJQ5t7EGa6woARF68rhqYIX5k
 photos:
   - name: >-
@@ -184,6 +182,31 @@ price_range: $50 &ndash; $100
 rating: '4.5'
 rating_count: 0
 website: http://www.theshojin.com/
+description: >-
+  Discover Shojin in Los Angeles, CA$$$Shojin in Los Angeles, CA, stands out as
+  an upscale vegan restaurant offering a creative twist on Japanese cuisine that
+  appeals to those seeking fresh, plant-based options. This cozy spot features a
+  tasting menu and small plates of innovative dishes, including flavorful vegan
+  sushi that highlights seasonal ingredients and macrobiotic principles. Diners
+  can enjoy an intimate atmosphere with thoughtful accessibility features,
+  making it a welcoming choice for a variety of preferences. The menu also
+  includes selections like sake and wine, paired perfectly with the light,
+  health-focused fare. For anyone exploring sushi restaurants near me or
+  top-rated Japanese places in the area, Shojin delivers a memorable dining
+  experience that emphasizes quality and creativity.
+generative_summary: >-
+  Discover Shojin in Los Angeles, CA$$$Shojin in Los Angeles, CA, stands out as
+  an upscale vegan restaurant offering a creative twist on Japanese cuisine that
+  appeals to those seeking fresh, plant-based options. This cozy spot features a
+  tasting menu and small plates of innovative dishes, including flavorful vegan
+  sushi that highlights seasonal ingredients and macrobiotic principles. Diners
+  can enjoy an intimate atmosphere with thoughtful accessibility features,
+  making it a welcoming choice for a variety of preferences. The menu also
+  includes selections like sake and wine, paired perfectly with the light,
+  health-focused fare. For anyone exploring sushi restaurants near me or
+  top-rated Japanese places in the area, Shojin delivers a memorable dining
+  experience that emphasizes quality and creativity.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJQ5t7EGa6woARF68rhqYIX5k/reviews/ChdDSUhNMG9nS0VJQ0FnSUQzeGY2N3RBRRAB
@@ -357,6 +380,21 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURnd2NMV0p3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURnd2NMV0p3EAE!2m1!1s0x80c2ba66107b9b43:0x995f08a6862baf17
+review_summary: >-
+  What Visitors Are Saying About This Sushi Gem$$$Folks who visit this spot
+  often rave about the creative and delicious vegan dishes that make every meal
+  feel special and well worth the investment. Many appreciate the attentive
+  service that turns dinners into memorable occasions, especially for
+  celebrations like anniversaries or birthdays, with staff going out of their
+  way to add personal touches. Reviewers frequently highlight the thoughtful
+  presentation and variety of flavors in the tasting menus and small plates,
+  noting how the food strikes a perfect balance of innovation and taste without
+  feeling overly pricey. Overall, it's clear that guests find this place a
+  standout for its warm vibe and high-quality offerings, making it a go-to
+  recommendation for anyone hunting for the best sushi near me. If you're in the
+  mood for a relaxed yet refined meal, this restaurant consistently delivers a
+  positive experience that leaves people eager to return.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeStreetParking: true
   paidStreetParking: true
@@ -388,8 +426,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Upscale eatery offering creative macrobiotic & vegan Japanese dishes, plus
   saki & wine.
 

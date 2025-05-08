@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Hana Dragon Restaurant"
+title: Hana Dragon Restaurant
 permalink: /illinois/chicago/hana-dragon-restaurant.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
 seo:
-  name: "Hana Dragon Restaurant"
-  type: Restaurant
-  links: null
-description: "Hana Dragon Restaurant serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.hanadragonil.com/
 place_id: ChIJPQGrvhotDogRw9dJIdwhmNE
 photos:
   - name: >-
@@ -167,8 +165,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x880e2d1abeab013d:0xd19821dc2149d7c3!10e5
 primary_type: Asian Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: Closed'
+    - 'Tuesday: 11:00 AM – 10:00 PM'
+    - 'Wednesday: 11:00 AM – 10:00 PM'
+    - 'Thursday: 11:00 AM – 10:00 PM'
+    - 'Friday: 11:00 AM – 10:30 PM'
+    - 'Saturday: 11:00 AM – 10:30 PM'
+    - 'Sunday: 12:00 – 10:00 PM'
+  nextCloseTime: '2025-05-04T03:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -176,13 +231,51 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (312) 226-8117
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.1'
+rating_count: 77
+website: http://www.hanadragonil.com/
+description: >-
+  Discover Hana Dragon Restaurant in Chicago, IL$$$Hana Dragon Restaurant in
+  Chicago, IL, stands out as a welcoming Asian eatery known for its diverse menu
+  that includes fresh sushi and flavorful Chinese and Thai dishes. Nestled in
+  the vibrant Little Italy neighborhood, this spot offers a comfortable setting
+  ideal for casual meals, with options that cater to various tastes and dietary
+  needs. Patrons can enjoy a variety of sushi rolls and specialties that make it
+  a great choice for those searching for quality Asian cuisine nearby. The
+  restaurant's moderate pricing and wheelchair-accessible features add to its
+  appeal, making it accessible for a wide range of visitors. Open during
+  evenings and weekends, it's a convenient option for anyone craving authentic
+  flavors in a relaxed environment.
+generative_summary: >-
+  Discover Hana Dragon Restaurant in Chicago, IL$$$Hana Dragon Restaurant in
+  Chicago, IL, stands out as a welcoming Asian eatery known for its diverse menu
+  that includes fresh sushi and flavorful Chinese and Thai dishes. Nestled in
+  the vibrant Little Italy neighborhood, this spot offers a comfortable setting
+  ideal for casual meals, with options that cater to various tastes and dietary
+  needs. Patrons can enjoy a variety of sushi rolls and specialties that make it
+  a great choice for those searching for quality Asian cuisine nearby. The
+  restaurant's moderate pricing and wheelchair-accessible features add to its
+  appeal, making it accessible for a wide range of visitors. Open during
+  evenings and weekends, it's a convenient option for anyone craving authentic
+  flavors in a relaxed environment.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors to Hana Dragon Restaurant often highlight
+  the fresh and tasty sushi as a standout feature, with many appreciating the
+  variety of Asian dishes that deliver on flavor and value. Feedback frequently
+  mentions the comfortable atmosphere and solid portions, making it a go-to spot
+  for casual group outings or quick meals. While the overall experience earns
+  praise for its affordability and welcoming vibe, some notes suggest occasional
+  inconsistencies in service speed during busier times. All in all, the 4.1
+  rating from numerous reviews points to a reliable choice for those exploring
+  sushi restaurants in the area. If you're on the hunt for top-rated Asian fare
+  close to you, this place generally leaves diners satisfied and eager to
+  return.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -208,7 +301,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

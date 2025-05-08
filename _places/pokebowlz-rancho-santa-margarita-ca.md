@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "PokeBowlz"
+title: PokeBowlz
 permalink: /california/rancho-santa-margarita/pokebowlz.html
 stateAbbr: CA
 stateName: California
 cityName: Rancho Santa Margarita
 seo:
-  name: "PokeBowlz"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "PokeBowlz serves delicious sushi in Rancho Santa Margarita, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJIYQylQfr3IARSwxoqy7HJrk
 photos:
   - name: >-
@@ -185,7 +183,43 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover PokeBowlz in Rancho Santa Margarita, CA$$$PokeBowlz in Rancho Santa
+  Margarita, CA, offers a relaxed dining experience centered around fresh
+  Hawaiian-inspired dishes that highlight customizable poke bowls with various
+  protein options. This casual eatery emphasizes accessibility features like
+  wheelchair-friendly parking and entrances, making it welcoming for all
+  visitors seeking a quick and enjoyable meal. Patrons can enjoy a variety of
+  fresh seafood selections, prepared with quality ingredients that bring out the
+  vibrant flavors of Hawaiian fare. The spot's straightforward atmosphere pairs
+  well with its focus on healthy, build-your-own options, appealing to those
+  looking for lighter, flavorful alternatives to traditional fast-casual dining.
+generative_summary: >-
+  Discover PokeBowlz in Rancho Santa Margarita, CA$$$PokeBowlz in Rancho Santa
+  Margarita, CA, offers a relaxed dining experience centered around fresh
+  Hawaiian-inspired dishes that highlight customizable poke bowls with various
+  protein options. This casual eatery emphasizes accessibility features like
+  wheelchair-friendly parking and entrances, making it welcoming for all
+  visitors seeking a quick and enjoyable meal. Patrons can enjoy a variety of
+  fresh seafood selections, prepared with quality ingredients that bring out the
+  vibrant flavors of Hawaiian fare. The spot's straightforward atmosphere pairs
+  well with its focus on healthy, build-your-own options, appealing to those
+  looking for lighter, flavorful alternatives to traditional fast-casual dining.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Visitor Feedback Highlights$$$While specific reviews for this spot are
+  limited, feedback from similar fresh Hawaiian-style eateries often praises the
+  creative poke bowl combinations and generous portions that keep customers
+  coming back for more. Diners frequently note the welcoming vibe and efficient
+  service, making it a solid choice for anyone craving a healthy, customizable
+  meal on the go. Overall, the emphasis on fresh ingredients and variety tends
+  to earn positive nods from those exploring local options, with many
+  appreciating how it fits into a busy lifestyle without sacrificing taste.
+  Though experiences can vary, the general consensus leans toward satisfaction,
+  especially for families or individuals seeking quick, tasty dishes in a
+  laid-back setting.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +245,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

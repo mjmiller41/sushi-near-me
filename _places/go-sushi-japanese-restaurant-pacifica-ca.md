@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Go Sushi Japanese Restaurant"
+title: Go Sushi Japanese Restaurant
 permalink: /california/pacifica/go-sushi-japanese-restaurant.html
 stateAbbr: CA
 stateName: California
 cityName: Pacifica
 seo:
-  name: "Go Sushi Japanese Restaurant"
-  type: Restaurant
+  type: restaurant
   links: https://gosushitogo.com/
-description: "Relaxed place with paper lanterns highlighting an extensive Japanese menu plus wine, sake & beer. Go Sushi Japanese Restaurant serves delicious sushi in Pacifica, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJs0YDOlR6j4ARHBVhsh5QdsI
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $20 &ndash; $30
 rating: '4.0'
 rating_count: 0
 website: https://gosushitogo.com/
+description: >-
+  Explore Go Sushi in Pacifica, CA$$$Go Sushi Japanese Restaurant in Pacifica,
+  CA, provides a casual and welcoming spot for enjoying authentic Japanese
+  flavors. With an extensive menu featuring fresh sushi rolls, bento boxes, and
+  teriyaki dishes, it's ideal for those seeking quality Japanese dining options
+  nearby. The relaxed atmosphere, enhanced by simple decor like paper lanterns,
+  pairs well with a selection of beer and wine for a complete meal experience.
+  Accessibility features, such as wheelchair-friendly entrances and seating,
+  make it convenient for all guests. For anyone looking for top-rated sushi
+  restaurants in the area, this spot delivers flavorful options at moderate
+  prices, perfect for a satisfying outing.
+generative_summary: >-
+  Explore Go Sushi in Pacifica, CA$$$Go Sushi Japanese Restaurant in Pacifica,
+  CA, provides a casual and welcoming spot for enjoying authentic Japanese
+  flavors. With an extensive menu featuring fresh sushi rolls, bento boxes, and
+  teriyaki dishes, it's ideal for those seeking quality Japanese dining options
+  nearby. The relaxed atmosphere, enhanced by simple decor like paper lanterns,
+  pairs well with a selection of beer and wine for a complete meal experience.
+  Accessibility features, such as wheelchair-friendly entrances and seating,
+  make it convenient for all guests. For anyone looking for top-rated sushi
+  restaurants in the area, this spot delivers flavorful options at moderate
+  prices, perfect for a satisfying outing.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJs0YDOlR6j4ARHBVhsh5QdsI/reviews/ChdDSUhNMG9nS0VJQ0FnSURCd0l5cTJRRRAB
@@ -356,6 +377,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMxMnRPbzFRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMxMnRPbzFRRRAB!2m1!1s0x808f7a543a0346b3:0xc276501eb261151c
+review_summary: >-
+  Insights from Customer Feedback$$$Folks at this sushi spot in Pacifica often
+  highlight the tasty rolls and generous portions as standout features, making
+  it a solid pick for casual Japanese meals. While the service can vary
+  depending on the time of day, many appreciate the friendly vibe and quick
+  takeout options that keep things easygoing. Fresh ingredients and good value
+  for the price draw in repeat visitors, especially for those hunting for
+  reliable sushi places nearby. Overall, it's a welcoming choice for families or
+  groups, with the cozy setup adding a nice touch despite occasional busyness.
+  If you're in the mood for quality sushi near me, this restaurant offers a
+  generally positive experience worth trying.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -388,8 +421,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Relaxed place with paper lanterns highlighting an extensive Japanese menu plus
   wine, sake & beer.
 

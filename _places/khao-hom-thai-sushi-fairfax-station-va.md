@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Khao Hom Thai & Sushi"
+title: Khao Hom Thai & Sushi
 permalink: /virginia/fairfax-station/khao-hom-thai-sushi.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Fairfax Station
 seo:
-  name: "Khao Hom Thai & Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.khaohomthaiandsushiva.com/
-description: "Khao Hom Thai & Sushi serves delicious sushi in Fairfax Station, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJo60uUjFPtokRolea4YtasgA
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 0
 website: http://www.khaohomthaiandsushiva.com/
+description: >-
+  Explore Khao Hom Thai & Sushi in Fairfax Station, VA$$$Nestled in Fairfax
+  Station, VA, Khao Hom Thai & Sushi offers a welcoming spot for those seeking a
+  blend of authentic Thai flavors and fresh sushi options in a casual setting.
+  This restaurant shines with its selection of hearty Thai dishes like flavorful
+  drunken noodles and crispy spring rolls, paired with high-quality sushi that
+  appeals to local diners looking for variety. The venue boasts accessible
+  features such as wheelchair-friendly entrances and parking, making it easy for
+  everyone to enjoy a relaxed meal. With moderate pricing and options for both
+  dine-in and takeout, it's an ideal choice for anyone exploring sushi
+  restaurants near me or Japanese-inspired places in the area. Its efficient
+  service and inviting atmosphere add to the overall charm, ensuring a pleasant
+  experience for all.
+generative_summary: >-
+  Explore Khao Hom Thai & Sushi in Fairfax Station, VA$$$Nestled in Fairfax
+  Station, VA, Khao Hom Thai & Sushi offers a welcoming spot for those seeking a
+  blend of authentic Thai flavors and fresh sushi options in a casual setting.
+  This restaurant shines with its selection of hearty Thai dishes like flavorful
+  drunken noodles and crispy spring rolls, paired with high-quality sushi that
+  appeals to local diners looking for variety. The venue boasts accessible
+  features such as wheelchair-friendly entrances and parking, making it easy for
+  everyone to enjoy a relaxed meal. With moderate pricing and options for both
+  dine-in and takeout, it's an ideal choice for anyone exploring sushi
+  restaurants near me or Japanese-inspired places in the area. Its efficient
+  service and inviting atmosphere add to the overall charm, ensuring a pleasant
+  experience for all.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJo60uUjFPtokRolea4YtasgA/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJOG91OC1nRRAB
@@ -340,6 +365,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURCOVAyOXhBRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURCOVAyOXhBRRAB!2m1!1s0x89b64f31522eada3:0xb25a8be19a57a2
+review_summary: >-
+  Insights from Recent Reviews$$$Visitors often praise Khao Hom Thai & Sushi for
+  its tasty Thai dishes and solid sushi selections, making it a go-to spot for
+  folks searching for reliable options like top-rated sushi nearby. While some
+  folks mention that portions can feel a bit small or service might slow down
+  during busy times, the overall vibe remains positive with highlights on
+  friendly staff and a cozy environment that keeps things welcoming. Many
+  appreciate the flavorful highlights like cashew chicken and unique drinks,
+  which add a fun twist to meals and leave diners satisfied. It's clear that the
+  combination of fresh ingredients and attentive care makes this place worth
+  trying, even if a few details could use a tweak for even better consistency.
+  All in all, if you're in the mood for quality sushi places near me, this spot
+  delivers a generally enjoyable experience with room for small improvements.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -372,7 +411,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

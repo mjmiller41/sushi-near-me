@@ -5,4 +5,5 @@ permalink: /massachusetts/foxborough/
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Foxborough
+
 ---

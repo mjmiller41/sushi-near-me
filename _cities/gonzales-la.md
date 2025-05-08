@@ -5,4 +5,5 @@ permalink: /louisiana/gonzales/
 stateAbbr: LA
 stateName: Louisiana
 cityName: Gonzales
+
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Green Leaf"
+title: Green Leaf
 permalink: /maryland/cockeysville/green-leaf.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Cockeysville
 seo:
-  name: "Green Leaf"
-  type: Restaurant
-  links: null
-description: "Green Leaf serves delicious sushi in Cockeysville, Maryland. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://greenleafcuisine.com/
 place_id: ChIJA9mzn30SyIkRKLMEcIG-ny0
 photos:
   - name: >-
@@ -170,8 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c8127d9fb3d903:0x2d9fbe817004b328!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 15
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: Closed'
+    - 'Tuesday: 11:30 AM – 9:30 PM'
+    - 'Wednesday: 11:30 AM – 9:30 PM'
+    - 'Thursday: 11:30 AM – 9:30 PM'
+    - 'Friday: 11:30 AM – 9:30 PM'
+    - 'Saturday: 12:00 – 9:30 PM'
+    - 'Sunday: 3:00 – 9:30 PM'
+  nextCloseTime: '2025-05-04T01:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +234,46 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (410) 771-0030
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.3'
+rating_count: 263
+website: https://greenleafcuisine.com/
+description: >-
+  Discover Green Leaf in Cockeysville, MD$$$Green Leaf in Cockeysville, MD,
+  stands out as a laid-back Japanese eatery nestled in a convenient strip mall,
+  where diners can savor generous servings of expertly prepared specialties. The
+  spot highlights fresh flavors of traditional Japanese dishes, making it a
+  go-to for those exploring sushi options in the area. With its accessible
+  features and welcoming vibe, it caters to a variety of preferences, ensuring
+  everyone feels at ease. Operating with flexible hours, including evenings and
+  weekends, this restaurant delivers a solid mix of affordability and quality,
+  ideal for anyone seeking reliable Japanese cuisine nearby.
+generative_summary: >-
+  Discover Green Leaf in Cockeysville, MD$$$Green Leaf in Cockeysville, MD,
+  stands out as a laid-back Japanese eatery nestled in a convenient strip mall,
+  where diners can savor generous servings of expertly prepared specialties. The
+  spot highlights fresh flavors of traditional Japanese dishes, making it a
+  go-to for those exploring sushi options in the area. With its accessible
+  features and welcoming vibe, it caters to a variety of preferences, ensuring
+  everyone feels at ease. Operating with flexible hours, including evenings and
+  weekends, this restaurant delivers a solid mix of affordability and quality,
+  ideal for anyone seeking reliable Japanese cuisine nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Customer Reviews$$$Visitors often praise the fresh sushi and
+  hearty portions at this casual spot, noting it as a solid pick for satisfying
+  meals without breaking the bank. Many highlight the friendly service and cozy
+  atmosphere that make dining here feel approachable and enjoyable, even for
+  first-timers. While some mention the strip mall location keeps things simple,
+  the overall food quality and value shine through in the feedback. The high
+  rating suggests consistent positives like great flavors and quick service,
+  helping it stand out among local Japanese options. If you're on the hunt for
+  dependable sushi places near you, this one frequently gets nods for delivering
+  a reliably good experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +299,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

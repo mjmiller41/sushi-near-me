@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Boat Town"
+title: Sushi Boat Town
 permalink: /california/san-jose/sushi-boat-town.html
 stateAbbr: CA
 stateName: California
 cityName: San Jose
 seo:
-  name: "Sushi Boat Town"
-  type: Restaurant
+  type: restaurant
   links: https://sushiboattown.menu11.com/
-description: "Sushi Boat Town serves delicious sushi in San Jose, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ5UYp6KQvjoAR8rH1Xa5Vn4s
 photos:
   - name: >-
@@ -170,7 +168,121 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x808e2fa4e82946e5:0x8b9f55ae5df5b1f2!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 15
+        minute: 0
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 15
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 2:30 PM, 5:00 – 9:00 PM'
     - 'Tuesday: 11:00 AM – 2:30 PM, 5:00 – 9:00 PM'
     - 'Wednesday: 11:00 AM – 2:30 PM, 5:00 – 9:00 PM'
@@ -178,14 +290,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 2:30 PM, 5:00 – 9:00 PM'
     - 'Saturday: 12:00 – 3:00 PM, 5:00 – 9:00 PM'
     - 'Sunday: 12:00 – 3:00 PM, 5:00 – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 2:30 PM, 5:00 – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 2:30 PM, 5:00 – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 2:30 PM, 5:00 – 9:00 PM'
-    - 'Thursday: 11:00 AM – 2:30 PM, 5:00 – 9:00 PM'
-    - 'Friday: 11:00 AM – 2:30 PM, 5:00 – 9:00 PM'
-    - 'Saturday: 12:00 – 3:00 PM, 5:00 – 9:00 PM'
-    - 'Sunday: 12:00 – 3:00 PM, 5:00 – 9:00 PM'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +302,280 @@ phone: (408) 972-0379
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.2'
-rating_count: 0
+rating_count: 415
 website: https://sushiboattown.menu11.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Sushi Boat Town in San Jose, CA$$$Sushi Boat Town in San Jose, CA,
+  stands out as a welcoming spot for fresh Japanese cuisine, featuring an
+  innovative sushi boat system that adds a fun twist to dining. This casual
+  eatery offers a variety of delectable options like sushi rolls, sashimi, and
+  bento boxes, complemented by beverages such as beer and wine, making it a
+  go-to choice for those seeking sushi restaurants in the area. The restaurant's
+  accessible features, including wheelchair-friendly parking and seating, ensure
+  a comfortable experience for all visitors, while its moderate pricing invites
+  families and groups to enjoy a relaxed meal. With its emphasis on quality
+  ingredients and a lively atmosphere, it's an ideal destination for anyone
+  exploring top-rated sushi options nearby, blending tradition with modern
+  convenience.
+generative_summary: >-
+  Discover Sushi Boat Town in San Jose, CA$$$Sushi Boat Town in San Jose, CA,
+  stands out as a welcoming spot for fresh Japanese cuisine, featuring an
+  innovative sushi boat system that adds a fun twist to dining. This casual
+  eatery offers a variety of delectable options like sushi rolls, sashimi, and
+  bento boxes, complemented by beverages such as beer and wine, making it a
+  go-to choice for those seeking sushi restaurants in the area. The restaurant's
+  accessible features, including wheelchair-friendly parking and seating, ensure
+  a comfortable experience for all visitors, while its moderate pricing invites
+  families and groups to enjoy a relaxed meal. With its emphasis on quality
+  ingredients and a lively atmosphere, it's an ideal destination for anyone
+  exploring top-rated sushi options nearby, blending tradition with modern
+  convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ5UYp6KQvjoAR8rH1Xa5Vn4s/reviews/ChdDSUhNMG9nS0VJQ0FnTURJcXRtOXR3RRAB
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 5
+    text:
+      text: >-
+        I went here with friends for dinner. They had delicious fare from sushi
+        rolls to ramen to bento boxes. We sat at a table so we could partake of
+        our conversation and subsequent laughter but single or couples can sit
+        at the sushi boat and snag delicious sushi from the ever rotating sushi
+        boat trolley. Good food, good service
+      languageCode: en
+    originalText:
+      text: >-
+        I went here with friends for dinner. They had delicious fare from sushi
+        rolls to ramen to bento boxes. We sat at a table so we could partake of
+        our conversation and subsequent laughter but single or couples can sit
+        at the sushi boat and snag delicious sushi from the ever rotating sushi
+        boat trolley. Good food, good service
+      languageCode: en
+    authorAttribution:
+      displayName: Fedel Sanchez
+      uri: https://www.google.com/maps/contrib/102407382279761918014/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJxcXpp3hk5chw-i1kiX6PCz_8KXMUZLJ5qJaPoCfggpzmOTA=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-04-08T21:56:13.265888Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJcXRtOXR3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJcXRtOXR3RRAB!2m1!1s0x808e2fa4e82946e5:0x8b9f55ae5df5b1f2
+  - name: >-
+      places/ChIJ5UYp6KQvjoAR8rH1Xa5Vn4s/reviews/ChdDSUhNMG9nS0VJQ0FnSUNOMTluQV9nRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 3
+    text:
+      text: >-
+        Food was good, spacious and clean interior, drinks had free refill
+
+        Cons: very limited options on the train, when I asked to refill one roll
+        on the train, it never happened and I never got that roll on the train
+        again! Prices are not reasonable
+      languageCode: en
+    originalText:
+      text: >-
+        Food was good, spacious and clean interior, drinks had free refill
+
+        Cons: very limited options on the train, when I asked to refill one roll
+        on the train, it never happened and I never got that roll on the train
+        again! Prices are not reasonable
+      languageCode: en
+    authorAttribution:
+      displayName: Neda Mandegaran
+      uri: https://www.google.com/maps/contrib/107103944678787119280/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWe7pkhiigBU-FxY4Vu0Xhz8k7693832UBatanVh9SEl5cF55oH3Q=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2024-01-18T19:46:17.490311Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNOMTluQV9nRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNOMTluQV9nRRAB!2m1!1s0x808e2fa4e82946e5:0x8b9f55ae5df5b1f2
+  - name: >-
+      places/ChIJ5UYp6KQvjoAR8rH1Xa5Vn4s/reviews/ChdDSUhNMG9nS0VJQ0FnSUNab0p6VjNRRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 4
+    text:
+      text: >-
+        I never really find many sushi boat restaurants anymore (but a similar
+        concept is being spread with kura with their conveyor system), but this
+        one in south san jose is still one if the traditional sushi boat
+        restaurants you'd find in the mid 2000's to mid 2010's! You can choose
+        to sit around the sushi boats or sit at a booth as you wish. Like all
+        other sushi boat restaurants, you grab little plates of sushi and
+        depending on the plate it was served on, that was the price. Prices of
+        sushi on the boats ranged from $4.30 to $10. On a lunch day like this,
+        not too many sushi were on the boats unfortunately... maybe it might be
+        more popular at dinner or weekends.
+
+
+        If the sushis on the boat dont appeal too well, there are many more
+        options available through their huge menu! There are teriyaki plates to
+        bento boxes to even a unique burrito sushi roll style dish! I ordered a
+        bento box and the beef tasted pretty good minus the sauce which felt
+        flat. It came with soup and salad and rice as well as a orange and
+        dumpling! The main highlight of the bento box though was the tempura! It
+        was really crispy and well breaded and fried! I loved the sauce it came
+        with as well! $20
+
+
+        Service was very minimal and most interaction i had was just the payment
+        as soon as i was done. But the place seemed to be well staffed and got
+        around to anyone needing refills, etc.
+
+
+        Overall it was a pretty good experience! Although the bento box kinda
+        felt a little overpriced...
+      languageCode: en
+    originalText:
+      text: >-
+        I never really find many sushi boat restaurants anymore (but a similar
+        concept is being spread with kura with their conveyor system), but this
+        one in south san jose is still one if the traditional sushi boat
+        restaurants you'd find in the mid 2000's to mid 2010's! You can choose
+        to sit around the sushi boats or sit at a booth as you wish. Like all
+        other sushi boat restaurants, you grab little plates of sushi and
+        depending on the plate it was served on, that was the price. Prices of
+        sushi on the boats ranged from $4.30 to $10. On a lunch day like this,
+        not too many sushi were on the boats unfortunately... maybe it might be
+        more popular at dinner or weekends.
+
+
+        If the sushis on the boat dont appeal too well, there are many more
+        options available through their huge menu! There are teriyaki plates to
+        bento boxes to even a unique burrito sushi roll style dish! I ordered a
+        bento box and the beef tasted pretty good minus the sauce which felt
+        flat. It came with soup and salad and rice as well as a orange and
+        dumpling! The main highlight of the bento box though was the tempura! It
+        was really crispy and well breaded and fried! I loved the sauce it came
+        with as well! $20
+
+
+        Service was very minimal and most interaction i had was just the payment
+        as soon as i was done. But the place seemed to be well staffed and got
+        around to anyone needing refills, etc.
+
+
+        Overall it was a pretty good experience! Although the bento box kinda
+        felt a little overpriced...
+      languageCode: en
+    authorAttribution:
+      displayName: jiggbury
+      uri: https://www.google.com/maps/contrib/107357743934382702889/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjULB6NKo99RerabNwXqPKNq5tvL0u2L7eeEVKIDXrhZEWLt6fA=s128-c0x00000000-cc-rp-mo-ba7
+    publishTime: '2023-09-02T00:07:32.044826Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNab0p6VjNRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNab0p6VjNRRRAB!2m1!1s0x808e2fa4e82946e5:0x8b9f55ae5df5b1f2
+  - name: >-
+      places/ChIJ5UYp6KQvjoAR8rH1Xa5Vn4s/reviews/ChdDSUhNMG9nS0VJQ0FnSURyb2FtRHBRRRAB
+    relativePublishTimeDescription: 9 months ago
+    rating: 5
+    text:
+      text: >-
+        I always go for lunch. The food is fresh and there are great lunch
+        items. The service is great and I see that people from a nearby school
+        go there for lunch as well.
+
+        Affordable and I go to the nearby laundromat and throw a load in while I
+        have lunch. Works for me!
+      languageCode: en
+    originalText:
+      text: >-
+        I always go for lunch. The food is fresh and there are great lunch
+        items. The service is great and I see that people from a nearby school
+        go there for lunch as well.
+
+        Affordable and I go to the nearby laundromat and throw a load in while I
+        have lunch. Works for me!
+      languageCode: en
+    authorAttribution:
+      displayName: Sylvia Garcia
+      uri: https://www.google.com/maps/contrib/115879358414173972927/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIdTvBzQAMM4fMGi6YgPwqVIjKXXdzr0cgVAhdOX5S3nYqYhw=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-07-18T02:09:41.696070Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURyb2FtRHBRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURyb2FtRHBRRRAB!2m1!1s0x808e2fa4e82946e5:0x8b9f55ae5df5b1f2
+  - name: >-
+      places/ChIJ5UYp6KQvjoAR8rH1Xa5Vn4s/reviews/ChdDSUhNMG9nS0VJQ0FnSUNwMjcyQzJRRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        This is a Japanese restaurant with thick sashimi. The jalapeno fried
+        boom menu is unique and delicious. Boat flow system and Tempura,Fried
+        ice cream,is fun too.
+      languageCode: en
+    originalText:
+      text: >-
+        This is a Japanese restaurant with thick sashimi. The jalapeno fried
+        boom menu is unique and delicious. Boat flow system and Tempura,Fried
+        ice cream,is fun too.
+      languageCode: en
+    authorAttribution:
+      displayName: Irene “MJ” Kim
+      uri: https://www.google.com/maps/contrib/106802503142567295592/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXFnX1fA0kOYNEzGg-Ml80EzxtcFE8P0s9PNgTFaFzFt-yAwNZmqQ=s128-c0x00000000-cc-rp-mo-ba8
+    publishTime: '2023-08-11T04:29:38.232244Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNwMjcyQzJRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNwMjcyQzJRRRAB!2m1!1s0x808e2fa4e82946e5:0x8b9f55ae5df5b1f2
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this sushi spot often rave about the
+  fresh, flavorful dishes and the entertaining sushi boat setup that keeps
+  things exciting during meals. Many appreciate the affordable lunch specials
+  and solid variety of options like rolls and bento boxes, which make it a hit
+  for quick bites or casual gatherings. While some note that the selection on
+  the boats can feel a bit limited at times, the overall experience is uplifted
+  by friendly service and tasty highlights like crispy tempura. Folks generally
+  find it a reliable choice for everyday dining, with positive feedback on the
+  value and atmosphere helping it maintain its appeal. All in all, it's a solid
+  pick for anyone craving good sushi without the fuss, delivering a fun and
+  satisfying vibe that keeps people coming back.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
 good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
+live_music: false
+menu_for_children: true
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
 serves_brunch: null
 serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Casual Japanese eatery serving nigiri & rolled sushi as well as teriyaki
+  dishes & classic desserts.
 
 ---

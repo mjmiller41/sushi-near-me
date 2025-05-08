@@ -1,15 +1,14 @@
 ---
 layout: place
-title: "O-Ku"
+title: O-Ku
 permalink: /north-carolina/charlotte/o-ku.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Charlotte
 seo:
-  name: "O-Ku"
-  type: Restaurant
-  links: https://www.o-kusushi.com/location/o-ku-charlotte/?y_source=1_ODE4NDQwNjAtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D
-description: "A chic option for sushi & unique Japanese dishes, plus sake, beer & cocktails. O-Ku serves delicious sushi in Charlotte, North Carolina. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
+  type: restaurant
+  links: >-
+    https://www.o-kusushi.com/location/o-ku-charlotte/?y_source=1_ODE4NDQwNjAtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D
 place_id: ChIJaaSMp3CfVogRpYMMsxTAWhQ
 photos:
   - name: >-
@@ -186,6 +185,33 @@ rating: '4.6'
 rating_count: 0
 website: >-
   https://www.o-kusushi.com/location/o-ku-charlotte/?y_source=1_ODE4NDQwNjAtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D
+description: >-
+  Discover O-Ku in Charlotte, NC$$$Nestled in the heart of Charlotte, NC, O-Ku
+  stands out as a premier spot for fresh sushi and innovative Japanese cuisine,
+  blending traditional flavors with modern twists in an elegant setting. This
+  upscale establishment offers a range of expertly crafted dishes, from classic
+  rolls to contemporary entrees, all prepared with high-quality ingredients that
+  highlight the best of Japanese culinary traditions. Visitors appreciate the
+  stylish ambiance and thoughtful details like wheelchair-accessible features,
+  making it a welcoming choice for a memorable dining experience. Whether you're
+  searching for top-rated sushi restaurants or Japanese places near you, O-Ku
+  delivers on fresh tastes and refined presentation that elevate every meal.
+  With options for cocktails and a variety of drinks, it's an ideal destination
+  for those craving authentic yet accessible Japanese fare.
+generative_summary: >-
+  Discover O-Ku in Charlotte, NC$$$Nestled in the heart of Charlotte, NC, O-Ku
+  stands out as a premier spot for fresh sushi and innovative Japanese cuisine,
+  blending traditional flavors with modern twists in an elegant setting. This
+  upscale establishment offers a range of expertly crafted dishes, from classic
+  rolls to contemporary entrees, all prepared with high-quality ingredients that
+  highlight the best of Japanese culinary traditions. Visitors appreciate the
+  stylish ambiance and thoughtful details like wheelchair-accessible features,
+  making it a welcoming choice for a memorable dining experience. Whether you're
+  searching for top-rated sushi restaurants or Japanese places near you, O-Ku
+  delivers on fresh tastes and refined presentation that elevate every meal.
+  With options for cocktails and a variety of drinks, it's an ideal destination
+  for those craving authentic yet accessible Japanese fare.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJaaSMp3CfVogRpYMMsxTAWhQ/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRNlllcFhnEAE
@@ -385,6 +411,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQzdHBUcU5REAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQzdHBUcU5REAE!2m1!1s0x88569f70a78ca469:0x145ac014b30c83a5
+review_summary: >-
+  Insights from Recent Feedback$$$Diners often rave about the fresh and
+  flavorful sushi rolls at this Charlotte hotspot, with many highlighting the
+  variety and quality that make it a go-to for sushi lovers on a night out.
+  While some folks noted occasional waits or mixed results with certain dishes,
+  the overall vibe and attentive service keep the experience enjoyable and worth
+  returning for. Happy hour deals stand out as a fun way to sample creative
+  options without breaking the bank, adding to the appeal for groups or casual
+  visits. Folks appreciate the welcoming atmosphere that pairs well with
+  cocktails and Japanese-inspired treats, making it a solid pick for anyone
+  exploring local sushi spots. Ultimately, the consensus leans positive, with
+  the standout flavors and attentive touches encouraging repeat trips for those
+  seeking reliable and tasty Japanese dining nearby.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -416,7 +456,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: A chic option for sushi & unique Japanese dishes, plus sake, beer & cocktails.
+update_category: pro
+places_description: A chic option for sushi & unique Japanese dishes, plus sake, beer & cocktails.
 
 ---

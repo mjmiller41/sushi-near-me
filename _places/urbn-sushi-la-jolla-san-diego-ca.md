@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "URBN Sushi - La Jolla"
+title: URBN Sushi - La Jolla
 permalink: /california/san-diego/urbn-sushi-la-jolla.html
 stateAbbr: CA
 stateName: California
 cityName: San Diego
 seo:
-  name: "URBN Sushi - La Jolla"
-  type: Restaurant
+  type: restaurant
   links: http://urbnsushi.com/
-description: "URBN Sushi - La Jolla serves delicious sushi in San Diego, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJN3RrLt8B3IAR-qfPvselheA
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 0
 website: http://urbnsushi.com/
+description: >-
+  Explore URBN Sushi in San Diego$$$URBN Sushi - La Jolla in San Diego, CA,
+  stands out as a casual Japanese restaurant offering a vibrant selection of
+  specialty rolls and traditional dishes that appeal to sushi enthusiasts.
+  Located in a convenient spot near the Renaissance Towne Center, it features a
+  menu with fresh seafood options, complemented by beverages like beer, sake,
+  and wine for a complete dining experience. The restaurant emphasizes
+  accessibility with wheelchair-friendly features and ample parking, making it
+  easy for everyone to enjoy a meal. Patrons appreciate the generous portions
+  and variety, ideal for those seeking top-rated sushi restaurants in the area.
+  Whether you're looking for sushi places near me or a relaxed spot for Japanese
+  cuisine, this venue delivers a welcoming atmosphere with thoughtful details.
+generative_summary: >-
+  Explore URBN Sushi in San Diego$$$URBN Sushi - La Jolla in San Diego, CA,
+  stands out as a casual Japanese restaurant offering a vibrant selection of
+  specialty rolls and traditional dishes that appeal to sushi enthusiasts.
+  Located in a convenient spot near the Renaissance Towne Center, it features a
+  menu with fresh seafood options, complemented by beverages like beer, sake,
+  and wine for a complete dining experience. The restaurant emphasizes
+  accessibility with wheelchair-friendly features and ample parking, making it
+  easy for everyone to enjoy a meal. Patrons appreciate the generous portions
+  and variety, ideal for those seeking top-rated sushi restaurants in the area.
+  Whether you're looking for sushi places near me or a relaxed spot for Japanese
+  cuisine, this venue delivers a welcoming atmosphere with thoughtful details.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJN3RrLt8B3IAR-qfPvselheA/reviews/ChdDSUhNMG9nS0VJQ0FnSUM5dnVUQnZRRRAB
@@ -360,6 +383,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURYdHZEY0J3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURYdHZEY0J3EAE!2m1!1s0x80dc01df2e6b7437:0xe085a5c7becfa7fa
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors often rave about the fresh and
+  flavorful sushi rolls, highlighting how they exceed expectations with creative
+  combinations and hearty portions that leave you satisfied. Many comments
+  praise the variety of options beyond just sushi, like teriyaki combinations
+  and noodle dishes, making it a great choice for diverse tastes in a casual
+  setting. Service stands out as friendly and attentive, with staff checking in
+  regularly to ensure a smooth experience, adding to the overall enjoyable vibe.
+  Folks frequently mention standout items like edamame and specialty rolls,
+  suggesting it's perfect for anyone hunting for reliable sushi near me.
+  Overall, the consensus leans positive, encouraging newcomers to try it for a
+  solid, approachable dining option in San Diego.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   valetParking: false
@@ -391,7 +427,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Xtreme"
+title: Sushi Xtreme
 permalink: /delaware/wilmington/sushi-xtreme.html
 stateAbbr: DE
 stateName: Delaware
 cityName: Wilmington
 seo:
-  name: "Sushi Xtreme"
-  type: Restaurant
+  type: restaurant
   links: https://www.sushixtreme.net/
-description: "Sushi Xtreme serves delicious sushi in Wilmington, Delaware. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJMwredh8Ax4kRTgkfYmhsBEw
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 0
 website: https://www.sushixtreme.net/
+description: >-
+  Discover Sushi Xtreme in Wilmington, DE$$$Nestled in Wilmington, DE, Sushi
+  Xtreme offers a casual dining experience focused on fresh Japanese-inspired
+  cuisine, including an array of sushi options that appeal to those seeking
+  variety and value. This spot stands out with its all-you-can-eat selections,
+  making it a go-to choice for sushi enthusiasts looking for flavorful rolls and
+  other traditional dishes in a welcoming atmosphere. Accessibility features
+  like wheelchair-friendly parking and seating enhance the visit for everyone,
+  adding to its appeal as a convenient local eatery. The menu highlights
+  creative preparations that blend classic flavors with modern twists, perfect
+  for anyone exploring top-rated sushi restaurants nearby.
+generative_summary: >-
+  Discover Sushi Xtreme in Wilmington, DE$$$Nestled in Wilmington, DE, Sushi
+  Xtreme offers a casual dining experience focused on fresh Japanese-inspired
+  cuisine, including an array of sushi options that appeal to those seeking
+  variety and value. This spot stands out with its all-you-can-eat selections,
+  making it a go-to choice for sushi enthusiasts looking for flavorful rolls and
+  other traditional dishes in a welcoming atmosphere. Accessibility features
+  like wheelchair-friendly parking and seating enhance the visit for everyone,
+  adding to its appeal as a convenient local eatery. The menu highlights
+  creative preparations that blend classic flavors with modern twists, perfect
+  for anyone exploring top-rated sushi restaurants nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJMwredh8Ax4kRTgkfYmhsBEw/reviews/ChdDSUhNMG9nS0VJQ0FnSUQzcGJLQTJ3RRAB
@@ -334,6 +355,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNJeXFlTHp3RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNJeXFlTHp3RRAB!2m1!1s0x89c7001f76de0a33:0x4c046c68621f094e
+review_summary: >-
+  What Customers Are Saying$$$Visitors often rave about the delicious and fresh
+  sushi selections, noting that the all-you-can-eat deals provide great value
+  without skimping on quality. Many appreciate the quick service and clean,
+  spacious environment that makes dining out feel relaxed and enjoyable, with
+  options like bento boxes adding to the positive experiences. While some
+  mention occasional waits during busy times, the overall consensus leans toward
+  it being a fantastic spot for groups or families, with meals consistently
+  described as flavorful and satisfying. Feedback highlights the restaurant's
+  ability to deliver a welcoming vibe that encourages repeat visits, making it a
+  solid pick for anyone hunting for reliable sushi places near me. Overall, it's
+  praised for balancing affordability with tasty options, though a few suggest
+  checking for limits on certain items to manage expectations.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -366,7 +401,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

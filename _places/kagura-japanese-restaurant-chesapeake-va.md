@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kagura Japanese Restaurant"
+title: Kagura Japanese Restaurant
 permalink: /virginia/chesapeake/kagura-japanese-restaurant.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Chesapeake
 seo:
-  name: "Kagura Japanese Restaurant"
-  type: Restaurant
+  type: restaurant
   links: http://www.kagurajapanesesushi.com/?utm_source=gmb&utm_medium=website
-description: "Relaxed place offering all-you-can-eat lunch & dinner buffets of sushi & other Japanese fare. Kagura Japanese Restaurant serves delicious sushi in Chesapeake, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJdRA04hq7uokR2DBxeV-k15A
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 0
 website: http://www.kagurajapanesesushi.com/?utm_source=gmb&utm_medium=website
+description: >-
+  Discover Kagura Japanese Restaurant in Chesapeake, Virginia$$$Kagura Japanese
+  Restaurant in Chesapeake, VA, stands out as a relaxed destination for sushi
+  enthusiasts, offering an inviting atmosphere perfect for casual dining
+  experiences. This spot features an all-you-can-eat selection of fresh sushi
+  and other traditional Japanese dishes, complemented by options like beer and
+  sake to enhance your meal. With thoughtful accessibility features and a
+  welcoming vibe, it's an ideal choice for those seeking authentic flavors in a
+  comfortable setting. The restaurant's emphasis on variety and value makes it a
+  go-to option for anyone exploring top sushi spots nearby, ensuring a
+  satisfying visit every time.
+generative_summary: >-
+  Discover Kagura Japanese Restaurant in Chesapeake, Virginia$$$Kagura Japanese
+  Restaurant in Chesapeake, VA, stands out as a relaxed destination for sushi
+  enthusiasts, offering an inviting atmosphere perfect for casual dining
+  experiences. This spot features an all-you-can-eat selection of fresh sushi
+  and other traditional Japanese dishes, complemented by options like beer and
+  sake to enhance your meal. With thoughtful accessibility features and a
+  welcoming vibe, it's an ideal choice for those seeking authentic flavors in a
+  comfortable setting. The restaurant's emphasis on variety and value makes it a
+  go-to option for anyone exploring top sushi spots nearby, ensuring a
+  satisfying visit every time.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJdRA04hq7uokR2DBxeV-k15A/reviews/ChdDSUhNMG9nS0VJQ0FnTUNnbHRmUzlnRRAB
@@ -332,6 +353,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNndnJmRlZBEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNndnJmRlZBEAE!2m1!1s0x89babb1ae2341075:0x90d7a45f797130d8
+review_summary: >-
+  What People Are Saying About This Sushi Favorite$$$Visitors often rave about
+  the all-you-can-eat sushi deals at this spot, highlighting the fresh flavors
+  and solid variety that make it a standout pick for casual meals. Many
+  appreciate the friendly service and quick attention from the staff, which adds
+  to the overall enjoyable vibe, especially for family outings or group
+  gatherings. While the portions generally offer great value, a few notes
+  suggest they might feel a bit light for some appetites, but the overall
+  experience keeps things positive. Folks frequently mention the tasty rolls and
+  appetizers as reasons to return, making it a reliable choice for anyone
+  hunting for quality Japanese cuisine close by. All in all, it's a welcoming
+  place that delivers on fun and flavor without overpromising.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -365,8 +399,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Relaxed place offering all-you-can-eat lunch & dinner buffets of sushi & other
   Japanese fare.
 

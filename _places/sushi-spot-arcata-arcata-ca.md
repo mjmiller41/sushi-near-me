@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Spot Arcata"
+title: Sushi Spot Arcata
 permalink: /california/arcata/sushi-spot-arcata.html
 stateAbbr: CA
 stateName: California
 cityName: Arcata
 seo:
-  name: "Sushi Spot Arcata"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi Spot Arcata serves delicious sushi in Arcata, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJN2Fegu1a0VQRaxjwODqBtQA
 photos:
   - name: >-
@@ -185,7 +183,45 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  About Sushi Spot Arcata in Arcata, CA$$$Sushi Spot Arcata in Arcata, CA,
+  stands out as a welcoming spot for enjoying authentic Japanese flavors in a
+  relaxed setting. This casual eatery specializes in fresh sushi rolls and bento
+  boxes, complemented by a selection of traditional entrees, making it a go-to
+  choice for those seeking quality Japanese dining options nearby. Patrons
+  appreciate the accessible features like wheelchair-friendly parking and
+  seating, enhancing the overall experience for everyone. The menu also includes
+  beverages such as sake and beer, adding to the vibrant atmosphere that
+  captures the essence of Japanese cuisine. Whether you're exploring top-rated
+  sushi restaurants in the area, it's a solid pick for a satisfying meal that
+  balances taste and convenience.
+generative_summary: >-
+  About Sushi Spot Arcata in Arcata, CA$$$Sushi Spot Arcata in Arcata, CA,
+  stands out as a welcoming spot for enjoying authentic Japanese flavors in a
+  relaxed setting. This casual eatery specializes in fresh sushi rolls and bento
+  boxes, complemented by a selection of traditional entrees, making it a go-to
+  choice for those seeking quality Japanese dining options nearby. Patrons
+  appreciate the accessible features like wheelchair-friendly parking and
+  seating, enhancing the overall experience for everyone. The menu also includes
+  beverages such as sake and beer, adding to the vibrant atmosphere that
+  captures the essence of Japanese cuisine. Whether you're exploring top-rated
+  sushi restaurants in the area, it's a solid pick for a satisfying meal that
+  balances taste and convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What People Are Saying$$$Folks checking out sushi spots around Arcata often
+  highlight the fresh ingredients and creative rolls that make every bite feel
+  worthwhile, giving it a solid reputation among local favorites. Many mention
+  the cozy vibe and variety of options that cater to different tastes, from
+  light appetizers to hearty entrees, helping it stand out in the crowd of
+  Japanese places nearby. While some note that service can vary depending on the
+  time of day, the overall consensus leans positive with praise for the
+  flavorful dishes and reasonable portions. It's commonly described as a
+  reliable choice for a casual outing, where the focus on quality keeps diners
+  coming back for more. If you're on the hunt for best sushi near me, this spot
+  delivers an honest, enjoyable experience without any major letdowns.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +247,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

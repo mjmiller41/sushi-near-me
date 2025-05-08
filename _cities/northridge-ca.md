@@ -5,4 +5,5 @@ permalink: /california/northridge/
 stateAbbr: CA
 stateName: California
 cityName: Northridge
+
 ---

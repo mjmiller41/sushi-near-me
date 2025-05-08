@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Raw Ingredients"
+title: Raw Ingredients
 permalink: /georgia/tybee-island/raw-ingredients.html
 stateAbbr: GA
 stateName: Georgia
 cityName: Tybee Island
 seo:
-  name: "Raw Ingredients"
-  type: Restaurant
+  type: restaurant
   links: http://rawtybee.com/
-description: "Hip sushi restaurant with a graffitied blackboard making sashimi, nigiri & custom-made rolls. Raw Ingredients serves delicious sushi in Tybee Island, Georgia. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJqYFH4qV_-4gR__CS_4cmTbk
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $10 &ndash; $20
 rating: '4.7'
 rating_count: 0
 website: http://rawtybee.com/
+description: >-
+  Discover Raw Ingredients in Tybee Island, GA$$$Nestled in Tybee Island, GA,
+  Raw Ingredients stands out as a vibrant sushi restaurant offering a relaxed
+  vibe and fresh Japanese-inspired dishes that capture the essence of coastal
+  dining. This spot delights with a variety of creative sushi rolls, poke bowls,
+  and other flavorful fare, complemented by a selection of beer and sake for a
+  complete meal experience. Visitors appreciate the option to customize their
+  orders, making it easy to tailor meals to personal tastes while enjoying a
+  casual atmosphere. The restaurant's accessibility features, like
+  wheelchair-friendly entrances and parking, ensure everyone can savor the
+  experience. For those searching for quality sushi places near me, this
+  location combines fresh ingredients with a welcoming setting that makes every
+  visit memorable.
+generative_summary: >-
+  Discover Raw Ingredients in Tybee Island, GA$$$Nestled in Tybee Island, GA,
+  Raw Ingredients stands out as a vibrant sushi restaurant offering a relaxed
+  vibe and fresh Japanese-inspired dishes that capture the essence of coastal
+  dining. This spot delights with a variety of creative sushi rolls, poke bowls,
+  and other flavorful fare, complemented by a selection of beer and sake for a
+  complete meal experience. Visitors appreciate the option to customize their
+  orders, making it easy to tailor meals to personal tastes while enjoying a
+  casual atmosphere. The restaurant's accessibility features, like
+  wheelchair-friendly entrances and parking, ensure everyone can savor the
+  experience. For those searching for quality sushi places near me, this
+  location combines fresh ingredients with a welcoming setting that makes every
+  visit memorable.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJqYFH4qV_-4gR__CS_4cmTbk/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3a083bmRBEAE
@@ -338,6 +363,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURidzV5TVhREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURidzV5TVhREAE!2m1!1s0x88fb7fa5e24781a9:0xb94d2687ff92f0ff
+review_summary: >-
+  What Customers Love About This Sushi Spot$$$Folks rave about the fresh and
+  tasty sushi at this spot, with many highlighting how the customizable rolls
+  and bowls make it a go-to for satisfying cravings without the hassle. It's
+  often praised for quick service and a friendly vibe that keeps things light
+  and enjoyable, perfect for families or groups looking for healthy options
+  beyond typical beach eats. Reviewers frequently mention the clean environment
+  and great music as bonuses that enhance the overall dining experience, making
+  it feel like a hidden gem worth returning to. Overall, the consensus leans
+  positive, with diners appreciating how it stands out among sushi restaurants
+  near me for its quality and variety. If you're on the hunt for top-rated
+  sushi, this place delivers a solid, enjoyable meal that leaves you feeling
+  glad you stopped by.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidParkingLot: true
   paidStreetParking: true
@@ -369,8 +408,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Hip sushi restaurant with a graffitied blackboard making sashimi, nigiri &
   custom-made rolls.
 

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kumo Asian Bistro"
+title: Kumo Asian Bistro
 permalink: /pennsylvania/north-wales/kumo-asian-bistro.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: North Wales
 seo:
-  name: "Kumo Asian Bistro"
-  type: Restaurant
+  type: restaurant
   links: http://www.kumoasianbistro.com/
-description: "A mix of traditional chow & hibachi dinners offered in a chic & modern setting with a sushi bar. Kumo Asian Bistro serves delicious sushi in North Wales, Pennsylvania. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJubRwll-kxokRzZY12_JHR_M
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: null
 rating: '4.2'
 rating_count: 0
 website: http://www.kumoasianbistro.com/
+description: >-
+  Experience Kumo Asian Bistro in North Wales, PA$$$Kumo Asian Bistro in North
+  Wales, PA, delivers a fresh take on Japanese favorites, blending authentic
+  flavors with a relaxed vibe that appeals to sushi enthusiasts. This spot
+  stands out for its creative rolls and hearty ramen options, served in a modern
+  setting that encourages casual dining and quick meals. With a focus on quality
+  ingredients and thoughtful presentation, it's an inviting choice for those
+  exploring Japanese cuisine nearby. Accessibility features like
+  wheelchair-friendly entrances and seating make it welcoming for everyone,
+  enhancing the overall experience. Whether you're stopping by for a quick bite
+  or a leisurely dinner, the variety of dishes ensures there's something to
+  satisfy cravings for top-rated Asian fare.
+generative_summary: >-
+  Experience Kumo Asian Bistro in North Wales, PA$$$Kumo Asian Bistro in North
+  Wales, PA, delivers a fresh take on Japanese favorites, blending authentic
+  flavors with a relaxed vibe that appeals to sushi enthusiasts. This spot
+  stands out for its creative rolls and hearty ramen options, served in a modern
+  setting that encourages casual dining and quick meals. With a focus on quality
+  ingredients and thoughtful presentation, it's an inviting choice for those
+  exploring Japanese cuisine nearby. Accessibility features like
+  wheelchair-friendly entrances and seating make it welcoming for everyone,
+  enhancing the overall experience. Whether you're stopping by for a quick bite
+  or a leisurely dinner, the variety of dishes ensures there's something to
+  satisfy cravings for top-rated Asian fare.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJubRwll-kxokRzZY12_JHR_M/reviews/ChZDSUhNMG9nS0VJQ0FnSUNIeTdHZlF3EAE
@@ -354,6 +377,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQ5ODdlVUl3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQ5ODdlVUl3EAE!2m1!1s0x89c6a45f9670b4b9:0xf34747f2db3596cd
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors often rave about the delicious sushi
+  and ramen at this local favorite, highlighting the fresh flavors and
+  eye-catching presentations that make meals memorable. Many appreciate the
+  generous portions and attentive service, which contribute to a welcoming
+  atmosphere perfect for groups or families. While some notes mention minor
+  areas for improvement, like keeping things spotless or updating menus for
+  accuracy, the overall vibe remains positive and enjoyable. Folks find it a
+  solid pick for authentic Japanese dishes, with speedy service adding to the
+  appeal for those seeking convenient options. If you're hunting for quality
+  sushi spots nearby, this place delivers a reliably tasty experience that keeps
+  diners coming back.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -385,8 +421,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   A mix of traditional chow & hibachi dinners offered in a chic & modern setting
   with a sushi bar.
 

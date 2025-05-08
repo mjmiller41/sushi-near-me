@@ -1,15 +1,14 @@
 ---
 layout: place
-title: "Oishii"
+title: Oishii
 permalink: /texas/houston/oishii.html
 stateAbbr: TX
 stateName: Texas
 cityName: Houston
 seo:
-  name: "Oishii"
-  type: Restaurant
-  links: https://order.mealkeyway.com/customer/release/index?mid=5565326d346a364a46414451364158755769334a4e413d3d
-description: "Oishii serves delicious sushi in Houston, Texas. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: >-
+    https://order.mealkeyway.com/customer/release/index?mid=5565326d346a364a46414451364158755769334a4e413d3d
 place_id: ChIJN2_piwLBQIYR2r11O3MY79Q
 photos:
   - name: >-
@@ -169,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8640c1028be96f37:0xd4ef18733b75bdda!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 10:00 PM'
     - 'Tuesday: 11:00 AM – 10:00 PM'
     - 'Wednesday: 11:00 AM – 10:00 PM'
@@ -177,55 +226,335 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:00 PM'
     - 'Saturday: 12:00 – 10:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:00 AM – 10:00 PM'
-    - 'Tuesday: 11:00 AM – 10:00 PM'
-    - 'Wednesday: 11:00 AM – 10:00 PM'
-    - 'Thursday: 11:00 AM – 10:00 PM'
-    - 'Friday: 11:00 AM – 10:00 PM'
-    - 'Saturday: 12:00 – 10:00 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 1
+          hour: 15
+          minute: 0
+        close:
+          day: 1
+          hour: 19
+          minute: 0
+      - open:
+          day: 2
+          hour: 15
+          minute: 0
+        close:
+          day: 2
+          hour: 19
+          minute: 0
+      - open:
+          day: 3
+          hour: 15
+          minute: 0
+        close:
+          day: 3
+          hour: 19
+          minute: 0
+      - open:
+          day: 4
+          hour: 15
+          minute: 0
+        close:
+          day: 4
+          hour: 19
+          minute: 0
+      - open:
+          day: 5
+          hour: 15
+          minute: 0
+        close:
+          day: 5
+          hour: 19
+          minute: 0
+      - open:
+          day: 6
+          hour: 15
+          minute: 0
+        close:
+          day: 6
+          hour: 18
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 3:00 – 7:00 PM'
+      - 'Tuesday: 3:00 – 7:00 PM'
+      - 'Wednesday: 3:00 – 7:00 PM'
+      - 'Thursday: 3:00 – 7:00 PM'
+      - 'Friday: 3:00 – 7:00 PM'
+      - 'Saturday: 3:00 – 6:00 PM'
+      - 'Sunday: Closed'
+    secondaryHoursType: HAPPY_HOUR
+    nextCloseTime: '2025-05-03T23:00:00Z'
 phone: (713) 621-8628
 price_level: PRICE_LEVEL_INEXPENSIVE
 price_range: $10 &ndash; $20
 rating: '4.6'
-rating_count: 0
+rating_count: 2519
 website: >-
   https://order.mealkeyway.com/customer/release/index?mid=5565326d346a364a46414451364158755769334a4e413d3d
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Oishii in Houston, TX$$$Oishii in Houston, TX, stands out as a
+  welcoming spot for fresh sushi and Japanese favorites, blending casual vibes
+  with authentic flavors that appeal to locals seeking quality dining options
+  nearby. This sushi restaurant delights with a menu featuring expertly prepared
+  dishes like sashimi and tempura, all served in a straightforward yet inviting
+  atmosphere that makes it easy to enjoy a meal on the go. Accessibility
+  features ensure everyone can savor the experience, from wheelchair-friendly
+  entrances to a variety of seating choices, enhancing its appeal for everyday
+  visits. Happy hour specials add value, making it a smart choice for those
+  hunting for affordable Japanese cuisine without compromising on taste. Whether
+  you're in the mood for a quick bite or a relaxed evening, Oishii delivers on
+  fresh ingredients and a cozy setting that keeps diners coming back for more.
+generative_summary: >-
+  Discover Oishii in Houston, TX$$$Oishii in Houston, TX, stands out as a
+  welcoming spot for fresh sushi and Japanese favorites, blending casual vibes
+  with authentic flavors that appeal to locals seeking quality dining options
+  nearby. This sushi restaurant delights with a menu featuring expertly prepared
+  dishes like sashimi and tempura, all served in a straightforward yet inviting
+  atmosphere that makes it easy to enjoy a meal on the go. Accessibility
+  features ensure everyone can savor the experience, from wheelchair-friendly
+  entrances to a variety of seating choices, enhancing its appeal for everyday
+  visits. Happy hour specials add value, making it a smart choice for those
+  hunting for affordable Japanese cuisine without compromising on taste. Whether
+  you're in the mood for a quick bite or a relaxed evening, Oishii delivers on
+  fresh ingredients and a cozy setting that keeps diners coming back for more.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJN2_piwLBQIYR2r11O3MY79Q/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJeDR1MlJ3EAE
+    relativePublishTimeDescription: 4 weeks ago
+    rating: 5
+    text:
+      text: >-
+        Great sushi at an unbelievable price. The lunch specials are such a good
+        deal! It’s exciting sitting at the bar watching the sushi chefs. Oishii
+        is perfect if you have limited time to eat. The wait staff are always
+        friendly and will explain the details of a dish without a hint of
+        annoyance.
+      languageCode: en
+    originalText:
+      text: >-
+        Great sushi at an unbelievable price. The lunch specials are such a good
+        deal! It’s exciting sitting at the bar watching the sushi chefs. Oishii
+        is perfect if you have limited time to eat. The wait staff are always
+        friendly and will explain the details of a dish without a hint of
+        annoyance.
+      languageCode: en
+    authorAttribution:
+      displayName: James Harris
+      uri: https://www.google.com/maps/contrib/117765081726545865420/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXAig2MXQmvFHGBL8pctjYqETajQHj8SZ1k63gBf3CcPltdPiK8qw=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-05T04:47:13.438405Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNJeDR1MlJ3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNJeDR1MlJ3EAE!2m1!1s0x8640c1028be96f37:0xd4ef18733b75bdda
+  - name: >-
+      places/ChIJN2_piwLBQIYR2r11O3MY79Q/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3NnVLY0l3EAE
+    relativePublishTimeDescription: a month ago
+    rating: 4
+    text:
+      text: >-
+        Great sushi spot! Our order came out quick, and there was a good variety
+        to choose from. The sushi tasted good, but it wasn't anything special.
+        Still, a solid choice for lunch or dinner.
+      languageCode: en
+    originalText:
+      text: >-
+        Great sushi spot! Our order came out quick, and there was a good variety
+        to choose from. The sushi tasted good, but it wasn't anything special.
+        Still, a solid choice for lunch or dinner.
+      languageCode: en
+    authorAttribution:
+      displayName: Katherine Melnyk
+      uri: https://www.google.com/maps/contrib/103913505209084640958/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXnhvMMVeyGWylzqV1C0LlVxNx3lzJVDflgghxMYNUu371bebyISA=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2025-03-18T04:49:50.801270Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUN3NnVLY0l3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUN3NnVLY0l3EAE!2m1!1s0x8640c1028be96f37:0xd4ef18733b75bdda
+  - name: >-
+      places/ChIJN2_piwLBQIYR2r11O3MY79Q/reviews/ChdDSUhNMG9nS0VJQ0FnTUNnaElpRTNBRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        Absolutely delicious Japanese restaurant very well developed pure
+        Japanese flavors starting with the miso soup, dumplings, and sashimi.
+        The rolls were freshly made. Rice was a great texture.
+
+
+        The service is friendly, helpful, and attentive
+
+
+        The parking lot is definitely timely. The inside of this location is is
+        very small narrow. That’s only four stars for overall atmosphere very
+        clean interior. I had to park at the Costco parking lot in order to park
+        my large vehicle but well worth the walk definitely one of the top sushi
+        restaurants in the area from a cost point it’s on point for the higher
+        quality of fish that I was able to get here.
+
+
+        Note my rating system:
+
+        1 Star: I wouldn't recommend
+
+        2 Stars: Didn't hit my standards
+
+        3 Stars: Average (nothing special)
+
+        4 Stars: Above Average. Would recommend. Still looking for the 5 Star.
+
+        5 Stars: Top of their game. Great food. Great service. Would recommend
+        and plan on returning.
+      languageCode: en
+    originalText:
+      text: >-
+        Absolutely delicious Japanese restaurant very well developed pure
+        Japanese flavors starting with the miso soup, dumplings, and sashimi.
+        The rolls were freshly made. Rice was a great texture.
+
+
+        The service is friendly, helpful, and attentive
+
+
+        The parking lot is definitely timely. The inside of this location is is
+        very small narrow. That’s only four stars for overall atmosphere very
+        clean interior. I had to park at the Costco parking lot in order to park
+        my large vehicle but well worth the walk definitely one of the top sushi
+        restaurants in the area from a cost point it’s on point for the higher
+        quality of fish that I was able to get here.
+
+
+        Note my rating system:
+
+        1 Star: I wouldn't recommend
+
+        2 Stars: Didn't hit my standards
+
+        3 Stars: Average (nothing special)
+
+        4 Stars: Above Average. Would recommend. Still looking for the 5 Star.
+
+        5 Stars: Top of their game. Great food. Great service. Would recommend
+        and plan on returning.
+      languageCode: en
+    authorAttribution:
+      displayName: Sherman On
+      uri: https://www.google.com/maps/contrib/104900549450957961212/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXf0XzJ-eWXAg0wMyuQNKyyRUUHyGEtQY2Be3SSZmKXtBwdyluS9Q=s128-c0x00000000-cc-rp-mo-ba7
+    publishTime: '2025-02-14T04:24:19.885211Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNnaElpRTNBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNnaElpRTNBRRAB!2m1!1s0x8640c1028be96f37:0xd4ef18733b75bdda
+  - name: >-
+      places/ChIJN2_piwLBQIYR2r11O3MY79Q/reviews/ChdDSUhNMG9nS0VJQ0FnSUQzaTY3ajl3RRAB
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        My family’s favorite since 2008.  We still make the trip back even
+        though we moved to Friendswood.  Whenever we want great sushi, this is
+        our spot.  Cannot say enough good things about this place.  We love it.
+      languageCode: en
+    originalText:
+      text: >-
+        My family’s favorite since 2008.  We still make the trip back even
+        though we moved to Friendswood.  Whenever we want great sushi, this is
+        our spot.  Cannot say enough good things about this place.  We love it.
+      languageCode: en
+    authorAttribution:
+      displayName: Erick R
+      uri: https://www.google.com/maps/contrib/109354785423565493840/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLpqsLGW-6rFvmK4yW4KA5W55rNPaY4zT1lmINlSkvGNaQ1LA=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-11-18T21:22:38.682141Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQzaTY3ajl3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQzaTY3ajl3RRAB!2m1!1s0x8640c1028be96f37:0xd4ef18733b75bdda
+  - name: >-
+      places/ChIJN2_piwLBQIYR2r11O3MY79Q/reviews/ChdDSUhNMG9nS0VJQ0FnTUNncjdfTm9nRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        Amazing service and food is served fast. Quality food and amazing prices
+        in comparison to other sushi restaurants in the area, my opinion. Please
+        give this place a try if you haven’t already
+      languageCode: en
+    originalText:
+      text: >-
+        Amazing service and food is served fast. Quality food and amazing prices
+        in comparison to other sushi restaurants in the area, my opinion. Please
+        give this place a try if you haven’t already
+      languageCode: en
+    authorAttribution:
+      displayName: Christine Nguyen
+      uri: https://www.google.com/maps/contrib/104840393330631151962/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVcFHIQilHXJ-lWscxBpYiKLqLKGavP9Ov5djmrvUfE3qMKaoR-=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-02-21T17:34:02.762486Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNncjdfTm9nRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNncjdfTm9nRRAB!2m1!1s0x8640c1028be96f37:0xd4ef18733b75bdda
+review_summary: >-
+  What Customers Are Buzzing About$$$Folks around town often rave about the
+  fantastic value at this sushi spot, highlighting the tasty lunch specials and
+  generous portions that make it a go-to for everyday meals. Many appreciate the
+  friendly service and speedy delivery of dishes, turning simple visits into
+  enjoyable experiences without any fuss. Reviewers frequently note the fresh
+  rolls and variety of options, praising how it stands out among local Japanese
+  places for its balance of quality and affordability. Overall, it's clear that
+  patrons love the welcoming vibe and reliable flavors, making it a solid pick
+  for anyone searching for top-rated sushi close to home. While not every detail
+  wows everyone, the positive feedback on happy hour deals and attentive staff
+  keeps the energy upbeat and inviting for repeat trips.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
+curbside_pickup: true
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
 good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: false
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Japanese eats such as sushi, tempura & teriyaki served alongside beer, wine &
+  sake in a basic space.
 
 ---

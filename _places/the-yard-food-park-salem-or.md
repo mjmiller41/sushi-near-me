@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "The Yard Food Park"
+title: The Yard Food Park
 permalink: /oregon/salem/the-yard-food-park.html
 stateAbbr: OR
 stateName: Oregon
 cityName: Salem
 seo:
-  name: "The Yard Food Park"
-  type: Restaurant
+  type: restaurant
   links: http://theyardfoodpark.com/
-description: "The Yard Food Park serves delicious sushi in Salem, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJq6puzNT-v1QRcL-DcnprxME
 photos:
   - name: >-
@@ -168,7 +166,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x54bffed4cc6eaaab:0xc1c46b7a7283bf70!10e5
 primary_type: Food Court
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 10:00 PM'
     - 'Tuesday: 11:00 AM – 10:00 PM'
     - 'Wednesday: 11:00 AM – 10:00 PM'
@@ -176,36 +232,357 @@ opening_hours:
     - 'Friday: 11:00 AM – 11:00 PM'
     - 'Saturday: 11:00 AM – 11:00 PM'
     - 'Sunday: 11:00 AM – 10:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 10:00 PM'
-    - 'Tuesday: 11:00 AM – 10:00 PM'
-    - 'Wednesday: 11:00 AM – 10:00 PM'
-    - 'Thursday: 11:00 AM – 10:00 PM'
-    - 'Friday: 11:00 AM – 11:00 PM'
-    - 'Saturday: 11:00 AM – 11:00 PM'
-    - 'Sunday: 11:00 AM – 10:00 PM'
+  nextCloseTime: '2025-05-04T06:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 11
+          minute: 0
+        close:
+          day: 0
+          hour: 19
+          minute: 0
+      - open:
+          day: 1
+          hour: 11
+          minute: 0
+        close:
+          day: 1
+          hour: 19
+          minute: 0
+      - open:
+          day: 2
+          hour: 11
+          minute: 0
+        close:
+          day: 2
+          hour: 19
+          minute: 0
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 19
+          minute: 0
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 19
+          minute: 0
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 19
+          minute: 0
+      - open:
+          day: 6
+          hour: 11
+          minute: 0
+        close:
+          day: 6
+          hour: 19
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 11:00 AM – 7:00 PM'
+      - 'Tuesday: 11:00 AM – 7:00 PM'
+      - 'Wednesday: 11:00 AM – 7:00 PM'
+      - 'Thursday: 11:00 AM – 7:00 PM'
+      - 'Friday: 11:00 AM – 7:00 PM'
+      - 'Saturday: 11:00 AM – 7:00 PM'
+      - 'Sunday: 11:00 AM – 7:00 PM'
+    secondaryHoursType: TAKEOUT
+    nextCloseTime: '2025-05-04T02:00:00Z'
 phone: (503) 385-8066
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.6'
-rating_count: 0
+rating_count: 3441
 website: http://theyardfoodpark.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover The Yard Food Park in Salem, Oregon$$$The Yard Food Park in Salem,
+  Oregon, stands out as a dynamic food court hub offering an array of culinary
+  delights from various food trucks, making it a go-to spot for diverse dining
+  experiences. This lively venue features a mix of international flavors,
+  including fresh options from Asian-inspired carts, alongside a welcoming
+  taphouse serving refreshing beverages like beer and cocktails to enhance your
+  meal. With wheelchair-accessible entrances and ample seating, it's designed
+  for easy enjoyment, whether you're stopping by for a quick bite or lingering
+  in the spacious indoor and outdoor areas. Open from 11 AM daily, it caters to
+  those seeking convenient, affordable eats in a casual atmosphere, perfect for
+  families or groups exploring local food scenes. Drawing from its vibrant
+  setup, this spot embodies a community gathering place where you can savor
+  global tastes without leaving the neighborhood.
+generative_summary: >-
+  Discover The Yard Food Park in Salem, Oregon$$$The Yard Food Park in Salem,
+  Oregon, stands out as a dynamic food court hub offering an array of culinary
+  delights from various food trucks, making it a go-to spot for diverse dining
+  experiences. This lively venue features a mix of international flavors,
+  including fresh options from Asian-inspired carts, alongside a welcoming
+  taphouse serving refreshing beverages like beer and cocktails to enhance your
+  meal. With wheelchair-accessible entrances and ample seating, it's designed
+  for easy enjoyment, whether you're stopping by for a quick bite or lingering
+  in the spacious indoor and outdoor areas. Open from 11 AM daily, it caters to
+  those seeking convenient, affordable eats in a casual atmosphere, perfect for
+  families or groups exploring local food scenes. Drawing from its vibrant
+  setup, this spot embodies a community gathering place where you can savor
+  global tastes without leaving the neighborhood.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJq6puzNT-v1QRcL-DcnprxME/reviews/ChZDSUhNMG9nS0VJQ0FnTURveGEzOE53EAE
+    relativePublishTimeDescription: in the last week
+    rating: 5
+    text:
+      text: >-
+        Found this place through a Google search, and it was worth the detour.
+        We visited twice in 12 days and went to one place - Jojo's barbecue. 
+        Authentic Southern barbecue with mouth watering sides, particularly the
+        mac and cheese and the home made corn bread. Jojo knows his stuff and,
+        while fried chicken Mondays are good, the barbecue is my favorite.  I
+        wish we lived nearer because there are more than 10 other food vendors
+        that we would love to try.  Maybe next time.
+
+
+        Overall, the idea is great - a central enclosed area with a full bar and
+        tables and over a dozen different food stalls with everything from
+        Asian, to pasta, to sandwiches and Jojo's!.  If you find yourself
+        travelling the I-5 near Salem, drop by.  You will not regret it.
+      languageCode: en
+    originalText:
+      text: >-
+        Found this place through a Google search, and it was worth the detour.
+        We visited twice in 12 days and went to one place - Jojo's barbecue. 
+        Authentic Southern barbecue with mouth watering sides, particularly the
+        mac and cheese and the home made corn bread. Jojo knows his stuff and,
+        while fried chicken Mondays are good, the barbecue is my favorite.  I
+        wish we lived nearer because there are more than 10 other food vendors
+        that we would love to try.  Maybe next time.
+
+
+        Overall, the idea is great - a central enclosed area with a full bar and
+        tables and over a dozen different food stalls with everything from
+        Asian, to pasta, to sandwiches and Jojo's!.  If you find yourself
+        travelling the I-5 near Salem, drop by.  You will not regret it.
+      languageCode: en
+    authorAttribution:
+      displayName: Seb's Dad
+      uri: https://www.google.com/maps/contrib/106977319537753332245/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUt6xmQk_6f7ZZc0sZCdWp40NflR8JDrUKNAnAW9w3Hrsx0uLF_=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-26T22:44:25.578194Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURveGEzOE53EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURveGEzOE53EAE!2m1!1s0x54bffed4cc6eaaab:0xc1c46b7a7283bf70
+  - name: >-
+      places/ChIJq6puzNT-v1QRcL-DcnprxME/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJLU9mSWp3RRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Really cool place! Bunch of different food trucks with all types of food
+        options from pastas, seafood, tacos, boba, comfort foods, sweet treats,
+        Mac & cheese, gyros, & more!
+
+        Inside you can grab beers and ciders and sit down to enjoy your meal!
+        Fun outdoor activities and a heated outdoor area as well!
+      languageCode: en
+    originalText:
+      text: >-
+        Really cool place! Bunch of different food trucks with all types of food
+        options from pastas, seafood, tacos, boba, comfort foods, sweet treats,
+        Mac & cheese, gyros, & more!
+
+        Inside you can grab beers and ciders and sit down to enjoy your meal!
+        Fun outdoor activities and a heated outdoor area as well!
+      languageCode: en
+    authorAttribution:
+      displayName: AJ D.
+      uri: https://www.google.com/maps/contrib/113113176638639940755/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXGMyTjNVn9KJFiMiTLMVNYuPU6mZIbborfSJ3k8LNN3YlSEwJU=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-03-30T07:14:25.736662Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNJLU9mSWp3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNJLU9mSWp3RRAB!2m1!1s0x54bffed4cc6eaaab:0xc1c46b7a7283bf70
+  - name: >-
+      places/ChIJq6puzNT-v1QRcL-DcnprxME/reviews/ChdDSUhNMG9nS0VJQ0FnTURROGZ2Y3BnRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        I Stumbled on this place after seeing an ad for soul food on Google
+        maps. What a Gold mine. OMG, So this food  establishment consists of an
+        assortment of "Food Trucks" that individually provide food of different
+        cultures from "Soul", "Thai", "Cajun Boil", "Grill Cheese incredibles",
+        "Cheesesteak Subs", "Korean", American fish & chips, Philippine Bobas,
+        Punjabi Indian, Mediterranean, just to name a few. So many, it was hard
+        to pick just one, so I indulged in the company of two different heavens.
+        Although I wanted So much more, with a small appetite, I settled with
+        being just slightly overstuffed. Again, OMG. The trucks are stationed
+        outside of an inside common seating area that offers a choice of sofa,
+        love seat area, high round tables, thick rich wood picnic tables, and
+        seating at a Bar that stretches out to the other end for Coffee, Tea &
+        other assortment of drinks. I'm sure whatever you desire.
+
+        My food choices were wonderful, so good, and I hope you can choose
+        something of your liking based on my delightful experience. Whoever came
+        up with this idea really knocked it out of the park. LoL I want to adopt
+        this "Business" idea and apply it to  Metropolitan areas to encourage
+        the coming together of cultures while doing something We all love,
+        feeding our faces with Great food. You gotta visit if near or want to
+        plan a trip just to experience a touch of goodness.
+
+        P.S. _ I noticed a stage inside where there may be live performances on
+        certain days or evenings, which only elevates the environment even more.
+
+        A Most Favorit Place to visit per a google map's enthusiast.
+      languageCode: en
+    originalText:
+      text: >-
+        I Stumbled on this place after seeing an ad for soul food on Google
+        maps. What a Gold mine. OMG, So this food  establishment consists of an
+        assortment of "Food Trucks" that individually provide food of different
+        cultures from "Soul", "Thai", "Cajun Boil", "Grill Cheese incredibles",
+        "Cheesesteak Subs", "Korean", American fish & chips, Philippine Bobas,
+        Punjabi Indian, Mediterranean, just to name a few. So many, it was hard
+        to pick just one, so I indulged in the company of two different heavens.
+        Although I wanted So much more, with a small appetite, I settled with
+        being just slightly overstuffed. Again, OMG. The trucks are stationed
+        outside of an inside common seating area that offers a choice of sofa,
+        love seat area, high round tables, thick rich wood picnic tables, and
+        seating at a Bar that stretches out to the other end for Coffee, Tea &
+        other assortment of drinks. I'm sure whatever you desire.
+
+        My food choices were wonderful, so good, and I hope you can choose
+        something of your liking based on my delightful experience. Whoever came
+        up with this idea really knocked it out of the park. LoL I want to adopt
+        this "Business" idea and apply it to  Metropolitan areas to encourage
+        the coming together of cultures while doing something We all love,
+        feeding our faces with Great food. You gotta visit if near or want to
+        plan a trip just to experience a touch of goodness.
+
+        P.S. _ I noticed a stage inside where there may be live performances on
+        certain days or evenings, which only elevates the environment even more.
+
+        A Most Favorit Place to visit per a google map's enthusiast.
+      languageCode: en
+    authorAttribution:
+      displayName: TFriday
+      uri: https://www.google.com/maps/contrib/116192715447223672257/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWdNNqXFhuvnNhwWHHUdX93IvPH2JRQBXDTdiCheVr_Bo1g_rWR=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-11T21:14:04.204318Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURROGZ2Y3BnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURROGZ2Y3BnRRAB!2m1!1s0x54bffed4cc6eaaab:0xc1c46b7a7283bf70
+  - name: >-
+      places/ChIJq6puzNT-v1QRcL-DcnprxME/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJXzdqMjRnRRAB
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 5
+    text:
+      text: >-
+        Awesome place to try in the area. The beer was great and plenty options
+        to choose from. Good Thai food and burgers too.
+      languageCode: en
+    originalText:
+      text: >-
+        Awesome place to try in the area. The beer was great and plenty options
+        to choose from. Good Thai food and burgers too.
+      languageCode: en
+    authorAttribution:
+      displayName: Ana Garcia
+      uri: https://www.google.com/maps/contrib/102517544850966704050/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLYwdM7VnEGa6UafOHs0hKrtx5Li-lIF_wKWwJ1aOfGJWFFFA=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-04-05T23:05:59.249172Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNJXzdqMjRnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNJXzdqMjRnRRAB!2m1!1s0x54bffed4cc6eaaab:0xc1c46b7a7283bf70
+  - name: >-
+      places/ChIJq6puzNT-v1QRcL-DcnprxME/reviews/ChdDSUhNMG9nS0VJQ0FnSUNQcHJqSHF3RRAB
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        The carne asada over baked avocado was phenomenal!!
+
+        The Tom Kha was heavy on the fish sauce, not my favorite that I’ve had.
+
+        The gyro was good.
+
+        The Dreaming of Sushi, the fish tasted off and the seaweed smelled like
+        mold. I wouldn’t recommend it, though they were kind enough to give us a
+        refund.
+
+        Overall, love the atmosphere and food options! Would have tried the crab
+        meal but it’s $40.
+      languageCode: en
+    originalText:
+      text: >-
+        The carne asada over baked avocado was phenomenal!!
+
+        The Tom Kha was heavy on the fish sauce, not my favorite that I’ve had.
+
+        The gyro was good.
+
+        The Dreaming of Sushi, the fish tasted off and the seaweed smelled like
+        mold. I wouldn’t recommend it, though they were kind enough to give us a
+        refund.
+
+        Overall, love the atmosphere and food options! Would have tried the crab
+        meal but it’s $40.
+      languageCode: en
+    authorAttribution:
+      displayName: Joel Belmont
+      uri: https://www.google.com/maps/contrib/117579318031652454057/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjU7JGiHIJOqo2zDC-E1up0aSRdTatBxUA94vbGL1mmRuh8VbArR=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-11-23T21:19:30.521454Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNQcHJqSHF3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNQcHJqSHF3RRAB!2m1!1s0x54bffed4cc6eaaab:0xc1c46b7a7283bf70
+review_summary: >-
+  What People Are Buzzing About$$$Folks rave about the incredible variety at
+  this food park, with tons of options from tasty Thai dishes to juicy burgers
+  that keep everyone coming back for more. Many highlight the fun, relaxed vibe,
+  including the indoor bar with great beers and ciders, plus outdoor activities
+  that make it a hit for casual hangouts or family outings. While most feedback
+  focuses on the flavorful picks and welcoming setup, some note that certain
+  items like sushi might vary in freshness, though the overall experience
+  remains upbeat and accommodating. It's often described as a top choice for
+  affordable, satisfying meals in a lively setting, encouraging visitors to mix
+  and match from the lineup for a personalized feast. All in all, this place
+  delivers solid vibes and delicious finds, making it worth checking out if
+  you're hunting for fresh eats nearby.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsDebitCards: true
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
+curbside_pickup: false
 delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
+dine_in: true
+good_for_children: true
+good_for_groups: true
 good_for_sports: null
 live_music: null
 menu_for_children: null
@@ -222,8 +599,10 @@ serves_dessert: null
 serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+takeout: true
+update_category: atmosphere
+places_description: >-
+  A collection of food carts featuring various eats, a sit-down bar, picnic
+  table seating & events.
 
 ---

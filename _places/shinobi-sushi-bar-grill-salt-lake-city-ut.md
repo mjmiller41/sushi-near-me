@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Shinobi Sushi Bar & Grill"
+title: Shinobi Sushi Bar & Grill
 permalink: /utah/salt-lake-city/shinobi-sushi-bar-grill.html
 stateAbbr: UT
 stateName: Utah
 cityName: Salt Lake City
 seo:
-  name: "Shinobi Sushi Bar & Grill"
-  type: Restaurant
+  type: restaurant
   links: https://shinobislc.com/
-description: "Shinobi Sushi Bar & Grill serves delicious sushi in Salt Lake City, Utah. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJc8BLAhf1UocRVu_zhW-Gfrc
 photos:
   - name: >-
@@ -170,22 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8752f517024bc073:0xb77e866f85f3ef56!10e5
 primary_type: Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 15
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 15
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 15
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 15
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 14
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 14
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 3:30 – 9:00 PM'
-    - 'Tuesday: 3:30 – 9:00 PM'
+    - 'Tuesday: Closed'
     - 'Wednesday: 3:30 – 9:00 PM'
     - 'Thursday: 3:30 – 9:00 PM'
     - 'Friday: 2:30 – 9:30 PM'
     - 'Saturday: 2:30 – 9:30 PM'
     - 'Sunday: 3:30 – 9:00 PM'
-  current:
-    - 'Monday: 3:30 – 9:00 PM'
-    - 'Tuesday: 3:30 – 9:00 PM'
-    - 'Wednesday: 3:30 – 9:00 PM'
-    - 'Thursday: 3:30 – 9:00 PM'
-    - 'Friday: 2:30 – 9:30 PM'
-    - 'Saturday: 2:30 – 9:30 PM'
-    - 'Sunday: 3:30 – 9:00 PM'
+  nextCloseTime: '2025-05-04T03:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +238,345 @@ phone: (385) 429-9428
 price_level: null
 price_range: $20 &ndash; $30
 rating: '4.6'
-rating_count: 0
+rating_count: 264
 website: https://shinobislc.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Explore Shinobi Sushi in Salt Lake City$$$Shinobi Sushi Bar & Grill in Salt
+  Lake City, UT, offers a casual dining experience rooted in over two decades of
+  expertise in Japanese cuisine, making it a go-to spot for authentic flavors
+  and welcoming vibes. The restaurant features a spacious interior with
+  thoughtful accessibility options, including wheelchair-friendly parking,
+  entrances, and seating, ensuring everyone can enjoy their visit comfortably.
+  Diners can savor fresh sushi rolls and Japanese-inspired dishes in a clean,
+  relaxed atmosphere, complemented by convenient parking and a menu that caters
+  to various tastes. With evening hours that extend into the night on select
+  days, it's an ideal choice for those seeking quality Japanese fare in a
+  neighborhood setting. This spot stands out for its commitment to fresh
+  ingredients and a straightforward approach to traditional dishes, appealing to
+  anyone exploring top-rated sushi options nearby.
+generative_summary: >-
+  Explore Shinobi Sushi in Salt Lake City$$$Shinobi Sushi Bar & Grill in Salt
+  Lake City, UT, offers a casual dining experience rooted in over two decades of
+  expertise in Japanese cuisine, making it a go-to spot for authentic flavors
+  and welcoming vibes. The restaurant features a spacious interior with
+  thoughtful accessibility options, including wheelchair-friendly parking,
+  entrances, and seating, ensuring everyone can enjoy their visit comfortably.
+  Diners can savor fresh sushi rolls and Japanese-inspired dishes in a clean,
+  relaxed atmosphere, complemented by convenient parking and a menu that caters
+  to various tastes. With evening hours that extend into the night on select
+  days, it's an ideal choice for those seeking quality Japanese fare in a
+  neighborhood setting. This spot stands out for its commitment to fresh
+  ingredients and a straightforward approach to traditional dishes, appealing to
+  anyone exploring top-rated sushi options nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJc8BLAhf1UocRVu_zhW-Gfrc/reviews/ChdDSUhNMG9nS0VJQ0FnSUM3NzVxUDVBRRAB
+    relativePublishTimeDescription: 8 months ago
+    rating: 3
+    text:
+      text: >-
+        Stopped in for dinner with family. We tried the Nabeyaki udon noodles
+        and several hand rolls including: Shinobi special, Mexi, Spicy hamachi,
+        Phoenix, and Rainbow. I thought the mexi was the most unique hand roll
+        with hints of cilantro. One thing I normally enjoy about sushi are the
+        contrasting flavors and textures. I have to say that in general I found
+        this sushi to be disappointing. The fish was fresh but when I ate each
+        bite it seemed muted in flavor… weak in those contrasting flavors I
+        love. The texture was not varied either but I do realize that is a
+        strong function of the hand rolls I ordered. Atmosphere was great and
+        service was good and friendly. Prices are on the higher side but not
+        ridiculous.
+      languageCode: en
+    originalText:
+      text: >-
+        Stopped in for dinner with family. We tried the Nabeyaki udon noodles
+        and several hand rolls including: Shinobi special, Mexi, Spicy hamachi,
+        Phoenix, and Rainbow. I thought the mexi was the most unique hand roll
+        with hints of cilantro. One thing I normally enjoy about sushi are the
+        contrasting flavors and textures. I have to say that in general I found
+        this sushi to be disappointing. The fish was fresh but when I ate each
+        bite it seemed muted in flavor… weak in those contrasting flavors I
+        love. The texture was not varied either but I do realize that is a
+        strong function of the hand rolls I ordered. Atmosphere was great and
+        service was good and friendly. Prices are on the higher side but not
+        ridiculous.
+      languageCode: en
+    authorAttribution:
+      displayName: Justin Crapps
+      uri: https://www.google.com/maps/contrib/104585283398757076411/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXtu3JLxs6pUTQyHf4OMHZdraSosBizvbtDdaeF7ygVwfDPcCqW=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-08-19T12:17:57.511197Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUM3NzVxUDVBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUM3NzVxUDVBRRAB!2m1!1s0x8752f517024bc073:0xb77e866f85f3ef56
+  - name: >-
+      places/ChIJc8BLAhf1UocRVu_zhW-Gfrc/reviews/ChdDSUhNMG9nS0VJQ0FnSUMzc095aHNnRRAB
+    relativePublishTimeDescription: 6 months ago
+    rating: 3
+    text:
+      text: >-
+        I wanted to love it so bad cause it’s so close to home. The environment
+        is sterile. The staff was soooo friendly. My owner got the Alaskan and
+        playboy and the Shinobi which were good. The calamari was bland and the
+        jalapeño poppers were almost raw. The snow crab doesn’t taste like
+        anything and the crunchy roll doesn’t either. Luckily it wasn’t bad, it
+        just definitely wasn’t good.
+      languageCode: en
+    originalText:
+      text: >-
+        I wanted to love it so bad cause it’s so close to home. The environment
+        is sterile. The staff was soooo friendly. My owner got the Alaskan and
+        playboy and the Shinobi which were good. The calamari was bland and the
+        jalapeño poppers were almost raw. The snow crab doesn’t taste like
+        anything and the crunchy roll doesn’t either. Luckily it wasn’t bad, it
+        just definitely wasn’t good.
+      languageCode: en
+    authorAttribution:
+      displayName: Ashtyn Aure
+      uri: https://www.google.com/maps/contrib/110676336364199137740/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWmRyHu-8P1JW3ttBvLbONzSuPu_r6iiDY5pumf5STXT8vNeiEgrQ=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-11-02T03:03:20.402612Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMzc095aHNnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMzc095aHNnRRAB!2m1!1s0x8752f517024bc073:0xb77e866f85f3ef56
+  - name: >-
+      places/ChIJc8BLAhf1UocRVu_zhW-Gfrc/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ5MS1xYUhBEAE
+    relativePublishTimeDescription: a year ago
+    rating: 1
+    text:
+      text: >-
+        We discovered Shinobi through a sponsored add on Instagram. After
+        looking at Yelp and Google reviews we had high expectations and were
+        excited to try it. We came in a few minutes after opening and were
+        seated right away. The decor was fun and the restaurant was spacious.
+
+
+        We were deciding on hand rolls and asked the waitress what types of 
+        hand rolls they have and it didn't seem like she knew the menu. She had
+        to ask her co-worker about the menu. We ended up getting the calamari
+        for an appetizer. It tasted mostly of breading and could barely taste
+        the calamari. The large sashimi platter was $45 and the fish tasted
+        off.. it didn't taste fresh at all and was slimy and warm. The tuna had
+        a film on it and the salmon left some slimy spots on the plate. We were
+        struggling to finish it.
+
+
+        We picked 2 rolls, the Phoenix roll and the firecracker roll. The
+        firecracker was doused in sauce and you can't taste any of the fish. The
+        Phoenix roll  was okay.
+
+
+        The service could use some improvement. Our waitress came over a little
+        after we started eating to give us our checks.. we weren't halfway
+        through eating our food. When we were ready to pay, she cleared our
+        table and passed by several more times but didn't grab the check. It
+        took over 15 minutes for her to grab it. When she did ring us up, she
+        was standing at the counter talking to her co worker for another 5
+        minutes before bringing us our check to sign.
+
+
+        Overall, the ambiance of the restaurant
+
+        was good, but the food wasn't. Our total ended up being $100 and it
+        wasn't worth it. This was probably the most disappointing dining
+        experience we've had.
+      languageCode: en
+    originalText:
+      text: >-
+        We discovered Shinobi through a sponsored add on Instagram. After
+        looking at Yelp and Google reviews we had high expectations and were
+        excited to try it. We came in a few minutes after opening and were
+        seated right away. The decor was fun and the restaurant was spacious.
+
+
+        We were deciding on hand rolls and asked the waitress what types of 
+        hand rolls they have and it didn't seem like she knew the menu. She had
+        to ask her co-worker about the menu. We ended up getting the calamari
+        for an appetizer. It tasted mostly of breading and could barely taste
+        the calamari. The large sashimi platter was $45 and the fish tasted
+        off.. it didn't taste fresh at all and was slimy and warm. The tuna had
+        a film on it and the salmon left some slimy spots on the plate. We were
+        struggling to finish it.
+
+
+        We picked 2 rolls, the Phoenix roll and the firecracker roll. The
+        firecracker was doused in sauce and you can't taste any of the fish. The
+        Phoenix roll  was okay.
+
+
+        The service could use some improvement. Our waitress came over a little
+        after we started eating to give us our checks.. we weren't halfway
+        through eating our food. When we were ready to pay, she cleared our
+        table and passed by several more times but didn't grab the check. It
+        took over 15 minutes for her to grab it. When she did ring us up, she
+        was standing at the counter talking to her co worker for another 5
+        minutes before bringing us our check to sign.
+
+
+        Overall, the ambiance of the restaurant
+
+        was good, but the food wasn't. Our total ended up being $100 and it
+        wasn't worth it. This was probably the most disappointing dining
+        experience we've had.
+      languageCode: en
+    authorAttribution:
+      displayName: julie
+      uri: https://www.google.com/maps/contrib/102341084253727709467/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJl85rj4u5ZU4_W5exQ9GySdWVctSc9yYi992A_FGjPjeNjww=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-03-22T05:05:59.360784Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQ5MS1xYUhBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQ5MS1xYUhBEAE!2m1!1s0x8752f517024bc073:0xb77e866f85f3ef56
+  - name: >-
+      places/ChIJc8BLAhf1UocRVu_zhW-Gfrc/reviews/ChZDSUhNMG9nS0VJQ0FnSURyaEp1c1dBEAE
+    relativePublishTimeDescription: 9 months ago
+    rating: 5
+    text:
+      text: >-
+        We wanted sushi as a family while we were downtown SLC. All of our
+        favorites had 1-2 hour waits so we were on our way home when we saw
+        Shinobi. Glad we stopped by. Delicious sushi, all very fresh and fish
+        forward. Prompt service, nicely decorated interior, and friendly staff.
+        We got the Samari, Shinobi Special, Winter, Spicy Hamachi,
+
+        Red Line, Playboy, and California rolls. All were pretty well executed
+        with nice flavors, textures, and finishing sauces.
+      languageCode: en
+    originalText:
+      text: >-
+        We wanted sushi as a family while we were downtown SLC. All of our
+        favorites had 1-2 hour waits so we were on our way home when we saw
+        Shinobi. Glad we stopped by. Delicious sushi, all very fresh and fish
+        forward. Prompt service, nicely decorated interior, and friendly staff.
+        We got the Samari, Shinobi Special, Winter, Spicy Hamachi,
+
+        Red Line, Playboy, and California rolls. All were pretty well executed
+        with nice flavors, textures, and finishing sauces.
+      languageCode: en
+    authorAttribution:
+      displayName: Chris S
+      uri: https://www.google.com/maps/contrib/111107682504176646952/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXnXLfrsnLAwE7RzzvwGH9svooGA9ZG7EI_GbNaC9xKHkbGE1JJ=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2024-07-14T20:58:04.419457Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURyaEp1c1dBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURyaEp1c1dBEAE!2m1!1s0x8752f517024bc073:0xb77e866f85f3ef56
+  - name: >-
+      places/ChIJc8BLAhf1UocRVu_zhW-Gfrc/reviews/ChZDSUhNMG9nS0VJQ0FnSUN0Mk9XdEFREAE
+    relativePublishTimeDescription: a year ago
+    rating: 4
+    text:
+      text: >-
+        This is the cutest little place! I’m always hesitant to go somewhere new
+        in Salt Lake because of the parking situation. Went here on a Friday
+        night & there was plenty of free parking, which I appreciated. The front
+        door is located in the back, which was very confusing. I ended up
+        walking around the whole building before figuring this out. I ordered a
+        cosmopolitan drink. It was delicious & beautiful in design as well. We
+        ordered the seaweed salad & edamame to share. Seaweed salad was pretty
+        good, the sesseme oil was strong in this dish, but not overbearing. The
+        edamame was really dry when we received it. It was also the last thing
+        brought to our table, after our main course food. Which also seemed a
+        little odd. My friend is gluten free so she ordered the avocado roll,
+        Tekka roll, & Sake Maki roll. All three rolls seemed very simple & she
+        really enjoyed them. I ordered the simple veggie roll, which was exactly
+        as it sounds, very simple. Not my favorite, but it was okay. I also
+        ordered the Shinobi veggie roll & I was in love with this roll!! It has
+        tempura pumpkin wrapped in soy paper topped with fresh avocado. Highly
+        recommend this vegetarian roll! My friend was not able to try it because
+        of the tempura. I love that they have a few veggie rolls separate on
+        their menu from all the other rolls. It made it easy to figure out which
+        rolls I could eat. Staff was great & very attentive. I would definitely
+        go back & do recommend for your next sushi outing!
+      languageCode: en
+    originalText:
+      text: >-
+        This is the cutest little place! I’m always hesitant to go somewhere new
+        in Salt Lake because of the parking situation. Went here on a Friday
+        night & there was plenty of free parking, which I appreciated. The front
+        door is located in the back, which was very confusing. I ended up
+        walking around the whole building before figuring this out. I ordered a
+        cosmopolitan drink. It was delicious & beautiful in design as well. We
+        ordered the seaweed salad & edamame to share. Seaweed salad was pretty
+        good, the sesseme oil was strong in this dish, but not overbearing. The
+        edamame was really dry when we received it. It was also the last thing
+        brought to our table, after our main course food. Which also seemed a
+        little odd. My friend is gluten free so she ordered the avocado roll,
+        Tekka roll, & Sake Maki roll. All three rolls seemed very simple & she
+        really enjoyed them. I ordered the simple veggie roll, which was exactly
+        as it sounds, very simple. Not my favorite, but it was okay. I also
+        ordered the Shinobi veggie roll & I was in love with this roll!! It has
+        tempura pumpkin wrapped in soy paper topped with fresh avocado. Highly
+        recommend this vegetarian roll! My friend was not able to try it because
+        of the tempura. I love that they have a few veggie rolls separate on
+        their menu from all the other rolls. It made it easy to figure out which
+        rolls I could eat. Staff was great & very attentive. I would definitely
+        go back & do recommend for your next sushi outing!
+      languageCode: en
+    authorAttribution:
+      displayName: Chirelle Pearson
+      uri: https://www.google.com/maps/contrib/118426324835620117499/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXAMrnGbM_TtU9la3aFdD8tDGSncj-ATB2Yz-OJWDUPTlDho1I=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2024-01-28T18:50:16.075259Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN0Mk9XdEFREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN0Mk9XdEFREAE!2m1!1s0x8752f517024bc073:0xb77e866f85f3ef56
+review_summary: >-
+  What Customers Are Buzzing About$$$Visitors to this sushi spot often highlight
+  the fresh, high-quality fish and well-prepared rolls that bring out delightful
+  flavors, making it a solid pick for anyone craving Japanese cuisine. While
+  most folks appreciate the friendly staff and casual, clean ambiance that adds
+  to the overall enjoyment, a few note that some dishes might feel a bit mild or
+  inconsistent in seasoning. Overall, the experience leans positive with quick
+  service and a welcoming feel that keeps people coming back for favorites like
+  specialty rolls. If you're hunting for sushi near you, this place delivers on
+  freshness and atmosphere, though it's worth trying a variety of items to find
+  your perfect match. In summary, it's a reliable choice for casual diners
+  looking for good vibes and tasty bites, with the high ratings reflecting its
+  appeal in the local scene.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
+delivery: false
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: true
+live_music: false
 menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
 serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+serves_brunch: false
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

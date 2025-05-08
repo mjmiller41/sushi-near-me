@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Cafe"
+title: Sushi Cafe
 permalink: /washington/renton/sushi-cafe.html
 stateAbbr: WA
 stateName: Washington
 cityName: Renton
 seo:
-  name: "Sushi Cafe"
-  type: Restaurant
+  type: restaurant
   links: http://www.sushicaferenton.com/
-description: "Sushi Cafe serves delicious sushi in Renton, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJtaQ1KdpnkFQRWmsRhmg0gFA
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x549067da2935a4b5:0x5080346886116b5a!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 9:00 PM'
     - 'Tuesday: 11:30 AM – 9:00 PM'
     - 'Wednesday: 11:30 AM – 9:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 9:00 PM'
     - 'Saturday: 11:30 AM – 9:00 PM'
     - 'Sunday: 11:30 AM – 9:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 9:00 PM'
-    - 'Tuesday: 11:30 AM – 9:00 PM'
-    - 'Wednesday: 11:30 AM – 9:00 PM'
-    - 'Thursday: 11:30 AM – 9:00 PM'
-    - 'Friday: 11:30 AM – 9:00 PM'
-    - 'Saturday: 11:30 AM – 9:00 PM'
-    - 'Sunday: 11:30 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,236 @@ phone: (425) 988-3650
 price_level: PRICE_LEVEL_MODERATE
 price_range: $30 &ndash; $50
 rating: '4.6'
-rating_count: 0
+rating_count: 715
 website: http://www.sushicaferenton.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Experience Sushi Cafe in Renton, WA$$$Sushi Cafe in Renton, WA, offers a
+  casual dining atmosphere perfect for enjoying fresh sushi rolls and
+  Japanese-inspired dishes in a welcoming setting. This spot stands out with its
+  variety of options, including gluten-free, vegetarian, and vegan choices,
+  making it accessible for different dietary needs while maintaining
+  high-quality flavors. Patrons can savor a selection of nigiri and creative
+  rolls alongside beverages like sake and Japanese beer, all in a relaxed
+  environment that's easy to access with wheelchair-friendly features and
+  outdoor seating. The restaurant's moderate pricing provides great value for
+  generous portions, appealing to those seeking top-rated sushi experiences
+  nearby. Open daily for lunch and dinner, it's an ideal choice for anyone
+  exploring sushi places near me in the area.
+generative_summary: >-
+  Experience Sushi Cafe in Renton, WA$$$Sushi Cafe in Renton, WA, offers a
+  casual dining atmosphere perfect for enjoying fresh sushi rolls and
+  Japanese-inspired dishes in a welcoming setting. This spot stands out with its
+  variety of options, including gluten-free, vegetarian, and vegan choices,
+  making it accessible for different dietary needs while maintaining
+  high-quality flavors. Patrons can savor a selection of nigiri and creative
+  rolls alongside beverages like sake and Japanese beer, all in a relaxed
+  environment that's easy to access with wheelchair-friendly features and
+  outdoor seating. The restaurant's moderate pricing provides great value for
+  generous portions, appealing to those seeking top-rated sushi experiences
+  nearby. Open daily for lunch and dinner, it's an ideal choice for anyone
+  exploring sushi places near me in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJtaQ1KdpnkFQRWmsRhmg0gFA/reviews/ChdDSUhNMG9nS0VJQ0FnSURyaUllaDZ3RRAB
+    relativePublishTimeDescription: 9 months ago
+    rating: 4
+    text:
+      text: >-
+        Cute place at the back of a strip mall.  Service was friendly but slow. 
+        Food is good, some of the specialty rolls are unique.  I asked my server
+        to recommend one of the best and she stated the "Fancy Pants" which did
+        have great flavor but was a little small for the price.  Overall decent
+        place I would go back to.
+      languageCode: en
+    originalText:
+      text: >-
+        Cute place at the back of a strip mall.  Service was friendly but slow. 
+        Food is good, some of the specialty rolls are unique.  I asked my server
+        to recommend one of the best and she stated the "Fancy Pants" which did
+        have great flavor but was a little small for the price.  Overall decent
+        place I would go back to.
+      languageCode: en
+    authorAttribution:
+      displayName: Erin Kelley
+      uri: https://www.google.com/maps/contrib/116888271504189073402/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjV9p9l1fGLWkFUfvQjDoCM22eMrOBLKkH5zxxH6NJE1c0pXfgNb=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-07-13T13:36:15.110322Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURyaUllaDZ3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURyaUllaDZ3RRAB!2m1!1s0x549067da2935a4b5:0x5080346886116b5a
+  - name: >-
+      places/ChIJtaQ1KdpnkFQRWmsRhmg0gFA/reviews/ChZDSUhNMG9nS0VJQ0FnSUR2NDhDdElnEAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        Food was amazing. We love coming here a lot. Sushi was great and the
+        service is amazing as well. Shoutout the cook and staff.
+      languageCode: en
+    originalText:
+      text: >-
+        Food was amazing. We love coming here a lot. Sushi was great and the
+        service is amazing as well. Shoutout the cook and staff.
+      languageCode: en
+    authorAttribution:
+      displayName: R. L.
+      uri: https://www.google.com/maps/contrib/105520373472702749420/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWPdcC4I8eWMnl7OZwY8nR5eDvQ0gaIGmdW2vvE2xwFyDnjv8Z_iw=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2024-12-23T16:21:30.810881Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR2NDhDdElnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR2NDhDdElnEAE!2m1!1s0x549067da2935a4b5:0x5080346886116b5a
+  - name: >-
+      places/ChIJtaQ1KdpnkFQRWmsRhmg0gFA/reviews/ChdDSUhNMG9nS0VJQ0FnSUNYN29hTjZBRRAB
+    relativePublishTimeDescription: 6 months ago
+    rating: 5
+    text:
+      text: >-
+        Omg where do I start? I went over for my lunch today, I wanted sushi and
+        wanted to try something local. Found them on Apple Maps and went over. I
+        walked in and was immediately greeted by the sushi chefs, they let me
+        know how to order to go and showed me the menu. The waiter was helping a
+        table, but when he was finished he immediately greeted me and offered me
+        some water while I waited for my order. He was a great conversationist
+        and was so kind.
+
+
+        The staff was so warm and welcoming, the food is AMAZING. If you want
+        local sushi, go here! The price is great for the amount of food you get.
+        The fish is so fresh and delicious. I think I found my new sushi spot.
+      languageCode: en
+    originalText:
+      text: >-
+        Omg where do I start? I went over for my lunch today, I wanted sushi and
+        wanted to try something local. Found them on Apple Maps and went over. I
+        walked in and was immediately greeted by the sushi chefs, they let me
+        know how to order to go and showed me the menu. The waiter was helping a
+        table, but when he was finished he immediately greeted me and offered me
+        some water while I waited for my order. He was a great conversationist
+        and was so kind.
+
+
+        The staff was so warm and welcoming, the food is AMAZING. If you want
+        local sushi, go here! The price is great for the amount of food you get.
+        The fish is so fresh and delicious. I think I found my new sushi spot.
+      languageCode: en
+    authorAttribution:
+      displayName: Chelsea Robinson
+      uri: https://www.google.com/maps/contrib/107856136763514232732/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUU3STokY5xeGH1AqGL0R4SClyLDKjOEChfOWuDGjnqnV5U8cg7KA=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-10-16T20:54:55.177862Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNYN29hTjZBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNYN29hTjZBRRAB!2m1!1s0x549067da2935a4b5:0x5080346886116b5a
+  - name: >-
+      places/ChIJtaQ1KdpnkFQRWmsRhmg0gFA/reviews/ChZDSUhNMG9nS0VJQ0FnTURJdUtlbVN3EAE
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 5
+    text:
+      text: >-
+        This is my favorite sushi place and if you love sashimi they have it
+        down beautiful! For a non rice based roll, the Sunset Roll is
+        phenomenal!!!! Every roll I've had, though, is delicious. Agedashi tofu
+        is yum, and all I've had on their menu.
+      languageCode: en
+    originalText:
+      text: >-
+        This is my favorite sushi place and if you love sashimi they have it
+        down beautiful! For a non rice based roll, the Sunset Roll is
+        phenomenal!!!! Every roll I've had, though, is delicious. Agedashi tofu
+        is yum, and all I've had on their menu.
+      languageCode: en
+    authorAttribution:
+      displayName: Rebecca Haas
+      uri: https://www.google.com/maps/contrib/114598809902863140372/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjX2x4MmAmH21zY4Oj_frH89jd_LRa5lq4Wnnn0mLC4GLrHuXSnO=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-07T00:35:45.089288Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURJdUtlbVN3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJdUtlbVN3EAE!2m1!1s0x549067da2935a4b5:0x5080346886116b5a
+  - name: >-
+      places/ChIJtaQ1KdpnkFQRWmsRhmg0gFA/reviews/ChZDSUhNMG9nS0VJQ0FnSURUdWJUX0tREAE
+    relativePublishTimeDescription: 11 months ago
+    rating: 4
+    text:
+      text: >-
+        The restaurant is spacious and very clean. The food tastes good, but
+        there's room for improvement: the phad see ew sauce was quite sweet, and
+        the Phad Thai was too bland. The service is good!
+      languageCode: en
+    originalText:
+      text: >-
+        The restaurant is spacious and very clean. The food tastes good, but
+        there's room for improvement: the phad see ew sauce was quite sweet, and
+        the Phad Thai was too bland. The service is good!
+      languageCode: en
+    authorAttribution:
+      displayName: Outdoor World
+      uri: https://www.google.com/maps/contrib/100825263841414659559/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjW8GFJ96fX8-QghYnahQYQvZPwwwKI2gGKk45mCx4kGJO3PReon=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2024-05-26T01:00:44.923712Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURUdWJUX0tREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURUdWJUX0tREAE!2m1!1s0x549067da2935a4b5:0x5080346886116b5a
+review_summary: >-
+  Insights from Customer Feedback$$$Visitors to this sushi restaurant often rave
+  about the delicious and fresh sushi rolls, with many highlighting standout
+  options like creative specials that deliver bold flavors and satisfying meals.
+  While the service is frequently described as friendly and attentive, a few
+  notes mention occasional waits during busy times, though it doesn't overshadow
+  the overall positive vibe. Folks appreciate the great value for the price,
+  especially for non-rice based rolls and fresh sashimi that keep diners coming
+  back for more. Overall, the atmosphere and food quality make it a solid pick
+  for anyone searching for the best sushi near me, blending tasty options with a
+  welcoming feel. If you're in the mood for Japanese places near me, this spot
+  earns high marks for its consistent appeal and enjoyable dining experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: false
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+curbside_pickup: false
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: true
+live_music: false
+menu_for_children: false
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: false
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Relaxed hangout for a selection of nigiri & rolled sushi alongside sake &
+  Japanese beer.
 
 ---

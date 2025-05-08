@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Hiro 88 Haymarket"
+title: Hiro 88 Haymarket
 permalink: /nebraska/lincoln/hiro-88-haymarket.html
 stateAbbr: NE
 stateName: Nebraska
 cityName: Lincoln
 seo:
-  name: "Hiro 88 Haymarket"
-  type: Restaurant
-  links: null
-description: "Hiro 88 Haymarket serves delicious sushi in Lincoln, Nebraska. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.hiro88.com/
 place_id: ChIJfy_dYxy_locRwWgWnYcOg2A
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8796bf1c63dd2f7f:0x60830e879d1668c1!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 10:00 PM'
+    - 'Tuesday: 11:00 AM – 10:00 PM'
+    - 'Wednesday: 11:00 AM – 10:00 PM'
+    - 'Thursday: 11:00 AM – 10:00 PM'
+    - 'Friday: 11:00 AM – 11:00 PM'
+    - 'Saturday: 11:00 AM – 11:00 PM'
+    - 'Sunday: 11:00 AM – 10:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,46 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
+phone: (402) 261-9388
+price_level: PRICE_LEVEL_MODERATE
 price_range: null
-rating: null
-rating_count: 0
-website: null
+rating: '4.2'
+rating_count: 731
+website: http://www.hiro88.com/
+description: >-
+  Discover Hiro 88 Haymarket in Lincoln, NE$$$Hiro 88 Haymarket in Lincoln, NE,
+  stands out as a casual dining destination blending Pan-Asian flavors with
+  fresh sushi and innovative fusion dishes. This spot offers a welcoming
+  atmosphere where patrons can enjoy creative cocktails alongside a menu that
+  highlights quality ingredients and thoughtful presentations. With its
+  convenient hours and accessibility features, it's an ideal choice for those
+  seeking a relaxed meal in a vibrant setting. The restaurant's commitment to
+  variety ensures options for different tastes, from classic rolls to modern
+  twists, making it a go-to for anyone exploring sushi restaurants in the area.
+generative_summary: >-
+  Discover Hiro 88 Haymarket in Lincoln, NE$$$Hiro 88 Haymarket in Lincoln, NE,
+  stands out as a casual dining destination blending Pan-Asian flavors with
+  fresh sushi and innovative fusion dishes. This spot offers a welcoming
+  atmosphere where patrons can enjoy creative cocktails alongside a menu that
+  highlights quality ingredients and thoughtful presentations. With its
+  convenient hours and accessibility features, it's an ideal choice for those
+  seeking a relaxed meal in a vibrant setting. The restaurant's commitment to
+  variety ensures options for different tastes, from classic rolls to modern
+  twists, making it a go-to for anyone exploring sushi restaurants in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Folks frequently praise the flavorful sushi rolls
+  and crab rangoons at this Lincoln eatery, noting how they deliver a satisfying
+  mix of fresh tastes and textures. The service stands out as warm and
+  attentive, helping to create a smooth and enjoyable dining experience that
+  keeps people coming back. Many appreciate the clean, upscale vibe that makes
+  it feel like a great spot for casual get-togethers or date nights at top-rated
+  sushi places. While some mention that prices might feel a bit steep compared
+  to other options nearby, the overall value shines through for those who love
+  quality Japanese-inspired fare. If you're hunting for sushi near me, this
+  place often leaves diners feeling glad they stopped by for a solid meal.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +307,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

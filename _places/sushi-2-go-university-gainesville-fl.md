@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi-2-Go University"
+title: Sushi-2-Go University
 permalink: /florida/gainesville/sushi-2-go-university.html
 stateAbbr: FL
 stateName: Florida
 cityName: Gainesville
 seo:
-  name: "Sushi-2-Go University"
-  type: Restaurant
+  type: restaurant
   links: http://www.sushi2go.com/
-description: "Casual restaurant serving sushi rolls, dumplings & egg rolls for dine-in, takeout or delivery. Sushi-2-Go University serves delicious sushi in Gainesville, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ41ggbI-j6IgRz-2fxT-tEMM
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $10 &ndash; $20
 rating: '4.2'
 rating_count: 0
 website: http://www.sushi2go.com/
+description: >-
+  Explore Sushi-2-Go in Gainesville, FL$$$Sushi-2-Go University in Gainesville,
+  FL, stands out as a laid-back spot for enjoying fresh sushi rolls and
+  flavorful dumplings, perfect for those seeking casual Japanese-inspired
+  dining. With affordable options and creative deals that highlight fresh
+  ingredients, it's an ideal choice for quick meals or sharing with friends,
+  making it a go-to for everyday cravings. The menu offers customizable dishes
+  that cater to a variety of tastes, ensuring a personalized experience whether
+  you're dining in or opting for takeout. This welcoming eatery emphasizes
+  reliable service and accessibility, appealing to anyone looking for satisfying
+  sushi in a straightforward setting near local hotspots.
+generative_summary: >-
+  Explore Sushi-2-Go in Gainesville, FL$$$Sushi-2-Go University in Gainesville,
+  FL, stands out as a laid-back spot for enjoying fresh sushi rolls and
+  flavorful dumplings, perfect for those seeking casual Japanese-inspired
+  dining. With affordable options and creative deals that highlight fresh
+  ingredients, it's an ideal choice for quick meals or sharing with friends,
+  making it a go-to for everyday cravings. The menu offers customizable dishes
+  that cater to a variety of tastes, ensuring a personalized experience whether
+  you're dining in or opting for takeout. This welcoming eatery emphasizes
+  reliable service and accessibility, appealing to anyone looking for satisfying
+  sushi in a straightforward setting near local hotspots.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ41ggbI-j6IgRz-2fxT-tEMM/reviews/ChdDSUhNMG9nS0VJQ0FnSUNycXM2M3JnRRAB
@@ -388,6 +409,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNRdnFQWFFnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNRdnFQWFFnEAE!2m1!1s0x88e8a38f6c2058e3:0xc310ad3fc59fedcf
+review_summary: >-
+  What Reviewers Are Buzzing About$$$Visitors to this sushi spot often rave
+  about the fresh flavors and great value, with many highlighting the affordable
+  rolls and tasty deals that make it a smart pick for a quick bite or family
+  meal. Folks appreciate the friendly service and variety of options, like wings
+  and custom rolls, which travel well for pickup or delivery, adding to its
+  convenience for busy days. While most experiences are positive, with praise
+  for the welcoming atmosphere and overall quality, a few mentions of occasional
+  payment issues remind us that double-checking orders is always a good idea.
+  Overall, it's a solid choice for anyone hunting for top-rated sushi nearby,
+  offering a mix of reliable favorites that keep customers coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -421,8 +454,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Casual restaurant serving sushi rolls, dumplings & egg rolls for dine-in,
   takeout or delivery.
 

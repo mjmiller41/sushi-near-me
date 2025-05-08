@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Best Sushi & Teriyaki"
+title: Best Sushi & Teriyaki
 permalink: /washington/lynnwood/best-sushi-teriyaki.html
 stateAbbr: WA
 stateName: Washington
 cityName: Lynnwood
 seo:
-  name: "Best Sushi & Teriyaki"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Best Sushi & Teriyaki serves delicious sushi in Lynnwood, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ78VflDYFkFQRvw-HG9--3m0
 photos:
   - name: >-
@@ -185,7 +183,44 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Best Sushi & Teriyaki in Lynnwood, WA$$$Best Sushi & Teriyaki in
+  Lynnwood, WA, is a welcoming spot for enjoying a variety of fresh sushi and
+  teriyaki options, ideal for those seeking casual dining with efficient
+  service. This eatery stands out for its straightforward menu featuring
+  flavorful dishes that highlight quality ingredients and quick preparation,
+  making it a convenient choice for locals and visitors alike. Accessibility
+  features like wheelchair-friendly parking and seating add to the inclusive
+  atmosphere, ensuring everyone can savor the experience. Whether you're in the
+  mood for classic rolls or hearty teriyaki plates, the focus on simplicity and
+  speed keeps things enjoyable without overwhelming extras.
+generative_summary: >-
+  Discover Best Sushi & Teriyaki in Lynnwood, WA$$$Best Sushi & Teriyaki in
+  Lynnwood, WA, is a welcoming spot for enjoying a variety of fresh sushi and
+  teriyaki options, ideal for those seeking casual dining with efficient
+  service. This eatery stands out for its straightforward menu featuring
+  flavorful dishes that highlight quality ingredients and quick preparation,
+  making it a convenient choice for locals and visitors alike. Accessibility
+  features like wheelchair-friendly parking and seating add to the inclusive
+  atmosphere, ensuring everyone can savor the experience. Whether you're in the
+  mood for classic rolls or hearty teriyaki plates, the focus on simplicity and
+  speed keeps things enjoyable without overwhelming extras.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Diners Love About This Sushi Spot$$$Visitors to this Lynnwood sushi
+  restaurant often rave about the tasty teriyaki, stir fry, and sushi
+  selections, with many highlighting the spicy veggie stir fry and fried rice as
+  standout favorites that deliver great flavor. Folks appreciate the quick and
+  welcoming service that makes meals feel effortless and enjoyable, along with
+  the generous portions that leave you satisfied without breaking the bank too
+  much. While some note that prices can edge a bit higher than expected, the
+  overall value from the fresh ingredients and hearty servings keeps the vibe
+  positive. In a casual setting like this, it's easy to see why people keep
+  coming back for reliable, feel-good eats that hit the spot for sushi
+  enthusiasts. If you're searching for solid options nearby, this place offers a
+  welcoming mix of flavors that make it worth trying out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +246,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

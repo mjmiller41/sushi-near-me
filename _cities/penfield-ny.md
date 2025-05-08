@@ -5,4 +5,5 @@ permalink: /new-york/penfield/
 stateAbbr: NY
 stateName: New York
 cityName: Penfield
+
 ---

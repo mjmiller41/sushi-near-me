@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ginza Asian Bistro"
+title: Ginza Asian Bistro
 permalink: /kentucky/louisville/ginza-asian-bistro.html
 stateAbbr: KY
 stateName: Kentucky
 cityName: Louisville
 seo:
-  name: "Ginza Asian Bistro"
-  type: Restaurant
+  type: restaurant
   links: https://www.ginzaasianbistroky.com/
-description: "Ginza Asian Bistro serves delicious sushi in Louisville, Kentucky. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ1Yr5pryfaYgRuxmT7HgvoC0
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x88699fbca6f98ad5:0x2da02f78ec9319bb!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 10:00 PM'
     - 'Tuesday: 11:00 AM – 10:00 PM'
     - 'Wednesday: 11:00 AM – 10:00 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:30 PM'
     - 'Saturday: 11:30 AM – 10:30 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:00 AM – 10:00 PM'
-    - 'Tuesday: 11:00 AM – 10:00 PM'
-    - 'Wednesday: 11:00 AM – 10:00 PM'
-    - 'Thursday: 11:00 AM – 10:00 PM'
-    - 'Friday: 11:00 AM – 10:30 PM'
-    - 'Saturday: 11:30 AM – 10:30 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +238,256 @@ phone: (502) 749-8878
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.5'
-rating_count: 0
+rating_count: 425
 website: https://www.ginzaasianbistroky.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Ginza Asian Bistro in Louisville, KY$$$Ginza Asian Bistro in
+  Louisville, KY, provides a welcoming spot for enjoying fresh Japanese dishes,
+  including an impressive selection of sushi rolls that highlight the best of
+  authentic flavors. This casual eatery stands out with its array of options
+  like beer, wine, and sake, making it a go-to choice for those seeking sushi
+  restaurants in the area. The restaurant boasts accessibility features and a
+  comfortable atmosphere, perfect for a relaxed meal with friends or family.
+  Additionally, its moderate pricing and variety of dishes ensure it's an
+  appealing option for anyone exploring top-rated sushi spots nearby, all while
+  offering efficient service and a menu that caters to different tastes.
+generative_summary: >-
+  Discover Ginza Asian Bistro in Louisville, KY$$$Ginza Asian Bistro in
+  Louisville, KY, provides a welcoming spot for enjoying fresh Japanese dishes,
+  including an impressive selection of sushi rolls that highlight the best of
+  authentic flavors. This casual eatery stands out with its array of options
+  like beer, wine, and sake, making it a go-to choice for those seeking sushi
+  restaurants in the area. The restaurant boasts accessibility features and a
+  comfortable atmosphere, perfect for a relaxed meal with friends or family.
+  Additionally, its moderate pricing and variety of dishes ensure it's an
+  appealing option for anyone exploring top-rated sushi spots nearby, all while
+  offering efficient service and a menu that caters to different tastes.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ1Yr5pryfaYgRuxmT7HgvoC0/reviews/ChZDSUhNMG9nS0VJQ0FnTURndzllMGVREAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        This place is a gem! Went on Monday for the half off sushi. It’s half
+        off, but all the specialty rolls are still $10 (not sure I’d be willing
+        to pay $20 for some of those, but for $10 it’s great!!!).
+
+
+        The sushi here is absolutely delicious, but if you go on Monday or
+        Tuesday be prepared to wait a very long time as it gets VERY busy.
+        Understandably so, considering those are the best days of the week to
+        come to this place. I will definitely be back, but I think i’ll leave
+        the house before i’m fully hungry.
+      languageCode: en
+    originalText:
+      text: >-
+        This place is a gem! Went on Monday for the half off sushi. It’s half
+        off, but all the specialty rolls are still $10 (not sure I’d be willing
+        to pay $20 for some of those, but for $10 it’s great!!!).
+
+
+        The sushi here is absolutely delicious, but if you go on Monday or
+        Tuesday be prepared to wait a very long time as it gets VERY busy.
+        Understandably so, considering those are the best days of the week to
+        come to this place. I will definitely be back, but I think i’ll leave
+        the house before i’m fully hungry.
+      languageCode: en
+    authorAttribution:
+      displayName: Caro
+      uri: https://www.google.com/maps/contrib/113884648174850211593/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKWwl8n1VrCxmTch_W7T6s2Zp3jlUzSh2ypd8HE1g8QTJD6Pmw=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-02-27T01:51:32.166507Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURndzllMGVREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURndzllMGVREAE!2m1!1s0x88699fbca6f98ad5:0x2da02f78ec9319bb
+  - name: >-
+      places/ChIJ1Yr5pryfaYgRuxmT7HgvoC0/reviews/ChRDSUhNMG9nS0VJQ0FnTUNRenRveBAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        My family and I went here for the first time. Fast service and good
+        sushi. Cheaper than other restaurants. Will return for sure.
+      languageCode: en
+    originalText:
+      text: >-
+        My family and I went here for the first time. Fast service and good
+        sushi. Cheaper than other restaurants. Will return for sure.
+      languageCode: en
+    authorAttribution:
+      displayName: Yami L
+      uri: https://www.google.com/maps/contrib/110383088027535471411/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIMYM-ArNCk13C1dLY4HuE30rLkbIzjWEJrSE35u2NTWt5ti7M=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-03-04T10:07:08.963102Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChRDSUhNMG9nS0VJQ0FnTUNRenRveBAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChRDSUhNMG9nS0VJQ0FnTUNRenRveBAB!2m1!1s0x88699fbca6f98ad5:0x2da02f78ec9319bb
+  - name: >-
+      places/ChIJ1Yr5pryfaYgRuxmT7HgvoC0/reviews/ChdDSUhNMG9nS0VJQ0FnSUNaNzVHQzdRRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        The greatest sushi of all time! I love this place! On Monday and Tuesday
+        it is half off sushi, so I visit this place at least once a week. The
+        derby roll is a special roll and boy oh boy is it special! I order it
+        every time! I really could go on and on about how awesome this spot is,
+        but you find out for yourself!
+      languageCode: en
+    originalText:
+      text: >-
+        The greatest sushi of all time! I love this place! On Monday and Tuesday
+        it is half off sushi, so I visit this place at least once a week. The
+        derby roll is a special roll and boy oh boy is it special! I order it
+        every time! I really could go on and on about how awesome this spot is,
+        but you find out for yourself!
+      languageCode: en
+    authorAttribution:
+      displayName: Courtney Bagby
+      uri: https://www.google.com/maps/contrib/101818896869349052491/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWFC54WuyJPwiOmqREuCBB2pnlPfQuqLi52NfEXxr3Anb7dAPze=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2023-09-21T01:26:59.410787Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNaNzVHQzdRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNaNzVHQzdRRRAB!2m1!1s0x88699fbca6f98ad5:0x2da02f78ec9319bb
+  - name: >-
+      places/ChIJ1Yr5pryfaYgRuxmT7HgvoC0/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ5OUxLOGhRRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 4
+    text:
+      text: >-
+        Started with hot edamame. I had the Sushi deluxe with add on eel sushi.
+        The fish was fresh and tasty. My wife had Tom Yum soup and Hawaii roll.
+        Both were delicious. We added hot green tea and a soda.
+      languageCode: en
+    originalText:
+      text: >-
+        Started with hot edamame. I had the Sushi deluxe with add on eel sushi.
+        The fish was fresh and tasty. My wife had Tom Yum soup and Hawaii roll.
+        Both were delicious. We added hot green tea and a soda.
+      languageCode: en
+    authorAttribution:
+      displayName: South
+      uri: https://www.google.com/maps/contrib/104644408499832452999/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVp-hWKB_enJZ6pYo-4S915yyoxPYGjr_WS8WQGnTAD_sd1zUM=s128-c0x00000000-cc-rp-mo-ba7
+    publishTime: '2024-03-13T20:30:38.617353Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQ5OUxLOGhRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQ5OUxLOGhRRRAB!2m1!1s0x88699fbca6f98ad5:0x2da02f78ec9319bb
+  - name: >-
+      places/ChIJ1Yr5pryfaYgRuxmT7HgvoC0/reviews/ChdDSUhNMG9nS0VJQ0FnSURLNTVDNS1RRRAB
+    relativePublishTimeDescription: 3 years ago
+    rating: 5
+    text:
+      text: >-
+        Above and beyond sushi place! Monday and Tuesday has 30 to 50% off many
+        hand rolls small and specialty big rolls.
+
+
+        No trick. The big rolls are $8.95 and they are as delicious and high
+        quality as they can be. 👍✔
+
+
+        The place is clean, fresh and inviting. Restroom is very clean. The
+        service is superb, quick and friendly.
+
+
+        I still have to try many of the entrées they have, but each time I visit
+        I just cannot pass the sushi rolls. The Fantastic roll is exactly that,
+        FANTASTIC! Also the rainbow roll is amazing as well! ❤✔
+
+
+        Easy parking, great location in St. Matthews and overall an extremely
+        pleasant experience every time I visit. I find myself here very often!
+      languageCode: en
+    originalText:
+      text: >-
+        Above and beyond sushi place! Monday and Tuesday has 30 to 50% off many
+        hand rolls small and specialty big rolls.
+
+
+        No trick. The big rolls are $8.95 and they are as delicious and high
+        quality as they can be. 👍✔
+
+
+        The place is clean, fresh and inviting. Restroom is very clean. The
+        service is superb, quick and friendly.
+
+
+        I still have to try many of the entrées they have, but each time I visit
+        I just cannot pass the sushi rolls. The Fantastic roll is exactly that,
+        FANTASTIC! Also the rainbow roll is amazing as well! ❤✔
+
+
+        Easy parking, great location in St. Matthews and overall an extremely
+        pleasant experience every time I visit. I find myself here very often!
+      languageCode: en
+    authorAttribution:
+      displayName: Laurencio Ronquillo
+      uri: https://www.google.com/maps/contrib/116441697235166127335/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWH5KEtHawCR2OY_aAqEHsZdqMxvoJ8Huak55dY0fnJIkdqg6EpUg=s128-c0x00000000-cc-rp-mo-ba8
+    publishTime: '2021-05-19T01:50:07.334078Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURLNTVDNS1RRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURLNTVDNS1RRRAB!2m1!1s0x88699fbca6f98ad5:0x2da02f78ec9319bb
+review_summary: >-
+  Customer Feedback on Ginza Asian Bistro$$$Folks often rave about the tasty
+  sushi and hibachi steak here, noting how the deals on certain days make it a
+  smart pick for budget-friendly dining without skimping on quality. Many
+  appreciate the quick and friendly service that keeps things running smoothly,
+  even when the place gets busy, adding to the overall enjoyable vibe. Reviews
+  frequently mention the great value and fresh ingredients that make meals feel
+  special, with highlights on the quiet setting that lets you savor every bite.
+  While some point out potential waits during peak times, the consensus leans
+  positive, making it a solid choice for anyone hunting for reliable sushi
+  places in the neighborhood. Overall, it's clear this spot delivers a
+  consistently satisfying experience that keeps diners coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  paidStreetParking: false
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: true
+outdoor_seating: false
 reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
+serves_coffee: true
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

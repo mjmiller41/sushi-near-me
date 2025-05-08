@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Wabi-Sabi Sushi Bar & Restaurant"
+title: Wabi-Sabi Sushi Bar & Restaurant
 permalink: /washington/seattle/wabi-sabi-sushi-bar-restaurant.html
 stateAbbr: WA
 stateName: Washington
 cityName: Seattle
 seo:
-  name: "Wabi-Sabi Sushi Bar & Restaurant"
-  type: Restaurant
+  type: restaurant
   links: https://wabisabicolumbiacity.com/
-description: "Wabi-Sabi Sushi Bar & Restaurant serves delicious sushi in Seattle, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJlZZYJwxqkFQRLEcWW-c_hGY
 photos:
   - name: >-
@@ -169,36 +167,181 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x54906a0c27589695:0x66843fe75b16472c!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
-    - 'Monday: 3:00 – 8:30 PM'
-    - 'Tuesday: 3:00 – 8:30 PM'
-    - 'Wednesday: 3:00 – 8:30 PM'
-    - 'Thursday: 3:00 – 8:30 PM'
-    - 'Friday: 3:00 – 9:00 PM'
-    - 'Saturday: 3:00 – 9:00 PM'
-    - 'Sunday: 3:00 – 8:30 PM'
-  current:
-    - 'Monday: 3:00 – 8:30 PM'
-    - 'Tuesday: 3:00 – 8:30 PM'
-    - 'Wednesday: 3:00 – 8:30 PM'
-    - 'Thursday: 3:00 – 8:30 PM'
-    - 'Friday: 3:00 – 9:00 PM'
-    - 'Saturday: 3:00 – 9:00 PM'
-    - 'Sunday: 3:00 – 8:30 PM'
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 15
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 15
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 15
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 15
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 15
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 15
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 15
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 3:30 – 9:00 PM'
+    - 'Tuesday: 3:30 – 9:00 PM'
+    - 'Wednesday: 3:30 – 9:00 PM'
+    - 'Thursday: 3:30 – 9:00 PM'
+    - 'Friday: 3:00 – 9:30 PM'
+    - 'Saturday: 3:00 – 9:30 PM'
+    - 'Sunday: 3:30 – 9:00 PM'
+  nextCloseTime: '2025-05-04T04:30:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: false
+    periods:
+      - open:
+          day: 0
+          hour: 15
+          minute: 30
+        close:
+          day: 0
+          hour: 17
+          minute: 30
+      - open:
+          day: 1
+          hour: 15
+          minute: 30
+        close:
+          day: 1
+          hour: 17
+          minute: 30
+      - open:
+          day: 2
+          hour: 15
+          minute: 30
+        close:
+          day: 2
+          hour: 17
+          minute: 30
+      - open:
+          day: 3
+          hour: 15
+          minute: 30
+        close:
+          day: 3
+          hour: 17
+          minute: 30
+      - open:
+          day: 4
+          hour: 15
+          minute: 30
+        close:
+          day: 4
+          hour: 17
+          minute: 30
+      - open:
+          day: 5
+          hour: 15
+          minute: 30
+        close:
+          day: 5
+          hour: 17
+          minute: 30
+      - open:
+          day: 6
+          hour: 15
+          minute: 30
+        close:
+          day: 6
+          hour: 17
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 3:30 – 5:30 PM'
+      - 'Tuesday: 3:30 – 5:30 PM'
+      - 'Wednesday: 3:30 – 5:30 PM'
+      - 'Thursday: 3:30 – 5:30 PM'
+      - 'Friday: 3:30 – 5:30 PM'
+      - 'Saturday: 3:30 – 5:30 PM'
+      - 'Sunday: 3:30 – 5:30 PM'
+    secondaryHoursType: HAPPY_HOUR
+    nextOpenTime: '2025-05-03T22:30:00Z'
 phone: (206) 721-0212
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.3'
-rating_count: 0
+rating_count: 378
 website: https://wabisabicolumbiacity.com/
+description: >-
+  Discover Wabi-Sabi in Seattle, WA$$$Wabi-Sabi Sushi Bar & Restaurant in
+  Seattle, WA, provides a relaxed atmosphere for enjoying authentic Japanese
+  flavors and fresh seafood dishes. This spot features a diverse menu with
+  classic sushi rolls, savory mains, and a selection of beverages like sake and
+  wine, making it ideal for casual evenings or family outings. Accessibility
+  options ensure a welcoming experience for all visitors, with easy entry and
+  comfortable seating throughout. Open in the evenings, it caters to those
+  seeking a laid-back meal in the vibrant Rainier Valley neighborhood, complete
+  with kid-friendly choices.
+generative_summary: >-
+  Discover Wabi-Sabi in Seattle, WA$$$Wabi-Sabi Sushi Bar & Restaurant in
+  Seattle, WA, provides a relaxed atmosphere for enjoying authentic Japanese
+  flavors and fresh seafood dishes. This spot features a diverse menu with
+  classic sushi rolls, savory mains, and a selection of beverages like sake and
+  wine, making it ideal for casual evenings or family outings. Accessibility
+  options ensure a welcoming experience for all visitors, with easy entry and
+  comfortable seating throughout. Open in the evenings, it caters to those
+  seeking a laid-back meal in the vibrant Rainier Valley neighborhood, complete
+  with kid-friendly choices.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors frequently highlight the fresh sushi and
+  tasty Japanese dishes at this Seattle favorite, appreciating the balance of
+  quality and affordability. Many enjoy the welcoming vibe and efficient service
+  that make dining here feel effortless and enjoyable. With a solid rating,
+  folks often note the variety of options that suit different tastes, from light
+  bites to heartier meals. Overall, it's praised as a reliable choice for casual
+  get-togethers, with feedback emphasizing the satisfying flavors that keep
+  people coming back. If you're on the hunt for solid sushi options nearby, this
+  place often comes recommended for its consistent appeal.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -224,7 +367,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

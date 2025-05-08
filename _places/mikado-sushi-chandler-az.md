@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Mikado Sushi"
+title: Mikado Sushi
 permalink: /arizona/chandler/mikado-sushi.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Chandler
 seo:
-  name: "Mikado Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.mikadosushiaz.com/
-description: "Mikado Sushi serves delicious sushi in Chandler, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJTUL1c3gAK4cRT9lpRK3VjTs
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x872b007873f5424d:0x3b8dd5ad4469d94f!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:30 PM'
     - 'Tuesday: 11:00 AM – 9:30 PM'
     - 'Wednesday: 11:00 AM – 9:30 PM'
@@ -178,28 +226,110 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:30 PM'
     - 'Saturday: 12:00 – 9:30 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:00 AM – 9:30 PM'
-    - 'Tuesday: 11:00 AM – 9:30 PM'
-    - 'Wednesday: 11:00 AM – 9:30 PM'
-    - 'Thursday: 11:00 AM – 9:30 PM'
-    - 'Friday: 11:00 AM – 9:30 PM'
-    - 'Saturday: 12:00 – 9:30 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T04:30:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 1
+          hour: 15
+          minute: 0
+        close:
+          day: 1
+          hour: 18
+          minute: 0
+      - open:
+          day: 2
+          hour: 15
+          minute: 0
+        close:
+          day: 2
+          hour: 18
+          minute: 0
+      - open:
+          day: 3
+          hour: 15
+          minute: 0
+        close:
+          day: 3
+          hour: 18
+          minute: 0
+      - open:
+          day: 4
+          hour: 15
+          minute: 0
+        close:
+          day: 4
+          hour: 18
+          minute: 0
+      - open:
+          day: 5
+          hour: 15
+          minute: 0
+        close:
+          day: 5
+          hour: 18
+          minute: 0
+      - open:
+          day: 6
+          hour: 15
+          minute: 0
+        close:
+          day: 6
+          hour: 18
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 3:00 – 6:00 PM'
+      - 'Tuesday: 3:00 – 6:00 PM'
+      - 'Wednesday: 3:00 – 6:00 PM'
+      - 'Thursday: 3:00 – 6:00 PM'
+      - 'Friday: 3:00 – 6:00 PM'
+      - 'Saturday: 3:00 – 6:00 PM'
+      - 'Sunday: Closed'
+    secondaryHoursType: HAPPY_HOUR
+    nextCloseTime: '2025-05-04T01:00:00Z'
 phone: (480) 726-0255
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.5'
-rating_count: 0
+rating_count: 462
 website: http://www.mikadosushiaz.com/
+description: >-
+  Discover Mikado Sushi in Chandler, AZ$$$Mikado Sushi in Chandler, AZ, is a
+  welcoming Japanese eatery that specializes in fresh sushi rolls and bento
+  boxes, making it a go-to spot for authentic Asian flavors in the area. This
+  family-oriented restaurant offers a cozy atmosphere paired with a selection of
+  sake and creative cocktails, perfect for casual dinners or relaxed outings.
+  With its moderate pricing and accessibility features like wheelchair-friendly
+  parking and entrances, it's designed to accommodate a variety of diners
+  seeking quality Japanese cuisine. Operating from late morning into the evening
+  most days, including happy hour specials, Mikado Sushi provides an inviting
+  escape for those exploring top-rated sushi options nearby.
+generative_summary: >-
+  Discover Mikado Sushi in Chandler, AZ$$$Mikado Sushi in Chandler, AZ, is a
+  welcoming Japanese eatery that specializes in fresh sushi rolls and bento
+  boxes, making it a go-to spot for authentic Asian flavors in the area. This
+  family-oriented restaurant offers a cozy atmosphere paired with a selection of
+  sake and creative cocktails, perfect for casual dinners or relaxed outings.
+  With its moderate pricing and accessibility features like wheelchair-friendly
+  parking and entrances, it's designed to accommodate a variety of diners
+  seeking quality Japanese cuisine. Operating from late morning into the evening
+  most days, including happy hour specials, Mikado Sushi provides an inviting
+  escape for those exploring top-rated sushi options nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this sushi spot often praise the
+  flavorful rolls and great value, especially with specials that make it easy on
+  the wallet during peak times. Many highlight the welcoming vibe and attentive
+  service that add to the overall enjoyable experience, creating a laid-back
+  spot for friends or solo diners. The authentic Japanese feel comes through in
+  the fresh ingredients and variety of options, drawing in those hunting for
+  reliable sushi places close to home. While feedback is mostly positive, it's
+  clear that the combination of tasty dishes and friendly atmosphere keeps
+  people coming back for more. Overall, it's a solid choice for anyone in the
+  mood for quality Japanese fare without breaking the bank.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +355,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

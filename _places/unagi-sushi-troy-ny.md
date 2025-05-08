@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Unagi Sushi"
+title: Unagi Sushi
 permalink: /new-york/troy/unagi-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: Troy
 seo:
-  name: "Unagi Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.unagitroyny.com/
-description: "A menu featuring traditional & creative sushi rolls alongside Japanese classics in a modern space. Unagi Sushi serves delicious sushi in Troy, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJydG02QcP3okRsO98h5vCUHY
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 0
 website: http://www.unagitroyny.com/
+description: >-
+  Discover Unagi Sushi in Troy, New York$$$Unagi Sushi in Troy, NY, stands out
+  as a welcoming spot for enjoying fresh sushi and authentic Japanese cuisine in
+  a casual, modern setting. This Japanese restaurant features an array of
+  creative sushi rolls and sashimi, alongside classic fare, making it a go-to
+  choice for those seeking flavorful options in a relaxed environment with a bar
+  for added convenience. The menu highlights high-quality ingredients and
+  thoughtful presentations, appealing to anyone looking for a satisfying meal in
+  a comfortable space. Accessibility features like wheelchair-friendly entrances
+  and seating ensure it's inclusive for all diners, enhancing the overall
+  experience. Whether you're exploring sushi restaurants near you or craving
+  top-rated Japanese places, Unagi Sushi delivers a memorable dining adventure
+  in the heart of Troy.
+generative_summary: >-
+  Discover Unagi Sushi in Troy, New York$$$Unagi Sushi in Troy, NY, stands out
+  as a welcoming spot for enjoying fresh sushi and authentic Japanese cuisine in
+  a casual, modern setting. This Japanese restaurant features an array of
+  creative sushi rolls and sashimi, alongside classic fare, making it a go-to
+  choice for those seeking flavorful options in a relaxed environment with a bar
+  for added convenience. The menu highlights high-quality ingredients and
+  thoughtful presentations, appealing to anyone looking for a satisfying meal in
+  a comfortable space. Accessibility features like wheelchair-friendly entrances
+  and seating ensure it's inclusive for all diners, enhancing the overall
+  experience. Whether you're exploring sushi restaurants near you or craving
+  top-rated Japanese places, Unagi Sushi delivers a memorable dining adventure
+  in the heart of Troy.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJydG02QcP3okRsO98h5vCUHY/reviews/ChdDSUhNMG9nS0VJQ0FnTUNBME1TZ293RRAB
@@ -316,6 +341,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR6aU83aUxREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR6aU83aUxREAE!2m1!1s0x89de0f07d9b4d1c9:0x7650c29b877cefb0
+review_summary: >-
+  What Guests Are Saying$$$Visitors consistently praise Unagi Sushi for its
+  delicious sushi and sashimi, often noting the excellent quality and great
+  value that make it a standout option among local eateries. Many appreciate the
+  friendly service and welcoming atmosphere, with comments highlighting speedy
+  delivery and a relaxing vibe that encourages repeat visits. While most
+  feedback focuses on the fresh flavors and reasonable prices, a few mention
+  that service interactions could be a bit more accommodating to enhance the
+  experience. Overall, it's celebrated as one of the best sushi spots in the
+  area, with guests enjoying extras like boba tea and milkshakes that round out
+  a satisfying meal. If you're searching for reliable sushi places near me, this
+  spot earns high marks for its tasty offerings and approachable vibe, making it
+  worth a try for anyone in the mood for quality Japanese fare.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -348,8 +387,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   A menu featuring traditional & creative sushi rolls alongside Japanese
   classics in a modern space.
 

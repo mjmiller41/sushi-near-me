@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Nozomi Torrance"
+title: Sushi Nozomi Torrance
 permalink: /california/torrance/sushi-nozomi-torrance.html
 stateAbbr: CA
 stateName: California
 cityName: Torrance
 seo:
-  name: "Sushi Nozomi Torrance"
-  type: Restaurant
+  type: restaurant
   links: https://www.sushinozomi.com/
-description: "Sushi Nozomi Torrance serves delicious sushi in Torrance, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJQ2Xiy6RK3YARf6aIM_7IuHk
 photos:
   - name: >-
@@ -170,7 +168,121 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80dd4aa4cbe26543:0x79b8c8fe3388a67f!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 14
+        minute: 0
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 14
+        minute: 0
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 14
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 2:00 PM, 5:00 – 9:30 PM'
     - 'Tuesday: 11:30 AM – 2:00 PM, 5:00 – 9:30 PM'
     - 'Wednesday: 11:30 AM – 2:00 PM, 5:00 – 9:30 PM'
@@ -178,14 +290,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 2:00 PM, 5:00 – 9:30 PM'
     - 'Saturday: 11:30 AM – 2:00 PM, 5:00 – 9:30 PM'
     - 'Sunday: 11:30 AM – 2:00 PM, 5:00 – 9:30 PM'
-  current:
-    - 'Monday: 11:30 AM – 2:00 PM, 5:00 – 9:30 PM'
-    - 'Tuesday: 11:30 AM – 2:00 PM, 5:00 – 9:30 PM'
-    - 'Wednesday: 11:30 AM – 2:00 PM, 5:00 – 9:30 PM'
-    - 'Thursday: 11:30 AM – 2:00 PM, 5:00 – 9:30 PM'
-    - 'Friday: 11:30 AM – 2:00 PM, 5:00 – 9:30 PM'
-    - 'Saturday: 11:30 AM – 2:00 PM, 5:00 – 9:30 PM'
-    - 'Sunday: 11:30 AM – 2:00 PM, 5:00 – 9:30 PM'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +302,250 @@ phone: (310) 320-5511
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.5'
-rating_count: 0
+rating_count: 316
 website: https://www.sushinozomi.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Sushi Nozomi in Torrance, CA$$$Sushi Nozomi in Torrance, CA, stands
+  out as a welcoming spot for fresh Japanese dining, offering a variety of sushi
+  rolls, sashimi, and traditional entrees in a straightforward, cozy atmosphere.
+  This sushi restaurant emphasizes high-quality ingredients and thoughtful
+  preparation, making it a reliable choice for those seeking authentic flavors
+  in a relaxed setting with private dining options. Accessibility features like
+  wheelchair-friendly entrances and seating enhance the experience for all
+  visitors, adding to its appeal as a convenient local option. Whether you're
+  looking for a casual meal or something special, the menu highlights Japanese
+  favorites that capture the essence of simple, elegant cuisine. As one of the
+  top sushi places near Torrance, it provides an inviting escape for anyone
+  craving Japanese fare close to home.
+generative_summary: >-
+  Discover Sushi Nozomi in Torrance, CA$$$Sushi Nozomi in Torrance, CA, stands
+  out as a welcoming spot for fresh Japanese dining, offering a variety of sushi
+  rolls, sashimi, and traditional entrees in a straightforward, cozy atmosphere.
+  This sushi restaurant emphasizes high-quality ingredients and thoughtful
+  preparation, making it a reliable choice for those seeking authentic flavors
+  in a relaxed setting with private dining options. Accessibility features like
+  wheelchair-friendly entrances and seating enhance the experience for all
+  visitors, adding to its appeal as a convenient local option. Whether you're
+  looking for a casual meal or something special, the menu highlights Japanese
+  favorites that capture the essence of simple, elegant cuisine. As one of the
+  top sushi places near Torrance, it provides an inviting escape for anyone
+  craving Japanese fare close to home.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJQ2Xiy6RK3YARf6aIM_7IuHk/reviews/ChZDSUhNMG9nS0VJQ0FnTUNvazVMUlNBEAE
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        Wonderful food and service in this casual setting. We walked in on a
+        Friday night and got a table right away. They were happy to accommodate
+        my picky guest's modification requests and the food was all fresh and
+        prepared perfectly. Everyone was so nice and there are some rare and
+        hard to find treats on the menu, highly recommended!
+      languageCode: en
+    originalText:
+      text: >-
+        Wonderful food and service in this casual setting. We walked in on a
+        Friday night and got a table right away. They were happy to accommodate
+        my picky guest's modification requests and the food was all fresh and
+        prepared perfectly. Everyone was so nice and there are some rare and
+        hard to find treats on the menu, highly recommended!
+      languageCode: en
+    authorAttribution:
+      displayName: Molly Ireland
+      uri: https://www.google.com/maps/contrib/103294914182952311215/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKdGW2movUXyxwHhjPG6C2FRnN6YUsZBjDe8wZTJ6GMbimdl2zt=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-19T16:12:44.463353Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNvazVMUlNBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNvazVMUlNBEAE!2m1!1s0x80dd4aa4cbe26543:0x79b8c8fe3388a67f
+  - name: >-
+      places/ChIJQ2Xiy6RK3YARf6aIM_7IuHk/reviews/ChdDSUhNMG9nS0VJQ0FnTURJLUxpYjNBRRAB
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 5
+    text:
+      text: >-
+        Delicious sushi omakase at a reasonable price! The chefs create some
+        interesting bites which make this better than the typical sushi places
+        in LA. I would definitely come back for the omakase and I’m tempted to
+        try their uni-don
+      languageCode: en
+    originalText:
+      text: >-
+        Delicious sushi omakase at a reasonable price! The chefs create some
+        interesting bites which make this better than the typical sushi places
+        in LA. I would definitely come back for the omakase and I’m tempted to
+        try their uni-don
+      languageCode: en
+    authorAttribution:
+      displayName: John Zobian
+      uri: https://www.google.com/maps/contrib/104692353098819510607/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocL6y00MwooF2QAPaut8szHDWIVwfbAK3MuTPVE-CSiflfKftw=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-07T01:00:13.519486Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJLUxpYjNBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJLUxpYjNBRRAB!2m1!1s0x80dd4aa4cbe26543:0x79b8c8fe3388a67f
+  - name: >-
+      places/ChIJQ2Xiy6RK3YARf6aIM_7IuHk/reviews/ChZDSUhNMG9nS0VJQ0FnSURyME43SlBREAE
+    relativePublishTimeDescription: 9 months ago
+    rating: 5
+    text:
+      text: >-
+        Last minute dinner date and needed to find a Japanese sushi restaurant
+        closeby in Torrance that opened past 8pm and found this place through
+        Google Maps. Called them at lunchtime for a reservation which i got and
+        they said that last food orders was 845pm so that was perfect.
+
+
+        Couldnt get the sushi bar but table seating was perfect and intimate.
+        Our server was friendly and we ordered right away. Prices were a little
+        on the high side but its a date so live a little🤙
+
+
+        Ordered a couple small appetizers and the Sushi Dinner deluxe for myself
+        and the Sushi Omakase for my date that featured speciality fish of the
+        day (chefs choice). Everything was fresh and high quality, delicious and
+        authentic. Stayed still closing time and didnt feel rushed at
+        all.....Thank you for such a nice memorable dinner for the both of us.
+        🙏🙏Would recommend if in the area. 5 stars🤙
+      languageCode: en
+    originalText:
+      text: >-
+        Last minute dinner date and needed to find a Japanese sushi restaurant
+        closeby in Torrance that opened past 8pm and found this place through
+        Google Maps. Called them at lunchtime for a reservation which i got and
+        they said that last food orders was 845pm so that was perfect.
+
+
+        Couldnt get the sushi bar but table seating was perfect and intimate.
+        Our server was friendly and we ordered right away. Prices were a little
+        on the high side but its a date so live a little🤙
+
+
+        Ordered a couple small appetizers and the Sushi Dinner deluxe for myself
+        and the Sushi Omakase for my date that featured speciality fish of the
+        day (chefs choice). Everything was fresh and high quality, delicious and
+        authentic. Stayed still closing time and didnt feel rushed at
+        all.....Thank you for such a nice memorable dinner for the both of us.
+        🙏🙏Would recommend if in the area. 5 stars🤙
+      languageCode: en
+    authorAttribution:
+      displayName: P RANNA
+      uri: https://www.google.com/maps/contrib/103292745106466653754/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjU6BKOqPbsgpM8mZAM50g_6fd8466qyI-54xEbKw1Lld32JhFap=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2024-07-13T07:57:01.322204Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURyME43SlBREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURyME43SlBREAE!2m1!1s0x80dd4aa4cbe26543:0x79b8c8fe3388a67f
+  - name: >-
+      places/ChIJQ2Xiy6RK3YARf6aIM_7IuHk/reviews/ChZDSUhNMG9nS0VJQ0FnSURMNHJHNkdREAE
+    relativePublishTimeDescription: 10 months ago
+    rating: 5
+    text:
+      text: >-
+        Our favorite spot for omakase. You'll get 10 pieces of sushi, a negi
+        toro roll, and miso soup. Our favorite appetizers are tako wasa and monk
+        fish liver. Chef Yuma is really nice, friendly, and knows what he's
+        doing! Highly recommended!
+      languageCode: en
+    originalText:
+      text: >-
+        Our favorite spot for omakase. You'll get 10 pieces of sushi, a negi
+        toro roll, and miso soup. Our favorite appetizers are tako wasa and monk
+        fish liver. Chef Yuma is really nice, friendly, and knows what he's
+        doing! Highly recommended!
+      languageCode: en
+    authorAttribution:
+      displayName: Glad Patavanich
+      uri: https://www.google.com/maps/contrib/102505961585081102616/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXiJist7Evh3RS_m1zadmsUE7FlzvRRYFxM0c8izxkMBpch8deWRw=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-06-26T14:14:53.541849Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURMNHJHNkdREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURMNHJHNkdREAE!2m1!1s0x80dd4aa4cbe26543:0x79b8c8fe3388a67f
+  - name: >-
+      places/ChIJQ2Xiy6RK3YARf6aIM_7IuHk/reviews/ChdDSUhNMG9nS0VJQ0FnSUNIbDVpTTVRRRAB
+    relativePublishTimeDescription: 7 months ago
+    rating: 3
+    text:
+      text: >-
+        The fried oysters were not the best.  Batter was thick and Oyster were
+        over cooked and dry.  Chirashi was just average.  There's a bit fishy
+        smell when i walk in.
+      languageCode: en
+    originalText:
+      text: >-
+        The fried oysters were not the best.  Batter was thick and Oyster were
+        over cooked and dry.  Chirashi was just average.  There's a bit fishy
+        smell when i walk in.
+      languageCode: en
+    authorAttribution:
+      displayName: Pearline Lam
+      uri: https://www.google.com/maps/contrib/106860066860878754288/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjX6HtN31QJghpVmsckWFWaeZT7xynyXdp1m2G9i2Ct7BUd0kzUUZQ=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2024-09-09T21:01:31.910132Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNIbDVpTTVRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNIbDVpTTVRRRAB!2m1!1s0x80dd4aa4cbe26543:0x79b8c8fe3388a67f
+review_summary: >-
+  What Visitors Are Saying About This Spot$$$Folks rave about the fresh sushi
+  and attentive service at this cozy eatery, often highlighting how the creative
+  dishes and reasonable prices make it a standout choice for a satisfying meal.
+  Many appreciate the accommodating staff and variety of options like omakase,
+  which adds an exciting twist to the typical dining experience without breaking
+  the bank. While most feedback praises the authentic flavors and intimate vibe
+  perfect for groups or dates, a few mentions note that some appetizers might
+  not always hit the mark, though this doesn't overshadow the overall positives.
+  In general, it's seen as a go-to for quality Japanese food that leaves diners
+  feeling impressed and eager to return. If you're on the hunt for reliable
+  sushi restaurants nearby, this place delivers a solid, enjoyable experience
+  that keeps the good vibes flowing.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
+delivery: false
+dine_in: true
 good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
 serves_brunch: null
-serves_cocktails: null
+serves_cocktails: false
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: false
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Sushi specialist also serving Japanese entrees & appetizers in a no-frills
+  space with private rooms.
 
 ---

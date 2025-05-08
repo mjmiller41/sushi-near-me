@@ -5,4 +5,5 @@ permalink: /georgia/kennesaw/
 stateAbbr: GA
 stateName: Georgia
 cityName: Kennesaw
+
 ---

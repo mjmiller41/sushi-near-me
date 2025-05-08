@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sakura Sushi & Roll"
+title: Sakura Sushi & Roll
 permalink: /california/montebello/sakura-sushi-roll.html
 stateAbbr: CA
 stateName: California
 cityName: Montebello
 seo:
-  name: "Sakura Sushi & Roll"
-  type: Restaurant
+  type: restaurant
   links: https://www.sakurasushiroll.com/
-description: "Sakura Sushi & Roll serves delicious sushi in Montebello, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJx2w_JxrOwoARyfFJ09rh_Z4
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c2ce1a273f6cc7:0x9efde1dad349f1c9!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 10:00 PM'
     - 'Tuesday: 11:00 AM – 10:00 PM'
     - 'Wednesday: 11:00 AM – 10:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 11:00 PM'
     - 'Saturday: 12:00 – 10:00 PM'
     - 'Sunday: 11:00 AM – 10:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 10:00 PM'
-    - 'Tuesday: 11:00 AM – 10:00 PM'
-    - 'Wednesday: 11:00 AM – 10:00 PM'
-    - 'Thursday: 11:00 AM – 10:00 PM'
-    - 'Friday: 11:00 AM – 11:00 PM'
-    - 'Saturday: 12:00 – 10:00 PM'
-    - 'Sunday: 11:00 AM – 10:00 PM'
+  nextCloseTime: '2025-05-04T05:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,245 @@ phone: (323) 725-3920
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.3'
-rating_count: 0
+rating_count: 1003
 website: https://www.sakurasushiroll.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Sakura Sushi & Roll in Montebello, CA$$$Nestled in Montebello, CA,
+  Sakura Sushi & Roll stands out as a welcoming spot for fresh Japanese cuisine,
+  blending relaxed vibes with a variety of flavorful dishes. This eatery
+  specializes in artfully prepared sushi rolls and bento boxes, catering to
+  those seeking authentic tastes along with thoughtful vegan options to suit
+  different preferences. Visitors can enjoy a comfortable atmosphere enhanced by
+  accessibility features like wheelchair-friendly entrances and seating, making
+  it easy for everyone to savor their meal. The menu highlights moderately
+  priced specialties that pair well with beer and wine, ideal for casual dinners
+  or quick lunches. Whether you're exploring sushi places near you, this
+  location delivers a satisfying experience with its emphasis on quality
+  ingredients and a laid-back setting.
+generative_summary: >-
+  Discover Sakura Sushi & Roll in Montebello, CA$$$Nestled in Montebello, CA,
+  Sakura Sushi & Roll stands out as a welcoming spot for fresh Japanese cuisine,
+  blending relaxed vibes with a variety of flavorful dishes. This eatery
+  specializes in artfully prepared sushi rolls and bento boxes, catering to
+  those seeking authentic tastes along with thoughtful vegan options to suit
+  different preferences. Visitors can enjoy a comfortable atmosphere enhanced by
+  accessibility features like wheelchair-friendly entrances and seating, making
+  it easy for everyone to savor their meal. The menu highlights moderately
+  priced specialties that pair well with beer and wine, ideal for casual dinners
+  or quick lunches. Whether you're exploring sushi places near you, this
+  location delivers a satisfying experience with its emphasis on quality
+  ingredients and a laid-back setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJx2w_JxrOwoARyfFJ09rh_Z4/reviews/ChdDSUhNMG9nS0VJQ0FnSUM5N3NHazZRRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        It's one of my favorite sushi spots in California so far. the owner is
+        the sight and is the chef. Our server was extremely attentive and
+        friendly, the restaurant was clean, and so were the restrooms. We had
+        the crunchy dragon roll and spicy tuna roll, and both were great
+        tasting, but the spicy tuna was the winner between them.
+
+        I loved today's visit, and the friendly staff and owner they even have
+        us a free ice cream and fried banana for my fiances birthday.
+      languageCode: en
+    originalText:
+      text: >-
+        It's one of my favorite sushi spots in California so far. the owner is
+        the sight and is the chef. Our server was extremely attentive and
+        friendly, the restaurant was clean, and so were the restrooms. We had
+        the crunchy dragon roll and spicy tuna roll, and both were great
+        tasting, but the spicy tuna was the winner between them.
+
+        I loved today's visit, and the friendly staff and owner they even have
+        us a free ice cream and fried banana for my fiances birthday.
+      languageCode: en
+    authorAttribution:
+      displayName: Joshua Gonzalez
+      uri: https://www.google.com/maps/contrib/115386817626757195727/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVm0sZT83kX0xHF4mvi7AKaoxN3XG1k9Tl71fWSDVvNMxtoxaXf=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2024-03-05T21:25:22.948011Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUM5N3NHazZRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUM5N3NHazZRRRAB!2m1!1s0x80c2ce1a273f6cc7:0x9efde1dad349f1c9
+  - name: >-
+      places/ChIJx2w_JxrOwoARyfFJ09rh_Z4/reviews/ChdDSUhNMG9nS0VJQ0FnTURRdEtMSXBRRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 4
+    text:
+      text: >-
+        It's nice, I like it there. It's convenient and very pleasant. Tasty
+        food.
+      languageCode: en
+    originalText:
+      text: >-
+        It's nice, I like it there. It's convenient and very pleasant. Tasty
+        food.
+      languageCode: en
+    authorAttribution:
+      displayName: Javier Soto
+      uri: https://www.google.com/maps/contrib/101727769794524070577/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXvq6yaMtMKYNeWs6ou3w0uGGsilJtCc23QiSIH_6otbsU8nc4L=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-03-09T06:53:40.078298Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURRdEtMSXBRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURRdEtMSXBRRRAB!2m1!1s0x80c2ce1a273f6cc7:0x9efde1dad349f1c9
+  - name: >-
+      places/ChIJx2w_JxrOwoARyfFJ09rh_Z4/reviews/ChdDSUhNMG9nS0VJQ0FnTURveGN5TzNnRRAB
+    relativePublishTimeDescription: a week ago
+    rating: 1
+    text:
+      text: >-
+        Awful waitress, the girl acts like she doesn’t even want to be here. 
+        Not welcoming at all!! Someone needs to get rid of here asap before all
+        the bad reviews start coming in.  The food is severely overpriced.  They
+        took away the all you can eat menu.  We only came here because we were
+        starving.   Miso soup was cold and tasted terrible.  We will never come
+        back here again.
+      languageCode: en
+    originalText:
+      text: >-
+        Awful waitress, the girl acts like she doesn’t even want to be here. 
+        Not welcoming at all!! Someone needs to get rid of here asap before all
+        the bad reviews start coming in.  The food is severely overpriced.  They
+        took away the all you can eat menu.  We only came here because we were
+        starving.   Miso soup was cold and tasted terrible.  We will never come
+        back here again.
+      languageCode: en
+    authorAttribution:
+      displayName: G
+      uri: https://www.google.com/maps/contrib/102232595266665266814/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIiPqmprUoovYCHgP5EFdnw4Ixw9WIMZArEektemMiQ5r2XFQ=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-26T21:33:30.816206Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURveGN5TzNnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURveGN5TzNnRRAB!2m1!1s0x80c2ce1a273f6cc7:0x9efde1dad349f1c9
+  - name: >-
+      places/ChIJx2w_JxrOwoARyfFJ09rh_Z4/reviews/ChdDSUhNMG9nS0VJQ0FnSUMxbHBTWV9nRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 4
+    text:
+      text: >-
+        The service, pricing and portions here are all excellent. They offered
+        us miso soup for free as part of our order and they have some great
+        happy hour pricing (buy one, get one free beer). The sushi rice and
+        presentation were also superb, and the only qualm I had was that I
+        didn't love the fish (which, unfortunately is a big part of visiting a
+        sushi restaurant).
+      languageCode: en
+    originalText:
+      text: >-
+        The service, pricing and portions here are all excellent. They offered
+        us miso soup for free as part of our order and they have some great
+        happy hour pricing (buy one, get one free beer). The sushi rice and
+        presentation were also superb, and the only qualm I had was that I
+        didn't love the fish (which, unfortunately is a big part of visiting a
+        sushi restaurant).
+      languageCode: en
+    authorAttribution:
+      displayName: Lauren Cassis
+      uri: https://www.google.com/maps/contrib/112384688496748144508/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjX19qO0FH2Jth01-kSog1T6UMnadJFmDYty1Q-W8oMFCdjf6-0OwQ=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2023-12-29T05:37:35.178675Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMxbHBTWV9nRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMxbHBTWV9nRRAB!2m1!1s0x80c2ce1a273f6cc7:0x9efde1dad349f1c9
+  - name: >-
+      places/ChIJx2w_JxrOwoARyfFJ09rh_Z4/reviews/ChZDSUhNMG9nS0VJQ0FnSUM5MU9tVFV3EAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        Honestly all their food is delicious and price is so reasonable. Their
+        rolls are pretty big too. 8 rolls was about $13 for our order, total was
+        $50 plus tip. We ordered tiger rolls, bakes scallop rolls and jumbo
+        volcano rolls. For two people that was way more then enough. Order came
+        with two miso soups. Everything was absolutely delicious. This time I
+        ordered online, my order was ready for pickup within 20 mins.  The few
+        experiences I had with dinr in is was geat. Service is great, atmosphere
+        was fun. I highly recommend this place if you in town.
+      languageCode: en
+    originalText:
+      text: >-
+        Honestly all their food is delicious and price is so reasonable. Their
+        rolls are pretty big too. 8 rolls was about $13 for our order, total was
+        $50 plus tip. We ordered tiger rolls, bakes scallop rolls and jumbo
+        volcano rolls. For two people that was way more then enough. Order came
+        with two miso soups. Everything was absolutely delicious. This time I
+        ordered online, my order was ready for pickup within 20 mins.  The few
+        experiences I had with dinr in is was geat. Service is great, atmosphere
+        was fun. I highly recommend this place if you in town.
+      languageCode: en
+    authorAttribution:
+      displayName: Lisa Marie (Moogle)
+      uri: https://www.google.com/maps/contrib/116594978477438976745/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXrMOWFq6NDnfoOI6mlhLWuCpCerReVYYcY5sh9ZIjCe9xI8p8x=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-12-31T02:05:41.269577Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUM5MU9tVFV3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUM5MU9tVFV3EAE!2m1!1s0x80c2ce1a273f6cc7:0x9efde1dad349f1c9
+review_summary: >-
+  What Customers Are Saying About Sakura Sushi & Roll$$$Folks often rave about
+  the tasty rolls and generous portions that make this spot a go-to for
+  satisfying meals, with many highlighting the fresh flavors and great value
+  during happy hours. While the service is frequently described as friendly and
+  attentive, adding to the overall enjoyable vibe, a few mentions point to
+  occasional inconsistencies like less welcoming interactions or minor issues
+  with temperature on some dishes. Overall, the consensus leans positive, with
+  diners appreciating the clean environment and extras like complimentary items
+  that enhance the experience. If you're on the hunt for top-rated sushi nearby,
+  it's clear that the majority find the food delicious and reasonably priced,
+  though it's wise to keep expectations in check for peak times. In a casual
+  dining scene, this place generally hits the mark for those craving solid
+  Japanese fare without the fuss.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
+curbside_pickup: false
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
 menu_for_children: null
 outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+reservable: true
+restroom: true
+serves_beer: true
 serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+serves_brunch: false
+serves_cocktails: false
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Japanese-style seafood, sake & beer served in an easygoing restaurant with
+  flat-screen TVs.
 
 ---

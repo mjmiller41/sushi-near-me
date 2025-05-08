@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Octopus sushi and hibachi"
+title: Octopus sushi and hibachi
 permalink: /arkansas/jacksonville/octopus-sushi-and-hibachi.html
 stateAbbr: AR
 stateName: Arkansas
 cityName: Jacksonville
 seo:
-  name: "Octopus sushi and hibachi"
-  type: Restaurant
+  type: restaurant
   links: https://www.octopussushihibachi.com/
-description: "Octopus sushi and hibachi serves delicious sushi in Jacksonville, Arkansas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ3XtXkIDr0ocRObpZb4RVpK8
 photos:
   - name: >-
@@ -170,7 +168,105 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x87d2eb8090577bdd:0xafa455846f59ba39!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 14
+        minute: 0
+    - open:
+        day: 6
+        hour: 16
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 2:00 PM, 4:00 – 9:00 PM'
     - 'Tuesday: 11:00 AM – 2:00 PM, 4:00 – 9:00 PM'
     - 'Wednesday: 11:00 AM – 2:00 PM, 4:00 – 9:00 PM'
@@ -178,14 +274,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 2:00 PM, 4:00 – 9:00 PM'
     - 'Saturday: 11:00 AM – 2:00 PM, 4:00 – 9:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:00 AM – 2:00 PM, 4:00 – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 2:00 PM, 4:00 – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 2:00 PM, 4:00 – 9:00 PM'
-    - 'Thursday: 11:00 AM – 2:00 PM, 4:00 – 9:00 PM'
-    - 'Friday: 11:00 AM – 2:00 PM, 4:00 – 9:00 PM'
-    - 'Saturday: 11:00 AM – 2:00 PM, 4:00 – 9:00 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +286,216 @@ phone: (501) 457-7779
 price_level: null
 price_range: $10 &ndash; $20
 rating: '4.4'
-rating_count: 0
+rating_count: 225
 website: https://www.octopussushihibachi.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Octopus Sushi and Hibachi in Jacksonville, AR$$$Nestled in
+  Jacksonville, AR, Octopus Sushi and Hibachi stands out as a welcoming spot for
+  fresh sushi and hibachi delights, perfect for those seeking sushi restaurants
+  near you. This eatery boasts accessibility features like wheelchair-friendly
+  entrances and seating, making it easy for everyone to enjoy a meal focused on
+  flavorful Japanese-inspired cuisine. With options for dine-in, takeout, and
+  delivery, it's ideal for casual lunches or group dinners, complemented by a
+  menu that includes satisfying hibachi plates and vegetarian choices. The
+  atmosphere emphasizes comfort and convenience, with ample parking and
+  family-friendly vibes that enhance the overall dining experience. Whether
+  you're exploring top-rated sushi options close to home, this place offers a
+  reliable blend of quality and affordability for everyday indulgences.
+generative_summary: >-
+  Discover Octopus Sushi and Hibachi in Jacksonville, AR$$$Nestled in
+  Jacksonville, AR, Octopus Sushi and Hibachi stands out as a welcoming spot for
+  fresh sushi and hibachi delights, perfect for those seeking sushi restaurants
+  near you. This eatery boasts accessibility features like wheelchair-friendly
+  entrances and seating, making it easy for everyone to enjoy a meal focused on
+  flavorful Japanese-inspired cuisine. With options for dine-in, takeout, and
+  delivery, it's ideal for casual lunches or group dinners, complemented by a
+  menu that includes satisfying hibachi plates and vegetarian choices. The
+  atmosphere emphasizes comfort and convenience, with ample parking and
+  family-friendly vibes that enhance the overall dining experience. Whether
+  you're exploring top-rated sushi options close to home, this place offers a
+  reliable blend of quality and affordability for everyday indulgences.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ3XtXkIDr0ocRObpZb4RVpK8/reviews/ChZDSUhNMG9nS0VJQ0FnTURJbzRLQldREAE
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 5
+    text:
+      text: >-
+        Best chicken and rice I’ve ever had hands down. Was expecting some basic
+        run of the mill but the flavor was top tier! 10/10 recommend their
+        chicken and rice, and my wife had two fried sushi rolls that she loved
+        also. Food 10 service 9 price 10
+      languageCode: en
+    originalText:
+      text: >-
+        Best chicken and rice I’ve ever had hands down. Was expecting some basic
+        run of the mill but the flavor was top tier! 10/10 recommend their
+        chicken and rice, and my wife had two fried sushi rolls that she loved
+        also. Food 10 service 9 price 10
+      languageCode: en
+    authorAttribution:
+      displayName: Kayla Goacher
+      uri: https://www.google.com/maps/contrib/102092968723062908983/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUQSNQa4VfMyPL-NLauZUm9_gWOZaxJtdag0aESXxa6W0SHHHer=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-12T16:26:06.143424Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURJbzRLQldREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJbzRLQldREAE!2m1!1s0x87d2eb8090577bdd:0xafa455846f59ba39
+  - name: >-
+      places/ChIJ3XtXkIDr0ocRObpZb4RVpK8/reviews/ChdDSUhNMG9nS0VJQ0FnSUNYdzVTNmpnRRAB
+    relativePublishTimeDescription: 6 months ago
+    rating: 5
+    text:
+      text: Was so nice. Alot of food and tasted wonderful. Will be coming back
+      languageCode: en
+    originalText:
+      text: Was so nice. Alot of food and tasted wonderful. Will be coming back
+      languageCode: en
+    authorAttribution:
+      displayName: Misty Brown Holland
+      uri: https://www.google.com/maps/contrib/110218656796273404614/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocI7ux3Y-3dNYJfDhjcEc-JJJUxhwupQboCPqWylLC1gg_NVCQ=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-10-19T22:20:07.916338Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNYdzVTNmpnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNYdzVTNmpnRRAB!2m1!1s0x87d2eb8090577bdd:0xafa455846f59ba39
+  - name: >-
+      places/ChIJ3XtXkIDr0ocRObpZb4RVpK8/reviews/ChdDSUhNMG9nS0VJQ0FnSUNSX2JLc3dnRRAB
+    relativePublishTimeDescription: 2 years ago
+    rating: 1
+    text:
+      text: >-
+        This place was good when it first opened, but it's gone downhill fast.
+        Our experience tonight will be our last. They prices keep going up and
+        the portion sizes do not justify the money it costs. I included a
+        picture of our side of chicken that cost $8. On top of that, their
+        "salad" is literally just lettuce with some dressing. And 2 of our 3
+        meals had long strands of hair in the rice! Yeah we're done here.
+      languageCode: en
+    originalText:
+      text: >-
+        This place was good when it first opened, but it's gone downhill fast.
+        Our experience tonight will be our last. They prices keep going up and
+        the portion sizes do not justify the money it costs. I included a
+        picture of our side of chicken that cost $8. On top of that, their
+        "salad" is literally just lettuce with some dressing. And 2 of our 3
+        meals had long strands of hair in the rice! Yeah we're done here.
+      languageCode: en
+    authorAttribution:
+      displayName: tiffany3 hopkins
+      uri: https://www.google.com/maps/contrib/103645280120950763844/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKTZwWwKWfyktkKlTysfIh03qvzEconpVJaUyeGe5PZmKbXGBk=s128-c0x00000000-cc-rp-mo
+    publishTime: '2023-04-09T00:50:48.705826Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNSX2JLc3dnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNSX2JLc3dnRRAB!2m1!1s0x87d2eb8090577bdd:0xafa455846f59ba39
+  - name: >-
+      places/ChIJ3XtXkIDr0ocRObpZb4RVpK8/reviews/ChdDSUhNMG9nS0VJQ0FnSUN5OE92ODlBRRAB
+    relativePublishTimeDescription: 4 years ago
+    rating: 1
+    text:
+      text: >-
+        Food was not tasty at all. Husband said rice seemed gummy or old. I was
+        not happy with noodles. Lady checking everyone food to ensure quality
+        does NOT wear a mask, but has sign at the door to wear mask upon entry.
+      languageCode: en
+    originalText:
+      text: >-
+        Food was not tasty at all. Husband said rice seemed gummy or old. I was
+        not happy with noodles. Lady checking everyone food to ensure quality
+        does NOT wear a mask, but has sign at the door to wear mask upon entry.
+      languageCode: en
+    authorAttribution:
+      displayName: L P
+      uri: https://www.google.com/maps/contrib/102781580892670069137/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIEQthXgGx71w80bjOGoYMsmN6uGfmWq8ytNgfUdBH_UVKUYQ=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2021-02-26T22:44:44.439932Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN5OE92ODlBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN5OE92ODlBRRAB!2m1!1s0x87d2eb8090577bdd:0xafa455846f59ba39
+  - name: >-
+      places/ChIJ3XtXkIDr0ocRObpZb4RVpK8/reviews/ChdDSUhNMG9nS0VJQ0FnSURfaC1xWnVRRRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        After wasting a trip to Jacksonville to GameStop for it to be closed, I
+        decided to order from a couple doors down...Octopus Hibachi. The food
+        was great and had good customer service. Thank you and looking forward
+        to stopping by again💪🏿
+      languageCode: en
+    originalText:
+      text: >-
+        After wasting a trip to Jacksonville to GameStop for it to be closed, I
+        decided to order from a couple doors down...Octopus Hibachi. The food
+        was great and had good customer service. Thank you and looking forward
+        to stopping by again💪🏿
+      languageCode: en
+    authorAttribution:
+      displayName: Payton Carroll
+      uri: https://www.google.com/maps/contrib/116421136198006570908/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKiy0FqI-dVz5KIxhZWO0QI-s0kPhNPdwQ4uOtSTK_LYGWDTA=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-01-27T15:28:45.990003Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURfaC1xWnVRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURfaC1xWnVRRRAB!2m1!1s0x87d2eb8090577bdd:0xafa455846f59ba39
+review_summary: >-
+  Customer Feedback Highlights$$$Folks chatting about their visits often rave
+  about the tasty dishes like flavorful chicken and rice or crispy fried rolls,
+  making it a solid pick for anyone craving satisfying Japanese fare. While most
+  agree the portions are generous and the service hits the mark with friendly
+  efficiency, a few mention occasional inconsistencies that could use some
+  tweaking for a smoother experience. Overall, it's clear this spot delivers
+  great value, with many returning for the dependable flavors that keep things
+  enjoyable and budget-friendly. If you're on the hunt for sushi places near me,
+  the positive buzz around the food's freshness and variety tends to outweigh
+  any minor gripes, painting a picture of a go-to local favorite. In a casual
+  setting, it's easy to see why so many leave feeling content, as long as you
+  keep expectations realistic for a neighborhood gem.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
+curbside_pickup: true
+delivery: true
+dine_in: true
+good_for_children: true
 good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+good_for_sports: false
+live_music: false
+menu_for_children: true
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: false
 serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+serves_brunch: false
+serves_cocktails: false
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: false
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

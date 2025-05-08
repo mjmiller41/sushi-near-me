@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Takumi Sushi and Hibachi"
+title: Takumi Sushi and Hibachi
 permalink: /indiana/zionsville/takumi-sushi-and-hibachi.html
 stateAbbr: IN
 stateName: Indiana
 cityName: Zionsville
 seo:
-  name: "Takumi Sushi and Hibachi"
-  type: Restaurant
+  type: restaurant
   links: http://takumisushihibachi.com/
-description: "Takumi Sushi and Hibachi serves delicious sushi in Zionsville, Indiana. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJM1C44iNTE4gRHZDKwKQAiQE
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 0
 website: http://takumisushihibachi.com/
+description: >-
+  Discover Takumi Sushi and Hibachi in Zionsville, IN$$$In Zionsville, IN,
+  Takumi Sushi and Hibachi stands out as a welcoming spot for fresh Japanese
+  cuisine, featuring an array of sushi rolls, sashimi, and flavorful hibachi
+  options in a cozy, family-friendly setting. This sushi restaurant near you
+  emphasizes accessibility with wheelchair-friendly features like parking and
+  seating, making it easy for everyone to enjoy a relaxed meal. Patrons can
+  savor high-quality dishes that highlight traditional flavors, served in a
+  clean and inviting atmosphere perfect for casual dining or takeout. Whether
+  you're exploring top-rated sushi places in the area, this venue combines
+  affordability with a comfortable vibe, ideal for those seeking authentic
+  Japanese tastes close to home.
+generative_summary: >-
+  Discover Takumi Sushi and Hibachi in Zionsville, IN$$$In Zionsville, IN,
+  Takumi Sushi and Hibachi stands out as a welcoming spot for fresh Japanese
+  cuisine, featuring an array of sushi rolls, sashimi, and flavorful hibachi
+  options in a cozy, family-friendly setting. This sushi restaurant near you
+  emphasizes accessibility with wheelchair-friendly features like parking and
+  seating, making it easy for everyone to enjoy a relaxed meal. Patrons can
+  savor high-quality dishes that highlight traditional flavors, served in a
+  clean and inviting atmosphere perfect for casual dining or takeout. Whether
+  you're exploring top-rated sushi places in the area, this venue combines
+  affordability with a comfortable vibe, ideal for those seeking authentic
+  Japanese tastes close to home.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJM1C44iNTE4gRHZDKwKQAiQE/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfMWVuQS13RRAB
@@ -336,6 +359,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUN3bDVpelhREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUN3bDVpelhREAE!2m1!1s0x88135323e2b85033:0x18900a4c0ca901d
+review_summary: >-
+  What Visitors Are Saying About This Sushi Spot$$$Folks generally enjoy the
+  tasty sushi and hibachi dishes at this Zionsville favorite, often noting the
+  fresh flavors and solid variety that make it a go-to for Japanese cravings.
+  While some mention that certain sauces can feel a bit strong, the overall food
+  quality keeps diners coming back for more, especially the creative rolls and
+  tempura options. The friendly service and clean environment add to the appeal,
+  creating a laid-back spot that's great for families or quick meals. Even with
+  minor hiccups like occasional table stickiness, many agree it's a reliable
+  choice for satisfying sushi near me, delivering a positive experience that
+  balances value and taste. Overall, it's earning high marks as one of the
+  better local options for anyone hunting for dependable, enjoyable Japanese
+  fare.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -368,7 +405,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

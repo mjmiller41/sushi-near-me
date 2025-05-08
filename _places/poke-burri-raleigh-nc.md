@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Poke Burri"
+title: Poke Burri
 permalink: /north-carolina/raleigh/poke-burri.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Raleigh
 seo:
-  name: "Poke Burri"
-  type: Restaurant
+  type: restaurant
   links: http://pokeburriraleigh.com/
-description: "Simple counter-serve spot preparing poke bowls, sushi burritos & other Asian fusion eats. Poke Burri serves delicious sushi in Raleigh, North Carolina. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJSd5Wi7FZrIkRkX_1q6G0b3Q
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $10 &ndash; $20
 rating: '4.8'
 rating_count: 0
 website: http://pokeburriraleigh.com/
+description: >-
+  Discover Poke Burri in Raleigh, NC$$$Poke Burri in Raleigh, NC, stands out as
+  a casual dining destination blending fresh Asian fusion flavors with
+  innovative menu options. This sushi restaurant offers a variety of poke bowls
+  and sushi burritos that highlight high-quality ingredients and creative twists
+  on traditional dishes, making it a go-to spot for those seeking sushi
+  restaurants nearby. The welcoming atmosphere and accessible features, such as
+  wheelchair-friendly entrances and seating, ensure a comfortable experience for
+  all visitors. Additionally, options like beer and wine add to the relaxed
+  vibe, perfect for casual meals or quick lunches. With its focus on generous
+  portions and flavorful combinations, it's an ideal choice for anyone exploring
+  top-rated sushi in the area.
+generative_summary: >-
+  Discover Poke Burri in Raleigh, NC$$$Poke Burri in Raleigh, NC, stands out as
+  a casual dining destination blending fresh Asian fusion flavors with
+  innovative menu options. This sushi restaurant offers a variety of poke bowls
+  and sushi burritos that highlight high-quality ingredients and creative twists
+  on traditional dishes, making it a go-to spot for those seeking sushi
+  restaurants nearby. The welcoming atmosphere and accessible features, such as
+  wheelchair-friendly entrances and seating, ensure a comfortable experience for
+  all visitors. Additionally, options like beer and wine add to the relaxed
+  vibe, perfect for casual meals or quick lunches. With its focus on generous
+  portions and flavorful combinations, it's an ideal choice for anyone exploring
+  top-rated sushi in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJSd5Wi7FZrIkRkX_1q6G0b3Q/reviews/ChZDSUhNMG9nS0VJQ0FnSUR2azQya0p3EAE
@@ -340,6 +363,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURQNmNYd3FRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURQNmNYd3FRRRAB!2m1!1s0x89ac59b18b56de49:0x746fb4a1abf57f91
+review_summary: >-
+  What Customers Are Raving About$$$Visitors to this sushi spot often praise the
+  fresh poke bowls and sushi burritos for their bold flavors and hearty
+  servings, making it a solid pick for anyone hunting for great sushi near me.
+  Many highlight the welcoming service and clean environment that enhance the
+  overall dining experience, even if there are occasional mix-ups with orders
+  that get sorted out quickly. Folks appreciate the variety of customizable
+  options and add-ons, which keep things exciting and tailored to different
+  tastes, earning it high marks as a reliable lunch favorite. Overall, the
+  generous portions and quality ingredients leave a positive impression,
+  encouraging repeat visits for those who love sushi. If you're in the mood for
+  something tasty and approachable, this place delivers a consistently enjoyable
+  vibe without any major letdowns.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -372,8 +409,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Simple counter-serve spot preparing poke bowls, sushi burritos & other Asian
   fusion eats.
 

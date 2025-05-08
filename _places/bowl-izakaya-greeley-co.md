@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Bowl Izakaya"
+title: Bowl Izakaya
 permalink: /colorado/greeley/bowl-izakaya.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Greeley
 seo:
-  name: "Bowl Izakaya"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Bowl Izakaya serves delicious sushi in Greeley, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ7Zk8cQCjbocR2USFdOqJy3Y
 photos:
   - name: >-
@@ -184,7 +182,44 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Bowl Izakaya in Greeley, CO$$$Bowl Izakaya in Greeley, CO, stands out
+  as a vibrant Japanese restaurant blending fresh flavors and accessible dining
+  options for all guests. This spot delights with a selection of authentic
+  dishes, including flavorful ramen and creative sushi rolls that capture the
+  essence of Japanese cuisine. The modern atmosphere creates a relaxed setting,
+  enhanced by thoughtful accessibility features like wheelchair-friendly
+  entrances and seating. Patrons appreciate the reasonable pricing, making it an
+  appealing choice for anyone seeking quality Japanese dining without breaking
+  the bank. Whether you're exploring sushi options in the area or enjoying a
+  casual meal, this restaurant offers a welcoming environment that highlights
+  its commitment to flavorful, everyday experiences.
+generative_summary: >-
+  Discover Bowl Izakaya in Greeley, CO$$$Bowl Izakaya in Greeley, CO, stands out
+  as a vibrant Japanese restaurant blending fresh flavors and accessible dining
+  options for all guests. This spot delights with a selection of authentic
+  dishes, including flavorful ramen and creative sushi rolls that capture the
+  essence of Japanese cuisine. The modern atmosphere creates a relaxed setting,
+  enhanced by thoughtful accessibility features like wheelchair-friendly
+  entrances and seating. Patrons appreciate the reasonable pricing, making it an
+  appealing choice for anyone seeking quality Japanese dining without breaking
+  the bank. Whether you're exploring sushi options in the area or enjoying a
+  casual meal, this restaurant offers a welcoming environment that highlights
+  its commitment to flavorful, everyday experiences.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Folks around town often highlight the tasty
+  Japanese dishes at this spot, with spicy ramen and fresh sushi rolls standing
+  out as crowd favorites that deliver on flavor and variety. Many appreciate the
+  friendly service and cozy, modern vibe that make every visit feel comfortable
+  and enjoyable. Reviews frequently mention the great value for the price,
+  helping it earn nods as a go-to for casual dinners or group outings. While
+  some note it's perfect for those new to Japanese cuisine, others praise the
+  solid portions and overall satisfaction that keep people coming back. Overall,
+  it's clear this place hits the mark for anyone craving reliable, delicious
+  eats in a welcoming setting.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +245,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

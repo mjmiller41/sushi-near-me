@@ -1,16 +1,13 @@
 ---
 layout: place
-title: "Kusshi Sushi WestPost"
+title: Kusshi Sushi WestPost
 permalink: /virginia/arlington/kusshi-sushi-westpost.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Arlington
 seo:
-  name: "Kusshi Sushi WestPost"
-  type: Restaurant
+  type: restaurant
   links: https://www.kusshisushi.com/
-description: "Japanese restaurant in Aurora Highlands offering sushi, sashimi, and ramen for dine-in and takeout. There are also happy hour drinks. The menu includes healthy choices and small plates, as well as beer, wine, sake, and cocktails. Popular items include the takoyaki, spicy tuna roll, and 12-piece nigiri assortment.
-Open for lunch and dinner, the venue has a welcoming atmosphere with a bar, outdoor seating, and high chairs for kids. Reviews often mention the presentation of the food and say the service is excellent. Kusshi Sushi WestPost serves delicious sushi in Arlington, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJHfgx4Z23t4kRIEGmxxJOnwQ
 photos:
   - name: >-
@@ -186,6 +183,35 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 0
 website: https://www.kusshisushi.com/
+description: >-
+  Explore Kusshi Sushi WestPost in Arlington, VA$$$Kusshi Sushi WestPost in
+  Arlington, VA, stands out as a casual Japanese eatery offering a delightful
+  array of fresh sushi and sashimi options that appeal to seafood enthusiasts
+  seeking quality dining. The spot features a welcoming atmosphere with outdoor
+  seating and a menu that includes flavorful small plates, ramen, and a
+  selection of beverages like beer and sake, making it ideal for relaxed meals.
+  Accessibility is a key highlight, with options like wheelchair-friendly
+  entrances and seating that ensure everyone can enjoy the experience
+  comfortably. This sushi restaurant near Arlington also caters to those looking
+  for healthy choices and happy hour deals, blending traditional flavors with a
+  modern vibe. Whether you're in the mood for a quick bite or a leisurely
+  dinner, it provides a convenient spot for exploring Japanese cuisine in a
+  vibrant setting.
+generative_summary: >-
+  Explore Kusshi Sushi WestPost in Arlington, VA$$$Kusshi Sushi WestPost in
+  Arlington, VA, stands out as a casual Japanese eatery offering a delightful
+  array of fresh sushi and sashimi options that appeal to seafood enthusiasts
+  seeking quality dining. The spot features a welcoming atmosphere with outdoor
+  seating and a menu that includes flavorful small plates, ramen, and a
+  selection of beverages like beer and sake, making it ideal for relaxed meals.
+  Accessibility is a key highlight, with options like wheelchair-friendly
+  entrances and seating that ensure everyone can enjoy the experience
+  comfortably. This sushi restaurant near Arlington also caters to those looking
+  for healthy choices and happy hour deals, blending traditional flavors with a
+  modern vibe. Whether you're in the mood for a quick bite or a leisurely
+  dinner, it provides a convenient spot for exploring Japanese cuisine in a
+  vibrant setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJHfgx4Z23t4kRIEGmxxJOnwQ/reviews/ChdDSUhNMG9nS0VJQ0FnTUNnMHUtRW1RRRAB
@@ -373,6 +399,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQzOC1MNVlnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQzOC1MNVlnEAE!2m1!1s0x89b7b79de131f81d:0x49f4e12c7a64120
+review_summary: >-
+  Highlights from Customer Feedback$$$Folks enjoying sushi spots around
+  Arlington often praise Kusshi Sushi WestPost for its fresh and flavorful
+  rolls, along with solid portions that deliver great value for the price. Many
+  appreciate the cozy atmosphere and attentive service that make every visit
+  feel welcoming, perfect for a casual outing or quick takeout. Reviewers
+  frequently mention the tasty appetizers and drinks, like the beer and
+  cocktails, adding to the overall fun vibe without any major complaints. While
+  some note that certain items could be a bit larger, the general consensus
+  leans positive, highlighting it as a reliable choice for anyone searching for
+  top-rated sushi nearby. All in all, it's a go-to option that keeps things
+  light and enjoyable, encouraging repeat trips for those craving authentic
+  Japanese flavors in a laid-back environment.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   paidParkingLot: true
@@ -405,8 +445,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Japanese restaurant in Aurora Highlands offering sushi, sashimi, and ramen for
   dine-in and takeout. There are also happy hour drinks. The menu includes
   healthy choices and small plates, as well as beer, wine, sake, and cocktails.

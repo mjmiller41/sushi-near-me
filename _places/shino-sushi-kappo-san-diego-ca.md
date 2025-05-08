@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Shino Sushi + Kappo"
+title: Shino Sushi + Kappo
 permalink: /california/san-diego/shino-sushi-kappo.html
 stateAbbr: CA
 stateName: California
 cityName: San Diego
 seo:
-  name: "Shino Sushi + Kappo"
-  type: Restaurant
+  type: restaurant
   links: https://www.facebook.com/people/Shino-Sushi/100041554766846/
-description: "Laid-back Japanese eatery serving sushi & rolls in simple, contemporary surrounds. Shino Sushi + Kappo serves delicious sushi in San Diego, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJeSeoV6xU2YARSJzqWsZOSvU
 photos:
   - name: >-
@@ -185,6 +183,27 @@ price_range: $50 &ndash; $100
 rating: '4.5'
 rating_count: 0
 website: https://www.facebook.com/people/Shino-Sushi/100041554766846/
+description: >-
+  Discover Shino Sushi + Kappo in San Diego$$$Shino Sushi + Kappo in San Diego,
+  CA, provides a laid-back atmosphere perfect for savoring fresh Japanese
+  flavors in a contemporary setting. This spot excels with its selection of
+  high-quality sushi, sashimi, and other traditional dishes, paired with options
+  like sake, beer, and wine to enhance the meal. The eatery emphasizes
+  accessibility and comfort, making it an inviting choice for those exploring
+  local dining scenes. For anyone seeking reliable sushi restaurants in the
+  area, it stands out with its focus on authentic tastes and relaxed vibes that
+  keep diners coming back.
+generative_summary: >-
+  Discover Shino Sushi + Kappo in San Diego$$$Shino Sushi + Kappo in San Diego,
+  CA, provides a laid-back atmosphere perfect for savoring fresh Japanese
+  flavors in a contemporary setting. This spot excels with its selection of
+  high-quality sushi, sashimi, and other traditional dishes, paired with options
+  like sake, beer, and wine to enhance the meal. The eatery emphasizes
+  accessibility and comfort, making it an inviting choice for those exploring
+  local dining scenes. For anyone seeking reliable sushi restaurants in the
+  area, it stands out with its focus on authentic tastes and relaxed vibes that
+  keep diners coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJeSeoV6xU2YARSJzqWsZOSvU/reviews/ChdDSUhNMG9nS0VJQ0FnTURRdVAtWnZ3RRAB
@@ -354,6 +373,17 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNIek1hN2VBEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNIek1hN2VBEAE!2m1!1s0x80d954ac57a82779:0xf54a4ec65aea9c48
+review_summary: >-
+  What Customers Are Saying$$$Visitors often highlight the friendly service and
+  incredibly fresh sushi that make meals here feel special and satisfying. Many
+  appreciate the authentic Japanese touches and lively atmosphere, especially
+  when seated at the bar for an up-close experience. The overall quality of the
+  dishes and attentive staff create a welcoming environment that's easy to
+  recommend for casual outings. While prices reflect the premium ingredients,
+  the consensus leans positive, with folks enjoying it as a solid pick for
+  exploring top-rated sushi options nearby. All in all, it's a go-to spot that
+  delivers a enjoyable vibe without any major drawbacks.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options:
   acceptsCreditCards: true
@@ -382,8 +412,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Laid-back Japanese eatery serving sushi & rolls in simple, contemporary
   surrounds.
 

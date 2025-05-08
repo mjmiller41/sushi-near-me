@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Dan Sushi & Hibachi"
+title: Dan Sushi & Hibachi
 permalink: /north-carolina/fuquay-varina/dan-sushi-hibachi.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Fuquay-Varina
 seo:
-  name: "Dan Sushi & Hibachi"
-  type: Restaurant
+  type: restaurant
   links: http://www.dansushihibachi.com/
-description: "Dan Sushi & Hibachi serves delicious sushi in Fuquay-Varina, North Carolina. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJDb_1aRGPrIkRjGitW1QNA0o
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 0
 website: http://www.dansushihibachi.com/
+description: >-
+  Explore Dan Sushi & Hibachi in Fuquay-Varina, NC$$$Nestled in Fuquay-Varina,
+  NC, Dan Sushi & Hibachi offers a casual dining experience focused on fresh
+  sushi and hibachi options that appeal to a wide range of tastes. This spot
+  stands out for its kid-friendly vibe, making it an ideal choice for families
+  seeking flavorful meals in a relaxed setting. With accessible features like
+  wheelchair-friendly entrances and seating, it's designed to accommodate
+  everyone comfortably while serving generous portions at affordable prices.
+  Whether you're in the mood for hibachi favorites or sushi varieties, this
+  eatery provides a welcoming atmosphere that enhances local dining scenes. For
+  those searching for top-rated sushi restaurants nearby, it's a reliable option
+  that combines quality with convenience.
+generative_summary: >-
+  Explore Dan Sushi & Hibachi in Fuquay-Varina, NC$$$Nestled in Fuquay-Varina,
+  NC, Dan Sushi & Hibachi offers a casual dining experience focused on fresh
+  sushi and hibachi options that appeal to a wide range of tastes. This spot
+  stands out for its kid-friendly vibe, making it an ideal choice for families
+  seeking flavorful meals in a relaxed setting. With accessible features like
+  wheelchair-friendly entrances and seating, it's designed to accommodate
+  everyone comfortably while serving generous portions at affordable prices.
+  Whether you're in the mood for hibachi favorites or sushi varieties, this
+  eatery provides a welcoming atmosphere that enhances local dining scenes. For
+  those searching for top-rated sushi restaurants nearby, it's a reliable option
+  that combines quality with convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJDb_1aRGPrIkRjGitW1QNA0o/reviews/ChdDSUhNMG9nS0VJQ0FnSUR2a3B1TTZRRRAB
@@ -360,6 +383,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR2clpMZExBEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR2clpMZExBEAE!2m1!1s0x89ac8f1169f5bf0d:0x4a030d545bad688c
+review_summary: >-
+  Customer Feedback Highlights$$$Visitors often rave about the delicious hibachi
+  and sushi dishes, noting the exceptional flavors and generous portions that
+  make meals feel satisfying and worthwhile. Many appreciate the fast and
+  friendly service that keeps things efficient without sacrificing a welcoming
+  feel, turning quick visits into enjoyable experiences. While some mention the
+  casual setup with disposable items, it's generally seen as a fair trade-off
+  for the affordable prices and laid-back vibe perfect for everyday cravings.
+  Overall, folks find it a go-to spot for tasty Japanese-inspired fare,
+  especially when looking for sushi places near me that deliver on both taste
+  and value. If you're exploring sushi restaurants in the area, this one
+  consistently earns praise for its reliable quality and family-friendly
+  approach.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -393,7 +430,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -5,4 +5,5 @@ permalink: /utah/park-city/
 stateAbbr: UT
 stateName: Utah
 cityName: Park City
+
 ---

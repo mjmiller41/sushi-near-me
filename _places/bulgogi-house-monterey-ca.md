@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Bulgogi House"
+title: Bulgogi House
 permalink: /california/monterey/bulgogi-house.html
 stateAbbr: CA
 stateName: California
 cityName: Monterey
 seo:
-  name: "Bulgogi House"
-  type: Restaurant
-  links: null
-description: "Bulgogi House serves delicious sushi in Monterey, California. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://bulgogihousemonterey.com/
 place_id: ChIJ2YKbdiXljYARYCHNJK7NfOY
 photos:
   - name: >-
@@ -169,8 +167,97 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x808de525769b82d9:0xe67ccdae24cd2160!10e5
 primary_type: Korean Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 14
+        minute: 30
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 14
+        minute: 30
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
+    - 'Tuesday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
+    - 'Wednesday: Closed'
+    - 'Thursday: Closed'
+    - 'Friday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
+    - 'Saturday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
+    - 'Sunday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -178,13 +265,50 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (831) 920-1251
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.5'
+rating_count: 90
+website: https://bulgogihousemonterey.com/
+description: >-
+  Discover Bulgogi House in Monterey, CA$$$Bulgogi House in Monterey, CA, offers
+  a straightforward yet delightful array of Korean specialties in a relaxed and
+  welcoming atmosphere. This spot focuses on classic dishes like flavorful
+  bulgogi and spicy chicken, making it a go-to for authentic Korean flavors in
+  the area. With accessibility features such as wheelchair-friendly parking and
+  entrances, it's designed to accommodate all visitors comfortably. The
+  restaurant operates with convenient hours, ideal for lunch or dinner outings,
+  and maintains a moderate price point that appeals to those seeking quality
+  Korean cuisine nearby. Whether you're exploring local dining options or
+  craving hearty meals, this establishment stands out for its casual vibe and
+  emphasis on traditional tastes.
+generative_summary: >-
+  Discover Bulgogi House in Monterey, CA$$$Bulgogi House in Monterey, CA, offers
+  a straightforward yet delightful array of Korean specialties in a relaxed and
+  welcoming atmosphere. This spot focuses on classic dishes like flavorful
+  bulgogi and spicy chicken, making it a go-to for authentic Korean flavors in
+  the area. With accessibility features such as wheelchair-friendly parking and
+  entrances, it's designed to accommodate all visitors comfortably. The
+  restaurant operates with convenient hours, ideal for lunch or dinner outings,
+  and maintains a moderate price point that appeals to those seeking quality
+  Korean cuisine nearby. Whether you're exploring local dining options or
+  craving hearty meals, this establishment stands out for its casual vibe and
+  emphasis on traditional tastes.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback Highlights$$$Visitors to this Korean eatery often rave about
+  the mouthwatering entrees like bulgogi and kalbi, praising their bold flavors
+  and satisfying portions that hit the spot every time. Many appreciate the
+  friendly service that makes dining feel effortless and enjoyable, turning a
+  simple meal into a pleasant experience. Folks frequently note how quick and
+  convenient lunch options fit seamlessly into a busy day without skimping on
+  taste. Overall, the consensus leans positive, with highlights on the attentive
+  staff and easygoing vibe that encourage repeat visits. If you're in the mood
+  for reliable Korean dishes in a welcoming setting, this place delivers on
+  expectations while keeping things light and fun.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +334,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -5,4 +5,5 @@ permalink: /pennsylvania/easton/
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Easton
+
 ---

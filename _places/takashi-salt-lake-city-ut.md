@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Takashi"
+title: Takashi
 permalink: /utah/salt-lake-city/takashi.html
 stateAbbr: UT
 stateName: Utah
 cityName: Salt Lake City
 seo:
-  name: "Takashi"
-  type: Restaurant
+  type: restaurant
   links: http://takashisushi.com/
-description: "Takashi serves delicious sushi in Salt Lake City, Utah. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJySRBGhD1UocRvck4jYN0_jA
 photos:
   - name: >-
@@ -170,7 +168,97 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8752f5101a4124c9:0x30fe74838d38c9bd!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 14
+        minute: 0
+    - open:
+        day: 1
+        hour: 17
+        minute: 30
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 30
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 2:00 PM, 5:30 – 10:00 PM'
     - 'Tuesday: 11:30 AM – 2:00 PM, 5:30 – 10:00 PM'
     - 'Wednesday: 11:30 AM – 2:00 PM, 5:30 – 10:00 PM'
@@ -178,14 +266,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 2:00 PM, 5:30 – 10:00 PM'
     - 'Saturday: 5:00 – 10:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:30 AM – 2:00 PM, 5:30 – 10:00 PM'
-    - 'Tuesday: 11:30 AM – 2:00 PM, 5:30 – 10:00 PM'
-    - 'Wednesday: 11:30 AM – 2:00 PM, 5:30 – 10:00 PM'
-    - 'Thursday: 11:30 AM – 2:00 PM, 5:30 – 10:00 PM'
-    - 'Friday: 11:30 AM – 2:00 PM, 5:30 – 10:00 PM'
-    - 'Saturday: 5:00 – 10:00 PM'
-    - 'Sunday: Closed'
+  nextOpenTime: '2025-05-03T23:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +278,274 @@ phone: (801) 519-9595
 price_level: PRICE_LEVEL_MODERATE
 price_range: $50 &ndash; $100
 rating: '4.6'
-rating_count: 0
+rating_count: 3008
 website: http://takashisushi.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Takashi in Salt Lake City, UT$$$Takashi in Salt Lake City, UT, stands
+  out as a premier Japanese restaurant offering an upscale dining experience
+  centered around fresh sushi and traditional flavors. The spot features a
+  contemporary atmosphere with a focus on signature rolls, sashimi, and a
+  thoughtfully curated selection of sake, making it a go-to for those seeking
+  authentic Japanese cuisine. Accessibility is a key highlight, with options
+  like wheelchair-friendly entrances and seating that ensure everyone can enjoy
+  the meal comfortably. Diners appreciate the variety of dishes that blend
+  classic techniques with creative presentations, all served in a setting that
+  elevates the overall enjoyment. Whether you're exploring sushi restaurants in
+  the area, this establishment delivers a refined yet approachable vibe that
+  captures the essence of Japanese dining.
+generative_summary: >-
+  Discover Takashi in Salt Lake City, UT$$$Takashi in Salt Lake City, UT, stands
+  out as a premier Japanese restaurant offering an upscale dining experience
+  centered around fresh sushi and traditional flavors. The spot features a
+  contemporary atmosphere with a focus on signature rolls, sashimi, and a
+  thoughtfully curated selection of sake, making it a go-to for those seeking
+  authentic Japanese cuisine. Accessibility is a key highlight, with options
+  like wheelchair-friendly entrances and seating that ensure everyone can enjoy
+  the meal comfortably. Diners appreciate the variety of dishes that blend
+  classic techniques with creative presentations, all served in a setting that
+  elevates the overall enjoyment. Whether you're exploring sushi restaurants in
+  the area, this establishment delivers a refined yet approachable vibe that
+  captures the essence of Japanese dining.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJySRBGhD1UocRvck4jYN0_jA/reviews/ChZDSUhNMG9nS0VJQ0FnTUNvMmJYbkVREAE
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: "If you’re serious about sushi in SLC, Takashi is the spot—but get there before they open if you want to make the first seating. It fills up fast for a reason.\n\nWe started with the pear salad, which had great flavor and texture. The pickled pear had a subtle, addictive tang I couldn’t quite place, and the mix of greens, seeds, and creamy cheese hit all the right notes.\n\nCalamari came out as a massive portion. The dipping sauce carried the dish—calamari was decent, not super flavorful on its own but fried well and not greasy.\n\nFried oysters were visually stunning, served in-shell. Crunchy and clean, though I’ve had better. Still solid.\n\nEdamame dumplings were the best appetizer by far. Super rich broth, great texture, and savory flavor in every bite—don’t skip these.\n\nThe steak with vegetable tempura was beautifully cooked and plated. Steak was juicy and flavorful, and the tempura (especially the portobello) was crisp and not overly oily.\n\nNow the sushi—fresh across the board. Favorites:\n•\tSquid, bonito, mirugai, masaba were the standouts.\n•\tUni was sweet and creamy.\n•\tAlso enjoyed: chutoro, iwashi, razor clam, amaebi—all fresh and handled well.\n\nOur server was fantastic—welcoming, attentive, and made sure we were taken care of throughout the meal. The sake recommendation she gave us paired really well with the nigiri. Only suggestion: it would be great if the larger bottles of sake came with a chilled bucket to keep it cool through the meal.\n\nTop-tier experience overall. Can’t wait to go back."
+      languageCode: en
+    originalText:
+      text: "If you’re serious about sushi in SLC, Takashi is the spot—but get there before they open if you want to make the first seating. It fills up fast for a reason.\n\nWe started with the pear salad, which had great flavor and texture. The pickled pear had a subtle, addictive tang I couldn’t quite place, and the mix of greens, seeds, and creamy cheese hit all the right notes.\n\nCalamari came out as a massive portion. The dipping sauce carried the dish—calamari was decent, not super flavorful on its own but fried well and not greasy.\n\nFried oysters were visually stunning, served in-shell. Crunchy and clean, though I’ve had better. Still solid.\n\nEdamame dumplings were the best appetizer by far. Super rich broth, great texture, and savory flavor in every bite—don’t skip these.\n\nThe steak with vegetable tempura was beautifully cooked and plated. Steak was juicy and flavorful, and the tempura (especially the portobello) was crisp and not overly oily.\n\nNow the sushi—fresh across the board. Favorites:\n•\tSquid, bonito, mirugai, masaba were the standouts.\n•\tUni was sweet and creamy.\n•\tAlso enjoyed: chutoro, iwashi, razor clam, amaebi—all fresh and handled well.\n\nOur server was fantastic—welcoming, attentive, and made sure we were taken care of throughout the meal. The sake recommendation she gave us paired really well with the nigiri. Only suggestion: it would be great if the larger bottles of sake came with a chilled bucket to keep it cool through the meal.\n\nTop-tier experience overall. Can’t wait to go back."
+      languageCode: en
+    authorAttribution:
+      displayName: d o
+      uri: https://www.google.com/maps/contrib/101449615754420452047/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIN0WZHUR6faMhdsdd_1elPq88MEzcX8sxMuRDZwnCEpDsM_A=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-18T10:34:39.092763Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNvMmJYbkVREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNvMmJYbkVREAE!2m1!1s0x8752f5101a4124c9:0x30fe74838d38c9bd
+  - name: >-
+      places/ChIJySRBGhD1UocRvck4jYN0_jA/reviews/ChdDSUhNMG9nS0VJQ0FnTURRNy1uNHJnRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Let me start with Aaron, Tony, and Zach, made this a wonderful dining
+        experience. Personable and attentive, with knowledge and a passion for
+        their work. All our food was delicious. Asian cesear, tempura vegetables
+        sushi of all types and even the mango mousse to finish it off. I
+        recommend sitting at the bar as it provides a very different experience.
+        Limited seating for such a popular place leads to lines and waits so
+        arrive early, stand in the line and give this place a shot.
+      languageCode: en
+    originalText:
+      text: >-
+        Let me start with Aaron, Tony, and Zach, made this a wonderful dining
+        experience. Personable and attentive, with knowledge and a passion for
+        their work. All our food was delicious. Asian cesear, tempura vegetables
+        sushi of all types and even the mango mousse to finish it off. I
+        recommend sitting at the bar as it provides a very different experience.
+        Limited seating for such a popular place leads to lines and waits so
+        arrive early, stand in the line and give this place a shot.
+      languageCode: en
+    authorAttribution:
+      displayName: Looking To Get Lost
+      uri: https://www.google.com/maps/contrib/116768778149572846652/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIvGDl4f7bqphcWECZRpVj82xUoBxfGCr1Fi6YNEpMwDV12Nw=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2025-03-27T01:41:04.461463Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURRNy1uNHJnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURRNy1uNHJnRRAB!2m1!1s0x8752f5101a4124c9:0x30fe74838d38c9bd
+  - name: >-
+      places/ChIJySRBGhD1UocRvck4jYN0_jA/reviews/ChZDSUhNMG9nS0VJQ0FnTURndEt5YUlBEAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        Unbelievably superb! My only complaint? I can’t come here every single
+        day. Everything about this place is exceptional. The only thing on the
+        menu you won’t like is… well, nothing—if you know what I mean.
+
+
+        Service? Once again, unbelievably superb. Emily was our waitress, and we
+        rolled in eight deep—yet she didn’t miss a single beat, down to the
+        toothpicks. The communication amongst the staff was on another level.
+
+        You can tell when a place is well-run, and this is a perfect example.
+        When I made a request from my waitress, it didn’t get lost in
+        translation. Instead of playing the usual game of “Who ordered this?” my
+        request came straight to me. From a third party. Wow.
+
+
+        Superb in every way.
+
+
+        Bring your friends for a very nice dinner out!
+
+
+        A parent's birthday or any other occasion will be special.
+
+
+        Don't forget to ask for Emily@
+      languageCode: en
+    originalText:
+      text: >-
+        Unbelievably superb! My only complaint? I can’t come here every single
+        day. Everything about this place is exceptional. The only thing on the
+        menu you won’t like is… well, nothing—if you know what I mean.
+
+
+        Service? Once again, unbelievably superb. Emily was our waitress, and we
+        rolled in eight deep—yet she didn’t miss a single beat, down to the
+        toothpicks. The communication amongst the staff was on another level.
+
+        You can tell when a place is well-run, and this is a perfect example.
+        When I made a request from my waitress, it didn’t get lost in
+        translation. Instead of playing the usual game of “Who ordered this?” my
+        request came straight to me. From a third party. Wow.
+
+
+        Superb in every way.
+
+
+        Bring your friends for a very nice dinner out!
+
+
+        A parent's birthday or any other occasion will be special.
+
+
+        Don't forget to ask for Emily@
+      languageCode: en
+    authorAttribution:
+      displayName: Gilbert rodriguez
+      uri: https://www.google.com/maps/contrib/104103628676551718577/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXj-lL-JA-JTEk-TUy8TtPXjcQ19OQQN8s8K6ZAQ_vuvrZWY7uD9Q=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-02-22T21:45:30.919102Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURndEt5YUlBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURndEt5YUlBEAE!2m1!1s0x8752f5101a4124c9:0x30fe74838d38c9bd
+  - name: >-
+      places/ChIJySRBGhD1UocRvck4jYN0_jA/reviews/ChZDSUhNMG9nS0VJQ0FnTURRem9YUURREAE
+    relativePublishTimeDescription: a month ago
+    rating: 4
+    text:
+      text: >-
+        We wanted sushi and heard this was the best place. It's a fun location
+        with a cool vibe. We had three rolls, Black Magic Woman, Strawberry
+        Fields and Ramon. I liked them best in that order. Ramon I would not
+        order again, it was just kind of bland, but the other two rolls were
+        great!
+      languageCode: en
+    originalText:
+      text: >-
+        We wanted sushi and heard this was the best place. It's a fun location
+        with a cool vibe. We had three rolls, Black Magic Woman, Strawberry
+        Fields and Ramon. I liked them best in that order. Ramon I would not
+        order again, it was just kind of bland, but the other two rolls were
+        great!
+      languageCode: en
+    authorAttribution:
+      displayName: Jeremy Moyes
+      uri: https://www.google.com/maps/contrib/118100916334034795253/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWKyV_CqGTskai_sFsPdXmOr4z6UINZK9fI9M2iY09Ti23GhwbI2w=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-03-11T03:59:30.778604Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURRem9YUURREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURRem9YUURREAE!2m1!1s0x8752f5101a4124c9:0x30fe74838d38c9bd
+  - name: >-
+      places/ChIJySRBGhD1UocRvck4jYN0_jA/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3MU9HaVZnEAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        We love the vibe and the food. It's one of the more expensive sushi
+        places in the valley but with good reason. The quality is fantastic.
+
+
+        While we enjoyed each roll we ordered, we especially liked the Black
+        Magic Woman.
+
+
+        The Candy Cap Pana Cotta for dessert was delicious as well.
+      languageCode: en
+    originalText:
+      text: >-
+        We love the vibe and the food. It's one of the more expensive sushi
+        places in the valley but with good reason. The quality is fantastic.
+
+
+        While we enjoyed each roll we ordered, we especially liked the Black
+        Magic Woman.
+
+
+        The Candy Cap Pana Cotta for dessert was delicious as well.
+      languageCode: en
+    authorAttribution:
+      displayName: Kait B
+      uri: https://www.google.com/maps/contrib/102838033432265676654/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWg6-6MHiG3olk_iqd9yALJ-Zsu73C2wUFTIKuqgFRTRtypSxXRpA=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-03-16T21:21:53.026446Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUN3MU9HaVZnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUN3MU9HaVZnEAE!2m1!1s0x8752f5101a4124c9:0x30fe74838d38c9bd
+review_summary: >-
+  What Customers Are Buzzing About$$$Folks often rave about the fresh and
+  flavorful sushi at this spot, with standout rolls and nigiri that keep people
+  coming back for more. Many highlight the excellent service and lively
+  atmosphere, noting how attentive staff make the experience feel welcoming and
+  seamless from start to finish. While most dishes score high marks for quality
+  and taste, a few mention that some options might not hit the spot for
+  everyone, like certain rolls that come off as milder than expected. Overall,
+  it's praised as a solid choice for groups or special occasions, with unique
+  cocktails and appetizers adding to the fun vibe. If you're on the hunt for
+  top-rated sushi places nearby, this one delivers a consistently enjoyable meal
+  that's worth the visit.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  paidParkingLot: true
+  paidStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+delivery: true
+dine_in: true
+good_for_children: false
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Japanese eatery & sushi bar featuring signature rolls & a big sake list in
+  hip, contemporary digs.
 
 ---

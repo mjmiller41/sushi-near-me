@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Mikato Japanese Steak House & Sushi Bar"
+title: Mikato Japanese Steak House & Sushi Bar
 permalink: /florida/st-augustine/mikato-japanese-steak-house-sushi-bar.html
 stateAbbr: FL
 stateName: Florida
 cityName: St. Augustine
 seo:
-  name: "Mikato Japanese Steak House & Sushi Bar"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Casual eatery with hibachi meals cooked by teppanyaki chefs & other Japanese staples, plus a bar. Mikato Japanese Steak House & Sushi Bar serves delicious sushi in St. Augustine, Florida. Try fresh Japanese dishes for a great dining experience. Available for, delivery."
 place_id: ChIJG2t4yvYn5IgRVyKGzXpNv00
 photos:
   - name: >-
@@ -183,6 +181,29 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 0
 website: null
+description: >-
+  Experience Mikato in St. Augustine, FL$$$Mikato Japanese Steak House & Sushi
+  Bar in St. Augustine, FL, offers a casual dining vibe perfect for enjoying
+  fresh sushi and lively hibachi meals in a welcoming setting. This spot
+  highlights flavorful dishes like expertly prepared rolls and grilled
+  specialties, making it a go-to choice for those seeking Japanese cuisine in a
+  fun atmosphere. With entertaining teppanyaki chefs adding excitement to every
+  visit, it's ideal for groups or families looking for a memorable meal. The
+  restaurant also boasts accessibility features and a variety of options that
+  cater to different tastes, ensuring a satisfying experience for sushi
+  enthusiasts exploring local Japanese places near me.
+generative_summary: >-
+  Experience Mikato in St. Augustine, FL$$$Mikato Japanese Steak House & Sushi
+  Bar in St. Augustine, FL, offers a casual dining vibe perfect for enjoying
+  fresh sushi and lively hibachi meals in a welcoming setting. This spot
+  highlights flavorful dishes like expertly prepared rolls and grilled
+  specialties, making it a go-to choice for those seeking Japanese cuisine in a
+  fun atmosphere. With entertaining teppanyaki chefs adding excitement to every
+  visit, it's ideal for groups or families looking for a memorable meal. The
+  restaurant also boasts accessibility features and a variety of options that
+  cater to different tastes, ensuring a satisfying experience for sushi
+  enthusiasts exploring local Japanese places near me.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJG2t4yvYn5IgRVyKGzXpNv00/reviews/ChZDSUhNMG9nS0VJQ0FnSURuaEoya0p3EAE
@@ -414,6 +435,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR1NjdUZTFRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR1NjdUZTFRRRAB!2m1!1s0x88e427f6ca786b1b:0x4dbf4d7acd862257
+review_summary: >-
+  Visitor Feedback Highlights$$$Visitors often rave about the tasty hibachi
+  dishes and fresh sushi rolls that make meals here feel special and worth the
+  trip. While some note that prices can be on the higher side and waits might
+  occur during peak times, the overall service stands out as friendly and
+  efficient, enhancing the casual dining vibe. Many appreciate the entertaining
+  chefs who turn dinners into fun events, especially for families or groups
+  celebrating occasions. Despite a few mixed feelings on certain sauces or
+  sides, the consensus leans positive, with folks frequently highlighting the
+  flavorful soups and generous portions that leave everyone feeling content. If
+  you're hunting for top-rated sushi restaurants nearby, this spot delivers a
+  solid, enjoyable experience that keeps diners coming back.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -444,8 +478,8 @@ serves_lunch: null
 serves_vegetarian_food: true
 serves_wine: false
 takeout: null
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Casual eatery with hibachi meals cooked by teppanyaki chefs & other Japanese
   staples, plus a bar.
 

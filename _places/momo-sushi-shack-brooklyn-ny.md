@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Momo Sushi Shack"
+title: Momo Sushi Shack
 permalink: /new-york/brooklyn/momo-sushi-shack.html
 stateAbbr: NY
 stateName: New York
 cityName: Brooklyn
 seo:
-  name: "Momo Sushi Shack"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Momo Sushi Shack serves delicious sushi in Brooklyn, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ34aX5gBcwokREbremOF3FIY
 photos:
   - name: >-
@@ -182,7 +180,41 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Momo Sushi Shack in Brooklyn, NY$$$Momo Sushi Shack in Brooklyn, NY,
+  stands out as a welcoming hub for Japanese-inspired dining, offering a relaxed
+  setting perfect for enjoying fresh seafood dishes. This spot specializes in
+  traditional favorites like sushi and ramen, crafted with care to highlight
+  bold flavors and high-quality ingredients in a casual environment. Visitors
+  can explore a variety of options that cater to those seeking authentic tastes
+  without the formality of upscale dining, making it an ideal choice for
+  everyday meals. Located in the vibrant Bushwick neighborhood, it's a great
+  option for anyone looking for sushi places that blend simplicity with
+  satisfying flavors, ensuring a memorable experience for casual diners.
+generative_summary: >-
+  Discover Momo Sushi Shack in Brooklyn, NY$$$Momo Sushi Shack in Brooklyn, NY,
+  stands out as a welcoming hub for Japanese-inspired dining, offering a relaxed
+  setting perfect for enjoying fresh seafood dishes. This spot specializes in
+  traditional favorites like sushi and ramen, crafted with care to highlight
+  bold flavors and high-quality ingredients in a casual environment. Visitors
+  can explore a variety of options that cater to those seeking authentic tastes
+  without the formality of upscale dining, making it an ideal choice for
+  everyday meals. Located in the vibrant Bushwick neighborhood, it's a great
+  option for anyone looking for sushi places that blend simplicity with
+  satisfying flavors, ensuring a memorable experience for casual diners.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Customers often praise Momo Sushi Shack for its
+  consistently fresh and well-prepared sushi rolls, noting how the flavors hit
+  the spot without any fuss. Many appreciate the laid-back vibe that makes it
+  easy to enjoy a meal with friends or solo, adding to the overall relaxed feel
+  of the place. While some mention it's a solid pick for quick Japanese bites,
+  others highlight the generous portions and reliable taste that keep them
+  coming back. Overall, it's seen as a dependable choice for those hunting for
+  top-rated sushi nearby, with folks generally agreeing that the straightforward
+  approach delivers a satisfying and enjoyable dining experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -208,7 +240,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

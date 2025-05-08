@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Downtown Sushi"
+title: Downtown Sushi
 permalink: /california/san-diego/downtown-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: San Diego
 seo:
-  name: "Downtown Sushi"
-  type: Restaurant
-  links: null
-description: "Downtown Sushi serves delicious sushi in San Diego, California. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://thedtsushi.com/
 place_id: ChIJt7rN8KdU2YARMBTEKjU3Owc
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80d954a7f0cdbab7:0x73b37352ac41430!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 16
+        minute: 30
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 16
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 4:30 – 10:00 PM'
+    - 'Tuesday: 4:30 – 10:00 PM'
+    - 'Wednesday: 4:30 – 10:00 PM'
+    - 'Thursday: 4:30 – 10:00 PM'
+    - 'Friday: 4:30 – 10:00 PM'
+    - 'Saturday: 4:30 – 10:00 PM'
+    - 'Sunday: 4:30 – 10:00 PM'
+  nextOpenTime: '2025-05-03T23:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,53 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
+phone: (619) 255-0122
 price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+price_range: $20 &ndash; $30
+rating: '4.5'
+rating_count: 184
+website: http://thedtsushi.com/
+description: >-
+  Explore Downtown Sushi in San Diego$$$Downtown Sushi in San Diego, CA, is a
+  welcoming spot for enjoying fresh sushi and Japanese-inspired dishes in a
+  relaxed, everyday atmosphere. This eatery specializes in authentic flavors
+  like sashimi and creative rolls, making it a go-to choice for those seeking
+  quality sushi options near you in the bustling Gaslamp Quarter. With
+  late-night hours extending into the evening, it's ideal for casual dinners or
+  impromptu gatherings after a day of exploring the city. The restaurant boasts
+  accessible features such as wheelchair-friendly entrances and seating,
+  ensuring a comfortable experience for all diners. Whether you're hunting for
+  top-rated sushi restaurants in the area, Downtown Sushi delivers a
+  straightforward yet satisfying meal that highlights the best of Japanese
+  cuisine.
+generative_summary: >-
+  Explore Downtown Sushi in San Diego$$$Downtown Sushi in San Diego, CA, is a
+  welcoming spot for enjoying fresh sushi and Japanese-inspired dishes in a
+  relaxed, everyday atmosphere. This eatery specializes in authentic flavors
+  like sashimi and creative rolls, making it a go-to choice for those seeking
+  quality sushi options near you in the bustling Gaslamp Quarter. With
+  late-night hours extending into the evening, it's ideal for casual dinners or
+  impromptu gatherings after a day of exploring the city. The restaurant boasts
+  accessible features such as wheelchair-friendly entrances and seating,
+  ensuring a comfortable experience for all diners. Whether you're hunting for
+  top-rated sushi restaurants in the area, Downtown Sushi delivers a
+  straightforward yet satisfying meal that highlights the best of Japanese
+  cuisine.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback on Downtown Sushi$$$Based on the strong 4.5-star rating from
+  numerous visitors, this sushi spot generally impresses with its flavorful
+  dishes and solid overall vibe. People often mention the fresh ingredients and
+  well-prepared rolls, making it a reliable pick for anyone craving satisfying
+  Japanese fare close to home. While some note that service can vary depending
+  on the time of day, many appreciate the efficient and friendly atmosphere that
+  keeps things light and enjoyable. It's clear that families and groups find it
+  a fun option for casual meals, with comments frequently praising the variety
+  that caters to different tastes. All in all, if you're on the hunt for
+  dependable sushi places near me, this location seems to hit the mark with its
+  consistent appeal and positive dining experiences.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +314,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

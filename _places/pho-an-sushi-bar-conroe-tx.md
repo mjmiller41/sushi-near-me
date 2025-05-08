@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Pho An & Sushi Bar"
+title: Pho An & Sushi Bar
 permalink: /texas/conroe/pho-an-sushi-bar.html
 stateAbbr: TX
 stateName: Texas
 cityName: Conroe
 seo:
-  name: "Pho An & Sushi Bar"
-  type: Restaurant
+  type: restaurant
   links: http://phoansushibar.com/
-description: "Pho An & Sushi Bar serves delicious sushi in Conroe, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJgTj1yxQ3R4YRaPFrNrHPRAo
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x86473714cbf53881:0xa44cfb1366bf168!10e5
 primary_type: Asian Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 10
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 0
+    - open:
+        day: 1
+        hour: 10
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 10
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 10
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 10
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 10
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 10
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 10:00 AM – 9:00 PM'
     - 'Tuesday: 10:00 AM – 9:00 PM'
     - 'Wednesday: 10:00 AM – 9:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 10:00 AM – 9:00 PM'
     - 'Saturday: 10:00 AM – 9:00 PM'
     - 'Sunday: 10:00 AM – 8:00 PM'
-  current:
-    - 'Monday: 10:00 AM – 9:00 PM'
-    - 'Tuesday: 10:00 AM – 9:00 PM'
-    - 'Wednesday: 10:00 AM – 9:00 PM'
-    - 'Thursday: 10:00 AM – 9:00 PM'
-    - 'Friday: 10:00 AM – 9:00 PM'
-    - 'Saturday: 10:00 AM – 9:00 PM'
-    - 'Sunday: 10:00 AM – 8:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,256 @@ phone: (936) 271-4335
 price_level: PRICE_LEVEL_INEXPENSIVE
 price_range: $10 &ndash; $20
 rating: '4.1'
-rating_count: 0
+rating_count: 897
 website: http://phoansushibar.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Pho An & Sushi Bar in Conroe, TX$$$In Conroe, TX, Pho An & Sushi Bar
+  stands out as a welcoming spot for exploring fresh Asian flavors, blending
+  Vietnamese and Japanese influences in a relaxed setting. This eatery delights
+  with a variety of dishes that highlight authentic noodles, sushi rolls, and
+  vibrant spring rolls, all served in a kid-friendly atmosphere perfect for
+  family outings or casual meals. Drawing from its diverse menu, visitors can
+  enjoy affordable options that cater to those seeking top-rated sushi
+  experiences nearby, with accessibility features like wheelchair-friendly
+  entrances adding to the convenience. The spot's cozy vibe and commitment to
+  fresh ingredients make it an ideal choice for anyone looking for sushi
+  restaurants in the area, ensuring a satisfying dine-in experience with options
+  for groups and families alike.
+generative_summary: >-
+  Discover Pho An & Sushi Bar in Conroe, TX$$$In Conroe, TX, Pho An & Sushi Bar
+  stands out as a welcoming spot for exploring fresh Asian flavors, blending
+  Vietnamese and Japanese influences in a relaxed setting. This eatery delights
+  with a variety of dishes that highlight authentic noodles, sushi rolls, and
+  vibrant spring rolls, all served in a kid-friendly atmosphere perfect for
+  family outings or casual meals. Drawing from its diverse menu, visitors can
+  enjoy affordable options that cater to those seeking top-rated sushi
+  experiences nearby, with accessibility features like wheelchair-friendly
+  entrances adding to the convenience. The spot's cozy vibe and commitment to
+  fresh ingredients make it an ideal choice for anyone looking for sushi
+  restaurants in the area, ensuring a satisfying dine-in experience with options
+  for groups and families alike.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJgTj1yxQ3R4YRaPFrNrHPRAo/reviews/ChZDSUhNMG9nS0VJQ0FnTURBOVpmYmNBEAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        This Vietnamese place is right off the highway and is incredible!
+
+        5/5 stars all the way!
+
+        Service was amazing. Food is delicious and well priced. Plus the inside
+        is gorgeous!
+      languageCode: en
+    originalText:
+      text: >-
+        This Vietnamese place is right off the highway and is incredible!
+
+        5/5 stars all the way!
+
+        Service was amazing. Food is delicious and well priced. Plus the inside
+        is gorgeous!
+      languageCode: en
+    authorAttribution:
+      displayName: Abigail Carpenter
+      uri: https://www.google.com/maps/contrib/110178966495161015664/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWY0K5KiuQkNRVJ8FfgT7VHDpq9AtnKBubmJG5QjgAy6Efsb91c=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-02-10T23:18:20.956438Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURBOVpmYmNBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURBOVpmYmNBEAE!2m1!1s0x86473714cbf53881:0xa44cfb1366bf168
+  - name: >-
+      places/ChIJgTj1yxQ3R4YRaPFrNrHPRAo/reviews/ChdDSUhNMG9nS0VJQ0FnTUNncHBfX3lnRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 1
+    text:
+      text: >-
+        Came in because the reviews were good, but the place was disgusting.
+        Table was dirty, server didn’t understand us, chicken came out RARE for
+        my toddler. They had the audacity to still charge us. Health department
+        needs to shut this place down.
+      languageCode: en
+    originalText:
+      text: >-
+        Came in because the reviews were good, but the place was disgusting.
+        Table was dirty, server didn’t understand us, chicken came out RARE for
+        my toddler. They had the audacity to still charge us. Health department
+        needs to shut this place down.
+      languageCode: en
+    authorAttribution:
+      displayName: Alexis Vegas
+      uri: https://www.google.com/maps/contrib/106309226431519020114/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIfAqCqRESb-w8-CHWBQvCwq627ooZj6Eb42ZjlsuWrrf16-g=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-02-16T19:17:25.226982Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNncHBfX3lnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNncHBfX3lnRRAB!2m1!1s0x86473714cbf53881:0xa44cfb1366bf168
+  - name: >-
+      places/ChIJgTj1yxQ3R4YRaPFrNrHPRAo/reviews/ChZDSUhNMG9nS0VJQ0FnTUNvNWR5YVp3EAE
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 1
+    text:
+      text: >-
+        Don't go here. They served us spoiled and rotten food. Canned mushrooms.
+        Bland rice. And warm sushi.
+
+        They also don't actually pan fry the noodles. They deep fry them. And
+        they gave us the wrong noodles on top of inedible food.
+
+        There are so many better places than this one. You're even better off at
+        panda express.
+      languageCode: en
+    originalText:
+      text: >-
+        Don't go here. They served us spoiled and rotten food. Canned mushrooms.
+        Bland rice. And warm sushi.
+
+        They also don't actually pan fry the noodles. They deep fry them. And
+        they gave us the wrong noodles on top of inedible food.
+
+        There are so many better places than this one. You're even better off at
+        panda express.
+      languageCode: en
+    authorAttribution:
+      displayName: James Paiva
+      uri: https://www.google.com/maps/contrib/117735033681719223387/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLbmz386uE5hqvCNFEkg4V_LX9QlP6hizQRWhGDT_6cpFBFgA=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-18T18:31:12.287054Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNvNWR5YVp3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNvNWR5YVp3EAE!2m1!1s0x86473714cbf53881:0xa44cfb1366bf168
+  - name: >-
+      places/ChIJgTj1yxQ3R4YRaPFrNrHPRAo/reviews/ChdDSUhNMG9nS0VJQ0FnSUNCOHZfejVnRRAB
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        I come every week for lunch.  Friendly environment and delicious food.
+        Every dish i have tried is delicious.  My dad gets the shrimp pho and I
+        get chicken pho. Or we get the B15 rice vermicelli with char broiled
+        lemon grass chicken. Packed with fresh veggie. 😋😋
+      languageCode: en
+    originalText:
+      text: >-
+        I come every week for lunch.  Friendly environment and delicious food.
+        Every dish i have tried is delicious.  My dad gets the shrimp pho and I
+        get chicken pho. Or we get the B15 rice vermicelli with char broiled
+        lemon grass chicken. Packed with fresh veggie. 😋😋
+      languageCode: en
+    authorAttribution:
+      displayName: Maria Tarango
+      uri: https://www.google.com/maps/contrib/108716660372527852671/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJ_S8EW4KxaOdNTpN30SYEqsMy4r0NJbUrK_RCBOqShE8ZcDQ=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-04-16T20:06:20.091428Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNCOHZfejVnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNCOHZfejVnRRAB!2m1!1s0x86473714cbf53881:0xa44cfb1366bf168
+  - name: >-
+      places/ChIJgTj1yxQ3R4YRaPFrNrHPRAo/reviews/ChdDSUhNMG9nS0VJQ0FnSURSXzdXRjJBRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 4
+    text:
+      text: >-
+        Averagely okay.
+
+
+        Customer service was prompt and the restaurant appeared well cleaned.
+
+
+        The menu was fairly vast with all the regular items you’d expect to find
+        in a Vietnamese type restaurant
+
+
+        Although the food was fine, it was a touch on the higher side and
+        nothing substantially differentiated over other restaurants. The spring
+        roles were horrible tho, over cooked and utterly lacking flavour.
+      languageCode: en
+    originalText:
+      text: >-
+        Averagely okay.
+
+
+        Customer service was prompt and the restaurant appeared well cleaned.
+
+
+        The menu was fairly vast with all the regular items you’d expect to find
+        in a Vietnamese type restaurant
+
+
+        Although the food was fine, it was a touch on the higher side and
+        nothing substantially differentiated over other restaurants. The spring
+        roles were horrible tho, over cooked and utterly lacking flavour.
+      languageCode: en
+    authorAttribution:
+      displayName: Adam Schmitt
+      uri: https://www.google.com/maps/contrib/104451565592892904232/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjV2ssqnBkE4gZeVim44YSPmkYkZ-zKNPrmgCD-vdXoZCUWbe7M=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2023-05-07T18:17:33.554408Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURSXzdXRjJBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURSXzdXRjJBRRAB!2m1!1s0x86473714cbf53881:0xa44cfb1366bf168
+review_summary: >-
+  What Visitors Are Saying About This Spot$$$Folks generally enjoy the friendly
+  service and tasty pho or sushi options at this local favorite, often praising
+  the fresh ingredients and affordable prices that keep them coming back for
+  lunch or dinner. While some have noted occasional slip-ups with food
+  preparation or cleanliness that could use improvement, the overall vibe
+  remains welcoming and worth trying for a casual meal. Many appreciate the
+  generous portions and variety, like the flavorful rice vermicelli dishes
+  packed with veggies, making it a solid pick for groups or families searching
+  for reliable sushi places nearby. Despite a few mixed experiences, the
+  majority of feedback highlights the spot's approachable atmosphere and
+  delicious Asian flavors, encouraging newcomers to give it a go for an honest
+  taste of the area.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  paidStreetParking: false
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: true
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: false
+serves_coffee: true
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Offers Vietnamese & Japanese cuisines on a menu including big noodle soups,
+  spring rolls & sushi.
 
 ---

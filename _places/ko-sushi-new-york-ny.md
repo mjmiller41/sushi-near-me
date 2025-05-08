@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ko Sushi"
+title: Ko Sushi
 permalink: /new-york/new-york/ko-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "Ko Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Ko Sushi serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJxx9VesNZwokRV_Ou2FjdqWo
 photos:
   - name: >-
@@ -183,7 +181,43 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Ko Sushi in New York, NY$$$Ko Sushi in New York, NY, offers a
+  welcoming neighborhood vibe perfect for enjoying fresh Japanese cuisine in a
+  relaxed atmosphere. This spot specializes in a diverse array of sushi and
+  traditional Japanese dishes, making it an ideal choice for anyone searching
+  for authentic flavors in a casual setting. With its easygoing ambiance, it's
+  easy to unwind while savoring expertly prepared rolls and entrees that
+  highlight high-quality ingredients. The restaurant's accessibility features,
+  like wheelchair-friendly seating, add to the convenience for all diners.
+  Whether you're exploring sushi restaurants near you or seeking a reliable spot
+  for Japanese fare, Ko Sushi stands out as a hidden gem in the bustling city.
+generative_summary: >-
+  Discover Ko Sushi in New York, NY$$$Ko Sushi in New York, NY, offers a
+  welcoming neighborhood vibe perfect for enjoying fresh Japanese cuisine in a
+  relaxed atmosphere. This spot specializes in a diverse array of sushi and
+  traditional Japanese dishes, making it an ideal choice for anyone searching
+  for authentic flavors in a casual setting. With its easygoing ambiance, it's
+  easy to unwind while savoring expertly prepared rolls and entrees that
+  highlight high-quality ingredients. The restaurant's accessibility features,
+  like wheelchair-friendly seating, add to the convenience for all diners.
+  Whether you're exploring sushi restaurants near you or seeking a reliable spot
+  for Japanese fare, Ko Sushi stands out as a hidden gem in the bustling city.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Raving About$$$From what folks share online, Ko Sushi seems
+  to hit the mark for sushi enthusiasts looking for solid options in New York.
+  Many appreciate the fresh, well-crafted rolls and generous portions that keep
+  things satisfying without overwhelming the palate. It's often noted as a go-to
+  spot for casual meals, with highlights on the variety of choices that cater to
+  different tastes, like classic nigiri or creative specials. While some mention
+  it's a great value for everyday dining, others enjoy the friendly service that
+  makes the experience feel welcoming. Overall, if you're hunting for top-rated
+  sushi places near you, this spot earns positive nods for its reliable flavors
+  and laid-back vibe, making it worth a try for anyone craving Japanese-inspired
+  eats.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -209,7 +243,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

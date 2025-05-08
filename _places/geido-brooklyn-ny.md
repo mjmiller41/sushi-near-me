@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "GEIDŌ"
+title: GEIDŌ
 permalink: /new-york/brooklyn/geido.html
 stateAbbr: NY
 stateName: New York
 cityName: Brooklyn
 seo:
-  name: "GEIDŌ"
-  type: Restaurant
+  type: restaurant
   links: http://www.geido.nyc/
-description: "Sushi & unpretentious Japanese fare served in a small, kid-friendly space in Prospect Heights. GEIDŌ serves delicious sushi in Brooklyn, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJaxKr7ahbwokRcuzidxRVoPo
 photos:
   - name: >-
@@ -183,6 +181,27 @@ price_range: $30 &ndash; $50
 rating: '4.7'
 rating_count: 0
 website: http://www.geido.nyc/
+description: >-
+  About GEIDŌ in Brooklyn, NY$$$GEIDŌ in Brooklyn, NY, stands as a cherished
+  Japanese restaurant with a history spanning decades, offering an array of
+  authentic dishes in a relaxed, unassuming setting. This neighborhood spot
+  features a diverse menu that highlights fresh sushi and traditional fare,
+  making it a go-to for those seeking quality Japanese cuisine close to home.
+  With its casual vibe and kid-friendly atmosphere, it's perfect for enjoying
+  flavorful options like donburi bowls and sashimi in a welcoming space. The
+  restaurant's long-standing presence ensures a reliable experience for sushi
+  enthusiasts exploring the best local options in the area.
+generative_summary: >-
+  About GEIDŌ in Brooklyn, NY$$$GEIDŌ in Brooklyn, NY, stands as a cherished
+  Japanese restaurant with a history spanning decades, offering an array of
+  authentic dishes in a relaxed, unassuming setting. This neighborhood spot
+  features a diverse menu that highlights fresh sushi and traditional fare,
+  making it a go-to for those seeking quality Japanese cuisine close to home.
+  With its casual vibe and kid-friendly atmosphere, it's perfect for enjoying
+  flavorful options like donburi bowls and sashimi in a welcoming space. The
+  restaurant's long-standing presence ensures a reliable experience for sushi
+  enthusiasts exploring the best local options in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJaxKr7ahbwokRcuzidxRVoPo/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ3bllEeF93RRAB
@@ -360,6 +379,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURINklqT0VnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURINklqT0VnEAE!2m1!1s0x89c25ba8edab126b:0xfaa0551477e2ec72
+review_summary: >-
+  Customer Feedback on GEIDŌ$$$Folks often rave about the unique atmosphere and
+  standout dishes like okonomiyaki and fresh fish salads, making it a solid pick
+  for anyone craving affordable Japanese eats nearby. While some highlight the
+  friendly service and reasonable prices that keep diners coming back, others
+  note occasional inconsistencies with portion sizes or wait times that could
+  use a tweak. Overall, it's a hit for its house specials and casual vibe, with
+  many appreciating the value for everyday sushi adventures in Brooklyn. Despite
+  a few mixed experiences, the general consensus leans positive, encouraging
+  first-timers to give it a try for a satisfying meal in a neighborhood
+  favorite.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidStreetParking: true
   valetParking: false
@@ -391,8 +422,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Sushi & unpretentious Japanese fare served in a small, kid-friendly space in
   Prospect Heights.
 

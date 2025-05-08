@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Asaka Sushi"
+title: Asaka Sushi
 permalink: /texas/cleburne/asaka-sushi.html
 stateAbbr: TX
 stateName: Texas
 cityName: Cleburne
 seo:
-  name: "Asaka Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.asakasushitx.com/
-description: "Asaka Sushi serves delicious sushi in Cleburne, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJqUrwiB1HToYR_WoXq7rlxCo
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x864e471d88f04aa9:0x2ac4e5baab176afd!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:30 PM'
     - 'Tuesday: Closed'
     - 'Wednesday: 11:00 AM – 9:30 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:00 PM'
     - 'Saturday: 11:00 AM – 10:00 PM'
     - 'Sunday: 11:00 AM – 9:30 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:30 PM'
-    - 'Tuesday: Closed'
-    - 'Wednesday: 11:00 AM – 9:30 PM'
-    - 'Thursday: 11:00 AM – 9:30 PM'
-    - 'Friday: 11:00 AM – 10:00 PM'
-    - 'Saturday: 11:00 AM – 10:00 PM'
-    - 'Sunday: 11:00 AM – 9:30 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +238,246 @@ phone: (817) 774-1546
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.5'
-rating_count: 0
+rating_count: 675
 website: https://www.asakasushitx.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Asaka Sushi in Cleburne, TX$$$Asaka Sushi in Cleburne, TX, stands out
+  as a welcoming spot for enjoying fresh sushi and hibachi dishes in a relaxed
+  environment, perfect for those seeking top-rated sushi options nearby. The
+  restaurant offers a variety of flavorful meals including beer and cocktails,
+  making it an ideal choice for casual dining or gatherings with friends. With
+  accessibility features like wheelchair-friendly parking and seating, it
+  ensures everyone can enjoy the experience comfortably. Operating hours cater
+  to lunch and dinner crowds, providing a laid-back vibe that enhances the
+  overall meal. Whether you're exploring Japanese-inspired places near you, this
+  spot delivers a satisfying blend of quality ingredients and affordable pricing
+  around $10 to $20 per person.
+generative_summary: >-
+  Discover Asaka Sushi in Cleburne, TX$$$Asaka Sushi in Cleburne, TX, stands out
+  as a welcoming spot for enjoying fresh sushi and hibachi dishes in a relaxed
+  environment, perfect for those seeking top-rated sushi options nearby. The
+  restaurant offers a variety of flavorful meals including beer and cocktails,
+  making it an ideal choice for casual dining or gatherings with friends. With
+  accessibility features like wheelchair-friendly parking and seating, it
+  ensures everyone can enjoy the experience comfortably. Operating hours cater
+  to lunch and dinner crowds, providing a laid-back vibe that enhances the
+  overall meal. Whether you're exploring Japanese-inspired places near you, this
+  spot delivers a satisfying blend of quality ingredients and affordable pricing
+  around $10 to $20 per person.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJqUrwiB1HToYR_WoXq7rlxCo/reviews/ChdDSUhNMG9nS0VJQ0FnTUNRaEtXZnJnRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 4
+    text:
+      text: >-
+        The inside of this restaurant is beautiful! The service was great. The
+        food was okay. I ordered the chicken katsu. It was fried to perfection,
+        but it was very bland and the katsu sauce they use seemed too salty.
+        Also ordered a dragon roll, I believe. It was decent.
+      languageCode: en
+    originalText:
+      text: >-
+        The inside of this restaurant is beautiful! The service was great. The
+        food was okay. I ordered the chicken katsu. It was fried to perfection,
+        but it was very bland and the katsu sauce they use seemed too salty.
+        Also ordered a dragon roll, I believe. It was decent.
+      languageCode: en
+    authorAttribution:
+      displayName: Sean Clark
+      uri: https://www.google.com/maps/contrib/104178253634874088169/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWrynEriKF5g7Nz8kcafuet228akrJ6qZVjV37vHrN_kH-11o6d1A=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-03-02T00:16:56.643595Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNRaEtXZnJnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNRaEtXZnJnRRAB!2m1!1s0x864e471d88f04aa9:0x2ac4e5baab176afd
+  - name: >-
+      places/ChIJqUrwiB1HToYR_WoXq7rlxCo/reviews/ChdDSUhNMG9nS0VJQ0FnSURQcHYyczB3RRAB
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        This place was absolutely delicious and the food is absolutely gorgeous!
+        Jennny is the go to waitress she was very helpful and very sweet. Didn’t
+        even mention to her it was our anniversary and she made it perfect.
+        Deffff should try the sweetheart roll!!!
+      languageCode: en
+    originalText:
+      text: >-
+        This place was absolutely delicious and the food is absolutely gorgeous!
+        Jennny is the go to waitress she was very helpful and very sweet. Didn’t
+        even mention to her it was our anniversary and she made it perfect.
+        Deffff should try the sweetheart roll!!!
+      languageCode: en
+    authorAttribution:
+      displayName: Kelsey Flowers
+      uri: https://www.google.com/maps/contrib/109379734839078725526/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjV_ZjHBIZZ8umM4Iain05hqVMYD6UCOtg7lcNwGKOBEpj6LgHM=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-12-01T19:21:05.065536Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURQcHYyczB3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURQcHYyczB3RRAB!2m1!1s0x864e471d88f04aa9:0x2ac4e5baab176afd
+  - name: >-
+      places/ChIJqUrwiB1HToYR_WoXq7rlxCo/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfb3RiZGd3RRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        Staff is GREAT! Food is always fresh and served quickly! This is one of
+        the top restaurants that Cleburne has! Try the 2020 roll or the Royal
+        roll!
+
+        We enjoy going to this restaurant and try and go atleast once a week!
+      languageCode: en
+    originalText:
+      text: >-
+        Staff is GREAT! Food is always fresh and served quickly! This is one of
+        the top restaurants that Cleburne has! Try the 2020 roll or the Royal
+        roll!
+
+        We enjoy going to this restaurant and try and go atleast once a week!
+      languageCode: en
+    authorAttribution:
+      displayName: Cody Noller
+      uri: https://www.google.com/maps/contrib/114046462016627559584/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLE5HitKnoNBGW6awyaIgqestTrteBSZEOAI5ZHT3xSXIKKHg=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-01-14T10:31:07.758435Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNfb3RiZGd3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNfb3RiZGd3RRAB!2m1!1s0x864e471d88f04aa9:0x2ac4e5baab176afd
+  - name: >-
+      places/ChIJqUrwiB1HToYR_WoXq7rlxCo/reviews/ChZDSUhNMG9nS0VJQ0FnTUNBbElfcWVnEAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 1
+    text:
+      text: >-
+        FISH ALLERGY ALERT!!!  Although the menu lists "Crab or Crabmeat" on
+        certain items, IT IS KRAB meat, which is an imitation crab meat that is
+        made with various types of FISH.....and to a person with fish allergies,
+        that misrepresentation could have deadly consequences.  My Rainbow Roll
+        was warm when served, the sushi rice had a mealy texture and the salmon,
+        white fish and tuna were far from fresh.  Miso soup is usually a good
+        litmus test for a sushi restaurant, so we should have known to leave
+        after the soup was served.  It was obviously made from a powdered
+        concentrate and was just terrible.  Not only did the "manager on duty"
+        refuse to take the Rainbow Roll off of our bill, she was going to have
+        the server pay for it out of her pocket if we refused to pay!  A
+        TERRIBLE BUSINESS PRACTICE and a RED FLAG FOR ALL CUSTOMERS CONSIDERING
+        EATING THERE.  The actual owners/manager were called and they acquiesced
+        to removing the charge from our bill and not forcing the server to
+        pay.   Our server however was wonderful.  She was very kind and
+        understanding and the "manager on duty" should take a play from her
+        book.
+      languageCode: en
+    originalText:
+      text: >-
+        FISH ALLERGY ALERT!!!  Although the menu lists "Crab or Crabmeat" on
+        certain items, IT IS KRAB meat, which is an imitation crab meat that is
+        made with various types of FISH.....and to a person with fish allergies,
+        that misrepresentation could have deadly consequences.  My Rainbow Roll
+        was warm when served, the sushi rice had a mealy texture and the salmon,
+        white fish and tuna were far from fresh.  Miso soup is usually a good
+        litmus test for a sushi restaurant, so we should have known to leave
+        after the soup was served.  It was obviously made from a powdered
+        concentrate and was just terrible.  Not only did the "manager on duty"
+        refuse to take the Rainbow Roll off of our bill, she was going to have
+        the server pay for it out of her pocket if we refused to pay!  A
+        TERRIBLE BUSINESS PRACTICE and a RED FLAG FOR ALL CUSTOMERS CONSIDERING
+        EATING THERE.  The actual owners/manager were called and they acquiesced
+        to removing the charge from our bill and not forcing the server to
+        pay.   Our server however was wonderful.  She was very kind and
+        understanding and the "manager on duty" should take a play from her
+        book.
+      languageCode: en
+    authorAttribution:
+      displayName: Diane Dryoel
+      uri: https://www.google.com/maps/contrib/116301497352413210933/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKTpnGa588a-Jrd1tgKbiaFpdJkBZYNhzR24XLRel8zgSwqBw=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-01-29T20:26:00.774248Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNBbElfcWVnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNBbElfcWVnEAE!2m1!1s0x864e471d88f04aa9:0x2ac4e5baab176afd
+  - name: >-
+      places/ChIJqUrwiB1HToYR_WoXq7rlxCo/reviews/ChZDSUhNMG9nS0VJQ0FnTURveGJXRElBEAE
+    relativePublishTimeDescription: in the last week
+    rating: 5
+    text:
+      text: >-
+        This is Sushi Deluxe combo，It's delicious. It's a paradise for people
+        who love raw fish.
+      languageCode: en
+    originalText:
+      text: >-
+        This is Sushi Deluxe combo，It's delicious. It's a paradise for people
+        who love raw fish.
+      languageCode: en
+    authorAttribution:
+      displayName: xinwang li
+      uri: https://www.google.com/maps/contrib/109218461492958295861/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJGNgNmOai_8S9a66z4nvf1qPCZpQYvfSNQHkCc26NsoD9kig=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-26T22:39:42.521270Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURveGJXRElBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURveGJXRElBEAE!2m1!1s0x864e471d88f04aa9:0x2ac4e5baab176afd
+review_summary: >-
+  What Customers Are Sharing$$$Visitors often praise the fresh flavors and quick
+  service at this sushi spot, highlighting how the rolls and hibachi options
+  make for a delightful meal that's worth trying again. Many appreciate the
+  friendly atmosphere and attentive staff that help create a positive dining
+  experience, especially for groups or families looking for variety. While some
+  note that certain dishes might vary in taste, the majority find the overall
+  quality reliable and enjoyable, with specials like creative rolls standing out
+  as favorites. Feedback generally reflects a fun, casual vibe that's great for
+  everyday visits, though a few mention minor inconsistencies that don't
+  overshadow the positives. If you're hunting for the best sushi near you, this
+  place consistently delivers a solid option that keeps people coming back for
+  more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  paidStreetParking: false
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
 good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+live_music: false
+menu_for_children: true
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
 serves_breakfast: null
 serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_cocktails: true
+serves_coffee: true
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

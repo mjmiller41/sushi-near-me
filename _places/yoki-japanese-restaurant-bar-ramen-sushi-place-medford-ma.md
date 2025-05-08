@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "YōKi Japanese Restaurant & Bar - Ramen & Sushi Place"
+title: YōKi Japanese Restaurant & Bar - Ramen & Sushi Place
 permalink: /massachusetts/medford/yoki-japanese-restaurant-bar-ramen-sushi-place.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Medford
 seo:
-  name: "YōKi Japanese Restaurant & Bar - Ramen & Sushi Place"
-  type: Restaurant
+  type: restaurant
   links: http://www.yokirestaurant.com/
-description: "Japanese choice with long multicolored bar, creative sushi (including sports-team rolls) & entrees. YōKi Japanese Restaurant & Bar - Ramen & Sushi Place serves delicious sushi in Medford, Massachusetts. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJOzhVcFR344kRSXJ5gaZ2Eo4
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $30 &ndash; $50
 rating: '4.4'
 rating_count: 0
 website: http://www.yokirestaurant.com/
+description: >-
+  Discover YōKi Japanese Restaurant in Medford, MA$$$YōKi Japanese Restaurant &
+  Bar in Medford, Massachusetts, stands out as a casual spot for enjoying
+  authentic Japanese flavors, blending fresh sushi rolls, hearty ramen, and
+  savory teriyaki options in a welcoming atmosphere. The restaurant features a
+  vibrant bar scene with creative cocktails that complement its diverse menu,
+  making it an ideal choice for those seeking flavorful Japanese dining
+  experiences. Accessibility is a key highlight, with wheelchair-friendly
+  features and outdoor seating that enhance its appeal for various diners.
+  Whether you're in the mood for a quick bite or a relaxed evening, this spot
+  delivers on quality ingredients and thoughtful presentations, positioning it
+  as a go-to option for sushi enthusiasts in the area.
+generative_summary: >-
+  Discover YōKi Japanese Restaurant in Medford, MA$$$YōKi Japanese Restaurant &
+  Bar in Medford, Massachusetts, stands out as a casual spot for enjoying
+  authentic Japanese flavors, blending fresh sushi rolls, hearty ramen, and
+  savory teriyaki options in a welcoming atmosphere. The restaurant features a
+  vibrant bar scene with creative cocktails that complement its diverse menu,
+  making it an ideal choice for those seeking flavorful Japanese dining
+  experiences. Accessibility is a key highlight, with wheelchair-friendly
+  features and outdoor seating that enhance its appeal for various diners.
+  Whether you're in the mood for a quick bite or a relaxed evening, this spot
+  delivers on quality ingredients and thoughtful presentations, positioning it
+  as a go-to option for sushi enthusiasts in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJOzhVcFR344kRSXJ5gaZ2Eo4/reviews/ChdDSUhNMG9nS0VJQ0FnSURfdzlyQWhBRRAB
@@ -344,6 +367,17 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUM3NUllOFBREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUM3NUllOFBREAE!2m1!1s0x89e377547055383b:0x8e1276a681797249
+review_summary: >-
+  What Customers Love About YōKi$$$Visitors often highlight the freshness and
+  bold flavors of the sushi and ramen, making it a solid pick for anyone craving
+  satisfying Japanese dishes. Folks appreciate the attentive service and
+  comfortable seating that add to the overall enjoyable vibe, turning meals into
+  memorable experiences. Many mention specific favorites like creative rolls and
+  spicy options that bring a fun twist to traditional fare, while the welcoming
+  atmosphere keeps people coming back for more. Overall, it's praised as a
+  reliable spot for groups or casual outings, with the added bonus of great
+  drinks rounding out a positive dining adventure.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -376,8 +410,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Japanese choice with long multicolored bar, creative sushi (including
   sports-team rolls) & entrees.
 

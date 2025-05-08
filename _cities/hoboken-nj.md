@@ -5,4 +5,5 @@ permalink: /new-jersey/hoboken/
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Hoboken
+
 ---

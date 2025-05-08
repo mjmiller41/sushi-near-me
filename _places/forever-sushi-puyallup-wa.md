@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Forever Sushi"
+title: Forever Sushi
 permalink: /washington/puyallup/forever-sushi.html
 stateAbbr: WA
 stateName: Washington
 cityName: Puyallup
 seo:
-  name: "Forever Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Forever Sushi serves delicious sushi in Puyallup, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJHxlJb1f8kFQRl-Dxw0IExH0
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x5490fc576f49191f:0x7dc40442c3f1e097!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:00 PM'
     - 'Tuesday: Closed'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:00 PM'
     - 'Saturday: 11:00 AM – 9:00 PM'
     - 'Sunday: 11:00 AM – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:00 PM'
-    - 'Tuesday: Closed'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 9:00 PM'
-    - 'Saturday: 11:00 AM – 9:00 PM'
-    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +238,336 @@ phone: (253) 268-0335
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.4'
-rating_count: 0
+rating_count: 883
 website: null
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Forever Sushi in Puyallup, WA$$$Forever Sushi in Puyallup,
+  Washington, stands out as a welcoming spot for enjoying fresh sushi and
+  Japanese favorites, served conveniently on a conveyor belt for a fun dining
+  experience. This casual eatery offers a variety of rolls and dishes that cater
+  to different tastes, making it a go-to choice for those searching for reliable
+  sushi restaurants nearby. With accessibility features like wheelchair-friendly
+  seating and parking, it's an inclusive option for families and groups looking
+  to savor authentic flavors in a relaxed setting. The moderate pricing and
+  selection of beer and wine add to its appeal as one of the best sushi places
+  in the area, ideal for a laid-back meal that combines quality with
+  convenience.
+generative_summary: >-
+  Discover Forever Sushi in Puyallup, WA$$$Forever Sushi in Puyallup,
+  Washington, stands out as a welcoming spot for enjoying fresh sushi and
+  Japanese favorites, served conveniently on a conveyor belt for a fun dining
+  experience. This casual eatery offers a variety of rolls and dishes that cater
+  to different tastes, making it a go-to choice for those searching for reliable
+  sushi restaurants nearby. With accessibility features like wheelchair-friendly
+  seating and parking, it's an inclusive option for families and groups looking
+  to savor authentic flavors in a relaxed setting. The moderate pricing and
+  selection of beer and wine add to its appeal as one of the best sushi places
+  in the area, ideal for a laid-back meal that combines quality with
+  convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJHxlJb1f8kFQRl-Dxw0IExH0/reviews/ChdDSUhNMG9nS0VJQ0FnSURqazRLNDBRRRAB
+    relativePublishTimeDescription: 12 months ago
+    rating: 4
+    text:
+      text: >-
+        Nice experience. Short wait for seating at bar for lunch. Has normal
+        eggrolls, Gyoza, and other items for someone like me who doesn't touch
+        sushi. My wife enjoyed the salmon & salmon belly negri and was happy
+        that they had Tamari (gluten free soysauce). At the price point per
+        plate she says the quality of fish is adequate. Wasn't the best she ever
+        had, but says it was better than Trappers and much better than what you
+        get at a QFC. Overall service was good and had great conversation with
+        other guests.
+      languageCode: en
+    originalText:
+      text: >-
+        Nice experience. Short wait for seating at bar for lunch. Has normal
+        eggrolls, Gyoza, and other items for someone like me who doesn't touch
+        sushi. My wife enjoyed the salmon & salmon belly negri and was happy
+        that they had Tamari (gluten free soysauce). At the price point per
+        plate she says the quality of fish is adequate. Wasn't the best she ever
+        had, but says it was better than Trappers and much better than what you
+        get at a QFC. Overall service was good and had great conversation with
+        other guests.
+      languageCode: en
+    authorAttribution:
+      displayName: Mike (Big Mike)
+      uri: https://www.google.com/maps/contrib/106299153137288816143/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjV92BNUg8djSKe4EDrj9VHAoZYXQbRE8kKQXRGnFtIzYWWZB3CY=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2024-05-07T05:36:59.157461Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURqazRLNDBRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURqazRLNDBRRRAB!2m1!1s0x5490fc576f49191f:0x7dc40442c3f1e097
+  - name: >-
+      places/ChIJHxlJb1f8kFQRl-Dxw0IExH0/reviews/ChdDSUhNMG9nS0VJQ0FnTURRcF9DdzdnRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        If you care about variety, quality and excellent service, this is your
+        sushi place! Forever Sushi is also one of the few places to have red,
+        yellow and bluefin maguro (tuna).
+      languageCode: en
+    originalText:
+      text: >-
+        If you care about variety, quality and excellent service, this is your
+        sushi place! Forever Sushi is also one of the few places to have red,
+        yellow and bluefin maguro (tuna).
+      languageCode: en
+    authorAttribution:
+      displayName: Leise Kendall
+      uri: https://www.google.com/maps/contrib/110773480209833551509/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWyXqPUwWseeNhQYWX2Nqv3h918l7L7pjknYlJPkun-vmOgAnllCw=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2025-03-14T22:09:26.404269Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURRcF9DdzdnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURRcF9DdzdnRRAB!2m1!1s0x5490fc576f49191f:0x7dc40442c3f1e097
+  - name: >-
+      places/ChIJHxlJb1f8kFQRl-Dxw0IExH0/reviews/ChdDSUhNMG9nS0VJQ0FnSUROdUp1NDVnRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 3
+    text:
+      text: >-
+        The husband and I had lunch here yesterday and I have to say the service
+        was excellent. The young man that helped us was incredibly professional,
+        polite and attentive. He is exactly what you would want every front of
+        house employee to be. I couldn't have been more impressed watching him
+        train a new employee and help the entire restaurant because he was
+        alone.
+
+        The food however is ok. My only yet biggest issue is everything that was
+        on the belt was ice old. You can order everything fresh but when you do
+        they make multiples of the items to add to the belt but there wasn't
+        enough people inside at the time to require the amount of food that was
+        still going around and around. We made the mistake of grabbing some
+        fried oysters that were ice cold and even some of the new items they
+        were adding were too cold.
+
+        The best roll we had was the C Roll it's a California roll topped with
+        creamy scallop and although the roll was bland the creamy scallop
+        topping was incredible I've honestly never had better. The Korean BBQ
+        wings were also extremely well fried and juice but the sauce was a
+        little too thick and overwhelming but it left a really nice aftertaste
+        of spicy garlic goodness. The Golden Road roll had too much sauce and
+        was way too sweet for my liking and we didn't care for the dynamite
+        roll. My husband enjoyed the mackerel nigiri and the gyoza but overall
+        it was really pricey for the quality and there are better all you can
+        eat sushi places where you can get more for less.
+
+        They have the tuxedo mousse cake for a dessert option as well and that's
+        hard to resist.
+      languageCode: en
+    originalText:
+      text: >-
+        The husband and I had lunch here yesterday and I have to say the service
+        was excellent. The young man that helped us was incredibly professional,
+        polite and attentive. He is exactly what you would want every front of
+        house employee to be. I couldn't have been more impressed watching him
+        train a new employee and help the entire restaurant because he was
+        alone.
+
+        The food however is ok. My only yet biggest issue is everything that was
+        on the belt was ice old. You can order everything fresh but when you do
+        they make multiples of the items to add to the belt but there wasn't
+        enough people inside at the time to require the amount of food that was
+        still going around and around. We made the mistake of grabbing some
+        fried oysters that were ice cold and even some of the new items they
+        were adding were too cold.
+
+        The best roll we had was the C Roll it's a California roll topped with
+        creamy scallop and although the roll was bland the creamy scallop
+        topping was incredible I've honestly never had better. The Korean BBQ
+        wings were also extremely well fried and juice but the sauce was a
+        little too thick and overwhelming but it left a really nice aftertaste
+        of spicy garlic goodness. The Golden Road roll had too much sauce and
+        was way too sweet for my liking and we didn't care for the dynamite
+        roll. My husband enjoyed the mackerel nigiri and the gyoza but overall
+        it was really pricey for the quality and there are better all you can
+        eat sushi places where you can get more for less.
+
+        They have the tuxedo mousse cake for a dessert option as well and that's
+        hard to resist.
+      languageCode: en
+    authorAttribution:
+      displayName: Amy D
+      uri: https://www.google.com/maps/contrib/112266701959234000922/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWwPsKd6heNd2FeS735a6NYsEkjXxPvwxwQBwsneq5SRg-Rl7RC7A=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2024-01-20T17:22:15.238536Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUROdUp1NDVnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUROdUp1NDVnRRAB!2m1!1s0x5490fc576f49191f:0x7dc40442c3f1e097
+  - name: >-
+      places/ChIJHxlJb1f8kFQRl-Dxw0IExH0/reviews/ChdDSUhNMG9nS0VJQ0FnSURiNllfN2lRRRAB
+    relativePublishTimeDescription: 8 months ago
+    rating: 5
+    text:
+      text: >-
+        We came here for the first time and loved it!  They have GF soy sauce. 
+        I loved almost everything they had, but sadly I couldn't eat anything
+        labeled "Krab Salad"  imitation crab that has wheat in it. Whaaa! 
+        Hopefully they can switch to a hf product.  They do have real crab in
+        some rolls.  I love their spicy tuna hand rolls!
+      languageCode: en
+    originalText:
+      text: >-
+        We came here for the first time and loved it!  They have GF soy sauce. 
+        I loved almost everything they had, but sadly I couldn't eat anything
+        labeled "Krab Salad"  imitation crab that has wheat in it. Whaaa! 
+        Hopefully they can switch to a hf product.  They do have real crab in
+        some rolls.  I love their spicy tuna hand rolls!
+      languageCode: en
+    authorAttribution:
+      displayName: Gregory Helton
+      uri: https://www.google.com/maps/contrib/118198358793806427609/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXpLusQFntkclassTNUuuyCgr50ISDJB--V7lXYwzCjl-u1NXA=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-08-07T02:12:14.876517Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURiNllfN2lRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURiNllfN2lRRRAB!2m1!1s0x5490fc576f49191f:0x7dc40442c3f1e097
+  - name: >-
+      places/ChIJHxlJb1f8kFQRl-Dxw0IExH0/reviews/ChdDSUhNMG9nS0VJQ0FnSUNYLXNlanVBRRAB
+    relativePublishTimeDescription: 6 months ago
+    rating: 1
+    text:
+      text: >-
+        Came here a couple days ago and was so disappointed. We came here a
+        little after 5:30 and the conveyor belt didn’t have that much sushi on
+        it. I grabbed one of the sushi tempura and it was cold, seems like it
+        had been there for a while. The sushi took so long that even the couple
+        that sat a few minutes after us, walked out.
+
+
+        The service is so terrible as well, if my kids wasn’t starving, I would
+        have walked out too. The wait help ask us for our drink and I said water
+        for us and he only came out with 2 waters just for me and my husband,
+        uhmmm don’t he see the kids with us, don’t they need water too? He also
+        just gave 2 chopsticks for me and my husband, I would’ve understand if
+        he came back for forks for the kids but NO he didn’t, my husband had to
+        go to the waithelp and asked for forks and at this time he ordered udon
+        for my son, this is probably 5-10 mins after we sat down that we ordered
+        the udon. At 6:05 my husband asked how’s the udon, waithelp said he’ll
+        check on it. At 6:10 I asked the waithelp if the udon is coming as my
+        son is so hungry. At 6:18 I asked again coz we’re almost done eating and
+        the udon is still not coming out. The udon came out around 6:20ish. We
+        waited about 30 mins for an udon that has only broth, noodles and onion
+        on it. I didn’t enjoy our dinner as I couldn’t eat while I see my kid
+        waiting patiently for his food and it wasn’t arriving.
+
+
+        We came here a few months ago and we enjoyed it, the sushi was good, the
+        conveyor belt was full of food and the service was great at that time,
+        they even gave away those little clips at the end of the chopsticks for
+        the kids, my kids enjoyed it at that time, that’s why we decided to come
+        back and bring our friends with us. But this time, it was a let down, I
+        regret bringing friends here. Our group of friends were disappointed as
+        well, they asked for extra bowl for their kids and they had to asked 3
+        times for it to arrived. I don’t recommend this place at all, go
+        somewhere else especially if you have kids.
+      languageCode: en
+    originalText:
+      text: >-
+        Came here a couple days ago and was so disappointed. We came here a
+        little after 5:30 and the conveyor belt didn’t have that much sushi on
+        it. I grabbed one of the sushi tempura and it was cold, seems like it
+        had been there for a while. The sushi took so long that even the couple
+        that sat a few minutes after us, walked out.
+
+
+        The service is so terrible as well, if my kids wasn’t starving, I would
+        have walked out too. The wait help ask us for our drink and I said water
+        for us and he only came out with 2 waters just for me and my husband,
+        uhmmm don’t he see the kids with us, don’t they need water too? He also
+        just gave 2 chopsticks for me and my husband, I would’ve understand if
+        he came back for forks for the kids but NO he didn’t, my husband had to
+        go to the waithelp and asked for forks and at this time he ordered udon
+        for my son, this is probably 5-10 mins after we sat down that we ordered
+        the udon. At 6:05 my husband asked how’s the udon, waithelp said he’ll
+        check on it. At 6:10 I asked the waithelp if the udon is coming as my
+        son is so hungry. At 6:18 I asked again coz we’re almost done eating and
+        the udon is still not coming out. The udon came out around 6:20ish. We
+        waited about 30 mins for an udon that has only broth, noodles and onion
+        on it. I didn’t enjoy our dinner as I couldn’t eat while I see my kid
+        waiting patiently for his food and it wasn’t arriving.
+
+
+        We came here a few months ago and we enjoyed it, the sushi was good, the
+        conveyor belt was full of food and the service was great at that time,
+        they even gave away those little clips at the end of the chopsticks for
+        the kids, my kids enjoyed it at that time, that’s why we decided to come
+        back and bring our friends with us. But this time, it was a let down, I
+        regret bringing friends here. Our group of friends were disappointed as
+        well, they asked for extra bowl for their kids and they had to asked 3
+        times for it to arrived. I don’t recommend this place at all, go
+        somewhere else especially if you have kids.
+      languageCode: en
+    authorAttribution:
+      displayName: Edlyn M
+      uri: https://www.google.com/maps/contrib/105730668700423156487/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXgdZK8ikhRhM1Sptf9vJpBphzimE8gKH1_1S1Ms1OMmQPtFU36=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-10-15T18:41:49.871976Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNYLXNlanVBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNYLXNlanVBRRAB!2m1!1s0x5490fc576f49191f:0x7dc40442c3f1e097
+review_summary: >-
+  What Visitors Are Saying About Forever Sushi$$$Visitors often praise the wide
+  variety of fresh sushi rolls and Japanese dishes available, highlighting the
+  fun conveyor belt setup that keeps things exciting and accessible for
+  everyone. Many appreciate the solid quality of the fish and attentive service
+  that makes dining here feel welcoming and efficient, especially for those
+  exploring top-rated sushi options nearby. While some note that prices can add
+  up quickly, the overall experience is frequently described as enjoyable and
+  family-friendly, with highlights like gluten-free choices and tasty
+  appetizers. A few mentions of occasional waits or temperature issues are
+  balanced by the general consensus that it's a solid pick for casual meals,
+  encouraging repeat visits for sushi lovers in the community.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: false
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: false
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  A relaxed, family-friendly space serving à la carte sushi rolls & Asian dishes
+  from a conveyor belt.
 
 ---

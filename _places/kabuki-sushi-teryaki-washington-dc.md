@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kabuki Sushi & Teryaki"
+title: Kabuki Sushi & Teryaki
 permalink: /district-of-columbia/washington/kabuki-sushi-teryaki.html
 stateAbbr: DC
 stateName: District of Columbia
 cityName: Washington
 seo:
-  name: "Kabuki Sushi & Teryaki"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Relaxed Japanese restaurant serving sushi, noodles, entrees & cocktails in a hip, modern space. Kabuki Sushi & Teryaki serves delicious sushi in Washington, District of Columbia. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJf0sxzZm3t4kR7JzFR_HwVlk
 photos:
   - name: >-
@@ -183,6 +181,31 @@ price_range: $10 &ndash; $20
 rating: '1.9'
 rating_count: 0
 website: null
+description: >-
+  Discover Kabuki Sushi & Teriyaki in Washington, DC$$$Kabuki Sushi & Teriyaki
+  in Washington, DC, offers a laid-back spot for enjoying authentic Japanese
+  flavors, featuring fresh sushi rolls, savory noodles, and hearty entrees in a
+  stylish, contemporary setting. This welcoming sushi restaurant emphasizes
+  accessibility with wheelchair-friendly entrances and seating, making it easy
+  for everyone to savor a casual meal. Diners can explore a variety of options
+  ideal for lunch or dinner, including takeout for those on the go, all while
+  appreciating the blend of modern vibes and traditional cuisine. As a go-to
+  choice for Japanese dining near the city center, it provides a simple yet
+  enjoyable atmosphere perfect for families or quick bites after exploring the
+  area.
+generative_summary: >-
+  Discover Kabuki Sushi & Teriyaki in Washington, DC$$$Kabuki Sushi & Teriyaki
+  in Washington, DC, offers a laid-back spot for enjoying authentic Japanese
+  flavors, featuring fresh sushi rolls, savory noodles, and hearty entrees in a
+  stylish, contemporary setting. This welcoming sushi restaurant emphasizes
+  accessibility with wheelchair-friendly entrances and seating, making it easy
+  for everyone to savor a casual meal. Diners can explore a variety of options
+  ideal for lunch or dinner, including takeout for those on the go, all while
+  appreciating the blend of modern vibes and traditional cuisine. As a go-to
+  choice for Japanese dining near the city center, it provides a simple yet
+  enjoyable atmosphere perfect for families or quick bites after exploring the
+  area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJf0sxzZm3t4kR7JzFR_HwVlk/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3dVpDQjJBRRAB
@@ -338,6 +361,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURucDVEemNnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURucDVEemNnEAE!2m1!1s0x89b7b799cd314b7f:0x5956f0f147c59cec
+review_summary: >-
+  What Customers Are Sharing$$$Feedback from visitors highlights a mix of
+  experiences at this sushi spot, with some noting quick service that feels a
+  bit rushed, alongside concerns about portion sizes and occasional order
+  mix-ups that could use more attention. Many mention that while the prices fit
+  a moderate range, the value might not always match expectations, suggesting
+  it's best for those keeping things simple. Overall, folks appreciate the
+  convenience of options like takeout in a bustling area, but recommend checking
+  in for a smooth visit to avoid any hiccups. Despite these insights, it's clear
+  the place aims to serve fresh Japanese dishes, encouraging diners to weigh
+  their priorities for a satisfying sushi outing near you.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   valetParking: false
 payment_options:
@@ -368,8 +403,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Relaxed Japanese restaurant serving sushi, noodles, entrees & cocktails in a
   hip, modern space.
 

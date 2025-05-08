@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Love Sushi"
+title: Love Sushi
 permalink: /california/simi-valley/love-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Simi Valley
 seo:
-  name: "Love Sushi"
-  type: Restaurant
-  links: null
-description: "Love Sushi serves delicious sushi in Simi Valley, California. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.lovesushisimi.com/
 place_id: ChIJ8cRNxhkp6IARIFcrmYT3a5E
 photos:
   - name: >-
@@ -170,22 +168,246 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80e82919c64dc4f1:0x916bf784992b5720!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:30 AM – 9:00 PM'
+    - 'Tuesday: 11:30 AM – 9:00 PM'
+    - 'Wednesday: 11:30 AM – 9:00 PM'
+    - 'Thursday: 11:30 AM – 9:00 PM'
+    - 'Friday: 11:30 AM – 9:00 PM'
+    - 'Saturday: 12:00 – 9:00 PM'
+    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 14
+          minute: 30
+        close:
+          day: 0
+          hour: 17
+          minute: 0
+      - open:
+          day: 0
+          hour: 19
+          minute: 30
+        close:
+          day: 0
+          hour: 21
+          minute: 0
+      - open:
+          day: 1
+          hour: 14
+          minute: 30
+        close:
+          day: 1
+          hour: 17
+          minute: 0
+      - open:
+          day: 1
+          hour: 19
+          minute: 30
+        close:
+          day: 1
+          hour: 21
+          minute: 0
+      - open:
+          day: 2
+          hour: 14
+          minute: 30
+        close:
+          day: 2
+          hour: 17
+          minute: 0
+      - open:
+          day: 2
+          hour: 19
+          minute: 30
+        close:
+          day: 2
+          hour: 21
+          minute: 0
+      - open:
+          day: 3
+          hour: 14
+          minute: 30
+        close:
+          day: 3
+          hour: 17
+          minute: 0
+      - open:
+          day: 3
+          hour: 19
+          minute: 30
+        close:
+          day: 3
+          hour: 21
+          minute: 0
+      - open:
+          day: 4
+          hour: 14
+          minute: 30
+        close:
+          day: 4
+          hour: 17
+          minute: 0
+      - open:
+          day: 4
+          hour: 19
+          minute: 30
+        close:
+          day: 4
+          hour: 21
+          minute: 0
+      - open:
+          day: 5
+          hour: 14
+          minute: 30
+        close:
+          day: 5
+          hour: 17
+          minute: 0
+      - open:
+          day: 5
+          hour: 19
+          minute: 30
+        close:
+          day: 5
+          hour: 21
+          minute: 0
+      - open:
+          day: 6
+          hour: 14
+          minute: 30
+        close:
+          day: 6
+          hour: 17
+          minute: 0
+      - open:
+          day: 6
+          hour: 19
+          minute: 30
+        close:
+          day: 6
+          hour: 21
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 2:30 – 5:00 PM, 7:30 – 9:00 PM'
+      - 'Tuesday: 2:30 – 5:00 PM, 7:30 – 9:00 PM'
+      - 'Wednesday: 2:30 – 5:00 PM, 7:30 – 9:00 PM'
+      - 'Thursday: 2:30 – 5:00 PM, 7:30 – 9:00 PM'
+      - 'Friday: 2:30 – 5:00 PM, 7:30 – 9:00 PM'
+      - 'Saturday: 2:30 – 5:00 PM, 7:30 – 9:00 PM'
+      - 'Sunday: 2:30 – 5:00 PM, 7:30 – 9:00 PM'
+    secondaryHoursType: HAPPY_HOUR
+    nextCloseTime: '2025-05-04T00:00:00Z'
+phone: (805) 526-2008
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.3'
+rating_count: 246
+website: http://www.lovesushisimi.com/
+description: >-
+  Explore Love Sushi in Simi Valley, CA$$$Love Sushi in Simi Valley, CA, stands
+  out as a welcoming spot for enjoying fresh Japanese cuisine, featuring
+  generous portions of sushi and other traditional fare. This casual restaurant
+  offers a relaxed atmosphere where diners can savor a variety of rolls
+  alongside options like beer and sake, making it a go-to choice for those
+  seeking authentic flavors in a comfortable setting. With accessibility
+  features ensuring everyone can enjoy the experience, it's designed for easy
+  visits whether you're stopping by for a quick lunch or an evening meal. The
+  spot's extended hours cater to busy schedules, allowing patrons to discover
+  top-rated sushi options without the rush. Overall, it's a solid pick for
+  anyone exploring sushi restaurants in the area that blend quality and
+  convenience seamlessly.
+generative_summary: >-
+  Explore Love Sushi in Simi Valley, CA$$$Love Sushi in Simi Valley, CA, stands
+  out as a welcoming spot for enjoying fresh Japanese cuisine, featuring
+  generous portions of sushi and other traditional fare. This casual restaurant
+  offers a relaxed atmosphere where diners can savor a variety of rolls
+  alongside options like beer and sake, making it a go-to choice for those
+  seeking authentic flavors in a comfortable setting. With accessibility
+  features ensuring everyone can enjoy the experience, it's designed for easy
+  visits whether you're stopping by for a quick lunch or an evening meal. The
+  spot's extended hours cater to busy schedules, allowing patrons to discover
+  top-rated sushi options without the rush. Overall, it's a solid pick for
+  anyone exploring sushi restaurants in the area that blend quality and
+  convenience seamlessly.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Visitor Feedback on Love Sushi$$$Visitors often highlight the fresh
+  ingredients and hearty servings at this popular sushi spot, noting that the
+  flavors consistently hit the mark for a satisfying meal. Many appreciate the
+  friendly vibe and efficient service, which make it a reliable choice for
+  casual get-togethers or solo outings, though some mention occasional waits
+  during peak times. The overall rating reflects a strong approval for the
+  variety of dishes, with plenty of praise for the balance of taste and value
+  that keeps people coming back. While not every experience is flawless, the
+  positives far outweigh any minor hiccups, making it a recommended stop for
+  those hunting for great sushi places nearby. In essence, it's clear that this
+  eatery delivers a solid, enjoyable dining experience that lives up to its
+  reputation in the community.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +433,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

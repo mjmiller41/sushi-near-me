@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yuraku Japanese Restaurant"
+title: Yuraku Japanese Restaurant
 permalink: /virginia/arlington/yuraku-japanese-restaurant.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Arlington
 seo:
-  name: "Yuraku Japanese Restaurant"
-  type: Restaurant
+  type: restaurant
   links: http://www.yurakusushiarlington.com/
-description: "Yuraku Japanese Restaurant serves delicious sushi in Arlington, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ8dag0XG3t4kRBIianbwn-3Q
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $30 &ndash; $50
 rating: '4.5'
 rating_count: 0
 website: http://www.yurakusushiarlington.com/
+description: >-
+  Discover Yuraku Japanese Restaurant in Arlington, VA$$$Nestled in the heart of
+  Arlington, VA, Yuraku Japanese Restaurant offers a delightful array of
+  traditional Japanese dishes, making it a go-to spot for fresh sushi and more
+  in a relaxed atmosphere. With its casual setting and inviting outdoor seating,
+  the restaurant highlights authentic flavors through meticulously prepared
+  sushi and sashimi that appeal to those seeking quality Japanese cuisine
+  nearby. Patrons can enjoy a variety of options, from expertly crafted rolls to
+  other favorites, all served in an accessible environment that caters to
+  different needs. The moderate pricing ensures a satisfying meal without
+  breaking the bank, perfect for anyone exploring top-rated sushi places in the
+  area. Overall, it's an ideal choice for anyone craving genuine Japanese dining
+  experiences close to home.
+generative_summary: >-
+  Discover Yuraku Japanese Restaurant in Arlington, VA$$$Nestled in the heart of
+  Arlington, VA, Yuraku Japanese Restaurant offers a delightful array of
+  traditional Japanese dishes, making it a go-to spot for fresh sushi and more
+  in a relaxed atmosphere. With its casual setting and inviting outdoor seating,
+  the restaurant highlights authentic flavors through meticulously prepared
+  sushi and sashimi that appeal to those seeking quality Japanese cuisine
+  nearby. Patrons can enjoy a variety of options, from expertly crafted rolls to
+  other favorites, all served in an accessible environment that caters to
+  different needs. The moderate pricing ensures a satisfying meal without
+  breaking the bank, perfect for anyone exploring top-rated sushi places in the
+  area. Overall, it's an ideal choice for anyone craving genuine Japanese dining
+  experiences close to home.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ8dag0XG3t4kRBIianbwn-3Q/reviews/ChZDSUhNMG9nS0VJQ0FnSURfZzU2QUlREAE
@@ -406,6 +431,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN2MTlLYVF3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN2MTlLYVF3EAE!2m1!1s0x89b7b771d1a0d6f1:0x74fb27bc9d9a8804
+review_summary: >-
+  What Guests Are Saying About This Sushi Favorite$$$Visitors often rave about
+  the consistently fresh and generous portions of sushi and other dishes, making
+  it a reliable pick for those hunting for great Japanese options nearby. Many
+  highlight the friendly service and cozy vibe, with highlights like flavorful
+  rolls and appetizers that keep people coming back for more casual meals. While
+  most feedback praises the overall quality and variety, a few note that some
+  sides could use a bit more balance in preparation, though this doesn't
+  overshadow the positives. Folks appreciate the welcoming atmosphere that's
+  perfect for groups or a quick bite, adding to its reputation as one of the
+  best sushi spots around. In summary, it's a solid choice for anyone looking
+  for tasty, approachable Japanese fare that delivers on taste and value.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   valetParking: false
 payment_options:
@@ -436,7 +474,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

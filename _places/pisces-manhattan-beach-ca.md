@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Pisces"
+title: Pisces
 permalink: /california/manhattan-beach/pisces.html
 stateAbbr: CA
 stateName: California
 cityName: Manhattan Beach
 seo:
-  name: "Pisces"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Pisces serves delicious sushi in Manhattan Beach, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJgUxBJ96zwoARe0NzkFF7l_g
 photos:
   - name: >-
@@ -168,7 +166,49 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c2b3de27414c81:0xf8977b519073437b!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: Closed'
     - 'Wednesday: 11:30 AM – 9:00 PM'
@@ -176,14 +216,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 9:00 PM'
     - 'Saturday: 11:30 AM – 9:00 PM'
     - 'Sunday: 11:30 AM – 9:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: Closed'
-    - 'Wednesday: 11:30 AM – 9:00 PM'
-    - 'Thursday: 11:30 AM – 9:00 PM'
-    - 'Friday: 11:30 AM – 9:00 PM'
-    - 'Saturday: 11:30 AM – 9:00 PM'
-    - 'Sunday: 11:30 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -195,35 +228,201 @@ phone: (310) 545-3980
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.7'
-rating_count: 0
+rating_count: 109
 website: null
-reviews: null
+description: >-
+  Explore Pisces in Manhattan Beach, CA$$$Nestled in Manhattan Beach, CA, Pisces
+  stands out as a charming Japanese restaurant offering fresh sushi and teriyaki
+  options in a laid-back atmosphere, ideal for quick lunches or dinners. This
+  spot emphasizes high-quality ingredients, with a focus on expertly prepared
+  rolls and bowls that capture the essence of authentic Japanese cuisine.
+  Visitors can enjoy counter-service convenience, making it a go-to choice for
+  those seeking sushi restaurants near the coast. The menu highlights a variety
+  of flavorful dishes, perfect for anyone exploring top-rated sushi options in
+  the area. With accessible features like wheelchair-friendly entrances, it
+  caters to a wide range of diners looking for a relaxed dining experience.
+generative_summary: >-
+  Explore Pisces in Manhattan Beach, CA$$$Nestled in Manhattan Beach, CA, Pisces
+  stands out as a charming Japanese restaurant offering fresh sushi and teriyaki
+  options in a laid-back atmosphere, ideal for quick lunches or dinners. This
+  spot emphasizes high-quality ingredients, with a focus on expertly prepared
+  rolls and bowls that capture the essence of authentic Japanese cuisine.
+  Visitors can enjoy counter-service convenience, making it a go-to choice for
+  those seeking sushi restaurants near the coast. The menu highlights a variety
+  of flavorful dishes, perfect for anyone exploring top-rated sushi options in
+  the area. With accessible features like wheelchair-friendly entrances, it
+  caters to a wide range of diners looking for a relaxed dining experience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJgUxBJ96zwoARe0NzkFF7l_g/reviews/ChdDSUhNMG9nS0VJQ0FnTUNvdThERWtRRRAB
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        When I lived nearby, I ate the Chirashi bowls and Spicy Ramen multiple
+        times a week! I would always call in the order before leaving work.
+        Still my favorite sushi place!
+      languageCode: en
+    originalText:
+      text: >-
+        When I lived nearby, I ate the Chirashi bowls and Spicy Ramen multiple
+        times a week! I would always call in the order before leaving work.
+        Still my favorite sushi place!
+      languageCode: en
+    authorAttribution:
+      displayName: Vanessa Sievers
+      uri: https://www.google.com/maps/contrib/115941789893371687714/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIwDREyYGEo8OtMRBt3QOdt7b9w1_dscIaDvejpzKZPFSIu2A=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-20T06:24:22.042416Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNvdThERWtRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNvdThERWtRRRAB!2m1!1s0x80c2b3de27414c81:0xf8977b519073437b
+  - name: >-
+      places/ChIJgUxBJ96zwoARe0NzkFF7l_g/reviews/ChdDSUhNMG9nS0VJQ0FnTURJOXBYRjZRRRAB
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 5
+    text:
+      text: >-
+        Over 25 years in Manhattan Beach, and us locals LOVE Sara and Kyoshi
+        San! Ther fish is the best in town! Super fresh. Super yummy!
+      languageCode: en
+    originalText:
+      text: >-
+        Over 25 years in Manhattan Beach, and us locals LOVE Sara and Kyoshi
+        San! Ther fish is the best in town! Super fresh. Super yummy!
+      languageCode: en
+    authorAttribution:
+      displayName: Shao lin
+      uri: https://www.google.com/maps/contrib/102996054060767832336/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLYV_DB7qdRIe3xh9hT7iBodkHcTBaMZkayLKE00QJf2_-y8A=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-09T18:00:24.304744Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJOXBYRjZRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJOXBYRjZRRRAB!2m1!1s0x80c2b3de27414c81:0xf8977b519073437b
+  - name: >-
+      places/ChIJgUxBJ96zwoARe0NzkFF7l_g/reviews/ChdDSUhNMG9nS0VJQ0FnSURwc2ZpT293RRAB
+    relativePublishTimeDescription: a year ago
+    rating: 4
+    text:
+      text: >-
+        Fish was fresh and sushi bowl was pretty delicious.  However, had to
+        wait over 45 mins to get my order.  Definitely recommend calling ahead.
+      languageCode: en
+    originalText:
+      text: >-
+        Fish was fresh and sushi bowl was pretty delicious.  However, had to
+        wait over 45 mins to get my order.  Definitely recommend calling ahead.
+      languageCode: en
+    authorAttribution:
+      displayName: Matthew Fagan
+      uri: https://www.google.com/maps/contrib/111106212406062249917/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUZozkHZuPKOnZfhp-Jk5SwmccAVBQh0QRuFXSUDei-Bkf0lH0d=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2023-08-23T22:27:36.817352Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURwc2ZpT293RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURwc2ZpT293RRAB!2m1!1s0x80c2b3de27414c81:0xf8977b519073437b
+  - name: >-
+      places/ChIJgUxBJ96zwoARe0NzkFF7l_g/reviews/ChZDSUhNMG9nS0VJQ0FnSURfaS1PbkJnEAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        My family and I order from here all of the time! It’s our favorite sushi
+        and spicy ramen spot and I definitley recommend trying it. My favorite
+        is the spicy tuna crunchy roll!
+      languageCode: en
+    originalText:
+      text: >-
+        My family and I order from here all of the time! It’s our favorite sushi
+        and spicy ramen spot and I definitley recommend trying it. My favorite
+        is the spicy tuna crunchy roll!
+      languageCode: en
+    authorAttribution:
+      displayName: Heather Jones
+      uri: https://www.google.com/maps/contrib/102962832109626342729/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocI2yRBi5FM1q_MdN-EC4-IewWV_5-U5AfVO5ZbOCizVWBeI9Q=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-01-27T03:23:39.676968Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURfaS1PbkJnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURfaS1PbkJnEAE!2m1!1s0x80c2b3de27414c81:0xf8977b519073437b
+  - name: >-
+      places/ChIJgUxBJ96zwoARe0NzkFF7l_g/reviews/ChZDSUhNMG9nS0VJQ0FnSURULWE3N0JnEAE
+    relativePublishTimeDescription: 11 months ago
+    rating: 5
+    text:
+      text: >-
+        Best spicy tuna roll I have ever had. 10/10 I teared up eating because
+        it was so delicious. Hidden gem.
+      languageCode: en
+    originalText:
+      text: >-
+        Best spicy tuna roll I have ever had. 10/10 I teared up eating because
+        it was so delicious. Hidden gem.
+      languageCode: en
+    authorAttribution:
+      displayName: Hannah Camp
+      uri: https://www.google.com/maps/contrib/115171625025823203343/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWequ7YEVNrmKoySTbTI7U26tNsThsPp_pxTqAOnaNjky7ERmragw=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-05-26T03:05:18.291402Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURULWE3N0JnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURULWE3N0JnEAE!2m1!1s0x80c2b3de27414c81:0xf8977b519073437b
+review_summary: >-
+  Customer Feedback on This Local Sushi Favorite$$$Folks around here really
+  enjoy the fresh and flavorful sushi selections, often highlighting how the
+  quality makes it stand out among nearby Japanese spots. Many appreciate the
+  tasty rolls and spicy ramen as reliable go-to choices for a satisfying meal,
+  with plenty of praise for the overall authenticity and value. While some
+  mention occasional waits during busy times, it's generally seen as a minor
+  hiccup worth enduring for the delicious results. Overall, this place comes
+  across as a hidden gem for sushi enthusiasts, with diners frequently
+  recommending it for its consistent flavors and casual vibe. If you're on the
+  hunt for great sushi close to you, it's easy to see why this spot keeps
+  drawing positive nods from the community.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
-payment_options: null
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
+delivery: false
+dine_in: true
+good_for_children: false
 good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
+good_for_sports: false
+live_music: false
+menu_for_children: false
 outdoor_seating: null
-reservable: null
+reservable: false
 restroom: null
 serves_beer: null
-serves_breakfast: null
-serves_brunch: null
+serves_breakfast: false
+serves_brunch: false
 serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Small Japanese counter-service shop offering sushi & teriyaki takeout for
+  lunch & dinner.
 
 ---

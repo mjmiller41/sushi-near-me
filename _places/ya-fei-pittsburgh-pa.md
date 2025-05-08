@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ya Fei"
+title: Ya Fei
 permalink: /pennsylvania/pittsburgh/ya-fei.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Pittsburgh
 seo:
-  name: "Ya Fei"
-  type: Restaurant
+  type: restaurant
   links: http://www.yafeipgh.com/
-description: "Basic pick for familiar Chinese & Japanese fare such as sushi & sashimi offering local delivery. Ya Fei serves delicious sushi in Pittsburgh, Pennsylvania. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJJ1pDcElZNIgRAHhPpbSaYI8
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $20 &ndash; $30
 rating: '4.2'
 rating_count: 0
 website: http://www.yafeipgh.com/
+description: >-
+  Explore Ya Fei's Finer Points$$$Ya Fei in Pittsburgh, PA, stands out as a cozy
+  eatery blending Chinese and Japanese flavors, offering an inviting atmosphere
+  for those seeking sushi restaurants in the area. With a menu featuring fresh
+  sushi alongside classic Chinese dishes, it caters to a variety of tastes,
+  making it a go-to spot for anyone exploring top-rated sushi options nearby.
+  The restaurant boasts accessibility features like wheelchair-friendly
+  entrances and parking, enhancing its appeal for all visitors. Additionally,
+  options for delivery and dine-in add convenience, while selections like
+  sashimi and familiar favorites ensure a satisfying experience. Whether you're
+  in the mood for authentic Asian cuisine or just searching for sushi close to
+  you, Ya Fei's moderate pricing and thoughtful amenities make it a reliable
+  choice.
+generative_summary: >-
+  Explore Ya Fei's Finer Points$$$Ya Fei in Pittsburgh, PA, stands out as a cozy
+  eatery blending Chinese and Japanese flavors, offering an inviting atmosphere
+  for those seeking sushi restaurants in the area. With a menu featuring fresh
+  sushi alongside classic Chinese dishes, it caters to a variety of tastes,
+  making it a go-to spot for anyone exploring top-rated sushi options nearby.
+  The restaurant boasts accessibility features like wheelchair-friendly
+  entrances and parking, enhancing its appeal for all visitors. Additionally,
+  options for delivery and dine-in add convenience, while selections like
+  sashimi and familiar favorites ensure a satisfying experience. Whether you're
+  in the mood for authentic Asian cuisine or just searching for sushi close to
+  you, Ya Fei's moderate pricing and thoughtful amenities make it a reliable
+  choice.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJJ1pDcElZNIgRAHhPpbSaYI8/reviews/ChdDSUhNMG9nS0VJQ0FnSUQzdWJHbHNnRRAB
@@ -384,6 +409,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUREMl96Z0x3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUREMl96Z0x3EAE!2m1!1s0x8834594970435a27:0x8f609ab4a54f7800
+review_summary: >-
+  What Reviewers Are Buzzing About$$$Visitors to this spot often rave about the
+  delicious sushi and Chinese dishes, highlighting the fresh ingredients and
+  flavorful options that keep folks coming back for more. Many appreciate the
+  efficient service and generous portions, noting that it's a solid pick for
+  groups or families looking for a casual meal. While some mention the prices as
+  a bit on the higher side, the overall quality and taste more than make up for
+  it, with standout items like rolls and soups earning high marks. The
+  atmosphere gets mixed feedback as quietly relaxing, but it doesn't overshadow
+  the positive vibes from the tasty food and attentive staff. All in all, if
+  you're hunting for reliable sushi places near you, this location delivers a
+  genuinely enjoyable experience that's worth trying out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -416,8 +454,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Basic pick for familiar Chinese & Japanese fare such as sushi & sashimi
   offering local delivery.
 

@@ -5,4 +5,5 @@ permalink: /pennsylvania/harrisburg/
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Harrisburg
+
 ---

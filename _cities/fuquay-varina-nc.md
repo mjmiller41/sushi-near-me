@@ -5,4 +5,5 @@ permalink: /north-carolina/fuquay-varina/
 stateAbbr: NC
 stateName: North Carolina
 cityName: Fuquay-Varina
+
 ---

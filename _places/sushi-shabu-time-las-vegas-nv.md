@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi & Shabu Time"
+title: Sushi & Shabu Time
 permalink: /nevada/las-vegas/sushi-shabu-time.html
 stateAbbr: NV
 stateName: Nevada
 cityName: Las Vegas
 seo:
-  name: "Sushi & Shabu Time"
-  type: Restaurant
+  type: restaurant
   links: http://sushitime.vegas/
-description: "Sushi & Shabu Time serves delicious sushi in Las Vegas, Nevada. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJP2pS7lTHyIARVXcWSggKJRc
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c8c754ee526a3f:0x17250a084a167755!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 0
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 0
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 0
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 0
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 0
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 1
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 1
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 12:00 AM'
     - 'Tuesday: 11:30 AM – 12:00 AM'
     - 'Wednesday: 11:30 AM – 12:00 AM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 1:00 AM'
     - 'Saturday: 11:30 AM – 1:00 AM'
     - 'Sunday: 11:30 AM – 12:00 AM'
-  current:
-    - 'Monday: 11:30 AM – 12:00 AM'
-    - 'Tuesday: 11:30 AM – 12:00 AM'
-    - 'Wednesday: 11:30 AM – 12:00 AM'
-    - 'Thursday: 11:30 AM – 12:00 AM'
-    - 'Friday: 11:30 AM – 1:00 AM'
-    - 'Saturday: 11:30 AM – 1:00 AM'
-    - 'Sunday: 11:30 AM – 12:00 AM'
+  nextCloseTime: '2025-05-04T08:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,277 @@ phone: (702) 202-0552
 price_level: null
 price_range: $30 &ndash; $50
 rating: '4.7'
-rating_count: 0
+rating_count: 1601
 website: http://sushitime.vegas/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Explore Sushi & Shabu Time in Las Vegas, NV$$$Sushi & Shabu Time in Las Vegas,
+  NV, offers a casual dining experience focused on all-you-can-eat sushi and
+  flavorful hot pots, making it a standout choice among local Japanese eateries.
+  The restaurant features a variety of fresh rolls, grilled meats, and
+  appetizers that highlight quality ingredients and creative presentations,
+  perfect for those seeking satisfying sushi options nearby. With its modern
+  ambiance and accessibility features like wheelchair-friendly seating and
+  parking, it's designed for comfortable visits any time of day. Operating from
+  late morning into the evening, this spot provides great value for groups or
+  families looking to enjoy authentic flavors in a welcoming setting. Whether
+  you're exploring top-rated sushi restaurants in the area, it's an ideal
+  destination for a relaxed meal that combines tradition with convenience.
+generative_summary: >-
+  Explore Sushi & Shabu Time in Las Vegas, NV$$$Sushi & Shabu Time in Las Vegas,
+  NV, offers a casual dining experience focused on all-you-can-eat sushi and
+  flavorful hot pots, making it a standout choice among local Japanese eateries.
+  The restaurant features a variety of fresh rolls, grilled meats, and
+  appetizers that highlight quality ingredients and creative presentations,
+  perfect for those seeking satisfying sushi options nearby. With its modern
+  ambiance and accessibility features like wheelchair-friendly seating and
+  parking, it's designed for comfortable visits any time of day. Operating from
+  late morning into the evening, this spot provides great value for groups or
+  families looking to enjoy authentic flavors in a welcoming setting. Whether
+  you're exploring top-rated sushi restaurants in the area, it's an ideal
+  destination for a relaxed meal that combines tradition with convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJP2pS7lTHyIARVXcWSggKJRc/reviews/ChZDSUhNMG9nS0VJQ0FnTURvcEpMU0Z3EAE
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        Got the all you can eat hot pot and sushi menu (“Premium B”). Good
+        selection and great food. Service was fast and polite and plenty of
+        seating. Nice modern environment and decor. 100% recommend for AYCE.
+      languageCode: en
+    originalText:
+      text: >-
+        Got the all you can eat hot pot and sushi menu (“Premium B”). Good
+        selection and great food. Service was fast and polite and plenty of
+        seating. Nice modern environment and decor. 100% recommend for AYCE.
+      languageCode: en
+    authorAttribution:
+      displayName: Mike N Gross
+      uri: https://www.google.com/maps/contrib/105794754139098421698/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUpEY0xe0aFxI0q0i-t0hHUl5lnA2Bgg0DbTTCuR2eLH4mh7b2kIQ=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-04-22T01:52:47.049446Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURvcEpMU0Z3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURvcEpMU0Z3EAE!2m1!1s0x80c8c754ee526a3f:0x17250a084a167755
+  - name: >-
+      places/ChIJP2pS7lTHyIARVXcWSggKJRc/reviews/ChdDSUhNMG9nS0VJQ0FnSUNma2VfWnd3RRAB
+    relativePublishTimeDescription: 4 months ago
+    rating: 3
+    text:
+      text: >-
+        This restaurant is a hidden gem with a welcoming atmosphere and
+        exceptional food. Located in a shopping center in Chinatown, it has a
+        cozy, unassuming “hole-in-the-wall” vibe that makes the dining
+        experience feel authentic and inviting.
+
+
+        The service was impressive, with dishes arriving quickly and freshly
+        prepared. We had the pleasure of trying the MGM roll, Kiss of Fire roll,
+        Sun Devil roll, a 10-piece sashimi platter, and the mango ice cream for
+        dessert. Each dish was expertly crafted, bursting with flavor, and
+        beautifully presented. The sashimi, in particular, stood out for its
+        freshness and quality, while the rolls offered a perfect balance of
+        textures and bold, exciting flavors. The mango ice cream was the ideal
+        way to end the meal—a sweet, refreshing treat.
+
+
+        This restaurant is family-friendly, making it a great spot for a casual
+        sit-down dinner. Whether you’re a sushi enthusiast or simply looking for
+        a unique dining experience, I highly recommend stopping by if you’re in
+        the area. It’s a wonderful option for anyone seeking delicious food and
+        excellent service in a relaxed setting.
+      languageCode: en
+    originalText:
+      text: >-
+        This restaurant is a hidden gem with a welcoming atmosphere and
+        exceptional food. Located in a shopping center in Chinatown, it has a
+        cozy, unassuming “hole-in-the-wall” vibe that makes the dining
+        experience feel authentic and inviting.
+
+
+        The service was impressive, with dishes arriving quickly and freshly
+        prepared. We had the pleasure of trying the MGM roll, Kiss of Fire roll,
+        Sun Devil roll, a 10-piece sashimi platter, and the mango ice cream for
+        dessert. Each dish was expertly crafted, bursting with flavor, and
+        beautifully presented. The sashimi, in particular, stood out for its
+        freshness and quality, while the rolls offered a perfect balance of
+        textures and bold, exciting flavors. The mango ice cream was the ideal
+        way to end the meal—a sweet, refreshing treat.
+
+
+        This restaurant is family-friendly, making it a great spot for a casual
+        sit-down dinner. Whether you’re a sushi enthusiast or simply looking for
+        a unique dining experience, I highly recommend stopping by if you’re in
+        the area. It’s a wonderful option for anyone seeking delicious food and
+        excellent service in a relaxed setting.
+      languageCode: en
+    authorAttribution:
+      displayName: Chelsea A
+      uri: https://www.google.com/maps/contrib/100513117199162706236/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWWvXhdP1TfDCllv2kScuzdiYcVf4pDg71NS5C6DrTG94wQaQ=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-12-30T00:57:48.842961Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNma2VfWnd3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNma2VfWnd3RRAB!2m1!1s0x80c8c754ee526a3f:0x17250a084a167755
+  - name: >-
+      places/ChIJP2pS7lTHyIARVXcWSggKJRc/reviews/ChdDSUhNMG9nS0VJQ0FnTURBNk1XSGtBRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 4
+    text:
+      text: >-
+        Food (sushi and shabu)  was great! Loved the appetizer choices. My
+        favorite was the Miso Pork belly skewer, but depending on how it's
+        seasoned - the first order came out good but the second order was salty
+        and cold. Food came out quick (that's because we went on a weekday night
+        when they weren't busy).  We enjoyed our time there and will definitely
+        be returning.  ☺️
+      languageCode: en
+    originalText:
+      text: >-
+        Food (sushi and shabu)  was great! Loved the appetizer choices. My
+        favorite was the Miso Pork belly skewer, but depending on how it's
+        seasoned - the first order came out good but the second order was salty
+        and cold. Food came out quick (that's because we went on a weekday night
+        when they weren't busy).  We enjoyed our time there and will definitely
+        be returning.  ☺️
+      languageCode: en
+    authorAttribution:
+      displayName: See Thao
+      uri: https://www.google.com/maps/contrib/110007255216759387143/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjX_fVvPdxix9LelfqDdZr_k5YZwwnjafPgMWxncY8IqmtQOdxZSIg=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-02-06T18:29:49.024176Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURBNk1XSGtBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURBNk1XSGtBRRAB!2m1!1s0x80c8c754ee526a3f:0x17250a084a167755
+  - name: >-
+      places/ChIJP2pS7lTHyIARVXcWSggKJRc/reviews/ChZDSUhNMG9nS0VJQ0FnTUNnX0lUZ0JnEAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        My friends and I had an amazing dining experience at Sushi & Shabu Time.
+        The sushi was incredibly fresh, and the hotpot was flavorful with a
+        great selection of high-quality ingredients and meats. What truly made
+        the experience exceptional was our server, Kai.  He is 6’4 on a good day
+        and he is a good dude. Kai was attentive, friendly, and made sure we had
+        everything we needed. His recommendations were spot-on, and made us feel
+        so welcome.
+
+
+        If you’re looking for delicious sushi, comforting hotpot, and
+        outstanding service, this is the place to go! Highly recommend and will
+        definitely be back.
+
+
+        ⭐⭐⭐⭐⭐
+      languageCode: en
+    originalText:
+      text: >-
+        My friends and I had an amazing dining experience at Sushi & Shabu Time.
+        The sushi was incredibly fresh, and the hotpot was flavorful with a
+        great selection of high-quality ingredients and meats. What truly made
+        the experience exceptional was our server, Kai.  He is 6’4 on a good day
+        and he is a good dude. Kai was attentive, friendly, and made sure we had
+        everything we needed. His recommendations were spot-on, and made us feel
+        so welcome.
+
+
+        If you’re looking for delicious sushi, comforting hotpot, and
+        outstanding service, this is the place to go! Highly recommend and will
+        definitely be back.
+
+
+        ⭐⭐⭐⭐⭐
+      languageCode: en
+    authorAttribution:
+      displayName: Mensur Hussien
+      uri: https://www.google.com/maps/contrib/114913186227055370593/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjU_HozJ7hPie8dXXw24VLREx5NNHCSbkwMobqjhTXgLIMPm2hJH=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-02-15T06:33:33.176747Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNnX0lUZ0JnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNnX0lUZ0JnEAE!2m1!1s0x80c8c754ee526a3f:0x17250a084a167755
+  - name: >-
+      places/ChIJP2pS7lTHyIARVXcWSggKJRc/reviews/ChdDSUhNMG9nS0VJQ0FnTURnbXFPaDBRRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        The food and service is amazing. We love the Threesome Roll it's Soo
+        good. Also the Crispy chicken skins are delicious. Make sure to make a
+        stop here.
+      languageCode: en
+    originalText:
+      text: >-
+        The food and service is amazing. We love the Threesome Roll it's Soo
+        good. Also the Crispy chicken skins are delicious. Make sure to make a
+        stop here.
+      languageCode: en
+    authorAttribution:
+      displayName: Cynthia Hernandez
+      uri: https://www.google.com/maps/contrib/106696581556004058863/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWC3kAdKoZJk8Dr9GeMsCRt100Yqaker1lSZBU1khXm78YxQYUs=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-02-24T05:42:21.098428Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURnbXFPaDBRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURnbXFPaDBRRRAB!2m1!1s0x80c8c754ee526a3f:0x17250a084a167755
+review_summary: >-
+  Insights from Diner Feedback$$$Folks enjoying sushi spots like this one often
+  praise the fresh, high-quality rolls and hot pot selections that deliver
+  plenty of variety and bold flavors, making it a solid pick for all-you-can-eat
+  adventures. Many highlight the quick service and welcoming vibe that keep
+  things easygoing, even during busier times, adding to the overall appeal for
+  casual outings. While there might be occasional tweaks needed with seasoning
+  on some dishes, the generous portions and affordable pricing still make it a
+  favorite for groups seeking a fun dining experience. Reviewers frequently note
+  the great value and family-friendly atmosphere, encouraging return visits for
+  those hunting down reliable Japanese places nearby. All in all, it's a go-to
+  option that lives up to expectations for tasty meals without any major
+  letdowns, keeping the focus on what's great about exploring local sushi gems.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+curbside_pickup: false
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: true
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
 serves_breakfast: null
 serves_brunch: null
-serves_cocktails: null
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

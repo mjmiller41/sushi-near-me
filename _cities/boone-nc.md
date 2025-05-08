@@ -5,4 +5,5 @@ permalink: /north-carolina/boone/
 stateAbbr: NC
 stateName: North Carolina
 cityName: Boone
+
 ---

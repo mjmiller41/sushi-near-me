@@ -5,4 +5,5 @@ permalink: /florida/palm-harbor/
 stateAbbr: FL
 stateName: Florida
 cityName: Palm Harbor
+
 ---

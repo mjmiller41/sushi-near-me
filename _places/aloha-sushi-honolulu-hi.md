@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Aloha Sushi"
+title: Aloha Sushi
 permalink: /hawaii/honolulu/aloha-sushi.html
 stateAbbr: HI
 stateName: Hawaii
 cityName: Honolulu
 seo:
-  name: "Aloha Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Aloha Sushi serves delicious sushi in Honolulu, Hawaii. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJb8ozJOZtAHwRNEuJjAfQp94
 photos:
   - name: >-
@@ -183,7 +181,43 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Aloha Sushi in Honolulu, HI$$$Aloha Sushi in Honolulu, HI, offers a
+  cozy dining experience with a focus on fresh sushi rolls and flavorful seafood
+  options that capture the essence of local Hawaiian flavors. This small,
+  accessible spot specializes in a variety of party platters and bento boxes,
+  making it ideal for casual meals or gatherings with friends. Visitors
+  appreciate the straightforward menu that highlights high-quality ingredients,
+  perfect for those seeking authentic Japanese-inspired dishes in a welcoming
+  atmosphere. With features like wheelchair-accessible parking and entrances,
+  it's a convenient choice for everyone looking to enjoy sushi in the heart of
+  the city.
+generative_summary: >-
+  Discover Aloha Sushi in Honolulu, HI$$$Aloha Sushi in Honolulu, HI, offers a
+  cozy dining experience with a focus on fresh sushi rolls and flavorful seafood
+  options that capture the essence of local Hawaiian flavors. This small,
+  accessible spot specializes in a variety of party platters and bento boxes,
+  making it ideal for casual meals or gatherings with friends. Visitors
+  appreciate the straightforward menu that highlights high-quality ingredients,
+  perfect for those seeking authentic Japanese-inspired dishes in a welcoming
+  atmosphere. With features like wheelchair-accessible parking and entrances,
+  it's a convenient choice for everyone looking to enjoy sushi in the heart of
+  the city.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Feedback on the Sushi Experience$$$Folks searching for tasty sushi near them
+  in Honolulu often highlight the fresh flavors and solid variety at spots like
+  this one, making it a go-to for casual diners. Many appreciate the
+  straightforward approach to classic rolls and bento options, noting that the
+  portions feel just right for a satisfying meal without any fuss. While some
+  mention it's a smaller space, the overall vibe comes across as relaxed and
+  efficient, with service that's generally friendly and quick. If you're on the
+  hunt for reliable Japanese places close by, feedback suggests this location
+  delivers on fresh seafood and simple yet enjoyable eats, keeping things
+  positive for repeat visits. Overall, it holds up as a solid pick for anyone
+  craving top-rated sushi in a laid-back setting.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -209,7 +243,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Takatsu"
+title: Sushi Takatsu
 permalink: /minnesota/minneapolis/sushi-takatsu.html
 stateAbbr: MN
 stateName: Minnesota
 cityName: Minneapolis
 seo:
-  name: "Sushi Takatsu"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Modest counter-serve standby serving Japanese bites including sushi, noodle soups & rice bowls. Sushi Takatsu serves delicious sushi in Minneapolis, Minnesota. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJZdv4Xpcys1IRYfc8uoIWoOs
 photos:
   - name: >-
@@ -183,6 +181,31 @@ price_range: $1 &ndash; $10
 rating: '4.8'
 rating_count: 0
 website: null
+description: >-
+  Discover Sushi Takatsu in Minneapolis, MN$$$Sushi Takatsu in Minneapolis, MN,
+  stands out as a casual spot for enjoying fresh sushi and Japanese-inspired
+  dishes in a convenient skyway location. This modest counter-serve eatery
+  offers a range of flavorful options, including hearty udon noodle soups and
+  comforting miso bowls, making it a go-to for affordable meals that blend
+  tradition with everyday appeal. With its focus on quality ingredients and
+  simple yet satisfying rice bowls, it's an ideal choice for those seeking a
+  quick bite without the fuss. Boba teas add a fun twist to the menu, appealing
+  to anyone looking for a refreshing pairing with their meal. Whether you're
+  exploring top sushi spots in the area, this place delivers a welcoming vibe
+  for locals and visitors alike.
+generative_summary: >-
+  Discover Sushi Takatsu in Minneapolis, MN$$$Sushi Takatsu in Minneapolis, MN,
+  stands out as a casual spot for enjoying fresh sushi and Japanese-inspired
+  dishes in a convenient skyway location. This modest counter-serve eatery
+  offers a range of flavorful options, including hearty udon noodle soups and
+  comforting miso bowls, making it a go-to for affordable meals that blend
+  tradition with everyday appeal. With its focus on quality ingredients and
+  simple yet satisfying rice bowls, it's an ideal choice for those seeking a
+  quick bite without the fuss. Boba teas add a fun twist to the menu, appealing
+  to anyone looking for a refreshing pairing with their meal. Whether you're
+  exploring top sushi spots in the area, this place delivers a welcoming vibe
+  for locals and visitors alike.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJZdv4Xpcys1IRYfc8uoIWoOs/reviews/ChdDSUhNMG9nS0VJQ0FnSURmZzczVC1nRRAB
@@ -330,6 +353,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURnMl8yY2FBEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURnMl8yY2FBEAE!2m1!1s0x52b332975ef8db65:0xeba01682ba3cf761
+review_summary: >-
+  What People Are Saying About the Food$$$Folks frequently highlight the
+  delicious sushi and flavorful Japanese dishes here, praising the balanced
+  tastes and satisfying options that make for a solid meal on the go. Many
+  appreciate the fast service and affordable prices, which keep things
+  approachable for everyday lunches or quick dinners. While some note that
+  portion ratios could use a tweak for even better enjoyment, the overall
+  experience remains positive with comforting sides like miso soup adding to the
+  appeal. It's often described as a reliable spot for sushi lovers, with the
+  convenience and taste earning it repeat visits. If you're on the hunt for
+  great sushi nearby, this place generally delivers a worthwhile and enjoyable
+  dining option.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   valetParking: false
 payment_options:
@@ -360,8 +396,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: null
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Modest counter-serve standby serving Japanese bites including sushi, noodle
   soups & rice bowls.
 

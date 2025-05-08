@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushiya"
+title: Sushiya
 permalink: /new-mexico/albuquerque/sushiya.html
 stateAbbr: NM
 stateName: New Mexico
 cityName: Albuquerque
 seo:
-  name: "Sushiya"
-  type: Restaurant
+  type: restaurant
   links: https://www.sushiyanm.com/
-description: "Sushiya serves delicious sushi in Albuquerque, New Mexico. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJi7j6wB6gGIcReRy704cE-mg
 photos:
   - name: >-
@@ -170,7 +168,49 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8718a01ec0fab88b:0x68fa0487d3bb1c79!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: Closed'
     - 'Wednesday: 11:30 AM – 9:00 PM'
@@ -178,14 +218,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 9:30 PM'
     - 'Saturday: 11:30 AM – 9:30 PM'
     - 'Sunday: 12:00 – 9:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: Closed'
-    - 'Wednesday: 11:30 AM – 9:00 PM'
-    - 'Thursday: 11:30 AM – 9:00 PM'
-    - 'Friday: 11:30 AM – 9:30 PM'
-    - 'Saturday: 11:30 AM – 9:30 PM'
-    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T03:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +230,227 @@ phone: (505) 275-4777
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.5'
-rating_count: 0
+rating_count: 554
 website: https://www.sushiyanm.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Sushiya in Albuquerque, NM$$$Sushiya in Albuquerque, NM, stands out
+  as a casual Japanese restaurant offering a delightful mix of fresh sushi and
+  traditional Asian dishes in a calming atmosphere. This spot is known for its
+  inviting ambiance, making it an ideal choice for those seeking quality sushi
+  experiences nearby, with options like bento boxes that cater to a variety of
+  tastes. Accessibility features such as wheelchair-friendly parking and
+  entrances add to its appeal, ensuring a welcoming visit for everyone. The menu
+  includes moderately priced entrees paired with beer, wine, and sake, perfect
+  for a relaxed meal. Whether you're exploring top-rated sushi restaurants in
+  the area, Sushiya delivers on fresh flavors and a serene dining vibe that
+  keeps locals coming back.
+generative_summary: >-
+  Discover Sushiya in Albuquerque, NM$$$Sushiya in Albuquerque, NM, stands out
+  as a casual Japanese restaurant offering a delightful mix of fresh sushi and
+  traditional Asian dishes in a calming atmosphere. This spot is known for its
+  inviting ambiance, making it an ideal choice for those seeking quality sushi
+  experiences nearby, with options like bento boxes that cater to a variety of
+  tastes. Accessibility features such as wheelchair-friendly parking and
+  entrances add to its appeal, ensuring a welcoming visit for everyone. The menu
+  includes moderately priced entrees paired with beer, wine, and sake, perfect
+  for a relaxed meal. Whether you're exploring top-rated sushi restaurants in
+  the area, Sushiya delivers on fresh flavors and a serene dining vibe that
+  keeps locals coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJi7j6wB6gGIcReRy704cE-mg/reviews/ChdDSUhNMG9nS0VJQ0FnSUNMb1lHaGxnRRAB
+    relativePublishTimeDescription: 10 months ago
+    rating: 5
+    text:
+      text: >-
+        I ordered sushi on Selflane.  The order was ready within 20 minutes, and
+        the pickup was easy.  I appreciate how the restaurant took an extra step
+        by using paper dividers to keep the rolls separate. The Eskimo roll was
+        filling and tasty.  The slices of salmon were thick!
+      languageCode: en
+    originalText:
+      text: >-
+        I ordered sushi on Selflane.  The order was ready within 20 minutes, and
+        the pickup was easy.  I appreciate how the restaurant took an extra step
+        by using paper dividers to keep the rolls separate. The Eskimo roll was
+        filling and tasty.  The slices of salmon were thick!
+      languageCode: en
+    authorAttribution:
+      displayName: M Rose
+      uri: https://www.google.com/maps/contrib/108188819837993421917/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVF8uJ-R_3F7BoLf9qteUx0h_lAwkj5rPB_qEoAoa5QLAXRgGoX=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-06-20T00:00:01.714841Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNMb1lHaGxnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNMb1lHaGxnRRAB!2m1!1s0x8718a01ec0fab88b:0x68fa0487d3bb1c79
+  - name: >-
+      places/ChIJi7j6wB6gGIcReRy704cE-mg/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ5bXVQcjdnRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        Amazing sushi and other dishes, attentive service, great prices, and a
+        cozy atmosphere. The sushi is top-notch, but if people in your party
+        don't care for sushi there is a delicious variety of other dishes.  Note
+        that they are closed Mondays and Tuesdays.
+      languageCode: en
+    originalText:
+      text: >-
+        Amazing sushi and other dishes, attentive service, great prices, and a
+        cozy atmosphere. The sushi is top-notch, but if people in your party
+        don't care for sushi there is a delicious variety of other dishes.  Note
+        that they are closed Mondays and Tuesdays.
+      languageCode: en
+    authorAttribution:
+      displayName: Shanna Jarrett
+      uri: https://www.google.com/maps/contrib/100502439517214071048/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUB5bu1G1WU-Zk1SSAjae50dOanILOYEzUJjid28CQIhwRUM3dPzw=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-03-15T16:27:08.471874Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQ5bXVQcjdnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQ5bXVQcjdnRRAB!2m1!1s0x8718a01ec0fab88b:0x68fa0487d3bb1c79
+  - name: >-
+      places/ChIJi7j6wB6gGIcReRy704cE-mg/reviews/ChdDSUhNMG9nS0VJQ0FnTURJdWNDbW93RRAB
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 5
+    text:
+      text: >-
+        I've been eating at Sushiya for years.  All of their food is on point. I
+        personally believe that a bad meal doesn't exist there. The service is
+        great and the food is great.  What else do you need. Enjoy!
+      languageCode: en
+    originalText:
+      text: >-
+        I've been eating at Sushiya for years.  All of their food is on point. I
+        personally believe that a bad meal doesn't exist there. The service is
+        great and the food is great.  What else do you need. Enjoy!
+      languageCode: en
+    authorAttribution:
+      displayName: Thomas
+      uri: https://www.google.com/maps/contrib/100364703950653434436/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUnKy2yzXz5bi5faFUCTzjs07rZVyDouOkyOZCzYs5bjTAyWTH3=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-11T10:36:30.232026Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJdWNDbW93RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJdWNDbW93RRAB!2m1!1s0x8718a01ec0fab88b:0x68fa0487d3bb1c79
+  - name: >-
+      places/ChIJi7j6wB6gGIcReRy704cE-mg/reviews/ChZDSUhNMG9nS0VJQ0FnTURJcnR5UENBEAE
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 5
+    text:
+      text: >-
+        I ordered take out from here for the first time last week. I did not get
+        everything I had paid for but they quickly refunded me when I called. 
+        Despite this issue, the food received was absolutely delicious. The
+        sushi and sashimi were so fresh and the sashimi portion especially was
+        so much larger in size and number of slices than I expected! I can't
+        wait to go back and try more.
+      languageCode: en
+    originalText:
+      text: >-
+        I ordered take out from here for the first time last week. I did not get
+        everything I had paid for but they quickly refunded me when I called. 
+        Despite this issue, the food received was absolutely delicious. The
+        sushi and sashimi were so fresh and the sashimi portion especially was
+        so much larger in size and number of slices than I expected! I can't
+        wait to go back and try more.
+      languageCode: en
+    authorAttribution:
+      displayName: Diana D'Agostino
+      uri: https://www.google.com/maps/contrib/112383148735232763106/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWrtLwMTLIHw2ACKu8oD2C-tNN3mfMPMfwCv0VfHiBSY5yQcCc=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-09T23:03:04.164084Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURJcnR5UENBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJcnR5UENBEAE!2m1!1s0x8718a01ec0fab88b:0x68fa0487d3bb1c79
+  - name: >-
+      places/ChIJi7j6wB6gGIcReRy704cE-mg/reviews/ChdDSUhNMG9nS0VJQ0FnSUR1eS1DbDJnRRAB
+    relativePublishTimeDescription: 2 years ago
+    rating: 5
+    text:
+      text: >-
+        We dined in this past Saturday evening and this is the place to be! The
+        service is excellent! The sushi, dumplings, and pork vegetable medley is
+        excellent! Very affordable excellent food! We ordered 9 sushi rolls.
+        Beautiful work. What a treat! We will definitely visit Sushiya every
+        time we visit Albuquerque ❤️
+      languageCode: en
+    originalText:
+      text: >-
+        We dined in this past Saturday evening and this is the place to be! The
+        service is excellent! The sushi, dumplings, and pork vegetable medley is
+        excellent! Very affordable excellent food! We ordered 9 sushi rolls.
+        Beautiful work. What a treat! We will definitely visit Sushiya every
+        time we visit Albuquerque ❤️
+      languageCode: en
+    authorAttribution:
+      displayName: Mary Briseno
+      uri: https://www.google.com/maps/contrib/109432355590652366571/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKeXDI1QztHsb45g5zt0LM_o2V6VAx1E4nj-fmNABxp_yrMaQ=s128-c0x00000000-cc-rp-mo
+    publishTime: '2022-08-29T14:52:50.845461Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR1eS1DbDJnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR1eS1DbDJnRRAB!2m1!1s0x8718a01ec0fab88b:0x68fa0487d3bb1c79
+review_summary: >-
+  What Customers Are Raving About$$$Folks who visit this sushi spot often
+  highlight the consistently fresh and flavorful dishes, with plenty of praise
+  for the generous portions that make every meal feel worthwhile. Many
+  appreciate the attentive service and reasonable prices, which add up to a
+  satisfying experience without breaking the bank, especially for groups or
+  families. Reviewers frequently mention the variety of options beyond just
+  sushi, like tasty Asian entrees, making it a go-to for anyone craving Japanese
+  cuisine close by. Overall, the cozy, unpretentious atmosphere gets thumbs up
+  for creating a comfortable setting, though a few note minor ordering hiccups
+  that were quickly resolved. If you're on the hunt for reliable sushi places
+  near you, this location seems to deliver solid satisfaction with its blend of
+  quality food and friendly vibes.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
 serves_cocktails: null
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Charming restaurant providing a mix of sushi & traditional Asian entrees, plus
+  beer, wine & sake.
 
 ---

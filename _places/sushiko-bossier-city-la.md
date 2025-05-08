@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushiko"
+title: Sushiko
 permalink: /louisiana/bossier-city/sushiko.html
 stateAbbr: LA
 stateName: Louisiana
 cityName: Bossier City
 seo:
-  name: "Sushiko"
-  type: Restaurant
+  type: restaurant
   links: https://www.sushikoloveorder.com/
-description: "Sushiko serves delicious sushi in Bossier City, Louisiana. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJrwUGTdIyMYYRhSQE7ILcVEk
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x863132d24d0605af:0x4954dc82ec042485!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:00 PM'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:00 PM'
     - 'Saturday: 11:00 AM – 10:00 PM'
     - 'Sunday: 11:00 AM – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 10:00 PM'
-    - 'Saturday: 11:00 AM – 10:00 PM'
-    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,233 @@ phone: (318) 746-2626
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.2'
-rating_count: 0
+rating_count: 764
 website: https://www.sushikoloveorder.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Sushiko in Bossier City, LA$$$Sushiko in Bossier City, LA, stands out
+  as a contemporary Japanese eatery offering a blend of fresh sushi and other
+  Asian-inspired dishes in a welcoming casual setting. This spot highlights an
+  array of flavorful options like expertly crafted rolls, bento boxes, and
+  grilled selections, making it a go-to choice for those seeking authentic
+  Japanese flavors in a relaxed environment. With convenient accessibility
+  features and ample parking, it's designed to accommodate a variety of diners
+  looking for a seamless dining experience. The restaurant also boasts extended
+  hours for lunch and dinner, allowing visitors to enjoy their meals at their
+  convenience. Whether you're exploring top-rated sushi options nearby, Sushiko
+  delivers a satisfying taste of Japanese cuisine that keeps locals coming back.
+generative_summary: >-
+  Discover Sushiko in Bossier City, LA$$$Sushiko in Bossier City, LA, stands out
+  as a contemporary Japanese eatery offering a blend of fresh sushi and other
+  Asian-inspired dishes in a welcoming casual setting. This spot highlights an
+  array of flavorful options like expertly crafted rolls, bento boxes, and
+  grilled selections, making it a go-to choice for those seeking authentic
+  Japanese flavors in a relaxed environment. With convenient accessibility
+  features and ample parking, it's designed to accommodate a variety of diners
+  looking for a seamless dining experience. The restaurant also boasts extended
+  hours for lunch and dinner, allowing visitors to enjoy their meals at their
+  convenience. Whether you're exploring top-rated sushi options nearby, Sushiko
+  delivers a satisfying taste of Japanese cuisine that keeps locals coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJrwUGTdIyMYYRhSQE7ILcVEk/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJNHZ1V2t3RRAB
+    relativePublishTimeDescription: a month ago
+    rating: 4
+    text:
+      text: >-
+        I've been coming here for many years and the food is always great and
+        staff is always nice and professional.
+      languageCode: en
+    originalText:
+      text: >-
+        I've been coming here for many years and the food is always great and
+        staff is always nice and professional.
+      languageCode: en
+    authorAttribution:
+      displayName: '#Legendaryfishing'
+      uri: https://www.google.com/maps/contrib/115813291260597876513/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXZgVwf0QVaA-PJETjy7MalTAD0teYdYHU8AbgcvMh6g8gy8hM5=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-03-31T16:26:17.393469Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNJNHZ1V2t3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNJNHZ1V2t3RRAB!2m1!1s0x863132d24d0605af:0x4954dc82ec042485
+  - name: >-
+      places/ChIJrwUGTdIyMYYRhSQE7ILcVEk/reviews/ChZDSUhNMG9nS0VJQ0FnSURfc0puWWFREAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        The tastiest sushi I've ever eaten 😉👍THANKS! We will definitely come
+        here again! Atmosphere 4 because I would like to add a little special
+        feature😊.
+      languageCode: en
+    originalText:
+      text: >-
+        The tastiest sushi I've ever eaten 😉👍THANKS! We will definitely come
+        here again! Atmosphere 4 because I would like to add a little special
+        feature😊.
+      languageCode: en
+    authorAttribution:
+      displayName: Andrіі
+      uri: https://www.google.com/maps/contrib/104898087410929115376/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjV04KUWSTHGaFZmAtOPtPEHlVNVNh3BvWwsgXDU7pkyRLffDtMa=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-01-20T23:30:18.686280Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURfc0puWWFREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURfc0puWWFREAE!2m1!1s0x863132d24d0605af:0x4954dc82ec042485
+  - name: >-
+      places/ChIJrwUGTdIyMYYRhSQE7ILcVEk/reviews/ChZDSUhNMG9nS0VJQ0FnSURyaGFfQk53EAE
+    relativePublishTimeDescription: 9 months ago
+    rating: 5
+    text:
+      text: >-
+        Katie is a doll!! She has taken such good care of my guests and I since
+        day one. Always smiling. Always excited to see us.
+
+
+        The food hits all the points. Delicious, great portions and value! The
+        lunch bento boxes are an amazing way to try so much of their menu!
+        Personally though, I’m a big fan of the shrimp teriyaki and the yummy
+        yummy roll!!!
+
+
+        You won’t be disappointed visiting!
+      languageCode: en
+    originalText:
+      text: >-
+        Katie is a doll!! She has taken such good care of my guests and I since
+        day one. Always smiling. Always excited to see us.
+
+
+        The food hits all the points. Delicious, great portions and value! The
+        lunch bento boxes are an amazing way to try so much of their menu!
+        Personally though, I’m a big fan of the shrimp teriyaki and the yummy
+        yummy roll!!!
+
+
+        You won’t be disappointed visiting!
+      languageCode: en
+    authorAttribution:
+      displayName: Eileen M
+      uri: https://www.google.com/maps/contrib/105511703397035183295/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXxz8Z_yiQlAV18wMoXTZ1ino0D_RID72MPzrAK2GDUgjyZgRhq=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-07-18T18:41:21.073186Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURyaGFfQk53EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURyaGFfQk53EAE!2m1!1s0x863132d24d0605af:0x4954dc82ec042485
+  - name: >-
+      places/ChIJrwUGTdIyMYYRhSQE7ILcVEk/reviews/ChZDSUhNMG9nS0VJQ0FnSUNYcGZxdVR3EAE
+    relativePublishTimeDescription: 6 months ago
+    rating: 5
+    text:
+      text: >-
+        I LOVE THIS PLACE!  My Gbaby and I happened to want Shushi and Noodles
+        and that is exactly what we received and MORE! The service was fantastic
+        and food was delightful and delicious.  Exactly what we needed in a new
+        city. They had great accommodations and patience for a toddler, which at
+        some restaurants it's a coin toss. The food was fantastic but the
+        Noodles for my gbaby was GREAT!! She loved the fish over our head. She
+        named it "daddy shark, do do dooo". Lol
+      languageCode: en
+    originalText:
+      text: >-
+        I LOVE THIS PLACE!  My Gbaby and I happened to want Shushi and Noodles
+        and that is exactly what we received and MORE! The service was fantastic
+        and food was delightful and delicious.  Exactly what we needed in a new
+        city. They had great accommodations and patience for a toddler, which at
+        some restaurants it's a coin toss. The food was fantastic but the
+        Noodles for my gbaby was GREAT!! She loved the fish over our head. She
+        named it "daddy shark, do do dooo". Lol
+      languageCode: en
+    authorAttribution:
+      displayName: C Jones
+      uri: https://www.google.com/maps/contrib/104538862229096176356/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjV5vjFWnj-di3I-_WQ03grVDH4Z9pyyCSnb9fywBG0VBLSlWro4rA=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-10-18T18:15:13.027755Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNYcGZxdVR3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNYcGZxdVR3EAE!2m1!1s0x863132d24d0605af:0x4954dc82ec042485
+  - name: >-
+      places/ChIJrwUGTdIyMYYRhSQE7ILcVEk/reviews/ChZDSUhNMG9nS0VJQ0FnTURvbWFYV1dREAE
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        Excellent egg rolls and Crazy Boy avocado Roll. Food was made fresh, and
+        was served HOT! Served was attentive. Clean tables and floors. Would
+        recommend!
+      languageCode: en
+    originalText:
+      text: >-
+        Excellent egg rolls and Crazy Boy avocado Roll. Food was made fresh, and
+        was served HOT! Served was attentive. Clean tables and floors. Would
+        recommend!
+      languageCode: en
+    authorAttribution:
+      displayName: Devin Williams
+      uri: https://www.google.com/maps/contrib/106101601587905052879/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVSHGCRuo2oDrXS1B74wGOyqzD8nMGxIFD6-6Ng7TvE5iJPQLVH=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-26T13:05:31.116396Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURvbWFYV1dREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURvbWFYV1dREAE!2m1!1s0x863132d24d0605af:0x4954dc82ec042485
+review_summary: >-
+  What Customers Are Buzzing About$$$Visitors often rave about the fresh and
+  delicious sushi that hits the spot every time, with many highlighting its bold
+  flavors and generous portions as standout features. Folks appreciate the
+  friendly and attentive service that makes every meal feel welcoming and
+  efficient, turning first-timers into regulars. Families enjoy the kid-friendly
+  vibe, complete with options that cater to younger diners, making it a solid
+  pick for casual outings. While some note room for a bit more unique ambiance,
+  the overall experience is praised for its value and variety, encouraging
+  repeat visits. If you're on the hunt for reliable sushi spots nearby, this
+  place delivers a consistently positive vibe that's worth checking out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  paidStreetParking: false
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: true
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
 serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_cocktails: true
+serves_coffee: true
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Contemporary Japanese eatery with a sushi bar, noodles & grilled meats, plus a
+  sake selection.
 
 ---

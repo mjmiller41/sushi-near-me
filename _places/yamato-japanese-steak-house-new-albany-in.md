@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yamato Japanese Steak House"
+title: Yamato Japanese Steak House
 permalink: /indiana/new-albany/yamato-japanese-steak-house.html
 stateAbbr: IN
 stateName: Indiana
 cityName: New Albany
 seo:
-  name: "Yamato Japanese Steak House"
-  type: Restaurant
+  type: restaurant
   links: https://yamatonewalbany.com/
-description: "Yamato Japanese Steak House serves delicious sushi in New Albany, Indiana. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJdzE5J8VtaYgRsgso36Rc_dM
 photos:
   - name: >-
@@ -169,7 +167,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x88696dc527393177:0xd3fd5ca4df280bb2!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:30 PM'
     - 'Tuesday: Closed'
     - 'Wednesday: 11:00 AM – 9:30 PM'
@@ -177,14 +225,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:00 PM'
     - 'Saturday: 11:00 AM – 10:00 PM'
     - 'Sunday: 11:00 AM – 9:30 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:30 PM'
-    - 'Tuesday: Closed'
-    - 'Wednesday: 11:00 AM – 9:30 PM'
-    - 'Thursday: 11:00 AM – 9:30 PM'
-    - 'Friday: 11:00 AM – 10:00 PM'
-    - 'Saturday: 11:00 AM – 10:00 PM'
-    - 'Sunday: 11:00 AM – 9:30 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,9 +237,48 @@ phone: (812) 590-1380
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.2'
-rating_count: 0
+rating_count: 327
 website: https://yamatonewalbany.com/
+description: >-
+  Discover Yamato Japanese Steak House in New Albany, IN$$$Yamato Japanese Steak
+  House in New Albany, IN, stands out as a welcoming spot for casual Japanese
+  dining, featuring a menu that highlights flavorful bento boxes and interactive
+  hibachi meals. This establishment combines a relaxed vibe with options like
+  beer and cocktails, making it ideal for those seeking authentic Japanese
+  flavors in a comfortable setting. Accessibility features, such as
+  wheelchair-friendly parking and entrances, ensure everyone can enjoy the
+  experience with ease. Open daily for lunch and dinner with extended hours on
+  weekends, it's a go-to choice for anyone exploring Japanese places near me or
+  looking for top-rated dining options that blend tradition with modern
+  convenience.
+generative_summary: >-
+  Discover Yamato Japanese Steak House in New Albany, IN$$$Yamato Japanese Steak
+  House in New Albany, IN, stands out as a welcoming spot for casual Japanese
+  dining, featuring a menu that highlights flavorful bento boxes and interactive
+  hibachi meals. This establishment combines a relaxed vibe with options like
+  beer and cocktails, making it ideal for those seeking authentic Japanese
+  flavors in a comfortable setting. Accessibility features, such as
+  wheelchair-friendly parking and entrances, ensure everyone can enjoy the
+  experience with ease. Open daily for lunch and dinner with extended hours on
+  weekends, it's a go-to choice for anyone exploring Japanese places near me or
+  looking for top-rated dining options that blend tradition with modern
+  convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Folks checking out Yamato Japanese Steak House
+  often rave about the solid food quality and fun hibachi vibe, based on its
+  strong overall rating that reflects a generally positive crowd. With a
+  4.2-star average from hundreds of comments, many highlight the tasty meals and
+  friendly service as standout reasons to return, keeping things light and
+  enjoyable for casual diners. Some notes mention the value for the price,
+  making it a reliable pick for groups or families hunting for Japanese
+  restaurants near me without breaking the bank. Overall, the feedback leans
+  toward satisfaction with the atmosphere and selections, though a few suggest
+  it's best for those who appreciate straightforward, hearty eats rather than
+  anything overly fancy. If you're on the hunt for spots that deliver on flavor
+  and fun, this place seems to hit the mark for most.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -224,7 +304,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

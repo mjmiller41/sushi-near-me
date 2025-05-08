@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sakura Japanese Cuisine"
+title: Sakura Japanese Cuisine
 permalink: /wisconsin/chippewa-falls/sakura-japanese-cuisine.html
 stateAbbr: WI
 stateName: Wisconsin
 cityName: Chippewa Falls
 seo:
-  name: "Sakura Japanese Cuisine"
-  type: Restaurant
-  links: null
-description: "Sakura Japanese Cuisine serves delicious sushi in Chippewa Falls, Wisconsin. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.ezordernow.com/sakurajapanesecuisine
 place_id: ChIJQY6A9A2m-IcR2VF3jTlQQ84
 photos:
   - name: >-
@@ -170,8 +168,113 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x87f8a60df4808e41:0xce4350398d7751d9!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 15
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 15
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 3:00 PM, 4:30 – 9:30 PM'
+    - 'Tuesday: 11:00 AM – 3:00 PM, 4:30 – 9:30 PM'
+    - 'Wednesday: 11:00 AM – 3:00 PM, 4:30 – 9:30 PM'
+    - 'Thursday: 11:00 AM – 3:00 PM, 4:30 – 9:30 PM'
+    - 'Friday: 11:00 AM – 3:00 PM, 4:30 – 10:00 PM'
+    - 'Saturday: 11:30 AM – 10:00 PM'
+    - 'Sunday: 11:30 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +282,47 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (715) 726-2222
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.6'
+rating_count: 602
+website: https://www.ezordernow.com/sakurajapanesecuisine
+description: >-
+  Discover Sakura Japanese Cuisine in Chippewa Falls, WI$$$Sakura Japanese
+  Cuisine in Chippewa Falls, WI, provides a relaxed spot for enjoying authentic
+  Japanese flavors, including fresh sushi and classic dishes. This casual
+  restaurant features a menu with options like teriyaki and tempura,
+  complemented by a selection of sake and cocktails for a complete dining
+  experience. Its accessible design, including wheelchair-friendly parking and
+  seating, makes it welcoming for all guests seeking a comfortable meal. Whether
+  you're exploring sushi restaurants in the area or looking for Japanese places
+  that offer a blend of tradition and ease, Sakura stands out with its
+  straightforward yet flavorful approach to cuisine.
+generative_summary: >-
+  Discover Sakura Japanese Cuisine in Chippewa Falls, WI$$$Sakura Japanese
+  Cuisine in Chippewa Falls, WI, provides a relaxed spot for enjoying authentic
+  Japanese flavors, including fresh sushi and classic dishes. This casual
+  restaurant features a menu with options like teriyaki and tempura,
+  complemented by a selection of sake and cocktails for a complete dining
+  experience. Its accessible design, including wheelchair-friendly parking and
+  seating, makes it welcoming for all guests seeking a comfortable meal. Whether
+  you're exploring sushi restaurants in the area or looking for Japanese places
+  that offer a blend of tradition and ease, Sakura stands out with its
+  straightforward yet flavorful approach to cuisine.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Customer Reviews$$$Visitors often praise the tasty bento boxes
+  at this spot, highlighting flavorful choices like shrimp, chicken, and beef
+  that hit the mark for a satisfying Japanese meal. The atmosphere gets plenty
+  of nods for being inviting and enjoyable, adding to the overall vibe without
+  any fuss. Folks appreciate the solid service, which keeps things smooth and
+  attentive throughout the visit. If you're on the hunt for top-rated sushi
+  options nearby, this place delivers consistently fresh tastes that leave a
+  positive impression. All in all, it's a reliable choice for anyone craving
+  authentic dishes in a welcoming setting.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +348,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

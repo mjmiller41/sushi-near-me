@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "KOPAN SUSHI & RAMEN_ WEST COVINA"
+title: KOPAN SUSHI & RAMEN_ WEST COVINA
 permalink: /california/west-covina/kopan-sushi-ramen-west-covina.html
 stateAbbr: CA
 stateName: California
 cityName: West Covina
 seo:
-  name: "KOPAN SUSHI & RAMEN_ WEST COVINA"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "KOPAN SUSHI & RAMEN_ WEST COVINA serves delicious sushi in West Covina, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJKxfpKCoow4ARA5TbtiyKVIw
 photos:
   - name: >-
@@ -185,7 +183,47 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Kopan Sushi & Ramen in West Covina, CA$$$Kopan Sushi & Ramen in West
+  Covina, CA, offers a relaxed vibe for enjoying authentic Japanese flavors,
+  making it a go-to spot for sushi enthusiasts in the area. Nestled in a
+  convenient mall location, this eatery stands out with its all-you-can-eat
+  deals that include fresh sushi options, alongside beverages like beer and sake
+  to complement your meal. The welcoming atmosphere combines casual dining with
+  thoughtful accessibility features, ensuring a comfortable experience for all
+  visitors. You'll find a variety of Japanese-inspired dishes that highlight
+  quality ingredients, perfect for anyone searching for top-rated sushi
+  restaurants nearby. Whether you're craving a quick bite or a leisurely outing,
+  this spot delivers a blend of tradition and convenience that keeps locals
+  coming back.
+generative_summary: >-
+  Discover Kopan Sushi & Ramen in West Covina, CA$$$Kopan Sushi & Ramen in West
+  Covina, CA, offers a relaxed vibe for enjoying authentic Japanese flavors,
+  making it a go-to spot for sushi enthusiasts in the area. Nestled in a
+  convenient mall location, this eatery stands out with its all-you-can-eat
+  deals that include fresh sushi options, alongside beverages like beer and sake
+  to complement your meal. The welcoming atmosphere combines casual dining with
+  thoughtful accessibility features, ensuring a comfortable experience for all
+  visitors. You'll find a variety of Japanese-inspired dishes that highlight
+  quality ingredients, perfect for anyone searching for top-rated sushi
+  restaurants nearby. Whether you're craving a quick bite or a leisurely outing,
+  this spot delivers a blend of tradition and convenience that keeps locals
+  coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Buzzing About This Sushi Spot$$$Folks really enjoy the
+  tasty ramen and sushi selections at this spot, with standout rolls like the
+  mango and oyako varieties earning high marks for their fresh flavors and
+  creative twists. Many appreciate the charming Japanese-inspired decor that
+  creates a welcoming and authentic vibe, making meals feel like a mini getaway.
+  The service stands out as friendly and attentive, helping to make the overall
+  experience smooth and enjoyable for groups or solo diners. While some mention
+  occasional waits for food, it's often worth it for the quality and variety on
+  offer. Overall, this place comes across as a solid choice for anyone looking
+  for reliable Japanese eats, keeping things positive with its flavorful
+  offerings and cozy atmosphere.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +249,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

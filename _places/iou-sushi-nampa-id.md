@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "IOU Sushi"
+title: IOU Sushi
 permalink: /idaho/nampa/iou-sushi.html
 stateAbbr: ID
 stateName: Idaho
 cityName: Nampa
 seo:
-  name: "IOU Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "IOU Sushi serves delicious sushi in Nampa, Idaho. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJs0y4ZaFMrlQRDPmbl5gCyQw
 photos:
   - name: >-
@@ -170,7 +168,97 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x54ae4ca165b84cb3:0xcc90298979bf90c!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 2:00 PM, 4:30 – 9:00 PM'
     - 'Tuesday: 11:00 AM – 2:00 PM, 4:30 – 9:00 PM'
     - 'Wednesday: 11:00 AM – 2:00 PM, 4:30 – 9:00 PM'
@@ -178,14 +266,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 2:00 PM, 4:30 – 9:00 PM'
     - 'Saturday: 11:00 AM – 9:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:00 AM – 2:00 PM, 4:30 – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 2:00 PM, 4:30 – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 2:00 PM, 4:30 – 9:00 PM'
-    - 'Thursday: 11:00 AM – 2:00 PM, 4:30 – 9:00 PM'
-    - 'Friday: 11:00 AM – 2:00 PM, 4:30 – 9:00 PM'
-    - 'Saturday: 11:00 AM – 9:00 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +278,239 @@ phone: (208) 461-5203
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '3.9'
-rating_count: 0
+rating_count: 523
 website: null
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover IOU Sushi in Nampa, Idaho$$$IOU Sushi in Nampa, Idaho, stands out as
+  a welcoming spot for enjoying fresh Japanese cuisine, particularly its
+  all-you-can-eat sushi options that draw in locals and visitors alike. The
+  restaurant boasts a casual atmosphere combined with a wide array of rolls,
+  making it an ideal choice for those seeking sushi restaurants nearby with a
+  relaxed vibe. Accessibility features like wheelchair-friendly parking and
+  entrances ensure everyone can enjoy the experience, while its moderate pricing
+  appeals to a variety of diners looking for quality without breaking the bank.
+  Open for lunch and dinner throughout the week, it offers a convenient option
+  for anyone searching for top-rated sushi spots in the area, with highlights
+  including beer and wine selections to complement your meal.
+generative_summary: >-
+  Discover IOU Sushi in Nampa, Idaho$$$IOU Sushi in Nampa, Idaho, stands out as
+  a welcoming spot for enjoying fresh Japanese cuisine, particularly its
+  all-you-can-eat sushi options that draw in locals and visitors alike. The
+  restaurant boasts a casual atmosphere combined with a wide array of rolls,
+  making it an ideal choice for those seeking sushi restaurants nearby with a
+  relaxed vibe. Accessibility features like wheelchair-friendly parking and
+  entrances ensure everyone can enjoy the experience, while its moderate pricing
+  appeals to a variety of diners looking for quality without breaking the bank.
+  Open for lunch and dinner throughout the week, it offers a convenient option
+  for anyone searching for top-rated sushi spots in the area, with highlights
+  including beer and wine selections to complement your meal.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJs0y4ZaFMrlQRDPmbl5gCyQw/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3c08zRkFnEAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        cheers to the chiefs i have been coming here since around 2016 and
+        always had a good time and always exploring there menus they are always
+        nice and recommend some great menu items
+      languageCode: en
+    originalText:
+      text: >-
+        cheers to the chiefs i have been coming here since around 2016 and
+        always had a good time and always exploring there menus they are always
+        nice and recommend some great menu items
+      languageCode: en
+    authorAttribution:
+      displayName: Juan Lopez
+      uri: https://www.google.com/maps/contrib/100804155806071602105/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUzKJmlsonDYMqofTyGA5q_iVhtYpu-sjML8rOtyyPqU7CiU1XiCA=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-03-22T22:32:10.625004Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUR3c08zRkFnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUR3c08zRkFnEAE!2m1!1s0x54ae4ca165b84cb3:0xcc90298979bf90c
+  - name: >-
+      places/ChIJs0y4ZaFMrlQRDPmbl5gCyQw/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ3NDQtYXpnRRAB
+    relativePublishTimeDescription: 8 months ago
+    rating: 5
+    text:
+      text: >-
+        This is undoubtedly my favorite sushi spot in Idaho, and I can not
+        recommend it enough! Bar seating lets you place orders directly with the
+        sushi chefs who are very kind and funny! Orders come out quickly and
+        always have a lot of care put into the presentation. Make sure you grab
+        yourself all-you-can-eat dinner prices for sampling all kinds of
+        delicious rolls, including their iconic crystal shrimp!
+      languageCode: en
+    originalText:
+      text: >-
+        This is undoubtedly my favorite sushi spot in Idaho, and I can not
+        recommend it enough! Bar seating lets you place orders directly with the
+        sushi chefs who are very kind and funny! Orders come out quickly and
+        always have a lot of care put into the presentation. Make sure you grab
+        yourself all-you-can-eat dinner prices for sampling all kinds of
+        delicious rolls, including their iconic crystal shrimp!
+      languageCode: en
+    authorAttribution:
+      displayName: Taylor Allen
+      uri: https://www.google.com/maps/contrib/108206223373063186166/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWF3GdLhCSxT-K19y49-M-w2njISTQVAtSH3AeGxiV3WUbeKPZR=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2024-08-28T02:54:53.034252Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQ3NDQtYXpnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQ3NDQtYXpnRRAB!2m1!1s0x54ae4ca165b84cb3:0xcc90298979bf90c
+  - name: >-
+      places/ChIJs0y4ZaFMrlQRDPmbl5gCyQw/reviews/ChdDSUhNMG9nS0VJQ0FnTUNvcHQtOGtnRRAB
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        Nice walk in place, sat at the bar for all you can eat lunch. 
+        Everything was delicious, but I was particularly impressed with the
+        mackerel.
+      languageCode: en
+    originalText:
+      text: >-
+        Nice walk in place, sat at the bar for all you can eat lunch. 
+        Everything was delicious, but I was particularly impressed with the
+        mackerel.
+      languageCode: en
+    authorAttribution:
+      displayName: Damon Johnson
+      uri: https://www.google.com/maps/contrib/117449678419113884755/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWQddUDaidnSZ5rB0qPU4feuHHCFtnPbBnqQs2_hykJM3rZzidHLg=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-04-16T19:18:28.021569Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNvcHQtOGtnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNvcHQtOGtnRRAB!2m1!1s0x54ae4ca165b84cb3:0xcc90298979bf90c
+  - name: >-
+      places/ChIJs0y4ZaFMrlQRDPmbl5gCyQw/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJbjk3QTdnRRAB
+    relativePublishTimeDescription: 4 weeks ago
+    rating: 5
+    text:
+      text: >-
+        Went out for lunch with my 10 year old and it was so delightful! We
+        ordered the rainbow  roll , Alaskan roll, and the crab hand roll (upon
+        ordering i was advised of it being sweet), as well as a quail egg
+        shooter (recommended), and everything tasted fresh and came out looking
+        good! I can't wait to bring the whole family here! Oh also they put
+        together kid friendly chopsticks without us asking! So such wonderful
+        service and everyone there was so friendly and welcoming as well!
+      languageCode: en
+    originalText:
+      text: >-
+        Went out for lunch with my 10 year old and it was so delightful! We
+        ordered the rainbow  roll , Alaskan roll, and the crab hand roll (upon
+        ordering i was advised of it being sweet), as well as a quail egg
+        shooter (recommended), and everything tasted fresh and came out looking
+        good! I can't wait to bring the whole family here! Oh also they put
+        together kid friendly chopsticks without us asking! So such wonderful
+        service and everyone there was so friendly and welcoming as well!
+      languageCode: en
+    authorAttribution:
+      displayName: Brandi T
+      uri: https://www.google.com/maps/contrib/111278177117272126298/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUQhhNm10y5bzV5XaiejwY2ZT3lXUb0zj3Cx9DVamPC_P2PDarW=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-05T19:01:20.226932Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNJbjk3QTdnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNJbjk3QTdnRRAB!2m1!1s0x54ae4ca165b84cb3:0xcc90298979bf90c
+  - name: >-
+      places/ChIJs0y4ZaFMrlQRDPmbl5gCyQw/reviews/ChZDSUhNMG9nS0VJQ0FnTUNnc3ZiUlFBEAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 4
+    text:
+      text: >-
+        We arrived right when they opened, we were able to pick our table. We
+        were served our drinks pretty quickly. The rolls took a very long time,
+        it took between 30-40 minutes to get rolls. Most of the time spent in
+        the restaurant was us sitting and waiting.
+
+        The food was really good. We had the all you can eat sushi. If I were to
+        go again, I would order all of our rolls at once so we weren’t waiting
+        for so long. We also noticed that tables who were seated after us were
+        getting their food before us. We ordered at least 20 minutes before the
+        other tables, but they were served first
+      languageCode: en
+    originalText:
+      text: >-
+        We arrived right when they opened, we were able to pick our table. We
+        were served our drinks pretty quickly. The rolls took a very long time,
+        it took between 30-40 minutes to get rolls. Most of the time spent in
+        the restaurant was us sitting and waiting.
+
+        The food was really good. We had the all you can eat sushi. If I were to
+        go again, I would order all of our rolls at once so we weren’t waiting
+        for so long. We also noticed that tables who were seated after us were
+        getting their food before us. We ordered at least 20 minutes before the
+        other tables, but they were served first
+      languageCode: en
+    authorAttribution:
+      displayName: H Vaughan
+      uri: https://www.google.com/maps/contrib/106419591189535065075/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJfdfrHwTne6JH-c3THiE4mPIod5jIm3gkozaytnsQJWjJMvw=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-02-15T17:35:19.475933Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNnc3ZiUlFBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNnc3ZiUlFBEAE!2m1!1s0x54ae4ca165b84cb3:0xcc90298979bf90c
+review_summary: >-
+  What Customers Are Saying About the Experience$$$Folks who visit this sushi
+  spot often praise the fresh flavors and variety of rolls, making it a go-to
+  for anyone craving a satisfying meal. Many appreciate the all-you-can-eat
+  deals that let you sample different favorites, with comments highlighting how
+  the food arrives with great presentation and tastes spot-on. The service comes
+  across as friendly and accommodating, especially for families or groups
+  looking for a laid-back dining vibe. While some mention occasional waits
+  during busy times, the overall consensus is that the delicious offerings and
+  welcoming feel make it well worth it for sushi enthusiasts in the
+  neighborhood. If you're on the hunt for reliable Japanese places close by,
+  this spot delivers a solid, enjoyable experience that keeps people coming
+  back.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
 good_for_sports: null
-live_music: null
+live_music: false
 menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
+outdoor_seating: false
+reservable: false
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
 serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
+serves_coffee: false
+serves_dinner: true
 serves_dessert: null
-serves_lunch: null
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

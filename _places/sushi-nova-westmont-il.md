@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Nova"
+title: Sushi Nova
 permalink: /illinois/westmont/sushi-nova.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Westmont
 seo:
-  name: "Sushi Nova"
-  type: Restaurant
-  links: null
-description: "Sushi Nova serves delicious sushi in Westmont, Illinois. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.orderonlinehub.com/sushinovawestmont_3yfpebqavrsjxn
 place_id: ChIJleMRE0xPDogRMWwWjSMKH8U
 photos:
   - name: >-
@@ -170,8 +168,97 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x880e4f4c1311e395:0xc51f0a238d166c31!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 15
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: Closed'
+    - 'Tuesday: 11:00 AM – 3:00 PM, 4:30 – 9:30 PM'
+    - 'Wednesday: 11:00 AM – 3:00 PM, 4:30 – 9:30 PM'
+    - 'Thursday: 11:00 AM – 3:00 PM, 4:30 – 9:30 PM'
+    - 'Friday: 11:00 AM – 3:00 PM, 4:30 – 10:30 PM'
+    - 'Saturday: 11:00 AM – 10:30 PM'
+    - 'Sunday: 12:00 – 9:30 PM'
+  nextCloseTime: '2025-05-04T03:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +266,53 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (630) 590-5006
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.5'
+rating_count: 447
+website: https://www.orderonlinehub.com/sushinovawestmont_3yfpebqavrsjxn
+description: >-
+  Explore Sushi Nova in Westmont, IL$$$Sushi Nova in Westmont, IL, stands out as
+  a casual destination for those seeking authentic Japanese flavors and fresh
+  sushi options in a welcoming setting. This eatery boasts an extensive menu
+  featuring a variety of Japanese dishes, including an appealing all-you-can-eat
+  selection that draws in locals and visitors looking for sushi restaurants near
+  them. With accessibility features like wheelchair-friendly parking and
+  entrances, it's designed to accommodate everyone, making it a convenient
+  choice for families or groups exploring Japanese places near me. The spot
+  maintains a moderate price range, offering great value for quality meals, and
+  operates with flexible hours to suit both lunch and dinner crowds. Its high
+  rating reflects a commitment to fresh ingredients and a comfortable
+  atmosphere, ideal for anyone craving top-rated sushi in the area.
+generative_summary: >-
+  Explore Sushi Nova in Westmont, IL$$$Sushi Nova in Westmont, IL, stands out as
+  a casual destination for those seeking authentic Japanese flavors and fresh
+  sushi options in a welcoming setting. This eatery boasts an extensive menu
+  featuring a variety of Japanese dishes, including an appealing all-you-can-eat
+  selection that draws in locals and visitors looking for sushi restaurants near
+  them. With accessibility features like wheelchair-friendly parking and
+  entrances, it's designed to accommodate everyone, making it a convenient
+  choice for families or groups exploring Japanese places near me. The spot
+  maintains a moderate price range, offering great value for quality meals, and
+  operates with flexible hours to suit both lunch and dinner crowds. Its high
+  rating reflects a commitment to fresh ingredients and a comfortable
+  atmosphere, ideal for anyone craving top-rated sushi in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Customer Feedback$$$Feedback for Sushi Nova highlights the
+  appeal of its fresh, flavorful sushi rolls and generous portions, with many
+  appreciating the all-you-can-eat deals as a fun and affordable way to try new
+  items. Diners often note the welcoming vibe and efficient service, making it a
+  go-to spot for casual meals or gatherings without any major complaints about
+  wait times. While some mention that the variety keeps things exciting, a few
+  point out that busier evenings can get a bit lively, though this adds to the
+  energetic feel. Overall, the strong ratings suggest it's a reliable choice for
+  quality Japanese fare, encouraging repeat visits for those searching for the
+  best sushi near me. If you're in the mood for something satisfying, this place
+  delivers a solid experience that keeps the positives front and center.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +338,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

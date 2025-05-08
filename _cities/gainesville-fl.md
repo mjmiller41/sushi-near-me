@@ -5,4 +5,5 @@ permalink: /florida/gainesville/
 stateAbbr: FL
 stateName: Florida
 cityName: Gainesville
+
 ---

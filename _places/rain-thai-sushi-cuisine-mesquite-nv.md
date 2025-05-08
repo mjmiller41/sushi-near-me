@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Rain Thai Sushi Cuisine"
+title: Rain Thai Sushi Cuisine
 permalink: /nevada/mesquite/rain-thai-sushi-cuisine.html
 stateAbbr: NV
 stateName: Nevada
 cityName: Mesquite
 seo:
-  name: "Rain Thai Sushi Cuisine"
-  type: Restaurant
+  type: restaurant
   links: http://www.rainthaimesquite.com/
-description: "Rain Thai Sushi Cuisine serves delicious sushi in Mesquite, Nevada. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJr98wmZwryoARRaITDRzzNe0
 photos:
   - name: >-
@@ -170,7 +168,97 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80ca2b9c9930dfaf:0xed35f31c0d13a245!10e5
 primary_type: Asian Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 1
+        hour: 16
+        minute: 0
+      close:
+        day: 1
+        hour: 20
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 15
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 0
+      close:
+        day: 5
+        hour: 20
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 15
+        minute: 0
+    - open:
+        day: 6
+        hour: 16
+        minute: 0
+      close:
+        day: 6
+        hour: 20
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 4:00 – 8:00 PM'
     - 'Tuesday: 11:00 AM – 3:00 PM, 4:00 – 8:00 PM'
     - 'Wednesday: 11:00 AM – 3:00 PM, 4:00 – 8:00 PM'
@@ -178,14 +266,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 3:00 PM, 4:00 – 8:00 PM'
     - 'Saturday: 11:00 AM – 3:00 PM, 4:00 – 8:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 4:00 – 8:00 PM'
-    - 'Tuesday: 11:00 AM – 3:00 PM, 4:00 – 8:00 PM'
-    - 'Wednesday: 11:00 AM – 3:00 PM, 4:00 – 8:00 PM'
-    - 'Thursday: 11:00 AM – 3:00 PM, 4:00 – 8:00 PM'
-    - 'Friday: 11:00 AM – 3:00 PM, 4:00 – 8:00 PM'
-    - 'Saturday: 11:00 AM – 3:00 PM, 4:00 – 8:00 PM'
-    - 'Sunday: Closed'
+  nextOpenTime: '2025-05-03T23:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +278,235 @@ phone: (702) 849-0594
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.5'
-rating_count: 0
+rating_count: 276
 website: http://www.rainthaimesquite.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Rain Thai Sushi Cuisine in Mesquite, NV$$$Rain Thai Sushi Cuisine in
+  Mesquite, NV, is a welcoming spot where Thai specialties blend seamlessly with
+  fresh sushi and Japanese favorites, creating a relaxed dining experience for
+  those seeking flavorful Asian cuisine. The eatery boasts an easygoing
+  atmosphere with thoughtful touches like wheelchair-accessible features and a
+  clean, inviting interior that enhances every meal. Diners can enjoy a variety
+  of dishes that highlight authentic flavors, from aromatic curries to artfully
+  prepared rolls, making it a go-to choice for local sushi enthusiasts. With
+  options for both lunch and dinner, including vegetarian selections, this spot
+  caters to a range of tastes while offering moderate pricing and convenient
+  parking. Whether you're in the mood for a quick bite or a leisurely outing,
+  it's an ideal destination for exploring top-rated Asian flavors right in your
+  neighborhood.
+generative_summary: >-
+  Discover Rain Thai Sushi Cuisine in Mesquite, NV$$$Rain Thai Sushi Cuisine in
+  Mesquite, NV, is a welcoming spot where Thai specialties blend seamlessly with
+  fresh sushi and Japanese favorites, creating a relaxed dining experience for
+  those seeking flavorful Asian cuisine. The eatery boasts an easygoing
+  atmosphere with thoughtful touches like wheelchair-accessible features and a
+  clean, inviting interior that enhances every meal. Diners can enjoy a variety
+  of dishes that highlight authentic flavors, from aromatic curries to artfully
+  prepared rolls, making it a go-to choice for local sushi enthusiasts. With
+  options for both lunch and dinner, including vegetarian selections, this spot
+  caters to a range of tastes while offering moderate pricing and convenient
+  parking. Whether you're in the mood for a quick bite or a leisurely outing,
+  it's an ideal destination for exploring top-rated Asian flavors right in your
+  neighborhood.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJr98wmZwryoARRaITDRzzNe0/reviews/ChZDSUhNMG9nS0VJQ0FnTUNvNllIZ2N3EAE
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        Tried Rain Thai for the first time tonight for dinner, used delivery.
+        Now, Thai food is expensive as it is, but this place was well worth it.
+        We got the chicken dumplings, she got the chow mein and I tried Pad Se
+        Ew for the first time ever. The spice level was perfect, the quality and
+        portions were spot on. And the driver was very friendly and thankful.
+        Definitely keeping them as my go-to for Thai! Along with the other 2
+        places in town.
+      languageCode: en
+    originalText:
+      text: >-
+        Tried Rain Thai for the first time tonight for dinner, used delivery.
+        Now, Thai food is expensive as it is, but this place was well worth it.
+        We got the chicken dumplings, she got the chow mein and I tried Pad Se
+        Ew for the first time ever. The spice level was perfect, the quality and
+        portions were spot on. And the driver was very friendly and thankful.
+        Definitely keeping them as my go-to for Thai! Along with the other 2
+        places in town.
+      languageCode: en
+    authorAttribution:
+      displayName: Chef Dee (ChefDee)
+      uri: https://www.google.com/maps/contrib/111526558216641783068/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWqP50dNTg_2eyiR7u_gVaUxnmtfHBGhnz0yCgTPBYjmfN91-Tn=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-18T06:55:12.972986Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNvNllIZ2N3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNvNllIZ2N3EAE!2m1!1s0x80ca2b9c9930dfaf:0xed35f31c0d13a245
+  - name: >-
+      places/ChIJr98wmZwryoARRaITDRzzNe0/reviews/ChZDSUhNMG9nS0VJQ0FnSUNIZ2ZqUUZBEAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        This was a great dining experience! The atmosphere was clean and open
+        with plenty of beautiful things to look at! The food was fresh and
+        delicious! The house salad dressing is so yummy! And you and make
+        basically anything be vegan or vegetarian! The service was fantastic!
+        Very kind and attentive! Great place to eat! 10/10 recommend 🔥🔥💯
+      languageCode: en
+    originalText:
+      text: >-
+        This was a great dining experience! The atmosphere was clean and open
+        with plenty of beautiful things to look at! The food was fresh and
+        delicious! The house salad dressing is so yummy! And you and make
+        basically anything be vegan or vegetarian! The service was fantastic!
+        Very kind and attentive! Great place to eat! 10/10 recommend 🔥🔥💯
+      languageCode: en
+    authorAttribution:
+      displayName: candy c
+      uri: https://www.google.com/maps/contrib/110797324237075135836/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUqY-ZLXXAIFPn2n9vcuNvpeWiK_mC1azfZUJ4nejuECoz2AB00eQ=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-12-05T00:38:13.959332Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNIZ2ZqUUZBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNIZ2ZqUUZBEAE!2m1!1s0x80ca2b9c9930dfaf:0xed35f31c0d13a245
+  - name: >-
+      places/ChIJr98wmZwryoARRaITDRzzNe0/reviews/ChZDSUhNMG9nS0VJQ0FnSUNmZ2VMU2JBEAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        Good sushi, great atmosphere and excellent staff. The interior has been
+        transformed from a boring box restaurant to an amazing experience!
+      languageCode: en
+    originalText:
+      text: >-
+        Good sushi, great atmosphere and excellent staff. The interior has been
+        transformed from a boring box restaurant to an amazing experience!
+      languageCode: en
+    authorAttribution:
+      displayName: Sean “IntoForever” Myers
+      uri: https://www.google.com/maps/contrib/116403429445733278954/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUNKSrXd3Px43QIG3WKU4ZALEaPS_0NdcfmonGbBg1p5zjFLhDv=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-12-29T16:05:53.282374Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNmZ2VMU2JBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNmZ2VMU2JBEAE!2m1!1s0x80ca2b9c9930dfaf:0xed35f31c0d13a245
+  - name: >-
+      places/ChIJr98wmZwryoARRaITDRzzNe0/reviews/ChZDSUhNMG9nS0VJQ0FnSURGNEotNVRREAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        I love the Thai/Japanese cuisine.  Their good is incredible.  Hits you
+        with so many varieties and ingredients.  Thai Spice, herbs, onions,
+        peppers, and all kinds of noodle variations.  Their service is amazing. 
+        And the little waterfall in the front is amazing to hear.  Their special
+        menu are incredible.  The Khoa Sui Soup 🍲 is the best thing I've eaten
+        in a long time.  The Thai salad is incredible and goes well with an Thai
+        Iced Tea.  Enjoy.
+      languageCode: en
+    originalText:
+      text: >-
+        I love the Thai/Japanese cuisine.  Their good is incredible.  Hits you
+        with so many varieties and ingredients.  Thai Spice, herbs, onions,
+        peppers, and all kinds of noodle variations.  Their service is amazing. 
+        And the little waterfall in the front is amazing to hear.  Their special
+        menu are incredible.  The Khoa Sui Soup 🍲 is the best thing I've eaten
+        in a long time.  The Thai salad is incredible and goes well with an Thai
+        Iced Tea.  Enjoy.
+      languageCode: en
+    authorAttribution:
+      displayName: Daniel Joyce
+      uri: https://www.google.com/maps/contrib/106816681842266671180/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjU_Y2tAXjfMW0-ntS53exEB6zs-LirXXGujx1PZW7MRoQLjjIA7nw=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2023-11-03T21:46:32.212724Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURGNEotNVRREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURGNEotNVRREAE!2m1!1s0x80ca2b9c9930dfaf:0xed35f31c0d13a245
+  - name: >-
+      places/ChIJr98wmZwryoARRaITDRzzNe0/reviews/ChdDSUhNMG9nS0VJQ0FnSUREaU95bS1BRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        Upon moving to Mesquite we were pleasantly surprised to find a
+        restaurant with terrific sushi/Thai/Japanese.  Rain is consistently
+        great and the staff is fantastic. We are FREQUENT customers and they are
+        always happy to see us.  Try them...you will not be disappointed.
+      languageCode: en
+    originalText:
+      text: >-
+        Upon moving to Mesquite we were pleasantly surprised to find a
+        restaurant with terrific sushi/Thai/Japanese.  Rain is consistently
+        great and the staff is fantastic. We are FREQUENT customers and they are
+        always happy to see us.  Try them...you will not be disappointed.
+      languageCode: en
+    authorAttribution:
+      displayName: Charlie Houmes
+      uri: https://www.google.com/maps/contrib/108002432270737365944/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVpUecE01dEjqWjPfbnWJ-OyMGTkrPe4Iu9bf8375ISlVOYNG0C=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-04-04T20:57:33.587142Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUREaU95bS1BRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUREaU95bS1BRRAB!2m1!1s0x80ca2b9c9930dfaf:0xed35f31c0d13a245
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this local sushi spot often rave about
+  the delicious and fresh dishes, like the flavorful Thai entrees and
+  well-crafted rolls that hit the spot every time. Many appreciate the friendly
+  and attentive service that makes dining out feel welcoming and efficient,
+  along with the clean and beautifully decorated space that adds to the overall
+  enjoyment. Folks highlight the generous portions and reasonable prices, making
+  it a solid pick for both casual meals and group gatherings without breaking
+  the bank. While some note the variety of options for vegetarians and the
+  overall value, the consistent praise for the quality of food keeps the vibe
+  upbeat and satisfying. Overall, it's a reliable choice for anyone craving
+  authentic Asian flavors, with feedback leaning positive on the experience from
+  start to finish.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
 menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: true
+serves_brunch: true
 serves_cocktails: null
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

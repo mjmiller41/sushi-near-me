@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Ai"
+title: Sushi Ai
 permalink: /missouri/clayton/sushi-ai.html
 stateAbbr: MO
 stateName: Missouri
 cityName: Clayton
 seo:
-  name: "Sushi Ai"
-  type: Restaurant
-  links: null
-description: "Sushi Ai serves delicious sushi in Clayton, Missouri. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.toasttab.com/sushiaiclayton
 place_id: ChIJx98ckirL2IcRYLudQZ8DQvI
 photos:
   - name: >-
@@ -170,22 +168,191 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x87d8cb2a921cdfc7:0xf242039f419dbb60!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 10
+        minute: 30
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 10
+        minute: 30
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 10
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 10
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 10
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 10:30 AM – 10:00 PM'
+    - 'Tuesday: 10:30 AM – 10:00 PM'
+    - 'Wednesday: 10:30 AM – 10:00 PM'
+    - 'Thursday: 10:30 AM – 10:00 PM'
+    - 'Friday: 10:30 AM – 10:30 PM'
+    - 'Saturday: 11:00 AM – 10:30 PM'
+    - 'Sunday: 11:00 AM – 10:00 PM'
+  nextCloseTime: '2025-05-04T03:30:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 11
+          minute: 0
+        close:
+          day: 0
+          hour: 21
+          minute: 30
+      - open:
+          day: 1
+          hour: 10
+          minute: 30
+        close:
+          day: 1
+          hour: 21
+          minute: 30
+      - open:
+          day: 2
+          hour: 10
+          minute: 30
+        close:
+          day: 2
+          hour: 21
+          minute: 30
+      - open:
+          day: 3
+          hour: 10
+          minute: 30
+        close:
+          day: 3
+          hour: 21
+          minute: 30
+      - open:
+          day: 4
+          hour: 10
+          minute: 30
+        close:
+          day: 4
+          hour: 21
+          minute: 30
+      - open:
+          day: 5
+          hour: 10
+          minute: 30
+        close:
+          day: 5
+          hour: 22
+          minute: 0
+      - open:
+          day: 6
+          hour: 11
+          minute: 0
+        close:
+          day: 6
+          hour: 22
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 10:30 AM – 9:30 PM'
+      - 'Tuesday: 10:30 AM – 9:30 PM'
+      - 'Wednesday: 10:30 AM – 9:30 PM'
+      - 'Thursday: 10:30 AM – 9:30 PM'
+      - 'Friday: 10:30 AM – 10:00 PM'
+      - 'Saturday: 11:00 AM – 10:00 PM'
+      - 'Sunday: 11:00 AM – 9:30 PM'
+    secondaryHoursType: TAKEOUT
+    nextCloseTime: '2025-05-04T03:00:00Z'
+phone: (314) 727-1168
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.5'
+rating_count: 1306
+website: https://www.toasttab.com/sushiaiclayton
+description: >-
+  Discover Sushi Ai in Clayton, Missouri$$$Sushi Ai in Clayton, Missouri, stands
+  out as a welcoming spot for enjoying authentic Japanese flavors, featuring an
+  all-you-can-eat selection of fresh rolls and classic dishes that highlight the
+  art of sushi-making. This casual eatery offers a comfortable atmosphere with
+  accessibility features like wheelchair-friendly entrances and seating, making
+  it easy for everyone to savor the experience. Visitors can indulge in a
+  variety of sushi options that cater to different tastes, from traditional
+  favorites to creative combinations, all prepared with high-quality
+  ingredients. The restaurant's convenient hours, including evenings and
+  weekends, make it a go-to choice for those searching for reliable sushi places
+  near me. Whether you're in the mood for a quick meal or a relaxed dining
+  outing, Sushi Ai delivers a satisfying blend of taste and value in the heart
+  of the area.
+generative_summary: >-
+  Discover Sushi Ai in Clayton, Missouri$$$Sushi Ai in Clayton, Missouri, stands
+  out as a welcoming spot for enjoying authentic Japanese flavors, featuring an
+  all-you-can-eat selection of fresh rolls and classic dishes that highlight the
+  art of sushi-making. This casual eatery offers a comfortable atmosphere with
+  accessibility features like wheelchair-friendly entrances and seating, making
+  it easy for everyone to savor the experience. Visitors can indulge in a
+  variety of sushi options that cater to different tastes, from traditional
+  favorites to creative combinations, all prepared with high-quality
+  ingredients. The restaurant's convenient hours, including evenings and
+  weekends, make it a go-to choice for those searching for reliable sushi places
+  near me. Whether you're in the mood for a quick meal or a relaxed dining
+  outing, Sushi Ai delivers a satisfying blend of taste and value in the heart
+  of the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What People Are Buzzing About$$$Folks chatting about Sushi Ai often rave about
+  the fresh, flavorful sushi rolls that make it a standout pick for anyone
+  craving top-rated options nearby, with many highlighting the generous portions
+  and variety on offer. Customers frequently note the welcoming vibe and
+  efficient service, which add to the overall enjoyment without any major
+  hiccups mentioned. While some mention waits during peak times, the general
+  consensus leans positive, praising the spot for its affordability and solid
+  execution of Japanese classics. If you're on the hunt for sushi restaurants
+  close to you, this place gets nods for its consistent quality that keeps
+  diners coming back. All in all, it's a reliable choice that delivers a
+  pleasant experience, making it worth checking out for a casual meal.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +378,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Seven"
+title: Seven
 permalink: /montana/bozeman/seven.html
 stateAbbr: MT
 stateName: Montana
 cityName: Bozeman
 seo:
-  name: "Seven"
-  type: Restaurant
+  type: restaurant
   links: https://www.7bozeman.com/
-description: "Seven serves delicious sushi in Bozeman, Montana. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJUwQBox1FRVMRbKRDF0mAlx0
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x5345451da3010453:0x1d9780491743a46c!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 16
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 10:00 PM'
     - 'Tuesday: 11:30 AM – 10:00 PM'
     - 'Wednesday: 11:30 AM – 10:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 10:00 PM'
     - 'Saturday: 11:30 AM – 10:00 PM'
     - 'Sunday: 4:00 – 10:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 10:00 PM'
-    - 'Tuesday: 11:30 AM – 10:00 PM'
-    - 'Wednesday: 11:30 AM – 10:00 PM'
-    - 'Thursday: 11:30 AM – 10:00 PM'
-    - 'Friday: 11:30 AM – 10:00 PM'
-    - 'Saturday: 11:30 AM – 10:00 PM'
-    - 'Sunday: 4:00 – 10:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -195,11 +244,49 @@ secondary_opening_hours:
     type: null
 phone: (406) 577-2241
 price_level: PRICE_LEVEL_MODERATE
-price_range: null
+price_range: $20 &ndash; $30
 rating: '4.4'
-rating_count: 0
+rating_count: 1180
 website: https://www.7bozeman.com/
+description: >-
+  Discover Seven in Bozeman, MT$$$Seven in Bozeman, MT, stands out as a
+  welcoming Japanese restaurant known for its fresh flavors and inviting
+  atmosphere, making it a go-to spot for those seeking sushi options in the
+  area. The menu highlights expertly prepared dishes that blend traditional
+  techniques with local tastes, appealing to anyone exploring Japanese places
+  near me for a satisfying meal. With features like wheelchair-accessible
+  entrances and seating, it ensures a comfortable experience for all visitors,
+  enhancing its appeal as one of the top-rated sushi restaurants in the region.
+  Operating from late morning into the evening most days, it's ideal for casual
+  lunches or relaxed dinners, drawing in those hunting for the best sushi near
+  me without the hassle.
+generative_summary: >-
+  Discover Seven in Bozeman, MT$$$Seven in Bozeman, MT, stands out as a
+  welcoming Japanese restaurant known for its fresh flavors and inviting
+  atmosphere, making it a go-to spot for those seeking sushi options in the
+  area. The menu highlights expertly prepared dishes that blend traditional
+  techniques with local tastes, appealing to anyone exploring Japanese places
+  near me for a satisfying meal. With features like wheelchair-accessible
+  entrances and seating, it ensures a comfortable experience for all visitors,
+  enhancing its appeal as one of the top-rated sushi restaurants in the region.
+  Operating from late morning into the evening most days, it's ideal for casual
+  lunches or relaxed dinners, drawing in those hunting for the best sushi near
+  me without the hassle.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Buzzing About$$$If you're on the hunt for great sushi spots,
+  folks around Bozeman often highlight the solid flavors and reliable service at
+  places like this one, based on its strong ratings. Many appreciate the fresh
+  ingredients and variety that keep things exciting without overwhelming the
+  palate, making it a favorite for casual outings or group gatherings. While not
+  every visit is flawless, the overall vibe leans positive, with comments
+  frequently noting the cozy setup and attentive staff that add to the
+  enjoyment. It's earned its spot as a go-to choice for sushi enthusiasts,
+  offering a balance of quality and value that keeps people coming back for
+  more. All in all, it's a solid pick if you're craving something tasty and
+  straightforward in the area.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +312,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

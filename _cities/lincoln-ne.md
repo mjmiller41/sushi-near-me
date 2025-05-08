@@ -5,4 +5,5 @@ permalink: /nebraska/lincoln/
 stateAbbr: NE
 stateName: Nebraska
 cityName: Lincoln
+
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Shiso"
+title: Shiso
 permalink: /new-york/new-york/shiso.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "Shiso"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Shiso serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for, and dinner."
 place_id: ChIJf34uKvxZwokREkMqa6NpYTE
 photos:
   - name: >-
@@ -182,6 +180,33 @@ price_range: $50 &ndash; $100
 rating: '4.6'
 rating_count: 0
 website: null
+description: >-
+  Discover Shiso in New York, NY$$$Shiso in New York, NY, stands out as a
+  refined sushi destination, offering an intimate omakase experience that
+  highlights fresh, high-quality ingredients in a cozy setting. This fine dining
+  restaurant delivers a multi-course menu with expertly prepared fish and
+  creative flavors, making it a go-to spot for those seeking authentic
+  Japanese-inspired cuisine without breaking the bank. The ambiance combines
+  subtle elegance with a focus on seasonal selections, providing a memorable
+  meal that balances tradition and innovation. Whether you're exploring top
+  sushi options in the city, Shiso captures the essence of Japanese places near
+  you with its attention to detail and satisfying portions. Its operational
+  status ensures a reliable choice for diners looking for quality sushi
+  restaurants in a vibrant urban environment.
+generative_summary: >-
+  Discover Shiso in New York, NY$$$Shiso in New York, NY, stands out as a
+  refined sushi destination, offering an intimate omakase experience that
+  highlights fresh, high-quality ingredients in a cozy setting. This fine dining
+  restaurant delivers a multi-course menu with expertly prepared fish and
+  creative flavors, making it a go-to spot for those seeking authentic
+  Japanese-inspired cuisine without breaking the bank. The ambiance combines
+  subtle elegance with a focus on seasonal selections, providing a memorable
+  meal that balances tradition and innovation. Whether you're exploring top
+  sushi options in the city, Shiso captures the essence of Japanese places near
+  you with its attention to detail and satisfying portions. Its operational
+  status ensures a reliable choice for diners looking for quality sushi
+  restaurants in a vibrant urban environment.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJf34uKvxZwokREkMqa6NpYTE/reviews/ChZDSUhNMG9nS0VJQ0FnSURibGEzWkRnEAE
@@ -477,6 +502,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR6OU9IZ1pBEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR6OU9IZ1pBEAE!2m1!1s0x89c259fc2a2e7e7f:0x316169a36b2a4312
+review_summary: >-
+  What Visitors Are Sharing$$$Folks often rave about the fresh fish and great
+  value at this spot, with many highlighting the flavorful omakase courses that
+  leave you feeling just right after a satisfying meal. While some mention
+  occasional waits or warmer presentations that could use a tweak, the overall
+  vibe keeps things enjoyable and worth the visit for sushi lovers. It's clear
+  that the affordable pricing and variety of dishes make it a solid pick for
+  anyone hunting for best sushi near me, drawing praise for its generous
+  portions and tasty highlights like premium fish. That said, a few diners note
+  that service can vary, but the positives far outweigh the minor hiccups,
+  keeping the experience upbeat and approachable. If you're in the mood for
+  top-rated sushi places near you, this one delivers a mostly delightful outing
+  with room for the occasional improvement.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
 payment_options:
@@ -507,7 +546,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: true
 takeout: false
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

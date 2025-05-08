@@ -5,4 +5,5 @@ permalink: /maine/brunswick/
 stateAbbr: ME
 stateName: Maine
 cityName: Brunswick
+
 ---

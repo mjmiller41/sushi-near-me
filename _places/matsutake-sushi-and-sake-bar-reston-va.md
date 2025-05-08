@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Matsutake Sushi and Sake Bar"
+title: Matsutake Sushi and Sake Bar
 permalink: /virginia/reston/matsutake-sushi-and-sake-bar.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Reston
 seo:
-  name: "Matsutake Sushi and Sake Bar"
-  type: Restaurant
+  type: restaurant
   links: http://www.matsutakesushi.com/
-description: "Matsutake Sushi and Sake Bar serves delicious sushi in Reston, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJr06TTR43tokRCdtuyrw4tuA
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $30 &ndash; $50
 rating: '4.4'
 rating_count: 0
 website: http://www.matsutakesushi.com/
+description: >-
+  Discover Matsutake Sushi in Reston, Virginia$$$Matsutake Sushi and Sake Bar in
+  Reston, Virginia, provides a welcoming spot for enjoying authentic Japanese
+  flavors in a casual setting. This sushi restaurant features a menu with fresh
+  Japanese dishes like gyoza and miso soup, complemented by a selection of beer
+  and wine to enhance the dining experience. The venue stands out for its
+  accessibility options, including wheelchair-friendly entrances and seating,
+  making it easy for everyone to savor top-rated sushi options nearby. With a
+  moderate price range, it's an ideal choice for those seeking quality Japanese
+  cuisine without breaking the bank, offering a cozy atmosphere that appeals to
+  sushi enthusiasts exploring local eateries.
+generative_summary: >-
+  Discover Matsutake Sushi in Reston, Virginia$$$Matsutake Sushi and Sake Bar in
+  Reston, Virginia, provides a welcoming spot for enjoying authentic Japanese
+  flavors in a casual setting. This sushi restaurant features a menu with fresh
+  Japanese dishes like gyoza and miso soup, complemented by a selection of beer
+  and wine to enhance the dining experience. The venue stands out for its
+  accessibility options, including wheelchair-friendly entrances and seating,
+  making it easy for everyone to savor top-rated sushi options nearby. With a
+  moderate price range, it's an ideal choice for those seeking quality Japanese
+  cuisine without breaking the bank, offering a cozy atmosphere that appeals to
+  sushi enthusiasts exploring local eateries.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJr06TTR43tokRCdtuyrw4tuA/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3NzZEQWtnRRAB
@@ -406,6 +427,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUR3a2FQVlVnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUR3a2FQVlVnEAE!2m1!1s0x89b6371e4d934eaf:0xe0b638bcca6edb09
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this sushi spot often rave about the
+  fresh and flavorful dishes, with many highlighting the generous portions and
+  high-quality ingredients that make meals memorable. Folks appreciate the cozy
+  vibe and efficient service, which add to the overall enjoyable experience,
+  even during busy times. While the focus is on standout sushi and sake
+  selections, some note that other items like ramen might not shine as brightly,
+  but the positives far outweigh any minor drawbacks. Overall, diners find it a
+  reliable go-to for casual Japanese dining, praising its value and welcoming
+  feel that keeps them coming back for more. If you're hunting for great sushi
+  places near you, this location consistently delivers a satisfying outing with
+  a positive, community-oriented touch.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -437,7 +471,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

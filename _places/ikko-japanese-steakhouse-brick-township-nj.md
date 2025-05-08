@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ikko Japanese Steakhouse"
+title: Ikko Japanese Steakhouse
 permalink: /new-jersey/brick-township/ikko-japanese-steakhouse.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Brick Township
 seo:
-  name: "Ikko Japanese Steakhouse"
-  type: Restaurant
+  type: restaurant
   links: http://www.ikkosteakhouse.com/
-description: "Japanese fixture with hibachi chefs grilling tabletop & a sushi menu with specialty rolls. Ikko Japanese Steakhouse serves delicious sushi in Brick Township, New Jersey. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJUcdtlnaDwYkRnIBpqoeOC0k
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 0
 website: http://www.ikkosteakhouse.com/
+description: >-
+  Discover Ikko Japanese Steakhouse in Brick Township, NJ$$$Ikko Japanese
+  Steakhouse in Brick Township, NJ, offers a casual and inviting atmosphere
+  perfect for enjoying authentic Japanese cuisine, including fresh sushi and
+  expertly prepared hibachi dishes. This family-friendly spot combines elegant
+  surroundings with a menu featuring specialty rolls and grilled fare that
+  appeals to those searching for top-rated sushi options nearby. With thoughtful
+  accessibility features and ample portions, it's an ideal choice for groups or
+  families looking for a satisfying meal without the fuss. The restaurant's
+  focus on quality ingredients and vibrant presentation makes it a standout
+  destination for anyone exploring Japanese places near me, blending tradition
+  with a welcoming vibe that encourages repeat visits.
+generative_summary: >-
+  Discover Ikko Japanese Steakhouse in Brick Township, NJ$$$Ikko Japanese
+  Steakhouse in Brick Township, NJ, offers a casual and inviting atmosphere
+  perfect for enjoying authentic Japanese cuisine, including fresh sushi and
+  expertly prepared hibachi dishes. This family-friendly spot combines elegant
+  surroundings with a menu featuring specialty rolls and grilled fare that
+  appeals to those searching for top-rated sushi options nearby. With thoughtful
+  accessibility features and ample portions, it's an ideal choice for groups or
+  families looking for a satisfying meal without the fuss. The restaurant's
+  focus on quality ingredients and vibrant presentation makes it a standout
+  destination for anyone exploring Japanese places near me, blending tradition
+  with a welcoming vibe that encourages repeat visits.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJUcdtlnaDwYkRnIBpqoeOC0k/reviews/ChdDSUhNMG9nS0VJQ0FnSURQM2YtNmdRRRAB
@@ -344,6 +367,21 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNoN1p2cktnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNoN1p2cktnEAE!2m1!1s0x89c18376966dc751:0x490b8e87aa69809c
+review_summary: >-
+  Insights from Recent Feedback on This Sushi Favorite$$$Visitors often rave
+  about the generous portions and flavorful hibachi meals at this spot,
+  highlighting how the mix of fresh sushi, veggies, and grilled options leaves
+  everyone feeling satisfied and ready for seconds. Many appreciate the lively
+  atmosphere and efficient service that make dining out a fun, hassle-free
+  experience, especially for families or groups. While some note that the
+  seasoning can sometimes overpower the dishes and suggest lighter touches for a
+  more balanced taste, the overall vibe remains upbeat with plenty of praise for
+  the entertaining prep and value for the price. Folks frequently mention it's a
+  go-to for tasty sushi close to me, with the added bonus of quick service and
+  extras like soup and salad that round out the meal nicely. All in all, it's a
+  solid pick for anyone craving reliable Japanese eats, as long as you come in
+  with an appetite for adventure.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -376,8 +414,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Japanese fixture with hibachi chefs grilling tabletop & a sushi menu with
   specialty rolls.
 

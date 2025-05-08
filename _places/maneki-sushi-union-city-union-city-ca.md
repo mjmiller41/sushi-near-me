@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Maneki Sushi Union City"
+title: Maneki Sushi Union City
 permalink: /california/union-city/maneki-sushi-union-city.html
 stateAbbr: CA
 stateName: California
 cityName: Union City
 seo:
-  name: "Maneki Sushi Union City"
-  type: Restaurant
+  type: restaurant
   links: http://www.emaneki.com/
-description: "Maneki Sushi Union City serves delicious sushi in Union City, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJq4HKHuiVj4ARfpcADKdGszU
 photos:
   - name: >-
@@ -170,7 +168,113 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x808f95e81eca81ab:0x35b346a70c00977e!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 14
+        minute: 0
+    - open:
+        day: 0
+        hour: 16
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 14
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 15
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 2:00 PM, 4:00 – 9:00 PM'
     - 'Tuesday: 11:30 AM – 2:00 PM, 4:00 – 9:00 PM'
     - 'Wednesday: 11:30 AM – 2:00 PM, 4:00 – 9:00 PM'
@@ -178,14 +282,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 2:00 PM, 4:00 – 9:00 PM'
     - 'Saturday: 3:00 – 9:00 PM'
     - 'Sunday: 11:30 AM – 2:00 PM, 4:00 – 9:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 2:00 PM, 4:00 – 9:00 PM'
-    - 'Tuesday: 11:30 AM – 2:00 PM, 4:00 – 9:00 PM'
-    - 'Wednesday: 11:30 AM – 2:00 PM, 4:00 – 9:00 PM'
-    - 'Thursday: 11:30 AM – 2:00 PM, 4:00 – 9:00 PM'
-    - 'Friday: 11:30 AM – 2:00 PM, 4:00 – 9:00 PM'
-    - 'Saturday: 3:00 – 9:00 PM'
-    - 'Sunday: 11:30 AM – 2:00 PM, 4:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +294,221 @@ phone: (510) 489-1077
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.1'
-rating_count: 0
+rating_count: 272
 website: http://www.emaneki.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Explore Maneki Sushi in Union City, CA$$$Maneki Sushi Union City in Union
+  City, CA, offers a welcoming atmosphere with a touch of Japanese art deco
+  charm, making it a cozy spot for enjoying fresh sushi and traditional dishes.
+  The restaurant features an array of options including teriyaki plates and
+  bento boxes, ideal for those seeking authentic Japanese flavors in a relaxed
+  setting. With wheelchair-accessible features and convenient hours that include
+  lunch and dinner service, it's designed to accommodate various needs for a
+  comfortable dining experience. Patrons can also appreciate the variety of
+  Japanese cuisine available, from hearty entrees to lighter fare, making it a
+  solid choice for anyone craving sushi options nearby.
+generative_summary: >-
+  Explore Maneki Sushi in Union City, CA$$$Maneki Sushi Union City in Union
+  City, CA, offers a welcoming atmosphere with a touch of Japanese art deco
+  charm, making it a cozy spot for enjoying fresh sushi and traditional dishes.
+  The restaurant features an array of options including teriyaki plates and
+  bento boxes, ideal for those seeking authentic Japanese flavors in a relaxed
+  setting. With wheelchair-accessible features and convenient hours that include
+  lunch and dinner service, it's designed to accommodate various needs for a
+  comfortable dining experience. Patrons can also appreciate the variety of
+  Japanese cuisine available, from hearty entrees to lighter fare, making it a
+  solid choice for anyone craving sushi options nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJq4HKHuiVj4ARfpcADKdGszU/reviews/ChZDSUhNMG9nS0VJQ0FnSUNsbXNITGZ3EAE
+    relativePublishTimeDescription: a year ago
+    rating: 4
+    text:
+      text: >-
+        I got take out here. They have a very large section of rolls and sushi
+        here. I got the Flying Ninja and the Dragon rolls. Both said they were
+        spicy but I didn’t taste much spice even after I dipped it in my soy
+        sauce and wasabi mix. Overall both rolls were good with tempura shrimp
+        inside. Like I’ve said there is so many options I’d like onto and try
+        different ones.
+      languageCode: en
+    originalText:
+      text: >-
+        I got take out here. They have a very large section of rolls and sushi
+        here. I got the Flying Ninja and the Dragon rolls. Both said they were
+        spicy but I didn’t taste much spice even after I dipped it in my soy
+        sauce and wasabi mix. Overall both rolls were good with tempura shrimp
+        inside. Like I’ve said there is so many options I’d like onto and try
+        different ones.
+      languageCode: en
+    authorAttribution:
+      displayName: Kevin Drost
+      uri: https://www.google.com/maps/contrib/111717227483705883688/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVHjSgc60nqsEvJkkmbwef5HJzcMttvfw3JmMA3NJjbB0U8GlSO=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2023-11-16T11:20:35.373646Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNsbXNITGZ3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNsbXNITGZ3EAE!2m1!1s0x808f95e81eca81ab:0x35b346a70c00977e
+  - name: >-
+      places/ChIJq4HKHuiVj4ARfpcADKdGszU/reviews/ChZDSUhNMG9nS0VJQ0FnSUN4dnJxdk5BEAE
+    relativePublishTimeDescription: a year ago
+    rating: 4
+    text:
+      text: >-
+        Service was great. There was one lady working there unfortunately but
+        she was very nice and quick considering she was alone. Food was good, I
+        didn't get sushi but i got the Bulgogi it was a little sweeter than I'm
+        use to but overall good experience would be going back
+      languageCode: en
+    originalText:
+      text: >-
+        Service was great. There was one lady working there unfortunately but
+        she was very nice and quick considering she was alone. Food was good, I
+        didn't get sushi but i got the Bulgogi it was a little sweeter than I'm
+        use to but overall good experience would be going back
+      languageCode: en
+    authorAttribution:
+      displayName: Brandan McGee
+      uri: https://www.google.com/maps/contrib/107342632786019999499/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJ2g5P77IE8c3TCufy6mZcTl7DrcOxqNpPDaTxRvXq8wNKjzKyI=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2023-05-18T15:16:57.525940Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN4dnJxdk5BEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN4dnJxdk5BEAE!2m1!1s0x808f95e81eca81ab:0x35b346a70c00977e
+  - name: >-
+      places/ChIJq4HKHuiVj4ARfpcADKdGszU/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRdkllN0tnEAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        We come here about once a month.  We enjoy mostly the combination
+        dinners with entree (we get Salmon Teriyaki or mackerel), mixed tempura,
+        California rolls, salad, and miso soup.  I tried the deluxe combo with
+        entree, sashimi, mixed tempura, and nigiri sushi selection.  Everything
+        was very good.  Quite a lot of food as a good value for Japanese food.
+      languageCode: en
+    originalText:
+      text: >-
+        We come here about once a month.  We enjoy mostly the combination
+        dinners with entree (we get Salmon Teriyaki or mackerel), mixed tempura,
+        California rolls, salad, and miso soup.  I tried the deluxe combo with
+        entree, sashimi, mixed tempura, and nigiri sushi selection.  Everything
+        was very good.  Quite a lot of food as a good value for Japanese food.
+      languageCode: en
+    authorAttribution:
+      displayName: Patrick Marshall
+      uri: https://www.google.com/maps/contrib/106840274579602165985/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIrXT6bzxg3237gxhEmT1TZpSuI56oh13tmE4oocO2wPaYqEQ=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-03-03T02:48:56.061656Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNRdkllN0tnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNRdkllN0tnEAE!2m1!1s0x808f95e81eca81ab:0x35b346a70c00977e
+  - name: >-
+      places/ChIJq4HKHuiVj4ARfpcADKdGszU/reviews/ChZDSUhNMG9nS0VJQ0FnSURwN2RtRk9REAE
+    relativePublishTimeDescription: a year ago
+    rating: 1
+    text:
+      text: >-
+        The ramen noodle is not authentic ramen. Its texture is like instant
+        noodle. Overall taste is worst than packaged ramen. The salad that came
+        with the ramen and udon are not fresh. The lettuces already turned
+        brownish color. The fish cake in the udon is not soft as usual. It is
+        hard and chewy. Don't know how long this fish cake has been around.
+      languageCode: en
+    originalText:
+      text: >-
+        The ramen noodle is not authentic ramen. Its texture is like instant
+        noodle. Overall taste is worst than packaged ramen. The salad that came
+        with the ramen and udon are not fresh. The lettuces already turned
+        brownish color. The fish cake in the udon is not soft as usual. It is
+        hard and chewy. Don't know how long this fish cake has been around.
+      languageCode: en
+    authorAttribution:
+      displayName: Elisa “BW” Chan
+      uri: https://www.google.com/maps/contrib/113221659161697917416/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocITRPJttS7YRLRt1JGu20b12RiR3kbGUSUL0jQn-cdcdjc6uQ=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2023-08-27T04:44:37.367756Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURwN2RtRk9REAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURwN2RtRk9REAE!2m1!1s0x808f95e81eca81ab:0x35b346a70c00977e
+  - name: >-
+      places/ChIJq4HKHuiVj4ARfpcADKdGszU/reviews/ChdDSUhNMG9nS0VJQ0FnTUNndHB2dnh3RRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 2
+    text:
+      text: >-
+        Grilled tuna was overcooked and rubbery. Disappointing considering the
+        cost.
+      languageCode: en
+    originalText:
+      text: >-
+        Grilled tuna was overcooked and rubbery. Disappointing considering the
+        cost.
+      languageCode: en
+    authorAttribution:
+      displayName: Vee
+      uri: https://www.google.com/maps/contrib/113614307104599821235/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJ5EbatRyMUK9H5vqEoQFierTKg2tCGx5Vr8w3NfeDt4rbjaQ=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-02-17T04:21:30.191024Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNndHB2dnh3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNndHB2dnh3RRAB!2m1!1s0x808f95e81eca81ab:0x35b346a70c00977e
+review_summary: >-
+  Visitor Feedback on Maneki Sushi$$$Folks generally enjoy the wide selection of
+  rolls and other Japanese dishes here, with many highlighting the tasty
+  combinations and good value for the price. While some mention that certain
+  items like spicy rolls might not pack as much heat as expected, the overall
+  experience often includes friendly service and satisfying meals that leave
+  diners coming back for more. A few comments note that entrees such as bulgogi
+  and teriyaki come across as flavorful and filling, even if not always spot-on
+  with traditional tastes. All in all, it's a go-to spot for casual eats, where
+  the positives like variety and atmosphere help make it a reliable choice for
+  sushi lovers in the area.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsCashOnly: false
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
 menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
 serves_brunch: null
-serves_cocktails: null
+serves_cocktails: false
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Cozy spot with a Japanese art deco feel serving sushi & ample plates of
+  teriyaki & traditional eats.
 
 ---

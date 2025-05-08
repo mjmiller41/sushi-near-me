@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Sakana Southlake"
+title: Sushi Sakana Southlake
 permalink: /texas/southlake/sushi-sakana-southlake.html
 stateAbbr: TX
 stateName: Texas
 cityName: Southlake
 seo:
-  name: "Sushi Sakana Southlake"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi Sakana Southlake serves delicious sushi in Southlake, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJad0RPmbVTYYRKK-BPWh9xOs
 photos:
   - name: >-
@@ -185,7 +183,47 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  About Sushi Sakana Southlake in Southlake, TX$$$Nestled in Southlake, TX,
+  Sushi Sakana Southlake offers a delightful array of fresh Japanese cuisine
+  that appeals to sushi enthusiasts seeking authentic flavors in a relaxed
+  setting. The menu features an assortment of sushi rolls, teriyaki options, and
+  other traditional dishes, making it a go-to spot for those exploring Japanese
+  places near me. With its casual atmosphere and focus on quality ingredients,
+  this eatery provides a welcoming environment for enjoying top-rated sushi
+  without the formality of upscale dining. Accessibility features like
+  wheelchair-friendly entrances and seating add to the convenience, ensuring
+  everyone can savor the experience. Whether you're searching for sushi
+  restaurants close to home or simply craving a satisfying meal, this location
+  stands out for its straightforward yet flavorful approach to Japanese fare.
+generative_summary: >-
+  About Sushi Sakana Southlake in Southlake, TX$$$Nestled in Southlake, TX,
+  Sushi Sakana Southlake offers a delightful array of fresh Japanese cuisine
+  that appeals to sushi enthusiasts seeking authentic flavors in a relaxed
+  setting. The menu features an assortment of sushi rolls, teriyaki options, and
+  other traditional dishes, making it a go-to spot for those exploring Japanese
+  places near me. With its casual atmosphere and focus on quality ingredients,
+  this eatery provides a welcoming environment for enjoying top-rated sushi
+  without the formality of upscale dining. Accessibility features like
+  wheelchair-friendly entrances and seating add to the convenience, ensuring
+  everyone can savor the experience. Whether you're searching for sushi
+  restaurants close to home or simply craving a satisfying meal, this location
+  stands out for its straightforward yet flavorful approach to Japanese fare.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Summary of Customer Feedback$$$Visitors to this Japanese spot often rave about
+  the tasty miso soup and sushi rolls that hit the spot for anyone hunting for
+  great sushi near me. Many appreciate the friendly service that makes every
+  visit feel warm and attentive, turning meals into enjoyable outings with
+  friends or family. Reviewers frequently mention the reasonable prices and cozy
+  vibe, which keep people coming back for more, including favorites like ramen
+  that balance flavors just right. Overall, the consensus leans positive,
+  highlighting it as one of the best sushi restaurants in the area for its
+  reliable quality and welcoming feel. While not every detail is perfect, the
+  general buzz keeps things upbeat, making it a solid choice for casual diners
+  looking for a hassle-free experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +249,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

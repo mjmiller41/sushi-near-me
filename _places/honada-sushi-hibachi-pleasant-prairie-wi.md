@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Honada Sushi & Hibachi"
+title: Honada Sushi & Hibachi
 permalink: /wisconsin/pleasant-prairie/honada-sushi-hibachi.html
 stateAbbr: WI
 stateName: Wisconsin
 cityName: Pleasant Prairie
 seo:
-  name: "Honada Sushi & Hibachi"
-  type: Restaurant
+  type: restaurant
   links: http://www.honadawi.com/
-description: "Intimate Japanese eatery where chefs show off at the hibachi tables & roll sushi at the bar. Honada Sushi & Hibachi serves delicious sushi in Pleasant Prairie, Wisconsin. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJW7JpZKFhBYgR_qzq54sDRpQ
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $10 &ndash; $20
 rating: '4.3'
 rating_count: 0
 website: http://www.honadawi.com/
+description: >-
+  Discover Honada Sushi & Hibachi in Pleasant Prairie, WI$$$Honada Sushi &
+  Hibachi in Pleasant Prairie, WI, stands out as a welcoming spot for fresh
+  Japanese cuisine, blending hibachi-grilled options with a variety of sushi
+  rolls in a relaxed setting. This eatery emphasizes quick service and a menu
+  that highlights flavorful grilled meats and creative sushi combinations,
+  making it a go-to choice for those seeking authentic tastes nearby.
+  Accessibility features like wheelchair-friendly entrances and parking add to
+  the convenience, ensuring a comfortable visit for everyone. The intimate
+  atmosphere invites diners to enjoy a casual meal, with options that cater to
+  groups and families looking for satisfying Japanese dishes. Whether you're
+  exploring sushi restaurants in the area or craving a quick bite, this spot
+  delivers on quality and ease.
+generative_summary: >-
+  Discover Honada Sushi & Hibachi in Pleasant Prairie, WI$$$Honada Sushi &
+  Hibachi in Pleasant Prairie, WI, stands out as a welcoming spot for fresh
+  Japanese cuisine, blending hibachi-grilled options with a variety of sushi
+  rolls in a relaxed setting. This eatery emphasizes quick service and a menu
+  that highlights flavorful grilled meats and creative sushi combinations,
+  making it a go-to choice for those seeking authentic tastes nearby.
+  Accessibility features like wheelchair-friendly entrances and parking add to
+  the convenience, ensuring a comfortable visit for everyone. The intimate
+  atmosphere invites diners to enjoy a casual meal, with options that cater to
+  groups and families looking for satisfying Japanese dishes. Whether you're
+  exploring sushi restaurants in the area or craving a quick bite, this spot
+  delivers on quality and ease.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJW7JpZKFhBYgR_qzq54sDRpQ/reviews/ChdDSUhNMG9nS0VJQ0FnSUNYcjZUb2h3RRAB
@@ -356,6 +381,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQzeGNqUFRBEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQzeGNqUFRBEAE!2m1!1s0x880561a16469b25b:0x9446038be7eaacfe
+review_summary: >-
+  What Visitors Are Buzzing About$$$Folks at this sushi spot often rave about
+  the delicious food, with highlights on the fresh sushi rolls and flavorful
+  hibachi dishes that leave a lasting impression. Many appreciate the friendly
+  service and welcoming vibe, noting that it's a great place for gatherings
+  where the staff handles things smoothly even during busy times. While some
+  mention occasional waits due to popularity, the overall experience remains
+  positive with generous portions and quick delivery of meals. Customers
+  frequently highlight the variety of options, like spicy rolls and hearty
+  soups, that make it a solid pick for anyone in the mood for Japanese flavors.
+  All in all, it's a reliable choice for tasty dining that keeps people coming
+  back for more enjoyable visits.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -389,8 +427,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Intimate Japanese eatery where chefs show off at the hibachi tables & roll
   sushi at the bar.
 

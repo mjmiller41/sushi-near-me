@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Otori Sushi"
+title: Otori Sushi
 permalink: /washington/spokane/otori-sushi.html
 stateAbbr: WA
 stateName: Washington
 cityName: Spokane
 seo:
-  name: "Otori Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Otori Sushi serves delicious sushi in Spokane, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJkc90iFMZnlQReSBkV9JlX9U
 photos:
   - name: >-
@@ -184,7 +182,42 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Otori Sushi in Spokane, WA$$$Otori Sushi in Spokane, WA, is a popular
+  spot for those craving fresh Japanese cuisine with generous servings that make
+  every meal feel abundant. This sushi restaurant delights visitors with a
+  variety of rolls and dishes, emphasizing high-quality ingredients and a
+  welcoming atmosphere that appeals to anyone seeking authentic flavors in a
+  casual setting. Accessibility features like wheelchair-friendly parking and
+  entrances ensure it's an inclusive choice for all diners, adding to its appeal
+  as a go-to option in the neighborhood. Photos of the space highlight its
+  vibrant presentation, making it an ideal destination for locals and visitors
+  alike looking for satisfying sushi experiences nearby.
+generative_summary: >-
+  Discover Otori Sushi in Spokane, WA$$$Otori Sushi in Spokane, WA, is a popular
+  spot for those craving fresh Japanese cuisine with generous servings that make
+  every meal feel abundant. This sushi restaurant delights visitors with a
+  variety of rolls and dishes, emphasizing high-quality ingredients and a
+  welcoming atmosphere that appeals to anyone seeking authentic flavors in a
+  casual setting. Accessibility features like wheelchair-friendly parking and
+  entrances ensure it's an inclusive choice for all diners, adding to its appeal
+  as a go-to option in the neighborhood. Photos of the space highlight its
+  vibrant presentation, making it an ideal destination for locals and visitors
+  alike looking for satisfying sushi experiences nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying About Otori Sushi$$$People often praise Otori Sushi
+  for its hearty portions and flavorful dishes, making it a reliable pick for
+  anyone in the mood for a fulfilling meal. Many highlight the fresh tastes and
+  variety on offer, noting how it stands out as a solid spot for casual dining
+  without the fuss. It's frequently mentioned as a great choice for groups, with
+  comments appreciating the overall vibe that keeps things relaxed and
+  enjoyable. While feedback varies, the general consensus leans positive,
+  suggesting it's worth trying for those exploring top sushi options in the
+  area. All in all, it comes across as a welcoming place that delivers on
+  expectations for tasty, no-frills Japanese fare.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +243,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

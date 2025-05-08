@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sakebomb izakaya n oyster bar"
+title: Sakebomb izakaya n oyster bar
 permalink: /california/sunnyvale/sakebomb-izakaya-n-oyster-bar.html
 stateAbbr: CA
 stateName: California
 cityName: Sunnyvale
 seo:
-  name: "Sakebomb izakaya n oyster bar"
-  type: Restaurant
+  type: restaurant
   links: http://www.sakebombsushi.net/
-description: "Sakebomb izakaya n oyster bar serves delicious sushi in Sunnyvale, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJc9rSrFS1j4ARicq8m05CKOw
 photos:
   - name: >-
@@ -170,7 +168,81 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x808fb554acd2da73:0xec28424e9bbcca89!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 14
+        minute: 0
+    - open:
+        day: 0
+        hour: 16
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 23
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 23
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 23
+        minute: 0
+    - open:
+        day: 5
+        hour: 12
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 0
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 14
+        minute: 0
+    - open:
+        day: 6
+        hour: 16
+        minute: 0
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 4:00 – 11:00 PM'
     - 'Wednesday: 4:00 – 11:00 PM'
@@ -178,54 +250,396 @@ opening_hours:
     - 'Friday: 12:00 – 2:00 PM, 4:00 – 11:00 PM'
     - 'Saturday: 12:00 – 2:00 PM, 4:00 – 11:00 PM'
     - 'Sunday: 12:00 – 2:00 PM, 4:00 – 9:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 4:00 – 11:00 PM'
-    - 'Wednesday: 4:00 – 11:00 PM'
-    - 'Thursday: 4:00 – 11:00 PM'
-    - 'Friday: 12:00 – 2:00 PM, 4:00 – 11:00 PM'
-    - 'Saturday: 12:00 – 2:00 PM, 4:00 – 11:00 PM'
-    - 'Sunday: 12:00 – 2:00 PM, 4:00 – 9:00 PM'
+  nextOpenTime: '2025-05-03T23:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: false
+    periods:
+      - open:
+          day: 2
+          hour: 16
+          minute: 0
+        close:
+          day: 2
+          hour: 18
+          minute: 0
+      - open:
+          day: 3
+          hour: 16
+          minute: 0
+        close:
+          day: 3
+          hour: 18
+          minute: 0
+      - open:
+          day: 4
+          hour: 16
+          minute: 0
+        close:
+          day: 4
+          hour: 18
+          minute: 0
+      - open:
+          day: 5
+          hour: 16
+          minute: 0
+        close:
+          day: 5
+          hour: 18
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: Closed'
+      - 'Tuesday: 4:00 – 6:00 PM'
+      - 'Wednesday: 4:00 – 6:00 PM'
+      - 'Thursday: 4:00 – 6:00 PM'
+      - 'Friday: 4:00 – 6:00 PM'
+      - 'Saturday: Closed'
+      - 'Sunday: Closed'
+    secondaryHoursType: HAPPY_HOUR
+    nextOpenTime: '2025-05-06T23:00:00Z'
+  - openNow: false
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 0
+        close:
+          day: 0
+          hour: 14
+          minute: 0
+      - open:
+          day: 5
+          hour: 12
+          minute: 0
+        close:
+          day: 5
+          hour: 14
+          minute: 0
+      - open:
+          day: 6
+          hour: 12
+          minute: 0
+        close:
+          day: 6
+          hour: 14
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: Closed'
+      - 'Tuesday: Closed'
+      - 'Wednesday: Closed'
+      - 'Thursday: Closed'
+      - 'Friday: 12:00 – 2:00 PM'
+      - 'Saturday: 12:00 – 2:00 PM'
+      - 'Sunday: 12:00 – 2:00 PM'
+    secondaryHoursType: LUNCH
+    nextOpenTime: '2025-05-04T19:00:00Z'
+  - openNow: false
+    periods:
+      - open:
+          day: 0
+          hour: 16
+          minute: 0
+        close:
+          day: 0
+          hour: 21
+          minute: 0
+      - open:
+          day: 2
+          hour: 16
+          minute: 0
+        close:
+          day: 2
+          hour: 23
+          minute: 0
+      - open:
+          day: 3
+          hour: 16
+          minute: 0
+        close:
+          day: 3
+          hour: 23
+          minute: 0
+      - open:
+          day: 4
+          hour: 16
+          minute: 0
+        close:
+          day: 4
+          hour: 23
+          minute: 0
+      - open:
+          day: 5
+          hour: 16
+          minute: 0
+        close:
+          day: 5
+          hour: 23
+          minute: 0
+      - open:
+          day: 6
+          hour: 16
+          minute: 0
+        close:
+          day: 6
+          hour: 23
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: Closed'
+      - 'Tuesday: 4:00 – 11:00 PM'
+      - 'Wednesday: 4:00 – 11:00 PM'
+      - 'Thursday: 4:00 – 11:00 PM'
+      - 'Friday: 4:00 – 11:00 PM'
+      - 'Saturday: 4:00 – 11:00 PM'
+      - 'Sunday: 4:00 – 9:00 PM'
+    secondaryHoursType: DINNER
+    nextOpenTime: '2025-05-03T23:00:00Z'
 phone: (408) 212-4123
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.1'
-rating_count: 0
+rating_count: 219
 website: http://www.sakebombsushi.net/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Sakebomb Izakaya in Sunnyvale, CA$$$Sakebomb Izakaya n Oyster Bar in
+  Sunnyvale, CA, offers a laid-back vibe perfect for enjoying fresh sushi and
+  Japanese-inspired dishes in a welcoming setting. This spot stands out with its
+  diverse selection of creative rolls, bento boxes, and a range of sake and beer
+  options, making it an ideal choice for those seeking authentic flavors in a
+  casual atmosphere. The restaurant emphasizes accessibility features like
+  wheelchair-friendly entrances and parking, ensuring everyone can enjoy the
+  experience comfortably. With its moderate pricing and thoughtful menu, it's a
+  great option for anyone exploring sushi restaurants near you looking for
+  quality and variety. Evening hours cater to dinner crowds, adding to its
+  appeal as a go-to spot for Japanese cuisine enthusiasts in the area.
+generative_summary: >-
+  Discover Sakebomb Izakaya in Sunnyvale, CA$$$Sakebomb Izakaya n Oyster Bar in
+  Sunnyvale, CA, offers a laid-back vibe perfect for enjoying fresh sushi and
+  Japanese-inspired dishes in a welcoming setting. This spot stands out with its
+  diverse selection of creative rolls, bento boxes, and a range of sake and beer
+  options, making it an ideal choice for those seeking authentic flavors in a
+  casual atmosphere. The restaurant emphasizes accessibility features like
+  wheelchair-friendly entrances and parking, ensuring everyone can enjoy the
+  experience comfortably. With its moderate pricing and thoughtful menu, it's a
+  great option for anyone exploring sushi restaurants near you looking for
+  quality and variety. Evening hours cater to dinner crowds, adding to its
+  appeal as a go-to spot for Japanese cuisine enthusiasts in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJc9rSrFS1j4ARicq8m05CKOw/reviews/ChZDSUhNMG9nS0VJQ0FnTUNvcWJ1emNREAE
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 3
+    text:
+      text: >-
+        Sexy Casanova 4/5; very delicious
+
+        Seafood Tofu Soup 1/5; terrible soondubo soup, probably the worst I’ve
+        had in the last 2 years tasteless
+
+        Queen (baked) 3/5; good for a baked roll
+
+        Golden Gate 1/5; the flavor falls flat in comparison to the other rolls
+
+
+        Server was nice and brought over our food and drinks promptly. I liked
+        the atmosphere and decoration of the place but the food was pretty hit
+        or miss. I think the quality of the fish is good overall.
+      languageCode: en
+    originalText:
+      text: >-
+        Sexy Casanova 4/5; very delicious
+
+        Seafood Tofu Soup 1/5; terrible soondubo soup, probably the worst I’ve
+        had in the last 2 years tasteless
+
+        Queen (baked) 3/5; good for a baked roll
+
+        Golden Gate 1/5; the flavor falls flat in comparison to the other rolls
+
+
+        Server was nice and brought over our food and drinks promptly. I liked
+        the atmosphere and decoration of the place but the food was pretty hit
+        or miss. I think the quality of the fish is good overall.
+      languageCode: en
+    authorAttribution:
+      displayName: Blake
+      uri: https://www.google.com/maps/contrib/108684671162149270150/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVeELrmTCv_qJa0SNVWwIdus_dVI89ju5xgWkJcIqKzY_2yZznh=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-04-18T05:44:46.987957Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNvcWJ1emNREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNvcWJ1emNREAE!2m1!1s0x808fb554acd2da73:0xec28424e9bbcca89
+  - name: >-
+      places/ChIJc9rSrFS1j4ARicq8m05CKOw/reviews/ChZDSUhNMG9nS0VJQ0FnSUNfaEpDRUJREAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        Business dinner and social with client. Noise level good for casual
+        conversation and able to set up laptops on table. After enjoying few
+        dishes cleared from table. Highly recommend for casual Business meeting.
+      languageCode: en
+    originalText:
+      text: >-
+        Business dinner and social with client. Noise level good for casual
+        conversation and able to set up laptops on table. After enjoying few
+        dishes cleared from table. Highly recommend for casual Business meeting.
+      languageCode: en
+    authorAttribution:
+      displayName: Frank Mario Castellon
+      uri: https://www.google.com/maps/contrib/100266982002311403896/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUIvljmRwSN6LVraxEw9VFf0fraaJ1IplQqzFAvfGI5REh_a5hx=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-01-12T19:54:50.758158Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNfaEpDRUJREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNfaEpDRUJREAE!2m1!1s0x808fb554acd2da73:0xec28424e9bbcca89
+  - name: >-
+      places/ChIJc9rSrFS1j4ARicq8m05CKOw/reviews/ChZDSUhNMG9nS0VJQ0FnSUMxd19tRU53EAE
+    relativePublishTimeDescription: a year ago
+    rating: 3
+    text:
+      text: >-
+        It was late getting into the hotel across the street so we gave their
+        late nite happy hour a try. I know it’s Calif but “happy hour” didn’t
+        appear to affect drink value… maybe they cut the price a little and make
+        them smaller. We tried a few 串物(grilled skewers) but were underwhelmed.
+        One staff member was really upbeat n friendly. Others were a mix. A
+        light was out over our table- see pics, kinda dark.
+      languageCode: en
+    originalText:
+      text: >-
+        It was late getting into the hotel across the street so we gave their
+        late nite happy hour a try. I know it’s Calif but “happy hour” didn’t
+        appear to affect drink value… maybe they cut the price a little and make
+        them smaller. We tried a few 串物(grilled skewers) but were underwhelmed.
+        One staff member was really upbeat n friendly. Others were a mix. A
+        light was out over our table- see pics, kinda dark.
+      languageCode: en
+    authorAttribution:
+      displayName: Joe San
+      uri: https://www.google.com/maps/contrib/109942687860600467631/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjW0x_lMfkkwy-LfVd2d7vl_6nQT5Mjkxgqe9Oq0no0vhxGKgbfD=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2024-01-02T21:13:14.853604Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUMxd19tRU53EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUMxd19tRU53EAE!2m1!1s0x808fb554acd2da73:0xec28424e9bbcca89
+  - name: >-
+      places/ChIJc9rSrFS1j4ARicq8m05CKOw/reviews/ChZDSUhNMG9nS0VJQ0FnTUNndTRXaFR3EAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        This was my second time having sushi and Boe I'm obsessed! Very good and
+        it was close to our hotel. The spicy tuna sushi was yummy along with the
+        California roll.  I also had tempura shrimp! Very yummy. It was a quiet
+        place and our servers were very nice.
+      languageCode: en
+    originalText:
+      text: >-
+        This was my second time having sushi and Boe I'm obsessed! Very good and
+        it was close to our hotel. The spicy tuna sushi was yummy along with the
+        California roll.  I also had tempura shrimp! Very yummy. It was a quiet
+        place and our servers were very nice.
+      languageCode: en
+    authorAttribution:
+      displayName: Amanda McMillin
+      uri: https://www.google.com/maps/contrib/112369895466088194424/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjX8ZZJYGrQxk8UbYqSTLi-CWANwaAOMt1YDkX42OexNZgu52eLZ=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-02-21T04:07:01.528420Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNndTRXaFR3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNndTRXaFR3EAE!2m1!1s0x808fb554acd2da73:0xec28424e9bbcca89
+  - name: >-
+      places/ChIJc9rSrFS1j4ARicq8m05CKOw/reviews/ChZDSUhNMG9nS0VJQ0FnSUNtb19tTllnEAE
+    relativePublishTimeDescription: 3 years ago
+    rating: 5
+    text:
+      text: >-
+        A pleasant atmosphere with good food. They have stuffs that they put
+        outside the roll as well. The value for money is there(considering Bay
+        Area). We tried Crazy Fire (cooked) and that was a pleasant surprise.
+        Also, tried raw one called Mango Sweet. The preparation and presentation
+        was impressive. The menu is extremely well written with details and
+        helps in making an informed choice.
+
+        Would love to visit in future. Weekend nights can be crowded and will
+        require waiting (it is popular).
+      languageCode: en
+    originalText:
+      text: >-
+        A pleasant atmosphere with good food. They have stuffs that they put
+        outside the roll as well. The value for money is there(considering Bay
+        Area). We tried Crazy Fire (cooked) and that was a pleasant surprise.
+        Also, tried raw one called Mango Sweet. The preparation and presentation
+        was impressive. The menu is extremely well written with details and
+        helps in making an informed choice.
+
+        Would love to visit in future. Weekend nights can be crowded and will
+        require waiting (it is popular).
+      languageCode: en
+    authorAttribution:
+      displayName: Amir Ahmed Asif
+      uri: https://www.google.com/maps/contrib/117597793051200825990/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVDD6LrYHpMQShFZTwm1zdKw01hDzWn_VvckpRf0adeiPr0f4rFow=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2022-01-07T20:41:05.509571Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNtb19tTllnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNtb19tTllnEAE!2m1!1s0x808fb554acd2da73:0xec28424e9bbcca89
+review_summary: >-
+  What Visitors Say About This Sushi Spot$$$Feedback from diners highlights the
+  tasty sushi rolls and friendly service that make this place a solid pick for
+  casual meals in Sunnyvale. Many appreciate the quiet ambiance, which is
+  perfect for business chats or relaxed evenings, along with options like
+  tempura and baked rolls that deliver satisfying flavors. While some dishes
+  vary in consistency, overall experiences lean positive, with folks enjoying
+  the value and presentation that enhance the dining vibe. It's often noted as a
+  welcoming choice for groups or first-timers to Japanese spots near me, thanks
+  to attentive staff and a menu that supports informed choices. If you're
+  hunting for top-rated sushi close to you, this location earns praise for its
+  approachable style and reliable hits that keep customers coming back.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
+delivery: true
+dine_in: true
 good_for_children: null
-good_for_groups: null
+good_for_groups: true
 good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+live_music: false
+menu_for_children: true
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

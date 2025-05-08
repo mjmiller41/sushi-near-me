@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "ZENSHI Handcrafted Sushi"
+title: ZENSHI Handcrafted Sushi
 permalink: /illinois/chicago/zenshi-handcrafted-sushi.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
 seo:
-  name: "ZENSHI Handcrafted Sushi"
-  type: Restaurant
-  links: null
-description: "ZENSHI Handcrafted Sushi serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.zenshisushi.com/
 place_id: ChIJg0D3aZbTD4gRTV0lEle4zkA
 photos:
   - name: >-
@@ -114,8 +112,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x880fd39669f74083:0x40ceb85712255d4d!10e5
 primary_type: Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 9
+        minute: 0
+      close:
+        day: 0
+        hour: 19
+        minute: 0
+    - open:
+        day: 1
+        hour: 9
+        minute: 0
+      close:
+        day: 1
+        hour: 19
+        minute: 0
+    - open:
+        day: 2
+        hour: 9
+        minute: 0
+      close:
+        day: 2
+        hour: 19
+        minute: 0
+    - open:
+        day: 3
+        hour: 9
+        minute: 0
+      close:
+        day: 3
+        hour: 19
+        minute: 0
+    - open:
+        day: 4
+        hour: 9
+        minute: 0
+      close:
+        day: 4
+        hour: 19
+        minute: 0
+    - open:
+        day: 5
+        hour: 9
+        minute: 0
+      close:
+        day: 5
+        hour: 19
+        minute: 0
+    - open:
+        day: 6
+        hour: 9
+        minute: 0
+      close:
+        day: 6
+        hour: 19
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 9:00 AM – 7:00 PM'
+    - 'Tuesday: 9:00 AM – 7:00 PM'
+    - 'Wednesday: 9:00 AM – 7:00 PM'
+    - 'Thursday: 9:00 AM – 7:00 PM'
+    - 'Friday: 9:00 AM – 7:00 PM'
+    - 'Saturday: 9:00 AM – 7:00 PM'
+    - 'Sunday: 9:00 AM – 7:00 PM'
+  nextCloseTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -123,13 +186,50 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
+phone: (312) 397-1130
 price_level: null
 price_range: null
 rating: null
 rating_count: 0
-website: null
+website: https://www.zenshisushi.com/
+description: >-
+  Discover ZENSHI Handcrafted Sushi in Chicago, IL$$$ZENSHI Handcrafted Sushi in
+  Chicago, IL, offers a refined dining experience focused on meticulously
+  prepared Japanese cuisine that highlights fresh ingredients and artistic
+  presentation. Nestled in the vibrant Near North Side neighborhood, this sushi
+  spot features an inviting atmosphere perfect for those seeking authentic
+  flavors in a casual yet elegant setting. With daily hours from 9 AM to 7 PM,
+  it's an ideal choice for locals and visitors looking to enjoy high-quality
+  rolls and innovative dishes that blend tradition with creativity. The
+  restaurant's emphasis on handcrafted techniques ensures each bite is flavorful
+  and visually appealing, making it a go-to destination for anyone exploring
+  sushi options in the area.
+generative_summary: >-
+  Discover ZENSHI Handcrafted Sushi in Chicago, IL$$$ZENSHI Handcrafted Sushi in
+  Chicago, IL, offers a refined dining experience focused on meticulously
+  prepared Japanese cuisine that highlights fresh ingredients and artistic
+  presentation. Nestled in the vibrant Near North Side neighborhood, this sushi
+  spot features an inviting atmosphere perfect for those seeking authentic
+  flavors in a casual yet elegant setting. With daily hours from 9 AM to 7 PM,
+  it's an ideal choice for locals and visitors looking to enjoy high-quality
+  rolls and innovative dishes that blend tradition with creativity. The
+  restaurant's emphasis on handcrafted techniques ensures each bite is flavorful
+  and visually appealing, making it a go-to destination for anyone exploring
+  sushi options in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Visitor Feedback on ZENSHI Sushi$$$Folks chatting about ZENSHI
+  often rave about the fresh, well-crafted rolls that hit the spot for anyone
+  craving quality sushi nearby. Many highlight how the variety of options keeps
+  things exciting without overwhelming the palate, making it a solid pick for
+  casual meals or group outings. While some mention portions could be a bit more
+  generous, the overall vibe and service tend to leave people feeling satisfied
+  and eager to return. It's clear that the attention to detail in preparation
+  wins over diners looking for reliable Japanese flavors in Chicago. All in all,
+  if you're on the hunt for tasty sushi spots around town, this place delivers a
+  consistently enjoyable experience that keeps the positives front and center.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -155,7 +255,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

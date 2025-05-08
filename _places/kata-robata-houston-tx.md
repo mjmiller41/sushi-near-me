@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kata Robata"
+title: Kata Robata
 permalink: /texas/houston/kata-robata.html
 stateAbbr: TX
 stateName: Texas
 cityName: Houston
 seo:
-  name: "Kata Robata"
-  type: Restaurant
-  links: null
-description: "Kata Robata serves delicious sushi in Houston, Texas. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://katarobata.com/
 place_id: ChIJj0DrM_LAQIYRmlEOZGqH36s
 photos:
   - name: >-
@@ -170,8 +168,121 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8640c0f233eb408f:0xabdf876a640e519a!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 15
+        minute: 0
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 15
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 15
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:30 AM – 3:00 PM, 5:00 – 10:30 PM'
+    - 'Tuesday: 11:30 AM – 3:00 PM, 5:00 – 10:30 PM'
+    - 'Wednesday: 11:30 AM – 3:00 PM, 5:00 – 10:30 PM'
+    - 'Thursday: 11:30 AM – 3:00 PM, 5:00 – 10:30 PM'
+    - 'Friday: 11:30 AM – 3:00 PM, 5:00 – 11:00 PM'
+    - 'Saturday: 12:00 – 3:00 PM, 5:00 – 11:00 PM'
+    - 'Sunday: 12:00 – 10:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +290,51 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (713) 526-8858
+price_level: PRICE_LEVEL_EXPENSIVE
+price_range: $50 &ndash; $100
+rating: '4.6'
+rating_count: 3208
+website: http://katarobata.com/
+description: >-
+  About Kata Robata in Houston, TX$$$Kata Robata in Houston, TX, stands out as a
+  premier Japanese restaurant offering a blend of innovative flavors and elegant
+  ambiance in the vibrant Greenway / Upper Kirby Area. This spot delights with
+  its fresh sushi selections and creative dishes like grilled skewers and
+  seafood specialties, all prepared with high-quality ingredients that highlight
+  authentic Japanese techniques. The venue boasts accessibility features such as
+  wheelchair-friendly parking and seating, making it welcoming for all diners
+  seeking Japanese places near me. With extended hours including evenings and
+  weekends, it's an ideal choice for those exploring top-rated sushi restaurants
+  in the area. Its stylish atmosphere and attentive service further enhance the
+  overall dining experience, perfect for anyone craving sushi close to me.
+generative_summary: >-
+  About Kata Robata in Houston, TX$$$Kata Robata in Houston, TX, stands out as a
+  premier Japanese restaurant offering a blend of innovative flavors and elegant
+  ambiance in the vibrant Greenway / Upper Kirby Area. This spot delights with
+  its fresh sushi selections and creative dishes like grilled skewers and
+  seafood specialties, all prepared with high-quality ingredients that highlight
+  authentic Japanese techniques. The venue boasts accessibility features such as
+  wheelchair-friendly parking and seating, making it welcoming for all diners
+  seeking Japanese places near me. With extended hours including evenings and
+  weekends, it's an ideal choice for those exploring top-rated sushi restaurants
+  in the area. Its stylish atmosphere and attentive service further enhance the
+  overall dining experience, perfect for anyone craving sushi close to me.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Diners Are Saying$$$Folks checking out this Houston favorite often share
+  that the standout dishes, like the flavorful beef skewers and creamy lobster
+  mac, really hit the spot with their fresh tastes and creative twists. Many
+  appreciate the solid service that keeps things running smoothly, adding to the
+  enjoyable vibe without any fuss. It's clear that the overall atmosphere makes
+  for a memorable meal, with plenty of praise for the quality that keeps people
+  coming back for more Japanese-inspired eats. While opinions vary, the
+  consensus leans positive, noting it's a great pick for groups or a night out,
+  especially if you're hunting for reliable sushi spots nearby. All in all, it's
+  a solid choice for anyone looking to enjoy tasty, well-prepared options in a
+  welcoming setting.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +360,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

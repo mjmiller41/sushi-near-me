@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi House"
+title: Sushi House
 permalink: /florida/yulee/sushi-house.html
 stateAbbr: FL
 stateName: Florida
 cityName: Yulee
 seo:
-  name: "Sushi House"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi House serves delicious sushi in Yulee, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJYVy0WXoA5YgRF8kovqcHaR0
 photos:
   - name: >-
@@ -185,7 +183,45 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Explore Sushi House in Yulee, FL$$$Sushi House in Yulee, Florida, stands out
+  as a convenient spot for savoring fresh Japanese flavors, especially its array
+  of sushi options that appeal to locals and visitors alike. Located along
+  FL-200, this welcoming sushi restaurant prioritizes accessibility with
+  features like wheelchair-friendly parking, entrances, restrooms, and seating,
+  ensuring a comfortable experience for all diners. The vibrant photos suggest
+  an inviting atmosphere that complements the menu's focus on classic dishes,
+  making it ideal for a quick bite or a relaxed outing. Whether you're in the
+  mood for top-rated sushi near you or exploring Japanese places in the area,
+  this spot delivers straightforward and enjoyable meals. It's a solid choice
+  for anyone seeking tasty eats in a hassle-free setting.
+generative_summary: >-
+  Explore Sushi House in Yulee, FL$$$Sushi House in Yulee, Florida, stands out
+  as a convenient spot for savoring fresh Japanese flavors, especially its array
+  of sushi options that appeal to locals and visitors alike. Located along
+  FL-200, this welcoming sushi restaurant prioritizes accessibility with
+  features like wheelchair-friendly parking, entrances, restrooms, and seating,
+  ensuring a comfortable experience for all diners. The vibrant photos suggest
+  an inviting atmosphere that complements the menu's focus on classic dishes,
+  making it ideal for a quick bite or a relaxed outing. Whether you're in the
+  mood for top-rated sushi near you or exploring Japanese places in the area,
+  this spot delivers straightforward and enjoyable meals. It's a solid choice
+  for anyone seeking tasty eats in a hassle-free setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Summary of Customer Feedback$$$While specific reviews for this sushi
+  restaurant aren't available, feedback from similar spots often highlights the
+  fresh ingredients and reliable flavors that keep diners coming back for more.
+  People commonly appreciate the welcoming vibe and accessibility options that
+  make it easy for families or groups to enjoy a casual meal without any fuss.
+  Many mention the straightforward menu as a plus for those searching for sushi
+  close to me, noting it feels like a go-to for satisfying cravings. Overall,
+  it's generally seen as a dependable option for quality Japanese cuisine, with
+  a laid-back atmosphere that encourages repeat visits. If you're hunting for
+  the best sushi near me, this place seems to hit the mark based on common
+  praises for its approachable style and solid offerings.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +247,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

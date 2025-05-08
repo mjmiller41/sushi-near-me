@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kaen Na Ramen & Sushi"
+title: Kaen Na Ramen & Sushi
 permalink: /california/visalia/kaen-na-ramen-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Visalia
 seo:
-  name: "Kaen Na Ramen & Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.kaennaramennsushi.com/
-description: "Kaen Na Ramen & Sushi serves delicious sushi in Visalia, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJlwda5lYplYARVinxirgdEoE
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $10 &ndash; $20
 rating: '4.7'
 rating_count: 0
 website: https://www.kaennaramennsushi.com/
+description: >-
+  Explore Kaen Na Ramen & Sushi in Visalia, CA$$$Kaen Na Ramen & Sushi in
+  Visalia, California, provides a welcoming spot for enjoying fresh Japanese
+  dishes in a laid-back setting. This restaurant specializes in flavorful ramen
+  and creative sushi rolls, making it a go-to choice for anyone seeking
+  authentic Asian-inspired meals in the area. With options like hearty broths
+  and artfully prepared rolls, it's designed to cater to a variety of tastes
+  while offering convenient accessibility features for all diners. The
+  atmosphere emphasizes comfort and quality, perfect for a casual meal or
+  gathering with friends, and it's easily one of the top sushi restaurants near
+  me for those exploring local Japanese cuisine.
+generative_summary: >-
+  Explore Kaen Na Ramen & Sushi in Visalia, CA$$$Kaen Na Ramen & Sushi in
+  Visalia, California, provides a welcoming spot for enjoying fresh Japanese
+  dishes in a laid-back setting. This restaurant specializes in flavorful ramen
+  and creative sushi rolls, making it a go-to choice for anyone seeking
+  authentic Asian-inspired meals in the area. With options like hearty broths
+  and artfully prepared rolls, it's designed to cater to a variety of tastes
+  while offering convenient accessibility features for all diners. The
+  atmosphere emphasizes comfort and quality, perfect for a casual meal or
+  gathering with friends, and it's easily one of the top sushi restaurants near
+  me for those exploring local Japanese cuisine.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJlwda5lYplYARVinxirgdEoE/reviews/ChZDSUhNMG9nS0VJQ0FnSURmNklub0dBEAE
@@ -360,6 +381,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNUME5HXzFRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNUME5HXzFRRRAB!2m1!1s0x80952956e65a0797:0x81121db88af12956
+review_summary: >-
+  Customer Feedback Highlights$$$Visitors often rave about the tasty ramen and
+  sushi at this spot, noting how the bold flavors and well-crafted dishes make
+  for a satisfying meal. Many folks appreciate the friendly service and inviting
+  vibe, which keeps the experience enjoyable even when things get busy. While
+  most feedback highlights the quick pickup and attentive staff, a few mentions
+  suggest that reservations can help avoid any wait times during peak hours.
+  Overall, it's clear that this place stands out as a reliable option for
+  Japanese food lovers, with the majority of comments leaning positive and
+  encouraging repeat visits. If you're hunting for great sushi places near me,
+  it's worth checking out for its solid reputation in delivering delicious,
+  well-balanced options.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -392,7 +426,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

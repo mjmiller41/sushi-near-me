@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Bonsai"
+title: Bonsai
 permalink: /ohio/upper-arlington/bonsai.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Upper Arlington
 seo:
-  name: "Bonsai"
-  type: Restaurant
+  type: restaurant
   links: https://www.bonsaioh.com/
-description: "Down-to-earth outpost serving Korean bowls alongside sushi rolls & cooked Japanese fare. Bonsai serves delicious sushi in Upper Arlington, Ohio. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJC_K_MOCNOIgRfLimQxQDjc4
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 0
 website: https://www.bonsaioh.com/
+description: >-
+  Explore Bonsai in Upper Arlington, OH$$$Bonsai in Upper Arlington, OH, stands
+  out as a casual Japanese restaurant offering a blend of fresh sushi and
+  Korean-inspired dishes in a welcoming setting. Nestled in the Kingsdale
+  Shopping Center, it features an array of made-to-order rolls and cooked fare
+  that's perfect for lunch or dinner, emphasizing quality ingredients and
+  accessibility for all visitors. The spot provides wheelchair-friendly options
+  and ample parking, making it easy to enjoy a relaxed meal without hassle.
+  Whether you're craving flavorful sushi rolls or hearty bowls, this local
+  eatery delivers a straightforward yet satisfying experience for those seeking
+  Japanese places near me. Its moderate pricing adds to the appeal, ensuring a
+  great value for anyone exploring sushi restaurants in the area.
+generative_summary: >-
+  Explore Bonsai in Upper Arlington, OH$$$Bonsai in Upper Arlington, OH, stands
+  out as a casual Japanese restaurant offering a blend of fresh sushi and
+  Korean-inspired dishes in a welcoming setting. Nestled in the Kingsdale
+  Shopping Center, it features an array of made-to-order rolls and cooked fare
+  that's perfect for lunch or dinner, emphasizing quality ingredients and
+  accessibility for all visitors. The spot provides wheelchair-friendly options
+  and ample parking, making it easy to enjoy a relaxed meal without hassle.
+  Whether you're craving flavorful sushi rolls or hearty bowls, this local
+  eatery delivers a straightforward yet satisfying experience for those seeking
+  Japanese places near me. Its moderate pricing adds to the appeal, ensuring a
+  great value for anyone exploring sushi restaurants in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJC_K_MOCNOIgRfLimQxQDjc4/reviews/ChdDSUhNMG9nS0VJQ0FnTUNnMmRHMXpBRRAB
@@ -370,6 +393,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQzMGR5enVBRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQzMGR5enVBRRAB!2m1!1s0x88388de030bff20b:0xce8d031443a6b87c
+review_summary: >-
+  Insights from Customer Feedback$$$Visitors to this sushi spot often rave about
+  the fresh and flavorful dishes, highlighting the consistent quality of rolls
+  and Asian-inspired meals that keep them coming back. Many appreciate the
+  generous portions and attentive service, even during busy times, making it a
+  reliable choice for casual dining with friends or family. While most feedback
+  praises the variety and taste, a few notes mention that some items might not
+  always hit the mark, though overall experiences remain positive. If you're
+  hunting for top-rated sushi near me, this place shines for its welcoming vibe
+  and solid offerings that balance taste and affordability. Folks generally
+  leave satisfied, eager to return for more of the tasty selections in a
+  laid-back atmosphere.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -402,8 +438,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Down-to-earth outpost serving Korean bowls alongside sushi rolls & cooked
   Japanese fare.
 

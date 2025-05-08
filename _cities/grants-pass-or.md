@@ -5,4 +5,5 @@ permalink: /oregon/grants-pass/
 stateAbbr: OR
 stateName: Oregon
 cityName: Grants Pass
+
 ---

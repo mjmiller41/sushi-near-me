@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Para II"
+title: Sushi Para II
 permalink: /illinois/chicago/sushi-para-ii.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
 seo:
-  name: "Sushi Para II"
-  type: Restaurant
+  type: restaurant
   links: https://sushipararestaurant.com/
-description: "Bustling Japanese spot with all-you-can-eat sushi & a traditional menu with teriyaki & tonkatsu. Sushi Para II serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJJYnU3BLTD4gRlBhCX-Sp_ZU
 photos:
   - name: >-
@@ -183,6 +181,33 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 0
 website: https://sushipararestaurant.com/
+description: >-
+  Discover Sushi Para II in Chicago, IL$$$Nestled in the heart of Chicago, IL,
+  Sushi Para II stands out as a vibrant spot for sushi enthusiasts seeking a
+  casual yet satisfying dining experience. This Japanese eatery offers an
+  all-you-can-eat sushi selection along with fresh rolls, appetizers, and a
+  simple salad bar, making it a go-to choice for those exploring sushi
+  restaurants in the area. The menu highlights traditional flavors with options
+  like teriyaki and tonkatsu, all prepared with a focus on quality ingredients
+  and balanced presentations. Visitors appreciate the welcoming atmosphere and
+  accessible features, such as wheelchair-friendly seating, which enhance the
+  overall comfort. Whether you're searching for top-rated sushi near you or a
+  relaxed meal in a bustling neighborhood, this spot delivers a memorable blend
+  of value and authentic tastes.
+generative_summary: >-
+  Discover Sushi Para II in Chicago, IL$$$Nestled in the heart of Chicago, IL,
+  Sushi Para II stands out as a vibrant spot for sushi enthusiasts seeking a
+  casual yet satisfying dining experience. This Japanese eatery offers an
+  all-you-can-eat sushi selection along with fresh rolls, appetizers, and a
+  simple salad bar, making it a go-to choice for those exploring sushi
+  restaurants in the area. The menu highlights traditional flavors with options
+  like teriyaki and tonkatsu, all prepared with a focus on quality ingredients
+  and balanced presentations. Visitors appreciate the welcoming atmosphere and
+  accessible features, such as wheelchair-friendly seating, which enhance the
+  overall comfort. Whether you're searching for top-rated sushi near you or a
+  relaxed meal in a bustling neighborhood, this spot delivers a memorable blend
+  of value and authentic tastes.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJJYnU3BLTD4gRlBhCX-Sp_ZU/reviews/ChdDSUhNMG9nS0VJQ0FnTURRdUpUMnlRRRAB
@@ -470,6 +495,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURmbUlIZjlBRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURmbUlIZjlBRRAB!2m1!1s0x880fd312dcd48925:0x95fda9e45f421894
+review_summary: >-
+  What People Love About This Sushi Spot$$$Folks rave about the fresh and
+  flavorful sushi here, often highlighting how the all-you-can-eat deals make it
+  a smart pick for anyone craving variety without overspending. Many appreciate
+  the quick service and friendly staff that keep things running smoothly,
+  turning meals into enjoyable outings with friends or family. While most diners
+  praise the quality of the rolls and the overall vibe, a few note that certain
+  items like soy sauce might not always hit the mark, though this doesn't
+  overshadow the positives. Overall, it's clear that this place offers great
+  value for sushi lovers in Chicago, with plenty of options that leave people
+  feeling satisfied and eager to return. If you're on the hunt for reliable
+  sushi places near me, this spot's solid reputation and welcoming approach make
+  it a solid choice for a casual bite.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidStreetParking: true
   valetParking: false
@@ -501,8 +540,8 @@ serves_lunch: true
 serves_vegetarian_food: false
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Bustling Japanese spot with all-you-can-eat sushi & a traditional menu with
   teriyaki & tonkatsu.
 

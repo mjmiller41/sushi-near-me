@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "KazuNori: The Original Hand Roll Bar"
+title: 'KazuNori: The Original Hand Roll Bar'
 permalink: /california/santa-monica/kazunori-the-original-hand-roll-bar.html
 stateAbbr: CA
 stateName: California
 cityName: Santa Monica
 seo:
-  name: "KazuNori: The Original Hand Roll Bar"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "KazuNori: The Original Hand Roll Bar serves delicious sushi in Santa Monica, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJN1tfUNCkwoARaYhj1p2_nac
 photos:
   - name: >-
@@ -184,7 +182,39 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover KazuNori in Santa Monica$$$KazuNori: The Original Hand Roll Bar in
+  Santa Monica, CA, stands out as a laid-back spot dedicated to crafting simple
+  yet exceptional hand rolls with premium ingredients. This sushi bar focuses on
+  fresh fish and perfectly warmed rice, creating a delightful balance of flavors
+  that highlight the essence of Japanese-inspired cuisine. Visitors can enjoy a
+  streamlined menu that emphasizes quality and authenticity, making it a go-to
+  choice for those seeking tasty sushi options in a casual setting. The venue's
+  thoughtful design and accessibility features ensure a welcoming atmosphere for
+  all, enhancing the overall dining experience without overwhelming extras.
+generative_summary: >-
+  Discover KazuNori in Santa Monica$$$KazuNori: The Original Hand Roll Bar in
+  Santa Monica, CA, stands out as a laid-back spot dedicated to crafting simple
+  yet exceptional hand rolls with premium ingredients. This sushi bar focuses on
+  fresh fish and perfectly warmed rice, creating a delightful balance of flavors
+  that highlight the essence of Japanese-inspired cuisine. Visitors can enjoy a
+  streamlined menu that emphasizes quality and authenticity, making it a go-to
+  choice for those seeking tasty sushi options in a casual setting. The venue's
+  thoughtful design and accessibility features ensure a welcoming atmosphere for
+  all, enhancing the overall dining experience without overwhelming extras.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Folks consistently praise this spot for its
+  mouthwatering hand rolls, packed with fresh, top-tier ingredients that deliver
+  a satisfying melt-in-your-mouth vibe with every piece. The service stands out
+  as speedy and attentive, adding to the fun, energetic feel that keeps things
+  light and enjoyable for a quick bite. Many appreciate the fair pricing, which
+  makes it an easy pick for anyone hunting for solid sushi without stretching
+  the budget. Overall, it's a favorite among those craving authentic flavors,
+  with the lively vibe and efficient setup earning high marks for a hassle-free
+  meal.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +240,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

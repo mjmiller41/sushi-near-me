@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Teru Sushi"
+title: Teru Sushi
 permalink: /utah/salt-lake-city/teru-sushi.html
 stateAbbr: UT
 stateName: Utah
 cityName: Salt Lake City
 seo:
-  name: "Teru Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Teru Sushi serves delicious sushi in Salt Lake City, Utah. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ9y-UY4liUocRr8f3PgQIf7o
 photos:
   - name: >-
@@ -170,7 +168,97 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8752628963942ff7:0xba7f08043ef7c7af!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 13
+        minute: 30
+    - open:
+        day: 1
+        hour: 17
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 13
+        minute: 30
+    - open:
+        day: 2
+        hour: 17
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 13
+        minute: 30
+    - open:
+        day: 3
+        hour: 17
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 13
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 13
+        minute: 30
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 1:30 PM, 5:30 – 9:00 PM'
     - 'Tuesday: 11:30 AM – 1:30 PM, 5:30 – 9:00 PM'
     - 'Wednesday: 11:30 AM – 1:30 PM, 5:30 – 9:00 PM'
@@ -178,14 +266,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 1:30 PM, 5:00 – 9:00 PM'
     - 'Saturday: 5:00 – 9:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:30 AM – 1:30 PM, 5:30 – 9:00 PM'
-    - 'Tuesday: 11:30 AM – 1:30 PM, 5:30 – 9:00 PM'
-    - 'Wednesday: 11:30 AM – 1:30 PM, 5:30 – 9:00 PM'
-    - 'Thursday: 11:30 AM – 1:30 PM, 5:30 – 9:00 PM'
-    - 'Friday: 11:30 AM – 1:30 PM, 5:00 – 9:00 PM'
-    - 'Saturday: 5:00 – 9:00 PM'
-    - 'Sunday: Closed'
+  nextOpenTime: '2025-05-03T23:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +278,235 @@ phone: (801) 943-0484
 price_level: null
 price_range: null
 rating: '4.7'
-rating_count: 0
+rating_count: 270
 website: null
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Teru Sushi in Salt Lake City, UT$$$Nestled in Salt Lake City, UT,
+  Teru Sushi offers a welcoming atmosphere in a cozy setting, perfect for those
+  seeking authentic Japanese flavors. This family-operated spot specializes in
+  fresh sushi rolls, flavorful bento boxes, and a variety of traditional entrees
+  that highlight high-quality ingredients and thoughtful preparation. Diners can
+  enjoy accessible features like wheelchair-friendly entrances and seating,
+  making it easier for everyone to savor the experience. With options for lunch
+  and dinner, including beer and takeout, it's an ideal choice for anyone
+  exploring sushi restaurants in the area. The menu's focus on quality and
+  variety ensures a satisfying meal that feels both intimate and approachable.
+generative_summary: >-
+  Discover Teru Sushi in Salt Lake City, UT$$$Nestled in Salt Lake City, UT,
+  Teru Sushi offers a welcoming atmosphere in a cozy setting, perfect for those
+  seeking authentic Japanese flavors. This family-operated spot specializes in
+  fresh sushi rolls, flavorful bento boxes, and a variety of traditional entrees
+  that highlight high-quality ingredients and thoughtful preparation. Diners can
+  enjoy accessible features like wheelchair-friendly entrances and seating,
+  making it easier for everyone to savor the experience. With options for lunch
+  and dinner, including beer and takeout, it's an ideal choice for anyone
+  exploring sushi restaurants in the area. The menu's focus on quality and
+  variety ensures a satisfying meal that feels both intimate and approachable.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ9y-UY4liUocRr8f3PgQIf7o/reviews/ChZDSUhNMG9nS0VJQ0FnTURRNTVHLWZnEAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: |-
+        Best meal I’ve had in Salt Lake City.
+
+        Would 100% recommend coming here.
+
+        The fish is such high quality and buttery.
+
+        Place has a nice family owned vibe.
+
+        Very understated spot.
+      languageCode: en
+    originalText:
+      text: |-
+        Best meal I’ve had in Salt Lake City.
+
+        Would 100% recommend coming here.
+
+        The fish is such high quality and buttery.
+
+        Place has a nice family owned vibe.
+
+        Very understated spot.
+      languageCode: en
+    authorAttribution:
+      displayName: Will McTighe
+      uri: https://www.google.com/maps/contrib/106207385942383708819/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJz76FIrjkSo_ZYZ3tEaIoIpnCQ-9myiQx6-ttR_A9e4pAEzg=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-03-15T01:14:08.056903Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURRNTVHLWZnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURRNTVHLWZnEAE!2m1!1s0x8752628963942ff7:0xba7f08043ef7c7af
+  - name: >-
+      places/ChIJ9y-UY4liUocRr8f3PgQIf7o/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJMk1MWi1RRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Just a true gem of a place! The food is high quality, beautifully
+        presented and delicious! The nigiri are huge! Bento box with teriyaki
+        salmon was like it was served in Japan. The service was seamless, kind
+        and just perfect. The atmosphere is a little drab, more of a sterile
+        dining room but the food and service compensate for that! Thank you for
+        the delicious dinner. I will be back!!!
+      languageCode: en
+    originalText:
+      text: >-
+        Just a true gem of a place! The food is high quality, beautifully
+        presented and delicious! The nigiri are huge! Bento box with teriyaki
+        salmon was like it was served in Japan. The service was seamless, kind
+        and just perfect. The atmosphere is a little drab, more of a sterile
+        dining room but the food and service compensate for that! Thank you for
+        the delicious dinner. I will be back!!!
+      languageCode: en
+    authorAttribution:
+      displayName: Maciej Mrugala
+      uri: https://www.google.com/maps/contrib/103257267151381909014/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKMF0pdxCLRazcEiIfHvRxflEJaMsOLI3LFar5T77hq5yXQJA=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-30T02:18:26.857253Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNJMk1MWi1RRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNJMk1MWi1RRRAB!2m1!1s0x8752628963942ff7:0xba7f08043ef7c7af
+  - name: >-
+      places/ChIJ9y-UY4liUocRr8f3PgQIf7o/reviews/ChZDSUhNMG9nS0VJQ0FnSUNmLTZYck5nEAE
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 5
+    text:
+      text: >-
+        Very tasty & quality food 🍱 huge variety of sushi. Family own &
+        operated business - everyone is taking care of each visitor.
+      languageCode: en
+    originalText:
+      text: >-
+        Very tasty & quality food 🍱 huge variety of sushi. Family own &
+        operated business - everyone is taking care of each visitor.
+      languageCode: en
+    authorAttribution:
+      displayName: Sergey Vasylchuk
+      uri: https://www.google.com/maps/contrib/114436187336440809027/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUutiRAvpQOlL77_KkpkXNpRVrpCxKn9nA18l0btUMFjPU_u992=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-06T00:01:05.132311Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNmLTZYck5nEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNmLTZYck5nEAE!2m1!1s0x8752628963942ff7:0xba7f08043ef7c7af
+  - name: >-
+      places/ChIJ9y-UY4liUocRr8f3PgQIf7o/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJdG9TTml3RRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        First time eating here. It is close to my office so I decided to try
+        them out. Food is very, very good and service is perfect.   The only
+        disappointing thing is that I didn't know about this place sooner. Menu
+        is not as big and over the top like others...but the quality is top
+        notch. Clean little restaurant and the attention to detail is
+        exceptional. They even brought a peeled cold orange at end of meal to
+        cleanse the palate. I will be returning often.
+      languageCode: en
+    originalText:
+      text: >-
+        First time eating here. It is close to my office so I decided to try
+        them out. Food is very, very good and service is perfect.   The only
+        disappointing thing is that I didn't know about this place sooner. Menu
+        is not as big and over the top like others...but the quality is top
+        notch. Clean little restaurant and the attention to detail is
+        exceptional. They even brought a peeled cold orange at end of meal to
+        cleanse the palate. I will be returning often.
+      languageCode: en
+    authorAttribution:
+      displayName: D Brown
+      uri: https://www.google.com/maps/contrib/109276004241791392025/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocL5PuJ9vrxOVWF52cI9I6SN-2FyOrp8YOEjGGn79wGYJELr3Q=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-01T18:39:33.238350Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNJdG9TTml3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNJdG9TTml3RRAB!2m1!1s0x8752628963942ff7:0xba7f08043ef7c7af
+  - name: >-
+      places/ChIJ9y-UY4liUocRr8f3PgQIf7o/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJdG9hdEV3EAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Took myself out on a solo lunch date and had the best experience! The
+        service was top notch and the food was to die for. I couldn’t take a
+        bite without a “mmmmm” coming from me. I’ve tried many sushi places in
+        Utah and this is definitely one of my top ranked. I will definitely be
+        going back. Thank you!
+      languageCode: en
+    originalText:
+      text: >-
+        Took myself out on a solo lunch date and had the best experience! The
+        service was top notch and the food was to die for. I couldn’t take a
+        bite without a “mmmmm” coming from me. I’ve tried many sushi places in
+        Utah and this is definitely one of my top ranked. I will definitely be
+        going back. Thank you!
+      languageCode: en
+    authorAttribution:
+      displayName: Tavish Burton
+      uri: https://www.google.com/maps/contrib/103873934639158018515/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjV2qo7yK_cIFn5_1wNx056g_8tbTPxpCxiIJDBN2ZG06LspvBg=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-01T19:01:59.987548Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNJdG9hdEV3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNJdG9hdEV3EAE!2m1!1s0x8752628963942ff7:0xba7f08043ef7c7af
+review_summary: >-
+  What Customers Love About This Sushi Spot$$$Visitors often rave about the
+  fresh and high-quality sushi, with many highlighting the generous portions and
+  delicious flavors that make every bite memorable. Folks appreciate the
+  friendly service and attentive staff, which add to the warm, family-like vibe
+  without overwhelming the experience. Reviews frequently mention the reasonable
+  prices and standout dishes like tempura veggies, making it a go-to for those
+  looking for great value in their meals. Overall, it's praised as a hidden gem
+  for casual dining, where the focus on quality ingredients keeps people coming
+  back for more. While the atmosphere might be simple, the combination of tasty
+  options and solid service ensures a positive outing for groups or solo
+  visitors seeking top-rated sushi nearby.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
 allow_dogs: null
 curbside_pickup: null
 delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: false
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

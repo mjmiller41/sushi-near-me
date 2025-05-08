@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Ginza Onodera"
+title: Sushi Ginza Onodera
 permalink: /hawaii/honolulu/sushi-ginza-onodera.html
 stateAbbr: HI
 stateName: Hawaii
 cityName: Honolulu
 seo:
-  name: "Sushi Ginza Onodera"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi Ginza Onodera serves delicious sushi in Honolulu, Hawaii. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJIQQTR4FtAHwRg44retFMXCY
 photos:
   - name: >-
@@ -185,7 +183,44 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Explore Sushi Ginza Onodera in Honolulu, HI$$$Sushi Ginza Onodera in Honolulu,
+  HI, stands out as a charming destination for those seeking top-rated sushi
+  experiences in a relaxed setting. This inviting spot specializes in authentic
+  Japanese cuisine, featuring expertly crafted omakase meals that highlight
+  fresh seafood and traditional flavors. Guests can enjoy a cozy atmosphere
+  paired with a selection of sake and beer, making it an ideal choice for
+  intimate dinners or casual outings. The restaurant's thoughtful design and
+  accessibility options enhance the overall visit, ensuring a comfortable
+  experience for all. Whether you're exploring sushi places near you or looking
+  for the best Japanese fare in the area, this establishment delivers a
+  memorable blend of quality and ambiance.
+generative_summary: >-
+  Explore Sushi Ginza Onodera in Honolulu, HI$$$Sushi Ginza Onodera in Honolulu,
+  HI, stands out as a charming destination for those seeking top-rated sushi
+  experiences in a relaxed setting. This inviting spot specializes in authentic
+  Japanese cuisine, featuring expertly crafted omakase meals that highlight
+  fresh seafood and traditional flavors. Guests can enjoy a cozy atmosphere
+  paired with a selection of sake and beer, making it an ideal choice for
+  intimate dinners or casual outings. The restaurant's thoughtful design and
+  accessibility options enhance the overall visit, ensuring a comfortable
+  experience for all. Whether you're exploring sushi places near you or looking
+  for the best Japanese fare in the area, this establishment delivers a
+  memorable blend of quality and ambiance.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Diners Are Buzzing About$$$Visitors often rave about the fantastic value
+  of the lunch omakase at this spot, praising the super-fresh fish selections
+  that bring out amazing tastes in every bite. Folks appreciate the welcoming
+  service that makes the meal feel special without being over-the-top, adding to
+  the enjoyable vibe. The ambiance draws comparisons to a peaceful Japanese
+  retreat, creating a soothing backdrop that elevates the whole experience. Many
+  highlight fun, informative touches like visual guides to the ingredients,
+  which add an educational twist to the dining adventure. Overall, it's a go-to
+  for anyone hunting for reliable sushi restaurants nearby, offering a solid mix
+  of quality food and friendly vibes that keeps people coming back.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +246,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

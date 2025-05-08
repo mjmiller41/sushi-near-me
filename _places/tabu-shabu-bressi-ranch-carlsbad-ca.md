@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Tabu Shabu Bressi Ranch"
+title: Tabu Shabu Bressi Ranch
 permalink: /california/carlsbad/tabu-shabu-bressi-ranch.html
 stateAbbr: CA
 stateName: California
 cityName: Carlsbad
 seo:
-  name: "Tabu Shabu Bressi Ranch"
-  type: Restaurant
-  links: null
-description: "Tabu Shabu Bressi Ranch serves delicious sushi in Carlsbad, California. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.tabushabu.com/
 place_id: ChIJYajZJo113IARX_WTlhBjOHg
 photos:
   - name: >-
@@ -170,8 +168,129 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80dc758d26d9a861:0x783863109693f55f!10e5
 primary_type: Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 15
+        minute: 0
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 14
+        minute: 0
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 15
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
+    - 'Tuesday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
+    - 'Wednesday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
+    - 'Thursday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
+    - 'Friday: 11:30 AM – 2:00 PM, 5:00 – 10:00 PM'
+    - 'Saturday: 12:00 – 3:00 PM, 5:00 – 10:00 PM'
+    - 'Sunday: 12:00 – 3:00 PM, 5:00 – 9:00 PM'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +298,49 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
+phone: (760) 846-0778
+price_level: PRICE_LEVEL_MODERATE
 price_range: null
-rating: null
-rating_count: 0
-website: null
+rating: '4.6'
+rating_count: 161
+website: http://www.tabushabu.com/
+description: >-
+  Explore Tabu Shabu in Carlsbad, CA$$$Tabu Shabu Bressi Ranch in Carlsbad, CA,
+  offers a casual dining experience centered around authentic Japanese hot pot
+  dishes, making it a go-to spot for flavorful meals in the area. This
+  restaurant specializes in shabu-shabu, where fresh ingredients are cooked
+  tableside in simmering broths, creating a interactive and satisfying culinary
+  adventure. With its welcoming atmosphere and accessibility features like
+  wheelchair-friendly entrances and seating, it's designed for a comfortable
+  visit for all guests. The menu highlights a variety of proteins and
+  vegetables, appealing to those seeking Japanese-inspired dining options
+  nearby, and the convenient location in Bressi Ranch adds to its charm as a
+  local favorite.
+generative_summary: >-
+  Explore Tabu Shabu in Carlsbad, CA$$$Tabu Shabu Bressi Ranch in Carlsbad, CA,
+  offers a casual dining experience centered around authentic Japanese hot pot
+  dishes, making it a go-to spot for flavorful meals in the area. This
+  restaurant specializes in shabu-shabu, where fresh ingredients are cooked
+  tableside in simmering broths, creating a interactive and satisfying culinary
+  adventure. With its welcoming atmosphere and accessibility features like
+  wheelchair-friendly entrances and seating, it's designed for a comfortable
+  visit for all guests. The menu highlights a variety of proteins and
+  vegetables, appealing to those seeking Japanese-inspired dining options
+  nearby, and the convenient location in Bressi Ranch adds to its charm as a
+  local favorite.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Love About This Spot$$$Folks rave about the tasty shabu-shabu
+  experience at this Japanese restaurant, noting the solid variety of proteins
+  and fresh veggies that make every meal feel worthwhile. Many appreciate the
+  friendly service and cozy vibe that keep things relaxed and enjoyable, turning
+  a simple dinner into a fun outing. Prices here strike a good balance for the
+  quality on offer, making it a smart pick for anyone looking for authentic
+  flavors without breaking the bank. Overall, it's praised as a reliable choice
+  for group gatherings or casual nights out, with the overall atmosphere leaving
+  diners feeling satisfied and eager to return.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +366,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

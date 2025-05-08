@@ -5,4 +5,5 @@ permalink: /california/bishop/
 stateAbbr: CA
 stateName: California
 cityName: Bishop
+
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Live Sushi Bar"
+title: Live Sushi Bar
 permalink: /california/san-francisco/live-sushi-bar.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
 seo:
-  name: "Live Sushi Bar"
-  type: Restaurant
+  type: restaurant
   links: http://www.livesushibar.com/
-description: "Wood-paneled Japanese neighborhood venue serving rolls, sashimi, live preparations & bento boxes. Live Sushi Bar serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJtSa-BDN-j4ARVOuKy9mDdhw
 photos:
   - name: >-
@@ -183,6 +181,33 @@ price_range: null
 rating: '4.3'
 rating_count: 0
 website: http://www.livesushibar.com/
+description: >-
+  Discover Live Sushi Bar in San Francisco, CA$$$Nestled in the vibrant city of
+  San Francisco, CA, Live Sushi Bar stands out as a welcoming spot for enjoying
+  fresh Japanese cuisine, including an array of sushi rolls and teriyaki dishes
+  in a relaxed setting. The venue features a laid-back atmosphere with subtle
+  nautical touches that enhance the dining experience, making it ideal for
+  casual meals or quick bites of authentic flavors. Patrons can savor a variety
+  of options like bento boxes and live-prepared sashimi, all crafted with
+  quality ingredients that highlight the best of Japanese fare. Accessibility is
+  a key feature here, with wheelchair-friendly entrances and seating that ensure
+  everyone can enjoy the menu's highlights. Whether you're searching for
+  top-rated sushi restaurants in the area, this spot offers a solid choice for
+  satisfying your cravings for Japanese places near me.
+generative_summary: >-
+  Discover Live Sushi Bar in San Francisco, CA$$$Nestled in the vibrant city of
+  San Francisco, CA, Live Sushi Bar stands out as a welcoming spot for enjoying
+  fresh Japanese cuisine, including an array of sushi rolls and teriyaki dishes
+  in a relaxed setting. The venue features a laid-back atmosphere with subtle
+  nautical touches that enhance the dining experience, making it ideal for
+  casual meals or quick bites of authentic flavors. Patrons can savor a variety
+  of options like bento boxes and live-prepared sashimi, all crafted with
+  quality ingredients that highlight the best of Japanese fare. Accessibility is
+  a key feature here, with wheelchair-friendly entrances and seating that ensure
+  everyone can enjoy the menu's highlights. Whether you're searching for
+  top-rated sushi restaurants in the area, this spot offers a solid choice for
+  satisfying your cravings for Japanese places near me.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJtSa-BDN-j4ARVOuKy9mDdhw/reviews/ChZDSUhNMG9nS0VJQ0FnTURnam83ZURREAE
@@ -388,6 +413,21 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURWZ0xPZXZRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURWZ0xPZXZRRRAB!2m1!1s0x808f7e3304be26b5:0x1c7683d9cb8aeb54
+review_summary: >-
+  What Visitors Are Saying About This Sushi Spot$$$Folks rave about the fresh
+  fish and flavorful rolls at this San Francisco favorite, often highlighting
+  how the meals leave them feeling satisfied and eager to return for more. While
+  most experiences praise the attentive service and unique specials like the
+  omakase boxes, a few mentions note occasional waits or average tastes in
+  certain items, though these don't overshadow the positives. Overall, the vibe
+  is upbeat and modern, with many appreciating the welcoming staff that goes the
+  extra mile to make dining enjoyable. It's clear that for those hunting for the
+  best sushi near me, this place delivers on fresh ingredients and a lively
+  atmosphere, making it a go-to for casual get-togethers. Despite one rare
+  report of an unpleasant incident, the general consensus leans toward it being
+  a reliable and tasty option for sushi enthusiasts looking for a solid meal in
+  a neighborhood setting.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeStreetParking: true
   valetParking: false
@@ -419,8 +459,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Wood-paneled Japanese neighborhood venue serving rolls, sashimi, live
   preparations & bento boxes.
 

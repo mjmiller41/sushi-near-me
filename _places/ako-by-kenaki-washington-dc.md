@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "AKO by KENAKI"
+title: AKO by KENAKI
 permalink: /district-of-columbia/washington/ako-by-kenaki.html
 stateAbbr: DC
 stateName: District of Columbia
 cityName: Washington
 seo:
-  name: "AKO by KENAKI"
-  type: Restaurant
+  type: restaurant
   links: https://www.theroostsedc.com/akobykenaki
-description: "AKO by KENAKI serves delicious sushi in Washington, District of Columbia. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJCUbHLAq5t4kRndasLznj1qE
 photos:
   - name: >-
@@ -183,12 +181,49 @@ price_range: $30 &mdash; 50
 rating: '4.9'
 rating_count: 0
 website: https://www.theroostsedc.com/akobykenaki
+description: >-
+  Discover AKO by KENAKI in Washington, DC$$$AKO by KENAKI in Washington, DC,
+  stands out as a top-rated sushi restaurant nestled in the energetic Southeast
+  Washington neighborhood, offering a blend of fresh flavors and inclusive
+  dining experiences. This spot excels with its variety of options, including
+  dine-in, takeout, and reservations, making it a convenient choice for sushi
+  enthusiasts exploring local Japanese-inspired cuisine. Accessibility features
+  like wheelchair-friendly entrances and restrooms ensure a welcoming
+  environment for all guests, while the menu highlights satisfying lunch,
+  dinner, and dessert selections paired with wine. Priced affordably in the $30
+  to $50 range, it's an ideal destination for anyone seeking quality sushi
+  dining near you in a relaxed, casual setting.
+generative_summary: >-
+  Discover AKO by KENAKI in Washington, DC$$$AKO by KENAKI in Washington, DC,
+  stands out as a top-rated sushi restaurant nestled in the energetic Southeast
+  Washington neighborhood, offering a blend of fresh flavors and inclusive
+  dining experiences. This spot excels with its variety of options, including
+  dine-in, takeout, and reservations, making it a convenient choice for sushi
+  enthusiasts exploring local Japanese-inspired cuisine. Accessibility features
+  like wheelchair-friendly entrances and restrooms ensure a welcoming
+  environment for all guests, while the menu highlights satisfying lunch,
+  dinner, and dessert selections paired with wine. Priced affordably in the $30
+  to $50 range, it's an ideal destination for anyone seeking quality sushi
+  dining near you in a relaxed, casual setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - ChdDSUhNMG9nS0VJQ0FnSUNuM09Yai1nRRAB
   - ChZDSUhNMG9nS0VJQ0FnSUN2bmJiX2ZREAE
   - ChdDSUhNMG9nS0VJQ0FnSUNYN2NhQWtRRRAB
   - ChdDSUhNMG9nS0VJQ0FnSURlNnZLcDBnRRAB
   - ChdDSUhNMG9nS0VJQ0FnSUNYNlBhbzBBRRAB
+review_summary: >-
+  What Customers Are Saying$$$Folks who visit this sushi restaurant often praise
+  the fresh, flavorful dishes and the friendly, efficient service that make
+  every meal feel special. Many highlight the great value for the price, noting
+  that the variety of options keeps things exciting without breaking the bank.
+  Overall, the high ratings reflect a consistently positive experience, with
+  diners appreciating the welcoming atmosphere and thoughtful touches like wine
+  pairings. While opinions vary, the consensus leans toward it being a go-to
+  spot for reliable Japanese fare, encouraging others to try it for a satisfying
+  outing. If you're on the hunt for top-rated sushi places near me, this
+  location delivers a solid, enjoyable vibe that keeps customers coming back.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: {}
 payment_options:
   acceptsCreditCards: true
@@ -215,7 +250,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

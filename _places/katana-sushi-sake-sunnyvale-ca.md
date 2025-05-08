@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Katana Sushi & Sake"
+title: Katana Sushi & Sake
 permalink: /california/sunnyvale/katana-sushi-sake.html
 stateAbbr: CA
 stateName: California
 cityName: Sunnyvale
 seo:
-  name: "Katana Sushi & Sake"
-  type: Restaurant
+  type: restaurant
   links: http://katanasushi.com/
-description: "Sushi & rolls plus sake drinks served in a space with exposed ceiling joists & Japanese flourishes. Katana Sushi & Sake serves delicious sushi in Sunnyvale, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJIXcwTWW2j4ARVDz5yTgT9Nw
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 0
 website: http://katanasushi.com/
+description: >-
+  Discover Katana Sushi in Sunnyvale, CA$$$Katana Sushi & Sake in Sunnyvale, CA,
+  stands out as a welcoming Japanese eatery where fresh sushi rolls and classic
+  staples take center stage in a relaxed, unpretentious setting. This spot
+  offers a variety of flavorful options that highlight high-quality ingredients,
+  making it a go-to choice for those seeking authentic sushi experiences nearby.
+  With its casual vibe and thoughtful touches like wheelchair-accessible
+  features, it caters to a wide range of diners looking for a comfortable meal.
+  The menu includes sake and other Japanese favorites, providing great value for
+  anyone exploring top-rated sushi restaurants in the area. Whether you're in
+  the mood for a quick bite or a leisurely dinner, this location delivers on
+  fresh flavors and everyday accessibility.
+generative_summary: >-
+  Discover Katana Sushi in Sunnyvale, CA$$$Katana Sushi & Sake in Sunnyvale, CA,
+  stands out as a welcoming Japanese eatery where fresh sushi rolls and classic
+  staples take center stage in a relaxed, unpretentious setting. This spot
+  offers a variety of flavorful options that highlight high-quality ingredients,
+  making it a go-to choice for those seeking authentic sushi experiences nearby.
+  With its casual vibe and thoughtful touches like wheelchair-accessible
+  features, it caters to a wide range of diners looking for a comfortable meal.
+  The menu includes sake and other Japanese favorites, providing great value for
+  anyone exploring top-rated sushi restaurants in the area. Whether you're in
+  the mood for a quick bite or a leisurely dinner, this location delivers on
+  fresh flavors and everyday accessibility.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJIXcwTWW2j4ARVDz5yTgT9Nw/reviews/ChdDSUhNMG9nS0VJQ0FnSUQzeGZDc19BRRAB
@@ -322,6 +345,21 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUM3dWZIVUV3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUM3dWZIVUV3EAE!2m1!1s0x808fb6654d307721:0xdcf41338c9f93c54
+review_summary: >-
+  What People Love About This Sushi Spot$$$Visitors to this sushi restaurant
+  often rave about the incredibly fresh fish and generous portions that make
+  every meal feel satisfying and worthwhile. Many highlight the wide selection
+  of rolls and dishes, noting how the variety keeps things exciting for repeat
+  visits, especially when cravings for quality Japanese cuisine hit close to
+  home. The service stands out as friendly and accommodating, with staff going
+  out of their way to ensure a smooth experience without any fuss. Overall,
+  folks appreciate the comfortable prices and tasty options that position it as
+  a reliable choice among local favorites, though some mention it's more about
+  solid everyday eats than fancy ambiance. If you're hunting for a spot that
+  delivers on fresh, enjoyable sushi without breaking the bank, this place
+  consistently earns high marks for its approachable vibe and dependable
+  flavors.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -354,8 +392,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Sushi & rolls plus sake drinks served in a space with exposed ceiling joists &
   Japanese flourishes.
 

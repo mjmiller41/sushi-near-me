@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Miyako Sushi"
+title: Miyako Sushi
 permalink: /new-york/new-york/miyako-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "Miyako Sushi"
-  type: Restaurant
-  links: null
-description: "Miyako Sushi serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.miyakosushinyc.com/?utm_source=gmb&utm_medium=website
 place_id: ChIJg0Bl54JYwokR8k8qF8pW-eI
 photos:
   - name: >-
@@ -168,8 +166,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c25882e7654083:0xe2f956ca172a4ff2!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 22
+        minute: 45
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 22
+        minute: 45
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 22
+        minute: 45
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 45
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 45
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 45
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 45
+  weekdayDescriptions:
+    - 'Monday: 11:30 AM – 10:45 PM'
+    - 'Tuesday: 11:30 AM – 10:45 PM'
+    - 'Wednesday: 11:30 AM – 10:45 PM'
+    - 'Thursday: 11:30 AM – 10:45 PM'
+    - 'Friday: 11:30 AM – 10:45 PM'
+    - 'Saturday: 11:30 AM – 10:45 PM'
+    - 'Sunday: 11:30 AM – 10:45 PM'
+  nextCloseTime: '2025-05-04T02:45:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -177,13 +240,53 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (212) 724-3448
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.2'
+rating_count: 313
+website: http://www.miyakosushinyc.com/?utm_source=gmb&utm_medium=website
+description: >-
+  Discover Miyako Sushi in New York, NY$$$Miyako Sushi in New York, NY, stands
+  out as a welcoming Japanese restaurant that blends casual vibes with authentic
+  flavors, making it a go-to spot for sushi enthusiasts exploring the city's
+  vibrant dining scene. The menu features an array of fresh sushi rolls and
+  classic entrees, crafted with high-quality ingredients that highlight
+  traditional techniques and creative twists. Visitors can enjoy unique desserts
+  like tempura ice cream, adding a delightful end to any meal in a relaxed
+  atmosphere perfect for casual outings. This spot is ideal for those seeking
+  top-rated Japanese places near me, with its accessible entrance ensuring a
+  comfortable experience for many diners. Whether you're in the mood for a quick
+  bite or a leisurely dinner, Miyako Sushi delivers a satisfying taste of Japan
+  right in the heart of the city.
+generative_summary: >-
+  Discover Miyako Sushi in New York, NY$$$Miyako Sushi in New York, NY, stands
+  out as a welcoming Japanese restaurant that blends casual vibes with authentic
+  flavors, making it a go-to spot for sushi enthusiasts exploring the city's
+  vibrant dining scene. The menu features an array of fresh sushi rolls and
+  classic entrees, crafted with high-quality ingredients that highlight
+  traditional techniques and creative twists. Visitors can enjoy unique desserts
+  like tempura ice cream, adding a delightful end to any meal in a relaxed
+  atmosphere perfect for casual outings. This spot is ideal for those seeking
+  top-rated Japanese places near me, with its accessible entrance ensuring a
+  comfortable experience for many diners. Whether you're in the mood for a quick
+  bite or a leisurely dinner, Miyako Sushi delivers a satisfying taste of Japan
+  right in the heart of the city.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Visitor Feedback$$$Folks who stop by Miyako Sushi often rave
+  about the fresh, flavorful sushi and solid portions that make it a solid pick
+  for anyone hunting for great sushi restaurants nearby. Many appreciate the
+  friendly service and cozy setup, which keeps things light and enjoyable
+  without any major hiccups. While most reviews highlight the value for the
+  price, a few mention that peak times can get a bit busy, so planning ahead
+  might be smart. Overall, with a strong rating reflecting plenty of positive
+  vibes, it's clear this place hits the mark for those craving reliable Japanese
+  eats in a welcoming environment. If you're on the lookout for the best sushi
+  near me, Miyako Sushi seems to deliver a consistently enjoyable experience
+  that keeps people coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -209,7 +312,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

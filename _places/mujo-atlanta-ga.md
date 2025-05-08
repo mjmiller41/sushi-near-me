@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Mujō"
+title: Mujō
 permalink: /georgia/atlanta/mujo.html
 stateAbbr: GA
 stateName: Georgia
 cityName: Atlanta
 seo:
-  name: "Mujō"
-  type: Restaurant
+  type: restaurant
   links: https://www.mujoatl.com/
-description: "Mujō serves delicious sushi in Atlanta, Georgia. Try fresh Japanese dishes for a great dining experience. Available for, and dinner."
 place_id: ChIJIb9pCKMF9YgRWsQF-tZOGdI
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $100 &ndash; & up
 rating: '4.5'
 rating_count: 0
 website: https://www.mujoatl.com/
+description: >-
+  Discover Mujō in Atlanta, GA$$$Mujō in Atlanta, GA, stands out as an intimate
+  dining destination specializing in high-end omakase-only sushi experiences,
+  where every detail elevates the meal to a memorable event. This sushi
+  restaurant near you offers a refined atmosphere with fresh, expertly prepared
+  nigiri and dishes that highlight premium ingredients, making it a go-to spot
+  for those seeking top sushi in the area. Accessibility features like
+  wheelchair-friendly entrances and seating ensure a welcoming visit for
+  everyone, while valet parking adds convenience for diners exploring Atlanta's
+  vibrant scene. Japanese-inspired elements create a sophisticated yet cozy
+  vibe, perfect for an evening dedicated to authentic flavors and thoughtful
+  presentations.
+generative_summary: >-
+  Discover Mujō in Atlanta, GA$$$Mujō in Atlanta, GA, stands out as an intimate
+  dining destination specializing in high-end omakase-only sushi experiences,
+  where every detail elevates the meal to a memorable event. This sushi
+  restaurant near you offers a refined atmosphere with fresh, expertly prepared
+  nigiri and dishes that highlight premium ingredients, making it a go-to spot
+  for those seeking top sushi in the area. Accessibility features like
+  wheelchair-friendly entrances and seating ensure a welcoming visit for
+  everyone, while valet parking adds convenience for diners exploring Atlanta's
+  vibrant scene. Japanese-inspired elements create a sophisticated yet cozy
+  vibe, perfect for an evening dedicated to authentic flavors and thoughtful
+  presentations.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJIb9pCKMF9YgRWsQF-tZOGdI/reviews/ChZDSUhNMG9nS0VJQ0FnTURJd05DV0FnEAE
@@ -482,6 +505,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQzNzVpS0l3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQzNzVpS0l3EAE!2m1!1s0x88f505a30869bf21:0xd2194ed6fa05c45a
+review_summary: >-
+  What Visitors Are Raving About$$$Visitors often highlight the outstanding
+  omakase experience at this sushi spot, praising the incredibly fresh nigiri
+  and creative pairings that make every bite feel special and satisfying. Folks
+  appreciate the attentive service and knowledgeable staff who enhance the meal
+  with helpful insights, turning a simple dinner into a standout occasion. Many
+  mention the elegant ambiance and thoughtful touches like beverage pairings,
+  which add a fun and luxurious layer without overwhelming the senses. While
+  some note that portions might leave room for extras, the overall consensus is
+  that it's a fantastic choice for anyone craving high-quality sushi, with
+  desserts and add-ons rounding out a genuinely enjoyable vibe. If you're on the
+  hunt for reliable sushi restaurants nearby, this place delivers a consistently
+  positive and immersive dining adventure.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   valetParking: true
 payment_options:
@@ -512,7 +549,7 @@ serves_lunch: false
 serves_vegetarian_food: null
 serves_wine: true
 takeout: false
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

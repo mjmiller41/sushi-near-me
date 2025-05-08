@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "FLAMING GRILL BUFFET (Malden Location)"
+title: FLAMING GRILL BUFFET (Malden Location)
 permalink: /massachusetts/malden/flaming-grill-buffet-malden-location.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Malden
 seo:
-  name: "FLAMING GRILL BUFFET (Malden Location)"
-  type: Restaurant
+  type: restaurant
   links: https://flaminggrillbuffet.net/
-description: "FLAMING GRILL BUFFET (Malden Location) serves delicious sushi in Malden, Massachusetts. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJUSnBmrZx44kRKEqt_tHpTi8
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89e371b69ac12951:0x2f4ee9d1fead4a28!10e5
 primary_type: Buffet Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 10:00 PM'
     - 'Tuesday: 11:00 AM – 10:00 PM'
     - 'Wednesday: 11:00 AM – 10:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:30 PM'
     - 'Saturday: 11:00 AM – 10:30 PM'
     - 'Sunday: 11:00 AM – 10:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 10:00 PM'
-    - 'Tuesday: 11:00 AM – 10:00 PM'
-    - 'Wednesday: 11:00 AM – 10:00 PM'
-    - 'Thursday: 11:00 AM – 10:00 PM'
-    - 'Friday: 11:00 AM – 10:30 PM'
-    - 'Saturday: 11:00 AM – 10:30 PM'
-    - 'Sunday: 11:00 AM – 10:00 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +246,45 @@ phone: (781) 202-8808
 price_level: PRICE_LEVEL_INEXPENSIVE
 price_range: $10 &ndash; $20
 rating: '4.1'
-rating_count: 0
+rating_count: 1291
 website: https://flaminggrillbuffet.net/
+description: >-
+  Discover Flaming Grill Buffet in Malden, MA$$$Flaming Grill Buffet in Malden,
+  MA, stands out as a casual dining destination offering an extensive
+  all-you-can-eat selection that includes fresh seafood and sushi options,
+  appealing to those seeking flavorful Japanese-inspired dishes nearby. The
+  restaurant features a welcoming atmosphere with accessibility features like
+  wheelchair-friendly parking and seating, making it easy for everyone to enjoy
+  a relaxed meal. Visitors can explore a diverse array of Chinese fare alongside
+  American favorites, all at an affordable price point that emphasizes great
+  value. With daily hours extending into the evening, it's a convenient spot for
+  families or groups looking for satisfying sushi restaurants in the area.
+generative_summary: >-
+  Discover Flaming Grill Buffet in Malden, MA$$$Flaming Grill Buffet in Malden,
+  MA, stands out as a casual dining destination offering an extensive
+  all-you-can-eat selection that includes fresh seafood and sushi options,
+  appealing to those seeking flavorful Japanese-inspired dishes nearby. The
+  restaurant features a welcoming atmosphere with accessibility features like
+  wheelchair-friendly parking and seating, making it easy for everyone to enjoy
+  a relaxed meal. Visitors can explore a diverse array of Chinese fare alongside
+  American favorites, all at an affordable price point that emphasizes great
+  value. With daily hours extending into the evening, it's a convenient spot for
+  families or groups looking for satisfying sushi restaurants in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Love About This Local Spot$$$Folks often rave about the wide
+  range of Asian dishes at this buffet, including tasty seafood and sushi that
+  keep diners coming back for more value-packed meals. Many highlight the
+  excellent variety, from hibachi-style options to comforting American sides
+  like mac and cheese, making it a solid choice for anyone exploring top-rated
+  sushi near Malden. The extensive dessert selection, especially the ice cream,
+  adds a fun touch that enhances the overall experience without breaking the
+  bank. While some mention that service could use a bit more polish, the
+  generous portions and welcoming vibe generally make for a positive outing. All
+  in all, it's a reliable pick for casual eaters seeking honest, budget-friendly
+  dining that doesn't skimp on flavor.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +310,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

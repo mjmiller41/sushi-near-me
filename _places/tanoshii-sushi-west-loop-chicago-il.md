@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Tanoshii Sushi West Loop"
+title: Tanoshii Sushi West Loop
 permalink: /illinois/chicago/tanoshii-sushi-west-loop.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
 seo:
-  name: "Tanoshii Sushi West Loop"
-  type: Restaurant
-  links: null
-description: "Tanoshii Sushi West Loop serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://tanoshiiwestloop.com/
 place_id: ChIJrQeRbsUsDogR18xrTa6RRvQ
 photos:
   - name: >-
@@ -169,22 +167,279 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x880e2cc56e9107ad:0xf44691ae4d6bccd7!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 14
+        minute: 30
+    - open:
+        day: 0
+        hour: 16
+        minute: 30
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 14
+        minute: 30
+    - open:
+        day: 6
+        hour: 16
+        minute: 30
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 4:30 – 10:00 PM'
+    - 'Tuesday: 4:30 – 10:00 PM'
+    - 'Wednesday: 11:30 AM – 2:30 PM, 4:30 – 10:00 PM'
+    - 'Thursday: 11:30 AM – 2:30 PM, 4:30 – 10:00 PM'
+    - 'Friday: 11:30 AM – 2:30 PM, 4:30 – 11:00 PM'
+    - 'Saturday: 11:30 AM – 2:30 PM, 4:30 – 11:00 PM'
+    - 'Sunday: 11:30 AM – 2:30 PM, 4:30 – 10:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 16
+          minute: 30
+        close:
+          day: 0
+          hour: 18
+          minute: 0
+      - open:
+          day: 1
+          hour: 16
+          minute: 30
+        close:
+          day: 1
+          hour: 18
+          minute: 0
+      - open:
+          day: 2
+          hour: 16
+          minute: 30
+        close:
+          day: 2
+          hour: 18
+          minute: 0
+      - open:
+          day: 3
+          hour: 16
+          minute: 30
+        close:
+          day: 3
+          hour: 18
+          minute: 0
+      - open:
+          day: 4
+          hour: 16
+          minute: 30
+        close:
+          day: 4
+          hour: 18
+          minute: 0
+      - open:
+          day: 5
+          hour: 16
+          minute: 30
+        close:
+          day: 5
+          hour: 18
+          minute: 0
+      - open:
+          day: 6
+          hour: 16
+          minute: 30
+        close:
+          day: 6
+          hour: 18
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 4:30 – 6:00 PM'
+      - 'Tuesday: 4:30 – 6:00 PM'
+      - 'Wednesday: 4:30 – 6:00 PM'
+      - 'Thursday: 4:30 – 6:00 PM'
+      - 'Friday: 4:30 – 6:00 PM'
+      - 'Saturday: 4:30 – 6:00 PM'
+      - 'Sunday: 4:30 – 6:00 PM'
+    secondaryHoursType: HAPPY_HOUR
+    nextCloseTime: '2025-05-03T23:00:00Z'
+  - openNow: false
+    periods:
+      - open:
+          day: 0
+          hour: 11
+          minute: 30
+        close:
+          day: 0
+          hour: 14
+          minute: 30
+      - open:
+          day: 3
+          hour: 11
+          minute: 30
+        close:
+          day: 3
+          hour: 14
+          minute: 30
+      - open:
+          day: 4
+          hour: 11
+          minute: 30
+        close:
+          day: 4
+          hour: 14
+          minute: 30
+      - open:
+          day: 5
+          hour: 11
+          minute: 30
+        close:
+          day: 5
+          hour: 14
+          minute: 30
+      - open:
+          day: 6
+          hour: 11
+          minute: 30
+        close:
+          day: 6
+          hour: 14
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: Closed'
+      - 'Tuesday: Closed'
+      - 'Wednesday: 11:30 AM – 2:30 PM'
+      - 'Thursday: 11:30 AM – 2:30 PM'
+      - 'Friday: 11:30 AM – 2:30 PM'
+      - 'Saturday: 11:30 AM – 2:30 PM'
+      - 'Sunday: 11:30 AM – 2:30 PM'
+    secondaryHoursType: LUNCH
+    nextOpenTime: '2025-05-04T16:30:00Z'
+phone: (312) 207-8894
+price_level: PRICE_LEVEL_EXPENSIVE
+price_range: $50 &ndash; $100
+rating: '4.6'
+rating_count: 442
+website: http://tanoshiiwestloop.com/
+description: >-
+  Discover Tanoshii Sushi West Loop in Chicago, IL$$$Nestled in the vibrant West
+  Loop neighborhood of Chicago, IL, Tanoshii Sushi West Loop stands out as a
+  welcoming spot for fresh sushi and Japanese cuisine enthusiasts. This casual
+  eatery delights diners with its array of expertly crafted sushi rolls and
+  other traditional dishes, complemented by an impressive variety of Japanese
+  beverages that enhance the authentic dining experience. Accessibility features
+  like wheelchair-friendly entrances and seating make it a convenient choice for
+  everyone seeking top-rated sushi in the area. The restaurant's inviting
+  atmosphere and thoughtful menu options reflect a commitment to quality, making
+  it an ideal destination for those exploring sushi restaurants nearby or
+  looking for a relaxed meal with flavorful options.
+generative_summary: >-
+  Discover Tanoshii Sushi West Loop in Chicago, IL$$$Nestled in the vibrant West
+  Loop neighborhood of Chicago, IL, Tanoshii Sushi West Loop stands out as a
+  welcoming spot for fresh sushi and Japanese cuisine enthusiasts. This casual
+  eatery delights diners with its array of expertly crafted sushi rolls and
+  other traditional dishes, complemented by an impressive variety of Japanese
+  beverages that enhance the authentic dining experience. Accessibility features
+  like wheelchair-friendly entrances and seating make it a convenient choice for
+  everyone seeking top-rated sushi in the area. The restaurant's inviting
+  atmosphere and thoughtful menu options reflect a commitment to quality, making
+  it an ideal destination for those exploring sushi restaurants nearby or
+  looking for a relaxed meal with flavorful options.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Buzzing About$$$Visitors to this Chicago sushi spot often
+  rave about the consistently fresh and flavorful selections, particularly the
+  creative specialty rolls and classic nigiri that keep things exciting and
+  satisfying. Many appreciate the warm, attentive service that adds a personal
+  touch without overwhelming the meal, creating a cozy vibe that's perfect for
+  casual get-togethers. Folks frequently note that the pricing strikes a great
+  balance, offering good value for the quality you get, which makes it a smart
+  pick for anyone hunting for the best sushi near them. Overall, the positive
+  feedback highlights a welcoming environment where the food shines, encouraging
+  repeat visits for those who love discovering reliable Japanese places in the
+  city.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +465,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

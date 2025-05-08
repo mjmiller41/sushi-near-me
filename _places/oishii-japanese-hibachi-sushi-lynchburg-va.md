@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Oishii! Japanese Hibachi & Sushi"
+title: Oishii! Japanese Hibachi & Sushi
 permalink: /virginia/lynchburg/oishii-japanese-hibachi-sushi.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Lynchburg
 seo:
-  name: "Oishii! Japanese Hibachi & Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://facebook.com/oishiiVA
-description: "Oishii! Japanese Hibachi & Sushi serves delicious sushi in Lynchburg, Virginia. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJh93s9M3RsokRjgUazohIEwQ
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89b2d1cdf4ecdd87:0x4134888ce1a058e!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:00 AM – 9:30 PM'
     - 'Wednesday: 11:00 AM – 9:30 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:00 PM'
     - 'Saturday: 11:00 AM – 10:00 PM'
     - 'Sunday: 11:00 AM – 9:30 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:00 AM – 9:30 PM'
-    - 'Wednesday: 11:00 AM – 9:30 PM'
-    - 'Thursday: 11:00 AM – 9:30 PM'
-    - 'Friday: 11:00 AM – 10:00 PM'
-    - 'Saturday: 11:00 AM – 10:00 PM'
-    - 'Sunday: 11:00 AM – 9:30 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +238,47 @@ phone: (434) 239-8828
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.8'
-rating_count: 0
+rating_count: 391
 website: http://facebook.com/oishiiVA
+description: >-
+  Discover Oishii! in Lynchburg, VA$$$Oishii! Japanese Hibachi & Sushi in
+  Lynchburg, VA, provides a welcoming spot for enjoying authentic Japanese
+  flavors in a laid-back setting. This sushi restaurant features an array of
+  fresh rolls and hibachi dishes, complemented by refreshing bubble tea options
+  that appeal to all ages, including a thoughtful menu for younger diners. The
+  eatery emphasizes accessibility with features like wheelchair-friendly
+  entrances and seating, making it easy for everyone to savor the experience.
+  Patrons can expect a cozy atmosphere perfect for casual meals or gatherings,
+  with operating hours that accommodate both lunch and dinner crowds. As a
+  standout choice among local Japanese places, it highlights affordable yet
+  quality dining that keeps visitors coming back for more.
+generative_summary: >-
+  Discover Oishii! in Lynchburg, VA$$$Oishii! Japanese Hibachi & Sushi in
+  Lynchburg, VA, provides a welcoming spot for enjoying authentic Japanese
+  flavors in a laid-back setting. This sushi restaurant features an array of
+  fresh rolls and hibachi dishes, complemented by refreshing bubble tea options
+  that appeal to all ages, including a thoughtful menu for younger diners. The
+  eatery emphasizes accessibility with features like wheelchair-friendly
+  entrances and seating, making it easy for everyone to savor the experience.
+  Patrons can expect a cozy atmosphere perfect for casual meals or gatherings,
+  with operating hours that accommodate both lunch and dinner crowds. As a
+  standout choice among local Japanese places, it highlights affordable yet
+  quality dining that keeps visitors coming back for more.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Love About This Sushi Spot$$$Visitors often rave about the
+  mouthwatering sushi selections at this Japanese restaurant, praising the
+  flavorful rolls and great value that make it a go-to for affordable eats. Many
+  highlight the efficient and warm service that enhances the overall vibe,
+  turning a simple meal into a enjoyable outing. Folks appreciate the thoughtful
+  touches like complimentary snacks, which add a nice bonus to the experience
+  without breaking the bank. Overall, it's seen as a reliable pick for fresh,
+  tasty options that satisfy cravings, with feedback pointing to its appeal for
+  groups and families. If you're searching for top-rated sushi near you, this
+  spot delivers a solid, feel-good dining experience that keeps the positives
+  rolling in.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +304,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Fuji Sushi Buffet"
+title: Fuji Sushi Buffet
 permalink: /california/vacaville/fuji-sushi-buffet.html
 stateAbbr: CA
 stateName: California
 cityName: Vacaville
 seo:
-  name: "Fuji Sushi Buffet"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Fuji Sushi Buffet serves delicious sushi in Vacaville, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJWQKxGs0ihYARqDz19lo4iyI
 photos:
   - name: >-
@@ -185,7 +183,38 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Fuji Sushi Buffet in Vacaville, CA$$$Fuji Sushi Buffet in Vacaville,
+  CA, delivers a lively all-you-can-eat dining adventure centered around fresh
+  Japanese cuisine. This casual spot features a rotating conveyor belt of
+  options, including sushi rolls, sashimi, and other savory dishes, making it an
+  ideal choice for those exploring sushi restaurants in the area. The venue's
+  approachable atmosphere and thoughtful accessibility features ensure a
+  welcoming experience for all guests. With its focus on variety and
+  convenience, it's perfect for anyone searching for satisfying Japanese meals
+  nearby, blending fun with flavorful choices.
+generative_summary: >-
+  Discover Fuji Sushi Buffet in Vacaville, CA$$$Fuji Sushi Buffet in Vacaville,
+  CA, delivers a lively all-you-can-eat dining adventure centered around fresh
+  Japanese cuisine. This casual spot features a rotating conveyor belt of
+  options, including sushi rolls, sashimi, and other savory dishes, making it an
+  ideal choice for those exploring sushi restaurants in the area. The venue's
+  approachable atmosphere and thoughtful accessibility features ensure a
+  welcoming experience for all guests. With its focus on variety and
+  convenience, it's perfect for anyone searching for satisfying Japanese meals
+  nearby, blending fun with flavorful choices.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What People Are Buzzing About Fuji Sushi Buffet$$$Folks frequently highlight
+  the tasty array of dishes at this spot, praising the fresh sushi rolls and
+  sashimi that make for a satisfying all-you-can-eat feast. Many appreciate the
+  efficient service and reasonable prices, which add to the overall enjoyable
+  vibe of the conveyor belt setup. It's often noted as a fun option for groups
+  or families looking to dive into Japanese flavors without breaking the bank.
+  While it can get lively and crowded during peak times, the experience still
+  comes across as worthwhile and engaging for sushi lovers in the neighborhood.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +240,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

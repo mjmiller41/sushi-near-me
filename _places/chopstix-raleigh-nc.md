@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Chopstix"
+title: Chopstix
 permalink: /north-carolina/raleigh/chopstix.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Raleigh
 seo:
-  name: "Chopstix"
-  type: Restaurant
+  type: restaurant
   links: http://www.chopstixgourmetnc.com/
-description: "Chopstix serves delicious sushi in Raleigh, North Carolina. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJd-IfGKT3rIkR5de9q2DX4C0
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89acf7a4181fe277:0x2de0d760abbdd7e5!10e5
 primary_type: Chinese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:00 AM – 10:00 PM'
     - 'Wednesday: 11:00 AM – 10:00 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:00 PM'
     - 'Saturday: 11:00 AM – 10:00 PM'
     - 'Sunday: 11:00 AM – 10:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:00 AM – 10:00 PM'
-    - 'Wednesday: 11:00 AM – 10:00 PM'
-    - 'Thursday: 11:00 AM – 10:00 PM'
-    - 'Friday: 11:00 AM – 10:00 PM'
-    - 'Saturday: 11:00 AM – 10:00 PM'
-    - 'Sunday: 11:00 AM – 10:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,10 +237,51 @@ secondary_opening_hours:
 phone: (919) 781-6268
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
-rating: '4.1'
-rating_count: 0
+rating: '4.0'
+rating_count: 300
 website: http://www.chopstixgourmetnc.com/
+description: >-
+  Explore Chopstix in Raleigh, NC$$$Chopstix in Raleigh, North Carolina, stands
+  out as a welcoming spot for fresh sushi and classic Chinese dishes, blending
+  flavors that appeal to those seeking local dining options. This casual
+  restaurant features a variety of expertly prepared rolls and favorites like
+  stir-fries, all served in a comfortable setting with convenient accessibility
+  for all visitors. With its moderate pricing and extended hours, it's an ideal
+  choice for anyone looking for reliable sushi places near me or tasty
+  Japanese-inspired meals in a relaxed atmosphere. The menu highlights fresh
+  ingredients and thoughtful combinations, making it a go-to for flavorful
+  experiences without the fuss. Whether you're in the mood for quick takeout or
+  a sit-down meal, Chopstix delivers a satisfying blend of tradition and
+  convenience in the heart of the city.
+generative_summary: >-
+  Explore Chopstix in Raleigh, NC$$$Chopstix in Raleigh, North Carolina, stands
+  out as a welcoming spot for fresh sushi and classic Chinese dishes, blending
+  flavors that appeal to those seeking local dining options. This casual
+  restaurant features a variety of expertly prepared rolls and favorites like
+  stir-fries, all served in a comfortable setting with convenient accessibility
+  for all visitors. With its moderate pricing and extended hours, it's an ideal
+  choice for anyone looking for reliable sushi places near me or tasty
+  Japanese-inspired meals in a relaxed atmosphere. The menu highlights fresh
+  ingredients and thoughtful combinations, making it a go-to for flavorful
+  experiences without the fuss. Whether you're in the mood for quick takeout or
+  a sit-down meal, Chopstix delivers a satisfying blend of tradition and
+  convenience in the heart of the city.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Buzzing About$$$Visitors to this Raleigh favorite often
+  rave about the tasty sushi and hearty Chinese options, noting that the flavors
+  are consistently fresh and well-balanced for a satisfying meal. Many
+  appreciate the good value for the price, with portions that feel generous and
+  service that's friendly without being overwhelming, making it a solid pick for
+  groups or solo diners. While some mention minor waits during peak times, the
+  overall atmosphere keeps things upbeat and enjoyable, especially for those
+  exploring top-rated sushi spots nearby. Feedback highlights the reliable
+  quality that keeps people coming back, blending casual vibes with honest
+  flavors that hit the spot. All in all, it's a worthwhile stop if you're
+  hunting for dependable eats that leave you feeling content and eager to
+  return.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +307,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Mori"
+title: Sushi Mori
 permalink: /washington/kennewick/sushi-mori.html
 stateAbbr: WA
 stateName: Washington
 cityName: Kennewick
 seo:
-  name: "Sushi Mori"
-  type: Restaurant
+  type: restaurant
   links: http://www.sushimoriwa.com/
-description: "Sushi Mori serves delicious sushi in Kennewick, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJm0R7Fh56mFQR77jHv3Uae-Q
 photos:
   - name: >-
@@ -168,7 +166,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x54987a1e167b449b:0xe47b1a75bfc7b8ef!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 20
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 8:30 PM'
     - 'Tuesday: 11:00 AM – 8:30 PM'
     - 'Wednesday: 11:00 AM – 8:30 PM'
@@ -176,14 +232,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:00 PM'
     - 'Saturday: 11:00 AM – 9:00 PM'
     - 'Sunday: 11:00 AM – 8:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 8:30 PM'
-    - 'Tuesday: 11:00 AM – 8:30 PM'
-    - 'Wednesday: 11:00 AM – 8:30 PM'
-    - 'Thursday: 11:00 AM – 8:30 PM'
-    - 'Friday: 11:00 AM – 9:00 PM'
-    - 'Saturday: 11:00 AM – 9:00 PM'
-    - 'Sunday: 11:00 AM – 8:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -195,9 +244,44 @@ phone: (509) 783-0232
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.5'
-rating_count: 0
+rating_count: 443
 website: http://www.sushimoriwa.com/
+description: >-
+  Discover Sushi Mori in Kennewick, WA$$$Sushi Mori in Kennewick, Washington,
+  stands out as a cozy hub for enjoying fresh Japanese-inspired dishes in a
+  laid-back environment. This welcoming spot specializes in a variety of sushi
+  rolls and other flavorful fare, making it ideal for casual meals with family
+  or friends. With accessibility features like wheelchair-friendly parking and
+  seating, it ensures everyone can savor the experience comfortably. The
+  restaurant's easygoing atmosphere and daily operating hours add to its appeal
+  as a reliable choice for those seeking quality sushi options nearby. Whether
+  you're in the mood for top-rated Japanese cuisine, Sushi Mori delivers a
+  satisfying blend of taste and convenience.
+generative_summary: >-
+  Discover Sushi Mori in Kennewick, WA$$$Sushi Mori in Kennewick, Washington,
+  stands out as a cozy hub for enjoying fresh Japanese-inspired dishes in a
+  laid-back environment. This welcoming spot specializes in a variety of sushi
+  rolls and other flavorful fare, making it ideal for casual meals with family
+  or friends. With accessibility features like wheelchair-friendly parking and
+  seating, it ensures everyone can savor the experience comfortably. The
+  restaurant's easygoing atmosphere and daily operating hours add to its appeal
+  as a reliable choice for those seeking quality sushi options nearby. Whether
+  you're in the mood for top-rated Japanese cuisine, Sushi Mori delivers a
+  satisfying blend of taste and convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About Sushi Mori$$$With a strong 4.5-star rating
+  from hundreds of visitors, Sushi Mori comes across as a go-to spot for fresh
+  and tasty sushi in the area. People often appreciate the flavorful rolls and
+  straightforward menu, noting it as a solid pick for anyone hunting for
+  reliable Japanese eats close by. The casual vibe and attentive service get
+  frequent nods, making it feel like a welcoming place for everyday dining.
+  While some mention portions could vary, the overall consensus leans positive,
+  highlighting it as one of the better sushi restaurants around for its value
+  and consistency. If you're exploring sushi places near you, this location
+  seems to deliver a generally enjoyable experience that's worth checking out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -223,7 +307,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

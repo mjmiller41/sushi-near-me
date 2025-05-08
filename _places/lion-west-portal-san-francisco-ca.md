@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Lion West Portal"
+title: Lion West Portal
 permalink: /california/san-francisco/lion-west-portal.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
 seo:
-  name: "Lion West Portal"
-  type: Restaurant
+  type: restaurant
   links: https://lionwestportal.com/
-description: "Lion West Portal serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. Available for, and dinner."
 place_id: ChIJoTonKAB9j4AREVbqEuhgHYw
 photos:
   - name: >-
@@ -182,6 +180,31 @@ price_range: $30 &ndash; $50
 rating: '4.6'
 rating_count: 0
 website: https://lionwestportal.com/
+description: >-
+  Explore Lion West Portal$$$Lion West Portal in San Francisco, CA, is a
+  standout sushi restaurant known for its fresh and inventive Japanese dishes
+  that cater to a variety of tastes. This welcoming spot features a unique cart
+  system delivering small plates of creative rolls and appetizers, making it
+  easy to sample a range of flavors right at your table. With a focus on
+  high-quality ingredients and thoughtful presentations, it's an ideal choice
+  for those seeking top-rated sushi near you in a relaxed yet elegant setting.
+  The restaurant also prioritizes accessibility and offers options for vegan
+  diners, enhancing its appeal as one of the best sushi places near me. Whether
+  you're in the mood for innovative specials or classic favorites, this spot
+  delivers a memorable dining experience in the heart of the city.
+generative_summary: >-
+  Explore Lion West Portal$$$Lion West Portal in San Francisco, CA, is a
+  standout sushi restaurant known for its fresh and inventive Japanese dishes
+  that cater to a variety of tastes. This welcoming spot features a unique cart
+  system delivering small plates of creative rolls and appetizers, making it
+  easy to sample a range of flavors right at your table. With a focus on
+  high-quality ingredients and thoughtful presentations, it's an ideal choice
+  for those seeking top-rated sushi near you in a relaxed yet elegant setting.
+  The restaurant also prioritizes accessibility and offers options for vegan
+  diners, enhancing its appeal as one of the best sushi places near me. Whether
+  you're in the mood for innovative specials or classic favorites, this spot
+  delivers a memorable dining experience in the heart of the city.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJoTonKAB9j4AREVbqEuhgHYw/reviews/ChZDSUhNMG9nS0VJQ0FnTURBN29TOVpBEAE
@@ -419,6 +442,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNQOVlPSmxRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNQOVlPSmxRRRAB!2m1!1s0x808f7d0028273aa1:0x8c1d60e812ea5611
+review_summary: >-
+  What Diners Are Buzzing About$$$Visitors consistently praise the fresh and
+  flavorful sushi at this neighborhood gem, highlighting the creative twists on
+  traditional rolls that keep things exciting and delicious. Many appreciate the
+  variety of vegan options that feel just as satisfying as the classic dishes,
+  making it a go-to for diverse groups looking for great Japanese places near
+  me. The friendly service and fun cart system add a casual vibe that enhances
+  the overall enjoyment, with folks noting it's perfect for a relaxed meal
+  without the usual tipping hassle. While some mention that certain small plates
+  might lean a bit heavy on rice, the general consensus is that the quality and
+  innovation make it worth trying. Overall, it's a solid pick for anyone
+  searching for the best sushi near me, offering a welcoming atmosphere that
+  encourages repeat visits.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options:
   acceptsCreditCards: true
@@ -446,7 +483,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Jade Asian Bistro"
+title: Jade Asian Bistro
 permalink: /new-york/douglaston/jade-asian-bistro.html
 stateAbbr: NY
 stateName: New York
 cityName: Douglaston
 seo:
-  name: "Jade Asian Bistro"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Jade Asian Bistro serves delicious sushi in Douglaston, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ6T4A9WuJwokR7QVTDMQvYTE
 photos:
   - name: >-
@@ -184,7 +182,42 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Jade Asian Bistro in Douglaston, NY$$$Jade Asian Bistro in
+  Douglaston, NY, offers a vibrant dining experience centered around authentic
+  Cantonese cuisine, including flavorful dim sum and other traditional dishes.
+  This lively spot stands out with its welcoming atmosphere, making it a great
+  choice for those seeking a casual yet engaging meal in a convenient
+  neighborhood setting. Accessibility features like wheelchair-friendly parking
+  and entrances ensure it's inclusive for all visitors, enhancing the overall
+  comfort. The menu highlights fresh ingredients and classic preparations,
+  appealing to anyone exploring Asian flavors nearby. With its prime location,
+  it's an ideal destination for a satisfying lunch or dinner outing.
+generative_summary: >-
+  Discover Jade Asian Bistro in Douglaston, NY$$$Jade Asian Bistro in
+  Douglaston, NY, offers a vibrant dining experience centered around authentic
+  Cantonese cuisine, including flavorful dim sum and other traditional dishes.
+  This lively spot stands out with its welcoming atmosphere, making it a great
+  choice for those seeking a casual yet engaging meal in a convenient
+  neighborhood setting. Accessibility features like wheelchair-friendly parking
+  and entrances ensure it's inclusive for all visitors, enhancing the overall
+  comfort. The menu highlights fresh ingredients and classic preparations,
+  appealing to anyone exploring Asian flavors nearby. With its prime location,
+  it's an ideal destination for a satisfying lunch or dinner outing.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Sharing$$$Based on general feedback for similar Cantonese
+  restaurants, diners often appreciate the fresh and tasty dishes that make
+  meals feel both comforting and exciting. Many highlight the variety of options
+  like dim sum, which add a fun, shareable element to visits without
+  overwhelming the palate. While specific reviews for this spot aren't
+  available, it's commonly noted that the atmosphere contributes to a relaxed
+  vibe, perfect for casual get-togethers or solo stops. Overall, the experience
+  tends to leave guests satisfied with the value and quality, encouraging return
+  trips for more flavorful bites. Keep in mind that individual tastes can vary,
+  so it's worth checking it out to see if it hits the spot for you.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +243,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

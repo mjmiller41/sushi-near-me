@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yum Sushi Burrito"
+title: Yum Sushi Burrito
 permalink: /tennessee/johnson-city/yum-sushi-burrito.html
 stateAbbr: TN
 stateName: Tennessee
 cityName: Johnson City
 seo:
-  name: "Yum Sushi Burrito"
-  type: Restaurant
-  links: null
-description: "Yum Sushi Burrito serves delicious sushi in Johnson City, Tennessee. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.yumpokespot.com/
 place_id: ChIJxbTIHn19WogRnkkw1eDEziM
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x885a7d7d1ec8b4c5:0x23cec4e0d530499e!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 9:00 PM'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 9:00 PM'
+    - 'Saturday: 11:00 AM – 9:00 PM'
+    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T01:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,53 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (423) 328-3319
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.6'
+rating_count: 175
+website: http://www.yumpokespot.com/
+description: >-
+  Discover Yum Sushi Burrito in Johnson City, TN$$$Yum Sushi Burrito in Johnson
+  City, TN, stands out as a casual spot specializing in Hawaiian-inspired
+  cuisine with creative sushi burritos that blend fresh flavors and innovative
+  twists. This sushi restaurant offers a welcoming atmosphere where diners can
+  enjoy a variety of fresh ingredients and customizable options, making it a
+  go-to choice for those seeking top-rated sushi experiences nearby. With
+  accessibility features like wheelchair-friendly parking and entrances, it's
+  designed to accommodate all visitors comfortably. The spot operates daily from
+  11 AM to 9 PM, providing ample opportunities to savor healthy, inventive
+  dishes that highlight quality seafood and vibrant toppings. Whether you're in
+  the mood for a quick meal or exploring new Japanese-inspired places close to
+  you, this location delivers a satisfying blend of taste and convenience.
+generative_summary: >-
+  Discover Yum Sushi Burrito in Johnson City, TN$$$Yum Sushi Burrito in Johnson
+  City, TN, stands out as a casual spot specializing in Hawaiian-inspired
+  cuisine with creative sushi burritos that blend fresh flavors and innovative
+  twists. This sushi restaurant offers a welcoming atmosphere where diners can
+  enjoy a variety of fresh ingredients and customizable options, making it a
+  go-to choice for those seeking top-rated sushi experiences nearby. With
+  accessibility features like wheelchair-friendly parking and entrances, it's
+  designed to accommodate all visitors comfortably. The spot operates daily from
+  11 AM to 9 PM, providing ample opportunities to savor healthy, inventive
+  dishes that highlight quality seafood and vibrant toppings. Whether you're in
+  the mood for a quick meal or exploring new Japanese-inspired places close to
+  you, this location delivers a satisfying blend of taste and convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About This Sushi Spot$$$Folks rave about the tasty
+  poke bowls and burritos at this spot, praising the fresh toppings and sauces
+  that make every bite feel customized and flavorful. Many highlight the quick
+  service and welcoming staff, which add to the overall enjoyable vibe without
+  any unnecessary waits. Reviewers often note that the food strikes a great
+  balance between healthy options and delicious tastes, appealing to those
+  watching their meals or just craving something satisfying. Overall, it's clear
+  that this place earns its reputation for solid, reliable sushi experiences
+  that keep people coming back. If you're hunting for the best sushi near you,
+  the consistent feedback suggests it's worth a try for a casual and rewarding
+  dining outing.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +314,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

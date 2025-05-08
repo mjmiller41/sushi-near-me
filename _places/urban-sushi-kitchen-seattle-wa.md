@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Urban Sushi Kitchen"
+title: Urban Sushi Kitchen
 permalink: /washington/seattle/urban-sushi-kitchen.html
 stateAbbr: WA
 stateName: Washington
 cityName: Seattle
 seo:
-  name: "Urban Sushi Kitchen"
-  type: Restaurant
+  type: restaurant
   links: http://www.urbansushikitchen.com/
-description: "Urban Sushi Kitchen serves delicious sushi in Seattle, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ-4RhGUsVkFQRllCF99g9t_M
 photos:
   - name: >-
@@ -169,7 +167,49 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x5490154b196184fb:0xf3b73dd8f7855096!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:00 PM'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -177,14 +217,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:00 PM'
     - 'Saturday: Closed'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:00 AM – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 9:00 PM'
-    - 'Saturday: Closed'
-    - 'Sunday: Closed'
+  nextOpenTime: '2025-05-05T18:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,9 +229,47 @@ phone: (206) 448-6953
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.4'
-rating_count: 0
+rating_count: 392
 website: http://www.urbansushikitchen.com/
+description: >-
+  Discover Urban Sushi Kitchen in Seattle, WA$$$Urban Sushi Kitchen in Seattle,
+  WA, stands out as a casual dining spot offering fresh sushi rolls and
+  authentic Japanese flavors that appeal to those seeking quality meals nearby.
+  This welcoming restaurant features a simple counter setup ideal for enjoying
+  lunch or dinner, with a menu that highlights expertly prepared dishes in a
+  relaxed atmosphere. Accessibility is a key feature, including
+  wheelchair-friendly entrances and seating, making it easier for everyone to
+  savor the experience. Whether you're in the mood for top-rated sushi options
+  or exploring Japanese places in the area, the spot's moderate pricing and
+  inviting vibe add to its charm. Overall, it's a go-to choice for anyone
+  craving satisfying sushi in the heart of the city.
+generative_summary: >-
+  Discover Urban Sushi Kitchen in Seattle, WA$$$Urban Sushi Kitchen in Seattle,
+  WA, stands out as a casual dining spot offering fresh sushi rolls and
+  authentic Japanese flavors that appeal to those seeking quality meals nearby.
+  This welcoming restaurant features a simple counter setup ideal for enjoying
+  lunch or dinner, with a menu that highlights expertly prepared dishes in a
+  relaxed atmosphere. Accessibility is a key feature, including
+  wheelchair-friendly entrances and seating, making it easier for everyone to
+  savor the experience. Whether you're in the mood for top-rated sushi options
+  or exploring Japanese places in the area, the spot's moderate pricing and
+  inviting vibe add to its charm. Overall, it's a go-to choice for anyone
+  craving satisfying sushi in the heart of the city.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Customer Feedback$$$Folks who visit Urban Sushi Kitchen often
+  rave about the fresh, flavorful sushi that hits the spot without breaking the
+  bank, making it a solid pick for casual diners. Many appreciate the friendly
+  service and efficient atmosphere that keeps things light and enjoyable, even
+  during busy times. While opinions vary, the general consensus leans positive,
+  with praise for the variety of rolls and Japanese-inspired fare that leave
+  customers feeling satisfied. It's clear that the restaurant maintains a high
+  standard, as reflected in its strong ratings, encouraging repeat visits for
+  those hunting for reliable sushi spots. All in all, if you're on the lookout
+  for a welcoming place to grab a bite, this spot delivers a consistently
+  pleasant experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -224,7 +295,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

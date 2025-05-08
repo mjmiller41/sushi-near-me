@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Manna Sushi"
+title: Manna Sushi
 permalink: /new-jersey/colonia/manna-sushi.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Colonia
 seo:
-  name: "Manna Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.mannasushicolonia.com/
-description: "Manna Sushi serves delicious sushi in Colonia, New Jersey. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJx_AK3MO3w4kR5FLoOAJZmcU
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $20 &ndash; $30
 rating: '4.8'
 rating_count: 0
 website: http://www.mannasushicolonia.com/
+description: >-
+  Discover Manna Sushi in Colonia, New Jersey$$$Nestled in Colonia, New Jersey,
+  Manna Sushi stands out as a welcoming Japanese restaurant offering a
+  delightful mix of traditional dishes in a comfortable environment. Guests can
+  savor fresh sushi options alongside hearty bento boxes, flavorful noodles, and
+  sweet mochi treats, making it a go-to spot for anyone craving authentic
+  Japanese flavors. The cozy setting enhances the dining experience, with
+  thoughtful accessibility features like wheelchair-friendly seating and parking
+  that cater to a wide range of visitors. This local favorite also provides
+  convenient takeout and delivery, ideal for those searching for quality sushi
+  restaurants nearby. Whether you're exploring top-rated Japanese places in the
+  area, Manna Sushi delivers a satisfying blend of taste and convenience that
+  keeps diners coming back.
+generative_summary: >-
+  Discover Manna Sushi in Colonia, New Jersey$$$Nestled in Colonia, New Jersey,
+  Manna Sushi stands out as a welcoming Japanese restaurant offering a
+  delightful mix of traditional dishes in a comfortable environment. Guests can
+  savor fresh sushi options alongside hearty bento boxes, flavorful noodles, and
+  sweet mochi treats, making it a go-to spot for anyone craving authentic
+  Japanese flavors. The cozy setting enhances the dining experience, with
+  thoughtful accessibility features like wheelchair-friendly seating and parking
+  that cater to a wide range of visitors. This local favorite also provides
+  convenient takeout and delivery, ideal for those searching for quality sushi
+  restaurants nearby. Whether you're exploring top-rated Japanese places in the
+  area, Manna Sushi delivers a satisfying blend of taste and convenience that
+  keeps diners coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJx_AK3MO3w4kR5FLoOAJZmcU/reviews/ChdDSUhNMG9nS0VJQ0FnSUM3enNXc3BBRRAB
@@ -324,6 +349,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNueXRXUnp3RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNueXRXUnp3RRAB!2m1!1s0x89c3b7c3dc0af0c7:0xc599590238e852e4
+review_summary: >-
+  What People Love About This Sushi Spot$$$Folks rave about the fresh and tasty
+  sushi here, with plenty of options that make it easy to find something
+  delicious, including vegetarian choices that don't skimp on flavor. Many
+  highlight the friendly service and welcoming vibe, noting how the staff goes
+  out of their way to accommodate groups and families for a relaxed meal. Diners
+  appreciate the reasonable prices and consistent quality, whether they're
+  enjoying standout dishes like creative rolls or hearty sides that add extra
+  excitement to the experience. Overall, it's a solid pick for anyone hunting
+  for reliable sushi close to home, with the added bonus of quick takeout that
+  keeps things convenient and enjoyable. While it's not perfect for everyone,
+  the positive feedback paints a picture of a spot that's genuinely worth trying
+  for its approachable atmosphere and satisfying meals.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -356,7 +395,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

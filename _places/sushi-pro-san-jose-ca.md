@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Pro"
+title: Sushi Pro
 permalink: /california/san-jose/sushi-pro.html
 stateAbbr: CA
 stateName: California
 cityName: San Jose
 seo:
-  name: "Sushi Pro"
-  type: Restaurant
+  type: restaurant
   links: http://sushiprosj.com/
-description: "Sushi Pro serves delicious sushi in San Jose, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJzYHJv37Nj4ARm7OZ9YxdsxI
 photos:
   - name: >-
@@ -170,7 +168,105 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x808fcd7ebfc981cd:0x12b35d8cf599b39b!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 2:30 PM, 5:00 – 9:30 PM'
     - 'Tuesday: 11:00 AM – 2:30 PM, 5:00 – 9:30 PM'
     - 'Wednesday: 11:00 AM – 2:30 PM, 5:00 – 9:30 PM'
@@ -178,14 +274,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 2:30 PM, 5:00 – 10:30 PM'
     - 'Saturday: 11:00 AM – 10:30 PM'
     - 'Sunday: 11:00 AM – 9:30 PM'
-  current:
-    - 'Monday: 11:00 AM – 2:30 PM, 5:00 – 9:30 PM'
-    - 'Tuesday: 11:00 AM – 2:30 PM, 5:00 – 9:30 PM'
-    - 'Wednesday: 11:00 AM – 2:30 PM, 5:00 – 9:30 PM'
-    - 'Thursday: 11:00 AM – 2:30 PM, 5:00 – 9:30 PM'
-    - 'Friday: 11:00 AM – 2:30 PM, 5:00 – 10:30 PM'
-    - 'Saturday: 11:00 AM – 10:30 PM'
-    - 'Sunday: 11:00 AM – 9:30 PM'
+  nextCloseTime: '2025-05-04T05:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +286,269 @@ phone: (408) 564-4953
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.6'
-rating_count: 0
+rating_count: 295
 website: http://sushiprosj.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Sushi Pro in San Jose, CA$$$Sushi Pro in San Jose, CA, stands out as
+  a welcoming Japanese eatery serving up fresh rolls, bento boxes, and classic
+  fare in a relaxed setting, making it a go-to choice for anyone craving
+  authentic flavors. This spot excels with its accessible features, including
+  wheelchair-friendly entrances and seating, ensuring everyone can enjoy a
+  comfortable meal. Diners appreciate the variety of options like fresh sashimi
+  and tempura dishes, paired with outdoor seating for a casual vibe that
+  enhances the overall experience. If you're exploring sushi restaurants in the
+  area, Sushi Pro offers a laid-back atmosphere that complements its flavorful
+  menu, perfect for a quick lunch or evening outing. Its convenient location
+  also makes it an easy find for those seeking quality Japanese dining nearby.
+generative_summary: >-
+  Discover Sushi Pro in San Jose, CA$$$Sushi Pro in San Jose, CA, stands out as
+  a welcoming Japanese eatery serving up fresh rolls, bento boxes, and classic
+  fare in a relaxed setting, making it a go-to choice for anyone craving
+  authentic flavors. This spot excels with its accessible features, including
+  wheelchair-friendly entrances and seating, ensuring everyone can enjoy a
+  comfortable meal. Diners appreciate the variety of options like fresh sashimi
+  and tempura dishes, paired with outdoor seating for a casual vibe that
+  enhances the overall experience. If you're exploring sushi restaurants in the
+  area, Sushi Pro offers a laid-back atmosphere that complements its flavorful
+  menu, perfect for a quick lunch or evening outing. Its convenient location
+  also makes it an easy find for those seeking quality Japanese dining nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJzYHJv37Nj4ARm7OZ9YxdsxI/reviews/ChdDSUhNMG9nS0VJQ0FnTUNRLXVTbXVnRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        Amazing sushi!   Sushi pro is now at the top of our list of sushi
+        restaurants in the SJ area.    We stopped here for lunch as many of the
+        Japanese restaurants were busy and we decided to take the short drive
+        here.
+
+
+        The restaurant is located in a busy mall area and parking can be a bit
+        crowded, but there are lots of spots.   We were able to get seated
+        quickly and made our orders quickly.
+
+
+        The sashimi was exceptional!  Very large pieces of fresh cuts and we
+        will definitely order again.  Sushi was also very good as was the
+        tempura dinner set.   I ordered the steamed clams as I love them and
+        would say they were good, but would definitely skip the Japanese style
+        okra.
+
+
+        Overall would highly recommend!
+      languageCode: en
+    originalText:
+      text: >-
+        Amazing sushi!   Sushi pro is now at the top of our list of sushi
+        restaurants in the SJ area.    We stopped here for lunch as many of the
+        Japanese restaurants were busy and we decided to take the short drive
+        here.
+
+
+        The restaurant is located in a busy mall area and parking can be a bit
+        crowded, but there are lots of spots.   We were able to get seated
+        quickly and made our orders quickly.
+
+
+        The sashimi was exceptional!  Very large pieces of fresh cuts and we
+        will definitely order again.  Sushi was also very good as was the
+        tempura dinner set.   I ordered the steamed clams as I love them and
+        would say they were good, but would definitely skip the Japanese style
+        okra.
+
+
+        Overall would highly recommend!
+      languageCode: en
+    authorAttribution:
+      displayName: Tom Nakatani (t2co)
+      uri: https://www.google.com/maps/contrib/116527532463919511843/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVOmGjLnOSQdVvE5CHSHgY5WS5yt5U2BJhi4hRjA98_Rt16LMzjQg=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2025-03-03T20:09:20.359340Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNRLXVTbXVnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNRLXVTbXVnRRAB!2m1!1s0x808fcd7ebfc981cd:0x12b35d8cf599b39b
+  - name: >-
+      places/ChIJzYHJv37Nj4ARm7OZ9YxdsxI/reviews/ChZDSUhNMG9nS0VJQ0FnSURfenItT1FBEAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        This sushi place is simply wow! The sushi is incredibly fresh and
+        absolutely delicious—every bite feels like a treat.
+
+        What truly sets this place apart, though, is the outstanding service.
+        The staff are so attentive, warm, and professional, making me feel
+        welcomed every single time I visit.
+
+        On top of that, the service is impressively quick, yet nothing ever
+        feels rushed. It’s a perfect blend of amazing food and exceptional
+        hospitality.
+
+
+        Highly recommend!
+      languageCode: en
+    originalText:
+      text: >-
+        This sushi place is simply wow! The sushi is incredibly fresh and
+        absolutely delicious—every bite feels like a treat.
+
+        What truly sets this place apart, though, is the outstanding service.
+        The staff are so attentive, warm, and professional, making me feel
+        welcomed every single time I visit.
+
+        On top of that, the service is impressively quick, yet nothing ever
+        feels rushed. It’s a perfect blend of amazing food and exceptional
+        hospitality.
+
+
+        Highly recommend!
+      languageCode: en
+    authorAttribution:
+      displayName: sarthak swain
+      uri: https://www.google.com/maps/contrib/109745840494380622641/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXjt3llbhA1MgHnw-preaL7HWkYlwaykpSvAzvct7frbXBxAzwnJA=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-01-24T08:28:46.497090Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURfenItT1FBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURfenItT1FBEAE!2m1!1s0x808fcd7ebfc981cd:0x12b35d8cf599b39b
+  - name: >-
+      places/ChIJzYHJv37Nj4ARm7OZ9YxdsxI/reviews/ChdDSUhNMG9nS0VJQ0FnTUNnMjVyMDBBRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 4
+    text:
+      text: >-
+        My wife and I had a good time for our valentine's day dinner. I had the
+        salmon teriyaki. It was a nice gesture they had chocolate and a rose.
+        One down side is the space is a bit small. I would love it if it would
+        expand to a bigger place. Other then that would definitely come back on
+        another special occasion.
+      languageCode: en
+    originalText:
+      text: >-
+        My wife and I had a good time for our valentine's day dinner. I had the
+        salmon teriyaki. It was a nice gesture they had chocolate and a rose.
+        One down side is the space is a bit small. I would love it if it would
+        expand to a bigger place. Other then that would definitely come back on
+        another special occasion.
+      languageCode: en
+    authorAttribution:
+      displayName: Ricardo Martinez Mata
+      uri: https://www.google.com/maps/contrib/100350023128055042269/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXt2Uwo8nUH5MLX6sll1WAymSbOSZULyNwzKfsGtx8o-rBExSjv=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-02-21T02:22:18.798938Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNnMjVyMDBBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNnMjVyMDBBRRAB!2m1!1s0x808fcd7ebfc981cd:0x12b35d8cf599b39b
+  - name: >-
+      places/ChIJzYHJv37Nj4ARm7OZ9YxdsxI/reviews/ChdDSUhNMG9nS0VJQ0FnTURRX1l1bC1RRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Always have a good time there. Fresh sushi. Fair price. Awesome customer
+        service from Tu and Hien! Our favorite sushi place in the Bay
+      languageCode: en
+    originalText:
+      text: >-
+        Always have a good time there. Fresh sushi. Fair price. Awesome customer
+        service from Tu and Hien! Our favorite sushi place in the Bay
+      languageCode: en
+    authorAttribution:
+      displayName: Rachel Miller
+      uri: https://www.google.com/maps/contrib/111796622417780706355/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVbLIIzNcqj9OI-nyIxuJbAVHSB8yljobofA02tt2IpxLx0AN-d=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-13T13:34:01.043912Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURRX1l1bC1RRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURRX1l1bC1RRRAB!2m1!1s0x808fcd7ebfc981cd:0x12b35d8cf599b39b
+  - name: >-
+      places/ChIJzYHJv37Nj4ARm7OZ9YxdsxI/reviews/ChZDSUhNMG9nS0VJQ0FnTUNva2JIRUlnEAE
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        I absolutely love this new find! The food is AMAZING! I come to town
+        monthly and look forward to making this a must-have while I'm there. The
+        fish is very fresh and their rolls are fun and delicious. I've had a few
+        other sushi spots near by but they have not even come close to this
+        spot! Sadly I don't have pics to add. I will try and update after my
+        next visit!
+      languageCode: en
+    originalText:
+      text: >-
+        I absolutely love this new find! The food is AMAZING! I come to town
+        monthly and look forward to making this a must-have while I'm there. The
+        fish is very fresh and their rolls are fun and delicious. I've had a few
+        other sushi spots near by but they have not even come close to this
+        spot! Sadly I don't have pics to add. I will try and update after my
+        next visit!
+      languageCode: en
+    authorAttribution:
+      displayName: Dani Priest
+      uri: https://www.google.com/maps/contrib/103157074326091594162/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWXyMs1ZweH8w2YWLlk3-0TD3Rt_79mqFSk2pleMLUeAx7Bl8XbNQ=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-04-17T18:05:26.460532Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNva2JIRUlnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNva2JIRUlnEAE!2m1!1s0x808fcd7ebfc981cd:0x12b35d8cf599b39b
+review_summary: >-
+  What Customers Love About This Sushi Spot$$$Visitors consistently praise the
+  incredibly fresh fish and creative rolls at this Japanese restaurant, noting
+  that every bite delivers a satisfying and authentic taste that keeps them
+  coming back. Many highlight the attentive and efficient service that makes
+  dining here feel welcoming and hassle-free, turning meals into enjoyable
+  experiences. While the space is cozy and sometimes busy, folks appreciate the
+  fair prices and quick turnaround, making it a solid pick for groups or special
+  occasions without breaking the bank. Overall, it's clear that this spot hits
+  the mark for those hunting for top-rated sushi options, with positive feedback
+  on the variety and quality that outshines nearby competitors. If you're in the
+  mood for reliable Japanese fare, this place offers a consistently enjoyable
+  vibe that's worth trying out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
+delivery: true
+dine_in: true
 good_for_children: null
-good_for_groups: null
+good_for_groups: true
 good_for_sports: null
-live_music: null
+live_music: false
 menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
 serves_breakfast: null
 serves_brunch: null
 serves_cocktails: null
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: false
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

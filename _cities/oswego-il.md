@@ -5,4 +5,5 @@ permalink: /illinois/oswego/
 stateAbbr: IL
 stateName: Illinois
 cityName: Oswego
+
 ---

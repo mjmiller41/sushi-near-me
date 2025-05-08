@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Hana Sushi"
+title: Hana Sushi
 permalink: /california/el-cajon/hana-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: El Cajon
 seo:
-  name: "Hana Sushi"
-  type: Restaurant
-  links: null
-description: "Hana Sushi serves delicious sushi in El Cajon, California. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.hanasushica.com/
 place_id: ChIJKas2bnJZ2YARezCI6iV8yZY
 photos:
   - name: >-
@@ -170,22 +168,172 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80d959726e36ab29:0x96c97c25ea88307b!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: Closed'
+    - 'Tuesday: 11:00 AM – 10:00 PM'
+    - 'Wednesday: 11:00 AM – 10:00 PM'
+    - 'Thursday: 11:00 AM – 10:00 PM'
+    - 'Friday: 11:00 AM – 11:00 PM'
+    - 'Saturday: 12:00 – 10:30 PM'
+    - 'Sunday: 12:00 – 10:00 PM'
+  nextCloseTime: '2025-05-04T05:30:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
-phone: null
-price_level: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 0
+        close:
+          day: 0
+          hour: 22
+          minute: 0
+      - open:
+          day: 2
+          hour: 11
+          minute: 0
+        close:
+          day: 2
+          hour: 22
+          minute: 0
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 22
+          minute: 0
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 22
+          minute: 0
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 22
+          minute: 30
+      - open:
+          day: 6
+          hour: 12
+          minute: 0
+        close:
+          day: 6
+          hour: 22
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: Closed'
+      - 'Tuesday: 11:00 AM – 10:00 PM'
+      - 'Wednesday: 11:00 AM – 10:00 PM'
+      - 'Thursday: 11:00 AM – 10:00 PM'
+      - 'Friday: 11:00 AM – 10:30 PM'
+      - 'Saturday: 12:00 – 10:00 PM'
+      - 'Sunday: 12:00 – 10:00 PM'
+    secondaryHoursType: TAKEOUT
+    nextCloseTime: '2025-05-04T05:00:00Z'
+phone: (619) 328-1583
+price_level: PRICE_LEVEL_MODERATE
 price_range: null
-rating: null
-rating_count: 0
-website: null
+rating: '4.4'
+rating_count: 622
+website: http://www.hanasushica.com/
+description: >-
+  Discover Hana Sushi in El Cajon, CA$$$Hana Sushi in El Cajon, CA, stands out
+  as a cozy destination for those craving authentic Japanese flavors, featuring
+  an array of fresh sushi options and bento boxes that highlight quality
+  ingredients. The spot offers a welcoming atmosphere perfect for enjoying light
+  meals paired with beverages like beer and sake, making it ideal for casual
+  outings or quick bites. With its accessible design and convenient hours, it's
+  a great choice for anyone exploring top sushi restaurants in the area.
+  Visitors often appreciate the variety of dishes that cater to different
+  tastes, from classic rolls to more adventurous selections, ensuring a
+  satisfying experience. Whether you're seeking sushi places nearby or simply
+  want to unwind with flavorful cuisine, this location combines tradition with
+  everyday convenience.
+generative_summary: >-
+  Discover Hana Sushi in El Cajon, CA$$$Hana Sushi in El Cajon, CA, stands out
+  as a cozy destination for those craving authentic Japanese flavors, featuring
+  an array of fresh sushi options and bento boxes that highlight quality
+  ingredients. The spot offers a welcoming atmosphere perfect for enjoying light
+  meals paired with beverages like beer and sake, making it ideal for casual
+  outings or quick bites. With its accessible design and convenient hours, it's
+  a great choice for anyone exploring top sushi restaurants in the area.
+  Visitors often appreciate the variety of dishes that cater to different
+  tastes, from classic rolls to more adventurous selections, ensuring a
+  satisfying experience. Whether you're seeking sushi places nearby or simply
+  want to unwind with flavorful cuisine, this location combines tradition with
+  everyday convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$If you're hunting for the best sushi near you,
+  folks generally highlight the fresh, high-quality ingredients and generous
+  portions that make meals here a hit. Many appreciate the welcoming vibe and
+  efficient service, which add to the overall enjoyment without any major
+  complaints. Reviewers often note that the value for money is solid, especially
+  for a moderately priced spot that delivers on taste and variety. Overall, the
+  consensus leans positive, with diners praising the consistent flavors that
+  keep them coming back for more. While experiences can vary, the strong rating
+  suggests it's a reliable pick for anyone looking to indulge in
+  Japanese-inspired dining with a casual flair.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +359,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kanpachi sushi and sake"
+title: Kanpachi sushi and sake
 permalink: /california/gardena/kanpachi-sushi-and-sake.html
 stateAbbr: CA
 stateName: California
 cityName: Gardena
 seo:
-  name: "Kanpachi sushi and sake"
-  type: Restaurant
+  type: restaurant
   links: http://www.kanpachigardena.com/
-description: "Kanpachi sushi and sake serves delicious sushi in Gardena, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJjwetbSG1woAROgSA3HWnig8
 photos:
   - name: >-
@@ -170,7 +168,89 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c2b5216dad078f:0xf8aa775dc80043a!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:30 AM – 2:00 PM, 5:30 – 9:00 PM'
     - 'Wednesday: 11:30 AM – 2:00 PM, 5:30 – 9:00 PM'
@@ -178,14 +258,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 2:00 PM, 5:30 – 9:00 PM'
     - 'Saturday: 5:00 – 9:00 PM'
     - 'Sunday: 5:00 – 9:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:30 AM – 2:00 PM, 5:30 – 9:00 PM'
-    - 'Wednesday: 11:30 AM – 2:00 PM, 5:30 – 9:00 PM'
-    - 'Thursday: 11:30 AM – 2:00 PM, 5:30 – 9:00 PM'
-    - 'Friday: 11:30 AM – 2:00 PM, 5:30 – 9:00 PM'
-    - 'Saturday: 5:00 – 9:00 PM'
-    - 'Sunday: 5:00 – 9:00 PM'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +270,222 @@ phone: (310) 817-4581
 price_level: null
 price_range: $50 &ndash; $100
 rating: '4.5'
-rating_count: 0
+rating_count: 195
 website: http://www.kanpachigardena.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Kanpachi Sushi in Gardena, CA$$$Kanpachi Sushi and Sake in Gardena,
+  CA, provides a relaxed spot for enjoying authentic Japanese flavors, featuring
+  fresh fish prepared in traditional styles that pair perfectly with beer, sake,
+  and wine options. This cozy sushi restaurant stands out for its accessible
+  features, like wheelchair-friendly entrances and seating, making it welcoming
+  for all diners seeking a casual meal. The menu highlights a variety of
+  Japanese specialties in a strip-mall setting, ideal for those exploring
+  top-rated sushi places near you. With operating hours that include evenings
+  and weekends, it's a convenient choice for anyone craving high-quality sushi
+  experiences without the fuss.
+generative_summary: >-
+  Discover Kanpachi Sushi in Gardena, CA$$$Kanpachi Sushi and Sake in Gardena,
+  CA, provides a relaxed spot for enjoying authentic Japanese flavors, featuring
+  fresh fish prepared in traditional styles that pair perfectly with beer, sake,
+  and wine options. This cozy sushi restaurant stands out for its accessible
+  features, like wheelchair-friendly entrances and seating, making it welcoming
+  for all diners seeking a casual meal. The menu highlights a variety of
+  Japanese specialties in a strip-mall setting, ideal for those exploring
+  top-rated sushi places near you. With operating hours that include evenings
+  and weekends, it's a convenient choice for anyone craving high-quality sushi
+  experiences without the fuss.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJjwetbSG1woAROgSA3HWnig8/reviews/ChZDSUhNMG9nS0VJQ0FnSUM3cU5mUklREAE
+    relativePublishTimeDescription: 8 months ago
+    rating: 5
+    text:
+      text: >-
+        Master Kin was amazing. The art to his sushi skills is out of this
+        world. Best omakase I've ever had in my life and the price is something
+        you can't beat. Very local, and very personal. It's definitely a hidden
+        gem. 15 pieces of deliciously.
+      languageCode: en
+    originalText:
+      text: >-
+        Master Kin was amazing. The art to his sushi skills is out of this
+        world. Best omakase I've ever had in my life and the price is something
+        you can't beat. Very local, and very personal. It's definitely a hidden
+        gem. 15 pieces of deliciously.
+      languageCode: en
+    authorAttribution:
+      displayName: Rocky A
+      uri: https://www.google.com/maps/contrib/110982043469153337997/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWdpatgt_o1RofQq7oahOSKAorCSolnYMvIDZ41oAR1Z2X6EbWU=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-08-12T02:44:06.510800Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUM3cU5mUklREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUM3cU5mUklREAE!2m1!1s0x80c2b5216dad078f:0xf8aa775dc80043a
+  - name: >-
+      places/ChIJjwetbSG1woAROgSA3HWnig8/reviews/ChZDSUhNMG9nS0VJQ0FnSUN4cGRMNGNBEAE
+    relativePublishTimeDescription: a year ago
+    rating: 4
+    text:
+      text: >-
+        We were driving around trying to find a place for dinner. Drove by here
+        and decided to try it out. There’s a small parking lot for the shopping
+        center. The restaurant sushi bar was busy but a table was available
+        immediately. It was good service and server courteous. There’s push
+        button service there but the server was attentive and we didn’t use it.
+      languageCode: en
+    originalText:
+      text: >-
+        We were driving around trying to find a place for dinner. Drove by here
+        and decided to try it out. There’s a small parking lot for the shopping
+        center. The restaurant sushi bar was busy but a table was available
+        immediately. It was good service and server courteous. There’s push
+        button service there but the server was attentive and we didn’t use it.
+      languageCode: en
+    authorAttribution:
+      displayName: Hang Nguyen
+      uri: https://www.google.com/maps/contrib/101232346498117643197/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLHnA46WyMCuBGM1ME5oGHPtyyU7WKlQdcf0oEc2mpbkA8DyA=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2023-05-22T05:18:43.846374Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN4cGRMNGNBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN4cGRMNGNBEAE!2m1!1s0x80c2b5216dad078f:0xf8aa775dc80043a
+  - name: >-
+      places/ChIJjwetbSG1woAROgSA3HWnig8/reviews/ChdDSUhNMG9nS0VJQ0FnSUM2aV9yNTVBRRAB
+    relativePublishTimeDescription: 3 years ago
+    rating: 5
+    text:
+      text: >-
+        A definite “pay for what you get” here. If your a sushi connoisseur,
+        don’t miss out you will not be disappointed.
+
+        The fish is real fresh and all made by hand right in front of you.
+
+        You’re not getting teriyaki chicken at Kanpachi, it’s all sushi all the
+        time.
+      languageCode: en
+    originalText:
+      text: >-
+        A definite “pay for what you get” here. If your a sushi connoisseur,
+        don’t miss out you will not be disappointed.
+
+        The fish is real fresh and all made by hand right in front of you.
+
+        You’re not getting teriyaki chicken at Kanpachi, it’s all sushi all the
+        time.
+      languageCode: en
+    authorAttribution:
+      displayName: Will W
+      uri: https://www.google.com/maps/contrib/117550107091953026710/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKdni6sIwOStOTgwZJSX1OVAYVuyVHqEIYjWu9gElgjwuK1Dw=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2021-09-12T21:49:29.079556Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUM2aV9yNTVBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUM2aV9yNTVBRRAB!2m1!1s0x80c2b5216dad078f:0xf8aa775dc80043a
+  - name: >-
+      places/ChIJjwetbSG1woAROgSA3HWnig8/reviews/ChdDSUhNMG9nS0VJQ0FnSUNHdTRMWnR3RRAB
+    relativePublishTimeDescription: 3 years ago
+    rating: 5
+    text:
+      text: >-
+        Kanpachi is HANDS DOWN the Best Sushi I have ever had.  Chef Brian is a
+        genius.   Everything is so fresh and delicious.   Try the Sazea and ask
+        for the special oysters.  I make sure I go EVERY TIME I am in town.
+      languageCode: en
+    originalText:
+      text: >-
+        Kanpachi is HANDS DOWN the Best Sushi I have ever had.  Chef Brian is a
+        genius.   Everything is so fresh and delicious.   Try the Sazea and ask
+        for the special oysters.  I make sure I go EVERY TIME I am in town.
+      languageCode: en
+    authorAttribution:
+      displayName: Erik Berger
+      uri: https://www.google.com/maps/contrib/112037074542839349452/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKkDB_KW2RCJrqW8vplYLAfHRXUwJMKNu22sGWgefCZzo81AQ=s128-c0x00000000-cc-rp-mo
+    publishTime: '2021-11-10T14:34:09.929003Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNHdTRMWnR3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNHdTRMWnR3RRAB!2m1!1s0x80c2b5216dad078f:0xf8aa775dc80043a
+  - name: >-
+      places/ChIJjwetbSG1woAROgSA3HWnig8/reviews/ChZDSUhNMG9nS0VJQ0FnSURPOWVDS1BREAE
+    relativePublishTimeDescription: 2 years ago
+    rating: 4
+    text:
+      text: >-
+        The restaurant is very clean. The Sushi Omakas is a good value $49.00
+        with 14 variety of piece of sushi, including chawanmushi and ice cream
+        desert.
+      languageCode: en
+    originalText:
+      text: >-
+        The restaurant is very clean. The Sushi Omakas is a good value $49.00
+        with 14 variety of piece of sushi, including chawanmushi and ice cream
+        desert.
+      languageCode: en
+    authorAttribution:
+      displayName: Jeremy L
+      uri: https://www.google.com/maps/contrib/115138562580402046968/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKG-9NKjP_5uNkedmeTU9B8USZ0mTOVhrO0uXNTY1SUdkzEVA=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2022-07-11T01:28:54.026134Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURPOWVDS1BREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURPOWVDS1BREAE!2m1!1s0x80c2b5216dad078f:0xf8aa775dc80043a
+review_summary: >-
+  What Visitors Are Saying About This Spot$$$Folks who stop by this sushi joint
+  often praise the fresh fish and omakase selections for delivering great value
+  and satisfying flavors that keep them coming back. Many highlight the
+  attentive service and welcoming vibe, making it feel like a hidden gem for
+  casual dinners with friends or family. Reviewers appreciate the clean
+  environment and straightforward dining experience, noting that the portions
+  are generous and the overall atmosphere adds to the enjoyment. While some
+  mention it's best for sushi lovers rather than those seeking other Japanese
+  dishes, the consensus leans positive, with diners frequently recommending it
+  as a solid pick for authentic tastes in the area.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
+curbside_pickup: false
+delivery: false
+dine_in: true
 good_for_children: null
 good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
 serves_breakfast: null
-serves_brunch: null
+serves_brunch: false
 serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Sushi, tempura & other traditional Japanese specialties served in a relaxed
+  strip-mall restaurant.
 
 ---

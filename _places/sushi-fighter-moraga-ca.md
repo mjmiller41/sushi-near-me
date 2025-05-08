@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Fighter"
+title: Sushi Fighter
 permalink: /california/moraga/sushi-fighter.html
 stateAbbr: CA
 stateName: California
 cityName: Moraga
 seo:
-  name: "Sushi Fighter"
-  type: Restaurant
+  type: restaurant
   links: https://sushifightermoraga.com/
-description: "Sushi Fighter serves delicious sushi in Moraga, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJy4n0DNWJj4ARASzNl6M8ORA
 photos:
   - name: >-
@@ -170,7 +168,113 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x808f89d50cf489cb:0x10393ca397cd2c01!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 16
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 14
+        minute: 30
+    - open:
+        day: 6
+        hour: 16
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 2:30 PM, 4:30 – 9:00 PM'
     - 'Tuesday: 11:30 AM – 2:30 PM, 4:30 – 9:00 PM'
     - 'Wednesday: 11:30 AM – 2:30 PM, 4:30 – 9:00 PM'
@@ -178,14 +282,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 2:30 PM, 4:30 – 9:00 PM'
     - 'Saturday: 11:30 AM – 2:30 PM, 4:30 – 9:00 PM'
     - 'Sunday: 4:30 – 9:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 2:30 PM, 4:30 – 9:00 PM'
-    - 'Tuesday: 11:30 AM – 2:30 PM, 4:30 – 9:00 PM'
-    - 'Wednesday: 11:30 AM – 2:30 PM, 4:30 – 9:00 PM'
-    - 'Thursday: 11:30 AM – 2:30 PM, 4:30 – 9:00 PM'
-    - 'Friday: 11:30 AM – 2:30 PM, 4:30 – 9:00 PM'
-    - 'Saturday: 11:30 AM – 2:30 PM, 4:30 – 9:00 PM'
-    - 'Sunday: 4:30 – 9:00 PM'
+  nextOpenTime: '2025-05-03T23:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +294,338 @@ phone: (925) 376-7350
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '3.9'
-rating_count: 0
+rating_count: 121
 website: https://sushifightermoraga.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Explore Sushi Fighter in Moraga, CA$$$Sushi Fighter in Moraga, CA, stands out
+  as a welcoming neighborhood spot for fresh Japanese cuisine, offering a casual
+  dining experience with an extensive array of rolls and sashimi that appeals to
+  sushi lovers. The restaurant features a spacious bistro setting where patrons
+  can savor all-you-can-eat options and classic dishes, making it ideal for
+  those seeking quality Japanese flavors nearby. With moderate pricing and
+  thoughtful accessibility features like wheelchair-friendly entrances, it's
+  designed to accommodate a variety of diners looking for reliable sushi
+  restaurants in the area. Additionally, the menu highlights a mix of
+  traditional and creative rolls, paired with options for beer and wine,
+  ensuring a relaxed vibe for lunch or dinner outings.
+generative_summary: >-
+  Explore Sushi Fighter in Moraga, CA$$$Sushi Fighter in Moraga, CA, stands out
+  as a welcoming neighborhood spot for fresh Japanese cuisine, offering a casual
+  dining experience with an extensive array of rolls and sashimi that appeals to
+  sushi lovers. The restaurant features a spacious bistro setting where patrons
+  can savor all-you-can-eat options and classic dishes, making it ideal for
+  those seeking quality Japanese flavors nearby. With moderate pricing and
+  thoughtful accessibility features like wheelchair-friendly entrances, it's
+  designed to accommodate a variety of diners looking for reliable sushi
+  restaurants in the area. Additionally, the menu highlights a mix of
+  traditional and creative rolls, paired with options for beer and wine,
+  ensuring a relaxed vibe for lunch or dinner outings.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJy4n0DNWJj4ARASzNl6M8ORA/reviews/ChdDSUhNMG9nS0VJQ0FnSUNUbjVPZXN3RRAB
+    relativePublishTimeDescription: 8 months ago
+    rating: 4
+    text:
+      text: >-
+        We arrived late(nearly 8), they close at 9. We ordered the cherry
+        blossom, California roll,  salmon avocado roll, seaweed salad and the
+        lion king(recommended). Drinks: Sake& Sauvignon blanc. We had a good
+        time and the waitress checked in on us before the last call, which we
+        ordered more. We didn’t leave until well after 9(we’ll never do that
+        again; that was rude) but thank you for not acting annoyed or rushing us
+        out.
+
+        I read some reviews about added tip. We didn’t see that, but I gladly
+        tipped for the service. All was good. Thanks! Added some similar
+        pictures because I didn’t take pics but the pictures match what we
+        ordered.
+
+        Price for dinner: $90.24 before tip.
+
+        California roll(8pcs)
+
+        Avocado salmon roll(8pcs)
+
+        Tobiko roll(2pcs)
+
+        2 Lion king roll (8pcs each)
+
+        Seaweed salad
+
+        2 sake bottles
+
+        2 glasses of white wine
+
+        Miso Soup(on the house)
+
+        Fairly quick service&professional server.
+      languageCode: en
+    originalText:
+      text: >-
+        We arrived late(nearly 8), they close at 9. We ordered the cherry
+        blossom, California roll,  salmon avocado roll, seaweed salad and the
+        lion king(recommended). Drinks: Sake& Sauvignon blanc. We had a good
+        time and the waitress checked in on us before the last call, which we
+        ordered more. We didn’t leave until well after 9(we’ll never do that
+        again; that was rude) but thank you for not acting annoyed or rushing us
+        out.
+
+        I read some reviews about added tip. We didn’t see that, but I gladly
+        tipped for the service. All was good. Thanks! Added some similar
+        pictures because I didn’t take pics but the pictures match what we
+        ordered.
+
+        Price for dinner: $90.24 before tip.
+
+        California roll(8pcs)
+
+        Avocado salmon roll(8pcs)
+
+        Tobiko roll(2pcs)
+
+        2 Lion king roll (8pcs each)
+
+        Seaweed salad
+
+        2 sake bottles
+
+        2 glasses of white wine
+
+        Miso Soup(on the house)
+
+        Fairly quick service&professional server.
+      languageCode: en
+    authorAttribution:
+      displayName: SeluF
+      uri: https://www.google.com/maps/contrib/107199329235590694648/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWsD0LHTLu_j7VD0rEaGF_PyxGUaYAudH11B4yRNvXdHCFy0Svf2Q=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-08-21T04:25:51.442704Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNUbjVPZXN3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNUbjVPZXN3RRAB!2m1!1s0x808f89d50cf489cb:0x10393ca397cd2c01
+  - name: >-
+      places/ChIJy4n0DNWJj4ARASzNl6M8ORA/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3ajdqcWVnEAE
+    relativePublishTimeDescription: a month ago
+    rating: 2
+    text:
+      text: >-
+        This sushi restaurant is operated by Chinese instead of Japanese.
+
+
+        I ordered katsudon and it was not authentic at all, very Chinese style
+        with broccoli and carrot, and the pork meat was disappointedly dry. 
+        Sushi was quite good and tasty.
+
+
+        Decoration and atmosphere was not bad , BUT one of the chef keep talking
+        to his friend fairly loud non-stop in Cantonese using a hand-free
+        headset and phone while he was cooking and handling food right in front
+        of him, spraying them with his saliva, got us worried about the hygiene
+        standard here.  My friend dining with me understand the Cantonese
+        language, she told me that this chef used lots of profanity in his phone
+        conversation.  I found this very unprofessional, it had really ruined
+        the whole atmosphere of our dining experience here.  We will never come
+        back.
+
+
+        Services from the waitress was very good though, I have to give her 5
+        stars.
+      languageCode: en
+    originalText:
+      text: >-
+        This sushi restaurant is operated by Chinese instead of Japanese.
+
+
+        I ordered katsudon and it was not authentic at all, very Chinese style
+        with broccoli and carrot, and the pork meat was disappointedly dry. 
+        Sushi was quite good and tasty.
+
+
+        Decoration and atmosphere was not bad , BUT one of the chef keep talking
+        to his friend fairly loud non-stop in Cantonese using a hand-free
+        headset and phone while he was cooking and handling food right in front
+        of him, spraying them with his saliva, got us worried about the hygiene
+        standard here.  My friend dining with me understand the Cantonese
+        language, she told me that this chef used lots of profanity in his phone
+        conversation.  I found this very unprofessional, it had really ruined
+        the whole atmosphere of our dining experience here.  We will never come
+        back.
+
+
+        Services from the waitress was very good though, I have to give her 5
+        stars.
+      languageCode: en
+    authorAttribution:
+      displayName: Em Vrz
+      uri: https://www.google.com/maps/contrib/113367200937978780206/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLz91-MRKRdxFhpHpmiY0hLUFC9ed2eLKo5RJgbBF_Du4UPEQ=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-22T00:45:31.171795Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUN3ajdqcWVnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUN3ajdqcWVnEAE!2m1!1s0x808f89d50cf489cb:0x10393ca397cd2c01
+  - name: >-
+      places/ChIJy4n0DNWJj4ARASzNl6M8ORA/reviews/ChZDSUhNMG9nS0VJQ0FnSUNMOVB1bVpBEAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        This place is great. Ive been goin here for years. The rolls are great
+        and the prices are reasonable. The service is standard, not much
+        interaction beyond taking and delivering your order. They are not
+        laboring to be fake friendly which is great for me because i just want
+        good food without the fluff and "professional courtesy" that i often see
+        being unpleasantly demanded by tourists  when they visit foreign
+        countries.
+
+
+        I love that they have sports on the tv when I've visited. I'm a solo
+        eater and I love spots where i can preserve my solitude and eat good
+        food. This place is one of them. Its not top of the line fish here
+        otherwise this restaurant wouldn't even exist in that strip mall. Its
+        the neighborhood sushi joint.
+      languageCode: en
+    originalText:
+      text: >-
+        This place is great. Ive been goin here for years. The rolls are great
+        and the prices are reasonable. The service is standard, not much
+        interaction beyond taking and delivering your order. They are not
+        laboring to be fake friendly which is great for me because i just want
+        good food without the fluff and "professional courtesy" that i often see
+        being unpleasantly demanded by tourists  when they visit foreign
+        countries.
+
+
+        I love that they have sports on the tv when I've visited. I'm a solo
+        eater and I love spots where i can preserve my solitude and eat good
+        food. This place is one of them. Its not top of the line fish here
+        otherwise this restaurant wouldn't even exist in that strip mall. Its
+        the neighborhood sushi joint.
+      languageCode: en
+    authorAttribution:
+      displayName: M G R
+      uri: https://www.google.com/maps/contrib/115610192637843446755/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXY1Ge0x2PJBFdJNFi2wSBKu7N5gTaqOEyEBaEGUowu1_R_eK5w=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-01-12T16:30:59.621298Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNMOVB1bVpBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNMOVB1bVpBEAE!2m1!1s0x808f89d50cf489cb:0x10393ca397cd2c01
+  - name: >-
+      places/ChIJy4n0DNWJj4ARASzNl6M8ORA/reviews/ChdDSUhNMG9nS0VJQ0FnSUQzdmNLTjZ3RRAB
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        My girlfriend and I come here often and always enjoy the food. Chris
+        does a great job with dishes like the salmon collar, beef short ribs,
+        and sushi rolls, and George is consistently friendly and attentive,
+        making it a great all-around experience.
+      languageCode: en
+    originalText:
+      text: >-
+        My girlfriend and I come here often and always enjoy the food. Chris
+        does a great job with dishes like the salmon collar, beef short ribs,
+        and sushi rolls, and George is consistently friendly and attentive,
+        making it a great all-around experience.
+      languageCode: en
+    authorAttribution:
+      displayName: Michael Hopko
+      uri: https://www.google.com/maps/contrib/103591240441147681582/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjV37DE2toB4VSu96T_Q0c5OA_mr_Wzn7QvNtYGw6iy7JNGRqNgC=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-11-18T01:51:43.134233Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQzdmNLTjZ3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQzdmNLTjZ3RRAB!2m1!1s0x808f89d50cf489cb:0x10393ca397cd2c01
+  - name: >-
+      places/ChIJy4n0DNWJj4ARASzNl6M8ORA/reviews/ChdDSUhNMG9nS0VJQ0FnSUNQdGJfZDlnRRAB
+    relativePublishTimeDescription: 5 months ago
+    rating: 1
+    text:
+      text: >-
+        Posting this with regret, as we were long time customers and want our
+        local businesses to succeed.  Over the past year, however, we have had
+        several terrible experiences with Sushi Fighter, including missing items
+        in orders, a flat refusal to serve us at 8:15 p.m., and problems with
+        online orders.  We went in (in person, rather than posting a review) to
+        ask them directly about these issues.  Manager and owner offered only
+        excuses. There was absolutely no concern for our experiences, and no
+        apology offered.
+      languageCode: en
+    originalText:
+      text: >-
+        Posting this with regret, as we were long time customers and want our
+        local businesses to succeed.  Over the past year, however, we have had
+        several terrible experiences with Sushi Fighter, including missing items
+        in orders, a flat refusal to serve us at 8:15 p.m., and problems with
+        online orders.  We went in (in person, rather than posting a review) to
+        ask them directly about these issues.  Manager and owner offered only
+        excuses. There was absolutely no concern for our experiences, and no
+        apology offered.
+      languageCode: en
+    authorAttribution:
+      displayName: Rich P
+      uri: https://www.google.com/maps/contrib/113267157453537268150/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKPlZFY7q6q90VU8TzyTowGgAv9EJn3UaR4bVdb9c59fHkZ9A=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-11-26T18:01:53.318855Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNQdGJfZDlnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNQdGJfZDlnRRAB!2m1!1s0x808f89d50cf489cb:0x10393ca397cd2c01
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors often praise Sushi Fighter for its
+  tasty rolls and reasonable prices, noting that the food delivers solid flavors
+  in a laid-back environment that's perfect for casual meals. While some mention
+  occasional inconsistencies in service or authenticity that could use
+  improvement, many appreciate the quick delivery and accommodating staff during
+  busy times. Overall, it's a go-to choice for groups or solo diners enjoying
+  Japanese-inspired eats, with the neighborhood feel adding to the charm.
+  Despite a few mixed experiences, the majority find it worth returning for the
+  variety and value, making it a solid option for anyone hunting for top-rated
+  sushi nearby.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
 good_for_sports: null
-live_music: null
+live_music: false
 menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
 serves_breakfast: null
-serves_brunch: null
+serves_brunch: false
 serves_cocktails: null
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Neighborhood bistro serving rolls, nigiri, sushi, sashimi & Japanese eats in a
+  spacious bistro.
 
 ---

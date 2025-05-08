@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "ippin ramen & sushi"
+title: ippin ramen & sushi
 permalink: /oklahoma/broken-arrow/ippin-ramen-sushi.html
 stateAbbr: OK
 stateName: Oklahoma
 cityName: Broken Arrow
 seo:
-  name: "ippin ramen & sushi"
-  type: Restaurant
-  links: null
-description: "ippin ramen & sushi serves delicious sushi in Broken Arrow, Oklahoma. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.ippinramentulsa.com/
 place_id: ChIJc_5-VeeLtocRNuF8ve8LbME
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x87b68be7557efe73:0xc16c0befbd7ce136!10e5
 primary_type: Ramen Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 9:00 PM'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 10:00 PM'
+    - 'Saturday: 11:00 AM – 10:00 PM'
+    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,54 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (918) 940-8599
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.4'
+rating_count: 277
+website: http://www.ippinramentulsa.com/
+description: >-
+  Discover Ippin Ramen & Sushi in Broken Arrow, OK$$$Ippin Ramen & Sushi in
+  Broken Arrow, Oklahoma, stands out as a welcoming spot for authentic Japanese
+  flavors, blending casual dining with a focus on fresh sushi and hearty ramen
+  options. This eatery captures the essence of Japanese cuisine through its
+  thoughtfully prepared dishes, including flavorful noodle bowls and creative
+  rolls that highlight quality ingredients and traditional techniques. Nestled
+  in the vibrant Rose District, it offers an accessible environment with
+  features like wheelchair-friendly entrances, making it easy for everyone to
+  enjoy a meal. Visitors searching for top-rated sushi places nearby will
+  appreciate the variety of bubble tea and other light beverages that complement
+  the menu, creating a relaxed atmosphere perfect for a quick bite or a
+  leisurely dinner.
+generative_summary: >-
+  Discover Ippin Ramen & Sushi in Broken Arrow, OK$$$Ippin Ramen & Sushi in
+  Broken Arrow, Oklahoma, stands out as a welcoming spot for authentic Japanese
+  flavors, blending casual dining with a focus on fresh sushi and hearty ramen
+  options. This eatery captures the essence of Japanese cuisine through its
+  thoughtfully prepared dishes, including flavorful noodle bowls and creative
+  rolls that highlight quality ingredients and traditional techniques. Nestled
+  in the vibrant Rose District, it offers an accessible environment with
+  features like wheelchair-friendly entrances, making it easy for everyone to
+  enjoy a meal. Visitors searching for top-rated sushi places nearby will
+  appreciate the variety of bubble tea and other light beverages that complement
+  the menu, creating a relaxed atmosphere perfect for a quick bite or a
+  leisurely dinner.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About Ippin Ramen & Sushi$$$Folks heading to sushi
+  spots in Broken Arrow often highlight the consistently tasty dishes and
+  friendly service that make this place a go-to choice for Japanese fare. Many
+  appreciate the generous portions and flavorful combinations, with ramen and
+  sushi rolls earning praise for their fresh ingredients and spot-on flavors
+  that keep diners coming back. While some mention waits during peak hours, the
+  overall vibe remains upbeat, with positive nods to the welcoming staff and
+  cozy setting. If you're on the hunt for reliable sushi restaurants nearby,
+  you'll find that the high ratings reflect a solid experience that's worth
+  trying for anyone craving authentic tastes. All in all, it's a spot that
+  delivers on expectations, offering a satisfying meal that leaves visitors
+  eager to return for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +315,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

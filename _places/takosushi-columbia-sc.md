@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Takosushi"
+title: Takosushi
 permalink: /south-carolina/columbia/takosushi.html
 stateAbbr: SC
 stateName: South Carolina
 cityName: Columbia
 seo:
-  name: "Takosushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.tako-sushi.com/
-description: "Takosushi serves delicious sushi in Columbia, South Carolina. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJD0xuuSu7-IgRRPLobupE2UY
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x88f8bb2bb96e4c0f:0x46d944ea6ee8f244!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:00 PM'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:00 PM'
     - 'Saturday: 11:00 AM – 10:00 PM'
     - 'Sunday: 11:00 AM – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 10:00 PM'
-    - 'Saturday: 11:00 AM – 10:00 PM'
-    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +246,49 @@ phone: (803) 708-1604
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.1'
-rating_count: 0
+rating_count: 711
 website: http://www.tako-sushi.com/
+description: >-
+  Discover Takosushi in Columbia, SC$$$Takosushi in Columbia, SC, stands out as
+  a welcoming sushi restaurant that masterfully combines Southwestern and Asian
+  influences in its inventive menu offerings. This casual spot features a
+  variety of fresh sushi rolls and creative dishes that highlight bold flavors
+  and thoughtful preparation, making it a go-to for those seeking diverse dining
+  options. With accessibility features like wheelchair-friendly parking and
+  seating, it ensures a comfortable experience for all visitors, adding to its
+  appeal as a local favorite. The restaurant's extended hours from late morning
+  into the evening provide flexibility for quick lunches or relaxed dinners,
+  perfect for anyone exploring sushi places in the area. Overall, Takosushi
+  delivers a laid-back vibe that pairs well with its flavorful selections, ideal
+  for those hunting for reliable sushi restaurants nearby.
+generative_summary: >-
+  Discover Takosushi in Columbia, SC$$$Takosushi in Columbia, SC, stands out as
+  a welcoming sushi restaurant that masterfully combines Southwestern and Asian
+  influences in its inventive menu offerings. This casual spot features a
+  variety of fresh sushi rolls and creative dishes that highlight bold flavors
+  and thoughtful preparation, making it a go-to for those seeking diverse dining
+  options. With accessibility features like wheelchair-friendly parking and
+  seating, it ensures a comfortable experience for all visitors, adding to its
+  appeal as a local favorite. The restaurant's extended hours from late morning
+  into the evening provide flexibility for quick lunches or relaxed dinners,
+  perfect for anyone exploring sushi places in the area. Overall, Takosushi
+  delivers a laid-back vibe that pairs well with its flavorful selections, ideal
+  for those hunting for reliable sushi restaurants nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Folks often praise this sushi spot for its
+  wide-ranging menu packed with tasty options like fresh rolls, inventive tacos,
+  and satisfying burgers that bring a fun twist to traditional favorites.
+  Appetizers such as crispy veggies and dumplings stand out as crowd-pleasers,
+  adding to the enjoyable atmosphere that keeps people coming back. The team on
+  hand is frequently noted for being warm and attentive, creating a friendly
+  environment that makes every visit feel inviting. While some mention
+  occasional waits for meals, the overall consensus leans positive, with the
+  quality of food and service shining through. If you're on the hunt for top
+  sushi options around, this place offers solid choices that make it worth
+  checking out for a casual meal.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +314,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

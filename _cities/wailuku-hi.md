@@ -5,4 +5,5 @@ permalink: /hawaii/wailuku/
 stateAbbr: HI
 stateName: Hawaii
 cityName: Wailuku
+
 ---

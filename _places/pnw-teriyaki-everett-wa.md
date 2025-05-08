@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "PNW Teriyaki"
+title: PNW Teriyaki
 permalink: /washington/everett/pnw-teriyaki.html
 stateAbbr: WA
 stateName: Washington
 cityName: Everett
 seo:
-  name: "PNW Teriyaki"
-  type: Restaurant
+  type: restaurant
   links: https://pnwteriyaki2.menu11.com/everett/order
-description: "PNW Teriyaki serves delicious sushi in Everett, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ-YFBJ9wGkFQRYnC_Z1Oy1L4
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x549006dc274181f9:0xbed4b25367bf7062!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 20
+        minute: 40
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 40
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 40
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 40
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 20
+        minute: 40
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 20
+        minute: 40
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 8:40 PM'
     - 'Tuesday: 11:00 AM – 8:40 PM'
     - 'Wednesday: 11:00 AM – 8:40 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 8:40 PM'
     - 'Saturday: 11:00 AM – 8:40 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:00 AM – 8:40 PM'
-    - 'Tuesday: 11:00 AM – 8:40 PM'
-    - 'Wednesday: 11:00 AM – 8:40 PM'
-    - 'Thursday: 11:00 AM – 8:40 PM'
-    - 'Friday: 11:00 AM – 8:40 PM'
-    - 'Saturday: 11:00 AM – 8:40 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T03:40:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +238,247 @@ phone: (425) 357-0214
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.1'
-rating_count: 0
+rating_count: 167
 website: https://pnwteriyaki2.menu11.com/everett/order
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover PNW Teriyaki in Everett, WA$$$PNW Teriyaki in Everett, WA, stands out
+  as a cozy Japanese restaurant serving up a delightful array of teriyaki,
+  sushi, and poke alongside comforting classics for lunch and dinner. The spot
+  emphasizes fresh flavors and generous portions, making it a go-to choice for
+  those seeking satisfying Japanese-inspired meals in a welcoming environment.
+  Accessibility features like wheelchair-friendly entrances and seating ensure
+  everyone can enjoy the experience, while its moderate pricing adds to the
+  appeal for everyday diners. With options that cater to various tastes, this
+  eatery captures the essence of casual Japanese dining, perfect for anyone
+  exploring sushi restaurants nearby.
+generative_summary: >-
+  Discover PNW Teriyaki in Everett, WA$$$PNW Teriyaki in Everett, WA, stands out
+  as a cozy Japanese restaurant serving up a delightful array of teriyaki,
+  sushi, and poke alongside comforting classics for lunch and dinner. The spot
+  emphasizes fresh flavors and generous portions, making it a go-to choice for
+  those seeking satisfying Japanese-inspired meals in a welcoming environment.
+  Accessibility features like wheelchair-friendly entrances and seating ensure
+  everyone can enjoy the experience, while its moderate pricing adds to the
+  appeal for everyday diners. With options that cater to various tastes, this
+  eatery captures the essence of casual Japanese dining, perfect for anyone
+  exploring sushi restaurants nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ-YFBJ9wGkFQRYnC_Z1Oy1L4/reviews/ChdDSUhNMG9nS0VJQ0FnTUNvMGRmQnNRRRAB
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 2
+    text:
+      text: >-
+        The food I received was overwhelmingly salty. I ordered a chicken and
+        beef combo, which had generous portions of meat at a reasonable price.
+        However, the taste was dominated by saltiness, likely from an overly
+        salty marinade and excessive teriyaki sauce. Reducing the salt or sauce
+        significantly would improve it. I couldn’t eat this again as is. Still,
+        I gave two stars instead of one because the service was quick and
+        friendly. If they adjust the seasoning, it could be a great value. I
+        hope they see this feedback, make changes, and invite me to try it again
+        someday.
+      languageCode: en
+    originalText:
+      text: >-
+        The food I received was overwhelmingly salty. I ordered a chicken and
+        beef combo, which had generous portions of meat at a reasonable price.
+        However, the taste was dominated by saltiness, likely from an overly
+        salty marinade and excessive teriyaki sauce. Reducing the salt or sauce
+        significantly would improve it. I couldn’t eat this again as is. Still,
+        I gave two stars instead of one because the service was quick and
+        friendly. If they adjust the seasoning, it could be a great value. I
+        hope they see this feedback, make changes, and invite me to try it again
+        someday.
+      languageCode: en
+    authorAttribution:
+      displayName: Northwest Panda
+      uri: https://www.google.com/maps/contrib/114799266673406161017/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUqbSWmZPEiMAt6cBoWhqHtyS0Grfp0JApXECSx951JBJqwfcQ=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-17T20:15:28.306931Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNvMGRmQnNRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNvMGRmQnNRRRAB!2m1!1s0x549006dc274181f9:0xbed4b25367bf7062
+  - name: >-
+      places/ChIJ-YFBJ9wGkFQRYnC_Z1Oy1L4/reviews/ChdDSUhNMG9nS0VJQ0FnSUNPZzVHVDVnRRAB
+    relativePublishTimeDescription: 2 years ago
+    rating: 5
+    text:
+      text: >-
+        We ordered the super combo and gyoza. The gyoza was 10 pieces and
+        tasty.  The super combo included pork as well as beef and chicken.  The
+        Teriyaki sauce on the side was thick and tasty.  We really enjoyed it.  
+        A salad was served in its own box and it was as full as it as it could
+        be.
+
+
+        After finishing the meal my husband announced this was far better than
+        our old Teriyaki place down the road, across from the lake.  We'll
+        definitely be back.
+      languageCode: en
+    originalText:
+      text: >-
+        We ordered the super combo and gyoza. The gyoza was 10 pieces and
+        tasty.  The super combo included pork as well as beef and chicken.  The
+        Teriyaki sauce on the side was thick and tasty.  We really enjoyed it.  
+        A salad was served in its own box and it was as full as it as it could
+        be.
+
+
+        After finishing the meal my husband announced this was far better than
+        our old Teriyaki place down the road, across from the lake.  We'll
+        definitely be back.
+      languageCode: en
+    authorAttribution:
+      displayName: Lalia Harris (CraftyLalia)
+      uri: https://www.google.com/maps/contrib/104426048894690824823/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXM1tEOdxcubNwDbbNj5O8IIuLQ7-yzxt4B9SCq8zp7lBOz5oRy=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2022-06-19T20:26:38.045746Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNPZzVHVDVnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNPZzVHVDVnRRAB!2m1!1s0x549006dc274181f9:0xbed4b25367bf7062
+  - name: >-
+      places/ChIJ-YFBJ9wGkFQRYnC_Z1Oy1L4/reviews/ChdDSUhNMG9nS0VJQ0FnTUNnLTZqVGdBRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 2
+    text:
+      text: >-
+        I have been going here before it was PNW . They have the best, I really
+        mean the besr around.But they are rude, they close earlier then their
+        hours say. And are even rude when when you call within the posted time..
+        BUT THEY MAKE SOME Great food. . Can't have it all I guess
+      languageCode: en
+    originalText:
+      text: >-
+        I have been going here before it was PNW . They have the best, I really
+        mean the besr around.But they are rude, they close earlier then their
+        hours say. And are even rude when when you call within the posted time..
+        BUT THEY MAKE SOME Great food. . Can't have it all I guess
+      languageCode: en
+    authorAttribution:
+      displayName: Sean Goins
+      uri: https://www.google.com/maps/contrib/106251341561221284946/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJpsk5cAmQPhuIyTvupl301p_AuyrMrQneafkbx30ZNJ-DH=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-02-21T04:46:48.229508Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNnLTZqVGdBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNnLTZqVGdBRRAB!2m1!1s0x549006dc274181f9:0xbed4b25367bf7062
+  - name: >-
+      places/ChIJ-YFBJ9wGkFQRYnC_Z1Oy1L4/reviews/ChZDSUhNMG9nS0VJQ0FnSUR2NmEtNU1nEAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        My friends and I ordered from this restaurant last evening. We all loved
+        everything we ordered.  I personally had their spicy chicken teriyaki (5
+        stars) plus gyoza. The spice level was PERFECT and exactly what I was
+        looking for. The chicken is tender, juicy and flavorful. Their gyoza
+        were cooked so nice and crispy and the filling was so tasty.  I really
+        appreciated that. My friends ordered sesame chicken (also great) and
+        some crab Rangoon. All in all it was a great experience and we will be
+        ordering from here again. Thank you!
+      languageCode: en
+    originalText:
+      text: >-
+        My friends and I ordered from this restaurant last evening. We all loved
+        everything we ordered.  I personally had their spicy chicken teriyaki (5
+        stars) plus gyoza. The spice level was PERFECT and exactly what I was
+        looking for. The chicken is tender, juicy and flavorful. Their gyoza
+        were cooked so nice and crispy and the filling was so tasty.  I really
+        appreciated that. My friends ordered sesame chicken (also great) and
+        some crab Rangoon. All in all it was a great experience and we will be
+        ordering from here again. Thank you!
+      languageCode: en
+    authorAttribution:
+      displayName: Ilyssa Jennings
+      uri: https://www.google.com/maps/contrib/115338603152635177127/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWRkCDdWg-TmzKllbbv_sauDq2DdwcnjjarMA3Y-T3eSLYzaGvs=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2024-12-21T20:53:13.099193Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR2NmEtNU1nEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR2NmEtNU1nEAE!2m1!1s0x549006dc274181f9:0xbed4b25367bf7062
+  - name: >-
+      places/ChIJ-YFBJ9wGkFQRYnC_Z1Oy1L4/reviews/ChZDSUhNMG9nS0VJQ0FnSUNPdXAzb1NREAE
+    relativePublishTimeDescription: 2 years ago
+    rating: 5
+    text:
+      text: >-
+        I've been making my way down all of their sushi rolls and I have yet to
+        be disappointed. They are super nice every time I visit. All in all it's
+        my new favorite teriyaki and sushi spot to go to in this area. I highly
+        recommend this place, give it a lick.
+      languageCode: en
+    originalText:
+      text: >-
+        I've been making my way down all of their sushi rolls and I have yet to
+        be disappointed. They are super nice every time I visit. All in all it's
+        my new favorite teriyaki and sushi spot to go to in this area. I highly
+        recommend this place, give it a lick.
+      languageCode: en
+    authorAttribution:
+      displayName: Collin Black
+      uri: https://www.google.com/maps/contrib/113285754763200850714/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJ8Ktb9OBcF1KVg2Rzjzf_JlXXB7bgk-zc5tkkBNPj0hCdqfA=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2022-06-07T22:25:27.842728Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNPdXAzb1NREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNPdXAzb1NREAE!2m1!1s0x549006dc274181f9:0xbed4b25367bf7062
+review_summary: >-
+  Insights from Customer Feedback$$$Visitors to this Japanese spot often rave
+  about the flavorful teriyaki and sushi dishes, highlighting generous portions
+  and tasty sides like gyoza that make meals feel worthwhile. While some folks
+  note that certain items can come across as overly salty, the quick service and
+  overall value keep things enjoyable for many. It's clear that the variety of
+  options, including spicy chicken and sesame flavors, tends to win over repeat
+  customers looking for reliable comfort food. Even with occasional gripes about
+  timing or seasoning, the positive vibes around the food's freshness and
+  affordability shine through, making it a solid pick for anyone searching for
+  top-rated sushi nearby.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
+curbside_pickup: false
+delivery: true
+dine_in: true
+good_for_children: true
 good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: false
+restroom: true
+serves_beer: false
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: false
+serves_coffee: false
+serves_dinner: true
+serves_dessert: false
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: false
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

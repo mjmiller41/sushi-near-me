@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Okawa Sushi and Grill"
+title: Okawa Sushi and Grill
 permalink: /california/modesto/okawa-sushi-and-grill.html
 stateAbbr: CA
 stateName: California
 cityName: Modesto
 seo:
-  name: "Okawa Sushi and Grill"
-  type: Restaurant
+  type: restaurant
   links: https://www.okawasushigrill.com/
-description: "Okawa Sushi and Grill serves delicious sushi in Modesto, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ4SMBCnpXkIARO0rSHY3Q0QE
 photos:
   - name: >-
@@ -170,7 +168,105 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8090577a0a0123e1:0x1d1d08d1dd24a3b!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
     - 'Tuesday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
     - 'Wednesday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
@@ -178,14 +274,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
     - 'Saturday: 11:00 AM – 9:30 PM'
     - 'Sunday: 11:00 AM – 9:30 PM'
-  current:
-    - 'Monday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
-    - 'Thursday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
-    - 'Friday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
-    - 'Saturday: 11:00 AM – 9:30 PM'
-    - 'Sunday: 11:00 AM – 9:30 PM'
+  nextCloseTime: '2025-05-04T04:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +286,48 @@ phone: (209) 567-2966
 price_level: null
 price_range: $20 &ndash; $30
 rating: '4.4'
-rating_count: 0
+rating_count: 188
 website: https://www.okawasushigrill.com/
+description: >-
+  Discover Okawa Sushi and Grill in Modesto, CA$$$Okawa Sushi and Grill in
+  Modesto, CA, provides a relaxed spot for enjoying classic Japanese dishes,
+  making it a go-to choice for those searching for fresh sushi options nearby.
+  The menu highlights a variety of staples like expertly prepared rolls,
+  teriyaki favorites, and hearty ramen, complemented by a selection of sake and
+  beer to enhance the meal. With its welcoming atmosphere and attention to
+  accessibility features, such as wheelchair-friendly entrances and seating,
+  it's designed for comfortable dining experiences. Operating with convenient
+  hours that include lunch and dinner services throughout the week, this sushi
+  restaurant stands out as a reliable destination for anyone exploring top-rated
+  Japanese places in the area.
+generative_summary: >-
+  Discover Okawa Sushi and Grill in Modesto, CA$$$Okawa Sushi and Grill in
+  Modesto, CA, provides a relaxed spot for enjoying classic Japanese dishes,
+  making it a go-to choice for those searching for fresh sushi options nearby.
+  The menu highlights a variety of staples like expertly prepared rolls,
+  teriyaki favorites, and hearty ramen, complemented by a selection of sake and
+  beer to enhance the meal. With its welcoming atmosphere and attention to
+  accessibility features, such as wheelchair-friendly entrances and seating,
+  it's designed for comfortable dining experiences. Operating with convenient
+  hours that include lunch and dinner services throughout the week, this sushi
+  restaurant stands out as a reliable destination for anyone exploring top-rated
+  Japanese places in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About This Sushi Spot$$$Feedback from diners at this
+  popular sushi restaurant often highlights the consistently fresh ingredients
+  and well-balanced flavors that keep people coming back for more. Many
+  appreciate the generous portions and variety of options, making it a solid
+  pick for casual meals with friends or family. While some note that service can
+  vary depending on the time of day, the overall vibe remains positive with
+  praise for the authentic taste that rivals other local favorites. It's
+  frequently recommended for those seeking reliable sushi experiences, with
+  comments suggesting it's worth trying for its approachable prices and
+  satisfying dishes. All in all, the high ratings reflect a welcoming spot that
+  delivers on flavor without overcomplicating things, ideal for anyone on the
+  hunt for great sushi near Modesto.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +353,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

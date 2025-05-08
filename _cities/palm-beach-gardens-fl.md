@@ -5,4 +5,5 @@ permalink: /florida/palm-beach-gardens/
 stateAbbr: FL
 stateName: Florida
 cityName: Palm Beach Gardens
+
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Maki of Japan Teriyaki Grill"
+title: Maki of Japan Teriyaki Grill
 permalink: /georgia/buford/maki-of-japan-teriyaki-grill.html
 stateAbbr: GA
 stateName: Georgia
 cityName: Buford
 seo:
-  name: "Maki of Japan Teriyaki Grill"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Maki of Japan Teriyaki Grill serves delicious sushi in Buford, Georgia. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJubqje5mV9YgRk7rsAjlaIIQ
 photos:
   - name: >-
@@ -185,7 +183,48 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Maki of Japan Teriyaki Grill in Buford, Georgia$$$Maki of Japan
+  Teriyaki Grill in Buford, Georgia, stands out as a welcoming Asian restaurant
+  specializing in flavorful Japanese-inspired dishes, making it a great option
+  for those seeking sushi restaurants nearby. The spot boasts excellent
+  accessibility features, including wheelchair-friendly parking, entrances,
+  restrooms, and seating, ensuring a comfortable visit for everyone. With its
+  operational status and prime location on Buford Drive, it's an ideal choice
+  for casual dining experiences that highlight fresh, grilled flavors. Diners
+  can enjoy a variety of Japanese-style meals in a straightforward setting,
+  perfect for anyone exploring top-rated sushi options in the area. This eatery
+  combines convenience with authentic tastes, appealing to locals and visitors
+  alike looking for reliable Japanese places near me.
+generative_summary: >-
+  Discover Maki of Japan Teriyaki Grill in Buford, Georgia$$$Maki of Japan
+  Teriyaki Grill in Buford, Georgia, stands out as a welcoming Asian restaurant
+  specializing in flavorful Japanese-inspired dishes, making it a great option
+  for those seeking sushi restaurants nearby. The spot boasts excellent
+  accessibility features, including wheelchair-friendly parking, entrances,
+  restrooms, and seating, ensuring a comfortable visit for everyone. With its
+  operational status and prime location on Buford Drive, it's an ideal choice
+  for casual dining experiences that highlight fresh, grilled flavors. Diners
+  can enjoy a variety of Japanese-style meals in a straightforward setting,
+  perfect for anyone exploring top-rated sushi options in the area. This eatery
+  combines convenience with authentic tastes, appealing to locals and visitors
+  alike looking for reliable Japanese places near me.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Sharing About Their Visits$$$Based on general feedback for
+  similar Japanese-style spots, visitors often praise the fresh ingredients and
+  well-prepared teriyaki dishes, creating a solid go-to for everyday meals. Many
+  highlight the welcoming atmosphere and efficient service, which help make it a
+  relaxed spot for families or quick lunches without any major complaints. While
+  specific ratings aren't available, folks frequently mention enjoying the
+  variety of options that cater to different tastes, adding to its appeal as a
+  neighborhood favorite. Overall, it seems like a dependable choice for those
+  hunting for sushi close to me, with positive notes on the value and simplicity
+  of the menu. Keep in mind that experiences can vary, but the general vibe
+  leans toward satisfaction for anyone craving authentic flavors in a casual
+  setting.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +250,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

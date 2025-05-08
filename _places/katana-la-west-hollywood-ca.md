@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Katana LA"
+title: Katana LA
 permalink: /california/west-hollywood/katana-la.html
 stateAbbr: CA
 stateName: California
 cityName: West Hollywood
 seo:
-  name: "Katana LA"
-  type: Restaurant
+  type: restaurant
   links: https://www.katanarobata.com/
-description: "Katana LA serves delicious sushi in West Hollywood, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ676_Qr6-woARy3H97J4OVdY
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c2bebe42bfbeeb:0xd6550e9eecfd71cb!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 17
+        minute: 30
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 17
+        minute: 30
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 30
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 30
+      close:
+        day: 6
+        hour: 0
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 30
+      close:
+        day: 0
+        hour: 0
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 5:30 – 10:00 PM'
     - 'Tuesday: 5:30 – 10:00 PM'
     - 'Wednesday: 5:30 – 10:00 PM'
@@ -178,54 +234,348 @@ opening_hours:
     - 'Friday: 5:30 PM – 12:00 AM'
     - 'Saturday: 5:30 PM – 12:00 AM'
     - 'Sunday: 5:30 – 10:00 PM'
-  current:
-    - 'Monday: 5:30 – 10:00 PM'
-    - 'Tuesday: 5:30 – 10:00 PM'
-    - 'Wednesday: 5:30 – 10:00 PM'
-    - 'Thursday: 5:30 – 10:00 PM'
-    - 'Friday: 5:30 PM – 12:00 AM'
-    - 'Saturday: 5:30 PM – 12:00 AM'
-    - 'Sunday: 5:30 – 10:00 PM'
+  nextOpenTime: '2025-05-04T00:30:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: false
+    periods:
+      - open:
+          day: 1
+          hour: 17
+          minute: 30
+        close:
+          day: 1
+          hour: 19
+          minute: 0
+      - open:
+          day: 2
+          hour: 17
+          minute: 30
+        close:
+          day: 2
+          hour: 19
+          minute: 0
+      - open:
+          day: 3
+          hour: 17
+          minute: 30
+        close:
+          day: 3
+          hour: 19
+          minute: 0
+      - open:
+          day: 4
+          hour: 17
+          minute: 30
+        close:
+          day: 4
+          hour: 19
+          minute: 0
+      - open:
+          day: 5
+          hour: 17
+          minute: 30
+        close:
+          day: 5
+          hour: 19
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 5:30 – 7:00 PM'
+      - 'Tuesday: 5:30 – 7:00 PM'
+      - 'Wednesday: 5:30 – 7:00 PM'
+      - 'Thursday: 5:30 – 7:00 PM'
+      - 'Friday: 5:30 – 7:00 PM'
+      - 'Saturday: Closed'
+      - 'Sunday: Closed'
+    secondaryHoursType: HAPPY_HOUR
+    nextOpenTime: '2025-05-06T00:30:00Z'
 phone: (323) 650-8585
 price_level: PRICE_LEVEL_EXPENSIVE
 price_range: $100 &ndash; & up
 rating: '4.4'
-rating_count: 0
+rating_count: 1023
 website: https://www.katanarobata.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Explore Katana LA in West Hollywood$$$Katana LA in West Hollywood, CA, stands
+  out as a premier destination for Japanese cuisine, featuring expertly prepared
+  sushi and robata-grilled meats in a modern, inviting atmosphere. This spot
+  combines stylish indoor and outdoor seating with panoramic views of Sunset
+  Blvd, making it ideal for those seeking authentic flavors in a lively setting.
+  Accessibility features like wheelchair-friendly entrances and parking add to
+  the convenience, ensuring a welcoming experience for all diners. With options
+  for live music and a vibrant energy, it's perfect for evenings out, blending
+  traditional tastes with contemporary vibes. Whether you're in the mood for
+  fresh rolls or grilled specialties, this restaurant delivers a memorable
+  dining adventure that captures the essence of Japanese culinary artistry.
+generative_summary: >-
+  Explore Katana LA in West Hollywood$$$Katana LA in West Hollywood, CA, stands
+  out as a premier destination for Japanese cuisine, featuring expertly prepared
+  sushi and robata-grilled meats in a modern, inviting atmosphere. This spot
+  combines stylish indoor and outdoor seating with panoramic views of Sunset
+  Blvd, making it ideal for those seeking authentic flavors in a lively setting.
+  Accessibility features like wheelchair-friendly entrances and parking add to
+  the convenience, ensuring a welcoming experience for all diners. With options
+  for live music and a vibrant energy, it's perfect for evenings out, blending
+  traditional tastes with contemporary vibes. Whether you're in the mood for
+  fresh rolls or grilled specialties, this restaurant delivers a memorable
+  dining adventure that captures the essence of Japanese culinary artistry.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ676_Qr6-woARy3H97J4OVdY/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3bUxUUUhnEAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        It's definitely a must. ( Even if you were not a fan of all fish and
+        seafood like myself)
+
+        From the entrance the place was very inviting. The service was
+        outstandingly professional and friendly. The food was very tasty and
+        looked even better than expected
+
+        The desserts were very tasty, not overpowered by anything.
+
+
+        Parking -4/5*
+
+        Accessibility -4/5*
+
+        Atmosphere - 5/5
+
+        Clean - 4/5*
+
+        Ruestrooms - 4/5*
+
+        Service - 5/5*
+
+        Food visually -4/5*
+
+        Food taste -5/5*
+
+        Food freshness -5/5*
+
+        Price - 3/5*
+
+
+        Total score: 4.5/5
+      languageCode: en
+    originalText:
+      text: >-
+        It's definitely a must. ( Even if you were not a fan of all fish and
+        seafood like myself)
+
+        From the entrance the place was very inviting. The service was
+        outstandingly professional and friendly. The food was very tasty and
+        looked even better than expected
+
+        The desserts were very tasty, not overpowered by anything.
+
+
+        Parking -4/5*
+
+        Accessibility -4/5*
+
+        Atmosphere - 5/5
+
+        Clean - 4/5*
+
+        Ruestrooms - 4/5*
+
+        Service - 5/5*
+
+        Food visually -4/5*
+
+        Food taste -5/5*
+
+        Food freshness -5/5*
+
+        Price - 3/5*
+
+
+        Total score: 4.5/5
+      languageCode: en
+    authorAttribution:
+      displayName: Noam Baruh
+      uri: https://www.google.com/maps/contrib/104168884938220514118/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWmheO4AzXsGBkY9pkLZlxuKXx_FksCitCqHkB4629xgD0rIs5p_Q=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-03-23T06:20:04.600789Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUR3bUxUUUhnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUR3bUxUUUhnEAE!2m1!1s0x80c2bebe42bfbeeb:0xd6550e9eecfd71cb
+  - name: >-
+      places/ChIJ676_Qr6-woARy3H97J4OVdY/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3dEt1RU93EAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        A nice date night spot.  Everything was quite good and our server
+        Crystal was so nice and helpful going through the menu.  They sat us out
+        on the patio which was a little cold but the heaters made it comfortable
+        enough.  We only picked one item that Crystal recommended and it was the
+        best. Maybe we should have gone with all her recommendations.  lol
+      languageCode: en
+    originalText:
+      text: >-
+        A nice date night spot.  Everything was quite good and our server
+        Crystal was so nice and helpful going through the menu.  They sat us out
+        on the patio which was a little cold but the heaters made it comfortable
+        enough.  We only picked one item that Crystal recommended and it was the
+        best. Maybe we should have gone with all her recommendations.  lol
+      languageCode: en
+    authorAttribution:
+      displayName: Steve Reed
+      uri: https://www.google.com/maps/contrib/113224758513008275149/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUW4Fe4Cfpbulu8vwPrlQmPN27VifFbiSGFZlVMkYS_WgFfK7MZcA=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2025-03-16T23:08:07.256746Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUN3dEt1RU93EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUN3dEt1RU93EAE!2m1!1s0x80c2bebe42bfbeeb:0xd6550e9eecfd71cb
+  - name: >-
+      places/ChIJ676_Qr6-woARy3H97J4OVdY/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3bHJmVWhRRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Exceptional dinner. We ordered a bunch of plates and some cocktails and
+        every bite was no short of amazing. I don’t remember last time I had
+        such an amazing dinner. Highly recommended
+      languageCode: en
+    originalText:
+      text: >-
+        Exceptional dinner. We ordered a bunch of plates and some cocktails and
+        every bite was no short of amazing. I don’t remember last time I had
+        such an amazing dinner. Highly recommended
+      languageCode: en
+    authorAttribution:
+      displayName: Danny Fixler
+      uri: https://www.google.com/maps/contrib/103192609469625792288/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUKAwj5l0c15psHvbgwLONiCr8UN9KCoZmLfryynLYRQFO_Hdvz=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-03-25T18:10:34.950690Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUR3bHJmVWhRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUR3bHJmVWhRRRAB!2m1!1s0x80c2bebe42bfbeeb:0xd6550e9eecfd71cb
+  - name: >-
+      places/ChIJ676_Qr6-woARy3H97J4OVdY/reviews/ChZDSUhNMG9nS0VJQ0FnSUNmX0xMMkV3EAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        celebrated a birthday dinner for one of my best friends and was amazed
+        with my experience with Katana. Our chef’s selection for dinner for 2
+        was a mixture of hot and raw dishes, all spectacular! views of Sunset
+        Blvd alongside dinner created the perfect ambience and staff was really
+        attentive. Will definitely go back sometime!
+      languageCode: en
+    originalText:
+      text: >-
+        celebrated a birthday dinner for one of my best friends and was amazed
+        with my experience with Katana. Our chef’s selection for dinner for 2
+        was a mixture of hot and raw dishes, all spectacular! views of Sunset
+        Blvd alongside dinner created the perfect ambience and staff was really
+        attentive. Will definitely go back sometime!
+      languageCode: en
+    authorAttribution:
+      displayName: Paul “PJ” Castellanos
+      uri: https://www.google.com/maps/contrib/109256271098221457988/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJZMvDmqqwIShvgilOJw9gVVYmx-2Ib6C3FdYuGpPZRj6KaOg=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-12-27T06:54:29.023698Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNmX0xMMkV3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNmX0xMMkV3EAE!2m1!1s0x80c2bebe42bfbeeb:0xd6550e9eecfd71cb
+  - name: >-
+      places/ChIJ676_Qr6-woARy3H97J4OVdY/reviews/ChdDSUhNMG9nS0VJQ0FnSUMzaHVfX3RRRRAB
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        Great spot! Loved the creativity of the menu— fish was not only super
+        fresh but presented with fun twists and flavors you won’t see elsewhere.
+        Presentation beautiful, and service super attentive, friendly and kind—
+        not pretentious like you have some places around this area. Lots of
+        people on dates, and some groups celebrating events. Don’t sleep on
+        these oysters— the mignonettes were legendary. The buratta dish was
+        ambitious but honestly expected more from this— cherry tomato garnishes
+        with sashimi is not a match that works. Obsessed with this seaweed salad
+        that came with the hand rolls!!! Can’t wait to come back.
+      languageCode: en
+    originalText:
+      text: >-
+        Great spot! Loved the creativity of the menu— fish was not only super
+        fresh but presented with fun twists and flavors you won’t see elsewhere.
+        Presentation beautiful, and service super attentive, friendly and kind—
+        not pretentious like you have some places around this area. Lots of
+        people on dates, and some groups celebrating events. Don’t sleep on
+        these oysters— the mignonettes were legendary. The buratta dish was
+        ambitious but honestly expected more from this— cherry tomato garnishes
+        with sashimi is not a match that works. Obsessed with this seaweed salad
+        that came with the hand rolls!!! Can’t wait to come back.
+      languageCode: en
+    authorAttribution:
+      displayName: Kyla W
+      uri: https://www.google.com/maps/contrib/105614618628665393999/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWDVXvoqpFWWDLJ629pSRxqR5F-rJpjvEaGoe4o1QNcrCq_F4Dh=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-11-05T04:05:21.571696Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMzaHVfX3RRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMzaHVfX3RRRRAB!2m1!1s0x80c2bebe42bfbeeb:0xd6550e9eecfd71cb
+review_summary: >-
+  Insights from Recent Reviews$$$Visitors often rave about the fresh and
+  creative sushi selections at this West Hollywood gem, highlighting how the
+  flavors stand out as a highlight for anyone craving top-rated Japanese dishes
+  nearby. Many appreciate the attentive service and welcoming vibe, which make
+  it a go-to spot for date nights or group gatherings without feeling overly
+  formal. While some note that prices lean towards the higher end, the overall
+  value shines through in the quality of ingredients and unique presentations
+  that keep things exciting. Folks frequently mention the enjoyable atmosphere,
+  from the outdoor patio to the lively energy, as a key reason to return. All in
+  all, it's a solid choice for sushi enthusiasts looking for a reliable and
+  enjoyable meal in the area, with the consensus leaning towards highly
+  satisfying experiences.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  paidStreetParking: true
+  valetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: false
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+delivery: true
+dine_in: true
+good_for_children: false
+good_for_groups: true
+good_for_sports: false
+live_music: true
+menu_for_children: false
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
+serves_coffee: true
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Hip destination for Japanese grilled meats & sushi in a contemporary setting
+  with patio seats.
 
 ---

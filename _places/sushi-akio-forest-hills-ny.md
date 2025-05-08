@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Akio"
+title: Sushi Akio
 permalink: /new-york/forest-hills/sushi-akio.html
 stateAbbr: NY
 stateName: New York
 cityName: Forest Hills
 seo:
-  name: "Sushi Akio"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi Akio serves delicious sushi in Forest Hills, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJOzH3vDxewokRQfBYytjeUIc
 photos:
   - name: >-
@@ -183,7 +181,44 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  About Sushi Akio in Forest Hills, NY$$$Sushi Akio in Forest Hills, NY, is a
+  welcoming spot for Japanese dining, featuring a menu that highlights fresh
+  seafood and vegetarian choices in a cozy atmosphere. This sushi restaurant
+  emphasizes quality ingredients, making it an ideal destination for those
+  seeking authentic flavors in a relaxed setting. Patrons can explore a variety
+  of options that cater to different tastes, including inventive rolls and
+  classic dishes that showcase the best of Japanese culinary traditions. With
+  its focus on accessibility, such as wheelchair-friendly restrooms, it stands
+  out as a thoughtful choice among local sushi places. Whether you're looking
+  for a nearby option for a casual meal or something special, Sushi Akio
+  delivers a memorable experience that blends simplicity and taste.
+generative_summary: >-
+  About Sushi Akio in Forest Hills, NY$$$Sushi Akio in Forest Hills, NY, is a
+  welcoming spot for Japanese dining, featuring a menu that highlights fresh
+  seafood and vegetarian choices in a cozy atmosphere. This sushi restaurant
+  emphasizes quality ingredients, making it an ideal destination for those
+  seeking authentic flavors in a relaxed setting. Patrons can explore a variety
+  of options that cater to different tastes, including inventive rolls and
+  classic dishes that showcase the best of Japanese culinary traditions. With
+  its focus on accessibility, such as wheelchair-friendly restrooms, it stands
+  out as a thoughtful choice among local sushi places. Whether you're looking
+  for a nearby option for a casual meal or something special, Sushi Akio
+  delivers a memorable experience that blends simplicity and taste.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About This Spot$$$Folks love the incredibly fresh
+  sushi rolls at this spot, with highlights on flavors like spicy tuna and eel
+  avocado that keep diners coming back for more. The service stands out as
+  attentive and considerate, especially for anyone with dietary needs or
+  allergies, adding a welcoming touch to every visit. Even though the restaurant
+  has a smaller space, it creates a cozy vibe that makes meals feel more
+  personal and enjoyable. Overall, it's praised as a reliable go-to for
+  delicious Japanese fare, with many appreciating the balance of quality and
+  friendliness. If you're hunting for top-rated sushi nearby, this place offers
+  a solid, satisfying option that leaves a positive impression.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -209,7 +244,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

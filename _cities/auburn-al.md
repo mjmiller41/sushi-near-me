@@ -5,4 +5,5 @@ permalink: /alabama/auburn/
 stateAbbr: AL
 stateName: Alabama
 cityName: Auburn
+
 ---

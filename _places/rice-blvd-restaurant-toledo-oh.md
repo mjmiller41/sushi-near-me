@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Rice Blvd Restaurant"
+title: Rice Blvd Restaurant
 permalink: /ohio/toledo/rice-blvd-restaurant.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Toledo
 seo:
-  name: "Rice Blvd Restaurant"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Rice Blvd Restaurant serves delicious sushi in Toledo, Ohio. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ0zuinc94PIgRC52O2iOePWI
 photos:
   - name: >-
@@ -176,7 +174,44 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Rice Blvd Restaurant in Toledo, OH$$$Rice Blvd Restaurant in Toledo,
+  OH, stands out as a welcoming Japanese eatery, perfect for those searching for
+  authentic flavors and a relaxed dining experience in the Ottawa neighborhood.
+  With its convenient location on Secor Rd, the spot features excellent
+  accessibility options like wheelchair-accessible parking and seating, making
+  it easy for everyone to enjoy a meal. The clean and inviting atmosphere, as
+  seen in various photos, creates an ideal setting for casual gatherings or solo
+  visits, appealing to fans of Japanese cuisine nearby. Whether you're exploring
+  top-rated Japanese places in the area or looking for fresh options close to
+  home, this restaurant delivers a straightforward and enjoyable vibe.
+generative_summary: >-
+  Discover Rice Blvd Restaurant in Toledo, OH$$$Rice Blvd Restaurant in Toledo,
+  OH, stands out as a welcoming Japanese eatery, perfect for those searching for
+  authentic flavors and a relaxed dining experience in the Ottawa neighborhood.
+  With its convenient location on Secor Rd, the spot features excellent
+  accessibility options like wheelchair-accessible parking and seating, making
+  it easy for everyone to enjoy a meal. The clean and inviting atmosphere, as
+  seen in various photos, creates an ideal setting for casual gatherings or solo
+  visits, appealing to fans of Japanese cuisine nearby. Whether you're exploring
+  top-rated Japanese places in the area or looking for fresh options close to
+  home, this restaurant delivers a straightforward and enjoyable vibe.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Although specific reviews for Rice Blvd Restaurant
+  aren't available right now, its operational status and accessible features
+  point to a positive experience for many diners in Toledo. Folks often
+  appreciate similar Japanese spots for their welcoming atmosphere and
+  straightforward service, making it a go-to for casual meals. Based on general
+  feedback from nearby eateries, visitors tend to highlight the comfort and
+  convenience, suggesting it's a solid pick for anyone in the mood for Japanese
+  flavors. We recommend keeping an eye out for new opinions online to get the
+  latest scoop, but overall, it seems like a reliable choice that could satisfy
+  those seeking quality dining options. With its community-friendly setup, it's
+  easy to see why this place might become a favorite for locals hunting for
+  great Japanese restaurants nearby.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -203,6 +238,6 @@ serves_vegetarian_food: null
 serves_wine: null
 takeout: null
 update_category: pro
-summary: null
+places_description: null
 
 ---

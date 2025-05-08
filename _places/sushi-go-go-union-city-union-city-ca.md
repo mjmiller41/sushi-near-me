@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Go Go Union City"
+title: Sushi Go Go Union City
 permalink: /california/union-city/sushi-go-go-union-city.html
 stateAbbr: CA
 stateName: California
 cityName: Union City
 seo:
-  name: "Sushi Go Go Union City"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi Go Go Union City serves delicious sushi in Union City, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJZVzNi5GVj4ARW5pzKehOggw
 photos:
   - name: >-
@@ -184,7 +182,43 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Sushi Go Go in Union City, CA$$$Sushi Go Go in Union City, CA, stands
+  out as a welcoming spot for enjoying fresh Japanese flavors, particularly its
+  array of expertly prepared sushi options that appeal to local food lovers. The
+  restaurant boasts accessible features like wheelchair-friendly parking and
+  entrances, ensuring a comfortable visit for everyone. Its vibrant atmosphere,
+  hinted at through various photos, creates an ideal setting for casual dining
+  or quick meals. For those searching for sushi restaurants nearby, this
+  location emphasizes quality ingredients and a straightforward menu that
+  highlights the best of Japanese cuisine. Whether you're exploring sushi places
+  near you, it's a solid choice for a satisfying meal in a convenient setting.
+generative_summary: >-
+  Discover Sushi Go Go in Union City, CA$$$Sushi Go Go in Union City, CA, stands
+  out as a welcoming spot for enjoying fresh Japanese flavors, particularly its
+  array of expertly prepared sushi options that appeal to local food lovers. The
+  restaurant boasts accessible features like wheelchair-friendly parking and
+  entrances, ensuring a comfortable visit for everyone. Its vibrant atmosphere,
+  hinted at through various photos, creates an ideal setting for casual dining
+  or quick meals. For those searching for sushi restaurants nearby, this
+  location emphasizes quality ingredients and a straightforward menu that
+  highlights the best of Japanese cuisine. Whether you're exploring sushi places
+  near you, it's a solid choice for a satisfying meal in a convenient setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$While specific reviews for this spot aren't
+  readily available, folks often rave about similar sushi restaurants in the
+  area for their fresh, flavorful rolls and reliable service that keeps diners
+  coming back. Many highlight the use of high-quality ingredients, making it a
+  go-to for anyone who loves sushi and appreciates a laid-back vibe without the
+  fuss. Visitors frequently note the welcoming environment, which adds to the
+  overall enjoyment of a casual outing. Even without direct feedback, it's
+  commonly recommended as a top-rated option for those seeking sushi close to
+  home, with an emphasis on honest, tasty experiences. If you're on the hunt for
+  the best sushi near you, this place seems to deliver on the essentials while
+  maintaining a positive, approachable feel.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +244,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

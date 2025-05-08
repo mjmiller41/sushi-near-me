@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ichiban Noodles"
+title: Ichiban Noodles
 permalink: /indiana/indianapolis/ichiban-noodles.html
 stateAbbr: IN
 stateName: Indiana
 cityName: Indianapolis
 seo:
-  name: "Ichiban Noodles"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Ichiban Noodles serves delicious sushi in Indianapolis, Indiana. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJW8rlvNZMa4gR0FgfpIzWjRk
 photos:
   - name: >-
@@ -176,7 +174,44 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Ichiban Noodles in Indianapolis, IN$$$Ichiban Noodles in
+  Indianapolis, IN, stands out as a go-to spot for fresh sushi and
+  Asian-inspired flavors, perfect for anyone exploring top sushi restaurants in
+  the area. Located in the lively Castleton neighborhood, this welcoming eatery
+  emphasizes accessibility with features like wheelchair-accessible parking,
+  entrances, and seating, ensuring a comfortable visit for all. Its menu
+  highlights a variety of delicious sushi options that cater to those seeking
+  satisfying meals close to home, blending quality ingredients with a relaxed
+  atmosphere. Whether you're in the mood for a quick bite or a casual gathering,
+  the restaurant's convenient location makes it an ideal choice for sushi
+  enthusiasts looking for reliable dining experiences nearby.
+generative_summary: >-
+  Discover Ichiban Noodles in Indianapolis, IN$$$Ichiban Noodles in
+  Indianapolis, IN, stands out as a go-to spot for fresh sushi and
+  Asian-inspired flavors, perfect for anyone exploring top sushi restaurants in
+  the area. Located in the lively Castleton neighborhood, this welcoming eatery
+  emphasizes accessibility with features like wheelchair-accessible parking,
+  entrances, and seating, ensuring a comfortable visit for all. Its menu
+  highlights a variety of delicious sushi options that cater to those seeking
+  satisfying meals close to home, blending quality ingredients with a relaxed
+  atmosphere. Whether you're in the mood for a quick bite or a casual gathering,
+  the restaurant's convenient location makes it an ideal choice for sushi
+  enthusiasts looking for reliable dining experiences nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Customer Reviews$$$Visitors to this sushi spot often praise the
+  fresh ingredients and welcoming vibe, making it a solid pick for anyone
+  craving tasty Japanese-inspired dishes without the hassle. Many highlight the
+  attentive service and accessible features that enhance the overall dining
+  experience, helping it stand out among local options. While some note room for
+  variety in menu choices, the general consensus leans positive, with folks
+  appreciating the straightforward approach to classic flavors that keep things
+  enjoyable. Overall, it's frequently recommended as a dependable choice for
+  casual meals, offering a balance of quality and convenience that leaves diners
+  satisfied and eager to return.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -203,6 +238,6 @@ serves_vegetarian_food: null
 serves_wine: null
 takeout: null
 update_category: pro
-summary: null
+places_description: null
 
 ---

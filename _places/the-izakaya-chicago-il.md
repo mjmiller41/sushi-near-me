@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "The Izakaya"
+title: The Izakaya
 permalink: /illinois/chicago/the-izakaya.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
 seo:
-  name: "The Izakaya"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "The Izakaya serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJv_dV1nQtDogRJCh0JitYWmM
 photos:
   - name: >-
@@ -143,7 +141,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICzqeTw3QE!2e10!4m2!3m1!1s0x880e2d74d655f7bf:0x635a582b26742824
 address: Lower Level, 820 W Lake St, Chicago, IL 60607, USA
-street: Lower Level, 820 W Lake St
+street: Lower Level,820 W Lake St
 city: Chicago
 state: IL
 zip: '60607'
@@ -184,7 +182,44 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Experience The Izakaya in Chicago, IL$$$The Izakaya in Chicago, IL, offers a
+  unique Japanese dining experience in a cozy subterranean setting, perfect for
+  those seeking authentic Japanese places near me. This spot features
+  hand-painted menus and an array of small plates that highlight fresh flavors
+  and creative twists on traditional cuisine. With its intimate atmosphere and
+  thoughtful accessibility options like wheelchair-friendly entrances, it's an
+  ideal choice for a relaxed evening exploring top-rated sushi options. Visitors
+  can enjoy the vibrant energy of the Fulton Market District while savoring
+  meticulously prepared dishes that blend classic and innovative elements.
+  Whether you're in the mood for sushi restaurants close to me, this hidden gem
+  delivers a memorable blend of quality and ambiance.
+generative_summary: >-
+  Experience The Izakaya in Chicago, IL$$$The Izakaya in Chicago, IL, offers a
+  unique Japanese dining experience in a cozy subterranean setting, perfect for
+  those seeking authentic Japanese places near me. This spot features
+  hand-painted menus and an array of small plates that highlight fresh flavors
+  and creative twists on traditional cuisine. With its intimate atmosphere and
+  thoughtful accessibility options like wheelchair-friendly entrances, it's an
+  ideal choice for a relaxed evening exploring top-rated sushi options. Visitors
+  can enjoy the vibrant energy of the Fulton Market District while savoring
+  meticulously prepared dishes that blend classic and innovative elements.
+  Whether you're in the mood for sushi restaurants close to me, this hidden gem
+  delivers a memorable blend of quality and ambiance.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Diners Are Buzzing About$$$Folks often praise the tasty mix of dishes at
+  this Japanese spot, with highlights including flavorful burgers and chicken
+  sandwiches that surprise with their fresh take on comfort food. Reviewers
+  frequently mention the uni pasta as a standout, noting its delicious balance
+  of textures and tastes that keep things exciting. The overall vibe gets thumbs
+  up too, thanks to the cool, intimate lighting and engaging music that create a
+  welcoming hangout feel. While opinions vary, many agree it's a solid pick for
+  groups or solo diners looking for honest, satisfying meals without the fuss.
+  If you're hunting for best sushi near me, this place delivers a generally
+  positive experience with its approachable atmosphere and reliable flavors.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +245,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

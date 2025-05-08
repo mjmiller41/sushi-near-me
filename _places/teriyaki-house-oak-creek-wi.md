@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Teriyaki House"
+title: Teriyaki House
 permalink: /wisconsin/oak-creek/teriyaki-house.html
 stateAbbr: WI
 stateName: Wisconsin
 cityName: Oak Creek
 seo:
-  name: "Teriyaki House"
-  type: Restaurant
+  type: restaurant
   links: https://www.teriyakigrillsushi.com/
-description: "Teriyaki House serves delicious sushi in Oak Creek, Wisconsin. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJe4HluCcVBYgRdSz3abdQ_EU
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 0
 website: https://www.teriyakigrillsushi.com/
+description: >-
+  Experience Teriyaki House in Oak Creek, WI$$$Teriyaki House in Oak Creek,
+  Wisconsin, is a laid-back spot serving up a blend of Japanese and Chinese
+  flavors, with fresh sushi options that highlight its approachable appeal. This
+  unpretentious restaurant features a menu full of satisfying dishes, from
+  savory teriyaki plates to vegetarian-friendly choices, all prepared with a
+  focus on quality ingredients. Visitors can enjoy the convenience of
+  accessibility features like wheelchair-friendly entrances and parking, making
+  it an inclusive choice for a relaxed meal. Whether you're exploring sushi
+  restaurants nearby or seeking Japanese-inspired dining in a welcoming
+  atmosphere, this place stands out for its moderate prices and efficient
+  takeout services. Its casual vibe and variety of options make it a go-to for
+  those craving authentic Asian tastes without the fuss.
+generative_summary: >-
+  Experience Teriyaki House in Oak Creek, WI$$$Teriyaki House in Oak Creek,
+  Wisconsin, is a laid-back spot serving up a blend of Japanese and Chinese
+  flavors, with fresh sushi options that highlight its approachable appeal. This
+  unpretentious restaurant features a menu full of satisfying dishes, from
+  savory teriyaki plates to vegetarian-friendly choices, all prepared with a
+  focus on quality ingredients. Visitors can enjoy the convenience of
+  accessibility features like wheelchair-friendly entrances and parking, making
+  it an inclusive choice for a relaxed meal. Whether you're exploring sushi
+  restaurants nearby or seeking Japanese-inspired dining in a welcoming
+  atmosphere, this place stands out for its moderate prices and efficient
+  takeout services. Its casual vibe and variety of options make it a go-to for
+  those craving authentic Asian tastes without the fuss.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJe4HluCcVBYgRdSz3abdQ_EU/reviews/ChZDSUhNMG9nS0VJQ0FnTURBeTg2dmJ3EAE
@@ -352,6 +377,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQtdTV6YS1RRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQtdTV6YS1RRRAB!2m1!1s0x88051527b8e5817b:0x45fc50b769f72c75
+review_summary: >-
+  Customer Feedback Highlights$$$Visitors often rave about the fresh sushi and
+  flavorful teriyaki dishes at this spot, noting how the generous portions and
+  variety of veggies keep things satisfying and tasty. Many appreciate the
+  friendly service and quick turnaround, even if the dining area is on the cozy
+  side, making it ideal for a casual bite or grab-and-go meals. While some
+  mention minor details like a simple drink selection, the overall experience
+  shines through with reliable flavors that outpace expectations for local
+  Japanese eateries. Folks frequently highlight the vegetarian alternatives and
+  lunch deals as smart picks for everyday dining, adding to its appeal for
+  families or quick stops. All in all, it's a solid choice for anyone hunting
+  for reliable sushi places nearby, with a vibe that's approachable and
+  consistently enjoyable.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -384,7 +423,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

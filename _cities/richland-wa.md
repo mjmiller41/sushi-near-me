@@ -5,4 +5,5 @@ permalink: /washington/richland/
 stateAbbr: WA
 stateName: Washington
 cityName: Richland
+
 ---

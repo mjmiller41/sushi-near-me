@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "MTea Sushi & Dessert"
+title: MTea Sushi & Dessert
 permalink: /new-jersey/princeton/mtea-sushi-dessert.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Princeton
 seo:
-  name: "MTea Sushi & Dessert"
-  type: Restaurant
+  type: restaurant
   links: https://www.princetonmteasushidessert.com/
-description: "MTea Sushi & Dessert serves delicious sushi in Princeton, New Jersey. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJt97I6uznw4kRmbQE8lwuiS0
 photos:
   - name: >-
@@ -184,6 +182,31 @@ price_range: null
 rating: '4.8'
 rating_count: 0
 website: https://www.princetonmteasushidessert.com/
+description: >-
+  Discover MTea Sushi & Dessert in Princeton, NJ$$$MTea Sushi & Dessert in
+  Princeton, NJ, stands out as a top-rated spot for fresh sushi and creative
+  desserts, blending Japanese flavors with innovative twists that appeal to
+  sushi enthusiasts nearby. This cozy eatery features accessible entrances and
+  seating, making it welcoming for all visitors, along with outdoor options that
+  enhance the dining experience on pleasant days. Patrons can enjoy a variety of
+  high-quality dishes, from flavorful poke bowls to refreshing teas, all
+  prepared with care in a clean and inviting atmosphere. Whether you're seeking
+  the best sushi near you or a casual place for Japanese-inspired meals, this
+  location offers generous portions and a menu that caters to families and
+  groups alike.
+generative_summary: >-
+  Discover MTea Sushi & Dessert in Princeton, NJ$$$MTea Sushi & Dessert in
+  Princeton, NJ, stands out as a top-rated spot for fresh sushi and creative
+  desserts, blending Japanese flavors with innovative twists that appeal to
+  sushi enthusiasts nearby. This cozy eatery features accessible entrances and
+  seating, making it welcoming for all visitors, along with outdoor options that
+  enhance the dining experience on pleasant days. Patrons can enjoy a variety of
+  high-quality dishes, from flavorful poke bowls to refreshing teas, all
+  prepared with care in a clean and inviting atmosphere. Whether you're seeking
+  the best sushi near you or a casual place for Japanese-inspired meals, this
+  location offers generous portions and a menu that caters to families and
+  groups alike.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJt97I6uznw4kRmbQE8lwuiS0/reviews/ChZDSUhNMG9nS0VJQ0FnTURRcEtEbWRBEAE
@@ -373,6 +396,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURmbVpEU0dREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURmbVpEU0dREAE!2m1!1s0x89c3e7eceac8deb7:0x2d892e5cf204b499
+review_summary: >-
+  Customer Review Highlights$$$Folks who visit this sushi spot often rave about
+  the fresh, high-quality ingredients in dishes like poke bowls and boba teas,
+  making it a go-to choice for tasty meals in a welcoming setting. Many
+  appreciate the friendly service and generous portions that leave you feeling
+  satisfied, though some note the space can feel a bit snug during busy times.
+  Overall, the vibe is upbeat with great drinks and desserts that add a fun
+  twist, encouraging repeat visits for anyone hunting for reliable sushi
+  restaurants nearby. While a few mentions point to lively music that might make
+  conversations tricky, the positives like the clean environment and attentive
+  staff keep the feedback mostly glowing and honest. If you're on the hunt for
+  solid Japanese places near me, this spot delivers a solid experience worth
+  trying.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidStreetParking: true
   paidGarageParking: true
@@ -403,7 +440,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -5,4 +5,5 @@ permalink: /texas/fort-worth/
 stateAbbr: TX
 stateName: Texas
 cityName: Fort Worth
+
 ---

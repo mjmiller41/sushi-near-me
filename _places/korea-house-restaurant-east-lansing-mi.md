@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Korea House Restaurant"
+title: Korea House Restaurant
 permalink: /michigan/east-lansing/korea-house-restaurant.html
 stateAbbr: MI
 stateName: Michigan
 cityName: East Lansing
 seo:
-  name: "Korea House Restaurant"
-  type: Restaurant
+  type: restaurant
   links: https://koreahouse.us/index.html
-description: "Simple, wood-paneled establishment with a sushi bar & menu of familiar Korean & Japanese entrees. Korea House Restaurant serves delicious sushi in East Lansing, Michigan. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJQ0J7sm3CIogRdTmr8EWuMb8
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 0
 website: https://koreahouse.us/index.html
+description: >-
+  Discover Korea House Restaurant in East Lansing, MI$$$Korea House Restaurant
+  in East Lansing, MI, is a welcoming spot for authentic Korean cuisine,
+  blending traditional flavors with Japanese influences like fresh sushi
+  options. This cozy establishment features a simple, wood-paneled interior that
+  sets a relaxed atmosphere, perfect for enjoying cooked-at-the-table dishes and
+  a variety of hearty entrees. With accessibility options including
+  wheelchair-friendly parking and entrances, it caters to a wide range of diners
+  seeking flavorful meals in a comfortable setting. The menu highlights generous
+  portions of Korean staples alongside sushi selections, making it an ideal
+  choice for those exploring top-rated Asian dining experiences nearby. Whether
+  you're in the mood for classic fare or something lighter, this restaurant
+  delivers a satisfying blend of tastes that reflect its cultural roots.
+generative_summary: >-
+  Discover Korea House Restaurant in East Lansing, MI$$$Korea House Restaurant
+  in East Lansing, MI, is a welcoming spot for authentic Korean cuisine,
+  blending traditional flavors with Japanese influences like fresh sushi
+  options. This cozy establishment features a simple, wood-paneled interior that
+  sets a relaxed atmosphere, perfect for enjoying cooked-at-the-table dishes and
+  a variety of hearty entrees. With accessibility options including
+  wheelchair-friendly parking and entrances, it caters to a wide range of diners
+  seeking flavorful meals in a comfortable setting. The menu highlights generous
+  portions of Korean staples alongside sushi selections, making it an ideal
+  choice for those exploring top-rated Asian dining experiences nearby. Whether
+  you're in the mood for classic fare or something lighter, this restaurant
+  delivers a satisfying blend of tastes that reflect its cultural roots.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJQ0J7sm3CIogRdTmr8EWuMb8/reviews/ChZDSUhNMG9nS0VJQ0FnTURRdEszVVJ3EAE
@@ -564,6 +589,22 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNIbHZldV93RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNIbHZldV93RRAB!2m1!1s0x8822c26db27b4243:0xbf31ae45f0ab3975
+review_summary: >-
+  What Customers Are Saying$$$Visitors to Korea House Restaurant often rave
+  about the delicious variety of dishes, with many highlighting the generous
+  portions and flavorful Korean favorites like spicy rice cakes and bibimbap
+  that leave them with leftovers to enjoy later. While most feedback praises the
+  friendly service and authentic tastes that make it a standout spot for casual
+  meals, a few mentions note occasional inconsistencies in preparation or
+  service speed during busy times. Overall, the consensus leans positive, with
+  diners appreciating the value and comforting broths in soups, encouraging
+  others to try the diverse menu including sushi options for a satisfying
+  experience. It's clear that this place shines for groups looking for hearty,
+  well-prepared food, though some suggest planning visits during less crowded
+  hours to ensure the best vibe. If you're searching for reliable sushi
+  restaurants near you, this spot frequently gets nods for its approachable
+  flavors and welcoming feel.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -596,8 +637,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Simple, wood-paneled establishment with a sushi bar & menu of familiar Korean
   & Japanese entrees.
 

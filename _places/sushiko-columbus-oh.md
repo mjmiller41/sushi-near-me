@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushiko"
+title: Sushiko
 permalink: /ohio/columbus/sushiko.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Columbus
 seo:
-  name: "Sushiko"
-  type: Restaurant
+  type: restaurant
   links: http://www.sushi-ko.net/
-description: "Bright eatery with an extensive menu of traditional & specialty sushi & other Japanese dishes. Sushiko serves delicious sushi in Columbus, Ohio. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJKXuSzEDzOIgRXeXFDqWelYg
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 0
 website: http://www.sushi-ko.net/
+description: >-
+  Discover Sushiko in Columbus, OH$$$Nestled in Columbus, OH, Sushiko stands out
+  as a welcoming Japanese restaurant offering a blend of traditional and
+  creative sushi options that appeal to local diners seeking authentic flavors.
+  The spot features a relaxed atmosphere with a full menu of fresh Japanese
+  dishes, complemented by a variety of beverages for a complete dining
+  experience. Accessibility is a key highlight, with options like
+  wheelchair-friendly parking and seating making it easy for everyone to enjoy.
+  Patrons appreciate the moderate pricing and extensive selection, which
+  includes specialty rolls and other favorites, positioning it as a go-to choice
+  for quality sushi dining in the area.
+generative_summary: >-
+  Discover Sushiko in Columbus, OH$$$Nestled in Columbus, OH, Sushiko stands out
+  as a welcoming Japanese restaurant offering a blend of traditional and
+  creative sushi options that appeal to local diners seeking authentic flavors.
+  The spot features a relaxed atmosphere with a full menu of fresh Japanese
+  dishes, complemented by a variety of beverages for a complete dining
+  experience. Accessibility is a key highlight, with options like
+  wheelchair-friendly parking and seating making it easy for everyone to enjoy.
+  Patrons appreciate the moderate pricing and extensive selection, which
+  includes specialty rolls and other favorites, positioning it as a go-to choice
+  for quality sushi dining in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJKXuSzEDzOIgRXeXFDqWelYg/reviews/ChZDSUhNMG9nS0VJQ0FnTURRd3RxNlhBEAE
@@ -378,6 +399,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUN3XzhXNGVREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUN3XzhXNGVREAE!2m1!1s0x8838f340cc927b29:0x88959ea50ec5e55d
+review_summary: >-
+  What Customers Love About Sushiko$$$Folks often rave about the fresh and
+  generous portions of sushi at this spot, with many highlighting how the
+  flavors really hit the mark for a satisfying meal. Visitors frequently mention
+  the attentive service and quick delivery of dishes, adding to the overall
+  enjoyable vibe without any major hiccups. It's clear that favorites like
+  sashimi and noodle options keep people coming back, earning nods for their
+  taste and quality. While most experiences are glowing, a few note that the
+  atmosphere is straightforward, yet the positives around food and staff make it
+  a solid pick for groups or families. Overall, this place comes across as a
+  reliable choice for anyone hunting for top-notch sushi nearby, blending tasty
+  eats with friendly service to create a memorable outing.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -410,8 +444,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Bright eatery with an extensive menu of traditional & specialty sushi & other
   Japanese dishes.
 

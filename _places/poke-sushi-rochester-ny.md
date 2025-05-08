@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Poké Sushi"
+title: Poké Sushi
 permalink: /new-york/rochester/poke-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: Rochester
 seo:
-  name: "Poké Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.pokesushiroc.com/
-description: "Poké Sushi serves delicious sushi in Rochester, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJgZ4rgWm11okRMp8cCu7XpZE
 photos:
   - name: >-
@@ -182,6 +180,29 @@ price_range: null
 rating: '4.5'
 rating_count: 0
 website: http://www.pokesushiroc.com/
+description: >-
+  Experience Poké Sushi in Rochester, NY$$$Nestled in the heart of Rochester,
+  NY, Poké Sushi stands out as a welcoming spot for sushi enthusiasts seeking a
+  blend of fresh flavors and relaxed vibes. This cozy eatery specializes in
+  artfully prepared sushi rolls and offers an array of cocktails to complement
+  your meal, making it a go-to choice for those exploring Japanese-inspired
+  dining options nearby. With thoughtful touches like vegan and vegetarian
+  selections, it caters to a variety of preferences while maintaining a
+  comfortable atmosphere that enhances every visit. Whether you're in the mood
+  for inventive dishes or classic favorites, the focus on quality ingredients
+  ensures a satisfying experience that keeps diners coming back.
+generative_summary: >-
+  Experience Poké Sushi in Rochester, NY$$$Nestled in the heart of Rochester,
+  NY, Poké Sushi stands out as a welcoming spot for sushi enthusiasts seeking a
+  blend of fresh flavors and relaxed vibes. This cozy eatery specializes in
+  artfully prepared sushi rolls and offers an array of cocktails to complement
+  your meal, making it a go-to choice for those exploring Japanese-inspired
+  dining options nearby. With thoughtful touches like vegan and vegetarian
+  selections, it caters to a variety of preferences while maintaining a
+  comfortable atmosphere that enhances every visit. Whether you're in the mood
+  for inventive dishes or classic favorites, the focus on quality ingredients
+  ensures a satisfying experience that keeps diners coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJgZ4rgWm11okRMp8cCu7XpZE/reviews/ChZDSUhNMG9nS0VJQ0FnSURmdnNLbGFnEAE
@@ -375,6 +396,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR6dEtLbktREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR6dEtLbktREAE!2m1!1s0x89d6b569812b9e81:0x91a5d7ee0a1c9f32
+review_summary: >-
+  Insights from Recent Feedback$$$Diners often rave about the fresh sushi and
+  welcoming atmosphere at this spot, highlighting the flavorful rolls and
+  attentive service that make meals enjoyable and memorable. While some
+  appreciate the variety of options like vegan dishes and tasty appetizers that
+  add excitement to the menu, others note that certain items could use a bit
+  more creativity in flavors for a fuller experience. Overall, the consensus
+  leans positive, with many praising the consistent quality and inviting setting
+  that encourage repeat visits for lunch or dinner. If you're searching for
+  reliable sushi places in the area, this location delivers solid value and a
+  pleasant vibe that makes it worth trying out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeStreetParking: true
   valetParking: false
@@ -406,7 +439,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

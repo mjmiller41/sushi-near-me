@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Miyazaki"
+title: Miyazaki
 permalink: /utah/murray/miyazaki.html
 stateAbbr: UT
 stateName: Utah
 cityName: Murray
 seo:
-  name: "Miyazaki"
-  type: Restaurant
+  type: restaurant
   links: https://miyazakislc.com/
-description: "Miyazaki serves delicious sushi in Murray, Utah. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJve8SzeGJUocRYjaBQT_Kgpc
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x875289e1cd12efbd:0x9782ca3f41813662!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 20
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 9:00 PM'
     - 'Tuesday: 11:30 AM – 9:00 PM'
     - 'Wednesday: 11:30 AM – 9:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 10:00 PM'
     - 'Saturday: 11:30 AM – 10:00 PM'
     - 'Sunday: 11:30 AM – 8:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 9:00 PM'
-    - 'Tuesday: 11:30 AM – 9:00 PM'
-    - 'Wednesday: 11:30 AM – 9:00 PM'
-    - 'Thursday: 11:30 AM – 9:00 PM'
-    - 'Friday: 11:30 AM – 10:00 PM'
-    - 'Saturday: 11:30 AM – 10:00 PM'
-    - 'Sunday: 11:30 AM – 8:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,307 @@ phone: (801) 877-7788
 price_level: PRICE_LEVEL_INEXPENSIVE
 price_range: $10 &ndash; $20
 rating: '4.7'
-rating_count: 0
+rating_count: 1383
 website: https://miyazakislc.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  About Miyazaki in Murray, UT$$$Miyazaki in Murray, UT, stands out as a stylish
+  spot for Japanese cuisine enthusiasts, featuring a menu that highlights fresh
+  sushi rolls and flavorful Japanese steaks. This eatery combines modern
+  ambiance with authentic flavors, making it an ideal choice for those seeking
+  quality sushi dining options nearby. Patrons can enjoy a variety of dishes
+  that balance traditional techniques with contemporary presentation, all served
+  in a welcoming environment perfect for casual meals or special occasions.
+  Accessibility features like wheelchair-friendly entrances and seating add to
+  its appeal, ensuring a comfortable experience for all visitors. With options
+  for dine-in and takeout, it's a go-to destination for anyone exploring
+  top-rated Japanese places in the area.
+generative_summary: >-
+  About Miyazaki in Murray, UT$$$Miyazaki in Murray, UT, stands out as a stylish
+  spot for Japanese cuisine enthusiasts, featuring a menu that highlights fresh
+  sushi rolls and flavorful Japanese steaks. This eatery combines modern
+  ambiance with authentic flavors, making it an ideal choice for those seeking
+  quality sushi dining options nearby. Patrons can enjoy a variety of dishes
+  that balance traditional techniques with contemporary presentation, all served
+  in a welcoming environment perfect for casual meals or special occasions.
+  Accessibility features like wheelchair-friendly entrances and seating add to
+  its appeal, ensuring a comfortable experience for all visitors. With options
+  for dine-in and takeout, it's a go-to destination for anyone exploring
+  top-rated Japanese places in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJve8SzeGJUocRYjaBQT_Kgpc/reviews/ChZDSUhNMG9nS0VJQ0FnSURfcElIY1VREAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        Tried the unagi bowl. I loved all the flavors and the veggies it came
+        with. It did have too much eel sauce on it. So it made it pretty salty.
+        My server brought me a spicy house made sauce that was delicious. I also
+        tried a fukomaki tempura shrimp roll. Simple roll. It was great. I tried
+        a Yuma soda which is a grapefruit soda with strawberry flavors. I wish
+        it was more sweet and could taste the strawberry. The water was cool and
+        no ice which I enjoyed. The place is clean and beautiful. It wasn't too
+        busy Sunday evening. Customer service is great. I want to go back and
+        try other dishes. But It is a bit pricey for a sushi roll.
+      languageCode: en
+    originalText:
+      text: >-
+        Tried the unagi bowl. I loved all the flavors and the veggies it came
+        with. It did have too much eel sauce on it. So it made it pretty salty.
+        My server brought me a spicy house made sauce that was delicious. I also
+        tried a fukomaki tempura shrimp roll. Simple roll. It was great. I tried
+        a Yuma soda which is a grapefruit soda with strawberry flavors. I wish
+        it was more sweet and could taste the strawberry. The water was cool and
+        no ice which I enjoyed. The place is clean and beautiful. It wasn't too
+        busy Sunday evening. Customer service is great. I want to go back and
+        try other dishes. But It is a bit pricey for a sushi roll.
+      languageCode: en
+    authorAttribution:
+      displayName: melialvarez23
+      uri: https://www.google.com/maps/contrib/107285792122580028761/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVvjWJkvg_rycZOYdHDEuOIk14LCheKY_9DAiAkO6RFcwvxunYj=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-01-21T18:35:31.109992Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURfcElIY1VREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURfcElIY1VREAE!2m1!1s0x875289e1cd12efbd:0x9782ca3f41813662
+  - name: >-
+      places/ChIJve8SzeGJUocRYjaBQT_Kgpc/reviews/ChZDSUhNMG9nS0VJQ0FnTUNnaGNDeVh3EAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 4
+    text:
+      text: >-
+        All was fine and good except for the one food item.
+
+
+        I ordered a roll that I took special attention to ensure it didn't
+        contain and contain an ingredient that I don't like. The first piece I
+        ate tasted like it was present. I looked in the next piece, it wasn't
+        readily identifiable. I thought the combination of other ingredients
+        happen to form an mistaken, false association. I continued eating. Each
+        subsequent piece was more strongly accentuated. I picked the fourth
+        piece apart, confirming my suspicion. I picked out what I could find,
+        and optimistically continued. The effort failed to mute. When the server
+        checked in, I asked to confirm that I didn't make a mistake of what I
+        ordered. It was not a mistake. It was not listed in the menu. The server
+        went and asked the chef. I heard an exchange that consisted loosely of;
+        Server: "Was that roll made with [ingredient]?", Chef: "Yeah.", Server:
+        "It's not supposed to be made with that.", Chef: "Yeah, I thought he
+        would like it." The server offered to have it be remade without it, but
+        at the point I already lost my appetite, my pallet was ruined and my
+        trust a little damaged.
+
+
+        The other items and drinks were really good. Calamari was perfect. Miso
+        was great. Salad was fresh, dressing was well balanced. My dining
+        partners were satisfied with their meals. The staff was really nice and
+        attentive.
+
+
+        My recommendation of their sushi will have to wait until a next visit. I
+        can't commit to having tried their sushi as intended. If I were to
+        separate the components and judge individually; tuna was fresh and
+        excellent, rice was well cooked, vegetables were fresh and good (save
+        for my opinion of the one I personally don't like that is bias.) The
+        accompanied sauce was too drastically altered by the (personally)
+        offensive vegetable for me to make a fair assessment of the taste.
+        Visually, it looked great.
+      languageCode: en
+    originalText:
+      text: >-
+        All was fine and good except for the one food item.
+
+
+        I ordered a roll that I took special attention to ensure it didn't
+        contain and contain an ingredient that I don't like. The first piece I
+        ate tasted like it was present. I looked in the next piece, it wasn't
+        readily identifiable. I thought the combination of other ingredients
+        happen to form an mistaken, false association. I continued eating. Each
+        subsequent piece was more strongly accentuated. I picked the fourth
+        piece apart, confirming my suspicion. I picked out what I could find,
+        and optimistically continued. The effort failed to mute. When the server
+        checked in, I asked to confirm that I didn't make a mistake of what I
+        ordered. It was not a mistake. It was not listed in the menu. The server
+        went and asked the chef. I heard an exchange that consisted loosely of;
+        Server: "Was that roll made with [ingredient]?", Chef: "Yeah.", Server:
+        "It's not supposed to be made with that.", Chef: "Yeah, I thought he
+        would like it." The server offered to have it be remade without it, but
+        at the point I already lost my appetite, my pallet was ruined and my
+        trust a little damaged.
+
+
+        The other items and drinks were really good. Calamari was perfect. Miso
+        was great. Salad was fresh, dressing was well balanced. My dining
+        partners were satisfied with their meals. The staff was really nice and
+        attentive.
+
+
+        My recommendation of their sushi will have to wait until a next visit. I
+        can't commit to having tried their sushi as intended. If I were to
+        separate the components and judge individually; tuna was fresh and
+        excellent, rice was well cooked, vegetables were fresh and good (save
+        for my opinion of the one I personally don't like that is bias.) The
+        accompanied sauce was too drastically altered by the (personally)
+        offensive vegetable for me to make a fair assessment of the taste.
+        Visually, it looked great.
+      languageCode: en
+    authorAttribution:
+      displayName: setfires
+      uri: https://www.google.com/maps/contrib/112427568071761847884/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWM8jyFeRQctAcaZl1mcmTvxx1jnRjPHtQpWN2WsnLKtWdXqFdjqA=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-02-19T03:42:03.154628Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNnaGNDeVh3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNnaGNDeVh3EAE!2m1!1s0x875289e1cd12efbd:0x9782ca3f41813662
+  - name: >-
+      places/ChIJve8SzeGJUocRYjaBQT_Kgpc/reviews/ChdDSUhNMG9nS0VJQ0FnTURneW9LanhRRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 4
+    text:
+      text: >-
+        the Wagyu Curry Don was amaaaazing!! very soft and tender and juicy
+        beef, and curry flavor was also perfect- definitely recommend! the rolls
+        were very good and made fresh too. Miyazaki is on the slightly pricey
+        side for sure, but i do think it's high quality and service
+      languageCode: en
+    originalText:
+      text: >-
+        the Wagyu Curry Don was amaaaazing!! very soft and tender and juicy
+        beef, and curry flavor was also perfect- definitely recommend! the rolls
+        were very good and made fresh too. Miyazaki is on the slightly pricey
+        side for sure, but i do think it's high quality and service
+      languageCode: en
+    authorAttribution:
+      displayName: J Le
+      uri: https://www.google.com/maps/contrib/110619664262667104708/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWGzLY224QayTDZfYjtV9NKpiJw_eS4xmw9JKF0-3cK8XthqtUs=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-02-24T00:59:48.480201Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURneW9LanhRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURneW9LanhRRRAB!2m1!1s0x875289e1cd12efbd:0x9782ca3f41813662
+  - name: >-
+      places/ChIJve8SzeGJUocRYjaBQT_Kgpc/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3c2YzMUVREAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Their food is fresh and delicious, and the staff is friendly and
+        welcoming. Loved the perfect balance of modern and traditional Japanese
+        decor, make it a good place for me to celebrate family birthday.
+        Definitely a great spot for authentic Japanese food. Highly recommend!
+      languageCode: en
+    originalText:
+      text: >-
+        Their food is fresh and delicious, and the staff is friendly and
+        welcoming. Loved the perfect balance of modern and traditional Japanese
+        decor, make it a good place for me to celebrate family birthday.
+        Definitely a great spot for authentic Japanese food. Highly recommend!
+      languageCode: en
+    authorAttribution:
+      displayName: Samuel Cheong
+      uri: https://www.google.com/maps/contrib/114799643454109491401/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVw1AG5vMMCKaOG4iaUCrZLJv6DooPK-_y-hrKnCfo5DF6oQRs3Og=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-26T15:58:06.755278Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUR3c2YzMUVREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUR3c2YzMUVREAE!2m1!1s0x875289e1cd12efbd:0x9782ca3f41813662
+  - name: >-
+      places/ChIJve8SzeGJUocRYjaBQT_Kgpc/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJcklpY1N3EAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Food was delicious.   Plus super fast.
+
+
+        Ambience and customer service were excellent.
+
+
+        The serving sizes were more than decent; Katsu curry chicken was huge
+        (and delicious)!
+
+
+        Highly recommend the Katsu Curry Chicken, Ramen and the Wagu hamburger.
+      languageCode: en
+    originalText:
+      text: >-
+        Food was delicious.   Plus super fast.
+
+
+        Ambience and customer service were excellent.
+
+
+        The serving sizes were more than decent; Katsu curry chicken was huge
+        (and delicious)!
+
+
+        Highly recommend the Katsu Curry Chicken, Ramen and the Wagu hamburger.
+      languageCode: en
+    authorAttribution:
+      displayName: Alex King
+      uri: https://www.google.com/maps/contrib/102220431490949832627/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUAsl_IsbT19p5QE-4-1PnVl5D09Bu4YR4LIaG1hGJZeVNBuFc=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-03-31T00:05:00.680969Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNJcklpY1N3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNJcklpY1N3EAE!2m1!1s0x875289e1cd12efbd:0x9782ca3f41813662
+review_summary: >-
+  What Customers Are Buzzing About$$$Visitors to this sushi spot often rave
+  about the fresh and flavorful dishes, like the tender wagyu options and
+  well-crafted rolls that hit the spot every time. While most folks appreciate
+  the generous portions and speedy service, a few mentions of slight flavor
+  adjustments show that not every bite is perfect, but the staff quickly steps
+  in to make things right. The atmosphere gets high marks for being clean,
+  inviting, and great for groups or families, with friendly team members adding
+  to the overall vibe. Overall, it's praised as a solid pick for authentic
+  Japanese fare, offering a mix of quality ingredients and attentive hospitality
+  that keeps diners coming back. If you're hunting for reliable sushi
+  restaurants nearby, this place delivers a consistently enjoyable experience
+  with just a touch of room for tweaks.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+curbside_pickup: true
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: true
+live_music: false
+menu_for_children: true
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
+serves_coffee: true
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

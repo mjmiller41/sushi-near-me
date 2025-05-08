@@ -5,4 +5,5 @@ permalink: /colorado/frisco/
 stateAbbr: CO
 stateName: Colorado
 cityName: Frisco
+
 ---

@@ -5,4 +5,5 @@ permalink: /california/encinitas/
 stateAbbr: CA
 stateName: California
 cityName: Encinitas
+
 ---

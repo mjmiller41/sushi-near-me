@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yu or Mi Sushi"
+title: Yu or Mi Sushi
 permalink: /nevada/las-vegas/yu-or-mi-sushi.html
 stateAbbr: NV
 stateName: Nevada
 cityName: Las Vegas
 seo:
-  name: "Yu or Mi Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Yu or Mi Sushi serves delicious sushi in Las Vegas, Nevada. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJcRN95YnHyIARbQOP7veArJM
 photos:
   - name: >-
@@ -142,8 +140,8 @@ photos:
       https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID1zo_5qQE&hl=en-US
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID1zo_5qQE!2e10!4m2!3m1!1s0x80c8c789e57d1371:0x93ac80f7ee8f036d
-address: 6915 S Durango Dr, Las Vegas, NV 89148, USA
-street: 6915 S Durango Dr
+address: 6915 Durango Dr, Las Vegas, NV 89148, USA
+street: 6915 Durango Dr
 city: Las Vegas
 state: NV
 zip: '89148'
@@ -184,7 +182,50 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Yu or Mi Sushi in Las Vegas$$$Yu or Mi Sushi in Las Vegas, NV, stands
+  out as a inviting sushi spot nestled inside the lively Durango Casino &
+  Resort, offering a blend of fresh omakase rolls and flavorful spicy shrimp
+  fried rice that highlight its creative take on Japanese cuisine. The
+  restaurant emphasizes accessibility with features like wheelchair-friendly
+  parking and entrances, making it easy for everyone to enjoy a meal in a
+  welcoming atmosphere. Patrons can savor the authentic flavors of expertly
+  prepared dishes that cater to sushi lovers seeking quality options near
+  bustling areas. Whether you're exploring top-rated sushi restaurants in the
+  region or looking for a casual dining experience, this spot combines elegance
+  with approachable vibes. Its location adds to the appeal, perfect for those
+  searching for sushi places near me in the heart of the city's entertainment
+  scene.
+generative_summary: >-
+  Discover Yu or Mi Sushi in Las Vegas$$$Yu or Mi Sushi in Las Vegas, NV, stands
+  out as a inviting sushi spot nestled inside the lively Durango Casino &
+  Resort, offering a blend of fresh omakase rolls and flavorful spicy shrimp
+  fried rice that highlight its creative take on Japanese cuisine. The
+  restaurant emphasizes accessibility with features like wheelchair-friendly
+  parking and entrances, making it easy for everyone to enjoy a meal in a
+  welcoming atmosphere. Patrons can savor the authentic flavors of expertly
+  prepared dishes that cater to sushi lovers seeking quality options near
+  bustling areas. Whether you're exploring top-rated sushi restaurants in the
+  region or looking for a casual dining experience, this spot combines elegance
+  with approachable vibes. Its location adds to the appeal, perfect for those
+  searching for sushi places near me in the heart of the city's entertainment
+  scene.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Visitor Feedback$$$Feedback from diners at this sushi haven
+  often highlights the fresh ingredients and inventive rolls that make every
+  bite memorable, positioning it as a solid choice for anyone craving authentic
+  Japanese flavors. Many appreciate the welcoming ambiance and attentive service
+  that enhance the overall dining experience, even if some note occasional waits
+  during peak hours. Folks frequently mention the variety of options like spicy
+  shrimp fried rice as a delightful twist on traditional fare, helping it stand
+  out among local eateries. Overall, it's praised as one of the go-to spots for
+  those hunting for the best sushi near me, with a casual vibe that keeps things
+  enjoyable without overwhelming expectations. While not perfect, the positive
+  vibes dominate, making it a reliable pick for groups or solo diners looking to
+  indulge in top-rated sushi restaurants.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +251,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

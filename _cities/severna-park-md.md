@@ -5,4 +5,5 @@ permalink: /maryland/severna-park/
 stateAbbr: MD
 stateName: Maryland
 cityName: Severna Park
+
 ---

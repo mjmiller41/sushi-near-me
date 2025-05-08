@@ -5,4 +5,5 @@ permalink: /florida/fernandina-beach/
 stateAbbr: FL
 stateName: Florida
 cityName: Fernandina Beach
+
 ---

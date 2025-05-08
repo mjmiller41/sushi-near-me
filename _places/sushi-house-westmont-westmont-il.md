@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi House - Westmont"
+title: Sushi House - Westmont
 permalink: /illinois/westmont/sushi-house-westmont.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Westmont
 seo:
-  name: "Sushi House - Westmont"
-  type: Restaurant
+  type: restaurant
   links: https://www.mysushihouse.com/sushi-house-westmont
-description: "Japanese chain serving sushi, noodles, bento boxes & hot entrees in a stylish, traditional setting. Sushi House - Westmont serves delicious sushi in Westmont, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ1dfI6bxODogRgmjl-DIjCIc
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 0
 website: https://www.mysushihouse.com/sushi-house-westmont
+description: >-
+  Explore Sushi House in Westmont, IL$$$Sushi House in Westmont, IL, offers a
+  welcoming spot for enjoying authentic Japanese cuisine, featuring fresh sushi,
+  noodles, and bento boxes in a stylish, traditional atmosphere that appeals to
+  sushi enthusiasts. This sushi restaurant stands out with its moderate pricing
+  and accessible features, including wheelchair-friendly options, making it easy
+  for everyone to savor high-quality dishes prepared with care. Patrons can
+  delight in a variety of creative rolls and hot entrees, perfect for those
+  seeking top-rated sushi near you in a relaxed setting. The focus on fresh
+  ingredients and thoughtful presentation ensures a memorable dining experience,
+  whether you're stopping by for lunch or dinner. For anyone exploring sushi
+  places near me, this location combines classic flavors with modern
+  convenience, enhancing its appeal in the local scene.
+generative_summary: >-
+  Explore Sushi House in Westmont, IL$$$Sushi House in Westmont, IL, offers a
+  welcoming spot for enjoying authentic Japanese cuisine, featuring fresh sushi,
+  noodles, and bento boxes in a stylish, traditional atmosphere that appeals to
+  sushi enthusiasts. This sushi restaurant stands out with its moderate pricing
+  and accessible features, including wheelchair-friendly options, making it easy
+  for everyone to savor high-quality dishes prepared with care. Patrons can
+  delight in a variety of creative rolls and hot entrees, perfect for those
+  seeking top-rated sushi near you in a relaxed setting. The focus on fresh
+  ingredients and thoughtful presentation ensures a memorable dining experience,
+  whether you're stopping by for lunch or dinner. For anyone exploring sushi
+  places near me, this location combines classic flavors with modern
+  convenience, enhancing its appeal in the local scene.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ1dfI6bxODogRgmjl-DIjCIc/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJNGE3UUVnEAE
@@ -344,6 +369,21 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUMzcFAtLVp3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUMzcFAtLVp3EAE!2m1!1s0x880e4ebce9c8d7d5:0x87082332f8e56882
+review_summary: >-
+  Customer Feedback on Sushi House$$$Visitors to this sushi spot often rave
+  about the incredibly fresh flavors and creative rolls that make every meal
+  feel special, with many highlighting standout options like spicy and savory
+  combinations. While most folks appreciate the reliable service and welcoming
+  vibe that keeps them coming back for more, a few note that not every dish hits
+  the mark, though overall experiences remain positive. It's clear that the
+  emphasis on quality ingredients and generous portions has won over sushi
+  lovers looking for dependable spots in the area, creating a buzz around its
+  status as one of the best sushi restaurants near me. If you're in the mood for
+  something tasty and straightforward, the general consensus leans toward trying
+  their specialties for a satisfying outing. All in all, this place delivers
+  solid vibes and delicious bites, making it a go-to choice for casual diners
+  seeking good Japanese fare without the fuss.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -376,8 +416,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Japanese chain serving sushi, noodles, bento boxes & hot entrees in a stylish,
   traditional setting.
 

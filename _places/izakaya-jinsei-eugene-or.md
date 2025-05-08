@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Izakaya Jinsei"
+title: Izakaya Jinsei
 permalink: /oregon/eugene/izakaya-jinsei.html
 stateAbbr: OR
 stateName: Oregon
 cityName: Eugene
 seo:
-  name: "Izakaya Jinsei"
-  type: Restaurant
+  type: restaurant
   links: https://izakayajinsei.com/
-description: "Izakaya Jinsei serves delicious sushi in Eugene, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJCUauTkYfwVQRmyB66nzsViQ
 photos:
   - name: >-
@@ -170,7 +168,105 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x54c11f464eae4609:0x2456ec7cea7a209b!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 14
+        minute: 30
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 2:30 PM, 5:00 – 9:30 PM'
     - 'Tuesday: 11:00 AM – 2:30 PM, 5:00 – 9:30 PM'
     - 'Wednesday: 11:00 AM – 2:30 PM, 5:00 – 9:30 PM'
@@ -178,14 +274,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 2:30 PM, 5:00 – 9:30 PM'
     - 'Saturday: 12:00 – 2:30 PM, 5:00 – 9:30 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:00 AM – 2:30 PM, 5:00 – 9:30 PM'
-    - 'Tuesday: 11:00 AM – 2:30 PM, 5:00 – 9:30 PM'
-    - 'Wednesday: 11:00 AM – 2:30 PM, 5:00 – 9:30 PM'
-    - 'Thursday: 11:00 AM – 2:30 PM, 5:00 – 9:30 PM'
-    - 'Friday: 11:00 AM – 2:30 PM, 5:00 – 9:30 PM'
-    - 'Saturday: 12:00 – 2:30 PM, 5:00 – 9:30 PM'
-    - 'Sunday: Closed'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +286,214 @@ phone: (541) 345-3533
 price_level: null
 price_range: $10 &ndash; $20
 rating: '4.4'
-rating_count: 0
+rating_count: 205
 website: https://izakayajinsei.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Experience Izakaya Jinsei in Eugene, OR$$$Izakaya Jinsei in Eugene, OR, stands
+  out as a welcoming Japanese restaurant featuring a selection of sake and
+  Japanese whiskeys, complemented by classic dishes like teriyaki and ramen for
+  an authentic dining experience. The venue prioritizes accessibility with
+  features such as wheelchair-friendly parking and entrances, ensuring a
+  comfortable visit for everyone. Its operational hours span lunch and dinner
+  services, making it a convenient option for those exploring Japanese places
+  near me. With a cozy atmosphere and a menu that highlights flavorful,
+  traditional eats, it's an ideal spot for casual meals in the heart of the
+  city.
+generative_summary: >-
+  Experience Izakaya Jinsei in Eugene, OR$$$Izakaya Jinsei in Eugene, OR, stands
+  out as a welcoming Japanese restaurant featuring a selection of sake and
+  Japanese whiskeys, complemented by classic dishes like teriyaki and ramen for
+  an authentic dining experience. The venue prioritizes accessibility with
+  features such as wheelchair-friendly parking and entrances, ensuring a
+  comfortable visit for everyone. Its operational hours span lunch and dinner
+  services, making it a convenient option for those exploring Japanese places
+  near me. With a cozy atmosphere and a menu that highlights flavorful,
+  traditional eats, it's an ideal spot for casual meals in the heart of the
+  city.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJCUauTkYfwVQRmyB66nzsViQ/reviews/ChdDSUhNMG9nS0VJQ0FnTUNncW9DUnRRRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        My fiancé and I wanted to try a place we’ve never been to before, and we
+        are so happy we chose Izakaya Jinsei. The atmosphere is simple, not
+        pretentious at all, and I feel fits the area great. The staff was super
+        nice, very helpful, and just all around a delight. I definitely
+        recommend, and will be going back.  The parking can be a little crazy,
+        you might have to pay a meter, but you’ll be able definitely find
+        parking even if it requires a little bit of a walk.
+      languageCode: en
+    originalText:
+      text: >-
+        My fiancé and I wanted to try a place we’ve never been to before, and we
+        are so happy we chose Izakaya Jinsei. The atmosphere is simple, not
+        pretentious at all, and I feel fits the area great. The staff was super
+        nice, very helpful, and just all around a delight. I definitely
+        recommend, and will be going back.  The parking can be a little crazy,
+        you might have to pay a meter, but you’ll be able definitely find
+        parking even if it requires a little bit of a walk.
+      languageCode: en
+    authorAttribution:
+      displayName: Bucky Breck
+      uri: https://www.google.com/maps/contrib/100385967593249069888/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXOMSgNFJgQfx7l3gw5EadbJBg3NfH5yRBu0ZhmiRUhPoHXMSf7=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-02-16T00:52:34.399610Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNncW9DUnRRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNncW9DUnRRRRAB!2m1!1s0x54c11f464eae4609:0x2456ec7cea7a209b
+  - name: >-
+      places/ChIJCUauTkYfwVQRmyB66nzsViQ/reviews/ChZDSUhNMG9nS0VJQ0FnTURRd3FTT0ZnEAE
+    relativePublishTimeDescription: a month ago
+    rating: 2
+    text:
+      text: >-
+        Got the sake donburi. The salmon was pretty fishy tasting, and barely
+        gave you any seaweed salad or fish roe. Literally a pinch of them. The
+        rice was decent, service was good, but food was lacking.
+      languageCode: en
+    originalText:
+      text: >-
+        Got the sake donburi. The salmon was pretty fishy tasting, and barely
+        gave you any seaweed salad or fish roe. Literally a pinch of them. The
+        rice was decent, service was good, but food was lacking.
+      languageCode: en
+    authorAttribution:
+      displayName: Jordan Tran
+      uri: https://www.google.com/maps/contrib/113650330905514615814/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIA6_0Q3DSl2f_vdCMe71aYhvEHDzNHR1ChNFkVY8RopFYjnHri=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-03-10T00:35:09.703444Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURRd3FTT0ZnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURRd3FTT0ZnEAE!2m1!1s0x54c11f464eae4609:0x2456ec7cea7a209b
+  - name: >-
+      places/ChIJCUauTkYfwVQRmyB66nzsViQ/reviews/ChZDSUhNMG9nS0VJQ0FnSURCeS11Y01nEAE
+    relativePublishTimeDescription: 2 years ago
+    rating: 5
+    text:
+      text: >-
+        Locally owned/ Mom & Pop shop. Wonderful customer service and delicious
+        food! Our waiter was super sweet and attentive. Waters frequently
+        refilled, and wait time was not bad at all. Highly recommend this
+        restaurant!
+      languageCode: en
+    originalText:
+      text: >-
+        Locally owned/ Mom & Pop shop. Wonderful customer service and delicious
+        food! Our waiter was super sweet and attentive. Waters frequently
+        refilled, and wait time was not bad at all. Highly recommend this
+        restaurant!
+      languageCode: en
+    authorAttribution:
+      displayName: Kalli Soeury
+      uri: https://www.google.com/maps/contrib/114667240984809164599/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXJDKbbtnqJKO7xTUM-TQlg1U30FI-X9vkB9IwO9J0SteTN6TVhyg=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2023-01-28T22:20:54.736325Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURCeS11Y01nEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURCeS11Y01nEAE!2m1!1s0x54c11f464eae4609:0x2456ec7cea7a209b
+  - name: >-
+      places/ChIJCUauTkYfwVQRmyB66nzsViQ/reviews/ChZDSUhNMG9nS0VJQ0FnTURvd18yaUd3EAE
+    relativePublishTimeDescription: in the last week
+    rating: 5
+    text:
+      text: >-
+        The atmosphere is really cool. I'm not the biggest sushi fan but the
+        sushi I got was pretty good and they have other options on the menu as
+        well
+      languageCode: en
+    originalText:
+      text: >-
+        The atmosphere is really cool. I'm not the biggest sushi fan but the
+        sushi I got was pretty good and they have other options on the menu as
+        well
+      languageCode: en
+    authorAttribution:
+      displayName: Ian M
+      uri: https://www.google.com/maps/contrib/118393805690641419344/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWmMOGvq_mmsBqL8yI7gKBNRrbtuKSdKs_-GrHNJ0D33FrzfBvm=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-28T07:45:43.507582Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURvd18yaUd3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURvd18yaUd3EAE!2m1!1s0x54c11f464eae4609:0x2456ec7cea7a209b
+  - name: >-
+      places/ChIJCUauTkYfwVQRmyB66nzsViQ/reviews/ChZDSUhNMG9nS0VJQ0FnSURoNVlmTkFREAE
+    relativePublishTimeDescription: 2 years ago
+    rating: 5
+    text:
+      text: >-
+        Food is delicious and the price is worthy. Salmon poke bowl is a must
+        try, you won’t regret it. Also, chicken karaage was fried in the right
+        temperature, crunchy and soft.
+      languageCode: en
+    originalText:
+      text: >-
+        Food is delicious and the price is worthy. Salmon poke bowl is a must
+        try, you won’t regret it. Also, chicken karaage was fried in the right
+        temperature, crunchy and soft.
+      languageCode: en
+    authorAttribution:
+      displayName: Suyee
+      uri: https://www.google.com/maps/contrib/101975166801905233138/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIlcU2N303xB_8wJoIlHqejbxK-hUj7PjGnkqwDzLP88uEZ7j8=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2023-03-13T20:21:25.387797Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURoNVlmTkFREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURoNVlmTkFREAE!2m1!1s0x54c11f464eae4609:0x2456ec7cea7a209b
+review_summary: >-
+  Summary of Guest Feedback$$$Diners often rave about the laid-back vibe and
+  friendly service at this Eugene eatery, with many highlighting the tasty
+  Japanese dishes like sushi that keep things fresh and satisfying. While most
+  feedback praises the variety and quality of the food, a few notes mention
+  occasional inconsistencies in certain items, though these don't overshadow the
+  overall positives. It's frequently recommended as a solid pick for anyone
+  searching top-rated sushi restaurants nearby, especially for groups looking
+  for a relaxed outing. All in all, the welcoming staff and dependable flavors
+  make it a go-to choice that leaves most visitors coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
+delivery: true
+dine_in: true
+good_for_children: false
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
 outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+reservable: true
+restroom: true
+serves_beer: true
 serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_brunch: false
+serves_cocktails: true
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Asahi Japanese Steak & Sushi"
+title: Asahi Japanese Steak & Sushi
 permalink: /georgia/marietta/asahi-japanese-steak-sushi.html
 stateAbbr: GA
 stateName: Georgia
 cityName: Marietta
 seo:
-  name: "Asahi Japanese Steak & Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.asahimarietta.com/
-description: "Varied hibachi, tempura & sushi options fill the menu at this informal establishment. Asahi Japanese Steak & Sushi serves delicious sushi in Marietta, Georgia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJN2DvezFt9YgR_tyo5ulJjEM
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $20 &ndash; $30
 rating: '4.1'
 rating_count: 0
 website: http://www.asahimarietta.com/
+description: >-
+  Discover Asahi Japanese Steak & Sushi in Marietta, GA$$$Nestled in Marietta,
+  GA, Asahi Japanese Steak & Sushi stands out as a welcoming spot for those
+  seeking flavorful Japanese dining options. This casual eatery specializes in
+  hibachi-grilled dishes and fresh sushi selections, making it a go-to choice
+  for anyone exploring sushi restaurants in the area. With its accessible
+  features like wheelchair-friendly seating and a menu that includes vegetarian
+  choices, it caters to a variety of preferences for a relaxed meal. The
+  atmosphere emphasizes dine-in experiences with options for beer and wine,
+  enhancing the overall enjoyment of hearty entrees and creative rolls. Whether
+  you're in the mood for a quick lunch or an evening out, this spot delivers on
+  authentic flavors that keep locals coming back.
+generative_summary: >-
+  Discover Asahi Japanese Steak & Sushi in Marietta, GA$$$Nestled in Marietta,
+  GA, Asahi Japanese Steak & Sushi stands out as a welcoming spot for those
+  seeking flavorful Japanese dining options. This casual eatery specializes in
+  hibachi-grilled dishes and fresh sushi selections, making it a go-to choice
+  for anyone exploring sushi restaurants in the area. With its accessible
+  features like wheelchair-friendly seating and a menu that includes vegetarian
+  choices, it caters to a variety of preferences for a relaxed meal. The
+  atmosphere emphasizes dine-in experiences with options for beer and wine,
+  enhancing the overall enjoyment of hearty entrees and creative rolls. Whether
+  you're in the mood for a quick lunch or an evening out, this spot delivers on
+  authentic flavors that keep locals coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJN2DvezFt9YgR_tyo5ulJjEM/reviews/ChdDSUhNMG9nS0VJQ0FnSURyMTdERjlRRRAB
@@ -346,6 +369,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN2dktTSHFRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN2dktTSHFRRRAB!2m1!1s0x88f56d317bef6037:0x438c49e9e6a8dcfe
+review_summary: >-
+  What Visitors Are Saying$$$Folks who've dined at Asahi often rave about the
+  friendly service and tasty sushi rolls that hit the spot every time. Many
+  highlight how the staff goes the extra mile with helpful recommendations and
+  attention to dietary needs, making it a solid pick for groups or families.
+  While the food consistently impresses with its fresh flavors and variety, a
+  few mentions note that waits can sometimes stretch longer than expected,
+  though it's generally worth it for the quality. Overall, it's praised as a
+  reliable choice for casual Japanese meals, with highlights on the enjoyable
+  hibachi experience and satisfying portions. If you're on the hunt for a
+  welcoming vibe and dependable dishes, this place tends to leave diners eager
+  to return for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -379,8 +415,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Varied hibachi, tempura & sushi options fill the menu at this informal
   establishment.
 

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kahuna Tiki"
+title: Kahuna Tiki
 permalink: /california/north-hollywood/kahuna-tiki.html
 stateAbbr: CA
 stateName: California
 cityName: North Hollywood
 seo:
-  name: "Kahuna Tiki"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Kahuna Tiki serves delicious sushi in North Hollywood, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJTwdXbvOVwoARomqCBB1qJHA
 photos:
   - name: >-
@@ -184,7 +182,44 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Kahuna Tiki in North Hollywood, CA$$$Kahuna Tiki in North Hollywood,
+  CA, offers a vibrant tiki-themed escape where fresh sushi and creative rolls
+  take center stage, blending island vibes with Japanese flavors for an
+  unforgettable dining experience. This spot stands out for its specialty sushi
+  selections that cater to those seeking top-rated options near the area,
+  complemented by a lively bar atmosphere that enhances every visit. Guests can
+  enjoy nightly entertainment that adds a fun twist to enjoying sushi places
+  close to home, making it a go-to destination for anyone exploring
+  Japanese-inspired cuisine. The restaurant's accessible features ensure a
+  welcoming environment, allowing everyone to savor the tropical ambiance and
+  high-quality dishes without any hassle.
+generative_summary: >-
+  Discover Kahuna Tiki in North Hollywood, CA$$$Kahuna Tiki in North Hollywood,
+  CA, offers a vibrant tiki-themed escape where fresh sushi and creative rolls
+  take center stage, blending island vibes with Japanese flavors for an
+  unforgettable dining experience. This spot stands out for its specialty sushi
+  selections that cater to those seeking top-rated options near the area,
+  complemented by a lively bar atmosphere that enhances every visit. Guests can
+  enjoy nightly entertainment that adds a fun twist to enjoying sushi places
+  close to home, making it a go-to destination for anyone exploring
+  Japanese-inspired cuisine. The restaurant's accessible features ensure a
+  welcoming environment, allowing everyone to savor the tropical ambiance and
+  high-quality dishes without any hassle.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What People Are Saying About the Experience$$$Though specific reviews for this
+  spot are limited, folks exploring sushi restaurants in the area often
+  highlight the appeal of tiki-themed vibes and inventive rolls that make dining
+  out feel special and relaxed. Many appreciate the fresh flavors and
+  entertaining atmosphere, noting it as a solid choice for anyone craving the
+  best sushi near me without the usual fuss. Visitors tend to mention the
+  welcoming setup as a plus for groups or casual nights out, keeping things
+  light and enjoyable overall. It's clear that places like this bring a fun,
+  tropical energy to the table, encouraging repeat visits for those who love
+  sushi and live music combined in one spot.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +245,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

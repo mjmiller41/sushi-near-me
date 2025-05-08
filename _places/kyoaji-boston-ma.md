@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kyoaji"
+title: Kyoaji
 permalink: /massachusetts/boston/kyoaji.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Boston
 seo:
-  name: "Kyoaji"
-  type: Restaurant
+  type: restaurant
   links: http://www.kyoajiallston.com/
-description: "Kyoaji serves delicious sushi in Boston, Massachusetts. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ20Jovjh544kRRNcEV-hlOsQ
 photos:
   - name: >-
@@ -183,6 +181,31 @@ price_range: $10 &ndash; $20
 rating: '4.1'
 rating_count: 0
 website: http://www.kyoajiallston.com/
+description: >-
+  Explore Kyoaji in Boston, MA$$$Kyoaji in Boston, MA, stands out as a welcoming
+  Japanese restaurant offering fresh sushi and flavorful dishes in a vibrant
+  neighborhood setting. This spot delights with its accessible features,
+  including wheelchair-friendly seating and restrooms, making it easy for
+  everyone to enjoy a meal. Patrons can savor a variety of sushi options, from
+  classic rolls to bowls, all prepared with attention to detail and served at
+  moderate prices that appeal to those seeking quality Japanese cuisine nearby.
+  The restaurant supports convenient options like takeout and delivery, perfect
+  for busy days when you're craving top-rated sushi in the area. With its clean
+  atmosphere and extended hours, Kyoaji provides a reliable choice for authentic
+  Japanese dining experiences close to home.
+generative_summary: >-
+  Explore Kyoaji in Boston, MA$$$Kyoaji in Boston, MA, stands out as a welcoming
+  Japanese restaurant offering fresh sushi and flavorful dishes in a vibrant
+  neighborhood setting. This spot delights with its accessible features,
+  including wheelchair-friendly seating and restrooms, making it easy for
+  everyone to enjoy a meal. Patrons can savor a variety of sushi options, from
+  classic rolls to bowls, all prepared with attention to detail and served at
+  moderate prices that appeal to those seeking quality Japanese cuisine nearby.
+  The restaurant supports convenient options like takeout and delivery, perfect
+  for busy days when you're craving top-rated sushi in the area. With its clean
+  atmosphere and extended hours, Kyoaji provides a reliable choice for authentic
+  Japanese dining experiences close to home.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ20Jovjh544kRRNcEV-hlOsQ/reviews/ChZDSUhNMG9nS0VJQ0FnSUNYbTk3eU9REAE
@@ -394,6 +417,21 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUN3aGNEY0pnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUN3aGNEY0pnEAE!2m1!1s0x89e37938be6842db:0xc43a65e85704d744
+review_summary: >-
+  Feedback from Sushi Enthusiasts$$$Folks who visit this sushi spot often rave
+  about the tasty rolls and bowls, highlighting their fresh flavors and great
+  value for the price, which makes it a go-to for satisfying meals. While some
+  mention occasional inconsistencies with portions or service that could use a
+  bit more polish, many appreciate the friendly staff and beautiful presentation
+  that elevate the overall vibe. Overall, the consensus leans positive, with
+  plenty of praise for the variety of options that cater to different tastes,
+  encouraging repeat visits for those hunting for reliable Japanese places
+  nearby. It's clear that the food's appeal keeps drawing people back, even if a
+  few experiences fall short of expectations, offering a solid option for anyone
+  exploring local sushi restaurants. Keep in mind that while most feedback is
+  upbeat, it's always a good idea to check for the latest updates before heading
+  out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options:
   acceptsCreditCards: true
@@ -423,7 +461,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

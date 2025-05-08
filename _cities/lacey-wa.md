@@ -5,4 +5,5 @@ permalink: /washington/lacey/
 stateAbbr: WA
 stateName: Washington
 cityName: Lacey
+
 ---

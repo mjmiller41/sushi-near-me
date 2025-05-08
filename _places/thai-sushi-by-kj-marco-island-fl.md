@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Thai Sushi By KJ"
+title: Thai Sushi By KJ
 permalink: /florida/marco-island/thai-sushi-by-kj.html
 stateAbbr: FL
 stateName: Florida
 cityName: Marco Island
 seo:
-  name: "Thai Sushi By KJ"
-  type: Restaurant
+  type: restaurant
   links: http://kjthaisushi.com/
-description: "Relaxed locale for a mix of Thai & Japanese fare with classic & modern options plus beer & wine. Thai Sushi By KJ serves delicious sushi in Marco Island, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJu7FWHVXu2ogRY5vrhxgdj5A
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 0
 website: http://kjthaisushi.com/
+description: >-
+  Discover Thai Sushi By KJ in Marco Island, FL$$$Thai Sushi By KJ in Marco
+  Island, FL, is a welcoming spot where traditional Thai and Japanese flavors
+  come together in a relaxed setting, ideal for casual dining or special
+  occasions. The menu highlights fresh ingredients in dishes like flavorful
+  curries and expertly crafted rolls, offering a balance of classic and modern
+  options that appeal to a variety of tastes. With features like outdoor seating
+  and accessibility options, it's designed for comfortable visits whether you're
+  stopping by for a quick meal or lingering with friends. Beer and wine
+  selections complement the cuisine, enhancing the overall experience in this
+  cozy locale. This spot stands out as a go-to choice for those seeking
+  authentic Asian-inspired fare in a vibrant coastal area.
+generative_summary: >-
+  Discover Thai Sushi By KJ in Marco Island, FL$$$Thai Sushi By KJ in Marco
+  Island, FL, is a welcoming spot where traditional Thai and Japanese flavors
+  come together in a relaxed setting, ideal for casual dining or special
+  occasions. The menu highlights fresh ingredients in dishes like flavorful
+  curries and expertly crafted rolls, offering a balance of classic and modern
+  options that appeal to a variety of tastes. With features like outdoor seating
+  and accessibility options, it's designed for comfortable visits whether you're
+  stopping by for a quick meal or lingering with friends. Beer and wine
+  selections complement the cuisine, enhancing the overall experience in this
+  cozy locale. This spot stands out as a go-to choice for those seeking
+  authentic Asian-inspired fare in a vibrant coastal area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJu7FWHVXu2ogRY5vrhxgdj5A/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3ajlxMVRBEAE
@@ -336,6 +359,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNKbm9iQzBnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNKbm9iQzBnRRAB!2m1!1s0x88daee551d56b1bb:0x908f1d1887eb9b63
+review_summary: >-
+  Insights from Recent Reviews$$$Visitors often rave about the outstanding
+  freshness of the sushi and generous portions that make every bite feel
+  satisfying and worthwhile, turning meals into memorable highlights. Many
+  appreciate the attentive service and welcoming vibe that add to the enjoyable
+  atmosphere, even during busy times when a short wait might be expected. While
+  most feedback focuses on the delicious Japanese options like rolls and
+  tempura, some note that Thai dishes vary in appeal but still offer solid
+  flavors overall. Folks frequently mention it's a great value for families or
+  groups, with highlights on the tasty drinks and overall positive experience
+  that keeps people coming back. If you're hunting for reliable sushi spots
+  nearby, this place delivers a consistently pleasant outing with minimal
+  drawbacks.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -368,8 +405,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Relaxed locale for a mix of Thai & Japanese fare with classic & modern options
   plus beer & wine.
 

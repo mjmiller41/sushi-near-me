@@ -5,4 +5,5 @@ permalink: /pennsylvania/royersford/
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Royersford
+
 ---

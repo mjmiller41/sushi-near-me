@@ -5,4 +5,5 @@ permalink: /california/magalia/
 stateAbbr: CA
 stateName: California
 cityName: Magalia
+
 ---

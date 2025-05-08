@@ -5,4 +5,5 @@ permalink: /california/berkeley/
 stateAbbr: CA
 stateName: California
 cityName: Berkeley
+
 ---

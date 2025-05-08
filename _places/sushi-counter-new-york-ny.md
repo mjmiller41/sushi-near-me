@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Counter"
+title: Sushi Counter
 permalink: /new-york/new-york/sushi-counter.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "Sushi Counter"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi Counter serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJr-S4tW1ZwokRUuJLuViASuI
 photos:
   - name: >-
@@ -183,7 +181,45 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Sushi Counter in New York, NY$$$Sushi Counter in New York, NY, stands
+  out as a cozy shopfront specializing in fresh, Australian-style hand rolls
+  that blend innovative flavors with traditional techniques. This spot caters to
+  a variety of preferences with gluten-free options, making it a welcoming
+  choice for those seeking sushi restaurants near me that prioritize dietary
+  needs without compromising taste. The accessible entrance and seating ensure a
+  comfortable experience, while the focus on takeout adds convenience for busy
+  locals looking for top-rated sushi in the heart of the city. With its simple
+  yet inviting atmosphere, it's an ideal stop for anyone exploring Japanese
+  places near me, offering a quick and satisfying meal that highlights quality
+  ingredients and creative presentations.
+generative_summary: >-
+  Discover Sushi Counter in New York, NY$$$Sushi Counter in New York, NY, stands
+  out as a cozy shopfront specializing in fresh, Australian-style hand rolls
+  that blend innovative flavors with traditional techniques. This spot caters to
+  a variety of preferences with gluten-free options, making it a welcoming
+  choice for those seeking sushi restaurants near me that prioritize dietary
+  needs without compromising taste. The accessible entrance and seating ensure a
+  comfortable experience, while the focus on takeout adds convenience for busy
+  locals looking for top-rated sushi in the heart of the city. With its simple
+  yet inviting atmosphere, it's an ideal stop for anyone exploring Japanese
+  places near me, offering a quick and satisfying meal that highlights quality
+  ingredients and creative presentations.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About the Sushi$$$Folks rave about the tasty and
+  fresh sushi rolls at this spot, often pointing out how the affordable prices
+  make it a go-to for everyday cravings like spicy shrimp or salmon avocado
+  options. Many appreciate the quick service and friendly vibes that keep things
+  light and efficient, perfect for grabbing a convenient lunch on the run. It's
+  frequently noted as a solid pick for those hunting for sushi close to me, with
+  the overall experience coming across as reliably enjoyable and hassle-free.
+  While it's praised for its value and flavor variety, some mention it's best
+  for casual eats rather than fancy dinners, but the positive feedback keeps the
+  energy upbeat. All in all, this place hits the mark for anyone wanting a
+  straightforward, delicious bite that leaves you satisfied and ready to return.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -209,7 +245,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "K-Town Korean BBQ Restaurant"
+title: K-Town Korean BBQ Restaurant
 permalink: /washington/vancouver/k-town-korean-bbq-restaurant.html
 stateAbbr: WA
 stateName: Washington
 cityName: Vancouver
 seo:
-  name: "K-Town Korean BBQ Restaurant"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "K-Town Korean BBQ Restaurant serves delicious sushi in Vancouver, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJLylRffevlVQRmr4daFuXVM0
 photos:
   - name: >-
@@ -185,7 +183,47 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Explore K-Town Korean BBQ in Vancouver, WA$$$Nestled in Vancouver, WA, K-Town
+  Korean BBQ Restaurant stands out as a laid-back spot for enjoying authentic
+  Korean flavors in a welcoming atmosphere. This casual eatery features an
+  all-you-can-eat menu packed with classic dishes like marinated meats and
+  flavorful rice bowls, perfect for those seeking a satisfying meal with friends
+  or family. The restaurant emphasizes accessibility with features such as
+  wheelchair-friendly parking and seating, making it easier for everyone to
+  enjoy their dining experience. Beyond the tasty offerings, the vibrant setup
+  encourages a communal vibe, ideal for exploring bold tastes in a relaxed
+  setting. Whether you're in the mood for grilled specialties or hearty sides,
+  this spot delivers a memorable introduction to Korean cuisine right in your
+  local area.
+generative_summary: >-
+  Explore K-Town Korean BBQ in Vancouver, WA$$$Nestled in Vancouver, WA, K-Town
+  Korean BBQ Restaurant stands out as a laid-back spot for enjoying authentic
+  Korean flavors in a welcoming atmosphere. This casual eatery features an
+  all-you-can-eat menu packed with classic dishes like marinated meats and
+  flavorful rice bowls, perfect for those seeking a satisfying meal with friends
+  or family. The restaurant emphasizes accessibility with features such as
+  wheelchair-friendly parking and seating, making it easier for everyone to
+  enjoy their dining experience. Beyond the tasty offerings, the vibrant setup
+  encourages a communal vibe, ideal for exploring bold tastes in a relaxed
+  setting. Whether you're in the mood for grilled specialties or hearty sides,
+  this spot delivers a memorable introduction to Korean cuisine right in your
+  local area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Diners$$$Although specific reviews for this spot aren't widely
+  available yet, feedback from similar Korean BBQ venues often highlights the
+  appeal of fresh, flavorful dishes and generous portions that keep customers
+  coming back. Folks generally enjoy the interactive grilling experience and
+  variety of options, making it a fun choice for groups looking to try something
+  new. Many appreciate the value for money in all-you-can-eat setups, noting
+  that the quality ingredients shine through in every bite. Overall, it's seen
+  as a solid pick for anyone craving authentic vibes without the fuss, though
+  it's always a good idea to check for the latest experiences. If you're
+  exploring local eats, this place could be a hidden gem worth discovering for
+  its approachable and tasty offerings.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +249,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

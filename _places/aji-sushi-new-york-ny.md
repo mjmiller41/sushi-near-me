@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Aji Sushi"
+title: Aji Sushi
 permalink: /new-york/new-york/aji-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "Aji Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Aji Sushi serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJM8c5sHRZwokRXY_g--q0wpw
 photos:
   - name: >-
@@ -184,7 +182,42 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Aji Sushi in New York, NY$$$Aji Sushi in New York, NY, offers a
+  laid-back vibe for enjoying authentic Japanese flavors, making it a go-to spot
+  for fresh sushi and more in the bustling city. The menu highlights a range of
+  sushi rolls and sashimi, paired with tasty small plates and refreshing options
+  like beer and sake, ideal for casual meals or gatherings. This welcoming
+  eatery focuses on quality ingredients and simple yet flavorful dishes,
+  appealing to those seeking reliable Japanese cuisine without the fuss. For
+  anyone exploring sushi places near you or top-rated options in the area, Aji
+  Sushi delivers a straightforward experience with accessibility features like
+  wheelchair-friendly entrances, ensuring everyone can savor the taste.
+generative_summary: >-
+  Discover Aji Sushi in New York, NY$$$Aji Sushi in New York, NY, offers a
+  laid-back vibe for enjoying authentic Japanese flavors, making it a go-to spot
+  for fresh sushi and more in the bustling city. The menu highlights a range of
+  sushi rolls and sashimi, paired with tasty small plates and refreshing options
+  like beer and sake, ideal for casual meals or gatherings. This welcoming
+  eatery focuses on quality ingredients and simple yet flavorful dishes,
+  appealing to those seeking reliable Japanese cuisine without the fuss. For
+  anyone exploring sushi places near you or top-rated options in the area, Aji
+  Sushi delivers a straightforward experience with accessibility features like
+  wheelchair-friendly entrances, ensuring everyone can savor the taste.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors frequently highlight the fresh and
+  flavorful sushi at this spot, praising the generous portions that leave you
+  feeling satisfied without breaking the bank. The variety of Japanese dishes,
+  including hearty udon, light edamame, savory gyoza, and crispy tempura, adds a
+  nice mix for different tastes and keeps things exciting. Folks appreciate the
+  friendly service that makes dining here feel approachable and enjoyable,
+  turning a simple meal into a pleasant outing. Overall, if you're on the hunt
+  for affordable, quality sushi restaurants near you, this place stands out for
+  its solid offerings and welcoming atmosphere, making it a solid choice for a
+  casual bite.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +243,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

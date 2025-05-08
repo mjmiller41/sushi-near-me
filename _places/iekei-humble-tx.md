@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Iekei"
+title: Iekei
 permalink: /texas/humble/iekei.html
 stateAbbr: TX
 stateName: Texas
 cityName: Humble
 seo:
-  name: "Iekei"
-  type: Restaurant
+  type: restaurant
   links: https://www.humbleiekei.com/
-description: "Iekei serves delicious sushi in Humble, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJvZ9Z6zuxQIYRnuQ7h5htJZY
 photos:
   - name: >-
@@ -169,7 +167,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8640b13beb599fbd:0x96256d98873be49e!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:30 PM'
     - 'Tuesday: 11:00 AM – 9:30 PM'
     - 'Wednesday: 11:00 AM – 9:30 PM'
@@ -177,14 +233,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:00 PM'
     - 'Saturday: 11:00 AM – 10:00 PM'
     - 'Sunday: 11:00 AM – 9:30 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:30 PM'
-    - 'Tuesday: 11:00 AM – 9:30 PM'
-    - 'Wednesday: 11:00 AM – 9:30 PM'
-    - 'Thursday: 11:00 AM – 9:30 PM'
-    - 'Friday: 11:00 AM – 10:00 PM'
-    - 'Saturday: 11:00 AM – 10:00 PM'
-    - 'Sunday: 11:00 AM – 9:30 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,35 +245,298 @@ phone: (281) 299-7650
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.4'
-rating_count: 0
+rating_count: 899
 website: https://www.humbleiekei.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Iekei in Humble, TX$$$Iekei in Humble, TX, stands out as a welcoming
+  Japanese restaurant blending casual vibes with authentic flavors, making it a
+  go-to spot for fresh sushi and hearty ramen options. This establishment offers
+  a variety of small plates and beverages, including sake, in a setting that's
+  accessible and convenient for everyday dining. With ample parking and
+  wheelchair-friendly features, it's designed to accommodate a range of visitors
+  seeking quality Japanese cuisine without the formality. The menu highlights
+  creative takes on traditional dishes, ensuring a satisfying experience for
+  those exploring local sushi spots. Open daily with extended hours on weekends,
+  it's an ideal choice for anyone craving flavorful meals in a relaxed
+  environment.
+generative_summary: >-
+  Discover Iekei in Humble, TX$$$Iekei in Humble, TX, stands out as a welcoming
+  Japanese restaurant blending casual vibes with authentic flavors, making it a
+  go-to spot for fresh sushi and hearty ramen options. This establishment offers
+  a variety of small plates and beverages, including sake, in a setting that's
+  accessible and convenient for everyday dining. With ample parking and
+  wheelchair-friendly features, it's designed to accommodate a range of visitors
+  seeking quality Japanese cuisine without the formality. The menu highlights
+  creative takes on traditional dishes, ensuring a satisfying experience for
+  those exploring local sushi spots. Open daily with extended hours on weekends,
+  it's an ideal choice for anyone craving flavorful meals in a relaxed
+  environment.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJvZ9Z6zuxQIYRnuQ7h5htJZY/reviews/ChdDSUhNMG9nS0VJQ0FnSUNmZzZxVThRRRAB
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        I came to Iekei Ramen & Sushi on a weekday evening. I was hungry while
+        shopping at Walmart in Humble. The location is perfect. There are plenty
+        of parking. The food was pretty good. I ordered Avocado Salad and Garlic
+        Black Bean Ramen. I can tell the noodles are made fresh. The soup was
+        delicious. I would definitely come back.
+      languageCode: en
+    originalText:
+      text: >-
+        I came to Iekei Ramen & Sushi on a weekday evening. I was hungry while
+        shopping at Walmart in Humble. The location is perfect. There are plenty
+        of parking. The food was pretty good. I ordered Avocado Salad and Garlic
+        Black Bean Ramen. I can tell the noodles are made fresh. The soup was
+        delicious. I would definitely come back.
+      languageCode: en
+    authorAttribution:
+      displayName: Yelper Lou MC
+      uri: https://www.google.com/maps/contrib/111840420575909736094/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUgxZpX6_hStyXiqlPDA-x_LH_Wu4Ysf7tSo9ssu5ACKlDZMFURew=s128-c0x00000000-cc-rp-mo-ba8
+    publishTime: '2025-01-01T01:38:39.164812Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNmZzZxVThRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNmZzZxVThRRRAB!2m1!1s0x8640b13beb599fbd:0x96256d98873be49e
+  - name: >-
+      places/ChIJvZ9Z6zuxQIYRnuQ7h5htJZY/reviews/ChZDSUhNMG9nS0VJQ0FnSUN2OHRIbkVnEAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        Finally tried this place. Would definitely return. Family had spicy
+        tonkotsu and regular tonkotsu ramen, beef upon, California roll and
+        spider crab roll.
+
+        Second visit was just as good as the first.
+      languageCode: en
+    originalText:
+      text: >-
+        Finally tried this place. Would definitely return. Family had spicy
+        tonkotsu and regular tonkotsu ramen, beef upon, California roll and
+        spider crab roll.
+
+        Second visit was just as good as the first.
+      languageCode: en
+    authorAttribution:
+      displayName: christopher aranda
+      uri: https://www.google.com/maps/contrib/103769641432541713559/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIxxFOFjchmAZj-ORKV8ICBmbrhi1Ho_3DlSG3fYKQt95LWbQ=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-02-23T19:49:47.083653Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN2OHRIbkVnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN2OHRIbkVnEAE!2m1!1s0x8640b13beb599fbd:0x96256d98873be49e
+  - name: >-
+      places/ChIJvZ9Z6zuxQIYRnuQ7h5htJZY/reviews/ChZDSUhNMG9nS0VJQ0FnSUNmMGR5eVFREAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 3
+    text:
+      text: >-
+        I tried standard ramen, yellowtail sushi, and a cucumber roll with green
+        tea.
+
+
+        The fish was good, but only standard for a sushi restaurant.
+
+
+        Cucumber roll was not brought to me, I was served a spicy cucumber. To
+        me, it isn't what I wanted, and flavors were not balanced.
+
+
+        Ramen was literally ramen house cheap packet ramen with garnishes. Stock
+        was from a packet, noodle was from a packet, chashu pork sliced thin and
+        fridge cold. Some garnishes were not typical, like cabbage and
+        redonions; unexpected.
+
+
+        I showed up at 6 in the evening, and the guy looked at his watch like:
+        we were about to close.  The kitchen staff started throwing ruggs and
+        washing out the kitchen with a hose.
+
+
+        Lastly, and this is small for me, but I've never been treated this way
+        in a Japanese ramen or sushi house. The staff was just off-putting and
+        where not speaking Japanese or English.
+
+
+        I wasn't served my tea. Wrong dish served to me. I was at the sushi bar,
+        and sushi chef could not hear me to place an order for more food through
+        his earbuds. The waiter was missing in action.
+
+
+        I recommend  the owner revamp cause this could be a gold mine.
+      languageCode: en
+    originalText:
+      text: >-
+        I tried standard ramen, yellowtail sushi, and a cucumber roll with green
+        tea.
+
+
+        The fish was good, but only standard for a sushi restaurant.
+
+
+        Cucumber roll was not brought to me, I was served a spicy cucumber. To
+        me, it isn't what I wanted, and flavors were not balanced.
+
+
+        Ramen was literally ramen house cheap packet ramen with garnishes. Stock
+        was from a packet, noodle was from a packet, chashu pork sliced thin and
+        fridge cold. Some garnishes were not typical, like cabbage and
+        redonions; unexpected.
+
+
+        I showed up at 6 in the evening, and the guy looked at his watch like:
+        we were about to close.  The kitchen staff started throwing ruggs and
+        washing out the kitchen with a hose.
+
+
+        Lastly, and this is small for me, but I've never been treated this way
+        in a Japanese ramen or sushi house. The staff was just off-putting and
+        where not speaking Japanese or English.
+
+
+        I wasn't served my tea. Wrong dish served to me. I was at the sushi bar,
+        and sushi chef could not hear me to place an order for more food through
+        his earbuds. The waiter was missing in action.
+
+
+        I recommend  the owner revamp cause this could be a gold mine.
+      languageCode: en
+    authorAttribution:
+      displayName: Calvin Black
+      uri: https://www.google.com/maps/contrib/100609386779506406267/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUNPL1vhEL2mDaie7Pxb_8XkO-qdHMCLSllWDe2PEaWYO-tQdtc=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-12-30T01:06:33.806188Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNmMGR5eVFREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNmMGR5eVFREAE!2m1!1s0x8640b13beb599fbd:0x96256d98873be49e
+  - name: >-
+      places/ChIJvZ9Z6zuxQIYRnuQ7h5htJZY/reviews/ChZDSUhNMG9nS0VJQ0FnSUN2cU1uZUJ3EAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 4
+    text:
+      text: >-
+        Good service and good food. I could use more spicy but you can add more
+        if you like. Pretty good selections on the menu.
+      languageCode: en
+    originalText:
+      text: >-
+        Good service and good food. I could use more spicy but you can add more
+        if you like. Pretty good selections on the menu.
+      languageCode: en
+    authorAttribution:
+      displayName: Penny Kai
+      uri: https://www.google.com/maps/contrib/115513063434431422194/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJPc7EpcGBEYRgvYDomwft9wqsVjEpzJhCwWyKVYEIddCboNQ=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-12-07T16:02:30.586669Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN2cU1uZUJ3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN2cU1uZUJ3EAE!2m1!1s0x8640b13beb599fbd:0x96256d98873be49e
+  - name: >-
+      places/ChIJvZ9Z6zuxQIYRnuQ7h5htJZY/reviews/ChdDSUhNMG9nS0VJQ0FnTURBdVB2aGtnRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 4
+    text:
+      text: >-
+        The beef udon was very flavorful; it could've been a bit more spicy. I
+        asked for meduim spice.
+
+        The Hama Chili was fresh & tasty - tangy, sweet & hint of spice- perfect
+        balance.
+
+
+        The mango cream brulee was not a true brulee; it also was runny & gave
+        me pureed baby food vibes.
+
+        The server was gracious and took the dessert off of my bill.
+
+
+        Thank you. Overall, good food. I'd possibly visit again.
+      languageCode: en
+    originalText:
+      text: >-
+        The beef udon was very flavorful; it could've been a bit more spicy. I
+        asked for meduim spice.
+
+        The Hama Chili was fresh & tasty - tangy, sweet & hint of spice- perfect
+        balance.
+
+
+        The mango cream brulee was not a true brulee; it also was runny & gave
+        me pureed baby food vibes.
+
+        The server was gracious and took the dessert off of my bill.
+
+
+        Thank you. Overall, good food. I'd possibly visit again.
+      languageCode: en
+    authorAttribution:
+      displayName: Keisha Green
+      uri: https://www.google.com/maps/contrib/102873522328063561221/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVEeQjz4fIgxWVWXgw-naWYkmsf7CZ8Trz3as6P6Ua8XBpez9Wfdw=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-02-06T22:03:49.290088Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURBdVB2aGtnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURBdVB2aGtnRRAB!2m1!1s0x8640b13beb599fbd:0x96256d98873be49e
+review_summary: >-
+  What People Are Saying About the Food$$$Visitors to this Japanese eatery often
+  rave about the fresh, flavorful ramen and sushi that hit the spot for a
+  satisfying meal, with many highlighting the well-balanced tastes and generous
+  portions. While some note that spice levels can vary and might not always meet
+  expectations, the overall consensus leans toward enjoying customizable options
+  that keep things exciting. Feedback frequently praises the quality of
+  ingredients, like tender noodles and vibrant rolls, making it a solid pick for
+  groups or families looking for reliable dining. Despite occasional service
+  hiccups, the welcoming atmosphere and tasty selections encourage repeat
+  visits, leaving diners generally pleased with their experience. If you're in
+  the mood for top-notch Japanese fare nearby, it's worth checking out for a
+  casual yet memorable bite.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+curbside_pickup: false
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: true
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
 serves_breakfast: null
 serves_brunch: null
 serves_cocktails: null
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

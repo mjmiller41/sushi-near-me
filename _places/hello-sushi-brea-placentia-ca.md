@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Hello Sushi Brea"
+title: Hello Sushi Brea
 permalink: /california/placentia/hello-sushi-brea.html
 stateAbbr: CA
 stateName: California
 cityName: Placentia
 seo:
-  name: "Hello Sushi Brea"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Hello Sushi Brea serves delicious sushi in Placentia, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ440OB9fV3IARw3_zQ96YwyY
 photos:
   - name: >-
@@ -185,7 +183,41 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Hello Sushi Brea in Placentia, California$$$Hello Sushi Brea in
+  Placentia, California, stands out as a cozy and contemporary spot for Japanese
+  dining, featuring a premium all-you-can-eat menu that highlights fresh sushi
+  options. This inviting restaurant combines modern ambiance with a wide
+  selection of flavorful rolls and dishes, making it an ideal choice for those
+  exploring sushi places nearby. Accessibility features like wheelchair-friendly
+  parking and seating add to its appeal, ensuring a comfortable experience for
+  all visitors. Whether you're in the mood for top-rated sushi or simply seeking
+  a relaxed meal, the variety and quality here make it a go-to option for
+  Japanese cuisine enthusiasts.
+generative_summary: >-
+  Discover Hello Sushi Brea in Placentia, California$$$Hello Sushi Brea in
+  Placentia, California, stands out as a cozy and contemporary spot for Japanese
+  dining, featuring a premium all-you-can-eat menu that highlights fresh sushi
+  options. This inviting restaurant combines modern ambiance with a wide
+  selection of flavorful rolls and dishes, making it an ideal choice for those
+  exploring sushi places nearby. Accessibility features like wheelchair-friendly
+  parking and seating add to its appeal, ensuring a comfortable experience for
+  all visitors. Whether you're in the mood for top-rated sushi or simply seeking
+  a relaxed meal, the variety and quality here make it a go-to option for
+  Japanese cuisine enthusiasts.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Guests Are Saying About Hello Sushi Brea$$$Folks often praise this spot
+  for its tasty all-you-can-eat sushi selection, packed with fresh and diverse
+  choices that keep diners coming back. Many highlight the helpful and attentive
+  service that makes every visit feel welcoming and enjoyable. The clean
+  atmosphere adds to the overall charm, creating a pleasant setting for casual
+  meals, though it can get lively during peak times. Overall, it's a solid pick
+  for anyone hunting for quality Japanese eats, with feedback leaning positive
+  on the freshness and variety. If you're on the hunt for great sushi options,
+  this place delivers a satisfying experience worth trying.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +243,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Bluefish Bistro"
+title: Bluefish Bistro
 permalink: /virginia/arlington/bluefish-bistro.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Arlington
 seo:
-  name: "Bluefish Bistro"
-  type: Restaurant
+  type: restaurant
   links: https://www.bluefishbistro.com/
-description: "Bluefish Bistro serves delicious sushi in Arlington, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJwxXo2-O1t4kR2ivrTvS1II4
 photos:
   - name: >-
@@ -183,6 +181,33 @@ price_range: $30 &ndash; $50
 rating: '4.9'
 rating_count: 0
 website: https://www.bluefishbistro.com/
+description: >-
+  Explore Bluefish Bistro in Arlington, VA$$$Bluefish Bistro in Arlington, VA,
+  stands out as a welcoming Japanese eatery specializing in fresh sushi and
+  traditional dishes, making it a go-to spot for those seeking authentic flavors
+  in a casual setting. This cozy restaurant offers an array of options like
+  bento boxes and creative rolls, all prepared with high-quality ingredients
+  that highlight the artistry of Japanese cuisine. With thoughtful accessibility
+  features and a comfortable atmosphere, it's designed to accommodate various
+  diners looking for a relaxed meal. Those exploring sushi restaurants near me
+  will appreciate the generous portions and reasonable pricing, ensuring a
+  satisfying experience without breaking the bank. Whether you're in the mood
+  for a quick bite or a leisurely dinner, Bluefish Bistro delivers on taste and
+  convenience in the heart of the area.
+generative_summary: >-
+  Explore Bluefish Bistro in Arlington, VA$$$Bluefish Bistro in Arlington, VA,
+  stands out as a welcoming Japanese eatery specializing in fresh sushi and
+  traditional dishes, making it a go-to spot for those seeking authentic flavors
+  in a casual setting. This cozy restaurant offers an array of options like
+  bento boxes and creative rolls, all prepared with high-quality ingredients
+  that highlight the artistry of Japanese cuisine. With thoughtful accessibility
+  features and a comfortable atmosphere, it's designed to accommodate various
+  diners looking for a relaxed meal. Those exploring sushi restaurants near me
+  will appreciate the generous portions and reasonable pricing, ensuring a
+  satisfying experience without breaking the bank. Whether you're in the mood
+  for a quick bite or a leisurely dinner, Bluefish Bistro delivers on taste and
+  convenience in the heart of the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJwxXo2-O1t4kR2ivrTvS1II4/reviews/ChZDSUhNMG9nS0VJQ0FnSURuLWFiYmFBEAE
@@ -398,6 +423,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURqMUtYRWt3RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURqMUtYRWt3RRAB!2m1!1s0x89b7b5e3dbe815c3:0x8e20b5f44eeb2bda
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors consistently praise the fresh and
+  flavorful sushi at this spot, noting how the ingredients shine through in
+  every bite for a truly enjoyable meal. Many highlight the attentive service
+  and welcoming vibe, which make dining here feel effortless and fun, even
+  during busier times. Folks love the generous portions and fair prices, often
+  mentioning that it's perfect for sharing or savoring alone, with appetizers
+  and desserts adding extra delight. Overall, the consensus is that this place
+  hits the mark for quality Japanese eats, encouraging repeat visits for anyone
+  hunting for top-rated sushi close to home. If you're on the hunt for reliable
+  sushi places near me, this bistro comes across as a solid choice that balances
+  taste, value, and a positive atmosphere.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeGarageParking: true
 payment_options:
@@ -428,7 +466,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kino Sushi & Ramen"
+title: Kino Sushi & Ramen
 permalink: /california/los-angeles/kino-sushi-ramen.html
 stateAbbr: CA
 stateName: California
 cityName: Los Angeles
 seo:
-  name: "Kino Sushi & Ramen"
-  type: Restaurant
+  type: restaurant
   links: http://www.kinosushihollywood.com/
-description: "Kino Sushi & Ramen serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ_4YbcCO_woAR_-4U1EBfnmE
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c2bf23701b86ff:0x619e5f40d414eeff!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 12
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 12
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 12
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 12
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 12
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 12:00 – 9:30 PM'
     - 'Tuesday: 12:00 – 9:30 PM'
     - 'Wednesday: 12:00 – 9:30 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 12:00 – 10:30 PM'
     - 'Saturday: 12:00 – 10:30 PM'
     - 'Sunday: 12:00 – 9:30 PM'
-  current:
-    - 'Monday: 12:00 – 9:30 PM'
-    - 'Tuesday: 12:00 – 9:30 PM'
-    - 'Wednesday: 12:00 – 9:30 PM'
-    - 'Thursday: 12:00 – 9:30 PM'
-    - 'Friday: 12:00 – 10:30 PM'
-    - 'Saturday: 12:00 – 10:30 PM'
-    - 'Sunday: 12:00 – 9:30 PM'
+  nextCloseTime: '2025-05-04T05:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,237 @@ phone: (323) 465-4567
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.3'
-rating_count: 0
+rating_count: 671
 website: http://www.kinosushihollywood.com/
-reviews: null
+description: >-
+  Discover Kino Sushi & Ramen in Los Angeles, CA$$$Nestled in the heart of Los
+  Angeles, CA, Kino Sushi & Ramen offers a welcoming spot for enjoying authentic
+  Japanese cuisine in a relaxed atmosphere. This stylish eatery features
+  flavorful ramen and fresh sushi rolls, complemented by happy-hour deals that
+  make it a go-to choice for casual dining among local sushi enthusiasts.
+  Patrons can savor the cozy indoor seating or opt for the outdoor patio, ideal
+  for soaking in the vibrant neighborhood vibes while indulging in moderately
+  priced meals. Accessibility is a highlight, with wheelchair-friendly options
+  ensuring everyone can enjoy the experience, and the menu extends to other
+  Asian-inspired dishes for a diverse taste adventure. Whether you're searching
+  for top-rated sushi restaurants near you, this location stands out for its
+  blend of quality ingredients and inviting ambiance that keeps diners coming
+  back.
+generative_summary: >-
+  Discover Kino Sushi & Ramen in Los Angeles, CA$$$Nestled in the heart of Los
+  Angeles, CA, Kino Sushi & Ramen offers a welcoming spot for enjoying authentic
+  Japanese cuisine in a relaxed atmosphere. This stylish eatery features
+  flavorful ramen and fresh sushi rolls, complemented by happy-hour deals that
+  make it a go-to choice for casual dining among local sushi enthusiasts.
+  Patrons can savor the cozy indoor seating or opt for the outdoor patio, ideal
+  for soaking in the vibrant neighborhood vibes while indulging in moderately
+  priced meals. Accessibility is a highlight, with wheelchair-friendly options
+  ensuring everyone can enjoy the experience, and the menu extends to other
+  Asian-inspired dishes for a diverse taste adventure. Whether you're searching
+  for top-rated sushi restaurants near you, this location stands out for its
+  blend of quality ingredients and inviting ambiance that keeps diners coming
+  back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ_4YbcCO_woAR_-4U1EBfnmE/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3dnZYb093EAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        a small, quiet place with delicious food and pleasant service. We've
+        been here twice. After a walk along a noisy street, it is very pleasant
+        to have lunch here with a bottle of cold beer. We will definitely come
+        again.
+      languageCode: en
+    originalText:
+      text: >-
+        a small, quiet place with delicious food and pleasant service. We've
+        been here twice. After a walk along a noisy street, it is very pleasant
+        to have lunch here with a bottle of cold beer. We will definitely come
+        again.
+      languageCode: en
+    authorAttribution:
+      displayName: Die Hexe
+      uri: https://www.google.com/maps/contrib/101371934270939597431/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLJDr3N6ofl9vBumxWrKuAKaYxoM5bG4dC_EsrSPErGHPcorw=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-03-19T04:39:28.628313Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUN3dnZYb093EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUN3dnZYb093EAE!2m1!1s0x80c2bf23701b86ff:0x619e5f40d414eeff
+  - name: >-
+      places/ChIJ_4YbcCO_woAR_-4U1EBfnmE/reviews/ChZDSUhNMG9nS0VJQ0FnTURRNGMzaFp3EAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        We googled this place because it was nearby where we were exploring. We
+        are from out of state. So didn't know what to expect.  It's OK looking
+        outside but once you walk in the door it's much much nicer.  They have a
+        great little patio area with open air but covered, where we sat.  The
+        sushi and ramen we had was excellent.  The young lady serving us was
+        very nice and attentive.  Would highly recommendand come back!!
+      languageCode: en
+    originalText:
+      text: >-
+        We googled this place because it was nearby where we were exploring. We
+        are from out of state. So didn't know what to expect.  It's OK looking
+        outside but once you walk in the door it's much much nicer.  They have a
+        great little patio area with open air but covered, where we sat.  The
+        sushi and ramen we had was excellent.  The young lady serving us was
+        very nice and attentive.  Would highly recommendand come back!!
+      languageCode: en
+    authorAttribution:
+      displayName: Monette Long
+      uri: https://www.google.com/maps/contrib/102838288761544704394/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWGtGi6CKDMdAFFb_oejHCczS-Zq94Tm60LLa-04My8_0DouKM=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-03-11T15:43:39.795936Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURRNGMzaFp3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURRNGMzaFp3EAE!2m1!1s0x80c2bf23701b86ff:0x619e5f40d414eeff
+  - name: >-
+      places/ChIJ_4YbcCO_woAR_-4U1EBfnmE/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3N3UzRE93EAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        The food was amazing. If you go, I recommend the pocorn sushi roll. It
+        was spicy, crunchy, and delicious! The customer service wasn’t the best.
+        Our waiter didn’t show much emotion, which is ok, but I like friendly
+        waiters. Also, there was only 1 waiter so we had to wait for about 15
+        minutes. But still, it’s an amazing!place!
+      languageCode: en
+    originalText:
+      text: >-
+        The food was amazing. If you go, I recommend the pocorn sushi roll. It
+        was spicy, crunchy, and delicious! The customer service wasn’t the best.
+        Our waiter didn’t show much emotion, which is ok, but I like friendly
+        waiters. Also, there was only 1 waiter so we had to wait for about 15
+        minutes. But still, it’s an amazing!place!
+      languageCode: en
+    authorAttribution:
+      displayName: ThaoT Nguyen
+      uri: https://www.google.com/maps/contrib/118363290273608382927/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLIAn_Vy6_5HoDwcbs04UVP8TCDWnJr11GHghuHOlNthj0ckA=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-27T04:29:23.643068Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUN3N3UzRE93EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUN3N3UzRE93EAE!2m1!1s0x80c2bf23701b86ff:0x619e5f40d414eeff
+  - name: >-
+      places/ChIJ_4YbcCO_woAR_-4U1EBfnmE/reviews/ChdDSUhNMG9nS0VJQ0FnSUNQeWNPTWh3RRAB
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        We went for a late night bowl of ramen on a cold night about 40 minutes
+        before they closed. My daughter and I got the Spicy Miso Ramen +Kimchi
+        and it was phenomenal. Like, one of the best broths I've ever had. The
+        pork was perfectly cooked. Kimchi was superb. Highly recommend this
+        place. Also had their house hot sake which was lovely.
+      languageCode: en
+    originalText:
+      text: >-
+        We went for a late night bowl of ramen on a cold night about 40 minutes
+        before they closed. My daughter and I got the Spicy Miso Ramen +Kimchi
+        and it was phenomenal. Like, one of the best broths I've ever had. The
+        pork was perfectly cooked. Kimchi was superb. Highly recommend this
+        place. Also had their house hot sake which was lovely.
+      languageCode: en
+    authorAttribution:
+      displayName: Andrea
+      uri: https://www.google.com/maps/contrib/103725104421481100520/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVkcbHxaz-FTBvMjqyZKEbgvWTgLZlYTRWMZdjt7Vk1t3KLQwFZwg=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-11-25T18:59:59.841035Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNQeWNPTWh3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNQeWNPTWh3RRAB!2m1!1s0x80c2bf23701b86ff:0x619e5f40d414eeff
+  - name: >-
+      places/ChIJ_4YbcCO_woAR_-4U1EBfnmE/reviews/ChdDSUhNMG9nS0VJQ0FnSUNmeklqam53RRAB
+    relativePublishTimeDescription: 4 months ago
+    rating: 3
+    text:
+      text: >-
+        Dinner for two, the host was new he did ok serving us. He should have
+        brought our entrees out at the same time. It took long for them to bring
+        out my Salmon Tempura. My sushi was extra cold when I ordered it hot.
+        The fried chicken and oysters were tasty according to my friend. The
+        place was small, intimate and clean. Nice lil spot for a date or small
+        gathering.
+      languageCode: en
+    originalText:
+      text: >-
+        Dinner for two, the host was new he did ok serving us. He should have
+        brought our entrees out at the same time. It took long for them to bring
+        out my Salmon Tempura. My sushi was extra cold when I ordered it hot.
+        The fried chicken and oysters were tasty according to my friend. The
+        place was small, intimate and clean. Nice lil spot for a date or small
+        gathering.
+      languageCode: en
+    authorAttribution:
+      displayName: Kenya Smith
+      uri: https://www.google.com/maps/contrib/112001833714024104723/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWiX7bdNGTx1AVaBoQDFn8Czo9JncGVIiJ_cq5D-w6y10iqbtBI=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-12-26T17:47:22.556300Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNmeklqam53RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNmeklqam53RRAB!2m1!1s0x80c2bf23701b86ff:0x619e5f40d414eeff
+review_summary: >-
+  What Customers Are Buzzing About This Sushi Spot$$$Folks visiting this
+  laid-back sushi place often rave about the tasty ramen and creative rolls that
+  deliver a satisfying mix of flavors and textures, making it a solid pick for
+  anyone craving Japanese fare. Many appreciate the cozy, intimate setting with
+  outdoor seating that provides a nice escape from the hustle, perfect for a
+  relaxed meal with friends or a quick bite. While service is generally friendly
+  and attentive, some note occasional waits during busy times, though the
+  overall vibe remains welcoming and worth the visit. Diners frequently
+  highlight the excellent value for the price, with specials adding to the
+  appeal, and the food's fresh ingredients earning high marks for quality. If
+  you're on the hunt for the best sushi near me, this spot gets plenty of nods
+  for its delicious offerings and comfortable atmosphere, making it a reliable
+  choice in the area.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
-payment_options: null
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
 serves_brunch: null
-serves_cocktails: null
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Stylish, informal restaurant serving popular Japanese dishes, plus Korean &
+  Chinese fare.
 
 ---

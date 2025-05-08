@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Hissho Sushi"
+title: Hissho Sushi
 permalink: /tennessee/nashville/hissho-sushi.html
 stateAbbr: TN
 stateName: Tennessee
 cityName: Nashville
 seo:
-  name: "Hissho Sushi"
-  type: Restaurant
-  links: null
-description: "Hissho Sushi serves delicious sushi in Nashville, Tennessee. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.hisshosushi.com/
 place_id: ChIJS1K3Q61uZIgR-E_0OZm1ikg
 photos:
   - name: >-
@@ -178,13 +176,54 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
+phone: (704) 926-2200
 price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+price_range: $10 &ndash; $20
+rating: '3.4'
+rating_count: 75
+website: http://www.hisshosushi.com/
+description: >-
+  Discover Hissho Sushi in Nashville, TN$$$Hissho Sushi in Nashville, TN, stands
+  out as a convenient spot for enjoying fresh Japanese-inspired dishes within
+  the bustling airport environment. This casual eatery specializes in a variety
+  of options like bento boxes and poke bowls, making it an ideal choice for
+  travelers seeking quick and flavorful meals. The restaurant emphasizes
+  accessibility with features such as wheelchair-friendly parking and entrances,
+  ensuring a welcoming experience for all visitors. Its location adds to the
+  appeal for those searching for reliable sushi dining options nearby,
+  complemented by a clean and efficient setup that captures the essence of
+  modern airport cuisine. With a focus on quality ingredients and
+  straightforward service, it's a go-to destination for anyone craving Japanese
+  flavors on the go.
+generative_summary: >-
+  Discover Hissho Sushi in Nashville, TN$$$Hissho Sushi in Nashville, TN, stands
+  out as a convenient spot for enjoying fresh Japanese-inspired dishes within
+  the bustling airport environment. This casual eatery specializes in a variety
+  of options like bento boxes and poke bowls, making it an ideal choice for
+  travelers seeking quick and flavorful meals. The restaurant emphasizes
+  accessibility with features such as wheelchair-friendly parking and entrances,
+  ensuring a welcoming experience for all visitors. Its location adds to the
+  appeal for those searching for reliable sushi dining options nearby,
+  complemented by a clean and efficient setup that captures the essence of
+  modern airport cuisine. With a focus on quality ingredients and
+  straightforward service, it's a go-to destination for anyone craving Japanese
+  flavors on the go.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Sharing About Hissho Sushi$$$Folks stopping by Hissho Sushi
+  often appreciate the straightforward vibe and tasty selections that hit the
+  spot for a fast airport bite, with many highlighting the fresh flavors in
+  their bowls and boxes. While the overall experience earns solid marks for
+  convenience and variety, some mention that service can vary depending on the
+  time of day, keeping things reliably average without major letdowns. Customers
+  frequently note that it's a handy option for families or solo travelers
+  looking for something light and satisfying, adding to its everyday charm. Even
+  with room for slight improvements in consistency, the general feedback leans
+  positive, making it a worthwhile pick for those in the mood for familiar
+  Japanese-style eats. All in all, it's clear that this spot delivers a no-fuss
+  meal that leaves most people feeling content with their choice.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +249,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

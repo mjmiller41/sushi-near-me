@@ -5,4 +5,5 @@ permalink: /new-jersey/teaneck/
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Teaneck
+
 ---

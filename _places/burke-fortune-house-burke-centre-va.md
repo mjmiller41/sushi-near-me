@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Burke Fortune House"
+title: Burke Fortune House
 permalink: /virginia/burke-centre/burke-fortune-house.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Burke Centre
 seo:
-  name: "Burke Fortune House"
-  type: Restaurant
+  type: restaurant
   links: https://www.facebook.com/Burke-Fortune-House-195764490464708/
-description: "Relaxed Japanese eatery serving sushi, noodles & teriyaki in a narrow, traditional space. Burke Fortune House serves delicious sushi in Burke Centre, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJecNpFONRtokR9sqXMb2Ypts
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 0
 website: https://www.facebook.com/Burke-Fortune-House-195764490464708/
+description: >-
+  Discover Burke Fortune House in Burke Centre, VA$$$Burke Fortune House in
+  Burke Centre, VA, stands out as a casual Japanese eatery specializing in fresh
+  sushi and traditional mains, making it a go-to spot for those seeking
+  authentic flavors in a welcoming environment. The restaurant boasts a
+  family-friendly atmosphere with accessible features like wheelchair-friendly
+  entrances and seating, enhancing the dining experience for all guests. Diners
+  can enjoy a variety of options including teriyaki and noodles, paired with
+  selections of beer and wine, all served in a cozy, traditional space. Its
+  convenient location near parking lots adds to the ease of visiting, ideal for
+  anyone exploring sushi restaurants in the area. Overall, this spot combines
+  affordability with quality Japanese cuisine, perfect for casual meals or group
+  outings.
+generative_summary: >-
+  Discover Burke Fortune House in Burke Centre, VA$$$Burke Fortune House in
+  Burke Centre, VA, stands out as a casual Japanese eatery specializing in fresh
+  sushi and traditional mains, making it a go-to spot for those seeking
+  authentic flavors in a welcoming environment. The restaurant boasts a
+  family-friendly atmosphere with accessible features like wheelchair-friendly
+  entrances and seating, enhancing the dining experience for all guests. Diners
+  can enjoy a variety of options including teriyaki and noodles, paired with
+  selections of beer and wine, all served in a cozy, traditional space. Its
+  convenient location near parking lots adds to the ease of visiting, ideal for
+  anyone exploring sushi restaurants in the area. Overall, this spot combines
+  affordability with quality Japanese cuisine, perfect for casual meals or group
+  outings.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJecNpFONRtokR9sqXMb2Ypts/reviews/ChZDSUhNMG9nS0VJQ0FnTURRaEp6UkdnEAE
@@ -380,6 +405,21 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQxc1ozSE1nEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQxc1ozSE1nEAE!2m1!1s0x89b651e31469c379:0xdba698bd3197caf6
+review_summary: >-
+  What Customers Are Sharing About This Sushi Spot$$$Visitors to this sushi
+  restaurant often rave about the fresh and flavorful rolls, like the Dynamite
+  and Alaskan varieties, making it a solid choice for anyone craving tasty
+  Japanese dishes. While most folks appreciate the friendly staff and welcoming
+  vibe that keeps things relaxed and enjoyable, especially for families, a few
+  have pointed out occasional waits during less busy times that could use some
+  smoothing out. The overall consensus highlights consistent quality in the
+  food, with many enjoying the variety and kid-friendly options that make every
+  visit feel worthwhile. Despite a rare mention of inconsistencies in service
+  speed or preparation, the positive experiences with the menu's freshness and
+  atmosphere keep the feedback leaning optimistic. If you're hunting for
+  top-rated sushi near you, this place delivers a generally satisfying
+  experience that's worth checking out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -412,8 +452,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Relaxed Japanese eatery serving sushi, noodles & teriyaki in a narrow,
   traditional space.
 

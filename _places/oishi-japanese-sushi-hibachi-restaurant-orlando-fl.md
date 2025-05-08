@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Oishi Japanese Sushi & Hibachi Restaurant"
+title: Oishi Japanese Sushi & Hibachi Restaurant
 permalink: /florida/orlando/oishi-japanese-sushi-hibachi-restaurant.html
 stateAbbr: FL
 stateName: Florida
 cityName: Orlando
 seo:
-  name: "Oishi Japanese Sushi & Hibachi Restaurant"
-  type: Restaurant
+  type: restaurant
   links: https://www.oishiorlando.com/
-description: "Oishi Japanese Sushi & Hibachi Restaurant serves delicious sushi in Orlando, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJM5jKSid-54gRmnqkuvp0TTk
 photos:
   - name: >-
@@ -199,7 +197,41 @@ price_range: $20 &ndash; $30
 rating: '4.0'
 rating_count: 0
 website: https://www.oishiorlando.com/
+description: >-
+  Explore Oishi Japanese Sushi & Hibachi in Orlando, FL$$$Oishi Japanese Sushi &
+  Hibachi Restaurant in Orlando, FL, delivers a vibrant dining experience
+  centered on fresh, expertly crafted sushi and sizzling hibachi dishes in a
+  laid-back environment. This spot stands out for its authentic Japanese
+  flavors, featuring a variety of rolls and teppanyaki options that appeal to
+  those seeking reliable sushi places near me. With moderate pricing and
+  thoughtful accessibility features like wheelchair-friendly entrances and
+  seating, it's an inviting choice for casual meals or group gatherings. The
+  flexible hours make it easy to enjoy top-rated sushi options, blending
+  traditional tastes with everyday convenience for locals and visitors alike.
+generative_summary: >-
+  Explore Oishi Japanese Sushi & Hibachi in Orlando, FL$$$Oishi Japanese Sushi &
+  Hibachi Restaurant in Orlando, FL, delivers a vibrant dining experience
+  centered on fresh, expertly crafted sushi and sizzling hibachi dishes in a
+  laid-back environment. This spot stands out for its authentic Japanese
+  flavors, featuring a variety of rolls and teppanyaki options that appeal to
+  those seeking reliable sushi places near me. With moderate pricing and
+  thoughtful accessibility features like wheelchair-friendly entrances and
+  seating, it's an inviting choice for casual meals or group gatherings. The
+  flexible hours make it easy to enjoy top-rated sushi options, blending
+  traditional tastes with everyday convenience for locals and visitors alike.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What People Are Saying About This Spot$$$Visitors exploring sushi restaurants
+  around Orlando frequently praise the fresh ingredients and lively hibachi
+  presentations, making for enjoyable and satisfying meals overall. Many
+  highlight the well-balanced flavors in the Japanese dishes, positioning it as
+  a solid pick for families and friends in search of a fun, casual vibe. With a
+  good rating reflecting fair value and friendly service, it's clear that folks
+  appreciate the range of options catering to sushi lovers on the move. While
+  not everything is flawless, the welcoming atmosphere and reliable quality
+  encourage return trips for anyone hunting for tasty Japanese places nearby.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +257,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

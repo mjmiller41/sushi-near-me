@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Hapa Sushi Grill and Sake Bar"
+title: Hapa Sushi Grill and Sake Bar
 permalink: /colorado/greenwood-village/hapa-sushi-grill-and-sake-bar.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Greenwood Village
 seo:
-  name: "Hapa Sushi Grill and Sake Bar"
-  type: Restaurant
+  type: restaurant
   links: http://hapasushi.com/
-description: "Hapa Sushi Grill and Sake Bar serves delicious sushi in Greenwood Village, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ5yHUc_qGbIcR8tPhhiXeNl4
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x876c86fa73d421e7:0x5e36de2586e1d3f2!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 0
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 0
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 10:00 PM'
     - 'Tuesday: 11:00 AM – 10:00 PM'
     - 'Wednesday: 11:00 AM – 10:00 PM'
@@ -178,28 +234,142 @@ opening_hours:
     - 'Friday: 11:00 AM – 12:00 AM'
     - 'Saturday: 11:00 AM – 12:00 AM'
     - 'Sunday: 11:00 AM – 10:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 10:00 PM'
-    - 'Tuesday: 11:00 AM – 10:00 PM'
-    - 'Wednesday: 11:00 AM – 10:00 PM'
-    - 'Thursday: 11:00 AM – 10:00 PM'
-    - 'Friday: 11:00 AM – 12:00 AM'
-    - 'Saturday: 11:00 AM – 12:00 AM'
-    - 'Sunday: 11:00 AM – 10:00 PM'
+  nextCloseTime: '2025-05-04T06:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 14
+          minute: 30
+        close:
+          day: 0
+          hour: 17
+          minute: 30
+      - open:
+          day: 1
+          hour: 14
+          minute: 30
+        close:
+          day: 1
+          hour: 17
+          minute: 30
+      - open:
+          day: 2
+          hour: 14
+          minute: 30
+        close:
+          day: 2
+          hour: 17
+          minute: 30
+      - open:
+          day: 3
+          hour: 14
+          minute: 30
+        close:
+          day: 3
+          hour: 17
+          minute: 30
+      - open:
+          day: 4
+          hour: 14
+          minute: 30
+        close:
+          day: 4
+          hour: 17
+          minute: 30
+      - open:
+          day: 5
+          hour: 14
+          minute: 30
+        close:
+          day: 5
+          hour: 17
+          minute: 30
+      - open:
+          day: 5
+          hour: 22
+          minute: 0
+        close:
+          day: 6
+          hour: 0
+          minute: 0
+      - open:
+          day: 6
+          hour: 14
+          minute: 30
+        close:
+          day: 6
+          hour: 17
+          minute: 30
+      - open:
+          day: 6
+          hour: 22
+          minute: 0
+        close:
+          day: 0
+          hour: 0
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 2:30 – 5:30 PM'
+      - 'Tuesday: 2:30 – 5:30 PM'
+      - 'Wednesday: 2:30 – 5:30 PM'
+      - 'Thursday: 2:30 – 5:30 PM'
+      - 'Friday: 2:30 – 5:30 PM, 10:00 PM – 12:00 AM'
+      - 'Saturday: 2:30 – 5:30 PM, 10:00 PM – 12:00 AM'
+      - 'Sunday: 2:30 – 5:30 PM'
+    secondaryHoursType: HAPPY_HOUR
+    nextCloseTime: '2025-05-03T23:30:00Z'
 phone: (303) 267-8744
 price_level: PRICE_LEVEL_MODERATE
 price_range: $30 &ndash; $50
 rating: '4.5'
-rating_count: 0
+rating_count: 2360
 website: http://hapasushi.com/
+description: >-
+  About Hapa Sushi Grill and Sake Bar in Greenwood Village, CO$$$Hapa Sushi
+  Grill and Sake Bar in Greenwood Village, CO, delivers a stylish Japanese
+  dining experience with a focus on fresh sushi rolls and innovative
+  Hawaiian-inspired flavors. This welcoming spot features a vibrant atmosphere
+  perfect for enjoying creative dishes alongside a well-stocked bar, making it
+  an ideal choice for those seeking quality sushi options in the area.
+  Accessibility is a key highlight, with features like wheelchair-friendly
+  entrances and seating that ensure everyone can savor the menu's diverse
+  offerings. Patrons appreciate the extended hours, including late-night options
+  on weekends, which add to its appeal as a go-to destination for casual or
+  celebratory meals. Whether you're exploring top-rated sushi restaurants
+  nearby, this eatery combines elegant presentation with flavorful tastes to
+  create memorable dining moments.
+generative_summary: >-
+  About Hapa Sushi Grill and Sake Bar in Greenwood Village, CO$$$Hapa Sushi
+  Grill and Sake Bar in Greenwood Village, CO, delivers a stylish Japanese
+  dining experience with a focus on fresh sushi rolls and innovative
+  Hawaiian-inspired flavors. This welcoming spot features a vibrant atmosphere
+  perfect for enjoying creative dishes alongside a well-stocked bar, making it
+  an ideal choice for those seeking quality sushi options in the area.
+  Accessibility is a key highlight, with features like wheelchair-friendly
+  entrances and seating that ensure everyone can savor the menu's diverse
+  offerings. Patrons appreciate the extended hours, including late-night options
+  on weekends, which add to its appeal as a go-to destination for casual or
+  celebratory meals. Whether you're exploring top-rated sushi restaurants
+  nearby, this eatery combines elegant presentation with flavorful tastes to
+  create memorable dining moments.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Customer Reviews$$$Folks frequently highlight the exceptional
+  quality of the sushi and creative rolls at this spot, noting how the fresh
+  ingredients and bold flavors make every bite worthwhile. Many visitors enjoy
+  the friendly service and relaxed vibe, which contribute to a welcoming
+  environment for groups or solo diners alike. While opinions on portion sizes
+  vary, the overall value for the price is often praised, especially given the
+  generous happy hour deals. Diners commonly appreciate the variety of options
+  that cater to different tastes, from classic rolls to unique fusion dishes,
+  solidifying its reputation as a reliable choice for Japanese cuisine
+  enthusiasts. All in all, the high ratings reflect a generally positive
+  experience, encouraging newcomers to give it a try for a satisfying meal in a
+  lively setting.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +395,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sakana Sushi"
+title: Sakana Sushi
 permalink: /virginia/carrollton/sakana-sushi.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Carrollton
 seo:
-  name: "Sakana Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sakana Sushi serves delicious sushi in Carrollton, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJh9_EKxx0sIkRXKnwN9WRV7Y
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $20 &ndash; $30
 rating: '4.8'
 rating_count: 0
 website: null
+description: >-
+  Discover Sakana Sushi in Carrollton, VA$$$Sakana Sushi in Carrollton, VA,
+  stands out as a welcoming spot for enjoying authentic Japanese flavors,
+  featuring fresh sushi rolls, hibachi meals, and bento boxes in a cozy,
+  accessible environment. The restaurant emphasizes high-quality ingredients,
+  making it a go-to choice for those seeking diverse Asian-inspired dining
+  options close to home. With thoughtful accessibility features like
+  wheelchair-friendly seating and parking, it caters to a wide range of visitors
+  looking for a comfortable meal. Patrons appreciate the inviting atmosphere
+  that enhances the overall experience, ideal for casual outings or quick
+  lunches. Whether you're exploring sushi restaurants nearby or craving
+  top-rated Japanese dishes, this spot delivers a satisfying blend of taste and
+  convenience.
+generative_summary: >-
+  Discover Sakana Sushi in Carrollton, VA$$$Sakana Sushi in Carrollton, VA,
+  stands out as a welcoming spot for enjoying authentic Japanese flavors,
+  featuring fresh sushi rolls, hibachi meals, and bento boxes in a cozy,
+  accessible environment. The restaurant emphasizes high-quality ingredients,
+  making it a go-to choice for those seeking diverse Asian-inspired dining
+  options close to home. With thoughtful accessibility features like
+  wheelchair-friendly seating and parking, it caters to a wide range of visitors
+  looking for a comfortable meal. Patrons appreciate the inviting atmosphere
+  that enhances the overall experience, ideal for casual outings or quick
+  lunches. Whether you're exploring sushi restaurants nearby or craving
+  top-rated Japanese dishes, this spot delivers a satisfying blend of taste and
+  convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJh9_EKxx0sIkRXKnwN9WRV7Y/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3OFBPdTVBRRAB
@@ -344,6 +369,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURWLXVTSHJ3RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURWLXVTSHJ3RRAB!2m1!1s0x89b0741c2bc4df87:0xb65791d537f0a95c
+review_summary: >-
+  What Customers Are Saying$$$Visitors frequently praise the fresh sushi and
+  hibachi options at this spot, often noting the variety and quality that make
+  it a standout choice for everyday meals. Many highlight the friendly service
+  and welcoming vibe, which add to the enjoyable dining experience and encourage
+  repeat visits. While most feedback focuses on the generous portions and
+  delicious flavors that keep people coming back, a few mention minor
+  inconsistencies with vegetable balance in some dishes, though it doesn't
+  overshadow the positives. Overall, it's a solid pick for anyone searching for
+  reliable sushi places nearby, with the atmosphere and staff helping to create
+  a relaxed, fun setting. If you're in the mood for tasty Japanese fare, this
+  restaurant comes highly recommended for its consistent appeal and satisfying
+  options.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   valetParking: false
@@ -375,7 +414,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

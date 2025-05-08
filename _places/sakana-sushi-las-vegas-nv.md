@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sakana Sushi"
+title: Sakana Sushi
 permalink: /nevada/las-vegas/sakana-sushi.html
 stateAbbr: NV
 stateName: Nevada
 cityName: Las Vegas
 seo:
-  name: "Sakana Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.dragonfactories.com/sakana
-description: "Sakana Sushi serves delicious sushi in Las Vegas, Nevada. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJOwozGvnEyIARddx7877p7W4
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c8c4f91a330a3b:0x6eede9bef37bdc75!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 0
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 0
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 0
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 0
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 0
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 0
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 0
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 12:00 AM'
     - 'Tuesday: 11:00 AM – 12:00 AM'
     - 'Wednesday: 11:00 AM – 12:00 AM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 12:00 AM'
     - 'Saturday: 11:00 AM – 12:00 AM'
     - 'Sunday: 11:00 AM – 12:00 AM'
-  current:
-    - 'Monday: 11:00 AM – 12:00 AM'
-    - 'Tuesday: 11:00 AM – 12:00 AM'
-    - 'Wednesday: 11:00 AM – 12:00 AM'
-    - 'Thursday: 11:00 AM – 12:00 AM'
-    - 'Friday: 11:00 AM – 12:00 AM'
-    - 'Saturday: 11:00 AM – 12:00 AM'
-    - 'Sunday: 11:00 AM – 12:00 AM'
+  nextCloseTime: '2025-05-04T07:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,243 @@ phone: (725) 258-6684
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.6'
-rating_count: 0
+rating_count: 3429
 website: https://www.dragonfactories.com/sakana
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Sakana Sushi in Las Vegas, NV$$$Sakana Sushi in Las Vegas, NV, stands
+  out as a casual spot for Japanese cuisine, featuring an array of fresh rolls
+  and entrees that cater to sushi enthusiasts looking for variety and value.
+  This eatery offers an all-you-can-eat option that makes it a go-to choice for
+  those searching for top-rated sushi experiences in the area, with a focus on
+  creative and classic dishes served in a welcoming environment. Accessibility
+  is a key highlight, including wheelchair-friendly parking and seating,
+  ensuring everyone can enjoy the meal without hassle. The moderate pricing
+  keeps it appealing for families and groups, while extended hours from 11 AM to
+  midnight daily add to its convenience for locals and visitors alike. With its
+  lively atmosphere and emphasis on fresh ingredients, it's an ideal destination
+  for anyone craving authentic Japanese flavors in a bustling city setting.
+generative_summary: >-
+  Discover Sakana Sushi in Las Vegas, NV$$$Sakana Sushi in Las Vegas, NV, stands
+  out as a casual spot for Japanese cuisine, featuring an array of fresh rolls
+  and entrees that cater to sushi enthusiasts looking for variety and value.
+  This eatery offers an all-you-can-eat option that makes it a go-to choice for
+  those searching for top-rated sushi experiences in the area, with a focus on
+  creative and classic dishes served in a welcoming environment. Accessibility
+  is a key highlight, including wheelchair-friendly parking and seating,
+  ensuring everyone can enjoy the meal without hassle. The moderate pricing
+  keeps it appealing for families and groups, while extended hours from 11 AM to
+  midnight daily add to its convenience for locals and visitors alike. With its
+  lively atmosphere and emphasis on fresh ingredients, it's an ideal destination
+  for anyone craving authentic Japanese flavors in a bustling city setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJOwozGvnEyIARddx7877p7W4/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3NEliSnFRRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        I have no words for how good this place was. Food was fast, fresh, hot!
+        The service the atmosphere everything I'm not joking when I say get in
+        your car or book your Uber! Thisbplace is truly 100/10! Our server Omar
+        was amazing and his recommendations were amazing. So much food for such
+        a low price. I was able to try everything I wanted without breaking the
+        bank! From Dallas TX thank you Omar, staff, chef, the warm welcome at
+        the front door, the ambiance, and leaving 100% satisfied and full. Try
+        "The Shit", Pango, spicy tofu skewer they were my favorite.
+      languageCode: en
+    originalText:
+      text: >-
+        I have no words for how good this place was. Food was fast, fresh, hot!
+        The service the atmosphere everything I'm not joking when I say get in
+        your car or book your Uber! Thisbplace is truly 100/10! Our server Omar
+        was amazing and his recommendations were amazing. So much food for such
+        a low price. I was able to try everything I wanted without breaking the
+        bank! From Dallas TX thank you Omar, staff, chef, the warm welcome at
+        the front door, the ambiance, and leaving 100% satisfied and full. Try
+        "The Shit", Pango, spicy tofu skewer they were my favorite.
+      languageCode: en
+    authorAttribution:
+      displayName: Lauren Bradshaw
+      uri: https://www.google.com/maps/contrib/113530972875148264633/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXZ6bdAVQEUpSRssus67TjxggWGMstQvRaNvCnLD4569D0hsQaEHw=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-03-22T17:10:38.281238Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUR3NEliSnFRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUR3NEliSnFRRRAB!2m1!1s0x80c8c4f91a330a3b:0x6eede9bef37bdc75
+  - name: >-
+      places/ChIJOwozGvnEyIARddx7877p7W4/reviews/ChdDSUhNMG9nS0VJQ0FnTUNvN3NiYnZBRRAB
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 4
+    text:
+      text: >-
+        Vibrant atmosphere, good food and good service overall.  Only complaint
+        is the Tempura ice-cream came out pretty soggy and doesn't taste like
+        one would expect.  Otherwise you could not go wrong with this AYCE sushi
+        place!
+      languageCode: en
+    originalText:
+      text: >-
+        Vibrant atmosphere, good food and good service overall.  Only complaint
+        is the Tempura ice-cream came out pretty soggy and doesn't taste like
+        one would expect.  Otherwise you could not go wrong with this AYCE sushi
+        place!
+      languageCode: en
+    authorAttribution:
+      displayName: Bill Lai
+      uri: https://www.google.com/maps/contrib/112832060427210584036/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUagBxUAHj3FH16KNWScYZR2cjN83ZE1LYaile63FZQ6uKX9YMg=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-04-17T05:30:27.472758Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNvN3NiYnZBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNvN3NiYnZBRRAB!2m1!1s0x80c8c4f91a330a3b:0x6eede9bef37bdc75
+  - name: >-
+      places/ChIJOwozGvnEyIARddx7877p7W4/reviews/ChdDSUhNMG9nS0VJQ0FnTURvbGJxYXlBRRAB
+    relativePublishTimeDescription: in the last week
+    rating: 4
+    text:
+      text: >-
+        Excellent sushi place to eat in Las Vegas, good value of money, had
+        option of 'All you can eat' is just for $34.
+
+
+        Friendly team with quick service.
+
+        Must visit for Sushi lovers.
+      languageCode: en
+    originalText:
+      text: >-
+        Excellent sushi place to eat in Las Vegas, good value of money, had
+        option of 'All you can eat' is just for $34.
+
+
+        Friendly team with quick service.
+
+        Must visit for Sushi lovers.
+      languageCode: en
+    authorAttribution:
+      displayName: zia syed
+      uri: https://www.google.com/maps/contrib/118252362442353568156/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVur3AtYBOa5OAVIH6HpR9Slo8kydc_z6RUBclYhMZmWKNaW1SESA=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-04-27T04:22:02.147136Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURvbGJxYXlBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURvbGJxYXlBRRAB!2m1!1s0x80c8c4f91a330a3b:0x6eede9bef37bdc75
+  - name: >-
+      places/ChIJOwozGvnEyIARddx7877p7W4/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJX1BHOTd3RRAB
+    relativePublishTimeDescription: a month ago
+    rating: 4
+    text:
+      text: >-
+        The food was great everything was very fresh but things like oyster or
+        urchin or sweet red shrimps were reduced to one piece per person. The
+        waitress was great, she was very fast and always when h the e food was
+        almost gone she came an asked if you want more. The menu was super big,
+        so I could only try very little of everything. The only thing quite
+        anoying was that you had always to wait for a seat.
+      languageCode: en
+    originalText:
+      text: >-
+        The food was great everything was very fresh but things like oyster or
+        urchin or sweet red shrimps were reduced to one piece per person. The
+        waitress was great, she was very fast and always when h the e food was
+        almost gone she came an asked if you want more. The menu was super big,
+        so I could only try very little of everything. The only thing quite
+        anoying was that you had always to wait for a seat.
+      languageCode: en
+    authorAttribution:
+      displayName: oOLucyInTheSkyOo
+      uri: https://www.google.com/maps/contrib/112838140353790880874/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWulhA1Vrl1uuZQPyK4nYX6xrHWUlilTElfaFby8IbYVtiSrqOO=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2025-03-31T09:34:39.758930Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNJX1BHOTd3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNJX1BHOTd3RRAB!2m1!1s0x80c8c4f91a330a3b:0x6eede9bef37bdc75
+  - name: >-
+      places/ChIJOwozGvnEyIARddx7877p7W4/reviews/ChZDSUhNMG9nS0VJQ0FnTURRNDRYdUhnEAE
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        This, IMHO, is the best place for Sushi in Las Vegas! The All You Can
+        Eat deal is so worth it! Service is quick and great and the wait staff
+        is always polite! The nigiri/appetizer/sushi choices are plenty and
+        taste amazing! You can order half rolls too, to enjoy a larger variety.
+        I haven't had anything here that I didn't like. Amazing food!
+      languageCode: en
+    originalText:
+      text: >-
+        This, IMHO, is the best place for Sushi in Las Vegas! The All You Can
+        Eat deal is so worth it! Service is quick and great and the wait staff
+        is always polite! The nigiri/appetizer/sushi choices are plenty and
+        taste amazing! You can order half rolls too, to enjoy a larger variety.
+        I haven't had anything here that I didn't like. Amazing food!
+      languageCode: en
+    authorAttribution:
+      displayName: Tara Kalro
+      uri: https://www.google.com/maps/contrib/106416748190680286719/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIC05WfY_-nz9HAYbLa7Kf2gNinsaR6K6KBW5bD_bmrf7KCyA=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-22T16:06:38.035901Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURRNDRYdUhnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURRNDRYdUhnEAE!2m1!1s0x80c8c4f91a330a3b:0x6eede9bef37bdc75
+review_summary: >-
+  What Customers Are Buzzing About$$$Visitors to this popular sushi spot often
+  rave about the fresh, high-quality fish and the unbeatable all-you-can-eat
+  deals that make it a smart pick for affordable dining. Many appreciate the
+  quick service and friendly staff that keep things running smoothly, allowing
+  you to sample a wide range of rolls and appetizers without long waits. While a
+  few mention minor hiccups like occasional waits for seating, the overall vibe
+  remains upbeat and enjoyable, with plenty of options to suit different tastes.
+  Folks frequently highlight the great value, noting it's perfect for groups or
+  anyone exploring the best sushi options nearby. In the end, the positive
+  feedback on the lively atmosphere and satisfying portions makes it a reliable
+  choice for a casual, fulfilling meal.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+curbside_pickup: false
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
+serves_coffee: true
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Japanese eatery preparing creative and classic rolls, plus soups and entrees
+  in traditional surrounds.
 
 ---

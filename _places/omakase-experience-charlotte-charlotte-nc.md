@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Omakase Experience Charlotte"
+title: Omakase Experience Charlotte
 permalink: /north-carolina/charlotte/omakase-experience-charlotte.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Charlotte
 seo:
-  name: "Omakase Experience Charlotte"
-  type: Restaurant
+  type: restaurant
   links: http://omakaseclt.com/
-description: "Omakase Experience Charlotte serves delicious sushi in Charlotte, North Carolina. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJWxvHnjghVIgR2Iog3QuTHFo
 photos:
   - name: >-
@@ -170,7 +168,49 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x885421389ec71b5b:0x5a1c930bdd208ad8!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 19
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 14
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: Closed'
     - 'Wednesday: Closed'
@@ -178,14 +218,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 2:00 PM, 5:30 – 10:00 PM'
     - 'Saturday: 11:30 AM – 2:00 PM, 5:30 – 10:00 PM'
     - 'Sunday: 5:00 – 7:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: Closed'
-    - 'Wednesday: Closed'
-    - 'Thursday: Closed'
-    - 'Friday: 11:30 AM – 2:00 PM, 5:30 – 10:00 PM'
-    - 'Saturday: 11:30 AM – 2:00 PM, 5:30 – 10:00 PM'
-    - 'Sunday: 5:00 – 7:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +230,43 @@ phone: (704) 754-4315
 price_level: null
 price_range: $100 &ndash; & up
 rating: '4.8'
-rating_count: 0
+rating_count: 56
 website: http://omakaseclt.com/
+description: >-
+  Discover Omakase Experience in Charlotte, NC$$$Omakase Experience Charlotte in
+  Charlotte, NC, offers an exceptional omakase sushi journey that highlights
+  fresh, high-quality ingredients in a cozy and intimate atmosphere. This sushi
+  restaurant near you provides carefully curated lunch and dinner options,
+  making it a standout choice for those seeking authentic Japanese flavors.
+  Guests can enjoy the convenience of wheelchair-accessible features, ensuring a
+  welcoming visit for everyone. With operating hours that include evenings and
+  select weekends, it's perfect for a memorable dining outing. Whether you're
+  exploring top-rated sushi spots in the area, this spot delivers a refined
+  experience that captures the essence of traditional Japanese cuisine.
+generative_summary: >-
+  Discover Omakase Experience in Charlotte, NC$$$Omakase Experience Charlotte in
+  Charlotte, NC, offers an exceptional omakase sushi journey that highlights
+  fresh, high-quality ingredients in a cozy and intimate atmosphere. This sushi
+  restaurant near you provides carefully curated lunch and dinner options,
+  making it a standout choice for those seeking authentic Japanese flavors.
+  Guests can enjoy the convenience of wheelchair-accessible features, ensuring a
+  welcoming visit for everyone. With operating hours that include evenings and
+  select weekends, it's perfect for a memorable dining outing. Whether you're
+  exploring top-rated sushi spots in the area, this spot delivers a refined
+  experience that captures the essence of traditional Japanese cuisine.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Raving About$$$Folks checking out this sushi place near me
+  often praise the fantastic omakase offerings, noting the incredibly fresh
+  ingredients that elevate every bite. Many highlight the attentive service that
+  makes dining feel personal and enjoyable, adding to the overall welcoming
+  vibe. Reviewers frequently mention the high-quality experience as a highlight,
+  making it a go-to for anyone hunting for the best sushi in town. While it's
+  clear the atmosphere keeps things relaxed and engaging, it's also appreciated
+  for its consistency in delivering flavorful dishes. Overall, it's a solid pick
+  for sushi enthusiasts looking for a positive and satisfying meal in Charlotte.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +292,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Avocado Sushi"
+title: Avocado Sushi
 permalink: /new-york/staten-island/avocado-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: Staten Island
 seo:
-  name: "Avocado Sushi"
-  type: Restaurant
-  links: null
-description: "Avocado Sushi serves delicious sushi in Staten Island, New York. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.avocadosushinyc.com/
 place_id: ChIJbTiZmq1LwokRoeJ7536OTvQ
 photos:
   - name: >-
@@ -169,8 +167,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c24bad9a99386d:0xf44e8e7ee77be2a1!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 15
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 15
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 15
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 15
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 15
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 45
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 45
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 10:15 PM'
+    - 'Tuesday: 11:00 AM – 10:15 PM'
+    - 'Wednesday: 11:00 AM – 10:15 PM'
+    - 'Thursday: 11:00 AM – 10:15 PM'
+    - 'Friday: 11:00 AM – 10:45 PM'
+    - 'Saturday: 11:00 AM – 10:45 PM'
+    - 'Sunday: 11:00 AM – 10:15 PM'
+  nextCloseTime: '2025-05-04T02:45:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -178,13 +241,53 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
+phone: (718) 605-1100
 price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+price_range: $20 &ndash; $30
+rating: '4.1'
+rating_count: 204
+website: http://www.avocadosushinyc.com/
+description: >-
+  Explore Avocado Sushi in Staten Island, NY$$$Avocado Sushi in Staten Island,
+  NY, offers a welcoming spot for enjoying fresh Japanese-inspired dishes in a
+  relaxed atmosphere. This sushi restaurant features a diverse menu with options
+  like sushi rolls, sashimi, bento boxes, and even unique twists such as pizza
+  fusions, making it a versatile choice for casual diners. Accessibility is a
+  key highlight, with wheelchair-friendly entrances, restrooms, and seating that
+  ensure everyone can enjoy the experience comfortably. Open daily from late
+  morning into the evening, it's an ideal destination for those seeking sushi
+  places near me that combine traditional flavors with everyday convenience.
+  Whether you're in the mood for a quick lunch or a laid-back dinner, the comfy
+  setting and variety of fare make it a standout option among Japanese places
+  near me.
+generative_summary: >-
+  Explore Avocado Sushi in Staten Island, NY$$$Avocado Sushi in Staten Island,
+  NY, offers a welcoming spot for enjoying fresh Japanese-inspired dishes in a
+  relaxed atmosphere. This sushi restaurant features a diverse menu with options
+  like sushi rolls, sashimi, bento boxes, and even unique twists such as pizza
+  fusions, making it a versatile choice for casual diners. Accessibility is a
+  key highlight, with wheelchair-friendly entrances, restrooms, and seating that
+  ensure everyone can enjoy the experience comfortably. Open daily from late
+  morning into the evening, it's an ideal destination for those seeking sushi
+  places near me that combine traditional flavors with everyday convenience.
+  Whether you're in the mood for a quick lunch or a laid-back dinner, the comfy
+  setting and variety of fare make it a standout option among Japanese places
+  near me.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Visitor Feedback on Avocado Sushi$$$Folks chatting about Avocado Sushi often
+  highlight the solid quality of the dishes, with many praising the fresh
+  flavors and creative takes on classics like sushi rolls. A common theme is the
+  welcoming vibe and reliable service that keeps things feeling easygoing and
+  enjoyable, even during busier times. While some mention portions could vary,
+  the overall consensus leans positive, especially for those hunting for best
+  sushi near me that's both affordable and tasty. With a strong rating
+  reflecting hundreds of experiences, it's clear this spot delivers on
+  expectations for a satisfying meal without any major letdowns. If you're on
+  the lookout for top-rated sushi restaurants near me, Avocado Sushi comes
+  through as a reliable pick that balances fun and flavor effectively.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +313,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

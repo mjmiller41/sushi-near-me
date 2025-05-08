@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Hana Downtown"
+title: Sushi Hana Downtown
 permalink: /montana/missoula/sushi-hana-downtown.html
 stateAbbr: MT
 stateName: Montana
 cityName: Missoula
 seo:
-  name: "Sushi Hana Downtown"
-  type: Restaurant
+  type: restaurant
   links: https://sushimissoula.com/
-description: "Casual Japanese bistro serving rolls, teriyaki, tempura & noodle dishes in an art-adorned setting. Sushi Hana Downtown serves delicious sushi in Missoula, Montana. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ07j3EirMXVMRMJ3xm2oNzuI
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $20 &ndash; $30
 rating: '4.2'
 rating_count: 0
 website: https://sushimissoula.com/
+description: >-
+  Explore Sushi Hana Downtown in Missoula, MT$$$Sushi Hana Downtown in Missoula,
+  MT, is a welcoming spot for enjoying fresh Japanese cuisine, featuring a
+  variety of sushi rolls, teriyaki, and tempura in a relaxed, art-filled
+  environment that's perfect for families or casual outings. This moderately
+  priced eatery emphasizes accessibility with wheelchair-friendly features,
+  making it easy for everyone to savor its flavorful noodle dishes and other
+  traditional offerings. Nestled in the heart of the city, it's an ideal choice
+  for those seeking top-rated sushi near you, with a menu that highlights
+  quality ingredients and a comfortable atmosphere for everyday dining. Whether
+  you're looking for sushi restaurants close to home or simply craving authentic
+  Japanese flavors, this location delivers a satisfying experience that's both
+  approachable and enjoyable.
+generative_summary: >-
+  Explore Sushi Hana Downtown in Missoula, MT$$$Sushi Hana Downtown in Missoula,
+  MT, is a welcoming spot for enjoying fresh Japanese cuisine, featuring a
+  variety of sushi rolls, teriyaki, and tempura in a relaxed, art-filled
+  environment that's perfect for families or casual outings. This moderately
+  priced eatery emphasizes accessibility with wheelchair-friendly features,
+  making it easy for everyone to savor its flavorful noodle dishes and other
+  traditional offerings. Nestled in the heart of the city, it's an ideal choice
+  for those seeking top-rated sushi near you, with a menu that highlights
+  quality ingredients and a comfortable atmosphere for everyday dining. Whether
+  you're looking for sushi restaurants close to home or simply craving authentic
+  Japanese flavors, this location delivers a satisfying experience that's both
+  approachable and enjoyable.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ07j3EirMXVMRMJ3xm2oNzuI/reviews/ChdDSUhNMG9nS0VJQ0FnSUN3X2QzWTVBRRAB
@@ -348,6 +373,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURabXVTZ0xREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURabXVTZ0xREAE!2m1!1s0x535dcc2a12f7b8d3:0xe2ce0d6a9bf19d30
+review_summary: >-
+  Summary of Customer Feedback$$$Visitors to this sushi spot often rave about
+  the tasty rolls, friendly service, and great value deals like lunch specials,
+  making it a solid pick for anyone hunting for reliable Japanese places near
+  me. While most folks appreciate the fresh flavors and welcoming vibe, some
+  mention occasional inconsistencies with food temperature or wait times that
+  could use improvement. Overall, the atmosphere and affordable options keep
+  things positive, with many highlighting the miso soup and appetizers as
+  standout features that make for a enjoyable meal. If you're exploring best
+  sushi near me, this place generally delivers a good experience, though it's
+  wise to plan ahead for busier times to ensure a smooth visit. With its
+  family-friendly appeal and solid ratings, it's worth checking out for a casual
+  bite that hits the spot most of the time.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options:
   acceptsCreditCards: true
@@ -377,8 +416,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Casual Japanese bistro serving rolls, teriyaki, tempura & noodle dishes in an
   art-adorned setting.
 

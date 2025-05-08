@@ -5,4 +5,5 @@ permalink: /texas/fredericksburg/
 stateAbbr: TX
 stateName: Texas
 cityName: Fredericksburg
+
 ---

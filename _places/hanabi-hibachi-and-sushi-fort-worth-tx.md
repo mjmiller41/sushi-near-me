@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Hanabi Hibachi and Sushi"
+title: Hanabi Hibachi and Sushi
 permalink: /texas/fort-worth/hanabi-hibachi-and-sushi.html
 stateAbbr: TX
 stateName: Texas
 cityName: Fort Worth
 seo:
-  name: "Hanabi Hibachi and Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.hanabi-hibachi-sushi.com/
-description: "Hanabi Hibachi and Sushi serves delicious sushi in Fort Worth, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJN-I0uo3YTYYRwOQjhjc62Cw
 photos:
   - name: >-
@@ -169,7 +167,121 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x864dd88dba34e237:0x2cd83a378623e4c0!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 14
+        minute: 30
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 14
+        minute: 30
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 2:30 PM, 5:00 – 10:00 PM'
     - 'Tuesday: 11:00 AM – 2:30 PM, 5:00 – 10:00 PM'
     - 'Wednesday: 11:00 AM – 2:30 PM, 5:00 – 10:00 PM'
@@ -177,14 +289,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 2:30 PM, 5:00 – 10:30 PM'
     - 'Saturday: 11:30 AM – 2:30 PM, 5:00 – 10:30 PM'
     - 'Sunday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 2:30 PM, 5:00 – 10:00 PM'
-    - 'Tuesday: 11:00 AM – 2:30 PM, 5:00 – 10:00 PM'
-    - 'Wednesday: 11:00 AM – 2:30 PM, 5:00 – 10:00 PM'
-    - 'Thursday: 11:00 AM – 2:30 PM, 5:00 – 10:00 PM'
-    - 'Friday: 11:00 AM – 2:30 PM, 5:00 – 10:30 PM'
-    - 'Saturday: 11:30 AM – 2:30 PM, 5:00 – 10:30 PM'
-    - 'Sunday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T03:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,35 +301,390 @@ phone: (817) 750-3333
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.3'
-rating_count: 0
+rating_count: 1329
 website: http://www.hanabi-hibachi-sushi.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Hanabi Hibachi and Sushi in Fort Worth, TX$$$Hanabi Hibachi and Sushi
+  in Fort Worth, TX, delivers an inviting experience with its focus on fresh
+  Japanese-inspired dishes in a lively yet relaxed environment. The restaurant
+  features a variety of expertly prepared sushi rolls and hibachi-grilled
+  options, complemented by a full bar that enhances the casual dining
+  atmosphere. Visitors can enjoy accessible seating and parking, making it a
+  convenient choice for those seeking sushi restaurants in the area. With
+  generous portions and a menu that caters to different tastes, including
+  vegetarian selections, it's an ideal spot for a satisfying meal. Open for
+  lunch and dinner throughout the week, this establishment stands out as a go-to
+  option for anyone exploring top-rated sushi near Fort Worth.
+generative_summary: >-
+  Discover Hanabi Hibachi and Sushi in Fort Worth, TX$$$Hanabi Hibachi and Sushi
+  in Fort Worth, TX, delivers an inviting experience with its focus on fresh
+  Japanese-inspired dishes in a lively yet relaxed environment. The restaurant
+  features a variety of expertly prepared sushi rolls and hibachi-grilled
+  options, complemented by a full bar that enhances the casual dining
+  atmosphere. Visitors can enjoy accessible seating and parking, making it a
+  convenient choice for those seeking sushi restaurants in the area. With
+  generous portions and a menu that caters to different tastes, including
+  vegetarian selections, it's an ideal spot for a satisfying meal. Open for
+  lunch and dinner throughout the week, this establishment stands out as a go-to
+  option for anyone exploring top-rated sushi near Fort Worth.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJN-I0uo3YTYYRwOQjhjc62Cw/reviews/ChdDSUhNMG9nS0VJQ0FnTURnMGVQWjRBRRAB
+    relativePublishTimeDescription: a week ago
+    rating: 3
+    text:
+      text: >-
+        This is an updated after our 2nd visit April 21st,2025
+
+        Had a bad experience. Had a birthday party Monday night with the family.
+        My wife found a 1 inch metal screw in her rice. No picture we were in
+        shock the cook apologized repeatedly but in the end laughed it off.
+        Nothing was offered and I still gave my normal tip. I thought long and
+        hard before posting but felt it was necessary. Unfortunately, it killed
+        the mood of our group.
+
+
+        We had 7pm reservation for a group of 10 and was seated on time. It
+        seems dark inside but when seated at grill not so bad.
+
+        We had the Miso and Salad to start I had the Korean BBQ with mixed
+        vegetables and fried rice, the wife had a Sushi Roll and I can't
+        remember which one, but it was very good and she shared. The beef was
+        better than I expected  doused in soy sauce very tender the vegetables
+        were really good and fresh, fried rice was a meh.
+
+        Service was good drinks were mixed well, this was all about celebrating
+        our Gransons 11 birthday which he loved. A really neat place to
+        celebrate for the kids which they can interact with the chef and family.
+        Needless to say he had a blast and that made it a great evening.
+      languageCode: en
+    originalText:
+      text: >-
+        This is an updated after our 2nd visit April 21st,2025
+
+        Had a bad experience. Had a birthday party Monday night with the family.
+        My wife found a 1 inch metal screw in her rice. No picture we were in
+        shock the cook apologized repeatedly but in the end laughed it off.
+        Nothing was offered and I still gave my normal tip. I thought long and
+        hard before posting but felt it was necessary. Unfortunately, it killed
+        the mood of our group.
+
+
+        We had 7pm reservation for a group of 10 and was seated on time. It
+        seems dark inside but when seated at grill not so bad.
+
+        We had the Miso and Salad to start I had the Korean BBQ with mixed
+        vegetables and fried rice, the wife had a Sushi Roll and I can't
+        remember which one, but it was very good and she shared. The beef was
+        better than I expected  doused in soy sauce very tender the vegetables
+        were really good and fresh, fried rice was a meh.
+
+        Service was good drinks were mixed well, this was all about celebrating
+        our Gransons 11 birthday which he loved. A really neat place to
+        celebrate for the kids which they can interact with the chef and family.
+        Needless to say he had a blast and that made it a great evening.
+      languageCode: en
+    authorAttribution:
+      displayName: Jim Mcdonald
+      uri: https://www.google.com/maps/contrib/104485986796587260914/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVu6eLUS-7yjyMi8cGhP6fmq72hJRmU3brFDsupLlKj2QbL-wKsWA=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2025-04-23T21:54:27.565883Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURnMGVQWjRBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURnMGVQWjRBRRAB!2m1!1s0x864dd88dba34e237:0x2cd83a378623e4c0
+  - name: >-
+      places/ChIJN-I0uo3YTYYRwOQjhjc62Cw/reviews/ChZDSUhNMG9nS0VJQ0FnSUNqOS0zWFd3EAE
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        The sushi and Jimmy at the sushi bar are awesome. That was a great
+        experience. I will be back, sorry I didn't take any photos, but I will
+        next time. I gave a 1 star for service and allow me to explain. The
+        waitress never made eye contact. Never checked to see if we wanted
+        another drink or anything. I had to request the sushi chef to interrupt
+        the group of gabbing waitresses to get my check. She brought it over to
+        the seat beside me because all of the empty plates were in front of us.
+        I actually had to tell her to remove my plate so that I can sign the
+        credit card slip.  Your management should work on proper training on
+        waiting of tables and your guests.
+
+
+        My second visit was fabulous with the chef making a wonderful assortment
+        of sushi to try.  There are a lot of choices in this area, but you won't
+        find one better.
+
+
+        The sushi bar service is superb. The server came by and took my empty
+        dishes. They now have received 5 stars in all categories.
+
+
+        I'm now a regular here. This is my sushi place. I always eat at the
+        sushi bar.
+
+        I had an amazing salmon belly sushi and can't wait to go again.
+      languageCode: en
+    originalText:
+      text: >-
+        The sushi and Jimmy at the sushi bar are awesome. That was a great
+        experience. I will be back, sorry I didn't take any photos, but I will
+        next time. I gave a 1 star for service and allow me to explain. The
+        waitress never made eye contact. Never checked to see if we wanted
+        another drink or anything. I had to request the sushi chef to interrupt
+        the group of gabbing waitresses to get my check. She brought it over to
+        the seat beside me because all of the empty plates were in front of us.
+        I actually had to tell her to remove my plate so that I can sign the
+        credit card slip.  Your management should work on proper training on
+        waiting of tables and your guests.
+
+
+        My second visit was fabulous with the chef making a wonderful assortment
+        of sushi to try.  There are a lot of choices in this area, but you won't
+        find one better.
+
+
+        The sushi bar service is superb. The server came by and took my empty
+        dishes. They now have received 5 stars in all categories.
+
+
+        I'm now a regular here. This is my sushi place. I always eat at the
+        sushi bar.
+
+        I had an amazing salmon belly sushi and can't wait to go again.
+      languageCode: en
+    authorAttribution:
+      displayName: Bret Berglund
+      uri: https://www.google.com/maps/contrib/101323267532520084072/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWs2GUmztc6HU7Gmaud3-0pct6M0cN1n_3yOLGNayZMtHX3qn5F=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-04-13T20:09:38.428829Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNqOS0zWFd3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNqOS0zWFd3EAE!2m1!1s0x864dd88dba34e237:0x2cd83a378623e4c0
+  - name: >-
+      places/ChIJN-I0uo3YTYYRwOQjhjc62Cw/reviews/ChZDSUhNMG9nS0VJQ0FnSURucU51T0pBEAE
+    relativePublishTimeDescription: 7 months ago
+    rating: 4
+    text:
+      text: >-
+        Beautiful interior and design. Came here for sushi and the sushi rice
+        was  crumbly and not very sweet as to be expected. The slices for sushi
+        were very think which for some may be great for portioning but even the
+        hand rolls look as if they were cut and rolled quickly without care.
+        Taste was still very good and especially enjoyed the white tuna and
+        extra sweet shrimp they provided.
+      languageCode: en
+    originalText:
+      text: >-
+        Beautiful interior and design. Came here for sushi and the sushi rice
+        was  crumbly and not very sweet as to be expected. The slices for sushi
+        were very think which for some may be great for portioning but even the
+        hand rolls look as if they were cut and rolled quickly without care.
+        Taste was still very good and especially enjoyed the white tuna and
+        extra sweet shrimp they provided.
+      languageCode: en
+    authorAttribution:
+      displayName: Katlynn Cha
+      uri: https://www.google.com/maps/contrib/104285842503858965647/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLt_Gk7pqfaCaw5zRFxue6A4hlRKaPWK6j5pDC3Q3Az5uPu3hU=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2024-10-02T17:22:17.409514Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURucU51T0pBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURucU51T0pBEAE!2m1!1s0x864dd88dba34e237:0x2cd83a378623e4c0
+  - name: >-
+      places/ChIJN-I0uo3YTYYRwOQjhjc62Cw/reviews/ChdDSUhNMG9nS0VJQ0FnSUM3cktTTzhBRRAB
+    relativePublishTimeDescription: 8 months ago
+    rating: 3
+    text:
+      text: >-
+        The overall atmosphere is quiet, laid-back very chill. The hibachi side
+        had quite a bit of people compared to the two people in the dining side.
+        Right off the bat I noticed the lack of server training in this
+        location. The dumplings were a little bland and lacked flavor.
+        Displaying the dumplings on a colorful dish might be more appealing to
+        the eye. The tower was very flavorful. It was paired with a lot of
+        delicious sauces. the sushi was overall pretty decent. The Poké bowl
+        wasn’t bad. It was just missing a sauce for more flavor. We did add the
+        leftover sauce from the tower to the poke bowl and it made a huge
+        difference. Overall food wasn’t bad. Perfect if you want a quiet
+        restaurant to do some work. The most dissatisfying thing from my
+        experience was the service.
+      languageCode: en
+    originalText:
+      text: >-
+        The overall atmosphere is quiet, laid-back very chill. The hibachi side
+        had quite a bit of people compared to the two people in the dining side.
+        Right off the bat I noticed the lack of server training in this
+        location. The dumplings were a little bland and lacked flavor.
+        Displaying the dumplings on a colorful dish might be more appealing to
+        the eye. The tower was very flavorful. It was paired with a lot of
+        delicious sauces. the sushi was overall pretty decent. The Poké bowl
+        wasn’t bad. It was just missing a sauce for more flavor. We did add the
+        leftover sauce from the tower to the poke bowl and it made a huge
+        difference. Overall food wasn’t bad. Perfect if you want a quiet
+        restaurant to do some work. The most dissatisfying thing from my
+        experience was the service.
+      languageCode: en
+    authorAttribution:
+      displayName: Erica Ozuna
+      uri: https://www.google.com/maps/contrib/109438720535399800874/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXc5HWJvEvOeKkMntMCwwfMSprip7MI4ytX-YSE8-O2xbBor0Vqpw=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-08-13T09:58:22.632426Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUM3cktTTzhBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUM3cktTTzhBRRAB!2m1!1s0x864dd88dba34e237:0x2cd83a378623e4c0
+  - name: >-
+      places/ChIJN-I0uo3YTYYRwOQjhjc62Cw/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJbC11WnVnRRAB
+    relativePublishTimeDescription: 4 weeks ago
+    rating: 2
+    text:
+      text: >-
+        The atmosphere is quite vibrant, particularly in the Hibachi area.
+        Unfortunately, the food didn't meet my expectations. My Hibachi meal,
+        which came with a salad, soup, chicken, fried rice, and vegetables, was
+        merely average. Given the price, I had anticipated something better. The
+        fried rice was particularly disappointing; it tasted more like plain
+        white rice with some soy sauce rather than the flavorful dish I
+        expected. I had ordered two sides of fried rice, thinking it would
+        enhance my meal, but it didn't even come with the main course, which was
+        an extra charge.
+
+
+        The chicken was decent, the salad was refreshing but unremarkable, and
+        the soup was a bit too salty for my taste. Since I'm sensitive to
+        sodium, that was a downside for me. Overall, I would rate my meal a 2.5
+        out of 5.
+
+
+        The service left much to be desired. After placing my order, I mentioned
+        that I would likely be ordering takeout for my partner. The server
+        acknowledged this, but when I later tried to place the takeout order,
+        she seemed irritated. I had already indicated my intention to order food
+        to go.
+
+
+        Additionally, my friend ordered sushi without avocado due to her
+        allergy, and the server nodded in understanding. However, when the sushi
+        arrived, my friend reminded the server about the allergy, and the server
+        reacted with a disdainful expression and eye roll. It’s unclear if she
+        was having a rough day, but my friend had clearly communicated her
+        allergy. We also had to repeat ourselves several times, which made me
+        wonder if there was a language barrier. Overall, the customer service
+        was lacking, characterized by eye rolls and visible annoyance, although
+        the front desk staff were friendly.
+
+
+        As a result, I won’t be returning. The food didn’t justify the cost, and
+        the service from our server was disappointing. I hope others have a
+        better experience with both the food and the service.
+      languageCode: en
+    originalText:
+      text: >-
+        The atmosphere is quite vibrant, particularly in the Hibachi area.
+        Unfortunately, the food didn't meet my expectations. My Hibachi meal,
+        which came with a salad, soup, chicken, fried rice, and vegetables, was
+        merely average. Given the price, I had anticipated something better. The
+        fried rice was particularly disappointing; it tasted more like plain
+        white rice with some soy sauce rather than the flavorful dish I
+        expected. I had ordered two sides of fried rice, thinking it would
+        enhance my meal, but it didn't even come with the main course, which was
+        an extra charge.
+
+
+        The chicken was decent, the salad was refreshing but unremarkable, and
+        the soup was a bit too salty for my taste. Since I'm sensitive to
+        sodium, that was a downside for me. Overall, I would rate my meal a 2.5
+        out of 5.
+
+
+        The service left much to be desired. After placing my order, I mentioned
+        that I would likely be ordering takeout for my partner. The server
+        acknowledged this, but when I later tried to place the takeout order,
+        she seemed irritated. I had already indicated my intention to order food
+        to go.
+
+
+        Additionally, my friend ordered sushi without avocado due to her
+        allergy, and the server nodded in understanding. However, when the sushi
+        arrived, my friend reminded the server about the allergy, and the server
+        reacted with a disdainful expression and eye roll. It’s unclear if she
+        was having a rough day, but my friend had clearly communicated her
+        allergy. We also had to repeat ourselves several times, which made me
+        wonder if there was a language barrier. Overall, the customer service
+        was lacking, characterized by eye rolls and visible annoyance, although
+        the front desk staff were friendly.
+
+
+        As a result, I won’t be returning. The food didn’t justify the cost, and
+        the service from our server was disappointing. I hope others have a
+        better experience with both the food and the service.
+      languageCode: en
+    authorAttribution:
+      displayName: Lizbeth N.
+      uri: https://www.google.com/maps/contrib/100931972208488773956/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIoLrucOQ3RlGnvlENDan4GVZrhJeBmbPvDahcrHZtpudgAlQ=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2025-04-05T08:49:59.670717Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNJbC11WnVnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNJbC11WnVnRRAB!2m1!1s0x864dd88dba34e237:0x2cd83a378623e4c0
+review_summary: >-
+  What Customers Are Saying About This Sushi Spot$$$Folks generally rave about
+  the tasty hibachi dishes and oversized sushi rolls that make for a fun and
+  filling meal, often highlighting the entertaining preparation style that keeps
+  things lively. Many appreciate the reasonable prices and fresh flavors, making
+  it a solid pick for anyone craving Japanese-inspired fare close to home. While
+  the food often steals the show, some visitors note that service can vary, with
+  occasional lapses in attentiveness that might disrupt the experience. Overall,
+  it's a welcoming place for groups or families looking for a casual vibe, and
+  the positives like flavorful options and affordability tend to outweigh the
+  minor hiccups. If you're hunting for reliable sushi places near you, this spot
+  delivers a generally enjoyable outing with room for the occasional off day.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
+delivery: true
+dine_in: true
 good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
+good_for_groups: true
+good_for_sports: false
+live_music: false
 menu_for_children: null
-outdoor_seating: null
-reservable: null
+outdoor_seating: false
+reservable: true
 restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Hibachi & a large variety of specialty sushi rolls prepared in a lively,
+  modern setting.
 
 ---

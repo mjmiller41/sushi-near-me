@@ -5,4 +5,5 @@ permalink: /pennsylvania/pittsburgh/
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Pittsburgh
+
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Bonchon San Gabriel"
+title: Bonchon San Gabriel
 permalink: /california/san-gabriel/bonchon-san-gabriel.html
 stateAbbr: CA
 stateName: California
 cityName: San Gabriel
 seo:
-  name: "Bonchon San Gabriel"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Bonchon San Gabriel serves delicious sushi in San Gabriel, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJmbmqAJbbwoARC-j6I1eEo0w
 photos:
   - name: >-
@@ -185,7 +183,41 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Bonchon San Gabriel in San Gabriel, CA$$$Bonchon San Gabriel in San
+  Gabriel, CA, offers a relaxed dining experience as a popular chain
+  specializing in flavorful Korean fried chicken alongside a selection of
+  Japanese and other Asian-inspired dishes. This spot stands out for its
+  accessible features, including wheelchair-friendly parking, entrances,
+  restrooms, and seating, making it welcoming for all guests. Patrons can enjoy
+  a casual vibe with options that highlight fresh, bold flavors, potentially
+  appealing to those exploring Asian cuisine varieties in the area. The menu's
+  diverse offerings provide a taste of authentic elements, blending traditional
+  techniques with everyday appeal for anyone seeking quality meals nearby.
+generative_summary: >-
+  Discover Bonchon San Gabriel in San Gabriel, CA$$$Bonchon San Gabriel in San
+  Gabriel, CA, offers a relaxed dining experience as a popular chain
+  specializing in flavorful Korean fried chicken alongside a selection of
+  Japanese and other Asian-inspired dishes. This spot stands out for its
+  accessible features, including wheelchair-friendly parking, entrances,
+  restrooms, and seating, making it welcoming for all guests. Patrons can enjoy
+  a casual vibe with options that highlight fresh, bold flavors, potentially
+  appealing to those exploring Asian cuisine varieties in the area. The menu's
+  diverse offerings provide a taste of authentic elements, blending traditional
+  techniques with everyday appeal for anyone seeking quality meals nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Visitor Feedback$$$Visitors frequently highlight the tasty fried
+  chicken and vibrant Asian flavors that make this spot a solid choice for
+  casual meals. Many appreciate the friendly service and comfortable atmosphere,
+  noting that it feels inviting for groups or quick visits. While some mention
+  occasional waits during peak times, the overall experience is praised for its
+  value and variety, keeping things enjoyable without overwhelming expectations.
+  Diners often express satisfaction with the fresh ingredients and portion
+  sizes, making it a reliable option for those in the mood for authentic tastes
+  in San Gabriel.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +243,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

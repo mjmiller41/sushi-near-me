@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Hana Japanese Restaurant"
+title: Hana Japanese Restaurant
 permalink: /louisiana/new-orleans/hana-japanese-restaurant.html
 stateAbbr: LA
 stateName: Louisiana
 cityName: New Orleans
 seo:
-  name: "Hana Japanese Restaurant"
-  type: Restaurant
+  type: restaurant
   links: https://hanasushinola.com/
-description: "Hana Japanese Restaurant serves delicious sushi in New Orleans, Louisiana. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJE8s9OTylIIYRFj9-BwnP-mA
 photos:
   - name: >-
@@ -169,7 +167,89 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8620a53c393dcb13:0x60facf09077e3f16!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 20
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 20
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 20
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 20
+        minute: 30
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 20
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:30 AM – 2:30 PM, 4:30 – 8:30 PM'
     - 'Wednesday: 11:30 AM – 2:30 PM, 4:30 – 8:30 PM'
@@ -177,14 +257,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 2:30 PM, 4:30 – 8:30 PM'
     - 'Saturday: 12:00 – 8:30 PM'
     - 'Sunday: 12:00 – 8:30 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:30 AM – 2:30 PM, 4:30 – 8:30 PM'
-    - 'Wednesday: 11:30 AM – 2:30 PM, 4:30 – 8:30 PM'
-    - 'Thursday: 11:30 AM – 2:30 PM, 4:30 – 8:30 PM'
-    - 'Friday: 11:30 AM – 2:30 PM, 4:30 – 8:30 PM'
-    - 'Saturday: 12:00 – 8:30 PM'
-    - 'Sunday: 12:00 – 8:30 PM'
+  nextCloseTime: '2025-05-04T01:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,9 +269,45 @@ phone: (504) 865-1634
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.5'
-rating_count: 0
+rating_count: 469
 website: https://hanasushinola.com/
+description: >-
+  Discover Hana Japanese Restaurant in New Orleans$$$Hana Japanese Restaurant in
+  New Orleans, LA, stands out as a beloved spot for authentic Japanese cuisine,
+  offering a warm and inviting atmosphere that draws in locals and visitors
+  alike. This veteran eatery specializes in fresh sushi rolls and traditional
+  dishes, making it a go-to destination for those seeking flavorful,
+  well-prepared meals in a cozy neighborhood setting. With its accessible
+  features like wheelchair-friendly entrances and seating, it ensures everyone
+  can enjoy the experience comfortably. The moderate pricing and inviting vibe
+  make it an ideal choice for casual dinners or quick lunches, appealing to
+  anyone exploring Japanese flavors in the area.
+generative_summary: >-
+  Discover Hana Japanese Restaurant in New Orleans$$$Hana Japanese Restaurant in
+  New Orleans, LA, stands out as a beloved spot for authentic Japanese cuisine,
+  offering a warm and inviting atmosphere that draws in locals and visitors
+  alike. This veteran eatery specializes in fresh sushi rolls and traditional
+  dishes, making it a go-to destination for those seeking flavorful,
+  well-prepared meals in a cozy neighborhood setting. With its accessible
+  features like wheelchair-friendly entrances and seating, it ensures everyone
+  can enjoy the experience comfortably. The moderate pricing and inviting vibe
+  make it an ideal choice for casual dinners or quick lunches, appealing to
+  anyone exploring Japanese flavors in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About This Sushi Spot$$$Folks around New Orleans
+  seem to really enjoy the fresh and tasty sushi at this spot, often
+  highlighting how the rolls are made with high-quality ingredients that hit the
+  spot just right. Many appreciate the friendly service and relaxed atmosphere,
+  making it a solid pick for a laid-back meal with friends or family. While some
+  mention wait times during peak hours, the overall consensus leans positive,
+  with diners praising the variety of traditional Japanese options that keep
+  them coming back. It's frequently noted as a reliable choice for anyone
+  craving Japanese fare, blending good value with satisfying flavors that leave
+  a lasting impression. All in all, this place maintains a strong reputation for
+  delivering a welcoming dining experience that lives up to its high ratings.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -224,7 +333,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

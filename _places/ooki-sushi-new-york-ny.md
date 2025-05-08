@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ooki Sushi"
+title: Ooki Sushi
 permalink: /new-york/new-york/ooki-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "Ooki Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.ookisushi.us/home
-description: "Ooki Sushi serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJOyYZTbtYwokRCaK3C_Zm9Sc
 photos:
   - name: >-
@@ -169,7 +167,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c258bb4d19263b:0x27f566f60bb7a209!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 10:00 PM'
     - 'Tuesday: 11:30 AM – 10:00 PM'
     - 'Wednesday: 11:30 AM – 10:00 PM'
@@ -177,14 +233,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 10:00 PM'
     - 'Saturday: 11:30 AM – 10:00 PM'
     - 'Sunday: 11:30 AM – 10:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 10:00 PM'
-    - 'Tuesday: 11:30 AM – 10:00 PM'
-    - 'Wednesday: 11:30 AM – 10:00 PM'
-    - 'Thursday: 11:30 AM – 10:00 PM'
-    - 'Friday: 11:30 AM – 10:00 PM'
-    - 'Saturday: 11:30 AM – 10:00 PM'
-    - 'Sunday: 11:30 AM – 10:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,9 +245,43 @@ phone: (212) 828-3388
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.2'
-rating_count: 0
+rating_count: 471
 website: https://www.ookisushi.us/home
+description: >-
+  Discover Ooki Sushi in New York$$$Ooki Sushi in New York, NY, is a standout
+  Japanese restaurant that delights diners with its fresh and diverse sushi
+  offerings. This spot features an array of expertly crafted rolls made from
+  high-quality ingredients, paired seamlessly with a selection of cocktails and
+  sake for a complete dining adventure. Its welcoming ambiance and accessibility
+  options make it an excellent choice for anyone exploring sushi restaurants in
+  the area, ensuring a comfortable visit for all. Whether you're seeking
+  top-rated sushi spots or simply craving authentic Japanese flavors close to
+  home, this location combines taste and convenience in a moderately priced
+  setting.
+generative_summary: >-
+  Discover Ooki Sushi in New York$$$Ooki Sushi in New York, NY, is a standout
+  Japanese restaurant that delights diners with its fresh and diverse sushi
+  offerings. This spot features an array of expertly crafted rolls made from
+  high-quality ingredients, paired seamlessly with a selection of cocktails and
+  sake for a complete dining adventure. Its welcoming ambiance and accessibility
+  options make it an excellent choice for anyone exploring sushi restaurants in
+  the area, ensuring a comfortable visit for all. Whether you're seeking
+  top-rated sushi spots or simply craving authentic Japanese flavors close to
+  home, this location combines taste and convenience in a moderately priced
+  setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Diners at Ooki Sushi$$$Folks checking out this sushi place often
+  highlight the super fresh and tasty rolls that make every meal feel special,
+  especially if you're on the hunt for great options nearby. The staff comes
+  across as friendly and supportive, adding to the cozy and relaxed vibe that
+  keeps the atmosphere enjoyable for groups or solo visits. With a solid variety
+  of food and drinks on offer, it's easy to find something that hits the spot,
+  from classic sushi to refreshing beverages. While some mention that things can
+  get a little slow during busy times, the overall quality and flavors generally
+  leave people satisfied and eager to return.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -224,7 +307,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Fugu Express"
+title: Fugu Express
 permalink: /georgia/marietta/fugu-express.html
 stateAbbr: GA
 stateName: Georgia
 cityName: Marietta
 seo:
-  name: "Fugu Express"
-  type: Restaurant
+  type: restaurant
   links: https://fuguexpress.kwickmenu.com/
-description: "Fugu Express serves delicious sushi in Marietta, Georgia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ1epBypYR9YgRy4-1tKN1PKg
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $10 &ndash; $20
 rating: '4.1'
 rating_count: 0
 website: https://fuguexpress.kwickmenu.com/
+description: >-
+  About Fugu Express in Marietta, GA$$$Fugu Express in Marietta, GA, stands out
+  as a welcoming Japanese restaurant known for its affordable and flavorful
+  Asian cuisine options. This spot offers a variety of quick hibachi dishes and
+  fresh sushi selections that cater to those seeking convenient, high-quality
+  meals in a casual setting. With accessibility features like
+  wheelchair-friendly parking and entrances, it's an inclusive choice for diners
+  looking for everyday eats without the fuss. The menu emphasizes speedy service
+  and consistent flavors, making it a go-to for locals hunting for top-rated
+  sushi restaurants nearby. Its unpretentious vibe and reasonable prices add to
+  the appeal for anyone exploring Japanese places near me.
+generative_summary: >-
+  About Fugu Express in Marietta, GA$$$Fugu Express in Marietta, GA, stands out
+  as a welcoming Japanese restaurant known for its affordable and flavorful
+  Asian cuisine options. This spot offers a variety of quick hibachi dishes and
+  fresh sushi selections that cater to those seeking convenient, high-quality
+  meals in a casual setting. With accessibility features like
+  wheelchair-friendly parking and entrances, it's an inclusive choice for diners
+  looking for everyday eats without the fuss. The menu emphasizes speedy service
+  and consistent flavors, making it a go-to for locals hunting for top-rated
+  sushi restaurants nearby. Its unpretentious vibe and reasonable prices add to
+  the appeal for anyone exploring Japanese places near me.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ1epBypYR9YgRy4-1tKN1PKg/reviews/ChdDSUhNMG9nS0VJQ0FnTURBdG8ySHlRRRAB
@@ -360,6 +381,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURneXFiUlNnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURneXFiUlNnEAE!2m1!1s0x88f51196ca41ead5:0xa83c75a3b4b58fcb
+review_summary: >-
+  What Visitors Are Saying$$$Folks generally rave about the tasty hibachi and
+  sushi at this spot, highlighting how the food consistently hits the mark with
+  great flavors and solid portions that keep them coming back. Many appreciate
+  the excellent value and quick preparation, especially when ordering online for
+  pickup, making it a reliable choice for casual meals. While the majority of
+  feedback praises the friendly service and variety of options like sesame
+  chicken and fresh rolls, a few mentions note occasional inconsistencies in
+  customer interactions that could use some smoothing out. Overall, it's a hit
+  for families and groups searching for the best sushi near me, with the
+  positives far outweighing any minor hiccups to deliver an enjoyable
+  experience. If you're in the mood for "I love sushi" moments, this place often
+  delivers with its dependable and budget-friendly vibes.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -392,7 +427,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

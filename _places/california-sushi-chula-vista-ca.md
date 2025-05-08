@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "California Sushi"
+title: California Sushi
 permalink: /california/chula-vista/california-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Chula Vista
 seo:
-  name: "California Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://californiasushibar.com/
-description: "California Sushi serves delicious sushi in Chula Vista, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJQe8e_AdO2YARUbx2F8A53S4
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80d94e07fc1eef41:0x2edd39c01776bc51!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:00 PM'
     - 'Tuesday: Closed'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:00 PM'
     - 'Saturday: 12:00 – 10:00 PM'
     - 'Sunday: 12:00 – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:00 PM'
-    - 'Tuesday: Closed'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 10:00 PM'
-    - 'Friday: 11:00 AM – 10:00 PM'
-    - 'Saturday: 12:00 – 10:00 PM'
-    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T05:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +238,43 @@ phone: (619) 422-4488
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.2'
-rating_count: 0
+rating_count: 541
 website: http://californiasushibar.com/
+description: >-
+  Discover California Sushi in Chula Vista, CA$$$California Sushi in Chula
+  Vista, CA, stands out as a welcoming Japanese eatery where guests can unwind
+  and explore an array of fresh sushi rolls alongside classic dishes. This spot
+  offers a relaxed vibe ideal for casual lunches or dinners, featuring a variety
+  of options that cater to sushi enthusiasts seeking authentic flavors. With
+  accessibility features like wheelchair-friendly entrances and seating, it
+  ensures a comfortable visit for everyone, making it a convenient choice among
+  local sushi restaurants. The moderate pricing adds to its appeal, providing an
+  affordable way to enjoy high-quality meals in a laid-back setting.
+generative_summary: >-
+  Discover California Sushi in Chula Vista, CA$$$California Sushi in Chula
+  Vista, CA, stands out as a welcoming Japanese eatery where guests can unwind
+  and explore an array of fresh sushi rolls alongside classic dishes. This spot
+  offers a relaxed vibe ideal for casual lunches or dinners, featuring a variety
+  of options that cater to sushi enthusiasts seeking authentic flavors. With
+  accessibility features like wheelchair-friendly entrances and seating, it
+  ensures a comfortable visit for everyone, making it a convenient choice among
+  local sushi restaurants. The moderate pricing adds to its appeal, providing an
+  affordable way to enjoy high-quality meals in a laid-back setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About This Chula Vista Sushi Spot$$$Folks heading to
+  this sushi restaurant in Chula Vista often highlight the delicious appetizers
+  like spicy edamame and miso soup that set a great tone for the meal. Many
+  appreciate the creative sushi rolls and hearty hot dishes, such as chicken
+  katsu and teriyaki bowls, which deliver bold flavors and satisfying portions.
+  The warm atmosphere and friendly service frequently get nods for making dining
+  out feel enjoyable and relaxed. While some mention occasional inconsistencies
+  in service, the overall experience remains positive and worth trying for
+  anyone on the hunt for top-rated sushi nearby. If you're exploring sushi
+  places near me, this location earns solid praise for its tasty offerings and
+  welcoming vibe.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +300,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

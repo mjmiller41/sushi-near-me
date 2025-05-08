@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Sakana - Plano"
+title: Sushi Sakana - Plano
 permalink: /texas/plano/sushi-sakana-plano.html
 stateAbbr: TX
 stateName: Texas
 cityName: Plano
 seo:
-  name: "Sushi Sakana - Plano"
-  type: Restaurant
-  links: null
-description: "Sushi Sakana - Plano serves delicious sushi in Plano, Texas. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.sushisakanatx.com/
 place_id: ChIJ1xODt2YYTIYRaFRvjiHv_cE
 photos:
   - name: >-
@@ -170,22 +168,171 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x864c1866b78313d7:0xc1fdef218e6f5468!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 10:00 PM'
+    - 'Tuesday: 11:00 AM – 10:00 PM'
+    - 'Wednesday: 11:00 AM – 10:00 PM'
+    - 'Thursday: 11:00 AM – 10:00 PM'
+    - 'Friday: 11:00 AM – 11:00 PM'
+    - 'Saturday: 11:00 AM – 11:00 PM'
+    - 'Sunday: 12:00 – 10:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+  - openNow: false
+    periods:
+      - open:
+          day: 1
+          hour: 16
+          minute: 30
+        close:
+          day: 1
+          hour: 18
+          minute: 0
+      - open:
+          day: 2
+          hour: 16
+          minute: 30
+        close:
+          day: 2
+          hour: 18
+          minute: 0
+      - open:
+          day: 3
+          hour: 16
+          minute: 30
+        close:
+          day: 3
+          hour: 18
+          minute: 0
+      - open:
+          day: 4
+          hour: 16
+          minute: 30
+        close:
+          day: 4
+          hour: 18
+          minute: 0
+      - open:
+          day: 5
+          hour: 16
+          minute: 30
+        close:
+          day: 5
+          hour: 18
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 4:30 – 6:00 PM'
+      - 'Tuesday: 4:30 – 6:00 PM'
+      - 'Wednesday: 4:30 – 6:00 PM'
+      - 'Thursday: 4:30 – 6:00 PM'
+      - 'Friday: 4:30 – 6:00 PM'
+      - 'Saturday: Closed'
+      - 'Sunday: Closed'
+    secondaryHoursType: HAPPY_HOUR
+    nextOpenTime: '2025-05-05T21:30:00Z'
+phone: (972) 398-1790
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.6'
+rating_count: 568
+website: http://www.sushisakanatx.com/
+description: >-
+  Discover Sushi Sakana in Plano, TX$$$Sushi Sakana in Plano, Texas, stands out
+  as a welcoming hub for authentic Japanese dining, featuring an array of fresh
+  sushi rolls and traditional fare in a relaxed environment. This spot enhances
+  your meal with convenient amenities like free Wi-Fi, making it ideal for
+  casual lunches or evening gatherings with friends. Patrons appreciate the
+  accessible design, including wheelchair-friendly entrances and seating,
+  ensuring everyone can enjoy the experience comfortably. The menu highlights
+  flavorful options that cater to sushi enthusiasts, from creative rolls to
+  classic dishes, all prepared with quality ingredients. Whether you're seeking
+  top-rated sushi restaurants nearby, this location combines affordability with
+  a cozy vibe that keeps locals coming back for more.
+generative_summary: >-
+  Discover Sushi Sakana in Plano, TX$$$Sushi Sakana in Plano, Texas, stands out
+  as a welcoming hub for authentic Japanese dining, featuring an array of fresh
+  sushi rolls and traditional fare in a relaxed environment. This spot enhances
+  your meal with convenient amenities like free Wi-Fi, making it ideal for
+  casual lunches or evening gatherings with friends. Patrons appreciate the
+  accessible design, including wheelchair-friendly entrances and seating,
+  ensuring everyone can enjoy the experience comfortably. The menu highlights
+  flavorful options that cater to sushi enthusiasts, from creative rolls to
+  classic dishes, all prepared with quality ingredients. Whether you're seeking
+  top-rated sushi restaurants nearby, this location combines affordability with
+  a cozy vibe that keeps locals coming back for more.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About This Spot$$$Visitors often rave about the
+  fresh and tasty sushi at this popular eatery, with standout rolls delivering a
+  burst of flavors that make every bite memorable. Many note the variety of
+  Japanese dishes like tempura and gyoza, which pair perfectly with the main
+  attractions and add to the overall dining adventure. The staff comes across as
+  friendly and attentive, creating a warm atmosphere that makes meals feel more
+  enjoyable and relaxed. Folks appreciate the inviting setting that encourages
+  casual get-togethers, helping to elevate the experience beyond just the food.
+  If you're on the hunt for reliable sushi places near you, this spot
+  consistently earns praise for its solid offerings and welcoming vibe, making
+  it a go-to choice for a satisfying meal.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +358,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

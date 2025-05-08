@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kassai Sushi"
+title: Kassai Sushi
 permalink: /colorado/denver/kassai-sushi.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Denver
 seo:
-  name: "Kassai Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://eatkassaisushi.com/
-description: "Cool sushi house crafting traditional rolls & Japanese entrees in an unassuming locale. Kassai Sushi serves delicious sushi in Denver, Colorado. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJv7sw8Cl9bIcRit-qPNvcT9g
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: null
 rating: '4.4'
 rating_count: 0
 website: http://eatkassaisushi.com/
+description: >-
+  Discover Kassai Sushi in Denver, CO$$$Kassai Sushi in Denver, CO, is a
+  welcoming neighborhood spot renowned for its authentic Japanese flavors and
+  fresh sushi offerings. This unassuming eatery specializes in a variety of
+  small plates and sake selections, making it an ideal choice for those
+  exploring top-rated sushi restaurants in the area. With happy-hour specials
+  that enhance the dining experience, it caters to casual meals or relaxed
+  gatherings, emphasizing quality ingredients and a cozy atmosphere.
+  Accessibility features like wheelchair-friendly seating add to its appeal,
+  ensuring a comfortable visit for everyone seeking sushi near me in this
+  vibrant city.
+generative_summary: >-
+  Discover Kassai Sushi in Denver, CO$$$Kassai Sushi in Denver, CO, is a
+  welcoming neighborhood spot renowned for its authentic Japanese flavors and
+  fresh sushi offerings. This unassuming eatery specializes in a variety of
+  small plates and sake selections, making it an ideal choice for those
+  exploring top-rated sushi restaurants in the area. With happy-hour specials
+  that enhance the dining experience, it caters to casual meals or relaxed
+  gatherings, emphasizing quality ingredients and a cozy atmosphere.
+  Accessibility features like wheelchair-friendly seating add to its appeal,
+  ensuring a comfortable visit for everyone seeking sushi near me in this
+  vibrant city.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJv7sw8Cl9bIcRit-qPNvcT9g/reviews/ChdDSUhNMG9nS0VJQ0FnSUR2LVl6OGh3RRAB
@@ -344,6 +365,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUR3N3ItV253RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUR3N3ItV253RRAB!2m1!1s0x876c7d29f030bbbf:0xd84fdcdb3caadf8a
+review_summary: >-
+  What Guests Are Saying About Kassai Sushi$$$Folks often rave about the fresh
+  and generously portioned sushi rolls that make every bite a highlight, turning
+  meals into memorable occasions for date nights or friend get-togethers. Many
+  appreciate the friendly service and welcoming vibe that keeps the energy
+  positive and engaging, with plenty of praise for the flavorful appetizers and
+  overall value. While a few mentions point to occasional waits during busy
+  times, the general consensus leans toward it being a solid pick for quality
+  Japanese cuisine without breaking the bank. Overall, it's frequently
+  recommended as one of the go-to sushi places near me for anyone wanting a
+  reliable and enjoyable dining spot that delivers on taste and atmosphere.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   valetParking: false
@@ -375,8 +408,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Cool sushi house crafting traditional rolls & Japanese entrees in an
   unassuming locale.
 

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "JMK Nippon"
+title: JMK Nippon
 permalink: /illinois/rockford/jmk-nippon.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Rockford
 seo:
-  name: "JMK Nippon"
-  type: Restaurant
+  type: restaurant
   links: http://jmkrockford.com/
-description: "Sleek Japanese spot featuring tableside grills, sushi, traditional Japanese mains & bento boxes. JMK Nippon serves delicious sushi in Rockford, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJxcyzlp25CIgROtsywk16nR0
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: null
 rating: '4.4'
 rating_count: 0
 website: http://jmkrockford.com/
+description: >-
+  Experience JMK Nippon in Rockford, IL$$$JMK Nippon in Rockford, Illinois,
+  stands out as a cozy Japanese restaurant blending traditional flavors with
+  interactive dining options, making it a go-to spot for fresh sushi and
+  hibachi-style meals. This welcoming venue features a kid-friendly atmosphere
+  where families can enjoy teppanyaki grills and bento boxes, all prepared with
+  attention to authentic tastes and accessibility features like
+  wheelchair-friendly seating. Diners appreciate the variety of Japanese dishes
+  that highlight fresh ingredients and moderate pricing, positioning it as one
+  of the top sushi restaurants in the area for those seeking quality options
+  close to home. Whether you're in the mood for classic rolls or sizzling
+  entrees, the restaurant's focus on a comfortable setting ensures a memorable
+  meal that caters to both casual visitors and groups.
+generative_summary: >-
+  Experience JMK Nippon in Rockford, IL$$$JMK Nippon in Rockford, Illinois,
+  stands out as a cozy Japanese restaurant blending traditional flavors with
+  interactive dining options, making it a go-to spot for fresh sushi and
+  hibachi-style meals. This welcoming venue features a kid-friendly atmosphere
+  where families can enjoy teppanyaki grills and bento boxes, all prepared with
+  attention to authentic tastes and accessibility features like
+  wheelchair-friendly seating. Diners appreciate the variety of Japanese dishes
+  that highlight fresh ingredients and moderate pricing, positioning it as one
+  of the top sushi restaurants in the area for those seeking quality options
+  close to home. Whether you're in the mood for classic rolls or sizzling
+  entrees, the restaurant's focus on a comfortable setting ensures a memorable
+  meal that caters to both casual visitors and groups.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJxcyzlp25CIgROtsywk16nR0/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3cXZLaGxRRRAB
@@ -348,6 +373,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNnajlPOUJBEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNnajlPOUJBEAE!2m1!1s0x8808b99d96b3ccc5:0x1d9d7a4dc232db3a
+review_summary: >-
+  Visitor Feedback on JMK Nippon$$$Visitors often rave about the fun,
+  interactive hibachi experiences and the tasty sushi rolls that make this spot
+  a solid choice for Japanese cuisine lovers. Many highlight the flavorful
+  dishes and great service, noting that the food consistently delivers on
+  freshness and variety, with highlights like steak and tempura options that
+  keep people coming back. While some mention that portion sizes can feel a bit
+  overwhelming or that the atmosphere might get smoky at times, the overall vibe
+  remains enjoyable and family-oriented, encouraging folks to try it for a
+  lively dining adventure. It's clear that the restaurant shines for its
+  welcoming energy and solid food quality, making it a recommended stop for
+  anyone exploring sushi places nearby, as long as you go in with an appetite
+  for bold flavors and a fun show.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -381,8 +420,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Sleek Japanese spot featuring tableside grills, sushi, traditional Japanese
   mains & bento boxes.
 

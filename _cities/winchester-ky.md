@@ -5,4 +5,5 @@ permalink: /kentucky/winchester/
 stateAbbr: KY
 stateName: Kentucky
 cityName: Winchester
+
 ---

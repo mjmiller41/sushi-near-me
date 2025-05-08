@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Fuji Sushi & Hibachi"
+title: Fuji Sushi & Hibachi
 permalink: /wisconsin/middleton/fuji-sushi-hibachi.html
 stateAbbr: WI
 stateName: Wisconsin
 cityName: Middleton
 seo:
-  name: "Fuji Sushi & Hibachi"
-  type: Restaurant
-  links: null
-description: "Fuji Sushi & Hibachi serves delicious sushi in Middleton, Wisconsin. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.fujimiddleton.com/
 place_id: ChIJK5y3mTavB4gRTX7Sz42jjY8
 photos:
   - name: >-
@@ -170,22 +168,219 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8807af3699b79c2b:0x8f8da38dcfd27e4d!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 2:30 PM, 4:30 – 9:30 PM'
+    - 'Tuesday: Closed'
+    - 'Wednesday: 11:00 AM – 2:30 PM, 4:30 – 9:30 PM'
+    - 'Thursday: 11:00 AM – 2:30 PM, 4:30 – 9:30 PM'
+    - 'Friday: 11:00 AM – 9:30 PM'
+    - 'Saturday: 11:00 AM – 9:30 PM'
+    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 11
+          minute: 0
+        close:
+          day: 0
+          hour: 21
+          minute: 0
+      - open:
+          day: 1
+          hour: 11
+          minute: 0
+        close:
+          day: 1
+          hour: 14
+          minute: 30
+      - open:
+          day: 1
+          hour: 16
+          minute: 30
+        close:
+          day: 1
+          hour: 21
+          minute: 30
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 14
+          minute: 30
+      - open:
+          day: 3
+          hour: 16
+          minute: 30
+        close:
+          day: 3
+          hour: 21
+          minute: 30
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 14
+          minute: 30
+      - open:
+          day: 4
+          hour: 16
+          minute: 30
+        close:
+          day: 4
+          hour: 21
+          minute: 30
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 22
+          minute: 0
+      - open:
+          day: 6
+          hour: 11
+          minute: 0
+        close:
+          day: 6
+          hour: 22
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 11:00 AM – 2:30 PM, 4:30 – 9:30 PM'
+      - 'Tuesday: Closed'
+      - 'Wednesday: 11:00 AM – 2:30 PM, 4:30 – 9:30 PM'
+      - 'Thursday: 11:00 AM – 2:30 PM, 4:30 – 9:30 PM'
+      - 'Friday: 11:00 AM – 10:00 PM'
+      - 'Saturday: 11:00 AM – 10:00 PM'
+      - 'Sunday: 11:00 AM – 9:00 PM'
+    secondaryHoursType: TAKEOUT
+    nextCloseTime: '2025-05-04T03:00:00Z'
+phone: (608) 827-8898
+price_level: PRICE_LEVEL_EXPENSIVE
+price_range: $20 &ndash; $30
+rating: '4.2'
+rating_count: 1185
+website: http://www.fujimiddleton.com/
+description: >-
+  Discover Fuji Sushi & Hibachi in Middleton, Wisconsin$$$Fuji Sushi & Hibachi
+  in Middleton, Wisconsin, stands out as a welcoming spot for enjoying fresh
+  Japanese-inspired dishes in a relaxed setting. This sushi restaurant features
+  an array of creative rolls, flavorful teriyaki options, sizzling hibachi
+  meals, and refreshing cocktails, making it ideal for casual dinners or quick
+  outings. With its accessible design and convenient location in a vibrant
+  neighborhood, it's easy to see why it's a favorite among those seeking quality
+  sushi experiences nearby. The spot emphasizes affordability and variety,
+  offering something for everyone from light lunches to hearty evening meals.
+  Whether you're exploring top-rated Japanese places in the area, it's a go-to
+  choice for authentic flavors that keep diners coming back.
+generative_summary: >-
+  Discover Fuji Sushi & Hibachi in Middleton, Wisconsin$$$Fuji Sushi & Hibachi
+  in Middleton, Wisconsin, stands out as a welcoming spot for enjoying fresh
+  Japanese-inspired dishes in a relaxed setting. This sushi restaurant features
+  an array of creative rolls, flavorful teriyaki options, sizzling hibachi
+  meals, and refreshing cocktails, making it ideal for casual dinners or quick
+  outings. With its accessible design and convenient location in a vibrant
+  neighborhood, it's easy to see why it's a favorite among those seeking quality
+  sushi experiences nearby. The spot emphasizes affordability and variety,
+  offering something for everyone from light lunches to hearty evening meals.
+  Whether you're exploring top-rated Japanese places in the area, it's a go-to
+  choice for authentic flavors that keep diners coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What People Are Buzzing About This Sushi Spot$$$Visitors to this Middleton
+  sushi restaurant often highlight the fresh ingredients and well-prepared
+  dishes as standout features, creating a satisfying meal every time. Many
+  appreciate the generous portions and reasonable prices, making it a solid pick
+  for families or groups looking for a laid-back vibe. Feedback frequently
+  praises the friendly service and efficient atmosphere, adding to the overall
+  enjoyment without any major drawbacks. While opinions vary slightly, the
+  consensus leans positive, with folks enjoying the mix of traditional and
+  innovative options that cater to sushi lovers. If you're on the hunt for
+  reliable Japanese cuisine close to home, this place delivers a consistently
+  enjoyable experience that's worth trying out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +406,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

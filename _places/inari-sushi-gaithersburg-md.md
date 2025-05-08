@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Inari Sushi"
+title: Inari Sushi
 permalink: /maryland/gaithersburg/inari-sushi.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Gaithersburg
 seo:
-  name: "Inari Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.inarisushitogo.com/
-description: "Inari Sushi serves delicious sushi in Gaithersburg, Maryland. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJrzopTNMttokR3QTyuvxf3Ug
 photos:
   - name: >-
@@ -184,6 +182,33 @@ price_range: $10 &ndash; $20
 rating: '4.7'
 rating_count: 0
 website: http://www.inarisushitogo.com/
+description: >-
+  Discover Inari Sushi in Gaithersburg, MD$$$Inari Sushi in Gaithersburg, MD,
+  stands out as a welcoming spot for fresh Japanese flavors, blending cozy vibes
+  with a focus on quality sushi and beverages. This eatery specializes in a
+  variety of artfully prepared sushi rolls and refreshing bubble tea, making it
+  a go-to choice for those seeking authentic tastes in a relaxed setting. With
+  thoughtful accessibility features like wheelchair-friendly entrances and
+  parking, it's designed to accommodate everyone looking for a convenient dining
+  experience. The moderate pricing adds to its appeal, offering great value for
+  flavorful options that highlight fresh ingredients and creative presentations.
+  Whether you're exploring sushi places near me or craving a casual Japanese
+  meal, this location delivers a satisfying blend of tradition and
+  accessibility.
+generative_summary: >-
+  Discover Inari Sushi in Gaithersburg, MD$$$Inari Sushi in Gaithersburg, MD,
+  stands out as a welcoming spot for fresh Japanese flavors, blending cozy vibes
+  with a focus on quality sushi and beverages. This eatery specializes in a
+  variety of artfully prepared sushi rolls and refreshing bubble tea, making it
+  a go-to choice for those seeking authentic tastes in a relaxed setting. With
+  thoughtful accessibility features like wheelchair-friendly entrances and
+  parking, it's designed to accommodate everyone looking for a convenient dining
+  experience. The moderate pricing adds to its appeal, offering great value for
+  flavorful options that highlight fresh ingredients and creative presentations.
+  Whether you're exploring sushi places near me or craving a casual Japanese
+  meal, this location delivers a satisfying blend of tradition and
+  accessibility.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJrzopTNMttokR3QTyuvxf3Ug/reviews/ChdDSUhNMG9nS0VJQ0FnTURJNm9ud3FnRRAB
@@ -345,6 +370,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNKaFBiS05nEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNKaFBiS05nEAE!2m1!1s0x89b62dd34c293aaf:0x48dd5ffcbaf204dd
+review_summary: >-
+  What Visitors Are Saying$$$Folks who stop by Inari Sushi often rave about the
+  fresh and tasty sushi rolls, with many highlighting the generous portions and
+  well-prepared dishes like teriyaki and udon that hit the spot just right. The
+  friendly service stands out too, creating a welcoming atmosphere that makes
+  dining or takeout feel effortless and enjoyable. While most feedback leans
+  positive, a few mention that prices might feel a bit steep compared to other
+  options, though the overall quality keeps drawing people back. It's clear this
+  spot earns its high marks for reliable flavors and variety, making it a solid
+  pick for anyone hunting for top-rated sushi nearby. All in all, if you're in
+  the mood for reliable Japanese eats, this place comes highly recommended for
+  its consistent appeal and customer-friendly vibe.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -376,7 +414,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

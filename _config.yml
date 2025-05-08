@@ -21,28 +21,48 @@
 title: Sushi Near Me U.S.
 publisher: Sushi Near Me U.S.
 email: sushinearme.us@gmail.com
-logo: /assets/images/sushi_icon_pink.png
+logo: /assets/images/sushi_icon.png
+logo_icon: icons/sushi_icon.svg
+place_focus: sushi
+place_type: Sushi Restaurant # used in liquid as singular or plural i.e. steakhouse(s)
 description: >- # this means to ignore newlines until "baseurl:"
   Find the best sushi restaurants near you with Sushi-Near-Me.us, your ultimate directory for sushi spots across the US. Explore top-rated sushi bars, local favorites, and hidden gems in every state. Search by location, browse menus, and satisfy your sushi cravings today!
 baseurl: '' # the subpath of your site, e.g. /blog
+domain: 'Sushi-near-me.us'
 url: 'https://www.sushi-near-me.us' # the site's hostname & protocol, e.g. http://example.com
 google_analytics: 'G-9Q8C2EW976'
-
-# twitter_username: jekyllrb
-# github_username: jekyll
+google_site_verification: kWh0myIj2h7tZzeAhHqsZF-Z8CzdZh8Cnp79KIDjwd8
 
 # Build settings
 # theme:
 plugins:
   - jekyll-seo-tag
-  - jekyll-last-modified-at
   - jekyll-sitemap
+
+jekyll-seo-tag:
+  defaults:
+    og:type: website
 
 header_pages:
   - index.html
   - search.html
   - about.md
   - contact.html
+
+keywords:
+  - sushi near me
+  - sushi restaurants
+  - sushi close to me
+  - best sushi near me
+  - sushi restaurants near me
+  - japanese places near me
+  - sushi places near me
+  - I love sushi
+  - top rated sushi
+
+social:
+#   twitter_username: jekyllrb
+#   github_username: jekyll
 
 collections:
   states:
@@ -53,12 +73,17 @@ collections:
     output: true
 
 exclude:
+  - gemfiles/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
   - .sass-cache/
   - .jekyll-cache/
   - Gemfile
   - Gemfile.lock
   - node_modules/
-  - sushi_places_bk.json
+  - _backend/
   - README.md
   - package.json
   - package-lock.json

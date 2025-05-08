@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Takei Bamboo Sushi"
+title: Takei Bamboo Sushi
 permalink: /new-jersey/wayne/takei-bamboo-sushi.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Wayne
 seo:
-  name: "Takei Bamboo Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://bambootakeisushi.com/
-description: "Takei Bamboo Sushi serves delicious sushi in Wayne, New Jersey. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJjxhRc9UDw4kRqD55tRyxGQc
 photos:
   - name: >-
@@ -185,6 +183,35 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 0
 website: http://bambootakeisushi.com/
+description: >-
+  Discover Takei Bamboo Sushi in Wayne, NJ$$$Nestled in Wayne, NJ, Takei Bamboo
+  Sushi stands out as a welcoming spot for enjoying fresh sushi and Japanese
+  cuisine, offering a variety of rolls in a comfortable, relaxed environment.
+  This casual eatery highlights an array of creative dishes that blend
+  traditional flavors with everyday appeal, making it a go-to choice for anyone
+  searching for quality sushi options nearby. Visitors can savor the cozy
+  setting while indulging in meticulously prepared rolls and other Japanese
+  favorites, all designed to provide a satisfying dining experience.
+  Accessibility features like wheelchair-friendly entrances and parking add to
+  its appeal for a broad audience, ensuring everyone can enjoy the fresh
+  ingredients and thoughtful presentation. Whether you're exploring top-rated
+  sushi restaurants in the area or simply craving a reliable meal, this spot
+  delivers on freshness and variety that keeps locals coming back.
+generative_summary: >-
+  Discover Takei Bamboo Sushi in Wayne, NJ$$$Nestled in Wayne, NJ, Takei Bamboo
+  Sushi stands out as a welcoming spot for enjoying fresh sushi and Japanese
+  cuisine, offering a variety of rolls in a comfortable, relaxed environment.
+  This casual eatery highlights an array of creative dishes that blend
+  traditional flavors with everyday appeal, making it a go-to choice for anyone
+  searching for quality sushi options nearby. Visitors can savor the cozy
+  setting while indulging in meticulously prepared rolls and other Japanese
+  favorites, all designed to provide a satisfying dining experience.
+  Accessibility features like wheelchair-friendly entrances and parking add to
+  its appeal for a broad audience, ensuring everyone can enjoy the fresh
+  ingredients and thoughtful presentation. Whether you're exploring top-rated
+  sushi restaurants in the area or simply craving a reliable meal, this spot
+  delivers on freshness and variety that keeps locals coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJjxhRc9UDw4kRqD55tRyxGQc/reviews/ChZDSUhNMG9nS0VJQ0FnSURyNEphNmN3EAE
@@ -384,6 +411,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNCMWRQNlVnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNCMWRQNlVnEAE!2m1!1s0x89c303d57351188f:0x719b11cb5793ea8
+review_summary: >-
+  What Visitors Love About the Reviews$$$From the feedback shared, folks seem to
+  really enjoy the fresh and flavorful sushi at this spot, often highlighting
+  how it hits the mark for a satisfying meal without any fuss. Many appreciate
+  the welcoming vibe and attentive service that make dining here feel special,
+  like when staff go the extra mile to accommodate preferences. Reviewers
+  frequently mention the clean, cozy atmosphere and easy parking as bonuses that
+  enhance the overall experience, turning it into a hidden favorite for casual
+  get-togethers. While some note that wait times for orders can vary, the
+  general consensus praises the quality and creativity of the dishes,
+  encouraging others to try more from the menu. Overall, it's clear this place
+  earns its loyal following by delivering solid Japanese flavors in a relaxed
+  setting, making it a solid pick for anyone in the mood for good sushi nearby.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -415,7 +456,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

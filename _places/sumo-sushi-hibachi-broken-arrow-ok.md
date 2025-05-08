@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sumo Sushi & Hibachi"
+title: Sumo Sushi & Hibachi
 permalink: /oklahoma/broken-arrow/sumo-sushi-hibachi.html
 stateAbbr: OK
 stateName: Oklahoma
 cityName: Broken Arrow
 seo:
-  name: "Sumo Sushi & Hibachi"
-  type: Restaurant
+  type: restaurant
   links: http://sumosushibrokenarrow.com/
-description: "Sumo Sushi & Hibachi serves delicious sushi in Broken Arrow, Oklahoma. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJaas6kayLtocRkq1EmydHFoY
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x87b68bac913aab69:0x861647279b44ad92!10e5
 primary_type: Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:30 PM'
     - 'Tuesday: Closed'
     - 'Wednesday: 11:00 AM – 9:30 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:30 PM'
     - 'Saturday: 11:00 AM – 10:30 PM'
     - 'Sunday: 11:00 AM – 9:30 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:30 PM'
-    - 'Tuesday: Closed'
-    - 'Wednesday: 11:00 AM – 9:30 PM'
-    - 'Thursday: 11:00 AM – 9:30 PM'
-    - 'Friday: 11:00 AM – 10:30 PM'
-    - 'Saturday: 11:00 AM – 10:30 PM'
-    - 'Sunday: 11:00 AM – 9:30 PM'
+  nextCloseTime: '2025-05-04T03:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +238,50 @@ phone: (918) 893-1881
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.5'
-rating_count: 0
+rating_count: 483
 website: http://sumosushibrokenarrow.com/
+description: >-
+  Experience Sumo Sushi & Hibachi in Broken Arrow, OK$$$Nestled in Broken Arrow,
+  OK, Sumo Sushi & Hibachi offers a delightful array of Japanese-inspired dishes
+  in a relaxed and welcoming atmosphere. This spot features fresh sushi rolls,
+  flavorful hibachi options like grilled chicken, hearty udon noodles, and
+  convenient bento boxes, making it a go-to for authentic flavors without the
+  formality. With accessibility features such as wheelchair-friendly parking and
+  entrances, it's designed to accommodate all visitors comfortably. The
+  restaurant maintains open hours that cater to lunch and dinner crowds,
+  ensuring you can enjoy a satisfying meal any day of the week. Whether you're
+  exploring sushi places near me or seeking top-rated Japanese fare, this
+  location combines quality ingredients with an informal vibe for an enjoyable
+  dining experience.
+generative_summary: >-
+  Experience Sumo Sushi & Hibachi in Broken Arrow, OK$$$Nestled in Broken Arrow,
+  OK, Sumo Sushi & Hibachi offers a delightful array of Japanese-inspired dishes
+  in a relaxed and welcoming atmosphere. This spot features fresh sushi rolls,
+  flavorful hibachi options like grilled chicken, hearty udon noodles, and
+  convenient bento boxes, making it a go-to for authentic flavors without the
+  formality. With accessibility features such as wheelchair-friendly parking and
+  entrances, it's designed to accommodate all visitors comfortably. The
+  restaurant maintains open hours that cater to lunch and dinner crowds,
+  ensuring you can enjoy a satisfying meal any day of the week. Whether you're
+  exploring sushi places near me or seeking top-rated Japanese fare, this
+  location combines quality ingredients with an informal vibe for an enjoyable
+  dining experience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Customer Feedback$$$Visitors to Sumo Sushi & Hibachi often
+  praise the fresh and well-prepared dishes, highlighting the tasty sushi and
+  hibachi selections as standout features in their casual dining outings. Many
+  appreciate the friendly service and efficient atmosphere, which make it a
+  solid choice for quick meals or group gatherings without any major hiccups.
+  Feedback frequently notes the reasonable prices and variety of options,
+  helping it stand out among sushi restaurants near me for those craving
+  reliable Japanese cuisine. Overall, the high ratings reflect a positive
+  experience with flavorful food and attentive staff, though some mention
+  occasional wait times during peak hours. If you're searching for best sushi
+  near me, this spot delivers a consistently enjoyable vibe that keeps locals
+  coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +307,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

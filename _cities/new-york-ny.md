@@ -5,4 +5,5 @@ permalink: /new-york/new-york/
 stateAbbr: NY
 stateName: New York
 cityName: New York
+
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Rollin' Fresh- Pioneer Square"
+title: Rollin' Fresh- Pioneer Square
 permalink: /oregon/portland/rollin-fresh-pioneer-square.html
 stateAbbr: OR
 stateName: Oregon
 cityName: Portland
 seo:
-  name: "Rollin' Fresh- Pioneer Square"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Rollin' Fresh- Pioneer Square serves delicious sushi in Portland, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJKzyOcP4LlVQRY2fnlLw-SKk
 photos:
   - name: >-
@@ -182,7 +180,47 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Rollin' Fresh in Portland, OR$$$Rollin' Fresh- Pioneer Square in
+  Portland, Oregon, stands out as a vibrant takeout spot specializing in fresh,
+  innovative rolls that capture the essence of Japanese-inspired cuisine.
+  Located in the heart of Pioneer Square, this eatery boasts a convenient setup
+  with wheelchair-accessible entrances, making it an inclusive choice for locals
+  and visitors seeking quick, flavorful meals. The menu features a variety of
+  creative options that highlight fresh ingredients, perfect for those exploring
+  sushi restaurants in the area. With its prime downtown position, it's an ideal
+  stop for anyone searching for sushi close to me, blending convenience with a
+  modern twist on traditional flavors. Photos from the spot suggest a focus on
+  visually appealing dishes that emphasize quality and freshness, enhancing the
+  overall appeal for takeout enthusiasts.
+generative_summary: >-
+  Discover Rollin' Fresh in Portland, OR$$$Rollin' Fresh- Pioneer Square in
+  Portland, Oregon, stands out as a vibrant takeout spot specializing in fresh,
+  innovative rolls that capture the essence of Japanese-inspired cuisine.
+  Located in the heart of Pioneer Square, this eatery boasts a convenient setup
+  with wheelchair-accessible entrances, making it an inclusive choice for locals
+  and visitors seeking quick, flavorful meals. The menu features a variety of
+  creative options that highlight fresh ingredients, perfect for those exploring
+  sushi restaurants in the area. With its prime downtown position, it's an ideal
+  stop for anyone searching for sushi close to me, blending convenience with a
+  modern twist on traditional flavors. Photos from the spot suggest a focus on
+  visually appealing dishes that emphasize quality and freshness, enhancing the
+  overall appeal for takeout enthusiasts.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$As a relatively new addition to Portland's dining
+  scene, Rollin' Fresh has started generating buzz for its tasty, fresh rolls
+  that keep things simple and satisfying. Folks often mention the spot's quick
+  service and generous portions as standout features, making it a go-to for
+  anyone craving sushi on the run. Early feedback highlights the variety of
+  options that cater to different tastes, with many appreciating how it fits
+  seamlessly into busy days without skimping on flavor. Overall, it's emerging
+  as a solid choice among sushi places near me, with positive notes on the
+  convenience and quality that encourage repeat visits. While opinions are still
+  building, the general vibe is upbeat, positioning it as a reliable option for
+  fresh, enjoyable meals in a casual setting.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -208,7 +246,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -5,4 +5,5 @@ permalink: /kentucky/elizabethtown/
 stateAbbr: KY
 stateName: Kentucky
 cityName: Elizabethtown
+
 ---

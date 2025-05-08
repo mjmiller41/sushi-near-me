@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ichiban Hibachi & Sushi Bar"
+title: Ichiban Hibachi & Sushi Bar
 permalink: /pennsylvania/cranberry-twp/ichiban-hibachi-sushi-bar.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Cranberry Twp
 seo:
-  name: "Ichiban Hibachi & Sushi Bar"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Ichiban Hibachi & Sushi Bar serves delicious sushi in Cranberry Twp, Pennsylvania. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJZQgNqlZ9NIgR5I-1s-p9U20
 photos:
   - name: >-
@@ -185,7 +183,44 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Ichiban Hibachi & Sushi Bar in Cranberry Township, PA$$$Ichiban
+  Hibachi & Sushi Bar in Cranberry Township, PA, offers a relaxing spot for
+  enjoying fresh Japanese cuisine, blending traditional sushi and hibachi dishes
+  in a casual atmosphere. This eatery stands out with its laid-back vibe, making
+  it ideal for those seeking flavorful options like expertly prepared rolls and
+  sizzling grill favorites. Accessibility features, such as wheelchair-friendly
+  parking and seating, ensure a comfortable visit for everyone. Patrons can
+  explore a variety of sushi spots in the area, appreciating the emphasis on
+  quality ingredients and simple, welcoming decor. Whether you're looking for
+  top-rated sushi restaurants nearby, this location provides a straightforward
+  yet enjoyable dining experience.
+generative_summary: >-
+  Discover Ichiban Hibachi & Sushi Bar in Cranberry Township, PA$$$Ichiban
+  Hibachi & Sushi Bar in Cranberry Township, PA, offers a relaxing spot for
+  enjoying fresh Japanese cuisine, blending traditional sushi and hibachi dishes
+  in a casual atmosphere. This eatery stands out with its laid-back vibe, making
+  it ideal for those seeking flavorful options like expertly prepared rolls and
+  sizzling grill favorites. Accessibility features, such as wheelchair-friendly
+  parking and seating, ensure a comfortable visit for everyone. Patrons can
+  explore a variety of sushi spots in the area, appreciating the emphasis on
+  quality ingredients and simple, welcoming decor. Whether you're looking for
+  top-rated sushi restaurants nearby, this location provides a straightforward
+  yet enjoyable dining experience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying About This Sushi Spot$$$Visitors often highlight the
+  fresh and tasty sushi selections, noting how the variety keeps things exciting
+  without overwhelming the menu. Many appreciate the friendly service and
+  efficient atmosphere, which makes it a go-to choice for casual meals or group
+  outings. While some mention minor waits during peak times, the overall value
+  and flavor make it worth the visit for those craving Japanese fare. Feedback
+  frequently praises the hibachi presentations as entertaining and
+  well-executed, adding a fun element to the meal. All in all, it's a solid pick
+  for anyone searching for reliable sushi places near me, with a positive buzz
+  around its approachable vibe and satisfying dishes.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +246,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

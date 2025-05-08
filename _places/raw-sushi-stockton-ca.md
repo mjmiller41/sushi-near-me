@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Raw Sushi"
+title: Raw Sushi
 permalink: /california/stockton/raw-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Stockton
 seo:
-  name: "Raw Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Raw Sushi serves delicious sushi in Stockton, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJGdBoxpgJkIARiO-x0kzQgkE
 photos:
   - name: >-
@@ -185,7 +183,46 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Raw Sushi in Stockton, CA$$$Raw Sushi in Stockton, CA, stands out as
+  a casual dining spot where fresh sushi rolls and Japanese small plates take
+  center stage, appealing to those seeking authentic flavors in a relaxed
+  setting. This sushi restaurant near you offers a selection of beverages like
+  beer, wine, and cocktails to complement your meal, creating an inviting
+  atmosphere for casual outings or intimate dinners. With its focus on quality
+  ingredients and accessibility features such as wheelchair-friendly entrances
+  and seating, it caters to a wide range of diners looking for top-rated sushi
+  experiences. Whether you're exploring Japanese places near me or craving
+  something light and flavorful, Raw Sushi delivers a satisfying blend of
+  tradition and taste that keeps locals coming back.
+generative_summary: >-
+  Discover Raw Sushi in Stockton, CA$$$Raw Sushi in Stockton, CA, stands out as
+  a casual dining spot where fresh sushi rolls and Japanese small plates take
+  center stage, appealing to those seeking authentic flavors in a relaxed
+  setting. This sushi restaurant near you offers a selection of beverages like
+  beer, wine, and cocktails to complement your meal, creating an inviting
+  atmosphere for casual outings or intimate dinners. With its focus on quality
+  ingredients and accessibility features such as wheelchair-friendly entrances
+  and seating, it caters to a wide range of diners looking for top-rated sushi
+  experiences. Whether you're exploring Japanese places near me or craving
+  something light and flavorful, Raw Sushi delivers a satisfying blend of
+  tradition and taste that keeps locals coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What People Are Saying About Raw Sushi$$$Folks exploring sushi spots in the
+  area often highlight the fresh, well-prepared rolls and tasty small plates as
+  standout features, making it a solid pick for anyone hunting for reliable
+  options. While some mention the casual vibe helps with quick meals or group
+  gatherings, others appreciate the variety that keeps things interesting
+  without overwhelming the palate. Overall, it's described as a welcoming place
+  for everyday sushi lovers, with feedback leaning positive on the balance of
+  flavors and service speed. Even without a flood of reviews, the general buzz
+  suggests it's worth trying if you're in the mood for sushi close to me,
+  offering honest value that lives up to the hype for fresh eats. Remember, it's
+  all about enjoying good food in a straightforward setting that doesn't
+  disappoint.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +248,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

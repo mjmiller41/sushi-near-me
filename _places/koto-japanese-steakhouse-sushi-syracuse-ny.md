@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Koto Japanese Steakhouse & Sushi"
+title: Koto Japanese Steakhouse & Sushi
 permalink: /new-york/syracuse/koto-japanese-steakhouse-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: Syracuse
 seo:
-  name: "Koto Japanese Steakhouse & Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://kotodestiny.com/
-description: "Contemporary, family-friendly Japanese eatery featuring hibachi fare, sushi rolls & fusion entrees. Koto Japanese Steakhouse & Sushi serves delicious sushi in Syracuse, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ28pIXSny2YkR-V8fMR2tLyk
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $20 &ndash; $30
 rating: '4.0'
 rating_count: 0
 website: http://kotodestiny.com/
+description: >-
+  Discover Koto Japanese Steakhouse & Sushi in Syracuse, NY$$$Located in the
+  heart of Syracuse, NY, Koto Japanese Steakhouse & Sushi offers a contemporary
+  and family-friendly spot for enjoying fresh sushi and hibachi favorites. This
+  inviting eatery features a casual atmosphere where diners can savor a variety
+  of Japanese dishes, including fusion entrees and expertly prepared rolls, all
+  served in a welcoming environment with hibachi grills adding an interactive
+  flair. Accessibility is a key highlight, with options like wheelchair-friendly
+  parking and seating that make it easy for everyone to enjoy a meal. Whether
+  you're seeking top-rated sushi options near you or exploring Japanese places
+  that blend tradition with convenience, this spot delivers generous portions at
+  moderate prices, making it a go-to choice for casual dining outings.
+generative_summary: >-
+  Discover Koto Japanese Steakhouse & Sushi in Syracuse, NY$$$Located in the
+  heart of Syracuse, NY, Koto Japanese Steakhouse & Sushi offers a contemporary
+  and family-friendly spot for enjoying fresh sushi and hibachi favorites. This
+  inviting eatery features a casual atmosphere where diners can savor a variety
+  of Japanese dishes, including fusion entrees and expertly prepared rolls, all
+  served in a welcoming environment with hibachi grills adding an interactive
+  flair. Accessibility is a key highlight, with options like wheelchair-friendly
+  parking and seating that make it easy for everyone to enjoy a meal. Whether
+  you're seeking top-rated sushi options near you or exploring Japanese places
+  that blend tradition with convenience, this spot delivers generous portions at
+  moderate prices, making it a go-to choice for casual dining outings.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ28pIXSny2YkR-V8fMR2tLyk/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJNzhxTVB3EAE
@@ -366,6 +389,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNkcHRPbjBRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNkcHRPbjBRRRAB!2m1!1s0x89d9f2295d48cadb:0x292fad1d311f5ff9
+review_summary: >-
+  What Customers Are Saying$$$Visitors to Koto Japanese Steakhouse & Sushi often
+  rave about the generous portions and affordable prices that make for a
+  satisfying meal without breaking the bank. Many appreciate the quick service
+  and friendly staff, noting that the food arrives hot and fresh, perfect for a
+  casual lunch or dinner grab. While some mention minor timing issues like
+  feeling a bit rushed during busier times, the overall experience is praised
+  for its tasty sushi and hibachi dishes that leave folks feeling full and
+  happy. It's clear that the value here stands out, with plenty of positive
+  feedback on the flavorful options that cater to a range of tastes, from
+  vegetarian choices to hearty entrees. If you're hunting for reliable sushi
+  restaurants nearby, this place earns solid marks for delivering a consistently
+  enjoyable vibe that keeps customers coming back.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -397,8 +434,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Contemporary, family-friendly Japanese eatery featuring hibachi fare, sushi
   rolls & fusion entrees.
 

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Matsu"
+title: Matsu
 permalink: /new-york/new-york/matsu.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "Matsu"
-  type: Restaurant
-  links: null
-description: "Matsu serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://sushibymatsu.com/online-order/
 place_id: ChIJIbu_fMFYwokRRkYH8QHmg1o
 photos:
   - name: >-
@@ -169,8 +167,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c258c17cbfbb21:0x5a83e601f1074646!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 10:00 PM'
+    - 'Tuesday: 11:00 AM – 10:00 PM'
+    - 'Wednesday: 11:00 AM – 10:00 PM'
+    - 'Thursday: 11:00 AM – 10:00 PM'
+    - 'Friday: 11:00 AM – 10:00 PM'
+    - 'Saturday: 11:30 AM – 10:00 PM'
+    - 'Sunday: 11:30 AM – 10:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -178,13 +241,51 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
+phone: (212) 744-5454
+price_level: PRICE_LEVEL_MODERATE
 price_range: null
-rating: null
-rating_count: 0
-website: null
+rating: '4.2'
+rating_count: 402
+website: https://sushibymatsu.com/online-order/
+description: >-
+  Explore Matsu in New York, NY$$$Matsu in New York, NY, stands out as a cozy
+  haven for those seeking authentic Japanese flavors in a relaxed setting. This
+  sushi restaurant delights with fresh offerings like expertly crafted rolls and
+  bento boxes, complemented by a selection of beer and wine to enhance the
+  dining experience. Located in the bustling Upper East Side, it provides
+  convenient accessibility features such as wheelchair-friendly entrances and
+  seating, making it an inclusive choice for everyone. The spot maintains
+  welcoming hours from late morning through evening, ideal for a casual lunch or
+  intimate dinner. Whether you're exploring sushi spots in the city or looking
+  for Japanese-inspired meals nearby, Matsu combines simplicity and quality for
+  a memorable visit.
+generative_summary: >-
+  Explore Matsu in New York, NY$$$Matsu in New York, NY, stands out as a cozy
+  haven for those seeking authentic Japanese flavors in a relaxed setting. This
+  sushi restaurant delights with fresh offerings like expertly crafted rolls and
+  bento boxes, complemented by a selection of beer and wine to enhance the
+  dining experience. Located in the bustling Upper East Side, it provides
+  convenient accessibility features such as wheelchair-friendly entrances and
+  seating, making it an inclusive choice for everyone. The spot maintains
+  welcoming hours from late morning through evening, ideal for a casual lunch or
+  intimate dinner. Whether you're exploring sushi spots in the city or looking
+  for Japanese-inspired meals nearby, Matsu combines simplicity and quality for
+  a memorable visit.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Raving About$$$Folks checking out Matsu often highlight the
+  consistently fresh and flavorful sushi that keeps them coming back for more,
+  earning it solid nods as one of the top-rated options around. Many appreciate
+  the straightforward vibe and reliable service that make every meal feel
+  effortless and enjoyable, without any major hiccups reported. It's frequently
+  mentioned as a great pick for casual get-togethers or solo outings, with the
+  overall atmosphere adding to the appeal for those hunting for quality Japanese
+  places near me. While some note that portions could vary, the general
+  consensus leans positive, praising the value and taste that align with its
+  moderate pricing. All in all, if you're on the hunt for dependable sushi
+  restaurants in the area, Matsu delivers a satisfying experience worth trying.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +311,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

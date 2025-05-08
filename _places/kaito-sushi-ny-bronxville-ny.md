@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kaito Sushi NY"
+title: Kaito Sushi NY
 permalink: /new-york/bronxville/kaito-sushi-ny.html
 stateAbbr: NY
 stateName: New York
 cityName: Bronxville
 seo:
-  name: "Kaito Sushi NY"
-  type: Restaurant
-  links: null
-description: "Kaito Sushi NY serves delicious sushi in Bronxville, New York. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.kaitorestaurant.com/
 place_id: ChIJr103-rGSwokReSFy8SWUMpY
 photos:
   - name: >-
@@ -170,8 +168,113 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c292b1fa375daf:0x96329425f1722179!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 15
+        minute: 0
+    - open:
+        day: 0
+        hour: 16
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 12
+        minute: 0
+      close:
+        day: 2
+        hour: 15
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 12
+        minute: 0
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 12
+        minute: 0
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 12
+        minute: 0
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 15
+        minute: 0
+    - open:
+        day: 6
+        hour: 16
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: Closed'
+    - 'Tuesday: 12:00 – 3:00 PM, 4:30 – 9:30 PM'
+    - 'Wednesday: 12:00 – 3:00 PM, 4:30 – 9:30 PM'
+    - 'Thursday: 12:00 – 3:00 PM, 4:30 – 9:30 PM'
+    - 'Friday: 12:00 – 3:00 PM, 4:30 – 10:30 PM'
+    - 'Saturday: 12:00 – 3:00 PM, 4:30 – 10:30 PM'
+    - 'Sunday: 12:00 – 3:00 PM, 4:30 – 9:30 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +282,52 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
+phone: (914) 337-1296
 price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+price_range: $20 &ndash; $30
+rating: '4.1'
+rating_count: 126
+website: http://www.kaitorestaurant.com/
+description: >-
+  Discover Kaito Sushi in Bronxville, NY$$$Kaito Sushi in Bronxville, NY, stands
+  out as a welcoming spot for enjoying authentic Japanese cuisine, particularly
+  fresh sushi options that cater to those searching for top-rated sushi near
+  them. This casual restaurant features a variety of Japanese fare, including
+  expertly prepared rolls and dishes that highlight quality ingredients in a
+  relaxed, family-oriented setting. With accessibility features like
+  wheelchair-friendly parking and entrances, it's designed to accommodate all
+  visitors seeking convenient sushi places in the area. The establishment
+  operates with flexible hours, making it easy for locals to drop in for a
+  satisfying lunch or dinner, and its approachable vibe adds to the appeal for
+  anyone exploring sushi restaurants nearby.
+generative_summary: >-
+  Discover Kaito Sushi in Bronxville, NY$$$Kaito Sushi in Bronxville, NY, stands
+  out as a welcoming spot for enjoying authentic Japanese cuisine, particularly
+  fresh sushi options that cater to those searching for top-rated sushi near
+  them. This casual restaurant features a variety of Japanese fare, including
+  expertly prepared rolls and dishes that highlight quality ingredients in a
+  relaxed, family-oriented setting. With accessibility features like
+  wheelchair-friendly parking and entrances, it's designed to accommodate all
+  visitors seeking convenient sushi places in the area. The establishment
+  operates with flexible hours, making it easy for locals to drop in for a
+  satisfying lunch or dinner, and its approachable vibe adds to the appeal for
+  anyone exploring sushi restaurants nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About Kaito Sushi$$$Visitors to Kaito Sushi often
+  praise the fresh flavors and solid execution of the menu, making it a go-to
+  choice for folks hunting for reliable sushi close to them. Many appreciate the
+  friendly service and cozy atmosphere, which contribute to a generally positive
+  dining experience without any major complaints standing out. While some note
+  that portions could vary, the overall consensus leans toward enjoyment of the
+  authentic tastes and reasonable prices, earning it a solid reputation among
+  Japanese places near me. Feedback highlights the restaurant's ability to
+  deliver on expectations for quality sushi, with diners frequently returning
+  for the consistent vibe and tasty options. All in all, it's clear that this
+  spot holds up well for those looking for a straightforward and enjoyable meal
+  in a welcoming environment.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +353,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

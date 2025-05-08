@@ -5,4 +5,5 @@ permalink: /texas/carrollton/
 stateAbbr: TX
 stateName: Texas
 cityName: Carrollton
+
 ---

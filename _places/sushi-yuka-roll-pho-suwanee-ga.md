@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Yuka: Roll & Pho"
+title: 'Sushi Yuka: Roll & Pho'
 permalink: /georgia/suwanee/sushi-yuka-roll-pho.html
 stateAbbr: GA
 stateName: Georgia
 cityName: Suwanee
 seo:
-  name: "Sushi Yuka: Roll & Pho"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Strip-mall sushi house offering a wide array of specialty rolls, plus noodle soups & hibachi fare. Sushi Yuka: Roll & Pho serves delicious sushi in Suwanee, Georgia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJf78ZJn-99YgRKEdf3tMgsvQ
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $10 &ndash; $20
 rating: '4.3'
 rating_count: 0
 website: null
+description: >-
+  Explore Sushi Yuka in Suwanee, GA$$$Sushi Yuka: Roll & Pho in Suwanee, GA,
+  stands out as a welcoming spot for sushi enthusiasts seeking fresh
+  Japanese-inspired dishes in a casual setting. This strip-mall eatery offers a
+  diverse selection of specialty rolls, flavorful noodle soups, and hibachi
+  options, making it a go-to choice for those exploring sushi restaurants
+  nearby. With accessibility features like wheelchair-friendly parking and
+  entrances, it's designed for everyone to enjoy a relaxed meal. The menu
+  includes vegetarian-friendly choices, adding to its appeal for varied tastes,
+  while keeping prices affordable for everyday dining. Whether you're in the
+  mood for top-rated sushi or quick Japanese fare close to home, this place
+  delivers a satisfying experience with its straightforward vibe.
+generative_summary: >-
+  Explore Sushi Yuka in Suwanee, GA$$$Sushi Yuka: Roll & Pho in Suwanee, GA,
+  stands out as a welcoming spot for sushi enthusiasts seeking fresh
+  Japanese-inspired dishes in a casual setting. This strip-mall eatery offers a
+  diverse selection of specialty rolls, flavorful noodle soups, and hibachi
+  options, making it a go-to choice for those exploring sushi restaurants
+  nearby. With accessibility features like wheelchair-friendly parking and
+  entrances, it's designed for everyone to enjoy a relaxed meal. The menu
+  includes vegetarian-friendly choices, adding to its appeal for varied tastes,
+  while keeping prices affordable for everyday dining. Whether you're in the
+  mood for top-rated sushi or quick Japanese fare close to home, this place
+  delivers a satisfying experience with its straightforward vibe.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJf78ZJn-99YgRKEdf3tMgsvQ/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3OU1TRWpBRRAB
@@ -364,6 +387,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQ3bzVXVnNnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQ3bzVXVnNnRRAB!2m1!1s0x88f5bd7f2619bf7f:0xf4b220d3de5f4728
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors often praise Sushi Yuka for its tasty
+  rolls and reliable pho, with many mentioning great value and quick service
+  that keeps them returning for more. While there are occasional slip-ups like
+  inconsistencies in food preparation, the overall vibe leans positive,
+  especially for groups enjoying a laid-back meal. Folks appreciate the
+  attentive staff and welcoming atmosphere, making it a solid pick for casual
+  sushi spots in the area. Despite a few mentions of service challenges, the
+  highlights like fresh ingredients and variety help maintain an upbeat
+  reputation. If you're hunting for sushi places near me, this spot generally
+  delivers a enjoyable experience worth trying out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -396,8 +431,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Strip-mall sushi house offering a wide array of specialty rolls, plus noodle
   soups & hibachi fare.
 

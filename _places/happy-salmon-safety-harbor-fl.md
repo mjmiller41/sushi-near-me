@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Happy Salmon"
+title: Happy Salmon
 permalink: /florida/safety-harbor/happy-salmon.html
 stateAbbr: FL
 stateName: Florida
 cityName: Safety Harbor
 seo:
-  name: "Happy Salmon"
-  type: Restaurant
+  type: restaurant
   links: https://www.facebook.com/HappySalmonBar/
-description: "Happy Salmon serves delicious sushi in Safety Harbor, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, and dinner."
 place_id: ChIJ_xawMGDuwogRh8KSyGeUImM
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 0
 website: https://www.facebook.com/HappySalmonBar/
+description: >-
+  Discover Authentic Sushi at Happy Salmon in Safety Harbor$$$Happy Salmon in
+  Safety Harbor, FL, offers a welcoming escape for anyone craving fresh Japanese
+  flavors and top-rated sushi in a cozy setting. This spot delights with
+  high-quality rolls crafted from traditional techniques, featuring an array of
+  fresh ingredients that capture the essence of authentic dining. Visitors enjoy
+  the inviting outdoor seating and a selection of beverages like sake and beer,
+  making it ideal for casual gatherings or solo meals. With moderate pricing and
+  thoughtful accessibility features, it's a go-to choice for those exploring
+  sushi restaurants near me that prioritize genuine tastes and a relaxed vibe.
+  Overall, the focus on flavorful dishes and warm ambiance keeps this Japanese
+  place a favorite for repeat visits.
+generative_summary: >-
+  Discover Authentic Sushi at Happy Salmon in Safety Harbor$$$Happy Salmon in
+  Safety Harbor, FL, offers a welcoming escape for anyone craving fresh Japanese
+  flavors and top-rated sushi in a cozy setting. This spot delights with
+  high-quality rolls crafted from traditional techniques, featuring an array of
+  fresh ingredients that capture the essence of authentic dining. Visitors enjoy
+  the inviting outdoor seating and a selection of beverages like sake and beer,
+  making it ideal for casual gatherings or solo meals. With moderate pricing and
+  thoughtful accessibility features, it's a go-to choice for those exploring
+  sushi restaurants near me that prioritize genuine tastes and a relaxed vibe.
+  Overall, the focus on flavorful dishes and warm ambiance keeps this Japanese
+  place a favorite for repeat visits.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ_xawMGDuwogRh8KSyGeUImM/reviews/ChZDSUhNMG9nS0VJQ0FnTURJOEtpc1V3EAE
@@ -434,6 +457,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNObWNXZEJREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNObWNXZEJREAE!2m1!1s0x88c2ee6030b016ff:0x63229467c892c287
+review_summary: >-
+  What Guests Are Sharing About the Experience$$$If you're hunting for the best
+  sushi near me, folks often highlight the outstanding quality and authentic
+  flavors that make every bite feel like a mini adventure. While the sushi
+  stands out as a highlight, some mention occasional waits due to high demand,
+  though many agree it's worth the patience for the care put into each roll.
+  Overall, the vibe is praised for being laid-back and enjoyable, with plenty of
+  positive nods to the fresh options and welcoming atmosphere that encourage
+  return trips. Even with a few service hiccups on busier nights, the consensus
+  leans toward recommending it for its genuine appeal and satisfying meals. In a
+  nutshell, it's a solid pick for sushi enthusiasts looking for quality in a
+  casual spot, as long as you plan for a relaxed pace.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -465,7 +501,7 @@ serves_lunch: null
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

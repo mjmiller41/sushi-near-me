@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "The Basil Leaf Sushi and Thai Restaurant"
+title: The Basil Leaf Sushi and Thai Restaurant
 permalink: /north-carolina/high-point/the-basil-leaf-sushi-and-thai-restaurant.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: High Point
 seo:
-  name: "The Basil Leaf Sushi and Thai Restaurant"
-  type: Restaurant
+  type: restaurant
   links: http://www.lovethaibasil.com/
-description: "The Basil Leaf Sushi and Thai Restaurant serves delicious sushi in High Point, North Carolina. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ3dfiG-IFU4gRs62aSPabENw
 photos:
   - name: >-
@@ -170,22 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x885305e21be2d7dd:0xdc109bf6489aadb3!10e5
 primary_type: Thai Restaurant
 opening_hours:
-  regular:
-    - 'Monday: 11:30 AM – 9:00 PM'
-    - 'Tuesday: 11:30 AM – 9:00 PM'
-    - 'Wednesday: 11:30 AM – 9:00 PM'
-    - 'Thursday: 11:30 AM – 9:00 PM'
-    - 'Friday: 11:30 AM – 9:30 PM'
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: Closed'
+    - 'Tuesday: 11:00 AM – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 9:00 PM'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 9:30 PM'
     - 'Saturday: 12:00 – 9:30 PM'
     - 'Sunday: 12:00 – 9:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 9:00 PM'
-    - 'Tuesday: 11:30 AM – 9:00 PM'
-    - 'Wednesday: 11:30 AM – 9:00 PM'
-    - 'Thursday: 11:30 AM – 9:00 PM'
-    - 'Friday: 11:30 AM – 9:30 PM'
-    - 'Saturday: 12:00 – 9:30 PM'
-    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T01:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +238,51 @@ phone: (336) 807-1314
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.5'
-rating_count: 0
+rating_count: 641
 website: http://www.lovethaibasil.com/
+description: >-
+  Discover The Basil Leaf in High Point, NC$$$The Basil Leaf Sushi and Thai
+  Restaurant in High Point, NC, is a welcoming spot where diners can savor
+  authentic Thai specialties alongside fresh sushi options, all in a laid-back
+  environment perfect for casual meals. This restaurant stands out for its
+  diverse menu that blends flavorful Thai dishes with expertly crafted rolls,
+  complemented by a selection of beer, wine, and cocktails to enhance the
+  experience. With accessibility features like wheelchair-friendly parking and
+  entrances, it's designed to accommodate all guests comfortably. Operating
+  hours cater to both lunch and dinner crowds, making it an ideal choice for
+  those seeking quality Asian cuisine in a relaxed setting. Whether you're
+  exploring top-rated sushi places near you or looking for Japanese-inspired
+  flavors close to home, this establishment delivers a memorable dining
+  adventure.
+generative_summary: >-
+  Discover The Basil Leaf in High Point, NC$$$The Basil Leaf Sushi and Thai
+  Restaurant in High Point, NC, is a welcoming spot where diners can savor
+  authentic Thai specialties alongside fresh sushi options, all in a laid-back
+  environment perfect for casual meals. This restaurant stands out for its
+  diverse menu that blends flavorful Thai dishes with expertly crafted rolls,
+  complemented by a selection of beer, wine, and cocktails to enhance the
+  experience. With accessibility features like wheelchair-friendly parking and
+  entrances, it's designed to accommodate all guests comfortably. Operating
+  hours cater to both lunch and dinner crowds, making it an ideal choice for
+  those seeking quality Asian cuisine in a relaxed setting. Whether you're
+  exploring top-rated sushi places near you or looking for Japanese-inspired
+  flavors close to home, this establishment delivers a memorable dining
+  adventure.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Recent Reviews$$$Visitors to this popular sushi restaurant often
+  praise the fresh ingredients and bold flavors in the Thai and sushi
+  selections, making it a go-to for satisfying meals. Many appreciate the
+  friendly service and efficient atmosphere that keeps things running smoothly,
+  even during busy times. While some note minor waits during peak hours, the
+  overall consensus highlights great value for the price, with portions that
+  leave you feeling content. Feedback frequently mentions the inviting vibe as a
+  plus for casual outings or groups, encouraging repeat visits for those hunting
+  for the best sushi experiences nearby. All in all, it's clear that this spot
+  continues to win fans with its reliable quality and tasty offerings, ideal for
+  anyone searching for reliable sushi restaurants in the area.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +308,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

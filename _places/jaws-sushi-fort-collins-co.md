@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "JAWS sushi"
+title: JAWS sushi
 permalink: /colorado/fort-collins/jaws-sushi.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Fort Collins
 seo:
-  name: "JAWS sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.jawsfoco.com/
-description: "JAWS sushi serves delicious sushi in Fort Collins, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJe_Jlp0hKaYcRYEXSkEjNcIw
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x87694a48a765f27b:0x8c70cd4890d24560!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 45
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 45
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 45
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 45
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 20
+        minute: 45
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 20
+        minute: 45
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:00 AM – 8:45 PM'
     - 'Wednesday: 11:00 AM – 8:45 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 8:45 PM'
     - 'Saturday: 11:00 AM – 8:45 PM'
     - 'Sunday: 11:00 AM – 8:45 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:00 AM – 8:45 PM'
-    - 'Wednesday: 11:00 AM – 8:45 PM'
-    - 'Thursday: 11:00 AM – 8:45 PM'
-    - 'Friday: 11:00 AM – 8:45 PM'
-    - 'Saturday: 11:00 AM – 8:45 PM'
-    - 'Sunday: 11:00 AM – 8:45 PM'
+  nextCloseTime: '2025-05-04T02:45:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +238,234 @@ phone: (970) 682-2678
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.6'
-rating_count: 0
+rating_count: 1372
 website: http://www.jawsfoco.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover JAWS Sushi in Fort Collins, CO$$$JAWS Sushi in Fort Collins, CO,
+  stands out as a welcoming spot for fresh sushi and Japanese flavors, offering
+  a variety of rolls and other specialties that cater to diverse tastes. This
+  relaxed eatery features an eclectic atmosphere with nostalgic decor, making it
+  a go-to choice for anyone seeking authentic Japanese dining experiences in the
+  area. Patrons can enjoy a selection of sake and beer alongside their meals,
+  enhancing the overall vibe of casual elegance. The restaurant prioritizes
+  accessibility with features like wheelchair-friendly entrances and parking,
+  ensuring everyone can savor the best sushi options near you. With convenient
+  hours and a focus on quality ingredients, it's an ideal destination for
+  exploring top-rated sushi restaurants in Fort Collins.
+generative_summary: >-
+  Discover JAWS Sushi in Fort Collins, CO$$$JAWS Sushi in Fort Collins, CO,
+  stands out as a welcoming spot for fresh sushi and Japanese flavors, offering
+  a variety of rolls and other specialties that cater to diverse tastes. This
+  relaxed eatery features an eclectic atmosphere with nostalgic decor, making it
+  a go-to choice for anyone seeking authentic Japanese dining experiences in the
+  area. Patrons can enjoy a selection of sake and beer alongside their meals,
+  enhancing the overall vibe of casual elegance. The restaurant prioritizes
+  accessibility with features like wheelchair-friendly entrances and parking,
+  ensuring everyone can savor the best sushi options near you. With convenient
+  hours and a focus on quality ingredients, it's an ideal destination for
+  exploring top-rated sushi restaurants in Fort Collins.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJe_Jlp0hKaYcRYEXSkEjNcIw/reviews/ChdDSUhNMG9nS0VJQ0FnSURibHJ5UW13RRAB
+    relativePublishTimeDescription: 9 months ago
+    rating: 5
+    text:
+      text: >-
+        Beyond delicious. The restaurant has all kinds of nostalgic decor which
+        was amazing to see. This location is where my daughter tried her first
+        bite of sushi and we all loved what we ordered! The miso soup was super
+        tasty. My favorite sushi offered was the shrimp tempura. Would love to
+        see some type of sweet potato tempura or a tofu roll offered one day.
+        Delicious.
+      languageCode: en
+    originalText:
+      text: >-
+        Beyond delicious. The restaurant has all kinds of nostalgic decor which
+        was amazing to see. This location is where my daughter tried her first
+        bite of sushi and we all loved what we ordered! The miso soup was super
+        tasty. My favorite sushi offered was the shrimp tempura. Would love to
+        see some type of sweet potato tempura or a tofu roll offered one day.
+        Delicious.
+      languageCode: en
+    authorAttribution:
+      displayName: Ashley H
+      uri: https://www.google.com/maps/contrib/114138524971585932767/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjU41xSxOxhsgZ1qiIDi3SnE6PtHgFctTt3YMhntM2OL_HZ4JKbq=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-08-05T03:06:20.603616Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURibHJ5UW13RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURibHJ5UW13RRAB!2m1!1s0x87694a48a765f27b:0x8c70cd4890d24560
+  - name: >-
+      places/ChIJe_Jlp0hKaYcRYEXSkEjNcIw/reviews/ChdDSUhNMG9nS0VJQ0FnSURmbE1Eb3RBRRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        Just incredible. I grew up in South Florida and this is the tastiest
+        sushi I've ever had. Travis made me an incredibly special dish. I cannot
+        explain how flavorful and texturally savvy this sushi roll was. I could
+        not believe how buttery the salmon sashimi was. I cannot wait to travel
+        through the area again to have this incredible staple to sushi
+      languageCode: en
+    originalText:
+      text: >-
+        Just incredible. I grew up in South Florida and this is the tastiest
+        sushi I've ever had. Travis made me an incredibly special dish. I cannot
+        explain how flavorful and texturally savvy this sushi roll was. I could
+        not believe how buttery the salmon sashimi was. I cannot wait to travel
+        through the area again to have this incredible staple to sushi
+      languageCode: en
+    authorAttribution:
+      displayName: Justin Time
+      uri: https://www.google.com/maps/contrib/107191796185879240452/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXsI3iwcw-gxG6lq3T6QNz46msz-FfK8j943f5z4lO2Jskl9z2V=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-01-04T03:28:12.134442Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURmbE1Eb3RBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURmbE1Eb3RBRRAB!2m1!1s0x87694a48a765f27b:0x8c70cd4890d24560
+  - name: >-
+      places/ChIJe_Jlp0hKaYcRYEXSkEjNcIw/reviews/ChZDSUhNMG9nS0VJQ0FnTUNvNmVtSUNREAE
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        Deeply enjoyed our lunch here. Service was excellent and the sushi was
+        absolutely beautiful and delicious. Great experience.
+      languageCode: en
+    originalText:
+      text: >-
+        Deeply enjoyed our lunch here. Service was excellent and the sushi was
+        absolutely beautiful and delicious. Great experience.
+      languageCode: en
+    authorAttribution:
+      displayName: Taryn Taylor
+      uri: https://www.google.com/maps/contrib/109873231816940521302/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXcOuyImw0D9EISHCIn1J7wYfFB6bV__xeF0zUv_3L6eGyZDrKR6Q=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-18T07:04:44.627712Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNvNmVtSUNREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNvNmVtSUNREAE!2m1!1s0x87694a48a765f27b:0x8c70cd4890d24560
+  - name: >-
+      places/ChIJe_Jlp0hKaYcRYEXSkEjNcIw/reviews/ChZDSUhNMG9nS0VJQ0FnTUNnNmVmVlZBEAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        We came it at 11:30am no one was here except my daughter and I.
+        Personable service the staff explained the best deals and what things
+        mean as I don’t know sushi, my daughter eats it. Very fun environment
+        with old school alternative and peaceful thanks ya’ll
+      languageCode: en
+    originalText:
+      text: >-
+        We came it at 11:30am no one was here except my daughter and I.
+        Personable service the staff explained the best deals and what things
+        mean as I don’t know sushi, my daughter eats it. Very fun environment
+        with old school alternative and peaceful thanks ya’ll
+      languageCode: en
+    authorAttribution:
+      displayName: Sandra Roth
+      uri: https://www.google.com/maps/contrib/115488030223346406082/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIVGsOg-9boHBaYD0ghccBfHfe8Gvw8zB19jqEElIsa8lpXJ4A=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-02-18T18:32:24.500926Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNnNmVmVlZBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNnNmVmVlZBEAE!2m1!1s0x87694a48a765f27b:0x8c70cd4890d24560
+  - name: >-
+      places/ChIJe_Jlp0hKaYcRYEXSkEjNcIw/reviews/ChZDSUhNMG9nS0VJQ0FnSUR2N3JuUFJREAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        In town for a birthday dinner & Jaws was highly recommended. We were
+        told 30-40 minutes, but it was an hour & 10 before we got seated. While
+        it would have been nice to have the staff update my party on the delay,
+        I can't knock stars off for that. It was a Friday night, 7 pm, & the
+        place isn't that big. Once we got in, everything was amazing & it was
+        totally with the wait. Service was on the ball, the food looked great &
+        was absolutely delicious. If you're looking for great sushi around Ft
+        Collins, Jaws is the place, hands down. Just be aware it's not a big
+        joint & they do not accept IDs on your phone.
+      languageCode: en
+    originalText:
+      text: >-
+        In town for a birthday dinner & Jaws was highly recommended. We were
+        told 30-40 minutes, but it was an hour & 10 before we got seated. While
+        it would have been nice to have the staff update my party on the delay,
+        I can't knock stars off for that. It was a Friday night, 7 pm, & the
+        place isn't that big. Once we got in, everything was amazing & it was
+        totally with the wait. Service was on the ball, the food looked great &
+        was absolutely delicious. If you're looking for great sushi around Ft
+        Collins, Jaws is the place, hands down. Just be aware it's not a big
+        joint & they do not accept IDs on your phone.
+      languageCode: en
+    authorAttribution:
+      displayName: Thomas Staab
+      uri: https://www.google.com/maps/contrib/101543008508558888301/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXAMZ49nCcOqMNeba8yW6X5C0YRAvpzPjTXs874gqoMhZIKv5iw=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-12-20T18:06:33.977300Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR2N3JuUFJREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR2N3JuUFJREAE!2m1!1s0x87694a48a765f27b:0x8c70cd4890d24560
+review_summary: >-
+  What Customers Are Saying$$$Visitors often rave about the delicious sushi and
+  friendly service at this popular spot, highlighting how the fresh rolls and
+  specials make every meal memorable. Many appreciate the great value and
+  helpful staff who guide newcomers through the menu, creating a welcoming
+  environment for first-timers and regulars alike. Feedback frequently mentions
+  the tasty lunch deals and unique dishes that keep things exciting without
+  breaking the bank, adding to the fun and relaxed vibe. Overall, folks find it
+  a solid choice for casual get-togethers, with the atmosphere and flavors
+  earning high marks for satisfaction. If you're on the hunt for reliable sushi
+  places near you, this location consistently delivers a positive experience
+  that's worth checking out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
+delivery: false
+dine_in: true
 good_for_children: null
-good_for_groups: null
+good_for_groups: true
 good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
+live_music: false
+menu_for_children: false
+outdoor_seating: true
 reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Relaxed Japanese spot serving a variety of sushi rolls & other specialties,
+  plus sake & beer.
 
 ---

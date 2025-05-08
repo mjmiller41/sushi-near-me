@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ninja Japanese Restaurant"
+title: Ninja Japanese Restaurant
 permalink: /alabama/decatur/ninja-japanese-restaurant.html
 stateAbbr: AL
 stateName: Alabama
 cityName: Decatur
 seo:
-  name: "Ninja Japanese Restaurant"
-  type: Restaurant
-  links: null
-description: "Ninja Japanese Restaurant serves delicious sushi in Decatur, Alabama. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.ninjadecatur.com/
 place_id: ChIJcw_DK7OGYogRkBb_ThvKieg
 photos:
   - name: >-
@@ -170,8 +168,113 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x886286b32bc30f73:0xe889ca1b4eff1690!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 15
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 15
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 3:00 PM, 4:30 – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 3:00 PM, 4:30 – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 3:00 PM, 4:30 – 9:00 PM'
+    - 'Thursday: 11:00 AM – 3:00 PM, 4:30 – 9:00 PM'
+    - 'Friday: 11:00 AM – 3:00 PM, 4:30 – 10:00 PM'
+    - 'Saturday: 12:00 – 10:00 PM'
+    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +282,54 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (256) 686-4518
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.3'
+rating_count: 940
+website: http://www.ninjadecatur.com/
+description: >-
+  Discover Ninja Japanese Restaurant in Decatur, AL$$$Nestled in Decatur, AL,
+  Ninja Japanese Restaurant delights diners with its blend of hibachi dinners
+  and fresh sushi rolls, creating an engaging spot for Japanese cuisine
+  enthusiasts. The casual atmosphere features entertaining surroundings that
+  make every meal feel lively and immersive, perfect for those seeking authentic
+  flavors in a welcoming setting. Patrons can enjoy a variety of Japanese
+  plates, from classic rolls to sizzling hibachi options, all prepared with care
+  to highlight quality ingredients. Accessibility features like
+  wheelchair-friendly entrances and seating add to the convenience, making it an
+  inclusive choice for everyone. Whether you're exploring top sushi spots nearby
+  or looking for a fun evening out, this restaurant combines tradition with a
+  modern twist to satisfy your cravings.
+generative_summary: >-
+  Discover Ninja Japanese Restaurant in Decatur, AL$$$Nestled in Decatur, AL,
+  Ninja Japanese Restaurant delights diners with its blend of hibachi dinners
+  and fresh sushi rolls, creating an engaging spot for Japanese cuisine
+  enthusiasts. The casual atmosphere features entertaining surroundings that
+  make every meal feel lively and immersive, perfect for those seeking authentic
+  flavors in a welcoming setting. Patrons can enjoy a variety of Japanese
+  plates, from classic rolls to sizzling hibachi options, all prepared with care
+  to highlight quality ingredients. Accessibility features like
+  wheelchair-friendly entrances and seating add to the convenience, making it an
+  inclusive choice for everyone. Whether you're exploring top sushi spots nearby
+  or looking for a fun evening out, this restaurant combines tradition with a
+  modern twist to satisfy your cravings.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What People Love About This Spot$$$Visitors often highlight the fresh and
+  flavorful dishes as a standout feature, with many praising the variety of
+  sushi and hibachi options that keep things exciting and delicious. Feedback
+  frequently notes the welcoming vibe and efficient service, making it a go-to
+  for casual get-togethers or family dinners without any major hiccups. While
+  some mention wait times during peak hours, the overall experience is described
+  as worth it, especially for the affordable pricing that fits a moderate
+  budget. Diners appreciate the entertaining elements that add a fun layer to
+  the meal, helping it earn its solid reputation among local Japanese dining
+  spots. If you're on the hunt for reliable sushi places near you, this spot
+  delivers a consistently enjoyable experience that leaves most folks coming
+  back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +355,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sakana Sushi & Grill"
+title: Sakana Sushi & Grill
 permalink: /california/la-canada-flintridge/sakana-sushi-grill.html
 stateAbbr: CA
 stateName: California
 cityName: La Cañada Flintridge
 seo:
-  name: "Sakana Sushi & Grill"
-  type: Restaurant
+  type: restaurant
   links: http://www.sakanalacanada.com/
-description: "Sakana Sushi & Grill serves delicious sushi in La Cañada Flintridge, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ5zV2t0DqwoARGxbpVqVHjWA
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c2ea40b77635e7:0x608d47a556e9161b!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 9:30 PM'
     - 'Tuesday: 11:30 AM – 9:30 PM'
     - 'Wednesday: 11:30 AM – 9:30 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 10:30 PM'
     - 'Saturday: 11:30 AM – 10:30 PM'
     - 'Sunday: 11:30 AM – 9:30 PM'
-  current:
-    - 'Monday: 11:30 AM – 9:30 PM'
-    - 'Tuesday: 11:30 AM – 9:30 PM'
-    - 'Wednesday: 11:30 AM – 9:30 PM'
-    - 'Thursday: 11:30 AM – 9:30 PM'
-    - 'Friday: 11:30 AM – 10:30 PM'
-    - 'Saturday: 11:30 AM – 10:30 PM'
-    - 'Sunday: 11:30 AM – 9:30 PM'
+  nextCloseTime: '2025-05-04T05:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,364 @@ phone: (818) 957-9922
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.5'
-rating_count: 0
+rating_count: 318
 website: http://www.sakanalacanada.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Experience Sakana Sushi & Grill in La Cañada Flintridge, CA$$$Sakana Sushi &
+  Grill in La Cañada Flintridge, CA, offers a casual dining experience focused
+  on fresh sushi and classic Japanese dishes, making it a welcoming spot for
+  those seeking flavorful meals. The restaurant features a modern, minimalist
+  atmosphere that enhances the enjoyment of its beer and sake selections, paired
+  perfectly with an array of rolls and grilled options. Accessibility is a key
+  highlight, with wheelchair-friendly parking, entrances, restrooms, and seating
+  available for all guests. Operating daily from late morning into the evening,
+  it provides ample opportunities to savor high-quality ingredients and generous
+  portions. Whether you're in the mood for traditional sashimi or innovative
+  specials, this spot stands out as a reliable choice for authentic Japanese
+  flavors in a relaxed setting.
+generative_summary: >-
+  Experience Sakana Sushi & Grill in La Cañada Flintridge, CA$$$Sakana Sushi &
+  Grill in La Cañada Flintridge, CA, offers a casual dining experience focused
+  on fresh sushi and classic Japanese dishes, making it a welcoming spot for
+  those seeking flavorful meals. The restaurant features a modern, minimalist
+  atmosphere that enhances the enjoyment of its beer and sake selections, paired
+  perfectly with an array of rolls and grilled options. Accessibility is a key
+  highlight, with wheelchair-friendly parking, entrances, restrooms, and seating
+  available for all guests. Operating daily from late morning into the evening,
+  it provides ample opportunities to savor high-quality ingredients and generous
+  portions. Whether you're in the mood for traditional sashimi or innovative
+  specials, this spot stands out as a reliable choice for authentic Japanese
+  flavors in a relaxed setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ5zV2t0DqwoARGxbpVqVHjWA/reviews/ChdDSUhNMG9nS0VJQ0FnSUNyck1hQjRBRRAB
+    relativePublishTimeDescription: 10 months ago
+    rating: 5
+    text:
+      text: >-
+        Awesome spot here! Been a couple times, and the staff has always been
+        amazing! Sushi is tasty, and the portions are great! The prices seem a
+        bit high at first glance, but in relation to the portions, it is a
+        bargain! The teriyaki plates are bento box style, and the box sections
+        are large!! It’s great. The special rolls are very tasty. The food
+        presentation is lovely. The atmosphere/decor is very modern, minimalist,
+        and cool. The parking lot is small, but is free and always seems to work
+        out.
+
+
+        Highly recommend! We got sushi nigiri, chicken teriyaki, salmon
+        teriyaki, garlic pepper shrimp,  sashimi, and the forbidden roll. The
+        teriyaki plates come with CA roll/spicy tuna, mixed tempura salad,
+        orange, rice, miso soup, and another sushi dish.
+
+
+        We have gone off hours (2-4ish); never a wait, and pretty quiet.
+      languageCode: en
+    originalText:
+      text: >-
+        Awesome spot here! Been a couple times, and the staff has always been
+        amazing! Sushi is tasty, and the portions are great! The prices seem a
+        bit high at first glance, but in relation to the portions, it is a
+        bargain! The teriyaki plates are bento box style, and the box sections
+        are large!! It’s great. The special rolls are very tasty. The food
+        presentation is lovely. The atmosphere/decor is very modern, minimalist,
+        and cool. The parking lot is small, but is free and always seems to work
+        out.
+
+
+        Highly recommend! We got sushi nigiri, chicken teriyaki, salmon
+        teriyaki, garlic pepper shrimp,  sashimi, and the forbidden roll. The
+        teriyaki plates come with CA roll/spicy tuna, mixed tempura salad,
+        orange, rice, miso soup, and another sushi dish.
+
+
+        We have gone off hours (2-4ish); never a wait, and pretty quiet.
+      languageCode: en
+    authorAttribution:
+      displayName: D. de Silva
+      uri: https://www.google.com/maps/contrib/109833646263821366987/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUidSE4AhpJZDn1ilT4WI6fEuhqrVOwJ6TTdlL_D9u3fDAFD_k=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2024-07-04T18:01:16.944325Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNyck1hQjRBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNyck1hQjRBRRAB!2m1!1s0x80c2ea40b77635e7:0x608d47a556e9161b
+  - name: >-
+      places/ChIJ5zV2t0DqwoARGxbpVqVHjWA/reviews/ChZDSUhNMG9nS0VJQ0FnSURqeXVtOUxREAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        This exquisite Japanese sushi restaurant is nestled between Montrose and
+        LaCanada on Foothill drive. The staff is just awesome and so welcoming.
+        One of the freshest selection of sashimi and sushi I've seen... Probably
+        more so for this area. They also have many Japanese inspired dishes and
+        many rolls to explore.
+
+
+        If their food doesn't blow you away I'm sure the fried tempura ice cream
+        will. Oooh... Don't forget the ice cold beer served on frozen mugs.  One
+        of the most refreshing beer experience, period!
+
+
+        Parking is plenty and kids have lots of choices other than sushi.
+        Definitely a family friendly restaurant.
+      languageCode: en
+    originalText:
+      text: >-
+        This exquisite Japanese sushi restaurant is nestled between Montrose and
+        LaCanada on Foothill drive. The staff is just awesome and so welcoming.
+        One of the freshest selection of sashimi and sushi I've seen... Probably
+        more so for this area. They also have many Japanese inspired dishes and
+        many rolls to explore.
+
+
+        If their food doesn't blow you away I'm sure the fried tempura ice cream
+        will. Oooh... Don't forget the ice cold beer served on frozen mugs.  One
+        of the most refreshing beer experience, period!
+
+
+        Parking is plenty and kids have lots of choices other than sushi.
+        Definitely a family friendly restaurant.
+      languageCode: en
+    authorAttribution:
+      displayName: Brandon
+      uri: https://www.google.com/maps/contrib/116788689152186914120/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUfJzaF8gyeZE3iI6em_LdJk4zA1GoXSHqjW38bjmt2Que4RB6hnw=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-05-01T16:59:15.163011Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURqeXVtOUxREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURqeXVtOUxREAE!2m1!1s0x80c2ea40b77635e7:0x608d47a556e9161b
+  - name: >-
+      places/ChIJ5zV2t0DqwoARGxbpVqVHjWA/reviews/ChZDSUhNMG9nS0VJQ0FnSUMtdWVDWWNBEAE
+    relativePublishTimeDescription: 2 years ago
+    rating: 5
+    text:
+      text: >-
+        By luck of google i believe I’ve found my new favorite sushi place hands
+        down. We came in here midday for a late lunch and were greeted with
+        friendly chefs and welcoming wait staff. Every order of sushi was
+        perfectly balanced and fresh and even their rolls were tasty and not
+        overflowing with rice. We will definitely be coming back to try more
+        items on their menu and see what else they will surprise us with. Highly
+        recommend !
+      languageCode: en
+    originalText:
+      text: >-
+        By luck of google i believe I’ve found my new favorite sushi place hands
+        down. We came in here midday for a late lunch and were greeted with
+        friendly chefs and welcoming wait staff. Every order of sushi was
+        perfectly balanced and fresh and even their rolls were tasty and not
+        overflowing with rice. We will definitely be coming back to try more
+        items on their menu and see what else they will surprise us with. Highly
+        recommend !
+      languageCode: en
+    authorAttribution:
+      displayName: Andrew Vaughan
+      uri: https://www.google.com/maps/contrib/100325252160379788829/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWx_2HxvPJRv97yMlDNqJMK7sic16J2U5fwYX_4qXJWFqU9-GjL=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2022-11-08T04:27:27.804014Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUMtdWVDWWNBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUMtdWVDWWNBEAE!2m1!1s0x80c2ea40b77635e7:0x608d47a556e9161b
+  - name: >-
+      places/ChIJ5zV2t0DqwoARGxbpVqVHjWA/reviews/ChdDSUhNMG9nS0VJQ0FnSUNCbzlHZ293RRAB
+    relativePublishTimeDescription: 2 years ago
+    rating: 5
+    text:
+      text: >-
+        I LOVE Sakana. I first tried it right after re-opening from the lockdown
+        and they were doing bogo rolls and I absolutely loved their spicy tuna
+        rolls.
+
+
+        Today, honestly, it was my first time dining in  and I cannot believe I
+        went this long without trying anything else.
+
+
+        Here's a list of everything my friends and I ate today:
+
+
+        Sashimi 40. $140. Giant sashimi platter. Super fresh and delicious fish.
+        Varies per order.
+
+        Red Blossom Roll 10/10
+
+        Radish Roll 8/10
+
+        These two are non-rice rolls.
+
+
+        Spicy Tuna Roll 10/10
+
+        Crispy Tuna 10/10
+
+        Baked Salmon Roll 10/10
+
+        Shrimp Tempura Roll 9/10
+
+        On the House Roll 10/10. Made special for us by the chefs because we
+        ordered a lot of food and drinks hehe
+
+
+        Special rolls are around $20, and regular rolls are about $10 each.
+
+
+        Service and food 10/10!!!
+      languageCode: en
+    originalText:
+      text: >-
+        I LOVE Sakana. I first tried it right after re-opening from the lockdown
+        and they were doing bogo rolls and I absolutely loved their spicy tuna
+        rolls.
+
+
+        Today, honestly, it was my first time dining in  and I cannot believe I
+        went this long without trying anything else.
+
+
+        Here's a list of everything my friends and I ate today:
+
+
+        Sashimi 40. $140. Giant sashimi platter. Super fresh and delicious fish.
+        Varies per order.
+
+        Red Blossom Roll 10/10
+
+        Radish Roll 8/10
+
+        These two are non-rice rolls.
+
+
+        Spicy Tuna Roll 10/10
+
+        Crispy Tuna 10/10
+
+        Baked Salmon Roll 10/10
+
+        Shrimp Tempura Roll 9/10
+
+        On the House Roll 10/10. Made special for us by the chefs because we
+        ordered a lot of food and drinks hehe
+
+
+        Special rolls are around $20, and regular rolls are about $10 each.
+
+
+        Service and food 10/10!!!
+      languageCode: en
+    authorAttribution:
+      displayName: Kirstin Leigh
+      uri: https://www.google.com/maps/contrib/106499638849445639645/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWTJ6Sq9QjcvV0F1xiVs2pi5H5go0TWdiMqV5uQavp1zeM7hDmu=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2023-01-03T08:09:18.058214Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNCbzlHZ293RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNCbzlHZ293RRAB!2m1!1s0x80c2ea40b77635e7:0x608d47a556e9161b
+  - name: >-
+      places/ChIJ5zV2t0DqwoARGxbpVqVHjWA/reviews/ChZDSUhNMG9nS0VJQ0FnSUNkb2NDb2FnEAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        Update: My lovely bride and I went here for anniversary last night. It
+        was calm we're able to be seated right away. The servings were abundant.
+        For the price we got a great deal of food. We had a wonderful time, the
+        service was excellent. Once again highly recommended.
+
+
+        Very busy on Valentine's Day. The reservation system on the app must
+        have gotten overloaded because everyone who had a reservation was told
+        to put their name on the list and would be served in order. Even with
+        that we were seated within 10 minutes of our reservation. The staff was
+        very helpful and covered for each other in a difficult situation. We
+        look forward to going back there and trying not on a holiday. The prices
+        are a little bit High but the servings are huge. We all came home with
+        at least one meal more to enjoy at home. I would recommend this
+        restaurant
+      languageCode: en
+    originalText:
+      text: >-
+        Update: My lovely bride and I went here for anniversary last night. It
+        was calm we're able to be seated right away. The servings were abundant.
+        For the price we got a great deal of food. We had a wonderful time, the
+        service was excellent. Once again highly recommended.
+
+
+        Very busy on Valentine's Day. The reservation system on the app must
+        have gotten overloaded because everyone who had a reservation was told
+        to put their name on the list and would be served in order. Even with
+        that we were seated within 10 minutes of our reservation. The staff was
+        very helpful and covered for each other in a difficult situation. We
+        look forward to going back there and trying not on a holiday. The prices
+        are a little bit High but the servings are huge. We all came home with
+        at least one meal more to enjoy at home. I would recommend this
+        restaurant
+      languageCode: en
+    authorAttribution:
+      displayName: Scott Hoagland
+      uri: https://www.google.com/maps/contrib/100795122113167534729/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWYS1ixHIRaBP-wVHEBrYlg10TYwuXFDb3hFAPZWMXN3MhAPxM=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-01-07T02:42:40.307752Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNkb2NDb2FnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNkb2NDb2FnEAE!2m1!1s0x80c2ea40b77635e7:0x608d47a556e9161b
+review_summary: >-
+  Buzz Around Sakana's Sushi Offerings$$$Folks searching for top-rated sushi
+  spots often highlight the incredibly fresh fish and well-balanced rolls that
+  make every bite memorable at this local favorite. Many appreciate the generous
+  portions and great value, turning what might seem like a standard meal into a
+  satisfying feast that's perfect for families or groups. Comments frequently
+  praise the friendly service and inviting vibe, helping create a comfortable
+  environment even during busier times. While prices are on the moderate side,
+  the overall experience comes across as worthwhile, with diners noting the
+  variety of options that cater to different tastes. If you're exploring sushi
+  restaurants nearby, this place consistently delivers a positive and enjoyable
+  dining adventure that's worth checking out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
 good_for_sports: null
 live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
 serves_cocktails: null
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Love, Makoto"
+title: Love, Makoto
 permalink: /district-of-columbia/washington/love-makoto.html
 stateAbbr: DC
 stateName: District of Columbia
 cityName: Washington
 seo:
-  name: "Love, Makoto"
-  type: Restaurant
+  type: restaurant
   links: https://www.lovemakoto.com/
-description: "Love, Makoto serves delicious sushi in Washington, District of Columbia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJUfkA14u3t4kR7KK4ltOvsbA
 photos:
   - name: >-
@@ -184,6 +182,31 @@ price_range: $100 &ndash; & up
 rating: '4.8'
 rating_count: 0
 website: https://www.lovemakoto.com/
+description: >-
+  Discover Love, Makoto in Washington, DC$$$Love, Makoto in Washington, DC, is a
+  standout Japanese restaurant that combines authentic flavors with a welcoming
+  atmosphere for diners seeking diverse culinary experiences. The spot
+  highlights fresh, high-quality ingredients that bring out the best in its
+  flavorful offerings, including expertly crafted sushi rolls and hearty BBQ
+  dishes that appeal to a range of tastes. With options for quick bites like
+  desserts or more elaborate meals, it's an ideal choice for groups looking to
+  enjoy genuine Japanese cuisine without breaking the bank. The attentive
+  service and inclusive vibe make it a go-to destination for anyone exploring
+  top-rated sushi spots in the area, ensuring every visit feels satisfying and
+  memorable.
+generative_summary: >-
+  Discover Love, Makoto in Washington, DC$$$Love, Makoto in Washington, DC, is a
+  standout Japanese restaurant that combines authentic flavors with a welcoming
+  atmosphere for diners seeking diverse culinary experiences. The spot
+  highlights fresh, high-quality ingredients that bring out the best in its
+  flavorful offerings, including expertly crafted sushi rolls and hearty BBQ
+  dishes that appeal to a range of tastes. With options for quick bites like
+  desserts or more elaborate meals, it's an ideal choice for groups looking to
+  enjoy genuine Japanese cuisine without breaking the bank. The attentive
+  service and inclusive vibe make it a go-to destination for anyone exploring
+  top-rated sushi spots in the area, ensuring every visit feels satisfying and
+  memorable.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJUfkA14u3t4kR7KK4ltOvsbA/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3eDVTZzhnRRAB
@@ -377,6 +400,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUR3aHJuSTZnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUR3aHJuSTZnRRAB!2m1!1s0x89b7b78bd700f951:0xb0b1afd396b8a2ec
+review_summary: >-
+  What Visitors Are Sharing$$$Folks who stop by Love, Makoto often rave about
+  the fresh and high-quality dishes that make every meal feel special and
+  authentic, with standout mentions of the sushi and BBQ options hitting the
+  spot just right. Many appreciate the quick and friendly service that keeps
+  things running smoothly, turning even casual visits into enjoyable
+  experiences. It's frequently noted as a great pick for everything from quick
+  desserts to full dining adventures, leaving people feeling impressed with the
+  overall value and flavors. While some mention portions could be a bit more
+  generous, the consensus leans positive, highlighting it as a reliable choice
+  for tasty Japanese fare that keeps customers coming back. If you're in the
+  mood for a solid spot near you, this place delivers a consistently uplifting
+  vibe that makes it worth trying out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: false
   paidStreetParking: true
@@ -409,7 +446,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

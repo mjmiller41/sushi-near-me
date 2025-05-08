@@ -5,4 +5,5 @@ permalink: /kansas/lawrence/
 stateAbbr: KS
 stateName: Kansas
 cityName: Lawrence
+
 ---

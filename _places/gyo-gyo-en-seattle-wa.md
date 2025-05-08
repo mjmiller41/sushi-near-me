@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Gyo Gyo En"
+title: Gyo Gyo En
 permalink: /washington/seattle/gyo-gyo-en.html
 stateAbbr: WA
 stateName: Washington
 cityName: Seattle
 seo:
-  name: "Gyo Gyo En"
-  type: Restaurant
+  type: restaurant
   links: https://gyogyoen.square.site/
-description: "Gyo Gyo En serves delicious sushi in Seattle, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJTWfbSjkVkFQRZEuYnPjhnsU
 photos:
   - name: >-
@@ -169,7 +167,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x549015394adb674d:0xc59ee1f89c984b64!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:00 PM'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -177,14 +233,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:00 PM'
     - 'Saturday: 11:00 AM – 9:00 PM'
     - 'Sunday: 11:00 AM – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 9:00 PM'
-    - 'Saturday: 11:00 AM – 9:00 PM'
-    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,9 +245,44 @@ phone: (206) 829-9811
 price_level: null
 price_range: $20 &ndash; $30
 rating: '4.7'
-rating_count: 0
+rating_count: 201
 website: https://gyogyoen.square.site/
+description: >-
+  Discover Gyo Gyo En in Seattle, WA$$$Gyo Gyo En in Seattle, WA, stands out as
+  a welcoming Japanese restaurant offering a variety of fresh, flavorful dishes
+  in a relaxed environment. This spot specializes in satisfying options like
+  bento boxes, poke bowls, and chirashi, all made with high-quality ingredients
+  that highlight authentic flavors and creative presentations. Accessibility
+  features such as wheelchair-friendly entrances and seating make it easy for
+  everyone to enjoy a casual meal, while its convenient downtown location adds
+  to the appeal for those seeking Japanese places near me. Open daily from 11:00
+  AM to 9:00 PM, it's an ideal choice for anyone looking to savor light,
+  delicious meals that blend tradition with everyday convenience.
+generative_summary: >-
+  Discover Gyo Gyo En in Seattle, WA$$$Gyo Gyo En in Seattle, WA, stands out as
+  a welcoming Japanese restaurant offering a variety of fresh, flavorful dishes
+  in a relaxed environment. This spot specializes in satisfying options like
+  bento boxes, poke bowls, and chirashi, all made with high-quality ingredients
+  that highlight authentic flavors and creative presentations. Accessibility
+  features such as wheelchair-friendly entrances and seating make it easy for
+  everyone to enjoy a casual meal, while its convenient downtown location adds
+  to the appeal for those seeking Japanese places near me. Open daily from 11:00
+  AM to 9:00 PM, it's an ideal choice for anyone looking to savor light,
+  delicious meals that blend tradition with everyday convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback Highlights$$$Folks frequently rave about the tasty seafood
+  dishes and hearty options at this Japanese eatery, noting the fresh fish in
+  poke and chirashi bowls that really hit the spot for sushi lovers. Many
+  mention the flavorful curry and bento boxes as go-to choices that deliver
+  great value without skimping on taste, making it a solid pick for casual
+  dining. The service often comes across as warm and attentive, helping to
+  create a cozy vibe that feels genuinely inviting and true to the culture.
+  Overall, it's a spot that keeps customers coming back for reliable, enjoyable
+  meals, especially if you're on the hunt for top-rated sushi restaurants in the
+  area.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -224,7 +308,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

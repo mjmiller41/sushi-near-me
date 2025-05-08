@@ -5,4 +5,5 @@ permalink: /california/sunnyvale/
 stateAbbr: CA
 stateName: California
 cityName: Sunnyvale
+
 ---

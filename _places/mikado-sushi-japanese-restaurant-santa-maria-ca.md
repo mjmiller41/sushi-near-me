@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Mikado Sushi | Japanese Restaurant"
+title: Mikado Sushi | Japanese Restaurant
 permalink: /california/santa-maria/mikado-sushi-japanese-restaurant.html
 stateAbbr: CA
 stateName: California
 cityName: Santa Maria
 seo:
-  name: "Mikado Sushi | Japanese Restaurant"
-  type: Restaurant
+  type: restaurant
   links: https://santamariamikado.com/
-description: "Mikado Sushi | Japanese Restaurant serves delicious sushi in Santa Maria, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJfR2xNYBr7IARZpToKRmOA4Y
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80ec6b8035b11d7d:0x86038e1929e89466!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:30 PM'
     - 'Tuesday: 11:00 AM – 9:30 PM'
     - 'Wednesday: 11:00 AM – 9:30 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:00 PM'
     - 'Saturday: 11:00 AM – 10:00 PM'
     - 'Sunday: 11:30 AM – 9:30 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:30 PM'
-    - 'Tuesday: 11:00 AM – 9:30 PM'
-    - 'Wednesday: 11:00 AM – 9:30 PM'
-    - 'Thursday: 11:00 AM – 9:30 PM'
-    - 'Friday: 11:00 AM – 10:00 PM'
-    - 'Saturday: 11:00 AM – 10:00 PM'
-    - 'Sunday: 11:30 AM – 9:30 PM'
+  nextCloseTime: '2025-05-04T05:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,319 @@ phone: (805) 928-1455
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.3'
-rating_count: 0
+rating_count: 656
 website: https://santamariamikado.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Mikado Sushi in Santa Maria, CA$$$Mikado Sushi in Santa Maria, CA,
+  stands out as a welcoming Japanese restaurant serving fresh, creative rolls
+  and classic dishes in a cozy setting. This casual eatery highlights a menu
+  filled with flavorful options like teriyaki and comfort-style meals, paired
+  with selections of sake and wine for an authentic dining experience.
+  Accessibility features make it easy for everyone to enjoy, with
+  wheelchair-friendly parking, entrances, and seating that add to its inclusive
+  vibe. The spot's convenient hours and moderate pricing make it a go-to choice
+  for those seeking quality sushi restaurants nearby, blending traditional
+  flavors with a relaxed atmosphere that keeps locals coming back.
+generative_summary: >-
+  Discover Mikado Sushi in Santa Maria, CA$$$Mikado Sushi in Santa Maria, CA,
+  stands out as a welcoming Japanese restaurant serving fresh, creative rolls
+  and classic dishes in a cozy setting. This casual eatery highlights a menu
+  filled with flavorful options like teriyaki and comfort-style meals, paired
+  with selections of sake and wine for an authentic dining experience.
+  Accessibility features make it easy for everyone to enjoy, with
+  wheelchair-friendly parking, entrances, and seating that add to its inclusive
+  vibe. The spot's convenient hours and moderate pricing make it a go-to choice
+  for those seeking quality sushi restaurants nearby, blending traditional
+  flavors with a relaxed atmosphere that keeps locals coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJfR2xNYBr7IARZpToKRmOA4Y/reviews/ChZDSUhNMG9nS0VJQ0FnTURRODllVENBEAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        My wife loves sushi, so had to stop by her favorite place. 100%
+        recommended good tasting food, fresh sushi and always great customer
+        service
+      languageCode: en
+    originalText:
+      text: >-
+        My wife loves sushi, so had to stop by her favorite place. 100%
+        recommended good tasting food, fresh sushi and always great customer
+        service
+      languageCode: en
+    authorAttribution:
+      displayName: JOSE .:805:.
+      uri: https://www.google.com/maps/contrib/106338617912994445766/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjU31eQJfND1pWeMF1GN1MKr-ROOB8Fx4gnAEwwILkbeA-dvjPPW=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-03-14T05:16:40.753037Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURRODllVENBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURRODllVENBEAE!2m1!1s0x80ec6b8035b11d7d:0x86038e1929e89466
+  - name: >-
+      places/ChIJfR2xNYBr7IARZpToKRmOA4Y/reviews/ChdDSUhNMG9nS0VJQ0FnSURId3RLV2pnRRAB
+    relativePublishTimeDescription: 7 months ago
+    rating: 3
+    text:
+      text: >-
+        My friend got shrimp on my plate even though she made it clear she’s
+        vegetarian. Other than that the food was good. The service was a little
+        slow to place our order.
+      languageCode: en
+    originalText:
+      text: >-
+        My friend got shrimp on my plate even though she made it clear she’s
+        vegetarian. Other than that the food was good. The service was a little
+        slow to place our order.
+      languageCode: en
+    authorAttribution:
+      displayName: Melinda Chris
+      uri: https://www.google.com/maps/contrib/107175844915167562613/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUj3v9GXrSk4dtWWhA_8blDuASfBMVN15EubrqKshc4Y_JYQmTNEA=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-09-13T22:52:46.558346Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURId3RLV2pnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURId3RLV2pnRRAB!2m1!1s0x80ec6b8035b11d7d:0x86038e1929e89466
+  - name: >-
+      places/ChIJfR2xNYBr7IARZpToKRmOA4Y/reviews/ChZDSUhNMG9nS0VJQ0FnSUNKa05xaUJBEAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        I recently had the pleasure of dining at Mikado Sushi, and I must say
+        that my experience was delightful. Located next to the Santa Maria mall
+        downtown , this restaurant offers a welcoming atmosphere with friendly
+        staff and a diverse menu of Japanese cuisine.
+
+
+        To start off my meal, I ordered three California Tempura Rolls, one TNT
+        Roll, and one Spicy Crunch Roll. The California Tempura Rolls were a
+        delightful twist on the classic California roll, as they were lightly
+        battered and fried to perfection. The crunchy exterior added a
+        satisfying texture to the creamy filling, and the combination was a true
+        delight for my taste buds.
+
+
+        The TNT Roll was a standout dish, packed with a burst of flavors. The
+        blend of spicy tuna, avocado, and cucumber provided a perfect balance of
+        heat and freshness. Each bite was a mouthwatering experience that left
+        me craving for more.
+
+
+        The Spicy Crunch Roll was another winner on the menu. It had a fantastic
+        kick of spiciness that perfectly complemented the crunchy texture. The
+        combination of spicy mayo and the crispy topping provided a delightful
+        contrast that added depth to the overall flavor.
+
+
+        My dad opted for the Yakisoba Noodles, and I must say, they were a
+        fantastic choice. The noodles were cooked to perfection, and the
+        stir-fried vegetables added a burst of color and freshness. The flavors
+        were well-balanced, and the portion size was generous. It was evident
+        that great care had been taken to create a dish that pleased both the
+        eyes and the palate.
+
+
+        One aspect that stood out to me was the reasonable prices at Mikado
+        Sushi. The quality of the food far exceeded my expectations given the
+        affordability. It was refreshing to find a restaurant that offered such
+        a high standard of cuisine without breaking the bank.
+
+
+        Overall, I would highly recommend Mikado Sushi to anyone looking for a
+        satisfying Japanese dining experience. The delicious and well-prepared
+        food, combined with friendly service, makes it a fantastic choice for
+        both casual meals and special occasions. Whether you're a sushi lover or
+        prefer other Japanese dishes, Mikado Sushi is sure to leave you
+        satisfied. I can't wait to visit again and try more of their delectable
+        offerings.
+      languageCode: en
+    originalText:
+      text: >-
+        I recently had the pleasure of dining at Mikado Sushi, and I must say
+        that my experience was delightful. Located next to the Santa Maria mall
+        downtown , this restaurant offers a welcoming atmosphere with friendly
+        staff and a diverse menu of Japanese cuisine.
+
+
+        To start off my meal, I ordered three California Tempura Rolls, one TNT
+        Roll, and one Spicy Crunch Roll. The California Tempura Rolls were a
+        delightful twist on the classic California roll, as they were lightly
+        battered and fried to perfection. The crunchy exterior added a
+        satisfying texture to the creamy filling, and the combination was a true
+        delight for my taste buds.
+
+
+        The TNT Roll was a standout dish, packed with a burst of flavors. The
+        blend of spicy tuna, avocado, and cucumber provided a perfect balance of
+        heat and freshness. Each bite was a mouthwatering experience that left
+        me craving for more.
+
+
+        The Spicy Crunch Roll was another winner on the menu. It had a fantastic
+        kick of spiciness that perfectly complemented the crunchy texture. The
+        combination of spicy mayo and the crispy topping provided a delightful
+        contrast that added depth to the overall flavor.
+
+
+        My dad opted for the Yakisoba Noodles, and I must say, they were a
+        fantastic choice. The noodles were cooked to perfection, and the
+        stir-fried vegetables added a burst of color and freshness. The flavors
+        were well-balanced, and the portion size was generous. It was evident
+        that great care had been taken to create a dish that pleased both the
+        eyes and the palate.
+
+
+        One aspect that stood out to me was the reasonable prices at Mikado
+        Sushi. The quality of the food far exceeded my expectations given the
+        affordability. It was refreshing to find a restaurant that offered such
+        a high standard of cuisine without breaking the bank.
+
+
+        Overall, I would highly recommend Mikado Sushi to anyone looking for a
+        satisfying Japanese dining experience. The delicious and well-prepared
+        food, combined with friendly service, makes it a fantastic choice for
+        both casual meals and special occasions. Whether you're a sushi lover or
+        prefer other Japanese dishes, Mikado Sushi is sure to leave you
+        satisfied. I can't wait to visit again and try more of their delectable
+        offerings.
+      languageCode: en
+    authorAttribution:
+      displayName: Jose Rodriguez
+      uri: https://www.google.com/maps/contrib/111448970173525810217/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKbtVU_kOC48qmYpQkp4743Tb1LLsUCntu4IMgygExeUcJ5zg=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2023-06-19T02:17:41.600878Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNKa05xaUJBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNKa05xaUJBEAE!2m1!1s0x80ec6b8035b11d7d:0x86038e1929e89466
+  - name: >-
+      places/ChIJfR2xNYBr7IARZpToKRmOA4Y/reviews/ChZDSUhNMG9nS0VJQ0FnTUNnMXZtSWRBEAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 1
+    text:
+      text: >-
+        Was seated in a timely manner. Ordered, and received soup immediately,
+        but no drinks. After about 45 minutes with no drink and everyone
+        ignoring us we got up to leave. We went to pay for the soups and they
+        tried to charge us for the drinks. WE NEVER GOT ANY DRINKS! Our waitress
+        was very busy on her phone. I wish she had just said up front "hey I
+        don't plan on helping you, or even putting your order in." Then we could
+        have saved the hour plus we wasted. Worst $10s worth of soup I ever had.
+        Will not be going back there and I hope this review saves some other
+        people the trouble of going there. I wouldn't be as mad if I didn't
+        suspect that we are ignored for the way we look. I didn't see anything
+        resembling a manager. Some one desperately needs to be in charge of that
+        place.
+      languageCode: en
+    originalText:
+      text: >-
+        Was seated in a timely manner. Ordered, and received soup immediately,
+        but no drinks. After about 45 minutes with no drink and everyone
+        ignoring us we got up to leave. We went to pay for the soups and they
+        tried to charge us for the drinks. WE NEVER GOT ANY DRINKS! Our waitress
+        was very busy on her phone. I wish she had just said up front "hey I
+        don't plan on helping you, or even putting your order in." Then we could
+        have saved the hour plus we wasted. Worst $10s worth of soup I ever had.
+        Will not be going back there and I hope this review saves some other
+        people the trouble of going there. I wouldn't be as mad if I didn't
+        suspect that we are ignored for the way we look. I didn't see anything
+        resembling a manager. Some one desperately needs to be in charge of that
+        place.
+      languageCode: en
+    authorAttribution:
+      displayName: Patrick Zerbe
+      uri: https://www.google.com/maps/contrib/104918321785392552376/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJV6Blb3AjQlYKhIhWvv__XYZBFsRHAL0YupArUrV2ps1yftg=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-02-17T00:51:48.054465Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNnMXZtSWRBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNnMXZtSWRBEAE!2m1!1s0x80ec6b8035b11d7d:0x86038e1929e89466
+  - name: >-
+      places/ChIJfR2xNYBr7IARZpToKRmOA4Y/reviews/ChZDSUhNMG9nS0VJQ0FnSUNocUxHYUpnEAE
+    relativePublishTimeDescription: 2 years ago
+    rating: 5
+    text:
+      text: >-
+        Joseph is an amazing waiter! He is very friendly and his service is
+        phenomenal! He helped me embarrass my husband with the birthday song for
+        his 50 birthday ! He is very friendly and on top of his game! Loved the
+        food the cooks are amazing! Very busy considering other sushi spots!
+        That lets you know it’s the spot!
+      languageCode: en
+    originalText:
+      text: >-
+        Joseph is an amazing waiter! He is very friendly and his service is
+        phenomenal! He helped me embarrass my husband with the birthday song for
+        his 50 birthday ! He is very friendly and on top of his game! Loved the
+        food the cooks are amazing! Very busy considering other sushi spots!
+        That lets you know it’s the spot!
+      languageCode: en
+    authorAttribution:
+      displayName: Tabitha Hundoble
+      uri: https://www.google.com/maps/contrib/110059883994864563179/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKUR10x-FHsRQXya3zo6ZldBawk_rgzBu60bab-kGhcZfQMPw=s128-c0x00000000-cc-rp-mo
+    publishTime: '2023-02-04T04:45:51.090637Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNocUxHYUpnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNocUxHYUpnEAE!2m1!1s0x80ec6b8035b11d7d:0x86038e1929e89466
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this sushi spot often rave about the
+  fresh and tasty rolls that deliver a satisfying mix of flavors at reasonable
+  prices, making it a solid pick for anyone craving Japanese fare. While most
+  folks appreciate the friendly service and quick delivery of orders, a few
+  mention occasional waits during busy times that could use some improvement.
+  Overall, the variety of options keeps things exciting, with highlights on the
+  generous portions and affordable deals that make it worth trying. Despite some
+  mixed experiences with order accuracy, the general consensus leans positive,
+  encouraging diners to explore this reliable choice for top-rated sushi
+  experiences in the area.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: false
+serves_coffee: true
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Creative rolls & other Japanese fare served at a sushi bar or at tables in the
+  intimate dining room.
 
 ---

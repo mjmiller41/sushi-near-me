@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Capital Noodle Bar | Costa Mesa"
+title: Capital Noodle Bar | Costa Mesa
 permalink: /california/costa-mesa/capital-noodle-bar-costa-mesa.html
 stateAbbr: CA
 stateName: California
 cityName: Costa Mesa
 seo:
-  name: "Capital Noodle Bar | Costa Mesa"
-  type: Restaurant
-  links: null
-description: "Capital Noodle Bar | Costa Mesa serves delicious sushi in Costa Mesa, California. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://noodle-costamesa.capital-seafood.com/
 place_id: ChIJw48k8Rjf3IARdhxJozO9Dig
 photos:
   - name: >-
@@ -169,8 +167,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80dcdf18f1248fc3:0x280ebd33a3491c76!10e5
 primary_type: Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 9:00 PM'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 10:00 PM'
+    - 'Saturday: 11:00 AM – 10:00 PM'
+    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T05:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -178,13 +241,57 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (657) 231-6120
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.3'
+rating_count: 482
+website: http://noodle-costamesa.capital-seafood.com/
+description: >-
+  Discover Capital Noodle Bar in Costa Mesa, CA$$$Capital Noodle Bar in Costa
+  Mesa, CA, stands out as a beloved spot for authentic Southeast Asian flavors,
+  offering a cozy and welcoming atmosphere that draws in locals and visitors
+  alike. This long-standing establishment specializes in hearty noodle dishes
+  infused with rich, traditional tastes, making it a go-to choice for anyone
+  craving comforting Asian cuisine in a relaxed setting. Accessibility features
+  like wheelchair-friendly parking and entrances ensure that everyone can enjoy
+  the experience, while its consistent hours from 11 AM daily provide
+  flexibility for lunch or dinner outings. The menu highlights fresh ingredients
+  and a variety of options that cater to diverse palates, blending simplicity
+  with bold flavors to create memorable meals. Whether you're exploring nearby
+  dining options or seeking a casual spot for flavorful bites, this venue
+  delivers on quality and convenience.
+generative_summary: >-
+  Discover Capital Noodle Bar in Costa Mesa, CA$$$Capital Noodle Bar in Costa
+  Mesa, CA, stands out as a beloved spot for authentic Southeast Asian flavors,
+  offering a cozy and welcoming atmosphere that draws in locals and visitors
+  alike. This long-standing establishment specializes in hearty noodle dishes
+  infused with rich, traditional tastes, making it a go-to choice for anyone
+  craving comforting Asian cuisine in a relaxed setting. Accessibility features
+  like wheelchair-friendly parking and entrances ensure that everyone can enjoy
+  the experience, while its consistent hours from 11 AM daily provide
+  flexibility for lunch or dinner outings. The menu highlights fresh ingredients
+  and a variety of options that cater to diverse palates, blending simplicity
+  with bold flavors to create memorable meals. Whether you're exploring nearby
+  dining options or seeking a casual spot for flavorful bites, this venue
+  delivers on quality and convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors to Capital Noodle Bar often praise the
+  spot for its delicious, well-prepared dishes that hit the spot with bold
+  Southeast Asian flavors and generous portions, making it a solid pick for a
+  satisfying meal. Many folks appreciate the laid-back vibe and attentive
+  service that add to the overall enjoyment, helping it maintain a strong
+  reputation among local eateries. While some mention minor waits during peak
+  times, the general consensus highlights the value for the price, with meals
+  landing in the moderate range that feels worth it. Overall, the positive
+  feedback reflects a welcoming environment that's great for casual
+  get-togethers or solo diners, encouraging repeat visits for those in the mood
+  for reliable, tasty options. With a solid rating backing it up, this place
+  comes across as a dependable choice for anyone looking to unwind with good
+  food in the area.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +317,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

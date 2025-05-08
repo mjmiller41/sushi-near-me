@@ -5,4 +5,5 @@ permalink: /florida/oviedo/
 stateAbbr: FL
 stateName: Florida
 cityName: Oviedo
+
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ichi Bento"
+title: Ichi Bento
 permalink: /washington/shoreline/ichi-bento.html
 stateAbbr: WA
 stateName: Washington
 cityName: Shoreline
 seo:
-  name: "Ichi Bento"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Ichi Bento serves delicious sushi in Shoreline, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJNT_jV1QQkFQRkB3CeeFwdxY
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x5490105457e33f35:0x167770e179c21d90!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 20
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 20
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 20
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 8:30 PM'
     - 'Tuesday: 11:00 AM – 8:30 PM'
     - 'Wednesday: 11:00 AM – 8:30 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 8:30 PM'
     - 'Saturday: 11:00 AM – 8:30 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:00 AM – 8:30 PM'
-    - 'Tuesday: 11:00 AM – 8:30 PM'
-    - 'Wednesday: 11:00 AM – 8:30 PM'
-    - 'Thursday: 11:00 AM – 8:30 PM'
-    - 'Friday: 11:00 AM – 8:30 PM'
-    - 'Saturday: 11:00 AM – 8:30 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T03:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +238,346 @@ phone: (206) 363-1663
 price_level: PRICE_LEVEL_INEXPENSIVE
 price_range: $10 &ndash; $20
 rating: '4.6'
-rating_count: 0
+rating_count: 566
 website: null
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Ichi Bento in Shoreline, WA$$$Nestled in Shoreline, WA, Ichi Bento
+  stands out as a welcoming Japanese restaurant offering a blend of classic
+  flavors and cultural charm in a simple, unpretentious setting. This spot
+  specializes in comforting dishes like teriyaki, katsu, and tempura, making it
+  a go-to for those seeking satisfying sushi options near everyday routines.
+  With its focus on fresh ingredients and traditional preparation, the eatery
+  provides a cozy atmosphere ideal for casual lunches or dinners, enhanced by
+  thoughtful cultural decor that adds a touch of authenticity. Accessibility
+  features such as wheelchair-friendly entrances and parking ensure everyone can
+  enjoy the experience, while affordable pricing keeps it approachable for
+  families and groups. Open daily for lunch and dinner, it's a reliable choice
+  for anyone exploring top-rated Japanese places in the area.
+generative_summary: >-
+  Discover Ichi Bento in Shoreline, WA$$$Nestled in Shoreline, WA, Ichi Bento
+  stands out as a welcoming Japanese restaurant offering a blend of classic
+  flavors and cultural charm in a simple, unpretentious setting. This spot
+  specializes in comforting dishes like teriyaki, katsu, and tempura, making it
+  a go-to for those seeking satisfying sushi options near everyday routines.
+  With its focus on fresh ingredients and traditional preparation, the eatery
+  provides a cozy atmosphere ideal for casual lunches or dinners, enhanced by
+  thoughtful cultural decor that adds a touch of authenticity. Accessibility
+  features such as wheelchair-friendly entrances and parking ensure everyone can
+  enjoy the experience, while affordable pricing keeps it approachable for
+  families and groups. Open daily for lunch and dinner, it's a reliable choice
+  for anyone exploring top-rated Japanese places in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJNT_jV1QQkFQRkB3CeeFwdxY/reviews/ChZDSUhNMG9nS0VJQ0FnTURvaGNucEdBEAE
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        Tried Ichi Bento for the first time this weekend and I will be adding it
+        to my go to list! Definition of top-tier, classic Seattle teriyaki. So
+        comforting! Chicken teriyaki was flavorful and moist, tempura was crisp,
+        miso soup was perfect. No notes.
+      languageCode: en
+    originalText:
+      text: >-
+        Tried Ichi Bento for the first time this weekend and I will be adding it
+        to my go to list! Definition of top-tier, classic Seattle teriyaki. So
+        comforting! Chicken teriyaki was flavorful and moist, tempura was crisp,
+        miso soup was perfect. No notes.
+      languageCode: en
+    authorAttribution:
+      displayName: Megan T
+      uri: https://www.google.com/maps/contrib/107734371255800718715/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLPVjSa0R63PP0exWyCKXRI6phLGQjkUOQofhi3bpH2Ooij4A=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-04-26T20:23:11.861402Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURvaGNucEdBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURvaGNucEdBEAE!2m1!1s0x5490105457e33f35:0x167770e179c21d90
+  - name: >-
+      places/ChIJNT_jV1QQkFQRkB3CeeFwdxY/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3N3RMeWt3RRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Best bang for your buck teriyaki in the Seattle area. $15.99 for a
+        chicken teriyaki bento box with rice, 4 piece California roll, 7 piece
+        gyoza, salad, and miso soup. Great chicken katsu as well.
+      languageCode: en
+    originalText:
+      text: >-
+        Best bang for your buck teriyaki in the Seattle area. $15.99 for a
+        chicken teriyaki bento box with rice, 4 piece California roll, 7 piece
+        gyoza, salad, and miso soup. Great chicken katsu as well.
+      languageCode: en
+    authorAttribution:
+      displayName: Kysa Bursch
+      uri: https://www.google.com/maps/contrib/118418611103955948971/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJ2ooiAWkdcFXsPNKJeyxfqQK9DIXxND1BK783hb_h9FlI99Q=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-03-19T01:04:54.679010Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUN3N3RMeWt3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUN3N3RMeWt3RRAB!2m1!1s0x5490105457e33f35:0x167770e179c21d90
+  - name: >-
+      places/ChIJNT_jV1QQkFQRkB3CeeFwdxY/reviews/ChdDSUhNMG9nS0VJQ0FnTUNBbnQ2RW9RRRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        Amazing food and affordable combo! Delicious veggie & shrimp tempura.
+        Cozy miso soup...
+
+
+        Yummy Prawn Teriyaki, nostalgic teriyaki place type of salad and
+        dressing. Diana and Eddie were very sweet. Generous business
+      languageCode: en
+    originalText:
+      text: >-
+        Amazing food and affordable combo! Delicious veggie & shrimp tempura.
+        Cozy miso soup...
+
+
+        Yummy Prawn Teriyaki, nostalgic teriyaki place type of salad and
+        dressing. Diana and Eddie were very sweet. Generous business
+      languageCode: en
+    authorAttribution:
+      displayName: Omniversexy
+      uri: https://www.google.com/maps/contrib/117081363452898267717/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWcTs7RwvaKn2wIRcl0xrtj7WH_lOKrSaSwEtxmIoE6wzInZLQi=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-02-01T04:08:19.328669Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNBbnQ2RW9RRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNBbnQ2RW9RRRAB!2m1!1s0x5490105457e33f35:0x167770e179c21d90
+  - name: >-
+      places/ChIJNT_jV1QQkFQRkB3CeeFwdxY/reviews/ChdDSUhNMG9nS0VJQ0FnSUR2cDk3amtBRRAB
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        Ichi Bento consistently has the best Teriyaki in Seattle. Their chicken
+        teriyaki always get a nice char on the outside that keeps it juicy and
+        complements the sweetness and umami of their teriyaki sauce. They’ve
+        been a part of the community for decades, and I hope they stay for many
+        to come!
+      languageCode: en
+    originalText:
+      text: >-
+        Ichi Bento consistently has the best Teriyaki in Seattle. Their chicken
+        teriyaki always get a nice char on the outside that keeps it juicy and
+        complements the sweetness and umami of their teriyaki sauce. They’ve
+        been a part of the community for decades, and I hope they stay for many
+        to come!
+      languageCode: en
+    authorAttribution:
+      displayName: James Lenert
+      uri: https://www.google.com/maps/contrib/112403352954801340677/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXlu7Qaz-f8wCmTLvIlq4SY8h3LbzZ5KIX1jW2DX3k54KivEoU0=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-12-24T18:28:18.768210Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR2cDk3amtBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR2cDk3amtBRRAB!2m1!1s0x5490105457e33f35:0x167770e179c21d90
+  - name: >-
+      places/ChIJNT_jV1QQkFQRkB3CeeFwdxY/reviews/ChdDSUhNMG9nS0VJQ0FnSUNlbnRXb3ZBRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        Feb.2025
+
+        Moved down to Everett.
+
+        Come down here for lunch every time I bring my car in for servicing at
+        Europa car Care.
+
+
+        Quality food and fast couldn't believe how quick it came out . Even at
+        4:00 in the afternoon customer stream was steady. Phone was always
+        ringing people were coming in for takeout. cook never had a chance to
+        take a break.
+
+
+        I love the misu soup on a cold day
+
+
+        October 2023
+
+        Living by Canada, but come down to here to see our mechanic
+
+        .
+
+        Always come in for lunch when he's working on the car. Always a treat
+        with beef bento. Place busy.
+
+
+        Lots of orders for yakisoba. But I find beef tender and tempura perfect.
+
+
+        With soup , California roll and salad, you can order tempura, gyozo or
+        both, I got 4gyoza and two wonderful shrimp tempura. Yum
+
+
+        Prices kept low because served in take out, which I would get anyway due
+        to large portion
+
+
+        April 2023
+
+        Been coming here for years.
+
+        Got the beef bento.
+
+
+        Tempura perfect!
+
+        Hot. Crispy. Tender. Fresh.
+
+
+        Miso soup. Flavorful. Good for digestion.
+
+
+        Salad. Cool. Crisp. Poppy dressing great taste.
+
+
+        California roll. Fresh. Great bite.
+
+
+        Beef. Tender. Lots of sauce. Rice right portion.
+
+
+        Very happy. Again.
+      languageCode: en
+    originalText:
+      text: >-
+        Feb.2025
+
+        Moved down to Everett.
+
+        Come down here for lunch every time I bring my car in for servicing at
+        Europa car Care.
+
+
+        Quality food and fast couldn't believe how quick it came out . Even at
+        4:00 in the afternoon customer stream was steady. Phone was always
+        ringing people were coming in for takeout. cook never had a chance to
+        take a break.
+
+
+        I love the misu soup on a cold day
+
+
+        October 2023
+
+        Living by Canada, but come down to here to see our mechanic
+
+        .
+
+        Always come in for lunch when he's working on the car. Always a treat
+        with beef bento. Place busy.
+
+
+        Lots of orders for yakisoba. But I find beef tender and tempura perfect.
+
+
+        With soup , California roll and salad, you can order tempura, gyozo or
+        both, I got 4gyoza and two wonderful shrimp tempura. Yum
+
+
+        Prices kept low because served in take out, which I would get anyway due
+        to large portion
+
+
+        April 2023
+
+        Been coming here for years.
+
+        Got the beef bento.
+
+
+        Tempura perfect!
+
+        Hot. Crispy. Tender. Fresh.
+
+
+        Miso soup. Flavorful. Good for digestion.
+
+
+        Salad. Cool. Crisp. Poppy dressing great taste.
+
+
+        California roll. Fresh. Great bite.
+
+
+        Beef. Tender. Lots of sauce. Rice right portion.
+
+
+        Very happy. Again.
+      languageCode: en
+    authorAttribution:
+      displayName: Jaye Lill
+      uri: https://www.google.com/maps/contrib/104194315908919165270/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWKzquo9Zr0poWzTfuz71DIKwwyuDVuNrwex_iUdM8Lixi8F9VZ=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-02-13T00:08:13.073976Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNlbnRXb3ZBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNlbnRXb3ZBRRAB!2m1!1s0x5490105457e33f35:0x167770e179c21d90
+review_summary: >-
+  What People Love About the Food$$$Visitors to this Japanese eatery often rave
+  about the flavorful teriyaki and crispy tempura that make meals feel like a
+  real treat without breaking the bank. Many appreciate the generous bento boxes
+  packed with a variety of sides like California rolls and miso soup, offering
+  solid value for a quick and satisfying bite. Folks highlight the friendly
+  service and efficient vibe, which keeps things running smoothly even during
+  busy times, adding to the overall relaxed dining experience. While some note
+  the portions are hearty enough to share, the consistent quality of the dishes
+  keeps customers coming back for more comfort eats. Overall, it's a spot that
+  delivers on tasty, affordable options, making it a favorite for anyone hunting
+  for great sushi restaurants nearby.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
+curbside_pickup: false
+delivery: false
+dine_in: true
+good_for_children: true
 good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
+good_for_sports: false
+live_music: false
+menu_for_children: true
+outdoor_seating: true
+reservable: false
+restroom: true
+serves_beer: false
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: false
+serves_coffee: false
+serves_dinner: true
 serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: false
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Unpretentious Japanese fixture features sushi & classic fare in a simple venue
+  with cultural decor.
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "UZU Revolving Sushi"
+title: UZU Revolving Sushi
 permalink: /maryland/rockville/uzu-revolving-sushi.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Rockville
 seo:
-  name: "UZU Revolving Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.uzu-sushi.com/
-description: "UZU Revolving Sushi serves delicious sushi in Rockville, Maryland. Try fresh Japanese dishes for a great dining experience. Available for, lunch, and dinner."
 place_id: ChIJMwnoAADNt4kR6qrR6uihPAs
 photos:
   - name: >-
@@ -184,6 +182,37 @@ price_range: $30 &ndash; $50
 rating: '4.8'
 rating_count: 0
 website: http://www.uzu-sushi.com/
+description: >-
+  Experience UZU Revolving Sushi in Rockville, MD$$$UZU Revolving Sushi in
+  Rockville, MD, stands out as a premier sushi restaurant blending innovative
+  dining with fresh Japanese flavors, making it a go-to spot for those seeking
+  top-rated sushi experiences nearby. The restaurant features a dynamic
+  revolving belt system that delivers a variety of artfully prepared rolls and
+  small plates, enhancing the fun and efficiency of your meal while offering
+  options like truffle-infused dishes and seasonal specials. Its modern,
+  welcoming atmosphere includes accessibility features such as
+  wheelchair-friendly seating and entrances, ensuring everyone can enjoy the
+  innovative setup comfortably. For sushi enthusiasts exploring Japanese places
+  near me, the menu highlights high-quality ingredients and creative
+  presentations that elevate everyday dining. Whether you're in the mood for
+  classic rolls or unique combinations, this spot delivers a memorable
+  experience that combines tradition with modern convenience.
+generative_summary: >-
+  Experience UZU Revolving Sushi in Rockville, MD$$$UZU Revolving Sushi in
+  Rockville, MD, stands out as a premier sushi restaurant blending innovative
+  dining with fresh Japanese flavors, making it a go-to spot for those seeking
+  top-rated sushi experiences nearby. The restaurant features a dynamic
+  revolving belt system that delivers a variety of artfully prepared rolls and
+  small plates, enhancing the fun and efficiency of your meal while offering
+  options like truffle-infused dishes and seasonal specials. Its modern,
+  welcoming atmosphere includes accessibility features such as
+  wheelchair-friendly seating and entrances, ensuring everyone can enjoy the
+  innovative setup comfortably. For sushi enthusiasts exploring Japanese places
+  near me, the menu highlights high-quality ingredients and creative
+  presentations that elevate everyday dining. Whether you're in the mood for
+  classic rolls or unique combinations, this spot delivers a memorable
+  experience that combines tradition with modern convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJMwnoAADNt4kR6qrR6uihPAs/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3Z1BYZjBnRRAB
@@ -433,6 +462,21 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNJaU1mM3hRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNJaU1mM3hRRRAB!2m1!1s0x89b7cd0000e80933:0xb3ca1e8ead1aaea
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors often rave about the fresh and
+  flavorful sushi options at this casual eatery, with many highlighting tasty
+  favorites like truffle-topped scallops and spicy yellowtail rolls that bring a
+  burst of excitement to the table. The revolving belt and robot deliveries add
+  a fun, efficient twist that makes grabbing a quick bite feel like an
+  adventure, while the attentive service keeps things smooth and enjoyable for
+  groups or solo diners. Folks appreciate the variety of choices at reasonable
+  prices, though a few mentions note minor hiccups like an item arriving too
+  cold, which doesn't overshadow the overall positives. It's clear that the
+  welcoming vibe and speedy service make it a solid pick for anyone hunting for
+  the best sushi near me, encouraging repeat visits for its reliable quality and
+  innovative flair. All in all, the feedback paints a picture of a lively spot
+  that's worth checking out for a satisfying meal with friends or family.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -462,7 +506,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -5,4 +5,5 @@ permalink: /connecticut/southington/
 stateAbbr: CT
 stateName: Connecticut
 cityName: Southington
+
 ---

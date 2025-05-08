@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "The 1126 Restaurant"
+title: The 1126 Restaurant
 permalink: /ohio/columbus/the-1126-restaurant.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Columbus
 seo:
-  name: "The 1126 Restaurant"
-  type: Restaurant
+  type: restaurant
   links: https://www.the1126restaurant.com/
-description: "Hot & cold starters, grilled fare, tempura & sushi highlight the menu at this modern Japanese spot. The 1126 Restaurant serves delicious sushi in Columbus, Ohio. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJgyQ_EvOPOIgRkbYGFy-pbkc
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $30 &ndash; $50
 rating: '4.5'
 rating_count: 0
 website: https://www.the1126restaurant.com/
+description: >-
+  Discover The 1126 Restaurant in Columbus, OH$$$Nestled in the heart of
+  Columbus, OH, The 1126 Restaurant offers a delightful blend of fresh sushi and
+  Japanese specialties that cater to a variety of tastes. This modern spot
+  features an array of hot and cold starters, grilled options, and tempura
+  dishes, all served in a casual setting perfect for unwinding with happy hour
+  drinks. Diners can enjoy the convenience of accessible features like
+  wheelchair-friendly entrances and seating, making it an inclusive choice for
+  everyone. The menu highlights creative sushi rolls and other flavorful
+  entrees, ideal for those seeking quality Japanese cuisine in a vibrant
+  neighborhood. With its focus on fresh ingredients and a relaxed vibe, it's a
+  go-to destination for sushi enthusiasts exploring options near you.
+generative_summary: >-
+  Discover The 1126 Restaurant in Columbus, OH$$$Nestled in the heart of
+  Columbus, OH, The 1126 Restaurant offers a delightful blend of fresh sushi and
+  Japanese specialties that cater to a variety of tastes. This modern spot
+  features an array of hot and cold starters, grilled options, and tempura
+  dishes, all served in a casual setting perfect for unwinding with happy hour
+  drinks. Diners can enjoy the convenience of accessible features like
+  wheelchair-friendly entrances and seating, making it an inclusive choice for
+  everyone. The menu highlights creative sushi rolls and other flavorful
+  entrees, ideal for those seeking quality Japanese cuisine in a vibrant
+  neighborhood. With its focus on fresh ingredients and a relaxed vibe, it's a
+  go-to destination for sushi enthusiasts exploring options near you.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJgyQ_EvOPOIgRkbYGFy-pbkc/reviews/ChdDSUhNMG9nS0VJQ0FnTURBd09tNTd3RRAB
@@ -358,6 +381,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNMbHFmRWxRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNMbHFmRWxRRRAB!2m1!1s0x88388ff3123f2483:0x476ea92f1706b691
+review_summary: >-
+  What People Are Saying About This Sushi Spot$$$Visitors often praise the fresh
+  sushi and creative drinks at this Columbus favorite, noting that the menu
+  offers something for every palate with standout dishes that keep people coming
+  back. While some mention occasional service lapses that could use a bit more
+  attention, the overall atmosphere and food quality shine through as highlights
+  in shared experiences. Many appreciate the generous portions and fun
+  presentation, like sushi served on a boat, which adds a playful touch to
+  meals. Despite a few bumps like minor inconsistencies, the general consensus
+  leans positive, with folks enjoying the welcoming environment for groups or
+  casual outings. If you're hunting for reliable sushi places nearby, this spot
+  delivers solid flavors that make it worth a visit, blending enjoyment with
+  honest feedback for a well-rounded dining experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidStreetParking: true
   valetParking: false
@@ -389,8 +426,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Hot & cold starters, grilled fare, tempura & sushi highlight the menu at this
   modern Japanese spot.
 

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sado Mori Japanese Steak House"
+title: Sado Mori Japanese Steak House
 permalink: /florida/tallahassee/sado-mori-japanese-steak-house.html
 stateAbbr: FL
 stateName: Florida
 cityName: Tallahassee
 seo:
-  name: "Sado Mori Japanese Steak House"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Special-occasion Japanese steakhouse offering high-energy hibachi dining, sushi & classic dishes. Sado Mori Japanese Steak House serves delicious sushi in Tallahassee, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJoX9oHMT17IgRxFvvy91gdog
 photos:
   - name: >-
@@ -185,6 +183,35 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 0
 website: null
+description: >-
+  Discover Sado Mori Japanese Steak House in Tallahassee, FL$$$Sado Mori
+  Japanese Steak House in Tallahassee, Florida, stands out as a vibrant
+  destination for those craving authentic Japanese cuisine, including fresh
+  sushi and interactive hibachi dining. This spot delivers an energetic
+  atmosphere where diners can enjoy sizzling entrees prepared right at the
+  table, complemented by flavorful sides like ginger salad and miso soup for a
+  complete meal. With its accessible features and ample parking, it's an ideal
+  choice for groups or families seeking a memorable outing without the hassle.
+  The menu highlights classic dishes that blend tradition with excitement,
+  making it a go-to option for anyone exploring top-rated sushi restaurants in
+  the area. Overall, it offers a welcoming vibe that captures the essence of
+  Japanese dining, perfect for those searching for quality sushi experiences
+  nearby.
+generative_summary: >-
+  Discover Sado Mori Japanese Steak House in Tallahassee, FL$$$Sado Mori
+  Japanese Steak House in Tallahassee, Florida, stands out as a vibrant
+  destination for those craving authentic Japanese cuisine, including fresh
+  sushi and interactive hibachi dining. This spot delivers an energetic
+  atmosphere where diners can enjoy sizzling entrees prepared right at the
+  table, complemented by flavorful sides like ginger salad and miso soup for a
+  complete meal. With its accessible features and ample parking, it's an ideal
+  choice for groups or families seeking a memorable outing without the hassle.
+  The menu highlights classic dishes that blend tradition with excitement,
+  making it a go-to option for anyone exploring top-rated sushi restaurants in
+  the area. Overall, it offers a welcoming vibe that captures the essence of
+  Japanese dining, perfect for those searching for quality sushi experiences
+  nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJoX9oHMT17IgRxFvvy91gdog/reviews/ChZDSUhNMG9nS0VJQ0FnSUNiLWR2NUxBEAE
@@ -368,6 +395,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNJN2N6VVpnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNJN2N6VVpnEAE!2m1!1s0x88ecf5c41c687fa1:0x887660ddcbef5bc4
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this Japanese steak house often praise
+  the fresh and delicious sushi, along with tasty accompaniments like ginger
+  salad and miso soup that add a nice touch to every meal. Many appreciate the
+  fun, interactive hibachi setup, which makes it a hit for family gatherings or
+  casual nights out, though a few mention occasional lapses in service that
+  could use some improvement. Despite these minor hiccups, the overall
+  experience shines through with positive notes on the flavorful dishes and easy
+  parking, encouraging repeat visits for those who love exploring local sushi
+  spots. Folks generally find it a solid pick for a satisfying dine-in
+  adventure, blending good vibes with honest value that keeps the energy high.
+  If you're on the hunt for reliable Japanese places near you, this one delivers
+  a mostly enjoyable vibe with room for even better service down the line.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -399,8 +440,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Special-occasion Japanese steakhouse offering high-energy hibachi dining,
   sushi & classic dishes.
 

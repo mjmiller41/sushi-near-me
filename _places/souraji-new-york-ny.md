@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "SourAji"
+title: SourAji
 permalink: /new-york/new-york/souraji.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "SourAji"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "SourAji serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJOw7xqgZZwokRO2ReYlnHxJw
 photos:
   - name: >-
@@ -167,8 +165,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c25906aaf10e3b:0x9cc4c759625e643b!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 17
+        minute: 30
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 17
+        minute: 30
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 30
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 5:30 – 10:00 PM'
+    - 'Tuesday: 5:30 – 10:00 PM'
+    - 'Wednesday: 5:30 – 10:00 PM'
+    - 'Thursday: 5:30 – 10:00 PM'
+    - 'Friday: 5:00 – 11:00 PM'
+    - 'Saturday: 5:00 – 11:00 PM'
+    - 'Sunday: 5:30 – 10:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -176,13 +239,55 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
+phone: (917) 561-0895
 price_level: null
-price_range: null
-rating: null
-rating_count: 0
+price_range: $100 &ndash; & up
+rating: '4.5'
+rating_count: 593
 website: null
+description: >-
+  Discover SourAji in New York, NY$$$SourAji in New York, NY, stands out as a
+  vibrant Japanese restaurant delivering an immersive omakase dining adventure
+  where guests can savor an endless array of fresh, flavorful dishes. This spot
+  emphasizes traditional Japanese techniques with a modern twist, offering a
+  limitless supply of meticulously prepared cuisine that appeals to those
+  seeking authentic tastes in a welcoming setting. Diners can enjoy the
+  excitement of an all-you-can-eat experience, featuring high-quality
+  ingredients that highlight the best of Japanese culinary artistry, making it a
+  go-to choice for sushi enthusiasts exploring options near the city. With
+  evening hours that extend into the night, it's perfect for anyone looking for
+  top-rated Japanese places in a bustling urban environment. The restaurant's
+  operational vibe ensures a seamless visit, blending elegance and accessibility
+  for a memorable meal.
+generative_summary: >-
+  Discover SourAji in New York, NY$$$SourAji in New York, NY, stands out as a
+  vibrant Japanese restaurant delivering an immersive omakase dining adventure
+  where guests can savor an endless array of fresh, flavorful dishes. This spot
+  emphasizes traditional Japanese techniques with a modern twist, offering a
+  limitless supply of meticulously prepared cuisine that appeals to those
+  seeking authentic tastes in a welcoming setting. Diners can enjoy the
+  excitement of an all-you-can-eat experience, featuring high-quality
+  ingredients that highlight the best of Japanese culinary artistry, making it a
+  go-to choice for sushi enthusiasts exploring options near the city. With
+  evening hours that extend into the night, it's perfect for anyone looking for
+  top-rated Japanese places in a bustling urban environment. The restaurant's
+  operational vibe ensures a seamless visit, blending elegance and accessibility
+  for a memorable meal.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Buzzing About$$$Folks rave about the lively omakase setup at
+  this Japanese spot, where the endless flow of tasty dishes and drinks like
+  sake keeps the energy high and the experience truly engaging. Many highlight
+  the variety of fresh options, including premium tuna and wagyu, that make it
+  feel like a fantastic value without skimping on quality. The staff comes
+  across as super friendly and attentive, adding to the fun atmosphere that
+  encourages groups to linger and enjoy. Overall, it's praised for delivering a
+  solid, entertaining dining vibe that leaves people satisfied and eager to
+  return. While it's not without the occasional wait, the positive vibes and
+  flavorful offerings keep it a favorite for anyone hunting for great sushi
+  nearby.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -208,7 +313,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

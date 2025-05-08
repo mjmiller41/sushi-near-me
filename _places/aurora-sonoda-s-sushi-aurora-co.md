@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Aurora Sonoda's Sushi"
+title: Aurora Sonoda's Sushi
 permalink: /colorado/aurora/aurora-sonoda-s-sushi.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Aurora
 seo:
-  name: "Aurora Sonoda's Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://aurorasonodassushi.com/
-description: "Aurora Sonoda's Sushi serves delicious sushi in Aurora, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJKVx5E-SHbIcR7cD3UTrLAGI
 photos:
   - name: >-
@@ -170,7 +168,113 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x876c87e413795c29:0x6200cb3a51f7c0ed!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 16
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 14
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 14
+        minute: 0
+    - open:
+        day: 6
+        hour: 16
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 2:00 PM, 4:30 – 9:00 PM'
     - 'Tuesday: 11:30 AM – 2:00 PM, 4:30 – 9:00 PM'
     - 'Wednesday: 11:30 AM – 2:00 PM, 4:30 – 9:00 PM'
@@ -178,14 +282,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 2:00 PM, 4:30 – 9:30 PM'
     - 'Saturday: 11:30 AM – 2:00 PM, 4:30 – 9:30 PM'
     - 'Sunday: 4:00 – 9:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 2:00 PM, 4:30 – 9:00 PM'
-    - 'Tuesday: 11:30 AM – 2:00 PM, 4:30 – 9:00 PM'
-    - 'Wednesday: 11:30 AM – 2:00 PM, 4:30 – 9:00 PM'
-    - 'Thursday: 11:30 AM – 2:00 PM, 4:30 – 9:00 PM'
-    - 'Friday: 11:30 AM – 2:00 PM, 4:30 – 9:30 PM'
-    - 'Saturday: 11:30 AM – 2:00 PM, 4:30 – 9:30 PM'
-    - 'Sunday: 4:00 – 9:00 PM'
+  nextOpenTime: '2025-05-03T22:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +294,288 @@ phone: (303) 337-3800
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.5'
-rating_count: 0
+rating_count: 768
 website: https://aurorasonodassushi.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Aurora Sonoda's Sushi in Aurora, Colorado$$$Aurora Sonoda's Sushi in
+  Aurora, CO, stands out as a welcoming spot for enjoying fresh sushi and
+  authentic Japanese dishes in a relaxed setting. This casual eatery specializes
+  in creative presentations of raw fish alongside traditional cooked options,
+  complemented by a selection of beer, wine, and sake to enhance the meal. With
+  its convenient location in a strip mall, the restaurant offers accessibility
+  features like wheelchair-friendly entrances and parking, making it easy for
+  everyone to savor the experience. Operating with hours that cater to both
+  lunch and dinner crowds, it's an ideal choice for those seeking quality
+  Japanese fare without the fuss. Whether you're in the mood for neighborhood
+  sushi options or exploring top-rated Japanese places nearby, this spot
+  delivers flavorful dishes at moderate prices that keep diners coming back.
+generative_summary: >-
+  Discover Aurora Sonoda's Sushi in Aurora, Colorado$$$Aurora Sonoda's Sushi in
+  Aurora, CO, stands out as a welcoming spot for enjoying fresh sushi and
+  authentic Japanese dishes in a relaxed setting. This casual eatery specializes
+  in creative presentations of raw fish alongside traditional cooked options,
+  complemented by a selection of beer, wine, and sake to enhance the meal. With
+  its convenient location in a strip mall, the restaurant offers accessibility
+  features like wheelchair-friendly entrances and parking, making it easy for
+  everyone to savor the experience. Operating with hours that cater to both
+  lunch and dinner crowds, it's an ideal choice for those seeking quality
+  Japanese fare without the fuss. Whether you're in the mood for neighborhood
+  sushi options or exploring top-rated Japanese places nearby, this spot
+  delivers flavorful dishes at moderate prices that keep diners coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJKVx5E-SHbIcR7cD3UTrLAGI/reviews/ChdDSUhNMG9nS0VJQ0FnTUNvcWZ5NjJBRRAB
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        Best traditional Japanese sushi in Denver, hands down. And at reasonable
+        prices.
+
+        I have lived in Japan and I know my sushi. If you want authenticity and
+        the best fish, this is the place to go. Japanese residents of Denver
+        know that well and patronize the place actively.
+      languageCode: en
+    originalText:
+      text: >-
+        Best traditional Japanese sushi in Denver, hands down. And at reasonable
+        prices.
+
+        I have lived in Japan and I know my sushi. If you want authenticity and
+        the best fish, this is the place to go. Japanese residents of Denver
+        know that well and patronize the place actively.
+      languageCode: en
+    authorAttribution:
+      displayName: Francois D
+      uri: https://www.google.com/maps/contrib/112600473356501066722/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLf2cv00B18yZtb3gKlWqkdfqpJsA4SY0JgbIchjd3z-tbVyQ=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-04-18T04:32:06.533117Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNvcWZ5NjJBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNvcWZ5NjJBRRAB!2m1!1s0x876c87e413795c29:0x6200cb3a51f7c0ed
+  - name: >-
+      places/ChIJKVx5E-SHbIcR7cD3UTrLAGI/reviews/ChdDSUhNMG9nS0VJQ0FnSUMxNy1DMnhBRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        There's a reason this place has been open for so long - the fish is
+        fresh!
+
+
+        The chefs take special care in preparing each serving with love.
+
+        The presentation is beautiful and the flavors match well and pop.
+
+
+        The staff is super friendly and for the price there's few places that
+        could match it in the Denver area.
+
+
+        They have a great selection of beer and sake to wash everything down
+        with and the ambience is nice and retro.
+
+
+        Come here to be satisfied with sushi!
+      languageCode: en
+    originalText:
+      text: >-
+        There's a reason this place has been open for so long - the fish is
+        fresh!
+
+
+        The chefs take special care in preparing each serving with love.
+
+        The presentation is beautiful and the flavors match well and pop.
+
+
+        The staff is super friendly and for the price there's few places that
+        could match it in the Denver area.
+
+
+        They have a great selection of beer and sake to wash everything down
+        with and the ambience is nice and retro.
+
+
+        Come here to be satisfied with sushi!
+      languageCode: en
+    authorAttribution:
+      displayName: Michael Abbott
+      uri: https://www.google.com/maps/contrib/118177499419710324789/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUkvfOjkSxH2UHr68SSgB2XH7neSWIJx43Crgw5i_x71vP9jdFY=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-01-04T12:20:15.858604Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMxNy1DMnhBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMxNy1DMnhBRRAB!2m1!1s0x876c87e413795c29:0x6200cb3a51f7c0ed
+  - name: >-
+      places/ChIJKVx5E-SHbIcR7cD3UTrLAGI/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfOE1qMHdBRRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        The most under-rated sushi restaurant of Colorado. Yes, you can have
+        fancier sushi "rolls" elsewhere but this is the place Japanese go to for
+        sushi. Easily the best spot for nigiri, sushi, and CHIRASHI.
+      languageCode: en
+    originalText:
+      text: >-
+        The most under-rated sushi restaurant of Colorado. Yes, you can have
+        fancier sushi "rolls" elsewhere but this is the place Japanese go to for
+        sushi. Easily the best spot for nigiri, sushi, and CHIRASHI.
+      languageCode: en
+    authorAttribution:
+      displayName: Sithone Xiong
+      uri: https://www.google.com/maps/contrib/111544062908037519959/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocK0XFW3VLbQKa7d82gNAIouBZyMv_dqcFIZM1Z4oUBro-IOwQ=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-01-12T04:53:42.215036Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNfOE1qMHdBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNfOE1qMHdBRRAB!2m1!1s0x876c87e413795c29:0x6200cb3a51f7c0ed
+  - name: >-
+      places/ChIJKVx5E-SHbIcR7cD3UTrLAGI/reviews/ChdDSUhNMG9nS0VJQ0FnTURnaW9xZDJBRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        I planned a women's sushi group happy hour dinner here.  It was a gem
+        for all.  Fresh fish, great prices.
+
+        Happy hour sushi was a little lacking but the drinks and regular prices
+        made up for it.
+
+        Our server was a delight even with our group of 9.
+
+        If you have a larger group just make sure you grt a few appetizers for
+        the table as it's a small kitchen so food comes when it comes.
+
+        Will be back and add to the photos so everyone knows when happy hour is.
+      languageCode: en
+    originalText:
+      text: >-
+        I planned a women's sushi group happy hour dinner here.  It was a gem
+        for all.  Fresh fish, great prices.
+
+        Happy hour sushi was a little lacking but the drinks and regular prices
+        made up for it.
+
+        Our server was a delight even with our group of 9.
+
+        If you have a larger group just make sure you grt a few appetizers for
+        the table as it's a small kitchen so food comes when it comes.
+
+        Will be back and add to the photos so everyone knows when happy hour is.
+      languageCode: en
+    authorAttribution:
+      displayName: Jacki Smith
+      uri: https://www.google.com/maps/contrib/107716125958999688446/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUaBrU2E6DEc0KjndVI6pDjNWXJmYY8sBrfYskracPc30e9Yb29aA=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-02-23T23:10:45.969779Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURnaW9xZDJBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURnaW9xZDJBRRAB!2m1!1s0x876c87e413795c29:0x6200cb3a51f7c0ed
+  - name: >-
+      places/ChIJKVx5E-SHbIcR7cD3UTrLAGI/reviews/ChdDSUhNMG9nS0VJQ0FnSUM3bXRqd3dRRRAB
+    relativePublishTimeDescription: 8 months ago
+    rating: 3
+    text:
+      text: >-
+        The star of the show was the sea eel roll. Based on structure and
+        reduced quantity per roll, I'm not sure I will come again.
+
+
+        The spicy California roll didn't have much spice or much effort to make
+        sure each bite could be picked up cleanly with chopsticks.
+
+
+        The Yellowtail and Tuna rolls, were much smaller than expected given
+        that all the rolls ordered were around the same price point.
+
+
+        Maybe next time, I will dine-in and see if things are different.
+      languageCode: en
+    originalText:
+      text: >-
+        The star of the show was the sea eel roll. Based on structure and
+        reduced quantity per roll, I'm not sure I will come again.
+
+
+        The spicy California roll didn't have much spice or much effort to make
+        sure each bite could be picked up cleanly with chopsticks.
+
+
+        The Yellowtail and Tuna rolls, were much smaller than expected given
+        that all the rolls ordered were around the same price point.
+
+
+        Maybe next time, I will dine-in and see if things are different.
+      languageCode: en
+    authorAttribution:
+      displayName: megan l.
+      uri: https://www.google.com/maps/contrib/103180158010649158844/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXia675Po2frmQeBvpzqXA_M3abpLyRdAxKOLTGFgZpnIBMbhqR=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-08-15T01:27:41.985694Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUM3bXRqd3dRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUM3bXRqd3dRRRAB!2m1!1s0x876c87e413795c29:0x6200cb3a51f7c0ed
+review_summary: >-
+  What Diners Are Saying About This Sushi Favorite$$$Folks often rave about the
+  fresh fish and authentic flavors at this spot, making it a go-to for
+  satisfying sushi cravings without breaking the bank. Many appreciate the
+  variety of options like nigiri and specialty rolls that hit the spot with
+  their balance of taste and presentation, even if happy hour picks can vary.
+  The service stands out as friendly and attentive, creating a comfortable vibe
+  that's perfect for groups or a quick meal, though some note that larger orders
+  might take a bit in the cozy kitchen. Overall, it's praised for offering great
+  value in the Denver area, with a retro ambiance that adds to the charm. If
+  you're hunting for reliable sushi near you, this place generally leaves
+  customers feeling pleased and eager to return for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
+serves_coffee: true
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Strip-mall sushi house turning out fresh raw fish in creative forms along with
+  cooked Japanese fare.
 
 ---

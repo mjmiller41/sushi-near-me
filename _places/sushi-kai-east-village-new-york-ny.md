@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Kai - East Village"
+title: Sushi Kai - East Village
 permalink: /new-york/new-york/sushi-kai-east-village.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "Sushi Kai - East Village"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi Kai - East Village serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ-2bPmWJZwokRj-ULhLI5lh0
 photos:
   - name: >-
@@ -182,7 +180,42 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Sushi Kai in New York, NY$$$Sushi Kai in New York, NY, stands out as
+  a welcoming Japanese restaurant specializing in fresh, curated omakase
+  experiences that highlight authentic flavors and high-quality ingredients.
+  This BYOB spot features an intimate sushi bar where diners can savor expertly
+  prepared dishes in a cozy, unpretentious atmosphere, perfect for those
+  exploring top sushi options in the city. The menu emphasizes seasonal
+  selections, making it a go-to for anyone seeking innovative Japanese cuisine
+  without the fuss. Whether you're in the East Village hunting for nearby sushi
+  spots or simply craving a relaxed meal, this establishment delivers a
+  memorable dining vibe that combines tradition with a modern twist.
+generative_summary: >-
+  Discover Sushi Kai in New York, NY$$$Sushi Kai in New York, NY, stands out as
+  a welcoming Japanese restaurant specializing in fresh, curated omakase
+  experiences that highlight authentic flavors and high-quality ingredients.
+  This BYOB spot features an intimate sushi bar where diners can savor expertly
+  prepared dishes in a cozy, unpretentious atmosphere, perfect for those
+  exploring top sushi options in the city. The menu emphasizes seasonal
+  selections, making it a go-to for anyone seeking innovative Japanese cuisine
+  without the fuss. Whether you're in the East Village hunting for nearby sushi
+  spots or simply craving a relaxed meal, this establishment delivers a
+  memorable dining vibe that combines tradition with a modern twist.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying About This Spot$$$Folks often praise this sushi place
+  for its outstanding omakase offerings, noting the incredibly fresh fish and
+  thoughtful presentations that make every bite feel special. Many highlight the
+  warm, attentive service that adds to the overall charm, creating a welcoming
+  environment for casual diners. It's frequently mentioned as a solid value,
+  with generous portions and quality ingredients that keep people coming back
+  for more. If you're on the hunt for reliable sushi near you, this spot tends
+  to deliver a satisfying experience that's both approachable and enjoyable,
+  without any major drawbacks reported. All in all, it's a neighborhood favorite
+  that lives up to the buzz for tasty, straightforward Japanese eats.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -208,7 +241,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

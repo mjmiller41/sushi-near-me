@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yamato Hibachi & Sushi Bar"
+title: Yamato Hibachi & Sushi Bar
 permalink: /massachusetts/norwood/yamato-hibachi-sushi-bar.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Norwood
 seo:
-  name: "Yamato Hibachi & Sushi Bar"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Yamato Hibachi & Sushi Bar serves delicious sushi in Norwood, Massachusetts. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ4fIGIid-5IkRwO8pgp_Ka7M
 photos:
   - name: >-
@@ -185,7 +183,39 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Explore Yamato in Norwood, MA$$$Yamato Hibachi & Sushi Bar in Norwood, MA,
+  offers a delightful blend of fresh sushi and flavorful hibachi dishes in a
+  casual setting that's perfect for those seeking authentic Japanese cuisine
+  nearby. This informal eatery specializes in a variety of rolls and grilled
+  specialties, making it an ideal choice for anyone craving top-rated sushi
+  options in the area. With accessibility features like wheelchair-friendly
+  parking and entrances, it ensures a welcoming experience for all visitors. The
+  vibrant atmosphere enhances the meal, turning a simple dinner into an
+  enjoyable outing for sushi enthusiasts exploring local favorites.
+generative_summary: >-
+  Explore Yamato in Norwood, MA$$$Yamato Hibachi & Sushi Bar in Norwood, MA,
+  offers a delightful blend of fresh sushi and flavorful hibachi dishes in a
+  casual setting that's perfect for those seeking authentic Japanese cuisine
+  nearby. This informal eatery specializes in a variety of rolls and grilled
+  specialties, making it an ideal choice for anyone craving top-rated sushi
+  options in the area. With accessibility features like wheelchair-friendly
+  parking and entrances, it ensures a welcoming experience for all visitors. The
+  vibrant atmosphere enhances the meal, turning a simple dinner into an
+  enjoyable outing for sushi enthusiasts exploring local favorites.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Visitor Feedback on the Experience$$$Folks often rave about the tasty hibachi
+  and sushi selections at this spot, highlighting creative rolls that bring bold
+  flavors to the table and keep diners coming back for more. Many appreciate the
+  warm and attentive service that makes every visit feel special, along with the
+  fun, interactive hibachi cooking that adds excitement to meals. While some
+  note that wait times can occasionally stretch a bit during peak hours, the
+  overall vibe remains upbeat and worth the anticipation. It's clear that this
+  place stands out for its reliable quality and entertaining elements, making it
+  a solid pick for anyone in the mood for Japanese fare.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +241,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

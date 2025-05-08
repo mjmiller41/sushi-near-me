@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sakura Blue"
+title: Sakura Blue
 permalink: /kentucky/louisville/sakura-blue.html
 stateAbbr: KY
 stateName: Kentucky
 cityName: Louisville
 seo:
-  name: "Sakura Blue"
-  type: Restaurant
+  type: restaurant
   links: http://sakurabluelouisville.com/
-description: "Relaxed restaurant offering classic Japanese cuisine at the sushi bar or hibachi tables. Sakura Blue serves delicious sushi in Louisville, Kentucky. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJnyANjzt1aYgRK8fWJDri2sw
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 0
 website: http://sakurabluelouisville.com/
+description: >-
+  About Sakura Blue in Louisville, KY$$$Sakura Blue in Louisville, KY, stands
+  out as a welcoming Japanese restaurant offering a blend of authentic sushi and
+  flavorful entrees in a cozy setting. This spot is ideal for those seeking
+  sushi restaurants near you, with options ranging from fresh rolls to
+  hibachi-style dishes that highlight traditional flavors and moderate pricing.
+  The atmosphere combines casual comfort with accessibility features like
+  wheelchair-friendly entrances and seating, making it easy for everyone to
+  enjoy a relaxed meal. Additionally, the menu caters to various tastes,
+  including vegetarian choices and kid-friendly options, enhancing its appeal as
+  a go-to destination for Japanese places near me. Whether you're in the mood
+  for top-rated sushi or a satisfying lunch, this location delivers a genuine
+  dining experience that feels both inviting and accessible.
+generative_summary: >-
+  About Sakura Blue in Louisville, KY$$$Sakura Blue in Louisville, KY, stands
+  out as a welcoming Japanese restaurant offering a blend of authentic sushi and
+  flavorful entrees in a cozy setting. This spot is ideal for those seeking
+  sushi restaurants near you, with options ranging from fresh rolls to
+  hibachi-style dishes that highlight traditional flavors and moderate pricing.
+  The atmosphere combines casual comfort with accessibility features like
+  wheelchair-friendly entrances and seating, making it easy for everyone to
+  enjoy a relaxed meal. Additionally, the menu caters to various tastes,
+  including vegetarian choices and kid-friendly options, enhancing its appeal as
+  a go-to destination for Japanese places near me. Whether you're in the mood
+  for top-rated sushi or a satisfying lunch, this location delivers a genuine
+  dining experience that feels both inviting and accessible.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJnyANjzt1aYgRK8fWJDri2sw/reviews/ChdDSUhNMG9nS0VJQ0FnTURnMHV2ZGhnRRAB
@@ -338,6 +363,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUR3a3Zyd3Z3RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUR3a3Zyd3Z3RRAB!2m1!1s0x8869753b8f0d209f:0xccdae23a24d6c72b
+review_summary: >-
+  What Visitors Are Sharing$$$Folks heading to sushi spots like this one often
+  praise the tasty rolls and Japanese dishes for their generous portions and
+  bold flavors, making it a solid pick for anyone craving fresh options nearby.
+  Many appreciate the welcoming vibe and attentive service that keep things
+  feeling easygoing and enjoyable, along with perks like reasonable prices and
+  convenient parking. While most feedback highlights positives such as the
+  flavorful ginger dressing and overall value, a few mention occasional
+  inconsistencies with certain preparations that didn't quite hit the mark.
+  Still, it's generally seen as a reliable choice for groups or families looking
+  for quality sushi experiences without the fuss. All in all, if you're
+  searching for best sushi near me, this place offers a mix of hits that make it
+  worth a try for a casual outing.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -370,8 +409,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Relaxed restaurant offering classic Japanese cuisine at the sushi bar or
   hibachi tables.
 

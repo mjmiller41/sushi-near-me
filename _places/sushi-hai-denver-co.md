@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Hai"
+title: Sushi Hai
 permalink: /colorado/denver/sushi-hai.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Denver
 seo:
-  name: "Sushi Hai"
-  type: Restaurant
+  type: restaurant
   links: https://sushihai.com/
-description: "Sushi Hai serves delicious sushi in Denver, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJC5x402KHa4cRyDdbfVDXrog
 photos:
   - name: >-
@@ -169,7 +167,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x876b8762d3789c0b:0x88aed7507d5b37c8!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 9:30 PM'
     - 'Tuesday: 11:30 AM – 9:30 PM'
     - 'Wednesday: 11:30 AM – 9:30 PM'
@@ -177,14 +233,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 10:00 PM'
     - 'Saturday: 11:30 AM – 10:00 PM'
     - 'Sunday: 11:30 AM – 9:30 PM'
-  current:
-    - 'Monday: 11:30 AM – 9:30 PM'
-    - 'Tuesday: 11:30 AM – 9:30 PM'
-    - 'Wednesday: 11:30 AM – 9:30 PM'
-    - 'Thursday: 11:30 AM – 9:30 PM'
-    - 'Friday: 11:30 AM – 10:00 PM'
-    - 'Saturday: 11:30 AM – 10:00 PM'
-    - 'Sunday: 11:30 AM – 9:30 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,9 +245,42 @@ phone: (720) 855-0888
 price_level: PRICE_LEVEL_MODERATE
 price_range: $30 &ndash; $50
 rating: '4.4'
-rating_count: 0
+rating_count: 1296
 website: https://sushihai.com/
+description: >-
+  Discover Sushi Hai in Denver$$$Sushi Hai in Denver, Colorado, stands out as a
+  welcoming spot for Japanese cuisine enthusiasts, offering a variety of fresh
+  rolls and classic dishes in a relaxed setting. This spot highlights its
+  commitment to quality ingredients and creative flavors, making it a go-to
+  choice for anyone craving authentic tastes without the formality. With
+  accessibility features like wheelchair-friendly entrances and seating, it's
+  designed to accommodate all visitors comfortably. Extended hours through the
+  evenings and weekends add to its appeal for casual dining or quick bites,
+  including value-driven specials that enhance the overall experience.
+generative_summary: >-
+  Discover Sushi Hai in Denver$$$Sushi Hai in Denver, Colorado, stands out as a
+  welcoming spot for Japanese cuisine enthusiasts, offering a variety of fresh
+  rolls and classic dishes in a relaxed setting. This spot highlights its
+  commitment to quality ingredients and creative flavors, making it a go-to
+  choice for anyone craving authentic tastes without the formality. With
+  accessibility features like wheelchair-friendly entrances and seating, it's
+  designed to accommodate all visitors comfortably. Extended hours through the
+  evenings and weekends add to its appeal for casual dining or quick bites,
+  including value-driven specials that enhance the overall experience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this Denver sushi spot often praise
+  the fresh flavors and reliable service that keep them coming back for more.
+  Many highlight the tasty rolls and generous portions as standout features,
+  creating a satisfying meal every time. While opinions vary, the general buzz
+  leans positive, with folks appreciating the laid-back vibe that makes it ideal
+  for groups or solo diners. Overall, the high marks reflect a solid spot for
+  quality Japanese fare, encouraging newcomers to try it for themselves and
+  enjoy the welcoming atmosphere. If you're searching for great sushi options
+  nearby, this place delivers a consistently enjoyable experience worth checking
+  out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -224,7 +306,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Volcano Hibachi Express & Sushi"
+title: Volcano Hibachi Express & Sushi
 permalink: /virginia/newport-news/volcano-hibachi-express-sushi.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Newport News
 seo:
-  name: "Volcano Hibachi Express & Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.volcanosushinewportnews.com/
-description: "Volcano Hibachi Express & Sushi serves delicious sushi in Newport News, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJmcH-rNF-sIkRpjuEB9ZAAlA
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $10 &ndash; $20
 rating: '3.4'
 rating_count: 0
 website: http://www.volcanosushinewportnews.com/
+description: >-
+  Discover Volcano Hibachi Express & Sushi in Newport News, VA$$$Volcano Hibachi
+  Express & Sushi in Newport News, VA, offers a laid-back vibe perfect for
+  enjoying fresh Japanese cuisine, including flavorful sushi and hibachi options
+  that appeal to those seeking top-rated sushi experiences nearby. This spot
+  specializes in takeout-friendly meals like bento boxes, making it a convenient
+  choice for quick, satisfying dinners without the fuss. With accessible
+  features such as wheelchair-friendly entrances and parking, it's an inclusive
+  option for a wide range of diners looking for Japanese places near me. The
+  menu highlights a variety of dishes that balance simplicity and taste, ideal
+  for anyone craving authentic flavors in a relaxed setting.
+generative_summary: >-
+  Discover Volcano Hibachi Express & Sushi in Newport News, VA$$$Volcano Hibachi
+  Express & Sushi in Newport News, VA, offers a laid-back vibe perfect for
+  enjoying fresh Japanese cuisine, including flavorful sushi and hibachi options
+  that appeal to those seeking top-rated sushi experiences nearby. This spot
+  specializes in takeout-friendly meals like bento boxes, making it a convenient
+  choice for quick, satisfying dinners without the fuss. With accessible
+  features such as wheelchair-friendly entrances and parking, it's an inclusive
+  option for a wide range of diners looking for Japanese places near me. The
+  menu highlights a variety of dishes that balance simplicity and taste, ideal
+  for anyone craving authentic flavors in a relaxed setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJmcH-rNF-sIkRpjuEB9ZAAlA/reviews/ChdDSUhNMG9nS0VJQ0FnSURldjZ5OTBBRRAB
@@ -374,6 +395,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNNLVp6aWV3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNNLVp6aWV3EAE!2m1!1s0x89b07ed1acfec199:0x500240d607843ba6
+review_summary: >-
+  Insights from Customer Reviews$$$Folks generally appreciate the tasty sushi
+  rolls and hibachi meals at this spot, noting that the flavors hit the mark for
+  a solid, everyday meal option. While some mention minor hiccups like service
+  speed or portion sizes that could use a tweak, the overall experience often
+  leaves people satisfied with the value for the price. It's clear that the food
+  quality stands out, with many enjoying the variety that makes it a go-to for
+  sushi enthusiasts in the area. Despite a few comments on the atmosphere
+  feeling a bit chilly or basic, the positives around fresh ingredients and
+  takeout ease keep the vibe upbeat and worth checking out. All in all, if
+  you're hunting for reliable sushi restaurants nearby, this place delivers a
+  generally enjoyable meal with room for the occasional improvement.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -405,7 +439,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

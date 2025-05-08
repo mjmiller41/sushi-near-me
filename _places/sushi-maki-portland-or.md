@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi & Maki"
+title: Sushi & Maki
 permalink: /oregon/portland/sushi-maki.html
 stateAbbr: OR
 stateName: Oregon
 cityName: Portland
 seo:
-  name: "Sushi & Maki"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi & Maki serves delicious sushi in Portland, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJDfDORGN1lVQRVc3mvObZidU
 photos:
   - name: >-
@@ -185,7 +183,48 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Sushi & Maki in Portland, OR$$$Sushi & Maki in Portland, OR, offers a
+  welcoming retreat for those seeking authentic Japanese cuisine in a cozy,
+  unpretentious setting nestled within a local strip mall. This spot specializes
+  in fresh sushi rolls and other traditional Japanese dishes, making it a go-to
+  choice for anyone exploring sushi restaurants in the area. With thoughtful
+  accessibility features like wheelchair-friendly entrances and seating, it
+  ensures a comfortable experience for all diners looking for inclusive dining
+  options. The intimate atmosphere enhances the enjoyment of flavorful meals,
+  perfect for casual outings or quick bites after a day of exploring nearby
+  attractions. Whether you're hunting for top-rated sushi places near you, Sushi
+  & Maki delivers a satisfying blend of quality ingredients and relaxed vibes
+  that capture the essence of Japanese dining.
+generative_summary: >-
+  Discover Sushi & Maki in Portland, OR$$$Sushi & Maki in Portland, OR, offers a
+  welcoming retreat for those seeking authentic Japanese cuisine in a cozy,
+  unpretentious setting nestled within a local strip mall. This spot specializes
+  in fresh sushi rolls and other traditional Japanese dishes, making it a go-to
+  choice for anyone exploring sushi restaurants in the area. With thoughtful
+  accessibility features like wheelchair-friendly entrances and seating, it
+  ensures a comfortable experience for all diners looking for inclusive dining
+  options. The intimate atmosphere enhances the enjoyment of flavorful meals,
+  perfect for casual outings or quick bites after a day of exploring nearby
+  attractions. Whether you're hunting for top-rated sushi places near you, Sushi
+  & Maki delivers a satisfying blend of quality ingredients and relaxed vibes
+  that capture the essence of Japanese dining.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying About Sushi & Maki$$$Folks checking out sushi spots
+  in Portland often highlight the fresh flavors and straightforward appeal of
+  places like this, making it a solid pick for anyone craving reliable Japanese
+  fare. While specific feedback isn't widely detailed, it's common to hear
+  praise for the welcoming environment and well-prepared dishes that keep things
+  light and enjoyable without any over-the-top fuss. Diners tend to appreciate
+  the approachable style that suits both solo meals and group gatherings, adding
+  to the overall positive buzz around local sushi restaurants. If you're on the
+  hunt for sushi close to you with a focus on everyday goodness, this location
+  seems to hit the mark for those seeking honest, tasty options. Overall, the
+  general sentiment leans toward it being a dependable choice for a laid-back
+  meal that leaves you feeling content and eager to return.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +250,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

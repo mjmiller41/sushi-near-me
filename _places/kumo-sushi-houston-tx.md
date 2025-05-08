@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kumo Sushi"
+title: Kumo Sushi
 permalink: /texas/houston/kumo-sushi.html
 stateAbbr: TX
 stateName: Texas
 cityName: Houston
 seo:
-  name: "Kumo Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.kumosushihouston.com/
-description: "Kumo Sushi serves delicious sushi in Houston, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJyV4HCpTNQIYRtY6_R8S6dxE
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8640cd940a075ec9:0x1177bac447bf8eb5!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:30 PM'
     - 'Tuesday: 11:00 AM – 9:30 PM'
     - 'Wednesday: 11:00 AM – 9:30 PM'
@@ -178,54 +234,429 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:00 PM'
     - 'Saturday: 11:00 AM – 10:00 PM'
     - 'Sunday: 11:00 AM – 9:30 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:30 PM'
-    - 'Tuesday: 11:00 AM – 9:30 PM'
-    - 'Wednesday: 11:00 AM – 9:30 PM'
-    - 'Thursday: 11:00 AM – 9:30 PM'
-    - 'Friday: 11:00 AM – 10:00 PM'
-    - 'Saturday: 11:00 AM – 10:00 PM'
-    - 'Sunday: 11:00 AM – 9:30 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 14
+          minute: 0
+        close:
+          day: 0
+          hour: 18
+          minute: 0
+      - open:
+          day: 1
+          hour: 2
+          minute: 0
+        close:
+          day: 1
+          hour: 18
+          minute: 0
+      - open:
+          day: 2
+          hour: 14
+          minute: 0
+        close:
+          day: 2
+          hour: 18
+          minute: 0
+      - open:
+          day: 3
+          hour: 14
+          minute: 0
+        close:
+          day: 3
+          hour: 18
+          minute: 0
+      - open:
+          day: 4
+          hour: 14
+          minute: 0
+        close:
+          day: 4
+          hour: 18
+          minute: 0
+      - open:
+          day: 5
+          hour: 14
+          minute: 0
+        close:
+          day: 5
+          hour: 18
+          minute: 0
+      - open:
+          day: 6
+          hour: 14
+          minute: 0
+        close:
+          day: 6
+          hour: 18
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 2:00 AM – 6:00 PM'
+      - 'Tuesday: 2:00 – 6:00 PM'
+      - 'Wednesday: 2:00 – 6:00 PM'
+      - 'Thursday: 2:00 – 6:00 PM'
+      - 'Friday: 2:00 – 6:00 PM'
+      - 'Saturday: 2:00 – 6:00 PM'
+      - 'Sunday: 2:00 – 6:00 PM'
+    secondaryHoursType: HAPPY_HOUR
+    nextCloseTime: '2025-05-03T23:00:00Z'
+  - openNow: false
+    periods:
+      - open:
+          day: 0
+          hour: 11
+          minute: 0
+        close:
+          day: 0
+          hour: 15
+          minute: 30
+      - open:
+          day: 1
+          hour: 11
+          minute: 0
+        close:
+          day: 1
+          hour: 15
+          minute: 30
+      - open:
+          day: 2
+          hour: 11
+          minute: 0
+        close:
+          day: 2
+          hour: 15
+          minute: 30
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 15
+          minute: 30
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 15
+          minute: 30
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 15
+          minute: 30
+      - open:
+          day: 6
+          hour: 11
+          minute: 0
+        close:
+          day: 6
+          hour: 15
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 11:00 AM – 3:30 PM'
+      - 'Tuesday: 11:00 AM – 3:30 PM'
+      - 'Wednesday: 11:00 AM – 3:30 PM'
+      - 'Thursday: 11:00 AM – 3:30 PM'
+      - 'Friday: 11:00 AM – 3:30 PM'
+      - 'Saturday: 11:00 AM – 3:30 PM'
+      - 'Sunday: 11:00 AM – 3:30 PM'
+    secondaryHoursType: LUNCH
+    nextOpenTime: '2025-05-04T16:00:00Z'
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 15
+          minute: 30
+        close:
+          day: 0
+          hour: 21
+          minute: 30
+      - open:
+          day: 1
+          hour: 15
+          minute: 30
+        close:
+          day: 1
+          hour: 21
+          minute: 30
+      - open:
+          day: 2
+          hour: 15
+          minute: 30
+        close:
+          day: 2
+          hour: 21
+          minute: 30
+      - open:
+          day: 3
+          hour: 15
+          minute: 30
+        close:
+          day: 3
+          hour: 21
+          minute: 30
+      - open:
+          day: 4
+          hour: 15
+          minute: 30
+        close:
+          day: 4
+          hour: 21
+          minute: 30
+      - open:
+          day: 5
+          hour: 15
+          minute: 30
+        close:
+          day: 5
+          hour: 22
+          minute: 0
+      - open:
+          day: 6
+          hour: 15
+          minute: 30
+        close:
+          day: 6
+          hour: 22
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 3:30 – 9:30 PM'
+      - 'Tuesday: 3:30 – 9:30 PM'
+      - 'Wednesday: 3:30 – 9:30 PM'
+      - 'Thursday: 3:30 – 9:30 PM'
+      - 'Friday: 3:30 – 10:00 PM'
+      - 'Saturday: 3:30 – 10:00 PM'
+      - 'Sunday: 3:30 – 9:30 PM'
+    secondaryHoursType: DINNER
+    nextCloseTime: '2025-05-04T03:00:00Z'
 phone: (281) 580-8858
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.5'
-rating_count: 0
+rating_count: 448
 website: https://www.kumosushihouston.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Kumo Sushi in Houston, TX$$$Nestled in Houston, TX, Kumo Sushi offers
+  a welcoming spot for enjoying authentic Japanese cuisine, featuring an
+  all-you-can-eat selection of fresh sushi and other flavorful dishes. This
+  casual eatery stands out with its extensive menu that includes a variety of
+  rolls and appetizers, making it a go-to choice for those seeking quality sushi
+  options nearby. Accessibility features like wheelchair-friendly parking and
+  entrances ensure a comfortable visit for everyone, while extended hours
+  provide flexibility for lunch, dinner, or even a quick bite. The restaurant's
+  moderate pricing and inviting atmosphere make it ideal for casual meals,
+  appealing to anyone exploring top-rated sushi places in the area.
+generative_summary: >-
+  Discover Kumo Sushi in Houston, TX$$$Nestled in Houston, TX, Kumo Sushi offers
+  a welcoming spot for enjoying authentic Japanese cuisine, featuring an
+  all-you-can-eat selection of fresh sushi and other flavorful dishes. This
+  casual eatery stands out with its extensive menu that includes a variety of
+  rolls and appetizers, making it a go-to choice for those seeking quality sushi
+  options nearby. Accessibility features like wheelchair-friendly parking and
+  entrances ensure a comfortable visit for everyone, while extended hours
+  provide flexibility for lunch, dinner, or even a quick bite. The restaurant's
+  moderate pricing and inviting atmosphere make it ideal for casual meals,
+  appealing to anyone exploring top-rated sushi places in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJyV4HCpTNQIYRtY6_R8S6dxE/reviews/ChZDSUhNMG9nS0VJQ0FnTURvbmNpWmZ3EAE
+    relativePublishTimeDescription: in the last week
+    rating: 5
+    text:
+      text: >-
+        This place hits the spot every time. All-you-can-eat without sacrificing
+        quality—fresh rolls, tasty apps, and quick service. I always leave full
+        and happy. Pro tip: come hungry!
+      languageCode: en
+    originalText:
+      text: >-
+        This place hits the spot every time. All-you-can-eat without sacrificing
+        quality—fresh rolls, tasty apps, and quick service. I always leave full
+        and happy. Pro tip: come hungry!
+      languageCode: en
+    authorAttribution:
+      displayName: JT
+      uri: https://www.google.com/maps/contrib/109354529509571341243/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKnSM4DbgaaV79C5O_9Q-GkTYJK88274CxT6rQZ2z0mvAuAyJc=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-27T19:30:05.822393Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURvbmNpWmZ3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURvbmNpWmZ3EAE!2m1!1s0x8640cd940a075ec9:0x1177bac447bf8eb5
+  - name: >-
+      places/ChIJyV4HCpTNQIYRtY6_R8S6dxE/reviews/ChdDSUhNMG9nS0VJQ0FnTURRdk4zdDZBRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Very impressed with this all you can eat sushi. Our waiter was nice &
+        our food was tasty + fresh! We give them 5 stars. Oh & try the NASA
+        Roll!
+      languageCode: en
+    originalText:
+      text: >-
+        Very impressed with this all you can eat sushi. Our waiter was nice &
+        our food was tasty + fresh! We give them 5 stars. Oh & try the NASA
+        Roll!
+      languageCode: en
+    authorAttribution:
+      displayName: Mrs.K
+      uri: https://www.google.com/maps/contrib/102276679367784783653/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKR60rti1iP0nQ86XkbzO7FQAlEij1vSx2Jf5zTcc3YXEXDMdtF=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-03-09T20:19:35.905442Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURRdk4zdDZBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURRdk4zdDZBRRAB!2m1!1s0x8640cd940a075ec9:0x1177bac447bf8eb5
+  - name: >-
+      places/ChIJyV4HCpTNQIYRtY6_R8S6dxE/reviews/ChZDSUhNMG9nS0VJQ0FnSUNuNFB6YkhnEAE
+    relativePublishTimeDescription: 7 months ago
+    rating: 5
+    text:
+      text: >-
+        We found this place while waiting on our baby to get through NICU. We
+        were really glad to have found this! All you can eat appetizers, sushi,
+        and hibachi. The servers are friendly and the food gets to the table
+        really quickly! For the price you get really high quality fish and great
+        tasting food! We would suggest this for all sushi lovers and especially
+        to new moms that are having their first sushi in a while. We will
+        return!
+      languageCode: en
+    originalText:
+      text: >-
+        We found this place while waiting on our baby to get through NICU. We
+        were really glad to have found this! All you can eat appetizers, sushi,
+        and hibachi. The servers are friendly and the food gets to the table
+        really quickly! For the price you get really high quality fish and great
+        tasting food! We would suggest this for all sushi lovers and especially
+        to new moms that are having their first sushi in a while. We will
+        return!
+      languageCode: en
+    authorAttribution:
+      displayName: Jarrod Milstead
+      uri: https://www.google.com/maps/contrib/115405543523284733386/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIsDT2DY416eNPZPaBiQz-IRClQS31IeWe-P7HggeHC9a7m8Q=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-09-21T18:03:16.683974Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNuNFB6YkhnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNuNFB6YkhnEAE!2m1!1s0x8640cd940a075ec9:0x1177bac447bf8eb5
+  - name: >-
+      places/ChIJyV4HCpTNQIYRtY6_R8S6dxE/reviews/ChZDSUhNMG9nS0VJQ0FnSUNuM2V6dUdnEAE
+    relativePublishTimeDescription: 7 months ago
+    rating: 5
+    text:
+      text: >-
+        This is our 3rd time coming back food is delicious and definitely
+        recommended the all you can eat.
+
+        Servers are super friendly but it can take them a while to tend to you.
+
+        Definitely recommended for date night or just a fun day with friends.
+      languageCode: en
+    originalText:
+      text: >-
+        This is our 3rd time coming back food is delicious and definitely
+        recommended the all you can eat.
+
+        Servers are super friendly but it can take them a while to tend to you.
+
+        Definitely recommended for date night or just a fun day with friends.
+      languageCode: en
+    authorAttribution:
+      displayName: Susana Rodriguez
+      uri: https://www.google.com/maps/contrib/114612454260331632674/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWkiNpRnRvt0-hHR2fqvDHa-gaA4j3ctbsGOuwrMqehYp95DUmK=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-09-28T21:25:57.346273Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNuM2V6dUdnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNuM2V6dUdnEAE!2m1!1s0x8640cd940a075ec9:0x1177bac447bf8eb5
+  - name: >-
+      places/ChIJyV4HCpTNQIYRtY6_R8S6dxE/reviews/ChdDSUhNMG9nS0VJQ0FnSUNQMXFHdzlBRRAB
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        We did the lunch AYCE. They have a pretty decent selection. Nigiri was
+        cut nicely. Service was good and food came out quickly.
+      languageCode: en
+    originalText:
+      text: >-
+        We did the lunch AYCE. They have a pretty decent selection. Nigiri was
+        cut nicely. Service was good and food came out quickly.
+      languageCode: en
+    authorAttribution:
+      displayName: Quynh Cao
+      uri: https://www.google.com/maps/contrib/108883119984679753597/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUiwHdVsfWIx9QI12fr9Xwwph6GvgzgLQDfjtPiAky5R2i4tWaN=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-11-24T04:46:02.204299Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNQMXFHdzlBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNQMXFHdzlBRRAB!2m1!1s0x8640cd940a075ec9:0x1177bac447bf8eb5
+review_summary: >-
+  What People Love About This Sushi Spot$$$Visitors often rave about the fresh
+  and tasty sushi selections, highlighting the all-you-can-eat format as a great
+  value without skimping on quality. Many appreciate the quick service and
+  friendly staff, which help make meals enjoyable and efficient, even during
+  busy times. Feedback frequently mentions the variety of options, like creative
+  rolls and appetizers, making it a solid pick for groups or date nights. While
+  some note occasional waits for attention, the overall experience is praised
+  for its high-quality ingredients and satisfying portions. If you're on the
+  hunt for reliable sushi restaurants near you, this spot consistently delivers
+  a positive vibe that leaves diners eager to return.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: true
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
 serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+serves_brunch: false
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

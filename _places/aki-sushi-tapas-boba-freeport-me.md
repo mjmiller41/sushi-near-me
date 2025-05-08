@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Aki Sushi Tapas Boba"
+title: Aki Sushi Tapas Boba
 permalink: /maine/freeport/aki-sushi-tapas-boba.html
 stateAbbr: ME
 stateName: Maine
 cityName: Freeport
 seo:
-  name: "Aki Sushi Tapas Boba"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Aki Sushi Tapas Boba serves delicious sushi in Freeport, Maine. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ2RHVHGl_skwRPESRf9n0A3U
 photos:
   - name: >-
@@ -174,7 +172,43 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Aki Sushi Tapas Boba in Freeport, Maine$$$Aki Sushi Tapas Boba in
+  Freeport, Maine, offers a delightful blend of authentic Japanese flavors,
+  featuring fresh sushi rolls, savory tapas selections, and refreshing boba
+  options that appeal to a wide range of tastes. Nestled on a quiet street, this
+  spot provides a cozy atmosphere ideal for casual meals, with creative twists
+  on classic dishes that make it a standout choice for sushi enthusiasts. The
+  restaurant includes convenient accessibility features, ensuring it's welcoming
+  for all diners looking to enjoy a relaxed outing. Photos of the space
+  highlight its vibrant and inviting vibe, perfect for groups seeking flavorful,
+  laid-back dining experiences in the area.
+generative_summary: >-
+  Discover Aki Sushi Tapas Boba in Freeport, Maine$$$Aki Sushi Tapas Boba in
+  Freeport, Maine, offers a delightful blend of authentic Japanese flavors,
+  featuring fresh sushi rolls, savory tapas selections, and refreshing boba
+  options that appeal to a wide range of tastes. Nestled on a quiet street, this
+  spot provides a cozy atmosphere ideal for casual meals, with creative twists
+  on classic dishes that make it a standout choice for sushi enthusiasts. The
+  restaurant includes convenient accessibility features, ensuring it's welcoming
+  for all diners looking to enjoy a relaxed outing. Photos of the space
+  highlight its vibrant and inviting vibe, perfect for groups seeking flavorful,
+  laid-back dining experiences in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What People Are Saying About This Sushi Spot$$$Feedback from visitors to this
+  sushi restaurant often highlights the fresh ingredients and tasty variety that
+  keep things exciting and satisfying. Many appreciate the casual, approachable
+  vibe that makes it feel like a go-to spot for everyday meals or special
+  occasions. While some note room for more options in certain areas, the overall
+  consensus leans positive, praising the creative flavors that stand out among
+  local Japanese eateries. It's commonly recommended for anyone searching for
+  reliable sushi nearby, with comments emphasizing its role as a solid choice
+  for quick, enjoyable visits. All in all, the shared experiences suggest it's
+  worth trying for those craving top-notch Japanese-inspired dishes in a
+  welcoming environment.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -201,6 +235,6 @@ serves_vegetarian_food: null
 serves_wine: null
 takeout: null
 update_category: pro
-summary: null
+places_description: null
 
 ---

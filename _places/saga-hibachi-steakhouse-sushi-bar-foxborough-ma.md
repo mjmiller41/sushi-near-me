@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Saga Hibachi Steakhouse & Sushi Bar"
+title: Saga Hibachi Steakhouse & Sushi Bar
 permalink: /massachusetts/foxborough/saga-hibachi-steakhouse-sushi-bar.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Foxborough
 seo:
-  name: "Saga Hibachi Steakhouse & Sushi Bar"
-  type: Restaurant
+  type: restaurant
   links: https://sagahibachisteakhousema.com/
-description: "Modern place with a neon-lit bar for hibachi dishes, creative sushi rolls & other Japanese classics. Saga Hibachi Steakhouse & Sushi Bar serves delicious sushi in Foxborough, Massachusetts. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJDfk4c7Z85IkRq0Qna_XRn6g
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $20 &ndash; $30
 rating: '3.9'
 rating_count: 0
 website: https://sagahibachisteakhousema.com/
+description: >-
+  Experience Saga Hibachi in Foxborough, MA$$$Saga Hibachi Steakhouse & Sushi
+  Bar in Foxborough, MA, delivers a casual and vibrant Japanese dining vibe with
+  a mix of hibachi favorites and creative sushi rolls that highlight fresh
+  flavors and innovative twists. Nestled at Patriot Place, this spot features a
+  modern atmosphere with a neon-lit bar, making it ideal for enjoying small
+  plates and hearty meals in a welcoming setting. Accessibility is a key
+  highlight, with options like wheelchair-friendly entrances and seating that
+  ensure everyone can savor the experience. The menu balances classic Japanese
+  dishes with options for groups, including vegetarian choices and beverages,
+  creating a versatile spot for casual outings or special occasions. Whether
+  you're seeking sushi restaurants nearby or a taste of authentic hibachi, this
+  location stands out for its flavorful offerings and convenient accessibility.
+generative_summary: >-
+  Experience Saga Hibachi in Foxborough, MA$$$Saga Hibachi Steakhouse & Sushi
+  Bar in Foxborough, MA, delivers a casual and vibrant Japanese dining vibe with
+  a mix of hibachi favorites and creative sushi rolls that highlight fresh
+  flavors and innovative twists. Nestled at Patriot Place, this spot features a
+  modern atmosphere with a neon-lit bar, making it ideal for enjoying small
+  plates and hearty meals in a welcoming setting. Accessibility is a key
+  highlight, with options like wheelchair-friendly entrances and seating that
+  ensure everyone can savor the experience. The menu balances classic Japanese
+  dishes with options for groups, including vegetarian choices and beverages,
+  creating a versatile spot for casual outings or special occasions. Whether
+  you're seeking sushi restaurants nearby or a taste of authentic hibachi, this
+  location stands out for its flavorful offerings and convenient accessibility.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJDfk4c7Z85IkRq0Qna_XRn6g/reviews/ChdDSUhNMG9nS0VJQ0FnTUNBdGRicGh3RRAB
@@ -344,6 +369,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURRcDRYSlhREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURRcDRYSlhREAE!2m1!1s0x89e47cb67338f90d:0xa89fd1f56b2744ab
+review_summary: >-
+  Summary of Customer Feedback$$$Visitors to this Japanese eatery often rave
+  about the tasty sushi and entertaining hibachi shows that make meals feel fun
+  and memorable, with many highlighting the reliable service and variety of
+  options. While some folks noted occasional issues like cooler dishes or simple
+  tableware that didn't quite live up to expectations, the overall vibe remains
+  upbeat and family-friendly for groups. Feedback frequently praises the
+  creative rolls and generous portions, positioning it as a solid pick for
+  anyone hunting for top-rated sushi spots in the area. Despite a few mixed
+  experiences with drinks or ambiance, the positive energy from satisfied diners
+  keeps the atmosphere lively and enjoyable. If you're exploring sushi places
+  near me, this spot generally delivers a worthwhile visit with its blend of
+  excitement and tasty bites.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -376,8 +415,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Modern place with a neon-lit bar for hibachi dishes, creative sushi rolls &
   other Japanese classics.
 

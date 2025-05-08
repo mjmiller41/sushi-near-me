@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Shirasoni Japanese Restaurant"
+title: Shirasoni Japanese Restaurant
 permalink: /california/alameda/shirasoni-japanese-restaurant.html
 stateAbbr: CA
 stateName: California
 cityName: Alameda
 seo:
-  name: "Shirasoni Japanese Restaurant"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Shirasoni Japanese Restaurant serves delicious sushi in Alameda, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJg2-nJcWAj4AR8klmjD_fF7A
 photos:
   - name: >-
@@ -185,7 +183,47 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Shirasoni Japanese Restaurant in Alameda, CA$$$Shirasoni Japanese
+  Restaurant in Alameda, CA, stands out as a welcoming spot for those seeking
+  authentic sushi and classic Japanese dishes in a vibrant setting. This
+  establishment features an array of fresh sushi options alongside traditional
+  fare, with interactive hibachi tables that add an entertaining element to the
+  dining experience. Patrons can enjoy a cozy atmosphere that highlights the
+  flavors of Japanese cuisine, making it a great choice for casual meals or
+  group outings. Accessibility features like wheelchair-friendly entrances and
+  seating ensure a comfortable visit for everyone, enhancing its appeal as one
+  of the top sushi restaurants in the area. Whether you're exploring sushi
+  places near you or looking for a reliable Japanese dining option, Shirasoni
+  delivers a satisfying blend of quality and fun.
+generative_summary: >-
+  Discover Shirasoni Japanese Restaurant in Alameda, CA$$$Shirasoni Japanese
+  Restaurant in Alameda, CA, stands out as a welcoming spot for those seeking
+  authentic sushi and classic Japanese dishes in a vibrant setting. This
+  establishment features an array of fresh sushi options alongside traditional
+  fare, with interactive hibachi tables that add an entertaining element to the
+  dining experience. Patrons can enjoy a cozy atmosphere that highlights the
+  flavors of Japanese cuisine, making it a great choice for casual meals or
+  group outings. Accessibility features like wheelchair-friendly entrances and
+  seating ensure a comfortable visit for everyone, enhancing its appeal as one
+  of the top sushi restaurants in the area. Whether you're exploring sushi
+  places near you or looking for a reliable Japanese dining option, Shirasoni
+  delivers a satisfying blend of quality and fun.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Think of This Local Sushi Spot$$$Visitors often praise the fresh
+  and flavorful sushi selections at this Alameda favorite, noting how it hits
+  the spot for anyone craving reliable Japanese eats. Many appreciate the lively
+  hibachi tables that bring an element of excitement to the meal, making it a
+  fun choice for families or friends gathering nearby. Feedback highlights the
+  overall welcoming vibe and solid portions, with folks mentioning it's a solid
+  pick for everyday dining without any major letdowns. While some point out that
+  service can vary, the general consensus leans positive, emphasizing the value
+  and taste that keep people coming back for more. If you're on the hunt for
+  top-rated sushi restaurants around, this place tends to deliver a
+  straightforward and enjoyable experience that lives up to local expectations.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +249,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

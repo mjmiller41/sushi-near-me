@@ -5,4 +5,5 @@ permalink: /michigan/east-lansing/
 stateAbbr: MI
 stateName: Michigan
 cityName: East Lansing
+
 ---

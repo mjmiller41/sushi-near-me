@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ryoko's Japanese Restaurant & Bar"
+title: Ryoko's Japanese Restaurant & Bar
 permalink: /california/san-francisco/ryoko-s-japanese-restaurant-bar.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
 seo:
-  name: "Ryoko's Japanese Restaurant & Bar"
-  type: Restaurant
+  type: restaurant
   links: https://www.ryokos-sf.com/
-description: "Compact, woodsy Japanese bar & restaurant offering a long sushi menu & draft beers. Ryoko's Japanese Restaurant & Bar serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, and dinner."
 place_id: ChIJUem7D46AhYARYUQXakltDSo
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: null
 rating: '4.4'
 rating_count: 0
 website: https://www.ryokos-sf.com/
+description: >-
+  Experience Ryoko's in San Francisco$$$Ryoko's Japanese Restaurant & Bar in San
+  Francisco, CA, stands out as a welcoming spot for enjoying authentic Japanese
+  flavors in a relaxed, intimate environment. This sushi restaurant features an
+  extensive selection of fresh rolls, sashimi, and other traditional fare,
+  making it a go-to choice for those seeking top-rated sushi options nearby. The
+  laid-back atmosphere, complete with woodsy decor and occasional lively tunes,
+  creates a cozy vibe perfect for casual dinners or unwinding with craft beers
+  and cocktails. Patrons appreciate the generous portions and variety of dishes
+  that highlight quality ingredients, while the menu's vegetarian choices add to
+  its appeal for diverse tastes. Whether you're exploring sushi places near me
+  or craving a flavorful Japanese meal, this spot delivers a memorable dining
+  experience in the heart of the city.
+generative_summary: >-
+  Experience Ryoko's in San Francisco$$$Ryoko's Japanese Restaurant & Bar in San
+  Francisco, CA, stands out as a welcoming spot for enjoying authentic Japanese
+  flavors in a relaxed, intimate environment. This sushi restaurant features an
+  extensive selection of fresh rolls, sashimi, and other traditional fare,
+  making it a go-to choice for those seeking top-rated sushi options nearby. The
+  laid-back atmosphere, complete with woodsy decor and occasional lively tunes,
+  creates a cozy vibe perfect for casual dinners or unwinding with craft beers
+  and cocktails. Patrons appreciate the generous portions and variety of dishes
+  that highlight quality ingredients, while the menu's vegetarian choices add to
+  its appeal for diverse tastes. Whether you're exploring sushi places near me
+  or craving a flavorful Japanese meal, this spot delivers a memorable dining
+  experience in the heart of the city.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJUem7D46AhYARYUQXakltDSo/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJMEpEd1VBEAE
@@ -388,6 +413,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNudnItSTV3RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNudnItSTV3RRAB!2m1!1s0x8085808e0fbbe951:0x2a0d6d496a174461
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors often rave about the fresh and
+  generously portioned sushi at this spot, highlighting it as a solid pick for
+  satisfying cravings without the fuss. Many comments note the attentive service
+  and fun, underground ambiance that makes every meal feel lively and engaging,
+  even on busier nights. Folks appreciate the tasty drinks and overall vibe that
+  keeps things relaxed yet exciting, with some mentioning it's great for groups
+  looking to enjoy Japanese favorites. While a few shared that certain dishes
+  hit the mark as standard comfort food, the consensus leans positive on
+  freshness and value, making it a reliable choice for anyone hunting for best
+  sushi near me. Overall, it's clear this place hits the right notes for a
+  casual, enjoyable outing that leaves you wanting to return.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeStreetParking: true
   paidStreetParking: true
@@ -420,8 +458,8 @@ serves_lunch: null
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Compact, woodsy Japanese bar & restaurant offering a long sushi menu & draft
   beers.
 

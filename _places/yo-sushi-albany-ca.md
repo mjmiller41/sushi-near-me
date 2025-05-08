@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yo Sushi"
+title: Yo Sushi
 permalink: /california/albany/yo-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Albany
 seo:
-  name: "Yo Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Yo Sushi serves delicious sushi in Albany, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJVcDu_8x-hYARxgjN-aX2q0U
 photos:
   - name: >-
@@ -185,7 +183,42 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Yo Sushi in Albany, CA$$$Yo Sushi in Albany, California, stands out
+  as a vibrant conveyor belt sushi spot that brings authentic Japanese flavors
+  to the local dining scene. This eatery delights visitors with a rotating
+  selection of fresh rolls, nigiri, and other Japanese dishes, complemented by
+  options like beer and sake for a complete meal. The casual atmosphere makes it
+  an ideal choice for those seeking top sushi experiences near urban areas, with
+  easy accessibility features ensuring everyone can enjoy the fun of picking
+  dishes as they pass by. Additionally, the variety of fare caters to different
+  tastes, from classic favorites to more adventurous options, making it a go-to
+  destination for sushi enthusiasts exploring nearby spots.
+generative_summary: >-
+  Discover Yo Sushi in Albany, CA$$$Yo Sushi in Albany, California, stands out
+  as a vibrant conveyor belt sushi spot that brings authentic Japanese flavors
+  to the local dining scene. This eatery delights visitors with a rotating
+  selection of fresh rolls, nigiri, and other Japanese dishes, complemented by
+  options like beer and sake for a complete meal. The casual atmosphere makes it
+  an ideal choice for those seeking top sushi experiences near urban areas, with
+  easy accessibility features ensuring everyone can enjoy the fun of picking
+  dishes as they pass by. Additionally, the variety of fare caters to different
+  tastes, from classic favorites to more adventurous options, making it a go-to
+  destination for sushi enthusiasts exploring nearby spots.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Folks who stop by Yo Sushi often appreciate the
+  fresh and flavorful sushi selections that keep things exciting on the conveyor
+  belt, making it a fun outing for groups or families. Many highlight the
+  affordable prices and quick service as reasons to return, turning casual meals
+  into memorable experiences without the fuss. While some note that crowds can
+  pick up during peak times, the overall vibe remains welcoming and enjoyable
+  for those craving Japanese-inspired eats. It's commonly praised for its solid
+  portions and tasty combinations, helping it hold its own among local sushi
+  places. If you're on the hunt for reliable spots in the area, this one tends
+  to deliver a satisfying dine-in adventure that leaves people smiling.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +244,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -5,4 +5,5 @@ permalink: /minnesota/winona/
 stateAbbr: MN
 stateName: Minnesota
 cityName: Winona
+
 ---

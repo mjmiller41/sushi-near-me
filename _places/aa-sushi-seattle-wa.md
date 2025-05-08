@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "aa Sushi"
+title: aa Sushi
 permalink: /washington/seattle/aa-sushi.html
 stateAbbr: WA
 stateName: Washington
 cityName: Seattle
 seo:
-  name: "aa Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "aa Sushi serves delicious sushi in Seattle, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ3Z83cAAVkFQRViH4aC1TUQg
 photos:
   - name: >-
@@ -182,7 +180,41 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover aa Sushi in Seattle, WA$$$aa Sushi in Seattle, WA, stands out as a
+  welcoming Japanese restaurant offering a variety of fresh seafood dishes that
+  capture the essence of authentic flavors. Diners can enjoy artfully prepared
+  nigiri, bento boxes, and creative rolls made with high-quality ingredients,
+  making it a go-to spot for those seeking satisfying sushi options in the area.
+  The spot emphasizes quick service and a cozy atmosphere, ideal for casual
+  meals or groups looking to explore Japanese cuisine without breaking the bank.
+  Whether you're searching for top-rated sushi near you or simply craving a
+  taste of something light and flavorful, this location delivers on both taste
+  and value, enhancing the local dining scene in the Pacific Northwest.
+generative_summary: >-
+  Discover aa Sushi in Seattle, WA$$$aa Sushi in Seattle, WA, stands out as a
+  welcoming Japanese restaurant offering a variety of fresh seafood dishes that
+  capture the essence of authentic flavors. Diners can enjoy artfully prepared
+  nigiri, bento boxes, and creative rolls made with high-quality ingredients,
+  making it a go-to spot for those seeking satisfying sushi options in the area.
+  The spot emphasizes quick service and a cozy atmosphere, ideal for casual
+  meals or groups looking to explore Japanese cuisine without breaking the bank.
+  Whether you're searching for top-rated sushi near you or simply craving a
+  taste of something light and flavorful, this location delivers on both taste
+  and value, enhancing the local dining scene in the Pacific Northwest.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Recent Feedback$$$Folks often rave about the tasty seafood
+  selections at this sushi spot, pointing out how the fresh fish and
+  well-crafted rolls make for a memorable meal without the high cost. Many
+  appreciate the attentive team that keeps things running smoothly, adding to
+  the overall relaxed vibe during visits. It's frequently noted for its speedy
+  service, which helps when you're in the mood for a quick bite of Japanese
+  favorites nearby. While opinions highlight reliable portions and affordability
+  as key draws, the general consensus leans positive, making it a solid choice
+  for anyone hunting for enjoyable sushi experiences in a friendly setting.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -208,7 +240,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

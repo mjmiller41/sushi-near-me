@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Tokyo Sushi Ramen & Bar"
+title: Tokyo Sushi Ramen & Bar
 permalink: /maine/portland/tokyo-sushi-ramen-bar.html
 stateAbbr: ME
 stateName: Maine
 cityName: Portland
 seo:
-  name: "Tokyo Sushi Ramen & Bar"
-  type: Restaurant
+  type: restaurant
   links: https://www.tokyosushiramenme.com/
-description: "Tokyo Sushi Ramen & Bar serves delicious sushi in Portland, Maine. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ1T7CXM6dskwR8Iud0lCP-q8
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $20 &ndash; $30
 rating: '4.2'
 rating_count: 0
 website: https://www.tokyosushiramenme.com/
+description: >-
+  Explore Tokyo Sushi Ramen & Bar in Portland, ME$$$Nestled in the heart of
+  Portland, ME, Tokyo Sushi Ramen & Bar offers a welcoming retreat for those
+  seeking authentic Japanese flavors and a relaxed dining atmosphere. This spot
+  features a variety of fresh sushi rolls, hearty ramen bowls, and other
+  traditional fare, all served in a cozy space complete with a full bar for
+  craft cocktails and beverages. Patrons can enjoy the convenience of accessible
+  seating and parking, making it an easy choice for anyone hunting for top-rated
+  sushi restaurants in the area. The menu highlights moderately priced options
+  that blend quality ingredients with a casual vibe, perfect for a laid-back
+  meal with friends or family. Whether you're exploring sushi places near me or
+  looking for a reliable spot for Japanese dishes, this location delivers a
+  satisfying experience with its thoughtful accessibility features.
+generative_summary: >-
+  Explore Tokyo Sushi Ramen & Bar in Portland, ME$$$Nestled in the heart of
+  Portland, ME, Tokyo Sushi Ramen & Bar offers a welcoming retreat for those
+  seeking authentic Japanese flavors and a relaxed dining atmosphere. This spot
+  features a variety of fresh sushi rolls, hearty ramen bowls, and other
+  traditional fare, all served in a cozy space complete with a full bar for
+  craft cocktails and beverages. Patrons can enjoy the convenience of accessible
+  seating and parking, making it an easy choice for anyone hunting for top-rated
+  sushi restaurants in the area. The menu highlights moderately priced options
+  that blend quality ingredients with a casual vibe, perfect for a laid-back
+  meal with friends or family. Whether you're exploring sushi places near me or
+  looking for a reliable spot for Japanese dishes, this location delivers a
+  satisfying experience with its thoughtful accessibility features.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ1T7CXM6dskwR8Iud0lCP-q8/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3dm9DcVN3EAE
@@ -362,6 +387,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURWajZXWmNREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURWajZXWmNREAE!2m1!1s0x4cb29dce5cc23ed5:0xaffa8f50d29d8bf0
+review_summary: >-
+  Visitor Feedback on Tokyo Sushi Ramen & Bar$$$Folks often rave about the tasty
+  sushi and ramen here, with many appreciating the generous portions and
+  flavorful options that make for a solid meal in Portland. While some diners
+  mention that certain dishes can come across as a bit salty or not as fresh as
+  hoped, the overall vibe and friendly service tend to shine through and keep
+  things enjoyable. It's clear that the attentive staff adds a positive touch,
+  helping to create a welcoming environment even during busy times. Despite
+  occasional waits for orders, the standout drinks and variety of choices keep
+  drawing people back for another try. All in all, if you're on the hunt for
+  great sushi near me, this place offers a mix of hits that make it a worthwhile
+  stop for casual diners.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidParkingLot: true
   valetParking: false
@@ -393,7 +431,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Super Sushi"
+title: Super Sushi
 permalink: /nevada/las-vegas/super-sushi.html
 stateAbbr: NV
 stateName: Nevada
 cityName: Las Vegas
 seo:
-  name: "Super Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.supersushilv.com/
-description: "Eclectic art covers the walls at this informal Japanese eatery with specialty rolls & noodles. Super Sushi serves delicious sushi in Las Vegas, Nevada. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ____NuXGyIARdZNsxBDXBX0
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 0
 website: http://www.supersushilv.com/
+description: >-
+  Explore Super Sushi in Las Vegas, NV$$$Super Sushi in Las Vegas, NV, offers a
+  delightful array of Japanese cuisine in a casual and welcoming setting,
+  perfect for those seeking fresh sushi options in a vibrant city. This spot
+  stands out with its all-you-can-eat deals featuring specialty rolls, noodles,
+  and other flavorful fare, making it an ideal choice for sushi enthusiasts
+  exploring local dining scenes. The restaurant boasts accessibility features
+  like wheelchair-friendly entrances and seating, ensuring a comfortable
+  experience for all visitors. With its affordable pricing and eclectic
+  atmosphere, it's a go-to for anyone craving top-rated sushi in a relaxed
+  environment. Generous portions and a variety of dishes highlight why this spot
+  continues to draw in fans of Japanese-inspired meals nearby.
+generative_summary: >-
+  Explore Super Sushi in Las Vegas, NV$$$Super Sushi in Las Vegas, NV, offers a
+  delightful array of Japanese cuisine in a casual and welcoming setting,
+  perfect for those seeking fresh sushi options in a vibrant city. This spot
+  stands out with its all-you-can-eat deals featuring specialty rolls, noodles,
+  and other flavorful fare, making it an ideal choice for sushi enthusiasts
+  exploring local dining scenes. The restaurant boasts accessibility features
+  like wheelchair-friendly entrances and seating, ensuring a comfortable
+  experience for all visitors. With its affordable pricing and eclectic
+  atmosphere, it's a go-to for anyone craving top-rated sushi in a relaxed
+  environment. Generous portions and a variety of dishes highlight why this spot
+  continues to draw in fans of Japanese-inspired meals nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ____NuXGyIARdZNsxBDXBX0/reviews/ChZDSUhNMG9nS0VJQ0FnSUR2d3BEckp3EAE
@@ -458,6 +481,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUM5MWV2amFBEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUM5MWV2amFBEAE!2m1!1s0x80c8c6e536ffffff:0x7d05d710c46c9375
+review_summary: >-
+  Insights from Recent Feedback$$$Diners consistently rave about the fresh fish
+  and well-balanced rolls at this spot, noting the all-you-can-eat value as a
+  standout feature that keeps things exciting without breaking the bank. Many
+  appreciate the attentive service and individual plating that makes every order
+  feel personalized and enjoyable, adding to the overall casual vibe. While the
+  drink prices might catch a few off guard, the wide selection of appetizers and
+  tempura keeps the experience satisfying and worth the visit. Overall, it's
+  clear that this place hits the mark for quality and variety, making it a solid
+  pick for anyone hunting for reliable sushi spots in the area. The positive
+  vibes from feedback suggest it's a welcoming choice for groups or solo
+  adventurers looking to indulge in flavorful Japanese eats.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -489,8 +525,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Eclectic art covers the walls at this informal Japanese eatery with specialty
   rolls & noodles.
 

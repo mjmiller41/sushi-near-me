@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Casa Asia"
+title: Casa Asia
 permalink: /new-york/whitestone/casa-asia.html
 stateAbbr: NY
 stateName: New York
 cityName: Whitestone
 seo:
-  name: "Casa Asia"
-  type: Restaurant
+  type: restaurant
   links: http://www.casabistrony.com/
-description: "Comfy destination for Thai, Chinese & Japanese classics, including curries & sushi. Casa Asia serves delicious sushi in Whitestone, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJA2UX6ZSKwokRz6umsPuEkA4
 photos:
   - name: >-
@@ -184,6 +182,31 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 0
 website: http://www.casabistrony.com/
+description: >-
+  Discover Casa Asia in Whitestone, NY$$$Casa Asia in Whitestone, NY, stands out
+  as a welcoming Asian restaurant blending Thai, Chinese, and Japanese flavors
+  in a relaxed atmosphere, making it an ideal choice for those seeking diverse
+  sushi options nearby. The spot offers a variety of fresh dishes, including
+  expertly prepared sushi rolls and flavorful curries, all served in a
+  comfortable setting that's accessible for everyone. With its moderate pricing
+  and focus on quality ingredients, it's perfect for casual meals or quick
+  takeout, appealing to locals hunting for top-rated sushi restaurants in the
+  area. This neighborhood gem ensures a satisfying experience with options that
+  cater to different tastes, from light bites to hearty entrees, all while
+  maintaining a casual vibe that encourages repeat visits.
+generative_summary: >-
+  Discover Casa Asia in Whitestone, NY$$$Casa Asia in Whitestone, NY, stands out
+  as a welcoming Asian restaurant blending Thai, Chinese, and Japanese flavors
+  in a relaxed atmosphere, making it an ideal choice for those seeking diverse
+  sushi options nearby. The spot offers a variety of fresh dishes, including
+  expertly prepared sushi rolls and flavorful curries, all served in a
+  comfortable setting that's accessible for everyone. With its moderate pricing
+  and focus on quality ingredients, it's perfect for casual meals or quick
+  takeout, appealing to locals hunting for top-rated sushi restaurants in the
+  area. This neighborhood gem ensures a satisfying experience with options that
+  cater to different tastes, from light bites to hearty entrees, all while
+  maintaining a casual vibe that encourages repeat visits.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJA2UX6ZSKwokRz6umsPuEkA4/reviews/ChdDSUhNMG9nS0VJQ0FnSUNMeUtXUGp3RRAB
@@ -357,6 +380,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURobzYyTjJRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURobzYyTjJRRRAB!2m1!1s0x89c28a94e9176503:0xe9084fbb0a6abcf
+review_summary: >-
+  What Customers Are Saying About the Food$$$Visitors to this spot often praise
+  the fresh and flavorful sushi along with other Asian dishes, noting how the
+  meals consistently hit the mark for taste and portion size. Many highlight the
+  friendly and efficient service that makes dining or taking out a breeze,
+  turning even simple orders into enjoyable experiences. Folks appreciate the
+  overall value, with comments focusing on how the food stands out compared to
+  other local options, making it a solid pick for groups or families. While some
+  mention minor preferences like moister noodles, the general consensus leans
+  positive, emphasizing it's a reliable choice for anyone craving authentic
+  flavors in a laid-back environment. Overall, it comes across as a go-to
+  destination for satisfying meals that leave diners eager to return.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidStreetParking: true
   valetParking: false
@@ -388,8 +424,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Comfy destination for Thai, Chinese & Japanese classics, including curries &
   sushi.
 

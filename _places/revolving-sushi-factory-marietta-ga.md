@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Revolving Sushi Factory"
+title: Revolving Sushi Factory
 permalink: /georgia/marietta/revolving-sushi-factory.html
 stateAbbr: GA
 stateName: Georgia
 cityName: Marietta
 seo:
-  name: "Revolving Sushi Factory"
-  type: Restaurant
-  links: null
-description: "Revolving Sushi Factory serves delicious sushi in Marietta, Georgia. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.instagram.com/sushifactory.marietta/
 place_id: ChIJ373XcuER9YgRhWYfwzfAPqA
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x88f511e172d7bddf:0xa03ec037c31f6685!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:30 PM'
+    - 'Tuesday: 11:00 AM – 9:30 PM'
+    - 'Wednesday: 11:00 AM – 9:30 PM'
+    - 'Thursday: 11:00 AM – 9:30 PM'
+    - 'Friday: 11:00 AM – 10:00 PM'
+    - 'Saturday: 11:00 AM – 10:00 PM'
+    - 'Sunday: 11:30 AM – 9:30 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,50 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
+phone: (678) 653-8879
 price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+price_range: $10 &ndash; $20
+rating: '4.7'
+rating_count: 154
+website: https://www.instagram.com/sushifactory.marietta/
+description: >-
+  Experience Revolving Sushi Factory in Marietta, GA$$$Revolving Sushi Factory
+  in Marietta, GA, brings a fresh and dynamic twist to Japanese dining with its
+  innovative conveyor belt system. This spot features an array of high-quality
+  sushi options, including creative rolls and nigiri, alongside appetizers and
+  desserts that highlight authentic flavors. The interactive setup, complete
+  with tablet ordering and unique delivery methods, creates an engaging
+  atmosphere for sushi lovers seeking variety in their meals. Accessibility
+  features make it easy for everyone to enjoy this modern sushi restaurant,
+  while its daily hours accommodate both quick lunches and evening outings. As a
+  standout choice for sushi restaurants near you, it combines fun and freshness
+  in a welcoming setting.
+generative_summary: >-
+  Experience Revolving Sushi Factory in Marietta, GA$$$Revolving Sushi Factory
+  in Marietta, GA, brings a fresh and dynamic twist to Japanese dining with its
+  innovative conveyor belt system. This spot features an array of high-quality
+  sushi options, including creative rolls and nigiri, alongside appetizers and
+  desserts that highlight authentic flavors. The interactive setup, complete
+  with tablet ordering and unique delivery methods, creates an engaging
+  atmosphere for sushi lovers seeking variety in their meals. Accessibility
+  features make it easy for everyone to enjoy this modern sushi restaurant,
+  while its daily hours accommodate both quick lunches and evening outings. As a
+  standout choice for sushi restaurants near you, it combines fun and freshness
+  in a welcoming setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Love About This Sushi Spot$$$Folks frequently highlight the
+  wide range of fresh sushi and Japanese dishes that keep things exciting and
+  flavorful for every visit. The revolving belt adds a playful element, making
+  it a hit for families or casual groups looking for an interactive dining vibe.
+  Many appreciate the smooth ordering process and creative delivery touches that
+  enhance the overall experience without any hassle. While opinions vary, the
+  general buzz is positive, with praise for the tasty appetizers and desserts
+  that round out the meal. If you're on the hunt for top-rated sushi places near
+  me, this location often delivers a satisfying and enjoyable experience that
+  keeps diners coming back.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +311,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

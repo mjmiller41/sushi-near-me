@@ -5,4 +5,5 @@ permalink: /michigan/okemos/
 stateAbbr: MI
 stateName: Michigan
 cityName: Okemos
+
 ---

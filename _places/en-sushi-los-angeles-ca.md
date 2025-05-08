@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "En Sushi"
+title: En Sushi
 permalink: /california/los-angeles/en-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Los Angeles
 seo:
-  name: "En Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://ensushisantamonica.com/
-description: "En Sushi serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJlb5tDG-7woARIuoQ-utARi8
 photos:
   - name: >-
@@ -170,62 +168,402 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c2bb6f0c6dbe95:0x2f4640ebfa10ea22!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
-    - 'Monday: 3:00 – 10:30 PM'
-    - 'Tuesday: 11:45 AM – 10:30 PM'
-    - 'Wednesday: 11:45 AM – 10:30 PM'
-    - 'Thursday: 11:45 AM – 11:00 PM'
-    - 'Friday: 11:45 AM – 11:00 PM'
-    - 'Saturday: 11:45 AM – 11:00 PM'
-    - 'Sunday: 11:45 AM – 10:30 PM'
-  current:
-    - 'Monday: 3:00 – 10:30 PM'
-    - 'Tuesday: 11:45 AM – 10:30 PM'
-    - 'Wednesday: 11:45 AM – 10:30 PM'
-    - 'Thursday: 11:45 AM – 11:00 PM'
-    - 'Friday: 11:45 AM – 11:00 PM'
-    - 'Saturday: 11:45 AM – 11:00 PM'
-    - 'Sunday: 11:45 AM – 10:30 PM'
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 45
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 15
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 45
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 45
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 45
+      close:
+        day: 4
+        hour: 22
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 45
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 45
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 3:00 – 10:00 PM'
+    - 'Tuesday: 11:45 AM – 10:00 PM'
+    - 'Wednesday: 11:45 AM – 10:00 PM'
+    - 'Thursday: 11:45 AM – 10:30 PM'
+    - 'Friday: 11:45 AM – 10:30 PM'
+    - 'Saturday: 11:45 AM – 10:30 PM'
+    - 'Sunday: 11:45 AM – 10:00 PM'
+  nextCloseTime: '2025-05-04T05:30:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 15
+          minute: 0
+        close:
+          day: 0
+          hour: 19
+          minute: 0
+      - open:
+          day: 1
+          hour: 15
+          minute: 0
+        close:
+          day: 1
+          hour: 19
+          minute: 0
+      - open:
+          day: 1
+          hour: 21
+          minute: 0
+        close:
+          day: 1
+          hour: 22
+          minute: 0
+      - open:
+          day: 2
+          hour: 15
+          minute: 0
+        close:
+          day: 2
+          hour: 19
+          minute: 0
+      - open:
+          day: 2
+          hour: 21
+          minute: 0
+        close:
+          day: 2
+          hour: 22
+          minute: 0
+      - open:
+          day: 3
+          hour: 15
+          minute: 0
+        close:
+          day: 3
+          hour: 19
+          minute: 0
+      - open:
+          day: 3
+          hour: 21
+          minute: 0
+        close:
+          day: 3
+          hour: 22
+          minute: 0
+      - open:
+          day: 4
+          hour: 15
+          minute: 0
+        close:
+          day: 4
+          hour: 19
+          minute: 0
+      - open:
+          day: 4
+          hour: 21
+          minute: 0
+        close:
+          day: 4
+          hour: 22
+          minute: 30
+      - open:
+          day: 5
+          hour: 15
+          minute: 0
+        close:
+          day: 5
+          hour: 19
+          minute: 0
+      - open:
+          day: 6
+          hour: 15
+          minute: 0
+        close:
+          day: 6
+          hour: 19
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 3:00 – 7:00 PM, 9:00 – 10:00 PM'
+      - 'Tuesday: 3:00 – 7:00 PM, 9:00 – 10:00 PM'
+      - 'Wednesday: 3:00 – 7:00 PM, 9:00 – 10:00 PM'
+      - 'Thursday: 3:00 – 7:00 PM, 9:00 – 10:30 PM'
+      - 'Friday: 3:00 – 7:00 PM'
+      - 'Saturday: 3:00 – 7:00 PM'
+      - 'Sunday: 3:00 – 7:00 PM'
+    secondaryHoursType: HAPPY_HOUR
+    nextCloseTime: '2025-05-04T02:00:00Z'
 phone: (310) 477-1551
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.4'
-rating_count: 0
+rating_count: 537
 website: http://ensushisantamonica.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover En Sushi in Los Angeles, CA$$$En Sushi in Los Angeles, CA, is a
+  welcoming Japanese restaurant that specializes in fresh sushi and sashimi,
+  along with a variety of Asian-inspired dishes designed to delight seafood
+  enthusiasts. The spot is known for its inviting atmosphere and value-driven
+  happy hour options, making it a popular choice for casual meals or special
+  gatherings in the vibrant Sawtelle neighborhood. Accessibility features like
+  wheelchair-friendly parking and entrances ensure a comfortable experience for
+  all guests, while the moderate price range offers affordable yet satisfying
+  dining. With its operational hours extending into the evening, it's an ideal
+  destination for those searching for top-rated sushi near me in a lively urban
+  setting.
+generative_summary: >-
+  Discover En Sushi in Los Angeles, CA$$$En Sushi in Los Angeles, CA, is a
+  welcoming Japanese restaurant that specializes in fresh sushi and sashimi,
+  along with a variety of Asian-inspired dishes designed to delight seafood
+  enthusiasts. The spot is known for its inviting atmosphere and value-driven
+  happy hour options, making it a popular choice for casual meals or special
+  gatherings in the vibrant Sawtelle neighborhood. Accessibility features like
+  wheelchair-friendly parking and entrances ensure a comfortable experience for
+  all guests, while the moderate price range offers affordable yet satisfying
+  dining. With its operational hours extending into the evening, it's an ideal
+  destination for those searching for top-rated sushi near me in a lively urban
+  setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJlb5tDG-7woARIuoQ-utARi8/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJOXM3bjBBRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Not only is the food always very good and fresh but the happy hour can't
+        be beat. This has become the place for me and my friends for birthday
+        celebrations. I really like the atmosphere and the staff is excellent
+        especially Sarutta. this is already my second time here this week and
+        I'll probably be here one more time if not more!
+      languageCode: en
+    originalText:
+      text: >-
+        Not only is the food always very good and fresh but the happy hour can't
+        be beat. This has become the place for me and my friends for birthday
+        celebrations. I really like the atmosphere and the staff is excellent
+        especially Sarutta. this is already my second time here this week and
+        I'll probably be here one more time if not more!
+      languageCode: en
+    authorAttribution:
+      displayName: Tracy Bagdon
+      uri: https://www.google.com/maps/contrib/100006160138835101152/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWUDR_KWw4vykmT07LJV3Uzcmz9alMiPJa7zZ_cbVOR1JMal2JupA=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-01T20:58:14.506012Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNJOXM3bjBBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNJOXM3bjBBRRAB!2m1!1s0x80c2bb6f0c6dbe95:0x2f4640ebfa10ea22
+  - name: >-
+      places/ChIJlb5tDG-7woARIuoQ-utARi8/reviews/ChZDSUhNMG9nS0VJQ0FnSURfdEtqQWJREAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        En sushi is my go to spot for sushi in LA! First, they have an amazing
+        happy hour menu that has both a lot of food and drink items for majorly
+        discounted prices. I love to come here for date night, for lunch special
+        during the day, and also bring the family for a fun night of great
+        tasting sushi! Their Miso Soup is the best in the city- simple clean and
+        so satisfying. The staff does such an amazing and welcoming job. From
+        barbacks who are always smiling to sushi chefs, server and manager
+        everyone is friendly and makes great recommendations. I come here once a
+        week at s minimum and you should too, thanks en sushi west la for always
+        leaving us full and happy.
+      languageCode: en
+    originalText:
+      text: >-
+        En sushi is my go to spot for sushi in LA! First, they have an amazing
+        happy hour menu that has both a lot of food and drink items for majorly
+        discounted prices. I love to come here for date night, for lunch special
+        during the day, and also bring the family for a fun night of great
+        tasting sushi! Their Miso Soup is the best in the city- simple clean and
+        so satisfying. The staff does such an amazing and welcoming job. From
+        barbacks who are always smiling to sushi chefs, server and manager
+        everyone is friendly and makes great recommendations. I come here once a
+        week at s minimum and you should too, thanks en sushi west la for always
+        leaving us full and happy.
+      languageCode: en
+    authorAttribution:
+      displayName: Golak Nadery
+      uri: https://www.google.com/maps/contrib/108314053252422217319/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVGoim2MNTN_MifSHsjTXNVl6nC7nP6atBgU11RNb3Z88uiBCk=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-01-21T23:32:14.633161Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURfdEtqQWJREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURfdEtqQWJREAE!2m1!1s0x80c2bb6f0c6dbe95:0x2f4640ebfa10ea22
+  - name: >-
+      places/ChIJlb5tDG-7woARIuoQ-utARi8/reviews/ChdDSUhNMG9nS0VJQ0FnTUNveWRXVjZBRRAB
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        Omg Jenny!!! SHE IS AMAZING!!! The food was awesome, flavorful, and the
+        service provided was flawless. Jenny is so much fun and she was so kind
+        and helpful! The food, plus the service, and atmosphere was fantastic.
+        Can't wait to visit again!!!
+      languageCode: en
+    originalText:
+      text: >-
+        Omg Jenny!!! SHE IS AMAZING!!! The food was awesome, flavorful, and the
+        service provided was flawless. Jenny is so much fun and she was so kind
+        and helpful! The food, plus the service, and atmosphere was fantastic.
+        Can't wait to visit again!!!
+      languageCode: en
+    authorAttribution:
+      displayName: Sorah Shin
+      uri: https://www.google.com/maps/contrib/104678680547397624765/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUC7sWcHgrOED0EIGSbXAG8fsMhJLFtHvqrCiBCjkjIVWdTOo5R=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-04-18T03:26:13.890289Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNveWRXVjZBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNveWRXVjZBRRAB!2m1!1s0x80c2bb6f0c6dbe95:0x2f4640ebfa10ea22
+  - name: >-
+      places/ChIJlb5tDG-7woARIuoQ-utARi8/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3ekl5dkxnEAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: It's really delicious. I strongly recommend it.
+      languageCode: en
+    originalText:
+      text: It's really delicious. I strongly recommend it.
+      languageCode: en
+    authorAttribution:
+      displayName: yyuu gg
+      uri: https://www.google.com/maps/contrib/101835521434499504897/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLnG90Ix3HStQRxdYhbDQjeQxFdigL7QAr0KB2xjW6YUHllLA=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-17T02:26:42.632921Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUN3ekl5dkxnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUN3ekl5dkxnEAE!2m1!1s0x80c2bb6f0c6dbe95:0x2f4640ebfa10ea22
+  - name: >-
+      places/ChIJlb5tDG-7woARIuoQ-utARi8/reviews/ChZDSUhNMG9nS0VJQ0FnSURyLTllRUpnEAE
+    relativePublishTimeDescription: 9 months ago
+    rating: 5
+    text:
+      text: >-
+        The sushi here was delicious - my favorite was the spicy Rebecca- I
+        highly recommend and would go again.
+
+
+        I did not make it for the happy hour but I’ve heard it is a great day.
+      languageCode: en
+    originalText:
+      text: >-
+        The sushi here was delicious - my favorite was the spicy Rebecca- I
+        highly recommend and would go again.
+
+
+        I did not make it for the happy hour but I’ve heard it is a great day.
+      languageCode: en
+    authorAttribution:
+      displayName: Natalie Marrero
+      uri: https://www.google.com/maps/contrib/114293997219877393101/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVl0PwcaDqOqiriAoERip8FR2zhei5_zdpfbCyx2CGAi0eeDFFFzQ=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-07-20T17:27:04.150232Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURyLTllRUpnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURyLTllRUpnEAE!2m1!1s0x80c2bb6f0c6dbe95:0x2f4640ebfa10ea22
+review_summary: >-
+  What Customers Are Saying About This Sushi Spot$$$Folks often rave about the
+  fresh and flavorful sushi at this local favorite, highlighting how the dishes
+  consistently deliver on taste and quality for a satisfying meal. Many
+  appreciate the unbeatable happy hour deals that make it easy to enjoy a
+  variety of options without breaking the bank, turning it into a go-to spot for
+  casual get-togethers or quick lunches. Reviewers frequently mention the
+  welcoming vibe and efficient service that enhance the overall experience, with
+  simple yet comforting items like miso soup standing out as crowd-pleasers.
+  Overall, it's praised for being a reliable choice that leaves visitors feeling
+  full and happy, encouraging repeat visits for anyone exploring best sushi near
+  me. While opinions are generally positive, the consensus is that it's a solid
+  pick for authentic Japanese flavors in a relaxed environment.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  paidParkingLot: true
+  freeStreetParking: true
+  paidStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
+curbside_pickup: false
+delivery: true
+dine_in: true
 good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
 reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
+serves_dinner: true
+serves_dessert: true
 serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_vegetarian_food: false
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

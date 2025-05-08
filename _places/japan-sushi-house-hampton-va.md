@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Japan Sushi House"
+title: Japan Sushi House
 permalink: /virginia/hampton/japan-sushi-house.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Hampton
 seo:
-  name: "Japan Sushi House"
-  type: Restaurant
+  type: restaurant
   links: https://www.japansushihouseva.com/?utm_source=gmb&utm_medium=website
-description: "Japan Sushi House serves delicious sushi in Hampton, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ8zOSvfGCuokRWhbBG5YHNm8
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $10 &ndash; $20
 rating: '4.1'
 rating_count: 0
 website: https://www.japansushihouseva.com/?utm_source=gmb&utm_medium=website
+description: >-
+  Discover Japan Sushi House in Hampton, VA$$$Japan Sushi House in Hampton, VA,
+  stands out as a welcoming spot for those seeking authentic Japanese flavors,
+  offering a variety of fresh sushi rolls, hibachi dishes, and bento boxes that
+  capture the essence of casual dining. This eatery emphasizes accessibility
+  with features like wheelchair-friendly parking and entrances, making it easy
+  for everyone to enjoy a meal. Patrons can explore a menu with moderately
+  priced options that highlight quality ingredients, perfect for anyone hunting
+  for reliable sushi restaurants in the area. Whether you're in the mood for a
+  quick lunch or a satisfying dinner, the spot delivers a straightforward vibe
+  that complements the local scene, appealing to fans of Japanese cuisine
+  nearby.
+generative_summary: >-
+  Discover Japan Sushi House in Hampton, VA$$$Japan Sushi House in Hampton, VA,
+  stands out as a welcoming spot for those seeking authentic Japanese flavors,
+  offering a variety of fresh sushi rolls, hibachi dishes, and bento boxes that
+  capture the essence of casual dining. This eatery emphasizes accessibility
+  with features like wheelchair-friendly parking and entrances, making it easy
+  for everyone to enjoy a meal. Patrons can explore a menu with moderately
+  priced options that highlight quality ingredients, perfect for anyone hunting
+  for reliable sushi restaurants in the area. Whether you're in the mood for a
+  quick lunch or a satisfying dinner, the spot delivers a straightforward vibe
+  that complements the local scene, appealing to fans of Japanese cuisine
+  nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ8zOSvfGCuokRWhbBG5YHNm8/reviews/ChZDSUhNMG9nS0VJQ0FnSUNPX002WFBnEAE
@@ -350,6 +373,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURIb3NHWE1REAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURIb3NHWE1REAE!2m1!1s0x89ba82f1bd9233f3:0x6f3607961bc1165a
+review_summary: >-
+  Insights from Customer Experiences$$$Feedback from visitors to this Hampton
+  sushi spot often highlights the fresh and flavorful rolls, with many
+  appreciating the great value and tasty lunch deals that make it a go-to choice
+  for casual meals. While some note that certain dishes could use a bit more
+  zest to meet expectations, the overall experience is frequently praised for
+  its convenience and variety, especially for takeout or delivery options.
+  Diners enjoy the approachable atmosphere and solid portions, though a few
+  suggest that service could be more attentive to enhance the visit. All in all,
+  it's a solid pick for those exploring top-rated sushi places, with the
+  positives outweighing any minor hiccups to keep things enjoyable and worth
+  trying.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -382,7 +418,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

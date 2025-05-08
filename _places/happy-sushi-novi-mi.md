@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Happy Sushi"
+title: Happy Sushi
 permalink: /michigan/novi/happy-sushi.html
 stateAbbr: MI
 stateName: Michigan
 cityName: Novi
 seo:
-  name: "Happy Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.happysushinovi.com/
-description: "Cozy, unassuming sushi house offering a variety of maki, sashimi & nigiri, plus lunch specials. Happy Sushi serves delicious sushi in Novi, Michigan. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJUXZpAVyuJIgRkLJtPijE7Lc
 photos:
   - name: >-
@@ -143,7 +141,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC3y8nWPw!2e10!4m2!3m1!1s0x8824ae5c01697651:0xb7ecc4283e6db290
 address: Novi Ten Shopping Center, 41766 W 10 Mile Rd, Novi, MI 48375, USA
-street: Novi Ten Shopping Center, 41766 W 10 Mile Rd
+street: Novi Ten Shopping Center,41766 W 10 Mile Rd
 city: Novi
 state: MI
 zip: '48375'
@@ -185,6 +183,33 @@ price_range: $10 &ndash; $20
 rating: '4.3'
 rating_count: 0
 website: https://www.happysushinovi.com/
+description: >-
+  Discover Happy Sushi in Novi, Michigan$$$Happy Sushi in Novi, MI, stands out
+  as a welcoming sushi restaurant nestled in a bustling shopping center,
+  offering an array of fresh sushi specialties and traditional Japanese dishes
+  in a relaxed environment. Patrons can enjoy a variety of maki, sashimi, and
+  nigiri, along with lunch specials that cater to different tastes, all prepared
+  with care for an authentic dining experience. The spot emphasizes
+  accessibility with features like wheelchair-friendly entrances and seating,
+  making it easy for everyone to savor their meal. Its casual vibe and moderate
+  pricing add to the appeal for those seeking quality Japanese cuisine without
+  the formality. Whether you're looking for top-rated sushi options or a cozy
+  place to unwind, this hidden gem delivers a satisfying blend of flavors and
+  convenience.
+generative_summary: >-
+  Discover Happy Sushi in Novi, Michigan$$$Happy Sushi in Novi, MI, stands out
+  as a welcoming sushi restaurant nestled in a bustling shopping center,
+  offering an array of fresh sushi specialties and traditional Japanese dishes
+  in a relaxed environment. Patrons can enjoy a variety of maki, sashimi, and
+  nigiri, along with lunch specials that cater to different tastes, all prepared
+  with care for an authentic dining experience. The spot emphasizes
+  accessibility with features like wheelchair-friendly entrances and seating,
+  making it easy for everyone to savor their meal. Its casual vibe and moderate
+  pricing add to the appeal for those seeking quality Japanese cuisine without
+  the formality. Whether you're looking for top-rated sushi options or a cozy
+  place to unwind, this hidden gem delivers a satisfying blend of flavors and
+  convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJUXZpAVyuJIgRkLJtPijE7Lc/reviews/ChZDSUhNMG9nS0VJQ0FnTUNnbkllT0JREAE
@@ -330,6 +355,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURnNXBHbE93EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURnNXBHbE93EAE!2m1!1s0x8824ae5c01697651:0xb7ecc4283e6db290
+review_summary: >-
+  What Customers Are Saying About the Experience$$$Visitors frequently praise
+  the freshness and variety of the sushi at this local favorite, noting how the
+  dishes are always made with high-quality ingredients that leave a lasting
+  impression. Many highlight the unique menu items and flavorful options that
+  make for a delightful and surprising meal, with specials like inventive rolls
+  standing out as particularly enjoyable. The service is often described as
+  friendly and attentive, contributing to a calm atmosphere that enhances the
+  overall dining vibe. While some mention the cozy space might feel a bit
+  intimate for larger groups, the value for money keeps people coming back for
+  more. If you're searching for reliable sushi spots nearby, this one earns high
+  marks for consistently delivering a positive and memorable experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -363,8 +401,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Cozy, unassuming sushi house offering a variety of maki, sashimi & nigiri,
   plus lunch specials.
 

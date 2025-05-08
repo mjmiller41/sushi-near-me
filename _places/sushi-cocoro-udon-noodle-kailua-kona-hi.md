@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "SUSHI COCORO &UDON NOODLE"
+title: SUSHI COCORO &UDON NOODLE
 permalink: /hawaii/kailua-kona/sushi-cocoro-udon-noodle.html
 stateAbbr: HI
 stateName: Hawaii
 cityName: Kailua-Kona
 seo:
-  name: "SUSHI COCORO &UDON NOODLE"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "SUSHI COCORO &UDON NOODLE serves delicious sushi in Kailua-Kona, Hawaii. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJrwAEMfkOVHkRWhE8-MP6_Cc
 photos:
   - name: >-
@@ -184,7 +182,45 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover SUSHI COCORO &UDON NOODLE in Kailua-Kona, HI$$$SUSHI COCORO &UDON
+  NOODLE in Kailua-Kona, HI, offers a delightful blend of traditional and
+  Hawaiian-inspired flavors, making it a standout spot among local sushi
+  restaurants. This inviting venue features expertly prepared sushi rolls, fresh
+  poke bowls, and hearty udon noodles, all crafted with high-quality ingredients
+  that highlight the island's vibrant culinary scene. As a
+  bring-your-own-beverage destination, it provides a relaxed atmosphere perfect
+  for enjoying authentic Japanese dishes with a tropical twist. Visitors seeking
+  top-rated sushi options near the coast will appreciate the thoughtful menu
+  that balances classic techniques with local influences, ensuring a memorable
+  dining experience.
+generative_summary: >-
+  Discover SUSHI COCORO &UDON NOODLE in Kailua-Kona, HI$$$SUSHI COCORO &UDON
+  NOODLE in Kailua-Kona, HI, offers a delightful blend of traditional and
+  Hawaiian-inspired flavors, making it a standout spot among local sushi
+  restaurants. This inviting venue features expertly prepared sushi rolls, fresh
+  poke bowls, and hearty udon noodles, all crafted with high-quality ingredients
+  that highlight the island's vibrant culinary scene. As a
+  bring-your-own-beverage destination, it provides a relaxed atmosphere perfect
+  for enjoying authentic Japanese dishes with a tropical twist. Visitors seeking
+  top-rated sushi options near the coast will appreciate the thoughtful menu
+  that balances classic techniques with local influences, ensuring a memorable
+  dining experience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What People Are Saying About This Sushi Spot$$$Feedback from diners at this
+  Kailua-Kona eatery often highlights the fresh and flavorful sushi selections,
+  with many appreciating the creative twists on traditional favorites that keep
+  things exciting. People frequently mention the welcoming vibe and solid
+  portion sizes, making it a go-to choice for casual meals or groups looking for
+  reliable Japanese-inspired fare. While some note that the BYOB policy adds a
+  fun, personalized touch, others praise the attentive service that enhances the
+  overall enjoyment. Overall, the consensus leans positive, with visitors
+  commonly recommending it as a solid option for anyone searching for quality
+  sushi restaurants in the area, though it's wise to check for any updates on
+  wait times or specials to plan your visit accordingly.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +246,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

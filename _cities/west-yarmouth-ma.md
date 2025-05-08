@@ -5,4 +5,5 @@ permalink: /massachusetts/west-yarmouth/
 stateAbbr: MA
 stateName: Massachusetts
 cityName: West Yarmouth
+
 ---

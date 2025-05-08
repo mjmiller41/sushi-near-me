@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "SUSHI GO"
+title: SUSHI GO
 permalink: /utah/north-logan/sushi-go.html
 stateAbbr: UT
 stateName: Utah
 cityName: North Logan
 seo:
-  name: "SUSHI GO"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "SUSHI GO serves delicious sushi in North Logan, Utah. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJQUdThb99VIcR7ePUvXFuZOs
 photos:
   - name: >-
@@ -170,7 +168,49 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x87547dbf85534741:0xeb646e71bdd4e3ed!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 1
+        hour: 10
+        minute: 0
+      close:
+        day: 1
+        hour: 19
+        minute: 0
+    - open:
+        day: 2
+        hour: 10
+        minute: 0
+      close:
+        day: 2
+        hour: 19
+        minute: 0
+    - open:
+        day: 3
+        hour: 10
+        minute: 0
+      close:
+        day: 3
+        hour: 19
+        minute: 0
+    - open:
+        day: 4
+        hour: 10
+        minute: 0
+      close:
+        day: 4
+        hour: 19
+        minute: 0
+    - open:
+        day: 5
+        hour: 10
+        minute: 0
+      close:
+        day: 5
+        hour: 19
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 10:00 AM – 7:00 PM'
     - 'Tuesday: 10:00 AM – 7:00 PM'
     - 'Wednesday: 10:00 AM – 7:00 PM'
@@ -178,14 +218,7 @@ opening_hours:
     - 'Friday: 10:00 AM – 7:00 PM'
     - 'Saturday: Closed'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 10:00 AM – 7:00 PM'
-    - 'Tuesday: 10:00 AM – 7:00 PM'
-    - 'Wednesday: 10:00 AM – 7:00 PM'
-    - 'Thursday: 10:00 AM – 7:00 PM'
-    - 'Friday: 10:00 AM – 7:00 PM'
-    - 'Saturday: Closed'
-    - 'Sunday: Closed'
+  nextOpenTime: '2025-05-05T16:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,36 +229,243 @@ secondary_opening_hours:
 phone: null
 price_level: null
 price_range: $1 &ndash; $10
-rating: '4.8'
-rating_count: 0
+rating: '4.9'
+rating_count: 227
 website: null
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover SUSHI GO in North Logan, UT$$$SUSHI GO in North Logan, UT, stands out
+  as a welcoming spot for those seeking fresh Japanese-inspired dining options.
+  This casual eatery specializes in quick, healthy meals that make it a go-to
+  choice for sushi enthusiasts looking for convenient spots nearby. With a focus
+  on flavorful rolls and bites perfect for lunch or dinner, it offers an
+  accessible vibe enhanced by thoughtful features like wheelchair-friendly
+  amenities. The menu emphasizes affordable, quality fare that appeals to anyone
+  craving light, satisfying dishes in a relaxed setting, making it a solid pick
+  among local sushi restaurants.
+generative_summary: >-
+  Discover SUSHI GO in North Logan, UT$$$SUSHI GO in North Logan, UT, stands out
+  as a welcoming spot for those seeking fresh Japanese-inspired dining options.
+  This casual eatery specializes in quick, healthy meals that make it a go-to
+  choice for sushi enthusiasts looking for convenient spots nearby. With a focus
+  on flavorful rolls and bites perfect for lunch or dinner, it offers an
+  accessible vibe enhanced by thoughtful features like wheelchair-friendly
+  amenities. The menu emphasizes affordable, quality fare that appeals to anyone
+  craving light, satisfying dishes in a relaxed setting, making it a solid pick
+  among local sushi restaurants.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJQUdThb99VIcR7ePUvXFuZOs/reviews/ChZDSUhNMG9nS0VJQ0FnTUNBLS11Zk1REAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        Sushi Go is one of my favorite places to go to eat for lunch. Sam is
+        very kind and gracious. My personal favorite is the rainbow roll. My
+        wife loves the Aggie crunch. Prices are fair and the food is delicious.
+        We love having this place in our community.
+      languageCode: en
+    originalText:
+      text: >-
+        Sushi Go is one of my favorite places to go to eat for lunch. Sam is
+        very kind and gracious. My personal favorite is the rainbow roll. My
+        wife loves the Aggie crunch. Prices are fair and the food is delicious.
+        We love having this place in our community.
+      languageCode: en
+    authorAttribution:
+      displayName: Devin Burns
+      uri: https://www.google.com/maps/contrib/110695826938915578439/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLvKYGfsKou28ClhRbk2pQrFAwpuudeVo4dD0nOCEL3ov4wjQ=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-02-04T19:49:56.122576Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNBLS11Zk1REAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNBLS11Zk1REAE!2m1!1s0x87547dbf85534741:0xeb646e71bdd4e3ed
+  - name: >-
+      places/ChIJQUdThb99VIcR7ePUvXFuZOs/reviews/ChdDSUhNMG9nS0VJQ0FnSUR2NUxySDV3RRAB
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        Okay, I have to say it — Sushi Go completely blew me away. I wasn’t
+        expecting much walking in since it’s a pretty simple spot, but wow, was
+        I wrong. This place is proof that you should never judge a sushi joint
+        by its decor.
+
+
+        The sushi here is as good as any fancy restaurant I’ve been to, maybe
+        better. The fish is so fresh it tastes like it came straight off the
+        boat 😅 Every roll is perfectly balanced — just the right amount of
+        rice, fish, and sauce. You can tell the owner really care about the
+        details here.
+
+
+        Also… the rice-to-fish ratio. It’s a small thing, but it makes a big
+        difference. You’re not getting those rolls stuffed with a ton of rice
+        and a sliver of fish. Here you get plump, fresh cuts of fish that
+        actually feel substantial. And the price! Amazing.
+
+
+        Honestly, I haven’t had sushi this good in a while. It’s that good. If
+        you’re in Logan and craving sushi, go to Sushi Go!
+      languageCode: en
+    originalText:
+      text: >-
+        Okay, I have to say it — Sushi Go completely blew me away. I wasn’t
+        expecting much walking in since it’s a pretty simple spot, but wow, was
+        I wrong. This place is proof that you should never judge a sushi joint
+        by its decor.
+
+
+        The sushi here is as good as any fancy restaurant I’ve been to, maybe
+        better. The fish is so fresh it tastes like it came straight off the
+        boat 😅 Every roll is perfectly balanced — just the right amount of
+        rice, fish, and sauce. You can tell the owner really care about the
+        details here.
+
+
+        Also… the rice-to-fish ratio. It’s a small thing, but it makes a big
+        difference. You’re not getting those rolls stuffed with a ton of rice
+        and a sliver of fish. Here you get plump, fresh cuts of fish that
+        actually feel substantial. And the price! Amazing.
+
+
+        Honestly, I haven’t had sushi this good in a while. It’s that good. If
+        you’re in Logan and craving sushi, go to Sushi Go!
+      languageCode: en
+    authorAttribution:
+      displayName: Karina Swenson
+      uri: https://www.google.com/maps/contrib/110201395895151054790/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVkGjv4s-DRRh6781hcbM4TI8svQI8jtkNvaikT_y8Arexfnxl0Xw=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-12-17T20:13:42.644075Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR2NUxySDV3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR2NUxySDV3RRAB!2m1!1s0x87547dbf85534741:0xeb646e71bdd4e3ed
+  - name: >-
+      places/ChIJQUdThb99VIcR7ePUvXFuZOs/reviews/ChdDSUhNMG9nS0VJQ0FnTURvOXJteHB3RRAB
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        Cheap, consistent sushi for $6/roll? Not bad at all. Customer service is
+        great too.
+      languageCode: en
+    originalText:
+      text: >-
+        Cheap, consistent sushi for $6/roll? Not bad at all. Customer service is
+        great too.
+      languageCode: en
+    authorAttribution:
+      displayName: Matt Rossberg
+      uri: https://www.google.com/maps/contrib/102383602872930276184/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjV7ABAu8-2OqbzS6R4zmh-tQrOXFhP1mxv14N6FeGckjF-SIT2h=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-24T18:55:44.131713Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURvOXJteHB3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURvOXJteHB3RRAB!2m1!1s0x87547dbf85534741:0xeb646e71bdd4e3ed
+  - name: >-
+      places/ChIJQUdThb99VIcR7ePUvXFuZOs/reviews/ChZDSUhNMG9nS0VJQ0FnTURJOXZ6WGNREAE
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 5
+    text:
+      text: >-
+        I picked up a few rolls and was very impressed with how fresh the fish
+        was. Super fair prices too. I’ll definitely be turning this into one of
+        my lunch spots!
+      languageCode: en
+    originalText:
+      text: >-
+        I picked up a few rolls and was very impressed with how fresh the fish
+        was. Super fair prices too. I’ll definitely be turning this into one of
+        my lunch spots!
+      languageCode: en
+    authorAttribution:
+      displayName: Wyatt Larson
+      uri: https://www.google.com/maps/contrib/115500421130655188718/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJy36v017dehGQkaLX2xTF2JSHP9qYe9N63eqY9tyURy5q6-Q=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-04-09T17:22:19.070617Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURJOXZ6WGNREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJOXZ6WGNREAE!2m1!1s0x87547dbf85534741:0xeb646e71bdd4e3ed
+  - name: >-
+      places/ChIJQUdThb99VIcR7ePUvXFuZOs/reviews/ChdDSUhNMG9nS0VJQ0FnSUR5M09EMjlBRRAB
+    relativePublishTimeDescription: 4 years ago
+    rating: 5
+    text:
+      text: >-
+        Ever seen a place offering $4.99 sushi and wondered whether it would be
+        safe or not, let me put your mind at ease.  We have eaten here multiple
+        weekends and it is delicious!  The sushi is well made and their menu is
+        distinguished between cooked and raw rolls.  Drop in and try this place
+        at least once.  I guarantee you'll go back again and again.
+      languageCode: en
+    originalText:
+      text: >-
+        Ever seen a place offering $4.99 sushi and wondered whether it would be
+        safe or not, let me put your mind at ease.  We have eaten here multiple
+        weekends and it is delicious!  The sushi is well made and their menu is
+        distinguished between cooked and raw rolls.  Drop in and try this place
+        at least once.  I guarantee you'll go back again and again.
+      languageCode: en
+    authorAttribution:
+      displayName: Megan Estepp
+      uri: https://www.google.com/maps/contrib/104409470003352688875/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjU8tiZjGfjxtCTzTuJymTkqNUIudZy0l07HedScCzjKT2DYn9Xv0Q=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2021-02-27T18:47:48.102502Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR5M09EMjlBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR5M09EMjlBRRAB!2m1!1s0x87547dbf85534741:0xeb646e71bdd4e3ed
+review_summary: >-
+  What Customers Are Buzzing About$$$Folks rave about the fresh, well-balanced
+  sushi at this spot, highlighting how the rolls deliver great value without
+  skimping on taste or quality. Many appreciate the straightforward menu with
+  options that feel just right for a quick meal, often noting the generous
+  portions and variety that keep things exciting. Service stands out as friendly
+  and efficient, adding to the overall enjoyable experience that draws in repeat
+  visitors. Overall, it's clear this place hits the mark for anyone searching
+  for reliable sushi options nearby, with affordable prices and solid flavors
+  making it a favorite for casual diners.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsCashOnly: false
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
+delivery: true
+dine_in: true
 good_for_children: null
 good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
+good_for_sports: false
+live_music: false
+menu_for_children: false
 outdoor_seating: null
 reservable: null
-restroom: null
-serves_beer: null
+restroom: true
+serves_beer: false
 serves_breakfast: null
 serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_cocktails: false
+serves_coffee: false
+serves_dinner: true
+serves_dessert: false
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: false
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

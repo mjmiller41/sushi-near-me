@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Harmony Cuisine 2B1"
+title: Harmony Cuisine 2B1
 permalink: /california/san-diego/harmony-cuisine-2b1.html
 stateAbbr: CA
 stateName: California
 cityName: San Diego
 seo:
-  name: "Harmony Cuisine 2B1"
-  type: Restaurant
+  type: restaurant
   links: https://www.hc2b1.com/
-description: "Harmony Cuisine 2B1 serves delicious sushi in San Diego, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJAQDQQen_24ARyTSFJ-YYX9k
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $50 &ndash; $100
 rating: '4.8'
 rating_count: 0
 website: https://www.hc2b1.com/
+description: >-
+  Explore Harmony Cuisine 2B1 in San Diego$$$Harmony Cuisine 2B1 in San Diego,
+  CA, stands out as a modern eatery blending traditional and inventive sushi
+  options, making it a top choice for those seeking fresh Japanese-inspired
+  dishes in a welcoming setting. The spot offers a variety of creative rolls and
+  omakase selections that highlight high-quality ingredients, appealing to
+  anyone exploring sushi restaurants in the area. With accessibility features
+  like wheelchair-friendly entrances and parking, it ensures a comfortable visit
+  for all guests. Additionally, the moderate pricing and selection of beverages
+  add to its appeal as a go-to destination for casual yet memorable meals. This
+  sushi place near San Diego's vibrant neighborhoods provides an ideal spot for
+  enjoying fusion fare that balances authenticity with innovation.
+generative_summary: >-
+  Explore Harmony Cuisine 2B1 in San Diego$$$Harmony Cuisine 2B1 in San Diego,
+  CA, stands out as a modern eatery blending traditional and inventive sushi
+  options, making it a top choice for those seeking fresh Japanese-inspired
+  dishes in a welcoming setting. The spot offers a variety of creative rolls and
+  omakase selections that highlight high-quality ingredients, appealing to
+  anyone exploring sushi restaurants in the area. With accessibility features
+  like wheelchair-friendly entrances and parking, it ensures a comfortable visit
+  for all guests. Additionally, the moderate pricing and selection of beverages
+  add to its appeal as a go-to destination for casual yet memorable meals. This
+  sushi place near San Diego's vibrant neighborhoods provides an ideal spot for
+  enjoying fusion fare that balances authenticity with innovation.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJAQDQQen_24ARyTSFJ-YYX9k/reviews/ChdDSUhNMG9nS0VJQ0FnSURQNkpHejlRRRAB
@@ -370,6 +393,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURRNmQ2ZWpnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURRNmQ2ZWpnRRAB!2m1!1s0x80dbffe941d00001:0xd95f18e6278534c9
+review_summary: >-
+  Insights from Recent Reviews$$$Folks searching for the best sushi near me
+  often praise this spot for its incredibly fresh and flavorful fish that
+  delivers a melt-in-your-mouth experience with every bite. Reviewers highlight
+  the creative rolls and variety of options, noting how they make for an
+  exciting and satisfying meal without breaking the bank. The service comes
+  across as friendly and engaging, with staff adding a fun element that enhances
+  the overall vibe and keeps things lively. Many appreciate the welcoming
+  atmosphere, perfect for special occasions or groups, making it a reliable
+  choice for authentic Japanese-inspired dining. Overall, it's clear that
+  visitors keep coming back for the quality and value, solidifying its
+  reputation among local sushi enthusiasts.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -401,7 +437,7 @@ serves_lunch: true
 serves_vegetarian_food: false
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

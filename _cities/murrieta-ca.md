@@ -5,4 +5,5 @@ permalink: /california/murrieta/
 stateAbbr: CA
 stateName: California
 cityName: Murrieta
+
 ---

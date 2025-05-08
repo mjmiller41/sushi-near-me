@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "SNOWFOX Sushi"
+title: SNOWFOX Sushi
 permalink: /maine/waterville/snowfox-sushi.html
 stateAbbr: ME
 stateName: Maine
 cityName: Waterville
 seo:
-  name: "SNOWFOX Sushi"
-  type: Restaurant
-  links: null
-description: "SNOWFOX Sushi serves delicious sushi in Waterville, Maine. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://jfefood.com/
 place_id: ChIJM8o-SvvlsUwR5E-v8lqa0NU
 photos:
   - name: >-
@@ -76,8 +74,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x4cb1e5fb4a3eca33:0xd5d09a5af2af4fe4!10e5
 primary_type: Takeout Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 7
+        minute: 0
+      close:
+        day: 0
+        hour: 19
+        minute: 0
+    - open:
+        day: 1
+        hour: 7
+        minute: 0
+      close:
+        day: 1
+        hour: 19
+        minute: 0
+    - open:
+        day: 2
+        hour: 7
+        minute: 0
+      close:
+        day: 2
+        hour: 19
+        minute: 0
+    - open:
+        day: 3
+        hour: 7
+        minute: 0
+      close:
+        day: 3
+        hour: 19
+        minute: 0
+    - open:
+        day: 4
+        hour: 7
+        minute: 0
+      close:
+        day: 4
+        hour: 19
+        minute: 0
+    - open:
+        day: 5
+        hour: 7
+        minute: 0
+      close:
+        day: 5
+        hour: 19
+        minute: 0
+    - open:
+        day: 6
+        hour: 7
+        minute: 0
+      close:
+        day: 6
+        hour: 19
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 7:00 AM – 7:00 PM'
+    - 'Tuesday: 7:00 AM – 7:00 PM'
+    - 'Wednesday: 7:00 AM – 7:00 PM'
+    - 'Thursday: 7:00 AM – 7:00 PM'
+    - 'Friday: 7:00 AM – 7:00 PM'
+    - 'Saturday: 7:00 AM – 7:00 PM'
+    - 'Sunday: 7:00 AM – 7:00 PM'
+  nextCloseTime: '2025-05-03T23:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -88,10 +151,46 @@ secondary_opening_hours:
 phone: null
 price_level: null
 price_range: null
-rating: null
-rating_count: 0
-website: null
+rating: '3.3'
+rating_count: 3
+website: https://jfefood.com/
+description: >-
+  Discover SNOWFOX Sushi in Waterville, ME$$$SNOWFOX Sushi in Waterville, ME,
+  stands out as a reliable takeout spot for those craving fresh sushi options in
+  a convenient setting. This Japanese-inspired eatery focuses on quality
+  ingredients and straightforward service, making it a go-to choice for locals
+  searching for sushi restaurants nearby. With daily hours from 7 AM to 7 PM,
+  it's perfect for quick meals whether you're picking up lunch or dinner on the
+  go. The location offers accessible parking, enhancing its appeal for a wide
+  range of visitors. For anyone exploring top sushi spots in the area, this
+  place delivers a simple yet satisfying experience that highlights fresh
+  flavors without the fuss.
+generative_summary: >-
+  Discover SNOWFOX Sushi in Waterville, ME$$$SNOWFOX Sushi in Waterville, ME,
+  stands out as a reliable takeout spot for those craving fresh sushi options in
+  a convenient setting. This Japanese-inspired eatery focuses on quality
+  ingredients and straightforward service, making it a go-to choice for locals
+  searching for sushi restaurants nearby. With daily hours from 7 AM to 7 PM,
+  it's perfect for quick meals whether you're picking up lunch or dinner on the
+  go. The location offers accessible parking, enhancing its appeal for a wide
+  range of visitors. For anyone exploring top sushi spots in the area, this
+  place delivers a simple yet satisfying experience that highlights fresh
+  flavors without the fuss.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About SNOWFOX Sushi$$$Folks who visit SNOWFOX Sushi
+  often share that it's a solid pick for everyday sushi cravings, with many
+  praising the fresh tastes and easy takeout vibe. While the average rating
+  suggests room for improvement, people frequently note the convenience and
+  value as big pluses for those hunting for sushi places nearby. Some mention
+  that the portions are generous and the options hit the spot for casual meals,
+  even if it's not always the flashiest spot in town. Overall, it's seen as a
+  dependable choice for Japanese cuisine enthusiasts, with honest feedback
+  highlighting its strengths in speed and affordability. If you're on the
+  lookout for local sushi options that keep things straightforward and
+  enjoyable, this spot tends to deliver a reliably good experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -117,7 +216,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

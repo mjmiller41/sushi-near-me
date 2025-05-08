@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kiku"
+title: Kiku
 permalink: /new-york/staten-island/kiku.html
 stateAbbr: NY
 stateName: New York
 cityName: Staten Island
 seo:
-  name: "Kiku"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Kiku serves delicious sushi in Staten Island, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJg73kXKtLwokRzEL-VwIHpk0
 photos:
   - name: >-
@@ -184,7 +182,45 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Kiku in Staten Island, NY$$$Kiku in Staten Island, NY, stands out as
+  a welcoming spot for sushi enthusiasts seeking fresh flavors and diverse
+  options in a cozy atmosphere. This eatery specializes in an array of sushi
+  rolls and teriyaki dishes, complemented by thoughtful vegetarian choices and
+  convenient lunch specials that cater to various tastes. Visitors can enjoy the
+  accessibility features, such as wheelchair-friendly entrances and seating,
+  making it an inclusive choice for everyone. The menu highlights a blend of
+  traditional Japanese-inspired cuisine, perfect for those exploring sushi
+  restaurants near me or looking for reliable Japanese places in the area. With
+  its approachable vibe, Kiku offers a satisfying experience for anyone craving
+  top-rated sushi in a relaxed setting.
+generative_summary: >-
+  Discover Kiku in Staten Island, NY$$$Kiku in Staten Island, NY, stands out as
+  a welcoming spot for sushi enthusiasts seeking fresh flavors and diverse
+  options in a cozy atmosphere. This eatery specializes in an array of sushi
+  rolls and teriyaki dishes, complemented by thoughtful vegetarian choices and
+  convenient lunch specials that cater to various tastes. Visitors can enjoy the
+  accessibility features, such as wheelchair-friendly entrances and seating,
+  making it an inclusive choice for everyone. The menu highlights a blend of
+  traditional Japanese-inspired cuisine, perfect for those exploring sushi
+  restaurants near me or looking for reliable Japanese places in the area. With
+  its approachable vibe, Kiku offers a satisfying experience for anyone craving
+  top-rated sushi in a relaxed setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Recent Feedback$$$Folks often rave about the tasty dishes at
+  this sushi spot, like the flavorful steak teriyaki and garlic scallops that
+  really hit the spot for a satisfying meal. While some comments note that
+  service can occasionally feel a bit off, with staff not always as helpful as
+  they'd hope, the overall food quality tends to shine through and keep diners
+  coming back. It's worth mentioning that the positives around the menu far
+  outweigh the occasional hiccups, giving it a solid feel for casual
+  get-togethers or quick bites. If you're hunting for sushi places near me, this
+  location delivers on fresh flavors but might benefit from a friendlier team
+  dynamic. All in all, it's a worthwhile stop for anyone in the mood for good
+  eats, as long as you go in with realistic expectations for the experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +246,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

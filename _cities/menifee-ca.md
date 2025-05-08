@@ -5,4 +5,5 @@ permalink: /california/menifee/
 stateAbbr: CA
 stateName: California
 cityName: Menifee
+
 ---

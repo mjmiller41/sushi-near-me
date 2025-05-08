@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Neko"
+title: Sushi Neko
 permalink: /nevada/las-vegas/sushi-neko.html
 stateAbbr: NV
 stateName: Nevada
 cityName: Las Vegas
 seo:
-  name: "Sushi Neko"
-  type: Restaurant
+  type: restaurant
   links: https://www.fooddiscoveryapp.com/las-vegas/sushi-neko
-description: "Sushi Neko serves delicious sushi in Las Vegas, Nevada. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJu-6Dv7fGyIAR_xocph6eidA
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c8c6b7bf83eebb:0xd0899e1ea61c1aff!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 0
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 0
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 0
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 0
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 0
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 0
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 0
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 12:00 AM'
     - 'Tuesday: 11:00 AM – 12:00 AM'
     - 'Wednesday: 11:00 AM – 12:00 AM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 12:00 AM'
     - 'Saturday: 11:00 AM – 12:00 AM'
     - 'Sunday: 11:00 AM – 12:00 AM'
-  current:
-    - 'Monday: 11:00 AM – 12:00 AM'
-    - 'Tuesday: 11:00 AM – 12:00 AM'
-    - 'Wednesday: 11:00 AM – 12:00 AM'
-    - 'Thursday: 11:00 AM – 12:00 AM'
-    - 'Friday: 11:00 AM – 12:00 AM'
-    - 'Saturday: 11:00 AM – 12:00 AM'
-    - 'Sunday: 11:00 AM – 12:00 AM'
+  nextCloseTime: '2025-05-04T07:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,302 @@ phone: (702) 247-4241
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.6'
-rating_count: 0
+rating_count: 3366
 website: https://www.fooddiscoveryapp.com/las-vegas/sushi-neko
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Sushi Neko in Las Vegas, NV$$$Sushi Neko in Las Vegas, NV, stands out
+  as a lively destination for those seeking authentic Japanese flavors in a
+  casual setting. This spot offers an extensive all-you-can-eat selection of
+  fresh sushi rolls and other traditional dishes, making it a go-to choice for
+  sushi enthusiasts exploring options near the city. With its vibrant atmosphere
+  and accessibility features like wheelchair-friendly entrances and seating, it
+  caters to a wide range of diners looking for convenience and variety. The
+  restaurant operates late into the evening, providing great value for meals
+  that include everything from classic rolls to hearty appetizers. Whether
+  you're in the mood for top-rated sushi places near you, Sushi Neko delivers a
+  satisfying experience that highlights the best of Japanese dining in a
+  bustling area.
+generative_summary: >-
+  Discover Sushi Neko in Las Vegas, NV$$$Sushi Neko in Las Vegas, NV, stands out
+  as a lively destination for those seeking authentic Japanese flavors in a
+  casual setting. This spot offers an extensive all-you-can-eat selection of
+  fresh sushi rolls and other traditional dishes, making it a go-to choice for
+  sushi enthusiasts exploring options near the city. With its vibrant atmosphere
+  and accessibility features like wheelchair-friendly entrances and seating, it
+  caters to a wide range of diners looking for convenience and variety. The
+  restaurant operates late into the evening, providing great value for meals
+  that include everything from classic rolls to hearty appetizers. Whether
+  you're in the mood for top-rated sushi places near you, Sushi Neko delivers a
+  satisfying experience that highlights the best of Japanese dining in a
+  bustling area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJu-6Dv7fGyIAR_xocph6eidA/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJbUxXVXZnRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Amazing all-you-can-eat sushi experience! 🍣✨
+
+
+        For just $30, you can eat as much as you want—and what truly amazed me
+        was the incredibly fast service and outstanding quality of the food.
+        It’s honestly impressive!
+
+
+        I highly recommend coming around 3-4 PM when there’s little to no wait.
+        After 5 PM, expect a line.
+
+
+        Every meal here has been delicious, but my top recommendation is the Be
+        Happy Roll—an absolute must-try!
+      languageCode: en
+    originalText:
+      text: >-
+        Amazing all-you-can-eat sushi experience! 🍣✨
+
+
+        For just $30, you can eat as much as you want—and what truly amazed me
+        was the incredibly fast service and outstanding quality of the food.
+        It’s honestly impressive!
+
+
+        I highly recommend coming around 3-4 PM when there’s little to no wait.
+        After 5 PM, expect a line.
+
+
+        Every meal here has been delicious, but my top recommendation is the Be
+        Happy Roll—an absolute must-try!
+      languageCode: en
+    authorAttribution:
+      displayName: Anna Kochetova
+      uri: https://www.google.com/maps/contrib/105581617738003869126/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjW6GX1xvnl3GTlh5h4BAycHpmK4W_0xUM4e-a3uGzz662KNSEg=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-03-30T01:07:04.674875Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNJbUxXVXZnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNJbUxXVXZnRRAB!2m1!1s0x80c8c6b7bf83eebb:0xd0899e1ea61c1aff
+  - name: >-
+      places/ChIJu-6Dv7fGyIAR_xocph6eidA/reviews/ChZDSUhNMG9nS0VJQ0FnSUNmeFBxT2JREAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 3
+    text:
+      text: >-
+        I visited Sushi Neko recently, and while the experience wasn’t bad, it
+        didn’t quite live up to the hype. The sushi was fresh, but the flavors
+        were fairly ordinary compared to other all-you-can-eat sushi places I’ve
+        tried. The variety on the menu was decent, but nothing really stood out
+        as exceptional.
+
+
+        One nice touch is that they provide a small cake for birthday
+        celebrations, which is a thoughtful gesture. However, aside from that,
+        the overall experience felt average. The service was okay—neither
+        particularly attentive nor inattentive. The ambiance was comfortable but
+        nothing remarkable.
+
+
+        Overall, it’s a decent spot for casual dining and celebrations, but it
+        didn’t leave a lasting impression.
+      languageCode: en
+    originalText:
+      text: >-
+        I visited Sushi Neko recently, and while the experience wasn’t bad, it
+        didn’t quite live up to the hype. The sushi was fresh, but the flavors
+        were fairly ordinary compared to other all-you-can-eat sushi places I’ve
+        tried. The variety on the menu was decent, but nothing really stood out
+        as exceptional.
+
+
+        One nice touch is that they provide a small cake for birthday
+        celebrations, which is a thoughtful gesture. However, aside from that,
+        the overall experience felt average. The service was okay—neither
+        particularly attentive nor inattentive. The ambiance was comfortable but
+        nothing remarkable.
+
+
+        Overall, it’s a decent spot for casual dining and celebrations, but it
+        didn’t leave a lasting impression.
+      languageCode: en
+    authorAttribution:
+      displayName: J. C
+      uri: https://www.google.com/maps/contrib/116884130177886787267/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVm0Ys18KOoWSeSsnJPZFrHhNuPYtq_iN3Tq-d46iFJ-nscsto=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-12-26T02:48:44.485910Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNmeFBxT2JREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNmeFBxT2JREAE!2m1!1s0x80c8c6b7bf83eebb:0xd0899e1ea61c1aff
+  - name: >-
+      places/ChIJu-6Dv7fGyIAR_xocph6eidA/reviews/ChdDSUhNMG9nS0VJQ0FnTURJa3NEajd3RRAB
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 5
+    text:
+      text: >-
+        This is 1 of my go to sushi spots.   It’s located in China town and it’s
+        busy.   I was in the area yesterday at lunch time so I stopped by and
+        got right in .  I was by myself but had decent availability.
+
+        Sushi is always fresh.   Service is always prompt.  And food was
+        great.   They always have some good music playing but not to loud for a
+        conversation.
+
+
+        I love this place!!
+      languageCode: en
+    originalText:
+      text: >-
+        This is 1 of my go to sushi spots.   It’s located in China town and it’s
+        busy.   I was in the area yesterday at lunch time so I stopped by and
+        got right in .  I was by myself but had decent availability.
+
+        Sushi is always fresh.   Service is always prompt.  And food was
+        great.   They always have some good music playing but not to loud for a
+        conversation.
+
+
+        I love this place!!
+      languageCode: en
+    authorAttribution:
+      displayName: shawn lievense
+      uri: https://www.google.com/maps/contrib/103752598867770495610/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUBWfCdwzaoNRBiWhn8esssndIuuGLW-1asKWOKCT0uEa1UxG9u9w=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-08T12:25:48.233270Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJa3NEajd3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJa3NEajd3RRAB!2m1!1s0x80c8c6b7bf83eebb:0xd0899e1ea61c1aff
+  - name: >-
+      places/ChIJu-6Dv7fGyIAR_xocph6eidA/reviews/ChZDSUhNMG9nS0VJQ0FnTURJMTk3U2FREAE
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        YUMMMMMM! This was recommended twice by people we met during our stay in
+        Vegas.
+
+
+        We did the AYCE option and it was well worth every single penny! I was
+        really impressed with all the “specials/one per person” items they had.
+      languageCode: en
+    originalText:
+      text: >-
+        YUMMMMMM! This was recommended twice by people we met during our stay in
+        Vegas.
+
+
+        We did the AYCE option and it was well worth every single penny! I was
+        really impressed with all the “specials/one per person” items they had.
+      languageCode: en
+    authorAttribution:
+      displayName: Mandy
+      uri: https://www.google.com/maps/contrib/109677649727202749137/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJ50YF3s6FO0F91tU34JQ1Lt9w4CkxnGsfL_yWMv3i19HZqcQ=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-13T16:37:06.173947Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURJMTk3U2FREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJMTk3U2FREAE!2m1!1s0x80c8c6b7bf83eebb:0xd0899e1ea61c1aff
+  - name: >-
+      places/ChIJu-6Dv7fGyIAR_xocph6eidA/reviews/ChdDSUhNMG9nS0VJQ0FnTUNvN3JlRy13RRAB
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 2
+    text:
+      text: >-
+        Well, this was a complicated visit today. On one hand the food was
+        generally good. On the other hand, they served me a really bad dish and
+        the manager argued about it. I was not arguing. When I say bad, the
+        presentation was awful. They served me a spider roll with rice that was
+        practically porage. Way over cooked. He assured me that was how they
+        served it. I accept that. And I told him if you stand behind this and
+        think it was a good product, I can't really complain. But he was so
+        defensive and brought back the spider roll we ordered and left it on the
+        table. I got pictures. Most of what we ordered was fine, but two dishes
+        were complete failures. Meh, don't plan on going back. But, I see they
+        seem popular. I found it on Google maps and tried it without reading any
+        reviews. The place is really cool inside. Yay.
+      languageCode: en
+    originalText:
+      text: >-
+        Well, this was a complicated visit today. On one hand the food was
+        generally good. On the other hand, they served me a really bad dish and
+        the manager argued about it. I was not arguing. When I say bad, the
+        presentation was awful. They served me a spider roll with rice that was
+        practically porage. Way over cooked. He assured me that was how they
+        served it. I accept that. And I told him if you stand behind this and
+        think it was a good product, I can't really complain. But he was so
+        defensive and brought back the spider roll we ordered and left it on the
+        table. I got pictures. Most of what we ordered was fine, but two dishes
+        were complete failures. Meh, don't plan on going back. But, I see they
+        seem popular. I found it on Google maps and tried it without reading any
+        reviews. The place is really cool inside. Yay.
+      languageCode: en
+    authorAttribution:
+      displayName: Scott Kay
+      uri: https://www.google.com/maps/contrib/114891588733396545566/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjURYC8SWrvx9Oh40c3DUcW-G1a2kLiPWJUM4WSIruFunNdTzz7shg=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-17T06:03:24.849032Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNvN3JlRy13RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNvN3JlRy13RRAB!2m1!1s0x80c8c6b7bf83eebb:0xd0899e1ea61c1aff
+review_summary: >-
+  What Customers Are Buzzing About$$$Visitors to this Las Vegas sushi spot often
+  rave about the fresh, high-quality ingredients and generous portions in the
+  all-you-can-eat menu, making it a solid pick for anyone craving variety
+  without breaking the bank. While most folks appreciate the fast service and
+  welcoming vibe that keep things enjoyable even during busy times, a few
+  mentions note that some dishes can vary in consistency, adding a bit of
+  hit-or-miss element to the experience. Overall, it's praised for its great
+  value and fun atmosphere, with highlights on specialty rolls and appetizers
+  that leave diners feeling satisfied and eager to return. If you're hunting for
+  sushi restaurants near you, this place generally delivers a worthwhile meal
+  that's worth checking out, especially for groups or families. Keep in mind,
+  timing your visit right can enhance the experience, as things tend to pick up
+  in the evenings, but the positives far outweigh any minor hiccups.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  paidStreetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
+curbside_pickup: false
 delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
+serves_coffee: true
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: false
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Vibrant, stylish restaurant offering all-you-can-eat sushi rolls, plus other
+  dishes, till late.
 
 ---

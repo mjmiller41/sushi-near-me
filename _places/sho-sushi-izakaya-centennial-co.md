@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sho Sushi & Izakaya"
+title: Sho Sushi & Izakaya
 permalink: /colorado/centennial/sho-sushi-izakaya.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Centennial
 seo:
-  name: "Sho Sushi & Izakaya"
-  type: Restaurant
+  type: restaurant
   links: https://www.shosushico.com/
-description: "Sho Sushi & Izakaya serves delicious sushi in Centennial, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJb9FE7YePbIcRnsYvbuN5_Ak
 photos:
   - name: >-
@@ -170,7 +168,105 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x876c8f87ed44d16f:0x9fc79e36e2fc69e!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 14
+        minute: 0
+    - open:
+        day: 0
+        hour: 16
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 14
+        minute: 0
+    - open:
+        day: 6
+        hour: 16
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:00 AM – 2:00 PM, 4:30 – 9:00 PM'
     - 'Wednesday: 11:00 AM – 2:00 PM, 4:30 – 9:00 PM'
@@ -178,14 +274,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 2:00 PM, 4:30 – 9:00 PM'
     - 'Saturday: 11:00 AM – 2:00 PM, 4:30 – 9:00 PM'
     - 'Sunday: 11:00 AM – 2:00 PM, 4:30 – 9:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:00 AM – 2:00 PM, 4:30 – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 2:00 PM, 4:30 – 9:00 PM'
-    - 'Thursday: 11:00 AM – 2:00 PM, 4:30 – 9:00 PM'
-    - 'Friday: 11:00 AM – 2:00 PM, 4:30 – 9:00 PM'
-    - 'Saturday: 11:00 AM – 2:00 PM, 4:30 – 9:00 PM'
-    - 'Sunday: 11:00 AM – 2:00 PM, 4:30 – 9:00 PM'
+  nextOpenTime: '2025-05-03T22:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +286,303 @@ phone: (303) 353-4192
 price_level: PRICE_LEVEL_MODERATE
 price_range: $30 &ndash; $50
 rating: '4.3'
-rating_count: 0
+rating_count: 419
 website: https://www.shosushico.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Sho Sushi & Izakaya in Centennial, CO$$$Sho Sushi & Izakaya in
+  Centennial, CO, stands out as a welcoming spot for enjoying all-you-can-eat
+  sushi and a variety of traditional Japanese dishes in a relaxed, casual
+  setting. This sushi restaurant features fresh selections that highlight
+  authentic flavors, making it a great choice for those seeking Japanese cuisine
+  options nearby. With accessibility features like wheelchair-friendly entrances
+  and parking, it's designed to accommodate all diners comfortably. The menu
+  includes an array of rolls, sashimi, and other plates, perfect for anyone
+  exploring top-rated sushi experiences. Operating hours cater to lunch and
+  dinner crowds, ensuring you can savor these offerings in a clean and inviting
+  atmosphere.
+generative_summary: >-
+  Discover Sho Sushi & Izakaya in Centennial, CO$$$Sho Sushi & Izakaya in
+  Centennial, CO, stands out as a welcoming spot for enjoying all-you-can-eat
+  sushi and a variety of traditional Japanese dishes in a relaxed, casual
+  setting. This sushi restaurant features fresh selections that highlight
+  authentic flavors, making it a great choice for those seeking Japanese cuisine
+  options nearby. With accessibility features like wheelchair-friendly entrances
+  and parking, it's designed to accommodate all diners comfortably. The menu
+  includes an array of rolls, sashimi, and other plates, perfect for anyone
+  exploring top-rated sushi experiences. Operating hours cater to lunch and
+  dinner crowds, ensuring you can savor these offerings in a clean and inviting
+  atmosphere.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJb9FE7YePbIcRnsYvbuN5_Ak/reviews/ChdDSUhNMG9nS0VJQ0FnTURBMzdpeGdBRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 3
+    text:
+      text: >-
+        We went there for the 1st time after reading many positive reviews of
+        the place and we decided to do ACE premium.
+
+        We are guided to the table with a broken bulk so the light was not great
+        to take photos.
+
+        We ordered various dishes but only sashimi was good (which is limited
+        order unfortunately), and the remaining were only average.
+
+        First is the oysters. They are very small & skinny. It is $12 a piece
+        and you are limited to one piece only for ACE. Who pays $12 for that
+        oyster piece would be very disappointed for sure. (We paid ACE and still
+        unpleasant).
+
+        Then the BBQ beef and bulgogi and beef skewers are very chewy. We could
+        not make it. We all had to spit out because we couldn’t swallow that
+        chewy beefs.
+
+        For special sashimi, we were limited to order and each order has 4 very
+        thin pieces of sashimi. They charge $14/$15 each order if you don’t do
+        ACE so again, kind of pricey.
+
+        Other rolls and dishes are nothing special.
+
+        For the price of ACE $42.99 we will not come back again for that quality
+        of food there.
+      languageCode: en
+    originalText:
+      text: >-
+        We went there for the 1st time after reading many positive reviews of
+        the place and we decided to do ACE premium.
+
+        We are guided to the table with a broken bulk so the light was not great
+        to take photos.
+
+        We ordered various dishes but only sashimi was good (which is limited
+        order unfortunately), and the remaining were only average.
+
+        First is the oysters. They are very small & skinny. It is $12 a piece
+        and you are limited to one piece only for ACE. Who pays $12 for that
+        oyster piece would be very disappointed for sure. (We paid ACE and still
+        unpleasant).
+
+        Then the BBQ beef and bulgogi and beef skewers are very chewy. We could
+        not make it. We all had to spit out because we couldn’t swallow that
+        chewy beefs.
+
+        For special sashimi, we were limited to order and each order has 4 very
+        thin pieces of sashimi. They charge $14/$15 each order if you don’t do
+        ACE so again, kind of pricey.
+
+        Other rolls and dishes are nothing special.
+
+        For the price of ACE $42.99 we will not come back again for that quality
+        of food there.
+      languageCode: en
+    authorAttribution:
+      displayName: thu Trang Nguyen
+      uri: https://www.google.com/maps/contrib/110079893000165163761/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXiJI7sxhIoXVEe7L5gQpCwVL8VlpqaHi66V8K41fGod2980w7R=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-02-25T15:03:27.749418Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURBMzdpeGdBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURBMzdpeGdBRRAB!2m1!1s0x876c8f87ed44d16f:0x9fc79e36e2fc69e
+  - name: >-
+      places/ChIJb9FE7YePbIcRnsYvbuN5_Ak/reviews/ChdDSUhNMG9nS0VJQ0FnSUNmay1ES3h3RRAB
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        Was pleasantly surprised on New Year's Eve by the selection and quality
+        of the AYCE menu and the ambience of Sho Sushi & Izakaya , right by
+        Arapahoe and Parker in Centennial. They have three levels of AYCE menu,
+        regular, blue and orange. I highly recommend choosing the orange AYCE as
+        it includes 3 types of traditional sashimi, 9 types of specialty
+        sashimi, 4 types of specialty nigiri as well as sashimi salad, fresh
+        oyster, lobster dynamite, and refreshing zaru udon. Ordering three or
+        four of these a la carte probably already cost more than the $42.99 AYCE
+        price, not taking into account of many other tasty appetizers, nigiri,
+        rolls and Korean entrees on the blue and regular menu. The service was
+        also prompt and attentive. Certainly one of the best AYCE sushi
+        restaurants in town.
+      languageCode: en
+    originalText:
+      text: >-
+        Was pleasantly surprised on New Year's Eve by the selection and quality
+        of the AYCE menu and the ambience of Sho Sushi & Izakaya , right by
+        Arapahoe and Parker in Centennial. They have three levels of AYCE menu,
+        regular, blue and orange. I highly recommend choosing the orange AYCE as
+        it includes 3 types of traditional sashimi, 9 types of specialty
+        sashimi, 4 types of specialty nigiri as well as sashimi salad, fresh
+        oyster, lobster dynamite, and refreshing zaru udon. Ordering three or
+        four of these a la carte probably already cost more than the $42.99 AYCE
+        price, not taking into account of many other tasty appetizers, nigiri,
+        rolls and Korean entrees on the blue and regular menu. The service was
+        also prompt and attentive. Certainly one of the best AYCE sushi
+        restaurants in town.
+      languageCode: en
+    authorAttribution:
+      displayName: Adam You
+      uri: https://www.google.com/maps/contrib/118308283543701668363/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUKo_mDrntQgEZZKmPo642zby3xFoKSJ-_w6haB6G5CWvECUOA=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2025-01-01T07:41:35.997643Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNmay1ES3h3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNmay1ES3h3RRAB!2m1!1s0x876c8f87ed44d16f:0x9fc79e36e2fc69e
+  - name: >-
+      places/ChIJb9FE7YePbIcRnsYvbuN5_Ak/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ3MWRERU93EAE
+    relativePublishTimeDescription: 8 months ago
+    rating: 5
+    text:
+      text: >-
+        Randomly stopped here, and I'm glad I did.  I am not a big fish guy, but
+        there is some sushi that's really good.  Our waitress was amazing in
+        helping me and had great recommendations.  The food tasted great!  I
+        would highly coming here.  I will for sure come back with my family. 
+        Such great choices too, between hot food and sushi.  So anyone can eat
+        here.  The environment was really nice and clean too.
+      languageCode: en
+    originalText:
+      text: >-
+        Randomly stopped here, and I'm glad I did.  I am not a big fish guy, but
+        there is some sushi that's really good.  Our waitress was amazing in
+        helping me and had great recommendations.  The food tasted great!  I
+        would highly coming here.  I will for sure come back with my family. 
+        Such great choices too, between hot food and sushi.  So anyone can eat
+        here.  The environment was really nice and clean too.
+      languageCode: en
+    authorAttribution:
+      displayName: Shane M
+      uri: https://www.google.com/maps/contrib/115478127878559377527/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVDeVAADHN0tv25ymT7x79ldwhghUsSyjJKC-_EQstI22dS3bSw=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-08-26T17:40:47.906084Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQ3MWRERU93EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQ3MWRERU93EAE!2m1!1s0x876c8f87ed44d16f:0x9fc79e36e2fc69e
+  - name: >-
+      places/ChIJb9FE7YePbIcRnsYvbuN5_Ak/reviews/ChZDSUhNMG9nS0VJQ0FnTURvdWVmSE13EAE
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        As self-proclaimed AYCE connoisseurs, my wife and I tried them all—and
+        Sho Sushi blows every other restaurant out of the water! The fish is
+        always fresh, the flavors are on point, and the staff is warm and
+        welcoming. If you’re lucky enough to get Ann as your server, prepare for
+        next-level hospitality—she goes above and beyond to make every visit
+        unforgettable.
+
+        We love it so much that what started as a casual try has turned into a
+        weekly tradition. Sho Sushi is an experience worth craving. 10/10
+        recommend!
+      languageCode: en
+    originalText:
+      text: >-
+        As self-proclaimed AYCE connoisseurs, my wife and I tried them all—and
+        Sho Sushi blows every other restaurant out of the water! The fish is
+        always fresh, the flavors are on point, and the staff is warm and
+        welcoming. If you’re lucky enough to get Ann as your server, prepare for
+        next-level hospitality—she goes above and beyond to make every visit
+        unforgettable.
+
+        We love it so much that what started as a casual try has turned into a
+        weekly tradition. Sho Sushi is an experience worth craving. 10/10
+        recommend!
+      languageCode: en
+    authorAttribution:
+      displayName: Richard Le
+      uri: https://www.google.com/maps/contrib/111726697611501486990/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUa1lIuBzpvzD1r_ePxPfA41kP0hllddElJY6BB9AGOpATaJNFd=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-26T17:05:58.369908Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURvdWVmSE13EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURvdWVmSE13EAE!2m1!1s0x876c8f87ed44d16f:0x9fc79e36e2fc69e
+  - name: >-
+      places/ChIJb9FE7YePbIcRnsYvbuN5_Ak/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJeVotak5nEAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        I had an excellent experience at Sho! The service is top-notch and the
+        staff, specifically our server Lucas was friendly and was able to help
+        us a lot throughout our dining experience. The sushi was fresh and was
+        of very high quality. Plus their rolls were realy delicious. The food,
+        service, and atmosphere were really enjoyable and it was a nice place to
+        eat. If you’re in the area and craving sushi, this place is definitely
+        worth checking out.
+      languageCode: en
+    originalText:
+      text: >-
+        I had an excellent experience at Sho! The service is top-notch and the
+        staff, specifically our server Lucas was friendly and was able to help
+        us a lot throughout our dining experience. The sushi was fresh and was
+        of very high quality. Plus their rolls were realy delicious. The food,
+        service, and atmosphere were really enjoyable and it was a nice place to
+        eat. If you’re in the area and craving sushi, this place is definitely
+        worth checking out.
+      languageCode: en
+    authorAttribution:
+      displayName: Karen Le
+      uri: https://www.google.com/maps/contrib/111044614994695246220/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocI4DXh8y9QUj3NU-CnppbzvSoHfQRnYdznDsE4LM1aNZFPBXA=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-03T04:22:26.979738Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNJeVotak5nEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNJeVotak5nEAE!2m1!1s0x876c8f87ed44d16f:0x9fc79e36e2fc69e
+review_summary: >-
+  What Customers Are Buzzing About$$$Visitors often rave about the fresh and
+  flavorful sushi selections, with many highlighting the excellent value of the
+  all-you-can-eat options that make it a go-to for Japanese dining enthusiasts.
+  Feedback frequently notes the variety of dishes, from traditional rolls to
+  hearty entrees, appealing to a wide range of tastes and leaving folks feeling
+  satisfied. While some mention occasional inconsistencies with certain items,
+  the overall experience shines through with praise for the attentive service
+  and welcoming vibe that keeps people coming back. It's clear that the
+  restaurant delivers a solid meal for groups or individuals craving quality
+  sushi, making it a reliable pick for casual outings. Overall, the consensus
+  leans positive, encouraging anyone searching for great sushi nearby to give it
+  a try for an enjoyable and memorable meal.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
+delivery: true
+dine_in: true
 good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
 serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+serves_brunch: false
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Station Japanese Restaurant"
+title: Sushi Station Japanese Restaurant
 permalink: /oregon/eugene/sushi-station-japanese-restaurant.html
 stateAbbr: OR
 stateName: Oregon
 cityName: Eugene
 seo:
-  name: "Sushi Station Japanese Restaurant"
-  type: Restaurant
-  links: null
-description: "Sushi Station Japanese Restaurant serves delicious sushi in Eugene, Oregon. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://sushistationeugene.com/
 place_id: ChIJlZF8gBEewVQRYO3qS-z6U00
 photos:
   - name: >-
@@ -170,8 +168,97 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x54c11e11807c9195:0x4d53faec4beaed60!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: Closed'
+    - 'Tuesday: 11:30 AM – 2:30 PM, 4:30 – 9:00 PM'
+    - 'Wednesday: 11:30 AM – 2:30 PM, 4:30 – 9:00 PM'
+    - 'Thursday: 11:30 AM – 2:30 PM, 4:30 – 9:00 PM'
+    - 'Friday: 11:30 AM – 2:30 PM, 4:30 – 9:30 PM'
+    - 'Saturday: 11:30 AM – 9:30 PM'
+    - 'Sunday: 11:30 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T04:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +266,54 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
+phone: (541) 484-1334
+price_level: PRICE_LEVEL_MODERATE
 price_range: null
-rating: null
-rating_count: 0
-website: null
+rating: '4.3'
+rating_count: 469
+website: https://sushistationeugene.com/
+description: >-
+  Discover Sushi Station in Eugene, Oregon$$$Sushi Station Japanese Restaurant
+  in Eugene, OR, stands out as a casual dining spot where fresh sushi rolls and
+  classic Japanese flavors come together in a welcoming atmosphere. This eatery
+  delights visitors with a menu featuring an array of sushi options alongside
+  familiar dishes like teriyaki, making it a go-to choice for those seeking
+  authentic yet approachable Japanese cuisine. Located in the vibrant Market
+  District, the restaurant offers convenient accessibility features, including
+  wheelchair-friendly parking and seating, ensuring a comfortable experience for
+  all. With hours that cater to both lunch and dinner crowds, it's easy to stop
+  by for a satisfying meal that highlights quality ingredients and thoughtful
+  preparation. Whether you're exploring top-rated sushi places near you, this
+  spot combines tradition with everyday convenience for an enjoyable outing.
+generative_summary: >-
+  Discover Sushi Station in Eugene, Oregon$$$Sushi Station Japanese Restaurant
+  in Eugene, OR, stands out as a casual dining spot where fresh sushi rolls and
+  classic Japanese flavors come together in a welcoming atmosphere. This eatery
+  delights visitors with a menu featuring an array of sushi options alongside
+  familiar dishes like teriyaki, making it a go-to choice for those seeking
+  authentic yet approachable Japanese cuisine. Located in the vibrant Market
+  District, the restaurant offers convenient accessibility features, including
+  wheelchair-friendly parking and seating, ensuring a comfortable experience for
+  all. With hours that cater to both lunch and dinner crowds, it's easy to stop
+  by for a satisfying meal that highlights quality ingredients and thoughtful
+  preparation. Whether you're exploring top-rated sushi places near you, this
+  spot combines tradition with everyday convenience for an enjoyable outing.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Customer Feedback$$$Visitors to this popular sushi restaurant
+  often praise the fresh, flavorful rolls and generous portions that make it a
+  standout option for anyone searching for great sushi near me. The overall vibe
+  gets high marks for being relaxed and accommodating, with many noting the
+  solid value for a moderately priced meal that doesn't skimp on taste. While
+  some mention occasional waits during peak times, the general consensus leans
+  positive, highlighting the reliable service and variety that keep locals
+  coming back for more. If you're on the hunt for one of the best sushi
+  restaurants in the area, feedback suggests it's worth trying for its
+  consistent quality and welcoming feel. All in all, the strong rating reflects
+  a spot that delivers on expectations, making it a solid pick for casual diners
+  looking to enjoy Japanese-inspired eats without any fuss.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +339,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

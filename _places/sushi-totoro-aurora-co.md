@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Totoro"
+title: Sushi Totoro
 permalink: /colorado/aurora/sushi-totoro.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Aurora
 seo:
-  name: "Sushi Totoro"
-  type: Restaurant
+  type: restaurant
   links: http://www.sushitotoro.net/
-description: "Sushi Totoro serves delicious sushi in Aurora, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJiRRS1ACJbIcRFNWe_sMUmm8
 photos:
   - name: >-
@@ -170,7 +168,113 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x876c8900d4521489:0x6f9a14c3fe9ed514!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 16
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 14
+        minute: 30
+    - open:
+        day: 6
+        hour: 16
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 2:30 PM, 4:30 – 10:00 PM'
     - 'Tuesday: 11:30 AM – 2:30 PM, 4:30 – 10:00 PM'
     - 'Wednesday: 11:30 AM – 2:30 PM, 4:30 – 10:00 PM'
@@ -178,14 +282,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 2:30 PM, 4:30 – 10:00 PM'
     - 'Saturday: 11:30 AM – 2:30 PM, 4:30 – 10:00 PM'
     - 'Sunday: 4:00 – 9:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 2:30 PM, 4:30 – 10:00 PM'
-    - 'Tuesday: 11:30 AM – 2:30 PM, 4:30 – 10:00 PM'
-    - 'Wednesday: 11:30 AM – 2:30 PM, 4:30 – 10:00 PM'
-    - 'Thursday: 11:30 AM – 2:30 PM, 4:30 – 10:00 PM'
-    - 'Friday: 11:30 AM – 2:30 PM, 4:30 – 10:00 PM'
-    - 'Saturday: 11:30 AM – 2:30 PM, 4:30 – 10:00 PM'
-    - 'Sunday: 4:00 – 9:00 PM'
+  nextOpenTime: '2025-05-03T22:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +294,258 @@ phone: (303) 766-0045
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.4'
-rating_count: 0
+rating_count: 1219
 website: http://www.sushitotoro.net/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Sushi Totoro in Aurora, Colorado$$$Nestled in Aurora, Colorado, Sushi
+  Totoro stands out as a welcoming spot for fresh Japanese cuisine, offering an
+  all-you-can-eat sushi experience that draws in locals seeking quality rolls
+  and flavorful dishes. This casual eatery features a variety of options like
+  nigiri and specialty rolls, complemented by beer and sake, making it a go-to
+  choice for anyone exploring sushi restaurants nearby. With its unassuming yet
+  inviting atmosphere, complete with thoughtful decor, the restaurant emphasizes
+  accessibility and value, including wheelchair-friendly features and moderate
+  pricing. Patrons appreciate the extensive menu that caters to different
+  tastes, ensuring there's something for sushi enthusiasts looking for top-rated
+  options close to home.
+generative_summary: >-
+  Discover Sushi Totoro in Aurora, Colorado$$$Nestled in Aurora, Colorado, Sushi
+  Totoro stands out as a welcoming spot for fresh Japanese cuisine, offering an
+  all-you-can-eat sushi experience that draws in locals seeking quality rolls
+  and flavorful dishes. This casual eatery features a variety of options like
+  nigiri and specialty rolls, complemented by beer and sake, making it a go-to
+  choice for anyone exploring sushi restaurants nearby. With its unassuming yet
+  inviting atmosphere, complete with thoughtful decor, the restaurant emphasizes
+  accessibility and value, including wheelchair-friendly features and moderate
+  pricing. Patrons appreciate the extensive menu that caters to different
+  tastes, ensuring there's something for sushi enthusiasts looking for top-rated
+  options close to home.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJiRRS1ACJbIcRFNWe_sMUmm8/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3NTZqZE53EAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        We have been going to Sushi Totoro for almost 2 years, and it is my ride
+        or die! This is our go-to takeout, sit-down, or all you can eat sushi
+        place in the entire city. The all you can eat menu has so many options,
+        and its always consistent. 10/10
+      languageCode: en
+    originalText:
+      text: >-
+        We have been going to Sushi Totoro for almost 2 years, and it is my ride
+        or die! This is our go-to takeout, sit-down, or all you can eat sushi
+        place in the entire city. The all you can eat menu has so many options,
+        and its always consistent. 10/10
+      languageCode: en
+    authorAttribution:
+      displayName: Steph Schambs
+      uri: https://www.google.com/maps/contrib/107455159643530869590/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWYMCuLVxQ193VJzTTnSet46D71nw9rSvSR5ovWReuedqVdUude=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-28T18:54:42.628477Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUR3NTZqZE53EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUR3NTZqZE53EAE!2m1!1s0x876c8900d4521489:0x6f9a14c3fe9ed514
+  - name: >-
+      places/ChIJiRRS1ACJbIcRFNWe_sMUmm8/reviews/ChZDSUhNMG9nS0VJQ0FnTURRMVBTakNREAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Just returned from Japan and needed a sushi fix in my hometown. The
+        staff, atmosphere, and food were very delish and as authentic as it gets
+        back home in the US from Japan. The walls are filled with anime and
+        definitely bring a smile.  Props to the staff for their friendliness and
+        great service. A must.
+      languageCode: en
+    originalText:
+      text: >-
+        Just returned from Japan and needed a sushi fix in my hometown. The
+        staff, atmosphere, and food were very delish and as authentic as it gets
+        back home in the US from Japan. The walls are filled with anime and
+        definitely bring a smile.  Props to the staff for their friendliness and
+        great service. A must.
+      languageCode: en
+    authorAttribution:
+      displayName: Gus Chavez Jr
+      uri: https://www.google.com/maps/contrib/100413456965783884674/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWw_FLt0svWGsxJlr3CzBIC5vnKLVp_OxlRXxDeMtYXAPPjZjHA=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-03-09T05:14:13.293126Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURRMVBTakNREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURRMVBTakNREAE!2m1!1s0x876c8900d4521489:0x6f9a14c3fe9ed514
+  - name: >-
+      places/ChIJiRRS1ACJbIcRFNWe_sMUmm8/reviews/ChdDSUhNMG9nS0VJQ0FnTURRMTgtVzV3RRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        My fiancé and I come here almost every week! We love the variety of
+        sushi and the fresh quality! We love to do the lunch all you can eat
+        menu for $22 each person, you get one specialty role each, plus all you
+        can eat of the normal rolls and nigiri. There’s a wide and great
+        variety, I guarantee that if you don’t like sushi they will have
+        something you like. My fiancé never liked sushi before but after
+        ordering about 20 different rolls he’s found some he loves! I always try
+        to take a picture but he’s grown to love sushi so much the plate barely
+        touches the table before he starts digging in, so sorry for the crap
+        pictures 🤣
+      languageCode: en
+    originalText:
+      text: >-
+        My fiancé and I come here almost every week! We love the variety of
+        sushi and the fresh quality! We love to do the lunch all you can eat
+        menu for $22 each person, you get one specialty role each, plus all you
+        can eat of the normal rolls and nigiri. There’s a wide and great
+        variety, I guarantee that if you don’t like sushi they will have
+        something you like. My fiancé never liked sushi before but after
+        ordering about 20 different rolls he’s found some he loves! I always try
+        to take a picture but he’s grown to love sushi so much the plate barely
+        touches the table before he starts digging in, so sorry for the crap
+        pictures 🤣
+      languageCode: en
+    authorAttribution:
+      displayName: Leah Kullman
+      uri: https://www.google.com/maps/contrib/102219900407457496386/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKDOiOzNgxcWPdSVN02EFulN3UgrfH4FGw8idgYEr7DHNmqhc8=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-03-15T06:01:08.876876Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURRMTgtVzV3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURRMTgtVzV3RRAB!2m1!1s0x876c8900d4521489:0x6f9a14c3fe9ed514
+  - name: >-
+      places/ChIJiRRS1ACJbIcRFNWe_sMUmm8/reviews/ChdDSUhNMG9nS0VJQ0FnSUN2d01pRjZRRRAB
+    relativePublishTimeDescription: 4 months ago
+    rating: 1
+    text:
+      text: >-
+        Terrible service barely got any attention came over whenever they
+        wanted. all you can eat Sushi was good but they had a 20% gratuity for a
+        table of six which had a very small sign at the front. We didn’t even
+        know about how we have known we would’ve said at separate tables when we
+        asked to get it taken off because I don’t believe in adding your own
+        gratuity it’s not like it was any extra party or anything we’re just a
+        normal table. We’re very polite and respectful. They refuse to do it so
+        we will never be returning terrible customer service the manager was
+        just entitled jerk. Was not flexible at all. I mean, just didn’t care
+        about our complaint at all or the customer service. Tony was his name so
+        we’re gonna be talking to the owner here soon- We will never return.
+
+
+        Adding a picture of Tony so you know who to avoid.
+      languageCode: en
+    originalText:
+      text: >-
+        Terrible service barely got any attention came over whenever they
+        wanted. all you can eat Sushi was good but they had a 20% gratuity for a
+        table of six which had a very small sign at the front. We didn’t even
+        know about how we have known we would’ve said at separate tables when we
+        asked to get it taken off because I don’t believe in adding your own
+        gratuity it’s not like it was any extra party or anything we’re just a
+        normal table. We’re very polite and respectful. They refuse to do it so
+        we will never be returning terrible customer service the manager was
+        just entitled jerk. Was not flexible at all. I mean, just didn’t care
+        about our complaint at all or the customer service. Tony was his name so
+        we’re gonna be talking to the owner here soon- We will never return.
+
+
+        Adding a picture of Tony so you know who to avoid.
+      languageCode: en
+    authorAttribution:
+      displayName: Tyler Glenn
+      uri: https://www.google.com/maps/contrib/102060754463608374051/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIYkUp3pzdjm1krakUCxF0rYzZ9hkkorMrBPPZBY_WTbjod=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-12-07T00:46:28.850638Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN2d01pRjZRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN2d01pRjZRRRAB!2m1!1s0x876c8900d4521489:0x6f9a14c3fe9ed514
+  - name: >-
+      places/ChIJiRRS1ACJbIcRFNWe_sMUmm8/reviews/ChdDSUhNMG9nS0VJQ0FnTUNvOC1fXzBnRRAB
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        Every time I visit this restaurant I am greeted and feel welcomed.  The
+        service is always excellent.  The all you can eat price can’t be beat
+        which includes a choice of a specialty roll from their menu, $19.99 for
+        lunch $29.99 for dinner.
+      languageCode: en
+    originalText:
+      text: >-
+        Every time I visit this restaurant I am greeted and feel welcomed.  The
+        service is always excellent.  The all you can eat price can’t be beat
+        which includes a choice of a specialty roll from their menu, $19.99 for
+        lunch $29.99 for dinner.
+      languageCode: en
+    authorAttribution:
+      displayName: Nicole Heyliger
+      uri: https://www.google.com/maps/contrib/107089028504580973429/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIYyYuQs4-Ve0yIlpHEWr0On-MrMRZ-kqkfteByFBAXSdTVCw=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-19T21:05:09.929975Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNvOC1fXzBnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNvOC1fXzBnRRAB!2m1!1s0x876c8900d4521489:0x6f9a14c3fe9ed514
+review_summary: >-
+  What Customers Are Saying About This Local Spot$$$Folks rave about the
+  all-you-can-eat deals at this sushi place, highlighting the wide array of
+  fresh rolls and dishes that make it a solid pick for anyone craving Japanese
+  flavors without breaking the bank. Many enjoy the friendly service and lively
+  vibe that add to the overall fun, with comments noting the great value during
+  lunch hours as a highlight for groups or families. While most feedback praises
+  the consistent quality and variety that keep diners coming back, a few
+  mentions point to occasional over-saucing on some rolls, though it doesn't
+  overshadow the positives. Overall, it's clear this spot delivers a satisfying
+  experience for those searching for the best sushi nearby, blending
+  affordability with tasty options that encourage repeat visits. If you're on
+  the hunt for reliable sushi restaurants in the area, the general buzz suggests
+  it's worth checking out for a casual meal.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: true
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Nigiri & maki served in an unassuming setting with a long sushi bar & an
+  all-you-can-eat option.
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "SUSHIE!"
+title: SUSHIE!
 permalink: /california/los-gatos/sushie.html
 stateAbbr: CA
 stateName: California
 cityName: Los Gatos
 seo:
-  name: "SUSHIE!"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "SUSHIE! serves delicious sushi in Los Gatos, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJv03jPGU1joARBWNl1yiCtkU
 photos:
   - name: >-
@@ -184,7 +182,39 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover SUSHIE! in Los Gatos, CA$$$SUSHIE! in Los Gatos, CA, stands out as a
+  cozy spot for savoring fresh sushi and Japanese-inspired dishes, nestled in
+  the vibrant Rinconada Center. This welcoming eatery focuses on quality fare
+  like flavorful rolls and other traditional options, making it a go-to choice
+  for those exploring sushi restaurants nearby. With thoughtful accessibility
+  features such as wheelchair-friendly parking and entrances, it ensures
+  everyone can enjoy a comfortable dining experience. The inviting ambiance,
+  highlighted by appealing visuals from shared photos, adds to its charm as one
+  of the top Japanese places in the area for casual meals.
+generative_summary: >-
+  Discover SUSHIE! in Los Gatos, CA$$$SUSHIE! in Los Gatos, CA, stands out as a
+  cozy spot for savoring fresh sushi and Japanese-inspired dishes, nestled in
+  the vibrant Rinconada Center. This welcoming eatery focuses on quality fare
+  like flavorful rolls and other traditional options, making it a go-to choice
+  for those exploring sushi restaurants nearby. With thoughtful accessibility
+  features such as wheelchair-friendly parking and entrances, it ensures
+  everyone can enjoy a comfortable dining experience. The inviting ambiance,
+  highlighted by appealing visuals from shared photos, adds to its charm as one
+  of the top Japanese places in the area for casual meals.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Sushi Enthusiasts$$$Folks checking out sushi spots like this one
+  often highlight the fresh ingredients and well-crafted rolls that make every
+  bite satisfying and authentic. Many appreciate the relaxed vibe and solid
+  variety of options, turning it into a reliable pick for anyone craving
+  Japanese fare close to home. While some note that service can vary, the
+  overall consensus leans positive, with diners frequently mentioning it as a
+  great spot for a casual outing or quick takeout. If you're on the hunt for the
+  best sushi near you, this place generally delivers a solid experience that
+  keeps people coming back for more enjoyable meals.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +240,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

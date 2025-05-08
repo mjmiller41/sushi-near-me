@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yamato Sushi Train & Grill"
+title: Yamato Sushi Train & Grill
 permalink: /nebraska/omaha/yamato-sushi-train-grill.html
 stateAbbr: NE
 stateName: Nebraska
 cityName: Omaha
 seo:
-  name: "Yamato Sushi Train & Grill"
-  type: Restaurant
+  type: restaurant
   links: https://yamatosushiomaha.com/
-description: "Yamato Sushi Train & Grill serves delicious sushi in Omaha, Nebraska. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJv02H0QCNk4cR-KNFhXEnf4A
 photos:
   - name: >-
@@ -185,6 +183,35 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 0
 website: https://yamatosushiomaha.com/
+description: >-
+  Experience Yamato Sushi in Omaha, NE$$$Yamato Sushi Train & Grill in Omaha,
+  NE, offers a casual and engaging dining experience centered around a unique
+  conveyor belt system that delivers an array of fresh sushi and
+  Japanese-inspired small plates. This spot stands out for its accessible
+  features, including wheelchair-friendly parking and seating, making it
+  welcoming for all guests seeking quality Japanese cuisine. Patrons can enjoy a
+  variety of flavorful rolls and dishes that highlight fresh ingredients and
+  creative flavors, ideal for those exploring top sushi options in the area.
+  With moderate pricing and a lively atmosphere, it's a go-to choice for anyone
+  craving authentic Japanese flavors without the formality. The restaurant's
+  focus on variety ensures that visitors can easily find something to satisfy
+  their sushi cravings, whether they're stopping by for a quick meal or a
+  relaxed outing.
+generative_summary: >-
+  Experience Yamato Sushi in Omaha, NE$$$Yamato Sushi Train & Grill in Omaha,
+  NE, offers a casual and engaging dining experience centered around a unique
+  conveyor belt system that delivers an array of fresh sushi and
+  Japanese-inspired small plates. This spot stands out for its accessible
+  features, including wheelchair-friendly parking and seating, making it
+  welcoming for all guests seeking quality Japanese cuisine. Patrons can enjoy a
+  variety of flavorful rolls and dishes that highlight fresh ingredients and
+  creative flavors, ideal for those exploring top sushi options in the area.
+  With moderate pricing and a lively atmosphere, it's a go-to choice for anyone
+  craving authentic Japanese flavors without the formality. The restaurant's
+  focus on variety ensures that visitors can easily find something to satisfy
+  their sushi cravings, whether they're stopping by for a quick meal or a
+  relaxed outing.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJv02H0QCNk4cR-KNFhXEnf4A/reviews/ChZDSUhNMG9nS0VJQ0FnTURBcE52NkRBEAE
@@ -348,6 +375,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNJeXVmWE9REAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNJeXVmWE9REAE!2m1!1s0x87938d00d1874dbf:0x807f27718545a3f8
+review_summary: >-
+  Visitor Feedback on the Sushi Scene$$$Folks rave about the fresh and tasty
+  sushi at this spot, often highlighting the fun conveyor belt setup that keeps
+  things exciting and efficient during meals. Many appreciate the great value,
+  especially with all-you-can-eat deals that make it a budget-friendly option
+  for groups or special occasions. Service stands out as friendly and quick,
+  even on busy nights, adding to the overall enjoyable vibe without any major
+  hiccups. While some mention waits during peak times, the consensus leans
+  toward understanding and positive experiences that keep diners coming back for
+  more. Overall, it's a solid pick for anyone hunting for reliable Japanese eats
+  nearby, with the flavorful dishes and welcoming feel earning high marks from
+  satisfied visitors.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -380,7 +420,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Hirame"
+title: Hirame
 permalink: /new-york/yorktown-heights/hirame.html
 stateAbbr: NY
 stateName: New York
 cityName: Yorktown Heights
 seo:
-  name: "Hirame"
-  type: Restaurant
+  type: restaurant
   links: https://www.hiramesushi.com/
-description: "Hirame serves delicious sushi in Yorktown Heights, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJF0730xy3wokR8sBlnVREGv0
 photos:
   - name: >-
@@ -185,6 +183,27 @@ price_range: null
 rating: '4.3'
 rating_count: 0
 website: https://www.hiramesushi.com/
+description: >-
+  Discover Hirame in Yorktown Heights, NY$$$Hirame in Yorktown Heights, NY,
+  stands out as a casual spot for enjoying fresh sushi and Japanese-inspired
+  dishes in a welcoming environment. This family-friendly eatery features
+  thoughtful amenities like a kids' play area and a variety of vegetarian
+  options, making it easy to find something for everyone on the menu. With its
+  accessible entrance and seating, it's designed to accommodate all guests
+  comfortably, enhancing the overall dining experience. If you're exploring
+  top-rated sushi restaurants near you, Hirame offers consistently high-quality
+  flavors that highlight fresh ingredients and creative rolls.
+generative_summary: >-
+  Discover Hirame in Yorktown Heights, NY$$$Hirame in Yorktown Heights, NY,
+  stands out as a casual spot for enjoying fresh sushi and Japanese-inspired
+  dishes in a welcoming environment. This family-friendly eatery features
+  thoughtful amenities like a kids' play area and a variety of vegetarian
+  options, making it easy to find something for everyone on the menu. With its
+  accessible entrance and seating, it's designed to accommodate all guests
+  comfortably, enhancing the overall dining experience. If you're exploring
+  top-rated sushi restaurants near you, Hirame offers consistently high-quality
+  flavors that highlight fresh ingredients and creative rolls.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJF0730xy3wokR8sBlnVREGv0/reviews/ChdDSUhNMG9nS0VJQ0FnSUNaMXNha3NRRRAB
@@ -366,6 +385,17 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURjdk91TGxnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURjdk91TGxnRRAB!2m1!1s0x89c2b71cd3f74e17:0xfd1a44549d65c0f2
+review_summary: >-
+  What Customers Are Saying$$$Folks frequently rave about the fresh and
+  flavorful sushi at this local favorite, often highlighting the generous
+  portions and reliable taste that keep them coming back. Many appreciate the
+  wide range of menu choices that cater to families, including kid-friendly
+  options that make meals enjoyable for all ages. The welcoming atmosphere and
+  attentive service add to the positive vibes, with diners noting it's a solid
+  pick for groups seeking variety without breaking the bank. Overall, it's clear
+  that this spot earns its reputation as one of the best sushi places near me
+  for a relaxed and satisfying meal.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -396,7 +426,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

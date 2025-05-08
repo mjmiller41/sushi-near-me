@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Moshi Moshi Sushi & Izakaya"
+title: Moshi Moshi Sushi & Izakaya
 permalink: /washington/seattle/moshi-moshi-sushi-izakaya.html
 stateAbbr: WA
 stateName: Washington
 cityName: Seattle
 seo:
-  name: "Moshi Moshi Sushi & Izakaya"
-  type: Restaurant
+  type: restaurant
   links: http://www.moshimoshiseattle.com/
-description: "Moshi Moshi Sushi & Izakaya serves delicious sushi in Seattle, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJExxdWsYVkFQR4LcgpT7JVBg
 photos:
   - name: >-
@@ -169,7 +167,81 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x549015c65a5d1c13:0x1854c93ea520b7e0!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 14
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 12
+        minute: 0
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 15
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 4:00 – 9:00 PM'
     - 'Tuesday: 4:00 – 9:00 PM'
     - 'Wednesday: 4:00 – 9:00 PM'
@@ -177,14 +249,7 @@ opening_hours:
     - 'Friday: 12:00 – 3:00 PM, 5:00 – 10:30 PM'
     - 'Saturday: 12:00 – 3:00 PM, 5:00 – 10:30 PM'
     - 'Sunday: 2:00 – 9:00 PM'
-  current:
-    - 'Monday: 4:00 – 9:00 PM'
-    - 'Tuesday: 4:00 – 9:00 PM'
-    - 'Wednesday: 4:00 – 9:00 PM'
-    - 'Thursday: 4:00 – 9:00 PM'
-    - 'Friday: 12:00 – 3:00 PM, 5:00 – 10:30 PM'
-    - 'Saturday: 12:00 – 3:00 PM, 5:00 – 10:30 PM'
-    - 'Sunday: 2:00 – 9:00 PM'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,9 +261,52 @@ phone: (206) 971-7424
 price_level: PRICE_LEVEL_MODERATE
 price_range: $30 &ndash; $50
 rating: '4.4'
-rating_count: 0
+rating_count: 764
 website: http://www.moshimoshiseattle.com/
+description: >-
+  Discover Moshi Moshi Sushi & Izakaya in Seattle, WA$$$Moshi Moshi Sushi &
+  Izakaya in Seattle, WA, stands out as a welcoming spot for authentic Japanese
+  flavors, featuring an array of fresh sushi rolls, sake selections, and
+  creative cocktails that capture the essence of traditional izakaya dining. The
+  restaurant enhances the experience with happy hour specials that make it an
+  ideal choice for those seeking affordable yet flavorful Japanese cuisine in a
+  relaxed atmosphere. Accessibility features like wheelchair-friendly entrances
+  and seating ensure it's inclusive for all visitors, adding to its appeal as a
+  go-to destination for sushi enthusiasts. With its moderate price range, this
+  spot balances quality and value, making it perfect for casual outings or
+  intimate gatherings. Whether you're exploring top-rated sushi restaurants
+  nearby, it's a great option for savoring expertly prepared dishes in a vibrant
+  setting.
+generative_summary: >-
+  Discover Moshi Moshi Sushi & Izakaya in Seattle, WA$$$Moshi Moshi Sushi &
+  Izakaya in Seattle, WA, stands out as a welcoming spot for authentic Japanese
+  flavors, featuring an array of fresh sushi rolls, sake selections, and
+  creative cocktails that capture the essence of traditional izakaya dining. The
+  restaurant enhances the experience with happy hour specials that make it an
+  ideal choice for those seeking affordable yet flavorful Japanese cuisine in a
+  relaxed atmosphere. Accessibility features like wheelchair-friendly entrances
+  and seating ensure it's inclusive for all visitors, adding to its appeal as a
+  go-to destination for sushi enthusiasts. With its moderate price range, this
+  spot balances quality and value, making it perfect for casual outings or
+  intimate gatherings. Whether you're exploring top-rated sushi restaurants
+  nearby, it's a great option for savoring expertly prepared dishes in a vibrant
+  setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying About This Sushi Spot$$$Folks who stop by this
+  popular sushi place often rave about the fresh, high-quality ingredients that
+  make every bite feel special, helping it earn its strong reputation among
+  local diners. Many appreciate the variety of options, from creative rolls to
+  classic Japanese favorites, which keep things exciting without overwhelming
+  the palate. While some mention occasional waits during peak times, the overall
+  vibe and attentive service tend to leave people satisfied and coming back for
+  more. It's commonly noted as a solid pick for groups or solo adventurers
+  looking for a casual meal, with the happy hour deals adding extra value to the
+  experience. If you're on the hunt for the best sushi near you, this spot
+  generally delivers a reliably enjoyable visit that's worth checking out for
+  its flavorful offerings and welcoming energy.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -224,7 +332,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

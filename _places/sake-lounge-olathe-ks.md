@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sake Lounge"
+title: Sake Lounge
 permalink: /kansas/olathe/sake-lounge.html
 stateAbbr: KS
 stateName: Kansas
 cityName: Olathe
 seo:
-  name: "Sake Lounge"
-  type: Restaurant
+  type: restaurant
   links: http://www.sakeolathe.com/
-description: "Sushi is artfully presented, along with familiar Pan-Asian entrees, amid a hip, clubby atmosphere Sake Lounge serves delicious sushi in Olathe, Kansas. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJgZubJHWVwIcRum9Hd86uDCE
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 0
 website: http://www.sakeolathe.com/
+description: >-
+  Discover Sake Lounge in Olathe, Kansas$$$Sake Lounge in Olathe, Kansas,
+  delivers an inviting experience for those seeking quality Japanese dining in a
+  relaxed environment. The menu highlights fresh rolls, sashimi, teriyaki, and
+  hibachi options, all crafted with attention to detail and served alongside a
+  selection of drinks from the full bar. This sushi restaurant stands out for
+  its casual yet stylish atmosphere, making it ideal for a laid-back meal or
+  social gathering. Accessibility features like wheelchair-friendly parking and
+  entrances ensure a comfortable visit for everyone, enhancing its appeal as a
+  go-to spot for sushi enthusiasts. Whether you're exploring top-rated sushi
+  options nearby, Sake Lounge combines flavorful entrees with an inclusive vibe
+  for an enjoyable outing.
+generative_summary: >-
+  Discover Sake Lounge in Olathe, Kansas$$$Sake Lounge in Olathe, Kansas,
+  delivers an inviting experience for those seeking quality Japanese dining in a
+  relaxed environment. The menu highlights fresh rolls, sashimi, teriyaki, and
+  hibachi options, all crafted with attention to detail and served alongside a
+  selection of drinks from the full bar. This sushi restaurant stands out for
+  its casual yet stylish atmosphere, making it ideal for a laid-back meal or
+  social gathering. Accessibility features like wheelchair-friendly parking and
+  entrances ensure a comfortable visit for everyone, enhancing its appeal as a
+  go-to spot for sushi enthusiasts. Whether you're exploring top-rated sushi
+  options nearby, Sake Lounge combines flavorful entrees with an inclusive vibe
+  for an enjoyable outing.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJgZubJHWVwIcRum9Hd86uDCE/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJLTZmR3BBRRAB
@@ -346,6 +369,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN6NUstZTNnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN6NUstZTNnRRAB!2m1!1s0x87c09575249b9b81:0x210caece77476fba
+review_summary: >-
+  What Customers Are Saying$$$Folks rave about the fresh and creative sushi at
+  this spot, with popular rolls like the Volcano and Wildcat standing out for
+  their bold flavors and perfect balance. Many appreciate the friendly service
+  that keeps things welcoming and attentive, adding to the overall relaxed
+  dining experience. Reviewers often note the reasonable prices make it a smart
+  choice for quality Japanese fare without breaking the bank. The tasty
+  appetizers, such as gyoza and onion soup, get high marks for their comforting
+  appeal, rounding out a satisfying meal. If you're on the hunt for reliable
+  sushi places near you, this location consistently delivers a positive vibe
+  that leaves diners eager to return.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -378,8 +413,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Sushi is artfully presented, along with familiar Pan-Asian entrees, amid a
   hip, clubby atmosphere
 

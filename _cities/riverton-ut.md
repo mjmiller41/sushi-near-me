@@ -5,4 +5,5 @@ permalink: /utah/riverton/
 stateAbbr: UT
 stateName: Utah
 cityName: Riverton
+
 ---

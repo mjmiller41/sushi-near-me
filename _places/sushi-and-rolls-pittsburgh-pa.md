@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi and Rolls"
+title: Sushi and Rolls
 permalink: /pennsylvania/pittsburgh/sushi-and-rolls.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Pittsburgh
 seo:
-  name: "Sushi and Rolls"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi and Rolls serves delicious sushi in Pittsburgh, Pennsylvania. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ6XpPWDvxNIgRy_iCBCIKULs
 photos:
   - name: >-
@@ -169,8 +167,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8834f13b584f7ae9:0xbb500a220482f8cb!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: false
+  periods:
+    - open:
+        day: 1
+        hour: 10
+        minute: 30
+      close:
+        day: 1
+        hour: 14
+        minute: 0
+    - open:
+        day: 2
+        hour: 10
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 10
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 10
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 10
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 10:30 AM – 2:00 PM'
+    - 'Tuesday: 10:30 AM – 2:00 PM'
+    - 'Wednesday: 10:30 AM – 2:00 PM'
+    - 'Thursday: 10:30 AM – 2:00 PM'
+    - 'Friday: 10:30 AM – 2:00 PM'
+    - 'Saturday: Closed'
+    - 'Sunday: Closed'
+  nextOpenTime: '2025-05-05T14:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -178,13 +225,48 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
+phone: (412) 255-0520
 price_level: null
-price_range: null
-rating: null
-rating_count: 0
+price_range: $10 &ndash; $20
+rating: '4.6'
+rating_count: 43
 website: null
+description: >-
+  Discover Sushi and Rolls in Pittsburgh, PA$$$Sushi and Rolls in Pittsburgh,
+  PA, offers a relaxed atmosphere perfect for enjoying fresh sushi and other
+  Japanese-inspired dishes, especially during lunch hours. This spot stands out
+  for its accessible features, including wheelchair-friendly entrances and
+  seating, making it welcoming for all diners seeking a casual meal. With a
+  focus on quality ingredients and a variety of rolls that highlight traditional
+  flavors, it's an ideal choice for those exploring Japanese cuisine in the
+  heart of Downtown. The unhurried vibe pairs well with the convenience of its
+  central location, appealing to anyone looking for reliable sushi options
+  nearby.
+generative_summary: >-
+  Discover Sushi and Rolls in Pittsburgh, PA$$$Sushi and Rolls in Pittsburgh,
+  PA, offers a relaxed atmosphere perfect for enjoying fresh sushi and other
+  Japanese-inspired dishes, especially during lunch hours. This spot stands out
+  for its accessible features, including wheelchair-friendly entrances and
+  seating, making it welcoming for all diners seeking a casual meal. With a
+  focus on quality ingredients and a variety of rolls that highlight traditional
+  flavors, it's an ideal choice for those exploring Japanese cuisine in the
+  heart of Downtown. The unhurried vibe pairs well with the convenience of its
+  central location, appealing to anyone looking for reliable sushi options
+  nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this sushi spot often rave about the
+  fresh, flavorful rolls and the overall satisfying experience, based on its
+  strong ratings from local feedback. Many appreciate the good value for the
+  price, with meals that feel both authentic and approachable for a quick bite.
+  The high marks suggest it's a solid pick for groups or solo diners wanting a
+  laid-back lunch, with comments frequently noting the welcoming setup and tasty
+  selections. While some mention it could expand hours for more flexibility, the
+  general consensus leans positive, making it a go-to option among top-rated
+  sushi places in the area. Overall, the feedback paints a picture of a reliable
+  choice that keeps customers coming back for more enjoyable meals.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +292,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

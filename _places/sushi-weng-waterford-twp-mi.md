@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Weng"
+title: Sushi Weng
 permalink: /michigan/waterford-twp/sushi-weng.html
 stateAbbr: MI
 stateName: Michigan
 cityName: Waterford Twp
 seo:
-  name: "Sushi Weng"
-  type: Restaurant
+  type: restaurant
   links: http://sushiwengmi.com/
-description: "Sushi Weng serves delicious sushi in Waterford Twp, Michigan. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ4x8xfua8JIgRv4dtnBhC4TY
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 0
 website: http://sushiwengmi.com/
+description: >-
+  Discover Sushi Weng in Waterford Twp, MI$$$Sushi Weng in Waterford Twp, MI,
+  stands out as a welcoming spot for enjoying creative sushi rolls and flavorful
+  hibachi options, making it a go-to choice for those seeking Japanese-inspired
+  dining. The restaurant offers a family-friendly atmosphere with accessible
+  features like wheelchair-friendly entrances and seating, ensuring everyone can
+  savor the experience. Diners appreciate the inventive menu that includes
+  large, fresh rolls and teriyaki dishes, all at moderate prices that fit
+  various budgets. For anyone exploring sushi places near me, this location
+  delivers a satisfying blend of quality ingredients and thoughtful
+  presentation, enhancing the overall meal.
+generative_summary: >-
+  Discover Sushi Weng in Waterford Twp, MI$$$Sushi Weng in Waterford Twp, MI,
+  stands out as a welcoming spot for enjoying creative sushi rolls and flavorful
+  hibachi options, making it a go-to choice for those seeking Japanese-inspired
+  dining. The restaurant offers a family-friendly atmosphere with accessible
+  features like wheelchair-friendly entrances and seating, ensuring everyone can
+  savor the experience. Diners appreciate the inventive menu that includes
+  large, fresh rolls and teriyaki dishes, all at moderate prices that fit
+  various budgets. For anyone exploring sushi places near me, this location
+  delivers a satisfying blend of quality ingredients and thoughtful
+  presentation, enhancing the overall meal.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ4x8xfua8JIgRv4dtnBhC4TY/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3bnVmRW13RRAB
@@ -322,6 +343,17 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURRbGFINGNREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURRbGFINGNREAE!2m1!1s0x8824bce67e311fe3:0x36e142189c6d87bf
+review_summary: >-
+  What Visitors Are Buzzing About$$$Folks generally rave about the tasty sushi
+  and hibachi at this spot, highlighting how the creative rolls and entrees
+  often leave a lasting impression. While most share that the food feels fresh
+  and the service is friendly and efficient, a few note that not every dish hits
+  the mark every time, though it's still a solid pick overall. Many enjoy the
+  convenient ordering system and reasonable prices, making it easy to grab a
+  quick meal or dine in with friends. If you're on the hunt for top-rated sushi
+  restaurants nearby, this place gets high marks for its welcoming vibe and
+  reliable flavors that keep people coming back.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -354,7 +386,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

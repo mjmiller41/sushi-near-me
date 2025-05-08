@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Hot Woks Cool Sushi"
+title: Hot Woks Cool Sushi
 permalink: /illinois/chicago/hot-woks-cool-sushi.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
 seo:
-  name: "Hot Woks Cool Sushi"
-  type: Restaurant
-  links: null
-description: "Hot Woks Cool Sushi serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.hotwokscoolsushi.com/
 place_id: ChIJg4i4E6QsDogRouakuQx6drU
 photos:
   - name: >-
@@ -143,7 +141,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICr07nVfg!2e10!4m2!3m1!1s0x880e2ca413b88883:0xb5767a0cb9a4e6a2
 address: MILLENNIUM PARK, 30 S Michigan Ave, Chicago, IL 60603, USA
-street: MILLENNIUM PARK, 30 S Michigan Ave
+street: MILLENNIUM PARK,30 S Michigan Ave
 city: Chicago
 state: IL
 zip: '60603'
@@ -169,8 +167,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x880e2ca413b88883:0xb5767a0cb9a4e6a2!10e5
 primary_type: Asian Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 20
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 20
+        minute: 15
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 15
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 15
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 15
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 8:15 PM'
+    - 'Tuesday: 11:00 AM – 8:15 PM'
+    - 'Wednesday: 11:00 AM – 8:15 PM'
+    - 'Thursday: 11:00 AM – 8:15 PM'
+    - 'Friday: 11:00 AM – 9:00 PM'
+    - 'Saturday: 11:30 AM – 9:00 PM'
+    - 'Sunday: 11:30 AM – 8:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -178,13 +241,50 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (312) 345-1234
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.3'
+rating_count: 1871
+website: http://www.hotwokscoolsushi.com/
+description: >-
+  Discover Hot Woks Cool Sushi in Chicago, IL$$$Hot Woks Cool Sushi in Chicago,
+  IL, offers a relaxed atmosphere perfect for enjoying a mix of Pan-Asian
+  flavors, including fresh sushi and flavorful stir-fry options. This spot
+  stands out for its accessible features, such as wheelchair-friendly entrances
+  and seating, making it welcoming for all diners seeking sushi places near me.
+  With a menu that highlights diverse dishes like ramen and sushi rolls, it's an
+  ideal choice for those exploring top-rated Japanese-inspired cuisine in the
+  bustling city center. Operating with convenient hours from late morning into
+  the evening, it caters to both quick lunches and relaxed dinners, ensuring a
+  satisfying experience for anyone hunting for sushi restaurants in a vibrant
+  urban setting.
+generative_summary: >-
+  Discover Hot Woks Cool Sushi in Chicago, IL$$$Hot Woks Cool Sushi in Chicago,
+  IL, offers a relaxed atmosphere perfect for enjoying a mix of Pan-Asian
+  flavors, including fresh sushi and flavorful stir-fry options. This spot
+  stands out for its accessible features, such as wheelchair-friendly entrances
+  and seating, making it welcoming for all diners seeking sushi places near me.
+  With a menu that highlights diverse dishes like ramen and sushi rolls, it's an
+  ideal choice for those exploring top-rated Japanese-inspired cuisine in the
+  bustling city center. Operating with convenient hours from late morning into
+  the evening, it caters to both quick lunches and relaxed dinners, ensuring a
+  satisfying experience for anyone hunting for sushi restaurants in a vibrant
+  urban setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About This Spot$$$Visitors often praise the fresh
+  flavors and variety at this Chicago eatery, with many highlighting the quality
+  of the sushi and other Pan-Asian dishes as standout features. Feedback
+  frequently notes the friendly service and reasonable prices, making it a go-to
+  for casual meals that hit the spot without breaking the bank. While some
+  mention occasional waits during peak times, the overall vibe remains positive,
+  with folks appreciating the welcoming environment for groups or solo diners.
+  It's commonly recommended as a solid pick for those searching for top-rated
+  sushi near me, offering an honest blend of tasty options and good value that
+  keeps people coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +310,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

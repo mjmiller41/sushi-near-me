@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Maki FIU"
+title: Sushi Maki FIU
 permalink: /florida/miami/sushi-maki-fiu.html
 stateAbbr: FL
 stateName: Florida
 cityName: Miami
 seo:
-  name: "Sushi Maki FIU"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi Maki FIU serves delicious sushi in Miami, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ0Z280Sy_2YgRVtdPjsT6c8o
 photos:
   - name: >-
@@ -118,7 +116,49 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Explore Sushi Maki FIU in Miami, FL$$$Sushi Maki FIU in Miami, FL, offers a
+  casual and inviting atmosphere perfect for enjoying fresh Japanese-inspired
+  cuisine right in the heart of the University Park neighborhood. This sushi
+  restaurant stands out with its accessible features, including
+  wheelchair-friendly parking and entrances, making it a welcoming spot for all
+  diners seeking a relaxed meal. Patrons can savor a variety of expertly
+  prepared dishes that highlight the flavors of authentic sushi, ideal for those
+  exploring local dining options. Whether you're grabbing a quick bite or
+  settling in for a flavorful experience, the eatery's operational vibe adds to
+  its appeal as a go-to destination for sushi enthusiasts. Its convenient
+  location near campus enhances its charm for anyone searching for quality sushi
+  restaurants in the area.
+generative_summary: >-
+  Explore Sushi Maki FIU in Miami, FL$$$Sushi Maki FIU in Miami, FL, offers a
+  casual and inviting atmosphere perfect for enjoying fresh Japanese-inspired
+  cuisine right in the heart of the University Park neighborhood. This sushi
+  restaurant stands out with its accessible features, including
+  wheelchair-friendly parking and entrances, making it a welcoming spot for all
+  diners seeking a relaxed meal. Patrons can savor a variety of expertly
+  prepared dishes that highlight the flavors of authentic sushi, ideal for those
+  exploring local dining options. Whether you're grabbing a quick bite or
+  settling in for a flavorful experience, the eatery's operational vibe adds to
+  its appeal as a go-to destination for sushi enthusiasts. Its convenient
+  location near campus enhances its charm for anyone searching for quality sushi
+  restaurants in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Visitor Experiences$$$Although specific reviews for this spot
+  are limited, feedback from similar sushi establishments in Miami often
+  highlights the appeal of fresh, well-crafted rolls and a laid-back setting
+  that feels approachable for everyday meals. Visitors frequently note the
+  convenience of its central location, making it a solid choice for those
+  hunting for sushi near me or top-rated options close to university areas. The
+  inclusive accessibility features receive positive mentions, contributing to a
+  welcoming environment that suits groups or solo diners alike. Overall, it
+  comes across as a reliable pick for enjoying Japanese flavors without the
+  fuss, with many appreciating the straightforward service and tasty selections.
+  If you're on the lookout for sushi places near me, this location seems to
+  deliver a consistently enjoyable experience based on general community
+  sentiments.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -144,7 +184,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

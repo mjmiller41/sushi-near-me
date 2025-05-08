@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ko Ko Sushi"
+title: Ko Ko Sushi
 permalink: /new-york/scarsdale/ko-ko-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: Scarsdale
 seo:
-  name: "Ko Ko Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.sushikoko.com/
-description: "Ko Ko Sushi serves delicious sushi in Scarsdale, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJlRVi9m2TwokRlDr1NonP6tA
 photos:
   - name: >-
@@ -183,6 +181,33 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 0
 website: http://www.sushikoko.com/
+description: >-
+  Explore Ko Ko Sushi in Scarsdale, NY$$$Nestled in the heart of Scarsdale, NY,
+  Ko Ko Sushi stands out as a welcoming spot for those seeking fresh sushi
+  options in a relaxed setting. This cozy eatery offers a variety of expertly
+  prepared rolls and traditional dishes like shumai, making it a go-to choice
+  for sushi enthusiasts looking for quality without the crowds. The menu
+  highlights fresh ingredients and thoughtful presentations, creating an
+  inviting atmosphere ideal for casual meals or quick takeout. With its
+  accessibility features and convenient location, it's a solid pick for anyone
+  searching for top sushi restaurants near me, blending affordability with
+  authentic flavors. Whether you're in the mood for a light lunch or dinner,
+  this spot delivers a satisfying experience that captures the essence of
+  Japanese-inspired dining.
+generative_summary: >-
+  Explore Ko Ko Sushi in Scarsdale, NY$$$Nestled in the heart of Scarsdale, NY,
+  Ko Ko Sushi stands out as a welcoming spot for those seeking fresh sushi
+  options in a relaxed setting. This cozy eatery offers a variety of expertly
+  prepared rolls and traditional dishes like shumai, making it a go-to choice
+  for sushi enthusiasts looking for quality without the crowds. The menu
+  highlights fresh ingredients and thoughtful presentations, creating an
+  inviting atmosphere ideal for casual meals or quick takeout. With its
+  accessibility features and convenient location, it's a solid pick for anyone
+  searching for top sushi restaurants near me, blending affordability with
+  authentic flavors. Whether you're in the mood for a light lunch or dinner,
+  this spot delivers a satisfying experience that captures the essence of
+  Japanese-inspired dining.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJlRVi9m2TwokRlDr1NonP6tA/reviews/ChZDSUhNMG9nS0VJQ0FnSUNudU9HRFFREAE
@@ -316,6 +341,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURSNnJPZlpREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURSNnJPZlpREAE!2m1!1s0x89c2936df6621595:0xd0eacf8936f53a94
+review_summary: >-
+  Customer Feedback on Ko Ko Sushi$$$Visitors often rave about the fresh and
+  flavorful sushi at this Scarsdale favorite, highlighting it as one of the best
+  options for anyone hunting for sushi places near me. Many appreciate the great
+  value for the quality, with meals that feel both satisfying and reasonably
+  priced, though some note it's not the cheapest spot around. The atmosphere
+  comes across as peaceful and welcoming, perfect for a relaxed date or small
+  group outing, with consistently friendly service that adds to the enjoyable
+  vibe. Folks frequently mention the variety of dishes like rolls and unagi as
+  standout features, praising their freshness and taste that make every visit
+  memorable. Overall, it's clear this place earns its strong reputation among
+  top-rated sushi spots, offering a reliably positive experience that keeps
+  people coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   valetParking: false
 payment_options:
@@ -346,7 +385,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

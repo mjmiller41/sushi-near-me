@@ -5,4 +5,5 @@ permalink: /wyoming/gillette/
 stateAbbr: WY
 stateName: Wyoming
 cityName: Gillette
+
 ---

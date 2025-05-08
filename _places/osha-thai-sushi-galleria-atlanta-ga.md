@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Osha Thai Sushi Galleria"
+title: Osha Thai Sushi Galleria
 permalink: /georgia/atlanta/osha-thai-sushi-galleria.html
 stateAbbr: GA
 stateName: Georgia
 cityName: Atlanta
 seo:
-  name: "Osha Thai Sushi Galleria"
-  type: Restaurant
+  type: restaurant
   links: https://oshathaiatl.com/?utm_source=google
-description: "Osha Thai Sushi Galleria serves delicious sushi in Atlanta, Georgia. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJp6OZ5aoF9YgRS5noeK7TMo0
 photos:
   - name: >-
@@ -143,7 +141,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC14JTlcw!2e10!4m2!3m1!1s0x88f505aae599a3a7:0x8d32d3ae78e8994b
 address: 'Northwest, 1820 Peachtree Rd #1, Atlanta, GA 30309, USA'
-street: 'Northwest, 1820 Peachtree Rd #1'
+street: 'Northwest,1820 Peachtree Rd #1'
 city: Atlanta
 state: GA
 zip: '30309'
@@ -170,7 +168,121 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x88f505aae599a3a7:0x8d32d3ae78e8994b!10e5
 primary_type: Thai Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 14
+        minute: 30
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 14
+        minute: 30
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 2:30 PM, 5:00 – 10:00 PM'
     - 'Tuesday: 11:30 AM – 2:30 PM, 5:00 – 10:00 PM'
     - 'Wednesday: 11:30 AM – 2:30 PM, 5:00 – 10:00 PM'
@@ -178,28 +290,300 @@ opening_hours:
     - 'Friday: 11:30 AM – 2:30 PM, 5:00 – 11:00 PM'
     - 'Saturday: 11:30 AM – 2:30 PM, 5:00 – 11:00 PM'
     - 'Sunday: 11:30 AM – 2:30 PM, 5:00 – 10:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 2:30 PM, 5:00 – 10:00 PM'
-    - 'Tuesday: 11:30 AM – 2:30 PM, 5:00 – 10:00 PM'
-    - 'Wednesday: 11:30 AM – 2:30 PM, 5:00 – 10:00 PM'
-    - 'Thursday: 11:30 AM – 2:30 PM, 5:00 – 10:00 PM'
-    - 'Friday: 11:30 AM – 2:30 PM, 5:00 – 11:00 PM'
-    - 'Saturday: 11:30 AM – 2:30 PM, 5:00 – 11:00 PM'
-    - 'Sunday: 11:30 AM – 2:30 PM, 5:00 – 10:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 0
+        close:
+          day: 0
+          hour: 14
+          minute: 30
+      - open:
+          day: 0
+          hour: 17
+          minute: 0
+        close:
+          day: 0
+          hour: 21
+          minute: 30
+      - open:
+          day: 1
+          hour: 11
+          minute: 30
+        close:
+          day: 1
+          hour: 14
+          minute: 0
+      - open:
+          day: 1
+          hour: 17
+          minute: 0
+        close:
+          day: 1
+          hour: 21
+          minute: 30
+      - open:
+          day: 2
+          hour: 11
+          minute: 30
+        close:
+          day: 2
+          hour: 14
+          minute: 0
+      - open:
+          day: 2
+          hour: 17
+          minute: 0
+        close:
+          day: 2
+          hour: 21
+          minute: 30
+      - open:
+          day: 3
+          hour: 11
+          minute: 30
+        close:
+          day: 3
+          hour: 14
+          minute: 0
+      - open:
+          day: 3
+          hour: 17
+          minute: 0
+        close:
+          day: 3
+          hour: 21
+          minute: 30
+      - open:
+          day: 4
+          hour: 11
+          minute: 30
+        close:
+          day: 4
+          hour: 14
+          minute: 0
+      - open:
+          day: 4
+          hour: 17
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 30
+      - open:
+          day: 5
+          hour: 11
+          minute: 30
+        close:
+          day: 5
+          hour: 14
+          minute: 0
+      - open:
+          day: 5
+          hour: 17
+          minute: 0
+        close:
+          day: 5
+          hour: 22
+          minute: 30
+      - open:
+          day: 6
+          hour: 12
+          minute: 0
+        close:
+          day: 6
+          hour: 14
+          minute: 30
+      - open:
+          day: 6
+          hour: 17
+          minute: 0
+        close:
+          day: 6
+          hour: 22
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 11:30 AM – 2:00 PM, 5:00 – 9:30 PM'
+      - 'Tuesday: 11:30 AM – 2:00 PM, 5:00 – 9:30 PM'
+      - 'Wednesday: 11:30 AM – 2:00 PM, 5:00 – 9:30 PM'
+      - 'Thursday: 11:30 AM – 2:00 PM, 5:00 – 9:30 PM'
+      - 'Friday: 11:30 AM – 2:00 PM, 5:00 – 10:30 PM'
+      - 'Saturday: 12:00 – 2:30 PM, 5:00 – 10:30 PM'
+      - 'Sunday: 12:00 – 2:30 PM, 5:00 – 9:30 PM'
+    secondaryHoursType: DELIVERY
+    nextCloseTime: '2025-05-04T02:30:00Z'
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 0
+        close:
+          day: 0
+          hour: 14
+          minute: 30
+      - open:
+          day: 0
+          hour: 17
+          minute: 0
+        close:
+          day: 0
+          hour: 21
+          minute: 30
+      - open:
+          day: 1
+          hour: 11
+          minute: 30
+        close:
+          day: 1
+          hour: 14
+          minute: 0
+      - open:
+          day: 1
+          hour: 17
+          minute: 0
+        close:
+          day: 1
+          hour: 21
+          minute: 30
+      - open:
+          day: 2
+          hour: 11
+          minute: 30
+        close:
+          day: 2
+          hour: 14
+          minute: 0
+      - open:
+          day: 2
+          hour: 17
+          minute: 0
+        close:
+          day: 2
+          hour: 21
+          minute: 30
+      - open:
+          day: 3
+          hour: 11
+          minute: 30
+        close:
+          day: 3
+          hour: 14
+          minute: 0
+      - open:
+          day: 3
+          hour: 17
+          minute: 0
+        close:
+          day: 3
+          hour: 21
+          minute: 30
+      - open:
+          day: 4
+          hour: 11
+          minute: 30
+        close:
+          day: 4
+          hour: 14
+          minute: 0
+      - open:
+          day: 4
+          hour: 17
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 30
+      - open:
+          day: 5
+          hour: 11
+          minute: 30
+        close:
+          day: 5
+          hour: 14
+          minute: 0
+      - open:
+          day: 5
+          hour: 17
+          minute: 0
+        close:
+          day: 5
+          hour: 22
+          minute: 30
+      - open:
+          day: 6
+          hour: 12
+          minute: 0
+        close:
+          day: 6
+          hour: 14
+          minute: 30
+      - open:
+          day: 6
+          hour: 17
+          minute: 0
+        close:
+          day: 6
+          hour: 22
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 11:30 AM – 2:00 PM, 5:00 – 9:30 PM'
+      - 'Tuesday: 11:30 AM – 2:00 PM, 5:00 – 9:30 PM'
+      - 'Wednesday: 11:30 AM – 2:00 PM, 5:00 – 9:30 PM'
+      - 'Thursday: 11:30 AM – 2:00 PM, 5:00 – 9:30 PM'
+      - 'Friday: 11:30 AM – 2:00 PM, 5:00 – 10:30 PM'
+      - 'Saturday: 12:00 – 2:30 PM, 5:00 – 10:30 PM'
+      - 'Sunday: 12:00 – 2:30 PM, 5:00 – 9:30 PM'
+    secondaryHoursType: TAKEOUT
+    nextCloseTime: '2025-05-04T02:30:00Z'
 phone: (404) 382-8088
 price_level: PRICE_LEVEL_MODERATE
 price_range: $50 &ndash; $100
 rating: '4.6'
-rating_count: 0
+rating_count: 1601
 website: https://oshathaiatl.com/?utm_source=google
+description: >-
+  Discover Osha Thai Sushi in Atlanta, GA$$$Osha Thai Sushi Galleria in Atlanta,
+  GA, stands out as an upscale dining spot blending Thai flavors with fresh
+  sushi offerings, making it a go-to for those seeking authentic Asian cuisine
+  in a sophisticated setting. This venue features a variety of cocktails and
+  happy-hour deals that enhance the experience, appealing to both casual diners
+  and those looking for a special night out. With its accessible entrances and
+  seating options, it's designed to welcome everyone, ensuring a comfortable
+  visit. The restaurant's convenient hours, including evenings and weekends,
+  cater to busy schedules, while the elegant ambiance adds to the appeal for
+  anyone exploring top sushi spots in the area.
+generative_summary: >-
+  Discover Osha Thai Sushi in Atlanta, GA$$$Osha Thai Sushi Galleria in Atlanta,
+  GA, stands out as an upscale dining spot blending Thai flavors with fresh
+  sushi offerings, making it a go-to for those seeking authentic Asian cuisine
+  in a sophisticated setting. This venue features a variety of cocktails and
+  happy-hour deals that enhance the experience, appealing to both casual diners
+  and those looking for a special night out. With its accessible entrances and
+  seating options, it's designed to welcome everyone, ensuring a comfortable
+  visit. The restaurant's convenient hours, including evenings and weekends,
+  cater to busy schedules, while the elegant ambiance adds to the appeal for
+  anyone exploring top sushi spots in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Diners at Osha Thai Sushi$$$Folks chatting about this spot often
+  rave about the tasty sushi rolls and standout Thai dishes that bring a mix of
+  bold flavors to the table, making it a solid pick for anyone craving something
+  fresh and flavorful. Many highlight how the welcoming vibe, with its stylish
+  decor and relaxing atmosphere, turns a simple meal into a pleasant escape.
+  It's clear that the variety of options, from creative rolls to hearty entrees,
+  keeps people coming back for more, with plenty of positive nods to the overall
+  experience. While it's not perfect for every taste, the general buzz is
+  upbeat, suggesting it's worth trying if you're in the mood for reliable,
+  enjoyable eats near you. Overall, visitors appreciate the balance of quality
+  food and a chill setting that makes it a favorite among local sushi
+  enthusiasts.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +609,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

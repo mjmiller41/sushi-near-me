@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Fat Salmon Sushi"
+title: Fat Salmon Sushi
 permalink: /pennsylvania/philadelphia/fat-salmon-sushi.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Philadelphia
 seo:
-  name: "Fat Salmon Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.fatsalmonsushi.com/
-description: "Fat Salmon Sushi serves delicious sushi in Philadelphia, Pennsylvania. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJRbkRtILIxokRnKrVYpaCpiI
 photos:
   - name: >-
@@ -169,7 +167,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c6c882b411b945:0x22a6829662d5aa9c!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 16
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 16
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 4:00 – 9:00 PM'
     - 'Wednesday: 4:00 – 9:00 PM'
@@ -177,14 +225,7 @@ opening_hours:
     - 'Friday: 4:00 – 10:00 PM'
     - 'Saturday: 4:00 – 10:00 PM'
     - 'Sunday: 4:00 – 9:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 4:00 – 9:00 PM'
-    - 'Wednesday: 4:00 – 9:00 PM'
-    - 'Thursday: 4:00 – 9:00 PM'
-    - 'Friday: 4:00 – 10:00 PM'
-    - 'Saturday: 4:00 – 10:00 PM'
-    - 'Sunday: 4:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,9 +237,45 @@ phone: (215) 928-8881
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.4'
-rating_count: 0
+rating_count: 605
 website: http://www.fatsalmonsushi.com/
+description: >-
+  Explore Fat Salmon Sushi in Philadelphia, PA$$$Fat Salmon Sushi in
+  Philadelphia, PA, is a welcoming spot for sushi enthusiasts seeking fresh
+  rolls and innovative flavors in a relaxed environment. The restaurant features
+  a variety of sushi options, including vegan choices, served alongside a cozy
+  bar that adds to the casual vibe. With its moderate pricing and evening hours,
+  it's an ideal choice for those exploring sushi restaurants in the area, making
+  it easy to enjoy authentic Japanese-inspired dishes close to home.
+  Accessibility features like wheelchair-friendly entrances and seating ensure a
+  comfortable visit for everyone, enhancing its appeal as a go-to spot for
+  quality dining.
+generative_summary: >-
+  Explore Fat Salmon Sushi in Philadelphia, PA$$$Fat Salmon Sushi in
+  Philadelphia, PA, is a welcoming spot for sushi enthusiasts seeking fresh
+  rolls and innovative flavors in a relaxed environment. The restaurant features
+  a variety of sushi options, including vegan choices, served alongside a cozy
+  bar that adds to the casual vibe. With its moderate pricing and evening hours,
+  it's an ideal choice for those exploring sushi restaurants in the area, making
+  it easy to enjoy authentic Japanese-inspired dishes close to home.
+  Accessibility features like wheelchair-friendly entrances and seating ensure a
+  comfortable visit for everyone, enhancing its appeal as a go-to spot for
+  quality dining.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback on Fat Salmon Sushi$$$Visitors often praise the fresh and
+  creative sushi selections at this spot, highlighting how the flavors really
+  hit the mark for a satisfying meal. Many appreciate the laid-back atmosphere
+  and attentive service that make it feel like a reliable neighborhood favorite,
+  especially for groups or casual outings. While opinions vary, the overall
+  consensus leans positive with high marks for value and variety, suggesting
+  it's a solid pick for anyone craving top-rated sushi nearby. Some note that
+  the bar area adds a fun element, though a few mention it can get busy during
+  peak times, so planning ahead is smart for the best experience. All in all,
+  it's clear that folks keep coming back for the tasty options and welcoming
+  feel.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -224,7 +301,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

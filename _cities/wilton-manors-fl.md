@@ -5,4 +5,5 @@ permalink: /florida/wilton-manors/
 stateAbbr: FL
 stateName: Florida
 cityName: Wilton Manors
+
 ---

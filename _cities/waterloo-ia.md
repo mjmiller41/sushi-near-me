@@ -5,4 +5,5 @@ permalink: /iowa/waterloo/
 stateAbbr: IA
 stateName: Iowa
 cityName: Waterloo
+
 ---

@@ -5,4 +5,5 @@ permalink: /florida/sanford/
 stateAbbr: FL
 stateName: Florida
 cityName: Sanford
+
 ---

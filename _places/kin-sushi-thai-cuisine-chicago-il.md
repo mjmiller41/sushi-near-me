@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kin Sushi & Thai Cuisine"
+title: Kin Sushi & Thai Cuisine
 permalink: /illinois/chicago/kin-sushi-thai-cuisine.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
 seo:
-  name: "Kin Sushi & Thai Cuisine"
-  type: Restaurant
+  type: restaurant
   links: http://www.kinsushiandthai.com/
-description: "Mixed Asian eats & BYOB in a clubby, low-lit setting with black walls, ductwork & a lounge area. Kin Sushi & Thai Cuisine serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJLy48c9HSD4gRLrpihKmHjRs
 photos:
   - name: >-
@@ -184,6 +182,31 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 0
 website: http://www.kinsushiandthai.com/
+description: >-
+  Discover Kin Sushi & Thai Cuisine in Chicago, IL$$$Kin Sushi & Thai Cuisine in
+  Chicago, Illinois, stands out as a casual Asian restaurant blending Thai
+  dishes, fresh sushi, and Japanese favorites in a welcoming setting. This spot
+  offers a cozy, low-lit ambiance with thoughtful decor that enhances the dining
+  experience, making it ideal for those seeking authentic flavors late into the
+  evening. Patrons can enjoy a variety of options like flavorful curries and
+  expertly prepared rolls, all at moderate prices that appeal to sushi
+  enthusiasts exploring the city. The restaurant's accessibility features and
+  diverse menu ensure it's a convenient choice for groups or individuals looking
+  for top-rated Asian cuisine near you, with highlights including
+  vegetarian-friendly dishes and generous portions.
+generative_summary: >-
+  Discover Kin Sushi & Thai Cuisine in Chicago, IL$$$Kin Sushi & Thai Cuisine in
+  Chicago, Illinois, stands out as a casual Asian restaurant blending Thai
+  dishes, fresh sushi, and Japanese favorites in a welcoming setting. This spot
+  offers a cozy, low-lit ambiance with thoughtful decor that enhances the dining
+  experience, making it ideal for those seeking authentic flavors late into the
+  evening. Patrons can enjoy a variety of options like flavorful curries and
+  expertly prepared rolls, all at moderate prices that appeal to sushi
+  enthusiasts exploring the city. The restaurant's accessibility features and
+  diverse menu ensure it's a convenient choice for groups or individuals looking
+  for top-rated Asian cuisine near you, with highlights including
+  vegetarian-friendly dishes and generous portions.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJLy48c9HSD4gRLrpihKmHjRs/reviews/ChZDSUhNMG9nS0VJQ0FnSUNfeTlMQkpREAE
@@ -373,6 +396,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURkMXFpdEtREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURkMXFpdEtREAE!2m1!1s0x880fd2d1733c2e2f:0x1b8d87a98462ba2e
+review_summary: >-
+  What Customers Are Raving About$$$Folks who visit this sushi spot often praise
+  the fresh and creative rolls that hit the spot for anyone craving quality
+  Japanese-inspired eats in a relaxed vibe. Many appreciate the Thai offerings
+  like spicy curries and basil fried rice, noting they bring just the right
+  balance of flavors without overwhelming the palate. Reviewers frequently
+  mention the fast and friendly service that makes dining here feel effortless
+  and enjoyable, along with the cozy atmosphere that adds to the overall charm.
+  While some note minor preferences on vegetable textures, the general consensus
+  highlights generous portions and affordable prices that make it a solid pick
+  for casual meals. Overall, it's a go-to for those searching for reliable sushi
+  restaurants nearby, delivering a consistently positive experience that keeps
+  diners coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeStreetParking: true
   paidStreetParking: true
@@ -405,8 +442,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Mixed Asian eats & BYOB in a clubby, low-lit setting with black walls,
   ductwork & a lounge area.
 

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Lets Roll Korean Eatery"
+title: Lets Roll Korean Eatery
 permalink: /maryland/clarksville/lets-roll-korean-eatery.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Clarksville
 seo:
-  name: "Lets Roll Korean Eatery"
-  type: Restaurant
+  type: restaurant
   links: https://www.letsrollmrld.com/
-description: "Lets Roll Korean Eatery serves delicious sushi in Clarksville, Maryland. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJsdzuhjfZt4kRLXv5DFKUx4I
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $10 &ndash; $20
 rating: '4.3'
 rating_count: 0
 website: https://www.letsrollmrld.com/
+description: >-
+  Explore Lets Roll Korean Eatery in Clarksville, MD$$$Lets Roll Korean Eatery
+  in Clarksville, MD, offers a welcoming spot for fresh Korean-inspired dishes
+  in a vibrant food hall setting. The eatery stands out with its accessible
+  features, including wheelchair-friendly parking, entrances, and restrooms,
+  making it easy for everyone to enjoy a meal. Diners can savor generous
+  portions of flavorful bowls and salads, featuring fresh ingredients and
+  options for vegetarians, alongside hearty choices like bibimbap and bulgogi
+  that highlight authentic tastes. With convenient takeout and delivery
+  services, it's a great choice for quick lunches or family dinners, adding to
+  its appeal as a go-to Korean spot near you. The moderate pricing ensures a
+  satisfying experience without breaking the bank, perfect for those seeking
+  diverse Asian cuisine options in the area.
+generative_summary: >-
+  Explore Lets Roll Korean Eatery in Clarksville, MD$$$Lets Roll Korean Eatery
+  in Clarksville, MD, offers a welcoming spot for fresh Korean-inspired dishes
+  in a vibrant food hall setting. The eatery stands out with its accessible
+  features, including wheelchair-friendly parking, entrances, and restrooms,
+  making it easy for everyone to enjoy a meal. Diners can savor generous
+  portions of flavorful bowls and salads, featuring fresh ingredients and
+  options for vegetarians, alongside hearty choices like bibimbap and bulgogi
+  that highlight authentic tastes. With convenient takeout and delivery
+  services, it's a great choice for quick lunches or family dinners, adding to
+  its appeal as a go-to Korean spot near you. The moderate pricing ensures a
+  satisfying experience without breaking the bank, perfect for those seeking
+  diverse Asian cuisine options in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJsdzuhjfZt4kRLXv5DFKUx4I/reviews/ChZDSUhNMG9nS0VJQ0FnSUNYbk1lRlR3EAE
@@ -342,6 +367,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQteW9MdlRBEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQteW9MdlRBEAE!2m1!1s0x89b7d93786eedcb1:0x82c794520cf97b2d
+review_summary: >-
+  Customer Feedback Highlights$$$Visitors to this Korean eatery often rave about
+  the delicious and fresh flavors in their meals, with bowls packed full of
+  tasty toppings and tender proteins that leave everyone feeling satisfied.
+  While service can occasionally take a bit longer during busy times, the
+  friendly atmosphere and kind staff make the wait worthwhile, creating a
+  relaxed vibe for casual dining. Many appreciate the variety of vegetarian
+  choices and halal options, which add to the overall appeal for different
+  dietary needs. Overall, the food receives high marks for its generous portions
+  and authentic taste, making it a solid pick for anyone craving a flavorful
+  Korean meal. If you're exploring local eateries nearby, this spot consistently
+  delivers a positive experience that keeps customers coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -374,7 +412,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: null
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

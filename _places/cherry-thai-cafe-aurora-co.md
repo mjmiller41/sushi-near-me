@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Cherry Thai Cafe"
+title: Cherry Thai Cafe
 permalink: /colorado/aurora/cherry-thai-cafe.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Aurora
 seo:
-  name: "Cherry Thai Cafe"
-  type: Restaurant
+  type: restaurant
   links: http://www.cherrythaicafe.com/
-description: "Cherry Thai Cafe serves delicious sushi in Aurora, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ6xJ1P-CJbIcRBjfsfTfUgsM
 photos:
   - name: >-
@@ -170,7 +168,121 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x876c89e03f7512eb:0xc382d4377dec3706!10e5
 primary_type: Thai Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 15
+        minute: 0
+    - open:
+        day: 0
+        hour: 16
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 15
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 15
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 15
+        minute: 0
+    - open:
+        day: 6
+        hour: 16
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM'
     - 'Tuesday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM'
     - 'Wednesday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM'
@@ -178,14 +290,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM'
     - 'Saturday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM'
     - 'Sunday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM'
-    - 'Thursday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM'
-    - 'Friday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM'
-    - 'Saturday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM'
-    - 'Sunday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +302,291 @@ phone: (303) 693-0825
 price_level: PRICE_LEVEL_INEXPENSIVE
 price_range: $10 &ndash; $20
 rating: '4.3'
-rating_count: 0
+rating_count: 412
 website: http://www.cherrythaicafe.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  About Cherry Thai Cafe in Aurora, CO$$$Cherry Thai Cafe in Aurora, CO, is a
+  welcoming spot for enjoying a variety of authentic Thai dishes, including
+  flavorful curries and vegetarian options, all served in a relaxed and casual
+  atmosphere. This local eatery emphasizes fresh ingredients and accessibility
+  features like wheelchair-friendly parking and entrances, making it easy for
+  everyone to savor their meals. With generous portions and a menu that caters
+  to diverse tastes, it's an ideal choice for those seeking affordable Thai
+  cuisine in a comfortable setting. Operating daily with extended hours, the
+  cafe provides a convenient option for lunch or dinner, perfect for anyone
+  exploring Thai places near me in the area.
+generative_summary: >-
+  About Cherry Thai Cafe in Aurora, CO$$$Cherry Thai Cafe in Aurora, CO, is a
+  welcoming spot for enjoying a variety of authentic Thai dishes, including
+  flavorful curries and vegetarian options, all served in a relaxed and casual
+  atmosphere. This local eatery emphasizes fresh ingredients and accessibility
+  features like wheelchair-friendly parking and entrances, making it easy for
+  everyone to savor their meals. With generous portions and a menu that caters
+  to diverse tastes, it's an ideal choice for those seeking affordable Thai
+  cuisine in a comfortable setting. Operating daily with extended hours, the
+  cafe provides a convenient option for lunch or dinner, perfect for anyone
+  exploring Thai places near me in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ6xJ1P-CJbIcRBjfsfTfUgsM/reviews/ChZDSUhNMG9nS0VJQ0FnTURvMGZlcGRREAE
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        So, you walk into this place at the end of April, and the first thing
+        you see? Christmas. Full on Christmas. Tree, ornaments, snowflakes still
+        hanging like they’ve never left. And in the background? Westlife’s “My
+        Love,” playing on a loop like it’s 2001 again. Not just once—the whole
+        time you’re there. And yes, the sweet older gentleman working the floor
+        is singing along. Every word. Every high note.
+
+
+        Now, despite the word “sushi” in the name, let me save you the trouble:
+        there is no sushi. Not even a lonely spicy tuna roll. But once the pad
+        thai shows up, all is forgiven. It’s really good. Like, why haven’t I
+        been coming here all along good.
+
+
+        And after a few bites, you find yourself kind of vibing with the music.
+        Maybe even mouthing the chorus with the waiter. The snowflakes start to
+        feel kind of charming. The slightly sticky table? Adds to the
+        experience.
+
+
+        Would I go back? Absolutely. Just maybe not for sushi, but definitely
+        for the pad thai, the unintentional karaoke, and the year round holiday
+        cheer.
+      languageCode: en
+    originalText:
+      text: >-
+        So, you walk into this place at the end of April, and the first thing
+        you see? Christmas. Full on Christmas. Tree, ornaments, snowflakes still
+        hanging like they’ve never left. And in the background? Westlife’s “My
+        Love,” playing on a loop like it’s 2001 again. Not just once—the whole
+        time you’re there. And yes, the sweet older gentleman working the floor
+        is singing along. Every word. Every high note.
+
+
+        Now, despite the word “sushi” in the name, let me save you the trouble:
+        there is no sushi. Not even a lonely spicy tuna roll. But once the pad
+        thai shows up, all is forgiven. It’s really good. Like, why haven’t I
+        been coming here all along good.
+
+
+        And after a few bites, you find yourself kind of vibing with the music.
+        Maybe even mouthing the chorus with the waiter. The snowflakes start to
+        feel kind of charming. The slightly sticky table? Adds to the
+        experience.
+
+
+        Would I go back? Absolutely. Just maybe not for sushi, but definitely
+        for the pad thai, the unintentional karaoke, and the year round holiday
+        cheer.
+      languageCode: en
+    authorAttribution:
+      displayName: Afsoon Hansia
+      uri: https://www.google.com/maps/contrib/105669729099554325006/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJNg9fyWN5O8xIRoxEujNhGnsmDrsyHxUVY9qnB7c0aXCUA5Q=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-26T00:15:03.335824Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURvMGZlcGRREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURvMGZlcGRREAE!2m1!1s0x876c89e03f7512eb:0xc382d4377dec3706
+  - name: >-
+      places/ChIJ6xJ1P-CJbIcRBjfsfTfUgsM/reviews/ChdDSUhNMG9nS0VJQ0FnTURvOC1XcWpBRRAB
+    relativePublishTimeDescription: in the last week
+    rating: 1
+    text:
+      text: >-
+        I'm pregnant at the moment, and I thought ordering a  papaya salad would
+        be good as I've had papaya salads at other places, and there's never
+        been a problem. I was wrong. their menu description does not state any
+        meat/ sea food. When the salad arrived, I started eating. After a few
+        bites in, I noticed a raw crab leg, and I thought it might be cross-
+        contamination. I took it out. Then I digged through the salad more, and
+        I noticed that the whole salad had bits and pieces of raw crab. Now I'm
+        afraid that I'm going to get sick.
+      languageCode: en
+    originalText:
+      text: >-
+        I'm pregnant at the moment, and I thought ordering a  papaya salad would
+        be good as I've had papaya salads at other places, and there's never
+        been a problem. I was wrong. their menu description does not state any
+        meat/ sea food. When the salad arrived, I started eating. After a few
+        bites in, I noticed a raw crab leg, and I thought it might be cross-
+        contamination. I took it out. Then I digged through the salad more, and
+        I noticed that the whole salad had bits and pieces of raw crab. Now I'm
+        afraid that I'm going to get sick.
+      languageCode: en
+    authorAttribution:
+      displayName: Alice Su
+      uri: https://www.google.com/maps/contrib/113463508671678780429/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXuBfGvXCY2lcPWjeXRs9AyALtHRa0-SCcIf_wlRtZG8K81psD3=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-28T18:59:58.361201Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURvOC1XcWpBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURvOC1XcWpBRRAB!2m1!1s0x876c89e03f7512eb:0xc382d4377dec3706
+  - name: >-
+      places/ChIJ6xJ1P-CJbIcRBjfsfTfUgsM/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3OU5qUXVRRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Cherry Thai Cafe offers authentic Thai dishes like curry, pad Thai, and
+        drunken noodles. Known for fresh ingredients and great service, it's a
+        cozy spot for flavorful Thai cuisine.
+      languageCode: en
+    originalText:
+      text: >-
+        Cherry Thai Cafe offers authentic Thai dishes like curry, pad Thai, and
+        drunken noodles. Known for fresh ingredients and great service, it's a
+        cozy spot for flavorful Thai cuisine.
+      languageCode: en
+    authorAttribution:
+      displayName: Krzysztof Budryk
+      uri: https://www.google.com/maps/contrib/117355777940517236323/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLsQoOZbLM7UoypKB-37RTZD-2CZBIN7wzz66iDifKhz4ZQbA=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-03-16T23:30:08.512308Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUN3OU5qUXVRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUN3OU5qUXVRRRAB!2m1!1s0x876c89e03f7512eb:0xc382d4377dec3706
+  - name: >-
+      places/ChIJ6xJ1P-CJbIcRBjfsfTfUgsM/reviews/ChZDSUhNMG9nS0VJQ0FnSURqMjZqUUpBEAE
+    relativePublishTimeDescription: 12 months ago
+    rating: 5
+    text:
+      text: >-
+        I recently dined at Cherry Thai cafe and had an amazing experience. The
+        highlight of my meal was the shrimp tom yum with Thai hot spice. The
+        flavors were perfectly balanced, with a spicy kick that left a lasting
+        impression. The shrimp was cooked to perfection and added a delightful
+        seafood element to the dish. The ambiance of the cafe was cozy and
+        inviting, making it a great place to enjoy a delicious meal. The staff
+        was friendly and attentive, ensuring that my dining experience was
+        top-notch. I highly recommend Cherry Thai cafe for anyone looking for
+        authentic Thai cuisine that is bursting with flavor.
+      languageCode: en
+    originalText:
+      text: >-
+        I recently dined at Cherry Thai cafe and had an amazing experience. The
+        highlight of my meal was the shrimp tom yum with Thai hot spice. The
+        flavors were perfectly balanced, with a spicy kick that left a lasting
+        impression. The shrimp was cooked to perfection and added a delightful
+        seafood element to the dish. The ambiance of the cafe was cozy and
+        inviting, making it a great place to enjoy a delicious meal. The staff
+        was friendly and attentive, ensuring that my dining experience was
+        top-notch. I highly recommend Cherry Thai cafe for anyone looking for
+        authentic Thai cuisine that is bursting with flavor.
+      languageCode: en
+    authorAttribution:
+      displayName: Soledad Guzman
+      uri: https://www.google.com/maps/contrib/111151874347836680931/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVBIQIieCCYA7m8Z6WL4M0FkXfrvH7Rb0hChl7JzDHWlyG7IH0=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-05-07T21:01:20.133495Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURqMjZqUUpBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURqMjZqUUpBEAE!2m1!1s0x876c89e03f7512eb:0xc382d4377dec3706
+  - name: >-
+      places/ChIJ6xJ1P-CJbIcRBjfsfTfUgsM/reviews/ChZDSUhNMG9nS0VJQ0FnSUNUX3ZiNE5REAE
+    relativePublishTimeDescription: 11 months ago
+    rating: 4
+    text:
+      text: >-
+        Upon entering, the waitress was friendly right away. She is Thai but
+        speaks English fine.
+
+        I ordered Pineapple Curry with Chicken and brown rice. Although I
+        ordered it Thai hot, it was medium at best, but still quite tasty. I'm
+        happy they serve brown rice!
+
+        They do not have a liquor license, so no Sing Ha beer to have with your
+        meal.
+
+        There are lots of Door Dash drivers coming to pick up food, so it's
+        popular.
+
+        I'd return.
+      languageCode: en
+    originalText:
+      text: >-
+        Upon entering, the waitress was friendly right away. She is Thai but
+        speaks English fine.
+
+        I ordered Pineapple Curry with Chicken and brown rice. Although I
+        ordered it Thai hot, it was medium at best, but still quite tasty. I'm
+        happy they serve brown rice!
+
+        They do not have a liquor license, so no Sing Ha beer to have with your
+        meal.
+
+        There are lots of Door Dash drivers coming to pick up food, so it's
+        popular.
+
+        I'd return.
+      languageCode: en
+    authorAttribution:
+      displayName: Jennifer Lonnes
+      uri: https://www.google.com/maps/contrib/117884960576394617586/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKCBQR76QdsTie5Ix79_lKEPH-xuGIQtbvzlO38W1vok7xWng=s128-c0x00000000-cc-rp-mo-ba7
+    publishTime: '2024-05-15T10:53:31.423405Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNUX3ZiNE5REAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNUX3ZiNE5REAE!2m1!1s0x876c89e03f7512eb:0xc382d4377dec3706
+review_summary: >-
+  Customer Feedback on Cherry Thai Cafe$$$Folks generally rave about the tasty
+  Thai dishes at this spot, highlighting the fresh flavors in favorites like pad
+  Thai and curries that keep diners coming back for more. While most experiences
+  praise the friendly service and cozy vibe, a few mentions point to occasional
+  surprises with ingredients that didn't match expectations, though these seem
+  to be rare outliers. Overall, the authentic tastes and solid portions make it
+  a reliable pick for a satisfying meal, earning high marks from many satisfied
+  visitors. If you're on the hunt for top-rated Thai options nearby, this place
+  delivers a generally positive experience that's worth trying, as long as you
+  communicate any preferences clearly.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
+curbside_pickup: false
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: true
+live_music: false
+menu_for_children: true
+outdoor_seating: false
 reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: false
+serves_coffee: true
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

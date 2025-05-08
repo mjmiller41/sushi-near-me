@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Zwei Restaurant"
+title: Zwei Restaurant
 permalink: /pennsylvania/exton/zwei-restaurant.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Exton
 seo:
-  name: "Zwei Restaurant"
-  type: Restaurant
+  type: restaurant
   links: https://zweiexton.kwickmenu.com/index.php
-description: "Simple spot offering an extensive selection of Chinese, Japanese & Thai basics, plus a sushi bar. Zwei Restaurant serves delicious sushi in Exton, Pennsylvania. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJe02LFoX0xokRDQrB80HGIuk
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $10 &ndash; $20
 rating: '4.3'
 rating_count: 0
 website: https://zweiexton.kwickmenu.com/index.php
+description: >-
+  Discover Zwei Restaurant in Exton, Pennsylvania$$$Nestled in Exton,
+  Pennsylvania, Zwei Restaurant stands out as a welcoming spot for those seeking
+  authentic Asian flavors, blending Chinese, Japanese, and Thai influences into
+  a relaxed dining experience. This sushi restaurant offers an extensive array
+  of fresh sushi options and traditional dishes, making it a go-to choice for
+  locals looking for quality Japanese-inspired cuisine close to home. With its
+  accessible entrance and thoughtful seating arrangements, the venue ensures a
+  comfortable visit for everyone, complemented by a simple yet inviting
+  atmosphere. Generous portions and moderate pricing add to its appeal,
+  providing great value for diners exploring top-rated sushi spots in the area.
+generative_summary: >-
+  Discover Zwei Restaurant in Exton, Pennsylvania$$$Nestled in Exton,
+  Pennsylvania, Zwei Restaurant stands out as a welcoming spot for those seeking
+  authentic Asian flavors, blending Chinese, Japanese, and Thai influences into
+  a relaxed dining experience. This sushi restaurant offers an extensive array
+  of fresh sushi options and traditional dishes, making it a go-to choice for
+  locals looking for quality Japanese-inspired cuisine close to home. With its
+  accessible entrance and thoughtful seating arrangements, the venue ensures a
+  comfortable visit for everyone, complemented by a simple yet inviting
+  atmosphere. Generous portions and moderate pricing add to its appeal,
+  providing great value for diners exploring top-rated sushi spots in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJe02LFoX0xokRDQrB80HGIuk/reviews/ChZDSUhNMG9nS0VJQ0FnSUQzdmNyUUJnEAE
@@ -348,6 +369,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURueGRIVUp3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURueGRIVUp3EAE!2m1!1s0x89c6f485168b4d7b:0xe922c641f3c10a0d
+review_summary: >-
+  What People Love About This Local Sushi Spot$$$Visitors often rave about the
+  fresh and flavorful sushi rolls that bring a unique twist to classic
+  favorites, making it a solid pick for anyone searching for reliable sushi
+  restaurants nearby. Many appreciate the quick and friendly service that keeps
+  the overall experience smooth and enjoyable, with meals arriving promptly to
+  enhance the casual vibe. The reasonable prices and variety of
+  vegetarian-friendly options have been highlighted as standout features,
+  offering something for groups or families without breaking the bank. Overall,
+  the atmosphere and food quality contribute to a consistently positive dining
+  outing, encouraging repeat visits for those craving top sushi in the region.
+  While not every dish impresses everyone, the general consensus leans toward
+  satisfaction with the fresh ingredients and welcoming environment.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -380,8 +415,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Simple spot offering an extensive selection of Chinese, Japanese & Thai
   basics, plus a sushi bar.
 

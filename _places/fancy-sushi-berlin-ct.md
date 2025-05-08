@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Fancy Sushi"
+title: Fancy Sushi
 permalink: /connecticut/berlin/fancy-sushi.html
 stateAbbr: CT
 stateName: Connecticut
 cityName: Berlin
 seo:
-  name: "Fancy Sushi"
-  type: Restaurant
-  links: null
-description: "Fancy Sushi serves delicious sushi in Berlin, Connecticut. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.fancysushiberlin.com/
 place_id: ChIJLWZQyMiz54kRNZCjC7Dha7c
 photos:
   - name: >-
@@ -169,8 +167,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89e7b3c8c850662d:0xb76be1b00ba39035!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:30 PM'
+    - 'Tuesday: Closed'
+    - 'Wednesday: 11:00 AM – 9:30 PM'
+    - 'Thursday: 11:00 AM – 9:30 PM'
+    - 'Friday: 11:00 AM – 10:00 PM'
+    - 'Saturday: 11:00 AM – 10:00 PM'
+    - 'Sunday: 12:00 – 9:30 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -178,13 +233,50 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: +1 860-929-9903
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (860) 929-9903
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.8'
+rating_count: 162
+website: http://www.fancysushiberlin.com/
+description: >-
+  About Fancy Sushi in Berlin, CT$$$Fancy Sushi in Berlin, CT, stands out as a
+  welcoming Japanese eatery specializing in fresh sushi and seafood dishes,
+  perfect for those seeking top-rated sushi options nearby. The restaurant
+  boasts a casual atmosphere that makes it easy to enjoy a variety of flavorful
+  rolls and specialties, all prepared with high-quality ingredients in a relaxed
+  setting. Accessibility features like wheelchair-friendly parking and seating
+  add to the convenience, ensuring a comfortable visit for everyone. Operating
+  hours cater to both lunch and dinner crowds, with options available on most
+  days of the week. Whether you're exploring sushi places near me or looking for
+  a reliable spot for Japanese cuisine, this location delivers an authentic and
+  enjoyable dining experience.
+generative_summary: >-
+  About Fancy Sushi in Berlin, CT$$$Fancy Sushi in Berlin, CT, stands out as a
+  welcoming Japanese eatery specializing in fresh sushi and seafood dishes,
+  perfect for those seeking top-rated sushi options nearby. The restaurant
+  boasts a casual atmosphere that makes it easy to enjoy a variety of flavorful
+  rolls and specialties, all prepared with high-quality ingredients in a relaxed
+  setting. Accessibility features like wheelchair-friendly parking and seating
+  add to the convenience, ensuring a comfortable visit for everyone. Operating
+  hours cater to both lunch and dinner crowds, with options available on most
+  days of the week. Whether you're exploring sushi places near me or looking for
+  a reliable spot for Japanese cuisine, this location delivers an authentic and
+  enjoyable dining experience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Buzzing About$$$Visitors to this sushi spot often rave
+  about the fresh and tasty sushi rolls, along with satisfying hibachi and ramen
+  choices that hit the spot without breaking the bank. Folks appreciate the
+  attentive service that keeps things friendly and efficient, making meals feel
+  more like a treat than a routine outing. Many highlight the generous portions
+  as a great value, leaving diners feeling full and happy with their choices.
+  Overall, the reasonable prices combined with solid flavors make it a go-to for
+  anyone craving reliable Japanese fare in a casual vibe. If you're on the hunt
+  for the best sushi near me, this place tends to deliver a consistently
+  positive experience that keeps people coming back.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +302,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

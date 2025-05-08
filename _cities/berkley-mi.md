@@ -5,4 +5,5 @@ permalink: /michigan/berkley/
 stateAbbr: MI
 stateName: Michigan
 cityName: Berkley
+
 ---

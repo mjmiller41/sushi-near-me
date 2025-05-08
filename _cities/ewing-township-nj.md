@@ -5,4 +5,5 @@ permalink: /new-jersey/ewing-township/
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Ewing Township
+
 ---

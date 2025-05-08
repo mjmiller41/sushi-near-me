@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Toshi's Cafe"
+title: Toshi's Cafe
 permalink: /north-carolina/greensboro/toshi-s-cafe.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Greensboro
 seo:
-  name: "Toshi's Cafe"
-  type: Restaurant
+  type: restaurant
   links: http://www.toshiscafe.com/
-description: "Toshi's Cafe serves delicious sushi in Greensboro, North Carolina. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ8w66dqIaU4gRifbD8WqBuvQ
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x88531aa276ba0ef3:0xf4ba816af1c3f689!10e5
 primary_type: Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 6
+        minute: 30
+      close:
+        day: 1
+        hour: 19
+        minute: 0
+    - open:
+        day: 2
+        hour: 6
+        minute: 30
+      close:
+        day: 2
+        hour: 19
+        minute: 0
+    - open:
+        day: 3
+        hour: 6
+        minute: 30
+      close:
+        day: 3
+        hour: 19
+        minute: 0
+    - open:
+        day: 4
+        hour: 6
+        minute: 30
+      close:
+        day: 4
+        hour: 19
+        minute: 0
+    - open:
+        day: 5
+        hour: 6
+        minute: 30
+      close:
+        day: 5
+        hour: 19
+        minute: 0
+    - open:
+        day: 6
+        hour: 6
+        minute: 30
+      close:
+        day: 6
+        hour: 19
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 6:30 AM – 7:00 PM'
     - 'Tuesday: 6:30 AM – 7:00 PM'
     - 'Wednesday: 6:30 AM – 7:00 PM'
@@ -178,28 +226,109 @@ opening_hours:
     - 'Friday: 6:30 AM – 7:00 PM'
     - 'Saturday: 6:30 AM – 7:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 6:30 AM – 7:00 PM'
-    - 'Tuesday: 6:30 AM – 7:00 PM'
-    - 'Wednesday: 6:30 AM – 7:00 PM'
-    - 'Thursday: 6:30 AM – 7:00 PM'
-    - 'Friday: 6:30 AM – 7:00 PM'
-    - 'Saturday: 6:30 AM – 7:00 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-03T23:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 1
+          hour: 6
+          minute: 30
+        close:
+          day: 1
+          hour: 19
+          minute: 0
+      - open:
+          day: 2
+          hour: 6
+          minute: 30
+        close:
+          day: 2
+          hour: 19
+          minute: 0
+      - open:
+          day: 3
+          hour: 6
+          minute: 30
+        close:
+          day: 3
+          hour: 19
+          minute: 0
+      - open:
+          day: 4
+          hour: 6
+          minute: 30
+        close:
+          day: 4
+          hour: 19
+          minute: 0
+      - open:
+          day: 5
+          hour: 6
+          minute: 30
+        close:
+          day: 5
+          hour: 19
+          minute: 0
+      - open:
+          day: 6
+          hour: 6
+          minute: 30
+        close:
+          day: 6
+          hour: 19
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 6:30 AM – 7:00 PM'
+      - 'Tuesday: 6:30 AM – 7:00 PM'
+      - 'Wednesday: 6:30 AM – 7:00 PM'
+      - 'Thursday: 6:30 AM – 7:00 PM'
+      - 'Friday: 6:30 AM – 7:00 PM'
+      - 'Saturday: 6:30 AM – 7:00 PM'
+      - 'Sunday: Closed'
+    secondaryHoursType: BREAKFAST
+    nextCloseTime: '2025-05-03T23:00:00Z'
 phone: (336) 297-2288
 price_level: PRICE_LEVEL_INEXPENSIVE
 price_range: $10 &ndash; $20
 rating: '4.8'
-rating_count: 0
+rating_count: 516
 website: http://www.toshiscafe.com/
+description: >-
+  Discover Toshi's Cafe in Greensboro, NC$$$Toshi's Cafe in Greensboro, North
+  Carolina, stands out as a relaxed local spot blending everyday cafe comforts
+  with fresh Japanese-inspired dishes, making it a go-to for those seeking
+  quality sushi options nearby. This welcoming eatery features a menu that
+  includes flavorful coffee, light sandwiches, and refreshing smoothies,
+  alongside convenient take-out choices that cater to quick meals on the go.
+  With its accessible features like wheelchair-friendly entrances and seating,
+  the cafe ensures everyone can enjoy a comfortable visit. Operating from early
+  morning into the evening most days, it's ideal for breakfast, lunch, or a
+  casual dinner, drawing in locals with its cozy vibe and variety of snacks.
+generative_summary: >-
+  Discover Toshi's Cafe in Greensboro, NC$$$Toshi's Cafe in Greensboro, North
+  Carolina, stands out as a relaxed local spot blending everyday cafe comforts
+  with fresh Japanese-inspired dishes, making it a go-to for those seeking
+  quality sushi options nearby. This welcoming eatery features a menu that
+  includes flavorful coffee, light sandwiches, and refreshing smoothies,
+  alongside convenient take-out choices that cater to quick meals on the go.
+  With its accessible features like wheelchair-friendly entrances and seating,
+  the cafe ensures everyone can enjoy a comfortable visit. Operating from early
+  morning into the evening most days, it's ideal for breakfast, lunch, or a
+  casual dinner, drawing in locals with its cozy vibe and variety of snacks.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Recent Feedback$$$Folks often rave about the tasty sushi and
+  onigiri at this spot, noting how they pair perfectly with solid breakfast
+  picks and a solid cup of coffee for a satisfying meal. Many highlight the
+  friendly service and chill atmosphere that make it feel like a hidden gem for
+  grabbing Japanese-inspired snacks without the fuss. Visitors frequently
+  mention the unique touches like fun decor and entertainment options that add
+  to the overall experience, keeping things light and enjoyable. Overall, it's
+  praised as a reliable choice for groups or solo diners looking for affordable,
+  flavorful options that hit the spot every time.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +354,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

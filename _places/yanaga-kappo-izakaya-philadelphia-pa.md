@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yanaga Kappo Izakaya"
+title: Yanaga Kappo Izakaya
 permalink: /pennsylvania/philadelphia/yanaga-kappo-izakaya.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Philadelphia
 seo:
-  name: "Yanaga Kappo Izakaya"
-  type: Restaurant
+  type: restaurant
   links: https://www.ykisushi.com/
-description: "Yanaga Kappo Izakaya serves delicious sushi in Philadelphia, Pennsylvania. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ8WFysm3JxokROk0L9fMzvLI
 photos:
   - name: >-
@@ -166,7 +164,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c6c96db27261f1:0xb2bc33f3f50b4d3a!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 16
+        minute: 0
+      close:
+        day: 0
+        hour: 23
+        minute: 0
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 23
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 23
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 23
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 0
+      close:
+        day: 6
+        hour: 0
+        minute: 0
+    - open:
+        day: 6
+        hour: 16
+        minute: 0
+      close:
+        day: 0
+        hour: 0
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 5:00 – 11:00 PM'
     - 'Tuesday: Closed'
     - 'Wednesday: 4:00 – 11:00 PM'
@@ -174,28 +222,166 @@ opening_hours:
     - 'Friday: 4:00 PM – 12:00 AM'
     - 'Saturday: 4:00 PM – 12:00 AM'
     - 'Sunday: 4:00 – 11:00 PM'
-  current:
-    - 'Monday: 5:00 – 11:00 PM'
-    - 'Tuesday: Closed'
-    - 'Wednesday: 4:00 – 11:00 PM'
-    - 'Thursday: 4:00 – 11:00 PM'
-    - 'Friday: 4:00 PM – 12:00 AM'
-    - 'Saturday: 4:00 PM – 12:00 AM'
-    - 'Sunday: 4:00 – 11:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: false
+    periods:
+      - open:
+          day: 0
+          hour: 16
+          minute: 0
+        close:
+          day: 0
+          hour: 18
+          minute: 0
+      - open:
+          day: 3
+          hour: 16
+          minute: 0
+        close:
+          day: 3
+          hour: 18
+          minute: 0
+      - open:
+          day: 4
+          hour: 16
+          minute: 0
+        close:
+          day: 4
+          hour: 18
+          minute: 0
+      - open:
+          day: 5
+          hour: 16
+          minute: 0
+        close:
+          day: 5
+          hour: 18
+          minute: 0
+      - open:
+          day: 6
+          hour: 16
+          minute: 0
+        close:
+          day: 6
+          hour: 18
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: Closed'
+      - 'Tuesday: Closed'
+      - 'Wednesday: 4:00 – 6:00 PM'
+      - 'Thursday: 4:00 – 6:00 PM'
+      - 'Friday: 4:00 – 6:00 PM'
+      - 'Saturday: 4:00 – 6:00 PM'
+      - 'Sunday: 4:00 – 6:00 PM'
+    secondaryHoursType: HAPPY_HOUR
+    nextOpenTime: '2025-05-04T20:00:00Z'
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 16
+          minute: 0
+        close:
+          day: 0
+          hour: 22
+          minute: 0
+      - open:
+          day: 1
+          hour: 17
+          minute: 0
+        close:
+          day: 1
+          hour: 22
+          minute: 0
+      - open:
+          day: 3
+          hour: 16
+          minute: 0
+        close:
+          day: 3
+          hour: 22
+          minute: 0
+      - open:
+          day: 4
+          hour: 16
+          minute: 0
+        close:
+          day: 4
+          hour: 22
+          minute: 0
+      - open:
+          day: 5
+          hour: 16
+          minute: 0
+        close:
+          day: 5
+          hour: 22
+          minute: 30
+      - open:
+          day: 6
+          hour: 16
+          minute: 0
+        close:
+          day: 6
+          hour: 22
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 5:00 – 10:00 PM'
+      - 'Tuesday: Closed'
+      - 'Wednesday: 4:00 – 10:00 PM'
+      - 'Thursday: 4:00 – 10:00 PM'
+      - 'Friday: 4:00 – 10:30 PM'
+      - 'Saturday: 4:00 – 10:30 PM'
+      - 'Sunday: 4:00 – 10:00 PM'
+    secondaryHoursType: KITCHEN
+    nextCloseTime: '2025-05-04T02:30:00Z'
 phone: (215) 305-4130
 price_level: PRICE_LEVEL_MODERATE
 price_range: $30 &ndash; $50
 rating: '4.8'
-rating_count: 0
+rating_count: 105
 website: https://www.ykisushi.com/
+description: >-
+  Discover Yanaga Kappo Izakaya in Philadelphia$$$Yanaga Kappo Izakaya in
+  Philadelphia, PA, stands out as a welcoming Japanese izakaya that blends
+  casual vibes with an array of flavorful small plates and beverages. This spot
+  offers a relaxed atmosphere perfect for enjoying fresh, inventive dishes that
+  highlight traditional Japanese flavors, including options like sushi and sake
+  that appeal to those exploring local dining gems. With its focus on quality
+  ingredients and creative presentations, it's an ideal choice for anyone
+  seeking top-rated Japanese places near the city center. The restaurant's
+  approachable setting makes it easy to savor cocktails alongside light bites,
+  creating a memorable experience for casual diners. Evening hours add to its
+  charm, providing a go-to option for those hunting for sushi restaurants in the
+  area.
+generative_summary: >-
+  Discover Yanaga Kappo Izakaya in Philadelphia$$$Yanaga Kappo Izakaya in
+  Philadelphia, PA, stands out as a welcoming Japanese izakaya that blends
+  casual vibes with an array of flavorful small plates and beverages. This spot
+  offers a relaxed atmosphere perfect for enjoying fresh, inventive dishes that
+  highlight traditional Japanese flavors, including options like sushi and sake
+  that appeal to those exploring local dining gems. With its focus on quality
+  ingredients and creative presentations, it's an ideal choice for anyone
+  seeking top-rated Japanese places near the city center. The restaurant's
+  approachable setting makes it easy to savor cocktails alongside light bites,
+  creating a memorable experience for casual diners. Evening hours add to its
+  charm, providing a go-to option for those hunting for sushi restaurants in the
+  area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying About This Spot$$$Visitors often praise the tasty
+  appetizers like shrimp nachos and spicy tuna crispy rice, noting how they
+  bring a fresh twist to classic flavors that keep things exciting. The staff
+  comes across as warm and attentive, helping to make every meal feel welcoming
+  without overwhelming the experience. Many appreciate the reasonable pricing,
+  which offers great value for the quality of food and atmosphere, making it a
+  smart pick for groups or date nights. The overall vibe is described as fun and
+  modern, drawing in those who enjoy a lively yet relaxed setting for Japanese
+  dining. All in all, it's a solid choice for anyone craving reliable, enjoyable
+  eats at a sushi place near you.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -221,7 +407,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

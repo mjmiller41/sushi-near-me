@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Mon Roll House Sushi"
+title: Mon Roll House Sushi
 permalink: /california/santa-monica/mon-roll-house-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Santa Monica
 seo:
-  name: "Mon Roll House Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://order.online/business/mon-roll-house-13588879
-description: "Mon Roll House Sushi serves delicious sushi in Santa Monica, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJk77W7tGkwoARhDXtWiGXtJg
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c2a4d1eed6be93:0x98b497215aed3584!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 12
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 12
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 12
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 12
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 12
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 12:00 – 9:00 PM'
     - 'Tuesday: 12:00 – 9:00 PM'
     - 'Wednesday: 12:00 – 9:00 PM'
@@ -178,54 +234,417 @@ opening_hours:
     - 'Friday: 12:00 – 10:00 PM'
     - 'Saturday: 12:00 – 10:00 PM'
     - 'Sunday: 12:00 – 9:00 PM'
-  current:
-    - 'Monday: 12:00 – 9:00 PM'
-    - 'Tuesday: 12:00 – 9:00 PM'
-    - 'Wednesday: 12:00 – 9:00 PM'
-    - 'Thursday: 12:00 – 9:00 PM'
-    - 'Friday: 12:00 – 10:00 PM'
-    - 'Saturday: 12:00 – 10:00 PM'
-    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T05:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 0
+        close:
+          day: 0
+          hour: 21
+          minute: 0
+      - open:
+          day: 1
+          hour: 12
+          minute: 0
+        close:
+          day: 1
+          hour: 20
+          minute: 30
+      - open:
+          day: 2
+          hour: 12
+          minute: 0
+        close:
+          day: 2
+          hour: 20
+          minute: 30
+      - open:
+          day: 3
+          hour: 12
+          minute: 0
+        close:
+          day: 3
+          hour: 20
+          minute: 30
+      - open:
+          day: 4
+          hour: 12
+          minute: 0
+        close:
+          day: 4
+          hour: 20
+          minute: 30
+      - open:
+          day: 5
+          hour: 12
+          minute: 0
+        close:
+          day: 5
+          hour: 21
+          minute: 0
+      - open:
+          day: 6
+          hour: 12
+          minute: 0
+        close:
+          day: 6
+          hour: 21
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 12:00 – 8:30 PM'
+      - 'Tuesday: 12:00 – 8:30 PM'
+      - 'Wednesday: 12:00 – 8:30 PM'
+      - 'Thursday: 12:00 – 8:30 PM'
+      - 'Friday: 12:00 – 9:00 PM'
+      - 'Saturday: 12:00 – 9:00 PM'
+      - 'Sunday: 12:00 – 9:00 PM'
+    secondaryHoursType: DELIVERY
+    nextCloseTime: '2025-05-04T04:00:00Z'
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 0
+        close:
+          day: 0
+          hour: 20
+          minute: 30
+      - open:
+          day: 1
+          hour: 12
+          minute: 0
+        close:
+          day: 1
+          hour: 20
+          minute: 30
+      - open:
+          day: 2
+          hour: 12
+          minute: 0
+        close:
+          day: 2
+          hour: 20
+          minute: 30
+      - open:
+          day: 3
+          hour: 12
+          minute: 0
+        close:
+          day: 3
+          hour: 20
+          minute: 30
+      - open:
+          day: 4
+          hour: 12
+          minute: 0
+        close:
+          day: 4
+          hour: 20
+          minute: 30
+      - open:
+          day: 5
+          hour: 12
+          minute: 0
+        close:
+          day: 5
+          hour: 21
+          minute: 30
+      - open:
+          day: 6
+          hour: 12
+          minute: 0
+        close:
+          day: 6
+          hour: 21
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 12:00 – 8:30 PM'
+      - 'Tuesday: 12:00 – 8:30 PM'
+      - 'Wednesday: 12:00 – 8:30 PM'
+      - 'Thursday: 12:00 – 8:30 PM'
+      - 'Friday: 12:00 – 9:30 PM'
+      - 'Saturday: 12:00 – 9:30 PM'
+      - 'Sunday: 12:00 – 8:30 PM'
+    secondaryHoursType: TAKEOUT
+    nextCloseTime: '2025-05-04T04:30:00Z'
 phone: (310) 394-3956
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.5'
-rating_count: 0
+rating_count: 407
 website: https://order.online/business/mon-roll-house-13588879
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Mon Roll House Sushi in Santa Monica, CA$$$Mon Roll House Sushi in
+  Santa Monica, CA, delivers a casual yet inviting vibe perfect for enjoying
+  fresh sushi and Japanese-inspired dishes in a modern setting. This spot stands
+  out with its array of creative rolls, flavorful appetizers, and specials that
+  highlight seasonal ingredients, making it a go-to choice for sushi enthusiasts
+  seeking variety. Accessibility features like wheelchair-friendly entrances and
+  seating ensure a welcoming experience for all visitors, while outdoor options
+  add to the relaxed atmosphere. Open daily with extended hours on weekends, it
+  caters to those looking for a convenient meal, including budget-friendly happy
+  hour deals that enhance its appeal as one of the top sushi restaurants in the
+  area.
+generative_summary: >-
+  Discover Mon Roll House Sushi in Santa Monica, CA$$$Mon Roll House Sushi in
+  Santa Monica, CA, delivers a casual yet inviting vibe perfect for enjoying
+  fresh sushi and Japanese-inspired dishes in a modern setting. This spot stands
+  out with its array of creative rolls, flavorful appetizers, and specials that
+  highlight seasonal ingredients, making it a go-to choice for sushi enthusiasts
+  seeking variety. Accessibility features like wheelchair-friendly entrances and
+  seating ensure a welcoming experience for all visitors, while outdoor options
+  add to the relaxed atmosphere. Open daily with extended hours on weekends, it
+  caters to those looking for a convenient meal, including budget-friendly happy
+  hour deals that enhance its appeal as one of the top sushi restaurants in the
+  area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJk77W7tGkwoARhDXtWiGXtJg/reviews/ChdDSUhNMG9nS0VJQ0FnSURmd3Bqam5nRRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        Absolutely delicious! Went on a Saturday for lunch and ordered some
+        sashimi and rolls. Extremely delicious and was pleased with everything
+        we ordered. The Swiss roll was one of our favourites, recommended by our
+        waitress.
+
+        Even the gentleman at the store down the way had said it was a good
+        choice for us to try as a local restaurant.
+
+        Thank you to our waitress and the amazing sushi masters for our meal.
+      languageCode: en
+    originalText:
+      text: >-
+        Absolutely delicious! Went on a Saturday for lunch and ordered some
+        sashimi and rolls. Extremely delicious and was pleased with everything
+        we ordered. The Swiss roll was one of our favourites, recommended by our
+        waitress.
+
+        Even the gentleman at the store down the way had said it was a good
+        choice for us to try as a local restaurant.
+
+        Thank you to our waitress and the amazing sushi masters for our meal.
+      languageCode: en
+    authorAttribution:
+      displayName: David Maurice
+      uri: https://www.google.com/maps/contrib/111484766581541762757/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVbQi9b3WqGH6kKGWp2PjHOr74GfQ3OjObdT5D2WN2k3DItj2c=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-01-04T23:23:08.541169Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURmd3Bqam5nRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURmd3Bqam5nRRAB!2m1!1s0x80c2a4d1eed6be93:0x98b497215aed3584
+  - name: >-
+      places/ChIJk77W7tGkwoARhDXtWiGXtJg/reviews/ChdDSUhNMG9nS0VJQ0FnSUNmdHVxR3hnRRAB
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        Fantastic!!   My family (2 teens included) all LOVED every bite.  We all
+        said it’s the best sushi we had.  Loved all the fancy warm rolls. The
+        candy roll was incredible, sweet and spicy.   Service was very fast and
+        super friendly.  So happy we choose this place!
+      languageCode: en
+    originalText:
+      text: >-
+        Fantastic!!   My family (2 teens included) all LOVED every bite.  We all
+        said it’s the best sushi we had.  Loved all the fancy warm rolls. The
+        candy roll was incredible, sweet and spicy.   Service was very fast and
+        super friendly.  So happy we choose this place!
+      languageCode: en
+    authorAttribution:
+      displayName: Megan Fass
+      uri: https://www.google.com/maps/contrib/104495297025305248531/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXt511gdo4tCbPIrLPc4lXgn7mL-OacSeKSaUMmSwb5Csr6eDPL9A=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-12-28T21:55:21.650316Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNmdHVxR3hnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNmdHVxR3hnRRAB!2m1!1s0x80c2a4d1eed6be93:0x98b497215aed3584
+  - name: >-
+      places/ChIJk77W7tGkwoARhDXtWiGXtJg/reviews/ChdDSUhNMG9nS0VJQ0FnTURJdGNMWDFRRRAB
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        The food was delicious! We highly recommend:
+
+
+        -Maui-Maui Roll
+
+        -Rainbow Dragon Roll
+
+        -Langostino Lobster Roll
+
+        -Paradise Roll
+
+        -Exotic Roll
+
+        -Pink Lady
+
+
+        Also, the amount of sauce on the rolls was perfect; not too much, not
+        too little - juuust right!
+
+
+        Give Mon Roll House Sushi a try - I would be surprised if you didn't
+        like it!
+      languageCode: en
+    originalText:
+      text: >-
+        The food was delicious! We highly recommend:
+
+
+        -Maui-Maui Roll
+
+        -Rainbow Dragon Roll
+
+        -Langostino Lobster Roll
+
+        -Paradise Roll
+
+        -Exotic Roll
+
+        -Pink Lady
+
+
+        Also, the amount of sauce on the rolls was perfect; not too much, not
+        too little - juuust right!
+
+
+        Give Mon Roll House Sushi a try - I would be surprised if you didn't
+        like it!
+      languageCode: en
+    authorAttribution:
+      displayName: Spencer Creed
+      uri: https://www.google.com/maps/contrib/116403809583210116760/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVgFbVcHdfVp5CsM6h5He8Ip7zKSKSruhTLcjG-KDjb20LdfyYA=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-04-13T00:08:02.105474Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJdGNMWDFRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJdGNMWDFRRRAB!2m1!1s0x80c2a4d1eed6be93:0x98b497215aed3584
+  - name: >-
+      places/ChIJk77W7tGkwoARhDXtWiGXtJg/reviews/ChZDSUhNMG9nS0VJQ0FnSUNmNC1MblZ3EAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        We had miso soup, gyozas, dragon roll and (…) kiss roll. Soup is great,
+        gyozas are a 6 and dragon roll was our favorite. Happy 2025!!
+      languageCode: en
+    originalText:
+      text: >-
+        We had miso soup, gyozas, dragon roll and (…) kiss roll. Soup is great,
+        gyozas are a 6 and dragon roll was our favorite. Happy 2025!!
+      languageCode: en
+    authorAttribution:
+      displayName: Antonio Artacho
+      uri: https://www.google.com/maps/contrib/104417732519276182497/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUNhWyrjcqaVmgTIaJUHpfsXYfTJ1gA9INdoE94HEQLw_Jciyrxtw=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-01-01T06:27:55.420421Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNmNC1MblZ3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNmNC1MblZ3EAE!2m1!1s0x80c2a4d1eed6be93:0x98b497215aed3584
+  - name: >-
+      places/ChIJk77W7tGkwoARhDXtWiGXtJg/reviews/ChdDSUhNMG9nS0VJQ0FnSUNMcWMyZzlBRRAB
+    relativePublishTimeDescription: 10 months ago
+    rating: 5
+    text:
+      text: >-
+        I recently visited Mon Roll House Sushi and had an absolutely amazing
+        experience. From the moment we walked in, the staff was incredibly
+        friendly and attentive. They went above and beyond to make our visit
+        special, surprising my family member with a delightful birthday
+        celebration that included a beautifully presented dessert and a
+        heartfelt song. The sushi was phenomenal – fresh, expertly crafted, and
+        bursting with flavor. Each bite was a testament to the chefs' skill and
+        dedication. I highly recommend them for anyone looking for a memorable
+        dining experience. We will definitely be returning!
+      languageCode: en
+    originalText:
+      text: >-
+        I recently visited Mon Roll House Sushi and had an absolutely amazing
+        experience. From the moment we walked in, the staff was incredibly
+        friendly and attentive. They went above and beyond to make our visit
+        special, surprising my family member with a delightful birthday
+        celebration that included a beautifully presented dessert and a
+        heartfelt song. The sushi was phenomenal – fresh, expertly crafted, and
+        bursting with flavor. Each bite was a testament to the chefs' skill and
+        dedication. I highly recommend them for anyone looking for a memorable
+        dining experience. We will definitely be returning!
+      languageCode: en
+    authorAttribution:
+      displayName: Mohammad Sheikhshoaei
+      uri: https://www.google.com/maps/contrib/115955168196458033540/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKDhyiab7g_L6ClAUZqtvoQsBxBN24ls7IneK3dncT_MFoIVBI=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-06-20T23:35:36.274193Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNMcWMyZzlBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNMcWMyZzlBRRAB!2m1!1s0x80c2a4d1eed6be93:0x98b497215aed3584
+review_summary: >-
+  What Visitors Are Saying About This Sushi Spot$$$Folks rave about the fresh
+  and creative rolls at this laid-back eatery, often highlighting the perfect
+  balance of flavors and generous portions that leave everyone satisfied. Many
+  appreciate the quick, friendly service that makes dining out feel effortless
+  and enjoyable, especially for families or groups stopping by for lunch or
+  dinner. Reviewers frequently mention standout dishes like specialty rolls with
+  just the right amount of sauce, adding to the overall excitement of the meal
+  without overwhelming the taste. While experiences are generally positive, some
+  note that the variety keeps things exciting for repeat visits, making it a
+  solid pick for anyone craving reliable sushi options nearby. Overall, it's
+  clear this place hits the mark for quality and vibe, earning it high marks as
+  a favorite in the community.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeGarageParking: true
+  paidGarageParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
+delivery: true
+dine_in: true
+good_for_children: true
 good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
+good_for_sports: false
+live_music: false
+menu_for_children: true
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
 serves_brunch: null
 serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Cozy, modern dining room with contemporary Japanese soups, appetizers, sashimi
+  & rolls.
 
 ---

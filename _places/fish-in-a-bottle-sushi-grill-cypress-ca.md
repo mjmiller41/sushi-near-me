@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Fish In A Bottle Sushi & Grill"
+title: Fish In A Bottle Sushi & Grill
 permalink: /california/cypress/fish-in-a-bottle-sushi-grill.html
 stateAbbr: CA
 stateName: California
 cityName: Cypress
 seo:
-  name: "Fish In A Bottle Sushi & Grill"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Fish In A Bottle Sushi & Grill serves delicious sushi in Cypress, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJj29Y2bcu3YAR8Y6p_ffewIY
 photos:
   - name: >-
@@ -185,7 +183,43 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Fish In A Bottle Sushi & Grill in Cypress, CA$$$Fish In A Bottle
+  Sushi & Grill in Cypress, California, stands out as a casual destination for
+  those craving authentic Japanese flavors and fresh seafood options. This sushi
+  spot offers an inviting atmosphere perfect for enjoying happy hour specials,
+  along with a selection of sake, beer, and wine to complement your meal.
+  Patrons can explore a variety of creative rolls and grilled dishes that
+  highlight high-quality ingredients in a relaxed setting. The restaurant's
+  accessibility features make it easy for everyone to enjoy, adding to its
+  appeal as a go-to choice for sushi lovers searching for reliable dining
+  experiences nearby.
+generative_summary: >-
+  Discover Fish In A Bottle Sushi & Grill in Cypress, CA$$$Fish In A Bottle
+  Sushi & Grill in Cypress, California, stands out as a casual destination for
+  those craving authentic Japanese flavors and fresh seafood options. This sushi
+  spot offers an inviting atmosphere perfect for enjoying happy hour specials,
+  along with a selection of sake, beer, and wine to complement your meal.
+  Patrons can explore a variety of creative rolls and grilled dishes that
+  highlight high-quality ingredients in a relaxed setting. The restaurant's
+  accessibility features make it easy for everyone to enjoy, adding to its
+  appeal as a go-to choice for sushi lovers searching for reliable dining
+  experiences nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About This Sushi Spot$$$Feedback from diners at this
+  sushi restaurant often highlights the fresh, flavorful rolls and generous
+  portions that make it a solid pick for everyday meals. Many appreciate the
+  value during happy hour, with comments praising the variety of drinks and
+  affordable options that enhance the overall experience. Visitors frequently
+  note the welcoming vibe and efficient service, making it a great spot for
+  casual get-togethers or quick solo visits. While some mention minor waits
+  during peak times, the general consensus leans positive, positioning it as a
+  reliable choice for those exploring top-rated Japanese places in the area.
+  Overall, it's recommended for anyone seeking quality sushi without the fuss,
+  keeping things light and enjoyable for repeat visits.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +245,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

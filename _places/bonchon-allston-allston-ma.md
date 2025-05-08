@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Bonchon Allston"
+title: Bonchon Allston
 permalink: /massachusetts/allston/bonchon-allston.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Allston
 seo:
-  name: "Bonchon Allston"
-  type: Restaurant
-  links: https://www.bonchon.com/locations/ll/us/ma/boston/123-brighton-avenue
-description: "Bonchon Allston serves delicious sushi in Allston, Massachusetts. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://locations.bonchon.com/ll/US/MA/Boston/123-Brighton-Avenue
 place_id: ChIJE1yxCcV544kRT4VT4R6rHzM
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89e379c509b15c13:0x331fab1ee153854f!10e5
 primary_type: Asian Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 10:00 PM'
     - 'Tuesday: 11:00 AM – 10:00 PM'
     - 'Wednesday: 11:00 AM – 10:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 11:00 PM'
     - 'Saturday: 11:00 AM – 11:00 PM'
     - 'Sunday: 11:00 AM – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 10:00 PM'
-    - 'Tuesday: 11:00 AM – 10:00 PM'
-    - 'Wednesday: 11:00 AM – 10:00 PM'
-    - 'Thursday: 11:00 AM – 10:00 PM'
-    - 'Friday: 11:00 AM – 11:00 PM'
-    - 'Saturday: 11:00 AM – 11:00 PM'
-    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +246,48 @@ phone: (617) 254-8888
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.3'
-rating_count: 0
-website: https://www.bonchon.com/locations/ll/us/ma/boston/123-brighton-avenue
+rating_count: 1540
+website: https://locations.bonchon.com/ll/US/MA/Boston/123-Brighton-Avenue
+description: >-
+  About Bonchon Allston in Allston, MA$$$Bonchon Allston in Allston, MA, stands
+  out as a popular Asian fusion spot known for its flavorful Korean fried
+  chicken and a variety of creative dishes that blend traditional and modern
+  tastes. This lively restaurant offers an array of options like crispy wings
+  with soy ginger and spicy glazes, alongside hearty bowls and fusion favorites
+  that appeal to those exploring Asian cuisine nearby. With accessible entrances
+  and seating designed for comfort, it's an inviting choice for casual diners
+  seeking a mix of bold flavors in a welcoming setting. The moderate pricing and
+  extended hours make it easy to enjoy a satisfying meal, whether you're
+  grabbing takeout or dining in. For fans of diverse Asian eats close to home,
+  this spot delivers a fresh take on familiar comforts, perfect for a flavorful
+  outing.
+generative_summary: >-
+  About Bonchon Allston in Allston, MA$$$Bonchon Allston in Allston, MA, stands
+  out as a popular Asian fusion spot known for its flavorful Korean fried
+  chicken and a variety of creative dishes that blend traditional and modern
+  tastes. This lively restaurant offers an array of options like crispy wings
+  with soy ginger and spicy glazes, alongside hearty bowls and fusion favorites
+  that appeal to those exploring Asian cuisine nearby. With accessible entrances
+  and seating designed for comfort, it's an inviting choice for casual diners
+  seeking a mix of bold flavors in a welcoming setting. The moderate pricing and
+  extended hours make it easy to enjoy a satisfying meal, whether you're
+  grabbing takeout or dining in. For fans of diverse Asian eats close to home,
+  this spot delivers a fresh take on familiar comforts, perfect for a flavorful
+  outing.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Customer Feedback$$$Folks often highlight the mouthwatering
+  crispy chicken and wings at this Asian fusion joint, praising the tasty soy
+  ginger and spicy options that really hit the spot. Many appreciate the
+  well-balanced bao buns, noting their ideal mix of sauces and toppings for a
+  delightful bite. While some mention that service could use a bit more polish
+  on busier days, the overall vibe and food quality keep things enjoyable and
+  worth returning for. It's a solid pick for anyone craving bold flavors in a
+  relaxed atmosphere, making it a go-to for groups or solo diners. If you're on
+  the hunt for reliable Asian dishes nearby, this place generally delivers a
+  satisfying experience with its standout menu items.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +313,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

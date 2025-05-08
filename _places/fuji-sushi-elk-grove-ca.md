@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Fuji | Sushi"
+title: Fuji | Sushi
 permalink: /california/elk-grove/fuji-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Elk Grove
 seo:
-  name: "Fuji | Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Fuji | Sushi serves delicious sushi in Elk Grove, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ121geg3HmoARTXusjRNYz_I
 photos:
   - name: >-
@@ -185,7 +183,44 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Fuji | Sushi in Elk Grove, CA$$$Fuji | Sushi in Elk Grove, CA, stands
+  out as a casual dining destination where fresh sushi and Chinese dishes come
+  together in an inviting, all-you-can-eat format. This spot delights visitors
+  with its array of flavorful rolls, sashimi, and other Asian-inspired fare,
+  making it a go-to choice for those seeking top-rated sushi options nearby. The
+  busy atmosphere adds to the lively vibe, perfect for enjoying a meal with
+  friends or family after a day out. Accessibility features like
+  wheelchair-friendly entrances and seating ensure everyone can savor the
+  experience comfortably. Whether you're exploring sushi places near me or
+  craving authentic Japanese-inspired cuisine, this restaurant offers a
+  satisfying blend of quality and variety.
+generative_summary: >-
+  Discover Fuji | Sushi in Elk Grove, CA$$$Fuji | Sushi in Elk Grove, CA, stands
+  out as a casual dining destination where fresh sushi and Chinese dishes come
+  together in an inviting, all-you-can-eat format. This spot delights visitors
+  with its array of flavorful rolls, sashimi, and other Asian-inspired fare,
+  making it a go-to choice for those seeking top-rated sushi options nearby. The
+  busy atmosphere adds to the lively vibe, perfect for enjoying a meal with
+  friends or family after a day out. Accessibility features like
+  wheelchair-friendly entrances and seating ensure everyone can savor the
+  experience comfortably. Whether you're exploring sushi places near me or
+  craving authentic Japanese-inspired cuisine, this restaurant offers a
+  satisfying blend of quality and variety.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback on Fuji | Sushi$$$Folks often rave about the wide selection
+  of sushi rolls and fresh fish at this spot, making it a solid pick for anyone
+  hunting for reliable sushi restaurants in the area. Many appreciate the
+  welcoming staff and the laid-back, family-oriented setting that keeps things
+  fun and approachable for all ages. It's easy to see why diners enjoy the
+  overall vibe, with highlights on the tasty cooked options that add extra
+  variety to the menu. While some note that prices can add up, the value from
+  the fresh ingredients and attentive service tends to win out for a satisfying
+  meal. If you're on the hunt for the best sushi near me, this place delivers a
+  generally positive experience that's worth checking out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +246,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

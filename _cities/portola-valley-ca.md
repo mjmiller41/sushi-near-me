@@ -5,4 +5,5 @@ permalink: /california/portola-valley/
 stateAbbr: CA
 stateName: California
 cityName: Portola Valley
+
 ---

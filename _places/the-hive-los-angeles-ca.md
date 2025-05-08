@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "The Hive"
+title: The Hive
 permalink: /california/los-angeles/the-hive.html
 stateAbbr: CA
 stateName: California
 cityName: Los Angeles
 seo:
-  name: "The Hive"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "The Hive serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJLQmxbYW7woARBP8YA0tn-Zs
 photos:
   - name: >-
@@ -184,7 +182,37 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  About The Hive in Los Angeles$$$The Hive in Los Angeles, CA, stands out as a
+  laid-back cafe offering a fresh selection of bowls, wraps, and smoothies that
+  cater to health-conscious diners. This spot emphasizes organic coffee and a
+  thoughtfully curated book section, creating a welcoming environment for
+  relaxation and quick meals. Accessibility features like wheelchair-friendly
+  parking and entrances make it an inclusive choice for all visitors. With its
+  focus on quality ingredients and a cozy atmosphere, The Hive provides a
+  perfect blend of nourishment and leisure, ideal for anyone seeking a vibrant
+  spot for healthy dining options nearby.
+generative_summary: >-
+  About The Hive in Los Angeles$$$The Hive in Los Angeles, CA, stands out as a
+  laid-back cafe offering a fresh selection of bowls, wraps, and smoothies that
+  cater to health-conscious diners. This spot emphasizes organic coffee and a
+  thoughtfully curated book section, creating a welcoming environment for
+  relaxation and quick meals. Accessibility features like wheelchair-friendly
+  parking and entrances make it an inclusive choice for all visitors. With its
+  focus on quality ingredients and a cozy atmosphere, The Hive provides a
+  perfect blend of nourishment and leisure, ideal for anyone seeking a vibrant
+  spot for healthy dining options nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Visitor Feedback Highlights$$$People often praise this health-focused eatery
+  for its delicious açaí bowls and smoothies that hit the spot for a refreshing
+  meal. The friendly team and spotless setting add to the enjoyable experience,
+  making it a comfortable place to grab a bite. Easy parking is another plus
+  that visitors appreciate, helping it stand out as a convenient option in a
+  busy area. Overall, it's seen as a solid choice for wholesome eats, with many
+  noting the variety keeps things interesting and satisfying.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +238,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

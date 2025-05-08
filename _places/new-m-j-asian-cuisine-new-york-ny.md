@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "New M & J Asian Cuisine"
+title: New M & J Asian Cuisine
 permalink: /new-york/new-york/new-m-j-asian-cuisine.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "New M & J Asian Cuisine"
-  type: Restaurant
+  type: restaurant
   links: http://www.mjasiancuisinenyc.com/?utm_source=gmb&utm_medium=website
-description: "New M & J Asian Cuisine serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJOUilh8xZwokRxw3WBcGT0pk
 photos:
   - name: >-
@@ -183,6 +181,29 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 0
 website: http://www.mjasiancuisinenyc.com/?utm_source=gmb&utm_medium=website
+description: >-
+  Discover New M & J Asian Cuisine in New York, NY$$$New M & J Asian Cuisine in
+  New York, NY, stands out as a welcoming Asian eatery serving fresh sushi and
+  flavorful Chinese dishes that appeal to a variety of palates. This spot
+  features a menu with bento boxes and convenient takeout and delivery options,
+  making it an ideal choice for those searching for reliable sushi restaurants
+  in the area. The moderate pricing ensures great value without sacrificing
+  quality, complemented by accessible entrances for a comfortable visit. Patrons
+  enjoy the straightforward ambiance, perfect for quick lunches or casual
+  dinners, positioning it as one of the top-rated options for Japanese-inspired
+  meals nearby.
+generative_summary: >-
+  Discover New M & J Asian Cuisine in New York, NY$$$New M & J Asian Cuisine in
+  New York, NY, stands out as a welcoming Asian eatery serving fresh sushi and
+  flavorful Chinese dishes that appeal to a variety of palates. This spot
+  features a menu with bento boxes and convenient takeout and delivery options,
+  making it an ideal choice for those searching for reliable sushi restaurants
+  in the area. The moderate pricing ensures great value without sacrificing
+  quality, complemented by accessible entrances for a comfortable visit. Patrons
+  enjoy the straightforward ambiance, perfect for quick lunches or casual
+  dinners, positioning it as one of the top-rated options for Japanese-inspired
+  meals nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJOUilh8xZwokRxw3WBcGT0pk/reviews/ChZDSUhNMG9nS0VJQ0FnSURfZ2NQV01BEAE
@@ -344,6 +365,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNuNnZDTld3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNuNnZDTld3EAE!2m1!1s0x89c259cc87a54839:0x99d293c105d60dc7
+review_summary: >-
+  What Customers Are Saying$$$Visitors frequently praise the high-quality sushi
+  and tasty Chinese specials that deliver on flavor and freshness without
+  breaking the bank. Many note the attentive service and generous portions that
+  make meals feel satisfying and worthwhile, especially during lunch hours.
+  Folks appreciate the overall value, particularly in a busy city setting, where
+  affordable options like these stand out for their reliability. While some
+  mention minor mix-ups that were quickly resolved, the general consensus is
+  that it's a solid pick for both dine-in and takeout experiences. All in all,
+  it's a go-to spot for anyone craving dependable Asian fare with a positive
+  vibe.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options:
   acceptsCreditCards: true
@@ -373,7 +406,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: null
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

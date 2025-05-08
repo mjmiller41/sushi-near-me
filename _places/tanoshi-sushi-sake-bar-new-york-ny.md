@@ -1,15 +1,14 @@
 ---
 layout: place
-title: "Tanoshi Sushi Sake Bar"
+title: Tanoshi Sushi Sake Bar
 permalink: /new-york/new-york/tanoshi-sushi-sake-bar.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "Tanoshi Sushi Sake Bar"
-  type: Restaurant
-  links: http://tanoshisushinyc.com/?y_source=1_MjIzNzEyNzYtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D
-description: "Small, low-key Japanese pick offering high-quality omakase meals & a BYO policy. Tanoshi Sushi Sake Bar serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
+  type: restaurant
+  links: >-
+    http://tanoshisushinyc.com/?y_source=1_MjIzNzEyNzYtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D
 place_id: ChIJd35w0MZYwokR7LgKqfX4tXM
 photos:
   - name: >-
@@ -185,6 +184,33 @@ rating: '4.7'
 rating_count: 0
 website: >-
   http://tanoshisushinyc.com/?y_source=1_MjIzNzEyNzYtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D
+description: >-
+  Discover Tanoshi Sushi in New York, NY$$$Tanoshi Sushi Sake Bar in New York,
+  NY, stands out as a cozy Japanese spot dedicated to delivering high-quality
+  omakase experiences, where fresh ingredients and traditional techniques take
+  center stage. This intimate sushi restaurant offers a straightforward ambiance
+  focused on the art of sushi preparation, including a bring-your-own-beverage
+  policy that adds a personal touch to meals. Patrons can enjoy meticulously
+  crafted dishes in a setting that's accessible and welcoming, with options like
+  wheelchair-friendly entrances enhancing the overall visit. For those seeking
+  top sushi restaurants in the area, this location provides an authentic taste
+  of Japanese cuisine that's both refined and unpretentious. Whether you're
+  exploring sushi places near me or looking for a relaxed dining option, Tanoshi
+  combines quality and simplicity for a memorable meal.
+generative_summary: >-
+  Discover Tanoshi Sushi in New York, NY$$$Tanoshi Sushi Sake Bar in New York,
+  NY, stands out as a cozy Japanese spot dedicated to delivering high-quality
+  omakase experiences, where fresh ingredients and traditional techniques take
+  center stage. This intimate sushi restaurant offers a straightforward ambiance
+  focused on the art of sushi preparation, including a bring-your-own-beverage
+  policy that adds a personal touch to meals. Patrons can enjoy meticulously
+  crafted dishes in a setting that's accessible and welcoming, with options like
+  wheelchair-friendly entrances enhancing the overall visit. For those seeking
+  top sushi restaurants in the area, this location provides an authentic taste
+  of Japanese cuisine that's both refined and unpretentious. Whether you're
+  exploring sushi places near me or looking for a relaxed dining option, Tanoshi
+  combines quality and simplicity for a memorable meal.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJd35w0MZYwokR7LgKqfX4tXM/reviews/ChdDSUhNMG9nS0VJQ0FnSURfMWRiTnZBRRAB
@@ -460,6 +486,21 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNJNzhYUmFnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNJNzhYUmFnEAE!2m1!1s0x89c258c6d0707e77:0x73b5f8f5a90ab8ec
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this sushi spot often rave about the
+  exceptional omakase offerings, highlighting the fresh flavors and skillful
+  preparation that make every bite feel special and authentic. While some folks
+  mention occasional inconsistencies like seating comfort or service hiccups,
+  the overall vibe remains enjoyable and laid-back, with many appreciating the
+  focus on quality ingredients and a casual atmosphere. It's clear that the
+  majority find it a great pick for a genuine Japanese dining experience,
+  especially for groups or solo adventurers craving something unique in the
+  city. Even with a few mixed opinions on details like ambiance, the positive
+  feedback on taste and value keeps the energy upbeat, making it a solid choice
+  if you're hunting for reliable sushi restaurants nearby. All in all, this
+  place delivers a fun, flavorful escape that leaves most people eager to return
+  for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: false
   paidStreetParking: true
@@ -490,8 +531,8 @@ serves_lunch: true
 serves_vegetarian_food: false
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Small, low-key Japanese pick offering high-quality omakase meals & a BYO
   policy.
 

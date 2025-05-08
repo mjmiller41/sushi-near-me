@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Takara Sushi"
+title: Takara Sushi
 permalink: /utah/logan/takara-sushi.html
 stateAbbr: UT
 stateName: Utah
 cityName: Logan
 seo:
-  name: "Takara Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.takarasushilogan.com/
-description: "Takara Sushi serves delicious sushi in Logan, Utah. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ1ZmI0ud9VIcRE77oTw3adB4
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x87547de7d28899d5:0x1e74da0d4fe8be13!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:30 PM'
     - 'Tuesday: 11:00 AM – 9:30 PM'
     - 'Wednesday: 11:00 AM – 9:30 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:00 PM'
     - 'Saturday: 12:00 – 9:30 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:00 AM – 9:30 PM'
-    - 'Tuesday: 11:00 AM – 9:30 PM'
-    - 'Wednesday: 11:00 AM – 9:30 PM'
-    - 'Thursday: 11:00 AM – 9:30 PM'
-    - 'Friday: 11:00 AM – 10:00 PM'
-    - 'Saturday: 12:00 – 9:30 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T03:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +238,288 @@ phone: (435) 752-1677
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.6'
-rating_count: 0
+rating_count: 1303
 website: https://www.takarasushilogan.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Explore Takara Sushi in Logan, UT$$$Takara Sushi in Logan, UT, stands out as a
+  welcoming sushi restaurant offering a casual dining experience with a variety
+  of creative rolls and fresh seafood dishes. The spot features a modern,
+  comfortable atmosphere that makes it ideal for enjoying specialty sushi
+  options at reasonable prices, including half-priced deals that add great
+  value. Accessibility is a key highlight, with wheelchair-friendly parking,
+  entrances, and seating ensuring everyone can enjoy the meal. Patrons
+  appreciate the clean environment and efficient service, making it a go-to
+  choice for those seeking quality sushi restaurants nearby. Whether you're in
+  the mood for innovative flavors or classic favorites, this location delivers a
+  satisfying experience that captures the essence of Japanese-inspired cuisine.
+generative_summary: >-
+  Explore Takara Sushi in Logan, UT$$$Takara Sushi in Logan, UT, stands out as a
+  welcoming sushi restaurant offering a casual dining experience with a variety
+  of creative rolls and fresh seafood dishes. The spot features a modern,
+  comfortable atmosphere that makes it ideal for enjoying specialty sushi
+  options at reasonable prices, including half-priced deals that add great
+  value. Accessibility is a key highlight, with wheelchair-friendly parking,
+  entrances, and seating ensuring everyone can enjoy the meal. Patrons
+  appreciate the clean environment and efficient service, making it a go-to
+  choice for those seeking quality sushi restaurants nearby. Whether you're in
+  the mood for innovative flavors or classic favorites, this location delivers a
+  satisfying experience that captures the essence of Japanese-inspired cuisine.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ1ZmI0ud9VIcRE77oTw3adB4/reviews/ChdDSUhNMG9nS0VJQ0FnTURvcGI2b2pnRRAB
+    relativePublishTimeDescription: in the last week
+    rating: 5
+    text:
+      text: >-
+        Did not expect to have above average sushi in Logan! I throughly enjoyed
+        it! One of the best Sexy Lady rolls I've ever had. The Caribbean-O roll
+        was good too. Everyone at our table loved the monkey balls.
+      languageCode: en
+    originalText:
+      text: >-
+        Did not expect to have above average sushi in Logan! I throughly enjoyed
+        it! One of the best Sexy Lady rolls I've ever had. The Caribbean-O roll
+        was good too. Everyone at our table loved the monkey balls.
+      languageCode: en
+    authorAttribution:
+      displayName: Spencer Shiley
+      uri: https://www.google.com/maps/contrib/111353482765637119570/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVdpLxOmN0YK-ITAuG-oDXXsyfguaPF0Hm03UvrWvRcOyHjUai58A=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-27T00:14:15.958136Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURvcGI2b2pnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURvcGI2b2pnRRAB!2m1!1s0x87547de7d28899d5:0x1e74da0d4fe8be13
+  - name: >-
+      places/ChIJ1ZmI0ud9VIcRE77oTw3adB4/reviews/ChZDSUhNMG9nS0VJQ0FnSURfMXVLWWJREAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        The quality of the sushi is much better than the outer appearance of
+        this place suggests. We loved the French Kiss and Crazy Boy rolls. We
+        thought we ordered a Fire Ball roll but ended up getting a Fire Roll
+        which was a delicious and unique surprise--it comes out in foil on a
+        plate and they light plate. We looked at the menu after we got it and it
+        even said "served on fire." Unexpected but yummy.
+      languageCode: en
+    originalText:
+      text: >-
+        The quality of the sushi is much better than the outer appearance of
+        this place suggests. We loved the French Kiss and Crazy Boy rolls. We
+        thought we ordered a Fire Ball roll but ended up getting a Fire Roll
+        which was a delicious and unique surprise--it comes out in foil on a
+        plate and they light plate. We looked at the menu after we got it and it
+        even said "served on fire." Unexpected but yummy.
+      languageCode: en
+    authorAttribution:
+      displayName: Lisa Jones
+      uri: https://www.google.com/maps/contrib/105994104622884950496/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUGcKrkxeRtN3ZvTZnrS8_Ou_2vHsarrnxpUgSrdwd83VQTT6Zm1w=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-02-11T02:56:33.881017Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURfMXVLWWJREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURfMXVLWWJREAE!2m1!1s0x87547de7d28899d5:0x1e74da0d4fe8be13
+  - name: >-
+      places/ChIJ1ZmI0ud9VIcRE77oTw3adB4/reviews/ChdDSUhNMG9nS0VJQ0FnSUNEX3B5STRnRRAB
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        I have been going to Takara Sushi for almost 10 years. For the quality
+        of sushi, their prices are very reasonable. It is almost always busy but
+        our food comes quickly every time. I've never been disappointed by
+        anything I've ordered and I will continue to come here for the next 10
+        years!
+
+
+        Our favorite rolls are the Golden California and the Sunny Roll.
+      languageCode: en
+    originalText:
+      text: >-
+        I have been going to Takara Sushi for almost 10 years. For the quality
+        of sushi, their prices are very reasonable. It is almost always busy but
+        our food comes quickly every time. I've never been disappointed by
+        anything I've ordered and I will continue to come here for the next 10
+        years!
+
+
+        Our favorite rolls are the Golden California and the Sunny Roll.
+      languageCode: en
+    authorAttribution:
+      displayName: Sarah Nye
+      uri: https://www.google.com/maps/contrib/104581714132830663118/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJKlgBll9M5HWSPwCbt-8sdHp5mIEa0zTXzsl9Labm43bLCXA=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2024-11-23T02:26:46.271852Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNEX3B5STRnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNEX3B5STRnRRAB!2m1!1s0x87547de7d28899d5:0x1e74da0d4fe8be13
+  - name: >-
+      places/ChIJ1ZmI0ud9VIcRE77oTw3adB4/reviews/ChZDSUhNMG9nS0VJQ0FnSURmLUthYk93EAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 2
+    text:
+      text: >-
+        If you've ever had good sushi, man, this is a shame. If you already
+        don't like it, this place nailed it.
+      languageCode: en
+    originalText:
+      text: >-
+        If you've ever had good sushi, man, this is a shame. If you already
+        don't like it, this place nailed it.
+      languageCode: en
+    authorAttribution:
+      displayName: Zephyr Frost
+      uri: https://www.google.com/maps/contrib/114337486849521814079/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVQQm3HqOKjQZXxWi0UNeCMHpdMH4avDnftCtiDqivaVbVfco4r=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-01-07T15:55:43.576611Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURmLUthYk93EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURmLUthYk93EAE!2m1!1s0x87547de7d28899d5:0x1e74da0d4fe8be13
+  - name: >-
+      places/ChIJ1ZmI0ud9VIcRE77oTw3adB4/reviews/ChdDSUhNMG9nS0VJQ0FnSUNMa2JhRjl3RRAB
+    relativePublishTimeDescription: 10 months ago
+    rating: 3
+    text:
+      text: >-
+        Small shop with fast service. We came in at 9 and got it to go.
+
+
+        It was confusing walking in because the sign outside seemed to say 50%
+        off on all rolls because of the way it was formatted, but it was
+        actually only select rolls. Should’ve read the finer print better. Any
+        of their specialty rolls are full price, and at $18 a roll it is not a
+        good price.
+
+
+        We got a Kaleidoscope Roll, TNT, Anger Management, and Sunny Roll. Only
+        the Kaleidoscope was full price. The total cost was $45 with some
+        change, which also included an auto 10% gratuity added for take out.
+
+
+        The TNT was the best. Nice spice to it and a good portion of soft tuna
+        inside.
+
+
+        The Sunny Roll was 2nd best. The mango and cream cheese were a nice,
+        sweet combo that was interesting.
+
+
+        Anger Management was good. The spicy mayo and flakes were the best part
+        of the roll, making it a safe bet.
+
+
+        The Kaleidoscope wasn’t worth it. The meat on top was bland. Not to
+        mention it was the most expensive.
+
+
+        All of the rolls were smaller than I was expecting, I usually find other
+        places in SLC with better portions. Might be a good spot in Logan, but I
+        found it overall expensive and unimpressive.
+      languageCode: en
+    originalText:
+      text: >-
+        Small shop with fast service. We came in at 9 and got it to go.
+
+
+        It was confusing walking in because the sign outside seemed to say 50%
+        off on all rolls because of the way it was formatted, but it was
+        actually only select rolls. Should’ve read the finer print better. Any
+        of their specialty rolls are full price, and at $18 a roll it is not a
+        good price.
+
+
+        We got a Kaleidoscope Roll, TNT, Anger Management, and Sunny Roll. Only
+        the Kaleidoscope was full price. The total cost was $45 with some
+        change, which also included an auto 10% gratuity added for take out.
+
+
+        The TNT was the best. Nice spice to it and a good portion of soft tuna
+        inside.
+
+
+        The Sunny Roll was 2nd best. The mango and cream cheese were a nice,
+        sweet combo that was interesting.
+
+
+        Anger Management was good. The spicy mayo and flakes were the best part
+        of the roll, making it a safe bet.
+
+
+        The Kaleidoscope wasn’t worth it. The meat on top was bland. Not to
+        mention it was the most expensive.
+
+
+        All of the rolls were smaller than I was expecting, I usually find other
+        places in SLC with better portions. Might be a good spot in Logan, but I
+        found it overall expensive and unimpressive.
+      languageCode: en
+    authorAttribution:
+      displayName: Sara B.
+      uri: https://www.google.com/maps/contrib/111984154276726376908/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUrZfom-Vn8znvKR_Fmu2kzhAacQxeaPz9zMq_Q_w1SuD2ap3k=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-06-20T06:09:09.407474Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNMa2JhRjl3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNMa2JhRjl3RRAB!2m1!1s0x87547de7d28899d5:0x1e74da0d4fe8be13
+review_summary: >-
+  Customer Feedback on Takara Sushi$$$Folks generally rave about the fresh and
+  flavorful sushi rolls at this spot, with many highlighting tasty options like
+  spicy tuna and sweet mango combinations that keep diners coming back. While
+  most agree the service is quick and the atmosphere welcoming, a few mentions
+  point to portions feeling a bit smaller than expected, though the overall
+  value still shines through. It's clear that the variety of dishes and friendly
+  vibes make it a solid pick for groups or casual outings, earning it praise as
+  one of the better sushi places around. Even with some mixed opinions on
+  pricing, the positive experiences with creative presentations and reliable
+  taste keep the energy upbeat. If you're hunting for top-rated sushi near you,
+  this restaurant often delivers a memorable meal worth trying.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
 menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: false
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Creative sushi rolls & seafood dishes in comfortable surroundings with a
+  modern feel.
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Aodake Sushi and Hibachi"
+title: Aodake Sushi and Hibachi
 permalink: /illinois/darien/aodake-sushi-and-hibachi.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Darien
 seo:
-  name: "Aodake Sushi and Hibachi"
-  type: Restaurant
-  links: null
-description: "Aodake Sushi and Hibachi serves delicious sushi in Darien, Illinois. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.aodakeusa.com/
 place_id: ChIJqaAlWfFPDogRoWV9PkEAkwc
 photos:
   - name: >-
@@ -170,8 +168,97 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x880e4ff15925a0a9:0x79300413e7d65a1!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: Closed'
+    - 'Tuesday: 11:00 AM – 2:30 PM, 4:00 – 9:30 PM'
+    - 'Wednesday: 11:00 AM – 2:30 PM, 4:00 – 9:30 PM'
+    - 'Thursday: 11:00 AM – 2:30 PM, 4:00 – 9:30 PM'
+    - 'Friday: 11:00 AM – 2:30 PM, 4:00 – 10:00 PM'
+    - 'Saturday: 12:00 – 10:00 PM'
+    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +266,52 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (630) 719-9888
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '3.8'
+rating_count: 339
+website: http://www.aodakeusa.com/
+description: >-
+  About Aodake Sushi and Hibachi in Darien, IL$$$Aodake Sushi and Hibachi in
+  Darien, Illinois, stands out as a welcoming Japanese restaurant where hibachi
+  chefs deliver lively entertainment alongside fresh sushi options. This spot
+  specializes in flavorful teriyaki dishes and fried rice, making it a favorite
+  for those seeking authentic Asian flavors in a casual setting. With accessible
+  features like wheelchair-friendly entrances and parking, it's designed for
+  everyone to enjoy a seamless dining experience. The restaurant's hours cater
+  to lunch and dinner crowds, offering a vibrant atmosphere perfect for families
+  or groups looking for top-rated sushi near Darien. Whether you're exploring
+  sushi restaurants in the area, it's an ideal choice for a satisfying meal that
+  combines fun and taste.
+generative_summary: >-
+  About Aodake Sushi and Hibachi in Darien, IL$$$Aodake Sushi and Hibachi in
+  Darien, Illinois, stands out as a welcoming Japanese restaurant where hibachi
+  chefs deliver lively entertainment alongside fresh sushi options. This spot
+  specializes in flavorful teriyaki dishes and fried rice, making it a favorite
+  for those seeking authentic Asian flavors in a casual setting. With accessible
+  features like wheelchair-friendly entrances and parking, it's designed for
+  everyone to enjoy a seamless dining experience. The restaurant's hours cater
+  to lunch and dinner crowds, offering a vibrant atmosphere perfect for families
+  or groups looking for top-rated sushi near Darien. Whether you're exploring
+  sushi restaurants in the area, it's an ideal choice for a satisfying meal that
+  combines fun and taste.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Folks who visit Aodake Sushi and Hibachi often
+  highlight the delicious inari avocado rolls and vegetable hibachi as standout
+  menu items that bring a burst of fresh flavors to the table. Many appreciate
+  the friendly vibe and engaging service that make dining here feel lively and
+  enjoyable, turning meals into memorable experiences. While some mention that
+  wait times can occasionally stretch a bit, especially with reservations, the
+  overall consensus leans toward the rewarding payoff of tasty dishes and a
+  welcoming environment. It's generally seen as a solid pick for anyone craving
+  quality Japanese cuisine, with the positives outweighing any minor hiccups for
+  a generally pleasant outing. If you're on the hunt for the best sushi near
+  you, this place delivers honest value with its flavorful offerings and
+  approachable staff.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +337,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

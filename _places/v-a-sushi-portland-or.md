@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "V&A Sushi"
+title: V&A Sushi
 permalink: /oregon/portland/v-a-sushi.html
 stateAbbr: OR
 stateName: Oregon
 cityName: Portland
 seo:
-  name: "V&A Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.vnasushi.net/
-description: "V&A Sushi serves delicious sushi in Portland, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJb9Xb2nOhlVQRLH1oGt7RfKI
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x5495a173dadbd56f:0xa27cd1de1a687d2c!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:00 PM'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:00 PM'
     - 'Saturday: 11:00 AM – 9:00 PM'
     - 'Sunday: 11:00 AM – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 9:00 PM'
-    - 'Saturday: 11:00 AM – 9:00 PM'
-    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,275 @@ phone: (971) 271-7193
 price_level: null
 price_range: $20 &ndash; $30
 rating: '4.6'
-rating_count: 0
+rating_count: 215
 website: https://www.vnasushi.net/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Explore V&A Sushi in Portland, OR$$$V&A Sushi in Portland, OR, is a welcoming
+  spot for enjoying fresh Japanese-inspired dishes, featuring an array of
+  creative rolls and handrolls that highlight quality ingredients. With daily
+  happy-hour deals and a laid-back vibe, it's an ideal choice for those seeking
+  affordable yet flavorful options in a neighborhood setting. The restaurant
+  prioritizes accessibility with features like wheelchair-friendly parking and
+  seating, making it easy for everyone to dine comfortably. Operating from 11 AM
+  to 9 PM every day, it's conveniently situated for locals hunting for top-rated
+  sushi spots nearby, blending convenience with a focus on satisfying meals.
+generative_summary: >-
+  Explore V&A Sushi in Portland, OR$$$V&A Sushi in Portland, OR, is a welcoming
+  spot for enjoying fresh Japanese-inspired dishes, featuring an array of
+  creative rolls and handrolls that highlight quality ingredients. With daily
+  happy-hour deals and a laid-back vibe, it's an ideal choice for those seeking
+  affordable yet flavorful options in a neighborhood setting. The restaurant
+  prioritizes accessibility with features like wheelchair-friendly parking and
+  seating, making it easy for everyone to dine comfortably. Operating from 11 AM
+  to 9 PM every day, it's conveniently situated for locals hunting for top-rated
+  sushi spots nearby, blending convenience with a focus on satisfying meals.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJb9Xb2nOhlVQRLH1oGt7RfKI/reviews/ChdDSUhNMG9nS0VJQ0FnSURmdDlMbXdRRRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        V&A Sushi is owned and operated by a charming couple, it is named for
+        their children.  We have been eating their delightfully prepared, always
+        fresh sushi,  yakisoba and other Japanese treats for years, since before
+        the pandemic. We order takeout regularly from them and when we dine in
+        they are exceptionally friendly and the atmosphere is great. We never
+        get sushi anywhere else now, you can pay three times the price in a
+        boutique restaurant for substandard food and rude service but not us, in
+        25 years living in Portland this is by far our favorite ever sushi
+        restaurant.
+
+        If we could rate them ten stars, we would.!
+
+        🌟 🌟🌟🌟🌟🌟🌟🌟🌟🌟
+      languageCode: en
+    originalText:
+      text: >-
+        V&A Sushi is owned and operated by a charming couple, it is named for
+        their children.  We have been eating their delightfully prepared, always
+        fresh sushi,  yakisoba and other Japanese treats for years, since before
+        the pandemic. We order takeout regularly from them and when we dine in
+        they are exceptionally friendly and the atmosphere is great. We never
+        get sushi anywhere else now, you can pay three times the price in a
+        boutique restaurant for substandard food and rude service but not us, in
+        25 years living in Portland this is by far our favorite ever sushi
+        restaurant.
+
+        If we could rate them ten stars, we would.!
+
+        🌟 🌟🌟🌟🌟🌟🌟🌟🌟🌟
+      languageCode: en
+    authorAttribution:
+      displayName: Ian Deeley
+      uri: https://www.google.com/maps/contrib/111230698623432746055/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWnPjriMr_7YRHtBFcUchi3ysP0SQbspx_OkhUcgMG3cS8XIjYFew=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-01-14T18:54:57.866096Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURmdDlMbXdRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURmdDlMbXdRRRAB!2m1!1s0x5495a173dadbd56f:0xa27cd1de1a687d2c
+  - name: >-
+      places/ChIJb9Xb2nOhlVQRLH1oGt7RfKI/reviews/ChdDSUhNMG9nS0VJQ0FnSUNaNjYzOV9RRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        Great (hidden) spot for some delicious sushi! The portions of sushi are
+        very generous and offer great value for money sushi. The staff are
+        friendly and helpful. I imagine this place could get quite busy, try to
+        eat outside of the lunch/dinner rush for good service.
+      languageCode: en
+    originalText:
+      text: >-
+        Great (hidden) spot for some delicious sushi! The portions of sushi are
+        very generous and offer great value for money sushi. The staff are
+        friendly and helpful. I imagine this place could get quite busy, try to
+        eat outside of the lunch/dinner rush for good service.
+      languageCode: en
+    authorAttribution:
+      displayName: Nolan Rumble
+      uri: https://www.google.com/maps/contrib/114087553535490046778/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUzo8PZLUPy8Ibag4B6TpA6YenlD3U6uREm5H1muAOYlnK9_cwk=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2023-09-18T14:37:12.818558Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNaNjYzOV9RRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNaNjYzOV9RRRAB!2m1!1s0x5495a173dadbd56f:0xa27cd1de1a687d2c
+  - name: >-
+      places/ChIJb9Xb2nOhlVQRLH1oGt7RfKI/reviews/ChdDSUhNMG9nS0VJQ0FnSURSbk91U19nRRAB
+    relativePublishTimeDescription: 2 years ago
+    rating: 5
+    text:
+      text: >-
+        We went there for a late lunch, and we were absolutely in love. My best
+        friend and I had a wonderful time. The food was amazing and they were
+        very kind!  They didn’t continuously come and talk , they checked in to
+        see how it was tasting and just * chefs kiss* delicious,  can not wait
+        to go there again !!!!  I ordered 3 rolls , The flavor was great ! And
+        so was the presentation. I loved the calamari also !
+      languageCode: en
+    originalText:
+      text: >-
+        We went there for a late lunch, and we were absolutely in love. My best
+        friend and I had a wonderful time. The food was amazing and they were
+        very kind!  They didn’t continuously come and talk , they checked in to
+        see how it was tasting and just * chefs kiss* delicious,  can not wait
+        to go there again !!!!  I ordered 3 rolls , The flavor was great ! And
+        so was the presentation. I loved the calamari also !
+      languageCode: en
+    authorAttribution:
+      displayName: Enysa Spengler
+      uri: https://www.google.com/maps/contrib/110896909642401900253/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVVJWms5T9LXqh_A0LwvaT2DuuKT4pdFPoz5I5qpVXVidvZ1yt2Iw=s128-c0x00000000-cc-rp-mo
+    publishTime: '2023-04-20T04:55:25.465076Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURSbk91U19nRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURSbk91U19nRRAB!2m1!1s0x5495a173dadbd56f:0xa27cd1de1a687d2c
+  - name: >-
+      places/ChIJb9Xb2nOhlVQRLH1oGt7RfKI/reviews/ChZDSUhNMG9nS0VJQ0FnSUQyOXJfb0hnEAE
+    relativePublishTimeDescription: 2 years ago
+    rating: 3
+    text:
+      text: >-
+        We ended up here by accident - we were looking for conveyor belt sushi.
+        By the time we walked in and saw the owners and only the owners inside,
+        and no belt, it was too late to walk out. That's on us.
+
+
+        Would I recommend this place? No.
+
+        Was the food good? Yes.
+
+
+        I love a hole in the wall as much as the next person, but I draw the
+        line at sushi. Instead of looking forward to the meal, I was worried
+        about the quality and freshness of everything, something you don't want
+        to think about when you're about to eat raw fish. The restaurant is
+        stark and you can see into the back kitchen where inventory is stacked
+        in piles. The energy savings sticker is still on the wall-mounted tv.
+
+
+        It was also a real turnoff to see the original prices scratched out on
+        the menus and new prices written in $2-3 higher on each item. At least
+        use a permanent marker or tape to hide the original prices. That means
+        for seven or so dishes, we knowingly paid $20 extra. I'm happy to pay
+        more, but with the stark design and it being empty the duration of our
+        meal, it felt like we were filling the gap for the lack of customers.
+      languageCode: en
+    originalText:
+      text: >-
+        We ended up here by accident - we were looking for conveyor belt sushi.
+        By the time we walked in and saw the owners and only the owners inside,
+        and no belt, it was too late to walk out. That's on us.
+
+
+        Would I recommend this place? No.
+
+        Was the food good? Yes.
+
+
+        I love a hole in the wall as much as the next person, but I draw the
+        line at sushi. Instead of looking forward to the meal, I was worried
+        about the quality and freshness of everything, something you don't want
+        to think about when you're about to eat raw fish. The restaurant is
+        stark and you can see into the back kitchen where inventory is stacked
+        in piles. The energy savings sticker is still on the wall-mounted tv.
+
+
+        It was also a real turnoff to see the original prices scratched out on
+        the menus and new prices written in $2-3 higher on each item. At least
+        use a permanent marker or tape to hide the original prices. That means
+        for seven or so dishes, we knowingly paid $20 extra. I'm happy to pay
+        more, but with the stark design and it being empty the duration of our
+        meal, it felt like we were filling the gap for the lack of customers.
+      languageCode: en
+    authorAttribution:
+      displayName: Stephanie El-Hajj
+      uri: https://www.google.com/maps/contrib/107918571836586040738/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUZACfhnw9_15_FQZMQq9iTtl1qn-Wx-fxjNSfaFRDjRQ1MEZDIDg=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2022-05-15T11:42:14.792403Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQyOXJfb0hnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQyOXJfb0hnEAE!2m1!1s0x5495a173dadbd56f:0xa27cd1de1a687d2c
+  - name: >-
+      places/ChIJb9Xb2nOhlVQRLH1oGt7RfKI/reviews/ChZDSUhNMG9nS0VJQ0FnSUNfamJYSkNREAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        Pick up order through Grub Hub was ready super fast and absolutely
+        delicious. Excited to have such stellar sushi within a few minutes of
+        home. Especially loved the seared bluefin nigiri, the prince roll, and
+        perfectly crispy sesame balls. Highly recommend!
+      languageCode: en
+    originalText:
+      text: >-
+        Pick up order through Grub Hub was ready super fast and absolutely
+        delicious. Excited to have such stellar sushi within a few minutes of
+        home. Especially loved the seared bluefin nigiri, the prince roll, and
+        perfectly crispy sesame balls. Highly recommend!
+      languageCode: en
+    authorAttribution:
+      displayName: Nickie Dane
+      uri: https://www.google.com/maps/contrib/100520067467745392767/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWvSEH28AWTEPr0YDPiWeUf8GSfdEE0rHyQZ2yPaSdU3PQ6rvA2=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-01-18T02:37:37.932691Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNfamJYSkNREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNfamJYSkNREAE!2m1!1s0x5495a173dadbd56f:0xa27cd1de1a687d2c
+review_summary: >-
+  Customer Feedback on V&A Sushi$$$Folks often rave about the generous portions
+  and fresh flavors at this spot, making it a solid pick for anyone craving
+  reliable sushi options close by. While one comment pointed out a simple
+  atmosphere that might feel a bit understated, the majority highlight friendly
+  service and great value that keeps diners coming back. Takeout and delivery
+  experiences stand out as quick and tasty, perfect for busy days when you're in
+  the mood for something light and satisfying. Overall, it's clear that this
+  place delivers on taste and convenience, earning high marks from those
+  exploring the best sushi restaurants in the area.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
+delivery: true
+dine_in: true
 good_for_children: null
 good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
 serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_brunch: false
+serves_cocktails: false
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

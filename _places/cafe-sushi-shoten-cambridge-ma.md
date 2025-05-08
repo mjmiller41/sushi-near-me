@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Cafe Sushi Shoten"
+title: Cafe Sushi Shoten
 permalink: /massachusetts/cambridge/cafe-sushi-shoten.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Cambridge
 seo:
-  name: "Cafe Sushi Shoten"
-  type: Restaurant
+  type: restaurant
   links: http://www.cafesushicambridge.com/
-description: "Cafe Sushi Shoten serves delicious sushi in Cambridge, Massachusetts. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJDboHOFt344kRRpT1TjLUuTM
 photos:
   - name: >-
@@ -170,7 +168,49 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89e3775b3807ba0d:0x33b9d4324ef59446!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 2
+        hour: 12
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 12
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 12
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 12
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 12:00 – 9:00 PM'
     - 'Wednesday: 12:00 – 9:00 PM'
@@ -178,14 +218,7 @@ opening_hours:
     - 'Friday: 12:00 – 9:00 PM'
     - 'Saturday: 12:00 – 9:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 12:00 – 9:00 PM'
-    - 'Wednesday: 12:00 – 9:00 PM'
-    - 'Thursday: 12:00 – 9:00 PM'
-    - 'Friday: 12:00 – 9:00 PM'
-    - 'Saturday: 12:00 – 9:00 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T01:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +230,50 @@ phone: (617) 492-0434
 price_level: PRICE_LEVEL_MODERATE
 price_range: $30 &ndash; $50
 rating: '4.6'
-rating_count: 0
+rating_count: 960
 website: http://www.cafesushicambridge.com/
+description: >-
+  Discover Cafe Sushi Shoten in Cambridge, MA$$$Cafe Sushi Shoten in Cambridge,
+  MA, stands out as a welcoming Japanese eatery blending fresh sushi options
+  with a casual market vibe, perfect for those seeking authentic flavors in a
+  relaxed setting. This spot highlights an array of expertly prepared dishes,
+  including sake pairings and tasting menus that showcase seasonal ingredients,
+  making it a go-to choice for sushi enthusiasts exploring local dining scenes.
+  With its moderate pricing and convenient hours, it caters to both quick
+  lunches and evening outings, appealing to anyone hunting for top-rated
+  Japanese cuisine nearby. The unpretentious atmosphere enhances the experience,
+  allowing visitors to enjoy high-quality meals without the formality of upscale
+  dining. Overall, it's an ideal destination for anyone in the area looking to
+  savor delicious sushi in a comfortable environment.
+generative_summary: >-
+  Discover Cafe Sushi Shoten in Cambridge, MA$$$Cafe Sushi Shoten in Cambridge,
+  MA, stands out as a welcoming Japanese eatery blending fresh sushi options
+  with a casual market vibe, perfect for those seeking authentic flavors in a
+  relaxed setting. This spot highlights an array of expertly prepared dishes,
+  including sake pairings and tasting menus that showcase seasonal ingredients,
+  making it a go-to choice for sushi enthusiasts exploring local dining scenes.
+  With its moderate pricing and convenient hours, it caters to both quick
+  lunches and evening outings, appealing to anyone hunting for top-rated
+  Japanese cuisine nearby. The unpretentious atmosphere enhances the experience,
+  allowing visitors to enjoy high-quality meals without the formality of upscale
+  dining. Overall, it's an ideal destination for anyone in the area looking to
+  savor delicious sushi in a comfortable environment.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying About This Sushi Spot$$$Feedback from diners
+  highlights the consistently fresh and flavorful sushi selections that keep
+  people coming back for more at this popular Cambridge eatery. Many appreciate
+  the welcoming atmosphere and solid value, noting that the menu offers a great
+  mix of traditional dishes and creative twists that satisfy a range of tastes.
+  With an impressive overall rating, folks often mention the attentive service
+  and cozy setting as standout features, making it a reliable pick for groups or
+  solo diners alike. While some point out occasional waits during peak times,
+  the general consensus leans positive, praising the quality ingredients and
+  variety that elevate the experience. If you're searching for one of the best
+  sushi places near you, this spot delivers a satisfying meal that lives up to
+  the buzz.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +299,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

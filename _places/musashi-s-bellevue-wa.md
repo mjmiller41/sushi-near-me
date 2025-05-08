@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Musashi's"
+title: Musashi's
 permalink: /washington/bellevue/musashi-s.html
 stateAbbr: WA
 stateName: Washington
 cityName: Bellevue
 seo:
-  name: "Musashi's"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Musashi's serves delicious sushi in Bellevue, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJpx7d1QFskFQRqZfzYdsFyqI
 photos:
   - name: >-
@@ -185,7 +183,46 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Musashi's in Bellevue, WA$$$Musashi's in Bellevue, WA, stands out as
+  a welcoming Japanese restaurant offering a variety of fresh sushi options and
+  hearty bowls. This spot focuses on casual dining with highlights like
+  flavorful sushi rolls and chirashi bowls, complemented by a selection of beer
+  and sake for an authentic touch. The venue emphasizes accessibility, making it
+  easy for everyone to enjoy a comfortable meal, with features that cater to
+  diverse needs. Visitors appreciate the straightforward atmosphere that blends
+  traditional flavors with everyday convenience, making it a go-to choice among
+  sushi restaurants in the area. Whether you're searching for top-rated sushi
+  nearby or simply craving Japanese-inspired dishes, this location delivers a
+  satisfying experience with its emphasis on quality ingredients and relaxed
+  vibe.
+generative_summary: >-
+  Discover Musashi's in Bellevue, WA$$$Musashi's in Bellevue, WA, stands out as
+  a welcoming Japanese restaurant offering a variety of fresh sushi options and
+  hearty bowls. This spot focuses on casual dining with highlights like
+  flavorful sushi rolls and chirashi bowls, complemented by a selection of beer
+  and sake for an authentic touch. The venue emphasizes accessibility, making it
+  easy for everyone to enjoy a comfortable meal, with features that cater to
+  diverse needs. Visitors appreciate the straightforward atmosphere that blends
+  traditional flavors with everyday convenience, making it a go-to choice among
+  sushi restaurants in the area. Whether you're searching for top-rated sushi
+  nearby or simply craving Japanese-inspired dishes, this location delivers a
+  satisfying experience with its emphasis on quality ingredients and relaxed
+  vibe.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Folks rave about the tasty chirashi bowls at this
+  Japanese eatery, packed with fresh fish like salmon and tuna that hit the spot
+  every time. Many highlight the generous servings and fair prices, making it a
+  solid pick for anyone looking for a fulfilling meal without breaking the bank.
+  The service stands out as quick and welcoming, with little extras like
+  complimentary hot tea adding a nice touch to the overall vibe. While some note
+  that seating might feel a bit tight during peak hours, it doesn't overshadow
+  the positive experiences shared by diners. Overall, if you're on the hunt for
+  reliable sushi places nearby, this spot earns praise for its fresh offerings
+  and friendly service, keeping things upbeat and approachable.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +248,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

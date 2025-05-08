@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Dai Hachi Sushi in Long Island City"
+title: Dai Hachi Sushi in Long Island City
 permalink: /new-york/long-island-city/dai-hachi-sushi-in-long-island-city.html
 stateAbbr: NY
 stateName: New York
 cityName: Long Island City
 seo:
-  name: "Dai Hachi Sushi in Long Island City"
-  type: Restaurant
-  links: null
-description: "Dai Hachi Sushi in Long Island City serves delicious sushi in Long Island City, New York. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://daihachinyc.com/
 place_id: ChIJE5GZsSZZwokROeICD1qRrGg
 photos:
   - name: >-
@@ -169,8 +167,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c25926b1999113:0x68ac915a0f02e239!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 23
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 10:00 PM'
+    - 'Tuesday: 11:00 AM – 10:00 PM'
+    - 'Wednesday: 11:00 AM – 10:00 PM'
+    - 'Thursday: 11:00 AM – 11:00 PM'
+    - 'Friday: 11:00 AM – 11:00 PM'
+    - 'Saturday: 11:00 AM – 11:00 PM'
+    - 'Sunday: 11:00 AM – 10:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -178,13 +241,53 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
+phone: (718) 255-6260
 price_level: null
 price_range: null
-rating: null
-rating_count: 0
-website: null
+rating: '4.5'
+rating_count: 436
+website: https://daihachinyc.com/
+description: >-
+  Discover Dai Hachi Sushi in Long Island City, NY$$$Nestled in the vibrant
+  neighborhood of Long Island City, NY, Dai Hachi Sushi stands out as a
+  welcoming spot for authentic Japanese cuisine, featuring an array of fresh
+  sushi and hearty entrees that highlight the best of traditional flavors. This
+  cozy restaurant boasts a relaxed atmosphere perfect for casual meals or
+  unwinding with friends, complemented by a full bar that offers creative drinks
+  and happy hour deals to enhance your dining experience. Patrons can enjoy a
+  diverse selection of meticulously prepared dishes that cater to various
+  tastes, making it an ideal choice for those seeking quality Japanese options
+  in a comfortable setting. With its accessible entrance and thoughtful layout,
+  the spot ensures everyone can savor the experience, adding to its appeal as a
+  go-to destination for sushi enthusiasts exploring local eateries.
+generative_summary: >-
+  Discover Dai Hachi Sushi in Long Island City, NY$$$Nestled in the vibrant
+  neighborhood of Long Island City, NY, Dai Hachi Sushi stands out as a
+  welcoming spot for authentic Japanese cuisine, featuring an array of fresh
+  sushi and hearty entrees that highlight the best of traditional flavors. This
+  cozy restaurant boasts a relaxed atmosphere perfect for casual meals or
+  unwinding with friends, complemented by a full bar that offers creative drinks
+  and happy hour deals to enhance your dining experience. Patrons can enjoy a
+  diverse selection of meticulously prepared dishes that cater to various
+  tastes, making it an ideal choice for those seeking quality Japanese options
+  in a comfortable setting. With its accessible entrance and thoughtful layout,
+  the spot ensures everyone can savor the experience, adding to its appeal as a
+  go-to destination for sushi enthusiasts exploring local eateries.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Recent Visitors$$$Folks chatting about Dai Hachi Sushi often
+  rave about the impressive range of fresh sushi rolls and flavorful ramen
+  dishes that keep things exciting and satisfying on every visit. Many
+  appreciate the friendly service and attentive team that make the atmosphere
+  feel warm and inviting without overwhelming the meal. Prices here strike a
+  nice balance, offering great value for the quality and variety you get, which
+  makes it a smart pick for anyone hunting for reliable Japanese eats nearby.
+  Overall, the cozy vibe and solid food options have folks coming back, painting
+  a picture of a spot that's both approachable and enjoyable for casual diners.
+  If you're on the lookout for top-notch sushi experiences in the area, this
+  place delivers a consistently positive vibe that lives up to the buzz.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +313,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

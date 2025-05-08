@@ -5,4 +5,5 @@ permalink: /utah/south-salt-lake/
 stateAbbr: UT
 stateName: Utah
 cityName: South Salt Lake
+
 ---

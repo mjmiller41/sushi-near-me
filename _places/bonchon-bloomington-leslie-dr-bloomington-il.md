@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Bonchon Bloomington - Leslie Dr"
+title: Bonchon Bloomington - Leslie Dr
 permalink: /illinois/bloomington/bonchon-bloomington-leslie-dr.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Bloomington
 seo:
-  name: "Bonchon Bloomington - Leslie Dr"
-  type: Restaurant
-  links: null
-description: "Bonchon Bloomington - Leslie Dr serves delicious sushi in Bloomington, Illinois. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://locations.bonchon.com/ll/US/Illinois/Bloomington/1413-Leslie-Drive
 place_id: ChIJS63N1wB7C4gRj_co_-NdxlE
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x880b7b00d7cdad4b:0x51c65de3ff28f78f!10e5
 primary_type: Asian Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 9:00 PM'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 10:00 PM'
+    - 'Saturday: 11:00 AM – 10:00 PM'
+    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,51 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (309) 665-3999
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.2'
+rating_count: 133
+website: https://locations.bonchon.com/ll/US/Illinois/Bloomington/1413-Leslie-Drive
+description: >-
+  Discover Bonchon in Bloomington, IL$$$Bonchon Bloomington - Leslie Dr in
+  Bloomington, IL, stands out as a casual Asian fusion spot offering counter
+  service and a focus on flavorful Korean-inspired dishes. This welcoming
+  restaurant specializes in crispy fried chicken with a range of bold sauces,
+  making it a go-to for those seeking authentic Asian flavors in a relaxed
+  setting. With accessibility features like wheelchair-friendly parking and
+  entrances, it's designed to accommodate all visitors, enhancing the overall
+  dining experience. The spot maintains convenient hours, staying open late on
+  weekends, perfect for locals looking for quality Asian dining options nearby.
+  Its approachable vibe and emphasis on fresh, satisfying meals make it a solid
+  choice for anyone exploring top-rated Asian places in the area.
+generative_summary: >-
+  Discover Bonchon in Bloomington, IL$$$Bonchon Bloomington - Leslie Dr in
+  Bloomington, IL, stands out as a casual Asian fusion spot offering counter
+  service and a focus on flavorful Korean-inspired dishes. This welcoming
+  restaurant specializes in crispy fried chicken with a range of bold sauces,
+  making it a go-to for those seeking authentic Asian flavors in a relaxed
+  setting. With accessibility features like wheelchair-friendly parking and
+  entrances, it's designed to accommodate all visitors, enhancing the overall
+  dining experience. The spot maintains convenient hours, staying open late on
+  weekends, perfect for locals looking for quality Asian dining options nearby.
+  Its approachable vibe and emphasis on fresh, satisfying meals make it a solid
+  choice for anyone exploring top-rated Asian places in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Buzzing About$$$Folks enjoying meals at this Asian fusion
+  spot often rave about the tasty wings coated in flavorful sauces like Korean
+  BBQ and soy garlic, which bring a nice kick to every bite. Many highlight the
+  crispy chicken and fun sides such as bulgogi fries and potstickers, noting how
+  they add a delicious twist to the menu. While the food generally impresses
+  with its bold tastes and satisfying portions, some mention that wait times can
+  stretch a bit during busy periods, so planning ahead might be smart. Overall,
+  it's a hit for groups or families wanting a casual vibe with solid
+  Asian-inspired eats, keeping things upbeat and worth the visit. If you're in
+  the mood for reliable Asian dining near you, this place delivers a generally
+  positive experience with room for smooth service improvements.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +312,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kyoto Japanese Steak House"
+title: Kyoto Japanese Steak House
 permalink: /maryland/severna-park/kyoto-japanese-steak-house.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Severna Park
 seo:
-  name: "Kyoto Japanese Steak House"
-  type: Restaurant
-  links: null
-description: "Kyoto Japanese Steak House serves delicious sushi in Severna Park, Maryland. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.kyotomd.com/
 place_id: ChIJCaajaH_5t4kRDGYAv2QKIzg
 photos:
   - name: >-
@@ -170,8 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89b7f97f68a3a609:0x38230a64bf00660c!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 15
+        minute: 30
+      close:
+        day: 0
+        hour: 20
+        minute: 30
+    - open:
+        day: 2
+        hour: 15
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 15
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 12
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 12
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 15
+        minute: 30
+      close:
+        day: 6
+        hour: 20
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: Closed'
+    - 'Tuesday: 3:30 – 9:00 PM'
+    - 'Wednesday: 3:30 – 9:00 PM'
+    - 'Thursday: 12:00 – 9:00 PM'
+    - 'Friday: 12:00 – 10:00 PM'
+    - 'Saturday: 3:30 – 8:30 PM'
+    - 'Sunday: 3:30 – 8:30 PM'
+  nextCloseTime: '2025-05-04T00:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +234,53 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (410) 647-4500
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.4'
+rating_count: 272
+website: http://www.kyotomd.com/
+description: >-
+  About Kyoto Japanese Steak House in Severna Park, MD$$$Nestled in Severna
+  Park, MD, Kyoto Japanese Steak House offers an inviting spot for enjoying
+  authentic Japanese cuisine, including fresh sushi and flavorful hibachi-style
+  dishes. This family-friendly restaurant features a welcoming atmosphere
+  perfect for casual dinners or special occasions, with options that cater to
+  various tastes and dietary preferences. Accessibility is a key highlight, with
+  wheelchair-friendly parking, entrances, restrooms, and seating, making it easy
+  for everyone to enjoy a meal. Patrons can savor the artful presentation of
+  sushi rolls and grilled specialties, all prepared with high-quality
+  ingredients in a vibrant setting. Whether you're searching for top-rated sushi
+  restaurants near you, Kyoto stands out as a go-to destination for a satisfying
+  Japanese dining experience.
+generative_summary: >-
+  About Kyoto Japanese Steak House in Severna Park, MD$$$Nestled in Severna
+  Park, MD, Kyoto Japanese Steak House offers an inviting spot for enjoying
+  authentic Japanese cuisine, including fresh sushi and flavorful hibachi-style
+  dishes. This family-friendly restaurant features a welcoming atmosphere
+  perfect for casual dinners or special occasions, with options that cater to
+  various tastes and dietary preferences. Accessibility is a key highlight, with
+  wheelchair-friendly parking, entrances, restrooms, and seating, making it easy
+  for everyone to enjoy a meal. Patrons can savor the artful presentation of
+  sushi rolls and grilled specialties, all prepared with high-quality
+  ingredients in a vibrant setting. Whether you're searching for top-rated sushi
+  restaurants near you, Kyoto stands out as a go-to destination for a satisfying
+  Japanese dining experience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback Highlights$$$Visitors to this sushi spot often rave about
+  the delicious flavors and engaging hibachi performances, making it a favorite
+  for those seeking the best sushi near me. Many appreciate the friendly service
+  and reasonable prices, noting that the portions are generous and the
+  atmosphere lively without being overwhelming. While some mention occasional
+  waits during peak hours, the overall consensus is that the quality of the food
+  more than makes up for it, with fresh ingredients shining in every dish. Folks
+  love how it's a great place for groups or families, praising the variety of
+  options that keep everyone happy. If you're on the hunt for sushi places near
+  me with a solid reputation, this spot consistently delivers a fun and tasty
+  experience that's worth checking out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +306,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

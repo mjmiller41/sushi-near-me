@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yoki Express - Asian kitchen & Poke Bowls"
+title: Yoki Express - Asian kitchen & Poke Bowls
 permalink: /massachusetts/boston/yoki-express-asian-kitchen-poke-bowls.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Boston
 seo:
-  name: "Yoki Express - Asian kitchen & Poke Bowls"
-  type: Restaurant
+  type: restaurant
   links: https://www.yokiexpress.com/
-description: "Fast-casual kitchen offering build-your-own sushi burritos & poke bowls in a bright, airy setting. Yoki Express - Asian kitchen & Poke Bowls serves delicious sushi in Boston, Massachusetts. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJIZiNa39w44kRzf7S0oaqJ1c
 photos:
   - name: >-
@@ -184,6 +182,31 @@ price_range: $10 &ndash; $20
 rating: '4.2'
 rating_count: 0
 website: https://www.yokiexpress.com/
+description: >-
+  Discover Yoki Express in Boston, MA$$$In Boston, MA, Yoki Express stands out
+  as a lively Asian-fusion spot, blending fresh flavors in a bright and
+  welcoming environment. This casual eatery specializes in customizable sushi
+  burritos and poke bowls, along with hearty ramen options that cater to lunch
+  and dinner cravings, making it a go-to for those exploring sushi restaurants
+  in the area. The menu emphasizes high-quality ingredients and thoughtful
+  combinations, allowing diners to tailor their meals for a personalized touch.
+  Accessibility features like wheelchair-friendly entrances enhance the
+  experience, ensuring everyone can enjoy the vibrant atmosphere. Whether you're
+  in the mood for Japanese-inspired dishes or a quick, satisfying bite, Yoki
+  Express delivers on both taste and convenience in the heart of the city.
+generative_summary: >-
+  Discover Yoki Express in Boston, MA$$$In Boston, MA, Yoki Express stands out
+  as a lively Asian-fusion spot, blending fresh flavors in a bright and
+  welcoming environment. This casual eatery specializes in customizable sushi
+  burritos and poke bowls, along with hearty ramen options that cater to lunch
+  and dinner cravings, making it a go-to for those exploring sushi restaurants
+  in the area. The menu emphasizes high-quality ingredients and thoughtful
+  combinations, allowing diners to tailor their meals for a personalized touch.
+  Accessibility features like wheelchair-friendly entrances enhance the
+  experience, ensuring everyone can enjoy the vibrant atmosphere. Whether you're
+  in the mood for Japanese-inspired dishes or a quick, satisfying bite, Yoki
+  Express delivers on both taste and convenience in the heart of the city.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJIZiNa39w44kRzf7S0oaqJ1c/reviews/ChZDSUhNMG9nS0VJQ0FnSUM3MUxQWE5REAE
@@ -367,6 +390,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURIbGNDak9REAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURIbGNDak9REAE!2m1!1s0x89e3707f6b8d9821:0x5727aa86d2d2fecd
+review_summary: >-
+  What Customers Are Saying$$$Folks generally enjoy the fresh ingredients and
+  speedy service at this spot, with many highlighting the customizable poke
+  bowls and burritos as standout choices for a quick and tasty meal. While some
+  mention occasional inconsistencies in food preparation, the overall vibe
+  remains positive, especially for those grabbing lunch on the go. Reviewers
+  often appreciate the variety of options like sushi-inspired combinations that
+  keep things exciting and satisfying. It's a solid pick for anyone seeking
+  reliable Japanese-style eats, with the convenience of dine-in or takeout
+  adding to its appeal. Despite a few hiccups, the general consensus leans
+  toward it being a worthwhile stop for fresh, flavorful dishes that hit the
+  spot.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidStreetParking: true
   valetParking: false
@@ -398,8 +434,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Fast-casual kitchen offering build-your-own sushi burritos & poke bowls in a
   bright, airy setting.
 

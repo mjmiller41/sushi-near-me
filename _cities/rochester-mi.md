@@ -5,4 +5,5 @@ permalink: /michigan/rochester/
 stateAbbr: MI
 stateName: Michigan
 cityName: Rochester
+
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sansei Seafood Restaurant & Sushi Bar"
+title: Sansei Seafood Restaurant & Sushi Bar
 permalink: /hawaii/honolulu/sansei-seafood-restaurant-sushi-bar.html
 stateAbbr: HI
 stateName: Hawaii
 cityName: Honolulu
 seo:
-  name: "Sansei Seafood Restaurant & Sushi Bar"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sansei Seafood Restaurant & Sushi Bar serves delicious sushi in Honolulu, Hawaii. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJeRjBxXByAHwRKszR5Ib3vg4
 photos:
   - name: >-
@@ -184,7 +182,40 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Sansei in Honolulu$$$In Honolulu, HI, Sansei Seafood Restaurant &
+  Sushi Bar stands out as a popular destination for fresh sushi and
+  Japanese-inspired dishes in a relaxed environment. This spot offers an array
+  of creative sushi rolls, sashimi, and other flavorful plates, enhanced by
+  enticing happy-hour options that draw in locals and visitors alike. The
+  laid-back atmosphere makes it an ideal choice for casual dining, whether
+  you're enjoying a quick meal or lingering over specialties. With thoughtful
+  accessibility features like wheelchair-friendly parking and seating, it
+  ensures a welcoming experience for everyone seeking top sushi options in the
+  area.
+generative_summary: >-
+  Discover Sansei in Honolulu$$$In Honolulu, HI, Sansei Seafood Restaurant &
+  Sushi Bar stands out as a popular destination for fresh sushi and
+  Japanese-inspired dishes in a relaxed environment. This spot offers an array
+  of creative sushi rolls, sashimi, and other flavorful plates, enhanced by
+  enticing happy-hour options that draw in locals and visitors alike. The
+  laid-back atmosphere makes it an ideal choice for casual dining, whether
+  you're enjoying a quick meal or lingering over specialties. With thoughtful
+  accessibility features like wheelchair-friendly parking and seating, it
+  ensures a welcoming experience for everyone seeking top sushi options in the
+  area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Folks exploring sushi spots around Honolulu often
+  highlight the fresh ingredients and inventive flavors that make meals here
+  feel truly satisfying. Many appreciate the value from happy-hour deals, noting
+  how they add to the overall fun and affordability of a visit. The relaxed vibe
+  gets plenty of nods for creating a comfortable setting that's perfect for
+  unwinding with friends or family. While opinions vary, there's a general
+  consensus that the authentic Japanese touches keep diners coming back, making
+  it a solid pick for anyone craving reliable seafood favorites.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +241,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

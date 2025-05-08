@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sumo Sushi and Hibachi"
+title: Sumo Sushi and Hibachi
 permalink: /illinois/chicago/sumo-sushi-and-hibachi.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
 seo:
-  name: "Sumo Sushi and Hibachi"
-  type: Restaurant
+  type: restaurant
   links: http://www.sumosushichicago.com/info.html
-description: "Japanese fare including loads of sushi in a cozy, casual space with a bring-your-own-alcohol policy. Sumo Sushi and Hibachi serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJOxqzQ6fTD4gRirnJRp-8wr8
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 0
 website: http://www.sumosushichicago.com/info.html
+description: >-
+  Discover Sumo Sushi and Hibachi in Chicago, IL$$$Sumo Sushi and Hibachi in
+  Chicago, IL, offers a welcoming retreat for enjoying authentic Japanese
+  flavors, with a focus on fresh sushi and hibachi dishes that draw in locals
+  seeking top sushi spots. This cozy venue features a relaxed atmosphere where
+  guests can savor an extensive selection of Japanese plates, including creative
+  rolls and sizzling hibachi options, all at moderate prices that make it
+  accessible for casual diners. The spot enhances the experience with thoughtful
+  accessibility features, ensuring everyone can enjoy a comfortable meal without
+  barriers. Additionally, its bring-your-own policy adds a personal flair,
+  perfect for intimate gatherings or quick visits when exploring sushi
+  restaurants nearby.
+generative_summary: >-
+  Discover Sumo Sushi and Hibachi in Chicago, IL$$$Sumo Sushi and Hibachi in
+  Chicago, IL, offers a welcoming retreat for enjoying authentic Japanese
+  flavors, with a focus on fresh sushi and hibachi dishes that draw in locals
+  seeking top sushi spots. This cozy venue features a relaxed atmosphere where
+  guests can savor an extensive selection of Japanese plates, including creative
+  rolls and sizzling hibachi options, all at moderate prices that make it
+  accessible for casual diners. The spot enhances the experience with thoughtful
+  accessibility features, ensuring everyone can enjoy a comfortable meal without
+  barriers. Additionally, its bring-your-own policy adds a personal flair,
+  perfect for intimate gatherings or quick visits when exploring sushi
+  restaurants nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJOxqzQ6fTD4gRirnJRp-8wr8/reviews/ChZDSUhNMG9nS0VJQ0FnTUNndlBqYkdnEAE
@@ -344,6 +367,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURGMnB6b1JREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURGMnB6b1JREAE!2m1!1s0x880fd3a743b31a3b:0xbfc2bc9f46c9b98a
+review_summary: >-
+  What Visitors Say About This Chicago Sushi Favorite$$$Folks consistently
+  praise the vibrant flavors and generous portions of the sushi and hibachi
+  offerings, making it a go-to for satisfying cravings in a welcoming setting.
+  Many highlight the efficient and friendly service that keeps the vibe light
+  and enjoyable, whether you're stopping in for a speedy lunch or a relaxed
+  evening out. Reviewers often note the clean environment and fresh ingredients
+  that elevate the overall experience, turning simple meals into memorable ones.
+  It's frequently recommended as a solid pick for groups or families hunting for
+  reliable Japanese fare, with feedback emphasizing its value as one of the best
+  sushi places around. Overall, the consensus leans positive, suggesting it's a
+  trustworthy choice for anyone looking to enjoy quality dishes without any
+  major drawbacks.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options:
   acceptsCreditCards: true
@@ -373,8 +410,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Japanese fare including loads of sushi in a cozy, casual space with a
   bring-your-own-alcohol policy.
 

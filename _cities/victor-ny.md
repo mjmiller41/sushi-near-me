@@ -5,4 +5,5 @@ permalink: /new-york/victor/
 stateAbbr: NY
 stateName: New York
 cityName: Victor
+
 ---

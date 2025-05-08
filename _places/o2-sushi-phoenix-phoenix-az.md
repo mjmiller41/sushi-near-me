@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "O2 Sushi Phoenix"
+title: O2 Sushi Phoenix
 permalink: /arizona/phoenix/o2-sushi-phoenix.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Phoenix
 seo:
-  name: "O2 Sushi Phoenix"
-  type: Restaurant
+  type: restaurant
   links: https://www.o2sushiaz.com/
-description: "O2 Sushi Phoenix serves delicious sushi in Phoenix, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ9ZX3WvxxK4cRwwNLjvmn9as
 photos:
   - name: >-
@@ -143,7 +141,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADycKz7i4tpmfxwPAAA4aH!2e10!4m2!3m1!1s0x872b71fc5af795f5:0xabf5a7f98e4b03c3
 address: A10a, 21043 N Cave Creek Rd, Phoenix, AZ 85024, USA
-street: A10a, 21043 N Cave Creek Rd
+street: A10a,21043 N Cave Creek Rd
 city: Phoenix
 state: AZ
 zip: '85024'
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x872b71fc5af795f5:0xabf5a7f98e4b03c3!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:00 PM'
     - 'Saturday: 11:00 AM – 9:00 PM'
     - 'Sunday: 12:00 – 8:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 9:00 PM'
-    - 'Saturday: 11:00 AM – 9:00 PM'
-    - 'Sunday: 12:00 – 8:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +238,234 @@ phone: (602) 971-2190
 price_level: null
 price_range: $10 &ndash; $20
 rating: '4.5'
-rating_count: 0
+rating_count: 671
 website: https://www.o2sushiaz.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover O2 Sushi in Phoenix, AZ$$$O2 Sushi Phoenix in Phoenix, AZ, stands out
+  as a lively conveyor belt sushi restaurant, offering a fresh array of small
+  plates and Japanese beverages that capture the essence of authentic dining.
+  Patrons can enjoy a seamless experience with dishes circulating on a belt,
+  making it easy to sample top-rated sushi options in a welcoming atmosphere.
+  The spot emphasizes accessibility, featuring wheelchair-friendly parking,
+  entrances, and seating, alongside convenient hours that cater to both lunch
+  and dinner crowds. Its reasonably priced menu and variety of vegetarian
+  choices make it a go-to for those searching for quality sushi restaurants near
+  them, blending convenience with flavorful Japanese cuisine.
+generative_summary: >-
+  Discover O2 Sushi in Phoenix, AZ$$$O2 Sushi Phoenix in Phoenix, AZ, stands out
+  as a lively conveyor belt sushi restaurant, offering a fresh array of small
+  plates and Japanese beverages that capture the essence of authentic dining.
+  Patrons can enjoy a seamless experience with dishes circulating on a belt,
+  making it easy to sample top-rated sushi options in a welcoming atmosphere.
+  The spot emphasizes accessibility, featuring wheelchair-friendly parking,
+  entrances, and seating, alongside convenient hours that cater to both lunch
+  and dinner crowds. Its reasonably priced menu and variety of vegetarian
+  choices make it a go-to for those searching for quality sushi restaurants near
+  them, blending convenience with flavorful Japanese cuisine.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ9ZX3WvxxK4cRwwNLjvmn9as/reviews/ChdDSUhNMG9nS0VJQ0FnTUNBbnFEcS13RRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        Under new management, service is still the same,(amazing) made plans to
+        dine here since my kids love sushi especially revolving sushi. No one
+        was disappointed. Not going to lie, I told my kids they had a new claw
+        machine. My kids took that as a challenge, needless to say they got the
+        magic key, the big prize amazed my teens. Nothing disappointed! Wish I
+        had taken more pictures! Hands down still my favorite revolving sushi
+        near me.
+      languageCode: en
+    originalText:
+      text: >-
+        Under new management, service is still the same,(amazing) made plans to
+        dine here since my kids love sushi especially revolving sushi. No one
+        was disappointed. Not going to lie, I told my kids they had a new claw
+        machine. My kids took that as a challenge, needless to say they got the
+        magic key, the big prize amazed my teens. Nothing disappointed! Wish I
+        had taken more pictures! Hands down still my favorite revolving sushi
+        near me.
+      languageCode: en
+    authorAttribution:
+      displayName: Tammy Guinn
+      uri: https://www.google.com/maps/contrib/105181904480909331257/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKgRWEGjnFmhF0kbwUJCJdMFvy2piNsjUICKr73m_WftVsteQ=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-02-01T03:15:49.998426Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNBbnFEcS13RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNBbnFEcS13RRAB!2m1!1s0x872b71fc5af795f5:0xabf5a7f98e4b03c3
+  - name: >-
+      places/ChIJ9ZX3WvxxK4cRwwNLjvmn9as/reviews/ChdDSUhNMG9nS0VJQ0FnTUNRb0l5dzJBRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        I’ve been regularly coming here for about three years now! It’s always
+        an amazing experience, the staff is friendly, the sushi is fresh &
+        delicious, and the restaurant always looks clean. The staff is always
+        incredible but tonight they were above and beyond amazing. My girlfriend
+        dropped her chopstick, and the kitchen noticed and got us another set.
+        They were so kind to make us some extra sushi that was gorgeously
+        displayed and tasted amazing!!
+      languageCode: en
+    originalText:
+      text: >-
+        I’ve been regularly coming here for about three years now! It’s always
+        an amazing experience, the staff is friendly, the sushi is fresh &
+        delicious, and the restaurant always looks clean. The staff is always
+        incredible but tonight they were above and beyond amazing. My girlfriend
+        dropped her chopstick, and the kitchen noticed and got us another set.
+        They were so kind to make us some extra sushi that was gorgeously
+        displayed and tasted amazing!!
+      languageCode: en
+    authorAttribution:
+      displayName: B S
+      uri: https://www.google.com/maps/contrib/105193353525787439320/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJIAkpxIt3eIl-zbIpd2_rdjadw6NSqj62xzpRM4rY1NEX9sw=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-01T03:08:38.382674Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNRb0l5dzJBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNRb0l5dzJBRRAB!2m1!1s0x872b71fc5af795f5:0xabf5a7f98e4b03c3
+  - name: >-
+      places/ChIJ9ZX3WvxxK4cRwwNLjvmn9as/reviews/ChZDSUhNMG9nS0VJQ0FnTURJeXZucExnEAE
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 5
+    text:
+      text: >-
+        We have been coming here for a long time. It is a conveyor style sushi
+        place (IYKYK) with a nice variety of delicious recipes. Mike and Sun,
+        the owners, recently retired and sold the place. The new owners are
+        keeping up (improving!) the quality and variety and the same, friendly
+        atmosphere. The new toy vending machines are kind of an odd addition,
+        though! :-) We are here at least a couple of times a month. Ample
+        seating at the bar or at tables, all within easy reach of the conveyors.
+      languageCode: en
+    originalText:
+      text: >-
+        We have been coming here for a long time. It is a conveyor style sushi
+        place (IYKYK) with a nice variety of delicious recipes. Mike and Sun,
+        the owners, recently retired and sold the place. The new owners are
+        keeping up (improving!) the quality and variety and the same, friendly
+        atmosphere. The new toy vending machines are kind of an odd addition,
+        though! :-) We are here at least a couple of times a month. Ample
+        seating at the bar or at tables, all within easy reach of the conveyors.
+      languageCode: en
+    authorAttribution:
+      displayName: Mark Lambert
+      uri: https://www.google.com/maps/contrib/114369238462869866621/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocK3Lp9k9nyQcna8S-mZ3bJWBqH-drZUvdbzGOie2ksrTA47tw=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-08T20:24:09.516875Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURJeXZucExnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJeXZucExnEAE!2m1!1s0x872b71fc5af795f5:0xabf5a7f98e4b03c3
+  - name: >-
+      places/ChIJ9ZX3WvxxK4cRwwNLjvmn9as/reviews/ChZDSUhNMG9nS0VJQ0FnSUNwbF9HRUJnEAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        First time back since the new owners took over. It is still really good.
+        Awesome sashimi. Great staff, attentive and friendly. Nice decor. Ice
+        cold beer glasses. Highly recommend.
+      languageCode: en
+    originalText:
+      text: >-
+        First time back since the new owners took over. It is still really good.
+        Awesome sashimi. Great staff, attentive and friendly. Nice decor. Ice
+        cold beer glasses. Highly recommend.
+      languageCode: en
+    authorAttribution:
+      displayName: Mark Field
+      uri: https://www.google.com/maps/contrib/108873506058827048864/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJYH86iHSzildAhwxvBDEJYkVidLl1RbzHn1kKM9ZQxys5LHA=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-12-07T02:34:03.465985Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNwbF9HRUJnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNwbF9HRUJnEAE!2m1!1s0x872b71fc5af795f5:0xabf5a7f98e4b03c3
+  - name: >-
+      places/ChIJ9ZX3WvxxK4cRwwNLjvmn9as/reviews/ChZDSUhNMG9nS0VJQ0FnSUQxd19PTmNREAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        Came here for lunch. Tried several plates and they were all good. It
+        didn’t smell fishy and you could tell the had good quality ingredients.
+        As you can see on my picture of this place, the food also looked good.
+        The place was clean and the waitress was quick to get our drinks.
+      languageCode: en
+    originalText:
+      text: >-
+        Came here for lunch. Tried several plates and they were all good. It
+        didn’t smell fishy and you could tell the had good quality ingredients.
+        As you can see on my picture of this place, the food also looked good.
+        The place was clean and the waitress was quick to get our drinks.
+      languageCode: en
+    authorAttribution:
+      displayName: Issa Able
+      uri: https://www.google.com/maps/contrib/118397791905763146358/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUZMDfyXulNtNp53Ardh-JxfBDe79FK9dpm92cc61WrI-KGDLo=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-04-09T22:23:00.848259Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQxd19PTmNREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQxd19PTmNREAE!2m1!1s0x872b71fc5af795f5:0xabf5a7f98e4b03c3
+review_summary: >-
+  What Diners Are Saying About This Sushi Spot$$$Folks rave about the fresh and
+  diverse conveyor belt sushi here, with highlights on tasty rolls and nigiri
+  that keep things exciting and satisfying for a casual meal. Many appreciate
+  the friendly staff and spotless setting, noting how the attentive service
+  enhances the overall vibe without any fuss. It's often described as a
+  family-friendly place where the reasonably priced options make it ideal for
+  groups looking for a fun outing. While some mention fun extras like toy
+  machines adding a playful touch, the consistent quality and variety ensure
+  it's a solid choice for anyone craving the best sushi near them. Overall, this
+  spot delivers a reliably enjoyable experience that leaves visitors coming back
+  for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
 menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
 serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

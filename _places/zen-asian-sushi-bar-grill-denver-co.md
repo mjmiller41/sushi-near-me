@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Zen Asian Sushi Bar & Grill"
+title: Zen Asian Sushi Bar & Grill
 permalink: /colorado/denver/zen-asian-sushi-bar-grill.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Denver
 seo:
-  name: "Zen Asian Sushi Bar & Grill"
-  type: Restaurant
+  type: restaurant
   links: http://zensushinorthfield.com/
-description: "Zen Asian Sushi Bar & Grill serves delicious sushi in Denver, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ6eg6fql7bIcRo8C5mX5WVLw
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x876c7ba97e3ae8e9:0xbc54567e99b9c0a3!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 10:00 PM'
     - 'Tuesday: 11:00 AM – 10:00 PM'
     - 'Wednesday: 11:00 AM – 10:00 PM'
@@ -178,54 +234,341 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:00 PM'
     - 'Saturday: 11:00 AM – 10:00 PM'
     - 'Sunday: 11:00 AM – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 10:00 PM'
-    - 'Tuesday: 11:00 AM – 10:00 PM'
-    - 'Wednesday: 11:00 AM – 10:00 PM'
-    - 'Thursday: 11:00 AM – 10:00 PM'
-    - 'Friday: 11:00 AM – 10:00 PM'
-    - 'Saturday: 11:00 AM – 10:00 PM'
-    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 15
+          minute: 0
+        close:
+          day: 0
+          hour: 18
+          minute: 0
+      - open:
+          day: 1
+          hour: 15
+          minute: 0
+        close:
+          day: 1
+          hour: 18
+          minute: 0
+      - open:
+          day: 2
+          hour: 15
+          minute: 0
+        close:
+          day: 2
+          hour: 18
+          minute: 0
+      - open:
+          day: 3
+          hour: 15
+          minute: 0
+        close:
+          day: 3
+          hour: 18
+          minute: 0
+      - open:
+          day: 4
+          hour: 15
+          minute: 0
+        close:
+          day: 4
+          hour: 18
+          minute: 0
+      - open:
+          day: 5
+          hour: 15
+          minute: 0
+        close:
+          day: 5
+          hour: 18
+          minute: 0
+      - open:
+          day: 6
+          hour: 15
+          minute: 0
+        close:
+          day: 6
+          hour: 18
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 3:00 – 6:00 PM'
+      - 'Tuesday: 3:00 – 6:00 PM'
+      - 'Wednesday: 3:00 – 6:00 PM'
+      - 'Thursday: 3:00 – 6:00 PM'
+      - 'Friday: 3:00 – 6:00 PM'
+      - 'Saturday: 3:00 – 6:00 PM'
+      - 'Sunday: 3:00 – 6:00 PM'
+    secondaryHoursType: HAPPY_HOUR
+    nextCloseTime: '2025-05-04T00:00:00Z'
 phone: (303) 371-4644
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.4'
-rating_count: 0
+rating_count: 1636
 website: http://zensushinorthfield.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Zen Asian Sushi Bar & Grill in Denver, CO$$$Zen Asian Sushi Bar &
+  Grill in Denver, CO, stands out as a casual spot blending Japanese flavors
+  with other Asian influences, making it a go-to for fresh sushi and creative
+  cocktails in a modern setting. The restaurant features an upbeat atmosphere
+  with stylish presentations and a welcoming patio, ideal for enjoying flavorful
+  dishes that highlight the best of Asian cuisine. Accessibility is a key plus,
+  with options like wheelchair-friendly entrances and parking, ensuring everyone
+  can savor the experience. Open daily for lunch and dinner, it offers a variety
+  of options that cater to those seeking tasty sushi options nearby, from
+  classic rolls to pan-Asian entrees that balance bold tastes and fresh
+  ingredients.
+generative_summary: >-
+  Discover Zen Asian Sushi Bar & Grill in Denver, CO$$$Zen Asian Sushi Bar &
+  Grill in Denver, CO, stands out as a casual spot blending Japanese flavors
+  with other Asian influences, making it a go-to for fresh sushi and creative
+  cocktails in a modern setting. The restaurant features an upbeat atmosphere
+  with stylish presentations and a welcoming patio, ideal for enjoying flavorful
+  dishes that highlight the best of Asian cuisine. Accessibility is a key plus,
+  with options like wheelchair-friendly entrances and parking, ensuring everyone
+  can savor the experience. Open daily for lunch and dinner, it offers a variety
+  of options that cater to those seeking tasty sushi options nearby, from
+  classic rolls to pan-Asian entrees that balance bold tastes and fresh
+  ingredients.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ6eg6fql7bIcRo8C5mX5WVLw/reviews/ChdDSUhNMG9nS0VJQ0FnTUNvemRyNHV3RRAB
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        Had the whole grilled squid and the I love you and I miss you rolls. My
+        partner got the panangi Thai curry with filet mignon. The taste balance
+        was perfect with my purple hazeini drink. This is the closest you'll get
+        to being in Japan while at home or visiting the area. I hope to come
+        back.
+      languageCode: en
+    originalText:
+      text: >-
+        Had the whole grilled squid and the I love you and I miss you rolls. My
+        partner got the panangi Thai curry with filet mignon. The taste balance
+        was perfect with my purple hazeini drink. This is the closest you'll get
+        to being in Japan while at home or visiting the area. I hope to come
+        back.
+      languageCode: en
+    authorAttribution:
+      displayName: Julie Haas
+      uri: https://www.google.com/maps/contrib/101811806574386795175/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUV6tlEhbC9bYMtMIW4fhP6xSta2uOBJd40UJm16CZbIIJLbJ_9=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-04-19T01:41:25.365181Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNvemRyNHV3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNvemRyNHV3RRAB!2m1!1s0x876c7ba97e3ae8e9:0xbc54567e99b9c0a3
+  - name: >-
+      places/ChIJ6eg6fql7bIcRo8C5mX5WVLw/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3elpheDVRRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        We came during happy hour and let me say the portion sizes are LARGE! We
+        ended up having the tempura chicken and shrimp, lettuce wraps which were
+        all on the happy hour menu. We did also order from the menu and got
+        sesame chicken, and honey walnut chicken. Even if you stay with just the
+        happy hour menu you'll definitely get full. The honey walnut chicken
+        wasn't what I expected (maybe cause I was comparing it to panda express
+        honey walnut shrimp and this dish lacked sweetness which was on me for
+        comparing the two) but it was still good and I loved the mushrooms. A
+        great eatery spot if you're doing some shopping at northfield.
+      languageCode: en
+    originalText:
+      text: >-
+        We came during happy hour and let me say the portion sizes are LARGE! We
+        ended up having the tempura chicken and shrimp, lettuce wraps which were
+        all on the happy hour menu. We did also order from the menu and got
+        sesame chicken, and honey walnut chicken. Even if you stay with just the
+        happy hour menu you'll definitely get full. The honey walnut chicken
+        wasn't what I expected (maybe cause I was comparing it to panda express
+        honey walnut shrimp and this dish lacked sweetness which was on me for
+        comparing the two) but it was still good and I loved the mushrooms. A
+        great eatery spot if you're doing some shopping at northfield.
+      languageCode: en
+    authorAttribution:
+      displayName: Ashanti Johnson (RedQueen)
+      uri: https://www.google.com/maps/contrib/100033324974821328225/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXMoAv98NsweaBF482B41L7zKffg7ingJRGhfCKrGjoq9ktwNxrAQ=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-03-27T14:04:34.576716Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUR3elpheDVRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUR3elpheDVRRRAB!2m1!1s0x876c7ba97e3ae8e9:0xbc54567e99b9c0a3
+  - name: >-
+      places/ChIJ6eg6fql7bIcRo8C5mX5WVLw/reviews/ChZDSUhNMG9nS0VJQ0FnSUNfOFBxaER3EAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 3
+    text:
+      text: >-
+        It was a nice experience but not AMAZING.  It is a good option for a
+        decent meal before a movie.  We had Miso Soup(good)and their version of
+        Tom Kha Kai(not good) it was way too salty and had a different flavor
+        than we are used to(my wife gets it everywhere we go). The Sushi roll
+        was good and Sashimi was as well.  I had The General Lee's(Tso's)
+        chicken with fried rice and it was pretty good, I would order it again.
+
+
+        Our service was very attentive, the timing was good and he was very nice
+        as was the manager that helped us towards the end.
+
+
+        Overall, I would recommend it if you're in the area and want a different
+        option than just a burger and fries.
+      languageCode: en
+    originalText:
+      text: >-
+        It was a nice experience but not AMAZING.  It is a good option for a
+        decent meal before a movie.  We had Miso Soup(good)and their version of
+        Tom Kha Kai(not good) it was way too salty and had a different flavor
+        than we are used to(my wife gets it everywhere we go). The Sushi roll
+        was good and Sashimi was as well.  I had The General Lee's(Tso's)
+        chicken with fried rice and it was pretty good, I would order it again.
+
+
+        Our service was very attentive, the timing was good and he was very nice
+        as was the manager that helped us towards the end.
+
+
+        Overall, I would recommend it if you're in the area and want a different
+        option than just a burger and fries.
+      languageCode: en
+    authorAttribution:
+      displayName: Jake Singleton
+      uri: https://www.google.com/maps/contrib/106894239085453206300/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIwnJ77pD7fnYgUaLWktUv96s_kgWrCeDBG1rdJf8HLICLUN1h-=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-01-12T05:24:13.196838Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNfOFBxaER3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNfOFBxaER3EAE!2m1!1s0x876c7ba97e3ae8e9:0xbc54567e99b9c0a3
+  - name: >-
+      places/ChIJ6eg6fql7bIcRo8C5mX5WVLw/reviews/ChdDSUhNMG9nS0VJQ0FnTURReHRlUW1RRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        I’ve been here several times and it’s always on point. I get sashimi
+        every time and sometimes some extra a la carte sushi like unagi,
+        yellowtail, or tobiko. It is always fresh and nicely sized cuts. Warm
+        house sake is a perfect complement. Also fresh shiso leaves are
+        fantastic.
+
+        The service is always spot on as well. Whether sitting at a booth in
+        Lorena’s section or being served at the bar with Dailyn or Jenn, I’m
+        always taken care of. I’ll keep coming back because of the great service
+        and fresh fish!
+      languageCode: en
+    originalText:
+      text: >-
+        I’ve been here several times and it’s always on point. I get sashimi
+        every time and sometimes some extra a la carte sushi like unagi,
+        yellowtail, or tobiko. It is always fresh and nicely sized cuts. Warm
+        house sake is a perfect complement. Also fresh shiso leaves are
+        fantastic.
+
+        The service is always spot on as well. Whether sitting at a booth in
+        Lorena’s section or being served at the bar with Dailyn or Jenn, I’m
+        always taken care of. I’ll keep coming back because of the great service
+        and fresh fish!
+      languageCode: en
+    authorAttribution:
+      displayName: Karen Casner
+      uri: https://www.google.com/maps/contrib/107565726439131937873/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUaLRrv-zUTvHYrYZmkG399UOTf0BDlgY9RPv2hqGXz8g_MGKw8=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-03-10T20:22:05.269253Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURReHRlUW1RRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURReHRlUW1RRRAB!2m1!1s0x876c7ba97e3ae8e9:0xbc54567e99b9c0a3
+  - name: >-
+      places/ChIJ6eg6fql7bIcRo8C5mX5WVLw/reviews/ChZDSUhNMG9nS0VJQ0FnSUR2bDhIYVpnEAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 4
+    text:
+      text: >-
+        Have been here multiple times and it isn’t my favorite place for sushi
+        but it is okay. Usually always get green mussels, potstickers, salmon
+        nigiri, spicy scallop nigiri, Hot Lover’s roll and Banzai roll. Usually
+        order a michelada or a Moscow mule for a drink as last time I tried
+        something else I didn’t like it.
+      languageCode: en
+    originalText:
+      text: >-
+        Have been here multiple times and it isn’t my favorite place for sushi
+        but it is okay. Usually always get green mussels, potstickers, salmon
+        nigiri, spicy scallop nigiri, Hot Lover’s roll and Banzai roll. Usually
+        order a michelada or a Moscow mule for a drink as last time I tried
+        something else I didn’t like it.
+      languageCode: en
+    authorAttribution:
+      displayName: Karen Gomez
+      uri: https://www.google.com/maps/contrib/115367212109664190696/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWPRgZuvL_B6IPhZ4Cq5OaBsEMvfS7DjWOA9QyRFth6L0pSSk2R=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-12-27T07:00:03.276299Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR2bDhIYVpnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR2bDhIYVpnEAE!2m1!1s0x876c7ba97e3ae8e9:0xbc54567e99b9c0a3
+review_summary: >-
+  What Visitors Are Saying About This Spot$$$Folks rave about the generous
+  portions and fresh flavors at this sushi spot, especially during happy hour
+  when deals on dishes like tempura and rolls make for a satisfying meal. Many
+  appreciate the consistent quality of the sushi and sashimi, noting how the
+  ingredients shine through in every bite, though a few mention that some soups
+  or dishes can be a bit too salty for their taste. Overall, the service gets
+  high marks for being attentive and friendly, enhancing the laid-back vibe
+  that's perfect for groups or a quick bite after shopping. Customers often
+  highlight the value and variety, making it a solid choice for anyone craving
+  Asian-inspired eats in the area. If you're in the mood for reliable sushi
+  places near you, this one delivers a mostly positive experience with just a
+  few minor tweaks needed for perfection.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
 allow_dogs: null
-curbside_pickup: null
+curbside_pickup: false
 delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
+dine_in: true
+good_for_children: true
+good_for_groups: true
 good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+live_music: false
+menu_for_children: true
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
+serves_coffee: true
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Sushi & Pan-Asian entrees are stylishly presented in an upbeat modern setting
+  with a patio.
 
 ---

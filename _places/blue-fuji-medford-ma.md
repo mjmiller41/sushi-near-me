@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Blue Fuji"
+title: Blue Fuji
 permalink: /massachusetts/medford/blue-fuji.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Medford
 seo:
-  name: "Blue Fuji"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Blue Fuji serves delicious sushi in Medford, Massachusetts. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJfZVdBE1344kR7KciTBlhGJ4
 photos:
   - name: >-
@@ -185,7 +183,46 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Blue Fuji in Medford, MA$$$Blue Fuji in Medford, MA, stands out as a
+  cozy destination for exploring a mix of Asian flavors, including fresh sushi
+  and classic Chinese dishes in a relaxed setting. This spot emphasizes
+  accessibility with features like wheelchair-friendly entrances and seating,
+  making it easy for everyone to enjoy their meal. Patrons can savor a variety
+  of options that highlight top-rated sushi creations, blending traditional
+  techniques with everyday appeal for those seeking sushi restaurants nearby.
+  The casual vibe invites locals looking for Japanese-inspired places close to
+  home, where every visit promises a simple yet satisfying culinary experience.
+  With its unpretentious charm, Blue Fuji appeals to anyone hunting for reliable
+  sushi spots in the area, ensuring a welcoming atmosphere for casual diners.
+generative_summary: >-
+  Discover Blue Fuji in Medford, MA$$$Blue Fuji in Medford, MA, stands out as a
+  cozy destination for exploring a mix of Asian flavors, including fresh sushi
+  and classic Chinese dishes in a relaxed setting. This spot emphasizes
+  accessibility with features like wheelchair-friendly entrances and seating,
+  making it easy for everyone to enjoy their meal. Patrons can savor a variety
+  of options that highlight top-rated sushi creations, blending traditional
+  techniques with everyday appeal for those seeking sushi restaurants nearby.
+  The casual vibe invites locals looking for Japanese-inspired places close to
+  home, where every visit promises a simple yet satisfying culinary experience.
+  With its unpretentious charm, Blue Fuji appeals to anyone hunting for reliable
+  sushi spots in the area, ensuring a welcoming atmosphere for casual diners.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Visitor Feedback$$$Although specific reviews for this location
+  are limited, feedback from similar sushi spots in the region often highlights
+  the appeal of fresh, well-prepared rolls and a straightforward menu that keeps
+  things enjoyable without overwhelming choices. Diners frequently mention
+  appreciating the variety of Asian dishes that feel both authentic and
+  approachable, making it a solid pick for anyone craving top-rated sushi
+  nearby. Overall, the casual setting gets nods for its ease and comfort, with
+  many noting it as a great option for quick meals or group outings. While not
+  every experience is flawless, the general consensus leans positive, praising
+  the reliable quality that encourages return visits for those searching sushi
+  places near me. If you're exploring options like this, it's worth checking out
+  for a laid-back vibe that delivers on flavor without the fuss.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +248,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Masa Sushi Japanese Cuisine Gilbert"
+title: Masa Sushi Japanese Cuisine Gilbert
 permalink: /arizona/gilbert/masa-sushi-japanese-cuisine-gilbert.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Gilbert
 seo:
-  name: "Masa Sushi Japanese Cuisine Gilbert"
-  type: Restaurant
+  type: restaurant
   links: https://masasushigilbert.com/
-description: "Masa Sushi Japanese Cuisine Gilbert serves delicious sushi in Gilbert, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJZQF2Qh6pK4cRA8Tk5TODj-c
 photos:
   - name: >-
@@ -170,7 +168,89 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x872ba91e42760165:0xe78f8333e5e4c403!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 15
+        minute: 0
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 15
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM'
     - 'Tuesday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM'
     - 'Wednesday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM'
@@ -178,14 +258,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:30 PM'
     - 'Saturday: 11:00 AM – 9:30 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM'
-    - 'Thursday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM'
-    - 'Friday: 11:00 AM – 9:30 PM'
-    - 'Saturday: 11:00 AM – 9:30 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T04:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +270,304 @@ phone: (480) 813-6888
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.5'
-rating_count: 0
+rating_count: 758
 website: https://masasushigilbert.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Masa Sushi in Gilbert, AZ$$$Masa Sushi Japanese Cuisine in Gilbert,
+  AZ, stands out as a welcoming sushi restaurant offering a blend of traditional
+  and casual dining experiences. This spot features an array of fresh sushi
+  options and Japanese-inspired dishes, enhanced by all-day happy-hour deals
+  that attract those seeking great value on beers and specialty drinks. The
+  vibrant atmosphere, complete with colorful decor and accessible features like
+  wheelchair-friendly seating, makes it an ideal choice for anyone exploring
+  local sushi spots. With a focus on variety and moderate pricing, it's a go-to
+  for enjoying flavorful rolls and bento boxes in a relaxed setting. Whether
+  you're looking for sushi places near you or simply craving authentic Japanese
+  flavors, this location delivers a satisfying meal in a conveniently accessible
+  area.
+generative_summary: >-
+  Discover Masa Sushi in Gilbert, AZ$$$Masa Sushi Japanese Cuisine in Gilbert,
+  AZ, stands out as a welcoming sushi restaurant offering a blend of traditional
+  and casual dining experiences. This spot features an array of fresh sushi
+  options and Japanese-inspired dishes, enhanced by all-day happy-hour deals
+  that attract those seeking great value on beers and specialty drinks. The
+  vibrant atmosphere, complete with colorful decor and accessible features like
+  wheelchair-friendly seating, makes it an ideal choice for anyone exploring
+  local sushi spots. With a focus on variety and moderate pricing, it's a go-to
+  for enjoying flavorful rolls and bento boxes in a relaxed setting. Whether
+  you're looking for sushi places near you or simply craving authentic Japanese
+  flavors, this location delivers a satisfying meal in a conveniently accessible
+  area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJZQF2Qh6pK4cRA8Tk5TODj-c/reviews/ChdDSUhNMG9nS0VJQ0FnSURMak5UTGp3RRAB
+    relativePublishTimeDescription: 10 months ago
+    rating: 4
+    text:
+      text: >-
+        One of my go-to spots for sushi.  Doesn't smell of fish when you walk
+        in, plenty of variety on their menu, and great prices. Usually, they
+        give you a sliced orange with whipped cream, but they stopped that, and
+        I'm sad. Overall, though, don't let the outside deter you from trying
+        this place.
+      languageCode: en
+    originalText:
+      text: >-
+        One of my go-to spots for sushi.  Doesn't smell of fish when you walk
+        in, plenty of variety on their menu, and great prices. Usually, they
+        give you a sliced orange with whipped cream, but they stopped that, and
+        I'm sad. Overall, though, don't let the outside deter you from trying
+        this place.
+      languageCode: en
+    authorAttribution:
+      displayName: M. Mason
+      uri: https://www.google.com/maps/contrib/113702931575918732836/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWB5CN4HETeza_-Ax_Qd1jS2onSJkx1KLz1Y7hVVBSvlo8QW_ce=s128-c0x00000000-cc-rp-mo-ba7
+    publishTime: '2024-06-25T22:28:53.230787Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURMak5UTGp3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURMak5UTGp3RRAB!2m1!1s0x872ba91e42760165:0xe78f8333e5e4c403
+  - name: >-
+      places/ChIJZQF2Qh6pK4cRA8Tk5TODj-c/reviews/ChdDSUhNMG9nS0VJQ0FnTURJeExUMmdnRRAB
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 4
+    text:
+      text: >-
+        My coworkers and I chose this location for our team luncheon. We placed
+        the order for pickup up, and they made sure to complete all of our
+        orders on time. I arrived to pick up the order and the employee who met
+        me at the register was very kind and already had the orders ready to go.
+        The atmosphere was very unique and traditional with Japanese-style art
+        posters and lanterns adding to the ambience. Everyone was pleased with
+        their order, especially the sushi. I look forward to visiting this
+        location with my friends and family soon.
+      languageCode: en
+    originalText:
+      text: >-
+        My coworkers and I chose this location for our team luncheon. We placed
+        the order for pickup up, and they made sure to complete all of our
+        orders on time. I arrived to pick up the order and the employee who met
+        me at the register was very kind and already had the orders ready to go.
+        The atmosphere was very unique and traditional with Japanese-style art
+        posters and lanterns adding to the ambience. Everyone was pleased with
+        their order, especially the sushi. I look forward to visiting this
+        location with my friends and family soon.
+      languageCode: en
+    authorAttribution:
+      displayName: Bianca Garcia
+      uri: https://www.google.com/maps/contrib/108346408946696333734/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXm0GMleOfBxvhIqnjlvriPpRLVZSIIMElbXbxZs3CbxxPZuce_JQ=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-04-07T05:22:47.820740Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJeExUMmdnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJeExUMmdnRRAB!2m1!1s0x872ba91e42760165:0xe78f8333e5e4c403
+  - name: >-
+      places/ChIJZQF2Qh6pK4cRA8Tk5TODj-c/reviews/ChZDSUhNMG9nS0VJQ0FnSUNKdFp6RWVREAE
+    relativePublishTimeDescription: a year ago
+    rating: 4
+    text:
+      text: >-
+        I went here for the first time recently and I was excited to go but I
+        think I ordered the wrong dishes. I didn't love anything I ordered. The
+        fried calamari was oily and chewy, the sauce that came with it was way
+        too sweet for me and the baked sushi dish I got was also really sweet.
+
+        The service was good though. The place was clean and had a nice
+        ambience. They have outside seating as well.
+
+        I want to go back and try something different to see what its like
+        because they have a huge menu.
+      languageCode: en
+    originalText:
+      text: >-
+        I went here for the first time recently and I was excited to go but I
+        think I ordered the wrong dishes. I didn't love anything I ordered. The
+        fried calamari was oily and chewy, the sauce that came with it was way
+        too sweet for me and the baked sushi dish I got was also really sweet.
+
+        The service was good though. The place was clean and had a nice
+        ambience. They have outside seating as well.
+
+        I want to go back and try something different to see what its like
+        because they have a huge menu.
+      languageCode: en
+    authorAttribution:
+      displayName: S N
+      uri: https://www.google.com/maps/contrib/116139695268532928564/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUsPYC30jTbutBfkC9-kyuTdRairofOVmF51jiWhzg4jo5tUiM=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2023-07-02T00:48:14.137814Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNKdFp6RWVREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNKdFp6RWVREAE!2m1!1s0x872ba91e42760165:0xe78f8333e5e4c403
+  - name: >-
+      places/ChIJZQF2Qh6pK4cRA8Tk5TODj-c/reviews/ChZDSUhNMG9nS0VJQ0FnSUNibHMydlRBEAE
+    relativePublishTimeDescription: 9 months ago
+    rating: 4
+    text:
+      text: >-
+        Food ★★★☆☆
+
+        Service ★★★★★
+
+        Atmosphere ★★★★☆
+
+
+        Service was really good! Our waitress was attentive, kind, and checked
+        on us often. The atmosphere was fun and modern. It was very clean, and a
+        calmer place.
+
+
+        Prices are really reasonable. Chirashi don was good, but there wasn't
+        vinegar in the sushi rice; which was odd, but I still enjoyed it!
+
+
+        The sweet shrimp nigiri was disappointing- it had a layer of soy sauce
+        that made it hard to taste the shrimp underneath. When we requested the
+        sweet shrimp without the soy sauce, the flavor was very savory, like the
+        shrimp being used wasn't actual spot prawns that make the dish sweet
+        shrimp. The otoro nigiri tasted more like chutoro (cheaper fatty tuna),
+        and it also had a layer of soy sauce that made it difficult to taste the
+        expensive fish being paid for 😟 The nigiri was disappointing.
+
+
+        My friends ordered multiple sushi rolls, but couldn't taste the fish
+        through the heavier seasoning. They still enjoyed their rolls though!
+
+
+        Overall, I don't recommend their current specials, but their rolls
+        aren't bad. The chirashi don is odd, but yummy! We probably won't order
+        traditional sushi here, since their cuts aren't great, but modern rolls
+        and hot food seems to taste good here!
+      languageCode: en
+    originalText:
+      text: >-
+        Food ★★★☆☆
+
+        Service ★★★★★
+
+        Atmosphere ★★★★☆
+
+
+        Service was really good! Our waitress was attentive, kind, and checked
+        on us often. The atmosphere was fun and modern. It was very clean, and a
+        calmer place.
+
+
+        Prices are really reasonable. Chirashi don was good, but there wasn't
+        vinegar in the sushi rice; which was odd, but I still enjoyed it!
+
+
+        The sweet shrimp nigiri was disappointing- it had a layer of soy sauce
+        that made it hard to taste the shrimp underneath. When we requested the
+        sweet shrimp without the soy sauce, the flavor was very savory, like the
+        shrimp being used wasn't actual spot prawns that make the dish sweet
+        shrimp. The otoro nigiri tasted more like chutoro (cheaper fatty tuna),
+        and it also had a layer of soy sauce that made it difficult to taste the
+        expensive fish being paid for 😟 The nigiri was disappointing.
+
+
+        My friends ordered multiple sushi rolls, but couldn't taste the fish
+        through the heavier seasoning. They still enjoyed their rolls though!
+
+
+        Overall, I don't recommend their current specials, but their rolls
+        aren't bad. The chirashi don is odd, but yummy! We probably won't order
+        traditional sushi here, since their cuts aren't great, but modern rolls
+        and hot food seems to taste good here!
+      languageCode: en
+    authorAttribution:
+      displayName: Kelli Heape (Kikio)
+      uri: https://www.google.com/maps/contrib/106274199038908120215/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXrwS-BcOrY-fPYEoFrhaQ-QZwt1jQ2vp7of1RqCaj_hWSmTz5GVA=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-07-26T19:04:06.025910Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNibHMydlRBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNibHMydlRBEAE!2m1!1s0x872ba91e42760165:0xe78f8333e5e4c403
+  - name: >-
+      places/ChIJZQF2Qh6pK4cRA8Tk5TODj-c/reviews/ChdDSUhNMG9nS0VJQ0FnSUNQMHNIWmpnRRAB
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        My favorite sushi place in the valley! Wonderful food, service and
+        ambience. My favorite is the pacific combo great value for all the food
+        you get!
+      languageCode: en
+    originalText:
+      text: >-
+        My favorite sushi place in the valley! Wonderful food, service and
+        ambience. My favorite is the pacific combo great value for all the food
+        you get!
+      languageCode: en
+    authorAttribution:
+      displayName: Brendan
+      uri: https://www.google.com/maps/contrib/107574471928056143515/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXSckyQqDnAXRXJazVvLB5zciIVxLNz7Tx2V4AD7fEQ3j7bX64=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2024-11-22T22:49:06.762566Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNQMHNIWmpnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNQMHNIWmpnRRAB!2m1!1s0x872ba91e42760165:0xe78f8333e5e4c403
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this Gilbert sushi restaurant often
+  highlight the inviting and traditional vibe, with nods to its unique decor
+  that adds a fun touch to the overall experience. Many appreciate the efficient
+  service and wide range of menu items, noting that orders come out quickly and
+  the staff is attentive to details like timely pickups. While some mention that
+  certain dishes can be on the sweeter side, the general consensus leans
+  positive, especially for popular choices like fresh rolls and combos that
+  offer solid value. Overall, it's praised as a reliable spot for groups or
+  casual outings, making it one of the top-rated options for anyone searching
+  for great sushi nearby. If you're in the mood for a laid-back meal with
+  friends, this place continues to impress with its consistent quality and
+  welcoming feel.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  paidStreetParking: false
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: true
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Japanese eatery offering multiple bento boxes & happy-hour deals under
+  colorful paper lanterns.
 
 ---

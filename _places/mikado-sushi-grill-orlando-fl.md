@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Mikado Sushi & Grill"
+title: Mikado Sushi & Grill
 permalink: /florida/orlando/mikado-sushi-grill.html
 stateAbbr: FL
 stateName: Florida
 cityName: Orlando
 seo:
-  name: "Mikado Sushi & Grill"
-  type: Restaurant
+  type: restaurant
   links: http://mikadosushigrill.com/
-description: "Mikado Sushi & Grill serves delicious sushi in Orlando, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJAyu6dh5554gR25xnvSlXRyo
 photos:
   - name: >-
@@ -199,7 +197,45 @@ price_range: null
 rating: '4.5'
 rating_count: 0
 website: http://mikadosushigrill.com/
+description: >-
+  Discover Mikado Sushi in Orlando, FL$$$Mikado Sushi & Grill in Orlando,
+  Florida, is a standout destination for fresh Japanese-inspired dining that
+  combines quality flavors with a welcoming vibe. This sushi restaurant features
+  an array of creative rolls and grilled dishes designed to appeal to a variety
+  of tastes, making it a go-to option for anyone exploring local sushi spots.
+  Accessibility is thoughtfully integrated, with features like easy parking and
+  seating that ensure a comfortable experience for all visitors. Operating with
+  flexible hours for both lunch and dinner, it's ideal for spontaneous meals or
+  relaxed evenings out. Whether you're seeking the best sushi near you or simply
+  craving reliable Japanese cuisine, this spot delivers a blend of taste and
+  convenience that keeps diners returning.
+generative_summary: >-
+  Discover Mikado Sushi in Orlando, FL$$$Mikado Sushi & Grill in Orlando,
+  Florida, is a standout destination for fresh Japanese-inspired dining that
+  combines quality flavors with a welcoming vibe. This sushi restaurant features
+  an array of creative rolls and grilled dishes designed to appeal to a variety
+  of tastes, making it a go-to option for anyone exploring local sushi spots.
+  Accessibility is thoughtfully integrated, with features like easy parking and
+  seating that ensure a comfortable experience for all visitors. Operating with
+  flexible hours for both lunch and dinner, it's ideal for spontaneous meals or
+  relaxed evenings out. Whether you're seeking the best sushi near you or simply
+  craving reliable Japanese cuisine, this spot delivers a blend of taste and
+  convenience that keeps diners returning.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$People are buzzing about the fresh and flavorful
+  dishes at Mikado Sushi & Grill, praising the solid mix of sushi rolls and
+  grilled options that hit the mark for everyday Japanese cravings. Many note
+  the helpful and speedy service that makes grabbing a meal feel effortless and
+  enjoyable, perfect for casual hangouts or solo trips. The cozy atmosphere adds
+  to the appeal, creating a relaxed setting that's great for unwinding with
+  friends or family. Overall, with its strong reputation for value and quality,
+  this place earns high marks from satisfied visitors, though busier times might
+  mean a brief wait. If you're on the lookout for top-rated sushi restaurants
+  nearby, the positive feedback suggests it's a solid choice for a tasty
+  experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +261,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -5,4 +5,5 @@ permalink: /california/san-gabriel/
 stateAbbr: CA
 stateName: California
 cityName: San Gabriel
+
 ---

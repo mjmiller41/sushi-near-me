@@ -5,4 +5,5 @@ permalink: /ohio/brooklyn/
 stateAbbr: OH
 stateName: Ohio
 cityName: Brooklyn
+
 ---

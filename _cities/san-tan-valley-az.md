@@ -5,4 +5,5 @@ permalink: /arizona/san-tan-valley/
 stateAbbr: AZ
 stateName: Arizona
 cityName: San Tan Valley
+
 ---

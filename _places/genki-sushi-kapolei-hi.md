@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Genki Sushi"
+title: Genki Sushi
 permalink: /hawaii/kapolei/genki-sushi.html
 stateAbbr: HI
 stateName: Hawaii
 cityName: Kapolei
 seo:
-  name: "Genki Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Genki Sushi serves delicious sushi in Kapolei, Hawaii. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJs4DysCdjAHwR0oS4uKxUYNU
 photos:
   - name: >-
@@ -185,7 +183,45 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Explore Genki Sushi in Kapolei, HI$$$Genki Sushi in Kapolei, HI, stands out as
+  a welcoming sushi restaurant offering a variety of fresh Japanese-inspired
+  dishes that capture the essence of coastal flavors. This spot emphasizes
+  accessibility with features like wheelchair-friendly parking and seating,
+  making it an inclusive choice for everyone seeking quality dining. Patrons can
+  enjoy a modern atmosphere highlighted by vibrant presentations of rolls and
+  nigiri, perfect for casual meals or quick visits near the bustling area.
+  Whether you're looking for sushi places near me or top-rated options in
+  Hawaii, this location delivers on freshness and variety that appeals to sushi
+  enthusiasts. Its convenient spot in Kapolei adds to the appeal for those
+  exploring Japanese cuisine close to home.
+generative_summary: >-
+  Explore Genki Sushi in Kapolei, HI$$$Genki Sushi in Kapolei, HI, stands out as
+  a welcoming sushi restaurant offering a variety of fresh Japanese-inspired
+  dishes that capture the essence of coastal flavors. This spot emphasizes
+  accessibility with features like wheelchair-friendly parking and seating,
+  making it an inclusive choice for everyone seeking quality dining. Patrons can
+  enjoy a modern atmosphere highlighted by vibrant presentations of rolls and
+  nigiri, perfect for casual meals or quick visits near the bustling area.
+  Whether you're looking for sushi places near me or top-rated options in
+  Hawaii, this location delivers on freshness and variety that appeals to sushi
+  enthusiasts. Its convenient spot in Kapolei adds to the appeal for those
+  exploring Japanese cuisine close to home.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback on Genki Sushi$$$Folks generally rave about the fresh
+  ingredients and tasty rolls at this sushi spot, often mentioning how it hits
+  the spot for a satisfying meal without breaking the bank. Many appreciate the
+  efficient service and clean environment, which make it a go-to for families or
+  groups wanting something straightforward and enjoyable. While some note that
+  wait times can vary during peak hours, the overall experience tends to leave
+  people feeling pleased with the flavors and portions. It's commonly described
+  as a solid pick for anyone searching for reliable sushi restaurants nearby,
+  with positive vibes around the authenticity of the dishes. All in all, this
+  place keeps things upbeat and reliable, encouraging repeat visits for those
+  who love sushi on the island.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +247,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

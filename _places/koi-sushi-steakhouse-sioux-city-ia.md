@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Koi Sushi & Steakhouse"
+title: Koi Sushi & Steakhouse
 permalink: /iowa/sioux-city/koi-sushi-steakhouse.html
 stateAbbr: IA
 stateName: Iowa
 cityName: Sioux City
 seo:
-  name: "Koi Sushi & Steakhouse"
-  type: Restaurant
+  type: restaurant
   links: http://www.koisiouxcity.com/
-description: "Koi Sushi & Steakhouse serves delicious sushi in Sioux City, Iowa. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJf92EpA4HjocRaZxXCnrwVyo
 photos:
   - name: >-
@@ -170,7 +168,89 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x878e070ea484dd7f:0x2a57f07a0a579c69!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
     - 'Wednesday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
@@ -178,14 +258,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 2:30 PM, 4:30 – 9:30 PM'
     - 'Saturday: 11:00 AM – 9:30 PM'
     - 'Sunday: 11:00 AM – 9:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
-    - 'Thursday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
-    - 'Friday: 11:00 AM – 2:30 PM, 4:30 – 9:30 PM'
-    - 'Saturday: 11:00 AM – 9:30 PM'
-    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +270,49 @@ phone: (712) 560-8561
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.4'
-rating_count: 0
+rating_count: 351
 website: http://www.koisiouxcity.com/
+description: >-
+  Explore Koi Sushi & Steakhouse in Sioux City, IA$$$Koi Sushi & Steakhouse in
+  Sioux City, IA, offers a welcoming spot for those seeking fresh sushi and
+  Japanese-inspired dishes in a relaxed setting. This casual eatery features an
+  array of flavorful options like sushi rolls, sake, and small plates, perfect
+  for anyone exploring top-rated sushi restaurants nearby. With its moderate
+  pricing and accessibility features such as wheelchair-friendly entrances and
+  seating, it caters to a wide range of diners looking for a comfortable meal.
+  The menu highlights a variety of beverages including beer and cocktails,
+  making it an ideal choice for casual gatherings or a quick bite after a day
+  out. Whether you're searching for sushi places near me or wanting to try
+  authentic Japanese flavors, this spot delivers a satisfying experience with
+  its blend of quality ingredients and inviting atmosphere.
+generative_summary: >-
+  Explore Koi Sushi & Steakhouse in Sioux City, IA$$$Koi Sushi & Steakhouse in
+  Sioux City, IA, offers a welcoming spot for those seeking fresh sushi and
+  Japanese-inspired dishes in a relaxed setting. This casual eatery features an
+  array of flavorful options like sushi rolls, sake, and small plates, perfect
+  for anyone exploring top-rated sushi restaurants nearby. With its moderate
+  pricing and accessibility features such as wheelchair-friendly entrances and
+  seating, it caters to a wide range of diners looking for a comfortable meal.
+  The menu highlights a variety of beverages including beer and cocktails,
+  making it an ideal choice for casual gatherings or a quick bite after a day
+  out. Whether you're searching for sushi places near me or wanting to try
+  authentic Japanese flavors, this spot delivers a satisfying experience with
+  its blend of quality ingredients and inviting atmosphere.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Feedback on This Popular Sushi Destination$$$Visitors to this sushi restaurant
+  often rave about the fresh and flavorful dishes that make it a go-to for local
+  food lovers. Many appreciate the variety of options, noting that the sushi
+  rolls and small plates offer great value without skimping on taste, earning it
+  solid praise for everyday dining. Folks frequently mention the welcoming vibe
+  and efficient service, which add to the overall enjoyment of a meal here.
+  While some point out occasional waits during peak times, the consensus leans
+  positive, with diners highlighting it as a reliable choice for quality
+  Japanese cuisine. If you're on the hunt for the best sushi near me, this place
+  stands out for its consistent flavors and approachable setting, making it
+  worth a visit for anyone in the area.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +338,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

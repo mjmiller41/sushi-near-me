@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Tokyo Sushi and Grill at Normandy"
+title: Tokyo Sushi and Grill at Normandy
 permalink: /florida/jacksonville/tokyo-sushi-and-grill-at-normandy.html
 stateAbbr: FL
 stateName: Florida
 cityName: Jacksonville
 seo:
-  name: "Tokyo Sushi and Grill at Normandy"
-  type: Restaurant
+  type: restaurant
   links: http://www.tokyojacksonville.com/
-description: "Strip-mall sushi house offers hibachi-style meals, classic Japanese dishes & rolls amid Asian decor. Tokyo Sushi and Grill at Normandy serves delicious sushi in Jacksonville, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJVZB4kMu45YgRqEolNQGg9MI
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $10 &ndash; $20
 rating: '4.2'
 rating_count: 0
 website: http://www.tokyojacksonville.com/
+description: >-
+  Experience Tokyo Sushi in Jacksonville, FL$$$Tokyo Sushi and Grill at Normandy
+  in Jacksonville, FL, offers a welcoming atmosphere for enjoying authentic
+  Japanese cuisine in a cozy strip-mall setting. This spot highlights fresh
+  rolls and hibachi-style meals that bring creative twists to classic dishes,
+  making it a go-to choice for those seeking sushi restaurants in the area. The
+  inviting decor and spotless environment create a relaxed vibe perfect for
+  casual dining, whether you're stopping by for a quick lunch or a laid-back
+  evening. Accessibility features like wheelchair-friendly seating and parking
+  add to the appeal for families and groups, ensuring everyone can enjoy the
+  flavorful options. Pair your meal with beer or wine for a complete experience
+  that stands out among local Japanese places.
+generative_summary: >-
+  Experience Tokyo Sushi in Jacksonville, FL$$$Tokyo Sushi and Grill at Normandy
+  in Jacksonville, FL, offers a welcoming atmosphere for enjoying authentic
+  Japanese cuisine in a cozy strip-mall setting. This spot highlights fresh
+  rolls and hibachi-style meals that bring creative twists to classic dishes,
+  making it a go-to choice for those seeking sushi restaurants in the area. The
+  inviting decor and spotless environment create a relaxed vibe perfect for
+  casual dining, whether you're stopping by for a quick lunch or a laid-back
+  evening. Accessibility features like wheelchair-friendly seating and parking
+  add to the appeal for families and groups, ensuring everyone can enjoy the
+  flavorful options. Pair your meal with beer or wine for a complete experience
+  that stands out among local Japanese places.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJVZB4kMu45YgRqEolNQGg9MI/reviews/ChdDSUhNMG9nS0VJQ0FnTUNReE0yZjZnRRAB
@@ -342,6 +365,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR2OWVPTDZRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR2OWVPTDZRRRAB!2m1!1s0x88e5b8cb90789055:0xc2f4a00135254aa8
+review_summary: >-
+  Insights from Recent Feedback$$$Diners often praise the fresh sushi and
+  creative rolls, like the fried options and philly egg rolls, which add fun
+  twists to traditional favorites at this sushi spot. Many appreciate the
+  friendly service and clean, peaceful atmosphere that make it ideal for a
+  relaxed meal, though some note occasional inconsistencies in seating comfort
+  or flavor intensity. Overall, the quick delivery and welcoming vibe have folks
+  coming back for both lunch and dinner, especially when looking for top-rated
+  sushi nearby. It's a solid pick for families or groups wanting vegetarian
+  choices and warm sake, with the majority of experiences highlighting delicious
+  food and attentive staff. If you're exploring sushi places in the
+  neighborhood, this one delivers a generally enjoyable outing with room for
+  minor improvements.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -375,8 +412,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Strip-mall sushi house offers hibachi-style meals, classic Japanese dishes &
   rolls amid Asian decor.
 

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Chopfin"
+title: Chopfin
 permalink: /pennsylvania/allentown/chopfin.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Allentown
 seo:
-  name: "Chopfin"
-  type: Restaurant
+  type: restaurant
   links: http://www.chopfin.com/
-description: "Chopfin serves delicious sushi in Allentown, Pennsylvania. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJDcxw3JE3xIkRWnNoCjC-Jv4
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 0
 website: http://www.chopfin.com/
+description: >-
+  Discover Chopfin in Allentown, PA$$$Nestled in Allentown, PA, Chopfin stands
+  out as a casual spot for fresh, customizable dining options that blend
+  Japanese-inspired flavors with modern twists. This restaurant delights
+  visitors with its array of poke bowls and sushi burritos, perfect for those
+  seeking sushi experiences close to home, all paired with refreshing bubble tea
+  for a complete meal. The welcoming atmosphere emphasizes accessibility,
+  featuring wheelchair-friendly parking, entrances, and seating, making it easy
+  for everyone to enjoy. Generous portions and a focus on high-quality
+  ingredients ensure each visit feels satisfying and wholesome. Whether you're
+  exploring top-rated sushi places nearby or looking for a quick, flavorful
+  bite, Chopfin offers a vibrant setting that caters to both solo diners and
+  groups.
+generative_summary: >-
+  Discover Chopfin in Allentown, PA$$$Nestled in Allentown, PA, Chopfin stands
+  out as a casual spot for fresh, customizable dining options that blend
+  Japanese-inspired flavors with modern twists. This restaurant delights
+  visitors with its array of poke bowls and sushi burritos, perfect for those
+  seeking sushi experiences close to home, all paired with refreshing bubble tea
+  for a complete meal. The welcoming atmosphere emphasizes accessibility,
+  featuring wheelchair-friendly parking, entrances, and seating, making it easy
+  for everyone to enjoy. Generous portions and a focus on high-quality
+  ingredients ensure each visit feels satisfying and wholesome. Whether you're
+  exploring top-rated sushi places nearby or looking for a quick, flavorful
+  bite, Chopfin offers a vibrant setting that caters to both solo diners and
+  groups.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJDcxw3JE3xIkRWnNoCjC-Jv4/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3bmYzX1hnEAE
@@ -332,6 +357,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN2X2NXUFJnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN2X2NXUFJnEAE!2m1!1s0x89c43791dc70cc0d:0xfe26be300a68735a
+review_summary: >-
+  What Customers Are Raving About$$$Folks who've stopped by Chopfin often
+  highlight the fantastic flavors and freshness of the dishes, with many
+  praising the hearty portions that leave you feeling full and happy. The staff
+  comes across as super friendly and attentive, helping to create a relaxed vibe
+  that makes every meal more enjoyable. Reviewers frequently mention the clean,
+  inviting space and how well the restaurant handles custom requests, adding to
+  the overall positive experience. While the standout items like poke bowls and
+  bubble tea get consistent nods for their taste and variety, it's clear that
+  the welcoming environment keeps people coming back for more. Overall, it seems
+  like a solid choice for anyone in the mood for reliable, tasty sushi options
+  without any major hiccups.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -364,7 +402,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

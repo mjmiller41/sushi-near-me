@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Moonlight Sushi Bar & Grill"
+title: Moonlight Sushi Bar & Grill
 permalink: /missouri/kansas-city/moonlight-sushi-bar-grill.html
 stateAbbr: MO
 stateName: Missouri
 cityName: Kansas City
 seo:
-  name: "Moonlight Sushi Bar & Grill"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sizable restaurant serving sushi as well as teriyaki, tempura & Japanese faves in a stylish space. Moonlight Sushi Bar & Grill serves delicious sushi in Kansas City, Missouri. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJp4MnmvFVwIcRI0G0HemxHjQ
 photos:
   - name: >-
@@ -185,6 +183,25 @@ price_range: $10 &ndash; $20
 rating: '4.0'
 rating_count: 0
 website: null
+description: >-
+  Discover Moonlight Sushi in Kansas City, MO$$$Moonlight Sushi Bar & Grill in
+  Kansas City, MO, provides a welcoming spot for savoring fresh sushi and
+  hibachi options in a casual Japanese setting. The restaurant boasts a stylish
+  interior with a bar area, making it ideal for weekday lunch deals or relaxed
+  dinners with friends. Diners can enjoy a range of Japanese-inspired dishes
+  like teriyaki and tempura, all crafted with quality ingredients for an
+  authentic taste. This spot stands out among local sushi restaurants, offering
+  affordable meals that appeal to those seeking flavorful options nearby.
+generative_summary: >-
+  Discover Moonlight Sushi in Kansas City, MO$$$Moonlight Sushi Bar & Grill in
+  Kansas City, MO, provides a welcoming spot for savoring fresh sushi and
+  hibachi options in a casual Japanese setting. The restaurant boasts a stylish
+  interior with a bar area, making it ideal for weekday lunch deals or relaxed
+  dinners with friends. Diners can enjoy a range of Japanese-inspired dishes
+  like teriyaki and tempura, all crafted with quality ingredients for an
+  authentic taste. This spot stands out among local sushi restaurants, offering
+  affordable meals that appeal to those seeking flavorful options nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJp4MnmvFVwIcRI0G0HemxHjQ/reviews/ChdDSUhNMG9nS0VJQ0FnSURueTVidXVnRRAB
@@ -366,6 +383,17 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNjX1lXMmJnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNjX1lXMmJnEAE!2m1!1s0x87c055f19a2783a7:0x341eb1e91db44123
+review_summary: >-
+  What Diners Love About This Sushi Spot$$$Visitors often praise the tasty sushi
+  rolls and hearty portions that make every meal feel worthwhile, with many
+  highlighting the consistent flavors and great value. The friendly service and
+  quick preparation add to the enjoyable experience, turning regular visits into
+  a reliable favorite. While some mention a short wait for main courses, it's
+  generally seen as worth it for the fresh ingredients and extras that come with
+  orders. Overall, this place comes across as a solid choice for anyone hunting
+  for top-rated sushi in the area, with a positive vibe that keeps people coming
+  back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -398,8 +426,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Sizable restaurant serving sushi as well as teriyaki, tempura & Japanese faves
   in a stylish space.
 

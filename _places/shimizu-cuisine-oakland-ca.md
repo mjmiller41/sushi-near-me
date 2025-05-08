@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Shimizu Cuisine"
+title: Shimizu Cuisine
 permalink: /california/oakland/shimizu-cuisine.html
 stateAbbr: CA
 stateName: California
 cityName: Oakland
 seo:
-  name: "Shimizu Cuisine"
-  type: Restaurant
+  type: restaurant
   links: http://shimizu.menu11.com/
-description: "Shimizu Cuisine serves delicious sushi in Oakland, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJt1yYsPZ9hYARJL1UolwVYhE
 photos:
   - name: >-
@@ -170,7 +168,81 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80857df6b0985cb7:0x1162155ca254bd24!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 30
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 20
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 20
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 20
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 20
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 4:30 – 8:30 PM'
     - 'Tuesday: 4:30 – 8:30 PM'
     - 'Wednesday: 4:30 – 8:30 PM'
@@ -178,14 +250,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 2:00 PM, 4:30 – 9:00 PM'
     - 'Saturday: 12:00 – 9:00 PM'
     - 'Sunday: 12:00 – 8:30 PM'
-  current:
-    - 'Monday: 4:30 – 8:30 PM'
-    - 'Tuesday: 4:30 – 8:30 PM'
-    - 'Wednesday: 4:30 – 8:30 PM'
-    - 'Thursday: 11:00 AM – 2:00 PM, 4:30 – 8:30 PM'
-    - 'Friday: 11:00 AM – 2:00 PM, 4:30 – 9:00 PM'
-    - 'Saturday: 12:00 – 9:00 PM'
-    - 'Sunday: 12:00 – 8:30 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,36 +261,263 @@ secondary_opening_hours:
 phone: (510) 653-7622
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
-rating: '4.5'
-rating_count: 0
+rating: '4.6'
+rating_count: 568
 website: http://shimizu.menu11.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Shimizu Cuisine in Oakland, CA$$$Nestled in the vibrant Piedmont
+  Avenue neighborhood of Oakland, California, Shimizu Cuisine stands out as a
+  cozy Japanese eatery offering an array of fresh sushi and traditional dishes.
+  This spot specializes in artfully prepared sashimi, bento boxes, and a variety
+  of rolls that highlight high-quality ingredients and authentic flavors, making
+  it a go-to for those seeking satisfying Japanese meals. The minimalist decor
+  creates a welcoming atmosphere, complemented by accessibility features that
+  ensure a comfortable visit for all guests. With moderate pricing and a focus
+  on generous portions, it's an ideal choice for anyone exploring top-rated
+  sushi options in the area, whether you're stopping by for a quick lunch or a
+  relaxed dinner.
+generative_summary: >-
+  Discover Shimizu Cuisine in Oakland, CA$$$Nestled in the vibrant Piedmont
+  Avenue neighborhood of Oakland, California, Shimizu Cuisine stands out as a
+  cozy Japanese eatery offering an array of fresh sushi and traditional dishes.
+  This spot specializes in artfully prepared sashimi, bento boxes, and a variety
+  of rolls that highlight high-quality ingredients and authentic flavors, making
+  it a go-to for those seeking satisfying Japanese meals. The minimalist decor
+  creates a welcoming atmosphere, complemented by accessibility features that
+  ensure a comfortable visit for all guests. With moderate pricing and a focus
+  on generous portions, it's an ideal choice for anyone exploring top-rated
+  sushi options in the area, whether you're stopping by for a quick lunch or a
+  relaxed dinner.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJt1yYsPZ9hYARJL1UolwVYhE/reviews/ChZDSUhNMG9nS0VJQ0FnSUNQeFB1ZkdREAE
+    relativePublishTimeDescription: 5 months ago
+    rating: 4
+    text:
+      text: >-
+        Saturdate Night Dinner
+
+
+        FOOD:
+
+        We shared the fried calamari and also had a Flying Dragon which was
+        sushi on fire (literally!). I had a mixed shrimp and vegetable tempura
+        bento while he had the sashimi.
+
+
+        EXPERIENCE:
+
+        The space was tight. Customers might be asked to share a table with
+        people outside of their party. Fun vibe, most especially with the sushi
+        on fire, which seemed to be popular as many tables ordered one as well.
+        . Family friendly. Food was tasty and portions were generous. Staff were
+        nice and attentive.
+      languageCode: en
+    originalText:
+      text: >-
+        Saturdate Night Dinner
+
+
+        FOOD:
+
+        We shared the fried calamari and also had a Flying Dragon which was
+        sushi on fire (literally!). I had a mixed shrimp and vegetable tempura
+        bento while he had the sashimi.
+
+
+        EXPERIENCE:
+
+        The space was tight. Customers might be asked to share a table with
+        people outside of their party. Fun vibe, most especially with the sushi
+        on fire, which seemed to be popular as many tables ordered one as well.
+        . Family friendly. Food was tasty and portions were generous. Staff were
+        nice and attentive.
+      languageCode: en
+    authorAttribution:
+      displayName: Rehman Ali
+      uri: https://www.google.com/maps/contrib/114043041158393847584/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLsNljEZa2J2OC8TS6XPqvHP70t8yXLNoJiMPcD-bJ_rA476Q=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-11-21T15:20:10.394902Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNQeFB1ZkdREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNQeFB1ZkdREAE!2m1!1s0x80857df6b0985cb7:0x1162155ca254bd24
+  - name: >-
+      places/ChIJt1yYsPZ9hYARJL1UolwVYhE/reviews/ChdDSUhNMG9nS0VJQ0FnSURYcWJ6dXRnRRAB
+    relativePublishTimeDescription: 6 months ago
+    rating: 5
+    text:
+      text: >-
+        I went to shimizu for dinner and the line is ok for a Sunday night,
+        almost right away.
+
+        I tried teriyaki chicken, chicken Karaage, tempura, and flaking sushi
+        roll. Everything is so good!
+
+        The restaurant also offers stamp collection.
+      languageCode: en
+    originalText:
+      text: >-
+        I went to shimizu for dinner and the line is ok for a Sunday night,
+        almost right away.
+
+        I tried teriyaki chicken, chicken Karaage, tempura, and flaking sushi
+        roll. Everything is so good!
+
+        The restaurant also offers stamp collection.
+      languageCode: en
+    authorAttribution:
+      displayName: Fan Zhao
+      uri: https://www.google.com/maps/contrib/108370221053862188401/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIiCdMQ7mS1lzjgiy66kc3nqcFtHM05N8a5-14pOHXYAzwnWA=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-10-29T02:31:08.040279Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURYcWJ6dXRnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURYcWJ6dXRnRRAB!2m1!1s0x80857df6b0985cb7:0x1162155ca254bd24
+  - name: >-
+      places/ChIJt1yYsPZ9hYARJL1UolwVYhE/reviews/ChZDSUhNMG9nS0VJQ0FnSURXNzZMdkNnEAE
+    relativePublishTimeDescription: 3 years ago
+    rating: 4
+    text:
+      text: >-
+        Me and my girlfriend couldn't find a good sushi restaurant and came
+        across this one. Staff was very respectful and customer service was
+        great. It was a great experience and the food had a good taste. My only
+        recommendation to the chefs is more flavor on the sushi. Overall, pretty
+        good.
+      languageCode: en
+    originalText:
+      text: >-
+        Me and my girlfriend couldn't find a good sushi restaurant and came
+        across this one. Staff was very respectful and customer service was
+        great. It was a great experience and the food had a good taste. My only
+        recommendation to the chefs is more flavor on the sushi. Overall, pretty
+        good.
+      languageCode: en
+    authorAttribution:
+      displayName: I R
+      uri: https://www.google.com/maps/contrib/102187317814743685492/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIV6kGnOAqiXSF02i979Fa04eYDGLNGODM2xoimwPuf0pZFuQ=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2022-04-08T01:54:54.685010Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURXNzZMdkNnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURXNzZMdkNnEAE!2m1!1s0x80857df6b0985cb7:0x1162155ca254bd24
+  - name: >-
+      places/ChIJt1yYsPZ9hYARJL1UolwVYhE/reviews/ChdDSUhNMG9nS0VJQ0FnSURaM2R6SjRRRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 2
+    text:
+      text: >-
+        This place is usually so good! The restaurant is clean and staff is
+        nice. I ordered pick up today and as soon as I bit into my roll could
+        feel how fatty the salmon was. This was clearly not sushi grade salmon.
+        I’ve gone to this place for years but may need to find a new spot if
+        this is what’s happening now.
+      languageCode: en
+    originalText:
+      text: >-
+        This place is usually so good! The restaurant is clean and staff is
+        nice. I ordered pick up today and as soon as I bit into my roll could
+        feel how fatty the salmon was. This was clearly not sushi grade salmon.
+        I’ve gone to this place for years but may need to find a new spot if
+        this is what’s happening now.
+      languageCode: en
+    authorAttribution:
+      displayName: Rachael Azadehnia
+      uri: https://www.google.com/maps/contrib/117181358423813641999/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKIxmoX7342wvFUc_sscUN4DFY-cgwswkOG6MQNJAdHnTWLCg=s128-c0x00000000-cc-rp-mo
+    publishTime: '2023-10-06T21:21:33.492075Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURaM2R6SjRRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURaM2R6SjRRRRAB!2m1!1s0x80857df6b0985cb7:0x1162155ca254bd24
+  - name: >-
+      places/ChIJt1yYsPZ9hYARJL1UolwVYhE/reviews/ChZDSUhNMG9nS0VJQ0FnSURvNnE2RUdBEAE
+    relativePublishTimeDescription: 6 years ago
+    rating: 5
+    text:
+      text: >-
+        I don't consider myself a sushi or seafood connoisseur...but this is the
+        best, most reasonably priced sushi I have had in the bay. Everything was
+        beautiful, fresh, well portioned and delicious. We gorged on more fish
+        than should be possible to eat in one sitting and after extensive
+        reflection...I have no regrets and will return.
+      languageCode: en
+    originalText:
+      text: >-
+        I don't consider myself a sushi or seafood connoisseur...but this is the
+        best, most reasonably priced sushi I have had in the bay. Everything was
+        beautiful, fresh, well portioned and delicious. We gorged on more fish
+        than should be possible to eat in one sitting and after extensive
+        reflection...I have no regrets and will return.
+      languageCode: en
+    authorAttribution:
+      displayName: Stewart Buettell
+      uri: https://www.google.com/maps/contrib/102901012809127828813/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUUml0QcOBsHKJyXKqiKqXT0YPXkf88RSIvPgYh5k1-rZ7vCOtH=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2019-03-15T03:46:44.883433Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURvNnE2RUdBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURvNnE2RUdBEAE!2m1!1s0x80857df6b0985cb7:0x1162155ca254bd24
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this Japanese spot often rave about
+  the tasty and fresh dishes, with many highlighting the generous portions and
+  fun dining vibe that make meals enjoyable. While most folks appreciate the
+  flavorful sushi rolls and tempura, a few mentions of inconsistencies in fish
+  quality show it's not perfect every time, though these are outliers in the
+  overall positive experiences. The staff comes across as attentive and
+  friendly, adding to the family-friendly appeal that keeps people coming back
+  for casual get-togethers. Overall, it's clear that the combination of good
+  value and welcoming service makes this place a solid pick for anyone craving
+  reliable Japanese cuisine nearby. If you're on the hunt for great sushi
+  experiences, this location tends to deliver more hits than misses, encouraging
+  repeat visits for its dependable charm.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  paidStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
+curbside_pickup: true
 delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: false
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: false
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Welcoming, minimalist Japanese eatery with a sushi bar, bento boxes & a broad
+  selection of rolls.
 
 ---

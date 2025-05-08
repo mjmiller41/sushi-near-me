@@ -5,4 +5,5 @@ permalink: /pennsylvania/beaver/
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Beaver
+
 ---

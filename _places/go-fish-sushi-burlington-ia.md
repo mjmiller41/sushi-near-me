@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Go Fish Sushi"
+title: Go Fish Sushi
 permalink: /iowa/burlington/go-fish-sushi.html
 stateAbbr: IA
 stateName: Iowa
 cityName: Burlington
 seo:
-  name: "Go Fish Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.facebook.com/gofishsushi322/
-description: "Go Fish Sushi serves delicious sushi in Burlington, Iowa. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJBZ7GOHcx4YcRouX_0YmSbuA
 photos:
   - name: >-
@@ -184,6 +182,31 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 0
 website: https://www.facebook.com/gofishsushi322/
+description: >-
+  Explore Go Fish Sushi in Burlington, IA$$$Go Fish Sushi in Burlington, IA,
+  stands out as a modern spot for fresh sushi and seafood dishes, offering a
+  casual and inviting atmosphere that appeals to sushi enthusiasts. This
+  restaurant features a cozy space where diners can enjoy a variety of rolls and
+  specialties, with options that cater to different tastes and dietary
+  preferences. Accessibility is a key highlight, including wheelchair-friendly
+  parking, restrooms, and seating, making it welcoming for all visitors. The
+  menu includes reasonably priced items like specialty rolls and appetizers,
+  served alongside beverages such as beer and wine for a complete dining
+  experience. Whether you're searching for top-rated sushi restaurants near you,
+  this location delivers on quality and value in a relaxed setting.
+generative_summary: >-
+  Explore Go Fish Sushi in Burlington, IA$$$Go Fish Sushi in Burlington, IA,
+  stands out as a modern spot for fresh sushi and seafood dishes, offering a
+  casual and inviting atmosphere that appeals to sushi enthusiasts. This
+  restaurant features a cozy space where diners can enjoy a variety of rolls and
+  specialties, with options that cater to different tastes and dietary
+  preferences. Accessibility is a key highlight, including wheelchair-friendly
+  parking, restrooms, and seating, making it welcoming for all visitors. The
+  menu includes reasonably priced items like specialty rolls and appetizers,
+  served alongside beverages such as beer and wine for a complete dining
+  experience. Whether you're searching for top-rated sushi restaurants near you,
+  this location delivers on quality and value in a relaxed setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJBZ7GOHcx4YcRouX_0YmSbuA/reviews/ChZDSUhNMG9nS0VJQ0FnSUQzbE5mQmJnEAE
@@ -361,6 +384,21 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNHZzgzVHpnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNHZzgzVHpnRRAB!2m1!1s0x87e1317738c69e05:0xe06e9289d1ffe5a2
+review_summary: >-
+  What Visitors Think of This Local Sushi Favorite$$$Folks who stop by this
+  sushi spot often rave about the fresh flavors and generous portions that make
+  meals feel worthwhile, with many highlighting the tasty rolls and appetizers
+  as standout choices. While most agree that the prices are fair and the overall
+  vibe is comfortable and clean, a few mention that certain dishes might have a
+  sweeter profile than expected, which could surprise traditional sushi lovers.
+  Despite the occasional mixed feedback on specific flavors, the general
+  consensus leans toward it being a solid pick for anyone craving reliable
+  Japanese-inspired fare in the area. Overall, it's praised for its quick
+  service during takeout and the welcoming environment, encouraging repeat
+  visits for those exploring the best sushi options nearby. If you're on the
+  hunt for sushi places that deliver good value and tasty bites, this one tends
+  to leave a positive impression for most diners.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeStreetParking: true
   valetParking: false
@@ -391,7 +429,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

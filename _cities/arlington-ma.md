@@ -5,4 +5,5 @@ permalink: /massachusetts/arlington/
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Arlington
+
 ---

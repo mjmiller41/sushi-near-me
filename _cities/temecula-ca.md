@@ -5,4 +5,5 @@ permalink: /california/temecula/
 stateAbbr: CA
 stateName: California
 cityName: Temecula
+
 ---

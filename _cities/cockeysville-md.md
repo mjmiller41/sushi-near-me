@@ -5,4 +5,5 @@ permalink: /maryland/cockeysville/
 stateAbbr: MD
 stateName: Maryland
 cityName: Cockeysville
+
 ---

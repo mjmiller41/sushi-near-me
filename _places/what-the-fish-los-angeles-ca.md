@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "What the Fish"
+title: What the Fish
 permalink: /california/los-angeles/what-the-fish.html
 stateAbbr: CA
 stateName: California
 cityName: Los Angeles
 seo:
-  name: "What the Fish"
-  type: Restaurant
+  type: restaurant
   links: https://whatthefishsushi.godaddysites.com/menu
-description: "What the Fish serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJxZTPQcnAwoAR8fOdMs57a1Q
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c2c0c941cf94c5:0x546b7bce329df3f1!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 9
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 9
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 9
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 9
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 9
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 9
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 9
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 9:00 AM – 10:00 PM'
     - 'Tuesday: 9:00 AM – 10:00 PM'
     - 'Wednesday: 9:00 AM – 10:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 9:00 AM – 10:00 PM'
     - 'Saturday: 9:00 AM – 10:00 PM'
     - 'Sunday: 9:00 AM – 10:00 PM'
-  current:
-    - 'Monday: 9:00 AM – 10:00 PM'
-    - 'Tuesday: 9:00 AM – 10:00 PM'
-    - 'Wednesday: 9:00 AM – 10:00 PM'
-    - 'Thursday: 9:00 AM – 10:00 PM'
-    - 'Friday: 9:00 AM – 10:00 PM'
-    - 'Saturday: 9:00 AM – 10:00 PM'
-    - 'Sunday: 9:00 AM – 10:00 PM'
+  nextCloseTime: '2025-05-04T05:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,230 @@ phone: (323) 284-8442
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.0'
-rating_count: 0
+rating_count: 178
 website: https://whatthefishsushi.godaddysites.com/menu
-reviews: null
+description: >-
+  Discover What the Fish in Los Angeles, CA$$$What the Fish in Los Angeles, CA,
+  stands out as a casual spot for enjoying fresh sushi and creative rolls in a
+  welcoming environment. This eatery offers a variety of flavorful options,
+  including inventive takes on classic dishes, paired with refreshing beverages
+  to enhance the meal. With its accessible features like wheelchair-friendly
+  entrances and ample seating, it's designed for everyone to savor the
+  experience comfortably. The restaurant maintains extended hours, making it a
+  convenient choice for those seeking quality Japanese-inspired cuisine any day
+  of the week. Its neighborhood vibe in Silver Lake adds to the charm, providing
+  a laid-back atmosphere perfect for locals hunting for top sushi options
+  nearby.
+generative_summary: >-
+  Discover What the Fish in Los Angeles, CA$$$What the Fish in Los Angeles, CA,
+  stands out as a casual spot for enjoying fresh sushi and creative rolls in a
+  welcoming environment. This eatery offers a variety of flavorful options,
+  including inventive takes on classic dishes, paired with refreshing beverages
+  to enhance the meal. With its accessible features like wheelchair-friendly
+  entrances and ample seating, it's designed for everyone to savor the
+  experience comfortably. The restaurant maintains extended hours, making it a
+  convenient choice for those seeking quality Japanese-inspired cuisine any day
+  of the week. Its neighborhood vibe in Silver Lake adds to the charm, providing
+  a laid-back atmosphere perfect for locals hunting for top sushi options
+  nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJxZTPQcnAwoAR8fOdMs57a1Q/reviews/ChZDSUhNMG9nS0VJQ0FnSUNybFp1QmVREAE
+    relativePublishTimeDescription: 9 months ago
+    rating: 4
+    text:
+      text: >-
+        I was very happy we stopped by. The service was very good and the fish
+        was very fresh. Great place for sushi, but parking is tough and the
+        restaurant feels a bit crowded (not by patrons). Good prices imo. 4.5
+        stars.
+      languageCode: en
+    originalText:
+      text: >-
+        I was very happy we stopped by. The service was very good and the fish
+        was very fresh. Great place for sushi, but parking is tough and the
+        restaurant feels a bit crowded (not by patrons). Good prices imo. 4.5
+        stars.
+      languageCode: en
+    authorAttribution:
+      displayName: Krystine B
+      uri: https://www.google.com/maps/contrib/117498440618934701580/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocId0MR7D9auuySQAsNvYcyUmdtk9HbQAu_QrVZbfaBtT0cjisVx=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-07-09T16:50:07.260730Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNybFp1QmVREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNybFp1QmVREAE!2m1!1s0x80c2c0c941cf94c5:0x546b7bce329df3f1
+  - name: >-
+      places/ChIJxZTPQcnAwoAR8fOdMs57a1Q/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ3NXB1dXpnRRAB
+    relativePublishTimeDescription: 8 months ago
+    rating: 5
+    text:
+      text: >-
+        I got recommended this place from one of my local friends. I was going
+        to help her doing something at her house, so we stopped by to get some
+        delicious take-out order. Even the restaurant has small space, but their
+        fishes are big! My definition of the word big is variety of fishes,
+        creativity, quality, taste and service. We got sashimi, Nue: Tuna,
+        salmon, yellowtail wrapped in cucumber. This menu is very good for my
+        diet because I try to avoid eating too much carb. I got 3 orders of
+        premium sushi, Sea Urchin. Fish is fresh and I love all food I got from
+        this place. Stuff was friendly and welcoming. My friend said this
+        restaurant is one of her most favorite.
+      languageCode: en
+    originalText:
+      text: >-
+        I got recommended this place from one of my local friends. I was going
+        to help her doing something at her house, so we stopped by to get some
+        delicious take-out order. Even the restaurant has small space, but their
+        fishes are big! My definition of the word big is variety of fishes,
+        creativity, quality, taste and service. We got sashimi, Nue: Tuna,
+        salmon, yellowtail wrapped in cucumber. This menu is very good for my
+        diet because I try to avoid eating too much carb. I got 3 orders of
+        premium sushi, Sea Urchin. Fish is fresh and I love all food I got from
+        this place. Stuff was friendly and welcoming. My friend said this
+        restaurant is one of her most favorite.
+      languageCode: en
+    authorAttribution:
+      displayName: Melissa Naja
+      uri: https://www.google.com/maps/contrib/107230707591929011626/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUza2W8LLTTHCjEQaq-reIqcSXzBQGlQ7pjEV_lK0XG5oFjxJUL=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2024-08-24T03:44:09.782963Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQ3NXB1dXpnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQ3NXB1dXpnRRAB!2m1!1s0x80c2c0c941cf94c5:0x546b7bce329df3f1
+  - name: >-
+      places/ChIJxZTPQcnAwoAR8fOdMs57a1Q/reviews/ChdDSUhNMG9nS0VJQ0FnSURwbGFtOTB3RRAB
+    relativePublishTimeDescription: a year ago
+    rating: 1
+    text:
+      text: >-
+        Priced higher than Sugar Fish, and quality is about grocery store level.
+        Went in and ordered edamame, rainbow roll, and albacore role: that was
+        37$ (13 piece of sushi total) + tip ended up paying 42$. Service was
+        terrible, asked for a side of sauce and they said it would be 1.50$
+        extra per sauce. I absolutely do not recommend this spot.
+      languageCode: en
+    originalText:
+      text: >-
+        Priced higher than Sugar Fish, and quality is about grocery store level.
+        Went in and ordered edamame, rainbow roll, and albacore role: that was
+        37$ (13 piece of sushi total) + tip ended up paying 42$. Service was
+        terrible, asked for a side of sauce and they said it would be 1.50$
+        extra per sauce. I absolutely do not recommend this spot.
+      languageCode: en
+    authorAttribution:
+      displayName: Daniel Noguera
+      uri: https://www.google.com/maps/contrib/117209086431114959633/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVAlDuFEpgQHoxVtkG_vOvsMjeLncuD9D_dZEtYUPuedgyxzeU=s128-c0x00000000-cc-rp-mo
+    publishTime: '2023-08-26T03:06:39.645570Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURwbGFtOTB3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURwbGFtOTB3RRAB!2m1!1s0x80c2c0c941cf94c5:0x546b7bce329df3f1
+  - name: >-
+      places/ChIJxZTPQcnAwoAR8fOdMs57a1Q/reviews/ChZDSUhNMG9nS0VJQ0FnSUNmeEtPLUNBEAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 1
+    text:
+      text: >-
+        I will order first time today . Deluxe sashimi 12pcs and salmon sashimi
+        6pcs , laker roll and miso soup I can pay $ 81.53 +tip  so expensive and
+        I was shocked.  , I was so disappointed and money earlier.  It was so
+        terrible,  so insincere,  so small that it was very expensive and I
+        won't be ordering again. I won't be spending my money on delivery
+        charges and even tips. Waste of money it was such a terrible order.
+      languageCode: en
+    originalText:
+      text: >-
+        I will order first time today . Deluxe sashimi 12pcs and salmon sashimi
+        6pcs , laker roll and miso soup I can pay $ 81.53 +tip  so expensive and
+        I was shocked.  , I was so disappointed and money earlier.  It was so
+        terrible,  so insincere,  so small that it was very expensive and I
+        won't be ordering again. I won't be spending my money on delivery
+        charges and even tips. Waste of money it was such a terrible order.
+      languageCode: en
+    authorAttribution:
+      displayName: Yong Ham
+      uri: https://www.google.com/maps/contrib/107795059447695226464/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKnIv_wmLh-xsDd-jWq92zOIXtT11lT6KFCZKk0CpWp-1gb3Q=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-12-26T03:45:16.883126Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNmeEtPLUNBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNmeEtPLUNBEAE!2m1!1s0x80c2c0c941cf94c5:0x546b7bce329df3f1
+  - name: >-
+      places/ChIJxZTPQcnAwoAR8fOdMs57a1Q/reviews/ChZDSUhNMG9nS0VJQ0FnSURfazhtdkhREAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 3
+    text:
+      text: "This place is a true 3. Sometimes it’s a 5 sometimes it’s a 1. The first few times were amazing and fairly priced then 2-3 times in a row the food was bad. And then it has been a roulette «\_are you catching What the Fish on a good day\_»"
+      languageCode: en
+    originalText:
+      text: "This place is a true 3. Sometimes it’s a 5 sometimes it’s a 1. The first few times were amazing and fairly priced then 2-3 times in a row the food was bad. And then it has been a roulette «\_are you catching What the Fish on a good day\_»"
+      languageCode: en
+    authorAttribution:
+      displayName: Felix Lahaye
+      uri: https://www.google.com/maps/contrib/109265246957798128224/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUJluMbj13qxWQkm8fEqHtm-cmmRRLssre4sGQuFWXYtNFS33ma=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-01-26T21:11:53.902150Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURfazhtdkhREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURfazhtdkhREAE!2m1!1s0x80c2c0c941cf94c5:0x546b7bce329df3f1
+review_summary: >-
+  What Customers Are Saying About This Sushi Spot$$$Folks often rave about the
+  fresh fish and tasty rolls at this spot, highlighting it as a solid pick for
+  anyone craving reliable sushi in a casual setting. While some appreciate the
+  friendly service and good value for creative dishes like sashimi and specialty
+  wraps, others point out that prices can feel a bit steep for the portions
+  served. There are mixed feelings on consistency, with many enjoying the
+  welcoming vibe on good days but noting occasional letdowns in quality or wait
+  times. Overall, it's a go-to for those exploring Japanese places near me,
+  offering enough positives to keep diners coming back despite a few common
+  gripes like parking challenges. If you're on the hunt for sushi restaurants in
+  the area, this one delivers a generally satisfying experience with room for
+  the occasional off moment.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
-payment_options: null
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
+delivery: true
+dine_in: true
 good_for_children: null
 good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
 serves_breakfast: null
 serves_brunch: null
 serves_cocktails: null
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  This casual izakaya & roll specialist displays its initials prominently &
+  cheekily on the wall.
 
 ---

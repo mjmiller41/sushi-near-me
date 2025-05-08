@@ -5,4 +5,5 @@ permalink: /florida/st-petersburg/
 stateAbbr: FL
 stateName: Florida
 cityName: St. Petersburg
+
 ---

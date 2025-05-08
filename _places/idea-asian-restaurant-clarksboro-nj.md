@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Idea Asian Restaurant"
+title: Idea Asian Restaurant
 permalink: /new-jersey/clarksboro/idea-asian-restaurant.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Clarksboro
 seo:
-  name: "Idea Asian Restaurant"
-  type: Restaurant
+  type: restaurant
   links: https://m.facebook.com/people/Idea-Asian/100057585603666/
-description: "Idea Asian Restaurant serves delicious sushi in Clarksboro, New Jersey. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJZ2dZJQ3bxokRNYHZtbOl7d4
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 0
 website: https://m.facebook.com/people/Idea-Asian/100057585603666/
+description: >-
+  Exploring Idea Asian Restaurant in Clarksboro, NJ$$$Idea Asian Restaurant in
+  Clarksboro, New Jersey, stands out as a welcoming spot for Asian dining
+  enthusiasts seeking fresh and flavorful options. This casual eatery features a
+  diverse menu that highlights sushi, Chinese, and Thai specialties, making it a
+  go-to choice for those exploring sushi restaurants nearby. With its emphasis
+  on high-quality ingredients and accessible features like wheelchair-friendly
+  entrances and ample parking, the restaurant offers a comfortable atmosphere
+  for dine-in or takeout experiences. Visitors can enjoy a variety of dishes
+  that blend traditional flavors with everyday appeal, perfect for anyone
+  hunting for top-rated sushi close to home. Overall, it's an ideal destination
+  for satisfying cravings with authentic Asian fare in a relaxed setting.
+generative_summary: >-
+  Exploring Idea Asian Restaurant in Clarksboro, NJ$$$Idea Asian Restaurant in
+  Clarksboro, New Jersey, stands out as a welcoming spot for Asian dining
+  enthusiasts seeking fresh and flavorful options. This casual eatery features a
+  diverse menu that highlights sushi, Chinese, and Thai specialties, making it a
+  go-to choice for those exploring sushi restaurants nearby. With its emphasis
+  on high-quality ingredients and accessible features like wheelchair-friendly
+  entrances and ample parking, the restaurant offers a comfortable atmosphere
+  for dine-in or takeout experiences. Visitors can enjoy a variety of dishes
+  that blend traditional flavors with everyday appeal, perfect for anyone
+  hunting for top-rated sushi close to home. Overall, it's an ideal destination
+  for satisfying cravings with authentic Asian fare in a relaxed setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJZ2dZJQ3bxokRNYHZtbOl7d4/reviews/ChZDSUhNMG9nS0VJQ0FnTUNROW9iUklBEAE
@@ -382,6 +405,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURJOTYyUTRBRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURJOTYyUTRBRRAB!2m1!1s0x89c6db0d25596767:0xdeeda5b3b5d98135
+review_summary: >-
+  What Customers Are Buzzing About$$$Folks rave about the fresh ingredients and
+  tasty dishes at this spot, often highlighting the delicious sushi rolls and
+  flavorful appetizers that make meals feel special. While most experiences
+  praise the efficient service and welcoming vibe, a few mention occasional
+  inconsistencies in flavor, suggesting it's best to visit during busier times
+  for the most reliable results. Overall, the consensus leans positive, with
+  many appreciating the fair prices and variety that cater to families and
+  groups alike. It's clear that diners love the comforting atmosphere and solid
+  portions, making it a solid pick for anyone searching for sushi places near
+  me. If you're in the mood for a casual meal, this restaurant delivers a
+  generally enjoyable experience that's worth trying out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -414,7 +450,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

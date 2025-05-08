@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Tabu Sushi Bar & Grill"
+title: Tabu Sushi Bar & Grill
 permalink: /california/el-cajon/tabu-sushi-bar-grill.html
 stateAbbr: CA
 stateName: California
 cityName: El Cajon
 seo:
-  name: "Tabu Sushi Bar & Grill"
-  type: Restaurant
-  links: null
-description: "Tabu Sushi Bar & Grill serves delicious sushi in El Cajon, California. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.tabusushirsd.com/home
 place_id: ChIJ08nxeEta2YAR9U1ZvInUtAA
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80d95a4b78f1c9d3:0xb4d489bc594df5!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:30 AM – 9:00 PM'
+    - 'Tuesday: 11:30 AM – 9:00 PM'
+    - 'Wednesday: 11:30 AM – 9:00 PM'
+    - 'Thursday: 11:30 AM – 9:00 PM'
+    - 'Friday: 11:30 AM – 10:00 PM'
+    - 'Saturday: 11:30 AM – 10:00 PM'
+    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T05:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,50 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
+phone: (619) 670-8228
+price_level: PRICE_LEVEL_MODERATE
 price_range: null
-rating: null
-rating_count: 0
-website: null
+rating: '4.1'
+rating_count: 363
+website: http://www.tabusushirsd.com/home
+description: >-
+  Discover Tabu Sushi Bar & Grill in El Cajon, CA$$$Tabu Sushi Bar & Grill in El
+  Cajon, CA, offers a vibrant spot for enjoying fresh Japanese-inspired dishes
+  in a modern and inviting atmosphere. This sushi restaurant features an array
+  of expertly crafted rolls and other flavorful fare, complemented by a stylish
+  bar area perfect for casual dining or unwinding. With its accessible design
+  and welcoming vibe, it's an ideal choice for those seeking quality sushi
+  options near the area. The menu highlights a mix of traditional and creative
+  flavors, making it a go-to destination for anyone exploring top-rated Japanese
+  places in the region. Operating with extended hours, it provides a convenient
+  option for lunch, dinner, or evening gatherings.
+generative_summary: >-
+  Discover Tabu Sushi Bar & Grill in El Cajon, CA$$$Tabu Sushi Bar & Grill in El
+  Cajon, CA, offers a vibrant spot for enjoying fresh Japanese-inspired dishes
+  in a modern and inviting atmosphere. This sushi restaurant features an array
+  of expertly crafted rolls and other flavorful fare, complemented by a stylish
+  bar area perfect for casual dining or unwinding. With its accessible design
+  and welcoming vibe, it's an ideal choice for those seeking quality sushi
+  options near the area. The menu highlights a mix of traditional and creative
+  flavors, making it a go-to destination for anyone exploring top-rated Japanese
+  places in the region. Operating with extended hours, it provides a convenient
+  option for lunch, dinner, or evening gatherings.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Feedback on Tabu Sushi Bar & Grill$$$Visitors to this sushi spot in El Cajon
+  often rave about the fresh, high-quality rolls and tasty entrees that make it
+  a solid pick for Japanese cuisine lovers. Many appreciate the friendly service
+  and cozy ambiance, noting that it's a great place for a relaxed meal or trying
+  new flavors without any fuss. While a few mention occasional waits during peak
+  times, the overall experience earns high marks for value and variety, with
+  plenty of options that satisfy both sushi newcomers and regulars. Folks
+  searching for the best sushi nearby tend to highlight the generous portions
+  and creative twists on classics, keeping things enjoyable for groups or solo
+  diners. All in all, it's a reliably positive choice that delivers on flavor
+  and atmosphere, encouraging repeat visits for those craving top-rated local
+  eats.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +311,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

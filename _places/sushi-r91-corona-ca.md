@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi R91"
+title: Sushi R91
 permalink: /california/corona/sushi-r91.html
 stateAbbr: CA
 stateName: California
 cityName: Corona
 seo:
-  name: "Sushi R91"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi R91 serves delicious sushi in Corona, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJH-vTHW-43IARzy2kkRJeItE
 photos:
   - name: >-
@@ -184,7 +182,47 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Sushi R91 in Corona, CA$$$Sushi R91 in Corona, CA, offers a relaxed
+  and welcoming atmosphere for enjoying fresh sushi rolls and a variety of
+  Japanese-inspired dishes. This spot stands out with its thoughtful selection
+  of vegetarian and vegan options, making it a great choice for diverse dietary
+  preferences, alongside a selection of beverages like beer, wine, and
+  cocktails. The restaurant emphasizes accessibility, featuring
+  wheelchair-friendly parking, entrances, and seating to ensure everyone can
+  enjoy their meal comfortably. Patrons appreciate the casual vibe and focus on
+  quality ingredients, which contribute to a satisfying dining experience in a
+  laid-back setting. Whether you're searching for top sushi spots near you or
+  simply craving authentic flavors, this venue provides a solid option for
+  casual outings in the area.
+generative_summary: >-
+  Discover Sushi R91 in Corona, CA$$$Sushi R91 in Corona, CA, offers a relaxed
+  and welcoming atmosphere for enjoying fresh sushi rolls and a variety of
+  Japanese-inspired dishes. This spot stands out with its thoughtful selection
+  of vegetarian and vegan options, making it a great choice for diverse dietary
+  preferences, alongside a selection of beverages like beer, wine, and
+  cocktails. The restaurant emphasizes accessibility, featuring
+  wheelchair-friendly parking, entrances, and seating to ensure everyone can
+  enjoy their meal comfortably. Patrons appreciate the casual vibe and focus on
+  quality ingredients, which contribute to a satisfying dining experience in a
+  laid-back setting. Whether you're searching for top sushi spots near you or
+  simply craving authentic flavors, this venue provides a solid option for
+  casual outings in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Visitor Feedback on Sushi R91$$$Visitors often highlight the fresh and
+  flavorful sushi rolls at this spot, noting that the variety keeps things
+  exciting for repeat visits. Many enjoy the inclusive menu that caters to
+  vegetarian and vegan diners, along with the drinks that pair well with the
+  meals, creating a well-rounded experience. While some mention that service can
+  vary depending on the time of day, the overall atmosphere comes across as
+  friendly and unpretentious, making it a go-to for casual gatherings. Folks
+  appreciate the attention to detail in the dishes, which helps build a positive
+  reputation among sushi enthusiasts in the region. All in all, it's a solid
+  pick for anyone looking for reliable Japanese cuisine nearby, with most
+  feedback leaning toward satisfaction and enjoyment.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +248,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -5,4 +5,5 @@ permalink: /massachusetts/medford/
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Medford
+
 ---

@@ -5,4 +5,5 @@ permalink: /california/la-palma/
 stateAbbr: CA
 stateName: California
 cityName: La Palma
+
 ---

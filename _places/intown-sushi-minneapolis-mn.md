@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Intown Sushi"
+title: Intown Sushi
 permalink: /minnesota/minneapolis/intown-sushi.html
 stateAbbr: MN
 stateName: Minnesota
 cityName: Minneapolis
 seo:
-  name: "Intown Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://intownsushi.com/
-description: "Intown Sushi serves delicious sushi in Minneapolis, Minnesota. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJx5c1EP0n9ocR-1AC5iUKsHc
 photos:
   - name: >-
@@ -143,7 +141,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNdNuJxcaPUGymyrFuVo2HrvB1wXWcq7CjSZh9i!2e10!4m2!3m1!1s0x87f627fd103597c7:0x77b00a25e60250fb
 address: Midtown Global Market, 920 E Lake St, Minneapolis, MN 55407, USA
-street: Midtown Global Market, 920 E Lake St
+street: Midtown Global Market,920 E Lake St
 city: Minneapolis
 state: MN
 zip: '55407'
@@ -185,6 +183,29 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 0
 website: https://intownsushi.com/
+description: >-
+  Discover Intown Sushi in Minneapolis, MN$$$Intown Sushi in Minneapolis, MN,
+  stands out as a casual dining option within the vibrant Midtown Global Market,
+  offering fresh sushi and poke bowls that cater to quick lunches and dinners.
+  This spot emphasizes accessibility with features like wheelchair-friendly
+  entrances and seating, making it a welcoming choice for various diners seeking
+  Japanese-inspired meals in a convenient setting. Patrons can enjoy a range of
+  flavorful rolls and bowls prepared with quality ingredients, all at moderate
+  prices that fit everyday budgets. For those exploring sushi restaurants near
+  you, this location delivers a straightforward, grab-and-go experience that
+  highlights top-rated flavors without overwhelming formality.
+generative_summary: >-
+  Discover Intown Sushi in Minneapolis, MN$$$Intown Sushi in Minneapolis, MN,
+  stands out as a casual dining option within the vibrant Midtown Global Market,
+  offering fresh sushi and poke bowls that cater to quick lunches and dinners.
+  This spot emphasizes accessibility with features like wheelchair-friendly
+  entrances and seating, making it a welcoming choice for various diners seeking
+  Japanese-inspired meals in a convenient setting. Patrons can enjoy a range of
+  flavorful rolls and bowls prepared with quality ingredients, all at moderate
+  prices that fit everyday budgets. For those exploring sushi restaurants near
+  you, this location delivers a straightforward, grab-and-go experience that
+  highlights top-rated flavors without overwhelming formality.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJx5c1EP0n9ocR-1AC5iUKsHc/reviews/ChdDSUhNMG9nS0VJQ0FnSURuajlTRnNnRRAB
@@ -328,6 +349,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURRMEpQckhnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURRMEpQckhnEAE!2m1!1s0x87f627fd103597c7:0x77b00a25e60250fb
+review_summary: >-
+  What Customers Are Buzzing About$$$If you're on the hunt for the best sushi
+  near you, folks often rave about the tasty and fresh options at spots like
+  this one, where the rolls and poke bowls deliver a satisfying mix of flavors
+  and textures. Many appreciate the great value, especially through deals that
+  make high-quality sushi accessible without breaking the bank, alongside speedy
+  service that keeps things efficient and enjoyable. While some mention minor
+  inconsistencies like rice texture on occasion, the overall consensus leans
+  positive, praising the variety of choices that suit both spicy adventurers and
+  milder tastes. Overall, it's a solid pick for anyone craving reliable Japanese
+  places near me, with highlights on the generous portions and welcoming vibe
+  that encourage repeat visits.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options:
   acceptsCreditCards: true
@@ -357,7 +391,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

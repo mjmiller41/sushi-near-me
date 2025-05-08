@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Pop Restaurant"
+title: Sushi Pop Restaurant
 permalink: /florida/oviedo/sushi-pop-restaurant.html
 stateAbbr: FL
 stateName: Florida
 cityName: Oviedo
 seo:
-  name: "Sushi Pop Restaurant"
-  type: Restaurant
+  type: restaurant
   links: http://sushipoprestaurant.com/
-description: "Japanese restaurant & sushi bar boasts an innovative menu & contemporary design. Sushi Pop Restaurant serves delicious sushi in Oviedo, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJcfaipnBp54gRwjBAhT1hBTo
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: null
 rating: '4.6'
 rating_count: 0
 website: http://sushipoprestaurant.com/
+description: >-
+  Discover Sushi Pop in Oviedo, Florida$$$Sushi Pop Restaurant in Oviedo,
+  Florida, stands out as a dynamic destination for Japanese dining, blending
+  modern aesthetics with a creative menu that highlights fresh ingredients and
+  inventive flavors. The spot offers a range of sushi options that balance
+  traditional techniques with seasonal twists, making it a go-to for those
+  seeking quality Japanese fare in a contemporary setting. Visitors appreciate
+  the welcoming atmosphere, complete with thoughtful design elements that
+  enhance the overall experience, ideal for casual meals or special occasions.
+  Accessibility features like wheelchair-friendly entrances and parking add to
+  its appeal, ensuring everyone can enjoy the diverse offerings, from expertly
+  crafted rolls to satisfying appetizers and desserts.
+generative_summary: >-
+  Discover Sushi Pop in Oviedo, Florida$$$Sushi Pop Restaurant in Oviedo,
+  Florida, stands out as a dynamic destination for Japanese dining, blending
+  modern aesthetics with a creative menu that highlights fresh ingredients and
+  inventive flavors. The spot offers a range of sushi options that balance
+  traditional techniques with seasonal twists, making it a go-to for those
+  seeking quality Japanese fare in a contemporary setting. Visitors appreciate
+  the welcoming atmosphere, complete with thoughtful design elements that
+  enhance the overall experience, ideal for casual meals or special occasions.
+  Accessibility features like wheelchair-friendly entrances and parking add to
+  its appeal, ensuring everyone can enjoy the diverse offerings, from expertly
+  crafted rolls to satisfying appetizers and desserts.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJcfaipnBp54gRwjBAhT1hBTo/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJZ2ZHcTFRRRAB
@@ -396,6 +419,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURQNzRpRWR3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURQNzRpRWR3EAE!2m1!1s0x88e76970a6a2f671:0x3a05613d854030c2
+review_summary: >-
+  What People Are Saying About the Experience$$$Folks rave about the fresh and
+  flavorful sushi rolls at this spot, often highlighting the creative twists on
+  classics that keep things exciting and delicious. Many mention the solid
+  variety of dishes, including standout appetizers and desserts that add a fun
+  element to every visit, making it a reliable choice for groups or date nights.
+  While service is generally friendly and efficient, some note occasional waits
+  or inconsistencies that come with busy times, but overall, it's seen as a
+  minor hiccup in an otherwise enjoyable meal. Reviewers appreciate the
+  reasonable prices for the high-quality ingredients, often recommending it as
+  one of the top options for anyone craving Japanese cuisine nearby. All in all,
+  it's a welcoming place that delivers on taste and vibe, encouraging repeat
+  visits for its consistent positives.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -427,8 +464,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Japanese restaurant & sushi bar boasts an innovative menu & contemporary
   design.
 

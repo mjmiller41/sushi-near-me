@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sakari Sushi"
+title: Sakari Sushi
 permalink: /virginia/suffolk/sakari-sushi.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Suffolk
 seo:
-  name: "Sakari Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://sakarisushibuffet.wixsite.com/sakarisushisuffolk/menu
-description: "Sakari Sushi serves delicious sushi in Suffolk, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJH_LM5TOfuokR8q49IoEszfw
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 0
 website: https://sakarisushibuffet.wixsite.com/sakarisushisuffolk/menu
+description: >-
+  Discover Sakari Sushi in Suffolk, Virginia$$$Sakari Sushi in Suffolk,
+  Virginia, offers a laid-back atmosphere perfect for enjoying fresh Japanese
+  cuisine. This spot specializes in all-you-can-eat options featuring a variety
+  of sushi rolls and other flavorful dishes, complemented by selections of sake
+  and wine for a complete dining experience. With thoughtful accessibility
+  features like wheelchair-friendly entrances and parking, it's designed to
+  welcome everyone looking for quality Japanese fare. The menu highlights
+  include creative rolls and hearty sides, making it a go-to choice for those
+  seeking authentic flavors in a comfortable setting. Whether you're exploring
+  local sushi options or craving something new, this venue delivers a satisfying
+  meal with attention to detail.
+generative_summary: >-
+  Discover Sakari Sushi in Suffolk, Virginia$$$Sakari Sushi in Suffolk,
+  Virginia, offers a laid-back atmosphere perfect for enjoying fresh Japanese
+  cuisine. This spot specializes in all-you-can-eat options featuring a variety
+  of sushi rolls and other flavorful dishes, complemented by selections of sake
+  and wine for a complete dining experience. With thoughtful accessibility
+  features like wheelchair-friendly entrances and parking, it's designed to
+  welcome everyone looking for quality Japanese fare. The menu highlights
+  include creative rolls and hearty sides, making it a go-to choice for those
+  seeking authentic flavors in a comfortable setting. Whether you're exploring
+  local sushi options or craving something new, this venue delivers a satisfying
+  meal with attention to detail.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJH_LM5TOfuokR8q49IoEszfw/reviews/ChZDSUhNMG9nS0VJQ0FnSURYMS16cUdBEAE
@@ -348,6 +371,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN2dUtPX253RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN2dUtPX253RRAB!2m1!1s0x89ba9f33e5ccf21f:0xfccd2c81223daef2
+review_summary: >-
+  What Customers Are Saying$$$Visitors often rave about the fresh and
+  high-quality sushi that stands out for its authentic taste and variety, making
+  it a solid pick for anyone hunting for great Japanese dining nearby. Many
+  appreciate the quick service and attentive staff, which help create a smooth
+  experience whether you're opting for all-you-can-eat deals or other menu
+  items. Feedback highlights the balance of flavors in the rolls and hot dishes,
+  along with options that cater to both sushi lovers and those trying something
+  different for the first time. Overall, folks find it a welcoming spot for
+  groups or casual meals, with minor suggestions for improvements like better
+  table supplies, but the positives far outweigh any small issues. If you're in
+  the mood for reliable, tasty eats, this place comes highly recommended based
+  on shared experiences.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -380,7 +417,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

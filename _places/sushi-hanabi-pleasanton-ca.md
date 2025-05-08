@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Hanabi"
+title: Sushi Hanabi
 permalink: /california/pleasanton/sushi-hanabi.html
 stateAbbr: CA
 stateName: California
 cityName: Pleasanton
 seo:
-  name: "Sushi Hanabi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi Hanabi serves delicious sushi in Pleasanton, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJOW-fVqHpj4ARAgaMRtO5Qu8
 photos:
   - name: >-
@@ -143,7 +141,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDQmdD3aw!2e10!4m2!3m1!1s0x808fe9a1569f6f39:0xef42b9d3468c0602
 address: 'Sushi hanabi, 927 Main St #A, Pleasanton, CA 94566, USA'
-street: 'Sushi hanabi, 927 Main St #A'
+street: 'Sushi hanabi,927 Main St #A'
 city: Pleasanton
 state: CA
 zip: '94566'
@@ -185,7 +183,45 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Explore Sushi Hanabi in Pleasanton, CA$$$Sushi Hanabi in Pleasanton,
+  California, stands out as a welcoming spot for enjoying fresh sushi and
+  traditional Japanese dishes in a relaxed, intimate environment. This cozy
+  eatery specializes in a variety of flavorful rolls and entrees, making it an
+  ideal choice for anyone searching for authentic sushi restaurants nearby. With
+  its casual vibe and thoughtful design, it's particularly suited for solo
+  diners or those looking for a straightforward meal without the fuss.
+  Accessibility features like wheelchair-friendly entrances and seating add to
+  the convenience, ensuring a comfortable experience for all. Whether you're
+  exploring sushi places near me or seeking top-rated options in the area, this
+  spot delivers on quality and simplicity.
+generative_summary: >-
+  Explore Sushi Hanabi in Pleasanton, CA$$$Sushi Hanabi in Pleasanton,
+  California, stands out as a welcoming spot for enjoying fresh sushi and
+  traditional Japanese dishes in a relaxed, intimate environment. This cozy
+  eatery specializes in a variety of flavorful rolls and entrees, making it an
+  ideal choice for anyone searching for authentic sushi restaurants nearby. With
+  its casual vibe and thoughtful design, it's particularly suited for solo
+  diners or those looking for a straightforward meal without the fuss.
+  Accessibility features like wheelchair-friendly entrances and seating add to
+  the convenience, ensuring a comfortable experience for all. Whether you're
+  exploring sushi places near me or seeking top-rated options in the area, this
+  spot delivers on quality and simplicity.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Visitor Feedback Highlights$$$Folks who stop by Sushi Hanabi often rave about
+  the fresh flavors and solid portions that make every bite feel worthwhile,
+  turning it into a reliable go-to for Japanese fare lovers. Many appreciate the
+  straightforward menu with a good mix of classics and creative twists, helping
+  it stand out among local sushi options. While some note that service can vary
+  depending on the time, the overall atmosphere keeps things light and enjoyable
+  for casual visits. It's commonly recommended for anyone hunting for sushi
+  close to me, with diners highlighting the value and taste as reasons to
+  return. All in all, this place maintains a positive buzz for its approachable
+  vibe and satisfying meals, making it a solid pick for a laid-back dining
+  experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +247,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

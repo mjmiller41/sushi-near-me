@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Big Bang Sushi&Poke"
+title: Big Bang Sushi&Poke
 permalink: /new-york/west-hempstead/big-bang-sushi-poke.html
 stateAbbr: NY
 stateName: New York
 cityName: West Hempstead
 seo:
-  name: "Big Bang Sushi&Poke"
-  type: Restaurant
+  type: restaurant
   links: http://bigbangsushipoke.com/
-description: "Big Bang Sushi&Poke serves delicious sushi in West Hempstead, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ98K3HtV8wokRfbKzioDkCM4
 photos:
   - name: >-
@@ -170,22 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c27cd51eb7c2f7:0xce08e4808ab3b27d!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
-    - 'Monday: 11:30 AM – 9:15 PM'
-    - 'Tuesday: 11:30 AM – 9:15 PM'
-    - 'Wednesday: 11:30 AM – 9:15 PM'
-    - 'Thursday: 11:30 AM – 9:15 PM'
-    - 'Friday: 11:30 AM – 9:15 PM'
-    - 'Saturday: 12:30 – 9:10 PM'
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 20
+        minute: 45
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 20
+        minute: 45
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 20
+        minute: 45
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 20
+        minute: 45
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 20
+        minute: 45
+    - open:
+        day: 6
+        hour: 12
+        minute: 30
+      close:
+        day: 6
+        hour: 20
+        minute: 45
+  weekdayDescriptions:
+    - 'Monday: 11:30 AM – 8:45 PM'
+    - 'Tuesday: 11:30 AM – 8:45 PM'
+    - 'Wednesday: 11:30 AM – 8:45 PM'
+    - 'Thursday: 11:30 AM – 8:45 PM'
+    - 'Friday: 11:30 AM – 8:45 PM'
+    - 'Saturday: 12:30 – 8:45 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:30 AM – 9:15 PM'
-    - 'Tuesday: 11:30 AM – 9:15 PM'
-    - 'Wednesday: 11:30 AM – 9:15 PM'
-    - 'Thursday: 11:30 AM – 9:15 PM'
-    - 'Friday: 11:30 AM – 9:15 PM'
-    - 'Saturday: 12:30 – 9:10 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T00:45:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +238,44 @@ phone: (516) 750-8889
 price_level: PRICE_LEVEL_INEXPENSIVE
 price_range: $10 &ndash; $20
 rating: '4.5'
-rating_count: 0
+rating_count: 217
 website: http://bigbangsushipoke.com/
+description: >-
+  Discover Big Bang Sushi&Poke in West Hempstead, NY$$$Big Bang Sushi&Poke in
+  West Hempstead, NY, stands out as a relaxed spot for enjoying fresh,
+  customizable sushi and poke creations. This counter-serve eatery focuses on
+  inventive dishes like sushi burritos and hearty bowls packed with diverse
+  proteins, appealing to those seeking flavorful Japanese-inspired meals. With
+  thoughtful accessibility features and a welcoming atmosphere, it's designed
+  for easy visits whether you're grabbing a quick bite or exploring new tastes.
+  The spot's emphasis on variety and quality makes it a solid choice for anyone
+  hunting for sushi restaurants in the area, blending casual vibes with
+  satisfying options that keep diners returning.
+generative_summary: >-
+  Discover Big Bang Sushi&Poke in West Hempstead, NY$$$Big Bang Sushi&Poke in
+  West Hempstead, NY, stands out as a relaxed spot for enjoying fresh,
+  customizable sushi and poke creations. This counter-serve eatery focuses on
+  inventive dishes like sushi burritos and hearty bowls packed with diverse
+  proteins, appealing to those seeking flavorful Japanese-inspired meals. With
+  thoughtful accessibility features and a welcoming atmosphere, it's designed
+  for easy visits whether you're grabbing a quick bite or exploring new tastes.
+  The spot's emphasis on variety and quality makes it a solid choice for anyone
+  hunting for sushi restaurants in the area, blending casual vibes with
+  satisfying options that keep diners returning.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About This Sushi Favorite$$$Feedback from patrons
+  highlights the fresh flavors and generous portions at this popular sushi spot,
+  with many praising the creative twists on classic rolls and bowls. People
+  often note the affordable pricing and efficient service, making it a go-to for
+  casual meals that don't disappoint. The strong overall rating suggests a
+  reliable experience for families and groups alike, with comments frequently
+  mentioning the tasty variety that caters to different preferences. While
+  opinions vary, the consensus leans positive, indicating it's worth trying if
+  you're on the hunt for top-rated sushi nearby, offering a solid mix of quality
+  and convenience that keeps the buzz alive.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +301,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

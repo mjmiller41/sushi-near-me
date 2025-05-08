@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Oto Sushi"
+title: Oto Sushi
 permalink: /washington/redmond/oto-sushi.html
 stateAbbr: WA
 stateName: Washington
 cityName: Redmond
 seo:
-  name: "Oto Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Oto Sushi serves delicious sushi in Redmond, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJpfrQhq1ykFQRHDpP-HtCT4k
 photos:
   - name: >-
@@ -185,7 +183,47 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Oto Sushi in Redmond, WA$$$Oto Sushi in Redmond, WA, stands out as a
+  welcoming sushi restaurant that emphasizes fresh, high-quality Japanese
+  cuisine tailored for various dietary needs. This casual eatery offers an array
+  of vegetarian and gluten-free options, making it a go-to spot for those
+  searching for inclusive sushi experiences near them. With its focus on
+  flavorful rolls and creative specials, including popular happy hour deals,
+  it's ideal for anyone looking to enjoy top-rated sushi in a relaxed setting.
+  The accessible features, like wheelchair-friendly entrances and seating,
+  enhance the overall visit, ensuring everyone can savor the authentic tastes
+  without hassle. Whether you're exploring sushi places near me or seeking the
+  best local dining, Oto Sushi delivers a satisfying blend of tradition and
+  convenience.
+generative_summary: >-
+  Discover Oto Sushi in Redmond, WA$$$Oto Sushi in Redmond, WA, stands out as a
+  welcoming sushi restaurant that emphasizes fresh, high-quality Japanese
+  cuisine tailored for various dietary needs. This casual eatery offers an array
+  of vegetarian and gluten-free options, making it a go-to spot for those
+  searching for inclusive sushi experiences near them. With its focus on
+  flavorful rolls and creative specials, including popular happy hour deals,
+  it's ideal for anyone looking to enjoy top-rated sushi in a relaxed setting.
+  The accessible features, like wheelchair-friendly entrances and seating,
+  enhance the overall visit, ensuring everyone can savor the authentic tastes
+  without hassle. Whether you're exploring sushi places near me or seeking the
+  best local dining, Oto Sushi delivers a satisfying blend of tradition and
+  convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback Highlights$$$Folks who stop by this sushi spot often rave
+  about the fresh ingredients and well-prepared dishes that keep them coming
+  back for more. Many appreciate the variety of options, including vegetarian
+  choices and specials that cater to different tastes, making it a solid pick
+  for groups or solo diners. While some mention the casual vibe adds to the
+  charm, others note that service can be hit-or-miss during busier times, yet
+  it's generally seen as friendly and efficient. Overall, it's praised for
+  offering great value and a welcoming atmosphere, especially for anyone hunting
+  for reliable sushi restaurants close to home. If you're on the hunt for
+  top-rated sushi nearby, this place tends to leave visitors feeling pleased
+  with their meal and eager to return.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +249,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

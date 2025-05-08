@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "SOLID teriyaki"
+title: SOLID teriyaki
 permalink: /washington/mill-creek/solid-teriyaki.html
 stateAbbr: WA
 stateName: Washington
 cityName: Mill Creek
 seo:
-  name: "SOLID teriyaki"
-  type: Restaurant
+  type: restaurant
   links: http://www.solid-mt.com/
-description: "SOLID teriyaki serves delicious sushi in Mill Creek, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJVVWFCtgFkFQRxGTTIxnS0B4
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x549005d80a855555:0x1ed0d21923d364c4!10e5
 primary_type: Asian Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 18
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 20
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 20
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 20
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 8:00 PM'
     - 'Tuesday: 11:00 AM – 8:00 PM'
     - 'Wednesday: 11:00 AM – 8:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 8:00 PM'
     - 'Saturday: 11:00 AM – 8:00 PM'
     - 'Sunday: 11:00 AM – 6:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 8:00 PM'
-    - 'Tuesday: 11:00 AM – 8:00 PM'
-    - 'Wednesday: 11:00 AM – 8:00 PM'
-    - 'Thursday: 11:00 AM – 8:00 PM'
-    - 'Friday: 11:00 AM – 8:00 PM'
-    - 'Saturday: 11:00 AM – 8:00 PM'
-    - 'Sunday: 11:00 AM – 6:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,225 @@ phone: (425) 379-5000
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.5'
-rating_count: 0
+rating_count: 170
 website: http://www.solid-mt.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover SOLID Teriyaki in Mill Creek, WA$$$SOLID Teriyaki in Mill Creek, WA,
+  offers a casual dining experience with a focus on flavorful Asian fusion
+  dishes that blend traditional and innovative flavors. This spot serves up
+  generous portions of favorites like kimchi fried rice and bubble tea, making
+  it a go-to for those seeking comforting, well-prepared meals in a welcoming
+  environment. With accessibility features such as wheelchair-friendly parking
+  and entrances, it's designed to accommodate a variety of diners looking for
+  convenience and quality. The restaurant maintains extended hours throughout
+  the week, ensuring options for lunch or dinner, and its moderate pricing adds
+  to the appeal for everyday outings. Overall, it's a solid choice for anyone
+  exploring nearby Japanese-inspired eateries in the area, providing a
+  satisfying mix of taste and value.
+generative_summary: >-
+  Discover SOLID Teriyaki in Mill Creek, WA$$$SOLID Teriyaki in Mill Creek, WA,
+  offers a casual dining experience with a focus on flavorful Asian fusion
+  dishes that blend traditional and innovative flavors. This spot serves up
+  generous portions of favorites like kimchi fried rice and bubble tea, making
+  it a go-to for those seeking comforting, well-prepared meals in a welcoming
+  environment. With accessibility features such as wheelchair-friendly parking
+  and entrances, it's designed to accommodate a variety of diners looking for
+  convenience and quality. The restaurant maintains extended hours throughout
+  the week, ensuring options for lunch or dinner, and its moderate pricing adds
+  to the appeal for everyday outings. Overall, it's a solid choice for anyone
+  exploring nearby Japanese-inspired eateries in the area, providing a
+  satisfying mix of taste and value.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJVVWFCtgFkFQRxGTTIxnS0B4/reviews/ChZDSUhNMG9nS0VJQ0FnSUNRMlBlOEhnEAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        Excellent teriyaki and Korean food here at this newly renovated and
+        updated restaurant with an expanded menue featuring new items with
+        excellent service. Their new sandwiches are flavorful with attention to
+        detail and flavors are rich and on proper bread! They also kept the
+        great items that were on the menue before and bubble tea as well!
+      languageCode: en
+    originalText:
+      text: >-
+        Excellent teriyaki and Korean food here at this newly renovated and
+        updated restaurant with an expanded menue featuring new items with
+        excellent service. Their new sandwiches are flavorful with attention to
+        detail and flavors are rich and on proper bread! They also kept the
+        great items that were on the menue before and bubble tea as well!
+      languageCode: en
+    authorAttribution:
+      displayName: Richard Fuller
+      uri: https://www.google.com/maps/contrib/102781304575219075450/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjU26OomPsc0TEggikeNUFud9AXNN-UqgH7u6hxrRieBnaVNHFab=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2024-01-09T21:23:30.521710Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNRMlBlOEhnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNRMlBlOEhnEAE!2m1!1s0x549005d80a855555:0x1ed0d21923d364c4
+  - name: >-
+      places/ChIJVVWFCtgFkFQRxGTTIxnS0B4/reviews/ChZDSUhNMG9nS0VJQ0FnSUNWNmVHX1ZBEAE
+    relativePublishTimeDescription: a year ago
+    rating: 2
+    text:
+      text: >-
+        Take out only! I was in the area and found this place.  After parking
+        and walking thru the rain, I found a small "take out only" sign.  Even
+        though there are tables/chairs and a dining area, it's not to be used. 
+        I had to leave and find another place to eat very disappointing.
+      languageCode: en
+    originalText:
+      text: >-
+        Take out only! I was in the area and found this place.  After parking
+        and walking thru the rain, I found a small "take out only" sign.  Even
+        though there are tables/chairs and a dining area, it's not to be used. 
+        I had to leave and find another place to eat very disappointing.
+      languageCode: en
+    authorAttribution:
+      displayName: Jeremy Kuehl
+      uri: https://www.google.com/maps/contrib/109185373500384134771/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIMa5-4yGTYkGqGg6GBd_K_OrMJfFsLs4a7B7r-CfhARIQrIA=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2023-12-08T02:30:00.532487Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNWNmVHX1ZBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNWNmVHX1ZBEAE!2m1!1s0x549005d80a855555:0x1ed0d21923d364c4
+  - name: >-
+      places/ChIJVVWFCtgFkFQRxGTTIxnS0B4/reviews/ChZDSUhNMG9nS0VJQ0FnSUNpeFo2a0ZBEAE
+    relativePublishTimeDescription: 4 years ago
+    rating: 5
+    text:
+      text: >-
+        You get really generous portion sizes and quality teriyaki for a good
+        price. The chicken katsu is always tender, and the miso soup is
+        surprisingly rich, too!
+      languageCode: en
+    originalText:
+      text: >-
+        You get really generous portion sizes and quality teriyaki for a good
+        price. The chicken katsu is always tender, and the miso soup is
+        surprisingly rich, too!
+      languageCode: en
+    authorAttribution:
+      displayName: Jeremy Haverfield
+      uri: https://www.google.com/maps/contrib/101265515227391251536/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIZPCil55bMZYY7o9Pn4ADNT82CzfShZIxd1gfcu9taA9kWdw=s128-c0x00000000-cc-rp-mo
+    publishTime: '2020-11-09T03:17:13.231325Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNpeFo2a0ZBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNpeFo2a0ZBEAE!2m1!1s0x549005d80a855555:0x1ed0d21923d364c4
+  - name: >-
+      places/ChIJVVWFCtgFkFQRxGTTIxnS0B4/reviews/ChdDSUhNMG9nS0VJQ0FnSURXbWVfOXN3RRAB
+    relativePublishTimeDescription: 3 years ago
+    rating: 5
+    text:
+      text: >-
+        My favorite teriyaki place in the Greater Seattle region. Been coming
+        here for years. The pork teriyaki, pictured, is my fave but the kimchi
+        fried rice with spam is a close second! Sushi’s really great as well.
+      languageCode: en
+    originalText:
+      text: >-
+        My favorite teriyaki place in the Greater Seattle region. Been coming
+        here for years. The pork teriyaki, pictured, is my fave but the kimchi
+        fried rice with spam is a close second! Sushi’s really great as well.
+      languageCode: en
+    authorAttribution:
+      displayName: Erik Persson
+      uri: https://www.google.com/maps/contrib/117808152054312935678/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWJQvez0JYXYdNUkLB7E_n6WaGIejhm-AjVDSJstzdkMGGErvSRyQ=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2022-03-28T19:45:00.734595Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURXbWVfOXN3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURXbWVfOXN3RRAB!2m1!1s0x549005d80a855555:0x1ed0d21923d364c4
+  - name: >-
+      places/ChIJVVWFCtgFkFQRxGTTIxnS0B4/reviews/ChZDSUhNMG9nS0VJQ0FnSURncy1IVFVBEAE
+    relativePublishTimeDescription: 6 years ago
+    rating: 5
+    text:
+      text: >-
+        Been looking for a new teriyaki spot within a mile from my house, and so
+        I’ve tried a lot around the area. I’d say this one is by far the best.
+        The portions are fair and filling. The quality and flavor is on point. I
+        normally have a hard time finding good spicy teriyaki and this one
+        nailed it. Overall I’d say it’s some pretty solid teriyaki. This is my
+        new spot.
+      languageCode: en
+    originalText:
+      text: >-
+        Been looking for a new teriyaki spot within a mile from my house, and so
+        I’ve tried a lot around the area. I’d say this one is by far the best.
+        The portions are fair and filling. The quality and flavor is on point. I
+        normally have a hard time finding good spicy teriyaki and this one
+        nailed it. Overall I’d say it’s some pretty solid teriyaki. This is my
+        new spot.
+      languageCode: en
+    authorAttribution:
+      displayName: Daniel G
+      uri: https://www.google.com/maps/contrib/107470513571193139976/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUt3xQGxCoo2JUspsTOz__ubl7nQJ8zwEYIf1KSbo8ddkamUi1A=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2018-09-25T03:53:17.004160Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURncy1IVFVBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURncy1IVFVBEAE!2m1!1s0x549005d80a855555:0x1ed0d21923d364c4
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this Asian fusion spot often rave
+  about the generous portions and high-quality teriyaki dishes that deliver
+  bold, satisfying flavors without breaking the bank. Many appreciate the
+  variety of options, including tasty sandwiches and classics like kimchi fried
+  rice, which keep things fresh and exciting for repeat trips. While one comment
+  noted some limitations with on-site dining, the overall vibe leans positive
+  with praise for the attentive service and well-executed meals that make it a
+  reliable favorite. Folks frequently highlight the tender meats and rich sides
+  as standout elements that enhance the experience, making it worth trying for
+  anyone in the mood for comforting eats. In essence, it's a welcoming place
+  that generally hits the mark for casual diners seeking top-rated local flavors
+  with a personal touch.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
+curbside_pickup: false
+delivery: true
+dine_in: true
+good_for_children: false
 good_for_groups: null
-good_for_sports: null
-live_music: null
+good_for_sports: false
+live_music: false
 menu_for_children: null
 outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+reservable: false
+restroom: true
+serves_beer: true
 serves_breakfast: null
-serves_brunch: null
+serves_brunch: false
 serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_coffee: false
+serves_dinner: true
+serves_dessert: false
+serves_lunch: true
+serves_vegetarian_food: false
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

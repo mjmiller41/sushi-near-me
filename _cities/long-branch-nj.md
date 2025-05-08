@@ -5,4 +5,5 @@ permalink: /new-jersey/long-branch/
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Long Branch
+
 ---

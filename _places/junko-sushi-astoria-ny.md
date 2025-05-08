@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Junko Sushi"
+title: Junko Sushi
 permalink: /new-york/astoria/junko-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: Astoria
 seo:
-  name: "Junko Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.junkosushi-astoria.com/?utm_source=gmb&utm_medium=website
-description: "Junko Sushi serves delicious sushi in Astoria, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJmzOcKQxfwokRReun14IvXz4
 photos:
   - name: >-
@@ -182,6 +180,35 @@ price_range: $10 &ndash; $20
 rating: '4.2'
 rating_count: 0
 website: https://www.junkosushi-astoria.com/?utm_source=gmb&utm_medium=website
+description: >-
+  Discover Junko Sushi in Astoria, NY$$$Junko Sushi in Astoria, NY, stands out
+  as a welcoming Japanese restaurant offering a variety of fresh sushi options
+  that appeal to those seeking authentic flavors in a convenient neighborhood
+  setting. The spot features a solid selection of rolls and noodles, emphasizing
+  quality ingredients and a balance of traditional tastes with creative twists,
+  making it a go-to choice for sushi enthusiasts exploring local dining scenes.
+  With its moderate pricing and options for both dine-in and takeout, it's an
+  accessible spot that caters to casual meals or quick grabs, ideal for anyone
+  searching for reliable sushi restaurants nearby. The restaurant's clean
+  atmosphere and wheelchair-accessible facilities add to its appeal, ensuring a
+  comfortable experience for all visitors. Whether you're in the mood for
+  top-rated sushi close to home, this location delivers a satisfying blend of
+  freshness and value that keeps patrons coming back.
+generative_summary: >-
+  Discover Junko Sushi in Astoria, NY$$$Junko Sushi in Astoria, NY, stands out
+  as a welcoming Japanese restaurant offering a variety of fresh sushi options
+  that appeal to those seeking authentic flavors in a convenient neighborhood
+  setting. The spot features a solid selection of rolls and noodles, emphasizing
+  quality ingredients and a balance of traditional tastes with creative twists,
+  making it a go-to choice for sushi enthusiasts exploring local dining scenes.
+  With its moderate pricing and options for both dine-in and takeout, it's an
+  accessible spot that caters to casual meals or quick grabs, ideal for anyone
+  searching for reliable sushi restaurants nearby. The restaurant's clean
+  atmosphere and wheelchair-accessible facilities add to its appeal, ensuring a
+  comfortable experience for all visitors. Whether you're in the mood for
+  top-rated sushi close to home, this location delivers a satisfying blend of
+  freshness and value that keeps patrons coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJmzOcKQxfwokRReun14IvXz4/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJaDczTXNRRRAB
@@ -343,6 +370,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURKdjdXMGJBEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURKdjdXMGJBEAE!2m1!1s0x89c25f0c299c339b:0x3e5f2f82d7a7eb45
+review_summary: >-
+  Insights from Customer Feedback$$$Folks rave about the fresh and flavorful
+  sushi at this spot, often highlighting how the ingredients shine through in
+  every bite, making it a solid pick for anyone craving quality Japanese fare.
+  While some mention that portions can feel a bit small for the price, the
+  overall taste and variety keep things enjoyable and worth trying, especially
+  for takeout on busy days. Reviewers appreciate the friendly service and
+  consistent options for both lunch and dinner, adding to the relaxed vibe that
+  suits groups or solo diners alike. There are occasional notes about minor
+  hassles like extra fees, but these don't overshadow the generally positive
+  experiences shared by many. All in all, it's a dependable choice for tasty
+  sushi near you, with feedback leaning toward satisfaction and repeat visits
+  for its reliable appeal.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options:
   acceptsCreditCards: true
@@ -372,7 +413,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Restaurante El Conrro"
+title: Restaurante El Conrro
 permalink: /california/san-jose/restaurante-el-conrro.html
 stateAbbr: CA
 stateName: California
 cityName: San Jose
 seo:
-  name: "Restaurante El Conrro"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Restaurante El Conrro serves delicious sushi in San Jose, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJkxPw_vHNj4AR3kWX9y1LFho
 photos:
   - name: >-
@@ -185,7 +183,46 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Restaurante El Conrro in San Jose, California$$$Nestled in the heart
+  of San Jose, California, Restaurante El Conrro offers a welcoming spot for
+  casual dining that highlights its approachable vibe and family-oriented charm.
+  This Mexican restaurant specializes in a variety of flavorful dishes,
+  including fresh tacos, hearty tortas, and seafood options that bring a touch
+  of coastal inspiration to the menu. Complementing the meals are refreshing
+  cocktails that add a fun twist to the overall experience, making it ideal for
+  relaxed gatherings. The spot emphasizes accessibility with features like
+  wheelchair-friendly entrances and seating, ensuring everyone can enjoy the
+  inviting atmosphere. Its kid-friendly setup makes it a go-to choice for those
+  seeking straightforward, enjoyable meals in a lively urban setting.
+generative_summary: >-
+  Discover Restaurante El Conrro in San Jose, California$$$Nestled in the heart
+  of San Jose, California, Restaurante El Conrro offers a welcoming spot for
+  casual dining that highlights its approachable vibe and family-oriented charm.
+  This Mexican restaurant specializes in a variety of flavorful dishes,
+  including fresh tacos, hearty tortas, and seafood options that bring a touch
+  of coastal inspiration to the menu. Complementing the meals are refreshing
+  cocktails that add a fun twist to the overall experience, making it ideal for
+  relaxed gatherings. The spot emphasizes accessibility with features like
+  wheelchair-friendly entrances and seating, ensuring everyone can enjoy the
+  inviting atmosphere. Its kid-friendly setup makes it a go-to choice for those
+  seeking straightforward, enjoyable meals in a lively urban setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$While specific reviews for Restaurante El Conrro
+  are limited, the general buzz around similar casual Mexican eateries in the
+  area suggests folks appreciate the laid-back vibe and tasty, straightforward
+  offerings like tacos and cocktails. Many highlight the family-friendly
+  environment as a standout, making it a solid pick for groups looking for
+  reliable, no-fuss dining. Based on the overall style of places like this,
+  customers often note the welcoming feel and accessible features, such as easy
+  entry options, as helpful perks. It's clear the focus on fresh flavors and
+  relaxed settings tends to leave a positive impression, even if more detailed
+  feedback is sparse. All in all, it seems like a worthwhile stop for anyone
+  craving authentic Mexican cuisine in San Jose, with potential for enjoyable
+  meals that keep things light and satisfying.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +248,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

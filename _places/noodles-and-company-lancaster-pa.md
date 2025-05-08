@@ -1,15 +1,14 @@
 ---
 layout: place
-title: "Noodles and Company"
+title: Noodles and Company
 permalink: /pennsylvania/lancaster/noodles-and-company.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Lancaster
 seo:
-  name: "Noodles and Company"
-  type: Restaurant
-  links: https://locations.noodles.com/pa/lancaster/2099-fruitville-pike?utm_campaign=soci&utm_medium=organic&utm_source=google
-description: "Noodles and Company serves delicious sushi in Lancaster, Pennsylvania. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: >-
+    https://locations.noodles.com/pa/lancaster/2099-fruitville-pike?utm_campaign=soci&utm_medium=organic&utm_source=google
 place_id: ChIJV8X2RpojxokRv8LuDiJhPjw
 photos:
   - name: >-
@@ -168,7 +167,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c6239a46f6c557:0x3c3e61220eeec2bf!10e5
 primary_type: Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 10
+        minute: 30
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 10
+        minute: 30
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 10
+        minute: 30
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 10
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 10
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 10
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 10
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 10:30 AM – 10:00 PM'
     - 'Tuesday: 10:30 AM – 10:00 PM'
     - 'Wednesday: 10:30 AM – 10:00 PM'
@@ -176,29 +233,125 @@ opening_hours:
     - 'Friday: 10:30 AM – 10:00 PM'
     - 'Saturday: 10:30 AM – 10:00 PM'
     - 'Sunday: 10:30 AM – 10:00 PM'
-  current:
-    - 'Monday: 10:30 AM – 10:00 PM'
-    - 'Tuesday: 10:30 AM – 10:00 PM'
-    - 'Wednesday: 10:30 AM – 10:00 PM'
-    - 'Thursday: 10:30 AM – 10:00 PM'
-    - 'Friday: 10:30 AM – 10:00 PM'
-    - 'Saturday: 10:30 AM – 10:00 PM'
-    - 'Sunday: 10:30 AM – 10:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 10
+          minute: 45
+        close:
+          day: 0
+          hour: 22
+          minute: 0
+      - open:
+          day: 1
+          hour: 10
+          minute: 45
+        close:
+          day: 1
+          hour: 22
+          minute: 0
+      - open:
+          day: 2
+          hour: 10
+          minute: 45
+        close:
+          day: 2
+          hour: 22
+          minute: 0
+      - open:
+          day: 3
+          hour: 10
+          minute: 45
+        close:
+          day: 3
+          hour: 22
+          minute: 0
+      - open:
+          day: 4
+          hour: 10
+          minute: 45
+        close:
+          day: 4
+          hour: 22
+          minute: 0
+      - open:
+          day: 5
+          hour: 10
+          minute: 45
+        close:
+          day: 5
+          hour: 22
+          minute: 0
+      - open:
+          day: 6
+          hour: 10
+          minute: 45
+        close:
+          day: 6
+          hour: 22
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 10:45 AM – 10:00 PM'
+      - 'Tuesday: 10:45 AM – 10:00 PM'
+      - 'Wednesday: 10:45 AM – 10:00 PM'
+      - 'Thursday: 10:45 AM – 10:00 PM'
+      - 'Friday: 10:45 AM – 10:00 PM'
+      - 'Saturday: 10:45 AM – 10:00 PM'
+      - 'Sunday: 10:45 AM – 10:00 PM'
+    secondaryHoursType: DELIVERY
+    nextCloseTime: '2025-05-04T02:00:00Z'
 phone: (717) 560-0500
 price_level: PRICE_LEVEL_INEXPENSIVE
 price_range: $10 &ndash; $20
 rating: '4.3'
-rating_count: 0
+rating_count: 753
 website: >-
   https://locations.noodles.com/pa/lancaster/2099-fruitville-pike?utm_campaign=soci&utm_medium=organic&utm_source=google
+description: >-
+  Discover Noodles and Company in Lancaster, PA$$$Noodles and Company in
+  Lancaster, Pennsylvania, stands out as a welcoming restaurant chain known for
+  its diverse selection of noodle-based dishes that cater to a variety of
+  tastes. This spot offers an array of options including Asian-inspired noodles,
+  stuffed tortelloni, and hearty macaroni varieties, all designed to provide
+  satisfying meals for different dietary needs like gluten-free choices. With
+  its convenient daily hours from late morning until evening, it's an ideal
+  place for casual dining or a quick bite, enhanced by accessible features such
+  as wheelchair-friendly parking and seating. The vibrant atmosphere makes it a
+  go-to destination for those seeking flavorful, budget-friendly eats in a
+  relaxed setting. Whether you're looking for a comforting meal after exploring
+  the area, this location combines quality ingredients with a focus on variety
+  to keep diners coming back.
+generative_summary: >-
+  Discover Noodles and Company in Lancaster, PA$$$Noodles and Company in
+  Lancaster, Pennsylvania, stands out as a welcoming restaurant chain known for
+  its diverse selection of noodle-based dishes that cater to a variety of
+  tastes. This spot offers an array of options including Asian-inspired noodles,
+  stuffed tortelloni, and hearty macaroni varieties, all designed to provide
+  satisfying meals for different dietary needs like gluten-free choices. With
+  its convenient daily hours from late morning until evening, it's an ideal
+  place for casual dining or a quick bite, enhanced by accessible features such
+  as wheelchair-friendly parking and seating. The vibrant atmosphere makes it a
+  go-to destination for those seeking flavorful, budget-friendly eats in a
+  relaxed setting. Whether you're looking for a comforting meal after exploring
+  the area, this location combines quality ingredients with a focus on variety
+  to keep diners coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Folks often rave about the tasty pasta dishes like
+  penne Rosa, calling it a solid pick for anyone wanting a speedy and enjoyable
+  meal on the go. Many highlight the bold flavors and generous portions that
+  make for a filling experience without breaking the bank. While the overall
+  vibe is positive, some note that the food quality can vary from visit to
+  visit, adding a bit of unpredictability to the mix. Still, it's frequently
+  recommended as a reliable spot for noodle lovers seeking something fresh and
+  approachable. If you're in the mood for a casual dining adventure, this place
+  generally delivers a worthwhile experience with its mix of hits and the
+  occasional miss.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -224,7 +377,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Kei"
+title: Sushi Kei
 permalink: /california/millbrae/sushi-kei.html
 stateAbbr: CA
 stateName: California
 cityName: Millbrae
 seo:
-  name: "Sushi Kei"
-  type: Restaurant
+  type: restaurant
   links: https://407sushikei.wixsite.com/sushikei
-description: "Sushi Kei serves delicious sushi in Millbrae, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJwWkODtJ3j4ARuNZROGAoy4Y
 photos:
   - name: >-
@@ -170,7 +168,81 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x808f77d20e0e69c1:0x86cb28603851d6b8!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 2
+        hour: 12
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 20
+        minute: 30
+    - open:
+        day: 3
+        hour: 12
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 20
+        minute: 30
+    - open:
+        day: 4
+        hour: 12
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 20
+        minute: 30
+    - open:
+        day: 5
+        hour: 12
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 20
+        minute: 30
+    - open:
+        day: 6
+        hour: 16
+        minute: 30
+      close:
+        day: 6
+        hour: 20
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 12:00 – 2:30 PM, 4:30 – 8:30 PM'
     - 'Wednesday: 12:00 – 2:30 PM, 4:30 – 8:30 PM'
@@ -178,14 +250,7 @@ opening_hours:
     - 'Friday: 12:00 – 2:30 PM, 4:30 – 8:30 PM'
     - 'Saturday: 4:30 – 8:30 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 12:00 – 2:30 PM, 4:30 – 8:30 PM'
-    - 'Wednesday: 12:00 – 2:30 PM, 4:30 – 8:30 PM'
-    - 'Thursday: 12:00 – 2:30 PM, 4:30 – 8:30 PM'
-    - 'Friday: 12:00 – 2:30 PM, 4:30 – 8:30 PM'
-    - 'Saturday: 4:30 – 8:30 PM'
-    - 'Sunday: Closed'
+  nextOpenTime: '2025-05-03T23:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +262,48 @@ phone: (650) 692-0100
 price_level: PRICE_LEVEL_MODERATE
 price_range: $30 &ndash; $50
 rating: '4.2'
-rating_count: 0
+rating_count: 40
 website: https://407sushikei.wixsite.com/sushikei
+description: >-
+  Discover Sushi Kei in Millbrae, California$$$Sushi Kei in Millbrae,
+  California, offers a welcoming spot for enjoying authentic Japanese flavors
+  right in the heart of the Bay Area. This cozy restaurant specializes in fresh
+  sushi and small plates, paired with a selection of sake and beer that enhance
+  the dining experience. With its accessible features like wheelchair-friendly
+  parking and entrances, it's designed to accommodate all guests seeking a
+  comfortable meal. The menu highlights high-quality ingredients and thoughtful
+  presentations, making it a go-to choice for those exploring Japanese cuisine
+  nearby. Whether you're in the mood for top-rated sushi options or a relaxed
+  atmosphere, this spot delivers a satisfying blend of tradition and local
+  charm.
+generative_summary: >-
+  Discover Sushi Kei in Millbrae, California$$$Sushi Kei in Millbrae,
+  California, offers a welcoming spot for enjoying authentic Japanese flavors
+  right in the heart of the Bay Area. This cozy restaurant specializes in fresh
+  sushi and small plates, paired with a selection of sake and beer that enhance
+  the dining experience. With its accessible features like wheelchair-friendly
+  parking and entrances, it's designed to accommodate all guests seeking a
+  comfortable meal. The menu highlights high-quality ingredients and thoughtful
+  presentations, making it a go-to choice for those exploring Japanese cuisine
+  nearby. Whether you're in the mood for top-rated sushi options or a relaxed
+  atmosphere, this spot delivers a satisfying blend of tradition and local
+  charm.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying About Sushi Kei$$$Folks checking out sushi spots
+  around Millbrae seem pretty pleased with Sushi Kei, based on its solid
+  4.2-star rating from various online feedback. Many appreciate the fresh,
+  well-prepared rolls and small plates that hit the spot without breaking the
+  bank, often noting the cozy vibe makes it feel like a hidden gem for casual
+  dinners. While some mention wait times during peak hours, the overall
+  consensus leans toward enjoying the flavorful options and attentive service
+  that keep people coming back. It's clear diners value the variety of
+  Japanese-inspired dishes, making it a reliable pick for anyone searching for
+  great sushi nearby. All in all, the buzz suggests this place delivers a
+  consistently enjoyable experience, with room for it to shine even brighter as
+  a local favorite.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +329,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Pier Tahoe"
+title: Sushi Pier Tahoe
 permalink: /nevada/stateline/sushi-pier-tahoe.html
 stateAbbr: NV
 stateName: Nevada
 cityName: Stateline
 seo:
-  name: "Sushi Pier Tahoe"
-  type: Restaurant
+  type: restaurant
   links: http://tahoesushipier.com/
-description: "Sushi Pier Tahoe serves delicious sushi in Stateline, Nevada. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJaR_MrYWamYARGlO6c0kaV1o
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80999a85adcc1f69:0x5a571a4973ba531a!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 9:00 PM'
     - 'Tuesday: 11:30 AM – 9:00 PM'
     - 'Wednesday: 11:30 AM – 9:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 9:00 PM'
     - 'Saturday: 11:30 AM – 9:00 PM'
     - 'Sunday: 11:30 AM – 9:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 9:00 PM'
-    - 'Tuesday: 11:30 AM – 9:00 PM'
-    - 'Wednesday: 11:30 AM – 9:00 PM'
-    - 'Thursday: 11:30 AM – 9:00 PM'
-    - 'Friday: 11:30 AM – 9:00 PM'
-    - 'Saturday: 11:30 AM – 9:00 PM'
-    - 'Sunday: 11:30 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,294 @@ phone: (775) 588-8588
 price_level: PRICE_LEVEL_MODERATE
 price_range: $30 &ndash; $50
 rating: '4.0'
-rating_count: 0
+rating_count: 1414
 website: http://tahoesushipier.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Sushi Pier Tahoe in Stateline, NV$$$Sushi Pier Tahoe in Stateline,
+  NV, stands out as a welcoming hub for fresh Japanese cuisine, drawing in
+  locals and visitors with its all-you-can-eat options and flavorful selections.
+  This spot features a variety of classic rolls, small plates, and traditional
+  appetizers, complemented by refreshing draft beer for a relaxed dining
+  experience. With accessibility features like wheelchair-friendly entrances and
+  parking, it's designed to accommodate everyone seeking quality Japanese fare.
+  Operating daily from late morning into the evening, it provides a casual
+  atmosphere perfect for enjoying hearty meals in a lakeside-inspired setting.
+  Whether you're exploring sushi restaurants near Lake Tahoe or looking for
+  top-rated Japanese places, this location delivers an authentic taste of the
+  cuisine with its focus on fresh ingredients and variety.
+generative_summary: >-
+  Discover Sushi Pier Tahoe in Stateline, NV$$$Sushi Pier Tahoe in Stateline,
+  NV, stands out as a welcoming hub for fresh Japanese cuisine, drawing in
+  locals and visitors with its all-you-can-eat options and flavorful selections.
+  This spot features a variety of classic rolls, small plates, and traditional
+  appetizers, complemented by refreshing draft beer for a relaxed dining
+  experience. With accessibility features like wheelchair-friendly entrances and
+  parking, it's designed to accommodate everyone seeking quality Japanese fare.
+  Operating daily from late morning into the evening, it provides a casual
+  atmosphere perfect for enjoying hearty meals in a lakeside-inspired setting.
+  Whether you're exploring sushi restaurants near Lake Tahoe or looking for
+  top-rated Japanese places, this location delivers an authentic taste of the
+  cuisine with its focus on fresh ingredients and variety.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJaR_MrYWamYARGlO6c0kaV1o/reviews/ChdDSUhNMG9nS0VJQ0FnTURJanZhVndBRRAB
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 4
+    text:
+      text: >-
+        Food was really good service was great. The person at the sushi bar was
+        very helpful. Explained things perfectly. Atmosphere was dirty. Food on
+        the seats and at the bar. I would advice them to do a deep clean!!!
+        Other then that, taste amazing!
+      languageCode: en
+    originalText:
+      text: >-
+        Food was really good service was great. The person at the sushi bar was
+        very helpful. Explained things perfectly. Atmosphere was dirty. Food on
+        the seats and at the bar. I would advice them to do a deep clean!!!
+        Other then that, taste amazing!
+      languageCode: en
+    authorAttribution:
+      displayName: April Beymer
+      uri: https://www.google.com/maps/contrib/109361478274159707029/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKg6dRuHjK6dOgxIH7-lGADgXFbq0hx6niBA9u7vEi-2vWyxw=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-09T20:23:02.788841Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJanZhVndBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJanZhVndBRRAB!2m1!1s0x80999a85adcc1f69:0x5a571a4973ba531a
+  - name: >-
+      places/ChIJaR_MrYWamYARGlO6c0kaV1o/reviews/ChdDSUhNMG9nS0VJQ0FnTURBcmVtQzVRRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 2
+    text:
+      text: >-
+        My group of six visited on Saturday evening, 2/8/25, around 7-8 pm, and
+        we sat together at the bar. We decided to try the all-you-can-eat sushi.
+        As we began ordering, it was clear that the sushi chef was overwhelmed.
+        Despite our attempts to let him know we weren't in a rush, he seemed
+        irritated, both with the staff and our group.
+
+        At one point, my girlfriend accidentally asked for a roll that was
+        already on my plate. The chef responded by slamming his hand down in a
+        way that startled her, making her feel as though she was in the wrong.
+
+        We also had to ask for water four times, from two different servers,
+        before we finally received it. We ordered several items but had to
+        follow up multiple times before they were delivered. One of our friends
+        even noticed that the group seated near us was served before he had
+        received anything.
+
+        While the food was great, the service left much to be desired. Because
+        of the poor experience, I won’t be recommending this place to my friends
+        or family.
+      languageCode: en
+    originalText:
+      text: >-
+        My group of six visited on Saturday evening, 2/8/25, around 7-8 pm, and
+        we sat together at the bar. We decided to try the all-you-can-eat sushi.
+        As we began ordering, it was clear that the sushi chef was overwhelmed.
+        Despite our attempts to let him know we weren't in a rush, he seemed
+        irritated, both with the staff and our group.
+
+        At one point, my girlfriend accidentally asked for a roll that was
+        already on my plate. The chef responded by slamming his hand down in a
+        way that startled her, making her feel as though she was in the wrong.
+
+        We also had to ask for water four times, from two different servers,
+        before we finally received it. We ordered several items but had to
+        follow up multiple times before they were delivered. One of our friends
+        even noticed that the group seated near us was served before he had
+        received anything.
+
+        While the food was great, the service left much to be desired. Because
+        of the poor experience, I won’t be recommending this place to my friends
+        or family.
+      languageCode: en
+    authorAttribution:
+      displayName: Michael Terry
+      uri: https://www.google.com/maps/contrib/108203723200888756343/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWu-iqpT8TEICAhe1wqerMZVqDhbpZJugBZbS2KZniCylqM2cwY4A=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-02-11T04:16:53.370301Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURBcmVtQzVRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURBcmVtQzVRRRAB!2m1!1s0x80999a85adcc1f69:0x5a571a4973ba531a
+  - name: >-
+      places/ChIJaR_MrYWamYARGlO6c0kaV1o/reviews/ChdDSUhNMG9nS0VJQ0FnSUNuLWZTSXFnRRAB
+    relativePublishTimeDescription: 7 months ago
+    rating: 5
+    text:
+      text: >-
+        I have been coming to sushi pier for well over 10 years. Nearly on a
+        weekly basis. The food is always good, the service is always great, and
+        everyone is always very accommodating to my family and small toddlers.
+        But, I want to give a special shout out to Ashly. Her bubbly personality
+        is always a fresh breath of air. She remembers us every time we come in,
+        and gets our usual things out quickly, especially for my toddlers. She’s
+        amazing.  Please keep her around and make her the standard. She’s
+        absolutely amazing.
+      languageCode: en
+    originalText:
+      text: >-
+        I have been coming to sushi pier for well over 10 years. Nearly on a
+        weekly basis. The food is always good, the service is always great, and
+        everyone is always very accommodating to my family and small toddlers.
+        But, I want to give a special shout out to Ashly. Her bubbly personality
+        is always a fresh breath of air. She remembers us every time we come in,
+        and gets our usual things out quickly, especially for my toddlers. She’s
+        amazing.  Please keep her around and make her the standard. She’s
+        absolutely amazing.
+      languageCode: en
+    authorAttribution:
+      displayName: Shannon
+      uri: https://www.google.com/maps/contrib/103816027491390293873/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUCpvg9LyoqqoT7FZwfLLclM0zaxdIbTiWFPHjPOKeXmU0u8_V0=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2024-09-27T18:00:09.197530Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNuLWZTSXFnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNuLWZTSXFnRRAB!2m1!1s0x80999a85adcc1f69:0x5a571a4973ba531a
+  - name: >-
+      places/ChIJaR_MrYWamYARGlO6c0kaV1o/reviews/ChZDSUhNMG9nS0VJQ0FnTUNBNVllb2JREAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 2
+    text:
+      text: >-
+        Not happy with the service and food. We had ayce sushi and it was one of
+        the most unpleasant dinning experience in my life.
+
+        - the server said they cannot make a separate check for the sake.
+
+        - they intentionally miss orders like salmon roe, shrimp.
+
+        - we reordered missed items but never came out.
+
+        - they added 18% gratuity on the bill from after-tax amount as  they
+        should have calculated from the before-tax amount. It’s such a small
+        difference but given the service we had i really didn’t wanted to pay
+        more.
+
+        - they said they will charge 3% credit card fee which was surprising
+        addition to us.
+      languageCode: en
+    originalText:
+      text: >-
+        Not happy with the service and food. We had ayce sushi and it was one of
+        the most unpleasant dinning experience in my life.
+
+        - the server said they cannot make a separate check for the sake.
+
+        - they intentionally miss orders like salmon roe, shrimp.
+
+        - we reordered missed items but never came out.
+
+        - they added 18% gratuity on the bill from after-tax amount as  they
+        should have calculated from the before-tax amount. It’s such a small
+        difference but given the service we had i really didn’t wanted to pay
+        more.
+
+        - they said they will charge 3% credit card fee which was surprising
+        addition to us.
+      languageCode: en
+    authorAttribution:
+      displayName: Sangwoo Oh
+      uri: https://www.google.com/maps/contrib/112406884079260330044/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIGNHveYP-IdkD9i2lvBzCjc4b9pSIZZafFsD7haslMTfWMxA=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-02-02T18:30:07.978044Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNBNVllb2JREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNBNVllb2JREAE!2m1!1s0x80999a85adcc1f69:0x5a571a4973ba531a
+  - name: >-
+      places/ChIJaR_MrYWamYARGlO6c0kaV1o/reviews/ChZDSUhNMG9nS0VJQ0FnTURJNzViWFVREAE
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 4
+    text:
+      text: >-
+        I really want to commend Kayla (sp) for an awesome lunch service! She
+        and the staff were super friendly. The establishment was  clean with
+        great tunes playing during my meal. The food was very good, presentation
+        was a bit lacking being some of the fish was cut improperly and falling
+        apart, but overall fresh. The baked mussels are amazing! The reason for
+        only 4 stars: a 3% up-charge for credit card payments is ridiculous in
+        my opinion. That is the price of doing business and should not effect
+        the servers, and I am sure it effects their tips.
+      languageCode: en
+    originalText:
+      text: >-
+        I really want to commend Kayla (sp) for an awesome lunch service! She
+        and the staff were super friendly. The establishment was  clean with
+        great tunes playing during my meal. The food was very good, presentation
+        was a bit lacking being some of the fish was cut improperly and falling
+        apart, but overall fresh. The baked mussels are amazing! The reason for
+        only 4 stars: a 3% up-charge for credit card payments is ridiculous in
+        my opinion. That is the price of doing business and should not effect
+        the servers, and I am sure it effects their tips.
+      languageCode: en
+    authorAttribution:
+      displayName: M.E.
+      uri: https://www.google.com/maps/contrib/115794799900650841470/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocL75Dk_5BcsEDQzHnRMgxKpZLYQQ4VXDNdD34vfsphkX3pnRg=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-13T23:54:38.251751Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURJNzViWFVREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJNzViWFVREAE!2m1!1s0x80999a85adcc1f69:0x5a571a4973ba531a
+review_summary: >-
+  What People Are Saying About the Experience$$$Folks generally enjoy the tasty
+  sushi and Japanese dishes here, with many highlighting the fresh flavors and
+  generous portions that make for a satisfying meal. While the service shines in
+  friendly moments, some mention occasional delays during peak times, though
+  staff efforts keep things moving as best they can. Customers appreciate the
+  welcoming vibe for families and groups, along with solid options like baked
+  mussels that add to the fun of dining out. Overall, it's a popular choice for
+  those searching sushi near me, as the positives in food quality and atmosphere
+  outweigh minor hiccups, encouraging repeat visits for a generally enjoyable
+  outing. If you're checking out best sushi restaurants in the area, this spot
+  offers good value with room for smooth service tweaks to enhance the
+  experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
 good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+live_music: false
+menu_for_children: true
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
+serves_coffee: true
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Informal spot for all-you-can-eat sushi, plus sake & traditional Japanese
+  appetizers & entrees.
 
 ---

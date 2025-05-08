@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ango Tei"
+title: Ango Tei
 permalink: /california/costa-mesa/ango-tei.html
 stateAbbr: CA
 stateName: California
 cityName: Costa Mesa
 seo:
-  name: "Ango Tei"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Intimate space for carefully presented Japanese fare plus sushi & other traditional entrees. Ango Tei serves delicious sushi in Costa Mesa, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJvcPKzhjf3IARhK5pyLy3Z6g
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: null
 rating: '4.5'
 rating_count: 0
 website: null
+description: >-
+  Discover Ango Tei in Costa Mesa, CA$$$Ango Tei in Costa Mesa, CA, provides a
+  welcoming spot for savoring fresh sushi and traditional Japanese dishes in an
+  intimate atmosphere. This cozy venue focuses on carefully crafted offerings,
+  including a variety of Japanese favorites that pair perfectly with beverages
+  like beer, wine, and sake, making it a go-to choice for sushi enthusiasts
+  exploring local dining options. The space emphasizes accessibility with
+  features like wheelchair-friendly entrances and seating, ensuring a
+  comfortable experience for all visitors. Moderately priced and ideal for those
+  seeking quality sushi restaurants nearby, it delivers an authentic taste of
+  Japanese cuisine without overwhelming formality. Whether you're in the mood
+  for inventive rolls or classic nigiri, this spot stands out as a reliable
+  option for casual yet refined meals in the area.
+generative_summary: >-
+  Discover Ango Tei in Costa Mesa, CA$$$Ango Tei in Costa Mesa, CA, provides a
+  welcoming spot for savoring fresh sushi and traditional Japanese dishes in an
+  intimate atmosphere. This cozy venue focuses on carefully crafted offerings,
+  including a variety of Japanese favorites that pair perfectly with beverages
+  like beer, wine, and sake, making it a go-to choice for sushi enthusiasts
+  exploring local dining options. The space emphasizes accessibility with
+  features like wheelchair-friendly entrances and seating, ensuring a
+  comfortable experience for all visitors. Moderately priced and ideal for those
+  seeking quality sushi restaurants nearby, it delivers an authentic taste of
+  Japanese cuisine without overwhelming formality. Whether you're in the mood
+  for inventive rolls or classic nigiri, this spot stands out as a reliable
+  option for casual yet refined meals in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJvcPKzhjf3IARhK5pyLy3Z6g/reviews/ChdDSUhNMG9nS0VJQ0FnSUMxazRQVnZBRRAB
@@ -322,6 +347,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURYeXQ3NnJBRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURYeXQ3NnJBRRAB!2m1!1s0x80dcdf18cecac3bd:0xa867b7bcc869ae84
+review_summary: >-
+  What Guests Are Saying$$$Visitors consistently praise the outstanding quality
+  of the sushi and Japanese dishes, highlighting the fresh ingredients and
+  creative presentations that make every bite memorable. Many appreciate the
+  friendly and attentive service that enhances the overall dining experience,
+  creating a relaxed vibe perfect for enjoying a meal with friends or solo.
+  Feedback often notes the great value for the price, with portions that satisfy
+  without breaking the bank, and the intimate setting adds to the charm without
+  feeling crowded. Overall, people enjoy recommending this place as a hidden gem
+  for top sushi experiences, with positive comments on the welcoming atmosphere
+  that keeps them coming back. If you're searching for reliable sushi spots
+  nearby, the consistent feedback suggests it's worth a visit for a satisfying
+  and enjoyable outing.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -352,8 +391,8 @@ serves_lunch: true
 serves_vegetarian_food: false
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Intimate space for carefully presented Japanese fare plus sushi & other
   traditional entrees.
 

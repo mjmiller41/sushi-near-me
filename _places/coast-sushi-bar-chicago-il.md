@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Coast Sushi Bar"
+title: Coast Sushi Bar
 permalink: /illinois/chicago/coast-sushi-bar.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
 seo:
-  name: "Coast Sushi Bar"
-  type: Restaurant
+  type: restaurant
   links: http://coastsushi.net/coastsushi/default.asp
-description: "Cooked Japanese fare & creative sushi rolls served in a lively, contemporary setting. Coast Sushi Bar serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJzz1aLOvSD4gRq-BexNb_hV4
 photos:
   - name: >-
@@ -149,8 +147,8 @@ state: IL
 zip: '60647'
 country: USA
 neighborhood: Bucktown
-latitude: '41.919046'
-longitude: '-87.677520'
+latitude: '41.918901'
+longitude: '-87.677338'
 accessibility_options:
   wheelchairAccessibleEntrance: true
   wheelchairAccessibleRestroom: true
@@ -184,6 +182,27 @@ price_range: $50 &ndash; $100
 rating: '4.4'
 rating_count: 0
 website: http://coastsushi.net/coastsushi/default.asp
+description: >-
+  Discover Coast Sushi Bar in Chicago$$$Coast Sushi Bar in Chicago, IL, offers a
+  delightful array of fresh Japanese dishes and creative sushi rolls in a
+  welcoming, contemporary space. This BYOB spot emphasizes high-quality
+  ingredients and a casual vibe, making it an ideal choice for those seeking
+  authentic flavors without the fuss. With accessible features like
+  wheelchair-friendly entrances and seating, it's perfect for a relaxed meal
+  with friends or a quiet evening out. The menu highlights innovative options
+  that cater to sushi enthusiasts, positioning it as a standout option among
+  local Japanese eateries near you.
+generative_summary: >-
+  Discover Coast Sushi Bar in Chicago$$$Coast Sushi Bar in Chicago, IL, offers a
+  delightful array of fresh Japanese dishes and creative sushi rolls in a
+  welcoming, contemporary space. This BYOB spot emphasizes high-quality
+  ingredients and a casual vibe, making it an ideal choice for those seeking
+  authentic flavors without the fuss. With accessible features like
+  wheelchair-friendly entrances and seating, it's perfect for a relaxed meal
+  with friends or a quiet evening out. The menu highlights innovative options
+  that cater to sushi enthusiasts, positioning it as a standout option among
+  local Japanese eateries near you.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJzz1aLOvSD4gRq-BexNb_hV4/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRMmJidVFREAE
@@ -335,6 +354,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURmb3BmT0tREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURmb3BmT0tREAE!2m1!1s0x880fd2eb2c5a3dcf:0x5e85ffd6c45ee0ab
+review_summary: >-
+  What Customers Are Saying$$$Folks often rave about the top-notch quality of
+  the fish and sushi at this neighborhood favorite, with many highlighting the
+  fresh specials and unique flavors that keep things exciting. Visitors
+  appreciate the cozy atmosphere that's great for casual dates or group outings,
+  adding to the overall enjoyable vibe. The staff's helpful recommendations and
+  attention to detail make every visit feel seamless and satisfying. While some
+  note it's worth the trip even from outside the area, the consensus leans
+  toward it being a go-to spot for fresh ingredients and tasty desserts that
+  leave a positive impression. Overall, it's celebrated as one of the best sushi
+  experiences around, encouraging repeat trips for anyone craving reliable,
+  delicious options.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options:
   acceptsCreditCards: true
@@ -364,8 +396,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Cooked Japanese fare & creative sushi rolls served in a lively, contemporary
   setting.
 

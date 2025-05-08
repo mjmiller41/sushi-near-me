@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Little House"
+title: Little House
 permalink: /colorado/johnstown/little-house.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Johnstown
 seo:
-  name: "Little House"
-  type: Restaurant
+  type: restaurant
   links: http://www.littlehouse417.com/
-description: "Little House serves delicious sushi in Johnstown, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJUTd1DbypbocR31BfaG8NTCU
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x876ea9bc0d753751:0x254c0d6f685f50df!10e5
 primary_type: Chinese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 15
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 3:00 – 9:00 PM'
     - 'Tuesday: Closed'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -178,54 +226,436 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:00 PM'
     - 'Saturday: 11:00 AM – 9:00 PM'
     - 'Sunday: 11:00 AM – 9:00 PM'
-  current:
-    - 'Monday: 3:00 – 9:00 PM'
-    - 'Tuesday: Closed'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 9:00 PM'
-    - 'Saturday: 11:00 AM – 9:00 PM'
-    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: false
+    periods:
+      - open:
+          day: 0
+          hour: 19
+          minute: 0
+        close:
+          day: 0
+          hour: 21
+          minute: 0
+      - open:
+          day: 1
+          hour: 18
+          minute: 30
+        close:
+          day: 1
+          hour: 21
+          minute: 0
+      - open:
+          day: 3
+          hour: 18
+          minute: 30
+        close:
+          day: 3
+          hour: 21
+          minute: 0
+      - open:
+          day: 4
+          hour: 18
+          minute: 30
+        close:
+          day: 4
+          hour: 21
+          minute: 0
+      - open:
+          day: 5
+          hour: 19
+          minute: 0
+        close:
+          day: 5
+          hour: 21
+          minute: 30
+      - open:
+          day: 6
+          hour: 19
+          minute: 0
+        close:
+          day: 6
+          hour: 21
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 6:30 – 9:00 PM'
+      - 'Tuesday: Closed'
+      - 'Wednesday: 6:30 – 9:00 PM'
+      - 'Thursday: 6:30 – 9:00 PM'
+      - 'Friday: 7:00 – 9:30 PM'
+      - 'Saturday: 7:00 – 9:30 PM'
+      - 'Sunday: 7:00 – 9:00 PM'
+    secondaryHoursType: DELIVERY
+    nextOpenTime: '2025-05-04T01:00:00Z'
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 11
+          minute: 0
+        close:
+          day: 0
+          hour: 21
+          minute: 0
+      - open:
+          day: 1
+          hour: 15
+          minute: 30
+        close:
+          day: 1
+          hour: 21
+          minute: 0
+      - open:
+          day: 2
+          hour: 11
+          minute: 0
+        close:
+          day: 2
+          hour: 21
+          minute: 0
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 21
+          minute: 0
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 0
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 21
+          minute: 0
+      - open:
+          day: 6
+          hour: 11
+          minute: 0
+        close:
+          day: 6
+          hour: 21
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 3:30 – 9:00 PM'
+      - 'Tuesday: 11:00 AM – 9:00 PM'
+      - 'Wednesday: 11:00 AM – 9:00 PM'
+      - 'Thursday: 11:00 AM – 9:00 PM'
+      - 'Friday: 11:00 AM – 9:00 PM'
+      - 'Saturday: 11:00 AM – 9:00 PM'
+      - 'Sunday: 11:00 AM – 9:00 PM'
+    secondaryHoursType: TAKEOUT
+    nextCloseTime: '2025-05-04T03:00:00Z'
 phone: (970) 806-5862
 price_level: PRICE_LEVEL_INEXPENSIVE
 price_range: $10 &ndash; $20
 rating: '4.3'
-rating_count: 0
+rating_count: 314
 website: http://www.littlehouse417.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Little House in Johnstown, CO$$$Little House in Johnstown, CO, stands
+  out as a casual dining spot offering a blend of fresh Chinese favorites and
+  sushi options that appeal to those seeking flavorful meals nearby. This
+  welcoming restaurant features an array of popular dishes like lo mein and
+  sushi rolls, paired with a selection of beer and wine to enhance the
+  experience. With accessibility in mind, it provides wheelchair-friendly
+  parking, entrances, and seating, making it easy for everyone to enjoy a
+  relaxed meal. The atmosphere is clean and inviting, with ample options for
+  takeout or dine-in, and its affordable price range ensures great value for
+  families and groups exploring Japanese-inspired places in the area.
+generative_summary: >-
+  Discover Little House in Johnstown, CO$$$Little House in Johnstown, CO, stands
+  out as a casual dining spot offering a blend of fresh Chinese favorites and
+  sushi options that appeal to those seeking flavorful meals nearby. This
+  welcoming restaurant features an array of popular dishes like lo mein and
+  sushi rolls, paired with a selection of beer and wine to enhance the
+  experience. With accessibility in mind, it provides wheelchair-friendly
+  parking, entrances, and seating, making it easy for everyone to enjoy a
+  relaxed meal. The atmosphere is clean and inviting, with ample options for
+  takeout or dine-in, and its affordable price range ensures great value for
+  families and groups exploring Japanese-inspired places in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJUTd1DbypbocR31BfaG8NTCU/reviews/ChdDSUhNMG9nS0VJQ0FnTURvdmVHODhnRRAB
+    relativePublishTimeDescription: in the last week
+    rating: 5
+    text:
+      text: >-
+        The food was very good! a surprise:  there will be authentic Chinese
+        food in Johnstown! Huge portions and only half the usual price! The boss
+        is warm and thoughtful!
+      languageCode: en
+    originalText:
+      text: >-
+        The food was very good! a surprise:  there will be authentic Chinese
+        food in Johnstown! Huge portions and only half the usual price! The boss
+        is warm and thoughtful!
+      languageCode: en
+    authorAttribution:
+      displayName: lucy
+      uri: https://www.google.com/maps/contrib/101247902306695427890/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJZWroPzn2HnBJksxXAjmYJskgZEWerwAVV17BPB_-hPO5ttw=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-04-28T01:21:34.374380Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURvdmVHODhnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURvdmVHODhnRRAB!2m1!1s0x876ea9bc0d753751:0x254c0d6f685f50df
+  - name: >-
+      places/ChIJUTd1DbypbocR31BfaG8NTCU/reviews/ChZDSUhNMG9nS0VJQ0FnSUNQbGNla1FREAE
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        This hidden gem in Johnstown CO was a treat to find. The food was very
+        good and as fresh as it gets. Our server was so kind and sweet. Very
+        attentive to all her guests. The owner was also very kind. Bathrooms
+        were very clean, along with the restaurant. There are tables, booths,
+        and a sushi bar in the front. Now, on to the food.
+
+
+        1. Appetizers: rangoon and fried spring rolls. Definitely delicious and
+        flavorful rangoon. Didnt seem to be factory because the ingredients were
+        fresh and the flavor profile was specific, not bland. Spring rolls were
+        good as well. Fresh cut cabbage in them.
+
+
+        2. Entree 1 was their orange beef with fried rice. The fresh orange
+        scent was the first thing I noticed when the food was served. The beef
+        cuts were very tender and fried in a typical asian coating. But, it was
+        hand made, tender, flaky, and easy on the pallette. This dish came with
+        a side of broccoli and orange slices.
+
+
+        3. Entree 2 was their orange chicken. Reason, to compare the beef to the
+        chicken. This dish came with lomein. First lets talk about the lomein.
+        We could order the lomein as a meal its own. It was that tasty. Now, the
+        orange chicken. I am thinking the chicken was cuts of chicken thigh.  A
+        great choice for this dish. Again, the dredged chicken cuts were tender
+        and flaky just like the beef. Both entrees had a perfectly gelled orange
+        sauce with little orange rind shavings in it. A few red pepper flakes to
+        off set the citrus notes. This dish was also served with a side of
+        broccoli and orange slices.
+
+
+        4. Unagi or Eel & cucumber roll: This is a perfect way to test a sushi
+        bar. And, I was impressed by the Unagi. It was well made and presented
+        well on the platter. It tasted as what you would expect for a good Unagi
+        roll.
+
+
+        I do not usually give 5 stars on a first visit to any establishment.
+        But, Little House Chinese and Sushi went above and beyond. If you want
+        fresh hand made Chinese, I highly suggest Little House as your next stop
+        for Chinese food. We drove over 55 miles to try them and we were not
+        disappointed. You will notice we tasted the food before taking photos so
+        my apologies, but it was really that good.
+      languageCode: en
+    originalText:
+      text: >-
+        This hidden gem in Johnstown CO was a treat to find. The food was very
+        good and as fresh as it gets. Our server was so kind and sweet. Very
+        attentive to all her guests. The owner was also very kind. Bathrooms
+        were very clean, along with the restaurant. There are tables, booths,
+        and a sushi bar in the front. Now, on to the food.
+
+
+        1. Appetizers: rangoon and fried spring rolls. Definitely delicious and
+        flavorful rangoon. Didnt seem to be factory because the ingredients were
+        fresh and the flavor profile was specific, not bland. Spring rolls were
+        good as well. Fresh cut cabbage in them.
+
+
+        2. Entree 1 was their orange beef with fried rice. The fresh orange
+        scent was the first thing I noticed when the food was served. The beef
+        cuts were very tender and fried in a typical asian coating. But, it was
+        hand made, tender, flaky, and easy on the pallette. This dish came with
+        a side of broccoli and orange slices.
+
+
+        3. Entree 2 was their orange chicken. Reason, to compare the beef to the
+        chicken. This dish came with lomein. First lets talk about the lomein.
+        We could order the lomein as a meal its own. It was that tasty. Now, the
+        orange chicken. I am thinking the chicken was cuts of chicken thigh.  A
+        great choice for this dish. Again, the dredged chicken cuts were tender
+        and flaky just like the beef. Both entrees had a perfectly gelled orange
+        sauce with little orange rind shavings in it. A few red pepper flakes to
+        off set the citrus notes. This dish was also served with a side of
+        broccoli and orange slices.
+
+
+        4. Unagi or Eel & cucumber roll: This is a perfect way to test a sushi
+        bar. And, I was impressed by the Unagi. It was well made and presented
+        well on the platter. It tasted as what you would expect for a good Unagi
+        roll.
+
+
+        I do not usually give 5 stars on a first visit to any establishment.
+        But, Little House Chinese and Sushi went above and beyond. If you want
+        fresh hand made Chinese, I highly suggest Little House as your next stop
+        for Chinese food. We drove over 55 miles to try them and we were not
+        disappointed. You will notice we tasted the food before taking photos so
+        my apologies, but it was really that good.
+      languageCode: en
+    authorAttribution:
+      displayName: Donald P.
+      uri: https://www.google.com/maps/contrib/105175848129889602771/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLfqoiVrleNLixIf2oQ__NOHprYhT6gMf_f-4KbWttJz8QiKw=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-11-26T14:39:49.456699Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNQbGNla1FREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNQbGNla1FREAE!2m1!1s0x876ea9bc0d753751:0x254c0d6f685f50df
+  - name: >-
+      places/ChIJUTd1DbypbocR31BfaG8NTCU/reviews/ChdDSUhNMG9nS0VJQ0FnSUNYNVozYXFRRRAB
+    relativePublishTimeDescription: 6 months ago
+    rating: 5
+    text:
+      text: >-
+        OMG!!!  Loved the upgrade to the Little House restaurant!!  The service
+        was amazing, the food was delicious and the atmosphere was definitely
+        excellent.  Great little spot to enjoy a night out.
+      languageCode: en
+    originalText:
+      text: >-
+        OMG!!!  Loved the upgrade to the Little House restaurant!!  The service
+        was amazing, the food was delicious and the atmosphere was definitely
+        excellent.  Great little spot to enjoy a night out.
+      languageCode: en
+    authorAttribution:
+      displayName: Belkys Cintron
+      uri: https://www.google.com/maps/contrib/103477664167159017872/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjW3cY7cEDupPINtd20xi6V2hg6l96PF2UDPKoVeg3KVtYpQAlWJ=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-10-18T20:49:31.810472Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNYNVozYXFRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNYNVozYXFRRRAB!2m1!1s0x876ea9bc0d753751:0x254c0d6f685f50df
+  - name: >-
+      places/ChIJUTd1DbypbocR31BfaG8NTCU/reviews/ChdDSUhNMG9nS0VJQ0FnTUNRNElDUnZRRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        Very clean restaurant with elegant details that feel sanitary. The music
+        was soft and pleasant. We were immediately greeted and sat based on our
+        preference. We each ordered different dishes (5 total) with different
+        specifications. Not only did it get delivered without a single mistake,
+        but it came fast and fresh. Our waitress was pleasant and attentive. The
+        sauces were unique to each dish and all delicious. Our plates were
+        continually cleared throughout our meal and our drinks remained full.
+        Such an enjoyable meal.
+      languageCode: en
+    originalText:
+      text: >-
+        Very clean restaurant with elegant details that feel sanitary. The music
+        was soft and pleasant. We were immediately greeted and sat based on our
+        preference. We each ordered different dishes (5 total) with different
+        specifications. Not only did it get delivered without a single mistake,
+        but it came fast and fresh. Our waitress was pleasant and attentive. The
+        sauces were unique to each dish and all delicious. Our plates were
+        continually cleared throughout our meal and our drinks remained full.
+        Such an enjoyable meal.
+      languageCode: en
+    authorAttribution:
+      displayName: Britni Luther
+      uri: https://www.google.com/maps/contrib/105117154509093112329/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXvrbe2j8DitU_ATLZuGeXRNUATPf6cdud0VFLq4GaJRdjlFb8F=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-03-01T04:15:27.658288Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNRNElDUnZRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNRNElDUnZRRRAB!2m1!1s0x876ea9bc0d753751:0x254c0d6f685f50df
+  - name: >-
+      places/ChIJUTd1DbypbocR31BfaG8NTCU/reviews/ChdDSUhNMG9nS0VJQ0FnTUNRcE43MWxnRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        The new owners have made such an awesome improvement . The food is
+        sooooo good. The portions are huge. Sally, Amanda, Wendy, and Elizabeth
+        are all awesome. The service is very fast, the food is hot, and they
+        check on you numerous times to make sure your glass of water is full and
+        you have everything you need. Extremely friendly and personable. They
+        know how to treat customers.  I totally recommend Little House.
+      languageCode: en
+    originalText:
+      text: >-
+        The new owners have made such an awesome improvement . The food is
+        sooooo good. The portions are huge. Sally, Amanda, Wendy, and Elizabeth
+        are all awesome. The service is very fast, the food is hot, and they
+        check on you numerous times to make sure your glass of water is full and
+        you have everything you need. Extremely friendly and personable. They
+        know how to treat customers.  I totally recommend Little House.
+      languageCode: en
+    authorAttribution:
+      displayName: Mike
+      uri: https://www.google.com/maps/contrib/105381287862851658933/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLdbqVAiXB7mebOlOqM6opSJs1HEvtwe7emiuqU36bb8FFGo30=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-03T14:28:33.218113Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNRcE43MWxnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNRcE43MWxnRRAB!2m1!1s0x876ea9bc0d753751:0x254c0d6f685f50df
+review_summary: >-
+  Customer Feedback Highlights$$$Visitors to this spot often rave about the
+  fresh, hearty portions that make it a go-to for satisfying meals without
+  breaking the bank, with many noting the standout sushi and Chinese dishes that
+  keep them coming back. Folks appreciate the quick, friendly service and
+  spotless environment, which add to the overall enjoyable vibe for casual
+  outings or quick bites. While some mention the variety of options that cater
+  to different tastes, the consensus leans toward the authentic flavors and
+  attentive staff that elevate the dining experience. Overall, it's clear that
+  this place delivers solid value and tasty eats, making it a reliable choice
+  for anyone searching for top-rated sushi or Chinese food close by.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: true
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

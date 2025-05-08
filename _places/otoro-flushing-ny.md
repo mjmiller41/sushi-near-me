@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Otoro"
+title: Otoro
 permalink: /new-york/flushing/otoro.html
 stateAbbr: NY
 stateName: New York
 cityName: Flushing
 seo:
-  name: "Otoro"
-  type: Restaurant
+  type: restaurant
   links: https://otoronyc.com/
-description: "Otoro serves delicious sushi in Flushing, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, and dinner."
 place_id: ChIJRzuH785hwokREHerxbm4RsM
 photos:
   - name: >-
@@ -156,7 +154,7 @@ accessibility_options:
   wheelchairAccessibleEntrance: true
   wheelchairAccessibleRestroom: true
   wheelchairAccessibleSeating: true
-business_status: CLOSED_TEMPORARILY
+business_status: OPERATIONAL
 name: Otoro
 google_maps_links:
   directionsUri: >-
@@ -168,7 +166,7 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m4!3m3!1s0x89c261ceef873b47:0xc346b8b9c5ab7710!9m1!1b1
   photosUri: >-
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c261ceef873b47:0xc346b8b9c5ab7710!10e5
-primary_type: Restaurant
+primary_type: Sushi Restaurant
 opening_hours:
   regular: null
   current: null
@@ -185,6 +183,29 @@ price_range: $100 &ndash; & up
 rating: '4.9'
 rating_count: 0
 website: https://otoronyc.com/
+description: >-
+  Discover Otoro Sushi in Flushing, NY$$$Otoro in Flushing, NY, stands out as a
+  top sushi restaurant offering fresh, high-quality dishes that highlight the
+  art of Japanese cuisine. The venue boasts a welcoming atmosphere with sleek
+  design elements and thoughtful accessibility features, making it easy for
+  everyone to enjoy a memorable dining experience. Patrons can savor a variety
+  of expertly prepared sushi options, including omakase-style selections that
+  emphasize premium ingredients and creative flavors. With options for dine-in,
+  takeout, and delivery, it's a convenient spot for those seeking authentic
+  sushi experiences in the area. This establishment also caters to beer and wine
+  enthusiasts, enhancing its appeal as a go-to destination for flavorful meals.
+generative_summary: >-
+  Discover Otoro Sushi in Flushing, NY$$$Otoro in Flushing, NY, stands out as a
+  top sushi restaurant offering fresh, high-quality dishes that highlight the
+  art of Japanese cuisine. The venue boasts a welcoming atmosphere with sleek
+  design elements and thoughtful accessibility features, making it easy for
+  everyone to enjoy a memorable dining experience. Patrons can savor a variety
+  of expertly prepared sushi options, including omakase-style selections that
+  emphasize premium ingredients and creative flavors. With options for dine-in,
+  takeout, and delivery, it's a convenient spot for those seeking authentic
+  sushi experiences in the area. This establishment also caters to beer and wine
+  enthusiasts, enhancing its appeal as a go-to destination for flavorful meals.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJRzuH785hwokREHerxbm4RsM/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJclBTZ2F3EAE
@@ -388,6 +409,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNJOW9DT0F3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNJOW9DT0F3EAE!2m1!1s0x89c261ceef873b47:0xc346b8b9c5ab7710
+review_summary: >-
+  Insights from Recent Reviews$$$Folks are buzzing about Otoro as a standout
+  spot for delicious sushi and creative dishes that keep things fresh and
+  exciting. Many highlight the high-quality ingredients and flavorful options
+  like omakase and specialty rolls, making it a favorite for anyone craving
+  top-rated sushi nearby. While most experiences are seamless with attentive
+  service and a cozy vibe, a few mentions note minor delays that didn't
+  overshadow the overall enjoyment. It's praised for fair pricing and a
+  welcoming environment that encourages repeat visits, positioning it as a solid
+  choice for groups or casual dinners. Overall, the feedback paints a positive
+  picture of a reliable sushi restaurant that delivers on taste and atmosphere
+  without any major drawbacks.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   paidStreetParking: true
@@ -417,7 +451,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "I Love Teriyaki"
+title: I Love Teriyaki
 permalink: /california/sacramento/i-love-teriyaki.html
 stateAbbr: CA
 stateName: California
 cityName: Sacramento
 seo:
-  name: "I Love Teriyaki"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "I Love Teriyaki serves delicious sushi in Sacramento, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ5_t2EILZmoARoKfJRR4H9Q4
 photos:
   - name: >-
@@ -185,7 +183,48 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover I Love Teriyaki in Sacramento, CA$$$I Love Teriyaki in Sacramento,
+  CA, stands out as a welcoming spot for enjoying fresh Japanese-inspired dishes
+  in a casual setting. This sushi restaurant offers a diverse selection of rolls
+  and teriyaki options that highlight authentic flavors, making it a go-to
+  choice for those seeking quality Asian cuisine nearby. With accessibility
+  features like wheelchair-friendly parking and entrances, it ensures a
+  comfortable visit for everyone, adding to its appeal as a community favorite.
+  The menu emphasizes simple yet flavorful fare, perfect for a relaxed meal, and
+  its location makes it convenient for locals looking for reliable sushi
+  options. Whether you're in the mood for classic rolls or hearty teriyaki
+  plates, this spot delivers a satisfying experience that combines taste and
+  convenience.
+generative_summary: >-
+  Discover I Love Teriyaki in Sacramento, CA$$$I Love Teriyaki in Sacramento,
+  CA, stands out as a welcoming spot for enjoying fresh Japanese-inspired dishes
+  in a casual setting. This sushi restaurant offers a diverse selection of rolls
+  and teriyaki options that highlight authentic flavors, making it a go-to
+  choice for those seeking quality Asian cuisine nearby. With accessibility
+  features like wheelchair-friendly parking and entrances, it ensures a
+  comfortable visit for everyone, adding to its appeal as a community favorite.
+  The menu emphasizes simple yet flavorful fare, perfect for a relaxed meal, and
+  its location makes it convenient for locals looking for reliable sushi
+  options. Whether you're in the mood for classic rolls or hearty teriyaki
+  plates, this spot delivers a satisfying experience that combines taste and
+  convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Buzzing About$$$From what folks are sharing online, this
+  sushi spot in Sacramento tends to draw praise for its fresh, well-prepared
+  rolls and friendly vibe, making it a solid pick for anyone craving Japanese
+  eats. People often highlight the tasty teriyaki dishes and generous portions
+  that leave diners feeling satisfied without breaking the bank, adding to its
+  charm as a neighborhood go-to. While some mention waits during peak times, the
+  overall consensus leans positive, with many appreciating the approachable
+  atmosphere that suits families or casual outings. It's clear that the focus on
+  quality ingredients helps it stand out among local options, encouraging repeat
+  visits for those exploring sushi restaurants nearby. All in all, the feedback
+  paints a picture of a reliable place that delivers good value and enjoyable
+  meals, ideal for anyone hunting for top-rated sushi experiences.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +250,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

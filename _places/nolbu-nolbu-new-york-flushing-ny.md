@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Nolbu Nolbu New York"
+title: Nolbu Nolbu New York
 permalink: /new-york/flushing/nolbu-nolbu-new-york.html
 stateAbbr: NY
 stateName: New York
 cityName: Flushing
 seo:
-  name: "Nolbu Nolbu New York"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Understated outlet serving an array of Korean sushi rolls at the counter in a compact, basic space. Nolbu Nolbu New York serves delicious sushi in Flushing, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJCUVccC5gwokRSHsDxyhj_dE
 photos:
   - name: >-
@@ -143,7 +141,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICB4aPXoAE!2e10!4m2!3m1!1s0x89c2602e705c4509:0xd1fd6328c7037b48
 address: 164-25A, 164-25 Northern Blvd, Flushing, NY 11358, USA
-street: 164-25A, 164-25 Northern Blvd
+street: 164-25A,164-25 Northern Blvd
 city: Flushing
 state: NY
 zip: '11358'
@@ -184,6 +182,31 @@ price_range: $10 &ndash; $20
 rating: '4.0'
 rating_count: 0
 website: null
+description: >-
+  Explore Nolbu Nolbu New York in Flushing, NY$$$Nolbu Nolbu New York in
+  Flushing, NY, offers a welcoming spot for enjoying authentic Korean comfort
+  food in a simple, understated setting. This compact eatery specializes in
+  flavorful dishes like kimbap and spicy options, making it a great choice for
+  those seeking sushi-inspired meals with a Korean twist. With its accessible
+  features including wheelchair-friendly entrances and seating, it's designed
+  for a comfortable dining experience that caters to various needs. The menu
+  highlights fresh ingredients and family-style preparations, blending
+  traditional flavors that appeal to anyone exploring top-rated sushi places
+  nearby. Whether you're looking for a quick bite or a satisfying meal, this
+  spot delivers a genuine taste of Korean cuisine in a no-fuss atmosphere.
+generative_summary: >-
+  Explore Nolbu Nolbu New York in Flushing, NY$$$Nolbu Nolbu New York in
+  Flushing, NY, offers a welcoming spot for enjoying authentic Korean comfort
+  food in a simple, understated setting. This compact eatery specializes in
+  flavorful dishes like kimbap and spicy options, making it a great choice for
+  those seeking sushi-inspired meals with a Korean twist. With its accessible
+  features including wheelchair-friendly entrances and seating, it's designed
+  for a comfortable dining experience that caters to various needs. The menu
+  highlights fresh ingredients and family-style preparations, blending
+  traditional flavors that appeal to anyone exploring top-rated sushi places
+  nearby. Whether you're looking for a quick bite or a satisfying meal, this
+  spot delivers a genuine taste of Korean cuisine in a no-fuss atmosphere.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJCUVccC5gwokRSHsDxyhj_dE/reviews/ChZDSUhNMG9nS0VJQ0FnSUNSanYzdE53EAE
@@ -359,6 +382,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUM5bjZiWVFREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUM5bjZiWVFREAE!2m1!1s0x89c2602e705c4509:0xd1fd6328c7037b48
+review_summary: >-
+  Insights from Customer Feedback$$$Visitors often rave about the tasty kimbap
+  varieties and hearty soups, noting how they hit the spot for a casual Korean
+  meal without much fuss. While some folks mention that certain items like the
+  fried chicken could use better balance in portions, the overall flavors and
+  generous portions of veggies keep things enjoyable and satisfying. Feedback
+  highlights friendly service and speedy preparation, making it a solid pick for
+  families or groups grabbing takeout on the go. Even with a few mixed opinions
+  on pricing and extras, many agree that the standout dishes make it worth
+  trying for anyone hunting for reliable sushi restaurants in the area. All in
+  all, it's a welcoming option that delivers good vibes and delicious bites,
+  encouraging repeat visits for those who appreciate honest, comforting eats.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   valetParking: false
 payment_options:
@@ -389,8 +425,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Understated outlet serving an array of Korean sushi rolls at the counter in a
   compact, basic space.
 

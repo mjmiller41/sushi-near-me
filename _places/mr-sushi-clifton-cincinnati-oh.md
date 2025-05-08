@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Mr. Sushi Clifton"
+title: Mr. Sushi Clifton
 permalink: /ohio/cincinnati/mr-sushi-clifton.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Cincinnati
 seo:
-  name: "Mr. Sushi Clifton"
-  type: Restaurant
-  links: null
-description: "Mr. Sushi Clifton serves delicious sushi in Cincinnati, Ohio. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.mrsushiclifton.com/
 place_id: ChIJLWisnPSzQYgRXhkUmEZoLEY
 photos:
   - name: >-
@@ -169,8 +167,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8841b3f49cac682d:0x462c68469814195e!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 2
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 2
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:30 AM – 10:00 PM'
+    - 'Tuesday: 11:30 AM – 10:00 PM'
+    - 'Wednesday: 11:30 AM – 10:00 PM'
+    - 'Thursday: 11:30 AM – 10:00 PM'
+    - 'Friday: 11:30 AM – 2:00 AM'
+    - 'Saturday: 12:00 PM – 2:00 AM'
+    - 'Sunday: 12:00 – 10:00 PM'
+  nextCloseTime: '2025-05-04T06:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -178,13 +241,50 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (513) 475-9800
+price_level: PRICE_LEVEL_INEXPENSIVE
+price_range: $10 &ndash; $20
+rating: '4.3'
+rating_count: 997
+website: http://www.mrsushiclifton.com/
+description: >-
+  Discover Mr. Sushi Clifton in Cincinnati, OH$$$Nestled in the heart of
+  Cincinnati, OH, Mr. Sushi Clifton stands out as a welcoming spot for fresh
+  sushi and Japanese-inspired dining, blending casual vibes with a variety of
+  flavorful options. This sushi restaurant offers a mix of classic rolls,
+  bibimbap, and other Korean influences, making it a go-to choice for those
+  seeking diverse Asian cuisine late into the evening. With its accessible
+  entrance and seating designed for everyone, it's easy to enjoy a relaxed meal
+  in a neighborhood setting that caters to both quick bites and leisurely
+  dinners. Open until late on weekends, it provides a convenient option for
+  sushi lovers exploring the area, ensuring a satisfying experience with
+  affordable pricing and a focus on quality ingredients.
+generative_summary: >-
+  Discover Mr. Sushi Clifton in Cincinnati, OH$$$Nestled in the heart of
+  Cincinnati, OH, Mr. Sushi Clifton stands out as a welcoming spot for fresh
+  sushi and Japanese-inspired dining, blending casual vibes with a variety of
+  flavorful options. This sushi restaurant offers a mix of classic rolls,
+  bibimbap, and other Korean influences, making it a go-to choice for those
+  seeking diverse Asian cuisine late into the evening. With its accessible
+  entrance and seating designed for everyone, it's easy to enjoy a relaxed meal
+  in a neighborhood setting that caters to both quick bites and leisurely
+  dinners. Open until late on weekends, it provides a convenient option for
+  sushi lovers exploring the area, ensuring a satisfying experience with
+  affordable pricing and a focus on quality ingredients.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Buzzing About$$$Visitors often rave about the tasty sushi
+  rolls and great value deals that make this spot a favorite for affordable
+  Japanese dining, with many highlighting the specials as a smart pick for
+  budget-friendly meals. Folks appreciate the quick service and selection of
+  refreshing drinks, adding to the overall enjoyable atmosphere for groups or
+  solo diners. While some note that interactions with staff can vary, the
+  emphasis on fresh flavors and generous portions keeps the energy positive and
+  inviting. Overall, it's a solid choice for anyone craving reliable sushi
+  options nearby, blending speed and taste in a way that leaves most patrons
+  coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +310,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

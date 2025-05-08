@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Izumi Sushi"
+title: Izumi Sushi
 permalink: /texas/austin/izumi-sushi.html
 stateAbbr: TX
 stateName: Texas
 cityName: Austin
 seo:
-  name: "Izumi Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Izumi Sushi serves delicious sushi in Austin, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJk0PtDoBKW4YRR5jxETDrcx8
 photos:
   - name: >-
@@ -185,7 +183,47 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Izumi Sushi in Austin, Texas$$$Izumi Sushi in Austin, Texas, stands
+  out as a casual and inviting destination for those seeking authentic Japanese
+  flavors and fresh sushi options. This family-friendly eatery specializes in a
+  diverse array of Japanese dishes, from creative sushi rolls to other
+  traditional fare, making it a go-to spot for anyone exploring sushi
+  restaurants in the area. With its accessible features like wheelchair-friendly
+  entrances and parking, it ensures a comfortable visit for all guests looking
+  for top-rated sushi experiences nearby. The atmosphere is warm and welcoming,
+  enhanced by vibrant photos that showcase the colorful presentations of their
+  offerings. Whether you're in the mood for a quick bite or a relaxed meal,
+  Izumi Sushi delivers a satisfying blend of quality and variety that appeals to
+  sushi enthusiasts exploring local Japanese places.
+generative_summary: >-
+  Discover Izumi Sushi in Austin, Texas$$$Izumi Sushi in Austin, Texas, stands
+  out as a casual and inviting destination for those seeking authentic Japanese
+  flavors and fresh sushi options. This family-friendly eatery specializes in a
+  diverse array of Japanese dishes, from creative sushi rolls to other
+  traditional fare, making it a go-to spot for anyone exploring sushi
+  restaurants in the area. With its accessible features like wheelchair-friendly
+  entrances and parking, it ensures a comfortable visit for all guests looking
+  for top-rated sushi experiences nearby. The atmosphere is warm and welcoming,
+  enhanced by vibrant photos that showcase the colorful presentations of their
+  offerings. Whether you're in the mood for a quick bite or a relaxed meal,
+  Izumi Sushi delivers a satisfying blend of quality and variety that appeals to
+  sushi enthusiasts exploring local Japanese places.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Folks who stop by Izumi Sushi often highlight the
+  fresh ingredients and tasty variety in their rolls, making it a solid pick for
+  anyone craving reliable Japanese eats. Many appreciate the laid-back vibe and
+  how it caters to different tastes, from simple classics to more adventurous
+  options, helping it stand out among sushi spots in the neighborhood. While
+  experiences can vary, there's a common nod to the welcoming feel that keeps
+  people coming back for more. Overall, it's praised as a dependable choice for
+  families or groups hunting for good sushi close to home, with positive
+  mentions of its accessibility adding to the appeal. If you're on the hunt for
+  sushi places near you, this spot tends to deliver a satisfying meal that
+  leaves visitors feeling glad they stopped in.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +249,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

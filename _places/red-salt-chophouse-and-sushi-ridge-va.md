@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Red Salt Chophouse and Sushi"
+title: Red Salt Chophouse and Sushi
 permalink: /virginia/ridge/red-salt-chophouse-and-sushi.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Ridge
 seo:
-  name: "Red Salt Chophouse and Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.redsaltrva.com/
-description: "Steaks & sushi pair with global wines & unique cocktails at this industrial-chic American chophouse. Red Salt Chophouse and Sushi serves delicious sushi in Ridge, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJOw7Y4gtqsYkR259v59tjrCE
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $50 &ndash; $100
 rating: '4.5'
 rating_count: 0
 website: https://www.redsaltrva.com/
+description: >-
+  Discover Red Salt Chophouse and Sushi in Ridge, Virginia$$$Red Salt Chophouse
+  and Sushi in Ridge, VA, delivers an upscale dining vibe that seamlessly
+  combines premium steaks with creative sushi selections, perfect for those
+  exploring top sushi spots in the area. The venue boasts an industrial-chic
+  atmosphere that enhances the experience with global wines and inventive
+  cocktails, making it ideal for special occasions or casual evenings. Diners
+  can savor a range of fresh seafood dishes alongside classic steakhouse
+  favorites, all crafted with high-quality ingredients for a memorable meal.
+  Accessibility features like wheelchair-friendly parking and entrances add to
+  its appeal, ensuring a welcoming environment for all. Whether you're searching
+  for sushi restaurants near me or Japanese-inspired dining options, this spot
+  stands out as a refined choice in the local scene.
+generative_summary: >-
+  Discover Red Salt Chophouse and Sushi in Ridge, Virginia$$$Red Salt Chophouse
+  and Sushi in Ridge, VA, delivers an upscale dining vibe that seamlessly
+  combines premium steaks with creative sushi selections, perfect for those
+  exploring top sushi spots in the area. The venue boasts an industrial-chic
+  atmosphere that enhances the experience with global wines and inventive
+  cocktails, making it ideal for special occasions or casual evenings. Diners
+  can savor a range of fresh seafood dishes alongside classic steakhouse
+  favorites, all crafted with high-quality ingredients for a memorable meal.
+  Accessibility features like wheelchair-friendly parking and entrances add to
+  its appeal, ensuring a welcoming environment for all. Whether you're searching
+  for sushi restaurants near me or Japanese-inspired dining options, this spot
+  stands out as a refined choice in the local scene.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJOw7Y4gtqsYkR259v59tjrCE/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3NXIyZ2pBRRAB
@@ -368,6 +393,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURfbnItQWVBEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURfbnItQWVBEAE!2m1!1s0x89b16a0be2d80e3b:0x21ac63dbe76f9fdb
+review_summary: >-
+  What Guests Are Saying About the Experience$$$Visitors often praise the
+  standout steaks and creative sushi rolls, noting that dishes like the ribeye
+  and specialty rolls make for a satisfying meal that's worth the visit. While
+  some mention occasional inconsistencies with sushi freshness or service speed,
+  many highlight the delicious sides and overall atmosphere that elevate the
+  dining experience. The bar offerings, including cocktails and mocktails,
+  receive high marks for their quality and variety, adding to the fun for groups
+  or date nights. Despite a few comments on pricing being on the higher side,
+  the general consensus leans positive, with plenty of folks enjoying the fresh
+  flavors and welcoming vibe. If you're hunting for the best sushi near me, this
+  place gets solid nods for its flavorful menu and inviting setting, making it a
+  go-to option for a special outing.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -400,8 +439,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Steaks & sushi pair with global wines & unique cocktails at this
   industrial-chic American chophouse.
 

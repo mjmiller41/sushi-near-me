@@ -5,4 +5,5 @@ permalink: /california/west-covina/
 stateAbbr: CA
 stateName: California
 cityName: West Covina
+
 ---

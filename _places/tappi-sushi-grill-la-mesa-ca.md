@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Tappi Sushi & Grill"
+title: Tappi Sushi & Grill
 permalink: /california/la-mesa/tappi-sushi-grill.html
 stateAbbr: CA
 stateName: California
 cityName: La Mesa
 seo:
-  name: "Tappi Sushi & Grill"
-  type: Restaurant
+  type: restaurant
   links: http://tappisushi.com
-description: "Tappi Sushi & Grill serves delicious sushi in La Mesa, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ45C2Dzxa2YARi0pinfZn32o
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80d95a3c0fb690e3:0x6adf67f69d624a8b!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 10:00 PM'
     - 'Tuesday: 11:00 AM – 10:00 PM'
     - 'Wednesday: 11:00 AM – 10:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:00 PM'
     - 'Saturday: 11:00 AM – 10:00 PM'
     - 'Sunday: 12:00 – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 10:00 PM'
-    - 'Tuesday: 11:00 AM – 10:00 PM'
-    - 'Wednesday: 11:00 AM – 10:00 PM'
-    - 'Thursday: 11:00 AM – 10:00 PM'
-    - 'Friday: 11:00 AM – 10:00 PM'
-    - 'Saturday: 11:00 AM – 10:00 PM'
-    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T05:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,264 @@ phone: (619) 670-5422
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.2'
-rating_count: 0
+rating_count: 313
 website: http://tappisushi.com
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Explore Tappi Sushi & Grill in La Mesa, CA$$$Tappi Sushi & Grill in La Mesa,
+  California, stands out as a welcoming spot for enjoying fresh Japanese
+  cuisine, blending casual vibes with a menu full of flavorful sushi rolls,
+  nigiri, and teriyaki bowls. This sushi restaurant near you offers a relaxed
+  atmosphere perfect for casual dining or quick meals, complemented by options
+  like beer and sake to enhance the experience. Accessibility features make it
+  easy for everyone to enjoy, with wheelchair-friendly parking, entrances, and
+  seating that add to its appeal for families and groups. Whether you're seeking
+  top-rated sushi options in the area, the variety of dishes here ensures
+  something for every palate, all served in a cozy setting that's ideal for
+  unwinding after a day out.
+generative_summary: >-
+  Explore Tappi Sushi & Grill in La Mesa, CA$$$Tappi Sushi & Grill in La Mesa,
+  California, stands out as a welcoming spot for enjoying fresh Japanese
+  cuisine, blending casual vibes with a menu full of flavorful sushi rolls,
+  nigiri, and teriyaki bowls. This sushi restaurant near you offers a relaxed
+  atmosphere perfect for casual dining or quick meals, complemented by options
+  like beer and sake to enhance the experience. Accessibility features make it
+  easy for everyone to enjoy, with wheelchair-friendly parking, entrances, and
+  seating that add to its appeal for families and groups. Whether you're seeking
+  top-rated sushi options in the area, the variety of dishes here ensures
+  something for every palate, all served in a cozy setting that's ideal for
+  unwinding after a day out.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ45C2Dzxa2YARi0pinfZn32o/reviews/ChdDSUhNMG9nS0VJQ0FnTUNRc2M2WWl3RRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Tappi is truly one of the best local restaurants, offering some of the
+        most delicious sushi rolls we’ve ever had. Each roll was crafted with
+        fresh ingredients, bursting with flavor and beautifully presented. What
+        made the experience even more special was the personal touch—the owner
+        took the time to stop by our table, warmly greeting us and making us
+        feel like valued guests. The service was exceptional, with the staff
+        being friendly, and knowledgeable. Tappi is a must-visit spot for anyone
+        who appreciates high-quality sushi and a memorable dining experience.
+      languageCode: en
+    originalText:
+      text: >-
+        Tappi is truly one of the best local restaurants, offering some of the
+        most delicious sushi rolls we’ve ever had. Each roll was crafted with
+        fresh ingredients, bursting with flavor and beautifully presented. What
+        made the experience even more special was the personal touch—the owner
+        took the time to stop by our table, warmly greeting us and making us
+        feel like valued guests. The service was exceptional, with the staff
+        being friendly, and knowledgeable. Tappi is a must-visit spot for anyone
+        who appreciates high-quality sushi and a memorable dining experience.
+      languageCode: en
+    authorAttribution:
+      displayName: Maan Kyeso
+      uri: https://www.google.com/maps/contrib/100492455181690044512/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXYWhPXDk42Wn6Bv7VH4HOtxiAjuYPRC0U_ne8Op2-ClQuYgFS0=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-03-05T05:50:54.464199Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNRc2M2WWl3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNRc2M2WWl3RRAB!2m1!1s0x80d95a3c0fb690e3:0x6adf67f69d624a8b
+  - name: >-
+      places/ChIJ45C2Dzxa2YARi0pinfZn32o/reviews/ChdDSUhNMG9nS0VJQ0FnSURuenRxNHpRRRAB
+    relativePublishTimeDescription: 7 months ago
+    rating: 4
+    text:
+      text: >-
+        Nice place. Cozy inside. Bar, sushi bar, tables. Cocktails. Happy hour.
+        Looks like it's closed from the outside. Chicken Katsu was delicious. I
+        ordered a chicken curry bowl. While tasty, in person the dish wasn't
+        what I'd expected and I still would've ordered it with a modification.
+        The prices were vastly different than in person or on small to go menus.
+        The bowl was online at $10, in reality it was 16.99+tax.  Portion was
+        good size. My to go curry didn't come in a bowl container but a regular
+        styrpphone  square. And because this is not a chunky curry sauce it was
+        a mess in the bag before it even reached my hands. Bc of the diced
+        nature of the small diced potatoes and the shredded carrot this is quite
+        saucy. Think a thin curry stew. A yummy sauce to be sure. Knowing this I
+        would probably ask for a soup container wrapped in plastic for the sauce
+        to go. if I ordered this dine in, I might still ask for either lighter
+        sauce or on the side. They did attempt to keep sauce to one side of the
+        container so half of each katsu slice touched the sauce. I ended up
+        eating it in my car rather than have a soggy mess when I drove. Worth it
+        taste wise. I'd like to come back and try their sushi and sashimi
+      languageCode: en
+    originalText:
+      text: >-
+        Nice place. Cozy inside. Bar, sushi bar, tables. Cocktails. Happy hour.
+        Looks like it's closed from the outside. Chicken Katsu was delicious. I
+        ordered a chicken curry bowl. While tasty, in person the dish wasn't
+        what I'd expected and I still would've ordered it with a modification.
+        The prices were vastly different than in person or on small to go menus.
+        The bowl was online at $10, in reality it was 16.99+tax.  Portion was
+        good size. My to go curry didn't come in a bowl container but a regular
+        styrpphone  square. And because this is not a chunky curry sauce it was
+        a mess in the bag before it even reached my hands. Bc of the diced
+        nature of the small diced potatoes and the shredded carrot this is quite
+        saucy. Think a thin curry stew. A yummy sauce to be sure. Knowing this I
+        would probably ask for a soup container wrapped in plastic for the sauce
+        to go. if I ordered this dine in, I might still ask for either lighter
+        sauce or on the side. They did attempt to keep sauce to one side of the
+        container so half of each katsu slice touched the sauce. I ended up
+        eating it in my car rather than have a soggy mess when I drove. Worth it
+        taste wise. I'd like to come back and try their sushi and sashimi
+      languageCode: en
+    authorAttribution:
+      displayName: Tammy Leatherman
+      uri: https://www.google.com/maps/contrib/115793709419098074650/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIa_zNyC0F6st5pIE9GoQulGMI0u8smSK57IjuibBi6IDJbcg=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-10-05T22:04:13.839840Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURuenRxNHpRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURuenRxNHpRRRAB!2m1!1s0x80d95a3c0fb690e3:0x6adf67f69d624a8b
+  - name: >-
+      places/ChIJ45C2Dzxa2YARi0pinfZn32o/reviews/ChdDSUhNMG9nS0VJQ0FnSUR2OTZXa3p3RRAB
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        Excellent place, wonderful service, good Sushi 👍 Only place open
+        Christmas Eve.
+
+        Thanks everyone for your time and service 💯
+      languageCode: en
+    originalText:
+      text: >-
+        Excellent place, wonderful service, good Sushi 👍 Only place open
+        Christmas Eve.
+
+        Thanks everyone for your time and service 💯
+      languageCode: en
+    authorAttribution:
+      displayName: Mr. Troy
+      uri: https://www.google.com/maps/contrib/113416908225930525534/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXRiDELfEDx7_rg3Vkh5UC0ar6RVxRDkV6O_NBcHkweRrMEXSCt=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2024-12-25T04:42:19.606796Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR2OTZXa3p3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR2OTZXa3p3RRAB!2m1!1s0x80d95a3c0fb690e3:0x6adf67f69d624a8b
+  - name: >-
+      places/ChIJ45C2Dzxa2YARi0pinfZn32o/reviews/ChZDSUhNMG9nS0VJQ0FnSUNRZ3Zla0FnEAE
+    relativePublishTimeDescription: 6 years ago
+    rating: 3
+    text:
+      text: >-
+        Server was friendly and accomodating. Ordered the chef's special sashimi
+        and the salmon was the only thing that tasted and felt good enough. Half
+        shell oysters tasted decent. The jalapeno poppers were amazing but too
+        spicy for my taste. Strawberry martini was good according to my wife.
+        Sin City roll was good and my Padres roll was huge and alright. They
+        have a lot of choices in their menu and it took a bit to choose which
+        one to order. Atmosphere was nice and the inside of the restaurant looks
+        clean. Everything was a nice experience except for majority of the food
+        that we ordered.
+      languageCode: en
+    originalText:
+      text: >-
+        Server was friendly and accomodating. Ordered the chef's special sashimi
+        and the salmon was the only thing that tasted and felt good enough. Half
+        shell oysters tasted decent. The jalapeno poppers were amazing but too
+        spicy for my taste. Strawberry martini was good according to my wife.
+        Sin City roll was good and my Padres roll was huge and alright. They
+        have a lot of choices in their menu and it took a bit to choose which
+        one to order. Atmosphere was nice and the inside of the restaurant looks
+        clean. Everything was a nice experience except for majority of the food
+        that we ordered.
+      languageCode: en
+    authorAttribution:
+      displayName: Cyannie Gen
+      uri: https://www.google.com/maps/contrib/116332490298598649686/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUdd24uukEWm01hUWR29oJD66CAXw1OJhyoFDOAhNDU9rKYDAF_=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2018-06-12T22:11:57.980Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNRZ3Zla0FnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNRZ3Zla0FnEAE!2m1!1s0x80d95a3c0fb690e3:0x6adf67f69d624a8b
+  - name: >-
+      places/ChIJ45C2Dzxa2YARi0pinfZn32o/reviews/ChZDSUhNMG9nS0VJQ0FnSUN1N3R1ak93EAE
+    relativePublishTimeDescription: 2 years ago
+    rating: 4
+    text:
+      text: >-
+        Tappi has a great selection. Many many rolls to chose from and all very
+        tasty from what I've tried. They also have a full bar. I enjoyed the
+        insanity roll and the shrimp poppers. They have plum wine flavored mochi
+        which was excellent.
+      languageCode: en
+    originalText:
+      text: >-
+        Tappi has a great selection. Many many rolls to chose from and all very
+        tasty from what I've tried. They also have a full bar. I enjoyed the
+        insanity roll and the shrimp poppers. They have plum wine flavored mochi
+        which was excellent.
+      languageCode: en
+    authorAttribution:
+      displayName: Danielle M
+      uri: https://www.google.com/maps/contrib/103597519563991908075/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVsoqkNKY8vfvVk8uig3TPLUf1jtERW_fpsDWvpudYbmHkIf8_-=s128-c0x00000000-cc-rp-mo-ba7
+    publishTime: '2022-07-28T22:38:43.370131Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN1N3R1ak93EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN1N3R1ak93EAE!2m1!1s0x80d95a3c0fb690e3:0x6adf67f69d624a8b
+review_summary: >-
+  Insights from Recent Reviews$$$Visitors to Tappi Sushi & Grill often highlight
+  the fresh and tasty sushi rolls as a standout feature, making it a go-to
+  choice for anyone craving reliable Japanese flavors. Many appreciate the
+  friendly service and welcoming vibe, which help create a comfortable spot for
+  both quick lunches and evening outings. While some note minor hiccups like
+  pricing differences or packaging for takeout, the overall experience remains
+  positive with generous portions and a solid selection of dishes that keep
+  folks coming back. The restaurant's ability to stay open for holidays adds to
+  its convenience, earning praise for reliability in the community. All in all,
+  it's a solid pick for sushi enthusiasts looking for honest, enjoyable meals
+  without the fuss.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
 good_for_sports: null
-live_music: null
+live_music: false
 menu_for_children: null
 outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+reservable: true
+restroom: true
+serves_beer: true
 serves_breakfast: null
 serves_brunch: null
-serves_cocktails: null
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

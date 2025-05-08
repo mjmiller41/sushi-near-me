@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Poke Poke Sushi Bowl & Bubble Tea"
+title: Poke Poke Sushi Bowl & Bubble Tea
 permalink: /florida/port-st-lucie/poke-poke-sushi-bowl-bubble-tea.html
 stateAbbr: FL
 stateName: Florida
 cityName: Port St. Lucie
 seo:
-  name: "Poke Poke Sushi Bowl & Bubble Tea"
-  type: Restaurant
+  type: restaurant
   links: http://pokepokesushibowlbubbletea.com/?utm_source=gmb&utm_medium=referral
-description: "Poke Poke Sushi Bowl & Bubble Tea serves delicious sushi in Port St. Lucie, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJW2_kLhPr3ogRZB3-Yp6F8QA
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 0
 website: http://pokepokesushibowlbubbletea.com/?utm_source=gmb&utm_medium=referral
+description: >-
+  Discover Fresh Sushi and Bubble Tea in Port St. Lucie, FL$$$Poke Poke Sushi
+  Bowl & Bubble Tea in Port St. Lucie, Florida, delivers a vibrant and
+  approachable spot for savoring customizable poke bowls and refreshing bubble
+  tea options. The menu emphasizes high-quality, fresh ingredients that add
+  creative flair to classic sushi-inspired dishes, making it ideal for those
+  seeking a personalized meal experience. Visitors enjoy the relaxed atmosphere
+  and variety of choices, from hearty bowls packed with flavors to chilled teas
+  that complement any outing. This spot stands out for its commitment to quality
+  and convenience, perfect for anyone exploring local sushi restaurants or
+  looking for a casual dining escape. Overall, it's a go-to destination for
+  enjoying inventive, satisfying meals in a welcoming setting.
+generative_summary: >-
+  Discover Fresh Sushi and Bubble Tea in Port St. Lucie, FL$$$Poke Poke Sushi
+  Bowl & Bubble Tea in Port St. Lucie, Florida, delivers a vibrant and
+  approachable spot for savoring customizable poke bowls and refreshing bubble
+  tea options. The menu emphasizes high-quality, fresh ingredients that add
+  creative flair to classic sushi-inspired dishes, making it ideal for those
+  seeking a personalized meal experience. Visitors enjoy the relaxed atmosphere
+  and variety of choices, from hearty bowls packed with flavors to chilled teas
+  that complement any outing. This spot stands out for its commitment to quality
+  and convenience, perfect for anyone exploring local sushi restaurants or
+  looking for a casual dining escape. Overall, it's a go-to destination for
+  enjoying inventive, satisfying meals in a welcoming setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJW2_kLhPr3ogRZB3-Yp6F8QA/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfNEw2ZGlRRRAB
@@ -346,6 +369,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNJdHR1TVBnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNJdHR1TVBnEAE!2m1!1s0x88deeb132ee46f5b:0xf1859e62fe1d64
+review_summary: >-
+  What Visitors Think About This Local Sushi Spot$$$Folks often rave about the
+  tasty poke bowls and bubble tea at this spot, highlighting the fresh flavors
+  and creative combinations that make it a favorite for sushi enthusiasts. While
+  many appreciate the overall vibe and variety of options, some note that
+  service can vary, with occasional waits that might not suit everyone in a
+  hurry. Positive feedback frequently mentions the generous portions of fresh
+  ingredients and how it hits the spot for a quick, satisfying meal, encouraging
+  repeat visits for those searching for top-rated sushi nearby. Despite a few
+  mentions of minor inconsistencies like portion sizes or preparation, the
+  general consensus leans toward it being a solid choice for casual diners. In
+  the end, it's a welcoming place that delivers on flavor, making it worth
+  trying for anyone craving quality sushi experiences in the area.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -378,7 +415,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

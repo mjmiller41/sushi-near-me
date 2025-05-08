@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Hana Japanese Eatery"
+title: Hana Japanese Eatery
 permalink: /arizona/phoenix/hana-japanese-eatery.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Phoenix
 seo:
-  name: "Hana Japanese Eatery"
-  type: Restaurant
+  type: restaurant
   links: http://www.hanajapaneseeatery.com/
-description: "Hana Japanese Eatery serves delicious sushi in Phoenix, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJI0Pm7s8SK4cR9W3TGUVRS-M
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x872b12cfeee64323:0xe34b514519d36df5!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 5:00 – 9:00 PM'
     - 'Wednesday: 5:00 – 9:00 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 5:00 – 9:00 PM'
     - 'Saturday: 5:00 – 9:00 PM'
     - 'Sunday: 5:00 – 9:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 5:00 – 9:00 PM'
-    - 'Wednesday: 5:00 – 9:00 PM'
-    - 'Thursday: 5:00 – 9:00 PM'
-    - 'Friday: 5:00 – 9:00 PM'
-    - 'Saturday: 5:00 – 9:00 PM'
-    - 'Sunday: 5:00 – 9:00 PM'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +238,47 @@ phone: (602) 973-1238
 price_level: PRICE_LEVEL_MODERATE
 price_range: $30 &ndash; $50
 rating: '4.5'
-rating_count: 0
+rating_count: 782
 website: http://www.hanajapaneseeatery.com/
+description: >-
+  Discover Hana Japanese Eatery in Phoenix, AZ$$$Hana Japanese Eatery in
+  Phoenix, AZ, delights diners with its authentic Japanese flavors and a
+  welcoming, cozy atmosphere that makes every meal feel special. This sushi
+  restaurant showcases a variety of fresh sushi rolls and traditional cooked
+  dishes, crafted with care to highlight the best of Japanese cuisine. Visitors
+  appreciate the accessible features, including wheelchair-friendly parking and
+  seating, ensuring a comfortable experience for all. The eatery maintains a
+  moderate price range, making it an ideal spot for those seeking quality
+  Japanese places near me without breaking the bank. Whether you're craving
+  top-rated sushi or a relaxed dining setting, this spot stands out for its
+  attention to detail and flavorful offerings.
+generative_summary: >-
+  Discover Hana Japanese Eatery in Phoenix, AZ$$$Hana Japanese Eatery in
+  Phoenix, AZ, delights diners with its authentic Japanese flavors and a
+  welcoming, cozy atmosphere that makes every meal feel special. This sushi
+  restaurant showcases a variety of fresh sushi rolls and traditional cooked
+  dishes, crafted with care to highlight the best of Japanese cuisine. Visitors
+  appreciate the accessible features, including wheelchair-friendly parking and
+  seating, ensuring a comfortable experience for all. The eatery maintains a
+  moderate price range, making it an ideal spot for those seeking quality
+  Japanese places near me without breaking the bank. Whether you're craving
+  top-rated sushi or a relaxed dining setting, this spot stands out for its
+  attention to detail and flavorful offerings.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Customer Feedback$$$Feedback for this sushi spot often
+  highlights the fresh and flavorful dishes that keep patrons coming back for
+  more. Diners frequently mention enjoying the variety of rolls and traditional
+  options, with many appreciating the balanced flavors and generous portions
+  that make meals satisfying. While some note that service can vary depending on
+  the time, the overall vibe is praised for being warm and attentive, adding to
+  the enjoyable experience. Overall, the high ratings suggest it's a reliable
+  choice for anyone searching for sushi restaurants near me, with positive
+  comments on the authenticity and value. If you're exploring best sushi near
+  me, this place earns nods for its solid execution and welcoming environment,
+  though it's wise to check hours as it's not open every day.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +304,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

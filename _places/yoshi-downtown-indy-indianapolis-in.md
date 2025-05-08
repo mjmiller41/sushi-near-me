@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yoshi (Downtown Indy)"
+title: Yoshi (Downtown Indy)
 permalink: /indiana/indianapolis/yoshi-downtown-indy.html
 stateAbbr: IN
 stateName: Indiana
 cityName: Indianapolis
 seo:
-  name: "Yoshi (Downtown Indy)"
-  type: Restaurant
-  links: null
-description: "Yoshi (Downtown Indy) serves delicious sushi in Indianapolis, Indiana. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.yoshiyum.com/
 place_id: ChIJIwLQIXNRa4gRqv_0PYfVA0c
 photos:
   - name: >-
@@ -170,8 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x886b517321d00223:0x4703d5873df4ffaa!10e5
 primary_type: Takeout Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 1
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 1
+        minute: 0
+    - open:
+        day: 3
+        hour: 9
+        minute: 0
+      close:
+        day: 4
+        hour: 1
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 1
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 3
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 3
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 1:00 AM'
+    - 'Tuesday: 11:00 AM – 1:00 AM'
+    - 'Wednesday: 9:00 AM – 1:00 AM'
+    - 'Thursday: 11:00 AM – 1:00 AM'
+    - 'Friday: 11:00 AM – 3:00 AM'
+    - 'Saturday: 5:00 PM – 3:00 AM'
+    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T07:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +234,55 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (317) 220-8605
+price_level: PRICE_LEVEL_INEXPENSIVE
+price_range: $10 &ndash; $20
+rating: '4.0'
+rating_count: 214
+website: http://www.yoshiyum.com/
+description: >-
+  Discover Yoshi in Indianapolis, IN$$$Yoshi in Indianapolis, IN, stands out as
+  a casual dining destination offering a delightful array of fresh sushi rolls,
+  poke bowls, and hibachi plates that appeal to those seeking authentic Japanese
+  flavors in a welcoming setting. This spot is perfect for anyone exploring
+  sushi restaurants nearby, with its accessible entrance and seating making it
+  easy to enjoy a relaxed meal with friends or solo. Complementing the menu are
+  refreshing bubble teas, adding a fun twist to your visit and enhancing the
+  overall experience for those craving top-rated Japanese options close to home.
+  The eatery's convenient location in the heart of the city ensures it's a go-to
+  choice for quick, flavorful bites after a day of exploring. Whether you're in
+  the mood for a light lunch or a satisfying dinner, Yoshi delivers on quality
+  and variety that keeps locals and visitors coming back.
+generative_summary: >-
+  Discover Yoshi in Indianapolis, IN$$$Yoshi in Indianapolis, IN, stands out as
+  a casual dining destination offering a delightful array of fresh sushi rolls,
+  poke bowls, and hibachi plates that appeal to those seeking authentic Japanese
+  flavors in a welcoming setting. This spot is perfect for anyone exploring
+  sushi restaurants nearby, with its accessible entrance and seating making it
+  easy to enjoy a relaxed meal with friends or solo. Complementing the menu are
+  refreshing bubble teas, adding a fun twist to your visit and enhancing the
+  overall experience for those craving top-rated Japanese options close to home.
+  The eatery's convenient location in the heart of the city ensures it's a go-to
+  choice for quick, flavorful bites after a day of exploring. Whether you're in
+  the mood for a light lunch or a satisfying dinner, Yoshi delivers on quality
+  and variety that keeps locals and visitors coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying About Yoshi$$$Folks exploring sushi places near them
+  often highlight the tasty and fresh dishes at this spot, with many
+  appreciating the solid variety of rolls and bowls that hit the spot without
+  breaking the bank. Feedback generally points to a welcoming vibe and efficient
+  service, making it a reliable pick for casual get-togethers or solo dining
+  adventures. While some note that wait times can vary during peak hours, the
+  overall consensus leans positive, praising the flavorful hibachi options and
+  drinks as standout features worth trying. It's clear that patrons enjoy the
+  approachable atmosphere, with comments frequently mentioning how it satisfies
+  cravings for quality Japanese cuisine in a laid-back environment. All in all,
+  if you're on the hunt for dependable sushi restaurants in the area, this place
+  earns its solid reputation through consistent, enjoyable experiences that keep
+  the good vibes flowing.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +308,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

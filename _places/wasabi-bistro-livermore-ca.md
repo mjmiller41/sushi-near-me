@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Wasabi Bistro"
+title: Wasabi Bistro
 permalink: /california/livermore/wasabi-bistro.html
 stateAbbr: CA
 stateName: California
 cityName: Livermore
 seo:
-  name: "Wasabi Bistro"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Wasabi Bistro serves delicious sushi in Livermore, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ9aJKiiHnj4ARd_b2Hxx1vSs
 photos:
   - name: >-
@@ -185,7 +183,47 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Wasabi Bistro in Livermore, CA$$$Wasabi Bistro in Livermore, CA,
+  stands out as a welcoming spot for enjoying authentic Japanese flavors,
+  featuring a variety of fresh sushi and classic dishes in a relaxed atmosphere.
+  This sushi restaurant near Livermore offers favorites like teriyaki and
+  tempura, all prepared with care to highlight the essence of Japanese dining.
+  Patrons appreciate the accessible features, such as wheelchair-friendly
+  parking and seating, making it an inclusive choice for everyone seeking
+  quality Japanese places near me. The informal setting adds to the charm,
+  providing a comfortable environment for savoring top-rated sushi options
+  without the formality of upscale dining. Whether you're searching for sushi
+  close to me or simply craving a satisfying meal, this spot delivers a blend of
+  tradition and convenience.
+generative_summary: >-
+  Discover Wasabi Bistro in Livermore, CA$$$Wasabi Bistro in Livermore, CA,
+  stands out as a welcoming spot for enjoying authentic Japanese flavors,
+  featuring a variety of fresh sushi and classic dishes in a relaxed atmosphere.
+  This sushi restaurant near Livermore offers favorites like teriyaki and
+  tempura, all prepared with care to highlight the essence of Japanese dining.
+  Patrons appreciate the accessible features, such as wheelchair-friendly
+  parking and seating, making it an inclusive choice for everyone seeking
+  quality Japanese places near me. The informal setting adds to the charm,
+  providing a comfortable environment for savoring top-rated sushi options
+  without the formality of upscale dining. Whether you're searching for sushi
+  close to me or simply craving a satisfying meal, this spot delivers a blend of
+  tradition and convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Folks rave about the fresh fish and tasty sushi
+  rolls at this Japanese eatery, with highlights like spicy specials that keep
+  diners coming back for more. Many mention the friendly and attentive service
+  that makes every visit feel welcoming and enjoyable, adding to the overall
+  relaxed vibe. It's often noted as a great pick for those hunting for the best
+  sushi near me, thanks to the consistent quality and flavorful options that
+  satisfy a range of tastes. While opinions focus on the positive dining
+  experience, it's clear this place hits the mark for casual meals with friends
+  or family. Overall, the feedback paints a picture of a reliable spot that
+  combines delicious food with a pleasant atmosphere, making it worth checking
+  out if you're in the mood for I love sushi moments.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +249,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

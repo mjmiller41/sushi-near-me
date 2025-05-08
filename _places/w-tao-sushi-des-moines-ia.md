@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "W-Tao Sushi"
+title: W-Tao Sushi
 permalink: /iowa/des-moines/w-tao-sushi.html
 stateAbbr: IA
 stateName: Iowa
 cityName: Des Moines
 seo:
-  name: "W-Tao Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.w-taosushi.com/
-description: "Sushi, hot Japanese fare & cocktails served in a sleek, dark space with traditional decor touches. W-Tao Sushi serves delicious sushi in Des Moines, Iowa. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJSxqSXACZ7ocRxoUG0zoY6gE
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: null
 rating: '4.6'
 rating_count: 0
 website: https://www.w-taosushi.com/
+description: >-
+  Discover W-Tao Sushi in Des Moines, IA$$$W-Tao Sushi in Des Moines, IA, stands
+  out as a go-to spot for authentic Japanese flavors, blending fresh sushi with
+  an array of cooked dishes and beverage options. This inviting restaurant
+  features a sleek, dimly lit atmosphere accented by traditional decor, making
+  it ideal for casual dinners or group outings seeking top sushi experiences.
+  Guests can savor a diverse menu that includes expertly prepared rolls and hot
+  fare, complemented by selections of sake, wine, and beer to enhance every
+  meal. Accessibility options like wheelchair-friendly entrances and seating
+  ensure a welcoming visit for all, adding to its appeal as a reliable choice
+  among sushi restaurants in the area. Whether you're exploring Japanese places
+  near you, W-Tao delivers a refined yet approachable dining vibe that
+  highlights quality ingredients and thoughtful presentation.
+generative_summary: >-
+  Discover W-Tao Sushi in Des Moines, IA$$$W-Tao Sushi in Des Moines, IA, stands
+  out as a go-to spot for authentic Japanese flavors, blending fresh sushi with
+  an array of cooked dishes and beverage options. This inviting restaurant
+  features a sleek, dimly lit atmosphere accented by traditional decor, making
+  it ideal for casual dinners or group outings seeking top sushi experiences.
+  Guests can savor a diverse menu that includes expertly prepared rolls and hot
+  fare, complemented by selections of sake, wine, and beer to enhance every
+  meal. Accessibility options like wheelchair-friendly entrances and seating
+  ensure a welcoming visit for all, adding to its appeal as a reliable choice
+  among sushi restaurants in the area. Whether you're exploring Japanese places
+  near you, W-Tao delivers a refined yet approachable dining vibe that
+  highlights quality ingredients and thoughtful presentation.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJSxqSXACZ7ocRxoUG0zoY6gE/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRMFlYM0RREAE
@@ -332,6 +357,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURMNXBUcF93RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURMNXBUcF93RRAB!2m1!1s0x87ee99005c921a4b:0x1ea183ad30685c6
+review_summary: >-
+  What Visitors Are Saying About This Sushi Spot$$$Folks often rave about the
+  generous portions of sushi rolls at this Des Moines favorite, noting how
+  they're flavorful and more substantial than typical bites, leaving diners
+  feeling fully satisfied. Many highlight the tasty hot dishes and creative
+  cocktails that pair perfectly with the meal, creating a cozy and upbeat
+  atmosphere for enjoying Japanese cuisine. While a few mention minor hassles
+  like downtown parking, the friendly service and overall vibe keep the
+  experience positive and worth the visit. Reviewers appreciate the variety of
+  options that cater to different tastes, making it a solid pick for groups or
+  anyone craving reliable sushi close to home. If you're on the hunt for best
+  sushi near you, this place earns high marks for its delicious offerings and
+  welcoming vibe, based on the enthusiastic feedback from regular patrons.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidStreetParking: true
   valetParking: false
@@ -364,8 +403,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Sushi, hot Japanese fare & cocktails served in a sleek, dark space with
   traditional decor touches.
 

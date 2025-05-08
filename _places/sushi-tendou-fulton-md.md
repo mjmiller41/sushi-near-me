@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Tendou"
+title: Sushi Tendou
 permalink: /maryland/fulton/sushi-tendou.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Fulton
 seo:
-  name: "Sushi Tendou"
-  type: Restaurant
+  type: restaurant
   links: http://www.ezordernow.com/sushitendou
-description: "Sushi & other Japanese dishes such as teriyaki served in a casual eatery with contemporary decor. Sushi Tendou serves delicious sushi in Fulton, Maryland. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJIZ-HggXct4kR6Zfuu-exvIM
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 0
 website: http://www.ezordernow.com/sushitendou
+description: >-
+  Experience Sushi Tendou in Fulton, MD$$$Sushi Tendou in Fulton, Maryland,
+  stands out as a welcoming spot for enjoying fresh Japanese cuisine, blending
+  casual vibes with a menu that highlights expertly crafted sushi and savory
+  cooked dishes. This eatery boasts a cozy atmosphere with contemporary decor
+  that makes it ideal for a relaxed meal, whether you're craving classic rolls
+  or hearty teriyaki options. Accessibility features like wheelchair-friendly
+  parking and seating add to its appeal for all visitors, ensuring everyone can
+  savor the experience. As one of the go-to sushi restaurants in the area, it
+  offers moderate pricing that fits well for locals searching for quality
+  Japanese places near them, making it a solid choice for a satisfying dining
+  outing.
+generative_summary: >-
+  Experience Sushi Tendou in Fulton, MD$$$Sushi Tendou in Fulton, Maryland,
+  stands out as a welcoming spot for enjoying fresh Japanese cuisine, blending
+  casual vibes with a menu that highlights expertly crafted sushi and savory
+  cooked dishes. This eatery boasts a cozy atmosphere with contemporary decor
+  that makes it ideal for a relaxed meal, whether you're craving classic rolls
+  or hearty teriyaki options. Accessibility features like wheelchair-friendly
+  parking and seating add to its appeal for all visitors, ensuring everyone can
+  savor the experience. As one of the go-to sushi restaurants in the area, it
+  offers moderate pricing that fits well for locals searching for quality
+  Japanese places near them, making it a solid choice for a satisfying dining
+  outing.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJIZ-HggXct4kR6Zfuu-exvIM/reviews/ChdDSUhNMG9nS0VJQ0FnSUR2NHE3RzlBRRAB
@@ -320,6 +343,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURYOFpEV0RREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURYOFpEV0RREAE!2m1!1s0x89b7dc0582879f21:0x83bcb1e7bbee97e9
+review_summary: >-
+  What Guests Are Saying About This Sushi Spot$$$Visitors often praise the fresh
+  and flavorful sushi at this local favorite, noting how it hits the spot for a
+  quick or leisurely meal. Many highlight the great value, with meals coming in
+  at a reasonable price and sometimes including extras like bonus rolls for
+  takeout orders. The service stands out as friendly and efficient, creating a
+  welcoming environment that keeps people coming back for more. Overall, folks
+  appreciate the variety of options, from hand rolls to sashimi, making it a
+  reliable pick for anyone exploring top-rated sushi near them. While opinions
+  are mostly positive, it's clear this place delivers a solid experience that
+  balances taste, atmosphere, and convenience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -352,8 +387,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Sushi & other Japanese dishes such as teriyaki served in a casual eatery with
   contemporary decor.
 

@@ -5,4 +5,5 @@ permalink: /illinois/roscoe/
 stateAbbr: IL
 stateName: Illinois
 cityName: Roscoe
+
 ---

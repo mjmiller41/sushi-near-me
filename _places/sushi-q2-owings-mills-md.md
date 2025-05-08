@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Q2"
+title: Sushi Q2
 permalink: /maryland/owings-mills/sushi-q2.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Owings Mills
 seo:
-  name: "Sushi Q2"
-  type: Restaurant
-  links: null
-description: "Sushi Q2 serves delicious sushi in Owings Mills, Maryland. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.sushiqq.com/
 place_id: ChIJa4V1hMgXyIkRDbetArWIexI
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c817c88475856b:0x127b88b502adb70d!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 10:00 PM'
+    - 'Tuesday: 11:00 AM – 10:00 PM'
+    - 'Wednesday: 11:00 AM – 10:00 PM'
+    - 'Thursday: 11:00 AM – 10:00 PM'
+    - 'Friday: 11:00 AM – 10:00 PM'
+    - 'Saturday: 11:00 AM – 10:00 PM'
+    - 'Sunday: 12:00 – 10:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,44 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (410) 363-1878
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.5'
+rating_count: 839
+website: http://www.sushiqq.com/
+description: >-
+  Discover Sushi Q2 in Owings Mills, MD$$$Sushi Q2 in Owings Mills, MD, is a
+  laid-back spot that specializes in fresh sushi and hibachi dishes, appealing
+  to those seeking flavorful Japanese cuisine in a welcoming atmosphere. This
+  eatery highlights a range of creative rolls and appetizers, making it a go-to
+  choice for sushi lovers exploring options nearby. With extended hours from
+  late morning to evening, it's conveniently accessible for quick lunches or
+  relaxed dinners, adding to its appeal as a reliable local favorite. The focus
+  on inclusive features ensures a comfortable visit for all, enhancing the
+  overall dining experience.
+generative_summary: >-
+  Discover Sushi Q2 in Owings Mills, MD$$$Sushi Q2 in Owings Mills, MD, is a
+  laid-back spot that specializes in fresh sushi and hibachi dishes, appealing
+  to those seeking flavorful Japanese cuisine in a welcoming atmosphere. This
+  eatery highlights a range of creative rolls and appetizers, making it a go-to
+  choice for sushi lovers exploring options nearby. With extended hours from
+  late morning to evening, it's conveniently accessible for quick lunches or
+  relaxed dinners, adding to its appeal as a reliable local favorite. The focus
+  on inclusive features ensures a comfortable visit for all, enhancing the
+  overall dining experience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Folks who stop by Sushi Q2 often rave about the
+  tasty sushi rolls and sides like fried rice and a hearty hangover soup, noting
+  how they deliver a satisfying mix of flavors. Service here stands out for
+  being friendly and efficient, helping to create a pleasant vibe that keeps
+  diners coming back. Many appreciate the speedy preparation, which makes it
+  easy for a casual meal on the run without any hassle. Overall, the reasonable
+  pricing offers solid value, making it a smart pick for anyone hunting for
+  quality Japanese eats that don't break the bank.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +305,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

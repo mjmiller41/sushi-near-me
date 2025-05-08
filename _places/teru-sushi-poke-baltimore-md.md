@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Teru Sushi & Poke"
+title: Teru Sushi & Poke
 permalink: /maryland/baltimore/teru-sushi-poke.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Baltimore
 seo:
-  name: "Teru Sushi & Poke"
-  type: Restaurant
+  type: restaurant
   links: https://www.teru-sushi.com/
-description: "Teru Sushi & Poke serves delicious sushi in Baltimore, Maryland. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJyd1sz4sFyIkRpIEV24MjC6k
 photos:
   - name: >-
@@ -143,7 +141,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADydmY9iNXCWecDpkAClLo!2e10!4m2!3m1!1s0x89c8058bcf6cddc9:0xa90b2383db1581a4
 address: Lexington Market, 112 N Eutaw St Stall 41, Baltimore, MD 21201, USA
-street: Lexington Market, 112 N Eutaw St Stall 41
+street: Lexington Market,112 N Eutaw St Stall 41
 city: Baltimore
 state: MD
 zip: '21201'
@@ -183,6 +181,31 @@ price_range: $10 &ndash; $20
 rating: '5.0'
 rating_count: 0
 website: https://www.teru-sushi.com/
+description: >-
+  Discover Teru Sushi & Poke in Baltimore, MD$$$Teru Sushi & Poke in Baltimore,
+  MD, stands out as a welcoming spot for enjoying fresh sushi and poke bowls
+  amidst the bustling Lexington Market. This takeout restaurant delights with
+  its generous portions of high-quality seafood, making it a go-to choice for
+  those seeking sushi options in the area. The menu features a variety of
+  creative dishes that highlight vibrant flavors and fresh ingredients, perfect
+  for a quick meal or dine-in experience. Accessibility features like
+  wheelchair-friendly entrances add to its appeal, ensuring everyone can savor
+  the offerings. Whether you're exploring sushi restaurants near you or craving
+  a satisfying poke bowl, this location combines convenience with authentic
+  tastes in a lively setting.
+generative_summary: >-
+  Discover Teru Sushi & Poke in Baltimore, MD$$$Teru Sushi & Poke in Baltimore,
+  MD, stands out as a welcoming spot for enjoying fresh sushi and poke bowls
+  amidst the bustling Lexington Market. This takeout restaurant delights with
+  its generous portions of high-quality seafood, making it a go-to choice for
+  those seeking sushi options in the area. The menu features a variety of
+  creative dishes that highlight vibrant flavors and fresh ingredients, perfect
+  for a quick meal or dine-in experience. Accessibility features like
+  wheelchair-friendly entrances add to its appeal, ensuring everyone can savor
+  the offerings. Whether you're exploring sushi restaurants near you or craving
+  a satisfying poke bowl, this location combines convenience with authentic
+  tastes in a lively setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJyd1sz4sFyIkRpIEV24MjC6k/reviews/ChdDSUhNMG9nS0VJQ0FnTURnN2NESmp3RRAB
@@ -366,6 +389,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURmMWR5ZjV3RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURmMWR5ZjV3RRAB!2m1!1s0x89c8058bcf6cddc9:0xa90b2383db1581a4
+review_summary: >-
+  Customer Feedback Highlights$$$Folks who've tried Teru Sushi & Poke often rave
+  about the fresh, flavorful dishes that make it a standout pick for sushi
+  lovers in the neighborhood. Many appreciate the generous portions and creative
+  takes on classics like poke bowls and rolls, which leave you feeling fully
+  satisfied without breaking the bank. Service stands out as quick and friendly,
+  with meals arriving promptly even in a busy market vibe, adding to the overall
+  enjoyable experience. While some mention unique twists on traditional sushi
+  that might surprise purists, the consensus leans toward it being a reliable
+  spot for tasty, well-prepared options. If you're hunting for the best sushi
+  near you, this place consistently delivers a positive vibe that keeps
+  customers coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidStreetParking: true
   valetParking: false
@@ -398,7 +434,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

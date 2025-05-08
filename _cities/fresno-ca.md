@@ -5,4 +5,5 @@ permalink: /california/fresno/
 stateAbbr: CA
 stateName: California
 cityName: Fresno
+
 ---

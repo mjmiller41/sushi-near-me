@@ -5,4 +5,5 @@ permalink: /new-jersey/colonia/
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Colonia
+
 ---

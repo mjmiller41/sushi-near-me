@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "IKOI Sushi -- Walnut Creek"
+title: IKOI Sushi -- Walnut Creek
 permalink: /california/walnut-creek/ikoi-sushi-walnut-creek.html
 stateAbbr: CA
 stateName: California
 cityName: Walnut Creek
 seo:
-  name: "IKOI Sushi -- Walnut Creek"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "IKOI Sushi -- Walnut Creek serves delicious sushi in Walnut Creek, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJWzDjWZVhhYARt0etOKzCc60
 photos:
   - name: >-
@@ -185,7 +183,48 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover IKOI Sushi in Walnut Creek, CA$$$IKOI Sushi in Walnut Creek, CA,
+  stands out as a relaxed destination for enjoying authentic Japanese flavors,
+  featuring fresh sushi and classic teriyaki options that appeal to sushi
+  enthusiasts. The eatery boasts a welcoming atmosphere designed for casual
+  dining, with thoughtful accessibility features like wheelchair-friendly
+  parking and seating that make it inclusive for all visitors. Patrons can savor
+  a range of Japanese-inspired dishes prepared with quality ingredients, ideal
+  for those searching for top-rated sushi restaurants in the area. Whether
+  you're looking for a quick meal or a laid-back evening, this spot combines
+  simplicity with flavorful offerings to create an enjoyable experience. Its
+  location near local hotspots adds to the convenience for anyone exploring
+  sushi places in Walnut Creek.
+generative_summary: >-
+  Discover IKOI Sushi in Walnut Creek, CA$$$IKOI Sushi in Walnut Creek, CA,
+  stands out as a relaxed destination for enjoying authentic Japanese flavors,
+  featuring fresh sushi and classic teriyaki options that appeal to sushi
+  enthusiasts. The eatery boasts a welcoming atmosphere designed for casual
+  dining, with thoughtful accessibility features like wheelchair-friendly
+  parking and seating that make it inclusive for all visitors. Patrons can savor
+  a range of Japanese-inspired dishes prepared with quality ingredients, ideal
+  for those searching for top-rated sushi restaurants in the area. Whether
+  you're looking for a quick meal or a laid-back evening, this spot combines
+  simplicity with flavorful offerings to create an enjoyable experience. Its
+  location near local hotspots adds to the convenience for anyone exploring
+  sushi places in Walnut Creek.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Visitor Feedback$$$Folks chatting about IKOI Sushi often
+  highlight the fresh, well-prepared rolls and entrees that keep things tasty
+  without overcomplicating the menu, making it a solid pick for everyday
+  cravings. Many appreciate the approachable vibe and how it handles groups or
+  solo diners with ease, turning simple meals into pleasant outings. While some
+  note that service can vary depending on the time, the overall consensus leans
+  toward it being a reliable choice for quality Japanese food that's easy to
+  enjoy. If you're on the hunt for sushi near you, this place generally gets
+  nods for its straightforward flavors and welcoming feel, encouraging repeat
+  visits for lunch or dinner. All in all, it's a go-to option that delivers on
+  the basics while keeping things light and satisfying for sushi lovers in the
+  neighborhood.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +250,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

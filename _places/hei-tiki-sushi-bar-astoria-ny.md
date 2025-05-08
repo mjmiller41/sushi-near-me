@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Hei Tiki & Sushi Bar"
+title: Hei Tiki & Sushi Bar
 permalink: /new-york/astoria/hei-tiki-sushi-bar.html
 stateAbbr: NY
 stateName: New York
 cityName: Astoria
 seo:
-  name: "Hei Tiki & Sushi Bar"
-  type: Restaurant
+  type: restaurant
   links: https://www.instagram.com/heitikinyc?igsh=aWludmhtdTFueHM=
-description: "Hei Tiki & Sushi Bar serves delicious sushi in Astoria, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJIRF9O0hfwokRnhQGHXWCinE
 photos:
   - name: >-
@@ -166,7 +164,7 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m4!3m3!1s0x89c25f483b7d1121:0x718a82751d06149e!9m1!1b1
   photosUri: >-
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c25f483b7d1121:0x718a82751d06149e!10e5
-primary_type: Sushi Restaurant
+primary_type: Restaurant
 opening_hours:
   regular: null
   current: null
@@ -183,6 +181,31 @@ price_range: $30 &ndash; $50
 rating: '4.6'
 rating_count: 0
 website: https://www.instagram.com/heitikinyc?igsh=aWludmhtdTFueHM=
+description: >-
+  Discover Hei Tiki & Sushi Bar in Astoria, NY$$$Hei Tiki & Sushi Bar in
+  Astoria, New York, stands out as a relaxed spot blending fresh sushi options
+  with a fun tiki bar vibe, making it a go-to for those seeking flavorful
+  Japanese-inspired dishes in a lively setting. This casual restaurant features
+  creative offerings like sushi tacos and bold flavors such as spicy tuna,
+  paired with inventive cocktails that enhance the tropical atmosphere. Visitors
+  appreciate the accessible entrance and seating, ensuring a welcoming
+  experience for all, while the moderate pricing adds to its appeal for everyday
+  sushi enthusiasts. Whether you're exploring sushi places near me or looking
+  for a taste of island-inspired dining, this location delivers a memorable mix
+  of quality ingredients and laid-back charm that keeps locals coming back.
+generative_summary: >-
+  Discover Hei Tiki & Sushi Bar in Astoria, NY$$$Hei Tiki & Sushi Bar in
+  Astoria, New York, stands out as a relaxed spot blending fresh sushi options
+  with a fun tiki bar vibe, making it a go-to for those seeking flavorful
+  Japanese-inspired dishes in a lively setting. This casual restaurant features
+  creative offerings like sushi tacos and bold flavors such as spicy tuna,
+  paired with inventive cocktails that enhance the tropical atmosphere. Visitors
+  appreciate the accessible entrance and seating, ensuring a welcoming
+  experience for all, while the moderate pricing adds to its appeal for everyday
+  sushi enthusiasts. Whether you're exploring sushi places near me or looking
+  for a taste of island-inspired dining, this location delivers a memorable mix
+  of quality ingredients and laid-back charm that keeps locals coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJIRF9O0hfwokRnhQGHXWCinE/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRdDd2WEFnEAE
@@ -358,6 +381,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURJbXRLeWZREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJbXRLeWZREAE!2m1!1s0x89c25f483b7d1121:0x718a82751d06149e
+review_summary: >-
+  What Customers Are Buzzing About$$$Folks visiting this sushi spot often rave
+  about the fresh, high-quality dishes that make every meal feel like a treat,
+  with standout mentions of tasty rolls and creative drinks that hit the spot.
+  Many highlight the friendly service and fun atmosphere, perfect for casual
+  hangouts or date nights, adding to the overall enjoyable vibe that keeps the
+  energy positive. While one or two notes pointed out minor inconsistencies like
+  overly sweet cocktails, the general consensus leans toward it being a reliable
+  choice for delicious seafood and strong flavors that satisfy cravings. If
+  you're on the hunt for top-rated sushi near me, this place delivers a solid
+  experience with generous portions and a welcoming feel that encourages repeat
+  visits. All in all, it's a hidden gem worth trying for anyone in the mood for
+  authentic Japanese flavors in a relaxed environment.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: false
   paidParkingLot: false
@@ -394,7 +431,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -5,4 +5,5 @@ permalink: /idaho/pocatello/
 stateAbbr: ID
 stateName: Idaho
 cityName: Pocatello
+
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Miyabiya Sushi & Grill"
+title: Miyabiya Sushi & Grill
 permalink: /california/san-francisco/miyabiya-sushi-grill.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
 seo:
-  name: "Miyabiya Sushi & Grill"
-  type: Restaurant
+  type: restaurant
   links: http://www.miyabiyasf.com/
-description: "Contemporary Japanse restaurant serving sushi, sashimi, and nigiri, plus teriyaki and yakitori. Miyabiya Sushi & Grill serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ6VfSbo-AhYAR9UO_OvUIaw8
 photos:
   - name: >-
@@ -182,6 +180,29 @@ price_range: $30 &ndash; $50
 rating: '4.0'
 rating_count: 0
 website: http://www.miyabiyasf.com/
+description: >-
+  Discover Miyabiya Sushi & Grill in San Francisco, CA$$$Miyabiya Sushi & Grill
+  in San Francisco, CA, stands out as a welcoming spot for enjoying fresh
+  Japanese cuisine in a relaxed environment. This sushi restaurant offers a
+  variety of authentic dishes, including expertly prepared sushi rolls, sashimi,
+  and flavorful small plates like teriyaki and yakitori, making it a go-to
+  choice for those seeking sushi places near me. The casual setting enhances the
+  dining experience, with options for outdoor seating that add to its charm in
+  the bustling Union Square area. Diners can savor high-quality ingredients and
+  a menu that balances traditional flavors with approachable options, ideal for
+  anyone exploring top-rated sushi in the city.
+generative_summary: >-
+  Discover Miyabiya Sushi & Grill in San Francisco, CA$$$Miyabiya Sushi & Grill
+  in San Francisco, CA, stands out as a welcoming spot for enjoying fresh
+  Japanese cuisine in a relaxed environment. This sushi restaurant offers a
+  variety of authentic dishes, including expertly prepared sushi rolls, sashimi,
+  and flavorful small plates like teriyaki and yakitori, making it a go-to
+  choice for those seeking sushi places near me. The casual setting enhances the
+  dining experience, with options for outdoor seating that add to its charm in
+  the bustling Union Square area. Diners can savor high-quality ingredients and
+  a menu that balances traditional flavors with approachable options, ideal for
+  anyone exploring top-rated sushi in the city.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ6VfSbo-AhYAR9UO_OvUIaw8/reviews/ChdDSUhNMG9nS0VJQ0FnSUR6MHR6MXhRRRAB
@@ -385,6 +406,17 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUMtaE5tRGVBEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUMtaE5tRGVBEAE!2m1!1s0x8085808f6ed257e9:0xf6b08f53abf43f5
+review_summary: >-
+  What Visitors Are Saying About This Spot$$$Visitors often highlight the fresh
+  and delicious sushi along with tasty Japanese specials that make for a
+  satisfying meal at this local favorite. While some note that service can be a
+  bit slow during busy times, many appreciate the friendly atmosphere and good
+  value on lunch options that keep things enjoyable. Overall, folks enjoy the
+  variety of dishes, with positives outweighing occasional hiccups like dated
+  decor, creating a generally pleasant experience. If you're in the mood for
+  reliable sushi restaurants near me, this place delivers solid flavors that
+  leave most people pleased with their visit.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   valetParking: false
 payment_options:
@@ -414,8 +446,8 @@ serves_lunch: true
 serves_vegetarian_food: false
 serves_wine: null
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Contemporary Japanse restaurant serving sushi, sashimi, and nigiri, plus
   teriyaki and yakitori.
 

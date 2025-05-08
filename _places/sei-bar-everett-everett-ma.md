@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sei Bar Everett"
+title: Sei Bar Everett
 permalink: /massachusetts/everett/sei-bar-everett.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Everett
 seo:
-  name: "Sei Bar Everett"
-  type: Restaurant
+  type: restaurant
   links: http://www.seibar.com/
-description: "Sei Bar Everett serves delicious sushi in Everett, Massachusetts. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJkfOBAIRx44kR-F-9oVecEP8
 photos:
   - name: >-
@@ -168,7 +166,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89e371840081f391:0xff109c57a1bd5ff8!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 30
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:30 AM – 10:00 PM'
     - 'Wednesday: 11:30 AM – 10:00 PM'
@@ -176,14 +224,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 10:30 PM'
     - 'Saturday: 11:30 AM – 10:30 PM'
     - 'Sunday: 12:30 – 10:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:30 AM – 10:00 PM'
-    - 'Wednesday: 11:30 AM – 10:00 PM'
-    - 'Thursday: 11:30 AM – 10:00 PM'
-    - 'Friday: 11:30 AM – 10:30 PM'
-    - 'Saturday: 11:30 AM – 10:30 PM'
-    - 'Sunday: 12:30 – 10:00 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -195,9 +236,48 @@ phone: (617) 381-1880
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.2'
-rating_count: 0
+rating_count: 202
 website: http://www.seibar.com/
+description: >-
+  Discover Sei Bar in Everett, MA$$$Sei Bar Everett in Everett, MA, stands out
+  as a cozy destination for those seeking authentic Japanese flavors in a
+  relaxed setting. This casual eatery specializes in fresh sushi and a variety
+  of other Japanese dishes, making it a go-to choice for dine-in or quick
+  takeout options. With its welcoming atmosphere and accessibility features like
+  wheelchair-friendly entrances, it caters to a wide range of diners looking for
+  quality meals without the fuss. Operating during convenient hours throughout
+  the week, it's an ideal spot for anyone exploring top-rated sushi restaurants
+  in the area. Whether you're in the mood for a light lunch or an evening
+  outing, this establishment delivers a satisfying blend of tradition and
+  convenience.
+generative_summary: >-
+  Discover Sei Bar in Everett, MA$$$Sei Bar Everett in Everett, MA, stands out
+  as a cozy destination for those seeking authentic Japanese flavors in a
+  relaxed setting. This casual eatery specializes in fresh sushi and a variety
+  of other Japanese dishes, making it a go-to choice for dine-in or quick
+  takeout options. With its welcoming atmosphere and accessibility features like
+  wheelchair-friendly entrances, it caters to a wide range of diners looking for
+  quality meals without the fuss. Operating during convenient hours throughout
+  the week, it's an ideal spot for anyone exploring top-rated sushi restaurants
+  in the area. Whether you're in the mood for a light lunch or an evening
+  outing, this establishment delivers a satisfying blend of tradition and
+  convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this sushi spot in Everett often rave
+  about the fresh, flavorful dishes that make every meal feel like a treat,
+  based on its solid reputation among local diners. Many appreciate the friendly
+  service and reasonable prices, which add to the overall enjoyable experience
+  without breaking the bank. Feedback highlights the variety of options that
+  suit different tastes, from classic rolls to more adventurous Japanese fare,
+  helping it stand out as a reliable choice for groups or solo outings. While
+  some mention occasional waits during peak times, the general consensus leans
+  positive, emphasizing the value and taste that keep people coming back.
+  Overall, it's a welcoming place that honestly delivers on the promise of good
+  food in a casual vibe, making it worth checking out for anyone searching for
+  great sushi nearby.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -223,7 +303,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

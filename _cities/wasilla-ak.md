@@ -5,4 +5,5 @@ permalink: /alaska/wasilla/
 stateAbbr: AK
 stateName: Alaska
 cityName: Wasilla
+
 ---

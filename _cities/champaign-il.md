@@ -5,4 +5,5 @@ permalink: /illinois/champaign/
 stateAbbr: IL
 stateName: Illinois
 cityName: Champaign
+
 ---

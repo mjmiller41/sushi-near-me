@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Friends Sushi & Bento Place"
+title: Friends Sushi & Bento Place
 permalink: /missouri/kansas-city/friends-sushi-bento-place.html
 stateAbbr: MO
 stateName: Missouri
 cityName: Kansas City
 seo:
-  name: "Friends Sushi & Bento Place"
-  type: Restaurant
+  type: restaurant
   links: https://friendssushi.menufy.com/
-description: "Welcoming outfit offers a range of sushi & hot Japanese cooking, plus lunch specials. Friends Sushi & Bento Place serves delicious sushi in Kansas City, Missouri. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ4_0sYSzuwIcRlspiSk9Md3Y
 photos:
   - name: >-
@@ -183,6 +181,27 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 0
 website: https://friendssushi.menufy.com/
+description: >-
+  Explore Friends Sushi & Bento Place in Kansas City, MO$$$Friends Sushi & Bento
+  Place in Kansas City, MO, stands out as a cozy Japanese eatery offering fresh
+  sushi rolls, bento boxes, and hearty ramen options that appeal to locals
+  seeking authentic flavors. The spot features affordable lunch specials and
+  happy hour deals, making it a go-to choice for those exploring sushi
+  restaurants in the area. With its welcoming atmosphere and accessible seating,
+  it's ideal for casual dining or quick meals near Midtown. Visitors can enjoy a
+  variety of Japanese dishes prepared with care, blending traditional tastes
+  with modern twists that keep diners coming back for more.
+generative_summary: >-
+  Explore Friends Sushi & Bento Place in Kansas City, MO$$$Friends Sushi & Bento
+  Place in Kansas City, MO, stands out as a cozy Japanese eatery offering fresh
+  sushi rolls, bento boxes, and hearty ramen options that appeal to locals
+  seeking authentic flavors. The spot features affordable lunch specials and
+  happy hour deals, making it a go-to choice for those exploring sushi
+  restaurants in the area. With its welcoming atmosphere and accessible seating,
+  it's ideal for casual dining or quick meals near Midtown. Visitors can enjoy a
+  variety of Japanese dishes prepared with care, blending traditional tastes
+  with modern twists that keep diners coming back for more.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ4_0sYSzuwIcRlspiSk9Md3Y/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3MktHcWFnEAE
@@ -386,6 +405,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNUN0puVDd3RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNUN0puVDd3RRAB!2m1!1s0x87c0ee2c612cfde3:0x76774c4f4a62ca96
+review_summary: >-
+  Insights from Sushi Enthusiasts$$$Folks heading to this sushi spot often rave
+  about the tasty rolls and bento boxes that hit the spot without breaking the
+  bank, making it a solid pick for anyone searching for great sushi near me.
+  While most diners appreciate the friendly service and generous portions that
+  add to the relaxed vibe, a few mention that some dishes could use a bit more
+  seasoning for that perfect balance. Overall, it's praised as a welcoming place
+  for first-timers or groups, with highlights on the fresh ingredients and
+  reasonable prices that make it worth trying. If you're in the mood for
+  top-rated sushi close to you, this spot delivers a generally positive
+  experience that's easy to recommend.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeStreetParking: true
   valetParking: false
@@ -418,8 +449,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Welcoming outfit offers a range of sushi & hot Japanese cooking, plus lunch
   specials.
 

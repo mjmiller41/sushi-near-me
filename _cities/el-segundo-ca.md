@@ -5,4 +5,5 @@ permalink: /california/el-segundo/
 stateAbbr: CA
 stateName: California
 cityName: El Segundo
+
 ---

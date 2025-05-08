@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Over the Cole’s BBQ"
+title: Over the Cole’s BBQ
 permalink: /utah/holladay/over-the-cole-s-bbq.html
 stateAbbr: UT
 stateName: Utah
 cityName: Holladay
 seo:
-  name: "Over the Cole’s BBQ"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Over the Cole’s BBQ serves delicious sushi in Holladay, Utah. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJMYYWXYxhUocRAJf-j2dZMvA
 photos:
   - name: >-
@@ -185,7 +183,46 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Over the Cole’s BBQ in Holladay, UT$$$Over the Cole’s BBQ in
+  Holladay, UT, offers a laid-back counter-serve experience specializing in
+  authentic Texas-style barbecue that draws in locals and visitors alike. This
+  spot serves up flavorful options like tender ribs, juicy brisket, and savory
+  pulled pork, making it a go-to for hearty, satisfying meals in a casual
+  setting. The restaurant emphasizes accessibility with features like
+  wheelchair-friendly parking and entrances, ensuring everyone can enjoy the
+  welcoming atmosphere. Beyond the menu, its straightforward service and focus
+  on quality ingredients highlight why it's a favorite for those seeking
+  comforting, no-fuss dining. Whether you're looking for a quick bite or a
+  relaxed meal, this barbecue haven combines tradition with everyday
+  convenience.
+generative_summary: >-
+  Discover Over the Cole’s BBQ in Holladay, UT$$$Over the Cole’s BBQ in
+  Holladay, UT, offers a laid-back counter-serve experience specializing in
+  authentic Texas-style barbecue that draws in locals and visitors alike. This
+  spot serves up flavorful options like tender ribs, juicy brisket, and savory
+  pulled pork, making it a go-to for hearty, satisfying meals in a casual
+  setting. The restaurant emphasizes accessibility with features like
+  wheelchair-friendly parking and entrances, ensuring everyone can enjoy the
+  welcoming atmosphere. Beyond the menu, its straightforward service and focus
+  on quality ingredients highlight why it's a favorite for those seeking
+  comforting, no-fuss dining. Whether you're looking for a quick bite or a
+  relaxed meal, this barbecue haven combines tradition with everyday
+  convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Raving About$$$Folks often praise the mouthwatering
+  barbecue selections at this spot, with standout dishes like brisket and loaded
+  fries earning high marks for their bold flavors and generous portions. Many
+  appreciate the speedy, approachable service that keeps things friendly and
+  efficient without any fuss. Visitors frequently note the solid value for the
+  price, making it a smart choice for anyone craving a satisfying meal without
+  breaking the bank. Overall, the consensus leans positive, highlighting how the
+  combination of tasty food and hassle-free vibes makes for a memorable
+  experience. While opinions vary, the general feedback suggests this place
+  delivers on both taste and convenience for barbecue enthusiasts.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +248,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

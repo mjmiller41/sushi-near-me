@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Bonchon Hyattsville"
+title: Bonchon Hyattsville
 permalink: /maryland/hyattsville/bonchon-hyattsville.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Hyattsville
 seo:
-  name: "Bonchon Hyattsville"
-  type: Restaurant
-  links: null
-description: "Bonchon Hyattsville serves delicious sushi in Hyattsville, Maryland. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://locations.bonchon.com/ll/US/MD/Hyattsville/6507-America-Blvd
 place_id: ChIJRT_u9-_Gt4kRTrclifaqYWo
 photos:
   - name: >-
@@ -170,22 +168,186 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89b7c6eff7ee3f45:0x6a61aaf68925b74e!10e5
 primary_type: Asian Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:30 PM'
+    - 'Tuesday: 11:00 AM – 9:30 PM'
+    - 'Wednesday: 11:00 AM – 9:30 PM'
+    - 'Thursday: 11:00 AM – 9:30 PM'
+    - 'Friday: 11:00 AM – 10:00 PM'
+    - 'Saturday: 11:00 AM – 10:00 PM'
+    - 'Sunday: 11:00 AM – 9:30 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+  - openNow: false
+    periods:
+      - open:
+          day: 0
+          hour: 15
+          minute: 0
+        close:
+          day: 0
+          hour: 16
+          minute: 0
+      - open:
+          day: 1
+          hour: 15
+          minute: 0
+        close:
+          day: 1
+          hour: 16
+          minute: 0
+      - open:
+          day: 2
+          hour: 15
+          minute: 0
+        close:
+          day: 2
+          hour: 16
+          minute: 0
+      - open:
+          day: 3
+          hour: 15
+          minute: 0
+        close:
+          day: 3
+          hour: 16
+          minute: 0
+      - open:
+          day: 4
+          hour: 15
+          minute: 0
+        close:
+          day: 4
+          hour: 16
+          minute: 0
+      - open:
+          day: 5
+          hour: 15
+          minute: 0
+        close:
+          day: 5
+          hour: 16
+          minute: 0
+      - open:
+          day: 6
+          hour: 15
+          minute: 0
+        close:
+          day: 6
+          hour: 16
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 3:00 – 4:00 PM'
+      - 'Tuesday: 3:00 – 4:00 PM'
+      - 'Wednesday: 3:00 – 4:00 PM'
+      - 'Thursday: 3:00 – 4:00 PM'
+      - 'Friday: 3:00 – 4:00 PM'
+      - 'Saturday: 3:00 – 4:00 PM'
+      - 'Sunday: 3:00 – 4:00 PM'
+    secondaryHoursType: HAPPY_HOUR
+    nextOpenTime: '2025-05-04T19:00:00Z'
+phone: (301) 209-1888
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '3.9'
+rating_count: 532
+website: https://locations.bonchon.com/ll/US/MD/Hyattsville/6507-America-Blvd
+description: >-
+  Explore Bonchon Hyattsville$$$Bonchon Hyattsville in Hyattsville, MD, stands
+  out as a welcoming chain restaurant specializing in flavorful Korean-style
+  fried chicken and a variety of Asian fusion dishes that appeal to diverse
+  tastes. This spot emphasizes family-friendly vibes with accessible features
+  like wheelchair-friendly parking and entrances, making it easy for everyone to
+  enjoy a casual meal. Operating daily from late morning into the evening, it
+  offers a convenient option for those seeking authentic Asian flavors in a
+  relaxed setting. The menu highlights bold, crispy favorites alongside other
+  fusion elements, creating a satisfying experience for groups or solo diners.
+  With its moderate pricing and open hours, it's a go-to choice for discovering
+  top-rated Asian dining options near you.
+generative_summary: >-
+  Explore Bonchon Hyattsville$$$Bonchon Hyattsville in Hyattsville, MD, stands
+  out as a welcoming chain restaurant specializing in flavorful Korean-style
+  fried chicken and a variety of Asian fusion dishes that appeal to diverse
+  tastes. This spot emphasizes family-friendly vibes with accessible features
+  like wheelchair-friendly parking and entrances, making it easy for everyone to
+  enjoy a casual meal. Operating daily from late morning into the evening, it
+  offers a convenient option for those seeking authentic Asian flavors in a
+  relaxed setting. The menu highlights bold, crispy favorites alongside other
+  fusion elements, creating a satisfying experience for groups or solo diners.
+  With its moderate pricing and open hours, it's a go-to choice for discovering
+  top-rated Asian dining options near you.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback Highlights$$$Visitors to this Asian eatery often praise the
+  crispy Korean-style chicken and the overall friendly atmosphere, making it a
+  solid pick for anyone craving bold flavors in a casual spot. Many reviews
+  highlight the generous portions and quick service, though some note occasional
+  wait times during peak hours, which is common for popular local spots. Folks
+  appreciate the variety of dishes that go beyond typical options, helping it
+  stand out among nearby dining choices. Overall, the solid rating reflects a
+  generally positive experience, with most agreeing it's worth trying for a
+  satisfying meal with friends or family. If you're exploring Asian restaurants
+  in the area, this place delivers on taste and value without disappointing.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +373,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

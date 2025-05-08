@@ -5,4 +5,5 @@ permalink: /illinois/batavia/
 stateAbbr: IL
 stateName: Illinois
 cityName: Batavia
+
 ---

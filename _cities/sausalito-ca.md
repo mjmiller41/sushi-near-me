@@ -5,4 +5,5 @@ permalink: /california/sausalito/
 stateAbbr: CA
 stateName: California
 cityName: Sausalito
+
 ---

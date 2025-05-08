@@ -1,15 +1,14 @@
 ---
 layout: place
-title: "Ronin Sushi"
+title: Ronin Sushi
 permalink: /michigan/royal-oak/ronin-sushi.html
 stateAbbr: MI
 stateName: Michigan
 cityName: Royal Oak
 seo:
-  name: "Ronin Sushi"
-  type: Restaurant
-  links: https://roninsushi.com/?y_source=1_MTk5MTUxNjItNzE1LWxvY2F0aW9uLndlYnNpdGU%3D
-description: "Stylish sushi place & happy hour hot spot offers Japanese & fusion fare, plus an intimate lounge. Ronin Sushi serves delicious sushi in Royal Oak, Michigan. Try fresh Japanese dishes for a great dining experience. Available for takeout, and dinner."
+  type: restaurant
+  links: >-
+    https://roninsushi.com/?y_source=1_MTk5MTUxNjItNzE1LWxvY2F0aW9uLndlYnNpdGU%3D
 place_id: ChIJjW8NQUHPJIgRcdSP933HGco
 photos:
   - name: >-
@@ -185,6 +184,29 @@ price_range: null
 rating: '4.4'
 rating_count: 0
 website: https://roninsushi.com/?y_source=1_MTk5MTUxNjItNzE1LWxvY2F0aW9uLndlYnNpdGU%3D
+description: >-
+  Discover Ronin Sushi in Royal Oak, MI$$$Ronin Sushi in Royal Oak, MI, stands
+  out as a casual spot for enjoying fresh sushi and Japanese-inspired dishes,
+  blending style with a welcoming vibe perfect for dinners or happy hours. This
+  sushi restaurant offers a variety of rolls, fusion fare, and beverages like
+  beer, wine, and cocktails, making it an ideal choice for those seeking
+  flavorful options in a relaxed setting. Accessibility features such as
+  wheelchair-friendly entrances and seating add to its appeal, ensuring everyone
+  can savor the experience. Whether you're exploring top sushi places near you
+  or looking for a cozy atmosphere, the intimate lounge and thoughtful design
+  make it a go-to destination for authentic flavors and memorable meals.
+generative_summary: >-
+  Discover Ronin Sushi in Royal Oak, MI$$$Ronin Sushi in Royal Oak, MI, stands
+  out as a casual spot for enjoying fresh sushi and Japanese-inspired dishes,
+  blending style with a welcoming vibe perfect for dinners or happy hours. This
+  sushi restaurant offers a variety of rolls, fusion fare, and beverages like
+  beer, wine, and cocktails, making it an ideal choice for those seeking
+  flavorful options in a relaxed setting. Accessibility features such as
+  wheelchair-friendly entrances and seating add to its appeal, ensuring everyone
+  can savor the experience. Whether you're exploring top sushi places near you
+  or looking for a cozy atmosphere, the intimate lounge and thoughtful design
+  make it a go-to destination for authentic flavors and memorable meals.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJjW8NQUHPJIgRcdSP933HGco/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJblBfY2F3EAE
@@ -344,6 +366,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNkeVAyZ3h3RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNkeVAyZ3h3RRAB!2m1!1s0x8824cf41410d6f8d:0xca19c77df78fd471
+review_summary: >-
+  What Visitors Are Buzzing About$$$Folks often praise the tasty sushi and
+  overall vibe at this spot, highlighting how the fresh rolls and creative
+  dishes keep them coming back for more. Many appreciate the relaxing atmosphere
+  and friendly service that make even busy evenings feel worthwhile, though it
+  can get crowded during peak times. While some mention that the experience
+  shines brightest on less hectic days, the general consensus is that the food's
+  quality and variety make it a solid pick for groups or casual outings.
+  Overall, diners enjoy the balance of great flavors and affordability, with
+  highlights on favorites like crispy appetizers that add a fun twist. If you're
+  hunting for reliable sushi restaurants nearby, this place delivers a
+  consistently positive experience that leaves people eager to return.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidParkingLot: true
   paidStreetParking: true
@@ -377,8 +412,8 @@ serves_lunch: null
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Stylish sushi place & happy hour hot spot offers Japanese & fusion fare, plus
   an intimate lounge.
 

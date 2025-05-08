@@ -5,4 +5,5 @@ permalink: /florida/miami-beach/
 stateAbbr: FL
 stateName: Florida
 cityName: Miami Beach
+
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Miso Sushi"
+title: Miso Sushi
 permalink: /california/acton/miso-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Acton
 seo:
-  name: "Miso Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Miso Sushi serves delicious sushi in Acton, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJA9NwlHz2woARYMuee50lvV0
 photos:
   - name: >-
@@ -170,8 +168,49 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c2f67c9470d303:0x5dbd259d7b9ecb60!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: false
+  periods:
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 30
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 20
+        minute: 30
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 20
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: Closed'
+    - 'Tuesday: Closed'
+    - 'Wednesday: 5:00 – 8:30 PM'
+    - 'Thursday: 5:00 – 8:30 PM'
+    - 'Friday: 5:00 – 8:30 PM'
+    - 'Saturday: 5:00 – 8:30 PM'
+    - 'Sunday: Closed'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +218,46 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
+phone: (661) 269-4050
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.1'
+rating_count: 180
 website: null
+description: >-
+  Discover Miso Sushi in Acton, CA$$$Miso Sushi in Acton, CA, stands out as a
+  cozy Japanese restaurant offering a blend of comforting dishes and nutritious
+  choices that appeal to a variety of tastes. With its casual atmosphere, this
+  spot provides an inviting space to enjoy fresh sushi options alongside beer
+  and wine selections, making it ideal for relaxed meals. Patrons can appreciate
+  the focus on quality ingredients and accessibility features, ensuring a
+  welcoming experience for all. For those seeking sushi restaurants near you,
+  Miso Sushi delivers a satisfying mix of traditional flavors and healthy
+  alternatives that keep diners coming back.
+generative_summary: >-
+  Discover Miso Sushi in Acton, CA$$$Miso Sushi in Acton, CA, stands out as a
+  cozy Japanese restaurant offering a blend of comforting dishes and nutritious
+  choices that appeal to a variety of tastes. With its casual atmosphere, this
+  spot provides an inviting space to enjoy fresh sushi options alongside beer
+  and wine selections, making it ideal for relaxed meals. Patrons can appreciate
+  the focus on quality ingredients and accessibility features, ensuring a
+  welcoming experience for all. For those seeking sushi restaurants near you,
+  Miso Sushi delivers a satisfying mix of traditional flavors and healthy
+  alternatives that keep diners coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Visitor Feedback$$$Visitors to this sushi place in Acton often
+  rave about the fresh flavors and solid portions, giving it a generally upbeat
+  nod for everyday dining. While some mention occasional waits during peak
+  hours, the overall consensus highlights the value for the price, with many
+  enjoying the balance of comfort food and lighter options. Folks searching for
+  top-rated sushi near me appreciate the welcoming vibe and reliable service
+  that make it a go-to spot. Even with minor suggestions for faster prep times,
+  the positive experiences around the menu's variety keep the feedback leaning
+  toward repeat visits. If you're exploring Japanese places near me, this
+  location earns praise for its approachable appeal without any major drawbacks.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +283,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

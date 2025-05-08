@@ -5,4 +5,5 @@ permalink: /colorado/longmont/
 stateAbbr: CO
 stateName: Colorado
 cityName: Longmont
+
 ---

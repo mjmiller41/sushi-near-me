@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Hashtag Poki"
+title: Hashtag Poki
 permalink: /california/berkeley/hashtag-poki.html
 stateAbbr: CA
 stateName: California
 cityName: Berkeley
 seo:
-  name: "Hashtag Poki"
-  type: Restaurant
+  type: restaurant
   links: https://www.hashtagpoki.com/
-description: "Hashtag Poki serves delicious sushi in Berkeley, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJZ5YuVdF9hYARogcGnKrY_Q0
 photos:
   - name: >-
@@ -168,7 +166,49 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80857dd1552e9667:0xdfdd8aa9c0607a2!10e5
 primary_type: American Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 20
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 20
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 20
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 20
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 20
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 8:00 PM'
     - 'Tuesday: 11:30 AM – 8:00 PM'
     - 'Wednesday: 11:30 AM – 8:00 PM'
@@ -176,14 +216,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 8:00 PM'
     - 'Saturday: Closed'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:30 AM – 8:00 PM'
-    - 'Tuesday: 11:30 AM – 8:00 PM'
-    - 'Wednesday: 11:30 AM – 8:00 PM'
-    - 'Thursday: 11:30 AM – 8:00 PM'
-    - 'Friday: 11:30 AM – 8:00 PM'
-    - 'Saturday: Closed'
-    - 'Sunday: Closed'
+  nextOpenTime: '2025-05-05T18:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -195,35 +228,235 @@ phone: (510) 356-4376
 price_level: PRICE_LEVEL_INEXPENSIVE
 price_range: $10 &ndash; $20
 rating: '4.5'
-rating_count: 0
+rating_count: 394
 website: https://www.hashtagpoki.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Hashtag Poki in Berkeley, CA$$$Hashtag Poki in Berkeley, CA, delivers
+  a relaxed vibe for savoring fresh Hawaiian-inspired dishes like poke bowls and
+  sushi rolls packed with customizable toppings. This spot stands out for its
+  counter-serve style, offering high-quality ingredients that bring bold flavors
+  to every bite, making it a go-to for those exploring sushi options in the
+  area. Accessibility features such as wheelchair-friendly entrances and seating
+  add to the welcoming atmosphere, ensuring everyone can enjoy a convenient
+  meal. With its focus on quick service and flavorful combinations, it's an
+  ideal choice for anyone seeking casual dining that highlights Pacific-inspired
+  tastes.
+generative_summary: >-
+  Discover Hashtag Poki in Berkeley, CA$$$Hashtag Poki in Berkeley, CA, delivers
+  a relaxed vibe for savoring fresh Hawaiian-inspired dishes like poke bowls and
+  sushi rolls packed with customizable toppings. This spot stands out for its
+  counter-serve style, offering high-quality ingredients that bring bold flavors
+  to every bite, making it a go-to for those exploring sushi options in the
+  area. Accessibility features such as wheelchair-friendly entrances and seating
+  add to the welcoming atmosphere, ensuring everyone can enjoy a convenient
+  meal. With its focus on quick service and flavorful combinations, it's an
+  ideal choice for anyone seeking casual dining that highlights Pacific-inspired
+  tastes.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJZ5YuVdF9hYARogcGnKrY_Q0/reviews/ChZDSUhNMG9nS0VJQ0FnTUNBNklfVVFBEAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        What a great start to begin the year with a new spot unlocked. Hashtag
+        poki is quick and professional at their job. Order what you want, here’s
+        your bowl. Seating inside very minimal but you would need to go during
+        slow hours. I went here Sunday lunch, and enjoyed my meal. I was lucky
+        enough to grab a seat and enjoy all the flavors bursting in my mouth.
+        The wonton chips is definitely a must have in your poke bowl. Quite
+        creative, I like the idea! Street parking is provided, not hard to miss.
+        A corner restaurant to serve you. I am most likely coming back to this
+        joint to enjoy more of their menu.
+      languageCode: en
+    originalText:
+      text: >-
+        What a great start to begin the year with a new spot unlocked. Hashtag
+        poki is quick and professional at their job. Order what you want, here’s
+        your bowl. Seating inside very minimal but you would need to go during
+        slow hours. I went here Sunday lunch, and enjoyed my meal. I was lucky
+        enough to grab a seat and enjoy all the flavors bursting in my mouth.
+        The wonton chips is definitely a must have in your poke bowl. Quite
+        creative, I like the idea! Street parking is provided, not hard to miss.
+        A corner restaurant to serve you. I am most likely coming back to this
+        joint to enjoy more of their menu.
+      languageCode: en
+    authorAttribution:
+      displayName: Matthew C
+      uri: https://www.google.com/maps/contrib/115099581704756485184/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjV0uIwfMGL4Jl6c234nt0zM-Y0R-hsZ9KXWGPFRdVhyEo_rzkroJA=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-01-29T09:23:11.337876Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNBNklfVVFBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNBNklfVVFBEAE!2m1!1s0x80857dd1552e9667:0xdfdd8aa9c0607a2
+  - name: >-
+      places/ChIJZ5YuVdF9hYARogcGnKrY_Q0/reviews/ChdDSUhNMG9nS0VJQ0FnTURJeGRpMWtnRRAB
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 5
+    text:
+      text: >-
+        Great first experience - food was fresh,  place was clean,  and staff
+        was friendly. Looking forward to my next visit.
+      languageCode: en
+    originalText:
+      text: >-
+        Great first experience - food was fresh,  place was clean,  and staff
+        was friendly. Looking forward to my next visit.
+      languageCode: en
+    authorAttribution:
+      displayName: Patrick Pender
+      uri: https://www.google.com/maps/contrib/102459185016107208378/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJbqSWa3UOp7JOwaoBHObxzNT-ingN_pIsJe8olrKNUz6E9JCI=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-11T15:09:41.918669Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJeGRpMWtnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJeGRpMWtnRRAB!2m1!1s0x80857dd1552e9667:0xdfdd8aa9c0607a2
+  - name: >-
+      places/ChIJZ5YuVdF9hYARogcGnKrY_Q0/reviews/ChdDSUhNMG9nS0VJQ0FnSUNiZ0t6SDZBRRAB
+    relativePublishTimeDescription: 9 months ago
+    rating: 5
+    text:
+      text: >-
+        I've been getting DoorDash from here for a while and it's always good.
+        The fish and sides are fresh and taste amazing. Portions have gotten
+        smaller but the price is well worth it because you get a lot of bang for
+        your buck. Today I got takeout and liked the vibe inside. They greeted
+        me at the door and were kind. I got a small bowl - half white rice, half
+        greens, tuna, salmon, mac salad, wakame salad, green onions, edamame
+        beans, ginger, furikake, cucumber, wasabi sauce, and ponzu sauce, all
+        for around $15 after tip. I am a happy repeat customer!
+      languageCode: en
+    originalText:
+      text: >-
+        I've been getting DoorDash from here for a while and it's always good.
+        The fish and sides are fresh and taste amazing. Portions have gotten
+        smaller but the price is well worth it because you get a lot of bang for
+        your buck. Today I got takeout and liked the vibe inside. They greeted
+        me at the door and were kind. I got a small bowl - half white rice, half
+        greens, tuna, salmon, mac salad, wakame salad, green onions, edamame
+        beans, ginger, furikake, cucumber, wasabi sauce, and ponzu sauce, all
+        for around $15 after tip. I am a happy repeat customer!
+      languageCode: en
+    authorAttribution:
+      displayName: Jaya
+      uri: https://www.google.com/maps/contrib/101342622032088318725/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJ74Bbwy8q7qxuSUeWD3ocMAYgZWG4MIsGEVasGSsFs84Yqyw=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2024-07-21T23:55:03.714729Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNiZ0t6SDZBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNiZ0t6SDZBRRAB!2m1!1s0x80857dd1552e9667:0xdfdd8aa9c0607a2
+  - name: >-
+      places/ChIJZ5YuVdF9hYARogcGnKrY_Q0/reviews/ChdDSUhNMG9nS0VJQ0FnSUR2NlBPZy13RRAB
+    relativePublishTimeDescription: 4 months ago
+    rating: 4
+    text:
+      text: >-
+        I went in to grab a quick bite. Service was fast and easy. I got a spicy
+        tuna bowl. It was kinda salty but not bad. Would definitely go again if
+        I am around the area.
+      languageCode: en
+    originalText:
+      text: >-
+        I went in to grab a quick bite. Service was fast and easy. I got a spicy
+        tuna bowl. It was kinda salty but not bad. Would definitely go again if
+        I am around the area.
+      languageCode: en
+    authorAttribution:
+      displayName: Haaggar A
+      uri: https://www.google.com/maps/contrib/111481642534871218944/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVV29Xsnu2yOvru88UYpVkQjcfk-3eziV8sMzBdraelwtwdqVqy=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2024-12-17T08:16:46.191211Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR2NlBPZy13RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR2NlBPZy13RRAB!2m1!1s0x80857dd1552e9667:0xdfdd8aa9c0607a2
+  - name: >-
+      places/ChIJZ5YuVdF9hYARogcGnKrY_Q0/reviews/ChZDSUhNMG9nS0VJQ0FnSUNPMVo3SFFBEAE
+    relativePublishTimeDescription: 2 years ago
+    rating: 4
+    text:
+      text: >-
+        Fish was fresh, I thought the seasonings on the rice and fish were
+        great.
+
+        I had brown rice, salmon, albacore, shrimp. Seaweed salad and edamame.
+        Photo of my takeout, the nice presentation got a bit scrambled when
+        dropped it.
+      languageCode: en
+    originalText:
+      text: >-
+        Fish was fresh, I thought the seasonings on the rice and fish were
+        great.
+
+        I had brown rice, salmon, albacore, shrimp. Seaweed salad and edamame.
+        Photo of my takeout, the nice presentation got a bit scrambled when
+        dropped it.
+      languageCode: en
+    authorAttribution:
+      displayName: Oliver J
+      uri: https://www.google.com/maps/contrib/100865457983042859418/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXWbfwxRl_Ov3UA300IKuZ9EW1hMM8J-wqbfGhCtA3mn1hLAAwJNg=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2022-06-15T18:30:45.055744Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNPMVo3SFFBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNPMVo3SFFBEAE!2m1!1s0x80857dd1552e9667:0xdfdd8aa9c0607a2
+review_summary: >-
+  What Customers Are Saying$$$Folks consistently praise the fresh ingredients
+  and vibrant flavors in the poke bowls, making for a satisfying and speedy meal
+  that hits the spot. Many appreciate the friendly service and clean
+  environment, which make visits feel effortless and enjoyable overall. While
+  some mention slight variations in seasoning or portion sizes, the value and
+  creativity in the offerings keep people returning for more. The fun twists on
+  traditional elements add an exciting layer to the experience without
+  overwhelming the basics. All things considered, it's a reliable pick for those
+  hunting for quality sushi nearby, with most feedback leaning toward repeat
+  visits.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeStreetParking: true
+  paidStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
+delivery: true
+dine_in: true
+good_for_children: true
 good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
+good_for_sports: false
+live_music: false
+menu_for_children: false
 outdoor_seating: null
-reservable: null
+reservable: false
 restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: false
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Casual, counter-serve option for seasoned Hawaiian fish salads built to order
+  & served in boxes.
 
 ---

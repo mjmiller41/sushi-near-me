@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Okinawa Sushi Tennyson"
+title: Okinawa Sushi Tennyson
 permalink: /colorado/denver/okinawa-sushi-tennyson.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Denver
 seo:
-  name: "Okinawa Sushi Tennyson"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Okinawa Sushi Tennyson serves delicious sushi in Denver, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ-_mFQHyHa4cRk98QFCcbgyM
 photos:
   - name: >-
@@ -185,7 +183,45 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Okinawa Sushi in Denver, CO$$$Okinawa Sushi in Denver, CO, stands out
+  as a welcoming spot for those seeking fresh sushi options in a laid-back
+  environment. This sushi restaurant offers a variety of special dishes,
+  including thoughtful vegan choices that cater to diverse dietary preferences,
+  alongside a selection of beer and wine to enhance your meal. Its accessible
+  features, such as wheelchair-friendly parking and entrances, make it an
+  inclusive choice for everyone looking to enjoy Japanese-inspired cuisine. The
+  atmosphere is relaxed and inviting, perfect for casual dinners or gatherings,
+  drawing in locals searching for top-rated sushi experiences nearby. With its
+  prime location in the vibrant Northwest neighborhood, it's an easy go-to for
+  anyone exploring sushi places in the area.
+generative_summary: >-
+  Discover Okinawa Sushi in Denver, CO$$$Okinawa Sushi in Denver, CO, stands out
+  as a welcoming spot for those seeking fresh sushi options in a laid-back
+  environment. This sushi restaurant offers a variety of special dishes,
+  including thoughtful vegan choices that cater to diverse dietary preferences,
+  alongside a selection of beer and wine to enhance your meal. Its accessible
+  features, such as wheelchair-friendly parking and entrances, make it an
+  inclusive choice for everyone looking to enjoy Japanese-inspired cuisine. The
+  atmosphere is relaxed and inviting, perfect for casual dinners or gatherings,
+  drawing in locals searching for top-rated sushi experiences nearby. With its
+  prime location in the vibrant Northwest neighborhood, it's an easy go-to for
+  anyone exploring sushi places in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this sushi spot often highlight the
+  fresh flavors and variety that keep things exciting, with many appreciating
+  the vegan options as a standout feature for health-conscious eaters. Folks
+  seem to enjoy the relaxed vibe and drink selections like beer and wine, making
+  it a solid pick for casual nights out or quick meals. While some mention it's
+  a great spot for groups, the overall feedback leans positive on the welcoming
+  atmosphere and attentive service that adds to the experience. It's frequently
+  praised as a reliable choice among sushi restaurants near me, though a few
+  note that portion sizes could vary. All in all, if you're on the hunt for
+  quality Japanese places close by, this one delivers a consistently enjoyable
+  vibe that leaves diners satisfied.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +247,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

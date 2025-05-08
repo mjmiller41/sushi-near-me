@@ -1,15 +1,14 @@
 ---
 layout: place
-title: "Ninja Japanese Steakhouse & Sushi"
+title: Ninja Japanese Steakhouse & Sushi
 permalink: /alabama/athens/ninja-japanese-steakhouse-sushi.html
 stateAbbr: AL
 stateName: Alabama
 cityName: Athens
 seo:
-  name: "Ninja Japanese Steakhouse & Sushi"
-  type: Restaurant
-  links: null
-description: "Ninja Japanese Steakhouse & Sushi serves delicious sushi in Athens, Alabama. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: >-
+    https://www.facebook.com/pages/Ninja-Japanese-Steak-House-Athens-Al/1669608350034679
 place_id: ChIJnwDPKnOLYogRJw7Mo7EETGo
 photos:
   - name: >-
@@ -170,8 +169,113 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x88628b732acf009f:0x6a4c04b1a3cc0e27!10e5
 primary_type: Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 15
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 15
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 3:00 PM, 4:30 – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 3:00 PM, 4:30 – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 3:00 PM, 4:30 – 9:00 PM'
+    - 'Thursday: 11:00 AM – 3:00 PM, 4:30 – 9:00 PM'
+    - 'Friday: 11:00 AM – 3:00 PM, 4:30 – 9:30 PM'
+    - 'Saturday: 12:00 – 9:30 PM'
+    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +283,53 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (256) 998-5088
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.0'
+rating_count: 438
+website: >-
+  https://www.facebook.com/pages/Ninja-Japanese-Steak-House-Athens-Al/1669608350034679
+description: >-
+  Experience Ninja Japanese Steakhouse in Athens, AL$$$Nestled in Athens, AL,
+  Ninja Japanese Steakhouse & Sushi offers a delightful blend of fresh sushi and
+  sizzling hibachi dishes in a welcoming, casual atmosphere. This spot stands
+  out for its accessible features, including wheelchair-friendly parking and
+  seating, making it easy for everyone to enjoy authentic Japanese flavors.
+  Patrons can savor expertly prepared rolls and grilled entrees that highlight
+  high-quality ingredients, perfect for those seeking top-rated sushi options
+  nearby. The restaurant's vibrant setting and moderate pricing add to its
+  appeal as a go-to destination for Japanese cuisine enthusiasts. Whether you're
+  in the mood for a quick lunch or an evening out, it's an ideal choice for
+  discovering local sushi gems.
+generative_summary: >-
+  Experience Ninja Japanese Steakhouse in Athens, AL$$$Nestled in Athens, AL,
+  Ninja Japanese Steakhouse & Sushi offers a delightful blend of fresh sushi and
+  sizzling hibachi dishes in a welcoming, casual atmosphere. This spot stands
+  out for its accessible features, including wheelchair-friendly parking and
+  seating, making it easy for everyone to enjoy authentic Japanese flavors.
+  Patrons can savor expertly prepared rolls and grilled entrees that highlight
+  high-quality ingredients, perfect for those seeking top-rated sushi options
+  nearby. The restaurant's vibrant setting and moderate pricing add to its
+  appeal as a go-to destination for Japanese cuisine enthusiasts. Whether you're
+  in the mood for a quick lunch or an evening out, it's an ideal choice for
+  discovering local sushi gems.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Customer Feedback$$$From what diners have shared online, folks
+  generally enjoy the flavorful sushi and entertaining hibachi shows at this
+  spot, often praising the fresh ingredients and friendly service that keep
+  things lively. While some mention occasional waits during peak hours, the
+  overall vibe comes across as fun and satisfying, with many highlighting it as
+  a solid pick for groups or families craving Japanese eats close by. The solid
+  4.0 rating from hundreds of reviews suggests it's a reliable option for anyone
+  hunting for the best sushi around, with positive nods to the variety of dishes
+  that cater to different tastes. It's clear that the experience leaves most
+  people smiling, even if not every visit is flawless, making it worth checking
+  out for a casual meal. If you're exploring sushi places near me, this one
+  tends to deliver a balanced and enjoyable dine-in adventure.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +355,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

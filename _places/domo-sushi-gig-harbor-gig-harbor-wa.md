@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Domo Sushi Gig Harbor"
+title: Domo Sushi Gig Harbor
 permalink: /washington/gig-harbor/domo-sushi-gig-harbor.html
 stateAbbr: WA
 stateName: Washington
 cityName: Gig Harbor
 seo:
-  name: "Domo Sushi Gig Harbor"
-  type: Restaurant
+  type: restaurant
   links: https://www.facebook.com/642965925768324/
-description: "Domo Sushi Gig Harbor serves delicious sushi in Gig Harbor, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJQSsbzsyskVQRGdGH8mgTjbI
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x5491acccce1b2b41:0xb28d1368f287d119!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 16
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:00 PM'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:00 PM'
     - 'Saturday: 11:00 AM – 9:00 PM'
     - 'Sunday: 4:00 – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 9:00 PM'
-    - 'Saturday: 11:00 AM – 9:00 PM'
-    - 'Sunday: 4:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +246,45 @@ phone: (253) 851-0592
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.4'
-rating_count: 0
+rating_count: 926
 website: https://www.facebook.com/642965925768324/
+description: >-
+  Discover Domo Sushi in Gig Harbor, WA$$$Domo Sushi in Gig Harbor, WA, stands
+  out as a welcoming sushi restaurant offering a blend of fresh Asian flavors
+  and creative rolls in a refined atmosphere. This spot highlights an array of
+  expertly crafted sushi options, from classic rolls to innovative combinations,
+  making it a go-to choice for those seeking quality Japanese-inspired dining.
+  The restaurant's accessible features, like wheelchair-friendly entrances and
+  seating, ensure a comfortable experience for all visitors, while its moderate
+  pricing adds to the appeal for casual meals. With convenient hours extending
+  into the evening, it's ideal for locals looking for sushi places near me to
+  enjoy a relaxed yet upscale vibe that combines taste and convenience.
+generative_summary: >-
+  Discover Domo Sushi in Gig Harbor, WA$$$Domo Sushi in Gig Harbor, WA, stands
+  out as a welcoming sushi restaurant offering a blend of fresh Asian flavors
+  and creative rolls in a refined atmosphere. This spot highlights an array of
+  expertly crafted sushi options, from classic rolls to innovative combinations,
+  making it a go-to choice for those seeking quality Japanese-inspired dining.
+  The restaurant's accessible features, like wheelchair-friendly entrances and
+  seating, ensure a comfortable experience for all visitors, while its moderate
+  pricing adds to the appeal for casual meals. With convenient hours extending
+  into the evening, it's ideal for locals looking for sushi places near me to
+  enjoy a relaxed yet upscale vibe that combines taste and convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Buzz Around Domo Sushi$$$Visitors often rave about the fresh ingredients and
+  flavorful dishes at this popular sushi spot, making it a solid pick for anyone
+  hunting for the best sushi near me. Many highlight the variety of options that
+  cater to different tastes, from light appetizers to hearty rolls, creating a
+  consistently enjoyable meal. While some note that service can vary slightly
+  depending on the time, the overall atmosphere and quality keep things positive
+  and inviting for groups or solo diners. Folks appreciate the welcoming setting
+  that encourages repeat visits, positioning it as one of the top-rated sushi
+  restaurants in the area for a satisfying Japanese dining experience. Overall,
+  it's a reliable choice that delivers on flavor and value, earning its strong
+  reputation among local food enthusiasts.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +310,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

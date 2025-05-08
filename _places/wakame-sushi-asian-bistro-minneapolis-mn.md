@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Wakame Sushi & Asian Bistro"
+title: Wakame Sushi & Asian Bistro
 permalink: /minnesota/minneapolis/wakame-sushi-asian-bistro.html
 stateAbbr: MN
 stateName: Minnesota
 cityName: Minneapolis
 seo:
-  name: "Wakame Sushi & Asian Bistro"
-  type: Restaurant
+  type: restaurant
   links: http://www.wakamebistro.com/
-description: "Casual Japanese sushi & Thai eatery for classic fare in a stylish space with an outdoor patio. Wakame Sushi & Asian Bistro serves delicious sushi in Minneapolis, Minnesota. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJR7mcJVwn9ocRJ9cEEU23_C8
 photos:
   - name: >-
@@ -185,6 +183,27 @@ price_range: null
 rating: '4.4'
 rating_count: 0
 website: http://www.wakamebistro.com/
+description: >-
+  Experience Wakame Sushi in Minneapolis$$$Wakame Sushi & Asian Bistro in
+  Minneapolis, MN, offers an upscale dining experience with a focus on fresh
+  sushi and Asian-inspired dishes in a stylish, inviting setting. This spot
+  stands out for its happy hour specials, light bites, and delectable desserts,
+  making it a go-to for those seeking Japanese flavors in a vibrant atmosphere.
+  Guests can enjoy an outdoor patio that enhances the casual yet refined vibe,
+  perfect for a relaxed meal in the neighborhood. The menu highlights a variety
+  of sushi options, appealing to anyone exploring top-rated Japanese places near
+  me for quality and variety.
+generative_summary: >-
+  Experience Wakame Sushi in Minneapolis$$$Wakame Sushi & Asian Bistro in
+  Minneapolis, MN, offers an upscale dining experience with a focus on fresh
+  sushi and Asian-inspired dishes in a stylish, inviting setting. This spot
+  stands out for its happy hour specials, light bites, and delectable desserts,
+  making it a go-to for those seeking Japanese flavors in a vibrant atmosphere.
+  Guests can enjoy an outdoor patio that enhances the casual yet refined vibe,
+  perfect for a relaxed meal in the neighborhood. The menu highlights a variety
+  of sushi options, appealing to anyone exploring top-rated Japanese places near
+  me for quality and variety.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJR7mcJVwn9ocRJ9cEEU23_C8/reviews/ChdDSUhNMG9nS0VJQ0FnTURRNXBPSmpRRRAB
@@ -336,6 +355,17 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNIaEt5Ylh3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNIaEt5Ylh3EAE!2m1!1s0x87f6275c259cb947:0x2ffcb74d1104d727
+review_summary: >-
+  Buzz Around Wakame's Reviews$$$Folks love the fresh sushi and creative rolls
+  at this spot, often highlighting the generous happy hour deals that make it a
+  favorite for casual outings. Many appreciate the friendly service and lively
+  atmosphere, which add to the overall fun vibe, though some mention waits
+  during peak times that are worth it for the experience. Reviewers frequently
+  praise the tasty appetizers and drinks, noting it's a great choice for groups
+  looking for sushi restaurants near me with a welcoming feel. Overall, the
+  consensus leans positive, with diners enjoying the blend of quality food and
+  energetic setting that keeps them coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -368,8 +398,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Casual Japanese sushi & Thai eatery for classic fare in a stylish space with
   an outdoor patio.
 

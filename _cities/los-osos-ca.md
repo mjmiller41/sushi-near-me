@@ -5,4 +5,5 @@ permalink: /california/los-osos/
 stateAbbr: CA
 stateName: California
 cityName: Los Osos
+
 ---

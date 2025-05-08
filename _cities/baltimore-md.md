@@ -5,4 +5,5 @@ permalink: /maryland/baltimore/
 stateAbbr: MD
 stateName: Maryland
 cityName: Baltimore
+
 ---

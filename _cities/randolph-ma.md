@@ -5,4 +5,5 @@ permalink: /massachusetts/randolph/
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Randolph
+
 ---

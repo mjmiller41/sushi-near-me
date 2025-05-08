@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Aoki Sushi"
+title: Aoki Sushi
 permalink: /south-carolina/greenville/aoki-sushi.html
 stateAbbr: SC
 stateName: South Carolina
 cityName: Greenville
 seo:
-  name: "Aoki Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://aokigreenville.com/
-description: "Aoki Sushi serves delicious sushi in Greenville, South Carolina. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJJRC24k4pWIgRJN4LoKxbC90
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 0
 website: http://aokigreenville.com/
+description: >-
+  Experience Aoki Sushi in Greenville, SC$$$Aoki Sushi in Greenville, SC, stands
+  out as a casual dining destination offering a blend of fresh sushi and
+  flavorful Korean BBQ options, making it a go-to spot for those seeking
+  authentic Asian cuisine nearby. This welcoming restaurant features an array of
+  noodle dishes alongside a selection of beer, sake, and wine, perfect for
+  pairing with your meal in a relaxed setting. Patrons appreciate the accessible
+  atmosphere, including wheelchair-friendly features and outdoor seating, which
+  enhance the overall dining experience. Whether you're in the mood for
+  top-rated sushi rolls or a quick bite after exploring the area, this spot
+  delivers on quality and variety. Its convenient location makes it an ideal
+  choice for anyone searching for sushi restaurants in the region.
+generative_summary: >-
+  Experience Aoki Sushi in Greenville, SC$$$Aoki Sushi in Greenville, SC, stands
+  out as a casual dining destination offering a blend of fresh sushi and
+  flavorful Korean BBQ options, making it a go-to spot for those seeking
+  authentic Asian cuisine nearby. This welcoming restaurant features an array of
+  noodle dishes alongside a selection of beer, sake, and wine, perfect for
+  pairing with your meal in a relaxed setting. Patrons appreciate the accessible
+  atmosphere, including wheelchair-friendly features and outdoor seating, which
+  enhance the overall dining experience. Whether you're in the mood for
+  top-rated sushi rolls or a quick bite after exploring the area, this spot
+  delivers on quality and variety. Its convenient location makes it an ideal
+  choice for anyone searching for sushi restaurants in the region.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJJRC24k4pWIgRJN4LoKxbC90/reviews/ChdDSUhNMG9nS0VJQ0FnSURYeHVUNDJRRRAB
@@ -352,6 +375,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNJOHF6Zi1RRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNJOHF6Zi1RRRAB!2m1!1s0x8858294ee2b61025:0xdd0b5baca00bde24
+review_summary: >-
+  Insights from Recent Feedback$$$Folks who've tried Aoki Sushi often highlight
+  the fresh and tasty rolls as a standout feature, with many enjoying the
+  creative flavors that keep them coming back for more. While the service is
+  frequently described as friendly and helpful, especially for takeout orders, a
+  few mentions point to occasional waits that could use some smoothing out.
+  Overall, the vibe is praised for being laid-back and accommodating, making it
+  a solid pick for groups or families looking for a satisfying meal. Despite one
+  or two experiences noting inconsistencies in food prep, the general consensus
+  leans positive, with diners appreciating the value and drink selections like
+  sake. If you're on the hunt for reliable sushi places nearby, this spot
+  generally delivers a worthwhile visit with room for the occasional tweak.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -384,7 +420,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

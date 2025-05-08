@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi%AYCE/All You Can Eat"
+title: Sushi%AYCE/All You Can Eat
 permalink: /washington/seattle/sushi-ayce-all-you-can-eat.html
 stateAbbr: WA
 stateName: Washington
 cityName: Seattle
 seo:
-  name: "Sushi%AYCE/All You Can Eat"
-  type: Restaurant
+  type: restaurant
   links: https://www.sushiayceus.com/
-description: "Sushi%AYCE/All You Can Eat serves delicious sushi in Seattle, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJqxb_7GhrkFQRvomAw9GALrM
 photos:
   - name: >-
@@ -169,7 +167,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x54906b68ecff16ab:0xb32e80d1c38089be!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 10:00 PM'
     - 'Tuesday: 11:00 AM – 10:00 PM'
     - 'Wednesday: 11:00 AM – 10:00 PM'
@@ -177,14 +233,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:30 PM'
     - 'Saturday: 11:00 AM – 10:30 PM'
     - 'Sunday: 11:00 AM – 10:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 10:00 PM'
-    - 'Tuesday: 11:00 AM – 10:00 PM'
-    - 'Wednesday: 11:00 AM – 10:00 PM'
-    - 'Thursday: 11:00 AM – 10:00 PM'
-    - 'Friday: 11:00 AM – 10:30 PM'
-    - 'Saturday: 11:00 AM – 10:30 PM'
-    - 'Sunday: 11:00 AM – 10:00 PM'
+  nextCloseTime: '2025-05-04T05:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,35 +245,230 @@ phone: (206) 485-7027
 price_level: null
 price_range: $30 &ndash; $50
 rating: '4.7'
-rating_count: 0
+rating_count: 636
 website: https://www.sushiayceus.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Explore Sushi AYCE in Seattle, WA$$$Sushi AYCE/All You Can Eat in Seattle, WA,
+  stands out as a laid-back destination for sushi enthusiasts, offering an
+  all-you-can-eat experience with fresh rolls and sashimi that highlight the
+  best of Japanese flavors. This spot features a welcoming atmosphere perfect
+  for groups, complete with options for beer, sake, and wine to complement your
+  meal, all served in a conveniently located spot in the heart of the city.
+  Accessibility is a key highlight, with wheelchair-friendly entrances, seating,
+  and restrooms making it easy for everyone to enjoy. The restaurant operates
+  daily with extended hours, ideal for lunch or dinner cravings, and includes a
+  variety of vegetarian choices alongside traditional favorites. Whether you're
+  searching for top-rated sushi places near you, this venue delivers a
+  satisfying blend of quality and value in a cozy setting.
+generative_summary: >-
+  Explore Sushi AYCE in Seattle, WA$$$Sushi AYCE/All You Can Eat in Seattle, WA,
+  stands out as a laid-back destination for sushi enthusiasts, offering an
+  all-you-can-eat experience with fresh rolls and sashimi that highlight the
+  best of Japanese flavors. This spot features a welcoming atmosphere perfect
+  for groups, complete with options for beer, sake, and wine to complement your
+  meal, all served in a conveniently located spot in the heart of the city.
+  Accessibility is a key highlight, with wheelchair-friendly entrances, seating,
+  and restrooms making it easy for everyone to enjoy. The restaurant operates
+  daily with extended hours, ideal for lunch or dinner cravings, and includes a
+  variety of vegetarian choices alongside traditional favorites. Whether you're
+  searching for top-rated sushi places near you, this venue delivers a
+  satisfying blend of quality and value in a cozy setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJqxb_7GhrkFQRvomAw9GALrM/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3cXN6WE9nEAE
+    relativePublishTimeDescription: a month ago
+    rating: 4
+    text:
+      text: >-
+        It was a good experience, no wait time when we got there which was
+        around 3pm on a Saturday. People starts coming in around 6. The place is
+        small but has big tables for a big group. I wish they have more soup
+        selections and the rice they put on 1 kind is too much for the amount of
+        fish they put on top. That’s a personal preference tho so it’s not
+        necessarily a bad thing.
+      languageCode: en
+    originalText:
+      text: >-
+        It was a good experience, no wait time when we got there which was
+        around 3pm on a Saturday. People starts coming in around 6. The place is
+        small but has big tables for a big group. I wish they have more soup
+        selections and the rice they put on 1 kind is too much for the amount of
+        fish they put on top. That’s a personal preference tho so it’s not
+        necessarily a bad thing.
+      languageCode: en
+    authorAttribution:
+      displayName: Jouhanna Austin
+      uri: https://www.google.com/maps/contrib/100813562980925373178/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjU8WHD2xqWF-_hGhKgqFPXZ8007JWJvUPFqLchAlO7NJFu_9Z4=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2025-03-25T08:48:01.484253Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUR3cXN6WE9nEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUR3cXN6WE9nEAE!2m1!1s0x54906b68ecff16ab:0xb32e80d1c38089be
+  - name: >-
+      places/ChIJqxb_7GhrkFQRvomAw9GALrM/reviews/ChZDSUhNMG9nS0VJQ0FnTURJeXRmYkhREAE
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 5
+    text:
+      text: >-
+        First time visiting Sushi Eyce and I loved it! Went with my family and
+        we all had the all-you-can-eat option (4 of us). The sushi was super
+        fresh, portions were generous, and everything came out really quickly.
+        The place has a nice atmosphere too — definitely coming back!
+      languageCode: en
+    originalText:
+      text: >-
+        First time visiting Sushi Eyce and I loved it! Went with my family and
+        we all had the all-you-can-eat option (4 of us). The sushi was super
+        fresh, portions were generous, and everything came out really quickly.
+        The place has a nice atmosphere too — definitely coming back!
+      languageCode: en
+    authorAttribution:
+      displayName: Tabatha Moreno
+      uri: https://www.google.com/maps/contrib/106100166525661576897/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXb2ES1USNGsp3meYEw1SVmHpeYGUiLbl0xGOZ_vF-IRNzUCStE=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-08T20:54:17.485790Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURJeXRmYkhREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJeXRmYkhREAE!2m1!1s0x54906b68ecff16ab:0xb32e80d1c38089be
+  - name: >-
+      places/ChIJqxb_7GhrkFQRvomAw9GALrM/reviews/ChZDSUhNMG9nS0VJQ0FnTURJN09PNVBREAE
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 5
+    text:
+      text: >-
+        I went here on a Friday night and it did not disappoint. The sushi was
+        fresh, the staff was super friendly and quick. There was no wait and the
+        price was not bad. I paid $35 for unlimited sushi and the portions are
+        large. Overtime you order a roll it’s a full roll and it’s so yummy.
+        They also have appetizers, soups, and desserts included. I highly
+        recommend and make sure to bring your appetite.
+      languageCode: en
+    originalText:
+      text: >-
+        I went here on a Friday night and it did not disappoint. The sushi was
+        fresh, the staff was super friendly and quick. There was no wait and the
+        price was not bad. I paid $35 for unlimited sushi and the portions are
+        large. Overtime you order a roll it’s a full roll and it’s so yummy.
+        They also have appetizers, soups, and desserts included. I highly
+        recommend and make sure to bring your appetite.
+      languageCode: en
+    authorAttribution:
+      displayName: Genevieve Condron
+      uri: https://www.google.com/maps/contrib/112884322140482863495/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUXwC4GJifoBivQk51n_1be2xxQhwbnUAAVB1Ogp5yGfknIX6CoQg=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-08T01:50:59.291265Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURJN09PNVBREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJN09PNVBREAE!2m1!1s0x54906b68ecff16ab:0xb32e80d1c38089be
+  - name: >-
+      places/ChIJqxb_7GhrkFQRvomAw9GALrM/reviews/ChdDSUhNMG9nS0VJQ0FnTURncUl1YXdRRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        Went to Sushi%AYCE/All You Can Eat. This place is spectacular! If you
+        real love sushi, then please come to this place. Super delicious and
+        very fresh tasting. The atmosphere was very pleasant and cozy! Also,
+        outstanding customer service!!! Highly recommended!!! Love love love it
+        😍!!
+      languageCode: en
+    originalText:
+      text: >-
+        Went to Sushi%AYCE/All You Can Eat. This place is spectacular! If you
+        real love sushi, then please come to this place. Super delicious and
+        very fresh tasting. The atmosphere was very pleasant and cozy! Also,
+        outstanding customer service!!! Highly recommended!!! Love love love it
+        😍!!
+      languageCode: en
+    authorAttribution:
+      displayName: Jimmy Huynh
+      uri: https://www.google.com/maps/contrib/113792385737549549822/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXNTBWKUkDHzeyDYHiyJlB1iRGjmG7YCIVj9iKKpYMakKZdpKNS=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-02-22T07:47:08.944222Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURncUl1YXdRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURncUl1YXdRRRAB!2m1!1s0x54906b68ecff16ab:0xb32e80d1c38089be
+  - name: >-
+      places/ChIJqxb_7GhrkFQRvomAw9GALrM/reviews/ChZDSUhNMG9nS0VJQ0FnSURmdGNhR0xREAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 4
+    text:
+      text: >-
+        You have 120 minutes sitting here. If you can just simply ignore a
+        never-smiling face of the young waiter, everything else is just fine.
+        Price is quite affordable and worth eating. They offer only the simple
+        sushi though (shrimp, salmon, tuna. that's it.) fish and food are fresh.
+      languageCode: en
+    originalText:
+      text: >-
+        You have 120 minutes sitting here. If you can just simply ignore a
+        never-smiling face of the young waiter, everything else is just fine.
+        Price is quite affordable and worth eating. They offer only the simple
+        sushi though (shrimp, salmon, tuna. that's it.) fish and food are fresh.
+      languageCode: en
+    authorAttribution:
+      displayName: Paul Bhuk
+      uri: https://www.google.com/maps/contrib/114997106465647891297/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKYxbOQWD24R065_ACGPy37qsHzUFsAQz7tC6bZwA1JkleVYQ=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-01-08T23:07:20.357072Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURmdGNhR0xREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURmdGNhR0xREAE!2m1!1s0x54906b68ecff16ab:0xb32e80d1c38089be
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors often rave about the fresh and
+  generous sushi portions that make this all-you-can-eat spot a go-to for casual
+  dining, with quick service and a welcoming vibe adding to the appeal. Many
+  appreciate the affordable pricing and variety of options like rolls, soups,
+  and desserts that keep things exciting without overwhelming the wallet. While
+  some note minor preferences for more variety or friendlier interactions, the
+  overall experience shines through with highlights on the clean environment and
+  efficient staff. It's clear that folks love coming back for the value-packed
+  meals, especially if you're exploring sushi restaurants in the area. If you're
+  on the hunt for reliable sushi close to you, this place generally delivers a
+  solid, enjoyable outing that leaves diners satisfied and eager to return.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  paidStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+curbside_pickup: true
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: true
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
 serves_breakfast: null
 serves_brunch: null
 serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

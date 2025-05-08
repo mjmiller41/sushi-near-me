@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ruk Sushi & Thai (Milwaukee Ave)"
+title: Ruk Sushi & Thai (Milwaukee Ave)
 permalink: /illinois/chicago/ruk-sushi-thai-milwaukee-ave.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
 seo:
-  name: "Ruk Sushi & Thai (Milwaukee Ave)"
-  type: Restaurant
+  type: restaurant
   links: http://www.ruksushi.com/
-description: "Thai & Japanese dishes plus sushi offered in a straightforward BYOB setting. Ruk Sushi & Thai (Milwaukee Ave) serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJf9T2bj7MD4gR0l8bHcHcvAQ
 photos:
   - name: >-
@@ -183,6 +181,31 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 0
 website: http://www.ruksushi.com/
+description: >-
+  Discover Ruk Sushi & Thai in Chicago, IL$$$In Chicago, IL, Ruk Sushi & Thai
+  stands out as a welcoming spot for fresh sushi and flavorful Thai dishes,
+  blending cozy vibes with a straightforward dining experience. This
+  neighborhood favorite prepares a variety of sushi rolls and Thai curries,
+  including crispy fried options, making it a go-to choice for those seeking
+  sushi restaurants with a mix of Asian flavors. The spot emphasizes
+  accessibility and convenience, with options for delivery and a relaxed,
+  bring-your-own-beverage policy that enhances the casual atmosphere. Whether
+  you're exploring top-rated sushi places near you or craving authentic Japanese
+  and Thai-inspired meals, this location delivers on quality and affordability
+  in a comfortable setting.
+generative_summary: >-
+  Discover Ruk Sushi & Thai in Chicago, IL$$$In Chicago, IL, Ruk Sushi & Thai
+  stands out as a welcoming spot for fresh sushi and flavorful Thai dishes,
+  blending cozy vibes with a straightforward dining experience. This
+  neighborhood favorite prepares a variety of sushi rolls and Thai curries,
+  including crispy fried options, making it a go-to choice for those seeking
+  sushi restaurants with a mix of Asian flavors. The spot emphasizes
+  accessibility and convenience, with options for delivery and a relaxed,
+  bring-your-own-beverage policy that enhances the casual atmosphere. Whether
+  you're exploring top-rated sushi places near you or craving authentic Japanese
+  and Thai-inspired meals, this location delivers on quality and affordability
+  in a comfortable setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJf9T2bj7MD4gR0l8bHcHcvAQ/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3a0wzbFRBEAE
@@ -400,6 +423,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURaZ051eFFBEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURaZ051eFFBEAE!2m1!1s0x880fcc3e6ef6d47f:0x4bcdcc11d1b5fd2
+review_summary: >-
+  What People Love About This Spot$$$Visitors often rave about the fresh and
+  flavorful sushi rolls, highlighting how they strike a perfect balance of
+  textures and tastes that make for a satisfying meal at sushi spots around
+  town. Many appreciate the tasty Thai dishes like curries and appetizers,
+  noting their affordability and generous portions that keep things enjoyable
+  without breaking the bank. The service stands out as friendly and efficient,
+  with quick preparation times that add to the overall convenience, especially
+  for takeout or delivery orders. While some mention the space feels intimate,
+  it's generally seen as a charming plus for casual gatherings, making it a
+  solid pick for anyone hunting for reliable sushi near me. Overall, folks find
+  it a dependable choice for delicious, well-prepared meals that leave them
+  coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeStreetParking: true
   paidStreetParking: true
@@ -432,7 +469,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: Thai & Japanese dishes plus sushi offered in a straightforward BYOB setting.
+update_category: pro
+places_description: Thai & Japanese dishes plus sushi offered in a straightforward BYOB setting.
 
 ---

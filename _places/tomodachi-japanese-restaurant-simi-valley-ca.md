@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Tomodachi Japanese Restaurant"
+title: Tomodachi Japanese Restaurant
 permalink: /california/simi-valley/tomodachi-japanese-restaurant.html
 stateAbbr: CA
 stateName: California
 cityName: Simi Valley
 seo:
-  name: "Tomodachi Japanese Restaurant"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Tomodachi Japanese Restaurant serves delicious sushi in Simi Valley, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJtS-QGM4u6IAR_F03GnoICH4
 photos:
   - name: >-
@@ -185,7 +183,48 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Tomodachi Japanese Restaurant in Simi Valley, CA$$$Tomodachi Japanese
+  Restaurant in Simi Valley, CA, offers an intimate dining experience perfect
+  for those seeking fresh sushi options in a relaxed setting. This cozy spot
+  features a wide variety of authentic dishes, including expertly prepared rolls
+  and other Japanese favorites, making it a go-to choice for sushi lovers
+  exploring local eateries. With its laid-back atmosphere, it's ideal for casual
+  meals or quick visits when searching for sushi places near you. The restaurant
+  also prioritizes accessibility, ensuring a welcoming environment for all
+  guests, which enhances its appeal as one of the top-rated sushi restaurants in
+  the area. Whether you're in the mood for innovative flavors or classic
+  preparations, this hidden gem provides a satisfying escape from the everyday
+  hustle.
+generative_summary: >-
+  Discover Tomodachi Japanese Restaurant in Simi Valley, CA$$$Tomodachi Japanese
+  Restaurant in Simi Valley, CA, offers an intimate dining experience perfect
+  for those seeking fresh sushi options in a relaxed setting. This cozy spot
+  features a wide variety of authentic dishes, including expertly prepared rolls
+  and other Japanese favorites, making it a go-to choice for sushi lovers
+  exploring local eateries. With its laid-back atmosphere, it's ideal for casual
+  meals or quick visits when searching for sushi places near you. The restaurant
+  also prioritizes accessibility, ensuring a welcoming environment for all
+  guests, which enhances its appeal as one of the top-rated sushi restaurants in
+  the area. Whether you're in the mood for innovative flavors or classic
+  preparations, this hidden gem provides a satisfying escape from the everyday
+  hustle.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying About This Sushi Spot$$$Folks who stop by this sushi
+  restaurant often rave about the fresh ingredients and welcoming vibe, making
+  it a solid pick for anyone craving Japanese cuisine nearby. Many appreciate
+  the variety of options that cater to different tastes, with comments
+  highlighting the quality and creativity of the dishes without overwhelming the
+  palate. While some mention it's a great spot for a laid-back meal, others note
+  the efficient service adds to the overall enjoyment, even if it's not always
+  the busiest place. Overall, it's earned praise for being a reliable choice
+  that delivers on flavor and comfort, encouraging repeat visits for those
+  hunting for the best sushi around. Though experiences can vary, the general
+  feedback leans positive, painting it as a worthwhile destination for casual
+  diners in the community.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +250,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

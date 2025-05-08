@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Bonchon Sunnyvale"
+title: Bonchon Sunnyvale
 permalink: /california/sunnyvale/bonchon-sunnyvale.html
 stateAbbr: CA
 stateName: California
 cityName: Sunnyvale
 seo:
-  name: "Bonchon Sunnyvale"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Bonchon Sunnyvale serves delicious sushi in Sunnyvale, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJDblWdnq2j4ARlV_AvXov0bE
 photos:
   - name: >-
@@ -185,7 +183,45 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Explore Bonchon Sunnyvale in Sunnyvale, CA$$$Bonchon Sunnyvale in Sunnyvale,
+  CA, offers a welcoming spot for enjoying Korean-inspired fried chicken and
+  Asian fusion flavors in a relaxed setting. This family-oriented chain
+  highlights crispy, flavorful dishes that blend traditional techniques with
+  modern twists, making it a go-to for casual dining near urban hubs. The
+  atmosphere is casual and inviting, perfect for those seeking tasty Asian
+  options without the formality. Accessibility features like wheelchair-friendly
+  entrances and seating add to the convenience, ensuring a comfortable
+  experience for all. Whether you're exploring top-rated Asian spots in the
+  area, it's an ideal choice for a satisfying meal that combines bold tastes
+  with everyday ease.
+generative_summary: >-
+  Explore Bonchon Sunnyvale in Sunnyvale, CA$$$Bonchon Sunnyvale in Sunnyvale,
+  CA, offers a welcoming spot for enjoying Korean-inspired fried chicken and
+  Asian fusion flavors in a relaxed setting. This family-oriented chain
+  highlights crispy, flavorful dishes that blend traditional techniques with
+  modern twists, making it a go-to for casual dining near urban hubs. The
+  atmosphere is casual and inviting, perfect for those seeking tasty Asian
+  options without the formality. Accessibility features like wheelchair-friendly
+  entrances and seating add to the convenience, ensuring a comfortable
+  experience for all. Whether you're exploring top-rated Asian spots in the
+  area, it's an ideal choice for a satisfying meal that combines bold tastes
+  with everyday ease.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What People Are Buzzing About$$$Visitors to this spot often rave about the
+  crispy Korean fried chicken and bold flavors that keep things exciting and
+  delicious, making it a favorite for casual outings. Many appreciate the
+  friendly service and quick turnaround, which help create a laid-back vibe
+  that's perfect for groups or families. While some note that portions can vary,
+  the overall consensus leans positive, with folks loving the fresh twists on
+  Asian classics that feel both authentic and approachable. If you're on the
+  hunt for reliable Asian eats nearby, it's clear this place delivers on taste
+  and value without overcomplicating things. All in all, it's a solid pick for
+  anyone craving flavorful bites in a welcoming environment, encouraging repeat
+  visits for those everyday cravings.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +247,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

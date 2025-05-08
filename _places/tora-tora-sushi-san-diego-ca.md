@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Tora Tora Sushi"
+title: Tora Tora Sushi
 permalink: /california/san-diego/tora-tora-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: San Diego
 seo:
-  name: "Tora Tora Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.toratorasushi.com/
-description: "Tora Tora Sushi serves delicious sushi in San Diego, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ3dC9KF7524ARt2aB61zMLIg
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $10 &ndash; $20
 rating: '4.3'
 rating_count: 0
 website: http://www.toratorasushi.com/
+description: >-
+  Explore Tora Tora Sushi in San Diego$$$Tora Tora Sushi in San Diego, CA,
+  stands out as a welcoming Japanese restaurant specializing in fresh sushi and
+  creative rolls that capture the essence of authentic flavors. This spot boasts
+  a clean, vibrant atmosphere with thoughtful touches like wheelchair-accessible
+  features and outdoor seating, making it easy for everyone to enjoy a meal.
+  Diners can savor a variety of specialty rolls and classic options, all
+  prepared with high-quality ingredients that highlight the best of Japanese
+  cuisine. For those seeking sushi restaurants near me, the moderate pricing and
+  fresh selections make it a solid choice for a satisfying dining experience.
+  With options for takeout and delivery, it's a convenient go-to for top-rated
+  sushi in the area.
+generative_summary: >-
+  Explore Tora Tora Sushi in San Diego$$$Tora Tora Sushi in San Diego, CA,
+  stands out as a welcoming Japanese restaurant specializing in fresh sushi and
+  creative rolls that capture the essence of authentic flavors. This spot boasts
+  a clean, vibrant atmosphere with thoughtful touches like wheelchair-accessible
+  features and outdoor seating, making it easy for everyone to enjoy a meal.
+  Diners can savor a variety of specialty rolls and classic options, all
+  prepared with high-quality ingredients that highlight the best of Japanese
+  cuisine. For those seeking sushi restaurants near me, the moderate pricing and
+  fresh selections make it a solid choice for a satisfying dining experience.
+  With options for takeout and delivery, it's a convenient go-to for top-rated
+  sushi in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ3dC9KF7524ARt2aB61zMLIg/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3d012THZRRRAB
@@ -390,6 +413,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURoLXBQeFVREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURoLXBQeFVREAE!2m1!1s0x80dbf95e28bdd0dd:0x882ccc5ceb8166b7
+review_summary: >-
+  Customer Feedback on This Sushi Favorite$$$Visitors often rave about the fresh
+  and flavorful sushi rolls at this spot, with many highlighting the tasty
+  specialty options that make for a memorable meal. While some folks mention
+  occasional mix-ups with orders, the staff generally steps in to fix things
+  quickly, keeping things positive overall. People appreciate the great value
+  for the quality of food, especially when sharing dishes that feel just right
+  for a casual outing. Despite a few comments on menu changes that might limit
+  choices, the overall vibe remains upbeat, with plenty of praise for the
+  melt-in-your-mouth nigiri and fresh ingredients. If you're hunting for sushi
+  places near me, this location earns high marks for its delicious offerings and
+  welcoming feel, making it worth a try for sushi lovers.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
 payment_options:
@@ -420,7 +456,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

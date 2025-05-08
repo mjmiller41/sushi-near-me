@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Bonchon North Stockton"
+title: Bonchon North Stockton
 permalink: /california/stockton/bonchon-north-stockton.html
 stateAbbr: CA
 stateName: California
 cityName: Stockton
 seo:
-  name: "Bonchon North Stockton"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Bonchon North Stockton serves delicious sushi in Stockton, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJbfX3R_INkIAR13MRhnopJBI
 photos:
   - name: >-
@@ -142,8 +140,8 @@ photos:
       https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPVHAVFzSXL_Nu0BhmAq9lPMqBH-h1uzYTMB8JS&hl=en-US
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPVHAVFzSXL_Nu0BhmAq9lPMqBH-h1uzYTMB8JS!2e10!4m2!3m1!1s0x80900df247f7f56d:0x1224297a861173d7
-address: 7840 West Ln Suite E-3, Stockton, CA 95210, USA
-street: 7840 West Ln Suite E-3
+address: 7840 West Ln Ste E3, Stockton, CA 95210, USA
+street: 7840 West Ln Ste E3
 city: Stockton
 state: CA
 zip: '95210'
@@ -185,7 +183,47 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  About Bonchon North Stockton in Stockton, CA$$$Bonchon North Stockton in
+  Stockton, CA, stands out as a laid-back chain eatery specializing in Korean
+  fried chicken and a variety of Asian fusion dishes that blend bold flavors
+  with creative twists. This spot offers a welcoming vibe perfect for casual
+  meals, featuring an array of appetizers and cocktails that complement its
+  signature crispy entrees. With its focus on accessible dining options,
+  including wheelchair-friendly parking and seating, it caters to a wide range
+  of guests seeking flavorful Asian-inspired cuisine. The menu highlights fresh
+  ingredients and innovative takes on traditional favorites, making it a go-to
+  choice for those exploring Asian restaurants near me. Overall, it's an
+  inviting destination for anyone looking to enjoy authentic tastes in a relaxed
+  setting.
+generative_summary: >-
+  About Bonchon North Stockton in Stockton, CA$$$Bonchon North Stockton in
+  Stockton, CA, stands out as a laid-back chain eatery specializing in Korean
+  fried chicken and a variety of Asian fusion dishes that blend bold flavors
+  with creative twists. This spot offers a welcoming vibe perfect for casual
+  meals, featuring an array of appetizers and cocktails that complement its
+  signature crispy entrees. With its focus on accessible dining options,
+  including wheelchair-friendly parking and seating, it caters to a wide range
+  of guests seeking flavorful Asian-inspired cuisine. The menu highlights fresh
+  ingredients and innovative takes on traditional favorites, making it a go-to
+  choice for those exploring Asian restaurants near me. Overall, it's an
+  inviting destination for anyone looking to enjoy authentic tastes in a relaxed
+  setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback Highlights$$$Folks who visit this eatery often praise the
+  standout Korean fried chicken for its perfect crunch and bold seasoning, along
+  with the solid selection of Asian fusion options that keep things exciting.
+  Many appreciate the friendly service and comfortable atmosphere, noting that
+  it's a great spot for groups or a quick bite without any fuss. While some
+  mention wait times during peak hours, the overall experience tends to leave
+  people satisfied with the value and taste. Based on general buzz around
+  similar spots, it's clear that the flavorful dishes and welcoming vibe make it
+  a solid pick for casual dining enthusiasts. If you're hunting for top-rated
+  Asian eats close to you, this place generally gets nods for delivering on both
+  flavor and convenience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +249,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -1,15 +1,14 @@
 ---
 layout: place
-title: "Soho Sushi"
+title: Soho Sushi
 permalink: /new-york/new-york/soho-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "Soho Sushi"
-  type: Restaurant
-  links: null
-description: "Soho Sushi serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: >-
+    https://sohosushi.getsauce.com/?utm_source=GMB&utm_medium=Website%20button&utm_id=Soho%20Sushi
 place_id: ChIJp1W4mZFZwokRkabFUxvic3s
 photos:
   - name: >-
@@ -170,22 +169,254 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c2599199b855a7:0x7b73e21b53c5a691!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 12
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 12
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 12
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 12
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 12
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 12:00 – 9:30 PM'
+    - 'Tuesday: 12:00 – 9:30 PM'
+    - 'Wednesday: 12:00 – 9:30 PM'
+    - 'Thursday: 12:00 – 9:30 PM'
+    - 'Friday: 12:00 – 9:30 PM'
+    - 'Saturday: 12:00 – 9:30 PM'
+    - 'Sunday: 12:00 – 9:30 PM'
+  nextCloseTime: '2025-05-04T01:30:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 0
+        close:
+          day: 0
+          hour: 21
+          minute: 30
+      - open:
+          day: 1
+          hour: 12
+          minute: 0
+        close:
+          day: 1
+          hour: 21
+          minute: 30
+      - open:
+          day: 2
+          hour: 12
+          minute: 0
+        close:
+          day: 2
+          hour: 21
+          minute: 30
+      - open:
+          day: 3
+          hour: 12
+          minute: 0
+        close:
+          day: 3
+          hour: 21
+          minute: 30
+      - open:
+          day: 4
+          hour: 12
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 30
+      - open:
+          day: 5
+          hour: 12
+          minute: 0
+        close:
+          day: 5
+          hour: 21
+          minute: 30
+      - open:
+          day: 6
+          hour: 12
+          minute: 0
+        close:
+          day: 6
+          hour: 21
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 12:00 – 9:30 PM'
+      - 'Tuesday: 12:00 – 9:30 PM'
+      - 'Wednesday: 12:00 – 9:30 PM'
+      - 'Thursday: 12:00 – 9:30 PM'
+      - 'Friday: 12:00 – 9:30 PM'
+      - 'Saturday: 12:00 – 9:30 PM'
+      - 'Sunday: 12:00 – 9:30 PM'
+    secondaryHoursType: DELIVERY
+    nextCloseTime: '2025-05-04T01:30:00Z'
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 0
+        close:
+          day: 0
+          hour: 21
+          minute: 30
+      - open:
+          day: 1
+          hour: 12
+          minute: 0
+        close:
+          day: 1
+          hour: 21
+          minute: 30
+      - open:
+          day: 2
+          hour: 12
+          minute: 0
+        close:
+          day: 2
+          hour: 21
+          minute: 30
+      - open:
+          day: 3
+          hour: 12
+          minute: 0
+        close:
+          day: 3
+          hour: 21
+          minute: 30
+      - open:
+          day: 4
+          hour: 12
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 30
+      - open:
+          day: 5
+          hour: 12
+          minute: 0
+        close:
+          day: 5
+          hour: 21
+          minute: 30
+      - open:
+          day: 6
+          hour: 12
+          minute: 0
+        close:
+          day: 6
+          hour: 21
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 12:00 – 9:30 PM'
+      - 'Tuesday: 12:00 – 9:30 PM'
+      - 'Wednesday: 12:00 – 9:30 PM'
+      - 'Thursday: 12:00 – 9:30 PM'
+      - 'Friday: 12:00 – 9:30 PM'
+      - 'Saturday: 12:00 – 9:30 PM'
+      - 'Sunday: 12:00 – 9:30 PM'
+    secondaryHoursType: TAKEOUT
+    nextCloseTime: '2025-05-04T01:30:00Z'
+phone: (212) 777-2188
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.3'
+rating_count: 326
+website: >-
+  https://sohosushi.getsauce.com/?utm_source=GMB&utm_medium=Website%20button&utm_id=Soho%20Sushi
+description: >-
+  Discover Soho Sushi in New York, NY$$$Soho Sushi in New York, NY, stands out
+  as a cozy destination for those seeking authentic Japanese flavors in a
+  relaxed setting. This inviting spot specializes in fresh sushi rolls and
+  hearty bento boxes, complemented by a selection of beer and wine to enhance
+  your meal. With its accessible entrance and seating options, it's designed to
+  welcome everyone looking for a comfortable dining experience. The restaurant's
+  daily hours make it easy to drop in for a satisfying lunch or dinner,
+  appealing to anyone exploring top-rated sushi options nearby. Whether you're
+  in the mood for classic Japanese dishes or a casual vibe, Soho Sushi delivers
+  a memorable taste of the city's vibrant food scene.
+generative_summary: >-
+  Discover Soho Sushi in New York, NY$$$Soho Sushi in New York, NY, stands out
+  as a cozy destination for those seeking authentic Japanese flavors in a
+  relaxed setting. This inviting spot specializes in fresh sushi rolls and
+  hearty bento boxes, complemented by a selection of beer and wine to enhance
+  your meal. With its accessible entrance and seating options, it's designed to
+  welcome everyone looking for a comfortable dining experience. The restaurant's
+  daily hours make it easy to drop in for a satisfying lunch or dinner,
+  appealing to anyone exploring top-rated sushi options nearby. Whether you're
+  in the mood for classic Japanese dishes or a casual vibe, Soho Sushi delivers
+  a memorable taste of the city's vibrant food scene.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Guests Are Saying About Soho Sushi$$$Folks who visit Soho Sushi often
+  highlight the fresh, flavorful sushi as a standout feature, making it a go-to
+  spot for anyone craving reliable Japanese eats in the neighborhood. Many
+  appreciate the welcoming atmosphere and solid selection of options that cater
+  to different tastes, helping it earn its strong reputation among local diners.
+  While some note that portions could vary, the overall experience gets thumbs
+  up for friendly service and good value, especially for groups or solo outings.
+  It's frequently recommended as one of the better sushi places around, with
+  feedback pointing to consistent quality that keeps people coming back. All in
+  all, if you're hunting for a solid sushi restaurant near you, this one's worth
+  checking out for a satisfying and enjoyable meal.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +442,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

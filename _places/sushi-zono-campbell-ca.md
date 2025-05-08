@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Zono"
+title: Sushi Zono
 permalink: /california/campbell/sushi-zono.html
 stateAbbr: CA
 stateName: California
 cityName: Campbell
 seo:
-  name: "Sushi Zono"
-  type: Restaurant
+  type: restaurant
   links: http://www.sushizono.com/
-description: "Sushi Zono serves delicious sushi in Campbell, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJIZ30hjM1joARhtDryKcLOf8
 photos:
   - name: >-
@@ -170,7 +168,81 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x808e353386f49d21:0xff390ba7c8ebd086!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
     - 'Wednesday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
@@ -178,14 +250,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 2:00 PM, 5:00 – 9:30 PM'
     - 'Saturday: 5:00 – 9:30 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
-    - 'Wednesday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
-    - 'Thursday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
-    - 'Friday: 11:30 AM – 2:00 PM, 5:00 – 9:30 PM'
-    - 'Saturday: 5:00 – 9:30 PM'
-    - 'Sunday: Closed'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +262,252 @@ phone: (408) 374-8366
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.5'
-rating_count: 0
+rating_count: 171
 website: http://www.sushizono.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Sushi Zono in Campbell, CA$$$Sushi Zono in Campbell, California,
+  stands out as a welcoming Japanese restaurant known for its fresh sushi and
+  traditional favorites in a relaxed atmosphere. This long-established spot
+  offers a variety of expertly prepared dishes, including teriyaki and udon, all
+  crafted with high-quality ingredients that highlight authentic flavors. The
+  casual setting makes it ideal for casual meals or gatherings, with thoughtful
+  touches like wheelchair-accessible features ensuring everyone can enjoy the
+  experience. Visitors appreciate the moderate pricing and options for beer and
+  wine, making it a great choice for those seeking flavorful Japanese cuisine
+  nearby. Whether you're in the mood for top-rated sushi rolls or a simple
+  lunch, this spot delivers a satisfying blend of taste and convenience.
+generative_summary: >-
+  Discover Sushi Zono in Campbell, CA$$$Sushi Zono in Campbell, California,
+  stands out as a welcoming Japanese restaurant known for its fresh sushi and
+  traditional favorites in a relaxed atmosphere. This long-established spot
+  offers a variety of expertly prepared dishes, including teriyaki and udon, all
+  crafted with high-quality ingredients that highlight authentic flavors. The
+  casual setting makes it ideal for casual meals or gatherings, with thoughtful
+  touches like wheelchair-accessible features ensuring everyone can enjoy the
+  experience. Visitors appreciate the moderate pricing and options for beer and
+  wine, making it a great choice for those seeking flavorful Japanese cuisine
+  nearby. Whether you're in the mood for top-rated sushi rolls or a simple
+  lunch, this spot delivers a satisfying blend of taste and convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJIZ30hjM1joARhtDryKcLOf8/reviews/ChdDSUhNMG9nS0VJQ0FnSUR2NTQtSnBBRRAB
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        THE best sushi place. The food was to die for: fresh fish, crispy
+        tempura, and flavorful tuna tataki. Every dish was a hit, and we were
+        even given complimentary salmon! This is officially my new favorite
+        sushi restaurant for its amazing food, ambience, and quality service.
+        (Not to mention beautiful presentation)
+      languageCode: en
+    originalText:
+      text: >-
+        THE best sushi place. The food was to die for: fresh fish, crispy
+        tempura, and flavorful tuna tataki. Every dish was a hit, and we were
+        even given complimentary salmon! This is officially my new favorite
+        sushi restaurant for its amazing food, ambience, and quality service.
+        (Not to mention beautiful presentation)
+      languageCode: en
+    authorAttribution:
+      displayName: Jacob Nguyen
+      uri: https://www.google.com/maps/contrib/115973054516784325910/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLQP_0aw0VSIfEBiX6IkViNYnWVbC1S8B8WwVPeqkYcVLLU8Q=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-12-24T21:13:44.231828Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR2NTQtSnBBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR2NTQtSnBBRRAB!2m1!1s0x808e353386f49d21:0xff390ba7c8ebd086
+  - name: >-
+      places/ChIJIZ30hjM1joARhtDryKcLOf8/reviews/ChdDSUhNMG9nS0VJQ0FnSUREbnFhOThBRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 4
+    text:
+      text: >-
+        Nice and attending server, Different seating options, good selection of
+        food items, they are accommodating with custom rolls.
+
+        Cons: this restaurant didn’t have a very clean/organized vibe as some
+        doors and walls were dirty and old stuff piled in a corner.
+      languageCode: en
+    originalText:
+      text: >-
+        Nice and attending server, Different seating options, good selection of
+        food items, they are accommodating with custom rolls.
+
+        Cons: this restaurant didn’t have a very clean/organized vibe as some
+        doors and walls were dirty and old stuff piled in a corner.
+      languageCode: en
+    authorAttribution:
+      displayName: Neda Mandegaran
+      uri: https://www.google.com/maps/contrib/107103944678787119280/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWe7pkhiigBU-FxY4Vu0Xhz8k7693832UBatanVh9SEl5cF55oH3Q=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2024-04-09T20:59:09.875882Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUREbnFhOThBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUREbnFhOThBRRAB!2m1!1s0x808e353386f49d21:0xff390ba7c8ebd086
+  - name: >-
+      places/ChIJIZ30hjM1joARhtDryKcLOf8/reviews/ChZDSUhNMG9nS0VJQ0FnSURXdWREc2ZnEAE
+    relativePublishTimeDescription: 3 years ago
+    rating: 4
+    text:
+      text: >-
+        A boutique style Japanese restaurant.
+
+
+        There are a decent amount of fish for you to choice from, the quality is
+        pretty good.
+
+
+        The service is nice, I think they they are a bit under staff, so be
+        patient when you make requests.
+
+
+        You are looking at about 50 per person with drink.
+
+
+        The restaurant is kinda tuck in the back of the small plaza.
+      languageCode: en
+    originalText:
+      text: >-
+        A boutique style Japanese restaurant.
+
+
+        There are a decent amount of fish for you to choice from, the quality is
+        pretty good.
+
+
+        The service is nice, I think they they are a bit under staff, so be
+        patient when you make requests.
+
+
+        You are looking at about 50 per person with drink.
+
+
+        The restaurant is kinda tuck in the back of the small plaza.
+      languageCode: en
+    authorAttribution:
+      displayName: Kailiang Huang
+      uri: https://www.google.com/maps/contrib/109425743422472774093/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJIdQwX2mnUkOuMOzXKmu4f2nWYWvXcjS_24vVInxcte75zNnE=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2022-03-29T02:34:53.389987Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURXdWREc2ZnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURXdWREc2ZnEAE!2m1!1s0x808e353386f49d21:0xff390ba7c8ebd086
+  - name: >-
+      places/ChIJIZ30hjM1joARhtDryKcLOf8/reviews/ChdDSUhNMG9nS0VJQ0FnSURQX2EyWnZnRRAB
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        Everything was so delicious would definitely be back the Hamachi delight
+        roll was very delightfull and service was fast and very friendly.
+      languageCode: en
+    originalText:
+      text: >-
+        Everything was so delicious would definitely be back the Hamachi delight
+        roll was very delightfull and service was fast and very friendly.
+      languageCode: en
+    authorAttribution:
+      displayName: Martin Hernandez
+      uri: https://www.google.com/maps/contrib/106342253896567401398/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXnMaPLzfxhBKQuGd-ycsZIpIQXr8VeZvHxI6c_DlnXgukR9SA=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-12-05T03:01:22.292657Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURQX2EyWnZnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURQX2EyWnZnRRAB!2m1!1s0x808e353386f49d21:0xff390ba7c8ebd086
+  - name: >-
+      places/ChIJIZ30hjM1joARhtDryKcLOf8/reviews/ChdDSUhNMG9nS0VJQ0FnSUNkNkpDZXdnRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 2
+    text:
+      text: >-
+        Really wanted to like this family style restaurant but sorry I was
+        disappointed. With the same price level I’d definitely go to Dan nearby
+        (though it’d be a long line there). Service was good. But waiting was
+        long even through there weren’t that many customers. And the food is
+        really hard to love. Sushi rolls were okay and everything else was meh. 
+        Look at the chicken karage in this photo - just by the appearance you
+        know it’s not great. The spinach salad was way too salty and sweet. Hmmm
+        just not appealing nor satisfying. Hope their food will be improved.
+      languageCode: en
+    originalText:
+      text: >-
+        Really wanted to like this family style restaurant but sorry I was
+        disappointed. With the same price level I’d definitely go to Dan nearby
+        (though it’d be a long line there). Service was good. But waiting was
+        long even through there weren’t that many customers. And the food is
+        really hard to love. Sushi rolls were okay and everything else was meh. 
+        Look at the chicken karage in this photo - just by the appearance you
+        know it’s not great. The spinach salad was way too salty and sweet. Hmmm
+        just not appealing nor satisfying. Hope their food will be improved.
+      languageCode: en
+    authorAttribution:
+      displayName: Lei W
+      uri: https://www.google.com/maps/contrib/110541806726727226118/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUyk98_ErAqR0RWsfRupyZ5w9gvmOibjNUGJZ-1yjJ3ihe8n3pgnQ=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-02-11T01:35:19.666612Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNkNkpDZXdnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNkNkpDZXdnRRAB!2m1!1s0x808e353386f49d21:0xff390ba7c8ebd086
+review_summary: >-
+  What Visitors Are Saying$$$People often rave about the fresh and flavorful
+  sushi at this spot, with many highlighting the creative rolls and generous
+  portions that make every meal feel special. While some mention occasional
+  waits during peak times, the friendly service and quick attention from staff
+  help keep things enjoyable overall. Feedback frequently praises the beautiful
+  presentation of dishes and complimentary touches that add a nice surprise to
+  the dining experience. A few notes about the atmosphere suggest it's cozy but
+  could use a bit more upkeep for a fully polished feel, yet this doesn't
+  overshadow the solid food quality. All in all, it's a go-to for anyone craving
+  reliable Japanese eats, offering a mix of hits that keep diners coming back
+  for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
+curbside_pickup: true
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
 good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+live_music: false
+menu_for_children: true
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: false
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Long-standing strip-mall Japanese eatery serving sushi, teriyaki, udon & other
+  traditional bites.
 
 ---

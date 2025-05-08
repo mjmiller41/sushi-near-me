@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Soma Sushi"
+title: Soma Sushi
 permalink: /texas/houston/soma-sushi.html
 stateAbbr: TX
 stateName: Texas
 cityName: Houston
 seo:
-  name: "Soma Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.somasushi.com/
-description: "Soma Sushi serves delicious sushi in Houston, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJX88CrLTAQIYRhF6TTFuGwZg
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8640c0b4ac02cf5f:0x98c1865b4c935e84!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 10:00 PM'
     - 'Tuesday: 11:30 AM – 10:00 PM'
     - 'Wednesday: 11:30 AM – 10:00 PM'
@@ -178,54 +234,502 @@ opening_hours:
     - 'Friday: 11:30 AM – 11:00 PM'
     - 'Saturday: 12:00 – 11:00 PM'
     - 'Sunday: 12:00 – 10:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 10:00 PM'
-    - 'Tuesday: 11:30 AM – 10:00 PM'
-    - 'Wednesday: 11:30 AM – 10:00 PM'
-    - 'Thursday: 11:30 AM – 10:00 PM'
-    - 'Friday: 11:30 AM – 11:00 PM'
-    - 'Saturday: 12:00 – 11:00 PM'
-    - 'Sunday: 12:00 – 10:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 0
+        close:
+          day: 0
+          hour: 22
+          minute: 0
+      - open:
+          day: 1
+          hour: 15
+          minute: 0
+        close:
+          day: 1
+          hour: 19
+          minute: 0
+      - open:
+          day: 2
+          hour: 15
+          minute: 0
+        close:
+          day: 2
+          hour: 19
+          minute: 0
+      - open:
+          day: 3
+          hour: 15
+          minute: 0
+        close:
+          day: 3
+          hour: 19
+          minute: 0
+      - open:
+          day: 4
+          hour: 15
+          minute: 0
+        close:
+          day: 4
+          hour: 19
+          minute: 0
+      - open:
+          day: 5
+          hour: 15
+          minute: 0
+        close:
+          day: 5
+          hour: 19
+          minute: 0
+      - open:
+          day: 6
+          hour: 15
+          minute: 0
+        close:
+          day: 6
+          hour: 19
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 3:00 – 7:00 PM'
+      - 'Tuesday: 3:00 – 7:00 PM'
+      - 'Wednesday: 3:00 – 7:00 PM'
+      - 'Thursday: 3:00 – 7:00 PM'
+      - 'Friday: 3:00 – 7:00 PM'
+      - 'Saturday: 3:00 – 7:00 PM'
+      - 'Sunday: 12:00 – 10:00 PM'
+    secondaryHoursType: HAPPY_HOUR
+    nextCloseTime: '2025-05-04T00:00:00Z'
+  - openNow: false
+    periods:
+      - open:
+          day: 1
+          hour: 11
+          minute: 30
+        close:
+          day: 1
+          hour: 15
+          minute: 0
+      - open:
+          day: 2
+          hour: 11
+          minute: 30
+        close:
+          day: 2
+          hour: 15
+          minute: 0
+      - open:
+          day: 3
+          hour: 11
+          minute: 30
+        close:
+          day: 3
+          hour: 15
+          minute: 0
+      - open:
+          day: 4
+          hour: 11
+          minute: 30
+        close:
+          day: 4
+          hour: 15
+          minute: 0
+      - open:
+          day: 5
+          hour: 11
+          minute: 30
+        close:
+          day: 5
+          hour: 15
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 11:30 AM – 3:00 PM'
+      - 'Tuesday: 11:30 AM – 3:00 PM'
+      - 'Wednesday: 11:30 AM – 3:00 PM'
+      - 'Thursday: 11:30 AM – 3:00 PM'
+      - 'Friday: 11:30 AM – 3:00 PM'
+      - 'Saturday: Closed'
+      - 'Sunday: Closed'
+    secondaryHoursType: LUNCH
+    nextOpenTime: '2025-05-05T16:30:00Z'
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 0
+        close:
+          day: 0
+          hour: 22
+          minute: 0
+      - open:
+          day: 1
+          hour: 15
+          minute: 0
+        close:
+          day: 1
+          hour: 22
+          minute: 0
+      - open:
+          day: 2
+          hour: 15
+          minute: 0
+        close:
+          day: 2
+          hour: 22
+          minute: 0
+      - open:
+          day: 3
+          hour: 15
+          minute: 0
+        close:
+          day: 3
+          hour: 22
+          minute: 0
+      - open:
+          day: 4
+          hour: 15
+          minute: 0
+        close:
+          day: 4
+          hour: 22
+          minute: 0
+      - open:
+          day: 5
+          hour: 15
+          minute: 0
+        close:
+          day: 5
+          hour: 23
+          minute: 0
+      - open:
+          day: 6
+          hour: 12
+          minute: 0
+        close:
+          day: 6
+          hour: 23
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 3:00 – 10:00 PM'
+      - 'Tuesday: 3:00 – 10:00 PM'
+      - 'Wednesday: 3:00 – 10:00 PM'
+      - 'Thursday: 3:00 – 10:00 PM'
+      - 'Friday: 3:00 – 11:00 PM'
+      - 'Saturday: 12:00 – 11:00 PM'
+      - 'Sunday: 12:00 – 10:00 PM'
+    secondaryHoursType: DINNER
+    nextCloseTime: '2025-05-04T04:00:00Z'
 phone: (713) 861-2726
 price_level: PRICE_LEVEL_MODERATE
 price_range: $30 &ndash; $50
 rating: '4.4'
-rating_count: 0
+rating_count: 1172
 website: https://www.somasushi.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Soma Sushi in Houston, TX$$$Soma Sushi in Houston, TX, offers a
+  delightful blend of traditional Japanese cuisine and modern twists, making it
+  a standout choice among local sushi restaurants. This spot features an
+  upscale-casual atmosphere where fresh sushi and innovative dishes are crafted
+  with high-quality ingredients, appealing to those seeking top-rated sushi
+  experiences nearby. Accessibility is a key highlight, with options like
+  wheelchair-accessible seating and parking that ensure everyone can enjoy the
+  meal comfortably. The menu includes a variety of Japanese favorites, from
+  creative rolls to fusion entrees, all served in a spacious setting that
+  combines elegance with casual vibes. Whether you're looking for sushi places
+  near me or wanting to explore Japanese dining options, this location stands
+  out for its welcoming environment and flavorful offerings.
+generative_summary: >-
+  Discover Soma Sushi in Houston, TX$$$Soma Sushi in Houston, TX, offers a
+  delightful blend of traditional Japanese cuisine and modern twists, making it
+  a standout choice among local sushi restaurants. This spot features an
+  upscale-casual atmosphere where fresh sushi and innovative dishes are crafted
+  with high-quality ingredients, appealing to those seeking top-rated sushi
+  experiences nearby. Accessibility is a key highlight, with options like
+  wheelchair-accessible seating and parking that ensure everyone can enjoy the
+  meal comfortably. The menu includes a variety of Japanese favorites, from
+  creative rolls to fusion entrees, all served in a spacious setting that
+  combines elegance with casual vibes. Whether you're looking for sushi places
+  near me or wanting to explore Japanese dining options, this location stands
+  out for its welcoming environment and flavorful offerings.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJX88CrLTAQIYRhF6TTFuGwZg/reviews/ChZDSUhNMG9nS0VJQ0FnTUNnbklfeVZ3EAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        If yall haven’t been to Soma Sushi, you are severely missing out. Their
+        Valentine’s Day special was incredible! $60 for two starters (we did
+        oysters and ceviche), a roll and three pieces of nigiri, a cooked main
+        (duck for me, steak for my husband), and a desert (we went with kochi
+        ice cream. Greated with a rose and sent home with freshly made macrons.
+        What more could you ask for!
+      languageCode: en
+    originalText:
+      text: >-
+        If yall haven’t been to Soma Sushi, you are severely missing out. Their
+        Valentine’s Day special was incredible! $60 for two starters (we did
+        oysters and ceviche), a roll and three pieces of nigiri, a cooked main
+        (duck for me, steak for my husband), and a desert (we went with kochi
+        ice cream. Greated with a rose and sent home with freshly made macrons.
+        What more could you ask for!
+      languageCode: en
+    authorAttribution:
+      displayName: Savannah Jung
+      uri: https://www.google.com/maps/contrib/107940821583949315924/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWk_NkClpDGaQU4_Khv7II8eF2vhS6Yzxm-fPW0gBuLBqwR3h40=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-02-15T03:02:09.276579Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNnbklfeVZ3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNnbklfeVZ3EAE!2m1!1s0x8640c0b4ac02cf5f:0x98c1865b4c935e84
+  - name: >-
+      places/ChIJX88CrLTAQIYRhF6TTFuGwZg/reviews/ChZDSUhNMG9nS0VJQ0FnTURvaHV1N1VnEAE
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        I originally came to the area planning to grab sushi at another nearby
+        spot, but by chance, I stumbled across this place during a quick Google
+        search. The great reviews caught my eye, so I decided to give it a shot.
+
+
+        From the outside, it's tucked into a pretty rundown-looking strip mall,
+        so I wasn’t expecting much—but I was genuinely surprised when I stepped
+        inside. The space is massive, beautifully decorated, and has a really
+        upscale vibe.
+
+
+        We started with a few appetizers—specifically the gyoza and edamame,
+        both solid choices. For our mains, we ordered the Wagyu bowl, the spider
+        roll, and a few different types of sashimi. Everything was fresh and
+        full of flavor. The service was excellent too—friendly, attentive, and
+        fast.
+
+
+        For the amount and quality of food we got, I felt the price was fair.
+        All in all, it was a lucky find, and I’m definitely coming back to try
+        more from their menu. Highly recommend checking this place out if you're
+        in the area.
+
+
+        Oh—and random detail, but the bathroom was super clean and actually
+        pretty nice, which I always appreciate.
+      languageCode: en
+    originalText:
+      text: >-
+        I originally came to the area planning to grab sushi at another nearby
+        spot, but by chance, I stumbled across this place during a quick Google
+        search. The great reviews caught my eye, so I decided to give it a shot.
+
+
+        From the outside, it's tucked into a pretty rundown-looking strip mall,
+        so I wasn’t expecting much—but I was genuinely surprised when I stepped
+        inside. The space is massive, beautifully decorated, and has a really
+        upscale vibe.
+
+
+        We started with a few appetizers—specifically the gyoza and edamame,
+        both solid choices. For our mains, we ordered the Wagyu bowl, the spider
+        roll, and a few different types of sashimi. Everything was fresh and
+        full of flavor. The service was excellent too—friendly, attentive, and
+        fast.
+
+
+        For the amount and quality of food we got, I felt the price was fair.
+        All in all, it was a lucky find, and I’m definitely coming back to try
+        more from their menu. Highly recommend checking this place out if you're
+        in the area.
+
+
+        Oh—and random detail, but the bathroom was super clean and actually
+        pretty nice, which I always appreciate.
+      languageCode: en
+    authorAttribution:
+      displayName: John Tran
+      uri: https://www.google.com/maps/contrib/102946260792737007841/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjX8sNLvpYh_aFc5omKv64aejNC5WuHMb370EvUbYjDhRJUGatIE=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-24T07:43:33.825965Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURvaHV1N1VnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURvaHV1N1VnEAE!2m1!1s0x8640c0b4ac02cf5f:0x98c1865b4c935e84
+  - name: >-
+      places/ChIJX88CrLTAQIYRhF6TTFuGwZg/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ3dUpDcjFBRRAB
+    relativePublishTimeDescription: 8 months ago
+    rating: 5
+    text:
+      text: >-
+        Wow, TLDR: Come here, you won’t regret it!
+
+
+        We came a few weeks ago; literally traveled to Houston from Austin w the
+        intention of eating good food, and this place didn’t disappoint! Outside
+        looks a bit rough, but my goodness. Don’t let it deter you! Inside is
+        modern, sleek and spacious! The girls up front were friendly both over
+        the phone and when we arrived. We were seated promptly and our server
+        was Michelle. She was super cool, very knowledgeable about the menu,
+        gave great recommendations and was really attentive. The food was
+        outstanding and came with great timing. The price point is so good, we
+        couldn’t help but order a ton 🤤 My husband and I have been raving about
+        this place ever since and recommend all of our friends to go. My crappy
+        pictures honestly don’t do it justice. We also ordered a lot more, but
+        couldn’t wait to eat it 😅 Give it a try!! And order all the things.
+      languageCode: en
+    originalText:
+      text: >-
+        Wow, TLDR: Come here, you won’t regret it!
+
+
+        We came a few weeks ago; literally traveled to Houston from Austin w the
+        intention of eating good food, and this place didn’t disappoint! Outside
+        looks a bit rough, but my goodness. Don’t let it deter you! Inside is
+        modern, sleek and spacious! The girls up front were friendly both over
+        the phone and when we arrived. We were seated promptly and our server
+        was Michelle. She was super cool, very knowledgeable about the menu,
+        gave great recommendations and was really attentive. The food was
+        outstanding and came with great timing. The price point is so good, we
+        couldn’t help but order a ton 🤤 My husband and I have been raving about
+        this place ever since and recommend all of our friends to go. My crappy
+        pictures honestly don’t do it justice. We also ordered a lot more, but
+        couldn’t wait to eat it 😅 Give it a try!! And order all the things.
+      languageCode: en
+    authorAttribution:
+      displayName: Amelia Albright
+      uri: https://www.google.com/maps/contrib/104739668140072446597/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUHD1XE2S5r361nR8HGmuTB6q-NA7QGyxI0pwfp-bvHyZ2oq18=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-08-21T03:46:12.550352Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQ3dUpDcjFBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQ3dUpDcjFBRRAB!2m1!1s0x8640c0b4ac02cf5f:0x98c1865b4c935e84
+  - name: >-
+      places/ChIJX88CrLTAQIYRhF6TTFuGwZg/reviews/ChdDSUhNMG9nS0VJQ0FnTUNnNnRPMzF3RRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 2
+    text:
+      text: >-
+        Bummer because the food was very good. Shishito’s not charred & toooo
+        salty & ramen not spicy so no need to say spicy; but the rolls, sashimi
+        and sake were delicious! The biggest bummer was entering & being seated
+        under a spot light at an unclean table. Table next to us was dirty &
+        they sat people too. While looking at menu, a food runner dropped an
+        appetizer at our table. At least 4-5 minutes later, the server grabs it
+        and places it in front of the guests sitting next to us. Server didn’t
+        say a word. We headed to host stand to pay and the close out took
+        forever. It’s a bummer because date night is rare. Houston has
+        exceptional restaurants. Soma’s atmosphere felt like being at Apple
+        Bees; but sushi! 🥲
+      languageCode: en
+    originalText:
+      text: >-
+        Bummer because the food was very good. Shishito’s not charred & toooo
+        salty & ramen not spicy so no need to say spicy; but the rolls, sashimi
+        and sake were delicious! The biggest bummer was entering & being seated
+        under a spot light at an unclean table. Table next to us was dirty &
+        they sat people too. While looking at menu, a food runner dropped an
+        appetizer at our table. At least 4-5 minutes later, the server grabs it
+        and places it in front of the guests sitting next to us. Server didn’t
+        say a word. We headed to host stand to pay and the close out took
+        forever. It’s a bummer because date night is rare. Houston has
+        exceptional restaurants. Soma’s atmosphere felt like being at Apple
+        Bees; but sushi! 🥲
+      languageCode: en
+    authorAttribution:
+      displayName: Susan Saccoman
+      uri: https://www.google.com/maps/contrib/102149526954113639212/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVNVFvLG6R2FrTi2OpDl7WTrZdsALlOfngW4PVCckXnal6qbnfc=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-02-16T05:01:16.111514Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNnNnRPMzF3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNnNnRPMzF3RRAB!2m1!1s0x8640c0b4ac02cf5f:0x98c1865b4c935e84
+  - name: >-
+      places/ChIJX88CrLTAQIYRhF6TTFuGwZg/reviews/ChdDSUhNMG9nS0VJQ0FnSUNIMU9yUDJ3RRAB
+    relativePublishTimeDescription: 8 months ago
+    rating: 5
+    text:
+      text: >-
+        Soma has been our favorite Sushi restaurant to dine. We went for our
+        Anniversary and had an amazing experience. Everything was delicious and
+        the staff is amazing! Our favorite waiter is Manny. We will continue to
+        dine here every chance we can!
+      languageCode: en
+    originalText:
+      text: >-
+        Soma has been our favorite Sushi restaurant to dine. We went for our
+        Anniversary and had an amazing experience. Everything was delicious and
+        the staff is amazing! Our favorite waiter is Manny. We will continue to
+        dine here every chance we can!
+      languageCode: en
+    authorAttribution:
+      displayName: Bridget Villarreal
+      uri: https://www.google.com/maps/contrib/104639150357971767869/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLH_d6z-ptF1IriujciXQ_UVJGBP4v0o09cxde6uQSSqVu_JQ=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2024-09-01T15:50:19.660794Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNIMU9yUDJ3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNIMU9yUDJ3RRAB!2m1!1s0x8640c0b4ac02cf5f:0x98c1865b4c935e84
+review_summary: >-
+  What People Are Buzzing About at Soma Sushi$$$Folks rave about the fresh and
+  flavorful sushi rolls and appetizers, often highlighting how the quality makes
+  every bite worthwhile for a satisfying meal. Many appreciate the welcoming
+  atmosphere inside, which surprises visitors with its modern and spacious feel
+  despite the unassuming exterior, creating a go-to spot for casual dinners or
+  group outings. Service tends to be attentive and efficient, with comments
+  noting quick delivery of dishes that enhance the overall experience. While a
+  few mentions point to occasional inconsistencies like overly salty sides or
+  wait times, the general consensus leans positive, emphasizing fair prices for
+  the generous portions and variety. If you're on the hunt for the best sushi
+  near you, this place comes highly recommended for its solid reputation and
+  enjoyable vibes that keep diners coming back.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
+curbside_pickup: false
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: true
+live_music: false
+menu_for_children: false
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
 serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_cocktails: true
+serves_coffee: true
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Sophisticated digs make this a glamorous spot for innovative rolls &
+  French-Japanese fusion entrees.
 
 ---

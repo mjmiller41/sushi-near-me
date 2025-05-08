@@ -5,4 +5,5 @@ permalink: /california/diamond-bar/
 stateAbbr: CA
 stateName: California
 cityName: Diamond Bar
+
 ---

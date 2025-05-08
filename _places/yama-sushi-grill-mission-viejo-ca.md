@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yama Sushi & Grill"
+title: Yama Sushi & Grill
 permalink: /california/mission-viejo/yama-sushi-grill.html
 stateAbbr: CA
 stateName: California
 cityName: Mission Viejo
 seo:
-  name: "Yama Sushi & Grill"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Yama Sushi & Grill serves delicious sushi in Mission Viejo, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJaW5umn7p3IARetALWg9wikU
 photos:
   - name: >-
@@ -185,7 +183,49 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Yama Sushi & Grill in Mission Viejo, CA$$$Yama Sushi & Grill in
+  Mission Viejo, CA, stands out as a welcoming spot for enjoying fresh Japanese
+  cuisine with scenic lake views that enhance the dining atmosphere. This sushi
+  restaurant specializes in flavorful baked langostino rolls, premium sake
+  selections, and a variety of other authentic Japanese dishes, making it a
+  go-to choice for those seeking sushi restaurants in the area. The location's
+  accessibility features, such as wheelchair-friendly parking and entrances,
+  ensure a comfortable visit for all guests looking for top-rated sushi
+  experiences nearby. Patrons can savor the blend of traditional flavors and
+  modern presentation, creating a relaxed setting ideal for casual meals or
+  special occasions. Whether you're exploring sushi places near me or craving a
+  taste of Japanese fare, this establishment delivers a memorable blend of
+  quality and ambiance.
+generative_summary: >-
+  Discover Yama Sushi & Grill in Mission Viejo, CA$$$Yama Sushi & Grill in
+  Mission Viejo, CA, stands out as a welcoming spot for enjoying fresh Japanese
+  cuisine with scenic lake views that enhance the dining atmosphere. This sushi
+  restaurant specializes in flavorful baked langostino rolls, premium sake
+  selections, and a variety of other authentic Japanese dishes, making it a
+  go-to choice for those seeking sushi restaurants in the area. The location's
+  accessibility features, such as wheelchair-friendly parking and entrances,
+  ensure a comfortable visit for all guests looking for top-rated sushi
+  experiences nearby. Patrons can savor the blend of traditional flavors and
+  modern presentation, creating a relaxed setting ideal for casual meals or
+  special occasions. Whether you're exploring sushi places near me or craving a
+  taste of Japanese fare, this establishment delivers a memorable blend of
+  quality and ambiance.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying About Yama Sushi & Grill$$$Folks heading to this spot
+  often highlight the fresh and creative sushi rolls as a standout feature,
+  making it a solid pick for anyone in the mood for reliable Japanese eats. Many
+  appreciate the inviting vibe and thoughtful touches like the lake views, which
+  add a nice touch to the overall experience without overwhelming the meal.
+  While some mention it's a great place for groups or a quick bite, others note
+  that the portions feel generous and the flavors hit the spot for everyday
+  diners. Overall, it's clear that visitors enjoy the straightforward approach
+  to service and food quality, keeping things positive for those searching for
+  best sushi near me. Though experiences can vary, the general buzz leans toward
+  it being a dependable choice for casual sushi lovers in the neighborhood.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +251,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -5,4 +5,5 @@ permalink: /florida/jacksonville/
 stateAbbr: FL
 stateName: Florida
 cityName: Jacksonville
+
 ---

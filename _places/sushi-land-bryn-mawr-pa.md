@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Land"
+title: Sushi Land
 permalink: /pennsylvania/bryn-mawr/sushi-land.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Bryn Mawr
 seo:
-  name: "Sushi Land"
-  type: Restaurant
+  type: restaurant
   links: http://www.sushiland.us/
-description: "Popular, BYOB Japanese restaurant serving a variety of sushi, rolls & more in basic surroundings. Sushi Land serves delicious sushi in Bryn Mawr, Pennsylvania. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJV9g8-_S_xokRspis9BTjVYE
 photos:
   - name: >-
@@ -183,6 +181,29 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 0
 website: http://www.sushiland.us/
+description: >-
+  Discover Sushi Land in Bryn Mawr, PA$$$Sushi Land in Bryn Mawr, PA, stands out
+  as a welcoming spot for enjoying fresh Japanese cuisine, featuring an array of
+  raw and cooked seafood dishes in a cozy atmosphere. This sushi restaurant
+  offers a variety of rolls and options that cater to different tastes, making
+  it a go-to choice for anyone seeking quality Japanese dining near the area.
+  With its moderate pricing and BYOB policy, it's an accessible option for
+  casual meals or gatherings, enhanced by thoughtful amenities like
+  wheelchair-accessible parking and restrooms. The focus on simple yet inviting
+  surroundings ensures a comfortable experience, ideal for those exploring
+  top-rated sushi spots in the region.
+generative_summary: >-
+  Discover Sushi Land in Bryn Mawr, PA$$$Sushi Land in Bryn Mawr, PA, stands out
+  as a welcoming spot for enjoying fresh Japanese cuisine, featuring an array of
+  raw and cooked seafood dishes in a cozy atmosphere. This sushi restaurant
+  offers a variety of rolls and options that cater to different tastes, making
+  it a go-to choice for anyone seeking quality Japanese dining near the area.
+  With its moderate pricing and BYOB policy, it's an accessible option for
+  casual meals or gatherings, enhanced by thoughtful amenities like
+  wheelchair-accessible parking and restrooms. The focus on simple yet inviting
+  surroundings ensures a comfortable experience, ideal for those exploring
+  top-rated sushi spots in the region.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJV9g8-_S_xokRspis9BTjVYE/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3MDZLZVpREAE
@@ -350,6 +371,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURoMTRLaUxnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURoMTRLaUxnEAE!2m1!1s0x89c6bff4fb3cd857:0x8155e314f4ac98b2
+review_summary: >-
+  What Customers Are Saying$$$Visitors consistently praise the fresh flavors and
+  great value at this sushi spot, highlighting how the dishes deliver a
+  satisfying mix of quality and affordability that keeps them coming back. Many
+  appreciate the friendly service and clean environment, which add to the
+  overall enjoyable dining experience without any major drawbacks. Feedback
+  often notes the reasonable prices and generous portions, making it a solid
+  pick for anyone hunting for reliable Japanese places nearby. While some
+  mention it's more about the food than the ambiance, the consensus leans
+  positive, with plenty of recommendations for both dine-in and takeout options
+  that make it a favorite among sushi enthusiasts. Overall, it's a dependable
+  choice for tasty meals that hit the spot without breaking the bank.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options:
   acceptsCreditCards: true
@@ -379,8 +413,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Popular, BYOB Japanese restaurant serving a variety of sushi, rolls & more in
   basic surroundings.
 

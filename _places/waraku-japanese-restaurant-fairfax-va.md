@@ -1,15 +1,14 @@
 ---
 layout: place
-title: "Waraku Japanese Restaurant"
+title: Waraku Japanese Restaurant
 permalink: /virginia/fairfax/waraku-japanese-restaurant.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Fairfax
 seo:
-  name: "Waraku Japanese Restaurant"
-  type: Restaurant
-  links: https://order.toasttab.com/online/waraku-japanese-restaurant-9539-braddock-rd
-description: "A menu of ramen & small plates Japanese fare in a modern, rustic setting with a sake & shochu menu. Waraku Japanese Restaurant serves delicious sushi in Fairfax, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
+  type: restaurant
+  links: >-
+    https://order.toasttab.com/online/waraku-japanese-restaurant-9539-braddock-rd
 place_id: ChIJh61VM_VNtokR1YXkjBjBMC8
 photos:
   - name: >-
@@ -185,6 +184,31 @@ price_range: $20 &ndash; $30
 rating: '4.1'
 rating_count: 0
 website: https://order.toasttab.com/online/waraku-japanese-restaurant-9539-braddock-rd
+description: >-
+  Explore Waraku Japanese Restaurant$$$Waraku Japanese Restaurant in Fairfax,
+  VA, offers a casual dining experience with a focus on authentic Japanese
+  flavors, featuring fresh sushi rolls and hearty ramen dishes that appeal to
+  those seeking quality sushi options nearby. The restaurant boasts a modern yet
+  rustic ambiance, complemented by a selection of sake and shochu to enhance
+  your meal, making it a go-to spot for flavorful Japanese cuisine in a
+  welcoming setting. Accessibility features like wheelchair-friendly parking and
+  entrances add to its appeal for all visitors, ensuring everyone can enjoy the
+  diverse menu without hassle. With options for takeout and dine-in, it's an
+  ideal choice for those exploring sushi restaurants in the area, providing a
+  balance of tradition and convenience.
+generative_summary: >-
+  Explore Waraku Japanese Restaurant$$$Waraku Japanese Restaurant in Fairfax,
+  VA, offers a casual dining experience with a focus on authentic Japanese
+  flavors, featuring fresh sushi rolls and hearty ramen dishes that appeal to
+  those seeking quality sushi options nearby. The restaurant boasts a modern yet
+  rustic ambiance, complemented by a selection of sake and shochu to enhance
+  your meal, making it a go-to spot for flavorful Japanese cuisine in a
+  welcoming setting. Accessibility features like wheelchair-friendly parking and
+  entrances add to its appeal for all visitors, ensuring everyone can enjoy the
+  diverse menu without hassle. With options for takeout and dine-in, it's an
+  ideal choice for those exploring sushi restaurants in the area, providing a
+  balance of tradition and convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJh61VM_VNtokR1YXkjBjBMC8/reviews/ChdDSUhNMG9nS0VJQ0FnSUN2OHIzRzJ3RRAB
@@ -436,6 +460,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURQelBMQW9RRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURQelBMQW9RRRAB!2m1!1s0x89b64df53355ad87:0x2f30c1188ce485d5
+review_summary: >-
+  Insights from Customer Feedback$$$Visitors often rave about the fresh and
+  authentic sushi rolls at this spot, highlighting how the generous portions and
+  reasonable prices make it a solid pick for affordable lunches or takeout
+  meals. Many appreciate the flavorful fried rice packed with plenty of meat,
+  along with details like good ginger that add a nice touch to the overall
+  experience. While a few mentions note occasional issues with orders, like
+  missing sides, the general consensus leans positive, emphasizing reliable
+  quality and value that keeps folks coming back. Overall, it's a great option
+  for anyone hunting for top-rated sushi nearby, offering a straightforward and
+  satisfying vibe that honestly delivers on everyday dining needs.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -468,8 +504,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   A menu of ramen & small plates Japanese fare in a modern, rustic setting with
   a sake & shochu menu.
 

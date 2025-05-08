@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sapporo East"
+title: Sapporo East
 permalink: /pennsylvania/mechanicsburg/sapporo-east.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Mechanicsburg
 seo:
-  name: "Sapporo East"
-  type: Restaurant
+  type: restaurant
   links: http://www.sapporoeastsushi.com/
-description: "Outpost of a small Japanese-food chain offering sushi, hibachi dishes, teriyaki & tempura. Sapporo East serves delicious sushi in Mechanicsburg, Pennsylvania. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJt5YAUGDCyIkRnIZE8ymIXpI
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 0
 website: http://www.sapporoeastsushi.com/
+description: >-
+  Discover Sapporo East in Mechanicsburg, PA$$$Sapporo East in Mechanicsburg,
+  PA, stands out as a welcoming hub for Japanese dining, blending time-honored
+  traditions with innovative flavors that appeal to sushi enthusiasts. This spot
+  offers a variety of fresh sushi rolls and classic dishes, making it a go-to
+  choice for anyone exploring Japanese places near me in a relaxed setting. With
+  accessible features like wheelchair-friendly entrances and moderate pricing,
+  it's designed for comfortable visits whether you're dining in or grabbing
+  takeout. The menu highlights creative takes on teriyaki and tempura alongside
+  fresh seafood options, drawing in those seeking top-rated sushi experiences.
+  Overall, it's a reliable destination for authentic yet modern Japanese fare
+  that keeps locals coming back for its inviting atmosphere and thoughtful
+  details.
+generative_summary: >-
+  Discover Sapporo East in Mechanicsburg, PA$$$Sapporo East in Mechanicsburg,
+  PA, stands out as a welcoming hub for Japanese dining, blending time-honored
+  traditions with innovative flavors that appeal to sushi enthusiasts. This spot
+  offers a variety of fresh sushi rolls and classic dishes, making it a go-to
+  choice for anyone exploring Japanese places near me in a relaxed setting. With
+  accessible features like wheelchair-friendly entrances and moderate pricing,
+  it's designed for comfortable visits whether you're dining in or grabbing
+  takeout. The menu highlights creative takes on teriyaki and tempura alongside
+  fresh seafood options, drawing in those seeking top-rated sushi experiences.
+  Overall, it's a reliable destination for authentic yet modern Japanese fare
+  that keeps locals coming back for its inviting atmosphere and thoughtful
+  details.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJt5YAUGDCyIkRnIZE8ymIXpI/reviews/ChdDSUhNMG9nS0VJQ0FnSURYOTlLb3lBRRAB
@@ -382,6 +407,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURUcVpEWVFREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURUcVpEWVFREAE!2m1!1s0x89c8c260500096b7:0x925e8829f344869c
+review_summary: >-
+  What Customers Are Saying About the Experience$$$Visitors often rave about the
+  fresh and flavorful sushi at this spot, noting how it consistently delivers on
+  taste and quality for a satisfying meal. Many appreciate the friendly service
+  and welcoming vibe that make every visit feel personal and enjoyable, turning
+  it into a favorite for casual outings or quick bites. While some feedback
+  mentions average experiences during busier times, the overall consensus leans
+  positive, with folks highlighting the attentive staff and generous portions
+  that enhance the dining adventure. If you're hunting for sushi restaurants
+  near me, this place shines for its inventive rolls and solid value,
+  encouraging repeat trips for families and groups alike. In essence, it's a
+  solid pick for anyone craving reliable Japanese cuisine with a touch of warmth
+  and reliability.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -413,8 +452,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Outpost of a small Japanese-food chain offering sushi, hibachi dishes,
   teriyaki & tempura.
 

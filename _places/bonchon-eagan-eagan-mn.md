@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Bonchon Eagan"
+title: Bonchon Eagan
 permalink: /minnesota/eagan/bonchon-eagan.html
 stateAbbr: MN
 stateName: Minnesota
 cityName: Eagan
 seo:
-  name: "Bonchon Eagan"
-  type: Restaurant
-  links: null
-description: "Bonchon Eagan serves delicious sushi in Eagan, Minnesota. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://locations.bonchon.com/ll/US/MN/Eagan/1348-Town-Centre-Dr
 place_id: ChIJmeCG_jEt9ocRYnl5TvRmLj0
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x87f62d31fe86e099:0x3d2e66f44e797962!10e5
 primary_type: Asian Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:30 PM'
+    - 'Tuesday: 11:00 AM – 9:30 PM'
+    - 'Wednesday: 11:00 AM – 9:30 PM'
+    - 'Thursday: 11:00 AM – 9:30 PM'
+    - 'Friday: 11:00 AM – 9:30 PM'
+    - 'Saturday: 11:00 AM – 9:30 PM'
+    - 'Sunday: 11:00 AM – 9:30 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,51 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (651) 360-1888
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.4'
+rating_count: 424
+website: https://locations.bonchon.com/ll/US/MN/Eagan/1348-Town-Centre-Dr
+description: >-
+  Discover Bonchon in Eagan, MN$$$Bonchon Eagan in Eagan, MN, stands out as a
+  casual Asian eatery renowned for its flavorful Korean-inspired dishes and
+  welcoming vibe. This spot delights visitors with crispy fried chicken, hearty
+  bibimbap, and inventive Korean tacos, complemented by a selection of beer and
+  wine for a well-rounded meal. The restaurant boasts accessibility features
+  like wheelchair-friendly parking and entrances, making it easy for everyone to
+  enjoy a comfortable dining experience. With daily hours from 11:00 AM to 9:30
+  PM, it's a convenient choice for those seeking Asian restaurants near me that
+  blend tradition with everyday accessibility. Its vibrant atmosphere and
+  moderate pricing add to the appeal for anyone exploring top-rated Asian dining
+  options in the area.
+generative_summary: >-
+  Discover Bonchon in Eagan, MN$$$Bonchon Eagan in Eagan, MN, stands out as a
+  casual Asian eatery renowned for its flavorful Korean-inspired dishes and
+  welcoming vibe. This spot delights visitors with crispy fried chicken, hearty
+  bibimbap, and inventive Korean tacos, complemented by a selection of beer and
+  wine for a well-rounded meal. The restaurant boasts accessibility features
+  like wheelchair-friendly parking and entrances, making it easy for everyone to
+  enjoy a comfortable dining experience. With daily hours from 11:00 AM to 9:30
+  PM, it's a convenient choice for those seeking Asian restaurants near me that
+  blend tradition with everyday accessibility. Its vibrant atmosphere and
+  moderate pricing add to the appeal for anyone exploring top-rated Asian dining
+  options in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Raving About$$$Visitors to this Asian fusion spot often
+  praise the mouthwatering soy garlic wings and spicy chicken, noting how they
+  deliver a perfect balance of flavors that keep diners coming back. Many
+  highlight the efficient and friendly service that makes every meal feel
+  effortless and enjoyable, along with the clean, bright setting that enhances
+  the overall vibe. Folks appreciate the solid portions of dishes like fried
+  rice, which add to the satisfying experience without overwhelming the wallet.
+  While some mention that the prices lean toward the higher side, it's generally
+  seen as worthwhile for the quality and taste you get. Overall, it's a go-to
+  for anyone hunting for reliable Asian eats nearby, with the positives far
+  outweighing any minor drawbacks.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +312,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

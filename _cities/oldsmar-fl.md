@@ -5,4 +5,5 @@ permalink: /florida/oldsmar/
 stateAbbr: FL
 stateName: Florida
 cityName: Oldsmar
+
 ---

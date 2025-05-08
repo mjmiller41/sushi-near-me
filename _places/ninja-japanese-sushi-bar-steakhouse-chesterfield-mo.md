@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ninja Japanese Sushi Bar & Steakhouse"
+title: Ninja Japanese Sushi Bar & Steakhouse
 permalink: /missouri/chesterfield/ninja-japanese-sushi-bar-steakhouse.html
 stateAbbr: MO
 stateName: Missouri
 cityName: Chesterfield
 seo:
-  name: "Ninja Japanese Sushi Bar & Steakhouse"
-  type: Restaurant
-  links: null
-description: "Ninja Japanese Sushi Bar & Steakhouse serves delicious sushi in Chesterfield, Missouri. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://ninjasushihouse.com/
 place_id: ChIJO7UVbYvV2IcRGEw0pxjmYkc
 photos:
   - name: >-
@@ -170,8 +168,113 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x87d8d58b6d15b53b:0x4762e618a7344c18!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 2:00 PM, 4:00 – 9:30 PM'
+    - 'Tuesday: 11:00 AM – 2:00 PM, 4:00 – 9:30 PM'
+    - 'Wednesday: 11:00 AM – 2:00 PM, 4:00 – 9:30 PM'
+    - 'Thursday: 11:00 AM – 2:00 PM, 4:00 – 9:30 PM'
+    - 'Friday: 11:00 AM – 2:00 PM, 4:00 – 10:30 PM'
+    - 'Saturday: 12:00 – 10:30 PM'
+    - 'Sunday: 12:00 – 9:30 PM'
+  nextCloseTime: '2025-05-04T03:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +282,48 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (636) 778-3000
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.3'
+rating_count: 478
+website: http://ninjasushihouse.com/
+description: >-
+  Discover Ninja Japanese Sushi Bar in Chesterfield, MO$$$Ninja Japanese Sushi
+  Bar & Steakhouse in Chesterfield, MO, offers a casual dining experience
+  focused on authentic Japanese flavors that appeal to sushi enthusiasts. This
+  spot features fresh sushi rolls and savory steak dishes, complemented by
+  lively hibachi grills where chefs create an engaging atmosphere. For those
+  seeking top-rated Japanese places near you, the menu highlights a variety of
+  options that blend traditional tastes with entertaining presentations, making
+  it a standout choice among local sushi restaurants. The restaurant's
+  accessibility features and moderate pricing add to its appeal for everyday
+  visits or special occasions.
+generative_summary: >-
+  Discover Ninja Japanese Sushi Bar in Chesterfield, MO$$$Ninja Japanese Sushi
+  Bar & Steakhouse in Chesterfield, MO, offers a casual dining experience
+  focused on authentic Japanese flavors that appeal to sushi enthusiasts. This
+  spot features fresh sushi rolls and savory steak dishes, complemented by
+  lively hibachi grills where chefs create an engaging atmosphere. For those
+  seeking top-rated Japanese places near you, the menu highlights a variety of
+  options that blend traditional tastes with entertaining presentations, making
+  it a standout choice among local sushi restaurants. The restaurant's
+  accessibility features and moderate pricing add to its appeal for everyday
+  visits or special occasions.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Buzzing About$$$Visitors often praise the delicious hibachi
+  selections at this spot, with hearty portions of steak, chicken, and seafood
+  that make for a satisfying meal. The sushi stands out as a fresh and flavorful
+  favorite, drawing in folks who love exploring new Japanese eats close to home.
+  Many highlight the fun vibe from the chefs and the wallet-friendly prices,
+  making it a great pick for family outings or group gatherings. While a few
+  mentions note that service can occasionally fall short, the overall experience
+  remains enjoyable and worth trying for anyone craving reliable, tasty dishes.
+  If you're on the hunt for the best sushi near me, this place delivers solid
+  vibes with its generous offerings and welcoming feel.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +349,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

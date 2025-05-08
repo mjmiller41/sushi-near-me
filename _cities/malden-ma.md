@@ -5,4 +5,5 @@ permalink: /massachusetts/malden/
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Malden
+
 ---

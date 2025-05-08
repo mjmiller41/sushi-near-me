@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kai Sushi & Sake Bar"
+title: Kai Sushi & Sake Bar
 permalink: /north-carolina/raleigh/kai-sushi-sake-bar.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Raleigh
 seo:
-  name: "Kai Sushi & Sake Bar"
-  type: Restaurant
+  type: restaurant
   links: http://kaisushisakebar.com/
-description: "Low-key restaurant for specialty sushi rolls, plus a variety of Japanese & Korean entrees. Kai Sushi & Sake Bar serves delicious sushi in Raleigh, North Carolina. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJwe_MrOP3rIkRkzWAFA26Kt8
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 0
 website: http://kaisushisakebar.com/
+description: >-
+  Discover Kai Sushi & Sake Bar in Raleigh, NC$$$Kai Sushi & Sake Bar in
+  Raleigh, NC, stands out as a welcoming spot for enjoying fresh sushi rolls and
+  flavorful Japanese dishes in a relaxed setting. This cozy restaurant features
+  a selection of specialty rolls, hibachi options, and other authentic entrees,
+  complemented by a full bar that enhances the dining experience. With
+  thoughtful accessibility features like wheelchair-friendly entrances and
+  seating, it caters to a wide range of guests seeking quality sushi restaurants
+  near me. The atmosphere combines casual vibes with modern touches, making it
+  an ideal choice for anyone exploring top-rated sushi in the area. Whether
+  you're in the mood for a quick meal or a leisurely dinner, this Japanese place
+  near me offers a satisfying blend of taste and convenience.
+generative_summary: >-
+  Discover Kai Sushi & Sake Bar in Raleigh, NC$$$Kai Sushi & Sake Bar in
+  Raleigh, NC, stands out as a welcoming spot for enjoying fresh sushi rolls and
+  flavorful Japanese dishes in a relaxed setting. This cozy restaurant features
+  a selection of specialty rolls, hibachi options, and other authentic entrees,
+  complemented by a full bar that enhances the dining experience. With
+  thoughtful accessibility features like wheelchair-friendly entrances and
+  seating, it caters to a wide range of guests seeking quality sushi restaurants
+  near me. The atmosphere combines casual vibes with modern touches, making it
+  an ideal choice for anyone exploring top-rated sushi in the area. Whether
+  you're in the mood for a quick meal or a leisurely dinner, this Japanese place
+  near me offers a satisfying blend of taste and convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJwe_MrOP3rIkRkzWAFA26Kt8/reviews/ChdDSUhNMG9nS0VJQ0FnSURINUpxSXNRRRAB
@@ -342,6 +365,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURlcjV5UU5BEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURlcjV5UU5BEAE!2m1!1s0x89acf7e3acccefc1:0xdf2aba0d14803593
+review_summary: >-
+  What Visitors Say About This Raleigh Sushi Spot$$$Folks who dine at this
+  popular sushi spot in Raleigh often rave about the delicious rolls and fresh
+  ingredients that make every bite memorable, creating a generally positive vibe
+  for sushi enthusiasts. While some mention occasional waits during busy times,
+  the friendly service and reasonable prices keep things enjoyable and worth the
+  visit. A few diners note that the atmosphere is clean and inviting, with
+  options that suit groups or families looking for a casual night out. Overall,
+  it's praised as one of the best sushi places near me for its variety and quick
+  preparation, though improvements in seating arrangements could enhance the
+  experience for everyone. If you're searching for top-rated sushi close to me,
+  this spot delivers solid flavors and a welcoming feel that keeps customers
+  coming back.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -374,8 +411,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Low-key restaurant for specialty sushi rolls, plus a variety of Japanese &
   Korean entrees.
 

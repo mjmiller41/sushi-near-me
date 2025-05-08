@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Woow Sushi"
+title: Woow Sushi
 permalink: /illinois/algonquin/woow-sushi.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Algonquin
 seo:
-  name: "Woow Sushi"
-  type: Restaurant
-  links: null
-description: "Woow Sushi serves delicious sushi in Algonquin, Illinois. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.woowsushiil.com/
 place_id: ChIJBejGThISD4gRumKsPh8NO_0
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x880f12124ec6e805:0xfd3b0d1f3eac62ba!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:30 PM'
+    - 'Tuesday: 11:00 AM – 9:30 PM'
+    - 'Wednesday: 11:00 AM – 9:30 PM'
+    - 'Thursday: 11:00 AM – 9:30 PM'
+    - 'Friday: 11:00 AM – 10:30 PM'
+    - 'Saturday: 11:00 AM – 10:30 PM'
+    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T03:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,53 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (847) 458-5211
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.3'
+rating_count: 890
+website: http://www.woowsushiil.com/
+description: >-
+  Overview of Woow Sushi in Algonquin, IL$$$Woow Sushi in Algonquin, IL, stands
+  out as a welcoming spot for enjoying fresh Japanese flavors, particularly its
+  array of expertly crafted sushi rolls and dishes that highlight quality
+  ingredients. This sushi restaurant offers a comfortable dining experience with
+  accessibility features like wheelchair-friendly parking and entrances, making
+  it easy for everyone to savor a meal. Patrons can explore a variety of options
+  that cater to those seeking sushi near me, with a focus on moderately priced
+  meals that deliver great value without compromising taste. The spot's inviting
+  atmosphere, evident from its vibrant photos, adds to the appeal for anyone
+  looking for top-rated sushi restaurants in the area. Open throughout the week
+  with extended hours on weekends, it's an ideal choice for casual lunches or
+  evening outings dedicated to Japanese cuisine.
+generative_summary: >-
+  Overview of Woow Sushi in Algonquin, IL$$$Woow Sushi in Algonquin, IL, stands
+  out as a welcoming spot for enjoying fresh Japanese flavors, particularly its
+  array of expertly crafted sushi rolls and dishes that highlight quality
+  ingredients. This sushi restaurant offers a comfortable dining experience with
+  accessibility features like wheelchair-friendly parking and entrances, making
+  it easy for everyone to savor a meal. Patrons can explore a variety of options
+  that cater to those seeking sushi near me, with a focus on moderately priced
+  meals that deliver great value without compromising taste. The spot's inviting
+  atmosphere, evident from its vibrant photos, adds to the appeal for anyone
+  looking for top-rated sushi restaurants in the area. Open throughout the week
+  with extended hours on weekends, it's an ideal choice for casual lunches or
+  evening outings dedicated to Japanese cuisine.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Feedback on Woow Sushi Experiences$$$Folks generally rave about the fresh and
+  flavorful sushi selections here, often noting how the dishes exceed
+  expectations for quality and presentation in a laid-back setting. Many
+  appreciate the solid value for the price, with comments highlighting generous
+  portions and a welcoming vibe that makes it great for groups or quick visits.
+  While some mention occasional waits during peak times, the overall consensus
+  leans positive, praising the consistent taste and variety that keeps diners
+  coming back. It's clear that visitors enjoy the approachable service and
+  authentic flavors, making this a reliable pick for anyone hunting for sushi
+  close to me. All in all, the high rating reflects a spot that's earned its
+  reputation as a go-to Japanese place near me for satisfying meals.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +314,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

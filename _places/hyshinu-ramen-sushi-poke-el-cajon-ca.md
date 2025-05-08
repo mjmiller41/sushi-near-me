@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Hyshinu Ramen, Sushi & Poke"
+title: Hyshinu Ramen, Sushi & Poke
 permalink: /california/el-cajon/hyshinu-ramen-sushi-poke.html
 stateAbbr: CA
 stateName: California
 cityName: El Cajon
 seo:
-  name: "Hyshinu Ramen, Sushi & Poke"
-  type: Restaurant
+  type: restaurant
   links: https://www.hyshinuramen.com/
-description: "Hyshinu Ramen, Sushi & Poke serves delicious sushi in El Cajon, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJiTBfW71b2YARzmVcjurlAkI
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $10 &ndash; $20
 rating: '4.2'
 rating_count: 0
 website: https://www.hyshinuramen.com/
+description: >-
+  Explore Hyshinu in El Cajon$$$Hyshinu Ramen, Sushi & Poke in El Cajon, CA,
+  offers a relaxed dining experience at the Rancho San Diego Towne Center, where
+  you can savor a mix of flavorful ramen, fresh sushi, and vibrant poke bowls.
+  This spot stands out for its accessible features, including
+  wheelchair-friendly parking, entrances, and seating, making it welcoming for
+  all visitors seeking Japanese-inspired cuisine. The menu highlights a variety
+  of dishes that blend traditional flavors with casual vibes, perfect for those
+  exploring sushi restaurants in the area. With options for outdoor seating and
+  a focus on moderately priced meals, it's an ideal choice for anyone hunting
+  for top-rated sushi near El Cajon. Whether you're in the mood for a quick poke
+  bowl or a hearty ramen fix, this eatery delivers a comfortable atmosphere that
+  complements its diverse offerings.
+generative_summary: >-
+  Explore Hyshinu in El Cajon$$$Hyshinu Ramen, Sushi & Poke in El Cajon, CA,
+  offers a relaxed dining experience at the Rancho San Diego Towne Center, where
+  you can savor a mix of flavorful ramen, fresh sushi, and vibrant poke bowls.
+  This spot stands out for its accessible features, including
+  wheelchair-friendly parking, entrances, and seating, making it welcoming for
+  all visitors seeking Japanese-inspired cuisine. The menu highlights a variety
+  of dishes that blend traditional flavors with casual vibes, perfect for those
+  exploring sushi restaurants in the area. With options for outdoor seating and
+  a focus on moderately priced meals, it's an ideal choice for anyone hunting
+  for top-rated sushi near El Cajon. Whether you're in the mood for a quick poke
+  bowl or a hearty ramen fix, this eatery delivers a comfortable atmosphere that
+  complements its diverse offerings.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJiTBfW71b2YARzmVcjurlAkI/reviews/ChZDSUhNMG9nS0VJQ0FnSUNid3ZHdkxREAE
@@ -368,6 +393,21 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURGcG9QNTB3RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURGcG9QNTB3RRAB!2m1!1s0x80d95bbd5b5f3089:0x4202e5ea8e5c65ce
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors to Hyshinu often appreciate the
+  flavorful ramen and sushi options, with many highlighting the tasty broths and
+  fresh ingredients that make for a satisfying meal. While some folks note that
+  certain dishes could use a bit more spice or crunch to hit the mark, the
+  overall experience tends to be solid for those stopping by for a casual bite.
+  Feedback suggests the service is efficient, especially for quick refills and
+  food delivery, though a few mention it feels more streamlined like fast dining
+  rather than full-table attention. On the positive side, the variety keeps
+  things interesting for groups or families, and despite occasional
+  inconsistencies, it's generally seen as a worthwhile spot for affordable
+  Japanese eats. If you're on the hunt for sushi places near you, this location
+  earns praise for its approachable vibe and reliable hits, making it a go-to
+  option worth trying.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -400,7 +440,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Bluebei Sushi & Grill"
+title: Bluebei Sushi & Grill
 permalink: /nevada/las-vegas/bluebei-sushi-grill.html
 stateAbbr: NV
 stateName: Nevada
 cityName: Las Vegas
 seo:
-  name: "Bluebei Sushi & Grill"
-  type: Restaurant
+  type: restaurant
   links: http://bluebeisushi.com/
-description: "Bluebei Sushi & Grill serves delicious sushi in Las Vegas, Nevada. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ8WxBwPXJyIARJ8CJ79NCYy0
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c8c9f5c0416cf1:0x2d6342d3ef89c027!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 12
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 12
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 12
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 12
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 12:00 – 10:00 PM'
     - 'Wednesday: 12:00 – 10:00 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 12:00 – 10:00 PM'
     - 'Saturday: 12:00 – 10:00 PM'
     - 'Sunday: 12:00 – 10:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 12:00 – 10:00 PM'
-    - 'Wednesday: 12:00 – 10:00 PM'
-    - 'Thursday: 12:00 – 10:00 PM'
-    - 'Friday: 12:00 – 10:00 PM'
-    - 'Saturday: 12:00 – 10:00 PM'
-    - 'Sunday: 12:00 – 10:00 PM'
+  nextCloseTime: '2025-05-04T05:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +238,264 @@ phone: (702) 384-0275
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.7'
-rating_count: 0
+rating_count: 315
 website: http://bluebeisushi.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Explore Bluebei Sushi & Grill in Las Vegas, NV$$$Nestled in Las Vegas, NV,
+  Bluebei Sushi & Grill offers a welcoming spot for those seeking top-rated
+  sushi near you, blending casual vibes with an array of fresh Japanese flavors.
+  This unfussy restaurant features an extensive selection of specialty rolls and
+  classic staples, making it a go-to choice for anyone craving authentic sushi
+  experiences in a relaxed setting. With options like creative cocktails and
+  beer to complement your meal, it's ideal for casual dinners or happy hour
+  gatherings. The spot emphasizes accessibility and comfort, ensuring everyone
+  can enjoy its moderately priced menu without hassle. Whether you're exploring
+  sushi places near me or looking for a break from the city's hustle, this
+  location delivers a satisfying blend of quality and convenience.
+generative_summary: >-
+  Explore Bluebei Sushi & Grill in Las Vegas, NV$$$Nestled in Las Vegas, NV,
+  Bluebei Sushi & Grill offers a welcoming spot for those seeking top-rated
+  sushi near you, blending casual vibes with an array of fresh Japanese flavors.
+  This unfussy restaurant features an extensive selection of specialty rolls and
+  classic staples, making it a go-to choice for anyone craving authentic sushi
+  experiences in a relaxed setting. With options like creative cocktails and
+  beer to complement your meal, it's ideal for casual dinners or happy hour
+  gatherings. The spot emphasizes accessibility and comfort, ensuring everyone
+  can enjoy its moderately priced menu without hassle. Whether you're exploring
+  sushi places near me or looking for a break from the city's hustle, this
+  location delivers a satisfying blend of quality and convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ8WxBwPXJyIARJ8CJ79NCYy0/reviews/ChZDSUhNMG9nS0VJQ0FnTURJeTdMUkh3EAE
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        Just moved into the neighborhood and wanted to find a good sushi
+        restaurant and found it immediately. The sushi here is tasty and fresh.
+        Everything I’ve had here has been fantastic. Portions are big and prices
+        are fair. Daily happy hour menu as well.
+      languageCode: en
+    originalText:
+      text: >-
+        Just moved into the neighborhood and wanted to find a good sushi
+        restaurant and found it immediately. The sushi here is tasty and fresh.
+        Everything I’ve had here has been fantastic. Portions are big and prices
+        are fair. Daily happy hour menu as well.
+      languageCode: en
+    authorAttribution:
+      displayName: Bryan Jones
+      uri: https://www.google.com/maps/contrib/116050136827171134304/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKD3dPJoKYbFSrOA9bZWvVeOCiEmEeGztVpb_OB4uxCQr8NqKs=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-13T02:45:55.188709Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURJeTdMUkh3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJeTdMUkh3EAE!2m1!1s0x80c8c9f5c0416cf1:0x2d6342d3ef89c027
+  - name: >-
+      places/ChIJ8WxBwPXJyIARJ8CJ79NCYy0/reviews/ChdDSUhNMG9nS0VJQ0FnTUNBNV9TMnB3RRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        Truly authentic Japanese cuisine! The sushi featured high-quality fish,
+        reminiscent of the fresh flavors back home in Hawaii. The tuna melted in
+        my mouth, and the yellowtail was incredibly fresh. The tempura was
+        perfectly crispy—light and golden. We also enjoyed the spicy miso soup,
+        which was packed with bold, comforting flavors. The hot sake was the
+        perfect companion during this chilly season. This place is a gem in the
+        neighborhood, offering a calming atmosphere and a fantastic dining
+        experience. 🤤
+      languageCode: en
+    originalText:
+      text: >-
+        Truly authentic Japanese cuisine! The sushi featured high-quality fish,
+        reminiscent of the fresh flavors back home in Hawaii. The tuna melted in
+        my mouth, and the yellowtail was incredibly fresh. The tempura was
+        perfectly crispy—light and golden. We also enjoyed the spicy miso soup,
+        which was packed with bold, comforting flavors. The hot sake was the
+        perfect companion during this chilly season. This place is a gem in the
+        neighborhood, offering a calming atmosphere and a fantastic dining
+        experience. 🤤
+      languageCode: en
+    authorAttribution:
+      displayName: Moani Ann
+      uri: https://www.google.com/maps/contrib/103483852988250359246/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjX1x3WkNRB-XpQkJK3cwge56_RjPkgUolrfKC1k04N6hD9AmLGN=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-02-05T02:59:55.060994Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNBNV9TMnB3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNBNV9TMnB3RRAB!2m1!1s0x80c8c9f5c0416cf1:0x2d6342d3ef89c027
+  - name: >-
+      places/ChIJ8WxBwPXJyIARJ8CJ79NCYy0/reviews/ChZDSUhNMG9nS0VJQ0FnSURQM1phcUlnEAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        A quick stop on the way through Vegas. Nice, comfy and dark sushi place
+        far off the strip. Good portions, extensive selection and a photo-laden
+        menu were great.
+      languageCode: en
+    originalText:
+      text: >-
+        A quick stop on the way through Vegas. Nice, comfy and dark sushi place
+        far off the strip. Good portions, extensive selection and a photo-laden
+        menu were great.
+      languageCode: en
+    authorAttribution:
+      displayName: Ryan Lackey
+      uri: https://www.google.com/maps/contrib/103773330699956362379/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWDaew5nn8eGF6aqN2Jq3bTiJ5ZfruOQkflaFeHFnpwnfUsWQHi=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-12-04T23:08:47.518921Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURQM1phcUlnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURQM1phcUlnEAE!2m1!1s0x80c8c9f5c0416cf1:0x2d6342d3ef89c027
+  - name: >-
+      places/ChIJ8WxBwPXJyIARJ8CJ79NCYy0/reviews/ChdDSUhNMG9nS0VJQ0FnSUNuX1BHUW1RRRAB
+    relativePublishTimeDescription: 7 months ago
+    rating: 4
+    text:
+      text: |-
+        The waiters were friendly enough
+        The food portion for price is okay.
+        The spicy garlic edamame was fantastic
+        The baked mussels were okay at 4 for $9
+        The chicken wings were underwhelming too at 4 for $11
+        I probably wouldn't come back, as the happy hour wasn't that cheap
+      languageCode: en
+    originalText:
+      text: |-
+        The waiters were friendly enough
+        The food portion for price is okay.
+        The spicy garlic edamame was fantastic
+        The baked mussels were okay at 4 for $9
+        The chicken wings were underwhelming too at 4 for $11
+        I probably wouldn't come back, as the happy hour wasn't that cheap
+      languageCode: en
+    authorAttribution:
+      displayName: Richard L
+      uri: https://www.google.com/maps/contrib/109231776901894992942/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXPmNjNdVChDfYu87dm4yYmNjP71HQ4lDgIgpOL_d7AfG7yeq9S6Q=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-09-24T01:59:26.879976Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNuX1BHUW1RRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNuX1BHUW1RRRAB!2m1!1s0x80c8c9f5c0416cf1:0x2d6342d3ef89c027
+  - name: >-
+      places/ChIJ8WxBwPXJyIARJ8CJ79NCYy0/reviews/ChZDSUhNMG9nS0VJQ0FnSUMxX012M053EAE
+    relativePublishTimeDescription: a year ago
+    rating: 4
+    text:
+      text: >-
+        I recently dined at Bluebei Sushi and Grill in Las Vegas and was
+        pleasantly delighted by the experience! The interior has a slightly
+        upscale decor with both tables and semi-booths. They have a sushi bar
+        offering a front-row seat to watch the skilled chefs artfully prepare
+        each dish. The menu is a fusion of traditional and innovative dishes,
+        featuring a wide variety of sushi and grill items. Each sushi roll I
+        tried was a fresh and full of flavor, highlighting the quality of
+        ingredients being used. The grill items were equally impressive, cooked
+        to perfection with a balance of spices and sauces that enhanced the
+        natural flavors.The serving dishes are also quite nice.
+
+
+        Pricing at Bluebei Sushi and Grill is reasonable considering the quality
+        of the food and the overall dining experience. It's a great value for
+        money, especially in a city like Las Vegas where dining can often be
+        quite expensive.
+
+
+        The service was great, our server was knowledgeable about the menu and
+        attentive without being intrusive. Overall, Bluebei Sushi a solid option
+        for anyone looking for sushi in Las Vegas.
+      languageCode: en
+    originalText:
+      text: >-
+        I recently dined at Bluebei Sushi and Grill in Las Vegas and was
+        pleasantly delighted by the experience! The interior has a slightly
+        upscale decor with both tables and semi-booths. They have a sushi bar
+        offering a front-row seat to watch the skilled chefs artfully prepare
+        each dish. The menu is a fusion of traditional and innovative dishes,
+        featuring a wide variety of sushi and grill items. Each sushi roll I
+        tried was a fresh and full of flavor, highlighting the quality of
+        ingredients being used. The grill items were equally impressive, cooked
+        to perfection with a balance of spices and sauces that enhanced the
+        natural flavors.The serving dishes are also quite nice.
+
+
+        Pricing at Bluebei Sushi and Grill is reasonable considering the quality
+        of the food and the overall dining experience. It's a great value for
+        money, especially in a city like Las Vegas where dining can often be
+        quite expensive.
+
+
+        The service was great, our server was knowledgeable about the menu and
+        attentive without being intrusive. Overall, Bluebei Sushi a solid option
+        for anyone looking for sushi in Las Vegas.
+      languageCode: en
+    authorAttribution:
+      displayName: Mike Shubic (Mike's Road Trip)
+      uri: https://www.google.com/maps/contrib/110379842993605540699/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXEyf55xfJhRVIQyGlzH0taiYq3gr4sdWaaxiQwjtQez3x_Dtg=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2023-12-25T17:42:58.291664Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUMxX012M053EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUMxX012M053EAE!2m1!1s0x80c8c9f5c0416cf1:0x2d6342d3ef89c027
+review_summary: >-
+  Insights from Recent Feedback$$$Folks generally rave about the fresh and
+  flavorful sushi at this spot, highlighting its generous portions and fair
+  pricing that make it a solid pick for everyday dining. Many appreciate the
+  authentic Japanese touches, like high-quality fish and tasty sides that bring
+  a comforting, homey feel to the table. While some appetizers didn't quite hit
+  the mark for everyone, the overall atmosphere and service keep things upbeat
+  and enjoyable. It's often noted as a great value, especially during happy
+  hour, drawing in those searching for reliable sushi restaurants close to home.
+  All in all, this place earns high marks for its welcoming vibe and dependable
+  meals, making it worth a visit if you're in the mood for something delicious.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
+curbside_pickup: true
 delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
+dine_in: true
+good_for_children: true
+good_for_groups: true
 good_for_sports: null
-live_music: null
+live_music: false
 menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
 serves_breakfast: null
 serves_brunch: null
-serves_cocktails: null
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Unfussy destination showcasing an extensive menu of sushi & other Japanese
+  dishes, plus happy hour.
 
 ---

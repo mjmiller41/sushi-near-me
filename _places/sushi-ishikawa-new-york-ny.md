@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Ishikawa"
+title: Sushi Ishikawa
 permalink: /new-york/new-york/sushi-ishikawa.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "Sushi Ishikawa"
-  type: Restaurant
-  links: null
-description: "Sushi Ishikawa serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.ishikawanyc.com/
 place_id: ChIJ9brg0cBYwokRxWwvwC-cG30
 photos:
   - name: >-
@@ -168,8 +166,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c258c0d1e0baf5:0x7d1b9c2fc02f6cc5!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 18
+        minute: 0
+      close:
+        day: 1
+        hour: 23
+        minute: 0
+    - open:
+        day: 2
+        hour: 18
+        minute: 0
+      close:
+        day: 2
+        hour: 23
+        minute: 0
+    - open:
+        day: 3
+        hour: 18
+        minute: 0
+      close:
+        day: 3
+        hour: 23
+        minute: 0
+    - open:
+        day: 4
+        hour: 18
+        minute: 0
+      close:
+        day: 4
+        hour: 23
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 6:00 – 11:00 PM'
+    - 'Tuesday: 6:00 – 11:00 PM'
+    - 'Wednesday: 6:00 – 11:00 PM'
+    - 'Thursday: 6:00 – 11:00 PM'
+    - 'Friday: 5:00 – 11:00 PM'
+    - 'Saturday: 5:00 – 11:00 PM'
+    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -177,13 +232,52 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (212) 651-7292
+price_level: PRICE_LEVEL_VERY_EXPENSIVE
+price_range: $100 &ndash; & up
+rating: '4.6'
+rating_count: 428
+website: http://www.ishikawanyc.com/
+description: >-
+  About Sushi Ishikawa in New York, NY$$$Sushi Ishikawa in New York, NY, is a
+  standout spot for those craving an elevated Japanese dining adventure,
+  blending tradition with creative twists. The restaurant specializes in an
+  omakase-style menu that highlights fresh, premium ingredients like wagyu beef
+  and luxurious additions such as caviar and truffles, creating a memorable
+  culinary journey. Diners can expect expertly crafted dishes that balance bold
+  flavors with subtle elegance, all within a cozy atmosphere perfect for
+  intimate meals. This establishment ranks among the top choices for sushi
+  enthusiasts exploring options in the bustling city, offering a refined
+  experience that appeals to anyone seeking quality Japanese cuisine nearby. Its
+  commitment to innovative yet authentic preparations makes it a go-to for
+  discerning palates looking for exceptional sushi dining.
+generative_summary: >-
+  About Sushi Ishikawa in New York, NY$$$Sushi Ishikawa in New York, NY, is a
+  standout spot for those craving an elevated Japanese dining adventure,
+  blending tradition with creative twists. The restaurant specializes in an
+  omakase-style menu that highlights fresh, premium ingredients like wagyu beef
+  and luxurious additions such as caviar and truffles, creating a memorable
+  culinary journey. Diners can expect expertly crafted dishes that balance bold
+  flavors with subtle elegance, all within a cozy atmosphere perfect for
+  intimate meals. This establishment ranks among the top choices for sushi
+  enthusiasts exploring options in the bustling city, offering a refined
+  experience that appeals to anyone seeking quality Japanese cuisine nearby. Its
+  commitment to innovative yet authentic preparations makes it a go-to for
+  discerning palates looking for exceptional sushi dining.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Folks who visit Sushi Ishikawa often rave about
+  the incredibly fresh and inventive sushi offerings that make every bite feel
+  special. Many highlight the skillful preparation and high-quality ingredients,
+  noting how they elevate the overall meal to something truly noteworthy. The
+  service tends to come across as warm and efficient, adding to the enjoyable
+  vibe without overwhelming the experience. With an impressive average rating,
+  it's clear this place holds up as a solid pick for anyone hunting top-rated
+  sushi spots in the area. While not every detail is perfect for all tastes, the
+  general feedback keeps things upbeat, making it a reliable choice for a
+  satisfying outing.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -209,7 +303,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

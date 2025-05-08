@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "To See Roll"
+title: To See Roll
 permalink: /nevada/las-vegas/to-see-roll.html
 stateAbbr: NV
 stateName: Nevada
 cityName: Las Vegas
 seo:
-  name: "To See Roll"
-  type: Restaurant
+  type: restaurant
   links: http://toseeroll.com/
-description: "To See Roll serves delicious sushi in Las Vegas, Nevada. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJFU-AGMzHyIARrJndeZWtDmQ
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 0
 website: http://toseeroll.com/
+description: >-
+  Discover To See Roll in Las Vegas, NV$$$To See Roll in Las Vegas, NV, stands
+  out as a welcoming Japanese restaurant offering fresh sushi rolls and
+  customizable poke bowls that cater to a variety of tastes. This spot
+  emphasizes high-quality ingredients and a range of options like hibachi-style
+  grills, making it a go-to choice for those seeking authentic flavors in a
+  casual setting. With accessibility features such as wheelchair-friendly
+  entrances and ample parking, it ensures a comfortable visit for everyone,
+  enhancing the overall dining experience. The menu balances affordability with
+  satisfying portions, appealing to locals and visitors looking for top-rated
+  sushi options nearby. Its focus on fresh, flavorful dishes makes it an ideal
+  stop for anyone exploring Japanese cuisine in the area.
+generative_summary: >-
+  Discover To See Roll in Las Vegas, NV$$$To See Roll in Las Vegas, NV, stands
+  out as a welcoming Japanese restaurant offering fresh sushi rolls and
+  customizable poke bowls that cater to a variety of tastes. This spot
+  emphasizes high-quality ingredients and a range of options like hibachi-style
+  grills, making it a go-to choice for those seeking authentic flavors in a
+  casual setting. With accessibility features such as wheelchair-friendly
+  entrances and ample parking, it ensures a comfortable visit for everyone,
+  enhancing the overall dining experience. The menu balances affordability with
+  satisfying portions, appealing to locals and visitors looking for top-rated
+  sushi options nearby. Its focus on fresh, flavorful dishes makes it an ideal
+  stop for anyone exploring Japanese cuisine in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJFU-AGMzHyIARrJndeZWtDmQ/reviews/ChdDSUhNMG9nS0VJQ0FnSUMzLXVyanFRRRAB
@@ -370,6 +393,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNyOXR1ZHhBRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNyOXR1ZHhBRRAB!2m1!1s0x80c8c7cc18804f15:0x640ead9579dd99ac
+review_summary: >-
+  What Customers Are Buzzing About$$$Visitors often rave about the fresh and
+  flavorful sushi and poke bowls that make meals feel satisfying and customized
+  to their preferences, creating a standout experience at this spot. Many
+  appreciate the friendly service and helpful recommendations that add a
+  personal touch without overwhelming the vibe. While some note that prices lean
+  towards the higher side, the generous portions and variety of options keep
+  things feeling worthwhile for a casual outing. Overall, the atmosphere and
+  quick service earn high marks, with diners frequently highlighting the clean
+  environment and unique hibachi offerings as reasons to return. If you're
+  hunting for reliable sushi places near you, this location delivers a solid,
+  enjoyable meal that leaves most people smiling.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -402,7 +438,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

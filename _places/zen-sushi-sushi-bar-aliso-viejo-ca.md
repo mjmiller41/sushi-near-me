@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Zen Sushi & Sushi Bar"
+title: Zen Sushi & Sushi Bar
 permalink: /california/aliso-viejo/zen-sushi-sushi-bar.html
 stateAbbr: CA
 stateName: California
 cityName: Aliso Viejo
 seo:
-  name: "Zen Sushi & Sushi Bar"
-  type: Restaurant
-  links: null
-description: "Zen Sushi & Sushi Bar serves delicious sushi in Aliso Viejo, California. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://zensushialiso.com/
 place_id: ChIJ5XvTETrv3IARc-oVpd4zpmc
 photos:
   - name: >-
@@ -170,8 +168,113 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80dcef3a11d37be5:0x67a633dea515ea73!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 45
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 16
+        minute: 0
+      close:
+        day: 1
+        hour: 20
+        minute: 45
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 45
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 45
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 45
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 0
+      close:
+        day: 5
+        hour: 20
+        minute: 45
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 20
+        minute: 45
+  weekdayDescriptions:
+    - 'Monday: 11:30 AM – 2:30 PM, 4:00 – 8:45 PM'
+    - 'Tuesday: 11:30 AM – 2:30 PM, 4:00 – 8:45 PM'
+    - 'Wednesday: 11:30 AM – 2:30 PM, 4:00 – 8:45 PM'
+    - 'Thursday: 11:30 AM – 2:30 PM, 4:00 – 8:45 PM'
+    - 'Friday: 11:30 AM – 2:30 PM, 4:00 – 8:45 PM'
+    - 'Saturday: 12:00 – 8:45 PM'
+    - 'Sunday: 12:00 – 8:45 PM'
+  nextCloseTime: '2025-05-04T03:45:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +282,48 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
+phone: (949) 643-1232
+price_level: PRICE_LEVEL_MODERATE
 price_range: null
-rating: null
-rating_count: 0
-website: null
+rating: '4.3'
+rating_count: 299
+website: https://zensushialiso.com/
+description: >-
+  Discover Zen Sushi in Aliso Viejo, CA$$$Zen Sushi & Sushi Bar in Aliso Viejo,
+  CA, provides a welcoming spot for savoring fresh Japanese flavors in a
+  laid-back setting. This sushi restaurant features an array of expertly
+  prepared rolls, sashimi, and bento boxes, complemented by a selection of beer
+  and wine to enhance your meal. With its accessible design and convenient
+  hours, it's an ideal choice for those exploring top-rated sushi options near
+  you, making it easy to enjoy authentic tastes without the fuss. The spot
+  emphasizes quality ingredients and a relaxed vibe, perfect for casual dining
+  or quick visits when you're craving sushi close to home.
+generative_summary: >-
+  Discover Zen Sushi in Aliso Viejo, CA$$$Zen Sushi & Sushi Bar in Aliso Viejo,
+  CA, provides a welcoming spot for savoring fresh Japanese flavors in a
+  laid-back setting. This sushi restaurant features an array of expertly
+  prepared rolls, sashimi, and bento boxes, complemented by a selection of beer
+  and wine to enhance your meal. With its accessible design and convenient
+  hours, it's an ideal choice for those exploring top-rated sushi options near
+  you, making it easy to enjoy authentic tastes without the fuss. The spot
+  emphasizes quality ingredients and a relaxed vibe, perfect for casual dining
+  or quick visits when you're craving sushi close to home.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Feedback from Sushi Enthusiasts$$$Folks who visit this sushi place often rave
+  about the fresh ingredients and flavorful dishes that keep them coming back
+  for more. It's clear that the variety of options, from classic rolls to
+  creative specials, makes it a solid pick for anyone hunting for the best sushi
+  near me, with many appreciating the balanced flavors and attentive service.
+  While some mention occasional waits during peak times, the overall experience
+  tends to be positive, highlighting the restaurant's commitment to quality
+  without overwhelming the palate. Overall, diners enjoy the approachable
+  atmosphere and value for money, making it a reliable go-to for Japanese places
+  near me when you're in the mood for something satisfying. If you're seeking a
+  casual spot to unwind, this one generally delivers on taste and convenience,
+  earning its strong reputation among local favorites.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +349,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

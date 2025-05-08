@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yamame"
+title: Yamame
 permalink: /california/rancho-santa-margarita/yamame.html
 stateAbbr: CA
 stateName: California
 cityName: Rancho Santa Margarita
 seo:
-  name: "Yamame"
-  type: Restaurant
+  type: restaurant
   links: http://www.yamamersm.com/
-description: "Yamame serves delicious sushi in Rancho Santa Margarita, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJ9Sir7hzr3IARNi0kRHih6XI
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: null
 rating: '4.7'
 rating_count: 0
 website: http://www.yamamersm.com/
+description: >-
+  Explore Yamame in Rancho Santa Margarita$$$Yamame in Rancho Santa Margarita,
+  CA, stands out as a cozy Japanese restaurant nestled inside Mercado Del Lago,
+  celebrated for its fresh fish and creative dishes that blend traditional
+  flavors with unique twists. The spot offers a welcoming atmosphere with
+  intimate indoor seating and outdoor options that provide glimpses of the
+  nearby lake, making it ideal for a relaxed meal. Patrons appreciate the
+  thoughtful accessibility features, like wheelchair-friendly entrances and
+  parking, ensuring everyone can enjoy the experience. With a focus on quality
+  ingredients and moderate pricing, this eatery delivers an authentic sushi
+  dining option that's perfect for those seeking top-rated Japanese cuisine near
+  you.
+generative_summary: >-
+  Explore Yamame in Rancho Santa Margarita$$$Yamame in Rancho Santa Margarita,
+  CA, stands out as a cozy Japanese restaurant nestled inside Mercado Del Lago,
+  celebrated for its fresh fish and creative dishes that blend traditional
+  flavors with unique twists. The spot offers a welcoming atmosphere with
+  intimate indoor seating and outdoor options that provide glimpses of the
+  nearby lake, making it ideal for a relaxed meal. Patrons appreciate the
+  thoughtful accessibility features, like wheelchair-friendly entrances and
+  parking, ensuring everyone can enjoy the experience. With a focus on quality
+  ingredients and moderate pricing, this eatery delivers an authentic sushi
+  dining option that's perfect for those seeking top-rated Japanese cuisine near
+  you.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ9Sir7hzr3IARNi0kRHih6XI/reviews/ChdDSUhNMG9nS0VJQ0FnSUM5NktXRnFBRRAB
@@ -352,6 +375,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURwc2FPZGpRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURwc2FPZGpRRRAB!2m1!1s0x80dceb1ceeab28f5:0x72e9a17844242d36
+review_summary: >-
+  Customer Feedback on Yamame$$$Folks often rave about the fresh sushi and
+  flavorful rolls at this spot, noting how the ingredients really shine through
+  in every bite, making it a go-to for sushi lovers in the area. Service tends
+  to be friendly and quick, with staff checking in regularly to keep things
+  smooth, even in a compact space where reserving ahead is a smart move. While
+  some mention the prices lean on the higher side, many agree the quality and
+  generous portions make it well worth the cost for a satisfying meal. Overall,
+  it's a solid choice for groups or casual outings, with highlights on tasty
+  options like yakisoba and tempura that keep diners coming back for more
+  authentic Japanese fare. If you're hunting for reliable sushi places nearby,
+  this one delivers a consistently enjoyable vibe without any major letdowns.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -383,7 +419,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

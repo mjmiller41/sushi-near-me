@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "E-MO"
+title: E-MO
 permalink: /new-york/new-york/e-mo.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "E-MO"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Tiny, cash-only carryout counter selling kimbab, Korean-style sushi rolls, with a range of fillings. E-MO serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJGT0h9KhZwokRgQ0zJWvbYXU
 photos:
   - name: >-
@@ -182,6 +180,31 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 0
 website: null
+description: >-
+  Discover E-MO in New York, NY$$$Nestled in the heart of New York, NY, E-MO
+  stands out as a cozy Korean eatery specializing in quick, flavorful kimbap
+  rolls that blend traditional ingredients with a modern twist. This low-key
+  spot offers a variety of fresh fillings like spicy tuna and eel, making it an
+  ideal choice for those seeking convenient takeout options in a bustling urban
+  setting. The focus on high-quality, handmade rolls ensures each bite delivers
+  authentic Korean flavors without the wait, perfect for anyone exploring sushi
+  restaurants in the area. With its cash-only, no-fuss vibe, E-MO provides an
+  affordable escape for casual meals that satisfy cravings for light, portable
+  eats. Whether you're in the mood for something simple and satisfying, this
+  hidden gem in K-Town delivers a taste of Korea's beloved street food style.
+generative_summary: >-
+  Discover E-MO in New York, NY$$$Nestled in the heart of New York, NY, E-MO
+  stands out as a cozy Korean eatery specializing in quick, flavorful kimbap
+  rolls that blend traditional ingredients with a modern twist. This low-key
+  spot offers a variety of fresh fillings like spicy tuna and eel, making it an
+  ideal choice for those seeking convenient takeout options in a bustling urban
+  setting. The focus on high-quality, handmade rolls ensures each bite delivers
+  authentic Korean flavors without the wait, perfect for anyone exploring sushi
+  restaurants in the area. With its cash-only, no-fuss vibe, E-MO provides an
+  affordable escape for casual meals that satisfy cravings for light, portable
+  eats. Whether you're in the mood for something simple and satisfying, this
+  hidden gem in K-Town delivers a taste of Korea's beloved street food style.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJGT0h9KhZwokRgQ0zJWvbYXU/reviews/ChdDSUhNMG9nS0VJQ0FnSUQzd1lXQi1BRRAB
@@ -333,6 +356,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURodTRiRU13EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURodTRiRU13EAE!2m1!1s0x89c259a8f4213d19:0x7561db6b25330d81
+review_summary: >-
+  What Visitors Say About E-MO's Rolls$$$Folks often rave about E-MO for its
+  super fresh kimbap options that hit the spot for a quick and tasty meal on the
+  go, with many highlighting the variety of fillings like beef bulgogi and spicy
+  squid as standout choices. It's frequently noted as a solid pick for anyone
+  hunting for reliable sushi spots nearby, thanks to the fast service and
+  consistently high-quality ingredients that make every roll feel like a winner.
+  While some mention the prices as a bit on the higher side for this type of
+  fare, the overall experience is seen as worth it, especially for its friendly
+  atmosphere and convenience in a busy area. Reviewers appreciate how the spot
+  keeps things simple and efficient, ideal for grabbing something flavorful
+  without the hassle. All in all, it's earning high marks as one of the go-to
+  places for fresh, handmade rolls that leave you coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options:
   acceptsCreditCards: true
@@ -362,8 +399,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: null
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Tiny, cash-only carryout counter selling kimbab, Korean-style sushi rolls,
   with a range of fillings.
 

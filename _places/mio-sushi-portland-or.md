@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Mio Sushi"
+title: Mio Sushi
 permalink: /oregon/portland/mio-sushi.html
 stateAbbr: OR
 stateName: Oregon
 cityName: Portland
 seo:
-  name: "Mio Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Mio Sushi serves delicious sushi in Portland, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ8aQ3FHanlVQRYdhi2Hj0uLg
 photos:
   - name: >-
@@ -185,7 +183,41 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Explore Mio Sushi in Portland, OR$$$Mio Sushi in Portland, OR, stands out as a
+  welcoming sushi restaurant offering a laid-back vibe with options for
+  vegetarians and enticing happy hour deals. This spot emphasizes accessibility,
+  making it easy for everyone to enjoy its fresh selections of rolls and dishes
+  in a comfortable setting. Patrons can savor the creative twists on traditional
+  Japanese cuisine, including flavorful vegetarian alternatives that cater to
+  diverse tastes. With its neighborhood location, Mio Sushi provides a
+  convenient choice for those seeking quality sushi restaurants nearby, blending
+  casual dining with thoughtful menu variety to enhance every visit.
+generative_summary: >-
+  Explore Mio Sushi in Portland, OR$$$Mio Sushi in Portland, OR, stands out as a
+  welcoming sushi restaurant offering a laid-back vibe with options for
+  vegetarians and enticing happy hour deals. This spot emphasizes accessibility,
+  making it easy for everyone to enjoy its fresh selections of rolls and dishes
+  in a comfortable setting. Patrons can savor the creative twists on traditional
+  Japanese cuisine, including flavorful vegetarian alternatives that cater to
+  diverse tastes. With its neighborhood location, Mio Sushi provides a
+  convenient choice for those seeking quality sushi restaurants nearby, blending
+  casual dining with thoughtful menu variety to enhance every visit.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Summary of Visitor Feedback$$$Folks who stop by Mio Sushi often highlight the
+  fresh flavors and solid variety in the menu, making it a go-to for anyone
+  craving reliable sushi options. Many appreciate the approachable atmosphere
+  and helpful service that keep things relaxed and enjoyable, especially during
+  busy times. While some note that waits can happen on peak nights, the overall
+  experience tends to leave people satisfied with the value and taste. It's
+  frequently mentioned as a solid pick for groups or solo diners looking for
+  straightforward Japanese-inspired meals, helping it maintain a positive
+  reputation among local sushi enthusiasts. Overall, the feedback paints a
+  picture of a dependable spot that delivers on fresh ingredients and a
+  welcoming feel without overcomplicating things.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +243,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

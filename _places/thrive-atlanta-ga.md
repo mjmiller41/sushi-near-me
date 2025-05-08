@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Thrive"
+title: Thrive
 permalink: /georgia/atlanta/thrive.html
 stateAbbr: GA
 stateName: Georgia
 cityName: Atlanta
 seo:
-  name: "Thrive"
-  type: Restaurant
+  type: restaurant
   links: http://thriveatl.com/
-description: "Thrive serves delicious sushi in Atlanta, Georgia. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJAxtFwoAD9YgRn6a9GRgXY-k
 photos:
   - name: >-
@@ -170,36 +168,175 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x88f50380c2451b03:0xe963171819bda69f!10e5
 primary_type: Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 9:00 PM'
     - 'Tuesday: 11:30 AM – 9:00 PM'
     - 'Wednesday: 11:30 AM – 9:00 PM'
     - 'Thursday: 11:30 AM – 10:00 PM'
     - 'Friday: 11:30 AM – 10:00 PM'
     - 'Saturday: 5:30 – 10:00 PM'
-    - 'Sunday: 2:00 – 8:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 9:00 PM'
-    - 'Tuesday: 11:30 AM – 9:00 PM'
-    - 'Wednesday: 11:30 AM – 9:00 PM'
-    - 'Thursday: 11:30 AM – 10:00 PM'
-    - 'Friday: 11:30 AM – 10:00 PM'
-    - 'Saturday: 5:30 – 10:00 PM'
-    - 'Sunday: 2:00 – 8:00 PM'
+    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 15
+          minute: 0
+        close:
+          day: 0
+          hour: 20
+          minute: 30
+      - open:
+          day: 1
+          hour: 16
+          minute: 0
+        close:
+          day: 1
+          hour: 18
+          minute: 0
+      - open:
+          day: 2
+          hour: 16
+          minute: 0
+        close:
+          day: 2
+          hour: 18
+          minute: 0
+      - open:
+          day: 3
+          hour: 16
+          minute: 0
+        close:
+          day: 3
+          hour: 18
+          minute: 0
+      - open:
+          day: 4
+          hour: 16
+          minute: 0
+        close:
+          day: 4
+          hour: 18
+          minute: 0
+      - open:
+          day: 5
+          hour: 16
+          minute: 0
+        close:
+          day: 5
+          hour: 18
+          minute: 0
+      - open:
+          day: 6
+          hour: 17
+          minute: 0
+        close:
+          day: 6
+          hour: 22
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 4:00 – 6:00 PM'
+      - 'Tuesday: 4:00 – 6:00 PM'
+      - 'Wednesday: 4:00 – 6:00 PM'
+      - 'Thursday: 4:00 – 6:00 PM'
+      - 'Friday: 4:00 – 6:00 PM'
+      - 'Saturday: 5:00 – 10:00 PM'
+      - 'Sunday: 3:00 – 8:30 PM'
+    secondaryHoursType: HAPPY_HOUR
+    nextCloseTime: '2025-05-04T02:00:00Z'
 phone: (404) 389-1000
 price_level: PRICE_LEVEL_MODERATE
 price_range: $30 &ndash; $50
 rating: '4.2'
-rating_count: 0
+rating_count: 968
 website: http://thriveatl.com/
+description: >-
+  Discover Thrive in Atlanta$$$Thrive in Atlanta, GA, stands out as a
+  contemporary restaurant nestled in the vibrant Centennial Tower, offering a
+  modern dining experience with a focus on fresh flavors. This spot delights
+  patrons with an array of dishes including succulent seafood, expertly crafted
+  sushi, and classic American favorites, all paired with inventive cocktails
+  that elevate any meal. The accessible design features wheelchair-friendly
+  amenities, making it welcoming for all visitors, while its central location
+  adds to the convenience for those seeking sushi restaurants nearby. With
+  inviting hours that extend into the evening, it's an ideal choice for a casual
+  lunch or a lively dinner outing in the heart of the city.
+generative_summary: >-
+  Discover Thrive in Atlanta$$$Thrive in Atlanta, GA, stands out as a
+  contemporary restaurant nestled in the vibrant Centennial Tower, offering a
+  modern dining experience with a focus on fresh flavors. This spot delights
+  patrons with an array of dishes including succulent seafood, expertly crafted
+  sushi, and classic American favorites, all paired with inventive cocktails
+  that elevate any meal. The accessible design features wheelchair-friendly
+  amenities, making it welcoming for all visitors, while its central location
+  adds to the convenience for those seeking sushi restaurants nearby. With
+  inviting hours that extend into the evening, it's an ideal choice for a casual
+  lunch or a lively dinner outing in the heart of the city.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Diners at Thrive$$$Visitors often praise the standout sushi
+  selections here, highlighting creative rolls that bring bold flavors to the
+  table and pair well with tasty appetizers like tempura-style bites. The
+  atmosphere gets high marks for its sleek, modern vibe with enjoyable music and
+  lighting that sets a fun tone for groups or date nights. Service stands out as
+  friendly and helpful, ensuring everyone feels taken care of during their
+  visit. While some note that wait times can occasionally stretch a bit, the
+  overall experience keeps things positive, making it a solid pick for anyone
+  craving top-rated sushi spots in the area.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +362,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

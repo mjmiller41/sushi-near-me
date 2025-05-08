@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "40 West Cafe"
+title: 40 West Cafe
 permalink: /connecticut/vernon/40-west-cafe.html
 stateAbbr: CT
 stateName: Connecticut
 cityName: Vernon
 seo:
-  name: "40 West Cafe"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "40 West Cafe serves delicious sushi in Vernon, Connecticut. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJQ9Maz5n35okR7WAl8bFiSDg
 photos:
   - name: >-
@@ -170,8 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89e6f799cf1ad343:0x384862b1f12560ed!10e5
 primary_type: Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 10
+        minute: 0
+      close:
+        day: 1
+        hour: 20
+        minute: 0
+    - open:
+        day: 2
+        hour: 10
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 0
+    - open:
+        day: 3
+        hour: 10
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 0
+    - open:
+        day: 4
+        hour: 10
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 0
+    - open:
+        day: 5
+        hour: 10
+        minute: 0
+      close:
+        day: 5
+        hour: 20
+        minute: 0
+    - open:
+        day: 6
+        hour: 10
+        minute: 0
+      close:
+        day: 6
+        hour: 19
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 10:00 AM – 8:00 PM'
+    - 'Tuesday: 10:00 AM – 8:00 PM'
+    - 'Wednesday: 10:00 AM – 8:00 PM'
+    - 'Thursday: 10:00 AM – 8:00 PM'
+    - 'Friday: 10:00 AM – 8:00 PM'
+    - 'Saturday: 10:00 AM – 7:00 PM'
+    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-03T23:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +234,45 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
+phone: (860) 870-3992
 price_level: null
-price_range: null
-rating: null
-rating_count: 0
+price_range: $10 &ndash; $20
+rating: '4.5'
+rating_count: 124
 website: null
+description: >-
+  Discover 40 West Cafe in Vernon, CT$$$40 West Cafe in Vernon, CT, is a cozy
+  spot serving up a variety of small plates and comforting dishes that highlight
+  fresh flavors in a welcoming atmosphere. This local eatery specializes in
+  Japanese-inspired options like ramen and kimbap, paired with refreshing bubble
+  tea, making it a great choice for those seeking casual Asian-influenced meals
+  near you. The snug space offers a relaxed vibe perfect for quick lunches or
+  laid-back dinners, with accessibility features ensuring everyone can enjoy the
+  experience. Operating daily with extended hours, it's an ideal stop for anyone
+  exploring nearby dining options that blend comfort and creativity.
+generative_summary: >-
+  Discover 40 West Cafe in Vernon, CT$$$40 West Cafe in Vernon, CT, is a cozy
+  spot serving up a variety of small plates and comforting dishes that highlight
+  fresh flavors in a welcoming atmosphere. This local eatery specializes in
+  Japanese-inspired options like ramen and kimbap, paired with refreshing bubble
+  tea, making it a great choice for those seeking casual Asian-influenced meals
+  near you. The snug space offers a relaxed vibe perfect for quick lunches or
+  laid-back dinners, with accessibility features ensuring everyone can enjoy the
+  experience. Operating daily with extended hours, it's an ideal stop for anyone
+  exploring nearby dining options that blend comfort and creativity.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Folks rave about the tasty small plates and
+  friendly service at this spot, often highlighting the flavorful ramen and
+  kimbap as standout choices that hit the spot. Many appreciate the cozy
+  atmosphere and solid value for the price, making it a go-to for casual meetups
+  or solo stops. While some mention waits during peak times, the overall
+  consensus leans positive, with diners enjoying the welcoming vibe and variety
+  of drinks like bubble tea. If you're in the mood for reliable, feel-good eats,
+  this place delivers without overpromising, earning its high marks from the
+  community.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +298,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

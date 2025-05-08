@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Flying Ninja"
+title: Flying Ninja
 permalink: /california/san-francisco/flying-ninja.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
 seo:
-  name: "Flying Ninja"
-  type: Restaurant
+  type: restaurant
   links: http://www.sfflyingninja.com/
-description: "Flying Ninja serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJj-yRoOGAhYARYrYxzGiJi0U
 photos:
   - name: >-
@@ -169,7 +167,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x808580e1a091ec8f:0x458b8968cc31b662!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:00 PM'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -177,14 +233,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:30 PM'
     - 'Saturday: 11:00 AM – 9:30 PM'
     - 'Sunday: 11:00 AM – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 9:30 PM'
-    - 'Saturday: 11:00 AM – 9:30 PM'
-    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T04:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -195,10 +244,46 @@ secondary_opening_hours:
 phone: (415) 292-6255
 price_level: PRICE_LEVEL_INEXPENSIVE
 price_range: $20 &ndash; $30
-rating: '4.3'
-rating_count: 0
+rating: '4.4'
+rating_count: 635
 website: http://www.sfflyingninja.com/
+description: >-
+  Discover Flying Ninja in San Francisco, CA$$$Flying Ninja in San Francisco,
+  CA, stands out as a welcoming sushi destination nestled in the vibrant
+  Fisherman's Wharf neighborhood, offering a casual vibe perfect for those
+  craving authentic Japanese flavors. This spot delights with a menu featuring
+  fresh rolls, hearty bento boxes, and crispy tempura, complemented by a
+  selection of sake, beer, and wine to enhance your meal. Its accessibility
+  options, including wheelchair-friendly entrances and seating, make it an
+  inclusive choice for everyone looking to enjoy top-rated sushi near me. With
+  daily hours extending into the evening, it's easy to drop in for a satisfying
+  lunch or dinner, blending convenience with quality in a lively urban setting.
+generative_summary: >-
+  Discover Flying Ninja in San Francisco, CA$$$Flying Ninja in San Francisco,
+  CA, stands out as a welcoming sushi destination nestled in the vibrant
+  Fisherman's Wharf neighborhood, offering a casual vibe perfect for those
+  craving authentic Japanese flavors. This spot delights with a menu featuring
+  fresh rolls, hearty bento boxes, and crispy tempura, complemented by a
+  selection of sake, beer, and wine to enhance your meal. Its accessibility
+  options, including wheelchair-friendly entrances and seating, make it an
+  inclusive choice for everyone looking to enjoy top-rated sushi near me. With
+  daily hours extending into the evening, it's easy to drop in for a satisfying
+  lunch or dinner, blending convenience with quality in a lively urban setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying About Flying Ninja$$$Visitors often highlight the
+  consistently fresh and flavorful sushi at Flying Ninja, making it a go-to for
+  anyone exploring sushi restaurants in the area. Many appreciate the variety of
+  options that cater to different tastes, from classic rolls to more adventurous
+  combinations, all delivered with efficient and friendly service. While some
+  note that it can get busy during peak times, the overall value for the price
+  keeps people coming back for a relaxed dining experience. Feedback frequently
+  praises the cozy atmosphere and quick preparation, ideal for groups or solo
+  diners searching for reliable Japanese places near me. Overall, it's clear
+  that this spot earns its strong reputation by delivering solid meals that
+  leave customers satisfied and eager to return.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -224,7 +309,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

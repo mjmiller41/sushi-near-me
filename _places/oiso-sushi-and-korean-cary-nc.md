@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Oiso Sushi and Korean"
+title: Oiso Sushi and Korean
 permalink: /north-carolina/cary/oiso-sushi-and-korean.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Cary
 seo:
-  name: "Oiso Sushi and Korean"
-  type: Restaurant
+  type: restaurant
   links: http://oisosushi.com/
-description: "Oiso Sushi and Korean serves delicious sushi in Cary, North Carolina. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJq3KWIF_yrIkRqiavNb6DMxg
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89acf25f209672ab:0x183383be35af26aa!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 20
+        minute: 30
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 30
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 30
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 5:00 – 8:30 PM'
     - 'Tuesday: 5:00 – 8:30 PM'
     - 'Wednesday: 5:00 – 8:30 PM'
@@ -178,28 +226,110 @@ opening_hours:
     - 'Friday: 5:00 – 9:00 PM'
     - 'Saturday: 5:00 – 9:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 5:00 – 8:30 PM'
-    - 'Tuesday: 5:00 – 8:30 PM'
-    - 'Wednesday: 5:00 – 8:30 PM'
-    - 'Thursday: 5:00 – 8:30 PM'
-    - 'Friday: 5:00 – 9:00 PM'
-    - 'Saturday: 5:00 – 9:00 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T01:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 1
+          hour: 17
+          minute: 0
+        close:
+          day: 1
+          hour: 20
+          minute: 30
+      - open:
+          day: 2
+          hour: 5
+          minute: 0
+        close:
+          day: 2
+          hour: 20
+          minute: 30
+      - open:
+          day: 3
+          hour: 17
+          minute: 0
+        close:
+          day: 3
+          hour: 20
+          minute: 30
+      - open:
+          day: 4
+          hour: 17
+          minute: 0
+        close:
+          day: 4
+          hour: 20
+          minute: 30
+      - open:
+          day: 5
+          hour: 17
+          minute: 0
+        close:
+          day: 5
+          hour: 21
+          minute: 0
+      - open:
+          day: 6
+          hour: 17
+          minute: 0
+        close:
+          day: 6
+          hour: 21
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 5:00 – 8:30 PM'
+      - 'Tuesday: 5:00 AM – 8:30 PM'
+      - 'Wednesday: 5:00 – 8:30 PM'
+      - 'Thursday: 5:00 – 8:30 PM'
+      - 'Friday: 5:00 – 9:00 PM'
+      - 'Saturday: 5:00 – 9:00 PM'
+      - 'Sunday: Closed'
+    secondaryHoursType: TAKEOUT
+    nextCloseTime: '2025-05-04T01:00:00Z'
 phone: (919) 655-5133
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.7'
-rating_count: 0
+rating_count: 639
 website: http://oisosushi.com/
+description: >-
+  Explore Oiso Sushi and Korean in Cary, NC$$$Oiso Sushi and Korean in Cary,
+  North Carolina, stands out as a welcoming spot for those craving authentic
+  Japanese flavors and fresh sushi options. This casual eatery specializes in
+  creative rolls, sashimi, and a selection of sake, all prepared with
+  high-quality ingredients in a relaxed atmosphere. Visitors can enjoy
+  accessible features like wheelchair-friendly parking and seating, making it
+  easy for everyone to savor the experience. Whether you're looking for
+  top-rated sushi spots nearby or Japanese-inspired dishes close to home, this
+  place delivers a satisfying meal at moderate prices. Its evening hours add to
+  the appeal for a laid-back dinner outing in the area.
+generative_summary: >-
+  Explore Oiso Sushi and Korean in Cary, NC$$$Oiso Sushi and Korean in Cary,
+  North Carolina, stands out as a welcoming spot for those craving authentic
+  Japanese flavors and fresh sushi options. This casual eatery specializes in
+  creative rolls, sashimi, and a selection of sake, all prepared with
+  high-quality ingredients in a relaxed atmosphere. Visitors can enjoy
+  accessible features like wheelchair-friendly parking and seating, making it
+  easy for everyone to savor the experience. Whether you're looking for
+  top-rated sushi spots nearby or Japanese-inspired dishes close to home, this
+  place delivers a satisfying meal at moderate prices. Its evening hours add to
+  the appeal for a laid-back dinner outing in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback on Oiso Sushi$$$Visitors often rave about the delicious
+  sushi and fresh appetizers at this spot, noting that the flavors are
+  consistently spot-on and enjoyable. Many appreciate the tasty mochi ice cream
+  as a sweet finish, along with the overall value that keeps things affordable
+  without skimping on quality. The staff comes across as friendly and attentive,
+  helping to create a welcoming vibe that enhances the whole visit. Overall,
+  it's clear that folks find this a reliable choice for a casual meal, with
+  positive mentions of the service and menu variety making it a go-to for sushi
+  lovers. If you're seeking nearby sushi restaurants, the feedback suggests this
+  one hits the mark for a satisfying and budget-friendly experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +355,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

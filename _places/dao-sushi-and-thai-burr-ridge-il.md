@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Dao Sushi and Thai"
+title: Dao Sushi and Thai
 permalink: /illinois/burr-ridge/dao-sushi-and-thai.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Burr Ridge
 seo:
-  name: "Dao Sushi and Thai"
-  type: Restaurant
+  type: restaurant
   links: http://www.daosushiandthai.com/
-description: "Strip-mall spot serving sushi & other Japanese fare, Thai food & hibachi amid modern Asian decor. Dao Sushi and Thai serves delicious sushi in Burr Ridge, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJDXeFPZhIDogRmRaD4VwozA0
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 0
 website: http://www.daosushiandthai.com/
+description: >-
+  Explore Dao Sushi and Thai in Burr Ridge, IL$$$Dao Sushi and Thai in Burr
+  Ridge, IL, stands out as a vibrant spot for enjoying fresh Asian cuisine in a
+  modern setting. This restaurant offers a mix of Japanese favorites like sushi
+  rolls and Thai dishes, all served with generous portions that make it ideal
+  for casual meals or special occasions. Highlights include a welcoming
+  atmosphere with accessible features for all guests, plus options like happy
+  hour specials that add value to the experience. Whether you're seeking
+  flavorful entrees or a relaxed place to unwind, it provides a trendy escape
+  within the local shopping area, appealing to those looking for quality sushi
+  options nearby.
+generative_summary: >-
+  Explore Dao Sushi and Thai in Burr Ridge, IL$$$Dao Sushi and Thai in Burr
+  Ridge, IL, stands out as a vibrant spot for enjoying fresh Asian cuisine in a
+  modern setting. This restaurant offers a mix of Japanese favorites like sushi
+  rolls and Thai dishes, all served with generous portions that make it ideal
+  for casual meals or special occasions. Highlights include a welcoming
+  atmosphere with accessible features for all guests, plus options like happy
+  hour specials that add value to the experience. Whether you're seeking
+  flavorful entrees or a relaxed place to unwind, it provides a trendy escape
+  within the local shopping area, appealing to those looking for quality sushi
+  options nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJDXeFPZhIDogRmRaD4VwozA0/reviews/ChZDSUhNMG9nS0VJQ0FnSUNmMXFpbWRREAE
@@ -336,6 +357,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNBbXV2cVhREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNBbXV2cVhREAE!2m1!1s0x880e48983d85770d:0xdcc285ce1831699
+review_summary: >-
+  Insights from Customer Feedback$$$Patrons consistently highlight the generous
+  portions and fresh ingredients that make meals here feel like great value for
+  the price, perfect for families or groups enjoying a laid-back vibe. Many
+  appreciate the variety of rolls and dishes that deliver solid flavors, though
+  some note that certain items like curries might not pack as much spice as
+  expected, adding a balanced perspective to the offerings. Overall, the
+  welcoming service and comfortable atmosphere keep things enjoyable without any
+  pressure, making it a reliable choice for anyone craving satisfying Asian
+  fare. If you're on the hunt for tasty sushi spots in the area, this place
+  often comes through as a solid pick for a memorable dining experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -369,8 +402,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Strip-mall spot serving sushi & other Japanese fare, Thai food & hibachi amid
   modern Asian decor.
 

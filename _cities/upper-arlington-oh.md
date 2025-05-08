@@ -5,4 +5,5 @@ permalink: /ohio/upper-arlington/
 stateAbbr: OH
 stateName: Ohio
 cityName: Upper Arlington
+
 ---

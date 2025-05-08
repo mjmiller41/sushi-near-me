@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "YamaChen's Sushi"
+title: YamaChen's Sushi
 permalink: /virginia/virginia-beach/yamachen-s-sushi.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Virginia Beach
 seo:
-  name: "YamaChen's Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.yamachen.com/onlineorder.html
-description: "YamaChen's Sushi serves delicious sushi in Virginia Beach, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJdfB_4f-UuokRJVDBmPlPKC8
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 0
 website: http://www.yamachen.com/onlineorder.html
+description: >-
+  Explore YamaChen's Sushi in Virginia Beach, VA$$$YamaChen's Sushi in Virginia
+  Beach, VA, stands out as a casual Japanese eatery perfect for savoring fresh
+  sushi and traditional favorites in a welcoming setting. This spot offers a
+  variety of dishes like spring rolls and sake, making it an ideal choice for
+  those seeking sushi restaurants with a relaxed vibe. With accessible features
+  and convenient parking, it caters to a wide range of diners looking for an
+  enjoyable meal. The moderate pricing and family-friendly atmosphere enhance
+  its appeal as a go-to option for Japanese places near me. Overall, it's a
+  great spot for experiencing authentic flavors in a clean and inviting
+  environment.
+generative_summary: >-
+  Explore YamaChen's Sushi in Virginia Beach, VA$$$YamaChen's Sushi in Virginia
+  Beach, VA, stands out as a casual Japanese eatery perfect for savoring fresh
+  sushi and traditional favorites in a welcoming setting. This spot offers a
+  variety of dishes like spring rolls and sake, making it an ideal choice for
+  those seeking sushi restaurants with a relaxed vibe. With accessible features
+  and convenient parking, it caters to a wide range of diners looking for an
+  enjoyable meal. The moderate pricing and family-friendly atmosphere enhance
+  its appeal as a go-to option for Japanese places near me. Overall, it's a
+  great spot for experiencing authentic flavors in a clean and inviting
+  environment.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJdfB_4f-UuokRJVDBmPlPKC8/reviews/ChdDSUhNMG9nS0VJQ0FnSURYcF91Mm9BRRAB
@@ -352,6 +373,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNRbzlfOW53RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNRbzlfOW53RRAB!2m1!1s0x89ba94ffe17ff075:0x2f284ff998c15025
+review_summary: >-
+  What Customers Are Saying About This Sushi Spot$$$Folks who visit this sushi
+  restaurant often rave about the fresh and flavorful dishes that hit the spot
+  every time. Many highlight the generous portions and great value, making it a
+  solid pick for anyone craving top-rated sushi without breaking the bank. The
+  service stands out for being friendly and efficient, adding to the overall
+  relaxed and enjoyable vibe of the place. Reviewers frequently mention the cozy
+  atmosphere and quick delivery of meals, which keeps things positive and
+  hassle-free. In general, it's praised as a reliable choice for satisfying your
+  sushi fix near me, with honest feedback pointing to repeat visits for the
+  consistent quality.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -384,7 +417,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

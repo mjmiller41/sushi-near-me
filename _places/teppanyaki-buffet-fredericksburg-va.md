@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Teppanyaki Buffet"
+title: Teppanyaki Buffet
 permalink: /virginia/fredericksburg/teppanyaki-buffet.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Fredericksburg
 seo:
-  name: "Teppanyaki Buffet"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Teppanyaki Buffet serves delicious sushi in Fredericksburg, Virginia. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJE_1fn7jBtokRwV9u9Y4ENOI
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89b6c1b89f5ffd13:0xe234048ef56e5fc1!10e5
 primary_type: Buffet Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 9:00 PM'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 10:00 PM'
+    - 'Saturday: 11:00 AM – 10:00 PM'
+    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,51 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
+phone: (540) 374-1322
+price_level: PRICE_LEVEL_INEXPENSIVE
+price_range: $10 &ndash; $20
+rating: '3.6'
+rating_count: 521
 website: null
+description: >-
+  Discover Teppanyaki Buffet in Fredericksburg, VA$$$Teppanyaki Buffet in
+  Fredericksburg, VA, stands out as a welcoming buffet destination blending
+  American and Asian flavors for an enjoyable dining experience. This spot
+  features an all-you-can-eat selection that highlights sizzling teppanyaki and
+  hibachi-style dishes, appealing to those seeking Japanese-inspired options
+  near local hotspots. With its accessible entrance and seating, it's designed
+  for everyone to savor a variety of fresh, flavorful entrees in a relaxed
+  atmosphere. The restaurant's extended hours make it convenient for lunch or
+  dinner outings, perfect for groups looking for affordable Asian cuisine
+  options in the area. Overall, it's a go-to choice for anyone exploring diverse
+  buffet selections that bring a taste of international flair to everyday meals.
+generative_summary: >-
+  Discover Teppanyaki Buffet in Fredericksburg, VA$$$Teppanyaki Buffet in
+  Fredericksburg, VA, stands out as a welcoming buffet destination blending
+  American and Asian flavors for an enjoyable dining experience. This spot
+  features an all-you-can-eat selection that highlights sizzling teppanyaki and
+  hibachi-style dishes, appealing to those seeking Japanese-inspired options
+  near local hotspots. With its accessible entrance and seating, it's designed
+  for everyone to savor a variety of fresh, flavorful entrees in a relaxed
+  atmosphere. The restaurant's extended hours make it convenient for lunch or
+  dinner outings, perfect for groups looking for affordable Asian cuisine
+  options in the area. Overall, it's a go-to choice for anyone exploring diverse
+  buffet selections that bring a taste of international flair to everyday meals.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Buzzing About$$$Feedback from diners at this buffet often
+  highlights the fun, interactive cooking displays and the wide array of dishes
+  that keep things exciting and satisfying. Many appreciate the great value for
+  the price, making it a solid pick for families or casual get-togethers without
+  breaking the bank. While some note that the variety can sometimes vary in
+  freshness, the overall vibe and portion sizes tend to leave people feeling
+  content and coming back for more. It's commonly described as a reliable spot
+  for quick, flavorful meals that blend American and Asian influences, earning
+  nods for its approachable style. In essence, folks enjoy the welcoming energy
+  here, positioning it as a worthwhile option for anyone hunting for tasty,
+  budget-friendly eats in the neighborhood.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +312,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

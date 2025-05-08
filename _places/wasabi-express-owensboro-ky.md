@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Wasabi Express"
+title: Wasabi Express
 permalink: /kentucky/owensboro/wasabi-express.html
 stateAbbr: KY
 stateName: Kentucky
 cityName: Owensboro
 seo:
-  name: "Wasabi Express"
-  type: Restaurant
+  type: restaurant
   links: https://www.wasabiowensboro.com/
-description: "Casual, contemporary Japanese eatery offering sushi, hibachi & more for dine-in or carryout. Wasabi Express serves delicious sushi in Owensboro, Kentucky. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ20juHsi7b4gRLk8l5Xj8V7I
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 0
 website: https://www.wasabiowensboro.com/
+description: >-
+  About Wasabi Express in Owensboro, KY$$$Wasabi Express in Owensboro, KY,
+  stands out as a casual Japanese eatery specializing in fresh sushi and
+  flavorful hibachi dishes, making it a go-to spot for those seeking authentic
+  Asian flavors. The restaurant boasts a contemporary vibe with comfortable
+  seating and accessible features like wheelchair-friendly entrances and
+  parking, enhancing the overall dining experience for everyone. Diners can
+  enjoy a variety of options from sushi rolls to hibachi favorites, all served
+  in generous portions at moderate prices that appeal to both families and
+  groups. Whether opting for dine-in or quick takeout, the menu highlights
+  high-quality ingredients and a laid-back atmosphere that complements busy
+  lifestyles. This sushi destination near Owensboro offers a welcoming escape
+  for anyone exploring Japanese cuisine options in the area.
+generative_summary: >-
+  About Wasabi Express in Owensboro, KY$$$Wasabi Express in Owensboro, KY,
+  stands out as a casual Japanese eatery specializing in fresh sushi and
+  flavorful hibachi dishes, making it a go-to spot for those seeking authentic
+  Asian flavors. The restaurant boasts a contemporary vibe with comfortable
+  seating and accessible features like wheelchair-friendly entrances and
+  parking, enhancing the overall dining experience for everyone. Diners can
+  enjoy a variety of options from sushi rolls to hibachi favorites, all served
+  in generous portions at moderate prices that appeal to both families and
+  groups. Whether opting for dine-in or quick takeout, the menu highlights
+  high-quality ingredients and a laid-back atmosphere that complements busy
+  lifestyles. This sushi destination near Owensboro offers a welcoming escape
+  for anyone exploring Japanese cuisine options in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ20juHsi7b4gRLk8l5Xj8V7I/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJdS1Ya0Z3EAE
@@ -340,6 +365,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNnalpQOUxREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNnalpQOUxREAE!2m1!1s0x886fbbc81eee48db:0xb257fc78e5254f2e
+review_summary: >-
+  What Customers Are Buzzing About$$$Visitors to this sushi spot often rave
+  about the tasty hibachi and sushi selections that deliver great value without
+  breaking the bank, with many noting the generous servings as a standout
+  feature. While the atmosphere is generally relaxed and service tends to be
+  friendly during peak times, some folks mention occasional waits that come with
+  popular spots like this one. Overall, the food quality keeps drawing people
+  back, making it a solid choice for casual meals with friends or family.
+  Despite a few service hiccups on busier days, the positives around
+  affordability and flavors help maintain its appeal as a reliable option. If
+  you're hunting for top-rated sushi experiences nearby, this place delivers a
+  mostly enjoyable vibe with room for the occasional improvement.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -373,8 +411,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Casual, contemporary Japanese eatery offering sushi, hibachi & more for
   dine-in or carryout.
 

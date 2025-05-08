@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Joy Sushi"
+title: Joy Sushi
 permalink: /california/mountain-view/joy-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Mountain View
 seo:
-  name: "Joy Sushi"
-  type: Restaurant
-  links: null
-description: "Joy Sushi serves delicious sushi in Mountain View, California. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://joysushimountainview.com/
 place_id: ChIJZ51N9z23j4ARBFYUT_oKtCM
 photos:
   - name: >-
@@ -169,8 +167,113 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x808fb73df74d9d67:0x23b40afa4f145604!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: false
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 0
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 14
+        minute: 30
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 2:00 PM, 5:00 – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 2:00 PM, 5:00 – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 2:00 PM, 5:00 – 9:00 PM'
+    - 'Thursday: 11:00 AM – 2:00 PM, 5:00 – 9:00 PM'
+    - 'Friday: 11:00 AM – 2:00 PM, 5:00 – 9:00 PM'
+    - 'Saturday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
+    - 'Sunday: Closed'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -178,13 +281,55 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (650) 903-9403
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.4'
+rating_count: 618
+website: http://joysushimountainview.com/
+description: >-
+  Experience Joy Sushi in Mountain View, CA$$$Joy Sushi in Mountain View,
+  California, stands out as a welcoming spot for enjoying fresh Japanese cuisine
+  in a relaxed environment. This sushi restaurant offers a variety of delectable
+  rolls, bento boxes, and other traditional plates that highlight high-quality
+  ingredients and authentic flavors, making it a great choice for those seeking
+  top-rated sushi options nearby. With its casual setting and thoughtful
+  accessibility features like wheelchair-friendly entrances and seating, it
+  caters to a wide range of diners looking for a comfortable meal. Operating
+  with convenient hours from late morning to evening most days, it's an ideal
+  destination for a quick lunch or intimate dinner. Whether you're exploring
+  sushi places near you or craving something light and flavorful, this
+  establishment delivers a satisfying experience that balances simplicity and
+  taste.
+generative_summary: >-
+  Experience Joy Sushi in Mountain View, CA$$$Joy Sushi in Mountain View,
+  California, stands out as a welcoming spot for enjoying fresh Japanese cuisine
+  in a relaxed environment. This sushi restaurant offers a variety of delectable
+  rolls, bento boxes, and other traditional plates that highlight high-quality
+  ingredients and authentic flavors, making it a great choice for those seeking
+  top-rated sushi options nearby. With its casual setting and thoughtful
+  accessibility features like wheelchair-friendly entrances and seating, it
+  caters to a wide range of diners looking for a comfortable meal. Operating
+  with convenient hours from late morning to evening most days, it's an ideal
+  destination for a quick lunch or intimate dinner. Whether you're exploring
+  sushi places near you or craving something light and flavorful, this
+  establishment delivers a satisfying experience that balances simplicity and
+  taste.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback on Joy Sushi$$$Visitors often praise the fresh and flavorful
+  dishes at this popular sushi spot, with many highlighting the quality of the
+  rolls and bento options that keep them coming back. The overall atmosphere
+  gets positive nods for being laid-back and accommodating, contributing to a
+  solid reputation among local diners. While some mention wait times during peak
+  hours, the general consensus leans toward generous portions and reasonable
+  pricing that make it worth the visit. With a high rating reflecting consistent
+  satisfaction, it's clear that folks appreciate the reliable service and
+  variety, positioning it as a go-to for anyone hunting for the best sushi
+  nearby. Overall, the feedback paints a picture of a dependable choice for
+  casual meals that delivers on taste and value without any major drawbacks.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +355,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

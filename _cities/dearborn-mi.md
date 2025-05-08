@@ -5,4 +5,5 @@ permalink: /michigan/dearborn/
 stateAbbr: MI
 stateName: Michigan
 cityName: Dearborn
+
 ---

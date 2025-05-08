@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kaito Sushi"
+title: Kaito Sushi
 permalink: /california/encinitas/kaito-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Encinitas
 seo:
-  name: "Kaito Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.kaitorestaurant.net/
-description: "Basic sushi bar featuring exotic raw dishes prepared in the culinary traditions of Tokyo. Kaito Sushi serves delicious sushi in Encinitas, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, and dinner."
 place_id: ChIJjV2ow4wL3IARbkNsF-qcsTw
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $30 &ndash; $50
 rating: '4.6'
 rating_count: 0
 website: http://www.kaitorestaurant.net/
+description: >-
+  Discover Kaito Sushi in Encinitas, CA$$$Kaito Sushi in Encinitas, CA, stands
+  out as a traditional Tokyo-style destination for fresh, seasonal seafood and
+  sake, drawing in those seeking authentic Japanese flavors. This cozy sushi
+  spot emphasizes high-quality ingredients sourced directly, creating dishes
+  that highlight the natural taste of the ocean's best offerings. With
+  thoughtful accessibility features and a welcoming atmosphere, it's an ideal
+  choice for anyone exploring top-rated sushi options nearby. The menu balances
+  simplicity with seasonal variety, making it a go-to for locals and visitors
+  alike when craving sushi places near me. Whether you're looking for a relaxed
+  meal or something special, the focus on genuine culinary traditions ensures a
+  memorable dining experience.
+generative_summary: >-
+  Discover Kaito Sushi in Encinitas, CA$$$Kaito Sushi in Encinitas, CA, stands
+  out as a traditional Tokyo-style destination for fresh, seasonal seafood and
+  sake, drawing in those seeking authentic Japanese flavors. This cozy sushi
+  spot emphasizes high-quality ingredients sourced directly, creating dishes
+  that highlight the natural taste of the ocean's best offerings. With
+  thoughtful accessibility features and a welcoming atmosphere, it's an ideal
+  choice for anyone exploring top-rated sushi options nearby. The menu balances
+  simplicity with seasonal variety, making it a go-to for locals and visitors
+  alike when craving sushi places near me. Whether you're looking for a relaxed
+  meal or something special, the focus on genuine culinary traditions ensures a
+  memorable dining experience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJjV2ow4wL3IARbkNsF-qcsTw/reviews/ChdDSUhNMG9nS0VJQ0FnSUNmOXZyd2hBRRAB
@@ -362,6 +385,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNuNGNucnpRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNuNGNucnpRRRAB!2m1!1s0x80dc0b8cc3a85d8d:0x3cb19cea176c436e
+review_summary: >-
+  What Customers Are Buzzing About$$$Visitors to this sushi haven often praise
+  the incredibly fresh fish and standout rolls that make every bite feel like a
+  treat, perfect for anyone hunting for reliable sushi restaurants in the area.
+  Many highlight the cozy, laid-back vibe that turns a simple meal into a
+  enjoyable hangout spot, ideal for casual gatherings or quiet evenings. The
+  friendly service adds a warm touch, helping to create a welcoming environment
+  that keeps people coming back for more. Overall, folks appreciate the great
+  value and quality, with dishes like sashimi earning high marks for their
+  flavor and presentation. If you're on the hunt for the best sushi near me,
+  this place consistently delivers a positive experience that's worth trying.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -392,8 +427,8 @@ serves_lunch: null
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Basic sushi bar featuring exotic raw dishes prepared in the culinary
   traditions of Tokyo.
 

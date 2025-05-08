@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Tokyo Sushi Richmond"
+title: Tokyo Sushi Richmond
 permalink: /virginia/glen-allen/tokyo-sushi-richmond.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Glen Allen
 seo:
-  name: "Tokyo Sushi Richmond"
-  type: Restaurant
+  type: restaurant
   links: https://tokyosushitogo.com/
-description: "Relaxed eatery with traditional decor offering sushi & other familiar Japanese dishes. Tokyo Sushi Richmond serves delicious sushi in Glen Allen, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ0zbj3NA_sYkRVRK21QKGQmg
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 0
 website: https://tokyosushitogo.com/
+description: >-
+  Discover Tokyo Sushi in Glen Allen, Virginia$$$Tokyo Sushi Richmond in Glen
+  Allen, VA, provides a welcoming spot for enjoying authentic Japanese flavors,
+  featuring fresh sushi rolls, bento boxes, and hibachi-style dishes in a
+  relaxed setting. The restaurant boasts traditional decor that enhances the
+  dining experience, making it ideal for casual meals or group gatherings with
+  its accessible features like wheelchair-friendly entrances and seating.
+  Patrons appreciate the variety of options that cater to different tastes,
+  including vegetarian choices and kid-friendly menus, all prepared with
+  high-quality ingredients. For those exploring sushi restaurants in the area,
+  this location stands out for its moderate pricing and convenient amenities,
+  such as ample parking and takeout services. It's a go-to choice for anyone
+  seeking top-rated Japanese cuisine close to home.
+generative_summary: >-
+  Discover Tokyo Sushi in Glen Allen, Virginia$$$Tokyo Sushi Richmond in Glen
+  Allen, VA, provides a welcoming spot for enjoying authentic Japanese flavors,
+  featuring fresh sushi rolls, bento boxes, and hibachi-style dishes in a
+  relaxed setting. The restaurant boasts traditional decor that enhances the
+  dining experience, making it ideal for casual meals or group gatherings with
+  its accessible features like wheelchair-friendly entrances and seating.
+  Patrons appreciate the variety of options that cater to different tastes,
+  including vegetarian choices and kid-friendly menus, all prepared with
+  high-quality ingredients. For those exploring sushi restaurants in the area,
+  this location stands out for its moderate pricing and convenient amenities,
+  such as ample parking and takeout services. It's a go-to choice for anyone
+  seeking top-rated Japanese cuisine close to home.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ0zbj3NA_sYkRVRK21QKGQmg/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJejRHQXNRRRAB
@@ -368,6 +393,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNxb3RmNDB3RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNxb3RmNDB3RRAB!2m1!1s0x89b13fd0dce336d3:0x68428602d5b61255
+review_summary: >-
+  What Customers Are Saying$$$Visitors often praise the fresh and flavorful
+  sushi at this spot, highlighting how the rolls and appetizers deliver a
+  satisfying mix of tastes that feel surprisingly high-quality for a
+  neighborhood eatery. Many note the friendly service and welcoming vibe, which
+  keeps the atmosphere light and enjoyable for families and groups alike.
+  Feedback frequently mentions the generous portions and tasty hibachi options,
+  making it a solid pick for anyone craving a reliable meal without the fuss.
+  Overall, folks appreciate how this place consistently hits the mark on
+  freshness and variety, encouraging repeat visits for those hunting for great
+  sushi nearby. While opinions are generally enthusiastic, it's clear that the
+  straightforward appeal and attentive staff make it a favorite for casual
+  diners in the region.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -401,8 +440,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Relaxed eatery with traditional decor offering sushi & other familiar Japanese
   dishes.
 

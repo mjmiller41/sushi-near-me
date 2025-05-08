@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Oriental Chinese & Sushi Restaurant"
+title: Oriental Chinese & Sushi Restaurant
 permalink: /oregon/salem/oriental-chinese-sushi-restaurant.html
 stateAbbr: OR
 stateName: Oregon
 cityName: Salem
 seo:
-  name: "Oriental Chinese & Sushi Restaurant"
-  type: Restaurant
+  type: restaurant
   links: http://www.orientalchinesesushi.com/
-description: "Oriental Chinese & Sushi Restaurant serves delicious sushi in Salem, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJUV1gQOv-v1QRgoUzC_LbYYE
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x54bffeeb40605d51:0x8161dbf20b338582!10e5
 primary_type: Chinese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:00 PM'
     - 'Saturday: 11:00 AM – 9:00 PM'
     - 'Sunday: 11:00 AM – 9:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 9:00 PM'
-    - 'Saturday: 11:00 AM – 9:00 PM'
-    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +238,262 @@ phone: (503) 581-2023
 price_level: PRICE_LEVEL_INEXPENSIVE
 price_range: $10 &ndash; $20
 rating: '4.5'
-rating_count: 0
+rating_count: 444
 website: http://www.orientalchinesesushi.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Explore Oriental Chinese & Sushi in Salem, OR$$$Oriental Chinese & Sushi
+  Restaurant in Salem, OR, stands out as a casual spot blending flavorful
+  Chinese and Japanese-inspired dishes, making it a go-to for sushi enthusiasts
+  in the area. This eatery offers a welcoming atmosphere with accessible
+  features like wheelchair-friendly parking and seating, ensuring everyone can
+  enjoy their meal comfortably. Diners can savor a variety of options including
+  fresh sushi rolls and classic Chinese favorites, all prepared with a focus on
+  quality and taste that keeps things light and satisfying. The menu extends to
+  affordable combinations and beverages like bubble tea, perfect for those
+  seeking sushi places near me without breaking the bank. With convenient hours
+  and a commitment to fresh ingredients, it's an ideal choice for anyone
+  exploring top-rated sushi restaurants in the region.
+generative_summary: >-
+  Explore Oriental Chinese & Sushi in Salem, OR$$$Oriental Chinese & Sushi
+  Restaurant in Salem, OR, stands out as a casual spot blending flavorful
+  Chinese and Japanese-inspired dishes, making it a go-to for sushi enthusiasts
+  in the area. This eatery offers a welcoming atmosphere with accessible
+  features like wheelchair-friendly parking and seating, ensuring everyone can
+  enjoy their meal comfortably. Diners can savor a variety of options including
+  fresh sushi rolls and classic Chinese favorites, all prepared with a focus on
+  quality and taste that keeps things light and satisfying. The menu extends to
+  affordable combinations and beverages like bubble tea, perfect for those
+  seeking sushi places near me without breaking the bank. With convenient hours
+  and a commitment to fresh ingredients, it's an ideal choice for anyone
+  exploring top-rated sushi restaurants in the region.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJUV1gQOv-v1QRgoUzC_LbYYE/reviews/ChZDSUhNMG9nS0VJQ0FnSUMzM3Z5T0d3EAE
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        Absolutely LOVE this place. Hands down the best chinese food in Salem
+        especially when it comes to quality and service. The food is incredibly
+        flavorful. I enjoy that they have combination plates as an option as it
+        is a great way to get some variety for a wonderful cost! If I could give
+        more than 5 stars I would 
+      languageCode: en
+    originalText:
+      text: >-
+        Absolutely LOVE this place. Hands down the best chinese food in Salem
+        especially when it comes to quality and service. The food is incredibly
+        flavorful. I enjoy that they have combination plates as an option as it
+        is a great way to get some variety for a wonderful cost! If I could give
+        more than 5 stars I would 
+      languageCode: en
+    authorAttribution:
+      displayName: Anna Morales Cortes
+      uri: https://www.google.com/maps/contrib/101508286065213230804/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWnymIeKO8VLy0RBUubQMmEVrO8w-aIKHV4UZc5HzHIn1n_-ini=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-11-05T22:23:00.053512Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUMzM3Z5T0d3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUMzM3Z5T0d3EAE!2m1!1s0x54bffeeb40605d51:0x8161dbf20b338582
+  - name: >-
+      places/ChIJUV1gQOv-v1QRgoUzC_LbYYE/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ3cWNXNkZ3EAE
+    relativePublishTimeDescription: 8 months ago
+    rating: 5
+    text:
+      text: >-
+        We came in on a Sunday right after they opened.
+
+        We were the only customers when we arrived.
+
+        Excellent food, amd service
+
+        We had Happy family, lo mein teriyaki chicken, broccoli beef, and orange
+        chicken.
+
+        All excellent quality.
+
+        The orange chicken isn't the exceptionally sweet intensely orange
+        chicken. But quality is very good. Maybe for a child it won't be quite
+        what they were hoping.
+
+        Overall, we highly recommend this restaurant
+      languageCode: en
+    originalText:
+      text: >-
+        We came in on a Sunday right after they opened.
+
+        We were the only customers when we arrived.
+
+        Excellent food, amd service
+
+        We had Happy family, lo mein teriyaki chicken, broccoli beef, and orange
+        chicken.
+
+        All excellent quality.
+
+        The orange chicken isn't the exceptionally sweet intensely orange
+        chicken. But quality is very good. Maybe for a child it won't be quite
+        what they were hoping.
+
+        Overall, we highly recommend this restaurant
+      languageCode: en
+    authorAttribution:
+      displayName: Bert Illmann
+      uri: https://www.google.com/maps/contrib/100071722629197110351/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIyVif9y8vrMxetqonlH0B2AGQRwSUQhfMfk5T9R1VcqL6YEw=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-08-25T18:45:30.192837Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQ3cWNXNkZ3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQ3cWNXNkZ3EAE!2m1!1s0x54bffeeb40605d51:0x8161dbf20b338582
+  - name: >-
+      places/ChIJUV1gQOv-v1QRgoUzC_LbYYE/reviews/ChdDSUhNMG9nS0VJQ0FnSUR0b1p6ZDVBRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 4
+    text:
+      text: >-
+        Friendly family owned spot. We ordered the shrimp fried rice and shrimp
+        noodle soup as takeout. Cooked to perfection. Not many places make fried
+        rice to our liking, it was not dry and very good portion. The noodle
+        soup was just right, noodles not soggy which was great. Enjoyable meals
+        and fair prices. The place was cleaned and comfortable. We will
+        definitely try them again maybe as dine in. Would recommend!!
+      languageCode: en
+    originalText:
+      text: >-
+        Friendly family owned spot. We ordered the shrimp fried rice and shrimp
+        noodle soup as takeout. Cooked to perfection. Not many places make fried
+        rice to our liking, it was not dry and very good portion. The noodle
+        soup was just right, noodles not soggy which was great. Enjoyable meals
+        and fair prices. The place was cleaned and comfortable. We will
+        definitely try them again maybe as dine in. Would recommend!!
+      languageCode: en
+    authorAttribution:
+      displayName: Jeanne D Andre
+      uri: https://www.google.com/maps/contrib/109506642246971747849/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUnnZr1JLgyL4xF_VrVUfEP3cKLoM7obSWrqAWcKETTQalWMvFzIQ=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-02-05T01:35:51.835206Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR0b1p6ZDVBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR0b1p6ZDVBRRAB!2m1!1s0x54bffeeb40605d51:0x8161dbf20b338582
+  - name: >-
+      places/ChIJUV1gQOv-v1QRgoUzC_LbYYE/reviews/ChZDSUhNMG9nS0VJQ0FnSUNONkx1X1NREAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        10/10. They have a $9 lunch special that comes with an entire and two
+        sides (not pictured). I had their orange chicken and its by far the best
+        I've ever had. Spicy, a little sweet, strong orange flavor.
+
+
+        Even the egg flower soup was full of veggies and flavor.
+
+
+        Holy recommend.
+      languageCode: en
+    originalText:
+      text: >-
+        10/10. They have a $9 lunch special that comes with an entire and two
+        sides (not pictured). I had their orange chicken and its by far the best
+        I've ever had. Spicy, a little sweet, strong orange flavor.
+
+
+        Even the egg flower soup was full of veggies and flavor.
+
+
+        Holy recommend.
+      languageCode: en
+    authorAttribution:
+      displayName: Tyler Teal
+      uri: https://www.google.com/maps/contrib/112219150889801386881/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJpXzbL6Z5EGgZ2XL-aMWVsbyLdDCAN1TBPJZ9FsrKA54KhHQ=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2024-01-11T19:42:32.877977Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNONkx1X1NREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNONkx1X1NREAE!2m1!1s0x54bffeeb40605d51:0x8161dbf20b338582
+  - name: >-
+      places/ChIJUV1gQOv-v1QRgoUzC_LbYYE/reviews/ChdDSUhNMG9nS0VJQ0FnSUMxbHVLR2x3RRAB
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: |-
+        We have been coming here for years!
+        The food is ALWAYS ALWAYS hot and fresh!
+        Their food always satisfy my pregnancy cravings!😅🥰
+        They are so friendly with my kids as well❤️
+      languageCode: en
+    originalText:
+      text: |-
+        We have been coming here for years!
+        The food is ALWAYS ALWAYS hot and fresh!
+        Their food always satisfy my pregnancy cravings!😅🥰
+        They are so friendly with my kids as well❤️
+      languageCode: en
+    authorAttribution:
+      displayName: Jovita
+      uri: https://www.google.com/maps/contrib/116714252315976229787/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWYe7n-6lG4IILnYN4eeAsPvanrUW2L9pWKHh29H6kENKEPJv3mMg=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2023-12-29T06:11:27.435066Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMxbHVLR2x3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMxbHVLR2x3RRAB!2m1!1s0x54bffeeb40605d51:0x8161dbf20b338582
+review_summary: >-
+  Insights from Customer Feedback$$$Folks who've visited this spot often rave
+  about the delicious and well-prepared meals, highlighting the flavorful
+  Chinese and sushi dishes that hit the spot every time. Many appreciate the
+  generous portions and great value, like the combination plates that offer a
+  mix of options without feeling overwhelming on the wallet. Service stands out
+  as friendly and efficient, creating a comfortable vibe that's perfect for
+  families or groups looking for a relaxed meal. While some note that certain
+  dishes might not be as sweet as expected, the overall quality and freshness
+  keep things positive and satisfying. If you're on the hunt for sushi
+  restaurants near me, this place comes highly recommended for its consistent
+  flavors and welcoming feel.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: true
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
 serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_coffee: true
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

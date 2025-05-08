@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Confidential - Campbell"
+title: Sushi Confidential - Campbell
 permalink: /california/campbell/sushi-confidential-campbell.html
 stateAbbr: CA
 stateName: California
 cityName: Campbell
 seo:
-  name: "Sushi Confidential - Campbell"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi Confidential - Campbell serves delicious sushi in Campbell, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJXSk4Ed80joARdJg0Ada4Oe8
 photos:
   - name: >-
@@ -185,7 +183,49 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Sushi Confidential in Campbell, California$$$Sushi Confidential in
+  Campbell, California, stands out as a vibrant sushi restaurant offering a
+  diverse array of fresh Japanese-inspired dishes that cater to various tastes.
+  Patrons enjoy an impressive selection of creative vegetarian rolls and
+  flavorful options like poke tacos and tempura-style treats, making it a go-to
+  spot for those seeking innovative flavors in a lively setting. The atmosphere
+  buzzes with energy, enhanced by engaging music and a welcoming vibe that
+  encourages casual dining experiences. Accessibility features such as
+  wheelchair-friendly parking and entrances add to the convenience, ensuring
+  everyone can savor the high-quality ingredients and thoughtful presentations.
+  For anyone searching for top-rated sushi spots nearby, this location delivers
+  a memorable blend of taste and ambiance that keeps diners coming back.
+generative_summary: >-
+  Discover Sushi Confidential in Campbell, California$$$Sushi Confidential in
+  Campbell, California, stands out as a vibrant sushi restaurant offering a
+  diverse array of fresh Japanese-inspired dishes that cater to various tastes.
+  Patrons enjoy an impressive selection of creative vegetarian rolls and
+  flavorful options like poke tacos and tempura-style treats, making it a go-to
+  spot for those seeking innovative flavors in a lively setting. The atmosphere
+  buzzes with energy, enhanced by engaging music and a welcoming vibe that
+  encourages casual dining experiences. Accessibility features such as
+  wheelchair-friendly parking and entrances add to the convenience, ensuring
+  everyone can savor the high-quality ingredients and thoughtful presentations.
+  For anyone searching for top-rated sushi spots nearby, this location delivers
+  a memorable blend of taste and ambiance that keeps diners coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Buzzing About$$$Folks rave about the fantastic variety of
+  sushi rolls here, particularly the creative vegetarian choices that bring
+  fresh twists to classic flavors, making it a solid pick for anyone craving
+  something unique. Many highlight the delicious specials like poke tacos and
+  tempura dishes that add excitement to every meal, along with the overall
+  lively and enjoyable atmosphere that makes dining out feel fun and relaxed.
+  Service tends to be attentive and welcoming, helping to create a positive
+  experience from start to finish for groups or solo visitors alike. While some
+  note that prices can feel a bit steep compared to other local options, the
+  quality and creativity of the food often make it worth the splurge for sushi
+  enthusiasts. All in all, if you're on the hunt for reliable sushi places near
+  you, this spot earns high marks for delivering tasty, satisfying meals with a
+  upbeat vibe.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +251,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

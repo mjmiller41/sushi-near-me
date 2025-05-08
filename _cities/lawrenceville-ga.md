@@ -5,4 +5,5 @@ permalink: /georgia/lawrenceville/
 stateAbbr: GA
 stateName: Georgia
 cityName: Lawrenceville
+
 ---

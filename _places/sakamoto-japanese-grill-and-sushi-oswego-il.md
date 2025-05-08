@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sakamoto Japanese Grill and Sushi"
+title: Sakamoto Japanese Grill and Sushi
 permalink: /illinois/oswego/sakamoto-japanese-grill-and-sushi.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Oswego
 seo:
-  name: "Sakamoto Japanese Grill and Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.sakamotofun.com/
-description: "Sakamoto Japanese Grill and Sushi serves delicious sushi in Oswego, Illinois. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJK4tgHdrxDogRPTvWm6n4BTY
 photos:
   - name: >-
@@ -170,7 +168,97 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x880ef1da1d608b2b:0x3605f8a99bd63b3d!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 15
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 15
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 3:00 PM, 4:30 – 9:30 PM'
     - 'Tuesday: 11:30 AM – 3:00 PM, 4:30 – 9:30 PM'
     - 'Wednesday: 11:30 AM – 3:00 PM, 4:30 – 9:30 PM'
@@ -178,28 +266,124 @@ opening_hours:
     - 'Friday: 11:30 AM – 10:00 PM'
     - 'Saturday: 11:30 AM – 10:00 PM'
     - 'Sunday: 12:00 – 9:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 3:00 PM, 4:30 – 9:30 PM'
-    - 'Tuesday: 11:30 AM – 3:00 PM, 4:30 – 9:30 PM'
-    - 'Wednesday: 11:30 AM – 3:00 PM, 4:30 – 9:30 PM'
-    - 'Thursday: 11:30 AM – 3:00 PM, 4:30 – 9:30 PM'
-    - 'Friday: 11:30 AM – 10:00 PM'
-    - 'Saturday: 11:30 AM – 10:00 PM'
-    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 0
+        close:
+          day: 0
+          hour: 21
+          minute: 0
+      - open:
+          day: 1
+          hour: 11
+          minute: 30
+        close:
+          day: 1
+          hour: 21
+          minute: 30
+      - open:
+          day: 2
+          hour: 11
+          minute: 30
+        close:
+          day: 2
+          hour: 21
+          minute: 30
+      - open:
+          day: 3
+          hour: 10
+          minute: 30
+        close:
+          day: 3
+          hour: 21
+          minute: 30
+      - open:
+          day: 4
+          hour: 11
+          minute: 30
+        close:
+          day: 4
+          hour: 21
+          minute: 30
+      - open:
+          day: 5
+          hour: 11
+          minute: 30
+        close:
+          day: 5
+          hour: 22
+          minute: 0
+      - open:
+          day: 6
+          hour: 11
+          minute: 30
+        close:
+          day: 6
+          hour: 22
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 11:30 AM – 9:30 PM'
+      - 'Tuesday: 11:30 AM – 9:30 PM'
+      - 'Wednesday: 10:30 AM – 9:30 PM'
+      - 'Thursday: 11:30 AM – 9:30 PM'
+      - 'Friday: 11:30 AM – 10:00 PM'
+      - 'Saturday: 11:30 AM – 10:00 PM'
+      - 'Sunday: 12:00 – 9:00 PM'
+    secondaryHoursType: TAKEOUT
+    nextCloseTime: '2025-05-04T03:00:00Z'
 phone: (630) 554-2388
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.3'
-rating_count: 0
+rating_count: 854
 website: https://www.sakamotofun.com/
+description: >-
+  Discover Sakamoto Japanese Grill and Sushi in Oswego, IL$$$Sakamoto Japanese
+  Grill and Sushi in Oswego, IL, stands out as a welcoming spot for enjoying
+  authentic Japanese cuisine, featuring a relaxed atmosphere that's perfect for
+  families and casual diners. This spot highlights an array of fresh sushi
+  options and grilled dishes that capture the essence of traditional flavors,
+  making it a go-to choice for those seeking sushi restaurants in the area. With
+  thoughtful accessibility features like wheelchair-friendly entrances and
+  seating, it ensures everyone can savor the experience comfortably. Operating
+  with flexible hours including lunch and dinner service, it's easy to drop in
+  for a satisfying meal that balances quality and convenience. Whether you're
+  exploring top-rated Japanese places nearby, this restaurant delivers a blend
+  of specialty rolls and hearty grills that keep locals coming back for more.
+generative_summary: >-
+  Discover Sakamoto Japanese Grill and Sushi in Oswego, IL$$$Sakamoto Japanese
+  Grill and Sushi in Oswego, IL, stands out as a welcoming spot for enjoying
+  authentic Japanese cuisine, featuring a relaxed atmosphere that's perfect for
+  families and casual diners. This spot highlights an array of fresh sushi
+  options and grilled dishes that capture the essence of traditional flavors,
+  making it a go-to choice for those seeking sushi restaurants in the area. With
+  thoughtful accessibility features like wheelchair-friendly entrances and
+  seating, it ensures everyone can savor the experience comfortably. Operating
+  with flexible hours including lunch and dinner service, it's easy to drop in
+  for a satisfying meal that balances quality and convenience. Whether you're
+  exploring top-rated Japanese places nearby, this restaurant delivers a blend
+  of specialty rolls and hearty grills that keep locals coming back for more.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Customer Feedback$$$Visitors to this sushi spot often rave about
+  the fresh, flavorful dishes that make it a standout among local Japanese
+  eateries, with many highlighting the variety of rolls and grills as real
+  highlights. Feedback frequently points to the friendly service and welcoming
+  vibe that enhance the overall dining experience, helping it maintain a solid
+  reputation for casual meals. While some note that wait times can vary during
+  peak hours, the general consensus leans positive, praising the value for the
+  price and kid-friendly options that add to its appeal. Overall, folks
+  searching for reliable sushi near me appreciate the consistent quality and
+  atmosphere that keeps the energy upbeat. If you're in the mood for top-rated
+  sushi places close to you, this location seems to deliver a reliably enjoyable
+  visit based on the buzz around its offerings.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +409,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

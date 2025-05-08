@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Taiko Japanese Restaurant"
+title: Taiko Japanese Restaurant
 permalink: /california/irvine/taiko-japanese-restaurant.html
 stateAbbr: CA
 stateName: California
 cityName: Irvine
 seo:
-  name: "Taiko Japanese Restaurant"
-  type: Restaurant
+  type: restaurant
   links: http://www.taikooc.com/
-description: "Generous portions of carefully sourced Japanese cuisine including seafood star at this small spot. Taiko Japanese Restaurant serves delicious sushi in Irvine, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJBcbCJB3d3IARI4jfyaHaUhQ
 photos:
   - name: >-
@@ -185,6 +183,35 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 0
 website: http://www.taikooc.com/
+description: >-
+  Explore Taiko Japanese Restaurant in Irvine, CA$$$Nestled in Irvine, CA, Taiko
+  Japanese Restaurant offers a welcoming spot for enjoying fresh, carefully
+  prepared Japanese dishes that emphasize generous portions and high-quality
+  ingredients. This cozy eatery specializes in flavorful seafood and other
+  authentic options, making it a go-to choice for those seeking sushi spots in
+  the area that deliver both taste and value. Diners can savor a variety of
+  options, from expertly crafted rolls to hearty mains, all served in a casual
+  setting that highlights the best of Japanese dining. The restaurant's
+  accessibility features, like wheelchair-friendly entrances and parking, ensure
+  a comfortable visit for everyone, enhancing its appeal as a reliable option
+  for local sushi enthusiasts. Whether you're exploring top-rated Japanese
+  places near me or craving a satisfying meal, Taiko stands out for its
+  commitment to quality and welcoming vibe.
+generative_summary: >-
+  Explore Taiko Japanese Restaurant in Irvine, CA$$$Nestled in Irvine, CA, Taiko
+  Japanese Restaurant offers a welcoming spot for enjoying fresh, carefully
+  prepared Japanese dishes that emphasize generous portions and high-quality
+  ingredients. This cozy eatery specializes in flavorful seafood and other
+  authentic options, making it a go-to choice for those seeking sushi spots in
+  the area that deliver both taste and value. Diners can savor a variety of
+  options, from expertly crafted rolls to hearty mains, all served in a casual
+  setting that highlights the best of Japanese dining. The restaurant's
+  accessibility features, like wheelchair-friendly entrances and parking, ensure
+  a comfortable visit for everyone, enhancing its appeal as a reliable option
+  for local sushi enthusiasts. Whether you're exploring top-rated Japanese
+  places near me or craving a satisfying meal, Taiko stands out for its
+  commitment to quality and welcoming vibe.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJBcbCJB3d3IARI4jfyaHaUhQ/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3bnMybE1BEAE
@@ -354,6 +381,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNMek5lV2xRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNMek5lV2xRRRAB!2m1!1s0x80dcdd1d24c2c605:0x1452daa1c9df8823
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors often praise Taiko for its tasty
+  dishes and ample portions, with many highlighting the flavorful rolls and
+  overall satisfying experience that keeps them coming back. While some note
+  that certain items like meats could be cooked more evenly, the chicken and
+  seafood consistently receive positive mentions for their quality and taste.
+  The restaurant's pet-friendly atmosphere and easy parking add to the
+  convenience, making it a hit for casual outings with friends or family.
+  Overall, folks appreciate the friendly service and variety on offer, even if
+  timing of appetizers and mains occasionally feels off. If you're hunting for
+  solid sushi restaurants in the neighborhood, Taiko delivers a generally
+  enjoyable meal with room for small improvements, keeping things upbeat for a
+  relaxed dining adventure.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -386,8 +427,8 @@ serves_lunch: true
 serves_vegetarian_food: false
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Generous portions of carefully sourced Japanese cuisine including seafood star
   at this small spot.
 

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Bonchon Pasadena"
+title: Bonchon Pasadena
 permalink: /maryland/pasadena/bonchon-pasadena.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Pasadena
 seo:
-  name: "Bonchon Pasadena"
-  type: Restaurant
-  links: null
-description: "Bonchon Pasadena serves delicious sushi in Pasadena, Maryland. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://locations.bonchon.com/ll/US/MD/Pasadena/8159-A-Governor-Ritchie-Hwy
 place_id: ChIJG0-XnB_9t4kRaznkXMPU81A
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89b7fd1f9c974f1b:0x50f3d4c35ce4396b!10e5
 primary_type: Asian Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 9:00 PM'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 9:30 PM'
+    - 'Saturday: 11:00 AM – 9:30 PM'
+    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T01:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,53 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (667) 777-4981
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.2'
+rating_count: 353
+website: https://locations.bonchon.com/ll/US/MD/Pasadena/8159-A-Governor-Ritchie-Hwy
+description: >-
+  Discover Bonchon in Pasadena, MD$$$Nestled in Pasadena, MD, Bonchon is a
+  welcoming Asian restaurant chain known for its flavorful Korean fried chicken
+  and a variety of fusion dishes that blend traditional tastes with modern
+  twists. This family-friendly spot offers a cozy atmosphere perfect for casual
+  meals, with accessibility features like wheelchair-friendly entrances and
+  seating that make it easy for everyone to enjoy. Diners can savor crispy,
+  well-seasoned entrees alongside other Asian-inspired options, all served in a
+  setting that emphasizes fresh ingredients and satisfying flavors. Operating
+  with extended hours through the week, it's an ideal choice for those seeking
+  reliable, tasty meals in a vibrant environment that caters to groups and
+  individuals alike.
+generative_summary: >-
+  Discover Bonchon in Pasadena, MD$$$Nestled in Pasadena, MD, Bonchon is a
+  welcoming Asian restaurant chain known for its flavorful Korean fried chicken
+  and a variety of fusion dishes that blend traditional tastes with modern
+  twists. This family-friendly spot offers a cozy atmosphere perfect for casual
+  meals, with accessibility features like wheelchair-friendly entrances and
+  seating that make it easy for everyone to enjoy. Diners can savor crispy,
+  well-seasoned entrees alongside other Asian-inspired options, all served in a
+  setting that emphasizes fresh ingredients and satisfying flavors. Operating
+  with extended hours through the week, it's an ideal choice for those seeking
+  reliable, tasty meals in a vibrant environment that caters to groups and
+  individuals alike.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Buzzing About$$$From what folks are sharing online, this
+  Asian eatery consistently impresses with its tasty fried chicken and flavorful
+  dishes, earning high marks for quality and consistency that keep customers
+  coming back. Many highlight the friendly service and welcoming vibe, noting
+  that the overall experience feels relaxed and enjoyable for a quick bite or
+  family outing. While some mention occasional waits during peak times, the
+  general consensus leans positive, with praise for the generous portions and
+  affordable pricing that make it a solid pick for everyday dining. Overall, it
+  seems like the spot lives up to its reputation as a go-to for flavorful Asian
+  fare, with most agreeing that the taste and atmosphere make it worth trying if
+  you're exploring local options. If you're on the hunt for top-rated spots
+  nearby, this one often gets nods for delivering a satisfying meal without
+  breaking the bank.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +314,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

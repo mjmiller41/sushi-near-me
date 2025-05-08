@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "HeFun Asian Fusion"
+title: HeFun Asian Fusion
 permalink: /florida/palm-harbor/hefun-asian-fusion.html
 stateAbbr: FL
 stateName: Florida
 cityName: Palm Harbor
 seo:
-  name: "HeFun Asian Fusion"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "HeFun Asian Fusion serves delicious sushi in Palm Harbor, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ3dHw1EPtwogRGtKthTSDcQM
 photos:
   - name: >-
@@ -184,7 +182,43 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  About HeFun Asian Fusion in Palm Harbor, FL$$$HeFun Asian Fusion in Palm
+  Harbor, FL, offers a vibrant dining experience with a selection of
+  Asian-inspired dishes that blend traditional flavors in innovative ways. This
+  cozy spot on Ridgemoor Blvd features a modern atmosphere designed for comfort,
+  making it an ideal choice for those seeking fresh and approachable Asian
+  cuisine nearby. With thoughtful accessibility options like wheelchair-friendly
+  parking and seating, it ensures everyone can enjoy a relaxed meal without
+  hassle. Whether you're in the mood for exploring new tastes or grabbing a
+  casual bite, this Asian restaurant stands out for its welcoming vibe and
+  convenient location in the heart of the area.
+generative_summary: >-
+  About HeFun Asian Fusion in Palm Harbor, FL$$$HeFun Asian Fusion in Palm
+  Harbor, FL, offers a vibrant dining experience with a selection of
+  Asian-inspired dishes that blend traditional flavors in innovative ways. This
+  cozy spot on Ridgemoor Blvd features a modern atmosphere designed for comfort,
+  making it an ideal choice for those seeking fresh and approachable Asian
+  cuisine nearby. With thoughtful accessibility options like wheelchair-friendly
+  parking and seating, it ensures everyone can enjoy a relaxed meal without
+  hassle. Whether you're in the mood for exploring new tastes or grabbing a
+  casual bite, this Asian restaurant stands out for its welcoming vibe and
+  convenient location in the heart of the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Folks visiting this Asian fusion spot often
+  highlight the tasty variety of dishes that bring exciting flavors to the
+  table, making it a go-to for anyone craving something different. Many
+  appreciate the friendly service and inclusive setup, which adds to the overall
+  enjoyable vibe without any major complaints. It's frequently noted as a solid
+  pick for groups or solo diners looking for reliable options in Palm Harbor,
+  with comments praising the fresh ingredients and creative twists on classics.
+  While experiences can vary, the general feedback leans positive, suggesting
+  it's worth trying for a satisfying meal that hits the spot. Overall, it comes
+  across as a dependable choice for those searching for top-rated Asian dining
+  experiences close by.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +244,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

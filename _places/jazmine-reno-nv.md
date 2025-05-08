@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Jazmine"
+title: Jazmine
 permalink: /nevada/reno/jazmine.html
 stateAbbr: NV
 stateName: Nevada
 cityName: Reno
 seo:
-  name: "Jazmine"
-  type: Restaurant
+  type: restaurant
   links: https://jazminereno.com/
-description: "Jazmine serves delicious sushi in Reno, Nevada. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJLZ8FP2wVmYARfgKLLDlzDAQ
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8099156c3f059f2d:0x40c73392c8b027e!10e5
 primary_type: Chinese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 20
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 20
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 20
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 8:00 PM'
     - 'Tuesday: 11:00 AM – 8:00 PM'
     - 'Wednesday: 11:00 AM – 8:00 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 8:00 PM'
     - 'Saturday: 11:00 AM – 8:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:00 AM – 8:00 PM'
-    - 'Tuesday: 11:00 AM – 8:00 PM'
-    - 'Wednesday: 11:00 AM – 8:00 PM'
-    - 'Thursday: 11:00 AM – 8:00 PM'
-    - 'Friday: 11:00 AM – 8:00 PM'
-    - 'Saturday: 11:00 AM – 8:00 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +238,271 @@ phone: (775) 851-2888
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.2'
-rating_count: 0
+rating_count: 712
 website: https://jazminereno.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Explore Jazmine in Reno, NV$$$Jazmine in Reno, NV, stands out as a modern
+  Asian dining destination blending Chinese classics with fresh sushi options in
+  an upscale environment. The restaurant features an inviting atmosphere with a
+  bar for cocktails and convenient take-out services, making it ideal for both
+  casual meals and special occasions. Accessibility is a key highlight, with
+  wheelchair-friendly parking, entrances, and seating that ensure everyone can
+  enjoy the experience. Diners can savor a variety of flavorful dishes, from
+  hearty Chinese fare to creative sushi selections, all prepared with quality
+  ingredients. This spot appeals to those seeking top-rated Asian cuisine in a
+  welcoming setting, perfect for groups looking to explore diverse flavors.
+generative_summary: >-
+  Explore Jazmine in Reno, NV$$$Jazmine in Reno, NV, stands out as a modern
+  Asian dining destination blending Chinese classics with fresh sushi options in
+  an upscale environment. The restaurant features an inviting atmosphere with a
+  bar for cocktails and convenient take-out services, making it ideal for both
+  casual meals and special occasions. Accessibility is a key highlight, with
+  wheelchair-friendly parking, entrances, and seating that ensure everyone can
+  enjoy the experience. Diners can savor a variety of flavorful dishes, from
+  hearty Chinese fare to creative sushi selections, all prepared with quality
+  ingredients. This spot appeals to those seeking top-rated Asian cuisine in a
+  welcoming setting, perfect for groups looking to explore diverse flavors.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJLZ8FP2wVmYARfgKLLDlzDAQ/reviews/ChdDSUhNMG9nS0VJQ0FnSUNiNjViVjd3RRAB
+    relativePublishTimeDescription: 9 months ago
+    rating: 5
+    text:
+      text: >-
+        I was on a business trip from out of town and was not looking for fast
+        food. So I stumbled upon this healthier place. The food was phenomenal.
+        They had several chili options on the side. The service was exceptional.
+        You are seated and assigned a server. The ambiance was elegant, I did
+        not expect this from the outside looking in. I suggest you visit with a
+        larger group so you can share a variety of their portions. I will be
+        back on my next trip, I definitely recommend it.
+      languageCode: en
+    originalText:
+      text: >-
+        I was on a business trip from out of town and was not looking for fast
+        food. So I stumbled upon this healthier place. The food was phenomenal.
+        They had several chili options on the side. The service was exceptional.
+        You are seated and assigned a server. The ambiance was elegant, I did
+        not expect this from the outside looking in. I suggest you visit with a
+        larger group so you can share a variety of their portions. I will be
+        back on my next trip, I definitely recommend it.
+      languageCode: en
+    authorAttribution:
+      displayName: joser v
+      uri: https://www.google.com/maps/contrib/104351002622443278501/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVSkANIMZibxZmOZLu1ezpGqXjC5MK7tMODqMPMVBQ-V2Ut8Aji=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-07-30T03:42:40.036324Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNiNjViVjd3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNiNjViVjd3RRAB!2m1!1s0x8099156c3f059f2d:0x40c73392c8b027e
+  - name: >-
+      places/ChIJLZ8FP2wVmYARfgKLLDlzDAQ/reviews/ChdDSUhNMG9nS0VJQ0FnTURneFpQRnJ3RRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 2
+    text:
+      text: >-
+        Food especially sushi is always great and fresh we love it. We’ve been
+        coming here lots of times but this time I have to do review cause enough
+        is enough with the service they providing.
+
+        Food comes out before they serve plates on the table. Order is always
+        messed up and comes out in waves in parts. You have to constantly ask to
+        remove entry plates, to clean the table, and ask for soy sauce (soy
+        sauce should be on the table). (a lady) waitress barely understands what
+        you ask for and whenever she brings something she has a face like she’s
+        doing a favor (this is your job and hence it is not pleasant to eat when
+        you are surrounded by  negative feelings/people) Today I left $25 tip on
+        $177 bill. They were very not happy and they expressed this on their
+        faces with a fake smile to ensure we see it. I smiled back and said good
+        luck.
+
+        Well good for them. Maybe it’s time to learn and hopefully management
+        sees this. Pls fix your service. Your food and place is great but
+        service is really bad. I wish I can give 5 stars but I’ve been here
+        multiple times and service is always really bad.
+      languageCode: en
+    originalText:
+      text: >-
+        Food especially sushi is always great and fresh we love it. We’ve been
+        coming here lots of times but this time I have to do review cause enough
+        is enough with the service they providing.
+
+        Food comes out before they serve plates on the table. Order is always
+        messed up and comes out in waves in parts. You have to constantly ask to
+        remove entry plates, to clean the table, and ask for soy sauce (soy
+        sauce should be on the table). (a lady) waitress barely understands what
+        you ask for and whenever she brings something she has a face like she’s
+        doing a favor (this is your job and hence it is not pleasant to eat when
+        you are surrounded by  negative feelings/people) Today I left $25 tip on
+        $177 bill. They were very not happy and they expressed this on their
+        faces with a fake smile to ensure we see it. I smiled back and said good
+        luck.
+
+        Well good for them. Maybe it’s time to learn and hopefully management
+        sees this. Pls fix your service. Your food and place is great but
+        service is really bad. I wish I can give 5 stars but I’ve been here
+        multiple times and service is always really bad.
+      languageCode: en
+    authorAttribution:
+      displayName: R A
+      uri: https://www.google.com/maps/contrib/113382842165289027196/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocK2qanVSkYm7lt0p9syMViW1ryxkTm3ppkeADQ8WD1siJ-XXQ=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-02-26T04:04:19.039729Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURneFpQRnJ3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURneFpQRnJ3RRAB!2m1!1s0x8099156c3f059f2d:0x40c73392c8b027e
+  - name: >-
+      places/ChIJLZ8FP2wVmYARfgKLLDlzDAQ/reviews/ChZDSUhNMG9nS0VJQ0FnSURONFpTUVp3EAE
+    relativePublishTimeDescription: a year ago
+    rating: 4
+    text:
+      text: >-
+        Jazmine is a somewhat unique experience in that it is both a Chinese and
+        sushi spot. I've not taken the opportunity to partake in the sushi but
+        the Chinese restaurant is a solid bet.
+
+        The Peking Duck with Lotus Rolls and Plum sauce is pretty legit. Many of
+        the dishes fall into the kind of greasy category so prepare yourself for
+        a heavier meal.
+
+        Overall the atmosphere is usually on the quiet end and fairly nicely
+        decorating. Definitely an appropriate stop for a lunch with co-workers
+        with a menu broad enough to suit most tastes.
+      languageCode: en
+    originalText:
+      text: >-
+        Jazmine is a somewhat unique experience in that it is both a Chinese and
+        sushi spot. I've not taken the opportunity to partake in the sushi but
+        the Chinese restaurant is a solid bet.
+
+        The Peking Duck with Lotus Rolls and Plum sauce is pretty legit. Many of
+        the dishes fall into the kind of greasy category so prepare yourself for
+        a heavier meal.
+
+        Overall the atmosphere is usually on the quiet end and fairly nicely
+        decorating. Definitely an appropriate stop for a lunch with co-workers
+        with a menu broad enough to suit most tastes.
+      languageCode: en
+    authorAttribution:
+      displayName: Christopher Schwartz
+      uri: https://www.google.com/maps/contrib/112938653892797874915/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWXPxcof36nBARvh9LlmyQMgf9j44qxLrMfEqXLsAaACi2g_N9wxg=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-01-23T05:12:40.065876Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURONFpTUVp3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURONFpTUVp3EAE!2m1!1s0x8099156c3f059f2d:0x40c73392c8b027e
+  - name: >-
+      places/ChIJLZ8FP2wVmYARfgKLLDlzDAQ/reviews/ChZDSUhNMG9nS0VJQ0FnSUROaTRMSUFnEAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        Discovered this place by accident when I was working in town before
+        COVID. Had some of the best wonton soup I've ever had and brought my
+        husband to experience this restaurant. We had sizzling rice, soup,
+        chicken, chow, fun, and mixed vegetables and absolutely everything was
+        delicious. Our waiter was very helpful and checked on us without being
+        obtrusive and we really enjoyed our meal!
+      languageCode: en
+    originalText:
+      text: >-
+        Discovered this place by accident when I was working in town before
+        COVID. Had some of the best wonton soup I've ever had and brought my
+        husband to experience this restaurant. We had sizzling rice, soup,
+        chicken, chow, fun, and mixed vegetables and absolutely everything was
+        delicious. Our waiter was very helpful and checked on us without being
+        obtrusive and we really enjoyed our meal!
+      languageCode: en
+    authorAttribution:
+      displayName: Kathleen Law
+      uri: https://www.google.com/maps/contrib/113497802893467698668/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLksQXcrBs9GL3UhPDX9_rDx3qLOFcP-zz86s-2jiwcEDAPDg=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-01-26T22:01:47.435585Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUROaTRMSUFnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUROaTRMSUFnEAE!2m1!1s0x8099156c3f059f2d:0x40c73392c8b027e
+  - name: >-
+      places/ChIJLZ8FP2wVmYARfgKLLDlzDAQ/reviews/ChZDSUhNMG9nS0VJQ0FnSUNuNHBfTVl3EAE
+    relativePublishTimeDescription: 7 months ago
+    rating: 4
+    text:
+      text: >-
+        Love the fact that they serve Chinese and sushi. Both are reasonable
+        priced as well. Huge pot stickers! It's just not as crispy as I would
+        like. Still delicious either way!
+      languageCode: en
+    originalText:
+      text: >-
+        Love the fact that they serve Chinese and sushi. Both are reasonable
+        priced as well. Huge pot stickers! It's just not as crispy as I would
+        like. Still delicious either way!
+      languageCode: en
+    authorAttribution:
+      displayName: Garnett Cateil
+      uri: https://www.google.com/maps/contrib/105490840392339731733/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUX8gMiHbpSok1iL3-cASB3zMgvIdACpHGQuHHxP1WT53MIFwgr=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-09-24T11:08:19.960552Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNuNHBfTVl3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNuNHBfTVl3EAE!2m1!1s0x8099156c3f059f2d:0x40c73392c8b027e
+review_summary: >-
+  Visitor Feedback Highlights$$$Folks frequently praise the fresh sushi and
+  tasty Chinese dishes at this Reno favorite, noting how the variety keeps
+  things exciting for repeat visits. While the food stands out as a major win,
+  some mention occasional inconsistencies with service that could use a bit more
+  attention to detail. The ambiance often gets high marks for its elegant vibe,
+  making it a go-to spot for casual get-togethers or family meals. Overall, it's
+  a solid pick for anyone hunting for quality Asian eats, with the positives far
+  outweighing any minor hiccups to deliver a generally enjoyable experience. If
+  you're in the mood for reliable sushi options nearby, this place delivers with
+  a mix of flavors that leave most diners satisfied.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+delivery: false
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
 serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_brunch: false
+serves_cocktails: true
+serves_coffee: true
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Modern Asian spot with an all-you-can-eat sushi bar & lunch & dinner menu of
+  mostly Chinese dishes.
 
 ---

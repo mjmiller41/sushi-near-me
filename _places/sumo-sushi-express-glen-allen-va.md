@@ -1,15 +1,14 @@
 ---
 layout: place
-title: "Sumo Sushi Express"
+title: Sumo Sushi Express
 permalink: /virginia/glen-allen/sumo-sushi-express.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Glen Allen
 seo:
-  name: "Sumo Sushi Express"
-  type: Restaurant
-  links: https://www.facebook.com/people/Sumo-Sushi-Express-at-Glen-Allen-Virginia/100063725402660/
-description: "Sumo Sushi Express serves delicious sushi in Glen Allen, Virginia. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: >-
+    https://www.facebook.com/people/Sumo-Sushi-Express-at-Glen-Allen-Virginia/100063725402660/
 place_id: ChIJQURVMt09sYkR_P8YLEodWZA
 photos:
   - name: >-
@@ -170,7 +169,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89b13ddd32554441:0x90591d4a2c18fffc!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 14
+        minute: 0
+      close:
+        day: 0
+        hour: 19
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 20
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 20
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 20
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 20
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 20
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 20
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 8:00 PM'
     - 'Tuesday: 11:30 AM – 8:00 PM'
     - 'Wednesday: 11:30 AM – 8:00 PM'
@@ -178,14 +235,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 8:00 PM'
     - 'Saturday: 12:00 – 8:00 PM'
     - 'Sunday: 2:00 – 7:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 8:00 PM'
-    - 'Tuesday: 11:30 AM – 8:00 PM'
-    - 'Wednesday: 11:30 AM – 8:00 PM'
-    - 'Thursday: 11:30 AM – 8:00 PM'
-    - 'Friday: 11:30 AM – 8:00 PM'
-    - 'Saturday: 12:00 – 8:00 PM'
-    - 'Sunday: 2:00 – 7:00 PM'
+  nextCloseTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,10 +247,45 @@ phone: (804) 477-6644
 price_level: PRICE_LEVEL_INEXPENSIVE
 price_range: $10 &ndash; $20
 rating: '4.7'
-rating_count: 0
+rating_count: 276
 website: >-
   https://www.facebook.com/people/Sumo-Sushi-Express-at-Glen-Allen-Virginia/100063725402660/
+description: >-
+  Discover Sumo Sushi Express in Glen Allen, VA$$$Sumo Sushi Express in Glen
+  Allen, VA, stands out as a casual dining spot specializing in fresh and
+  flavorful sushi options that cater to a variety of tastes. This local eatery
+  offers an array of rolls and dishes, making it a go-to choice for those
+  seeking quality sushi dining in a welcoming atmosphere. With accessibility
+  features like wheelchair-friendly parking and entrances, it ensures everyone
+  can enjoy the experience comfortably. The menu highlights creative sushi
+  selections at reasonable prices, perfect for a quick meal or relaxed
+  gathering. Operating with convenient hours, it's an ideal spot for anyone
+  exploring sushi places nearby to savor authentic flavors without the fuss.
+generative_summary: >-
+  Discover Sumo Sushi Express in Glen Allen, VA$$$Sumo Sushi Express in Glen
+  Allen, VA, stands out as a casual dining spot specializing in fresh and
+  flavorful sushi options that cater to a variety of tastes. This local eatery
+  offers an array of rolls and dishes, making it a go-to choice for those
+  seeking quality sushi dining in a welcoming atmosphere. With accessibility
+  features like wheelchair-friendly parking and entrances, it ensures everyone
+  can enjoy the experience comfortably. The menu highlights creative sushi
+  selections at reasonable prices, perfect for a quick meal or relaxed
+  gathering. Operating with convenient hours, it's an ideal spot for anyone
+  exploring sushi places nearby to savor authentic flavors without the fuss.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors often praise the fresh sushi at this
+  spot, with standout rolls delivering a burst of flavors that keep things
+  exciting and satisfying. Many appreciate the tasty gyoza and other sides that
+  complement the main dishes, making meals feel complete and enjoyable. Folks
+  highlight the friendly service and great value, turning simple visits into
+  pleasant experiences worth repeating. Overall, the vibe here is laid-back and
+  welcoming, ideal for anyone looking for reliable sushi options without
+  breaking the bank. It's clear that this place earns its high marks by focusing
+  on quality ingredients and a positive dining environment, encouraging more
+  people to check out local favorites like this one.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -226,7 +311,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

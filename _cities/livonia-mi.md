@@ -5,4 +5,5 @@ permalink: /michigan/livonia/
 stateAbbr: MI
 stateName: Michigan
 cityName: Livonia
+
 ---

@@ -1,15 +1,14 @@
 ---
 layout: place
-title: "CRAVE American Kitchen & Sushi Bar (Woodbury Lakes - Woodbury)"
-permalink: /minnesota/woodbury/crave-american-kitchen-sushi-bar-woodbury-lakes-woodbury.html
+title: CRAVE American Kitchen & Sushi Bar (Woodbury Lakes - Woodbury)
+permalink: >-
+  /minnesota/woodbury/crave-american-kitchen-sushi-bar-woodbury-lakes-woodbury.html
 stateAbbr: MN
 stateName: Minnesota
 cityName: Woodbury
 seo:
-  name: "CRAVE American Kitchen & Sushi Bar (Woodbury Lakes - Woodbury)"
-  type: Restaurant
-  links: null
-description: "CRAVE American Kitchen & Sushi Bar (Woodbury Lakes - Woodbury) serves delicious sushi in Woodbury, Minnesota. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://cravewoodbury.com/
 place_id: ChIJXxxwPRfY94cRM_dHG1Qn0fQ
 photos:
   - name: >-
@@ -170,22 +169,172 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x87f7d8173d701c5f:0xf4d127541b47f733!10e5
 primary_type: American Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 9:00 PM'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 10:00 PM'
+    - 'Saturday: 11:00 AM – 10:00 PM'
+    - 'Sunday: 11:00 AM – 8:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+  - openNow: false
+    periods:
+      - open:
+          day: 1
+          hour: 15
+          minute: 0
+        close:
+          day: 1
+          hour: 18
+          minute: 0
+      - open:
+          day: 2
+          hour: 15
+          minute: 0
+        close:
+          day: 2
+          hour: 18
+          minute: 0
+      - open:
+          day: 3
+          hour: 15
+          minute: 0
+        close:
+          day: 3
+          hour: 18
+          minute: 0
+      - open:
+          day: 4
+          hour: 15
+          minute: 0
+        close:
+          day: 4
+          hour: 18
+          minute: 0
+      - open:
+          day: 5
+          hour: 15
+          minute: 0
+        close:
+          day: 5
+          hour: 18
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 3:00 – 6:00 PM'
+      - 'Tuesday: 3:00 – 6:00 PM'
+      - 'Wednesday: 3:00 – 6:00 PM'
+      - 'Thursday: 3:00 – 6:00 PM'
+      - 'Friday: 3:00 – 6:00 PM'
+      - 'Saturday: Closed'
+      - 'Sunday: Closed'
+    secondaryHoursType: HAPPY_HOUR
+    nextOpenTime: '2025-05-05T20:00:00Z'
+phone: (651) 756-1000
+price_level: PRICE_LEVEL_MODERATE
+price_range: $30 &ndash; $50
+rating: '4.1'
+rating_count: 1481
+website: https://cravewoodbury.com/
+description: >-
+  Discover CRAVE in Woodbury, MN$$$CRAVE American Kitchen & Sushi Bar in
+  Woodbury, MN, offers a vibrant blend of modern American cuisine and fresh
+  sushi options, making it a standout spot for diners seeking variety in a
+  welcoming environment. The restaurant features accessible entrances, seating,
+  and restrooms, ensuring a comfortable experience for all guests, along with a
+  clean, contemporary atmosphere that enhances every meal. Patrons can enjoy a
+  menu highlighted by inventive sushi rolls and other flavorful dishes, paired
+  with moderately priced selections that cater to both casual lunches and
+  evening outings. With extended hours including weekends, it's an ideal choice
+  for those exploring top-rated sushi restaurants near urban hubs, providing a
+  seamless mix of quality and convenience.
+generative_summary: >-
+  Discover CRAVE in Woodbury, MN$$$CRAVE American Kitchen & Sushi Bar in
+  Woodbury, MN, offers a vibrant blend of modern American cuisine and fresh
+  sushi options, making it a standout spot for diners seeking variety in a
+  welcoming environment. The restaurant features accessible entrances, seating,
+  and restrooms, ensuring a comfortable experience for all guests, along with a
+  clean, contemporary atmosphere that enhances every meal. Patrons can enjoy a
+  menu highlighted by inventive sushi rolls and other flavorful dishes, paired
+  with moderately priced selections that cater to both casual lunches and
+  evening outings. With extended hours including weekends, it's an ideal choice
+  for those exploring top-rated sushi restaurants near urban hubs, providing a
+  seamless mix of quality and convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Feedback on the Experience$$$Visitors often rave about the tasty sushi and
+  creative American dishes at this spot, noting how the fresh flavors and
+  variety keep things exciting for a quick bite or a full meal. Many appreciate
+  the friendly service and upbeat vibe that make dining out feel effortless and
+  enjoyable, turning it into a go-to for groups or solo adventurers. While some
+  mention that the prices might stretch a bit higher than expected, the overall
+  value shines through in the generous portions and memorable tastes that leave
+  a positive impression. In a casual setting like this, folks frequently
+  highlight the clean surroundings and efficient staff as reasons to return,
+  making it a solid pick for anyone hunting for reliable sushi places nearby.
+  All in all, it's a welcoming destination that balances fun flavors with
+  attentive hospitality, encouraging repeat visits for those who love sushi.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +360,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

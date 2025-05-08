@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sumo Sushi & Grill"
+title: Sumo Sushi & Grill
 permalink: /colorado/longmont/sumo-sushi-grill.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Longmont
 seo:
-  name: "Sumo Sushi & Grill"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sumo Sushi & Grill serves delicious sushi in Longmont, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJq2xScrz5a4cR9AVHU4dsp_c
 photos:
   - name: >-
@@ -185,7 +183,49 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Sumo Sushi & Grill in Longmont, CO$$$Sumo Sushi & Grill in Longmont,
+  CO, is a welcoming spot for enjoying a variety of fresh sushi and
+  Japanese-inspired dishes, blending casual vibes with flavorful options that
+  appeal to those seeking authentic Asian cuisine. This restaurant features a
+  relaxed atmosphere enhanced by a full bar and hibachi grilling experiences,
+  making it an ideal choice for casual dinners or quick meals in the area.
+  Patrons can savor a mix of sushi rolls, Chinese-inspired fare, and other
+  Japanese specialties, all prepared with attention to quality and taste.
+  Accessibility is a highlight, with features like wheelchair-friendly entrances
+  and seating that ensure everyone can enjoy the experience comfortably. Whether
+  you're exploring sushi restaurants nearby or looking for a laid-back spot to
+  unwind, this location stands out for its approachable dining style and diverse
+  menu selections.
+generative_summary: >-
+  Discover Sumo Sushi & Grill in Longmont, CO$$$Sumo Sushi & Grill in Longmont,
+  CO, is a welcoming spot for enjoying a variety of fresh sushi and
+  Japanese-inspired dishes, blending casual vibes with flavorful options that
+  appeal to those seeking authentic Asian cuisine. This restaurant features a
+  relaxed atmosphere enhanced by a full bar and hibachi grilling experiences,
+  making it an ideal choice for casual dinners or quick meals in the area.
+  Patrons can savor a mix of sushi rolls, Chinese-inspired fare, and other
+  Japanese specialties, all prepared with attention to quality and taste.
+  Accessibility is a highlight, with features like wheelchair-friendly entrances
+  and seating that ensure everyone can enjoy the experience comfortably. Whether
+  you're exploring sushi restaurants nearby or looking for a laid-back spot to
+  unwind, this location stands out for its approachable dining style and diverse
+  menu selections.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying About the Experience$$$Folks often highlight the
+  delicious and fresh sushi, sashimi, and hibachi dishes at this spot, noting
+  how they hit the spot for anyone craving top-rated Japanese flavors. The staff
+  comes across as friendly and attentive, helping to make every visit feel
+  smooth and enjoyable without any fuss. Many appreciate the modern, comfortable
+  setting and the fact that prices are reasonable, especially with those great
+  lunch specials that offer good value. Overall, it's a go-to place for groups
+  or individuals hunting for reliable sushi options, with positive vibes around
+  the portions and variety that keep diners coming back. If you're on the hunt
+  for sushi near you, this restaurant seems to deliver a satisfying meal that
+  balances quality and affordability.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +251,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

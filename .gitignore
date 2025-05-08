@@ -1,9 +1,10 @@
 node_modules
 package-lock.json
 _site
+_states
+_cities
+_places
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
 .env
-sushi_places_bk.json
-rds-ca-bundle.pem

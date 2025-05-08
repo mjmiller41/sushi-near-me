@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Moshi Moshi"
+title: Moshi Moshi
 permalink: /massachusetts/northampton/moshi-moshi.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Northampton
 seo:
-  name: "Moshi Moshi"
-  type: Restaurant
+  type: restaurant
   links: http://moshimoshisam.com/
-description: "Moshi Moshi serves delicious sushi in Northampton, Massachusetts. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJuSNhSkbX5okR09_q0hWhfvg
 photos:
   - name: >-
@@ -170,7 +168,97 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89e6d7464a6123b9:0xf87ea115d2eadfd3!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 12
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 20
+        minute: 30
+    - open:
+        day: 2
+        hour: 12
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 30
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 30
+    - open:
+        day: 4
+        hour: 12
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 30
+    - open:
+        day: 5
+        hour: 12
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 20
+        minute: 30
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 14
+        minute: 30
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 20
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 12:00 – 2:30 PM, 5:00 – 8:30 PM'
     - 'Tuesday: 12:00 – 2:30 PM, 5:00 – 8:30 PM'
     - 'Wednesday: 5:00 – 8:30 PM'
@@ -178,14 +266,7 @@ opening_hours:
     - 'Friday: 12:00 – 2:30 PM, 5:00 – 8:30 PM'
     - 'Saturday: 12:00 – 2:30 PM, 5:00 – 8:30 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 12:00 – 2:30 PM, 5:00 – 8:30 PM'
-    - 'Tuesday: 12:00 – 2:30 PM, 5:00 – 8:30 PM'
-    - 'Wednesday: 5:00 – 8:30 PM'
-    - 'Thursday: 12:00 – 2:30 PM, 5:00 – 8:30 PM'
-    - 'Friday: 12:00 – 2:30 PM, 5:00 – 8:30 PM'
-    - 'Saturday: 12:00 – 2:30 PM, 5:00 – 8:30 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T00:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +278,46 @@ phone: (413) 586-5865
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.4'
-rating_count: 0
+rating_count: 265
 website: http://moshimoshisam.com/
+description: >-
+  Experience Moshi Moshi in Northampton, MA$$$Moshi Moshi in Northampton, MA,
+  stands out as a welcoming Japanese restaurant offering a variety of fresh
+  sushi and sashimi in a relaxed, casual setting. This spot highlights authentic
+  Japanese flavors with an emphasis on high-quality ingredients and simple yet
+  elegant presentations, making it a go-to for those seeking flavorful dining
+  options. Accessibility features like wheelchair-friendly entrances and seating
+  add to its appeal for all visitors, while the moderate price range keeps it
+  accessible for everyday meals. Operating hours span lunch and dinner services
+  on most days, providing flexibility for locals and travelers alike looking for
+  satisfying Japanese cuisine nearby.
+generative_summary: >-
+  Experience Moshi Moshi in Northampton, MA$$$Moshi Moshi in Northampton, MA,
+  stands out as a welcoming Japanese restaurant offering a variety of fresh
+  sushi and sashimi in a relaxed, casual setting. This spot highlights authentic
+  Japanese flavors with an emphasis on high-quality ingredients and simple yet
+  elegant presentations, making it a go-to for those seeking flavorful dining
+  options. Accessibility features like wheelchair-friendly entrances and seating
+  add to its appeal for all visitors, while the moderate price range keeps it
+  accessible for everyday meals. Operating hours span lunch and dinner services
+  on most days, providing flexibility for locals and travelers alike looking for
+  satisfying Japanese cuisine nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Visitor Feedback on Moshi Moshi$$$With a solid rating from hundreds of diners,
+  this sushi spot in Northampton tends to impress fans of Japanese fare who
+  appreciate the fresh flavors and straightforward vibe. People often mention
+  enjoying the variety of rolls and dishes that hit the spot without
+  overcomplicating things, making it a reliable choice for casual meals. While
+  some note that service can vary, the overall consensus leans positive,
+  highlighting good value and tasty options that keep customers coming back.
+  It's easy to see why this place ranks highly among local eateries, offering a
+  welcoming atmosphere that's perfect for groups or solo diners searching for
+  solid sushi experiences. If you're exploring options like top-rated sushi
+  nearby, it seems many agree this one delivers on fresh tastes and friendly
+  vibes without major letdowns.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +343,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

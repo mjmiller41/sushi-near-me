@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Bluefins"
+title: Bluefins
 permalink: /massachusetts/falmouth/bluefins.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Falmouth
 seo:
-  name: "Bluefins"
-  type: Restaurant
+  type: restaurant
   links: http://www.bluefinsfalmouth.com/
-description: "Bluefins serves delicious sushi in Falmouth, Massachusetts. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJrWiYFXnX5IkRqW87Ud1Uxc0
 photos:
   - name: >-
@@ -170,7 +168,49 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89e4d779159868ad:0xcdc554dd513b6fa9!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 5:00 – 9:00 PM'
     - 'Wednesday: 5:00 – 9:00 PM'
@@ -178,14 +218,7 @@ opening_hours:
     - 'Friday: 5:00 – 9:30 PM'
     - 'Saturday: 5:00 – 9:30 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 5:00 – 9:00 PM'
-    - 'Wednesday: 5:00 – 9:00 PM'
-    - 'Thursday: 5:00 – 9:00 PM'
-    - 'Friday: 5:00 – 9:30 PM'
-    - 'Saturday: 5:00 – 9:30 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T01:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +230,47 @@ phone: (774) 763-6421
 price_level: null
 price_range: $50 &ndash; $100
 rating: '4.7'
-rating_count: 0
+rating_count: 196
 website: http://www.bluefinsfalmouth.com/
+description: >-
+  Discover Bluefins in Falmouth, MA$$$Bluefins in Falmouth, MA, stands out as a
+  vibrant sushi destination offering a mix of classic and inventive rolls that
+  appeal to those seeking top-rated sushi near the coast. This trendy spot
+  features an extensive array of Asian fusion dishes and refreshing cocktails,
+  making it a go-to choice for anyone exploring sushi restaurants in the area.
+  With accessibility options like wheelchair-friendly entrances and seating, it
+  ensures a welcoming experience for all visitors. The restaurant's cozy
+  atmosphere and thoughtful menu selections highlight its commitment to quality,
+  ideal for casual dinners or special occasions. Operating evenings from Tuesday
+  through Saturday, it's perfectly positioned for locals and travelers alike
+  looking for reliable sushi places near me.
+generative_summary: >-
+  Discover Bluefins in Falmouth, MA$$$Bluefins in Falmouth, MA, stands out as a
+  vibrant sushi destination offering a mix of classic and inventive rolls that
+  appeal to those seeking top-rated sushi near the coast. This trendy spot
+  features an extensive array of Asian fusion dishes and refreshing cocktails,
+  making it a go-to choice for anyone exploring sushi restaurants in the area.
+  With accessibility options like wheelchair-friendly entrances and seating, it
+  ensures a welcoming experience for all visitors. The restaurant's cozy
+  atmosphere and thoughtful menu selections highlight its commitment to quality,
+  ideal for casual dinners or special occasions. Operating evenings from Tuesday
+  through Saturday, it's perfectly positioned for locals and travelers alike
+  looking for reliable sushi places near me.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Feedback from diners paints Bluefins as a solid
+  favorite, with many highlighting the fresh flavors and creative twists on
+  traditional rolls that keep things exciting. Folks often mention the friendly
+  service and relaxed vibe, making it a comfortable spot for everything from
+  quick bites to group outings, though some note wait times during peak hours.
+  Overall, the high ratings reflect genuine appreciation for the consistent
+  quality and variety, suggesting it's a reliable pick for anyone craving the
+  best sushi around. While a few comments touch on portion sizes, the positives
+  far outweigh any minor drawbacks, leaving most people eager to return for
+  more. In a casual scene like Falmouth, it comes across as a welcoming haunt
+  that delivers on flavor without the fuss.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +296,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi King"
+title: Sushi King
 permalink: /new-york/brooklyn/sushi-king.html
 stateAbbr: NY
 stateName: New York
 cityName: Brooklyn
 seo:
-  name: "Sushi King"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi King serves delicious sushi in Brooklyn, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJKYh0M5BdwokR-E4uw40hpi8
 photos:
   - name: >-
@@ -169,8 +167,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c25d9033748829:0x2fa6218dc32e4ef8!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 23
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 23
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 23
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 23
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 23
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 23
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: Closed'
+    - 'Tuesday: 11:00 AM – 11:30 PM'
+    - 'Wednesday: 11:00 AM – 11:30 PM'
+    - 'Thursday: 11:00 AM – 11:30 PM'
+    - 'Friday: 11:00 AM – 11:30 PM'
+    - 'Saturday: 11:00 AM – 11:30 PM'
+    - 'Sunday: 11:00 AM – 11:30 PM'
+  nextCloseTime: '2025-05-04T03:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -178,13 +233,49 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
+phone: (718) 443-3388
 price_level: null
-price_range: null
-rating: null
-rating_count: 0
+price_range: $10 &ndash; $20
+rating: '4.3'
+rating_count: 149
 website: null
+description: >-
+  Explore Sushi King in Brooklyn, NY$$$Sushi King in Brooklyn, New York, stands
+  out as a welcoming sushi restaurant that combines fresh flavors with a relaxed
+  vibe, perfect for casual dining enthusiasts. This spot offers an array of
+  delicious rolls and sashimi, crafted in a cozy, informal environment that
+  makes it easy to enjoy Japanese-inspired cuisine without the fuss. With
+  convenient hours that cater to both lunch and dinner crowds, it's an ideal
+  choice for anyone seeking quality sushi restaurants in the area. Accessibility
+  features like wheelchair-friendly entrances add to the appeal, ensuring a
+  comfortable visit for all. Whether you're looking for sushi places near you,
+  this location delivers on taste and convenience in the heart of Bushwick.
+generative_summary: >-
+  Explore Sushi King in Brooklyn, NY$$$Sushi King in Brooklyn, New York, stands
+  out as a welcoming sushi restaurant that combines fresh flavors with a relaxed
+  vibe, perfect for casual dining enthusiasts. This spot offers an array of
+  delicious rolls and sashimi, crafted in a cozy, informal environment that
+  makes it easy to enjoy Japanese-inspired cuisine without the fuss. With
+  convenient hours that cater to both lunch and dinner crowds, it's an ideal
+  choice for anyone seeking quality sushi restaurants in the area. Accessibility
+  features like wheelchair-friendly entrances add to the appeal, ensuring a
+  comfortable visit for all. Whether you're looking for sushi places near you,
+  this location delivers on taste and convenience in the heart of Bushwick.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Visitor Insights on Sushi King$$$Visitors often rave about the fresh and
+  flavorful dishes at this Brooklyn sushi spot, highlighting how the variety
+  keeps things exciting for repeat visits. Many appreciate the reasonable prices
+  that make it a go-to for everyday meals, with comments frequently noting the
+  welcoming atmosphere that enhances the overall experience. While some mention
+  occasional waits during peak times, the general consensus leans positive,
+  praising the consistent quality that earns it high marks among local
+  favorites. If you're hunting for top-rated sushi near you, this place delivers
+  solid satisfaction with its approachable menu and friendly service. Overall,
+  it's a reliable option that balances taste and value, making it worth trying
+  for anyone in the neighborhood.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +301,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

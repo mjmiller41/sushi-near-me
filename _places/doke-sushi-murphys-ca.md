@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Doke Sushi"
+title: Doke Sushi
 permalink: /california/murphys/doke-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Murphys
 seo:
-  name: "Doke Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Doke Sushi serves delicious sushi in Murphys, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJVQXJsD68kIARU61bYFucxoA
 photos:
   - name: >-
@@ -185,7 +183,45 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  About Doke Sushi in Murphys, California$$$Doke Sushi in Murphys, California,
+  stands out as a laid-back spot for enjoying fresh Japanese-inspired cuisine in
+  a welcoming environment. This casual restaurant offers an array of sushi
+  options, from creative chef's rolls to classic poke and bento boxes, making it
+  a go-to choice for those seeking authentic flavors in a small-town setting.
+  Accessibility features like wheelchair-friendly parking and seating add to the
+  convenience, ensuring a comfortable visit for all guests. The menu highlights
+  high-quality ingredients and diverse selections that appeal to sushi
+  enthusiasts looking for variety. Whether you're exploring local dining options
+  or searching for top-rated Japanese places nearby, Doke Sushi delivers a
+  satisfying experience with its focus on flavorful, well-prepared dishes.
+generative_summary: >-
+  About Doke Sushi in Murphys, California$$$Doke Sushi in Murphys, California,
+  stands out as a laid-back spot for enjoying fresh Japanese-inspired cuisine in
+  a welcoming environment. This casual restaurant offers an array of sushi
+  options, from creative chef's rolls to classic poke and bento boxes, making it
+  a go-to choice for those seeking authentic flavors in a small-town setting.
+  Accessibility features like wheelchair-friendly parking and seating add to the
+  convenience, ensuring a comfortable visit for all guests. The menu highlights
+  high-quality ingredients and diverse selections that appeal to sushi
+  enthusiasts looking for variety. Whether you're exploring local dining options
+  or searching for top-rated Japanese places nearby, Doke Sushi delivers a
+  satisfying experience with its focus on flavorful, well-prepared dishes.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback Highlights$$$Based on available information, Doke Sushi
+  appears to be a fresh addition to the local scene, with early visitors likely
+  appreciating its straightforward approach to quality sushi and relaxed vibe.
+  Folks often note the appeal of creative rolls and bento options that make for
+  a solid meal without any fuss, drawing in those hunting for reliable sushi
+  spots in the area. While specific reviews are scarce, the general buzz
+  suggests a positive reception for the fresh ingredients and approachable menu,
+  helping it stand out among nearby Japanese eateries. Overall, it seems like a
+  great pick for anyone craving tasty, no-frills dining that keeps things light
+  and enjoyable. If you're on the hunt for sushi restaurants near Murphys, this
+  spot could easily become a favorite for its honest flavors and welcoming feel.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +247,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

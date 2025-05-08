@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Tokyoya Sushi"
+title: Tokyoya Sushi
 permalink: /california/burbank/tokyoya-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Burbank
 seo:
-  name: "Tokyoya Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://tokyoyasushi.com/
-description: "Tokyoya Sushi serves delicious sushi in Burbank, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ_YeOpTOVwoAR00pJdV1lhUQ
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c29533a58e87fd:0x4485655d75494ad3!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 9:30 PM'
     - 'Tuesday: 11:30 AM – 9:30 PM'
     - 'Wednesday: 11:30 AM – 9:30 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 10:00 PM'
     - 'Saturday: 11:30 AM – 10:00 PM'
     - 'Sunday: 12:00 – 9:30 PM'
-  current:
-    - 'Monday: 11:30 AM – 9:30 PM'
-    - 'Tuesday: 11:30 AM – 9:30 PM'
-    - 'Wednesday: 11:30 AM – 9:30 PM'
-    - 'Thursday: 11:30 AM – 9:30 PM'
-    - 'Friday: 11:30 AM – 10:00 PM'
-    - 'Saturday: 11:30 AM – 10:00 PM'
-    - 'Sunday: 12:00 – 9:30 PM'
+  nextCloseTime: '2025-05-04T05:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,223 @@ phone: (818) 562-7858
 price_level: PRICE_LEVEL_MODERATE
 price_range: $30 &ndash; $50
 rating: '4.6'
-rating_count: 0
+rating_count: 296
 website: https://tokyoyasushi.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Tokyoya Sushi in Burbank, CA$$$Nestled in the heart of Burbank, CA,
+  Tokyoya Sushi stands out as a welcoming spot for fresh Japanese cuisine
+  enthusiasts, offering a variety of sushi rolls, sashimi, and hearty cooked
+  dishes in a comfortable setting. This cozy eatery emphasizes high-quality
+  ingredients and a diverse menu that caters to those seeking authentic flavors,
+  making it a go-to choice for anyone craving expertly prepared seafood options
+  nearby. With accessibility features like wheelchair-friendly entrances and
+  parking, it's designed to accommodate all visitors, enhancing the overall
+  dining experience. The restaurant's warm ambiance and extended hours add to
+  its appeal, perfect for casual lunches or evening outings, while its selection
+  of beer and wine complements the meal for a well-rounded visit.
+generative_summary: >-
+  Discover Tokyoya Sushi in Burbank, CA$$$Nestled in the heart of Burbank, CA,
+  Tokyoya Sushi stands out as a welcoming spot for fresh Japanese cuisine
+  enthusiasts, offering a variety of sushi rolls, sashimi, and hearty cooked
+  dishes in a comfortable setting. This cozy eatery emphasizes high-quality
+  ingredients and a diverse menu that caters to those seeking authentic flavors,
+  making it a go-to choice for anyone craving expertly prepared seafood options
+  nearby. With accessibility features like wheelchair-friendly entrances and
+  parking, it's designed to accommodate all visitors, enhancing the overall
+  dining experience. The restaurant's warm ambiance and extended hours add to
+  its appeal, perfect for casual lunches or evening outings, while its selection
+  of beer and wine complements the meal for a well-rounded visit.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ_YeOpTOVwoAR00pJdV1lhUQ/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3ODduRnZ3RRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Excellent sushi in Burbank. Their omakase menu is amazing, the 7-courses
+        menu is the one you don't want to miss. Service is way above standard.
+        If you are in Burbank try this place out. Chirashi is another amazing
+        dish. Great value for the quality of food they are serving. The vanilla
+        ice cream tempura dessert is a lovely surprise.
+      languageCode: en
+    originalText:
+      text: >-
+        Excellent sushi in Burbank. Their omakase menu is amazing, the 7-courses
+        menu is the one you don't want to miss. Service is way above standard.
+        If you are in Burbank try this place out. Chirashi is another amazing
+        dish. Great value for the quality of food they are serving. The vanilla
+        ice cream tempura dessert is a lovely surprise.
+      languageCode: en
+    authorAttribution:
+      displayName: Terence Kyaw
+      uri: https://www.google.com/maps/contrib/117173542067236667671/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUJT-4a4dK6jiQbcDnTvhMSU9XZk-lcDFlkPTPTUSVa7bWLPBz2=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-03-21T04:15:43.325751Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUN3ODduRnZ3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUN3ODduRnZ3RRAB!2m1!1s0x80c29533a58e87fd:0x4485655d75494ad3
+  - name: >-
+      places/ChIJ_YeOpTOVwoAR00pJdV1lhUQ/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRajlILWRnEAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Came for lunch, no wait. Really enjoyed the seaweed salad and miso soup
+        for appetizers. Blue crab handroll was stuffed with crab. Highly
+        recommend!
+      languageCode: en
+    originalText:
+      text: >-
+        Came for lunch, no wait. Really enjoyed the seaweed salad and miso soup
+        for appetizers. Blue crab handroll was stuffed with crab. Highly
+        recommend!
+      languageCode: en
+    authorAttribution:
+      displayName: Neal Kumar
+      uri: https://www.google.com/maps/contrib/106642563910619588053/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWkiyWG-GpfDDgQarYOkx681dPBqg5zqL4FUPacZo7rOEjJkhbD9A=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-03-08T01:50:07.347280Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNRajlILWRnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNRajlILWRnEAE!2m1!1s0x80c29533a58e87fd:0x4485655d75494ad3
+  - name: >-
+      places/ChIJ_YeOpTOVwoAR00pJdV1lhUQ/reviews/ChZDSUhNMG9nS0VJQ0FnSURfazktbUlBEAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        Great quality food all around! Highly recommend, especially the premium
+        chirashi! It's a little more than I expected but you get your money's
+        worth with the variety!!
+      languageCode: en
+    originalText:
+      text: >-
+        Great quality food all around! Highly recommend, especially the premium
+        chirashi! It's a little more than I expected but you get your money's
+        worth with the variety!!
+      languageCode: en
+    authorAttribution:
+      displayName: Brice Uyeda
+      uri: https://www.google.com/maps/contrib/113656742257748936351/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUsHhQhftVhTJ4-3b5dojdm7L0LBTt8hb2dbfnM2oE-GPMHaPrzhg=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-01-26T21:49:53.574082Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURfazktbUlBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURfazktbUlBEAE!2m1!1s0x80c29533a58e87fd:0x4485655d75494ad3
+  - name: >-
+      places/ChIJ_YeOpTOVwoAR00pJdV1lhUQ/reviews/ChdDSUhNMG9nS0VJQ0FnSUNiX092RG9nRRAB
+    relativePublishTimeDescription: 9 months ago
+    rating: 4
+    text:
+      text: >-
+        Most of the food was fresh at an off peak time. Service was great. Water
+        tasted a little bit like cleaning solution. Scallops were a little
+        disappointing and felt like maybe had freezer burn.
+      languageCode: en
+    originalText:
+      text: >-
+        Most of the food was fresh at an off peak time. Service was great. Water
+        tasted a little bit like cleaning solution. Scallops were a little
+        disappointing and felt like maybe had freezer burn.
+      languageCode: en
+    authorAttribution:
+      displayName: Sung Cho
+      uri: https://www.google.com/maps/contrib/103208993134432738607/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXM8d6MQn8v5WPAnY6C0zCfy-isaC9PJqRYrFlVpAe8IbhKgPGeyw=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-07-24T19:22:27.387318Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNiX092RG9nRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNiX092RG9nRRAB!2m1!1s0x80c29533a58e87fd:0x4485655d75494ad3
+  - name: >-
+      places/ChIJ_YeOpTOVwoAR00pJdV1lhUQ/reviews/ChdDSUhNMG9nS0VJQ0FnSUMyc3F2UzdnRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        This place was an unexpected surprise. My friend wanted to come for her
+        birthday. The first thing I thought was strip mall sushi? I'll go back!
+        Great food priced right and the service was perfect. Parking can be
+        challenging as the lot is small but definitely worth the trip. Don't let
+        the strip mall fool you! Get in there and have some good sushi!
+
+        The roles were really good too!
+      languageCode: en
+    originalText:
+      text: >-
+        This place was an unexpected surprise. My friend wanted to come for her
+        birthday. The first thing I thought was strip mall sushi? I'll go back!
+        Great food priced right and the service was perfect. Parking can be
+        challenging as the lot is small but definitely worth the trip. Don't let
+        the strip mall fool you! Get in there and have some good sushi!
+
+        The roles were really good too!
+      languageCode: en
+    authorAttribution:
+      displayName: Kirt Kingzett
+      uri: https://www.google.com/maps/contrib/101798388379799378999/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWrvXXgeldgcH7m75HH0yiFxa1sXDrISCg9OMkFy_1RBT4xb9Zd=s128-c0x00000000-cc-rp-mo-ba7
+    publishTime: '2023-12-08T06:26:53.328435Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMyc3F2UzdnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMyc3F2UzdnRRAB!2m1!1s0x80c29533a58e87fd:0x4485655d75494ad3
+review_summary: >-
+  What Visitors Are Saying$$$Visitors often rave about the fresh and flavorful
+  sushi selections at this spot, highlighting how the variety and quality make
+  it a standout choice for Japanese dining in the area. Many appreciate the
+  generous portions and great value, especially with popular dishes like
+  chirashi and handrolls that deliver on taste without breaking the bank. While
+  most feedback praises the friendly service and inviting atmosphere, a few note
+  minor inconsistencies with certain items, though these don't overshadow the
+  overall positive vibe. Folks enjoy the appetizers and desserts as delightful
+  additions, making it a reliable pick for groups or solo diners looking for a
+  satisfying meal. Overall, it's clear that this place keeps customers coming
+  back for its solid offerings and welcoming feel, ideal for anyone exploring
+  local favorites.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
+delivery: true
+dine_in: true
 good_for_children: null
 good_for_groups: null
 good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+live_music: false
+menu_for_children: false
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
 serves_breakfast: null
-serves_brunch: null
+serves_brunch: false
 serves_cocktails: null
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

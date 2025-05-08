@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kitajima Sushi & Thai"
+title: Kitajima Sushi & Thai
 permalink: /california/tustin/kitajima-sushi-thai.html
 stateAbbr: CA
 stateName: California
 cityName: Tustin
 seo:
-  name: "Kitajima Sushi & Thai"
-  type: Restaurant
+  type: restaurant
   links: http://www.kitajimasushi.com/
-description: "Familiar Thai fare shares the menu with specialty sushi rolls served in cozy, minimalist digs. Kitajima Sushi & Thai serves delicious sushi in Tustin, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJpzwGTufb3IAR2l10U1fneP8
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 0
 website: http://www.kitajimasushi.com/
+description: >-
+  Discover Kitajima Sushi & Thai in Tustin, CA$$$Kitajima Sushi & Thai in
+  Tustin, California, blends authentic sushi and Thai flavors in a cozy,
+  welcoming environment perfect for casual dining. This spot features fresh
+  ingredients and a variety of specialty rolls alongside Thai classics, making
+  it a go-to choice for those seeking top-rated sushi restaurants in the area.
+  With its moderate pricing and accessible features like wheelchair-friendly
+  seating, it caters to a wide range of diners looking for quality meals without
+  the hassle. The warm ambiance and thoughtful menu options enhance the overall
+  experience, ideal for anyone exploring sushi places near me. Whether you're in
+  the mood for innovative rolls or comforting Thai dishes, this location in El
+  Camino Plaza delivers a satisfying blend of tastes and convenience.
+generative_summary: >-
+  Discover Kitajima Sushi & Thai in Tustin, CA$$$Kitajima Sushi & Thai in
+  Tustin, California, blends authentic sushi and Thai flavors in a cozy,
+  welcoming environment perfect for casual dining. This spot features fresh
+  ingredients and a variety of specialty rolls alongside Thai classics, making
+  it a go-to choice for those seeking top-rated sushi restaurants in the area.
+  With its moderate pricing and accessible features like wheelchair-friendly
+  seating, it caters to a wide range of diners looking for quality meals without
+  the hassle. The warm ambiance and thoughtful menu options enhance the overall
+  experience, ideal for anyone exploring sushi places near me. Whether you're in
+  the mood for innovative rolls or comforting Thai dishes, this location in El
+  Camino Plaza delivers a satisfying blend of tastes and convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJpzwGTufb3IAR2l10U1fneP8/reviews/ChdDSUhNMG9nS0VJQ0FnSUNIenVDY3NRRRAB
@@ -368,6 +391,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNmbXNUWjFBRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNmbXNUWjFBRRAB!2m1!1s0x80dcdbe74e063ca7:0xff78e75753745dda
+review_summary: >-
+  What Visitors Are Saying About the Dining Experience$$$Folks generally rave
+  about the fresh sushi and flavorful Thai options at this spot, highlighting
+  the creative rolls and attentive service that make meals feel special and
+  relaxed. While most agree the atmosphere is chill and accommodating, a few
+  mentions note that portion sizes can sometimes feel on the smaller side, so
+  it's smart to check expectations ahead of time. Overall, the friendly staff
+  and variety of dishes keep things positive, with many calling it a solid pick
+  for groups or families enjoying best sushi near me. Despite a couple of mixed
+  feelings on value, the consensus leans toward it being a reliable choice for
+  tasty, authentic cuisine that hits the spot without any major letdowns. If
+  you're hunting for japanese places near me, this one often comes through as a
+  welcoming option worth trying.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -400,8 +437,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Familiar Thai fare shares the menu with specialty sushi rolls served in cozy,
   minimalist digs.
 

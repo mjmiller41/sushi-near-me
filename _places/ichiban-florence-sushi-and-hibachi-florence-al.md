@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ichiban Florence Sushi And Hibachi"
+title: Ichiban Florence Sushi And Hibachi
 permalink: /alabama/florence/ichiban-florence-sushi-and-hibachi.html
 stateAbbr: AL
 stateName: Alabama
 cityName: Florence
 seo:
-  name: "Ichiban Florence Sushi And Hibachi"
-  type: Restaurant
+  type: restaurant
   links: http://www.iloveichibanflorence.com/
-description: "Ichiban Florence Sushi And Hibachi serves delicious sushi in Florence, Alabama. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJSe4NE71JfYgRvAEXE8c5BlI
 photos:
   - name: >-
@@ -185,6 +183,35 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 0
 website: http://www.iloveichibanflorence.com/
+description: >-
+  Discover Ichiban Sushi and Hibachi in Florence, Alabama$$$Nestled in Florence,
+  Alabama, Ichiban Sushi and Hibachi stands out as a welcoming spot for
+  authentic Japanese dining, blending casual vibes with flavorful
+  teppanyaki-style dishes and fresh sushi options. This eatery offers a variety
+  of hibachi favorites and sushi rolls that highlight quality ingredients and
+  skillful preparation, making it a go-to choice for those seeking Japanese
+  cuisine nearby. With accessibility features like wheelchair-friendly parking
+  and entrances, it's designed to accommodate all visitors comfortably. The
+  moderate pricing ensures a satisfying meal without breaking the bank, while
+  options for dine-in, takeout, and delivery add to its convenience for locals
+  and travelers alike. Whether you're in the mood for a quick sushi fix or a
+  lively hibachi experience, this spot delivers on taste and ease in a relaxed
+  setting.
+generative_summary: >-
+  Discover Ichiban Sushi and Hibachi in Florence, Alabama$$$Nestled in Florence,
+  Alabama, Ichiban Sushi and Hibachi stands out as a welcoming spot for
+  authentic Japanese dining, blending casual vibes with flavorful
+  teppanyaki-style dishes and fresh sushi options. This eatery offers a variety
+  of hibachi favorites and sushi rolls that highlight quality ingredients and
+  skillful preparation, making it a go-to choice for those seeking Japanese
+  cuisine nearby. With accessibility features like wheelchair-friendly parking
+  and entrances, it's designed to accommodate all visitors comfortably. The
+  moderate pricing ensures a satisfying meal without breaking the bank, while
+  options for dine-in, takeout, and delivery add to its convenience for locals
+  and travelers alike. Whether you're in the mood for a quick sushi fix or a
+  lively hibachi experience, this spot delivers on taste and ease in a relaxed
+  setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJSe4NE71JfYgRvAEXE8c5BlI/reviews/ChdDSUhNMG9nS0VJQ0FnSURIajd1NGh3RRAB
@@ -332,6 +359,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURfOVAyOXhBRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURfOVAyOXhBRRAB!2m1!1s0x887d49bd130dee49:0x520639c7131701bc
+review_summary: >-
+  What Customers Are Raving About$$$Folks seem to really enjoy the fresh sushi
+  and hibachi dishes here, often highlighting how the flavors hit the spot and
+  leave them coming back for more. Many appreciate the friendly service and
+  helpful suggestions that make every visit feel smooth and enjoyable, with
+  comments on the tasty sides like vegetable fried rice and ginger salad adding
+  to the overall appeal. The atmosphere comes across as welcoming and fun,
+  especially during hibachi sessions that bring some entertainment to the table.
+  While a few mentions note great experiences even close to closing time, the
+  consistent praise for quality food and attentive staff keeps the energy
+  positive. Overall, it's clear this place earns its high marks as a solid
+  option for anyone hunting for reliable Japanese eats nearby, making it worth
+  checking out for a satisfying meal.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   paidParkingLot: false
@@ -368,7 +409,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

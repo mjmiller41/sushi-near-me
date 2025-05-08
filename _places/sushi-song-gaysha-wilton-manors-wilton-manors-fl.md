@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Song - Gaysha Wilton Manors"
+title: Sushi Song - Gaysha Wilton Manors
 permalink: /florida/wilton-manors/sushi-song-gaysha-wilton-manors.html
 stateAbbr: FL
 stateName: Florida
 cityName: Wilton Manors
 seo:
-  name: "Sushi Song - Gaysha Wilton Manors"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi Song - Gaysha Wilton Manors serves delicious sushi in Wilton Manors, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJCyZVu54B2YgRMzG9pivbHp8
 photos:
   - name: >-
@@ -185,7 +183,45 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Sushi Song in Wilton Manors, FL$$$Sushi Song - Gaysha Wilton Manors
+  in Wilton Manors, FL, stands out as a charming spot for enjoying fresh and
+  authentic Japanese-inspired dishes in a laid-back environment. This sushi
+  restaurant emphasizes high-quality ingredients and a variety of creative rolls
+  that appeal to those seeking top-rated sushi options nearby. With thoughtful
+  accessibility features like wheelchair-friendly parking and entrances, it
+  ensures a welcoming experience for every visitor looking for inclusive dining.
+  The inviting atmosphere, as seen in shared photos, makes it ideal for a casual
+  outing or a quick meal, blending comfort with flavorful cuisine. Whether
+  you're exploring sushi places near you or craving a relaxed dinner, this
+  location delivers a solid choice in the heart of the area.
+generative_summary: >-
+  Discover Sushi Song in Wilton Manors, FL$$$Sushi Song - Gaysha Wilton Manors
+  in Wilton Manors, FL, stands out as a charming spot for enjoying fresh and
+  authentic Japanese-inspired dishes in a laid-back environment. This sushi
+  restaurant emphasizes high-quality ingredients and a variety of creative rolls
+  that appeal to those seeking top-rated sushi options nearby. With thoughtful
+  accessibility features like wheelchair-friendly parking and entrances, it
+  ensures a welcoming experience for every visitor looking for inclusive dining.
+  The inviting atmosphere, as seen in shared photos, makes it ideal for a casual
+  outing or a quick meal, blending comfort with flavorful cuisine. Whether
+  you're exploring sushi places near you or craving a relaxed dinner, this
+  location delivers a solid choice in the heart of the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About Sushi Song$$$Visitors to this sushi spot often
+  rave about the fresh flavors and creative presentations that make every bite
+  feel satisfying and genuine. Many appreciate the relaxed vibe and attentive
+  service, which contribute to a comfortable dining experience without any
+  unnecessary fuss. Feedback highlights the restaurant's ability to cater to a
+  range of tastes, from classic rolls to innovative options, making it a go-to
+  for those searching for the best sushi near me. Overall, people enjoy the
+  inclusive atmosphere and value for money, though some note that wait times can
+  vary during peak hours. If you're in the mood for reliable Japanese-inspired
+  meals, this place tends to leave diners with a positive impression,
+  encouraging return visits for more enjoyable outings.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +247,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

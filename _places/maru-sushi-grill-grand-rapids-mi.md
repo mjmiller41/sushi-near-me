@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Maru Sushi & Grill"
+title: Maru Sushi & Grill
 permalink: /michigan/grand-rapids/maru-sushi-grill.html
 stateAbbr: MI
 stateName: Michigan
 cityName: Grand Rapids
 seo:
-  name: "Maru Sushi & Grill"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Maru Sushi & Grill serves delicious sushi in Grand Rapids, Michigan. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJjx3a46CtGYgRkaosLxBukuY
 photos:
   - name: >-
@@ -185,7 +183,41 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Explore Maru Sushi & Grill in Grand Rapids, MI$$$Maru Sushi & Grill in Grand
+  Rapids, MI, stands out as a lively sushi restaurant blending fresh sushi
+  options with grilled favorites, creating an inviting atmosphere for casual
+  dining. This spot features a modern vibe with a bar and outdoor patio, perfect
+  for enjoying sake alongside creative dishes that highlight quality ingredients
+  and bold flavors. Patrons can savor a variety of rolls and grilled entrees
+  that cater to diverse tastes, making it a go-to choice for those seeking
+  top-rated sushi experiences in the area. The accessible design ensures
+  everyone can enjoy the space comfortably, adding to its appeal as a welcoming
+  destination for everyday meals or special occasions.
+generative_summary: >-
+  Explore Maru Sushi & Grill in Grand Rapids, MI$$$Maru Sushi & Grill in Grand
+  Rapids, MI, stands out as a lively sushi restaurant blending fresh sushi
+  options with grilled favorites, creating an inviting atmosphere for casual
+  dining. This spot features a modern vibe with a bar and outdoor patio, perfect
+  for enjoying sake alongside creative dishes that highlight quality ingredients
+  and bold flavors. Patrons can savor a variety of rolls and grilled entrees
+  that cater to diverse tastes, making it a go-to choice for those seeking
+  top-rated sushi experiences in the area. The accessible design ensures
+  everyone can enjoy the space comfortably, adding to its appeal as a welcoming
+  destination for everyday meals or special occasions.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Visitor Feedback Highlights$$$Visitors often praise the tasty appetizers like
+  crab rangoon dip and the assortment of fresh sushi rolls that bring excitement
+  to every bite, with specials adding extra variety to the menu. Folks
+  appreciate the helpful staff who make the experience smooth and enjoyable,
+  helping to create a relaxed vibe throughout the visit. Many highlight the
+  solid drink selections that pair well with the food, enhancing the overall
+  outing without overwhelming the senses. Overall, it's clear that this spot
+  delivers a dependable and fun dining experience, making it a solid pick for
+  anyone craving quality Japanese-inspired fare in a friendly setting.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +243,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

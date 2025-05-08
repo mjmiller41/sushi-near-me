@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Montira Thai and Sushi"
+title: Montira Thai and Sushi
 permalink: /illinois/glenview/montira-thai-and-sushi.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Glenview
 seo:
-  name: "Montira Thai and Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://montirathaiandsushi.com/
-description: "Quaint kitchen offering Thai curries, soups & noodles in brick-lined digs with outdoor tables. Montira Thai and Sushi serves delicious sushi in Glenview, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJYxoV-ObHD4gRA8xzvR8ejv4
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 0
 website: http://montirathaiandsushi.com/
+description: >-
+  Discover Montira Thai and Sushi in Glenview, IL$$$Montira Thai and Sushi in
+  Glenview, IL, stands out as a casual dining destination blending authentic
+  Thai flavors with fresh sushi options, perfect for those exploring sushi
+  restaurants in the area. The spot features a cozy, brick-lined ambiance with
+  outdoor seating, making it an inviting choice for relaxed meals in a welcoming
+  environment. Accessibility is thoughtfully integrated, including
+  wheelchair-friendly parking and entrances, ensuring everyone can enjoy the
+  experience. Diners appreciate the variety of Thai curries, soups, and noodles
+  alongside beer and wine selections, all served at moderate prices. For anyone
+  seeking top-rated sushi near me, this location delivers a satisfying mix of
+  traditional dishes and modern twists in a comfortable setting.
+generative_summary: >-
+  Discover Montira Thai and Sushi in Glenview, IL$$$Montira Thai and Sushi in
+  Glenview, IL, stands out as a casual dining destination blending authentic
+  Thai flavors with fresh sushi options, perfect for those exploring sushi
+  restaurants in the area. The spot features a cozy, brick-lined ambiance with
+  outdoor seating, making it an inviting choice for relaxed meals in a welcoming
+  environment. Accessibility is thoughtfully integrated, including
+  wheelchair-friendly parking and entrances, ensuring everyone can enjoy the
+  experience. Diners appreciate the variety of Thai curries, soups, and noodles
+  alongside beer and wine selections, all served at moderate prices. For anyone
+  seeking top-rated sushi near me, this location delivers a satisfying mix of
+  traditional dishes and modern twists in a comfortable setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJYxoV-ObHD4gRA8xzvR8ejv4/reviews/ChZDSUhNMG9nS0VJQ0FnTUNBMlBXVEV3EAE
@@ -350,6 +373,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURLak5lbVZBEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURLak5lbVZBEAE!2m1!1s0x880fc7e6f8151a63:0xfe8e1e1fbd73cc03
+review_summary: >-
+  What Guests Are Saying About This Spot$$$Visitors often rave about the
+  delicious Thai specialties and sushi at this Glenview eatery, highlighting the
+  flavorful soups, noodles, and fresh rolls that make meals memorable. Many
+  appreciate the friendly service and welcoming vibe, which adds to the overall
+  enjoyment, especially for those opting for takeout or dine-in. While there was
+  a note about an occasional inconsistency with certain entrees, the majority of
+  feedback praises the well-prepared vegetarian options and affordable pricing
+  as standout features. Overall, it's a go-to for anyone craving authentic Asian
+  cuisine, with folks frequently mentioning they'd return for the variety and
+  taste. If you're on the hunt for sushi places near me, this spot earns solid
+  nods for its reliable flavors and relaxed atmosphere.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -383,8 +419,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Quaint kitchen offering Thai curries, soups & noodles in brick-lined digs with
   outdoor tables.
 

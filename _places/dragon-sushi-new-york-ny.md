@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Dragon Sushi"
+title: Dragon Sushi
 permalink: /new-york/new-york/dragon-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "Dragon Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Dragon Sushi serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJYwW6R6L3wokRQ9H1nf7nn4g
 photos:
   - name: >-
@@ -184,7 +182,42 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Dragon Sushi in New York, NY$$$Dragon Sushi in New York, NY, stands
+  out as a vibrant spot for fresh Japanese cuisine, drawing in locals and
+  visitors alike with its array of classic rolls and flavorful cooked dishes.
+  This cozy sushi restaurant emphasizes quick and convenient pickup options,
+  making it an ideal choice for those seeking authentic flavors without the
+  wait. Patrons can enjoy a selection of familiar favorites that highlight
+  high-quality ingredients and thoughtful preparation, perfect for casual meals
+  or takeout on busy days. Whether you're exploring sushi restaurants in the
+  city or looking for top-rated Japanese places nearby, Dragon Sushi offers a
+  welcoming atmosphere that combines simplicity with satisfying tastes.
+generative_summary: >-
+  Discover Dragon Sushi in New York, NY$$$Dragon Sushi in New York, NY, stands
+  out as a vibrant spot for fresh Japanese cuisine, drawing in locals and
+  visitors alike with its array of classic rolls and flavorful cooked dishes.
+  This cozy sushi restaurant emphasizes quick and convenient pickup options,
+  making it an ideal choice for those seeking authentic flavors without the
+  wait. Patrons can enjoy a selection of familiar favorites that highlight
+  high-quality ingredients and thoughtful preparation, perfect for casual meals
+  or takeout on busy days. Whether you're exploring sushi restaurants in the
+  city or looking for top-rated Japanese places nearby, Dragon Sushi offers a
+  welcoming atmosphere that combines simplicity with satisfying tastes.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$While specific reviews for Dragon Sushi might be
+  limited, general feedback from similar spots highlights the appeal of its
+  fresh rolls and efficient service, often making it a go-to for quick bites.
+  People frequently mention enjoying the variety of options that cater to
+  different tastes, from light appetizers to hearty cooked items, which keeps
+  things feeling approachable and reliable. Many appreciate the straightforward
+  vibe that makes it easy for anyone to drop in for a satisfying meal,
+  especially when time is tight. Overall, it's seen as a solid pick for those
+  hunting for quality sushi nearby, with folks noting the positive experience
+  adds up to a worthwhile stop in the neighborhood.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +243,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Yashin"
+title: Sushi Yashin
 permalink: /new-york/brooklyn/sushi-yashin.html
 stateAbbr: NY
 stateName: New York
 cityName: Brooklyn
 seo:
-  name: "Sushi Yashin"
-  type: Restaurant
+  type: restaurant
   links: https://www.sushiyashin.com/
-description: "Chill, compact spot offering sushi rolls & sashimi, plus chef's-choice & lunch specials. Sushi Yashin serves delicious sushi in Brooklyn, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJSdgc3f1awokRq3dr7RS4D4g
 photos:
   - name: >-
@@ -182,6 +180,29 @@ price_range: $30 &ndash; $50
 rating: '4.4'
 rating_count: 0
 website: https://www.sushiyashin.com/
+description: >-
+  Explore Sushi Yashin in Brooklyn, NY$$$Sushi Yashin in Brooklyn, NY, stands
+  out as a cozy Japanese eatery perfect for those seeking fresh sushi options in
+  a relaxed setting. This spot delivers a menu featuring artfully prepared
+  rolls, sashimi, and chef-driven specials that highlight quality ingredients
+  and thoughtful flavors, including choices for vegetarians. With its moderate
+  pricing and welcoming vibe, it's an ideal destination for anyone looking for
+  authentic Japanese cuisine without the fuss. Whether you're in the mood for a
+  quick lunch or a casual dinner, the compact space makes it easy to enjoy
+  top-rated sushi close to home, blending simplicity with satisfying tastes that
+  keep locals coming back.
+generative_summary: >-
+  Explore Sushi Yashin in Brooklyn, NY$$$Sushi Yashin in Brooklyn, NY, stands
+  out as a cozy Japanese eatery perfect for those seeking fresh sushi options in
+  a relaxed setting. This spot delivers a menu featuring artfully prepared
+  rolls, sashimi, and chef-driven specials that highlight quality ingredients
+  and thoughtful flavors, including choices for vegetarians. With its moderate
+  pricing and welcoming vibe, it's an ideal destination for anyone looking for
+  authentic Japanese cuisine without the fuss. Whether you're in the mood for a
+  quick lunch or a casual dinner, the compact space makes it easy to enjoy
+  top-rated sushi close to home, blending simplicity with satisfying tastes that
+  keep locals coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJSdgc3f1awokRq3dr7RS4D4g/reviews/ChdDSUhNMG9nS0VJQ0FnSUNudlpTVThnRRAB
@@ -359,6 +380,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURvdDVfUXp3RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURvdDVfUXp3RRAB!2m1!1s0x89c25afddd1cd849:0x880fb814ed6b77ab
+review_summary: >-
+  Insights from Recent Feedback$$$Folks who visit this sushi spot often
+  highlight the fresh and flavorful rolls, with many enjoying the variety of
+  options that bring a nice mix of tastes to the table. While some appreciate
+  the tasty appetizers and overall welcoming atmosphere, a few have noted
+  occasional hiccups with delivery service that could use some smoothing out. On
+  the positive side, the quality ingredients and friendly vibe make it a go-to
+  for casual meals, earning nods for its solid execution of Japanese favorites.
+  If you're hunting for reliable sushi restaurants nearby, this place generally
+  delivers a satisfying experience that's worth trying, based on the shared
+  experiences.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidStreetParking: true
   valetParking: false
@@ -390,8 +423,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Chill, compact spot offering sushi rolls & sashimi, plus chef's-choice & lunch
   specials.
 

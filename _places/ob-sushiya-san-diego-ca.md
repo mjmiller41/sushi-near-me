@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "OB Sushiya"
+title: OB Sushiya
 permalink: /california/san-diego/ob-sushiya.html
 stateAbbr: CA
 stateName: California
 cityName: San Diego
 seo:
-  name: "OB Sushiya"
-  type: Restaurant
-  links: null
-description: "OB Sushiya serves delicious sushi in San Diego, California. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.obsushiya.com/
 place_id: ChIJq6q6CDqq3oAR1ZAQy6nYqcM
 photos:
   - name: >-
@@ -169,22 +167,182 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80deaa3a08baaaab:0xc3a9d8a9cb1090d5!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 12
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 12
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 12
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 12
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 12
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 12:00 – 9:30 PM'
+    - 'Tuesday: 12:00 – 9:30 PM'
+    - 'Wednesday: 12:00 – 9:30 PM'
+    - 'Thursday: 12:00 – 9:30 PM'
+    - 'Friday: 12:00 – 9:30 PM'
+    - 'Saturday: 12:00 – 9:30 PM'
+    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T04:30:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
-phone: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 0
+        close:
+          day: 0
+          hour: 18
+          minute: 0
+      - open:
+          day: 1
+          hour: 12
+          minute: 0
+        close:
+          day: 1
+          hour: 18
+          minute: 0
+      - open:
+          day: 2
+          hour: 12
+          minute: 0
+        close:
+          day: 2
+          hour: 18
+          minute: 0
+      - open:
+          day: 3
+          hour: 12
+          minute: 0
+        close:
+          day: 3
+          hour: 18
+          minute: 0
+      - open:
+          day: 4
+          hour: 12
+          minute: 0
+        close:
+          day: 4
+          hour: 18
+          minute: 0
+      - open:
+          day: 5
+          hour: 12
+          minute: 0
+        close:
+          day: 5
+          hour: 18
+          minute: 0
+      - open:
+          day: 6
+          hour: 12
+          minute: 0
+        close:
+          day: 6
+          hour: 18
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 12:00 – 6:00 PM'
+      - 'Tuesday: 12:00 – 6:00 PM'
+      - 'Wednesday: 12:00 – 6:00 PM'
+      - 'Thursday: 12:00 – 6:00 PM'
+      - 'Friday: 12:00 – 6:00 PM'
+      - 'Saturday: 12:00 – 6:00 PM'
+      - 'Sunday: 12:00 – 6:00 PM'
+    secondaryHoursType: HAPPY_HOUR
+    nextCloseTime: '2025-05-04T01:00:00Z'
+phone: (619) 752-3789
 price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+price_range: $30 &ndash; $50
+rating: '4.0'
+rating_count: 294
+website: https://www.obsushiya.com/
+description: >-
+  Discover OB Sushiya in San Diego$$$OB Sushiya in San Diego, CA, stands out as
+  a welcoming sushi restaurant nestled in the lively Point Loma area, offering
+  fresh Japanese-inspired dishes that highlight quality ingredients and creative
+  flavors. This spot caters to those seeking top-rated sushi options with a menu
+  featuring a variety of rolls and entrees that emphasize authentic tastes and
+  thoughtful preparation. Accessibility is a key feature, including
+  wheelchair-friendly parking and seating, ensuring a comfortable visit for
+  everyone. Operating from midday through the evening, it's an ideal choice for
+  casual meals or gatherings, blending convenience with a relaxed coastal vibe.
+generative_summary: >-
+  Discover OB Sushiya in San Diego$$$OB Sushiya in San Diego, CA, stands out as
+  a welcoming sushi restaurant nestled in the lively Point Loma area, offering
+  fresh Japanese-inspired dishes that highlight quality ingredients and creative
+  flavors. This spot caters to those seeking top-rated sushi options with a menu
+  featuring a variety of rolls and entrees that emphasize authentic tastes and
+  thoughtful preparation. Accessibility is a key feature, including
+  wheelchair-friendly parking and seating, ensuring a comfortable visit for
+  everyone. Operating from midday through the evening, it's an ideal choice for
+  casual meals or gatherings, blending convenience with a relaxed coastal vibe.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Feedback from diners at this sushi restaurant
+  often highlights the fresh, flavorful rolls and entrees that make it a
+  favorite for Japanese cuisine enthusiasts. Many appreciate the attentive
+  service and inclusive atmosphere, which add to the enjoyable dining experience
+  without any major hitches. While some note that prices lean toward the premium
+  side, the overall value and taste tend to win out for most visitors. Patrons
+  frequently describe it as a reliable spot for satisfying meals, earning its
+  solid reputation among local sushi spots. If you're on the hunt for great
+  sushi nearby, this place delivers a consistently positive vibe based on shared
+  experiences.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +368,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

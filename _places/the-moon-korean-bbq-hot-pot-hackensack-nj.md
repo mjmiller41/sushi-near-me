@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "The Moon Korean BBQ & Hot Pot 더문 샤부샤부 & 바베큐"
+title: The Moon Korean BBQ & Hot Pot 더문 샤부샤부 & 바베큐
 permalink: /new-jersey/hackensack/the-moon-korean-bbq-hot-pot.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Hackensack
 seo:
-  name: "The Moon Korean BBQ & Hot Pot 더문 샤부샤부 & 바베큐"
-  type: Restaurant
+  type: restaurant
   links: https://www.themoonkbbq.com/
-description: "The Moon Korean BBQ & Hot Pot 더문 샤부샤부 & 바베큐 serves delicious sushi in Hackensack, New Jersey. Try fresh Japanese dishes for a great dining experience. Available for, lunch, and dinner."
 place_id: ChIJJ6UnW0PxwokRdqg1kPlbs5s
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $30 &ndash; $50
 rating: '4.6'
 rating_count: 0
 website: https://www.themoonkbbq.com/
+description: >-
+  Explore The Moon in Hackensack, NJ$$$The Moon Korean BBQ & Hot Pot in
+  Hackensack, NJ, delivers an inviting all-you-can-eat dining experience
+  featuring authentic Korean BBQ and hot pot options alongside fresh vegetarian
+  choices. This spot stands out for its generous variety of meats, seafood, and
+  flavorful dishes, all prepared with high-quality ingredients in a spacious,
+  accessible environment. Patrons appreciate the inclusive features like
+  wheelchair-friendly seating and parking, making it easy for everyone to enjoy
+  a meal. Whether you're seeking a lively spot for groups or a taste of bold
+  Asian flavors, the restaurant's creative all-you-can-eat format adds a fun
+  twist to traditional dining. It's a go-to choice for those exploring
+  Korean-inspired eateries near you, blending affordability with a welcoming
+  vibe that keeps the energy high.
+generative_summary: >-
+  Explore The Moon in Hackensack, NJ$$$The Moon Korean BBQ & Hot Pot in
+  Hackensack, NJ, delivers an inviting all-you-can-eat dining experience
+  featuring authentic Korean BBQ and hot pot options alongside fresh vegetarian
+  choices. This spot stands out for its generous variety of meats, seafood, and
+  flavorful dishes, all prepared with high-quality ingredients in a spacious,
+  accessible environment. Patrons appreciate the inclusive features like
+  wheelchair-friendly seating and parking, making it easy for everyone to enjoy
+  a meal. Whether you're seeking a lively spot for groups or a taste of bold
+  Asian flavors, the restaurant's creative all-you-can-eat format adds a fun
+  twist to traditional dining. It's a go-to choice for those exploring
+  Korean-inspired eateries near you, blending affordability with a welcoming
+  vibe that keeps the energy high.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJJ6UnW0PxwokRdqg1kPlbs5s/reviews/ChdDSUhNMG9nS0VJQ0FnTUNRd0o2Y3B3RRAB
@@ -368,6 +393,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMzMzVtejl3RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMzMzVtejl3RRAB!2m1!1s0x89c2f1435b27a527:0x9bb35bf99035a876
+review_summary: >-
+  What Folks Are Saying$$$Visitors often rave about the fresh meats and seafood
+  at this Korean BBQ and hot pot spot, noting the great value in the
+  all-you-can-eat setup that includes plenty of options for everyone. While
+  service is generally friendly and attentive, a few mentions point to
+  occasional slowdowns that didn't detract from the overall fun atmosphere. Many
+  appreciate the clean, spacious setting that's ideal for family gatherings or
+  casual nights out, with desserts and sides adding a nice touch to the meal.
+  Overall, it's a solid pick for anyone in the mood for flavorful Asian cuisine,
+  as most people leave satisfied and eager to return for more. Though some find
+  certain appetizers underwhelming, the positives far outweigh the minor
+  hiccups, making it a reliable favorite in the area.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -398,7 +436,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: false
 takeout: false
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

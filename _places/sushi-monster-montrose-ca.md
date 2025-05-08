@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Monster"
+title: Sushi Monster
 permalink: /california/montrose/sushi-monster.html
 stateAbbr: CA
 stateName: California
 cityName: Montrose
 seo:
-  name: "Sushi Monster"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi Monster serves delicious sushi in Montrose, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJsZyrAm3qwoARHTJ5XdPW_r4
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c2ea6d02ab9cb1:0xbefed6d35d79321d!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 30
+      close:
+        day: 0
+        hour: 20
+        minute: 30
+    - open:
+        day: 1
+        hour: 12
+        minute: 0
+      close:
+        day: 1
+        hour: 20
+        minute: 30
+    - open:
+        day: 2
+        hour: 12
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 30
+    - open:
+        day: 3
+        hour: 12
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 30
+    - open:
+        day: 4
+        hour: 12
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 30
+    - open:
+        day: 5
+        hour: 12
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 12:00 – 8:30 PM'
     - 'Tuesday: 12:00 – 8:30 PM'
     - 'Wednesday: 12:00 – 8:30 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 12:00 – 9:00 PM'
     - 'Saturday: 12:30 – 9:00 PM'
     - 'Sunday: 12:30 – 8:30 PM'
-  current:
-    - 'Monday: 12:00 – 8:30 PM'
-    - 'Tuesday: 12:00 – 8:30 PM'
-    - 'Wednesday: 12:00 – 8:30 PM'
-    - 'Thursday: 12:00 – 8:30 PM'
-    - 'Friday: 12:00 – 9:00 PM'
-    - 'Saturday: 12:30 – 9:00 PM'
-    - 'Sunday: 12:30 – 8:30 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,36 +245,241 @@ secondary_opening_hours:
 phone: (818) 249-2510
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
-rating: '4.4'
-rating_count: 0
+rating: '4.5'
+rating_count: 203
 website: null
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Sushi Monster in Montrose, CA$$$Sushi Monster in Montrose, CA,
+  delivers a welcoming experience with fresh sushi rolls, dumplings, tempura,
+  and classic Japanese flavors in a cozy, inviting setting. This spot stands out
+  for its accessible features, including wheelchair-friendly parking and
+  entrances, making it easy for everyone to enjoy a meal. Patrons can savor the
+  vibrant taste of high-quality ingredients, paired with a warm atmosphere
+  that's perfect for casual dining or gatherings. The restaurant offers moderate
+  pricing and convenient hours, often staying open late into the evening for
+  those seeking top sushi options nearby. With outdoor seating and a focus on
+  flavorful dishes, it's an ideal choice for anyone exploring Japanese places in
+  the area.
+generative_summary: >-
+  Discover Sushi Monster in Montrose, CA$$$Sushi Monster in Montrose, CA,
+  delivers a welcoming experience with fresh sushi rolls, dumplings, tempura,
+  and classic Japanese flavors in a cozy, inviting setting. This spot stands out
+  for its accessible features, including wheelchair-friendly parking and
+  entrances, making it easy for everyone to enjoy a meal. Patrons can savor the
+  vibrant taste of high-quality ingredients, paired with a warm atmosphere
+  that's perfect for casual dining or gatherings. The restaurant offers moderate
+  pricing and convenient hours, often staying open late into the evening for
+  those seeking top sushi options nearby. With outdoor seating and a focus on
+  flavorful dishes, it's an ideal choice for anyone exploring Japanese places in
+  the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJsZyrAm3qwoARHTJ5XdPW_r4/reviews/ChZDSUhNMG9nS0VJQ0FnSUNIdzZMX093EAE
+    relativePublishTimeDescription: 7 months ago
+    rating: 5
+    text:
+      text: >-
+        This is our favorite spot to dine in if we are craving sushi and rolls
+        🍱 it’s always always always fresh, the fish is shining when they bring
+        it in. And when I say always, I mean we dine in here once or twice a
+        week. The staff is so friendly. We have never been disappointed and
+        honestly haven’t liked sushi or rolls anywhere else as much as we do it
+        at Sushi Monster. We have tried almost the entire menu and everything is
+        so good. It’s very affordable and the atmosphere is very friendly and
+        warm. We usually get the hot green tea 🍵 which they refill as much as
+        you want. The green tea ice cream is great too.
+      languageCode: en
+    originalText:
+      text: >-
+        This is our favorite spot to dine in if we are craving sushi and rolls
+        🍱 it’s always always always fresh, the fish is shining when they bring
+        it in. And when I say always, I mean we dine in here once or twice a
+        week. The staff is so friendly. We have never been disappointed and
+        honestly haven’t liked sushi or rolls anywhere else as much as we do it
+        at Sushi Monster. We have tried almost the entire menu and everything is
+        so good. It’s very affordable and the atmosphere is very friendly and
+        warm. We usually get the hot green tea 🍵 which they refill as much as
+        you want. The green tea ice cream is great too.
+      languageCode: en
+    authorAttribution:
+      displayName: Asya Grigoryan
+      uri: https://www.google.com/maps/contrib/115703940694139212432/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWBC6_SQkxGLBYGL8bqqeM12mR6EHqlZzU6qK5qzvnEKnhyJ9BryQ=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2024-09-08T06:44:44.135352Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNIdzZMX093EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNIdzZMX093EAE!2m1!1s0x80c2ea6d02ab9cb1:0xbefed6d35d79321d
+  - name: >-
+      places/ChIJsZyrAm3qwoARHTJ5XdPW_r4/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ5eTR6U3VnRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 3
+    text:
+      text: >-
+        I'm sorry but very basic rolls. No wow factor service was pleasant. The
+        presentation was basic as well. The one thing that was very good and
+        plentiful was the garlic edamame was very good.
+      languageCode: en
+    originalText:
+      text: >-
+        I'm sorry but very basic rolls. No wow factor service was pleasant. The
+        presentation was basic as well. The one thing that was very good and
+        plentiful was the garlic edamame was very good.
+      languageCode: en
+    authorAttribution:
+      displayName: Alex Mark
+      uri: https://www.google.com/maps/contrib/104659839814664237481/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWk3LeAeBK1gUXemlWtDR79A3DdPf31GEappzCPGPye8-ZGoRLr=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-03-21T05:15:55.653345Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQ5eTR6U3VnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQ5eTR6U3VnRRAB!2m1!1s0x80c2ea6d02ab9cb1:0xbefed6d35d79321d
+  - name: >-
+      places/ChIJsZyrAm3qwoARHTJ5XdPW_r4/reviews/ChdDSUhNMG9nS0VJQ0FnTUNvMHZ2RHB3RRAB
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        A lovely restaurant experience and the sushi and sashimi tasted
+        magnificent. My whole family enjoyed it!
+      languageCode: en
+    originalText:
+      text: >-
+        A lovely restaurant experience and the sushi and sashimi tasted
+        magnificent. My whole family enjoyed it!
+      languageCode: en
+    authorAttribution:
+      displayName: Satellite Productions
+      uri: https://www.google.com/maps/contrib/114954446027369178626/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXmu6gYajbnHkyQw0epyh78b5C9aK_l1Ih1B-uPoeba3L70VJY=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-16T00:57:44.422021Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNvMHZ2RHB3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNvMHZ2RHB3RRAB!2m1!1s0x80c2ea6d02ab9cb1:0xbefed6d35d79321d
+  - name: >-
+      places/ChIJsZyrAm3qwoARHTJ5XdPW_r4/reviews/ChdDSUhNMG9nS0VJQ0FnSURxaHRmMGx3RRAB
+    relativePublishTimeDescription: 3 years ago
+    rating: 4
+    text:
+      text: >-
+        Great customer service/amazing staff! Dog friendly outdoor seating. Food
+        is solid. We ordered the dinner combo and got the salmon and beef
+        teriyaki options. These are small portions than the single dinner beef
+        teriyaki and salmon teriyaki dinner entree options; and do not come out
+        on the hot sizzling platter. The sushi is about $6-7 per nigiri order
+        (two pieces). The sushi quality is solid; but not write home amazing.
+
+
+        Staff/service: 5
+
+        Atmosphere: 4
+
+        Food: 4
+      languageCode: en
+    originalText:
+      text: >-
+        Great customer service/amazing staff! Dog friendly outdoor seating. Food
+        is solid. We ordered the dinner combo and got the salmon and beef
+        teriyaki options. These are small portions than the single dinner beef
+        teriyaki and salmon teriyaki dinner entree options; and do not come out
+        on the hot sizzling platter. The sushi is about $6-7 per nigiri order
+        (two pieces). The sushi quality is solid; but not write home amazing.
+
+
+        Staff/service: 5
+
+        Atmosphere: 4
+
+        Food: 4
+      languageCode: en
+    authorAttribution:
+      displayName: D. de Silva
+      uri: https://www.google.com/maps/contrib/109833646263821366987/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUidSE4AhpJZDn1ilT4WI6fEuhqrVOwJ6TTdlL_D9u3fDAFD_k=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2021-07-06T19:00:58.251821Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURxaHRmMGx3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURxaHRmMGx3RRAB!2m1!1s0x80c2ea6d02ab9cb1:0xbefed6d35d79321d
+  - name: >-
+      places/ChIJsZyrAm3qwoARHTJ5XdPW_r4/reviews/ChdDSUhNMG9nS0VJQ0FnSURCelkza253RRAB
+    relativePublishTimeDescription: 2 years ago
+    rating: 5
+    text:
+      text: |-
+        It was great!
+        Sushi was so soft and good taste,
+        Gyoja and tempura were crispy! ☺️
+      languageCode: en
+    originalText:
+      text: |-
+        It was great!
+        Sushi was so soft and good taste,
+        Gyoja and tempura were crispy! ☺️
+      languageCode: en
+    authorAttribution:
+      displayName: Si-yeon Ryu
+      uri: https://www.google.com/maps/contrib/100096786823874751161/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocL_30WYv8FFCBmwZsLrLD0XhaAubkuL35Qmm5fIkdXQmLiLRw=s128-c0x00000000-cc-rp-mo
+    publishTime: '2023-01-25T21:06:36.139025Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURCelkza253RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURCelkza253RRAB!2m1!1s0x80c2ea6d02ab9cb1:0xbefed6d35d79321d
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this sushi spot often rave about the
+  consistently fresh and tasty rolls that hit the spot for a satisfying meal.
+  Many appreciate the friendly service and affordable prices, making it a go-to
+  for quick lunches or family dinners without breaking the bank. While some note
+  that the offerings lean toward straightforward preparations rather than
+  extravagant presentations, the overall experience remains enjoyable with
+  highlights like crispy appetizers and generous portions. Folks frequently
+  mention the welcoming vibe and extras like unlimited hot tea, adding to the
+  relaxed feel that's great for groups. Overall, it's a solid pick for anyone
+  hunting for reliable sushi restaurants nearby, with most feedback leaning
+  positive on flavor and convenience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: false
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: false
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

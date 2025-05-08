@@ -5,4 +5,5 @@ permalink: /pennsylvania/erie/
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Erie
+
 ---

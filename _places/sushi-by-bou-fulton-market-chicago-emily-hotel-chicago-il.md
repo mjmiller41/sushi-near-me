@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi by Bou- Fulton Market Chicago @ Emily Hotel"
+title: Sushi by Bou- Fulton Market Chicago @ Emily Hotel
 permalink: /illinois/chicago/sushi-by-bou-fulton-market-chicago-emily-hotel.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
 seo:
-  name: "Sushi by Bou- Fulton Market Chicago @ Emily Hotel"
-  type: Restaurant
-  links: null
-description: "Sushi by Bou- Fulton Market Chicago @ Emily Hotel serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://sushibybou.com/
 place_id: ChIJGzrP6dAsDogRu7c8qQOHJlI
 photos:
   - name: >-
@@ -170,22 +168,191 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x880e2cd0e9cf3a1b:0x52268703a93cb7bb!10e5
 primary_type: Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 23
+        minute: 0
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 23
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 23
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 23
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 23
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 5:00 – 11:00 PM'
+    - 'Tuesday: 5:00 – 11:00 PM'
+    - 'Wednesday: 5:00 – 11:00 PM'
+    - 'Thursday: 5:00 – 11:00 PM'
+    - 'Friday: 5:00 – 11:00 PM'
+    - 'Saturday: 5:00 – 11:00 PM'
+    - 'Sunday: 5:00 – 11:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
-phone: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 17
+          minute: 0
+        close:
+          day: 0
+          hour: 23
+          minute: 0
+      - open:
+          day: 1
+          hour: 17
+          minute: 0
+        close:
+          day: 1
+          hour: 23
+          minute: 0
+      - open:
+          day: 2
+          hour: 17
+          minute: 0
+        close:
+          day: 2
+          hour: 23
+          minute: 0
+      - open:
+          day: 3
+          hour: 17
+          minute: 0
+        close:
+          day: 3
+          hour: 23
+          minute: 0
+      - open:
+          day: 4
+          hour: 17
+          minute: 0
+        close:
+          day: 4
+          hour: 23
+          minute: 0
+      - open:
+          day: 5
+          hour: 17
+          minute: 0
+        close:
+          day: 6
+          hour: 0
+          minute: 0
+      - open:
+          day: 6
+          hour: 17
+          minute: 0
+        close:
+          day: 0
+          hour: 0
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 5:00 – 11:00 PM'
+      - 'Tuesday: 5:00 – 11:00 PM'
+      - 'Wednesday: 5:00 – 11:00 PM'
+      - 'Thursday: 5:00 – 11:00 PM'
+      - 'Friday: 5:00 PM – 12:00 AM'
+      - 'Saturday: 5:00 PM – 12:00 AM'
+      - 'Sunday: 5:00 – 11:00 PM'
+    secondaryHoursType: DINNER
+    nextCloseTime: '2025-05-04T05:00:00Z'
+phone: (888) 670-5996
 price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+price_range: $100 &ndash; & up
+rating: '4.7'
+rating_count: 270
+website: https://sushibybou.com/
+description: >-
+  Experience Sushi by Bou in Chicago, IL$$$Sushi by Bou in Chicago, IL, stands
+  out as a stylish dining spot nestled in the vibrant Fulton Market District,
+  offering an immersive experience with omakase-style sushi and fresh seafood
+  dishes. This intimate restaurant, located within the Emily Hotel, combines
+  creative flavors with a selection of cocktails and sake that perfectly
+  complement the meal, making it a go-to choice for those seeking authentic
+  Japanese-inspired cuisine in a lively urban setting. Guests can enjoy expertly
+  prepared bites that highlight premium ingredients, creating a memorable
+  evening of culinary artistry. The evening hours provide a relaxed atmosphere
+  ideal for savoring top-rated sushi options, appealing to anyone exploring the
+  best dining experiences nearby. With its focus on quality and ambiance, it's a
+  prime destination for sushi enthusiasts looking for something special in the
+  heart of the city.
+generative_summary: >-
+  Experience Sushi by Bou in Chicago, IL$$$Sushi by Bou in Chicago, IL, stands
+  out as a stylish dining spot nestled in the vibrant Fulton Market District,
+  offering an immersive experience with omakase-style sushi and fresh seafood
+  dishes. This intimate restaurant, located within the Emily Hotel, combines
+  creative flavors with a selection of cocktails and sake that perfectly
+  complement the meal, making it a go-to choice for those seeking authentic
+  Japanese-inspired cuisine in a lively urban setting. Guests can enjoy expertly
+  prepared bites that highlight premium ingredients, creating a memorable
+  evening of culinary artistry. The evening hours provide a relaxed atmosphere
+  ideal for savoring top-rated sushi options, appealing to anyone exploring the
+  best dining experiences nearby. With its focus on quality and ambiance, it's a
+  prime destination for sushi enthusiasts looking for something special in the
+  heart of the city.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Recent Feedback$$$Folks who visit Sushi by Bou often rave about
+  the fantastic omakase offerings, with standout dishes like fresh toro and uni
+  stealing the show and leaving a lasting impression. The spot's sake selection
+  pairs beautifully with the menu, adding to the overall enjoyment and making it
+  a solid pick for a fun night out. Reviewers frequently mention the cozy,
+  upbeat vibe that feels like a nod to a retro speakeasy, complete with an
+  energetic playlist that keeps things lively without overwhelming the
+  experience. The staff comes across as welcoming and well-informed, helping to
+  guide diners through the choices with ease. Overall, it's a consistently
+  positive spot for great food and atmosphere, though it's best suited for those
+  up for an adventurous meal rather than a quick bite.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +378,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

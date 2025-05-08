@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kumo Sushi"
+title: Kumo Sushi
 permalink: /virginia/herndon/kumo-sushi.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Herndon
 seo:
-  name: "Kumo Sushi"
-  type: Restaurant
-  links: null
-description: "Kumo Sushi serves delicious sushi in Herndon, Virginia. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.supermenu.net/r.jsp?id=32006
 place_id: ChIJFeiEoehHtokRYmdOtPOgV-M
 photos:
   - name: >-
@@ -170,8 +168,97 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89b647e8a184e815:0xe357a0f3b44e6762!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 15
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: Closed'
+    - 'Tuesday: 11:00 AM – 3:00 PM, 4:30 – 10:00 PM'
+    - 'Wednesday: 11:00 AM – 3:00 PM, 4:30 – 10:00 PM'
+    - 'Thursday: 11:00 AM – 3:00 PM, 4:30 – 10:00 PM'
+    - 'Friday: 11:00 AM – 3:00 PM, 4:30 – 10:30 PM'
+    - 'Saturday: 11:00 AM – 10:30 PM'
+    - 'Sunday: 12:00 – 10:00 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +266,50 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (571) 299-6887
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.3'
+rating_count: 167
+website: https://www.supermenu.net/r.jsp?id=32006
+description: >-
+  Discover Kumo Sushi in Herndon, VA$$$Kumo Sushi in Herndon, Virginia, offers a
+  welcoming atmosphere for those seeking authentic Japanese flavors, featuring a
+  menu that highlights fresh sushi and sashimi alongside a selection of beer and
+  wine. This cozy eatery emphasizes traditional dishes prepared with care,
+  making it a go-to spot for anyone exploring top-rated sushi restaurants in the
+  area. Visitors can enjoy the convenience of wheelchair-accessible features,
+  ensuring a comfortable dining experience for all. With its operational hours
+  catering to lunch and dinner crowds, it's an ideal choice for casual meals or
+  gatherings. Whether you're looking for sushi places near you, Kumo Sushi
+  stands out with its relaxed vibe and flavorful options that capture the
+  essence of Japanese dining.
+generative_summary: >-
+  Discover Kumo Sushi in Herndon, VA$$$Kumo Sushi in Herndon, Virginia, offers a
+  welcoming atmosphere for those seeking authentic Japanese flavors, featuring a
+  menu that highlights fresh sushi and sashimi alongside a selection of beer and
+  wine. This cozy eatery emphasizes traditional dishes prepared with care,
+  making it a go-to spot for anyone exploring top-rated sushi restaurants in the
+  area. Visitors can enjoy the convenience of wheelchair-accessible features,
+  ensuring a comfortable dining experience for all. With its operational hours
+  catering to lunch and dinner crowds, it's an ideal choice for casual meals or
+  gatherings. Whether you're looking for sushi places near you, Kumo Sushi
+  stands out with its relaxed vibe and flavorful options that capture the
+  essence of Japanese dining.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Customer Feedback$$$Visitors to this sushi spot often rave about
+  the consistently fresh and well-prepared rolls, making it a solid pick for
+  anyone craving reliable Japanese cuisine. Many appreciate the friendly service
+  and cozy setting, which add to the overall enjoyable experience without any
+  major hiccups. While some note that wait times can vary during peak hours, the
+  general consensus leans toward satisfaction with the quality and variety of
+  dishes offered. Overall, it's clear that folks find this place a great value
+  for its price range, encouraging repeat visits for those hunting for the best
+  sushi near me. If you're in the mood for a laid-back meal, the positive vibes
+  from diners suggest Kumo Sushi delivers a worthwhile stop.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +335,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

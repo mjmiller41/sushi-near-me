@@ -5,4 +5,5 @@ permalink: /texas/mansfield/
 stateAbbr: TX
 stateName: Texas
 cityName: Mansfield
+
 ---

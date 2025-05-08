@@ -5,4 +5,5 @@ permalink: /washington/shoreline/
 stateAbbr: WA
 stateName: Washington
 cityName: Shoreline
+
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kume"
+title: Kume
 permalink: /new-hampshire/epping/kume.html
 stateAbbr: NH
 stateName: New Hampshire
 cityName: Epping
 seo:
-  name: "Kume"
-  type: Restaurant
+  type: restaurant
   links: https://www.kume-epping.com/
-description: "Kume serves delicious sushi in Epping, New Hampshire. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJoQ0gf13x4okRkgWQ2pNNkNs
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89e2f15d7f200da1:0xdb904d93da900592!10e5
 primary_type: Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 45
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 45
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 45
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 45
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 45
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 45
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:45 PM'
     - 'Tuesday: 11:00 AM – 9:45 PM'
     - 'Wednesday: 11:00 AM – 9:45 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:45 PM'
     - 'Saturday: 11:00 AM – 10:45 PM'
     - 'Sunday: 12:00 – 9:30 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:45 PM'
-    - 'Tuesday: 11:00 AM – 9:45 PM'
-    - 'Wednesday: 11:00 AM – 9:45 PM'
-    - 'Thursday: 11:00 AM – 9:45 PM'
-    - 'Friday: 11:00 AM – 10:45 PM'
-    - 'Saturday: 11:00 AM – 10:45 PM'
-    - 'Sunday: 12:00 – 9:30 PM'
+  nextCloseTime: '2025-05-04T02:45:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +246,48 @@ phone: (603) 679-8882
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.2'
-rating_count: 0
+rating_count: 752
 website: https://www.kume-epping.com/
+description: >-
+  Discover Kume in Epping, New Hampshire$$$Nestled in Epping, New Hampshire,
+  Kume stands out as a welcoming Japanese steakhouse that blends casual dining
+  with authentic flavors, offering an array of fresh sushi and sizzling hibachi
+  dishes. This spot delights visitors with its selection of teriyaki options and
+  creative cocktails, making it a go-to choice for those seeking Japanese
+  cuisine near you. The restaurant's accessible features, like
+  wheelchair-friendly entrances and seating, ensure a comfortable experience for
+  everyone, while its moderate pricing invites both solo diners and groups. With
+  extended hours into the evening, it's perfect for a relaxed meal after a long
+  day, highlighting the best of sushi restaurants in a vibrant, family-friendly
+  atmosphere.
+generative_summary: >-
+  Discover Kume in Epping, New Hampshire$$$Nestled in Epping, New Hampshire,
+  Kume stands out as a welcoming Japanese steakhouse that blends casual dining
+  with authentic flavors, offering an array of fresh sushi and sizzling hibachi
+  dishes. This spot delights visitors with its selection of teriyaki options and
+  creative cocktails, making it a go-to choice for those seeking Japanese
+  cuisine near you. The restaurant's accessible features, like
+  wheelchair-friendly entrances and seating, ensure a comfortable experience for
+  everyone, while its moderate pricing invites both solo diners and groups. With
+  extended hours into the evening, it's perfect for a relaxed meal after a long
+  day, highlighting the best of sushi restaurants in a vibrant, family-friendly
+  atmosphere.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Guests Are Saying About the Vibes$$$Folks rave about the lively hibachi
+  shows at this spot, where the chefs put on an entertaining performance that
+  keeps the energy high while serving up tasty Japanese favorites like sushi and
+  grilled dishes. Many appreciate the friendly service that makes every visit
+  feel welcoming and attentive, along with the generous portions that often
+  leave diners with plenty of leftovers to enjoy later. While the food
+  consistently hits the mark for freshness and flavor, some note that the prices
+  lean a bit higher, making it a splurge-worthy option for special occasions.
+  Overall, it's a solid pick for anyone hunting for top-rated sushi places,
+  blending fun entertainment with satisfying meals in a laid-back setting. This
+  honest feedback paints a picture of a reliable choice that balances excitement
+  and value for those exploring local Japanese eateries.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +313,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

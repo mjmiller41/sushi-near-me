@@ -5,4 +5,5 @@ permalink: /rhode-island/newport/
 stateAbbr: RI
 stateName: Rhode Island
 cityName: Newport
+
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "King Ocean Crab"
+title: King Ocean Crab
 permalink: /michigan/lansing/king-ocean-crab.html
 stateAbbr: MI
 stateName: Michigan
 cityName: Lansing
 seo:
-  name: "King Ocean Crab"
-  type: Restaurant
+  type: restaurant
   links: https://www.kingoceancrablansing.com/
-description: "Roomy, contemporary option for varied seafood meals, from boils & fried baskets to po’ boys & sushi. King Ocean Crab serves delicious sushi in Lansing, Michigan. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJcxUroQXBIogRisX1wru3nXk
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $30 &ndash; $50
 rating: '4.6'
 rating_count: 0
 website: https://www.kingoceancrablansing.com/
+description: >-
+  Discover King Ocean Crab in Lansing$$$King Ocean Crab in Lansing, MI, stands
+  out as a contemporary seafood destination blending Japanese-inspired flavors
+  with fresh catches, offering a menu that includes sushi rolls and savory
+  boils. This spot features a spacious and welcoming interior designed for
+  comfortable dining, with accessibility options that make it easy for everyone
+  to enjoy. Diners can savor a variety of dishes that highlight fresh seafood
+  and creative presentations, appealing to those exploring sushi restaurants in
+  the area. The moderate pricing and vibrant atmosphere add to its charm, making
+  it a solid choice for casual meals or group gatherings seeking top-rated sushi
+  options nearby.
+generative_summary: >-
+  Discover King Ocean Crab in Lansing$$$King Ocean Crab in Lansing, MI, stands
+  out as a contemporary seafood destination blending Japanese-inspired flavors
+  with fresh catches, offering a menu that includes sushi rolls and savory
+  boils. This spot features a spacious and welcoming interior designed for
+  comfortable dining, with accessibility options that make it easy for everyone
+  to enjoy. Diners can savor a variety of dishes that highlight fresh seafood
+  and creative presentations, appealing to those exploring sushi restaurants in
+  the area. The moderate pricing and vibrant atmosphere add to its charm, making
+  it a solid choice for casual meals or group gatherings seeking top-rated sushi
+  options nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJcxUroQXBIogRisX1wru3nXk/reviews/ChZDSUhNMG9nS0VJQ0FnSUNQbHFLWUJnEAE
@@ -386,6 +407,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNMbDZEdWd3RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNMbDZEdWd3RRAB!2m1!1s0x8822c105a12b1573:0x799db7bbc2f5c58a
+review_summary: >-
+  What Visitors Are Sharing$$$Visitors frequently highlight the flavorful
+  seafood boils and fresh sushi as standout features, creating a satisfying
+  experience for those hunting for great sushi spots around town. While a few
+  mentions point to occasional inconsistencies with appetizers, the overall vibe
+  remains positive with friendly service and a clean, inviting space that keeps
+  things enjoyable. Many appreciate the reasonable prices and family-friendly
+  setup, perfect for relaxed outings without breaking the bank. It's clear that
+  the welcoming environment and tasty selections leave people excited to come
+  back, offering a balanced mix of fun and flavor for anyone craving seafood
+  adventures.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -418,8 +451,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Roomy, contemporary option for varied seafood meals, from boils & fried
   baskets to po’ boys & sushi.
 

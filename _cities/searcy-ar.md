@@ -5,4 +5,5 @@ permalink: /arkansas/searcy/
 stateAbbr: AR
 stateName: Arkansas
 cityName: Searcy
+
 ---

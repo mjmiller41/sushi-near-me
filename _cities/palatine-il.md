@@ -5,4 +5,5 @@ permalink: /illinois/palatine/
 stateAbbr: IL
 stateName: Illinois
 cityName: Palatine
+
 ---

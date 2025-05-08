@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Taste of Tokyo"
+title: Taste of Tokyo
 permalink: /illinois/buffalo-grove/taste-of-tokyo.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Buffalo Grove
 seo:
-  name: "Taste of Tokyo"
-  type: Restaurant
+  type: restaurant
   links: https://www.clover.com/online-ordering/taste--of-tokyo-buffalo-grove
-description: "Casual restaurant featuring sushi delivered by floating boats, plus cooked Japanese dishes. Taste of Tokyo serves delicious sushi in Buffalo Grove, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ2RICfKq-D4gRQKofOGcCqB8
 photos:
   - name: >-
@@ -185,6 +183,27 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 0
 website: https://www.clover.com/online-ordering/taste--of-tokyo-buffalo-grove
+description: >-
+  Discover Taste of Tokyo in Buffalo Grove, IL$$$Taste of Tokyo in Buffalo
+  Grove, IL, delivers a casual yet engaging dining experience centered around
+  fresh sushi and authentic Japanese flavors. The restaurant features a unique
+  floating boat system that brings a variety of rolls and dishes right to your
+  table, creating an interactive and enjoyable atmosphere for sushi lovers. With
+  options for cooked entrees, sake, and cocktails, it's a versatile spot for
+  everything from quick meals to relaxed evenings. Accessibility features like
+  wheelchair-friendly seating and parking make it welcoming for all, while the
+  moderate pricing adds to its appeal as a go-to Japanese place in the area.
+generative_summary: >-
+  Discover Taste of Tokyo in Buffalo Grove, IL$$$Taste of Tokyo in Buffalo
+  Grove, IL, delivers a casual yet engaging dining experience centered around
+  fresh sushi and authentic Japanese flavors. The restaurant features a unique
+  floating boat system that brings a variety of rolls and dishes right to your
+  table, creating an interactive and enjoyable atmosphere for sushi lovers. With
+  options for cooked entrees, sake, and cocktails, it's a versatile spot for
+  everything from quick meals to relaxed evenings. Accessibility features like
+  wheelchair-friendly seating and parking make it welcoming for all, while the
+  moderate pricing adds to its appeal as a go-to Japanese place in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ2RICfKq-D4gRQKofOGcCqB8/reviews/ChZDSUhNMG9nS0VJQ0FnSUNfajczMkVnEAE
@@ -352,6 +371,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNsM2RlU1RBEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNsM2RlU1RBEAE!2m1!1s0x880fbeaa7c0212d9:0x1fa80267381faa40
+review_summary: >-
+  What Reviewers Are Buzzing About$$$Visitors often highlight the fun and
+  innovative floating boat setup, which makes selecting fresh sushi rolls feel
+  like an adventure without any fuss. Many appreciate the high-quality
+  ingredients and flavors, with dishes coming across as tasty and well-prepared,
+  earning nods for their freshness and variety. The staff's friendly vibe and
+  readiness to customize orders add a personal touch that keeps things light and
+  enjoyable. While a few note that some portions might be on the smaller side,
+  the overall experience remains positive and worth the visit for anyone seeking
+  a solid sushi spot. If you're on the hunt for top-rated sushi restaurants
+  nearby, this place consistently delivers a satisfying meal with great energy.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -385,8 +416,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Casual restaurant featuring sushi delivered by floating boats, plus cooked
   Japanese dishes.
 

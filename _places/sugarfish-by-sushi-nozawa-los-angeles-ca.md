@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "SUGARFISH by sushi nozawa"
+title: SUGARFISH by sushi nozawa
 permalink: /california/los-angeles/sugarfish-by-sushi-nozawa.html
 stateAbbr: CA
 stateName: California
 cityName: Los Angeles
 seo:
-  name: "SUGARFISH by sushi nozawa"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "SUGARFISH by sushi nozawa serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJqWzcR7THwoARg7eO0wui4tM
 photos:
   - name: >-
@@ -184,7 +182,43 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover SUGARFISH in Los Angeles$$$In Los Angeles, CA, SUGARFISH by sushi
+  nozawa stands out as a premier sushi restaurant offering an omakase-style
+  experience that emphasizes fresh, high-quality ingredients and perfectly
+  prepared rice. This spot delights visitors with its thoughtfully curated set
+  menus, featuring expertly crafted dishes that highlight the best of Japanese
+  culinary traditions. The restaurant's accessible design, including
+  wheelchair-friendly entrances and seating, ensures a welcoming atmosphere for
+  all guests seeking authentic flavors. Additionally, its location in the
+  bustling Downtown Los Angeles area makes it a convenient choice for those
+  exploring top sushi options nearby, blending simplicity with exceptional
+  taste.
+generative_summary: >-
+  Discover SUGARFISH in Los Angeles$$$In Los Angeles, CA, SUGARFISH by sushi
+  nozawa stands out as a premier sushi restaurant offering an omakase-style
+  experience that emphasizes fresh, high-quality ingredients and perfectly
+  prepared rice. This spot delights visitors with its thoughtfully curated set
+  menus, featuring expertly crafted dishes that highlight the best of Japanese
+  culinary traditions. The restaurant's accessible design, including
+  wheelchair-friendly entrances and seating, ensures a welcoming atmosphere for
+  all guests seeking authentic flavors. Additionally, its location in the
+  bustling Downtown Los Angeles area makes it a convenient choice for those
+  exploring top sushi options nearby, blending simplicity with exceptional
+  taste.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors often rave about the mouthwatering nigiri
+  and hand rolls at this sushi spot, with many suggesting the straightforward
+  menu options as a great way to dive in. Folks appreciate the quick and
+  attentive service that keeps the experience smooth and enjoyable, making it
+  ideal for a casual meal or a special outing. The pricing stands out as a
+  pleasant surprise for such premium-quality offerings, providing solid value
+  without breaking the bank. Overall, it's clear that this place delivers a
+  satisfying omakase adventure that leaves diners eager to return, especially
+  for anyone hunting for reliable sushi restaurants in the area.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +244,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

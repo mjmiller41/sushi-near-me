@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Nagoya Sushi"
+title: Nagoya Sushi
 permalink: /virginia/radford/nagoya-sushi.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Radford
 seo:
-  name: "Nagoya Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.nagoyaradford.com/
-description: "Casual restaurant serving specialty rolls & Chinese standards such as orange chicken & curry beef. Nagoya Sushi serves delicious sushi in Radford, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJqwSK4Y7uTYgRBJOpJjlBs20
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 0
 website: https://www.nagoyaradford.com/
+description: >-
+  Discover Nagoya Sushi in Radford, Virginia$$$Nestled in the heart of Radford,
+  Virginia, Nagoya Sushi stands out as a welcoming spot for fresh sushi and
+  flavorful dishes, blending casual vibes with a menu that highlights specialty
+  rolls and classic Chinese favorites. This local eatery offers an inviting
+  atmosphere where patrons can enjoy high-quality sushi alongside hearty options
+  like orange chicken and curry beef, all paired with a selection of beers for a
+  relaxed meal. With its focus on generous portions and accessible pricing, it's
+  an ideal choice for anyone searching for reliable sushi restaurants in the
+  area, making it easy to satisfy cravings for authentic flavors without leaving
+  town. The restaurant's commitment to accessibility features ensures a
+  comfortable visit for all, enhancing its appeal as a go-to destination for
+  everyday dining.
+generative_summary: >-
+  Discover Nagoya Sushi in Radford, Virginia$$$Nestled in the heart of Radford,
+  Virginia, Nagoya Sushi stands out as a welcoming spot for fresh sushi and
+  flavorful dishes, blending casual vibes with a menu that highlights specialty
+  rolls and classic Chinese favorites. This local eatery offers an inviting
+  atmosphere where patrons can enjoy high-quality sushi alongside hearty options
+  like orange chicken and curry beef, all paired with a selection of beers for a
+  relaxed meal. With its focus on generous portions and accessible pricing, it's
+  an ideal choice for anyone searching for reliable sushi restaurants in the
+  area, making it easy to satisfy cravings for authentic flavors without leaving
+  town. The restaurant's commitment to accessibility features ensures a
+  comfortable visit for all, enhancing its appeal as a go-to destination for
+  everyday dining.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJqwSK4Y7uTYgRBJOpJjlBs20/reviews/ChdDSUhNMG9nS0VJQ0FnTUNnemVDRWlnRRAB
@@ -320,6 +345,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNnbnBYbW9RRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNnbnBYbW9RRRAB!2m1!1s0x884dee8ee18a04ab:0x6db3413926a99304
+review_summary: >-
+  What Customers Are Saying About This Sushi Favorite$$$Folks around here really
+  enjoy the tasty sushi and generous portions at this spot, often highlighting
+  how the food hits the spot with its fresh flavors and great value. Many
+  visitors appreciate the quick service and occasional surprises like
+  complimentary items that add a nice touch to the experience. While there might
+  be an occasional inconsistency, like with some seafood preparations, the
+  overall consensus leans positive, praising the welcoming vibe and variety of
+  options that cater to different tastes. It's clear that this place is a solid
+  pick for groups or families looking for a casual meal, with plenty of rave
+  reviews about the beer selection and overall satisfaction. If you're on the
+  hunt for top-rated sushi nearby, this eatery often comes up as a dependable
+  choice that keeps customers coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -353,8 +392,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Casual restaurant serving specialty rolls & Chinese standards such as orange
   chicken & curry beef.
 

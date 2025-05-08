@@ -5,4 +5,5 @@ permalink: /new-jersey/cranford/
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Cranford
+
 ---

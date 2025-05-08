@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Maru"
+title: Sushi Maru
 permalink: /california/san-jose/sushi-maru.html
 stateAbbr: CA
 stateName: California
 cityName: San Jose
 seo:
-  name: "Sushi Maru"
-  type: Restaurant
+  type: restaurant
   links: https://www.sushimarusj.com/
-description: "Sushi Maru serves delicious sushi in San Jose, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ7e2sHYXMj4ARS7brxDJLtpQ
 photos:
   - name: >-
@@ -170,7 +168,105 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x808fcc851daceded:0x94b64b32c4ebb64b!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 14
+        minute: 0
+    - open:
+        day: 0
+        hour: 17
+        minute: 30
+      close:
+        day: 0
+        hour: 20
+        minute: 15
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 14
+        minute: 0
+    - open:
+        day: 1
+        hour: 17
+        minute: 30
+      close:
+        day: 1
+        hour: 20
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 30
+      close:
+        day: 3
+        hour: 20
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 30
+      close:
+        day: 4
+        hour: 20
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 30
+      close:
+        day: 5
+        hour: 20
+        minute: 45
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 14
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 30
+      close:
+        day: 6
+        hour: 20
+        minute: 45
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 2:00 PM, 5:30 – 8:30 PM'
     - 'Tuesday: Closed'
     - 'Wednesday: 11:30 AM – 2:00 PM, 5:30 – 8:30 PM'
@@ -178,54 +274,323 @@ opening_hours:
     - 'Friday: 11:30 AM – 2:00 PM, 5:30 – 8:45 PM'
     - 'Saturday: 11:30 AM – 2:00 PM, 5:30 – 8:45 PM'
     - 'Sunday: 11:30 AM – 2:00 PM, 5:30 – 8:15 PM'
-  current:
-    - 'Monday: 11:30 AM – 2:00 PM, 5:30 – 8:30 PM'
-    - 'Tuesday: Closed'
-    - 'Wednesday: 11:30 AM – 2:00 PM, 5:30 – 8:30 PM'
-    - 'Thursday: 11:30 AM – 2:00 PM, 5:30 – 8:30 PM'
-    - 'Friday: 11:30 AM – 2:00 PM, 5:30 – 8:45 PM'
-    - 'Saturday: 11:30 AM – 2:00 PM, 5:30 – 8:45 PM'
-    - 'Sunday: 11:30 AM – 2:00 PM, 5:30 – 8:15 PM'
+  nextOpenTime: '2025-05-04T00:30:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: false
+    periods:
+      - open:
+          day: 0
+          hour: 16
+          minute: 30
+        close:
+          day: 0
+          hour: 20
+          minute: 0
+      - open:
+          day: 1
+          hour: 16
+          minute: 30
+        close:
+          day: 1
+          hour: 20
+          minute: 0
+      - open:
+          day: 2
+          hour: 16
+          minute: 30
+        close:
+          day: 2
+          hour: 20
+          minute: 0
+      - open:
+          day: 3
+          hour: 16
+          minute: 30
+        close:
+          day: 3
+          hour: 20
+          minute: 0
+      - open:
+          day: 4
+          hour: 16
+          minute: 30
+        close:
+          day: 4
+          hour: 20
+          minute: 0
+      - open:
+          day: 5
+          hour: 16
+          minute: 30
+        close:
+          day: 5
+          hour: 20
+          minute: 0
+      - open:
+          day: 6
+          hour: 16
+          minute: 30
+        close:
+          day: 6
+          hour: 20
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 4:30 – 8:00 PM'
+      - 'Tuesday: 4:30 – 8:00 PM'
+      - 'Wednesday: 4:30 – 8:00 PM'
+      - 'Thursday: 4:30 – 8:00 PM'
+      - 'Friday: 4:30 – 8:00 PM'
+      - 'Saturday: 4:30 – 8:00 PM'
+      - 'Sunday: 4:30 – 8:00 PM'
+    secondaryHoursType: TAKEOUT
+    nextOpenTime: '2025-05-03T23:30:00Z'
 phone: (408) 998-8170
 price_level: PRICE_LEVEL_MODERATE
 price_range: $30 &ndash; $50
 rating: '4.4'
-rating_count: 0
+rating_count: 802
 website: https://www.sushimarusj.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Sushi Maru in San Jose, CA$$$Sushi Maru in San Jose, CA, stands out
+  as a welcoming spot for enjoying conveyor-belt sushi and classic Japanese
+  dishes in a relaxed, family-oriented environment. This sushi restaurant
+  delights with its fresh selections and variety of options, making it a go-to
+  choice for those seeking authentic flavors without the fuss. The cozy setup
+  enhances the dining experience, allowing patrons to easily grab plates as they
+  pass by, while accessibility features ensure everyone can enjoy the meal
+  comfortably. With moderate pricing and a focus on quality ingredients, it's an
+  ideal destination for anyone exploring top-rated sushi options in the area,
+  blending tradition with everyday convenience.
+generative_summary: >-
+  Discover Sushi Maru in San Jose, CA$$$Sushi Maru in San Jose, CA, stands out
+  as a welcoming spot for enjoying conveyor-belt sushi and classic Japanese
+  dishes in a relaxed, family-oriented environment. This sushi restaurant
+  delights with its fresh selections and variety of options, making it a go-to
+  choice for those seeking authentic flavors without the fuss. The cozy setup
+  enhances the dining experience, allowing patrons to easily grab plates as they
+  pass by, while accessibility features ensure everyone can enjoy the meal
+  comfortably. With moderate pricing and a focus on quality ingredients, it's an
+  ideal destination for anyone exploring top-rated sushi options in the area,
+  blending tradition with everyday convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ7e2sHYXMj4ARS7brxDJLtpQ/reviews/ChdDSUhNMG9nS0VJQ0FnTUNveGVtWHZnRRAB
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        Do you love sushi? Want to go on an adventure and not leave your seat,
+        come to Sushi Maru and order everything off the special nigiri sushi
+        menu. Its a whirlwind of flavors and textures. Its fun to see whats new.
+        Some items are seasonal so you'll only see them once a year. It will not
+        disappoint. The fish is fresh, service is attentive and I've never seen
+        Suhi Maru not busy. Every time I come home to visit, I do not miss a
+        trip to Sushi Maru.
+      languageCode: en
+    originalText:
+      text: >-
+        Do you love sushi? Want to go on an adventure and not leave your seat,
+        come to Sushi Maru and order everything off the special nigiri sushi
+        menu. Its a whirlwind of flavors and textures. Its fun to see whats new.
+        Some items are seasonal so you'll only see them once a year. It will not
+        disappoint. The fish is fresh, service is attentive and I've never seen
+        Suhi Maru not busy. Every time I come home to visit, I do not miss a
+        trip to Sushi Maru.
+      languageCode: en
+    authorAttribution:
+      displayName: Shandor Zabo
+      uri: https://www.google.com/maps/contrib/116693209907512388066/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjW1X_crO_cIWuuJQVvYqkDEJBSy-c85OSGobUQhhlLL3XjXBSI6=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-04-18T16:56:33.085655Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNveGVtWHZnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNveGVtWHZnRRAB!2m1!1s0x808fcc851daceded:0x94b64b32c4ebb64b
+  - name: >-
+      places/ChIJ7e2sHYXMj4ARS7brxDJLtpQ/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3akliSzVRRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        I’ve been coming here for years and I can’t say I’ve ever left here
+        unsatisfied. The sushi here is top notch and their other dishes are
+        amazing. I think I’ve probably had just about everything on the menu
+        here and can’t ever get tired of it. I wouldn’t say I’m a regular at
+        many places but I am definitely a regular here! The service is always
+        very friendly and a lot of the time they give a little scoop of ice
+        cream at the end of the meal.
+
+
+        I’ve tried a lot of Japanese places in the South Bay Area and I always
+        find myself coming back here because of the quality, the taste, and the
+        service.
+      languageCode: en
+    originalText:
+      text: >-
+        I’ve been coming here for years and I can’t say I’ve ever left here
+        unsatisfied. The sushi here is top notch and their other dishes are
+        amazing. I think I’ve probably had just about everything on the menu
+        here and can’t ever get tired of it. I wouldn’t say I’m a regular at
+        many places but I am definitely a regular here! The service is always
+        very friendly and a lot of the time they give a little scoop of ice
+        cream at the end of the meal.
+
+
+        I’ve tried a lot of Japanese places in the South Bay Area and I always
+        find myself coming back here because of the quality, the taste, and the
+        service.
+      languageCode: en
+    authorAttribution:
+      displayName: Max K
+      uri: https://www.google.com/maps/contrib/110325465014823531770/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXme3r_TJyVf0cRRDybYe_si4iLSY24il1ZkOPUglk6UBaui242gw=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-03-24T03:27:24.722993Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUR3akliSzVRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUR3akliSzVRRRAB!2m1!1s0x808fcc851daceded:0x94b64b32c4ebb64b
+  - name: >-
+      places/ChIJ7e2sHYXMj4ARS7brxDJLtpQ/reviews/ChdDSUhNMG9nS0VJQ0FnSUNydUpUQXBRRRAB
+    relativePublishTimeDescription: 10 months ago
+    rating: 5
+    text:
+      text: >-
+        Such a cute little sushi place!! We're visiting San jose for a week from
+        NJ. Found this place on Google maps. We waited for the place to open at
+        530pm. There were already a line of people waiting as well. They have
+        plates of sushi on a conveyor belt. Each plate has a different set of
+        pricing. You can order whatever you want as well. The fish melts in your
+        mouth!! They give you free orange sorbet. The staff was very nice and
+        friendly. I would definitely come back when I'm in the area. Quality
+        sushi is hard to find.
+      languageCode: en
+    originalText:
+      text: >-
+        Such a cute little sushi place!! We're visiting San jose for a week from
+        NJ. Found this place on Google maps. We waited for the place to open at
+        530pm. There were already a line of people waiting as well. They have
+        plates of sushi on a conveyor belt. Each plate has a different set of
+        pricing. You can order whatever you want as well. The fish melts in your
+        mouth!! They give you free orange sorbet. The staff was very nice and
+        friendly. I would definitely come back when I'm in the area. Quality
+        sushi is hard to find.
+      languageCode: en
+    authorAttribution:
+      displayName: Vi Vu
+      uri: https://www.google.com/maps/contrib/118166044139302724258/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjV7xvdMMJD2xeR-OmvCQ-qXJZsbRT8Nk1TZf3hr7VMJQv-kkT1dUg=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-07-04T00:11:45.272108Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNydUpUQXBRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNydUpUQXBRRRAB!2m1!1s0x808fcc851daceded:0x94b64b32c4ebb64b
+  - name: >-
+      places/ChIJ7e2sHYXMj4ARS7brxDJLtpQ/reviews/ChdDSUhNMG9nS0VJQ0FnSUNuaTZhSV93RRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        Enjoyed a delicious sushi meal here! The quality was excellent, and the
+        prices were very reasonable. The service was friendly and attentive.
+      languageCode: en
+    originalText:
+      text: >-
+        Enjoyed a delicious sushi meal here! The quality was excellent, and the
+        prices were very reasonable. The service was friendly and attentive.
+      languageCode: en
+    authorAttribution:
+      displayName: Janet K
+      uri: https://www.google.com/maps/contrib/114755141393170995154/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWoIIAvdtFKZBlMpjIwpnpXaKKHpoTz6ZQKNnLT91TbpjRTUNfhCA=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2025-02-23T22:25:54.627011Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNuaTZhSV93RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNuaTZhSV93RRAB!2m1!1s0x808fcc851daceded:0x94b64b32c4ebb64b
+  - name: >-
+      places/ChIJ7e2sHYXMj4ARS7brxDJLtpQ/reviews/ChZDSUhNMG9nS0VJQ0FnSUNueTRlNkt3EAE
+    relativePublishTimeDescription: 7 months ago
+    rating: 3
+    text:
+      text: >-
+        Okay, the food is good quality and tastes good but the prices are
+        insane. Not high enough quality for the price. Plates start at $5 for
+        3pcs. So you’re paying around $2 per piece for a simple roll. We cut our
+        losses and left after 4 plates and it was $30. I felt like I paid $30
+        just to breathe. At this price we should just go to Nobu.
+      languageCode: en
+    originalText:
+      text: >-
+        Okay, the food is good quality and tastes good but the prices are
+        insane. Not high enough quality for the price. Plates start at $5 for
+        3pcs. So you’re paying around $2 per piece for a simple roll. We cut our
+        losses and left after 4 plates and it was $30. I felt like I paid $30
+        just to breathe. At this price we should just go to Nobu.
+      languageCode: en
+    authorAttribution:
+      displayName: Victoria Gimm
+      uri: https://www.google.com/maps/contrib/113098330126711557241/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXPNAQ03IIhu5GJ6hmn2PeT_QnmSvj0XEFSGATmkL1iC0gqJx3G=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-09-30T02:29:46.363034Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNueTRlNkt3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNueTRlNkt3EAE!2m1!1s0x808fcc851daceded:0x94b64b32c4ebb64b
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this sushi spot often rave about the
+  fresh, high-quality fish and the fun, interactive dining style that keeps
+  things exciting. Many appreciate the attentive service and reasonable prices,
+  noting that it's a great place for a casual meal with friends or family, where
+  the variety of dishes rarely disappoints. While some mention that costs can
+  add up quickly for larger orders, the overall experience is frequently
+  described as satisfying and worth returning for, especially for those hunting
+  for reliable Japanese cuisine nearby. In a casual vibe, folks highlight the
+  thoughtful touches like complimentary desserts, making it a solid pick for
+  anyone in the mood for flavorful bites that hit the spot without
+  overcomplicating things.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  paidStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+curbside_pickup: false
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: false
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: false
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  All-purpose Japanese standby for sushi & familiar cooked fare in a
+  family-friendly setting.
 
 ---

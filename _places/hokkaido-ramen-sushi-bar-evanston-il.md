@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Hokkaido Ramen & Sushi Bar"
+title: Hokkaido Ramen & Sushi Bar
 permalink: /illinois/evanston/hokkaido-ramen-sushi-bar.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Evanston
 seo:
-  name: "Hokkaido Ramen & Sushi Bar"
-  type: Restaurant
-  links: null
-description: "Hokkaido Ramen & Sushi Bar serves delicious sushi in Evanston, Illinois. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.hokkaidoramen.life/
 place_id: ChIJE-j5bN_RD4gRPtRPDfGmy14
 photos:
   - name: >-
@@ -169,8 +167,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x880fd1df6cf9e813:0x5ecba6f10d4fd43e!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:30 PM'
+    - 'Tuesday: 11:00 AM – 9:30 PM'
+    - 'Wednesday: 11:00 AM – 9:30 PM'
+    - 'Thursday: 11:00 AM – 9:30 PM'
+    - 'Friday: 11:00 AM – 10:00 PM'
+    - 'Saturday: 11:00 AM – 10:00 PM'
+    - 'Sunday: 11:30 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -178,13 +241,51 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (847) 868-8727
+price_level: PRICE_LEVEL_MODERATE
+price_range: $30 &ndash; $50
+rating: '4.6'
+rating_count: 522
+website: https://www.hokkaidoramen.life/
+description: >-
+  Discover Hokkaido Ramen & Sushi Bar in Evanston, IL$$$Hokkaido Ramen & Sushi
+  Bar in Evanston, IL, stands out as a welcoming spot for fresh Japanese
+  cuisine, blending authentic flavors with a casual vibe that appeals to sushi
+  enthusiasts. This restaurant features an array of ramen and sushi options,
+  including all-you-can-eat selections that make it a go-to choice for those
+  seeking variety in their meals. With accessibility features like
+  wheelchair-friendly entrances and seating, it ensures everyone can enjoy the
+  experience comfortably. The menu highlights creative cocktails and hearty
+  portions, drawing in locals looking for reliable sushi restaurants nearby.
+  Overall, it's a great option for anyone exploring Japanese places in the area,
+  offering a balance of quality and affordability that keeps diners coming back.
+generative_summary: >-
+  Discover Hokkaido Ramen & Sushi Bar in Evanston, IL$$$Hokkaido Ramen & Sushi
+  Bar in Evanston, IL, stands out as a welcoming spot for fresh Japanese
+  cuisine, blending authentic flavors with a casual vibe that appeals to sushi
+  enthusiasts. This restaurant features an array of ramen and sushi options,
+  including all-you-can-eat selections that make it a go-to choice for those
+  seeking variety in their meals. With accessibility features like
+  wheelchair-friendly entrances and seating, it ensures everyone can enjoy the
+  experience comfortably. The menu highlights creative cocktails and hearty
+  portions, drawing in locals looking for reliable sushi restaurants nearby.
+  Overall, it's a great option for anyone exploring Japanese places in the area,
+  offering a balance of quality and affordability that keeps diners coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About This Spot$$$Folks seem to love the
+  all-you-can-eat deals at this Evanston eatery, praising the wide range of
+  sushi, ramen, and appetizers that deliver on taste and freshness without
+  breaking the bank. Many highlight the quick service and generous portions that
+  make for a satisfying meal, whether you're grabbing a quick bite or sharing
+  with friends. Reviewers often note the reasonable prices and friendly
+  atmosphere add to the overall appeal, making it a solid pick for casual
+  dining. While opinions are mostly positive, some mention it's best for those
+  who enjoy variety over perfection, keeping things real yet upbeat. If you're
+  on the hunt for top-rated sushi near you, this place often comes through with
+  a reliably enjoyable experience that leaves people smiling.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +311,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Daiwa Sushi Bar & Japanese Cuisine - Metairie"
+title: Daiwa Sushi Bar & Japanese Cuisine - Metairie
 permalink: /louisiana/metairie/daiwa-sushi-bar-japanese-cuisine-metairie.html
 stateAbbr: LA
 stateName: Louisiana
 cityName: Metairie
 seo:
-  name: "Daiwa Sushi Bar & Japanese Cuisine - Metairie"
-  type: Restaurant
-  links: null
-description: "Daiwa Sushi Bar & Japanese Cuisine - Metairie serves delicious sushi in Metairie, Louisiana. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.daiwasushi.com/
 place_id: ChIJ4URFboyxIIYR9y63APV3JcA
 photos:
   - name: >-
@@ -170,8 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8620b18c6e4544e1:0xc02577f500b72ef7!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 15
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 15
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 15
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 15
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: Closed'
+    - 'Tuesday: 3:00 – 9:30 PM'
+    - 'Wednesday: 3:00 – 9:30 PM'
+    - 'Thursday: 3:00 – 9:30 PM'
+    - 'Friday: 3:00 – 10:30 PM'
+    - 'Saturday: 12:00 – 10:30 PM'
+    - 'Sunday: 12:00 – 9:30 PM'
+  nextCloseTime: '2025-05-04T03:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +234,48 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
+phone: (504) 281-4646
+price_level: PRICE_LEVEL_MODERATE
 price_range: null
-rating: null
-rating_count: 0
-website: null
+rating: '4.6'
+rating_count: 490
+website: http://www.daiwasushi.com/
+description: >-
+  Discover Daiwa Sushi Bar in Metairie, LA$$$Daiwa Sushi Bar & Japanese Cuisine
+  in Metairie, LA, provides a welcoming spot for enjoying fresh sushi and
+  authentic Japanese flavors in a relaxed environment. The venue features a
+  casual setup with outdoor seating options that enhance the dining experience,
+  making it ideal for those seeking flavorful rolls and traditional dishes.
+  Patrons can savor a variety of creative sushi selections alongside other
+  Japanese specialties, all prepared with high-quality ingredients that
+  highlight the cuisine's artistry. Accessibility features ensure a comfortable
+  visit for everyone, while the moderate pricing adds to its appeal for casual
+  outings or special occasions in the area.
+generative_summary: >-
+  Discover Daiwa Sushi Bar in Metairie, LA$$$Daiwa Sushi Bar & Japanese Cuisine
+  in Metairie, LA, provides a welcoming spot for enjoying fresh sushi and
+  authentic Japanese flavors in a relaxed environment. The venue features a
+  casual setup with outdoor seating options that enhance the dining experience,
+  making it ideal for those seeking flavorful rolls and traditional dishes.
+  Patrons can savor a variety of creative sushi selections alongside other
+  Japanese specialties, all prepared with high-quality ingredients that
+  highlight the cuisine's artistry. Accessibility features ensure a comfortable
+  visit for everyone, while the moderate pricing adds to its appeal for casual
+  outings or special occasions in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Folks often praise the tasty sushi rolls and
+  inventive drinks at this Japanese spot, noting how they bring a fun twist to
+  classic flavors that keep diners coming back. Many highlight the friendly
+  service that makes every meal feel personalized and attentive, creating a
+  welcoming vibe overall. The modern atmosphere gets plenty of nods for its
+  comfortable setup, perfect for unwinding after a long day. Reviewers also
+  appreciate the solid value for the price, making it a go-to choice for anyone
+  exploring local dining options without breaking the bank. All in all, it's
+  clear that visitors enjoy the reliable quality and enjoyable experience here,
+  ideal for those craving a satisfying Japanese meal nearby.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +301,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

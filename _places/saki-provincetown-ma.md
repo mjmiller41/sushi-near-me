@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Saki"
+title: Saki
 permalink: /massachusetts/provincetown/saki.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Provincetown
 seo:
-  name: "Saki"
-  type: Restaurant
+  type: restaurant
   links: http://www.sakiptown.com/
-description: "Saki serves delicious sushi in Provincetown, Massachusetts. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJCfxYmX6n_IkReo-J3SDXbdw
 photos:
   - name: >-
@@ -167,7 +165,49 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89fca77e9958fc09:0xdc6dd720dd898f7a!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 1
+        hour: 1
+        minute: 0
+    - open:
+        day: 1
+        hour: 12
+        minute: 0
+      close:
+        day: 2
+        hour: 1
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 1
+        minute: 0
+    - open:
+        day: 5
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 1
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 1
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 12:00 PM – 1:00 AM'
     - 'Tuesday: Closed'
     - 'Wednesday: Closed'
@@ -175,14 +215,7 @@ opening_hours:
     - 'Friday: 12:00 PM – 1:00 AM'
     - 'Saturday: 12:00 PM – 1:00 AM'
     - 'Sunday: 12:00 PM – 1:00 AM'
-  current:
-    - 'Monday: 12:00 PM – 1:00 AM'
-    - 'Tuesday: Closed'
-    - 'Wednesday: Closed'
-    - 'Thursday: 5:00 PM – 1:00 AM'
-    - 'Friday: 12:00 PM – 1:00 AM'
-    - 'Saturday: 12:00 PM – 1:00 AM'
-    - 'Sunday: 12:00 PM – 1:00 AM'
+  nextCloseTime: '2025-05-04T05:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -194,9 +227,43 @@ phone: (508) 487-4870
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.3'
-rating_count: 0
+rating_count: 103
 website: http://www.sakiptown.com/
+description: >-
+  Explore Saki in Provincetown, MA$$$Nestled in the charming coastal town of
+  Provincetown, MA, Saki stands out as a welcoming sushi restaurant blending
+  Japanese flavors with Thai influences. This spot offers a delightful array of
+  fresh nigiri and combo platters, complemented by flavorful Thai entrees,
+  making it a versatile choice for those seeking diverse Asian cuisine. With its
+  late-night hours and moderate pricing, it's ideal for casual diners looking
+  for quality meals after dark, enhancing the vibrant local dining scene. The
+  restaurant's accessibility features ensure a comfortable visit, while its
+  operational schedule caters to both daytime outings and evening adventures,
+  appealing to anyone exploring top sushi options nearby.
+generative_summary: >-
+  Explore Saki in Provincetown, MA$$$Nestled in the charming coastal town of
+  Provincetown, MA, Saki stands out as a welcoming sushi restaurant blending
+  Japanese flavors with Thai influences. This spot offers a delightful array of
+  fresh nigiri and combo platters, complemented by flavorful Thai entrees,
+  making it a versatile choice for those seeking diverse Asian cuisine. With its
+  late-night hours and moderate pricing, it's ideal for casual diners looking
+  for quality meals after dark, enhancing the vibrant local dining scene. The
+  restaurant's accessibility features ensure a comfortable visit, while its
+  operational schedule caters to both daytime outings and evening adventures,
+  appealing to anyone exploring top sushi options nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback on Saki$$$Visitors often rave about the tasty sushi
+  selections and hearty combo deals, highlighting how they hit the spot for
+  fresh, satisfying meals. Many appreciate the mix of Japanese and Thai dishes
+  that keep things exciting without overwhelming the palate, making it a
+  reliable pick for groups or solo diners. Folks frequently note the great value
+  and welcoming vibe, perfect for unwinding after a day of exploring, though
+  some mention occasional waits during peak times. Overall, it's clear that Saki
+  earns its strong reputation as a go-to spot for flavorful eats, with positive
+  comments on the variety keeping fans coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -222,7 +289,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Man"
+title: Sushi Man
 permalink: /illinois/champaign/sushi-man.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Champaign
 seo:
-  name: "Sushi Man"
-  type: Restaurant
-  links: null
-description: "Sushi Man serves delicious sushi in Champaign, Illinois. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://sushimanchampaign2.com/
 place_id: ChIJM60MJa3bDIgRMrPAkYSGCZ0
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x880cdbad250cad33:0x9d09868491c0b332!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:30 PM'
+    - 'Tuesday: 11:00 AM – 9:30 PM'
+    - 'Wednesday: 11:00 AM – 9:30 PM'
+    - 'Thursday: 11:00 AM – 9:30 PM'
+    - 'Friday: 11:00 AM – 10:00 PM'
+    - 'Saturday: 11:00 AM – 10:00 PM'
+    - 'Sunday: 12:00 – 9:30 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,53 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
+phone: (217) 607-5092
 price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+price_range: $20 &ndash; $30
+rating: '4.7'
+rating_count: 555
+website: http://sushimanchampaign2.com/
+description: >-
+  Discover Sushi Man in Champaign, IL$$$Sushi Man in Champaign, IL, stands out
+  as a go-to spot for fresh sushi dining, offering an all-you-can-eat experience
+  that combines variety with affordability. This inviting sushi restaurant
+  features a wide array of options, from expertly crafted rolls to flavorful
+  appetizers, all served alongside selections like sake and beer for a complete
+  meal. Accessibility is a key highlight, with wheelchair-friendly parking,
+  entrances, restrooms, and seating that make it welcoming for everyone.
+  Operating daily with extended hours, it's ideal for both quick lunches and
+  relaxed dinners, drawing in locals and visitors seeking top-rated sushi
+  options nearby. The atmosphere balances casual vibes with quality ingredients,
+  making it a solid choice for anyone exploring Japanese-inspired cuisine in the
+  area.
+generative_summary: >-
+  Discover Sushi Man in Champaign, IL$$$Sushi Man in Champaign, IL, stands out
+  as a go-to spot for fresh sushi dining, offering an all-you-can-eat experience
+  that combines variety with affordability. This inviting sushi restaurant
+  features a wide array of options, from expertly crafted rolls to flavorful
+  appetizers, all served alongside selections like sake and beer for a complete
+  meal. Accessibility is a key highlight, with wheelchair-friendly parking,
+  entrances, restrooms, and seating that make it welcoming for everyone.
+  Operating daily with extended hours, it's ideal for both quick lunches and
+  relaxed dinners, drawing in locals and visitors seeking top-rated sushi
+  options nearby. The atmosphere balances casual vibes with quality ingredients,
+  making it a solid choice for anyone exploring Japanese-inspired cuisine in the
+  area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Recent Feedback$$$Folks raving about this spot often praise the
+  all-you-can-eat deal as a fantastic value, packed with fresh sushi varieties
+  and tasty starters that keep things exciting. Many highlight how the service
+  hits the mark with friendly staff and speedy delivery, making meals feel
+  effortless and enjoyable without any fuss. It's commonly noted that the prices
+  are reasonable for the quality, giving diners a satisfying bang for their buck
+  on everything from specialty rolls to sides. Overall, the vibe comes across as
+  welcoming and efficient, encouraging repeat visits for groups or solo
+  adventurers. While opinions lean positive, it's clear that the combination of
+  variety and attentiveness keeps this place buzzing among those hunting for
+  reliable sushi restaurants nearby.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +314,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

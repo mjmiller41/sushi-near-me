@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Sumo"
+title: Sushi Sumo
 permalink: /georgia/alpharetta/sushi-sumo.html
 stateAbbr: GA
 stateName: Georgia
 cityName: Alpharetta
 seo:
-  name: "Sushi Sumo"
-  type: Restaurant
-  links: null
-description: "Sushi Sumo serves delicious sushi in Alpharetta, Georgia. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.sushisumoalpharetta.com/
 place_id: ChIJBbP2KFV19YgRoxUjss5fgcY
 photos:
   - name: >-
@@ -170,22 +168,172 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x88f5755528f6b305:0xc6815fceb22315a3!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 15
+        minute: 30
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 10:00 PM'
+    - 'Tuesday: Closed'
+    - 'Wednesday: 11:00 AM – 10:00 PM'
+    - 'Thursday: 11:00 AM – 10:00 PM'
+    - 'Friday: 11:00 AM – 10:00 PM'
+    - 'Saturday: 12:00 – 10:00 PM'
+    - 'Sunday: 3:30 – 10:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 15
+          minute: 45
+        close:
+          day: 0
+          hour: 22
+          minute: 0
+      - open:
+          day: 1
+          hour: 15
+          minute: 45
+        close:
+          day: 1
+          hour: 22
+          minute: 0
+      - open:
+          day: 3
+          hour: 15
+          minute: 45
+        close:
+          day: 3
+          hour: 22
+          minute: 0
+      - open:
+          day: 4
+          hour: 15
+          minute: 45
+        close:
+          day: 4
+          hour: 22
+          minute: 0
+      - open:
+          day: 5
+          hour: 15
+          minute: 45
+        close:
+          day: 5
+          hour: 22
+          minute: 0
+      - open:
+          day: 6
+          hour: 15
+          minute: 45
+        close:
+          day: 6
+          hour: 22
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 3:45 – 10:00 PM'
+      - 'Tuesday: Closed'
+      - 'Wednesday: 3:45 – 10:00 PM'
+      - 'Thursday: 3:45 – 10:00 PM'
+      - 'Friday: 3:45 – 10:00 PM'
+      - 'Saturday: 3:45 – 10:00 PM'
+      - 'Sunday: 3:45 – 10:00 PM'
+    secondaryHoursType: DELIVERY
+    nextCloseTime: '2025-05-04T02:00:00Z'
+phone: (770) 752-8488
+price_level: PRICE_LEVEL_INEXPENSIVE
+price_range: $10 &ndash; $20
+rating: '4.4'
+rating_count: 360
+website: https://www.sushisumoalpharetta.com/
+description: >-
+  Discover Sushi Sumo in Alpharetta, GA$$$Nestled in Alpharetta, GA, Sushi Sumo
+  stands out as a welcoming spot for fresh sushi and Asian-inspired meals,
+  perfect for those searching for top-rated sushi restaurants nearby. This cozy
+  eatery offers a variety of flavorful rolls and dishes, including options
+  tailored for vegan diners, making it a great choice for diverse tastes and
+  dietary needs. With its accessible features like wheelchair-friendly entrances
+  and seating, the restaurant ensures a comfortable experience for everyone.
+  You'll find the atmosphere inviting for casual meals, complemented by a menu
+  that highlights quality ingredients and authentic flavors. Whether you're
+  looking for sushi places near me or simply craving a relaxed dining vibe,
+  Sushi Sumo delivers on both taste and convenience.
+generative_summary: >-
+  Discover Sushi Sumo in Alpharetta, GA$$$Nestled in Alpharetta, GA, Sushi Sumo
+  stands out as a welcoming spot for fresh sushi and Asian-inspired meals,
+  perfect for those searching for top-rated sushi restaurants nearby. This cozy
+  eatery offers a variety of flavorful rolls and dishes, including options
+  tailored for vegan diners, making it a great choice for diverse tastes and
+  dietary needs. With its accessible features like wheelchair-friendly entrances
+  and seating, the restaurant ensures a comfortable experience for everyone.
+  You'll find the atmosphere inviting for casual meals, complemented by a menu
+  that highlights quality ingredients and authentic flavors. Whether you're
+  looking for sushi places near me or simply craving a relaxed dining vibe,
+  Sushi Sumo delivers on both taste and convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Buzzing About$$$Folks rave about the tasty sushi rolls at
+  this spot, often pointing out how the fresh selections and creative flavors
+  make every bite worthwhile, especially for anyone hunting for the best sushi
+  near me. Many appreciate the friendly service that keeps things lively and
+  attentive, adding to the overall enjoyable vibe without overwhelming the
+  experience. It's frequently noted for offering solid value, with meals that
+  feel satisfying yet affordable, drawing in repeat crowds for quick lunches or
+  dinners. While some mention the space can feel a bit compact during peak
+  times, that hasn't stopped it from being a go-to for groups or solo diners
+  seeking reliable Japanese-inspired fare. Overall, it's a solid pick for anyone
+  wanting a straightforward, feel-good meal that hits the mark on flavor and
+  friendliness.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +359,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

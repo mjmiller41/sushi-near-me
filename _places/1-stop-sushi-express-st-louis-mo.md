@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "1 STOP SUSHI EXPRESS"
+title: 1 STOP SUSHI EXPRESS
 permalink: /missouri/st-louis/1-stop-sushi-express.html
 stateAbbr: MO
 stateName: Missouri
 cityName: St. Louis
 seo:
-  name: "1 STOP SUSHI EXPRESS"
-  type: Restaurant
+  type: restaurant
   links: https://1stopsushi.com/
-description: "1 STOP SUSHI EXPRESS serves delicious sushi in St. Louis, Missouri. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, and dinner."
 place_id: ChIJxcRx5aS12IcRU44A6O-cQIg
 photos:
   - name: >-
@@ -183,6 +181,29 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 0
 website: https://1stopsushi.com/
+description: >-
+  Discover 1 STOP SUSHI EXPRESS in St. Louis, MO$$$In St. Louis, MO, 1 STOP
+  SUSHI EXPRESS offers a laid-back spot for enjoying a variety of fresh sushi
+  rolls and Japanese-inspired dishes, ideal for quick takeout meals. This casual
+  eatery focuses on delivering flavorful options that highlight quality
+  ingredients and authentic flavors, making it a convenient choice for anyone
+  seeking sushi restaurants in the area. Patrons appreciate the array of rolls
+  and entrees that cater to different tastes, all prepared with a commitment to
+  simplicity and taste. Whether you're exploring Japanese places near me or
+  looking for satisfying takeout, this location provides a welcoming atmosphere
+  that enhances the overall dining experience.
+generative_summary: >-
+  Discover 1 STOP SUSHI EXPRESS in St. Louis, MO$$$In St. Louis, MO, 1 STOP
+  SUSHI EXPRESS offers a laid-back spot for enjoying a variety of fresh sushi
+  rolls and Japanese-inspired dishes, ideal for quick takeout meals. This casual
+  eatery focuses on delivering flavorful options that highlight quality
+  ingredients and authentic flavors, making it a convenient choice for anyone
+  seeking sushi restaurants in the area. Patrons appreciate the array of rolls
+  and entrees that cater to different tastes, all prepared with a commitment to
+  simplicity and taste. Whether you're exploring Japanese places near me or
+  looking for satisfying takeout, this location provides a welcoming atmosphere
+  that enhances the overall dining experience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJxcRx5aS12IcRU44A6O-cQIg/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJbGY3NTR3RRAB
@@ -436,6 +457,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNXMU5mQTJRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNXMU5mQTJRRRAB!2m1!1s0x87d8b5a4e571c4c5:0x88409cefe8008e53
+review_summary: >-
+  What Customers Say About This Sushi Spot$$$Visitors frequently praise the
+  fresh and tasty sushi rolls at this St. Louis favorite, often noting the
+  generous portions and flavorful appetizers that make meals feel worthwhile.
+  While some mention that spice levels in certain dishes might not always hit
+  the mark, the majority highlight the friendly service and reliable quality
+  that keep people coming back. Folks enjoy the overall value, with comments on
+  how the variety of options suits casual cravings for Japanese fare without
+  breaking the bank. If you're searching for top-rated sushi near me, this place
+  stands out for its consistent positives, encouraging a positive outlook
+  despite occasional feedback. In the end, it's a solid pick for anyone eager to
+  try local sushi restaurants with a focus on fresh ingredients and quick vibes.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -468,7 +502,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

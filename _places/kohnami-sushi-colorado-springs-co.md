@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kohnami Sushi"
+title: Kohnami Sushi
 permalink: /colorado/colorado-springs/kohnami-sushi.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Colorado Springs
 seo:
-  name: "Kohnami Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://kohnamisushi.epipay.com/
-description: "Kohnami Sushi serves delicious sushi in Colorado Springs, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJL86qTr1OE4cRVxmRq4ZQJkE
 photos:
   - name: >-
@@ -170,7 +168,89 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x87134ebd4eaace2f:0x41265086ab911957!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 20
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 20
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 20
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 20
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 20
+        minute: 30
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 20
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 4:30 – 8:30 PM'
     - 'Tuesday: 11:00 AM – 2:30 PM, 4:30 – 8:30 PM'
     - 'Wednesday: 11:00 AM – 2:30 PM, 4:30 – 8:30 PM'
@@ -178,54 +258,376 @@ opening_hours:
     - 'Friday: 11:00 AM – 2:30 PM, 4:30 – 8:30 PM'
     - 'Saturday: 12:00 – 8:30 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 4:30 – 8:30 PM'
-    - 'Tuesday: 11:00 AM – 2:30 PM, 4:30 – 8:30 PM'
-    - 'Wednesday: 11:00 AM – 2:30 PM, 4:30 – 8:30 PM'
-    - 'Thursday: 11:00 AM – 2:30 PM, 4:30 – 8:30 PM'
-    - 'Friday: 11:00 AM – 2:30 PM, 4:30 – 8:30 PM'
-    - 'Saturday: 12:00 – 8:30 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 1
+          hour: 16
+          minute: 30
+        close:
+          day: 1
+          hour: 20
+          minute: 0
+      - open:
+          day: 2
+          hour: 11
+          minute: 0
+        close:
+          day: 2
+          hour: 14
+          minute: 30
+      - open:
+          day: 2
+          hour: 16
+          minute: 30
+        close:
+          day: 2
+          hour: 20
+          minute: 0
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 14
+          minute: 30
+      - open:
+          day: 3
+          hour: 16
+          minute: 30
+        close:
+          day: 3
+          hour: 20
+          minute: 0
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 14
+          minute: 30
+      - open:
+          day: 4
+          hour: 16
+          minute: 30
+        close:
+          day: 4
+          hour: 20
+          minute: 0
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 14
+          minute: 30
+      - open:
+          day: 5
+          hour: 16
+          minute: 30
+        close:
+          day: 5
+          hour: 20
+          minute: 0
+      - open:
+          day: 6
+          hour: 12
+          minute: 0
+        close:
+          day: 6
+          hour: 20
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 4:30 – 8:00 PM'
+      - 'Tuesday: 11:00 AM – 2:30 PM, 4:30 – 8:00 PM'
+      - 'Wednesday: 11:00 AM – 2:30 PM, 4:30 – 8:00 PM'
+      - 'Thursday: 11:00 AM – 2:30 PM, 4:30 – 8:00 PM'
+      - 'Friday: 11:00 AM – 2:30 PM, 4:30 – 8:00 PM'
+      - 'Saturday: 12:00 – 8:00 PM'
+      - 'Sunday: Closed'
+    secondaryHoursType: TAKEOUT
+    nextCloseTime: '2025-05-04T02:00:00Z'
 phone: (719) 599-8689
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.4'
-rating_count: 0
+rating_count: 698
 website: http://kohnamisushi.epipay.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Kohnami Sushi in Colorado Springs, CO$$$Nestled in Colorado Springs,
+  CO, Kohnami Sushi stands out as a welcoming spot for those seeking top-rated
+  sushi experiences in the area. This cozy eatery offers an intimate setting
+  where fresh sushi rolls and classic Japanese dishes are prepared with care,
+  complemented by a selection of sake, beer, and cocktails for a complete dining
+  adventure. Accessibility features like wheelchair-friendly parking and
+  entrances make it easy for everyone to enjoy the flavorful menu, which
+  includes both traditional and signature options. With convenient hours that
+  cater to lunch and dinner crowds, it's an ideal choice for anyone looking for
+  sushi restaurants near you that prioritize quality and comfort.
+generative_summary: >-
+  Discover Kohnami Sushi in Colorado Springs, CO$$$Nestled in Colorado Springs,
+  CO, Kohnami Sushi stands out as a welcoming spot for those seeking top-rated
+  sushi experiences in the area. This cozy eatery offers an intimate setting
+  where fresh sushi rolls and classic Japanese dishes are prepared with care,
+  complemented by a selection of sake, beer, and cocktails for a complete dining
+  adventure. Accessibility features like wheelchair-friendly parking and
+  entrances make it easy for everyone to enjoy the flavorful menu, which
+  includes both traditional and signature options. With convenient hours that
+  cater to lunch and dinner crowds, it's an ideal choice for anyone looking for
+  sushi restaurants near you that prioritize quality and comfort.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJL86qTr1OE4cRVxmRq4ZQJkE/reviews/ChdDSUhNMG9nS0VJQ0FnSURmNHZ1dXNnRRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        I've been coming to Kohnami for nearly 20 years. Now living abroad, I
+        can only visit once a year during the holiday season, I was really
+        surprised to learn from the staff today that there is new ownership. We
+        joked with our waiter that they have some big shoes to fill. Lol :) And
+        the sushi was awesome! They kept our favorites - The Great Coveted  Snow
+        White roll and the crispy Salmon Skin roll! Thank you for the great
+        evening and looking forward to the next 20 years with the new staff.
+      languageCode: en
+    originalText:
+      text: >-
+        I've been coming to Kohnami for nearly 20 years. Now living abroad, I
+        can only visit once a year during the holiday season, I was really
+        surprised to learn from the staff today that there is new ownership. We
+        joked with our waiter that they have some big shoes to fill. Lol :) And
+        the sushi was awesome! They kept our favorites - The Great Coveted  Snow
+        White roll and the crispy Salmon Skin roll! Thank you for the great
+        evening and looking forward to the next 20 years with the new staff.
+      languageCode: en
+    authorAttribution:
+      displayName: Garrett Anderson
+      uri: https://www.google.com/maps/contrib/101632731098473294608/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXUWAlsZmk6bmJZPx8WPYjvgPZDkygrTn_qbUNWD3_Na2N9D1s=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-01-05T04:06:42.399495Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURmNHZ1dXNnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURmNHZ1dXNnRRAB!2m1!1s0x87134ebd4eaace2f:0x41265086ab911957
+  - name: >-
+      places/ChIJL86qTr1OE4cRVxmRq4ZQJkE/reviews/ChZDSUhNMG9nS0VJQ0FnSUN2dk5YdmFREAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        This is my favorite shushi spot in town. The boys ordered a good amount
+        and they gave us a boat. This fully delighted them!!! And as you know
+        it's the little things.  They even went out on a limb and tried the
+        octopus. The sushi here is the freshest in town hands down. And the
+        service is always second to none. Add in a chill atmosphere and little
+        wait for one of their tables and this is the spot.
+      languageCode: en
+    originalText:
+      text: >-
+        This is my favorite shushi spot in town. The boys ordered a good amount
+        and they gave us a boat. This fully delighted them!!! And as you know
+        it's the little things.  They even went out on a limb and tried the
+        octopus. The sushi here is the freshest in town hands down. And the
+        service is always second to none. Add in a chill atmosphere and little
+        wait for one of their tables and this is the spot.
+      languageCode: en
+    authorAttribution:
+      displayName: Lauren Klayton
+      uri: https://www.google.com/maps/contrib/106098065201177112686/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjU4Ed0IYsRWl_lsti0sAqMLYdHxyAglkMimc1qO5fFcKyeHWZs4=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-12-09T02:29:59.700402Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN2dk5YdmFREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN2dk5YdmFREAE!2m1!1s0x87134ebd4eaace2f:0x41265086ab911957
+  - name: >-
+      places/ChIJL86qTr1OE4cRVxmRq4ZQJkE/reviews/ChdDSUhNMG9nS0VJQ0FnTUNBemNxeGl3RRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        Really good sushi! Fairly small area, but the quality of the fish is
+        amazing and, the service was very kind. The waiter was attentive with my
+        water refill, and I had a fun time. Super good place to go to relax from
+        work!
+      languageCode: en
+    originalText:
+      text: >-
+        Really good sushi! Fairly small area, but the quality of the fish is
+        amazing and, the service was very kind. The waiter was attentive with my
+        water refill, and I had a fun time. Super good place to go to relax from
+        work!
+      languageCode: en
+    authorAttribution:
+      displayName: Young Park
+      uri: https://www.google.com/maps/contrib/107176830779852170190/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXWEwfRl2CVXgr2YvAgz4If-WcFO7-ZF3KNcCe4Y-YliG0Q9IA=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-02-03T04:39:58.155222Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNBemNxeGl3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNBemNxeGl3RRAB!2m1!1s0x87134ebd4eaace2f:0x41265086ab911957
+  - name: >-
+      places/ChIJL86qTr1OE4cRVxmRq4ZQJkE/reviews/ChZDSUhNMG9nS0VJQ0FnSUNfc19ybUZREAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        My husband and I have been going here for months and is still the best
+        sushi I've had in town. Loved the atmosphere of a mom and pop shop with
+        some really cute, unique touches. The two guys working there were
+        amazing. We have loved all the different sushi we have tried.
+      languageCode: en
+    originalText:
+      text: >-
+        My husband and I have been going here for months and is still the best
+        sushi I've had in town. Loved the atmosphere of a mom and pop shop with
+        some really cute, unique touches. The two guys working there were
+        amazing. We have loved all the different sushi we have tried.
+      languageCode: en
+    authorAttribution:
+      displayName: Seraphine Durant
+      uri: https://www.google.com/maps/contrib/112753753905176450971/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXP4Z6twiWdWMfGzIRkD2ycAYMJ9KQD2exIzsvswgjalDHhqaNV=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-03-19T00:08:36.469505Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNfc19ybUZREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNfc19ybUZREAE!2m1!1s0x87134ebd4eaace2f:0x41265086ab911957
+  - name: >-
+      places/ChIJL86qTr1OE4cRVxmRq4ZQJkE/reviews/ChZDSUhNMG9nS0VJQ0FnSUN2MjhQMGRnEAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        Me and my wife found this place a year ago when we came to Colorado
+        Springs for our honeymoon, and at first we couldn’t find this place.
+        It’s small and tucked away in a shopping center and not immediately
+        visible from the road.
+
+
+        Man are we glad we found this little slice of heaven, we were first
+        treated with a hot bowl of Miso Soup and it was absolutely delicious, it
+        was me and my wife’s first time ever having Miso and we became big fans
+        afterwards.
+
+
+        Then we got our sushi order and my goodness we were overwhelmed by how
+        delicious the food was. We are huge connoisseurs of sushi and this place
+        the best sushi we had ever had.
+
+
+        Jump ahead a year later, because of work and a new job my wife and I now
+        live in Colorado Springs and we live 10 minutes from Kohnami Sushi and
+        of course we had to go there the minute we moved in to our new home, it
+        has changed ownership according to employees, but you would never know
+        because food is still as delicious as it was when we first came here a
+        year earlier. We even tried the cream cheese wontons recently and they
+        were delicious.
+
+
+        This is going to be our new end of the week spot going forward and I
+        highly recommend this place of your looking for some excellent sushi
+      languageCode: en
+    originalText:
+      text: >-
+        Me and my wife found this place a year ago when we came to Colorado
+        Springs for our honeymoon, and at first we couldn’t find this place.
+        It’s small and tucked away in a shopping center and not immediately
+        visible from the road.
+
+
+        Man are we glad we found this little slice of heaven, we were first
+        treated with a hot bowl of Miso Soup and it was absolutely delicious, it
+        was me and my wife’s first time ever having Miso and we became big fans
+        afterwards.
+
+
+        Then we got our sushi order and my goodness we were overwhelmed by how
+        delicious the food was. We are huge connoisseurs of sushi and this place
+        the best sushi we had ever had.
+
+
+        Jump ahead a year later, because of work and a new job my wife and I now
+        live in Colorado Springs and we live 10 minutes from Kohnami Sushi and
+        of course we had to go there the minute we moved in to our new home, it
+        has changed ownership according to employees, but you would never know
+        because food is still as delicious as it was when we first came here a
+        year earlier. We even tried the cream cheese wontons recently and they
+        were delicious.
+
+
+        This is going to be our new end of the week spot going forward and I
+        highly recommend this place of your looking for some excellent sushi
+      languageCode: en
+    authorAttribution:
+      displayName: Chris King
+      uri: https://www.google.com/maps/contrib/113333711569001924840/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVBvYjTBou5m7P4giW6exBhNKcY3JBvlgBDEQALqcvfckZHSxit=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-12-15T02:25:43.199045Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN2MjhQMGRnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN2MjhQMGRnEAE!2m1!1s0x87134ebd4eaace2f:0x41265086ab911957
+review_summary: >-
+  What Visitors Are Buzzing About$$$Folks who stop by Kohnami Sushi often rave
+  about the fresh and flavorful sushi that keeps them coming back for more,
+  highlighting it as one of the best options around. Many appreciate the
+  friendly and attentive service that makes every visit feel relaxed and
+  enjoyable, even in the eatery's compact space. Comments frequently mention the
+  welcoming atmosphere, perfect for casual get-togethers or a quick meal, with
+  consistent quality that's held up through changes like new ownership. Overall,
+  diners find great value in the moderately priced offerings, making it a solid
+  pick for anyone hunting for reliable sushi spots nearby. While not every
+  detail is perfect, the positive vibes and tasty experiences leave most
+  visitors eager to recommend it.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
+curbside_pickup: false
+delivery: true
+dine_in: true
 good_for_children: null
 good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Casual, compact eatery dispensing classic & signature sushi rolls, plus cooked
+  Japanese fare.
 
 ---

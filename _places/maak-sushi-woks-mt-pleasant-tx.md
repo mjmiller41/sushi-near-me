@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "MAAK: Sushi & Woks"
+title: 'MAAK: Sushi & Woks'
 permalink: /texas/mt-pleasant/maak-sushi-woks.html
 stateAbbr: TX
 stateName: Texas
 cityName: Mt Pleasant
 seo:
-  name: "MAAK: Sushi & Woks"
-  type: Restaurant
+  type: restaurant
   links: https://themaak.com/
-description: "MAAK: Sushi & Woks serves delicious sushi in Mt Pleasant, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJvzxaCQf6NYYR1FvlimWZqcY
 photos:
   - name: >-
@@ -170,7 +168,49 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8635fa07095a3cbf:0xc6a999658ae55bd4!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 20
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 20
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:00 AM – 8:00 PM'
     - 'Wednesday: 11:00 AM – 8:00 PM'
@@ -178,14 +218,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 8:00 PM'
     - 'Saturday: 11:00 AM – 8:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:00 AM – 8:00 PM'
-    - 'Wednesday: 11:00 AM – 8:00 PM'
-    - 'Thursday: 11:00 AM – 8:00 PM'
-    - 'Friday: 11:00 AM – 8:00 PM'
-    - 'Saturday: 11:00 AM – 8:00 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T01:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +230,231 @@ phone: (430) 234-5222
 price_level: PRICE_LEVEL_INEXPENSIVE
 price_range: $10 &ndash; $20
 rating: '4.4'
-rating_count: 0
+rating_count: 377
 website: https://themaak.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Explore MAAK: Sushi & Woks in Mt Pleasant, TX$$$MAAK: Sushi & Woks in Mt
+  Pleasant, TX, offers a vibrant counter-service experience featuring fresh
+  Japanese-inspired dishes that highlight the best of sushi and dumplings. This
+  spot stands out with its accessible design, including wheelchair-friendly
+  entrances and seating, making it welcoming for all visitors seeking a casual
+  meal. Patrons can enjoy a variety of flavorful rolls and wok-prepared options
+  in a cozy setting with outdoor seating, perfect for those looking for sushi
+  restaurants near them on a relaxed day out. The menu caters to a range of
+  tastes, with vegetarian choices and kid-friendly items that add to its appeal
+  as a go-to place for Japanese cuisine. Open from Tuesday through Saturday,
+  it's an ideal stop for anyone exploring top-rated sushi options in the area.
+generative_summary: >-
+  Explore MAAK: Sushi & Woks in Mt Pleasant, TX$$$MAAK: Sushi & Woks in Mt
+  Pleasant, TX, offers a vibrant counter-service experience featuring fresh
+  Japanese-inspired dishes that highlight the best of sushi and dumplings. This
+  spot stands out with its accessible design, including wheelchair-friendly
+  entrances and seating, making it welcoming for all visitors seeking a casual
+  meal. Patrons can enjoy a variety of flavorful rolls and wok-prepared options
+  in a cozy setting with outdoor seating, perfect for those looking for sushi
+  restaurants near them on a relaxed day out. The menu caters to a range of
+  tastes, with vegetarian choices and kid-friendly items that add to its appeal
+  as a go-to place for Japanese cuisine. Open from Tuesday through Saturday,
+  it's an ideal stop for anyone exploring top-rated sushi options in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJvzxaCQf6NYYR1FvlimWZqcY/reviews/ChdDSUhNMG9nS0VJQ0FnTURJbXNYN3ZnRRAB
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 1
+    text:
+      text: >-
+        This was the worst sushi we have ever had.  The tuna had gristle
+        throughout that was not chewable. The seaweed was dry and overall the
+        entire roll dy and tasteless. The 2nd roll was tasteless but edible.  I
+        will say the lady at the front was very nice and professional as was the
+        manager that came out to talk to us.  He immediately called the owner
+        who walked him through the refund.  So service and recovery was
+        excellent.  Food was awful.
+      languageCode: en
+    originalText:
+      text: >-
+        This was the worst sushi we have ever had.  The tuna had gristle
+        throughout that was not chewable. The seaweed was dry and overall the
+        entire roll dy and tasteless. The 2nd roll was tasteless but edible.  I
+        will say the lady at the front was very nice and professional as was the
+        manager that came out to talk to us.  He immediately called the owner
+        who walked him through the refund.  So service and recovery was
+        excellent.  Food was awful.
+      languageCode: en
+    authorAttribution:
+      displayName: Jax
+      uri: https://www.google.com/maps/contrib/118170939746789720256/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUyCiI325NFPFhwGhqwBrLm5Z5HQfDxaCDwejvtxsRyYqlQRpPO=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-09T01:06:14.443352Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJbXNYN3ZnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJbXNYN3ZnRRAB!2m1!1s0x8635fa07095a3cbf:0xc6a999658ae55bd4
+  - name: >-
+      places/ChIJvzxaCQf6NYYR1FvlimWZqcY/reviews/ChdDSUhNMG9nS0VJQ0FnSUNuOTRTMjlnRRAB
+    relativePublishTimeDescription: 7 months ago
+    rating: 5
+    text:
+      text: >-
+        We stumbled upon this place on our camping trip. The food was just
+        enough to fill us up and not too heavy.  There was a few out door tables
+        where we were able sit with our furbabies.
+      languageCode: en
+    originalText:
+      text: >-
+        We stumbled upon this place on our camping trip. The food was just
+        enough to fill us up and not too heavy.  There was a few out door tables
+        where we were able sit with our furbabies.
+      languageCode: en
+    authorAttribution:
+      displayName: lori sarreal
+      uri: https://www.google.com/maps/contrib/105661810664827206653/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUmLBtbLuHUdRp9O786M_pmAQfUEXAV1SFDlGPbo2tDhW7-LI0sBA=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-10-01T12:02:01.630873Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNuOTRTMjlnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNuOTRTMjlnRRAB!2m1!1s0x8635fa07095a3cbf:0xc6a999658ae55bd4
+  - name: >-
+      places/ChIJvzxaCQf6NYYR1FvlimWZqcY/reviews/ChdDSUhNMG9nS0VJQ0FnSURBeWRtM3VnRRAB
+    relativePublishTimeDescription: 7 years ago
+    rating: 5
+    text:
+      text: >-
+        This place has some fabulous flavors in their sushi! It's kept a little
+        cool inside, but the front outdoor seating is great. I have to say that
+        I also appreciate their branding too! Customer service is friendly and
+        you don't have to wait long for your food. Small space, so don't think
+        its a good spot for big groups; maybe they can expand sometime soon!
+      languageCode: en
+    originalText:
+      text: >-
+        This place has some fabulous flavors in their sushi! It's kept a little
+        cool inside, but the front outdoor seating is great. I have to say that
+        I also appreciate their branding too! Customer service is friendly and
+        you don't have to wait long for your food. Small space, so don't think
+        its a good spot for big groups; maybe they can expand sometime soon!
+      languageCode: en
+    authorAttribution:
+      displayName: LF Sifuentes (LFStuts)
+      uri: https://www.google.com/maps/contrib/114868334408620928124/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUKuynfidYDbnIaLCAhK2ukLVh9o_fPqYlfMwvnG1j-gTYJur7p=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2017-12-06T20:27:52.246Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURBeWRtM3VnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURBeWRtM3VnRRAB!2m1!1s0x8635fa07095a3cbf:0xc6a999658ae55bd4
+  - name: >-
+      places/ChIJvzxaCQf6NYYR1FvlimWZqcY/reviews/ChdDSUhNMG9nS0VJQ0FnSUNMNGFpVHpRRRAB
+    relativePublishTimeDescription: 10 months ago
+    rating: 2
+    text:
+      text: >-
+        I loved this place when it first opened. The best sushi in town. It was
+        the only sushi in town back then, but so fresh and delicious.  Now the
+        sushi is pitiful. The salmon that use to be a large fine cut of salmon
+        is now a thin, off color piece of scrap with a fishy smell and a much to
+        large rice to sushi ratio. The rolls were ok but I miss the good old
+        days.
+      languageCode: en
+    originalText:
+      text: >-
+        I loved this place when it first opened. The best sushi in town. It was
+        the only sushi in town back then, but so fresh and delicious.  Now the
+        sushi is pitiful. The salmon that use to be a large fine cut of salmon
+        is now a thin, off color piece of scrap with a fishy smell and a much to
+        large rice to sushi ratio. The rolls were ok but I miss the good old
+        days.
+      languageCode: en
+    authorAttribution:
+      displayName: Carey Brown
+      uri: https://www.google.com/maps/contrib/112382680102596284888/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIU9ievEVCVUVYwkDQYJLE8pCEXZn3qJjQABxPOw64G_Vvv=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-06-20T01:28:11.550429Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNMNGFpVHpRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNMNGFpVHpRRRAB!2m1!1s0x8635fa07095a3cbf:0xc6a999658ae55bd4
+  - name: >-
+      places/ChIJvzxaCQf6NYYR1FvlimWZqcY/reviews/ChZDSUhNMG9nS0VJQ0FnSURVN2Rxd1ZBEAE
+    relativePublishTimeDescription: 5 years ago
+    rating: 5
+    text:
+      text: >-
+        Staff is super friendly here! I highly recommend this place if you're in
+        the area and want sushi. You can customize almost anything you want
+        here! I live out of town and I would definitely be back when I come
+        back. They also serve red, white, and sake here.
+      languageCode: en
+    originalText:
+      text: >-
+        Staff is super friendly here! I highly recommend this place if you're in
+        the area and want sushi. You can customize almost anything you want
+        here! I live out of town and I would definitely be back when I come
+        back. They also serve red, white, and sake here.
+      languageCode: en
+    authorAttribution:
+      displayName: Jason Owsley
+      uri: https://www.google.com/maps/contrib/103482062016704629751/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVLb-bM0srk5TH5GK15mV2nuzUhR2XiGVz4pBI-35AT3rdpuZoaWQ=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2019-09-01T00:52:56.410040Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURVN2Rxd1ZBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURVN2Rxd1ZBEAE!2m1!1s0x8635fa07095a3cbf:0xc6a999658ae55bd4
+review_summary: >-
+  What People Love About This Local Sushi Gem$$$Folks searching for sushi near
+  them often praise the friendly service and customizable menu at this spot,
+  making it a solid choice for a quick and satisfying meal. While some visitors
+  note that the quality can vary, many appreciate the fresh flavors and
+  pet-friendly outdoor tables that enhance the overall vibe. Reviewers
+  frequently highlight the generous portions and variety of drinks like beer and
+  wine, which pair well with the dishes and keep things lively for groups or
+  families. Overall, it's seen as a reliable option for Japanese places near me,
+  with most feedback leaning positive on the atmosphere and quick preparation.
+  If you're in the mood for I love sushi moments, this location delivers a
+  generally enjoyable experience despite occasional inconsistencies.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  paidStreetParking: false
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
+curbside_pickup: true
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: true
+menu_for_children: true
+outdoor_seating: true
 reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: false
+serves_coffee: true
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Asagao Sushi"
+title: Asagao Sushi
 permalink: /new-york/croton-on-hudson/asagao-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: Croton-On-Hudson
 seo:
-  name: "Asagao Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://asagaosushi.com/
-description: "Asagao Sushi serves delicious sushi in Croton-On-Hudson, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJKZnP-xzHwokRC9aP83VlSHM
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $30 &ndash; $50
 rating: '4.6'
 rating_count: 0
 website: http://asagaosushi.com/
+description: >-
+  Discover Asagao Sushi in Croton-On-Hudson, NY$$$Asagao Sushi in
+  Croton-On-Hudson, NY, offers a welcoming and intimate dining experience
+  focused on fresh sushi and Korean-inspired dishes, making it a standout choice
+  for those exploring local eateries. The spot features a cozy atmosphere where
+  patrons can enjoy a variety of options, including beverages like beer, wine,
+  and sake to enhance the meal. With an emphasis on high-quality ingredients and
+  thoughtful preparation, it's ideal for anyone seeking authentic flavors in a
+  relaxed setting. Accessibility features such as wheelchair-friendly parking
+  and seating add to its appeal, ensuring a comfortable visit for all. Whether
+  you're on the hunt for top-rated sushi restaurants nearby, this location
+  combines tradition and taste for a memorable outing.
+generative_summary: >-
+  Discover Asagao Sushi in Croton-On-Hudson, NY$$$Asagao Sushi in
+  Croton-On-Hudson, NY, offers a welcoming and intimate dining experience
+  focused on fresh sushi and Korean-inspired dishes, making it a standout choice
+  for those exploring local eateries. The spot features a cozy atmosphere where
+  patrons can enjoy a variety of options, including beverages like beer, wine,
+  and sake to enhance the meal. With an emphasis on high-quality ingredients and
+  thoughtful preparation, it's ideal for anyone seeking authentic flavors in a
+  relaxed setting. Accessibility features such as wheelchair-friendly parking
+  and seating add to its appeal, ensuring a comfortable visit for all. Whether
+  you're on the hunt for top-rated sushi restaurants nearby, this location
+  combines tradition and taste for a memorable outing.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJKZnP-xzHwokRC9aP83VlSHM/reviews/ChZDSUhNMG9nS0VJQ0FnTURRcWZlOEtnEAE
@@ -328,6 +351,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN2c3JhVTlRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN2c3JhVTlRRRAB!2m1!1s0x89c2c71cfbcf9929:0x73486575f38fd60b
+review_summary: >-
+  What Visitors Are Saying About This Sushi Spot$$$Visitors consistently praise
+  the fresh and flavorful sushi at this spot, highlighting how the high-quality
+  ingredients make every bite satisfying and true to traditional tastes. Many
+  appreciate the friendly and attentive service that keeps the experience smooth
+  and enjoyable from start to finish. Folks often mention the cozy vibe and
+  reasonable prices as perfect for casual dinners or group outings, adding to
+  its charm as a go-to choice. Overall, it's clear that the menu's variety,
+  including cooked dishes and ramen, leaves diners feeling delighted and eager
+  to return. If you're craving some of the best sushi around, this place
+  delivers a reliably positive experience that's worth checking out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -360,7 +395,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yuan Japanese Asian Restaurant"
+title: Yuan Japanese Asian Restaurant
 permalink: /new-york/cohoes/yuan-japanese-asian-restaurant.html
 stateAbbr: NY
 stateName: New York
 cityName: Cohoes
 seo:
-  name: "Yuan Japanese Asian Restaurant"
-  type: Restaurant
+  type: restaurant
   links: http://www.yuanjapanese.com/?utm_source=gmb&utm_medium=website
-description: "Yuan Japanese Asian Restaurant serves delicious sushi in Cohoes, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJbflwyyoQ3okRy2ypDnhu2QE
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 0
 website: http://www.yuanjapanese.com/?utm_source=gmb&utm_medium=website
+description: >-
+  Discover Yuan Japanese Asian Restaurant in Cohoes, NY$$$Yuan Japanese Asian
+  Restaurant in Cohoes, NY, offers a cozy atmosphere where you can enjoy a blend
+  of fresh sushi and Asian flavors, making it a welcoming spot for casual
+  dining. The restaurant features accessible options like wheelchair-friendly
+  entrances and seating, along with convenient parking, enhancing the overall
+  experience for all visitors. Known for its moderate pricing and generous
+  portions, it's an ideal choice for those seeking quality sushi options in a
+  relaxed setting. Whether you're in the mood for creative rolls or classic
+  dishes, the menu highlights fresh ingredients and thoughtful presentations.
+  This spot stands out as a go-to for sushi enthusiasts exploring local Japanese
+  places near me.
+generative_summary: >-
+  Discover Yuan Japanese Asian Restaurant in Cohoes, NY$$$Yuan Japanese Asian
+  Restaurant in Cohoes, NY, offers a cozy atmosphere where you can enjoy a blend
+  of fresh sushi and Asian flavors, making it a welcoming spot for casual
+  dining. The restaurant features accessible options like wheelchair-friendly
+  entrances and seating, along with convenient parking, enhancing the overall
+  experience for all visitors. Known for its moderate pricing and generous
+  portions, it's an ideal choice for those seeking quality sushi options in a
+  relaxed setting. Whether you're in the mood for creative rolls or classic
+  dishes, the menu highlights fresh ingredients and thoughtful presentations.
+  This spot stands out as a go-to for sushi enthusiasts exploring local Japanese
+  places near me.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJbflwyyoQ3okRy2ypDnhu2QE/reviews/ChdDSUhNMG9nS0VJQ0FnSUQza3JMRXJ3RRAB
@@ -366,6 +389,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURRcnVIc3JRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURRcnVIc3JRRRAB!2m1!1s0x89de102acb70f96d:0x1d96e780ea96ccb
+review_summary: >-
+  What Visitors Are Sharing About the Experience$$$Folks often rave about the
+  tasty sushi and hearty portions at this spot, with many highlighting the fresh
+  flavors and friendly service that make meals enjoyable. While some have noted
+  occasional inconsistencies like flavor profiles or missing items in orders,
+  the overall vibe leans positive with praise for affordable bento boxes and
+  satisfying appetizers. Customers appreciate the welcoming staff and quick
+  delivery, which add to the relaxed dining experience, even if a few suggest
+  sticking to certain menu favorites. In general, it's a solid pick for anyone
+  hunting for top-rated sushi nearby, as long as you keep expectations realistic
+  for a casual eatery. The mix of hits and misses keeps things honest, but the
+  highlights definitely make it worth a try for sushi lovers in the area.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -398,7 +434,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: null
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

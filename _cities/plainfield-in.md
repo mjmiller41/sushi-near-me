@@ -5,4 +5,5 @@ permalink: /indiana/plainfield/
 stateAbbr: IN
 stateName: Indiana
 cityName: Plainfield
+
 ---

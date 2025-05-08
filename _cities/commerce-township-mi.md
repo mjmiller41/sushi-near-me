@@ -5,4 +5,5 @@ permalink: /michigan/commerce-township/
 stateAbbr: MI
 stateName: Michigan
 cityName: Commerce Township
+
 ---

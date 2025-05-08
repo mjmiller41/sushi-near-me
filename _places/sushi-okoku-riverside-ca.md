@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Okoku"
+title: Sushi Okoku
 permalink: /california/riverside/sushi-okoku.html
 stateAbbr: CA
 stateName: California
 cityName: Riverside
 seo:
-  name: "Sushi Okoku"
-  type: Restaurant
+  type: restaurant
   links: http://www.sushiokoku.com/
-description: "Strip-mall Japanese eatery serving sushi, noodles & curries, plus sake & beer, in a relaxed space. Sushi Okoku serves delicious sushi in Riverside, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ3z8gFTa33IARQYqYD5e4qQ0
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $30 &ndash; $50
 rating: '4.1'
 rating_count: 0
 website: http://www.sushiokoku.com/
+description: >-
+  Explore Sushi Okoku in Riverside, CA$$$Sushi Okoku in Riverside, CA, stands
+  out as a welcoming Japanese eatery nestled in a strip-mall setting, offering a
+  variety of fresh sushi rolls, flavorful noodles, and hearty curries that cater
+  to diverse tastes. This spot combines a relaxed atmosphere with an array of
+  beverages like sake and beer, making it ideal for casual dining experiences.
+  Patrons appreciate the accessible features, including wheelchair-friendly
+  parking and seating, which enhance its appeal for everyone. With moderate
+  pricing and options for groups or families, it's a go-to choice for those
+  seeking quality sushi options nearby. The menu's focus on fresh ingredients
+  and thoughtful presentation ensures a satisfying meal in a comfortable
+  environment.
+generative_summary: >-
+  Explore Sushi Okoku in Riverside, CA$$$Sushi Okoku in Riverside, CA, stands
+  out as a welcoming Japanese eatery nestled in a strip-mall setting, offering a
+  variety of fresh sushi rolls, flavorful noodles, and hearty curries that cater
+  to diverse tastes. This spot combines a relaxed atmosphere with an array of
+  beverages like sake and beer, making it ideal for casual dining experiences.
+  Patrons appreciate the accessible features, including wheelchair-friendly
+  parking and seating, which enhance its appeal for everyone. With moderate
+  pricing and options for groups or families, it's a go-to choice for those
+  seeking quality sushi options nearby. The menu's focus on fresh ingredients
+  and thoughtful presentation ensures a satisfying meal in a comfortable
+  environment.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ3z8gFTa33IARQYqYD5e4qQ0/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3akstTjBRRRAB
@@ -372,6 +395,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMzNU1PbG9nRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMzNU1PbG9nRRAB!2m1!1s0x80dcb73615203fdf:0xda9b8970f988a41
+review_summary: >-
+  Buzz Around This Local Sushi Favorite$$$Visitors to this sushi restaurant
+  often rave about the incredible value of the all-you-can-eat deals,
+  highlighting the generous portions and fresh flavors that make every bite
+  worthwhile. Folks appreciate the wide selection of rolls and appetizers, with
+  many noting how the friendly service and lively vibe add to the fun,
+  especially for celebrations. While it can get busy, the efficient ordering
+  process and reasonable prices keep the experience enjoyable and stress-free.
+  Overall, diners find it a solid pick for anyone craving top-notch sushi close
+  to home, with the added bonus of quick service that keeps the energy positive.
+  If you're on the hunt for reliable sushi spots in the area, this place
+  delivers a consistently satisfying meal without any major letdowns.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -404,8 +440,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Strip-mall Japanese eatery serving sushi, noodles & curries, plus sake & beer,
   in a relaxed space.
 

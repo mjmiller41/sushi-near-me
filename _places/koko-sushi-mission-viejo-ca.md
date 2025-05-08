@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Koko sushi"
+title: Koko sushi
 permalink: /california/mission-viejo/koko-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Mission Viejo
 seo:
-  name: "Koko sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Koko sushi serves delicious sushi in Mission Viejo, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJNcbJTTvv3IARvdADb14gYvM
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80dcef3b4dc9c635:0xf362205e6f03d0bd!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 0
+    - open:
+        day: 1
+        hour: 12
+        minute: 0
+      close:
+        day: 1
+        hour: 20
+        minute: 30
+    - open:
+        day: 2
+        hour: 12
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 30
+    - open:
+        day: 3
+        hour: 12
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 30
+    - open:
+        day: 4
+        hour: 12
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 30
+    - open:
+        day: 5
+        hour: 12
+        minute: 0
+      close:
+        day: 5
+        hour: 20
+        minute: 30
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 20
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 12:00 – 8:30 PM'
     - 'Tuesday: 12:00 – 8:30 PM'
     - 'Wednesday: 12:00 – 8:30 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 12:00 – 8:30 PM'
     - 'Saturday: 12:00 – 8:30 PM'
     - 'Sunday: 12:00 – 8:00 PM'
-  current:
-    - 'Monday: 12:00 – 8:30 PM'
-    - 'Tuesday: 12:00 – 8:30 PM'
-    - 'Wednesday: 12:00 – 8:30 PM'
-    - 'Thursday: 12:00 – 8:30 PM'
-    - 'Friday: 12:00 – 8:30 PM'
-    - 'Saturday: 12:00 – 8:30 PM'
-    - 'Sunday: 12:00 – 8:00 PM'
+  nextCloseTime: '2025-05-04T03:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +246,49 @@ phone: (949) 312-2260
 price_level: null
 price_range: $10 &ndash; $20
 rating: '4.5'
-rating_count: 0
+rating_count: 128
 website: null
+description: >-
+  Discover Koko Sushi in Mission Viejo, CA$$$Koko Sushi in Mission Viejo, CA,
+  stands out as a welcoming spot for enjoying fresh Japanese cuisine, featuring
+  a variety of sushi rolls and hearty ramen options. The restaurant's
+  comfortable atmosphere makes it an ideal choice for casual meals in a relaxed
+  setting, conveniently located within a bustling medical plaza. With its focus
+  on accessible dining, including wheelchair-friendly features, it's designed to
+  accommodate everyone looking for authentic flavors without the hassle. Patrons
+  can explore top-rated sushi selections that highlight quality ingredients and
+  creative presentations, making it a go-to option for those seeking Japanese
+  places near me. Operating with convenient hours from midday into the evening,
+  it provides a reliable spot for satisfying cravings for sushi restaurants in
+  the area.
+generative_summary: >-
+  Discover Koko Sushi in Mission Viejo, CA$$$Koko Sushi in Mission Viejo, CA,
+  stands out as a welcoming spot for enjoying fresh Japanese cuisine, featuring
+  a variety of sushi rolls and hearty ramen options. The restaurant's
+  comfortable atmosphere makes it an ideal choice for casual meals in a relaxed
+  setting, conveniently located within a bustling medical plaza. With its focus
+  on accessible dining, including wheelchair-friendly features, it's designed to
+  accommodate everyone looking for authentic flavors without the hassle. Patrons
+  can explore top-rated sushi selections that highlight quality ingredients and
+  creative presentations, making it a go-to option for those seeking Japanese
+  places near me. Operating with convenient hours from midday into the evening,
+  it provides a reliable spot for satisfying cravings for sushi restaurants in
+  the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Customer Feedback$$$Visitors to this sushi spot often praise the
+  fresh and flavorful dishes, noting that the rolls and ramen hit the spot for a
+  satisfying meal. Many appreciate the comfortable vibe and attentive service,
+  which add to the overall enjoyable experience without any major complaints.
+  While some mention portions could be more generous, the general consensus
+  leans toward it being a solid choice for anyone hunting for best sushi near
+  me, with consistent highlights on the quality and variety. Feedback frequently
+  points to the welcoming environment as a plus for casual outings or quick
+  bites, helping it maintain its high marks among local favorites. Overall, it's
+  clear that this place delivers a reliably positive dining experience, making
+  it worth trying for sushi enthusiasts in the neighborhood.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +314,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

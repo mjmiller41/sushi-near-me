@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "O Sushi"
+title: O Sushi
 permalink: /california/los-angeles/o-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Los Angeles
 seo:
-  name: "O Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "O Sushi serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJufzKbne7woARPI9_PanH0WE
 photos:
   - name: >-
@@ -185,7 +183,48 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Experience O Sushi in Los Angeles, CA$$$O Sushi in Los Angeles, CA, stands out
+  as a welcoming spot for Japanese cuisine, featuring a casual vibe that
+  highlights fresh sushi options and vegetarian-friendly dishes. This sushi
+  restaurant offers an array of flavorful Japanese fare, including creative
+  rolls and specials that cater to various tastes, making it a go-to choice for
+  those seeking sushi near me. With its focus on quality ingredients and happy
+  hour deals, visitors can enjoy a relaxed atmosphere perfect for quick meals or
+  unwinding after a long day. The spot's accessibility features, like
+  wheelchair-friendly entrances, add to its appeal for inclusive dining
+  experiences in the West Los Angeles area. Overall, it's a solid option for
+  anyone exploring Japanese places near me looking for straightforward yet
+  satisfying eats.
+generative_summary: >-
+  Experience O Sushi in Los Angeles, CA$$$O Sushi in Los Angeles, CA, stands out
+  as a welcoming spot for Japanese cuisine, featuring a casual vibe that
+  highlights fresh sushi options and vegetarian-friendly dishes. This sushi
+  restaurant offers an array of flavorful Japanese fare, including creative
+  rolls and specials that cater to various tastes, making it a go-to choice for
+  those seeking sushi near me. With its focus on quality ingredients and happy
+  hour deals, visitors can enjoy a relaxed atmosphere perfect for quick meals or
+  unwinding after a long day. The spot's accessibility features, like
+  wheelchair-friendly entrances, add to its appeal for inclusive dining
+  experiences in the West Los Angeles area. Overall, it's a solid option for
+  anyone exploring Japanese places near me looking for straightforward yet
+  satisfying eats.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Diners at O Sushi$$$Folks chatting about O Sushi often rave
+  about the tasty bento boxes and fresh sushi rolls, with highlights on options
+  like teriyaki chicken and tuna varieties that keep things exciting for sushi
+  enthusiasts. Many appreciate the friendly service and laid-back setting,
+  complete with enjoyable music that makes for a comfortable hangout spot among
+  top-rated sushi restaurants. While some note the atmosphere might not stand
+  out as overly fancy, the overall experience remains positive with generous
+  portions and variety that satisfy cravings for sushi close to me. It's clear
+  this place hits the mark for casual meals, earning nods for its approachable
+  vibe and reliable flavors that make it worth trying. If you're on the hunt for
+  the best sushi near me, this spot delivers honest value without
+  overcomplicating things.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +250,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "AMA Sushi"
+title: AMA Sushi
 permalink: /minnesota/minneapolis/ama-sushi.html
 stateAbbr: MN
 stateName: Minnesota
 cityName: Minneapolis
 seo:
-  name: "AMA Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://order.toasttab.com/online/ama-sushi-5033-france-ave-s
-description: "AMA Sushi serves delicious sushi in Minneapolis, Minnesota. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJfahPpyQn9ocR1TzXUWiK3M8
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x87f62724a74fa87d:0xcfdc8a6851d73cd5!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 45
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:00 PM'
     - 'Saturday: 12:00 – 9:00 PM'
     - 'Sunday: 12:00 – 8:45 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 9:00 PM'
-    - 'Saturday: 12:00 – 9:00 PM'
-    - 'Sunday: 12:00 – 8:45 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,10 +237,46 @@ secondary_opening_hours:
 phone: (952) 920-1547
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
-rating: '4.7'
-rating_count: 0
+rating: '4.8'
+rating_count: 467
 website: https://order.toasttab.com/online/ama-sushi-5033-france-ave-s
+description: >-
+  About AMA Sushi in Minneapolis, MN$$$Nestled in the heart of Minneapolis, MN,
+  AMA Sushi stands out as a welcoming spot for fresh Japanese cuisine, blending
+  traditional rolls with unique flavors in a casual setting. This restaurant
+  delights diners with its array of expertly crafted sushi options, complemented
+  by Tibetan-inspired dishes and a selection of wine, beer, and sake that
+  enhance the overall experience. Accessibility features like
+  wheelchair-friendly parking and seating make it an inclusive choice for
+  everyone seeking quality meals in a relaxed atmosphere. With moderate pricing
+  and convenient hours, it's a go-to destination for those exploring sushi
+  restaurants in the area, offering a taste of authentic Japanese flavors right
+  in your neighborhood.
+generative_summary: >-
+  About AMA Sushi in Minneapolis, MN$$$Nestled in the heart of Minneapolis, MN,
+  AMA Sushi stands out as a welcoming spot for fresh Japanese cuisine, blending
+  traditional rolls with unique flavors in a casual setting. This restaurant
+  delights diners with its array of expertly crafted sushi options, complemented
+  by Tibetan-inspired dishes and a selection of wine, beer, and sake that
+  enhance the overall experience. Accessibility features like
+  wheelchair-friendly parking and seating make it an inclusive choice for
+  everyone seeking quality meals in a relaxed atmosphere. With moderate pricing
+  and convenient hours, it's a go-to destination for those exploring sushi
+  restaurants in the area, offering a taste of authentic Japanese flavors right
+  in your neighborhood.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback on the Experience$$$Visitors to this sushi spot often rave
+  about the tasty variety of dishes, from creative rolls and fresh sashimi to
+  satisfying udon noodles, making it a solid pick for anyone craving Japanese
+  fare nearby. Many appreciate the thoughtful touches like complimentary miso
+  soup that add to the enjoyable meal without breaking the bank. Folks highlight
+  the friendly team and their attentive service, which help create a welcoming
+  vibe for casual outings or quick lunches. Overall, the great value and
+  appealing deals, especially during lunch, keep people coming back, painting a
+  picture of a reliable choice among top-rated sushi places in the region.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +302,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

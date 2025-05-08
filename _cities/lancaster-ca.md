@@ -5,4 +5,5 @@ permalink: /california/lancaster/
 stateAbbr: CA
 stateName: California
 cityName: Lancaster
+
 ---

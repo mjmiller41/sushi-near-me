@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Roppongi Sushi"
+title: Roppongi Sushi
 permalink: /california/livermore/roppongi-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Livermore
 seo:
-  name: "Roppongi Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.roppongisushilivermore.com/
-description: "Roppongi Sushi serves delicious sushi in Livermore, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJWQ34a5_nj4ARjEFBAOEc-U0
 photos:
   - name: >-
@@ -170,7 +168,89 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x808fe79f6bf80d59:0x4df91ce10041418c!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 45
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 15
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 15
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 15
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 15
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:30 AM – 2:15 PM, 4:30 – 9:00 PM'
     - 'Wednesday: 11:30 AM – 2:15 PM, 4:30 – 9:00 PM'
@@ -178,14 +258,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 2:15 PM, 4:30 – 10:00 PM'
     - 'Saturday: 12:00 – 10:00 PM'
     - 'Sunday: 12:00 – 8:45 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:30 AM – 2:15 PM, 4:30 – 9:00 PM'
-    - 'Wednesday: 11:30 AM – 2:15 PM, 4:30 – 9:00 PM'
-    - 'Thursday: 11:30 AM – 2:15 PM, 4:30 – 9:00 PM'
-    - 'Friday: 11:30 AM – 2:15 PM, 4:30 – 10:00 PM'
-    - 'Saturday: 12:00 – 10:00 PM'
-    - 'Sunday: 12:00 – 8:45 PM'
+  nextCloseTime: '2025-05-04T05:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +270,231 @@ phone: (925) 583-5101
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.3'
-rating_count: 0
+rating_count: 358
 website: https://www.roppongisushilivermore.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Roppongi Sushi in Livermore, CA$$$Roppongi Sushi in Livermore, CA,
+  stands out as a welcoming sushi restaurant serving creative rolls and
+  traditional Japanese dishes in a relaxed setting. This spot highlights fresh
+  ingredients and innovative flavors, paired with locally crafted wines that
+  enhance the dining experience. With options like outdoor seating and full
+  accessibility features, it's designed for comfortable meals whether you're
+  dining in or grabbing takeout. Patrons searching for top-rated sushi near me
+  will appreciate the generous portions and variety, making it a go-to choice
+  for casual Japanese cuisine in the area.
+generative_summary: >-
+  Discover Roppongi Sushi in Livermore, CA$$$Roppongi Sushi in Livermore, CA,
+  stands out as a welcoming sushi restaurant serving creative rolls and
+  traditional Japanese dishes in a relaxed setting. This spot highlights fresh
+  ingredients and innovative flavors, paired with locally crafted wines that
+  enhance the dining experience. With options like outdoor seating and full
+  accessibility features, it's designed for comfortable meals whether you're
+  dining in or grabbing takeout. Patrons searching for top-rated sushi near me
+  will appreciate the generous portions and variety, making it a go-to choice
+  for casual Japanese cuisine in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJWQ34a5_nj4ARjEFBAOEc-U0/reviews/ChZDSUhNMG9nS0VJQ0FnSUR6azRfQVVBEAE
+    relativePublishTimeDescription: 10 months ago
+    rating: 5
+    text:
+      text: >-
+        I was here during the weekend to have dinner with my girlfriends. It was
+        all of a sudden cold weather and we were seated outside but with the
+        heater on. The service was great, our order was taken and in no time the
+        food was on the table. We ordered Firecracker and one more Sushi,
+        tempura along with Miso soup and hot sake. The food was so delicious and
+        the ambience was great. It was a great night, We all definitely enjoyed
+        it.
+      languageCode: en
+    originalText:
+      text: >-
+        I was here during the weekend to have dinner with my girlfriends. It was
+        all of a sudden cold weather and we were seated outside but with the
+        heater on. The service was great, our order was taken and in no time the
+        food was on the table. We ordered Firecracker and one more Sushi,
+        tempura along with Miso soup and hot sake. The food was so delicious and
+        the ambience was great. It was a great night, We all definitely enjoyed
+        it.
+      languageCode: en
+    authorAttribution:
+      displayName: Usha Dawn
+      uri: https://www.google.com/maps/contrib/115731226948061579376/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWwB9smga_kqUKwzhh1dUsXF-cjnPgfV3SwyoYKXQtfx3zk0PMxmg=s128-c0x00000000-cc-rp-mo-ba7
+    publishTime: '2024-06-12T05:38:04.352553Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR6azRfQVVBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR6azRfQVVBEAE!2m1!1s0x808fe79f6bf80d59:0x4df91ce10041418c
+  - name: >-
+      places/ChIJWQ34a5_nj4ARjEFBAOEc-U0/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJaXZmNE1nEAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        This has been our go to date night place. Always great experience with
+        staff and the food is always awesome. Love sitting at the bar and
+        watching the sushi chefs work their magic.
+      languageCode: en
+    originalText:
+      text: >-
+        This has been our go to date night place. Always great experience with
+        staff and the food is always awesome. Love sitting at the bar and
+        watching the sushi chefs work their magic.
+      languageCode: en
+    authorAttribution:
+      displayName: derrick buffi
+      uri: https://www.google.com/maps/contrib/114464897300129304145/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJHLFPtd4_wq_YP3wurINj2P8HEmPFj-ixNsY0ipZYL2jA3aA=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-01T01:21:38.472738Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNJaXZmNE1nEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNJaXZmNE1nEAE!2m1!1s0x808fe79f6bf80d59:0x4df91ce10041418c
+  - name: >-
+      places/ChIJWQ34a5_nj4ARjEFBAOEc-U0/reviews/ChZDSUhNMG9nS0VJQ0FnSUR5cnN2OFhnEAE
+    relativePublishTimeDescription: 4 years ago
+    rating: 5
+    text:
+      text: >-
+        Very lovely and accommodating staff! Tempura is highly recommended -
+        generous portions and they all came warm and newly fried. Ninja Hot and
+        Shrimp Mango rolls are also great.
+      languageCode: en
+    originalText:
+      text: >-
+        Very lovely and accommodating staff! Tempura is highly recommended -
+        generous portions and they all came warm and newly fried. Ninja Hot and
+        Shrimp Mango rolls are also great.
+      languageCode: en
+    authorAttribution:
+      displayName: Samuel David Valientes
+      uri: https://www.google.com/maps/contrib/111158622368003989829/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUBBZ-b0Ymhfr20MEHC_OYZP6pMpGpvgDhI9iTOn3m9SpgLqwY=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2021-03-08T04:40:15.701576Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR5cnN2OFhnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR5cnN2OFhnEAE!2m1!1s0x808fe79f6bf80d59:0x4df91ce10041418c
+  - name: >-
+      places/ChIJWQ34a5_nj4ARjEFBAOEc-U0/reviews/ChZDSUhNMG9nS0VJQ0FnTUNnbkpmUkFnEAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 1
+    text:
+      text: >-
+        I was here for a pick up, when i first got here i waited to speak to
+        someone to check if my order was ready. A girl at the front with long
+        pig tail and pink jeans walked back and forth but never said a word to
+        me. I just waited assuming she would eventually check to see what I
+        needed. Ten minutes go by and nothing.15 minutes go by and someone bring
+        my order up but never says anything just leaves it on a table. Very
+        poorly trained staff. Horrible experience. Don’t recommend
+      languageCode: en
+    originalText:
+      text: >-
+        I was here for a pick up, when i first got here i waited to speak to
+        someone to check if my order was ready. A girl at the front with long
+        pig tail and pink jeans walked back and forth but never said a word to
+        me. I just waited assuming she would eventually check to see what I
+        needed. Ten minutes go by and nothing.15 minutes go by and someone bring
+        my order up but never says anything just leaves it on a table. Very
+        poorly trained staff. Horrible experience. Don’t recommend
+      languageCode: en
+    authorAttribution:
+      displayName: I. S.
+      uri: https://www.google.com/maps/contrib/105672848387094656533/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocL-ftB7R2VJwRD79jytyhgcWUMD3L6Z5xqfBRthvkBV_55Y0g=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-02-15T02:57:52.873422Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNnbkpmUkFnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNnbkpmUkFnEAE!2m1!1s0x808fe79f6bf80d59:0x4df91ce10041418c
+  - name: >-
+      places/ChIJWQ34a5_nj4ARjEFBAOEc-U0/reviews/ChZDSUhNMG9nS0VJQ0FnSUQwN0kyOWVnEAE
+    relativePublishTimeDescription: 5 years ago
+    rating: 4
+    text:
+      text: >-
+        Lunch time is good and yummy.
+
+        No more customers have dinner in,pick up (to go),looks like busy at that
+        time.
+
+        Only one waitress was serving and ordered, no tea service if you would
+        like to drink,she was so busy.
+      languageCode: en
+    originalText:
+      text: >-
+        Lunch time is good and yummy.
+
+        No more customers have dinner in,pick up (to go),looks like busy at that
+        time.
+
+        Only one waitress was serving and ordered, no tea service if you would
+        like to drink,she was so busy.
+      languageCode: en
+    authorAttribution:
+      displayName: Sussan Ryan
+      uri: https://www.google.com/maps/contrib/100963441477382438288/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjU6sIJfAtqMLmAwyJRaw8KFPYCMqc-2RPhz-L7VX-gNgMecv-1F=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2019-10-26T17:57:51.369994Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQwN0kyOWVnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQwN0kyOWVnEAE!2m1!1s0x808fe79f6bf80d59:0x4df91ce10041418c
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this sushi place often praise the
+  delicious rolls and friendly service, noting that the food arrives quickly and
+  tastes fantastic, ideal for date nights or group outings. Many enjoy the
+  lively atmosphere and the fun of watching chefs prepare fresh sushi right in
+  front of them, adding to the overall enjoyment. While most feedback highlights
+  the warm ambiance and satisfying meals, a few mentions point to occasional
+  wait times during busy periods, though these don't overshadow the positives.
+  Overall, it's a solid pick for anyone craving quality sushi restaurants near
+  Livermore, with the majority of experiences leaving folks feeling satisfied
+  and eager to return.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
 menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: false
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Creative rolls, familiar Japanese dishes & locally crafted wine in informal
+  surroundings.
 
 ---

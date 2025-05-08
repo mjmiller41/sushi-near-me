@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Shima Sushi"
+title: Shima Sushi
 permalink: /new-york/new-york/shima-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "Shima Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.shimasushionline.com/
-description: "Sushi, noodles & other traditional Japanese delicacies plated in a chill, low-lit setting. Shima Sushi serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ9VmvaVNZwokRTwIQfnrX5l4
 photos:
   - name: >-
@@ -183,6 +181,33 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 0
 website: http://www.shimasushionline.com/
+description: >-
+  Experience Shima Sushi in New York, NY$$$Shima Sushi in New York, NY, offers a
+  relaxed and inviting atmosphere perfect for enjoying fresh Japanese cuisine in
+  a low-key setting. This spot stands out for its well-crafted sushi rolls,
+  complemented by flavorful options like teriyaki and dumplings, making it a
+  go-to choice for those seeking authentic tastes in a casual environment. The
+  moderate pricing adds to its appeal, providing great value without
+  compromising on quality or variety. Additionally, features like
+  wheelchair-accessible seating ensure a welcoming experience for many diners,
+  while the availability of beer and wine enhances the overall dining vibe.
+  Whether you're looking for sushi restaurants in the heart of the city, Shima
+  Sushi delivers a blend of tradition and simplicity that keeps locals coming
+  back.
+generative_summary: >-
+  Experience Shima Sushi in New York, NY$$$Shima Sushi in New York, NY, offers a
+  relaxed and inviting atmosphere perfect for enjoying fresh Japanese cuisine in
+  a low-key setting. This spot stands out for its well-crafted sushi rolls,
+  complemented by flavorful options like teriyaki and dumplings, making it a
+  go-to choice for those seeking authentic tastes in a casual environment. The
+  moderate pricing adds to its appeal, providing great value without
+  compromising on quality or variety. Additionally, features like
+  wheelchair-accessible seating ensure a welcoming experience for many diners,
+  while the availability of beer and wine enhances the overall dining vibe.
+  Whether you're looking for sushi restaurants in the heart of the city, Shima
+  Sushi delivers a blend of tradition and simplicity that keeps locals coming
+  back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ9VmvaVNZwokRTwIQfnrX5l4/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJOU8tcFdBEAE
@@ -318,6 +343,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURiNmVfRmxBRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURiNmVfRmxBRRAB!2m1!1s0x89c2595369af59f5:0x5ee6d77a7e10024f
+review_summary: >-
+  Summary of Customer Feedback$$$Feedback from visitors highlights Shima Sushi
+  as a reliable spot for solid sushi and friendly service, with many
+  appreciating the tasty rolls and reasonable prices that make it ideal for both
+  dine-in and takeout. While most folks enjoy the relaxing atmosphere and
+  flavorful dishes like miso and dumplings, a few mentions note occasional
+  inconsistencies in freshness, though these seem to be exceptions. Overall,
+  it's praised as a great pick for casual meals or groups, earning high marks
+  for its welcoming vibe and quick service that keeps the experience enjoyable.
+  If you're searching for top-rated sushi places nearby, this location often
+  comes through with satisfying options that balance affordability and quality.
+  In short, it's a neighborhood favorite that delivers more hits than misses,
+  encouraging repeat visits for sushi enthusiasts.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options:
   acceptsCreditCards: true
@@ -347,8 +386,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Sushi, noodles & other traditional Japanese delicacies plated in a chill,
   low-lit setting.
 

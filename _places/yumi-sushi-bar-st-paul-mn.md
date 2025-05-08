@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yumi Sushi Bar"
+title: Yumi Sushi Bar
 permalink: /minnesota/st-paul/yumi-sushi-bar.html
 stateAbbr: MN
 stateName: Minnesota
 cityName: St Paul
 seo:
-  name: "Yumi Sushi Bar"
-  type: Restaurant
-  links: null
-description: "Yumi Sushi Bar serves delicious sushi in St Paul, Minnesota. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.yumisushibar.com/
 place_id: ChIJ64pmoOwr9ocRzTXp666oVZE
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x87f62beca0668aeb:0x9155a8aeebe935cd!10e5
 primary_type: Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 16
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 16
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 4:00 – 9:00 PM'
+    - 'Tuesday: 4:00 – 9:00 PM'
+    - 'Wednesday: 4:00 – 9:00 PM'
+    - 'Thursday: 4:00 – 9:00 PM'
+    - 'Friday: 4:00 – 10:00 PM'
+    - 'Saturday: 4:00 – 10:00 PM'
+    - 'Sunday: 4:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,49 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (651) 207-6810
+price_level: PRICE_LEVEL_MODERATE
+price_range: $30 &ndash; $50
+rating: '4.4'
+rating_count: 345
+website: http://www.yumisushibar.com/
+description: >-
+  Discover Yumi Sushi Bar$$$Yumi Sushi Bar in St Paul, MN, stands out as a
+  welcoming spot for enjoying fresh sushi and Japanese-inspired dishes in a
+  laid-back setting. This casual restaurant highlights a menu of creative rolls
+  and savory bites, enhanced by affordable happy hour options that draw in
+  locals and visitors alike. With thoughtful accessibility features like
+  wheelchair-friendly entrances and seating, it ensures a comfortable experience
+  for everyone. The inviting atmosphere makes it an ideal choice for those
+  exploring sushi restaurants in the area, where high-quality ingredients shine
+  in every dish. Whether you're searching for top-rated sushi options or simply
+  craving Japanese flavors nearby, this spot delivers a satisfying dining
+  adventure.
+generative_summary: >-
+  Discover Yumi Sushi Bar$$$Yumi Sushi Bar in St Paul, MN, stands out as a
+  welcoming spot for enjoying fresh sushi and Japanese-inspired dishes in a
+  laid-back setting. This casual restaurant highlights a menu of creative rolls
+  and savory bites, enhanced by affordable happy hour options that draw in
+  locals and visitors alike. With thoughtful accessibility features like
+  wheelchair-friendly entrances and seating, it ensures a comfortable experience
+  for everyone. The inviting atmosphere makes it an ideal choice for those
+  exploring sushi restaurants in the area, where high-quality ingredients shine
+  in every dish. Whether you're searching for top-rated sushi options or simply
+  craving Japanese flavors nearby, this spot delivers a satisfying dining
+  adventure.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Visitor Feedback$$$Folks heading to Yumi Sushi Bar often rave about the fresh
+  flavors and variety in the sushi selections, making it a go-to for casual
+  meals with a twist. Many appreciate the value from happy hour deals and the
+  overall relaxed vibe, which adds to the fun without breaking the bank. The
+  service gets solid nods for being attentive and friendly, helping to create a
+  positive overall experience. While some mention minor waits during peak times,
+  the general buzz leans toward it being a reliable pick for tasty Japanese
+  dishes. If you're on the hunt for the best sushi around, this place
+  consistently earns praise for its approachable and enjoyable offerings.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +310,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

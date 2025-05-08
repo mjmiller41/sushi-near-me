@@ -5,4 +5,5 @@ permalink: /nebraska/hastings/
 stateAbbr: NE
 stateName: Nebraska
 cityName: Hastings
+
 ---

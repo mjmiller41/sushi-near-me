@@ -5,4 +5,5 @@ permalink: /maryland/owings-mills/
 stateAbbr: MD
 stateName: Maryland
 cityName: Owings Mills
+
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "MISO Japanese sushi & bar"
+title: MISO Japanese sushi & bar
 permalink: /alaska/anchorage/miso-japanese-sushi-bar.html
 stateAbbr: AK
 stateName: Alaska
 cityName: Anchorage
 seo:
-  name: "MISO Japanese sushi & bar"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "MISO Japanese sushi & bar serves delicious sushi in Anchorage, Alaska. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJzTQNrw6ZyFYR7Cybbn8QQGk
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x56c8990eaf0d34cd:0x6940107f6e9b2cec!10e5
 primary_type: Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 15
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 10:00 PM'
     - 'Tuesday: 11:00 AM – 10:00 PM'
     - 'Wednesday: 11:00 AM – 10:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 11:00 PM'
     - 'Saturday: 11:00 AM – 11:00 PM'
     - 'Sunday: 3:00 – 10:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 10:00 PM'
-    - 'Tuesday: 11:00 AM – 10:00 PM'
-    - 'Wednesday: 11:00 AM – 10:00 PM'
-    - 'Thursday: 11:00 AM – 10:00 PM'
-    - 'Friday: 11:00 AM – 11:00 PM'
-    - 'Saturday: 11:00 AM – 11:00 PM'
-    - 'Sunday: 3:00 – 10:00 PM'
+  nextCloseTime: '2025-05-04T07:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +246,53 @@ phone: (907) 344-0980
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.4'
-rating_count: 0
+rating_count: 463
 website: null
+description: >-
+  Discover MISO Japanese Sushi & Bar in Anchorage, AK$$$MISO Japanese Sushi &
+  Bar in Anchorage, AK, stands out as a welcoming spot for those seeking
+  authentic Japanese cuisine, featuring an array of fresh sushi rolls and
+  flavorful dishes that capture the essence of traditional flavors. This sushi
+  restaurant near you offers a relaxed atmosphere complemented by a selection of
+  beverages like beer, wine, and sake, making it ideal for casual dinners or
+  gatherings. Accessibility is a key highlight, with features such as
+  wheelchair-accessible parking, entrances, restrooms, and seating that ensure
+  everyone can enjoy the experience comfortably. Open from late morning through
+  the evening on most days, it's a convenient choice for locals hunting for
+  top-rated sushi places near me, especially with its operational hours
+  extending into the night on weekends. The blend of quality ingredients and
+  thoughtful service creates a memorable dining option in the heart of the city.
+generative_summary: >-
+  Discover MISO Japanese Sushi & Bar in Anchorage, AK$$$MISO Japanese Sushi &
+  Bar in Anchorage, AK, stands out as a welcoming spot for those seeking
+  authentic Japanese cuisine, featuring an array of fresh sushi rolls and
+  flavorful dishes that capture the essence of traditional flavors. This sushi
+  restaurant near you offers a relaxed atmosphere complemented by a selection of
+  beverages like beer, wine, and sake, making it ideal for casual dinners or
+  gatherings. Accessibility is a key highlight, with features such as
+  wheelchair-accessible parking, entrances, restrooms, and seating that ensure
+  everyone can enjoy the experience comfortably. Open from late morning through
+  the evening on most days, it's a convenient choice for locals hunting for
+  top-rated sushi places near me, especially with its operational hours
+  extending into the night on weekends. The blend of quality ingredients and
+  thoughtful service creates a memorable dining option in the heart of the city.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Love About MISO Japanese Sushi & Bar$$$Folks checking out MISO
+  Japanese Sushi & Bar often rave about the fresh, well-prepared sushi that hits
+  the spot for anyone craving Japanese eats, with many highlighting the variety
+  and taste as standout features. It's clear from the feedback that the
+  atmosphere feels inviting and the service keeps things smooth and enjoyable,
+  helping to make meals feel special without any fuss. While some mention
+  portions could vary, the overall vibe leans positive, with diners appreciating
+  the solid value for a moderate-priced spot that's easy to recommend for groups
+  or solo visits. Overall, the high marks suggest it's a reliable go-to for
+  sushi enthusiasts in the area, blending tasty options with a welcoming setting
+  that encourages repeat trips. If you're on the hunt for sushi restaurants near
+  me, this place seems to deliver a consistently good experience that leaves
+  people satisfied and coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +318,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

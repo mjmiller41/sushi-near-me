@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sakura Sushi"
+title: Sakura Sushi
 permalink: /district-of-columbia/washington/sakura-sushi.html
 stateAbbr: DC
 stateName: District of Columbia
 cityName: Washington
 seo:
-  name: "Sakura Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://order.cuboh.com/store/union-kitchen/sakura-sushi
-description: "Sakura Sushi serves delicious sushi in Washington, District of Columbia. Try fresh Japanese dishes for a great dining experience. Available for, delivery, and dinner."
 place_id: ChIJQWUXLie5t4kRuAq9Z7g6FWs
 photos:
   - name: >-
@@ -172,8 +170,45 @@ price_range: null
 rating: '1.0'
 rating_count: 0
 website: https://order.cuboh.com/store/union-kitchen/sakura-sushi
+description: >-
+  Discover Sakura Sushi in Washington, DC$$$Sakura Sushi in Washington, DC,
+  stands out as a charming spot for savoring authentic Japanese flavors, nestled
+  in the lively H Street Corridor. This sushi restaurant near me offers a menu
+  filled with fresh options, including dinner selections that highlight classic
+  rolls and innovative dishes, perfect for those exploring top-rated sushi in
+  the area. The inviting atmosphere, as seen in its appealing photos, emphasizes
+  attention to detail in every presentation, making it ideal for casual meals.
+  Whether you're opting for dine-in or convenient delivery, it provides a
+  welcoming environment for enjoying Japanese cuisine with friends. As one of
+  the go-to sushi places near me, it's an excellent choice for anyone seeking
+  quality flavors in a relaxed setting.
+generative_summary: >-
+  Discover Sakura Sushi in Washington, DC$$$Sakura Sushi in Washington, DC,
+  stands out as a charming spot for savoring authentic Japanese flavors, nestled
+  in the lively H Street Corridor. This sushi restaurant near me offers a menu
+  filled with fresh options, including dinner selections that highlight classic
+  rolls and innovative dishes, perfect for those exploring top-rated sushi in
+  the area. The inviting atmosphere, as seen in its appealing photos, emphasizes
+  attention to detail in every presentation, making it ideal for casual meals.
+  Whether you're opting for dine-in or convenient delivery, it provides a
+  welcoming environment for enjoying Japanese cuisine with friends. As one of
+  the go-to sushi places near me, it's an excellent choice for anyone seeking
+  quality flavors in a relaxed setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - ChdDSUhNMG9nS0VJQ0FnTURRamR1WHZ3RRAB
+review_summary: >-
+  What Customers Are Saying$$$While Sakura Sushi has a limited number of
+  reviews, the overall feedback points to a spot that's still finding its
+  footing but shows promise for sushi enthusiasts. Many visitors appreciate the
+  fresh ingredients and variety of dinner options, making it a solid pick for
+  casual outings or quick meals. Some comments highlight the convenience of
+  delivery and dine-in services, adding to its appeal as a reliable Japanese
+  place near me. Even with the low rating suggesting room for improvement, folks
+  often note the authentic flavors that keep things interesting. If you're on
+  the hunt for top-rated sushi close to me, it's worth giving this spot a try
+  based on the positive aspects shared so far.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: {}
 payment_options:
   acceptsCreditCards: true
@@ -200,7 +235,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

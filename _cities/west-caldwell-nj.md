@@ -5,4 +5,5 @@ permalink: /new-jersey/west-caldwell/
 stateAbbr: NJ
 stateName: New Jersey
 cityName: West Caldwell
+
 ---

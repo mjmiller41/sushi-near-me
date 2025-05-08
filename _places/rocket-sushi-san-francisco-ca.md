@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Rocket Sushi"
+title: Rocket Sushi
 permalink: /california/san-francisco/rocket-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
 seo:
-  name: "Rocket Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.rocketsushisf.com/
-description: "Contemporary Japanese joint with a sushi train & patio seating, also preparing noodle & rice dishes. Rocket Sushi serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJhecuAliBhYARyeSnN9PLdBE
 photos:
   - name: >-
@@ -184,6 +182,29 @@ price_range: $30 &ndash; $50
 rating: '4.5'
 rating_count: 0
 website: http://www.rocketsushisf.com/
+description: >-
+  Discover Rocket Sushi in San Francisco$$$Rocket Sushi in San Francisco, CA,
+  stands out as a modern Japanese restaurant blending innovative technology with
+  authentic flavors, making it a go-to spot for sushi enthusiasts in the area.
+  This casual eatery features a unique delivery system where dishes arrive via a
+  fun rocket mechanism, enhancing the dining experience while offering fresh
+  sushi and other Japanese favorites like noodle and rice dishes. With options
+  for outdoor seating and accessibility features, it's designed to accommodate
+  various preferences, ensuring a comfortable visit for everyone. The menu
+  highlights generous portions of high-quality ingredients, appealing to those
+  searching for top-rated sushi options in a vibrant urban setting.
+generative_summary: >-
+  Discover Rocket Sushi in San Francisco$$$Rocket Sushi in San Francisco, CA,
+  stands out as a modern Japanese restaurant blending innovative technology with
+  authentic flavors, making it a go-to spot for sushi enthusiasts in the area.
+  This casual eatery features a unique delivery system where dishes arrive via a
+  fun rocket mechanism, enhancing the dining experience while offering fresh
+  sushi and other Japanese favorites like noodle and rice dishes. With options
+  for outdoor seating and accessibility features, it's designed to accommodate
+  various preferences, ensuring a comfortable visit for everyone. The menu
+  highlights generous portions of high-quality ingredients, appealing to those
+  searching for top-rated sushi options in a vibrant urban setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJhecuAliBhYARyeSnN9PLdBE/reviews/ChdDSUhNMG9nS0VJQ0FnSUNmdXFTV3lnRRAB
@@ -357,6 +378,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURYbklLNllREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURYbklLNllREAE!2m1!1s0x80858158022ee785:0x1174cbd337a7e4c9
+review_summary: >-
+  What Customers Are Buzzing About$$$Folks rave about the fresh and generous
+  sushi portions at this Japanese spot, often noting how the innovative rocket
+  delivery adds a playful twist to mealtime that keeps things exciting. Many
+  appreciate the attentive service and easy tablet ordering, which make for a
+  smooth and enjoyable visit, especially when sharing dishes with friends or
+  family. While some mention that certain appetizers can be a bit greasy, the
+  overall consensus is that the quality of the fish and creative presentation
+  make it worth trying. It's frequently praised as one of the best sushi
+  experiences around, with diners highlighting the variety that caters to
+  different tastes, from vegan rolls to hearty nigiri. If you're on the hunt for
+  reliable sushi restaurants nearby, this place delivers a fun and satisfying
+  meal that lives up to the hype.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: false
   freeStreetParking: true
@@ -389,8 +424,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Contemporary Japanese joint with a sushi train & patio seating, also preparing
   noodle & rice dishes.
 

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kodiak Hana Restaurant"
+title: Kodiak Hana Restaurant
 permalink: /alaska/kodiak/kodiak-hana-restaurant.html
 stateAbbr: AK
 stateName: Alaska
 cityName: Kodiak
 seo:
-  name: "Kodiak Hana Restaurant"
-  type: Restaurant
+  type: restaurant
   links: http://kodiakhana.com/
-description: "Kodiak Hana Restaurant serves delicious sushi in Kodiak, Alaska. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJO0YN1WfE6lYRYWt_L_KdMCw
 photos:
   - name: >-
@@ -170,7 +168,97 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x56eac467d50d463b:0x2c309df22f7f6b61!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 14
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
     - 'Wednesday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
@@ -178,14 +266,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 2:00 PM, 5:00 – 10:00 PM'
     - 'Saturday: 11:30 AM – 2:00 PM, 5:00 – 10:00 PM'
     - 'Sunday: 5:00 – 9:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
-    - 'Wednesday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
-    - 'Thursday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
-    - 'Friday: 11:30 AM – 2:00 PM, 5:00 – 10:00 PM'
-    - 'Saturday: 11:30 AM – 2:00 PM, 5:00 – 10:00 PM'
-    - 'Sunday: 5:00 – 9:00 PM'
+  nextOpenTime: '2025-05-04T01:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +278,246 @@ phone: (907) 481-1088
 price_level: PRICE_LEVEL_EXPENSIVE
 price_range: $20 &ndash; $30
 rating: '4.5'
-rating_count: 0
+rating_count: 417
 website: http://kodiakhana.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Kodiak Hana Restaurant$$$Kodiak Hana Restaurant in Kodiak, AK, stands
+  out as a premier Japanese eatery with a scenic waterfront setting that
+  enhances the dining experience. This spot specializes in fresh sushi and other
+  Japanese favorites, served in an upscale atmosphere that combines elegance
+  with coastal charm, making it a go-to choice for sushi enthusiasts exploring
+  local options. Accessibility features like wheelchair-friendly entrances and
+  parking add to its appeal, ensuring everyone can enjoy the flavorful dishes
+  and relaxed vibe. The menu highlights high-quality ingredients, perfect for
+  those seeking top-rated sushi near me, with options that cater to various
+  tastes in a welcoming environment. Operating hours accommodate both lunch and
+  dinner crowds, providing a convenient spot for authentic Japanese cuisine in
+  the area.
+generative_summary: >-
+  Discover Kodiak Hana Restaurant$$$Kodiak Hana Restaurant in Kodiak, AK, stands
+  out as a premier Japanese eatery with a scenic waterfront setting that
+  enhances the dining experience. This spot specializes in fresh sushi and other
+  Japanese favorites, served in an upscale atmosphere that combines elegance
+  with coastal charm, making it a go-to choice for sushi enthusiasts exploring
+  local options. Accessibility features like wheelchair-friendly entrances and
+  parking add to its appeal, ensuring everyone can enjoy the flavorful dishes
+  and relaxed vibe. The menu highlights high-quality ingredients, perfect for
+  those seeking top-rated sushi near me, with options that cater to various
+  tastes in a welcoming environment. Operating hours accommodate both lunch and
+  dinner crowds, providing a convenient spot for authentic Japanese cuisine in
+  the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJO0YN1WfE6lYRYWt_L_KdMCw/reviews/ChZDSUhNMG9nS0VJQ0FnSURibWN2N0ZnEAE
+    relativePublishTimeDescription: 8 months ago
+    rating: 3
+    text:
+      text: >-
+        Picturesque riverfront setting, with waterfront warehouse kinda vibe.
+        Friendly, but a bit inattentive service. Decent food, neither here nor
+        there. The salmon was probably the most ordinary salmon I had in Alaska,
+        which is the home of salmon!
+      languageCode: en
+    originalText:
+      text: >-
+        Picturesque riverfront setting, with waterfront warehouse kinda vibe.
+        Friendly, but a bit inattentive service. Decent food, neither here nor
+        there. The salmon was probably the most ordinary salmon I had in Alaska,
+        which is the home of salmon!
+      languageCode: en
+    authorAttribution:
+      displayName: 2flows2
+      uri: https://www.google.com/maps/contrib/111567456975738071836/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXAUCAFRKjeotx2RRYtGMeOVCCSadi3sIpIZ9z5kxyayTFEfLOa=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-08-07T04:07:35.624798Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURibWN2N0ZnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURibWN2N0ZnEAE!2m1!1s0x56eac467d50d463b:0x2c309df22f7f6b61
+  - name: >-
+      places/ChIJO0YN1WfE6lYRYWt_L_KdMCw/reviews/ChRDSUhNMG9nS0VJQ0FnSURMdXBOLRAB
+    relativePublishTimeDescription: 10 months ago
+    rating: 5
+    text:
+      text: >-
+        Best Japanese/sushi/Asian restaurant in Kodiak!  Excellent selection and
+        choices, beer, wine, sake and presentation.  We ordered the Sushi B
+        plate and salmon salad and were very satisfied - tasted super fresh. 
+        Would recommend any of the sushi/nigiri options.
+
+        As a bonus, we sat on the water side and were able to watch a seal and
+        fin whale swimming in the inlet!
+      languageCode: en
+    originalText:
+      text: >-
+        Best Japanese/sushi/Asian restaurant in Kodiak!  Excellent selection and
+        choices, beer, wine, sake and presentation.  We ordered the Sushi B
+        plate and salmon salad and were very satisfied - tasted super fresh. 
+        Would recommend any of the sushi/nigiri options.
+
+        As a bonus, we sat on the water side and were able to watch a seal and
+        fin whale swimming in the inlet!
+      languageCode: en
+    authorAttribution:
+      displayName: marc garceau
+      uri: https://www.google.com/maps/contrib/117172643477159350983/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUzmEhEPL54sD0RqXahK8-cIGUtuRNW7NGJ_tpJYxifSgQDwWk7=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-06-27T06:04:13.452020Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChRDSUhNMG9nS0VJQ0FnSURMdXBOLRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChRDSUhNMG9nS0VJQ0FnSURMdXBOLRAB!2m1!1s0x56eac467d50d463b:0x2c309df22f7f6b61
+  - name: >-
+      places/ChIJO0YN1WfE6lYRYWt_L_KdMCw/reviews/ChZDSUhNMG9nS0VJQ0FnSUNMalktSFNnEAE
+    relativePublishTimeDescription: 10 months ago
+    rating: 5
+    text:
+      text: >-
+        One of the best food we’ve ever had! This place is definitely a must in
+        Kodiak - very yummy food and amazing service. We came here for two
+        times, it’s amazing!!!
+      languageCode: en
+    originalText:
+      text: >-
+        One of the best food we’ve ever had! This place is definitely a must in
+        Kodiak - very yummy food and amazing service. We came here for two
+        times, it’s amazing!!!
+      languageCode: en
+    authorAttribution:
+      displayName: Alaa Kutkut
+      uri: https://www.google.com/maps/contrib/101968920159005706664/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVsDMZBD7IjBpVuMB6RJZv5z_U32k2O0PfdSRXYJoh8Syv373_pRA=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-06-22T05:10:14.143955Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNMalktSFNnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNMalktSFNnEAE!2m1!1s0x56eac467d50d463b:0x2c309df22f7f6b61
+  - name: >-
+      places/ChIJO0YN1WfE6lYRYWt_L_KdMCw/reviews/ChdDSUhNMG9nS0VJQ0FnSURxbWNpcXpBRRAB
+    relativePublishTimeDescription: 3 years ago
+    rating: 5
+    text:
+      text: >-
+        High-quality sushi served in a comfortable environment with friendly
+        staff. Clearly understaffed right now — I didn’t need to see the
+        help-wanted sign to know that — but still worth a visit.
+
+
+        Reservations are suggested, but they managed to accommodate our group of
+        5 on a Monday night with no wait. You won’t have as much luck on a busy
+        Friday or weekend day.
+
+
+        Expect to spend a bit more — for five people with entrees and drinks, we
+        paid $190. Dinner for two might run you $50.
+      languageCode: en
+    originalText:
+      text: >-
+        High-quality sushi served in a comfortable environment with friendly
+        staff. Clearly understaffed right now — I didn’t need to see the
+        help-wanted sign to know that — but still worth a visit.
+
+
+        Reservations are suggested, but they managed to accommodate our group of
+        5 on a Monday night with no wait. You won’t have as much luck on a busy
+        Friday or weekend day.
+
+
+        Expect to spend a bit more — for five people with entrees and drinks, we
+        paid $190. Dinner for two might run you $50.
+      languageCode: en
+    authorAttribution:
+      displayName: James Cascade
+      uri: https://www.google.com/maps/contrib/104636087243413913502/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVvqoARV2oHZvYNM26Rdv5f4ODpM2LsmUTQrJh-ZUf5iFRCgUh2=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2021-07-13T07:04:11.717480Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURxbWNpcXpBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURxbWNpcXpBRRAB!2m1!1s0x56eac467d50d463b:0x2c309df22f7f6b61
+  - name: >-
+      places/ChIJO0YN1WfE6lYRYWt_L_KdMCw/reviews/ChZDSUhNMG9nS0VJQ0FnTUNnOXVYM0d3EAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        This place rocks. They have fantastic beef yakisoba. I've enjoyed this
+        fine establishment's service for the last four years, and they have
+        never let me down. I just had the clam chowder instead of miso soup, and
+        it was fantastic. It might just be Campbell's, but who can argue with
+        Campbell's? It's not a dig in any way if it is Campbell's. That's just
+        good preparation and business savvy. Love this place.
+      languageCode: en
+    originalText:
+      text: >-
+        This place rocks. They have fantastic beef yakisoba. I've enjoyed this
+        fine establishment's service for the last four years, and they have
+        never let me down. I just had the clam chowder instead of miso soup, and
+        it was fantastic. It might just be Campbell's, but who can argue with
+        Campbell's? It's not a dig in any way if it is Campbell's. That's just
+        good preparation and business savvy. Love this place.
+      languageCode: en
+    authorAttribution:
+      displayName: John
+      uri: https://www.google.com/maps/contrib/102304083690538298123/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUn-k7tE-nNNdvd8oEPc2Rm1LIqVM0U8JRGfi3_iNfZznoIuBip=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-02-17T05:57:05.405410Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNnOXVYM0d3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNnOXVYM0d3EAE!2m1!1s0x56eac467d50d463b:0x2c309df22f7f6b61
+review_summary: >-
+  What Customers Are Sharing$$$Visitors to this Japanese restaurant often rave
+  about the fresh and flavorful sushi selections, noting how they hit the spot
+  for anyone craving quality options nearby. Many highlight the enjoyable
+  waterfront views and solid service that make meals feel special, even if there
+  are occasional mentions of varying experiences with certain dishes. Overall,
+  folks appreciate the variety of choices like nigiri and salads that keep
+  things exciting and satisfying for groups or solo diners. The atmosphere comes
+  across as inviting and well-suited for casual outings, with praise for the
+  overall value despite some mixed feedback on specifics. If you're on the hunt
+  for reliable sushi places near me, this spot generally delivers a positive
+  experience that's worth checking out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+delivery: false
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: true
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
 serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_brunch: false
+serves_cocktails: true
+serves_coffee: true
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

@@ -5,4 +5,5 @@ permalink: /texas/league-city/
 stateAbbr: TX
 stateName: Texas
 cityName: League City
+
 ---

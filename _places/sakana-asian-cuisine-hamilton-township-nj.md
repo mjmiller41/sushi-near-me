@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sakana Asian Cuisine"
+title: Sakana Asian Cuisine
 permalink: /new-jersey/hamilton-township/sakana-asian-cuisine.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Hamilton Township
 seo:
-  name: "Sakana Asian Cuisine"
-  type: Restaurant
+  type: restaurant
   links: http://www.sakanaasiancuisine.com/
-description: "Sakana Asian Cuisine serves delicious sushi in Hamilton Township, New Jersey. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJZ9c6PTNZwYkRsEB50dtBgQ4
 photos:
   - name: >-
@@ -145,7 +143,7 @@ photos:
 address: >-
   Next to RWJ fitness center, 3100 Quakerbridge Rd, Hamilton Township, NJ 08619,
   USA
-street: Next to RWJ fitness center, 3100 Quakerbridge Rd
+street: Next to RWJ fitness center,3100 Quakerbridge Rd
 city: Hamilton Township
 state: NJ
 zip: '08619'
@@ -187,6 +185,29 @@ price_range: $30 &ndash; $50
 rating: '4.4'
 rating_count: 0
 website: http://www.sakanaasiancuisine.com/
+description: >-
+  Explore Sakana Asian Cuisine in Hamilton Township, NJ$$$Sakana Asian Cuisine
+  in Hamilton Township, NJ, is a popular spot for those seeking top-rated sushi
+  restaurants with a welcoming vibe and diverse menu options. This informal
+  eatery specializes in all-you-can-eat sushi and sashimi, complemented by
+  flavorful Chinese and Thai entrees that highlight fresh ingredients and
+  authentic flavors. Accessibility features like wheelchair-friendly parking,
+  entrances, restrooms, and seating make it an inclusive choice for everyone
+  looking to enjoy Asian-inspired dining. The restaurant also offers convenient
+  delivery and takeout, perfect for those searching for sushi close to home,
+  along with a moderate price range that provides great value for quality meals.
+generative_summary: >-
+  Explore Sakana Asian Cuisine in Hamilton Township, NJ$$$Sakana Asian Cuisine
+  in Hamilton Township, NJ, is a popular spot for those seeking top-rated sushi
+  restaurants with a welcoming vibe and diverse menu options. This informal
+  eatery specializes in all-you-can-eat sushi and sashimi, complemented by
+  flavorful Chinese and Thai entrees that highlight fresh ingredients and
+  authentic flavors. Accessibility features like wheelchair-friendly parking,
+  entrances, restrooms, and seating make it an inclusive choice for everyone
+  looking to enjoy Asian-inspired dining. The restaurant also offers convenient
+  delivery and takeout, perfect for those searching for sushi close to home,
+  along with a moderate price range that provides great value for quality meals.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJZ9c6PTNZwYkRsEB50dtBgQ4/reviews/ChZDSUhNMG9nS0VJQ0FnSURQeHB5SFRBEAE
@@ -360,6 +381,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURfMWRLaGFREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURfMWRLaGFREAE!2m1!1s0x89c159333d3ad767:0xe8141dbd17940b0
+review_summary: >-
+  What Guests Are Buzzing About$$$Folks who visit this spot often rave about the
+  fresh and tasty dishes, especially the sushi and hearty soups that hit the
+  spot on a chilly day. Many appreciate the all-you-can-eat setup for its
+  variety and reasonable pricing, making it a solid pick for families or groups
+  wanting to try a bit of everything without breaking the bank. Service stands
+  out as friendly and attentive, creating a relaxed atmosphere even when the
+  place is busy, which adds to the overall enjoyable experience. While some note
+  it's a tad pricey compared to typical buffets, the high-quality food and
+  welcoming vibe keep people coming back, offering a genuinely satisfying meal
+  for sushi lovers in the area.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -392,7 +425,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

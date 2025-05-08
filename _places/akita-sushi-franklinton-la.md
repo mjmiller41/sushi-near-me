@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Akita Sushi"
+title: Akita Sushi
 permalink: /louisiana/franklinton/akita-sushi.html
 stateAbbr: LA
 stateName: Louisiana
 cityName: Franklinton
 seo:
-  name: "Akita Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.akitasushila.com/3bby5tpw/restaurant/order-online
-description: "Akita Sushi serves delicious sushi in Franklinton, Louisiana. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ7aQh2353J4YRebFeYH98udU
 photos:
   - name: >-
@@ -170,7 +168,105 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8627777edb21a4ed:0xd5b97c7f605eb179!10e5
 primary_type: Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 14
+        minute: 30
+    - open:
+        day: 0
+        hour: 16
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 14
+        minute: 30
+    - open:
+        day: 6
+        hour: 16
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:00 AM – 2:30 PM, 4:00 – 9:00 PM'
     - 'Wednesday: 11:00 AM – 2:30 PM, 4:00 – 9:00 PM'
@@ -178,14 +274,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 2:30 PM, 4:00 – 9:00 PM'
     - 'Saturday: 11:00 AM – 2:30 PM, 4:00 – 9:00 PM'
     - 'Sunday: 11:00 AM – 2:30 PM, 4:00 – 8:30 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:00 AM – 2:30 PM, 4:00 – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 2:30 PM, 4:00 – 9:00 PM'
-    - 'Thursday: 11:00 AM – 2:30 PM, 4:00 – 9:00 PM'
-    - 'Friday: 11:00 AM – 2:30 PM, 4:00 – 9:00 PM'
-    - 'Saturday: 11:00 AM – 2:30 PM, 4:00 – 9:00 PM'
-    - 'Sunday: 11:00 AM – 2:30 PM, 4:00 – 8:30 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +286,251 @@ phone: (985) 322-9009
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.4'
-rating_count: 0
+rating_count: 303
 website: https://www.akitasushila.com/3bby5tpw/restaurant/order-online
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  About Akita Sushi in Franklinton, LA$$$Akita Sushi in Franklinton, LA, stands
+  out as a cozy and inviting spot for enjoying fresh Japanese-inspired dishes in
+  a welcoming environment. This kid-friendly establishment specializes in
+  comforting options like flavorful sushi rolls, hibachi-style entrees, and
+  grilled selections, paired with a selection of beers to enhance the meal.
+  Visitors appreciate the accessible features, such as wheelchair-friendly
+  seating and parking, making it easy for everyone to savor a relaxed dining
+  experience. Whether you're exploring sushi restaurants in the area or seeking
+  a casual meal close to home, the focus on quality ingredients and a
+  comfortable atmosphere adds to its charm. It's a great choice for those
+  looking for reliable Japanese places near me that blend tradition with
+  everyday convenience.
+generative_summary: >-
+  About Akita Sushi in Franklinton, LA$$$Akita Sushi in Franklinton, LA, stands
+  out as a cozy and inviting spot for enjoying fresh Japanese-inspired dishes in
+  a welcoming environment. This kid-friendly establishment specializes in
+  comforting options like flavorful sushi rolls, hibachi-style entrees, and
+  grilled selections, paired with a selection of beers to enhance the meal.
+  Visitors appreciate the accessible features, such as wheelchair-friendly
+  seating and parking, making it easy for everyone to savor a relaxed dining
+  experience. Whether you're exploring sushi restaurants in the area or seeking
+  a casual meal close to home, the focus on quality ingredients and a
+  comfortable atmosphere adds to its charm. It's a great choice for those
+  looking for reliable Japanese places near me that blend tradition with
+  everyday convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ7aQh2353J4YRebFeYH98udU/reviews/ChdDSUhNMG9nS0VJQ0FnTURReFBDdDN3RRAB
+    relativePublishTimeDescription: a month ago
+    rating: 4
+    text:
+      text: >-
+        It was a surprise moving to this small town and finding a Japanese
+        restaurant. Overall,  it's good food,  although I think the shrimp
+        tempura is bought already battered because it doesn't have the delicate
+        batter the vegetable tempura has and I've had better. But I'm happy to
+        have the option of a real restaurant in Franklinton.  It's one of only 2
+        restaurants I can take out of town guests to.
+      languageCode: en
+    originalText:
+      text: >-
+        It was a surprise moving to this small town and finding a Japanese
+        restaurant. Overall,  it's good food,  although I think the shrimp
+        tempura is bought already battered because it doesn't have the delicate
+        batter the vegetable tempura has and I've had better. But I'm happy to
+        have the option of a real restaurant in Franklinton.  It's one of only 2
+        restaurants I can take out of town guests to.
+      languageCode: en
+    authorAttribution:
+      displayName: Kay Kendrick
+      uri: https://www.google.com/maps/contrib/114887641123063590432/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVL4QCBA-pGpZy_Onm-QSTxrfd8ciLu6KLhQTaxpmgMld_zcU-7=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-03-09T00:09:42.183301Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURReFBDdDN3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURReFBDdDN3RRAB!2m1!1s0x8627777edb21a4ed:0xd5b97c7f605eb179
+  - name: >-
+      places/ChIJ7aQh2353J4YRebFeYH98udU/reviews/ChZDSUhNMG9nS0VJQ0FnSUNPMF95dFJBEAE
+    relativePublishTimeDescription: 2 years ago
+    rating: 5
+    text:
+      text: >-
+        Alright... this place is way out there, but for the locals it is an
+        absolute dream. Great sushi made to order with top quality ingredients.
+        One thing that really surprised me was how fast the large plate of sushi
+        came out. We ordered a $30 tray of four rolls including a humongous
+        volcano roll! We got stuffed and had to take quite a bit home. If you're
+        in the area and itching for sushi... you can't go wrong here.
+      languageCode: en
+    originalText:
+      text: >-
+        Alright... this place is way out there, but for the locals it is an
+        absolute dream. Great sushi made to order with top quality ingredients.
+        One thing that really surprised me was how fast the large plate of sushi
+        came out. We ordered a $30 tray of four rolls including a humongous
+        volcano roll! We got stuffed and had to take quite a bit home. If you're
+        in the area and itching for sushi... you can't go wrong here.
+      languageCode: en
+    authorAttribution:
+      displayName: Daniel Scheer
+      uri: https://www.google.com/maps/contrib/108136220487427602694/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUAupyl2GskBAQRtgnv9KkEmHIr7Shx9UDJB7tTKQxrgpUlrv4uEA=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2022-07-04T22:05:27.405069Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNPMF95dFJBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNPMF95dFJBEAE!2m1!1s0x8627777edb21a4ed:0xd5b97c7f605eb179
+  - name: >-
+      places/ChIJ7aQh2353J4YRebFeYH98udU/reviews/ChdDSUhNMG9nS0VJQ0FnSURBMFpxaHN3RRAB
+    relativePublishTimeDescription: 6 years ago
+    rating: 4
+    text:
+      text: >-
+        Very good sushi and establishment. Food was very good, establishment is
+        very clean and the staff very professional. Parking is half hazard at
+        best. You can try street parking, behind in the dirt parking lot, across
+        the street parking or hope for best in CVS next door.
+
+
+        Miso was decent, but skimpy on miso paste. Clear soup was tasty. Lunch
+        special for two rolls and three nori wrapped sushi was perfect and clean
+        tasting. Prices for food were fair but declined desert on mochi due to
+        2.50-ish per piece. Over all, I'm interested in returning to try more.
+
+
+        November update. They've added beer to the menu.
+      languageCode: en
+    originalText:
+      text: >-
+        Very good sushi and establishment. Food was very good, establishment is
+        very clean and the staff very professional. Parking is half hazard at
+        best. You can try street parking, behind in the dirt parking lot, across
+        the street parking or hope for best in CVS next door.
+
+
+        Miso was decent, but skimpy on miso paste. Clear soup was tasty. Lunch
+        special for two rolls and three nori wrapped sushi was perfect and clean
+        tasting. Prices for food were fair but declined desert on mochi due to
+        2.50-ish per piece. Over all, I'm interested in returning to try more.
+
+
+        November update. They've added beer to the menu.
+      languageCode: en
+    authorAttribution:
+      displayName: Nathan Pierce
+      uri: https://www.google.com/maps/contrib/111739554014701647268/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXdckBpDeL-0yjd03UbRAx3lyhXPcmSmrZaOB8j_A2XzHnETU28=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2018-11-06T18:32:52.943569Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURBMFpxaHN3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURBMFpxaHN3RRAB!2m1!1s0x8627777edb21a4ed:0xd5b97c7f605eb179
+  - name: >-
+      places/ChIJ7aQh2353J4YRebFeYH98udU/reviews/ChZDSUhNMG9nS0VJQ0FnSUNONl9MX1VnEAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        Best food I ever tasted 10/10 will come back on the weekend look how I
+        ate.
+      languageCode: en
+    originalText:
+      text: >-
+        Best food I ever tasted 10/10 will come back on the weekend look how I
+        ate.
+      languageCode: en
+    authorAttribution:
+      displayName: Adrian Andrade
+      uri: https://www.google.com/maps/contrib/110938987289213168283/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWjRutKTqCokCOMkMJSUBOLH1rib2XUHKs55GWDTLshUr7IvjR9=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-01-18T02:24:03.216332Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNONl9MX1VnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNONl9MX1VnEAE!2m1!1s0x8627777edb21a4ed:0xd5b97c7f605eb179
+  - name: >-
+      places/ChIJ7aQh2353J4YRebFeYH98udU/reviews/ChdDSUhNMG9nS0VJQ0FnSUNIaTU2NnVRRRAB
+    relativePublishTimeDescription: 7 months ago
+    rating: 5
+    text:
+      text: >-
+        Wanted a quick pickup dinner and swing by right before they closed up,
+        so not much to say for the interior, but it was nice. Favorite was the
+        Pretty Girl sushi roll, will definitely get it again! The hibachi steak
+        and shrimp with fried rice was also good. Clear soup was good, but a
+        little strong on the anise..
+
+        Definitely a good spot to tryout.
+      languageCode: en
+    originalText:
+      text: >-
+        Wanted a quick pickup dinner and swing by right before they closed up,
+        so not much to say for the interior, but it was nice. Favorite was the
+        Pretty Girl sushi roll, will definitely get it again! The hibachi steak
+        and shrimp with fried rice was also good. Clear soup was good, but a
+        little strong on the anise..
+
+        Definitely a good spot to tryout.
+      languageCode: en
+    authorAttribution:
+      displayName: Victoria Looney
+      uri: https://www.google.com/maps/contrib/112745306214572271970/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWCi2AbPDinx2mopZ53HKrFAMFLetngne9Ah0ywvnLOSrBkDsw=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-09-08T19:51:06.160044Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNIaTU2NnVRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNIaTU2NnVRRRAB!2m1!1s0x8627777edb21a4ed:0xd5b97c7f605eb179
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this sushi spot often rave about the
+  fresh, well-prepared rolls and generous portions that leave them satisfied and
+  eager to return. Many appreciate the quick service and high-quality
+  ingredients, making it a surprising gem in a smaller town where good dining
+  options can be hard to find. While some note minor inconsistencies like the
+  texture of certain tempura items, the overall value and taste keep the
+  feedback overwhelmingly positive. Folks enjoy how it caters to families and
+  groups with its approachable vibe, turning a simple meal into a memorable
+  outing. If you're hunting for top-rated sushi near you, this place delivers a
+  solid experience that's worth checking out for its reliable flavors and
+  friendly service.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  paidStreetParking: false
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
 delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
+dine_in: true
+good_for_children: true
+good_for_groups: true
 good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
+live_music: false
+menu_for_children: true
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
 serves_brunch: null
 serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
 serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

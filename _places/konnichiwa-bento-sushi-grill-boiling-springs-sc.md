@@ -1,15 +1,14 @@
 ---
 layout: place
-title: "Konnichiwa bento,sushi & grill"
+title: Konnichiwa bento,sushi & grill
 permalink: /south-carolina/boiling-springs/konnichiwa-bento-sushi-grill.html
 stateAbbr: SC
 stateName: South Carolina
 cityName: Boiling Springs
 seo:
-  name: "Konnichiwa bento,sushi & grill"
-  type: Restaurant
-  links: https://m.facebook.com/pages/category/Sushi-Restaurant/Konnichiwa-bentosushi-and-grill-3369292339762878/
-description: "Konnichiwa bento,sushi & grill serves delicious sushi in Boiling Springs, South Carolina. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: >-
+    https://m.facebook.com/pages/category/Sushi-Restaurant/Konnichiwa-bentosushi-and-grill-3369292339762878/
 place_id: ChIJwYAb8gdxV4gR-9mGT1t0hYA
 photos:
   - name: >-
@@ -170,7 +169,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x88577107f21b80c1:0x8085745b4f86d9fb!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 10:00 PM'
     - 'Tuesday: 11:00 AM – 10:00 PM'
     - 'Wednesday: 11:00 AM – 10:00 PM'
@@ -178,14 +235,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:00 PM'
     - 'Saturday: 11:00 AM – 10:00 PM'
     - 'Sunday: 11:00 AM – 10:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 10:00 PM'
-    - 'Tuesday: 11:00 AM – 10:00 PM'
-    - 'Wednesday: 11:00 AM – 10:00 PM'
-    - 'Thursday: 11:00 AM – 10:00 PM'
-    - 'Friday: 11:00 AM – 10:00 PM'
-    - 'Saturday: 11:00 AM – 10:00 PM'
-    - 'Sunday: 11:00 AM – 10:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,11 +246,46 @@ secondary_opening_hours:
 phone: (864) 599-9888
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
-rating: '4.4'
-rating_count: 0
+rating: '4.5'
+rating_count: 471
 website: >-
   https://m.facebook.com/pages/category/Sushi-Restaurant/Konnichiwa-bentosushi-and-grill-3369292339762878/
+description: >-
+  Discover Konnichiwa Bento, Sushi & Grill in Boiling Springs, SC$$$Konnichiwa
+  Bento, Sushi & Grill in Boiling Springs, SC, offers a welcoming spot for
+  enjoying fresh Japanese-inspired dishes in a relaxed setting. This local
+  eatery specializes in a variety of creative sushi rolls and flavorful hibachi
+  options, making it a go-to choice for those seeking sushi dining experiences
+  nearby. With its casual vibe and selection of beverages like beer and sake,
+  it's perfect for casual meals or quick bites after exploring the area. The
+  restaurant emphasizes accessibility, featuring convenient features that
+  enhance visits for all guests, ensuring everyone can savor the authentic
+  flavors without hassle.
+generative_summary: >-
+  Discover Konnichiwa Bento, Sushi & Grill in Boiling Springs, SC$$$Konnichiwa
+  Bento, Sushi & Grill in Boiling Springs, SC, offers a welcoming spot for
+  enjoying fresh Japanese-inspired dishes in a relaxed setting. This local
+  eatery specializes in a variety of creative sushi rolls and flavorful hibachi
+  options, making it a go-to choice for those seeking sushi dining experiences
+  nearby. With its casual vibe and selection of beverages like beer and sake,
+  it's perfect for casual meals or quick bites after exploring the area. The
+  restaurant emphasizes accessibility, featuring convenient features that
+  enhance visits for all guests, ensuring everyone can savor the authentic
+  flavors without hassle.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Folks heading to Konnichiwa Bento often praise the
+  spot for its tasty sushi and hibachi dishes that hit the spot every time,
+  based on its strong overall rating. Many appreciate the fresh ingredients and
+  solid portion sizes that make it a reliable pick for everyday meals or special
+  occasions. While some mention occasional waits during busy periods, the
+  friendly atmosphere and attentive service keep the vibe upbeat and enjoyable.
+  Overall, it's frequently recommended as a top local option for anyone craving
+  Japanese flavors, with customers highlighting great value that encourages
+  repeat visits. If you're on the hunt for quality sushi places in the region,
+  this one tends to leave diners satisfied and coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -226,7 +311,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

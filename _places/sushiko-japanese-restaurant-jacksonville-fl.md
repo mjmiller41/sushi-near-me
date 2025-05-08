@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushiko Japanese Restaurant"
+title: Sushiko Japanese Restaurant
 permalink: /florida/jacksonville/sushiko-japanese-restaurant.html
 stateAbbr: FL
 stateName: Florida
 cityName: Jacksonville
 seo:
-  name: "Sushiko Japanese Restaurant"
-  type: Restaurant
+  type: restaurant
   links: http://sushikojax.com/
-description: "Intimate sushi house featuring a variety of rolls, Japanese fare & hibachi meals in a relaxed venue. Sushiko Japanese Restaurant serves delicious sushi in Jacksonville, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJsxgfBDu45YgRR853miKhx0E
 photos:
   - name: >-
@@ -185,6 +183,35 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 0
 website: http://sushikojax.com/
+description: >-
+  Discover Sushiko Japanese Restaurant in Jacksonville, FL$$$Nestled in the
+  heart of Jacksonville, FL, Sushiko Japanese Restaurant offers an intimate
+  dining experience with a focus on fresh sushi, flavorful rolls, and
+  traditional hibachi meals that capture the essence of Japanese cuisine. This
+  spot stands out for its extensive vegan menu, featuring creative and vibrant
+  options that cater to various dietary preferences with an array of textures
+  and flavors designed to impress. The relaxed atmosphere is enhanced by
+  efficient service and a clean environment, making it a welcoming choice for
+  casual meals or takeout. Whether you're seeking authentic Japanese fare for a
+  group outing or a solo adventure, Sushiko provides satisfying dishes that
+  highlight quality ingredients and thoughtful preparation. As one of the go-to
+  sushi restaurants in the area, it's perfect for anyone exploring local
+  Japanese places near me.
+generative_summary: >-
+  Discover Sushiko Japanese Restaurant in Jacksonville, FL$$$Nestled in the
+  heart of Jacksonville, FL, Sushiko Japanese Restaurant offers an intimate
+  dining experience with a focus on fresh sushi, flavorful rolls, and
+  traditional hibachi meals that capture the essence of Japanese cuisine. This
+  spot stands out for its extensive vegan menu, featuring creative and vibrant
+  options that cater to various dietary preferences with an array of textures
+  and flavors designed to impress. The relaxed atmosphere is enhanced by
+  efficient service and a clean environment, making it a welcoming choice for
+  casual meals or takeout. Whether you're seeking authentic Japanese fare for a
+  group outing or a solo adventure, Sushiko provides satisfying dishes that
+  highlight quality ingredients and thoughtful preparation. As one of the go-to
+  sushi restaurants in the area, it's perfect for anyone exploring local
+  Japanese places near me.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJsxgfBDu45YgRR853miKhx0E/reviews/ChdDSUhNMG9nS0VJQ0FnTUNROTkyR2lBRRAB
@@ -382,6 +409,21 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUN3cDZhaEtREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUN3cDZhaEtREAE!2m1!1s0x88e5b83b041f18b3:0x41c7a1229a77ce47
+review_summary: >-
+  Insights from Recent Reviews$$$Visitors to this Japanese eatery often rave
+  about the impressive variety of vegan and vegetarian choices, with plenty of
+  creative sushi rolls that deliver bold flavors and satisfying textures for all
+  tastes. Many folks appreciate the friendly and prompt service, along with a
+  clean, relaxed vibe that makes dining in or grabbing takeout a breeze, even if
+  street parking can be a minor hassle. While some note that certain items like
+  hot sake might not always hit the perfect temperature, the overall consensus
+  is that the food's freshness and authenticity make it a standout spot worth
+  returning to. Reviewers frequently highlight how the extensive menu options
+  keep things exciting, turning even simple meals into delightful experiences.
+  If you're on the hunt for top-rated sushi near me, this place consistently
+  delivers a positive and enjoyable vibe that keeps customers coming back for
+  more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -414,8 +456,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Intimate sushi house featuring a variety of rolls, Japanese fare & hibachi
   meals in a relaxed venue.
 

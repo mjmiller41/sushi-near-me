@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi | Bar Dallas"
+title: Sushi | Bar Dallas
 permalink: /texas/dallas/sushi-bar-dallas.html
 stateAbbr: TX
 stateName: Texas
 cityName: Dallas
 seo:
-  name: "Sushi | Bar Dallas"
-  type: Restaurant
-  links: null
-description: "Sushi | Bar Dallas serves delicious sushi in Dallas, Texas. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://sushibarhospitality.com/locations/dallas/
 place_id: ChIJJw6wqw6ZToYRmI8tKSB_SE0
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x864e990eabb00e27:0x4d487f20292d8f98!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 5:00 – 10:00 PM'
+    - 'Tuesday: 5:00 – 10:00 PM'
+    - 'Wednesday: 5:00 – 10:00 PM'
+    - 'Thursday: 5:00 – 10:00 PM'
+    - 'Friday: 5:00 – 10:00 PM'
+    - 'Saturday: 5:00 – 10:00 PM'
+    - 'Sunday: 5:00 – 10:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,58 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
+phone: (214) 420-8532
 price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+price_range: $100 &ndash; & up
+rating: '4.8'
+rating_count: 83
+website: https://sushibarhospitality.com/locations/dallas/
+description: >-
+  Discover Sushi | Bar Dallas in Dallas, TX$$$Sushi | Bar Dallas in Dallas, TX,
+  invites diners into a charming, intimate setting that blends modern Japanese
+  flavors with a touch of mystery, perfect for those exploring top-rated sushi
+  spots in the area. This venue specializes in a creative omakase journey
+  featuring fresh, innovative nigiri dishes that highlight seasonal ingredients
+  and bold tastes, all served in a whimsical, hidden atmosphere reminiscent of a
+  speakeasy. With its focus on accessibility and welcoming vibe, the restaurant
+  ensures a comfortable experience for all guests, making it an ideal choice for
+  evening outings among sushi enthusiasts. Operating in the evenings, it offers
+  a multi-course adventure that elevates traditional sushi dining, appealing to
+  anyone seeking authentic Japanese-inspired meals close to home. Whether you're
+  in the mood for high-quality sushi restaurants or simply crave something
+  special nearby, this spot delivers an unforgettable blend of elegance and
+  excitement.
+generative_summary: >-
+  Discover Sushi | Bar Dallas in Dallas, TX$$$Sushi | Bar Dallas in Dallas, TX,
+  invites diners into a charming, intimate setting that blends modern Japanese
+  flavors with a touch of mystery, perfect for those exploring top-rated sushi
+  spots in the area. This venue specializes in a creative omakase journey
+  featuring fresh, innovative nigiri dishes that highlight seasonal ingredients
+  and bold tastes, all served in a whimsical, hidden atmosphere reminiscent of a
+  speakeasy. With its focus on accessibility and welcoming vibe, the restaurant
+  ensures a comfortable experience for all guests, making it an ideal choice for
+  evening outings among sushi enthusiasts. Operating in the evenings, it offers
+  a multi-course adventure that elevates traditional sushi dining, appealing to
+  anyone seeking authentic Japanese-inspired meals close to home. Whether you're
+  in the mood for high-quality sushi restaurants or simply crave something
+  special nearby, this spot delivers an unforgettable blend of elegance and
+  excitement.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Love About This Dallas Sushi Spot$$$Visitors often rave about
+  the standout omakase experience at this sushi place, praising the incredibly
+  fresh ingredients and inventive flavor combinations that make every bite
+  memorable. Many highlight the elegant presentation of the dishes, which adds a
+  fun and artistic touch to the meal, keeping things lively without overwhelming
+  the senses. The cozy, engaging atmosphere gets plenty of nods for creating a
+  welcoming space that feels personal and relaxed, ideal for a night out. Folks
+  appreciate the attentive service that enhances the overall enjoyment, helping
+  to make the visit feel seamless and enjoyable. All in all, it's clear that
+  this spot continues to impress sushi lovers with its commitment to quality and
+  creativity, making it a solid pick for anyone hunting for great options
+  nearby.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +319,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

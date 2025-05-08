@@ -5,4 +5,5 @@ permalink: /california/goleta/
 stateAbbr: CA
 stateName: California
 cityName: Goleta
+
 ---

@@ -5,4 +5,5 @@ permalink: /california/hermosa-beach/
 stateAbbr: CA
 stateName: California
 cityName: Hermosa Beach
+
 ---

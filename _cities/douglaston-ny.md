@@ -5,4 +5,5 @@ permalink: /new-york/douglaston/
 stateAbbr: NY
 stateName: New York
 cityName: Douglaston
+
 ---

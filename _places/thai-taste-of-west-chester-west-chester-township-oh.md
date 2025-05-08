@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Thai Taste of West Chester"
+title: Thai Taste of West Chester
 permalink: /ohio/west-chester-township/thai-taste-of-west-chester.html
 stateAbbr: OH
 stateName: Ohio
 cityName: West Chester Township
 seo:
-  name: "Thai Taste of West Chester"
-  type: Restaurant
-  links: null
-description: "Thai Taste of West Chester serves delicious sushi in West Chester Township, Ohio. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.thaitastecincinnati.com/
 place_id: ChIJ10vI-n1aQIgRwD6XHolzgoI
 photos:
   - name: >-
@@ -169,8 +167,129 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x88405a7dfac84bd7:0x828273891e973ec0!10e5
 primary_type: Thai Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 14
+        minute: 30
+    - open:
+        day: 0
+        hour: 16
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 16
+        minute: 0
+      close:
+        day: 1
+        hour: 20
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 0
+      close:
+        day: 5
+        hour: 20
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 14
+        minute: 30
+    - open:
+        day: 6
+        hour: 16
+        minute: 0
+      close:
+        day: 6
+        hour: 20
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 2:30 PM, 4:00 – 8:30 PM'
+    - 'Tuesday: 11:00 AM – 2:30 PM, 4:00 – 8:30 PM'
+    - 'Wednesday: 11:00 AM – 2:30 PM, 4:00 – 8:30 PM'
+    - 'Thursday: 11:00 AM – 2:30 PM, 4:00 – 8:30 PM'
+    - 'Friday: 11:00 AM – 2:30 PM, 4:00 – 8:30 PM'
+    - 'Saturday: 11:00 AM – 2:30 PM, 4:00 – 8:30 PM'
+    - 'Sunday: 12:00 – 2:30 PM, 4:00 – 8:30 PM'
+  nextCloseTime: '2025-05-04T00:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -178,13 +297,48 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (513) 759-9999
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.4'
+rating_count: 229
+website: https://www.thaitastecincinnati.com/
+description: >-
+  About Thai Taste of West Chester Township, OH$$$Thai Taste of West Chester in
+  West Chester Township, OH, offers a relaxed atmosphere perfect for enjoying
+  authentic Thai flavors and a selection of beverages. This unpretentious spot
+  specializes in traditional dishes that highlight fresh ingredients and bold
+  spices, complemented by options like beer, wine, and cocktails for a complete
+  dining experience. With accessibility features such as wheelchair-friendly
+  parking and seating, it caters to a wide range of guests seeking a comfortable
+  meal. The restaurant maintains convenient hours, making it easy to drop in for
+  lunch or dinner, and its moderate pricing adds to its appeal for everyday
+  visits.
+generative_summary: >-
+  About Thai Taste of West Chester Township, OH$$$Thai Taste of West Chester in
+  West Chester Township, OH, offers a relaxed atmosphere perfect for enjoying
+  authentic Thai flavors and a selection of beverages. This unpretentious spot
+  specializes in traditional dishes that highlight fresh ingredients and bold
+  spices, complemented by options like beer, wine, and cocktails for a complete
+  dining experience. With accessibility features such as wheelchair-friendly
+  parking and seating, it caters to a wide range of guests seeking a comfortable
+  meal. The restaurant maintains convenient hours, making it easy to drop in for
+  lunch or dinner, and its moderate pricing adds to its appeal for everyday
+  visits.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Folks who visit Thai Taste often rave about the
+  delicious, well-prepared meals that bring out the best in Thai cuisine, with
+  many highlighting the flavorful balance of spices and freshness. The overall
+  experience gets high marks for its welcoming vibe and reliable service, making
+  it a go-to choice for casual outings. While some note that portions could
+  vary, the consensus leans positive with praise for the variety of options that
+  satisfy different tastes. Based on the solid rating, it's clear that diners
+  appreciate the value and quality here, encouraging others to give it a try for
+  a satisfying meal. Overall, it's a spot that delivers on expectations without
+  any major letdowns, keeping the feedback upbeat and encouraging.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +364,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

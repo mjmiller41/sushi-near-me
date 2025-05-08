@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Great Wall Chinese - Thai and Sushi"
+title: Great Wall Chinese - Thai and Sushi
 permalink: /georgia/marietta/great-wall-chinese-thai-and-sushi.html
 stateAbbr: GA
 stateName: Georgia
 cityName: Marietta
 seo:
-  name: "Great Wall Chinese - Thai and Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.greatwallchinesesushi.com/
-description: "Great Wall Chinese - Thai and Sushi serves delicious sushi in Marietta, Georgia. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJOXkfdRkR9YgRMKVqyOPe3yA
 photos:
   - name: >-
@@ -170,7 +168,105 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x88f51119751f7939:0x20dfdee3c86aa530!10e5
 primary_type: Chinese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 16
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 16
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 2:30 PM, 4:30 – 9:30 PM'
     - 'Tuesday: 11:00 AM – 2:30 PM, 4:30 – 9:30 PM'
     - 'Wednesday: 11:00 AM – 2:30 PM, 4:30 – 9:30 PM'
@@ -178,28 +274,231 @@ opening_hours:
     - 'Friday: 11:00 AM – 2:30 PM, 4:30 – 10:00 PM'
     - 'Saturday: 4:30 – 10:00 PM'
     - 'Sunday: 4:30 – 9:30 PM'
-  current:
-    - 'Monday: 11:00 AM – 2:30 PM, 4:30 – 9:30 PM'
-    - 'Tuesday: 11:00 AM – 2:30 PM, 4:30 – 9:30 PM'
-    - 'Wednesday: 11:00 AM – 2:30 PM, 4:30 – 9:30 PM'
-    - 'Thursday: 11:00 AM – 2:30 PM, 4:30 – 9:30 PM'
-    - 'Friday: 11:00 AM – 2:30 PM, 4:30 – 10:00 PM'
-    - 'Saturday: 4:30 – 10:00 PM'
-    - 'Sunday: 4:30 – 9:30 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 16
+          minute: 30
+        close:
+          day: 0
+          hour: 21
+          minute: 30
+      - open:
+          day: 1
+          hour: 11
+          minute: 0
+        close:
+          day: 1
+          hour: 14
+          minute: 30
+      - open:
+          day: 1
+          hour: 16
+          minute: 30
+        close:
+          day: 1
+          hour: 21
+          minute: 30
+      - open:
+          day: 2
+          hour: 11
+          minute: 0
+        close:
+          day: 2
+          hour: 14
+          minute: 30
+      - open:
+          day: 2
+          hour: 16
+          minute: 30
+        close:
+          day: 2
+          hour: 21
+          minute: 30
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 14
+          minute: 30
+      - open:
+          day: 3
+          hour: 16
+          minute: 30
+        close:
+          day: 3
+          hour: 21
+          minute: 30
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 14
+          minute: 30
+      - open:
+          day: 4
+          hour: 16
+          minute: 30
+        close:
+          day: 4
+          hour: 21
+          minute: 30
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 14
+          minute: 30
+      - open:
+          day: 5
+          hour: 16
+          minute: 30
+        close:
+          day: 5
+          hour: 22
+          minute: 0
+      - open:
+          day: 6
+          hour: 16
+          minute: 30
+        close:
+          day: 6
+          hour: 22
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 11:00 AM – 2:30 PM, 4:30 – 9:30 PM'
+      - 'Tuesday: 11:00 AM – 2:30 PM, 4:30 – 9:30 PM'
+      - 'Wednesday: 11:00 AM – 2:30 PM, 4:30 – 9:30 PM'
+      - 'Thursday: 11:00 AM – 2:30 PM, 4:30 – 9:30 PM'
+      - 'Friday: 11:00 AM – 2:30 PM, 4:30 – 10:00 PM'
+      - 'Saturday: 4:30 – 10:00 PM'
+      - 'Sunday: 4:30 – 9:30 PM'
+    secondaryHoursType: DELIVERY
+    nextCloseTime: '2025-05-04T02:00:00Z'
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 17
+          minute: 0
+        close:
+          day: 0
+          hour: 21
+          minute: 0
+      - open:
+          day: 1
+          hour: 11
+          minute: 0
+        close:
+          day: 1
+          hour: 21
+          minute: 30
+      - open:
+          day: 2
+          hour: 11
+          minute: 0
+        close:
+          day: 2
+          hour: 21
+          minute: 30
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 21
+          minute: 30
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 30
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 21
+          minute: 30
+      - open:
+          day: 6
+          hour: 16
+          minute: 30
+        close:
+          day: 6
+          hour: 22
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 11:00 AM – 9:30 PM'
+      - 'Tuesday: 11:00 AM – 9:30 PM'
+      - 'Wednesday: 11:00 AM – 9:30 PM'
+      - 'Thursday: 11:00 AM – 9:30 PM'
+      - 'Friday: 11:00 AM – 9:30 PM'
+      - 'Saturday: 4:30 – 10:00 PM'
+      - 'Sunday: 5:00 – 9:00 PM'
+    secondaryHoursType: TAKEOUT
+    nextCloseTime: '2025-05-04T02:00:00Z'
 phone: (770) 953-6392
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.3'
-rating_count: 0
+rating_count: 543
 website: http://www.greatwallchinesesushi.com/
+description: >-
+  Discover Great Wall Chinese - Thai and Sushi in Marietta, GA$$$Great Wall
+  Chinese - Thai and Sushi in Marietta, Georgia, stands out as a welcoming spot
+  for those seeking diverse Asian flavors, including fresh sushi options right
+  in your neighborhood. This restaurant combines authentic Chinese, Thai, and
+  sushi dishes, making it a go-to choice for diners looking for a mix of bold
+  tastes and convenient dining experiences like dine-in or takeout. With
+  accessibility features such as wheelchair-friendly entrances and parking, it's
+  designed to accommodate everyone comfortably. The menu highlights flavorful
+  selections that cater to sushi enthusiasts, offering a relaxed atmosphere for
+  enjoying meals with friends or family. Operating with flexible hours,
+  including evenings and weekends, it provides an easy option for quick,
+  satisfying bites in a casual setting.
+generative_summary: >-
+  Discover Great Wall Chinese - Thai and Sushi in Marietta, GA$$$Great Wall
+  Chinese - Thai and Sushi in Marietta, Georgia, stands out as a welcoming spot
+  for those seeking diverse Asian flavors, including fresh sushi options right
+  in your neighborhood. This restaurant combines authentic Chinese, Thai, and
+  sushi dishes, making it a go-to choice for diners looking for a mix of bold
+  tastes and convenient dining experiences like dine-in or takeout. With
+  accessibility features such as wheelchair-friendly entrances and parking, it's
+  designed to accommodate everyone comfortably. The menu highlights flavorful
+  selections that cater to sushi enthusiasts, offering a relaxed atmosphere for
+  enjoying meals with friends or family. Operating with flexible hours,
+  including evenings and weekends, it provides an easy option for quick,
+  satisfying bites in a casual setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Raving About$$$Visitors to this sushi spot often praise the
+  tasty fried rice and spring rolls that hit the spot for a satisfying meal,
+  along with speedy delivery that makes it a convenient choice for busy days.
+  Folks appreciate the friendly and efficient team that keeps things running
+  smoothly, adding to the overall enjoyable vibe of the place. While some note
+  that the prices lean toward the higher side, many agree it's worth it for the
+  quality and variety of dishes available. Overall, it's a solid pick for anyone
+  craving top-rated sushi nearby, with reliable service that leaves diners
+  feeling pleased. If you're exploring Japanese-inspired places in the area,
+  this one frequently gets nods for its flavorful offerings and welcoming
+  approach.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +524,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

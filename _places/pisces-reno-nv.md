@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Pisces"
+title: Pisces
 permalink: /nevada/reno/pisces.html
 stateAbbr: NV
 stateName: Nevada
 cityName: Reno
 seo:
-  name: "Pisces"
-  type: Restaurant
+  type: restaurant
   links: http://www.piscessushireno.com/
-description: "Pisces serves delicious sushi in Reno, Nevada. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJd-aPXhoVmYARUZDKvUjNvLo
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8099151a5e8fe677:0xbabccd48bdca9051!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:00 PM'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:00 PM'
     - 'Saturday: 11:00 AM – 9:00 PM'
     - 'Sunday: 11:00 AM – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 9:00 PM'
-    - 'Saturday: 11:00 AM – 9:00 PM'
-    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,268 @@ phone: (775) 853-4246
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.3'
-rating_count: 0
+rating_count: 481
 website: http://www.piscessushireno.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Pisces in Reno, NV$$$Pisces in Reno, NV, stands out as a casual sushi
+  restaurant offering an all-you-can-eat menu that highlights fresh seafood and
+  flavorful options, paired with selections of sake and beer for a complete
+  dining experience. The spot emphasizes quality ingredients and a relaxed vibe,
+  making it ideal for those seeking authentic Japanese-inspired dishes in a
+  welcoming setting. With convenient daily hours from 11 AM to 9 PM and
+  accessibility features like wheelchair-friendly parking and entrances, it's
+  designed to accommodate a variety of diners. This sushi restaurant near Reno
+  provides a solid choice for anyone exploring local eateries, blending
+  affordability with a focus on satisfying meals that keep customers coming
+  back.
+generative_summary: >-
+  Discover Pisces in Reno, NV$$$Pisces in Reno, NV, stands out as a casual sushi
+  restaurant offering an all-you-can-eat menu that highlights fresh seafood and
+  flavorful options, paired with selections of sake and beer for a complete
+  dining experience. The spot emphasizes quality ingredients and a relaxed vibe,
+  making it ideal for those seeking authentic Japanese-inspired dishes in a
+  welcoming setting. With convenient daily hours from 11 AM to 9 PM and
+  accessibility features like wheelchair-friendly parking and entrances, it's
+  designed to accommodate a variety of diners. This sushi restaurant near Reno
+  provides a solid choice for anyone exploring local eateries, blending
+  affordability with a focus on satisfying meals that keep customers coming
+  back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJd-aPXhoVmYARUZDKvUjNvLo/reviews/ChZDSUhNMG9nS0VJQ0FnSURfNk95WkdREAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        I liked this place so much I ate here twice in a row. The hallmark of
+        good sushi is the rice and usually, all you can eat spots serve
+        Americanized style sushi with poor rice quality. Not here. The rice is
+        well vinegared and seasoned and nicely moist. The raw fish is fresh.
+        There’s a pretty good selection of nigiri with options you might
+        commonly find in Japan but less so in the USA—like raw scallop—so you
+        are not only limited to the nauseating fried, avocado-ed or cream cheese
+        westernized rolls. Though surprisingly, those are done well here.
+
+
+        The best part is the super friendly and good vibes. Everyone on the
+        staff, from waiters to the cooks, seem to be friends, joking around with
+        one another while still being attentive to the customers and seem
+        genuinely appreciative of your patronage.
+      languageCode: en
+    originalText:
+      text: >-
+        I liked this place so much I ate here twice in a row. The hallmark of
+        good sushi is the rice and usually, all you can eat spots serve
+        Americanized style sushi with poor rice quality. Not here. The rice is
+        well vinegared and seasoned and nicely moist. The raw fish is fresh.
+        There’s a pretty good selection of nigiri with options you might
+        commonly find in Japan but less so in the USA—like raw scallop—so you
+        are not only limited to the nauseating fried, avocado-ed or cream cheese
+        westernized rolls. Though surprisingly, those are done well here.
+
+
+        The best part is the super friendly and good vibes. Everyone on the
+        staff, from waiters to the cooks, seem to be friends, joking around with
+        one another while still being attentive to the customers and seem
+        genuinely appreciative of your patronage.
+      languageCode: en
+    authorAttribution:
+      displayName: Mandy T
+      uri: https://www.google.com/maps/contrib/100677040344107793210/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXwUnjeLcs3wsl3N5JJw7AMdJ3Oddoa5wqYAnHmA-JpoGq6LVDT=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-01-21T07:19:29.990681Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURfNk95WkdREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURfNk95WkdREAE!2m1!1s0x8099151a5e8fe677:0xbabccd48bdca9051
+  - name: >-
+      places/ChIJd-aPXhoVmYARUZDKvUjNvLo/reviews/ChdDSUhNMG9nS0VJQ0FnSURmNG9XTnRnRRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        Throughly enjoyed the evening.  Recommend not ordering off menu...chefs
+        choice for sure. Sit back, relax and enjoy sushi like you haven't had
+        before. Complex, sophisticated, refreshing and old school. Num.
+      languageCode: en
+    originalText:
+      text: >-
+        Throughly enjoyed the evening.  Recommend not ordering off menu...chefs
+        choice for sure. Sit back, relax and enjoy sushi like you haven't had
+        before. Complex, sophisticated, refreshing and old school. Num.
+      languageCode: en
+    authorAttribution:
+      displayName: Tami Cummings
+      uri: https://www.google.com/maps/contrib/115888654601895097796/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLJPnRcIPh9ID9HnPs_LULEeZC9wkNN8DELyDAu05AtZNUm=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-01-05T03:40:11.509225Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURmNG9XTnRnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURmNG9XTnRnRRAB!2m1!1s0x8099151a5e8fe677:0xbabccd48bdca9051
+  - name: >-
+      places/ChIJd-aPXhoVmYARUZDKvUjNvLo/reviews/ChdDSUhNMG9nS0VJQ0FnTURRaGNlenJ3RRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        The Pisces, Dynamite and the Golden gate are my favorite rolls. The
+        staff is fast and friendly. Fish is so fresh!
+      languageCode: en
+    originalText:
+      text: >-
+        The Pisces, Dynamite and the Golden gate are my favorite rolls. The
+        staff is fast and friendly. Fish is so fresh!
+      languageCode: en
+    authorAttribution:
+      displayName: Ceasar
+      uri: https://www.google.com/maps/contrib/107209357535401841382/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocL0DwQpXPenxYKOyzXmDo6-ngOV0IYgwSbmo_BYl-dv_nNzZQ=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-12T11:08:43.567323Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURRaGNlenJ3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURRaGNlenJ3RRAB!2m1!1s0x8099151a5e8fe677:0xbabccd48bdca9051
+  - name: >-
+      places/ChIJd-aPXhoVmYARUZDKvUjNvLo/reviews/ChdDSUhNMG9nS0VJQ0FnTURndnU3a21nRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        I have no complaints. The staff you lovely and genuinely want to do a
+        good job. There food is delicious, I particularly loved they way they
+        make miso soup. The atmosphere is calm and enjoyable. No one is
+        screaming over eachother to be heard. I will be returning.
+      languageCode: en
+    originalText:
+      text: >-
+        I have no complaints. The staff you lovely and genuinely want to do a
+        good job. There food is delicious, I particularly loved they way they
+        make miso soup. The atmosphere is calm and enjoyable. No one is
+        screaming over eachother to be heard. I will be returning.
+      languageCode: en
+    authorAttribution:
+      displayName: Sara Ellington
+      uri: https://www.google.com/maps/contrib/107999528097178735193/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUDzIFnagCwVHc1ffeOU0lCdPh87q2l01uAX2cXJ5VzFIoNkqHt=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-02-25T01:34:22.743969Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURndnU3a21nRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURndnU3a21nRRAB!2m1!1s0x8099151a5e8fe677:0xbabccd48bdca9051
+  - name: >-
+      places/ChIJd-aPXhoVmYARUZDKvUjNvLo/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJejd5Mzd3RRAB
+    relativePublishTimeDescription: 4 weeks ago
+    rating: 1
+    text:
+      text: >-
+        My friend and I went for dinner one evening last week. I have been there
+        a few times. The Sushi is always good and fresh, service is usually
+        pretty good and i love the environment. When we went this past time I
+        ordered a calamari roll. The server brought a similar-looking roll to
+        the table and I ate about half of it. As I was halfway through with it
+        it she brought another roll to the table and said it was the calamari
+        roll. I was unaware that i was eating shrimp, which I'm allergic to
+        (They were both breaded and fried in these particular rolls so the
+        difference wasn't highly noticeable). I ended up turning very red and
+        itchy so we explained to the server what had happened. She thought we
+        were ordering another shrimp roll so she brought it out. She also
+        brought one other incorrect roll to our table during all of this. I told
+        the sushi chef and he became very emotional (very kind but not going to
+        save me at ths point). They offered box my remaining rolls and allow me
+        to take it to go even though we ordered all you can eat. I went home and
+        experienced anaphylaxis about an hour after ingesting, had to use my
+        epi-pen, go to primary care and then urgent care as the allergen hadn't
+        fully left my system by the next day. They gave us 20 percent off. It
+        was not the best experience of my life. If I return I will definitely
+        sit at the bar. 20 percent off was inadequate compensation for all of
+        the trouble that it caused.
+      languageCode: en
+    originalText:
+      text: >-
+        My friend and I went for dinner one evening last week. I have been there
+        a few times. The Sushi is always good and fresh, service is usually
+        pretty good and i love the environment. When we went this past time I
+        ordered a calamari roll. The server brought a similar-looking roll to
+        the table and I ate about half of it. As I was halfway through with it
+        it she brought another roll to the table and said it was the calamari
+        roll. I was unaware that i was eating shrimp, which I'm allergic to
+        (They were both breaded and fried in these particular rolls so the
+        difference wasn't highly noticeable). I ended up turning very red and
+        itchy so we explained to the server what had happened. She thought we
+        were ordering another shrimp roll so she brought it out. She also
+        brought one other incorrect roll to our table during all of this. I told
+        the sushi chef and he became very emotional (very kind but not going to
+        save me at ths point). They offered box my remaining rolls and allow me
+        to take it to go even though we ordered all you can eat. I went home and
+        experienced anaphylaxis about an hour after ingesting, had to use my
+        epi-pen, go to primary care and then urgent care as the allergen hadn't
+        fully left my system by the next day. They gave us 20 percent off. It
+        was not the best experience of my life. If I return I will definitely
+        sit at the bar. 20 percent off was inadequate compensation for all of
+        the trouble that it caused.
+      languageCode: en
+    authorAttribution:
+      displayName: Bridget Tuttle
+      uri: https://www.google.com/maps/contrib/101270830421304372187/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJ46Bu0A74C53jXxzKiLZQK-3VSyEGAWAntRTZCVOGNfmtX1w=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-05T14:14:08.330093Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNJejd5Mzd3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNJejd5Mzd3RRAB!2m1!1s0x8099151a5e8fe677:0xbabccd48bdca9051
+review_summary: >-
+  What Customers Are Saying$$$Folks generally rave about the fresh fish and
+  well-crafted rolls at this popular sushi spot, noting how the flavors stand
+  out in a fun, approachable way that goes beyond standard options. Many
+  appreciate the friendly service and lively atmosphere, which add to the
+  overall enjoyment and make meals feel genuinely welcoming. While one
+  experience highlighted a mix-up with orders that affected someone with
+  allergies, the majority of feedback focuses on the attentive staff and
+  delicious variety that keeps things positive. If you're hunting for top-rated
+  sushi places nearby, this location offers a solid mix of quality and value,
+  encouraging visitors to try it for a satisfying bite. Overall, it's a go-to
+  for casual sushi lovers looking for honest, enjoyable dining without the fuss.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
+delivery: false
+dine_in: true
 good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: true
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
 serves_cocktails: null
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

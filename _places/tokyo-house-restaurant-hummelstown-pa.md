@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Tokyo House Restaurant"
+title: Tokyo House Restaurant
 permalink: /pennsylvania/hummelstown/tokyo-house-restaurant.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Hummelstown
 seo:
-  name: "Tokyo House Restaurant"
-  type: Restaurant
+  type: restaurant
   links: https://www.tokyohousepa.com/
-description: "Tokyo House Restaurant serves delicious sushi in Hummelstown, Pennsylvania. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ8VV33P67yIkRCohe7Sc8Aqw
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $20 &ndash; $30
 rating: '3.9'
 rating_count: 0
 website: https://www.tokyohousepa.com/
+description: >-
+  Discover Tokyo House in Hummelstown, PA$$$Tokyo House Restaurant in
+  Hummelstown, Pennsylvania, offers a relaxed dining experience with a focus on
+  authentic Japanese flavors, including flavorful hibachi meals and fresh sushi
+  options that appeal to a variety of tastes. This spot stands out for its
+  accessible features like wheelchair-friendly entrances and ample parking,
+  making it easy for everyone to enjoy a meal without hassle. Guests can explore
+  a range of dishes that cater to different preferences, such as vegan choices
+  and hearty entrees, all served in a casual setting perfect for casual outings
+  or family dinners. Whether you're searching for sushi restaurants near you or
+  Japanese places that deliver on taste and convenience, this establishment
+  combines affordability with a welcoming vibe that encourages repeat visits.
+generative_summary: >-
+  Discover Tokyo House in Hummelstown, PA$$$Tokyo House Restaurant in
+  Hummelstown, Pennsylvania, offers a relaxed dining experience with a focus on
+  authentic Japanese flavors, including flavorful hibachi meals and fresh sushi
+  options that appeal to a variety of tastes. This spot stands out for its
+  accessible features like wheelchair-friendly entrances and ample parking,
+  making it easy for everyone to enjoy a meal without hassle. Guests can explore
+  a range of dishes that cater to different preferences, such as vegan choices
+  and hearty entrees, all served in a casual setting perfect for casual outings
+  or family dinners. Whether you're searching for sushi restaurants near you or
+  Japanese places that deliver on taste and convenience, this establishment
+  combines affordability with a welcoming vibe that encourages repeat visits.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ8VV33P67yIkRCohe7Sc8Aqw/reviews/ChdDSUhNMG9nS0VJQ0FnTURReE1INHZBRRAB
@@ -442,6 +465,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNnbkpUT01BEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNnbkpUT01BEAE!2m1!1s0x89c8bbfedc7755f1:0xac023c27ed5e880a
+review_summary: >-
+  What Visitors Are Sharing$$$Visitors often praise the tasty hibachi dishes and
+  sushi rolls at this spot, highlighting the generous portions and fresh
+  ingredients that make for a satisfying meal. While some folks note occasional
+  inconsistencies in service, like slower attention or billing mix-ups, many
+  still appreciate the lively atmosphere and fun cooking style that keeps things
+  entertaining. Overall, it's a great choice for groups looking for affordable
+  Japanese cuisine, with positive feedback on the variety that includes
+  kid-friendly options and vegetarian picks. If you're on the hunt for sushi
+  places near me, this location delivers enjoyable moments despite a few areas
+  for improvement, leaving most people eager to return for another go.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -472,7 +507,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: null
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

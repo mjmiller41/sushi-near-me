@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Miyabi Sushi & Asian Bistro"
+title: Miyabi Sushi & Asian Bistro
 permalink: /minnesota/excelsior/miyabi-sushi-asian-bistro.html
 stateAbbr: MN
 stateName: Minnesota
 cityName: Excelsior
 seo:
-  name: "Miyabi Sushi & Asian Bistro"
-  type: Restaurant
+  type: restaurant
   links: http://www.miyabiexcelsior.com/
-description: "Creative sushi rolls share the menu with Japanese, Chinese & Thai entrees in a relaxed space. Miyabi Sushi & Asian Bistro serves delicious sushi in Excelsior, Minnesota. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJSbYhtdsc9ocRftkMpW88M60
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: null
 rating: '4.3'
 rating_count: 0
 website: http://www.miyabiexcelsior.com/
+description: >-
+  Experience Miyabi Sushi in Excelsior, MN$$$Miyabi Sushi & Asian Bistro in
+  Excelsior, Minnesota, delights visitors with its creative sushi rolls and a
+  selection of flavorful Asian entrees in a relaxed, welcoming setting. This
+  Japanese-inspired spot features a laid-back atmosphere complete with a bar,
+  making it ideal for casual dining or enjoying takeout options nearby. Guests
+  appreciate the thoughtful accessibility features and variety of dishes that
+  cater to different tastes, from fresh sushi to hearty Thai and Chinese
+  favorites. Whether you're seeking top-rated sushi places near you or exploring
+  Japanese restaurants in the area, this bistro stands out for its commitment to
+  quality ingredients and inviting vibe.
+generative_summary: >-
+  Experience Miyabi Sushi in Excelsior, MN$$$Miyabi Sushi & Asian Bistro in
+  Excelsior, Minnesota, delights visitors with its creative sushi rolls and a
+  selection of flavorful Asian entrees in a relaxed, welcoming setting. This
+  Japanese-inspired spot features a laid-back atmosphere complete with a bar,
+  making it ideal for casual dining or enjoying takeout options nearby. Guests
+  appreciate the thoughtful accessibility features and variety of dishes that
+  cater to different tastes, from fresh sushi to hearty Thai and Chinese
+  favorites. Whether you're seeking top-rated sushi places near you or exploring
+  Japanese restaurants in the area, this bistro stands out for its commitment to
+  quality ingredients and inviting vibe.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJSbYhtdsc9ocRftkMpW88M60/reviews/ChZDSUhNMG9nS0VJQ0FnSUNkME12N1NnEAE
@@ -340,6 +361,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURnMHF1Y3VBRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURnMHF1Y3VBRRAB!2m1!1s0x87f61cdbb521b649:0xad333c6fa50cd97e
+review_summary: >-
+  Customer Feedback on Miyabi Sushi$$$Folks rave about the tasty sushi and Asian
+  dishes at this spot, with many highlighting the fresh rolls and flavorful
+  entrees that make every meal enjoyable. While there have been a few mix-ups
+  with orders, the overall service remains friendly and efficient, especially
+  during busy times, leaving diners feeling well taken care of. Reviewers often
+  praise the excellent takeout packaging and great deals on the lunch menu,
+  making it a go-to for quick, satisfying meals when searching for sushi
+  restaurants nearby. Despite minor issues like undercooked sides in some cases,
+  the atmosphere and food variety keep things positive and worth trying again.
+  All in all, it's a solid choice for anyone craving reliable Asian flavors in a
+  casual environment.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -372,8 +406,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Creative sushi rolls share the menu with Japanese, Chinese & Thai entrees in a
   relaxed space.
 

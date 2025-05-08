@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Asuka Japanese Steak House & Sushi"
+title: Asuka Japanese Steak House & Sushi
 permalink: /kentucky/nicholasville/asuka-japanese-steak-house-sushi.html
 stateAbbr: KY
 stateName: Kentucky
 cityName: Nicholasville
 seo:
-  name: "Asuka Japanese Steak House & Sushi"
-  type: Restaurant
-  links: null
-description: "Asuka Japanese Steak House & Sushi serves delicious sushi in Nicholasville, Kentucky. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.asukagrill.com/
 place_id: ChIJ09dBWxNcQogRYdLuEI7I_1U
 photos:
   - name: >-
@@ -170,22 +168,211 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x88425c135b41d7d3:0x55ffc88e10eed261!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 2:30 PM, 5:00 – 10:00 PM'
+    - 'Tuesday: 11:00 AM – 2:30 PM, 5:00 – 10:00 PM'
+    - 'Wednesday: 11:00 AM – 2:30 PM, 5:00 – 10:00 PM'
+    - 'Thursday: 11:00 AM – 2:30 PM, 5:00 – 10:00 PM'
+    - 'Friday: 11:00 AM – 2:30 PM, 5:00 – 11:00 PM'
+    - 'Saturday: 11:00 AM – 11:00 PM'
+    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+  - openNow: false
+    periods:
+      - open:
+          day: 1
+          hour: 17
+          minute: 0
+        close:
+          day: 1
+          hour: 19
+          minute: 0
+      - open:
+          day: 2
+          hour: 17
+          minute: 0
+        close:
+          day: 2
+          hour: 19
+          minute: 0
+      - open:
+          day: 3
+          hour: 17
+          minute: 0
+        close:
+          day: 3
+          hour: 19
+          minute: 0
+      - open:
+          day: 4
+          hour: 17
+          minute: 0
+        close:
+          day: 4
+          hour: 19
+          minute: 0
+      - open:
+          day: 5
+          hour: 17
+          minute: 0
+        close:
+          day: 5
+          hour: 19
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 5:00 – 7:00 PM'
+      - 'Tuesday: 5:00 – 7:00 PM'
+      - 'Wednesday: 5:00 – 7:00 PM'
+      - 'Thursday: 5:00 – 7:00 PM'
+      - 'Friday: 5:00 – 7:00 PM'
+      - 'Saturday: Closed'
+      - 'Sunday: Closed'
+    secondaryHoursType: HAPPY_HOUR
+    nextOpenTime: '2025-05-05T21:00:00Z'
+phone: (859) 272-0020
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.5'
+rating_count: 1476
+website: http://www.asukagrill.com/
+description: >-
+  Explore Asuka Japanese Steak House in Nicholasville, KY$$$Asuka Japanese Steak
+  House & Sushi in Nicholasville, KY, stands out as a welcoming spot for
+  enjoying fresh Japanese dishes in a relaxed setting. This eatery specializes
+  in flavorful sushi rolls and lively teppanyaki experiences, complemented by a
+  variety of familiar favorites that cater to diverse tastes. With options for
+  happy hours and accessible features like wheelchair-friendly parking and
+  entrances, it makes for an inclusive choice for casual diners seeking quality
+  meals. The moderate pricing adds to its appeal for those exploring local sushi
+  restaurants, ensuring a satisfying experience without breaking the bank.
+  Overall, it's a great place to savor authentic flavors and vibrant dining
+  vibes in the heart of the area.
+generative_summary: >-
+  Explore Asuka Japanese Steak House in Nicholasville, KY$$$Asuka Japanese Steak
+  House & Sushi in Nicholasville, KY, stands out as a welcoming spot for
+  enjoying fresh Japanese dishes in a relaxed setting. This eatery specializes
+  in flavorful sushi rolls and lively teppanyaki experiences, complemented by a
+  variety of familiar favorites that cater to diverse tastes. With options for
+  happy hours and accessible features like wheelchair-friendly parking and
+  entrances, it makes for an inclusive choice for casual diners seeking quality
+  meals. The moderate pricing adds to its appeal for those exploring local sushi
+  restaurants, ensuring a satisfying experience without breaking the bank.
+  Overall, it's a great place to savor authentic flavors and vibrant dining
+  vibes in the heart of the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Visitor Feedback on Asuka's Dining Experience$$$Folks who visit Asuka often
+  rave about the fresh and creative sushi selections that hit the spot for
+  anyone craving Japanese-inspired eats nearby. Many appreciate the entertaining
+  teppanyaki cooking shows and the overall friendly atmosphere that keeps things
+  light and enjoyable. While some mention minor waits during peak times, the
+  general consensus highlights solid portion sizes and good value for the price,
+  making it a reliable pick for groups or families. Customers frequently note
+  the tasty variety of options that go beyond just rolls, adding to the fun of
+  discovering new favorites. All in all, the high marks reflect a consistently
+  positive vibe, encouraging repeat visits for those hunting for top-rated sushi
+  spots in the region.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +398,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

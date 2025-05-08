@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Omee J Fusion Sushi Bar & Grill"
+title: Omee J Fusion Sushi Bar & Grill
 permalink: /california/santa-clara/omee-j-fusion-sushi-bar-grill.html
 stateAbbr: CA
 stateName: California
 cityName: Santa Clara
 seo:
-  name: "Omee J Fusion Sushi Bar & Grill"
-  type: Restaurant
+  type: restaurant
   links: http://www.omeejfusionmenu.com/
-description: "Omee J Fusion Sushi Bar & Grill serves delicious sushi in Santa Clara, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJWTJJg4_Kj4ARDmeGeg4fRog
 photos:
   - name: >-
@@ -170,7 +168,97 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x808fca8f83493259:0x88461f0e7a86670e!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 13
+        minute: 30
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 13
+        minute: 30
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 13
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 13
+        minute: 30
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 13
+        minute: 30
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:30 AM – 1:30 PM, 5:00 – 8:30 PM'
     - 'Wednesday: 11:30 AM – 1:30 PM, 5:00 – 8:30 PM'
@@ -178,14 +266,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 1:30 PM, 5:00 – 9:00 PM'
     - 'Saturday: 11:30 AM – 1:30 PM, 5:00 – 9:00 PM'
     - 'Sunday: 5:00 – 8:30 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:30 AM – 1:30 PM, 5:00 – 8:30 PM'
-    - 'Wednesday: 11:30 AM – 1:30 PM, 5:00 – 8:30 PM'
-    - 'Thursday: 11:30 AM – 1:30 PM, 5:00 – 8:30 PM'
-    - 'Friday: 11:30 AM – 1:30 PM, 5:00 – 9:00 PM'
-    - 'Saturday: 11:30 AM – 1:30 PM, 5:00 – 9:00 PM'
-    - 'Sunday: 5:00 – 8:30 PM'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +278,238 @@ phone: (408) 243-8282
 price_level: PRICE_LEVEL_MODERATE
 price_range: $30 &ndash; $50
 rating: '4.4'
-rating_count: 0
+rating_count: 355
 website: http://www.omeejfusionmenu.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Omee J in Santa Clara, CA$$$Nestled in Santa Clara, CA, Omee J Fusion
+  Sushi Bar & Grill stands out as a premier spot for fresh sushi and Japanese
+  cuisine, blending contemporary decor with creative presentations that appeal
+  to sushi enthusiasts. This inviting restaurant offers a variety of dishes like
+  nigiri, inventive rolls, bento boxes, and udon, all crafted in a casual yet
+  stylish atmosphere that makes it ideal for a relaxed meal. Accessibility
+  features such as wheelchair-friendly entrances and parking enhance the
+  experience, ensuring everyone can enjoy the flavorful offerings without
+  hassle. With moderate pricing and options for dine-in or takeout, it's a go-to
+  choice for those seeking top sushi restaurants near me, complete with beer and
+  wine selections to complement the meal. The focus on artful plating and
+  quality ingredients creates a welcoming vibe for anyone exploring Japanese
+  places near me.
+generative_summary: >-
+  Discover Omee J in Santa Clara, CA$$$Nestled in Santa Clara, CA, Omee J Fusion
+  Sushi Bar & Grill stands out as a premier spot for fresh sushi and Japanese
+  cuisine, blending contemporary decor with creative presentations that appeal
+  to sushi enthusiasts. This inviting restaurant offers a variety of dishes like
+  nigiri, inventive rolls, bento boxes, and udon, all crafted in a casual yet
+  stylish atmosphere that makes it ideal for a relaxed meal. Accessibility
+  features such as wheelchair-friendly entrances and parking enhance the
+  experience, ensuring everyone can enjoy the flavorful offerings without
+  hassle. With moderate pricing and options for dine-in or takeout, it's a go-to
+  choice for those seeking top sushi restaurants near me, complete with beer and
+  wine selections to complement the meal. The focus on artful plating and
+  quality ingredients creates a welcoming vibe for anyone exploring Japanese
+  places near me.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJWTJJg4_Kj4ARDmeGeg4fRog/reviews/ChdDSUhNMG9nS0VJQ0FnTURJMzZpRHhnRRAB
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 4
+    text:
+      text: >-
+        The rolls were yummy. The Tropicana is on the sweeter side but a good
+        palate cleanser. The Golden State is also light and refreshing. The
+        Overtime is a little too spicy for me. My favorite is the Firefighter.
+
+        Don't get the mochi ice cream, I'm pretty sure it's store-bought mochi
+        ice cream where you can get for a quarter of the price.
+      languageCode: en
+    originalText:
+      text: >-
+        The rolls were yummy. The Tropicana is on the sweeter side but a good
+        palate cleanser. The Golden State is also light and refreshing. The
+        Overtime is a little too spicy for me. My favorite is the Firefighter.
+
+        Don't get the mochi ice cream, I'm pretty sure it's store-bought mochi
+        ice cream where you can get for a quarter of the price.
+      languageCode: en
+    authorAttribution:
+      displayName: Adri
+      uri: https://www.google.com/maps/contrib/110120375348101615817/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIbrNKKZlMOHK3YN70wm89KrgFSFL7fDHVTtas04LMJp1QSbcSV=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-14T01:46:36.847486Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJMzZpRHhnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJMzZpRHhnRRAB!2m1!1s0x808fca8f83493259:0x88461f0e7a86670e
+  - name: >-
+      places/ChIJWTJJg4_Kj4ARDmeGeg4fRog/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJanU3anZnRRAB
+    relativePublishTimeDescription: 4 weeks ago
+    rating: 5
+    text:
+      text: >-
+        Their rolls and sushi are excellent.   They have many rolls to choose
+        from.  I tried many other Japanese places and their sushi/rolls still
+        taste the best.
+      languageCode: en
+    originalText:
+      text: >-
+        Their rolls and sushi are excellent.   They have many rolls to choose
+        from.  I tried many other Japanese places and their sushi/rolls still
+        taste the best.
+      languageCode: en
+    authorAttribution:
+      displayName: Katrina
+      uri: https://www.google.com/maps/contrib/101742864985390427478/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJRodknu_bUnXtr-yQIXnP83aUztDPJGrWK7krNy67iX5PODQ=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-05T08:43:12.468681Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNJanU3anZnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNJanU3anZnRRAB!2m1!1s0x808fca8f83493259:0x88461f0e7a86670e
+  - name: >-
+      places/ChIJWTJJg4_Kj4ARDmeGeg4fRog/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJcklPcVN3EAE
+    relativePublishTimeDescription: a month ago
+    rating: 3
+    text:
+      text: >-
+        Decent quality food, albeit rather expensive sushi ($13 for a plate of
+        nigiri sushi!).  My biggest problem is the curtness of the service,
+        being rushed out and asking if we want to pack up our food to go while
+        still eating and having finished less than half our food.
+      languageCode: en
+    originalText:
+      text: >-
+        Decent quality food, albeit rather expensive sushi ($13 for a plate of
+        nigiri sushi!).  My biggest problem is the curtness of the service,
+        being rushed out and asking if we want to pack up our food to go while
+        still eating and having finished less than half our food.
+      languageCode: en
+    authorAttribution:
+      displayName: Hans Goertz
+      uri: https://www.google.com/maps/contrib/108667495110478548130/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJIKzYxWhpKHrVbwmqOyBzjFABz_OI-XAdqhVxFU15R0phknA=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2025-03-31T01:23:36.377697Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNJcklPcVN3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNJcklPcVN3EAE!2m1!1s0x808fca8f83493259:0x88461f0e7a86670e
+  - name: >-
+      places/ChIJWTJJg4_Kj4ARDmeGeg4fRog/reviews/ChdDSUhNMG9nS0VJQ0FnSUNmdVktcHFBRRAB
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        One of my favorite sushi restaurants in California. It does not
+        disappoint. Clean. Service is amazing. Chefs and Servers are kind. I
+        always order the Josee roll. A little bit of cilantro, a little bit of
+        spice, tender tuna…it’s chefs kiss!
+      languageCode: en
+    originalText:
+      text: >-
+        One of my favorite sushi restaurants in California. It does not
+        disappoint. Clean. Service is amazing. Chefs and Servers are kind. I
+        always order the Josee roll. A little bit of cilantro, a little bit of
+        spice, tender tuna…it’s chefs kiss!
+      languageCode: en
+    authorAttribution:
+      displayName: Amanda Peixoto
+      uri: https://www.google.com/maps/contrib/113537666916572638619/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWXgksEgilSnsLur3RQpnngV7DmJ4sMi-rCBdaWCRUaRu2cpRE=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2024-12-30T18:38:57.523909Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNmdVktcHFBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNmdVktcHFBRRAB!2m1!1s0x808fca8f83493259:0x88461f0e7a86670e
+  - name: >-
+      places/ChIJWTJJg4_Kj4ARDmeGeg4fRog/reviews/ChdDSUhNMG9nS0VJQ0FnSUM3eXJMLWlBRRAB
+    relativePublishTimeDescription: 8 months ago
+    rating: 4
+    text:
+      text: >-
+        We’ve been going to Omee J for years for their sushi, fusion bentos and
+        sides.
+
+        They have a variety of rolls that are fun to choose from and look
+        forward to.
+
+        Quality is good for fusion Japanese cuisine. There are lots of spicy
+        options which is not traditionally in Japanese cooking, like jalapeños
+        and spicy cooked options.
+      languageCode: en
+    originalText:
+      text: >-
+        We’ve been going to Omee J for years for their sushi, fusion bentos and
+        sides.
+
+        They have a variety of rolls that are fun to choose from and look
+        forward to.
+
+        Quality is good for fusion Japanese cuisine. There are lots of spicy
+        options which is not traditionally in Japanese cooking, like jalapeños
+        and spicy cooked options.
+      languageCode: en
+    authorAttribution:
+      displayName: A S
+      uri: https://www.google.com/maps/contrib/115358836964105037517/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIAHO6Y8qqHsZxoVCTlJSPrz5_3od-7QJsZLT3D28WyOOf7IIyE=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-08-14T17:01:28.026811Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUM3eXJMLWlBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUM3eXJMLWlBRRAB!2m1!1s0x808fca8f83493259:0x88461f0e7a86670e
+review_summary: >-
+  What Customers Are Buzzing About$$$Visitors often rave about the delicious
+  variety of rolls and sushi at this spot, highlighting the fresh flavors and
+  creative options that keep them coming back for more. Many appreciate the
+  range of choices, from light and refreshing picks to spicier fusions, making
+  it a solid pick for anyone craving the best sushi near me. While most feedback
+  praises the quality and friendly service, some note that portions can feel
+  pricey or that certain items like desserts might not always impress. Overall,
+  the atmosphere and food execution earn high marks, with folks enjoying it for
+  group outings or quick lunches. If you're on the hunt for reliable sushi
+  places near me, this location delivers a generally positive experience that's
+  worth trying for its standout dishes and welcoming feel.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
+curbside_pickup: false
+delivery: false
+dine_in: true
+good_for_children: false
+good_for_groups: true
 good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
 serves_breakfast: null
-serves_brunch: null
+serves_brunch: false
 serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Stylish Japanese restaurant with contemporary decor serving creative, artfully
+  presented sushi.
 
 ---

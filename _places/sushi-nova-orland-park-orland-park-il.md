@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Nova - Orland Park"
+title: Sushi Nova - Orland Park
 permalink: /illinois/orland-park/sushi-nova-orland-park.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Orland Park
 seo:
-  name: "Sushi Nova - Orland Park"
-  type: Restaurant
-  links: null
-description: "Sushi Nova - Orland Park serves delicious sushi in Orland Park, Illinois. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.orderonlinehub.com/sushinova_2586ftwqawtrgfagh
 place_id: ChIJ-2KAAX0_DogRIKTVCo5zb6k
 photos:
   - name: >-
@@ -149,8 +147,8 @@ state: IL
 zip: '60467'
 country: USA
 neighborhood: null
-latitude: '41.597159'
-longitude: '-87.851425'
+latitude: '41.598309'
+longitude: '-87.851724'
 accessibility_options:
   wheelchairAccessibleParking: true
   wheelchairAccessibleEntrance: true
@@ -170,8 +168,113 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x880e3f7d018062fb:0xa96f738e0ad5a420!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 15
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 15
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 3:00 PM, 4:30 – 9:30 PM'
+    - 'Tuesday: 11:00 AM – 3:00 PM, 4:30 – 9:30 PM'
+    - 'Wednesday: 11:00 AM – 3:00 PM, 4:30 – 9:30 PM'
+    - 'Thursday: 11:00 AM – 3:00 PM, 4:30 – 9:30 PM'
+    - 'Friday: 11:00 AM – 3:00 PM, 4:30 – 10:30 PM'
+    - 'Saturday: 11:00 AM – 10:30 PM'
+    - 'Sunday: 12:00 – 9:30 PM'
+  nextCloseTime: '2025-05-04T03:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +282,51 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (708) 460-4778
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.3'
+rating_count: 1148
+website: https://www.orderonlinehub.com/sushinova_2586ftwqawtrgfagh
+description: >-
+  About Sushi Nova in Orland Park, IL$$$Sushi Nova in Orland Park, IL, stands
+  out as a casual destination for enjoying fresh Japanese-inspired dishes and an
+  array of sushi options that cater to various tastes. This spot offers an
+  all-you-can-eat experience during lunch and dinner, making it a go-to choice
+  for those seeking affordable yet flavorful Japanese dining near you. With
+  thoughtful accessibility features like wheelchair-friendly entrances and
+  seating, it ensures a comfortable visit for everyone. The restaurant's
+  welcoming vibe and reliable hours, including evenings and weekends, add to its
+  appeal for families or groups looking for top-rated sushi spots. Overall, it's
+  a solid option for anyone exploring local sushi restaurants that blend quality
+  and convenience seamlessly.
+generative_summary: >-
+  About Sushi Nova in Orland Park, IL$$$Sushi Nova in Orland Park, IL, stands
+  out as a casual destination for enjoying fresh Japanese-inspired dishes and an
+  array of sushi options that cater to various tastes. This spot offers an
+  all-you-can-eat experience during lunch and dinner, making it a go-to choice
+  for those seeking affordable yet flavorful Japanese dining near you. With
+  thoughtful accessibility features like wheelchair-friendly entrances and
+  seating, it ensures a comfortable visit for everyone. The restaurant's
+  welcoming vibe and reliable hours, including evenings and weekends, add to its
+  appeal for families or groups looking for top-rated sushi spots. Overall, it's
+  a solid option for anyone exploring local sushi restaurants that blend quality
+  and convenience seamlessly.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this sushi spot often highlight the
+  consistently fresh flavors and generous portions that make meals feel
+  worthwhile, based on its strong overall rating. Many appreciate the variety of
+  rolls and Japanese-inspired dishes that deliver great value without breaking
+  the bank, turning it into a reliable favorite for casual outings. While some
+  note minor waits during peak times, the friendly service and welcoming
+  atmosphere generally leave people satisfied and coming back for more. Folks
+  frequently mention the all-you-can-eat deals as a standout feature that
+  enhances the experience, especially for groups or sushi lovers exploring
+  options nearby. In summary, it's a solid pick for anyone craving tasty,
+  accessible Japanese cuisine with a positive, laid-back vibe.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +352,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

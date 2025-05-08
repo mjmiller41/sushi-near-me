@@ -5,4 +5,5 @@ permalink: /washington/camas/
 stateAbbr: WA
 stateName: Washington
 cityName: Camas
+
 ---

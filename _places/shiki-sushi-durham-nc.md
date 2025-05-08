@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Shiki Sushi"
+title: Shiki Sushi
 permalink: /north-carolina/durham/shiki-sushi.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Durham
 seo:
-  name: "Shiki Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://shikitasu.com/
-description: "Shiki Sushi serves delicious sushi in Durham, North Carolina. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJOWMpsrPorIkRfufiJCXdtjg
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89ace8b3b2296339:0x38b6dd2524e2e77e!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:00 PM'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -178,28 +234,123 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:00 PM'
     - 'Saturday: 11:00 AM – 10:00 PM'
     - 'Sunday: 11:00 AM – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 10:00 PM'
-    - 'Saturday: 11:00 AM – 10:00 PM'
-    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 11
+          minute: 0
+        close:
+          day: 0
+          hour: 20
+          minute: 0
+      - open:
+          day: 1
+          hour: 11
+          minute: 0
+        close:
+          day: 1
+          hour: 20
+          minute: 0
+      - open:
+          day: 2
+          hour: 11
+          minute: 0
+        close:
+          day: 2
+          hour: 20
+          minute: 0
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 20
+          minute: 0
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 20
+          minute: 0
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 20
+          minute: 0
+      - open:
+          day: 6
+          hour: 11
+          minute: 0
+        close:
+          day: 6
+          hour: 20
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 11:00 AM – 8:00 PM'
+      - 'Tuesday: 11:00 AM – 8:00 PM'
+      - 'Wednesday: 11:00 AM – 8:00 PM'
+      - 'Thursday: 11:00 AM – 8:00 PM'
+      - 'Friday: 11:00 AM – 8:00 PM'
+      - 'Saturday: 11:00 AM – 8:00 PM'
+      - 'Sunday: 11:00 AM – 8:00 PM'
+    secondaryHoursType: TAKEOUT
+    nextCloseTime: '2025-05-04T00:00:00Z'
 phone: (919) 484-4108
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.2'
-rating_count: 0
+rating_count: 2136
 website: http://shikitasu.com/
+description: >-
+  Discover Shiki Sushi in Durham, NC$$$Shiki Sushi in Durham, NC, stands out as
+  a welcoming spot for sushi enthusiasts, blending Japanese, Thai, and
+  Vietnamese flavors in a laid-back environment. This sushi restaurant features
+  an extensive menu with fresh rolls, flavorful entrees, and creative
+  appetizers, making it a go-to choice for anyone craving authentic Asian
+  cuisine nearby. Accessibility is a key highlight, with wheelchair-friendly
+  parking, entrances, and seating options that ensure everyone can enjoy the
+  experience. Operating daily from late morning into the evening, it caters to
+  both quick lunches and relaxed dinners, earning praise for its consistent
+  quality and vibrant atmosphere. Whether you're exploring top-rated sushi
+  options in the area, Shiki Sushi delivers a satisfying mix of tastes and
+  convenience that keeps locals coming back.
+generative_summary: >-
+  Discover Shiki Sushi in Durham, NC$$$Shiki Sushi in Durham, NC, stands out as
+  a welcoming spot for sushi enthusiasts, blending Japanese, Thai, and
+  Vietnamese flavors in a laid-back environment. This sushi restaurant features
+  an extensive menu with fresh rolls, flavorful entrees, and creative
+  appetizers, making it a go-to choice for anyone craving authentic Asian
+  cuisine nearby. Accessibility is a key highlight, with wheelchair-friendly
+  parking, entrances, and seating options that ensure everyone can enjoy the
+  experience. Operating daily from late morning into the evening, it caters to
+  both quick lunches and relaxed dinners, earning praise for its consistent
+  quality and vibrant atmosphere. Whether you're exploring top-rated sushi
+  options in the area, Shiki Sushi delivers a satisfying mix of tastes and
+  convenience that keeps locals coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Folks who stop by this sushi spot often highlight
+  the delicious variety of rolls and hibachi dishes that make every meal feel
+  fresh and exciting. Many appreciate the spacious interior and attentive
+  service, which create a comfortable vibe perfect for casual outings or groups.
+  The menu's wide selection of appetizers, soups, and drinks, including tasty
+  cocktails and local brews, adds to the overall fun and flavorful experience.
+  While some mention that prices lean toward the higher end, the quality of the
+  food and welcoming feel generally make it a worthwhile choice for sushi
+  lovers. All in all, it's a solid pick if you're hunting for reliable sushi
+  places nearby, offering a balance of great tastes and friendly vibes that
+  leave diners satisfied.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +376,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

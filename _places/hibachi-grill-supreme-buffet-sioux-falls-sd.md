@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Hibachi Grill & Supreme Buffet"
+title: Hibachi Grill & Supreme Buffet
 permalink: /south-dakota/sioux-falls/hibachi-grill-supreme-buffet.html
 stateAbbr: SD
 stateName: South Dakota
 cityName: Sioux Falls
 seo:
-  name: "Hibachi Grill & Supreme Buffet"
-  type: Restaurant
-  links: null
-description: "Hibachi Grill & Supreme Buffet serves delicious sushi in Sioux Falls, South Dakota. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://hibachigrillsiouxfalls.com/
 place_id: ChIJYZ6_-we2jocRoIswD0fOYgQ
 photos:
   - name: >-
@@ -156,7 +154,7 @@ accessibility_options:
   wheelchairAccessibleEntrance: true
   wheelchairAccessibleRestroom: true
   wheelchairAccessibleSeating: true
-business_status: CLOSED_TEMPORARILY
+business_status: OPERATIONAL
 name: Hibachi Grill & Supreme Buffet
 google_maps_links:
   directionsUri: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x878eb607fbbf9e61:0x462ce470f308ba0!10e5
 primary_type: Chinese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:30 PM'
+    - 'Tuesday: 11:00 AM – 9:30 PM'
+    - 'Wednesday: 11:00 AM – 9:30 PM'
+    - 'Thursday: 11:00 AM – 9:30 PM'
+    - 'Friday: 11:00 AM – 10:00 PM'
+    - 'Saturday: 11:00 AM – 10:00 PM'
+    - 'Sunday: 11:00 AM – 9:30 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,54 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (605) 335-3388
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.0'
+rating_count: 4247
+website: http://hibachigrillsiouxfalls.com/
+description: >-
+  Discover Hibachi Grill & Supreme Buffet in Sioux Falls, SD$$$Hibachi Grill &
+  Supreme Buffet in Sioux Falls, SD, stands out as a laid-back dining
+  destination where fresh flavors meet variety in a welcoming atmosphere. This
+  spot features an all-you-can-eat selection of classic Asian-inspired dishes,
+  including a vibrant array of sushi options that appeal to those seeking tasty
+  Japanese-style eats nearby. Visitors can enjoy interactive hibachi grilling
+  stations alongside traditional favorites, making it a great choice for
+  families or groups looking for affordable and accessible meals. The restaurant
+  prioritizes convenience with wheelchair-friendly features and extended hours,
+  ensuring everyone can savor the experience. Whether you're in the mood for
+  top-rated sushi or hearty buffets, this location offers a satisfying blend of
+  quality and value for casual outings.
+generative_summary: >-
+  Discover Hibachi Grill & Supreme Buffet in Sioux Falls, SD$$$Hibachi Grill &
+  Supreme Buffet in Sioux Falls, SD, stands out as a laid-back dining
+  destination where fresh flavors meet variety in a welcoming atmosphere. This
+  spot features an all-you-can-eat selection of classic Asian-inspired dishes,
+  including a vibrant array of sushi options that appeal to those seeking tasty
+  Japanese-style eats nearby. Visitors can enjoy interactive hibachi grilling
+  stations alongside traditional favorites, making it a great choice for
+  families or groups looking for affordable and accessible meals. The restaurant
+  prioritizes convenience with wheelchair-friendly features and extended hours,
+  ensuring everyone can savor the experience. Whether you're in the mood for
+  top-rated sushi or hearty buffets, this location offers a satisfying blend of
+  quality and value for casual outings.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About the Experience$$$Folks generally rave about
+  the wide variety of dishes at this buffet, highlighting the fresh sushi and
+  flavorful hibachi options that keep diners coming back for more. Many
+  appreciate the generous portions and reasonable prices, making it a solid pick
+  for anyone searching for reliable sushi spots in the area. While some mention
+  occasional inconsistencies in food temperature or wait times during peak
+  hours, the overall vibe remains positive with praise for the friendly service
+  and family-friendly setup. It's clear that the value for money resonates with
+  visitors, as the solid rating reflects enjoyment from those exploring
+  Japanese-inspired places nearby. All in all, this spot delivers a fun and
+  fulfilling meal that leaves most patrons eager to return for another round of
+  favorites.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +315,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

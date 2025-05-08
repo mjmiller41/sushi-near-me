@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Trifecta"
+title: Trifecta
 permalink: /california/san-jose/trifecta.html
 stateAbbr: CA
 stateName: California
 cityName: San Jose
 seo:
-  name: "Trifecta"
-  type: Restaurant
+  type: restaurant
   links: https://www.trifectaomakase.com/
-description: "Trifecta serves delicious sushi in San Jose, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJz0CQR38tjoAR6ML_ec0ctPk
 photos:
   - name: >-
@@ -169,7 +167,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x808e2d7f479040cf:0xf9b41ccd79ffc2e8!10e5
 primary_type: Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 14
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 14
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 5:00 – 9:00 PM'
     - 'Wednesday: 5:00 – 9:00 PM'
@@ -177,14 +233,7 @@ opening_hours:
     - 'Friday: 5:00 – 9:00 PM'
     - 'Saturday: 11:00 AM – 2:00 PM, 5:00 – 9:00 PM'
     - 'Sunday: 11:00 AM – 2:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 5:00 – 9:00 PM'
-    - 'Wednesday: 5:00 – 9:00 PM'
-    - 'Thursday: 5:00 – 10:00 PM'
-    - 'Friday: 5:00 – 9:00 PM'
-    - 'Saturday: 11:00 AM – 2:00 PM, 5:00 – 9:00 PM'
-    - 'Sunday: 11:00 AM – 2:00 PM'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,35 +245,274 @@ phone: (408) 531-1628
 price_level: null
 price_range: $50 &ndash; $100
 rating: '4.4'
-rating_count: 0
+rating_count: 39
 website: https://www.trifectaomakase.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Experience Trifecta in San Jose$$$Trifecta in San Jose, CA, stands out as a
+  welcoming spot for fresh Japanese-inspired dining, blending traditional
+  flavors with a cozy neighborhood vibe. This restaurant offers an array of
+  expertly prepared sushi and omakase experiences that highlight high-quality
+  ingredients and thoughtful presentations, making it a go-to choice for sushi
+  enthusiasts in the area. With accessibility features like wheelchair-friendly
+  entrances and seating, along with convenient parking, it caters to a wide
+  range of diners seeking a relaxed yet refined meal. Evening hours provide
+  opportunities for savoring cocktails and wine alongside flavorful dishes,
+  enhancing the overall appeal for those exploring top-rated sushi options
+  nearby. Whether you're in the mood for a quick lunch or an intimate dinner,
+  Trifecta delivers a memorable taste of Japanese cuisine that's worth
+  discovering in the Evergreen district.
+generative_summary: >-
+  Experience Trifecta in San Jose$$$Trifecta in San Jose, CA, stands out as a
+  welcoming spot for fresh Japanese-inspired dining, blending traditional
+  flavors with a cozy neighborhood vibe. This restaurant offers an array of
+  expertly prepared sushi and omakase experiences that highlight high-quality
+  ingredients and thoughtful presentations, making it a go-to choice for sushi
+  enthusiasts in the area. With accessibility features like wheelchair-friendly
+  entrances and seating, along with convenient parking, it caters to a wide
+  range of diners seeking a relaxed yet refined meal. Evening hours provide
+  opportunities for savoring cocktails and wine alongside flavorful dishes,
+  enhancing the overall appeal for those exploring top-rated sushi options
+  nearby. Whether you're in the mood for a quick lunch or an intimate dinner,
+  Trifecta delivers a memorable taste of Japanese cuisine that's worth
+  discovering in the Evergreen district.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJz0CQR38tjoAR6ML_ec0ctPk/reviews/ChdDSUhNMG9nS0VJQ0FnTUNnOHNyNGt3RRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        💖 Valentine Omakase 💖
+
+
+        I wanted to thank the restaurant for such a sweet valentine experience
+        yesterday.
+
+
+        The price to taste ratio was very fair, in my opinion. It’s not easy to
+        find a tasting menu where everything is such high quality and flavor. In
+        the past I think I have paid more for less, so I am appreciative and
+        respect it.
+
+
+        I could feel the genuine heart and soul they have put into the menu -
+        and hope to come back for future dining journeys.
+
+
+        Thank you! 💖
+
+
+        PS: my favorites were 1st (the gems), 2nd (the middle fish - so clean
+        and meaty tasting), 4th (the pudding thing and sausage thing was fire -
+        this was something I’ve never tried), 5th (literally liked every nigiri,
+        no wasted time. Good use of shiso)
+      languageCode: en
+    originalText:
+      text: >-
+        💖 Valentine Omakase 💖
+
+
+        I wanted to thank the restaurant for such a sweet valentine experience
+        yesterday.
+
+
+        The price to taste ratio was very fair, in my opinion. It’s not easy to
+        find a tasting menu where everything is such high quality and flavor. In
+        the past I think I have paid more for less, so I am appreciative and
+        respect it.
+
+
+        I could feel the genuine heart and soul they have put into the menu -
+        and hope to come back for future dining journeys.
+
+
+        Thank you! 💖
+
+
+        PS: my favorites were 1st (the gems), 2nd (the middle fish - so clean
+        and meaty tasting), 4th (the pudding thing and sausage thing was fire -
+        this was something I’ve never tried), 5th (literally liked every nigiri,
+        no wasted time. Good use of shiso)
+      languageCode: en
+    authorAttribution:
+      displayName: E Woo
+      uri: https://www.google.com/maps/contrib/105462826713745957836/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUXLUMJMgVZEPJ6U3bw3B97UQ85Zlhzei67pOcIcwVTUoR3-DRa=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-02-15T19:13:43.363576Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNnOHNyNGt3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNnOHNyNGt3RRAB!2m1!1s0x808e2d7f479040cf:0xf9b41ccd79ffc2e8
+  - name: >-
+      places/ChIJz0CQR38tjoAR6ML_ec0ctPk/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3ME4tWkJBEAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Such a great experience! We arrived without a reservation and they were
+        very kind and made things work to make sure we could dine in. The food
+        was AMAZING and worth every penny!
+      languageCode: en
+    originalText:
+      text: >-
+        Such a great experience! We arrived without a reservation and they were
+        very kind and made things work to make sure we could dine in. The food
+        was AMAZING and worth every penny!
+      languageCode: en
+    authorAttribution:
+      displayName: Jackeline Espinoza
+      uri: https://www.google.com/maps/contrib/116687039045041685578/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXLkmscufgIThEatAw4oDdV8lKDS9z453eaOusRsxD_eTEVBZZk=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-22T21:22:04.313468Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUR3ME4tWkJBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUR3ME4tWkJBEAE!2m1!1s0x808e2d7f479040cf:0xf9b41ccd79ffc2e8
+  - name: >-
+      places/ChIJz0CQR38tjoAR6ML_ec0ctPk/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ3bG9hQVJnEAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        Excellent Japanese food. Welcome to the neighborhood! I’ve had both
+        their cold food and cooked food and it’s all amazing. They do a great
+        job at traditional Japanese cuisine and they add a Pilipino flair here
+        and there to keep you on your toes. They do not disappoint. Small venue.
+        Make a reservation if you want to be sure to get a seat.
+      languageCode: en
+    originalText:
+      text: >-
+        Excellent Japanese food. Welcome to the neighborhood! I’ve had both
+        their cold food and cooked food and it’s all amazing. They do a great
+        job at traditional Japanese cuisine and they add a Pilipino flair here
+        and there to keep you on your toes. They do not disappoint. Small venue.
+        Make a reservation if you want to be sure to get a seat.
+      languageCode: en
+    authorAttribution:
+      displayName: Tom Santos
+      uri: https://www.google.com/maps/contrib/111756575545076273403/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWyPk2c5X5SgNeGxR42sIGA6QAHSSnZBUEKMfXMOlSantYP343R=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-02-01T03:52:58.233564Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQ3bG9hQVJnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQ3bG9hQVJnEAE!2m1!1s0x808e2d7f479040cf:0xf9b41ccd79ffc2e8
+  - name: >-
+      places/ChIJz0CQR38tjoAR6ML_ec0ctPk/reviews/ChZDSUhNMG9nS0VJQ0FnSUN2c2JDYVlREAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        I really enjoy dining here. It’s not the type of place where you want to
+        go eat McDonalds immediately after because you’ll leave here fat and
+        happy. Why go to a Michelin star sushi place when you can support a
+        local family business! 🧡
+      languageCode: en
+    originalText:
+      text: >-
+        I really enjoy dining here. It’s not the type of place where you want to
+        go eat McDonalds immediately after because you’ll leave here fat and
+        happy. Why go to a Michelin star sushi place when you can support a
+        local family business! 🧡
+      languageCode: en
+    authorAttribution:
+      displayName: Jenny Garcia
+      uri: https://www.google.com/maps/contrib/115216018282588217659/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVgWoEKV-ISw2yUVzW_Ps33JsAOurULc_fihIm8qzwANMbHDTkVWg=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-12-12T02:10:26.411057Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN2c2JDYVlREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN2c2JDYVlREAE!2m1!1s0x808e2d7f479040cf:0xf9b41ccd79ffc2e8
+  - name: >-
+      places/ChIJz0CQR38tjoAR6ML_ec0ctPk/reviews/ChdDSUhNMG9nS0VJQ0FnSUNIbXNYLXNnRRAB
+    relativePublishTimeDescription: 8 months ago
+    rating: 5
+    text:
+      text: >-
+        Have been wanting to try Trifecta at their new location for awhile and
+        am happy that I have.
+
+        I know that friends and family have booked their omakase at home and the
+        experiences have been amazing.
+
+        I knew I should’ve ordered more but I wanted a quick lunch. Quality of
+        sashimi and sushi is really delicious and fresh.
+
+        I look forward to going back.
+      languageCode: en
+    originalText:
+      text: >-
+        Have been wanting to try Trifecta at their new location for awhile and
+        am happy that I have.
+
+        I know that friends and family have booked their omakase at home and the
+        experiences have been amazing.
+
+        I knew I should’ve ordered more but I wanted a quick lunch. Quality of
+        sashimi and sushi is really delicious and fresh.
+
+        I look forward to going back.
+      languageCode: en
+    authorAttribution:
+      displayName: A S
+      uri: https://www.google.com/maps/contrib/115358836964105037517/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIAHO6Y8qqHsZxoVCTlJSPrz5_3od-7QJsZLT3D28WyOOf7IIyE=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-09-03T21:32:56.616571Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNIbXNYLXNnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNIbXNYLXNnRRAB!2m1!1s0x808e2d7f479040cf:0xf9b41ccd79ffc2e8
+review_summary: >-
+  Visitor Feedback on Trifecta$$$Folks generally rave about the fantastic food
+  quality at this spot, with many highlighting the fresh sushi and omakase as
+  standout highlights that offer great value for the price. Visitors often
+  mention the welcoming staff and flexible service, like accommodating walk-ins
+  when possible, which adds to the enjoyable atmosphere without any major
+  hiccups. It's clear that the blend of traditional Japanese flavors with
+  occasional creative twists keeps diners coming back for more, making it a
+  solid pick for anyone craving reliable sushi dining. While the venue is on the
+  smaller side, suggesting reservations for a seamless visit, the overall
+  experience leaves people feeling satisfied and eager to recommend it to
+  friends. All in all, the positive vibes from recent comments paint a picture
+  of a place that's consistently delivering tasty meals in a friendly setting,
+  ideal for casual sushi seekers in San Jose.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsCashOnly: false
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
+curbside_pickup: true
+delivery: false
+dine_in: true
 good_for_children: null
 good_for_groups: null
 good_for_sports: null
-live_music: null
+live_music: false
 menu_for_children: null
 outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+reservable: true
+restroom: true
+serves_beer: true
 serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+serves_brunch: true
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yamazaru Sushi & Sake"
+title: Yamazaru Sushi & Sake
 permalink: /north-carolina/charlotte/yamazaru-sushi-sake.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Charlotte
 seo:
-  name: "Yamazaru Sushi & Sake"
-  type: Restaurant
+  type: restaurant
   links: https://yamazarusouthend.com/
-description: "Stylish restaurant offering a Japanese menu of noodles, ramen & sushi plus cocktails, sake & beer. Yamazaru Sushi & Sake serves delicious sushi in Charlotte, North Carolina. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJL1q3ZXCfVogRT2gZETIrv-0
 photos:
   - name: >-
@@ -185,6 +183,27 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 0
 website: https://yamazarusouthend.com/
+description: >-
+  Discover Yamazaru Sushi & Sake in Charlotte, NC$$$Yamazaru Sushi & Sake in
+  Charlotte, NC, offers a relaxed setting for enjoying fresh Japanese cuisine,
+  including flavorful sushi and sake selections that highlight traditional
+  flavors with a modern twist. The spot features a variety of dishes like
+  noodles and ramen, paired with cocktails and beer, making it a go-to choice
+  for casual dining experiences. Accessibility options and outdoor seating add
+  to its appeal, ensuring a welcoming atmosphere for all visitors. With moderate
+  pricing and a focus on quality ingredients, it's an excellent option for those
+  exploring top-rated sushi spots in the area.
+generative_summary: >-
+  Discover Yamazaru Sushi & Sake in Charlotte, NC$$$Yamazaru Sushi & Sake in
+  Charlotte, NC, offers a relaxed setting for enjoying fresh Japanese cuisine,
+  including flavorful sushi and sake selections that highlight traditional
+  flavors with a modern twist. The spot features a variety of dishes like
+  noodles and ramen, paired with cocktails and beer, making it a go-to choice
+  for casual dining experiences. Accessibility options and outdoor seating add
+  to its appeal, ensuring a welcoming atmosphere for all visitors. With moderate
+  pricing and a focus on quality ingredients, it's an excellent option for those
+  exploring top-rated sushi spots in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJL1q3ZXCfVogRT2gZETIrv-0/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRai1hLVlBEAE
@@ -368,6 +387,17 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQzcHRtNnN3RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQzcHRtNnN3RRAB!2m1!1s0x88569f7065b75a2f:0xedbf2b321119684f
+review_summary: >-
+  What Visitors Are Saying About the Experience$$$Visitors often rave about the
+  fresh and tasty sushi rolls, praising the variety and bold flavors that make
+  meals memorable and satisfying. Many appreciate the friendly service and
+  efficient seating, even on busy nights, which keeps the vibe welcoming and
+  enjoyable. While most feedback highlights consistent quality and a cozy
+  atmosphere, a few mention occasional inconsistencies in preparation, though
+  these don't overshadow the positives. Overall, it's become a favorite for
+  repeat visits due to its reasonable prices and inviting feel, making it a
+  solid pick for anyone craving great Japanese dishes nearby.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   paidParkingLot: true
@@ -401,8 +431,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Stylish restaurant offering a Japanese menu of noodles, ramen & sushi plus
   cocktails, sake & beer.
 

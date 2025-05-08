@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ahi Ahi Sushi Bar and Grill"
+title: Ahi Ahi Sushi Bar and Grill
 permalink: /california/foothill-ranch/ahi-ahi-sushi-bar-and-grill.html
 stateAbbr: CA
 stateName: California
 cityName: Foothill Ranch
 seo:
-  name: "Ahi Ahi Sushi Bar and Grill"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Ahi Ahi Sushi Bar and Grill serves delicious sushi in Foothill Ranch, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ48BuLeDp3IARRqab1Wuvfb4
 photos:
   - name: >-
@@ -170,22 +168,210 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80dce9e02d6ec0e3:0xbe7daf6bd59ba646!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 16
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 16
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 2:00 PM, 4:30 – 9:30 PM'
+    - 'Tuesday: 11:00 AM – 2:00 PM, 4:30 – 9:30 PM'
+    - 'Wednesday: 11:00 AM – 2:00 PM, 4:30 – 9:30 PM'
+    - 'Thursday: 11:00 AM – 2:00 PM, 4:30 – 9:30 PM'
+    - 'Friday: 11:00 AM – 2:00 PM, 4:30 – 9:30 PM'
+    - 'Saturday: 4:30 – 9:30 PM'
+    - 'Sunday: 4:30 – 9:30 PM'
+  nextOpenTime: '2025-05-03T23:30:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
-phone: null
-price_level: null
+  - openNow: false
+    periods:
+      - open:
+          day: 0
+          hour: 16
+          minute: 30
+        close:
+          day: 0
+          hour: 17
+          minute: 30
+      - open:
+          day: 1
+          hour: 16
+          minute: 30
+        close:
+          day: 1
+          hour: 17
+          minute: 30
+      - open:
+          day: 2
+          hour: 16
+          minute: 30
+        close:
+          day: 2
+          hour: 17
+          minute: 30
+      - open:
+          day: 3
+          hour: 16
+          minute: 30
+        close:
+          day: 3
+          hour: 17
+          minute: 30
+      - open:
+          day: 4
+          hour: 16
+          minute: 30
+        close:
+          day: 4
+          hour: 17
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 4:30 – 5:30 PM'
+      - 'Tuesday: 4:30 – 5:30 PM'
+      - 'Wednesday: 4:30 – 5:30 PM'
+      - 'Thursday: 4:30 – 5:30 PM'
+      - 'Friday: Closed'
+      - 'Saturday: Closed'
+      - 'Sunday: 4:30 – 5:30 PM'
+    secondaryHoursType: HAPPY_HOUR
+    nextOpenTime: '2025-05-04T23:30:00Z'
+phone: (949) 600-9833
+price_level: PRICE_LEVEL_MODERATE
 price_range: null
-rating: null
-rating_count: 0
+rating: '4.5'
+rating_count: 292
 website: null
+description: >-
+  Discover Ahi Ahi Sushi Bar and Grill in Foothill Ranch, CA$$$Ahi Ahi Sushi Bar
+  and Grill in Foothill Ranch, CA, stands out as a cozy destination for those
+  craving authentic Japanese flavors in a casual setting. It features a blend of
+  classic and innovative rolls that highlight fresh ingredients and creative
+  twists, making it a go-to for sushi lovers exploring local options. The spot
+  emphasizes accessibility with features like wheelchair-friendly entrances and
+  seating, ensuring everyone can enjoy the experience comfortably. Operating
+  with flexible hours for lunch and dinner, it caters to busy schedules and
+  offers a relaxed neighborhood vibe. If you're searching for top-rated sushi
+  restaurants nearby, this place delivers a welcoming atmosphere perfect for
+  savoring Japanese cuisine.
+generative_summary: >-
+  Discover Ahi Ahi Sushi Bar and Grill in Foothill Ranch, CA$$$Ahi Ahi Sushi Bar
+  and Grill in Foothill Ranch, CA, stands out as a cozy destination for those
+  craving authentic Japanese flavors in a casual setting. It features a blend of
+  classic and innovative rolls that highlight fresh ingredients and creative
+  twists, making it a go-to for sushi lovers exploring local options. The spot
+  emphasizes accessibility with features like wheelchair-friendly entrances and
+  seating, ensuring everyone can enjoy the experience comfortably. Operating
+  with flexible hours for lunch and dinner, it caters to busy schedules and
+  offers a relaxed neighborhood vibe. If you're searching for top-rated sushi
+  restaurants nearby, this place delivers a welcoming atmosphere perfect for
+  savoring Japanese cuisine.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Love About This Sushi Spot$$$Folks heading to Ahi Ahi Sushi Bar
+  and Grill often highlight the tasty and fresh dishes that make every bite
+  worthwhile, turning it into a favorite for sushi enthusiasts. Many appreciate
+  the solid service that keeps things friendly and efficient, helping to create
+  a pleasant overall vibe. Feedback frequently points to the quality of the food
+  standing out, with inventive rolls and traditional favorites earning nods for
+  their flavor. It's clear this spot hits the right notes for anyone looking for
+  reliable Japanese places close by, all while maintaining a positive and
+  approachable feel. If you're on the hunt for sushi near you, the general buzz
+  suggests it's a solid choice for a satisfying meal.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +397,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

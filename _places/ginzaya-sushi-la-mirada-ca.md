@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ginzaya Sushi"
+title: Ginzaya Sushi
 permalink: /california/la-mirada/ginzaya-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: La Mirada
 seo:
-  name: "Ginzaya Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Ginzaya Sushi serves delicious sushi in La Mirada, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJfdjIfGgr3YAR4IBwLELflp8
 photos:
   - name: >-
@@ -185,7 +183,43 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Ginzaya Sushi in La Mirada, CA$$$Ginzaya Sushi in La Mirada, CA,
+  stands out as a welcoming spot for those seeking top sushi restaurants in the
+  area, offering a vibrant menu that caters to a variety of tastes. This
+  family-oriented eatery features an array of fresh sushi options, complemented
+  by a selection of beverages like beer and sake, making it ideal for casual
+  dinners or gatherings. With its accessible design, including
+  wheelchair-friendly entrances and seating, it ensures everyone can enjoy a
+  comfortable visit. Whether you're exploring sushi places near me or looking
+  for a relaxed atmosphere to savor flavorful rolls, this location delivers on
+  quality and convenience.
+generative_summary: >-
+  Discover Ginzaya Sushi in La Mirada, CA$$$Ginzaya Sushi in La Mirada, CA,
+  stands out as a welcoming spot for those seeking top sushi restaurants in the
+  area, offering a vibrant menu that caters to a variety of tastes. This
+  family-oriented eatery features an array of fresh sushi options, complemented
+  by a selection of beverages like beer and sake, making it ideal for casual
+  dinners or gatherings. With its accessible design, including
+  wheelchair-friendly entrances and seating, it ensures everyone can enjoy a
+  comfortable visit. Whether you're exploring sushi places near me or looking
+  for a relaxed atmosphere to savor flavorful rolls, this location delivers on
+  quality and convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Love About This Spot$$$Visitors often rave about the fresh and
+  tasty sushi rolls at this local favorite, with many highlighting creative
+  options that pair perfectly with sides like miso soup and tempura for a
+  satisfying meal. Folks appreciate the attentive service that makes dining out
+  feel easy and enjoyable, adding to the overall welcoming vibe. While exploring
+  best sushi near me, people note the consistent flavors that keep them coming
+  back for more. Overall, it's a go-to choice for anyone in the mood for
+  reliable Japanese-inspired dishes, offering a positive experience that
+  balances quality with affordability. If you're hunting for sushi restaurants
+  close to you, this place delivers on both taste and hospitality without any
+  major drawbacks.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +245,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

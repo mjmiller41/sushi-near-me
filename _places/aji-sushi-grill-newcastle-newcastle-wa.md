@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "AJI Sushi & Grill Newcastle"
+title: AJI Sushi & Grill Newcastle
 permalink: /washington/newcastle/aji-sushi-grill-newcastle.html
 stateAbbr: WA
 stateName: Washington
 cityName: Newcastle
 seo:
-  name: "AJI Sushi & Grill Newcastle"
-  type: Restaurant
+  type: restaurant
   links: https://ajisushigrill.com/
-description: "AJI Sushi & Grill Newcastle serves delicious sushi in Newcastle, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJZfvIaL5pkFQRDkekE42R07M
 photos:
   - name: >-
@@ -170,7 +168,121 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x549069be68c8fb65:0xb3d3918d13a4470e!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 14
+        minute: 45
+    - open:
+        day: 0
+        hour: 16
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 45
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 20
+        minute: 45
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 45
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 20
+        minute: 45
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 45
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 20
+        minute: 45
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 45
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 20
+        minute: 45
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 45
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 45
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 14
+        minute: 45
+    - open:
+        day: 6
+        hour: 16
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 2:45 PM, 4:30 – 8:45 PM'
     - 'Tuesday: 11:00 AM – 2:45 PM, 4:30 – 8:45 PM'
     - 'Wednesday: 11:00 AM – 2:45 PM, 4:30 – 8:45 PM'
@@ -178,14 +290,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 2:45 PM, 4:30 – 9:45 PM'
     - 'Saturday: 12:00 – 2:45 PM, 4:00 – 10:00 PM'
     - 'Sunday: 12:00 – 2:45 PM, 4:00 – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 2:45 PM, 4:30 – 8:45 PM'
-    - 'Tuesday: 11:00 AM – 2:45 PM, 4:30 – 8:45 PM'
-    - 'Wednesday: 11:00 AM – 2:45 PM, 4:30 – 8:45 PM'
-    - 'Thursday: 11:00 AM – 2:45 PM, 4:30 – 8:45 PM'
-    - 'Friday: 11:00 AM – 2:45 PM, 4:30 – 9:45 PM'
-    - 'Saturday: 12:00 – 2:45 PM, 4:00 – 10:00 PM'
-    - 'Sunday: 12:00 – 2:45 PM, 4:00 – 9:00 PM'
+  nextOpenTime: '2025-05-03T23:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +302,278 @@ phone: (425) 572-6504
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.6'
-rating_count: 0
+rating_count: 676
 website: https://ajisushigrill.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover AJI Sushi & Grill in Newcastle, WA$$$AJI Sushi & Grill in Newcastle,
+  WA, stands out as a casual dining spot known for its diverse selection of
+  sushi rolls and authentic Japanese flavors, catering to a range of tastes
+  including vegetarian choices. The restaurant boasts a welcoming atmosphere
+  with comfortable seating and thoughtful touches like accessible entryways,
+  making it easy for everyone to enjoy a meal. Fresh ingredients shine through
+  in their well-prepared dishes, offering a satisfying experience for those
+  seeking top-rated sushi options nearby. With options for dine-in and takeout,
+  it's a convenient choice for anyone exploring Japanese places in the area,
+  especially after a day out. The menu's variety ensures there's something for
+  sushi enthusiasts looking for both classic and creative rolls.
+generative_summary: >-
+  Discover AJI Sushi & Grill in Newcastle, WA$$$AJI Sushi & Grill in Newcastle,
+  WA, stands out as a casual dining spot known for its diverse selection of
+  sushi rolls and authentic Japanese flavors, catering to a range of tastes
+  including vegetarian choices. The restaurant boasts a welcoming atmosphere
+  with comfortable seating and thoughtful touches like accessible entryways,
+  making it easy for everyone to enjoy a meal. Fresh ingredients shine through
+  in their well-prepared dishes, offering a satisfying experience for those
+  seeking top-rated sushi options nearby. With options for dine-in and takeout,
+  it's a convenient choice for anyone exploring Japanese places in the area,
+  especially after a day out. The menu's variety ensures there's something for
+  sushi enthusiasts looking for both classic and creative rolls.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJZfvIaL5pkFQRDkekE42R07M/reviews/ChZDSUhNMG9nS0VJQ0FnSUQzNnFQOEtREAE
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        I just moved to Washington a little over 6 months ago and since then
+        have been exploring various sushi places trying to find the best one.
+        This one definitely takes the cake for the best I’ve been in yet.
+
+        The atmosphere was amazing. The restaurant was a bit crowded but not
+        overstimulating or too loud at all. Plenty of space in between seatings
+        and a beautiful interior establishment. They sat us in front of the
+        sushi bar, the chairs were comfortable, and we were able to view some of
+        the unique sushi preparations! For one of the rolls, the chef used a
+        huge torch which really added to the ambience.
+
+        They gave us hot towels upon sitting down to clean our hands with and at
+        that point, I have to admit, I was scared about what the check would
+        look like! But lo and behold, it was seriously the best deal alongside
+        the high quality sushi we were served. This is also the first sushi
+        place that I was ever tempted to buy a veggie roll at (I LOVE sushi,
+        specifically the fish) and I was not disappointed. I’m happy I tried my
+        first veggie roll here.
+
+
+        All in all, my partner and I had a great time and will definitely return
+        for many times to come. Give it a try if you’re considering!
+      languageCode: en
+    originalText:
+      text: >-
+        I just moved to Washington a little over 6 months ago and since then
+        have been exploring various sushi places trying to find the best one.
+        This one definitely takes the cake for the best I’ve been in yet.
+
+        The atmosphere was amazing. The restaurant was a bit crowded but not
+        overstimulating or too loud at all. Plenty of space in between seatings
+        and a beautiful interior establishment. They sat us in front of the
+        sushi bar, the chairs were comfortable, and we were able to view some of
+        the unique sushi preparations! For one of the rolls, the chef used a
+        huge torch which really added to the ambience.
+
+        They gave us hot towels upon sitting down to clean our hands with and at
+        that point, I have to admit, I was scared about what the check would
+        look like! But lo and behold, it was seriously the best deal alongside
+        the high quality sushi we were served. This is also the first sushi
+        place that I was ever tempted to buy a veggie roll at (I LOVE sushi,
+        specifically the fish) and I was not disappointed. I’m happy I tried my
+        first veggie roll here.
+
+
+        All in all, my partner and I had a great time and will definitely return
+        for many times to come. Give it a try if you’re considering!
+      languageCode: en
+    authorAttribution:
+      displayName: Jonas
+      uri: https://www.google.com/maps/contrib/116013186172348701465/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjW1BpM3fmPVhC_QDN5DiImtDMhk0OxOE2yof0eLYMPTcG8q09a4=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-11-14T06:55:27.697466Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQzNnFQOEtREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQzNnFQOEtREAE!2m1!1s0x549069be68c8fb65:0xb3d3918d13a4470e
+  - name: >-
+      places/ChIJZfvIaL5pkFQRDkekE42R07M/reviews/ChZDSUhNMG9nS0VJQ0FnSUR2bTkyY0NREAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        The atmosphere here is surpurb. My family and I had just sat down at
+        another restaurant and left for being rushed to order and not being
+        important enough for a straw. Here at AJI we were welcomed, greeted and
+        respected.  Our hands were cleaned at the table. Pics below. Atmosphere
+        was so positive, all staff were nice and attentative.. Food was fresh
+        and light and wonderful. Omg I can't wait to return. Highly recommend!
+      languageCode: en
+    originalText:
+      text: >-
+        The atmosphere here is surpurb. My family and I had just sat down at
+        another restaurant and left for being rushed to order and not being
+        important enough for a straw. Here at AJI we were welcomed, greeted and
+        respected.  Our hands were cleaned at the table. Pics below. Atmosphere
+        was so positive, all staff were nice and attentative.. Food was fresh
+        and light and wonderful. Omg I can't wait to return. Highly recommend!
+      languageCode: en
+    authorAttribution:
+      displayName: Mrs. Michaela Hall
+      uri: https://www.google.com/maps/contrib/113870555556070205675/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUfiS1bYF_jqgiOI8YNeCrQu4tEdYCfJw5lVIQO2bDCvF5hEE06gw=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-01-07T06:56:16.958724Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR2bTkyY0NREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR2bTkyY0NREAE!2m1!1s0x549069be68c8fb65:0xb3d3918d13a4470e
+  - name: >-
+      places/ChIJZfvIaL5pkFQRDkekE42R07M/reviews/ChdDSUhNMG9nS0VJQ0FnSUQzeE9EeWdnRRAB
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        We had an excellent experience at this restaurant. The sushi was
+        outstanding, with generous portions and exceptional flavors. Upon
+        arrival, we were welcomed with hot soup and a warm towel—perfect touches
+        for colder weather. I highly recommend this spot for anyone craving
+        quality Japanese cuisine.
+      languageCode: en
+    originalText:
+      text: >-
+        We had an excellent experience at this restaurant. The sushi was
+        outstanding, with generous portions and exceptional flavors. Upon
+        arrival, we were welcomed with hot soup and a warm towel—perfect touches
+        for colder weather. I highly recommend this spot for anyone craving
+        quality Japanese cuisine.
+      languageCode: en
+    authorAttribution:
+      displayName: Arash Soltani
+      uri: https://www.google.com/maps/contrib/104782303983262600717/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWi9RMNYV2uJwVQZv6P-ou32j06XCgPYzxXgQn2ajAP-GX7TCWjiw=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-11-12T07:12:08.127675Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQzeE9EeWdnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQzeE9EeWdnRRAB!2m1!1s0x549069be68c8fb65:0xb3d3918d13a4470e
+  - name: >-
+      places/ChIJZfvIaL5pkFQRDkekE42R07M/reviews/ChZDSUhNMG9nS0VJQ0FnSURfckkzSlRBEAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        What a hidden gem. I didn't realize that the interior was so nice and
+        the food was amazing. The sashimi rice bowl was the largest I've ever
+        had.
+
+
+        Also hot towels before the meal + miso soup! Legit Asian style services
+        💯💯💯😍
+      languageCode: en
+    originalText:
+      text: >-
+        What a hidden gem. I didn't realize that the interior was so nice and
+        the food was amazing. The sashimi rice bowl was the largest I've ever
+        had.
+
+
+        Also hot towels before the meal + miso soup! Legit Asian style services
+        💯💯💯😍
+      languageCode: en
+    authorAttribution:
+      displayName: Mira
+      uri: https://www.google.com/maps/contrib/112062421349300515787/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUijRyJMTzK712v0gl20S69l5mnqa8ZDsdBZLPX0QrB9b6UCRWplQ=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-01-22T08:12:04.909086Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURfckkzSlRBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURfckkzSlRBEAE!2m1!1s0x549069be68c8fb65:0xb3d3918d13a4470e
+  - name: >-
+      places/ChIJZfvIaL5pkFQRDkekE42R07M/reviews/ChZDSUhNMG9nS0VJQ0FnSUNueVBiSkJnEAE
+    relativePublishTimeDescription: 7 months ago
+    rating: 5
+    text:
+      text: >-
+        I recently dined at a fantastic sushi restaurant that exceeded my
+        expectations. The freshness of the fish was amazing, with each piece
+        perfectly prepared and bursting with flavor. I also really love how they
+        decorated the dish. 🍣
+
+        The atmosphere was inviting and the staff was so so nice and friendly,
+        customer service was like 20/10. I highly recommend trying their
+        signature roll Three times Lady and the sashimi Moriwase B, both were
+        outstanding. Overall, it's a must-visit for any sushi lover!
+      languageCode: en
+    originalText:
+      text: >-
+        I recently dined at a fantastic sushi restaurant that exceeded my
+        expectations. The freshness of the fish was amazing, with each piece
+        perfectly prepared and bursting with flavor. I also really love how they
+        decorated the dish. 🍣
+
+        The atmosphere was inviting and the staff was so so nice and friendly,
+        customer service was like 20/10. I highly recommend trying their
+        signature roll Three times Lady and the sashimi Moriwase B, both were
+        outstanding. Overall, it's a must-visit for any sushi lover!
+      languageCode: en
+    authorAttribution:
+      displayName: Mimi Nguyen
+      uri: https://www.google.com/maps/contrib/100912883770556425920/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWSIIpKjT9_wlWja1Il4NqS7AdWauGngCV_rbG61cUoH3jvMqQV_g=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-09-22T06:46:26.588583Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNueVBiSkJnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNueVBiSkJnEAE!2m1!1s0x549069be68c8fb65:0xb3d3918d13a4470e
+review_summary: >-
+  What Visitors Love About This Spot$$$Folks rave about the fresh fish and
+  generous portions that make every bite feel worthwhile, turning this into a
+  favorite for sushi seekers in the neighborhood. The friendly service and
+  inviting vibe add a nice touch, with many highlighting small details like hot
+  towels and miso soup that enhance the overall experience. Standout dishes,
+  such as creative rolls and sashimi platters, often get high marks for their
+  flavor and presentation, making it a solid pick for anyone hunting for the
+  best sushi around. While it's generally a hit for casual outings, some note
+  it's best for those who appreciate a relaxed pace, keeping things positive
+  without overwhelming the senses. All in all, it's a go-to option that delivers
+  honest quality and a welcoming feel for sushi lovers exploring local eateries.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
 menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

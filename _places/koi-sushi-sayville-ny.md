@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Koi Sushi"
+title: Koi Sushi
 permalink: /new-york/sayville/koi-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: Sayville
 seo:
-  name: "Koi Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Koi Sushi serves delicious sushi in Sayville, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJo2_F-QZK6IkR2L3OcpMBKVk
 photos:
   - name: >-
@@ -185,7 +183,45 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Experience Koi Sushi in Sayville, NY$$$Nestled in the heart of Sayville, NY,
+  Koi Sushi stands out as a welcoming Asian fusion spot that blends casual vibes
+  with a diverse menu featuring fresh sushi and other flavorful dishes. This
+  restaurant offers a variety of options including steaks, Chinese and Japanese
+  specialties, making it a go-to choice for those seeking authentic flavors in a
+  relaxed setting. With happy-hour specials that add extra appeal, it's an ideal
+  destination for anyone exploring sushi restaurants in the area, where the
+  emphasis is on quality ingredients and a comfortable atmosphere. The
+  accessible features, like wheelchair-friendly entrances and seating, ensure
+  everyone can enjoy the experience without hassle, enhancing its reputation as
+  a top pick for local dining.
+generative_summary: >-
+  Experience Koi Sushi in Sayville, NY$$$Nestled in the heart of Sayville, NY,
+  Koi Sushi stands out as a welcoming Asian fusion spot that blends casual vibes
+  with a diverse menu featuring fresh sushi and other flavorful dishes. This
+  restaurant offers a variety of options including steaks, Chinese and Japanese
+  specialties, making it a go-to choice for those seeking authentic flavors in a
+  relaxed setting. With happy-hour specials that add extra appeal, it's an ideal
+  destination for anyone exploring sushi restaurants in the area, where the
+  emphasis is on quality ingredients and a comfortable atmosphere. The
+  accessible features, like wheelchair-friendly entrances and seating, ensure
+  everyone can enjoy the experience without hassle, enhancing its reputation as
+  a top pick for local dining.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Diners at Koi Sushi$$$Folks who visit Koi Sushi often rave about
+  the tasty sushi and welcoming vibe that make it a fun spot for casual meals.
+  Many highlight the fresh ingredients and friendly service that keep things
+  enjoyable and reliable, turning it into a favorite for those hunting for great
+  sushi places nearby. While the overall atmosphere gets high marks for being
+  lively and accommodating, a few notes mention occasional hiccups with staff
+  interactions that could use some smoothing out. Still, the positives shine
+  through, with plenty of praise for the solid food options that make it worth
+  checking out, especially if you're in the mood for something delicious and
+  straightforward. All in all, it's a solid choice that delivers on flavor while
+  keeping the experience light and engaging.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +247,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

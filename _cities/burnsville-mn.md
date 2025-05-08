@@ -5,4 +5,5 @@ permalink: /minnesota/burnsville/
 stateAbbr: MN
 stateName: Minnesota
 cityName: Burnsville
+
 ---

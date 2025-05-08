@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Hangar Kitchen + Bar"
+title: Hangar Kitchen + Bar
 permalink: /missouri/st-louis/hangar-kitchen-bar.html
 stateAbbr: MO
 stateName: Missouri
 cityName: St. Louis
 seo:
-  name: "Hangar Kitchen + Bar"
-  type: Restaurant
+  type: restaurant
   links: https://www.hangarkitchenandbarstl.com/
-description: "Sushi & tacos, plus handcrafted cocktails, draft beer & champagne presented in a stylish setting. Hangar Kitchen + Bar serves delicious sushi in St. Louis, Missouri. Try fresh Japanese dishes for a great dining experience. Available for takeout, and dinner."
 place_id: ChIJff5FK2HL2IcRlbK5PgqBz-s
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $30 &ndash; $50
 rating: '4.3'
 rating_count: 0
 website: https://www.hangarkitchenandbarstl.com/
+description: >-
+  Hangar Kitchen + Bar: A St. Louis Dining Highlight$$$Hangar Kitchen + Bar in
+  St. Louis, MO, delivers a casual yet stylish vibe perfect for those seeking
+  top-rated spots for sushi and small plates. This inviting restaurant features
+  an array of shareable dishes like tacos and sliders, paired with a selection
+  of craft cocktails and beers that enhance the overall experience. Drawing from
+  its aviation-inspired atmosphere, the space offers accessible seating and
+  outdoor options, making it a go-to choice for sushi restaurants near me
+  looking for variety. With wheelchair-friendly features and a focus on fresh,
+  flavorful offerings, it's an ideal spot for groups exploring Japanese-inspired
+  places near me. Prices range from moderate to upscale, ensuring a memorable
+  meal without breaking the bank.
+generative_summary: >-
+  Hangar Kitchen + Bar: A St. Louis Dining Highlight$$$Hangar Kitchen + Bar in
+  St. Louis, MO, delivers a casual yet stylish vibe perfect for those seeking
+  top-rated spots for sushi and small plates. This inviting restaurant features
+  an array of shareable dishes like tacos and sliders, paired with a selection
+  of craft cocktails and beers that enhance the overall experience. Drawing from
+  its aviation-inspired atmosphere, the space offers accessible seating and
+  outdoor options, making it a go-to choice for sushi restaurants near me
+  looking for variety. With wheelchair-friendly features and a focus on fresh,
+  flavorful offerings, it's an ideal spot for groups exploring Japanese-inspired
+  places near me. Prices range from moderate to upscale, ensuring a memorable
+  meal without breaking the bank.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJff5FK2HL2IcRlbK5PgqBz-s/reviews/ChdDSUhNMG9nS0VJQ0FnSURiamVpdXdnRRAB
@@ -360,6 +383,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUM1Z1lTMThRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUM1Z1lTMThRRRAB!2m1!1s0x87d8cb612b45fe7d:0xebcf810a3eb9b295
+review_summary: >-
+  Buzz Around Hangar Kitchen + Bar$$$Folks really enjoy the lively atmosphere
+  and creative small plates at this spot, with many highlighting the fun
+  sharing-style menu that keeps things exciting. Dishes like tacos and salads
+  often steal the show, praised for their bold flavors and generous portions
+  that make dining out feel fresh and satisfying. The service stands out as
+  friendly and helpful, adding to the relaxed vibe that pairs well with craft
+  drinks and cocktails. While it's noted as a bit pricey, the overall experience
+  comes across as worth it for those craving a mix of sushi and other tasty
+  options. All in all, it's a solid pick for anyone hunting for the best sushi
+  near me, delivering consistent good times with a positive, welcoming feel.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -391,8 +426,8 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Sushi & tacos, plus handcrafted cocktails, draft beer & champagne presented in
   a stylish setting.
 

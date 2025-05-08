@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi 85"
+title: Sushi 85
 permalink: /california/mountain-view/sushi-85.html
 stateAbbr: CA
 stateName: California
 cityName: Mountain View
 seo:
-  name: "Sushi 85"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Casual Japanese restaurant with ramen noodles & maki rolls, plus an all-you-can-eat sushi option. Sushi 85 serves delicious sushi in Mountain View, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJQSVQrde2j4ARUaikVDolfFs
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: null
 rating: '3.7'
 rating_count: 0
 website: null
+description: >-
+  Discover Sushi 85 in Mountain View, CA$$$Sushi 85 in Mountain View, CA, stands
+  out as a welcoming spot for enjoying authentic Japanese flavors in a relaxed
+  environment. This sushi restaurant offers a variety of fresh nigiri, sashimi,
+  and bento boxes, complemented by hearty ramen options that cater to those
+  seeking comforting meals. Its laid-back setting makes it an ideal choice for
+  casual dining, with accessible features like wheelchair-friendly entrances and
+  parking that enhance the overall experience. Patrons can explore an
+  all-you-can-eat selection, perfect for groups or individuals looking to sample
+  diverse dishes without the hassle. Whether you're searching for top-rated
+  sushi places near you, this spot delivers a satisfying blend of quality
+  ingredients and simple ambiance that keeps locals coming back.
+generative_summary: >-
+  Discover Sushi 85 in Mountain View, CA$$$Sushi 85 in Mountain View, CA, stands
+  out as a welcoming spot for enjoying authentic Japanese flavors in a relaxed
+  environment. This sushi restaurant offers a variety of fresh nigiri, sashimi,
+  and bento boxes, complemented by hearty ramen options that cater to those
+  seeking comforting meals. Its laid-back setting makes it an ideal choice for
+  casual dining, with accessible features like wheelchair-friendly entrances and
+  parking that enhance the overall experience. Patrons can explore an
+  all-you-can-eat selection, perfect for groups or individuals looking to sample
+  diverse dishes without the hassle. Whether you're searching for top-rated
+  sushi places near you, this spot delivers a satisfying blend of quality
+  ingredients and simple ambiance that keeps locals coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJQSVQrde2j4ARUaikVDolfFs/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3eXBxYnJnRRAB
@@ -408,6 +431,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURxMGZ1QU9REAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURxMGZ1QU9REAE!2m1!1s0x808fb6d7ad502541:0x5b7c253a54a4a851
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this sushi restaurant often rave about
+  the fresh and flavorful sushi rolls, with many highlighting the high-quality
+  sashimi and bento boxes as standout choices for a quick or satisfying meal.
+  While some folks note that certain dishes like ramen can vary in seasoning,
+  the overall value and friendly service make it a solid pick for everyday
+  dining adventures. Feedback generally praises the cozy neighborhood vibe and
+  reliable options for groups, though a few mention keeping an eye on portion
+  sizes to match the moderate pricing. All in all, it's a go-to destination for
+  anyone craving Japanese favorites nearby, offering a mix of hits that
+  encourage repeat visits while honestly addressing room for tweaks. If you're
+  on the hunt for the best sushi near me, this place delivers enough positives
+  to warrant giving it a try.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -440,8 +477,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Casual Japanese restaurant with ramen noodles & maki rolls, plus an
   all-you-can-eat sushi option.
 

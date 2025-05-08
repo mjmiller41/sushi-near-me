@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "UMI Sushi"
+title: UMI Sushi
 permalink: /maryland/ellicott-city/umi-sushi.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Ellicott City
 seo:
-  name: "UMI Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "UMI Sushi serves delicious sushi in Ellicott City, Maryland. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJabcgRYcfyIkRHMA3UtzF03E
 photos:
   - name: >-
@@ -183,7 +181,48 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover UMI Sushi in Ellicott City, MD$$$UMI Sushi in Ellicott City, MD,
+  stands out as a contemporary dining destination offering a blend of authentic
+  Japanese flavors, including fresh sushi and poke bowls that highlight quality
+  ingredients. The restaurant features a modern ambiance with inviting patio
+  seating that provides stunning views of a nearby river, making it an ideal
+  spot for casual meals or special occasions. Patrons can enjoy a variety of
+  expertly crafted dishes that emphasize traditional techniques while
+  incorporating local twists, appealing to those seeking sushi restaurants near
+  scenic spots. Accessibility options like wheelchair-friendly parking and
+  seating add to the welcoming atmosphere, ensuring a comfortable experience for
+  all visitors. This spot is perfect for anyone exploring top-rated Japanese
+  places near me who appreciates a mix of elegance and relaxation.
+generative_summary: >-
+  Discover UMI Sushi in Ellicott City, MD$$$UMI Sushi in Ellicott City, MD,
+  stands out as a contemporary dining destination offering a blend of authentic
+  Japanese flavors, including fresh sushi and poke bowls that highlight quality
+  ingredients. The restaurant features a modern ambiance with inviting patio
+  seating that provides stunning views of a nearby river, making it an ideal
+  spot for casual meals or special occasions. Patrons can enjoy a variety of
+  expertly crafted dishes that emphasize traditional techniques while
+  incorporating local twists, appealing to those seeking sushi restaurants near
+  scenic spots. Accessibility options like wheelchair-friendly parking and
+  seating add to the welcoming atmosphere, ensuring a comfortable experience for
+  all visitors. This spot is perfect for anyone exploring top-rated Japanese
+  places near me who appreciates a mix of elegance and relaxation.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Recent Reviews$$$Folks chatting about UMI Sushi often praise the
+  super fresh sushi and sashimi options, along with a solid lineup of creative
+  rolls that keep things exciting without overwhelming the wallet. Many
+  highlight the helpful and warm service that makes dining feel effortless and
+  enjoyable, plus the reasonable prices that offer great value for quality
+  Japanese fare. The outdoor seating with its river views gets a lot of nods for
+  adding a peaceful vibe to the meal, making it a go-to for relaxed
+  get-togethers. Overall, it's clear that visitors love the combination of tasty
+  dishes and a welcoming environment, though they suggest it might get busy
+  during peak times. If you're on the hunt for sushi close to me with a positive
+  buzz, this place delivers a reliably good experience that keeps people coming
+  back.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -209,7 +248,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

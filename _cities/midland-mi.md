@@ -5,4 +5,5 @@ permalink: /michigan/midland/
 stateAbbr: MI
 stateName: Michigan
 cityName: Midland
+
 ---

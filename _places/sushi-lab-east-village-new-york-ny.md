@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Lab - East Village"
+title: Sushi Lab - East Village
 permalink: /new-york/new-york/sushi-lab-east-village.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "Sushi Lab - East Village"
-  type: Restaurant
-  links: null
-description: "Sushi Lab - East Village serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.sushilab.com/
 place_id: ChIJ8-4_b-xZwokRk5I1tZqJLtA
 photos:
   - name: >-
@@ -167,8 +165,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c259ec6f3feef3:0xd02e899ab5359293!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 30
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 16
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: Closed'
+    - 'Tuesday: 5:30 – 10:00 PM'
+    - 'Wednesday: 5:30 – 10:00 PM'
+    - 'Thursday: 5:30 – 10:00 PM'
+    - 'Friday: 5:30 – 10:00 PM'
+    - 'Saturday: 4:30 – 10:30 PM'
+    - 'Sunday: 5:00 – 10:00 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -176,13 +231,56 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
+phone: (212) 665-3737
 price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+price_range: $100 &ndash; & up
+rating: '4.7'
+rating_count: 187
+website: http://www.sushilab.com/
+description: >-
+  Discover Sushi Lab in New York, NY$$$Sushi Lab in New York, NY, stands out as
+  a welcoming spot for those craving innovative Japanese flavors, featuring a
+  cozy setup with counter seating that enhances the dining experience. This
+  sushi restaurant blends traditional techniques with modern twists on fresh
+  rolls, sashimi, and other Japanese-inspired dishes, making it a go-to choice
+  for anyone searching for quality sushi options in the bustling East Village
+  area. Patrons can enjoy a selection of sake alongside creative presentations
+  that highlight seasonal ingredients, creating an intimate atmosphere perfect
+  for a memorable meal. The focus on fresh, expertly prepared fare ensures that
+  visitors leave satisfied, whether they're exploring top-rated sushi spots
+  nearby or simply indulging in a casual evening out. Overall, it's an ideal
+  destination for anyone looking to savor authentic yet contemporary Japanese
+  cuisine in a vibrant urban setting.
+generative_summary: >-
+  Discover Sushi Lab in New York, NY$$$Sushi Lab in New York, NY, stands out as
+  a welcoming spot for those craving innovative Japanese flavors, featuring a
+  cozy setup with counter seating that enhances the dining experience. This
+  sushi restaurant blends traditional techniques with modern twists on fresh
+  rolls, sashimi, and other Japanese-inspired dishes, making it a go-to choice
+  for anyone searching for quality sushi options in the bustling East Village
+  area. Patrons can enjoy a selection of sake alongside creative presentations
+  that highlight seasonal ingredients, creating an intimate atmosphere perfect
+  for a memorable meal. The focus on fresh, expertly prepared fare ensures that
+  visitors leave satisfied, whether they're exploring top-rated sushi spots
+  nearby or simply indulging in a casual evening out. Overall, it's an ideal
+  destination for anyone looking to savor authentic yet contemporary Japanese
+  cuisine in a vibrant urban setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Folks who stop by this sushi spot often praise the
+  flavorful omakase selections that deliver great value without stretching the
+  budget, highlighting standout dishes that bring excitement to every bite. Many
+  appreciate the warm and attentive service that makes the intimate vibe feel
+  welcoming and engaging, turning a simple dinner into a fun outing. Reviewers
+  frequently mention enjoyable extras like lively events that add a playful
+  twist to the experience, making it a hit for groups or solo diners alike.
+  While opinions vary, the overall consensus leans positive, with plenty of nods
+  to the creative flavors and cozy ambiance that keep people coming back for
+  more. If you're on the hunt for reliable sushi places near you, this spot
+  consistently earns high marks for its tasty offerings and approachable
+  atmosphere.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -208,7 +306,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

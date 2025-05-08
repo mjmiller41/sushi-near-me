@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Queen Sushi and Grill"
+title: Sushi Queen Sushi and Grill
 permalink: /north-carolina/charlotte/sushi-queen-sushi-and-grill.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Charlotte
 seo:
-  name: "Sushi Queen Sushi and Grill"
-  type: Restaurant
+  type: restaurant
   links: http://sushiqueengrill.weebly.com/
-description: "Sushi Queen Sushi and Grill serves delicious sushi in Charlotte, North Carolina. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJ8yzvPu4PVIgR2UduuT0seg8
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 0
 website: http://sushiqueengrill.weebly.com/
+description: >-
+  Discover Sushi Queen in Charlotte, NC$$$Sushi Queen in Charlotte, NC, stands
+  out as a welcoming spot for those seeking top-rated sushi restaurants,
+  offering a relaxed atmosphere with a menu that includes hibachi, teriyaki, and
+  flavorful noodle dishes alongside traditional and creative sushi fusions. The
+  venue emphasizes accessibility, making it easy for everyone to enjoy fresh
+  meals with wheelchair-friendly features and ample parking options. Diners can
+  appreciate the variety of options, from lunch specials to evening entrees, all
+  designed to cater to families and groups looking for quality Japanese-inspired
+  cuisine. Whether you're exploring sushi places near you or craving a casual
+  meal with beer and wine selections, this spot delivers on taste and value in a
+  comfortable setting.
+generative_summary: >-
+  Discover Sushi Queen in Charlotte, NC$$$Sushi Queen in Charlotte, NC, stands
+  out as a welcoming spot for those seeking top-rated sushi restaurants,
+  offering a relaxed atmosphere with a menu that includes hibachi, teriyaki, and
+  flavorful noodle dishes alongside traditional and creative sushi fusions. The
+  venue emphasizes accessibility, making it easy for everyone to enjoy fresh
+  meals with wheelchair-friendly features and ample parking options. Diners can
+  appreciate the variety of options, from lunch specials to evening entrees, all
+  designed to cater to families and groups looking for quality Japanese-inspired
+  cuisine. Whether you're exploring sushi places near you or craving a casual
+  meal with beer and wine selections, this spot delivers on taste and value in a
+  comfortable setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ8yzvPu4PVIgR2UduuT0seg8/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3b01IVG9nRRAB
@@ -348,6 +371,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURMalBhWGxRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURMalBhWGxRRRAB!2m1!1s0x88540fee3eef2cf3:0xf7a2c3db96e47d9
+review_summary: >-
+  What Customers Are Saying$$$Visitors often rave about the delicious sushi and
+  grilled dishes at this local favorite, highlighting how the flavors are fresh
+  and satisfying for anyone hunting for great sushi nearby. Many appreciate the
+  friendly service and welcoming vibe that makes every meal feel relaxed and
+  enjoyable, with lunch specials standing out as a smart, affordable choice.
+  While most experiences are positive, some note occasional waits during busy
+  times, but the staff's efforts to resolve issues keep things upbeat overall.
+  Folks searching for the best sushi near me will find the portions generous and
+  the overall value hard to beat, making it a go-to for repeated visits. In
+  summary, it's a solid pick for sushi lovers, with the majority of feedback
+  emphasizing its reliable quality and inviting environment.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -380,7 +416,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

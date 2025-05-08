@@ -5,4 +5,5 @@ permalink: /arkansas/sherwood/
 stateAbbr: AR
 stateName: Arkansas
 cityName: Sherwood
+
 ---

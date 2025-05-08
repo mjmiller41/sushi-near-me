@@ -5,4 +5,5 @@ permalink: /california/carlsbad/
 stateAbbr: CA
 stateName: California
 cityName: Carlsbad
+
 ---

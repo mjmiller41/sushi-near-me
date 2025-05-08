@@ -5,4 +5,5 @@ permalink: /minnesota/eden-prairie/
 stateAbbr: MN
 stateName: Minnesota
 cityName: Eden Prairie
+
 ---

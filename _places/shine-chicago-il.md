@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Shine"
+title: Shine
 permalink: /illinois/chicago/shine.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
 seo:
-  name: "Shine"
-  type: Restaurant
-  links: null
-description: "Shine serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.shinerestaurant.com/?utm_source=google&utm_medium=website
 place_id: ChIJkeYCnhDTD4gRMuyYRceos4Q
 photos:
   - name: >-
@@ -169,22 +167,192 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x880fd3109e02e691:0x84b3a8c74598ec32!10e5
 primary_type: Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 4:00 – 10:30 PM'
+    - 'Tuesday: 4:00 – 10:30 PM'
+    - 'Wednesday: 4:00 – 10:30 PM'
+    - 'Thursday: 4:00 – 10:30 PM'
+    - 'Friday: 4:00 – 10:30 PM'
+    - 'Saturday: 11:30 AM – 10:30 PM'
+    - 'Sunday: 11:30 AM – 10:00 PM'
+  nextCloseTime: '2025-05-04T03:30:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 16
+          minute: 0
+        close:
+          day: 0
+          hour: 22
+          minute: 0
+      - open:
+          day: 1
+          hour: 16
+          minute: 0
+        close:
+          day: 1
+          hour: 22
+          minute: 0
+      - open:
+          day: 2
+          hour: 16
+          minute: 0
+        close:
+          day: 2
+          hour: 22
+          minute: 0
+      - open:
+          day: 3
+          hour: 16
+          minute: 0
+        close:
+          day: 3
+          hour: 22
+          minute: 0
+      - open:
+          day: 4
+          hour: 16
+          minute: 0
+        close:
+          day: 4
+          hour: 22
+          minute: 0
+      - open:
+          day: 5
+          hour: 16
+          minute: 0
+        close:
+          day: 5
+          hour: 23
+          minute: 0
+      - open:
+          day: 6
+          hour: 11
+          minute: 30
+        close:
+          day: 6
+          hour: 23
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 4:00 – 10:00 PM'
+      - 'Tuesday: 4:00 – 10:00 PM'
+      - 'Wednesday: 4:00 – 10:00 PM'
+      - 'Thursday: 4:00 – 10:00 PM'
+      - 'Friday: 4:00 – 11:00 PM'
+      - 'Saturday: 11:30 AM – 11:00 PM'
+      - 'Sunday: 4:00 – 10:00 PM'
+    secondaryHoursType: DELIVERY
+    nextCloseTime: '2025-05-04T04:00:00Z'
+phone: (773) 296-0101
+price_level: PRICE_LEVEL_MODERATE
+price_range: $30 &ndash; $50
+rating: '4.4'
+rating_count: 492
+website: https://www.shinerestaurant.com/?utm_source=google&utm_medium=website
+description: >-
+  Discover Shine in Chicago, IL$$$Shine in Chicago, IL, stands out as a
+  welcoming spot for those seeking flavorful Pan-Asian cuisine, blending fresh
+  sushi with Shanghai-style entrees in a relaxed setting. This restaurant offers
+  a variety of dishes that highlight authentic flavors and creative
+  presentations, making it a go-to choice for diners exploring Japanese-inspired
+  options in the vibrant Lincoln Park neighborhood. With its accessible features
+  like wheelchair-friendly entrances and moderate pricing, it's ideal for a
+  casual meal or gathering with friends, appealing to anyone hunting for
+  top-rated sushi experiences nearby. The menu caters to diverse tastes,
+  featuring fresh ingredients that bring out the best in each bite, ensuring a
+  satisfying visit whether you're in the mood for light rolls or hearty mains.
+  Open evenings and weekends, it provides a convenient option for locals and
+  visitors alike looking to enjoy quality Asian fare without the fuss.
+generative_summary: >-
+  Discover Shine in Chicago, IL$$$Shine in Chicago, IL, stands out as a
+  welcoming spot for those seeking flavorful Pan-Asian cuisine, blending fresh
+  sushi with Shanghai-style entrees in a relaxed setting. This restaurant offers
+  a variety of dishes that highlight authentic flavors and creative
+  presentations, making it a go-to choice for diners exploring Japanese-inspired
+  options in the vibrant Lincoln Park neighborhood. With its accessible features
+  like wheelchair-friendly entrances and moderate pricing, it's ideal for a
+  casual meal or gathering with friends, appealing to anyone hunting for
+  top-rated sushi experiences nearby. The menu caters to diverse tastes,
+  featuring fresh ingredients that bring out the best in each bite, ensuring a
+  satisfying visit whether you're in the mood for light rolls or hearty mains.
+  Open evenings and weekends, it provides a convenient option for locals and
+  visitors alike looking to enjoy quality Asian fare without the fuss.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Think of the Food$$$From the high ratings and feedback around
+  town, folks generally enjoy the fresh and creative sushi selections at this
+  spot, often noting how the flavors stand out in a satisfying way. Many
+  appreciate the balance of traditional and innovative dishes, with comments
+  highlighting the generous portions and overall value for a moderate price
+  point. While some mention occasional waits during peak hours, the consensus
+  leans positive on the welcoming atmosphere and attentive service that make
+  dining here feel effortless. Overall, it's clear that customers keep coming
+  back for the reliable quality and variety, making it a solid pick for anyone
+  craving Japanese-inspired meals in the area. If you're on the hunt for tasty
+  sushi options close to home, this place seems to deliver a consistently
+  enjoyable experience based on the buzz.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +378,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

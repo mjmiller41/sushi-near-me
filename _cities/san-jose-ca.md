@@ -5,4 +5,5 @@ permalink: /california/san-jose/
 stateAbbr: CA
 stateName: California
 cityName: San Jose
+
 ---

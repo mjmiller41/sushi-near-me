@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Volcano Sushi"
+title: Volcano Sushi
 permalink: /michigan/shelby-charter-township/volcano-sushi.html
 stateAbbr: MI
 stateName: Michigan
 cityName: Shelby Charter Township
 seo:
-  name: "Volcano Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Little Japanese restaurant serving sushi & kitchen entrees in a quaint strip-mall storefront. Volcano Sushi serves delicious sushi in Shelby Charter Township, Michigan. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ5ej6iXTeJIgROekQYOWMRDI
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 0
 website: null
+description: >-
+  Discover Volcano Sushi in Shelby Charter Township, MI$$$Volcano Sushi in
+  Shelby Charter Township, MI, offers a welcoming spot for enjoying authentic
+  Japanese flavors in a cozy setting. This sushi restaurant specializes in a
+  variety of specialty rolls, complemented by tempura and fried rice, making it
+  a go-to choice for fresh and flavorful dining options. The venue boasts
+  accessibility features like wheelchair-friendly entrances and seating, along
+  with moderate pricing that appeals to those seeking quality without breaking
+  the bank. Patrons can explore a menu that highlights creative twists on
+  traditional dishes, ideal for anyone searching for reliable Japanese places
+  nearby. With its clean atmosphere and focus on fresh ingredients, it's a solid
+  pick for casual meals or takeout in the area.
+generative_summary: >-
+  Discover Volcano Sushi in Shelby Charter Township, MI$$$Volcano Sushi in
+  Shelby Charter Township, MI, offers a welcoming spot for enjoying authentic
+  Japanese flavors in a cozy setting. This sushi restaurant specializes in a
+  variety of specialty rolls, complemented by tempura and fried rice, making it
+  a go-to choice for fresh and flavorful dining options. The venue boasts
+  accessibility features like wheelchair-friendly entrances and seating, along
+  with moderate pricing that appeals to those seeking quality without breaking
+  the bank. Patrons can explore a menu that highlights creative twists on
+  traditional dishes, ideal for anyone searching for reliable Japanese places
+  nearby. With its clean atmosphere and focus on fresh ingredients, it's a solid
+  pick for casual meals or takeout in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ5ej6iXTeJIgROekQYOWMRDI/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3cFl6MjBRRRAB
@@ -352,6 +375,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURkaWVLWlZ3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURkaWVLWlZ3EAE!2m1!1s0x8824de7489fae8e5:0x32448ce56010e939
+review_summary: >-
+  What Customers Are Saying About the Experience$$$Folks rave about the fresh
+  and tasty sushi here, often noting how the ingredients shine through in every
+  bite, making it a standout option for those craving reliable Japanese fare
+  close to home. Many appreciate the friendly and attentive service that keeps
+  things running smoothly, from quick fixes on orders to ensuring drinks are
+  always topped up. The atmosphere comes across as relaxing and spotlessly
+  clean, even in the smaller dining space, which adds to the overall charm
+  without feeling cramped. Overall, it's praised as a great value with
+  consistently good meals, encouraging repeat visits for anyone looking for
+  top-rated sushi spots. While there might be minor menu navigation quirks, the
+  positive vibes and solid execution keep the experience enjoyable and worth
+  recommending.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -384,8 +421,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Little Japanese restaurant serving sushi & kitchen entrees in a quaint
   strip-mall storefront.
 

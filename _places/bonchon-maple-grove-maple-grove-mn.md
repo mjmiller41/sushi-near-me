@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Bonchon Maple Grove"
+title: Bonchon Maple Grove
 permalink: /minnesota/maple-grove/bonchon-maple-grove.html
 stateAbbr: MN
 stateName: Minnesota
 cityName: Maple Grove
 seo:
-  name: "Bonchon Maple Grove"
-  type: Restaurant
-  links: null
-description: "Bonchon Maple Grove serves delicious sushi in Maple Grove, Minnesota. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://locations.bonchon.com/ll/US/MN/Maple-Grove/11708-Elm-Creek-Blvd-N
 place_id: ChIJAYjuILc3s1IRtnYbi2NNhpg
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x52b337b720ee8801:0x98864d638b1b76b6!10e5
 primary_type: Asian Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 10:00 PM'
+    - 'Tuesday: 11:00 AM – 10:00 PM'
+    - 'Wednesday: 11:00 AM – 10:00 PM'
+    - 'Thursday: 11:00 AM – 10:00 PM'
+    - 'Friday: 11:00 AM – 10:00 PM'
+    - 'Saturday: 11:00 AM – 10:00 PM'
+    - 'Sunday: 11:00 AM – 10:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,49 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (763) 760-7100
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.3'
+rating_count: 593
+website: https://locations.bonchon.com/ll/US/MN/Maple-Grove/11708-Elm-Creek-Blvd-N
+description: >-
+  Explore Bonchon in Maple Grove, MN$$$Bonchon Maple Grove in Maple Grove, MN,
+  stands out as a vibrant Korean chain restaurant specializing in Asian-fusion
+  cuisine that blends bold flavors and fresh ingredients. This spot is renowned
+  for its signature fried chicken, which highlights the restaurant's commitment
+  to crispy textures and authentic tastes, making it a go-to for those seeking
+  flavorful Asian dining options nearby. With wheelchair-accessible features and
+  a welcoming atmosphere, it's designed for everyone to enjoy a comfortable
+  meal, complemented by a moderate price range that offers great value. Open
+  daily from 11 AM to 10 PM, this location provides a convenient spot for lunch
+  or dinner, appealing to anyone exploring top-rated Asian eateries in the area.
+generative_summary: >-
+  Explore Bonchon in Maple Grove, MN$$$Bonchon Maple Grove in Maple Grove, MN,
+  stands out as a vibrant Korean chain restaurant specializing in Asian-fusion
+  cuisine that blends bold flavors and fresh ingredients. This spot is renowned
+  for its signature fried chicken, which highlights the restaurant's commitment
+  to crispy textures and authentic tastes, making it a go-to for those seeking
+  flavorful Asian dining options nearby. With wheelchair-accessible features and
+  a welcoming atmosphere, it's designed for everyone to enjoy a comfortable
+  meal, complemented by a moderate price range that offers great value. Open
+  daily from 11 AM to 10 PM, this location provides a convenient spot for lunch
+  or dinner, appealing to anyone exploring top-rated Asian eateries in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors often praise the mouthwatering
+  chicken wings at this Asian fusion spot, with favorites like the spicy and soy
+  garlic options stealing the show for their bold, satisfying flavors. Alongside
+  these, the drumsticks and bulgogi fries get high marks for being tasty and
+  well-prepared, adding to the overall enjoyable experience. The staff comes
+  across as friendly and efficient, helping to keep wait times reasonable and
+  enhancing the casual vibe. While some note that the prices might feel a tad
+  steep for what you get, the general consensus leans positive, making it a
+  solid choice for anyone craving reliable Asian fare without the hassle.
+  Overall, it's a welcoming place that delivers on flavor while keeping things
+  approachable for groups or solo diners.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +310,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

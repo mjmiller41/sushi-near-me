@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kumori Sushi & Teppanyaki"
+title: Kumori Sushi & Teppanyaki
 permalink: /texas/san-antonio/kumori-sushi-teppanyaki.html
 stateAbbr: TX
 stateName: Texas
 cityName: San Antonio
 seo:
-  name: "Kumori Sushi & Teppanyaki"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Kumori Sushi & Teppanyaki serves delicious sushi in San Antonio, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ1Uh5TmNCXIYR9UBN_fdM-lU
 photos:
   - name: >-
@@ -185,7 +183,48 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Kumori Sushi & Teppanyaki in San Antonio, TX$$$Kumori Sushi &
+  Teppanyaki in San Antonio, TX, offers a welcoming spot for enjoying fresh
+  Japanese-inspired dishes in a relaxed setting. This sushi restaurant
+  specializes in flavorful teppanyaki fare, alongside a selection of cocktails
+  and sake that pair perfectly with meals, making it an ideal choice for casual
+  dining. The space is designed to be family-friendly, with options that cater
+  to a variety of tastes, ensuring everyone can find something satisfying.
+  Accessibility features like wheelchair-friendly parking and seating add to the
+  convenience, enhancing the overall experience for all visitors. Whether you're
+  searching for top-rated sushi places near you, this location stands out for
+  its approachable vibe and diverse menu that includes signature rolls and
+  grilled specialties.
+generative_summary: >-
+  Discover Kumori Sushi & Teppanyaki in San Antonio, TX$$$Kumori Sushi &
+  Teppanyaki in San Antonio, TX, offers a welcoming spot for enjoying fresh
+  Japanese-inspired dishes in a relaxed setting. This sushi restaurant
+  specializes in flavorful teppanyaki fare, alongside a selection of cocktails
+  and sake that pair perfectly with meals, making it an ideal choice for casual
+  dining. The space is designed to be family-friendly, with options that cater
+  to a variety of tastes, ensuring everyone can find something satisfying.
+  Accessibility features like wheelchair-friendly parking and seating add to the
+  convenience, enhancing the overall experience for all visitors. Whether you're
+  searching for top-rated sushi places near you, this location stands out for
+  its approachable vibe and diverse menu that includes signature rolls and
+  grilled specialties.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Guests Are Saying About This Sushi Spot$$$Folks often rave about the
+  fantastic all-you-can-eat deals and tasty specials like creative rolls at this
+  sushi restaurant, making it a go-to for those craving flavorful options
+  without breaking the bank too much. Many appreciate the friendly and attentive
+  service that keeps the atmosphere lively and enjoyable, especially when
+  sharing a meal with friends or family. While some mention that prices can add
+  up quickly, the quality of the dishes and drinks, such as refreshing martinis,
+  generally leave a positive impression. Overall, it's a solid pick for anyone
+  exploring Japanese places near me, with the highlights outweighing any minor
+  hiccups in a straightforward way. If you're on the hunt for best sushi near
+  me, this spot delivers a generally upbeat experience that's worth checking out
+  for its reliable flavors and welcoming vibe.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +250,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

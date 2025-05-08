@@ -1,15 +1,14 @@
 ---
 layout: place
-title: "Poke Poke - Sushi Unrolled"
+title: Poke Poke - Sushi Unrolled
 permalink: /michigan/berkley/poke-poke-sushi-unrolled.html
 stateAbbr: MI
 stateName: Michigan
 cityName: Berkley
 seo:
-  name: "Poke Poke - Sushi Unrolled"
-  type: Restaurant
-  links: null
-description: "Poke Poke - Sushi Unrolled serves delicious sushi in Berkley, Michigan. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: >-
+    https://eatpokepoke.com/stores/berkley/?utm_source=GoogleBusinessProfile&utm_medium=organic&utm_campaign=gmb-website-link
 place_id: ChIJoQ7bSibJJIgRsSCmuHLWx_E
 photos:
   - name: >-
@@ -168,8 +167,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8824c9264adb0ea1:0xf1c7d672b8a620b1!10e5
 primary_type: American Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 10
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 10
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 10
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 10
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 10
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 10
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 10:30 AM – 9:00 PM'
+    - 'Tuesday: 10:30 AM – 9:00 PM'
+    - 'Wednesday: 10:30 AM – 9:00 PM'
+    - 'Thursday: 10:30 AM – 9:00 PM'
+    - 'Friday: 10:30 AM – 9:00 PM'
+    - 'Saturday: 10:30 AM – 9:00 PM'
+    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T01:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -177,13 +241,52 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (248) 912-6669
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '3.8'
+rating_count: 37
+website: >-
+  https://eatpokepoke.com/stores/berkley/?utm_source=GoogleBusinessProfile&utm_medium=organic&utm_campaign=gmb-website-link
+description: >-
+  Explore Poke Poke in Berkley, MI$$$Poke Poke - Sushi Unrolled in Berkley, MI,
+  stands out as a vibrant spot for fresh sushi options that blend creative
+  flavors with quality ingredients. This welcoming eatery features accessible
+  entrances and parking, making it easy for everyone to enjoy a casual meal in a
+  modern setting. With extended hours from late morning to evening, it's ideal
+  for those seeking satisfying sushi restaurants near you, whether for a quick
+  lunch or dinner outing. The menu highlights inventive rolls and poke bowls
+  that cater to a variety of tastes, emphasizing fresh seafood and balanced
+  portions. Overall, it's a go-to choice for anyone exploring top sushi places
+  in the area, offering a relaxed vibe that pairs well with its moderate
+  pricing.
+generative_summary: >-
+  Explore Poke Poke in Berkley, MI$$$Poke Poke - Sushi Unrolled in Berkley, MI,
+  stands out as a vibrant spot for fresh sushi options that blend creative
+  flavors with quality ingredients. This welcoming eatery features accessible
+  entrances and parking, making it easy for everyone to enjoy a casual meal in a
+  modern setting. With extended hours from late morning to evening, it's ideal
+  for those seeking satisfying sushi restaurants near you, whether for a quick
+  lunch or dinner outing. The menu highlights inventive rolls and poke bowls
+  that cater to a variety of tastes, emphasizing fresh seafood and balanced
+  portions. Overall, it's a go-to choice for anyone exploring top sushi places
+  in the area, offering a relaxed vibe that pairs well with its moderate
+  pricing.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback Highlights$$$Folks checking out this sushi spot often rave
+  about the fresh ingredients and creative twists on classic rolls, making it a
+  solid pick for anyone craving reliable options nearby. While some mention
+  occasional waits during peak times, the overall experience is generally
+  positive with friendly service and generous portions that leave diners
+  satisfied. It's clear that the variety of flavors appeals to sushi enthusiasts
+  looking for something approachable yet tasty, with many appreciating the clean
+  and inviting atmosphere. If you're on the hunt for great sushi close to you,
+  this place delivers a worthwhile visit that's worth the buzz. In summary, it's
+  a dependable choice that balances fun and flavor, earning nods for its
+  everyday appeal in the local scene.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -209,7 +312,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

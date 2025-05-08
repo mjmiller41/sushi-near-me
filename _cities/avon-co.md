@@ -5,4 +5,5 @@ permalink: /colorado/avon/
 stateAbbr: CO
 stateName: Colorado
 cityName: Avon
+
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Arigato Sushi"
+title: Arigato Sushi
 permalink: /utah/west-jordan/arigato-sushi.html
 stateAbbr: UT
 stateName: Utah
 cityName: West Jordan
 seo:
-  name: "Arigato Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Arigato Sushi serves delicious sushi in West Jordan, Utah. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJKbb5roqJUocRbW5Pxqf2AJw
 photos:
   - name: >-
@@ -184,7 +182,44 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Arigato Sushi in West Jordan, UT$$$Arigato Sushi in West Jordan, UT,
+  provides a welcoming and relaxed atmosphere perfect for enjoying fresh
+  Japanese-inspired dishes. This spot stands out with its creative menu
+  featuring comforting options like sushi pizzas and antojitos, blending flavors
+  that appeal to those seeking a casual dining experience. The restaurant
+  emphasizes accessibility, making it easy for everyone to enjoy a meal with
+  convenient features for all visitors. Whether you're looking for sushi
+  restaurants in the area, it's a great place to savor unique comfort foods that
+  highlight quality ingredients. For anyone searching for top-rated sushi near
+  me, Arigato Sushi delivers a laid-back vibe that keeps diners coming back for
+  more.
+generative_summary: >-
+  Discover Arigato Sushi in West Jordan, UT$$$Arigato Sushi in West Jordan, UT,
+  provides a welcoming and relaxed atmosphere perfect for enjoying fresh
+  Japanese-inspired dishes. This spot stands out with its creative menu
+  featuring comforting options like sushi pizzas and antojitos, blending flavors
+  that appeal to those seeking a casual dining experience. The restaurant
+  emphasizes accessibility, making it easy for everyone to enjoy a meal with
+  convenient features for all visitors. Whether you're looking for sushi
+  restaurants in the area, it's a great place to savor unique comfort foods that
+  highlight quality ingredients. For anyone searching for top-rated sushi near
+  me, Arigato Sushi delivers a laid-back vibe that keeps diners coming back for
+  more.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Diners at Arigato Sushi$$$Visitors often rave about the tasty
+  sushi rolls with fun Latin twists, making it a standout choice for anyone
+  craving something fresh and flavorful. Many appreciate the creative
+  combinations like specialty rolls that incorporate sweet elements, adding a
+  delightful surprise to every bite. The service stands out as friendly and
+  attentive, helping to create a welcoming environment that enhances the overall
+  meal. Folks generally note the high-quality ingredients that make each dish
+  feel satisfying and well-prepared, without overwhelming the palate. If you're
+  exploring sushi places near me, this spot earns praise for its honest blend of
+  innovation and comfort, encouraging a positive return visit.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +245,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

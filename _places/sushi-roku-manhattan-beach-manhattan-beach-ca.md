@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Roku Manhattan Beach"
+title: Sushi Roku Manhattan Beach
 permalink: /california/manhattan-beach/sushi-roku-manhattan-beach.html
 stateAbbr: CA
 stateName: California
 cityName: Manhattan Beach
 seo:
-  name: "Sushi Roku Manhattan Beach"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi Roku Manhattan Beach serves delicious sushi in Manhattan Beach, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJZW81ao2zwoARsBy6gYQiQuw
 photos:
   - name: >-
@@ -185,7 +183,42 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Sushi Roku in Manhattan Beach, CA$$$Sushi Roku in Manhattan Beach,
+  CA, stands out as a welcoming sushi restaurant offering a blend of casual
+  vibes and innovative Japanese cuisine focused on vibrant, bold flavors. This
+  spot delights visitors with its contemporary take on fresh rolls and signature
+  dishes, perfect for those seeking quality sushi options in a relaxed setting.
+  The restaurant emphasizes accessibility, ensuring a comfortable experience for
+  all guests, while its prime location near the beach adds to the appeal for
+  anyone exploring local dining gems. Whether you're in the mood for expertly
+  crafted nigiri or creative maki, this establishment captures the essence of
+  modern Japanese fare that keeps patrons coming back.
+generative_summary: >-
+  Discover Sushi Roku in Manhattan Beach, CA$$$Sushi Roku in Manhattan Beach,
+  CA, stands out as a welcoming sushi restaurant offering a blend of casual
+  vibes and innovative Japanese cuisine focused on vibrant, bold flavors. This
+  spot delights visitors with its contemporary take on fresh rolls and signature
+  dishes, perfect for those seeking quality sushi options in a relaxed setting.
+  The restaurant emphasizes accessibility, ensuring a comfortable experience for
+  all guests, while its prime location near the beach adds to the appeal for
+  anyone exploring local dining gems. Whether you're in the mood for expertly
+  crafted nigiri or creative maki, this establishment captures the essence of
+  modern Japanese fare that keeps patrons coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Buzzing About$$$Feedback from visitors highlights the fresh
+  and flavorful sushi selections that make this spot a go-to for anyone craving
+  top-rated Japanese eats nearby. Many appreciate the creative twists on classic
+  dishes, noting how the bold flavors elevate the overall meal without
+  overwhelming the palate. While some mention occasional waits during peak
+  times, the general consensus leans positive, with folks enjoying the welcoming
+  atmosphere and attentive service that enhance the dining experience. Overall,
+  it's clear that this location earns its reputation as a favorite among sushi
+  lovers, offering a solid choice for groups or solo diners looking for
+  reliable, enjoyable meals in the area.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +244,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

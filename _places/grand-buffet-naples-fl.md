@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Grand Buffet"
+title: Grand Buffet
 permalink: /florida/naples/grand-buffet.html
 stateAbbr: FL
 stateName: Florida
 cityName: Naples
 seo:
-  name: "Grand Buffet"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Expansive buffet of all-you-can-eat sushi, seafood & Chinese/American favorites in a roomy space. Grand Buffet serves delicious sushi in Naples, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJ5w0dWdHj2ogRhUlY6DOASp8
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $10 &ndash; $20
 rating: '3.7'
 rating_count: 0
 website: null
+description: >-
+  Experience Grand Buffet in Naples, FL$$$Grand Buffet in Naples, FL, stands out
+  as a spacious eatery offering an all-you-can-eat selection of fresh sushi and
+  diverse global flavors, making it a go-to spot for those exploring sushi
+  options nearby. The restaurant boasts a wide array of seafood, Chinese, and
+  American dishes in a roomy setting that's perfect for casual family outings or
+  groups seeking variety without the hassle. Accessibility features like
+  wheelchair-friendly entrances and seating add to its appeal, ensuring everyone
+  can enjoy the vibrant buffet experience comfortably. With options for takeout
+  and a selection of beverages, it's an easy choice for laid-back meals that
+  cater to different tastes. Whether you're in the mood for top-rated sushi or
+  simply a satisfying dine-in option, this spot delivers a straightforward and
+  welcoming atmosphere for everyday enjoyment.
+generative_summary: >-
+  Experience Grand Buffet in Naples, FL$$$Grand Buffet in Naples, FL, stands out
+  as a spacious eatery offering an all-you-can-eat selection of fresh sushi and
+  diverse global flavors, making it a go-to spot for those exploring sushi
+  options nearby. The restaurant boasts a wide array of seafood, Chinese, and
+  American dishes in a roomy setting that's perfect for casual family outings or
+  groups seeking variety without the hassle. Accessibility features like
+  wheelchair-friendly entrances and seating add to its appeal, ensuring everyone
+  can enjoy the vibrant buffet experience comfortably. With options for takeout
+  and a selection of beverages, it's an easy choice for laid-back meals that
+  cater to different tastes. Whether you're in the mood for top-rated sushi or
+  simply a satisfying dine-in option, this spot delivers a straightforward and
+  welcoming atmosphere for everyday enjoyment.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ5w0dWdHj2ogRhUlY6DOASp8/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3aktXWlVBEAE
@@ -424,6 +449,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURQeTdPaUl3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURQeTdPaUl3EAE!2m1!1s0x88dae3d1591d0de7:0x9f4a8033e8584985
+review_summary: >-
+  Insights from Guest Feedback$$$Visitors to Grand Buffet often highlight the
+  solid variety of dishes, including fresh sushi and buffet favorites, as a
+  highlight for casual meals with family or friends. While some folks mention
+  the service as friendly and efficient during busy times, others point out
+  occasional hiccups with billing and seating that could use some smoothing out
+  for a smoother experience. Overall, the value for the price is appreciated,
+  especially for those looking for affordable sushi spots close by, though a few
+  suggest that clearer communication from staff might enhance the vibe. Despite
+  these notes, many enjoy the energetic setting and quick options for takeout,
+  making it a reliable choice for everyday dining. In the end, it's a place
+  where the food keeps things positive, encouraging guests to return with a bit
+  of patience for the little details.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -456,8 +495,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Expansive buffet of all-you-can-eat sushi, seafood & Chinese/American
   favorites in a roomy space.
 

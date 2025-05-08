@@ -5,4 +5,5 @@ permalink: /florida/miami/
 stateAbbr: FL
 stateName: Florida
 cityName: Miami
+
 ---

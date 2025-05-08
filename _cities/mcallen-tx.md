@@ -5,4 +5,5 @@ permalink: /texas/mcallen/
 stateAbbr: TX
 stateName: Texas
 cityName: McAllen
+
 ---

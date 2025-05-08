@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Song - Deerfield Beach"
+title: Sushi Song - Deerfield Beach
 permalink: /florida/deerfield-beach/sushi-song-deerfield-beach.html
 stateAbbr: FL
 stateName: Florida
 cityName: Deerfield Beach
 seo:
-  name: "Sushi Song - Deerfield Beach"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi Song - Deerfield Beach serves delicious sushi in Deerfield Beach, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJNd6S0GDi2IgRpZm96uMXVjw
 photos:
   - name: >-
@@ -185,7 +183,43 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Explore Sushi Song in Deerfield Beach, Florida$$$Sushi Song in Deerfield
+  Beach, Florida, stands out as a welcoming sushi restaurant specializing in
+  fresh Japanese flavors that appeal to local diners seeking authentic options.
+  The spot emphasizes accessibility with features like wheelchair-friendly
+  parking, entrances, and seating, creating an inclusive environment for
+  everyone to enjoy a casual meal. Its cozy atmosphere makes it perfect for
+  savoring a variety of sushi dishes, from classic rolls to creative specials,
+  ideal for those exploring sushi restaurants nearby. Whether you're stopping by
+  for a quick bite or a relaxed dining experience, the focus on convenience and
+  quality ingredients adds to its charm as a go-to destination for Japanese
+  cuisine enthusiasts.
+generative_summary: >-
+  Explore Sushi Song in Deerfield Beach, Florida$$$Sushi Song in Deerfield
+  Beach, Florida, stands out as a welcoming sushi restaurant specializing in
+  fresh Japanese flavors that appeal to local diners seeking authentic options.
+  The spot emphasizes accessibility with features like wheelchair-friendly
+  parking, entrances, and seating, creating an inclusive environment for
+  everyone to enjoy a casual meal. Its cozy atmosphere makes it perfect for
+  savoring a variety of sushi dishes, from classic rolls to creative specials,
+  ideal for those exploring sushi restaurants nearby. Whether you're stopping by
+  for a quick bite or a relaxed dining experience, the focus on convenience and
+  quality ingredients adds to its charm as a go-to destination for Japanese
+  cuisine enthusiasts.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Visitor Feedback$$$Folks generally rave about the fresh and
+  tasty sushi offerings at this spot, often highlighting it as a solid pick for
+  anyone hunting for reliable Japanese eats close by. Many appreciate the
+  approachable vibe and thoughtful accessibility features that make dining out
+  feel hassle-free and enjoyable for all. It's commonly noted for its range of
+  options that cater to different tastes, whether you're grabbing something
+  light or sharing with friends. Overall, visitors find it a dependable choice
+  that delivers good value, keeping the experience positive and worth
+  recommending for those in search of top-rated sushi in the area.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +245,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

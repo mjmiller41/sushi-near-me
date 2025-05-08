@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Taisho Japanese Grill and Sushi Bar"
+title: Taisho Japanese Grill and Sushi Bar
 permalink: /texas/cypress/taisho-japanese-grill-and-sushi-bar.html
 stateAbbr: TX
 stateName: Texas
 cityName: Cypress
 seo:
-  name: "Taisho Japanese Grill and Sushi Bar"
-  type: Restaurant
+  type: restaurant
   links: http://www.itaisho.com/
-description: "Taisho Japanese Grill and Sushi Bar serves delicious sushi in Cypress, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJtbCZImDWQIYRb8_78HkaVtk
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8640d6602299b0b5:0xd9561a79f0fbcf6f!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 15
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 15
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 15
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 15
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 15
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 15
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 15
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:15 AM – 10:00 PM'
     - 'Tuesday: 11:15 AM – 10:00 PM'
     - 'Wednesday: 11:15 AM – 10:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:15 AM – 11:00 PM'
     - 'Saturday: 11:15 AM – 11:00 PM'
     - 'Sunday: 11:15 AM – 10:00 PM'
-  current:
-    - 'Monday: 11:15 AM – 10:00 PM'
-    - 'Tuesday: 11:15 AM – 10:00 PM'
-    - 'Wednesday: 11:15 AM – 10:00 PM'
-    - 'Thursday: 11:15 AM – 10:00 PM'
-    - 'Friday: 11:15 AM – 11:00 PM'
-    - 'Saturday: 11:15 AM – 11:00 PM'
-    - 'Sunday: 11:15 AM – 10:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,312 @@ phone: (281) 213-4537
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.1'
-rating_count: 0
+rating_count: 585
 website: http://www.itaisho.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Taisho Japanese Grill and Sushi Bar in Cypress, TX$$$Taisho Japanese
+  Grill and Sushi Bar in Cypress, TX, stands out as a welcoming spot for fresh
+  sushi and flavorful Japanese cuisine, perfect for those searching for
+  top-rated sushi restaurants near me. This establishment offers a variety of
+  hibachi-style meals cooked right at your table, alongside creative sushi rolls
+  that highlight high-quality ingredients and authentic flavors. With accessible
+  features like wheelchair-friendly seating and parking, it's designed to
+  accommodate everyone looking for a relaxed dining experience. The inviting
+  atmosphere combines cozy indoor vibes with outdoor options, making it an ideal
+  choice for casual meals or special occasions, especially if you're exploring
+  Japanese places near me. Open daily with extended hours on weekends, it
+  provides a convenient option for sushi enthusiasts seeking a blend of
+  tradition and excitement in their meals.
+generative_summary: >-
+  Discover Taisho Japanese Grill and Sushi Bar in Cypress, TX$$$Taisho Japanese
+  Grill and Sushi Bar in Cypress, TX, stands out as a welcoming spot for fresh
+  sushi and flavorful Japanese cuisine, perfect for those searching for
+  top-rated sushi restaurants near me. This establishment offers a variety of
+  hibachi-style meals cooked right at your table, alongside creative sushi rolls
+  that highlight high-quality ingredients and authentic flavors. With accessible
+  features like wheelchair-friendly seating and parking, it's designed to
+  accommodate everyone looking for a relaxed dining experience. The inviting
+  atmosphere combines cozy indoor vibes with outdoor options, making it an ideal
+  choice for casual meals or special occasions, especially if you're exploring
+  Japanese places near me. Open daily with extended hours on weekends, it
+  provides a convenient option for sushi enthusiasts seeking a blend of
+  tradition and excitement in their meals.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJtbCZImDWQIYRb8_78HkaVtk/reviews/ChZDSUhNMG9nS0VJQ0FnTURndnEydGFBEAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        We’ve been to this restaurant a few times now, and each visit has been
+        consistently wonderful, never failing to impress. The food is always
+        top-notch, from the tender, perfectly cooked chicken to the flavorful
+        fried rice and the mouthwatering sushi. One standout item that I always
+        look forward to is the yellowtail sashimi – it’s always incredibly fresh
+        and bursting with flavor. The ginger dressing on the side salad is also
+        one of the best I’ve ever tasted; it’s tangy, yet smooth, with just the
+        right amount of spice.
+
+
+        That being said, there was one small downside to this visit. While the
+        food was amazing as always, the chef seemed a little rushed and didn’t
+        put as much effort into the usual tricks and playful banter that make
+        the experience feel more interactive and fun. I understand that the
+        restaurant can get busy, but I do enjoy the entertainment factor of the
+        meal. I come here not just for the delicious food, but also for the
+        show. It’s always a bonus when the chef goes the extra mile to engage
+        the adults as well as the kids. Hopefully, on our next visit, the chef
+        will bring back a little more of that playful energy we’ve come to
+        expect.
+
+
+        Overall, though, it’s always a great experience. The atmosphere, food
+        quality, and service are all fantastic, and I look forward to many more
+        visits in the future.
+      languageCode: en
+    originalText:
+      text: >-
+        We’ve been to this restaurant a few times now, and each visit has been
+        consistently wonderful, never failing to impress. The food is always
+        top-notch, from the tender, perfectly cooked chicken to the flavorful
+        fried rice and the mouthwatering sushi. One standout item that I always
+        look forward to is the yellowtail sashimi – it’s always incredibly fresh
+        and bursting with flavor. The ginger dressing on the side salad is also
+        one of the best I’ve ever tasted; it’s tangy, yet smooth, with just the
+        right amount of spice.
+
+
+        That being said, there was one small downside to this visit. While the
+        food was amazing as always, the chef seemed a little rushed and didn’t
+        put as much effort into the usual tricks and playful banter that make
+        the experience feel more interactive and fun. I understand that the
+        restaurant can get busy, but I do enjoy the entertainment factor of the
+        meal. I come here not just for the delicious food, but also for the
+        show. It’s always a bonus when the chef goes the extra mile to engage
+        the adults as well as the kids. Hopefully, on our next visit, the chef
+        will bring back a little more of that playful energy we’ve come to
+        expect.
+
+
+        Overall, though, it’s always a great experience. The atmosphere, food
+        quality, and service are all fantastic, and I look forward to many more
+        visits in the future.
+      languageCode: en
+    authorAttribution:
+      displayName: Lupita Rodriguez
+      uri: https://www.google.com/maps/contrib/116148873172106098331/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWRXqnOPmhNaxnGMrzn0h2BTOlXGvBeJXGofM6-KKtHXS4pEcQZNA=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-02-25T01:54:10.586854Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURndnEydGFBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURndnEydGFBEAE!2m1!1s0x8640d6602299b0b5:0xd9561a79f0fbcf6f
+  - name: >-
+      places/ChIJtbCZImDWQIYRb8_78HkaVtk/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3dE8tR3lRRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 3
+    text:
+      text: >-
+        I didn’t try much sushi, but it was quite decent!! I recommend ordering
+        off of the lunch menu the California roll!! It’s simple at a good price.
+      languageCode: en
+    originalText:
+      text: >-
+        I didn’t try much sushi, but it was quite decent!! I recommend ordering
+        off of the lunch menu the California roll!! It’s simple at a good price.
+      languageCode: en
+    authorAttribution:
+      displayName: norah
+      uri: https://www.google.com/maps/contrib/116321597411286653454/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUWVZK6VP-Zc4WUssplEZNN_BOysxdykb7kNyu14tXhy7LU7vlPUA=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-03-16T23:19:22.152711Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUN3dE8tR3lRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUN3dE8tR3lRRRAB!2m1!1s0x8640d6602299b0b5:0xd9561a79f0fbcf6f
+  - name: >-
+      places/ChIJtbCZImDWQIYRb8_78HkaVtk/reviews/ChdDSUhNMG9nS0VJQ0FnSUNMZ3VPVXpBRRAB
+    relativePublishTimeDescription: 10 months ago
+    rating: 4
+    text:
+      text: >-
+        Service was great and our table was very clean. The room has a cozy,
+        comfortable feel to it and the restaurant is perfectly placed as the
+        entrance is right in front of the water. This is nice because either
+        before you dine or right after, a nice waterside stroll is only a step
+        away.
+
+
+        The actual hibachi entertainment was subpar. Our chef did nothing
+        special nor out of the ordinary. We got the onion on fire that turns
+        into the "choo-choo" train and we got a rice ball toss to the mouth.
+        Other than that, he prepared the food as normal but no other exciting
+        feature for that Father's Day lunch.
+
+
+        The cost seems pretty in line, and gratuity is not a huge surprise for a
+        party of 6. I would say that it is worth a try if you've never had
+        hibachi. But for anyone seasoned with this style of dining, there are
+        other places that really put the wow factor into it.
+
+
+        Our server was incredible though I didn't catch her name and the food
+        was nicely seasoned and worth another visit. Just not with the hibachi.
+      languageCode: en
+    originalText:
+      text: >-
+        Service was great and our table was very clean. The room has a cozy,
+        comfortable feel to it and the restaurant is perfectly placed as the
+        entrance is right in front of the water. This is nice because either
+        before you dine or right after, a nice waterside stroll is only a step
+        away.
+
+
+        The actual hibachi entertainment was subpar. Our chef did nothing
+        special nor out of the ordinary. We got the onion on fire that turns
+        into the "choo-choo" train and we got a rice ball toss to the mouth.
+        Other than that, he prepared the food as normal but no other exciting
+        feature for that Father's Day lunch.
+
+
+        The cost seems pretty in line, and gratuity is not a huge surprise for a
+        party of 6. I would say that it is worth a try if you've never had
+        hibachi. But for anyone seasoned with this style of dining, there are
+        other places that really put the wow factor into it.
+
+
+        Our server was incredible though I didn't catch her name and the food
+        was nicely seasoned and worth another visit. Just not with the hibachi.
+      languageCode: en
+    authorAttribution:
+      displayName: Kawana Simon
+      uri: https://www.google.com/maps/contrib/115906845279900350330/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVnjRrKYG2zEmvxQ8enQKfC8P5OAQiBE6Z7i7DJzR_-mrj47mghvg=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-06-16T22:48:28.286632Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNMZ3VPVXpBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNMZ3VPVXpBRRAB!2m1!1s0x8640d6602299b0b5:0xd9561a79f0fbcf6f
+  - name: >-
+      places/ChIJtbCZImDWQIYRb8_78HkaVtk/reviews/ChZDSUhNMG9nS0VJQ0FnSUNudC1fWUVBEAE
+    relativePublishTimeDescription: 7 months ago
+    rating: 3
+    text:
+      text: >-
+        Came here for my sons birthday & the chef for habachi seems like he 
+        didn’t do much tricks as I expected but overall still a great experience
+        for my kids. The food tasted great except for the steak which didn’t
+        have much flavor and was overcooked. I would avoid ordering that. The
+        whole time our kind waiter checked on us multiple times refilling our
+        drinks making sure we were comfortable.
+      languageCode: en
+    originalText:
+      text: >-
+        Came here for my sons birthday & the chef for habachi seems like he 
+        didn’t do much tricks as I expected but overall still a great experience
+        for my kids. The food tasted great except for the steak which didn’t
+        have much flavor and was overcooked. I would avoid ordering that. The
+        whole time our kind waiter checked on us multiple times refilling our
+        drinks making sure we were comfortable.
+      languageCode: en
+    authorAttribution:
+      displayName: Diane Win
+      uri: https://www.google.com/maps/contrib/103083649182992306157/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVFUqEKrj-LGYlBohrwTmaUgMMtdXM9KheNFj6MdLphhn7p6XNL=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-10-04T18:12:58.998769Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNudC1fWUVBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNudC1fWUVBEAE!2m1!1s0x8640d6602299b0b5:0xd9561a79f0fbcf6f
+  - name: >-
+      places/ChIJtbCZImDWQIYRb8_78HkaVtk/reviews/ChdDSUhNMG9nS0VJQ0FnSURieDlTeThnRRAB
+    relativePublishTimeDescription: 8 months ago
+    rating: 4
+    text:
+      text: >-
+        This is one of my favorite spots for Sushi, but I have to admit I
+        haven't been here in a few years, probably since Covid.. I would still
+        give the sushi top marks.  We had the Hot Mama & the Marilyn, we also
+        had the combination fried rice which taste good but was a little shy of
+        protein.  Now they have a Martini called the Lychee Martini OMG!!!
+        LOVE.  The scenery is beautiful if you can tolerate the heat and be
+        seated outside.  All in all I give them a solid 4 Stars because of the
+        fried  rice and the tables inside are starting to get a little on the
+        worn side but other than that still a great spot for Sushi.
+      languageCode: en
+    originalText:
+      text: >-
+        This is one of my favorite spots for Sushi, but I have to admit I
+        haven't been here in a few years, probably since Covid.. I would still
+        give the sushi top marks.  We had the Hot Mama & the Marilyn, we also
+        had the combination fried rice which taste good but was a little shy of
+        protein.  Now they have a Martini called the Lychee Martini OMG!!!
+        LOVE.  The scenery is beautiful if you can tolerate the heat and be
+        seated outside.  All in all I give them a solid 4 Stars because of the
+        fried  rice and the tables inside are starting to get a little on the
+        worn side but other than that still a great spot for Sushi.
+      languageCode: en
+    authorAttribution:
+      displayName: D Lim
+      uri: https://www.google.com/maps/contrib/110791198133053784293/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLB12f13u1Q-J-S8suC3ux_T8OMq65LSKqt3tpbQRNYvTikQA=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2024-08-10T00:40:36.297004Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURieDlTeThnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURieDlTeThnRRAB!2m1!1s0x8640d6602299b0b5:0xd9561a79f0fbcf6f
+review_summary: >-
+  What Customers Are Buzzing About$$$Visitors often rave about the fresh and
+  tasty sushi selections, like creative rolls and hibachi dishes that bring a
+  fun twist to dining out, making it a solid pick for anyone craving the best
+  sushi near me. Many appreciate the friendly service and interactive cooking
+  shows that add entertainment to the meal, though some mention that the chef's
+  flair can vary depending on the crowd. Folks enjoy the overall vibe, with
+  highlights on the flavorful sides and generous portions that keep things
+  satisfying without breaking the bank too much. While a few note that certain
+  items, such as steak, might not always hit the mark, the general consensus
+  leans positive, praising the spot as a great go-to for groups or date nights.
+  All in all, it's a reliable choice for enjoyable Japanese fare that leaves
+  most patrons excited to return for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
+curbside_pickup: true
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
 good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+live_music: false
+menu_for_children: true
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
+serves_coffee: true
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

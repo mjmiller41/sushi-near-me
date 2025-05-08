@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Nikai Sushi"
+title: Nikai Sushi
 permalink: /florida/islamorada/nikai-sushi.html
 stateAbbr: FL
 stateName: Florida
 cityName: Islamorada
 seo:
-  name: "Nikai Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.cheeca.com/dining/nikai
-description: "Sushi & a wide selection of sake & beer are artfully presented in a bamboo-accented resort setting. Nikai Sushi serves delicious sushi in Islamorada, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJA2FTi18314gRpi9BXX6-SIs
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: null
 rating: '4.1'
 rating_count: 0
 website: http://www.cheeca.com/dining/nikai
+description: >-
+  Discover Nikai Sushi in Islamorada, FL$$$Nikai Sushi in Islamorada, FL, offers
+  a delightful escape with its bamboo-accented ambiance and stunning resort
+  setting, perfect for those seeking quality sushi restaurants in a tropical
+  locale. The menu features an array of fresh rolls and creative dishes made
+  from high-quality ingredients, paired with a selection of sake and beer that
+  enhance the dining experience. Overlooking the ocean, the atmosphere provides
+  a relaxing backdrop that captures the essence of a coastal getaway, making it
+  ideal for casual meals or special occasions. Attentive service adds to the
+  charm, ensuring a welcoming vibe for all visitors. This spot stands out as a
+  go-to choice for anyone exploring top-rated sushi options near the area.
+generative_summary: >-
+  Discover Nikai Sushi in Islamorada, FL$$$Nikai Sushi in Islamorada, FL, offers
+  a delightful escape with its bamboo-accented ambiance and stunning resort
+  setting, perfect for those seeking quality sushi restaurants in a tropical
+  locale. The menu features an array of fresh rolls and creative dishes made
+  from high-quality ingredients, paired with a selection of sake and beer that
+  enhance the dining experience. Overlooking the ocean, the atmosphere provides
+  a relaxing backdrop that captures the essence of a coastal getaway, making it
+  ideal for casual meals or special occasions. Attentive service adds to the
+  charm, ensuring a welcoming vibe for all visitors. This spot stands out as a
+  go-to choice for anyone exploring top-rated sushi options near the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJA2FTi18314gRpi9BXX6-SIs/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ1c3JEUXBBRRAB
@@ -368,6 +389,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURld2RDTkRREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURld2RDTkRREAE!2m1!1s0x88d7375f8b536103:0x8b48be7e5d412fa6
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this sushi spot often rave about the
+  fresh and flavorful rolls, like creative takes on spicy tuna and signature
+  combinations that keep things exciting and delicious. While most folks
+  appreciate the pleasant atmosphere with ocean views and attentive service that
+  makes for a relaxed meal, a few mentions of occasional service inconsistencies
+  add a note of realism to the experience. Overall, the consensus leans
+  positive, highlighting it as a solid pick for families or couples looking for
+  good vibes and tasty bites in a casual setting. Many enjoy the variety of
+  options that cater to different tastes, making it a reliable choice for those
+  searching for sushi places nearby. With its mix of strengths, it's worth
+  trying for an enjoyable dining adventure that generally leaves people
+  satisfied.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -397,8 +432,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Sushi & a wide selection of sake & beer are artfully presented in a
   bamboo-accented resort setting.
 

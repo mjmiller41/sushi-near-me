@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Jin Next Door"
+title: Sushi Jin Next Door
 permalink: /virginia/alexandria/sushi-jin-next-door.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Alexandria
 seo:
-  name: "Sushi Jin Next Door"
-  type: Restaurant
+  type: restaurant
   links: http://www.sushijinnextdoor.com/
-description: "Casual eatery serving a menu of traditional Japanese fare that includes sushi and ramen. Sushi Jin Next Door serves delicious sushi in Alexandria, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJFb0toaizt4kRofBrPnz-dNM
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 0
 website: http://www.sushijinnextdoor.com/
+description: >-
+  Discover Sushi Jin Next Door in Alexandria, VA$$$Sushi Jin Next Door in
+  Alexandria, Virginia, offers a welcoming spot for those craving authentic
+  Japanese cuisine, blending casual vibes with fresh, flavorful dishes. This
+  eatery specializes in traditional fare like expertly crafted sushi and hearty
+  ramen, making it a go-to choice for sushi enthusiasts exploring local dining
+  options. With its accessible features including wheelchair-friendly parking
+  and entrances, it's designed to accommodate everyone seeking a comfortable
+  meal. The menu highlights creative rolls and satisfying options that cater to
+  various tastes, perfect for anyone hunting for top-rated sushi nearby. Drawing
+  from its reputation as a casual destination, it provides a modern atmosphere
+  that enhances the overall dining experience without overwhelming formality.
+generative_summary: >-
+  Discover Sushi Jin Next Door in Alexandria, VA$$$Sushi Jin Next Door in
+  Alexandria, Virginia, offers a welcoming spot for those craving authentic
+  Japanese cuisine, blending casual vibes with fresh, flavorful dishes. This
+  eatery specializes in traditional fare like expertly crafted sushi and hearty
+  ramen, making it a go-to choice for sushi enthusiasts exploring local dining
+  options. With its accessible features including wheelchair-friendly parking
+  and entrances, it's designed to accommodate everyone seeking a comfortable
+  meal. The menu highlights creative rolls and satisfying options that cater to
+  various tastes, perfect for anyone hunting for top-rated sushi nearby. Drawing
+  from its reputation as a casual destination, it provides a modern atmosphere
+  that enhances the overall dining experience without overwhelming formality.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJFb0toaizt4kRofBrPnz-dNM/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJaWUybTdBRRAB
@@ -392,6 +415,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURuMXZYQjN3RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURuMXZYQjN3RRAB!2m1!1s0x89b7b3a8a12dbd15:0xd374fe7c3e6bf0a1
+review_summary: >-
+  What Customers Are Buzzing About$$$Folks dining at this spot often rave about
+  the fresh and creative sushi selections that hit the spot every time, with
+  many highlighting the balanced flavors and generous portions. While the
+  atmosphere is generally cozy and efficient, some note it's more laid-back,
+  ideal for quick visits rather than elaborate evenings, though the service
+  tends to be friendly and attentive overall. Reviewers appreciate how the place
+  accommodates different needs, like dietary preferences and family-friendly
+  vibes, making it a solid pick for groups or solo diners. Even with a few
+  mentions of simpler drink choices, the consensus leans positive, emphasizing
+  that the quality of the food keeps people coming back for more. If you're on
+  the hunt for reliable sushi places near you, this location delivers a
+  consistently enjoyable experience that's worth trying out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   valetParking: false
@@ -424,8 +461,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Casual eatery serving a menu of traditional Japanese fare that includes sushi
   and ramen.
 

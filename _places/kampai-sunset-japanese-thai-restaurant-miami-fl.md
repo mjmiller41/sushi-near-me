@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kampai Sunset Japanese & Thai Restaurant"
+title: Kampai Sunset Japanese & Thai Restaurant
 permalink: /florida/miami/kampai-sunset-japanese-thai-restaurant.html
 stateAbbr: FL
 stateName: Florida
 cityName: Miami
 seo:
-  name: "Kampai Sunset Japanese & Thai Restaurant"
-  type: Restaurant
+  type: restaurant
   links: http://kampai-sunset.com/
-description: "Unfussy, local sushi joint serving a mix of Japanese & Thai standards for dining in or delivery. Kampai Sunset Japanese & Thai Restaurant serves delicious sushi in Miami, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJt7QyeW7H2YgR5zjU9aBU23k
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 0
 website: http://kampai-sunset.com/
+description: >-
+  Explore Kampai Sunset in Miami, FL$$$Kampai Sunset Japanese & Thai Restaurant
+  in Miami, FL, offers a welcoming spot for enjoying a blend of authentic
+  Japanese and Thai dishes in a relaxed setting. This sushi restaurant stands
+  out with its fresh, flavorful rolls and appetizers that cater to a variety of
+  tastes, making it a great option for casual meals or quick takeout. The
+  atmosphere is cozy and unpretentious, enhanced by attentive service that adds
+  to the overall dining experience. With reasonable pricing and options for
+  delivery, it's an ideal choice for those seeking quality Asian cuisine without
+  the fuss. Whether you're in the mood for top-rated sushi or exploring Japanese
+  places near you, this spot delivers a satisfying blend of flavors that keeps
+  locals coming back.
+generative_summary: >-
+  Explore Kampai Sunset in Miami, FL$$$Kampai Sunset Japanese & Thai Restaurant
+  in Miami, FL, offers a welcoming spot for enjoying a blend of authentic
+  Japanese and Thai dishes in a relaxed setting. This sushi restaurant stands
+  out with its fresh, flavorful rolls and appetizers that cater to a variety of
+  tastes, making it a great option for casual meals or quick takeout. The
+  atmosphere is cozy and unpretentious, enhanced by attentive service that adds
+  to the overall dining experience. With reasonable pricing and options for
+  delivery, it's an ideal choice for those seeking quality Asian cuisine without
+  the fuss. Whether you're in the mood for top-rated sushi or exploring Japanese
+  places near you, this spot delivers a satisfying blend of flavors that keeps
+  locals coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJt7QyeW7H2YgR5zjU9aBU23k/reviews/ChdDSUhNMG9nS0VJQ0FnSURKbktiQzNBRRAB
@@ -382,6 +405,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNfd2YzMnNRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNfd2YzMnNRRRAB!2m1!1s0x88d9c76e7932b4b7:0x79db54a0f5d438e7
+review_summary: >-
+  What Customers Are Buzzing About$$$Folks who've visited this sushi spot often
+  rave about the fresh and tasty rolls, like the classic favorites that hit the
+  spot every time, making it a reliable go-to for sushi lovers in the area. Many
+  appreciate the friendly service and quick preparation, especially for takeout
+  orders, which adds to the convenience of grabbing a meal on the go. While
+  there are occasional mentions of minor issues with online ordering, the
+  overall experience shines through with consistently delicious food and a
+  welcoming vibe that encourages repeat visits. It's praised as a solid pick for
+  families or groups looking for variety in their meals, with highlights on
+  appetizers and entrees that feel just right for everyday dining. If you're
+  searching for the best sushi near you, this place generally delivers a
+  positive experience that balances quality and affordability.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -414,8 +451,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Unfussy, local sushi joint serving a mix of Japanese & Thai standards for
   dining in or delivery.
 

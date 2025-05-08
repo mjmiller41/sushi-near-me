@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yaba Sushi and Steak"
+title: Yaba Sushi and Steak
 permalink: /illinois/roscoe/yaba-sushi-and-steak.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Roscoe
 seo:
-  name: "Yaba Sushi and Steak"
-  type: Restaurant
+  type: restaurant
   links: https://www.yabasushi.com/
-description: "Yaba Sushi and Steak serves delicious sushi in Roscoe, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJVVVmJ_GjCIgRe5IG-03debA
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 0
 website: https://www.yabasushi.com/
+description: >-
+  Explore Yaba Sushi and Steak in Roscoe, IL$$$Yaba Sushi and Steak in Roscoe,
+  IL, offers a casual dining experience centered around fresh Japanese flavors,
+  making it a standout choice for those seeking sushi restaurants in the area.
+  The spot features a variety of dishes like hibachi-style meals, creative sushi
+  rolls, and bento boxes, paired with refreshing beer and cocktail options that
+  enhance the meal. Its welcoming atmosphere includes thoughtful details such as
+  accessible seating and unique table designs that add a fun, coastal vibe to
+  your visit. With options for generous portions and a focus on quality
+  ingredients, this Japanese eatery stands out as a go-to for anyone exploring
+  local sushi places near me. Whether you're in the mood for a quick lunch or a
+  relaxed dinner, it combines affordability with authentic tastes that keep
+  diners coming back.
+generative_summary: >-
+  Explore Yaba Sushi and Steak in Roscoe, IL$$$Yaba Sushi and Steak in Roscoe,
+  IL, offers a casual dining experience centered around fresh Japanese flavors,
+  making it a standout choice for those seeking sushi restaurants in the area.
+  The spot features a variety of dishes like hibachi-style meals, creative sushi
+  rolls, and bento boxes, paired with refreshing beer and cocktail options that
+  enhance the meal. Its welcoming atmosphere includes thoughtful details such as
+  accessible seating and unique table designs that add a fun, coastal vibe to
+  your visit. With options for generous portions and a focus on quality
+  ingredients, this Japanese eatery stands out as a go-to for anyone exploring
+  local sushi places near me. Whether you're in the mood for a quick lunch or a
+  relaxed dinner, it combines affordability with authentic tastes that keep
+  diners coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJVVVmJ_GjCIgRe5IG-03debA/reviews/ChZDSUhNMG9nS0VJQ0FnSURQM0o3R1pREAE
@@ -342,6 +367,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURyeFB5NHZnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURyeFB5NHZnRRAB!2m1!1s0x8808a3f127665555:0xb079dd4dfb06927b
+review_summary: >-
+  Customer Feedback Highlights$$$Folks rave about the delicious food at this
+  Japanese spot, highlighting the generous portions and fresh sushi rolls that
+  leave you feeling satisfied without breaking the bank. Many appreciate the
+  speedy service and friendly staff who make every meal feel effortless and
+  enjoyable, turning a simple dinner into a highlight of the week. The unique,
+  beach-inspired tables add a cool, intimate touch to the atmosphere, making it
+  a fun place for groups or couples looking to unwind. Overall, diners
+  consistently praise the quality of the dishes like hibachi and appetizers,
+  noting it's one of the top-rated options for anyone searching for the best
+  sushi near me. While experiences are mostly positive, it's clear this eatery
+  delivers on flavor and hospitality, encouraging repeat visits for its reliable
+  vibe.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -374,7 +413,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

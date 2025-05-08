@@ -5,4 +5,5 @@ permalink: /maryland/timonium/
 stateAbbr: MD
 stateName: Maryland
 cityName: Timonium
+
 ---

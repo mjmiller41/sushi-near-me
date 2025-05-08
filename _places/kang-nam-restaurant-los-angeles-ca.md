@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kang Nam Restaurant"
+title: Kang Nam Restaurant
 permalink: /california/los-angeles/kang-nam-restaurant.html
 stateAbbr: CA
 stateName: California
 cityName: Los Angeles
 seo:
-  name: "Kang Nam Restaurant"
-  type: Restaurant
+  type: restaurant
   links: http://www.kangnamrestaurant.com/
-description: "Kang Nam Restaurant serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJXfLuuYy4woARpT6--tyINLk
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c2b88cb9eef25d:0xb93488dcfabe3ea5!10e5
 primary_type: Korean Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 10:00 PM'
     - 'Tuesday: 11:00 AM – 10:00 PM'
     - 'Wednesday: 11:00 AM – 10:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:00 PM'
     - 'Saturday: 11:00 AM – 10:00 PM'
     - 'Sunday: 11:00 AM – 10:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 10:00 PM'
-    - 'Tuesday: 11:00 AM – 10:00 PM'
-    - 'Wednesday: 11:00 AM – 10:00 PM'
-    - 'Thursday: 11:00 AM – 10:00 PM'
-    - 'Friday: 11:00 AM – 10:00 PM'
-    - 'Saturday: 11:00 AM – 10:00 PM'
-    - 'Sunday: 11:00 AM – 10:00 PM'
+  nextCloseTime: '2025-05-04T05:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,302 @@ phone: (323) 937-1070
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.0'
-rating_count: 0
+rating_count: 647
 website: http://www.kangnamrestaurant.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Explore Kang Nam Restaurant$$$Kang Nam Restaurant in Los Angeles, CA, stands
+  out as a longstanding spot for authentic Korean and Japanese flavors, offering
+  a welcoming atmosphere with traditional dishes that highlight fresh
+  ingredients and cultural heritage. This establishment features an extensive
+  menu perfect for lunch or dinner, including hearty stews and expertly prepared
+  sushi options that appeal to those seeking diverse Asian cuisine nearby. The
+  polished space includes a cozy patio for outdoor dining, making it ideal for
+  casual meals or gatherings, while accessibility features ensure a comfortable
+  visit for all. With convenient hours from 11 AM to 10 PM daily, it's a
+  reliable choice for anyone exploring top-rated sushi and Korean spots in the
+  area.
+generative_summary: >-
+  Explore Kang Nam Restaurant$$$Kang Nam Restaurant in Los Angeles, CA, stands
+  out as a longstanding spot for authentic Korean and Japanese flavors, offering
+  a welcoming atmosphere with traditional dishes that highlight fresh
+  ingredients and cultural heritage. This establishment features an extensive
+  menu perfect for lunch or dinner, including hearty stews and expertly prepared
+  sushi options that appeal to those seeking diverse Asian cuisine nearby. The
+  polished space includes a cozy patio for outdoor dining, making it ideal for
+  casual meals or gatherings, while accessibility features ensure a comfortable
+  visit for all. With convenient hours from 11 AM to 10 PM daily, it's a
+  reliable choice for anyone exploring top-rated sushi and Korean spots in the
+  area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJXfLuuYy4woARpT6--tyINLk/reviews/ChdDSUhNMG9nS0VJQ0FnSUNKNlBTcG93RRAB
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        Our first korean food being back in California for vacation, coming from
+        Kansas! It was much needed. The staff was very accommodating and
+        friendly and food was very delicious!
+      languageCode: en
+    originalText:
+      text: >-
+        Our first korean food being back in California for vacation, coming from
+        Kansas! It was much needed. The staff was very accommodating and
+        friendly and food was very delicious!
+      languageCode: en
+    authorAttribution:
+      displayName: Donna Woo
+      uri: https://www.google.com/maps/contrib/111968839530977231028/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWBA-35gZKVI82I5Qjzs9bbGx0EPp5e0GxZSPrXOHt4jT1GL4Q4=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2023-06-20T04:24:45.896844Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNKNlBTcG93RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNKNlBTcG93RRAB!2m1!1s0x80c2b88cb9eef25d:0xb93488dcfabe3ea5
+  - name: >-
+      places/ChIJXfLuuYy4woARpT6--tyINLk/reviews/ChdDSUhNMG9nS0VJQ0FnSURHMWNLSjlnRRAB
+    relativePublishTimeDescription: 3 years ago
+    rating: 4
+    text:
+      text: >-
+        Very traditional style of KBBQ! Very earnest and not as flashy as some
+        of the other KBBQ places in LA. Definitely not a crazy wait, which is
+        nice if you want simple and quick KBBQ. They are hosting primarily
+        outside in their parking lot cus of COVID and have heat lamps near the
+        tables.
+
+
+        They come out and help cook all the meats too so don't need to worry
+        about doing it yourself unless you really want to. They also served it
+        onto our plates once it was prime for eating.
+
+
+        Overall, it was a good and classic KBBQ experience! Would definitely
+        come back here if as it was very affordable and delicious.
+      languageCode: en
+    originalText:
+      text: >-
+        Very traditional style of KBBQ! Very earnest and not as flashy as some
+        of the other KBBQ places in LA. Definitely not a crazy wait, which is
+        nice if you want simple and quick KBBQ. They are hosting primarily
+        outside in their parking lot cus of COVID and have heat lamps near the
+        tables.
+
+
+        They come out and help cook all the meats too so don't need to worry
+        about doing it yourself unless you really want to. They also served it
+        onto our plates once it was prime for eating.
+
+
+        Overall, it was a good and classic KBBQ experience! Would definitely
+        come back here if as it was very affordable and delicious.
+      languageCode: en
+    authorAttribution:
+      displayName: Sky Thai
+      uri: https://www.google.com/maps/contrib/110545043251394065521/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVkM0XclyWWPsxKzhOY0MQuiB-HDwZc99L-sWHTod7RE9hrsGAgcw=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2021-12-05T01:06:27.052083Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURHMWNLSjlnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURHMWNLSjlnRRAB!2m1!1s0x80c2b88cb9eef25d:0xb93488dcfabe3ea5
+  - name: >-
+      places/ChIJXfLuuYy4woARpT6--tyINLk/reviews/ChZDSUhNMG9nS0VJQ0FnSUNQNmRLX1NREAE
+    relativePublishTimeDescription: 5 months ago
+    rating: 1
+    text:
+      text: >-
+        If they have 0 star,I want to give 0 star! I ordered cold noodle with
+        bulgogi and it took 20 minutes and taste very bad both of food have no
+        flavor whatsoever and service was horrible too i need to drink more
+        water but waitress never came back after she delivered my food ! I will
+        never ever go back !
+      languageCode: en
+    originalText:
+      text: >-
+        If they have 0 star,I want to give 0 star! I ordered cold noodle with
+        bulgogi and it took 20 minutes and taste very bad both of food have no
+        flavor whatsoever and service was horrible too i need to drink more
+        water but waitress never came back after she delivered my food ! I will
+        never ever go back !
+      languageCode: en
+    authorAttribution:
+      displayName: maximian anderson
+      uri: https://www.google.com/maps/contrib/113897131116275749224/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocK_gZ2STj21VwlZIgdLYQdlxkbrb7HvMxK57CeWYNzjFa8xsg=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-11-25T21:49:31.563826Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNQNmRLX1NREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNQNmRLX1NREAE!2m1!1s0x80c2b88cb9eef25d:0xb93488dcfabe3ea5
+  - name: >-
+      places/ChIJXfLuuYy4woARpT6--tyINLk/reviews/ChZDSUhNMG9nS0VJQ0FnSURfOTlESVd3EAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        This is 3 rd time going to Kang Nam Restaurant this month. All 3 times
+        proved to be a winner.  First time was with 4 people. 2nd time was 7 (so
+        we got a private room), and today was 9 people ( very nice larger
+        private room).
+
+        We ordered various Korean food, but I stuck to various fish dishes:
+        Grilled fish -pollock twice, today I ordered Eun Dae Gu jorim (my
+        favorite -this was awesome!! ).  Others ordered Kalbi BBQ (without
+        seasoning (?)$63! One ordered Kalbi Tang (beef soup- she loved it- good
+        portion). One ordered Cold noodle and BBQ Kalbi combo (she said that was
+        GREAT!), a vegetarian ordered Dwen jang soup (soy bean paste soup with
+        veggies & tofu), one ordered Bibimbop (all kinds of veggies & bulgogi
+        (BBQ beef) on top of rice (looked yum! I thought about ordering that
+        myself, but went for Eun Dae Gu jorim ❤️‼️).  Did not disappoint!
+        Everyone was very happy. All the side dishes were clean, appetizing, and
+        plenty (no weird stuff 🤣.. I’m Korean but I like to stick to
+        traditional ( ? standard) side dishes, no crabs 🦀 squid, 🐙 octopus,
+        etc.(no thanks).
+
+        Service was great, nice ladies were quick and attentive, quiet and
+        brought more of anything we wanted in plenty quantity.
+
+        Normally I have something to say (minor complaints) but I didn’t have
+        any ❤️❤️❤️😃😃😃🎈🎈🎈
+
+
+        It was so relaxing and enjoyable lunch with everyone enjoying their food
+        🍱✅❤️💯
+
+
+        Thank you for making this stressful time in our life bearable (my mom’s
+        funeral arrangements, ashes pick up day, then a small gathering of
+        relatives today.)
+      languageCode: en
+    originalText:
+      text: >-
+        This is 3 rd time going to Kang Nam Restaurant this month. All 3 times
+        proved to be a winner.  First time was with 4 people. 2nd time was 7 (so
+        we got a private room), and today was 9 people ( very nice larger
+        private room).
+
+        We ordered various Korean food, but I stuck to various fish dishes:
+        Grilled fish -pollock twice, today I ordered Eun Dae Gu jorim (my
+        favorite -this was awesome!! ).  Others ordered Kalbi BBQ (without
+        seasoning (?)$63! One ordered Kalbi Tang (beef soup- she loved it- good
+        portion). One ordered Cold noodle and BBQ Kalbi combo (she said that was
+        GREAT!), a vegetarian ordered Dwen jang soup (soy bean paste soup with
+        veggies & tofu), one ordered Bibimbop (all kinds of veggies & bulgogi
+        (BBQ beef) on top of rice (looked yum! I thought about ordering that
+        myself, but went for Eun Dae Gu jorim ❤️‼️).  Did not disappoint!
+        Everyone was very happy. All the side dishes were clean, appetizing, and
+        plenty (no weird stuff 🤣.. I’m Korean but I like to stick to
+        traditional ( ? standard) side dishes, no crabs 🦀 squid, 🐙 octopus,
+        etc.(no thanks).
+
+        Service was great, nice ladies were quick and attentive, quiet and
+        brought more of anything we wanted in plenty quantity.
+
+        Normally I have something to say (minor complaints) but I didn’t have
+        any ❤️❤️❤️😃😃😃🎈🎈🎈
+
+
+        It was so relaxing and enjoyable lunch with everyone enjoying their food
+        🍱✅❤️💯
+
+
+        Thank you for making this stressful time in our life bearable (my mom’s
+        funeral arrangements, ashes pick up day, then a small gathering of
+        relatives today.)
+      languageCode: en
+    authorAttribution:
+      displayName: Jennifer Chai
+      uri: https://www.google.com/maps/contrib/103721969208567141283/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJLTpbf2lknQuq5B7FWZSm8yC2_K8SiEBKjMgzkeim-wwvEAw=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-01-28T02:31:09.057464Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURfOTlESVd3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURfOTlESVd3EAE!2m1!1s0x80c2b88cb9eef25d:0xb93488dcfabe3ea5
+  - name: >-
+      places/ChIJXfLuuYy4woARpT6--tyINLk/reviews/ChZDSUhNMG9nS0VJQ0FnSURrcFluN1pBEAE
+    relativePublishTimeDescription: 5 years ago
+    rating: 4
+    text:
+      text: >-
+        I visited this place few times past 6 months. My rating is 3-4 stars
+        depending on the dishes. Most of entrees are pretty good, especially i
+        liked their seafood japchee (vermicelli), and casseroles.Their sushi or
+        sashimi  course is just decent at their price point. I like their
+        service and outdoor patio during winter. By the way, their side dishes
+        are great!
+      languageCode: en
+    originalText:
+      text: >-
+        I visited this place few times past 6 months. My rating is 3-4 stars
+        depending on the dishes. Most of entrees are pretty good, especially i
+        liked their seafood japchee (vermicelli), and casseroles.Their sushi or
+        sashimi  course is just decent at their price point. I like their
+        service and outdoor patio during winter. By the way, their side dishes
+        are great!
+      languageCode: en
+    authorAttribution:
+      displayName: ktownlee
+      uri: https://www.google.com/maps/contrib/115299826769141734205/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWT7FfGtXlXjetO6SbrWAZC8jNTQ2PMXoRuK9Hf6SOn1q6J087K=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2019-07-02T06:02:46.942953Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURrcFluN1pBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURrcFluN1pBEAE!2m1!1s0x80c2b88cb9eef25d:0xb93488dcfabe3ea5
+review_summary: >-
+  Review Insights$$$Folks generally enjoy the straightforward and tasty Korean
+  barbecue and other classics at this spot, often noting the helpful service and
+  generous portions that make meals feel satisfying and authentic. While most
+  diners rave about the flavorful dishes like grilled fish and stews, along with
+  the affordable prices and quick setup, a few mentions point to occasional
+  inconsistencies in taste or attention. Overall, it's a solid pick for groups
+  or families looking for hearty options in a relaxed setting, with the outdoor
+  seating adding to the charm during warmer days. If you're in the mood for
+  reliable Korean and Japanese dining near you, this place delivers a mostly
+  positive vibe that keeps people coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: false
+  acceptsCashOnly: false
+  acceptsNfc: false
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: true
+live_music: false
+menu_for_children: false
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
 serves_breakfast: null
 serves_brunch: null
 serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
+serves_coffee: true
+serves_dinner: true
 serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Traditional Korean & Japanese cuisine, from stews to sushi, served in a
+  polished space with a patio.
 
 ---

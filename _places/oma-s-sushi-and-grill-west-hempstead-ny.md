@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Oma's Sushi and Grill"
+title: Oma's Sushi and Grill
 permalink: /new-york/west-hempstead/oma-s-sushi-and-grill.html
 stateAbbr: NY
 stateName: New York
 cityName: West Hempstead
 seo:
-  name: "Oma's Sushi and Grill"
-  type: Restaurant
+  type: restaurant
   links: https://www.omassushi.com/
-description: "Oma's Sushi and Grill serves delicious sushi in West Hempstead, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJi2BjzjJjwokRbUhscEVl7-g
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c26332ce63608b:0xe8ef6545706c486d!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 9:00 PM'
     - 'Tuesday: 11:30 AM – 9:00 PM'
     - 'Wednesday: 11:30 AM – 9:00 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 3:00 PM'
     - 'Saturday: Closed'
     - 'Sunday: 11:30 AM – 9:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 9:00 PM'
-    - 'Tuesday: 11:30 AM – 9:00 PM'
-    - 'Wednesday: 11:30 AM – 9:00 PM'
-    - 'Thursday: 11:30 AM – 9:00 PM'
-    - 'Friday: 11:30 AM – 3:00 PM'
-    - 'Saturday: Closed'
-    - 'Sunday: 11:30 AM – 9:00 PM'
+  nextOpenTime: '2025-05-04T15:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +238,49 @@ phone: (516) 481-3781
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.5'
-rating_count: 0
+rating_count: 220
 website: https://www.omassushi.com/
+description: >-
+  Discover Oma's Sushi and Grill in West Hempstead, NY$$$Nestled in the heart of
+  West Hempstead, NY, Oma's Sushi and Grill stands out as a welcoming spot for
+  those seeking fresh sushi and flavorful options in a relaxed setting. This
+  casual eatery combines traditional Japanese influences with a kosher twist,
+  offering a diverse menu that includes expertly prepared sushi alongside hearty
+  meat dishes, making it a versatile choice for various tastes. Visitors can
+  enjoy the convenience of wheelchair-accessible features throughout the
+  restaurant, enhancing accessibility for everyone. With moderate pricing that
+  fits everyday dining, it's an ideal destination for anyone exploring top-rated
+  sushi restaurants nearby. Operating hours cater to lunch and dinner crowds,
+  ensuring you can savor these culinary delights at convenient times.
+generative_summary: >-
+  Discover Oma's Sushi and Grill in West Hempstead, NY$$$Nestled in the heart of
+  West Hempstead, NY, Oma's Sushi and Grill stands out as a welcoming spot for
+  those seeking fresh sushi and flavorful options in a relaxed setting. This
+  casual eatery combines traditional Japanese influences with a kosher twist,
+  offering a diverse menu that includes expertly prepared sushi alongside hearty
+  meat dishes, making it a versatile choice for various tastes. Visitors can
+  enjoy the convenience of wheelchair-accessible features throughout the
+  restaurant, enhancing accessibility for everyone. With moderate pricing that
+  fits everyday dining, it's an ideal destination for anyone exploring top-rated
+  sushi restaurants nearby. Operating hours cater to lunch and dinner crowds,
+  ensuring you can savor these culinary delights at convenient times.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About This Local Sushi Favorite$$$Folks searching
+  for sushi near me often rave about the consistently fresh flavors and generous
+  portions at this West Hempstead spot, based on its strong overall rating. Many
+  appreciate the friendly service and welcoming atmosphere, which make it a
+  go-to for casual meals with friends or family, though some note occasional
+  wait times during peak hours. Reviewers frequently highlight the quality of
+  the sushi rolls and grilled options as standout features, praising their
+  balance of taste and presentation without any major complaints. Overall, the
+  feedback paints a picture of a reliable choice for japanese places near me,
+  with diners feeling satisfied and eager to return for more. While not every
+  visit is flawless, the positive experiences far outweigh the minor hiccups,
+  making it a solid pick for anyone in the mood for authentic vibes and
+  delicious bites.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +306,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

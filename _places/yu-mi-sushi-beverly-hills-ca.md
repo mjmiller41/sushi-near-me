@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "YU/MI Sushi"
+title: YU/MI Sushi
 permalink: /california/beverly-hills/yu-mi-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Beverly Hills
 seo:
-  name: "YU/MI Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.yumisushibh.com/
-description: "YU/MI Sushi serves delicious sushi in Beverly Hills, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ0XlHdAi8woAR7XWHdhCvL4c
 photos:
   - name: >-
@@ -170,7 +168,97 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c2bc08744779d1:0x872faf10768775ed!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 1
+        hour: 12
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 12
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 12
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 12
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 12
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 12:00 – 2:30 PM, 5:00 – 9:30 PM'
     - 'Tuesday: 12:00 – 2:30 PM, 5:00 – 9:30 PM'
     - 'Wednesday: 12:00 – 2:30 PM, 5:00 – 9:30 PM'
@@ -178,14 +266,7 @@ opening_hours:
     - 'Friday: 12:00 – 2:30 PM, 5:00 – 9:30 PM'
     - 'Saturday: 5:00 – 9:30 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 12:00 – 2:30 PM, 5:00 – 9:30 PM'
-    - 'Tuesday: 12:00 – 2:30 PM, 5:00 – 9:30 PM'
-    - 'Wednesday: 12:00 – 2:30 PM, 5:00 – 9:30 PM'
-    - 'Thursday: 12:00 – 2:30 PM, 5:00 – 9:30 PM'
-    - 'Friday: 12:00 – 2:30 PM, 5:00 – 9:30 PM'
-    - 'Saturday: 5:00 – 9:30 PM'
-    - 'Sunday: Closed'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +278,267 @@ phone: (310) 859-3488
 price_level: null
 price_range: $20 &ndash; $30
 rating: '4.2'
-rating_count: 0
+rating_count: 125
 website: http://www.yumisushibh.com/
-reviews: null
+description: >-
+  Discover YU/MI Sushi in Beverly Hills, CA$$$YU/MI Sushi in Beverly Hills, CA,
+  stands out as an inviting spot for fresh Japanese cuisine, featuring a variety
+  of sushi rolls and entrees that appeal to those seeking top-rated options
+  nearby. This informal restaurant emphasizes quality ingredients and a relaxed
+  atmosphere, making it a go-to choice for casual meals or special gatherings
+  among sushi enthusiasts. Patrons can enjoy an array of dishes alongside
+  beverage selections, enhancing the overall dining experience in a welcoming
+  setting. Accessibility features and outdoor seating add to its appeal,
+  ensuring a comfortable visit for everyone exploring sushi places in the area.
+generative_summary: >-
+  Discover YU/MI Sushi in Beverly Hills, CA$$$YU/MI Sushi in Beverly Hills, CA,
+  stands out as an inviting spot for fresh Japanese cuisine, featuring a variety
+  of sushi rolls and entrees that appeal to those seeking top-rated options
+  nearby. This informal restaurant emphasizes quality ingredients and a relaxed
+  atmosphere, making it a go-to choice for casual meals or special gatherings
+  among sushi enthusiasts. Patrons can enjoy an array of dishes alongside
+  beverage selections, enhancing the overall dining experience in a welcoming
+  setting. Accessibility features and outdoor seating add to its appeal,
+  ensuring a comfortable visit for everyone exploring sushi places in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ0XlHdAi8woAR7XWHdhCvL4c/reviews/ChZDSUhNMG9nS0VJQ0FnSURaZ1BXSUZREAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        Best sushi in LA. Very good service. Midori is super attentive and very
+        dedicated to making sure customers have everything they need. Very
+        consistent food with high quality ingredients. Chef ted’s spicy tuna #2
+        is a must try for everyone. The salmon nigiri with yuzu pepper is to die
+        for. I order from here at least twice a week and it’s always fresh.
+        After 12 years of coming here, it’s still my favorite sushi spot in the
+        city.
+      languageCode: en
+    originalText:
+      text: >-
+        Best sushi in LA. Very good service. Midori is super attentive and very
+        dedicated to making sure customers have everything they need. Very
+        consistent food with high quality ingredients. Chef ted’s spicy tuna #2
+        is a must try for everyone. The salmon nigiri with yuzu pepper is to die
+        for. I order from here at least twice a week and it’s always fresh.
+        After 12 years of coming here, it’s still my favorite sushi spot in the
+        city.
+      languageCode: en
+    authorAttribution:
+      displayName: Nilu F
+      uri: https://www.google.com/maps/contrib/116790891560705122497/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKxLTytOQCkxehWddyQ_KNvmHSNanoxxXbNMH8PYxPfKJJUqg=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2023-10-12T04:34:03.362133Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURaZ1BXSUZREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURaZ1BXSUZREAE!2m1!1s0x80c2bc08744779d1:0x872faf10768775ed
+  - name: >-
+      places/ChIJ0XlHdAi8woAR7XWHdhCvL4c/reviews/ChdDSUhNMG9nS0VJQ0FnSUNabk5XeDdBRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: |-
+        Definitely one of the best Sushi I’ve had in town!
+        Ordered take out, with q huge variety of sushi and entrées.
+        Perfect for a sushi date or family/friends sushi night!
+        Will continue ordering!
+        Highly recommend!
+      languageCode: en
+    originalText:
+      text: |-
+        Definitely one of the best Sushi I’ve had in town!
+        Ordered take out, with q huge variety of sushi and entrées.
+        Perfect for a sushi date or family/friends sushi night!
+        Will continue ordering!
+        Highly recommend!
+      languageCode: en
+    authorAttribution:
+      displayName: Gabriel Resto Aranda
+      uri: https://www.google.com/maps/contrib/108325160188909201768/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVNz6nD6NsxZUCyf4qOUwGirFnDu77sCp2nBo7frkimM3d9Kaqx=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2023-10-01T07:19:56.640585Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNabk5XeDdBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNabk5XeDdBRRAB!2m1!1s0x80c2bc08744779d1:0x872faf10768775ed
+  - name: >-
+      places/ChIJ0XlHdAi8woAR7XWHdhCvL4c/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRMmRQdURREAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Food and service is always great whenever I come here. The staff are
+        kind and attentive. Some of the best, most fresh sushi in LA.
+      languageCode: en
+    originalText:
+      text: >-
+        Food and service is always great whenever I come here. The staff are
+        kind and attentive. Some of the best, most fresh sushi in LA.
+      languageCode: en
+    authorAttribution:
+      displayName: naz engel
+      uri: https://www.google.com/maps/contrib/115317794042843677408/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLVIdcpKFbmNeiKXZM1RZ4CQ_NS4xdR1qWL6mGQahqZobC5JA=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-05T22:40:15.185901Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNRMmRQdURREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNRMmRQdURREAE!2m1!1s0x80c2bc08744779d1:0x872faf10768775ed
+  - name: >-
+      places/ChIJ0XlHdAi8woAR7XWHdhCvL4c/reviews/ChdDSUhNMG9nS0VJQ0FnSUMwOWFTSjdBRRAB
+    relativePublishTimeDescription: 5 years ago
+    rating: 5
+    text:
+      text: >-
+        Popped in here while I was nearby and wow. What an amazing sushi spot. I
+        decided to try the special which was an oyster shot in ponzu sauce and
+        quail egg, it was excellent. I also went for the shrimp tempura sushi
+        with baked lobster on top- divine; and crab meat topped with spicy tuna,
+        albacore and smelt eggs. We also had the edamame with garlic butter.
+        Everything was incredible.
+      languageCode: en
+    originalText:
+      text: >-
+        Popped in here while I was nearby and wow. What an amazing sushi spot. I
+        decided to try the special which was an oyster shot in ponzu sauce and
+        quail egg, it was excellent. I also went for the shrimp tempura sushi
+        with baked lobster on top- divine; and crab meat topped with spicy tuna,
+        albacore and smelt eggs. We also had the edamame with garlic butter.
+        Everything was incredible.
+      languageCode: en
+    authorAttribution:
+      displayName: Nafisa Akabor
+      uri: https://www.google.com/maps/contrib/105541553706502782096/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXr3e-o_wJdis4jz2mfZtpwDzf6OD6P3XGBSA6AWgQKKpSx6EEA=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2019-10-05T18:23:05.368160Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMwOWFTSjdBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMwOWFTSjdBRRAB!2m1!1s0x80c2bc08744779d1:0x872faf10768775ed
+  - name: >-
+      places/ChIJ0XlHdAi8woAR7XWHdhCvL4c/reviews/ChZDSUhNMG9nS0VJQ0FnSUN6dUoySWFBEAE
+    relativePublishTimeDescription: 11 months ago
+    rating: 5
+    text:
+      text: >-
+        I recently had the pleasure of dining at Yu/Mi Sushi and I must say, the
+        experience was fantastic. The restaurant offers an array of amazing and
+        creative rolls that are sure to please any sushi lover. The rolls were
+        beautifully presented and bursting with flavor. The freshness of the
+        fish was evident in every bite, making for a truly enjoyable meal.
+
+
+        What really stood out to me was the amazing staff. They were attentive,
+        friendly, and knowledgeable about the menu. They made sure that my
+        dining experience was top-notch and went above and beyond to accommodate
+        any special requests. The head chef, Teddy, deserves a special mention.
+        His expertise and passion for sushi were evident in every dish he
+        prepared. The attention to detail and care he put into each roll was
+        truly commendable.
+
+
+        One roll that I highly recommend is the "Kevin Roll". It was a
+        delightful combination of flavors and textures that left me wanting
+        more. The blend of ingredients was unique and the presentation was
+        visually stunning. I would definitely order it again on my next visit.
+
+
+        Overall, my experience at Yu/Mi Sushi was exceptional. The amazing
+        creative rolls, fresh fish, and the incredible staff, especially head
+        chef Teddy, made for a memorable dining experience. I highly recommend
+        giving this place a try if you're a sushi lover.
+      languageCode: en
+    originalText:
+      text: >-
+        I recently had the pleasure of dining at Yu/Mi Sushi and I must say, the
+        experience was fantastic. The restaurant offers an array of amazing and
+        creative rolls that are sure to please any sushi lover. The rolls were
+        beautifully presented and bursting with flavor. The freshness of the
+        fish was evident in every bite, making for a truly enjoyable meal.
+
+
+        What really stood out to me was the amazing staff. They were attentive,
+        friendly, and knowledgeable about the menu. They made sure that my
+        dining experience was top-notch and went above and beyond to accommodate
+        any special requests. The head chef, Teddy, deserves a special mention.
+        His expertise and passion for sushi were evident in every dish he
+        prepared. The attention to detail and care he put into each roll was
+        truly commendable.
+
+
+        One roll that I highly recommend is the "Kevin Roll". It was a
+        delightful combination of flavors and textures that left me wanting
+        more. The blend of ingredients was unique and the presentation was
+        visually stunning. I would definitely order it again on my next visit.
+
+
+        Overall, my experience at Yu/Mi Sushi was exceptional. The amazing
+        creative rolls, fresh fish, and the incredible staff, especially head
+        chef Teddy, made for a memorable dining experience. I highly recommend
+        giving this place a try if you're a sushi lover.
+      languageCode: en
+    authorAttribution:
+      displayName: Kevin Lipton
+      uri: https://www.google.com/maps/contrib/102863594624729535900/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKt2zZeZZjF3KF6VR_gLQNSGFF-T6mAD6KadxltsHpnf-H0eA=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-05-30T18:19:01.777354Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN6dUoySWFBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN6dUoySWFBEAE!2m1!1s0x80c2bc08744779d1:0x872faf10768775ed
+review_summary: >-
+  What Visitors Are Saying About YU/MI Sushi$$$Folks often rave about the fresh
+  flavors and creative variety at this spot, highlighting it as a standout for
+  anyone craving high-quality sushi in a laid-back vibe. Many appreciate the
+  consistent taste and generous portions that make meals feel satisfying and
+  worthwhile, whether for a quick takeout or a relaxed dine-in session. The
+  service comes across as attentive and efficient, contributing to a positive
+  overall experience that keeps people coming back. It's frequently recommended
+  for group outings or solo visits, with comments emphasizing its reliability as
+  a top pick among local Japanese eateries. If you're on the hunt for great
+  sushi restaurants nearby, this place delivers a solid, enjoyable option that
+  lives up to the buzz.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
-payment_options: null
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
+delivery: true
+dine_in: true
 good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
+good_for_groups: true
+good_for_sports: false
+live_music: false
 menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
 serves_breakfast: null
 serves_brunch: null
 serves_cocktails: null
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Glass-fronted Japanese restaurant offering sushi, sashimi and nigiri with soft
+  drinks and ice cream.
 
 ---

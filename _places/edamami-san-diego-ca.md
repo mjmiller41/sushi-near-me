@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Edamami"
+title: Edamami
 permalink: /california/san-diego/edamami.html
 stateAbbr: CA
 stateName: California
 cityName: San Diego
 seo:
-  name: "Edamami"
-  type: Restaurant
-  links: null
-description: "Edamami serves delicious sushi in San Diego, California. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.edamamiexperience.com/
 place_id: ChIJv3dOZ2n-24ARkqdERvqRYfY
 photos:
   - name: >-
@@ -170,8 +168,113 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80dbfe69674e77bf:0xf66191fa4644a792!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: false
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 16
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 14
+        minute: 30
+    - open:
+        day: 6
+        hour: 16
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:30 AM – 2:30 PM, 4:00 – 9:00 PM'
+    - 'Tuesday: 11:30 AM – 2:30 PM, 4:00 – 9:00 PM'
+    - 'Wednesday: 11:30 AM – 2:30 PM, 4:00 – 9:00 PM'
+    - 'Thursday: 11:30 AM – 2:30 PM, 4:00 – 9:00 PM'
+    - 'Friday: 11:30 AM – 2:30 PM, 4:00 – 9:00 PM'
+    - 'Saturday: 11:30 AM – 2:30 PM, 4:00 – 9:00 PM'
+    - 'Sunday: Closed'
+  nextOpenTime: '2025-05-03T23:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +282,49 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (858) 278-8929
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.6'
+rating_count: 206
+website: http://www.edamamiexperience.com/
+description: >-
+  Discover Edamami in San Diego$$$Edamami in San Diego, CA, is a cozy Japanese
+  eatery that delights visitors with its fresh sushi selections and comforting
+  dishes in a relaxed environment. This spot specializes in a range of options
+  like inventive rolls, hearty noodles, flavorful rice bowls, and light salads,
+  making it a go-to for those seeking authentic flavors without the fuss.
+  Accessibility features such as wheelchair-friendly parking and entrances
+  ensure a welcoming experience for all guests, enhancing its appeal as one of
+  the top sushi restaurants in the area. Open for lunch and dinner most days of
+  the week, it's an ideal choice for anyone exploring quality Japanese cuisine
+  nearby, blending tradition with everyday convenience.
+generative_summary: >-
+  Discover Edamami in San Diego$$$Edamami in San Diego, CA, is a cozy Japanese
+  eatery that delights visitors with its fresh sushi selections and comforting
+  dishes in a relaxed environment. This spot specializes in a range of options
+  like inventive rolls, hearty noodles, flavorful rice bowls, and light salads,
+  making it a go-to for those seeking authentic flavors without the fuss.
+  Accessibility features such as wheelchair-friendly parking and entrances
+  ensure a welcoming experience for all guests, enhancing its appeal as one of
+  the top sushi restaurants in the area. Open for lunch and dinner most days of
+  the week, it's an ideal choice for anyone exploring quality Japanese cuisine
+  nearby, blending tradition with everyday convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Visitor Feedback Highlights$$$Folks exploring sushi spots in San Diego often
+  rave about the fresh, high-quality ingredients that make every bite memorable
+  at this local favorite. Many appreciate the laid-back vibe and solid portions
+  that keep things satisfying without overwhelming the wallet, perfect for
+  casual outings or quick meals. While some note that service can vary depending
+  on the time, the overall consensus leans positive, with diners highlighting
+  the tasty flavors and reliable options for groups or solo visits. It's
+  commonly mentioned as a solid pick for anyone hunting for top-rated sushi
+  close by, offering a balance of affordability and taste that leaves most
+  satisfied. With its strong reputation, this place continues to draw in sushi
+  lovers looking for a dependable and enjoyable dining experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +350,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -5,4 +5,5 @@ permalink: /indiana/goshen/
 stateAbbr: IN
 stateName: Indiana
 cityName: Goshen
+
 ---

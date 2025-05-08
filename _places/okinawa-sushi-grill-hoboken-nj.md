@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Okinawa Sushi & Grill"
+title: Okinawa Sushi & Grill
 permalink: /new-jersey/hoboken/okinawa-sushi-grill.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Hoboken
 seo:
-  name: "Okinawa Sushi & Grill"
-  type: Restaurant
+  type: restaurant
   links: http://okinawahoboken.com/
-description: "Casual, contemporary eatery for specialty sushi rolls as well as Japanese, Thai & Chinese dishes. Okinawa Sushi & Grill serves delicious sushi in Hoboken, New Jersey. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ-98Dk1tXwokRf5MAEqU_OW0
 photos:
   - name: >-
@@ -181,6 +179,31 @@ price_range: null
 rating: '4.1'
 rating_count: 0
 website: http://okinawahoboken.com/
+description: >-
+  Explore Okinawa Sushi & Grill in Hoboken, NJ$$$Okinawa Sushi & Grill in
+  Hoboken, NJ, offers a casual and contemporary dining experience focused on
+  fresh specialty sushi rolls alongside a variety of Japanese, Thai, and Chinese
+  dishes. This spot stands out for its welcoming atmosphere, making it ideal for
+  enjoying flavorful meals in a relaxed setting away from bustling areas.
+  Patrons appreciate the convenient parking and the option for dine-in or
+  takeout, enhancing its appeal for quick lunches or evening outings. The menu
+  caters to diverse tastes with options that include vegetarian choices and
+  desserts, ensuring a satisfying visit for different preferences. Whether
+  you're seeking authentic Asian flavors or a cozy place to unwind, this
+  restaurant delivers a solid blend of quality and affordability.
+generative_summary: >-
+  Explore Okinawa Sushi & Grill in Hoboken, NJ$$$Okinawa Sushi & Grill in
+  Hoboken, NJ, offers a casual and contemporary dining experience focused on
+  fresh specialty sushi rolls alongside a variety of Japanese, Thai, and Chinese
+  dishes. This spot stands out for its welcoming atmosphere, making it ideal for
+  enjoying flavorful meals in a relaxed setting away from bustling areas.
+  Patrons appreciate the convenient parking and the option for dine-in or
+  takeout, enhancing its appeal for quick lunches or evening outings. The menu
+  caters to diverse tastes with options that include vegetarian choices and
+  desserts, ensuring a satisfying visit for different preferences. Whether
+  you're seeking authentic Asian flavors or a cozy place to unwind, this
+  restaurant delivers a solid blend of quality and affordability.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ-98Dk1tXwokRf5MAEqU_OW0/reviews/ChdDSUhNMG9nS0VJQ0FnSUNuLUx1S3RnRRAB
@@ -332,6 +355,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNSM3QyN3pRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNSM3QyN3pRRRAB!2m1!1s0x89c2575b9303dffb:0x6d393fa51200937f
+review_summary: >-
+  Customer Favorites and Feedback$$$From what folks are sharing, Okinawa Sushi &
+  Grill consistently impresses with its tasty sushi and other Asian dishes that
+  hit the spot without breaking the bank. People often highlight the fresh
+  ingredients and creative rolls, like the popular tuna pizza, as standout
+  features that make meals feel special and satisfying. The friendly service and
+  calm vibe add to the enjoyment, with easy parking and BYOB options making it a
+  go-to for casual get-togethers or solo visits. Overall, it's praised for being
+  a reliable choice in a busy area, offering great value and a welcoming
+  environment that keeps diners coming back. If you're on the hunt for solid
+  sushi spots nearby, this one earns high marks for its consistent quality and
+  thoughtful touches.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   valetParking: false
@@ -363,8 +399,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Casual, contemporary eatery for specialty sushi rolls as well as Japanese,
   Thai & Chinese dishes.
 

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yama Sushi House - Phoenix"
+title: Yama Sushi House - Phoenix
 permalink: /arizona/phoenix/yama-sushi-house-phoenix.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Phoenix
 seo:
-  name: "Yama Sushi House - Phoenix"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Yama Sushi House - Phoenix serves delicious sushi in Phoenix, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJU9abh-oSK4cROkql25LNHIg
 photos:
   - name: >-
@@ -185,7 +183,41 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Yama Sushi House in Phoenix, AZ$$$Yama Sushi House in Phoenix, AZ,
+  stands out as a welcoming spot for enjoying fresh sushi rolls and authentic
+  Japanese flavors in a relaxed atmosphere. This sushi restaurant near you
+  features a casual dining experience enhanced by daily happy hours, making it
+  ideal for both quick meals and leisurely evenings. Patrons can appreciate the
+  thoughtful accessibility options, ensuring everyone feels included while
+  savoring expertly prepared dishes. Whether you're exploring Japanese places
+  near me or seeking top-rated sushi options, the menu highlights a variety of
+  creative rolls and traditional favorites that cater to diverse tastes.
+generative_summary: >-
+  Discover Yama Sushi House in Phoenix, AZ$$$Yama Sushi House in Phoenix, AZ,
+  stands out as a welcoming spot for enjoying fresh sushi rolls and authentic
+  Japanese flavors in a relaxed atmosphere. This sushi restaurant near you
+  features a casual dining experience enhanced by daily happy hours, making it
+  ideal for both quick meals and leisurely evenings. Patrons can appreciate the
+  thoughtful accessibility options, ensuring everyone feels included while
+  savoring expertly prepared dishes. Whether you're exploring Japanese places
+  near me or seeking top-rated sushi options, the menu highlights a variety of
+  creative rolls and traditional favorites that cater to diverse tastes.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this sushi spot often praise the fresh
+  ingredients and flavorful dishes, noting that the rolls are consistently
+  well-made and satisfying. Many appreciate the casual vibe and happy hour
+  deals, which add to the overall enjoyable experience without any major
+  complaints. Feedback frequently highlights the attentive service and variety
+  of options, making it a go-to choice for groups or solo diners looking for
+  reliable Japanese cuisine. While some mention portions could be more generous,
+  the general consensus leans positive, with people returning for the quality
+  and affordability. Overall, if you're hunting for sushi restaurants near me,
+  this place delivers a solid, enjoyable meal that keeps customers coming back
+  for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +243,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

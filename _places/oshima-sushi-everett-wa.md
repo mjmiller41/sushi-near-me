@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Oshima Sushi"
+title: Oshima Sushi
 permalink: /washington/everett/oshima-sushi.html
 stateAbbr: WA
 stateName: Washington
 cityName: Everett
 seo:
-  name: "Oshima Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://pos.chowbus.com/online-ordering/store/oshima-sushio-everett/21550
-description: "Oshima Sushi serves delicious sushi in Everett, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJf97-9rEGkFQRs09iY7-duTc
 photos:
   - name: >-
@@ -170,22 +168,105 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x549006b1f6fede7f:0x37b99dbf63624fb3!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
-    - 'Monday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM'
-    - 'Thursday: 11:00 AM – 3:00 PM, 4:00 – 10:00 PM'
-    - 'Friday: 11:00 AM – 3:00 PM, 4:00 – 10:00 PM'
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 15
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 15
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 3:00 PM, 4:00 – 9:30 PM'
+    - 'Tuesday: 11:00 AM – 3:00 PM, 4:00 – 9:30 PM'
+    - 'Wednesday: 11:00 AM – 3:00 PM, 4:00 – 9:30 PM'
+    - 'Thursday: 11:00 AM – 3:00 PM, 4:00 – 9:30 PM'
+    - 'Friday: 11:00 AM – 10:00 PM'
     - 'Saturday: 11:00 AM – 10:00 PM'
     - 'Sunday: 12:00 – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM'
-    - 'Thursday: 11:00 AM – 3:00 PM, 4:00 – 10:00 PM'
-    - 'Friday: 11:00 AM – 3:00 PM, 4:00 – 10:00 PM'
-    - 'Saturday: 11:00 AM – 10:00 PM'
-    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T05:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +278,264 @@ phone: (425) 356-9999
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.5'
-rating_count: 0
+rating_count: 1127
 website: https://pos.chowbus.com/online-ordering/store/oshima-sushio-everett/21550
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Oshima Sushi in Everett, WA$$$Oshima Sushi in Everett, WA, stands out
+  as a cozy Japanese restaurant offering a delightful array of fresh sushi
+  rolls, sashimi, and bento boxes that capture authentic flavors. The spot
+  features a warm, homey ambiance with subtle bamboo accents, making it an
+  inviting choice for anyone seeking quality Japanese cuisine nearby.
+  Accessibility is a key highlight, with wheelchair-friendly parking, entrances,
+  and seating ensuring everyone can enjoy the experience comfortably. Open for
+  lunch and dinner throughout the week, it provides a relaxed setting for
+  savoring expertly prepared dishes that emphasize fresh ingredients and
+  traditional techniques. Whether you're exploring sushi options close to home
+  or looking for a reliable spot in the area, this restaurant delivers a
+  satisfying blend of taste and convenience.
+generative_summary: >-
+  Discover Oshima Sushi in Everett, WA$$$Oshima Sushi in Everett, WA, stands out
+  as a cozy Japanese restaurant offering a delightful array of fresh sushi
+  rolls, sashimi, and bento boxes that capture authentic flavors. The spot
+  features a warm, homey ambiance with subtle bamboo accents, making it an
+  inviting choice for anyone seeking quality Japanese cuisine nearby.
+  Accessibility is a key highlight, with wheelchair-friendly parking, entrances,
+  and seating ensuring everyone can enjoy the experience comfortably. Open for
+  lunch and dinner throughout the week, it provides a relaxed setting for
+  savoring expertly prepared dishes that emphasize fresh ingredients and
+  traditional techniques. Whether you're exploring sushi options close to home
+  or looking for a reliable spot in the area, this restaurant delivers a
+  satisfying blend of taste and convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJf97-9rEGkFQRs09iY7-duTc/reviews/ChdDSUhNMG9nS0VJQ0FnTUNRX2F2Vm1BRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        The atmosphere here is amazing .I love real Japanese restaurant vibe and
+        food. Have you try the spicy sashimi bowl? It is super yummy! It comes
+        with side of Korean style spicy sauce.Also ,salmon sashimi is just
+        melting on your mouse! Highly recommend!!!
+      languageCode: en
+    originalText:
+      text: >-
+        The atmosphere here is amazing .I love real Japanese restaurant vibe and
+        food. Have you try the spicy sashimi bowl? It is super yummy! It comes
+        with side of Korean style spicy sauce.Also ,salmon sashimi is just
+        melting on your mouse! Highly recommend!!!
+      languageCode: en
+    authorAttribution:
+      displayName: Minnie Moreno
+      uri: https://www.google.com/maps/contrib/118172237109170322958/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUQIryrn08wuOFnEWtUWIWYKRYO-JB1A5v1DqFwU-tN1CXSqjg=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-06T18:20:07.473629Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNRX2F2Vm1BRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNRX2F2Vm1BRRAB!2m1!1s0x549006b1f6fede7f:0x37b99dbf63624fb3
+  - name: >-
+      places/ChIJf97-9rEGkFQRs09iY7-duTc/reviews/ChdDSUhNMG9nS0VJQ0FnTUNRX3ZpOWlBRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: |-
+        It was such a nice experience.
+        Good was fresh, and staffs were very nice.
+        Having lots of choices!
+      languageCode: en
+    originalText:
+      text: |-
+        It was such a nice experience.
+        Good was fresh, and staffs were very nice.
+        Having lots of choices!
+      languageCode: en
+    authorAttribution:
+      displayName: I E
+      uri: https://www.google.com/maps/contrib/105936650899627624209/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXzCxT39c-A3r0bMlRXEOnkpiQxKUYGgy4Y7WEiHGIiYMOw6EY=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-04T18:40:32.515325Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNRX3ZpOWlBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNRX3ZpOWlBRRAB!2m1!1s0x549006b1f6fede7f:0x37b99dbf63624fb3
+  - name: >-
+      places/ChIJf97-9rEGkFQRs09iY7-duTc/reviews/ChZDSUhNMG9nS0VJQ0FnTUNBbW9ycGNBEAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 2
+    text:
+      text: >-
+        Calamari was just ok. Too much breading, chewy and small portion. Sushi
+        itself was good. However, I was annoyed that my baked roll was placed in
+        the same container and right next to my husbands raw roll. I
+        specifically order cooked/baked because I had a kidney transplant and am
+        not allowed to eat raw. At least place them in a divided container so
+        they’re not touching.
+      languageCode: en
+    originalText:
+      text: >-
+        Calamari was just ok. Too much breading, chewy and small portion. Sushi
+        itself was good. However, I was annoyed that my baked roll was placed in
+        the same container and right next to my husbands raw roll. I
+        specifically order cooked/baked because I had a kidney transplant and am
+        not allowed to eat raw. At least place them in a divided container so
+        they’re not touching.
+      languageCode: en
+    authorAttribution:
+      displayName: HA Simons
+      uri: https://www.google.com/maps/contrib/103765543826641285466/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXmig4-uo7K_N5fx0lZrvvcumFmJNcWByuASYh3ppESj9PTTXbA=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-01-31T02:14:52.629070Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNBbW9ycGNBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNBbW9ycGNBEAE!2m1!1s0x549006b1f6fede7f:0x37b99dbf63624fb3
+  - name: >-
+      places/ChIJf97-9rEGkFQRs09iY7-duTc/reviews/ChZDSUhNMG9nS0VJQ0FnSURQaWM2dUlREAE
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        Amazing sushi!!
+
+        Excellent customer service and great quality food with good prices.
+        Definitely I will comeback soon!
+      languageCode: en
+    originalText:
+      text: >-
+        Amazing sushi!!
+
+        Excellent customer service and great quality food with good prices.
+        Definitely I will comeback soon!
+      languageCode: en
+    authorAttribution:
+      displayName: Eagle water
+      uri: https://www.google.com/maps/contrib/101942903717522733572/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJFC0wVCMqW8qs50capMJk5t3AhIAaaewh-1FRv2XNpksfd=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-12-03T13:07:14.080915Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURQaWM2dUlREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURQaWM2dUlREAE!2m1!1s0x549006b1f6fede7f:0x37b99dbf63624fb3
+  - name: >-
+      places/ChIJf97-9rEGkFQRs09iY7-duTc/reviews/ChZDSUhNMG9nS0VJQ0FnSUQxOGVQa1Z3EAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        Haven't been in here for a while since we moved out of town but came
+        back and really enjoyed that I could go out for some Japanese food. This
+        is really spectacular
+
+
+        Service was absolutely stellar. I had lots and lots of questions and I
+        think all of the weight staff stopped by to answer my questions for me
+        and I ended up getting the pokeball and I am really delighted with it.
+        They explained to me they've got several different kind of sesame bowls
+        and I like the pokey bowl. It has a really nice sauce to it and there
+        were just tons of food in here just and very delightfully presented. I
+        did ask for the lettuce instead of rice and they said it would be an
+        upcharge of $2 which I didn't want to go for. But that would have been a
+        nice addition if they would have been that the atmosphere was a lively
+        there all lots of tables were full. There's a sports bar football game
+        on right now. Music playing in the background. The chefs are busy at the
+        sushi bar. The tea is really great. I definitely know this is one of the
+        places I like to go to. So sorry my husband doesn't want to eat Japanese
+        anymore. This is a real treat
+
+        We live up in Mount Baker now and it's 100 mi trip to get down to
+        Everett but I was down here today and thankful to come out of my way a
+        little bit to be able to eat here.
+      languageCode: en
+    originalText:
+      text: >-
+        Haven't been in here for a while since we moved out of town but came
+        back and really enjoyed that I could go out for some Japanese food. This
+        is really spectacular
+
+
+        Service was absolutely stellar. I had lots and lots of questions and I
+        think all of the weight staff stopped by to answer my questions for me
+        and I ended up getting the pokeball and I am really delighted with it.
+        They explained to me they've got several different kind of sesame bowls
+        and I like the pokey bowl. It has a really nice sauce to it and there
+        were just tons of food in here just and very delightfully presented. I
+        did ask for the lettuce instead of rice and they said it would be an
+        upcharge of $2 which I didn't want to go for. But that would have been a
+        nice addition if they would have been that the atmosphere was a lively
+        there all lots of tables were full. There's a sports bar football game
+        on right now. Music playing in the background. The chefs are busy at the
+        sushi bar. The tea is really great. I definitely know this is one of the
+        places I like to go to. So sorry my husband doesn't want to eat Japanese
+        anymore. This is a real treat
+
+        We live up in Mount Baker now and it's 100 mi trip to get down to
+        Everett but I was down here today and thankful to come out of my way a
+        little bit to be able to eat here.
+      languageCode: en
+    authorAttribution:
+      displayName: Jaye Lill
+      uri: https://www.google.com/maps/contrib/104194315908919165270/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWKzquo9Zr0poWzTfuz71DIKwwyuDVuNrwex_iUdM8Lixi8F9VZ=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-01-08T02:43:20.134093Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQxOGVQa1Z3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQxOGVQa1Z3EAE!2m1!1s0x549006b1f6fede7f:0x37b99dbf63624fb3
+review_summary: >-
+  What Customers Are Buzzing About$$$Visitors to this sushi spot often rave
+  about the fresh, flavorful dishes that make every meal feel like a treat, with
+  plenty of options to suit different tastes. Many appreciate the friendly
+  service and welcoming vibe that enhance the overall dining experience, turning
+  a simple meal into something memorable. While most feedback highlights the
+  great value and variety, a few notes mention minor issues with portion sizes
+  or packaging for takeout, though these don't overshadow the positives.
+  Overall, people enjoy the lively atmosphere and quick service, making it a
+  solid pick for groups or casual outings. If you're on the hunt for top-rated
+  sushi nearby, this place tends to leave diners satisfied and eager to return
+  for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
 good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
 serves_cocktails: null
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Informal sushi spot serving familiar rolls & Japanese entrees in homey digs
+  with bamboo accents.
 
 ---

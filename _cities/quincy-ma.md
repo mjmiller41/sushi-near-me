@@ -5,4 +5,5 @@ permalink: /massachusetts/quincy/
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Quincy
+
 ---

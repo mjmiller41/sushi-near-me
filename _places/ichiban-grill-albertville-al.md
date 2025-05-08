@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ichiban Grill"
+title: Ichiban Grill
 permalink: /alabama/albertville/ichiban-grill.html
 stateAbbr: AL
 stateName: Alabama
 cityName: Albertville
 seo:
-  name: "Ichiban Grill"
-  type: Restaurant
-  links: null
-description: "Ichiban Grill serves delicious sushi in Albertville, Alabama. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://ichibanexpressal.kwickmenu.com/index.php
 place_id: ChIJ17Jjis8CiogRbPttLG5BDgk
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x888a02cf8a63b2d7:0x90e416e2c6dfb6c!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:30 PM'
+    - 'Tuesday: 11:00 AM – 9:30 PM'
+    - 'Wednesday: 11:00 AM – 9:30 PM'
+    - 'Thursday: 11:00 AM – 9:30 PM'
+    - 'Friday: 11:00 AM – 9:30 PM'
+    - 'Saturday: 11:00 AM – 9:30 PM'
+    - 'Sunday: 11:00 AM – 9:30 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,52 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (256) 660-2616
+price_level: PRICE_LEVEL_INEXPENSIVE
+price_range: $10 &ndash; $20
+rating: '4.1'
+rating_count: 643
+website: https://ichibanexpressal.kwickmenu.com/index.php
+description: >-
+  Discover Ichiban Grill in Albertville, AL$$$Ichiban Grill in Albertville, AL,
+  stands out as a welcoming spot for Japanese dining, offering a casual vibe
+  perfect for those seeking flavorful meals in a relaxed setting. This eatery
+  specializes in a variety of dishes like teriyaki, noodles, and hibachi
+  favorites, making it a go-to choice for anyone exploring top-rated Japanese
+  places near you. With its accessible entrance and seating options, it's
+  designed to accommodate everyone looking for convenient and enjoyable meals.
+  The menu features quick-service options that blend traditional flavors with
+  everyday convenience, ideal for locals hunting for sushi restaurants or
+  similar spots close to home. Open daily from 11 AM to 9:30 PM, it provides a
+  straightforward spot to savor fresh Japanese-inspired cuisine without the
+  fuss.
+generative_summary: >-
+  Discover Ichiban Grill in Albertville, AL$$$Ichiban Grill in Albertville, AL,
+  stands out as a welcoming spot for Japanese dining, offering a casual vibe
+  perfect for those seeking flavorful meals in a relaxed setting. This eatery
+  specializes in a variety of dishes like teriyaki, noodles, and hibachi
+  favorites, making it a go-to choice for anyone exploring top-rated Japanese
+  places near you. With its accessible entrance and seating options, it's
+  designed to accommodate everyone looking for convenient and enjoyable meals.
+  The menu features quick-service options that blend traditional flavors with
+  everyday convenience, ideal for locals hunting for sushi restaurants or
+  similar spots close to home. Open daily from 11 AM to 9:30 PM, it provides a
+  straightforward spot to savor fresh Japanese-inspired cuisine without the
+  fuss.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Folks who visit Ichiban Grill often rave about the
+  hearty portions and affordable prices on their hibachi dishes, making it a
+  solid pick for casual Japanese eats. Many appreciate the friendly service and
+  laid-back atmosphere that keeps things light and enjoyable, turning meals into
+  a pleasant experience. While some mention occasional waits during busy times,
+  the overall value and taste make it worth the patience for those craving a
+  satisfying bite. Reviewers frequently highlight the restaurant's ability to
+  deliver on flavor without breaking the bank, appealing to families and groups
+  alike. All in all, it's a reliable spot that earns praise for its approachable
+  vibe and tasty offerings, encouraging diners to return for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +313,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

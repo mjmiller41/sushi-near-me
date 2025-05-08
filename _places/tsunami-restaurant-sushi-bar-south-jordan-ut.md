@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Tsunami Restaurant & Sushi Bar"
+title: Tsunami Restaurant & Sushi Bar
 permalink: /utah/south-jordan/tsunami-restaurant-sushi-bar.html
 stateAbbr: UT
 stateName: Utah
 cityName: South Jordan
 seo:
-  name: "Tsunami Restaurant & Sushi Bar"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Tsunami Restaurant & Sushi Bar serves delicious sushi in South Jordan, Utah. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJbac68DaGUocR9lLltBJXsdg
 photos:
   - name: >-
@@ -185,7 +183,46 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Tsunami Restaurant & Sushi Bar in South Jordan, UT$$$Tsunami
+  Restaurant & Sushi Bar in South Jordan, UT, brings a fresh take on modern
+  Japanese dining with its creative sushi rolls and innovative menu options that
+  appeal to sushi enthusiasts. The restaurant features a stylish atmosphere that
+  combines contemporary design with comfortable seating, making it an ideal spot
+  for casual meals or happy-hour gatherings. Guests can savor a variety of fresh
+  Japanese dishes, including expertly crafted rolls and flavorful specials that
+  highlight seasonal ingredients. Accessibility is a key highlight, with
+  features like wheelchair-accessible parking and entrances ensuring everyone
+  can enjoy the experience. Whether you're searching for top-rated sushi options
+  in the area, this spot delivers a welcoming vibe perfect for exploring
+  Japanese flavors close to home.
+generative_summary: >-
+  Discover Tsunami Restaurant & Sushi Bar in South Jordan, UT$$$Tsunami
+  Restaurant & Sushi Bar in South Jordan, UT, brings a fresh take on modern
+  Japanese dining with its creative sushi rolls and innovative menu options that
+  appeal to sushi enthusiasts. The restaurant features a stylish atmosphere that
+  combines contemporary design with comfortable seating, making it an ideal spot
+  for casual meals or happy-hour gatherings. Guests can savor a variety of fresh
+  Japanese dishes, including expertly crafted rolls and flavorful specials that
+  highlight seasonal ingredients. Accessibility is a key highlight, with
+  features like wheelchair-accessible parking and entrances ensuring everyone
+  can enjoy the experience. Whether you're searching for top-rated sushi options
+  in the area, this spot delivers a welcoming vibe perfect for exploring
+  Japanese flavors close to home.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Guests Are Saying About This Sushi Spot$$$Folks often rave about the
+  tasty sushi rolls and appetizers at this Japanese restaurant, noting how the
+  creative options like fresh rolls and savory sides make for a satisfying meal.
+  Many appreciate the friendly and attentive service that keeps things running
+  smoothly from start to finish. The atmosphere comes across as comfortable and
+  upscale, providing a nice backdrop for enjoying good food with friends or
+  family. Overall, visitors highlight the solid value and variety, making it a
+  go-to choice for those craving reliable Japanese cuisine. If you're on the
+  hunt for great sushi places nearby, this spot tends to leave people feeling
+  pleased with their dining experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +248,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

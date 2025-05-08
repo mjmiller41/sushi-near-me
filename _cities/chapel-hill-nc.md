@@ -5,4 +5,5 @@ permalink: /north-carolina/chapel-hill/
 stateAbbr: NC
 stateName: North Carolina
 cityName: Chapel Hill
+
 ---

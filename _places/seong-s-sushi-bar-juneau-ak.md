@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Seong's Sushi Bar"
+title: Seong's Sushi Bar
 permalink: /alaska/juneau/seong-s-sushi-bar.html
 stateAbbr: AK
 stateName: Alaska
 cityName: Juneau
 seo:
-  name: "Seong's Sushi Bar"
-  type: Restaurant
+  type: restaurant
   links: http://www.seongssushi.com/
-description: "Seong's Sushi Bar serves delicious sushi in Juneau, Alaska. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJmUHKeYbfAFQRVMBL-u6A5R8
 photos:
   - name: >-
@@ -169,7 +167,81 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x5400df8679ca4199:0x1fe580eefa4bc054!10e5
 primary_type: Asian Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 20
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 20
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 20
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 20
+        minute: 30
+    - open:
+        day: 6
+        hour: 16
+        minute: 0
+      close:
+        day: 6
+        hour: 20
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:00 AM – 2:00 PM, 4:30 – 8:30 PM'
     - 'Wednesday: 11:00 AM – 2:00 PM, 4:30 – 8:30 PM'
@@ -177,14 +249,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 2:00 PM, 4:30 – 8:30 PM'
     - 'Saturday: 4:00 – 8:30 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:00 AM – 2:00 PM, 4:30 – 8:30 PM'
-    - 'Wednesday: 11:00 AM – 2:00 PM, 4:30 – 8:30 PM'
-    - 'Thursday: 11:00 AM – 2:00 PM, 4:30 – 8:30 PM'
-    - 'Friday: 11:00 AM – 2:00 PM, 4:30 – 8:30 PM'
-    - 'Saturday: 4:00 – 8:30 PM'
-    - 'Sunday: Closed'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,35 +261,234 @@ phone: (907) 586-4778
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.6'
-rating_count: 0
+rating_count: 223
 website: http://www.seongssushi.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Seong's Sushi Bar in Juneau, AK$$$Seong's Sushi Bar in Juneau, AK,
+  stands out as a welcoming spot for fresh sushi and classic Asian flavors,
+  blending casual vibes with a menu that includes inventive rolls and hearty
+  Chinese-inspired dishes. This downtown eatery offers a relaxed atmosphere
+  where diners can enjoy beer, wine, and sake alongside accessible features like
+  wheelchair-friendly seating and parking, making it easy for everyone to savor
+  the experience. Known for its thoughtful preparation and variety of options,
+  including vegetarian choices and takeout convenience, it's a go-to destination
+  for those seeking quality sushi restaurants in the area. Whether you're
+  exploring local Japanese-inspired places or looking for a laid-back meal after
+  sightseeing, the spot delivers on fresh ingredients and moderate pricing that
+  appeal to a wide range of tastes.
+generative_summary: >-
+  Discover Seong's Sushi Bar in Juneau, AK$$$Seong's Sushi Bar in Juneau, AK,
+  stands out as a welcoming spot for fresh sushi and classic Asian flavors,
+  blending casual vibes with a menu that includes inventive rolls and hearty
+  Chinese-inspired dishes. This downtown eatery offers a relaxed atmosphere
+  where diners can enjoy beer, wine, and sake alongside accessible features like
+  wheelchair-friendly seating and parking, making it easy for everyone to savor
+  the experience. Known for its thoughtful preparation and variety of options,
+  including vegetarian choices and takeout convenience, it's a go-to destination
+  for those seeking quality sushi restaurants in the area. Whether you're
+  exploring local Japanese-inspired places or looking for a laid-back meal after
+  sightseeing, the spot delivers on fresh ingredients and moderate pricing that
+  appeal to a wide range of tastes.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJmUHKeYbfAFQRVMBL-u6A5R8/reviews/ChZDSUhNMG9nS0VJQ0FnTUNBdzktbmFBEAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        This is one of my favorite spots in town! I have never had a bad
+        experience at Seong’s. They have great food, gluten free options and
+        prepare their food with care. The owners are always around, and are such
+        nice people. Best spot for takeout on a Friday night!
+      languageCode: en
+    originalText:
+      text: >-
+        This is one of my favorite spots in town! I have never had a bad
+        experience at Seong’s. They have great food, gluten free options and
+        prepare their food with care. The owners are always around, and are such
+        nice people. Best spot for takeout on a Friday night!
+      languageCode: en
+    authorAttribution:
+      displayName: Kayla Erickson
+      uri: https://www.google.com/maps/contrib/113876694342275478386/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKiQ5SG1yyg4tpajNQkhi1gNK0CTRT87P-SHP43ZwfRI4R8=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-02-03T18:53:22.016645Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNBdzktbmFBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNBdzktbmFBEAE!2m1!1s0x5400df8679ca4199:0x1fe580eefa4bc054
+  - name: >-
+      places/ChIJmUHKeYbfAFQRVMBL-u6A5R8/reviews/ChZDSUhNMG9nS0VJQ0FnSURfdmU3c1hREAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 1
+    text:
+      text: >-
+        Worst Sushi I have ever had.
+
+        Inedible!  Not even fit for a stray dog.
+
+        Horrible and rude customer service.
+
+        I will never visit this place again. I remember when it was good. 
+        Downhill…
+
+        $50.00 absolutely wasted.
+      languageCode: en
+    originalText:
+      text: >-
+        Worst Sushi I have ever had.
+
+        Inedible!  Not even fit for a stray dog.
+
+        Horrible and rude customer service.
+
+        I will never visit this place again. I remember when it was good. 
+        Downhill…
+
+        $50.00 absolutely wasted.
+      languageCode: en
+    authorAttribution:
+      displayName: Ben Disney
+      uri: https://www.google.com/maps/contrib/105796329188070465919/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJN2nYZVftNZ7N2gY8PeMZigW2_tluu92meNx7qvSufDI3rcA=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-01-26T12:21:09.580493Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURfdmU3c1hREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURfdmU3c1hREAE!2m1!1s0x5400df8679ca4199:0x1fe580eefa4bc054
+  - name: >-
+      places/ChIJmUHKeYbfAFQRVMBL-u6A5R8/reviews/ChZDSUhNMG9nS0VJQ0FnSUNCX0pfcEVREAE
+    relativePublishTimeDescription: 2 years ago
+    rating: 5
+    text:
+      text: >-
+        Hands down the best sushi I’ve ever eaten. I always look for good sushi
+        when I travel, and it’s unfortunate that this place is so far away from
+        home for me! Fresh salmon. Fresh ingredients. Server was very friendly.
+        If you are in town, this is a must stop location!
+      languageCode: en
+    originalText:
+      text: >-
+        Hands down the best sushi I’ve ever eaten. I always look for good sushi
+        when I travel, and it’s unfortunate that this place is so far away from
+        home for me! Fresh salmon. Fresh ingredients. Server was very friendly.
+        If you are in town, this is a must stop location!
+      languageCode: en
+    authorAttribution:
+      displayName: Alex Herndon
+      uri: https://www.google.com/maps/contrib/104423512551967497182/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVMT2zfYBJN1WhTFwY-0QVTYeiyddaC5gEsgif0yRGSuqiBhtzt=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2022-12-20T10:44:03.626389Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNCX0pfcEVREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNCX0pfcEVREAE!2m1!1s0x5400df8679ca4199:0x1fe580eefa4bc054
+  - name: >-
+      places/ChIJmUHKeYbfAFQRVMBL-u6A5R8/reviews/ChdDSUhNMG9nS0VJQ0FnSUN6aVpTNWh3RRAB
+    relativePublishTimeDescription: 11 months ago
+    rating: 5
+    text:
+      text: >-
+        We order takeout from Seong’s a few times a month. We get the tofu lo
+        mein and tofu fried rice every single time, and usually a third item
+        like the crunch roll or veggie spring rolls.   We love it.
+      languageCode: en
+    originalText:
+      text: >-
+        We order takeout from Seong’s a few times a month. We get the tofu lo
+        mein and tofu fried rice every single time, and usually a third item
+        like the crunch roll or veggie spring rolls.   We love it.
+      languageCode: en
+    authorAttribution:
+      displayName: Brian Sparks
+      uri: https://www.google.com/maps/contrib/116786096414818437004/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUcQvAa5eahVMVhg3LOdV5kBqkyc32z_qSs7Q7zlik4ASko3FA=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-06-03T00:37:47.777259Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN6aVpTNWh3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN6aVpTNWh3RRAB!2m1!1s0x5400df8679ca4199:0x1fe580eefa4bc054
+  - name: >-
+      places/ChIJmUHKeYbfAFQRVMBL-u6A5R8/reviews/ChRDSUhNMG9nS0VJQ0FnSUNaa3Y5TxAB
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        The cozy sushi shack is located almost downtown, which gives you plenty
+        of street parking while still being close to all of Juneaus' main
+        attractions. Very nice atmosphere and pleasant staff. The wide selection
+        of fresh made sushi and hot traditional dishes are great too.
+      languageCode: en
+    originalText:
+      text: >-
+        The cozy sushi shack is located almost downtown, which gives you plenty
+        of street parking while still being close to all of Juneaus' main
+        attractions. Very nice atmosphere and pleasant staff. The wide selection
+        of fresh made sushi and hot traditional dishes are great too.
+      languageCode: en
+    authorAttribution:
+      displayName: Logan George
+      uri: https://www.google.com/maps/contrib/117511098112297419812/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIjhl30ShkKbQecu7aQ_SqlA_emoBLrTJQy1OGfFEdJ1ZLL9Q=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2023-09-07T12:58:50.891506Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChRDSUhNMG9nS0VJQ0FnSUNaa3Y5TxAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChRDSUhNMG9nS0VJQ0FnSUNaa3Y5TxAB!2m1!1s0x5400df8679ca4199:0x1fe580eefa4bc054
+review_summary: >-
+  What Customers Are Saying About This Sushi Spot$$$Folks generally rave about
+  the fresh sushi and tasty Asian dishes at this popular eatery, highlighting
+  how the variety keeps things exciting for both dine-in and takeout crowds.
+  Many appreciate the friendly service and reliable options like veggie rolls
+  and gluten-free picks, making it a solid choice for groups or quick meals.
+  While most experiences lean positive with praise for the welcoming atmosphere
+  and flavorful fare, a few mentions note occasional inconsistencies that didn't
+  meet expectations. Overall, it's seen as a highly rated spot worth trying if
+  you're in the mood for top sushi near Juneau, with the majority of feedback
+  emphasizing great value and enjoyable visits. If you're searching for sushi
+  places that deliver on freshness and convenience, this one often hits the mark
+  for a satisfying outing.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
 delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: false
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Casual restaurant offering a mix of sushi & familiar Chinese dishes along with
+  beer, wine & sake.
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Roka Akor - San Francisco"
+title: Roka Akor - San Francisco
 permalink: /california/san-francisco/roka-akor-san-francisco.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
 seo:
-  name: "Roka Akor - San Francisco"
-  type: Restaurant
+  type: restaurant
   links: https://www.rokaakor.com/san-francisco/?utm_source=google&utm_medium=Yext
-description: "Upscale Japanese restaurant & bar supplying steak, seafood & sushi in a contemporary setting. Roka Akor - San Francisco serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJS87mHCiBhYARiPE2_wqmEr4
 photos:
   - name: >-
@@ -167,7 +165,7 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m4!3m3!1s0x808581281ce6ce4b:0xbe12a60aff36f188!9m1!1b1
   photosUri: >-
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x808581281ce6ce4b:0xbe12a60aff36f188!10e5
-primary_type: Steak House
+primary_type: Japanese Restaurant
 opening_hours:
   regular: null
   current: null
@@ -184,6 +182,27 @@ price_range: $100 &ndash; & up
 rating: '4.6'
 rating_count: 0
 website: https://www.rokaakor.com/san-francisco/?utm_source=google&utm_medium=Yext
+description: >-
+  Explore Roka Akor in San Francisco$$$Roka Akor in San Francisco, CA, stands
+  out as a premier Japanese restaurant blending modern elegance with a focus on
+  grilled meats, fresh seafood, and expertly crafted sushi. This contemporary
+  spot offers an inviting atmosphere where diners can savor a variety of dishes,
+  including sake and creative cocktails that complement the meal. Accessibility
+  features like wheelchair-friendly entrances and restrooms make it welcoming
+  for all guests, while options for delivery and dine-in add to its convenience.
+  The menu highlights high-quality ingredients, providing a sophisticated
+  experience that's ideal for special occasions or casual evenings out.
+generative_summary: >-
+  Explore Roka Akor in San Francisco$$$Roka Akor in San Francisco, CA, stands
+  out as a premier Japanese restaurant blending modern elegance with a focus on
+  grilled meats, fresh seafood, and expertly crafted sushi. This contemporary
+  spot offers an inviting atmosphere where diners can savor a variety of dishes,
+  including sake and creative cocktails that complement the meal. Accessibility
+  features like wheelchair-friendly entrances and restrooms make it welcoming
+  for all guests, while options for delivery and dine-in add to its convenience.
+  The menu highlights high-quality ingredients, providing a sophisticated
+  experience that's ideal for special occasions or casual evenings out.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJS87mHCiBhYARiPE2_wqmEr4/reviews/ChdDSUhNMG9nS0VJQ0FnTURBamVYUHN3RRAB
@@ -335,6 +354,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNudF9DUnRBRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNudF9DUnRBRRAB!2m1!1s0x808581281ce6ce4b:0xbe12a60aff36f188
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors often praise the fresh sushi and
+  flavorful grilled meats at this Japanese spot, noting that dishes like black
+  cod and wagyu steak deliver a standout experience with impressive
+  presentations. While the service is frequently described as attentive and
+  accommodating, especially for dietary needs, some mention that certain items
+  like cocktails or fried chicken fall a bit short compared to the highlights.
+  Overall, it's a great choice for celebrations or date nights, with many
+  enjoying the lively vibe and value during happy hour. Folks appreciate the
+  solid food quality and welcoming staff, making it a reliable option for those
+  seeking tasty Japanese fare in a polished setting.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidParkingLot: true
   freeStreetParking: true
@@ -367,8 +398,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Upscale Japanese restaurant & bar supplying steak, seafood & sushi in a
   contemporary setting.
 

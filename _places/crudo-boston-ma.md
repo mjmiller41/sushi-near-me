@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Crudo"
+title: Crudo
 permalink: /massachusetts/boston/crudo.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Boston
 seo:
-  name: "Crudo"
-  type: Restaurant
+  type: restaurant
   links: http://crudoboston.com/
-description: "Sleek bi-level spot swathed in reclaimed barn wood serving creative sushi & Pan-Asian small plates. Crudo serves delicious sushi in Boston, Massachusetts. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJXWEOK49w44kRd7d7F3skQJI
 photos:
   - name: >-
@@ -184,6 +182,29 @@ price_range: $30 &ndash; $50
 rating: '4.2'
 rating_count: 0
 website: http://crudoboston.com/
+description: >-
+  Explore Crudo in Boston, MA$$$Crudo in Boston, MA, stands out as a stylish
+  Japanese restaurant specializing in creative sushi and Pan-Asian flavors that
+  draw in locals and visitors alike. This bi-level spot features a warm, rustic
+  ambiance with thoughtful design elements, making it an inviting choice for
+  those seeking fresh sushi options in the heart of the city. With a menu
+  highlighting innovative rolls and small plates, along with a selection of
+  cocktails and late-night bites, it's perfect for casual evenings or intimate
+  gatherings. The restaurant also prioritizes accessibility, ensuring a
+  welcoming experience for all guests, while offering a blend of Japanese
+  specialties that cater to sushi enthusiasts exploring nearby dining spots.
+generative_summary: >-
+  Explore Crudo in Boston, MA$$$Crudo in Boston, MA, stands out as a stylish
+  Japanese restaurant specializing in creative sushi and Pan-Asian flavors that
+  draw in locals and visitors alike. This bi-level spot features a warm, rustic
+  ambiance with thoughtful design elements, making it an inviting choice for
+  those seeking fresh sushi options in the heart of the city. With a menu
+  highlighting innovative rolls and small plates, along with a selection of
+  cocktails and late-night bites, it's perfect for casual evenings or intimate
+  gatherings. The restaurant also prioritizes accessibility, ensuring a
+  welcoming experience for all guests, while offering a blend of Japanese
+  specialties that cater to sushi enthusiasts exploring nearby dining spots.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJXWEOK49w44kRd7d7F3skQJI/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3cG9qYzhBRRAB
@@ -383,6 +404,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURaNjVpNXV3RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURaNjVpNXV3RRAB!2m1!1s0x89e3708f2b0e615d:0x9240247b177bb777
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors often rave about the eye-catching
+  presentation and lively vibe at this sushi spot, making it a fun go-to for
+  dates or groups in Boston. While some folks mention that portions might feel a
+  bit small or prices on the higher side, many agree that the creative flavors
+  and solid happy hour deals keep things enjoyable overall. The service stands
+  out as attentive and friendly, enhancing the experience even on busy nights,
+  and the variety of rolls and appetizers appeals to a range of tastes for
+  Japanese cuisine lovers. Despite occasional waits, most people leave
+  satisfied, recommending it as a solid choice among local sushi restaurants for
+  a memorable meal.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options:
   acceptsCreditCards: true
@@ -412,8 +445,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Sleek bi-level spot swathed in reclaimed barn wood serving creative sushi &
   Pan-Asian small plates.
 

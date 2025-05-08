@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "DJ HIBACHI & SUSHI"
+title: DJ HIBACHI & SUSHI
 permalink: /ohio/aurora/dj-hibachi-sushi.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Aurora
 seo:
-  name: "DJ HIBACHI & SUSHI"
-  type: Restaurant
+  type: restaurant
   links: https://djhibachisushiaurora.com/
-description: "DJ HIBACHI & SUSHI serves delicious sushi in Aurora, Ohio. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJnR91-BkZMYgRAHczXHUdBj8
 photos:
   - name: >-
@@ -143,7 +141,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDrr_vVbw!2e10!4m2!3m1!1s0x88311919f8751f9d:0x3f061d755c337700
 address: PREMIUM FARMS, 549 S Chillicothe Rd Suite 275, Aurora, OH 44202, USA
-street: PREMIUM FARMS, 549 S Chillicothe Rd Suite 275
+street: PREMIUM FARMS,549 S Chillicothe Rd Suite 275
 city: Aurora
 state: OH
 zip: '44202'
@@ -185,6 +183,27 @@ price_range: $10 &ndash; $20
 rating: '4.3'
 rating_count: 0
 website: https://djhibachisushiaurora.com/
+description: >-
+  Explore DJ HIBACHI & SUSHI in Aurora, OH$$$DJ HIBACHI & SUSHI in Aurora, OH,
+  provides a relaxed spot for savoring fresh sushi and hibachi options, making
+  it a go-to choice for those seeking sushi restaurants nearby. The venue
+  emphasizes health-conscious choices with a variety of vegetarian dishes, set
+  conveniently within the bustling Aurora Farms Premium Outlets for easy access
+  after shopping. Patrons can enjoy ample portions at reasonable prices, along
+  with accessibility features that ensure a welcoming experience for all. This
+  spot stands out for its commitment to quality ingredients and a casual vibe,
+  ideal for anyone hunting for top-rated sushi close to home.
+generative_summary: >-
+  Explore DJ HIBACHI & SUSHI in Aurora, OH$$$DJ HIBACHI & SUSHI in Aurora, OH,
+  provides a relaxed spot for savoring fresh sushi and hibachi options, making
+  it a go-to choice for those seeking sushi restaurants nearby. The venue
+  emphasizes health-conscious choices with a variety of vegetarian dishes, set
+  conveniently within the bustling Aurora Farms Premium Outlets for easy access
+  after shopping. Patrons can enjoy ample portions at reasonable prices, along
+  with accessibility features that ensure a welcoming experience for all. This
+  spot stands out for its commitment to quality ingredients and a casual vibe,
+  ideal for anyone hunting for top-rated sushi close to home.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJnR91-BkZMYgRAHczXHUdBj8/reviews/ChdDSUhNMG9nS0VJQ0FnTUNBOFlULXp3RRAB
@@ -352,6 +371,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURncVoyNndRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURncVoyNndRRRAB!2m1!1s0x88311919f8751f9d:0x3f061d755c337700
+review_summary: >-
+  Insights from Recent Feedback$$$Folks rave about the fresh and flavorful sushi
+  rolls at this spot, often highlighting the generous portions and great value
+  that make it a solid pick for a quick meal. Many appreciate the friendly
+  service and tasty sides like miso soup, which add to the overall enjoyable
+  dining experience, especially after a day of shopping nearby. While most
+  visitors are thrilled with the variety and quality, a few mention that some
+  dishes like fried rice could use a bit more seasoning to hit the mark.
+  Overall, it's a welcoming place for sushi lovers looking for reliable options,
+  with the convenience and affordability keeping people coming back for more.
+  This summary paints a positive picture based on shared experiences, helping
+  you decide if it's the right fit for your next outing.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -384,7 +416,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

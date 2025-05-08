@@ -5,4 +5,5 @@ permalink: /illinois/springfield/
 stateAbbr: IL
 stateName: Illinois
 cityName: Springfield
+
 ---

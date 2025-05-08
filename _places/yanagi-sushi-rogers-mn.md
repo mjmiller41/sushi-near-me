@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yanagi Sushi"
+title: Yanagi Sushi
 permalink: /minnesota/rogers/yanagi-sushi.html
 stateAbbr: MN
 stateName: Minnesota
 cityName: Rogers
 seo:
-  name: "Yanagi Sushi"
-  type: Restaurant
-  links: null
-description: "Yanagi Sushi serves delicious sushi in Rogers, Minnesota. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.yanagirogers.com/
 place_id: ChIJ07odFLlDs1IRXRdzIB-r74U
 photos:
   - name: >-
@@ -170,22 +168,187 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x52b343b9141dbad3:0x85efab1f2073175d!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:30 PM'
+    - 'Tuesday: 11:00 AM – 9:30 PM'
+    - 'Wednesday: 11:00 AM – 9:30 PM'
+    - 'Thursday: 11:00 AM – 9:30 PM'
+    - 'Friday: 11:00 AM – 10:00 PM'
+    - 'Saturday: 11:00 AM – 10:00 PM'
+    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
-phone: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 0
+        close:
+          day: 0
+          hour: 21
+          minute: 0
+      - open:
+          day: 1
+          hour: 11
+          minute: 0
+        close:
+          day: 1
+          hour: 21
+          minute: 0
+      - open:
+          day: 2
+          hour: 11
+          minute: 0
+        close:
+          day: 2
+          hour: 21
+          minute: 0
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 21
+          minute: 0
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 0
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 21
+          minute: 30
+      - open:
+          day: 6
+          hour: 11
+          minute: 0
+        close:
+          day: 6
+          hour: 21
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 11:00 AM – 9:00 PM'
+      - 'Tuesday: 11:00 AM – 9:00 PM'
+      - 'Wednesday: 11:00 AM – 9:00 PM'
+      - 'Thursday: 11:00 AM – 9:00 PM'
+      - 'Friday: 11:00 AM – 9:30 PM'
+      - 'Saturday: 11:00 AM – 9:30 PM'
+      - 'Sunday: 12:00 – 9:00 PM'
+    secondaryHoursType: KITCHEN
+    nextCloseTime: '2025-05-04T02:30:00Z'
+phone: (952) 657-3188
 price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+price_range: $10 &ndash; $20
+rating: '4.8'
+rating_count: 229
+website: http://www.yanagirogers.com/
+description: >-
+  Discover Yanagi Sushi in Rogers, Minnesota$$$Yanagi Sushi in Rogers, MN,
+  offers a relaxed atmosphere perfect for enjoying fresh Japanese cuisine, with
+  an extensive selection of sushi and hibachi options that cater to a variety of
+  tastes. This spot stands out for its commitment to high-quality ingredients,
+  creating dishes that highlight authentic flavors in a welcoming setting.
+  Visitors can pair their meals with a selection of wine and beer, making it an
+  ideal choice for casual dinners or quick lunches. The restaurant's
+  accessibility features ensure a comfortable experience for all, while its
+  convenient hours accommodate busy schedules. Whether you're searching for
+  top-rated sushi near you, this location combines affordability with a modern
+  vibe that keeps locals coming back.
+generative_summary: >-
+  Discover Yanagi Sushi in Rogers, Minnesota$$$Yanagi Sushi in Rogers, MN,
+  offers a relaxed atmosphere perfect for enjoying fresh Japanese cuisine, with
+  an extensive selection of sushi and hibachi options that cater to a variety of
+  tastes. This spot stands out for its commitment to high-quality ingredients,
+  creating dishes that highlight authentic flavors in a welcoming setting.
+  Visitors can pair their meals with a selection of wine and beer, making it an
+  ideal choice for casual dinners or quick lunches. The restaurant's
+  accessibility features ensure a comfortable experience for all, while its
+  convenient hours accommodate busy schedules. Whether you're searching for
+  top-rated sushi near you, this location combines affordability with a modern
+  vibe that keeps locals coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About the Experience$$$Folks who visit this sushi
+  spot often rave about the tasty rolls and creative specials that pack a
+  flavorful punch with fresh, high-quality ingredients. Many highlight how the
+  variety of options, like crunchy and sweet-inspired rolls, make it a go-to for
+  satisfying cravings without breaking the bank. The service stands out as
+  friendly and attentive, helping to create a welcoming environment that
+  enhances the overall meal. Visitors also appreciate the clean, modern setup
+  that adds to the enjoyable dining vibe, making it great for groups or solo
+  outings. If you're on the hunt for reliable Japanese places near you, this
+  spot earns high marks for delivering a consistently positive experience that
+  leaves diners eager to return.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +374,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

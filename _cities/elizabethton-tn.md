@@ -5,4 +5,5 @@ permalink: /tennessee/elizabethton/
 stateAbbr: TN
 stateName: Tennessee
 cityName: Elizabethton
+
 ---

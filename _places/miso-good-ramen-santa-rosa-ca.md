@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Miso Good Ramen"
+title: Miso Good Ramen
 permalink: /california/santa-rosa/miso-good-ramen.html
 stateAbbr: CA
 stateName: California
 cityName: Santa Rosa
 seo:
-  name: "Miso Good Ramen"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Miso Good Ramen serves delicious sushi in Santa Rosa, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJJ6Hssv9HhIARIgSAppsEFeU
 photos:
   - name: >-
@@ -170,22 +168,129 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x808447ffb2eca127:0xe515049ba6800422!10e5
 primary_type: Ramen Restaurant
 opening_hours:
-  regular:
-    - 'Monday: 4:00 – 9:00 PM'
-    - 'Tuesday: 4:00 – 9:00 PM'
-    - 'Wednesday: 4:00 – 9:00 PM'
-    - 'Thursday: 4:00 – 9:00 PM'
-    - 'Friday: 4:00 – 9:30 PM'
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 15
+        minute: 0
+    - open:
+        day: 0
+        hour: 16
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 12
+        minute: 0
+      close:
+        day: 1
+        hour: 15
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 12
+        minute: 0
+      close:
+        day: 2
+        hour: 15
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 12
+        minute: 0
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 12
+        minute: 0
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 12
+        minute: 0
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 15
+        minute: 0
+    - open:
+        day: 6
+        hour: 16
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 12:00 – 3:00 PM, 4:00 – 9:00 PM'
+    - 'Tuesday: 12:00 – 3:00 PM, 4:00 – 9:00 PM'
+    - 'Wednesday: 12:00 – 3:00 PM, 4:00 – 9:00 PM'
+    - 'Thursday: 12:00 – 3:00 PM, 4:00 – 9:00 PM'
+    - 'Friday: 12:00 – 3:00 PM, 4:00 – 9:30 PM'
     - 'Saturday: 12:00 – 3:00 PM, 4:00 – 9:30 PM'
     - 'Sunday: 12:00 – 3:00 PM, 4:00 – 9:00 PM'
-  current:
-    - 'Monday: 4:00 – 9:00 PM'
-    - 'Tuesday: 4:00 – 9:00 PM'
-    - 'Wednesday: 4:00 – 9:00 PM'
-    - 'Thursday: 4:00 – 9:00 PM'
-    - 'Friday: 4:00 – 9:30 PM'
-    - 'Saturday: 12:00 – 3:00 PM, 4:00 – 9:30 PM'
-    - 'Sunday: 12:00 – 3:00 PM, 4:00 – 9:00 PM'
+  nextOpenTime: '2025-05-03T23:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +302,241 @@ phone: (707) 545-7545
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.5'
-rating_count: 0
+rating_count: 492
 website: null
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Miso Good Ramen in Santa Rosa, CA$$$Miso Good Ramen in Santa Rosa,
+  CA, offers a welcoming spot for enjoying authentic Japanese flavors in a cozy,
+  bi-level setting. This casual eatery specializes in hearty bowls of ramen with
+  customizable add-ins, catering to a variety of tastes including vegan and
+  vegetarian options, alongside refreshing selections like sake and beer. The
+  atmosphere is relaxed and accessible, featuring wheelchair-friendly entrances
+  and seating that make it easy for everyone to savor their meal. With moderate
+  pricing and convenient hours, it's an ideal choice for those seeking
+  comforting Japanese cuisine in a vibrant community. Whether you're looking for
+  a quick lunch or a satisfying dinner, the focus on fresh ingredients and
+  thoughtful presentation elevates the overall dining experience.
+generative_summary: >-
+  Discover Miso Good Ramen in Santa Rosa, CA$$$Miso Good Ramen in Santa Rosa,
+  CA, offers a welcoming spot for enjoying authentic Japanese flavors in a cozy,
+  bi-level setting. This casual eatery specializes in hearty bowls of ramen with
+  customizable add-ins, catering to a variety of tastes including vegan and
+  vegetarian options, alongside refreshing selections like sake and beer. The
+  atmosphere is relaxed and accessible, featuring wheelchair-friendly entrances
+  and seating that make it easy for everyone to savor their meal. With moderate
+  pricing and convenient hours, it's an ideal choice for those seeking
+  comforting Japanese cuisine in a vibrant community. Whether you're looking for
+  a quick lunch or a satisfying dinner, the focus on fresh ingredients and
+  thoughtful presentation elevates the overall dining experience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJJ6Hssv9HhIARIgSAppsEFeU/reviews/ChdDSUhNMG9nS0VJQ0FnSUN2NzVuNXJnRRAB
+    relativePublishTimeDescription: 4 months ago
+    rating: 4
+    text:
+      text: >-
+        Sushi is good! Ramen is very mediocre especially for the price. $21 for
+        tofu ramen with only two pieces of tofu, 3 pieces of carrots, and a
+        sprinkling of bean sprouts is sad. And the flavor was just alright. But
+        the service was excellent. Not sure I’d personally come back but worth
+        it to check out
+      languageCode: en
+    originalText:
+      text: >-
+        Sushi is good! Ramen is very mediocre especially for the price. $21 for
+        tofu ramen with only two pieces of tofu, 3 pieces of carrots, and a
+        sprinkling of bean sprouts is sad. And the flavor was just alright. But
+        the service was excellent. Not sure I’d personally come back but worth
+        it to check out
+      languageCode: en
+    authorAttribution:
+      displayName: The Simple Environmentalist
+      uri: https://www.google.com/maps/contrib/107751940547876062789/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUoVu4x5IVrhnnfrbvt4wnLp0abqdWhGCwh4Hs5nk0ER-kuAXJE=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-12-16T04:10:01.383144Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN2NzVuNXJnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN2NzVuNXJnRRAB!2m1!1s0x808447ffb2eca127:0xe515049ba6800422
+  - name: >-
+      places/ChIJJ6Hssv9HhIARIgSAppsEFeU/reviews/ChdDSUhNMG9nS0VJQ0FnSUNuaDY3NGlRRRAB
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        Yum!!! We love this place. We have been twice now and it is our favorite
+        ramen in Sonoma county. The kimchi ramen (with pork) and the tonkotsu
+        are amazing. The pork is so good, very thick, and fatty. We will
+        continue coming back because it is so good!!
+
+
+        Today they gave us a free pineapple panna cotta dessert which was yummy
+        too.
+      languageCode: en
+    originalText:
+      text: >-
+        Yum!!! We love this place. We have been twice now and it is our favorite
+        ramen in Sonoma county. The kimchi ramen (with pork) and the tonkotsu
+        are amazing. The pork is so good, very thick, and fatty. We will
+        continue coming back because it is so good!!
+
+
+        Today they gave us a free pineapple panna cotta dessert which was yummy
+        too.
+      languageCode: en
+    authorAttribution:
+      displayName: Keegan Smith
+      uri: https://www.google.com/maps/contrib/116870403364449340525/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXSBjikuKvA30wCHE3kWDyXqMi73rvq9OtS9y84CsR-14dVe34m=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-11-10T21:40:10.604579Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNuaDY3NGlRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNuaDY3NGlRRRAB!2m1!1s0x808447ffb2eca127:0xe515049ba6800422
+  - name: >-
+      places/ChIJJ6Hssv9HhIARIgSAppsEFeU/reviews/ChZDSUhNMG9nS0VJQ0FnTUNva2RqV0R3EAE
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        This restaurant is one of my favorites in town! The food is always
+        delicious and satisfying. The staff is amazing, and every time I've
+        visited, the customer service has been very welcoming. Miso Good Ramen
+        is a spot I will always come back to with friends and family. I wish
+        they had extended hours during the week but it’s always worth the wait.
+      languageCode: en
+    originalText:
+      text: >-
+        This restaurant is one of my favorites in town! The food is always
+        delicious and satisfying. The staff is amazing, and every time I've
+        visited, the customer service has been very welcoming. Miso Good Ramen
+        is a spot I will always come back to with friends and family. I wish
+        they had extended hours during the week but it’s always worth the wait.
+      languageCode: en
+    authorAttribution:
+      displayName: Yazmine Cervantes
+      uri: https://www.google.com/maps/contrib/102062882260615166355/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjX0dNrrDUargNAotwH0xui1t-9GoKMHERpHF5S1PbdM3WYirIsjnw=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-04-17T17:26:33.879689Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNva2RqV0R3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNva2RqV0R3EAE!2m1!1s0x808447ffb2eca127:0xe515049ba6800422
+  - name: >-
+      places/ChIJJ6Hssv9HhIARIgSAppsEFeU/reviews/ChdDSUhNMG9nS0VJQ0FnTURvc2Ytcjh3RRAB
+    relativePublishTimeDescription: a week ago
+    rating: 4
+    text:
+      text: >-
+        Got the tonkatsu chashu, it was good... I'm kinda hard pressed on the
+        prices though... We moved up here from San Francisco and I used to
+        frequent Miki ramen is San Francisco, one of the best ramen places in
+        SF.....and it's $18 bucks there..... in San Francisco....here it's $22..
+        and it's definitely not Miki ramen ...
+
+        Other than the price point this place is a place we've frequented.
+      languageCode: en
+    originalText:
+      text: >-
+        Got the tonkatsu chashu, it was good... I'm kinda hard pressed on the
+        prices though... We moved up here from San Francisco and I used to
+        frequent Miki ramen is San Francisco, one of the best ramen places in
+        SF.....and it's $18 bucks there..... in San Francisco....here it's $22..
+        and it's definitely not Miki ramen ...
+
+        Other than the price point this place is a place we've frequented.
+      languageCode: en
+    authorAttribution:
+      displayName: Nicholas Patchen
+      uri: https://www.google.com/maps/contrib/117264423758978142595/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXu8A1uI8SiRJ2mMfoeXbWiWptiYmU8IFw7MC6LJYubSp72gxUp=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-26T02:30:29.155478Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURvc2Ytcjh3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURvc2Ytcjh3RRAB!2m1!1s0x808447ffb2eca127:0xe515049ba6800422
+  - name: >-
+      places/ChIJJ6Hssv9HhIARIgSAppsEFeU/reviews/ChZDSUhNMG9nS0VJQ0FnSUREaV9yVEpnEAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        Everything we ordered was very delicious. Our waiter, Zoomie, was very
+        professional, friendly, and helpful. Good prices. Great music. Clean
+        place. Low lights. Kind staff. The list goes on. We will definitely come
+        back soon.
+      languageCode: en
+    originalText:
+      text: >-
+        Everything we ordered was very delicious. Our waiter, Zoomie, was very
+        professional, friendly, and helpful. Good prices. Great music. Clean
+        place. Low lights. Kind staff. The list goes on. We will definitely come
+        back soon.
+      languageCode: en
+    authorAttribution:
+      displayName: LOURDES HENDERSON
+      uri: https://www.google.com/maps/contrib/111656928052506043881/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVnMqx3Hi_BZXGpHZxv3JEsZlHP4tVwCWcD7r-DIJ3JYYA823Fx6w=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2024-04-14T05:51:16.162308Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUREaV9yVEpnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUREaV9yVEpnEAE!2m1!1s0x808447ffb2eca127:0xe515049ba6800422
+review_summary: >-
+  What Visitors Are Saying$$$Folks generally rave about the flavorful ramen
+  dishes and friendly service at this spot, often highlighting the rich broths
+  and generous portions that make meals feel truly satisfying. While some note
+  that the prices might be a bit higher than expected, many agree it's worth it
+  for the quality and variety of options available. Customers appreciate the
+  welcoming vibe and extras like complimentary desserts that add a nice touch to
+  the experience. Overall, it's a go-to place for casual gatherings, with
+  positive feedback on the tasty pork and vegetable add-ins that keep people
+  coming back. If you're in the mood for comforting Japanese eats, this location
+  delivers a solid experience that's earned plenty of nods for its reliability
+  and charm.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  paidParkingLot: true
+  freeStreetParking: true
+  paidStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
+curbside_pickup: true
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
 outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
 serves_brunch: null
 serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Narrow, bi-level eatery offering an array of Japanese ramen noodles with
+  custom add-ins.
 
 ---

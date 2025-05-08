@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Lu's Sushi & Chinese"
+title: Lu's Sushi & Chinese
 permalink: /illinois/wheaton/lu-s-sushi-chinese.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Wheaton
 seo:
-  name: "Lu's Sushi & Chinese"
-  type: Restaurant
+  type: restaurant
   links: http://lussushiandchinese.com/
-description: "Simple shopping plaza destination for sushi & Chinese food as well as beer, wine & sake. Lu's Sushi & Chinese serves delicious sushi in Wheaton, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJs6IHWalTDogRYLUAaYSyM40
 photos:
   - name: >-
@@ -184,6 +182,31 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 0
 website: http://lussushiandchinese.com/
+description: >-
+  Discover Lu's Sushi & Chinese in Wheaton, IL$$$Lu's Sushi & Chinese in
+  Wheaton, Illinois, stands out as a casual dining spot blending Chinese and
+  Japanese flavors in a welcoming shopping plaza setting. This restaurant offers
+  a variety of fresh fare, including vegetarian options, alongside a selection
+  of beer, wine, and cocktails, making it ideal for relaxed meals or gatherings.
+  Its accessible features, such as wheelchair-friendly entrances and seating,
+  ensure a comfortable experience for all visitors seeking sushi restaurants in
+  the area. The menu highlights creative dishes that balance traditional and
+  innovative tastes, appealing to those exploring top-rated sushi options
+  nearby. With a moderate price range, it's a go-to choice for anyone craving
+  authentic Asian cuisine without the fuss.
+generative_summary: >-
+  Discover Lu's Sushi & Chinese in Wheaton, IL$$$Lu's Sushi & Chinese in
+  Wheaton, Illinois, stands out as a casual dining spot blending Chinese and
+  Japanese flavors in a welcoming shopping plaza setting. This restaurant offers
+  a variety of fresh fare, including vegetarian options, alongside a selection
+  of beer, wine, and cocktails, making it ideal for relaxed meals or gatherings.
+  Its accessible features, such as wheelchair-friendly entrances and seating,
+  ensure a comfortable experience for all visitors seeking sushi restaurants in
+  the area. The menu highlights creative dishes that balance traditional and
+  innovative tastes, appealing to those exploring top-rated sushi options
+  nearby. With a moderate price range, it's a go-to choice for anyone craving
+  authentic Asian cuisine without the fuss.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJs6IHWalTDogRYLUAaYSyM40/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3ME5La21BRRAB
@@ -385,6 +408,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQzOXV6OGdBRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQzOXV6OGdBRRAB!2m1!1s0x880e53a95907a2b3:0x8d33b2846900b560
+review_summary: >-
+  What Customers Are Buzzing About$$$Visitors often rave about the fresh,
+  flavorful dishes at this spot, with standout mentions of sushi rolls and
+  Chinese specialties that leave everyone satisfied and coming back for more.
+  Folks appreciate the attentive service and inviting atmosphere, which makes
+  dining out feel easy and enjoyable, especially for groups or families looking
+  for a casual vibe. Many highlight the variety of options that cater to
+  different tastes, from hearty noodle soups to creative appetizers, all
+  prepared with high-quality ingredients that elevate the meal. Overall, the
+  consensus leans positive, noting it's a solid pick for anyone hunting for
+  reliable sushi places nearby, though some suggest trying it during less busy
+  times for the best experience. If you're in the mood for something delicious
+  and dependable, this restaurant delivers without overpromising the fun.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -417,8 +454,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Simple shopping plaza destination for sushi & Chinese food as well as beer,
   wine & sake.
 

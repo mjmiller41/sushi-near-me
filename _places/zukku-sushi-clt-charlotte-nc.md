@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Zukku Sushi CLT"
+title: Zukku Sushi CLT
 permalink: /north-carolina/charlotte/zukku-sushi-clt.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Charlotte
 seo:
-  name: "Zukku Sushi CLT"
-  type: Restaurant
+  type: restaurant
   links: https://www.zukkusushi.com/
-description: "Zukku Sushi CLT serves delicious sushi in Charlotte, North Carolina. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ9_88FzihVogR3HsqRuKeBjY
 photos:
   - name: >-
@@ -184,6 +182,33 @@ price_range: $10 &ndash; $20
 rating: '4.2'
 rating_count: 0
 website: https://www.zukkusushi.com/
+description: >-
+  Discover Zukku Sushi in Charlotte, NC$$$Zukku Sushi CLT in Charlotte, North
+  Carolina, stands out as a vibrant spot for fresh, customizable
+  Japanese-inspired dishes that appeal to sushi enthusiasts. This trendy venue
+  offers build-your-own sushi burritos and poke bowls, along with crispy
+  tempura, all prepared with high-quality ingredients that highlight its
+  commitment to flavor and variety. The location boasts accessible features like
+  wheelchair-friendly entrances and seating, making it welcoming for all
+  visitors, while outdoor dining options add to the relaxed atmosphere in the
+  bustling Optimist Park area. Whether you're seeking a quick meal or a casual
+  outing, this sushi destination provides an inviting setting with efficient
+  services that cater to on-the-go lifestyles. Its focus on fresh preparations
+  ensures a satisfying experience for anyone exploring top sushi options nearby.
+generative_summary: >-
+  Discover Zukku Sushi in Charlotte, NC$$$Zukku Sushi CLT in Charlotte, North
+  Carolina, stands out as a vibrant spot for fresh, customizable
+  Japanese-inspired dishes that appeal to sushi enthusiasts. This trendy venue
+  offers build-your-own sushi burritos and poke bowls, along with crispy
+  tempura, all prepared with high-quality ingredients that highlight its
+  commitment to flavor and variety. The location boasts accessible features like
+  wheelchair-friendly entrances and seating, making it welcoming for all
+  visitors, while outdoor dining options add to the relaxed atmosphere in the
+  bustling Optimist Park area. Whether you're seeking a quick meal or a casual
+  outing, this sushi destination provides an inviting setting with efficient
+  services that cater to on-the-go lifestyles. Its focus on fresh preparations
+  ensures a satisfying experience for anyone exploring top sushi options nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ9_88FzihVogR3HsqRuKeBjY/reviews/ChdDSUhNMG9nS0VJQ0FnSUNmcm9xa3BnRRAB
@@ -391,6 +416,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNCdzlXYzZ3RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNCdzlXYzZ3RRAB!2m1!1s0x8856a138173cfff7:0x36069ee2462a7bdc
+review_summary: >-
+  Insights from Recent Reviews$$$Visitors often praise the fresh ingredients and
+  standout flavors at this Charlotte sushi spot, particularly the zesty sauces
+  that elevate poke bowls and burritos. Many appreciate the reasonable prices
+  and seamless online ordering for takeout, making it a convenient choice for
+  busy days. While the overall vibe and quick service receive high marks, a few
+  notes suggest room for improvement in certain interactions to enhance the full
+  experience. Folks generally find it a solid pick for casual meals, with
+  generous portions that leave you feeling satisfied and eager to return. All in
+  all, it's a reliable go-to for those hunting for tasty Japanese eats in the
+  area, blending affordability with enjoyable dining moments.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   paidParkingLot: true
@@ -423,7 +460,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

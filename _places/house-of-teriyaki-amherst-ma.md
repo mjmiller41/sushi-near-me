@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "House of Teriyaki"
+title: House of Teriyaki
 permalink: /massachusetts/amherst/house-of-teriyaki.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Amherst
 seo:
-  name: "House of Teriyaki"
-  type: Restaurant
+  type: restaurant
   links: http://www.houseofteriyakiorder.com/
-description: "Traditional Japanese dishes & sushi rolls served in easygoing, wood-paneled surrounds. House of Teriyaki serves delicious sushi in Amherst, Massachusetts. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJVQjRvIXS5okRTYqfalbuwsA
 photos:
   - name: >-
@@ -182,6 +180,29 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 0
 website: http://www.houseofteriyakiorder.com/
+description: >-
+  Discover House of Teriyaki in Amherst, MA$$$House of Teriyaki in Amherst, MA,
+  offers a welcoming atmosphere for enjoying authentic Japanese and Korean
+  flavors, making it a go-to spot for sushi enthusiasts and those seeking
+  diverse dining options. This casual restaurant features a variety of
+  traditional dishes, including fresh sushi rolls and hearty entrees, all served
+  in a cozy, wood-paneled setting that encourages relaxed meals. With thoughtful
+  options for vegan and vegetarian diners, it's easy to find satisfying choices
+  that cater to different tastes and preferences. The moderate pricing and
+  convenient location near the UMass Amherst campus add to its appeal for locals
+  and visitors looking for reliable Japanese places nearby.
+generative_summary: >-
+  Discover House of Teriyaki in Amherst, MA$$$House of Teriyaki in Amherst, MA,
+  offers a welcoming atmosphere for enjoying authentic Japanese and Korean
+  flavors, making it a go-to spot for sushi enthusiasts and those seeking
+  diverse dining options. This casual restaurant features a variety of
+  traditional dishes, including fresh sushi rolls and hearty entrees, all served
+  in a cozy, wood-paneled setting that encourages relaxed meals. With thoughtful
+  options for vegan and vegetarian diners, it's easy to find satisfying choices
+  that cater to different tastes and preferences. The moderate pricing and
+  convenient location near the UMass Amherst campus add to its appeal for locals
+  and visitors looking for reliable Japanese places nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJVQjRvIXS5okRTYqfalbuwsA/reviews/ChZDSUhNMG9nS0VJQ0FnSUNmcXFHZ0xnEAE
@@ -347,6 +368,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUR3d19XYnRBRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUR3d19XYnRBRRAB!2m1!1s0x89e6d285bcd10855:0xc0c2ee566a9f8a4d
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this spot often rave about the
+  flavorful dishes and speedy service, with many highlighting the generous
+  portions and tasty options like fried rice and ginger pork that keep them
+  coming back. While some folks note that certain meals can lean a bit spicy or
+  might not hit the mark on flavor for everyone, the overall experience is
+  frequently described as enjoyable and worth the visit, especially for students
+  in the area. You'll find plenty of positive buzz around the quick delivery of
+  hot, satisfying food that pairs well with a refreshing tea, making it a solid
+  choice for casual dinners. Overall, it's a welcoming place that delivers good
+  value and a pleasant vibe, encouraging repeat trips for anyone exploring
+  top-rated sushi restaurants nearby.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -379,8 +413,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Traditional Japanese dishes & sushi rolls served in easygoing, wood-paneled
   surrounds.
 

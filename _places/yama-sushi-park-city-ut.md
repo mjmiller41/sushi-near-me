@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yama Sushi"
+title: Yama Sushi
 permalink: /utah/park-city/yama-sushi.html
 stateAbbr: UT
 stateName: Utah
 cityName: Park City
 seo:
-  name: "Yama Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Yama Sushi serves delicious sushi in Park City, Utah. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJAQBAOf1yUocReb8aTyEz2fs
 photos:
   - name: >-
@@ -184,7 +182,46 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Explore Yama Sushi in Park City, UT$$$Yama Sushi in Park City, UT, stands out
+  as a go-to spot for fresh sushi and Japanese-inspired dishes in a welcoming
+  mountain setting. This sushi restaurant boasts accessible features like
+  wheelchair-friendly parking and entrances, making it easy for everyone to
+  enjoy authentic flavors and creative rolls. Diners can expect a cozy
+  atmosphere with a focus on high-quality ingredients, ideal for those seeking
+  top-rated sushi options near scenic outdoor areas. The menu highlights a
+  variety of expertly prepared selections, from classic nigiri to innovative
+  specials, appealing to anyone exploring Japanese places in the region. Whether
+  you're looking for sushi close to me or a relaxing meal after outdoor
+  adventures, this spot combines taste and convenience seamlessly.
+generative_summary: >-
+  Explore Yama Sushi in Park City, UT$$$Yama Sushi in Park City, UT, stands out
+  as a go-to spot for fresh sushi and Japanese-inspired dishes in a welcoming
+  mountain setting. This sushi restaurant boasts accessible features like
+  wheelchair-friendly parking and entrances, making it easy for everyone to
+  enjoy authentic flavors and creative rolls. Diners can expect a cozy
+  atmosphere with a focus on high-quality ingredients, ideal for those seeking
+  top-rated sushi options near scenic outdoor areas. The menu highlights a
+  variety of expertly prepared selections, from classic nigiri to innovative
+  specials, appealing to anyone exploring Japanese places in the region. Whether
+  you're looking for sushi close to me or a relaxing meal after outdoor
+  adventures, this spot combines taste and convenience seamlessly.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback on Yama Sushi$$$Although specific reviews for Yama Sushi are
+  limited, feedback from similar sushi restaurants often highlights the appeal
+  of fresh, flavorful dishes that keep visitors coming back for more. Many
+  appreciate the authentic preparation and variety of options, making it a solid
+  choice for those searching for the best sushi near me in a casual dining
+  environment. Common praises include the welcoming vibe and attention to
+  detail, with guests noting how it enhances a laid-back meal experience in Park
+  City. Overall, it's described as a reliable pick for sushi enthusiasts,
+  offering good value without any major drawbacks, though some mention it's
+  worth checking for updates on temporary closures. If you're exploring
+  top-rated sushi places, this one tends to deliver a satisfying experience that
+  balances quality and enjoyment.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +247,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

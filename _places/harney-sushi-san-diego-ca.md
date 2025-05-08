@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Harney Sushi"
+title: Harney Sushi
 permalink: /california/san-diego/harney-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: San Diego
 seo:
-  name: "Harney Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.harneysushi.com/
-description: "Modern outfit with a buzzy vibe offering creative sushi rolls & other Japanese fare. Harney Sushi serves delicious sushi in San Diego, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJtzf1QN6q3oARuVMH-L_HHTs
 photos:
   - name: >-
@@ -185,6 +183,35 @@ price_range: null
 rating: '4.4'
 rating_count: 0
 website: http://www.harneysushi.com/
+description: >-
+  Experience Harney Sushi$$$Harney Sushi in San Diego, CA, stands out as a
+  modern Japanese restaurant offering creative sushi rolls and fresh seafood in
+  a cozy, romantic setting. This spot is ideal for those searching for top-rated
+  sushi near me, with its innovative twists on traditional fare that blend
+  flavors seamlessly for a memorable dining experience. The restaurant boasts
+  accessible features like wheelchair-friendly entrances and seating, making it
+  welcoming for all visitors, while its lively atmosphere enhances the enjoyment
+  of dishes like artfully prepared rolls. Located in the vibrant Old Town
+  neighborhood, it's a go-to for sushi restaurants near me that prioritize
+  quality ingredients and a buzzy vibe, perfect for casual outings or special
+  occasions. Whether you're craving the best sushi near me or exploring Japanese
+  places in the area, Harney Sushi delivers an authentic yet contemporary taste
+  of Japan.
+generative_summary: >-
+  Experience Harney Sushi$$$Harney Sushi in San Diego, CA, stands out as a
+  modern Japanese restaurant offering creative sushi rolls and fresh seafood in
+  a cozy, romantic setting. This spot is ideal for those searching for top-rated
+  sushi near me, with its innovative twists on traditional fare that blend
+  flavors seamlessly for a memorable dining experience. The restaurant boasts
+  accessible features like wheelchair-friendly entrances and seating, making it
+  welcoming for all visitors, while its lively atmosphere enhances the enjoyment
+  of dishes like artfully prepared rolls. Located in the vibrant Old Town
+  neighborhood, it's a go-to for sushi restaurants near me that prioritize
+  quality ingredients and a buzzy vibe, perfect for casual outings or special
+  occasions. Whether you're craving the best sushi near me or exploring Japanese
+  places in the area, Harney Sushi delivers an authentic yet contemporary taste
+  of Japan.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJtzf1QN6q3oARuVMH-L_HHTs/reviews/ChZDSUhNMG9nS0VJQ0FnTURnNzRlNVhBEAE
@@ -394,6 +421,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNJaW9yeTh3RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNJaW9yeTh3RRAB!2m1!1s0x80deaade40f537b7:0x3b1dc7bff80753b9
+review_summary: >-
+  Buzz Around the Reviews$$$Folks generally rave about Harney Sushi,
+  highlighting the fresh and creative rolls that make meals feel like a
+  delightful adventure. Many appreciate the relaxed atmosphere and quick,
+  friendly service that keeps things enjoyable and efficient, especially during
+  busy times. While most experiences are positive, with praises for the overall
+  vibe and value, a few mentions point to occasional hiccups like wait times for
+  pickups, though these don't overshadow the fun. Overall, it's a solid pick for
+  anyone looking for great sushi close to me, with the consensus leaning towards
+  it being a reliable spot for tasty bites and good times. If you're in the mood
+  for I love sushi vibes, this place often hits the mark with its welcoming
+  energy and flavorful options.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidParkingLot: true
   freeStreetParking: true
@@ -426,8 +466,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Modern outfit with a buzzy vibe offering creative sushi rolls & other Japanese
   fare.
 

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Blossom"
+title: Sushi Blossom
 permalink: /washington/seattle/sushi-blossom.html
 stateAbbr: WA
 stateName: Washington
 cityName: Seattle
 seo:
-  name: "Sushi Blossom"
-  type: Restaurant
-  links: null
-description: "Sushi Blossom serves delicious sushi in Seattle, Washington. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.sushi-blossom.com/
 place_id: ChIJt7OYoFBrkFQRNnREW4oMMs4
 photos:
   - name: >-
@@ -151,14 +149,83 @@ country: USA
 neighborhood: Downtown Seattle
 latitude: '47.617613'
 longitude: '-122.349048'
-accessibility_options: null
-business_status: null
+accessibility_options:
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: false
+  wheelchairAccessibleSeating: false
+business_status: OPERATIONAL
 name: Sushi Blossom
-google_maps_links: null
-primary_type: null
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x54906b50a098b3b7:0xce320c8a5b447436!3e0
+  placeUri: https://maps.google.com/?cid=14857951909024920630
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x54906b50a098b3b7:0xce320c8a5b447436!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x54906b50a098b3b7:0xce320c8a5b447436!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x54906b50a098b3b7:0xce320c8a5b447436!10e5
+primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: false
+  periods:
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 20
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 20
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 20
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 20
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 20
+        minute: 30
+    - open:
+        day: 6
+        hour: 16
+        minute: 30
+      close:
+        day: 6
+        hour: 20
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 4:30 – 8:30 PM'
+    - 'Tuesday: 4:30 – 8:30 PM'
+    - 'Wednesday: 4:30 – 8:30 PM'
+    - 'Thursday: 4:30 – 8:30 PM'
+    - 'Friday: 4:30 – 8:30 PM'
+    - 'Saturday: 4:30 – 8:30 PM'
+    - 'Sunday: Closed'
+  nextOpenTime: '2025-05-03T23:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -166,39 +233,227 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
-reviews: null
-parking_options: null
-payment_options: null
+phone: (425) 900-2835
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.5'
+rating_count: 130
+website: https://www.sushi-blossom.com/
+description: >-
+  Experience Sushi Blossom in Seattle, WA$$$Sushi Blossom in Seattle, WA, stands
+  out as a cozy spot for enjoying fresh Japanese cuisine, particularly for those
+  seeking top-rated sushi options in the bustling downtown area. The restaurant
+  features a vast menu of meticulously prepared rolls, sashimi, and traditional
+  dishes, all set against charming fish-themed decor and a vibrant octopus mural
+  that adds a playful touch to the storefront. With convenient takeout and
+  delivery services, it's an ideal choice for anyone looking for quality sushi
+  near me, especially in a moderate price range that makes it accessible without
+  sacrificing flavor. The welcoming atmosphere and attention to fresh
+  ingredients ensure a satisfying meal, whether you're grabbing something quick
+  or exploring the best sushi restaurants in the region.
+generative_summary: >-
+  Experience Sushi Blossom in Seattle, WA$$$Sushi Blossom in Seattle, WA, stands
+  out as a cozy spot for enjoying fresh Japanese cuisine, particularly for those
+  seeking top-rated sushi options in the bustling downtown area. The restaurant
+  features a vast menu of meticulously prepared rolls, sashimi, and traditional
+  dishes, all set against charming fish-themed decor and a vibrant octopus mural
+  that adds a playful touch to the storefront. With convenient takeout and
+  delivery services, it's an ideal choice for anyone looking for quality sushi
+  near me, especially in a moderate price range that makes it accessible without
+  sacrificing flavor. The welcoming atmosphere and attention to fresh
+  ingredients ensure a satisfying meal, whether you're grabbing something quick
+  or exploring the best sushi restaurants in the region.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJt7OYoFBrkFQRNnREW4oMMs4/reviews/ChZDSUhNMG9nS0VJQ0FnTURJMnNHc1N3EAE
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 5
+    text:
+      text: >-
+        Just had the delivery from doordash and I’m genuinely impressed. Every
+        piece was fresh, beautifully prepared, and absolutely delicious. The
+        balance of flavors and textures was perfect—clearly crafted with care
+        and skill. Compliments to the chef for such an outstanding meal. I’ll
+        definitely be ordering again!
+      languageCode: en
+    originalText:
+      text: >-
+        Just had the delivery from doordash and I’m genuinely impressed. Every
+        piece was fresh, beautifully prepared, and absolutely delicious. The
+        balance of flavors and textures was perfect—clearly crafted with care
+        and skill. Compliments to the chef for such an outstanding meal. I’ll
+        definitely be ordering again!
+      languageCode: en
+    authorAttribution:
+      displayName: Jacqueline Kim
+      uri: https://www.google.com/maps/contrib/109952914376829578942/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIUnd5j8hFkanhbK07Wl9t5omiZSZ6CfTIdlrDVjtk7EH-Eww=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-09T02:21:37.117280Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURJMnNHc1N3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJMnNHc1N3EAE!2m1!1s0x54906b50a098b3b7:0xce320c8a5b447436
+  - name: >-
+      places/ChIJt7OYoFBrkFQRNnREW4oMMs4/reviews/ChdDSUhNMG9nS0VJQ0FnTURJdnZUMTJnRRAB
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 5
+    text:
+      text: >-
+        Great spot for takeout sushi! The prices are super reasonable, but the
+        quality is surprisingly fresh. Everything tastes clean and
+        well-prepared, perfect for a quick and satisfying meal.
+      languageCode: en
+    originalText:
+      text: >-
+        Great spot for takeout sushi! The prices are super reasonable, but the
+        quality is surprisingly fresh. Everything tastes clean and
+        well-prepared, perfect for a quick and satisfying meal.
+      languageCode: en
+    authorAttribution:
+      displayName: Mia-w L
+      uri: https://www.google.com/maps/contrib/114500515414265071684/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXQGNSysFoEixXFhxqYQmWejSHoqfiOoVoIcIWrFHMPyJLBEfXH=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-10T06:40:05.888755Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJdnZUMTJnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJdnZUMTJnRRAB!2m1!1s0x54906b50a098b3b7:0xce320c8a5b447436
+  - name: >-
+      places/ChIJt7OYoFBrkFQRNnREW4oMMs4/reviews/ChdDSUhNMG9nS0VJQ0FnTURBNEtxTjZnRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        Ate a piece before I took a picture (couldn't help myself). Tastes
+        mesmerizing, its a take out and delivery place only which I like a lot.
+        The place itself is modern, cute, and petite. Recommend 100%.
+      languageCode: en
+    originalText:
+      text: >-
+        Ate a piece before I took a picture (couldn't help myself). Tastes
+        mesmerizing, its a take out and delivery place only which I like a lot.
+        The place itself is modern, cute, and petite. Recommend 100%.
+      languageCode: en
+    authorAttribution:
+      displayName: Enerel_ B
+      uri: https://www.google.com/maps/contrib/113616461899701333968/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjV-x7TDnjaUk70J3oS3Z3lYYcfW-aoq75WQcWqDWU9fhUjJf-218A=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-02-11T00:49:41.331212Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURBNEtxTjZnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURBNEtxTjZnRRAB!2m1!1s0x54906b50a098b3b7:0xce320c8a5b447436
+  - name: >-
+      places/ChIJt7OYoFBrkFQRNnREW4oMMs4/reviews/ChdDSUhNMG9nS0VJQ0FnSUN2Mm9lU3pRRRAB
+    relativePublishTimeDescription: 4 months ago
+    rating: 4
+    text:
+      text: >-
+        The place is a convenient location, a bit away from Seattle center and
+        Olympic sculpture park. The presentation and packaging are nice. Most of
+        the fish is good but the tuna sashimi was really fishy and disturbingly
+        pink, the salmon and albacore was good. There is a notable lack of
+        seating so the place is better for take out.
+      languageCode: en
+    originalText:
+      text: >-
+        The place is a convenient location, a bit away from Seattle center and
+        Olympic sculpture park. The presentation and packaging are nice. Most of
+        the fish is good but the tuna sashimi was really fishy and disturbingly
+        pink, the salmon and albacore was good. There is a notable lack of
+        seating so the place is better for take out.
+      languageCode: en
+    authorAttribution:
+      displayName: Margaret Lu
+      uri: https://www.google.com/maps/contrib/116018224808869537458/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIqUuNbIZaYbNiE7iwyNQ-f-Bbu1pGFtkBpSdvk2cZCwYufsg=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-12-10T07:43:58.544913Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN2Mm9lU3pRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN2Mm9lU3pRRRAB!2m1!1s0x54906b50a098b3b7:0xce320c8a5b447436
+  - name: >-
+      places/ChIJt7OYoFBrkFQRNnREW4oMMs4/reviews/ChZDSUhNMG9nS0VJQ0FnSUR6cGR5VUhnEAE
+    relativePublishTimeDescription: 10 months ago
+    rating: 5
+    text:
+      text: >-
+        I was a little surprised to see it was takeout or delivery only, but the
+        shop is less than a five minute walk from a nice park and the space
+        needle, and if you catch it on a nice day, eating outside is so worth
+        it. Also, the sushi here is some of the best i’ve ever had. The miso
+        soup was delicious and the rainbow roll was so good that it even made me
+        like shrimp, despite me having never enjoyed it before.
+      languageCode: en
+    originalText:
+      text: >-
+        I was a little surprised to see it was takeout or delivery only, but the
+        shop is less than a five minute walk from a nice park and the space
+        needle, and if you catch it on a nice day, eating outside is so worth
+        it. Also, the sushi here is some of the best i’ve ever had. The miso
+        soup was delicious and the rainbow roll was so good that it even made me
+        like shrimp, despite me having never enjoyed it before.
+      languageCode: en
+    authorAttribution:
+      displayName: Kelsey Wood
+      uri: https://www.google.com/maps/contrib/105941630002001826062/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVP8DvfMIhZZprU1u-tIYUbU6yAHKt9Rne9x8x65YYIVgCRfZY3=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-06-11T02:55:32.074693Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR6cGR5VUhnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR6cGR5VUhnEAE!2m1!1s0x54906b50a098b3b7:0xce320c8a5b447436
+review_summary: >-
+  Insights from Customer Feedback$$$Folks generally rave about the fresh and
+  flavorful sushi at this spot, highlighting how the well-prepared rolls and
+  dishes make for a quick and enjoyable takeout experience that's perfect for
+  busy days. Many appreciate the reasonable prices and clean taste, noting it as
+  a solid go-to for anyone hunting for sushi close to me without overspending.
+  While most feedback praises the modern, cute vibe and overall convenience near
+  Seattle attractions, a few mentions point out occasional inconsistencies with
+  certain fish, though this doesn't overshadow the positives. Overall, it's
+  clear that the balance of quality and ease keeps people coming back, making it
+  a reliable pick for Japanese places near me that deliver on taste and value.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
+delivery: true
+dine_in: true
+good_for_children: true
 good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
 reservable: null
 restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
+serves_beer: false
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: false
+serves_coffee: false
+serves_dinner: true
+serves_dessert: false
 serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_vegetarian_food: true
+serves_wine: false
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Vast menu of Japanese dishes plus fish-themed decor & an octopus mural in a
+  cozy storefront.
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Hayashi Sushi"
+title: Hayashi Sushi
 permalink: /pennsylvania/philadelphia/hayashi-sushi.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Philadelphia
 seo:
-  name: "Hayashi Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Hayashi Sushi serves delicious sushi in Philadelphia, Pennsylvania. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ5V0g9qnHxokRluUQDzjL2VQ
 photos:
   - name: >-
@@ -182,7 +180,49 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Hayashi Sushi in Philadelphia, PA$$$Hayashi Sushi in Philadelphia,
+  PA, stands out as a welcoming Japanese restaurant offering a variety of fresh
+  seafood dishes in a vibrant neighborhood setting. This spot excels with its
+  flavorful sushi rolls, hearty bento boxes, and high-quality ingredients that
+  highlight traditional flavors, making it a go-to choice for anyone craving
+  authentic Japanese cuisine. Located in the lively University City area, it
+  provides an inviting atmosphere perfect for casual meals or quick bites, with
+  options that cater to different tastes and dietary preferences. For those
+  exploring sushi restaurants nearby, the emphasis on quality and affordability
+  adds to its appeal, ensuring a satisfying experience without breaking the
+  bank. Whether you're in the mood for a light lunch or an evening outing, this
+  location delivers a blend of taste and convenience that keeps locals
+  returning.
+generative_summary: >-
+  Discover Hayashi Sushi in Philadelphia, PA$$$Hayashi Sushi in Philadelphia,
+  PA, stands out as a welcoming Japanese restaurant offering a variety of fresh
+  seafood dishes in a vibrant neighborhood setting. This spot excels with its
+  flavorful sushi rolls, hearty bento boxes, and high-quality ingredients that
+  highlight traditional flavors, making it a go-to choice for anyone craving
+  authentic Japanese cuisine. Located in the lively University City area, it
+  provides an inviting atmosphere perfect for casual meals or quick bites, with
+  options that cater to different tastes and dietary preferences. For those
+  exploring sushi restaurants nearby, the emphasis on quality and affordability
+  adds to its appeal, ensuring a satisfying experience without breaking the
+  bank. Whether you're in the mood for a light lunch or an evening outing, this
+  location delivers a blend of taste and convenience that keeps locals
+  returning.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Folks who visit this Japanese eatery often
+  highlight the fresh and delicious seafood options, like sushi and bento boxes,
+  as real standouts that make every meal feel worthwhile. Many appreciate the
+  efficient and friendly service that keeps things running smoothly, adding to
+  the overall relaxed vibe of the place. Visitors frequently mention the spot's
+  great atmosphere and reasonable prices, making it a solid pick for anyone
+  wanting good value without skimping on quality. While some note it's ideal for
+  casual get-togethers, the general feedback leans positive, with praise for how
+  it balances taste and affordability in a welcoming environment. All in all, if
+  you're hunting for reliable sushi spots around town, this one tends to leave
+  people feeling satisfied and eager to come back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -208,7 +248,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

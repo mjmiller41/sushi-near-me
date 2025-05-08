@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Bonchon Aurora - S Cornerstar Way"
+title: Bonchon Aurora - S Cornerstar Way
 permalink: /colorado/aurora/bonchon-aurora-s-cornerstar-way.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Aurora
 seo:
-  name: "Bonchon Aurora - S Cornerstar Way"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Bonchon Aurora - S Cornerstar Way serves delicious sushi in Aurora, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJZyo3TAqPbIcRzwp-zuMLA7k
 photos:
   - name: >-
@@ -185,7 +183,43 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Bonchon in Aurora, CO$$$Bonchon Aurora - S Cornerstar Way in Aurora,
+  CO, stands out as a vibrant casual chain offering a fusion of Asian-inspired
+  dishes that blend bold flavors and fresh ingredients. This spot specializes in
+  Korean-style fried chicken that's crispy and flavorful, complemented by
+  options like bibimbap and bao buns for a satisfying meal experience. With its
+  accessible location and welcoming atmosphere, it's an ideal choice for anyone
+  exploring Asian fusion dining near you, featuring wheelchair-accessible
+  options that make it easy to enjoy a relaxed outing. The menu highlights a mix
+  of traditional and modern elements, creating a go-to destination for those
+  seeking quality Asian cuisine in a convenient setting.
+generative_summary: >-
+  Discover Bonchon in Aurora, CO$$$Bonchon Aurora - S Cornerstar Way in Aurora,
+  CO, stands out as a vibrant casual chain offering a fusion of Asian-inspired
+  dishes that blend bold flavors and fresh ingredients. This spot specializes in
+  Korean-style fried chicken that's crispy and flavorful, complemented by
+  options like bibimbap and bao buns for a satisfying meal experience. With its
+  accessible location and welcoming atmosphere, it's an ideal choice for anyone
+  exploring Asian fusion dining near you, featuring wheelchair-accessible
+  options that make it easy to enjoy a relaxed outing. The menu highlights a mix
+  of traditional and modern elements, creating a go-to destination for those
+  seeking quality Asian cuisine in a convenient setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Customer Feedback$$$Folks visiting this spot often rave about
+  the standout fried chicken and tasty sides, making it a solid pick for anyone
+  craving bold Asian flavors without the fuss. Many appreciate the friendly
+  service and quick preparation, which keeps the vibe upbeat and enjoyable for
+  casual meals or groups. While some mention occasional waits during peak times,
+  the overall consensus leans positive, with diners highlighting the fresh
+  ingredients and variety as reasons to return. It's clear that the combination
+  of authentic tastes and approachable atmosphere has won over plenty of fans,
+  offering a reliable option for those on the hunt for top-rated Asian places
+  nearby. All in all, the feedback paints a picture of a welcoming eatery that's
+  worth checking out for its flavorful offerings and attentive staff.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +245,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

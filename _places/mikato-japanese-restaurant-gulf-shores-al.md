@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Mikato Japanese Restaurant"
+title: Mikato Japanese Restaurant
 permalink: /alabama/gulf-shores/mikato-japanese-restaurant.html
 stateAbbr: AL
 stateName: Alabama
 cityName: Gulf Shores
 seo:
-  name: "Mikato Japanese Restaurant"
-  type: Restaurant
+  type: restaurant
   links: http://mikatojapanese.com/
-description: "Spacious, contemporary Japanese choice for hibachi-cooked fare, creative sushi rolls & cocktails. Mikato Japanese Restaurant serves delicious sushi in Gulf Shores, Alabama. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJt5WsAUQFmogR-4RcQYxem7o
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $20 &ndash; $30
 rating: '4.0'
 rating_count: 0
 website: http://mikatojapanese.com/
+description: >-
+  Experience Mikato Japanese Restaurant$$$Mikato Japanese Restaurant in Gulf
+  Shores, AL, stands out as a lively destination for fresh sushi and hibachi
+  favorites, blending contemporary vibes with inventive flavors. This spot
+  offers a spacious setting where diners can enjoy creative rolls and expertly
+  prepared meals, complemented by a selection of cocktails that elevate the
+  overall experience. Accessibility features like wheelchair-friendly entrances
+  and parking make it welcoming for everyone, while the menu caters to those
+  seeking top-rated Japanese dishes in a relaxed atmosphere. Whether you're
+  looking for sushi places near me or a fun evening out, the restaurant's focus
+  on quality ingredients and generous portions ensures a memorable visit that
+  highlights coastal dining at its best.
+generative_summary: >-
+  Experience Mikato Japanese Restaurant$$$Mikato Japanese Restaurant in Gulf
+  Shores, AL, stands out as a lively destination for fresh sushi and hibachi
+  favorites, blending contemporary vibes with inventive flavors. This spot
+  offers a spacious setting where diners can enjoy creative rolls and expertly
+  prepared meals, complemented by a selection of cocktails that elevate the
+  overall experience. Accessibility features like wheelchair-friendly entrances
+  and parking make it welcoming for everyone, while the menu caters to those
+  seeking top-rated Japanese dishes in a relaxed atmosphere. Whether you're
+  looking for sushi places near me or a fun evening out, the restaurant's focus
+  on quality ingredients and generous portions ensures a memorable visit that
+  highlights coastal dining at its best.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJt5WsAUQFmogR-4RcQYxem7o/reviews/ChdDSUhNMG9nS0VJQ0FnSUNIcnNHeXNBRRAB
@@ -434,6 +457,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN4dktiQlRBEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN4dktiQlRBEAE!2m1!1s0x889a054401ac95b7:0xba9b5e8c415c84fb
+review_summary: >-
+  Visitor Feedback Highlights$$$Folks rave about the entertaining hibachi shows
+  and generous portions that leave you feeling satisfied after a meal at this
+  sushi spot, with many praising the fresh flavors and fun atmosphere for groups
+  or families. While most agree the service adds to the enjoyable vibe, a few
+  mentions of occasional inconsistencies in taste, like overly salty sides or
+  sour notes, suggest it's best to stick with popular choices for a smoother
+  experience. Overall, it's a go-to for those searching for best sushi near me,
+  offering a mix of excitement and tasty bites that keep the energy high.
+  Despite minor hiccups, the consensus leans positive, making it a solid pick
+  for anyone craving Japanese-inspired eats in a casual setting.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -466,8 +501,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Spacious, contemporary Japanese choice for hibachi-cooked fare, creative sushi
   rolls & cocktails.
 

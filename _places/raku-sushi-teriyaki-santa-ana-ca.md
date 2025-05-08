@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Raku Sushi & Teriyaki"
+title: Raku Sushi & Teriyaki
 permalink: /california/santa-ana/raku-sushi-teriyaki.html
 stateAbbr: CA
 stateName: California
 cityName: Santa Ana
 seo:
-  name: "Raku Sushi & Teriyaki"
-  type: Restaurant
+  type: restaurant
   links: https://ramenmura.us/
-description: "Raku Sushi & Teriyaki serves delicious sushi in Santa Ana, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJb6T5E6nf3IARXFMMXvtHPgA
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 0
 website: https://ramenmura.us/
+description: >-
+  About Raku Sushi & Teriyaki in Santa Ana, CA$$$In Santa Ana, CA, Raku Sushi &
+  Teriyaki delivers a laid-back vibe perfect for enjoying fresh Japanese flavors
+  in a welcoming setting. This spot specializes in comforting dishes like sushi,
+  teriyaki, and ramen, making it a go-to choice for casual meals that blend
+  simplicity with satisfying tastes. With accessible features and convenient
+  parking, it's designed to accommodate a variety of diners seeking everyday
+  Japanese favorites. The menu highlights a range of options that pair well with
+  the area's vibrant dining scene, appealing to those exploring sushi spots
+  nearby. Overall, it stands out as a reliable option for anyone craving
+  authentic yet approachable Japanese cuisine in a neighborhood-friendly
+  atmosphere.
+generative_summary: >-
+  About Raku Sushi & Teriyaki in Santa Ana, CA$$$In Santa Ana, CA, Raku Sushi &
+  Teriyaki delivers a laid-back vibe perfect for enjoying fresh Japanese flavors
+  in a welcoming setting. This spot specializes in comforting dishes like sushi,
+  teriyaki, and ramen, making it a go-to choice for casual meals that blend
+  simplicity with satisfying tastes. With accessible features and convenient
+  parking, it's designed to accommodate a variety of diners seeking everyday
+  Japanese favorites. The menu highlights a range of options that pair well with
+  the area's vibrant dining scene, appealing to those exploring sushi spots
+  nearby. Overall, it stands out as a reliable option for anyone craving
+  authentic yet approachable Japanese cuisine in a neighborhood-friendly
+  atmosphere.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJb6T5E6nf3IARXFMMXvtHPgA/reviews/ChdDSUhNMG9nS0VJQ0FnSUM3MS1tMm9BRRAB
@@ -370,6 +393,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURsbHZ6Z2RBEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURsbHZ6Z2RBEAE!2m1!1s0x80dcdfa913f9a46f:0x3e47fb5e0c535c
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors often highlight the tasty sushi and
+  ramen at this Japanese eatery, with many enjoying flavorful rolls and hearty
+  bowls that hit the spot for a casual meal. While some note occasional service
+  hiccups like order mix-ups, the overall experience leans positive thanks to
+  friendly staff and solid portions that keep things affordable and satisfying.
+  Folks appreciate the fresh ingredients and variety, making it a solid pick for
+  groups or families looking for dependable sushi options close by. Despite a
+  few mentions of minor accessibility challenges, the consensus is that the
+  food's quality shines through, encouraging repeat visits for those seeking
+  top-rated Japanese dishes. In the end, it's a welcoming place where the
+  highlights in taste and value make it worth checking out for anyone hunting
+  for great sushi near Santa Ana.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -402,7 +439,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

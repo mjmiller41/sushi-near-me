@@ -5,4 +5,5 @@ permalink: /pennsylvania/allentown/
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Allentown
+
 ---

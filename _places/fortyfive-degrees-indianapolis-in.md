@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "FortyFive Degrees"
+title: FortyFive Degrees
 permalink: /indiana/indianapolis/fortyfive-degrees.html
 stateAbbr: IN
 stateName: Indiana
 cityName: Indianapolis
 seo:
-  name: "FortyFive Degrees"
-  type: Restaurant
+  type: restaurant
   links: http://www.fortyfiveindy.com/
-description: "Sleek, funky locale for fusion-inspired Japanese plates & sushi, plus cocktails & after-dinner DJs. FortyFive Degrees serves delicious sushi in Indianapolis, Indiana. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJw8ZXk-1Qa4gRRNif3qVu8fs
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: null
 rating: '4.5'
 rating_count: 0
 website: http://www.fortyfiveindy.com/
+description: >-
+  Discover FortyFive Degrees in Indianapolis, IN$$$FortyFive Degrees in
+  Indianapolis, IN, stands out as an upscale sushi restaurant blending
+  fusion-inspired Japanese cuisine with a modern vibe. This spot offers a wide
+  array of fresh sushi and Japanese dishes, complemented by creative cocktails
+  and a lively happy hour that draws in locals and visitors alike. The sleek,
+  funky atmosphere makes it ideal for casual dinners or evening outings, with
+  thoughtful touches like outdoor seating and accessibility features enhancing
+  the overall experience. Whether you're exploring sushi options in the area or
+  seeking a taste of Japanese-inspired fare, this location delivers on quality
+  and ambiance for an enjoyable meal.
+generative_summary: >-
+  Discover FortyFive Degrees in Indianapolis, IN$$$FortyFive Degrees in
+  Indianapolis, IN, stands out as an upscale sushi restaurant blending
+  fusion-inspired Japanese cuisine with a modern vibe. This spot offers a wide
+  array of fresh sushi and Japanese dishes, complemented by creative cocktails
+  and a lively happy hour that draws in locals and visitors alike. The sleek,
+  funky atmosphere makes it ideal for casual dinners or evening outings, with
+  thoughtful touches like outdoor seating and accessibility features enhancing
+  the overall experience. Whether you're exploring sushi options in the area or
+  seeking a taste of Japanese-inspired fare, this location delivers on quality
+  and ambiance for an enjoyable meal.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJw8ZXk-1Qa4gRRNif3qVu8fs/reviews/ChZDSUhNMG9nS0VJQ0FnTUNncUplYUJREAE
@@ -384,6 +405,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURyclBxUVN3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURyclBxUVN3EAE!2m1!1s0x886b50ed9357c6c3:0xfbf16ea5de9fd844
+review_summary: >-
+  What Customers Are Saying About This Sushi Spot$$$Folks who've dined here
+  often praise the fresh and flavorful sushi rolls, highlighting how the
+  creative presentations and tender ingredients make every bite memorable. Many
+  appreciate the welcoming service and attentive staff that help guide choices,
+  turning first-time visits into go-to experiences without feeling overwhelming.
+  It's frequently noted as a great value for the portion sizes and variety, with
+  diners enjoying unique twists like flaming dishes that add fun to the meal.
+  Overall, the atmosphere comes across as comfortable and inviting, making it a
+  solid pick for groups or anyone craving reliable Japanese options nearby.
+  While there are minor preferences mentioned, like tweaks to side dishes, the
+  general buzz remains upbeat and encouraging for sushi enthusiasts in the area.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidParkingLot: true
   paidStreetParking: true
@@ -416,8 +450,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Sleek, funky locale for fusion-inspired Japanese plates & sushi, plus
   cocktails & after-dinner DJs.
 

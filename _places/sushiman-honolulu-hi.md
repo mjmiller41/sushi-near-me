@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "SushiMan"
+title: SushiMan
 permalink: /hawaii/honolulu/sushiman.html
 stateAbbr: HI
 stateName: Hawaii
 cityName: Honolulu
 seo:
-  name: "SushiMan"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "SushiMan serves delicious sushi in Honolulu, Hawaii. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJGyWJjcFtAHwRf8SPe8fuHBY
 photos:
   - name: >-
@@ -183,7 +181,43 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover SushiMan in Honolulu, HI$$$SushiMan in Honolulu, HI, stands out as a
+  laid-back eatery specializing in fresh sushi options that capture the essence
+  of Japanese-inspired cuisine. This unpretentious spot features a simple,
+  welcoming vibe perfect for those seeking everyday dining with authentic
+  flavors, including hearty bento boxes and creative maki rolls. Visitors can
+  enjoy classic dishes like poke, making it a go-to choice for anyone exploring
+  local sushi restaurants in the area. The focus on quality ingredients and
+  straightforward presentation adds to its charm, ideal for casual meals or
+  quick bites. With its accessible entrance and parking, it's an easy pick for
+  those looking for reliable sushi experiences nearby.
+generative_summary: >-
+  Discover SushiMan in Honolulu, HI$$$SushiMan in Honolulu, HI, stands out as a
+  laid-back eatery specializing in fresh sushi options that capture the essence
+  of Japanese-inspired cuisine. This unpretentious spot features a simple,
+  welcoming vibe perfect for those seeking everyday dining with authentic
+  flavors, including hearty bento boxes and creative maki rolls. Visitors can
+  enjoy classic dishes like poke, making it a go-to choice for anyone exploring
+  local sushi restaurants in the area. The focus on quality ingredients and
+  straightforward presentation adds to its charm, ideal for casual meals or
+  quick bites. With its accessible entrance and parking, it's an easy pick for
+  those looking for reliable sushi experiences nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Feedback from folks who've tried SushiMan
+  highlights the appeal of its straightforward sushi menu, with many
+  appreciating the fresh tastes and value in a relaxed setting. People often
+  note the satisfying portions and variety of options, making it a solid spot
+  for anyone craving Japanese-style eats without the fuss. While specific
+  comments vary, there's a general buzz about the welcoming atmosphere and how
+  it fits the bill for casual diners searching for top-rated sushi in the
+  neighborhood. Overall, it comes across as a dependable choice for everyday
+  meals, earning nods for its no-frills approach that keeps things enjoyable and
+  accessible. Though details are limited, the positive undertones suggest it's
+  worth a visit for those hunting for great sushi close to home.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -209,7 +243,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

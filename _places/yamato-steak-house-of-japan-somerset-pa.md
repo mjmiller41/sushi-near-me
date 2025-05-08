@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yamato Steak House of Japan"
+title: Yamato Steak House of Japan
 permalink: /pennsylvania/somerset/yamato-steak-house-of-japan.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Somerset
 seo:
-  name: "Yamato Steak House of Japan"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Yamato Steak House of Japan serves delicious sushi in Somerset, Pennsylvania. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJmem0t4LeyokRGDIr-daiT_E
 photos:
   - name: >-
@@ -170,8 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89cade82b7b4e999:0xf14fa2d6f92b3218!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:00 PM'
+    - 'Tuesday: Closed'
+    - 'Wednesday: 11:00 AM – 9:00 PM'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 9:00 PM'
+    - 'Saturday: 11:00 AM – 9:00 PM'
+    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T01:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +234,51 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
+phone: (814) 443-6888
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.5'
+rating_count: 633
 website: null
+description: >-
+  Discover Yamato Steak House in Somerset, PA$$$Yamato Steak House of Japan in
+  Somerset, PA, is a welcoming spot for enjoying authentic Japanese flavors,
+  featuring a casual vibe that makes it ideal for a relaxed meal. This
+  restaurant specializes in a variety of dishes like fresh sushi rolls, hibachi
+  favorites, and bento boxes, all prepared with attention to quality and taste.
+  Visitors can appreciate the accessible features, such as wheelchair-friendly
+  entrances and seating, ensuring everyone feels included. With convenient hours
+  that cater to lunch and dinner crowds, it's a go-to choice for those seeking
+  Japanese cuisine nearby. Whether you're in the mood for top-rated sushi or a
+  flavorful meal with friends, this spot delivers a satisfying dining
+  experience.
+generative_summary: >-
+  Discover Yamato Steak House in Somerset, PA$$$Yamato Steak House of Japan in
+  Somerset, PA, is a welcoming spot for enjoying authentic Japanese flavors,
+  featuring a casual vibe that makes it ideal for a relaxed meal. This
+  restaurant specializes in a variety of dishes like fresh sushi rolls, hibachi
+  favorites, and bento boxes, all prepared with attention to quality and taste.
+  Visitors can appreciate the accessible features, such as wheelchair-friendly
+  entrances and seating, ensuring everyone feels included. With convenient hours
+  that cater to lunch and dinner crowds, it's a go-to choice for those seeking
+  Japanese cuisine nearby. Whether you're in the mood for top-rated sushi or a
+  flavorful meal with friends, this spot delivers a satisfying dining
+  experience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Buzzing About$$$From the high ratings, it seems folks
+  really enjoy the fresh and flavorful sushi options at this Japanese eatery,
+  often highlighting how the dishes stand out for their quality and variety.
+  Many visitors appreciate the efficient service and welcoming atmosphere,
+  making it a solid pick for casual get-togethers or family outings. While some
+  note that portions are just right for the price, others praise the
+  hibachi-style cooking for adding a fun twist to the meal. Overall, it's clear
+  this place earns its reputation as a reliable choice for Japanese food lovers,
+  with positive feedback on the taste and value keeping diners coming back. If
+  you're searching for great sushi spots nearby, this one often comes up as a
+  favorite for its consistent appeal.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +304,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

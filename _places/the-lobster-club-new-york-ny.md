@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "The Lobster Club"
+title: The Lobster Club
 permalink: /new-york/new-york/the-lobster-club.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "The Lobster Club"
-  type: Restaurant
+  type: restaurant
   links: http://www.thelobsterclub.com//?utm_medium=Click&utm_source=GoogleMyBusiness
-description: "High-end Japanese locale serving sushi & teppanyaki dishes in a sophisticated, lounge-style setting. The Lobster Club serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJO3lUXPtYwokRHcU_YPcKvcY
 photos:
   - name: >-
@@ -184,6 +182,39 @@ price_range: $100 &ndash; & up
 rating: '4.4'
 rating_count: 0
 website: http://www.thelobsterclub.com//?utm_medium=Click&utm_source=GoogleMyBusiness
+description: >-
+  Discover The Lobster Club in New York, NY$$$Nestled in the heart of New York,
+  NY, The Lobster Club stands out as a premier Japanese restaurant offering an
+  elegant blend of fresh sushi and sizzling teppanyaki dishes in a refined,
+  upscale atmosphere. This spot captures the essence of high-end dining with its
+  sophisticated lounge-style setting, where patrons can savor a variety of
+  expertly prepared Japanese specialties that highlight quality ingredients and
+  creative flavors. Drawing from its reputation as a go-to destination for
+  authentic Japanese cuisine, it's ideal for those seeking top-rated sushi
+  experiences in a vibrant urban environment, making it a favorite among locals
+  exploring sushi restaurants nearby. The venue also boasts thoughtful
+  accessibility features, ensuring a welcoming experience for all, while its
+  menu extends beyond traditional offerings to include innovative twists on
+  classic dishes. With its polished ambiance and focus on culinary excellence,
+  The Lobster Club provides a memorable escape for anyone in search of premium
+  Japanese places in the city.
+generative_summary: >-
+  Discover The Lobster Club in New York, NY$$$Nestled in the heart of New York,
+  NY, The Lobster Club stands out as a premier Japanese restaurant offering an
+  elegant blend of fresh sushi and sizzling teppanyaki dishes in a refined,
+  upscale atmosphere. This spot captures the essence of high-end dining with its
+  sophisticated lounge-style setting, where patrons can savor a variety of
+  expertly prepared Japanese specialties that highlight quality ingredients and
+  creative flavors. Drawing from its reputation as a go-to destination for
+  authentic Japanese cuisine, it's ideal for those seeking top-rated sushi
+  experiences in a vibrant urban environment, making it a favorite among locals
+  exploring sushi restaurants nearby. The venue also boasts thoughtful
+  accessibility features, ensuring a welcoming experience for all, while its
+  menu extends beyond traditional offerings to include innovative twists on
+  classic dishes. With its polished ambiance and focus on culinary excellence,
+  The Lobster Club provides a memorable escape for anyone in search of premium
+  Japanese places in the city.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJO3lUXPtYwokRHcU_YPcKvcY/reviews/ChdDSUhNMG9nS0VJQ0FnTUNBdklyWTJnRRAB
@@ -403,6 +434,22 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQ3b01ESXlnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQ3b01ESXlnRRAB!2m1!1s0x89c258fb5c54793b:0xc6bd0af7603fc51d
+review_summary: >-
+  What Guests Are Saying$$$Visitors to The Lobster Club often rave about the
+  standout dishes like fresh sushi and flavorful steaks, creating a buzz around
+  its high-quality Japanese offerings that make it a solid pick for special
+  occasions. While some feedback highlights occasional inconsistencies, such as
+  overly seasoned sides or slower service during peak times, the overall vibe
+  remains upbeat with praise for the welcoming atmosphere and creative desserts
+  that leave a lasting impression. Many appreciate the attentive staff and
+  well-paired drinks, which add to the enjoyable dining experience without
+  overshadowing the main attractions. It's clear that the spot shines for those
+  looking for a memorable meal, though a few note that the prices reflect its
+  upscale nature, encouraging advance planning for the best visit. All in all,
+  the general consensus leans positive, making it a worthwhile stop for anyone
+  hunting for reliable sushi spots in the area, as long as you go in with
+  realistic expectations for a polished yet casual night out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options:
   acceptsCreditCards: true
@@ -432,8 +479,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   High-end Japanese locale serving sushi & teppanyaki dishes in a sophisticated,
   lounge-style setting.
 

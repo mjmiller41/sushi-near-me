@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Wellness Sushi"
+title: Wellness Sushi
 permalink: /colorado/denver/wellness-sushi.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Denver
 seo:
-  name: "Wellness Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.wellnesssushi.com/
-description: "Wellness Sushi serves delicious sushi in Denver, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJNRFZG3B_bIcRWkVzXgRJ2j8
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x876c7f701b591135:0x3fda49045e73455a!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:00 PM'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:00 PM'
     - 'Saturday: 11:00 AM – 9:00 PM'
     - 'Sunday: 11:00 AM – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 9:00 PM'
-    - 'Saturday: 11:00 AM – 9:00 PM'
-    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,303 @@ phone: (720) 306-4989
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.7'
-rating_count: 0
+rating_count: 713
 website: http://www.wellnesssushi.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Wellness Sushi in Denver, CO$$$Wellness Sushi in Denver, CO, is a
+  welcoming Japanese restaurant that specializes in fresh, plant-based sushi and
+  other creative dishes, making it a go-to spot for those searching for vegan
+  options in the area. With a focus on variety and quality, the menu features
+  innovative rolls and meals that highlight flavorful ingredients, appealing to
+  anyone exploring top-rated sushi nearby. The spot boasts excellent
+  accessibility features, including wheelchair-friendly entrances and parking,
+  ensuring a comfortable visit for all. Open daily from 11 AM to 9 PM, it's
+  conveniently located in the vibrant Congress Park neighborhood, perfect for
+  locals or visitors looking for sushi places near me to enjoy a satisfying
+  meal.
+generative_summary: >-
+  Discover Wellness Sushi in Denver, CO$$$Wellness Sushi in Denver, CO, is a
+  welcoming Japanese restaurant that specializes in fresh, plant-based sushi and
+  other creative dishes, making it a go-to spot for those searching for vegan
+  options in the area. With a focus on variety and quality, the menu features
+  innovative rolls and meals that highlight flavorful ingredients, appealing to
+  anyone exploring top-rated sushi nearby. The spot boasts excellent
+  accessibility features, including wheelchair-friendly entrances and parking,
+  ensuring a comfortable visit for all. Open daily from 11 AM to 9 PM, it's
+  conveniently located in the vibrant Congress Park neighborhood, perfect for
+  locals or visitors looking for sushi places near me to enjoy a satisfying
+  meal.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJNRFZG3B_bIcRWkVzXgRJ2j8/reviews/ChdDSUhNMG9nS0VJQ0FnTUNnNjRpUjVRRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        My husband and I stopped by this place since it was right near the
+        Tattered Cover bookstore, and we were getting hungry. We got our food to
+        go. The food here is AMAZING.
+
+
+        I got the spring rolls, and I am not joking when I say they were the
+        best spring rolls I've had in my entire life.. by far. I didn't even
+        know I could *love* a spring roll instead of just liking it. I have no
+        idea what made the rolls here so different - the batter, the ingedients,
+        something else - but they were absolutely delicious.
+
+
+        I really loved my Royal Potato Roll as well - so delicious, and it has
+        avocado inside and also fresh avocado slices on top. It comes with a
+        roasted beet sauce that I got on the side since I don't always like
+        sauces, but I ended up eating the entire container's-worth that they
+        gave me.
+
+
+        My husband got the Love in the Edo roll (with vegan teriyaki beef). He
+        hasn't tried it yet since he's driving, but it looks beautiful. If I'm
+        able to, I'll edit after he eats. [Edit: he did eat the sushi after it
+        sat in a warm car for 5 hours, but he still said it was "pretty darn
+        good" and that he'd get it again.]
+
+
+        It's clear the people working here put a lot of care and effort into the
+        food. It wasn't quick to get our food, but the wait was highly worth it.
+        Definitely try this place out if you want a wonderful meal.
+      languageCode: en
+    originalText:
+      text: >-
+        My husband and I stopped by this place since it was right near the
+        Tattered Cover bookstore, and we were getting hungry. We got our food to
+        go. The food here is AMAZING.
+
+
+        I got the spring rolls, and I am not joking when I say they were the
+        best spring rolls I've had in my entire life.. by far. I didn't even
+        know I could *love* a spring roll instead of just liking it. I have no
+        idea what made the rolls here so different - the batter, the ingedients,
+        something else - but they were absolutely delicious.
+
+
+        I really loved my Royal Potato Roll as well - so delicious, and it has
+        avocado inside and also fresh avocado slices on top. It comes with a
+        roasted beet sauce that I got on the side since I don't always like
+        sauces, but I ended up eating the entire container's-worth that they
+        gave me.
+
+
+        My husband got the Love in the Edo roll (with vegan teriyaki beef). He
+        hasn't tried it yet since he's driving, but it looks beautiful. If I'm
+        able to, I'll edit after he eats. [Edit: he did eat the sushi after it
+        sat in a warm car for 5 hours, but he still said it was "pretty darn
+        good" and that he'd get it again.]
+
+
+        It's clear the people working here put a lot of care and effort into the
+        food. It wasn't quick to get our food, but the wait was highly worth it.
+        Definitely try this place out if you want a wonderful meal.
+      languageCode: en
+    authorAttribution:
+      displayName: Michelle F
+      uri: https://www.google.com/maps/contrib/117720343718437233622/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjV3Yn-hj54M7ZjUopKt17840GdF06hHkXoiLdJY103lMWfCLSur=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-02-21T03:30:18.648909Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNnNjRpUjVRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNnNjRpUjVRRRAB!2m1!1s0x876c7f701b591135:0x3fda49045e73455a
+  - name: >-
+      places/ChIJNRFZG3B_bIcRWkVzXgRJ2j8/reviews/ChZDSUhNMG9nS0VJQ0FnTURBa1ptMVNnEAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Delicious sushi! So many variety rolls we had a hard time deciding. We
+        ended up ordering 4 rolls and loved all of them! The Ohnagi and Tokyo
+        drift rolls were our favorite, but the smoky sake and Ebi tempura rolls
+        were a close second. Update, we ordered a second time because it was
+        that good. This time we chose the Hot Flamingo Roll, the Smoky Sake
+        Roll, Tokyo Drift Roll and Love in the Edo. These 4 rolls are now our
+        favorites. It is great to find vegan sushi that is creative, delicious
+        with great flavors! We will be ordering again.
+      languageCode: en
+    originalText:
+      text: >-
+        Delicious sushi! So many variety rolls we had a hard time deciding. We
+        ended up ordering 4 rolls and loved all of them! The Ohnagi and Tokyo
+        drift rolls were our favorite, but the smoky sake and Ebi tempura rolls
+        were a close second. Update, we ordered a second time because it was
+        that good. This time we chose the Hot Flamingo Roll, the Smoky Sake
+        Roll, Tokyo Drift Roll and Love in the Edo. These 4 rolls are now our
+        favorites. It is great to find vegan sushi that is creative, delicious
+        with great flavors! We will be ordering again.
+      languageCode: en
+    authorAttribution:
+      displayName: Els
+      uri: https://www.google.com/maps/contrib/112791210763031528055/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocL2-lyhZwVVfVQq5bwFQaw56t2XQ5MnJc3UJ72jFIJL8Rp-Wg=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-03-22T20:08:05.328638Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURBa1ptMVNnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURBa1ptMVNnEAE!2m1!1s0x876c7f701b591135:0x3fda49045e73455a
+  - name: >-
+      places/ChIJNRFZG3B_bIcRWkVzXgRJ2j8/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJN0l2YTVBRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        The place is so underrated for its delicious vegan sushi and ramen!
+        Although all options are vegan, it tastes just like the real deal if not
+        better.
+
+        I’ve ordered the hot flamingo roll and a bowl of shoyu ramen, the fried
+        onion on top is so good, flavorful and crispy.
+
+        The staff are all friendly and attentive.
+
+        The only little detail I’ve noticed that could use some improvement on
+        is the floor is a bit greasy and slippery.
+      languageCode: en
+    originalText:
+      text: >-
+        The place is so underrated for its delicious vegan sushi and ramen!
+        Although all options are vegan, it tastes just like the real deal if not
+        better.
+
+        I’ve ordered the hot flamingo roll and a bowl of shoyu ramen, the fried
+        onion on top is so good, flavorful and crispy.
+
+        The staff are all friendly and attentive.
+
+        The only little detail I’ve noticed that could use some improvement on
+        is the floor is a bit greasy and slippery.
+      languageCode: en
+    authorAttribution:
+      displayName: Julie Xu
+      uri: https://www.google.com/maps/contrib/111473973846228159142/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjV6mngmk1qKrYPe14Hu-tjcihzgBpU3rCslSJm2IenuWkTsi4FQ=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-03-31T03:18:25.944968Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNJN0l2YTVBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNJN0l2YTVBRRAB!2m1!1s0x876c7f701b591135:0x3fda49045e73455a
+  - name: >-
+      places/ChIJNRFZG3B_bIcRWkVzXgRJ2j8/reviews/ChZDSUhNMG9nS0VJQ0FnTUNBOHJ2aEhBEAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 4
+    text:
+      text: >-
+        Potential for better, you can tell the rolls are made by professionals.
+
+        Out of 4 rolls I really liked 2, especially the smoked one.
+
+        Two of them had too much toppings of crunch and mayo, which made the
+        taste of the real roll underpowered.
+
+        Overall I recommend it and will go back.
+      languageCode: en
+    originalText:
+      text: >-
+        Potential for better, you can tell the rolls are made by professionals.
+
+        Out of 4 rolls I really liked 2, especially the smoked one.
+
+        Two of them had too much toppings of crunch and mayo, which made the
+        taste of the real roll underpowered.
+
+        Overall I recommend it and will go back.
+      languageCode: en
+    authorAttribution:
+      displayName: Magda A. Jabbar
+      uri: https://www.google.com/maps/contrib/111453841037715369267/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVlYyS5mBUXSXTDrHQXpZ60iijNXEubpXMzZF6QayPKhQUUs1UX=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-01-30T18:35:54.725318Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNBOHJ2aEhBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNBOHJ2aEhBEAE!2m1!1s0x876c7f701b591135:0x3fda49045e73455a
+  - name: >-
+      places/ChIJNRFZG3B_bIcRWkVzXgRJ2j8/reviews/ChdDSUhNMG9nS0VJQ0FnSUMzeTdYMjFnRRAB
+    relativePublishTimeDescription: 5 months ago
+    rating: 4
+    text:
+      text: >-
+        4 stars because all vegan (200% plant based) otherwise might be lower.
+        Food was mostly good some dishes better than others. The vegan ramen was
+        excellent and recommended. Hospitality and ambiance could use a little
+        bit more attention but overall food quality was good and I would return
+        to eat here. Curry rice was delicious too. And mushroom stuff fried tofu
+        was a crowd favorite.
+      languageCode: en
+    originalText:
+      text: >-
+        4 stars because all vegan (200% plant based) otherwise might be lower.
+        Food was mostly good some dishes better than others. The vegan ramen was
+        excellent and recommended. Hospitality and ambiance could use a little
+        bit more attention but overall food quality was good and I would return
+        to eat here. Curry rice was delicious too. And mushroom stuff fried tofu
+        was a crowd favorite.
+      languageCode: en
+    authorAttribution:
+      displayName: Ben Blue
+      uri: https://www.google.com/maps/contrib/103954947471376750790/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjU9G3jtAlCwlFNIsQd3XRagpcfp4h8A8VAw56aBJKHoX-1lETfS=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2024-11-09T07:15:44.860766Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMzeTdYMjFnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMzeTdYMjFnRRAB!2m1!1s0x876c7f701b591135:0x3fda49045e73455a
+review_summary: >-
+  What People Are Saying About This Sushi Spot$$$Folks rave about the creative
+  vegan rolls and tasty ramen at this spot, often highlighting the bold flavors
+  and variety that keep things exciting and delicious. Many appreciate the
+  friendly service and quick vibes that make dining in or taking out a breeze,
+  with meals holding up well even on the go. While some mention that certain
+  rolls can be a bit overloaded with toppings, the overall experience is seen as
+  worth it for the fresh taste and reasonable prices. It's generally agreed that
+  the plant-based twists feel just as satisfying as traditional options, drawing
+  in repeat visitors who love the innovative take on Japanese favorites. All in
+  all, this place earns solid praise as one of the best sushi restaurants near
+  me for anyone seeking quality, meat-free eats.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
+curbside_pickup: true
+delivery: true
+dine_in: true
 good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
 reservable: null
-restroom: null
+restroom: true
 serves_beer: null
-serves_breakfast: null
-serves_brunch: null
+serves_breakfast: false
+serves_brunch: false
 serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
 serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

@@ -5,4 +5,5 @@ permalink: /wisconsin/middleton/
 stateAbbr: WI
 stateName: Wisconsin
 cityName: Middleton
+
 ---

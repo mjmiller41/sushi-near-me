@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "SHō Sushi & Izakaya"
+title: SHō Sushi & Izakaya
 permalink: /virginia/mclean/sho-sushi-izakaya.html
 stateAbbr: VA
 stateName: Virginia
 cityName: McLean
 seo:
-  name: "SHō Sushi & Izakaya"
-  type: Restaurant
+  type: restaurant
   links: https://www.shosushimclean.com/
-description: "SHō Sushi & Izakaya serves delicious sushi in McLean, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJLyyd5p61t4kRvaq8p0kvlPI
 photos:
   - name: >-
@@ -146,6 +144,31 @@ price_range: null
 rating: '5.0'
 rating_count: 0
 website: https://www.shosushimclean.com/
+description: >-
+  Experience SHō Sushi & Izakaya in McLean, Virginia$$$SHō Sushi & Izakaya in
+  McLean, Virginia, stands out as a welcoming Japanese restaurant blending fresh
+  flavors with a modern twist on traditional dining. The spot features an open
+  sushi bar that invites guests to watch skilled preparation, enhancing the
+  appeal for those seeking authentic Japanese cuisine in a casual yet elegant
+  setting. With options for dine-in, takeout, and delivery, it's ideal for
+  anyone exploring sushi restaurants near McLean, offering accessibility
+  features like wheelchair-friendly entrances and seating for all visitors. The
+  menu highlights a variety of fresh rolls and Japanese-inspired dishes, paired
+  with beer and wine selections, making it a go-to choice for flavorful meals
+  that cater to both individuals and groups.
+generative_summary: >-
+  Experience SHō Sushi & Izakaya in McLean, Virginia$$$SHō Sushi & Izakaya in
+  McLean, Virginia, stands out as a welcoming Japanese restaurant blending fresh
+  flavors with a modern twist on traditional dining. The spot features an open
+  sushi bar that invites guests to watch skilled preparation, enhancing the
+  appeal for those seeking authentic Japanese cuisine in a casual yet elegant
+  setting. With options for dine-in, takeout, and delivery, it's ideal for
+  anyone exploring sushi restaurants near McLean, offering accessibility
+  features like wheelchair-friendly entrances and seating for all visitors. The
+  menu highlights a variety of fresh rolls and Japanese-inspired dishes, paired
+  with beer and wine selections, making it a go-to choice for flavorful meals
+  that cater to both individuals and groups.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJLyyd5p61t4kRvaq8p0kvlPI/reviews/ChdDSUhNMG9nS0VJQ0FnTURJcGNLMDZRRRAB
@@ -199,6 +222,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURJbnRiTk5BEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJbnRiTk5BEAE!2m1!1s0x89b7b59ee69d2c2f:0xf2942f49a7bcaabd
+review_summary: >-
+  Buzz Around SHō Sushi & Izakaya$$$Folks raving about this spot often highlight
+  the super fresh sushi rolls and tasty appetizers that make every visit feel
+  special, especially during its early days. Many appreciate the inviting
+  atmosphere and friendly service that add to the overall enjoyment, turning a
+  simple meal into a memorable experience. It's clear that the food stands out
+  for its quality and variety, with comments frequently noting how satisfying
+  the options are for anyone craving Japanese flavors close by. While it's still
+  new, the general feedback leans positive, suggesting it's worth checking out
+  for a relaxed vibe and solid offerings that keep diners coming back. Overall,
+  if you're on the hunt for reliable sushi places nearby, this one seems to
+  deliver on freshness and fun without any major hiccups.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -228,7 +264,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

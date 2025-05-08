@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Pita Land"
+title: Pita Land
 permalink: /new-york/airmont/pita-land.html
 stateAbbr: NY
 stateName: New York
 cityName: Airmont
 seo:
-  name: "Pita Land"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Pita Land serves delicious sushi in Airmont, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJM6mqDG7nwokRBGYQXAMjaeg
 photos:
   - name: >-
@@ -185,7 +183,42 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Pita Land in Airmont, NY$$$Pita Land in Airmont, NY, stands out as a
+  welcoming kosher eatery that combines fresh pizza and sushi options with a
+  cozy atmosphere perfect for casual dining. This spot delights visitors with
+  its diverse menu, featuring flavorful dishes and creamy soft ice cream that
+  cater to those seeking tasty Japanese-inspired meals nearby. The comfortable
+  setting makes it an ideal choice for anyone exploring sushi restaurants in the
+  area, emphasizing quality ingredients and a relaxed vibe. Accessibility
+  features like wheelchair-friendly parking and entrances add to its appeal for
+  inclusive family outings. Overall, it's a go-to destination for enjoying
+  authentic flavors in a hassle-free environment.
+generative_summary: >-
+  Discover Pita Land in Airmont, NY$$$Pita Land in Airmont, NY, stands out as a
+  welcoming kosher eatery that combines fresh pizza and sushi options with a
+  cozy atmosphere perfect for casual dining. This spot delights visitors with
+  its diverse menu, featuring flavorful dishes and creamy soft ice cream that
+  cater to those seeking tasty Japanese-inspired meals nearby. The comfortable
+  setting makes it an ideal choice for anyone exploring sushi restaurants in the
+  area, emphasizing quality ingredients and a relaxed vibe. Accessibility
+  features like wheelchair-friendly parking and entrances add to its appeal for
+  inclusive family outings. Overall, it's a go-to destination for enjoying
+  authentic flavors in a hassle-free environment.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Buzzing About$$$Folks at this spot often rave about the
+  mouthwatering pizza and sushi selections, with many highlighting how the
+  unique wild fries steal the show as a tasty side. Service tends to be speedy
+  and welcoming, making meals feel effortless and enjoyable for groups or solo
+  diners. Visitors frequently note the spot's clean and inviting ambiance, which
+  enhances the overall experience without any major complaints. While opinions
+  vary, the general consensus leans positive, suggesting it's a solid pick for
+  anyone craving reliable kosher fare. If you're on the hunt for top-rated sushi
+  places nearby, this location delivers a consistently pleasant vibe that keeps
+  people coming back.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +244,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

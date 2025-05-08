@@ -5,4 +5,5 @@ permalink: /alabama/trussville/
 stateAbbr: AL
 stateName: Alabama
 cityName: Trussville
+
 ---

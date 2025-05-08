@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Bonchon Orem - E. University Pkwy"
+title: Bonchon Orem - E. University Pkwy
 permalink: /utah/orem/bonchon-orem-e-university-pkwy.html
 stateAbbr: UT
 stateName: Utah
 cityName: Orem
 seo:
-  name: "Bonchon Orem - E. University Pkwy"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Bonchon Orem - E. University Pkwy serves delicious sushi in Orem, Utah. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJqZlpvX-bTYcRvz9Z8GVnSPU
 photos:
   - name: >-
@@ -184,7 +182,47 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Bonchon in Orem, UT$$$Nestled in Orem, UT, Bonchon Orem - E.
+  University Pkwy offers a vibrant taste of Asian cuisine with a focus on
+  flavorful Korean-style dishes that draw in locals and visitors alike. This
+  spot stands out for its crispy fried chicken options, including popular
+  flavors like soy garlic and spicy varieties, paired with a welcoming
+  atmosphere that emphasizes accessibility features such as wheelchair-friendly
+  parking and entrances. The restaurant's convenient location in the Hillcrest
+  neighborhood makes it an easy choice for anyone seeking authentic Asian
+  flavors without the hassle. With its emphasis on fresh ingredients and a
+  casual dining vibe, it's a go-to for those exploring top-rated Asian eateries
+  nearby, providing a satisfying meal that highlights the excitement of
+  Korean-inspired cooking.
+generative_summary: >-
+  Discover Bonchon in Orem, UT$$$Nestled in Orem, UT, Bonchon Orem - E.
+  University Pkwy offers a vibrant taste of Asian cuisine with a focus on
+  flavorful Korean-style dishes that draw in locals and visitors alike. This
+  spot stands out for its crispy fried chicken options, including popular
+  flavors like soy garlic and spicy varieties, paired with a welcoming
+  atmosphere that emphasizes accessibility features such as wheelchair-friendly
+  parking and entrances. The restaurant's convenient location in the Hillcrest
+  neighborhood makes it an easy choice for anyone seeking authentic Asian
+  flavors without the hassle. With its emphasis on fresh ingredients and a
+  casual dining vibe, it's a go-to for those exploring top-rated Asian eateries
+  nearby, providing a satisfying meal that highlights the excitement of
+  Korean-inspired cooking.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Sharing$$$Folks often rave about the tasty Korean fried
+  chicken at this spot, praising the bold flavors like soy garlic and spicy
+  options that make for a memorable meal, along with the consistently friendly
+  service that keeps things enjoyable. While some mention that the chicken can
+  occasionally feel a bit mild or the servings on the smaller side, many still
+  appreciate the overall value and quick turnaround. It's clear that the
+  welcoming vibe and solid food choices keep people coming back for more, making
+  it a solid pick for casual outings. All in all, diners tend to enjoy the
+  experience here, especially if you're in the mood for something different from
+  the usual, and it's worth trying out for a balanced take on Asian fusion
+  dining.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +248,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

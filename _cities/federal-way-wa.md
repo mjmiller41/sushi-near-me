@@ -5,4 +5,5 @@ permalink: /washington/federal-way/
 stateAbbr: WA
 stateName: Washington
 cityName: Federal Way
+
 ---

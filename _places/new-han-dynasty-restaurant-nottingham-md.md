@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "New Han Dynasty Restaurant"
+title: New Han Dynasty Restaurant
 permalink: /maryland/nottingham/new-han-dynasty-restaurant.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Nottingham
 seo:
-  name: "New Han Dynasty Restaurant"
-  type: Restaurant
+  type: restaurant
   links: https://m.facebook.com/NewHanDynasty/
-description: "New Han Dynasty Restaurant serves delicious sushi in Nottingham, Maryland. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJE8MNyrUJyIkRb5qU9i8VY8g
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $10 &ndash; $20
 rating: '4.3'
 rating_count: 0
 website: https://m.facebook.com/NewHanDynasty/
+description: >-
+  Discover New Han Dynasty in Nottingham, MD$$$New Han Dynasty Restaurant in
+  Nottingham, MD, stands out as a casual dining spot nestled in a bustling
+  shopping center, perfect for those seeking comforting meals with a focus on
+  flavorful options. This Chinese eatery offers a variety of dishes that
+  highlight fresh ingredients and satisfying lunch specials, making it an ideal
+  choice for everyday meals or quick visits. With its accessible features like
+  wheelchair-friendly entrances and ample parking, the restaurant ensures a
+  welcoming experience for all guests, including families and groups. The menu
+  emphasizes hearty comfort food that appeals to a range of tastes, blending
+  traditional flavors in a relaxed atmosphere that encourages repeat visits.
+  Whether you're exploring nearby sushi options or simply craving reliable Asian
+  cuisine, this spot delivers on quality and convenience.
+generative_summary: >-
+  Discover New Han Dynasty in Nottingham, MD$$$New Han Dynasty Restaurant in
+  Nottingham, MD, stands out as a casual dining spot nestled in a bustling
+  shopping center, perfect for those seeking comforting meals with a focus on
+  flavorful options. This Chinese eatery offers a variety of dishes that
+  highlight fresh ingredients and satisfying lunch specials, making it an ideal
+  choice for everyday meals or quick visits. With its accessible features like
+  wheelchair-friendly entrances and ample parking, the restaurant ensures a
+  welcoming experience for all guests, including families and groups. The menu
+  emphasizes hearty comfort food that appeals to a range of tastes, blending
+  traditional flavors in a relaxed atmosphere that encourages repeat visits.
+  Whether you're exploring nearby sushi options or simply craving reliable Asian
+  cuisine, this spot delivers on quality and convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJE8MNyrUJyIkRb5qU9i8VY8g/reviews/ChZDSUhNMG9nS0VJQ0FnSUNwczhqS0hREAE
@@ -334,6 +359,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURQbTQzMTBRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURQbTQzMTBRRRAB!2m1!1s0x89c809b5ca0dc313:0xc863152ff6949a6f
+review_summary: >-
+  Customer Favorites and Feedback$$$Visitors often rave about the delicious
+  sushi and other standout dishes at this spot, praising its fresh flavors and
+  great value that make it a go-to for casual meals. Many highlight the
+  satisfying portions and variety, like flavorful combos and appetizers that
+  keep people coming back for more satisfying experiences. The friendly service
+  and welcoming vibe add to the appeal, with folks appreciating how the staff
+  handles orders efficiently, whether dining in or grabbing takeout. Overall,
+  the consensus leans positive, noting that the food holds up well for cravings
+  and special occasions, though some mention minor tweaks could enhance certain
+  sides. If you're searching for top-rated sushi places nearby, this location
+  offers a solid option that combines tasty eats with a hassle-free visit,
+  making it worth trying for anyone in the area.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -366,7 +405,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

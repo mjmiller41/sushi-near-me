@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Koto Japanese Steakhouse"
+title: Koto Japanese Steakhouse
 permalink: /indiana/noblesville/koto-japanese-steakhouse.html
 stateAbbr: IN
 stateName: Indiana
 cityName: Noblesville
 seo:
-  name: "Koto Japanese Steakhouse"
-  type: Restaurant
+  type: restaurant
   links: https://www.kotofishers.com/
-description: "Koto Japanese Steakhouse serves delicious sushi in Noblesville, Indiana. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJT-xM6GHJFIgRSowJ0UO51e8
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 0
 website: https://www.kotofishers.com/
+description: >-
+  Discover Koto Japanese Steakhouse in Noblesville, IN$$$Koto Japanese
+  Steakhouse in Noblesville, IN, delivers a relaxed and inviting atmosphere
+  perfect for enjoying authentic Japanese flavors, including fresh hibachi
+  dishes and sushi options that appeal to a variety of tastes. The eatery
+  features a welcoming setup with elements like a striking fish tank, enhancing
+  the casual dining vibe while offering accessible seating and parking for all
+  guests. Diners can savor a range of Japanese-inspired meals, from sizzling
+  hibachi favorites to lighter sushi selections, making it a go-to spot for
+  those seeking Japanese places near me. With options for groups and families,
+  the restaurant emphasizes convenience and enjoyment, ensuring a comfortable
+  experience for everyone. Its moderate pricing and variety of choices position
+  it as a solid choice among sushi restaurants in the area.
+generative_summary: >-
+  Discover Koto Japanese Steakhouse in Noblesville, IN$$$Koto Japanese
+  Steakhouse in Noblesville, IN, delivers a relaxed and inviting atmosphere
+  perfect for enjoying authentic Japanese flavors, including fresh hibachi
+  dishes and sushi options that appeal to a variety of tastes. The eatery
+  features a welcoming setup with elements like a striking fish tank, enhancing
+  the casual dining vibe while offering accessible seating and parking for all
+  guests. Diners can savor a range of Japanese-inspired meals, from sizzling
+  hibachi favorites to lighter sushi selections, making it a go-to spot for
+  those seeking Japanese places near me. With options for groups and families,
+  the restaurant emphasizes convenience and enjoyment, ensuring a comfortable
+  experience for everyone. Its moderate pricing and variety of choices position
+  it as a solid choice among sushi restaurants in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJT-xM6GHJFIgRSowJ0UO51e8/reviews/ChZDSUhNMG9nS0VJQ0FnSURmdkxQZ1VREAE
@@ -366,6 +391,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURBaE1uOU5BEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURBaE1uOU5BEAE!2m1!1s0x8814c961e84cec4f:0xefd5b943d1098c4a
+review_summary: >-
+  What Visitors Are Sharing$$$Visitors often praise the reliable hibachi and
+  sushi offerings at this spot, highlighting the entertaining preparation that
+  adds fun to every meal and keeps the energy lively. Many appreciate the fresh
+  ingredients and generous portions that make it feel like a great value,
+  especially for families or groups looking for a casual outing. Service stands
+  out as friendly and efficient, with staff going the extra mile to ensure a
+  welcoming vibe, though some note that prices can lean toward the higher end
+  for certain items. Overall, it's a favorite for those searching for top-rated
+  sushi near me, with the atmosphere buzzing with excitement and positive
+  energy. If you're in the mood for Japanese cuisine that's both delicious and
+  engaging, this place delivers a solid experience worth trying.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -398,7 +436,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

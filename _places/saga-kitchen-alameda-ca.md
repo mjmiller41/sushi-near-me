@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "SAGA Kitchen"
+title: SAGA Kitchen
 permalink: /california/alameda/saga-kitchen.html
 stateAbbr: CA
 stateName: California
 cityName: Alameda
 seo:
-  name: "SAGA Kitchen"
-  type: Restaurant
+  type: restaurant
   links: https://sagakitchen.com/
-description: "SAGA Kitchen serves delicious sushi in Alameda, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ1Qs6-5SHj4ARQGTpIVmxgVU
 photos:
   - name: >-
@@ -170,7 +168,105 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x808f8794fb3a0bd5:0x5581b15921e96440!10e5
 primary_type: Asian Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 16
+        minute: 0
+      close:
+        day: 1
+        hour: 20
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 0
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 2:30 PM, 4:00 – 8:30 PM'
     - 'Tuesday: 11:00 AM – 2:30 PM, 4:00 – 8:30 PM'
     - 'Wednesday: 11:00 AM – 2:30 PM, 4:00 – 8:30 PM'
@@ -178,14 +274,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 2:30 PM, 4:00 – 11:00 PM'
     - 'Saturday: 11:00 AM – 11:00 PM'
     - 'Sunday: 11:00 AM – 8:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 2:30 PM, 4:00 – 8:30 PM'
-    - 'Tuesday: 11:00 AM – 2:30 PM, 4:00 – 8:30 PM'
-    - 'Wednesday: 11:00 AM – 2:30 PM, 4:00 – 8:30 PM'
-    - 'Thursday: 11:00 AM – 2:30 PM, 4:00 – 8:30 PM'
-    - 'Friday: 11:00 AM – 2:30 PM, 4:00 – 11:00 PM'
-    - 'Saturday: 11:00 AM – 11:00 PM'
-    - 'Sunday: 11:00 AM – 8:00 PM'
+  nextCloseTime: '2025-05-04T06:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +286,48 @@ phone: (510) 769-8898
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.0'
-rating_count: 0
+rating_count: 96
 website: https://sagakitchen.com/
+description: >-
+  Discover SAGA Kitchen in Alameda, CA$$$SAGA Kitchen in Alameda, California, is
+  a vibrant Asian dining destination that combines modern flair with authentic
+  flavors, making it a go-to spot for those craving fresh sushi and other
+  pan-Asian delights. This eatery features an array of inventive dishes like dim
+  sum and Japanese-inspired sandwiches, all enhanced by innovative service
+  elements that add a fun twist to your meal. With its welcoming atmosphere and
+  accessibility features, it's designed to accommodate everyone, from families
+  to groups seeking a casual outing. If you're exploring sushi restaurants near
+  you or looking for top-rated Japanese places in the area, SAGA Kitchen
+  delivers a memorable experience that blends tradition with contemporary
+  convenience.
+generative_summary: >-
+  Discover SAGA Kitchen in Alameda, CA$$$SAGA Kitchen in Alameda, California, is
+  a vibrant Asian dining destination that combines modern flair with authentic
+  flavors, making it a go-to spot for those craving fresh sushi and other
+  pan-Asian delights. This eatery features an array of inventive dishes like dim
+  sum and Japanese-inspired sandwiches, all enhanced by innovative service
+  elements that add a fun twist to your meal. With its welcoming atmosphere and
+  accessibility features, it's designed to accommodate everyone, from families
+  to groups seeking a casual outing. If you're exploring sushi restaurants near
+  you or looking for top-rated Japanese places in the area, SAGA Kitchen
+  delivers a memorable experience that blends tradition with contemporary
+  convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Visitor Feedback$$$Visitors to SAGA Kitchen often praise the
+  fresh and flavorful sushi options, along with the variety of Asian dishes that
+  keep things exciting and satisfying. Many appreciate the unique robot servers
+  that bring a playful element to the dining experience, making meals feel more
+  engaging and efficient. While the overall vibe earns positive nods for its
+  welcoming setup and solid portions, some note that it can get lively during
+  busier hours, suggesting it's best planned around. With a consistent 4.0
+  rating reflecting genuine enjoyment, it's a reliable choice for anyone hunting
+  for great sushi close to home, though it might not suit those seeking a
+  completely quiet setting. All in all, the feedback highlights it as a fun,
+  approachable spot that generally lives up to expectations for quality and
+  variety.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +353,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

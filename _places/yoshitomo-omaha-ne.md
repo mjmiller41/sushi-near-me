@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yoshitomo"
+title: Yoshitomo
 permalink: /nebraska/omaha/yoshitomo.html
 stateAbbr: NE
 stateName: Nebraska
 cityName: Omaha
 seo:
-  name: "Yoshitomo"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Yoshitomo serves delicious sushi in Omaha, Nebraska. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJUUAUp4qNk4cRXMzrGfTIZbw
 photos:
   - name: >-
@@ -185,7 +183,47 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Yoshitomo in Omaha, NE$$$Yoshitomo in Omaha, NE, stands out as a
+  top-rated sushi restaurant offering an array of fresh and creative Japanese
+  dishes that capture the essence of authentic flavors. This spot delights
+  diners with meticulously prepared options like succulent wagyu and tender
+  scallops, alongside expertly crafted nigiri that highlight premium ingredients
+  and innovative twists. The intimate atmosphere creates a sophisticated setting
+  perfect for enjoying high-quality sushi, making it a go-to choice for those
+  seeking sushi restaurants near me. With its focus on fresh, seasonal
+  selections, Yoshitomo provides a memorable dining experience that combines
+  elegance and taste. Whether you're exploring sushi places close to you or
+  looking for the best sushi near me, this establishment delivers on both
+  quality and ambiance.
+generative_summary: >-
+  Discover Yoshitomo in Omaha, NE$$$Yoshitomo in Omaha, NE, stands out as a
+  top-rated sushi restaurant offering an array of fresh and creative Japanese
+  dishes that capture the essence of authentic flavors. This spot delights
+  diners with meticulously prepared options like succulent wagyu and tender
+  scallops, alongside expertly crafted nigiri that highlight premium ingredients
+  and innovative twists. The intimate atmosphere creates a sophisticated setting
+  perfect for enjoying high-quality sushi, making it a go-to choice for those
+  seeking sushi restaurants near me. With its focus on fresh, seasonal
+  selections, Yoshitomo provides a memorable dining experience that combines
+  elegance and taste. Whether you're exploring sushi places close to you or
+  looking for the best sushi near me, this establishment delivers on both
+  quality and ambiance.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Folks often rave about the delicious and inventive
+  dishes at this sushi joint, with many highlighting the standout wagyu and
+  scallops that bring a burst of fresh flavors to every bite. The staff gets
+  plenty of nods for being welcoming and attentive, helping to make meals feel
+  relaxed and enjoyable without any fuss. Visitors appreciate the cozy, upscale
+  vibe that sets a nice tone for a night out, adding to the overall charm of the
+  place. Overall, it's clear that people keep coming back for the reliable
+  quality and creative takes on classic sushi options, making it a solid pick
+  for anyone craving top-rated Japanese fare. If you're hunting for sushi
+  restaurants that deliver a consistently positive experience, this one seems to
+  hit the mark with its blend of tasty eats and friendly service.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +249,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

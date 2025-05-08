@@ -5,4 +5,5 @@ permalink: /pennsylvania/lancaster/
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Lancaster
+
 ---

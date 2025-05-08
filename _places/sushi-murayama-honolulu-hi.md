@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Murayama"
+title: Sushi Murayama
 permalink: /hawaii/honolulu/sushi-murayama.html
 stateAbbr: HI
 stateName: Hawaii
 cityName: Honolulu
 seo:
-  name: "Sushi Murayama"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi Murayama serves delicious sushi in Honolulu, Hawaii. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJvxR84u5tAHwRktnaAYbh-i0
 photos:
   - name: >-
@@ -184,7 +182,47 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Explore Sushi Murayama in Honolulu, HI$$$Sushi Murayama in Honolulu, HI,
+  stands out as a welcoming spot for those seeking fresh Japanese cuisine,
+  blending casual vibes with inventive sushi options that cater to sushi
+  enthusiasts. This eatery delights with its creative takes on traditional
+  dishes, including omakase-style selections that highlight high-quality
+  ingredients and thoughtful presentations. Paired with a selection of beer and
+  sake, it offers a relaxed atmosphere perfect for enjoying top-rated sushi near
+  the city center. Accessibility features like wheelchair-friendly parking and
+  entrances make it convenient for all visitors, enhancing the overall
+  experience. Whether you're exploring sushi restaurants in the area or looking
+  for a memorable meal, this place combines authenticity with modern flair for
+  an enjoyable dining outing.
+generative_summary: >-
+  Explore Sushi Murayama in Honolulu, HI$$$Sushi Murayama in Honolulu, HI,
+  stands out as a welcoming spot for those seeking fresh Japanese cuisine,
+  blending casual vibes with inventive sushi options that cater to sushi
+  enthusiasts. This eatery delights with its creative takes on traditional
+  dishes, including omakase-style selections that highlight high-quality
+  ingredients and thoughtful presentations. Paired with a selection of beer and
+  sake, it offers a relaxed atmosphere perfect for enjoying top-rated sushi near
+  the city center. Accessibility features like wheelchair-friendly parking and
+  entrances make it convenient for all visitors, enhancing the overall
+  experience. Whether you're exploring sushi restaurants in the area or looking
+  for a memorable meal, this place combines authenticity with modern flair for
+  an enjoyable dining outing.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Diners at This Local Sushi Favorite$$$Folks chatting about this
+  spot often rave about the standout omakase experience, praising the
+  super-fresh fish and inventive dishes that keep things exciting and delicious.
+  Many highlight how the creative menu items, like unique fish preparations,
+  deliver great value without breaking the bank, making it a go-to for casual
+  sushi seekers. Service stands out too, with comments on the friendly and
+  attentive staff that help make every visit feel welcoming and smooth. Overall,
+  it's clear that this restaurant hits the mark for quality and affordability,
+  drawing in those hunting for reliable Japanese places nearby. If you're in the
+  mood for something tasty and approachable, it sounds like a solid choice that
+  leaves people satisfied and eager to return.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +248,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ten"
+title: Ten
 permalink: /virginia/charlottesville/ten.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Charlottesville
 seo:
-  name: "Ten"
-  type: Restaurant
+  type: restaurant
   links: http://www.ten-sushi.com/
-description: "Chill Japanese eatery dispensing sushi, sake & more in a sleek, contemporary setting. Ten serves delicious sushi in Charlottesville, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, and dinner."
 place_id: ChIJgWf6LCSGs4kRS5YQDK8okOo
 photos:
   - name: >-
@@ -153,7 +151,6 @@ latitude: '38.030457'
 longitude: '-78.481010'
 accessibility_options:
   wheelchairAccessibleEntrance: false
-  wheelchairAccessibleRestroom: true
 business_status: OPERATIONAL
 name: Ten
 google_maps_links:
@@ -183,6 +180,33 @@ price_range: $50 &ndash; $100
 rating: '4.4'
 rating_count: 0
 website: http://www.ten-sushi.com/
+description: >-
+  Discover Ten in Charlottesville, VA$$$Ten in Charlottesville, VA, stands out
+  as a sleek Japanese restaurant offering an array of fresh sushi and small
+  plates in a romantic, contemporary atmosphere. This spot excels in blending
+  traditional flavors with modern touches, featuring a selection of sake, beer,
+  and wine that pairs perfectly with its inventive dishes. Diners can enjoy
+  high-quality ingredients that highlight the essence of Japanese cuisine,
+  making it a go-to choice for those seeking an intimate dining experience. The
+  setting encourages relaxation, with thoughtful details that enhance the
+  overall appeal for anyone exploring sushi options in the area. Whether you're
+  in the mood for classic rolls or creative specials, this establishment
+  delivers a memorable taste of authentic flavors right in the heart of the
+  city.
+generative_summary: >-
+  Discover Ten in Charlottesville, VA$$$Ten in Charlottesville, VA, stands out
+  as a sleek Japanese restaurant offering an array of fresh sushi and small
+  plates in a romantic, contemporary atmosphere. This spot excels in blending
+  traditional flavors with modern touches, featuring a selection of sake, beer,
+  and wine that pairs perfectly with its inventive dishes. Diners can enjoy
+  high-quality ingredients that highlight the essence of Japanese cuisine,
+  making it a go-to choice for those seeking an intimate dining experience. The
+  setting encourages relaxation, with thoughtful details that enhance the
+  overall appeal for anyone exploring sushi options in the area. Whether you're
+  in the mood for classic rolls or creative specials, this establishment
+  delivers a memorable taste of authentic flavors right in the heart of the
+  city.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJgWf6LCSGs4kRS5YQDK8okOo/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3NU5pa0h3EAE
@@ -356,6 +380,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQ3a3VHeXBBRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQ3a3VHeXBBRRAB!2m1!1s0x89b386242cfa6781:0xea9028af0c10964b
+review_summary: >-
+  What People Are Buzzing About$$$Folks often rave about the fresh and flavorful
+  sushi at this spot, noting how it stands out with creative options like wagyu
+  beef and lobster tempura that make every bite exciting. Many appreciate the
+  helpful service, where staff go the extra mile to explain dishes and suggest
+  pairings, creating a welcoming vibe for newcomers and fans alike. The wide
+  variety of Japanese whiskey and sake adds to the fun, offering something
+  special for those looking to unwind. While some mention that prices lean
+  toward the higher side, it's generally seen as worth it for special nights
+  out, with the cozy atmosphere making it a solid pick for groups or dates.
+  Overall, visitors leave feeling satisfied, highlighting it as a reliable
+  choice among local Japanese dining spots for quality and taste.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options:
   acceptsCreditCards: true
@@ -385,8 +422,8 @@ serves_lunch: false
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Chill Japanese eatery dispensing sushi, sake & more in a sleek, contemporary
   setting.
 

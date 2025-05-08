@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Spot Waikiki"
+title: Sushi Spot Waikiki
 permalink: /hawaii/honolulu/sushi-spot-waikiki.html
 stateAbbr: HI
 stateName: Hawaii
 cityName: Honolulu
 seo:
-  name: "Sushi Spot Waikiki"
-  type: Restaurant
-  links: https://www.fooddiscoveryapp.com/honolulu/sushi-spot-waikiki
-description: "Sushi Spot Waikiki serves delicious sushi in Honolulu, Hawaii. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.sushispotwaikiki.com/
 place_id: ChIJ9-OO4n9zAHwRVaLwpgIWLBU
 photos:
   - name: >-
@@ -169,22 +167,121 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x7c00737fe28ee3f7:0x152c1602a6f0a255!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
-    - 'Monday: 12:00 – 3:00 PM, 5:00 – 10:30 PM'
-    - 'Tuesday: 12:00 – 3:00 PM, 5:00 – 10:30 PM'
-    - 'Wednesday: 12:00 – 3:00 PM, 5:00 – 10:30 PM'
-    - 'Thursday: 12:00 – 3:00 PM, 5:00 – 10:30 PM'
-    - 'Friday: 12:00 – 3:00 PM, 5:00 – 10:30 PM'
-    - 'Saturday: 12:00 – 3:00 PM, 5:00 – 10:30 PM'
-    - 'Sunday: 5:00 – 10:30 PM'
-  current:
-    - 'Monday: 12:00 – 3:00 PM, 5:00 – 10:30 PM'
-    - 'Tuesday: 12:00 – 3:00 PM, 5:00 – 10:30 PM'
-    - 'Wednesday: 12:00 – 3:00 PM, 5:00 – 10:30 PM'
-    - 'Thursday: 12:00 – 3:00 PM, 5:00 – 10:30 PM'
-    - 'Friday: 12:00 – 3:00 PM, 5:00 – 10:30 PM'
-    - 'Saturday: 12:00 – 3:00 PM, 5:00 – 10:30 PM'
-    - 'Sunday: 5:00 – 10:30 PM'
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 17
+        minute: 30
+      close:
+        day: 0
+        hour: 23
+        minute: 0
+    - open:
+        day: 1
+        hour: 12
+        minute: 0
+      close:
+        day: 1
+        hour: 15
+        minute: 0
+    - open:
+        day: 1
+        hour: 17
+        minute: 30
+      close:
+        day: 1
+        hour: 23
+        minute: 0
+    - open:
+        day: 2
+        hour: 12
+        minute: 0
+      close:
+        day: 2
+        hour: 15
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 30
+      close:
+        day: 2
+        hour: 23
+        minute: 0
+    - open:
+        day: 3
+        hour: 12
+        minute: 0
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 30
+      close:
+        day: 3
+        hour: 23
+        minute: 0
+    - open:
+        day: 4
+        hour: 12
+        minute: 0
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 30
+      close:
+        day: 4
+        hour: 23
+        minute: 0
+    - open:
+        day: 5
+        hour: 12
+        minute: 0
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 30
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 15
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 30
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 12:00 – 3:00 PM, 5:30 – 11:00 PM'
+    - 'Tuesday: 12:00 – 3:00 PM, 5:30 – 11:00 PM'
+    - 'Wednesday: 12:00 – 3:00 PM, 5:30 – 11:00 PM'
+    - 'Thursday: 12:00 – 3:00 PM, 5:30 – 11:00 PM'
+    - 'Friday: 12:00 – 3:00 PM, 5:30 – 11:00 PM'
+    - 'Saturday: 12:00 – 3:00 PM, 5:30 – 11:00 PM'
+    - 'Sunday: 5:30 – 11:00 PM'
+  nextCloseTime: '2025-05-04T01:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,35 +293,232 @@ phone: (808) 369-7242
 price_level: null
 price_range: $30 &ndash; $50
 rating: '4.8'
-rating_count: 0
-website: https://www.fooddiscoveryapp.com/honolulu/sushi-spot-waikiki
-reviews: null
+rating_count: 2289
+website: https://www.sushispotwaikiki.com/
+description: >-
+  Discover Sushi Spot Waikiki in Honolulu, HI$$$Nestled in the vibrant heart of
+  Honolulu, HI, Sushi Spot Waikiki offers an inviting spot for enjoying
+  authentic Japanese cuisine in a relaxed setting. This popular eatery
+  specializes in fresh sushi selections, hearty udon dishes, and creative twists
+  on traditional fare, all served in a casual atmosphere that captures the
+  essence of island dining. With its commitment to quality ingredients and
+  accessible features like wheelchair-friendly entrances, it stands out among
+  sushi restaurants in the area for those seeking a welcoming meal. Operating
+  with extended hours in the evenings, it's an ideal choice for locals and
+  visitors looking for top-rated sushi options near Waikiki beaches. Whether
+  you're craving a quick bite or a flavorful feast, this spot delivers a blend
+  of simplicity and taste that keeps diners coming back.
+generative_summary: >-
+  Discover Sushi Spot Waikiki in Honolulu, HI$$$Nestled in the vibrant heart of
+  Honolulu, HI, Sushi Spot Waikiki offers an inviting spot for enjoying
+  authentic Japanese cuisine in a relaxed setting. This popular eatery
+  specializes in fresh sushi selections, hearty udon dishes, and creative twists
+  on traditional fare, all served in a casual atmosphere that captures the
+  essence of island dining. With its commitment to quality ingredients and
+  accessible features like wheelchair-friendly entrances, it stands out among
+  sushi restaurants in the area for those seeking a welcoming meal. Operating
+  with extended hours in the evenings, it's an ideal choice for locals and
+  visitors looking for top-rated sushi options near Waikiki beaches. Whether
+  you're craving a quick bite or a flavorful feast, this spot delivers a blend
+  of simplicity and taste that keeps diners coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ9-OO4n9zAHwRVaLwpgIWLBU/reviews/ChZDSUhNMG9nS0VJQ0FnTURvOFl1WVhREAE
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        Ordered their new ahi poke salad, comes in 2 different sauces (house
+        soy, spicy mayo). Unlike a lot of places they definitely use fresh ahi
+        chunks (poke) over frozen. 10/10 for both flavors. Also had a bulgogi
+        plate. Seems like the owner is Korean because a lot of the cooked menu
+        is Korean inspired but the sushi chef is definitely Japanese. Love the
+        blend they have here.
+      languageCode: en
+    originalText:
+      text: >-
+        Ordered their new ahi poke salad, comes in 2 different sauces (house
+        soy, spicy mayo). Unlike a lot of places they definitely use fresh ahi
+        chunks (poke) over frozen. 10/10 for both flavors. Also had a bulgogi
+        plate. Seems like the owner is Korean because a lot of the cooked menu
+        is Korean inspired but the sushi chef is definitely Japanese. Love the
+        blend they have here.
+      languageCode: en
+    authorAttribution:
+      displayName: james takaoka
+      uri: https://www.google.com/maps/contrib/103094252929249967272/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJ7dpaaIx2H3vJzmYTF3TYpBFF3maORRZa71omSTCmtxm4WxQ=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-26T04:11:36.431489Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURvOFl1WVhREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURvOFl1WVhREAE!2m1!1s0x7c00737fe28ee3f7:0x152c1602a6f0a255
+  - name: >-
+      places/ChIJ9-OO4n9zAHwRVaLwpgIWLBU/reviews/ChdDSUhNMG9nS0VJQ0FnTUNRbjRiVzN3RRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        This place is awesome!! The sushi was elite and such good quality. We
+        got the ahi poke, red dragon, baked dynamite, Mount Fuji, Godzilla! My
+        favorite was the baked dynamite!! It was bursting with flavor! Will
+        definitely be back!
+      languageCode: en
+    originalText:
+      text: >-
+        This place is awesome!! The sushi was elite and such good quality. We
+        got the ahi poke, red dragon, baked dynamite, Mount Fuji, Godzilla! My
+        favorite was the baked dynamite!! It was bursting with flavor! Will
+        definitely be back!
+      languageCode: en
+    authorAttribution:
+      displayName: Camellia Nasrah
+      uri: https://www.google.com/maps/contrib/113810304918619555068/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUOL-0hh3u9xJ0BL-2VTkYQBdsiSGZ7VxByn4KZvOOc97hQ-tfl0g=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-03-08T06:02:09.857924Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNRbjRiVzN3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNRbjRiVzN3RRAB!2m1!1s0x7c00737fe28ee3f7:0x152c1602a6f0a255
+  - name: >-
+      places/ChIJ9-OO4n9zAHwRVaLwpgIWLBU/reviews/ChZDSUhNMG9nS0VJQ0FnTURvN3R2amZnEAE
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        Absolutely incredible, the service is incredible, the owner himself came
+        out and spoke with us, telling us about the fish and was kind and
+        welcoming. The sushi is incredible, we got the Otoro boat as well as 
+        Found Nemo which was one of the best sushi/sashimi I've had ever. The
+        Udon was also very good, broth was so hearty and noodles perfect.
+        Overall would highly highly recommend to visit!
+      languageCode: en
+    originalText:
+      text: >-
+        Absolutely incredible, the service is incredible, the owner himself came
+        out and spoke with us, telling us about the fish and was kind and
+        welcoming. The sushi is incredible, we got the Otoro boat as well as 
+        Found Nemo which was one of the best sushi/sashimi I've had ever. The
+        Udon was also very good, broth was so hearty and noodles perfect.
+        Overall would highly highly recommend to visit!
+      languageCode: en
+    authorAttribution:
+      displayName: J K
+      uri: https://www.google.com/maps/contrib/117668429374489026425/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLNnWpDlPpXtvvfXOrpXz44n953qHVWmsdS03lg0pitBzn7gA=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-25T05:17:10.008247Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURvN3R2amZnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURvN3R2amZnEAE!2m1!1s0x7c00737fe28ee3f7:0x152c1602a6f0a255
+  - name: >-
+      places/ChIJ9-OO4n9zAHwRVaLwpgIWLBU/reviews/ChdDSUhNMG9nS0VJQ0FnTURvMUpHejFnRRAB
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        We went in for a quick takeaway, and waiters and staff were very nice to
+        us the entire 20 minutes we were there. We ordered shrimp crunch, and we
+        were happy that there were 8 rolls in one order, not 6 like most places.
+        Waitress Yoko took our order quickly and clearly, checked with the
+        kitchen how long it would take, and came back exactly 14 minutes later
+        with our roll! Everything was very tasty, just as I had hoped🍣🫶🏻
+      languageCode: en
+    originalText:
+      text: >-
+        We went in for a quick takeaway, and waiters and staff were very nice to
+        us the entire 20 minutes we were there. We ordered shrimp crunch, and we
+        were happy that there were 8 rolls in one order, not 6 like most places.
+        Waitress Yoko took our order quickly and clearly, checked with the
+        kitchen how long it would take, and came back exactly 14 minutes later
+        with our roll! Everything was very tasty, just as I had hoped🍣🫶🏻
+      languageCode: en
+    authorAttribution:
+      displayName: Arina Sh
+      uri: https://www.google.com/maps/contrib/110040309304136225504/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjX8sfhRR2Orgij8w7tWmlLGpDuuc9ET2DSypQe77SCFasdVUCDlDQ=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-04-22T06:44:41.011822Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURvMUpHejFnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURvMUpHejFnRRAB!2m1!1s0x7c00737fe28ee3f7:0x152c1602a6f0a255
+  - name: >-
+      places/ChIJ9-OO4n9zAHwRVaLwpgIWLBU/reviews/ChdDSUhNMG9nS0VJQ0FnTURReDdhTy1BRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 4
+    text:
+      text: >-
+        We visited this place during Christmas 2024 holidays. Nice small place
+        for sushi. Variety of sushi’s at reasonable price in Honolulu. Service
+        was quick and good. To avoid the rush it’s better to go little late.
+        However, all the rice items were finished. We still enjoyed the sushi’s.
+      languageCode: en
+    originalText:
+      text: >-
+        We visited this place during Christmas 2024 holidays. Nice small place
+        for sushi. Variety of sushi’s at reasonable price in Honolulu. Service
+        was quick and good. To avoid the rush it’s better to go little late.
+        However, all the rice items were finished. We still enjoyed the sushi’s.
+      languageCode: en
+    authorAttribution:
+      displayName: Anusree Suraj
+      uri: https://www.google.com/maps/contrib/106884779265613040510/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjViXqIvL8XsptCdp6RtKNnZCida-7Ep0y503VusueTZmP10VUCmyw=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-03-14T21:09:51.006294Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURReDdhTy1BRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURReDdhTy1BRRAB!2m1!1s0x7c00737fe28ee3f7:0x152c1602a6f0a255
+review_summary: >-
+  What Customers Love About This Spot$$$Visitors often rave about the fresh,
+  high-quality sushi and creative rolls that make every meal feel special, with
+  many highlighting the burst of flavors in dishes like the ahi poke and baked
+  dynamite options. Folks appreciate the friendly service and efficient staff
+  that help create a cozy, intimate vibe, perfect for a casual get-together or
+  romantic outing. While some note that popular items can sell out during peak
+  times, the overall experience is praised for its value and variety, making it
+  a solid pick for anyone exploring Japanese places nearby. Overall, the
+  consensus leans positive, with diners enjoying the hearty portions and
+  welcoming environment that add to the appeal of this hidden gem. If you're on
+  the hunt for reliable sushi dining in Honolulu, it's worth checking out for a
+  satisfying and memorable visit.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
-payment_options: null
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
+curbside_pickup: false
+delivery: false
+dine_in: true
 good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: true
 serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_cocktails: true
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

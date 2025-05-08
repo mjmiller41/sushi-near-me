@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Saki Asian Restaurant"
+title: Saki Asian Restaurant
 permalink: /missouri/gladstone/saki-asian-restaurant.html
 stateAbbr: MO
 stateName: Missouri
 cityName: Gladstone
 seo:
-  name: "Saki Asian Restaurant"
-  type: Restaurant
-  links: null
-description: "Saki Asian Restaurant serves delicious sushi in Gladstone, Missouri. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://sakinorthland.com/
 place_id: ChIJkbf167z3wIcRy4DxTBv97ek
 photos:
   - name: >-
@@ -169,8 +167,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x87c0f7bcebf5b791:0xe9edfd1b4cf180cb!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: Closed'
+    - 'Tuesday: 11:00 AM – 9:30 PM'
+    - 'Wednesday: 11:00 AM – 9:30 PM'
+    - 'Thursday: 11:00 AM – 9:30 PM'
+    - 'Friday: 11:00 AM – 9:30 PM'
+    - 'Saturday: 11:00 AM – 9:30 PM'
+    - 'Sunday: 11:00 AM – 9:30 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -178,13 +233,49 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (816) 326-8888
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.9'
+rating_count: 258
+website: https://sakinorthland.com/
+description: >-
+  Experience Saki Asian Restaurant in Gladstone, MO$$$Nestled in Gladstone, MO,
+  Saki Asian Restaurant offers a welcoming spot for those seeking authentic
+  Japanese flavors and fresh sushi options. The restaurant boasts a cozy
+  atmosphere with thoughtful accessibility features, making it easy for everyone
+  to enjoy a meal. Diners can savor a variety of expertly prepared dishes, from
+  flavorful rolls to satisfying appetizers, all crafted with high-quality
+  ingredients. Its convenient hours and moderate pricing add to the appeal for
+  anyone looking for reliable Japanese dining nearby. Whether you're in the mood
+  for a quick lunch or a relaxed dinner, this spot stands out as a go-to choice
+  for sushi enthusiasts in the area.
+generative_summary: >-
+  Experience Saki Asian Restaurant in Gladstone, MO$$$Nestled in Gladstone, MO,
+  Saki Asian Restaurant offers a welcoming spot for those seeking authentic
+  Japanese flavors and fresh sushi options. The restaurant boasts a cozy
+  atmosphere with thoughtful accessibility features, making it easy for everyone
+  to enjoy a meal. Diners can savor a variety of expertly prepared dishes, from
+  flavorful rolls to satisfying appetizers, all crafted with high-quality
+  ingredients. Its convenient hours and moderate pricing add to the appeal for
+  anyone looking for reliable Japanese dining nearby. Whether you're in the mood
+  for a quick lunch or a relaxed dinner, this spot stands out as a go-to choice
+  for sushi enthusiasts in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors often rave about the tasty offerings
+  at this Japanese eatery, highlighting standout items like creative sushi rolls
+  and savory appetizers that keep things exciting and delicious. Many appreciate
+  the efficient service and warm hospitality that make every visit feel smooth
+  and enjoyable, without any unnecessary waits. The value for money shines
+  through in mentions of affordable specials that don't skimp on quality, making
+  it a smart pick for casual meals. Overall, the positive vibes around the food
+  and atmosphere suggest it's a solid spot for groups or solo diners seeking a
+  reliable experience. If you're on the hunt for top-notch sushi places nearby,
+  this one frequently gets nods for its consistent appeal and satisfying
+  flavors.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +301,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

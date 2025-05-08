@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Taka"
+title: Sushi Taka
 permalink: /california/irvine/sushi-taka.html
 stateAbbr: CA
 stateName: California
 cityName: Irvine
 seo:
-  name: "Sushi Taka"
-  type: Restaurant
+  type: restaurant
   links: http://www.sushitakairvine.com/
-description: "Sushi Taka serves delicious sushi in Irvine, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJG8LizEff3IARiwwvFn11DWs
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $20 &ndash; $30
 rating: '3.6'
 rating_count: 0
 website: http://www.sushitakairvine.com/
+description: >-
+  Explore Sushi Taka in Irvine, CA$$$Sushi Taka in Irvine, CA, stands out as a
+  casual destination for enjoying fresh sushi and Japanese flavors right in your
+  neighborhood. This spot delights with a variety of creative rolls, including
+  gluten-free selections, catering to diverse tastes and dietary preferences for
+  a satisfying meal. Daily happy hour specials add to the appeal, making it an
+  ideal choice for relaxed gatherings or quick bites after work. The restaurant
+  also features accessible amenities and outdoor seating, enhancing the overall
+  dining experience in a welcoming environment. Whether you're searching for
+  top-rated sushi options nearby, it's a go-to for authentic tastes that keep
+  locals coming back.
+generative_summary: >-
+  Explore Sushi Taka in Irvine, CA$$$Sushi Taka in Irvine, CA, stands out as a
+  casual destination for enjoying fresh sushi and Japanese flavors right in your
+  neighborhood. This spot delights with a variety of creative rolls, including
+  gluten-free selections, catering to diverse tastes and dietary preferences for
+  a satisfying meal. Daily happy hour specials add to the appeal, making it an
+  ideal choice for relaxed gatherings or quick bites after work. The restaurant
+  also features accessible amenities and outdoor seating, enhancing the overall
+  dining experience in a welcoming environment. Whether you're searching for
+  top-rated sushi options nearby, it's a go-to for authentic tastes that keep
+  locals coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJG8LizEff3IARiwwvFn11DWs/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJbllMYUJREAE
@@ -368,6 +389,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNBeXYtV3pRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNBeXYtV3pRRRAB!2m1!1s0x80dcdf47cce2c21b:0x6b0d757d162f0c8b
+review_summary: >-
+  What People Are Saying About the Experience$$$Folks who visit Sushi Taka often
+  highlight the tasty rolls and fresh ingredients as real winners, making it a
+  popular pick for casual Japanese dining in the area. While some have pointed
+  out occasional slip-ups with service, like wait times or portion sizes not
+  always hitting the mark, many still appreciate the overall vibe and value
+  during happy hour. On the positive side, the spot gets props for its cozy
+  atmosphere and solid food quality that leaves diners feeling content. All in
+  all, it's a reliable choice if you're in the mood for sushi close to home, as
+  long as you go in with realistic expectations for the little details. If
+  you're exploring sushi places near me, this one earns nods for its strengths
+  while room for tweaks keeps things balanced.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -399,7 +433,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Umi Sushi & Seafood Buffet"
+title: Umi Sushi & Seafood Buffet
 permalink: /indiana/indianapolis/umi-sushi-seafood-buffet.html
 stateAbbr: IN
 stateName: Indiana
 cityName: Indianapolis
 seo:
-  name: "Umi Sushi & Seafood Buffet"
-  type: Restaurant
-  links: null
-description: "Umi Sushi & Seafood Buffet serves delicious sushi in Indianapolis, Indiana. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.umibuffet.com/
 place_id: ChIJq-t-f8JNa4gRCMe3NQ4fxEE
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x886b4dc27f7eebab:0x41c41f0e35b7c708!10e5
 primary_type: Buffet Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 10:00 PM'
+    - 'Tuesday: 11:00 AM – 10:00 PM'
+    - 'Wednesday: 11:00 AM – 10:00 PM'
+    - 'Thursday: 11:00 AM – 10:00 PM'
+    - 'Friday: 11:00 AM – 10:30 PM'
+    - 'Saturday: 11:00 AM – 10:30 PM'
+    - 'Sunday: 11:00 AM – 10:00 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,47 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
+phone: (317) 350-8888
 price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+price_range: $30 &ndash; $50
+rating: '4.2'
+rating_count: 773
+website: https://www.umibuffet.com/
+description: >-
+  Explore Umi Sushi & Seafood Buffet in Indianapolis, IN$$$Umi Sushi & Seafood
+  Buffet in Indianapolis, IN, offers a casual all-you-can-eat experience
+  highlighting fresh seafood selections and Japanese-inspired dishes. This
+  buffet stands out with its variety of options, including expertly prepared
+  sushi rolls and premium oysters, complemented by refreshing milk tea for a
+  well-rounded meal. The welcoming atmosphere caters to families and groups,
+  featuring accessible seating and parking that make it easy to enjoy a relaxed
+  dining outing. With daily hours extending into the evening, it's a convenient
+  spot for those seeking quality sushi options near you, blending affordability
+  with a diverse menu that appeals to seafood enthusiasts.
+generative_summary: >-
+  Explore Umi Sushi & Seafood Buffet in Indianapolis, IN$$$Umi Sushi & Seafood
+  Buffet in Indianapolis, IN, offers a casual all-you-can-eat experience
+  highlighting fresh seafood selections and Japanese-inspired dishes. This
+  buffet stands out with its variety of options, including expertly prepared
+  sushi rolls and premium oysters, complemented by refreshing milk tea for a
+  well-rounded meal. The welcoming atmosphere caters to families and groups,
+  featuring accessible seating and parking that make it easy to enjoy a relaxed
+  dining outing. With daily hours extending into the evening, it's a convenient
+  spot for those seeking quality sushi options near you, blending affordability
+  with a diverse menu that appeals to seafood enthusiasts.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Visitor Feedback on Umi Sushi & Seafood Buffet$$$Folks rave about the wide
+  array of fresh seafood at this buffet, with standout items like crab legs and
+  tasty sushi rolls that keep diners coming back for more. Many appreciate the
+  family-friendly vibe and the helpful staff who make the experience feel
+  welcoming and enjoyable, especially when exploring Japanese-style eats close
+  to home. You'll also find mentions of fun additions like hot pot, ramen, and
+  boba drinks that add extra variety to the meal. While some note that service
+  can occasionally slow down during busy times, the overall consensus is that
+  it's a solid choice for a satisfying and affordable sushi adventure.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +308,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

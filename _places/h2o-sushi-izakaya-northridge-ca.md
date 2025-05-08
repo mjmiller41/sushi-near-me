@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "H2O Sushi & Izakaya"
+title: H2O Sushi & Izakaya
 permalink: /california/northridge/h2o-sushi-izakaya.html
 stateAbbr: CA
 stateName: California
 cityName: Northridge
 seo:
-  name: "H2O Sushi & Izakaya"
-  type: Restaurant
+  type: restaurant
   links: http://h2osushiizakaya.com/
-description: "H2O Sushi & Izakaya serves delicious sushi in Northridge, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJSQx8sHSbwoARJICf-8MvYV8
 photos:
   - name: >-
@@ -169,7 +167,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c29b74b07c0c49:0x5f612fc3fb9f8024!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 22
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 10:00 PM'
     - 'Tuesday: 11:30 AM – 10:00 PM'
     - 'Wednesday: 11:30 AM – 10:00 PM'
@@ -177,54 +233,381 @@ opening_hours:
     - 'Friday: 11:30 AM – 10:30 PM'
     - 'Saturday: 11:30 AM – 10:30 PM'
     - 'Sunday: 11:30 AM – 10:30 PM'
-  current:
-    - 'Monday: 11:30 AM – 10:00 PM'
-    - 'Tuesday: 11:30 AM – 10:00 PM'
-    - 'Wednesday: 11:30 AM – 10:00 PM'
-    - 'Thursday: 11:30 AM – 10:00 PM'
-    - 'Friday: 11:30 AM – 10:30 PM'
-    - 'Saturday: 11:30 AM – 10:30 PM'
-    - 'Sunday: 11:30 AM – 10:30 PM'
+  nextCloseTime: '2025-05-04T05:30:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 15
+          minute: 0
+        close:
+          day: 0
+          hour: 18
+          minute: 0
+      - open:
+          day: 0
+          hour: 20
+          minute: 30
+        close:
+          day: 0
+          hour: 22
+          minute: 30
+      - open:
+          day: 1
+          hour: 15
+          minute: 0
+        close:
+          day: 1
+          hour: 18
+          minute: 0
+      - open:
+          day: 1
+          hour: 20
+          minute: 30
+        close:
+          day: 1
+          hour: 22
+          minute: 0
+      - open:
+          day: 2
+          hour: 15
+          minute: 0
+        close:
+          day: 2
+          hour: 18
+          minute: 0
+      - open:
+          day: 2
+          hour: 20
+          minute: 30
+        close:
+          day: 2
+          hour: 22
+          minute: 0
+      - open:
+          day: 3
+          hour: 15
+          minute: 0
+        close:
+          day: 3
+          hour: 18
+          minute: 0
+      - open:
+          day: 3
+          hour: 20
+          minute: 30
+        close:
+          day: 3
+          hour: 22
+          minute: 0
+      - open:
+          day: 4
+          hour: 15
+          minute: 0
+        close:
+          day: 4
+          hour: 18
+          minute: 0
+      - open:
+          day: 4
+          hour: 20
+          minute: 30
+        close:
+          day: 4
+          hour: 22
+          minute: 0
+      - open:
+          day: 5
+          hour: 15
+          minute: 0
+        close:
+          day: 5
+          hour: 18
+          minute: 0
+      - open:
+          day: 5
+          hour: 20
+          minute: 30
+        close:
+          day: 5
+          hour: 22
+          minute: 30
+      - open:
+          day: 6
+          hour: 15
+          minute: 0
+        close:
+          day: 6
+          hour: 18
+          minute: 0
+      - open:
+          day: 6
+          hour: 20
+          minute: 30
+        close:
+          day: 6
+          hour: 22
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 3:00 – 6:00 PM, 8:30 – 10:00 PM'
+      - 'Tuesday: 3:00 – 6:00 PM, 8:30 – 10:00 PM'
+      - 'Wednesday: 3:00 – 6:00 PM, 8:30 – 10:00 PM'
+      - 'Thursday: 3:00 – 6:00 PM, 8:30 – 10:00 PM'
+      - 'Friday: 3:00 – 6:00 PM, 8:30 – 10:30 PM'
+      - 'Saturday: 3:00 – 6:00 PM, 8:30 – 10:30 PM'
+      - 'Sunday: 3:00 – 6:00 PM, 8:30 – 10:30 PM'
+    secondaryHoursType: HAPPY_HOUR
+    nextCloseTime: '2025-05-04T01:00:00Z'
 phone: (818) 700-8300
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.1'
-rating_count: 0
+rating_count: 585
 website: http://h2osushiizakaya.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover H2O Sushi & Izakaya in Northridge, CA$$$H2O Sushi & Izakaya in
+  Northridge, California, delivers a relaxed vibe perfect for enjoying fresh
+  Japanese-inspired dishes in a bright, welcoming space. With options like
+  flavorful bento boxes and a selection of sake, this spot stands out for its
+  accessible features, including wheelchair-friendly seating and ample free
+  parking, making it easy for everyone to stop by. Happy hour specials add extra
+  appeal, offering great deals on popular items that enhance the overall dining
+  experience for those seeking casual sushi options nearby. The menu caters well
+  to groups and families, with vegetarian choices and outdoor seating available,
+  ensuring a comfortable visit any time of day. For anyone exploring top-rated
+  sushi restaurants in the area, this location combines affordability with
+  quality ingredients to create memorable meals.
+generative_summary: >-
+  Discover H2O Sushi & Izakaya in Northridge, CA$$$H2O Sushi & Izakaya in
+  Northridge, California, delivers a relaxed vibe perfect for enjoying fresh
+  Japanese-inspired dishes in a bright, welcoming space. With options like
+  flavorful bento boxes and a selection of sake, this spot stands out for its
+  accessible features, including wheelchair-friendly seating and ample free
+  parking, making it easy for everyone to stop by. Happy hour specials add extra
+  appeal, offering great deals on popular items that enhance the overall dining
+  experience for those seeking casual sushi options nearby. The menu caters well
+  to groups and families, with vegetarian choices and outdoor seating available,
+  ensuring a comfortable visit any time of day. For anyone exploring top-rated
+  sushi restaurants in the area, this location combines affordability with
+  quality ingredients to create memorable meals.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJSQx8sHSbwoARJICf-8MvYV8/reviews/ChZDSUhNMG9nS0VJQ0FnSUNQaXNuekxBEAE
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        Excellent value for $19.99 All-You-Can-Eat for lunch! Good variety of
+        rolls to choose from. Service was fantastic and friendly! Easy free
+        parking lot in front of the restaurant. Will definitely come back for
+        more sushi in the future!
+      languageCode: en
+    originalText:
+      text: >-
+        Excellent value for $19.99 All-You-Can-Eat for lunch! Good variety of
+        rolls to choose from. Service was fantastic and friendly! Easy free
+        parking lot in front of the restaurant. Will definitely come back for
+        more sushi in the future!
+      languageCode: en
+    authorAttribution:
+      displayName: Ronald de los Santos
+      uri: https://www.google.com/maps/contrib/102427604043095900554/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjViPEtw7PoG3CLajA2EuS6K1FBbXWw6TsLrs1_qfElZaE7KJIEVRw=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-11-23T04:12:26.322082Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNQaXNuekxBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNQaXNuekxBEAE!2m1!1s0x80c29b74b07c0c49:0x5f612fc3fb9f8024
+  - name: >-
+      places/ChIJSQx8sHSbwoARJICf-8MvYV8/reviews/ChZDSUhNMG9nS0VJQ0FnTURvaGYyS1J3EAE
+    relativePublishTimeDescription: a week ago
+    rating: 1
+    text:
+      text: >-
+        I’ve been here a few times and it was pretty good. However, my
+        experience today was unbelievable. We sat at the table for over 15
+        minutes before getting our order taken. I ended up getting a lunch bento
+        box with assorted sashimi and steak teriyaki. The salads that come with
+        the bento never came, the sushi was extremely tough? I’ve never had
+        sushi that was as chewy and hard as this. The steak was also extremely
+        fatty and chewy. I sent the food back and a supervisor came over and
+        questioned me by “what do I mean it’s chewy?” Explaining that the sushi
+        is meant to be that way. I’ve been eating sushi for years. This is the
+        first I’ve ever struggled to chew sushi. I wouldn’t recommend coming
+        back here. I’ll update the review if I end up sick or something.
+      languageCode: en
+    originalText:
+      text: >-
+        I’ve been here a few times and it was pretty good. However, my
+        experience today was unbelievable. We sat at the table for over 15
+        minutes before getting our order taken. I ended up getting a lunch bento
+        box with assorted sashimi and steak teriyaki. The salads that come with
+        the bento never came, the sushi was extremely tough? I’ve never had
+        sushi that was as chewy and hard as this. The steak was also extremely
+        fatty and chewy. I sent the food back and a supervisor came over and
+        questioned me by “what do I mean it’s chewy?” Explaining that the sushi
+        is meant to be that way. I’ve been eating sushi for years. This is the
+        first I’ve ever struggled to chew sushi. I wouldn’t recommend coming
+        back here. I’ll update the review if I end up sick or something.
+      languageCode: en
+    authorAttribution:
+      displayName: Cody Stone
+      uri: https://www.google.com/maps/contrib/106427220379279113834/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIq7qKL8fVyV6t5UjcwZqDF6q9TvnaaPoHmkAx5lnY8GZsSdfI=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-04-26T20:38:43.063220Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURvaGYyS1J3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURvaGYyS1J3EAE!2m1!1s0x80c29b74b07c0c49:0x5f612fc3fb9f8024
+  - name: >-
+      places/ChIJSQx8sHSbwoARJICf-8MvYV8/reviews/ChZDSUhNMG9nS0VJQ0FnSURYd2RhRlFnEAE
+    relativePublishTimeDescription: 6 months ago
+    rating: 5
+    text:
+      text: >-
+        Lunch bento had generous portions and was very filling. The restaurant
+        itself was nice and clean, and the service was excellent.
+
+
+        Y’all out here acting like this place is Nobu.
+      languageCode: en
+    originalText:
+      text: >-
+        Lunch bento had generous portions and was very filling. The restaurant
+        itself was nice and clean, and the service was excellent.
+
+
+        Y’all out here acting like this place is Nobu.
+      languageCode: en
+    authorAttribution:
+      displayName: Soyoung Chon
+      uri: https://www.google.com/maps/contrib/105215903094927096411/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIGEToFUt8i2A5vb1pbmb4h5OqXuNah_al-6tvFIwhM0ZKTzvw2=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-10-28T02:41:40.217246Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURYd2RhRlFnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURYd2RhRlFnEAE!2m1!1s0x80c29b74b07c0c49:0x5f612fc3fb9f8024
+  - name: >-
+      places/ChIJSQx8sHSbwoARJICf-8MvYV8/reviews/ChdDSUhNMG9nS0VJQ0FnSUNiX282Z2t3RRAB
+    relativePublishTimeDescription: 9 months ago
+    rating: 4
+    text:
+      text: >-
+        The greeters were friendly. The bar was closed at 6pm on a Friday. The
+        sushi bar was open so my date and I sat there. The waitress was super
+        friendly. I got a warm sake for itchy throat, which hit the spot just
+        perfect. I ordered the udon soup. My date got sushi. Everything was
+        tasty. If you are in Northridge and want sushi and drinks. This is the
+        spot.
+      languageCode: en
+    originalText:
+      text: >-
+        The greeters were friendly. The bar was closed at 6pm on a Friday. The
+        sushi bar was open so my date and I sat there. The waitress was super
+        friendly. I got a warm sake for itchy throat, which hit the spot just
+        perfect. I ordered the udon soup. My date got sushi. Everything was
+        tasty. If you are in Northridge and want sushi and drinks. This is the
+        spot.
+      languageCode: en
+    authorAttribution:
+      displayName: Buttons Thing
+      uri: https://www.google.com/maps/contrib/100401748394713270598/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUaNPq7Y06nN0CtTMiGlR6R0o9W7If5XQ2j6fb9WbwmjqUcoP8=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-07-27T17:22:48.347568Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNiX282Z2t3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNiX282Z2t3RRAB!2m1!1s0x80c29b74b07c0c49:0x5f612fc3fb9f8024
+  - name: >-
+      places/ChIJSQx8sHSbwoARJICf-8MvYV8/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJc2ZtYW9BRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 1
+    text:
+      text: >-
+        The service was nice, so I feel bad leaving this review but I came in
+        with my husband and we both got upset stomachs. We went during happy
+        hour and ordered the sensual pleasure roll, tempura roll, salmon roll
+        and scallop roll. I had heart burn almost immediately then threw my food
+        up within a couple of hours. My husband is still feeling sick the next
+        day, so I think I was lucky to have thrown it up right away. I'm
+        guessing the scallop roll is what did it because it didn't taste good
+        going down and we couldn't finish it.
+      languageCode: en
+    originalText:
+      text: >-
+        The service was nice, so I feel bad leaving this review but I came in
+        with my husband and we both got upset stomachs. We went during happy
+        hour and ordered the sensual pleasure roll, tempura roll, salmon roll
+        and scallop roll. I had heart burn almost immediately then threw my food
+        up within a couple of hours. My husband is still feeling sick the next
+        day, so I think I was lucky to have thrown it up right away. I'm
+        guessing the scallop roll is what did it because it didn't taste good
+        going down and we couldn't finish it.
+      languageCode: en
+    authorAttribution:
+      displayName: Melissa
+      uri: https://www.google.com/maps/contrib/106947072531493802885/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXa2mN-WT-8ENF3KL0hm7z6boiKUIhG1TPdq4QYAjSP3xWMy2a-=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-02T21:50:04.749779Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNJc2ZtYW9BRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNJc2ZtYW9BRRAB!2m1!1s0x80c29b74b07c0c49:0x5f612fc3fb9f8024
+review_summary: >-
+  What Customers Are Sharing About the Experience$$$Visitors often rave about
+  the fantastic value of the all-you-can-eat lunch deals, highlighting the wide
+  variety of rolls and generous portions that make for a satisfying meal. Many
+  appreciate the friendly service and convenient happy hour prices, which add to
+  the fun atmosphere and keep things lively without breaking the bank. While
+  most feedback praises the tasty sushi and efficient staff, a few mentions
+  point to occasional inconsistencies in food quality that didn't quite hit the
+  mark. Overall, it's a go-to spot for those craving reliable Japanese flavors,
+  with the positives far outweighing any minor hiccups to deliver a generally
+  enjoyable outing. If you're on the hunt for sushi places near you, this one
+  tends to leave people feeling pleased with their choice, blending solid
+  options with a welcoming feel.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
+curbside_pickup: false
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
 live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
+menu_for_children: true
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
 serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_cocktails: true
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Serving classic Japanese eats including bento boxes & sushi rolls in a
+  light-filled space.
 
 ---

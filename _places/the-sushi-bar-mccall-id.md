@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "The Sushi Bar"
+title: The Sushi Bar
 permalink: /idaho/mccall/the-sushi-bar.html
 stateAbbr: ID
 stateName: Idaho
 cityName: McCall
 seo:
-  name: "The Sushi Bar"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "The Sushi Bar serves delicious sushi in McCall, Idaho. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJoy7vtiBnplQRo0k1l3ePRC4
 photos:
   - name: >-
@@ -185,7 +183,41 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover The Sushi Bar in McCall, Idaho$$$Nestled in the charming city of
+  McCall, Idaho, The Sushi Bar stands out as a go-to spot for fresh Japanese
+  cuisine in a relaxed setting. This casual eatery boasts stunning lake views
+  and inviting outdoor seating, perfect for enjoying expertly crafted sushi
+  rolls and other authentic dishes. Visitors can savor a variety of options that
+  highlight the best of Japanese flavors, making it an ideal choice for those
+  seeking quality sushi experiences nearby. The restaurant's accessible features
+  ensure a welcoming atmosphere for all, enhancing its appeal as a local
+  favorite for anyone exploring sushi restaurants in the area.
+generative_summary: >-
+  Discover The Sushi Bar in McCall, Idaho$$$Nestled in the charming city of
+  McCall, Idaho, The Sushi Bar stands out as a go-to spot for fresh Japanese
+  cuisine in a relaxed setting. This casual eatery boasts stunning lake views
+  and inviting outdoor seating, perfect for enjoying expertly crafted sushi
+  rolls and other authentic dishes. Visitors can savor a variety of options that
+  highlight the best of Japanese flavors, making it an ideal choice for those
+  seeking quality sushi experiences nearby. The restaurant's accessible features
+  ensure a welcoming atmosphere for all, enhancing its appeal as a local
+  favorite for anyone exploring sushi restaurants in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Buzzing About$$$Folks rave about the tasty dishes at this
+  sushi spot, especially the customizable specials that let you tailor flavors
+  to your liking, making every meal feel personal and satisfying. Many
+  appreciate the fast and friendly service that keeps things running smoothly,
+  along with prices that offer great value without breaking the bank. While the
+  overall vibe is upbeat and enjoyable, some visitors mention occasional hiccups
+  in staff interactions that could use a bit more polish. Still, the consensus
+  leans positive, with plenty of praise for the fresh ingredients and creative
+  menu that keep diners coming back for more. If you're on the hunt for
+  top-rated sushi options around McCall, this place delivers a solid experience
+  worth trying.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +243,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

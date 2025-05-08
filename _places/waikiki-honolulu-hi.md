@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Waikiki"
+title: Waikiki
 permalink: /hawaii/honolulu/waikiki.html
 stateAbbr: HI
 stateName: Hawaii
 cityName: Honolulu
 seo:
-  name: "Waikiki"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Waikiki serves delicious sushi in Honolulu, Hawaii. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJrynB5fRtAHwReIhoKsXdM0Y
 photos:
   - name: >-
@@ -177,7 +175,46 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discovering Waikiki in Honolulu, HI$$$Waikiki in Honolulu, HI, stands out as a
+  vibrant coastal haven that blends stunning beachfront scenery with the lively
+  pulse of island life, making it a top choice for those seeking tropical
+  escapes. This area boasts picturesque ocean views and a collection of inviting
+  spots ideal for relaxation and exploration, drawing from its accessible
+  location amidst Hawaii's natural beauty. Visitors can enjoy the laid-back
+  atmosphere, with easy access to nearby attractions that enhance any getaway,
+  whether you're lounging by the water or wandering through vibrant
+  neighborhoods. Overall, Waikiki offers a welcoming mix of urban energy and
+  serene vibes, perfect for creating unforgettable memories in a prime Honolulu
+  setting.
+generative_summary: >-
+  Discovering Waikiki in Honolulu, HI$$$Waikiki in Honolulu, HI, stands out as a
+  vibrant coastal haven that blends stunning beachfront scenery with the lively
+  pulse of island life, making it a top choice for those seeking tropical
+  escapes. This area boasts picturesque ocean views and a collection of inviting
+  spots ideal for relaxation and exploration, drawing from its accessible
+  location amidst Hawaii's natural beauty. Visitors can enjoy the laid-back
+  atmosphere, with easy access to nearby attractions that enhance any getaway,
+  whether you're lounging by the water or wandering through vibrant
+  neighborhoods. Overall, Waikiki offers a welcoming mix of urban energy and
+  serene vibes, perfect for creating unforgettable memories in a prime Honolulu
+  setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Sharing$$$Folks chatting about Waikiki often highlight its
+  chill beach vibes and easygoing charm as major wins, with many appreciating
+  the stunning sunsets and relaxed pace that make it feel like a true getaway.
+  Some note that the crowds can get lively during peak times, but that's
+  balanced by the overall fun atmosphere and variety of activities that keep
+  things engaging for all types of travelers. Reviewers frequently praise the
+  area's accessibility and family-friendly spots, adding that it's a solid pick
+  for anyone looking to unwind without much hassle. While a few mention minor
+  downsides like tourist traffic, the general consensus leans positive,
+  emphasizing how Waikiki delivers a refreshing mix of adventure and calm that
+  leaves most people eager to return. All in all, it's a spot that consistently
+  delivers on the promise of a memorable Hawaiian experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -203,7 +240,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -1,175 +1,240 @@
 ---
 layout: place
-title: "Sushi Boss"
+title: Sushi Boss
 permalink: /indiana/indianapolis/sushi-boss.html
 stateAbbr: IN
 stateName: Indiana
 cityName: Indianapolis
 seo:
-  name: "Sushi Boss"
-  type: Restaurant
-  links: null
-description: "Sushi Boss serves delicious sushi in Indianapolis, Indiana. Try fresh Japanese dishes for a great dining experience. "
-place_id: ChIJP614buhRa4gRhZzLFUzI9jY
+  type: restaurant
+  links: http://www.sushiboss.com/
+place_id: ChIJPz1UXcxQa4gRABkkLqvJQ0c
 photos:
   - name: >-
-      places/ChIJP614buhRa4gRhZzLFUzI9jY/photos/AeeoHcJexxd-lvkhm5jdenx58-RSoh809TY-7TWOumMD-X5eCtOzGT7HL0CsRDUHSrKuvgMQlEOLbDnwcY2YPvYySv4NgrPomGKLDaWca3ObJPJZIhufuQJ1Gyfk8wDWIrkvOVcmbUxILOqt1MmdDwVU0C5hUzd-8U3-pqtkuuuBS6-NGsCGHCSyKzl_vfCZQJZ-CKT3Kejhfw0nFUcGsOsebjX46X6AHu7XPmGipadH_WpfRgbs26TzJRaoyVoVZGCV-C5MJJ1elEBGwuLFUUMfUCrOx1tOIzaa7MluBE4aXMdOeBFDXGtT9AHZbRFjYSnDcxUXF8ok_Tdl-Ggu3XeW8KgtL17Th5k0jIXnBTt7LWV3mTYBqqqGRAWpWWfvGt57acOGMO_SURhYxK6CCA1y9XbwSXjd2qMxQgXK5Lu13u2zKg
-    widthPx: 4032
-    heightPx: 3024
-    authorAttributions:
-      - displayName: Shane Kent
-        uri: https://maps.google.com/maps/contrib/109252613963595461117
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjVAszmzyhw9GzEzQ1ZNalKqkYFntgGEsdjQ9_9w2K-9W3hPOAxHxg=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDrv5TJDw&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDrv5TJDw!2e10!4m2!3m1!1s0x886b51e86e78ad3f:0x36f6c84c15cb9c85
-  - name: >-
-      places/ChIJP614buhRa4gRhZzLFUzI9jY/photos/AeeoHcKVkNkGfQewZt_Ixu_kas7JI9ZFYE4CVJkrCOriiVvadFIBMg8ENMrpMfICBuv1sJezaVszmKtZ7Nywv7kVivFot6RiJB_NPTqtwIoSrm6TZcnC_Xx62swSuekvCTbKt19FwTRJkTyP9bLx8ZBAsPe4CH310LBvVbowiCxVT-pLSoOzqi4AjsrUG70vmuVphGFt-1DcnwdImt41beqF3T69Y9eLBsGR8isqb3GmFRHYmOkX1lf0ASKm3WhEirA2Ui8RNN6-OE-FLi_xGTTJ1eIig4kRiPTSDCsesZA25vjKXPbr0efbXs8NWRE1ueP74id9cFf9pVU4SA375--TZMPuFsGMvbDcaeI739UxN_n92tzhgoCoO85wLTBLUoG65eP8z7NhQoOlqwaMBZqkWgALYC__oYqC_rvb1lEIc1KryPiH
-    widthPx: 2438
-    heightPx: 1705
-    authorAttributions:
-      - displayName: Wagner Lestinge
-        uri: https://maps.google.com/maps/contrib/104443434387445163901
-        photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocJtDZi32TzDwXqm7coEQBNebXyQmkNbJMlkNWpmTh0DiAzXzw=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC7ip-kmgE&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC7ip-kmgE!2e10!4m2!3m1!1s0x886b51e86e78ad3f:0x36f6c84c15cb9c85
-  - name: >-
-      places/ChIJP614buhRa4gRhZzLFUzI9jY/photos/AeeoHcKE1RxRmyPIsZml2M7xKC5wXlOenrs-aZaOz4BhGvPWP84XHsZmkktMJxyI4-CChm8a1YsHDSh28jdCwK8zPuROijb54xzjSsCcM7MnO0hvwyMXwezQdig3YY6XZ89TWrlKtOyhbiQxAt81nbaLvyY47GBXaNRnElizNpnqn33cfWJCkY2LYTVROZ5D7JgFNZQZkPhUfCmUw2uVqLvTEgPFAlhMTkPw2hTjrUvADQ6ozbinmMYZLdUFzbe0cfQi7yo4Qx5TMVt97pWIOwuofqE9qRuRlcdZKZ2eHZM0YmMnzRCkzUbg7aUB8xWUsNnLtKEMY-BkDgxl53iavPrjNzNStQwJXtjAZB5aRznRGECIWcQyGehQlJhlKcED2Drw33M4qmRi0zAfF6KckIRqxMCmo3ipQUNevdLfK-Hm-JZURvc
-    widthPx: 4032
-    heightPx: 3024
-    authorAttributions:
-      - displayName: Shane Kent
-        uri: https://maps.google.com/maps/contrib/109252613963595461117
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjVAszmzyhw9GzEzQ1ZNalKqkYFntgGEsdjQ9_9w2K-9W3hPOAxHxg=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDrv5TJ9wE&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDrv5TJ9wE!2e10!4m2!3m1!1s0x886b51e86e78ad3f:0x36f6c84c15cb9c85
-  - name: >-
-      places/ChIJP614buhRa4gRhZzLFUzI9jY/photos/AeeoHcL3D-nTgfLdZyRxHn_aarNvTSTiXXrrHll7511W-eEcdtWjEkmL2e2KdUbUXisUyXVGw5-klOOvJhp5v7z1pK47-uQ8wb0FLDr5eRJa-opN26K98l4O1AR2_GfDif93ih4Dq6jv_9W_KHoyuQRJRC1eOmENcxOwkOx6HBuSsFeszg8RXasfUZLD2IO8zCJvbCq0FLZak7B9TxOhadBsFKGTJ5pSsM98ka5rBT9lJb_QYakA6eoCZjr_ks02jB2cI2qiSeGItK2yF8GPTeGmnN0OF7O-5eT-LFLSvF4KyhzXnqX0KFfuAlxA-ZqQUE5P8oj4QPnlsPteH8mzSwMdqSxsuKW_DXwTA3WDtpSDplPnHz7ANN0lDNUHS2vuvoSKvV0Hx0flgZ3uy_jWBZHBOJ6dUc0tBscXIpVuda6os3P7gdRg
-    widthPx: 4800
-    heightPx: 3599
-    authorAttributions:
-      - displayName: John Oliver
-        uri: https://maps.google.com/maps/contrib/100186311181624331429
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjVWOgQJOodzoOOeUFmONQ-WVXtyTqbC5Pq4I4ZsfcR36wu_aYNvzg=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID76f6I5QE&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID76f6I5QE!2e10!4m2!3m1!1s0x886b51e86e78ad3f:0x36f6c84c15cb9c85
-  - name: >-
-      places/ChIJP614buhRa4gRhZzLFUzI9jY/photos/AeeoHcKF5Akdr1i1vhlBOQOcZ1UsZxXm7CuvttiPn0pfLI8I9RBO5yw3UzaS6wYFBCs83e7_lky8AdTxf0v_pjEWO0eYU1Y2rRRypvJiA_ljOEq0u-fd_YnirwgwrmiWFYm5T6hpZ8Pn8tagwP078u65hG233Z5faaLbp1fK5_Qykj3VBxgMUb8l_-RaakoKr7TzBd82jQk1HWTEspVGDwxYvTPAsLIe-VJwlX4bd-ZGcyHSCOvRpne0EpkyvxtOFIcDZA47rgnI3W_rFbVnDKzp0W3aouPCltmkV25d0tLEOQ3-TkZNSb4OZIMlsQyEN2em269KYnXvBXfh5Tkp8dPqqVMHYFsUoIwiRX8TKv-Sa5SDohW1Mx8VIzlUR_6jXzTG2QX2vrnLmXwv0i53WKX7_1osHjZHX8LUxgAE7WvVJZI
-    widthPx: 3024
-    heightPx: 4032
-    authorAttributions:
-      - displayName: Megan J.
-        uri: https://maps.google.com/maps/contrib/107686580607433779538
-        photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocInnYn2z65uBPRkMW-5opoy7s9hLIno3nnsE_XBfI5zhWTRVg=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC3wommcg&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC3wommcg!2e10!4m2!3m1!1s0x886b51e86e78ad3f:0x36f6c84c15cb9c85
-  - name: >-
-      places/ChIJP614buhRa4gRhZzLFUzI9jY/photos/AeeoHcL2h7XPXOnC6BOKpZ81cujUuLX_Aqi9j1Yfc9lxJbbrj5KsT1kwDWXyuvLeTV5IaXLXH7At5-Ciin7HeSMDTHDUPzFwznALodV5rmAB80GD_MhQrU00g-08efcVQ-0D5qGxEDNIka_bvFE-Fb18yxbCFAzZqH9TD1s32kC-s34NjQrNBxAKYPBA4BFkXSpXzzvvHlMrKh819lgwz6tm44eE3vWYdWqYWORu7-_eQ-4lGSe9032Ib_nfaNa32RbJGCK8B3wG1sfkJBh4bH_1sWx5t1wf2RfMKYe3OFEXJTmI5MYY6pFH25Ikmz3Sbb41FqUXJep2QWQscDTlZUZotgnLZinnKDSKJ-lMgDPrLwypHTW-cwkU2R1YRkw-Smf4BcZldCXrm-lGS5XAGW7AQ99miar7y696L7kFpHvCT1MEKA
-    widthPx: 2992
-    heightPx: 2992
-    authorAttributions:
-      - displayName: Vithaneth Vong
-        uri: https://maps.google.com/maps/contrib/101431334233573891014
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjWXRx02OTGz2ce5TRgbeUBIR7aQf0Ub2pdkSNGx4S6pcElAyw=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC_ifC5JA&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC_ifC5JA!2e10!4m2!3m1!1s0x886b51e86e78ad3f:0x36f6c84c15cb9c85
-  - name: >-
-      places/ChIJP614buhRa4gRhZzLFUzI9jY/photos/AeeoHcI8i7U18wth5ioDXUUQ267D2t9-gNESNWMUwWoZjRlE_J1d9kFao4UJjm5_cuiA3Khyzy7Ct-zBw4xj8max5l8wooxHm1k9rEC9fGHouOiDlAcVgSg_IJwokLsUUXKAi-FTf-oFNV1uY2rifN1Njz6zNqkHBQUXXgthaMZh06pW1bV4W9Khiy3PfRAyK0NyZdlfOLkywp3VVXts6KvQ6pspdKZdTaaFUXwfnTegGFqP0Wn40dYyV1KJhw9M_uvBH-CNsehfyfw7vrsCVxsfw4ueVxCX100qlUDbopVB_3o7_kin6WhBqXOVOP0p-w1-q14U1rCGZ84BlNme7FfUqfNURxvbhbLVWp6TMHTFMbll65TA5bh3SsSU8Zx11b42N-n1OJmsgUhCik61hKfrdfiAyFYsT_w0cF6Rkdq0-zHUMqiq
-    widthPx: 3024
-    heightPx: 4032
-    authorAttributions:
-      - displayName: Nicole Stewart
-        uri: https://maps.google.com/maps/contrib/108970396745957972651
-        photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocIvXmjhLIh31hdIZ1ZiyHMC8Rou_BJjTCmqijwC1NBshDPGQQ=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCA0N6qzgE&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCA0N6qzgE!2e10!4m2!3m1!1s0x886b51e86e78ad3f:0x36f6c84c15cb9c85
-  - name: >-
-      places/ChIJP614buhRa4gRhZzLFUzI9jY/photos/AeeoHcIwYylcqEdwQN3xOToNv4p6FNxpQajEfu_JwjgnYaDSD533cz4j4DvUBJwFnOjeC-ZGSelBmh4SjjwufiiqryktZVzpeWu_DRcrHSdCqa8Q_C16QO-LJIgIscEjhnDg53glvl8DiX_PXRXdZm1AaLptABKIoX3Ka8861n71nyULMRVjfUaeF59EHFvB0x_3nerYek412nNuMyW5C1Z2yW5YS6S6OeZLPfNQRmsdH8g864GYdMO-v7HjhShuJiI1EIVOd-nyQdMfbcbBeyJ7nPVjcokH4Dnyraqh7NLUIJR7pyWgoa59etUg0I_LH39wFldhauQ1fu2vvpa-3yeRy7FD7QOmsgcYpbdFV2Fzxtk4RttAnRgcozISJ-aoDgxGKy7MztaTCaFjMOrXAGCfj-JW5xJoG5oSdbLjnvBWWH7tHQ
+      places/ChIJPz1UXcxQa4gRABkkLqvJQ0c/photos/AeeoHcJC_9td4OPLHSFPkTyHHd14oN8_mfyoeUmCLvYAxvQVbkc1uFApy9TOby_fDVfPpR5LuQzPi68p7f_QXZ112j7xJqGC9HLrXMGrRuTjQCGUigOttn5pUpW024lpwwd3Xgd3sUeW0adNlZYyNGpciQ1SOM04GivnidNzKX3-tJ5gDc79McGEdogMLR09WxtAC-smPIL1ChIKDcQCdoD8iNg1cYPJjwHgC-JJsNIgTT4XuMXbr9eBfc4MIcAUNauSA4nHUZ00-1qAApdaoYkODUXOQi2HQlaY6DLMWxe07DEmpA
     widthPx: 4800
     heightPx: 3204
     authorAttributions:
-      - displayName: Brian Steenhoek
-        uri: https://maps.google.com/maps/contrib/107805730877257894606
+      - displayName: Sushi Boss
+        uri: https://maps.google.com/maps/contrib/102324195482370476638
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjVTYRYDXcwF5OLb-jFmRqEGY5RcXRE3smRdzC_eTZR3gdtoomDX=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjWN-V__tpHgMcHLCqr7D0uhYLm5fPOosAQY50HPcon2YnLSeek=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDb-8j-KQ&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNSQQLCf5rUohwKNCyObGYCi1Bis_8Yjp6975K6&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDb-8j-KQ!2e10!4m2!3m1!1s0x886b51e86e78ad3f:0x36f6c84c15cb9c85
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNSQQLCf5rUohwKNCyObGYCi1Bis_8Yjp6975K6!2e10!4m2!3m1!1s0x886b50cc5d543d3f:0x4743c9ab2e241900
   - name: >-
-      places/ChIJP614buhRa4gRhZzLFUzI9jY/photos/AeeoHcLHBL2s8WniI_hXX-gPU8B0xHHSxoGdN9Y1DymuTUPUUCLlcTApHGWUf88TvP_5f0xFkdXWP9MQ2idorMXWLUTh3kkqzWyiFsksCuwEmxgBNvEy-3dnN3sWXv3DZBpkzE0_Q50R_Lm-yDK2USOUjpsLUF2ZXl7rPV5Q2--YonihcSNwnh3ecVnzevEWQ1S0f38E3S1an5LGZhCPEJpaFDv-bomvROR1-8U9TiNtd8IiOH_rOfUK2WYmo7Oh-o_p8oCn5vUiGbq_9U2hg-4-8y7aPt6iUWAIIWVgLBms_SH8PNBULF6fyV4PcNOvqTsH_rMvSKoJ0REGhV3t27sebwolTGDYYwYsnUCriIDMhKWKr_DYYrF9SCcFGJyzIx93JkxoPnAKXGBW_HgoDCt2Lrto00pvxS8GTnK1Ob5Ohfs
+      places/ChIJPz1UXcxQa4gRABkkLqvJQ0c/photos/AeeoHcLLT7d0iSeHc81deVWuGS63Ab0lxc8cUCB11z5gTDZrXOFISLtK3JkTM-RWvvDjUFnGxjNY3dxlAMhW2LTltSsxaPs3bTTRTzTyVOuApI6z41j_qtfKed3Yzm2GhevxJp9j23qWyiVGmZ8BnYxrQ5r2Y3rNPlHxGVkMGZY70HvHLR1sWShyg5pWJz7FqXDLEuAb5F4kvj6AlyIrpbrN1ELYqrGZ5YBW-bFuZtDRMKN2v3sZ6bJJE3KNINtzdHTqwLskPuQeGTsRAOiWzAXoQYCQpLLcLRxEXVAJnjSAd-fx0Q
+    widthPx: 2048
+    heightPx: 2048
+    authorAttributions:
+      - displayName: Sushi Boss
+        uri: https://maps.google.com/maps/contrib/102324195482370476638
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWN-V__tpHgMcHLCqr7D0uhYLm5fPOosAQY50HPcon2YnLSeek=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMsibjNgc8d-TkDa96Zbrr4NVgwD_5woILl3_CF&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMsibjNgc8d-TkDa96Zbrr4NVgwD_5woILl3_CF!2e10!4m2!3m1!1s0x886b50cc5d543d3f:0x4743c9ab2e241900
+  - name: >-
+      places/ChIJPz1UXcxQa4gRABkkLqvJQ0c/photos/AeeoHcJ_erkAXuUcO_K_aYj0Jr5Y2sQW_N6DDBRg592ccEjCQk3nFt9VKbCLSTNpMhRO5UhkhoMdPxhRBZSQhYXXZq40nAtZKa1Sw8QMbzpac7W63gAB7cRYgKw5TFTW7H2kEuaT0utaxU4wmK2s-fGG6MBSB5mNH3XNBwvCPdIu5BAmVhTrkvqUC_dk6gDCvoW5R7kqzlQ9KGnZwHZ9jLLulG1kvVLifkVjOnYu1sQH8LJ9W-IINi3fEheipAdXtCA_4Bok4lw5fB8N44PY_opaCQBT_B78QxJqKQqwd6qXlSDLyOytvaUT7MFpklCHF1aFFHRotZXTHBr_6fAa2mxeoOgwVtifHXhfG3rWk4JhLnyLLPSSWRzal2at_CR3Ac65QtpVdhiOHmJJJoQwl3hsr1UOmzlWhpXEAGVzN1Ye3Qc
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
-      - displayName: Luis Aragon
-        uri: https://maps.google.com/maps/contrib/103539929699002415920
+      - displayName: Michelle Anderson
+        uri: https://maps.google.com/maps/contrib/103025129713510155319
         photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocKY_0aSbUYPyMAWySPusnRdQPYAoKI2WHMEIV1BFeDBoTxfKQ=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a/ACg8ocKtDyer3ZvA8SqtptZ3hdPnndjGFH8ZD1lcTWy0ZE5T-BIlCw=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCAldnXWw&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCI8ubcCg&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCAldnXWw!2e10!4m2!3m1!1s0x886b51e86e78ad3f:0x36f6c84c15cb9c85
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCI8ubcCg!2e10!4m2!3m1!1s0x886b50cc5d543d3f:0x4743c9ab2e241900
   - name: >-
-      places/ChIJP614buhRa4gRhZzLFUzI9jY/photos/AeeoHcKfEO29jydPi_M_AoohGSNRgwgXVJfGxvV9bL2hd1gfatOJPoOSbJtHY8SaZwaa6KIMkXC3KI5NkPa1L9fnvb8ZGjSKDAqFtdTVK_WKB_ZXkuXrqeMXlYLCpg9z_ZUfojeoA7q8BA28PN20wDK5mFbfMCneX4NtcZwIg4OzGsnj_OquWqlCmGw3DLGxuMCVw5pfjYMI1O9B5vpDHigeqa0XK5Q4QkDx2sLRP0VEhlZXayE1WG0Pex_2ryKdCjm7mRB5JgA27X87o71_k2JRBfU_HzpzU8o8x1wqLPtgX9Rpgqg2OnN9PIMJpCpMQtsRByn-QKz5nXToFL2mVvBb53-iMqVvvkEaR7fQ3fyunBsTjIcY6Pr03br7h5SEHFSh7vuSKUoZh3hkkoDQGJaOmfiEe8CNvxfJlYAJUkg5Qi94IQ
+      places/ChIJPz1UXcxQa4gRABkkLqvJQ0c/photos/AeeoHcIIRGz3AqjmL5T8f70v6DiReVsMbs3c9E7-EJxYL4dRyd9Wk8-0NfX7oPBJ3jeFBIECsm7tYxLJuKOfNnAGx65xeiPwUIlhnVpCnLyX3Kh7qSBjT2PoA_8hfu1gb4pxi8XicLkPsMXaywejcweduE8dalyFPFMsly8rpQfV2uL4wOEbpzpZpO2_nwxHdG6CO7k5SPN8_7yd3K0hrwP1EmtGL52UP3rOi6IDTontY1VDbR_TQ2p9hlVvaszDcCwskJAzpltGIGqOmQHe60SsfoM7kTacVEx0nDiwmEdaWTnMcbdoLDfgHYzijaQi2p0VnhtRMJEpNknFkNbWYeYC1GzjKoaSHV1GHmweDlMMSSLuJ83TQANU42LMCzyTbRuLH1Na-weeSE0Ri8FpvVNX7KDHdT2xzjF_KejePiKUwVroBfUG
     widthPx: 4032
     heightPx: 3024
     authorAttributions:
-      - displayName: Megan J.
-        uri: https://maps.google.com/maps/contrib/107686580607433779538
+      - displayName: Jamie Thurston
+        uri: https://maps.google.com/maps/contrib/117584301838054809434
         photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocInnYn2z65uBPRkMW-5opoy7s9hLIno3nnsE_XBfI5zhWTRVg=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjUqA1u_M-vt3FWjezDK-eXv0y4guVwfBq60MFbbzobg_yHqRewh=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC3wommCg&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDpisevzAE&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC3wommCg!2e10!4m2!3m1!1s0x886b51e86e78ad3f:0x36f6c84c15cb9c85
-address: 26 Monument Cir, Indianapolis, IN 46204, USA
-street: 26 Monument Cir
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDpisevzAE!2e10!4m2!3m1!1s0x886b50cc5d543d3f:0x4743c9ab2e241900
+  - name: >-
+      places/ChIJPz1UXcxQa4gRABkkLqvJQ0c/photos/AeeoHcJ6hs5UFEu-MvKKWgcPdqT5dXHte4i32E2U-hPw1zpKQdHxhb6wham6gRQ-OZm73UiHC2_ETx2O0lZNI8SRAyY5qInHxxHK0ASD6MNouqItDJaml_qAzh8LMSvmJAQSZMS4r94S59kJatzE5NnuQ-kuFkQrDF2V4G5LiaTTjQ2VXsJBobLP4ztAViB9Lo8ZFhopH9ucBLOtAd6Jmr3LzA0776a3qpY0wtwLNa5JHQWYy1QptZCKze6V1tjqowYOkwQVvb-9WQsGZA9UqdxEJZrYrHcb7_pJdGreEQftp1NoZqNPkHdjEDpC8AWa6IkA4mXVvNsmKXb7JeVFOZi9lSXkxMsB1-oupSl_ILadOlUT5bxv87Kew-1_VYGfwuii_WrXxtPi_RgQyRIaWRTPrOmhr8Tp9gJKnGI-qxfg9w48lA
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Raquel Nuñez
+        uri: https://maps.google.com/maps/contrib/100345541321056456426
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjV3SOY3_Jgc9RpKmDgWsjan0Xr__xLyth6S8vc64DrTdcH3aYgb0g=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICxn8m4Yg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICxn8m4Yg!2e10!4m2!3m1!1s0x886b50cc5d543d3f:0x4743c9ab2e241900
+  - name: >-
+      places/ChIJPz1UXcxQa4gRABkkLqvJQ0c/photos/AeeoHcKsthzSotMusgX0aFnCxwJejiuEb2Lgxr_qTrwmIN9TWoPsOt3tTMuS31hKic7BOcGcsAQhMDyE0FQPYrJZc7O4NQ_aRiLVdxMt-onGOkSEDbGGNEupLeAW57Fc3V6xGZZbOAwiU7fE7lNlOmP3mfZpgvDuxW9CS8GhyfKcN8GKavz8CdGU7_lGOxbbSjoVJgXa2F9zdShCt3eyaW__zFOzvDNby8-6tw0x6K3Z-m7oUyOeDlzdFD6PgNRe0hwxoK-2us2F6l4fjMEMSOt47ezr5Vj8umNDiwGvwlLHU3rxFKLTUHnch8fbX-pFU5qPZl6P7P9OX4NO2zFNM6Q-901S7UHC0NQVYZP6JtZdw6KF9I5HJzPyJPbK5I-TWvgFoEELFLcNA03HjF38S3aapCEhk1Jcq4M-8xS4ogdYq8nCuTV0
+    widthPx: 2929
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Stephanie W
+        uri: https://maps.google.com/maps/contrib/105709070353588812994
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXu6t1LSy94WmEi-jdl0VHPz0B9716xQsJHXfBLEQm5S2o1H1Mz=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDr86Da4QE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDr86Da4QE!2e10!4m2!3m1!1s0x886b50cc5d543d3f:0x4743c9ab2e241900
+  - name: >-
+      places/ChIJPz1UXcxQa4gRABkkLqvJQ0c/photos/AeeoHcL263aFtcpLmf7AD3-VSHffBUGz5J3x-LnCMAJr5ACkk_sL9eRyAEV9IbfA-fMfcyKqNrq-o3wuFOI8Q_LsD2CogKcQSjqa6LiadhqiiYS-Z61w83TYV6Hq1Z4G0CrpDqUFlQVsQInAo2IxBGpxH3NzEzBF0peQk5K63pk5YpQljnUHsco3ma4K3A0zDEYpDf-T4eeBEkEkdX7Em-D38ExPbcNZOj-fUBsbrbxdtMuwSm_3Fbs1kWavaXBymYu4gtDNfgn4UxOsg-NsbffLmExS4HM0cK4xGNd4ow-Feax49QLMBKbxRIs03zKwV5qy3JRzgFnKl4GkWAgh5NE8F1_DKcl8i0wKmSMsynDzte0vdf7f1cwXQio9d16KeC5FkoPq8ZghyjvIqtbIfqMgxzd2_US2OekhZAPvMhHQfML0KMk
+    widthPx: 3936
+    heightPx: 2952
+    authorAttributions:
+      - displayName: S G
+        uri: https://maps.google.com/maps/contrib/118409196171602771109
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWI9PuYGuZMZd0awoFDFMeGg0aGFZn6C0A5VzBR6NwFY101pI5N=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICq1qWVwwE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICq1qWVwwE!2e10!4m2!3m1!1s0x886b50cc5d543d3f:0x4743c9ab2e241900
+  - name: >-
+      places/ChIJPz1UXcxQa4gRABkkLqvJQ0c/photos/AeeoHcLVs94v67GbrebfOkgK2V0SmydV59fcig5Ix3DakS5LQRV7qS0J1cbRzu27Nq-lZP0wwEmSY6Dx_ohjrOGgbCZFfPI_O0IHZHsG5g6P2LRoijr-Ba7kUay5UVcRIfKO8zoN0MHThdFJPHGceo7mRkS5IluwVcATI7HCt8MPGzNjt07cAKcbyUdp-FQVqKTXvU0S44slPsA3Ksy-aEverWiO0jQ6TMcd9PUPFSp8nFBJ7by_PhFw8Zb5ymKNkIitgmP6mqMUtmsohw9VIqohilIX-3G1FWYBp9Ua2iMWLNMQaHVX2lbUSb2hYsbF-6ol3GHxtjqMeaLkWe0SxEN_fEOhqCHk2TAzb_U992Zm1Ubx3dt1FldN7aQ7zM1QeLxto1M3yqvyyzjEHhMWFOT8qJFnJq37KH12LlXo1VjOCaNK7iim
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Eva Villatoro
+        uri: https://maps.google.com/maps/contrib/105493117003258562181
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVCKe2o_ULXcLT1dbFgFQY9zC5pFv_DUA7Y7LL_cBtCpK8CimRc=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDv4u255QE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDv4u255QE!2e10!4m2!3m1!1s0x886b50cc5d543d3f:0x4743c9ab2e241900
+  - name: >-
+      places/ChIJPz1UXcxQa4gRABkkLqvJQ0c/photos/AeeoHcL7VtMjfzgSgTFIw-BGWvIvz9cJRX-gQRWZhQ47YI6HqDj0Zy1YXn2fT4f0aoKVPUUQLlyEuyY221CdeYpRNgcEbc9fKJmHZHB0N4hbcBzzi_XVX_lgWPt0XocFPoT8J7Y33vbnQ5qHCdfwvAQiFO1zOwTRIl1qYeHWZQBwaO1pfL8TORBAjYii8Be2LznzrWgcW5KsES0uYchMwucYuqrVV4R5fqAsV9s-Gg8kPBubPA-UKLtgtZ_hC6r1tFofuExLNG10O1F0WV3aPCFdILArvUMgVPCXOgWk35YDnAiTHCzCJAqP_DlIAu0fJK3yvcRG6OOenqp8uh0CyiPBMRwt7_FunMonVotmYKQVz07EztimTZmdo0j04hTMRASu1pfFloIf3I4kglwZvR0IcopYIrk44dspfmwGMloPs0y0CQ
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Brenton Frame
+        uri: https://maps.google.com/maps/contrib/104012415806948594403
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjWN53FDWYGiFhHAWsejgCYC0wfGLQ5eTciA_fnAz22ZWyGbadJ3vg=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDqlvPaFw&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDqlvPaFw!2e10!4m2!3m1!1s0x886b50cc5d543d3f:0x4743c9ab2e241900
+  - name: >-
+      places/ChIJPz1UXcxQa4gRABkkLqvJQ0c/photos/AeeoHcKk6GBhaX8Fma1WjrGcIv4SQa2FvEewJuIp_XtFhjfbWgDIwKeBoyx5_mqJK2rLPd35srC6v_JIEm7vKzkyy4EvZSiLU3TO9BMsdXFtJj9kge8tCUXlaKPy_4zoUpDHgwvImVud3pnFoypfqGYvNwFShskxqZ8kyYQF0WkbWC0VupZUxGAcyj8OQBAvyjCbrpY7sAZzHbav-9XJ16yfRWQ6yeNe4ABu9QqM5mtkHBAF8UdXLyStkW7Z0DyH1GqTdOOSriel99BcCV8-GAlDi024RVL5YWOVEMC_0_GJG_JorNqbYgk7yGGqGkgRbFf77U8YUQEMJBEYNl9tpwi3XmqOBnwb6S4Lv5ieShqGqC7Q7f3vVAT7NF0SZ4J_heTXJ9XW2uIBcOTduBZIxrC5thoZhKsb2mAeHil6yBC109_Rikk
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Michelle Anderson
+        uri: https://maps.google.com/maps/contrib/103025129713510155319
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocKtDyer3ZvA8SqtptZ3hdPnndjGFH8ZD1lcTWy0ZE5T-BIlCw=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCI8ubcigE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCI8ubcigE!2e10!4m2!3m1!1s0x886b50cc5d543d3f:0x4743c9ab2e241900
+address: 803 W 10th St, Indianapolis, IN 46202, USA
+street: 803 W 10th St
 city: Indianapolis
 state: IN
-zip: '46204'
+zip: '46202'
 country: USA
-neighborhood: Mile Square
-latitude: '39.767874'
-longitude: '-86.158241'
+neighborhood: Downtown
+latitude: '39.780555'
+longitude: '-86.172066'
 accessibility_options:
   wheelchairAccessibleParking: true
   wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
+  wheelchairAccessibleSeating: true
 business_status: OPERATIONAL
 name: Sushi Boss
 google_maps_links:
   directionsUri: >-
-    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x886b51e86e78ad3f:0x36f6c84c15cb9c85!3e0
-  placeUri: https://maps.google.com/?cid=3960573151427665029
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x886b50cc5d543d3f:0x4743c9ab2e241900!3e0
+  placeUri: https://maps.google.com/?cid=5135169737183205632
   writeAReviewUri: >-
-    https://www.google.com/maps/place//data=!4m3!3m2!1s0x886b51e86e78ad3f:0x36f6c84c15cb9c85!12e1
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x886b50cc5d543d3f:0x4743c9ab2e241900!12e1
   reviewsUri: >-
-    https://www.google.com/maps/place//data=!4m4!3m3!1s0x886b51e86e78ad3f:0x36f6c84c15cb9c85!9m1!1b1
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x886b50cc5d543d3f:0x4743c9ab2e241900!9m1!1b1
   photosUri: >-
-    https://www.google.com/maps/place//data=!4m3!3m2!1s0x886b51e86e78ad3f:0x36f6c84c15cb9c85!10e5
-primary_type: Restaurant
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x886b50cc5d543d3f:0x4743c9ab2e241900!10e5
+primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 10
+        minute: 30
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 10
+        minute: 30
+      close:
+        day: 1
+        hour: 23
+        minute: 0
+    - open:
+        day: 2
+        hour: 10
+        minute: 30
+      close:
+        day: 2
+        hour: 23
+        minute: 0
+    - open:
+        day: 3
+        hour: 10
+        minute: 30
+      close:
+        day: 3
+        hour: 23
+        minute: 0
+    - open:
+        day: 4
+        hour: 10
+        minute: 30
+      close:
+        day: 4
+        hour: 23
+        minute: 0
+    - open:
+        day: 5
+        hour: 10
+        minute: 30
+      close:
+        day: 6
+        hour: 0
+        minute: 0
+    - open:
+        day: 6
+        hour: 10
+        minute: 30
+      close:
+        day: 0
+        hour: 0
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 10:30 AM – 11:00 PM'
+    - 'Tuesday: 10:30 AM – 11:00 PM'
+    - 'Wednesday: 10:30 AM – 11:00 PM'
+    - 'Thursday: 10:30 AM – 11:00 PM'
+    - 'Friday: 10:30 AM – 12:00 AM'
+    - 'Saturday: 10:30 AM – 12:00 AM'
+    - 'Sunday: 10:30 AM – 10:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -177,13 +242,48 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (317) 955-2677
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.5'
+rating_count: 1206
+website: http://www.sushiboss.com/
+description: >-
+  Discover Sushi Boss in Indianapolis$$$Sushi Boss in Indianapolis, IN, is a
+  lively fast-casual spot that excels in offering fresh, customizable sushi
+  rolls tailored to individual tastes. This eatery combines quality ingredients
+  with a selection of sake and wine, creating an inviting atmosphere for those
+  exploring Japanese-inspired dining options nearby. With excellent
+  accessibility features like wheelchair-friendly parking and entrances, it's
+  designed to accommodate everyone comfortably. The restaurant maintains
+  extended hours, making it convenient for lunch, dinner, or late-night
+  cravings, and its moderate pricing adds to the appeal for budget-conscious
+  sushi enthusiasts.
+generative_summary: >-
+  Discover Sushi Boss in Indianapolis$$$Sushi Boss in Indianapolis, IN, is a
+  lively fast-casual spot that excels in offering fresh, customizable sushi
+  rolls tailored to individual tastes. This eatery combines quality ingredients
+  with a selection of sake and wine, creating an inviting atmosphere for those
+  exploring Japanese-inspired dining options nearby. With excellent
+  accessibility features like wheelchair-friendly parking and entrances, it's
+  designed to accommodate everyone comfortably. The restaurant maintains
+  extended hours, making it convenient for lunch, dinner, or late-night
+  cravings, and its moderate pricing adds to the appeal for budget-conscious
+  sushi enthusiasts.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Folks heading to Sushi Boss often highlight the
+  delicious variety of customizable rolls that make every meal feel personal and
+  exciting. Many appreciate the solid options for non-seafood lovers, like
+  flavorful short rib dishes that keep things inclusive and satisfying. Service
+  stands out as quick and welcoming, paired with reasonable prices that make it
+  a smart choice for casual outings or groups. The recent updates to the space
+  have boosted the overall vibe, creating a more enjoyable environment without
+  breaking the bank. All in all, it's a reliable pick for anyone seeking
+  top-notch sushi experiences in the area, with positive vibes dominating the
+  feedback.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -209,7 +309,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

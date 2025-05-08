@@ -5,4 +5,5 @@ permalink: /kentucky/richmond/
 stateAbbr: KY
 stateName: Kentucky
 cityName: Richmond
+
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Umai Asian Bistro"
+title: Umai Asian Bistro
 permalink: /new-york/kings-park/umai-asian-bistro.html
 stateAbbr: NY
 stateName: New York
 cityName: Kings Park
 seo:
-  name: "Umai Asian Bistro"
-  type: Restaurant
+  type: restaurant
   links: https://www.umaiasianbistro.com/
-description: "Umai Asian Bistro serves delicious sushi in Kings Park, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJASU3RgE76IkR21r-pwyqUao
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89e83b0146372501:0xaa51aa0ca7fe5adb!10e5
 primary_type: Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 9:30 PM'
     - 'Tuesday: 11:30 AM – 9:30 PM'
     - 'Wednesday: 11:30 AM – 9:30 PM'
@@ -178,28 +234,115 @@ opening_hours:
     - 'Friday: 11:30 AM – 10:00 PM'
     - 'Saturday: 11:30 AM – 10:00 PM'
     - 'Sunday: 12:30 – 9:30 PM'
-  current:
-    - 'Monday: 11:30 AM – 9:30 PM'
-    - 'Tuesday: 11:30 AM – 9:30 PM'
-    - 'Wednesday: 11:30 AM – 9:30 PM'
-    - 'Thursday: 11:30 AM – 9:30 PM'
-    - 'Friday: 11:30 AM – 10:00 PM'
-    - 'Saturday: 11:30 AM – 10:00 PM'
-    - 'Sunday: 12:30 – 9:30 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 1
+          hour: 3
+          minute: 30
+        close:
+          day: 1
+          hour: 18
+          minute: 30
+      - open:
+          day: 2
+          hour: 3
+          minute: 30
+        close:
+          day: 2
+          hour: 18
+          minute: 30
+      - open:
+          day: 3
+          hour: 3
+          minute: 30
+        close:
+          day: 3
+          hour: 18
+          minute: 30
+      - open:
+          day: 4
+          hour: 3
+          minute: 30
+        close:
+          day: 4
+          hour: 18
+          minute: 30
+      - open:
+          day: 5
+          hour: 3
+          minute: 30
+        close:
+          day: 5
+          hour: 18
+          minute: 30
+      - open:
+          day: 6
+          hour: 3
+          minute: 30
+        close:
+          day: 6
+          hour: 18
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 3:30 AM – 6:30 PM'
+      - 'Tuesday: 3:30 AM – 6:30 PM'
+      - 'Wednesday: 3:30 AM – 6:30 PM'
+      - 'Thursday: 3:30 AM – 6:30 PM'
+      - 'Friday: 3:30 AM – 6:30 PM'
+      - 'Saturday: 3:30 AM – 6:30 PM'
+      - 'Sunday: Closed'
+    secondaryHoursType: HAPPY_HOUR
+    nextCloseTime: '2025-05-03T22:30:00Z'
 phone: (631) 544-4666
 price_level: PRICE_LEVEL_MODERATE
 price_range: $30 &ndash; $50
-rating: '4.4'
-rating_count: 0
+rating: '4.5'
+rating_count: 105
 website: https://www.umaiasianbistro.com/
+description: >-
+  Explore Umai Asian Bistro in Kings Park, New York$$$Umai Asian Bistro in Kings
+  Park, New York, offers a welcoming spot for enjoying fresh Asian-inspired
+  dishes in a cozy setting. This restaurant stands out with its accessible
+  features, including wheelchair-friendly parking and entrances, making it easy
+  for everyone to savor the experience. Diners can expect a menu that highlights
+  flavorful options like expertly prepared sushi and other Japanese-inspired
+  favorites, perfect for those searching for top-rated sushi near them. The
+  bistro maintains moderate pricing, appealing to those looking for quality
+  meals without breaking the bank, and its extended hours ensure it's a
+  convenient choice for lunch or dinner. With a vibrant atmosphere and reliable
+  service, it's an ideal destination for anyone exploring sushi places near me
+  in the area.
+generative_summary: >-
+  Explore Umai Asian Bistro in Kings Park, New York$$$Umai Asian Bistro in Kings
+  Park, New York, offers a welcoming spot for enjoying fresh Asian-inspired
+  dishes in a cozy setting. This restaurant stands out with its accessible
+  features, including wheelchair-friendly parking and entrances, making it easy
+  for everyone to savor the experience. Diners can expect a menu that highlights
+  flavorful options like expertly prepared sushi and other Japanese-inspired
+  favorites, perfect for those searching for top-rated sushi near them. The
+  bistro maintains moderate pricing, appealing to those looking for quality
+  meals without breaking the bank, and its extended hours ensure it's a
+  convenient choice for lunch or dinner. With a vibrant atmosphere and reliable
+  service, it's an ideal destination for anyone exploring sushi places near me
+  in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Feedback on Umai Asian Bistro Experiences$$$Visitors to Umai Asian Bistro
+  often rave about the consistently tasty dishes and welcoming vibe, making it a
+  go-to for casual meals with friends. Many appreciate the fresh flavors in the
+  sushi selections, noting how they hit the spot for anyone craving reliable
+  Japanese-inspired options nearby. While a few mentions highlight minor waits
+  during peak times, the overall consensus leans positive, with folks enjoying
+  the attentive staff and solid portion sizes. It's clear that the spot delivers
+  on value, earning nods as one of the better sushi restaurants around for its
+  balance of taste and affordability. If you're on the hunt for great sushi
+  close to you, this place seems to keep customers coming back for more
+  satisfying visits.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +368,7 @@ serves_lunch: false
 serves_vegetarian_food: false
 serves_wine: false
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Nijiya Sushi"
+title: Nijiya Sushi
 permalink: /massachusetts/medford/nijiya-sushi.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Medford
 seo:
-  name: "Nijiya Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.nijiyasushi.net/
-description: "Laid-back locale offering all-you-can-eat sushi & other Japanese dishes, plus sake & lunch specials. Nijiya Sushi serves delicious sushi in Medford, Massachusetts. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJO9QXBrh244kRA0kF9QiZqXQ
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $30 &ndash; $50
 rating: '4.3'
 rating_count: 0
 website: http://www.nijiyasushi.net/
+description: >-
+  Explore Nijiya Sushi in Medford, MA$$$Nestled in the heart of Medford, MA,
+  Nijiya Sushi stands out as a casual spot for enjoying fresh Japanese cuisine,
+  particularly its all-you-can-eat sushi options that draw in fans of authentic
+  flavors. The restaurant boasts an extensive menu featuring a variety of sushi
+  rolls and other traditional dishes, all prepared with high-quality ingredients
+  that highlight the best of Japanese dining. Accessibility features like
+  wheelchair-friendly entrances and seating make it a welcoming choice for
+  everyone seeking sushi restaurants nearby. With moderate pricing and a focus
+  on satisfying meals, it's an ideal destination for those craving top-rated
+  sushi experiences without breaking the bank. Whether you're in the mood for a
+  quick lunch or a leisurely dinner, this spot delivers a reliable taste of
+  Japan right in your neighborhood.
+generative_summary: >-
+  Explore Nijiya Sushi in Medford, MA$$$Nestled in the heart of Medford, MA,
+  Nijiya Sushi stands out as a casual spot for enjoying fresh Japanese cuisine,
+  particularly its all-you-can-eat sushi options that draw in fans of authentic
+  flavors. The restaurant boasts an extensive menu featuring a variety of sushi
+  rolls and other traditional dishes, all prepared with high-quality ingredients
+  that highlight the best of Japanese dining. Accessibility features like
+  wheelchair-friendly entrances and seating make it a welcoming choice for
+  everyone seeking sushi restaurants nearby. With moderate pricing and a focus
+  on satisfying meals, it's an ideal destination for those craving top-rated
+  sushi experiences without breaking the bank. Whether you're in the mood for a
+  quick lunch or a leisurely dinner, this spot delivers a reliable taste of
+  Japan right in your neighborhood.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJO9QXBrh244kRA0kF9QiZqXQ/reviews/ChZDSUhNMG9nS0VJQ0FnTURncWNPUmZnEAE
@@ -422,6 +447,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNMeFlpQTVnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNMeFlpQTVnRRAB!2m1!1s0x89e376b80617d43b:0x74a99908f5054903
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors to this sushi spot often rave about
+  the fresh and flavorful selections, making it a go-to for anyone hunting for
+  great sushi close to home. Many highlight the impressive value of the
+  all-you-can-eat deals, with plenty of tasty options that leave diners feeling
+  satisfied and eager to return. While the service is frequently described as
+  quick and attentive, some note it can vary depending on the time of visit,
+  adding a bit of unpredictability to the experience. Overall, the variety of
+  dishes and generous portions keep the atmosphere lively and enjoyable, perfect
+  for groups or solo adventurers looking for a solid meal. If you're exploring
+  Japanese places near me, this location earns high marks for its reliable
+  quality and fun dining vibe.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidParkingLot: true
   freeStreetParking: true
@@ -455,8 +493,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Laid-back locale offering all-you-can-eat sushi & other Japanese dishes, plus
   sake & lunch specials.
 

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Umi North Kitchen and Sushi Bar"
+title: Umi North Kitchen and Sushi Bar
 permalink: /washington/spokane/umi-north-kitchen-and-sushi-bar.html
 stateAbbr: WA
 stateName: Washington
 cityName: Spokane
 seo:
-  name: "Umi North Kitchen and Sushi Bar"
-  type: Restaurant
+  type: restaurant
   links: https://umispokane.com/
-description: "Umi North Kitchen and Sushi Bar serves delicious sushi in Spokane, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJY-G0-WgdnlQRoc8HK9rLemU
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x549e1d68f9b4e163:0x657acbda2b07cfa1!10e5
 primary_type: Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 20
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 20
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 20
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 8:30 PM'
     - 'Tuesday: 11:00 AM – 8:30 PM'
     - 'Wednesday: 11:00 AM – 8:30 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 8:30 PM'
     - 'Saturday: 11:00 AM – 8:30 PM'
     - 'Sunday: 11:00 AM – 8:30 PM'
-  current:
-    - 'Monday: 11:00 AM – 8:30 PM'
-    - 'Tuesday: 11:00 AM – 8:30 PM'
-    - 'Wednesday: 11:00 AM – 8:30 PM'
-    - 'Thursday: 11:00 AM – 8:30 PM'
-    - 'Friday: 11:00 AM – 8:30 PM'
-    - 'Saturday: 11:00 AM – 8:30 PM'
-    - 'Sunday: 11:00 AM – 8:30 PM'
+  nextCloseTime: '2025-05-04T03:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,10 +245,46 @@ secondary_opening_hours:
 phone: (509) 315-9931
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
-rating: '4.4'
-rating_count: 0
+rating: '4.3'
+rating_count: 118
 website: https://umispokane.com/
+description: >-
+  Discover Umi North Kitchen and Sushi Bar in Spokane, WA$$$Umi North Kitchen
+  and Sushi Bar in Spokane, WA, stands out as a go-to spot for fresh
+  Japanese-inspired cuisine, blending traditional flavors with a welcoming vibe
+  that's perfect for casual meals. This restaurant features a variety of sushi
+  options that highlight high-quality ingredients, making it an ideal choice for
+  those searching for top-rated sushi experiences nearby. With accessibility
+  features like wheelchair-friendly parking and entrances, it ensures everyone
+  can enjoy a comfortable visit. The menu draws from Asian influences, offering
+  dishes that pair well with the laid-back atmosphere, and its consistent hours
+  from 11 AM to 8:30 PM daily add to the convenience for locals and visitors
+  alike seeking sushi places near me.
+generative_summary: >-
+  Discover Umi North Kitchen and Sushi Bar in Spokane, WA$$$Umi North Kitchen
+  and Sushi Bar in Spokane, WA, stands out as a go-to spot for fresh
+  Japanese-inspired cuisine, blending traditional flavors with a welcoming vibe
+  that's perfect for casual meals. This restaurant features a variety of sushi
+  options that highlight high-quality ingredients, making it an ideal choice for
+  those searching for top-rated sushi experiences nearby. With accessibility
+  features like wheelchair-friendly parking and entrances, it ensures everyone
+  can enjoy a comfortable visit. The menu draws from Asian influences, offering
+  dishes that pair well with the laid-back atmosphere, and its consistent hours
+  from 11 AM to 8:30 PM daily add to the convenience for locals and visitors
+  alike seeking sushi places near me.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Diners Are Buzzing About$$$Folks often praise the tasty and vibrant sushi
+  selections at this spot, with standout dishes that bring a fresh twist to
+  favorites like fish-inspired rolls and hearty noodle options. The service gets
+  high marks for being warm and attentive, creating a relaxed environment that's
+  especially family-oriented and enjoyable for groups. While a few notes mention
+  the rice in some sushi could use a bit more refinement, it doesn't overshadow
+  the overall positive vibes. In general, visitors appreciate the welcoming
+  setup that makes every meal feel special, encouraging repeat trips for anyone
+  hunting for reliable sushi restaurants in the area.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +310,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

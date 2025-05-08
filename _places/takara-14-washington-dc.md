@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Takara 14"
+title: Takara 14
 permalink: /district-of-columbia/washington/takara-14.html
 stateAbbr: DC
 stateName: District of Columbia
 cityName: Washington
 seo:
-  name: "Takara 14"
-  type: Restaurant
+  type: restaurant
   links: https://www.takara14thst.com/
-description: "Takara 14 serves delicious sushi in Washington, District of Columbia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJvZlhe9K3t4kR4zsnq95xpi0
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $50 &ndash; $100
 rating: '4.3'
 rating_count: 0
 website: https://www.takara14thst.com/
+description: >-
+  About Takara 14 in Washington, DC$$$Takara 14 in Washington, DC, stands out as
+  a premier Japanese restaurant offering an inviting atmosphere and a menu
+  filled with fresh, authentic flavors that appeal to sushi enthusiasts. This
+  spot excels in creative dishes like expertly crafted rolls and appetizers,
+  making it a go-to choice for those searching for top-rated sushi options in
+  the area. The cozy ambiance and thoughtful drink selections, including
+  specialty cocktails, enhance the overall dining experience, perfect for casual
+  outings or memorable evenings. Accessibility features such as
+  wheelchair-friendly seating add to its appeal, ensuring a welcoming
+  environment for all visitors. Whether you're exploring Japanese places near me
+  or seeking the best sushi restaurants, Takara 14 delivers a satisfying blend
+  of quality and charm.
+generative_summary: >-
+  About Takara 14 in Washington, DC$$$Takara 14 in Washington, DC, stands out as
+  a premier Japanese restaurant offering an inviting atmosphere and a menu
+  filled with fresh, authentic flavors that appeal to sushi enthusiasts. This
+  spot excels in creative dishes like expertly crafted rolls and appetizers,
+  making it a go-to choice for those searching for top-rated sushi options in
+  the area. The cozy ambiance and thoughtful drink selections, including
+  specialty cocktails, enhance the overall dining experience, perfect for casual
+  outings or memorable evenings. Accessibility features such as
+  wheelchair-friendly seating add to its appeal, ensuring a welcoming
+  environment for all visitors. Whether you're exploring Japanese places near me
+  or seeking the best sushi restaurants, Takara 14 delivers a satisfying blend
+  of quality and charm.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJvZlhe9K3t4kR4zsnq95xpi0/reviews/ChdDSUhNMG9nS0VJQ0FnSURmLW95YWhnRRAB
@@ -368,6 +393,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNJbmRYU2VREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNJbmRYU2VREAE!2m1!1s0x89b7b7d27b6199bd:0x2da671deab273be3
+review_summary: >-
+  What Visitors Are Buzzing About$$$Folks who dine at this sushi spot often rave
+  about the delicious rolls and appetizers that bring authentic Japanese flavors
+  to life, making it a solid pick for anyone craving fresh tastes. Many
+  highlight the friendly service and cozy vibe that make meals feel relaxed and
+  enjoyable, with drinks like sake pairings adding a fun twist to the
+  experience. While the prices lean toward the higher end, the overall value
+  shines through in the creative presentations and satisfying portions that keep
+  people coming back. It's clear that this place earns its reputation as a
+  top-rated option, though some note that the menu could offer more innovation
+  for the cost. All in all, if you're on the hunt for great sushi near me, this
+  restaurant provides a reliably positive outing with plenty to appreciate.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: {}
 payment_options:
   acceptsCreditCards: true
@@ -397,7 +435,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

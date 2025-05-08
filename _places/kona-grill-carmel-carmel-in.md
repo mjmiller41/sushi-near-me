@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kona Grill - Carmel"
+title: Kona Grill - Carmel
 permalink: /indiana/carmel/kona-grill-carmel.html
 stateAbbr: IN
 stateName: Indiana
 cityName: Carmel
 seo:
-  name: "Kona Grill - Carmel"
-  type: Restaurant
+  type: restaurant
   links: https://konagrill.com/locations?locations=Carmel
-description: "Sleek chain with a broad New American menu including low-calorie options, plus sushi & cocktails. Kona Grill - Carmel serves delicious sushi in Carmel, Indiana. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJjyQv59WtFIgRNT6E-2aNBL0
 photos:
   - name: >-
@@ -143,7 +141,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMqq3YNfjkyT3bdoo7ntEbH9Li626bm5tP1IK2Z!2e10!4m2!3m1!1s0x8814add5e72f248f:0xbd048d66fb843e35
 address: Clay Terrace Shopping Center, 14395 Clay Terrace Blvd, Carmel, IN 46032, USA
-street: Clay Terrace Shopping Center, 14395 Clay Terrace Blvd
+street: Clay Terrace Shopping Center,14395 Clay Terrace Blvd
 city: Carmel
 state: IN
 zip: '46032'
@@ -185,6 +183,31 @@ price_range: null
 rating: '4.6'
 rating_count: 0
 website: https://konagrill.com/locations?locations=Carmel
+description: >-
+  Discover Kona Grill in Carmel, IN$$$Kona Grill in Carmel, IN, stands out as a
+  modern American grill offering a blend of global flavors that cater to those
+  seeking fresh sushi and creative cocktails in a relaxed setting. This spot
+  features a diverse menu with highlights like inventive rolls and light bites,
+  making it a go-to for anyone exploring sushi restaurants nearby. Accessibility
+  is a key plus, with options like wheelchair-friendly entrances and outdoor
+  seating that enhance the dining experience. Set within a vibrant shopping
+  center, it provides a casual atmosphere perfect for both quick meals and
+  leisurely gatherings, appealing to locals and visitors alike. Whether you're
+  in the mood for top-rated sushi or a casual night out, this location combines
+  quality ingredients with a welcoming vibe to satisfy a variety of tastes.
+generative_summary: >-
+  Discover Kona Grill in Carmel, IN$$$Kona Grill in Carmel, IN, stands out as a
+  modern American grill offering a blend of global flavors that cater to those
+  seeking fresh sushi and creative cocktails in a relaxed setting. This spot
+  features a diverse menu with highlights like inventive rolls and light bites,
+  making it a go-to for anyone exploring sushi restaurants nearby. Accessibility
+  is a key plus, with options like wheelchair-friendly entrances and outdoor
+  seating that enhance the dining experience. Set within a vibrant shopping
+  center, it provides a casual atmosphere perfect for both quick meals and
+  leisurely gatherings, appealing to locals and visitors alike. Whether you're
+  in the mood for top-rated sushi or a casual night out, this location combines
+  quality ingredients with a welcoming vibe to satisfy a variety of tastes.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJjyQv59WtFIgRNT6E-2aNBL0/reviews/ChZDSUhNMG9nS0VJQ0FnSUNmeE5yUFhREAE
@@ -358,6 +381,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURRaVptdGt3RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURRaVptdGt3RRAB!2m1!1s0x8814add5e72f248f:0xbd048d66fb843e35
+review_summary: >-
+  What Guests Are Saying$$$Visitors often rave about the tasty dishes like sushi
+  rolls and other favorites, noting that the food hits the spot with its fresh
+  flavors and solid portions during happy hour deals. Many appreciate the
+  friendly service that keeps things running smoothly, with staff being
+  attentive and quick to ensure a pleasant meal. While some folks mention that
+  prices might feel a bit steep compared to similar spots, the overall
+  experience remains enjoyable for groups and families alike. Overall, it's
+  clear that this place delivers on delicious options and a relaxed vibe, making
+  it a solid choice for anyone hunting for the best sushi nearby. If you're
+  looking for a spot with good energy and reliable eats, it comes across as a
+  welcoming option worth trying.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -390,8 +426,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Sleek chain with a broad New American menu including low-calorie options, plus
   sushi & cocktails.
 

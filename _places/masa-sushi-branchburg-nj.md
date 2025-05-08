@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "MASA sushi"
+title: MASA sushi
 permalink: /new-jersey/branchburg/masa-sushi.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Branchburg
 seo:
-  name: "MASA sushi"
-  type: Restaurant
-  links: null
-description: "MASA sushi serves delicious sushi in Branchburg, New Jersey. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.masasushibranchburgnj.com/
 place_id: ChIJYyDBymSTw4kRQxol2MBrABY
 photos:
   - name: >-
@@ -170,22 +168,255 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c39364cac12063:0x16006bc0d8251a43!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 9:00 PM'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 9:00 PM'
+    - 'Saturday: 11:00 AM – 9:00 PM'
+    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T01:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 0
+        close:
+          day: 0
+          hour: 21
+          minute: 0
+      - open:
+          day: 1
+          hour: 11
+          minute: 0
+        close:
+          day: 1
+          hour: 21
+          minute: 0
+      - open:
+          day: 2
+          hour: 11
+          minute: 0
+        close:
+          day: 2
+          hour: 21
+          minute: 0
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 21
+          minute: 0
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 0
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 21
+          minute: 0
+      - open:
+          day: 6
+          hour: 11
+          minute: 0
+        close:
+          day: 6
+          hour: 21
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 11:00 AM – 9:00 PM'
+      - 'Tuesday: 11:00 AM – 9:00 PM'
+      - 'Wednesday: 11:00 AM – 9:00 PM'
+      - 'Thursday: 11:00 AM – 9:00 PM'
+      - 'Friday: 11:00 AM – 9:00 PM'
+      - 'Saturday: 11:00 AM – 9:00 PM'
+      - 'Sunday: 12:00 – 9:00 PM'
+    secondaryHoursType: DELIVERY
+    nextCloseTime: '2025-05-04T01:00:00Z'
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 11
+          minute: 0
+        close:
+          day: 0
+          hour: 21
+          minute: 0
+      - open:
+          day: 1
+          hour: 11
+          minute: 0
+        close:
+          day: 1
+          hour: 21
+          minute: 0
+      - open:
+          day: 2
+          hour: 11
+          minute: 0
+        close:
+          day: 2
+          hour: 21
+          minute: 0
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 21
+          minute: 0
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 0
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 21
+          minute: 0
+      - open:
+          day: 6
+          hour: 11
+          minute: 0
+        close:
+          day: 6
+          hour: 21
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 11:00 AM – 9:00 PM'
+      - 'Tuesday: 11:00 AM – 9:00 PM'
+      - 'Wednesday: 11:00 AM – 9:00 PM'
+      - 'Thursday: 11:00 AM – 9:00 PM'
+      - 'Friday: 11:00 AM – 9:00 PM'
+      - 'Saturday: 11:00 AM – 9:00 PM'
+      - 'Sunday: 11:00 AM – 9:00 PM'
+    secondaryHoursType: TAKEOUT
+    nextCloseTime: '2025-05-04T01:00:00Z'
+phone: (908) 526-6888
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.1'
+rating_count: 181
+website: https://www.masasushibranchburgnj.com/
+description: >-
+  Experience MASA Sushi in Branchburg, NJ$$$MASA Sushi in Branchburg, New
+  Jersey, stands out as a welcoming spot for fresh Japanese cuisine, featuring
+  an array of expertly crafted rolls and dishes that highlight authentic
+  flavors. This cozy eatery emphasizes a relaxed atmosphere where diners can
+  enjoy high-quality sushi selections alongside traditional options like sashimi
+  and sake, making it ideal for casual meals or intimate gatherings. With
+  thoughtful accessibility features ensuring everyone can dine comfortably, it's
+  a go-to choice for those seeking reliable Japanese-inspired dining nearby. The
+  restaurant's consistent hours provide flexibility for lunch or dinner,
+  enhancing its appeal as a convenient option for anyone craving flavorful,
+  well-prepared meals in the area.
+generative_summary: >-
+  Experience MASA Sushi in Branchburg, NJ$$$MASA Sushi in Branchburg, New
+  Jersey, stands out as a welcoming spot for fresh Japanese cuisine, featuring
+  an array of expertly crafted rolls and dishes that highlight authentic
+  flavors. This cozy eatery emphasizes a relaxed atmosphere where diners can
+  enjoy high-quality sushi selections alongside traditional options like sashimi
+  and sake, making it ideal for casual meals or intimate gatherings. With
+  thoughtful accessibility features ensuring everyone can dine comfortably, it's
+  a go-to choice for those seeking reliable Japanese-inspired dining nearby. The
+  restaurant's consistent hours provide flexibility for lunch or dinner,
+  enhancing its appeal as a convenient option for anyone craving flavorful,
+  well-prepared meals in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors often praise the fresh and flavorful
+  sushi offerings at this local favorite, noting how the variety keeps things
+  exciting without overwhelming the palate. Many appreciate the attentive
+  service that makes every visit feel smooth and enjoyable, contributing to a
+  generally upbeat dining experience. While some mention occasional waits during
+  peak times, the overall consensus highlights solid value for the price, with
+  dishes that satisfy cravings for authentic Japanese flavors. Feedback
+  frequently touches on the cozy vibe that enhances meals, making it a
+  recommended stop for groups or solo diners looking for reliable quality. All
+  in all, it's clear that this spot delivers a consistently positive experience,
+  earning its spot among nearby options for tasty, approachable cuisine.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +442,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

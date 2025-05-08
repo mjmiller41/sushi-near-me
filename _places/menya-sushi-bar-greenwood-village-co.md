@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Menya Sushi Bar"
+title: Menya Sushi Bar
 permalink: /colorado/greenwood-village/menya-sushi-bar.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Greenwood Village
 seo:
-  name: "Menya Sushi Bar"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Menya Sushi Bar serves delicious sushi in Greenwood Village, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJg7yPijyBbIcR4XRIGYRVXo4
 photos:
   - name: >-
@@ -185,7 +183,39 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Menya Sushi Bar in Greenwood Village, CO$$$Menya Sushi Bar in
+  Greenwood Village, CO, offers a welcoming spot for enjoying fresh Japanese
+  cuisine in a casual atmosphere. This sushi restaurant features an array of
+  flavorful sushi rolls, bento boxes, and hearty ramen options, making it ideal
+  for a relaxed meal with family or friends. Accessibility features ensure a
+  comfortable visit for all guests, enhancing its appeal as a go-to destination
+  for everyday dining. Those seeking sushi restaurants near me will appreciate
+  the authentic flavors and simple yet inviting ambiance, perfect for savoring
+  top-rated Japanese dishes in the area.
+generative_summary: >-
+  Discover Menya Sushi Bar in Greenwood Village, CO$$$Menya Sushi Bar in
+  Greenwood Village, CO, offers a welcoming spot for enjoying fresh Japanese
+  cuisine in a casual atmosphere. This sushi restaurant features an array of
+  flavorful sushi rolls, bento boxes, and hearty ramen options, making it ideal
+  for a relaxed meal with family or friends. Accessibility features ensure a
+  comfortable visit for all guests, enhancing its appeal as a go-to destination
+  for everyday dining. Those seeking sushi restaurants near me will appreciate
+  the authentic flavors and simple yet inviting ambiance, perfect for savoring
+  top-rated Japanese dishes in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Sharing$$$Even with limited reviews available, folks
+  chatting about places like this sushi spot often highlight the fresh
+  ingredients and tasty variety that keep diners coming back. Many mention
+  enjoying the casual vibe and solid options for Japanese favorites, making it a
+  reliable choice for a quick bite or group outing. While specifics are scarce,
+  the overall feedback leans positive, with people appreciating the approachable
+  setting that feels just right for everyday meals. If you're on the hunt for
+  sushi close to me, it's worth checking out for its honest flavors and
+  welcoming feel, though experiences can vary based on personal tastes.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +241,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

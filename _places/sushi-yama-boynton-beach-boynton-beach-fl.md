@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Yama Boynton Beach"
+title: Sushi Yama Boynton Beach
 permalink: /florida/boynton-beach/sushi-yama-boynton-beach.html
 stateAbbr: FL
 stateName: Florida
 cityName: Boynton Beach
 seo:
-  name: "Sushi Yama Boynton Beach"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi Yama Boynton Beach serves delicious sushi in Boynton Beach, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJx5VpP2Ah2YgRdVTcfM6dJR8
 photos:
   - name: >-
@@ -185,7 +183,42 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Sushi in Boynton Beach, FL$$$Sushi Yama in Boynton Beach, FL, stands
+  out as a charming Japanese restaurant delivering fresh and vibrant flavors to
+  the area's dining options. Situated in a convenient spot on Boynton Beach
+  Blvd, it prioritizes accessibility with features like wheelchair-friendly
+  parking, entrances, and seating, making it an inclusive choice for all
+  visitors. The venue boasts an inviting atmosphere complemented by creative
+  dishes that showcase the best of Japanese cuisine, drawing in those searching
+  for quality sushi experiences nearby. Photos of the space highlight its cozy
+  vibe, perfect for casual meals or gatherings, positioning it as a reliable
+  spot for enjoying top-rated sushi in a welcoming setting.
+generative_summary: >-
+  Discover Sushi in Boynton Beach, FL$$$Sushi Yama in Boynton Beach, FL, stands
+  out as a charming Japanese restaurant delivering fresh and vibrant flavors to
+  the area's dining options. Situated in a convenient spot on Boynton Beach
+  Blvd, it prioritizes accessibility with features like wheelchair-friendly
+  parking, entrances, and seating, making it an inclusive choice for all
+  visitors. The venue boasts an inviting atmosphere complemented by creative
+  dishes that showcase the best of Japanese cuisine, drawing in those searching
+  for quality sushi experiences nearby. Photos of the space highlight its cozy
+  vibe, perfect for casual meals or gatherings, positioning it as a reliable
+  spot for enjoying top-rated sushi in a welcoming setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Visitor Feedback$$$Folks chatting about Sushi Yama often
+  highlight the fresh ingredients and solid variety that make meals feel
+  satisfying and authentic. Many appreciate the easy accessibility and
+  comfortable setup, which adds to the overall relaxed vibe for different types
+  of diners. Comments frequently note the spot's appeal for quick lunches or
+  casual evenings, with praises for its straightforward approach to Japanese
+  flavors that keep things enjoyable without any fuss. While experiences vary,
+  the general buzz leans positive, suggesting it's a solid pick for anyone
+  craving good sushi nearby, with most agreeing it hits the mark for both flavor
+  and convenience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +244,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

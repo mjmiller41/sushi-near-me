@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ronin Sushi & Bar"
+title: Ronin Sushi & Bar
 permalink: /florida/daytona-beach/ronin-sushi-bar.html
 stateAbbr: FL
 stateName: Florida
 cityName: Daytona Beach
 seo:
-  name: "Ronin Sushi & Bar"
-  type: Restaurant
+  type: restaurant
   links: http://roninsushibar111.com/
-description: "Ronin Sushi & Bar serves delicious sushi in Daytona Beach, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJidBlLCba5ogR278sGTt28Aw
 photos:
   - name: >-
@@ -199,7 +197,44 @@ price_range: null
 rating: '4.5'
 rating_count: 0
 website: http://roninsushibar111.com/
+description: >-
+  Discover Ronin Sushi & Bar in Daytona Beach, FL$$$Ronin Sushi & Bar in Daytona
+  Beach, FL, stands out as a casual Japanese restaurant with a diverse menu that
+  caters to sushi enthusiasts and beyond. This spot offers an array of fresh
+  dishes, including high-quality beef options and a selection of sake, making it
+  a go-to for those seeking authentic flavors in a welcoming atmosphere. The
+  restaurant's accessibility features ensure a comfortable visit for all guests,
+  while its evening hours provide the perfect setting for a relaxed dinner
+  outing. If you're exploring sushi restaurants in the area, this location
+  delivers on variety and quality, blending traditional elements with modern
+  appeal to satisfy cravings for Japanese cuisine.
+generative_summary: >-
+  Discover Ronin Sushi & Bar in Daytona Beach, FL$$$Ronin Sushi & Bar in Daytona
+  Beach, FL, stands out as a casual Japanese restaurant with a diverse menu that
+  caters to sushi enthusiasts and beyond. This spot offers an array of fresh
+  dishes, including high-quality beef options and a selection of sake, making it
+  a go-to for those seeking authentic flavors in a welcoming atmosphere. The
+  restaurant's accessibility features ensure a comfortable visit for all guests,
+  while its evening hours provide the perfect setting for a relaxed dinner
+  outing. If you're exploring sushi restaurants in the area, this location
+  delivers on variety and quality, blending traditional elements with modern
+  appeal to satisfy cravings for Japanese cuisine.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What People Are Saying About the Experience$$$Visitors to this Japanese
+  restaurant often praise the fresh and flavorful sushi selections, with many
+  highlighting standout dishes like the sampler platters and spicy tuna as
+  must-tries for a satisfying meal. Folks appreciate the friendly service that
+  adds a personal touch, helping to guide choices and enhance the overall vibe.
+  Reviews frequently mention the great value for the portion sizes and quality,
+  making it a solid pick for those watching their budget without skimping on
+  taste. Overall, the atmosphere and offerings come across as reliably
+  enjoyable, encouraging repeat visits for anyone in the mood for reliable
+  Japanese fare. While opinions vary, the general consensus leans positive,
+  positioning it as a worthwhile stop for casual diners seeking a pleasant
+  experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +260,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

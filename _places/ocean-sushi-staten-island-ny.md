@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ocean Sushi"
+title: Ocean Sushi
 permalink: /new-york/staten-island/ocean-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: Staten Island
 seo:
-  name: "Ocean Sushi"
-  type: Restaurant
-  links: null
-description: "Ocean Sushi serves delicious sushi in Staten Island, New York. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.oceansushisi.com/
 place_id: ChIJlQwTFfxKwokRhj9ExJdD4js
 photos:
   - name: >-
@@ -169,8 +167,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c24afc15130c95:0x3be24397c4443f86!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 45
+    - open:
+        day: 1
+        hour: 11
+        minute: 15
+      close:
+        day: 1
+        hour: 21
+        minute: 45
+    - open:
+        day: 2
+        hour: 11
+        minute: 15
+      close:
+        day: 2
+        hour: 21
+        minute: 45
+    - open:
+        day: 3
+        hour: 11
+        minute: 15
+      close:
+        day: 3
+        hour: 21
+        minute: 45
+    - open:
+        day: 4
+        hour: 11
+        minute: 15
+      close:
+        day: 4
+        hour: 21
+        minute: 45
+    - open:
+        day: 5
+        hour: 11
+        minute: 15
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:15 AM – 9:45 PM'
+    - 'Tuesday: 11:15 AM – 9:45 PM'
+    - 'Wednesday: 11:15 AM – 9:45 PM'
+    - 'Thursday: 11:15 AM – 9:45 PM'
+    - 'Friday: 11:15 AM – 10:30 PM'
+    - 'Saturday: 11:30 AM – 10:30 PM'
+    - 'Sunday: 12:00 – 9:45 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -178,13 +241,45 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
+phone: (718) 966-6888
+price_level: PRICE_LEVEL_MODERATE
 price_range: null
-rating: null
-rating_count: 0
-website: null
+rating: '4.6'
+rating_count: 295
+website: https://www.oceansushisi.com/
+description: >-
+  Discover Ocean Sushi in Staten Island, NY$$$Ocean Sushi in Staten Island, NY,
+  stands out as a welcoming Japanese spot specializing in fresh sushi and
+  flavorful dishes. This establishment offers a variety of options including
+  creative rolls, classic entrees, and refreshing cocktails with sake
+  selections, making it ideal for casual dinners or special occasions. With its
+  accessible entrance and seating designed for everyone, it's easy to enjoy a
+  relaxed meal in a comfortable setting. The restaurant's extended hours cater
+  to those seeking quality sushi places near me, especially on weekends when
+  options run later into the evening.
+generative_summary: >-
+  Discover Ocean Sushi in Staten Island, NY$$$Ocean Sushi in Staten Island, NY,
+  stands out as a welcoming Japanese spot specializing in fresh sushi and
+  flavorful dishes. This establishment offers a variety of options including
+  creative rolls, classic entrees, and refreshing cocktails with sake
+  selections, making it ideal for casual dinners or special occasions. With its
+  accessible entrance and seating designed for everyone, it's easy to enjoy a
+  relaxed meal in a comfortable setting. The restaurant's extended hours cater
+  to those seeking quality sushi places near me, especially on weekends when
+  options run later into the evening.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Folks who visit Ocean Sushi often highlight the
+  consistently fresh ingredients and well-prepared meals that keep them coming
+  back for more. Many appreciate the attentive service and cozy atmosphere,
+  which add to the overall enjoyable experience without any major complaints.
+  Based on the strong ratings, it's clear that the variety of sushi options
+  satisfies those looking for top-rated spots in the area. While opinions vary,
+  the general buzz leans positive, with diners noting great value for a moderate
+  price. Overall, it's a solid choice for anyone craving reliable Japanese
+  cuisine that hits the mark for flavor and satisfaction.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +305,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

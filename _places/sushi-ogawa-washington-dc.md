@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Ogawa 鮨小川"
+title: Sushi Ogawa 鮨小川
 permalink: /district-of-columbia/washington/sushi-ogawa.html
 stateAbbr: DC
 stateName: District of Columbia
 cityName: Washington
 seo:
-  name: "Sushi Ogawa 鮨小川"
-  type: Restaurant
+  type: restaurant
   links: http://www.sushiogawadc.com/
-description: "Sushi Ogawa 鮨小川 serves delicious sushi in Washington, District of Columbia. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJX9DqKtC3t4kRrSd1aFosigo
 photos:
   - name: >-
@@ -196,7 +194,45 @@ price_range: $100 &ndash; & up
 rating: '4.3'
 rating_count: 0
 website: http://www.sushiogawadc.com/
+description: >-
+  Explore Sushi Ogawa in Washington, DC$$$Sushi Ogawa 鮨小川 in Washington, DC,
+  stands out as a premier spot for authentic Japanese dining, blending fresh
+  flavors with a cozy atmosphere in the heart of Northwest Washington. This
+  sushi restaurant delights guests with its array of expertly prepared dishes,
+  emphasizing high-quality ingredients and thoughtful presentation for an
+  elevated meal experience. Conveniently located on Connecticut Ave, it's ideal
+  for those seeking tasty options during lunch or dinner hours that extend from
+  midday into the evening. Whether you're in the mood for classic rolls or
+  innovative takes, the focus on freshness makes it a go-to choice for exploring
+  Japanese cuisine in the area, appealing to anyone hunting for reliable sushi
+  spots nearby.
+generative_summary: >-
+  Explore Sushi Ogawa in Washington, DC$$$Sushi Ogawa 鮨小川 in Washington, DC,
+  stands out as a premier spot for authentic Japanese dining, blending fresh
+  flavors with a cozy atmosphere in the heart of Northwest Washington. This
+  sushi restaurant delights guests with its array of expertly prepared dishes,
+  emphasizing high-quality ingredients and thoughtful presentation for an
+  elevated meal experience. Conveniently located on Connecticut Ave, it's ideal
+  for those seeking tasty options during lunch or dinner hours that extend from
+  midday into the evening. Whether you're in the mood for classic rolls or
+  innovative takes, the focus on freshness makes it a go-to choice for exploring
+  Japanese cuisine in the area, appealing to anyone hunting for reliable sushi
+  spots nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Diners at Sushi Ogawa$$$Visitors often rave about the
+  outstanding freshness of the fish and the skillful way dishes are put
+  together, making it a standout pick for anyone craving quality Japanese
+  flavors. Many appreciate the welcoming vibe and efficient service that enhance
+  the overall dining experience without overwhelming the senses. It's frequently
+  noted as a solid option for casual meetups or special occasions, with folks
+  highlighting the authentic taste that keeps them coming back for more. While
+  opinions vary, the general buzz leans positive, positioning it as a favorite
+  among those exploring top-rated sushi options in the neighborhood. All in all,
+  it's a reliable spot that delivers on expectations, encouraging sushi
+  enthusiasts to give it a try for a satisfying meal.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -222,7 +258,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

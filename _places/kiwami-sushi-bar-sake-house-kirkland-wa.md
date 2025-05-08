@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "KIWAMI Sushi Bar & Sake House"
+title: KIWAMI Sushi Bar & Sake House
 permalink: /washington/kirkland/kiwami-sushi-bar-sake-house.html
 stateAbbr: WA
 stateName: Washington
 cityName: Kirkland
 seo:
-  name: "KIWAMI Sushi Bar & Sake House"
-  type: Restaurant
+  type: restaurant
   links: http://kiwamisushi.com/
-description: "KIWAMI Sushi Bar & Sake House serves delicious sushi in Kirkland, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJnS1Vft0SkFQRBrVP8FrrImI
 photos:
   - name: >-
@@ -169,7 +167,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x549012dd7e552d9d:0x6222eb5af04fb506!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 20
+        minute: 15
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 20
+        minute: 15
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 20
+        minute: 15
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 20
+        minute: 15
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 20
+        minute: 15
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 20
+        minute: 45
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 20
+        minute: 45
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 8:15 PM'
     - 'Tuesday: 11:30 AM – 8:15 PM'
     - 'Wednesday: 11:30 AM – 8:15 PM'
@@ -177,54 +233,296 @@ opening_hours:
     - 'Friday: 11:30 AM – 8:45 PM'
     - 'Saturday: 11:30 AM – 8:45 PM'
     - 'Sunday: 11:30 AM – 8:15 PM'
-  current:
-    - 'Monday: 11:30 AM – 8:15 PM'
-    - 'Tuesday: 11:30 AM – 8:15 PM'
-    - 'Wednesday: 11:30 AM – 8:15 PM'
-    - 'Thursday: 11:30 AM – 8:15 PM'
-    - 'Friday: 11:30 AM – 8:45 PM'
-    - 'Saturday: 11:30 AM – 8:45 PM'
-    - 'Sunday: 11:30 AM – 8:15 PM'
+  nextCloseTime: '2025-05-04T03:45:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 15
+          minute: 0
+        close:
+          day: 0
+          hour: 17
+          minute: 0
+      - open:
+          day: 1
+          hour: 15
+          minute: 0
+        close:
+          day: 1
+          hour: 17
+          minute: 0
+      - open:
+          day: 2
+          hour: 15
+          minute: 0
+        close:
+          day: 2
+          hour: 17
+          minute: 0
+      - open:
+          day: 3
+          hour: 15
+          minute: 0
+        close:
+          day: 3
+          hour: 17
+          minute: 0
+      - open:
+          day: 4
+          hour: 15
+          minute: 0
+        close:
+          day: 4
+          hour: 17
+          minute: 0
+      - open:
+          day: 5
+          hour: 15
+          minute: 0
+        close:
+          day: 5
+          hour: 17
+          minute: 0
+      - open:
+          day: 6
+          hour: 15
+          minute: 0
+        close:
+          day: 6
+          hour: 17
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 3:00 – 5:00 PM'
+      - 'Tuesday: 3:00 – 5:00 PM'
+      - 'Wednesday: 3:00 – 5:00 PM'
+      - 'Thursday: 3:00 – 5:00 PM'
+      - 'Friday: 3:00 – 5:00 PM'
+      - 'Saturday: 3:00 – 5:00 PM'
+      - 'Sunday: 3:00 – 5:00 PM'
+    secondaryHoursType: HAPPY_HOUR
+    nextCloseTime: '2025-05-04T00:00:00Z'
 phone: (425) 739-8899
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.4'
-rating_count: 0
+rating_count: 634
 website: http://kiwamisushi.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Explore KIWAMI Sushi in Kirkland, Washington$$$KIWAMI Sushi Bar & Sake House
+  in Kirkland, Washington, stands out as a go-to spot for fresh Japanese
+  flavors, blending traditional techniques with a welcoming vibe. This sushi
+  restaurant near you offers expertly crafted nigiri and sashimi, paired with an
+  array of Japanese whiskeys and sakes that enhance the dining experience.
+  Accessibility features like wheelchair-friendly entrances and seating make it
+  easy for everyone to enjoy a meal, while the cozy atmosphere suits everything
+  from quick lunches to relaxed evenings. With daily hours and happy hour
+  specials, it's a convenient choice for those seeking top-rated sushi options
+  close to home, ensuring a satisfying visit every time.
+generative_summary: >-
+  Explore KIWAMI Sushi in Kirkland, Washington$$$KIWAMI Sushi Bar & Sake House
+  in Kirkland, Washington, stands out as a go-to spot for fresh Japanese
+  flavors, blending traditional techniques with a welcoming vibe. This sushi
+  restaurant near you offers expertly crafted nigiri and sashimi, paired with an
+  array of Japanese whiskeys and sakes that enhance the dining experience.
+  Accessibility features like wheelchair-friendly entrances and seating make it
+  easy for everyone to enjoy a meal, while the cozy atmosphere suits everything
+  from quick lunches to relaxed evenings. With daily hours and happy hour
+  specials, it's a convenient choice for those seeking top-rated sushi options
+  close to home, ensuring a satisfying visit every time.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJnS1Vft0SkFQRBrVP8FrrImI/reviews/ChdDSUhNMG9nS0VJQ0FnTUNvNkp6eDVnRRAB
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 4
+    text:
+      text: >-
+        We chose to sit by the bar coming close to 6pm for dinner (no wait at
+        the time). The sushi that we ordered were 7th heaven, red dragon, and
+        creamy scallop. Both 7th heaven and red dragon tasted ok, the creamy
+        scallop was very disappointing. Felt like it was not fresh scallop,
+        maybe because they cut it up so much that I barely taste the scallop. I
+        definitely had better creamy scallop gunkan elsewhere. The atmosphere
+        was nice. Service was prompt. For the price that we ended up paying, we
+        might not come back as nothing really stood out for us.
+      languageCode: en
+    originalText:
+      text: >-
+        We chose to sit by the bar coming close to 6pm for dinner (no wait at
+        the time). The sushi that we ordered were 7th heaven, red dragon, and
+        creamy scallop. Both 7th heaven and red dragon tasted ok, the creamy
+        scallop was very disappointing. Felt like it was not fresh scallop,
+        maybe because they cut it up so much that I barely taste the scallop. I
+        definitely had better creamy scallop gunkan elsewhere. The atmosphere
+        was nice. Service was prompt. For the price that we ended up paying, we
+        might not come back as nothing really stood out for us.
+      languageCode: en
+    authorAttribution:
+      displayName: Claudia Ruslan
+      uri: https://www.google.com/maps/contrib/109492695440455678683/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXbhLiEcXegm6gc6qCU3ui6C9O4vcEtb5dG1wkf9YynyTfssB8Z=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-04-14T20:06:14.351950Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNvNkp6eDVnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNvNkp6eDVnRRAB!2m1!1s0x549012dd7e552d9d:0x6222eb5af04fb506
+  - name: >-
+      places/ChIJnS1Vft0SkFQRBrVP8FrrImI/reviews/ChdDSUhNMG9nS0VJQ0FnTURvZzlxYXhnRRAB
+    relativePublishTimeDescription: in the last week
+    rating: 5
+    text:
+      text: >-
+        Rolls were fire and prices were super fair. Butter miso was next level,
+        mushroom n salmon w rich flavors yummm. While the crab is imitation, it
+        doesn’t take away from the overall experience.
+      languageCode: en
+    originalText:
+      text: >-
+        Rolls were fire and prices were super fair. Butter miso was next level,
+        mushroom n salmon w rich flavors yummm. While the crab is imitation, it
+        doesn’t take away from the overall experience.
+      languageCode: en
+    authorAttribution:
+      displayName: Mia Sun
+      uri: https://www.google.com/maps/contrib/106310194302165383742/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWAx48iQEnAxrPymo3njrNjzppiMJFMlwgBkx5vqvRpZfcYejET=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-28T05:01:05.771869Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURvZzlxYXhnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURvZzlxYXhnRRAB!2m1!1s0x549012dd7e552d9d:0x6222eb5af04fb506
+  - name: >-
+      places/ChIJnS1Vft0SkFQRBrVP8FrrImI/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3d2Z6MmxBRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 2
+    text:
+      text: >-
+        Ordered takeout food from here. Nice looking and tastes good. It charged
+        1 dollar fee for just ordering takeout, whether you call in to order and
+        pay in person OR order online. Plus the tax, this Chirashi was almost 35
+        dollars. I’ve gone somewhere else for that price and the amount of
+        sashimi I get. It’s a not bad decision to try for the first time, but
+        probably not returning since there are more affordable choices.
+      languageCode: en
+    originalText:
+      text: >-
+        Ordered takeout food from here. Nice looking and tastes good. It charged
+        1 dollar fee for just ordering takeout, whether you call in to order and
+        pay in person OR order online. Plus the tax, this Chirashi was almost 35
+        dollars. I’ve gone somewhere else for that price and the amount of
+        sashimi I get. It’s a not bad decision to try for the first time, but
+        probably not returning since there are more affordable choices.
+      languageCode: en
+    authorAttribution:
+      displayName: Jialing Huang
+      uri: https://www.google.com/maps/contrib/100179033630867117656/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjW-kdrTE5U-PK4Wfdh7zMPi4BmvGrAMDkP3BjmZ2V15GCEpOMLT7A=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-26T09:36:00.781956Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUR3d2Z6MmxBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUR3d2Z6MmxBRRAB!2m1!1s0x549012dd7e552d9d:0x6222eb5af04fb506
+  - name: >-
+      places/ChIJnS1Vft0SkFQRBrVP8FrrImI/reviews/ChdDSUhNMG9nS0VJQ0FnSURfa3R5SDRnRRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        Great sushi place with super fresh ingredients and flavorful rolls. The
+        menu has plenty of options, and everything tastes amazing. Friendly
+        service and a nice, relaxed vibe. Would happily go again!
+      languageCode: en
+    originalText:
+      text: >-
+        Great sushi place with super fresh ingredients and flavorful rolls. The
+        menu has plenty of options, and everything tastes amazing. Friendly
+        service and a nice, relaxed vibe. Would happily go again!
+      languageCode: en
+    authorAttribution:
+      displayName: Aytak Mofrad
+      uri: https://www.google.com/maps/contrib/100994889478433528782/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKWjsULrg0d3JAqEppFG0fnsYOlrMjfjdrocz5c87RD8OLeQw=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-01-23T00:22:13.040566Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURfa3R5SDRnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURfa3R5SDRnRRAB!2m1!1s0x549012dd7e552d9d:0x6222eb5af04fb506
+  - name: >-
+      places/ChIJnS1Vft0SkFQRBrVP8FrrImI/reviews/ChdDSUhNMG9nS0VJQ0FnSUN2M09pSTVRRRAB
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        The rolls were very tasty. I also really liked the Japanese beer. The
+        service was great. Thank you, I will come back to you again❤️
+      languageCode: en
+    originalText:
+      text: >-
+        The rolls were very tasty. I also really liked the Japanese beer. The
+        service was great. Thank you, I will come back to you again❤️
+      languageCode: en
+    authorAttribution:
+      displayName: Nadi Lexutova
+      uri: https://www.google.com/maps/contrib/106705512996542986197/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWA9WK6CvKRaTdP59NXyeq71BWFNzcZikGGXEm76KJPQn7y1RxG=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-12-08T22:52:25.283790Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN2M09pSTVRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN2M09pSTVRRRAB!2m1!1s0x549012dd7e552d9d:0x6222eb5af04fb506
+review_summary: >-
+  Customer Feedback Highlights$$$Visitors to this sushi spot often rave about
+  the fresh, flavorful rolls and dishes that bring a real taste of Japan to the
+  table, making it a solid pick for anyone craving quality options nearby. While
+  some note that prices can feel a bit steep for the portion sizes, many
+  appreciate the fair value and variety that keep things exciting without
+  breaking the bank. The service stands out as friendly and efficient, creating
+  a relaxed environment that's perfect for groups or solo diners looking for a
+  casual meal. Overall, folks enjoy the comforting miso soup and creative
+  specials that add a fun twist, encouraging repeat visits for those who love
+  exploring local sushi gems. Though a few mention it's not the cheapest choice,
+  the positive experiences with fresh ingredients and welcoming vibe make it
+  worth considering for your next outing.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
 live_music: null
 menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

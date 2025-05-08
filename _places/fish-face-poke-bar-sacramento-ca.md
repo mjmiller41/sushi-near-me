@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Fish Face Poke Bar"
+title: Fish Face Poke Bar
 permalink: /california/sacramento/fish-face-poke-bar.html
 stateAbbr: CA
 stateName: California
 cityName: Sacramento
 seo:
-  name: "Fish Face Poke Bar"
-  type: Restaurant
+  type: restaurant
   links: http://www.fishfacepokebar.com/
-description: "Fish Face Poke Bar serves delicious sushi in Sacramento, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJXz2huCbRmoARo1hjlaU4-mc
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x809ad126b8a13d5f:0x67fa38a5956358a3!10e5
 primary_type: American Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 19
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 19
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 19
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 19
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 19
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 19
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 19
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 7:00 PM'
     - 'Tuesday: 11:00 AM – 7:00 PM'
     - 'Wednesday: 11:00 AM – 7:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 7:00 PM'
     - 'Saturday: 11:00 AM – 7:00 PM'
     - 'Sunday: 11:00 AM – 7:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 7:00 PM'
-    - 'Tuesday: 11:00 AM – 7:00 PM'
-    - 'Wednesday: 11:00 AM – 7:00 PM'
-    - 'Thursday: 11:00 AM – 7:00 PM'
-    - 'Friday: 11:00 AM – 7:00 PM'
-    - 'Saturday: 11:00 AM – 7:00 PM'
-    - 'Sunday: 11:00 AM – 7:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,262 @@ phone: (916) 706-0605
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.5'
-rating_count: 0
+rating_count: 461
 website: http://www.fishfacepokebar.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Fish Face Poke Bar in Sacramento, CA$$$Fish Face Poke Bar in
+  Sacramento, CA, stands out as a casual eatery specializing in fresh
+  Hawaiian-style poke bowls, perfect for those seeking vibrant sushi-inspired
+  options nearby. This spot offers a welcoming atmosphere within a bustling
+  market setting, featuring customizable seafood salads and vegan choices that
+  cater to a variety of tastes, along with refreshing beer and wine selections.
+  Accessibility is a key highlight, with wheelchair-friendly features and
+  outdoor seating that make it easy for everyone to enjoy a meal. The menu
+  emphasizes high-quality ingredients, delivering bold flavors in every bite,
+  ideal for locals hunting for top-rated poke experiences. Whether you're
+  looking for a quick lunch or a relaxed dinner, this eatery combines
+  convenience with authentic Hawaiian influences in the heart of the city.
+generative_summary: >-
+  Discover Fish Face Poke Bar in Sacramento, CA$$$Fish Face Poke Bar in
+  Sacramento, CA, stands out as a casual eatery specializing in fresh
+  Hawaiian-style poke bowls, perfect for those seeking vibrant sushi-inspired
+  options nearby. This spot offers a welcoming atmosphere within a bustling
+  market setting, featuring customizable seafood salads and vegan choices that
+  cater to a variety of tastes, along with refreshing beer and wine selections.
+  Accessibility is a key highlight, with wheelchair-friendly features and
+  outdoor seating that make it easy for everyone to enjoy a meal. The menu
+  emphasizes high-quality ingredients, delivering bold flavors in every bite,
+  ideal for locals hunting for top-rated poke experiences. Whether you're
+  looking for a quick lunch or a relaxed dinner, this eatery combines
+  convenience with authentic Hawaiian influences in the heart of the city.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJXz2huCbRmoARo1hjlaU4-mc/reviews/ChdDSUhNMG9nS0VJQ0FnSURycDdtXzB3RRAB
+    relativePublishTimeDescription: 9 months ago
+    rating: 4
+    text:
+      text: >-
+        I have been wanting to check out Fishface for some time and today I was
+        downtown so...
+
+        It was everything I had hoped it was with the exception of the
+        atmosphere. In this case that's not a bad thing. I was under the
+        impression it was a single establishment and not so much a cafeteria
+        type setup.
+
+        Don't let that misguide you. Everything was clean and orderly, the
+        service was exceptionally friendly and very helpful. My food was
+        prepared nicely and the gentleman even recommended no soy sauce but yes
+        to ginger and Wasabi. This was a great recommendation with the poke bowl
+        I selected. Yuzu Albacore: Albacore tuna, jalapeño, cilantro, fried
+        garlic, yuzu ponzu & sesame oil.
+
+        It was an outstanding dish! I loved the flavors as they waltzed among
+        the rice with hits of jalapeño and garlic. I pulled in the ginger and
+        Wasabi every now and then for a splash of palette cleansing and sweet
+        heat.
+
+        This was an experience I will remember and I must return to take in the
+        other offerings.
+
+        Stellar job Fishface!
+      languageCode: en
+    originalText:
+      text: >-
+        I have been wanting to check out Fishface for some time and today I was
+        downtown so...
+
+        It was everything I had hoped it was with the exception of the
+        atmosphere. In this case that's not a bad thing. I was under the
+        impression it was a single establishment and not so much a cafeteria
+        type setup.
+
+        Don't let that misguide you. Everything was clean and orderly, the
+        service was exceptionally friendly and very helpful. My food was
+        prepared nicely and the gentleman even recommended no soy sauce but yes
+        to ginger and Wasabi. This was a great recommendation with the poke bowl
+        I selected. Yuzu Albacore: Albacore tuna, jalapeño, cilantro, fried
+        garlic, yuzu ponzu & sesame oil.
+
+        It was an outstanding dish! I loved the flavors as they waltzed among
+        the rice with hits of jalapeño and garlic. I pulled in the ginger and
+        Wasabi every now and then for a splash of palette cleansing and sweet
+        heat.
+
+        This was an experience I will remember and I must return to take in the
+        other offerings.
+
+        Stellar job Fishface!
+      languageCode: en
+    authorAttribution:
+      displayName: Dan Zahra
+      uri: https://www.google.com/maps/contrib/109834623738378068436/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJYzVZYcBkfLGhTiJgJ9INLLeXgeuK_HLqJ_XkMAZWBQ_tM9A=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-07-20T22:06:26.898283Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURycDdtXzB3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURycDdtXzB3RRAB!2m1!1s0x809ad126b8a13d5f:0x67fa38a5956358a3
+  - name: >-
+      places/ChIJXz2huCbRmoARo1hjlaU4-mc/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3MmFxNVF3EAE
+    relativePublishTimeDescription: a month ago
+    rating: 3
+    text:
+      text: Medium Poke Bowl?? These portions are absolutely disgraceful for $18.48.
+      languageCode: en
+    originalText:
+      text: Medium Poke Bowl?? These portions are absolutely disgraceful for $18.48.
+      languageCode: en
+    authorAttribution:
+      displayName: Devin Broussard
+      uri: https://www.google.com/maps/contrib/100763849475905894519/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXaM9NN9gJmXlT4c_BTcdQVHj7QavXQW5Ah9_48kgBPpnprX-0LLg=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-26T22:59:59.190539Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUR3MmFxNVF3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUR3MmFxNVF3EAE!2m1!1s0x809ad126b8a13d5f:0x67fa38a5956358a3
+  - name: >-
+      places/ChIJXz2huCbRmoARo1hjlaU4-mc/reviews/ChZDSUhNMG9nS0VJQ0FnSUNudDlpd1RnEAE
+    relativePublishTimeDescription: 7 months ago
+    rating: 5
+    text:
+      text: >-
+        First timer and I went with a custom poke bowl. It was phenomenal with
+        the spicy kimchi ponzu sauce over octopus, tuna and a mix of greens. I
+        definitely get the hype and  will be back. Props to Chef Billy Ngo fpr
+        bringing another great food experience to Sacramento.
+      languageCode: en
+    originalText:
+      text: >-
+        First timer and I went with a custom poke bowl. It was phenomenal with
+        the spicy kimchi ponzu sauce over octopus, tuna and a mix of greens. I
+        definitely get the hype and  will be back. Props to Chef Billy Ngo fpr
+        bringing another great food experience to Sacramento.
+      languageCode: en
+    authorAttribution:
+      displayName: G Merceron
+      uri: https://www.google.com/maps/contrib/112398753969722903265/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLoUtEqbKe0NjlBS0OkBSHY_9KwPHvb_wsSzJsFfchbn6KCAA=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-10-04T00:33:55.042950Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNudDlpd1RnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNudDlpd1RnEAE!2m1!1s0x809ad126b8a13d5f:0x67fa38a5956358a3
+  - name: >-
+      places/ChIJXz2huCbRmoARo1hjlaU4-mc/reviews/ChZDSUhNMG9nS0VJQ0FnTURnX2VuVlpBEAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        No ambience since this is in a good/retail hall of sorts but the poke
+        here is really fresh. I was definitely surprised to find poke that
+        tasted this good so far from the ocean but I was glad I took the chance.
+        I’ll definitely be coming back when I’m in town.
+      languageCode: en
+    originalText:
+      text: >-
+        No ambience since this is in a good/retail hall of sorts but the poke
+        here is really fresh. I was definitely surprised to find poke that
+        tasted this good so far from the ocean but I was glad I took the chance.
+        I’ll definitely be coming back when I’m in town.
+      languageCode: en
+    authorAttribution:
+      displayName: Hayley Powers
+      uri: https://www.google.com/maps/contrib/102700530314120329483/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLoRkZglECAxOltDDtf_m3rW3IR7nKm9tzb7W4f3VhVA79-2Q=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-02-26T22:43:04.047953Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURnX2VuVlpBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURnX2VuVlpBEAE!2m1!1s0x809ad126b8a13d5f:0x67fa38a5956358a3
+  - name: >-
+      places/ChIJXz2huCbRmoARo1hjlaU4-mc/reviews/ChdDSUhNMG9nS0VJQ0FnSURaek9uc25RRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        We arrived at Happy Hour. It was tough to say no to beer deals they had.
+        Pole was done and ready by the time we finished ordering. We were able
+        to capitalize on a chef special roll of the day. Some is to be said
+        about finding a way to make you feel special as a customer and this
+        place totally does just that. We sat down outside and had a fresh lil
+        breeze that made it delightful. Maybe next time it’s a beer and a hand
+        roll ;)
+      languageCode: en
+    originalText:
+      text: >-
+        We arrived at Happy Hour. It was tough to say no to beer deals they had.
+        Pole was done and ready by the time we finished ordering. We were able
+        to capitalize on a chef special roll of the day. Some is to be said
+        about finding a way to make you feel special as a customer and this
+        place totally does just that. We sat down outside and had a fresh lil
+        breeze that made it delightful. Maybe next time it’s a beer and a hand
+        roll ;)
+      languageCode: en
+    authorAttribution:
+      displayName: Ernest Lopez
+      uri: https://www.google.com/maps/contrib/106746804809008406318/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjW_NmVFmOcvKvvjPav-L_xxq4zmY3oO0FBPSDO0-38pwfWl_gI=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2023-09-25T23:06:47.585297Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURaek9uc25RRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURaek9uc25RRRAB!2m1!1s0x809ad126b8a13d5f:0x67fa38a5956358a3
+review_summary: >-
+  What Visitors Are Sharing About the Experience$$$Folks often rave about the
+  fresh poke bowls at this spot, highlighting the delicious mix of flavors like
+  spicy sauces and quality fish that make every meal feel satisfying and
+  authentic. Many appreciate the helpful staff who offer great suggestions to
+  enhance the taste, turning a simple visit into a memorable one. While some
+  note that portions might vary, the overall vibe and variety keep people coming
+  back for more, especially for options that feel just right for a casual
+  outing. It's clear that the welcoming service and tasty selections contribute
+  to a positive dining experience, making it a solid choice for anyone exploring
+  sushi-inspired eats in the area. Overall, visitors find it a reliable go-to
+  for flavorful dishes that balance freshness and fun without overcomplicating
+  things.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
+delivery: true
+dine_in: true
 good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: true
+reservable: false
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: false
+serves_coffee: false
+serves_dinner: true
 serves_dessert: null
-serves_lunch: null
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Modern counter-serve eatery offering seafood salads & sushi, plus vegan
+  options, beer & sake.
 
 ---

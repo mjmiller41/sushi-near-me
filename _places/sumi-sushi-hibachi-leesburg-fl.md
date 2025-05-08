@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sumi Sushi & Hibachi"
+title: Sumi Sushi & Hibachi
 permalink: /florida/leesburg/sumi-sushi-hibachi.html
 stateAbbr: FL
 stateName: Florida
 cityName: Leesburg
 seo:
-  name: "Sumi Sushi & Hibachi"
-  type: Restaurant
+  type: restaurant
   links: https://www.sumileesburg.com/
-description: "Sumi Sushi & Hibachi serves delicious sushi in Leesburg, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ0R2l6UvB54gRIOGoUgOR7zE
 photos:
   - name: >-
@@ -199,7 +197,46 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 0
 website: https://www.sumileesburg.com/
+description: >-
+  Experience Sumi Sushi & Hibachi in Leesburg, FL$$$Sumi Sushi & Hibachi in
+  Leesburg, FL, offers a welcoming retreat for those craving authentic Japanese
+  flavors in a relaxed setting, with fresh sushi and hibachi dishes that
+  highlight quality ingredients and creative presentations. The restaurant
+  boasts a casual atmosphere perfect for enjoying a variety of options,
+  including vegetarian-friendly choices and pairings with beer and wine to
+  elevate the meal. Its accessible design and convenient hours make it an easy
+  choice for anyone exploring sushi spots nearby, ensuring a comfortable dining
+  experience for all. Whether you're in the mood for expertly prepared rolls or
+  hearty hibachi favorites, this spot delivers on taste and affordability,
+  making it a standout option for Japanese cuisine enthusiasts in the area.
+generative_summary: >-
+  Experience Sumi Sushi & Hibachi in Leesburg, FL$$$Sumi Sushi & Hibachi in
+  Leesburg, FL, offers a welcoming retreat for those craving authentic Japanese
+  flavors in a relaxed setting, with fresh sushi and hibachi dishes that
+  highlight quality ingredients and creative presentations. The restaurant
+  boasts a casual atmosphere perfect for enjoying a variety of options,
+  including vegetarian-friendly choices and pairings with beer and wine to
+  elevate the meal. Its accessible design and convenient hours make it an easy
+  choice for anyone exploring sushi spots nearby, ensuring a comfortable dining
+  experience for all. Whether you're in the mood for expertly prepared rolls or
+  hearty hibachi favorites, this spot delivers on taste and affordability,
+  making it a standout option for Japanese cuisine enthusiasts in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Buzz Around Sumi Sushi & Hibachi Reviews$$$Diners often highlight the fresh
+  and well-made sushi at Sumi Sushi & Hibachi as a reliable favorite that keeps
+  them returning for more, praising its solid variety of dishes that suit
+  different preferences like hibachi plates and lighter vegetarian options. Many
+  appreciate the friendly atmosphere and good value, turning simple meals into
+  enjoyable outings without straining the wallet, even if wait times can pick up
+  during busy periods. Overall, the welcoming service and balanced flavors make
+  it a go-to pick for casual eaters seeking a positive vibe, with folks noting
+  how it stands out among local spots for its consistent quality. If you're on
+  the hunt for top-rated sushi nearby, this place gets nods for delivering a
+  satisfying experience that leaves visitors eager to come back for another
+  round.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +262,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

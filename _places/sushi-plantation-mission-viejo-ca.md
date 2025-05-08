@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Plantation"
+title: Sushi Plantation
 permalink: /california/mission-viejo/sushi-plantation.html
 stateAbbr: CA
 stateName: California
 cityName: Mission Viejo
 seo:
-  name: "Sushi Plantation"
-  type: Restaurant
+  type: restaurant
   links: https://sushiplantations.com/
-description: "Clever maki & other Japanese fare doled out in casual, compact digs with sushi bar seating. Sushi Plantation serves delicious sushi in Mission Viejo, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJh7zREF_u3IARsnjQ3B_4zHY
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: null
 rating: '4.4'
 rating_count: 0
 website: https://sushiplantations.com/
+description: >-
+  Explore Sushi Plantation in Mission Viejo, CA$$$Sushi Plantation in Mission
+  Viejo, CA, stands out as a casual dining destination for those seeking fresh
+  Japanese cuisine and creative rolls in a welcoming atmosphere. This spot
+  offers an all-you-can-eat menu that highlights inventive sushi options,
+  perfect for sushi enthusiasts looking for variety without breaking the bank.
+  With features like happy hour specials and a focus on high-quality
+  ingredients, it's an ideal choice for anyone exploring sushi restaurants in
+  the area. The compact space includes accessible seating and parking, making it
+  easy to enjoy a relaxed meal with friends or family. Overall, it combines
+  affordability and flavor, appealing to locals and visitors searching for
+  top-rated sushi experiences nearby.
+generative_summary: >-
+  Explore Sushi Plantation in Mission Viejo, CA$$$Sushi Plantation in Mission
+  Viejo, CA, stands out as a casual dining destination for those seeking fresh
+  Japanese cuisine and creative rolls in a welcoming atmosphere. This spot
+  offers an all-you-can-eat menu that highlights inventive sushi options,
+  perfect for sushi enthusiasts looking for variety without breaking the bank.
+  With features like happy hour specials and a focus on high-quality
+  ingredients, it's an ideal choice for anyone exploring sushi restaurants in
+  the area. The compact space includes accessible seating and parking, making it
+  easy to enjoy a relaxed meal with friends or family. Overall, it combines
+  affordability and flavor, appealing to locals and visitors searching for
+  top-rated sushi experiences nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJh7zREF_u3IARsnjQ3B_4zHY/reviews/ChdDSUhNMG9nS0VJQ0FnSURmdDQtM3ZRRRAB
@@ -386,6 +409,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQyODVYQTVBRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQyODVYQTVBRRAB!2m1!1s0x80dcee5f10d1bc87:0x76ccf81fdcd078b2
+review_summary: >-
+  Insights from Recent Reviews$$$Visitors to this sushi spot often rave about
+  the fresh ingredients and unique rolls that make it a go-to for flavorful
+  meals in a lively setting. Many folks appreciate the solid service and
+  convenient location, noting it as a hidden gem for quick lunches or date
+  nights without the wait. While some mention occasional delays during busy
+  times, the staff's helpful responses keep things positive overall. It's
+  praised for offering great value, especially with protein-packed options that
+  cater to different tastes, making it a solid pick for groups or solo diners.
+  In general, the feedback highlights a fun, satisfying vibe that encourages
+  repeat visits for anyone hunting for reliable sushi places in the
+  neighborhood.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -418,8 +454,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Clever maki & other Japanese fare doled out in casual, compact digs with sushi
   bar seating.
 

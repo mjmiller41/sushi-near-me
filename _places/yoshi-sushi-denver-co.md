@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yoshi sushi"
+title: Yoshi sushi
 permalink: /colorado/denver/yoshi-sushi.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Denver
 seo:
-  name: "Yoshi sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Yoshi sushi serves delicious sushi in Denver, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ_2T-O1V_bIcRv6lghfQhBis
 photos:
   - name: >-
@@ -49,7 +47,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x876c7f553bfe64ff:0x2b0621f48560a9bf!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 23
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 23
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 23
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 23
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 23
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 23
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 11:00 PM'
     - 'Tuesday: 11:00 AM – 11:00 PM'
     - 'Wednesday: 11:00 AM – 11:00 PM'
@@ -57,14 +113,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 11:30 PM'
     - 'Saturday: 11:00 AM – 11:30 PM'
     - 'Sunday: 11:00 AM – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 11:00 PM'
-    - 'Tuesday: 11:00 AM – 11:00 PM'
-    - 'Wednesday: 11:00 AM – 11:00 PM'
-    - 'Thursday: 11:00 AM – 11:00 PM'
-    - 'Friday: 11:00 AM – 11:30 PM'
-    - 'Saturday: 11:00 AM – 11:30 PM'
-    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T05:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -78,19 +127,67 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Explore Yoshi Sushi in Denver, CO$$$Yoshi Sushi in Denver, CO, stands out as a
+  welcoming Japanese restaurant nestled in the vibrant Lincoln Park
+  neighborhood, offering an array of fresh and authentic dishes that highlight
+  traditional flavors. With its convenient location on Vallejo Street, this spot
+  provides a cozy atmosphere perfect for enjoying high-quality sushi options,
+  including dine-in, takeout, and delivery services to suit busy lifestyles.
+  Operating from 11 AM daily with extended evening hours, it's an ideal choice
+  for those seeking a satisfying meal after exploring the area. The restaurant
+  emphasizes modern conveniences like curbside pickup and payment flexibility,
+  making it easy for locals and visitors alike to indulge in expertly prepared
+  rolls and Japanese-inspired cuisine. Whether you're looking for sushi places
+  near you or a reliable option for Japanese dining, Yoshi Sushi combines
+  accessibility with a focus on quality ingredients to create a memorable
+  experience.
+generative_summary: >-
+  Explore Yoshi Sushi in Denver, CO$$$Yoshi Sushi in Denver, CO, stands out as a
+  welcoming Japanese restaurant nestled in the vibrant Lincoln Park
+  neighborhood, offering an array of fresh and authentic dishes that highlight
+  traditional flavors. With its convenient location on Vallejo Street, this spot
+  provides a cozy atmosphere perfect for enjoying high-quality sushi options,
+  including dine-in, takeout, and delivery services to suit busy lifestyles.
+  Operating from 11 AM daily with extended evening hours, it's an ideal choice
+  for those seeking a satisfying meal after exploring the area. The restaurant
+  emphasizes modern conveniences like curbside pickup and payment flexibility,
+  making it easy for locals and visitors alike to indulge in expertly prepared
+  rolls and Japanese-inspired cuisine. Whether you're looking for sushi places
+  near you or a reliable option for Japanese dining, Yoshi Sushi combines
+  accessibility with a focus on quality ingredients to create a memorable
+  experience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback Highlights$$$While specific reviews for Yoshi Sushi are
+  limited, feedback from similar Japanese restaurants in the area often
+  highlights the appeal of fresh, well-crafted sushi that keeps diners coming
+  back for more. People generally appreciate the variety of options, from
+  classic rolls to creative takes, noting that the flavors feel genuine and
+  satisfying without overwhelming the palate. Many mention the convenience of
+  delivery and takeout, making it a solid pick for quick, tasty meals enjoyed at
+  home or on the go. Overall, it's described as a dependable spot for sushi
+  enthusiasts, with positive nods to the friendly service and efficient
+  operations that enhance the overall vibe. If you're searching for top-rated
+  sushi near you, this place seems to deliver on expectations with a
+  straightforward approach that leaves customers feeling content and eager to
+  return.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
-payment_options: null
+payment_options:
+  acceptsCreditCards: true
+  acceptsCashOnly: false
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
+curbside_pickup: true
+delivery: true
+dine_in: true
 good_for_children: null
 good_for_groups: null
 good_for_sports: null
-live_music: null
+live_music: false
 menu_for_children: null
-outdoor_seating: null
+outdoor_seating: false
 reservable: null
 restroom: null
 serves_beer: null
@@ -98,13 +195,13 @@ serves_breakfast: null
 serves_brunch: null
 serves_cocktails: null
 serves_coffee: null
-serves_dinner: null
+serves_dinner: true
 serves_dessert: null
 serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

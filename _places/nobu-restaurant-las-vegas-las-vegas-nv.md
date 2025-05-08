@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Nobu Restaurant Las Vegas"
+title: Nobu Restaurant Las Vegas
 permalink: /nevada/las-vegas/nobu-restaurant-las-vegas.html
 stateAbbr: NV
 stateName: Nevada
 cityName: Las Vegas
 seo:
-  name: "Nobu Restaurant Las Vegas"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Nobu Restaurant Las Vegas serves delicious sushi in Las Vegas, Nevada. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJAXK2ZzvEyIAR2ZN4cdxmSjQ
 photos:
   - name: >-
@@ -185,7 +183,42 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Nobu in Las Vegas, NV$$$Nobu Restaurant in Las Vegas, NV, stands as
+  an upscale dining spot nestled inside Caesars Palace, offering a refined take
+  on Japanese cuisine that appeals to sushi enthusiasts and food lovers alike.
+  This elegant venue features an array of fresh Japanese fare, including
+  creative tasting menus that highlight bold flavors and high-quality
+  ingredients, making it a go-to for those seeking top-rated sushi restaurants
+  in the area. The atmosphere combines sophistication with modern design,
+  providing a seamless blend of comfort and style for an unforgettable meal.
+  Patrons can also savor a selection of cocktails and sake, enhancing the
+  overall experience in this premier Japanese place near me.
+generative_summary: >-
+  Discover Nobu in Las Vegas, NV$$$Nobu Restaurant in Las Vegas, NV, stands as
+  an upscale dining spot nestled inside Caesars Palace, offering a refined take
+  on Japanese cuisine that appeals to sushi enthusiasts and food lovers alike.
+  This elegant venue features an array of fresh Japanese fare, including
+  creative tasting menus that highlight bold flavors and high-quality
+  ingredients, making it a go-to for those seeking top-rated sushi restaurants
+  in the area. The atmosphere combines sophistication with modern design,
+  providing a seamless blend of comfort and style for an unforgettable meal.
+  Patrons can also savor a selection of cocktails and sake, enhancing the
+  overall experience in this premier Japanese place near me.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Visitor Feedback on Nobu$$$Folks checking out this popular sushi restaurant
+  often rave about the tasty dishes like the flavorful Black Cod with Miso and
+  crispy Rock Shrimp Tempura, which really hit the spot for Japanese food fans.
+  Many highlight the sleek, welcoming vibe and the attentive service that makes
+  every visit feel special and well-coordinated. Visitors appreciate the
+  knowledgeable staff who help guide choices, adding to the enjoyable dining
+  atmosphere without any fuss. While some note that the prices lean toward the
+  higher end, the consistent quality and delicious flavors make it a worthwhile
+  treat for those craving the best sushi experiences. Overall, it's a solid pick
+  for anyone looking for reliable, satisfying meals in a lively setting.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +244,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

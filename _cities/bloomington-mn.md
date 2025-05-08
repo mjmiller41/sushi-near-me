@@ -5,4 +5,5 @@ permalink: /minnesota/bloomington/
 stateAbbr: MN
 stateName: Minnesota
 cityName: Bloomington
+
 ---

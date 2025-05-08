@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Banbu Sushi Bar & Grill"
+title: Banbu Sushi Bar & Grill
 permalink: /california/la-mesa/banbu-sushi-bar-grill.html
 stateAbbr: CA
 stateName: California
 cityName: La Mesa
 seo:
-  name: "Banbu Sushi Bar & Grill"
-  type: Restaurant
+  type: restaurant
   links: http://banbusushi.com/
-description: "Banbu Sushi Bar & Grill serves delicious sushi in La Mesa, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJtfW99w1X2YARVojvQPkHYi4
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80d9570df7bdf5b5:0x2e6207f940ef8856!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 9:00 PM'
     - 'Tuesday: 11:30 AM – 9:00 PM'
     - 'Wednesday: 11:30 AM – 9:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 10:00 PM'
     - 'Saturday: 11:30 AM – 10:00 PM'
     - 'Sunday: 11:30 AM – 9:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 9:00 PM'
-    - 'Tuesday: 11:30 AM – 9:00 PM'
-    - 'Wednesday: 11:30 AM – 9:00 PM'
-    - 'Thursday: 11:30 AM – 9:00 PM'
-    - 'Friday: 11:30 AM – 10:00 PM'
-    - 'Saturday: 11:30 AM – 10:00 PM'
-    - 'Sunday: 11:30 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T05:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -195,37 +244,308 @@ secondary_opening_hours:
     type: null
 phone: (619) 589-0071
 price_level: PRICE_LEVEL_MODERATE
-price_range: null
+price_range: $20 &ndash; $30
 rating: '4.4'
-rating_count: 0
+rating_count: 1423
 website: http://banbusushi.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Banbu Sushi Bar & Grill in La Mesa, CA$$$Nestled in La Mesa, CA,
+  Banbu Sushi Bar & Grill stands out as a premier spot for fresh Japanese
+  cuisine, featuring an array of sushi rolls, sashimi, and flavorful plates in a
+  relaxed setting. The restaurant boasts an eco-chic interior and inviting
+  outdoor patios with fireside elements, perfect for enjoying meals in a
+  welcoming atmosphere. Visitors can savor a variety of Japanese dishes
+  alongside a full bar offering cocktails and sake, making it a go-to choice for
+  those seeking sushi restaurants near me. Accessibility features like
+  wheelchair-friendly entrances and seating add to the convenience, ensuring
+  everyone can enjoy the experience. With its moderate pricing and extended
+  hours, this spot delivers a blend of quality and comfort for anyone exploring
+  the best sushi options in the area.
+generative_summary: >-
+  Discover Banbu Sushi Bar & Grill in La Mesa, CA$$$Nestled in La Mesa, CA,
+  Banbu Sushi Bar & Grill stands out as a premier spot for fresh Japanese
+  cuisine, featuring an array of sushi rolls, sashimi, and flavorful plates in a
+  relaxed setting. The restaurant boasts an eco-chic interior and inviting
+  outdoor patios with fireside elements, perfect for enjoying meals in a
+  welcoming atmosphere. Visitors can savor a variety of Japanese dishes
+  alongside a full bar offering cocktails and sake, making it a go-to choice for
+  those seeking sushi restaurants near me. Accessibility features like
+  wheelchair-friendly entrances and seating add to the convenience, ensuring
+  everyone can enjoy the experience. With its moderate pricing and extended
+  hours, this spot delivers a blend of quality and comfort for anyone exploring
+  the best sushi options in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJtfW99w1X2YARVojvQPkHYi4/reviews/ChZDSUhNMG9nS0VJQ0FnTURBOXFyS1hnEAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        First time visiting. Great experience. We sat outside since the weather
+        was lovely. The food was on point. We had some of their rolls, blended
+        peach margarita, peach nigori, and mochi. I’m allergic to gluten and
+        dairy and they were able to accommodate. Our waitress was amazing!!!!
+        She was happy and friendly. She was also able to make recommendations
+        for what I could eat and what was able to be modified. At one point she
+        told me that the kitchen was unsure about one of the desserts and were
+        reading through the mixes ingredients to make sure instead of just
+        guessing. 10 out of 10 definitely recommend this location. We even got
+        some gluten and dairy free lava cake to go. So excited to try it out
+        when we get home.
+      languageCode: en
+    originalText:
+      text: >-
+        First time visiting. Great experience. We sat outside since the weather
+        was lovely. The food was on point. We had some of their rolls, blended
+        peach margarita, peach nigori, and mochi. I’m allergic to gluten and
+        dairy and they were able to accommodate. Our waitress was amazing!!!!
+        She was happy and friendly. She was also able to make recommendations
+        for what I could eat and what was able to be modified. At one point she
+        told me that the kitchen was unsure about one of the desserts and were
+        reading through the mixes ingredients to make sure instead of just
+        guessing. 10 out of 10 definitely recommend this location. We even got
+        some gluten and dairy free lava cake to go. So excited to try it out
+        when we get home.
+      languageCode: en
+    authorAttribution:
+      displayName: Charisa Carkhuff
+      uri: https://www.google.com/maps/contrib/116747861468504614976/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVW5sgdaqFDVvO0m1mE-3yquDH41otRVcisXO5AadCJHs2uGgo=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-02-08T22:47:02.855765Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURBOXFyS1hnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURBOXFyS1hnEAE!2m1!1s0x80d9570df7bdf5b5:0x2e6207f940ef8856
+  - name: >-
+      places/ChIJtfW99w1X2YARVojvQPkHYi4/reviews/ChZDSUhNMG9nS0VJQ0FnSURfcHRiQ1F3EAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 4
+    text:
+      text: >-
+        Very nice Japanese restaurant and Sushi bar. Nice atmosphere fresh sushi
+        and attentive staff. The sashimi is very fresh and delicious as is the
+        sushi rolls. I like to order the chicken teriyaki with miso soup. The
+        miso is awesome with great flavor and always fresh. I have coming here
+        for 2 years and usually have lunch with the occasion dinner. The price
+        is comparable to other places and the food is better than most. My one
+        complaint that every time I order my meal the chicken teriyaki is always
+        cold. They must make it the second the order is placed and not mindful
+        of the sushi and soup that was just brought out. It is annoying that
+        this happens and only wish they could wait till the first course is
+        done.
+      languageCode: en
+    originalText:
+      text: >-
+        Very nice Japanese restaurant and Sushi bar. Nice atmosphere fresh sushi
+        and attentive staff. The sashimi is very fresh and delicious as is the
+        sushi rolls. I like to order the chicken teriyaki with miso soup. The
+        miso is awesome with great flavor and always fresh. I have coming here
+        for 2 years and usually have lunch with the occasion dinner. The price
+        is comparable to other places and the food is better than most. My one
+        complaint that every time I order my meal the chicken teriyaki is always
+        cold. They must make it the second the order is placed and not mindful
+        of the sushi and soup that was just brought out. It is annoying that
+        this happens and only wish they could wait till the first course is
+        done.
+      languageCode: en
+    authorAttribution:
+      displayName: Charles Kenny
+      uri: https://www.google.com/maps/contrib/118165799923012569508/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUbqTczVg7EjElWHdsV6laRlOg79cLShhqzsxMZbhY8LoyyiZWk=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-01-23T21:14:41.337141Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURfcHRiQ1F3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURfcHRiQ1F3EAE!2m1!1s0x80d9570df7bdf5b5:0x2e6207f940ef8856
+  - name: >-
+      places/ChIJtfW99w1X2YARVojvQPkHYi4/reviews/ChdDSUhNMG9nS0VJQ0FnTURJdnBYd2pBRRAB
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 5
+    text:
+      text: >-
+        My Partner and I attended Banbu on 4/8/25 as a celebration of our first
+        anniversary together. We have been there 3 times now.  Food was
+        wonderful , weather and ambience was great . Our sweet server Cassidy
+        was such a great Server. She constantly checked up on us and made sure
+        we were happy. She offered the special of the day , asked how we liked
+        the food and drinks, she always had a smile on her face. At the end
+        before getting the check she offered Dessert , we had to go but we did
+        not turn down the offer. Had the Volcano cake to go and OMG! the best
+        we've had. The ice cream didn't even melt after an approximate 30min
+        drive . Definitely visiting more often.
+
+        Appetizer : Jalapeño Poppers
+
+        Roll: Mt. Fuji Roll
+
+        Entree: Emperor's fried rice
+
+        Drink : Passion Fruit Sake
+
+        Dessert: Banbu Volcano Cake
+      languageCode: en
+    originalText:
+      text: >-
+        My Partner and I attended Banbu on 4/8/25 as a celebration of our first
+        anniversary together. We have been there 3 times now.  Food was
+        wonderful , weather and ambience was great . Our sweet server Cassidy
+        was such a great Server. She constantly checked up on us and made sure
+        we were happy. She offered the special of the day , asked how we liked
+        the food and drinks, she always had a smile on her face. At the end
+        before getting the check she offered Dessert , we had to go but we did
+        not turn down the offer. Had the Volcano cake to go and OMG! the best
+        we've had. The ice cream didn't even melt after an approximate 30min
+        drive . Definitely visiting more often.
+
+        Appetizer : Jalapeño Poppers
+
+        Roll: Mt. Fuji Roll
+
+        Entree: Emperor's fried rice
+
+        Drink : Passion Fruit Sake
+
+        Dessert: Banbu Volcano Cake
+      languageCode: en
+    authorAttribution:
+      displayName: Ana Duron
+      uri: https://www.google.com/maps/contrib/104632321096168923761/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWNt-02X-RfDMlJc1mhg1BiWnvTE0fc0SvvJixkyxgbJosK5Ws=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-10T07:39:26.596458Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJdnBYd2pBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJdnBYd2pBRRAB!2m1!1s0x80d9570df7bdf5b5:0x2e6207f940ef8856
+  - name: >-
+      places/ChIJtfW99w1X2YARVojvQPkHYi4/reviews/ChdDSUhNMG9nS0VJQ0FnTURvcEppNHh3RRAB
+    relativePublishTimeDescription: a week ago
+    rating: 2
+    text:
+      text: >-
+        Today 4/21, I’m in town and decided to try this restaurant, The food is
+        good but just not worth the price. We had the teriyaki chicken and
+        crunchy roll, the roll was good once again just not worth the price
+        they’re selling it for. The teriyaki chicken was cubed and dry. Service
+        was poor, friendly waitress but overall the service wasn’t satisfactory
+        from the experience. For over $100 I would expect better service and
+        more quality food than what I received tonight. The restaurant is very
+        beautiful and well maintained overall, but the service and food quality
+        doesn’t stand with the price offered.
+      languageCode: en
+    originalText:
+      text: >-
+        Today 4/21, I’m in town and decided to try this restaurant, The food is
+        good but just not worth the price. We had the teriyaki chicken and
+        crunchy roll, the roll was good once again just not worth the price
+        they’re selling it for. The teriyaki chicken was cubed and dry. Service
+        was poor, friendly waitress but overall the service wasn’t satisfactory
+        from the experience. For over $100 I would expect better service and
+        more quality food than what I received tonight. The restaurant is very
+        beautiful and well maintained overall, but the service and food quality
+        doesn’t stand with the price offered.
+      languageCode: en
+    authorAttribution:
+      displayName: Emily Hernandez
+      uri: https://www.google.com/maps/contrib/111137886932424879923/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJCne9w_LyzzC0Z_-hGlmdPRXMIpDyKJPEvbHY_LX-P_u5DNcM=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-22T01:36:40.913902Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURvcEppNHh3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURvcEppNHh3RRAB!2m1!1s0x80d9570df7bdf5b5:0x2e6207f940ef8856
+  - name: >-
+      places/ChIJtfW99w1X2YARVojvQPkHYi4/reviews/ChdDSUhNMG9nS0VJQ0FnSUNuOXRDMXZBRRAB
+    relativePublishTimeDescription: 7 months ago
+    rating: 4
+    text:
+      text: >-
+        We have come here often and unfortunately the food has not been
+        consistent. This last visit for my birthday was disappointing. We order
+        6 different items and only two things were great (Lemon Roll & Seaweed
+        Salad). We also had to wait 30+ minutes to get our sushi’s after
+        ordering which was not cool considering it wasn’t that busy. We order a
+        small fried rice and a roll as appetizers which our waitress got to us
+        quickly. They said there was a big party in the back which was the
+        reason for the long wait. Everything looks but rice and flavors were not
+        good this trip.  I won’t be visiting for awhile as it’s too pricey for
+        Inconsistent food quality.
+      languageCode: en
+    originalText:
+      text: >-
+        We have come here often and unfortunately the food has not been
+        consistent. This last visit for my birthday was disappointing. We order
+        6 different items and only two things were great (Lemon Roll & Seaweed
+        Salad). We also had to wait 30+ minutes to get our sushi’s after
+        ordering which was not cool considering it wasn’t that busy. We order a
+        small fried rice and a roll as appetizers which our waitress got to us
+        quickly. They said there was a big party in the back which was the
+        reason for the long wait. Everything looks but rice and flavors were not
+        good this trip.  I won’t be visiting for awhile as it’s too pricey for
+        Inconsistent food quality.
+      languageCode: en
+    authorAttribution:
+      displayName: Katie B.
+      uri: https://www.google.com/maps/contrib/115092701490581892250/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjViroWvrlS3sBOjRlAJegkWx52psJMM4x5sktsn28NX_UHCZj_D=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-09-25T22:17:11.273752Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNuOXRDMXZBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNuOXRDMXZBRRAB!2m1!1s0x80d9570df7bdf5b5:0x2e6207f940ef8856
+review_summary: >-
+  What Customers Are Buzzing About$$$Folks rave about the fresh sushi and
+  sashimi at this spot, often highlighting how the flavors really hit the mark
+  for a satisfying meal. Many appreciate the friendly service and cozy outdoor
+  patio, which makes dining out feel relaxed and enjoyable, even for groups.
+  While some mention that prices can lean a bit higher, the overall value shines
+  through with tasty options like teriyaki and specialty rolls that keep people
+  coming back. It's clear that the attentive staff and welcoming vibe contribute
+  to a fun experience, though a few note occasional waits during busier times.
+  All in all, if you're on the hunt for top-rated sushi places near me, this
+  location offers a solid mix of delicious food and good times that makes it
+  worth checking out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
+curbside_pickup: true
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
 good_for_sports: null
 live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+menu_for_children: true
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: true
+serves_cocktails: true
+serves_coffee: true
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Roomy grill serves Japanese plates in an eco-chic interior or on fireside
+  patios.
 
 ---

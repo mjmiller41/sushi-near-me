@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "K SUSHI & BAR"
+title: K SUSHI & BAR
 permalink: /new-york/new-york/k-sushi-bar.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "K SUSHI & BAR"
-  type: Restaurant
-  links: null
-description: "K SUSHI & BAR serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.ksushiandbar.com/
 place_id: ChIJh40VCABZwokRqBpRmqN-C1M
 photos:
   - name: >-
@@ -167,8 +165,105 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c2590008158d87:0x530b7ea39a511aa8!10e5
 primary_type: Asian Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 12
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 22
+        minute: 30
+    - open:
+        day: 2
+        hour: 12
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 22
+        minute: 30
+    - open:
+        day: 3
+        hour: 12
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 30
+    - open:
+        day: 4
+        hour: 12
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 30
+    - open:
+        day: 5
+        hour: 12
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 16
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 12:00 – 2:30 PM, 4:30 – 10:30 PM'
+    - 'Tuesday: 12:00 – 2:30 PM, 4:30 – 10:30 PM'
+    - 'Wednesday: 12:00 – 2:30 PM, 4:30 – 10:30 PM'
+    - 'Thursday: 12:00 – 2:30 PM, 4:30 – 10:30 PM'
+    - 'Friday: 12:00 – 2:30 PM, 4:30 – 10:30 PM'
+    - 'Saturday: 4:30 – 10:30 PM'
+    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -176,13 +271,47 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
+phone: (212) 933-0638
 price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+price_range: $30 &ndash; $50
+rating: '4.9'
+rating_count: 163
+website: http://www.ksushiandbar.com/
+description: >-
+  Discover K Sushi & Bar in New York, NY$$$K Sushi & Bar in New York, NY, stands
+  out as a vibrant Asian restaurant offering a fresh take on classic sushi and
+  other specialties in the heart of the city. This spot delights with its array
+  of expertly prepared dishes, including flavorful gimbap and innovative
+  cocktails that pair perfectly with meals. The cozy, stylish ambiance creates
+  an inviting environment for enjoying a relaxed meal or gathering with friends.
+  Patrons appreciate the thoughtful happy hour options, making it a go-to choice
+  for those seeking quality dining without breaking the bank. As one of the top
+  sushi destinations in the area, it's ideal for anyone exploring nearby
+  Japanese-inspired cuisine.
+generative_summary: >-
+  Discover K Sushi & Bar in New York, NY$$$K Sushi & Bar in New York, NY, stands
+  out as a vibrant Asian restaurant offering a fresh take on classic sushi and
+  other specialties in the heart of the city. This spot delights with its array
+  of expertly prepared dishes, including flavorful gimbap and innovative
+  cocktails that pair perfectly with meals. The cozy, stylish ambiance creates
+  an inviting environment for enjoying a relaxed meal or gathering with friends.
+  Patrons appreciate the thoughtful happy hour options, making it a go-to choice
+  for those seeking quality dining without breaking the bank. As one of the top
+  sushi destinations in the area, it's ideal for anyone exploring nearby
+  Japanese-inspired cuisine.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Folks often rave about the tasty gimbap and
+  incredibly fresh sushi rolls that make every visit worthwhile at this Asian
+  eatery. Many highlight the fantastic cocktails and great happy hour deals that
+  add extra value to the experience. The staff comes across as friendly and
+  attentive, helping to create a welcoming vibe for diners. Overall, the cozy
+  and stylish atmosphere gets plenty of nods for enhancing the meal, whether
+  you're stopping in solo or with a group. While it's clear this place hits the
+  mark on flavor and service, it's always a solid pick for anyone craving
+  reliable, enjoyable eats in a lively setting.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -208,7 +337,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

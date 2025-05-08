@@ -5,4 +5,5 @@ permalink: /connecticut/hamden/
 stateAbbr: CT
 stateName: Connecticut
 cityName: Hamden
+
 ---

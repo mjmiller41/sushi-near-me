@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "SKAI Sushi"
+title: SKAI Sushi
 permalink: /washington/blaine/skai-sushi.html
 stateAbbr: WA
 stateName: Washington
 cityName: Blaine
 seo:
-  name: "SKAI Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.skaisushi.com/contact
-description: "SKAI Sushi serves delicious sushi in Blaine, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJVVVlYwrAhVQRnzoNRTdL7PM
 photos:
   - name: >-
@@ -169,7 +167,81 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x5485c00a63655555:0xf3ec4b37450d3a9f!10e5
 primary_type: Takeout Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 2
+        hour: 15
+        minute: 30
+      close:
+        day: 2
+        hour: 19
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 13
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 19
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 13
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 19
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 13
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 0
+      close:
+        day: 5
+        hour: 19
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 13
+        minute: 30
+    - open:
+        day: 6
+        hour: 16
+        minute: 0
+      close:
+        day: 6
+        hour: 19
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 3:30 – 7:30 PM'
     - 'Wednesday: 11:00 AM – 1:30 PM, 4:00 – 7:30 PM'
@@ -177,14 +249,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 1:30 PM, 4:00 – 7:30 PM'
     - 'Saturday: 11:00 AM – 1:30 PM, 4:00 – 7:30 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 3:30 – 7:30 PM'
-    - 'Wednesday: 11:00 AM – 1:30 PM, 4:00 – 7:30 PM'
-    - 'Thursday: 11:00 AM – 1:30 PM, 4:00 – 7:30 PM'
-    - 'Friday: 11:00 AM – 1:30 PM, 4:00 – 7:30 PM'
-    - 'Saturday: 11:00 AM – 1:30 PM, 4:00 – 7:30 PM'
-    - 'Sunday: Closed'
+  nextOpenTime: '2025-05-03T23:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -195,10 +260,47 @@ secondary_opening_hours:
 phone: (360) 220-8123
 price_level: null
 price_range: $10 &ndash; $20
-rating: '4.7'
-rating_count: 0
+rating: '4.8'
+rating_count: 129
 website: https://www.skaisushi.com/contact
+description: >-
+  About SKAI Sushi in Blaine, Washington$$$SKAI Sushi in Blaine, Washington,
+  stands out as a casual dining option specializing in fresh sushi and specialty
+  rolls, perfect for those seeking convenient takeout meals in the area. This
+  spot emphasizes high-quality ingredients and a variety of dishes that cater to
+  sushi enthusiasts looking for flavorful, well-crafted options nearby. With
+  accessibility features like wheelchair-friendly parking and entrances, it
+  ensures a welcoming experience for all visitors. Operating mainly for takeout,
+  it offers a straightforward menu that highlights generous portions and
+  creative flavors, making it a go-to choice for anyone exploring top-rated
+  sushi restaurants in the region. Its focus on fresh, satisfying meals adds to
+  the appeal for those searching for reliable sushi places close to home.
+generative_summary: >-
+  About SKAI Sushi in Blaine, Washington$$$SKAI Sushi in Blaine, Washington,
+  stands out as a casual dining option specializing in fresh sushi and specialty
+  rolls, perfect for those seeking convenient takeout meals in the area. This
+  spot emphasizes high-quality ingredients and a variety of dishes that cater to
+  sushi enthusiasts looking for flavorful, well-crafted options nearby. With
+  accessibility features like wheelchair-friendly parking and entrances, it
+  ensures a welcoming experience for all visitors. Operating mainly for takeout,
+  it offers a straightforward menu that highlights generous portions and
+  creative flavors, making it a go-to choice for anyone exploring top-rated
+  sushi restaurants in the region. Its focus on fresh, satisfying meals adds to
+  the appeal for those searching for reliable sushi places close to home.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback on SKAI Sushi$$$Visitors often praise the tasty sushi
+  options here, noting the generous portions that make every bite feel
+  worthwhile and leave you feeling full. Many highlight the fresh ingredients
+  and standout rolls like creative specials, which add a fun twist to classic
+  favorites without overwhelming the palate. Folks appreciate the friendly
+  service and reasonable prices, making it a solid pick for casual meals on the
+  go. Overall, the vibe is positive, with comments focusing on how it delivers
+  great value and a satisfying experience for sushi lovers. If you're in the
+  mood for dependable sushi nearby, this place seems to hit the mark with its
+  consistent quality and approachable style.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -224,7 +326,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sumo Sushi & Seafood"
+title: Sumo Sushi & Seafood
 permalink: /michigan/rochester/sumo-sushi-seafood.html
 stateAbbr: MI
 stateName: Michigan
 cityName: Rochester
 seo:
-  name: "Sumo Sushi & Seafood"
-  type: Restaurant
+  type: restaurant
   links: http://www.sumosushiandseafood.com/
-description: "Minimalist Japanese eatery with dark-wood tables also features Korean dishes & gluten-free fare. Sumo Sushi & Seafood serves delicious sushi in Rochester, Michigan. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJk49xwrnpJIgRwkcbu6Twfoo
 photos:
   - name: >-
@@ -185,6 +183,35 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 0
 website: http://www.sumosushiandseafood.com/
+description: >-
+  Discover Sumo Sushi & Seafood in Rochester, Michigan$$$Sumo Sushi & Seafood in
+  Rochester, Michigan, offers a minimalist Japanese dining experience that
+  combines fresh sushi with flavorful Korean influences, making it a standout
+  spot for those seeking authentic Asian cuisine. The eatery features a variety
+  of gluten-free and vegetarian options, ensuring there's something for everyone
+  looking for healthy and diverse meal choices in a cozy setting. With its
+  dark-wood tables and accessible design, including wheelchair-friendly
+  features, this sushi restaurant provides a welcoming atmosphere for casual
+  meals or takeout. Patrons can enjoy moderately priced dishes that highlight
+  high-quality seafood and creative rolls, positioning it as a go-to option
+  among sushi places near me for both locals and visitors. Its focus on fresh
+  ingredients and inclusive menu options makes it a reliable choice for anyone
+  exploring top-rated sushi in the area.
+generative_summary: >-
+  Discover Sumo Sushi & Seafood in Rochester, Michigan$$$Sumo Sushi & Seafood in
+  Rochester, Michigan, offers a minimalist Japanese dining experience that
+  combines fresh sushi with flavorful Korean influences, making it a standout
+  spot for those seeking authentic Asian cuisine. The eatery features a variety
+  of gluten-free and vegetarian options, ensuring there's something for everyone
+  looking for healthy and diverse meal choices in a cozy setting. With its
+  dark-wood tables and accessible design, including wheelchair-friendly
+  features, this sushi restaurant provides a welcoming atmosphere for casual
+  meals or takeout. Patrons can enjoy moderately priced dishes that highlight
+  high-quality seafood and creative rolls, positioning it as a go-to option
+  among sushi places near me for both locals and visitors. Its focus on fresh
+  ingredients and inclusive menu options makes it a reliable choice for anyone
+  exploring top-rated sushi in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJk49xwrnpJIgRwkcbu6Twfoo/reviews/ChdDSUhNMG9nS0VJQ0FnTUNnck1IZXZBRRAB
@@ -326,6 +353,21 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUN3MmRQZ1hREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUN3MmRQZ1hREAE!2m1!1s0x8824e9b9c2718f93:0x8a7ef0a4bb1b47c2
+review_summary: >-
+  What People Love About This Sushi Spot$$$Visitors to this Rochester sushi
+  restaurant often rave about the delicious and fresh rolls, with many
+  highlighting the standout vegetarian options that bring a creative twist to
+  traditional dishes. Folks appreciate the cozy atmosphere and quick service,
+  making it a great pick for casual lunches or evenings out with friends, and
+  they frequently note how the food arrives promptly and full of flavor.
+  Feedback consistently praises the friendly staff and welcoming vibes, adding
+  to the overall enjoyable experience without any major drawbacks. While some
+  mention it's a smaller spot ideal for intimate gatherings, the general
+  consensus is that it's one of the best sushi near me for quality and variety.
+  Overall, customers leave feeling satisfied, with the tasty appetizers and
+  desserts rounding out a positive dining adventure that's worth trying for
+  anyone in the mood for reliable Japanese fare.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidParkingLot: true
   paidStreetParking: true
@@ -358,8 +400,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Minimalist Japanese eatery with dark-wood tables also features Korean dishes &
   gluten-free fare.
 

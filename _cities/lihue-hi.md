@@ -5,4 +5,5 @@ permalink: /hawaii/lihue/
 stateAbbr: HI
 stateName: Hawaii
 cityName: Lihue
+
 ---

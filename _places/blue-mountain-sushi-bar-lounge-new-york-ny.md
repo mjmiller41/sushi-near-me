@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Blue Mountain (Sushi, Bar&Lounge)"
+title: Blue Mountain (Sushi, Bar&Lounge)
 permalink: /new-york/new-york/blue-mountain-sushi-bar-lounge.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "Blue Mountain (Sushi, Bar&Lounge)"
-  type: Restaurant
-  links: null
-description: "Blue Mountain (Sushi, Bar&Lounge) serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.bluemountain888.com/
 place_id: ChIJZb2XwatZwokRuvz8YCJ5VPs
 photos:
   - name: >-
@@ -143,7 +141,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNw1IZsIGtQx97hoTRFEEpciJ-h-R3lIFkVqSDo!2e10!4m2!3m1!1s0x89c259abc197bd65:0xfb54792260fcfcba
 address: 396 3rd Ave, E 28th St, New York, NY 10016, USA
-street: 396 3rd Ave, E 28th St
+street: 396 3rd Ave,E 28th St
 city: New York
 state: NY
 zip: '10016'
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c259abc197bd65:0xfb54792260fcfcba!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 10:00 PM'
+    - 'Tuesday: 11:00 AM – 10:00 PM'
+    - 'Wednesday: 11:00 AM – 10:00 PM'
+    - 'Thursday: 11:00 AM – 10:00 PM'
+    - 'Friday: 11:00 AM – 10:30 PM'
+    - 'Saturday: 11:00 AM – 10:30 PM'
+    - 'Sunday: 12:00 – 9:30 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,53 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
+phone: (212) 679-9888
 price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+price_range: $20 &ndash; $30
+rating: '4.9'
+rating_count: 245
+website: http://www.bluemountain888.com/
+description: >-
+  Discover Blue Mountain in New York$$$Blue Mountain (Sushi, Bar&Lounge) in New
+  York, NY, stands out as a welcoming spot for those seeking fresh sushi and
+  Asian fusion flavors in a relaxed setting. This cozy restaurant features a
+  variety of inventive dishes that blend traditional Japanese elements with
+  creative twists, all served in a laid-back atmosphere complete with a stylish
+  bar for casual dining. Patrons can enjoy high-quality ingredients and
+  accessible features like wheelchair-friendly entrances, making it easy to
+  savor meals without hassle. Whether you're exploring sushi restaurants near
+  you or looking for a comfortable place to unwind, the menu highlights a range
+  of options that cater to different tastes, from light bites to more
+  substantial fare. Its solid reputation adds to the appeal for anyone in the
+  area hunting for top-rated sushi experiences.
+generative_summary: >-
+  Discover Blue Mountain in New York$$$Blue Mountain (Sushi, Bar&Lounge) in New
+  York, NY, stands out as a welcoming spot for those seeking fresh sushi and
+  Asian fusion flavors in a relaxed setting. This cozy restaurant features a
+  variety of inventive dishes that blend traditional Japanese elements with
+  creative twists, all served in a laid-back atmosphere complete with a stylish
+  bar for casual dining. Patrons can enjoy high-quality ingredients and
+  accessible features like wheelchair-friendly entrances, making it easy to
+  savor meals without hassle. Whether you're exploring sushi restaurants near
+  you or looking for a comfortable place to unwind, the menu highlights a range
+  of options that cater to different tastes, from light bites to more
+  substantial fare. Its solid reputation adds to the appeal for anyone in the
+  area hunting for top-rated sushi experiences.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Buzzing About$$$If you're on the hunt for great sushi places
+  near you, folks often highlight the delicious and fresh options at this spot,
+  like the flavorful spicy tuna crispy rice and tasty scallion pancakes that
+  keep diners coming back. Many appreciate the variety of sushi and sashimi
+  selections, including premium cuts that feel both authentic and exciting
+  without breaking the bank. Service here gets nods for being friendly and
+  attentive, creating a welcoming vibe that makes every meal feel special and
+  stress-free. Delivery is another plus, with quick and reliable service that
+  adds convenience for busy days. Overall, it's a solid choice for anyone
+  craving quality Japanese-inspired eats, offering good value and a positive
+  experience that lives up to the hype.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +314,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

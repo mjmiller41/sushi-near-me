@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Gen Ramen"
+title: Gen Ramen
 permalink: /north-carolina/raleigh/gen-ramen.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Raleigh
 seo:
-  name: "Gen Ramen"
-  type: Restaurant
+  type: restaurant
   links: https://www.instagram.com/genramen_raleigh/?hl=en
-description: "Gen Ramen serves delicious sushi in Raleigh, North Carolina. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJWxGcI-JZrIkRTd8zHnU6WSY
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $10 &ndash; $20
 rating: '4.8'
 rating_count: 0
 website: https://www.instagram.com/genramen_raleigh/?hl=en
+description: >-
+  Explore Gen Ramen in Raleigh, NC$$$Gen Ramen in Raleigh, NC, offers a
+  welcoming spot for enjoying authentic Japanese-inspired ramen dishes in a cozy
+  and well-decorated setting. The restaurant features flavorful broths and
+  high-quality ingredients that highlight its commitment to fresh, satisfying
+  meals, making it a great choice for those seeking comforting eats. With
+  options for outdoor seating and accessibility features like
+  wheelchair-friendly entrances and parking, it caters to a variety of diners
+  looking for convenience and inclusivity. The moderate price range provides
+  good value for generous portions, appealing to both casual visitors and those
+  exploring Japanese cuisine options nearby. Its operational status and
+  additional perks like delivery and takeout add to the overall appeal for
+  anyone in the area.
+generative_summary: >-
+  Explore Gen Ramen in Raleigh, NC$$$Gen Ramen in Raleigh, NC, offers a
+  welcoming spot for enjoying authentic Japanese-inspired ramen dishes in a cozy
+  and well-decorated setting. The restaurant features flavorful broths and
+  high-quality ingredients that highlight its commitment to fresh, satisfying
+  meals, making it a great choice for those seeking comforting eats. With
+  options for outdoor seating and accessibility features like
+  wheelchair-friendly entrances and parking, it caters to a variety of diners
+  looking for convenience and inclusivity. The moderate price range provides
+  good value for generous portions, appealing to both casual visitors and those
+  exploring Japanese cuisine options nearby. Its operational status and
+  additional perks like delivery and takeout add to the overall appeal for
+  anyone in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJWxGcI-JZrIkRTd8zHnU6WSY/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJcnA3WmZnEAE
@@ -374,6 +399,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURRaDZxOTZRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURRaDZxOTZRRRAB!2m1!1s0x89ac59e2239c115b:0x26593a751e33df4d
+review_summary: >-
+  Customer Feedback on Gen Ramen$$$Folks rave about the delicious ramen and
+  tasty sides like takoyaki and curry bowls, noting that the flavors are bold
+  and hit the spot every time. Many appreciate the attentive service and cozy
+  atmosphere that make dining here feel relaxed and enjoyable, even for families
+  or groups. While some mention portions could be larger and spice levels might
+  not pack as much heat as expected, the overall experience is praised for its
+  quality ingredients and quick preparation. It's often highlighted as a go-to
+  spot for hearty meals that leave you satisfied, with friendly staff ensuring
+  drinks are always topped up. If you're in the mood for comforting
+  Japanese-inspired eats near you, this place consistently delivers a positive
+  vibe that's worth checking out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -406,7 +444,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

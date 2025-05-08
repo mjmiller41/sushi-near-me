@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Mashiko Japanese Restaurant"
+title: Mashiko Japanese Restaurant
 permalink: /washington/seattle/mashiko-japanese-restaurant.html
 stateAbbr: WA
 stateName: Washington
 cityName: Seattle
 seo:
-  name: "Mashiko Japanese Restaurant"
-  type: Restaurant
+  type: restaurant
   links: http://www.mashikorestaurant.com/
-description: "Mashiko Japanese Restaurant serves delicious sushi in Seattle, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJKSsQ2ftAkFQR1nDs0cMK9w0
 photos:
   - name: >-
@@ -170,7 +168,105 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x549040fbd9102b29:0xdf70ac3d1ec70d6!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 10
+        minute: 30
+      close:
+        day: 0
+        hour: 14
+        minute: 30
+    - open:
+        day: 0
+        hour: 17
+        minute: 3
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 17
+        minute: 3
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 17
+        minute: 3
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 3
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 17
+        minute: 3
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 10
+        minute: 30
+      close:
+        day: 6
+        hour: 14
+        minute: 30
+    - open:
+        day: 6
+        hour: 17
+        minute: 3
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 5:03 – 9:00 PM'
     - 'Tuesday: 5:00 – 9:00 PM'
     - 'Wednesday: 11:30 AM – 2:30 PM, 5:03 – 9:00 PM'
@@ -178,28 +274,86 @@ opening_hours:
     - 'Friday: 11:30 AM – 2:30 PM, 5:03 – 9:00 PM'
     - 'Saturday: 10:30 AM – 2:30 PM, 5:03 – 9:00 PM'
     - 'Sunday: 10:30 AM – 2:30 PM, 5:03 – 9:00 PM'
-  current:
-    - 'Monday: 5:03 – 9:00 PM'
-    - 'Tuesday: 5:00 – 9:00 PM'
-    - 'Wednesday: 11:30 AM – 2:30 PM, 5:03 – 9:00 PM'
-    - 'Thursday: 11:30 AM – 2:30 PM, 5:03 – 9:00 PM'
-    - 'Friday: 11:30 AM – 2:30 PM, 5:03 – 9:00 PM'
-    - 'Saturday: 10:30 AM – 2:30 PM, 5:03 – 9:00 PM'
-    - 'Sunday: 10:30 AM – 2:30 PM, 5:03 – 9:00 PM'
+  nextOpenTime: '2025-05-04T00:03:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: false
+    periods:
+      - open:
+          day: 0
+          hour: 10
+          minute: 30
+        close:
+          day: 0
+          hour: 14
+          minute: 30
+      - open:
+          day: 6
+          hour: 10
+          minute: 30
+        close:
+          day: 6
+          hour: 14
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: Closed'
+      - 'Tuesday: Closed'
+      - 'Wednesday: Closed'
+      - 'Thursday: Closed'
+      - 'Friday: Closed'
+      - 'Saturday: 10:30 AM – 2:30 PM'
+      - 'Sunday: 10:30 AM – 2:30 PM'
+    secondaryHoursType: BRUNCH
+    nextOpenTime: '2025-05-04T17:30:00Z'
 phone: (206) 935-4339
 price_level: PRICE_LEVEL_EXPENSIVE
 price_range: $100 &ndash; & up
 rating: '4.5'
-rating_count: 0
+rating_count: 843
 website: http://www.mashikorestaurant.com/
+description: >-
+  Discover Mashiko Japanese Restaurant in Seattle, WA$$$Mashiko Japanese
+  Restaurant in Seattle, WA, stands out as a creative and sustainable dining
+  destination, specializing in fresh sushi and omakase experiences that
+  highlight eco-friendly practices. This spot offers a thoughtful menu featuring
+  innovative dishes made with high-quality, responsibly sourced ingredients,
+  making it a go-to for sushi enthusiasts exploring Japanese places near me.
+  With accessibility features like wheelchair-friendly parking and seating, it
+  ensures a welcoming environment for all visitors seeking authentic flavors in
+  a cozy setting. The restaurant's commitment to sustainability extends to its
+  operations, blending traditional techniques with modern twists to create
+  memorable meals. Whether you're in the mood for top-rated sushi or a relaxed
+  evening out, Mashiko delivers a refined yet approachable vibe in the heart of
+  the city.
+generative_summary: >-
+  Discover Mashiko Japanese Restaurant in Seattle, WA$$$Mashiko Japanese
+  Restaurant in Seattle, WA, stands out as a creative and sustainable dining
+  destination, specializing in fresh sushi and omakase experiences that
+  highlight eco-friendly practices. This spot offers a thoughtful menu featuring
+  innovative dishes made with high-quality, responsibly sourced ingredients,
+  making it a go-to for sushi enthusiasts exploring Japanese places near me.
+  With accessibility features like wheelchair-friendly parking and seating, it
+  ensures a welcoming environment for all visitors seeking authentic flavors in
+  a cozy setting. The restaurant's commitment to sustainability extends to its
+  operations, blending traditional techniques with modern twists to create
+  memorable meals. Whether you're in the mood for top-rated sushi or a relaxed
+  evening out, Mashiko delivers a refined yet approachable vibe in the heart of
+  the city.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Love About This Sushi Spot$$$Visitors often praise the
+  delicious nigiri, rolls, and omakase options at this Seattle favorite, noting
+  the fresh, high-quality fish that really stands out in every bite. Many
+  appreciate the creative dishes that add fun twists to classic Japanese
+  flavors, making it a solid choice for anyone hunting for great sushi
+  restaurants nearby. The staff gets high marks for being friendly and helpful,
+  guiding diners through the menu with ease and enhancing the overall
+  experience. Folks also enjoy the cozy, authentic atmosphere that feels just
+  right for a casual meal or special occasion, without any pretentious vibes.
+  Overall, it's a reliably enjoyable spot that keeps customers coming back for
+  more, blending quality food with a welcoming vibe that hits the mark for
+  Japanese dining lovers.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +379,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

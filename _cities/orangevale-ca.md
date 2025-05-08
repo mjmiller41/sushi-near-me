@@ -5,4 +5,5 @@ permalink: /california/orangevale/
 stateAbbr: CA
 stateName: California
 cityName: Orangevale
+
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Bonchon 32nd st"
+title: Bonchon 32nd st
 permalink: /new-york/new-york/bonchon-32nd-st.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "Bonchon 32nd st"
-  type: Restaurant
-  links: null
-description: "Bonchon 32nd st serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://locations.bonchon.com/ll/US/NY/New-York/325-5th-Ave
 place_id: ChIJQzFkRahZwokRxMJjMYIbmow
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c259a845643143:0x8c9a1b823163c2c4!10e5
 primary_type: Asian Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 1
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 1
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 1
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 1
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 1
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 2
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 2
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 1:00 AM'
+    - 'Tuesday: 11:00 AM – 1:00 AM'
+    - 'Wednesday: 11:00 AM – 1:00 AM'
+    - 'Thursday: 11:00 AM – 1:00 AM'
+    - 'Friday: 11:00 AM – 2:00 AM'
+    - 'Saturday: 11:00 AM – 2:00 AM'
+    - 'Sunday: 11:00 AM – 1:00 AM'
+  nextCloseTime: '2025-05-04T06:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,51 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (212) 686-8282
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.2'
+rating_count: 1613
+website: https://locations.bonchon.com/ll/US/NY/New-York/325-5th-Ave
+description: >-
+  Discover Bonchon in New York, NY$$$Bonchon 32nd st in New York, NY, stands out
+  as a vibrant Asian restaurant chain celebrated for its flavorful fusion of
+  Korean and other Asian cuisines. This spot delights visitors with its
+  signature Korean fried chicken, paired with a range of Asian-inspired dishes
+  that create a welcoming atmosphere for casual dining. As a family-friendly
+  venue, it offers accessible features like wheelchair-friendly entrances and
+  seating, making it easy for everyone to enjoy a meal. The menu's emphasis on
+  bold flavors and fresh ingredients appeals to those exploring Asian places
+  near me, blending traditional elements with modern twists. With its convenient
+  location and extended hours, it's an ideal choice for anyone seeking authentic
+  Asian fusion options in the heart of the city.
+generative_summary: >-
+  Discover Bonchon in New York, NY$$$Bonchon 32nd st in New York, NY, stands out
+  as a vibrant Asian restaurant chain celebrated for its flavorful fusion of
+  Korean and other Asian cuisines. This spot delights visitors with its
+  signature Korean fried chicken, paired with a range of Asian-inspired dishes
+  that create a welcoming atmosphere for casual dining. As a family-friendly
+  venue, it offers accessible features like wheelchair-friendly entrances and
+  seating, making it easy for everyone to enjoy a meal. The menu's emphasis on
+  bold flavors and fresh ingredients appeals to those exploring Asian places
+  near me, blending traditional elements with modern twists. With its convenient
+  location and extended hours, it's an ideal choice for anyone seeking authentic
+  Asian fusion options in the heart of the city.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this Asian eatery often rave about the
+  tasty, crispy mains and the overall welcoming vibe that keeps people coming
+  back. Many highlight the solid portion sizes and flavorful dishes as standout
+  features, making it a go-to spot for a satisfying meal without breaking the
+  bank. Feedback frequently notes the friendly staff and efficient service,
+  adding to the enjoyable experience for groups or solo diners. While some
+  mention occasional waits during peak times, the general consensus leans
+  positive, with folks appreciating the value and variety that earn it high
+  marks. If you're on the hunt for reliable Asian dining spots nearby, this
+  place delivers a consistently enjoyable outing that lives up to its strong
+  reputation.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +312,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Coach Sushi"
+title: Coach Sushi
 permalink: /california/oakland/coach-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Oakland
 seo:
-  name: "Coach Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.coachsushius.com/
-description: "Coach Sushi serves delicious sushi in Oakland, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJk-MAj0aHj4ARajSMdt4JfGY
 photos:
   - name: >-
@@ -169,7 +167,121 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x808f87468f00e393:0x667c09de768c346a!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 14
+        minute: 30
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 14
+        minute: 30
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 2:30 PM, 5:00 – 9:30 PM'
     - 'Tuesday: 11:00 AM – 2:30 PM, 5:00 – 9:30 PM'
     - 'Wednesday: 11:00 AM – 2:30 PM, 5:00 – 9:30 PM'
@@ -177,14 +289,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 2:30 PM, 5:00 – 10:00 PM'
     - 'Saturday: 11:00 AM – 2:30 PM, 5:00 – 10:00 PM'
     - 'Sunday: 11:00 AM – 2:30 PM, 5:00 – 9:30 PM'
-  current:
-    - 'Monday: 11:00 AM – 2:30 PM, 5:00 – 9:30 PM'
-    - 'Tuesday: 11:00 AM – 2:30 PM, 5:00 – 9:30 PM'
-    - 'Wednesday: 11:00 AM – 2:30 PM, 5:00 – 9:30 PM'
-    - 'Thursday: 11:00 AM – 2:30 PM, 5:00 – 9:30 PM'
-    - 'Friday: 11:00 AM – 2:30 PM, 5:00 – 10:00 PM'
-    - 'Saturday: 11:00 AM – 2:30 PM, 5:00 – 10:00 PM'
-    - 'Sunday: 11:00 AM – 2:30 PM, 5:00 – 9:30 PM'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,35 +301,226 @@ phone: (510) 834-7866
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.4'
-rating_count: 0
+rating_count: 295
 website: https://www.coachsushius.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Coach Sushi in Oakland, CA$$$Located in the vibrant city of Oakland,
+  CA, Coach Sushi stands out as a welcoming Japanese restaurant offering a
+  delightful array of fresh sushi and traditional dishes. This laid-back spot
+  features inventive rolls and flavorful options like tempura, perfect for those
+  seeking authentic Japanese flavors in a casual setting. With its accessible
+  entrance and thoughtful seating, it's an inclusive choice for everyone looking
+  to enjoy a meal without hassle. The menu highlights creative specials that
+  pair well with beverages, making it a go-to for anyone exploring top sushi
+  restaurants nearby. Whether you're in the mood for a quick bite or a relaxed
+  evening, this neighborhood gem delivers a satisfying experience that captures
+  the essence of Japanese dining.
+generative_summary: >-
+  Discover Coach Sushi in Oakland, CA$$$Located in the vibrant city of Oakland,
+  CA, Coach Sushi stands out as a welcoming Japanese restaurant offering a
+  delightful array of fresh sushi and traditional dishes. This laid-back spot
+  features inventive rolls and flavorful options like tempura, perfect for those
+  seeking authentic Japanese flavors in a casual setting. With its accessible
+  entrance and thoughtful seating, it's an inclusive choice for everyone looking
+  to enjoy a meal without hassle. The menu highlights creative specials that
+  pair well with beverages, making it a go-to for anyone exploring top sushi
+  restaurants nearby. Whether you're in the mood for a quick bite or a relaxed
+  evening, this neighborhood gem delivers a satisfying experience that captures
+  the essence of Japanese dining.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJk-MAj0aHj4ARajSMdt4JfGY/reviews/ChZDSUhNMG9nS0VJQ0FnSUNfaHF6VGNREAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        One of the tastiest sushi restaurants in Oakland. The Mango Paradise and
+        the Coach Sushi rolls are absolutely delicious. They also make their own
+        ice cream, and we tried the Black Sesame one and it was sublime. Perfect
+        stop before/after a movie night at the Grand Lake Theater!
+      languageCode: en
+    originalText:
+      text: >-
+        One of the tastiest sushi restaurants in Oakland. The Mango Paradise and
+        the Coach Sushi rolls are absolutely delicious. They also make their own
+        ice cream, and we tried the Black Sesame one and it was sublime. Perfect
+        stop before/after a movie night at the Grand Lake Theater!
+      languageCode: en
+    authorAttribution:
+      displayName: Oriol Nieto
+      uri: https://www.google.com/maps/contrib/105492818254279815588/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXcg1iTYp00BYhk7F3AJ4STLjhUHPLhnHDREWhL7zayfRsW6463uA=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-01-15T13:59:38.543655Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNfaHF6VGNREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNfaHF6VGNREAE!2m1!1s0x808f87468f00e393:0x667c09de768c346a
+  - name: >-
+      places/ChIJk-MAj0aHj4ARajSMdt4JfGY/reviews/ChdDSUhNMG9nS0VJQ0FnSUNMNGRyZnJRRRAB
+    relativePublishTimeDescription: 10 months ago
+    rating: 5
+    text:
+      text: >-
+        Delicious authentic sushi right by the lake. For our visit, we had the
+        Warrior Roll, the Happy Roll, a bowl of miso soup 🍲 and the edamame. It
+        was all great, the fish was fresh, and it wasn’t too expensive for
+        sushi! Reminded me a bit of my days teaching English in Japan 🇯🇵
+      languageCode: en
+    originalText:
+      text: >-
+        Delicious authentic sushi right by the lake. For our visit, we had the
+        Warrior Roll, the Happy Roll, a bowl of miso soup 🍲 and the edamame. It
+        was all great, the fish was fresh, and it wasn’t too expensive for
+        sushi! Reminded me a bit of my days teaching English in Japan 🇯🇵
+      languageCode: en
+    authorAttribution:
+      displayName: Ryan Dorrill
+      uri: https://www.google.com/maps/contrib/114406911696148204544/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUq-gAb-r2MOUsl8Aul8zg1AzzQDams73ui-FCdZJ9wtJUcL0PE=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-06-20T02:26:26.543980Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNMNGRyZnJRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNMNGRyZnJRRRAB!2m1!1s0x808f87468f00e393:0x667c09de768c346a
+  - name: >-
+      places/ChIJk-MAj0aHj4ARajSMdt4JfGY/reviews/ChdDSUhNMG9nS0VJQ0FnSURRMnBQSDhRRRAB
+    relativePublishTimeDescription: 6 years ago
+    rating: 5
+    text:
+      text: >-
+        Such great ambiance and value. They offer an unlimited box of sake for
+        five bucks extra if you buy a meal of a certain amount. The sushi is
+        fresh, the space is intimate and the service is always great. I love
+        meeting up with friends here, since it’s so centrally located and right
+        by the lake. I would eat here every day if I could afford to.
+      languageCode: en
+    originalText:
+      text: >-
+        Such great ambiance and value. They offer an unlimited box of sake for
+        five bucks extra if you buy a meal of a certain amount. The sushi is
+        fresh, the space is intimate and the service is always great. I love
+        meeting up with friends here, since it’s so centrally located and right
+        by the lake. I would eat here every day if I could afford to.
+      languageCode: en
+    authorAttribution:
+      displayName: Erich Grois
+      uri: https://www.google.com/maps/contrib/114180331738547202756/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWCHjh7s9giHZQXG-3g5lxqjrPyzaRjkyVuRCwrz-2x46BeXgvEZA=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2018-10-16T05:11:50.454429Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURRMnBQSDhRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURRMnBQSDhRRRAB!2m1!1s0x808f87468f00e393:0x667c09de768c346a
+  - name: >-
+      places/ChIJk-MAj0aHj4ARajSMdt4JfGY/reviews/ChdDSUhNMG9nS0VJQ0FnSURxMUx2XzRnRRAB
+    relativePublishTimeDescription: 3 years ago
+    rating: 5
+    text:
+      text: >-
+        As much as you would like saki (and they never let your cup run dry).
+        Sushi is okay  it's not the best sushi in Oakland, but it is affordable.
+        We go there with friends for the saki and good times, not because we
+        need to settle a craving for sushi. Staff was nice, prices are great.
+        I'd recommend for a fun night out.
+      languageCode: en
+    originalText:
+      text: >-
+        As much as you would like saki (and they never let your cup run dry).
+        Sushi is okay  it's not the best sushi in Oakland, but it is affordable.
+        We go there with friends for the saki and good times, not because we
+        need to settle a craving for sushi. Staff was nice, prices are great.
+        I'd recommend for a fun night out.
+      languageCode: en
+    authorAttribution:
+      displayName: Anna Guiles
+      uri: https://www.google.com/maps/contrib/106205924030208194051/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjW9XA_iN8RFR3sei3QTyduWc0adR0-hS69zzNamfqY5esHZSTlCDg=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2021-06-30T03:48:41.583835Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURxMUx2XzRnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURxMUx2XzRnRRAB!2m1!1s0x808f87468f00e393:0x667c09de768c346a
+  - name: >-
+      places/ChIJk-MAj0aHj4ARajSMdt4JfGY/reviews/ChdDSUhNMG9nS0VJQ0FnTURJemV1UnFRRRAB
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 5
+    text:
+      text: >-
+        If you are local and looking for fresh sushi, very friendly staff. Stop
+        comparing other places and just come try it out.
+
+
+        I Will return again 😇
+      languageCode: en
+    originalText:
+      text: >-
+        If you are local and looking for fresh sushi, very friendly staff. Stop
+        comparing other places and just come try it out.
+
+
+        I Will return again 😇
+      languageCode: en
+    authorAttribution:
+      displayName: CA P
+      uri: https://www.google.com/maps/contrib/104106936795138529769/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXstF3j0qaZU2Te7paQ2MLZZkXkbgdYAF0Vb-HSi9qhD98IYtiq=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-12T04:44:18.504340Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJemV1UnFRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJemV1UnFRRRAB!2m1!1s0x808f87468f00e393:0x667c09de768c346a
+review_summary: >-
+  Customer Feedback Highlights$$$Visitors often rave about the fresh and
+  flavorful sushi rolls that make Coach Sushi a solid pick for affordable
+  Japanese eats in the area. Many appreciate the welcoming vibe and generous
+  portions, noting it's a fun spot for groups to unwind and enjoy creative
+  dishes without breaking the bank. Folks frequently mention the attentive
+  service and tasty add-ons like homemade desserts, which add a nice touch to
+  the overall meal. While some say it's not the fanciest sushi around, the
+  consensus leans positive on its value and lively atmosphere, ideal for casual
+  nights out. If you're hunting for reliable sushi places near you, this spot
+  consistently delivers a enjoyable experience that keeps people coming back for
+  more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
+delivery: true
+dine_in: true
 good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: false
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Celebrated for its bottomless sake, this bustling eatery offers inventive
+  sushi & Japanese mains.
 
 ---

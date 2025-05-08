@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Bayridge Sushi"
+title: Bayridge Sushi
 permalink: /florida/longwood/bayridge-sushi.html
 stateAbbr: FL
 stateName: Florida
 cityName: Longwood
 seo:
-  name: "Bayridge Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.brsushi.com/
-description: "Bayridge Sushi serves delicious sushi in Longwood, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJF576zz9y54gRX-C3WqaUVEM
 photos:
   - name: >-
@@ -199,7 +197,47 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 0
 website: http://www.brsushi.com/
+description: >-
+  About Bayridge Sushi$$$Bayridge Sushi in Longwood, FL, stands out as a premier
+  destination for fresh Japanese-inspired dishes, offering a welcoming
+  atmosphere that's perfect for anyone seeking top-rated sushi nearby. The
+  eatery boasts excellent accessibility features, including wheelchair-friendly
+  parking, entrances, and seating, ensuring a comfortable visit for all guests.
+  With flexible hours extending from late morning into the evening on most days,
+  it's an ideal spot for casual lunches or dinners featuring a variety of
+  flavorful rolls and entrees. Prices remain moderate, making it a great choice
+  for everyday dining or group outings without straining the budget. Whether
+  you're exploring sushi places in the area or looking for reliable Japanese
+  cuisine close to home, this spot delivers an enjoyable and straightforward
+  meal experience.
+generative_summary: >-
+  About Bayridge Sushi$$$Bayridge Sushi in Longwood, FL, stands out as a premier
+  destination for fresh Japanese-inspired dishes, offering a welcoming
+  atmosphere that's perfect for anyone seeking top-rated sushi nearby. The
+  eatery boasts excellent accessibility features, including wheelchair-friendly
+  parking, entrances, and seating, ensuring a comfortable visit for all guests.
+  With flexible hours extending from late morning into the evening on most days,
+  it's an ideal spot for casual lunches or dinners featuring a variety of
+  flavorful rolls and entrees. Prices remain moderate, making it a great choice
+  for everyday dining or group outings without straining the budget. Whether
+  you're exploring sushi places in the area or looking for reliable Japanese
+  cuisine close to home, this spot delivers an enjoyable and straightforward
+  meal experience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Visitor Feedback Highlights$$$From what folks share online, Bayridge Sushi
+  gets plenty of praise for its fresh and well-prepared rolls that hit the spot
+  for sushi lovers. People often mention the friendly service and relaxed
+  setting, which make it a go-to for casual meals or quick takeout when you're
+  in the mood for something tasty. With solid ratings reflecting good value,
+  especially for the generous portions and variety of options, it's frequently
+  recommended as one of the better sushi spots around. Overall, the buzz is
+  positive, with many appreciating the authentic flavors that keep diners coming
+  back for more. If you're hunting for the best sushi near you, this place seems
+  like a solid pick based on the enthusiastic comments about its welcoming vibe
+  and satisfying dishes.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +263,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

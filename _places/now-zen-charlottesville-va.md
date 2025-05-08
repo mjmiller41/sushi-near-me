@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Now & Zen"
+title: Now & Zen
 permalink: /virginia/charlottesville/now-zen.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Charlottesville
 seo:
-  name: "Now & Zen"
-  type: Restaurant
-  links: http://nowandzencville.square.site/
-description: "Now & Zen serves delicious sushi in Charlottesville, Virginia. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://nowandzen.hrpos.heartland.us/menu
 place_id: ChIJc1w5xCWGs4kRkiYAXVOfS3s
 photos:
   - name: >-
@@ -170,22 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89b38625c4395c73:0x7b4b9f535d002692!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 5:00 – 9:00 PM'
     - 'Wednesday: 5:00 – 9:00 PM'
     - 'Thursday: 5:00 – 9:00 PM'
-    - 'Friday: 5:00 – 9:00 PM'
-    - 'Saturday: 5:00 – 9:00 PM'
+    - 'Friday: 5:00 – 9:30 PM'
+    - 'Saturday: 5:00 – 9:30 PM'
     - 'Sunday: 5:00 – 9:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 5:00 – 9:00 PM'
-    - 'Wednesday: 5:00 – 9:00 PM'
-    - 'Thursday: 5:00 – 9:00 PM'
-    - 'Friday: 5:00 – 9:00 PM'
-    - 'Saturday: 5:00 – 9:00 PM'
-    - 'Sunday: 5:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T01:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +238,46 @@ phone: (434) 971-1177
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.3'
-rating_count: 0
-website: http://nowandzencville.square.site/
+rating_count: 505
+website: https://nowandzen.hrpos.heartland.us/menu
+description: >-
+  Discover Now & Zen in Charlottesville, VA$$$Now & Zen in Charlottesville, VA,
+  stands out as a welcoming Japanese restaurant specializing in fresh sushi
+  rolls and a variety of beverages like sake and beer. This cozy spot offers a
+  relaxed atmosphere perfect for enjoying authentic flavors, with thoughtful
+  accessibility features that make it easy for everyone to dine comfortably.
+  Patrons can savor the creative twists on traditional dishes, complemented by a
+  menu that balances quality ingredients and moderate pricing. For those
+  searching for top sushi places near me, this location delivers a genuine
+  experience that highlights the best of Japanese cuisine in a laid-back
+  setting.
+generative_summary: >-
+  Discover Now & Zen in Charlottesville, VA$$$Now & Zen in Charlottesville, VA,
+  stands out as a welcoming Japanese restaurant specializing in fresh sushi
+  rolls and a variety of beverages like sake and beer. This cozy spot offers a
+  relaxed atmosphere perfect for enjoying authentic flavors, with thoughtful
+  accessibility features that make it easy for everyone to dine comfortably.
+  Patrons can savor the creative twists on traditional dishes, complemented by a
+  menu that balances quality ingredients and moderate pricing. For those
+  searching for top sushi places near me, this location delivers a genuine
+  experience that highlights the best of Japanese cuisine in a laid-back
+  setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What People Are Saying About This Sushi Spot$$$Visitors to this popular sushi
+  restaurant often highlight the fresh, flavorful rolls and the inviting
+  ambiance that makes every meal feel special, based on its strong overall
+  rating. Many appreciate the attentive service and solid drink selections,
+  which add to the enjoyable experience without any major drawbacks. While some
+  mention occasional waits during peak hours, the general consensus leans
+  positive, praising the value for the price and the welcoming vibe that keeps
+  people coming back. If you're on the hunt for the best sushi near me, feedback
+  suggests this place consistently delivers on taste and atmosphere, making it a
+  reliable choice for casual outings. Overall, it's clear that the combination
+  of quality food and friendly service has earned it a loyal following among
+  sushi enthusiasts.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +303,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sakura Garden Japanese Steakhouse"
+title: Sakura Garden Japanese Steakhouse
 permalink: /connecticut/glastonbury/sakura-garden-japanese-steakhouse.html
 stateAbbr: CT
 stateName: Connecticut
 cityName: Glastonbury
 seo:
-  name: "Sakura Garden Japanese Steakhouse"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sakura Garden Japanese Steakhouse serves delicious sushi in Glastonbury, Connecticut. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJZ5fFo49R5okRkbDsIEAHh3Y
 photos:
   - name: >-
@@ -185,7 +183,45 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Explore Sakura Garden in Glastonbury, CT$$$Sakura Garden Japanese Steakhouse
+  in Glastonbury, CT, delights diners with its focus on authentic Japanese
+  cuisine, featuring fresh sushi and flavorful hibachi-grilled dishes that
+  highlight the best of Asian flavors. The casual setting includes a full bar
+  with a variety of drinks, making it a go-to spot for those seeking Japanese
+  dining near you, complete with accessible features like wheelchair-friendly
+  parking and entrances. Patrons can enjoy a lively atmosphere that pairs well
+  with the interactive hibachi experience, where skilled preparation brings
+  meals to life. This sushi restaurant stands out for its commitment to quality
+  ingredients and a welcoming vibe, ideal for casual meals or group outings in
+  the area.
+generative_summary: >-
+  Explore Sakura Garden in Glastonbury, CT$$$Sakura Garden Japanese Steakhouse
+  in Glastonbury, CT, delights diners with its focus on authentic Japanese
+  cuisine, featuring fresh sushi and flavorful hibachi-grilled dishes that
+  highlight the best of Asian flavors. The casual setting includes a full bar
+  with a variety of drinks, making it a go-to spot for those seeking Japanese
+  dining near you, complete with accessible features like wheelchair-friendly
+  parking and entrances. Patrons can enjoy a lively atmosphere that pairs well
+  with the interactive hibachi experience, where skilled preparation brings
+  meals to life. This sushi restaurant stands out for its commitment to quality
+  ingredients and a welcoming vibe, ideal for casual meals or group outings in
+  the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Visitor Feedback Highlights$$$Folks rave about the tasty hibachi and sushi at
+  this spot, often calling out the flavorful options that make it a solid choice
+  for Japanese places near me. Many appreciate the fun, engaging vibe,
+  especially at the hibachi tables where the chefs' entertaining skills add an
+  extra layer of excitement to the meal. While some note that service can vary a
+  bit, the overall experience remains enjoyable with fresh flavors and a relaxed
+  setting that keeps customers coming back. Overall, it's a welcoming
+  destination for anyone hunting for top-rated sushi, blending good food with a
+  lively atmosphere that suits families and friends alike. If you're exploring
+  sushi restaurants in the region, this one delivers a generally positive vibe
+  with room for occasional improvements.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +247,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

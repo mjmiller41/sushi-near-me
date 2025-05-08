@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "AT Sushi Japanese Restaurant"
+title: AT Sushi Japanese Restaurant
 permalink: /new-york/syracuse/at-sushi-japanese-restaurant.html
 stateAbbr: NY
 stateName: New York
 cityName: Syracuse
 seo:
-  name: "AT Sushi Japanese Restaurant"
-  type: Restaurant
+  type: restaurant
   links: https://www.facebook.com/profile.php?id=100089737989989&mibextid=ZbWKwL
-description: "AT Sushi Japanese Restaurant serves delicious sushi in Syracuse, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJPTvQgOjz2YkRXF4SvivRfX4
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 0
 website: https://www.facebook.com/profile.php?id=100089737989989&mibextid=ZbWKwL
+description: >-
+  Discover AT Sushi in Syracuse, NY$$$AT Sushi Japanese Restaurant in Syracuse,
+  NY, stands out as a welcoming spot for sushi enthusiasts seeking fresh and
+  flavorful options in a casual setting. This eatery boasts an extensive
+  selection of sushi rolls, bento boxes, and poke bowls, making it a go-to
+  choice for satisfying lunch or dinner cravings among the best sushi
+  restaurants nearby. With thoughtful accessibility features like
+  wheelchair-friendly parking and seating, it's designed to accommodate everyone
+  looking for a comfortable meal. The menu emphasizes variety and affordability,
+  perfect for those exploring top-rated Japanese places in the area. Whether
+  you're in the mood for inventive rolls or simple classics, this spot delivers
+  a relaxed vibe that keeps diners coming back for more.
+generative_summary: >-
+  Discover AT Sushi in Syracuse, NY$$$AT Sushi Japanese Restaurant in Syracuse,
+  NY, stands out as a welcoming spot for sushi enthusiasts seeking fresh and
+  flavorful options in a casual setting. This eatery boasts an extensive
+  selection of sushi rolls, bento boxes, and poke bowls, making it a go-to
+  choice for satisfying lunch or dinner cravings among the best sushi
+  restaurants nearby. With thoughtful accessibility features like
+  wheelchair-friendly parking and seating, it's designed to accommodate everyone
+  looking for a comfortable meal. The menu emphasizes variety and affordability,
+  perfect for those exploring top-rated Japanese places in the area. Whether
+  you're in the mood for inventive rolls or simple classics, this spot delivers
+  a relaxed vibe that keeps diners coming back for more.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJPTvQgOjz2YkRXF4SvivRfX4/reviews/ChdDSUhNMG9nS0VJQ0FnSURmZ3NyQTJRRRAB
@@ -402,6 +425,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR1eXNpOTBRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR1eXNpOTBRRRAB!2m1!1s0x89d9f3e880d03b3d:0x7e7dd12bbe125e5c
+review_summary: >-
+  What Customers Are Buzzing About$$$Folks who've tried this sushi spot often
+  rave about the consistently fresh and high-quality dishes that offer great
+  value without breaking the bank, making it a solid pick for anyone hunting for
+  affordable eats. Many highlight the friendly service and welcoming atmosphere
+  that enhance the overall experience, whether you're grabbing takeout or dining
+  in. Reviewers frequently mention the variety of options, like unique rolls and
+  poke bowls, as standout features that keep meals exciting and satisfying.
+  While some note that wait times can vary due to popular demand, the end result
+  is always worth it, with plenty of praise for the spot's reliability as one of
+  the top sushi choices around. All in all, it's a go-to for casual diners who
+  appreciate tasty, well-prepared meals in a laid-back environment.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -434,7 +470,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: null
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

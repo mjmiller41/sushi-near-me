@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Beijing Chinese Restaurant"
+title: Beijing Chinese Restaurant
 permalink: /massachusetts/lexington/beijing-chinese-restaurant.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Lexington
 seo:
-  name: "Beijing Chinese Restaurant"
-  type: Restaurant
+  type: restaurant
   links: https://www.beijingchinesedining.com/
-description: "Beijing Chinese Restaurant serves delicious sushi in Lexington, Massachusetts. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJq4k-NcWd44kR5FSQUYXKP7w
 photos:
   - name: >-
@@ -169,7 +167,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89e39dc5353e89ab:0xbc3fca85519054e4!10e5
 primary_type: Chinese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 9:00 PM'
     - 'Tuesday: 11:30 AM – 9:00 PM'
     - 'Wednesday: 11:30 AM – 9:00 PM'
@@ -177,28 +233,123 @@ opening_hours:
     - 'Friday: 11:30 AM – 10:00 PM'
     - 'Saturday: 11:30 AM – 10:00 PM'
     - 'Sunday: 11:30 AM – 9:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 9:00 PM'
-    - 'Tuesday: 11:30 AM – 9:00 PM'
-    - 'Wednesday: 11:30 AM – 9:00 PM'
-    - 'Thursday: 11:30 AM – 9:00 PM'
-    - 'Friday: 11:30 AM – 10:00 PM'
-    - 'Saturday: 11:30 AM – 10:00 PM'
-    - 'Sunday: 11:30 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 11
+          minute: 30
+        close:
+          day: 0
+          hour: 20
+          minute: 45
+      - open:
+          day: 1
+          hour: 11
+          minute: 30
+        close:
+          day: 1
+          hour: 20
+          minute: 45
+      - open:
+          day: 2
+          hour: 11
+          minute: 30
+        close:
+          day: 2
+          hour: 20
+          minute: 45
+      - open:
+          day: 3
+          hour: 11
+          minute: 30
+        close:
+          day: 3
+          hour: 20
+          minute: 45
+      - open:
+          day: 4
+          hour: 11
+          minute: 30
+        close:
+          day: 4
+          hour: 20
+          minute: 45
+      - open:
+          day: 5
+          hour: 11
+          minute: 30
+        close:
+          day: 5
+          hour: 21
+          minute: 45
+      - open:
+          day: 6
+          hour: 11
+          minute: 30
+        close:
+          day: 6
+          hour: 21
+          minute: 45
+    weekdayDescriptions:
+      - 'Monday: 11:30 AM – 8:45 PM'
+      - 'Tuesday: 11:30 AM – 8:45 PM'
+      - 'Wednesday: 11:30 AM – 8:45 PM'
+      - 'Thursday: 11:30 AM – 8:45 PM'
+      - 'Friday: 11:30 AM – 9:45 PM'
+      - 'Saturday: 11:30 AM – 9:45 PM'
+      - 'Sunday: 11:30 AM – 8:45 PM'
+    secondaryHoursType: KITCHEN
+    nextCloseTime: '2025-05-04T01:45:00Z'
 phone: (781) 862-2100
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.0'
-rating_count: 0
+rating_count: 327
 website: https://www.beijingchinesedining.com/
+description: >-
+  Discover Beijing Chinese Restaurant in Lexington, MA$$$Beijing Chinese
+  Restaurant in Lexington, MA, stands out as a welcoming spot for enjoying
+  authentic Chinese cuisine in a relaxed atmosphere. This family-oriented venue
+  boasts an extensive menu featuring a variety of flavorful dishes, complemented
+  by a full bar and options for seasonal outdoor dining that enhance the overall
+  experience. Accessibility features like wheelchair-friendly parking and
+  seating make it convenient for all visitors, while its moderate price range
+  offers great value for hearty meals. Open daily from late morning into the
+  evening, it's an ideal choice for those seeking casual dining options in the
+  area, blending traditional flavors with a comfortable setting that appeals to
+  both locals and passersby.
+generative_summary: >-
+  Discover Beijing Chinese Restaurant in Lexington, MA$$$Beijing Chinese
+  Restaurant in Lexington, MA, stands out as a welcoming spot for enjoying
+  authentic Chinese cuisine in a relaxed atmosphere. This family-oriented venue
+  boasts an extensive menu featuring a variety of flavorful dishes, complemented
+  by a full bar and options for seasonal outdoor dining that enhance the overall
+  experience. Accessibility features like wheelchair-friendly parking and
+  seating make it convenient for all visitors, while its moderate price range
+  offers great value for hearty meals. Open daily from late morning into the
+  evening, it's an ideal choice for those seeking casual dining options in the
+  area, blending traditional flavors with a comfortable setting that appeals to
+  both locals and passersby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Buzzing About$$$Visitors to Beijing Chinese Restaurant
+  often rave about the tasty, well-prepared dishes that hit the spot for a
+  satisfying meal, with many highlighting the generous portions and flavorful
+  options as standout features. Feedback frequently notes the friendly service
+  and welcoming vibe, making it a go-to for casual get-togethers or quick bites
+  without any major hiccups. While some mention minor waits during peak times,
+  the overall consensus leans positive, appreciating the solid value for the
+  price and the restaurant's efforts to accommodate different needs. Folks seem
+  to enjoy the relaxed environment, which adds to the charm of exploring Chinese
+  favorites nearby, and the 4.0 rating reflects a generally upbeat experience
+  that's worth trying out. If you're in the mood for reliable dining spots
+  around Lexington, MA, this one keeps things light and enjoyable without
+  overpromising.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -224,7 +375,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

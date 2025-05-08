@@ -5,4 +5,5 @@ permalink: /nevada/gardnerville/
 stateAbbr: NV
 stateName: Nevada
 cityName: Gardnerville
+
 ---

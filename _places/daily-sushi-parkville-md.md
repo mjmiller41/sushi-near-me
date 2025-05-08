@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Daily Sushi"
+title: Daily Sushi
 permalink: /maryland/parkville/daily-sushi.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Parkville
 seo:
-  name: "Daily Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.dailysushiyummy.com/
-description: "Daily Sushi serves delicious sushi in Parkville, Maryland. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJKd9c-SoPyIkR80Uqx6xgte0
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 0
 website: https://www.dailysushiyummy.com/
+description: >-
+  Discover Daily Sushi in Parkville, MD$$$Daily Sushi in Parkville, MD, stands
+  out as a convenient spot for enjoying a mix of Japanese and Chinese flavors,
+  with a strong emphasis on fresh sushi options. This eatery offers carryout and
+  delivery services, making it easy to savor high-quality dishes without leaving
+  home, while also providing dine-in experiences in a straightforward, welcoming
+  setting. Accessibility features like wheelchair-friendly entrances and parking
+  add to its appeal for a wide range of visitors, ensuring everyone can enjoy
+  the variety of menu choices. Generous portions and affordable pricing make it
+  a go-to choice for those seeking satisfying Japanese cuisine close to home,
+  blending traditional flavors with everyday convenience.
+generative_summary: >-
+  Discover Daily Sushi in Parkville, MD$$$Daily Sushi in Parkville, MD, stands
+  out as a convenient spot for enjoying a mix of Japanese and Chinese flavors,
+  with a strong emphasis on fresh sushi options. This eatery offers carryout and
+  delivery services, making it easy to savor high-quality dishes without leaving
+  home, while also providing dine-in experiences in a straightforward, welcoming
+  setting. Accessibility features like wheelchair-friendly entrances and parking
+  add to its appeal for a wide range of visitors, ensuring everyone can enjoy
+  the variety of menu choices. Generous portions and affordable pricing make it
+  a go-to choice for those seeking satisfying Japanese cuisine close to home,
+  blending traditional flavors with everyday convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJKd9c-SoPyIkR80Uqx6xgte0/reviews/ChZDSUhNMG9nS0VJQ0FnSUR2aTQzX01REAE
@@ -388,6 +409,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURnOWZ1UjVBRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURnOWZ1UjVBRRAB!2m1!1s0x89c80f2af95cdf29:0xedb560acc72a45f3
+review_summary: >-
+  What Customers Are Saying About Daily Sushi$$$Folks often rave about the fresh
+  sushi and solid value at this spot, especially with the all-you-can-eat deals
+  that deliver plenty of tasty options without breaking the bank. While most
+  diners appreciate the friendly service and clean atmosphere, a few have
+  mentioned occasional inconsistencies with some dishes, like certain appetizers
+  not hitting the mark. Overall, it's clear that this place shines for sushi
+  enthusiasts looking for reliable, budget-friendly meals in the area. If you're
+  on the hunt for top-rated Japanese spots nearby, the positive experiences with
+  portions and flavors make it worth a try, though it's smart to stick with the
+  popular items for the best results.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -420,7 +453,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

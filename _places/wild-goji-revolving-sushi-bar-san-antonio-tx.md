@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Wild Goji Revolving Sushi & Bar"
+title: Wild Goji Revolving Sushi & Bar
 permalink: /texas/san-antonio/wild-goji-revolving-sushi-bar.html
 stateAbbr: TX
 stateName: Texas
 cityName: San Antonio
 seo:
-  name: "Wild Goji Revolving Sushi & Bar"
-  type: Restaurant
+  type: restaurant
   links: http://www.wildgojisatx.com/
-description: "Wild Goji Revolving Sushi & Bar serves delicious sushi in San Antonio, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJyVw1qAxgXIYRqHIevc40B84
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x865c600ca8355cc9:0xce0734cebd1e72a8!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 10:00 PM'
     - 'Tuesday: 11:30 AM – 10:00 PM'
     - 'Wednesday: 11:30 AM – 10:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 10:30 PM'
     - 'Saturday: 12:00 – 10:30 PM'
     - 'Sunday: 12:00 – 9:30 PM'
-  current:
-    - 'Monday: 11:30 AM – 10:00 PM'
-    - 'Tuesday: 11:30 AM – 10:00 PM'
-    - 'Wednesday: 11:30 AM – 10:00 PM'
-    - 'Thursday: 11:30 AM – 10:00 PM'
-    - 'Friday: 11:30 AM – 10:30 PM'
-    - 'Saturday: 12:00 – 10:30 PM'
-    - 'Sunday: 12:00 – 9:30 PM'
+  nextCloseTime: '2025-05-04T03:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,254 @@ phone: (210) 277-0638
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.5'
-rating_count: 0
+rating_count: 1384
 website: http://www.wildgojisatx.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Experience Wild Goji Revolving Sushi & Bar in San Antonio, TX$$$Wild Goji
+  Revolving Sushi & Bar in San Antonio, TX, offers a modern and inviting
+  atmosphere perfect for enjoying fresh sushi and Asian-inspired dishes in a
+  lively setting. This sushi restaurant features a innovative revolving belt
+  that brings a variety of colorful rolls and appetizers right to your table,
+  making it an ideal spot for casual dining or a fun night out with friends.
+  With its spacious layout and focus on accessibility, including
+  wheelchair-friendly options, visitors can savor flavorful ramen and street
+  food favorites in a welcoming environment. The menu highlights high-quality
+  ingredients and creative presentations, appealing to those seeking top-rated
+  sushi experiences near urban hubs. Whether you're looking for sushi places
+  near me or a taste of Japanese-inspired cuisine, this spot combines
+  convenience with a vibrant dining vibe.
+generative_summary: >-
+  Experience Wild Goji Revolving Sushi & Bar in San Antonio, TX$$$Wild Goji
+  Revolving Sushi & Bar in San Antonio, TX, offers a modern and inviting
+  atmosphere perfect for enjoying fresh sushi and Asian-inspired dishes in a
+  lively setting. This sushi restaurant features a innovative revolving belt
+  that brings a variety of colorful rolls and appetizers right to your table,
+  making it an ideal spot for casual dining or a fun night out with friends.
+  With its spacious layout and focus on accessibility, including
+  wheelchair-friendly options, visitors can savor flavorful ramen and street
+  food favorites in a welcoming environment. The menu highlights high-quality
+  ingredients and creative presentations, appealing to those seeking top-rated
+  sushi experiences near urban hubs. Whether you're looking for sushi places
+  near me or a taste of Japanese-inspired cuisine, this spot combines
+  convenience with a vibrant dining vibe.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJyVw1qAxgXIYRqHIevc40B84/reviews/ChZDSUhNMG9nS0VJQ0FnTURRNTZtZkZBEAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        This was such a fun and tasty experience! We were seated quickly and
+        given instructions. Alex was our waiter he had amazing customer service!
+        The sushi belt had mostly everything we wanted we had to order a few
+        separately and they came fast. Everything was fresh and delicious! I
+        can’t wait to stop by again the next time I’m in San Antonio!
+      languageCode: en
+    originalText:
+      text: >-
+        This was such a fun and tasty experience! We were seated quickly and
+        given instructions. Alex was our waiter he had amazing customer service!
+        The sushi belt had mostly everything we wanted we had to order a few
+        separately and they came fast. Everything was fresh and delicious! I
+        can’t wait to stop by again the next time I’m in San Antonio!
+      languageCode: en
+    authorAttribution:
+      displayName: Joella Hernandez
+      uri: https://www.google.com/maps/contrib/110901759801967024823/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXr0dTjd4VApOynpWC2uzdADAjjDm4NQfxOEc--UsZFfDf9Mn8=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-03-15T01:21:09.058398Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURRNTZtZkZBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURRNTZtZkZBEAE!2m1!1s0x865c600ca8355cc9:0xce0734cebd1e72a8
+  - name: >-
+      places/ChIJyVw1qAxgXIYRqHIevc40B84/reviews/ChZDSUhNMG9nS0VJQ0FnTURJamMya1ZBEAE
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 5
+    text:
+      text: >-
+        First time experience was great! I opted for a sushi roll SA Cowboy,
+        steak was rare 😋. Old fashion was nice and smokey. Tried a few plates
+        from the conveyor belt. Overall nice experience and good food.
+      languageCode: en
+    originalText:
+      text: >-
+        First time experience was great! I opted for a sushi roll SA Cowboy,
+        steak was rare 😋. Old fashion was nice and smokey. Tried a few plates
+        from the conveyor belt. Overall nice experience and good food.
+      languageCode: en
+    authorAttribution:
+      displayName: Lena Marie
+      uri: https://www.google.com/maps/contrib/109747677174955741547/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJ3ho48M5yNyyNFwYa6t3Sa3Rh2eDnogP2RHJEyOhRe5n-HrQ=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-12T02:54:40.827739Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURJamMya1ZBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJamMya1ZBEAE!2m1!1s0x865c600ca8355cc9:0xce0734cebd1e72a8
+  - name: >-
+      places/ChIJyVw1qAxgXIYRqHIevc40B84/reviews/ChdDSUhNMG9nS0VJQ0FnTUNnekx1VTdBRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 2
+    text:
+      text: >-
+        What happened since December? That was the first time we dined and today
+        Valentine’s Day is the last time. Brian was our server in December and I
+        honestly can’t remember if our server told us her name today. We were
+        seated by 11:35am today, the restaurant opened at 11:30am. This is
+        important later. We were seated promptly. You would think by 11:45 the
+        rotating sushi would be ready to go but it wasn’t. It wasn’t even full
+        by the time we left at 12:40pm. My side of rice was hard, my spicy tuna
+        roll was dry and not spicy. I really wanted to have a nice time but all
+        these issues literally ruined my Valentine’s Day with my husband. The
+        final straw was when we were given our total which initially was $51 but
+        our server came back and told us that there was an automatic 20%
+        gratuity today so I asked why we weren’t told by the hostess. I planned
+        to tipmore but that automatic was very off putting. She told me the sign
+        was posted at the door and I assured her that when we were walking in it
+        was not. Check time stamps on the cameras but the manager had not posted
+        it till later. We reluctantly paid but the more I thought about it the
+        more mad I got and feel sick to my stomach.
+      languageCode: en
+    originalText:
+      text: >-
+        What happened since December? That was the first time we dined and today
+        Valentine’s Day is the last time. Brian was our server in December and I
+        honestly can’t remember if our server told us her name today. We were
+        seated by 11:35am today, the restaurant opened at 11:30am. This is
+        important later. We were seated promptly. You would think by 11:45 the
+        rotating sushi would be ready to go but it wasn’t. It wasn’t even full
+        by the time we left at 12:40pm. My side of rice was hard, my spicy tuna
+        roll was dry and not spicy. I really wanted to have a nice time but all
+        these issues literally ruined my Valentine’s Day with my husband. The
+        final straw was when we were given our total which initially was $51 but
+        our server came back and told us that there was an automatic 20%
+        gratuity today so I asked why we weren’t told by the hostess. I planned
+        to tipmore but that automatic was very off putting. She told me the sign
+        was posted at the door and I assured her that when we were walking in it
+        was not. Check time stamps on the cameras but the manager had not posted
+        it till later. We reluctantly paid but the more I thought about it the
+        more mad I got and feel sick to my stomach.
+      languageCode: en
+    authorAttribution:
+      displayName: Xenia G.
+      uri: https://www.google.com/maps/contrib/104158858309683589378/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJ93dX2wM74Gf9qKg4mCu_SD-D5L_KrIZrf9Lhhsxa4C4Eq-1w=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-02-14T20:15:41.078562Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNnekx1VTdBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNnekx1VTdBRRAB!2m1!1s0x865c600ca8355cc9:0xce0734cebd1e72a8
+  - name: >-
+      places/ChIJyVw1qAxgXIYRqHIevc40B84/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3NUtySW5BRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        This place was super cool! Looked up top sushi places in San Antonio and
+        this one popped up. The revolving belt was the coolest! The food off of
+        there was really good. We also ordered hibachi which was tasty. Friendly
+        staff and cool atmosphere.
+      languageCode: en
+    originalText:
+      text: >-
+        This place was super cool! Looked up top sushi places in San Antonio and
+        this one popped up. The revolving belt was the coolest! The food off of
+        there was really good. We also ordered hibachi which was tasty. Friendly
+        staff and cool atmosphere.
+      languageCode: en
+    authorAttribution:
+      displayName: Kirsten Taylor
+      uri: https://www.google.com/maps/contrib/107458164989539071982/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjViZFEqjrSalfub1x2FAUtcIDReQjfz1UDVD99WoScQlBFzxlCzyQ=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-03-23T17:46:27.304869Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUR3NUtySW5BRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUR3NUtySW5BRRAB!2m1!1s0x865c600ca8355cc9:0xce0734cebd1e72a8
+  - name: >-
+      places/ChIJyVw1qAxgXIYRqHIevc40B84/reviews/ChdDSUhNMG9nS0VJQ0FnSURQN1BQWXV3RRAB
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        This place is ideal if you're seeking affordable sushi but are undecided
+        about what to eat. In my opinion, the service is impeccable, and the
+        food is excellent. However, some dishes require a specific taste. It's
+        great for date night or a group lunch/dinner.
+      languageCode: en
+    originalText:
+      text: >-
+        This place is ideal if you're seeking affordable sushi but are undecided
+        about what to eat. In my opinion, the service is impeccable, and the
+        food is excellent. However, some dishes require a specific taste. It's
+        great for date night or a group lunch/dinner.
+      languageCode: en
+    authorAttribution:
+      displayName: Zakia Minnifee
+      uri: https://www.google.com/maps/contrib/102683288646707861778/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUAevbQdNTxk3booNr_qCvfDF2tHJL9oZ5hKE8TZo-zlpg9lTv1=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-11-29T23:33:31.145324Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURQN1BQWXV3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURQN1BQWXV3RRAB!2m1!1s0x865c600ca8355cc9:0xce0734cebd1e72a8
+review_summary: >-
+  Buzz Around This Local Sushi Favorite$$$Folks rave about the fun, interactive
+  vibe at this sushi spot, with the revolving belt adding a playful twist to
+  grabbing fresh rolls and tasty bites that keep diners coming back. Many
+  appreciate the overall quality of the food, noting that dishes are flavorful
+  and well-prepared, making it a solid choice for affordable meals or group
+  outings. While most experiences highlight friendly service and a welcoming
+  atmosphere, a few mentions point to occasional inconsistencies like wait times
+  or food preparation on busier days, but these don't overshadow the positives.
+  Overall, it's a go-to for anyone searching for best sushi near me, with
+  visitors enjoying the variety and recommending it for date nights or casual
+  lunches. If you're exploring sushi restaurants in the area, this place
+  delivers a generally enjoyable experience that's worth trying for its fresh
+  offerings and energetic feel.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
+curbside_pickup: false
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
 live_music: null
-menu_for_children: null
-outdoor_seating: null
+menu_for_children: true
+outdoor_seating: false
 reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  A modern, spacious dining room offering Asian street food plus sushi, ramen &
+  more.
 
 ---

@@ -5,4 +5,5 @@ permalink: /massachusetts/westfield/
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Westfield
+
 ---

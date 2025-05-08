@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Diva Thai & Sushi Bar"
+title: Diva Thai & Sushi Bar
 permalink: /illinois/chicago/diva-thai-sushi-bar.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
 seo:
-  name: "Diva Thai & Sushi Bar"
-  type: Restaurant
+  type: restaurant
   links: http://www.divathaisushibar.com/
-description: "Casual, late-night BYOB spot serving a menu of Thai faves & sushi with many vegetarian options. Diva Thai & Sushi Bar serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJqwO7QbDTD4gRcu1R7fD5Je4
 photos:
   - name: >-
@@ -184,6 +182,37 @@ price_range: $20 &ndash; $30
 rating: '3.9'
 rating_count: 0
 website: http://www.divathaisushibar.com/
+description: >-
+  Discover Diva Thai & Sushi Bar in Chicago, IL$$$Nestled in the heart of
+  Chicago, IL, Diva Thai & Sushi Bar offers a relaxed dining experience that
+  combines authentic Thai flavors with fresh sushi options, making it a go-to
+  spot for sushi enthusiasts exploring the city's vibrant food scene. This
+  casual eatery stands out with its bring-your-own-beverage policy, allowing
+  patrons to enjoy personalized meals alongside a variety of vegetarian and
+  vegan dishes that cater to diverse tastes. Highlights include all-you-can-eat
+  sushi nights and a menu featuring flavorful Thai favorites, all served in a
+  welcoming atmosphere perfect for unwinding after a long day. With moderate
+  pricing and options for delivery or takeout, it's an ideal choice for anyone
+  searching for quality sushi restaurants near me that blend convenience with
+  culinary variety. Whether you're in the mood for inventive rolls or classic
+  Thai curries, this spot delivers a satisfying blend of flavors that keeps
+  locals coming back for more.
+generative_summary: >-
+  Discover Diva Thai & Sushi Bar in Chicago, IL$$$Nestled in the heart of
+  Chicago, IL, Diva Thai & Sushi Bar offers a relaxed dining experience that
+  combines authentic Thai flavors with fresh sushi options, making it a go-to
+  spot for sushi enthusiasts exploring the city's vibrant food scene. This
+  casual eatery stands out with its bring-your-own-beverage policy, allowing
+  patrons to enjoy personalized meals alongside a variety of vegetarian and
+  vegan dishes that cater to diverse tastes. Highlights include all-you-can-eat
+  sushi nights and a menu featuring flavorful Thai favorites, all served in a
+  welcoming atmosphere perfect for unwinding after a long day. With moderate
+  pricing and options for delivery or takeout, it's an ideal choice for anyone
+  searching for quality sushi restaurants near me that blend convenience with
+  culinary variety. Whether you're in the mood for inventive rolls or classic
+  Thai curries, this spot delivers a satisfying blend of flavors that keeps
+  locals coming back for more.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJqwO7QbDTD4gRcu1R7fD5Je4/reviews/ChZDSUhNMG9nS0VJQ0FnTUNnLWZDUWZnEAE
@@ -325,6 +354,21 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURkeWFucE1nEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURkeWFucE1nEAE!2m1!1s0x880fd3b041bb03ab:0xee25f9f0ed51ed72
+review_summary: >-
+  What Customers Are Saying About This Spot$$$Folks seem to really enjoy the
+  fresh and tasty sushi rolls here, with many highlighting how well-prepared and
+  flavorful the dishes are, even for delivery orders. Several visitors
+  appreciate the efficient service and the BYOB vibe, which adds a fun,
+  laid-back element to meals, though a few noted minor slip-ups like incorrect
+  orders that didn't detract from the overall experience. The Thai specialties,
+  such as udon and signature rolls, come across as solid choices for a casual
+  night in or out, with comments praising the quick turnaround and welcoming
+  staff. Overall, it's clear that this place hits the mark for those seeking
+  reliable sushi places near me, offering a chill atmosphere that's great for
+  groups or solo diners. While not every detail is perfect, the positive vibes
+  around the food's quality and affordability make it a spot worth trying if
+  you're in the area.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidParkingLot: true
   paidStreetParking: true
@@ -357,8 +401,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Casual, late-night BYOB spot serving a menu of Thai faves & sushi with many
   vegetarian options.
 

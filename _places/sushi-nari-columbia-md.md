@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Nari"
+title: Sushi Nari
 permalink: /maryland/columbia/sushi-nari.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Columbia
 seo:
-  name: "Sushi Nari"
-  type: Restaurant
+  type: restaurant
   links: http://www.ssnari.com/
-description: "Inventive rolls are the specialty of this Japanese kitchen with sashimi, cooked fare, beer & sake. Sushi Nari serves delicious sushi in Columbia, Maryland. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJH1bG6mbet4kRXsm0kAsWi1w
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $10 &ndash; $20
 rating: '4.3'
 rating_count: 0
 website: http://www.ssnari.com/
+description: >-
+  Experience Sushi Nari in Columbia, MD$$$Sushi Nari in Columbia, MD, offers a
+  delightful array of fresh Japanese dishes in a welcoming, casual setting that
+  caters to families and sushi enthusiasts alike. Known for its inventive rolls
+  and high-quality sashimi, this spot emphasizes flavorful, well-balanced meals
+  that highlight the best of Japanese cuisine, making it a go-to choice for
+  anyone searching for top-rated sushi nearby. The venue provides thoughtful
+  touches like accessibility features and a kids' menu, ensuring a comfortable
+  visit for all ages while maintaining a cozy atmosphere. With options for
+  dine-in or takeout, it's an ideal spot for enjoying authentic flavors without
+  the fuss, perfect for those exploring sushi restaurants in the area.
+generative_summary: >-
+  Experience Sushi Nari in Columbia, MD$$$Sushi Nari in Columbia, MD, offers a
+  delightful array of fresh Japanese dishes in a welcoming, casual setting that
+  caters to families and sushi enthusiasts alike. Known for its inventive rolls
+  and high-quality sashimi, this spot emphasizes flavorful, well-balanced meals
+  that highlight the best of Japanese cuisine, making it a go-to choice for
+  anyone searching for top-rated sushi nearby. The venue provides thoughtful
+  touches like accessibility features and a kids' menu, ensuring a comfortable
+  visit for all ages while maintaining a cozy atmosphere. With options for
+  dine-in or takeout, it's an ideal spot for enjoying authentic flavors without
+  the fuss, perfect for those exploring sushi restaurants in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJH1bG6mbet4kRXsm0kAsWi1w/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJeDdEQmhBRRAB
@@ -354,6 +375,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUN3MTlYZUJREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUN3MTlYZUJREAE!2m1!1s0x89b7de66eac6561f:0x5c8b160b90b4c95e
+review_summary: >-
+  Buzz Around Sushi Nari$$$Folks rave about the fresh and creative rolls at this
+  spot, often highlighting how the flavors are spot-on and the service feels
+  genuinely attentive, making every meal feel special. Many visitors appreciate
+  the cozy vibe and family-friendly setup, noting it's a hidden gem for quick
+  bites or relaxed dinners that satisfy sushi cravings without breaking the
+  bank. While the overall experience leans positive with praise for the quality
+  ingredients and welcoming environment, it's worth noting that a few mentions
+  point to occasional waits on orders, so planning ahead can help. Overall,
+  diners find it a solid pick for tasty Japanese fare, with plenty of reasons to
+  return for more, especially if you're on the hunt for reliable sushi places
+  close by.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -386,8 +420,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Inventive rolls are the specialty of this Japanese kitchen with sashimi,
   cooked fare, beer & sake.
 

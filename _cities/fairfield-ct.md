@@ -5,4 +5,5 @@ permalink: /connecticut/fairfield/
 stateAbbr: CT
 stateName: Connecticut
 cityName: Fairfield
+
 ---

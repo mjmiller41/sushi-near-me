@@ -5,4 +5,5 @@ permalink: /south-dakota/rapid-city/
 stateAbbr: SD
 stateName: South Dakota
 cityName: Rapid City
+
 ---

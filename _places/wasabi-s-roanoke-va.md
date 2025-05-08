@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Wasabi's"
+title: Wasabi's
 permalink: /virginia/roanoke/wasabi-s.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Roanoke
 seo:
-  name: "Wasabi's"
-  type: Restaurant
-  links: null
-description: "Wasabi's serves delicious sushi in Roanoke, Virginia. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://wasabisroanoke.com/
 place_id: ChIJO927AZUNTYgRJvUeW6_mdDI
 photos:
   - name: >-
@@ -168,8 +166,113 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x884d0d9501bbdd3b:0x3274e6af5b1ef526!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 14
+        minute: 30
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:30 AM – 2:30 PM, 5:00 – 9:30 PM'
+    - 'Tuesday: 11:30 AM – 2:30 PM, 5:00 – 9:30 PM'
+    - 'Wednesday: 11:30 AM – 2:30 PM, 5:00 – 9:30 PM'
+    - 'Thursday: 11:30 AM – 2:30 PM, 5:00 – 9:30 PM'
+    - 'Friday: 11:30 AM – 2:30 PM, 5:00 – 9:30 PM'
+    - 'Saturday: 12:00 – 2:30 PM, 5:00 – 9:30 PM'
+    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T01:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -177,13 +280,51 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (540) 904-6254
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.5'
+rating_count: 581
+website: http://wasabisroanoke.com/
+description: >-
+  Discover Wasabi's in Roanoke, VA$$$Wasabi's in Roanoke, VA, stands out as a
+  welcoming Japanese eatery that offers a laid-back vibe perfect for enjoying
+  fresh sushi and savory teriyaki options. This spot combines flavorful dishes
+  with a selection of beer and wine, making it an ideal choice for casual meals
+  or date nights in the heart of downtown. With its accessible entrances and
+  seating, it's designed to accommodate everyone looking for authentic Japanese
+  flavors without the fuss. The menu highlights a variety of creative rolls and
+  grilled specialties, appealing to those searching for quality sushi
+  restaurants nearby. Open for lunch and dinner most days, it's a go-to
+  destination for anyone craving reliable Japanese cuisine in a comfortable
+  setting.
+generative_summary: >-
+  Discover Wasabi's in Roanoke, VA$$$Wasabi's in Roanoke, VA, stands out as a
+  welcoming Japanese eatery that offers a laid-back vibe perfect for enjoying
+  fresh sushi and savory teriyaki options. This spot combines flavorful dishes
+  with a selection of beer and wine, making it an ideal choice for casual meals
+  or date nights in the heart of downtown. With its accessible entrances and
+  seating, it's designed to accommodate everyone looking for authentic Japanese
+  flavors without the fuss. The menu highlights a variety of creative rolls and
+  grilled specialties, appealing to those searching for quality sushi
+  restaurants nearby. Open for lunch and dinner most days, it's a go-to
+  destination for anyone craving reliable Japanese cuisine in a comfortable
+  setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Feedback on the Experience$$$Visitors to this Japanese spot often rave about
+  the tasty rolls like the Sumo and Volcano varieties, praising their fresh
+  ingredients and bold flavors that make for a satisfying meal. Folks appreciate
+  the generous portions and fair prices, which keep things approachable without
+  skimping on quality, ideal for a quick bite or sharing with friends. Service
+  stands out as friendly and attentive, helping to create a relaxed atmosphere
+  that enhances the overall dining vibe. While opinions vary, many highlight it
+  as a solid pick for everyday sushi cravings, with highlights on the value and
+  taste that keep diners coming back. If you're exploring top-rated options in
+  the area, this place delivers a consistently enjoyable experience worth
+  trying.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -209,7 +350,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

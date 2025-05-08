@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ichiban Hibachi & Sushi Bar"
+title: Ichiban Hibachi & Sushi Bar
 permalink: /pennsylvania/pittsburgh/ichiban-hibachi-sushi-bar.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Pittsburgh
 seo:
-  name: "Ichiban Hibachi & Sushi Bar"
-  type: Restaurant
-  links: null
-description: "Ichiban Hibachi & Sushi Bar serves delicious sushi in Pittsburgh, Pennsylvania. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://ichibanhibachisteakhouse.com/waterworks-mall/
 place_id: ChIJQ06KcDWTNIgR_KOB-hCyPO8
 photos:
   - name: >-
@@ -170,22 +168,185 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x88349335708a4e43:0xef3cb210fa81a3fc!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 15
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 15
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 15
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 15
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 15
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 3:00 – 9:30 PM'
+    - 'Tuesday: 3:00 – 9:30 PM'
+    - 'Wednesday: 3:00 – 9:30 PM'
+    - 'Thursday: 3:00 – 9:30 PM'
+    - 'Friday: 3:00 – 10:00 PM'
+    - 'Saturday: 12:00 – 10:00 PM'
+    - 'Sunday: 12:00 – 9:30 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 0
+        close:
+          day: 0
+          hour: 21
+          minute: 15
+      - open:
+          day: 1
+          hour: 15
+          minute: 0
+        close:
+          day: 1
+          hour: 21
+          minute: 15
+      - open:
+          day: 2
+          hour: 15
+          minute: 0
+        close:
+          day: 2
+          hour: 21
+          minute: 15
+      - open:
+          day: 3
+          hour: 15
+          minute: 0
+        close:
+          day: 3
+          hour: 21
+          minute: 15
+      - open:
+          day: 4
+          hour: 15
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 15
+      - open:
+          day: 5
+          hour: 15
+          minute: 0
+        close:
+          day: 5
+          hour: 21
+          minute: 45
+      - open:
+          day: 6
+          hour: 12
+          minute: 0
+        close:
+          day: 6
+          hour: 21
+          minute: 45
+    weekdayDescriptions:
+      - 'Monday: 3:00 – 9:15 PM'
+      - 'Tuesday: 3:00 – 9:15 PM'
+      - 'Wednesday: 3:00 – 9:15 PM'
+      - 'Thursday: 3:00 – 9:15 PM'
+      - 'Friday: 3:00 – 9:45 PM'
+      - 'Saturday: 12:00 – 9:45 PM'
+      - 'Sunday: 12:00 – 9:15 PM'
+    secondaryHoursType: KITCHEN
+    nextCloseTime: '2025-05-04T01:45:00Z'
+phone: (412) 781-7600
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.3'
+rating_count: 1395
+website: http://ichibanhibachisteakhouse.com/waterworks-mall/
+description: >-
+  About Ichiban Hibachi & Sushi Bar in Pittsburgh, PA$$$Ichiban Hibachi & Sushi
+  Bar in Pittsburgh, PA, stands out as a welcoming spot for enjoying authentic
+  Japanese flavors, featuring a vibrant sushi bar and sizzling hibachi dishes
+  that appeal to those seeking top-rated sushi options nearby. The restaurant
+  boasts a cozy atmosphere where diners can savor fresh sushi rolls alongside
+  expertly prepared hibachi favorites, complemented by a selection of sake and
+  creative cocktails for a complete dining experience. With its accessible
+  design and moderate pricing, it's an ideal choice for anyone exploring
+  Japanese places near me who appreciates quality without breaking the bank. The
+  menu highlights generous portions and flavorful combinations that make it a
+  go-to for sushi enthusiasts in the area.
+generative_summary: >-
+  About Ichiban Hibachi & Sushi Bar in Pittsburgh, PA$$$Ichiban Hibachi & Sushi
+  Bar in Pittsburgh, PA, stands out as a welcoming spot for enjoying authentic
+  Japanese flavors, featuring a vibrant sushi bar and sizzling hibachi dishes
+  that appeal to those seeking top-rated sushi options nearby. The restaurant
+  boasts a cozy atmosphere where diners can savor fresh sushi rolls alongside
+  expertly prepared hibachi favorites, complemented by a selection of sake and
+  creative cocktails for a complete dining experience. With its accessible
+  design and moderate pricing, it's an ideal choice for anyone exploring
+  Japanese places near me who appreciates quality without breaking the bank. The
+  menu highlights generous portions and flavorful combinations that make it a
+  go-to for sushi enthusiasts in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors often rave about the delicious sushi and
+  hibachi offerings at this spot, noting how the generous portions make for a
+  satisfying meal without needing to overdo it. Many appreciate the friendly
+  service and reasonable prices that deliver great value for the quality of
+  food, making it a solid pick for casual dinners or group outings. While some
+  mention occasional inconsistencies in service, the overall vibe remains upbeat
+  with plenty of praise for the fresh ingredients and tasty flavors that keep
+  people coming back. If you're hunting for best sushi near me, this place
+  generally hits the mark with its reliable appeal and welcoming feel.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +372,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

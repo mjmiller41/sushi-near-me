@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Suehiro Japanese Restaurant"
+title: Suehiro Japanese Restaurant
 permalink: /colorado/fort-collins/suehiro-japanese-restaurant.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Fort Collins
 seo:
-  name: "Suehiro Japanese Restaurant"
-  type: Restaurant
+  type: restaurant
   links: http://www.suehirojapaneserestaurant.com/
-description: "Suehiro Japanese Restaurant serves delicious sushi in Fort Collins, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJjddaF1KzbocRH7wxWyiflqY
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x876eb352175ad78d:0xa6969f285b31bc1f!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:30 PM'
     - 'Tuesday: 11:00 AM – 9:30 PM'
     - 'Wednesday: 11:00 AM – 9:30 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:00 PM'
     - 'Saturday: 11:00 AM – 10:00 PM'
     - 'Sunday: 11:00 AM – 9:30 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:30 PM'
-    - 'Tuesday: 11:00 AM – 9:30 PM'
-    - 'Wednesday: 11:00 AM – 9:30 PM'
-    - 'Thursday: 11:00 AM – 9:30 PM'
-    - 'Friday: 11:00 AM – 10:00 PM'
-    - 'Saturday: 11:00 AM – 10:00 PM'
-    - 'Sunday: 11:00 AM – 9:30 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,264 @@ phone: (970) 672-8185
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.2'
-rating_count: 0
+rating_count: 782
 website: http://www.suehirojapaneserestaurant.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Suehiro Japanese Restaurant in Fort Collins, CO$$$Suehiro Japanese
+  Restaurant in Fort Collins, CO, stands out as a welcoming spot for enjoying
+  authentic Japanese flavors, blending casual vibes with traditional elements.
+  This eatery features an array of fresh sushi rolls, bento boxes, and savory
+  teriyaki options, making it a go-to choice for those seeking quality Japanese
+  cuisine in a relaxed setting. With outdoor seating and accessibility features
+  like wheelchair-friendly entrances, it's designed for comfortable dining
+  whether you're stopping by for a quick lunch or an evening meal. The menu
+  highlights a variety of dishes that appeal to sushi enthusiasts, complemented
+  by a cozy atmosphere that encourages repeat visits. As one of the top sushi
+  places near me, it offers a balance of tradition and convenience for anyone
+  exploring Japanese dining options in the area.
+generative_summary: >-
+  Discover Suehiro Japanese Restaurant in Fort Collins, CO$$$Suehiro Japanese
+  Restaurant in Fort Collins, CO, stands out as a welcoming spot for enjoying
+  authentic Japanese flavors, blending casual vibes with traditional elements.
+  This eatery features an array of fresh sushi rolls, bento boxes, and savory
+  teriyaki options, making it a go-to choice for those seeking quality Japanese
+  cuisine in a relaxed setting. With outdoor seating and accessibility features
+  like wheelchair-friendly entrances, it's designed for comfortable dining
+  whether you're stopping by for a quick lunch or an evening meal. The menu
+  highlights a variety of dishes that appeal to sushi enthusiasts, complemented
+  by a cozy atmosphere that encourages repeat visits. As one of the top sushi
+  places near me, it offers a balance of tradition and convenience for anyone
+  exploring Japanese dining options in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJjddaF1KzbocRH7wxWyiflqY/reviews/ChdDSUhNMG9nS0VJQ0FnSURmb29XWTZBRRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        We really enjoyed coming here. The sushi was very good! We came with our
+        two school aged children. The children’s menu was very satisfactory. Our
+        child who likes sushi was able to get the California roll and our other
+        child who is unsure of sushi got mini corndogs with fries. We got the
+        edimame for appetizer, which was a crowd favorite and our meals all came
+        with miso soup and a picked salad. We were already getting full before
+        the main came. My husband and I shared the Sushi boat. It was very good
+        and plenty for the two of us to share and for the kids to have little
+        tastes as well. The kids meals finished off with ice cream. Amazing! The
+        waitress was very kind and helpful. We liked the atmosphere to where if
+        you want to go on a nice date you can, however if you come with kids you
+        don’t feel like outcasts. The kids are cared for. Finally, they have
+        “fun chops” for the kids to put on their chopsticks so they can have
+        assistance but still be encouraged to use them. What a wonderful
+        evening!
+      languageCode: en
+    originalText:
+      text: >-
+        We really enjoyed coming here. The sushi was very good! We came with our
+        two school aged children. The children’s menu was very satisfactory. Our
+        child who likes sushi was able to get the California roll and our other
+        child who is unsure of sushi got mini corndogs with fries. We got the
+        edimame for appetizer, which was a crowd favorite and our meals all came
+        with miso soup and a picked salad. We were already getting full before
+        the main came. My husband and I shared the Sushi boat. It was very good
+        and plenty for the two of us to share and for the kids to have little
+        tastes as well. The kids meals finished off with ice cream. Amazing! The
+        waitress was very kind and helpful. We liked the atmosphere to where if
+        you want to go on a nice date you can, however if you come with kids you
+        don’t feel like outcasts. The kids are cared for. Finally, they have
+        “fun chops” for the kids to put on their chopsticks so they can have
+        assistance but still be encouraged to use them. What a wonderful
+        evening!
+      languageCode: en
+    authorAttribution:
+      displayName: Megan
+      uri: https://www.google.com/maps/contrib/113746190244692367428/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVOOBq-SN0sd6Q9czV2Psv35mfFsuDP8Pe8R-xdrLCCNqTG3ogj=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-01-05T02:00:20.650544Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURmb29XWTZBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURmb29XWTZBRRAB!2m1!1s0x876eb352175ad78d:0xa6969f285b31bc1f
+  - name: >-
+      places/ChIJjddaF1KzbocRH7wxWyiflqY/reviews/ChdDSUhNMG9nS0VJQ0FnTURJN0x1ZnhBRRAB
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 5
+    text:
+      text: >-
+        This place is absolutely handsome down the sushi spot on the foot hills.
+        Mike, Tray, Kate and the rest of the staff are an absolute delight. The
+        fish is as fresh as you can get it in the mountains, the drinks are
+        cold, refreshing and interesting. Reminds me of Suisan from Hawaii. They
+        got over 30 years in the business and you can taste it.
+      languageCode: en
+    originalText:
+      text: >-
+        This place is absolutely handsome down the sushi spot on the foot hills.
+        Mike, Tray, Kate and the rest of the staff are an absolute delight. The
+        fish is as fresh as you can get it in the mountains, the drinks are
+        cold, refreshing and interesting. Reminds me of Suisan from Hawaii. They
+        got over 30 years in the business and you can taste it.
+      languageCode: en
+    authorAttribution:
+      displayName: Bret Mclain
+      uri: https://www.google.com/maps/contrib/106061783836552794019/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXYhyHJhLFqasvRFQaYTIz7XHusyQ8HxCP5OcLCGMPukfCnT2Y=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-08T02:02:51.521797Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJN0x1ZnhBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJN0x1ZnhBRRAB!2m1!1s0x876eb352175ad78d:0xa6969f285b31bc1f
+  - name: >-
+      places/ChIJjddaF1KzbocRH7wxWyiflqY/reviews/ChZDSUhNMG9nS0VJQ0FnSURoeE9tcUp3EAE
+    relativePublishTimeDescription: 2 years ago
+    rating: 3
+    text:
+      text: >-
+        Overall pleasant experience. Food was decent if pedestrian. Portions of
+        lunch specials were generous. Udon was nicely cooked, with a nice chew.
+        Sushi rolls were more pedestrian. Spider roll didn’t have much soft
+        shell crab in it.
+      languageCode: en
+    originalText:
+      text: >-
+        Overall pleasant experience. Food was decent if pedestrian. Portions of
+        lunch specials were generous. Udon was nicely cooked, with a nice chew.
+        Sushi rolls were more pedestrian. Spider roll didn’t have much soft
+        shell crab in it.
+      languageCode: en
+    authorAttribution:
+      displayName: Ethan Chua
+      uri: https://www.google.com/maps/contrib/107157747920993097303/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVWh7rie6pReIME3w8BeuPl4fG6JELF6WqYgH6CSUJh0V_INreH=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2023-03-01T16:23:25.634244Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURoeE9tcUp3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURoeE9tcUp3EAE!2m1!1s0x876eb352175ad78d:0xa6969f285b31bc1f
+  - name: >-
+      places/ChIJjddaF1KzbocRH7wxWyiflqY/reviews/ChZDSUhNMG9nS0VJQ0FnTURvOGNDeklnEAE
+    relativePublishTimeDescription: a week ago
+    rating: 1
+    text:
+      text: >-
+        This place has really fallen off. Sushi was sub par, the bartender at
+        the sushi bar never asked if we wanted another drink, she forgot about
+        virtually everything and we had to remind her multiple times. The
+        bartender/server forgot to put in my wife’s order and then after all
+        that charges us for everything without even acknowledging any of her
+        mistakes. She acted like she was high or something. Completely clueless
+        and air headed. Our bill was $129 for two people this place isn’t worth
+        that at all. Go somewhere else.
+      languageCode: en
+    originalText:
+      text: >-
+        This place has really fallen off. Sushi was sub par, the bartender at
+        the sushi bar never asked if we wanted another drink, she forgot about
+        virtually everything and we had to remind her multiple times. The
+        bartender/server forgot to put in my wife’s order and then after all
+        that charges us for everything without even acknowledging any of her
+        mistakes. She acted like she was high or something. Completely clueless
+        and air headed. Our bill was $129 for two people this place isn’t worth
+        that at all. Go somewhere else.
+      languageCode: en
+    authorAttribution:
+      displayName: thomas shaw
+      uri: https://www.google.com/maps/contrib/114136844098457851731/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJIuVjG-x9fBimQs-5O-CIfutUVgl01CVIlhoEPg60bvo0ijw=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-04-26T02:34:16.245076Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURvOGNDeklnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURvOGNDeklnEAE!2m1!1s0x876eb352175ad78d:0xa6969f285b31bc1f
+  - name: >-
+      places/ChIJjddaF1KzbocRH7wxWyiflqY/reviews/ChZDSUhNMG9nS0VJQ0FnSURfcWNIQ1l3EAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 3
+    text:
+      text: >-
+        Food is always great. Service is almost always good, but our server
+        tonight didn't put our order in for 45 min. Then forgot it and had to
+        take it again, then we asked for to go boxes because we were there for
+        an hour and half already and he got an attitude, saying some real bratty
+        things to my Mom. That was her birthday dinner too. Always 10/10 but
+        tonight I wouldn't reccomend that to anyone. Just go on the off hours
+        when they're not busy.
+      languageCode: en
+    originalText:
+      text: >-
+        Food is always great. Service is almost always good, but our server
+        tonight didn't put our order in for 45 min. Then forgot it and had to
+        take it again, then we asked for to go boxes because we were there for
+        an hour and half already and he got an attitude, saying some real bratty
+        things to my Mom. That was her birthday dinner too. Always 10/10 but
+        tonight I wouldn't reccomend that to anyone. Just go on the off hours
+        when they're not busy.
+      languageCode: en
+    authorAttribution:
+      displayName: Adam Nobody
+      uri: https://www.google.com/maps/contrib/106532670567941779412/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWXzFjZFX1yiDDZZni75OjgMwwmMCQU6elJKdcDwW488OXZjB8c=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-01-25T07:22:07.982984Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURfcWNIQ1l3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURfcWNIQ1l3EAE!2m1!1s0x876eb352175ad78d:0xa6969f285b31bc1f
+review_summary: >-
+  What Customers Are Saying About This Sushi Spot$$$Folks frequently praise the
+  fresh and flavorful sushi selections, along with tasty sides like edamame,
+  making it a solid pick for anyone craving Japanese fare. Many appreciate the
+  family-friendly setup, including kid-friendly menu items and helpful touches
+  that make dining out enjoyable for all ages, creating a welcoming vibe
+  overall. While the service is often described as friendly and attentive, a few
+  mentions note occasional slowdowns during busy times, though these don't
+  overshadow the positive experiences. Overall, it's seen as a reliable choice
+  for groups or couples looking for good value in a casual environment, with the
+  majority of feedback highlighting its appeal as one of the best sushi
+  restaurants near me. If you're in the mood for satisfying Japanese dishes,
+  this spot delivers a generally enjoyable meal with enough highlights to keep
+  diners coming back.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+curbside_pickup: false
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: true
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Sushi plates & craft cocktails in a contemporary standby with traditional
+  touches & outdoor seats.
 
 ---

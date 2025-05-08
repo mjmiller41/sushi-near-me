@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kyatchi"
+title: Kyatchi
 permalink: /minnesota/minneapolis/kyatchi.html
 stateAbbr: MN
 stateName: Minnesota
 cityName: Minneapolis
 seo:
-  name: "Kyatchi"
-  type: Restaurant
+  type: restaurant
   links: http://kyatchi.com/
-description: "This contemporary eatery serves traditional & creative sushi, Japanese small plates & mains. Kyatchi serves delicious sushi in Minneapolis, Minnesota. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJScokAsAn9ocRj9VZ_IsRrMc
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $30 &ndash; $50
 rating: '4.5'
 rating_count: 0
 website: http://kyatchi.com/
+description: >-
+  Explore Kyatchi in Minneapolis, MN$$$Kyatchi in Minneapolis, MN, stands out as
+  a contemporary Japanese restaurant blending traditional flavors with creative
+  twists, making it a go-to spot for those seeking sushi near you. This inviting
+  eatery features a casual atmosphere where you can enjoy fresh sushi rolls,
+  innovative small plates, and a selection of sake, all served in a setting
+  that's accessible and welcoming for various diners. With options like outdoor
+  seating and a focus on quality ingredients, it's ideal for anyone exploring
+  Japanese places near me looking for moderately priced, flavorful meals. The
+  menu highlights a mix of hot and cold dishes, perfect for pairing with drinks,
+  ensuring a memorable experience in this vibrant neighborhood.
+generative_summary: >-
+  Explore Kyatchi in Minneapolis, MN$$$Kyatchi in Minneapolis, MN, stands out as
+  a contemporary Japanese restaurant blending traditional flavors with creative
+  twists, making it a go-to spot for those seeking sushi near you. This inviting
+  eatery features a casual atmosphere where you can enjoy fresh sushi rolls,
+  innovative small plates, and a selection of sake, all served in a setting
+  that's accessible and welcoming for various diners. With options like outdoor
+  seating and a focus on quality ingredients, it's ideal for anyone exploring
+  Japanese places near me looking for moderately priced, flavorful meals. The
+  menu highlights a mix of hot and cold dishes, perfect for pairing with drinks,
+  ensuring a memorable experience in this vibrant neighborhood.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJScokAsAn9ocRj9VZ_IsRrMc/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3LXItWGVREAE
@@ -358,6 +379,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNJenNLZ3N3RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNJenNLZ3N3RRAB!2m1!1s0x87f627c00224ca49:0xc7ac118bfc59d58f
+review_summary: >-
+  Insights from Recent Visitors$$$Folks visiting this sushi spot often rave
+  about the delicious variety of dishes, including tasty sushi and creative
+  appetizers that make for a satisfying meal without breaking the bank. Many
+  appreciate the friendly service and great happy hour deals, which add to the
+  lively vibe and make it a fun choice for groups or casual outings. While some
+  note that portions might feel on the smaller side or that the atmosphere can
+  get a bit energetic, the overall experience remains enjoyable and worth trying
+  for anyone hunting for top-rated sushi nearby. It's easy to see why people
+  keep coming back for the unique flavors and attentive staff, offering a
+  balanced spot that delivers on both taste and value.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -389,8 +422,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   This contemporary eatery serves traditional & creative sushi, Japanese small
   plates & mains.
 

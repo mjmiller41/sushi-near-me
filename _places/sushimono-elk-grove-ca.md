@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushimono"
+title: Sushimono
 permalink: /california/elk-grove/sushimono.html
 stateAbbr: CA
 stateName: California
 cityName: Elk Grove
 seo:
-  name: "Sushimono"
-  type: Restaurant
-  links: null
-description: "Sushimono serves delicious sushi in Elk Grove, California. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://sushimonoelkgrove.com/
 place_id: ChIJbf5SWbfHmoARCBC88WTVfBM
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x809ac7b75952fe6d:0x137cd564f1bc1008!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:30 AM – 9:00 PM'
+    - 'Tuesday: 11:30 AM – 9:00 PM'
+    - 'Wednesday: 11:30 AM – 9:00 PM'
+    - 'Thursday: 11:30 AM – 9:00 PM'
+    - 'Friday: 11:30 AM – 9:00 PM'
+    - 'Saturday: 11:30 AM – 9:00 PM'
+    - 'Sunday: 11:30 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,49 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (916) 686-7958
+price_level: PRICE_LEVEL_INEXPENSIVE
+price_range: $20 &ndash; $30
+rating: '3.8'
+rating_count: 425
+website: https://sushimonoelkgrove.com/
+description: >-
+  About Sushimono in Elk Grove, CA$$$Sushimono in Elk Grove, CA, stands out as a
+  welcoming Japanese eatery specializing in fresh sushi and all-you-can-eat
+  dining experiences that highlight authentic flavors. This spot offers a
+  variety of sushi rolls, bento boxes, and other specialties, making it a go-to
+  choice for those seeking Japanese cuisine near you. With accessibility
+  features like wheelchair-friendly parking and entrances, it's designed for
+  everyone to enjoy a relaxed meal. The restaurant maintains convenient hours
+  from late morning into the evening, perfect for lunch or dinner outings. Its
+  affordable pricing adds to the appeal, providing great value for sushi
+  enthusiasts exploring local options in the area.
+generative_summary: >-
+  About Sushimono in Elk Grove, CA$$$Sushimono in Elk Grove, CA, stands out as a
+  welcoming Japanese eatery specializing in fresh sushi and all-you-can-eat
+  dining experiences that highlight authentic flavors. This spot offers a
+  variety of sushi rolls, bento boxes, and other specialties, making it a go-to
+  choice for those seeking Japanese cuisine near you. With accessibility
+  features like wheelchair-friendly parking and entrances, it's designed for
+  everyone to enjoy a relaxed meal. The restaurant maintains convenient hours
+  from late morning into the evening, perfect for lunch or dinner outings. Its
+  affordable pricing adds to the appeal, providing great value for sushi
+  enthusiasts exploring local options in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Visitors to this sushi spot often praise the fresh
+  ingredients and generous portions that make for a satisfying meal, especially
+  for those hunting for top-rated sushi nearby. While some note that service can
+  vary depending on the time of day, many appreciate the overall value and
+  variety that keep things enjoyable for groups or families. The all-you-can-eat
+  style gets solid nods for offering plenty of choices without breaking the
+  bank, creating a casual vibe that's hard to beat. Feedback highlights the
+  tasty rolls and bento options as reliable favorites, though a few mention
+  occasional wait times during peak hours. Overall, it's a solid pick for anyone
+  craving Japanese dishes, with the positives outweighing any minor hiccups for
+  a generally pleasant experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +310,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

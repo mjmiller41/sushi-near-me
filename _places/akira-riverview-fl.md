@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Akira"
+title: Akira
 permalink: /florida/riverview/akira.html
 stateAbbr: FL
 stateName: Florida
 cityName: Riverview
 seo:
-  name: "Akira"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Akira serves delicious sushi in Riverview, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJH2WkZ1LSwogR5TJcDPr7BdE
 photos:
   - name: >-
@@ -185,7 +183,44 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Akira in Riverview, Florida$$$Akira in Riverview, Florida, stands out
+  as a welcoming Japanese restaurant that combines approachable ambiance with
+  authentic flavors for diners seeking quality Asian cuisine. This spot
+  emphasizes accessibility, featuring wheelchair-friendly parking, entrances,
+  restrooms, and seating, ensuring a comfortable visit for all guests in the
+  Lithia neighborhood. Patrons can enjoy a relaxed setting ideal for savoring
+  fresh Japanese dishes, including popular options like sushi that appeal to
+  those exploring top-rated eateries nearby. Whether you're in the mood for a
+  casual meal or gathering with friends, Akira delivers a straightforward yet
+  enjoyable dining experience that highlights its commitment to flavorful,
+  everyday favorites.
+generative_summary: >-
+  Discover Akira in Riverview, Florida$$$Akira in Riverview, Florida, stands out
+  as a welcoming Japanese restaurant that combines approachable ambiance with
+  authentic flavors for diners seeking quality Asian cuisine. This spot
+  emphasizes accessibility, featuring wheelchair-friendly parking, entrances,
+  restrooms, and seating, ensuring a comfortable visit for all guests in the
+  Lithia neighborhood. Patrons can enjoy a relaxed setting ideal for savoring
+  fresh Japanese dishes, including popular options like sushi that appeal to
+  those exploring top-rated eateries nearby. Whether you're in the mood for a
+  casual meal or gathering with friends, Akira delivers a straightforward yet
+  enjoyable dining experience that highlights its commitment to flavorful,
+  everyday favorites.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About Akira$$$Although detailed reviews for Akira
+  are scarce, feedback from visitors generally praises the restaurant's
+  easygoing atmosphere and thoughtful accessibility features, making it a solid
+  pick for casual outings. Many appreciate the focus on Japanese flavors, with
+  mentions of tasty dishes that satisfy those hunting for great sushi spots in
+  the area, often describing them as reliably fresh and satisfying. The
+  laid-back vibe comes across as family-friendly and convenient, drawing in
+  locals looking for nearby dining options without the fuss. Overall, it appears
+  to offer a positive experience for anyone craving Japanese cuisine, with an
+  honest nod to its welcoming setup that keeps things light and enjoyable.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +246,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

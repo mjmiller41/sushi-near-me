@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Jensai Sushi"
+title: Jensai Sushi
 permalink: /california/sacramento/jensai-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Sacramento
 seo:
-  name: "Jensai Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.jensaisushisac.com/
-description: "Jensai Sushi serves delicious sushi in Sacramento, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ7SVcKeDQmoAR_NwxWw2X1wc
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x809ad0e0295c25ed:0x7d7970d5b31dcfc!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 20
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 8:30 PM'
     - 'Tuesday: 11:00 AM – 8:30 PM'
     - 'Wednesday: 11:00 AM – 8:30 PM'
@@ -178,54 +234,345 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:30 PM'
     - 'Saturday: 11:00 AM – 9:00 PM'
     - 'Sunday: 12:00 – 8:30 PM'
-  current:
-    - 'Monday: 11:00 AM – 8:30 PM'
-    - 'Tuesday: 11:00 AM – 8:30 PM'
-    - 'Wednesday: 11:00 AM – 8:30 PM'
-    - 'Thursday: 11:00 AM – 8:30 PM'
-    - 'Friday: 11:00 AM – 9:30 PM'
-    - 'Saturday: 11:00 AM – 9:00 PM'
-    - 'Sunday: 12:00 – 8:30 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 14
+          minute: 30
+        close:
+          day: 0
+          hour: 19
+          minute: 0
+      - open:
+          day: 1
+          hour: 14
+          minute: 30
+        close:
+          day: 1
+          hour: 19
+          minute: 0
+      - open:
+          day: 2
+          hour: 14
+          minute: 30
+        close:
+          day: 2
+          hour: 19
+          minute: 0
+      - open:
+          day: 3
+          hour: 14
+          minute: 30
+        close:
+          day: 3
+          hour: 19
+          minute: 0
+      - open:
+          day: 4
+          hour: 14
+          minute: 30
+        close:
+          day: 4
+          hour: 19
+          minute: 0
+      - open:
+          day: 5
+          hour: 14
+          minute: 30
+        close:
+          day: 5
+          hour: 19
+          minute: 0
+      - open:
+          day: 6
+          hour: 14
+          minute: 30
+        close:
+          day: 6
+          hour: 19
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 2:30 – 7:00 PM'
+      - 'Tuesday: 2:30 – 7:00 PM'
+      - 'Wednesday: 2:30 – 7:00 PM'
+      - 'Thursday: 2:30 – 7:00 PM'
+      - 'Friday: 2:30 – 7:00 PM'
+      - 'Saturday: 2:30 – 7:00 PM'
+      - 'Sunday: 2:30 – 7:00 PM'
+    secondaryHoursType: HAPPY_HOUR
+    nextCloseTime: '2025-05-04T02:00:00Z'
 phone: (916) 443-8888
 price_level: PRICE_LEVEL_INEXPENSIVE
 price_range: $20 &ndash; $30
 rating: '4.5'
-rating_count: 0
+rating_count: 412
 website: https://www.jensaisushisac.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Explore Jensai Sushi in Sacramento, CA$$$Jensai Sushi in Sacramento, CA,
+  offers a delightful array of fresh sushi rolls and Japanese-inspired dishes in
+  a cozy, casual atmosphere that invites relaxation and enjoyment. The
+  restaurant features a contemporary setting with a cocktail bar, making it an
+  ideal spot for those seeking flavorful meals and refreshing drinks after a day
+  of exploring the area. Accessibility options like wheelchair-friendly
+  entrances and parking enhance the experience for all visitors, ensuring
+  everyone can savor the authentic flavors without hassle. With convenient hours
+  that include lunch and dinner options, it's a go-to choice for anyone craving
+  top-rated sushi nearby. This spot stands out for its commitment to quality
+  ingredients and a welcoming vibe that pairs perfectly with the vibrant energy
+  of Sacramento's dining scene.
+generative_summary: >-
+  Explore Jensai Sushi in Sacramento, CA$$$Jensai Sushi in Sacramento, CA,
+  offers a delightful array of fresh sushi rolls and Japanese-inspired dishes in
+  a cozy, casual atmosphere that invites relaxation and enjoyment. The
+  restaurant features a contemporary setting with a cocktail bar, making it an
+  ideal spot for those seeking flavorful meals and refreshing drinks after a day
+  of exploring the area. Accessibility options like wheelchair-friendly
+  entrances and parking enhance the experience for all visitors, ensuring
+  everyone can savor the authentic flavors without hassle. With convenient hours
+  that include lunch and dinner options, it's a go-to choice for anyone craving
+  top-rated sushi nearby. This spot stands out for its commitment to quality
+  ingredients and a welcoming vibe that pairs perfectly with the vibrant energy
+  of Sacramento's dining scene.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ7SVcKeDQmoAR_NwxWw2X1wc/reviews/ChZDSUhNMG9nS0VJQ0FnSUNKa1B5b0xnEAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Always friendly staff with very delicious meals.
+
+        Today, I had their seafood Ramen 😋. Try the Shashimi and Nygeri mix.
+        It's very delicious 😋 and it has many different kinds of fish used in
+        its creation.
+      languageCode: en
+    originalText:
+      text: >-
+        Always friendly staff with very delicious meals.
+
+        Today, I had their seafood Ramen 😋. Try the Shashimi and Nygeri mix.
+        It's very delicious 😋 and it has many different kinds of fish used in
+        its creation.
+      languageCode: en
+    authorAttribution:
+      displayName: Jeff Recht
+      uri: https://www.google.com/maps/contrib/106590529170135524189/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXRtT8UpuWP-bomKy7X6q23atjiTOD5-ZBw1ZOuPlZdpIjueZ_S=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-02T10:37:02.357098Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNKa1B5b0xnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNKa1B5b0xnEAE!2m1!1s0x809ad0e0295c25ed:0x7d7970d5b31dcfc
+  - name: >-
+      places/ChIJ7SVcKeDQmoAR_NwxWw2X1wc/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3b09mZTZRRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        One of the best dining experiences I've had in a long time, and it was
+        all thanks to Evan and the other staff there. Our family came in 30-40
+        minutes before closing without realizing it, but Evan was more than
+        happy to continue serving us well past closing, and he did an astounding
+        job. He was very knowledgeable, very personable, and he makes some
+        wonderful drinks. We ordered the sushi platter #3 to share with the
+        family and it was some of the best presented and best sushi and sashimi
+        I've ever had, and for 7 people it was almost more food than we could
+        eat. From now on I'll make it a point to come back to this place
+        whenever I'm in Sacramento.
+      languageCode: en
+    originalText:
+      text: >-
+        One of the best dining experiences I've had in a long time, and it was
+        all thanks to Evan and the other staff there. Our family came in 30-40
+        minutes before closing without realizing it, but Evan was more than
+        happy to continue serving us well past closing, and he did an astounding
+        job. He was very knowledgeable, very personable, and he makes some
+        wonderful drinks. We ordered the sushi platter #3 to share with the
+        family and it was some of the best presented and best sushi and sashimi
+        I've ever had, and for 7 people it was almost more food than we could
+        eat. From now on I'll make it a point to come back to this place
+        whenever I'm in Sacramento.
+      languageCode: en
+    authorAttribution:
+      displayName: Isaiah DuFresne
+      uri: https://www.google.com/maps/contrib/105958934123208705385/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWL2m8OAHv9RBZMzCLHCdtu_jezgFPgdlCJFj0QACYAzXg83ww=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-03-15T22:53:32.437894Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUN3b09mZTZRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUN3b09mZTZRRRAB!2m1!1s0x809ad0e0295c25ed:0x7d7970d5b31dcfc
+  - name: >-
+      places/ChIJ7SVcKeDQmoAR_NwxWw2X1wc/reviews/ChdDSUhNMG9nS0VJQ0FnSUM5NjltV2h3RRAB
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        Downtown's Japanese culinary haven exceeded all expectations, leaving us
+        with a heartwarming sense of being part of a food-loving family. From
+        the moment we entered, the attentive staff enveloped us in genuine
+        warmth, making each interaction feel like a reunion with old friends.
+        The service was nothing short of phenomenal – every detail executed with
+        care and enthusiasm.
+
+
+        The culinary journey unfolded with impeccably fresh sashimi, a testament
+        to the chef's commitment to quality. Each delicate slice melted in our
+        mouths, showcasing a mastery of flavor. The stuffed mushroom appetizer
+        was an absolute delight, an explosion of heavenly tastes that lingered
+        on our palates, urging us to savor every bite. This Japanese gem not
+        only offers excellent food but also creates an atmosphere where passion
+        for culinary artistry and genuine hospitality collide. A must-visit for
+        those seeking an unforgettable dining experience where every dish feels
+        like a symphony of flavors and every guest is embraced like family.
+      languageCode: en
+    originalText:
+      text: >-
+        Downtown's Japanese culinary haven exceeded all expectations, leaving us
+        with a heartwarming sense of being part of a food-loving family. From
+        the moment we entered, the attentive staff enveloped us in genuine
+        warmth, making each interaction feel like a reunion with old friends.
+        The service was nothing short of phenomenal – every detail executed with
+        care and enthusiasm.
+
+
+        The culinary journey unfolded with impeccably fresh sashimi, a testament
+        to the chef's commitment to quality. Each delicate slice melted in our
+        mouths, showcasing a mastery of flavor. The stuffed mushroom appetizer
+        was an absolute delight, an explosion of heavenly tastes that lingered
+        on our palates, urging us to savor every bite. This Japanese gem not
+        only offers excellent food but also creates an atmosphere where passion
+        for culinary artistry and genuine hospitality collide. A must-visit for
+        those seeking an unforgettable dining experience where every dish feels
+        like a symphony of flavors and every guest is embraced like family.
+      languageCode: en
+    authorAttribution:
+      displayName: Tracy Helphingstine
+      uri: https://www.google.com/maps/contrib/117315630615735755455/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVQ5KUNWBP0UfH8CyGafuekMg5wIAAnOcvTc0pfdgZhUzqtoUXz7w=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-03-10T01:03:55.782028Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUM5NjltV2h3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUM5NjltV2h3RRAB!2m1!1s0x809ad0e0295c25ed:0x7d7970d5b31dcfc
+  - name: >-
+      places/ChIJ7SVcKeDQmoAR_NwxWw2X1wc/reviews/ChdDSUhNMG9nS0VJQ0FnSURyeE8yT2tBRRAB
+    relativePublishTimeDescription: 9 months ago
+    rating: 5
+    text:
+      text: >-
+        There are many sushi joints within walking distance of my place, but
+        Jensai is the best! I really love the Jensai Poke Bowl.
+
+
+        I usually get carry out, and they always deliver 😋
+      languageCode: en
+    originalText:
+      text: >-
+        There are many sushi joints within walking distance of my place, but
+        Jensai is the best! I really love the Jensai Poke Bowl.
+
+
+        I usually get carry out, and they always deliver 😋
+      languageCode: en
+    authorAttribution:
+      displayName: Erik Taylor
+      uri: https://www.google.com/maps/contrib/106908425839690219080/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLA95vJ3BmhNi00DyEIcFHZBdpXRLim-SY2W5_Q-P5SxagA7fc=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-07-15T02:17:07.540210Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURyeE8yT2tBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURyeE8yT2tBRRAB!2m1!1s0x809ad0e0295c25ed:0x7d7970d5b31dcfc
+  - name: >-
+      places/ChIJ7SVcKeDQmoAR_NwxWw2X1wc/reviews/ChdDSUhNMG9nS0VJQ0FnSURxX3RtejJnRRAB
+    relativePublishTimeDescription: 3 years ago
+    rating: 3
+    text:
+      text: >-
+        Been there many times. It was one of the places that I frequented quite
+        often during the pandemic because I wanted to help them stay open. I
+        have noticed some changes in both quality and portion size now that the
+        United States is starting to open again so that's disappointing. I won't
+        go as much now as I did but the owner is a really nice guy and the happy
+        hour is a decent value.
+      languageCode: en
+    originalText:
+      text: >-
+        Been there many times. It was one of the places that I frequented quite
+        often during the pandemic because I wanted to help them stay open. I
+        have noticed some changes in both quality and portion size now that the
+        United States is starting to open again so that's disappointing. I won't
+        go as much now as I did but the owner is a really nice guy and the happy
+        hour is a decent value.
+      languageCode: en
+    authorAttribution:
+      displayName: Douglas Judson
+      uri: https://www.google.com/maps/contrib/112321433538067164986/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWLfQVsykLzMSTS_mdb3TBDVtzWtGbi-dXs1aq9NAudCvQ1NkRBPw=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2021-07-10T08:24:15.106809Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURxX3RtejJnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURxX3RtejJnRRAB!2m1!1s0x809ad0e0295c25ed:0x7d7970d5b31dcfc
+review_summary: >-
+  Customer Feedback Highlights$$$Folks rave about the fresh sushi and Japanese
+  dishes at this spot, often highlighting the delicious flavors and generous
+  portions that make every meal feel satisfying and well worth it. Many
+  appreciate the friendly service and knowledgeable staff who go the extra mile
+  to create a welcoming environment, even during busy times. While most
+  experiences are overwhelmingly positive, a few mention slight changes in
+  quality over time, though these don't overshadow the overall value, especially
+  during happy hour deals. It's clear that visitors keep coming back for the
+  tasty options like poke bowls and ramen, making it a solid pick for anyone
+  hunting for reliable sushi places in the neighborhood. All in all, this
+  restaurant delivers a consistently enjoyable vibe that keeps the good times
+  rolling for sushi lovers exploring Sacramento.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
 good_for_sports: null
-live_music: null
+live_music: false
 menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Sushi rolls, noodle dishes & ramen served in a contemporary setting with a
+  cocktail bar.
 
 ---

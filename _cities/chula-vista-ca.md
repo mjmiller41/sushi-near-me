@@ -5,4 +5,5 @@ permalink: /california/chula-vista/
 stateAbbr: CA
 stateName: California
 cityName: Chula Vista
+
 ---

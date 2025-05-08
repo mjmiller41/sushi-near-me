@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Noburu Ramen and Sushi"
+title: Noburu Ramen and Sushi
 permalink: /washington/redmond/noburu-ramen-and-sushi.html
 stateAbbr: WA
 stateName: Washington
 cityName: Redmond
 seo:
-  name: "Noburu Ramen and Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.ordertogo.com/restaurants/nobururamensushiredmond/mesh
-description: "Noburu Ramen and Sushi serves delicious sushi in Redmond, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJcfM2fsUNkFQRWNZrQyxcObQ
 photos:
   - name: >-
@@ -170,7 +168,105 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x54900dc57e36f371:0xb4395c2c436bd658!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
     - 'Tuesday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
     - 'Wednesday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
@@ -178,14 +274,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
     - 'Saturday: 11:00 AM – 9:00 PM'
     - 'Sunday: 11:00 AM – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
-    - 'Thursday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
-    - 'Friday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
-    - 'Saturday: 11:00 AM – 9:00 PM'
-    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +286,277 @@ phone: (425) 202-7231
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.4'
-rating_count: 0
+rating_count: 176
 website: https://www.ordertogo.com/restaurants/nobururamensushiredmond/mesh
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Noburu Ramen and Sushi in Redmond, WA$$$Noburu Ramen and Sushi in
+  Redmond, WA, stands out as a welcoming Japanese restaurant offering a blend of
+  fresh sushi and hearty ramen that captures the essence of authentic flavors.
+  Diners can enjoy generous portions of high-quality dishes, from delicate
+  sashimi to rich, flavorful broths, all served in a clean and accessible
+  environment that caters to various needs. The spot is conveniently open for
+  lunch and dinner throughout the week, making it an ideal choice for those
+  seeking top-rated sushi restaurants nearby. With options like
+  wheelchair-accessible seating and a moderate price range, it's perfect for
+  casual visits or group outings, ensuring everyone leaves satisfied.
+generative_summary: >-
+  Discover Noburu Ramen and Sushi in Redmond, WA$$$Noburu Ramen and Sushi in
+  Redmond, WA, stands out as a welcoming Japanese restaurant offering a blend of
+  fresh sushi and hearty ramen that captures the essence of authentic flavors.
+  Diners can enjoy generous portions of high-quality dishes, from delicate
+  sashimi to rich, flavorful broths, all served in a clean and accessible
+  environment that caters to various needs. The spot is conveniently open for
+  lunch and dinner throughout the week, making it an ideal choice for those
+  seeking top-rated sushi restaurants nearby. With options like
+  wheelchair-accessible seating and a moderate price range, it's perfect for
+  casual visits or group outings, ensuring everyone leaves satisfied.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJcfM2fsUNkFQRWNZrQyxcObQ/reviews/ChdDSUhNMG9nS0VJQ0FnTUNvc2FhTW1nRRAB
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        Always ALWAYS a good experience. Whether they're busy or slow, always on
+        point. Ramen is very flavorful. Sushi never a let down and the tea is
+        top notch. My girls always like to try a new drink so far so good!
+        Highly recommend
+      languageCode: en
+    originalText:
+      text: >-
+        Always ALWAYS a good experience. Whether they're busy or slow, always on
+        point. Ramen is very flavorful. Sushi never a let down and the tea is
+        top notch. My girls always like to try a new drink so far so good!
+        Highly recommend
+      languageCode: en
+    authorAttribution:
+      displayName: T MS
+      uri: https://www.google.com/maps/contrib/110572303403530602566/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUYUsvbTl82QzYdDwgtTWcFu5A-GMCVFCsWfk4_jkH1vxlwjyxJHg=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-17T21:09:39.574302Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNvc2FhTW1nRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNvc2FhTW1nRRAB!2m1!1s0x54900dc57e36f371:0xb4395c2c436bd658
+  - name: >-
+      places/ChIJcfM2fsUNkFQRWNZrQyxcObQ/reviews/ChZDSUhNMG9nS0VJQ0FnTURRdFBlOFZREAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        An awesome place to eat Sushi and Ramen!… Is the go to place on the
+        weekends for my family. Perfect balance between outstanding quality and
+        price!… All the menu looks exactly as it looks on pictures, plenty of
+        food, great service and great place.
+      languageCode: en
+    originalText:
+      text: >-
+        An awesome place to eat Sushi and Ramen!… Is the go to place on the
+        weekends for my family. Perfect balance between outstanding quality and
+        price!… All the menu looks exactly as it looks on pictures, plenty of
+        food, great service and great place.
+      languageCode: en
+    authorAttribution:
+      displayName: David Lopez
+      uri: https://www.google.com/maps/contrib/106136942842889695558/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUDEV_66dh7Oq8QG3U1RMMJMNt5Pcm_oPI1yqtNWsIJKLQvIZMr=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-03-09T07:53:43.210393Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURRdFBlOFZREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURRdFBlOFZREAE!2m1!1s0x54900dc57e36f371:0xb4395c2c436bd658
+  - name: >-
+      places/ChIJcfM2fsUNkFQRWNZrQyxcObQ/reviews/ChZDSUhNMG9nS0VJQ0FnTURnN0k2WVhREAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        Noboru Sushi & Ramen: A Solid Choice with Standout Stars
+
+        Noboru Sushi & Ramen delivers a satisfying dining experience, balancing
+        quality with fair pricing and generous portions. It's the kind of place
+        you can rely on for a consistently good meal, whether you're craving
+        sushi or a comforting bowl of ramen.
+
+        From the moment our plates arrived, it was clear that Noboru doesn't
+        skimp on portion sizes. This is a welcome change from some sushi
+        restaurants where you leave feeling slightly peckish. Here, you'll find
+        ample servings of both sushi and ramen, ensuring you leave fully
+        satisfied.
+
+        While the menu offers a wide variety of options, two items truly shone:
+        the hamachi and the negitoro. The hamachi was incredibly fresh, melting
+        in the mouth with a delicate, buttery flavor. The negitoro, a delightful
+        combination of minced fatty tuna and green onion, was equally
+        impressive. The richness of the tuna was perfectly balanced by the sharp
+        freshness of the scallions, creating a truly memorable bite. These two
+        items alone are worth a return visit.
+
+        Beyond the standout sushi, the overall quality of the fish was
+        commendable, and the rice was cooked to a perfect consistency. While I
+        didn't sample the ramen on this occasion, the hearty bowls I saw being
+        served looked promising and garnered positive murmurs from neighboring
+        tables.
+
+        The pricing at Noboru is fair and reflects the quality and quantity of
+        the food. You won't feel like you're overpaying, which adds to the
+        overall positive experience.
+
+        In conclusion, Noboru Sushi & Ramen is a solid choice for anyone looking
+        for a satisfying and reasonably priced Japanese meal. The generous
+        portions, combined with the exceptional hamachi and negitoro, make it a
+        standout in its category. If you're in the area and craving fresh sushi
+        or comforting ramen, Noboru is definitely worth a try.
+      languageCode: en
+    originalText:
+      text: >-
+        Noboru Sushi & Ramen: A Solid Choice with Standout Stars
+
+        Noboru Sushi & Ramen delivers a satisfying dining experience, balancing
+        quality with fair pricing and generous portions. It's the kind of place
+        you can rely on for a consistently good meal, whether you're craving
+        sushi or a comforting bowl of ramen.
+
+        From the moment our plates arrived, it was clear that Noboru doesn't
+        skimp on portion sizes. This is a welcome change from some sushi
+        restaurants where you leave feeling slightly peckish. Here, you'll find
+        ample servings of both sushi and ramen, ensuring you leave fully
+        satisfied.
+
+        While the menu offers a wide variety of options, two items truly shone:
+        the hamachi and the negitoro. The hamachi was incredibly fresh, melting
+        in the mouth with a delicate, buttery flavor. The negitoro, a delightful
+        combination of minced fatty tuna and green onion, was equally
+        impressive. The richness of the tuna was perfectly balanced by the sharp
+        freshness of the scallions, creating a truly memorable bite. These two
+        items alone are worth a return visit.
+
+        Beyond the standout sushi, the overall quality of the fish was
+        commendable, and the rice was cooked to a perfect consistency. While I
+        didn't sample the ramen on this occasion, the hearty bowls I saw being
+        served looked promising and garnered positive murmurs from neighboring
+        tables.
+
+        The pricing at Noboru is fair and reflects the quality and quantity of
+        the food. You won't feel like you're overpaying, which adds to the
+        overall positive experience.
+
+        In conclusion, Noboru Sushi & Ramen is a solid choice for anyone looking
+        for a satisfying and reasonably priced Japanese meal. The generous
+        portions, combined with the exceptional hamachi and negitoro, make it a
+        standout in its category. If you're in the area and craving fresh sushi
+        or comforting ramen, Noboru is definitely worth a try.
+      languageCode: en
+    authorAttribution:
+      displayName: Richard Wang
+      uri: https://www.google.com/maps/contrib/100642674887357556828/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXhLvptDXY2hjmfESr44Oq5ThgDR6LR3KVM8rTDe0MzWoa_0dph=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-02-23T03:15:56.955771Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURnN0k2WVhREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURnN0k2WVhREAE!2m1!1s0x54900dc57e36f371:0xb4395c2c436bd658
+  - name: >-
+      places/ChIJcfM2fsUNkFQRWNZrQyxcObQ/reviews/ChdDSUhNMG9nS0VJQ0FnSURQcktDVnJ3RRAB
+    relativePublishTimeDescription: 5 months ago
+    rating: 4
+    text:
+      text: >-
+        So very happy we found this Japanese Restaurant! Both dishes were
+        delicious! And abundant!  Lots of fresh fish! Broth was creamy.  … I
+        should have added more hot spice.  Poke bowl and ShrimpKaraage Ramon.
+      languageCode: en
+    originalText:
+      text: >-
+        So very happy we found this Japanese Restaurant! Both dishes were
+        delicious! And abundant!  Lots of fresh fish! Broth was creamy.  … I
+        should have added more hot spice.  Poke bowl and ShrimpKaraage Ramon.
+      languageCode: en
+    authorAttribution:
+      displayName: Debbie A
+      uri: https://www.google.com/maps/contrib/113505435578662091979/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWtI2naCzfP1OsHIkL8SUesuhmZrbnm0lX3XXRVO519aarUiv-BYQ=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-11-29T20:18:24.908125Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURQcktDVnJ3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURQcktDVnJ3RRAB!2m1!1s0x54900dc57e36f371:0xb4395c2c436bd658
+  - name: >-
+      places/ChIJcfM2fsUNkFQRWNZrQyxcObQ/reviews/ChdDSUhNMG9nS0VJQ0FnSUNmaktXLWt3RRAB
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        This restaurant was extremely clean and welcoming. I had the Poke Bowl
+        and Goyza, both were delicious. We also tried the fried chicken dish and
+        it was really good. We will be eating here again.
+      languageCode: en
+    originalText:
+      text: >-
+        This restaurant was extremely clean and welcoming. I had the Poke Bowl
+        and Goyza, both were delicious. We also tried the fried chicken dish and
+        it was really good. We will be eating here again.
+      languageCode: en
+    authorAttribution:
+      displayName: Keela Meyer
+      uri: https://www.google.com/maps/contrib/117446147990732620508/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUNfUhXAZgNPpJwA4zZ99CWygo1-13X6qm-hLQLTvReBqvrkcupBg=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-12-26T16:53:30.138225Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNmaktXLWt3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNmaktXLWt3RRAB!2m1!1s0x54900dc57e36f371:0xb4395c2c436bd658
+review_summary: >-
+  What People Love About This Sushi Spot$$$Visitors often rave about the fresh
+  and flavorful sushi rolls along with the comforting ramen bowls that hit the
+  spot every time, highlighting the generous portions and balanced tastes. Many
+  appreciate the efficient service and clean atmosphere, which make for a
+  relaxed dining experience without any major hiccups. While some note that the
+  quality can vary slightly, the overall consensus leans positive, with folks
+  enjoying the value for money and variety of options. If you're on the hunt for
+  sushi places near you, this location frequently gets nods for its reliable
+  meals that keep customers coming back. All in all, it's a solid pick for
+  anyone craving Japanese favorites in a friendly setting.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
+curbside_pickup: true
+delivery: true
+dine_in: true
 good_for_children: null
 good_for_groups: null
-good_for_sports: null
-live_music: null
+good_for_sports: false
+live_music: false
 menu_for_children: null
-outdoor_seating: null
+outdoor_seating: false
 reservable: null
-restroom: null
-serves_beer: null
+restroom: true
+serves_beer: true
 serves_breakfast: null
-serves_brunch: null
+serves_brunch: false
 serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Oki Doki roll and sushi"
+title: Oki Doki roll and sushi
 permalink: /california/brea/oki-doki-roll-and-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Brea
 seo:
-  name: "Oki Doki roll and sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Oki Doki roll and sushi serves delicious sushi in Brea, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ_xclbjrV3IAR-5mvBXHhQYM
 photos:
   - name: >-
@@ -170,7 +168,113 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80dcd53a6e2517ff:0x8341e17105af99fb!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 15
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 14
+        minute: 30
+    - open:
+        day: 6
+        hour: 16
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
     - 'Tuesday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
     - 'Wednesday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
@@ -178,14 +282,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
     - 'Saturday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
     - 'Sunday: 3:30 – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
-    - 'Thursday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
-    - 'Friday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
-    - 'Saturday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
-    - 'Sunday: 3:30 – 9:00 PM'
+  nextOpenTime: '2025-05-03T23:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +294,213 @@ phone: (714) 255-1178
 price_level: null
 price_range: $20 &ndash; $30
 rating: '4.5'
-rating_count: 0
+rating_count: 65
 website: null
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Oki Doki Roll and Sushi in Brea, California$$$Oki Doki Roll and Sushi
+  in Brea, CA, stands out as a casual Japanese eatery where fresh sushi and
+  flavorful staples like bento boxes take center stage, complemented by options
+  for sake and beer. This spot emphasizes accessibility with features such as
+  wheelchair-friendly parking and entrances, making it welcoming for all diners
+  searching for top-rated sushi near me. Patrons can enjoy a variety of Japanese
+  dishes in a relaxed atmosphere, ideal for lunch, dinner, or even takeout, with
+  convenient hours that include evenings and weekends. The menu highlights
+  affordable pricing around $20 to $30, appealing to those exploring sushi
+  restaurants near me without breaking the bank. Whether you're in the mood for
+  fresh rolls or a quick meal, this location delivers a solid blend of quality
+  and convenience for Japanese cuisine enthusiasts.
+generative_summary: >-
+  Discover Oki Doki Roll and Sushi in Brea, California$$$Oki Doki Roll and Sushi
+  in Brea, CA, stands out as a casual Japanese eatery where fresh sushi and
+  flavorful staples like bento boxes take center stage, complemented by options
+  for sake and beer. This spot emphasizes accessibility with features such as
+  wheelchair-friendly parking and entrances, making it welcoming for all diners
+  searching for top-rated sushi near me. Patrons can enjoy a variety of Japanese
+  dishes in a relaxed atmosphere, ideal for lunch, dinner, or even takeout, with
+  convenient hours that include evenings and weekends. The menu highlights
+  affordable pricing around $20 to $30, appealing to those exploring sushi
+  restaurants near me without breaking the bank. Whether you're in the mood for
+  fresh rolls or a quick meal, this location delivers a solid blend of quality
+  and convenience for Japanese cuisine enthusiasts.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ_xclbjrV3IAR-5mvBXHhQYM/reviews/ChdDSUhNMG9nS0VJQ0FnSUNSb29QY3d3RRAB
+    relativePublishTimeDescription: 2 years ago
+    rating: 5
+    text:
+      text: >-
+        We went when it was a little short staffed. But the waiter who served us
+        showed kindness and quick service. He never rushed anyone but had his
+        hustle on like there was no tomorrow. 5/5 stars for service. Food was
+        pretty good too…
+      languageCode: en
+    originalText:
+      text: >-
+        We went when it was a little short staffed. But the waiter who served us
+        showed kindness and quick service. He never rushed anyone but had his
+        hustle on like there was no tomorrow. 5/5 stars for service. Food was
+        pretty good too…
+      languageCode: en
+    authorAttribution:
+      displayName: Tony Ro Jr
+      uri: https://www.google.com/maps/contrib/116658491360117097085/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWIDTyF5sosa9AovWv-tCrI9ltiGZFX0rU0qN9zW02GC5XmsM8aoA=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2023-03-28T16:42:57.247565Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNSb29QY3d3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNSb29QY3d3RRAB!2m1!1s0x80dcd53a6e2517ff:0x8341e17105af99fb
+  - name: >-
+      places/ChIJ_xclbjrV3IAR-5mvBXHhQYM/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3eGYyUkR3EAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        I’ve dined in and have done takeout. Love this place! It’s always been
+        Great! Will be eating there tomorrow. 😋
+      languageCode: en
+    originalText:
+      text: >-
+        I’ve dined in and have done takeout. Love this place! It’s always been
+        Great! Will be eating there tomorrow. 😋
+      languageCode: en
+    authorAttribution:
+      displayName: Kiki’s Spark29
+      uri: https://www.google.com/maps/contrib/102014060892669239713/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXg9-CM5WArK7SzEC5IpGHR0LgSDY0QI80kuU5keczVeMB2XlQ=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-27T04:33:47.807221Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUR3eGYyUkR3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUR3eGYyUkR3EAE!2m1!1s0x80dcd53a6e2517ff:0x8341e17105af99fb
+  - name: >-
+      places/ChIJ_xclbjrV3IAR-5mvBXHhQYM/reviews/ChdDSUhNMG9nS0VJQ0FnSUQzOGFqN2hRRRAB
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        This place is great! Best sushi in Brea in my opinion. I get a little
+        picky with my sushi quality and this place is delicious, priced nicely
+        and service was outstanding. I will be back again soon!
+      languageCode: en
+    originalText:
+      text: >-
+        This place is great! Best sushi in Brea in my opinion. I get a little
+        picky with my sushi quality and this place is delicious, priced nicely
+        and service was outstanding. I will be back again soon!
+      languageCode: en
+    authorAttribution:
+      displayName: Ben Schultz
+      uri: https://www.google.com/maps/contrib/117970353052905344041/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVQ821Kmp-aMbYFT9eZzPI5aLtiwr3Qr2HmiPQJ7OiokCGNLFo=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-11-16T03:46:48.658667Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQzOGFqN2hRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQzOGFqN2hRRRAB!2m1!1s0x80dcd53a6e2517ff:0x8341e17105af99fb
+  - name: >-
+      places/ChIJ_xclbjrV3IAR-5mvBXHhQYM/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJeDl6S1pBEAE
+    relativePublishTimeDescription: 4 weeks ago
+    rating: 5
+    text:
+      text: >-
+        Their rolls are delicious!
+
+        Also the price is reasonable, it's hard to find rolls costing  less than
+        $18 these days
+      languageCode: en
+    originalText:
+      text: >-
+        Their rolls are delicious!
+
+        Also the price is reasonable, it's hard to find rolls costing  less than
+        $18 these days
+      languageCode: en
+    authorAttribution:
+      displayName: Lina YK Hong
+      uri: https://www.google.com/maps/contrib/111683988462229971987/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKuUFE8qrrU_5StKAY7UBXzIA8Hc2MI9b4WogKLhNmhBvEbEh4L=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-05T03:57:42.113122Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNJeDl6S1pBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNJeDl6S1pBEAE!2m1!1s0x80dcd53a6e2517ff:0x8341e17105af99fb
+  - name: >-
+      places/ChIJ_xclbjrV3IAR-5mvBXHhQYM/reviews/ChZDSUhNMG9nS0VJQ0FnSURSNWNYZElnEAE
+    relativePublishTimeDescription: 2 years ago
+    rating: 5
+    text:
+      text: >-
+        The waitresses were so sweet. The fish was fresh and the dressing they
+        use on the salad was so good.
+      languageCode: en
+    originalText:
+      text: >-
+        The waitresses were so sweet. The fish was fresh and the dressing they
+        use on the salad was so good.
+      languageCode: en
+    authorAttribution:
+      displayName: Jolin A
+      uri: https://www.google.com/maps/contrib/110348197046276037604/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUgCoD1eApmHO6h_Z4EQ4xp0e3I73krZy33YZOJ1dTpLRQApiJX=s128-c0x00000000-cc-rp-mo
+    publishTime: '2023-04-30T04:55:24.382179Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURSNWNYZElnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURSNWNYZElnEAE!2m1!1s0x80dcd53a6e2517ff:0x8341e17105af99fb
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this sushi spot often rave about the
+  consistently fresh and tasty rolls that make it a go-to for affordable
+  Japanese dining. Many appreciate the quick, friendly service that keeps things
+  efficient without feeling rushed, helping it stand out among local options for
+  sushi close to me. Feedback highlights the reasonable prices, with meals under
+  $18 for rolls being a pleasant surprise in today's market, alongside praise
+  for the overall quality that encourages repeat visits. While some note it's
+  great for groups or families, the general vibe is one of satisfaction with the
+  food's freshness and variety, making it a reliable choice for anyone craving
+  top-rated sushi. Overall, the positive experiences shared suggest it's a solid
+  pick for casual meals, blending good value with enjoyable flavors in a
+  welcoming setting.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
 menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
 serves_breakfast: null
-serves_brunch: null
+serves_brunch: true
 serves_cocktails: null
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

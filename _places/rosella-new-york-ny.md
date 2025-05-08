@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Rosella"
+title: Rosella
 permalink: /new-york/new-york/rosella.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "Rosella"
-  type: Restaurant
-  links: null
-description: "Rosella serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.rosellanyc.com/
 place_id: ChIJj_wLYalZwokRULTcqVFlZlg
 photos:
   - name: >-
@@ -169,8 +167,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c259a9610bfc8f:0x58666551a9dcb450!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 5:00 – 10:00 PM'
+    - 'Tuesday: 5:00 – 10:00 PM'
+    - 'Wednesday: 5:00 – 10:00 PM'
+    - 'Thursday: 5:00 – 10:00 PM'
+    - 'Friday: 5:00 – 10:00 PM'
+    - 'Saturday: 5:00 – 10:00 PM'
+    - 'Sunday: 5:00 – 10:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -178,13 +241,49 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
+phone: (646) 422-7729
 price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+price_range: $100 &ndash; & up
+rating: '4.7'
+rating_count: 315
+website: http://www.rosellanyc.com/
+description: >-
+  Discover Rosella in New York, NY$$$Rosella in New York, NY, stands out as a
+  vibrant sushi restaurant known for its creative small plates and carefully
+  curated wine selection, all set in a modern and inviting atmosphere. This spot
+  emphasizes fresh, high-quality ingredients that bring authentic Japanese
+  flavors to life, making it a go-to choice for those seeking innovative dining
+  experiences in the city. With accessibility features like wheelchair-friendly
+  entrances and seating, it ensures everyone can enjoy the trendy vibe without
+  hassle. Evening hours from 5 PM onward add to its appeal for casual dinners or
+  special occasions, while the overall ambiance draws in locals and visitors
+  alike looking for top-notch sushi options nearby.
+generative_summary: >-
+  Discover Rosella in New York, NY$$$Rosella in New York, NY, stands out as a
+  vibrant sushi restaurant known for its creative small plates and carefully
+  curated wine selection, all set in a modern and inviting atmosphere. This spot
+  emphasizes fresh, high-quality ingredients that bring authentic Japanese
+  flavors to life, making it a go-to choice for those seeking innovative dining
+  experiences in the city. With accessibility features like wheelchair-friendly
+  entrances and seating, it ensures everyone can enjoy the trendy vibe without
+  hassle. Evening hours from 5 PM onward add to its appeal for casual dinners or
+  special occasions, while the overall ambiance draws in locals and visitors
+  alike looking for top-notch sushi options nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Buzzing About$$$Folks often rave about the standout dishes
+  at this sushi spot, highlighting fresh seafood preparations that leave a
+  lasting impression on the palate. Many appreciate the warm and attentive
+  service that makes every meal feel personalized and enjoyable, adding to the
+  cozy, intimate setting that enhances the overall experience. It's commonly
+  noted that the variety of flavors, from rich tuna to comforting soups, makes
+  it a memorable choice for anyone craving quality Japanese cuisine. While
+  opinions vary, the general consensus leans positive, with diners frequently
+  calling it one of their favorite finds in the area for reliable and exciting
+  meals. Overall, this place keeps things upbeat and satisfying, encouraging
+  repeat visits for those exploring the best sushi around town.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +309,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

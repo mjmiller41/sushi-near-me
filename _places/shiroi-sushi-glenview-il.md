@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Shiroi Sushi 한국횟집"
+title: Shiroi Sushi 한국횟집
 permalink: /illinois/glenview/shiroi-sushi.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Glenview
 seo:
-  name: "Shiroi Sushi 한국횟집"
-  type: Restaurant
+  type: restaurant
   links: https://www.shiroisushi.com/
-description: "Shiroi Sushi 한국횟집 serves delicious sushi in Glenview, Illinois. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJH8nN5AnID4gR6RvxFX8vs38
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x880fc809e4cdc91f:0x7fb32f7f15f11be9!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 16
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 12
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 12
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 12
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:30 AM – 10:00 PM'
     - 'Wednesday: 12:00 – 10:00 PM'
@@ -178,28 +226,113 @@ opening_hours:
     - 'Friday: 12:00 – 10:00 PM'
     - 'Saturday: 12:00 – 10:00 PM'
     - 'Sunday: 4:00 – 9:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:30 AM – 10:00 PM'
-    - 'Wednesday: 12:00 – 10:00 PM'
-    - 'Thursday: 12:00 – 10:00 PM'
-    - 'Friday: 12:00 – 10:00 PM'
-    - 'Saturday: 12:00 – 10:00 PM'
-    - 'Sunday: 4:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 16
+          minute: 0
+        close:
+          day: 0
+          hour: 20
+          minute: 0
+      - open:
+          day: 2
+          hour: 15
+          minute: 0
+        close:
+          day: 2
+          hour: 21
+          minute: 0
+      - open:
+          day: 3
+          hour: 15
+          minute: 0
+        close:
+          day: 3
+          hour: 21
+          minute: 0
+      - open:
+          day: 4
+          hour: 15
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 0
+      - open:
+          day: 5
+          hour: 12
+          minute: 0
+        close:
+          day: 5
+          hour: 21
+          minute: 0
+      - open:
+          day: 6
+          hour: 12
+          minute: 0
+        close:
+          day: 6
+          hour: 21
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: Closed'
+      - 'Tuesday: 3:00 – 9:00 PM'
+      - 'Wednesday: 3:00 – 9:00 PM'
+      - 'Thursday: 3:00 – 9:00 PM'
+      - 'Friday: 12:00 – 9:00 PM'
+      - 'Saturday: 12:00 – 9:00 PM'
+      - 'Sunday: 4:00 – 8:00 PM'
+    secondaryHoursType: DELIVERY
+    nextCloseTime: '2025-05-04T02:00:00Z'
 phone: (847) 813-5290
 price_level: PRICE_LEVEL_MODERATE
 price_range: $50 &ndash; $100
 rating: '4.1'
-rating_count: 0
+rating_count: 302
 website: https://www.shiroisushi.com/
+description: >-
+  Discover Shiroi Sushi in Glenview, IL$$$Shiroi Sushi 한국횟집 in Glenview, IL,
+  stands out as a welcoming spot for enjoying authentic Japanese flavors,
+  featuring a menu that highlights fresh seafood and creative rolls. This
+  family-run eatery specializes in traditional dishes alongside a selection of
+  beverages like beer and wine, making it a great choice for casual dinners or
+  special occasions. With its accessible features including wheelchair-friendly
+  parking and entrances, it ensures everyone can savor the experience
+  comfortably. Visitors appreciate the cozy atmosphere and reliable service,
+  perfect for those seeking quality sushi options close to home. Operating hours
+  cater to various schedules, adding to its appeal for anyone exploring
+  top-rated Japanese places nearby.
+generative_summary: >-
+  Discover Shiroi Sushi in Glenview, IL$$$Shiroi Sushi 한국횟집 in Glenview, IL,
+  stands out as a welcoming spot for enjoying authentic Japanese flavors,
+  featuring a menu that highlights fresh seafood and creative rolls. This
+  family-run eatery specializes in traditional dishes alongside a selection of
+  beverages like beer and wine, making it a great choice for casual dinners or
+  special occasions. With its accessible features including wheelchair-friendly
+  parking and entrances, it ensures everyone can savor the experience
+  comfortably. Visitors appreciate the cozy atmosphere and reliable service,
+  perfect for those seeking quality sushi options close to home. Operating hours
+  cater to various schedules, adding to its appeal for anyone exploring
+  top-rated Japanese places nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Based on the solid 4.1 rating from hundreds of
+  feedback notes, folks generally enjoy the fresh and flavorful sushi selections
+  that keep drawing people back for more. Many comments highlight the welcoming
+  vibe and solid portions, making it a reliable pick for groups or solo diners
+  looking for a satisfying meal. While some mention occasional waits during busy
+  times, the overall experience comes across as worth it, especially for the
+  variety of rolls and attentive staff. It's clear that customers appreciate the
+  balance of traditional tastes with modern twists, helping it stand out among
+  local sushi spots. If you're on the hunt for dependable Japanese cuisine in
+  the area, this place often gets nods for its consistent quality and friendly
+  service.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +358,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

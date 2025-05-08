@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Mori Sushi"
+title: Mori Sushi
 permalink: /illinois/lake-in-the-hills/mori-sushi.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Lake in the Hills
 seo:
-  name: "Mori Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://morisushirestaurant.com/
-description: "Casual sushi spot with traditional & creative entrees, including mori rolls & black rice. Mori Sushi serves delicious sushi in Lake in the Hills, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, and dinner."
 place_id: ChIJLVOHHnoSD4gRg7_C6eEwTuM
 photos:
   - name: >-
@@ -185,6 +183,37 @@ price_range: null
 rating: '4.4'
 rating_count: 0
 website: https://morisushirestaurant.com/
+description: >-
+  Experience Mori Sushi in Lake in the Hills, IL$$$Nestled in Lake in the Hills,
+  IL, Mori Sushi stands out as a welcoming spot for fresh sushi and
+  Japanese-inspired dishes, drawing in locals and visitors seeking quality
+  dining options nearby. This trendy sushi bar emphasizes contemporary flair
+  with locally sourced ingredients, creating inventive rolls and traditional
+  favorites that highlight bold flavors and creative presentations. Paired with
+  a selection of sake, beer, and wine, it's an ideal choice for those exploring
+  top-rated sushi restaurants in the area, offering a relaxed vibe perfect for
+  casual meals or special occasions. The restaurant also boasts accessible
+  features like wheelchair-friendly entrances and seating, making it easier for
+  everyone to enjoy authentic tastes without hassle. Whether you're searching
+  for sushi places near me or craving a satisfying Japanese meal, this spot
+  delivers a memorable experience with its thoughtful menu and inviting
+  atmosphere.
+generative_summary: >-
+  Experience Mori Sushi in Lake in the Hills, IL$$$Nestled in Lake in the Hills,
+  IL, Mori Sushi stands out as a welcoming spot for fresh sushi and
+  Japanese-inspired dishes, drawing in locals and visitors seeking quality
+  dining options nearby. This trendy sushi bar emphasizes contemporary flair
+  with locally sourced ingredients, creating inventive rolls and traditional
+  favorites that highlight bold flavors and creative presentations. Paired with
+  a selection of sake, beer, and wine, it's an ideal choice for those exploring
+  top-rated sushi restaurants in the area, offering a relaxed vibe perfect for
+  casual meals or special occasions. The restaurant also boasts accessible
+  features like wheelchair-friendly entrances and seating, making it easier for
+  everyone to enjoy authentic tastes without hassle. Whether you're searching
+  for sushi places near me or craving a satisfying Japanese meal, this spot
+  delivers a memorable experience with its thoughtful menu and inviting
+  atmosphere.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJLVOHHnoSD4gRg7_C6eEwTuM/reviews/ChdDSUhNMG9nS0VJQ0FnSUNYNF83azFnRRAB
@@ -350,6 +379,21 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR2OEw2UGJREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR2OEw2UGJREAE!2m1!1s0x880f127a1e87532d:0xe34e30e1e9c2bf83
+review_summary: >-
+  Customer Feedback on This Local Sushi Favorite$$$Folks rave about the fresh
+  and creative sushi rolls at this spot, often highlighting the delicious
+  flavors and impressive presentations that make meals feel special and
+  satisfying. While most visitors appreciate the friendly service and welcoming
+  vibe, a few mentions of occasional inconsistencies, like scheduling issues,
+  remind us that even great places can have off days. Overall, it's clear that
+  the food stands out as a highlight, with many calling it some of the best in
+  the region for its authentic taste and variety that keeps people coming back.
+  If you're hunting for reliable sushi restaurants nearby, this one scores high
+  for its commitment to quality and customer care, making it a solid pick for
+  groups or solo diners. In a casual setting like this, the positives far
+  outweigh the minor hiccups, leaving most people excited to return for more
+  tasty bites.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -382,8 +426,8 @@ serves_lunch: null
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Casual sushi spot with traditional & creative entrees, including mori rolls &
   black rice.
 

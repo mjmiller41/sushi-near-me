@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Tamashi Ramen (Orem)"
+title: Tamashi Ramen (Orem)
 permalink: /utah/orem/tamashi-ramen-orem.html
 stateAbbr: UT
 stateName: Utah
 cityName: Orem
 seo:
-  name: "Tamashi Ramen (Orem)"
-  type: Restaurant
+  type: restaurant
   links: http://www.tamashiramen.com/
-description: "Tamashi Ramen (Orem) serves delicious sushi in Orem, Utah. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJLUKkIfmbTYcRfgiv04eMYuk
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x874d9bf921a4422d:0xe9628c87d3af087e!10e5
 primary_type: Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 10:00 PM'
     - 'Tuesday: 11:30 AM – 10:00 PM'
     - 'Wednesday: 11:30 AM – 10:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 10:30 PM'
     - 'Saturday: 11:30 AM – 10:30 PM'
     - 'Sunday: 12:00 – 10:30 PM'
-  current:
-    - 'Monday: 11:30 AM – 10:00 PM'
-    - 'Tuesday: 11:30 AM – 10:00 PM'
-    - 'Wednesday: 11:30 AM – 10:00 PM'
-    - 'Thursday: 11:30 AM – 10:00 PM'
-    - 'Friday: 11:30 AM – 10:30 PM'
-    - 'Saturday: 11:30 AM – 10:30 PM'
-    - 'Sunday: 12:00 – 10:30 PM'
+  nextCloseTime: '2025-05-04T04:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,256 @@ phone: (801) 691-1894
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.6'
-rating_count: 0
+rating_count: 1069
 website: http://www.tamashiramen.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Explore Tamashi Ramen in Orem, UT$$$Tamashi Ramen in Orem, UT, stands out as a
+  welcoming Japanese eatery offering a diverse array of ramen, sushi, and other
+  Asian-inspired dishes, including options for vegan diners. The spot features
+  generous portions and a cozy atmosphere that makes it ideal for casual meals,
+  with accessibility options like wheelchair-friendly parking and seating
+  enhancing the overall experience. Fresh ingredients shine through in their
+  flavorful bowls and rolls, appealing to those seeking authentic tastes without
+  breaking the bank. Additionally, the restaurant's extended hours and
+  convenient location near popular spots make it a go-to choice for anyone
+  craving sushi or hearty meals in the area. With a focus on quality and
+  variety, it's a solid pick for exploring Japanese cuisine close to home.
+generative_summary: >-
+  Explore Tamashi Ramen in Orem, UT$$$Tamashi Ramen in Orem, UT, stands out as a
+  welcoming Japanese eatery offering a diverse array of ramen, sushi, and other
+  Asian-inspired dishes, including options for vegan diners. The spot features
+  generous portions and a cozy atmosphere that makes it ideal for casual meals,
+  with accessibility options like wheelchair-friendly parking and seating
+  enhancing the overall experience. Fresh ingredients shine through in their
+  flavorful bowls and rolls, appealing to those seeking authentic tastes without
+  breaking the bank. Additionally, the restaurant's extended hours and
+  convenient location near popular spots make it a go-to choice for anyone
+  craving sushi or hearty meals in the area. With a focus on quality and
+  variety, it's a solid pick for exploring Japanese cuisine close to home.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJLUKkIfmbTYcRfgiv04eMYuk/reviews/ChZDSUhNMG9nS0VJQ0FnSURmNVBHWGV3EAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        Really really good food huge serving size definitely could have gotten
+        the kids meal and been satisfied which my mom actually did ( the kids
+        had the corn in the picture) David was our server and he was very kind
+        and quick we were in a hurry and it was perfect we were able to get our
+        food in 5-10 mins of walking in but it was also very calm and we saw
+        some people just taking there time and talking after they finished there
+        food. Very cute quick and delicious. We totally recommend
+      languageCode: en
+    originalText:
+      text: >-
+        Really really good food huge serving size definitely could have gotten
+        the kids meal and been satisfied which my mom actually did ( the kids
+        had the corn in the picture) David was our server and he was very kind
+        and quick we were in a hurry and it was perfect we were able to get our
+        food in 5-10 mins of walking in but it was also very calm and we saw
+        some people just taking there time and talking after they finished there
+        food. Very cute quick and delicious. We totally recommend
+      languageCode: en
+    authorAttribution:
+      displayName: Kathryn Banasky
+      uri: https://www.google.com/maps/contrib/101760677759358779280/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXN5OVBtO-EOVya8_zLzs6CwCPK7rVWXENb2wXjM53OI4d_mN_w=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-01-04T02:50:08.587252Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURmNVBHWGV3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURmNVBHWGV3EAE!2m1!1s0x874d9bf921a4422d:0xe9628c87d3af087e
+  - name: >-
+      places/ChIJLUKkIfmbTYcRfgiv04eMYuk/reviews/ChZDSUhNMG9nS0VJQ0FnSUN2OXVUYU9REAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        The best shrimp fry rice, and the customer service is great. The wait
+        time is not long.
+
+        Tamashi Ramen is similar to California's food the best, and the price is
+        cheaper.
+
+        I try many places but is expensive and the food is so bad and the
+        customer service is the same as the food all bad, but Tamashi Ramen have
+        the best food in all Utah, thank you for the delicious food.
+      languageCode: en
+    originalText:
+      text: >-
+        The best shrimp fry rice, and the customer service is great. The wait
+        time is not long.
+
+        Tamashi Ramen is similar to California's food the best, and the price is
+        cheaper.
+
+        I try many places but is expensive and the food is so bad and the
+        customer service is the same as the food all bad, but Tamashi Ramen have
+        the best food in all Utah, thank you for the delicious food.
+      languageCode: en
+    authorAttribution:
+      displayName: Rst
+      uri: https://www.google.com/maps/contrib/102885807824940386799/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVL83c_0RaDiANX_YAaV2flpeA2bpb4Wf4Z2wHoBK8Gr7mYH0y1=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-12-10T22:10:56.515913Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN2OXVUYU9REAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN2OXVUYU9REAE!2m1!1s0x874d9bf921a4422d:0xe9628c87d3af087e
+  - name: >-
+      places/ChIJLUKkIfmbTYcRfgiv04eMYuk/reviews/ChZDSUhNMG9nS0VJQ0FnSUNfdktiR0pREAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        You know what's better than good ramen? Inexpensive good ramen!
+
+
+        Saw the reviews, and I'm staying at a nearby hotel. So I thought I'd
+        check them out. I'm glad I did.
+
+
+        I had the black Tonkotsu ramen. It could have used a touch more black
+        garlic oil, but on a tenderness scale, the chashu pork was a 9 out of
+        10. Great flavor, perfectly done noodles, all in a silky broth. They
+        also have sushi and traditional Japanese fare. Definitely worth another
+        visit next time I'm in town.
+      languageCode: en
+    originalText:
+      text: >-
+        You know what's better than good ramen? Inexpensive good ramen!
+
+
+        Saw the reviews, and I'm staying at a nearby hotel. So I thought I'd
+        check them out. I'm glad I did.
+
+
+        I had the black Tonkotsu ramen. It could have used a touch more black
+        garlic oil, but on a tenderness scale, the chashu pork was a 9 out of
+        10. Great flavor, perfectly done noodles, all in a silky broth. They
+        also have sushi and traditional Japanese fare. Definitely worth another
+        visit next time I'm in town.
+      languageCode: en
+    authorAttribution:
+      displayName: Ernie Hernandez
+      uri: https://www.google.com/maps/contrib/107453398201517004249/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUAzbAlKwpyGYLHO7W8UFCASg2IWfGFEHhyPBoN7BHlid6slMlF6Q=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-01-14T01:50:22.198922Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNfdktiR0pREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNfdktiR0pREAE!2m1!1s0x874d9bf921a4422d:0xe9628c87d3af087e
+  - name: >-
+      places/ChIJLUKkIfmbTYcRfgiv04eMYuk/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfaFBHWS1BRRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        One of our favorite places! Everything we've had is delicious. They have
+        lots of kids options, and our teenagers love it as well. Quick service,
+        friendly staff. Open Sunday.
+      languageCode: en
+    originalText:
+      text: >-
+        One of our favorite places! Everything we've had is delicious. They have
+        lots of kids options, and our teenagers love it as well. Quick service,
+        friendly staff. Open Sunday.
+      languageCode: en
+    authorAttribution:
+      displayName: Anna Hansen
+      uri: https://www.google.com/maps/contrib/109428514978154120928/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWd2jb9_-Ik54PrpfltE_vDSwSoxirk8peO82QBpo6e_7z4wHl03w=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-01-12T20:55:05.215545Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNfaFBHWS1BRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNfaFBHWS1BRRAB!2m1!1s0x874d9bf921a4422d:0xe9628c87d3af087e
+  - name: >-
+      places/ChIJLUKkIfmbTYcRfgiv04eMYuk/reviews/ChZDSUhNMG9nS0VJQ0FnSURIaGJPOUV3EAE
+    relativePublishTimeDescription: 7 months ago
+    rating: 5
+    text:
+      text: >-
+        So many options, that is a good thing.  If there is a ramen combination
+        you might like, I bet it is on the menu.  Not as flavorful as some but
+        the condiments were there to be able to season to taste.  That is
+        actually better for some who don't like as much flavor as others do. 
+        While I applaud the desire to have as many people enjoying the food in
+        the restaurant as possible, it was a little awkward to be as tightly
+        packed in  as we were.
+      languageCode: en
+    originalText:
+      text: >-
+        So many options, that is a good thing.  If there is a ramen combination
+        you might like, I bet it is on the menu.  Not as flavorful as some but
+        the condiments were there to be able to season to taste.  That is
+        actually better for some who don't like as much flavor as others do. 
+        While I applaud the desire to have as many people enjoying the food in
+        the restaurant as possible, it was a little awkward to be as tightly
+        packed in  as we were.
+      languageCode: en
+    authorAttribution:
+      displayName: Paul Whitmer
+      uri: https://www.google.com/maps/contrib/117573849467596414493/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUQzEZowEPkk3DstZbDbXhdj33D5y8c9XVVsIDy29X6D9E5jULmRg=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2024-09-18T04:33:21.268098Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURIaGJPOUV3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURIaGJPOUV3EAE!2m1!1s0x874d9bf921a4422d:0xe9628c87d3af087e
+review_summary: >-
+  What Customers Love About It$$$Visitors often praise the tasty ramen and sushi
+  selections for their bold flavors and great value, making it a favorite spot
+  for a satisfying meal without the wait. Many highlight the generous portions
+  and quick, friendly service that keeps things relaxed and efficient, perfect
+  for families or those in a hurry. Folks appreciate the affordable prices
+  compared to other options, allowing for a fulfilling dining experience that's
+  easy on the wallet. Overall, the welcoming vibe and variety of dishes,
+  including vegan choices, create a positive buzz for anyone searching for
+  reliable Japanese eats nearby. While some note the cozy seating might feel a
+  bit snug during peak times, the consensus leans toward it being a dependable
+  choice for delicious, no-fuss dining.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+curbside_pickup: false
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: true
+menu_for_children: true
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: false
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: false
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: false
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

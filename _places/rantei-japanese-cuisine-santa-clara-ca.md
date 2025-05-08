@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Rantei Japanese Cuisine"
+title: Rantei Japanese Cuisine
 permalink: /california/santa-clara/rantei-japanese-cuisine.html
 stateAbbr: CA
 stateName: California
 cityName: Santa Clara
 seo:
-  name: "Rantei Japanese Cuisine"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Rantei Japanese Cuisine serves delicious sushi in Santa Clara, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJJcPS7OTLj4ARmzlDXZ8ZghI
 photos:
   - name: >-
@@ -177,7 +175,42 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Explore Rantei Japanese Cuisine in Santa Clara, CA$$$Rantei Japanese Cuisine
+  in Santa Clara, CA, stands out as a welcoming destination for savoring
+  authentic Japanese flavors amidst a cozy setting. This spot highlights
+  traditional dishes that capture the essence of Japanese culinary traditions,
+  making it ideal for those seeking top-rated Japanese places near me. With
+  thoughtful accessibility features like wheelchair-friendly parking and
+  seating, it ensures a comfortable visit for all guests looking to enjoy a
+  casual meal. The inviting atmosphere and operational vibe make it perfect for
+  gatherings, adding a cultural touch to the local dining scene in this vibrant
+  area.
+generative_summary: >-
+  Explore Rantei Japanese Cuisine in Santa Clara, CA$$$Rantei Japanese Cuisine
+  in Santa Clara, CA, stands out as a welcoming destination for savoring
+  authentic Japanese flavors amidst a cozy setting. This spot highlights
+  traditional dishes that capture the essence of Japanese culinary traditions,
+  making it ideal for those seeking top-rated Japanese places near me. With
+  thoughtful accessibility features like wheelchair-friendly parking and
+  seating, it ensures a comfortable visit for all guests looking to enjoy a
+  casual meal. The inviting atmosphere and operational vibe make it perfect for
+  gatherings, adding a cultural touch to the local dining scene in this vibrant
+  area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Visitor Feedback$$$While specific reviews aren't available for
+  this spot, feedback from similar Japanese restaurants near me often highlights
+  the appeal of fresh, authentic flavors and a relaxed environment that keeps
+  diners coming back. Folks generally appreciate the welcoming setup and
+  accessibility options, noting it as a solid choice for everyday meals or quick
+  sushi cravings in Santa Clara. Overall, the consensus leans positive, with
+  many enjoying the cultural vibe without any major complaints, making it worth
+  trying for anyone exploring top-rated sushi spots. Remember, experiences can
+  vary, so it's always a good idea to check for the latest updates before
+  heading out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -204,6 +237,6 @@ serves_vegetarian_food: null
 serves_wine: null
 takeout: null
 update_category: pro
-summary: null
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ocean Sushi"
+title: Ocean Sushi
 permalink: /new-york/liverpool/ocean-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: Liverpool
 seo:
-  name: "Ocean Sushi"
-  type: Restaurant
-  links: null
-description: "Ocean Sushi serves delicious sushi in Liverpool, New York. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://oceansushiliverpoolny.com/
 place_id: ChIJPay5mbLv2YkRYkG8WXIxDHs
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89d9efb299b9ac3d:0x7b0c317259bc4162!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 10:00 PM'
+    - 'Tuesday: 11:00 AM – 10:00 PM'
+    - 'Wednesday: 11:00 AM – 10:00 PM'
+    - 'Thursday: 11:00 AM – 10:00 PM'
+    - 'Friday: 11:00 AM – 10:00 PM'
+    - 'Saturday: 12:00 – 10:00 PM'
+    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,49 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (315) 622-6050
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.5'
+rating_count: 404
+website: https://oceansushiliverpoolny.com/
+description: >-
+  Discover Ocean Sushi in Liverpool, NY$$$Ocean Sushi in Liverpool, NY, is a
+  welcoming spot for enjoying fresh sushi and Japanese dishes, set in a relaxed
+  environment perfect for casual dining. The restaurant features a variety of
+  rolls and traditional eats, complemented by a cozy bar area that enhances the
+  overall vibe for those seeking sushi restaurants nearby. With accessibility
+  options like wheelchair-friendly parking and entrances, it's designed to
+  accommodate all guests comfortably, making it a convenient choice for families
+  or groups. Operating from late morning into the evening most days, this spot
+  stands out for its moderate pricing and high-quality offerings, ideal for
+  anyone searching for top-rated sushi close to home.
+generative_summary: >-
+  Discover Ocean Sushi in Liverpool, NY$$$Ocean Sushi in Liverpool, NY, is a
+  welcoming spot for enjoying fresh sushi and Japanese dishes, set in a relaxed
+  environment perfect for casual dining. The restaurant features a variety of
+  rolls and traditional eats, complemented by a cozy bar area that enhances the
+  overall vibe for those seeking sushi restaurants nearby. With accessibility
+  options like wheelchair-friendly parking and entrances, it's designed to
+  accommodate all guests comfortably, making it a convenient choice for families
+  or groups. Operating from late morning into the evening most days, this spot
+  stands out for its moderate pricing and high-quality offerings, ideal for
+  anyone searching for top-rated sushi close to home.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Folks who visit this sushi spot often highlight
+  the consistently fresh flavors and generous portions that make meals feel
+  worthwhile, helping it earn a strong reputation among local diners. Many
+  appreciate the laid-back atmosphere and quick service, which add to the
+  enjoyable experience without any major complaints. While some mention the wait
+  times during peak hours, the overall consensus leans positive, with praise for
+  the variety of options that cater to different tastes. It's clear that the
+  quality of the dishes keeps people coming back, offering a solid pick for
+  anyone craving reliable Japanese places near me. Overall, the feedback paints
+  a picture of a go-to destination that delivers good value and satisfying
+  vibes.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +310,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Wasabi Japanese SteakHouse"
+title: Wasabi Japanese SteakHouse
 permalink: /new-york/miller-place/wasabi-japanese-steakhouse.html
 stateAbbr: NY
 stateName: New York
 cityName: Miller Place
 seo:
-  name: "Wasabi Japanese SteakHouse"
-  type: Restaurant
+  type: restaurant
   links: http://www.wasabimillerplace.com/
-description: "Light-filled, modern chain branch serving up bento boxes, sushi and hot Japanese dishes. Wasabi Japanese SteakHouse serves delicious sushi in Miller Place, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJYWlc0BVC6IkRGfzvVOzQDvE
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 0
 website: http://www.wasabimillerplace.com/
+description: >-
+  Explore Wasabi Japanese SteakHouse in Miller Place, NY$$$Wasabi Japanese
+  SteakHouse in Miller Place, NY, stands out as a contemporary dining spot
+  offering a blend of fresh sushi and sizzling hibachi favorites that appeal to
+  those seeking authentic Japanese cuisine nearby. The restaurant features a
+  bright, welcoming atmosphere with modern decor that enhances the overall
+  experience, making it ideal for casual meals or group outings. Diners can
+  enjoy a variety of options like bento boxes and hot dishes, all prepared with
+  attention to quality and flavor that keeps locals coming back. Accessibility
+  is a key highlight, with wheelchair-friendly features and family-friendly
+  amenities ensuring everyone feels included. Whether you're looking for
+  top-rated sushi restaurants in the area, this spot delivers a satisfying mix
+  of taste and convenience for an enjoyable meal.
+generative_summary: >-
+  Explore Wasabi Japanese SteakHouse in Miller Place, NY$$$Wasabi Japanese
+  SteakHouse in Miller Place, NY, stands out as a contemporary dining spot
+  offering a blend of fresh sushi and sizzling hibachi favorites that appeal to
+  those seeking authentic Japanese cuisine nearby. The restaurant features a
+  bright, welcoming atmosphere with modern decor that enhances the overall
+  experience, making it ideal for casual meals or group outings. Diners can
+  enjoy a variety of options like bento boxes and hot dishes, all prepared with
+  attention to quality and flavor that keeps locals coming back. Accessibility
+  is a key highlight, with wheelchair-friendly features and family-friendly
+  amenities ensuring everyone feels included. Whether you're looking for
+  top-rated sushi restaurants in the area, this spot delivers a satisfying mix
+  of taste and convenience for an enjoyable meal.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJYWlc0BVC6IkRGfzvVOzQDvE/reviews/ChZDSUhNMG9nS0VJQ0FnTURRcDUya1ZREAE
@@ -442,6 +467,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNnaHVhNl9RRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNnaHVhNl9RRRAB!2m1!1s0x89e84215d05c6961:0xf10ed0ec54effc19
+review_summary: >-
+  What Folks Are Buzzing About$$$Visitors often rave about the flavorful sushi
+  and hibachi dishes at this spot, noting how consistently delicious and
+  well-prepared the meals are, especially for takeout or dine-in. Many
+  appreciate the friendly vibe and attentive service that make every visit feel
+  welcoming, with highlights on the chefs' engaging style and accommodating
+  options for different diets. While most experiences are positive, a few
+  mentions of occasional waits during busy times suggest it's best to plan ahead
+  for peak evenings. Overall, the consensus leans toward it being a reliable
+  choice for fresh Japanese fare, encouraging repeat trips for anyone hunting
+  for great sushi close to home. If you're exploring sushi places near you, this
+  location earns high marks for its tasty offerings and solid atmosphere, making
+  it worth a try.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -474,8 +513,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Light-filled, modern chain branch serving up bento boxes, sushi and hot
   Japanese dishes.
 

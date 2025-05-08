@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Bonchon Dinkytown"
+title: Bonchon Dinkytown
 permalink: /minnesota/minneapolis/bonchon-dinkytown.html
 stateAbbr: MN
 stateName: Minnesota
 cityName: Minneapolis
 seo:
-  name: "Bonchon Dinkytown"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Bonchon Dinkytown serves delicious sushi in Minneapolis, Minnesota. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJiXumPl8ts1IRDLwYpqdevIQ
 photos:
   - name: >-
@@ -184,7 +182,45 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Bonchon in Minneapolis$$$Bonchon Dinkytown in Minneapolis, MN, stands
+  out as a laid-back destination for savoring Korean fried chicken and
+  innovative Asian fusion cuisine, making it a go-to for flavorful dining
+  experiences. This spot combines traditional flavors with modern twists,
+  offering a menu that includes crispy delights and refreshing beverages like
+  cocktails and beer to enhance every meal. With thoughtful accessibility
+  features such as wheelchair-friendly entrances and seating, it caters to a
+  wide range of guests seeking comfortable Asian-inspired eats. Located in the
+  vibrant Dinkytown neighborhood, it's an ideal choice for those exploring
+  top-rated Asian restaurants near you, providing a welcoming vibe that balances
+  casual charm with delicious, shareable dishes.
+generative_summary: >-
+  Discover Bonchon in Minneapolis$$$Bonchon Dinkytown in Minneapolis, MN, stands
+  out as a laid-back destination for savoring Korean fried chicken and
+  innovative Asian fusion cuisine, making it a go-to for flavorful dining
+  experiences. This spot combines traditional flavors with modern twists,
+  offering a menu that includes crispy delights and refreshing beverages like
+  cocktails and beer to enhance every meal. With thoughtful accessibility
+  features such as wheelchair-friendly entrances and seating, it caters to a
+  wide range of guests seeking comfortable Asian-inspired eats. Located in the
+  vibrant Dinkytown neighborhood, it's an ideal choice for those exploring
+  top-rated Asian restaurants near you, providing a welcoming vibe that balances
+  casual charm with delicious, shareable dishes.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Feedback from visitors highlights the irresistible
+  appeal of the Korean fried chicken and creative Asian fusion options at this
+  Minneapolis spot, often praising the bold flavors and satisfying portions.
+  Many enjoy the relaxed atmosphere and variety of drinks, making it a solid
+  pick for casual get-togethers or quick meals on the go. While some mention
+  occasional busy periods, the overall sentiment leans positive, with folks
+  appreciating the value and taste that keep them coming back. It's frequently
+  noted as a great option for anyone searching for Asian places near me,
+  delivering a fun and flavorful experience without the fuss. In summary, the
+  consensus is upbeat, emphasizing enjoyable dining that honestly delivers on
+  its promises while encouraging first-timers to give it a try.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +246,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

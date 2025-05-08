@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushiya Hoja"
+title: Sushiya Hoja
 permalink: /iowa/iowa-city/sushiya-hoja.html
 stateAbbr: IA
 stateName: Iowa
 cityName: Iowa City
 seo:
-  name: "Sushiya Hoja"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushiya Hoja serves delicious sushi in Iowa City, Iowa. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ_fpWKqZB5IcRAZ32Casw_NQ
 photos:
   - name: >-
@@ -170,8 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x87e441a62a56fafd:0xd4fc30ab09f69d01!10e5
 primary_type: Asian Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: false
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 19
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 19
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 19
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 19
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 19
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 7:00 PM'
+    - 'Tuesday: 11:00 AM – 7:00 PM'
+    - 'Wednesday: 11:00 AM – 7:00 PM'
+    - 'Thursday: 11:00 AM – 7:00 PM'
+    - 'Friday: 11:00 AM – 7:00 PM'
+    - 'Saturday: Closed'
+    - 'Sunday: Closed'
+  nextOpenTime: '2025-05-05T16:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +226,54 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
+phone: (319) 530-0319
 price_level: null
-price_range: null
-rating: null
-rating_count: 0
+price_range: $10 &ndash; $20
+rating: '4.7'
+rating_count: 55
 website: null
+description: >-
+  Experience Sushiya Hoja in Iowa City, IA$$$Sushiya Hoja in Iowa City, IA,
+  stands out as a welcoming Asian restaurant offering fresh and flavorful sushi
+  options that appeal to local diners seeking authentic Japanese-inspired
+  cuisine. The spot features a cozy atmosphere with thoughtful accessibility
+  options like wheelchair-friendly entrances and seating, making it easy for
+  everyone to enjoy a meal. Patrons can savor a variety of expertly prepared
+  dishes, from classic rolls to creative specials, all crafted with high-quality
+  ingredients that highlight the art of sushi making. Operating from Monday
+  through Friday, it's a convenient choice for those exploring sushi restaurants
+  in the area, with a focus on simple yet satisfying dining experiences. Whether
+  you're in the mood for a quick bite or a relaxed outing, this location
+  combines affordability and taste to create memorable visits.
+generative_summary: >-
+  Experience Sushiya Hoja in Iowa City, IA$$$Sushiya Hoja in Iowa City, IA,
+  stands out as a welcoming Asian restaurant offering fresh and flavorful sushi
+  options that appeal to local diners seeking authentic Japanese-inspired
+  cuisine. The spot features a cozy atmosphere with thoughtful accessibility
+  options like wheelchair-friendly entrances and seating, making it easy for
+  everyone to enjoy a meal. Patrons can savor a variety of expertly prepared
+  dishes, from classic rolls to creative specials, all crafted with high-quality
+  ingredients that highlight the art of sushi making. Operating from Monday
+  through Friday, it's a convenient choice for those exploring sushi restaurants
+  in the area, with a focus on simple yet satisfying dining experiences. Whether
+  you're in the mood for a quick bite or a relaxed outing, this location
+  combines affordability and taste to create memorable visits.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Visitor Feedback Highlights$$$Visitors to this sushi spot often praise the
+  consistently fresh flavors and generous portions that make it a go-to for
+  casual meals, earning it high marks for overall satisfaction. Many appreciate
+  the attentive service and welcoming vibe, which add to the enjoyable
+  experience without any major drawbacks mentioned. Based on the strong ratings,
+  it's clear that the quality of the dishes keeps people coming back for more,
+  with comments highlighting the value for the price as a standout feature.
+  While some note it's best for straightforward dining rather than elaborate
+  events, the overall consensus leans positive, making it a solid pick for
+  anyone searching for reliable sushi places nearby. All in all, the feedback
+  suggests it's a dependable option for tasty, accessible eats that satisfy
+  sushi enthusiasts looking for a local favorite.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +299,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

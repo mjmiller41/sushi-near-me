@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Fuji Sushi & Sake Bar"
+title: Fuji Sushi & Sake Bar
 permalink: /south-dakota/rapid-city/fuji-sushi-sake-bar.html
 stateAbbr: SD
 stateName: South Dakota
 cityName: Rapid City
 seo:
-  name: "Fuji Sushi & Sake Bar"
-  type: Restaurant
+  type: restaurant
   links: http://fujisushisakebar.com/
-description: "A menu specializing in an array of sushi & sake with Japanese interior details & bar seating. Fuji Sushi & Sake Bar serves delicious sushi in Rapid City, South Dakota. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJmTk8UhpdfYcRGhLlMQMpXSM
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 0
 website: http://fujisushisakebar.com/
+description: >-
+  Discover Fuji Sushi & Sake Bar in Rapid City, SD$$$Fuji Sushi & Sake Bar in
+  Rapid City, SD, offers a cozy and welcoming atmosphere perfect for enjoying
+  fresh Japanese dishes, including a variety of sushi options that highlight
+  authentic flavors and creative presentations. This family-friendly spot
+  features a menu with bento boxes, appetizers, and a full bar selection, all
+  set against subtle Japanese-inspired decor that enhances the dining
+  experience. Accessibility is a key highlight, with wheelchair-friendly
+  entrances, seating, and restrooms, making it easy for everyone to savor the
+  meals. Additionally, convenient parking and options for dine-in or takeout add
+  to its appeal for those searching for reliable sushi places near me. Whether
+  you're in the mood for top-rated sushi or a relaxed meal, this eatery delivers
+  a balanced blend of quality ingredients and thoughtful service.
+generative_summary: >-
+  Discover Fuji Sushi & Sake Bar in Rapid City, SD$$$Fuji Sushi & Sake Bar in
+  Rapid City, SD, offers a cozy and welcoming atmosphere perfect for enjoying
+  fresh Japanese dishes, including a variety of sushi options that highlight
+  authentic flavors and creative presentations. This family-friendly spot
+  features a menu with bento boxes, appetizers, and a full bar selection, all
+  set against subtle Japanese-inspired decor that enhances the dining
+  experience. Accessibility is a key highlight, with wheelchair-friendly
+  entrances, seating, and restrooms, making it easy for everyone to savor the
+  meals. Additionally, convenient parking and options for dine-in or takeout add
+  to its appeal for those searching for reliable sushi places near me. Whether
+  you're in the mood for top-rated sushi or a relaxed meal, this eatery delivers
+  a balanced blend of quality ingredients and thoughtful service.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJmTk8UhpdfYcRGhLlMQMpXSM/reviews/ChdDSUhNMG9nS0VJQ0FnSUMzME1qa3VBRRAB
@@ -376,6 +401,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUREenZyR3FnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUREenZyR3FnRRAB!2m1!1s0x877d5d1a523c3999:0x235d290331e5121a
+review_summary: >-
+  What Visitors Are Saying About the Experience$$$Folks consistently praise the
+  freshness and balance of the sushi rolls and appetizers, making it a go-to
+  choice for anyone craving flavorful Japanese cuisine in a comfortable setting.
+  Many highlight the variety of options like tasty gyoza and creative specials,
+  along with solid vegetarian choices that keep things inclusive and satisfying.
+  While some mention that prices lean a bit higher, the overall value shines
+  through in the delicious food and friendly, efficient service that keeps
+  diners coming back. The cozy vibe and quick service make it ideal for groups
+  or families looking for a laid-back spot to enjoy their meal. All in all, it's
+  clear that this sushi restaurant delivers a positive and memorable experience,
+  encouraging repeat visits for those exploring the best sushi near me.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -408,8 +446,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   A menu specializing in an array of sushi & sake with Japanese interior details
   & bar seating.
 

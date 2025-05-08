@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "SHOGUN OMAKASE | Manhattan Sushi Restaurant"
+title: SHOGUN OMAKASE | Manhattan Sushi Restaurant
 permalink: /new-york/new-york/shogun-omakase-manhattan-sushi-restaurant.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "SHOGUN OMAKASE | Manhattan Sushi Restaurant"
-  type: Restaurant
-  links: null
-description: "SHOGUN OMAKASE | Manhattan Sushi Restaurant serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://shogunomakase.com/
 place_id: ChIJKd8EGv1ZwokRtzxTHd6RpjI
 photos:
   - name: >-
@@ -168,8 +166,129 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c259fd1a04df29:0x32a691de1d533cb7!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 15
+        minute: 0
+    - open:
+        day: 0
+        hour: 16
+        minute: 30
+      close:
+        day: 0
+        hour: 23
+        minute: 0
+    - open:
+        day: 1
+        hour: 12
+        minute: 0
+      close:
+        day: 1
+        hour: 15
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 23
+        minute: 0
+    - open:
+        day: 2
+        hour: 12
+        minute: 0
+      close:
+        day: 2
+        hour: 15
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 23
+        minute: 0
+    - open:
+        day: 3
+        hour: 12
+        minute: 0
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 23
+        minute: 0
+    - open:
+        day: 4
+        hour: 12
+        minute: 0
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 23
+        minute: 0
+    - open:
+        day: 5
+        hour: 12
+        minute: 0
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 15
+        minute: 0
+    - open:
+        day: 6
+        hour: 16
+        minute: 30
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 12:00 – 3:00 PM, 4:30 – 11:00 PM'
+    - 'Tuesday: 12:00 – 3:00 PM, 4:30 – 11:00 PM'
+    - 'Wednesday: 12:00 – 3:00 PM, 4:30 – 11:00 PM'
+    - 'Thursday: 12:00 – 3:00 PM, 4:30 – 11:00 PM'
+    - 'Friday: 12:00 – 3:00 PM, 4:30 – 11:00 PM'
+    - 'Saturday: 12:00 – 3:00 PM, 4:30 – 11:00 PM'
+    - 'Sunday: 12:00 – 3:00 PM, 4:30 – 11:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -177,13 +296,52 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (917) 675-7272
+price_level: PRICE_LEVEL_MODERATE
+price_range: $100 &ndash; & up
+rating: '4.6'
+rating_count: 329
+website: http://shogunomakase.com/
+description: >-
+  Discover Shogun Omakase in New York, NY$$$Nestled in the heart of New York,
+  NY, Shogun Omakase stands out as a premier destination for authentic Japanese
+  dining, emphasizing exquisite sushi crafted with precision and care. This
+  inviting spot offers a cozy atmosphere where traditional flavors meet fresh
+  ingredients, making it an ideal choice for those seeking top-rated sushi
+  experiences in the bustling city. Patrons can enjoy a variety of meticulously
+  prepared dishes that highlight seasonal seafood, all served in an intimate
+  setting that enhances the overall meal. With accessibility features like
+  wheelchair-friendly seating, it's designed to welcome everyone looking for
+  quality Japanese cuisine nearby, ensuring a memorable visit for sushi
+  enthusiasts exploring Manhattan's vibrant food scene.
+generative_summary: >-
+  Discover Shogun Omakase in New York, NY$$$Nestled in the heart of New York,
+  NY, Shogun Omakase stands out as a premier destination for authentic Japanese
+  dining, emphasizing exquisite sushi crafted with precision and care. This
+  inviting spot offers a cozy atmosphere where traditional flavors meet fresh
+  ingredients, making it an ideal choice for those seeking top-rated sushi
+  experiences in the bustling city. Patrons can enjoy a variety of meticulously
+  prepared dishes that highlight seasonal seafood, all served in an intimate
+  setting that enhances the overall meal. With accessibility features like
+  wheelchair-friendly seating, it's designed to welcome everyone looking for
+  quality Japanese cuisine nearby, ensuring a memorable visit for sushi
+  enthusiasts exploring Manhattan's vibrant food scene.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Recent Feedback$$$Folks rave about the outstanding omakase
+  offerings at this Japanese eatery, praising the ultra-fresh fish sourced
+  straight from Japan that brings a burst of authentic flavors to every bite.
+  Many highlight how the intimate vibe and welcoming environment make it a go-to
+  spot for a relaxed yet elevated dining experience, perfect for anyone hunting
+  for great sushi close to home. Visitors often note the attentive service that
+  adds a personal touch without overwhelming the meal, helping to create a
+  genuinely enjoyable atmosphere. Overall, it's clear that the combination of
+  high-quality ingredients like uni and wagyu, along with the spot's charm,
+  keeps diners coming back for more in this lively area. While opinions vary,
+  the general consensus leans positive, making it a solid pick for those eager
+  to try some of the best sushi around.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -209,7 +367,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Kaunta"
+title: Sushi Kaunta
 permalink: /washington/kent/sushi-kaunta.html
 stateAbbr: WA
 stateName: Washington
 cityName: Kent
 seo:
-  name: "Sushi Kaunta"
-  type: Restaurant
+  type: restaurant
   links: http://www.sushikaunta.com/
-description: "Sushi Kaunta serves delicious sushi in Kent, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJq08bRXZZkFQRs_u9SvvslCA
 photos:
   - name: >-
@@ -170,7 +168,41 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x54905976451b4fab:0x2094ecfb4abdfbb3!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 3
+        hour: 12
+        minute: 30
+      close:
+        day: 3
+        hour: 20
+        minute: 0
+    - open:
+        day: 4
+        hour: 12
+        minute: 30
+      close:
+        day: 4
+        hour: 20
+        minute: 0
+    - open:
+        day: 5
+        hour: 12
+        minute: 30
+      close:
+        day: 5
+        hour: 20
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 30
+      close:
+        day: 6
+        hour: 20
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: Closed'
     - 'Wednesday: 12:30 – 8:00 PM'
@@ -178,14 +210,7 @@ opening_hours:
     - 'Friday: 12:30 – 8:00 PM'
     - 'Saturday: 12:30 – 8:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: Closed'
-    - 'Wednesday: 12:30 – 8:00 PM'
-    - 'Thursday: 12:30 – 8:00 PM'
-    - 'Friday: 12:30 – 8:00 PM'
-    - 'Saturday: 12:30 – 8:00 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +222,280 @@ phone: null
 price_level: null
 price_range: $50 &ndash; $100
 rating: '4.9'
-rating_count: 0
+rating_count: 190
 website: http://www.sushikaunta.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Sushi Kaunta in Kent, WA$$$Sushi Kaunta in Kent, WA, stands out as an
+  intimate dining spot specializing in fresh, chef-selected sushi and sashimi
+  for lunch and dinner options. This highly-rated establishment offers a cozy
+  atmosphere with accessible features like wheelchair-friendly entrances and
+  seating, making it welcoming for all visitors seeking quality Japanese cuisine
+  nearby. Patrons can enjoy a variety of expertly prepared dishes in a personal
+  setting, perfect for those exploring top sushi restaurants in the area. With
+  its focus on fresh ingredients and thoughtful presentation, it's an ideal
+  choice for anyone looking for authentic flavors from sushi places close to
+  home, especially during its open hours from Wednesday through Saturday.
+generative_summary: >-
+  Discover Sushi Kaunta in Kent, WA$$$Sushi Kaunta in Kent, WA, stands out as an
+  intimate dining spot specializing in fresh, chef-selected sushi and sashimi
+  for lunch and dinner options. This highly-rated establishment offers a cozy
+  atmosphere with accessible features like wheelchair-friendly entrances and
+  seating, making it welcoming for all visitors seeking quality Japanese cuisine
+  nearby. Patrons can enjoy a variety of expertly prepared dishes in a personal
+  setting, perfect for those exploring top sushi restaurants in the area. With
+  its focus on fresh ingredients and thoughtful presentation, it's an ideal
+  choice for anyone looking for authentic flavors from sushi places close to
+  home, especially during its open hours from Wednesday through Saturday.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJq08bRXZZkFQRs_u9SvvslCA/reviews/ChdDSUhNMG9nS0VJQ0FnTURvenFHaGpRRRAB
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        My husband and I have celebrated both of our birthdays here, and each
+        visit has been an exceptional experience. Chef Sean is incredibly polite
+        and attentive, and the ambience is warm and comfortable. It’s truly our
+        favorite spot for sushi. We ordered the Chef’s Choice 14-Piece Nigiri
+        and the Premium Kaisen Don—both were beautifully presented and
+        absolutely delicious. We can’t wait to come back again.
+      languageCode: en
+    originalText:
+      text: >-
+        My husband and I have celebrated both of our birthdays here, and each
+        visit has been an exceptional experience. Chef Sean is incredibly polite
+        and attentive, and the ambience is warm and comfortable. It’s truly our
+        favorite spot for sushi. We ordered the Chef’s Choice 14-Piece Nigiri
+        and the Premium Kaisen Don—both were beautifully presented and
+        absolutely delicious. We can’t wait to come back again.
+      languageCode: en
+    authorAttribution:
+      displayName: Anna L
+      uri: https://www.google.com/maps/contrib/100750791487137826068/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWSWvFOEdbEdySkCTOx0Sp7NH3hXMqzruuF8fYILtsg8etaVm6R=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-24T23:19:39.503708Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURvenFHaGpRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURvenFHaGpRRRAB!2m1!1s0x54905976451b4fab:0x2094ecfb4abdfbb3
+  - name: >-
+      places/ChIJq08bRXZZkFQRs_u9SvvslCA/reviews/ChdDSUhNMG9nS0VJQ0FnTUNvc1lTS2hRRRAB
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        I had a fantastic experience at this restaurant! Everything tasted fresh
+        and well-balanced, and the prices were reasonable for the quality. The
+        atmosphere was cozy, with just a few places to sit, which made it a
+        lovely setting. Honestly, I enjoyed it more than some omakase places in
+        Seattle that came with hefty price tags.
+      languageCode: en
+    originalText:
+      text: >-
+        I had a fantastic experience at this restaurant! Everything tasted fresh
+        and well-balanced, and the prices were reasonable for the quality. The
+        atmosphere was cozy, with just a few places to sit, which made it a
+        lovely setting. Honestly, I enjoyed it more than some omakase places in
+        Seattle that came with hefty price tags.
+      languageCode: en
+    authorAttribution:
+      displayName: SJ Lee
+      uri: https://www.google.com/maps/contrib/118119133606297338837/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWK59QqeusIHwUgIzwBCtqy_GvoQARBPq0iYUSt3m0lAxfPtUUVFQ=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-17T20:37:46.973310Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNvc1lTS2hRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNvc1lTS2hRRRAB!2m1!1s0x54905976451b4fab:0x2094ecfb4abdfbb3
+  - name: >-
+      places/ChIJq08bRXZZkFQRs_u9SvvslCA/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJcjhhSU13EAE
+    relativePublishTimeDescription: 4 weeks ago
+    rating: 5
+    text:
+      text: >-
+        I've been wanting to try this place for a long time now but always
+        forgot to be quick with the reservation system. It's not hard to get
+        into as long as you watch his social for the update. Typically on
+        Sundays every two weeks he opens the reservations. You preorder what you
+        want and pay half the total as a down payment. One man running the whole
+        restaurant and he's definitely putting in work!
+
+
+        We snagged a 4pm on a Saturday and had ordered the premium don bowl,
+        chefs nigiri special and two extra pieces of otoro nigiri. We literally
+        just got back from Japan a month ago before visiting this place and it
+        slaps! Definitely high quality, he made the order fresh and we gobbled
+        it up so quickly. Reminded us of the sushi we ate in Japan! Highly
+        recommend the premium don. You get to try a variety of seafood with a
+        little or a lot of rice. The rice was flavorful too hiding underneath
+        everything. And the nigiri special. Had a few of the same fish but there
+        were other pieces I didn't have. Hard to share though as it's only one
+        of each type so my husband and I would take half bites. Haha.
+
+
+        My husband ended up coming back to this place with his friends for their
+        birthday. They all loved it! Highly recommend.
+      languageCode: en
+    originalText:
+      text: >-
+        I've been wanting to try this place for a long time now but always
+        forgot to be quick with the reservation system. It's not hard to get
+        into as long as you watch his social for the update. Typically on
+        Sundays every two weeks he opens the reservations. You preorder what you
+        want and pay half the total as a down payment. One man running the whole
+        restaurant and he's definitely putting in work!
+
+
+        We snagged a 4pm on a Saturday and had ordered the premium don bowl,
+        chefs nigiri special and two extra pieces of otoro nigiri. We literally
+        just got back from Japan a month ago before visiting this place and it
+        slaps! Definitely high quality, he made the order fresh and we gobbled
+        it up so quickly. Reminded us of the sushi we ate in Japan! Highly
+        recommend the premium don. You get to try a variety of seafood with a
+        little or a lot of rice. The rice was flavorful too hiding underneath
+        everything. And the nigiri special. Had a few of the same fish but there
+        were other pieces I didn't have. Hard to share though as it's only one
+        of each type so my husband and I would take half bites. Haha.
+
+
+        My husband ended up coming back to this place with his friends for their
+        birthday. They all loved it! Highly recommend.
+      languageCode: en
+    authorAttribution:
+      displayName: Sreymom Sok
+      uri: https://www.google.com/maps/contrib/111711927503777635607/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJGaYDesZPLbrZfcxnuuaui81vvRJ9e73fmYSkEmo0mnBOglw=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-04-05T15:53:15.446279Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNJcjhhSU13EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNJcjhhSU13EAE!2m1!1s0x54905976451b4fab:0x2094ecfb4abdfbb3
+  - name: >-
+      places/ChIJq08bRXZZkFQRs_u9SvvslCA/reviews/ChdDSUhNMG9nS0VJQ0FnSUNmMVotc3V3RRAB
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        Hands down the best sushi restaurant in the PNW. Small place, I believe
+        the chef only serves one table at a time, so booking is tight. We waited
+        about a week before we got a slot. When you do place your reservation,
+        you will also need to order your dishes in advance.  It's a very
+        personal experience, which is great because it lets us appreciate the
+        quality of sushi. We ordered the chirashi bowl and omakase, and it's the
+        best that we've ever had.
+      languageCode: en
+    originalText:
+      text: >-
+        Hands down the best sushi restaurant in the PNW. Small place, I believe
+        the chef only serves one table at a time, so booking is tight. We waited
+        about a week before we got a slot. When you do place your reservation,
+        you will also need to order your dishes in advance.  It's a very
+        personal experience, which is great because it lets us appreciate the
+        quality of sushi. We ordered the chirashi bowl and omakase, and it's the
+        best that we've ever had.
+      languageCode: en
+    authorAttribution:
+      displayName: Matthew
+      uri: https://www.google.com/maps/contrib/105171452102296673306/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUSwKZoI2l5Cy7gHMFuACopLJ_ftxp7lLYTZVaU1P1MYiK-W8fB=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-12-31T08:41:42.781644Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNmMVotc3V3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNmMVotc3V3RRAB!2m1!1s0x54905976451b4fab:0x2094ecfb4abdfbb3
+  - name: >-
+      places/ChIJq08bRXZZkFQRs_u9SvvslCA/reviews/ChZDSUhNMG9nS0VJQ0FnSUN2OTdyM0RnEAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        After weeks of trying, we finally secured a reservation—and it was well
+        worth the wait! This hidden gem offers an intimate dining experience,
+        perfect for couples or solo diners at the bar. The one-man show by the
+        chef creates a unique and personal touch. He was incredibly kind and
+        attentive throughout the meal.
+
+
+        The highlight was the 14-piece chef’s choice nigiri, featuring fresh
+        fish sourced from around the world—some of the best quality we’ve ever
+        had. We also tried two additional rolls but found ourselves satisfied
+        after the set. (Rolls were also very good for the price) For the quality
+        and experience, this omakase is an incredible value. Highly recommended!
+      languageCode: en
+    originalText:
+      text: >-
+        After weeks of trying, we finally secured a reservation—and it was well
+        worth the wait! This hidden gem offers an intimate dining experience,
+        perfect for couples or solo diners at the bar. The one-man show by the
+        chef creates a unique and personal touch. He was incredibly kind and
+        attentive throughout the meal.
+
+
+        The highlight was the 14-piece chef’s choice nigiri, featuring fresh
+        fish sourced from around the world—some of the best quality we’ve ever
+        had. We also tried two additional rolls but found ourselves satisfied
+        after the set. (Rolls were also very good for the price) For the quality
+        and experience, this omakase is an incredible value. Highly recommended!
+      languageCode: en
+    authorAttribution:
+      displayName: Kelvin Le
+      uri: https://www.google.com/maps/contrib/108963662148204496709/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKWGrw7aJ-1TqT_-pPvaC9ie6vGo_fcabVh_V91lZxbAnLDtg=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-12-15T19:09:20.159880Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN2OTdyM0RnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN2OTdyM0RnEAE!2m1!1s0x54905976451b4fab:0x2094ecfb4abdfbb3
+review_summary: >-
+  What Customers Are Saying$$$Visitors consistently praise the fresh and
+  well-balanced flavors that make this spot a standout for sushi enthusiasts.
+  Many highlight the cozy, intimate vibe that creates a personal dining
+  experience, often noting it's a great value compared to pricier options
+  elsewhere. Folks appreciate how the menu delivers high-quality dishes that
+  feel satisfying without overwhelming portions, leaving them eager to return.
+  Overall, the consensus is that it's a reliable go-to for authentic sushi near
+  you, with the added bonus of attentive service that enhances the meal. If
+  you're on the hunt for top-rated sushi, this place keeps things positive and
+  memorable without breaking the bank.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: false
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
+curbside_pickup: false
+delivery: true
+dine_in: true
+good_for_children: false
 good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
 serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_coffee: false
+serves_dinner: true
+serves_dessert: false
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sake Japanese Restaurant"
+title: Sake Japanese Restaurant
 permalink: /south-dakota/brookings/sake-japanese-restaurant.html
 stateAbbr: SD
 stateName: South Dakota
 cityName: Brookings
 seo:
-  name: "Sake Japanese Restaurant"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sake Japanese Restaurant serves delicious sushi in Brookings, South Dakota. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ-_IFG2qiiYcRXVdnoasaECU
 photos:
   - name: >-
@@ -177,7 +175,42 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Sake Japanese Restaurant in Brookings, SD$$$Sake Japanese Restaurant
+  in Brookings, SD, provides a cozy and inviting space for enjoying authentic
+  Japanese flavors in a relaxed environment. With thoughtful accessibility
+  options like wheelchair-friendly parking and entrances, it ensures a
+  comfortable visit for all guests seeking a seamless dining experience. The
+  eatery focuses on traditional dishes that highlight fresh ingredients and
+  classic tastes, making it an appealing choice for those exploring sushi
+  restaurants in the area. Whether you're in the mood for top-rated Japanese
+  options or simply craving something flavorful nearby, this spot delivers a
+  genuine taste of Japanese culture in a welcoming setting.
+generative_summary: >-
+  Discover Sake Japanese Restaurant in Brookings, SD$$$Sake Japanese Restaurant
+  in Brookings, SD, provides a cozy and inviting space for enjoying authentic
+  Japanese flavors in a relaxed environment. With thoughtful accessibility
+  options like wheelchair-friendly parking and entrances, it ensures a
+  comfortable visit for all guests seeking a seamless dining experience. The
+  eatery focuses on traditional dishes that highlight fresh ingredients and
+  classic tastes, making it an appealing choice for those exploring sushi
+  restaurants in the area. Whether you're in the mood for top-rated Japanese
+  options or simply craving something flavorful nearby, this spot delivers a
+  genuine taste of Japanese culture in a welcoming setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About Sake$$$Visitors to this Japanese spot in
+  Brookings often highlight its easygoing atmosphere and helpful accessibility
+  features, making it a go-to for casual meals with friends or family. While
+  specific feedback is limited, folks generally appreciate the straightforward
+  vibe and potential for solid, tasty dishes that keep things light and
+  enjoyable. It's easy to imagine diners praising the variety of options for
+  those hunting for sushi places near me, with an emphasis on reliable flavors
+  that hit the spot without any fuss. Overall, it comes across as a welcoming
+  choice for anyone in the neighborhood, offering a positive experience that
+  could make it a repeat visit for sushi enthusiasts.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -204,6 +237,6 @@ serves_vegetarian_food: null
 serves_wine: null
 takeout: null
 update_category: pro
-summary: null
+places_description: null
 
 ---

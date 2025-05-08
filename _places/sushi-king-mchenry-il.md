@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi King"
+title: Sushi King
 permalink: /illinois/mchenry/sushi-king.html
 stateAbbr: IL
 stateName: Illinois
 cityName: McHenry
 seo:
-  name: "Sushi King"
-  type: Restaurant
-  links: null
-description: "Sushi King serves delicious sushi in McHenry, Illinois. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.sushikingmchenry.com/
 place_id: ChIJryKuEepwD4gRKxMj3ftiWBo
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x880f70ea11ae22af:0x1a5862fbdd23132b!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:30 PM'
+    - 'Tuesday: 11:00 AM – 9:30 PM'
+    - 'Wednesday: 11:00 AM – 9:30 PM'
+    - 'Thursday: 11:00 AM – 9:30 PM'
+    - 'Friday: 11:00 AM – 10:30 PM'
+    - 'Saturday: 11:00 AM – 10:30 PM'
+    - 'Sunday: 12:00 – 9:30 PM'
+  nextCloseTime: '2025-05-04T03:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,48 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (815) 363-9888
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.4'
+rating_count: 639
+website: https://www.sushikingmchenry.com/
+description: >-
+  Discover Sushi King in McHenry, IL$$$Sushi King in McHenry, IL, stands out as
+  a welcoming spot for enjoying authentic Japanese flavors and fresh seafood
+  options. This relaxed venue boasts a wide array of traditional dishes, making
+  it an ideal choice for those seeking sushi restaurants with variety and value.
+  With features like an all-you-can-eat menu, it caters to both casual diners
+  and groups looking for a satisfying meal without breaking the bank. The
+  restaurant's accessible design ensures a comfortable experience for everyone,
+  enhancing its appeal for everyday visits. Whether you're exploring local
+  Japanese places near you, Sushi King delivers a blend of quality and
+  convenience that keeps patrons coming back for more.
+generative_summary: >-
+  Discover Sushi King in McHenry, IL$$$Sushi King in McHenry, IL, stands out as
+  a welcoming spot for enjoying authentic Japanese flavors and fresh seafood
+  options. This relaxed venue boasts a wide array of traditional dishes, making
+  it an ideal choice for those seeking sushi restaurants with variety and value.
+  With features like an all-you-can-eat menu, it caters to both casual diners
+  and groups looking for a satisfying meal without breaking the bank. The
+  restaurant's accessible design ensures a comfortable experience for everyone,
+  enhancing its appeal for everyday visits. Whether you're exploring local
+  Japanese places near you, Sushi King delivers a blend of quality and
+  convenience that keeps patrons coming back for more.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback on Sushi King$$$Visitors to this popular sushi spot often
+  praise the consistently fresh and flavorful rolls, highlighting it as a top
+  pick for anyone craving quality Japanese cuisine nearby. Many appreciate the
+  generous portions and reasonable prices, making it a go-to option for both
+  quick lunches and relaxed dinners with friends. While some note that wait
+  times can vary during peak hours, the overall atmosphere and service tend to
+  leave a positive impression. Folks frequently mention the all-you-can-eat deal
+  as a standout feature that offers great bang for your buck. If you're on the
+  hunt for the best sushi near you, this place earns high marks for its reliable
+  taste and welcoming vibe, encouraging repeat visits from satisfied customers.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +309,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Takara Sushi SF"
+title: Takara Sushi SF
 permalink: /california/san-francisco/takara-sushi-sf.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
 seo:
-  name: "Takara Sushi SF"
-  type: Restaurant
+  type: restaurant
   links: https://tekkamakisushi.com/
-description: "Snug sushi bar & Japanese restaurant offering happy hour & lunch specials, takeout & delivery. Takara Sushi SF serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJI3qY6gR-j4ARZ3tFMyvyAK0
 photos:
   - name: >-
@@ -182,6 +180,33 @@ price_range: null
 rating: '4.5'
 rating_count: 0
 website: https://tekkamakisushi.com/
+description: >-
+  Discover Takara Sushi in San Francisco, CA$$$Takara Sushi SF in San Francisco,
+  CA, stands out as a casual neighborhood sushi spot that combines fresh,
+  creative rolls with authentic Japanese flavors, making it a go-to choice for
+  locals and visitors seeking quality dining. This intimate eatery offers a cozy
+  atmosphere perfect for enjoying sashimi and sake, enhanced by thoughtful
+  touches like wheelchair-accessible entrances and a variety of lunch specials
+  that cater to different tastes. With its focus on high-quality ingredients and
+  moderate pricing, it provides an inviting escape for those exploring sushi
+  restaurants in the area. Happy hour options add to the appeal, ensuring a
+  relaxed vibe for casual meals or quick bites. Whether you're in the mood for
+  innovative dishes or classic favorites, this spot delivers a memorable
+  experience in the heart of the city.
+generative_summary: >-
+  Discover Takara Sushi in San Francisco, CA$$$Takara Sushi SF in San Francisco,
+  CA, stands out as a casual neighborhood sushi spot that combines fresh,
+  creative rolls with authentic Japanese flavors, making it a go-to choice for
+  locals and visitors seeking quality dining. This intimate eatery offers a cozy
+  atmosphere perfect for enjoying sashimi and sake, enhanced by thoughtful
+  touches like wheelchair-accessible entrances and a variety of lunch specials
+  that cater to different tastes. With its focus on high-quality ingredients and
+  moderate pricing, it provides an inviting escape for those exploring sushi
+  restaurants in the area. Happy hour options add to the appeal, ensuring a
+  relaxed vibe for casual meals or quick bites. Whether you're in the mood for
+  innovative dishes or classic favorites, this spot delivers a memorable
+  experience in the heart of the city.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJI3qY6gR-j4ARZ3tFMyvyAK0/reviews/ChZDSUhNMG9nS0VJQ0FnSURfLXJMeVhREAE
@@ -373,6 +398,21 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNfdGZiNGpnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNfdGZiNGpnRRAB!2m1!1s0x808f7e04ea987a23:0xad00f22b33457b67
+review_summary: >-
+  What Customers Love About This Sushi Spot$$$Visitors often rave about the
+  delicious sushi rolls and flavorful appetizers that make meals here feel fresh
+  and satisfying, with many highlighting the perfect balance of taste and
+  texture in standout options. Folks appreciate the friendly service and
+  welcoming environment, which keeps the atmosphere cozy without feeling rushed,
+  ideal for a laid-back outing. Reviews frequently note the great value for the
+  quality, especially for those searching for top-rated sushi experiences
+  nearby, making it a reliable pick for groups or solo diners. Overall, the
+  consensus leans positive, with praise for the attentive staff and variety of
+  dishes that cater to different preferences, encouraging repeat visits for
+  anyone craving authentic Japanese cuisine. If you're on the hunt for a solid
+  sushi place in the neighborhood, this one consistently delivers a enjoyable
+  and worthwhile dining adventure.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeStreetParking: true
   valetParking: false
@@ -404,8 +444,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Snug sushi bar & Japanese restaurant offering happy hour & lunch specials,
   takeout & delivery.
 

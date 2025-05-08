@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "[50% OFF ROLLS!] Koisan Sushi Bar and Japanese Cuisine"
+title: '[50% OFF ROLLS!] Koisan Sushi Bar and Japanese Cuisine'
 permalink: /california/orange/50-off-rolls-koisan-sushi-bar-and-japanese-cuisine.html
 stateAbbr: CA
 stateName: California
 cityName: Orange
 seo:
-  name: "[50% OFF ROLLS!] Koisan Sushi Bar and Japanese Cuisine"
-  type: Restaurant
+  type: restaurant
   links: https://www.koisansushibar.com/
-description: "[50% OFF ROLLS!] Koisan Sushi Bar and Japanese Cuisine serves delicious sushi in Orange, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJQ4cq6U_X3IARHdCeExIeZfE
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80dcd74fe92a8743:0xf1651e12139ed01d!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 16
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 16
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 9:30 PM'
     - 'Tuesday: 11:30 AM – 9:30 PM'
     - 'Wednesday: 11:30 AM – 9:30 PM'
@@ -178,28 +234,121 @@ opening_hours:
     - 'Friday: 11:30 AM – 9:30 PM'
     - 'Saturday: 4:00 – 9:30 PM'
     - 'Sunday: 4:00 – 9:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 9:30 PM'
-    - 'Tuesday: 11:30 AM – 9:30 PM'
-    - 'Wednesday: 11:30 AM – 9:30 PM'
-    - 'Thursday: 11:30 AM – 9:30 PM'
-    - 'Friday: 11:30 AM – 9:30 PM'
-    - 'Saturday: 4:00 – 9:30 PM'
-    - 'Sunday: 4:00 – 9:00 PM'
+  nextOpenTime: '2025-05-03T23:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: false
+    periods:
+      - open:
+          day: 0
+          hour: 16
+          minute: 0
+        close:
+          day: 0
+          hour: 21
+          minute: 0
+      - open:
+          day: 1
+          hour: 15
+          minute: 0
+        close:
+          day: 1
+          hour: 21
+          minute: 0
+      - open:
+          day: 2
+          hour: 15
+          minute: 0
+        close:
+          day: 2
+          hour: 21
+          minute: 0
+      - open:
+          day: 3
+          hour: 15
+          minute: 0
+        close:
+          day: 3
+          hour: 21
+          minute: 0
+      - open:
+          day: 4
+          hour: 15
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 0
+      - open:
+          day: 5
+          hour: 15
+          minute: 0
+        close:
+          day: 5
+          hour: 21
+          minute: 0
+      - open:
+          day: 6
+          hour: 16
+          minute: 0
+        close:
+          day: 6
+          hour: 21
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 3:00 – 9:00 PM'
+      - 'Tuesday: 3:00 – 9:00 PM'
+      - 'Wednesday: 3:00 – 9:00 PM'
+      - 'Thursday: 3:00 – 9:00 PM'
+      - 'Friday: 3:00 – 9:00 PM'
+      - 'Saturday: 4:00 – 9:00 PM'
+      - 'Sunday: 4:00 – 9:00 PM'
+    secondaryHoursType: HAPPY_HOUR
+    nextOpenTime: '2025-05-03T23:00:00Z'
 phone: (714) 639-2330
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.3'
-rating_count: 0
+rating_count: 434
 website: https://www.koisansushibar.com/
+description: >-
+  Discover Koisan Sushi Bar in Orange, California$$$Nestled in Orange,
+  California, Koisan Sushi Bar and Japanese Cuisine offers a welcoming spot for
+  enjoying fresh sushi and traditional Japanese dishes. The menu features a
+  variety of sushi rolls and bento boxes, complemented by other flavorful
+  options that create a cozy dining atmosphere perfect for casual meals. With
+  its accessible entrance and seating, the restaurant caters to a wide range of
+  guests, making it easy to savor authentic flavors in a relaxed setting.
+  Operating hours span from late morning to evening on most days, ideal for
+  those seeking quality Japanese cuisine near you. This hidden gem stands out
+  for its moderate pricing and inviting vibe, appealing to anyone exploring the
+  best sushi options in the area.
+generative_summary: >-
+  Discover Koisan Sushi Bar in Orange, California$$$Nestled in Orange,
+  California, Koisan Sushi Bar and Japanese Cuisine offers a welcoming spot for
+  enjoying fresh sushi and traditional Japanese dishes. The menu features a
+  variety of sushi rolls and bento boxes, complemented by other flavorful
+  options that create a cozy dining atmosphere perfect for casual meals. With
+  its accessible entrance and seating, the restaurant caters to a wide range of
+  guests, making it easy to savor authentic flavors in a relaxed setting.
+  Operating hours span from late morning to evening on most days, ideal for
+  those seeking quality Japanese cuisine near you. This hidden gem stands out
+  for its moderate pricing and inviting vibe, appealing to anyone exploring the
+  best sushi options in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About Koisan Sushi$$$Folks frequently highlight the
+  fresh ingredients and tasty rolls that make meals here a real treat, often
+  noting how the variety keeps things exciting for sushi enthusiasts. Many
+  appreciate the friendly service and comfortable atmosphere, which add to the
+  overall enjoyable experience without any major complaints. It's common to hear
+  praise for the generous portions and solid value, positioning this spot as a
+  go-to for casual diners in the neighborhood. While a few mention occasional
+  waits during peak times, the general consensus leans positive, with visitors
+  returning for the reliable quality. All in all, if you're on the hunt for
+  top-rated sushi restaurants nearby, this place delivers a satisfying vibe that
+  keeps fans coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +374,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

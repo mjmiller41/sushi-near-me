@@ -5,4 +5,5 @@ permalink: /iowa/fairfield/
 stateAbbr: IA
 stateName: Iowa
 cityName: Fairfield
+
 ---

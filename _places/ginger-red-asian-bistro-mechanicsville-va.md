@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ginger Red Asian Bistro"
+title: Ginger Red Asian Bistro
 permalink: /virginia/mechanicsville/ginger-red-asian-bistro.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Mechanicsville
 seo:
-  name: "Ginger Red Asian Bistro"
-  type: Restaurant
+  type: restaurant
   links: http://www.gingerred.com/
-description: "Stylish spot with red-accented decor furnishing Pan-Asian dishes, house cocktails & Sunday brunch. Ginger Red Asian Bistro serves delicious sushi in Mechanicsville, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ4wup0IoYsYkRvGyoQnlaEqk
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 0
 website: http://www.gingerred.com/
+description: >-
+  Discover Ginger Red Asian Bistro in Mechanicsville, VA$$$Nestled in
+  Mechanicsville, VA, Ginger Red Asian Bistro offers a vibrant blend of
+  Pan-Asian flavors that highlight fresh sushi and Chinese-inspired dishes in a
+  stylish, relaxed setting. This spot features a full bar with creative
+  cocktails, making it an ideal choice for those seeking authentic Asian cuisine
+  near you, complete with options like flavorful rolls and hearty entrees. The
+  restaurant's welcoming atmosphere is accented by thoughtful decor, providing a
+  comfortable space for enjoying top-rated sushi and other specialties.
+  Accessibility features ensure a seamless visit, while the menu caters to a
+  variety of tastes, including vegetarian options. Whether you're in the mood
+  for a casual dinner or something more, this bistro stands out as a go-to
+  destination for quality Japanese-inspired places in the area.
+generative_summary: >-
+  Discover Ginger Red Asian Bistro in Mechanicsville, VA$$$Nestled in
+  Mechanicsville, VA, Ginger Red Asian Bistro offers a vibrant blend of
+  Pan-Asian flavors that highlight fresh sushi and Chinese-inspired dishes in a
+  stylish, relaxed setting. This spot features a full bar with creative
+  cocktails, making it an ideal choice for those seeking authentic Asian cuisine
+  near you, complete with options like flavorful rolls and hearty entrees. The
+  restaurant's welcoming atmosphere is accented by thoughtful decor, providing a
+  comfortable space for enjoying top-rated sushi and other specialties.
+  Accessibility features ensure a seamless visit, while the menu caters to a
+  variety of tastes, including vegetarian options. Whether you're in the mood
+  for a casual dinner or something more, this bistro stands out as a go-to
+  destination for quality Japanese-inspired places in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ4wup0IoYsYkRvGyoQnlaEqk/reviews/ChdDSUhNMG9nS0VJQ0FnSUM3dFBYeXBRRRAB
@@ -340,6 +365,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNJc3F6QVFBEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNJc3F6QVFBEAE!2m1!1s0x89b1188ad0a90be3:0xa9125a7942a86cbc
+review_summary: >-
+  What Visitors Are Buzzing About$$$Folks rave about the delicious food at this
+  sushi spot, praising the fresh flavors and variety that keep diners coming
+  back for more. Many highlight the quick service and friendly staff, creating a
+  welcoming vibe that enhances the overall meal experience. While most agree
+  it's a great value for the quality, a few note that some items like beverages
+  might feel a bit pricey compared to expectations. The atmosphere gets high
+  marks for being relaxed and enjoyable, perfect for groups or families looking
+  to try new Asian dishes. Overall, it's clear this place earns its spot as a
+  favorite for tasty sushi near you, with enthusiastic recommendations for
+  anyone seeking a satisfying dining adventure.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -373,8 +410,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Stylish spot with red-accented decor furnishing Pan-Asian dishes, house
   cocktails & Sunday brunch.
 

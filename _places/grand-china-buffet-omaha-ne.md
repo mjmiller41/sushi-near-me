@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Grand China Buffet"
+title: Grand China Buffet
 permalink: /nebraska/omaha/grand-china-buffet.html
 stateAbbr: NE
 stateName: Nebraska
 cityName: Omaha
 seo:
-  name: "Grand China Buffet"
-  type: Restaurant
+  type: restaurant
   links: http://www.grandchinabuffetne.com/
-description: "Grand China Buffet serves delicious sushi in Omaha, Nebraska. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJIw9ek-Pzk4cRqqaqhmVpdGg
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $10 &ndash; $20
 rating: '4.0'
 rating_count: 0
 website: http://www.grandchinabuffetne.com/
+description: >-
+  Discover Grand China Buffet in Omaha, NE$$$Nestled in Omaha, NE, Grand China
+  Buffet offers a casual dining experience with an all-you-can-eat setup
+  featuring a variety of Chinese dishes, fresh sushi options, and a lively
+  Mongolian grill. This spot stands out for its accessible layout, including
+  wheelchair-friendly parking and entrances, making it easy for everyone to
+  enjoy the diverse menu. Diners can savor a mix of flavorful entrees and sides,
+  with highlights like the interactive grill and ample selections that cater to
+  those seeking authentic Asian flavors close to home. The restaurant maintains
+  a welcoming atmosphere with options for groups and families, complemented by
+  convenient parking and payment choices. Whether you're in the mood for quick
+  sushi picks or hearty buffet favorites, this location provides a satisfying
+  meal in a moderately priced setting.
+generative_summary: >-
+  Discover Grand China Buffet in Omaha, NE$$$Nestled in Omaha, NE, Grand China
+  Buffet offers a casual dining experience with an all-you-can-eat setup
+  featuring a variety of Chinese dishes, fresh sushi options, and a lively
+  Mongolian grill. This spot stands out for its accessible layout, including
+  wheelchair-friendly parking and entrances, making it easy for everyone to
+  enjoy the diverse menu. Diners can savor a mix of flavorful entrees and sides,
+  with highlights like the interactive grill and ample selections that cater to
+  those seeking authentic Asian flavors close to home. The restaurant maintains
+  a welcoming atmosphere with options for groups and families, complemented by
+  convenient parking and payment choices. Whether you're in the mood for quick
+  sushi picks or hearty buffet favorites, this location provides a satisfying
+  meal in a moderately priced setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJIw9ek-Pzk4cRqqaqhmVpdGg/reviews/ChZDSUhNMG9nS0VJQ0FnSUNQZ2ZlcmZnEAE
@@ -414,6 +439,21 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNKeXN6aFJREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNKeXN6aFJREAE!2m1!1s0x8793f3e3935e0f23:0x6874696586aaa6aa
+review_summary: >-
+  What Guests Are Saying About the Experience$$$Visitors often highlight the
+  wide array of dishes at Grand China Buffet, with many enjoying the fresh
+  options like coconut shrimp and hot and sour soup that add a fun twist to the
+  meal. While some folks mention that certain items, such as the sushi or spicy
+  chicken, can vary in freshness depending on the time of day, the overall value
+  and variety keep things interesting for families and groups stopping by.
+  Service tends to be efficient during busy times, though a few note that things
+  can feel rushed near closing, impacting the full enjoyment. On the upside, the
+  clean environment and quick table turnarounds make it a solid pick for casual
+  outings, and positives like the bacon shrimp and dessert selections help
+  balance out any minor letdowns. All in all, it's a go-to spot for affordable
+  eats that delivers decent flavors, especially if you time your visit right for
+  the best picks.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -447,7 +487,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

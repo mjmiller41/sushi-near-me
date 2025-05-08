@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Express Amarillo"
+title: Sushi Express Amarillo
 permalink: /texas/amarillo/sushi-express-amarillo.html
 stateAbbr: TX
 stateName: Texas
 cityName: Amarillo
 seo:
-  name: "Sushi Express Amarillo"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi Express Amarillo serves delicious sushi in Amarillo, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJDfsnpERQAYcRMMN8mKqpy8k
 photos:
   - name: >-
@@ -170,7 +168,97 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x87015044a427fb0d:0xc9cba9aa987cc330!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 15
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 0
+      close:
+        day: 1
+        hour: 20
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 15
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 0
+      close:
+        day: 5
+        hour: 20
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 3:00 PM, 4:00 – 8:00 PM'
     - 'Tuesday: 11:00 AM – 3:00 PM, 4:00 – 8:00 PM'
     - 'Wednesday: 11:00 AM – 3:00 PM, 4:00 – 8:00 PM'
@@ -178,14 +266,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 3:00 PM, 4:00 – 8:00 PM'
     - 'Saturday: 11:00 AM – 9:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:00 AM – 3:00 PM, 4:00 – 8:00 PM'
-    - 'Tuesday: 11:00 AM – 3:00 PM, 4:00 – 8:00 PM'
-    - 'Wednesday: 11:00 AM – 3:00 PM, 4:00 – 8:00 PM'
-    - 'Thursday: 11:00 AM – 3:00 PM, 4:00 – 8:00 PM'
-    - 'Friday: 11:00 AM – 3:00 PM, 4:00 – 8:00 PM'
-    - 'Saturday: 11:00 AM – 9:00 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +278,208 @@ phone: (806) 803-1786
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.2'
-rating_count: 0
+rating_count: 150
 website: null
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Explore Sushi Express in Amarillo, TX$$$Sushi Express in Amarillo, TX, stands
+  out as a welcoming spot for enjoying fresh Japanese and Thai-inspired dishes,
+  blending authentic flavors with a casual dining vibe. This sushi restaurant
+  boasts an extensive menu that includes a variety of rolls, noodles, and
+  curries, making it a go-to choice for those seeking top-rated sushi options in
+  the area. With its focus on accessibility features like wheelchair-friendly
+  entrances and parking, it ensures a comfortable experience for all visitors.
+  Operating with convenient hours throughout the week, including evenings, it's
+  perfect for a quick lunch or dinner outing. The moderate pricing adds to its
+  appeal, offering great value for delicious, dine-in meals that highlight the
+  best of Japanese cuisine.
+generative_summary: >-
+  Explore Sushi Express in Amarillo, TX$$$Sushi Express in Amarillo, TX, stands
+  out as a welcoming spot for enjoying fresh Japanese and Thai-inspired dishes,
+  blending authentic flavors with a casual dining vibe. This sushi restaurant
+  boasts an extensive menu that includes a variety of rolls, noodles, and
+  curries, making it a go-to choice for those seeking top-rated sushi options in
+  the area. With its focus on accessibility features like wheelchair-friendly
+  entrances and parking, it ensures a comfortable experience for all visitors.
+  Operating with convenient hours throughout the week, including evenings, it's
+  perfect for a quick lunch or dinner outing. The moderate pricing adds to its
+  appeal, offering great value for delicious, dine-in meals that highlight the
+  best of Japanese cuisine.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJDfsnpERQAYcRMMN8mKqpy8k/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ2NnVMbml3RRAB
+    relativePublishTimeDescription: 3 years ago
+    rating: 5
+    text:
+      text: >-
+        Really good sushi, great presentation, definitely over ordered and was
+        too full to try the Sesame Chicken but glad I was able to take it to go.
+        They have Thai Options, Japanese Options, Curries, Ramen, Poke Bowls,
+        Noodles and Rice. Great customer service.
+      languageCode: en
+    originalText:
+      text: >-
+        Really good sushi, great presentation, definitely over ordered and was
+        too full to try the Sesame Chicken but glad I was able to take it to go.
+        They have Thai Options, Japanese Options, Curries, Ramen, Poke Bowls,
+        Noodles and Rice. Great customer service.
+      languageCode: en
+    authorAttribution:
+      displayName: Unwanted Commentary
+      uri: https://www.google.com/maps/contrib/105533244026934277235/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjW-CJdp_uYI7NA1eywy7VyXzaWsSK8yx73ovkwgdA8qSCZWdwtLyw=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2021-09-30T00:52:05.665638Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQ2NnVMbml3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQ2NnVMbml3RRAB!2m1!1s0x87015044a427fb0d:0xc9cba9aa987cc330
+  - name: >-
+      places/ChIJDfsnpERQAYcRMMN8mKqpy8k/reviews/ChdDSUhNMG9nS0VJQ0FnTUNvOGFfOHd3RRAB
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        The ramen dish was phenomenal! For a delivery order it was perfect. Will
+        be going back!
+      languageCode: en
+    originalText:
+      text: >-
+        The ramen dish was phenomenal! For a delivery order it was perfect. Will
+        be going back!
+      languageCode: en
+    authorAttribution:
+      displayName: Jeremy Shreiner
+      uri: https://www.google.com/maps/contrib/102487884212144790690/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjV2rMra4qhc9cfSTmG791Op4Lac7T1ECNLrJQpkCf6gSiWipZxN=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-17T23:57:17.089722Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNvOGFfOHd3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNvOGFfOHd3RRAB!2m1!1s0x87015044a427fb0d:0xc9cba9aa987cc330
+  - name: >-
+      places/ChIJDfsnpERQAYcRMMN8mKqpy8k/reviews/ChdDSUhNMG9nS0VJQ0FnSURfanM3NDFBRRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        Best place to eat. The egg drop soup was the best I have ever had. I
+        will continue to eat here.  Next trip I am hitting this place up for
+        some good food.
+      languageCode: en
+    originalText:
+      text: >-
+        Best place to eat. The egg drop soup was the best I have ever had. I
+        will continue to eat here.  Next trip I am hitting this place up for
+        some good food.
+      languageCode: en
+    authorAttribution:
+      displayName: Reina Martinez
+      uri: https://www.google.com/maps/contrib/105696226427663939689/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocImA-1gv_j2jhO3GJdmUiU2KlKgfvbv1jLOCFxaafqq2-NxM4Q=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-01-24T06:19:53.539461Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURfanM3NDFBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURfanM3NDFBRRAB!2m1!1s0x87015044a427fb0d:0xc9cba9aa987cc330
+  - name: >-
+      places/ChIJDfsnpERQAYcRMMN8mKqpy8k/reviews/ChdDSUhNMG9nS0VJQ0FnSURfOWJEQm9RRRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        We love this place! Great sushi and ramen at affordable prices. Service
+        is friendly and love that's it's a family run business.
+      languageCode: en
+    originalText:
+      text: >-
+        We love this place! Great sushi and ramen at affordable prices. Service
+        is friendly and love that's it's a family run business.
+      languageCode: en
+    authorAttribution:
+      displayName: Heath Wakefield
+      uri: https://www.google.com/maps/contrib/104911081270650847414/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjULAApH_YzqVkZ1lLvyhVBq4ZDAE2cX9HX5QXIL0Tc2m1O79B0q=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-01-26T01:11:23.844890Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURfOWJEQm9RRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURfOWJEQm9RRRAB!2m1!1s0x87015044a427fb0d:0xc9cba9aa987cc330
+  - name: >-
+      places/ChIJDfsnpERQAYcRMMN8mKqpy8k/reviews/ChdDSUhNMG9nS0VJQ0FnSUM5M3RuZjNRRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        The best Sushi in Amarillo. Well in TEXAS! This is a must stop. IF you
+        want fresh, delicious, special CRAFTED Sushi 🍣 😋.  YOU HAVE TO TRY IT.
+        If I could give thousand stars 🌟 I would. Just the perfect SUSHI!
+      languageCode: en
+    originalText:
+      text: >-
+        The best Sushi in Amarillo. Well in TEXAS! This is a must stop. IF you
+        want fresh, delicious, special CRAFTED Sushi 🍣 😋.  YOU HAVE TO TRY IT.
+        If I could give thousand stars 🌟 I would. Just the perfect SUSHI!
+      languageCode: en
+    authorAttribution:
+      displayName: Maria Yrbas
+      uri: https://www.google.com/maps/contrib/115710923213945442348/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjV08PXn1LWIMerutbZbPFwVj2IzCsRo7oq1bhIlKFGpJxTcT1GO=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2024-03-06T01:37:44.964320Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUM5M3RuZjNRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUM5M3RuZjNRRRAB!2m1!1s0x87015044a427fb0d:0xc9cba9aa987cc330
+review_summary: >-
+  Customer Feedback on Sushi Express$$$From what folks are sharing, Sushi
+  Express is a hit for its tasty sushi and ramen dishes that deliver fresh
+  flavors at affordable prices, making it a solid pick for anyone craving
+  Japanese eats nearby. Reviewers often highlight the great presentation and
+  variety of options, like Thai-inspired curries and poke bowls, which keep
+  things exciting and satisfying. The friendly service and family-like
+  atmosphere come up frequently, adding a welcoming touch to every visit.
+  Overall, it's praised as a reliable spot for quality meals that hit the spot,
+  especially for groups or families looking for good value. While opinions are
+  mostly positive, the general buzz keeps an honest nod to its consistent appeal
+  as one of the better sushi places around.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
+curbside_pickup: false
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
 menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
 serves_breakfast: null
-serves_brunch: null
+serves_brunch: false
 serves_cocktails: null
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

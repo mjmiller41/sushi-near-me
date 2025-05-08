@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ninja Japanese Steakhouse & Sushi Bar"
+title: Ninja Japanese Steakhouse & Sushi Bar
 permalink: /virginia/suffolk/ninja-japanese-steakhouse-sushi-bar.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Suffolk
 seo:
-  name: "Ninja Japanese Steakhouse & Sushi Bar"
-  type: Restaurant
-  links: null
-description: "Ninja Japanese Steakhouse & Sushi Bar serves delicious sushi in Suffolk, Virginia. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.ninjasuffolkva.com/
 place_id: ChIJjwRrcOyfuokR_Mkac0nu1pU
 photos:
   - name: >-
@@ -170,8 +168,105 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89ba9fec706b048f:0x95d6ee49731ac9fc!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 15
+    - open:
+        day: 1
+        hour: 16
+        minute: 0
+      close:
+        day: 1
+        hour: 20
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 15
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 15
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 15
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 2:15 PM, 4:00 – 8:30 PM'
+    - 'Tuesday: 11:00 AM – 2:15 PM, 4:00 – 8:30 PM'
+    - 'Wednesday: 11:00 AM – 2:15 PM, 4:00 – 8:30 PM'
+    - 'Thursday: 11:00 AM – 2:15 PM, 4:00 – 8:30 PM'
+    - 'Friday: 11:00 AM – 9:30 PM'
+    - 'Saturday: 11:00 AM – 9:30 PM'
+    - 'Sunday: 12:00 – 8:30 PM'
+  nextCloseTime: '2025-05-04T01:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +274,51 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (757) 484-6888
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.4'
+rating_count: 1110
+website: http://www.ninjasuffolkva.com/
+description: >-
+  Explore Ninja Japanese Steakhouse in Suffolk, VA$$$Ninja Japanese Steakhouse &
+  Sushi Bar in Suffolk, Virginia, stands out as a vibrant spot for authentic
+  Japanese cuisine, featuring fresh sushi and sizzling hibachi dishes in a
+  lively setting. This establishment offers an entertaining atmosphere that
+  combines flavorful meals with engaging dining experiences, making it ideal for
+  those seeking a memorable meal. With accessibility features like
+  wheelchair-friendly parking and entrances, it caters to a wide range of
+  visitors, ensuring everyone can enjoy the fun vibe. Operating with flexible
+  hours including evenings and weekends, it's a convenient choice for casual
+  dinners or special occasions, blending traditional flavors with modern appeal
+  to satisfy sushi enthusiasts in the area.
+generative_summary: >-
+  Explore Ninja Japanese Steakhouse in Suffolk, VA$$$Ninja Japanese Steakhouse &
+  Sushi Bar in Suffolk, Virginia, stands out as a vibrant spot for authentic
+  Japanese cuisine, featuring fresh sushi and sizzling hibachi dishes in a
+  lively setting. This establishment offers an entertaining atmosphere that
+  combines flavorful meals with engaging dining experiences, making it ideal for
+  those seeking a memorable meal. With accessibility features like
+  wheelchair-friendly parking and entrances, it caters to a wide range of
+  visitors, ensuring everyone can enjoy the fun vibe. Operating with flexible
+  hours including evenings and weekends, it's a convenient choice for casual
+  dinners or special occasions, blending traditional flavors with modern appeal
+  to satisfy sushi enthusiasts in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Customer Feedback$$$Visitors to this Japanese steakhouse often
+  rave about the fresh, high-quality sushi and the exciting hibachi performances
+  that keep things lively and fun. Many appreciate the welcoming atmosphere and
+  solid value for the price, making it a go-to spot for groups or families
+  looking for a satisfying meal. While some mention minor waits during peak
+  times, the overall experience shines through with consistent praise for the
+  flavorful dishes and attentive service. If you're searching for top-rated
+  Japanese options nearby, this place delivers a reliable and enjoyable vibe
+  that leaves diners coming back for more. All in all, the strong ratings
+  suggest it's a solid pick for anyone craving authentic tastes in a casual,
+  entertaining environment.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +344,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Deli 3"
+title: Sushi Deli 3
 permalink: /california/san-diego/sushi-deli-3.html
 stateAbbr: CA
 stateName: California
 cityName: San Diego
 seo:
-  name: "Sushi Deli 3"
-  type: Restaurant
+  type: restaurant
   links: https://www.sushideliusa.com/
-description: "Sushi Deli 3 serves delicious sushi in San Diego, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ-8JNv-r_24ARznkkDswSYuw
 photos:
   - name: >-
@@ -170,7 +168,97 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80dbffeabf4dc2fb:0xec6212cc0e2479ce!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
     - 'Tuesday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
     - 'Wednesday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
@@ -178,28 +266,93 @@ opening_hours:
     - 'Friday: 11:30 AM – 10:00 PM'
     - 'Saturday: 12:00 – 10:00 PM'
     - 'Sunday: 12:00 – 9:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
-    - 'Tuesday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
-    - 'Wednesday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
-    - 'Thursday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
-    - 'Friday: 11:30 AM – 10:00 PM'
-    - 'Saturday: 12:00 – 10:00 PM'
-    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T05:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: false
+    periods:
+      - open:
+          day: 1
+          hour: 17
+          minute: 0
+        close:
+          day: 1
+          hour: 18
+          minute: 30
+      - open:
+          day: 2
+          hour: 17
+          minute: 0
+        close:
+          day: 2
+          hour: 18
+          minute: 30
+      - open:
+          day: 3
+          hour: 17
+          minute: 0
+        close:
+          day: 3
+          hour: 18
+          minute: 30
+      - open:
+          day: 4
+          hour: 17
+          minute: 0
+        close:
+          day: 4
+          hour: 18
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 5:00 – 6:30 PM'
+      - 'Tuesday: 5:00 – 6:30 PM'
+      - 'Wednesday: 5:00 – 6:30 PM'
+      - 'Thursday: 5:00 – 6:30 PM'
+      - 'Friday: Closed'
+      - 'Saturday: Closed'
+      - 'Sunday: Closed'
+    secondaryHoursType: HAPPY_HOUR
+    nextOpenTime: '2025-05-06T00:00:00Z'
 phone: (858) 292-5515
 price_level: PRICE_LEVEL_INEXPENSIVE
 price_range: $10 &ndash; $20
 rating: '4.5'
-rating_count: 0
+rating_count: 2799
 website: https://www.sushideliusa.com/
+description: >-
+  Discover Sushi Deli 3 in San Diego, CA$$$Sushi Deli 3 in San Diego, CA, offers
+  a relaxed haven for those craving authentic Japanese flavors in a welcoming
+  environment. The menu highlights fresh sushi rolls, satisfying bento boxes,
+  and steaming bowls of ramen, all crafted in a casual space complete with a
+  full bar for added enjoyment. With thoughtful accessibility features like
+  wheelchair-friendly parking and seating, it's an inclusive spot for everyone
+  seeking quality Japanese dining. Operating with convenient hours from lunch
+  through dinner, this establishment stands out as a reliable choice for anyone
+  exploring local sushi options. Its approachable vibe makes it a great pick for
+  casual meals near you.
+generative_summary: >-
+  Discover Sushi Deli 3 in San Diego, CA$$$Sushi Deli 3 in San Diego, CA, offers
+  a relaxed haven for those craving authentic Japanese flavors in a welcoming
+  environment. The menu highlights fresh sushi rolls, satisfying bento boxes,
+  and steaming bowls of ramen, all crafted in a casual space complete with a
+  full bar for added enjoyment. With thoughtful accessibility features like
+  wheelchair-friendly parking and seating, it's an inclusive spot for everyone
+  seeking quality Japanese dining. Operating with convenient hours from lunch
+  through dinner, this establishment stands out as a reliable choice for anyone
+  exploring local sushi options. Its approachable vibe makes it a great pick for
+  casual meals near you.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Raving About$$$Visitors often highlight the delicious
+  variety of sushi rolls, bento boxes, and ramen at this spot, appreciating how
+  the flavors hit the mark without breaking the bank. The lively atmosphere adds
+  a fun twist to meals, making it a go-to for relaxed get-togethers or quick
+  bites. Folks frequently note the friendly and efficient service that keeps
+  things running smoothly from start to finish. If you're on the lookout for
+  top-rated Japanese places nearby, many agree this location delivers solid
+  value and satisfying dishes. Overall, it's a dependable option for enjoying
+  fresh, affordable fare with a positive, easygoing feel.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +378,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sumo II Steakhouse of Japan"
+title: Sumo II Steakhouse of Japan
 permalink: /oklahoma/oklahoma-city/sumo-ii-steakhouse-of-japan.html
 stateAbbr: OK
 stateName: Oklahoma
 cityName: Oklahoma City
 seo:
-  name: "Sumo II Steakhouse of Japan"
-  type: Restaurant
+  type: restaurant
   links: https://sumoiisteakhouse.com/
-description: "Sumo II Steakhouse of Japan serves delicious sushi in Oklahoma City, Oklahoma. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJf1WkG-wEsocRS6D2BdcUOyg
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x87b204ec1ba4557f:0x283b14d705f6a04b!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:30 PM'
     - 'Tuesday: 11:00 AM – 9:30 PM'
     - 'Wednesday: 11:00 AM – 9:30 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:00 PM'
     - 'Saturday: 11:00 AM – 10:00 PM'
     - 'Sunday: 11:00 AM – 9:30 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:30 PM'
-    - 'Tuesday: 11:00 AM – 9:30 PM'
-    - 'Wednesday: 11:00 AM – 9:30 PM'
-    - 'Thursday: 11:00 AM – 9:30 PM'
-    - 'Friday: 11:00 AM – 10:00 PM'
-    - 'Saturday: 11:00 AM – 10:00 PM'
-    - 'Sunday: 11:00 AM – 9:30 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,242 @@ phone: (405) 721-2420
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.3'
-rating_count: 0
+rating_count: 1011
 website: https://sumoiisteakhouse.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Explore Sumo II Steakhouse in Oklahoma City, OK$$$Nestled in Oklahoma City,
+  OK, Sumo II Steakhouse of Japan offers a delightful blend of traditional
+  Japanese cuisine in a welcoming setting, featuring fresh sushi and hibachi
+  options that attract locals seeking authentic flavors. This sushi restaurant
+  stands out with its relaxed atmosphere, where guests can enjoy a variety of
+  Japanese fare alongside selections like sake and wine, making it a go-to spot
+  for casual dining or group outings. Accessibility features ensure a
+  comfortable experience for all visitors, while the menu highlights generous
+  portions and affordable prices that cater to families and friends. Whether
+  you're exploring sushi places near me or looking for top-rated Japanese
+  options, this venue delivers a satisfying meal with its flavorful dishes and
+  inviting vibe, perfect for those in the area.
+generative_summary: >-
+  Explore Sumo II Steakhouse in Oklahoma City, OK$$$Nestled in Oklahoma City,
+  OK, Sumo II Steakhouse of Japan offers a delightful blend of traditional
+  Japanese cuisine in a welcoming setting, featuring fresh sushi and hibachi
+  options that attract locals seeking authentic flavors. This sushi restaurant
+  stands out with its relaxed atmosphere, where guests can enjoy a variety of
+  Japanese fare alongside selections like sake and wine, making it a go-to spot
+  for casual dining or group outings. Accessibility features ensure a
+  comfortable experience for all visitors, while the menu highlights generous
+  portions and affordable prices that cater to families and friends. Whether
+  you're exploring sushi places near me or looking for top-rated Japanese
+  options, this venue delivers a satisfying meal with its flavorful dishes and
+  inviting vibe, perfect for those in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJf1WkG-wEsocRS6D2BdcUOyg/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3OWVuQWN3EAE
+    relativePublishTimeDescription: a month ago
+    rating: 4
+    text:
+      text: >-
+        Food was delicious, the portion size was great, price reasonable! They
+        had plenty of deep fried sushi options too. The Leon roll was so good. I
+        took a star off because towards the end our server disappeared and also
+        due to the restaurant being dated and junk filled.
+      languageCode: en
+    originalText:
+      text: >-
+        Food was delicious, the portion size was great, price reasonable! They
+        had plenty of deep fried sushi options too. The Leon roll was so good. I
+        took a star off because towards the end our server disappeared and also
+        due to the restaurant being dated and junk filled.
+      languageCode: en
+    authorAttribution:
+      displayName: Ceecee
+      uri: https://www.google.com/maps/contrib/105095465526825402125/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIG-n8bmOuAOVQZ5jVRVErbqwN25uOUIGBPt6eoXM9CdeIY6g=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-03-27T12:14:26.774692Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUR3OWVuQWN3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUR3OWVuQWN3EAE!2m1!1s0x87b204ec1ba4557f:0x283b14d705f6a04b
+  - name: >-
+      places/ChIJf1WkG-wEsocRS6D2BdcUOyg/reviews/ChdDSUhNMG9nS0VJQ0FnSUQzOTR5YW53RRAB
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        Sumo II is an excellent place for a dining and entertaining experience.
+        Bob, our chef, was talented in both culinary and hibachi skills. Bob
+        knew how to handle several Japanese hibachi knives along with some
+        tricks to go along with it. Watching a chef cooking your food right in
+        front of you is a unique experience if you have never seen it or are
+        exciting if you have done it before. This place is awesome.
+      languageCode: en
+    originalText:
+      text: >-
+        Sumo II is an excellent place for a dining and entertaining experience.
+        Bob, our chef, was talented in both culinary and hibachi skills. Bob
+        knew how to handle several Japanese hibachi knives along with some
+        tricks to go along with it. Watching a chef cooking your food right in
+        front of you is a unique experience if you have never seen it or are
+        exciting if you have done it before. This place is awesome.
+      languageCode: en
+    authorAttribution:
+      displayName: David Hammer
+      uri: https://www.google.com/maps/contrib/105164011425443171595/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWMxbJjPLkn78BmCGywcp_16Y7r3GGARpLPQeF1nN9hPySbNK4v=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-11-20T00:28:01.342666Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQzOTR5YW53RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQzOTR5YW53RRAB!2m1!1s0x87b204ec1ba4557f:0x283b14d705f6a04b
+  - name: >-
+      places/ChIJf1WkG-wEsocRS6D2BdcUOyg/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJbHY2eUdREAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Bento box lunch special included all items in photos, cost about $9.50
+        plus tax. Includes teriyaki beef, steamed rice, two spring rolls, half a
+        California roll, salad and clear soup. Other options include fried rice
+        instead of steamed, gyoza instead of spring rolls and different protein
+        options including teriyaki chicken, beef, tempura and others. Huge
+        restaurant, ample amount of tables available for dine in. Staff were
+        very polite. Recommend getting fried rice and teriyaki very delicious
+      languageCode: en
+    originalText:
+      text: >-
+        Bento box lunch special included all items in photos, cost about $9.50
+        plus tax. Includes teriyaki beef, steamed rice, two spring rolls, half a
+        California roll, salad and clear soup. Other options include fried rice
+        instead of steamed, gyoza instead of spring rolls and different protein
+        options including teriyaki chicken, beef, tempura and others. Huge
+        restaurant, ample amount of tables available for dine in. Staff were
+        very polite. Recommend getting fried rice and teriyaki very delicious
+      languageCode: en
+    authorAttribution:
+      displayName: N C
+      uri: https://www.google.com/maps/contrib/117309658978950063475/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVQzlCIkCgoqN--YqNnRQHOC_Tlc-ZwaPYISP5SWotqFPy6xeA2=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2025-04-01T16:10:41.958254Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNJbHY2eUdREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNJbHY2eUdREAE!2m1!1s0x87b204ec1ba4557f:0x283b14d705f6a04b
+  - name: >-
+      places/ChIJf1WkG-wEsocRS6D2BdcUOyg/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJeWZhRUF3EAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Food was excellent!  Portions were very generous, and our chef put on a
+        great show.  He made our 7 year old feel special for his birthday!
+        Highly recommend!
+
+
+        As others have commented, the decor could use a slight refresh, but it
+        seemed clean and the food and show is definitely enough for a very high
+        review
+      languageCode: en
+    originalText:
+      text: >-
+        Food was excellent!  Portions were very generous, and our chef put on a
+        great show.  He made our 7 year old feel special for his birthday!
+        Highly recommend!
+
+
+        As others have commented, the decor could use a slight refresh, but it
+        seemed clean and the food and show is definitely enough for a very high
+        review
+      languageCode: en
+    authorAttribution:
+      displayName: Aaron Brackett
+      uri: https://www.google.com/maps/contrib/105549433709147337833/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVmvpDA3FGPYCEAtyaWZJL-u06gCJYHgfwZoxh9eNn_uQk3auQ4Ew=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-03T03:22:55.667078Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNJeWZhRUF3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNJeWZhRUF3EAE!2m1!1s0x87b204ec1ba4557f:0x283b14d705f6a04b
+  - name: >-
+      places/ChIJf1WkG-wEsocRS6D2BdcUOyg/reviews/ChdDSUhNMG9nS0VJQ0FnTURJOHNiNndBRRAB
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 5
+    text:
+      text: >-
+        It’s your basic hibachi. It’s well flavored and very nice staff. Smaller
+        than some places but still fantastic. The lunch bento boxes are a great
+        deal! You get a lot of good quality food for the price of a McDonalds
+        meal. Fabulous!
+      languageCode: en
+    originalText:
+      text: >-
+        It’s your basic hibachi. It’s well flavored and very nice staff. Smaller
+        than some places but still fantastic. The lunch bento boxes are a great
+        deal! You get a lot of good quality food for the price of a McDonalds
+        meal. Fabulous!
+      languageCode: en
+    authorAttribution:
+      displayName: Halie Richards
+      uri: https://www.google.com/maps/contrib/107449296073321052019/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVyNTae7pgk7dG15JRH6PIdKk7extBfRlJNiUFWgR_0B8bRXXAtLw=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-04-08T16:56:17.543018Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJOHNiNndBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJOHNiNndBRRAB!2m1!1s0x87b204ec1ba4557f:0x283b14d705f6a04b
+review_summary: >-
+  Highlights from Customer Feedback$$$Visitors to this sushi spot often rave
+  about the tasty food and generous portions, with many highlighting the
+  affordable lunch specials like bento boxes as a fantastic value for a quick
+  yet satisfying meal. While some note that the decor feels a bit outdated, the
+  overall experience shines through with entertaining hibachi performances and
+  friendly service that keep things lively and fun. Folks appreciate the variety
+  of options, from deep-fried rolls to teriyaki dishes, making it a solid choice
+  for anyone searching for sushi restaurants near me or Japanese places that
+  cater to groups. Overall, the consensus leans positive, with diners enjoying
+  the flavorful meals and family-friendly vibe, though a few mention occasional
+  service lapses that don't overshadow the enjoyable atmosphere. If you're on
+  the hunt for best sushi near me, this place delivers a reliably good time with
+  its mix of quality and entertainment.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: true
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

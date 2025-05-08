@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kitsune Sushi"
+title: Kitsune Sushi
 permalink: /florida/clearwater/kitsune-sushi.html
 stateAbbr: FL
 stateName: Florida
 cityName: Clearwater
 seo:
-  name: "Kitsune Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://kitsunesushiclearwater.com/
-description: "Kitsune Sushi serves delicious sushi in Clearwater, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJKZCi7DDlwogRIJWQpQbYcns
 photos:
   - name: >-
@@ -185,6 +183,27 @@ price_range: $20 &ndash; $30
 rating: '4.8'
 rating_count: 0
 website: http://kitsunesushiclearwater.com/
+description: >-
+  Discover Kitsune Sushi in Clearwater, FL$$$Kitsune Sushi in Clearwater,
+  Florida, stands out as a modern hub for sushi lovers, blending fresh
+  ingredients and creative flavors in a welcoming environment. The spot features
+  an array of inventive rolls, hearty ramen, and delicate sashimi that appeal to
+  diverse tastes, including options for dietary preferences. Its accessible
+  location and thoughtful design make it easy to enjoy, whether you're stopping
+  by for a quick meal or a relaxed gathering. Ample portions and flexible
+  choices ensure a satisfying experience, positioning it as a go-to option for
+  anyone exploring Japanese-inspired dining in the area.
+generative_summary: >-
+  Discover Kitsune Sushi in Clearwater, FL$$$Kitsune Sushi in Clearwater,
+  Florida, stands out as a modern hub for sushi lovers, blending fresh
+  ingredients and creative flavors in a welcoming environment. The spot features
+  an array of inventive rolls, hearty ramen, and delicate sashimi that appeal to
+  diverse tastes, including options for dietary preferences. Its accessible
+  location and thoughtful design make it easy to enjoy, whether you're stopping
+  by for a quick meal or a relaxed gathering. Ample portions and flexible
+  choices ensure a satisfying experience, positioning it as a go-to option for
+  anyone exploring Japanese-inspired dining in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJKZCi7DDlwogRIJWQpQbYcns/reviews/ChdDSUhNMG9nS0VJQ0FnTURneXIteWlnRRAB
@@ -462,6 +481,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR2bWJHRlVREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR2bWJHRlVREAE!2m1!1s0x88c2e530eca29029:0x7b72d806a5909520
+review_summary: >-
+  What Visitors Are Saying About Kitsune Sushi$$$Folks hunting for top sushi
+  spots near Clearwater often praise the fresh and flavorful dishes that hit the
+  mark for variety and creativity, like creative rolls and satisfying ramen.
+  Many appreciate the welcoming vibe and efficient service that make it a solid
+  pick for families or casual get-togethers, with highlights on generous
+  portions and easy customizations for different needs. While most experiences
+  lean positive, a few note that some items could use a bit more balance in
+  portions, but overall, the food's quality keeps diners coming back. If you're
+  in the mood for reliable Japanese eats close to home, this place delivers a
+  consistently enjoyable meal that feels just right. It's earned high marks for
+  being a dependable choice among local sushi restaurants, blending fun
+  atmosphere with tasty options that rarely disappoint.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -492,7 +525,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Up"
+title: Sushi Up
 permalink: /utah/orem/sushi-up.html
 stateAbbr: UT
 stateName: Utah
 cityName: Orem
 seo:
-  name: "Sushi Up"
-  type: Restaurant
-  links: https://www.sushiuprestaurant.com/
-description: "Sushi Up serves delicious sushi in Orem, Utah. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.sushiuporem.com/
 place_id: ChIJY9sO-dmETYcRtucTPk1Nb3g
 photos:
   - name: >-
@@ -170,7 +168,105 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x874d84d9f90edb63:0x786f4d4d3e13e7b6!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 14
+        minute: 30
+    - open:
+        day: 6
+        hour: 16
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
     - 'Tuesday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
     - 'Wednesday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
@@ -178,14 +274,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
     - 'Saturday: 12:00 – 2:30 PM, 4:30 – 9:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
-    - 'Tuesday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
-    - 'Wednesday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
-    - 'Thursday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
-    - 'Friday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
-    - 'Saturday: 12:00 – 2:30 PM, 4:30 – 9:00 PM'
-    - 'Sunday: Closed'
+  nextOpenTime: '2025-05-03T22:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +286,292 @@ phone: (801) 607-2473
 price_level: PRICE_LEVEL_INEXPENSIVE
 price_range: $10 &ndash; $20
 rating: '4.6'
-rating_count: 0
-website: https://www.sushiuprestaurant.com/
-reviews: null
-parking_options: null
-payment_options: null
+rating_count: 1259
+website: https://www.sushiuporem.com/
+description: >-
+  Explore Sushi Up in Orem, UT$$$Sushi Up in Orem, UT, stands out as a casual
+  dining spot offering a vibrant sushi bar experience with fresh, inventive
+  rolls that highlight creative flavors and quality ingredients. This welcoming
+  eatery features specialty dishes like unique rolls and pairs them with options
+  like sake and beer, making it a go-to choice for those seeking authentic
+  Japanese-inspired cuisine in a relaxed atmosphere. With accessibility features
+  such as wheelchair-friendly parking and seating, it's designed to accommodate
+  a variety of diners looking for sushi restaurants near them. The spot also
+  boasts convenient hours and affordable pricing, appealing to anyone hunting
+  for the best sushi experiences in the area. Whether you're in the mood for a
+  quick lunch or an evening out, Sushi Up delivers a memorable meal that
+  combines freshness and innovation.
+generative_summary: >-
+  Explore Sushi Up in Orem, UT$$$Sushi Up in Orem, UT, stands out as a casual
+  dining spot offering a vibrant sushi bar experience with fresh, inventive
+  rolls that highlight creative flavors and quality ingredients. This welcoming
+  eatery features specialty dishes like unique rolls and pairs them with options
+  like sake and beer, making it a go-to choice for those seeking authentic
+  Japanese-inspired cuisine in a relaxed atmosphere. With accessibility features
+  such as wheelchair-friendly parking and seating, it's designed to accommodate
+  a variety of diners looking for sushi restaurants near them. The spot also
+  boasts convenient hours and affordable pricing, appealing to anyone hunting
+  for the best sushi experiences in the area. Whether you're in the mood for a
+  quick lunch or an evening out, Sushi Up delivers a memorable meal that
+  combines freshness and innovation.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJY9sO-dmETYcRtucTPk1Nb3g/reviews/ChdDSUhNMG9nS0VJQ0FnTUNnc3I3aDlnRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        We found this place about a year ago and it truly is the best sushi
+        we’ve had in Utah. We now go every Wednesday for lunch and is our go to
+        date night spot. Everything we’ve had here is good. Ingredients are so
+        fresh and the chef has created some truly unique rolls that will take
+        you to flavor town. Try the dragon eyes (different than dragon hearts)
+        and the box sushi. They aren’t on the menu, but we get them every time.
+        We also love the kill bill, and the baked salmon roll. You won’t find
+        anything like them anywhere else! They are always so friendly and the
+        service is prompt. 10/10 recommend this place to everyone we know!
+      languageCode: en
+    originalText:
+      text: >-
+        We found this place about a year ago and it truly is the best sushi
+        we’ve had in Utah. We now go every Wednesday for lunch and is our go to
+        date night spot. Everything we’ve had here is good. Ingredients are so
+        fresh and the chef has created some truly unique rolls that will take
+        you to flavor town. Try the dragon eyes (different than dragon hearts)
+        and the box sushi. They aren’t on the menu, but we get them every time.
+        We also love the kill bill, and the baked salmon roll. You won’t find
+        anything like them anywhere else! They are always so friendly and the
+        service is prompt. 10/10 recommend this place to everyone we know!
+      languageCode: en
+    authorAttribution:
+      displayName: Chelsea P
+      uri: https://www.google.com/maps/contrib/103876272207006992275/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLqqbLHEbjcyWVN46ah-TsluE3ZvCs9AXFDmgLNMRjAbIjLSzw=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-02-15T17:40:52.167130Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNnc3I3aDlnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNnc3I3aDlnRRAB!2m1!1s0x874d84d9f90edb63:0x786f4d4d3e13e7b6
+  - name: >-
+      places/ChIJY9sO-dmETYcRtucTPk1Nb3g/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRei1DZVpBEAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Honestly just really good sushi for a good price! The people are so
+        friendly and authentic! I 100% recommend
+      languageCode: en
+    originalText:
+      text: >-
+        Honestly just really good sushi for a good price! The people are so
+        friendly and authentic! I 100% recommend
+      languageCode: en
+    authorAttribution:
+      displayName: Hanna Morgan
+      uri: https://www.google.com/maps/contrib/104270319630867845183/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWqcdkSAPUGtl0Cq5UukDj7rQ7ygphgBKwvv3WhldYjsv-ZuQNt=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-03-08T02:34:55.522941Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNRei1DZVpBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNRei1DZVpBEAE!2m1!1s0x874d84d9f90edb63:0x786f4d4d3e13e7b6
+  - name: >-
+      places/ChIJY9sO-dmETYcRtucTPk1Nb3g/reviews/ChZDSUhNMG9nS0VJQ0FnSURYbC1ENFh3EAE
+    relativePublishTimeDescription: 6 months ago
+    rating: 5
+    text:
+      text: >-
+        Came in for lunch, this is my favorite sushi spot, very consistent with
+        the taste! It's delicious and not too expensive! Totally recommend 10/10
+        experience!
+      languageCode: en
+    originalText:
+      text: >-
+        Came in for lunch, this is my favorite sushi spot, very consistent with
+        the taste! It's delicious and not too expensive! Totally recommend 10/10
+        experience!
+      languageCode: en
+    authorAttribution:
+      displayName: audrey
+      uri: https://www.google.com/maps/contrib/102869993643338202647/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJDxwRG5DPFtQ-zau5LbWf1rrD2CahZq_qh6DekBFGGCIVejt1w=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-10-31T19:54:07.586311Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURYbC1ENFh3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURYbC1ENFh3EAE!2m1!1s0x874d84d9f90edb63:0x786f4d4d3e13e7b6
+  - name: >-
+      places/ChIJY9sO-dmETYcRtucTPk1Nb3g/reviews/ChdDSUhNMG9nS0VJQ0FnTURvaGY2X3NBRRAB
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        We love the sushi but even better is the service. My kids love to get
+        the boba as a special treat. Everytime we have gone the service has been
+        on top of it. We receive the food quickly and they even brought extras
+        just to be nice. We will continue to go often!
+      languageCode: en
+    originalText:
+      text: >-
+        We love the sushi but even better is the service. My kids love to get
+        the boba as a special treat. Everytime we have gone the service has been
+        on top of it. We receive the food quickly and they even brought extras
+        just to be nice. We will continue to go often!
+      languageCode: en
+    authorAttribution:
+      displayName: Jenna Malia Deering
+      uri: https://www.google.com/maps/contrib/117635034561832104595/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKKaOOl5qaG_nnwpxU_wcdzWoAaxjYzTEfT-yCjCjJngaUZ6nY=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-26T20:10:46.817726Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURvaGY2X3NBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURvaGY2X3NBRRAB!2m1!1s0x874d84d9f90edb63:0x786f4d4d3e13e7b6
+  - name: >-
+      places/ChIJY9sO-dmETYcRtucTPk1Nb3g/reviews/ChZDSUhNMG9nS0VJQ0FnTURvZ3FmRE93EAE
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        I came to Orem Utah on business and am staying at a hotel close to these
+        guys.
+
+        Decided to swing over for dinner.
+
+        Was pleasantly surprised to find they had a great special going on with
+        great sushi rolls for only 9.99 a roll!!
+
+        The waiter was fantastic from the get go. Greeted me with a warm
+        attitude. Promptly took my drink order and brought  me out my green tea
+        (piping hot like I like it) within minutes of sitting down.
+
+        The sushi rolls on special for the evening were AMAZING options.
+
+        I chose three different rolls and all three were very good!! I love
+        sushi and have eaten it all over. These were delicious rolls.
+
+        My waiter also brought me a plate of very freshly made egg rolls on the
+        house!!!!
+
+        It sealed the deal for my experience!
+
+        These guys deserve the review!
+
+        Very kind and friendly, very fast service with a delicious product that
+        I would get over and over if I lived in Orem.
+
+        Really you should check this spot out if you haven’t.
+
+        Their Tuesday and Wed. Night special you really can’t beat for sushi!
+        They don’t just give you basic roll options like some places do with
+        specials….. they give you quality.
+
+        Shout out to the staff and chef!! Thank you for making my first time
+        amazing!
+
+        I’ll find my way back! :)
+      languageCode: en
+    originalText:
+      text: >-
+        I came to Orem Utah on business and am staying at a hotel close to these
+        guys.
+
+        Decided to swing over for dinner.
+
+        Was pleasantly surprised to find they had a great special going on with
+        great sushi rolls for only 9.99 a roll!!
+
+        The waiter was fantastic from the get go. Greeted me with a warm
+        attitude. Promptly took my drink order and brought  me out my green tea
+        (piping hot like I like it) within minutes of sitting down.
+
+        The sushi rolls on special for the evening were AMAZING options.
+
+        I chose three different rolls and all three were very good!! I love
+        sushi and have eaten it all over. These were delicious rolls.
+
+        My waiter also brought me a plate of very freshly made egg rolls on the
+        house!!!!
+
+        It sealed the deal for my experience!
+
+        These guys deserve the review!
+
+        Very kind and friendly, very fast service with a delicious product that
+        I would get over and over if I lived in Orem.
+
+        Really you should check this spot out if you haven’t.
+
+        Their Tuesday and Wed. Night special you really can’t beat for sushi!
+        They don’t just give you basic roll options like some places do with
+        specials….. they give you quality.
+
+        Shout out to the staff and chef!! Thank you for making my first time
+        amazing!
+
+        I’ll find my way back! :)
+      languageCode: en
+    authorAttribution:
+      displayName: Brandon Lee
+      uri: https://www.google.com/maps/contrib/107619414074805323853/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIvCcBmxC9GQ1VjhRhyfQsB3URjHOohtZHjyv8OBizajamhzQ=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-23T03:24:52.902849Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURvZ3FmRE93EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURvZ3FmRE93EAE!2m1!1s0x874d84d9f90edb63:0x786f4d4d3e13e7b6
+review_summary: >-
+  What Visitors Are Buzzing About$$$Visitors consistently praise the fresh and
+  creative sushi rolls at this spot, noting how the unique flavors and generous
+  portions make every meal feel special without breaking the bank. Many
+  highlight the friendly service and quick delivery of dishes, which add to the
+  overall enjoyable vibe during visits. Folks often mention the great value from
+  specials and daily deals, making it a solid pick for anyone craving top-rated
+  sushi nearby. While some appreciate the cozy atmosphere and extras like
+  complimentary sides, the consensus is that the ingredients shine through in
+  every bite. If you're on the hunt for reliable sushi places near you, this
+  location keeps things positive with consistent quality that leaves diners
+  eager to return.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
+curbside_pickup: false
+delivery: false
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: true
+outdoor_seating: false
 reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
 serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
 serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

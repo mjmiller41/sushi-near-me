@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Tora Zushi"
+title: Tora Zushi
 permalink: /kansas/overland-park/tora-zushi.html
 stateAbbr: KS
 stateName: Kansas
 cityName: Overland Park
 seo:
-  name: "Tora Zushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.strang.cc/torazushi
-description: "Tora Zushi serves delicious sushi in Overland Park, Kansas. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJ7xngJ8ntwIcRN8MNrwloEAw
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $10 &ndash; $20
 rating: '4.1'
 rating_count: 0
 website: https://www.strang.cc/torazushi
+description: >-
+  Discover Tora Zushi in Overland Park, KS$$$Tora Zushi in Overland Park, KS,
+  stands out as a welcoming Japanese restaurant offering a variety of fresh
+  sushi options that appeal to those seeking authentic flavors in a casual
+  setting. The spot features accessible entrances and seating, making it easy
+  for everyone to enjoy its menu of creative rolls and traditional dishes,
+  complemented by outdoor seating and a range of beverages like beer and wine.
+  With options for dine-in, takeout, and curbside pickup, it's a convenient
+  choice for sushi enthusiasts looking for quality meals at reasonable prices.
+  The restaurant's commitment to vegetarian options and family-friendly features
+  adds to its appeal, creating an inclusive atmosphere for groups or solo diners
+  exploring top sushi spots nearby.
+generative_summary: >-
+  Discover Tora Zushi in Overland Park, KS$$$Tora Zushi in Overland Park, KS,
+  stands out as a welcoming Japanese restaurant offering a variety of fresh
+  sushi options that appeal to those seeking authentic flavors in a casual
+  setting. The spot features accessible entrances and seating, making it easy
+  for everyone to enjoy its menu of creative rolls and traditional dishes,
+  complemented by outdoor seating and a range of beverages like beer and wine.
+  With options for dine-in, takeout, and curbside pickup, it's a convenient
+  choice for sushi enthusiasts looking for quality meals at reasonable prices.
+  The restaurant's commitment to vegetarian options and family-friendly features
+  adds to its appeal, creating an inclusive atmosphere for groups or solo diners
+  exploring top sushi spots nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ7xngJ8ntwIcRN8MNrwloEAw/reviews/ChZDSUhNMG9nS0VJQ0FnSUQtLThQZkV3EAE
@@ -322,6 +345,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURaN2RlSWt3RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURaN2RlSWt3RRAB!2m1!1s0x87c0edc927e019ef:0xc106809af0dc337
+review_summary: >-
+  What Customers Are Saying About This Sushi Spot$$$Visitors to this sushi
+  restaurant often highlight the fresh and flavorful rolls as a standout
+  feature, with many appreciating the overall quality and friendly service that
+  enhances the dining experience. While some feedback notes that certain dishes
+  like fried rice or specific rolls can feel a bit underwhelming in terms of
+  seasoning, the majority of comments praise the light, delicious options that
+  leave a lasting impression. Folks frequently mention enjoying the welcoming
+  vibe and consistent taste that keeps them coming back, making it a solid pick
+  for anyone craving reliable Japanese fare. Overall, the positive experiences
+  with attentive staff and creative offerings outweigh the minor critiques,
+  suggesting it's worth trying for those hunting for the best sushi near
+  Overland Park.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -354,7 +391,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

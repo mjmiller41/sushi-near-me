@@ -5,4 +5,5 @@ permalink: /connecticut/branford/
 stateAbbr: CT
 stateName: Connecticut
 cityName: Branford
+
 ---

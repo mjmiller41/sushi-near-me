@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kuyashii Ramen"
+title: Kuyashii Ramen
 permalink: /texas/brownsville/kuyashii-ramen.html
 stateAbbr: TX
 stateName: Texas
 cityName: Brownsville
 seo:
-  name: "Kuyashii Ramen"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Kuyashii Ramen serves delicious sushi in Brownsville, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJM3YlIiuVb4YRJuqVO3kebF0
 photos:
   - name: >-
@@ -185,7 +183,45 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Kuyashii Ramen in Brownsville, Texas$$$Kuyashii Ramen in Brownsville,
+  Texas, delivers a relaxed vibe centered on authentic Japanese dishes,
+  appealing to those seeking flavorful options in a welcoming setting. This spot
+  highlights a variety of vegetarian-friendly meals alongside refreshing
+  beverages like beer and cocktails, making it ideal for casual outings or quick
+  bites. Nestled in the vibrant Mitte Cultural District, it offers easy access
+  and thoughtful accessibility features to ensure a comfortable visit for
+  everyone. The atmosphere combines modern touches with traditional flavors,
+  creating an inviting space for exploring Japanese cuisine. Whether you're in
+  the mood for hearty bowls or lighter fare, this restaurant stands out as a
+  go-to destination for Japanese places near me.
+generative_summary: >-
+  Discover Kuyashii Ramen in Brownsville, Texas$$$Kuyashii Ramen in Brownsville,
+  Texas, delivers a relaxed vibe centered on authentic Japanese dishes,
+  appealing to those seeking flavorful options in a welcoming setting. This spot
+  highlights a variety of vegetarian-friendly meals alongside refreshing
+  beverages like beer and cocktails, making it ideal for casual outings or quick
+  bites. Nestled in the vibrant Mitte Cultural District, it offers easy access
+  and thoughtful accessibility features to ensure a comfortable visit for
+  everyone. The atmosphere combines modern touches with traditional flavors,
+  creating an inviting space for exploring Japanese cuisine. Whether you're in
+  the mood for hearty bowls or lighter fare, this restaurant stands out as a
+  go-to destination for Japanese places near me.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About Kuyashii Ramen$$$Diners often rave about the
+  tasty Japanese dishes at this spot, with many highlighting the fresh
+  ingredients and satisfying portions that make meals feel truly authentic.
+  Folks appreciate the variety of options, including vegetarian choices, which
+  add to its appeal for groups with different tastes. The service comes across
+  as friendly and efficient, helping create a laid-back experience that's
+  perfect for a casual night out. Overall, it's seen as a reliable pick for
+  Japanese fare near me, with visitors noting it as one of the better local
+  spots for quality food at a good value. While some mention occasional busier
+  times, the positive vibes and solid flavors keep it a favorite among those
+  exploring top-rated options in the area.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +247,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

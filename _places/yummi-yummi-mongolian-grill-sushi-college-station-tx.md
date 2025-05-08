@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yummi Yummi Mongolian Grill & Sushi"
+title: Yummi Yummi Mongolian Grill & Sushi
 permalink: /texas/college-station/yummi-yummi-mongolian-grill-sushi.html
 stateAbbr: TX
 stateName: Texas
 cityName: College Station
 seo:
-  name: "Yummi Yummi Mongolian Grill & Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://yummimongolian.com/
-description: "Yummi Yummi Mongolian Grill & Sushi serves delicious sushi in College Station, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJrRFULGyERoYRVjXp1ZI8pQQ
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8646846c2c5411ad:0x4a53c92d5e93556!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 10:00 PM'
     - 'Tuesday: 11:00 AM – 10:00 PM'
     - 'Wednesday: 11:00 AM – 10:00 PM'
@@ -178,54 +234,385 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:00 PM'
     - 'Saturday: 11:00 AM – 10:00 PM'
     - 'Sunday: 11:00 AM – 10:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 10:00 PM'
-    - 'Tuesday: 11:00 AM – 10:00 PM'
-    - 'Wednesday: 11:00 AM – 10:00 PM'
-    - 'Thursday: 11:00 AM – 10:00 PM'
-    - 'Friday: 11:00 AM – 10:00 PM'
-    - 'Saturday: 11:00 AM – 10:00 PM'
-    - 'Sunday: 11:00 AM – 10:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 11
+          minute: 0
+        close:
+          day: 0
+          hour: 22
+          minute: 0
+      - open:
+          day: 1
+          hour: 11
+          minute: 0
+        close:
+          day: 1
+          hour: 22
+          minute: 0
+      - open:
+          day: 2
+          hour: 11
+          minute: 0
+        close:
+          day: 2
+          hour: 22
+          minute: 0
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 22
+          minute: 0
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 22
+          minute: 0
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 22
+          minute: 0
+      - open:
+          day: 6
+          hour: 11
+          minute: 0
+        close:
+          day: 6
+          hour: 22
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 11:00 AM – 10:00 PM'
+      - 'Tuesday: 11:00 AM – 10:00 PM'
+      - 'Wednesday: 11:00 AM – 10:00 PM'
+      - 'Thursday: 11:00 AM – 10:00 PM'
+      - 'Friday: 11:00 AM – 10:00 PM'
+      - 'Saturday: 11:00 AM – 10:00 PM'
+      - 'Sunday: 11:00 AM – 10:00 PM'
+    secondaryHoursType: HAPPY_HOUR
+    nextCloseTime: '2025-05-04T03:00:00Z'
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 11
+          minute: 0
+        close:
+          day: 0
+          hour: 21
+          minute: 50
+      - open:
+          day: 1
+          hour: 11
+          minute: 0
+        close:
+          day: 1
+          hour: 21
+          minute: 50
+      - open:
+          day: 2
+          hour: 11
+          minute: 0
+        close:
+          day: 2
+          hour: 21
+          minute: 50
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 21
+          minute: 50
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 50
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 21
+          minute: 50
+      - open:
+          day: 6
+          hour: 11
+          minute: 0
+        close:
+          day: 6
+          hour: 21
+          minute: 50
+    weekdayDescriptions:
+      - 'Monday: 11:00 AM – 9:50 PM'
+      - 'Tuesday: 11:00 AM – 9:50 PM'
+      - 'Wednesday: 11:00 AM – 9:50 PM'
+      - 'Thursday: 11:00 AM – 9:50 PM'
+      - 'Friday: 11:00 AM – 9:50 PM'
+      - 'Saturday: 11:00 AM – 9:50 PM'
+      - 'Sunday: 11:00 AM – 9:50 PM'
+    secondaryHoursType: TAKEOUT
+    nextCloseTime: '2025-05-04T02:50:00Z'
 phone: (979) 703-5992
 price_level: PRICE_LEVEL_INEXPENSIVE
 price_range: $10 &ndash; $20
 rating: '4.4'
-rating_count: 0
+rating_count: 1022
 website: http://yummimongolian.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Yummi Yummi in College Station, TX$$$Yummi Yummi Mongolian Grill &
+  Sushi in College Station, TX, provides a relaxed spot for enjoying fresh sushi
+  and flavorful grilled dishes in a welcoming atmosphere. This casual eatery
+  combines traditional Japanese flavors with comforting options, including
+  hearty bowls and family-friendly choices that cater to various tastes. With
+  its convenient location and accessibility features like wheelchair-friendly
+  seating, it's an ideal destination for those seeking sushi restaurants nearby.
+  The spot also boasts extended hours and affordable pricing, making it perfect
+  for quick lunches or evening outings. Whether you're in the mood for inventive
+  rolls or simple grilled favorites, this place delivers a satisfying blend of
+  quality and convenience.
+generative_summary: >-
+  Discover Yummi Yummi in College Station, TX$$$Yummi Yummi Mongolian Grill &
+  Sushi in College Station, TX, provides a relaxed spot for enjoying fresh sushi
+  and flavorful grilled dishes in a welcoming atmosphere. This casual eatery
+  combines traditional Japanese flavors with comforting options, including
+  hearty bowls and family-friendly choices that cater to various tastes. With
+  its convenient location and accessibility features like wheelchair-friendly
+  seating, it's an ideal destination for those seeking sushi restaurants nearby.
+  The spot also boasts extended hours and affordable pricing, making it perfect
+  for quick lunches or evening outings. Whether you're in the mood for inventive
+  rolls or simple grilled favorites, this place delivers a satisfying blend of
+  quality and convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJrRFULGyERoYRVjXp1ZI8pQQ/reviews/ChdDSUhNMG9nS0VJQ0FnTURJbkxyRG9nRRAB
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 5
+    text:
+      text: >-
+        We ordered yummi yummi rice bowl, Teriyaki chicken rice bowl and crab
+        rangoon.
+
+
+        Quantity was really good. Food was yummi.
+
+
+        Service is great. Price is reasonable!
+
+
+        But yummi yummi rice bowl has some smell at the end of the bowl. Don't
+        know of what smell was that. Otherwise it’s good.
+      languageCode: en
+    originalText:
+      text: >-
+        We ordered yummi yummi rice bowl, Teriyaki chicken rice bowl and crab
+        rangoon.
+
+
+        Quantity was really good. Food was yummi.
+
+
+        Service is great. Price is reasonable!
+
+
+        But yummi yummi rice bowl has some smell at the end of the bowl. Don't
+        know of what smell was that. Otherwise it’s good.
+      languageCode: en
+    authorAttribution:
+      displayName: Neeloy Paul
+      uri: https://www.google.com/maps/contrib/108229343611638863995/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVo0Xgtb_djKmp-IUp6KFQixNFa1A4ODBYX9oL9WxUInl_ikgFQmA=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-08T02:55:04.440626Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJbkxyRG9nRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJbkxyRG9nRRAB!2m1!1s0x8646846c2c5411ad:0x4a53c92d5e93556
+  - name: >-
+      places/ChIJrRFULGyERoYRVjXp1ZI8pQQ/reviews/ChdDSUhNMG9nS0VJQ0FnTURBb2RyYWtBRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 3
+    text:
+      text: >-
+        We didn't get sushi, and took everything to go because it was so busy. I
+        probably would have given this 4* if I hadn't had high expectations from
+        the positive reviews first. The crab rangoons were delicious. Egg roll
+        was good. The pot stickers were also good but probably the same ones you
+        can get at Costco. The beef/noodle dish was tasty, but way too oily. I'd
+        try this place again.
+      languageCode: en
+    originalText:
+      text: >-
+        We didn't get sushi, and took everything to go because it was so busy. I
+        probably would have given this 4* if I hadn't had high expectations from
+        the positive reviews first. The crab rangoons were delicious. Egg roll
+        was good. The pot stickers were also good but probably the same ones you
+        can get at Costco. The beef/noodle dish was tasty, but way too oily. I'd
+        try this place again.
+      languageCode: en
+    authorAttribution:
+      displayName: Rachael Becker
+      uri: https://www.google.com/maps/contrib/101368878249458902133/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUM0_OoVr8ng_85D8FOXSHXTfIl35zTUVyZfphL0PGv141xsJo22Q=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-02-09T15:33:13.664172Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURBb2RyYWtBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURBb2RyYWtBRRAB!2m1!1s0x8646846c2c5411ad:0x4a53c92d5e93556
+  - name: >-
+      places/ChIJrRFULGyERoYRVjXp1ZI8pQQ/reviews/ChZDSUhNMG9nS0VJQ0FnTURnMzR2WFlBEAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        Food was great. Love the Crab Rangoon. Had shrimp and chicken crunches
+        and egg rolls as well. Our server, Bryan was super.
+      languageCode: en
+    originalText:
+      text: >-
+        Food was great. Love the Crab Rangoon. Had shrimp and chicken crunches
+        and egg rolls as well. Our server, Bryan was super.
+      languageCode: en
+    authorAttribution:
+      displayName: Leapfrog
+      uri: https://www.google.com/maps/contrib/107391192604669907225/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVsAVI1MBh3pLP07T6zGMGu-nXRR60eg7u9bkiPY_IgLqOrvGea=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-02-28T20:16:14.226644Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURnMzR2WFlBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURnMzR2WFlBEAE!2m1!1s0x8646846c2c5411ad:0x4a53c92d5e93556
+  - name: >-
+      places/ChIJrRFULGyERoYRVjXp1ZI8pQQ/reviews/ChdDSUhNMG9nS0VJQ0FnSUNueTlqOHV3RRAB
+    relativePublishTimeDescription: 7 months ago
+    rating: 5
+    text:
+      text: >-
+        Great prices. They have happy hour specials all day Monday and every
+        other day from 12-3pm AND 7-9pm.
+
+
+        The food was so delicious. Yummi Yummi is my favorite sushi place in
+        College Station
+      languageCode: en
+    originalText:
+      text: >-
+        Great prices. They have happy hour specials all day Monday and every
+        other day from 12-3pm AND 7-9pm.
+
+
+        The food was so delicious. Yummi Yummi is my favorite sushi place in
+        College Station
+      languageCode: en
+    authorAttribution:
+      displayName: Myra Dharani
+      uri: https://www.google.com/maps/contrib/102577597239697273971/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVow4MHxFyKEG98JuFuhjXgIbpCWsBorm9Gl1CxhYEWPvyQZKXfZw=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-09-29T23:55:51.052103Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNueTlqOHV3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNueTlqOHV3RRAB!2m1!1s0x8646846c2c5411ad:0x4a53c92d5e93556
+  - name: >-
+      places/ChIJrRFULGyERoYRVjXp1ZI8pQQ/reviews/ChdDSUhNMG9nS0VJQ0FnSURuM2Z1bjJnRRAB
+    relativePublishTimeDescription: 6 months ago
+    rating: 5
+    text:
+      text: >-
+        INCREDIBLE service and food. Portion sizes were perfect, especially for
+        the price. lots of protien in the bowls as well. the crab rangoons are
+        some of the very best ive ever had. Our Server Roxanne was amazing, our
+        drinks were always full and food was fast. will definitely be coming
+        back
+      languageCode: en
+    originalText:
+      text: >-
+        INCREDIBLE service and food. Portion sizes were perfect, especially for
+        the price. lots of protien in the bowls as well. the crab rangoons are
+        some of the very best ive ever had. Our Server Roxanne was amazing, our
+        drinks were always full and food was fast. will definitely be coming
+        back
+      languageCode: en
+    authorAttribution:
+      displayName: Bean Flack
+      uri: https://www.google.com/maps/contrib/116099278520237963878/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWz6wk4JI5p-7Tu4tdkQEB9BxWO7rO7mwsMSVLPmZH8U31QRbk4aQ=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-10-09T01:41:12.240305Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURuM2Z1bjJnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURuM2Z1bjJnRRAB!2m1!1s0x8646846c2c5411ad:0x4a53c92d5e93556
+review_summary: >-
+  What Customers Are Saying About This Sushi Spot$$$Visitors often praise the
+  generous portions and tasty appetizers like crab rangoon, highlighting how the
+  food strikes a great balance of flavor and value. Many appreciate the speedy
+  service and reasonable prices, especially during happy hour deals that make it
+  a go-to for casual meals. While some mention minor issues like certain dishes
+  feeling a bit oily or having an unexpected aroma, the overall experience
+  remains enjoyable and reliable. Folks frequently note the welcoming vibe and
+  kid-friendly options, adding to its appeal for groups or families. All in all,
+  this local favorite continues to shine as a solid choice for anyone craving
+  top-rated sushi nearby, with most feedback leaning toward repeat visits.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: true
+outdoor_seating: false
+reservable: false
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Casual Pan-Asian eatery in a strip mall with a full bar offering specialty
+  sushi & takeout dishes.
 
 ---

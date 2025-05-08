@@ -5,4 +5,5 @@ permalink: /california/lodi/
 stateAbbr: CA
 stateName: California
 cityName: Lodi
+
 ---

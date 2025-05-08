@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Green's Grill & Sushi Bar"
+title: Green's Grill & Sushi Bar
 permalink: /virginia/blacksburg/green-s-grill-sushi-bar.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Blacksburg
 seo:
-  name: "Green's Grill & Sushi Bar"
-  type: Restaurant
+  type: restaurant
   links: https://www.greensgrillsushibar.com/
-description: "Casual eatery serves eclectic offerings including Japanese, Mediterranean, Indian & American dishes. Green's Grill & Sushi Bar serves delicious sushi in Blacksburg, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJnTvHm3SVTYgRmbYn6HGBGXk
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 0
 website: https://www.greensgrillsushibar.com/
+description: >-
+  Discover Green's Grill & Sushi Bar in Blacksburg, VA$$$Green's Grill & Sushi
+  Bar in Blacksburg, VA, stands out as a popular spot for fresh Asian-inspired
+  dishes in a welcoming downtown setting. This long-established eatery combines
+  flavorful Japanese options with Mediterranean and American influences, making
+  it a versatile choice for anyone seeking diverse, high-quality meals. Visitors
+  appreciate the inviting atmosphere, complete with accessible features like
+  wheelchair-friendly entrances and seating, ensuring everyone can enjoy the
+  experience. Happy-hour deals add extra appeal for those looking to unwind,
+  while the menu highlights creative presentations that elevate everyday dining.
+  Whether you're in the mood for expertly crafted rolls or hearty entrees, this
+  spot delivers a memorable blend of tastes in a lively, community-oriented
+  environment.
+generative_summary: >-
+  Discover Green's Grill & Sushi Bar in Blacksburg, VA$$$Green's Grill & Sushi
+  Bar in Blacksburg, VA, stands out as a popular spot for fresh Asian-inspired
+  dishes in a welcoming downtown setting. This long-established eatery combines
+  flavorful Japanese options with Mediterranean and American influences, making
+  it a versatile choice for anyone seeking diverse, high-quality meals. Visitors
+  appreciate the inviting atmosphere, complete with accessible features like
+  wheelchair-friendly entrances and seating, ensuring everyone can enjoy the
+  experience. Happy-hour deals add extra appeal for those looking to unwind,
+  while the menu highlights creative presentations that elevate everyday dining.
+  Whether you're in the mood for expertly crafted rolls or hearty entrees, this
+  spot delivers a memorable blend of tastes in a lively, community-oriented
+  environment.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJnTvHm3SVTYgRmbYn6HGBGXk/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3c0wzOXR3RRAB
@@ -316,6 +341,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNMbkw2WmJnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNMbkw2WmJnEAE!2m1!1s0x884d95749bc73b9d:0x79198171e827b699
+review_summary: >-
+  What Customers Are Raving About$$$Folks around town often highlight the
+  outstanding flavors and generous portions at this sushi hotspot, with many
+  praising the fresh rolls and tasty sides that leave them fully satisfied.
+  Service stands out as friendly and attentive, making meals feel relaxed and
+  enjoyable without any fuss. Diners frequently mention how quickly the food
+  arrives and how well it balances bold tastes with comforting options, turning
+  first-time visits into repeat favorites. Overall, the vibe is upbeat and
+  welcoming, encouraging groups or solo adventurers to come back for more. If
+  you're hunting for reliable, top-notch eats in the area, this place
+  consistently delivers a positive experience that keeps people coming through
+  the doors.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidParkingLot: true
   valetParking: false
@@ -347,8 +385,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Casual eatery serves eclectic offerings including Japanese, Mediterranean,
   Indian & American dishes.
 

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Garage Cocowalk"
+title: Sushi Garage Cocowalk
 permalink: /florida/coconut-grove/sushi-garage-cocowalk.html
 stateAbbr: FL
 stateName: Florida
 cityName: Coconut Grove
 seo:
-  name: "Sushi Garage Cocowalk"
-  type: Restaurant
+  type: restaurant
   links: https://www.sushigarage.com/
-description: "Sushi Garage Cocowalk serves delicious sushi in Coconut Grove, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJJ9VWp6e32YgRVABD8eBz9p0
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: null
 rating: '4.6'
 rating_count: 0
 website: https://www.sushigarage.com/
+description: >-
+  Discover Sushi Garage Cocowalk in Coconut Grove, FL$$$Sushi Garage Cocowalk in
+  Coconut Grove, FL, stands out as a lively spot for enjoying fresh sushi and
+  creative Japanese-inspired dishes in a welcoming environment. This casual
+  eatery highlights flavorful rolls and inventive options that cater to a
+  variety of tastes, making it a go-to choice for those seeking top-rated sushi
+  nearby. The relaxed atmosphere and thoughtful menu additions, like
+  vegetarian-friendly choices, enhance the overall dining experience, perfect
+  for casual meetups or unwinding after a day out. With its vibrant vibe and
+  strong drink selections, it's an ideal destination for anyone exploring sushi
+  restaurants in this charming neighborhood, blending quality ingredients with a
+  laid-back flair.
+generative_summary: >-
+  Discover Sushi Garage Cocowalk in Coconut Grove, FL$$$Sushi Garage Cocowalk in
+  Coconut Grove, FL, stands out as a lively spot for enjoying fresh sushi and
+  creative Japanese-inspired dishes in a welcoming environment. This casual
+  eatery highlights flavorful rolls and inventive options that cater to a
+  variety of tastes, making it a go-to choice for those seeking top-rated sushi
+  nearby. The relaxed atmosphere and thoughtful menu additions, like
+  vegetarian-friendly choices, enhance the overall dining experience, perfect
+  for casual meetups or unwinding after a day out. With its vibrant vibe and
+  strong drink selections, it's an ideal destination for anyone exploring sushi
+  restaurants in this charming neighborhood, blending quality ingredients with a
+  laid-back flair.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJJ9VWp6e32YgRVABD8eBz9p0/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfd2NEemxnRRAB
@@ -412,6 +435,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURnenQ3TWZ3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURnenQ3TWZ3EAE!2m1!1s0x88d9b7a7a756d527:0x9df673e0f1430054
+review_summary: >-
+  What Guests Are Saying About This Sushi Spot$$$Visitors often praise the fresh
+  sushi and tasty specials at this popular spot, noting how the flavorful dishes
+  and creative twists make for a satisfying meal. While some mention occasional
+  waits during busier times, many appreciate the attentive service and welcoming
+  vibe that keep things enjoyable overall. Happy hour deals and strong drinks
+  come highly recommended, adding to the fun for groups looking to relax.
+  Despite a few comments on pricing being a bit steep for certain items, the
+  general consensus highlights it as a solid pick for quality sushi experiences
+  in the area. If you're hunting for reliable sushi places nearby, this location
+  earns high marks for its mix of variety and casual charm.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidParkingLot: true
 payment_options:
@@ -440,7 +475,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

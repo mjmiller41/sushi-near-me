@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Pokerito"
+title: Pokerito
 permalink: /california/visalia/pokerito.html
 stateAbbr: CA
 stateName: California
 cityName: Visalia
 seo:
-  name: "Pokerito"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Pokerito serves delicious sushi in Visalia, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJcwSGWiUvlYARhISVqVDwwKc
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $10 &ndash; $20
 rating: '4.3'
 rating_count: 0
 website: null
+description: >-
+  Discover Pokerito in Visalia, CA$$$Pokerito in Visalia, CA, stands out as a
+  casual Asian restaurant offering a fresh take on Japanese-inspired dishes that
+  appeal to sushi lovers nearby. With its trendy vibe and focus on flavorful
+  poke bowls and udon noodles, this spot delivers a satisfying mix of quality
+  ingredients and customizable options for a relaxed dining experience. The menu
+  highlights affordable Japanese fare that's perfect for those seeking top-rated
+  sushi restaurants in the area, making it an easy choice for a quick and
+  enjoyable meal. Accessibility features like wheelchair-friendly entrances and
+  parking add to its appeal, ensuring everyone can enjoy the welcoming
+  atmosphere without hassle.
+generative_summary: >-
+  Discover Pokerito in Visalia, CA$$$Pokerito in Visalia, CA, stands out as a
+  casual Asian restaurant offering a fresh take on Japanese-inspired dishes that
+  appeal to sushi lovers nearby. With its trendy vibe and focus on flavorful
+  poke bowls and udon noodles, this spot delivers a satisfying mix of quality
+  ingredients and customizable options for a relaxed dining experience. The menu
+  highlights affordable Japanese fare that's perfect for those seeking top-rated
+  sushi restaurants in the area, making it an easy choice for a quick and
+  enjoyable meal. Accessibility features like wheelchair-friendly entrances and
+  parking add to its appeal, ensuring everyone can enjoy the welcoming
+  atmosphere without hassle.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJcwSGWiUvlYARhISVqVDwwKc/reviews/ChdDSUhNMG9nS0VJQ0FnSURYeHYtaTFRRRAB
@@ -340,6 +361,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURsMHJ6Um5nRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURsMHJ6Um5nRRAB!2m1!1s0x80952f255a860473:0xa7c0f050a9958484
+review_summary: >-
+  What Visitors Are Sharing$$$Visitors often praise the freshness and bold
+  flavors of the poke bowls and sushi rolls, making it a go-to for anyone
+  craving a tasty, healthy option. Many appreciate the helpful service that lets
+  you tailor your meal just right, adding a fun twist to the overall experience.
+  While some note minor changes like menu updates, the new additions like
+  appetizers have been a big hit for their quality and value. Overall, folks
+  find it a solid spot for a satisfying lunch or dinner, with generous portions
+  that leave you feeling good about your choice. If you're exploring sushi
+  places near you, this location seems to deliver reliably positive vibes
+  without any major drawbacks.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -372,7 +405,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: null
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

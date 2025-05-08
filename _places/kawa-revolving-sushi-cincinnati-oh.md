@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kawa Revolving Sushi"
+title: Kawa Revolving Sushi
 permalink: /ohio/cincinnati/kawa-revolving-sushi.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Cincinnati
 seo:
-  name: "Kawa Revolving Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Kawa Revolving Sushi serves delicious sushi in Cincinnati, Ohio. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJIetmZgCtQYgR7COIP2LEQUk
 photos:
   - name: >-
@@ -153,6 +151,7 @@ latitude: '39.147091'
 longitude: '-84.427175'
 accessibility_options:
   wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
   wheelchairAccessibleRestroom: true
   wheelchairAccessibleSeating: true
 business_status: OPERATIONAL
@@ -169,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8841ad006666eb21:0x4941c4623f8823ec!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 10:00 PM'
+    - 'Tuesday: 11:00 AM – 10:00 PM'
+    - 'Wednesday: 11:00 AM – 10:00 PM'
+    - 'Thursday: 11:00 AM – 10:00 PM'
+    - 'Friday: 11:00 AM – 10:30 PM'
+    - 'Saturday: 11:00 AM – 10:30 PM'
+    - 'Sunday: 11:30 AM – 9:30 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -178,13 +242,51 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
+phone: (513) 376-9987
 price_level: null
-price_range: null
-rating: null
-rating_count: 0
+price_range: $20 &ndash; $30
+rating: '4.8'
+rating_count: 209
 website: null
+description: >-
+  Discover Kawa Revolving Sushi in Cincinnati, OH$$$Kawa Revolving Sushi in
+  Cincinnati, OH, brings a fresh and innovative approach to Japanese dining with
+  its conveyor belt system delivering a variety of sushi and other dishes
+  directly to your table. This spot stands out for its modern setup that
+  combines convenience with an engaging atmosphere, making it a go-to choice for
+  those seeking authentic flavors in a fun, interactive environment.
+  Accessibility features like wheelchair-friendly parking and entrances ensure
+  everyone can enjoy the experience, while the restaurant's extended hours cater
+  to both lunch crowds and evening diners. With a focus on quality ingredients
+  and creative presentations, it's an ideal destination for exploring top-rated
+  Japanese cuisine options in the area.
+generative_summary: >-
+  Discover Kawa Revolving Sushi in Cincinnati, OH$$$Kawa Revolving Sushi in
+  Cincinnati, OH, brings a fresh and innovative approach to Japanese dining with
+  its conveyor belt system delivering a variety of sushi and other dishes
+  directly to your table. This spot stands out for its modern setup that
+  combines convenience with an engaging atmosphere, making it a go-to choice for
+  those seeking authentic flavors in a fun, interactive environment.
+  Accessibility features like wheelchair-friendly parking and entrances ensure
+  everyone can enjoy the experience, while the restaurant's extended hours cater
+  to both lunch crowds and evening diners. With a focus on quality ingredients
+  and creative presentations, it's an ideal destination for exploring top-rated
+  Japanese cuisine options in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Buzzing About$$$Visitors often rave about the unique vibe
+  at this sushi spot, where fresh rolls and other Japanese favorites glide by on
+  a conveyor belt for a truly entertaining meal. Many appreciate the variety of
+  options beyond sushi, like tasty ramen and fun desserts that add a playful
+  twist to the menu, all at prices that feel just right for the experience. The
+  staff comes across as welcoming and attentive, helping to create a relaxed and
+  enjoyable atmosphere that keeps people coming back. Overall, the innovative
+  elements like automated delivery systems bring a sense of excitement, making
+  it a solid pick for families or groups looking for a casual outing. If you're
+  hunting for great sushi places nearby, this one delivers on both flavor and
+  fun without missing a beat.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +312,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Hana Sushi"
+title: Hana Sushi
 permalink: /virginia/hayes/hana-sushi.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Hayes
 seo:
-  name: "Hana Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://hana-sushi-hayes.edan.io/
-description: "Hana Sushi serves delicious sushi in Hayes, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJ51LhT5uBsIkRx1QnY5MbtNE
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 0
 website: http://hana-sushi-hayes.edan.io/
+description: >-
+  Explore Hana Sushi in Hayes, VA$$$Hana Sushi in Hayes, VA, stands out as a
+  welcoming destination for those seeking fresh sushi and hibachi options in a
+  casual shopping center setting. This spot offers a variety of expertly
+  prepared dishes that highlight the best of Japanese-inspired cuisine, making
+  it ideal for anyone exploring sushi restaurants in the area. With its moderate
+  pricing and accessible features like wheelchair-friendly entrances and
+  parking, it caters to a wide range of diners looking for a relaxed meal. The
+  menu balances flavorful hibachi-cooked entrees with creative sushi selections,
+  perfect for those hunting for top-rated sushi near them. Whether you're in the
+  mood for a quick bite or a full dining experience, this location delivers on
+  quality and convenience in a vibrant community hub.
+generative_summary: >-
+  Explore Hana Sushi in Hayes, VA$$$Hana Sushi in Hayes, VA, stands out as a
+  welcoming destination for those seeking fresh sushi and hibachi options in a
+  casual shopping center setting. This spot offers a variety of expertly
+  prepared dishes that highlight the best of Japanese-inspired cuisine, making
+  it ideal for anyone exploring sushi restaurants in the area. With its moderate
+  pricing and accessible features like wheelchair-friendly entrances and
+  parking, it caters to a wide range of diners looking for a relaxed meal. The
+  menu balances flavorful hibachi-cooked entrees with creative sushi selections,
+  perfect for those hunting for top-rated sushi near them. Whether you're in the
+  mood for a quick bite or a full dining experience, this location delivers on
+  quality and convenience in a vibrant community hub.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ51LhT5uBsIkRx1QnY5MbtNE/reviews/ChdDSUhNMG9nS0VJQ0FnSURiMHE2OHVnRRAB
@@ -340,6 +363,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNWbjVLYllnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNWbjVLYllnEAE!2m1!1s0x89b0819b4fe152e7:0xd1b41b93632754c7
+review_summary: >-
+  Visitor Feedback on This Local Sushi Favorite$$$Visitors often rave about the
+  tasty hibachi and sushi offerings at this spot, praising the entertaining
+  preparation and solid flavors that make every visit memorable. Many appreciate
+  the fair prices and efficient service, which add up to great value for
+  families or groups enjoying a night out. While most feedback highlights the
+  fun atmosphere and delicious meals, a few note occasional inconsistencies in
+  service or dish freshness, keeping expectations realistic. Overall, it's a
+  go-to choice for anyone searching for reliable sushi places near me, with the
+  consensus leaning toward repeat visits for its welcoming vibe. If you're on
+  the hunt for Japanese-inspired dining that's both affordable and enjoyable,
+  this restaurant tends to leave folks satisfied and eager to return.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -373,7 +409,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

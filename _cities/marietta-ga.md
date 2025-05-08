@@ -5,4 +5,5 @@ permalink: /georgia/marietta/
 stateAbbr: GA
 stateName: Georgia
 cityName: Marietta
+
 ---

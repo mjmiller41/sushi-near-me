@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Bonchon Quincy-Newport Ave"
+title: Bonchon Quincy-Newport Ave
 permalink: /massachusetts/quincy/bonchon-quincy-newport-ave.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Quincy
 seo:
-  name: "Bonchon Quincy-Newport Ave"
-  type: Restaurant
+  type: restaurant
   links: https://locations.bonchon.com/ll/US/MA/Quincy/65-Newport-Avenue
-description: "Bonchon Quincy-Newport Ave serves delicious sushi in Quincy, Massachusetts. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ96TrRrZ744kRPkXPH8chf2E
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89e37bb646eba4f7:0x617f21c71fcf453e!10e5
 primary_type: Asian Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 10:00 PM'
     - 'Tuesday: 11:00 AM – 10:00 PM'
     - 'Wednesday: 11:00 AM – 10:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:00 PM'
     - 'Saturday: 11:00 AM – 10:00 PM'
     - 'Sunday: 11:00 AM – 10:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 10:00 PM'
-    - 'Tuesday: 11:00 AM – 10:00 PM'
-    - 'Wednesday: 11:00 AM – 10:00 PM'
-    - 'Thursday: 11:00 AM – 10:00 PM'
-    - 'Friday: 11:00 AM – 10:00 PM'
-    - 'Saturday: 11:00 AM – 10:00 PM'
-    - 'Sunday: 11:00 AM – 10:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +246,47 @@ phone: (617) 657-5008
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.2'
-rating_count: 0
+rating_count: 171
 website: https://locations.bonchon.com/ll/US/MA/Quincy/65-Newport-Avenue
+description: >-
+  Explore Bonchon in Quincy, MA$$$Bonchon Quincy-Newport Ave in Quincy, MA, is a
+  vibrant Asian fusion spot renowned for its flavorful Korean fried chicken and
+  diverse menu of fusion dishes served in a relaxed, welcoming environment. This
+  eatery stands out with its emphasis on crispy, savory specialties that blend
+  traditional Korean flavors with creative twists, making it a go-to for those
+  seeking authentic yet approachable Asian cuisine. The restaurant boasts
+  accessibility features like wheelchair-friendly parking and entrances,
+  ensuring a comfortable visit for all guests, while its extended hours from 11
+  AM to 10 PM daily add to the convenience for casual diners. With a cozy
+  atmosphere and moderate pricing around $20 to $30 per meal, it's an ideal
+  choice for anyone exploring Asian dining options nearby.
+generative_summary: >-
+  Explore Bonchon in Quincy, MA$$$Bonchon Quincy-Newport Ave in Quincy, MA, is a
+  vibrant Asian fusion spot renowned for its flavorful Korean fried chicken and
+  diverse menu of fusion dishes served in a relaxed, welcoming environment. This
+  eatery stands out with its emphasis on crispy, savory specialties that blend
+  traditional Korean flavors with creative twists, making it a go-to for those
+  seeking authentic yet approachable Asian cuisine. The restaurant boasts
+  accessibility features like wheelchair-friendly parking and entrances,
+  ensuring a comfortable visit for all guests, while its extended hours from 11
+  AM to 10 PM daily add to the convenience for casual diners. With a cozy
+  atmosphere and moderate pricing around $20 to $30 per meal, it's an ideal
+  choice for anyone exploring Asian dining options nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback Highlights$$$Visitors to this Asian fusion spot often rave
+  about the tasty soy garlic chicken and hearty bulgogi fried rice, noting how
+  these dishes bring a satisfying mix of flavors to the table. Many appreciate
+  the friendly staff and the spot's clean, inviting vibe, which makes for a
+  pleasant meal whether you're grabbing takeout or dining in. The convenient
+  parking and overall welcoming feel get plenty of nods, helping it stand out as
+  a solid pick for groups or families. While some mention that certain items
+  like the chicken can occasionally feel a bit dry, the positives around variety
+  and service keep the experience feeling worthwhile overall. If you're on the
+  hunt for reliable Asian eats close by, this place delivers a generally
+  enjoyable vibe with room for the occasional tweak.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +312,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

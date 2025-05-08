@@ -5,4 +5,5 @@ permalink: /washington/maple-valley/
 stateAbbr: WA
 stateName: Washington
 cityName: Maple Valley
+
 ---

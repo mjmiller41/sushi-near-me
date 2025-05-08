@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Mizukiyama Sushi"
+title: Mizukiyama Sushi
 permalink: /california/san-diego/mizukiyama-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: San Diego
 seo:
-  name: "Mizukiyama Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://mizukiyama.com/
-description: "Mizukiyama Sushi serves delicious sushi in San Diego, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJSaEtsFQH3IAR4fr577rQSvI
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 0
 website: http://mizukiyama.com/
+description: >-
+  Discover Mizukiyama Sushi in San Diego$$$Mizukiyama Sushi in San Diego, CA,
+  offers a relaxed dining experience focused on fresh, specialty rolls and
+  flavorful small plates that capture the essence of Japanese cuisine. This
+  inviting spot features a variety of options including beer, wine, and sake,
+  making it a go-to choice for those seeking authentic sushi restaurants in the
+  area. With accessible features like wheelchair-friendly entrances and outdoor
+  seating, it's designed for comfortable meals whether you're dining in or
+  enjoying the neighborhood vibe. The menu highlights creative dishes that blend
+  traditional flavors with local influences, appealing to anyone exploring
+  top-rated sushi options nearby.
+generative_summary: >-
+  Discover Mizukiyama Sushi in San Diego$$$Mizukiyama Sushi in San Diego, CA,
+  offers a relaxed dining experience focused on fresh, specialty rolls and
+  flavorful small plates that capture the essence of Japanese cuisine. This
+  inviting spot features a variety of options including beer, wine, and sake,
+  making it a go-to choice for those seeking authentic sushi restaurants in the
+  area. With accessible features like wheelchair-friendly entrances and outdoor
+  seating, it's designed for comfortable meals whether you're dining in or
+  enjoying the neighborhood vibe. The menu highlights creative dishes that blend
+  traditional flavors with local influences, appealing to anyone exploring
+  top-rated sushi options nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJSaEtsFQH3IAR4fr577rQSvI/reviews/ChZDSUhNMG9nS0VJQ0FnTURJdXEtaVRBEAE
@@ -330,6 +351,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQzN1pxSGFREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQzN1pxSGFREAE!2m1!1s0x80dc0754b02da149:0xf24ad0baeff9fae1
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors often rave about the delicious sushi
+  rolls and fresh fish selections, making it a solid pick for anyone craving
+  quality Japanese eats in a casual setting. Many appreciate the friendly
+  service and welcoming atmosphere, which enhance the overall dining experience
+  without overwhelming the senses. Happy hour deals stand out as a great value,
+  allowing folks to enjoy affordable specials and a relaxed vibe, especially
+  during less crowded afternoons. While most feedback highlights the standout
+  dishes and efficient service, a few notes mention that other menu items like
+  ramen might not hit the mark every time. All in all, it's a reliable spot for
+  sushi enthusiasts looking for a positive and enjoyable meal in San Diego.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
 payment_options:
@@ -360,7 +393,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

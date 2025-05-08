@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Roku Las Vegas"
+title: Sushi Roku Las Vegas
 permalink: /nevada/las-vegas/sushi-roku-las-vegas.html
 stateAbbr: NV
 stateName: Nevada
 cityName: Las Vegas
 seo:
-  name: "Sushi Roku Las Vegas"
-  type: Restaurant
+  type: restaurant
   links: https://www.sushiroku.com/
-description: "Sushi Roku Las Vegas serves delicious sushi in Las Vegas, Nevada. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJNfF-iTvEyIARgFN2IABV5Ew
 photos:
   - name: >-
@@ -143,7 +141,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDgsp28Hw!2e10!4m2!3m1!1s0x80c8c43b897ef135:0x4ce4550020765380
 address: 3rd floor, 3500 S Las Vegas Blvd Ste T-18, Las Vegas, NV 89109, USA
-street: 3rd floor, 3500 S Las Vegas Blvd Ste T-18
+street: 3rd floor,3500 S Las Vegas Blvd Ste T-18
 city: Las Vegas
 state: NV
 zip: '89109'
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c8c43b897ef135:0x4ce4550020765380!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 12
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 4:00 – 9:00 PM'
     - 'Tuesday: 4:00 – 9:00 PM'
     - 'Wednesday: 4:00 – 9:00 PM'
@@ -178,54 +234,305 @@ opening_hours:
     - 'Friday: 12:00 – 10:30 PM'
     - 'Saturday: 12:00 – 10:30 PM'
     - 'Sunday: 12:00 – 9:00 PM'
-  current:
-    - 'Monday: 4:00 – 9:00 PM'
-    - 'Tuesday: 4:00 – 9:00 PM'
-    - 'Wednesday: 4:00 – 9:00 PM'
-    - 'Thursday: 4:00 – 9:00 PM'
-    - 'Friday: 12:00 – 10:30 PM'
-    - 'Saturday: 12:00 – 10:30 PM'
-    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T05:30:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: false
+    periods:
+      - open:
+          day: 0
+          hour: 16
+          minute: 0
+        close:
+          day: 0
+          hour: 18
+          minute: 0
+      - open:
+          day: 1
+          hour: 16
+          minute: 0
+        close:
+          day: 1
+          hour: 18
+          minute: 0
+      - open:
+          day: 2
+          hour: 16
+          minute: 0
+        close:
+          day: 2
+          hour: 18
+          minute: 0
+      - open:
+          day: 3
+          hour: 16
+          minute: 0
+        close:
+          day: 3
+          hour: 18
+          minute: 0
+      - open:
+          day: 4
+          hour: 16
+          minute: 0
+        close:
+          day: 4
+          hour: 18
+          minute: 0
+      - open:
+          day: 5
+          hour: 16
+          minute: 0
+        close:
+          day: 5
+          hour: 18
+          minute: 0
+      - open:
+          day: 6
+          hour: 16
+          minute: 0
+        close:
+          day: 6
+          hour: 18
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 4:00 – 6:00 PM'
+      - 'Tuesday: 4:00 – 6:00 PM'
+      - 'Wednesday: 4:00 – 6:00 PM'
+      - 'Thursday: 4:00 – 6:00 PM'
+      - 'Friday: 4:00 – 6:00 PM'
+      - 'Saturday: 4:00 – 6:00 PM'
+      - 'Sunday: 4:00 – 6:00 PM'
+    secondaryHoursType: HAPPY_HOUR
+    nextOpenTime: '2025-05-03T23:00:00Z'
 phone: (702) 733-7373
 price_level: PRICE_LEVEL_EXPENSIVE
 price_range: $50 &ndash; $100
 rating: '4.5'
-rating_count: 0
+rating_count: 1395
 website: https://www.sushiroku.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Sushi Roku in Las Vegas, NV$$$Sushi Roku in Las Vegas, NV, stands out
+  as a trendy destination for modern Japanese dining, nestled within the vibrant
+  Forum Shops. This spot offers an array of fresh sushi and creative cocktails
+  that blend traditional flavors with innovative twists, making it a go-to for
+  those seeking elevated Japanese cuisine. The restaurant boasts a contemporary
+  atmosphere with stunning views of the strip, complemented by thoughtful
+  accessibility features like wheelchair-friendly entrances and seating. Its
+  operational hours cater to both daytime and evening visits, ensuring options
+  for casual lunches or relaxed dinners. With a focus on high-quality
+  ingredients and a welcoming vibe, it's an ideal choice for anyone exploring
+  top sushi options in the area.
+generative_summary: >-
+  Discover Sushi Roku in Las Vegas, NV$$$Sushi Roku in Las Vegas, NV, stands out
+  as a trendy destination for modern Japanese dining, nestled within the vibrant
+  Forum Shops. This spot offers an array of fresh sushi and creative cocktails
+  that blend traditional flavors with innovative twists, making it a go-to for
+  those seeking elevated Japanese cuisine. The restaurant boasts a contemporary
+  atmosphere with stunning views of the strip, complemented by thoughtful
+  accessibility features like wheelchair-friendly entrances and seating. Its
+  operational hours cater to both daytime and evening visits, ensuring options
+  for casual lunches or relaxed dinners. With a focus on high-quality
+  ingredients and a welcoming vibe, it's an ideal choice for anyone exploring
+  top sushi options in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJNfF-iTvEyIARgFN2IABV5Ew/reviews/ChdDSUhNMG9nS0VJQ0FnTUNvMjZ2cG93RRAB
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        Simply top notch, short noticed vegetarian Omakase delivered by the
+        Chefs!!! Management team is superb and listened to our request!!! The
+        pricing is very reasonable for the area! All of the dishes were
+        different and unique in many ways! The taste buds took over right away
+        and we could feel the passion and love in creating dishes!
+      languageCode: en
+    originalText:
+      text: >-
+        Simply top notch, short noticed vegetarian Omakase delivered by the
+        Chefs!!! Management team is superb and listened to our request!!! The
+        pricing is very reasonable for the area! All of the dishes were
+        different and unique in many ways! The taste buds took over right away
+        and we could feel the passion and love in creating dishes!
+      languageCode: en
+    authorAttribution:
+      displayName: Nirav Patel
+      uri: https://www.google.com/maps/contrib/113836405425014341092/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLY1FaCn4xRwNX0kj-gZpX0bjFY18YPCc-ylIe8SOPeg2W78A=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-20T06:08:19.702817Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNvMjZ2cG93RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNvMjZ2cG93RRAB!2m1!1s0x80c8c43b897ef135:0x4ce4550020765380
+  - name: >-
+      places/ChIJNfF-iTvEyIARgFN2IABV5Ew/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3MV82RmVBEAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Very neat find. Lower key due to being on the second floor of the mall
+        in Caesar’s Palace, but glad I found it. Outstanding rolls made fresh
+        and very quickly. Excellent portions for the $20ish per roll cost.
+        Relatively healthy food options. Great service. Ticked off all my boxes
+        excellently. Will be back if I’m in the Strip again.
+      languageCode: en
+    originalText:
+      text: >-
+        Very neat find. Lower key due to being on the second floor of the mall
+        in Caesar’s Palace, but glad I found it. Outstanding rolls made fresh
+        and very quickly. Excellent portions for the $20ish per roll cost.
+        Relatively healthy food options. Great service. Ticked off all my boxes
+        excellently. Will be back if I’m in the Strip again.
+      languageCode: en
+    authorAttribution:
+      displayName: Chris McEwen
+      uri: https://www.google.com/maps/contrib/114799532864512966546/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWBvBr0eCP4POdbi2kGgziiDuq3gM_xQr9ox11gtmOYBgZFXEUH=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-03-28T21:56:27.680315Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUR3MV82RmVBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUR3MV82RmVBEAE!2m1!1s0x80c8c43b897ef135:0x4ce4550020765380
+  - name: >-
+      places/ChIJNfF-iTvEyIARgFN2IABV5Ew/reviews/ChdDSUhNMG9nS0VJQ0FnTUNnMGN5VDVBRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        Sushi Roku at the Ceasars Palace forum shops is by far my top choice for
+        sushi. The forum shops Valet is very inexpensive so parking is great!
+        This restaurant has an amazing view of the strip. Great atmosphere and
+        excellent service! Our waitress was very attentive.  The drinks and
+        sushi... perfectly crafted! Amazing flavors. Every dish was a hit! I
+        highly recommend this place! Perfect for dates, business meetings, or
+        solo. I will definitely become a regular here.
+      languageCode: en
+    originalText:
+      text: >-
+        Sushi Roku at the Ceasars Palace forum shops is by far my top choice for
+        sushi. The forum shops Valet is very inexpensive so parking is great!
+        This restaurant has an amazing view of the strip. Great atmosphere and
+        excellent service! Our waitress was very attentive.  The drinks and
+        sushi... perfectly crafted! Amazing flavors. Every dish was a hit! I
+        highly recommend this place! Perfect for dates, business meetings, or
+        solo. I will definitely become a regular here.
+      languageCode: en
+    authorAttribution:
+      displayName: David LLoyd
+      uri: https://www.google.com/maps/contrib/116979631905864539558/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXNpRSYi3KcwZMKVt_Z56ooNP-I7j0OUE_h1XL98WGF_obDH7v8=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-02-18T06:45:33.782708Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNnMGN5VDVBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNnMGN5VDVBRRAB!2m1!1s0x80c8c43b897ef135:0x4ce4550020765380
+  - name: >-
+      places/ChIJNfF-iTvEyIARgFN2IABV5Ew/reviews/ChZDSUhNMG9nS0VJQ0FnTURnc3AyOEx3EAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 4
+    text:
+      text: >-
+        Went in on a Saturday night for a quick meal. Seated for 2 at the bar so
+        we didn’t have to wait we ordered a sushi plate, spicy salmon crispy
+        rice, spicy tuna tempura and 2 cocktails. Was beautifully presented and
+        the cocktails were tasty. Would recommend for sushi in the Forum Shops.
+        $150 for 2 people seemed reasonable for Vegas.
+      languageCode: en
+    originalText:
+      text: >-
+        Went in on a Saturday night for a quick meal. Seated for 2 at the bar so
+        we didn’t have to wait we ordered a sushi plate, spicy salmon crispy
+        rice, spicy tuna tempura and 2 cocktails. Was beautifully presented and
+        the cocktails were tasty. Would recommend for sushi in the Forum Shops.
+        $150 for 2 people seemed reasonable for Vegas.
+      languageCode: en
+    authorAttribution:
+      displayName: Jess Flower
+      uri: https://www.google.com/maps/contrib/109892917018146757394/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXWd5E3JNqd0MJsqff3oOd31nful2cT7X63wd9HyNLlA4Eo60qA=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2025-02-23T19:48:22.574267Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURnc3AyOEx3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURnc3AyOEx3EAE!2m1!1s0x80c8c43b897ef135:0x4ce4550020765380
+  - name: >-
+      places/ChIJNfF-iTvEyIARgFN2IABV5Ew/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJblBMdGFnEAE
+    relativePublishTimeDescription: a month ago
+    rating: 4
+    text:
+      text: >-
+        The quality of the fish was pretty good and I think the food was
+        delicious and creative in general. The price is definitely high,
+        considering their location. Our server was nice and attentive.
+      languageCode: en
+    originalText:
+      text: >-
+        The quality of the fish was pretty good and I think the food was
+        delicious and creative in general. The price is definitely high,
+        considering their location. Our server was nice and attentive.
+      languageCode: en
+    authorAttribution:
+      displayName: Jade Tran
+      uri: https://www.google.com/maps/contrib/101785351062409769090/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXQ_39Wtu_-3SDVg6bbXKo5PnBlb-n0WplPVUMJ6NPjyW1Dexqe9Q=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-03-31T04:13:32.582627Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNJblBMdGFnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNJblBMdGFnEAE!2m1!1s0x80c8c43b897ef135:0x4ce4550020765380
+review_summary: >-
+  What Customers Are Saying$$$Folks frequently highlight the fresh and inventive
+  sushi rolls that deliver a burst of flavors without breaking the bank for
+  Vegas standards, making it a solid pick for a satisfying meal. Many appreciate
+  the attentive service and quick preparation that enhance the overall dining
+  experience, turning even quick visits into memorable ones. Reviewers often
+  note the reasonable portions and creative presentations that keep things
+  exciting, while praising the atmosphere as perfect for groups or dates.
+  Overall, the feedback leans positive, with people enjoying the balance of
+  quality and value that encourages return trips. If you're hunting for reliable
+  sushi spots nearby, this place consistently delivers a welcoming and enjoyable
+  vibe that lives up to expectations.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  paidParkingLot: true
+  valetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+curbside_pickup: false
+delivery: true
+dine_in: true
+good_for_children: false
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
+serves_coffee: true
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Bustling operation serving up innovative Japanese fare & drinks amid modern
+  decor.
 
 ---

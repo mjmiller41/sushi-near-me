@@ -5,4 +5,5 @@ permalink: /pennsylvania/hummelstown/
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Hummelstown
+
 ---

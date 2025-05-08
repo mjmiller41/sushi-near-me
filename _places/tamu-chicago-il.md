@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Tamu"
+title: Tamu
 permalink: /illinois/chicago/tamu.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
 seo:
-  name: "Tamu"
-  type: Restaurant
+  type: restaurant
   links: http://www.tamuchicago.com/
-description: "Tamu serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJraCdEL8tDogRa4y7zMZKy_Q
 photos:
   - name: >-
@@ -169,36 +167,169 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x880e2dbf109da0ad:0xf4cb4ac6ccbb8c6b!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
-    - 'Monday: 11:30 AM – 10:00 PM'
-    - 'Tuesday: 11:30 AM – 10:00 PM'
-    - 'Wednesday: 11:30 AM – 10:00 PM'
-    - 'Thursday: 11:30 AM – 10:00 PM'
-    - 'Friday: 11:30 AM – 10:00 PM'
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 16
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 5
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 16
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:30 AM – 2:30 PM, 5:00 – 10:00 PM'
+    - 'Tuesday: 11:30 AM – 2:30 PM, 5:00 – 10:00 PM'
+    - 'Wednesday: 5:00 AM – 10:00 PM'
+    - 'Thursday: 11:30 AM – 2:30 PM, 5:00 – 10:00 PM'
+    - 'Friday: 11:30 AM – 2:30 PM, 5:00 – 10:00 PM'
     - 'Saturday: 4:00 – 10:00 PM'
     - 'Sunday: 4:00 – 9:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 10:00 PM'
-    - 'Tuesday: 11:30 AM – 10:00 PM'
-    - 'Wednesday: 11:30 AM – 10:00 PM'
-    - 'Thursday: 11:30 AM – 10:00 PM'
-    - 'Friday: 11:30 AM – 10:00 PM'
-    - 'Saturday: 4:00 – 10:00 PM'
-    - 'Sunday: 4:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: false
+    periods:
+      - open:
+          day: 0
+          hour: 17
+          minute: 0
+        close:
+          day: 0
+          hour: 21
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: Closed'
+      - 'Tuesday: Closed'
+      - 'Wednesday: Closed'
+      - 'Thursday: Closed'
+      - 'Friday: Closed'
+      - 'Saturday: Closed'
+      - 'Sunday: 5:00 – 9:00 PM'
+    secondaryHoursType: HAPPY_HOUR
+    nextOpenTime: '2025-05-04T22:00:00Z'
 phone: (312) 248-8833
 price_level: null
 price_range: $100 &ndash; & up
 rating: '4.7'
-rating_count: 0
+rating_count: 112
 website: http://www.tamuchicago.com/
+description: >-
+  Discover Tamu in Chicago, IL$$$Tamu in Chicago, IL, is a standout sushi
+  restaurant that brings a fresh, modern vibe to Japanese dining with its array
+  of hand rolls and omakase options. This spot excels in serving up creative
+  Japanese small plates alongside a selection of cocktails and sake, making it a
+  go-to for those exploring sushi restaurants in the area. Its accessible
+  features, like wheelchair-friendly entrances, ensure a welcoming experience
+  for all diners seeking quality meals. The Fulton Market location adds to the
+  appeal, offering an intimate setting perfect for enjoying top-rated sushi
+  close to me. Whether you're in the mood for innovative flavors or a casual
+  night out, Tamu delivers an authentic taste of Japanese cuisine that keeps
+  locals coming back.
+generative_summary: >-
+  Discover Tamu in Chicago, IL$$$Tamu in Chicago, IL, is a standout sushi
+  restaurant that brings a fresh, modern vibe to Japanese dining with its array
+  of hand rolls and omakase options. This spot excels in serving up creative
+  Japanese small plates alongside a selection of cocktails and sake, making it a
+  go-to for those exploring sushi restaurants in the area. Its accessible
+  features, like wheelchair-friendly entrances, ensure a welcoming experience
+  for all diners seeking quality meals. The Fulton Market location adds to the
+  appeal, offering an intimate setting perfect for enjoying top-rated sushi
+  close to me. Whether you're in the mood for innovative flavors or a casual
+  night out, Tamu delivers an authentic taste of Japanese cuisine that keeps
+  locals coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$If you're hunting for the best sushi near me, folks
+  often highlight the fresh fish and tasty hand rolls that make dining here a
+  real treat. Many appreciate the omakase offerings and how they pair well with
+  sake, creating a memorable meal without any fuss. The staff's warm hospitality
+  and the cozy, elegant atmosphere get plenty of nods, adding to the overall
+  charm of the place. Reviewers frequently note it's a solid pick for sushi
+  lovers looking for something special in a relaxed setting. All in all, it's
+  praised as a reliable spot among Japanese places near me, with positive vibes
+  that make it worth a visit.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -224,7 +355,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

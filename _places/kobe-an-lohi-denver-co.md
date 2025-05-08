@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kobe An LoHi"
+title: Kobe An LoHi
 permalink: /colorado/denver/kobe-an-lohi.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Denver
 seo:
-  name: "Kobe An LoHi"
-  type: Restaurant
+  type: restaurant
   links: http://www.kobeandenver.com/
-description: "Kobe An LoHi serves delicious sushi in Denver, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJG75Zu-14bIcRXbDz7FeV1No
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x876c78edbb59be1b:0xdad49557ecf3b05d!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 16
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 4:30 – 9:30 PM'
     - 'Tuesday: 4:30 – 9:30 PM'
     - 'Wednesday: 4:30 – 9:30 PM'
@@ -178,54 +226,320 @@ opening_hours:
     - 'Friday: 4:30 – 10:00 PM'
     - 'Saturday: 4:30 – 10:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 4:30 – 9:30 PM'
-    - 'Tuesday: 4:30 – 9:30 PM'
-    - 'Wednesday: 4:30 – 9:30 PM'
-    - 'Thursday: 4:30 – 9:30 PM'
-    - 'Friday: 4:30 – 10:00 PM'
-    - 'Saturday: 4:30 – 10:00 PM'
-    - 'Sunday: Closed'
+  nextOpenTime: '2025-05-03T22:30:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: false
+    periods:
+      - open:
+          day: 1
+          hour: 16
+          minute: 30
+        close:
+          day: 1
+          hour: 18
+          minute: 30
+      - open:
+          day: 2
+          hour: 16
+          minute: 30
+        close:
+          day: 2
+          hour: 18
+          minute: 30
+      - open:
+          day: 3
+          hour: 16
+          minute: 30
+        close:
+          day: 3
+          hour: 18
+          minute: 30
+      - open:
+          day: 4
+          hour: 16
+          minute: 30
+        close:
+          day: 4
+          hour: 18
+          minute: 30
+      - open:
+          day: 5
+          hour: 16
+          minute: 30
+        close:
+          day: 5
+          hour: 18
+          minute: 30
+      - open:
+          day: 6
+          hour: 16
+          minute: 30
+        close:
+          day: 6
+          hour: 18
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 4:30 – 6:30 PM'
+      - 'Tuesday: 4:30 – 6:30 PM'
+      - 'Wednesday: 4:30 – 6:30 PM'
+      - 'Thursday: 4:30 – 6:30 PM'
+      - 'Friday: 4:30 – 6:30 PM'
+      - 'Saturday: 4:30 – 6:30 PM'
+      - 'Sunday: Closed'
+    secondaryHoursType: HAPPY_HOUR
+    nextOpenTime: '2025-05-03T22:30:00Z'
 phone: (303) 284-6342
 price_level: PRICE_LEVEL_MODERATE
 price_range: $50 &ndash; $100
 rating: '4.4'
-rating_count: 0
+rating_count: 461
 website: http://www.kobeandenver.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Kobe An LoHi in Denver, CO$$$Kobe An LoHi in Denver, CO, stands out
+  as a welcoming Japanese eatery that blends casual vibes with authentic
+  flavors, making it a go-to spot for sushi enthusiasts in the area. This spot
+  offers an array of all-you-can-eat options like shabu-shabu and fresh sushi
+  rolls, complemented by unique dishes such as Kobe beef ramen sliders, all set
+  in a natural environment with wooden accents and an enclosed patio for a
+  relaxed dining experience. Accessibility features like wheelchair-friendly
+  entrances and seating ensure it's inclusive for all visitors, while the
+  outdoor options add to its charm on milder days. Whether you're exploring
+  sushi restaurants nearby or seeking Japanese places in the city, this location
+  delivers a balance of tradition and convenience that appeals to both locals
+  and travelers.
+generative_summary: >-
+  Discover Kobe An LoHi in Denver, CO$$$Kobe An LoHi in Denver, CO, stands out
+  as a welcoming Japanese eatery that blends casual vibes with authentic
+  flavors, making it a go-to spot for sushi enthusiasts in the area. This spot
+  offers an array of all-you-can-eat options like shabu-shabu and fresh sushi
+  rolls, complemented by unique dishes such as Kobe beef ramen sliders, all set
+  in a natural environment with wooden accents and an enclosed patio for a
+  relaxed dining experience. Accessibility features like wheelchair-friendly
+  entrances and seating ensure it's inclusive for all visitors, while the
+  outdoor options add to its charm on milder days. Whether you're exploring
+  sushi restaurants nearby or seeking Japanese places in the city, this location
+  delivers a balance of tradition and convenience that appeals to both locals
+  and travelers.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJG75Zu-14bIcRXbDz7FeV1No/reviews/ChdDSUhNMG9nS0VJQ0FnTUNveVlxbHBBRRAB
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 3
+    text:
+      text: >-
+        The sushi was fantastic, definitely get the toro and Kobe ramen slider!!
+        Hot pot? Not as much of a fan, wouldn’t return for it. It’s just not
+        enough flavor and not as many vegetable choices. We ordered the
+        unlimited but weren’t very enticed to continue eating. To complete the
+        compliment sandwich though, service was lovely and atmosphere is cozy!
+      languageCode: en
+    originalText:
+      text: >-
+        The sushi was fantastic, definitely get the toro and Kobe ramen slider!!
+        Hot pot? Not as much of a fan, wouldn’t return for it. It’s just not
+        enough flavor and not as many vegetable choices. We ordered the
+        unlimited but weren’t very enticed to continue eating. To complete the
+        compliment sandwich though, service was lovely and atmosphere is cozy!
+      languageCode: en
+    authorAttribution:
+      displayName: Maxine Paschal
+      uri: https://www.google.com/maps/contrib/116948983846116941499/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXqd9gSSDTeHeB6gEY9IbAisqUgRqyGS-ZFr1gZ18_YCwqsdwEc=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-04-18T02:41:56.809492Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNveVlxbHBBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNveVlxbHBBRRAB!2m1!1s0x876c78edbb59be1b:0xdad49557ecf3b05d
+  - name: >-
+      places/ChIJG75Zu-14bIcRXbDz7FeV1No/reviews/ChZDSUhNMG9nS0VJQ0FnTURvanZfTlhREAE
+    relativePublishTimeDescription: a week ago
+    rating: 1
+    text:
+      text: >-
+        Can you please update your menu? I wanted to go here tonight because I
+        enjoyed it last time  (2.5 years ago). However, my friend is refusing to
+        even try your hot pot solely based on the fact that you don't list the
+        vegetable options available🤷🏼‍♀️
+      languageCode: en
+    originalText:
+      text: >-
+        Can you please update your menu? I wanted to go here tonight because I
+        enjoyed it last time  (2.5 years ago). However, my friend is refusing to
+        even try your hot pot solely based on the fact that you don't list the
+        vegetable options available🤷🏼‍♀️
+      languageCode: en
+    authorAttribution:
+      displayName: Lee
+      uri: https://www.google.com/maps/contrib/108980118704705762902/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVrZeoO6k6hmgr7HQG8mAw17HZ5ojqAZdMnwBcRaxNPFF6qCjvNpA=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-24T22:00:02.633328Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURvanZfTlhREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURvanZfTlhREAE!2m1!1s0x876c78edbb59be1b:0xdad49557ecf3b05d
+  - name: >-
+      places/ChIJG75Zu-14bIcRXbDz7FeV1No/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRajhHdFBnEAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        My son and I celebrated his 21st birthday here and we had an amazing
+        experience. The food was delicious. The server Iliana was very attentive
+        and very sweet and kind. I would recommend to anyone. It was our first
+        time eating at a sushi restaurant and the server helped us decide on
+        some amazing sushi and hot pot. Loved it!
+      languageCode: en
+    originalText:
+      text: >-
+        My son and I celebrated his 21st birthday here and we had an amazing
+        experience. The food was delicious. The server Iliana was very attentive
+        and very sweet and kind. I would recommend to anyone. It was our first
+        time eating at a sushi restaurant and the server helped us decide on
+        some amazing sushi and hot pot. Loved it!
+      languageCode: en
+    authorAttribution:
+      displayName: Laura Canales
+      uri: https://www.google.com/maps/contrib/103200635875445987226/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXW41CGBi4K4pM36lLl9C-EMeLriXL-8FB-JGv748c6LTFcqUTh=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-08T01:47:05.672921Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNRajhHdFBnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNRajhHdFBnEAE!2m1!1s0x876c78edbb59be1b:0xdad49557ecf3b05d
+  - name: >-
+      places/ChIJG75Zu-14bIcRXbDz7FeV1No/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3d0lhU3R3RRAB
+    relativePublishTimeDescription: a month ago
+    rating: 2
+    text:
+      text: >-
+        Food was okay, but I don’t remember any overwhelmingly delicious
+        flavors. It was all really overshadowed by the service. I’ve been in the
+        service industry for a while and have had my share of bad days, but the
+        service here was probably one of the most unfriendly experiences I’ve
+        had in Denver in a while. We sat at the bar. I sat for a while before
+        the bartender greeted me, and she was no more than two feet from me the
+        entire time. Someone else actually got us water… and utensils - which we
+        had to ask for and that server didn’t say anything either, not even when
+        we said “thank you”. When we ordered, there was barely an
+        acknowledgement that we’d said anything so I wasn’t even sure she got
+        our order in until food came out. Maybe the staff doesn’t care about
+        service because there’s an automatic service charge, but given that’s
+        shared amongst front and back of house (and probably management), I
+        doubt that’s the case. Overall, a very strange and disappointing
+        experience.
+      languageCode: en
+    originalText:
+      text: >-
+        Food was okay, but I don’t remember any overwhelmingly delicious
+        flavors. It was all really overshadowed by the service. I’ve been in the
+        service industry for a while and have had my share of bad days, but the
+        service here was probably one of the most unfriendly experiences I’ve
+        had in Denver in a while. We sat at the bar. I sat for a while before
+        the bartender greeted me, and she was no more than two feet from me the
+        entire time. Someone else actually got us water… and utensils - which we
+        had to ask for and that server didn’t say anything either, not even when
+        we said “thank you”. When we ordered, there was barely an
+        acknowledgement that we’d said anything so I wasn’t even sure she got
+        our order in until food came out. Maybe the staff doesn’t care about
+        service because there’s an automatic service charge, but given that’s
+        shared amongst front and back of house (and probably management), I
+        doubt that’s the case. Overall, a very strange and disappointing
+        experience.
+      languageCode: en
+    authorAttribution:
+      displayName: Meghan White
+      uri: https://www.google.com/maps/contrib/111474072784033054125/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXkTXrKXXlAo8Rk6AOZ77auWT525j43_1tODnVd6PjX4vvEFOo=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-03-22T14:10:53.034294Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUR3d0lhU3R3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUR3d0lhU3R3RRAB!2m1!1s0x876c78edbb59be1b:0xdad49557ecf3b05d
+  - name: >-
+      places/ChIJG75Zu-14bIcRXbDz7FeV1No/reviews/ChZDSUhNMG9nS0VJQ0FnSUNOelBpVmNREAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        Kobe An LoHi in Denver, Colorado, delivers an outstanding dining
+        experience with its exquisite Japanese cuisine. The menu showcases a
+        variety of dishes made with fresh, top-notch ingredients. The inviting
+        ambiance, coupled with the friendly and attentive staff, makes dining at
+        Kobe An LoHi in Denver truly memorable. I enthusiastically recommend it
+        to anyone seeking a taste of Japanese culinary excellence in the heart
+        of Colorado.
+      languageCode: en
+    originalText:
+      text: >-
+        Kobe An LoHi in Denver, Colorado, delivers an outstanding dining
+        experience with its exquisite Japanese cuisine. The menu showcases a
+        variety of dishes made with fresh, top-notch ingredients. The inviting
+        ambiance, coupled with the friendly and attentive staff, makes dining at
+        Kobe An LoHi in Denver truly memorable. I enthusiastically recommend it
+        to anyone seeking a taste of Japanese culinary excellence in the heart
+        of Colorado.
+      languageCode: en
+    authorAttribution:
+      displayName: David Stotts
+      uri: https://www.google.com/maps/contrib/117380046856461098531/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVV0z7KMHUpZT2IH9lcSRLOVHZB-HbFGFm0rTY4taRTbLmThRT1=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-01-12T15:50:23.939730Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNOelBpVmNREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNOelBpVmNREAE!2m1!1s0x876c78edbb59be1b:0xdad49557ecf3b05d
+review_summary: >-
+  What Visitors Are Buzzing About$$$Folks often rave about the standout sushi
+  and ramen selections, noting how they bring bold flavors that make for a
+  satisfying meal, especially for first-timers or groups celebrating special
+  moments. While some mention the hot pot could use more variety and punch in
+  its taste, the overall atmosphere keeps things cozy and enjoyable, with many
+  appreciating the attentive service that enhances the vibe. It's clear that the
+  unlimited options draw people in for a fun, interactive dining experience,
+  though a few suggest improvements like better menu details to avoid any
+  confusion. All in all, this spot maintains a solid reputation for fresh
+  Japanese fare, making it worth trying if you're on the hunt for reliable sushi
+  near you, as long as you go in with realistic expectations for the full menu.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
+delivery: true
+dine_in: true
+good_for_children: false
+good_for_groups: true
+good_for_sports: true
+live_music: false
+menu_for_children: false
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
 serves_brunch: null
-serves_cocktails: null
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Japanese eatery serving shabu-shabu & sukiyaki in a natural setting with wood
+  & an enclosed patio.
 
 ---

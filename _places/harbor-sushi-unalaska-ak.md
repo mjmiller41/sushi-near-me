@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Harbor Sushi"
+title: Harbor Sushi
 permalink: /alaska/unalaska/harbor-sushi.html
 stateAbbr: AK
 stateName: Alaska
 cityName: Unalaska
 seo:
-  name: "Harbor Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.grandaleutian.com/food-drink/
-description: "Harbor Sushi serves delicious sushi in Unalaska, Alaska. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJNy9XsTW3q1cRICMZ63ynUgk
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x57abb735b1572f37:0x952a77ceb192320!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 5:00 – 10:00 PM'
     - 'Tuesday: 5:00 – 10:00 PM'
     - 'Wednesday: 5:00 – 10:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 5:00 – 10:00 PM'
     - 'Saturday: 5:00 – 10:00 PM'
     - 'Sunday: 5:00 – 9:00 PM'
-  current:
-    - 'Monday: 5:00 – 10:00 PM'
-    - 'Tuesday: 5:00 – 10:00 PM'
-    - 'Wednesday: 5:00 – 10:00 PM'
-    - 'Thursday: 5:00 – 10:00 PM'
-    - 'Friday: 5:00 – 10:00 PM'
-    - 'Saturday: 5:00 – 10:00 PM'
-    - 'Sunday: 5:00 – 9:00 PM'
+  nextOpenTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +246,45 @@ phone: (907) 581-7191
 price_level: null
 price_range: $20 &ndash; $30
 rating: '4.4'
-rating_count: 0
+rating_count: 78
 website: https://www.grandaleutian.com/food-drink/
+description: >-
+  Discover Harbor Sushi in Unalaska, AK$$$Harbor Sushi in Unalaska, AK, stands
+  out as a laid-back destination for those seeking fresh Japanese-inspired
+  cuisine with a unique American twist. This spot offers an array of expertly
+  prepared sushi rolls, paired with a selection of beer and wine, making it
+  ideal for casual meals or relaxed evenings. Patrons can enjoy the convenience
+  of free Wi-Fi while savoring the flavorful dishes in a welcoming atmosphere.
+  The restaurant prioritizes accessibility, ensuring a comfortable experience
+  for all visitors. For anyone exploring sushi restaurants near you, this
+  location combines quality dining with practical amenities in a remote yet
+  vibrant setting.
+generative_summary: >-
+  Discover Harbor Sushi in Unalaska, AK$$$Harbor Sushi in Unalaska, AK, stands
+  out as a laid-back destination for those seeking fresh Japanese-inspired
+  cuisine with a unique American twist. This spot offers an array of expertly
+  prepared sushi rolls, paired with a selection of beer and wine, making it
+  ideal for casual meals or relaxed evenings. Patrons can enjoy the convenience
+  of free Wi-Fi while savoring the flavorful dishes in a welcoming atmosphere.
+  The restaurant prioritizes accessibility, ensuring a comfortable experience
+  for all visitors. For anyone exploring sushi restaurants near you, this
+  location combines quality dining with practical amenities in a remote yet
+  vibrant setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Customer Feedback$$$Visitors to Harbor Sushi often highlight the
+  consistently high-quality sushi and welcoming vibe, reflected in its strong
+  overall rating. Many appreciate the fresh flavors and creative takes on
+  classic rolls, making it a go-to choice for anyone craving reliable
+  Japanese-style options in the area. Feedback frequently notes the friendly
+  service and solid beverage selections, adding to the enjoyable dining
+  experience without any major drawbacks. While some mention occasional wait
+  times during peak hours, the general consensus leans positive, with folks
+  enjoying it as a top-rated spot for casual get-togethers. If you're on the
+  hunt for the best sushi near me, this place delivers a satisfying meal that's
+  worth the visit.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +310,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

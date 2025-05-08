@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Fuji Sushi"
+title: Fuji Sushi
 permalink: /pennsylvania/bloomsburg/fuji-sushi.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Bloomsburg
 seo:
-  name: "Fuji Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.fujibloomsburg.com/8xsfl32e/restaurant/order-online
-description: "Fuji Sushi serves delicious sushi in Bloomsburg, Pennsylvania. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJvbl9joWHxYkRVizj9Qp9AUE
 photos:
   - name: >-
@@ -167,7 +165,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c587858e7db9bd:0x41017d0af5e32c56!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -175,14 +223,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:30 PM'
     - 'Saturday: 11:00 AM – 9:30 PM'
     - 'Sunday: 11:00 AM – 9:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 9:30 PM'
-    - 'Saturday: 11:00 AM – 9:30 PM'
-    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T01:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -194,9 +235,45 @@ phone: (570) 784-5674
 price_level: null
 price_range: $20 &ndash; $30
 rating: '4.7'
-rating_count: 0
+rating_count: 17
 website: https://www.fujibloomsburg.com/8xsfl32e/restaurant/order-online
+description: >-
+  Explore Fuji Sushi in Bloomsburg, PA$$$Fuji Sushi in Bloomsburg, PA, stands
+  out as a welcoming sushi restaurant offering a delightful array of fresh
+  Japanese-inspired dishes that cater to various tastes. With its focus on
+  high-quality ingredients, visitors can enjoy flavorful options like expertly
+  prepared rolls, hearty ramen, and a selection of appetizers that highlight
+  seasonal flavors and creative presentations. The spot provides accessible
+  features such as wheelchair-friendly parking, making it convenient for
+  everyone to savor authentic sushi experiences in a relaxed setting. Operating
+  with extended hours on weekends, it serves as a go-to choice for those seeking
+  reliable Japanese places near me, blending affordability with attentive
+  service that enhances every meal.
+generative_summary: >-
+  Explore Fuji Sushi in Bloomsburg, PA$$$Fuji Sushi in Bloomsburg, PA, stands
+  out as a welcoming sushi restaurant offering a delightful array of fresh
+  Japanese-inspired dishes that cater to various tastes. With its focus on
+  high-quality ingredients, visitors can enjoy flavorful options like expertly
+  prepared rolls, hearty ramen, and a selection of appetizers that highlight
+  seasonal flavors and creative presentations. The spot provides accessible
+  features such as wheelchair-friendly parking, making it convenient for
+  everyone to savor authentic sushi experiences in a relaxed setting. Operating
+  with extended hours on weekends, it serves as a go-to choice for those seeking
+  reliable Japanese places near me, blending affordability with attentive
+  service that enhances every meal.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback on Fuji Sushi$$$Folks often rave about the tasty sushi and
+  ramen at this spot, noting how the appetizers like egg rolls and salads add a
+  fun variety to the menu without breaking the bank. Many appreciate the solid
+  value for money, with meals coming in at a reasonable price that keeps diners
+  coming back for more. Service stands out as friendly and efficient, creating a
+  comfortable vibe that makes it easy to enjoy a casual outing. Overall, it's
+  clear that the combination of fresh flavors and welcoming atmosphere earns
+  high marks, making it a solid pick for anyone hunting for top-rated sushi
+  nearby.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -222,7 +299,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

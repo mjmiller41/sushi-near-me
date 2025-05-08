@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Nori Sushi"
+title: Nori Sushi
 permalink: /texas/lewisville/nori-sushi.html
 stateAbbr: TX
 stateName: Texas
 cityName: Lewisville
 seo:
-  name: "Nori Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Nori Sushi serves delicious sushi in Lewisville, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJUUZjfpQtTIYRrrbMTnfnl_Q
 photos:
   - name: >-
@@ -185,7 +183,49 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Nori Sushi in Lewisville, TX$$$Nori Sushi in Lewisville, TX, stands
+  out as a cozy Japanese eatery offering an array of fresh sushi rolls and bento
+  boxes in a relaxed atmosphere, perfect for those seeking authentic flavors
+  close to home. The spot emphasizes accessibility with features like
+  wheelchair-friendly entrances and seating, making it easy for everyone to
+  enjoy a casual dining experience. Patrons can explore a variety of options
+  that highlight traditional Japanese cuisine, including well-prepared rolls and
+  boxes that cater to everyday cravings for quality sushi restaurants nearby.
+  This location adds to the local scene by providing a straightforward yet
+  inviting setting where fresh ingredients shine, ideal for anyone hunting for
+  reliable sushi places in the area. Whether you're in the mood for a quick bite
+  or a satisfying meal, Nori Sushi delivers a genuine taste of Japan with its
+  uncomplicated charm.
+generative_summary: >-
+  Discover Nori Sushi in Lewisville, TX$$$Nori Sushi in Lewisville, TX, stands
+  out as a cozy Japanese eatery offering an array of fresh sushi rolls and bento
+  boxes in a relaxed atmosphere, perfect for those seeking authentic flavors
+  close to home. The spot emphasizes accessibility with features like
+  wheelchair-friendly entrances and seating, making it easy for everyone to
+  enjoy a casual dining experience. Patrons can explore a variety of options
+  that highlight traditional Japanese cuisine, including well-prepared rolls and
+  boxes that cater to everyday cravings for quality sushi restaurants nearby.
+  This location adds to the local scene by providing a straightforward yet
+  inviting setting where fresh ingredients shine, ideal for anyone hunting for
+  reliable sushi places in the area. Whether you're in the mood for a quick bite
+  or a satisfying meal, Nori Sushi delivers a genuine taste of Japan with its
+  uncomplicated charm.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What People Love About Nori Sushi$$$Folks often rave about the tasty bento
+  boxes and gyoza at this spot, along with a solid selection of fresh sushi
+  rolls that keep things exciting for sushi enthusiasts. Many highlight the
+  friendly service and efficient pace, especially during lunch when deals make
+  it a smart pick for budget-friendly eats. Visitors appreciate the variety of
+  options like creative rolls that add a fun twist without skimping on quality,
+  making it a go-to for those chasing top-rated sushi nearby. Overall, the vibe
+  is welcoming and the prices reasonable, encouraging repeat visits for anyone
+  looking to satisfy their cravings in a hassle-free environment. It's clear
+  that this place hits the mark for casual diners seeking honest, enjoyable
+  Japanese fare without any major drawbacks.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +251,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yamazaki Sushi and Hibachi"
+title: Yamazaki Sushi and Hibachi
 permalink: /georgia/midland/yamazaki-sushi-and-hibachi.html
 stateAbbr: GA
 stateName: Georgia
 cityName: Midland
 seo:
-  name: "Yamazaki Sushi and Hibachi"
-  type: Restaurant
+  type: restaurant
   links: https://www.yamazakisushiandhibachi.com/
-description: "Yamazaki Sushi and Hibachi serves delicious sushi in Midland, Georgia. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ62RwrhA084gRr-cm_VuLAVg
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x88f33410ae7064eb:0x58018b5bfd26e7af!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:00 AM – 9:30 PM'
     - 'Wednesday: 11:00 AM – 9:30 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:30 PM'
     - 'Saturday: 11:00 AM – 10:30 PM'
     - 'Sunday: 11:00 AM – 9:30 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:00 AM – 9:30 PM'
-    - 'Wednesday: 11:00 AM – 9:30 PM'
-    - 'Thursday: 11:00 AM – 9:30 PM'
-    - 'Friday: 11:00 AM – 10:30 PM'
-    - 'Saturday: 11:00 AM – 10:30 PM'
-    - 'Sunday: 11:00 AM – 9:30 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +238,47 @@ phone: (706) 940-0688
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.1'
-rating_count: 0
+rating_count: 297
 website: https://www.yamazakisushiandhibachi.com/
+description: >-
+  Discover Yamazaki Sushi in Midland, GA$$$Yamazaki Sushi and Hibachi in
+  Midland, GA, stands out as a welcoming Japanese restaurant serving fresh and
+  flavorful dishes in a relaxed environment. This spot features a variety of
+  traditional options like sashimi, tempura, and creative sushi rolls, making it
+  an ideal choice for anyone exploring sushi places near you. With accessibility
+  features such as wheelchair-friendly parking and entrances, it ensures a
+  comfortable visit for all guests, enhancing its appeal as a go-to dining
+  option. The restaurant operates with convenient hours, including evenings and
+  weekends, perfect for casual meals or gatherings. Whether you're in the mood
+  for hibachi-style cooking or classic Japanese fare, this location combines
+  quality ingredients with a casual vibe to satisfy sushi enthusiasts.
+generative_summary: >-
+  Discover Yamazaki Sushi in Midland, GA$$$Yamazaki Sushi and Hibachi in
+  Midland, GA, stands out as a welcoming Japanese restaurant serving fresh and
+  flavorful dishes in a relaxed environment. This spot features a variety of
+  traditional options like sashimi, tempura, and creative sushi rolls, making it
+  an ideal choice for anyone exploring sushi places near you. With accessibility
+  features such as wheelchair-friendly parking and entrances, it ensures a
+  comfortable visit for all guests, enhancing its appeal as a go-to dining
+  option. The restaurant operates with convenient hours, including evenings and
+  weekends, perfect for casual meals or gatherings. Whether you're in the mood
+  for hibachi-style cooking or classic Japanese fare, this location combines
+  quality ingredients with a casual vibe to satisfy sushi enthusiasts.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Based on the strong 4.1 rating from numerous
+  visitors, Yamazaki Sushi and Hibachi comes across as a reliable spot for
+  enjoying fresh and tasty Japanese dishes without any major complaints. People
+  often highlight the flavorful rolls and hibachi options that make it feel like
+  a hidden gem for anyone seeking top-rated sushi nearby. While some mention
+  wait times during peak hours, the overall feedback appreciates the friendly
+  service and welcoming atmosphere that keep diners coming back. It's clear that
+  families and groups find it a solid pick for everyday meals, with many
+  praising the balance of quality and affordability. All in all, the positive
+  buzz suggests it's worth trying if you're in the area looking for enjoyable
+  Japanese places near me.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +304,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

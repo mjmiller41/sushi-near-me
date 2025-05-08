@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Niko Niko Sushi"
+title: Niko Niko Sushi
 permalink: /california/los-angeles/niko-niko-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Los Angeles
 seo:
-  name: "Niko Niko Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Niko Niko Sushi serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ3caBxba7woARFeD1REnpcuo
 photos:
   - name: >-
@@ -170,22 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c2bbb6c581c6dd:0xea72e94944f5e015!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 9:00 PM'
     - 'Tuesday: 11:30 AM – 9:00 PM'
     - 'Wednesday: 11:30 AM – 9:00 PM'
     - 'Thursday: 11:30 AM – 9:00 PM'
     - 'Friday: 11:30 AM – 9:00 PM'
-    - 'Saturday: 11:30 AM – 9:30 PM'
+    - 'Saturday: 11:30 AM – 9:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:30 AM – 9:00 PM'
-    - 'Tuesday: 11:30 AM – 9:00 PM'
-    - 'Wednesday: 11:30 AM – 9:00 PM'
-    - 'Thursday: 11:30 AM – 9:00 PM'
-    - 'Friday: 11:30 AM – 9:00 PM'
-    - 'Saturday: 11:30 AM – 9:30 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +238,45 @@ phone: (310) 470-2661
 price_level: PRICE_LEVEL_INEXPENSIVE
 price_range: $20 &ndash; $30
 rating: '4.5'
-rating_count: 0
+rating_count: 282
 website: null
+description: >-
+  About Niko Niko Sushi in Los Angeles$$$Niko Niko Sushi in Los Angeles, CA,
+  delivers a relaxed vibe perfect for enjoying authentic Japanese dishes in a
+  welcoming setting. This spot specializes in fresh sushi and sashimi,
+  complemented by hearty bento boxes and savory teriyaki options that appeal to
+  sushi enthusiasts seeking variety. With accessibility features like
+  wheelchair-friendly parking and entrances, it's an inclusive choice for diners
+  of all abilities looking for Japanese places near me. The restaurant operates
+  daily from late morning until evening, making it convenient for lunch or
+  dinner outings. Whether you're craving top-rated sushi or a casual meal, its
+  neighborhood location adds to the charm of exploring local flavors.
+generative_summary: >-
+  About Niko Niko Sushi in Los Angeles$$$Niko Niko Sushi in Los Angeles, CA,
+  delivers a relaxed vibe perfect for enjoying authentic Japanese dishes in a
+  welcoming setting. This spot specializes in fresh sushi and sashimi,
+  complemented by hearty bento boxes and savory teriyaki options that appeal to
+  sushi enthusiasts seeking variety. With accessibility features like
+  wheelchair-friendly parking and entrances, it's an inclusive choice for diners
+  of all abilities looking for Japanese places near me. The restaurant operates
+  daily from late morning until evening, making it convenient for lunch or
+  dinner outings. Whether you're craving top-rated sushi or a casual meal, its
+  neighborhood location adds to the charm of exploring local flavors.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About This Sushi Spot$$$Feedback from diners
+  highlights the fresh and flavorful sushi rolls that keep people coming back
+  for more, often praising the great balance of taste and affordability. Many
+  appreciate the straightforward service and cozy atmosphere that make it feel
+  like a go-to spot for everyday meals or special occasions. With a strong
+  overall rating, visitors frequently note the solid portions and variety in the
+  menu, helping it stand out among sushi restaurants in the area. While some
+  mention minor waits during peak times, the general consensus leans positive,
+  emphasizing its reliability for those searching for sushi close to me.
+  Overall, it's a solid pick for anyone wanting a satisfying Japanese dining
+  experience without the fuss.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +302,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

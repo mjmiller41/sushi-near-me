@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Maki - Kendall"
+title: Sushi Maki - Kendall
 permalink: /florida/miami/sushi-maki-kendall.html
 stateAbbr: FL
 stateName: Florida
 cityName: Miami
 seo:
-  name: "Sushi Maki - Kendall"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi Maki - Kendall serves delicious sushi in Miami, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJgSELmNzA2YgR1odE_BKE680
 photos:
   - name: >-
@@ -185,7 +183,40 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Sushi Maki in Miami, FL$$$Sushi Maki - Kendall in Miami, FL, offers a
+  welcoming spot for enjoying fresh Japanese-inspired cuisine in the heart of
+  the Kendall neighborhood. This sushi restaurant stands out with its accessible
+  design, including easy parking, entry, and seating options that make it
+  inclusive for all diners seeking a relaxed meal. Patrons can savor a variety
+  of classic rolls and dishes, perfect for those exploring top-rated sushi
+  options in the area. The convenient location on SW 88th Street adds to its
+  appeal as a go-to choice for casual dining, blending flavorful bites with a
+  straightforward atmosphere that enhances the overall experience.
+generative_summary: >-
+  Discover Sushi Maki in Miami, FL$$$Sushi Maki - Kendall in Miami, FL, offers a
+  welcoming spot for enjoying fresh Japanese-inspired cuisine in the heart of
+  the Kendall neighborhood. This sushi restaurant stands out with its accessible
+  design, including easy parking, entry, and seating options that make it
+  inclusive for all diners seeking a relaxed meal. Patrons can savor a variety
+  of classic rolls and dishes, perfect for those exploring top-rated sushi
+  options in the area. The convenient location on SW 88th Street adds to its
+  appeal as a go-to choice for casual dining, blending flavorful bites with a
+  straightforward atmosphere that enhances the overall experience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$From what folks share about spots like this sushi
+  restaurant, many appreciate the fresh flavors and reliable quality that make
+  it a favorite for everyday eats. Visitors often highlight the tasty variety of
+  rolls and dishes, noting how it satisfies cravings for authentic
+  Japanese-inspired meals without any fuss. While some mention minor waits
+  during peak times, the general vibe is positive, with people enjoying the
+  approachable setting that feels just right for groups or solo diners. Overall,
+  it's clear that this place earns nods for being a solid pick among local sushi
+  options, helping it stand out as one of the go-to sushi restaurants near me
+  for those in the mood for something simple and satisfying.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +242,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

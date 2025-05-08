@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Rock N Roll Sushi"
+title: Rock N Roll Sushi
 permalink: /alabama/tuscaloosa/rock-n-roll-sushi.html
 stateAbbr: AL
 stateName: Alabama
 cityName: Tuscaloosa
 seo:
-  name: "Rock N Roll Sushi"
-  type: Restaurant
-  links: null
-description: "Rock N Roll Sushi serves delicious sushi in Tuscaloosa, Alabama. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://rocknrollsushi.com/locations/tuscaloosa-al/
 place_id: ChIJTzUto-kChogRPIFYg0Ki9f0
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x888602e9a32d354f:0xfdf5a2428358813c!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 9:00 PM'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 10:00 PM'
+    - 'Saturday: 11:00 AM – 10:00 PM'
+    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,49 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (205) 469-9060
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.2'
+rating_count: 731
+website: https://rocknrollsushi.com/locations/tuscaloosa-al/
+description: >-
+  Discover Rock N Roll Sushi in Tuscaloosa, AL$$$Rock N Roll Sushi in
+  Tuscaloosa, AL, stands out as a vibrant spot for fresh sushi and
+  Japanese-inspired dishes, blending creative flavors with a lively atmosphere
+  that appeals to casual diners. The restaurant offers a welcoming space with
+  wheelchair-accessible features, making it easy for everyone to enjoy meals in
+  a comfortable setting. Expect a menu that highlights inventive rolls and
+  satisfying options, perfect for those seeking sushi spots in the area. With
+  convenient hours extending into the evening, it's an ideal choice for lunch or
+  dinner gatherings. This local favorite combines quality ingredients and a fun
+  vibe, drawing in sushi enthusiasts looking for reliable options nearby.
+generative_summary: >-
+  Discover Rock N Roll Sushi in Tuscaloosa, AL$$$Rock N Roll Sushi in
+  Tuscaloosa, AL, stands out as a vibrant spot for fresh sushi and
+  Japanese-inspired dishes, blending creative flavors with a lively atmosphere
+  that appeals to casual diners. The restaurant offers a welcoming space with
+  wheelchair-accessible features, making it easy for everyone to enjoy meals in
+  a comfortable setting. Expect a menu that highlights inventive rolls and
+  satisfying options, perfect for those seeking sushi spots in the area. With
+  convenient hours extending into the evening, it's an ideal choice for lunch or
+  dinner gatherings. This local favorite combines quality ingredients and a fun
+  vibe, drawing in sushi enthusiasts looking for reliable options nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Customer Feedback$$$Visitors to this sushi spot often praise the
+  fresh, flavorful rolls and generous portions that make every meal feel
+  worthwhile, contributing to its solid reputation among local diners. Many
+  appreciate the attentive service and welcoming environment, which add to the
+  overall enjoyable experience without overwhelming the senses. While some note
+  that wait times can vary during peak hours, the consistent taste and variety
+  keep people coming back for more. Overall, the feedback highlights it as a
+  go-to place for tasty sushi close to home, with a balance of affordability and
+  quality that satisfies cravings. If you're hunting for top-rated sushi
+  restaurants in the region, this one delivers a reliably positive vibe that
+  encourages repeat visits.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +310,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

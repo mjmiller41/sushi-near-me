@@ -5,4 +5,5 @@ permalink: /connecticut/east-windsor/
 stateAbbr: CT
 stateName: Connecticut
 cityName: East Windsor
+
 ---

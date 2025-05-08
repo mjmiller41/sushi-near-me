@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "KAMPAI SUSHI"
+title: KAMPAI SUSHI
 permalink: /california/oceanside/kampai-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Oceanside
 seo:
-  name: "KAMPAI SUSHI"
-  type: Restaurant
-  links: null
-description: "KAMPAI SUSHI serves delicious sushi in Oceanside, California. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://kampaisushi.menu11.com/
 place_id: ChIJSYCCo95x3IAR0-CjgOIyBJQ
 photos:
   - name: >-
@@ -169,8 +167,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80dc71dea3828049:0x940432e280a3e0d3!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 20
+        minute: 45
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 20
+        minute: 45
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 20
+        minute: 45
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 20
+        minute: 45
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 20
+        minute: 45
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 20
+        minute: 45
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 20
+        minute: 45
+  weekdayDescriptions:
+    - 'Monday: 11:30 AM – 8:45 PM'
+    - 'Tuesday: 11:30 AM – 8:45 PM'
+    - 'Wednesday: 11:30 AM – 8:45 PM'
+    - 'Thursday: 11:30 AM – 8:45 PM'
+    - 'Friday: 11:30 AM – 8:45 PM'
+    - 'Saturday: 11:30 AM – 8:45 PM'
+    - 'Sunday: 11:30 AM – 8:45 PM'
+  nextCloseTime: '2025-05-04T03:45:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -178,13 +241,47 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
+phone: (760) 757-1484
 price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+price_range: $20 &ndash; $30
+rating: '4.3'
+rating_count: 388
+website: http://kampaisushi.menu11.com/
+description: >-
+  Discover KAMP AI SUSHI in Oceanside, CA$$$KAMP AI SUSHI in Oceanside,
+  California, stands out as a welcoming spot for those seeking fresh Japanese
+  cuisine, blending casual vibes with a variety of a la carte options. This
+  sushi restaurant offers an array of dishes including flavorful rolls, happy
+  hour specials, and selections of sake and wine to complement your meal.
+  Visitors can enjoy vegetarian-friendly choices that cater to diverse tastes,
+  making it a versatile destination for everyday dining or a quick bite. The
+  accessible layout ensures a comfortable experience, while its location in a
+  lively neighborhood adds to the appeal for locals and tourists exploring sushi
+  spots nearby.
+generative_summary: >-
+  Discover KAMP AI SUSHI in Oceanside, CA$$$KAMP AI SUSHI in Oceanside,
+  California, stands out as a welcoming spot for those seeking fresh Japanese
+  cuisine, blending casual vibes with a variety of a la carte options. This
+  sushi restaurant offers an array of dishes including flavorful rolls, happy
+  hour specials, and selections of sake and wine to complement your meal.
+  Visitors can enjoy vegetarian-friendly choices that cater to diverse tastes,
+  making it a versatile destination for everyday dining or a quick bite. The
+  accessible layout ensures a comfortable experience, while its location in a
+  lively neighborhood adds to the appeal for locals and tourists exploring sushi
+  spots nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Buzzing About$$$Feedback from diners highlights the solid
+  reputation of this sushi spot, with many praising the fresh ingredients and
+  well-prepared rolls that keep people coming back for more. People often note
+  the friendly service and relaxed atmosphere, making it a go-to choice for
+  casual meals or groups looking for reliable Japanese flavors. While some
+  mention minor waits during peak hours, the overall value and taste have earned
+  it high marks, reflecting a generally satisfying experience. If you're hunting
+  for top-rated sushi near Oceanside, the positive consensus suggests it's worth
+  trying for its consistent quality and welcoming feel.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +307,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

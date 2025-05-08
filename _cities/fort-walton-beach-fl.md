@@ -5,4 +5,5 @@ permalink: /florida/fort-walton-beach/
 stateAbbr: FL
 stateName: Florida
 cityName: Fort Walton Beach
+
 ---

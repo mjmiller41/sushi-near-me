@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Bento Sushi"
+title: Bento Sushi
 permalink: /maryland/oxon-hill/bento-sushi.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Oxon Hill
 seo:
-  name: "Bento Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Bento Sushi serves delicious sushi in Oxon Hill, Maryland. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJWz04k3iwt4kRhwF05RQ32lA
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $30 &mdash; 50
 rating: '4.0'
 rating_count: 0
 website: null
+description: >-
+  Discover Bento Sushi in Oxon Hill, Maryland$$$Nestled in Oxon Hill, Maryland,
+  Bento Sushi stands out as a casual spot for enjoying fresh Japanese-inspired
+  dishes within the vibrant MGM National Harbor setting. This sushi restaurant
+  offers a selection of small plates and fare that's perfect for those seeking
+  quality options without the formality of a high-end dining experience. Patrons
+  can appreciate the accessible features like wheelchair-friendly entrances and
+  seating, making it a welcoming choice for various visitors. The menu
+  highlights fresh ingredients in inventive rolls and bites, ideal for anyone
+  exploring top-rated sushi restaurants nearby. Whether you're looking for a
+  quick meal or a taste of authentic flavors, this location provides a
+  convenient escape in a lively environment.
+generative_summary: >-
+  Discover Bento Sushi in Oxon Hill, Maryland$$$Nestled in Oxon Hill, Maryland,
+  Bento Sushi stands out as a casual spot for enjoying fresh Japanese-inspired
+  dishes within the vibrant MGM National Harbor setting. This sushi restaurant
+  offers a selection of small plates and fare that's perfect for those seeking
+  quality options without the formality of a high-end dining experience. Patrons
+  can appreciate the accessible features like wheelchair-friendly entrances and
+  seating, making it a welcoming choice for various visitors. The menu
+  highlights fresh ingredients in inventive rolls and bites, ideal for anyone
+  exploring top-rated sushi restaurants nearby. Whether you're looking for a
+  quick meal or a taste of authentic flavors, this location provides a
+  convenient escape in a lively environment.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJWz04k3iwt4kRhwF05RQ32lA/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJbjQtdmNnEAE
@@ -442,6 +465,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR5OE91dVpnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR5OE91dVpnEAE!2m1!1s0x89b7b07893383d5b:0x50da3714e5740187
+review_summary: >-
+  What Customers Are Saying About the Experience$$$Folks visiting this sushi
+  spot often rave about the fresh ingredients and solid value for money, with
+  many highlighting delicious rolls like unagi and spicy tuna as standout
+  choices. While the service is generally efficient, especially for a
+  fast-casual setup, some note that ordering via kiosk can feel a bit slow
+  during busy times, though it's still manageable for a quick bite. Overall, the
+  convenience of dining in or taking out near the casino adds to the appeal,
+  making it a go-to for those searching for reliable sushi places nearby.
+  Reviewers appreciate the generous portions and tasty options that make it
+  worth the visit, even if the ambiance is more straightforward than luxurious.
+  If you're on the hunt for the best sushi near me, this spot delivers a
+  consistently enjoyable experience with room for minor improvements.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: {}
 payment_options:
   acceptsCreditCards: true
@@ -469,7 +506,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

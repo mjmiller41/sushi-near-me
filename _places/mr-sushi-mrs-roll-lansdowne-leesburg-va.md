@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Mr. Sushi & Mrs. Roll(Lansdowne)"
+title: Mr. Sushi & Mrs. Roll(Lansdowne)
 permalink: /virginia/leesburg/mr-sushi-mrs-roll-lansdowne.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Leesburg
 seo:
-  name: "Mr. Sushi & Mrs. Roll(Lansdowne)"
-  type: Restaurant
-  links: null
-description: "Mr. Sushi & Mrs. Roll(Lansdowne) serves delicious sushi in Leesburg, Virginia. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.mrsushimrsroll.com/
 place_id: ChIJxZkqUkA8tokRapIN0mACDCc
 photos:
   - name: >-
@@ -170,22 +168,172 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89b63c40522a99c5:0x270c0260d20d926a!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:30 AM – 10:00 PM'
+    - 'Tuesday: 11:30 AM – 10:00 PM'
+    - 'Wednesday: 11:30 AM – 10:00 PM'
+    - 'Thursday: 11:30 AM – 10:00 PM'
+    - 'Friday: 11:30 AM – 9:30 PM'
+    - 'Saturday: 11:30 AM – 10:00 PM'
+    - 'Sunday: 11:30 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
-phone: +1 571-918-0372
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+  - openNow: false
+    periods:
+      - open:
+          day: 1
+          hour: 11
+          minute: 30
+        close:
+          day: 1
+          hour: 14
+          minute: 30
+      - open:
+          day: 2
+          hour: 11
+          minute: 30
+        close:
+          day: 2
+          hour: 14
+          minute: 30
+      - open:
+          day: 3
+          hour: 11
+          minute: 30
+        close:
+          day: 3
+          hour: 14
+          minute: 30
+      - open:
+          day: 4
+          hour: 11
+          minute: 30
+        close:
+          day: 4
+          hour: 14
+          minute: 30
+      - open:
+          day: 5
+          hour: 11
+          minute: 30
+        close:
+          day: 5
+          hour: 14
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 11:30 AM – 2:30 PM'
+      - 'Tuesday: 11:30 AM – 2:30 PM'
+      - 'Wednesday: 11:30 AM – 2:30 PM'
+      - 'Thursday: 11:30 AM – 2:30 PM'
+      - 'Friday: 11:30 AM – 2:30 PM'
+      - 'Saturday: Closed'
+      - 'Sunday: Closed'
+    secondaryHoursType: LUNCH
+    nextOpenTime: '2025-05-05T15:30:00Z'
+phone: (571) 918-0372
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.4'
+rating_count: 241
+website: http://www.mrsushimrsroll.com/
+description: >-
+  Discover Mr. Sushi & Mrs. Roll in Leesburg, VA$$$Mr. Sushi & Mrs. Roll in
+  Leesburg, VA, stands out as a welcoming Japanese eatery offering a mix of
+  fresh poke bowls, hearty ramen, and authentic flavors that appeal to sushi
+  enthusiasts. This casual spot in Lansdowne Town Center features a
+  straightforward menu with creative twists on traditional dishes, making it
+  ideal for anyone seeking quality Japanese cuisine in a relaxed setting.
+  Accessibility options like wheelchair-friendly parking and entrances ensure a
+  comfortable visit for all guests, enhancing its appeal as a go-to destination
+  for diverse dining needs. Whether you're in the mood for top-rated sushi rolls
+  or something lighter, the eatery's focus on flavorful ingredients creates a
+  satisfying experience for those exploring Japanese places nearby.
+generative_summary: >-
+  Discover Mr. Sushi & Mrs. Roll in Leesburg, VA$$$Mr. Sushi & Mrs. Roll in
+  Leesburg, VA, stands out as a welcoming Japanese eatery offering a mix of
+  fresh poke bowls, hearty ramen, and authentic flavors that appeal to sushi
+  enthusiasts. This casual spot in Lansdowne Town Center features a
+  straightforward menu with creative twists on traditional dishes, making it
+  ideal for anyone seeking quality Japanese cuisine in a relaxed setting.
+  Accessibility options like wheelchair-friendly parking and entrances ensure a
+  comfortable visit for all guests, enhancing its appeal as a go-to destination
+  for diverse dining needs. Whether you're in the mood for top-rated sushi rolls
+  or something lighter, the eatery's focus on flavorful ingredients creates a
+  satisfying experience for those exploring Japanese places nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About This Spot$$$Feedback from visitors to this
+  Japanese restaurant often highlights the fresh and flavorful dishes that keep
+  people coming back for more, with many praising the variety of sushi and ramen
+  options. Diners frequently note the attentive service and welcoming vibe,
+  making it a solid choice for casual meals with friends or family. While most
+  comments focus on the great value for the price, some mention that the
+  portions are generous and the overall atmosphere adds to the enjoyment.
+  Overall, it's clear that this spot earns its strong reputation among those
+  searching for reliable sushi near Leesburg, offering a consistently positive
+  experience that leaves guests eager to return. If you're on the hunt for tasty
+  Japanese eats in a laid-back environment, this place seems to deliver just
+  what people are looking for.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +359,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

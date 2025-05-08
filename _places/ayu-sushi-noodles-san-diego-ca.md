@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ayu Sushi & Noodles"
+title: Ayu Sushi & Noodles
 permalink: /california/san-diego/ayu-sushi-noodles.html
 stateAbbr: CA
 stateName: California
 cityName: San Diego
 seo:
-  name: "Ayu Sushi & Noodles"
-  type: Restaurant
+  type: restaurant
   links: http://www.ayusushiandnoodles.com/
-description: "Ayu Sushi & Noodles serves delicious sushi in San Diego, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJkazo4_gJ3IARCBIc2sFg-sQ
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80dc09f8e3e8ac91:0xc4fa60c1da1c1208!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:30 PM'
     - 'Tuesday: 11:00 AM – 9:30 PM'
     - 'Wednesday: 11:00 AM – 9:30 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:00 PM'
     - 'Saturday: 11:00 AM – 10:00 PM'
     - 'Sunday: 11:00 AM – 9:30 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:30 PM'
-    - 'Tuesday: 11:00 AM – 9:30 PM'
-    - 'Wednesday: 11:00 AM – 9:30 PM'
-    - 'Thursday: 11:00 AM – 9:30 PM'
-    - 'Friday: 11:00 AM – 10:00 PM'
-    - 'Saturday: 11:00 AM – 10:00 PM'
-    - 'Sunday: 11:00 AM – 9:30 PM'
+  nextCloseTime: '2025-05-04T05:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +246,47 @@ phone: (858) 356-9519
 price_level: PRICE_LEVEL_MODERATE
 price_range: $30 &ndash; $50
 rating: '4.5'
-rating_count: 0
+rating_count: 85
 website: http://www.ayusushiandnoodles.com/
+description: >-
+  About Ayu Sushi & Noodles in San Diego, CA$$$Ayu Sushi & Noodles in San Diego,
+  CA, offers a welcoming atmosphere perfect for enjoying fresh Japanese cuisine
+  in a cozy setting. This spot stands out with its selection of expertly crafted
+  sushi rolls and flavorful noodle dishes, complemented by affordable happy hour
+  deals that attract locals and visitors alike. The restaurant emphasizes
+  accessibility, featuring wheelchair-friendly parking, entrances, and seating
+  to ensure everyone can savor the experience. Beyond the menu, its convenient
+  location in the Carmel Valley neighborhood makes it an ideal choice for those
+  seeking top-rated Japanese places near me. With generous portions and a focus
+  on quality ingredients, it's a go-to destination for anyone craving authentic
+  flavors in a relaxed environment.
+generative_summary: >-
+  About Ayu Sushi & Noodles in San Diego, CA$$$Ayu Sushi & Noodles in San Diego,
+  CA, offers a welcoming atmosphere perfect for enjoying fresh Japanese cuisine
+  in a cozy setting. This spot stands out with its selection of expertly crafted
+  sushi rolls and flavorful noodle dishes, complemented by affordable happy hour
+  deals that attract locals and visitors alike. The restaurant emphasizes
+  accessibility, featuring wheelchair-friendly parking, entrances, and seating
+  to ensure everyone can savor the experience. Beyond the menu, its convenient
+  location in the Carmel Valley neighborhood makes it an ideal choice for those
+  seeking top-rated Japanese places near me. With generous portions and a focus
+  on quality ingredients, it's a go-to destination for anyone craving authentic
+  flavors in a relaxed environment.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Buzzing About$$$Folks who've checked out this sushi spot
+  often rave about the fresh, tasty rolls and generous portions that make every
+  meal feel worthwhile. Many highlight the friendly service and inviting vibe,
+  noting it's a solid pick for casual dinners or quick bites without any major
+  hiccups. Based on the high ratings, diners appreciate the variety of options
+  that cater to different tastes, from classic sushi favorites to hearty noodle
+  bowls, keeping things enjoyable for groups or solo outings. While some mention
+  waits during peak times, the overall consensus leans positive, with people
+  loving the value and flavors that keep them coming back. If you're hunting for
+  reliable sushi restaurants near me, this place delivers a consistently
+  satisfying experience that's worth trying out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +312,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

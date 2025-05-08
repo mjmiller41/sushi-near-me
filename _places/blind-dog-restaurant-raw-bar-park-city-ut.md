@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Blind Dog Restaurant & Raw Bar"
+title: Blind Dog Restaurant & Raw Bar
 permalink: /utah/park-city/blind-dog-restaurant-raw-bar.html
 stateAbbr: UT
 stateName: Utah
 cityName: Park City
 seo:
-  name: "Blind Dog Restaurant & Raw Bar"
-  type: Restaurant
+  type: restaurant
   links: https://www.blinddogpc.com/
-description: "Blind Dog Restaurant & Raw Bar serves delicious sushi in Park City, Utah. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJo_Klm11tUocRcQGKvUfn008
 photos:
   - name: >-
@@ -170,7 +168,49 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x87526d5d9ba5f2a3:0x4fd3e747bd8a0171!10e5
 primary_type: Seafood Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 5:00 – 9:00 PM'
     - 'Wednesday: 5:00 – 9:00 PM'
@@ -178,14 +218,7 @@ opening_hours:
     - 'Friday: 5:00 – 9:00 PM'
     - 'Saturday: 5:00 – 9:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 5:00 – 9:00 PM'
-    - 'Wednesday: 5:00 – 9:00 PM'
-    - 'Thursday: 5:00 – 9:00 PM'
-    - 'Friday: 5:00 – 9:00 PM'
-    - 'Saturday: 5:00 – 9:00 PM'
-    - 'Sunday: Closed'
+  nextOpenTime: '2025-05-03T23:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +230,299 @@ phone: (435) 655-0800
 price_level: PRICE_LEVEL_EXPENSIVE
 price_range: $50 &ndash; $100
 rating: '4.3'
-rating_count: 0
+rating_count: 620
 website: https://www.blinddogpc.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Explore Blind Dog Restaurant & Raw Bar$$$Blind Dog Restaurant & Raw Bar in
+  Park City, UT, offers a welcoming spot for enjoying a mix of steaks, fresh
+  seafood, and inventive sushi in a relaxed setting. This sushi restaurant
+  features a raw bar and outdoor patio, perfect for casual dining with
+  American-inspired dishes that highlight quality ingredients and creative
+  flavors. Visitors can savor the variety of options, including hearty entrees
+  and lighter fare, making it an ideal choice for those seeking top-rated sushi
+  experiences nearby. The accessible features, like wheelchair-friendly
+  entrances and parking, ensure a comfortable visit for everyone. With its
+  evening hours and inviting atmosphere, it's a great destination for a
+  memorable meal in the area.
+generative_summary: >-
+  Explore Blind Dog Restaurant & Raw Bar$$$Blind Dog Restaurant & Raw Bar in
+  Park City, UT, offers a welcoming spot for enjoying a mix of steaks, fresh
+  seafood, and inventive sushi in a relaxed setting. This sushi restaurant
+  features a raw bar and outdoor patio, perfect for casual dining with
+  American-inspired dishes that highlight quality ingredients and creative
+  flavors. Visitors can savor the variety of options, including hearty entrees
+  and lighter fare, making it an ideal choice for those seeking top-rated sushi
+  experiences nearby. The accessible features, like wheelchair-friendly
+  entrances and parking, ensure a comfortable visit for everyone. With its
+  evening hours and inviting atmosphere, it's a great destination for a
+  memorable meal in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJo_Klm11tUocRcQGKvUfn008/reviews/ChZDSUhNMG9nS0VJQ0FnTUNvaHNYRmFBEAE
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 4
+    text:
+      text: |-
+        Informal dining. Bar area was popular.
+        $200 for 2 people with a $50 bottle of wine.
+        Seems to be the going cost in Parkcity
+        Fried green tomato salad was excellent.
+        Large portions. Interesting menu.
+      languageCode: en
+    originalText:
+      text: |-
+        Informal dining. Bar area was popular.
+        $200 for 2 people with a $50 bottle of wine.
+        Seems to be the going cost in Parkcity
+        Fried green tomato salad was excellent.
+        Large portions. Interesting menu.
+      languageCode: en
+    authorAttribution:
+      displayName: Glue Guy
+      uri: https://www.google.com/maps/contrib/116268885455639659907/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUXAPn_WYSjH2VI_1L_rytxG2pvjUXhRnO15jHpUo_Ovi1NxJgz=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2025-04-16T16:46:12.994693Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNvaHNYRmFBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNvaHNYRmFBEAE!2m1!1s0x87526d5d9ba5f2a3:0x4fd3e747bd8a0171
+  - name: >-
+      places/ChIJo_Klm11tUocRcQGKvUfn008/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRMXZYZWNnEAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        I'm a certified Sommolier level 2 and Weset 3 diploma holder and love
+        going to local places when I travel and I'm no stranger to park city and
+        it's nice offerings!
+
+
+        The decor and vibe of the place is very comfortable and while the staff
+        might not be super educated in their food/drinks list they are good with
+        food/drink recommendations and give you a warm smile with fast service.
+
+
+        Started with Champagne for the table and they don't have the best glass
+        wear for the wines they carry but that doesn't matter too much...she
+        opened that cork silently and provided me with an ice bucket so I was
+        pleased.
+
+
+        Service is fast and the food is fantastic with solid presentations, was
+        also nice we were easily seated as a larger party. The sourdough bread
+        for the table is so soft and very tasty.  The Snakeriver Filet is
+        absolutely delicious so much flavor and was perfectly medium rare (melts
+        in your mouth), I also asked for the green beans which were excellent.
+        The Dreamloaf is also very good but wow that Cream spinach is maybe the
+        best I've ever had! The crispy pork belly dumplings are tasty with a
+        fitting sauce.
+
+        I think one of the most surprising things was the freshness of the
+        sushi, the menu has so much variety but it was actually all good having
+        ordered quite a few different things. Also they use real wasabi not
+        horseradish and the sauces were pleasing to all the options we had on
+        the table.
+
+
+        Dessert list is better than almost every other average restaurant with
+        lots of solid coffee and dessert wine options! My god the frozen lemon
+        pie is so good, the lychee sorbet is divine and the Coffee ice cream
+        with the brownie is just a perfect paring.
+
+
+        Overall, this is a great place lots of variety with great options, good
+        wines, and friendly service that is quick. Only thing that I didn't like
+        was the cocktails that did get ordered specifically the espresso martini
+        was not good, the old fashioned was fine just not great.
+      languageCode: en
+    originalText:
+      text: >-
+        I'm a certified Sommolier level 2 and Weset 3 diploma holder and love
+        going to local places when I travel and I'm no stranger to park city and
+        it's nice offerings!
+
+
+        The decor and vibe of the place is very comfortable and while the staff
+        might not be super educated in their food/drinks list they are good with
+        food/drink recommendations and give you a warm smile with fast service.
+
+
+        Started with Champagne for the table and they don't have the best glass
+        wear for the wines they carry but that doesn't matter too much...she
+        opened that cork silently and provided me with an ice bucket so I was
+        pleased.
+
+
+        Service is fast and the food is fantastic with solid presentations, was
+        also nice we were easily seated as a larger party. The sourdough bread
+        for the table is so soft and very tasty.  The Snakeriver Filet is
+        absolutely delicious so much flavor and was perfectly medium rare (melts
+        in your mouth), I also asked for the green beans which were excellent.
+        The Dreamloaf is also very good but wow that Cream spinach is maybe the
+        best I've ever had! The crispy pork belly dumplings are tasty with a
+        fitting sauce.
+
+        I think one of the most surprising things was the freshness of the
+        sushi, the menu has so much variety but it was actually all good having
+        ordered quite a few different things. Also they use real wasabi not
+        horseradish and the sauces were pleasing to all the options we had on
+        the table.
+
+
+        Dessert list is better than almost every other average restaurant with
+        lots of solid coffee and dessert wine options! My god the frozen lemon
+        pie is so good, the lychee sorbet is divine and the Coffee ice cream
+        with the brownie is just a perfect paring.
+
+
+        Overall, this is a great place lots of variety with great options, good
+        wines, and friendly service that is quick. Only thing that I didn't like
+        was the cocktails that did get ordered specifically the espresso martini
+        was not good, the old fashioned was fine just not great.
+      languageCode: en
+    authorAttribution:
+      displayName: Wyatt Alexander
+      uri: https://www.google.com/maps/contrib/110893468232230459220/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjW0-PfD13MvtT_u1jgfkqTCppCKXWs3cXXTsPu_uUnEg9PiKKg=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-03-04T04:23:24.977586Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNRMXZYZWNnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNRMXZYZWNnEAE!2m1!1s0x87526d5d9ba5f2a3:0x4fd3e747bd8a0171
+  - name: >-
+      places/ChIJo_Klm11tUocRcQGKvUfn008/reviews/ChdDSUhNMG9nS0VJQ0FnSUMxbUxQSTZnRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        Love this place! Our server, Christine from Romania was highly
+        knowledgeable about the diverse menu and she was just delightful. Since
+        we are fortunate to have excellent sushi back east, we did not know what
+        to expect. Our two rolls were large and delicious and so were the
+        cauliflower dish and pork dumplings. My husband had the banana foster
+        and he enjoyed it. I finished my meal with the cucumber salad. We liked
+        this place so much that we were quick to make another reservation during
+        our stay in Park City.
+      languageCode: en
+    originalText:
+      text: >-
+        Love this place! Our server, Christine from Romania was highly
+        knowledgeable about the diverse menu and she was just delightful. Since
+        we are fortunate to have excellent sushi back east, we did not know what
+        to expect. Our two rolls were large and delicious and so were the
+        cauliflower dish and pork dumplings. My husband had the banana foster
+        and he enjoyed it. I finished my meal with the cucumber salad. We liked
+        this place so much that we were quick to make another reservation during
+        our stay in Park City.
+      languageCode: en
+    authorAttribution:
+      displayName: Babette Leshinsky
+      uri: https://www.google.com/maps/contrib/105726533359155409781/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUDOViwRaHC2h6SsxeTepowJYoL_CuOGofWvD2l2e511zKba6Q=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2023-12-22T04:36:58.594003Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMxbUxQSTZnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMxbUxQSTZnRRAB!2m1!1s0x87526d5d9ba5f2a3:0x4fd3e747bd8a0171
+  - name: >-
+      places/ChIJo_Klm11tUocRcQGKvUfn008/reviews/ChZDSUhNMG9nS0VJQ0FnSUNfdHJMd0xBEAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        Blind Dog is our favorite restaurant in Park City. Fantastic food,
+        cocktails, staff, ambience, everything! It’s a local place and great for
+        everyone. Gabbie at the bar is the best bartender and makes the visit
+        the best you could wish for! Be sure to ask for her or say hello when
+        you stop by!
+      languageCode: en
+    originalText:
+      text: >-
+        Blind Dog is our favorite restaurant in Park City. Fantastic food,
+        cocktails, staff, ambience, everything! It’s a local place and great for
+        everyone. Gabbie at the bar is the best bartender and makes the visit
+        the best you could wish for! Be sure to ask for her or say hello when
+        you stop by!
+      languageCode: en
+    authorAttribution:
+      displayName: laura kozelouzek
+      uri: https://www.google.com/maps/contrib/101174481184306938871/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIXlMRclN7z8HHP0lxo97Jg6bsGd0WSgJGpj89govr4V3EE7w=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-01-16T01:36:54.155858Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNfdHJMd0xBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNfdHJMd0xBEAE!2m1!1s0x87526d5d9ba5f2a3:0x4fd3e747bd8a0171
+  - name: >-
+      places/ChIJo_Klm11tUocRcQGKvUfn008/reviews/ChZDSUhNMG9nS0VJQ0FnTURvamRQTFJBEAE
+    relativePublishTimeDescription: in the last week
+    rating: 5
+    text:
+      text: Delicious food and drinks. Def recommend the tuna nachos and crab cakes.
+      languageCode: en
+    originalText:
+      text: Delicious food and drinks. Def recommend the tuna nachos and crab cakes.
+      languageCode: en
+    authorAttribution:
+      displayName: Carley Miller
+      uri: https://www.google.com/maps/contrib/107872768637750596670/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIL1vwQOPYIvNLSeaO8B-2G3l4PEFrD2cSMvvOl0wJqfSWigWWb=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-27T12:48:53.726806Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURvamRQTFJBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURvamRQTFJBEAE!2m1!1s0x87526d5d9ba5f2a3:0x4fd3e747bd8a0171
+review_summary: >-
+  Review Highlights$$$Folks often rave about the tasty sushi and seafood dishes
+  at this spot, noting the fresh flavors and generous portions that make every
+  bite worthwhile. Many appreciate the lively vibe and friendly service, which
+  add to the overall enjoyable experience without any major hiccups. While some
+  mention that cocktails can vary, the standout items like tuna nachos and crab
+  cakes keep the feedback mostly upbeat and satisfying. It's clear that this
+  place appeals to groups and families alike, with its welcoming atmosphere
+  earning high marks as a local favorite. Overall, diners find it a solid pick
+  for a casual night out, especially if you're in the mood for reliable sushi
+  options close to home.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
+curbside_pickup: true
 delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: true
+live_music: true
+menu_for_children: false
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
 serves_breakfast: null
 serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
+serves_cocktails: true
+serves_coffee: true
+serves_dinner: true
+serves_dessert: true
 serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Clubby dining room delivering a unique mix of inventive American meat &
+  seafood entrees, plus sushi.
 
 ---

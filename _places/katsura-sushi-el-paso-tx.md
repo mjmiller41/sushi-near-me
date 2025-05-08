@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Katsura Sushi"
+title: Katsura Sushi
 permalink: /texas/el-paso/katsura-sushi.html
 stateAbbr: TX
 stateName: Texas
 cityName: El Paso
 seo:
-  name: "Katsura Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Katsura Sushi serves delicious sushi in El Paso, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJL5TEeBBE54YReS-Gp2v_VjE
 photos:
   - name: >-
@@ -185,7 +183,40 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Katsura Sushi in El Paso, TX$$$Katsura Sushi in El Paso, TX, stands
+  out as a cozy Japanese eatery offering an inviting spot for those seeking
+  fresh sushi rolls and classic dishes like miso soup. This sushi restaurant
+  near El Paso combines traditional flavors with a relaxed atmosphere, making it
+  a go-to choice for locals exploring authentic Japanese cuisine. Diners can
+  enjoy a variety of well-prepared options that highlight the best of sushi
+  traditions, all in a welcoming setting perfect for casual meals. With its
+  focus on quality ingredients and accessible vibes, it's an ideal destination
+  for anyone searching for top-rated sushi experiences in the area.
+generative_summary: >-
+  Discover Katsura Sushi in El Paso, TX$$$Katsura Sushi in El Paso, TX, stands
+  out as a cozy Japanese eatery offering an inviting spot for those seeking
+  fresh sushi rolls and classic dishes like miso soup. This sushi restaurant
+  near El Paso combines traditional flavors with a relaxed atmosphere, making it
+  a go-to choice for locals exploring authentic Japanese cuisine. Diners can
+  enjoy a variety of well-prepared options that highlight the best of sushi
+  traditions, all in a welcoming setting perfect for casual meals. With its
+  focus on quality ingredients and accessible vibes, it's an ideal destination
+  for anyone searching for top-rated sushi experiences in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Buzzing About$$$Visitors often highlight the great value at
+  this sushi spot, making it a budget-friendly option for enjoying Japanese
+  favorites without breaking the bank. While some folks appreciate the
+  straightforward menu and quick service that keeps things light and enjoyable,
+  others note that the food quality can vary, particularly with the rice not
+  always hitting the mark. Overall, it's a solid pick for those in the mood for
+  affordable sushi near El Paso, though a few suggest it might shine brighter
+  with some tweaks to consistency. Despite mixed feedback, the welcoming vibe
+  keeps the experience feeling approachable and worth trying for anyone curious
+  about local sushi restaurants.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +242,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

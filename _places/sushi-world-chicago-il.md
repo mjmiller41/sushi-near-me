@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi World"
+title: Sushi World
 permalink: /illinois/chicago/sushi-world.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
 seo:
-  name: "Sushi World"
-  type: Restaurant
+  type: restaurant
   links: http://sushiworldchicago.com/
-description: "Sushi World serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJR9l6007PD4gRvk6Sk_bxcx4
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 0
 website: http://sushiworldchicago.com/
+description: >-
+  Discover Sushi World in Chicago, IL$$$Sushi World in Chicago, IL, stands out
+  as a casual eatery specializing in an all-you-can-eat selection of classic
+  sushi dishes that highlight fresh ingredients and authentic flavors. This spot
+  in the North Park neighborhood offers a welcoming atmosphere with convenient
+  accessibility features, making it easy for everyone to enjoy Japanese-inspired
+  dining options. Patrons can savor a variety of sushi choices, from traditional
+  rolls to innovative creations, all at a moderate price point that appeals to
+  those seeking great value in their meals. The restaurant's commitment to
+  quality service and a comfortable setting ensures a satisfying experience,
+  ideal for anyone exploring top-rated sushi places near me.
+generative_summary: >-
+  Discover Sushi World in Chicago, IL$$$Sushi World in Chicago, IL, stands out
+  as a casual eatery specializing in an all-you-can-eat selection of classic
+  sushi dishes that highlight fresh ingredients and authentic flavors. This spot
+  in the North Park neighborhood offers a welcoming atmosphere with convenient
+  accessibility features, making it easy for everyone to enjoy Japanese-inspired
+  dining options. Patrons can savor a variety of sushi choices, from traditional
+  rolls to innovative creations, all at a moderate price point that appeals to
+  those seeking great value in their meals. The restaurant's commitment to
+  quality service and a comfortable setting ensures a satisfying experience,
+  ideal for anyone exploring top-rated sushi places near me.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJR9l6007PD4gRvk6Sk_bxcx4/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfcmUySC1nRRAB
@@ -308,6 +329,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURmb3VfVXpnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURmb3VfVXpnRRAB!2m1!1s0x880fcf4ed37ad947:0x1e73f1f693924ebe
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this sushi spot often rave about the
+  fresh and flavorful dishes that make every meal feel like a treat, with many
+  highlighting the excellent variety and value for the price. Folks appreciate
+  the attentive service that keeps things running smoothly, even during busy
+  times, allowing for a relaxed and enjoyable outing. Feedback frequently
+  mentions the authentic taste and new menu items that add excitement to the
+  experience, encouraging repeat visits for those craving reliable Japanese
+  cuisine. Overall, the consensus leans positive, with diners noting it's a
+  solid choice for groups or families looking for delicious options in a
+  welcoming environment. While opinions are enthusiastic, it's clear that the
+  combination of quality food and friendly vibes keeps people coming back for
+  more satisfying sushi adventures.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
 payment_options:
@@ -338,7 +373,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: null
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

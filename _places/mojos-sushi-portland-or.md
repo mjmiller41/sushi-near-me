@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Mojos Sushi"
+title: Mojos Sushi
 permalink: /oregon/portland/mojos-sushi.html
 stateAbbr: OR
 stateName: Oregon
 cityName: Portland
 seo:
-  name: "Mojos Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://mojossushi.com/
-description: "Mojos Sushi serves delicious sushi in Portland, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJU415wjqnlVQR1yzLv48tz48
 photos:
   - name: >-
@@ -169,7 +167,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x5495a73ac2798d53:0x8fcf2d8fbfcb2cd7!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 16
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 30
+    - open:
+        day: 1
+        hour: 16
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 16
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 4:00 – 9:30 PM'
     - 'Tuesday: 4:00 – 9:30 PM'
     - 'Wednesday: 4:00 – 9:30 PM'
@@ -177,14 +233,7 @@ opening_hours:
     - 'Friday: 4:00 – 9:30 PM'
     - 'Saturday: 4:00 – 9:30 PM'
     - 'Sunday: 4:00 – 8:30 PM'
-  current:
-    - 'Monday: 4:00 – 9:30 PM'
-    - 'Tuesday: 4:00 – 9:30 PM'
-    - 'Wednesday: 4:00 – 9:30 PM'
-    - 'Thursday: 4:00 – 9:30 PM'
-    - 'Friday: 4:00 – 9:30 PM'
-    - 'Saturday: 4:00 – 9:30 PM'
-    - 'Sunday: 4:00 – 8:30 PM'
+  nextOpenTime: '2025-05-03T23:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,35 +245,284 @@ phone: (971) 386-2172
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.7'
-rating_count: 0
+rating_count: 250
 website: https://mojossushi.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Explore Mojo Sushi in Portland, OR$$$Mojo Sushi in Portland, Oregon, stands
+  out as a cozy haven for sushi enthusiasts, offering a delightful array of
+  fresh Japanese dishes in a relaxed atmosphere. This spot specializes in a
+  variety of sushi rolls and small plates that highlight quality ingredients and
+  creative flavors, making it a go-to choice for anyone seeking top-rated sushi
+  options nearby. With accessibility features like wheelchair-friendly entrances
+  and seating, it's designed to welcome all diners comfortably. The casual vibe
+  pairs well with a selection of beer and wine, enhancing the overall experience
+  for groups or individuals looking for a satisfying meal. Whether you're
+  exploring sushi places near you or craving authentic Japanese cuisine, Mojo
+  Sushi delivers a memorable dining adventure in a neighborhood setting.
+generative_summary: >-
+  Explore Mojo Sushi in Portland, OR$$$Mojo Sushi in Portland, Oregon, stands
+  out as a cozy haven for sushi enthusiasts, offering a delightful array of
+  fresh Japanese dishes in a relaxed atmosphere. This spot specializes in a
+  variety of sushi rolls and small plates that highlight quality ingredients and
+  creative flavors, making it a go-to choice for anyone seeking top-rated sushi
+  options nearby. With accessibility features like wheelchair-friendly entrances
+  and seating, it's designed to welcome all diners comfortably. The casual vibe
+  pairs well with a selection of beer and wine, enhancing the overall experience
+  for groups or individuals looking for a satisfying meal. Whether you're
+  exploring sushi places near you or craving authentic Japanese cuisine, Mojo
+  Sushi delivers a memorable dining adventure in a neighborhood setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJU415wjqnlVQR1yzLv48tz48/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3ejdla1RBEAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        I love salmon ⭐⭐⭐
+
+        - it's pretty basic
+
+        - one roll of avocado with a very small sake on top, I wish it had more
+
+        - I would reorder the salmon nigiri though
+
+
+        Uni roll ⭐⭐⭐⭐
+
+        - would fall apart very easily, I was a little disappointed by that
+
+        - some didn't taste amazing to me but honestly was the one I was craving
+        the most
+
+        - it was light and was what I was feeling
+
+
+        Crunchy Philadelphia ⭐⭐⭐⭐✨
+
+        - pretty solid but I didn't love the smoked taste sometimes
+
+        - I do like how lightly it was fried
+
+
+        Chef's special ⭐⭐⭐✨
+
+        - my partner gave this a 5/5 but I found this to be too creamy and rich
+
+        - the sauce in particular was a little too much for me
+
+        - liked the crab
+      languageCode: en
+    originalText:
+      text: >-
+        I love salmon ⭐⭐⭐
+
+        - it's pretty basic
+
+        - one roll of avocado with a very small sake on top, I wish it had more
+
+        - I would reorder the salmon nigiri though
+
+
+        Uni roll ⭐⭐⭐⭐
+
+        - would fall apart very easily, I was a little disappointed by that
+
+        - some didn't taste amazing to me but honestly was the one I was craving
+        the most
+
+        - it was light and was what I was feeling
+
+
+        Crunchy Philadelphia ⭐⭐⭐⭐✨
+
+        - pretty solid but I didn't love the smoked taste sometimes
+
+        - I do like how lightly it was fried
+
+
+        Chef's special ⭐⭐⭐✨
+
+        - my partner gave this a 5/5 but I found this to be too creamy and rich
+
+        - the sauce in particular was a little too much for me
+
+        - liked the crab
+      languageCode: en
+    authorAttribution:
+      displayName: Nicole
+      uri: https://www.google.com/maps/contrib/107319866816220538913/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUvNAmRZKnK6JM485EE80r1RCdDr9Yh-dUAhUbs8ysDVLyCxxo7hQ=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2025-03-29T03:03:03.193979Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUR3ejdla1RBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUR3ejdla1RBEAE!2m1!1s0x5495a73ac2798d53:0x8fcf2d8fbfcb2cd7
+  - name: >-
+      places/ChIJU415wjqnlVQR1yzLv48tz48/reviews/ChZDSUhNMG9nS0VJQ0FnSUNsamRQMURBEAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        So glad we found this place! Out of all the places in Portland we've
+        ever been to this place has the freshest and most delicious sushi! I've
+        traveled from Southern California to Seattle and this is by far one of
+        the best sushi places I've ever come across!  Can't go here enough! They
+        have the friendliest staff and service is top quality!
+      languageCode: en
+    originalText:
+      text: >-
+        So glad we found this place! Out of all the places in Portland we've
+        ever been to this place has the freshest and most delicious sushi! I've
+        traveled from Southern California to Seattle and this is by far one of
+        the best sushi places I've ever come across!  Can't go here enough! They
+        have the friendliest staff and service is top quality!
+      languageCode: en
+    authorAttribution:
+      displayName: Kog
+      uri: https://www.google.com/maps/contrib/107991976986613253924/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXPOcn2390oc2wauZFD13xg1Eztx88osjRg473FkWvyWJhQuAfC=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2023-11-24T05:00:55.080718Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNsamRQMURBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNsamRQMURBEAE!2m1!1s0x5495a73ac2798d53:0x8fcf2d8fbfcb2cd7
+  - name: >-
+      places/ChIJU415wjqnlVQR1yzLv48tz48/reviews/ChdDSUhNMG9nS0VJQ0FnTUNBLXRlOGtnRRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        over several visits - tried a bunch of different rolls, sake, nigiri. on
+        the pricey side but absolutely worth it! nice atmosphere, bit cramped
+        but good service and music 👍
+      languageCode: en
+    originalText:
+      text: >-
+        over several visits - tried a bunch of different rolls, sake, nigiri. on
+        the pricey side but absolutely worth it! nice atmosphere, bit cramped
+        but good service and music 👍
+      languageCode: en
+    authorAttribution:
+      displayName: erin e
+      uri: https://www.google.com/maps/contrib/102761431551825494432/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWjXwNDXUWlaqf41SldqE9gQWxCZ8cKVzuT4GqU3ZNYTaMrM8l2=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-01-31T07:53:52.982347Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNBLXRlOGtnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNBLXRlOGtnRRAB!2m1!1s0x5495a73ac2798d53:0x8fcf2d8fbfcb2cd7
+  - name: >-
+      places/ChIJU415wjqnlVQR1yzLv48tz48/reviews/ChZDSUhNMG9nS0VJQ0FnSURCek9PakRREAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        The best experience in Portland so far for sushi. Super inviting and
+        very friendly. My only feedback would be to cut down on the disinfectant
+        as the smell fills the space and can make it hard to taste the foods
+        without that lingering in the air.  Other than that after being there
+        one time I won't go anywhere else. Love this place!
+      languageCode: en
+    originalText:
+      text: >-
+        The best experience in Portland so far for sushi. Super inviting and
+        very friendly. My only feedback would be to cut down on the disinfectant
+        as the smell fills the space and can make it hard to taste the foods
+        without that lingering in the air.  Other than that after being there
+        one time I won't go anywhere else. Love this place!
+      languageCode: en
+    authorAttribution:
+      displayName: Kiew Nikon
+      uri: https://www.google.com/maps/contrib/113032222630376236222/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXrzNbybpqZ7besKOQgGl3nJlTxZYWnlBg2eNmOFY1lSQff3Zg=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2023-06-13T17:56:51.266565Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURCek9PakRREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURCek9PakRREAE!2m1!1s0x5495a73ac2798d53:0x8fcf2d8fbfcb2cd7
+  - name: >-
+      places/ChIJU415wjqnlVQR1yzLv48tz48/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ1NE1LWFl3EAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        Mojos Sushi is a nice, small, hole in the wall Sushi joint. The prices
+        are a bit higher than I like, but the food is fresh, they have a decent
+        menu with lots of choices. The food was served in a timely manner and
+        presented very nicely. All the food was great, the miso was great, the
+        beers cold and the service was a bit uncomfortable, but there was no
+        wait, the place was quiet and we all left full and Happy. We will go
+        back, definitely.
+      languageCode: en
+    originalText:
+      text: >-
+        Mojos Sushi is a nice, small, hole in the wall Sushi joint. The prices
+        are a bit higher than I like, but the food is fresh, they have a decent
+        menu with lots of choices. The food was served in a timely manner and
+        presented very nicely. All the food was great, the miso was great, the
+        beers cold and the service was a bit uncomfortable, but there was no
+        wait, the place was quiet and we all left full and Happy. We will go
+        back, definitely.
+      languageCode: en
+    authorAttribution:
+      displayName: Cyd Gann
+      uri: https://www.google.com/maps/contrib/102232331011671065470/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXW4o18WYE-zvhhcq_qsQtFjukRerLmW5a4kDVLUQopr0GhYHfV=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2023-10-18T15:06:33.328549Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQ1NE1LWFl3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQ1NE1LWFl3EAE!2m1!1s0x5495a73ac2798d53:0x8fcf2d8fbfcb2cd7
+review_summary: >-
+  Customer Feedback Highlights$$$Visitors to this sushi spot often praise the
+  incredibly fresh and flavorful rolls, making it a standout pick for those
+  hunting for the best sushi around. While some folks mention that prices lean
+  towards the higher side, they agree it's totally worth it for the quality and
+  variety of options like nigiri and sake. The atmosphere gets high marks for
+  being cozy and inviting, with friendly service that keeps the experience light
+  and enjoyable, even if the space feels a bit snug at times. A few notes about
+  minor issues, such as rolls that might not hold together perfectly, come up,
+  but they're overshadowed by the overall positive vibes and tasty offerings.
+  All in all, if you're in the mood for reliable, delicious Japanese fare close
+  to home, this place comes highly recommended by satisfied diners.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
+delivery: false
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
 serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

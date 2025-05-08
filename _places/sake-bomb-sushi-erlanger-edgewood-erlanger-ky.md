@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sake Bomb Sushi Erlanger/Edgewood"
+title: Sake Bomb Sushi Erlanger/Edgewood
 permalink: /kentucky/erlanger/sake-bomb-sushi-erlanger-edgewood.html
 stateAbbr: KY
 stateName: Kentucky
 cityName: Erlanger
 seo:
-  name: "Sake Bomb Sushi Erlanger/Edgewood"
-  type: Restaurant
-  links: null
-description: "Sake Bomb Sushi Erlanger/Edgewood serves delicious sushi in Erlanger, Kentucky. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://sakebombnky.com/
 place_id: ChIJmeg8Gxm4QYgRbgXOeKvBE2Q
 photos:
   - name: >-
@@ -170,8 +168,113 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8841b8191b3ce899:0x6413c1ab78ce056e!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 13
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 2:30 PM, 4:30 – 9:30 PM'
+    - 'Tuesday: 11:00 AM – 2:30 PM, 4:30 – 9:30 PM'
+    - 'Wednesday: 11:00 AM – 2:30 PM, 4:30 – 9:30 PM'
+    - 'Thursday: 11:00 AM – 2:30 PM, 4:30 – 9:30 PM'
+    - 'Friday: 11:00 AM – 2:30 PM, 4:30 – 9:30 PM'
+    - 'Saturday: 12:00 – 9:30 PM'
+    - 'Sunday: 1:00 – 9:30 PM'
+  nextCloseTime: '2025-05-04T01:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +282,50 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (859) 360-2281
+price_level: PRICE_LEVEL_INEXPENSIVE
+price_range: $10 &ndash; $20
+rating: '4.6'
+rating_count: 1090
+website: https://sakebombnky.com/
+description: >-
+  Discover Sake Bomb Sushi in Erlanger, KY$$$Sake Bomb Sushi in Erlanger,
+  Kentucky, stands out as a welcoming spot for fresh Japanese and Korean
+  flavors, blending traditional sushi with hearty options in a relaxed setting.
+  The menu highlights a variety of sushi rolls alongside Korean favorites like
+  bibimbap and bulgogi, making it a go-to choice for those seeking diverse Asian
+  cuisine without the fuss. Accessibility features such as wheelchair-friendly
+  parking and entrances ensure everyone can enjoy the experience comfortably.
+  With convenient hours that cater to lunch and dinner crowds, this spot appeals
+  to anyone hunting for quality sushi restaurants nearby. Whether you're in the
+  mood for top-rated rolls or a quick bite, it's an ideal destination for
+  exploring authentic tastes in a unpretentious environment.
+generative_summary: >-
+  Discover Sake Bomb Sushi in Erlanger, KY$$$Sake Bomb Sushi in Erlanger,
+  Kentucky, stands out as a welcoming spot for fresh Japanese and Korean
+  flavors, blending traditional sushi with hearty options in a relaxed setting.
+  The menu highlights a variety of sushi rolls alongside Korean favorites like
+  bibimbap and bulgogi, making it a go-to choice for those seeking diverse Asian
+  cuisine without the fuss. Accessibility features such as wheelchair-friendly
+  parking and entrances ensure everyone can enjoy the experience comfortably.
+  With convenient hours that cater to lunch and dinner crowds, this spot appeals
+  to anyone hunting for quality sushi restaurants nearby. Whether you're in the
+  mood for top-rated rolls or a quick bite, it's an ideal destination for
+  exploring authentic tastes in a unpretentious environment.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Diners Are Buzzing About$$$Folks often rave about the tasty mix of Korean
+  BBQ and creative sushi options at this spot, noting how the fresh rolls and
+  unique flavors like fruity twists keep things exciting. Many appreciate the
+  efficient and friendly service that makes every visit feel smooth and
+  enjoyable, without any unnecessary delays. Prices are frequently mentioned as
+  a great value, offering satisfying meals that won't break the bank for
+  families or groups. The cozy atmosphere adds to the charm, creating a
+  laid-back vibe perfect for casual outings or quick dinners. Overall, it's a
+  solid pick for anyone searching for reliable sushi places nearby, delivering a
+  consistently positive experience that leaves diners eager to return.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +351,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

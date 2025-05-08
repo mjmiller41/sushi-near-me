@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "US SUSHI（High Point)"
+title: US SUSHI（High Point)
 permalink: /north-carolina/high-point/us-sushi-high-point.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: High Point
 seo:
-  name: "US SUSHI（High Point)"
-  type: Restaurant
-  links: null
-description: "US SUSHI（High Point) serves delicious sushi in High Point, North Carolina. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.highpointussushi.com/
 place_id: ChIJ943JjpsFU4gRqMaO4eyq-x4
 photos:
   - name: >-
@@ -170,8 +168,113 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8853059b8ec98df7:0x1efbaaece18ec6a8!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
+    - 'Thursday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
+    - 'Friday: 11:00 AM – 2:30 PM, 4:30 – 10:00 PM'
+    - 'Saturday: 12:00 – 10:00 PM'
+    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +282,50 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (336) 841-5858
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.4'
+rating_count: 809
+website: http://www.highpointussushi.com/
+description: >-
+  Discover US Sushi in High Point, NC$$$US Sushi in High Point, NC, stands out
+  as a welcoming Japanese eatery offering a relaxed vibe perfect for enjoying
+  fresh sushi and flavorful hibachi dishes. This spot emphasizes a cozy
+  atmosphere where diners can savor authentic flavors, making it an ideal choice
+  for anyone exploring sushi options nearby. With thoughtful accessibility
+  features like wheelchair-friendly parking and seating, it caters to a wide
+  range of visitors seeking comfortable dining experiences. The menu highlights
+  a variety of expertly prepared rolls and entrees, appealing to those in search
+  of top-rated Japanese cuisine in the area. Whether you're looking for sushi
+  places close to home or a casual meal after a day out, this location delivers
+  on quality and convenience.
+generative_summary: >-
+  Discover US Sushi in High Point, NC$$$US Sushi in High Point, NC, stands out
+  as a welcoming Japanese eatery offering a relaxed vibe perfect for enjoying
+  fresh sushi and flavorful hibachi dishes. This spot emphasizes a cozy
+  atmosphere where diners can savor authentic flavors, making it an ideal choice
+  for anyone exploring sushi options nearby. With thoughtful accessibility
+  features like wheelchair-friendly parking and seating, it caters to a wide
+  range of visitors seeking comfortable dining experiences. The menu highlights
+  a variety of expertly prepared rolls and entrees, appealing to those in search
+  of top-rated Japanese cuisine in the area. Whether you're looking for sushi
+  places close to home or a casual meal after a day out, this location delivers
+  on quality and convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Love About US Sushi$$$Folks often rave about the tasty sushi
+  rolls and bento boxes at this spot, with many highlighting creative options
+  that bring a fun twist to classic flavors. Visitors appreciate the friendly
+  service and spotless environment, which make every meal feel more enjoyable
+  and welcoming. While most agree that the dishes deliver on freshness and
+  variety, a few note that some items might not always hit the mark for
+  everyone. Overall, it's a solid pick for groups or families hunting for
+  reliable Japanese dining, blending good vibes with affordable prices around
+  $20–$30. If you're on the hunt for great sushi nearby, this place earns high
+  marks for its approachable atmosphere and satisfying eats.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +351,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -5,4 +5,5 @@ permalink: /louisiana/covington/
 stateAbbr: LA
 stateName: Louisiana
 cityName: Covington
+
 ---

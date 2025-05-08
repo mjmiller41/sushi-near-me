@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yen Sushi & Sake Bar"
+title: Yen Sushi & Sake Bar
 permalink: /arizona/glendale/yen-sushi-sake-bar.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Glendale
 seo:
-  name: "Yen Sushi & Sake Bar"
-  type: Restaurant
+  type: restaurant
   links: http://yensushi.net/
-description: "Yen Sushi & Sake Bar serves delicious sushi in Glendale, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJbeiQtylpK4cRG0ISLq2XEiI
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x872b6929b790e86d:0x221297ad2e12421b!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:30 PM'
     - 'Tuesday: 11:00 AM – 9:30 PM'
     - 'Wednesday: 11:00 AM – 9:30 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:00 PM'
     - 'Saturday: 12:00 – 10:00 PM'
     - 'Sunday: 12:00 – 9:30 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:30 PM'
-    - 'Tuesday: 11:00 AM – 9:30 PM'
-    - 'Wednesday: 11:00 AM – 9:30 PM'
-    - 'Thursday: 11:00 AM – 9:30 PM'
-    - 'Friday: 11:00 AM – 10:00 PM'
-    - 'Saturday: 12:00 – 10:00 PM'
-    - 'Sunday: 12:00 – 9:30 PM'
+  nextCloseTime: '2025-05-04T05:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +246,45 @@ phone: (602) 978-9022
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.6'
-rating_count: 0
+rating_count: 1715
 website: http://yensushi.net/
+description: >-
+  Discover Yen Sushi & Sake Bar in Glendale, AZ$$$Yen Sushi & Sake Bar in
+  Glendale, AZ, provides a relaxed and welcoming spot for enjoying a diverse
+  selection of fresh sushi and sake, ideal for casual diners seeking authentic
+  Japanese flavors. The restaurant boasts a family-friendly vibe with accessible
+  features like wheelchair-friendly entrances and seating, making it easy for
+  everyone to enjoy a meal. Patrons can explore an array of rolls and dishes
+  that highlight quality ingredients, perfect for those looking for sushi
+  restaurants in the area. With convenient hours extending into the evening,
+  it's a great option for lunch or dinner outings. This spot stands out as a
+  go-to choice for anyone craving top-rated sushi experiences nearby.
+generative_summary: >-
+  Discover Yen Sushi & Sake Bar in Glendale, AZ$$$Yen Sushi & Sake Bar in
+  Glendale, AZ, provides a relaxed and welcoming spot for enjoying a diverse
+  selection of fresh sushi and sake, ideal for casual diners seeking authentic
+  Japanese flavors. The restaurant boasts a family-friendly vibe with accessible
+  features like wheelchair-friendly entrances and seating, making it easy for
+  everyone to enjoy a meal. Patrons can explore an array of rolls and dishes
+  that highlight quality ingredients, perfect for those looking for sushi
+  restaurants in the area. With convenient hours extending into the evening,
+  it's a great option for lunch or dinner outings. This spot stands out as a
+  go-to choice for anyone craving top-rated sushi experiences nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Diners Love About This Sushi Spot$$$Folks often praise the fresh sushi
+  and sashimi at this Glendale favorite, with many highlighting the unbeatable
+  lunch specials and happy hour deals that make it a smart pick for affordable
+  bites. The service stands out for being quick and attentive, adding to the
+  overall enjoyable atmosphere without any unnecessary fuss. Visitors appreciate
+  the clean and comfortable setting, which creates a relaxed environment for
+  solo visits or group gatherings. It's clear that the value and quality here
+  keep people coming back, making it a solid choice for anyone searching for
+  reliable sushi places near me. Overall, the positive vibes and consistent
+  offerings help solidify its reputation as one of the best options around for
+  satisfying sushi cravings.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +310,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

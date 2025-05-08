@@ -5,4 +5,5 @@ permalink: /tennessee/knoxville/
 stateAbbr: TN
 stateName: Tennessee
 cityName: Knoxville
+
 ---

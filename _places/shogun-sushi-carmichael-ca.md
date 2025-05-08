@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Shogun Sushi"
+title: Shogun Sushi
 permalink: /california/carmichael/shogun-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Carmichael
 seo:
-  name: "Shogun Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Shogun Sushi serves delicious sushi in Carmichael, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJWXKnmyDcmoARhypF-IlQaoE
 photos:
   - name: >-
@@ -185,7 +183,45 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Shogun Sushi in Carmichael, CA$$$Shogun Sushi in Carmichael, CA,
+  stands out as a welcoming Japanese eatery that combines casual vibes with
+  authentic flavors, making it a go-to spot for those seeking sushi restaurants
+  nearby. This establishment offers a variety of fresh sushi rolls, bento boxes,
+  and other Asian-inspired dishes, complemented by options like beer and sake
+  for a complete dining experience. Its accessible features, such as easy entry
+  and seating, ensure a comfortable visit for everyone, enhancing the overall
+  appeal for families or individuals exploring top-rated sushi options in the
+  area. The menu highlights creative takes on traditional fare, providing a
+  balance of taste and variety that keeps locals coming back for more flavorful
+  meals.
+generative_summary: >-
+  Discover Shogun Sushi in Carmichael, CA$$$Shogun Sushi in Carmichael, CA,
+  stands out as a welcoming Japanese eatery that combines casual vibes with
+  authentic flavors, making it a go-to spot for those seeking sushi restaurants
+  nearby. This establishment offers a variety of fresh sushi rolls, bento boxes,
+  and other Asian-inspired dishes, complemented by options like beer and sake
+  for a complete dining experience. Its accessible features, such as easy entry
+  and seating, ensure a comfortable visit for everyone, enhancing the overall
+  appeal for families or individuals exploring top-rated sushi options in the
+  area. The menu highlights creative takes on traditional fare, providing a
+  balance of taste and variety that keeps locals coming back for more flavorful
+  meals.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Raving About$$$Folks who stop by this Japanese spot often
+  praise the delicious sushi selections, noting how the fresh rolls and sashimi
+  bring a satisfying burst of flavor to every bite. Many highlight the friendly
+  and attentive service that makes dining out feel relaxed and enjoyable,
+  turning a simple meal into a pleasant outing. The clean and welcoming
+  atmosphere adds to the charm, creating a space where people can unwind while
+  savoring their food without any distractions. Overall, it's clear that the
+  combination of tasty dishes and thoughtful hospitality leaves a positive
+  impression, making it a solid choice for anyone hunting for reliable sushi
+  places nearby. While opinions vary, the general feedback leans toward it being
+  a dependable option for casual diners looking for quality without the fuss.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +247,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

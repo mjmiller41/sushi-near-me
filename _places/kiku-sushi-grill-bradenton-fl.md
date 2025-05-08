@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kiku Sushi & Grill"
+title: Kiku Sushi & Grill
 permalink: /florida/bradenton/kiku-sushi-grill.html
 stateAbbr: FL
 stateName: Florida
 cityName: Bradenton
 seo:
-  name: "Kiku Sushi & Grill"
-  type: Restaurant
+  type: restaurant
   links: http://kikusushigrillfl.com/
-description: "Kiku Sushi & Grill serves delicious sushi in Bradenton, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ9QQdqrsWw4gRge7Kq0Xk2oA
 photos:
   - name: >-
@@ -199,7 +197,46 @@ price_range: null
 rating: '4.5'
 rating_count: 0
 website: http://kikusushigrillfl.com/
+description: >-
+  Discover Kiku Sushi & Grill in Bradenton, FL$$$Kiku Sushi & Grill in
+  Bradenton, Florida, offers a welcoming spot for enjoying authentic Japanese
+  flavors through fresh sushi and grilled specialties in a relaxed setting. This
+  restaurant stands out with its convenient hours, serving lunch and dinner
+  options from Tuesday to Sunday, making it easy to fit into your schedule for a
+  satisfying meal. Accessibility features ensure it's an inclusive choice, with
+  options like wheelchair-friendly entrances and seating that enhance the
+  overall dining experience. Diners can explore a variety of affordable dishes
+  that highlight quality ingredients, perfect for those seeking top-rated sushi
+  or Japanese-inspired cuisine nearby. Whether you're looking for a casual
+  outing with friends or a family-friendly meal, this Bradenton gem delivers a
+  delightful blend of taste and atmosphere.
+generative_summary: >-
+  Discover Kiku Sushi & Grill in Bradenton, FL$$$Kiku Sushi & Grill in
+  Bradenton, Florida, offers a welcoming spot for enjoying authentic Japanese
+  flavors through fresh sushi and grilled specialties in a relaxed setting. This
+  restaurant stands out with its convenient hours, serving lunch and dinner
+  options from Tuesday to Sunday, making it easy to fit into your schedule for a
+  satisfying meal. Accessibility features ensure it's an inclusive choice, with
+  options like wheelchair-friendly entrances and seating that enhance the
+  overall dining experience. Diners can explore a variety of affordable dishes
+  that highlight quality ingredients, perfect for those seeking top-rated sushi
+  or Japanese-inspired cuisine nearby. Whether you're looking for a casual
+  outing with friends or a family-friendly meal, this Bradenton gem delivers a
+  delightful blend of taste and atmosphere.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Folks often rave about the fresh and varied sushi
+  options at this spot, noting how they keep things exciting for regular visits
+  and make it a standout choice for Japanese dining. Many appreciate the
+  attentive service and laid-back vibe, which create a comfortable environment
+  for enjoying a meal without any fuss. It's frequently mentioned as great value
+  for the price, appealing to those hunting for reliable sushi places that don't
+  strain the wallet. While some note occasional waits during busy periods, the
+  overall feedback remains upbeat, with diners highlighting the consistent
+  quality that earns its strong reputation. All in all, it's a solid go-to for
+  anyone craving tasty, approachable Japanese fare in the area.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +262,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

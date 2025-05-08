@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Noble Japanese Steak House"
+title: Noble Japanese Steak House
 permalink: /connecticut/southington/noble-japanese-steak-house.html
 stateAbbr: CT
 stateName: Connecticut
 cityName: Southington
 seo:
-  name: "Noble Japanese Steak House"
-  type: Restaurant
-  links: null
-description: "Noble Japanese Steak House serves delicious sushi in Southington, Connecticut. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://order.noblejapanesesteaksouthington.com/
 place_id: ChIJSZS97RO354kRwTGRwdiv4ts
 photos:
   - name: >-
@@ -170,8 +168,113 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89e7b713edbd9449:0xdbe2afd8c19131c1!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 15
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 15
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 3:00 PM, 4:30 – 10:00 PM'
+    - 'Tuesday: 11:00 AM – 3:00 PM, 4:30 – 10:00 PM'
+    - 'Wednesday: 11:00 AM – 3:00 PM, 4:30 – 10:00 PM'
+    - 'Thursday: 11:00 AM – 3:00 PM, 4:30 – 10:00 PM'
+    - 'Friday: 11:00 AM – 3:00 PM, 4:30 – 11:00 PM'
+    - 'Saturday: 11:00 AM – 11:00 PM'
+    - 'Sunday: 11:30 AM – 10:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +282,52 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (860) 628-7888
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.2'
+rating_count: 929
+website: http://order.noblejapanesesteaksouthington.com/
+description: >-
+  Discover Noble Japanese Steak House in Southington, CT$$$Noble Japanese Steak
+  House in Southington, CT, stands out as a welcoming spot for enjoying fresh
+  sushi and expertly grilled hibachi dishes in a relaxed setting. This casual
+  eatery highlights flavorful Japanese cuisine, including signature rolls and
+  sizzling steak options that appeal to those seeking authentic flavors right in
+  their local area. With thoughtful accessibility features and a vibe perfect
+  for casual dining, it's an ideal choice for anyone exploring top-rated sushi
+  restaurants nearby. Happy hour specials add extra value, making it a go-to for
+  affordable yet memorable meals. Whether you're in the mood for classic
+  Japanese fare or something lively like hibachi, this place combines quality
+  ingredients with a comfortable atmosphere to enhance your dining experience.
+generative_summary: >-
+  Discover Noble Japanese Steak House in Southington, CT$$$Noble Japanese Steak
+  House in Southington, CT, stands out as a welcoming spot for enjoying fresh
+  sushi and expertly grilled hibachi dishes in a relaxed setting. This casual
+  eatery highlights flavorful Japanese cuisine, including signature rolls and
+  sizzling steak options that appeal to those seeking authentic flavors right in
+  their local area. With thoughtful accessibility features and a vibe perfect
+  for casual dining, it's an ideal choice for anyone exploring top-rated sushi
+  restaurants nearby. Happy hour specials add extra value, making it a go-to for
+  affordable yet memorable meals. Whether you're in the mood for classic
+  Japanese fare or something lively like hibachi, this place combines quality
+  ingredients with a comfortable atmosphere to enhance your dining experience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About This Local Sushi Spot$$$Visitors to this
+  Japanese steak house often rave about the fresh, high-quality sushi and
+  flavorful hibachi dishes that make every meal feel special without breaking
+  the bank. Many appreciate the friendly service and efficient vibe, noting it's
+  a solid pick for groups or families looking for a fun night out in a casual
+  environment. While a few mention occasional waits during peak times, the
+  overall consensus leans positive with its 4.2 rating from numerous reviews
+  highlighting great value and tasty options. Folks searching for reliable sushi
+  places nearby seem to enjoy the variety and presentation, making it a repeat
+  favorite for those craving authentic flavors. All in all, it's a dependable
+  choice that delivers a satisfying experience, encouraging diners to come back
+  for more enjoyable evenings.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +353,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

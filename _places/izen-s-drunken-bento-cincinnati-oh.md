@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Izen's Drunken Bento"
+title: Izen's Drunken Bento
 permalink: /ohio/cincinnati/izen-s-drunken-bento.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Cincinnati
 seo:
-  name: "Izen's Drunken Bento"
-  type: Restaurant
+  type: restaurant
   links: https://www.drunkenbento.com/
-description: "Sushi rolls plus classic Korean dishes served in a bustling, compact space with a full bar. Izen's Drunken Bento serves delicious sushi in Cincinnati, Ohio. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJDfc2HPWzQYgR4pBaFdYsOsg
 photos:
   - name: >-
@@ -182,6 +180,31 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 0
 website: https://www.drunkenbento.com/
+description: >-
+  Discover Izen's Drunken Bento in Cincinnati, OH$$$Izen's Drunken Bento in
+  Cincinnati, OH, stands out as a welcoming Korean eatery blending traditional
+  flavors with fresh sushi options, perfect for those seeking sushi restaurants
+  nearby. This cozy spot features a lively bar atmosphere where you can enjoy
+  inventive rolls alongside hearty Korean dishes like bibimbap and tempura, all
+  prepared with authentic touches that highlight its cultural roots. The menu
+  offers great value with affordable pricing, making it an ideal choice for
+  casual dinners or groups looking for japanese places near me that deliver on
+  both taste and atmosphere. With options for dine-in and takeout, it's a go-to
+  destination for anyone craving top-rated sushi in a relaxed setting, complete
+  with beer and cocktails to enhance the experience.
+generative_summary: >-
+  Discover Izen's Drunken Bento in Cincinnati, OH$$$Izen's Drunken Bento in
+  Cincinnati, OH, stands out as a welcoming Korean eatery blending traditional
+  flavors with fresh sushi options, perfect for those seeking sushi restaurants
+  nearby. This cozy spot features a lively bar atmosphere where you can enjoy
+  inventive rolls alongside hearty Korean dishes like bibimbap and tempura, all
+  prepared with authentic touches that highlight its cultural roots. The menu
+  offers great value with affordable pricing, making it an ideal choice for
+  casual dinners or groups looking for japanese places near me that deliver on
+  both taste and atmosphere. With options for dine-in and takeout, it's a go-to
+  destination for anyone craving top-rated sushi in a relaxed setting, complete
+  with beer and cocktails to enhance the experience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJDfc2HPWzQYgR4pBaFdYsOsg/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ3N3ZyLTV3RRAB
@@ -363,6 +386,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURBXzRfdjhBRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURBXzRfdjhBRRAB!2m1!1s0x8841b3f51c36f70d:0xc83a2cd6155a90e2
+review_summary: >-
+  What Guests Are Saying$$$Visitors to this spot often rave about the delicious
+  and authentic Korean dishes, with many highlighting the fresh sushi rolls as a
+  standout feature that keeps them coming back for more. Folks appreciate the
+  friendly service and cozy vibe, noting that the value for money makes it a
+  smart pick for affordable meals without skimping on quality. While some
+  mention it's a fun place for trying new flavors, others enjoy the quick
+  service and variety of options that cater to different tastes, including
+  vegetarian choices. Overall, the consensus leans positive, with diners
+  frequently praising the welcoming staff and solid portions that make it feel
+  like a hidden gem for sushi enthusiasts in the area.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidParkingLot: true
   paidStreetParking: true
@@ -395,8 +430,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Sushi rolls plus classic Korean dishes served in a bustling, compact space
   with a full bar.
 

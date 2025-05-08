@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sakura Sushi & Bar"
+title: Sakura Sushi & Bar
 permalink: /texas/lakeway/sakura-sushi-bar.html
 stateAbbr: TX
 stateName: Texas
 cityName: Lakeway
 seo:
-  name: "Sakura Sushi & Bar"
-  type: Restaurant
+  type: restaurant
   links: https://www.sakurasushibarlakeway.com/
-description: "Sakura Sushi & Bar serves delicious sushi in Lakeway, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJO2Nxd9s5W4YRF9D8gn141Ak
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x865b39db7771633b:0x9d4787d82fcd017!10e5
 primary_type: Asian Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:30 PM'
     - 'Tuesday: 11:00 AM – 9:30 PM'
     - 'Wednesday: 11:00 AM – 9:30 PM'
@@ -178,54 +234,345 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:00 PM'
     - 'Saturday: 11:00 AM – 10:00 PM'
     - 'Sunday: 12:00 – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:30 PM'
-    - 'Tuesday: 11:00 AM – 9:30 PM'
-    - 'Wednesday: 11:00 AM – 9:30 PM'
-    - 'Thursday: 11:00 AM – 9:30 PM'
-    - 'Friday: 11:00 AM – 10:00 PM'
-    - 'Saturday: 11:00 AM – 10:00 PM'
-    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: false
+    periods:
+      - open:
+          day: 1
+          hour: 11
+          minute: 0
+        close:
+          day: 1
+          hour: 14
+          minute: 30
+      - open:
+          day: 2
+          hour: 11
+          minute: 0
+        close:
+          day: 2
+          hour: 14
+          minute: 30
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 14
+          minute: 30
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 14
+          minute: 30
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 14
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 11:00 AM – 2:30 PM'
+      - 'Tuesday: 11:00 AM – 2:30 PM'
+      - 'Wednesday: 11:00 AM – 2:30 PM'
+      - 'Thursday: 11:00 AM – 2:30 PM'
+      - 'Friday: 11:00 AM – 2:30 PM'
+      - 'Saturday: Closed'
+      - 'Sunday: Closed'
+    secondaryHoursType: LUNCH
+    nextOpenTime: '2025-05-05T16:00:00Z'
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 0
+        close:
+          day: 0
+          hour: 21
+          minute: 0
+      - open:
+          day: 1
+          hour: 14
+          minute: 30
+        close:
+          day: 1
+          hour: 21
+          minute: 30
+      - open:
+          day: 2
+          hour: 14
+          minute: 30
+        close:
+          day: 2
+          hour: 21
+          minute: 30
+      - open:
+          day: 3
+          hour: 14
+          minute: 30
+        close:
+          day: 3
+          hour: 21
+          minute: 30
+      - open:
+          day: 4
+          hour: 14
+          minute: 30
+        close:
+          day: 4
+          hour: 21
+          minute: 30
+      - open:
+          day: 5
+          hour: 14
+          minute: 30
+        close:
+          day: 5
+          hour: 22
+          minute: 0
+      - open:
+          day: 6
+          hour: 11
+          minute: 0
+        close:
+          day: 6
+          hour: 22
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 2:30 – 9:30 PM'
+      - 'Tuesday: 2:30 – 9:30 PM'
+      - 'Wednesday: 2:30 – 9:30 PM'
+      - 'Thursday: 2:30 – 9:30 PM'
+      - 'Friday: 2:30 – 10:00 PM'
+      - 'Saturday: 11:00 AM – 10:00 PM'
+      - 'Sunday: 12:00 – 9:00 PM'
+    secondaryHoursType: DINNER
+    nextCloseTime: '2025-05-04T03:00:00Z'
 phone: (512) 263-0866
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.4'
-rating_count: 0
+rating_count: 540
 website: https://www.sakurasushibarlakeway.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Experience Sakura Sushi & Bar in Lakeway, TX$$$Sakura Sushi & Bar in Lakeway,
+  TX, invites diners into a cozy space that blends traditional Japanese elements
+  with modern touches, creating an inviting atmosphere for enjoying fresh sushi
+  and Asian dishes. The restaurant features a menu highlighting expertly crafted
+  rolls and flavorful starters, paired with a selection of beer, wine, sake, and
+  cocktails to enhance your meal. Accessibility is a key highlight, with options
+  like wheelchair-friendly entrances and seating making it welcoming for all
+  guests. Operating from late morning into the evening, it's a convenient spot
+  for lunch or dinner, especially for those searching for top sushi options in
+  the area.
+generative_summary: >-
+  Experience Sakura Sushi & Bar in Lakeway, TX$$$Sakura Sushi & Bar in Lakeway,
+  TX, invites diners into a cozy space that blends traditional Japanese elements
+  with modern touches, creating an inviting atmosphere for enjoying fresh sushi
+  and Asian dishes. The restaurant features a menu highlighting expertly crafted
+  rolls and flavorful starters, paired with a selection of beer, wine, sake, and
+  cocktails to enhance your meal. Accessibility is a key highlight, with options
+  like wheelchair-friendly entrances and seating making it welcoming for all
+  guests. Operating from late morning into the evening, it's a convenient spot
+  for lunch or dinner, especially for those searching for top sushi options in
+  the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJO2Nxd9s5W4YRF9D8gn141Ak/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfc09DUnJ3RRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        It was fantastic! The food was hot and delicious 😋 Definitely will be
+        back. Thank you for the great service.
+      languageCode: en
+    originalText:
+      text: >-
+        It was fantastic! The food was hot and delicious 😋 Definitely will be
+        back. Thank you for the great service.
+      languageCode: en
+    authorAttribution:
+      displayName: Peacefulsoul
+      uri: https://www.google.com/maps/contrib/112969952056289546715/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUTa5RmkGmc3sAVjBLGopZPGpxfltqWtvfoOjoD-xIru7wEpBXQ=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-01-12T03:02:28.533240Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNfc09DUnJ3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNfc09DUnJ3RRAB!2m1!1s0x865b39db7771633b:0x9d4787d82fcd017
+  - name: >-
+      places/ChIJO2Nxd9s5W4YRF9D8gn141Ak/reviews/ChZDSUhNMG9nS0VJQ0FnSUR0dXVIcGR3EAE
+    relativePublishTimeDescription: a year ago
+    rating: 4
+    text:
+      text: >-
+        Got this delivered, did not eat in the restaurant. Really liked the
+        sweet passion and Sakura roll. Did not like the crab rangoon. The
+        cucumber roll had too much cucumber in it to me but I guess I should
+        have known from the title.
+      languageCode: en
+    originalText:
+      text: >-
+        Got this delivered, did not eat in the restaurant. Really liked the
+        sweet passion and Sakura roll. Did not like the crab rangoon. The
+        cucumber roll had too much cucumber in it to me but I guess I should
+        have known from the title.
+      languageCode: en
+    authorAttribution:
+      displayName: Christina Huynh
+      uri: https://www.google.com/maps/contrib/113879273757694512511/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWyL-RLdaIOjA5hbaPZqnL2N9vfnHXKObk3ArCw0rHsjIJ-_v1DeQ=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2024-02-04T01:37:25.461534Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR0dXVIcGR3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR0dXVIcGR3EAE!2m1!1s0x865b39db7771633b:0x9d4787d82fcd017
+  - name: >-
+      places/ChIJO2Nxd9s5W4YRF9D8gn141Ak/reviews/ChdDSUhNMG9nS0VJQ0FnSURIb3ZPVnlnRRAB
+    relativePublishTimeDescription: 7 months ago
+    rating: 5
+    text:
+      text: >-
+        The sashimi salad is absolutely amazing!!  The fantastic 4 sushi roll is
+        out of their world.  You are in Lakeway it is a must stop for sushi. 🤙
+      languageCode: en
+    originalText:
+      text: >-
+        The sashimi salad is absolutely amazing!!  The fantastic 4 sushi roll is
+        out of their world.  You are in Lakeway it is a must stop for sushi. 🤙
+      languageCode: en
+    authorAttribution:
+      displayName: Anthony Arteaga
+      uri: https://www.google.com/maps/contrib/104538234358450472033/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVFROZPTM0BpCSxNRf0Q8iKd_s_dRyLXomP76yHM3jujFx69jPcbg=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-09-14T02:22:06.596130Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURIb3ZPVnlnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURIb3ZPVnlnRRAB!2m1!1s0x865b39db7771633b:0x9d4787d82fcd017
+  - name: >-
+      places/ChIJO2Nxd9s5W4YRF9D8gn141Ak/reviews/ChdDSUhNMG9nS0VJQ0FnSUNueTZyQWd3RRAB
+    relativePublishTimeDescription: 7 months ago
+    rating: 1
+    text:
+      text: >-
+        I have been in person many times and it is just fine. If busy definitely
+        loud. I do take out more. I ordered through Uber eats over 30 times but
+        my issue is no matter how much I order and call and leave notes to send
+        chopsticks which I always say how many, I only get 1 set. There is an
+        always "we will make sure next time" this was the final straw, who wants
+        to eat sushi with a fork? There was an apology again and they did drive
+        out 6 chopsticks I requested and 2 dumplings lol if you know you shorted
+        6 chopsticks why would two dumplings? Sorry to say like so many places
+        no one cares. Note the picture where the request is made 3 times!
+      languageCode: en
+    originalText:
+      text: >-
+        I have been in person many times and it is just fine. If busy definitely
+        loud. I do take out more. I ordered through Uber eats over 30 times but
+        my issue is no matter how much I order and call and leave notes to send
+        chopsticks which I always say how many, I only get 1 set. There is an
+        always "we will make sure next time" this was the final straw, who wants
+        to eat sushi with a fork? There was an apology again and they did drive
+        out 6 chopsticks I requested and 2 dumplings lol if you know you shorted
+        6 chopsticks why would two dumplings? Sorry to say like so many places
+        no one cares. Note the picture where the request is made 3 times!
+      languageCode: en
+    authorAttribution:
+      displayName: Simone Gonzalez
+      uri: https://www.google.com/maps/contrib/106678265146605171561/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWh1u_X81DVBfG092faZwhN0SvTEySVdTj6k-CjYnaFYQQ8n3dA8w=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2024-09-30T00:40:22.965267Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNueTZyQWd3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNueTZyQWd3RRAB!2m1!1s0x865b39db7771633b:0x9d4787d82fcd017
+  - name: >-
+      places/ChIJO2Nxd9s5W4YRF9D8gn141Ak/reviews/ChZDSUhNMG9nS0VJQ0FnTURJbjlmMUl3EAE
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        Welcoming and outstanding service from the moment you open the door!
+        Highly recommend hand made rolls, soup, Mongolian beef. So yummy. Fun &
+        family friendly atmosphere!
+      languageCode: en
+    originalText:
+      text: >-
+        Welcoming and outstanding service from the moment you open the door!
+        Highly recommend hand made rolls, soup, Mongolian beef. So yummy. Fun &
+        family friendly atmosphere!
+      languageCode: en
+    authorAttribution:
+      displayName: WR
+      uri: https://www.google.com/maps/contrib/103818433720707074878/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIYw586pfyDTkDF5VRnLRlJ-k3DXqU1L8qJp_2Tklx70cZEWxA=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-14T01:27:40.971189Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURJbjlmMUl3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJbjlmMUl3EAE!2m1!1s0x865b39db7771633b:0x9d4787d82fcd017
+review_summary: >-
+  Buzz Around Sakura Sushi & Bar$$$Visitors often rave about the fresh and
+  flavorful sushi rolls that make this spot a go-to for Japanese fare, with many
+  highlighting how the dishes hit the spot every time. Folks appreciate the
+  friendly service and lively vibe that keeps things relaxed and enjoyable,
+  perfect for groups or families looking for a casual meal. While some mention
+  minor hiccups with takeout orders, the overall in-person experience shines
+  through with tasty favorites like salads and hand-made rolls stealing the
+  show. It's clear that this place earns its reputation as one of the reliable
+  sushi spots nearby, offering solid value that leaves people satisfied and
+  eager to return.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  paidStreetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
+curbside_pickup: true
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
 good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+live_music: false
+menu_for_children: true
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Sprawling dining room specializing in sushi & Japanese starters with beer,
+  wine, sake & cocktails.
 
 ---

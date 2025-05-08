@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Tyme"
+title: Sushi Tyme
 permalink: /california/santa-barbara/sushi-tyme.html
 stateAbbr: CA
 stateName: California
 cityName: Santa Barbara
 seo:
-  name: "Sushi Tyme"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi Tyme serves delicious sushi in Santa Barbara, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJt5HOO3kU6YAR5-frHB_iIO8
 photos:
   - name: >-
@@ -184,6 +182,33 @@ price_range: $10 &ndash; $20
 rating: '3.8'
 rating_count: 0
 website: null
+description: >-
+  Explore Sushi Tyme in Santa Barbara$$$Sushi Tyme in Santa Barbara, CA, stands
+  out as a laid-back sushi restaurant nestled in the vibrant Paseo Nuevo mall,
+  offering a menu of inventive rolls that blend fresh flavors with creative
+  twists. This spot emphasizes accessibility with features like
+  wheelchair-friendly entrances and seating, making it welcoming for all diners
+  seeking a casual meal. Patrons can enjoy outdoor seating options in a lively
+  neighborhood setting, perfect for those exploring Japanese-inspired cuisine
+  nearby. The affordable pricing and variety of dishes cater to a range of
+  tastes, from classic favorites to unique combinations that highlight quality
+  ingredients. Whether you're in the mood for a quick bite or a relaxed dining
+  experience, Sushi Tyme delivers a blend of convenience and flavorful options
+  in the heart of the city.
+generative_summary: >-
+  Explore Sushi Tyme in Santa Barbara$$$Sushi Tyme in Santa Barbara, CA, stands
+  out as a laid-back sushi restaurant nestled in the vibrant Paseo Nuevo mall,
+  offering a menu of inventive rolls that blend fresh flavors with creative
+  twists. This spot emphasizes accessibility with features like
+  wheelchair-friendly entrances and seating, making it welcoming for all diners
+  seeking a casual meal. Patrons can enjoy outdoor seating options in a lively
+  neighborhood setting, perfect for those exploring Japanese-inspired cuisine
+  nearby. The affordable pricing and variety of dishes cater to a range of
+  tastes, from classic favorites to unique combinations that highlight quality
+  ingredients. Whether you're in the mood for a quick bite or a relaxed dining
+  experience, Sushi Tyme delivers a blend of convenience and flavorful options
+  in the heart of the city.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJt5HOO3kU6YAR5-frHB_iIO8/reviews/ChdDSUhNMG9nS0VJQ0FnTURJZ01ESjZ3RRAB
@@ -363,6 +388,17 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNydkt6cnFnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNydkt6cnFnRRAB!2m1!1s0x80e914793bce91b7:0xef20e21f1cebe7e7
+review_summary: >-
+  Visitor Feedback on Sushi Tyme$$$Folks often rave about the friendly service
+  and tasty, budget-friendly rolls that make for a satisfying meal at this spot.
+  Many appreciate the creative specials and generous portions, which add to the
+  fun of grabbing sushi in a casual vibe. While some experiences highlight
+  inconsistencies like occasional preparation issues, the overall atmosphere and
+  outdoor seating keep things enjoyable for groups. It's a go-to choice for
+  affordable Japanese eats, with positive notes on the variety that keeps diners
+  coming back. If you're hunting for local sushi options, this place offers
+  solid value despite a few mixed opinions on quality.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   valetParking: false
 payment_options:
@@ -393,7 +429,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

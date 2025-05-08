@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yo Poké Fusion"
+title: Yo Poké Fusion
 permalink: /montana/bozeman/yo-poke-fusion.html
 stateAbbr: MT
 stateName: Montana
 cityName: Bozeman
 seo:
-  name: "Yo Poké Fusion"
-  type: Restaurant
+  type: restaurant
   links: http://www.yopokefusion.com/
-description: "Yo Poké Fusion serves delicious sushi in Bozeman, Montana. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJkTAggdVFRVMRy_irvYKBDmM
 photos:
   - name: >-
@@ -185,6 +183,27 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 0
 website: http://www.yopokefusion.com/
+description: >-
+  Discover Yo Poké Fusion in Bozeman, MT$$$Nestled in Bozeman, MT, Yo Poké
+  Fusion stands out as a casual spot for fresh sushi-inspired dishes that blend
+  flavors from poke bars and Japanese traditions. This inviting eatery offers a
+  variety of customizable bowls, sushi burritos, and nachos, complemented by
+  options like miso soup, making it a go-to choice for those seeking sushi
+  restaurants near me. With accessibility features such as wheelchair-friendly
+  entrances and parking, it's designed for everyone to enjoy a relaxed meal. The
+  clean atmosphere and focus on fresh ingredients enhance the experience,
+  perfect for anyone exploring top-rated sushi options in the area.
+generative_summary: >-
+  Discover Yo Poké Fusion in Bozeman, MT$$$Nestled in Bozeman, MT, Yo Poké
+  Fusion stands out as a casual spot for fresh sushi-inspired dishes that blend
+  flavors from poke bars and Japanese traditions. This inviting eatery offers a
+  variety of customizable bowls, sushi burritos, and nachos, complemented by
+  options like miso soup, making it a go-to choice for those seeking sushi
+  restaurants near me. With accessibility features such as wheelchair-friendly
+  entrances and parking, it's designed for everyone to enjoy a relaxed meal. The
+  clean atmosphere and focus on fresh ingredients enhance the experience,
+  perfect for anyone exploring top-rated sushi options in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJkTAggdVFRVMRy_irvYKBDmM/reviews/ChZDSUhNMG9nS0VJQ0FnSUNKNzZDR2VBEAE
@@ -440,6 +459,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNfNExpZUNnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNfNExpZUNnEAE!2m1!1s0x534545d581203091:0x630e8182bdabf8cb
+review_summary: >-
+  What Customers Are Buzzing About This Sushi Spot$$$Visitors often praise Yo
+  Poké Fusion for its tasty, fresh poke bowls and friendly service, making it a
+  solid pick for a quick and satisfying meal when craving sushi close to me.
+  While some folks note occasional inconsistencies in portion sizes, the overall
+  vibe remains positive with generous servings on many visits that leave diners
+  feeling full and happy. Feedback highlights the flavorful combinations and
+  clean environment, appealing to those looking for healthy Japanese places near
+  me without the fuss. Despite a few mentions of service hiccups, the majority
+  enjoy the welcoming staff and variety of options, encouraging repeat trips for
+  anyone who loves sushi. All in all, it's a reliable spot that delivers on
+  flavor while offering room for improvement based on shared experiences.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -472,7 +504,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

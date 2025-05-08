@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Ok"
+title: Sushi Ok
 permalink: /california/riverside/sushi-ok.html
 stateAbbr: CA
 stateName: California
 cityName: Riverside
 seo:
-  name: "Sushi Ok"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Casual eatery in a strip mall provides a wide array of sushi & classic Japanese entrees, plus sake. Sushi Ok serves delicious sushi in Riverside, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJhYkt7wOx3IARyQD8ZdLcbA0
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: null
 rating: '4.6'
 rating_count: 0
 website: null
+description: >-
+  Discover Sushi Ok in Riverside, CA$$$Sushi Ok in Riverside, CA, stands out as
+  a welcoming sushi restaurant offering a variety of fresh Japanese dishes in a
+  relaxed setting. This spot features an array of expertly prepared sushi rolls,
+  sashimi, and bento boxes, making it a go-to choice for those seeking authentic
+  flavors in a cozy atmosphere with a bar for casual enjoyment. Accessibility is
+  a key highlight, with options like wheelchair-friendly entrances and seating
+  that ensure everyone can enjoy the experience comfortably. Patrons appreciate
+  the moderate pricing and convenient parking, adding to the appeal for families
+  and groups looking for top-rated sushi options nearby. Whether you're in the
+  mood for a quick bite or a leisurely meal, Sushi Ok delivers on quality and
+  variety that captures the essence of Japanese cuisine.
+generative_summary: >-
+  Discover Sushi Ok in Riverside, CA$$$Sushi Ok in Riverside, CA, stands out as
+  a welcoming sushi restaurant offering a variety of fresh Japanese dishes in a
+  relaxed setting. This spot features an array of expertly prepared sushi rolls,
+  sashimi, and bento boxes, making it a go-to choice for those seeking authentic
+  flavors in a cozy atmosphere with a bar for casual enjoyment. Accessibility is
+  a key highlight, with options like wheelchair-friendly entrances and seating
+  that ensure everyone can enjoy the experience comfortably. Patrons appreciate
+  the moderate pricing and convenient parking, adding to the appeal for families
+  and groups looking for top-rated sushi options nearby. Whether you're in the
+  mood for a quick bite or a leisurely meal, Sushi Ok delivers on quality and
+  variety that captures the essence of Japanese cuisine.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJhYkt7wOx3IARyQD8ZdLcbA0/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3OTVYRW1nRRAB
@@ -324,6 +347,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUROdnRmVlBBEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUROdnRmVlBBEAE!2m1!1s0x80dcb103ef2d8985:0xd6cdcd265fc00c9
+review_summary: >-
+  What Customers Love About This Spot$$$Visitors to this sushi place often
+  praise the consistent quality and fresh flavors that make every visit
+  worthwhile, with standout dishes like the nagitoro hand roll and mountain roll
+  drawing plenty of compliments. Many highlight the excellent lunch specials and
+  bento options as great values for a satisfying meal, perfect for a casual
+  outing or date night in a fun atmosphere. The service stands out as friendly
+  and attentive, enhancing the overall dining experience without any major
+  drawbacks mentioned. Folks appreciate the welcoming vibe and thoughtful
+  touches like complimentary desserts, making it a solid pick for anyone hunting
+  for reliable Japanese eats close by. Overall, it's clear that this spot earns
+  its reputation as one of the best sushi restaurants around, delivering
+  enjoyable meals that keep people coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -355,8 +392,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Casual eatery in a strip mall provides a wide array of sushi & classic
   Japanese entrees, plus sake.
 

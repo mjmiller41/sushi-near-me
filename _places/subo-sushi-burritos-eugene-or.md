@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Subo Sushi Burritos"
+title: Subo Sushi Burritos
 permalink: /oregon/eugene/subo-sushi-burritos.html
 stateAbbr: OR
 stateName: Oregon
 cityName: Eugene
 seo:
-  name: "Subo Sushi Burritos"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Subo Sushi Burritos serves delicious sushi in Eugene, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJa4igu4gfwVQRMJHbswoqwGE
 photos:
   - name: >-
@@ -184,7 +182,45 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Subo Sushi Burritos in Eugene, OR$$$Subo Sushi Burritos in Eugene,
+  Oregon, stands out as a lively spot for fresh sushi options that blend
+  creativity with classic flavors. This restaurant specializes in inventive
+  burritos and bowls packed with high-quality ingredients, making it a go-to
+  choice for those seeking satisfying meals in a welcoming atmosphere. With
+  offerings that include beer, wine, and cider to complement your dining
+  experience, it's perfect for casual get-togethers or a quick bite after
+  exploring the area. Accessibility features like wheelchair-friendly parking
+  and entrances add to its appeal, ensuring everyone can enjoy the vibrant vibe.
+  If you're on the hunt for top sushi spots nearby, this location delivers a
+  fresh twist on familiar favorites that keeps locals coming back.
+generative_summary: >-
+  Discover Subo Sushi Burritos in Eugene, OR$$$Subo Sushi Burritos in Eugene,
+  Oregon, stands out as a lively spot for fresh sushi options that blend
+  creativity with classic flavors. This restaurant specializes in inventive
+  burritos and bowls packed with high-quality ingredients, making it a go-to
+  choice for those seeking satisfying meals in a welcoming atmosphere. With
+  offerings that include beer, wine, and cider to complement your dining
+  experience, it's perfect for casual get-togethers or a quick bite after
+  exploring the area. Accessibility features like wheelchair-friendly parking
+  and entrances add to its appeal, ensuring everyone can enjoy the vibrant vibe.
+  If you're on the hunt for top sushi spots nearby, this location delivers a
+  fresh twist on familiar favorites that keeps locals coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Love About This Sushi Spot$$$Visitors often praise the
+  delicious sushi burritos at this spot, with creative options like a popular
+  signature roll stealing the show for its bold flavors and fresh ingredients.
+  Many highlight the quick and friendly service that makes grabbing a meal feel
+  effortless and enjoyable, even during busy times. Folks appreciate the
+  inventive take on traditional dishes, noting how it adds excitement to their
+  dining routine without skimping on quality. Overall, it's a solid pick for
+  anyone craving a casual sushi experience, with the efficient vibe helping it
+  stand out in the neighborhood. If you're exploring sushi places around town,
+  this one frequently gets nods for its tasty offerings and welcoming approach
+  that leaves a positive impression.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +246,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

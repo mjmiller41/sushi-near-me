@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "@Sushi"
+title: '@Sushi'
 permalink: /california/long-beach/sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Long Beach
 seo:
-  name: "@Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "@Sushi serves delicious sushi in Long Beach, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJvUk_RScx3YARQ21kjER1tig
 photos:
   - name: >-
@@ -185,7 +183,44 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Experience @Sushi in Long Beach, CA$$$Nestled in the vibrant Belmont Shore
+  neighborhood of Long Beach, CA, @Sushi stands out as a welcoming spot for
+  enjoying authentic Japanese flavors in a laid-back setting. This sushi
+  restaurant specializes in high-quality nigiri and inventive rolls, paired
+  perfectly with selections of sake and beer to enhance your meal. Visitors
+  appreciate the accessible features that make it easy for everyone to savor the
+  experience, from wheelchair-friendly entrances to comfortable seating. Whether
+  you're seeking top-rated sushi options nearby or simply craving a casual
+  Japanese dining vibe, the focus on fresh ingredients and thoughtful
+  presentation ensures a memorable visit that highlights the best of local sushi
+  scenes.
+generative_summary: >-
+  Experience @Sushi in Long Beach, CA$$$Nestled in the vibrant Belmont Shore
+  neighborhood of Long Beach, CA, @Sushi stands out as a welcoming spot for
+  enjoying authentic Japanese flavors in a laid-back setting. This sushi
+  restaurant specializes in high-quality nigiri and inventive rolls, paired
+  perfectly with selections of sake and beer to enhance your meal. Visitors
+  appreciate the accessible features that make it easy for everyone to savor the
+  experience, from wheelchair-friendly entrances to comfortable seating. Whether
+  you're seeking top-rated sushi options nearby or simply craving a casual
+  Japanese dining vibe, the focus on fresh ingredients and thoughtful
+  presentation ensures a memorable visit that highlights the best of local sushi
+  scenes.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Recent Feedback$$$People often praise this sushi spot for its
+  incredibly fresh and flavorful dishes, with standout items like fatty salmon
+  and soft shell crab earning high marks for their quality and taste. Many
+  highlight the attentive service that adds a warm touch to the overall
+  experience, making it feel inviting for anyone dropping in. The excellent way
+  the food is presented also gets nods, turning each meal into a visual treat
+  that elevates the enjoyment. While opinions vary, the general buzz keeps
+  things positive, suggesting it's a solid choice for those hunting for reliable
+  sushi places nearby. All in all, it comes across as a go-to destination that
+  delivers on both flavor and hospitality without any major letdowns.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +246,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

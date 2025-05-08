@@ -5,4 +5,5 @@ permalink: /washington/spokane/
 stateAbbr: WA
 stateName: Washington
 cityName: Spokane
+
 ---

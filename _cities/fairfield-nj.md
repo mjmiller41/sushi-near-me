@@ -5,4 +5,5 @@ permalink: /new-jersey/fairfield/
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Fairfield
+
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "No. 1 Sushi Sushi"
+title: No. 1 Sushi Sushi
 permalink: /pennsylvania/pittsburgh/no-1-sushi-sushi.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Pittsburgh
 seo:
-  name: "No. 1 Sushi Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://no1sushisushii.com/
-description: "Unassuming Japanese eatery turning out basic & specialty sushi rolls along with miso soup & salads. No. 1 Sushi Sushi serves delicious sushi in Pittsburgh, Pennsylvania. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJKYXik1bxNIgRbgJ_mtNfjoM
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 0
 website: http://no1sushisushii.com/
+description: >-
+  Explore No. 1 Sushi Sushi in Pittsburgh, PA$$$No. 1 Sushi Sushi in Pittsburgh,
+  PA, stands out as a cozy Japanese eatery offering a delightful array of fresh
+  sushi rolls and traditional sides that capture the essence of authentic
+  flavors. Known for its specialty options like salmon skin and eel avocado
+  rolls, this spot also features chirashi sushi and catering services, making it
+  a versatile choice for casual meals or events. The menu emphasizes quality
+  ingredients and well-prepared dishes, including flavorful miso soup and salads
+  that pair perfectly with the rolls. With its unassuming vibe in the heart of
+  downtown, it's an ideal destination for those seeking top-rated sushi
+  experiences in a welcoming atmosphere. This Pittsburgh sushi restaurant
+  provides affordable options that appeal to both locals and visitors looking
+  for a satisfying dining escape.
+generative_summary: >-
+  Explore No. 1 Sushi Sushi in Pittsburgh, PA$$$No. 1 Sushi Sushi in Pittsburgh,
+  PA, stands out as a cozy Japanese eatery offering a delightful array of fresh
+  sushi rolls and traditional sides that capture the essence of authentic
+  flavors. Known for its specialty options like salmon skin and eel avocado
+  rolls, this spot also features chirashi sushi and catering services, making it
+  a versatile choice for casual meals or events. The menu emphasizes quality
+  ingredients and well-prepared dishes, including flavorful miso soup and salads
+  that pair perfectly with the rolls. With its unassuming vibe in the heart of
+  downtown, it's an ideal destination for those seeking top-rated sushi
+  experiences in a welcoming atmosphere. This Pittsburgh sushi restaurant
+  provides affordable options that appeal to both locals and visitors looking
+  for a satisfying dining escape.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJKYXik1bxNIgRbgJ_mtNfjoM/reviews/ChdDSUhNMG9nS0VJQ0FnSUNmb2RlM3NnRRAB
@@ -390,6 +415,21 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNycmUzZFpnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNycmUzZFpnEAE!2m1!1s0x8834f15693e28529:0x838e5fd39a7f026e
+review_summary: >-
+  What Customers Are Buzzing About$$$Visitors to this Pittsburgh sushi spot
+  often rave about the generous portions and fresh flavors that make meals feel
+  like a treat, with many highlighting the tasty rolls and miso soup as standout
+  features. While some folks mention occasional issues with roll assembly or
+  dryness, the overall consensus leans positive, praising the friendly service
+  and quick preparation that keep things efficient and enjoyable. It's
+  frequently noted as a great value for anyone craving quality sushi without
+  breaking the bank, earning it high marks for affordability and taste. Despite
+  a few mixed experiences, the majority appreciate the welcoming vibe and solid
+  options for takeout or dine-in, making it a reliable go-to for sushi lovers in
+  the area. If you're searching for tasty sushi near you, this place delivers a
+  generally satisfying experience with its focus on fresh ingredients and
+  attentive staff.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   valetParking: false
 payment_options:
@@ -420,8 +460,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Unassuming Japanese eatery turning out basic & specialty sushi rolls along
   with miso soup & salads.
 

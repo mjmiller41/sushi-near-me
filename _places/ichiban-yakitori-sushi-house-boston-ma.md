@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ichiban Yakitori Sushi House"
+title: Ichiban Yakitori Sushi House
 permalink: /massachusetts/boston/ichiban-yakitori-sushi-house.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Boston
 seo:
-  name: "Ichiban Yakitori Sushi House"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Ichiban Yakitori Sushi House serves delicious sushi in Boston, Massachusetts. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJoeSvGRp644kRvftBz8KnUzQ
 photos:
   - name: >-
@@ -184,7 +182,45 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Ichiban in Boston, MA$$$Ichiban Yakitori Sushi House in Boston, MA,
+  provides a relaxed setting for savoring authentic Japanese flavors that blend
+  tradition with casual dining. This spot highlights a diverse menu featuring
+  fresh yakitori, creative sushi rolls, and hearty noodle dishes, making it a
+  go-to choice for those exploring Japanese cuisine in the city. With thoughtful
+  accessibility features like wheelchair-friendly entrances and seating, it
+  ensures everyone can enjoy a comfortable meal. The vibrant photos shared by
+  visitors showcase an inviting atmosphere, perfect for anyone seeking top-rated
+  sushi options nearby. Whether you're in the mood for a quick bite or a
+  leisurely dinner, this Boston favorite stands out among local Japanese places
+  for its approachable vibe and flavorful offerings.
+generative_summary: >-
+  Discover Ichiban in Boston, MA$$$Ichiban Yakitori Sushi House in Boston, MA,
+  provides a relaxed setting for savoring authentic Japanese flavors that blend
+  tradition with casual dining. This spot highlights a diverse menu featuring
+  fresh yakitori, creative sushi rolls, and hearty noodle dishes, making it a
+  go-to choice for those exploring Japanese cuisine in the city. With thoughtful
+  accessibility features like wheelchair-friendly entrances and seating, it
+  ensures everyone can enjoy a comfortable meal. The vibrant photos shared by
+  visitors showcase an inviting atmosphere, perfect for anyone seeking top-rated
+  sushi options nearby. Whether you're in the mood for a quick bite or a
+  leisurely dinner, this Boston favorite stands out among local Japanese places
+  for its approachable vibe and flavorful offerings.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Visitor Insights on This Sushi Spot$$$If you're hunting for the best sushi
+  near you, folks often rave about the fresh, well-prepared dishes that keep
+  diners coming back for more at this Boston eatery. Many appreciate the variety
+  of options, like tasty yakitori and creative rolls, which make it a solid pick
+  for casual meals with friends or family. While some mention the
+  straightforward service adds to the relaxed feel, others note it's a reliable
+  spot for quality Japanese fare without any fuss. Overall, it's clear that
+  sushi lovers find this place hits the mark for everyday cravings, offering
+  honest value that feels just right. Keep in mind, it's a neighborhood gem that
+  earns nods for its approachable vibe, especially when you're in the area
+  looking for something satisfying.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +246,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

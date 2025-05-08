@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Rockin' Rolls Sushi"
+title: Rockin' Rolls Sushi
 permalink: /north-carolina/raleigh/rockin-rolls-sushi.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Raleigh
 seo:
-  name: "Rockin' Rolls Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.rockinrollssushi.com/
-description: "Rockin' Rolls Sushi serves delicious sushi in Raleigh, North Carolina. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJM2_tBO5XrIkR06SVSGIp_7U
 photos:
   - name: >-
@@ -170,7 +168,105 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89ac57ee04ed6f33:0xb5ff29624895a4d3!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 15
+        minute: 0
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 15
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 3:00 PM, 5:00 – 9:30 PM'
     - 'Tuesday: 11:00 AM – 3:00 PM, 5:00 – 9:30 PM'
     - 'Wednesday: 11:00 AM – 3:00 PM, 5:00 – 9:30 PM'
@@ -178,14 +274,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 3:00 PM, 5:00 – 9:30 PM'
     - 'Saturday: 11:00 AM – 9:30 PM'
     - 'Sunday: 11:00 AM – 9:30 PM'
-  current:
-    - 'Monday: 11:00 AM – 3:00 PM, 5:00 – 9:30 PM'
-    - 'Tuesday: 11:00 AM – 3:00 PM, 5:00 – 9:30 PM'
-    - 'Wednesday: 11:00 AM – 3:00 PM, 5:00 – 9:30 PM'
-    - 'Thursday: 11:00 AM – 3:00 PM, 5:00 – 9:30 PM'
-    - 'Friday: 11:00 AM – 3:00 PM, 5:00 – 9:30 PM'
-    - 'Saturday: 11:00 AM – 9:30 PM'
-    - 'Sunday: 11:00 AM – 9:30 PM'
+  nextCloseTime: '2025-05-04T01:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +286,47 @@ phone: (919) 803-7926
 price_level: PRICE_LEVEL_INEXPENSIVE
 price_range: $10 &ndash; $20
 rating: '4.2'
-rating_count: 0
+rating_count: 2093
 website: https://www.rockinrollssushi.com/
+description: >-
+  Discover Rockin' Rolls Sushi in Raleigh, NC$$$Rockin' Rolls Sushi in Raleigh,
+  NC, stands out as a lively Japanese eatery offering an engaging
+  all-you-can-eat experience that draws in sushi lovers from nearby areas. This
+  spot features a dynamic conveyor belt system where fresh sushi rolls,
+  appetizers, and other delights glide by for easy selection, making it a fun
+  choice for casual dining or exploring top-rated sushi options. With its
+  accessible design and welcoming atmosphere, the restaurant caters to a variety
+  of tastes, including those seeking affordable Japanese cuisine close to home.
+  Operating with extended hours throughout the week, it's an ideal stop for
+  anyone hunting for quality sushi restaurants in the region, blending
+  convenience with a satisfying array of flavors that keep diners coming back.
+generative_summary: >-
+  Discover Rockin' Rolls Sushi in Raleigh, NC$$$Rockin' Rolls Sushi in Raleigh,
+  NC, stands out as a lively Japanese eatery offering an engaging
+  all-you-can-eat experience that draws in sushi lovers from nearby areas. This
+  spot features a dynamic conveyor belt system where fresh sushi rolls,
+  appetizers, and other delights glide by for easy selection, making it a fun
+  choice for casual dining or exploring top-rated sushi options. With its
+  accessible design and welcoming atmosphere, the restaurant caters to a variety
+  of tastes, including those seeking affordable Japanese cuisine close to home.
+  Operating with extended hours throughout the week, it's an ideal stop for
+  anyone hunting for quality sushi restaurants in the region, blending
+  convenience with a satisfying array of flavors that keep diners coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Buzzing About$$$Visitors often rave about the entertaining
+  all-you-can-eat setup at this casual sushi spot, where a conveyor belt
+  delivers a tempting mix of rolls, appetizers, and even desserts for a
+  well-rounded meal. Many appreciate the family-friendly vibe and
+  budget-friendly prices that make it a go-to for groups or anyone craving
+  straightforward Japanese fare nearby. The friendly service adds to the charm,
+  helping create a relaxed environment that's perfect for unwinding over fresh
+  picks. While some note that things can get a little slower during busy times,
+  the overall experience remains enjoyable and worth the wait for those seeking
+  reliable sushi places in the area. All in all, it's a solid choice that
+  balances fun and flavor without missing a beat.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +352,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yi Sushi"
+title: Yi Sushi
 permalink: /california/el-cajon/yi-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: El Cajon
 seo:
-  name: "Yi Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://yisushisd.com/
-description: "Yi Sushi serves delicious sushi in El Cajon, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJa2M82LVb2YARV2GaSQt51qY
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 0
 website: http://yisushisd.com/
+description: >-
+  Discover Yi Sushi in El Cajon, CA$$$Yi Sushi in El Cajon, CA, stands out as a
+  welcoming spot for those seeking fresh sushi and Asian-inspired dishes in a
+  relaxed setting. This casual eatery offers a variety of options, including
+  vegetarian choices and a selection of beer and wine, making it ideal for
+  diverse tastes and casual outings. With its focus on quality ingredients and
+  thoughtful presentation, it's a go-to choice for enjoying top-rated sushi
+  restaurants near you, especially if you're exploring Japanese places in the
+  area. The moderate pricing and accessible features, like wheelchair-friendly
+  entrances, enhance the overall experience, ensuring everyone can savor the
+  flavors without hassle.
+generative_summary: >-
+  Discover Yi Sushi in El Cajon, CA$$$Yi Sushi in El Cajon, CA, stands out as a
+  welcoming spot for those seeking fresh sushi and Asian-inspired dishes in a
+  relaxed setting. This casual eatery offers a variety of options, including
+  vegetarian choices and a selection of beer and wine, making it ideal for
+  diverse tastes and casual outings. With its focus on quality ingredients and
+  thoughtful presentation, it's a go-to choice for enjoying top-rated sushi
+  restaurants near you, especially if you're exploring Japanese places in the
+  area. The moderate pricing and accessible features, like wheelchair-friendly
+  entrances, enhance the overall experience, ensuring everyone can savor the
+  flavors without hassle.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJa2M82LVb2YARV2GaSQt51qY/reviews/ChdDSUhNMG9nS0VJQ0FnTUNnOHJPMDJRRRAB
@@ -378,6 +399,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUR3cWF2Wk5REAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUR3cWF2Wk5REAE!2m1!1s0x80d95bb5d83c636b:0xa6d6790b499a6157
+review_summary: >-
+  What Customers Are Saying$$$Visitors consistently praise Yi Sushi for its
+  delicious and well-prepared dishes, with many highlighting the fresh sushi and
+  flavorful Japanese options that hit the spot every time. Folks appreciate the
+  attentive service and welcoming vibe, which make dining out feel easy and
+  enjoyable, perfect for a laid-back meal with friends or family. Reviewers
+  often note the great value for the quality, mentioning satisfying portions and
+  a range of rolls that keep things exciting without breaking the bank. Overall,
+  it's clear that this spot delivers on taste and atmosphere, making it a solid
+  pick for anyone hunting for the best sushi near El Cajon. If you're in the
+  mood for reliable, tasty eats, the feedback suggests you'll leave feeling glad
+  you stopped by.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -410,7 +444,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

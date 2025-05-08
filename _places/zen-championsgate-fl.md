@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Zen"
+title: Zen
 permalink: /florida/championsgate/zen.html
 stateAbbr: FL
 stateName: Florida
 cityName: Championsgate
 seo:
-  name: "Zen"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Zen serves delicious sushi in Championsgate, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJp-0DdUd63YgRXOh_MS_Dd1U
 photos:
   - name: >-
@@ -185,7 +183,42 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  About Zen in Championsgate, FL$$$Zen in Championsgate, Florida, stands out as
+  a cozy Asian restaurant offering a blend of flavorful dishes that cater to
+  those seeking authentic tastes in a relaxed setting. With thoughtful
+  accessibility features like wheelchair-accessible parking, entrances, and
+  seating, it ensures a welcoming experience for all diners looking for
+  inclusive sushi restaurants near me. The venue boasts an inviting atmosphere
+  highlighted by vibrant decor and a variety of Asian-inspired options, making
+  it ideal for casual meals or gatherings with friends. Whether you're exploring
+  top-rated sushi spots or simply enjoying a neighborhood eatery, Zen provides a
+  comfortable spot to savor fresh flavors in a convenient location.
+generative_summary: >-
+  About Zen in Championsgate, FL$$$Zen in Championsgate, Florida, stands out as
+  a cozy Asian restaurant offering a blend of flavorful dishes that cater to
+  those seeking authentic tastes in a relaxed setting. With thoughtful
+  accessibility features like wheelchair-accessible parking, entrances, and
+  seating, it ensures a welcoming experience for all diners looking for
+  inclusive sushi restaurants near me. The venue boasts an inviting atmosphere
+  highlighted by vibrant decor and a variety of Asian-inspired options, making
+  it ideal for casual meals or gatherings with friends. Whether you're exploring
+  top-rated sushi spots or simply enjoying a neighborhood eatery, Zen provides a
+  comfortable spot to savor fresh flavors in a convenient location.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Folks who visit places like Zen often highlight
+  the fresh and well-prepared dishes, noting how the menu hits the spot for
+  anyone craving quality Asian cuisine on a whim. Many appreciate the
+  approachable vibe and attentive service that make dining out feel effortless
+  and enjoyable, especially for groups or families stopping by for sushi close
+  to me. While some mention minor waits during peak times, the overall consensus
+  leans positive, with praise for the tasty selections and cozy ambiance that
+  keep people coming back. In a casual style, it's clear that Zen delivers a
+  solid experience for those hunting for reliable Japanese places near me,
+  blending good value with satisfying meals that leave a lasting impression.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +244,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

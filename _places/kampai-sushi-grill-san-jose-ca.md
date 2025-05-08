@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kampai Sushi & Grill"
+title: Kampai Sushi & Grill
 permalink: /california/san-jose/kampai-sushi-grill.html
 stateAbbr: CA
 stateName: California
 cityName: San Jose
 seo:
-  name: "Kampai Sushi & Grill"
-  type: Restaurant
+  type: restaurant
   links: http://www.kampai3.com/
-description: "Kampai Sushi & Grill serves delicious sushi in San Jose, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJewx-jBgyjoARi_UjJT3X_qI
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 0
 website: http://www.kampai3.com/
+description: >-
+  Explore Kampai Sushi & Grill in San Jose, CA$$$Kampai Sushi & Grill in San
+  Jose, CA, offers a welcoming atmosphere perfect for enjoying fresh
+  Japanese-inspired cuisine, including flavorful bento boxes and a selection of
+  Korean dishes that add a unique twist to the menu. This cozy spot is ideal for
+  casual dining, with options like sports viewing on TV making it a great place
+  to unwind while savoring expertly prepared rolls and grilled favorites.
+  Accessibility features ensure a comfortable visit for all, complemented by
+  moderate pricing and a variety of beverages to enhance the experience. For
+  those searching for quality sushi restaurants nearby, this location stands out
+  with its blend of traditional flavors and modern conveniences, making it a
+  reliable choice in the area.
+generative_summary: >-
+  Explore Kampai Sushi & Grill in San Jose, CA$$$Kampai Sushi & Grill in San
+  Jose, CA, offers a welcoming atmosphere perfect for enjoying fresh
+  Japanese-inspired cuisine, including flavorful bento boxes and a selection of
+  Korean dishes that add a unique twist to the menu. This cozy spot is ideal for
+  casual dining, with options like sports viewing on TV making it a great place
+  to unwind while savoring expertly prepared rolls and grilled favorites.
+  Accessibility features ensure a comfortable visit for all, complemented by
+  moderate pricing and a variety of beverages to enhance the experience. For
+  those searching for quality sushi restaurants nearby, this location stands out
+  with its blend of traditional flavors and modern conveniences, making it a
+  reliable choice in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJewx-jBgyjoARi_UjJT3X_qI/reviews/ChZDSUhNMG9nS0VJQ0FnTUNBcGJERlhREAE
@@ -358,6 +381,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURWeTZyazBRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURWeTZyazBRRRAB!2m1!1s0x808e32188c7e0c7b:0xa2fed73d2523f58b
+review_summary: >-
+  Feedback on the Sushi Experience$$$Visitors often rave about the fresh and
+  tasty sushi options here, highlighting how the variety of rolls and specials
+  make for a satisfying meal without breaking the bank. While some mention
+  occasional waits during peak times, the overall service comes across as
+  friendly and efficient, adding to the relaxed vibe of the place. Happy hour
+  deals are frequently praised for providing great value on favorites like bento
+  boxes and drinks, encouraging repeat trips for anyone craving top-rated sushi
+  nearby. Despite a few notes on portion sizes or flavor consistency in certain
+  dishes, the positive energy from the staff and atmosphere keeps things
+  enjoyable and worth trying. If you're exploring sushi places near me, this
+  spot delivers a solid mix of affordability and flavor that leaves most folks
+  smiling.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -390,7 +427,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

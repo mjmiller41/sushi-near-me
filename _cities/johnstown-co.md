@@ -5,4 +5,5 @@ permalink: /colorado/johnstown/
 stateAbbr: CO
 stateName: Colorado
 cityName: Johnstown
+
 ---

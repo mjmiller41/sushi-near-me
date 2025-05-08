@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kume Seabrook"
+title: Kume Seabrook
 permalink: /new-hampshire/seabrook/kume-seabrook.html
 stateAbbr: NH
 stateName: New Hampshire
 cityName: Seabrook
 seo:
-  name: "Kume Seabrook"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Kume Seabrook serves delicious sushi in Seabrook, New Hampshire. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJW3jPU1fm4okRW1K6rZPhiSQ
 photos:
   - name: >-
@@ -184,7 +182,48 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Kume Seabrook in Seabrook, NH$$$Kume Seabrook in Seabrook, NH, stands
+  out as a welcoming spot for enjoying fresh sushi and Japanese-inspired meals
+  in a relaxed environment. This restaurant specializes in a variety of sushi
+  options alongside hibachi-style dishes, making it a go-to choice for those
+  seeking authentic Japanese flavors in a casual setting. With accessibility
+  features like wheelchair-friendly parking and seating, it ensures a
+  comfortable experience for all visitors looking for sushi restaurants nearby.
+  The menu highlights high-quality ingredients that bring out the best in
+  traditional entrees, appealing to anyone exploring top-rated Japanese places
+  in the area. Whether you're in the mood for a quick bite or a full dining
+  experience, this location combines simplicity with flavorful options to
+  satisfy sushi enthusiasts.
+generative_summary: >-
+  Discover Kume Seabrook in Seabrook, NH$$$Kume Seabrook in Seabrook, NH, stands
+  out as a welcoming spot for enjoying fresh sushi and Japanese-inspired meals
+  in a relaxed environment. This restaurant specializes in a variety of sushi
+  options alongside hibachi-style dishes, making it a go-to choice for those
+  seeking authentic Japanese flavors in a casual setting. With accessibility
+  features like wheelchair-friendly parking and seating, it ensures a
+  comfortable experience for all visitors looking for sushi restaurants nearby.
+  The menu highlights high-quality ingredients that bring out the best in
+  traditional entrees, appealing to anyone exploring top-rated Japanese places
+  in the area. Whether you're in the mood for a quick bite or a full dining
+  experience, this location combines simplicity with flavorful options to
+  satisfy sushi enthusiasts.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this sushi spot often rave about the
+  fresh and well-prepared dishes that make it a standout choice for Japanese
+  cuisine lovers. Many appreciate the casual vibe and attentive service that
+  enhance the overall meal, helping it earn praise as a reliable option for
+  groups or individuals searching for sushi close to them. Feedback frequently
+  highlights the variety of options, with comments noting how the flavors feel
+  authentic and satisfying without overwhelming the palate. While some mention
+  minor waits during peak times, the general consensus leans positive,
+  emphasizing the value and taste that keep people coming back for more.
+  Overall, it's clear that this place holds up as a solid pick for anyone
+  craving top-rated sushi, offering an enjoyable experience that balances
+  quality with approachability.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +249,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Fuji San"
+title: Fuji San
 permalink: /ohio/north-ridgeville/fuji-san.html
 stateAbbr: OH
 stateName: Ohio
 cityName: North Ridgeville
 seo:
-  name: "Fuji San"
-  type: Restaurant
+  type: restaurant
   links: http://www.fujisanoh.com/
-description: "Fuji San serves delicious sushi in North Ridgeville, Ohio. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery."
 place_id: ChIJtWtzLACXMIgRDfUAb0hUezI
 photos:
   - name: >-
@@ -184,6 +182,31 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 0
 website: http://www.fujisanoh.com/
+description: >-
+  Discover Fuji San in North Ridgeville, OH$$$Fuji San in North Ridgeville, OH,
+  stands out as a welcoming Japanese restaurant offering a blend of comforting
+  dishes like fresh sushi, poke bowls, and hibachi favorites that capture the
+  essence of authentic Asian flavors. This spot emphasizes high-quality
+  ingredients and thoughtful preparation, making it a go-to choice for those
+  seeking sushi restaurants in the area with accessible features like
+  wheelchair-friendly parking and entrances. Diners can enjoy a variety of
+  options that highlight the restaurant's commitment to flavorful, well-balanced
+  meals, perfect for a casual outing or a quick bite. With convenient parking
+  and options for takeout or dine-in, it's an ideal destination for anyone
+  exploring Japanese places near me in Ohio.
+generative_summary: >-
+  Discover Fuji San in North Ridgeville, OH$$$Fuji San in North Ridgeville, OH,
+  stands out as a welcoming Japanese restaurant offering a blend of comforting
+  dishes like fresh sushi, poke bowls, and hibachi favorites that capture the
+  essence of authentic Asian flavors. This spot emphasizes high-quality
+  ingredients and thoughtful preparation, making it a go-to choice for those
+  seeking sushi restaurants in the area with accessible features like
+  wheelchair-friendly parking and entrances. Diners can enjoy a variety of
+  options that highlight the restaurant's commitment to flavorful, well-balanced
+  meals, perfect for a casual outing or a quick bite. With convenient parking
+  and options for takeout or dine-in, it's an ideal destination for anyone
+  exploring Japanese places near me in Ohio.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJtWtzLACXMIgRDfUAb0hUezI/reviews/ChZDSUhNMG9nS0VJQ0FnTURncDZ5SkxBEAE
@@ -341,6 +364,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURIMnF5aUpBEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURIMnF5aUpBEAE!2m1!1s0x883097002c736bb5:0x327b54486f00f50d
+review_summary: >-
+  What Customers Are Raving About$$$Visitors to this sushi spot often praise the
+  fresh and creative rolls that deliver a burst of flavor without breaking the
+  bank, making it a solid pick for anyone hunting for top-rated sushi nearby.
+  Many highlight the generous portions and tasty combinations in poke bowls and
+  hibachi dishes, noting how they hit the spot for a satisfying meal. Folks
+  appreciate the friendly service and efficient experience, which adds to the
+  overall vibe of a relaxed and enjoyable visit. While opinions focus on the
+  high-quality ingredients and reasonable prices, it's clear this place keeps
+  things genuine and approachable, encouraging repeat trips for those craving
+  the best sushi in the region. Overall, the feedback paints a picture of a
+  reliable choice that balances quality with everyday appeal.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -371,7 +407,7 @@ serves_lunch: false
 serves_vegetarian_food: null
 serves_wine: null
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

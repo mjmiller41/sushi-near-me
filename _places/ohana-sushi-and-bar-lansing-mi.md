@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ohana Sushi and Bar"
+title: Ohana Sushi and Bar
 permalink: /michigan/lansing/ohana-sushi-and-bar.html
 stateAbbr: MI
 stateName: Michigan
 cityName: Lansing
 seo:
-  name: "Ohana Sushi and Bar"
-  type: Restaurant
+  type: restaurant
   links: https://ohanasushiandbar.com/
-description: "Ohana Sushi and Bar serves delicious sushi in Lansing, Michigan. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJoRxSh6qVIogRR5bgl6z4M6k
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 0
 website: https://ohanasushiandbar.com/
+description: >-
+  Discover Ohana Sushi and Bar in Lansing, MI$$$Ohana Sushi and Bar in Lansing,
+  MI, stands out as a welcoming spot for sushi enthusiasts, featuring a casual
+  vibe with freshly prepared rolls and an array of all-you-can-eat options. This
+  sushi restaurant delights visitors with its made-to-order dishes, blending
+  traditional Japanese flavors with diverse selections that cater to various
+  tastes. The menu highlights affordable pricing around $20 to $30, making it an
+  accessible choice for those seeking quality Japanese cuisine without breaking
+  the bank. Accessibility features like wheelchair-friendly entrances and
+  seating add to the inclusive atmosphere, ensuring everyone can enjoy the
+  experience. Whether you're looking for top-rated sushi places near you, this
+  location offers a satisfying blend of variety and value that keeps diners
+  coming back.
+generative_summary: >-
+  Discover Ohana Sushi and Bar in Lansing, MI$$$Ohana Sushi and Bar in Lansing,
+  MI, stands out as a welcoming spot for sushi enthusiasts, featuring a casual
+  vibe with freshly prepared rolls and an array of all-you-can-eat options. This
+  sushi restaurant delights visitors with its made-to-order dishes, blending
+  traditional Japanese flavors with diverse selections that cater to various
+  tastes. The menu highlights affordable pricing around $20 to $30, making it an
+  accessible choice for those seeking quality Japanese cuisine without breaking
+  the bank. Accessibility features like wheelchair-friendly entrances and
+  seating add to the inclusive atmosphere, ensuring everyone can enjoy the
+  experience. Whether you're looking for top-rated sushi places near you, this
+  location offers a satisfying blend of variety and value that keeps diners
+  coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJoRxSh6qVIogRR5bgl6z4M6k/reviews/ChZDSUhNMG9nS0VJQ0FnTURna0lXWVhnEAE
@@ -346,6 +371,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURmNHJiMW93RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURmNHJiMW93RRAB!2m1!1s0x882295aa87521ca1:0xa933f8ac97e09647
+review_summary: >-
+  What Visitors Are Saying About the Experience$$$Folks who visit this sushi
+  spot often rave about the tasty food and great value, especially with the
+  all-you-can-eat deals that let you sample a wide range of dishes. Many
+  appreciate the quick service and friendly atmosphere, making it a solid pick
+  for groups or families wanting to try different flavors without rushing.
+  Reviewers frequently highlight the fresh sushi and other Japanese offerings as
+  standout features, noting that everything comes out hot and flavorful for an
+  enjoyable meal. While some mention minor extras like takeout fees, the overall
+  consensus is that it's a worthwhile spot for casual dining that delivers on
+  taste and portion sizes. If you're on the hunt for reliable sushi restaurants
+  nearby, this place gets high marks for its consistent quality and welcoming
+  vibe.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -379,7 +418,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

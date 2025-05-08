@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Caribbean Sushi"
+title: Caribbean Sushi
 permalink: /oklahoma/broken-arrow/caribbean-sushi.html
 stateAbbr: OK
 stateName: Oklahoma
 cityName: Broken Arrow
 seo:
-  name: "Caribbean Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.caribbeansushi.com/
-description: "Caribbean Sushi serves delicious sushi in Broken Arrow, Oklahoma. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJX8C7wECJtocRvVoLsDNOwY4
 photos:
   - name: >-
@@ -170,7 +168,89 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x87b68940c0bbc05f:0x8ec14e33b00b5abd!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 20
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 20
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 20
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 20
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 20
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 20
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 4:30 – 8:00 PM'
     - 'Tuesday: 11:00 AM – 2:30 PM, 4:30 – 8:00 PM'
     - 'Wednesday: 11:00 AM – 2:30 PM, 4:30 – 8:00 PM'
@@ -178,14 +258,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 2:30 PM, 4:30 – 8:00 PM'
     - 'Saturday: 12:00 – 8:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 4:30 – 8:00 PM'
-    - 'Tuesday: 11:00 AM – 2:30 PM, 4:30 – 8:00 PM'
-    - 'Wednesday: 11:00 AM – 2:30 PM, 4:30 – 8:00 PM'
-    - 'Thursday: 11:00 AM – 2:30 PM, 4:30 – 8:00 PM'
-    - 'Friday: 11:00 AM – 2:30 PM, 4:30 – 8:00 PM'
-    - 'Saturday: 12:00 – 8:00 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T01:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +270,231 @@ phone: (918) 286-1306
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.8'
-rating_count: 0
+rating_count: 653
 website: http://www.caribbeansushi.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Caribbean Sushi in Broken Arrow, OK$$$Nestled in Broken Arrow, OK,
+  Caribbean Sushi stands out as a vibrant spot blending island flavors with
+  fresh Japanese-inspired dishes, creating a unique dining experience for sushi
+  enthusiasts. This casual restaurant features a diverse menu of creative sushi
+  rolls, poke bowls, and other Japanese plates, including thoughtful vegan
+  options that cater to various dietary preferences. The colorful cafe setting
+  enhances the meal with its welcoming atmosphere, making it an ideal choice for
+  those seeking accessible and affordable sushi near you. With features like
+  wheelchair-accessible seating and parking, it's designed for everyone to
+  enjoy, while offering a range of tea drinks to complement your meal. Whether
+  you're looking for top-rated sushi restaurants in the area, this spot delivers
+  on fresh ingredients and innovative flavors that make every visit memorable.
+generative_summary: >-
+  Discover Caribbean Sushi in Broken Arrow, OK$$$Nestled in Broken Arrow, OK,
+  Caribbean Sushi stands out as a vibrant spot blending island flavors with
+  fresh Japanese-inspired dishes, creating a unique dining experience for sushi
+  enthusiasts. This casual restaurant features a diverse menu of creative sushi
+  rolls, poke bowls, and other Japanese plates, including thoughtful vegan
+  options that cater to various dietary preferences. The colorful cafe setting
+  enhances the meal with its welcoming atmosphere, making it an ideal choice for
+  those seeking accessible and affordable sushi near you. With features like
+  wheelchair-accessible seating and parking, it's designed for everyone to
+  enjoy, while offering a range of tea drinks to complement your meal. Whether
+  you're looking for top-rated sushi restaurants in the area, this spot delivers
+  on fresh ingredients and innovative flavors that make every visit memorable.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJX8C7wECJtocRvVoLsDNOwY4/reviews/ChdDSUhNMG9nS0VJQ0FnTURnX3QzRW5RRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        The sushi is so good here! They tie in Caribbean ingredients like
+        plantain into a few of their rolls. I tried a spicy roll and to my
+        surprise while the roll did have a kick to it the spiciness did not take
+        over and actually provided flavor.
+
+
+        I went with my cousins and they all enjoyed their rolls (see pictures).
+        One cousin has a gluten intolerance and Caribbean Sushi actually has a
+        gluten free menu if you request it.
+      languageCode: en
+    originalText:
+      text: >-
+        The sushi is so good here! They tie in Caribbean ingredients like
+        plantain into a few of their rolls. I tried a spicy roll and to my
+        surprise while the roll did have a kick to it the spiciness did not take
+        over and actually provided flavor.
+
+
+        I went with my cousins and they all enjoyed their rolls (see pictures).
+        One cousin has a gluten intolerance and Caribbean Sushi actually has a
+        gluten free menu if you request it.
+      languageCode: en
+    authorAttribution:
+      displayName: K C
+      uri: https://www.google.com/maps/contrib/107017860114163903583/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVOv41X1smfyuzUwP-dJb4h_oNMLpAj5TUx-4VSfokOCzshKV1dzA=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-02-25T03:28:21.762007Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURnX3QzRW5RRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURnX3QzRW5RRRAB!2m1!1s0x87b68940c0bbc05f:0x8ec14e33b00b5abd
+  - name: >-
+      places/ChIJX8C7wECJtocRvVoLsDNOwY4/reviews/ChZDSUhNMG9nS0VJQ0FnTURRcDUzNWZnEAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        I was craving some seared tuna and saw their appetizer sized steak. I
+        highly recommend it. Very delicious. I'll be back soon to try the sushi.
+      languageCode: en
+    originalText:
+      text: >-
+        I was craving some seared tuna and saw their appetizer sized steak. I
+        highly recommend it. Very delicious. I'll be back soon to try the sushi.
+      languageCode: en
+    authorAttribution:
+      displayName: Anthony Zampino
+      uri: https://www.google.com/maps/contrib/112787029222761708139/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUMHnNAF3LYshp6WMqF9A60yvrpldE5NWcCPEJ_MaDSYSDJNWi3lw=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-03-14T23:31:08.201796Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURRcDUzNWZnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURRcDUzNWZnEAE!2m1!1s0x87b68940c0bbc05f:0x8ec14e33b00b5abd
+  - name: >-
+      places/ChIJX8C7wECJtocRvVoLsDNOwY4/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3a3ZpdHNnRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        This is a gem hidden in the rough. A strip mall restaurant that
+        surprises once you get inside. Beautiful fresh sushi. Excellent tempura
+        for those that don’t eat sushi. Large portions and very decorative
+        sushi. We recommend you give it a try! Everyone in the party of 11 lived
+        their food. We think you will too. Good value for price.
+      languageCode: en
+    originalText:
+      text: >-
+        This is a gem hidden in the rough. A strip mall restaurant that
+        surprises once you get inside. Beautiful fresh sushi. Excellent tempura
+        for those that don’t eat sushi. Large portions and very decorative
+        sushi. We recommend you give it a try! Everyone in the party of 11 lived
+        their food. We think you will too. Good value for price.
+      languageCode: en
+    authorAttribution:
+      displayName: Valerie welker
+      uri: https://www.google.com/maps/contrib/114223094609547029709/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIikMlyGnZUiCqczahZcgrqDB7qQMoayjvyMSYscGq8OnAWqA=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-03-25T01:01:33.565340Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUR3a3ZpdHNnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUR3a3ZpdHNnRRAB!2m1!1s0x87b68940c0bbc05f:0x8ec14e33b00b5abd
+  - name: >-
+      places/ChIJX8C7wECJtocRvVoLsDNOwY4/reviews/ChZDSUhNMG9nS0VJQ0FnSUNONjdUaGJBEAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        Many unique flavor combinations and top tier quality make this sushi
+        spot a step above the rest. If you're into spicy stuff, ask about their
+        huge collection of hot sauces or what fresh peppers the chef could add
+        to your roll.
+      languageCode: en
+    originalText:
+      text: >-
+        Many unique flavor combinations and top tier quality make this sushi
+        spot a step above the rest. If you're into spicy stuff, ask about their
+        huge collection of hot sauces or what fresh peppers the chef could add
+        to your roll.
+      languageCode: en
+    authorAttribution:
+      displayName: Kait B
+      uri: https://www.google.com/maps/contrib/105660097434376785727/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjX2T9oacOa1jKozkY6LZ7JWbTlg_gtU1uKYl55UAdVsSESTUPJSQA=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-01-10T21:47:01.918818Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNONjdUaGJBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNONjdUaGJBEAE!2m1!1s0x87b68940c0bbc05f:0x8ec14e33b00b5abd
+  - name: >-
+      places/ChIJX8C7wECJtocRvVoLsDNOwY4/reviews/ChdDSUhNMG9nS0VJQ0FnSUMzcDQtbzZ3RRAB
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        A very unexpected delight to find such quality sushi in Broken Arrow,
+        OK! Generous portion sizes, fair pricing, kind service. We found out new
+        sushi spot :)
+      languageCode: en
+    originalText:
+      text: >-
+        A very unexpected delight to find such quality sushi in Broken Arrow,
+        OK! Generous portion sizes, fair pricing, kind service. We found out new
+        sushi spot :)
+      languageCode: en
+    authorAttribution:
+      displayName: Jordan Price
+      uri: https://www.google.com/maps/contrib/116745388740047593449/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVGJomBgGo7rxdjElI8o1AW-CPoWn2P-AGHsBHM1c33scO_YKxBmg=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-11-09T23:46:11.130067Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMzcDQtbzZ3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMzcDQtbzZ3RRAB!2m1!1s0x87b68940c0bbc05f:0x8ec14e33b00b5abd
+review_summary: >-
+  What Customers Are Buzzing About$$$Folks rave about the fresh and flavorful
+  sushi at this spot, with creative twists like Caribbean-inspired ingredients
+  that add a fun twist without overwhelming the taste. Many appreciate the
+  generous portions and great value, making it a go-to for groups or anyone
+  wanting a satisfying meal without breaking the bank. The staff comes across as
+  super friendly and helpful, often going the extra mile to accommodate dietary
+  needs like gluten-free options, which adds to the overall positive vibe. It's
+  clear that the quality of the dishes, from spicy rolls to tempura, keeps
+  people coming back for more, especially if you're into exploring unique
+  flavors at sushi places near me. Overall, the feedback paints a picture of a
+  welcoming environment where good food and good times go hand in hand, though
+  it's always a good idea to check for your favorite items based on
+  availability.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
 allow_dogs: null
 curbside_pickup: null
 delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: true
+outdoor_seating: false
 reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: false
+serves_coffee: true
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: false
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Island-inspired sushi & poke, offered in a colorful cafe setting with a wide
+  variety of tea drinks.
 
 ---

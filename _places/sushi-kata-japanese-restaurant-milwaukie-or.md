@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Kata Japanese Restaurant"
+title: Sushi Kata Japanese Restaurant
 permalink: /oregon/milwaukie/sushi-kata-japanese-restaurant.html
 stateAbbr: OR
 stateName: Oregon
 cityName: Milwaukie
 seo:
-  name: "Sushi Kata Japanese Restaurant"
-  type: Restaurant
+  type: restaurant
   links: http://www.sushikataor.com/
-description: "Sushi Kata Japanese Restaurant serves delicious sushi in Milwaukie, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJOeQSffB0lVQRD2NYOB8rdV4
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x549574f07d12e439:0x5e752b1f3858630f!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 20
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 20
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 20
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 20
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 20
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 20
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 8:00 PM'
     - 'Tuesday: 11:30 AM – 8:00 PM'
     - 'Wednesday: 11:30 AM – 8:00 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 8:00 PM'
     - 'Saturday: 11:30 AM – 8:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:30 AM – 8:00 PM'
-    - 'Tuesday: 11:30 AM – 8:00 PM'
-    - 'Wednesday: 11:30 AM – 8:00 PM'
-    - 'Thursday: 11:30 AM – 8:00 PM'
-    - 'Friday: 11:30 AM – 8:00 PM'
-    - 'Saturday: 11:30 AM – 8:00 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +238,275 @@ phone: (503) 653-0302
 price_level: PRICE_LEVEL_INEXPENSIVE
 price_range: $10 &ndash; $20
 rating: '4.7'
-rating_count: 0
+rating_count: 930
 website: http://www.sushikataor.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Explore Sushi Kata in Milwaukie, OR$$$Sushi Kata Japanese Restaurant in
+  Milwaukie, OR, offers a welcoming spot for enjoying fresh Japanese dishes in a
+  laid-back environment. This eatery specializes in comforting options like
+  sushi rolls, teriyaki favorites, and hearty bento boxes, making it a go-to
+  choice for those seeking authentic flavors without the fuss. With features
+  like wheelchair-accessible seating and a variety of affordable meal deals,
+  it's designed for easy dining experiences. The restaurant maintains a cozy
+  atmosphere that pairs well with its generous portions and thoughtful menu
+  selections. Open six days a week, it's a convenient option for anyone looking
+  for quality Japanese cuisine nearby.
+generative_summary: >-
+  Explore Sushi Kata in Milwaukie, OR$$$Sushi Kata Japanese Restaurant in
+  Milwaukie, OR, offers a welcoming spot for enjoying fresh Japanese dishes in a
+  laid-back environment. This eatery specializes in comforting options like
+  sushi rolls, teriyaki favorites, and hearty bento boxes, making it a go-to
+  choice for those seeking authentic flavors without the fuss. With features
+  like wheelchair-accessible seating and a variety of affordable meal deals,
+  it's designed for easy dining experiences. The restaurant maintains a cozy
+  atmosphere that pairs well with its generous portions and thoughtful menu
+  selections. Open six days a week, it's a convenient option for anyone looking
+  for quality Japanese cuisine nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJOeQSffB0lVQRD2NYOB8rdV4/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3M3Z2MkdBEAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        This was our second time here and both experiences were great. Love the
+        service and the food. Both visits the restaurant was almost full.
+        Everyone in our party was happy both visits.
+      languageCode: en
+    originalText:
+      text: >-
+        This was our second time here and both experiences were great. Love the
+        service and the food. Both visits the restaurant was almost full.
+        Everyone in our party was happy both visits.
+      languageCode: en
+    authorAttribution:
+      displayName: Geenie Grey
+      uri: https://www.google.com/maps/contrib/103045133255628686418/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocK_ZZl181TZYNubQ4M0O2S5KiCQL1P1tbTEeZ2EwvsDmEQlXQ=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-26T03:36:41.141065Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUR3M3Z2MkdBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUR3M3Z2MkdBEAE!2m1!1s0x549574f07d12e439:0x5e752b1f3858630f
+  - name: >-
+      places/ChIJOeQSffB0lVQRD2NYOB8rdV4/reviews/ChdDSUhNMG9nS0VJQ0FnSUQzMk4zenNRRRAB
+    relativePublishTimeDescription: 5 months ago
+    rating: 2
+    text:
+      text: >-
+        Okay. So I typically try to leave as honest of reviews as I possibly
+        can. I really didn't want to leave a review this time. Because I felt
+        that the service was exceptional, but the restaurant itself was not. I
+        felt the sushi was a bit off temperature. The crab meat didn't taste
+        like it should, And the rest of the feeling in the restaurant felt a
+        little bit dirty, not too much. Which leads me to my next point I was
+        constantly bombarded from the time my drink hit the table by tiny little
+        flies that I kept killing over and over it ruined my entire evening, as
+        I tried my best to hold a smile for the hostess, as I knew she
+        understood that I was probably aggravated by what I was going through? I
+        tried to mention it to her, but I know there was nothing she could do
+        about it, but the flies were absolutely atrocious. Even though the
+        service was great, I probably will not be back. Side note: this was the
+        first time I ever took myself out to eat alone as an adult, and it made
+        me feel like I don't want to do it again haha also.. what's with the
+        shrimp tails?? UPDATE: Got home and felt something in my teeth.. what
+        was it?? One of the flies.. wow. Just.... wow..
+      languageCode: en
+    originalText:
+      text: >-
+        Okay. So I typically try to leave as honest of reviews as I possibly
+        can. I really didn't want to leave a review this time. Because I felt
+        that the service was exceptional, but the restaurant itself was not. I
+        felt the sushi was a bit off temperature. The crab meat didn't taste
+        like it should, And the rest of the feeling in the restaurant felt a
+        little bit dirty, not too much. Which leads me to my next point I was
+        constantly bombarded from the time my drink hit the table by tiny little
+        flies that I kept killing over and over it ruined my entire evening, as
+        I tried my best to hold a smile for the hostess, as I knew she
+        understood that I was probably aggravated by what I was going through? I
+        tried to mention it to her, but I know there was nothing she could do
+        about it, but the flies were absolutely atrocious. Even though the
+        service was great, I probably will not be back. Side note: this was the
+        first time I ever took myself out to eat alone as an adult, and it made
+        me feel like I don't want to do it again haha also.. what's with the
+        shrimp tails?? UPDATE: Got home and felt something in my teeth.. what
+        was it?? One of the flies.. wow. Just.... wow..
+      languageCode: en
+    authorAttribution:
+      displayName: Richie Schilk
+      uri: https://www.google.com/maps/contrib/116382889103272007460/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXmnoHBpbENBgN7mqd3mEj5HxYpPHVjMYis5YJ-ibNN62OglKED=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-11-12T00:55:37.674907Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQzMk4zenNRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQzMk4zenNRRRAB!2m1!1s0x549574f07d12e439:0x5e752b1f3858630f
+  - name: >-
+      places/ChIJOeQSffB0lVQRD2NYOB8rdV4/reviews/ChZDSUhNMG9nS0VJQ0FnTURJZ0phblR3EAE
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 4
+    text:
+      text: >-
+        Solid go-to for yummy affordable lunch bento boxes like pork katsu. I
+        love that it comes with a variety of tempuras, miso soup, California
+        roll ans salad. I haven’t tried other dishes or the dinner bento yet but
+        the pictures look delicious too.
+      languageCode: en
+    originalText:
+      text: >-
+        Solid go-to for yummy affordable lunch bento boxes like pork katsu. I
+        love that it comes with a variety of tempuras, miso soup, California
+        roll ans salad. I haven’t tried other dishes or the dinner bento yet but
+        the pictures look delicious too.
+      languageCode: en
+    authorAttribution:
+      displayName: Kristen Fk
+      uri: https://www.google.com/maps/contrib/112204555330378680608/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjW4trVaAoTjYX_Qv7bfPaJKgEZiR_MW8agh-gwGTMV7TeKcYAw=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-06T01:33:26.735469Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURJZ0phblR3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJZ0phblR3EAE!2m1!1s0x549574f07d12e439:0x5e752b1f3858630f
+  - name: >-
+      places/ChIJOeQSffB0lVQRD2NYOB8rdV4/reviews/ChZDSUhNMG9nS0VJQ0FnTURJM3NPNlh3EAE
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 5
+    text:
+      text: >-
+        This place is awesome. Bento box lunch special is a screaming deal..
+        This place has a comfortability to it that is hard to describe. I've
+        only been once and it's not close to where I live but I'll be coming
+        back for sure.
+      languageCode: en
+    originalText:
+      text: >-
+        This place is awesome. Bento box lunch special is a screaming deal..
+        This place has a comfortability to it that is hard to describe. I've
+        only been once and it's not close to where I live but I'll be coming
+        back for sure.
+      languageCode: en
+    authorAttribution:
+      displayName: Taylor Fox
+      uri: https://www.google.com/maps/contrib/113006736072622047943/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWQl78JjHOUbP3jf0jPh_0oFUyuFwIIpawbeyARgETzztfi8GYz=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-10T05:51:43.040841Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURJM3NPNlh3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJM3NPNlh3EAE!2m1!1s0x549574f07d12e439:0x5e752b1f3858630f
+  - name: >-
+      places/ChIJOeQSffB0lVQRD2NYOB8rdV4/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ3c2FfYS1BRRAB
+    relativePublishTimeDescription: 8 months ago
+    rating: 4
+    text:
+      text: >-
+        I love the complimentary miso and salad.
+
+
+        Service was friendly and attentive.
+
+
+        I wasn't a fan of the nigiri (I'm super picky), but I really liked the
+        taste and quality of the teriaki.
+
+
+        The pacing of the dishes was off - apps came out after the mains - but
+        they also came out hot and fresh.
+
+
+        The favorite dish was the fried calamari - the most tender squid I've
+        ever had.
+
+
+        I would recommend the cooked dishes over the fish.
+      languageCode: en
+    originalText:
+      text: >-
+        I love the complimentary miso and salad.
+
+
+        Service was friendly and attentive.
+
+
+        I wasn't a fan of the nigiri (I'm super picky), but I really liked the
+        taste and quality of the teriaki.
+
+
+        The pacing of the dishes was off - apps came out after the mains - but
+        they also came out hot and fresh.
+
+
+        The favorite dish was the fried calamari - the most tender squid I've
+        ever had.
+
+
+        I would recommend the cooked dishes over the fish.
+      languageCode: en
+    authorAttribution:
+      displayName: R Raw
+      uri: https://www.google.com/maps/contrib/108883956259347746220/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVFPzlhkmEMG2qPQDXh41KEQ2Uw4pJD-TawBf2IQy-AyQwsEC6pmA=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-08-25T11:56:36.825760Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQ3c2FfYS1BRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQ3c2FfYS1BRRAB!2m1!1s0x549574f07d12e439:0x5e752b1f3858630f
+review_summary: >-
+  Customer Feedback Highlights$$$Folks often rave about the tasty bento boxes
+  and flavorful teriyaki dishes at this spot, noting how the complimentary miso
+  soup and salad add great value to every meal. While most visitors appreciate
+  the friendly service and solid portions that make it a budget-friendly pick
+  for lunch or dinner, a few have mentioned occasional issues like flies or
+  temperature inconsistencies that could use some attention. Overall, it's seen
+  as a reliable choice for casual sushi outings, with many highlighting the
+  comfortable vibe and generous servings that keep people coming back. If you're
+  hunting for top-rated Japanese eats in the area, this place delivers on fresh
+  flavors and attentive staff, though it's always good to check for any off
+  days. In short, it's a solid option that balances everyday enjoyment with room
+  for improvement, earning its high marks from satisfied diners.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: false
 serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_brunch: false
+serves_cocktails: false
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Family-owned operation serving sushi rolls & Japanese standards in a relaxed
+  atmosphere.
 
 ---

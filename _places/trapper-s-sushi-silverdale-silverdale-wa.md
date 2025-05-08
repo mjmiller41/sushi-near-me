@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Trapper's Sushi - Silverdale"
+title: Trapper's Sushi - Silverdale
 permalink: /washington/silverdale/trapper-s-sushi-silverdale.html
 stateAbbr: WA
 stateName: Washington
 cityName: Silverdale
 seo:
-  name: "Trapper's Sushi - Silverdale"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Trapper's Sushi - Silverdale serves delicious sushi in Silverdale, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ0YzWOFU7kFQRQiTZyJjO3Iw
 photos:
   - name: >-
@@ -185,7 +183,41 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Trapper's Sushi in Silverdale, WA$$$Trapper's Sushi in Silverdale,
+  WA, stands out as a go-to destination for fresh sushi and Japanese flavors,
+  blending casual vibes with innovative dining options. This spot is renowned
+  for its signature long rolls and appealing all-you-can-eat selections, perfect
+  for those exploring top-rated sushi restaurants in the area. With a full bar
+  adding to the relaxed atmosphere, it's an ideal choice for anyone seeking
+  sushi near me who appreciates variety and accessibility features like
+  wheelchair-friendly entrances. The menu highlights quality ingredients and
+  creative presentations, making it a favorite among locals and visitors alike
+  for a satisfying meal.
+generative_summary: >-
+  Discover Trapper's Sushi in Silverdale, WA$$$Trapper's Sushi in Silverdale,
+  WA, stands out as a go-to destination for fresh sushi and Japanese flavors,
+  blending casual vibes with innovative dining options. This spot is renowned
+  for its signature long rolls and appealing all-you-can-eat selections, perfect
+  for those exploring top-rated sushi restaurants in the area. With a full bar
+  adding to the relaxed atmosphere, it's an ideal choice for anyone seeking
+  sushi near me who appreciates variety and accessibility features like
+  wheelchair-friendly entrances. The menu highlights quality ingredients and
+  creative presentations, making it a favorite among locals and visitors alike
+  for a satisfying meal.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About This Sushi Spot$$$Folks who visit this sushi
+  place often rave about the fresh ingredients and generous portions that make
+  every bite enjoyable, turning it into a reliable option for casual diners.
+  Many appreciate the all-you-can-eat deals and variety of rolls, which keep
+  groups coming back for more affordable and fun experiences. While some mention
+  it can get lively during peak times, the overall service is described as
+  friendly and efficient, adding to the welcoming feel. If you're on the hunt
+  for the best sushi near me, this location generally delivers good value and
+  tasty choices that leave people satisfied and eager to return.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +243,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ninza Sushi East"
+title: Ninza Sushi East
 permalink: /kansas/wichita/ninza-sushi-east.html
 stateAbbr: KS
 stateName: Kansas
 cityName: Wichita
 seo:
-  name: "Ninza Sushi East"
-  type: Restaurant
-  links: null
-description: "Ninza Sushi East serves delicious sushi in Wichita, Kansas. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.ninzasushieast.com/
 place_id: ChIJ--nwHyz9uocRBf3fLZ4Yny8
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x87bafd2c1ff0e9fb:0x2f9f189e2ddffd05!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:30 PM'
+    - 'Tuesday: 11:00 AM – 9:30 PM'
+    - 'Wednesday: 11:00 AM – 9:30 PM'
+    - 'Thursday: 11:00 AM – 9:30 PM'
+    - 'Friday: 11:00 AM – 10:30 PM'
+    - 'Saturday: 12:00 – 10:30 PM'
+    - 'Sunday: 12:00 – 9:30 PM'
+  nextCloseTime: '2025-05-04T03:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,46 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (316) 260-5002
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.2'
+rating_count: 617
+website: https://www.ninzasushieast.com/
+description: >-
+  Discover Ninza Sushi East in Wichita, KS$$$Ninza Sushi East in Wichita, KS,
+  stands out as a welcoming spot for savoring Japanese flavors in a laid-back
+  setting. This sushi restaurant features an extensive array of fresh rolls and
+  traditional dishes, complemented by options like sake and special deals that
+  enhance the dining experience. With its focus on quality ingredients and
+  accessible amenities, it's ideal for those exploring local sushi spots or
+  Japanese cuisine nearby. The spot maintains convenient hours, making it easy
+  to drop in for a satisfying meal, whether you're in the mood for something
+  light or more substantial.
+generative_summary: >-
+  Discover Ninza Sushi East in Wichita, KS$$$Ninza Sushi East in Wichita, KS,
+  stands out as a welcoming spot for savoring Japanese flavors in a laid-back
+  setting. This sushi restaurant features an extensive array of fresh rolls and
+  traditional dishes, complemented by options like sake and special deals that
+  enhance the dining experience. With its focus on quality ingredients and
+  accessible amenities, it's ideal for those exploring local sushi spots or
+  Japanese cuisine nearby. The spot maintains convenient hours, making it easy
+  to drop in for a satisfying meal, whether you're in the mood for something
+  light or more substantial.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Diners Are Saying About the Experience$$$Folks heading to this sushi
+  joint often praise the tasty rolls and creative dishes that keep things
+  exciting and flavorful. Many highlight the great value with affordable prices
+  and fresh, well-prepared options that make every bite worthwhile. While some
+  mention occasional waits during busy times, the attentive service and
+  welcoming vibe help smooth things over for a pleasant overall visit. If you're
+  on the hunt for reliable sushi places nearby, this spot frequently gets nods
+  for its solid offerings and family-friendly appeal. All in all, it's a go-to
+  choice for anyone wanting to enjoy quality Japanese-inspired eats without the
+  fuss.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +307,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Bento & Noodles Terra Nova"
+title: Bento & Noodles Terra Nova
 permalink: /california/chula-vista/bento-noodles-terra-nova.html
 stateAbbr: CA
 stateName: California
 cityName: Chula Vista
 seo:
-  name: "Bento & Noodles Terra Nova"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Bento & Noodles Terra Nova serves delicious sushi in Chula Vista, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJKaTH0DhO2YARVR-mSOPSMR0
 photos:
   - name: >-
@@ -185,7 +183,43 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Explore Bento & Noodles in Chula Vista$$$Bento & Noodles Terra Nova in Chula
+  Vista, CA, stands out as a casual spot blending Japanese and Chinese flavors,
+  appealing to those seeking fresh sushi options in a welcoming atmosphere. This
+  eatery highlights a variety of dishes, including vegetarian choices, making it
+  a versatile choice for diverse palates and families looking for accessible
+  dining. With thoughtful features like wheelchair-friendly parking and
+  entrances, it ensures a comfortable experience for all visitors exploring
+  sushi restaurants nearby. The menu draws from authentic influences, offering a
+  mix of noodles and rolls that cater to fans of top-rated Japanese cuisine in
+  the area, perfect for anyone hunting for satisfying meals close to home.
+generative_summary: >-
+  Explore Bento & Noodles in Chula Vista$$$Bento & Noodles Terra Nova in Chula
+  Vista, CA, stands out as a casual spot blending Japanese and Chinese flavors,
+  appealing to those seeking fresh sushi options in a welcoming atmosphere. This
+  eatery highlights a variety of dishes, including vegetarian choices, making it
+  a versatile choice for diverse palates and families looking for accessible
+  dining. With thoughtful features like wheelchair-friendly parking and
+  entrances, it ensures a comfortable experience for all visitors exploring
+  sushi restaurants nearby. The menu draws from authentic influences, offering a
+  mix of noodles and rolls that cater to fans of top-rated Japanese cuisine in
+  the area, perfect for anyone hunting for satisfying meals close to home.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Although specific reviews for this spot aren't
+  readily available, casual eateries like Bento & Noodles often get nods for
+  their approachable vibe and tasty fusion of Japanese and Chinese dishes, which
+  many appreciate for everyday sushi cravings. Diners typically highlight the
+  variety of options, including vegetarian picks, as a plus for groups or
+  families stopping by for a relaxed meal. Feedback generally points to the
+  solid flavors and accessibility features that make it a go-to choice among
+  local sushi places, helping it stand out in a bustling area. Overall, it seems
+  like a reliable pick for those searching for quality eats without the fuss,
+  keeping things positive yet grounded in the community's laid-back dining
+  scene.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +245,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

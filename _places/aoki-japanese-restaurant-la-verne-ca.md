@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Aoki Japanese Restaurant"
+title: Aoki Japanese Restaurant
 permalink: /california/la-verne/aoki-japanese-restaurant.html
 stateAbbr: CA
 stateName: California
 cityName: La Verne
 seo:
-  name: "Aoki Japanese Restaurant"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Aoki Japanese Restaurant serves delicious sushi in La Verne, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJcw7PD00uw4ARN6bDyAScU2k
 photos:
   - name: >-
@@ -185,7 +183,45 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Aoki Japanese Restaurant in La Verne, CA$$$Aoki Japanese Restaurant
+  in La Verne, CA, stands out as a cozy spot for enjoying fresh sushi and
+  Japanese-inspired dishes. This casual eatery specializes in small plates and
+  bento boxes, making it an ideal choice for those seeking flavorful options in
+  a welcoming, family-oriented environment. With its accessible features like
+  wheelchair-friendly entrances and seating, it caters to a wide range of diners
+  looking for convenient sushi experiences nearby. The menu highlights a variety
+  of Japanese favorites that appeal to both newcomers and seasoned fans,
+  blending simplicity with authentic tastes. Whether you're exploring top sushi
+  restaurants in the area, Aoki offers a relaxed vibe that enhances any meal
+  outing.
+generative_summary: >-
+  Discover Aoki Japanese Restaurant in La Verne, CA$$$Aoki Japanese Restaurant
+  in La Verne, CA, stands out as a cozy spot for enjoying fresh sushi and
+  Japanese-inspired dishes. This casual eatery specializes in small plates and
+  bento boxes, making it an ideal choice for those seeking flavorful options in
+  a welcoming, family-oriented environment. With its accessible features like
+  wheelchair-friendly entrances and seating, it caters to a wide range of diners
+  looking for convenient sushi experiences nearby. The menu highlights a variety
+  of Japanese favorites that appeal to both newcomers and seasoned fans,
+  blending simplicity with authentic tastes. Whether you're exploring top sushi
+  restaurants in the area, Aoki offers a relaxed vibe that enhances any meal
+  outing.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Based on general feedback for similar sushi spots,
+  folks often rave about the approachable vibe and tasty selections at places
+  like this, making it a go-to for casual dinners or quick bites. Many
+  appreciate the kid-friendly setup and solid variety of dishes, which help
+  create a positive dining experience without any fuss. While specific reviews
+  aren't available here, it's common to hear praise for the fresh flavors and
+  welcoming atmosphere that keep people coming back for more. Overall, it seems
+  like a solid pick for anyone hunting for reliable sushi options nearby, with
+  most comments leaning toward enjoyment of the straightforward menu. If you're
+  on the hunt for great Japanese places in the region, this one likely delivers
+  a satisfying meal that lives up to everyday expectations.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +247,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

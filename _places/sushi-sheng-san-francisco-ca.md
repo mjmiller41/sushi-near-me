@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Sheng 鮨昇"
+title: Sushi Sheng 鮨昇
 permalink: /california/san-francisco/sushi-sheng.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
 seo:
-  name: "Sushi Sheng 鮨昇"
-  type: Restaurant
+  type: restaurant
   links: https://www.sushishengsf.com/
-description: "Sushi Sheng 鮨昇 serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJA3HyqV99j4ARVWqU5cHosYE
 photos:
   - name: >-
@@ -184,6 +182,33 @@ price_range: $20 &ndash; $30
 rating: '4.7'
 rating_count: 0
 website: https://www.sushishengsf.com/
+description: >-
+  Discover Sushi Sheng in San Francisco, CA$$$Nestled in the vibrant West of
+  Twin Peaks neighborhood of San Francisco, CA, Sushi Sheng 鮨昇 offers a casual
+  yet inviting spot for enjoying fresh Japanese cuisine. This restaurant
+  features a menu that highlights flavorful sushi, ramen, and bento boxes,
+  making it a go-to choice for those seeking authentic tastes in a relaxed
+  setting. With its moderate pricing and accessibility features like
+  wheelchair-friendly entrances, it's an easy pick for diners looking for
+  quality meals without the fuss. The establishment also provides options for
+  beer and wine, enhancing the experience for those exploring top-rated sushi
+  places near me. Whether you're in the mood for a quick lunch or a satisfying
+  dinner, Sushi Sheng delivers a blend of freshness and simplicity that captures
+  the essence of Japanese dining.
+generative_summary: >-
+  Discover Sushi Sheng in San Francisco, CA$$$Nestled in the vibrant West of
+  Twin Peaks neighborhood of San Francisco, CA, Sushi Sheng 鮨昇 offers a casual
+  yet inviting spot for enjoying fresh Japanese cuisine. This restaurant
+  features a menu that highlights flavorful sushi, ramen, and bento boxes,
+  making it a go-to choice for those seeking authentic tastes in a relaxed
+  setting. With its moderate pricing and accessibility features like
+  wheelchair-friendly entrances, it's an easy pick for diners looking for
+  quality meals without the fuss. The establishment also provides options for
+  beer and wine, enhancing the experience for those exploring top-rated sushi
+  places near me. Whether you're in the mood for a quick lunch or a satisfying
+  dinner, Sushi Sheng delivers a blend of freshness and simplicity that captures
+  the essence of Japanese dining.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJA3HyqV99j4ARVWqU5cHosYE/reviews/ChdDSUhNMG9nS0VJQ0FnSURidjZyMXhBRRAB
@@ -341,6 +366,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURqb1pMdkxREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURqb1pMdkxREAE!2m1!1s0x808f7d5fa9f27103:0x81b1e8c1e5946a55
+review_summary: >-
+  What Customers Are Saying About This Sushi Spot$$$Visitors often rave about
+  the fresh and flavorful sushi selections, noting that the portions are
+  generous and the prices feel just right for a satisfying meal. Many appreciate
+  the quick service and attentive staff who strike a nice balance between
+  efficiency and friendliness, making for a welcoming atmosphere even during
+  busy times. Feedback highlights the variety of options like oysters and rolls
+  that pack a punch in taste without overwhelming portions of rice, perfect for
+  those who love sushi and want something both delicious and affordable.
+  Overall, the consensus leans positive, with diners enjoying the overall value
+  and vibe that keeps them coming back for more. If you're searching for
+  reliable sushi restaurants near me, this spot consistently delivers a solid
+  experience that's worth trying out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeStreetParking: true
   paidStreetParking: true
@@ -372,7 +411,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

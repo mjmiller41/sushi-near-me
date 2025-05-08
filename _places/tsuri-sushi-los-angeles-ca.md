@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Tsuri Sushi"
+title: Tsuri Sushi
 permalink: /california/los-angeles/tsuri-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Los Angeles
 seo:
-  name: "Tsuri Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.tsurionmelrose.com/
-description: "Tsuri Sushi serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJnVTlKdW4woAR-W0AELGA3S4
 photos:
   - name: >-
@@ -170,7 +168,105 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c2b8d529e5549d:0x2edd80b110006df9!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 16
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 17
+        minute: 30
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 17
+        minute: 30
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 17
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 17
+        minute: 30
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 16
+        minute: 0
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 2:30 PM, 5:30 – 10:00 PM'
     - 'Tuesday: 11:30 AM – 2:30 PM, 5:30 – 10:00 PM'
     - 'Wednesday: 11:30 AM – 2:30 PM, 5:30 – 10:00 PM'
@@ -178,54 +274,462 @@ opening_hours:
     - 'Friday: 11:30 AM – 2:30 PM, 5:30 – 11:00 PM'
     - 'Saturday: 4:00 – 11:00 PM'
     - 'Sunday: 4:00 – 10:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 2:30 PM, 5:30 – 10:00 PM'
-    - 'Tuesday: 11:30 AM – 2:30 PM, 5:30 – 10:00 PM'
-    - 'Wednesday: 11:30 AM – 2:30 PM, 5:30 – 10:00 PM'
-    - 'Thursday: 11:30 AM – 2:30 PM, 5:30 – 10:00 PM'
-    - 'Friday: 11:30 AM – 2:30 PM, 5:30 – 11:00 PM'
-    - 'Saturday: 4:00 – 11:00 PM'
-    - 'Sunday: 4:00 – 10:00 PM'
+  nextOpenTime: '2025-05-03T23:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: false
+    periods:
+      - open:
+          day: 0
+          hour: 16
+          minute: 0
+        close:
+          day: 0
+          hour: 22
+          minute: 0
+      - open:
+          day: 1
+          hour: 11
+          minute: 30
+        close:
+          day: 1
+          hour: 14
+          minute: 30
+      - open:
+          day: 1
+          hour: 17
+          minute: 30
+        close:
+          day: 1
+          hour: 22
+          minute: 0
+      - open:
+          day: 2
+          hour: 11
+          minute: 30
+        close:
+          day: 2
+          hour: 14
+          minute: 30
+      - open:
+          day: 2
+          hour: 17
+          minute: 30
+        close:
+          day: 2
+          hour: 22
+          minute: 0
+      - open:
+          day: 3
+          hour: 11
+          minute: 30
+        close:
+          day: 3
+          hour: 14
+          minute: 30
+      - open:
+          day: 3
+          hour: 17
+          minute: 30
+        close:
+          day: 3
+          hour: 22
+          minute: 0
+      - open:
+          day: 4
+          hour: 11
+          minute: 30
+        close:
+          day: 4
+          hour: 14
+          minute: 30
+      - open:
+          day: 4
+          hour: 17
+          minute: 30
+        close:
+          day: 4
+          hour: 22
+          minute: 0
+      - open:
+          day: 5
+          hour: 11
+          minute: 30
+        close:
+          day: 5
+          hour: 14
+          minute: 30
+      - open:
+          day: 5
+          hour: 17
+          minute: 30
+        close:
+          day: 5
+          hour: 23
+          minute: 0
+      - open:
+          day: 6
+          hour: 16
+          minute: 0
+        close:
+          day: 6
+          hour: 23
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 11:30 AM – 2:30 PM, 5:30 – 10:00 PM'
+      - 'Tuesday: 11:30 AM – 2:30 PM, 5:30 – 10:00 PM'
+      - 'Wednesday: 11:30 AM – 2:30 PM, 5:30 – 10:00 PM'
+      - 'Thursday: 11:30 AM – 2:30 PM, 5:30 – 10:00 PM'
+      - 'Friday: 11:30 AM – 2:30 PM, 5:30 – 11:00 PM'
+      - 'Saturday: 4:00 – 11:00 PM'
+      - 'Sunday: 4:00 – 10:00 PM'
+    secondaryHoursType: TAKEOUT
+    nextOpenTime: '2025-05-03T23:00:00Z'
+  - openNow: false
+    periods:
+      - open:
+          day: 1
+          hour: 11
+          minute: 30
+        close:
+          day: 1
+          hour: 14
+          minute: 30
+      - open:
+          day: 2
+          hour: 11
+          minute: 30
+        close:
+          day: 2
+          hour: 14
+          minute: 30
+      - open:
+          day: 3
+          hour: 11
+          minute: 30
+        close:
+          day: 3
+          hour: 14
+          minute: 30
+      - open:
+          day: 4
+          hour: 11
+          minute: 30
+        close:
+          day: 4
+          hour: 14
+          minute: 30
+      - open:
+          day: 5
+          hour: 11
+          minute: 30
+        close:
+          day: 5
+          hour: 14
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 11:30 AM – 2:30 PM'
+      - 'Tuesday: 11:30 AM – 2:30 PM'
+      - 'Wednesday: 11:30 AM – 2:30 PM'
+      - 'Thursday: 11:30 AM – 2:30 PM'
+      - 'Friday: 11:30 AM – 2:30 PM'
+      - 'Saturday: Closed'
+      - 'Sunday: Closed'
+    secondaryHoursType: LUNCH
+    nextOpenTime: '2025-05-05T18:30:00Z'
+  - openNow: false
+    periods:
+      - open:
+          day: 0
+          hour: 16
+          minute: 0
+        close:
+          day: 0
+          hour: 22
+          minute: 0
+      - open:
+          day: 1
+          hour: 17
+          minute: 30
+        close:
+          day: 1
+          hour: 22
+          minute: 0
+      - open:
+          day: 2
+          hour: 17
+          minute: 30
+        close:
+          day: 2
+          hour: 22
+          minute: 0
+      - open:
+          day: 3
+          hour: 17
+          minute: 30
+        close:
+          day: 3
+          hour: 22
+          minute: 0
+      - open:
+          day: 4
+          hour: 17
+          minute: 30
+        close:
+          day: 4
+          hour: 22
+          minute: 0
+      - open:
+          day: 5
+          hour: 17
+          minute: 30
+        close:
+          day: 5
+          hour: 23
+          minute: 0
+      - open:
+          day: 6
+          hour: 16
+          minute: 0
+        close:
+          day: 6
+          hour: 23
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 5:30 – 10:00 PM'
+      - 'Tuesday: 5:30 – 10:00 PM'
+      - 'Wednesday: 5:30 – 10:00 PM'
+      - 'Thursday: 5:30 – 10:00 PM'
+      - 'Friday: 5:30 – 11:00 PM'
+      - 'Saturday: 4:00 – 11:00 PM'
+      - 'Sunday: 4:00 – 10:00 PM'
+    secondaryHoursType: DINNER
+    nextOpenTime: '2025-05-03T23:00:00Z'
 phone: (323) 935-1517
 price_level: PRICE_LEVEL_MODERATE
 price_range: $50 &ndash; $100
 rating: '4.4'
-rating_count: 0
+rating_count: 220
 website: http://www.tsurionmelrose.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Tsuri Sushi in Los Angeles, CA$$$Nestled in the vibrant heart of Los
+  Angeles, CA, Tsuri Sushi stands out as a cozy spot for enjoying authentic
+  Japanese flavors, featuring premium rolls and fresh Japanese dishes that cater
+  to a variety of tastes. This welcoming sushi restaurant offers a relaxed urban
+  atmosphere where diners can savor inventive options like bento boxes and lunch
+  specials, making it an ideal choice for those seeking sushi near me in a
+  lively neighborhood. With thoughtful accessibility features and a focus on
+  quality ingredients, including vegetarian and gluten-free choices, it appeals
+  to health-conscious patrons looking for the best sushi experiences. The menu
+  highlights a blend of traditional and creative preparations, ensuring every
+  visit feels both comforting and exciting. Whether you're in the mood for
+  top-rated sushi or simply exploring Japanese places near me, this
+  establishment delivers a memorable dining vibe.
+generative_summary: >-
+  Discover Tsuri Sushi in Los Angeles, CA$$$Nestled in the vibrant heart of Los
+  Angeles, CA, Tsuri Sushi stands out as a cozy spot for enjoying authentic
+  Japanese flavors, featuring premium rolls and fresh Japanese dishes that cater
+  to a variety of tastes. This welcoming sushi restaurant offers a relaxed urban
+  atmosphere where diners can savor inventive options like bento boxes and lunch
+  specials, making it an ideal choice for those seeking sushi near me in a
+  lively neighborhood. With thoughtful accessibility features and a focus on
+  quality ingredients, including vegetarian and gluten-free choices, it appeals
+  to health-conscious patrons looking for the best sushi experiences. The menu
+  highlights a blend of traditional and creative preparations, ensuring every
+  visit feels both comforting and exciting. Whether you're in the mood for
+  top-rated sushi or simply exploring Japanese places near me, this
+  establishment delivers a memorable dining vibe.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJnVTlKdW4woAR-W0AELGA3S4/reviews/ChZDSUhNMG9nS0VJQ0FnTUNncXRQTERBEAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        Saw this place while at the The Golden Apple Comics store on Melrose and
+        decided to check it out, read great reviews and didn’t disappoint.
+        Excellent service right off the bat, very cool place, had several rolls
+        and couple hand rolls all of which was very well done with the freshest
+        taste including the ginger. Lives seeing the Chefs in Fedora Hats, well
+        done gentlemen! Absolutely recommend if in the area.
+      languageCode: en
+    originalText:
+      text: >-
+        Saw this place while at the The Golden Apple Comics store on Melrose and
+        decided to check it out, read great reviews and didn’t disappoint.
+        Excellent service right off the bat, very cool place, had several rolls
+        and couple hand rolls all of which was very well done with the freshest
+        taste including the ginger. Lives seeing the Chefs in Fedora Hats, well
+        done gentlemen! Absolutely recommend if in the area.
+      languageCode: en
+    authorAttribution:
+      displayName: Randal Pettyjohn
+      uri: https://www.google.com/maps/contrib/116178811938432423362/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjV_ZWIrlQiFgaN_9A_nOa8UbpNBmWbawnRWeVeMQLlRVRDkWjhOOQ=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-02-16T02:51:02.209527Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNncXRQTERBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNncXRQTERBEAE!2m1!1s0x80c2b8d529e5549d:0x2edd80b110006df9
+  - name: >-
+      places/ChIJnVTlKdW4woAR-W0AELGA3S4/reviews/ChZDSUhNMG9nS0VJQ0FnTUNvNzdfUklBEAE
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        Fantastic sushi and great service. We loved the food selections and the
+        friendly atmosphere.
+      languageCode: en
+    originalText:
+      text: >-
+        Fantastic sushi and great service. We loved the food selections and the
+        friendly atmosphere.
+      languageCode: en
+    authorAttribution:
+      displayName: Bob Lee
+      uri: https://www.google.com/maps/contrib/115079299398436187110/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXCYcLiTQU0SNVahsBivDnWliYGj6cxK_LjMcuRNs5tKP61_dz3=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-04-21T00:41:23.034140Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNvNzdfUklBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNvNzdfUklBEAE!2m1!1s0x80c2b8d529e5549d:0x2edd80b110006df9
+  - name: >-
+      places/ChIJnVTlKdW4woAR-W0AELGA3S4/reviews/ChdDSUhNMG9nS0VJQ0FnSUNmMjZtNWtnRRAB
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        Went here on NYE, the vibes were so fun and the food was incredible. We
+        were sitting at the bar and the chefs were friendly and interactive, the
+        fish was so fresh.
+
+        We loved how quick the service was but also didn’t feel rushed. Would
+        highly recommend if you are looking for a more casual spot with simple
+        but good quality food.
+      languageCode: en
+    originalText:
+      text: >-
+        Went here on NYE, the vibes were so fun and the food was incredible. We
+        were sitting at the bar and the chefs were friendly and interactive, the
+        fish was so fresh.
+
+        We loved how quick the service was but also didn’t feel rushed. Would
+        highly recommend if you are looking for a more casual spot with simple
+        but good quality food.
+      languageCode: en
+    authorAttribution:
+      displayName: Lilli Harris
+      uri: https://www.google.com/maps/contrib/115935831677757357808/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJDSM7WW41PCrWpZFSH8yJWIh22igwARSP-SywFh0K8KbTSnQ=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-01-01T22:12:31.742380Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNmMjZtNWtnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNmMjZtNWtnRRAB!2m1!1s0x80c2b8d529e5549d:0x2edd80b110006df9
+  - name: >-
+      places/ChIJnVTlKdW4woAR-W0AELGA3S4/reviews/ChdDSUhNMG9nS0VJQ0FnSURidjl5YnRBRRAB
+    relativePublishTimeDescription: 8 months ago
+    rating: 5
+    text:
+      text: >-
+        Nice place. Not too busy. Food tastes amazing!! And they can make most
+        of the menu gluten free. Top 5 sushi places I've ever been to, honestly.
+        Really surprised me with that. But everything just tastes the best.
+        Highly recommend the crispy rice and escolar nigiri.
+      languageCode: en
+    originalText:
+      text: >-
+        Nice place. Not too busy. Food tastes amazing!! And they can make most
+        of the menu gluten free. Top 5 sushi places I've ever been to, honestly.
+        Really surprised me with that. But everything just tastes the best.
+        Highly recommend the crispy rice and escolar nigiri.
+      languageCode: en
+    authorAttribution:
+      displayName: Dillon Rivera
+      uri: https://www.google.com/maps/contrib/108927428012355085894/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjU7jvvcTmQjwMji2VqdnB_945fXQVxfQ9QRaaC-bVr9nKKl1qs=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-08-11T02:47:23.957965Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURidjl5YnRBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURidjl5YnRBRRAB!2m1!1s0x80c2b8d529e5549d:0x2edd80b110006df9
+  - name: >-
+      places/ChIJnVTlKdW4woAR-W0AELGA3S4/reviews/ChZDSUhNMG9nS0VJQ0FnSURQeEtqLVNREAE
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        Wonderful location! I went for my Thanksgiving dinner and it was beyond
+        amazing. The quality of food, the staff professionalism, and the drinks!
+        Worth it and I will be back. My new holiday spot.
+      languageCode: en
+    originalText:
+      text: >-
+        Wonderful location! I went for my Thanksgiving dinner and it was beyond
+        amazing. The quality of food, the staff professionalism, and the drinks!
+        Worth it and I will be back. My new holiday spot.
+      languageCode: en
+    authorAttribution:
+      displayName: Kalendrix Cook
+      uri: https://www.google.com/maps/contrib/117489321417988957265/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWN7qVQcZa3lXBN8EGEzLsbmpJHfl1PWZvrH1xVYKi7hRx5IkZ3=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-11-29T05:16:09.645368Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURQeEtqLVNREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURQeEtqLVNREAE!2m1!1s0x80c2b8d529e5549d:0x2edd80b110006df9
+review_summary: >-
+  What Customers Love About This Sushi Gem$$$Folks rave about the fresh,
+  high-quality sushi and rolls that hit the spot every time, with many
+  highlighting the flavorful options that keep things exciting yet approachable.
+  Visitors often appreciate the friendly service and welcoming atmosphere,
+  noting how it makes for a casual outing without any rush, perfect for groups
+  or solo diners. There's plenty of praise for the variety of choices, including
+  gluten-free adaptations, which add to the appeal for those with dietary needs
+  while keeping the experience enjoyable. Overall, people find it a go-to for
+  satisfying meals that combine great taste with efficient service, making it a
+  solid pick for anyone hunting for sushi restaurants near me. If you're on the
+  hunt for reliable spots that deliver on flavor and vibe, this one consistently
+  earns nods for its straightforward yet delightful offerings.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  paidStreetParking: true
+payment_options:
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+curbside_pickup: false
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: true
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: false
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Cozy, urban sushi bar with premium rolls & other Japanese dishes, plus lunch
+  specials & bento boxes.
 
 ---

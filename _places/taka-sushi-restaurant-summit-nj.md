@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Taka Sushi Restaurant"
+title: Taka Sushi Restaurant
 permalink: /new-jersey/summit/taka-sushi-restaurant.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Summit
 seo:
-  name: "Taka Sushi Restaurant"
-  type: Restaurant
-  links: null
-description: "Taka Sushi Restaurant serves delicious sushi in Summit, New Jersey. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.takasummit.com/
 place_id: ChIJH9_Cdk2uw4kRfi0xmzdd6j4
 photos:
   - name: >-
@@ -170,8 +168,121 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c3ae4d76c2df1f:0x3eea5d379b312d7e!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 15
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 15
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 15
+        minute: 0
+    - open:
+        day: 6
+        hour: 16
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 3:00 PM, 4:00 – 9:30 PM'
+    - 'Tuesday: 11:00 AM – 3:00 PM, 4:00 – 9:30 PM'
+    - 'Wednesday: 11:00 AM – 3:00 PM, 4:00 – 9:30 PM'
+    - 'Thursday: 11:00 AM – 3:00 PM, 4:00 – 9:30 PM'
+    - 'Friday: 11:00 AM – 3:00 PM, 4:00 – 10:00 PM'
+    - 'Saturday: 11:00 AM – 3:00 PM, 4:00 – 10:00 PM'
+    - 'Sunday: 12:00 – 9:30 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +290,47 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (908) 277-0886
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.0'
+rating_count: 148
+website: http://www.takasummit.com/
+description: >-
+  Discover Taka Sushi in Summit, NJ$$$Taka Sushi Restaurant in Summit, NJ,
+  stands out as a cozy spot for those seeking fresh and inventive Japanese
+  cuisine, perfect for sushi lovers exploring options nearby. This BYOB
+  establishment delights with a selection of classic rolls alongside creative
+  twists using high-quality seafood, making it an accessible choice for casual
+  diners. The restaurant's welcoming atmosphere is enhanced by thoughtful
+  accessibility features, ensuring a comfortable experience for all visitors.
+  With moderate pricing and convenient hours, it's an ideal destination for
+  anyone in the area hunting for top-rated sushi options that balance tradition
+  and innovation.
+generative_summary: >-
+  Discover Taka Sushi in Summit, NJ$$$Taka Sushi Restaurant in Summit, NJ,
+  stands out as a cozy spot for those seeking fresh and inventive Japanese
+  cuisine, perfect for sushi lovers exploring options nearby. This BYOB
+  establishment delights with a selection of classic rolls alongside creative
+  twists using high-quality seafood, making it an accessible choice for casual
+  diners. The restaurant's welcoming atmosphere is enhanced by thoughtful
+  accessibility features, ensuring a comfortable experience for all visitors.
+  With moderate pricing and convenient hours, it's an ideal destination for
+  anyone in the area hunting for top-rated sushi options that balance tradition
+  and innovation.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this sushi spot often highlight the
+  consistently fresh ingredients and well-prepared dishes as standout features,
+  making it a go-to for satisfying meals. Many appreciate the friendly service
+  and cozy vibe, which add to the overall enjoyable dining experience without
+  any major complaints. While some note that portions could be more generous,
+  the general consensus leans positive, with folks frequently returning for the
+  reliable quality and variety. Overall, it's clear that this place hits the
+  mark for those craving authentic flavors in a relaxed setting, earning it
+  solid recommendations from the community.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +356,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

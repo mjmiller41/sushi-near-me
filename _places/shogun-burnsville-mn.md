@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Shogun"
+title: Shogun
 permalink: /minnesota/burnsville/shogun.html
 stateAbbr: MN
 stateName: Minnesota
 cityName: Burnsville
 seo:
-  name: "Shogun"
-  type: Restaurant
+  type: restaurant
   links: https://www.shogunburnsvillemn.com/
-description: "Contemporary restaurant offering lively hibachi meals, sushi & cocktails in a low-lit dining room. Shogun serves delicious sushi in Burnsville, Minnesota. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJrbubPDY69ocR-1UQTiTXAwU
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $30 &ndash; $50
 rating: '4.3'
 rating_count: 0
 website: https://www.shogunburnsvillemn.com/
+description: >-
+  Discover Shogun in Burnsville, MN$$$In Burnsville, MN, Shogun offers a lively
+  Japanese dining experience that combines hibachi flair with fresh sushi
+  options, making it a go-to spot for those searching for sushi restaurants
+  nearby. The restaurant features ample portions of flavorful dishes, including
+  cocktails and a kids' menu, all served in a cozy, low-lit atmosphere that
+  enhances the meal. Patrons can enjoy a variety of Japanese favorites, from
+  sizzling hibachi entrees to expertly prepared rolls, appealing to families and
+  groups looking for top-rated sushi close to home. Accessibility is a key
+  highlight, with options like wheelchair-friendly seating and parking that
+  ensure everyone can savor the experience comfortably.
+generative_summary: >-
+  Discover Shogun in Burnsville, MN$$$In Burnsville, MN, Shogun offers a lively
+  Japanese dining experience that combines hibachi flair with fresh sushi
+  options, making it a go-to spot for those searching for sushi restaurants
+  nearby. The restaurant features ample portions of flavorful dishes, including
+  cocktails and a kids' menu, all served in a cozy, low-lit atmosphere that
+  enhances the meal. Patrons can enjoy a variety of Japanese favorites, from
+  sizzling hibachi entrees to expertly prepared rolls, appealing to families and
+  groups looking for top-rated sushi close to home. Accessibility is a key
+  highlight, with options like wheelchair-friendly seating and parking that
+  ensure everyone can savor the experience comfortably.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJrbubPDY69ocR-1UQTiTXAwU/reviews/ChdDSUhNMG9nS0VJQ0FnSURuc2RfUDRBRRAB
@@ -402,6 +423,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNwa2QtTk9nEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNwa2QtTk9nEAE!2m1!1s0x87f63a363c9bbbad:0x503d7244e1055fb
+review_summary: >-
+  What Guests Are Saying$$$Folks heading to Shogun often rave about the
+  delicious hibachi and sushi dishes that come with generous portions and solid
+  value for the price, making it a fun choice for a night out. Many appreciate
+  the friendly service and relaxed vibe that keeps things entertaining,
+  especially during the interactive cooking shows at the tables. While some
+  mention occasional waits that come with popular spots, the overall atmosphere
+  and food quality keep the energy positive and inviting. It's commonly noted as
+  a great pick for families or groups, with tasty sides like fried rice and
+  sauces adding to the appeal. Overall, visitors find it a reliable option for
+  enjoying Japanese flavors without any major letdowns, leaving them satisfied
+  and ready to return.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -435,8 +469,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Contemporary restaurant offering lively hibachi meals, sushi & cocktails in a
   low-lit dining room.
 

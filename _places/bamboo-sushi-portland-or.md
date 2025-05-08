@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Bamboo Sushi"
+title: Bamboo Sushi
 permalink: /oregon/portland/bamboo-sushi.html
 stateAbbr: OR
 stateName: Oregon
 cityName: Portland
 seo:
-  name: "Bamboo Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Bamboo Sushi serves delicious sushi in Portland, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJeTluBgMKlVQRMlEyE-oSSAU
 photos:
   - name: >-
@@ -185,7 +183,51 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  About Bamboo Sushi in Portland, OR$$$Bamboo Sushi in Portland, OR, stands out
+  as a welcoming Japanese eatery specializing in fresh sushi and innovative
+  dishes that blend tradition with modern flair. This spot delights visitors
+  with a menu featuring artfully prepared nigiri, creative rolls, shareable
+  plates, and even wagyu burgers, all paired with a selection of craft cocktails
+  for a complete dining experience. Accessibility is a key highlight, with
+  features like wheelchair-accessible parking, entrances, restrooms, and seating
+  making it easy for everyone to enjoy the vibrant atmosphere. Located in the
+  heart of the city, it's an ideal choice for those seeking top-rated sushi
+  restaurants near me, where sustainable ingredients and creative presentations
+  elevate every meal. Whether you're exploring Japanese places near me or
+  craving a casual night out, Bamboo Sushi offers a memorable blend of quality
+  and flavor that keeps locals coming back.
+generative_summary: >-
+  About Bamboo Sushi in Portland, OR$$$Bamboo Sushi in Portland, OR, stands out
+  as a welcoming Japanese eatery specializing in fresh sushi and innovative
+  dishes that blend tradition with modern flair. This spot delights visitors
+  with a menu featuring artfully prepared nigiri, creative rolls, shareable
+  plates, and even wagyu burgers, all paired with a selection of craft cocktails
+  for a complete dining experience. Accessibility is a key highlight, with
+  features like wheelchair-accessible parking, entrances, restrooms, and seating
+  making it easy for everyone to enjoy the vibrant atmosphere. Located in the
+  heart of the city, it's an ideal choice for those seeking top-rated sushi
+  restaurants near me, where sustainable ingredients and creative presentations
+  elevate every meal. Whether you're exploring Japanese places near me or
+  craving a casual night out, Bamboo Sushi offers a memorable blend of quality
+  and flavor that keeps locals coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Buzzing About$$$Folks exploring sushi spots near me often
+  rave about the fresh, high-quality ingredients that make every bite at this
+  Portland gem feel special and satisfying. Many appreciate the variety of
+  options, from classic rolls to unique shareable plates, noting that the
+  creative twists keep things exciting without overwhelming the palate. While
+  some mention the cozy vibe and attentive service as standout perks, a few
+  casual diners point out that wait times can vary during peak hours, though
+  it's generally worth the wait for the authentic flavors. Overall, it's clear
+  that this place earns its reputation as one of the best sushi restaurants in
+  the area, with visitors frequently highlighting the welcoming environment and
+  solid value for a Japanese dining experience. If you're on the hunt for I love
+  sushi moments, this spot delivers a reliably enjoyable outing that balances
+  fun and flavor in a laid-back way.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +253,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

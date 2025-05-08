@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi 7"
+title: Sushi 7
 permalink: /nevada/reno/sushi-7.html
 stateAbbr: NV
 stateName: Nevada
 cityName: Reno
 seo:
-  name: "Sushi 7"
-  type: Restaurant
+  type: restaurant
   links: https://order.online/business/sushi7-416172
-description: "Sushi 7 serves delicious sushi in Reno, Nevada. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJFYtOZH9AmYAReKlZPWHGYOQ
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8099407f644e8b15:0xe460c6613d59a978!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 4:00 – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:00 PM'
     - 'Saturday: 11:00 AM – 9:00 PM'
     - 'Sunday: 11:00 AM – 9:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 4:00 – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 9:00 PM'
-    - 'Saturday: 11:00 AM – 9:00 PM'
-    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +238,216 @@ phone: (775) 827-1515
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.3'
-rating_count: 0
+rating_count: 535
 website: https://order.online/business/sushi7-416172
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Sushi 7 in Reno, NV$$$Sushi 7 in Reno, Nevada, stands out as a
+  laid-back Japanese dining spot that specializes in fresh, all-you-can-eat
+  sushi options, complemented by a selection of beer, wine, and sake for a
+  complete meal experience. Nestled in the Northwest Reno area, this restaurant
+  caters to those seeking convenient sushi places near me with its accessible
+  features, including wheelchair-friendly parking and seating, ensuring everyone
+  can enjoy the vibe. The menu highlights a variety of flavorful rolls and
+  appetizers, making it a go-to choice for casual lunches or dinners in a
+  welcoming atmosphere. With generous portions and a focus on quality
+  ingredients, it's an ideal spot for anyone exploring top-rated sushi
+  restaurants in the region.
+generative_summary: >-
+  Discover Sushi 7 in Reno, NV$$$Sushi 7 in Reno, Nevada, stands out as a
+  laid-back Japanese dining spot that specializes in fresh, all-you-can-eat
+  sushi options, complemented by a selection of beer, wine, and sake for a
+  complete meal experience. Nestled in the Northwest Reno area, this restaurant
+  caters to those seeking convenient sushi places near me with its accessible
+  features, including wheelchair-friendly parking and seating, ensuring everyone
+  can enjoy the vibe. The menu highlights a variety of flavorful rolls and
+  appetizers, making it a go-to choice for casual lunches or dinners in a
+  welcoming atmosphere. With generous portions and a focus on quality
+  ingredients, it's an ideal spot for anyone exploring top-rated sushi
+  restaurants in the region.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJFYtOZH9AmYAReKlZPWHGYOQ/reviews/ChZDSUhNMG9nS0VJQ0FnTURvMFlTeENnEAE
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        The service is awesome, the hostess here is always very kind and
+        helpful, the food is the freshest I have had in Reno especially the
+        mussels and salmon. It’s been my favorite spot for a year now and
+        counting 👌
+      languageCode: en
+    originalText:
+      text: >-
+        The service is awesome, the hostess here is always very kind and
+        helpful, the food is the freshest I have had in Reno especially the
+        mussels and salmon. It’s been my favorite spot for a year now and
+        counting 👌
+      languageCode: en
+    authorAttribution:
+      displayName: Luz Solorio
+      uri: https://www.google.com/maps/contrib/103957777629594708847/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIY6-S6USuzj0UnM85GWry78i4UxNkALky96fIiLhDd2Y2RPg=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-25T22:49:02.680429Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURvMFlTeENnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURvMFlTeENnEAE!2m1!1s0x8099407f644e8b15:0xe460c6613d59a978
+  - name: >-
+      places/ChIJFYtOZH9AmYAReKlZPWHGYOQ/reviews/ChZDSUhNMG9nS0VJQ0FnTUNveV9UTkJnEAE
+    relativePublishTimeDescription: a week ago
+    rating: 4
+    text:
+      text: >-
+        Food is really good. Always enjoy the sushi and appetizers. My only
+        complaint is the female server/hostess. She kept touching my child when
+        he was getting uncomfortable with her and interrupting our meal. I’m
+        sure she’s trying to have good customer service but it’s over the top
+        for me.
+      languageCode: en
+    originalText:
+      text: >-
+        Food is really good. Always enjoy the sushi and appetizers. My only
+        complaint is the female server/hostess. She kept touching my child when
+        he was getting uncomfortable with her and interrupting our meal. I’m
+        sure she’s trying to have good customer service but it’s over the top
+        for me.
+      languageCode: en
+    authorAttribution:
+      displayName: Allison Holmes
+      uri: https://www.google.com/maps/contrib/106226552839029609459/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKnIxGG4Cd26GI42ThPi6EIASOc5EQJcTQs-MQ4kcztD15ziQ=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-19T23:03:49.531978Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNveV9UTkJnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNveV9UTkJnEAE!2m1!1s0x8099407f644e8b15:0xe460c6613d59a978
+  - name: >-
+      places/ChIJFYtOZH9AmYAReKlZPWHGYOQ/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3LWNyQjJBRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        We ordered the Tempura appetizer 12 piece Sashimi, Pork Katsu meal thru
+        GrubHub. It was so good! The Tempura was delivered so hot, sushi was
+        crazy fresh,  and the Pork Katsu dinner was huge and so delicious. Thank
+        You Sushi 7 Yummy!!!
+      languageCode: en
+    originalText:
+      text: >-
+        We ordered the Tempura appetizer 12 piece Sashimi, Pork Katsu meal thru
+        GrubHub. It was so good! The Tempura was delivered so hot, sushi was
+        crazy fresh,  and the Pork Katsu dinner was huge and so delicious. Thank
+        You Sushi 7 Yummy!!!
+      languageCode: en
+    authorAttribution:
+      displayName: Karen Jindrich
+      uri: https://www.google.com/maps/contrib/116360037779931331528/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLL6c7dDvbHRvIFTxma8mGy4lLlsy2NbnS2uGhRun4niYTsog=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-03-27T01:08:06.708340Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUR3LWNyQjJBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUR3LWNyQjJBRRAB!2m1!1s0x8099407f644e8b15:0xe460c6613d59a978
+  - name: >-
+      places/ChIJFYtOZH9AmYAReKlZPWHGYOQ/reviews/ChZDSUhNMG9nS0VJQ0FnSUNYLTdiZUd3EAE
+    relativePublishTimeDescription: 6 months ago
+    rating: 5
+    text:
+      text: >-
+        A piece of Korea right here in Reno. Sushi is good, fried banana ice
+        cream is good! Atmosphere is relaxing and perfect for dates. Love this
+        place!
+      languageCode: en
+    originalText:
+      text: >-
+        A piece of Korea right here in Reno. Sushi is good, fried banana ice
+        cream is good! Atmosphere is relaxing and perfect for dates. Love this
+        place!
+      languageCode: en
+    authorAttribution:
+      displayName: Destiny Poulson
+      uri: https://www.google.com/maps/contrib/104231947864893187016/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUsIAzwzlIPur2QrlNA8B62PtPVZ3s8VMNRTD7cC7jdTXyhD0ag8g=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-10-21T02:58:04.695355Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNYLTdiZUd3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNYLTdiZUd3EAE!2m1!1s0x8099407f644e8b15:0xe460c6613d59a978
+  - name: >-
+      places/ChIJFYtOZH9AmYAReKlZPWHGYOQ/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJbU5LT2FBEAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        We’ve been here a handful of times and always enjoy the atmosphere, food
+        and staff.
+      languageCode: en
+    originalText:
+      text: >-
+        We’ve been here a handful of times and always enjoy the atmosphere, food
+        and staff.
+      languageCode: en
+    authorAttribution:
+      displayName: Angie Van Ness
+      uri: https://www.google.com/maps/contrib/100726112877872447361/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVCUJKK5mGqDG-Kth2LRo893isMk3ROcutZ85xg2C2V1HycaNqM=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-03-30T00:20:22.034455Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNJbU5LT2FBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNJbU5LT2FBEAE!2m1!1s0x8099407f644e8b15:0xe460c6613d59a978
+review_summary: >-
+  What Customers Are Saying About Sushi 7$$$Folks heading to Sushi 7 often rave
+  about the fresh and tasty sushi along with solid appetizers that deliver a
+  satisfying meal every time. Many appreciate the relaxed setting and friendly
+  service, which make it a great pick for group outings or quick dates without
+  any fuss. While the overall vibe is positive, a few mentions note that staff
+  can sometimes be a little too attentive, though it's clearly coming from a
+  place of good intentions. All in all, it's earned high marks as a reliable
+  option for anyone hunting for the best sushi near me, with diners frequently
+  highlighting the value and variety on offer. If you're in the mood for
+  authentic Japanese flavors, this spot seems to hit the mark for a enjoyable
+  dining experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
+curbside_pickup: false
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
 good_for_sports: null
-live_music: null
+live_music: false
 menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

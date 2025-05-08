@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Hokkaido Sushi"
+title: Hokkaido Sushi
 permalink: /pennsylvania/elizabethtown/hokkaido-sushi.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Elizabethtown
 seo:
-  name: "Hokkaido Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.hokkaido1623.com/
-description: "Hokkaido Sushi serves delicious sushi in Elizabethtown, Pennsylvania. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJk0F14_yYyIkRDF5Y1A8I37k
 photos:
   - name: >-
@@ -170,7 +168,81 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c898fce3754193:0xb9df080fd4585e0c!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 15
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:00 AM – 3:00 PM, 4:00 – 10:00 PM'
     - 'Wednesday: 11:00 AM – 3:00 PM, 4:00 – 10:00 PM'
@@ -178,14 +250,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:00 PM'
     - 'Saturday: 11:00 AM – 10:00 PM'
     - 'Sunday: 12:00 – 9:30 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:00 AM – 3:00 PM, 4:00 – 10:00 PM'
-    - 'Wednesday: 11:00 AM – 3:00 PM, 4:00 – 10:00 PM'
-    - 'Thursday: 11:00 AM – 3:00 PM, 4:00 – 10:00 PM'
-    - 'Friday: 11:00 AM – 10:00 PM'
-    - 'Saturday: 11:00 AM – 10:00 PM'
-    - 'Sunday: 12:00 – 9:30 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +262,47 @@ phone: (717) 361-2988
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.6'
-rating_count: 0
+rating_count: 335
 website: http://www.hokkaido1623.com/
+description: >-
+  Discover Hokkaido Sushi in Elizabethtown, PA$$$Hokkaido Sushi in
+  Elizabethtown, PA, stands out as a welcoming spot for those seeking fresh
+  Japanese-inspired cuisine in a relaxed setting. This informal eatery offers a
+  mix of expertly prepared sushi and hibachi dishes, complemented by traditional
+  Asian flavors that cater to a variety of tastes. With wheelchair-accessible
+  features and moderate pricing, it's an inclusive choice for casual diners
+  looking for quality meals without the fuss. The restaurant operates with
+  convenient hours, including evenings and weekends, making it easy to stop by
+  for a satisfying lunch or dinner. Whether you're exploring sushi options close
+  to you, this spot delivers authentic flavors that highlight its commitment to
+  fresh ingredients and simple, enjoyable dining.
+generative_summary: >-
+  Discover Hokkaido Sushi in Elizabethtown, PA$$$Hokkaido Sushi in
+  Elizabethtown, PA, stands out as a welcoming spot for those seeking fresh
+  Japanese-inspired cuisine in a relaxed setting. This informal eatery offers a
+  mix of expertly prepared sushi and hibachi dishes, complemented by traditional
+  Asian flavors that cater to a variety of tastes. With wheelchair-accessible
+  features and moderate pricing, it's an inclusive choice for casual diners
+  looking for quality meals without the fuss. The restaurant operates with
+  convenient hours, including evenings and weekends, making it easy to stop by
+  for a satisfying lunch or dinner. Whether you're exploring sushi options close
+  to you, this spot delivers authentic flavors that highlight its commitment to
+  fresh ingredients and simple, enjoyable dining.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Raving About$$$Visitors often praise the fresh and
+  flavorful sushi rolls at this Japanese restaurant, noting how they deliver
+  great taste at affordable prices that make it a smart pick for everyday meals.
+  Many highlight the generous portions, which leave you feeling satisfied
+  without breaking the bank, perfect for groups or solo diners craving something
+  hearty. The service stands out as quick and welcoming, adding a positive vibe
+  that keeps the experience light and enjoyable from start to finish. Overall,
+  it's a go-to for anyone hunting for top-rated sushi nearby, with feedback
+  emphasizing its reliability for delicious, value-driven dishes. If you're in
+  the mood for Japanese places near you, this spot consistently delivers a
+  solid, feel-good meal that lives up to the buzz.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +328,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

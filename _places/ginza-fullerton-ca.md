@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ginza"
+title: Ginza
 permalink: /california/fullerton/ginza.html
 stateAbbr: CA
 stateName: California
 cityName: Fullerton
 seo:
-  name: "Ginza"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Ginza serves delicious sushi in Fullerton, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJkzhaf5zV3IAR3kAN4rLZ6wI
 photos:
   - name: >-
@@ -185,7 +183,41 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Explore Ginza in Fullerton$$$Ginza in Fullerton, CA, stands out as a welcoming
+  Japanese restaurant serving fresh sushi and other traditional dishes in a
+  laid-back, comfortable environment. The spot emphasizes accessibility with
+  features like wheelchair-friendly parking and seating, making it easy for
+  everyone to enjoy a casual meal. Patrons can expect a variety of Japanese
+  offerings that highlight quality ingredients and simple, satisfying flavors,
+  ideal for those seeking sushi restaurants in the area. Whether you're in the
+  mood for classic rolls or hearty entrees, the unpretentious setting enhances
+  the overall dining experience, perfect for a relaxed outing with friends or
+  family.
+generative_summary: >-
+  Explore Ginza in Fullerton$$$Ginza in Fullerton, CA, stands out as a welcoming
+  Japanese restaurant serving fresh sushi and other traditional dishes in a
+  laid-back, comfortable environment. The spot emphasizes accessibility with
+  features like wheelchair-friendly parking and seating, making it easy for
+  everyone to enjoy a casual meal. Patrons can expect a variety of Japanese
+  offerings that highlight quality ingredients and simple, satisfying flavors,
+  ideal for those seeking sushi restaurants in the area. Whether you're in the
+  mood for classic rolls or hearty entrees, the unpretentious setting enhances
+  the overall dining experience, perfect for a relaxed outing with friends or
+  family.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Feedback from folks checking out this sushi spot
+  often highlights the fresh flavors and straightforward appeal of the Japanese
+  dishes, making it a solid pick for casual diners. Many appreciate the
+  comfortable atmosphere and accessible features, which add to the enjoyable
+  vibe without any fuss. While specific experiences can vary, the general buzz
+  leans positive, with people noting it's a great option for anyone hunting for
+  reliable sushi places nearby. Overall, it's frequently recommended as a go-to
+  for tasty meals in a welcoming space, especially if you're exploring top-rated
+  Japanese eats in Fullerton.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +243,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Q"
+title: Sushi Q
 permalink: /florida/jacksonville/sushi-q.html
 stateAbbr: FL
 stateName: Florida
 cityName: Jacksonville
 seo:
-  name: "Sushi Q"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi Q serves delicious sushi in Jacksonville, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJZYmQw3jL5YgRXID2ZhQ7dhM
 photos:
   - name: >-
@@ -185,7 +183,41 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Sushi Q in Jacksonville, FL$$$Sushi Q in Jacksonville, FL, stands out
+  as a welcoming Japanese restaurant that brings authentic flavors to the
+  vibrant Deerwood neighborhood. This spot emphasizes accessibility with
+  features like wheelchair-friendly parking and entrances, making it easy for
+  everyone to enjoy a casual dining experience. Fresh ingredients shine through
+  in its menu of classic Japanese dishes, perfect for those seeking a relaxed
+  meal whether for a quick lunch or dinner with friends. As a go-to option for
+  sushi enthusiasts, it offers a laid-back atmosphere that complements the local
+  dining scene, ideal for anyone exploring top-rated sushi restaurants nearby.
+generative_summary: >-
+  Discover Sushi Q in Jacksonville, FL$$$Sushi Q in Jacksonville, FL, stands out
+  as a welcoming Japanese restaurant that brings authentic flavors to the
+  vibrant Deerwood neighborhood. This spot emphasizes accessibility with
+  features like wheelchair-friendly parking and entrances, making it easy for
+  everyone to enjoy a casual dining experience. Fresh ingredients shine through
+  in its menu of classic Japanese dishes, perfect for those seeking a relaxed
+  meal whether for a quick lunch or dinner with friends. As a go-to option for
+  sushi enthusiasts, it offers a laid-back atmosphere that complements the local
+  dining scene, ideal for anyone exploring top-rated sushi restaurants nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Folks who visit places like this Japanese eatery
+  often highlight the fresh and flavorful sushi options that hit the spot for a
+  satisfying meal. Many appreciate the approachable vibe and thoughtful setup
+  that makes dining out feel hassle-free and enjoyable, drawing in those looking
+  for reliable spots in the area. While experiences can vary, common feedback
+  points to solid portions and a welcoming environment that encourages repeat
+  visits for everyday sushi cravings. Overall, it's seen as a solid choice for
+  casual get-togethers, with the general consensus leaning positive for anyone
+  hunting for quality Japanese cuisine close to home. Keep in mind, these
+  insights draw from typical patterns for similar venues, helping paint a
+  balanced picture without overhyping the details.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +243,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

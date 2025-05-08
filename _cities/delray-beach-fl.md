@@ -5,4 +5,5 @@ permalink: /florida/delray-beach/
 stateAbbr: FL
 stateName: Florida
 cityName: Delray Beach
+
 ---

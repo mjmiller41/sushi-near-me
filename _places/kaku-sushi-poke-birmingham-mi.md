@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kaku Sushi & Poke"
+title: Kaku Sushi & Poke
 permalink: /michigan/birmingham/kaku-sushi-poke.html
 stateAbbr: MI
 stateName: Michigan
 cityName: Birmingham
 seo:
-  name: "Kaku Sushi & Poke"
-  type: Restaurant
-  links: null
-description: "Kaku Sushi & Poke serves delicious sushi in Birmingham, Michigan. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.kakusushipoke.com/
 place_id: ChIJnfqQJ5jHJIgR8otBk11-iNs
 photos:
   - name: >-
@@ -156,7 +154,7 @@ accessibility_options:
   wheelchairAccessibleEntrance: true
   wheelchairAccessibleRestroom: true
   wheelchairAccessibleSeating: true
-business_status: OPERATIONAL
+business_status: CLOSED_TEMPORARILY
 name: Kaku Sushi & Poke
 google_maps_links:
   directionsUri: >-
@@ -179,13 +177,56 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (248) 885-8631
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.4'
+rating_count: 111
+website: http://www.kakusushipoke.com/
+description: >-
+  Discover Kaku Sushi & Poke in Birmingham, Michigan$$$Kaku Sushi & Poke in
+  Birmingham, Michigan, stands out as a casual sushi restaurant offering fresh,
+  made-to-order poke bowls that reimagine traditional sushi with a variety of
+  customizable toppings. This spot emphasizes accessibility, featuring
+  wheelchair-friendly parking, entrances, restrooms, and seating, making it
+  welcoming for all visitors seeking a relaxed dining experience. Patrons can
+  enjoy a range of Japanese-inspired dishes that highlight high-quality
+  ingredients, perfect for those exploring sushi places near me or looking for
+  top-rated options in the area. With its moderate price range, it's an ideal
+  choice for a quick yet satisfying meal, blending simplicity with flavorful
+  creativity. Whether you're in the mood for a light lunch or dinner, this
+  location delivers a genuine taste of innovative sushi dining in a comfortable
+  setting.
+generative_summary: >-
+  Discover Kaku Sushi & Poke in Birmingham, Michigan$$$Kaku Sushi & Poke in
+  Birmingham, Michigan, stands out as a casual sushi restaurant offering fresh,
+  made-to-order poke bowls that reimagine traditional sushi with a variety of
+  customizable toppings. This spot emphasizes accessibility, featuring
+  wheelchair-friendly parking, entrances, restrooms, and seating, making it
+  welcoming for all visitors seeking a relaxed dining experience. Patrons can
+  enjoy a range of Japanese-inspired dishes that highlight high-quality
+  ingredients, perfect for those exploring sushi places near me or looking for
+  top-rated options in the area. With its moderate price range, it's an ideal
+  choice for a quick yet satisfying meal, blending simplicity with flavorful
+  creativity. Whether you're in the mood for a light lunch or dinner, this
+  location delivers a genuine taste of innovative sushi dining in a comfortable
+  setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About Kaku Sushi & Poke$$$From what folks are
+  sharing online, visitors really appreciate the fresh flavors and variety at
+  this sushi spot, often highlighting the tasty poke bowls as a standout feature
+  that keeps them coming back. Many comments praise the welcoming atmosphere and
+  solid value for the price, making it a go-to for casual meals with friends or
+  family. While a few mentions note occasional wait times during busy periods,
+  the overall vibe is positive, with people loving the quality ingredients and
+  customization options that make every visit feel personalized. It's clear that
+  the high ratings reflect genuine satisfaction, as diners frequently recommend
+  it for anyone searching for reliable sushi restaurants nearby. All in all, the
+  feedback paints a picture of a dependable choice that's worth trying if you're
+  in the mood for something delicious and approachable.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +252,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

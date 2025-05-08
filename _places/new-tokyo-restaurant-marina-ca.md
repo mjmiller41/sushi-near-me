@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "New Tokyo Restaurant"
+title: New Tokyo Restaurant
 permalink: /california/marina/new-tokyo-restaurant.html
 stateAbbr: CA
 stateName: California
 cityName: Marina
 seo:
-  name: "New Tokyo Restaurant"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "New Tokyo Restaurant serves delicious sushi in Marina, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJLTIVp9n8jYARboyvnB7tN00
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $10 &ndash; $20
 rating: '4.3'
 rating_count: 0
 website: null
+description: >-
+  Discover Authentic Japanese Dining in Marina, CA$$$Nestled in Marina, CA, New
+  Tokyo Restaurant offers a casual spot for enjoying fresh Japanese cuisine that
+  highlights flavorful sushi, teriyaki, and tempura options. This welcoming
+  eatery stands out for its accessible features, including easy parking and
+  accommodations for all guests, making it a convenient choice for anyone
+  seeking Japanese places near me. Diners can savor generous portions of
+  expertly prepared dishes in a straightforward setting that emphasizes quality
+  ingredients and traditional flavors. Whether you're in the mood for satisfying
+  rice bowls or light, crispy tempura, the menu delivers a balance of taste and
+  value that appeals to those exploring sushi restaurants in the area. For
+  locals or visitors hunting for top-rated sushi near me, this spot provides a
+  reliable option with its focus on fresh, approachable meals.
+generative_summary: >-
+  Discover Authentic Japanese Dining in Marina, CA$$$Nestled in Marina, CA, New
+  Tokyo Restaurant offers a casual spot for enjoying fresh Japanese cuisine that
+  highlights flavorful sushi, teriyaki, and tempura options. This welcoming
+  eatery stands out for its accessible features, including easy parking and
+  accommodations for all guests, making it a convenient choice for anyone
+  seeking Japanese places near me. Diners can savor generous portions of
+  expertly prepared dishes in a straightforward setting that emphasizes quality
+  ingredients and traditional flavors. Whether you're in the mood for satisfying
+  rice bowls or light, crispy tempura, the menu delivers a balance of taste and
+  value that appeals to those exploring sushi restaurants in the area. For
+  locals or visitors hunting for top-rated sushi near me, this spot provides a
+  reliable option with its focus on fresh, approachable meals.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJLTIVp9n8jYARboyvnB7tN00/reviews/ChZDSUhNMG9nS0VJQ0FnSUNQMDRfMkJREAE
@@ -454,6 +479,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURfOTlDdk13EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURfOTlDdk13EAE!2m1!1s0x808dfcd9a715322d:0x4d37ed1e9caf8c6e
+review_summary: >-
+  Customer Feedback on the Experience$$$Visitors often rave about the fresh and
+  flavorful sushi selections, like the California roll and yellowtail options,
+  which stand out for their quality and generous portions at reasonable prices.
+  While most folks appreciate the quick, friendly service and cozy, family-run
+  vibe that makes it feel like a hidden gem, a few note that the space can feel
+  a bit compact during busier times. Overall, the variety of dishes, including
+  tasty rice bowls and tempura, keeps things satisfying for groups or families
+  looking for a casual meal. If you're on the hunt for sushi close to me, many
+  agree that the standout flavors and attentive staff make it worth a try, even
+  if some traditional preparations might not hit the mark for everyone. In the
+  end, it's a solid pick for anyone wanting reliable Japanese fare with a
+  welcoming touch.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -486,7 +525,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

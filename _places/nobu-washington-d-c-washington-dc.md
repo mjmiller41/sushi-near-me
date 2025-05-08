@@ -1,15 +1,14 @@
 ---
 layout: place
-title: "Nobu Washington D.C."
+title: Nobu Washington D.C.
 permalink: /district-of-columbia/washington/nobu-washington-d-c.html
 stateAbbr: DC
 stateName: District of Columbia
 cityName: Washington
 seo:
-  name: "Nobu Washington D.C."
-  type: Restaurant
-  links: https://www.noburestaurants.com/washingtondc/home/?utm_source=google&utm_medium=Yext
-description: "Celebrated, Japanese-Peruvian dining in urbane luxury, with a bar/lounge for high-end conviviality. Nobu Washington D.C. serves delicious sushi in Washington, District of Columbia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
+  type: restaurant
+  links: >-
+    https://www.noburestaurants.com/washingtondc/home/?utm_source=google&utm_medium=Yext
 place_id: ChIJwdbx_rS3t4kRJ3t9EgT3ZeU
 photos:
   - name: >-
@@ -185,6 +184,31 @@ rating: '4.1'
 rating_count: 0
 website: >-
   https://www.noburestaurants.com/washingtondc/home/?utm_source=google&utm_medium=Yext
+description: >-
+  Experience Nobu in Washington, DC$$$Nobu Washington D.C. in Washington, DC,
+  stands out as a premier destination for innovative Japanese-Peruvian fusion
+  cuisine, blending bold flavors in a sophisticated urban environment. This spot
+  excels with its fresh seafood selections and creative dishes that highlight
+  high-quality ingredients and artistic presentation, making it ideal for anyone
+  seeking top-rated sushi experiences nearby. The restaurant's luxurious
+  ambiance and attentive service elevate every meal, whether you're enjoying
+  expertly crafted rolls or exploring unique appetizers. Accessibility features
+  like wheelchair-friendly entrances add to the inclusive vibe, ensuring a
+  comfortable visit for all. With options for drinks and happy hour, it's a
+  go-to choice for memorable dining in the area.
+generative_summary: >-
+  Experience Nobu in Washington, DC$$$Nobu Washington D.C. in Washington, DC,
+  stands out as a premier destination for innovative Japanese-Peruvian fusion
+  cuisine, blending bold flavors in a sophisticated urban environment. This spot
+  excels with its fresh seafood selections and creative dishes that highlight
+  high-quality ingredients and artistic presentation, making it ideal for anyone
+  seeking top-rated sushi experiences nearby. The restaurant's luxurious
+  ambiance and attentive service elevate every meal, whether you're enjoying
+  expertly crafted rolls or exploring unique appetizers. Accessibility features
+  like wheelchair-friendly entrances add to the inclusive vibe, ensuring a
+  comfortable visit for all. With options for drinks and happy hour, it's a
+  go-to choice for memorable dining in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJwdbx_rS3t4kRJ3t9EgT3ZeU/reviews/ChdDSUhNMG9nS0VJQ0FnTUNnMW9fYV9nRRAB
@@ -394,6 +418,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN2cHREUWd3RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN2cHREUWd3RRAB!2m1!1s0x89b7b7b4fef1d6c1:0xe565f704127d7b27
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors often rave about the outstanding food
+  at this sushi hotspot, praising the fresh and flavorful dishes that make every
+  bite a delight. Folks appreciate the welcoming atmosphere and reliable service
+  that enhance the overall experience, perfect for casual meetups or special
+  occasions. Many highlight the variety of options, including creative rolls and
+  happy hour deals that offer great value without skimping on quality. While
+  some mention dishes with a spicy kick, the general consensus is that the menu
+  caters to different tastes, leaving diners satisfied and eager to return.
+  Overall, it's a solid pick for anyone hunting for quality Japanese-inspired
+  meals in the neighborhood, with experiences that consistently hit the mark.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidStreetParking: true
   valetParking: true
@@ -425,8 +461,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Celebrated, Japanese-Peruvian dining in urbane luxury, with a bar/lounge for
   high-end conviviality.
 

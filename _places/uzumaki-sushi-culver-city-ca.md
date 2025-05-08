@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Uzumaki Sushi"
+title: Uzumaki Sushi
 permalink: /california/culver-city/uzumaki-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Culver City
 seo:
-  name: "Uzumaki Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.uzumaki-sushi.com/
-description: "Uzumaki Sushi serves delicious sushi in Culver City, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ15ypvj66woARULXCuoJZxrc
 photos:
   - name: >-
@@ -170,7 +168,81 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c2ba3ebea99cd7:0xb7c65982bac2b550!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 15
+    - open:
+        day: 2
+        hour: 12
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 15
+    - open:
+        day: 2
+        hour: 17
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 15
+    - open:
+        day: 3
+        hour: 12
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 15
+    - open:
+        day: 3
+        hour: 17
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 15
+    - open:
+        day: 4
+        hour: 12
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 15
+    - open:
+        day: 4
+        hour: 17
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 15
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 45
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 45
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 12:00 – 2:15 PM, 5:30 – 9:15 PM'
     - 'Wednesday: 12:00 – 2:15 PM, 5:30 – 9:15 PM'
@@ -178,14 +250,7 @@ opening_hours:
     - 'Friday: 5:00 – 9:45 PM'
     - 'Saturday: 5:00 – 9:45 PM'
     - 'Sunday: 5:00 – 9:15 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 12:00 – 2:15 PM, 5:30 – 9:15 PM'
-    - 'Wednesday: 12:00 – 2:15 PM, 5:30 – 9:15 PM'
-    - 'Thursday: 12:00 – 2:15 PM, 5:30 – 9:15 PM'
-    - 'Friday: 5:00 – 9:45 PM'
-    - 'Saturday: 5:00 – 9:45 PM'
-    - 'Sunday: 5:00 – 9:15 PM'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +262,303 @@ phone: (310) 425-8904
 price_level: PRICE_LEVEL_EXPENSIVE
 price_range: $50 &ndash; $100
 rating: '4.7'
-rating_count: 0
+rating_count: 457
 website: http://www.uzumaki-sushi.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Uzumaki Sushi in Culver City$$$Uzumaki Sushi in Culver City, CA,
+  stands out as a go-to spot for fresh sushi and Japanese dishes in a sleek,
+  minimalist environment. This welcoming restaurant features a variety of
+  classic rolls and small plates made with high-quality ingredients, perfect for
+  those exploring sushi restaurants in the area. Accessibility is a key
+  highlight, with options like wheelchair-friendly parking and entrances that
+  make it easy for everyone to enjoy a meal. The spot's efficient service and
+  cozy atmosphere add to its appeal, ideal for casual dinners or groups seeking
+  top-rated Japanese places nearby.
+generative_summary: >-
+  Discover Uzumaki Sushi in Culver City$$$Uzumaki Sushi in Culver City, CA,
+  stands out as a go-to spot for fresh sushi and Japanese dishes in a sleek,
+  minimalist environment. This welcoming restaurant features a variety of
+  classic rolls and small plates made with high-quality ingredients, perfect for
+  those exploring sushi restaurants in the area. Accessibility is a key
+  highlight, with options like wheelchair-friendly parking and entrances that
+  make it easy for everyone to enjoy a meal. The spot's efficient service and
+  cozy atmosphere add to its appeal, ideal for casual dinners or groups seeking
+  top-rated Japanese places nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ15ypvj66woARULXCuoJZxrc/reviews/ChdDSUhNMG9nS0VJQ0FnTUNvcGNDdXV3RRAB
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        The food is AMAZING and the staff is extremely nice and helpful! Service
+        comes quick and the food never disappoints. The sushi is well priced
+        too—it’s not too expensive! I got 3 rolls for under $40.
+      languageCode: en
+    originalText:
+      text: >-
+        The food is AMAZING and the staff is extremely nice and helpful! Service
+        comes quick and the food never disappoints. The sushi is well priced
+        too—it’s not too expensive! I got 3 rolls for under $40.
+      languageCode: en
+    authorAttribution:
+      displayName: Gabriella Jackson
+      uri: https://www.google.com/maps/contrib/114856729429357643019/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWHBhCIYvYat8GV7JLcDtxTIFwo90CfxAQkIOb4qCZKumC3_S79Mw=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-04-18T17:21:42.115123Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNvcGNDdXV3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNvcGNDdXV3RRAB!2m1!1s0x80c2ba3ebea99cd7:0xb7c65982bac2b550
+  - name: >-
+      places/ChIJ15ypvj66woARULXCuoJZxrc/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJM2VmOVBnEAE
+    relativePublishTimeDescription: 4 weeks ago
+    rating: 5
+    text:
+      text: >-
+        Fantastic sushi spot with good value. The Uzumaki sets are great -
+        salmon and hamachi were standouts. The toro roll and unagi were worth it
+        as well.
+
+
+        Hidden gem would be the fish kaarage - the fish was so soft and
+        flavorful, highly recommend over the chicken one
+
+
+        Service is super quick and on point - they're always busing dishes and
+        food came out quickly. Great for when you want something a little nicer
+        but don't want the full Omakase
+      languageCode: en
+    originalText:
+      text: >-
+        Fantastic sushi spot with good value. The Uzumaki sets are great -
+        salmon and hamachi were standouts. The toro roll and unagi were worth it
+        as well.
+
+
+        Hidden gem would be the fish kaarage - the fish was so soft and
+        flavorful, highly recommend over the chicken one
+
+
+        Service is super quick and on point - they're always busing dishes and
+        food came out quickly. Great for when you want something a little nicer
+        but don't want the full Omakase
+      languageCode: en
+    authorAttribution:
+      displayName: Alex Y
+      uri: https://www.google.com/maps/contrib/114837786933334423879/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJNAAmy4joyC4PfI91blkyKP4EWoIgTk_TzHqTY6EVUSdEWMA=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-04T04:43:44.642115Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNJM2VmOVBnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNJM2VmOVBnEAE!2m1!1s0x80c2ba3ebea99cd7:0xb7c65982bac2b550
+  - name: >-
+      places/ChIJ15ypvj66woARULXCuoJZxrc/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3OU02WW5BRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 3
+    text:
+      text: >-
+        I’ve been coming to Uzumaki for years and liked it much better when they
+        had a sushi bar. The servers that work there don’t really know what
+        they’re doing. They kept snatching plates from right under my face the
+        second I finished the last piece. It was anxiety-inducing. They would
+        also refill water and green tea and sake without asking even when just a
+        tiny bit was gone from the glass. We spent almost $400 including tip and
+        I would have really appreciated a better dining experience. When I
+        picked up the last piece of my chef’s omakase, the waitress swooped in,
+        grabbed my plate and immediately started asking us what we wanted for
+        dessert. I couldn’t even answer her because I was still chewing. I
+        honestly wish someone would train these servers properly because for
+        these prices, that is simply unacceptable!!
+
+
+        The food was good. We loved the oysters especially and even ordered a
+        second round. The salmon was clearly farmed though and not wild-caught
+        (you could tell by the color and thick white stripes). Would have
+        expected better quality for the price. Probably won’t come back anytime
+        soon! For the price, you can find better places.
+      languageCode: en
+    originalText:
+      text: >-
+        I’ve been coming to Uzumaki for years and liked it much better when they
+        had a sushi bar. The servers that work there don’t really know what
+        they’re doing. They kept snatching plates from right under my face the
+        second I finished the last piece. It was anxiety-inducing. They would
+        also refill water and green tea and sake without asking even when just a
+        tiny bit was gone from the glass. We spent almost $400 including tip and
+        I would have really appreciated a better dining experience. When I
+        picked up the last piece of my chef’s omakase, the waitress swooped in,
+        grabbed my plate and immediately started asking us what we wanted for
+        dessert. I couldn’t even answer her because I was still chewing. I
+        honestly wish someone would train these servers properly because for
+        these prices, that is simply unacceptable!!
+
+
+        The food was good. We loved the oysters especially and even ordered a
+        second round. The salmon was clearly farmed though and not wild-caught
+        (you could tell by the color and thick white stripes). Would have
+        expected better quality for the price. Probably won’t come back anytime
+        soon! For the price, you can find better places.
+      languageCode: en
+    authorAttribution:
+      displayName: Eva Gross
+      uri: https://www.google.com/maps/contrib/105330165947617921142/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVHeaB_6hS9S5cSw4M3ZI0C7dbqlX47Cm_YgeKt0Ddrijy_AMJS=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-03-17T00:02:27.791988Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUN3OU02WW5BRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUN3OU02WW5BRRAB!2m1!1s0x80c2ba3ebea99cd7:0xb7c65982bac2b550
+  - name: >-
+      places/ChIJ15ypvj66woARULXCuoJZxrc/reviews/ChdDSUhNMG9nS0VJQ0FnSURoMDVXMTVRRRAB
+    relativePublishTimeDescription: 2 years ago
+    rating: 5
+    text:
+      text: >-
+        Great place, Amazing food. The ambiance is good not great. This place
+        could be a fine dining experience but it is more of every day great
+        sushi place m. One the best dish quality I have had in Los Angeles. The
+        food is very simple but it’s extremely delicious. This a very difficult
+        task to achieve. No unnecessary flavoring trying hard to make the food
+        taste better. The service was very good , very fast. I love ginger and I
+        hate that I have to continually ask for more. They kept my ginger plate
+        full the whole time. I only wish they would take reservations as hate
+        waiting for my table. I will be returning with my wife and friends for
+        more. The albacore and yellowtail were to die for, Amazing.
+
+
+        Over all rating 4.5
+
+
+        5 for sushi / fish
+
+        5 for service
+
+        4 for ambiance
+
+        3 for not taking reservations
+      languageCode: en
+    originalText:
+      text: >-
+        Great place, Amazing food. The ambiance is good not great. This place
+        could be a fine dining experience but it is more of every day great
+        sushi place m. One the best dish quality I have had in Los Angeles. The
+        food is very simple but it’s extremely delicious. This a very difficult
+        task to achieve. No unnecessary flavoring trying hard to make the food
+        taste better. The service was very good , very fast. I love ginger and I
+        hate that I have to continually ask for more. They kept my ginger plate
+        full the whole time. I only wish they would take reservations as hate
+        waiting for my table. I will be returning with my wife and friends for
+        more. The albacore and yellowtail were to die for, Amazing.
+
+
+        Over all rating 4.5
+
+
+        5 for sushi / fish
+
+        5 for service
+
+        4 for ambiance
+
+        3 for not taking reservations
+      languageCode: en
+    authorAttribution:
+      displayName: Hossein Javid
+      uri: https://www.google.com/maps/contrib/107422298949664003062/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKtir4qdD2HqB9h8slUHOVPRx4N-NlBarMDmU3Rah8sxfcxFA=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2023-03-17T05:58:04.230453Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURoMDVXMTVRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURoMDVXMTVRRRAB!2m1!1s0x80c2ba3ebea99cd7:0xb7c65982bac2b550
+  - name: >-
+      places/ChIJ15ypvj66woARULXCuoJZxrc/reviews/ChZDSUhNMG9nS0VJQ0FnTURvanQtbGVBEAE
+    relativePublishTimeDescription: a week ago
+    rating: 2
+    text:
+      text: >-
+        Only had sushi, overpriced with small portions.
+
+        Servers cleared too often, sometimes before we finished entire meal.
+
+        Waitress explained our sushi, even when we already knew how to put
+        wadsbi and soy sauce together..
+
+        Not sure they were even Japanese..I believe they were Chinese or Korean.
+      languageCode: en
+    originalText:
+      text: >-
+        Only had sushi, overpriced with small portions.
+
+        Servers cleared too often, sometimes before we finished entire meal.
+
+        Waitress explained our sushi, even when we already knew how to put
+        wadsbi and soy sauce together..
+
+        Not sure they were even Japanese..I believe they were Chinese or Korean.
+      languageCode: en
+    authorAttribution:
+      displayName: Lillian Matayoshi
+      uri: https://www.google.com/maps/contrib/101133609145657307196/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUEHlH4wsnDbz0wbbt3cuZKfXkJrVBhMIDkX93EoCqzYDJf-9c=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-04-24T21:57:18.432718Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURvanQtbGVBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURvanQtbGVBEAE!2m1!1s0x80c2ba3ebea99cd7:0xb7c65982bac2b550
+review_summary: >-
+  What Customers Are Saying About This Sushi Spot$$$Folks generally love the
+  fresh flavors and quick service at this sushi haven, with many praising the
+  standout dishes and great value for the price. While some mention portions
+  feeling a bit small and service occasionally rushing things, the overall vibe
+  keeps things enjoyable and efficient. It's often highlighted as a solid choice
+  for anyone craving sushi near me, especially for its flavorful options that
+  hit the spot without breaking the bank. Reviewers appreciate the welcoming
+  feel and speedy delivery of meals, making it a reliable pick for casual
+  outings. Overall, the positives around taste and atmosphere shine through,
+  encouraging a return visit for more satisfying bites.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
+delivery: true
+dine_in: true
+good_for_children: false
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
 outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
 serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: false
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Sleek, minimalist eatery offering classic sushi rolls & Japanese small plates
+  in a chill atmosphere.
 
 ---

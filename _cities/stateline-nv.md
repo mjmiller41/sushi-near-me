@@ -5,4 +5,5 @@ permalink: /nevada/stateline/
 stateAbbr: NV
 stateName: Nevada
 cityName: Stateline
+
 ---

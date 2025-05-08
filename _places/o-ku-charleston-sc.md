@@ -1,15 +1,14 @@
 ---
 layout: place
-title: "O-Ku"
+title: O-Ku
 permalink: /south-carolina/charleston/o-ku.html
 stateAbbr: SC
 stateName: South Carolina
 cityName: Charleston
 seo:
-  name: "O-Ku"
-  type: Restaurant
-  links: https://www.o-kusushi.com/location/o-ku-charleston/?y_source=1_ODE4NDQwNjctNzE1LWxvY2F0aW9uLndlYnNpdGU%3D
-description: "Happening Japanese eatery & lounge with trendy environs sporting exposed brick & high ceilings. O-Ku serves delicious sushi in Charleston, South Carolina. Try fresh Japanese dishes for a great dining experience. Available for takeout, and dinner."
+  type: restaurant
+  links: >-
+    https://www.o-kusushi.com/location/o-ku-charleston/?y_source=1_ODE4NDQwNjctNzE1LWxvY2F0aW9uLndlYnNpdGU%3D
 place_id: ChIJdeGgrGt6_ogR0sJ-N72qXAs
 photos:
   - name: >-
@@ -186,6 +185,29 @@ rating: '4.5'
 rating_count: 0
 website: >-
   https://www.o-kusushi.com/location/o-ku-charleston/?y_source=1_ODE4NDQwNjctNzE1LWxvY2F0aW9uLndlYnNpdGU%3D
+description: >-
+  Experience O-Ku in Charleston, SC$$$O-Ku in Charleston, SC, offers a vibrant
+  take on modern Japanese cuisine, featuring fresh sushi and innovative dishes
+  in an upscale, trendy atmosphere with exposed brick and high ceilings. This
+  popular spot serves a variety of wine, sake, and cocktails alongside its
+  creative menu, making it an ideal choice for those seeking authentic flavors
+  in a lively setting. The restaurant's accessible design includes
+  wheelchair-friendly features, ensuring a welcoming experience for all diners.
+  With its moderate price range, it's perfect for enjoying high-quality Japanese
+  fare without breaking the bank, appealing to anyone searching for top-rated
+  sushi options in the area.
+generative_summary: >-
+  Experience O-Ku in Charleston, SC$$$O-Ku in Charleston, SC, offers a vibrant
+  take on modern Japanese cuisine, featuring fresh sushi and innovative dishes
+  in an upscale, trendy atmosphere with exposed brick and high ceilings. This
+  popular spot serves a variety of wine, sake, and cocktails alongside its
+  creative menu, making it an ideal choice for those seeking authentic flavors
+  in a lively setting. The restaurant's accessible design includes
+  wheelchair-friendly features, ensuring a welcoming experience for all diners.
+  With its moderate price range, it's perfect for enjoying high-quality Japanese
+  fare without breaking the bank, appealing to anyone searching for top-rated
+  sushi options in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJdeGgrGt6_ogR0sJ-N72qXAs/reviews/ChdDSUhNMG9nS0VJQ0FnTURRMEllcTBBRRAB
@@ -409,6 +431,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNJd0pQRXJnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNJd0pQRXJnRRAB!2m1!1s0x88fe7a6baca0e175:0xb5caabd377ec2d2
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors to this Charleston sushi spot
+  consistently praise the fresh and flavorful dishes, highlighting the creative
+  rolls and high-quality ingredients that make every meal memorable. Many
+  appreciate the attentive service and accommodating staff, who go the extra
+  mile to handle special requests and create a comfortable vibe for groups or
+  celebrations. The ambiance strikes a great balance, offering an energetic yet
+  conversational space that enhances the overall dining experience. While it's
+  noted as a bit pricier, folks agree it's worth it for the exceptional taste
+  and variety, making it a go-to choice for anyone craving reliable Japanese
+  cuisine nearby. Overall, the positive buzz around the food and atmosphere
+  keeps drawing in locals and tourists alike for a satisfying visit.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidParkingLot: true
   freeStreetParking: true
@@ -442,8 +477,8 @@ serves_lunch: false
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Happening Japanese eatery & lounge with trendy environs sporting exposed brick
   & high ceilings.
 

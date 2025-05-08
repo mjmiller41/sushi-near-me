@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sticky Rice Restaurant & Karaoke Bar"
+title: Sticky Rice Restaurant & Karaoke Bar
 permalink: /district-of-columbia/washington/sticky-rice-restaurant-karaoke-bar.html
 stateAbbr: DC
 stateName: District of Columbia
 cityName: Washington
 seo:
-  name: "Sticky Rice Restaurant & Karaoke Bar"
-  type: Restaurant
+  type: restaurant
   links: http://stickyricedc.com/
-description: "Hip American-Pan-Asian spot serving cocktails, sushi, noodles, sandwiches & buckets of tater tots. Sticky Rice Restaurant & Karaoke Bar serves delicious sushi in Washington, District of Columbia. Try fresh Japanese dishes for a great dining experience. Available for, delivery, lunch, and dinner."
 place_id: ChIJMzrYxD-4t4kRdvMMhOcfkZ4
 photos:
   - name: >-
@@ -172,12 +170,53 @@ price_range: $20 &mdash; 30
 rating: '4.0'
 rating_count: 0
 website: http://stickyricedc.com/
+description: >-
+  Discover Sticky Rice in Washington, DC$$$Sticky Rice Restaurant & Karaoke Bar
+  in Washington, DC, stands out as a lively hub for those seeking a mix of
+  American and Pan-Asian flavors, perfect for casual dining adventures. This
+  spot delights with a diverse menu featuring fresh sushi options, flavorful
+  noodles, creative sandwiches, and even generous servings of tater tots, all
+  paired with a selection of cocktails, beers, and wines to enhance the
+  experience. If you're exploring sushi places near me, the restaurant's
+  welcoming vibe and convenient services like dine-in and delivery make it an
+  ideal choice for groups or families looking for a relaxed outing. The added
+  karaoke bar element brings an entertaining twist, turning meals into memorable
+  evenings filled with good times. Overall, it's a go-to destination for anyone
+  craving top-rated sushi and a fun atmosphere in the heart of the city.
+generative_summary: >-
+  Discover Sticky Rice in Washington, DC$$$Sticky Rice Restaurant & Karaoke Bar
+  in Washington, DC, stands out as a lively hub for those seeking a mix of
+  American and Pan-Asian flavors, perfect for casual dining adventures. This
+  spot delights with a diverse menu featuring fresh sushi options, flavorful
+  noodles, creative sandwiches, and even generous servings of tater tots, all
+  paired with a selection of cocktails, beers, and wines to enhance the
+  experience. If you're exploring sushi places near me, the restaurant's
+  welcoming vibe and convenient services like dine-in and delivery make it an
+  ideal choice for groups or families looking for a relaxed outing. The added
+  karaoke bar element brings an entertaining twist, turning meals into memorable
+  evenings filled with good times. Overall, it's a go-to destination for anyone
+  craving top-rated sushi and a fun atmosphere in the heart of the city.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - ChZDSUhNMG9nS0VJQ0FnSURfMFlmNk93EAE
   - ChZDSUhNMG9nS0VJQ0FnSUNfaExDR0xnEAE
   - ChZDSUhNMG9nS0VJQ0FnSURsaWRPRmFREAE
   - ChdDSUhNMG9nS0VJQ0FnSURlOGVEV3lnRRAB
   - ChdDSUhNMG9nS0VJQ0FnSUQwdUxTQzF3RRAB
+review_summary: >-
+  What Visitors Are Saying$$$Feedback from patrons at Sticky Rice highlights the
+  spot's appealing mix of tasty dishes and lively entertainment, with many
+  appreciating the fresh sushi and creative cocktails that keep things exciting.
+  People often note the welcoming environment and solid service, making it a
+  favorite for casual nights out or group gatherings, though some mention
+  occasional waits during peak hours. Overall, the general consensus leans
+  positive, with the restaurant's moderate pricing and family-friendly options
+  earning praise for value and variety. If you're on the hunt for sushi
+  restaurants near me, folks frequently recommend it for its reliable flavors
+  and fun vibe, helping it maintain a strong reputation. In a casual setting
+  like this, the blend of good food and entertainment keeps visitors coming back
+  for more enjoyable experiences.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeStreetParking: true
   paidStreetParking: true
@@ -208,8 +247,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: null
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Hip American-Pan-Asian spot serving cocktails, sushi, noodles, sandwiches &
   buckets of tater tots.
 

@@ -5,4 +5,5 @@ permalink: /washington/bothell/
 stateAbbr: WA
 stateName: Washington
 cityName: Bothell
+
 ---

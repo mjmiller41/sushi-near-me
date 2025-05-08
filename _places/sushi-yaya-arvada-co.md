@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi YaYa"
+title: Sushi YaYa
 permalink: /colorado/arvada/sushi-yaya.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Arvada
 seo:
-  name: "Sushi YaYa"
-  type: Restaurant
+  type: restaurant
   links: http://sushiyayaxpress.com/
-description: "Sushi YaYa serves delicious sushi in Arvada, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJkbp3RjaIa4cRZmQ0YvRJstc
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x876b88364677ba91:0xd7b249f462346466!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:00 AM – 8:00 PM'
     - 'Wednesday: 11:00 AM – 8:00 PM'
@@ -178,54 +226,312 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:00 PM'
     - 'Saturday: 12:00 – 9:00 PM'
     - 'Sunday: 12:00 – 8:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:00 AM – 8:00 PM'
-    - 'Wednesday: 11:00 AM – 8:00 PM'
-    - 'Thursday: 11:00 AM – 8:00 PM'
-    - 'Friday: 11:00 AM – 9:00 PM'
-    - 'Saturday: 12:00 – 9:00 PM'
-    - 'Sunday: 12:00 – 8:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: false
+    periods:
+      - open:
+          day: 2
+          hour: 15
+          minute: 0
+        close:
+          day: 2
+          hour: 17
+          minute: 0
+      - open:
+          day: 3
+          hour: 15
+          minute: 0
+        close:
+          day: 3
+          hour: 17
+          minute: 0
+      - open:
+          day: 4
+          hour: 15
+          minute: 0
+        close:
+          day: 4
+          hour: 17
+          minute: 0
+      - open:
+          day: 5
+          hour: 15
+          minute: 0
+        close:
+          day: 5
+          hour: 17
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: Closed'
+      - 'Tuesday: 3:00 – 5:00 PM'
+      - 'Wednesday: 3:00 – 5:00 PM'
+      - 'Thursday: 3:00 – 5:00 PM'
+      - 'Friday: 3:00 – 5:00 PM'
+      - 'Saturday: Closed'
+      - 'Sunday: Closed'
+    secondaryHoursType: HAPPY_HOUR
+    nextOpenTime: '2025-05-06T21:00:00Z'
 phone: (303) 426-7669
 price_level: null
 price_range: $10 &ndash; $20
 rating: '4.3'
-rating_count: 0
+rating_count: 402
 website: http://sushiyayaxpress.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Sushi YaYa in Arvada, CO$$$Sushi YaYa in Arvada, CO, stands out as a
+  cozy spot for enjoying fresh Japanese dishes in a relaxed setting. This sushi
+  restaurant offers a variety of rolls, bento boxes, and sake, making it a go-to
+  choice for those seeking authentic flavors in a casual atmosphere. With
+  options that cater to different tastes, including vegetarian selections, it's
+  ideal for a quick meal or a laid-back dinner with friends. The place
+  emphasizes accessibility, featuring wheelchair-friendly parking and entrances,
+  which adds to its welcoming vibe. For anyone exploring sushi places near me,
+  this location provides a convenient and enjoyable dining experience with
+  affordable pricing.
+generative_summary: >-
+  Discover Sushi YaYa in Arvada, CO$$$Sushi YaYa in Arvada, CO, stands out as a
+  cozy spot for enjoying fresh Japanese dishes in a relaxed setting. This sushi
+  restaurant offers a variety of rolls, bento boxes, and sake, making it a go-to
+  choice for those seeking authentic flavors in a casual atmosphere. With
+  options that cater to different tastes, including vegetarian selections, it's
+  ideal for a quick meal or a laid-back dinner with friends. The place
+  emphasizes accessibility, featuring wheelchair-friendly parking and entrances,
+  which adds to its welcoming vibe. For anyone exploring sushi places near me,
+  this location provides a convenient and enjoyable dining experience with
+  affordable pricing.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJkbp3RjaIa4cRZmQ0YvRJstc/reviews/ChZDSUhNMG9nS0VJQ0FnSUN2b002aEtBEAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 1
+    text:
+      text: >-
+        Long time sushi lover here. Got delivery and their sushi was not good. I
+        ordered nigiri and 2 specialty rolls, as well as 2 miso soups. They only
+        gave the driver 1 soup to deliver. The salmon nigiri does not look or
+        taste like the salmon that I have had at any other sushi place. Salmon
+        has that distinctive taste that I can't describe.....this was not it. It
+        just wasn't good. And it's a strange lite orange color, it looks off.
+        I'm not even going to finish it. The inferno roll was really bad. And
+        the cheese streak roll has too much mayo. The cooked kobe beef on the
+        cheese steak roll was the best tasting thing in our whole order. So
+        maybe their cooked food is good? My wife just said that she has never
+        had bad sushi, ever until today. They trick you into using door dash. I
+        would not have ordered if I knew it was door dash. Also, I called to let
+        them know that I only received 1 soup(ordered 2). The guy on the phone
+        said that I could go pick it up. I told him that he could just refund
+        the money for the soup back onto my card, but he wouldn't do that. I
+        ordered delivery so that I wouldn't have to go pick it up, obviously. I
+        won't order from this place again. We were surprised at how bad this
+        was. I just had the worst sushi in Westminster.....don't make the same
+        mistake.
+      languageCode: en
+    originalText:
+      text: >-
+        Long time sushi lover here. Got delivery and their sushi was not good. I
+        ordered nigiri and 2 specialty rolls, as well as 2 miso soups. They only
+        gave the driver 1 soup to deliver. The salmon nigiri does not look or
+        taste like the salmon that I have had at any other sushi place. Salmon
+        has that distinctive taste that I can't describe.....this was not it. It
+        just wasn't good. And it's a strange lite orange color, it looks off.
+        I'm not even going to finish it. The inferno roll was really bad. And
+        the cheese streak roll has too much mayo. The cooked kobe beef on the
+        cheese steak roll was the best tasting thing in our whole order. So
+        maybe their cooked food is good? My wife just said that she has never
+        had bad sushi, ever until today. They trick you into using door dash. I
+        would not have ordered if I knew it was door dash. Also, I called to let
+        them know that I only received 1 soup(ordered 2). The guy on the phone
+        said that I could go pick it up. I told him that he could just refund
+        the money for the soup back onto my card, but he wouldn't do that. I
+        ordered delivery so that I wouldn't have to go pick it up, obviously. I
+        won't order from this place again. We were surprised at how bad this
+        was. I just had the worst sushi in Westminster.....don't make the same
+        mistake.
+      languageCode: en
+    authorAttribution:
+      displayName: Micah Dean
+      uri: https://www.google.com/maps/contrib/107781967152668655125/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXbHY_LBenISBinSmQlMQOfZ91Ic9q8xmtpIIAprSzoxMprtWA-8w=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-12-07T03:19:41.411176Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN2b002aEtBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN2b002aEtBEAE!2m1!1s0x876b88364677ba91:0xd7b249f462346466
+  - name: >-
+      places/ChIJkbp3RjaIa4cRZmQ0YvRJstc/reviews/ChdDSUhNMG9nS0VJQ0FnSUNYLVlYcHN3RRAB
+    relativePublishTimeDescription: 6 months ago
+    rating: 5
+    text:
+      text: >-
+        Every time I crave sushi I come to this place . Everything is prepared
+        fresh and the variety is amazing . Love the convenience of it being
+        close to where we live . We like to try different rolls every time we go
+        and  can honestly say that I haven't had a bad one yet .
+      languageCode: en
+    originalText:
+      text: >-
+        Every time I crave sushi I come to this place . Everything is prepared
+        fresh and the variety is amazing . Love the convenience of it being
+        close to where we live . We like to try different rolls every time we go
+        and  can honestly say that I haven't had a bad one yet .
+      languageCode: en
+    authorAttribution:
+      displayName: santiago ramirez
+      uri: https://www.google.com/maps/contrib/110914396522191687300/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXLNIL2Wpm46UA5R87XtZxnDkz3Fc7jvnWdVLuTY9sjPdroMLIQ=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-10-18T13:36:27.730828Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNYLVlYcHN3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNYLVlYcHN3RRAB!2m1!1s0x876b88364677ba91:0xd7b249f462346466
+  - name: >-
+      places/ChIJkbp3RjaIa4cRZmQ0YvRJstc/reviews/ChZDSUhNMG9nS0VJQ0FnSUREMU5LVFlnEAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        i ended up coming here on a whim and was surprised with how much i love
+        this place. the staff were super kind, the food looked and tasted
+        amazing, and the inside was very clean. i’m from the coast so i can be a
+        bit picky about sushi but this was delicious! also highly recommend
+        their warm sake. 100% coming back here, and the prices aren’t bad
+        either.
+      languageCode: en
+    originalText:
+      text: >-
+        i ended up coming here on a whim and was surprised with how much i love
+        this place. the staff were super kind, the food looked and tasted
+        amazing, and the inside was very clean. i’m from the coast so i can be a
+        bit picky about sushi but this was delicious! also highly recommend
+        their warm sake. 100% coming back here, and the prices aren’t bad
+        either.
+      languageCode: en
+    authorAttribution:
+      displayName: Rachel Fetzer
+      uri: https://www.google.com/maps/contrib/108951279289007965324/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUjXb1fjsuw4Odog8nQrr7XabGZg2iJMA4sSq4ZjVzQx0eamybkOQ=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-04-06T03:14:58.034200Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUREMU5LVFlnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUREMU5LVFlnEAE!2m1!1s0x876b88364677ba91:0xd7b249f462346466
+  - name: >-
+      places/ChIJkbp3RjaIa4cRZmQ0YvRJstc/reviews/ChdDSUhNMG9nS0VJQ0FnSURQaGZXRjBBRRAB
+    relativePublishTimeDescription: 5 months ago
+    rating: 2
+    text:
+      text: >-
+        Couldn't recommend. The rolls and nigiri are oddly proportioned and came
+        out nearly frozen, and the quality of ingredients is pretty poor. To top
+        it all off, none of the stuff was very flavorful at all, and I think
+        prices are somewhat high for what you get.
+
+
+        That being said, the service is so excellent! The owners(?) were very
+        kind and clearly care a lot about the customer. There's just room to
+        grow, flavor- and ingredient-wise.
+      languageCode: en
+    originalText:
+      text: >-
+        Couldn't recommend. The rolls and nigiri are oddly proportioned and came
+        out nearly frozen, and the quality of ingredients is pretty poor. To top
+        it all off, none of the stuff was very flavorful at all, and I think
+        prices are somewhat high for what you get.
+
+
+        That being said, the service is so excellent! The owners(?) were very
+        kind and clearly care a lot about the customer. There's just room to
+        grow, flavor- and ingredient-wise.
+      languageCode: en
+    authorAttribution:
+      displayName: Brandon Verkamp
+      uri: https://www.google.com/maps/contrib/113964766854978753670/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXqRMiKdw2lEIUmElEFjC6jnBThKW7WlVSzaTfvvPyLfjbtp7aGkQ=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-12-04T02:44:05.198438Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURQaGZXRjBBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURQaGZXRjBBRRAB!2m1!1s0x876b88364677ba91:0xd7b249f462346466
+  - name: >-
+      places/ChIJkbp3RjaIa4cRZmQ0YvRJstc/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ2cWVhQ3VRRRAB
+    relativePublishTimeDescription: 3 years ago
+    rating: 5
+    text:
+      text: >-
+        Really enjoyed the food here. The fries were super tasty, Bento box had
+        a good variety of food. Chicken tempura was tasty and super crunchy.
+        Vegetables were a bit over cooked.  Service was excellent.  Overall a
+        good experience and glad we stopped in.
+      languageCode: en
+    originalText:
+      text: >-
+        Really enjoyed the food here. The fries were super tasty, Bento box had
+        a good variety of food. Chicken tempura was tasty and super crunchy.
+        Vegetables were a bit over cooked.  Service was excellent.  Overall a
+        good experience and glad we stopped in.
+      languageCode: en
+    authorAttribution:
+      displayName: KM
+      uri: https://www.google.com/maps/contrib/106455783813494003058/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUHfCOCiiUPM49nZ_UjuwwXRzKecdKOzA7SHqwWpq6iBRdvv4oNnQ=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2021-10-03T23:39:27.179095Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQ2cWVhQ3VRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQ2cWVhQ3VRRRAB!2m1!1s0x876b88364677ba91:0xd7b249f462346466
+review_summary: >-
+  Customer Feedback Highlights$$$Visitors to this sushi spot often praise the
+  fresh ingredients and wide range of rolls, making it a solid pick for casual
+  meals. While some mention occasional inconsistencies with delivery or
+  preparation, the overall service stands out as friendly and attentive,
+  enhancing the dining experience. Many appreciate the variety and value, with
+  plenty of positive notes on the tasty bento boxes and sake selections that
+  keep folks coming back. It's clear that the restaurant shines for its
+  welcoming environment and accessibility features, earning it high marks from
+  those looking for reliable sushi restaurants nearby. All in all, it's a
+  worthwhile stop for sushi enthusiasts, with room for tweaks but plenty to love
+  overall.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "An | Japanese Restaurant"
+title: An | Japanese Restaurant
 permalink: /california/san-francisco/an-japanese-restaurant.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
 seo:
-  name: "An | Japanese Restaurant"
-  type: Restaurant
-  links: null
-description: "An | Japanese Restaurant serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://sushiansf.com/
 place_id: ChIJ9UNO0L6AhYARzock0NnfE2I
 photos:
   - name: >-
@@ -143,7 +141,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC60o6-dQ!2e10!4m2!3m1!1s0x808580bed04e43f5:0x6213dfd9d02487ce
 address: '22 Peace Plaza, #510, 2nd Floor, San Francisco, CA 94115, USA'
-street: '22 Peace Plaza, #510, 2nd Floor'
+street: 22 Peace Plaza,#510,2nd Floor
 city: San Francisco
 state: CA
 zip: '94115'
@@ -168,8 +166,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x808580bed04e43f5:0x6213dfd9d02487ce!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: false
+  periods:
+    - open:
+        day: 2
+        hour: 17
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 17
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 17
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 17
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: Closed'
+    - 'Tuesday: 5:30 – 9:30 PM'
+    - 'Wednesday: 5:30 – 9:30 PM'
+    - 'Thursday: 5:30 – 9:30 PM'
+    - 'Friday: 5:30 – 9:30 PM'
+    - 'Saturday: 5:30 – 9:30 PM'
+    - 'Sunday: Closed'
+  nextOpenTime: '2025-05-04T00:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -177,13 +224,50 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (415) 250-7276
+price_level: PRICE_LEVEL_EXPENSIVE
+price_range: $100 &ndash; & up
+rating: '4.8'
+rating_count: 138
+website: http://sushiansf.com/
+description: >-
+  Discover An Japanese Restaurant in San Francisco$$$An Japanese Restaurant in
+  San Francisco, CA, offers a welcoming ambiance perfect for savoring authentic
+  edomae sushi and nigiri, along with a selection of small plates that highlight
+  fresh, expertly prepared ingredients. This cozy spot in the heart of Japantown
+  provides a serene dining experience, complemented by a thoughtful array of
+  beer and sake options that pair beautifully with the menu. With its accessible
+  entrance and restroom, it's an inclusive choice for those exploring top-rated
+  Japanese dining options nearby. Visitors can enjoy an intimate setting that
+  emphasizes quality and tradition, making it a standout for anyone seeking
+  flavorful sushi experiences in the area.
+generative_summary: >-
+  Discover An Japanese Restaurant in San Francisco$$$An Japanese Restaurant in
+  San Francisco, CA, offers a welcoming ambiance perfect for savoring authentic
+  edomae sushi and nigiri, along with a selection of small plates that highlight
+  fresh, expertly prepared ingredients. This cozy spot in the heart of Japantown
+  provides a serene dining experience, complemented by a thoughtful array of
+  beer and sake options that pair beautifully with the menu. With its accessible
+  entrance and restroom, it's an inclusive choice for those exploring top-rated
+  Japanese dining options nearby. Visitors can enjoy an intimate setting that
+  emphasizes quality and tradition, making it a standout for anyone seeking
+  flavorful sushi experiences in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Recent Feedback$$$Folks rave about the fantastic omakase
+  offerings at this Japanese spot, with many highlighting the nigiri selections
+  as a must-try, especially when paired with add-ons like wagyu and unagi for an
+  extra treat. The service stands out as friendly and attentive, creating a
+  relaxed vibe that enhances the overall meal without overwhelming the senses.
+  Reviewers often note the intimate atmosphere, which adds to the charm of
+  enjoying fresh and delicious sushi in a comfortable environment. While it's
+  clear this place delivers on fresh flavors and thoughtful presentations, it's
+  worth noting that the experience feels consistently enjoyable for those
+  looking for reliable Japanese cuisine options. Overall, it comes across as a
+  solid pick for anyone in the mood for quality sushi nearby, blending great
+  tastes with a welcoming feel.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -209,7 +293,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sunda New Asian - River North"
+title: Sunda New Asian - River North
 permalink: /illinois/chicago/sunda-new-asian-river-north.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
 seo:
-  name: "Sunda New Asian - River North"
-  type: Restaurant
-  links: null
-description: "Sunda New Asian - River North serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://sundanewasian.com/river-north/
 place_id: ChIJpdvW2rMsDogRmOSgw59PVdo
 photos:
   - name: >-
@@ -170,22 +168,258 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x880e2cb3dad6dba5:0xda554f9fc3a0e498!10e5
 primary_type: Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 14
+        minute: 0
+    - open:
+        day: 0
+        hour: 16
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 0
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 14
+        minute: 0
+    - open:
+        day: 6
+        hour: 16
+        minute: 0
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 4:00 – 10:00 PM'
+    - 'Tuesday: 4:00 – 10:00 PM'
+    - 'Wednesday: 4:00 – 10:00 PM'
+    - 'Thursday: 4:00 – 10:00 PM'
+    - 'Friday: 4:00 – 11:00 PM'
+    - 'Saturday: 11:00 AM – 2:00 PM, 4:00 – 11:00 PM'
+    - 'Sunday: 11:00 AM – 2:00 PM, 4:00 – 10:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+  - openNow: false
+    periods:
+      - open:
+          day: 1
+          hour: 16
+          minute: 0
+        close:
+          day: 1
+          hour: 18
+          minute: 0
+      - open:
+          day: 2
+          hour: 16
+          minute: 0
+        close:
+          day: 2
+          hour: 18
+          minute: 0
+      - open:
+          day: 3
+          hour: 16
+          minute: 0
+        close:
+          day: 3
+          hour: 18
+          minute: 0
+      - open:
+          day: 4
+          hour: 16
+          minute: 0
+        close:
+          day: 4
+          hour: 18
+          minute: 0
+      - open:
+          day: 5
+          hour: 16
+          minute: 0
+        close:
+          day: 5
+          hour: 18
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 4:00 – 6:00 PM'
+      - 'Tuesday: 4:00 – 6:00 PM'
+      - 'Wednesday: 4:00 – 6:00 PM'
+      - 'Thursday: 4:00 – 6:00 PM'
+      - 'Friday: 4:00 – 6:00 PM'
+      - 'Saturday: Closed'
+      - 'Sunday: Closed'
+    secondaryHoursType: HAPPY_HOUR
+    nextOpenTime: '2025-05-05T21:00:00Z'
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 16
+          minute: 0
+        close:
+          day: 0
+          hour: 22
+          minute: 0
+      - open:
+          day: 1
+          hour: 16
+          minute: 0
+        close:
+          day: 1
+          hour: 22
+          minute: 0
+      - open:
+          day: 2
+          hour: 16
+          minute: 0
+        close:
+          day: 2
+          hour: 22
+          minute: 0
+      - open:
+          day: 3
+          hour: 16
+          minute: 0
+        close:
+          day: 3
+          hour: 22
+          minute: 0
+      - open:
+          day: 4
+          hour: 16
+          minute: 0
+        close:
+          day: 4
+          hour: 22
+          minute: 0
+      - open:
+          day: 5
+          hour: 16
+          minute: 0
+        close:
+          day: 5
+          hour: 23
+          minute: 0
+      - open:
+          day: 6
+          hour: 16
+          minute: 0
+        close:
+          day: 6
+          hour: 23
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 4:00 – 10:00 PM'
+      - 'Tuesday: 4:00 – 10:00 PM'
+      - 'Wednesday: 4:00 – 10:00 PM'
+      - 'Thursday: 4:00 – 10:00 PM'
+      - 'Friday: 4:00 – 11:00 PM'
+      - 'Saturday: 4:00 – 11:00 PM'
+      - 'Sunday: 4:00 – 10:00 PM'
+    secondaryHoursType: TAKEOUT
+    nextCloseTime: '2025-05-04T04:00:00Z'
+phone: (312) 644-0500
+price_level: PRICE_LEVEL_EXPENSIVE
+price_range: $50 &ndash; $100
+rating: '4.5'
+rating_count: 2724
+website: https://sundanewasian.com/river-north/
+description: >-
+  Discover Sunda New Asian in Chicago, IL$$$Sunda New Asian in Chicago, IL,
+  stands out as a vibrant spot offering modern twists on Southeast Asian
+  classics, blending innovative flavors with a stylish ambiance. This restaurant
+  features a trendy setting complete with a welcoming bar, perfect for those
+  seeking sushi restaurants near me or fresh Asian-inspired dishes in a lively
+  environment. Patrons can enjoy a diverse menu that highlights creative
+  presentations and high-quality ingredients, making it an ideal choice for
+  anyone exploring Japanese places near me. The venue also boasts accessibility
+  features like wheelchair-friendly entrances and seating, ensuring a
+  comfortable visit for all. With its operational hours catering to both lunch
+  and dinner crowds, it's a go-to destination for top-rated sushi and Asian
+  cuisine in the heart of the city.
+generative_summary: >-
+  Discover Sunda New Asian in Chicago, IL$$$Sunda New Asian in Chicago, IL,
+  stands out as a vibrant spot offering modern twists on Southeast Asian
+  classics, blending innovative flavors with a stylish ambiance. This restaurant
+  features a trendy setting complete with a welcoming bar, perfect for those
+  seeking sushi restaurants near me or fresh Asian-inspired dishes in a lively
+  environment. Patrons can enjoy a diverse menu that highlights creative
+  presentations and high-quality ingredients, making it an ideal choice for
+  anyone exploring Japanese places near me. The venue also boasts accessibility
+  features like wheelchair-friendly entrances and seating, ensuring a
+  comfortable visit for all. With its operational hours catering to both lunch
+  and dinner crowds, it's a go-to destination for top-rated sushi and Asian
+  cuisine in the heart of the city.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Buzzing About$$$Visitors to Sunda New Asian often rave
+  about the fresh and inventive dishes that bring a fun twist to traditional
+  flavors, making it a hit for anyone craving sushi close to me. Many highlight
+  the welcoming atmosphere and attentive service, noting that the overall
+  experience feels just right for a casual night out or group gathering. While
+  some mention occasional waits during peak times, the general consensus leans
+  positive, with folks appreciating the value and variety that keep them coming
+  back. It's clear that the high-quality ingredients and creative presentations
+  earn plenty of nods, positioning this spot as one of the best sushi
+  restaurants near me. Overall, the buzz is upbeat, with diners leaving
+  satisfied and eager to recommend it to friends looking for reliable Asian eats
+  in Chicago.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +445,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

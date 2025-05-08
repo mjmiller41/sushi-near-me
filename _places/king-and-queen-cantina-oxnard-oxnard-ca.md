@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "King and Queen Cantina Oxnard"
+title: King and Queen Cantina Oxnard
 permalink: /california/oxnard/king-and-queen-cantina-oxnard.html
 stateAbbr: CA
 stateName: California
 cityName: Oxnard
 seo:
-  name: "King and Queen Cantina Oxnard"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "King and Queen Cantina Oxnard serves delicious sushi in Oxnard, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJYS1xcuhN6IARy_n5m5V7NHQ
 photos:
   - name: >-
@@ -185,7 +183,40 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover King and Queen Cantina in Oxnard, CA$$$King and Queen Cantina in
+  Oxnard, California, stands out as a vibrant spot blending modern Mexican
+  cuisine with lively entertainment options. This trendy eatery offers fresh
+  takes on classic dishes, complemented by a selection of craft cocktails and
+  wines that enhance the overall dining experience. Guests can enjoy an inviting
+  atmosphere designed for relaxation and fun, complete with accessibility
+  features that make it welcoming for all visitors. The focus on quality
+  ingredients and creative flavors creates a memorable outing, perfect for those
+  seeking authentic Mexican-inspired meals in a dynamic setting.
+generative_summary: >-
+  Discover King and Queen Cantina in Oxnard, CA$$$King and Queen Cantina in
+  Oxnard, California, stands out as a vibrant spot blending modern Mexican
+  cuisine with lively entertainment options. This trendy eatery offers fresh
+  takes on classic dishes, complemented by a selection of craft cocktails and
+  wines that enhance the overall dining experience. Guests can enjoy an inviting
+  atmosphere designed for relaxation and fun, complete with accessibility
+  features that make it welcoming for all visitors. The focus on quality
+  ingredients and creative flavors creates a memorable outing, perfect for those
+  seeking authentic Mexican-inspired meals in a dynamic setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Buzzing About$$$Folks rave about the tasty Mexican dishes
+  at this spot, like flavorful pork belly bites and seafood options that hit the
+  spot every time. The margaritas and other drinks get high marks for being
+  refreshing and well-made, adding to the enjoyable vibe with live music and
+  sports viewing that keeps things lively. Many appreciate the fun atmosphere
+  that makes it great for groups or a casual night out, though some note that
+  prices can run a bit higher than expected. Overall, it's a solid choice for
+  anyone craving good food and entertainment, with the positives far outweighing
+  any minor drawbacks. If you're in the mood for a welcoming place with great
+  energy, this restaurant delivers a satisfying experience worth trying.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +242,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

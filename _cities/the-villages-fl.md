@@ -5,4 +5,5 @@ permalink: /florida/the-villages/
 stateAbbr: FL
 stateName: Florida
 cityName: The Villages
+
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Young's Sushi"
+title: Young's Sushi
 permalink: /ohio/willoughby/young-s-sushi.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Willoughby
 seo:
-  name: "Young's Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://youngssushi.com/
-description: "Rolls, sashimi & party plates round out the menu at this informal Japanese restaurant. Young's Sushi serves delicious sushi in Willoughby, Ohio. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJnXfNV3SpMYgRjJRMyhgsSEY
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 0
 website: http://youngssushi.com/
+description: >-
+  Discover Young's Sushi in Willoughby, Ohio$$$Nestled in the heart of
+  Willoughby, Ohio, Young's Sushi stands out as a welcoming spot for those
+  seeking fresh sushi options in a casual setting. This Japanese eatery offers a
+  variety of rolls and party plates, complemented by vegetarian and vegan
+  choices that cater to diverse tastes, making it a go-to for sushi enthusiasts
+  exploring local dining scenes. With its accessible features like
+  wheelchair-friendly entrances and parking, the restaurant ensures a
+  comfortable experience for all visitors, while moderate pricing adds to its
+  appeal for everyday meals. The inviting atmosphere and selection of beer and
+  wine enhance the overall enjoyment, perfect for anyone searching for top-rated
+  sushi near them in this vibrant area.
+generative_summary: >-
+  Discover Young's Sushi in Willoughby, Ohio$$$Nestled in the heart of
+  Willoughby, Ohio, Young's Sushi stands out as a welcoming spot for those
+  seeking fresh sushi options in a casual setting. This Japanese eatery offers a
+  variety of rolls and party plates, complemented by vegetarian and vegan
+  choices that cater to diverse tastes, making it a go-to for sushi enthusiasts
+  exploring local dining scenes. With its accessible features like
+  wheelchair-friendly entrances and parking, the restaurant ensures a
+  comfortable experience for all visitors, while moderate pricing adds to its
+  appeal for everyday meals. The inviting atmosphere and selection of beer and
+  wine enhance the overall enjoyment, perfect for anyone searching for top-rated
+  sushi near them in this vibrant area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJnXfNV3SpMYgRjJRMyhgsSEY/reviews/ChZDSUhNMG9nS0VJQ0FnSUN6d2Rma0hnEAE
@@ -350,6 +373,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNBeWVhZEN3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNBeWVhZEN3EAE!2m1!1s0x8831a97457cd779d:0x46482c18ca4c948c
+review_summary: >-
+  What Customers Are Saying$$$Visitors to Young's Sushi often praise the
+  friendly service and welcoming vibe, noting that it makes for a reliable spot
+  for casual sushi outings. Many appreciate the solid selection of rolls and the
+  consistent quality that keeps them coming back, with some highlighting the
+  great value for the price. While a few mentions point to occasional
+  inconsistencies in freshness or preparation, the majority enjoy the atmosphere
+  and attentive staff that contribute to a satisfying meal. Overall, it's a
+  favorite for groups or families looking for Japanese-inspired dishes, offering
+  a mix of hits that make it worth trying if you're in the mood for sushi close
+  to you. With its blend of positives and minor areas for improvement, this
+  place delivers an honest, enjoyable experience for sushi lovers in the
+  community.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -382,8 +419,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Rolls, sashimi & party plates round out the menu at this informal Japanese
   restaurant.
 

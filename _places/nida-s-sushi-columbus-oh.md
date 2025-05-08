@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Nida's Sushi"
+title: Nida's Sushi
 permalink: /ohio/columbus/nida-s-sushi.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Columbus
 seo:
-  name: "Nida's Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.nidasushinorthmarket.com/
-description: "Southeast Asian fare & cocktails offered in a colorful, contemporary setting with a sushi bar. Nida's Sushi serves delicious sushi in Columbus, Ohio. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJt3XuLiaPOIgRINqETmIaGL0
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $10 &ndash; $20
 rating: '2.9'
 rating_count: 0
 website: https://www.nidasushinorthmarket.com/
+description: >-
+  Explore Nida's Sushi in Columbus, OH$$$Nida's Sushi in Columbus, OH, stands
+  out as a vibrant Asian eatery nestled in the heart of the Short North Arts
+  District, offering a blend of fresh flavors and accessible dining options.
+  This spot delights with its Southeast Asian-inspired menu, featuring dishes
+  like pad Thai and poke bowls alongside vegan choices, all served in a
+  contemporary and relaxed atmosphere that invites casual enjoyment. The
+  restaurant prioritizes convenience with wheelchair-accessible features and a
+  variety of payment options, making it a welcoming choice for diverse diners.
+  Whether you're seeking affordable sushi restaurants or Japanese-inspired
+  places near you, this location combines quality ingredients with a laid-back
+  vibe to create an enjoyable meal experience.
+generative_summary: >-
+  Explore Nida's Sushi in Columbus, OH$$$Nida's Sushi in Columbus, OH, stands
+  out as a vibrant Asian eatery nestled in the heart of the Short North Arts
+  District, offering a blend of fresh flavors and accessible dining options.
+  This spot delights with its Southeast Asian-inspired menu, featuring dishes
+  like pad Thai and poke bowls alongside vegan choices, all served in a
+  contemporary and relaxed atmosphere that invites casual enjoyment. The
+  restaurant prioritizes convenience with wheelchair-accessible features and a
+  variety of payment options, making it a welcoming choice for diverse diners.
+  Whether you're seeking affordable sushi restaurants or Japanese-inspired
+  places near you, this location combines quality ingredients with a laid-back
+  vibe to create an enjoyable meal experience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJt3XuLiaPOIgRINqETmIaGL0/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3aDh6RGZnEAE
@@ -334,6 +357,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURIb3NQZzR3RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURIb3NQZzR3RRAB!2m1!1s0x88388f262eee75b7:0xbd181a624e84da20
+review_summary: >-
+  What Customers Are Buzzing About$$$Visitors to this sushi spot often rave
+  about the tasty Thai-inspired dishes and refreshing drinks, highlighting the
+  quick service and helpful staff that make ordering a breeze. While some folks
+  appreciate the solid flavors in options like pad Thai and Thai tea, others
+  note that the sushi can vary but still offers good value for a casual bite.
+  Overall, the atmosphere keeps things light and fun, with many enjoying the
+  variety of menu choices that cater to different tastes, including vegetarian
+  picks. Even with a few mixed experiences, the general feedback leans positive,
+  suggesting it's a solid go-to for anyone searching for reliable sushi
+  restaurants nearby, as long as you focus on the standout non-sushi items for a
+  satisfying visit.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   valetParking: false
 payment_options:
@@ -364,8 +400,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: null
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Southeast Asian fare & cocktails offered in a colorful, contemporary setting
   with a sushi bar.
 

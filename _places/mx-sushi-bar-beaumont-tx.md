@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "MX SUSHI BAR"
+title: MX SUSHI BAR
 permalink: /texas/beaumont/mx-sushi-bar.html
 stateAbbr: TX
 stateName: Texas
 cityName: Beaumont
 seo:
-  name: "MX SUSHI BAR"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "MX SUSHI BAR serves delicious sushi in Beaumont, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJvx2rYmUzOYYRwyb6Ok6oo88
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8639336562ab1dbf:0xcfa3a84e3afa26c3!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 17
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 19
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 19
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 19
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 19
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 19
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 19
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 7:30 PM'
     - 'Tuesday: 11:00 AM – 7:30 PM'
     - 'Wednesday: 11:00 AM – 7:30 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 7:30 PM'
     - 'Saturday: 11:00 AM – 7:30 PM'
     - 'Sunday: 12:00 – 5:30 PM'
-  current:
-    - 'Monday: 11:00 AM – 7:30 PM'
-    - 'Tuesday: 11:00 AM – 7:30 PM'
-    - 'Wednesday: 11:00 AM – 7:30 PM'
-    - 'Thursday: 11:00 AM – 7:30 PM'
-    - 'Friday: 11:00 AM – 7:30 PM'
-    - 'Saturday: 11:00 AM – 7:30 PM'
-    - 'Sunday: 12:00 – 5:30 PM'
+  nextCloseTime: '2025-05-04T00:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,261 @@ phone: (409) 223-1303
 price_level: null
 price_range: $10 &ndash; $20
 rating: '4.4'
-rating_count: 0
+rating_count: 197
 website: null
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Experience MX Sushi Bar in Beaumont, TX$$$MX Sushi Bar in Beaumont, TX, stands
+  out as a welcoming sushi restaurant offering fresh and flavorful
+  Japanese-inspired dishes in a convenient mall setting. With a focus on
+  high-quality ingredients and generous portions, this spot caters to those
+  seeking tasty options like expertly prepared rolls and fried rice that
+  emphasize health and taste. The restaurant boasts accessibility features such
+  as wheelchair-friendly entrances and seating, making it easy for everyone to
+  enjoy a meal. Operating daily with extended hours for lunch and dinner, it's
+  an ideal choice for anyone exploring sushi places near me or looking for
+  reliable Japanese dining in the area.
+generative_summary: >-
+  Experience MX Sushi Bar in Beaumont, TX$$$MX Sushi Bar in Beaumont, TX, stands
+  out as a welcoming sushi restaurant offering fresh and flavorful
+  Japanese-inspired dishes in a convenient mall setting. With a focus on
+  high-quality ingredients and generous portions, this spot caters to those
+  seeking tasty options like expertly prepared rolls and fried rice that
+  emphasize health and taste. The restaurant boasts accessibility features such
+  as wheelchair-friendly entrances and seating, making it easy for everyone to
+  enjoy a meal. Operating daily with extended hours for lunch and dinner, it's
+  an ideal choice for anyone exploring sushi places near me or looking for
+  reliable Japanese dining in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJvx2rYmUzOYYRwyb6Ok6oo88/reviews/ChZDSUhNMG9nS0VJQ0FnSUNMMXZHMWJREAE
+    relativePublishTimeDescription: 10 months ago
+    rating: 5
+    text:
+      text: >-
+        If you’re looking for a lovingly prepared meal that is fresh and has
+        your health in mind, definitely come here. The fried rice is the
+        cleanest and best tasting I’ve had in SETX. And the owner painstakingly
+        squeezes out the excess sesame oil and juices from the seaweed salad
+        herself, leaving only crunchy yummy seaweed goodness. Portion sizes are
+        not skimpy, one roll can fill you up for lunch. Owners are kind and
+        considerate, definitely try this out after your Sunday shopping!
+      languageCode: en
+    originalText:
+      text: >-
+        If you’re looking for a lovingly prepared meal that is fresh and has
+        your health in mind, definitely come here. The fried rice is the
+        cleanest and best tasting I’ve had in SETX. And the owner painstakingly
+        squeezes out the excess sesame oil and juices from the seaweed salad
+        herself, leaving only crunchy yummy seaweed goodness. Portion sizes are
+        not skimpy, one roll can fill you up for lunch. Owners are kind and
+        considerate, definitely try this out after your Sunday shopping!
+      languageCode: en
+    authorAttribution:
+      displayName: Katey Chen
+      uri: https://www.google.com/maps/contrib/111578493176934034791/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJuB2h0p3CMvuE5j0mPAX3gNBn-p6FVW-SRh32KdGuiTgSZ=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-06-18T23:07:24.728707Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNMMXZHMWJREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNMMXZHMWJREAE!2m1!1s0x8639336562ab1dbf:0xcfa3a84e3afa26c3
+  - name: >-
+      places/ChIJvx2rYmUzOYYRwyb6Ok6oo88/reviews/ChZDSUhNMG9nS0VJQ0FnSUQyOElpOEJBEAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 2
+    text:
+      text: >-
+        UPDATE: Went from 5 stars to 2 stars because they had yet another price
+        hike. I shouldn't have to pay $15+ for a black dragon roll that isn't
+        that big. I used to pay $11.99 for it. I'll be surprised if they
+        continue to stay in business with these prices. It's a new economy with
+        a new preaident, get with the changes or get left behind.
+
+
+        OLD REVIEW: Best sushi for the best price, literally, it can't be beat.
+        I've been eating sushi from here to all the way on the East Coast and
+        the states in between and let me tell you, this place is delicious. The
+        size/portions as well as the quality are exceptional, the cashier who
+        tends to be there everytime I've been is really nice and will customize
+        your order for you if there's something in a sushi roll that you don't
+        care for. But besides sushi, the fried rice here is the absolute only
+        place to get rice here in the food court, it's delicious and not dry
+        like the others around it.
+      languageCode: en
+    originalText:
+      text: >-
+        UPDATE: Went from 5 stars to 2 stars because they had yet another price
+        hike. I shouldn't have to pay $15+ for a black dragon roll that isn't
+        that big. I used to pay $11.99 for it. I'll be surprised if they
+        continue to stay in business with these prices. It's a new economy with
+        a new preaident, get with the changes or get left behind.
+
+
+        OLD REVIEW: Best sushi for the best price, literally, it can't be beat.
+        I've been eating sushi from here to all the way on the East Coast and
+        the states in between and let me tell you, this place is delicious. The
+        size/portions as well as the quality are exceptional, the cashier who
+        tends to be there everytime I've been is really nice and will customize
+        your order for you if there's something in a sushi roll that you don't
+        care for. But besides sushi, the fried rice here is the absolute only
+        place to get rice here in the food court, it's delicious and not dry
+        like the others around it.
+      languageCode: en
+    authorAttribution:
+      displayName: Dakotah Holcomb
+      uri: https://www.google.com/maps/contrib/106256675151651980463/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVN05FiBQZTXOf0Ab30Zw615hp2JJH6zVxg1OOi5-zPTVs6PgmB=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-02-01T00:21:19.506178Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQyOElpOEJBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQyOElpOEJBEAE!2m1!1s0x8639336562ab1dbf:0xcfa3a84e3afa26c3
+  - name: >-
+      places/ChIJvx2rYmUzOYYRwyb6Ok6oo88/reviews/ChZDSUhNMG9nS0VJQ0FnSURfMHN1RlpnEAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        I mean, I really don't like public places, especially the mall, but this
+        place makes all the people worth dealing with. They have some of the
+        best sushi around. You make look at the price and think " how can they
+        justify this?" Then you get the roll and that thing is a meal in itself,
+        not to mention delicious.
+      languageCode: en
+    originalText:
+      text: >-
+        I mean, I really don't like public places, especially the mall, but this
+        place makes all the people worth dealing with. They have some of the
+        best sushi around. You make look at the price and think " how can they
+        justify this?" Then you get the roll and that thing is a meal in itself,
+        not to mention delicious.
+      languageCode: en
+    authorAttribution:
+      displayName: Dade Pulliam
+      uri: https://www.google.com/maps/contrib/117821771099954559828/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVWxcGjb4dAGTLIGiqYEZ3PhUzprvrKwpY_JgnP_sA_AMFaVAg4=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-01-23T03:03:06.880229Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURfMHN1RlpnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURfMHN1RlpnEAE!2m1!1s0x8639336562ab1dbf:0xcfa3a84e3afa26c3
+  - name: >-
+      places/ChIJvx2rYmUzOYYRwyb6Ok6oo88/reviews/ChZDSUhNMG9nS0VJQ0FnSURfMWFXWlJnEAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        This review is for the central mall location. I have never had a bad
+        experience. The sushi is fantastic! The cook is always so helpful when I
+        have questions! Definitely recommend trying them out!
+      languageCode: en
+    originalText:
+      text: >-
+        This review is for the central mall location. I have never had a bad
+        experience. The sushi is fantastic! The cook is always so helpful when I
+        have questions! Definitely recommend trying them out!
+      languageCode: en
+    authorAttribution:
+      displayName: Jennifer Mclarty
+      uri: https://www.google.com/maps/contrib/113585805751911766144/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocK0E97gfSN9rFv-ZIhe0zf5JGYRgYLqQs0YEmwcIwilgk0Vvw=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-01-25T22:55:42.812264Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURfMWFXWlJnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURfMWFXWlJnEAE!2m1!1s0x8639336562ab1dbf:0xcfa3a84e3afa26c3
+  - name: >-
+      places/ChIJvx2rYmUzOYYRwyb6Ok6oo88/reviews/ChZDSUhNMG9nS0VJQ0FnSURDcHNDMVlREAE
+    relativePublishTimeDescription: 3 years ago
+    rating: 5
+    text:
+      text: >-
+        This isn't your typical Sushi Bar in the mall.  Everything that I've had
+        from here has always been fresh and exceeded my expectations. Now I just
+        know that whatever I get I'm going to be happy.  I honestly can't say
+        that about a lot of restaurants, especially when ordering sushi.
+
+
+        Seriously though, MX Sushi is a place that I keep coming back to time
+        and time again.
+
+
+        Keep it up guys! You rock!
+      languageCode: en
+    originalText:
+      text: >-
+        This isn't your typical Sushi Bar in the mall.  Everything that I've had
+        from here has always been fresh and exceeded my expectations. Now I just
+        know that whatever I get I'm going to be happy.  I honestly can't say
+        that about a lot of restaurants, especially when ordering sushi.
+
+
+        Seriously though, MX Sushi is a place that I keep coming back to time
+        and time again.
+
+
+        Keep it up guys! You rock!
+      languageCode: en
+    authorAttribution:
+      displayName: Eric Johnson
+      uri: https://www.google.com/maps/contrib/107412393193945680647/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjW7N34MAJBIgFi3121B7c6s5mhcTtQKuqsWIa1ar7G1QDmX607RXw=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2021-08-16T18:51:39.366828Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURDcHNDMVlREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURDcHNDMVlREAE!2m1!1s0x8639336562ab1dbf:0xcfa3a84e3afa26c3
+review_summary: >-
+  Visitor Feedback on MX Sushi Bar$$$Feedback from patrons highlights the appeal
+  of this sushi spot, with many praising the fresh flavors and hearty portions
+  that make for a satisfying meal. While some note that prices have increased
+  recently, the overall value still shines through in the generous servings that
+  can easily turn into a full lunch. Customers often appreciate the attentive
+  service and customizable options, adding to the enjoyable atmosphere in this
+  bustling location. Despite a few concerns about costs in the current economy,
+  the consensus leans positive, positioning it as one of the top-rated sushi
+  restaurants near me for those craving authentic tastes. If you're hunting for
+  great sushi close to me, this place delivers a reliably good experience with
+  room for everyone to find something they love.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: true
+outdoor_seating: false
 reservable: null
-restroom: null
+restroom: true
 serves_beer: null
-serves_breakfast: null
-serves_brunch: null
+serves_breakfast: true
+serves_brunch: true
 serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
 serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

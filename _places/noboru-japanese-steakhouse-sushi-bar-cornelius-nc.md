@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Noboru Japanese Steakhouse & Sushi Bar"
+title: Noboru Japanese Steakhouse & Sushi Bar
 permalink: /north-carolina/cornelius/noboru-japanese-steakhouse-sushi-bar.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Cornelius
 seo:
-  name: "Noboru Japanese Steakhouse & Sushi Bar"
-  type: Restaurant
+  type: restaurant
   links: http://noborusteakhouse.com/
-description: "Noboru Japanese Steakhouse & Sushi Bar serves delicious sushi in Cornelius, North Carolina. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJvagaupSpVogRy_Cy9jUh-A0
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8856a994ba1aa8bd:0xdf82135f6b2f0cb!10e5
 primary_type: Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 5:00 – 9:30 PM'
     - 'Wednesday: 5:00 – 9:30 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 5:00 – 9:30 PM'
     - 'Saturday: 5:00 – 9:30 PM'
     - 'Sunday: 5:00 – 9:30 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 5:00 – 9:30 PM'
-    - 'Wednesday: 5:00 – 9:30 PM'
-    - 'Thursday: 5:00 – 9:30 PM'
-    - 'Friday: 5:00 – 9:30 PM'
-    - 'Saturday: 5:00 – 9:30 PM'
-    - 'Sunday: 5:00 – 9:30 PM'
+  nextCloseTime: '2025-05-04T01:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +238,45 @@ phone: (704) 897-7978
 price_level: null
 price_range: $30 &ndash; $50
 rating: '4.6'
-rating_count: 0
+rating_count: 248
 website: http://noborusteakhouse.com/
+description: >-
+  Discover Noboru Japanese Steakhouse in Cornelius, NC$$$Noboru Japanese
+  Steakhouse & Sushi Bar in Cornelius, North Carolina, provides a relaxed spot
+  for enjoying authentic Japanese flavors, including tableside hibachi cooking
+  that brings excitement to every meal. The menu features fresh seafood and
+  grilled specialties, making it a go-to choice for those seeking quality
+  Japanese dining options nearby. With its welcoming atmosphere and
+  accessibility features like easy parking and entrances, this spot caters to a
+  wide range of diners looking for evening meals. Operating mainly in the
+  evenings, it's perfect for casual get-togethers or a flavorful night out,
+  emphasizing generous portions and a variety of dishes that highlight the best
+  of Japanese cuisine.
+generative_summary: >-
+  Discover Noboru Japanese Steakhouse in Cornelius, NC$$$Noboru Japanese
+  Steakhouse & Sushi Bar in Cornelius, North Carolina, provides a relaxed spot
+  for enjoying authentic Japanese flavors, including tableside hibachi cooking
+  that brings excitement to every meal. The menu features fresh seafood and
+  grilled specialties, making it a go-to choice for those seeking quality
+  Japanese dining options nearby. With its welcoming atmosphere and
+  accessibility features like easy parking and entrances, this spot caters to a
+  wide range of diners looking for evening meals. Operating mainly in the
+  evenings, it's perfect for casual get-togethers or a flavorful night out,
+  emphasizing generous portions and a variety of dishes that highlight the best
+  of Japanese cuisine.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Guests Are Saying$$$Folks frequently highlight the tasty hibachi meals
+  here, with favorites like grilled meats, seafood, and hearty sides of noodles
+  and rice that leave everyone satisfied. The team on hand is often described as
+  warm and responsive, helping to create a smooth and enjoyable visit from start
+  to finish. Chefs add a fun twist with their lively preparation style, turning
+  dinners into entertaining experiences. The space comes across as spotless and
+  comfortable, adding to the overall appeal for groups or families. All in all,
+  it's a solid pick for anyone craving reliable Japanese fare in a friendly
+  setting, based on the positive buzz around its consistent quality.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +302,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

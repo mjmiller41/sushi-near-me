@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Blue Buddha Sushi Lounge"
+title: Blue Buddha Sushi Lounge
 permalink: /montana/big-sky/blue-buddha-sushi-lounge.html
 stateAbbr: MT
 stateName: Montana
 cityName: Big Sky
 seo:
-  name: "Blue Buddha Sushi Lounge"
-  type: Restaurant
+  type: restaurant
   links: http://bigskybluebuddha.com/
-description: "Blue Buddha Sushi Lounge serves delicious sushi in Big Sky, Montana. Try fresh Japanese dishes for a great dining experience. Available for takeout, and dinner."
 place_id: ChIJ9xyts6sRUFMRhTfUrkmAZHM
 photos:
   - name: >-
@@ -156,7 +154,7 @@ accessibility_options:
   wheelchairAccessibleEntrance: true
   wheelchairAccessibleRestroom: true
   wheelchairAccessibleSeating: true
-business_status: OPERATIONAL
+business_status: CLOSED_TEMPORARILY
 name: Blue Buddha Sushi Lounge
 google_maps_links:
   directionsUri: >-
@@ -185,6 +183,33 @@ price_range: null
 rating: '4.1'
 rating_count: 0
 website: http://bigskybluebuddha.com/
+description: >-
+  Discover Blue Buddha Sushi Lounge in Big Sky, MT$$$Nestled in Big Sky, MT, the
+  Blue Buddha Sushi Lounge stands out as a vibrant spot for Japanese fusion
+  dining, blending fresh sushi creations with innovative presentations that
+  delight the senses. This welcoming sushi restaurant features an array of
+  flavorful dishes, including creative rolls and appetizers, complemented by a
+  fun game room that adds an entertaining twist to your meal. Accessibility is a
+  key highlight, with options like wheelchair-accessible seating and entrances
+  making it easy for everyone to enjoy the experience. Outdoor seating and a
+  selection of beers, cocktails, and wines enhance the relaxed atmosphere,
+  perfect for groups or those seeking a casual night out. Whether you're
+  exploring sushi places near you or looking for top-rated Japanese-inspired
+  options, this lounge offers a memorable blend of taste and ambiance.
+generative_summary: >-
+  Discover Blue Buddha Sushi Lounge in Big Sky, MT$$$Nestled in Big Sky, MT, the
+  Blue Buddha Sushi Lounge stands out as a vibrant spot for Japanese fusion
+  dining, blending fresh sushi creations with innovative presentations that
+  delight the senses. This welcoming sushi restaurant features an array of
+  flavorful dishes, including creative rolls and appetizers, complemented by a
+  fun game room that adds an entertaining twist to your meal. Accessibility is a
+  key highlight, with options like wheelchair-accessible seating and entrances
+  making it easy for everyone to enjoy the experience. Outdoor seating and a
+  selection of beers, cocktails, and wines enhance the relaxed atmosphere,
+  perfect for groups or those seeking a casual night out. Whether you're
+  exploring sushi places near you or looking for top-rated Japanese-inspired
+  options, this lounge offers a memorable blend of taste and ambiance.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ9xyts6sRUFMRhTfUrkmAZHM/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3cGFQRGxnRRAB
@@ -446,6 +471,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNRbEx2N3BRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNRbEx2N3BRRRAB!2m1!1s0x535011abb3ad1cf7:0x73648049aed43785
+review_summary: >-
+  What Guests Are Sharing About This Spot$$$Visitors often rave about the
+  delicious food at this sushi restaurant, highlighting the fresh flavors and
+  generous portions that make every bite worthwhile. While some mention
+  occasional waits during busy times, many appreciate the attentive service that
+  shines through in handling special requests, like dietary accommodations, with
+  care and expertise. The creative drinks and vibrant atmosphere get plenty of
+  nods, creating a fun vibe that's ideal for groups or a relaxed evening.
+  Overall, the positives around the quality of the sushi and appetizers outweigh
+  any minor hiccups, making it a solid choice for anyone craving authentic
+  Japanese fusion. If you're in the mood for top-rated sushi near you, this
+  place delivers a satisfying experience that's worth considering for your next
+  outing.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   paidParkingLot: false
@@ -482,7 +521,7 @@ serves_lunch: null
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

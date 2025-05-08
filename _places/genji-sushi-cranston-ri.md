@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Genji Sushi"
+title: Genji Sushi
 permalink: /rhode-island/cranston/genji-sushi.html
 stateAbbr: RI
 stateName: Rhode Island
 cityName: Cranston
 seo:
-  name: "Genji Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.genjiweb.com/
-description: "Genji Sushi serves delicious sushi in Cranston, Rhode Island. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJxzmsN8JO5IkRLYPj35DYBQY
 photos:
   - name: >-
@@ -50,7 +48,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89e44ec237ac39c7:0x605d890dfe3832d!10e5
 primary_type: Takeout Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 8
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 8
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 8
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 8
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 8
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 8
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 8
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 8:00 AM – 9:00 PM'
     - 'Tuesday: 8:00 AM – 9:00 PM'
     - 'Wednesday: 8:00 AM – 9:00 PM'
@@ -58,14 +114,7 @@ opening_hours:
     - 'Friday: 8:00 AM – 9:00 PM'
     - 'Saturday: 8:00 AM – 9:00 PM'
     - 'Sunday: 8:00 AM – 9:00 PM'
-  current:
-    - 'Monday: 8:00 AM – 9:00 PM'
-    - 'Tuesday: 8:00 AM – 9:00 PM'
-    - 'Wednesday: 8:00 AM – 9:00 PM'
-    - 'Thursday: 8:00 AM – 9:00 PM'
-    - 'Friday: 8:00 AM – 9:00 PM'
-    - 'Saturday: 8:00 AM – 9:00 PM'
-    - 'Sunday: 8:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T01:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -77,9 +126,47 @@ phone: (401) 942-7600
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '3.0'
-rating_count: 0
+rating_count: 3
 website: http://www.genjiweb.com/
+description: >-
+  Discover Genji Sushi in Cranston, RI$$$Genji Sushi in Cranston, RI, offers a
+  convenient spot for fresh Japanese-inspired dishes, perfect for those seeking
+  quick and accessible takeout options in the area. With extended hours from 8
+  AM to 9 PM every day, it's an ideal choice for anyone craving sushi
+  restaurants nearby, whether for a casual lunch or evening meal. The location
+  features wheelchair-accessible parking, making it easier for all visitors to
+  enjoy their dining experience. You'll find a variety of sushi selections that
+  highlight quality ingredients, appealing to fans of Japanese places near me
+  looking for a straightforward and reliable meal. Its moderate pricing adds to
+  the appeal, providing good value for those exploring top-rated sushi options
+  in the region.
+generative_summary: >-
+  Discover Genji Sushi in Cranston, RI$$$Genji Sushi in Cranston, RI, offers a
+  convenient spot for fresh Japanese-inspired dishes, perfect for those seeking
+  quick and accessible takeout options in the area. With extended hours from 8
+  AM to 9 PM every day, it's an ideal choice for anyone craving sushi
+  restaurants nearby, whether for a casual lunch or evening meal. The location
+  features wheelchair-accessible parking, making it easier for all visitors to
+  enjoy their dining experience. You'll find a variety of sushi selections that
+  highlight quality ingredients, appealing to fans of Japanese places near me
+  looking for a straightforward and reliable meal. Its moderate pricing adds to
+  the appeal, providing good value for those exploring top-rated sushi options
+  in the region.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Sharing$$$Folks checking out Genji Sushi often mention that
+  it's a solid go-to for everyday sushi cravings, with a decent variety that
+  hits the spot for takeout fans. While the overall vibe gets an average nod
+  with a 3.0 rating from a handful of reviews, many appreciate the fresh flavors
+  and ease of ordering, making it a reliable choice for sushi near me. Some note
+  that the portions are just right and the service feels straightforward, though
+  it's not always blowing people away with extras. Overall, it's worth trying if
+  you're in the mood for Japanese places close to you, offering honest value
+  without any major letdowns. Visitors tend to agree that for a quick bite, this
+  spot keeps things positive and approachable, especially for those hunting down
+  the best sushi restaurants in Cranston.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -105,7 +192,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

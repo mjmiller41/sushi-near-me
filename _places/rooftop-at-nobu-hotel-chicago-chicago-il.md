@@ -1,15 +1,14 @@
 ---
 layout: place
-title: "Rooftop at Nobu Hotel Chicago"
+title: Rooftop at Nobu Hotel Chicago
 permalink: /illinois/chicago/rooftop-at-nobu-hotel-chicago.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
 seo:
-  name: "Rooftop at Nobu Hotel Chicago"
-  type: Restaurant
-  links: null
-description: "Rooftop at Nobu Hotel Chicago serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: >-
+    https://www.noburestaurants.com/chicago-rooftop-at-nobu-hotel-chicago/home/?utm_source=google&utm_medium=Yext
 place_id: ChIJeX3F8eUtDogRIlPIC1Si8dM
 photos:
   - name: >-
@@ -170,22 +169,109 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x880e2de5f1c57d79:0xd3f1a2540bc85322!10e5
 primary_type: Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: Closed'
+    - 'Tuesday: Closed'
+    - 'Wednesday: Closed'
+    - 'Thursday: Closed'
+    - 'Friday: 5:00 – 11:00 PM'
+    - 'Saturday: 5:00 – 11:00 PM'
+    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+  - openNow: true
+    periods:
+      - open:
+          day: 5
+          hour: 17
+          minute: 0
+        close:
+          day: 5
+          hour: 23
+          minute: 0
+      - open:
+          day: 6
+          hour: 17
+          minute: 0
+        close:
+          day: 6
+          hour: 23
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: Closed'
+      - 'Tuesday: Closed'
+      - 'Wednesday: Closed'
+      - 'Thursday: Closed'
+      - 'Friday: 5:00 – 11:00 PM'
+      - 'Saturday: 5:00 – 11:00 PM'
+      - 'Sunday: Closed'
+    secondaryHoursType: DINNER
+    nextCloseTime: '2025-05-04T04:00:00Z'
+phone: (312) 779-8800
+price_level: PRICE_LEVEL_VERY_EXPENSIVE
+price_range: $100 &ndash; & up
+rating: '4.1'
+rating_count: 169
+website: >-
+  https://www.noburestaurants.com/chicago-rooftop-at-nobu-hotel-chicago/home/?utm_source=google&utm_medium=Yext
+description: >-
+  Discover Rooftop at Nobu Hotel in Chicago$$$Rooftop at Nobu Hotel in Chicago,
+  IL, stands out as a stylish destination for enjoying fresh Japanese-inspired
+  cuisine and innovative drinks in a vibrant rooftop setting. This spot features
+  an array of expertly prepared sushi and other flavorful dishes, complemented
+  by a selection of creative cocktails that capture the essence of modern
+  dining. Perched high above the bustling Fulton Market District, it offers
+  panoramic city views that enhance any evening out, making it ideal for those
+  seeking sushi restaurants with a scenic twist. The venue also prioritizes
+  accessibility and a welcoming atmosphere, ensuring a comfortable experience
+  for all visitors. With its blend of culinary excellence and urban charm, it's
+  a go-to choice for anyone exploring top-rated sushi options in the area.
+generative_summary: >-
+  Discover Rooftop at Nobu Hotel in Chicago$$$Rooftop at Nobu Hotel in Chicago,
+  IL, stands out as a stylish destination for enjoying fresh Japanese-inspired
+  cuisine and innovative drinks in a vibrant rooftop setting. This spot features
+  an array of expertly prepared sushi and other flavorful dishes, complemented
+  by a selection of creative cocktails that capture the essence of modern
+  dining. Perched high above the bustling Fulton Market District, it offers
+  panoramic city views that enhance any evening out, making it ideal for those
+  seeking sushi restaurants with a scenic twist. The venue also prioritizes
+  accessibility and a welcoming atmosphere, ensuring a comfortable experience
+  for all visitors. With its blend of culinary excellence and urban charm, it's
+  a go-to choice for anyone exploring top-rated sushi options in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Guests Are Saying$$$Visitors often rave about the standout signature
+  cocktails and delicious sushi at this rooftop spot, praising the lively vibe
+  and upbeat music that keep the energy high throughout the night. Many
+  highlight the stunning cityscape views, especially during warmer evenings,
+  which add a magical touch to the overall experience and make it perfect for
+  casual get-togethers or special occasions. The friendly service stands out as
+  a key plus, with staff helping to create a welcoming environment that keeps
+  guests coming back for more. While some note that prices can be on the higher
+  side, the quality of the food and drinks generally makes it feel worthwhile
+  for those indulging in Japanese-inspired fare. Overall, it's a solid pick for
+  anyone hunting for great sushi places nearby, offering a fun and memorable
+  dining adventure with just the right mix of excitement and relaxation.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +297,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

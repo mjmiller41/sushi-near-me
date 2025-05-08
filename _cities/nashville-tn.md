@@ -5,4 +5,5 @@ permalink: /tennessee/nashville/
 stateAbbr: TN
 stateName: Tennessee
 cityName: Nashville
+
 ---

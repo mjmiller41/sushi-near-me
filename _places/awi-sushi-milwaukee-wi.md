@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Awi Sushi"
+title: Awi Sushi
 permalink: /wisconsin/milwaukee/awi-sushi.html
 stateAbbr: WI
 stateName: Wisconsin
 cityName: Milwaukee
 seo:
-  name: "Awi Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://awisushimilwaukee.com/
-description: "Awi Sushi serves delicious sushi in Milwaukee, Wisconsin. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJvSjYaQAZBYgRiiBBM4MYg3E
 photos:
   - name: >-
@@ -166,7 +164,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8805190069d828bd:0x718318833341208a!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:00 PM'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -174,14 +222,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:00 PM'
     - 'Saturday: 11:00 AM – 9:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:00 AM – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 9:00 PM'
-    - 'Saturday: 11:00 AM – 9:00 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -193,9 +234,50 @@ phone: (414) 858-6056
 price_level: null
 price_range: $10 &ndash; $20
 rating: '4.7'
-rating_count: 0
+rating_count: 103
 website: https://awisushimilwaukee.com/
+description: >-
+  Discover Awi Sushi in Milwaukee, WI$$$Awi Sushi in Milwaukee, WI, stands out
+  as a welcoming spot for enjoying fresh sushi and a variety of Asian-inspired
+  dishes, making it a go-to choice for casual dining in the area. This eatery
+  offers a relaxed atmosphere where families can savor flavorful options,
+  including selections tailored for younger diners, all at affordable prices.
+  Patrons appreciate the focus on quality ingredients that bring out the best in
+  traditional sushi rolls and other favorites, positioning it as one of the top
+  sushi restaurants near you. With convenient hours that cater to lunch and
+  dinner crowds, it's an ideal destination for those seeking Japanese-inspired
+  meals in a laid-back setting. Whether you're exploring sushi places close to
+  you or looking for a reliable spot in Juneau Town, Awi Sushi delivers a
+  satisfying experience that combines taste and value.
+generative_summary: >-
+  Discover Awi Sushi in Milwaukee, WI$$$Awi Sushi in Milwaukee, WI, stands out
+  as a welcoming spot for enjoying fresh sushi and a variety of Asian-inspired
+  dishes, making it a go-to choice for casual dining in the area. This eatery
+  offers a relaxed atmosphere where families can savor flavorful options,
+  including selections tailored for younger diners, all at affordable prices.
+  Patrons appreciate the focus on quality ingredients that bring out the best in
+  traditional sushi rolls and other favorites, positioning it as one of the top
+  sushi restaurants near you. With convenient hours that cater to lunch and
+  dinner crowds, it's an ideal destination for those seeking Japanese-inspired
+  meals in a laid-back setting. Whether you're exploring sushi places close to
+  you or looking for a reliable spot in Juneau Town, Awi Sushi delivers a
+  satisfying experience that combines taste and value.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Buzzing About$$$Visitors to this sushi spot often rave
+  about the consistently fresh flavors and generous portions that make every
+  meal feel worthwhile, earning it high marks from the community. Many highlight
+  the friendly service and welcoming vibe that enhance the overall dining
+  experience, especially for groups or families stopping by for a quick bite.
+  Feedback frequently praises the variety of dishes that go beyond basic rolls,
+  appealing to those hunting for top-rated sushi options without breaking the
+  bank. While some note minor waits during peak times, the general consensus
+  leans positive, with folks appreciating the kid-friendly choices and solid
+  value. If you're on the hunt for great sushi near you, this place comes highly
+  recommended for its reliable quality and enjoyable atmosphere that keeps
+  diners coming back.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -221,7 +303,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

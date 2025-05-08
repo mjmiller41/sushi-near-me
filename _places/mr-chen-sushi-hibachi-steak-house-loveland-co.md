@@ -1,15 +1,14 @@
 ---
 layout: place
-title: "Mr chen sushi&hibachi steak house"
+title: Mr chen sushi&hibachi steak house
 permalink: /colorado/loveland/mr-chen-sushi-hibachi-steak-house.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Loveland
 seo:
-  name: "Mr chen sushi&hibachi steak house"
-  type: Restaurant
-  links: https://www.mrchensushihibachisteakhouse.com/?utm_source=gmb&utm_medium=website
-description: "Mr chen sushi&hibachi steak house serves delicious sushi in Loveland, Colorado. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: >-
+    https://www.mrchensushihibachisteakhouse.com/?utm_source=gmb&utm_medium=website
 place_id: ChIJtZXZxddTaYcRYEZMrmheehM
 photos:
   - name: >-
@@ -170,7 +169,105 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x876953d7c5d995b5:0x137a5e68ae4c4660!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 14
+        minute: 30
+    - open:
+        day: 0
+        hour: 16
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 10
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 16
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 10
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 10
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 10
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 10
+        minute: 0
+      close:
+        day: 6
+        hour: 14
+        minute: 30
+    - open:
+        day: 6
+        hour: 16
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 10:00 AM – 2:30 PM, 4:00 – 9:30 PM'
     - 'Tuesday: Closed'
     - 'Wednesday: 10:00 AM – 2:30 PM, 4:00 – 9:30 PM'
@@ -178,14 +275,7 @@ opening_hours:
     - 'Friday: 10:00 AM – 2:30 PM, 4:00 – 9:30 PM'
     - 'Saturday: 10:00 AM – 2:30 PM, 4:00 – 9:30 PM'
     - 'Sunday: 11:00 AM – 2:30 PM, 4:00 – 9:30 PM'
-  current:
-    - 'Monday: 10:00 AM – 2:30 PM, 4:00 – 9:30 PM'
-    - 'Tuesday: Closed'
-    - 'Wednesday: 10:00 AM – 2:30 PM, 4:00 – 9:30 PM'
-    - 'Thursday: 10:00 AM – 2:30 PM, 4:00 – 9:30 PM'
-    - 'Friday: 10:00 AM – 2:30 PM, 4:00 – 9:30 PM'
-    - 'Saturday: 10:00 AM – 2:30 PM, 4:00 – 9:30 PM'
-    - 'Sunday: 11:00 AM – 2:30 PM, 4:00 – 9:30 PM'
+  nextCloseTime: '2025-05-04T03:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,36 +287,238 @@ phone: (970) 685-4720
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.5'
-rating_count: 0
+rating_count: 168
 website: >-
   https://www.mrchensushihibachisteakhouse.com/?utm_source=gmb&utm_medium=website
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Mr. Chen Sushi in Loveland, CO$$$Mr. Chen Sushi & Hibachi Steak House
+  in Loveland, CO, stands out as a go-to spot for authentic Japanese flavors,
+  blending traditional entrees and sizzling hibachi options in a welcoming
+  environment. Located conveniently in a shopping area, this restaurant offers
+  fresh sushi rolls and hearty meals that cater to those seeking quality dining
+  experiences nearby. With accessibility features like wheelchair-friendly
+  entrances and parking, it ensures everyone can enjoy the vibrant atmosphere
+  and well-prepared dishes. Operating with flexible hours that include evenings
+  and weekends, it's an ideal choice for anyone exploring top sushi options in
+  the region, making it a favorite for casual meals or special occasions.
+generative_summary: >-
+  Discover Mr. Chen Sushi in Loveland, CO$$$Mr. Chen Sushi & Hibachi Steak House
+  in Loveland, CO, stands out as a go-to spot for authentic Japanese flavors,
+  blending traditional entrees and sizzling hibachi options in a welcoming
+  environment. Located conveniently in a shopping area, this restaurant offers
+  fresh sushi rolls and hearty meals that cater to those seeking quality dining
+  experiences nearby. With accessibility features like wheelchair-friendly
+  entrances and parking, it ensures everyone can enjoy the vibrant atmosphere
+  and well-prepared dishes. Operating with flexible hours that include evenings
+  and weekends, it's an ideal choice for anyone exploring top sushi options in
+  the region, making it a favorite for casual meals or special occasions.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJtZXZxddTaYcRYEZMrmheehM/reviews/ChZDSUhNMG9nS0VJQ0FnTURJbUxXRkNBEAE
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 5
+    text:
+      text: >-
+        We opened the door to wonderful soft piano music. A hostess smiled
+        warmly and greeted us most enthusiasticly. My husband and I were quickly
+        seated and asked if we would like to see the drink menu. We said yes and
+        ordered a saki and 2 waters. I enjoyed a delicious and hot seafood
+        delight entree and my husband also enjoyed his delicious and hot happy
+        family entree. Our experience was delightful with the quiet classical
+        music and wonderful food and service. 10/10 Definitely recommend.
+      languageCode: en
+    originalText:
+      text: >-
+        We opened the door to wonderful soft piano music. A hostess smiled
+        warmly and greeted us most enthusiasticly. My husband and I were quickly
+        seated and asked if we would like to see the drink menu. We said yes and
+        ordered a saki and 2 waters. I enjoyed a delicious and hot seafood
+        delight entree and my husband also enjoyed his delicious and hot happy
+        family entree. Our experience was delightful with the quiet classical
+        music and wonderful food and service. 10/10 Definitely recommend.
+      languageCode: en
+    authorAttribution:
+      displayName: Shannon Thome
+      uri: https://www.google.com/maps/contrib/115664293651296745597/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXHfrw0huX-UytbdkdzRTaqp1ooXe9WUfXe_Bv0hOj7xAquFkcyag=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-06T20:25:45.871008Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURJbUxXRkNBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJbUxXRkNBEAE!2m1!1s0x876953d7c5d995b5:0x137a5e68ae4c4660
+  - name: >-
+      places/ChIJtZXZxddTaYcRYEZMrmheehM/reviews/ChZDSUhNMG9nS0VJQ0FnSUNGemJxM0F3EAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        Mr. Chen's has always been our favorite for sushi, shrimp fried rice,
+        won tons, & seaweed salad. We took it to go often on the way up the
+        mountain but we dined in for the first time last week - talk about mind
+        blowing. When you don't think something can get better because it's
+        already so good but Wow! Fresh, in house is Amazing! I took my
+        colleagues the next day & they Loved it! Great spot! I highly recommend
+        you don't want to miss out on this gem for sushi or Chinese food.
+      languageCode: en
+    originalText:
+      text: >-
+        Mr. Chen's has always been our favorite for sushi, shrimp fried rice,
+        won tons, & seaweed salad. We took it to go often on the way up the
+        mountain but we dined in for the first time last week - talk about mind
+        blowing. When you don't think something can get better because it's
+        already so good but Wow! Fresh, in house is Amazing! I took my
+        colleagues the next day & they Loved it! Great spot! I highly recommend
+        you don't want to miss out on this gem for sushi or Chinese food.
+      languageCode: en
+    authorAttribution:
+      displayName: Kimberly Rae
+      uri: https://www.google.com/maps/contrib/111611567058560094642/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjU5vRqvZbBoTortu0jADG8FS9fykYIArTYRTRpnEamJ-b1fWiEa=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2023-10-31T00:47:16.204558Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNGemJxM0F3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNGemJxM0F3EAE!2m1!1s0x876953d7c5d995b5:0x137a5e68ae4c4660
+  - name: >-
+      places/ChIJtZXZxddTaYcRYEZMrmheehM/reviews/ChdDSUhNMG9nS0VJQ0FnTURJaWViYXhnRRAB
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 5
+    text:
+      text: >-
+        Excellent food! Great atmosphere.Very clean. Beautiful ladies room . The
+        menu is packed with Asian dishes ! My food was great ! Tempura Shrimp
+        appet , NY Strip Hibachi lunch Combo and fried ice cream for dessert.
+        Lunch Combo came with Miso soup and salad. The portions were huge .Took
+        1/2 home for tomorrow. Shared dessert with friend.  Highly recommend.
+        Can't wait to go back to try a different dish !
+      languageCode: en
+    originalText:
+      text: >-
+        Excellent food! Great atmosphere.Very clean. Beautiful ladies room . The
+        menu is packed with Asian dishes ! My food was great ! Tempura Shrimp
+        appet , NY Strip Hibachi lunch Combo and fried ice cream for dessert.
+        Lunch Combo came with Miso soup and salad. The portions were huge .Took
+        1/2 home for tomorrow. Shared dessert with friend.  Highly recommend.
+        Can't wait to go back to try a different dish !
+      languageCode: en
+    authorAttribution:
+      displayName: Terri R
+      uri: https://www.google.com/maps/contrib/106225174254235702633/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjU_OzDLZPQEmEqJVkqD26Q7ZnAt3hQGoB7JEyJ959mGrTHlIFpP=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-11T00:19:37.855366Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJaWViYXhnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJaWViYXhnRRAB!2m1!1s0x876953d7c5d995b5:0x137a5e68ae4c4660
+  - name: >-
+      places/ChIJtZXZxddTaYcRYEZMrmheehM/reviews/ChdDSUhNMG9nS0VJQ0FnSURKbU52WWp3RRAB
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        Quality is amazing. My girlfriend doesn’t get off work till late and Mr.
+        Chen being open till 930 was perfect because I was having some sushi
+        cravings. The salmon roe was perfection, and the spicy tuna was perfect.
+        The crab roll was crunchy and the avocado eel was perfect.  Miso soup
+        was nice warm and filling the egg drop soup was perfection. Will be back
+        for sure.
+      languageCode: en
+    originalText:
+      text: >-
+        Quality is amazing. My girlfriend doesn’t get off work till late and Mr.
+        Chen being open till 930 was perfect because I was having some sushi
+        cravings. The salmon roe was perfection, and the spicy tuna was perfect.
+        The crab roll was crunchy and the avocado eel was perfect.  Miso soup
+        was nice warm and filling the egg drop soup was perfection. Will be back
+        for sure.
+      languageCode: en
+    authorAttribution:
+      displayName: Brett
+      uri: https://www.google.com/maps/contrib/109829273749776941507/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjW3Wo6MZ0ealNTkQysZqZTBqUdJJjnpInuE1SV0eRaMF9BI1WM=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2023-07-10T11:13:09.534049Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURKbU52WWp3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURKbU52WWp3RRAB!2m1!1s0x876953d7c5d995b5:0x137a5e68ae4c4660
+  - name: >-
+      places/ChIJtZXZxddTaYcRYEZMrmheehM/reviews/ChZDSUhNMG9nS0VJQ0FnTUNvemNqMFFnEAE
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        AMAZING service and great food for very reasonable prices! All of the
+        servers were beyond nice and the food came out WICKED fast and fresh!!
+        Exterior doesn’t represent the great atmosphere on the inside… would
+        most definitely recommend!!
+      languageCode: en
+    originalText:
+      text: >-
+        AMAZING service and great food for very reasonable prices! All of the
+        servers were beyond nice and the food came out WICKED fast and fresh!!
+        Exterior doesn’t represent the great atmosphere on the inside… would
+        most definitely recommend!!
+      languageCode: en
+    authorAttribution:
+      displayName: Simonne lombardo
+      uri: https://www.google.com/maps/contrib/116918385018648241450/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIpWAJmmRo8qfmt2Ab5MuO_0xzgt8pq4sRyI5RsUIzU9tK05w=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-19T01:15:07.190466Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNvemNqMFFnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNvemNqMFFnEAE!2m1!1s0x876953d7c5d995b5:0x137a5e68ae4c4660
+review_summary: >-
+  What Customers Are Buzzing About$$$Folks often highlight the fresh and
+  flavorful sushi at this spot, with many raving about the variety and how it
+  hits the spot for a satisfying meal. Reviewers frequently mention the generous
+  portions and great value, especially during lunch, making it a smart pick for
+  everyday cravings without breaking the bank. The service stands out as
+  friendly and efficient, helping to create a relaxed vibe that keeps diners
+  coming back. Overall, the clean setting and tasty Japanese fare earn high
+  marks, positioning it as a reliable choice for groups or solo adventures.
+  While opinions vary, the general consensus leans positive, encouraging anyone
+  hunting for quality sushi nearby to give it a try.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
+curbside_pickup: true
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: true
+outdoor_seating: false
 reservable: null
-restroom: null
-serves_beer: null
+restroom: true
+serves_beer: true
 serves_breakfast: null
 serves_brunch: null
-serves_cocktails: null
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

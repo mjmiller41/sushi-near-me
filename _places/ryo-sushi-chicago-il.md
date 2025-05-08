@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ryo Sushi"
+title: Ryo Sushi
 permalink: /illinois/chicago/ryo-sushi.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
 seo:
-  name: "Ryo Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://ryosushi.com/
-description: "Contemporary spot offering sushi & Japanese kitchen entrees, plus open-air views of sidewalk tables. Ryo Sushi serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ0WOwWqQsDogR15rEDd2YmmM
 photos:
   - name: >-
@@ -183,6 +181,29 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 0
 website: http://ryosushi.com/
+description: >-
+  Experience Ryo Sushi in Chicago, IL$$$Ryo Sushi in Chicago, IL, stands out as
+  a welcoming Japanese restaurant offering an array of fresh sushi and sashimi
+  options that cater to diverse tastes. This spot combines comfortable dining
+  with open-air views, making it an ideal choice for those seeking authentic
+  Japanese flavors in a vibrant urban setting. Guests can enjoy a selection of
+  beer, wine, and sake alongside their meals, enhancing the overall experience
+  with thoughtful beverage pairings. The restaurant's accessible features and
+  central location add to its appeal for anyone exploring sushi restaurants in
+  the area. Whether you're looking for top-rated sushi near downtown spots, Ryo
+  Sushi delivers a satisfying blend of quality and convenience.
+generative_summary: >-
+  Experience Ryo Sushi in Chicago, IL$$$Ryo Sushi in Chicago, IL, stands out as
+  a welcoming Japanese restaurant offering an array of fresh sushi and sashimi
+  options that cater to diverse tastes. This spot combines comfortable dining
+  with open-air views, making it an ideal choice for those seeking authentic
+  Japanese flavors in a vibrant urban setting. Guests can enjoy a selection of
+  beer, wine, and sake alongside their meals, enhancing the overall experience
+  with thoughtful beverage pairings. The restaurant's accessible features and
+  central location add to its appeal for anyone exploring sushi restaurants in
+  the area. Whether you're looking for top-rated sushi near downtown spots, Ryo
+  Sushi delivers a satisfying blend of quality and convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ0WOwWqQsDogR15rEDd2YmmM/reviews/ChdDSUhNMG9nS0VJQ0FnSUNQZ2ZDVnBBRRAB
@@ -378,6 +399,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURmbUl2c3F3RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURmbUl2c3F3RRAB!2m1!1s0x880e2ca45ab063d1:0x639a98dd0dc49ad7
+review_summary: >-
+  Insights from Recent Feedback$$$Feedback from visitors highlights Ryo Sushi as
+  a solid pick for fresh and flavorful sushi, with many appreciating the
+  affordable lunch deals and speedy service that keep things enjoyable. While
+  most folks enjoy the generous portions and variety of rolls, a few notes
+  suggest that some dishes might not always hit the mark, encouraging a
+  mix-and-match approach to ordering. Overall, the convenient spot near popular
+  attractions makes it a go-to for casual meals, with praise for its welcoming
+  vibe and value that stands out among Japanese places nearby. Diners often find
+  it a reliable choice for quick bites, though it's wise to focus on the
+  strengths like the fresh fish to ensure a great experience. If you're
+  searching for sushi close to you, this place generally delivers a positive,
+  laid-back dining adventure.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidStreetParking: true
   valetParking: false
@@ -409,8 +444,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Contemporary spot offering sushi & Japanese kitchen entrees, plus open-air
   views of sidewalk tables.
 

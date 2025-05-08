@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi King - Little Creek"
+title: Sushi King - Little Creek
 permalink: /virginia/norfolk/sushi-king-little-creek.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Norfolk
 seo:
-  name: "Sushi King - Little Creek"
-  type: Restaurant
-  links: null
-description: "Sushi King - Little Creek serves delicious sushi in Norfolk, Virginia. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://sushikinglc.com/
 place_id: ChIJKwyK9EyRuokRG-SIConuWmE
 photos:
   - name: >-
@@ -170,8 +168,113 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89ba914cf48a0c2b:0x615aee890a88e41b!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 15
+        minute: 0
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 15
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM'
+    - 'Thursday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM'
+    - 'Friday: 11:00 AM – 3:00 PM, 5:00 – 10:00 PM'
+    - 'Saturday: 12:00 – 10:00 PM'
+    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +282,51 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (757) 588-8866
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '3.8'
+rating_count: 1023
+website: https://sushikinglc.com/
+description: >-
+  Discover Sushi King in Norfolk, VA$$$Sushi King in Norfolk, VA, stands out as
+  a welcoming Japanese dining spot where fresh rolls and flavorful dishes take
+  center stage. This casual eatery delights visitors with its all-you-can-eat
+  options, featuring a variety of sushi alongside Asian appetizers, hibachi
+  favorites, and a refreshing salad bar that adds a healthy twist to the menu.
+  The restaurant's accessible design, including wheelchair-friendly features,
+  makes it easy for everyone to enjoy a meal in a relaxed atmosphere. With
+  moderate pricing and extended hours, it's an ideal choice for those seeking
+  top-rated sushi experiences close to home, whether you're grabbing lunch or
+  dinner with friends. Its location in a vibrant neighborhood enhances the
+  appeal for anyone exploring local Japanese places near me.
+generative_summary: >-
+  Discover Sushi King in Norfolk, VA$$$Sushi King in Norfolk, VA, stands out as
+  a welcoming Japanese dining spot where fresh rolls and flavorful dishes take
+  center stage. This casual eatery delights visitors with its all-you-can-eat
+  options, featuring a variety of sushi alongside Asian appetizers, hibachi
+  favorites, and a refreshing salad bar that adds a healthy twist to the menu.
+  The restaurant's accessible design, including wheelchair-friendly features,
+  makes it easy for everyone to enjoy a meal in a relaxed atmosphere. With
+  moderate pricing and extended hours, it's an ideal choice for those seeking
+  top-rated sushi experiences close to home, whether you're grabbing lunch or
+  dinner with friends. Its location in a vibrant neighborhood enhances the
+  appeal for anyone exploring local Japanese places near me.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Sharing$$$Folks who visit this spot often rave about the
+  generous portions and tasty variety of sushi, making it a go-to for anyone
+  craving fresh options without breaking the bank. Many appreciate the
+  all-you-can-eat deal as a fun, satisfying way to sample different flavors,
+  though some note that service can vary depending on the time of day. Overall,
+  the vibe is laid-back and family-friendly, with plenty of positive mentions
+  about the hibachi items and quick turnaround on orders. While a few visitors
+  point out occasional inconsistencies in food temperature or wait times, the
+  solid rating reflects that most leave happy with their experience. If you're
+  on the hunt for reliable sushi restaurants near me, this place delivers a
+  generally enjoyable meal that keeps locals coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +352,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

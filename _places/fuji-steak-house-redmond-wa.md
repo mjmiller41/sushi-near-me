@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Fuji Steak House"
+title: Fuji Steak House
 permalink: /washington/redmond/fuji-steak-house.html
 stateAbbr: WA
 stateName: Washington
 cityName: Redmond
 seo:
-  name: "Fuji Steak House"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Fuji Steak House serves delicious sushi in Redmond, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ4-NN9q9ykFQRncFXdlLBcKE
 photos:
   - name: >-
@@ -185,7 +183,48 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Fuji Steak House in Redmond, WA$$$Fuji Steak House in Redmond, WA,
+  stands out as a vibrant Japanese steakhouse offering hibachi grills and fresh
+  sushi options that draw in locals and visitors alike. This welcoming spot
+  features a lively bar atmosphere with happy hour specials, making it an ideal
+  choice for casual dinners or special occasions. Guests can enjoy the
+  interactive teppanyaki-style cooking, where skilled chefs prepare flavorful
+  dishes right at the table, adding an entertaining element to every meal. The
+  restaurant also prioritizes accessibility, with features like
+  wheelchair-friendly entrances and seating, ensuring a comfortable experience
+  for all. Whether you're exploring sushi restaurants near you or seeking a fun
+  Japanese dining spot, this location combines quality cuisine with an engaging
+  vibe.
+generative_summary: >-
+  Discover Fuji Steak House in Redmond, WA$$$Fuji Steak House in Redmond, WA,
+  stands out as a vibrant Japanese steakhouse offering hibachi grills and fresh
+  sushi options that draw in locals and visitors alike. This welcoming spot
+  features a lively bar atmosphere with happy hour specials, making it an ideal
+  choice for casual dinners or special occasions. Guests can enjoy the
+  interactive teppanyaki-style cooking, where skilled chefs prepare flavorful
+  dishes right at the table, adding an entertaining element to every meal. The
+  restaurant also prioritizes accessibility, with features like
+  wheelchair-friendly entrances and seating, ensuring a comfortable experience
+  for all. Whether you're exploring sushi restaurants near you or seeking a fun
+  Japanese dining spot, this location combines quality cuisine with an engaging
+  vibe.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this spot often rave about the tasty
+  hibachi dishes like steak, shrimp, and chicken, along with delicious fried
+  rice that keeps diners coming back for more. The teppanyaki experience is
+  frequently described as fun and engaging, thanks to the talented chefs who put
+  on a show while preparing meals, making it perfect for celebrations or group
+  outings. Fresh sushi options add to the appeal, with many highlighting the
+  overall lively atmosphere and top-notch service that makes every visit feel
+  special. While some note that prices can be on the higher side, the
+  combination of great food and entertainment generally leaves a positive
+  impression. If you're searching for reliable sushi places near me, this
+  restaurant delivers a solid, enjoyable experience with just a few trade-offs
+  to keep in mind.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +250,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

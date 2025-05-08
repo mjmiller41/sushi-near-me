@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Gachi House of Sushi"
+title: Gachi House of Sushi
 permalink: /maryland/baltimore/gachi-house-of-sushi.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Baltimore
 seo:
-  name: "Gachi House of Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://gachisushi.com/
-description: "Rolls, sashimi, salads & cooked Japanese fare served in a contemporary setting with a sushi bar. Gachi House of Sushi serves delicious sushi in Baltimore, Maryland. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJve_XZPLit4kRuOIy-D7bq78
 photos:
   - name: >-
@@ -185,6 +183,27 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 0
 website: http://gachisushi.com/
+description: >-
+  Explore Gachi House of Sushi in Baltimore, MD$$$Gachi House of Sushi in
+  Baltimore, MD, offers a casual dining experience perfect for travelers seeking
+  fresh sushi and Japanese-inspired dishes in a modern airport setting. This
+  spot features an array of rolls, sashimi, and bento boxes, complemented by a
+  selection of sake, beer, and cocktails that enhance the meal. The contemporary
+  atmosphere makes it an ideal choice for those looking for reliable sushi
+  restaurants near busy hubs, with accessibility options ensuring a welcoming
+  visit for all. Whether you're in the mood for a quick bite or a more relaxed
+  meal, the focus on quality ingredients and variety stands out as a highlight.
+generative_summary: >-
+  Explore Gachi House of Sushi in Baltimore, MD$$$Gachi House of Sushi in
+  Baltimore, MD, offers a casual dining experience perfect for travelers seeking
+  fresh sushi and Japanese-inspired dishes in a modern airport setting. This
+  spot features an array of rolls, sashimi, and bento boxes, complemented by a
+  selection of sake, beer, and cocktails that enhance the meal. The contemporary
+  atmosphere makes it an ideal choice for those looking for reliable sushi
+  restaurants near busy hubs, with accessibility options ensuring a welcoming
+  visit for all. Whether you're in the mood for a quick bite or a more relaxed
+  meal, the focus on quality ingredients and variety stands out as a highlight.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJve_XZPLit4kRuOIy-D7bq78/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3OXM2bTFRRRAB
@@ -334,6 +353,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN6XzZPTW1nRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN6XzZPTW1nRRAB!2m1!1s0x89b7e2f264d7efbd:0xbfabdb3ef832e2b8
+review_summary: >-
+  What Visitors Are Buzzing About$$$Folks searching for top-rated sushi near the
+  airport often praise Gachi House of Sushi for its incredibly fresh and
+  flavorful rolls that hit the spot every time. Many highlight the friendly
+  service and efficient staff that make even a quick stop feel enjoyable,
+  turning it into a go-to option for travelers on the move. Reviewers frequently
+  mention the overall vibe as a pleasant surprise in a busy environment, with
+  dishes like specialty rolls earning high marks for their creativity and taste.
+  While it's clear this place shines for its authentic flavors and convenience,
+  it's also noted as a solid pick for anyone craving Japanese fare without the
+  wait. All in all, it's a reliable choice that keeps a positive buzz going for
+  sushi enthusiasts passing through.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   valetParking: false
 payment_options:
@@ -362,8 +394,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Rolls, sashimi, salads & cooked Japanese fare served in a contemporary setting
   with a sushi bar.
 

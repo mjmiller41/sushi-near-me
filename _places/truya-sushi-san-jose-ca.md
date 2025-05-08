@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Truya Sushi"
+title: Truya Sushi
 permalink: /california/san-jose/truya-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: San Jose
 seo:
-  name: "Truya Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.truyasushisj.com/
-description: "Truya Sushi serves delicious sushi in San Jose, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ7_FjanQtjoARZ8I4Ea2ChWU
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x808e2d746a63f1ef:0x658582ad1138c267!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 10
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 10
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 10
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 10
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 10
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 10
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 10
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 10:30 AM – 9:00 PM'
     - 'Tuesday: 10:30 AM – 9:00 PM'
     - 'Wednesday: 10:30 AM – 9:00 PM'
@@ -178,54 +234,555 @@ opening_hours:
     - 'Friday: 10:30 AM – 9:00 PM'
     - 'Saturday: 10:30 AM – 9:00 PM'
     - 'Sunday: 10:30 AM – 9:00 PM'
-  current:
-    - 'Monday: 10:30 AM – 9:00 PM'
-    - 'Tuesday: 10:30 AM – 9:00 PM'
-    - 'Wednesday: 10:30 AM – 9:00 PM'
-    - 'Thursday: 10:30 AM – 9:00 PM'
-    - 'Friday: 10:30 AM – 9:00 PM'
-    - 'Saturday: 10:30 AM – 9:00 PM'
-    - 'Sunday: 10:30 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: false
+    periods:
+      - open:
+          day: 0
+          hour: 17
+          minute: 0
+        close:
+          day: 0
+          hour: 22
+          minute: 0
+      - open:
+          day: 1
+          hour: 17
+          minute: 0
+        close:
+          day: 1
+          hour: 22
+          minute: 0
+      - open:
+          day: 2
+          hour: 17
+          minute: 0
+        close:
+          day: 2
+          hour: 22
+          minute: 0
+      - open:
+          day: 3
+          hour: 17
+          minute: 0
+        close:
+          day: 3
+          hour: 22
+          minute: 0
+      - open:
+          day: 4
+          hour: 17
+          minute: 0
+        close:
+          day: 4
+          hour: 22
+          minute: 0
+      - open:
+          day: 5
+          hour: 17
+          minute: 0
+        close:
+          day: 5
+          hour: 22
+          minute: 0
+      - open:
+          day: 6
+          hour: 17
+          minute: 0
+        close:
+          day: 6
+          hour: 22
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 5:00 – 10:00 PM'
+      - 'Tuesday: 5:00 – 10:00 PM'
+      - 'Wednesday: 5:00 – 10:00 PM'
+      - 'Thursday: 5:00 – 10:00 PM'
+      - 'Friday: 5:00 – 10:00 PM'
+      - 'Saturday: 5:00 – 10:00 PM'
+      - 'Sunday: 5:00 – 10:00 PM'
+    secondaryHoursType: DINNER
+    nextOpenTime: '2025-05-04T00:00:00Z'
+  - openNow: false
+    periods:
+      - open:
+          day: 0
+          hour: 17
+          minute: 0
+        close:
+          day: 0
+          hour: 21
+          minute: 30
+      - open:
+          day: 1
+          hour: 11
+          minute: 0
+        close:
+          day: 1
+          hour: 13
+          minute: 30
+      - open:
+          day: 1
+          hour: 17
+          minute: 0
+        close:
+          day: 1
+          hour: 21
+          minute: 30
+      - open:
+          day: 2
+          hour: 11
+          minute: 0
+        close:
+          day: 2
+          hour: 13
+          minute: 30
+      - open:
+          day: 2
+          hour: 17
+          minute: 0
+        close:
+          day: 2
+          hour: 21
+          minute: 30
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 13
+          minute: 30
+      - open:
+          day: 3
+          hour: 17
+          minute: 0
+        close:
+          day: 3
+          hour: 21
+          minute: 30
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 13
+          minute: 30
+      - open:
+          day: 4
+          hour: 17
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 30
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 13
+          minute: 30
+      - open:
+          day: 5
+          hour: 17
+          minute: 0
+        close:
+          day: 5
+          hour: 21
+          minute: 30
+      - open:
+          day: 6
+          hour: 17
+          minute: 0
+        close:
+          day: 6
+          hour: 21
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 11:00 AM – 1:30 PM, 5:00 – 9:30 PM'
+      - 'Tuesday: 11:00 AM – 1:30 PM, 5:00 – 9:30 PM'
+      - 'Wednesday: 11:00 AM – 1:30 PM, 5:00 – 9:30 PM'
+      - 'Thursday: 11:00 AM – 1:30 PM, 5:00 – 9:30 PM'
+      - 'Friday: 11:00 AM – 1:30 PM, 5:00 – 9:30 PM'
+      - 'Saturday: 5:00 – 9:30 PM'
+      - 'Sunday: 5:00 – 9:30 PM'
+    secondaryHoursType: DELIVERY
+    nextOpenTime: '2025-05-04T00:00:00Z'
+  - openNow: false
+    periods:
+      - open:
+          day: 0
+          hour: 17
+          minute: 0
+        close:
+          day: 0
+          hour: 21
+          minute: 30
+      - open:
+          day: 1
+          hour: 11
+          minute: 0
+        close:
+          day: 1
+          hour: 13
+          minute: 30
+      - open:
+          day: 1
+          hour: 17
+          minute: 0
+        close:
+          day: 1
+          hour: 21
+          minute: 30
+      - open:
+          day: 2
+          hour: 11
+          minute: 0
+        close:
+          day: 2
+          hour: 13
+          minute: 30
+      - open:
+          day: 2
+          hour: 17
+          minute: 0
+        close:
+          day: 2
+          hour: 21
+          minute: 30
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 13
+          minute: 30
+      - open:
+          day: 3
+          hour: 17
+          minute: 0
+        close:
+          day: 3
+          hour: 21
+          minute: 30
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 13
+          minute: 30
+      - open:
+          day: 4
+          hour: 17
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 30
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 13
+          minute: 30
+      - open:
+          day: 5
+          hour: 17
+          minute: 0
+        close:
+          day: 5
+          hour: 21
+          minute: 30
+      - open:
+          day: 6
+          hour: 17
+          minute: 0
+        close:
+          day: 6
+          hour: 21
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 11:00 AM – 1:30 PM, 5:00 – 9:30 PM'
+      - 'Tuesday: 11:00 AM – 1:30 PM, 5:00 – 9:30 PM'
+      - 'Wednesday: 11:00 AM – 1:30 PM, 5:00 – 9:30 PM'
+      - 'Thursday: 11:00 AM – 1:30 PM, 5:00 – 9:30 PM'
+      - 'Friday: 11:00 AM – 1:30 PM, 5:00 – 9:30 PM'
+      - 'Saturday: 5:00 – 9:30 PM'
+      - 'Sunday: 5:00 – 9:30 PM'
+    secondaryHoursType: TAKEOUT
+    nextOpenTime: '2025-05-04T00:00:00Z'
 phone: (408) 223-2497
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.1'
-rating_count: 0
+rating_count: 147
 website: https://www.truyasushisj.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Truya Sushi in San Jose, CA$$$Truya Sushi in San Jose, California,
+  provides a relaxed and inviting setting for enjoying authentic Japanese
+  cuisine, with a focus on fresh flavors and a variety of options to suit
+  different preferences. This sushi spot features an extensive menu of Japanese
+  fare, including vegetarian choices and convenient delivery services, making it
+  a versatile choice for casual diners. Accessibility features like
+  wheelchair-friendly entrances and seating ensure a welcoming experience for
+  all visitors, while its moderate pricing keeps it approachable for everyday
+  meals. Open daily with extended hours, it's an ideal destination for those
+  seeking quality sushi restaurants in the area, blending simplicity with
+  satisfying tastes that highlight fresh ingredients and traditional
+  preparations.
+generative_summary: >-
+  Discover Truya Sushi in San Jose, CA$$$Truya Sushi in San Jose, California,
+  provides a relaxed and inviting setting for enjoying authentic Japanese
+  cuisine, with a focus on fresh flavors and a variety of options to suit
+  different preferences. This sushi spot features an extensive menu of Japanese
+  fare, including vegetarian choices and convenient delivery services, making it
+  a versatile choice for casual diners. Accessibility features like
+  wheelchair-friendly entrances and seating ensure a welcoming experience for
+  all visitors, while its moderate pricing keeps it approachable for everyday
+  meals. Open daily with extended hours, it's an ideal destination for those
+  seeking quality sushi restaurants in the area, blending simplicity with
+  satisfying tastes that highlight fresh ingredients and traditional
+  preparations.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ7_FjanQtjoARZ8I4Ea2ChWU/reviews/ChdDSUhNMG9nS0VJQ0FnSUNlNTY3UmpnRRAB
+    relativePublishTimeDescription: 2 years ago
+    rating: 3
+    text:
+      text: >-
+        My favorite is the poke bowl. It's a reasonable price and has a lot of
+        fish. You can get a variety of sauces and toppings included in the
+        price. There are a couple items you can pay extra for too.
+
+
+        But the don buri isn't great. The sauce isn't very tasty and it's either
+        undercooked or kind of smooshy.
+
+
+        And the service was spotty. Civil, but not at all friendly.
+      languageCode: en
+    originalText:
+      text: >-
+        My favorite is the poke bowl. It's a reasonable price and has a lot of
+        fish. You can get a variety of sauces and toppings included in the
+        price. There are a couple items you can pay extra for too.
+
+
+        But the don buri isn't great. The sauce isn't very tasty and it's either
+        undercooked or kind of smooshy.
+
+
+        And the service was spotty. Civil, but not at all friendly.
+      languageCode: en
+    authorAttribution:
+      displayName: G Lee
+      uri: https://www.google.com/maps/contrib/114665275248028646819/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjW4wXG9EdqrEBkbcoWBqDtIopk9XJS0C1-OyXldK7y7J4-DWBarLw=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2022-09-26T01:47:05.698269Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNlNTY3UmpnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNlNTY3UmpnRRAB!2m1!1s0x808e2d746a63f1ef:0x658582ad1138c267
+  - name: >-
+      places/ChIJ7_FjanQtjoARZ8I4Ea2ChWU/reviews/ChdDSUhNMG9nS0VJQ0FnSUNLMDhtUG9nRRAB
+    relativePublishTimeDescription: 4 years ago
+    rating: 4
+    text:
+      text: >-
+        I've been meaning to try this place out for a while now, however, that 3
+        Star rating wasn't too enticing. Since their competitors across the way
+        aren't on Grubhub, I figured it was worth shot! That said, take note
+        that my review will be based on food alone.
+
+
+        This was our line-up: Bento Box (Salmon Teri/Chicken Teri/Cali Maki),
+        Salmon Teri with brown rice, Chicken Teri, and an order of their Shrimp
+        Tempura Roll. The salmon and chicken were cooked perfectly, and they
+        were both moist and flavorful in each of the individual orders. The
+        Shrimp Tempura Roll and the Cali Maki were probably the best I've had in
+        a while.
+
+
+        As the saying goes, "Don't knock it til you try it!" I'm givin' these
+        folks a solid 4 Stars! I may not have tried all the fancy rolls that
+        everyone has complained about, but for my pallet, everything we sampled
+        was on point! I will dine in next time so that I can update my review on
+        service and atmosphere
+      languageCode: en
+    originalText:
+      text: >-
+        I've been meaning to try this place out for a while now, however, that 3
+        Star rating wasn't too enticing. Since their competitors across the way
+        aren't on Grubhub, I figured it was worth shot! That said, take note
+        that my review will be based on food alone.
+
+
+        This was our line-up: Bento Box (Salmon Teri/Chicken Teri/Cali Maki),
+        Salmon Teri with brown rice, Chicken Teri, and an order of their Shrimp
+        Tempura Roll. The salmon and chicken were cooked perfectly, and they
+        were both moist and flavorful in each of the individual orders. The
+        Shrimp Tempura Roll and the Cali Maki were probably the best I've had in
+        a while.
+
+
+        As the saying goes, "Don't knock it til you try it!" I'm givin' these
+        folks a solid 4 Stars! I may not have tried all the fancy rolls that
+        everyone has complained about, but for my pallet, everything we sampled
+        was on point! I will dine in next time so that I can update my review on
+        service and atmosphere
+      languageCode: en
+    authorAttribution:
+      displayName: Robert Hipolito
+      uri: https://www.google.com/maps/contrib/105253875035911059160/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXKwWi6dDpejsXWuM53NGBTCljACpKaqPsmQ1HfsHSKv-_RSCo9Bw=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2021-04-17T20:39:48.524389Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNLMDhtUG9nRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNLMDhtUG9nRRAB!2m1!1s0x808e2d746a63f1ef:0x658582ad1138c267
+  - name: >-
+      places/ChIJ7_FjanQtjoARZ8I4Ea2ChWU/reviews/ChZDSUhNMG9nS0VJQ0FnSUNMb3N1WGJ3EAE
+    relativePublishTimeDescription: 10 months ago
+    rating: 1
+    text:
+      text: >-
+        I ordered online, expecting my order to be ready in 20 minutes as
+        stated. I arrived after 25 minutes, but was told it would be another 5
+        minutes. This repeated several times, and I ended up waiting in a
+        stuffy, airless restaurant for 50 minutes beyond the promised time.
+        Extremely disappointing experience. I won't be coming back.
+      languageCode: en
+    originalText:
+      text: >-
+        I ordered online, expecting my order to be ready in 20 minutes as
+        stated. I arrived after 25 minutes, but was told it would be another 5
+        minutes. This repeated several times, and I ended up waiting in a
+        stuffy, airless restaurant for 50 minutes beyond the promised time.
+        Extremely disappointing experience. I won't be coming back.
+      languageCode: en
+    authorAttribution:
+      displayName: Vicky
+      uri: https://www.google.com/maps/contrib/100921704658010104826/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVPeZBuZZnNA0MtLkjGSs7yZ1aWdTvFRHEjO3OKFgC1QOahxeGadg=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-06-17T05:25:16.112888Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNMb3N1WGJ3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNMb3N1WGJ3EAE!2m1!1s0x808e2d746a63f1ef:0x658582ad1138c267
+  - name: >-
+      places/ChIJ7_FjanQtjoARZ8I4Ea2ChWU/reviews/ChZDSUhNMG9nS0VJQ0FnSUNMaElLZWVnEAE
+    relativePublishTimeDescription: 10 months ago
+    rating: 5
+    text:
+      text: >-
+        The food was delicious. I loved the katsu. Normally I'm not a big fan of
+        katsu sauce but I loved this version of it. The staff are very friendly.
+        It was very nice eating at this restaurant.
+      languageCode: en
+    originalText:
+      text: >-
+        The food was delicious. I loved the katsu. Normally I'm not a big fan of
+        katsu sauce but I loved this version of it. The staff are very friendly.
+        It was very nice eating at this restaurant.
+      languageCode: en
+    authorAttribution:
+      displayName: Joseph Kearns
+      uri: https://www.google.com/maps/contrib/111701720891931525717/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJUQ2pOLk8ofn-WCkNZ5wbGFv1891F53Am0L-YCdWMb-NjD3w=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-06-15T03:59:11.903862Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNMaElLZWVnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNMaElLZWVnEAE!2m1!1s0x808e2d746a63f1ef:0x658582ad1138c267
+  - name: >-
+      places/ChIJ7_FjanQtjoARZ8I4Ea2ChWU/reviews/ChZDSUhNMG9nS0VJQ0FnSUMyOTh2Mlp3EAE
+    relativePublishTimeDescription: 3 years ago
+    rating: 5
+    text:
+      text: >-
+        We had Oyako Donburi
+
+
+        Chicken, onion, mushroom and egg. Garlic noodles and a California roll
+        all good.
+      languageCode: en
+    originalText:
+      text: >-
+        We had Oyako Donburi
+
+
+        Chicken, onion, mushroom and egg. Garlic noodles and a California roll
+        all good.
+      languageCode: en
+    authorAttribution:
+      displayName: James Sue
+      uri: https://www.google.com/maps/contrib/113971797330234059180/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUBFs4wW3-bVXEoA_FH6Qxan3bkU60Qilyp2sKcaEzMHfn5MD5I=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2022-05-01T02:56:28.030078Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUMyOTh2Mlp3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUMyOTh2Mlp3EAE!2m1!1s0x808e2d746a63f1ef:0x658582ad1138c267
+review_summary: >-
+  What Customers Are Saying About Truya Sushi$$$Folks often rave about the fresh
+  and flavorful sushi rolls and Japanese dishes at this spot, with many
+  highlighting tasty options like poke bowls and teriyaki for their generous
+  portions and quality ingredients. While some mention occasional waits or
+  service inconsistencies that could use a bit of smoothing out, the overall
+  vibe leans toward positive experiences with solid food execution. Diners
+  appreciate the variety of choices that cater to different tastes, making it a
+  reliable pick for casual get-togethers or quick meals. All in all, it's a
+  go-to for anyone hunting top-rated sushi nearby, offering a mostly enjoyable
+  experience that keeps the focus on what's good about the menu.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
+curbside_pickup: true
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
 good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: false
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

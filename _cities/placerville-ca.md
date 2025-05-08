@@ -5,4 +5,5 @@ permalink: /california/placerville/
 stateAbbr: CA
 stateName: California
 cityName: Placerville
+
 ---

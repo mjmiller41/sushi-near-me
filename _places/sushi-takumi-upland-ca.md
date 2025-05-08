@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Takumi"
+title: Sushi Takumi
 permalink: /california/upland/sushi-takumi.html
 stateAbbr: CA
 stateName: California
 cityName: Upland
 seo:
-  name: "Sushi Takumi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi Takumi serves delicious sushi in Upland, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ93bTSQwxw4ARlZoqvEZbWjY
 photos:
   - name: >-
@@ -185,7 +183,45 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Sushi Takumi in Upland, CA$$$Sushi Takumi in Upland, CA, stands out
+  as a welcoming all-you-can-eat destination for sushi enthusiasts seeking fresh
+  Japanese cuisine. This spot offers a diverse selection of creative rolls and
+  classic dishes, complemented by refreshing options like beer, wine, and sake,
+  making it ideal for casual gatherings or a satisfying solo meal. The
+  comfortable atmosphere enhances the experience, with accessibility features
+  that ensure everyone can enjoy the vibrant flavors without hassle. Whether
+  you're exploring top-rated sushi options in the area or looking for Japanese
+  places near you, this restaurant delivers a balance of quality and value that
+  keeps diners coming back. Its convenient location makes it a go-to choice for
+  anyone craving authentic tastes in a relaxed setting.
+generative_summary: >-
+  Discover Sushi Takumi in Upland, CA$$$Sushi Takumi in Upland, CA, stands out
+  as a welcoming all-you-can-eat destination for sushi enthusiasts seeking fresh
+  Japanese cuisine. This spot offers a diverse selection of creative rolls and
+  classic dishes, complemented by refreshing options like beer, wine, and sake,
+  making it ideal for casual gatherings or a satisfying solo meal. The
+  comfortable atmosphere enhances the experience, with accessibility features
+  that ensure everyone can enjoy the vibrant flavors without hassle. Whether
+  you're exploring top-rated sushi options in the area or looking for Japanese
+  places near you, this restaurant delivers a balance of quality and value that
+  keeps diners coming back. Its convenient location makes it a go-to choice for
+  anyone craving authentic tastes in a relaxed setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this sushi spot often praise the
+  affordable all-you-can-eat deals and the tasty variety of rolls that hit the
+  spot without breaking the bank. Folks appreciate the friendly team who go out
+  of their way to make the experience enjoyable, along with the spot's clean
+  vibe and lively music that adds to the fun. While some mention that waits for
+  food can stretch a bit during busy times, it's generally seen as a minor
+  trade-off for the overall great value. In general, the consensus leans
+  positive, with many highlighting it as a solid pick for groups or families
+  hunting for delicious options nearby. If you're on the hunt for reliable sushi
+  restaurants around Upland, this place earns nods for its honest flavors and
+  welcoming feel, making it worth a try for a casual bite.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +247,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

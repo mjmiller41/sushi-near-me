@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Oh My Sushi"
+title: Oh My Sushi
 permalink: /new-jersey/little-falls-township/oh-my-sushi.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Little Falls Township
 seo:
-  name: "Oh My Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.ohmysushinj.com/
-description: "Oh My Sushi serves delicious sushi in Little Falls Township, New Jersey. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJFT9peZIBw4kR4KYZxuMCREA
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 0
 website: https://www.ohmysushinj.com/
+description: >-
+  Discover Oh My Sushi in Little Falls Township, NJ$$$Oh My Sushi in Little
+  Falls Township, NJ, stands out as a welcoming spot for enjoying authentic
+  Japanese flavors in a relaxed environment. This sushi restaurant delights with
+  its fresh staples like tempura and gyoza, making it a go-to choice for those
+  seeking quality Japanese cuisine close to home. The casual setting features
+  accessible options such as wheelchair-friendly entrances and seating, ensuring
+  a comfortable visit for everyone. With thoughtful touches like dine-in and
+  takeout services, it's ideal for families or quick meals on the go. If you're
+  exploring top-rated sushi options nearby, this spot offers a satisfying blend
+  of affordability and taste that keeps diners coming back.
+generative_summary: >-
+  Discover Oh My Sushi in Little Falls Township, NJ$$$Oh My Sushi in Little
+  Falls Township, NJ, stands out as a welcoming spot for enjoying authentic
+  Japanese flavors in a relaxed environment. This sushi restaurant delights with
+  its fresh staples like tempura and gyoza, making it a go-to choice for those
+  seeking quality Japanese cuisine close to home. The casual setting features
+  accessible options such as wheelchair-friendly entrances and seating, ensuring
+  a comfortable visit for everyone. With thoughtful touches like dine-in and
+  takeout services, it's ideal for families or quick meals on the go. If you're
+  exploring top-rated sushi options nearby, this spot offers a satisfying blend
+  of affordability and taste that keeps diners coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJFT9peZIBw4kR4KYZxuMCREA/reviews/ChdDSUhNMG9nS0VJQ0FnSURuNS1xRnh3RRAB
@@ -328,6 +349,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUREcktyeXJnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUREcktyeXJnRRAB!2m1!1s0x89c3019279693f15:0x404402e3c619a6e0
+review_summary: >-
+  What Patrons Love About Oh My Sushi$$$Folks generally agree that the sushi
+  here hits the spot with its fresh ingredients and solid flavors, often
+  highlighting it as a reliable pick for everyday cravings. Many appreciate the
+  fair pricing and great lunch deals that make it easy to enjoy without breaking
+  the bank, while the cozy vibe adds a nice touch to the overall experience.
+  Service tends to be friendly and efficient, creating a welcoming atmosphere
+  that encourages repeat visits. Though a few mentions note minor surprises with
+  certain dishes, the positives like the fresh rolls and attentive staff far
+  outweigh any small hiccups. All in all, it's a solid choice for anyone hunting
+  for tasty sushi spots in the area, delivering a consistently enjoyable meal
+  that leaves customers satisfied.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeStreetParking: true
 payment_options:
@@ -358,7 +392,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

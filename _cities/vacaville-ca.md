@@ -5,4 +5,5 @@ permalink: /california/vacaville/
 stateAbbr: CA
 stateName: California
 cityName: Vacaville
+
 ---

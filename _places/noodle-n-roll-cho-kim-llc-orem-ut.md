@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Noodle-n-Roll/Cho&Kim LLC"
+title: Noodle-n-Roll/Cho&Kim LLC
 permalink: /utah/orem/noodle-n-roll-cho-kim-llc.html
 stateAbbr: UT
 stateName: Utah
 cityName: Orem
 seo:
-  name: "Noodle-n-Roll/Cho&Kim LLC"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Noodle-n-Roll/Cho&Kim LLC serves delicious sushi in Orem, Utah. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ9ztgH4ibTYcRZBBUlL1FYbw
 photos:
   - name: >-
@@ -169,7 +167,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x874d9b881f603bf7:0xbc6145bd94541064!10e5
 primary_type: Fast Food Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:00 PM'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -177,14 +225,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:00 PM'
     - 'Saturday: 11:00 AM – 9:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:00 AM – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 9:00 PM'
-    - 'Saturday: 11:00 AM – 9:00 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -194,37 +235,235 @@ secondary_opening_hours:
     type: null
 phone: (385) 225-5850
 price_level: PRICE_LEVEL_INEXPENSIVE
-price_range: $1 &ndash; $10
+price_range: $10 &ndash; $20
 rating: '4.7'
-rating_count: 0
+rating_count: 144
 website: null
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Noodle-n-Roll in Orem, UT$$$Nestled in Orem, UT, Noodle-n-Roll offers
+  a casual dining experience blending quick Asian flavors for those seeking
+  sushi restaurants near me. This spot specializes in fresh ramen, bibimbap, and
+  sushi options that cater to on-the-go meals, making it a convenient choice for
+  anyone exploring Japanese places near me. With wheelchair-accessible features
+  and a focus on affordable, satisfying bites, it's ideal for a relaxed meal in
+  a bustling food court setting. The menu highlights a mix of savory dishes that
+  deliver bold tastes without the wait, appealing to fans of top-rated sushi in
+  a fast-paced environment.
+generative_summary: >-
+  Discover Noodle-n-Roll in Orem, UT$$$Nestled in Orem, UT, Noodle-n-Roll offers
+  a casual dining experience blending quick Asian flavors for those seeking
+  sushi restaurants near me. This spot specializes in fresh ramen, bibimbap, and
+  sushi options that cater to on-the-go meals, making it a convenient choice for
+  anyone exploring Japanese places near me. With wheelchair-accessible features
+  and a focus on affordable, satisfying bites, it's ideal for a relaxed meal in
+  a bustling food court setting. The menu highlights a mix of savory dishes that
+  deliver bold tastes without the wait, appealing to fans of top-rated sushi in
+  a fast-paced environment.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ9ztgH4ibTYcRZBBUlL1FYbw/reviews/ChdDSUhNMG9nS0VJQ0FnTURvenZfbF93RRAB
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        The noodles here are amazing! Very savory, noodles cooked wonderfully
+        and no matter what protein you choose, it’s great! We love the customer
+        service as well as they always greet you with a warm smile. Atmosphere
+        is not the best as it’s in a mall food court.
+      languageCode: en
+    originalText:
+      text: >-
+        The noodles here are amazing! Very savory, noodles cooked wonderfully
+        and no matter what protein you choose, it’s great! We love the customer
+        service as well as they always greet you with a warm smile. Atmosphere
+        is not the best as it’s in a mall food court.
+      languageCode: en
+    authorAttribution:
+      displayName: Erika Ibonne
+      uri: https://www.google.com/maps/contrib/117667134246008845888/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWcZzr3nAvFOg00RZS4YrScCOzMQ9hGZZ_RKXqyG_Z8Xprvav3neA=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-04-25T00:32:37.058694Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURvenZfbF93RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURvenZfbF93RRAB!2m1!1s0x874d9b881f603bf7:0xbc6145bd94541064
+  - name: >-
+      places/ChIJ9ztgH4ibTYcRZBBUlL1FYbw/reviews/ChZDSUhNMG9nS0VJQ0FnSURIcXZQaVJREAE
+    relativePublishTimeDescription: 7 months ago
+    rating: 1
+    text:
+      text: >-
+        A bit run down spent 27 on a sushi roll and pork ramen with an extra
+        egg. The eggs are overcooked to the point they crumble rather than a
+        soft yolk and the roll is served with no soy sauce and falls apart since
+        it’s rolled in a machine. The pork in the ramen is overcooked to the
+        point of being dry like leather didn’t finish the sushi roll the fish
+        has a strange fishy aftertaste indicating it’s not fresh the broth
+        tastes off like it’s turned and gone bad and the shrimp has a strange
+        fishy smell also. I don’t recommend it to anyone
+      languageCode: en
+    originalText:
+      text: >-
+        A bit run down spent 27 on a sushi roll and pork ramen with an extra
+        egg. The eggs are overcooked to the point they crumble rather than a
+        soft yolk and the roll is served with no soy sauce and falls apart since
+        it’s rolled in a machine. The pork in the ramen is overcooked to the
+        point of being dry like leather didn’t finish the sushi roll the fish
+        has a strange fishy aftertaste indicating it’s not fresh the broth
+        tastes off like it’s turned and gone bad and the shrimp has a strange
+        fishy smell also. I don’t recommend it to anyone
+      languageCode: en
+    authorAttribution:
+      displayName: Bridger Gibb
+      uri: https://www.google.com/maps/contrib/117066914908844483002/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLJDzhcXxerYdkzh6vMYgn6YgToMPV6TL9aet-srhieG3ohSQ=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2024-09-14T18:30:43.656374Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURIcXZQaVJREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURIcXZQaVJREAE!2m1!1s0x874d9b881f603bf7:0xbc6145bd94541064
+  - name: >-
+      places/ChIJ9ztgH4ibTYcRZBBUlL1FYbw/reviews/ChdDSUhNMG9nS0VJQ0FnSURoaTVxTnB3RRAB
+    relativePublishTimeDescription: 2 years ago
+    rating: 5
+    text:
+      text: >-
+        Wonderful service and great food.  One of the best food court options.
+
+
+        I think the rolls were Spicy Tempura and Dragon.
+
+        Both were good, but not the among the best sushi locations, however at
+        $9 a roll they were better than expected.
+
+
+        The Ramen was just what we wanted and was quite filling.
+      languageCode: en
+    originalText:
+      text: >-
+        Wonderful service and great food.  One of the best food court options.
+
+
+        I think the rolls were Spicy Tempura and Dragon.
+
+        Both were good, but not the among the best sushi locations, however at
+        $9 a roll they were better than expected.
+
+
+        The Ramen was just what we wanted and was quite filling.
+      languageCode: en
+    authorAttribution:
+      displayName: Scabbers Adonys
+      uri: https://www.google.com/maps/contrib/105491645363731924162/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWgorAxwR3TsNosgvMqeWC1o2cLhD6xYissnPQYeZ-vL6jRvhkH=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2023-03-17T16:08:11.223675Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURoaTVxTnB3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURoaTVxTnB3RRAB!2m1!1s0x874d9b881f603bf7:0xbc6145bd94541064
+  - name: >-
+      places/ChIJ9ztgH4ibTYcRZBBUlL1FYbw/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRd0t5alp3EAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        Cho and Kim are so nice and the spicy tempura roll was delicious! I
+        watched them fry the shrimp in front of me. This is my go-to if I’m
+        eating at the food court. Great price for quality sushi 😁
+      languageCode: en
+    originalText:
+      text: >-
+        Cho and Kim are so nice and the spicy tempura roll was delicious! I
+        watched them fry the shrimp in front of me. This is my go-to if I’m
+        eating at the food court. Great price for quality sushi 😁
+      languageCode: en
+    authorAttribution:
+      displayName: Mikayla Asay
+      uri: https://www.google.com/maps/contrib/106843818946657326781/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWXIS3GZm0iHPrnk3nUR0h65kbrIXlqHAJt7xEzZdvHDimptVgv=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-03-01T01:38:27.973860Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNRd0t5alp3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNRd0t5alp3EAE!2m1!1s0x874d9b881f603bf7:0xbc6145bd94541064
+  - name: >-
+      places/ChIJ9ztgH4ibTYcRZBBUlL1FYbw/reviews/ChZDSUhNMG9nS0VJQ0FnSURfbXViN2NREAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        This place is ran by a Korean couple and so the food is authentic.   We
+        had the spicy ramen bowl which was really good.  Our whole family
+        thought it tasted amazing.  The prices are fairly reasonable too.  I
+        recommend coming here.
+      languageCode: en
+    originalText:
+      text: >-
+        This place is ran by a Korean couple and so the food is authentic.   We
+        had the spicy ramen bowl which was really good.  Our whole family
+        thought it tasted amazing.  The prices are fairly reasonable too.  I
+        recommend coming here.
+      languageCode: en
+    authorAttribution:
+      displayName: Jami Olsten
+      uri: https://www.google.com/maps/contrib/113184873869405141909/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocI8Sti7BlGl26LzsLiMmHXfUMEh2OpRvbe_F2svnX-hASMIug=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2025-01-23T13:02:42.147374Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURfbXViN2NREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURfbXViN2NREAE!2m1!1s0x874d9b881f603bf7:0xbc6145bd94541064
+review_summary: >-
+  What Customers Are Buzzing About$$$Visitors often rave about the flavorful
+  noodles and rolls that hit the spot for a quick, tasty meal, with many
+  appreciating the warm service and great value for sushi close to me. While
+  most feedback highlights the authentic Asian-inspired dishes and reasonable
+  prices that leave you feeling satisfied, a few notes mention occasional
+  inconsistencies with preparation to keep things real. Overall, the consensus
+  leans positive, praising the filling portions and friendly vibe that make it a
+  go-to for families and groups enjoying Japanese cuisine. If you're in the mood
+  for something simple yet delicious, this place generally delivers a solid
+  experience that keeps diners coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
 good_for_sports: null
 live_music: null
-menu_for_children: null
+menu_for_children: false
 outdoor_seating: null
 reservable: null
-restroom: null
-serves_beer: null
+restroom: true
+serves_beer: false
 serves_breakfast: null
 serves_brunch: null
 serves_cocktails: null
 serves_coffee: null
-serves_dinner: null
+serves_dinner: true
 serves_dessert: null
-serves_lunch: null
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: false
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

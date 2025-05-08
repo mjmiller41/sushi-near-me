@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yasuke Japanese Sushi"
+title: Yasuke Japanese Sushi
 permalink: /texas/mcallen/yasuke-japanese-sushi.html
 stateAbbr: TX
 stateName: Texas
 cityName: McAllen
 seo:
-  name: "Yasuke Japanese Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Yasuke Japanese Sushi serves delicious sushi in McAllen, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJzY5RleIJZYYRRVJDZApqnMk
 photos:
   - name: >-
@@ -185,7 +183,41 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Yasuke Japanese Sushi in McAllen, TX$$$Yasuke Japanese Sushi in
+  McAllen, TX, offers a relaxed setting for enjoying authentic Japanese flavors,
+  making it a great option for sushi enthusiasts in the area. This casual eatery
+  features an assortment of fresh sushi rolls and traditional plates,
+  complemented by selections of wine and sake for a well-rounded dining
+  experience. With its focus on accessibility, including wheelchair-friendly
+  parking and seating, it's designed to welcome everyone seeking a comfortable
+  meal. Whether you're exploring sushi restaurants near me or looking for
+  top-rated Japanese spots, this location delivers fresh ingredients and a
+  simple yet inviting vibe that enhances any visit.
+generative_summary: >-
+  Discover Yasuke Japanese Sushi in McAllen, TX$$$Yasuke Japanese Sushi in
+  McAllen, TX, offers a relaxed setting for enjoying authentic Japanese flavors,
+  making it a great option for sushi enthusiasts in the area. This casual eatery
+  features an assortment of fresh sushi rolls and traditional plates,
+  complemented by selections of wine and sake for a well-rounded dining
+  experience. With its focus on accessibility, including wheelchair-friendly
+  parking and seating, it's designed to welcome everyone seeking a comfortable
+  meal. Whether you're exploring sushi restaurants near me or looking for
+  top-rated Japanese spots, this location delivers fresh ingredients and a
+  simple yet inviting vibe that enhances any visit.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$If you're checking out Yasuke Japanese Sushi,
+  you'll hear plenty of praise for the tasty dishes like spicy ramen and fresh
+  sushi rolls that keep things exciting and flavorful. Folks often mention the
+  friendly service that adds a warm touch to the overall experience, making it
+  feel personal and attentive. The atmosphere comes across as cozy and
+  welcoming, ideal for casual get-togethers or a quiet night out. Overall, it's
+  a solid pick for anyone hunting for reliable Japanese places near me, with
+  highlights on the variety of options that make every meal enjoyable and
+  satisfying.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +243,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

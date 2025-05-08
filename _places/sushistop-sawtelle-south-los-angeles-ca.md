@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "SushiStop Sawtelle South"
+title: SushiStop Sawtelle South
 permalink: /california/los-angeles/sushistop-sawtelle-south.html
 stateAbbr: CA
 stateName: California
 cityName: Los Angeles
 seo:
-  name: "SushiStop Sawtelle South"
-  type: Restaurant
+  type: restaurant
   links: https://sushistop.com/locations/sawtelle-south/
-description: "SushiStop Sawtelle South serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJRa2NlQq7woARLQVaFJQsNOg
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c2bb0a958dad45:0xe8342c94145a052d!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 10:00 PM'
     - 'Tuesday: 11:30 AM – 10:00 PM'
     - 'Wednesday: 11:30 AM – 10:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 11:00 PM'
     - 'Saturday: 11:30 AM – 11:00 PM'
     - 'Sunday: 11:30 AM – 10:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 10:00 PM'
-    - 'Tuesday: 11:30 AM – 10:00 PM'
-    - 'Wednesday: 11:30 AM – 10:00 PM'
-    - 'Thursday: 11:30 AM – 10:00 PM'
-    - 'Friday: 11:30 AM – 11:00 PM'
-    - 'Saturday: 11:30 AM – 11:00 PM'
-    - 'Sunday: 11:30 AM – 10:00 PM'
+  nextCloseTime: '2025-05-04T06:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,291 @@ phone: (310) 479-1222
 price_level: PRICE_LEVEL_INEXPENSIVE
 price_range: $20 &ndash; $30
 rating: '4.0'
-rating_count: 0
+rating_count: 769
 website: https://sushistop.com/locations/sawtelle-south/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover SushiStop Sawtelle in Los Angeles$$$SushiStop Sawtelle South in Los
+  Angeles, CA, delivers a relaxed vibe for enjoying fresh Japanese-inspired
+  dishes in a welcoming setting. This spot highlights creative rolls and sashimi
+  alongside options like beer and sake, making it ideal for casual get-togethers
+  or a quick bite in the bustling Sawtelle area. With thoughtful touches like
+  wheelchair accessibility and outdoor seating, it caters to a variety of diners
+  seeking authentic flavors without the fuss. If you're exploring sushi
+  restaurants nearby, the affordable menu and lively atmosphere here provide a
+  solid choice for everyday indulgence.
+generative_summary: >-
+  Discover SushiStop Sawtelle in Los Angeles$$$SushiStop Sawtelle South in Los
+  Angeles, CA, delivers a relaxed vibe for enjoying fresh Japanese-inspired
+  dishes in a welcoming setting. This spot highlights creative rolls and sashimi
+  alongside options like beer and sake, making it ideal for casual get-togethers
+  or a quick bite in the bustling Sawtelle area. With thoughtful touches like
+  wheelchair accessibility and outdoor seating, it caters to a variety of diners
+  seeking authentic flavors without the fuss. If you're exploring sushi
+  restaurants nearby, the affordable menu and lively atmosphere here provide a
+  solid choice for everyday indulgence.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJRa2NlQq7woARLQVaFJQsNOg/reviews/ChdDSUhNMG9nS0VJQ0FnSUR2b2FLRGdBRRAB
+    relativePublishTimeDescription: 4 months ago
+    rating: 4
+    text:
+      text: >-
+        Love the causal ambiance though it can be quite loud when they turn up
+        the overhead music (maybe by accident?).  Food is still DECENT and it is
+        affordable for student pricing given how expensive sushi can be on the
+        west side. But yeah, portions seem smaller than before.
+
+
+        TIP: post on Instagram to get 10% off your bill and a free dessert! They
+        have this one the specials menu in each table but you just gotta show
+        your server =)
+
+
+        Staff is welcoming and the inside is still small with small tables along
+        the sides (mostly 2 seaters) and then many high chairs surrounding the
+        center chef sushi making stations.
+
+
+        Sadly, those amazing mini udon and mini curry bowls are NO more at the
+        South Sawtelle location :(
+
+
+        This still gets busy around lunch hour. But thankfully there is a free 2
+        hr multi level parking lot in the shared shopping center. But if you
+        want there’s always paid metered parking along Sawtelle.
+
+
+        Restrooms: 2 gender neutral ones.
+      languageCode: en
+    originalText:
+      text: >-
+        Love the causal ambiance though it can be quite loud when they turn up
+        the overhead music (maybe by accident?).  Food is still DECENT and it is
+        affordable for student pricing given how expensive sushi can be on the
+        west side. But yeah, portions seem smaller than before.
+
+
+        TIP: post on Instagram to get 10% off your bill and a free dessert! They
+        have this one the specials menu in each table but you just gotta show
+        your server =)
+
+
+        Staff is welcoming and the inside is still small with small tables along
+        the sides (mostly 2 seaters) and then many high chairs surrounding the
+        center chef sushi making stations.
+
+
+        Sadly, those amazing mini udon and mini curry bowls are NO more at the
+        South Sawtelle location :(
+
+
+        This still gets busy around lunch hour. But thankfully there is a free 2
+        hr multi level parking lot in the shared shopping center. But if you
+        want there’s always paid metered parking along Sawtelle.
+
+
+        Restrooms: 2 gender neutral ones.
+      languageCode: en
+    authorAttribution:
+      displayName: Viviana H
+      uri: https://www.google.com/maps/contrib/114951997175111348868/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJTwOq-iA6hYgOqfp9-73zbGczZFyGh5QYy35IFkPmx0dhFrmVP=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-12-21T05:17:05.323202Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR2b2FLRGdBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR2b2FLRGdBRRAB!2m1!1s0x80c2bb0a958dad45:0xe8342c94145a052d
+  - name: >-
+      places/ChIJRa2NlQq7woARLQVaFJQsNOg/reviews/ChZDSUhNMG9nS0VJQ0FnTURndzZ2NEtBEAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        Great sushi made by the master Carlos.
+
+        I am always happy to see him behind the counter because I know my sushi
+        will be perfect!
+
+        Great job! 👍
+      languageCode: en
+    originalText:
+      text: >-
+        Great sushi made by the master Carlos.
+
+        I am always happy to see him behind the counter because I know my sushi
+        will be perfect!
+
+        Great job! 👍
+      languageCode: en
+    authorAttribution:
+      displayName: P. Kay
+      uri: https://www.google.com/maps/contrib/108010465060801067727/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJWnSxJMSA7IHcyb6w-tYT5qZDTeilI1aQPot68C7HKU3ZFIA=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-02-27T01:44:00.062899Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURndzZ2NEtBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURndzZ2NEtBEAE!2m1!1s0x80c2bb0a958dad45:0xe8342c94145a052d
+  - name: >-
+      places/ChIJRa2NlQq7woARLQVaFJQsNOg/reviews/ChdDSUhNMG9nS0VJQ0FnSURQLTczRGpnRRAB
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        This place is great! The value is amazing and the atmosphere is really
+        authentic.
+
+        I had the teriyaki chicken plate.
+      languageCode: en
+    originalText:
+      text: >-
+        This place is great! The value is amazing and the atmosphere is really
+        authentic.
+
+        I had the teriyaki chicken plate.
+      languageCode: en
+    authorAttribution:
+      displayName: Carlos Mendez
+      uri: https://www.google.com/maps/contrib/110636662050735547238/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWAKrZEDfdwBu7IOQEaFe9KP6XEwbXnOFORXliO7T9DoEeqP6XHJA=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2024-12-06T00:00:06.738726Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURQLTczRGpnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURQLTczRGpnRRAB!2m1!1s0x80c2bb0a958dad45:0xe8342c94145a052d
+  - name: >-
+      places/ChIJRa2NlQq7woARLQVaFJQsNOg/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ1cXE3OEJnEAE
+    relativePublishTimeDescription: a year ago
+    rating: 2
+    text:
+      text: >-
+        I will start off with what I did order was great ! Dynamite Scallop
+        rolls , Shrimp rolls that were delicious and the udon was okay but the
+        rolls saved the day. As for service is why we won’t be back. Multiple
+        items on our order were forgotten because they were never rang in. They
+        also had drunk workers there drinking that were from a different
+        location that preceded to harass my fiancé and I trying to get us to
+        drink and take sake shots. My wife doesn’t drink and I’m practicing a
+        more sober life style and when no staff stepped in and laughed instead
+        it made things more frustrating when we kept telling him no. We were
+        left waiting for 20mins on food that never got put in and then for that
+        were told we’re going to get dessert.. bill came out and we were charged
+        for the dessert. After a long day at the office it was the last thing we
+        needed so we paid and left. Our server was no were to be seen and the
+        workers were in the back with the other drunk employees. Super
+        disappointed
+      languageCode: en
+    originalText:
+      text: >-
+        I will start off with what I did order was great ! Dynamite Scallop
+        rolls , Shrimp rolls that were delicious and the udon was okay but the
+        rolls saved the day. As for service is why we won’t be back. Multiple
+        items on our order were forgotten because they were never rang in. They
+        also had drunk workers there drinking that were from a different
+        location that preceded to harass my fiancé and I trying to get us to
+        drink and take sake shots. My wife doesn’t drink and I’m practicing a
+        more sober life style and when no staff stepped in and laughed instead
+        it made things more frustrating when we kept telling him no. We were
+        left waiting for 20mins on food that never got put in and then for that
+        were told we’re going to get dessert.. bill came out and we were charged
+        for the dessert. After a long day at the office it was the last thing we
+        needed so we paid and left. Our server was no were to be seen and the
+        workers were in the back with the other drunk employees. Super
+        disappointed
+      languageCode: en
+    authorAttribution:
+      displayName: Nova Giacalone
+      uri: https://www.google.com/maps/contrib/103502794026354383942/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXRHTEjwlhNo5ORoK3fO3-7_eJB902rfZW8B0fsXnzzHyPerBk=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2023-10-22T17:51:16.186333Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQ1cXE3OEJnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQ1cXE3OEJnEAE!2m1!1s0x80c2bb0a958dad45:0xe8342c94145a052d
+  - name: >-
+      places/ChIJRa2NlQq7woARLQVaFJQsNOg/reviews/ChZDSUhNMG9nS0VJQ0FnTURJdktQUlRBEAE
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 3
+    text:
+      text: >-
+        DO NOT ORDER THE UNI
+
+
+        I knew better. I did it anyway. Ordered on Uber eats. All the other
+        items were standard. Decent/good value like you expect from SushiStop.
+        The uni was listed as a *new* item and I fell for it. Tasted like
+        licking the inside of an aquarium that hasn't had its water changed in a
+        year. My dog wouldn't even eat it so I had to throw it in the trash
+      languageCode: en
+    originalText:
+      text: >-
+        DO NOT ORDER THE UNI
+
+
+        I knew better. I did it anyway. Ordered on Uber eats. All the other
+        items were standard. Decent/good value like you expect from SushiStop.
+        The uni was listed as a *new* item and I fell for it. Tasted like
+        licking the inside of an aquarium that hasn't had its water changed in a
+        year. My dog wouldn't even eat it so I had to throw it in the trash
+      languageCode: en
+    authorAttribution:
+      displayName: Gracie McAleer
+      uri: https://www.google.com/maps/contrib/116105351113704708569/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUmKyayf-loyUVCFqd-fAU-L512dTI7uEC05qNvEqByciMdxm0=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-08T06:12:43.308247Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURJdktQUlRBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJdktQUlRBEAE!2m1!1s0x80c2bb0a958dad45:0xe8342c94145a052d
+review_summary: >-
+  What Customers Are Saying About This Spot$$$Visitors frequently highlight the
+  fresh sushi and great value as standout features, making it a go-to for
+  affordable Japanese eats. While some note that portions can vary, the overall
+  taste and quick service keep the experience enjoyable for most. A few mentions
+  point to occasional service slip-ups, but these don't overshadow the generally
+  positive vibes from tasty dishes and a casual vibe. All in all, if you're on
+  the hunt for top-rated sushi options close by, this place offers a reliable
+  spot that balances fun and flavor without major drawbacks.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  paidStreetParking: true
+payment_options:
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
+curbside_pickup: false
+delivery: true
+dine_in: true
 good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: true
+reservable: false
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: false
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: false
+takeout: true
+update_category: atmosphere
+places_description: >-
+  This contemporary, laid-back spot offers an array of sashimi & creative maki,
+  plus Japanese beer.
 
 ---

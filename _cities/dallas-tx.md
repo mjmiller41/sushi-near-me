@@ -5,4 +5,5 @@ permalink: /texas/dallas/
 stateAbbr: TX
 stateName: Texas
 cityName: Dallas
+
 ---

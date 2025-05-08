@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi & Co Lexington Ave"
+title: Sushi & Co Lexington Ave
 permalink: /new-york/new-york/sushi-co-lexington-ave.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "Sushi & Co Lexington Ave"
-  type: Restaurant
-  links: null
-description: "Sushi & Co Lexington Ave serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.sushinco.com/
 place_id: ChIJC6IyZpRZwokRUPkkAhljCdI
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c259946632a20b:0xd20963190224f950!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 45
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 45
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 45
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 45
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 45
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 45
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 45
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:45 AM – 9:00 PM'
+    - 'Tuesday: 11:45 AM – 9:00 PM'
+    - 'Wednesday: 11:45 AM – 9:00 PM'
+    - 'Thursday: 11:45 AM – 9:00 PM'
+    - 'Friday: 11:45 AM – 9:00 PM'
+    - 'Saturday: 11:45 AM – 9:00 PM'
+    - 'Sunday: 11:45 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T01:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,49 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (646) 870-0006
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.5'
+rating_count: 324
+website: http://www.sushinco.com/
+description: >-
+  Discover Sushi & Co in New York, NY$$$Sushi & Co Lexington Ave in New York,
+  NY, stands out as a casual Japanese eatery perfect for those seeking fresh
+  sushi options in a vibrant urban setting. This spot offers an array of
+  creative sushi rolls, including a fun make-your-own feature, alongside
+  satisfying noodles and dumplings that cater to a variety of tastes. With its
+  welcoming atmosphere and focus on quality ingredients, it's an ideal choice
+  for anyone exploring top sushi restaurants in the city. The moderate pricing
+  makes it accessible for a quick lunch or dinner, while the daily hours ensure
+  it's easy to fit into your schedule. Whether you're in the mood for classic
+  rolls or something more adventurous, this location delivers a memorable dining
+  experience that highlights the best of Japanese cuisine.
+generative_summary: >-
+  Discover Sushi & Co in New York, NY$$$Sushi & Co Lexington Ave in New York,
+  NY, stands out as a casual Japanese eatery perfect for those seeking fresh
+  sushi options in a vibrant urban setting. This spot offers an array of
+  creative sushi rolls, including a fun make-your-own feature, alongside
+  satisfying noodles and dumplings that cater to a variety of tastes. With its
+  welcoming atmosphere and focus on quality ingredients, it's an ideal choice
+  for anyone exploring top sushi restaurants in the city. The moderate pricing
+  makes it accessible for a quick lunch or dinner, while the daily hours ensure
+  it's easy to fit into your schedule. Whether you're in the mood for classic
+  rolls or something more adventurous, this location delivers a memorable dining
+  experience that highlights the best of Japanese cuisine.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Folks frequently praise the flavorful udon dishes
+  loaded with dumplings and rice, along with the satisfying California rolls and
+  fresh omakase selections that keep things exciting. The staff comes across as
+  genuinely helpful and friendly, adding a warm touch to every visit. Many
+  appreciate the clean and charming vibe that makes the place feel inviting for
+  a casual meal. Overall, it's a solid pick for anyone hunting for reliable
+  Japanese spots, with the food consistently hitting the mark on taste and
+  freshness. If you're on the lookout for great sushi nearby, this spot often
+  leaves diners feeling pleased with their choice.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +310,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Train"
+title: Sushi Train
 permalink: /colorado/denver/sushi-train.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Denver
 seo:
-  name: "Sushi Train"
-  type: Restaurant
+  type: restaurant
   links: https://facebook.com/SushiTraindenver
-description: "Sushi Train serves delicious sushi in Denver, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJo3St02mHbIcR0xVZsKBxlLA
 photos:
   - name: >-
@@ -170,7 +168,113 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x876c8769d3ad74a3:0xb09471a0b05915d3!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 16
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 14
+        minute: 30
+    - open:
+        day: 6
+        hour: 16
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 2:30 PM, 4:30 – 10:00 PM'
     - 'Tuesday: 11:30 AM – 2:30 PM, 4:30 – 10:00 PM'
     - 'Wednesday: 11:30 AM – 2:30 PM, 4:30 – 10:00 PM'
@@ -178,54 +282,376 @@ opening_hours:
     - 'Friday: 11:30 AM – 2:30 PM, 4:30 – 10:00 PM'
     - 'Saturday: 11:30 AM – 2:30 PM, 4:30 – 10:00 PM'
     - 'Sunday: 4:30 – 9:30 PM'
-  current:
-    - 'Monday: 11:30 AM – 2:30 PM, 4:30 – 10:00 PM'
-    - 'Tuesday: 11:30 AM – 2:30 PM, 4:30 – 10:00 PM'
-    - 'Wednesday: 11:30 AM – 2:30 PM, 4:30 – 10:00 PM'
-    - 'Thursday: 11:30 AM – 2:30 PM, 4:30 – 10:00 PM'
-    - 'Friday: 11:30 AM – 2:30 PM, 4:30 – 10:00 PM'
-    - 'Saturday: 11:30 AM – 2:30 PM, 4:30 – 10:00 PM'
-    - 'Sunday: 4:30 – 9:30 PM'
+  nextOpenTime: '2025-05-03T22:30:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 16
+          minute: 30
+        close:
+          day: 0
+          hour: 21
+          minute: 0
+      - open:
+          day: 1
+          hour: 12
+          minute: 0
+        close:
+          day: 1
+          hour: 21
+          minute: 0
+      - open:
+          day: 2
+          hour: 12
+          minute: 0
+        close:
+          day: 2
+          hour: 21
+          minute: 0
+      - open:
+          day: 3
+          hour: 12
+          minute: 0
+        close:
+          day: 3
+          hour: 21
+          minute: 0
+      - open:
+          day: 4
+          hour: 12
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 0
+      - open:
+          day: 5
+          hour: 12
+          minute: 0
+        close:
+          day: 5
+          hour: 21
+          minute: 0
+      - open:
+          day: 6
+          hour: 12
+          minute: 0
+        close:
+          day: 6
+          hour: 21
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 12:00 – 9:00 PM'
+      - 'Tuesday: 12:00 – 9:00 PM'
+      - 'Wednesday: 12:00 – 9:00 PM'
+      - 'Thursday: 12:00 – 9:00 PM'
+      - 'Friday: 12:00 – 9:00 PM'
+      - 'Saturday: 12:00 – 9:00 PM'
+      - 'Sunday: 4:30 – 9:00 PM'
+    secondaryHoursType: TAKEOUT
+    nextCloseTime: '2025-05-04T03:00:00Z'
 phone: (303) 756-0708
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.3'
-rating_count: 0
+rating_count: 1362
 website: https://facebook.com/SushiTraindenver
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Sushi Train in Denver, CO$$$Sushi Train in Denver, CO, stands out as
+  a casual Japanese spot where fresh sushi glides along a conveyor belt or toy
+  train, offering an engaging way to enjoy all-you-can-eat options. This
+  top-rated sushi restaurant features a diverse selection of rolls and hot
+  mains, making it a go-to choice for anyone searching for authentic Japanese
+  flavors in a relaxed setting. With accessibility options like
+  wheelchair-friendly entrances and parking, it's designed to welcome everyone,
+  enhancing the overall dining experience. The spot operates with convenient
+  hours, including lunch and dinner services, perfect for those looking for
+  sushi places near me that fit into a busy schedule. Its moderate pricing adds
+  to the appeal, providing great value for quality meals in the heart of the
+  city.
+generative_summary: >-
+  Discover Sushi Train in Denver, CO$$$Sushi Train in Denver, CO, stands out as
+  a casual Japanese spot where fresh sushi glides along a conveyor belt or toy
+  train, offering an engaging way to enjoy all-you-can-eat options. This
+  top-rated sushi restaurant features a diverse selection of rolls and hot
+  mains, making it a go-to choice for anyone searching for authentic Japanese
+  flavors in a relaxed setting. With accessibility options like
+  wheelchair-friendly entrances and parking, it's designed to welcome everyone,
+  enhancing the overall dining experience. The spot operates with convenient
+  hours, including lunch and dinner services, perfect for those looking for
+  sushi places near me that fit into a busy schedule. Its moderate pricing adds
+  to the appeal, providing great value for quality meals in the heart of the
+  city.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJo3St02mHbIcR0xVZsKBxlLA/reviews/ChdDSUhNMG9nS0VJQ0FnTUNnd052ZDJBRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        Went there for dinner AYCE with hubby. Sushi are delicious and our
+        waiter is super nice. The selection list is kinda long that it took us
+        for a while to decide what to order. Lol. For dinner, we can order most
+        of specialty rolls. If not on that piece of paper, you can just write on
+        memo area. I think 2-3 special rolls does cost extra but since we have
+        so many options, it doesn't really matter. We did order other dishes and
+        dessert (not part of AYCE menu)on the top of AYCE. They all taste really
+        good. Definitely will come back! The downside probably is inside a
+        little bit outdated but food is good so i can ignore that part😝😝😝
+      languageCode: en
+    originalText:
+      text: >-
+        Went there for dinner AYCE with hubby. Sushi are delicious and our
+        waiter is super nice. The selection list is kinda long that it took us
+        for a while to decide what to order. Lol. For dinner, we can order most
+        of specialty rolls. If not on that piece of paper, you can just write on
+        memo area. I think 2-3 special rolls does cost extra but since we have
+        so many options, it doesn't really matter. We did order other dishes and
+        dessert (not part of AYCE menu)on the top of AYCE. They all taste really
+        good. Definitely will come back! The downside probably is inside a
+        little bit outdated but food is good so i can ignore that part😝😝😝
+      languageCode: en
+    authorAttribution:
+      displayName: yuchih chih
+      uri: https://www.google.com/maps/contrib/103830504088260710282/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjW6Hlsa4xYx24pPlFA2hyqpK_HHcnVLtfAIqUlM4NcQchEPBeUt=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-02-13T07:36:52.167517Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNnd052ZDJBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNnd052ZDJBRRAB!2m1!1s0x876c8769d3ad74a3:0xb09471a0b05915d3
+  - name: >-
+      places/ChIJo3St02mHbIcR0xVZsKBxlLA/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3eUpiWlhREAE
+    relativePublishTimeDescription: a month ago
+    rating: 4
+    text:
+      text: >-
+        Such a fun and unique place to enjoy sushi. Brought my daughter for the
+        first time and she has been begging to come back ever since. The service
+        is always super friendly and attentive.
+      languageCode: en
+    originalText:
+      text: >-
+        Such a fun and unique place to enjoy sushi. Brought my daughter for the
+        first time and she has been begging to come back ever since. The service
+        is always super friendly and attentive.
+      languageCode: en
+    authorAttribution:
+      displayName: Phil Beachler
+      uri: https://www.google.com/maps/contrib/107136638152512801800/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJQgOj7F0eZ_UXP1k9vVOOzNPyCC8yPzu3vyUB-cZadgQSvJA=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-03-23T03:17:49.337278Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUR3eUpiWlhREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUR3eUpiWlhREAE!2m1!1s0x876c8769d3ad74a3:0xb09471a0b05915d3
+  - name: >-
+      places/ChIJo3St02mHbIcR0xVZsKBxlLA/reviews/ChdDSUhNMG9nS0VJQ0FnSUNicTVUb3JBRRAB
+    relativePublishTimeDescription: 9 months ago
+    rating: 1
+    text:
+      text: >-
+        We accidentally parked in the "back" so we tried to go around to the
+        opposite side which we thought would be the front. But it was a side
+        entrance. Lol. Upon entering, the restaurant seem dark and dirty. We sat
+        at the bar because that's where the choo choo train was that delivered
+        the sushi.  We were given a full menu and a paper menu to mark our items
+        on. For the lunch price of $19.99, you're not entitled to any of the
+        specialty roles unless you pay $3 extra per roll. I won't be coming back
+        for lunch if I ever come back. Dinner is obviously the better value if
+        you like specialty rolls, AKA the high priced rolls. I ordered two
+        individual pieces and the rice was quite dry and the octopus was chewy. 
+        The California rolls that we ordered had rice that was a bit more moist
+        but still not what it should be. All of the rolls were pretty boring and
+        pretty basic for the lunch menu price except for the Hampton roll which,
+        surprise, was warm, but it had two different sauces on it that finally
+        had some flavor. The fried tempura was heavily coated and very greasy.
+        Traditional Japanese tempura should not be greasy. The first round of
+        fried tempura included perfectly cooked shrimp, but the second round had
+        overcooked shrimp. The edamame was good. The gyoza was okay and super
+        scalding as it just came out of the fryer. The chicken katsu was crunchy
+        but not very tasty and the beef teriyaki was tasty but a little dry and
+        overcooked. There were no desserts on the all you can eat menu. Again,
+        not bad for 20 bucks a person for all you can eat but not delicious.  I
+        left full though because I didn't want to pay for my leftovers.  We only
+        got to experience the train one time. The the rest of the time the sushi
+        chefs just handed us our food over the counter which was disappointing
+        because we went for the train experience. Also, it didn't appear that
+        the chefs were well trained. It look like amateur hour behind the bar.
+        Two of them were brand new and were asking very bizarre questions. None
+        of the five people behind the bar were sociable enough to even say a
+        single word to us. And the two waiters didn't seem like they were able
+        to communicate with the men behind the bar. It was an uncomfortable
+        atmosphere for sure.
+      languageCode: en
+    originalText:
+      text: >-
+        We accidentally parked in the "back" so we tried to go around to the
+        opposite side which we thought would be the front. But it was a side
+        entrance. Lol. Upon entering, the restaurant seem dark and dirty. We sat
+        at the bar because that's where the choo choo train was that delivered
+        the sushi.  We were given a full menu and a paper menu to mark our items
+        on. For the lunch price of $19.99, you're not entitled to any of the
+        specialty roles unless you pay $3 extra per roll. I won't be coming back
+        for lunch if I ever come back. Dinner is obviously the better value if
+        you like specialty rolls, AKA the high priced rolls. I ordered two
+        individual pieces and the rice was quite dry and the octopus was chewy. 
+        The California rolls that we ordered had rice that was a bit more moist
+        but still not what it should be. All of the rolls were pretty boring and
+        pretty basic for the lunch menu price except for the Hampton roll which,
+        surprise, was warm, but it had two different sauces on it that finally
+        had some flavor. The fried tempura was heavily coated and very greasy.
+        Traditional Japanese tempura should not be greasy. The first round of
+        fried tempura included perfectly cooked shrimp, but the second round had
+        overcooked shrimp. The edamame was good. The gyoza was okay and super
+        scalding as it just came out of the fryer. The chicken katsu was crunchy
+        but not very tasty and the beef teriyaki was tasty but a little dry and
+        overcooked. There were no desserts on the all you can eat menu. Again,
+        not bad for 20 bucks a person for all you can eat but not delicious.  I
+        left full though because I didn't want to pay for my leftovers.  We only
+        got to experience the train one time. The the rest of the time the sushi
+        chefs just handed us our food over the counter which was disappointing
+        because we went for the train experience. Also, it didn't appear that
+        the chefs were well trained. It look like amateur hour behind the bar.
+        Two of them were brand new and were asking very bizarre questions. None
+        of the five people behind the bar were sociable enough to even say a
+        single word to us. And the two waiters didn't seem like they were able
+        to communicate with the men behind the bar. It was an uncomfortable
+        atmosphere for sure.
+      languageCode: en
+    authorAttribution:
+      displayName: Catloverinvegas L
+      uri: https://www.google.com/maps/contrib/107681249224851893391/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJZQ2Sw2P2Qrf47PjyuVkKQSvBtAIOR60vI-xbFGPvevWgNvg=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-07-30T01:07:19.596663Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNicTVUb3JBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNicTVUb3JBRRAB!2m1!1s0x876c8769d3ad74a3:0xb09471a0b05915d3
+  - name: >-
+      places/ChIJo3St02mHbIcR0xVZsKBxlLA/reviews/ChdDSUhNMG9nS0VJQ0FnSURKNUtLYXZ3RRAB
+    relativePublishTimeDescription: a year ago
+    rating: 4
+    text:
+      text: >-
+        This place is actually REALLY good! I'm definitely going back. I'm
+        pretty picky, but the chefs prepared my sushi as I requested with no
+        issues. I loved it. They did a phenomenal job, and the waitress was
+        great. Sushi Train has a large selection of food, and the Train toy was
+        a plus to see.
+
+
+        Enjoy
+      languageCode: en
+    originalText:
+      text: >-
+        This place is actually REALLY good! I'm definitely going back. I'm
+        pretty picky, but the chefs prepared my sushi as I requested with no
+        issues. I loved it. They did a phenomenal job, and the waitress was
+        great. Sushi Train has a large selection of food, and the Train toy was
+        a plus to see.
+
+
+        Enjoy
+      languageCode: en
+    authorAttribution:
+      displayName: Terrance Kelly
+      uri: https://www.google.com/maps/contrib/105795081432460824968/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUL_UEDxS9AJHoQAu3IXD4nXdWdSyqs1Ynm5FIWcpg45wL96yMM=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2023-07-11T10:10:38.619937Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURKNUtLYXZ3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURKNUtLYXZ3RRAB!2m1!1s0x876c8769d3ad74a3:0xb09471a0b05915d3
+  - name: >-
+      places/ChIJo3St02mHbIcR0xVZsKBxlLA/reviews/ChdDSUhNMG9nS0VJQ0FnTUNBcWUtSGpBRRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        We came with our children for our son's birthday and had a lovely time.
+        We were able to sit at the counter and watch the chefs, and see the
+        little train deliver our food. They had a half-price all you can eat
+        sushi deal for children, and my husband had the all-you-can-eat option
+        for adults. We all loved our food and the staff were very kind and
+        welcoming. I had some questions about ingredients and the waiter was
+        patient and helpful. We will be back again! Thank you very much!
+      languageCode: en
+    originalText:
+      text: >-
+        We came with our children for our son's birthday and had a lovely time.
+        We were able to sit at the counter and watch the chefs, and see the
+        little train deliver our food. They had a half-price all you can eat
+        sushi deal for children, and my husband had the all-you-can-eat option
+        for adults. We all loved our food and the staff were very kind and
+        welcoming. I had some questions about ingredients and the waiter was
+        patient and helpful. We will be back again! Thank you very much!
+      languageCode: en
+    authorAttribution:
+      displayName: E S
+      uri: https://www.google.com/maps/contrib/106059039011321706018/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLqGtEVSbq7LyceH4G-qD_INBNYuL6Eil2QxdAUxHpJfGbSHA=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-02-02T04:13:16.215476Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNBcWUtSGpBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNBcWUtSGpBRRAB!2m1!1s0x876c8769d3ad74a3:0xb09471a0b05915d3
+review_summary: >-
+  What Customers Are Buzzing About$$$Visitors often rave about the fresh and
+  flavorful sushi at this spot, highlighting the all-you-can-eat deals as a fun
+  and satisfying way to try a variety of rolls without breaking the bank. Many
+  appreciate the friendly service and interactive train delivery system, which
+  adds a playful touch to meals and makes it a hit for families or groups
+  seeking Japanese places near me. While the atmosphere gets mixed feedback,
+  with some noting it's a bit dated, the overall value and taste keep people
+  coming back for more. Folks frequently mention the reasonable prices and
+  generous portions as standout features, making it easy to recommend for anyone
+  on the hunt for best sushi near me. All in all, it's a solid pick for a casual
+  outing, with the positives far outweighing any minor drawbacks.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
+delivery: true
+dine_in: true
 good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
+good_for_groups: true
+good_for_sports: false
+live_music: false
 menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Diverse sushi & sashimi on a conveyor belt, plus hot Japanese mains, at a
+  straightforward chain.
 
 ---

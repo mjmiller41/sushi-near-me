@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Katana Pittsburgh"
+title: Katana Pittsburgh
 permalink: /pennsylvania/pittsburgh/katana-pittsburgh.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Pittsburgh
 seo:
-  name: "Katana Pittsburgh"
-  type: Restaurant
-  links: null
-description: "Katana Pittsburgh serves delicious sushi in Pittsburgh, Pennsylvania. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.katanapa.com/
 place_id: ChIJVVVVVQn3NIgRT3nwUqQnoTk
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8834f70955555555:0x39a127a452f0794f!10e5
 primary_type: Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:30 PM'
+    - 'Tuesday: 11:00 AM – 9:30 PM'
+    - 'Wednesday: 11:00 AM – 9:30 PM'
+    - 'Thursday: 11:00 AM – 9:30 PM'
+    - 'Friday: 11:00 AM – 10:30 PM'
+    - 'Saturday: 11:00 AM – 10:30 PM'
+    - 'Sunday: 12:00 – 9:30 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,48 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (412) 388-1800
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '3.9'
+rating_count: 369
+website: https://www.katanapa.com/
+description: >-
+  Explore Katana Pittsburgh$$$Katana Pittsburgh in Pittsburgh, PA, stands out as
+  a welcoming sushi restaurant offering a blend of fresh Japanese flavors and
+  more. This spot features an all-you-can-eat sushi option that appeals to those
+  seeking variety in their meals, complemented by Chinese dishes and
+  hibachi-style cooking for a diverse dining experience. The restaurant
+  prioritizes accessibility with features like wheelchair-friendly entrances and
+  seating, making it easy for everyone to enjoy. Its convenient hours cater to
+  lunch and dinner crowds looking for sushi places near me, ensuring a relaxed
+  atmosphere for casual visits or group outings. With moderate pricing, it's an
+  ideal choice for anyone exploring top-rated sushi in the area.
+generative_summary: >-
+  Explore Katana Pittsburgh$$$Katana Pittsburgh in Pittsburgh, PA, stands out as
+  a welcoming sushi restaurant offering a blend of fresh Japanese flavors and
+  more. This spot features an all-you-can-eat sushi option that appeals to those
+  seeking variety in their meals, complemented by Chinese dishes and
+  hibachi-style cooking for a diverse dining experience. The restaurant
+  prioritizes accessibility with features like wheelchair-friendly entrances and
+  seating, making it easy for everyone to enjoy. Its convenient hours cater to
+  lunch and dinner crowds looking for sushi places near me, ensuring a relaxed
+  atmosphere for casual visits or group outings. With moderate pricing, it's an
+  ideal choice for anyone exploring top-rated sushi in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback Highlights$$$Visitors to this sushi restaurant often rave
+  about the generous portions and flavorful all-you-can-eat deals, making it a
+  go-to for affordable Japanese cuisine. Many appreciate the fresh ingredients
+  and variety of rolls, which keep things exciting for sushi lovers stopping by.
+  While some note that service can vary depending on the time, the overall vibe
+  remains upbeat and family-friendly, encouraging repeat trips for quick bites.
+  Folks frequently mention the solid value for money, positioning it as one of
+  the reliable sushi restaurants near me for everyday dining. All in all, it's a
+  spot that delivers on taste and convenience, with most agreeing it's worth
+  checking out for a satisfying meal.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +309,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

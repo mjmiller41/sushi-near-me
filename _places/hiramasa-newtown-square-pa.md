@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Hiramasa"
+title: Hiramasa
 permalink: /pennsylvania/newtown-square/hiramasa.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Newtown Square
 seo:
-  name: "Hiramasa"
-  type: Restaurant
+  type: restaurant
   links: https://www.hiramasapa.com/
-description: "Hiramasa serves delicious sushi in Newtown Square, Pennsylvania. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJo1rtnFvrxokRVTvQe_Nuihk
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $50 &ndash; $100
 rating: '4.6'
 rating_count: 0
 website: https://www.hiramasapa.com/
+description: >-
+  Discover Hiramasa in Newtown Square, PA$$$Hiramasa in Newtown Square, PA,
+  stands out as a premier destination for Japanese dining, blending fresh
+  ingredients and elegant presentation in a welcoming atmosphere. This spot
+  excels with its thoughtful accessibility features, including
+  wheelchair-friendly options and outdoor seating, making it easy for everyone
+  to enjoy top-rated sushi options nearby. Diners can savor a variety of refined
+  dishes, from expertly crafted rolls to seasonal specials, paired with a
+  selection of cocktails and wines that enhance the overall experience. The
+  modern, sophisticated vibe, complete with convenient parking and a focus on
+  quality, positions it as an ideal choice for those searching for sushi
+  restaurants near me that prioritize both flavor and comfort.
+generative_summary: >-
+  Discover Hiramasa in Newtown Square, PA$$$Hiramasa in Newtown Square, PA,
+  stands out as a premier destination for Japanese dining, blending fresh
+  ingredients and elegant presentation in a welcoming atmosphere. This spot
+  excels with its thoughtful accessibility features, including
+  wheelchair-friendly options and outdoor seating, making it easy for everyone
+  to enjoy top-rated sushi options nearby. Diners can savor a variety of refined
+  dishes, from expertly crafted rolls to seasonal specials, paired with a
+  selection of cocktails and wines that enhance the overall experience. The
+  modern, sophisticated vibe, complete with convenient parking and a focus on
+  quality, positions it as an ideal choice for those searching for sushi
+  restaurants near me that prioritize both flavor and comfort.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJo1rtnFvrxokRVTvQe_Nuihk/reviews/ChdDSUhNMG9nS0VJQ0FnTURRZ2QyZzVRRRAB
@@ -404,6 +427,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNRM283QklnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNRM283QklnEAE!2m1!1s0x89c6eb5b9ced5aa3:0x198a6ef37bd03b55
+review_summary: >-
+  What Customers Love About Hiramasa$$$Visitors consistently praise Hiramasa for
+  its fresh and flavorful sushi selections, often highlighting standout dishes
+  that bring a creative twist to classic Japanese favorites. Many appreciate the
+  welcoming atmosphere and attentive service, which make it a go-to spot for
+  special occasions or casual evenings out. Feedback often notes the
+  restaurant's ability to accommodate preferences, ensuring meals feel
+  personalized and enjoyable without any hitches. Overall, it's described as a
+  reliable pick for anyone craving best sushi near me, with a balance of quality
+  ingredients and a relaxed vibe that keeps people coming back. Though a few
+  mention it's on the upscale side, the general consensus is that it delivers a
+  satisfying and memorable dining experience every time.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
 payment_options:
@@ -433,7 +469,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

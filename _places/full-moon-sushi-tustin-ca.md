@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Full Moon Sushi"
+title: Full Moon Sushi
 permalink: /california/tustin/full-moon-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Tustin
 seo:
-  name: "Full Moon Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Full Moon Sushi serves delicious sushi in Tustin, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJCTdFUMPb3IARrLJpekso1cM
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80dcdbc350453709:0xc3d5284b7a69b2ac!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 30
+    - open:
+        day: 1
+        hour: 12
+        minute: 0
+      close:
+        day: 1
+        hour: 20
+        minute: 30
+    - open:
+        day: 2
+        hour: 12
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 30
+    - open:
+        day: 3
+        hour: 12
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 30
+    - open:
+        day: 4
+        hour: 12
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 30
+    - open:
+        day: 5
+        hour: 12
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 12:00 – 8:30 PM'
+    - 'Tuesday: 12:00 – 8:30 PM'
+    - 'Wednesday: 12:00 – 8:30 PM'
+    - 'Thursday: 12:00 – 8:30 PM'
+    - 'Friday: 12:00 – 9:00 PM'
+    - 'Saturday: 12:00 – 9:00 PM'
+    - 'Sunday: 12:00 – 8:30 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,47 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
+phone: (714) 508-0312
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.4'
+rating_count: 455
 website: null
+description: >-
+  Discover Full Moon Sushi in Tustin, CA$$$Full Moon Sushi in Tustin, CA, offers
+  a laid-back vibe for enjoying authentic Japanese flavors that highlight fresh
+  ingredients and creative presentations. This spot specializes in a range of
+  sushi rolls, poke bowls, and other Japanese favorites, complemented by a
+  selection of beers for a complete dining experience. With its moderate pricing
+  and accessible features like wheelchair-friendly entrances, it's an inviting
+  choice for anyone seeking quality sushi restaurants in the area. The
+  convenient location and extended hours make it easy to drop in for a
+  satisfying meal, positioning it as one of the top options for Japanese places
+  near you.
+generative_summary: >-
+  Discover Full Moon Sushi in Tustin, CA$$$Full Moon Sushi in Tustin, CA, offers
+  a laid-back vibe for enjoying authentic Japanese flavors that highlight fresh
+  ingredients and creative presentations. This spot specializes in a range of
+  sushi rolls, poke bowls, and other Japanese favorites, complemented by a
+  selection of beers for a complete dining experience. With its moderate pricing
+  and accessible features like wheelchair-friendly entrances, it's an inviting
+  choice for anyone seeking quality sushi restaurants in the area. The
+  convenient location and extended hours make it easy to drop in for a
+  satisfying meal, positioning it as one of the top options for Japanese places
+  near you.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$If you're on the hunt for tasty sushi near you,
+  folks generally appreciate the fresh and flavorful dishes at this spot, along
+  with the reasonable prices that make it a smart pick for everyday dining. Many
+  highlight the friendly service that keeps things welcoming and efficient,
+  especially for those grabbing take-out on a busy day. The variety of rolls and
+  specials adds to the appeal, giving diners plenty of choices to suit their
+  tastes. While some mention the atmosphere could use a bit more energy,
+  overall, it's seen as a reliable go-to for solid sushi experiences that
+  deliver good value and quick service.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +308,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

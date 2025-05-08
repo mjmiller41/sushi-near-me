@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "I Love Mr Sushi"
+title: I Love Mr Sushi
 permalink: /missouri/st-louis/i-love-mr-sushi.html
 stateAbbr: MO
 stateName: Missouri
 cityName: St. Louis
 seo:
-  name: "I Love Mr Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://mrsushistl.com/
-description: "Japanese fare from sushi to noodles is offered in this chic, ocean-themed spot with a full bar. I Love Mr Sushi serves delicious sushi in St. Louis, Missouri. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ8U69T2cz34cRNrEEXhtps6U
 photos:
   - name: >-
@@ -185,6 +183,27 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 0
 website: http://mrsushistl.com/
+description: >-
+  Discover I Love Mr Sushi in St. Louis, MO$$$I Love Mr Sushi in St. Louis, MO,
+  stands out as a welcoming Japanese eatery serving fresh sushi and other
+  classic dishes in a laid-back, ocean-inspired atmosphere. This spot highlights
+  a variety of flavorful options, from creative rolls to comforting noodles, all
+  crafted to appeal to sushi lovers seeking quality and variety. With a full bar
+  adding to the casual vibe, it's an ideal choice for those exploring Japanese
+  places near them. The restaurant emphasizes accessibility features, ensuring a
+  comfortable experience for everyone, while maintaining an affordable price
+  range that makes it a go-to for tasty meals in the area.
+generative_summary: >-
+  Discover I Love Mr Sushi in St. Louis, MO$$$I Love Mr Sushi in St. Louis, MO,
+  stands out as a welcoming Japanese eatery serving fresh sushi and other
+  classic dishes in a laid-back, ocean-inspired atmosphere. This spot highlights
+  a variety of flavorful options, from creative rolls to comforting noodles, all
+  crafted to appeal to sushi lovers seeking quality and variety. With a full bar
+  adding to the casual vibe, it's an ideal choice for those exploring Japanese
+  places near them. The restaurant emphasizes accessibility features, ensuring a
+  comfortable experience for everyone, while maintaining an affordable price
+  range that makes it a go-to for tasty meals in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ8U69T2cz34cRNrEEXhtps6U/reviews/ChZDSUhNMG9nS0VJQ0FnSURfcHVtdkVBEAE
@@ -386,6 +405,17 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNsM2VPaE5REAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNsM2VPaE5REAE!2m1!1s0x87df33674fbd4ef1:0xa5b3691b5e04b136
+review_summary: >-
+  What Diners Are Saying About This Sushi Spot$$$Diners often rave about the
+  fresh and generous sushi rolls, noting the wide selection and quick service
+  that make it a reliable choice for casual meals. While a few mentions point to
+  occasional inconsistencies with service or specific items, the overall
+  feedback leans toward positive experiences with friendly staff and delicious
+  flavors. Many appreciate the affordability and variety, turning it into a
+  favorite for those hunting for top-rated sushi nearby. In general, it's a spot
+  that delivers satisfying Japanese fare, encouraging visitors to return for
+  more enjoyable dining moments.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -418,8 +448,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Japanese fare from sushi to noodles is offered in this chic, ocean-themed spot
   with a full bar.
 

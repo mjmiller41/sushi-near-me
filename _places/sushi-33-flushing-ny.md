@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi 33"
+title: Sushi 33
 permalink: /new-york/flushing/sushi-33.html
 stateAbbr: NY
 stateName: New York
 cityName: Flushing
 seo:
-  name: "Sushi 33"
-  type: Restaurant
+  type: restaurant
   links: http://www.regoparksushi33.com/
-description: "Sushi 33 serves delicious sushi in Flushing, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJGXvZjTdewokRyYCV4y3GYlo
 photos:
   - name: >-
@@ -167,7 +165,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c25e378dd97b19:0x5a62c62de39580c9!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 10:30 PM'
     - 'Tuesday: 11:00 AM – 10:30 PM'
     - 'Wednesday: 11:00 AM – 10:30 PM'
@@ -175,14 +231,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:30 PM'
     - 'Saturday: 11:00 AM – 10:30 PM'
     - 'Sunday: 12:00 – 10:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 10:30 PM'
-    - 'Tuesday: 11:00 AM – 10:30 PM'
-    - 'Wednesday: 11:00 AM – 10:30 PM'
-    - 'Thursday: 11:00 AM – 10:30 PM'
-    - 'Friday: 11:00 AM – 10:30 PM'
-    - 'Saturday: 11:00 AM – 10:30 PM'
-    - 'Sunday: 12:00 – 10:00 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -194,9 +243,47 @@ phone: (718) 896-3033
 price_level: PRICE_LEVEL_INEXPENSIVE
 price_range: $10 &ndash; $20
 rating: '4.3'
-rating_count: 0
+rating_count: 140
 website: http://www.regoparksushi33.com/
+description: >-
+  Discover Sushi 33 in Flushing, New York$$$Sushi 33 in Flushing, NY, stands out
+  as a go-to destination for fresh Japanese cuisine, blending creative rolls
+  with classic teriyaki and tempura options in a relaxed atmosphere. This spot
+  offers an array of affordable dishes that highlight high-quality ingredients,
+  making it ideal for anyone searching for tasty sushi experiences nearby. With
+  its convenient hours and welcoming vibe, it's perfect for casual meals or
+  quick takeout, appealing to those exploring local Japanese places. The
+  restaurant's approachable setting ensures a comfortable dining experience,
+  where you can enjoy inventive flavors without the fuss. Whether you're in the
+  mood for top-rated sushi or something simple, this location delivers a
+  satisfying blend of tradition and creativity.
+generative_summary: >-
+  Discover Sushi 33 in Flushing, New York$$$Sushi 33 in Flushing, NY, stands out
+  as a go-to destination for fresh Japanese cuisine, blending creative rolls
+  with classic teriyaki and tempura options in a relaxed atmosphere. This spot
+  offers an array of affordable dishes that highlight high-quality ingredients,
+  making it ideal for anyone searching for tasty sushi experiences nearby. With
+  its convenient hours and welcoming vibe, it's perfect for casual meals or
+  quick takeout, appealing to those exploring local Japanese places. The
+  restaurant's approachable setting ensures a comfortable dining experience,
+  where you can enjoy inventive flavors without the fuss. Whether you're in the
+  mood for top-rated sushi or something simple, this location delivers a
+  satisfying blend of tradition and creativity.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About This Sushi Spot$$$Folks rave about the
+  delicious and fresh sushi at this spot, often calling out the great value for
+  money that makes it a smart choice for everyday meals. Many appreciate the
+  friendly service that keeps things light and enjoyable, along with the easy
+  takeout options that add convenience to busy days. While some note that the
+  ambiance feels a bit dated, it doesn't overshadow the overall positive vibes
+  from the flavorful dishes and reasonable prices. Overall, it's a solid pick
+  for anyone hunting for affordable, quality sushi nearby, with plenty of fans
+  highlighting the classics as must-tries. If you're on the lookout for a
+  reliable place to grab Japanese-inspired eats, this one earns high marks for
+  its honest appeal and customer-friendly approach.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -222,7 +309,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

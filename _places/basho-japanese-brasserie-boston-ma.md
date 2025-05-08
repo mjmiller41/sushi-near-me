@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Basho Japanese Brasserie"
+title: Basho Japanese Brasserie
 permalink: /massachusetts/boston/basho-japanese-brasserie.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Boston
 seo:
-  name: "Basho Japanese Brasserie"
-  type: Restaurant
+  type: restaurant
   links: https://bashosushi.com/
-description: "Basho Japanese Brasserie serves delicious sushi in Boston, Massachusetts. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJGd-A_PV544kRrzXzAHiOHsA
 photos:
   - name: >-
@@ -169,7 +167,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89e379f5fc80df19:0xc01e8e7800f335af!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 10:00 PM'
     - 'Tuesday: 11:30 AM – 10:00 PM'
     - 'Wednesday: 11:30 AM – 10:00 PM'
@@ -177,14 +233,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 10:00 PM'
     - 'Saturday: 12:00 – 10:00 PM'
     - 'Sunday: 12:00 – 10:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 10:00 PM'
-    - 'Tuesday: 11:30 AM – 10:00 PM'
-    - 'Wednesday: 11:30 AM – 10:00 PM'
-    - 'Thursday: 11:30 AM – 10:00 PM'
-    - 'Friday: 11:30 AM – 10:00 PM'
-    - 'Saturday: 12:00 – 10:00 PM'
-    - 'Sunday: 12:00 – 10:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,9 +245,45 @@ phone: (617) 262-1338
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.1'
-rating_count: 0
+rating_count: 597
 website: https://bashosushi.com/
+description: >-
+  Discover Basho Japanese Brasserie in Boston, MA$$$Basho Japanese Brasserie in
+  Boston, MA, offers a welcoming retreat for those seeking authentic Japanese
+  flavors in a casual setting. The restaurant specializes in fresh sushi rolls,
+  flavorful dim sum, and interactive shabu-shabu dishes, all prepared with
+  high-quality ingredients that highlight traditional techniques. Its relaxed
+  environment makes it ideal for a laid-back meal, complemented by thoughtful
+  accessibility features like wheelchair-friendly entrances and seating. Whether
+  you're exploring top-rated sushi options in the area or simply craving
+  Japanese-inspired fare, this spot delivers a satisfying dining experience with
+  a focus on variety and comfort.
+generative_summary: >-
+  Discover Basho Japanese Brasserie in Boston, MA$$$Basho Japanese Brasserie in
+  Boston, MA, offers a welcoming retreat for those seeking authentic Japanese
+  flavors in a casual setting. The restaurant specializes in fresh sushi rolls,
+  flavorful dim sum, and interactive shabu-shabu dishes, all prepared with
+  high-quality ingredients that highlight traditional techniques. Its relaxed
+  environment makes it ideal for a laid-back meal, complemented by thoughtful
+  accessibility features like wheelchair-friendly entrances and seating. Whether
+  you're exploring top-rated sushi options in the area or simply craving
+  Japanese-inspired fare, this spot delivers a satisfying dining experience with
+  a focus on variety and comfort.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About the Experience$$$Visitors to this Boston
+  favorite often praise the fresh and flavorful sushi selections, noting how
+  they hit the spot for anyone hunting for quality Japanese eats nearby. Many
+  appreciate the consistent service and welcoming vibe that make it a go-to
+  choice for casual outings or group gatherings. While some mention minor waits
+  during peak times, the overall consensus highlights the value and taste as
+  worth it, especially for those exploring local dining gems. Feedback
+  frequently points to the restaurant's ability to deliver a solid meal that
+  leaves diners satisfied and eager to return. All in all, it's clear that this
+  spot continues to earn its strong reputation among sushi enthusiasts in the
+  community.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -224,7 +309,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

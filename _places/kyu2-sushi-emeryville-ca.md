@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "​KYU2 Sushi"
+title: ​KYU2 Sushi
 permalink: /california/emeryville/kyu2-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Emeryville
 seo:
-  name: "​KYU2 Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://kyu-2.com/
-description: "​KYU2 Sushi serves delicious sushi in Emeryville, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJJYqg-l5-hYARdtxLviAxIEM
 photos:
   - name: >-
@@ -170,62 +168,677 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80857e5efaa08a25:0x43203120be4bdc76!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 20
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 20
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 20
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 20
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 20
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 20
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 20
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 8:30 PM'
     - 'Tuesday: 11:30 AM – 8:30 PM'
     - 'Wednesday: 11:30 AM – 8:30 PM'
     - 'Thursday: 11:30 AM – 8:30 PM'
     - 'Friday: 11:30 AM – 8:30 PM'
-    - 'Saturday: 5:00 – 8:30 PM'
-    - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:30 AM – 8:30 PM'
-    - 'Tuesday: 11:30 AM – 8:30 PM'
-    - 'Wednesday: 11:30 AM – 8:30 PM'
-    - 'Thursday: 11:30 AM – 8:30 PM'
-    - 'Friday: 11:30 AM – 8:30 PM'
-    - 'Saturday: 5:00 – 8:30 PM'
-    - 'Sunday: Closed'
+    - 'Saturday: 11:30 AM – 8:30 PM'
+    - 'Sunday: 11:30 AM – 8:30 PM'
+  nextCloseTime: '2025-05-04T03:30:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: false
+    periods:
+      - open:
+          day: 1
+          hour: 16
+          minute: 0
+        close:
+          day: 1
+          hour: 18
+          minute: 0
+      - open:
+          day: 2
+          hour: 16
+          minute: 0
+        close:
+          day: 2
+          hour: 18
+          minute: 0
+      - open:
+          day: 3
+          hour: 16
+          minute: 0
+        close:
+          day: 3
+          hour: 18
+          minute: 0
+      - open:
+          day: 4
+          hour: 16
+          minute: 0
+        close:
+          day: 4
+          hour: 18
+          minute: 0
+      - open:
+          day: 5
+          hour: 16
+          minute: 0
+        close:
+          day: 5
+          hour: 18
+          minute: 0
+      - open:
+          day: 6
+          hour: 16
+          minute: 0
+        close:
+          day: 6
+          hour: 18
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 4:00 – 6:00 PM'
+      - 'Tuesday: 4:00 – 6:00 PM'
+      - 'Wednesday: 4:00 – 6:00 PM'
+      - 'Thursday: 4:00 – 6:00 PM'
+      - 'Friday: 4:00 – 6:00 PM'
+      - 'Saturday: 4:00 – 6:00 PM'
+      - 'Sunday: Closed'
+    secondaryHoursType: HAPPY_HOUR
+    nextOpenTime: '2025-05-03T23:00:00Z'
+  - openNow: false
+    periods:
+      - open:
+          day: 1
+          hour: 11
+          minute: 30
+        close:
+          day: 1
+          hour: 20
+          minute: 30
+      - open:
+          day: 2
+          hour: 11
+          minute: 30
+        close:
+          day: 2
+          hour: 20
+          minute: 30
+      - open:
+          day: 3
+          hour: 11
+          minute: 30
+        close:
+          day: 3
+          hour: 20
+          minute: 30
+      - open:
+          day: 4
+          hour: 11
+          minute: 30
+        close:
+          day: 4
+          hour: 20
+          minute: 30
+      - open:
+          day: 5
+          hour: 11
+          minute: 30
+        close:
+          day: 5
+          hour: 20
+          minute: 30
+      - open:
+          day: 6
+          hour: 17
+          minute: 0
+        close:
+          day: 6
+          hour: 20
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 11:30 AM – 8:30 PM'
+      - 'Tuesday: 11:30 AM – 8:30 PM'
+      - 'Wednesday: 11:30 AM – 8:30 PM'
+      - 'Thursday: 11:30 AM – 8:30 PM'
+      - 'Friday: 11:30 AM – 8:30 PM'
+      - 'Saturday: 5:00 – 8:30 PM'
+      - 'Sunday: Closed'
+    secondaryHoursType: DELIVERY
+    nextOpenTime: '2025-05-04T00:00:00Z'
+  - openNow: false
+    periods:
+      - open:
+          day: 1
+          hour: 11
+          minute: 30
+        close:
+          day: 1
+          hour: 20
+          minute: 30
+      - open:
+          day: 2
+          hour: 11
+          minute: 30
+        close:
+          day: 2
+          hour: 20
+          minute: 30
+      - open:
+          day: 3
+          hour: 11
+          minute: 30
+        close:
+          day: 3
+          hour: 20
+          minute: 30
+      - open:
+          day: 4
+          hour: 11
+          minute: 30
+        close:
+          day: 4
+          hour: 20
+          minute: 30
+      - open:
+          day: 5
+          hour: 11
+          minute: 30
+        close:
+          day: 5
+          hour: 20
+          minute: 30
+      - open:
+          day: 6
+          hour: 17
+          minute: 0
+        close:
+          day: 6
+          hour: 20
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 11:30 AM – 8:30 PM'
+      - 'Tuesday: 11:30 AM – 8:30 PM'
+      - 'Wednesday: 11:30 AM – 8:30 PM'
+      - 'Thursday: 11:30 AM – 8:30 PM'
+      - 'Friday: 11:30 AM – 8:30 PM'
+      - 'Saturday: 5:00 – 8:30 PM'
+      - 'Sunday: Closed'
+    secondaryHoursType: TAKEOUT
+    nextOpenTime: '2025-05-04T00:00:00Z'
+  - openNow: false
+    periods:
+      - open:
+          day: 1
+          hour: 11
+          minute: 30
+        close:
+          day: 1
+          hour: 20
+          minute: 30
+      - open:
+          day: 2
+          hour: 11
+          minute: 30
+        close:
+          day: 2
+          hour: 20
+          minute: 30
+      - open:
+          day: 3
+          hour: 11
+          minute: 30
+        close:
+          day: 3
+          hour: 20
+          minute: 30
+      - open:
+          day: 4
+          hour: 11
+          minute: 30
+        close:
+          day: 4
+          hour: 20
+          minute: 30
+      - open:
+          day: 5
+          hour: 11
+          minute: 30
+        close:
+          day: 5
+          hour: 20
+          minute: 30
+      - open:
+          day: 6
+          hour: 17
+          minute: 0
+        close:
+          day: 6
+          hour: 20
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 11:30 AM – 8:30 PM'
+      - 'Tuesday: 11:30 AM – 8:30 PM'
+      - 'Wednesday: 11:30 AM – 8:30 PM'
+      - 'Thursday: 11:30 AM – 8:30 PM'
+      - 'Friday: 11:30 AM – 8:30 PM'
+      - 'Saturday: 5:00 – 8:30 PM'
+      - 'Sunday: Closed'
+    secondaryHoursType: ONLINE_SERVICE_HOURS
+    nextOpenTime: '2025-05-04T00:00:00Z'
+  - openNow: false
+    periods:
+      - open:
+          day: 1
+          hour: 11
+          minute: 30
+        close:
+          day: 1
+          hour: 20
+          minute: 30
+      - open:
+          day: 2
+          hour: 11
+          minute: 30
+        close:
+          day: 2
+          hour: 20
+          minute: 30
+      - open:
+          day: 3
+          hour: 11
+          minute: 30
+        close:
+          day: 3
+          hour: 20
+          minute: 30
+      - open:
+          day: 4
+          hour: 11
+          minute: 30
+        close:
+          day: 4
+          hour: 20
+          minute: 30
+      - open:
+          day: 5
+          hour: 11
+          minute: 30
+        close:
+          day: 5
+          hour: 20
+          minute: 30
+      - open:
+          day: 6
+          hour: 17
+          minute: 0
+        close:
+          day: 6
+          hour: 20
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 11:30 AM – 8:30 PM'
+      - 'Tuesday: 11:30 AM – 8:30 PM'
+      - 'Wednesday: 11:30 AM – 8:30 PM'
+      - 'Thursday: 11:30 AM – 8:30 PM'
+      - 'Friday: 11:30 AM – 8:30 PM'
+      - 'Saturday: 5:00 – 8:30 PM'
+      - 'Sunday: Closed'
+    secondaryHoursType: LUNCH
+    nextOpenTime: '2025-05-04T00:00:00Z'
+  - openNow: false
+    periods:
+      - open:
+          day: 1
+          hour: 11
+          minute: 30
+        close:
+          day: 1
+          hour: 20
+          minute: 30
+      - open:
+          day: 2
+          hour: 11
+          minute: 30
+        close:
+          day: 2
+          hour: 20
+          minute: 30
+      - open:
+          day: 3
+          hour: 11
+          minute: 30
+        close:
+          day: 3
+          hour: 20
+          minute: 30
+      - open:
+          day: 4
+          hour: 11
+          minute: 30
+        close:
+          day: 4
+          hour: 20
+          minute: 30
+      - open:
+          day: 5
+          hour: 11
+          minute: 30
+        close:
+          day: 5
+          hour: 20
+          minute: 30
+      - open:
+          day: 6
+          hour: 17
+          minute: 0
+        close:
+          day: 6
+          hour: 20
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 11:30 AM – 8:30 PM'
+      - 'Tuesday: 11:30 AM – 8:30 PM'
+      - 'Wednesday: 11:30 AM – 8:30 PM'
+      - 'Thursday: 11:30 AM – 8:30 PM'
+      - 'Friday: 11:30 AM – 8:30 PM'
+      - 'Saturday: 5:00 – 8:30 PM'
+      - 'Sunday: Closed'
+    secondaryHoursType: DINNER
+    nextOpenTime: '2025-05-04T00:00:00Z'
 phone: (510) 735-9439
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.4'
-rating_count: 0
+rating_count: 282
 website: http://kyu-2.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover KYU2 Sushi in Emeryville, CA$$$KYU2 Sushi in Emeryville, CA, offers a
+  cozy and inviting atmosphere for enjoying fresh Japanese-inspired dishes,
+  making it a standout choice among local sushi spots. This welcoming restaurant
+  specializes in a variety of sushi rolls, bento boxes, and flavorful small
+  plates that highlight high-quality ingredients and creative presentations.
+  With accessibility features like wheelchair-friendly entrances and seating,
+  it's designed for comfortable dining experiences any day of the week.
+  Additionally, its moderate pricing and extended hours add to the appeal for
+  those searching for reliable sushi restaurants nearby, ensuring a satisfying
+  meal in a relaxed setting.
+generative_summary: >-
+  Discover KYU2 Sushi in Emeryville, CA$$$KYU2 Sushi in Emeryville, CA, offers a
+  cozy and inviting atmosphere for enjoying fresh Japanese-inspired dishes,
+  making it a standout choice among local sushi spots. This welcoming restaurant
+  specializes in a variety of sushi rolls, bento boxes, and flavorful small
+  plates that highlight high-quality ingredients and creative presentations.
+  With accessibility features like wheelchair-friendly entrances and seating,
+  it's designed for comfortable dining experiences any day of the week.
+  Additionally, its moderate pricing and extended hours add to the appeal for
+  those searching for reliable sushi restaurants nearby, ensuring a satisfying
+  meal in a relaxed setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJJYqg-l5-hYARdtxLviAxIEM/reviews/ChdDSUhNMG9nS0VJQ0FnTURJZ0xIS3ZRRRAB
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 5
+    text:
+      text: >-
+        KYU2 Sushi is an absolute gem. From the moment you step inside, you're
+        greeted with a warm and inviting atmosphere that perfectly complements
+        their incredible menu. The sushi is impeccably fresh, bursting with
+        flavor, and beautifully presented-each dish feels like a work of art.
+        The staff is friendly, attentive, and knowledgeable, making you feel
+        right at home.
+
+
+        Whether you're indulging in their classic rolls or trying their creative
+        specials, every bite is a testament to their culinary expertise and
+        commitment to quality. It's clear that KYU2
+
+        Sushi takes pride in delivering an exceptional dining experience. Highly
+        recommended for sushi lovers and anyone looking for a memorable meal!
+      languageCode: en
+    originalText:
+      text: >-
+        KYU2 Sushi is an absolute gem. From the moment you step inside, you're
+        greeted with a warm and inviting atmosphere that perfectly complements
+        their incredible menu. The sushi is impeccably fresh, bursting with
+        flavor, and beautifully presented-each dish feels like a work of art.
+        The staff is friendly, attentive, and knowledgeable, making you feel
+        right at home.
+
+
+        Whether you're indulging in their classic rolls or trying their creative
+        specials, every bite is a testament to their culinary expertise and
+        commitment to quality. It's clear that KYU2
+
+        Sushi takes pride in delivering an exceptional dining experience. Highly
+        recommended for sushi lovers and anyone looking for a memorable meal!
+      languageCode: en
+    authorAttribution:
+      displayName: Maynor Tabora
+      uri: https://www.google.com/maps/contrib/105383420790226833057/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVd0Z25GyTRRR_qKba-i22l7vsNNGj4Ch_N1eRNdxkyFgLe9O8K=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-04-06T01:47:15.393640Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJZ0xIS3ZRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJZ0xIS3ZRRRAB!2m1!1s0x80857e5efaa08a25:0x43203120be4bdc76
+  - name: >-
+      places/ChIJJYqg-l5-hYARdtxLviAxIEM/reviews/ChdDSUhNMG9nS0VJQ0FnSURfdHRMRTFBRRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        Delicious food!!! We got the dragon roll, the sweet potato fries, shrimp
+        tempura roll, cherry blossom roll, sake, and the spider roll. We went
+        during happy hour (a nice surprise), which has great offers, 4-7 pm. The
+        art with the sauces is sooo pretty and also nice surprise. 🥰 and the
+        service was absolutely excellent! Everyone is kind and attentive and a
+        great atmosphere. 10 out of 10! Thank you very much!
+      languageCode: en
+    originalText:
+      text: >-
+        Delicious food!!! We got the dragon roll, the sweet potato fries, shrimp
+        tempura roll, cherry blossom roll, sake, and the spider roll. We went
+        during happy hour (a nice surprise), which has great offers, 4-7 pm. The
+        art with the sauces is sooo pretty and also nice surprise. 🥰 and the
+        service was absolutely excellent! Everyone is kind and attentive and a
+        great atmosphere. 10 out of 10! Thank you very much!
+      languageCode: en
+    authorAttribution:
+      displayName: Maria A
+      uri: https://www.google.com/maps/contrib/111378065898333370414/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJEm5LcPqACImLvz_HCSntnd1iyWb2w7kUTO3YOCaZRsdgkcA=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-01-24T03:02:45.186275Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURfdHRMRTFBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURfdHRMRTFBRRAB!2m1!1s0x80857e5efaa08a25:0x43203120be4bdc76
+  - name: >-
+      places/ChIJJYqg-l5-hYARdtxLviAxIEM/reviews/ChZDSUhNMG9nS0VJQ0FnSUNYcUp5TEhREAE
+    relativePublishTimeDescription: 6 months ago
+    rating: 5
+    text:
+      text: >-
+        Excellent little spot for sushi.  The owner opened up early for us
+        because we had to catch a flight right after lunch.  The sushi was
+        exceptional,  both in taste and presentation.   Highly recommended!
+      languageCode: en
+    originalText:
+      text: >-
+        Excellent little spot for sushi.  The owner opened up early for us
+        because we had to catch a flight right after lunch.  The sushi was
+        exceptional,  both in taste and presentation.   Highly recommended!
+      languageCode: en
+    authorAttribution:
+      displayName: Ken Smiley
+      uri: https://www.google.com/maps/contrib/111206164204116313273/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjX_0bPM6WueNdN1hnybpgCVua34SIQrIaUX5Z0GcjFshL8k6Ks=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-10-12T19:01:53.036297Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNYcUp5TEhREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNYcUp5TEhREAE!2m1!1s0x80857e5efaa08a25:0x43203120be4bdc76
+  - name: >-
+      places/ChIJJYqg-l5-hYARdtxLviAxIEM/reviews/ChdDSUhNMG9nS0VJQ0FnSURMdmZXSnBnRRAB
+    relativePublishTimeDescription: 10 months ago
+    rating: 5
+    text:
+      text: >-
+        By far, some the freshest sushi I've ever had! Super adorable spot with
+        excellent service and decently priced! Even the restroom was extra
+        clean.
+      languageCode: en
+    originalText:
+      text: >-
+        By far, some the freshest sushi I've ever had! Super adorable spot with
+        excellent service and decently priced! Even the restroom was extra
+        clean.
+      languageCode: en
+    authorAttribution:
+      displayName: Amanda Holbo
+      uri: https://www.google.com/maps/contrib/114511205101058432703/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWU13jN25eCGpN3_AG_O9g4eqGJ2capJORS6OwGMlKZleGHfKM=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-06-30T00:37:48.189328Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURMdmZXSnBnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURMdmZXSnBnRRAB!2m1!1s0x80857e5efaa08a25:0x43203120be4bdc76
+  - name: >-
+      places/ChIJJYqg-l5-hYARdtxLviAxIEM/reviews/ChdDSUhNMG9nS0VJQ0FnSUNlbDdQZnN3RRAB
+    relativePublishTimeDescription: 2 years ago
+    rating: 5
+    text:
+      text: >-
+        This is the first time I been here I got to say the volcano roll was
+        delicious if your looking to have something spicy and delightful this is
+        the roll to order. Not just that they also have options for vegetarians
+        Yummmm……. My boyfriend got the veggie roll if your looking for something
+        more sweet and less dramatic with flavor this is your roll to order.
+        Highly recommend this place the service was slow but we did not mind
+        because we like to take our time also well we were waiting she gave use
+        some complimentary miso soup that was very nice of her. 😌🍣
+      languageCode: en
+    originalText:
+      text: >-
+        This is the first time I been here I got to say the volcano roll was
+        delicious if your looking to have something spicy and delightful this is
+        the roll to order. Not just that they also have options for vegetarians
+        Yummmm……. My boyfriend got the veggie roll if your looking for something
+        more sweet and less dramatic with flavor this is your roll to order.
+        Highly recommend this place the service was slow but we did not mind
+        because we like to take our time also well we were waiting she gave use
+        some complimentary miso soup that was very nice of her. 😌🍣
+      languageCode: en
+    authorAttribution:
+      displayName: Celestina Barrios
+      uri: https://www.google.com/maps/contrib/110306942473918916670/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXH2JEscjIpP8XTinv9OvTKPayZjJwl65IqL1qGh33uR_Xg_rI=s128-c0x00000000-cc-rp-mo
+    publishTime: '2022-09-26T08:50:26.326764Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNlbDdQZnN3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNlbDdQZnN3RRAB!2m1!1s0x80857e5efaa08a25:0x43203120be4bdc76
+review_summary: >-
+  What Customers Are Saying About KYU2 Sushi$$$Folks visiting this sushi spot
+  often rave about the fresh and tasty rolls that deliver a burst of flavor with
+  every bite, making it a go-to for satisfying cravings. Many appreciate the
+  friendly service and welcoming vibe that make dining out feel effortless and
+  enjoyable, especially during happy hour deals. Reviewers frequently highlight
+  the variety of options, including creative specials and vegetarian choices,
+  which add excitement to the menu without overwhelming the palate. Overall,
+  it's clear that people enjoy the beautiful presentation and solid value,
+  turning casual meals into memorable experiences. If you're on the hunt for
+  top-rated sushi near you, this place consistently earns positive nods for its
+  reliable quality and inviting feel.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  paidStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+curbside_pickup: true
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: true
+live_music: false
+menu_for_children: true
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: true
+serves_cocktails: true
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

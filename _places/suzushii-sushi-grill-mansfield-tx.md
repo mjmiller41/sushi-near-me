@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Suzushii Sushi & Grill"
+title: Suzushii Sushi & Grill
 permalink: /texas/mansfield/suzushii-sushi-grill.html
 stateAbbr: TX
 stateName: Texas
 cityName: Mansfield
 seo:
-  name: "Suzushii Sushi & Grill"
-  type: Restaurant
+  type: restaurant
   links: http://suzushiisushiandgrill.com/
-description: "Suzushii Sushi & Grill serves delicious sushi in Mansfield, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJSW0HR2RhToYReKiGp6yiXVc
 photos:
   - name: >-
@@ -170,7 +168,105 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x864e616447076d49:0x575da2aca786a878!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 15
+        minute: 0
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 15
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 3:00 PM, 5:00 – 10:00 PM'
     - 'Tuesday: 11:00 AM – 3:00 PM, 5:00 – 10:00 PM'
     - 'Wednesday: 11:00 AM – 3:00 PM, 5:00 – 10:00 PM'
@@ -178,14 +274,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 3:00 PM, 5:00 – 10:00 PM'
     - 'Saturday: 11:00 AM – 10:00 PM'
     - 'Sunday: 12:00 – 9:30 PM'
-  current:
-    - 'Monday: 11:00 AM – 3:00 PM, 5:00 – 10:00 PM'
-    - 'Tuesday: 11:00 AM – 3:00 PM, 5:00 – 10:00 PM'
-    - 'Wednesday: 11:00 AM – 3:00 PM, 5:00 – 10:00 PM'
-    - 'Thursday: 11:00 AM – 3:00 PM, 5:00 – 10:00 PM'
-    - 'Friday: 11:00 AM – 3:00 PM, 5:00 – 10:00 PM'
-    - 'Saturday: 11:00 AM – 10:00 PM'
-    - 'Sunday: 12:00 – 9:30 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +286,257 @@ phone: (817) 453-1825
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.4'
-rating_count: 0
+rating_count: 1152
 website: http://suzushiisushiandgrill.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Suzushii Sushi & Grill in Mansfield, TX$$$Suzushii Sushi & Grill in
+  Mansfield, TX, offers a welcoming spot for enjoying fresh sushi and
+  Japanese-inspired dishes in a cozy, vibrant atmosphere. This sushi restaurant
+  features a variety of rolls and entrees, complemented by a full bar with
+  cocktails and beer, making it ideal for casual dining or gatherings.
+  Accessibility options like wheelchair-friendly entrances and parking add to
+  the convenience, while the moderate pricing ensures it's accessible for
+  different budgets. Patrons can savor flavorful meals served throughout the
+  day, from lunch specials to dinner options, highlighting the blend of
+  traditional and creative flavors that appeal to sushi enthusiasts exploring
+  local Japanese places.
+generative_summary: >-
+  Discover Suzushii Sushi & Grill in Mansfield, TX$$$Suzushii Sushi & Grill in
+  Mansfield, TX, offers a welcoming spot for enjoying fresh sushi and
+  Japanese-inspired dishes in a cozy, vibrant atmosphere. This sushi restaurant
+  features a variety of rolls and entrees, complemented by a full bar with
+  cocktails and beer, making it ideal for casual dining or gatherings.
+  Accessibility options like wheelchair-friendly entrances and parking add to
+  the convenience, while the moderate pricing ensures it's accessible for
+  different budgets. Patrons can savor flavorful meals served throughout the
+  day, from lunch specials to dinner options, highlighting the blend of
+  traditional and creative flavors that appeal to sushi enthusiasts exploring
+  local Japanese places.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJSW0HR2RhToYReKiGp6yiXVc/reviews/ChZDSUhNMG9nS0VJQ0FnTURvclpPOE1nEAE
+    relativePublishTimeDescription: in the last week
+    rating: 5
+    text:
+      text: >-
+        This place is a must try, all orders came out on time, as requested,
+        nothing got delayed at all. Great service, great food and great
+        atmosphere, i tried the sauteed shrimps and fries calemari. Perfectly
+        seasoned made to order. Add it to your list now, thank me later
+      languageCode: en
+    originalText:
+      text: >-
+        This place is a must try, all orders came out on time, as requested,
+        nothing got delayed at all. Great service, great food and great
+        atmosphere, i tried the sauteed shrimps and fries calemari. Perfectly
+        seasoned made to order. Add it to your list now, thank me later
+      languageCode: en
+    authorAttribution:
+      displayName: Ali Taher
+      uri: https://www.google.com/maps/contrib/112432215553499465947/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXJ0lOeaBkyB59F_snmBqIyaOnv68Ea0LQT_7c8cyk3MjmD9ig-=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-04-27T16:38:23.636763Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURvclpPOE1nEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURvclpPOE1nEAE!2m1!1s0x864e616447076d49:0x575da2aca786a878
+  - name: >-
+      places/ChIJSW0HR2RhToYReKiGp6yiXVc/reviews/ChdDSUhNMG9nS0VJQ0FnTURJOWItTTJnRRAB
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 5
+    text:
+      text: >-
+        This is hands-down our favorite sushi spot in Mansfield! The selection
+        is always impressive—whether you’re in the mood for something classic or
+        a fun specialty roll, they’ve got it. Every dish we’ve tried has been
+        fresh, flavorful, and beautifully presented. The quality is consistent
+        every time we visit, and the service is always friendly and attentive.
+        If you’re a sushi lover in the area, this place is a must-try!
+      languageCode: en
+    originalText:
+      text: >-
+        This is hands-down our favorite sushi spot in Mansfield! The selection
+        is always impressive—whether you’re in the mood for something classic or
+        a fun specialty roll, they’ve got it. Every dish we’ve tried has been
+        fresh, flavorful, and beautifully presented. The quality is consistent
+        every time we visit, and the service is always friendly and attentive.
+        If you’re a sushi lover in the area, this place is a must-try!
+      languageCode: en
+    authorAttribution:
+      displayName: Melissa McClain-Lewis
+      uri: https://www.google.com/maps/contrib/102708197405174734879/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKO1DXKI-wz04kj1Jo6qtoPEfychdtBppZ9FK8N8XitmSKafw=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-12T01:41:34.701840Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJOWItTTJnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJOWItTTJnRRAB!2m1!1s0x864e616447076d49:0x575da2aca786a878
+  - name: >-
+      places/ChIJSW0HR2RhToYReKiGp6yiXVc/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3aDRxUTNRRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Service , price, and atmosphere are great. The ladies behind the bar are
+        very friendly and quick to get your order. Food is great, one of my best
+        sushi experience in a long time.
+      languageCode: en
+    originalText:
+      text: >-
+        Service , price, and atmosphere are great. The ladies behind the bar are
+        very friendly and quick to get your order. Food is great, one of my best
+        sushi experience in a long time.
+      languageCode: en
+    authorAttribution:
+      displayName: chad tassin
+      uri: https://www.google.com/maps/contrib/107414316836018064110/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUCKMPs30U37NSJQwWkfuG1uix4y7I9SB9eo0YbWqIEnuzbk_U=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2025-03-21T14:28:47.978032Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUN3aDRxUTNRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUN3aDRxUTNRRRAB!2m1!1s0x864e616447076d49:0x575da2aca786a878
+  - name: >-
+      places/ChIJSW0HR2RhToYReKiGp6yiXVc/reviews/ChdDSUhNMG9nS0VJQ0FnTURRLUlQcDdRRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Always great service. Usually more servers than needed, but it’s good
+        for customers. Great food. Nice selection.
+      languageCode: en
+    originalText:
+      text: >-
+        Always great service. Usually more servers than needed, but it’s good
+        for customers. Great food. Nice selection.
+      languageCode: en
+    authorAttribution:
+      displayName: scott skurdalsvold
+      uri: https://www.google.com/maps/contrib/115612743021041520444/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKrKCrk-UZWdiGiEC7qmqz2EmuQ0gY814aVhmnMiNT4ywhaNA=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-03-08T22:43:19.698936Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURRLUlQcDdRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURRLUlQcDdRRRAB!2m1!1s0x864e616447076d49:0x575da2aca786a878
+  - name: >-
+      places/ChIJSW0HR2RhToYReKiGp6yiXVc/reviews/ChdDSUhNMG9nS0VJQ0FnSUNYNW9UUjFRRRAB
+    relativePublishTimeDescription: 6 months ago
+    rating: 2
+    text:
+      text: >-
+        I want to start by saying the sushi itself was great, but the experience
+        will keep me away from here. I arrived at 9:06PM looking forward to
+        curbing my sushi craving. I was looked at kind of odd when I first
+        walked in, and that should have been my cue to leave. I was denied green
+        tea because "it was too late," but I happily got water. After a couple
+        of suggestions, I ended up trying the ultimate roll and the fire dragon
+        roll. The fire dragon came out first, and halfway through, I wanted
+        ginger and Wasabi, which I expected to come with it and ended up waiting
+        until the second roll was delivered (5 minutes) to ask. The whole time I
+        was there, my waitress was filling all of the bottles of soy sauce in
+        the corner close to the sushi bar and never checked on me again.
+        Meanwhile, trying to eat my role, another employee sprays the table next
+        to me to do one final clean and mists me with the cleaner. For almost a
+        minute, the mist lingered as she did the next table right next to me as
+        well. I felt like such a nuisance being there so I just wanted the
+        check. I never got another check-up until I set down my utensils and
+        stared waiting. At this point, my appetite was gone from the
+        embarrassment, and I got the check and left at 937. I understand there
+        are responsibilities, but just close at 9 or don't seat if customers are
+        that big of a burden. This place is probably good in the day or not an
+        hour before closing, but I won't be going back. The sushi was good,
+        though probably a solid 7/10.
+      languageCode: en
+    originalText:
+      text: >-
+        I want to start by saying the sushi itself was great, but the experience
+        will keep me away from here. I arrived at 9:06PM looking forward to
+        curbing my sushi craving. I was looked at kind of odd when I first
+        walked in, and that should have been my cue to leave. I was denied green
+        tea because "it was too late," but I happily got water. After a couple
+        of suggestions, I ended up trying the ultimate roll and the fire dragon
+        roll. The fire dragon came out first, and halfway through, I wanted
+        ginger and Wasabi, which I expected to come with it and ended up waiting
+        until the second roll was delivered (5 minutes) to ask. The whole time I
+        was there, my waitress was filling all of the bottles of soy sauce in
+        the corner close to the sushi bar and never checked on me again.
+        Meanwhile, trying to eat my role, another employee sprays the table next
+        to me to do one final clean and mists me with the cleaner. For almost a
+        minute, the mist lingered as she did the next table right next to me as
+        well. I felt like such a nuisance being there so I just wanted the
+        check. I never got another check-up until I set down my utensils and
+        stared waiting. At this point, my appetite was gone from the
+        embarrassment, and I got the check and left at 937. I understand there
+        are responsibilities, but just close at 9 or don't seat if customers are
+        that big of a burden. This place is probably good in the day or not an
+        hour before closing, but I won't be going back. The sushi was good,
+        though probably a solid 7/10.
+      languageCode: en
+    authorAttribution:
+      displayName: Mason Burton
+      uri: https://www.google.com/maps/contrib/116173883597103082448/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXm2rK_qfKYxHQ-h_G3e4B4-9FH-zLAaeE2P7EemFxOuvJgih8n0A=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-10-16T03:20:19.808626Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNYNW9UUjFRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNYNW9UUjFRRRAB!2m1!1s0x864e616447076d49:0x575da2aca786a878
+review_summary: >-
+  Insights from Recent Feedback$$$Folks generally enjoy the fresh and flavorful
+  sushi selections at this spot, with many highlighting the consistent quality
+  and generous portions that keep them coming back for more. Service tends to be
+  friendly and efficient, especially during peak hours, creating a relaxed vibe
+  that's perfect for groups or families looking for a casual meal. While most
+  experiences praise the timely delivery of orders and the welcoming atmosphere,
+  a few mentions note that visiting close to closing time might not be as
+  smooth, so planning ahead is a good idea. Overall, it's a solid choice for
+  anyone searching for top-rated sushi near Mansfield, TX, as the positives far
+  outweigh any minor hiccups, making it worth a try for a satisfying dine-in
+  experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  paidStreetParking: false
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+curbside_pickup: true
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: true
+outdoor_seating: false
+reservable: false
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
+serves_coffee: true
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Sushi rolls & Japanese entrees, plus a full bar, are served in a warm,
+  orange-walled setting.
 
 ---

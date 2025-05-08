@@ -5,4 +5,5 @@ permalink: /california/imperial-beach/
 stateAbbr: CA
 stateName: California
 cityName: Imperial Beach
+
 ---

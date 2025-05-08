@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi By Bou - NOMAD NYC @ Hotel32|32"
+title: Sushi By Bou - NOMAD NYC @ Hotel32|32
 permalink: /new-york/new-york/sushi-by-bou-nomad-nyc-hotel32-32.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "Sushi By Bou - NOMAD NYC @ Hotel32|32"
-  type: Restaurant
-  links: null
-description: "Sushi By Bou - NOMAD NYC @ Hotel32|32 serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://sushibybou.com/
 place_id: ChIJM-U6m2VZwokRxFWJrVZ8F_c
 photos:
   - name: >-
@@ -169,8 +167,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c259659b3ae533:0xf7177c56ad8955c4!10e5
 primary_type: Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 23
+        minute: 0
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 23
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 23
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 23
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 23
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 5:00 – 11:00 PM'
+    - 'Tuesday: 5:00 – 11:00 PM'
+    - 'Wednesday: 5:00 – 11:00 PM'
+    - 'Thursday: 5:00 – 11:00 PM'
+    - 'Friday: 5:00 – 11:00 PM'
+    - 'Saturday: 5:00 – 11:00 PM'
+    - 'Sunday: 5:00 – 11:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -178,13 +241,47 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
+phone: (888) 670-5996
 price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+price_range: $50 &ndash; $100
+rating: '4.6'
+rating_count: 377
+website: https://sushibybou.com/
+description: >-
+  Discover Sushi By Bou in New York, NY$$$Sushi By Bou in New York, NY, stands
+  out as a vibrant spot for Japanese dining, blending modern flair with a unique
+  thematic twist. This eatery offers immersive omakase experiences, featuring
+  multi-course menus that showcase fresh, high-quality ingredients in creative
+  presentations. Guests can enjoy an energetic atmosphere that elevates the
+  sushi scene, making it a go-to choice for those exploring top-rated options in
+  the city. Whether you're in the mood for innovative rolls or classic
+  preparations, the focus on detail and flavor ensures a memorable meal in the
+  bustling NOMAD area, ideal for anyone seeking exceptional sushi restaurants
+  nearby.
+generative_summary: >-
+  Discover Sushi By Bou in New York, NY$$$Sushi By Bou in New York, NY, stands
+  out as a vibrant spot for Japanese dining, blending modern flair with a unique
+  thematic twist. This eatery offers immersive omakase experiences, featuring
+  multi-course menus that showcase fresh, high-quality ingredients in creative
+  presentations. Guests can enjoy an energetic atmosphere that elevates the
+  sushi scene, making it a go-to choice for those exploring top-rated options in
+  the city. Whether you're in the mood for innovative rolls or classic
+  preparations, the focus on detail and flavor ensures a memorable meal in the
+  bustling NOMAD area, ideal for anyone seeking exceptional sushi restaurants
+  nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Sharing$$$Folks often praise this spot for its outstanding
+  omakase offerings, highlighting the incredibly fresh fish and standout dishes
+  that make every bite worthwhile. The lively vibe, complete with upbeat music,
+  adds a fun layer to the dining experience without overwhelming the meal. Many
+  note the helpful team that keeps things running smoothly, contributing to a
+  welcoming environment for all. Overall, it's frequently mentioned as great
+  value for the quality, encouraging repeat visits for anyone craving reliable
+  Japanese places in the area. If you're on the hunt for solid sushi options,
+  this one tends to leave people satisfied and eager to return.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +307,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -5,4 +5,5 @@ permalink: /california/livermore/
 stateAbbr: CA
 stateName: California
 cityName: Livermore
+
 ---

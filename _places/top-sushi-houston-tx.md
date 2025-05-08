@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Top Sushi"
+title: Top Sushi
 permalink: /texas/houston/top-sushi.html
 stateAbbr: TX
 stateName: Texas
 cityName: Houston
 seo:
-  name: "Top Sushi"
-  type: Restaurant
-  links: null
-description: "Top Sushi serves delicious sushi in Houston, Texas. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.topsushibar.com/
 place_id: ChIJ9c10p6bDQIYRy_EokfjexHs
 photos:
   - name: >-
@@ -169,22 +167,227 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8640c3a6a774cdf5:0x7bc4def89128f1cb!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 23
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 23
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 23
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 23
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 11:00 PM'
+    - 'Tuesday: 11:00 AM – 11:00 PM'
+    - 'Wednesday: 11:00 AM – 11:00 PM'
+    - 'Thursday: 11:00 AM – 11:00 PM'
+    - 'Friday: 11:00 AM – 11:00 PM'
+    - 'Saturday: 12:00 – 11:00 PM'
+    - 'Sunday: 12:00 – 10:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+  - openNow: false
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 0
+        close:
+          day: 0
+          hour: 22
+          minute: 0
+      - open:
+          day: 1
+          hour: 16
+          minute: 0
+        close:
+          day: 1
+          hour: 19
+          minute: 0
+      - open:
+          day: 1
+          hour: 21
+          minute: 0
+        close:
+          day: 1
+          hour: 23
+          minute: 0
+      - open:
+          day: 2
+          hour: 16
+          minute: 0
+        close:
+          day: 2
+          hour: 19
+          minute: 0
+      - open:
+          day: 2
+          hour: 21
+          minute: 0
+        close:
+          day: 2
+          hour: 23
+          minute: 0
+      - open:
+          day: 3
+          hour: 16
+          minute: 0
+        close:
+          day: 3
+          hour: 19
+          minute: 0
+      - open:
+          day: 3
+          hour: 21
+          minute: 0
+        close:
+          day: 3
+          hour: 23
+          minute: 0
+      - open:
+          day: 4
+          hour: 16
+          minute: 0
+        close:
+          day: 4
+          hour: 19
+          minute: 0
+      - open:
+          day: 4
+          hour: 21
+          minute: 0
+        close:
+          day: 4
+          hour: 23
+          minute: 0
+      - open:
+          day: 5
+          hour: 16
+          minute: 0
+        close:
+          day: 5
+          hour: 19
+          minute: 0
+      - open:
+          day: 5
+          hour: 21
+          minute: 0
+        close:
+          day: 6
+          hour: 0
+          minute: 0
+      - open:
+          day: 6
+          hour: 21
+          minute: 0
+        close:
+          day: 0
+          hour: 0
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 4:00 – 7:00 PM, 9:00 – 11:00 PM'
+      - 'Tuesday: 4:00 – 7:00 PM, 9:00 – 11:00 PM'
+      - 'Wednesday: 4:00 – 7:00 PM, 9:00 – 11:00 PM'
+      - 'Thursday: 4:00 – 7:00 PM, 9:00 – 11:00 PM'
+      - 'Friday: 4:00 – 7:00 PM, 9:00 PM – 12:00 AM'
+      - 'Saturday: 9:00 PM – 12:00 AM'
+      - 'Sunday: 12:00 – 10:00 PM'
+    secondaryHoursType: HAPPY_HOUR
+    nextOpenTime: '2025-05-04T02:00:00Z'
+phone: (713) 782-0108
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.5'
+rating_count: 997
+website: http://www.topsushibar.com/
+description: >-
+  Discover Top Sushi in Houston, TX$$$Top Sushi in Houston, TX, stands out as a
+  welcoming spot for enjoying fresh sushi and Japanese-inspired dishes in a
+  relaxed setting. This casual eatery features an array of authentic flavors,
+  including expertly prepared rolls, sake selections, and creative cocktails
+  that pair perfectly with your meal. With convenient hours and accessibility
+  features like wheelchair-friendly entrances, it's an ideal choice for those
+  seeking sushi restaurants near me that cater to diverse needs. Happy-hour
+  deals add extra value, making it a go-to destination for flavorful bites
+  without breaking the bank. Whether you're exploring top-rated sushi options or
+  Japanese places near me, this spot delivers a satisfying blend of quality and
+  affordability.
+generative_summary: >-
+  Discover Top Sushi in Houston, TX$$$Top Sushi in Houston, TX, stands out as a
+  welcoming spot for enjoying fresh sushi and Japanese-inspired dishes in a
+  relaxed setting. This casual eatery features an array of authentic flavors,
+  including expertly prepared rolls, sake selections, and creative cocktails
+  that pair perfectly with your meal. With convenient hours and accessibility
+  features like wheelchair-friendly entrances, it's an ideal choice for those
+  seeking sushi restaurants near me that cater to diverse needs. Happy-hour
+  deals add extra value, making it a go-to destination for flavorful bites
+  without breaking the bank. Whether you're exploring top-rated sushi options or
+  Japanese places near me, this spot delivers a satisfying blend of quality and
+  affordability.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What People Are Saying About This Sushi Spot$$$Visitors to this Houston sushi
+  restaurant often rave about the consistently fresh ingredients and generous
+  portions that make every visit worthwhile. Many highlight the friendly service
+  and vibrant atmosphere, noting how it enhances the overall dining experience
+  without any major drawbacks. Feedback frequently praises the variety of
+  options, from classic rolls to innovative specials, making it a solid pick for
+  groups or solo diners alike. While a few mention minor waits during peak
+  times, the general consensus leans positive, with folks appreciating the value
+  and taste that keep them coming back. If you're on the hunt for best sushi
+  near me, this place earns high marks for delivering a reliably enjoyable meal
+  with a welcoming vibe.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +413,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Edo Ichi Sushi & Hibachi Steakhouse"
+title: Edo Ichi Sushi & Hibachi Steakhouse
 permalink: /connecticut/wethersfield/edo-ichi-sushi-hibachi-steakhouse.html
 stateAbbr: CT
 stateName: Connecticut
 cityName: Wethersfield
 seo:
-  name: "Edo Ichi Sushi & Hibachi Steakhouse"
-  type: Restaurant
+  type: restaurant
   links: https://www.edoichisushihibachi.com/
-description: "Modern, colorful Japanese restaurant serving sushi, noodles, hibachi fare & more. Edo Ichi Sushi & Hibachi Steakhouse serves delicious sushi in Wethersfield, Connecticut. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJx0Ev0WFS5okR-A-waMC2kkY
 photos:
   - name: >-
@@ -185,6 +183,35 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 0
 website: https://www.edoichisushihibachi.com/
+description: >-
+  Discover Edo Ichi Sushi & Hibachi in Wethersfield, CT$$$Edo Ichi Sushi &
+  Hibachi Steakhouse in Wethersfield, CT, delivers a vibrant take on Japanese
+  dining with a focus on fresh sushi rolls, savory steak, and other classic
+  dishes in a welcoming environment. This spot stands out for its modern,
+  colorful decor that creates a comfortable atmosphere ideal for casual meals or
+  special occasions, complemented by accessible features like
+  wheelchair-friendly parking and seating. Diners can enjoy a variety of hibachi
+  fare and noodles, all prepared with high-quality ingredients that emphasize
+  authentic flavors. The restaurant also offers convenient options like outdoor
+  seating and a menu catering to families, making it a go-to choice for those
+  seeking sushi restaurants near everyday routines. With its moderate pricing
+  and array of Japanese eats, it's a solid option for anyone exploring top-rated
+  sushi spots in the area.
+generative_summary: >-
+  Discover Edo Ichi Sushi & Hibachi in Wethersfield, CT$$$Edo Ichi Sushi &
+  Hibachi Steakhouse in Wethersfield, CT, delivers a vibrant take on Japanese
+  dining with a focus on fresh sushi rolls, savory steak, and other classic
+  dishes in a welcoming environment. This spot stands out for its modern,
+  colorful decor that creates a comfortable atmosphere ideal for casual meals or
+  special occasions, complemented by accessible features like
+  wheelchair-friendly parking and seating. Diners can enjoy a variety of hibachi
+  fare and noodles, all prepared with high-quality ingredients that emphasize
+  authentic flavors. The restaurant also offers convenient options like outdoor
+  seating and a menu catering to families, making it a go-to choice for those
+  seeking sushi restaurants near everyday routines. With its moderate pricing
+  and array of Japanese eats, it's a solid option for anyone exploring top-rated
+  sushi spots in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJx0Ev0WFS5okR-A-waMC2kkY/reviews/ChdDSUhNMG9nS0VJQ0FnSURfcEx2bHlBRRAB
@@ -370,6 +397,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNndTRMd2xRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNndTRMd2xRRRAB!2m1!1s0x89e65261d12f41c7:0x4692b6c068b00ff8
+review_summary: >-
+  What Visitors Love About This Sushi Spot$$$Folks often rave about the tasty
+  hibachi dishes and fresh sushi here, with many highlighting the combination
+  plates and standout items like lobster and salmon as must-tries for a
+  satisfying meal. While the service is generally described as friendly and
+  attentive, creating a lively vibe that's great for groups or family dinners, a
+  few mentions note occasional hiccups that didn't overshadow the overall
+  experience. Customers appreciate the generous portions and reasonable prices,
+  making it feel like a worthwhile spot for everyday Japanese cravings or
+  celebrations. All in all, it's praised as a reliable choice for quality eats
+  in a comfortable setting, though it's smart to keep expectations in check for
+  busier times. If you're on the hunt for sushi places near you, this one earns
+  solid nods for its flavorful offerings and welcoming feel.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -402,8 +443,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Modern, colorful Japanese restaurant serving sushi, noodles, hibachi fare &
   more.
 

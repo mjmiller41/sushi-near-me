@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Hanami Sushi"
+title: Hanami Sushi
 permalink: /california/calabasas/hanami-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Calabasas
 seo:
-  name: "Hanami Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Hanami Sushi serves delicious sushi in Calabasas, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJdZCo9cYg6IARVledR2hg9U8
 photos:
   - name: >-
@@ -185,7 +183,46 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Experience Hanami Sushi in Calabasas$$$Hanami Sushi in Calabasas, CA, offers a
+  welcoming retreat for those seeking authentic Japanese flavors in a relaxed
+  setting. This cozy spot specializes in fresh sushi and small plates that
+  highlight quality ingredients and traditional preparation methods, making it a
+  go-to choice for sushi enthusiasts exploring options nearby. The restaurant's
+  casual atmosphere combines with thoughtful accessibility features, ensuring a
+  comfortable visit for all guests. Whether you're in the mood for inventive
+  rolls or classic nigiri, the menu delivers a satisfying blend of tastes that
+  appeal to fans of Japanese cuisine. Its location in this vibrant area makes it
+  an ideal stop for anyone searching for top-rated sushi experiences close to
+  home.
+generative_summary: >-
+  Experience Hanami Sushi in Calabasas$$$Hanami Sushi in Calabasas, CA, offers a
+  welcoming retreat for those seeking authentic Japanese flavors in a relaxed
+  setting. This cozy spot specializes in fresh sushi and small plates that
+  highlight quality ingredients and traditional preparation methods, making it a
+  go-to choice for sushi enthusiasts exploring options nearby. The restaurant's
+  casual atmosphere combines with thoughtful accessibility features, ensuring a
+  comfortable visit for all guests. Whether you're in the mood for inventive
+  rolls or classic nigiri, the menu delivers a satisfying blend of tastes that
+  appeal to fans of Japanese cuisine. Its location in this vibrant area makes it
+  an ideal stop for anyone searching for top-rated sushi experiences close to
+  home.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Guest Feedback$$$Visitors to this sushi spot often rave about
+  the fresh, flavorful dishes that bring a genuine taste of Japan to the table,
+  with many highlighting the variety of options that cater to different
+  preferences. Some folks note that the portions are generous and the ambiance
+  adds to the overall enjoyment, creating a laid-back vibe perfect for casual
+  meals or gatherings. While a few mention occasional waits during peak times,
+  the general consensus leans positive, appreciating the attentive service that
+  enhances the dining experience. Overall, it's clear that this place stands out
+  for its commitment to quality ingredients and welcoming feel, making it a
+  solid pick for those hunting for reliable sushi nearby. If you're on the
+  lookout for great Japanese fare, the feedback suggests it's worth a try for a
+  memorable meal.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +248,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

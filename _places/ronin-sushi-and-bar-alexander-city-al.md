@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ronin Sushi And Bar"
+title: Ronin Sushi And Bar
 permalink: /alabama/alexander-city/ronin-sushi-and-bar.html
 stateAbbr: AL
 stateName: Alabama
 cityName: Alexander City
 seo:
-  name: "Ronin Sushi And Bar"
-  type: Restaurant
+  type: restaurant
   links: https://www.roninsushibarac.com/
-description: "Ronin Sushi And Bar serves delicious sushi in Alexander City, Alabama. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ2UX6rAwNjIgRozqWpJmBx2Y
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $10 &ndash; $20
 rating: '4.2'
 rating_count: 0
 website: https://www.roninsushibarac.com/
+description: >-
+  Discover Ronin Sushi and Bar in Alexander City, AL$$$Nestled in Alexander
+  City, AL, Ronin Sushi and Bar stands out as a welcoming spot for enjoying
+  authentic Japanese cuisine, particularly fresh sushi options that highlight
+  the area's growing dining scene. This casual eatery boasts a relaxed
+  atmosphere perfect for a quick meal or gathering with friends, complemented by
+  thoughtful accessibility features like wheelchair-friendly entrances and
+  seating. Patrons can savor a variety of Japanese dishes in a moderately priced
+  setting, making it an ideal choice for those searching for quality sushi
+  restaurants nearby. The menu includes flavorful fare served with beer and
+  wine, appealing to anyone exploring top-rated sushi experiences in the region.
+  With its convenient location, it's a go-to destination for locals and visitors
+  alike seeking satisfying Japanese places close to home.
+generative_summary: >-
+  Discover Ronin Sushi and Bar in Alexander City, AL$$$Nestled in Alexander
+  City, AL, Ronin Sushi and Bar stands out as a welcoming spot for enjoying
+  authentic Japanese cuisine, particularly fresh sushi options that highlight
+  the area's growing dining scene. This casual eatery boasts a relaxed
+  atmosphere perfect for a quick meal or gathering with friends, complemented by
+  thoughtful accessibility features like wheelchair-friendly entrances and
+  seating. Patrons can savor a variety of Japanese dishes in a moderately priced
+  setting, making it an ideal choice for those searching for quality sushi
+  restaurants nearby. The menu includes flavorful fare served with beer and
+  wine, appealing to anyone exploring top-rated sushi experiences in the region.
+  With its convenient location, it's a go-to destination for locals and visitors
+  alike seeking satisfying Japanese places close to home.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ2UX6rAwNjIgRozqWpJmBx2Y/reviews/ChdDSUhNMG9nS0VJQ0FnSURmX0lTRDRRRRAB
@@ -326,6 +351,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURwdEpiVlpnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURwdEpiVlpnEAE!2m1!1s0x888c0d0cacfa45d9:0x66c78199a4963aa3
+review_summary: >-
+  Insights from Recent Feedback on This Sushi Spot$$$Folks generally rave about
+  the fresh and tasty sushi here, with many highlighting how the lunch specials
+  offer great value and hit the spot for a satisfying meal. While most visitors
+  appreciate the accommodating service and affordable prices that make it a
+  solid pick for groups or families, there have been occasional mentions of
+  slower service on busier days. Overall, the food's quality and variety keep
+  drawing people back, creating a vibe that's worth trying if you're in the mood
+  for something delicious. It's clear that this spot shines for its authentic
+  flavors and welcoming environment, though keeping things consistent could
+  enhance the experience even more. If you're hunting for the best sushi near
+  you, this place often delivers a memorable dine-in option with plenty of
+  positives to outweigh any minor hiccups.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -358,7 +397,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

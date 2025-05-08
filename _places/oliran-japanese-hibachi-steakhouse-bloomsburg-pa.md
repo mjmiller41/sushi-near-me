@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Oliran Japanese Hibachi Steakhouse"
+title: Oliran Japanese Hibachi Steakhouse
 permalink: /pennsylvania/bloomsburg/oliran-japanese-hibachi-steakhouse.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Bloomsburg
 seo:
-  name: "Oliran Japanese Hibachi Steakhouse"
-  type: Restaurant
+  type: restaurant
   links: https://www.oliranpa.com/
-description: "Oliran Japanese Hibachi Steakhouse serves delicious sushi in Bloomsburg, Pennsylvania. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJIdeNe3GHxYkRsrZTzGJ1wCg
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 0
 website: https://www.oliranpa.com/
+description: >-
+  Discover Japanese Dining in Bloomsburg, PA$$$In Bloomsburg, PA, Oliran
+  Japanese Hibachi Steakhouse stands out as a casual spot for enjoying fresh
+  sushi and flavorful Thai-inspired dishes alongside interactive hibachi
+  cooking. This welcoming restaurant features a relaxed atmosphere perfect for
+  groups, with options like wheelchair-accessible seating and a variety of menu
+  choices that cater to different tastes. Diners can savor expertly prepared
+  meals that highlight the best of Japanese cuisine, from vibrant rolls to
+  sizzling grill favorites, all at moderate prices. The establishment's focus on
+  quality ingredients and family-friendly vibes makes it an ideal choice for
+  anyone seeking authentic Asian flavors in a comfortable setting, appealing to
+  those exploring local sushi options.
+generative_summary: >-
+  Discover Japanese Dining in Bloomsburg, PA$$$In Bloomsburg, PA, Oliran
+  Japanese Hibachi Steakhouse stands out as a casual spot for enjoying fresh
+  sushi and flavorful Thai-inspired dishes alongside interactive hibachi
+  cooking. This welcoming restaurant features a relaxed atmosphere perfect for
+  groups, with options like wheelchair-accessible seating and a variety of menu
+  choices that cater to different tastes. Diners can savor expertly prepared
+  meals that highlight the best of Japanese cuisine, from vibrant rolls to
+  sizzling grill favorites, all at moderate prices. The establishment's focus on
+  quality ingredients and family-friendly vibes makes it an ideal choice for
+  anyone seeking authentic Asian flavors in a comfortable setting, appealing to
+  those exploring local sushi options.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJIdeNe3GHxYkRsrZTzGJ1wCg/reviews/ChdDSUhNMG9nS0VJQ0FnSUQzdDlhU3BRRRAB
@@ -370,6 +393,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUM5dUl2MTRRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUM5dUl2MTRRRRAB!2m1!1s0x89c587717b8dd721:0x28c07562cc53b6b2
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors often praise the standout sushi and
+  hibachi dishes for their fresh flavors and generous portions, making it a fun
+  and satisfying pick for casual meals. Many highlight the attentive service and
+  lively cooking demonstrations that turn dining into an engaging experience,
+  especially for families or groups. Feedback frequently notes the great value,
+  with affordable pricing and specials that encourage trying a variety of items
+  without breaking the bank. Overall, folks appreciate the welcoming vibe and
+  reliable quality, positioning this spot as a go-to for enjoyable
+  Japanese-inspired eats. While a few mentions touch on minor preferences like
+  lighter tempura, the consensus leans positive, suggesting it's worth checking
+  out for a memorable local dining adventure.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -402,7 +438,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

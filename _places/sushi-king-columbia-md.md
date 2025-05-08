@@ -1,15 +1,14 @@
 ---
 layout: place
-title: "Sushi King"
+title: Sushi King
 permalink: /maryland/columbia/sushi-king.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Columbia
 seo:
-  name: "Sushi King"
-  type: Restaurant
-  links: https://www.sushikingcolumbia.com/?utm_source=google&utm_medium=local&utm_campaign=website
-description: "Popular & unpretentious Japanese restaurant featuring sushi shuttled by servers in traditional garb. Sushi King serves delicious sushi in Columbia, Maryland. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
+  type: restaurant
+  links: >-
+    https://www.sushikingcolumbia.com/?utm_source=google&utm_medium=local&utm_campaign=website
 place_id: ChIJ78Drnn7gt4kRhb1KczazmFc
 photos:
   - name: >-
@@ -186,6 +185,33 @@ rating: '4.7'
 rating_count: 0
 website: >-
   https://www.sushikingcolumbia.com/?utm_source=google&utm_medium=local&utm_campaign=website
+description: >-
+  Discover Sushi King in Columbia, Maryland$$$Sushi King in Columbia, Maryland,
+  stands out as a go-to destination for fresh Japanese cuisine in a relaxed
+  setting. This spot delights with a blend of traditional dishes and creative
+  rolls, making it ideal for anyone craving authentic flavors with a modern
+  twist. The casual, family-friendly atmosphere ensures a comfortable dining
+  experience, complemented by thoughtful accessibility features like
+  wheelchair-friendly entrances and seating. Patrons can enjoy a variety of
+  options, including vegetarian selections, that cater to diverse tastes, all
+  while savoring the high-quality ingredients that define top sushi restaurants
+  in the area. If you're exploring sushi places nearby or seeking the best
+  Japanese dining options close to home, this location delivers a satisfying and
+  accessible meal.
+generative_summary: >-
+  Discover Sushi King in Columbia, Maryland$$$Sushi King in Columbia, Maryland,
+  stands out as a go-to destination for fresh Japanese cuisine in a relaxed
+  setting. This spot delights with a blend of traditional dishes and creative
+  rolls, making it ideal for anyone craving authentic flavors with a modern
+  twist. The casual, family-friendly atmosphere ensures a comfortable dining
+  experience, complemented by thoughtful accessibility features like
+  wheelchair-friendly entrances and seating. Patrons can enjoy a variety of
+  options, including vegetarian selections, that cater to diverse tastes, all
+  while savoring the high-quality ingredients that define top sushi restaurants
+  in the area. If you're exploring sushi places nearby or seeking the best
+  Japanese dining options close to home, this location delivers a satisfying and
+  accessible meal.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ78Drnn7gt4kRhb1KczazmFc/reviews/ChdDSUhNMG9nS0VJQ0FnSUNYdGZIdDhnRRAB
@@ -415,6 +441,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQ5d3Fld1pREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQ5d3Fld1pREAE!2m1!1s0x89b7e07e9eebc0ef:0x5798b336734abd85
+review_summary: >-
+  What Guests Are Saying About This Sushi Spot$$$Folks frequently rave about the
+  fresh and flavorful sushi and sashimi at this popular eatery, with many
+  highlighting creative rolls that bring a fun twist to classic favorites. The
+  service stands out as friendly and efficient, creating a welcoming vibe that
+  keeps diners coming back for more. Visitors appreciate the clean, lively
+  atmosphere and good value, making it a solid choice for families, groups, or
+  anyone in the mood for a casual meal. While some mention occasional busier
+  moments that might slow things down, the overall experience remains positive
+  and enjoyable. If you're on the hunt for top-rated sushi near you, this place
+  earns high marks for its tasty offerings and attentive staff that make every
+  visit feel worthwhile.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -447,8 +486,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Popular & unpretentious Japanese restaurant featuring sushi shuttled by
   servers in traditional garb.
 

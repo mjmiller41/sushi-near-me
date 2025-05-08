@@ -1,7 +1,7 @@
 import { getCurrMthYr } from './utils.js'
 import { config } from './config.js'
 import columnify from 'columnify'
-import { getSkuDbData, upsertPlacesApiSkuData } from './db.js'
+import DB from './db.js'
 
 const SKU_CATEGORIES = Object.freeze({
   ID_ONLY: 'id_only',
@@ -22,7 +22,7 @@ const DEFAULT_PLACES_API_SKU_DATA = [
     func: SKU_FUNCS.TEXT_SEARCH,
     category: SKU_CATEGORIES.ID_ONLY,
     description: 'Places API: Text Search Essentials (IDs Only)',
-    fields: ['places.id'],
+    fields: ['places.id,nextPageToken'],
     usage_caps: [2147483647],
     costs_per_one_k: [0.0],
     cost_level: 0,
@@ -230,26 +230,45 @@ const DEFAULT_PLACES_API_SKU_DATA = [
 ]
 const SKU_COST_LIMIT = config.costLimit
 
+const db = new DB()
 class SkuData {
   constructor() {
-    this.skuObjs = this.getCurrentSkuData()
-    this.checkWithinCostLimit()
+    this.skuObjs = []
+  }
+
+  static async create() {
+    const instance = new SkuData()
+    await instance.getCurrentSkuData()
+    return instance
   }
 
   async getCurrentSkuData() {
-    const data = await getSkuDbData()
-    console.log(`Sku data retrieved from db.`)
-    let rows
-    if (data.rowCount > 0) rows = data.rows
-    else rows = DEFAULT_PLACES_API_SKU_DATA
-
-    const currentSkuData = []
+    let { rows, rowCount } = await db.getSkuDbData()
+    console.log(`${rowCount} Skus retrieved from db.`)
+    if (!rows || rowCount === 0) rows = DEFAULT_PLACES_API_SKU_DATA
     for (const row of rows) {
-      const sku = new Sku(row)
-      currentSkuData.push(sku)
+      this.skuObjs.push(new Sku(row))
     }
-    if (!checkWithinCostLimit(currentSkuData)) throw Error('Costs Exceeded')
-    return currentSkuData
+    this.checkWithinCostLimit()
+  }
+
+  checkWithinCostLimit() {
+    let skuCostsSum = 0.0
+    for (const sku of Object.keys(this.skuObjs)) {
+      skuCostsSum += Number(this.skuObjs[sku].cumm_cost)
+    }
+    if (skuCostsSum > SKU_COST_LIMIT) {
+      console.log(
+        `Costs exceeded for ${getCurrMthYr()}, Limit: ${SKU_COST_LIMIT}, \
+        Current cost: ${skuCostsSum}`
+      )
+      return false
+    }
+    console.log(
+      `Costs within limits for ${getCurrMthYr()}, Limit: ${SKU_COST_LIMIT}, \
+        Current cost: ${skuCostsSum}`
+    )
+    return true
   }
 
   filterUpdateSkus(update_category, activeSkus) {
@@ -265,9 +284,24 @@ class SkuData {
     return updateSkus
   }
 
+  logSkuReport() {
+    const table = []
+    for (const sku of this.skuObjs) {
+      table.push({
+        Sku: sku.description,
+        'Billing Period': sku.billing_period,
+        'Req Count': sku.request_count,
+        'Free Limit Hit': sku.free_limit_hit,
+        'Cumm Cost': sku.cumm_cost
+      })
+    }
+    const columns = columnify(table)
+    console.log(`\n${columns}`)
+  }
+
   async save() {
     try {
-      await upsertPlacesApiSkuData(this.skuObjs)
+      await db.upsertPlacesApiSkuData(this.skuObjs)
     } catch (error) {
       console.error(error)
     }
@@ -295,12 +329,10 @@ function checkWithinCostLimit(currentSkuData) {
 }
 
 async function getCurrentSkuData() {
-  const data = await getSkuDbData()
+  const { rows, rowCount, error } = await db.getSkuDbData()
   console.log(`Sku data retrieved from db.`)
-  let rows
-  if (data.rowCount > 0) rows = data.rows
-  else rows = DEFAULT_PLACES_API_SKU_DATA
-
+  if (error) throw error
+  if (!rows || rowCount === 0) rows = DEFAULT_PLACES_API_SKU_DATA
   const currentSkuData = []
   for (const row of rows) {
     const sku = new Sku(row)
@@ -325,30 +357,16 @@ function filterActiveSkus(skus) {
 
 function filterUpdateSkus(update_category, activeSkus) {
   // update_category already has highest update level
-  if (update_category === SKU_CATEGORIES.ATMOSPHERE) return
+  if (update_category === SKU_CATEGORIES.ATMOSPHERE) return null
   // Find highest update category not updated for place
-  let updateSkus = activeSkus
   if (update_category) {
-    const updatedSku = activeSkus.filter(sku => sku.category === update_category)
-    const updateLevel = updatedSku[0].cost_level - 1
-    updateSkus = activeSkus.filter(sku => updateLevel < sku.cost_level)
+    const updatedSku = activeSkus.filter(sku => sku.category === update_category)[0]
+    const updateLevel = updatedSku.cost_level - 1
+    const updateSkus = activeSkus.filter(sku => updateLevel < sku.cost_level)
+    if (updateSkus.length === 0) return null
+    return updateSkus
   }
-  return updateSkus
-}
-
-function logSkuReport(skuData) {
-  const table = []
-  for (const sku of skuData) {
-    table.push({
-      Sku: sku.description,
-      'Billing Period': sku.billing_period,
-      'Req Count': sku.request_count,
-      'Free Limit Hit': sku.free_limit_hit,
-      'Cumm Cost': sku.cumm_cost
-    })
-  }
-  const columns = columnify(table)
-  console.log(columns)
+  return null
 }
 
 class Sku {
@@ -377,7 +395,7 @@ class Sku {
 
   static async saveCurrentSkuData(currentSkuData) {
     try {
-      await upsertPlacesApiSkuData(currentSkuData)
+      await db.upsertPlacesApiSkuData(currentSkuData)
     } catch (error) {
       console.error(error)
     }
@@ -429,7 +447,6 @@ export {
   SkuData,
   checkWithinCostLimit,
   getCurrentSkuData,
-  logSkuReport,
   filterActiveSkus,
   filterUpdateSkus
 }

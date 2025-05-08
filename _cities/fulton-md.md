@@ -5,4 +5,5 @@ permalink: /maryland/fulton/
 stateAbbr: MD
 stateName: Maryland
 cityName: Fulton
+
 ---

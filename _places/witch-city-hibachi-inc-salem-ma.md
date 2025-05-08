@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Witch City Hibachi, Inc."
+title: Witch City Hibachi, Inc.
 permalink: /massachusetts/salem/witch-city-hibachi-inc.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Salem
 seo:
-  name: "Witch City Hibachi, Inc."
-  type: Restaurant
+  type: restaurant
   links: https://www.witchcityhibachi.com/
-description: "Witch City Hibachi, Inc. serves delicious sushi in Salem, Massachusetts. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ4diJ25gV44kRpRKwwN04iyE
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 0
 website: https://www.witchcityhibachi.com/
+description: >-
+  Discover Witch City Hibachi in Salem, Massachusetts$$$Witch City Hibachi, Inc.
+  in Salem, Massachusetts, stands out as a inviting spot for enjoying Japanese
+  flavors, blending teppanyaki and sushi in a relaxed atmosphere with a unique
+  thematic twist. This sushi restaurant near you offers a menu that highlights
+  fresh ingredients and creative presentations, making it a go-to choice for
+  those seeking top-rated Japanese dishes in a casual setting. Diners can savor
+  expertly prepared hibachi options and sushi rolls that emphasize quality and
+  taste, all while experiencing the charm of the local vibe. With accessible
+  features like wheelchair-friendly entrances and seating, it's designed for
+  everyone to enjoy a comfortable meal, adding to its appeal as one of the best
+  sushi places near me for a memorable dining experience.
+generative_summary: >-
+  Discover Witch City Hibachi in Salem, Massachusetts$$$Witch City Hibachi, Inc.
+  in Salem, Massachusetts, stands out as a inviting spot for enjoying Japanese
+  flavors, blending teppanyaki and sushi in a relaxed atmosphere with a unique
+  thematic twist. This sushi restaurant near you offers a menu that highlights
+  fresh ingredients and creative presentations, making it a go-to choice for
+  those seeking top-rated Japanese dishes in a casual setting. Diners can savor
+  expertly prepared hibachi options and sushi rolls that emphasize quality and
+  taste, all while experiencing the charm of the local vibe. With accessible
+  features like wheelchair-friendly entrances and seating, it's designed for
+  everyone to enjoy a comfortable meal, adding to its appeal as one of the best
+  sushi places near me for a memorable dining experience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ4diJ25gV44kRpRKwwN04iyE/reviews/ChdDSUhNMG9nS0VJQ0FnSUMzeF9iZDVBRRAB
@@ -362,6 +385,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN2bHRtd2dRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN2bHRtd2dRRRAB!2m1!1s0x89e31598db89d8e1:0x218b38ddc0b012a5
+review_summary: >-
+  What Customers Are Buzzing About This Local Spot$$$Folks love the flavorful
+  hibachi and sushi here, often praising the generous portions and perfectly
+  cooked dishes that make every bite satisfying. Many highlight the fresh
+  ingredients and tasty sides like salads and soups, turning meals into a real
+  treat for anyone craving Japanese cuisine. While the service gets high marks
+  for being friendly and efficient, a few mentions of delivery hiccups show it's
+  not flawless, though these seem to be exceptions. Overall, it's a solid pick
+  for groups or families looking for a fun, casual vibe, with the variety on the
+  menu keeping things exciting and reliable. If you're hunting for great sushi
+  restaurants nearby, this place delivers a mostly positive experience that's
+  worth checking out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeStreetParking: true
   paidStreetParking: true
@@ -393,7 +429,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

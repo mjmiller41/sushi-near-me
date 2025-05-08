@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Tsunami Sushi Restaurant"
+title: Tsunami Sushi Restaurant
 permalink: /south-carolina/columbia/tsunami-sushi-restaurant.html
 stateAbbr: SC
 stateName: South Carolina
 cityName: Columbia
 seo:
-  name: "Tsunami Sushi Restaurant"
-  type: Restaurant
+  type: restaurant
   links: https://sites.google.com/view/tsunami-vista/home
-description: "Tsunami Sushi Restaurant serves delicious sushi in Columbia, South Carolina. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJzd4veC67-IgRilQne4jQNzs
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x88f8bb2e782fdecd:0x3b37d0887b27548a!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 16
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 16
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 4:00 – 10:00 PM'
     - 'Tuesday: 4:00 – 10:00 PM'
     - 'Wednesday: 4:00 – 10:00 PM'
@@ -178,28 +234,117 @@ opening_hours:
     - 'Friday: 4:00 – 10:00 PM'
     - 'Saturday: 4:00 – 10:00 PM'
     - 'Sunday: 4:00 – 10:00 PM'
-  current:
-    - 'Monday: 4:00 – 10:00 PM'
-    - 'Tuesday: 4:00 – 10:00 PM'
-    - 'Wednesday: 4:00 – 10:00 PM'
-    - 'Thursday: 4:00 – 10:00 PM'
-    - 'Friday: 4:00 – 10:00 PM'
-    - 'Saturday: 4:00 – 10:00 PM'
-    - 'Sunday: 4:00 – 10:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 16
+          minute: 0
+        close:
+          day: 0
+          hour: 19
+          minute: 0
+      - open:
+          day: 1
+          hour: 16
+          minute: 0
+        close:
+          day: 1
+          hour: 19
+          minute: 0
+      - open:
+          day: 2
+          hour: 16
+          minute: 0
+        close:
+          day: 2
+          hour: 19
+          minute: 0
+      - open:
+          day: 3
+          hour: 16
+          minute: 0
+        close:
+          day: 3
+          hour: 19
+          minute: 0
+      - open:
+          day: 4
+          hour: 16
+          minute: 0
+        close:
+          day: 4
+          hour: 19
+          minute: 0
+      - open:
+          day: 5
+          hour: 16
+          minute: 0
+        close:
+          day: 5
+          hour: 19
+          minute: 0
+      - open:
+          day: 6
+          hour: 16
+          minute: 0
+        close:
+          day: 6
+          hour: 19
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 4:00 – 7:00 PM'
+      - 'Tuesday: 4:00 – 7:00 PM'
+      - 'Wednesday: 4:00 – 7:00 PM'
+      - 'Thursday: 4:00 – 7:00 PM'
+      - 'Friday: 4:00 – 7:00 PM'
+      - 'Saturday: 4:00 – 7:00 PM'
+      - 'Sunday: 4:00 – 7:00 PM'
+    secondaryHoursType: HAPPY_HOUR
+    nextCloseTime: '2025-05-03T23:00:00Z'
 phone: (803) 312-9911
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.1'
-rating_count: 0
+rating_count: 1118
 website: https://sites.google.com/view/tsunami-vista/home
+description: >-
+  Discover Tsunami Sushi in Columbia, SC$$$Tsunami Sushi Restaurant in Columbia,
+  SC, stands out as a go-to spot for fresh Japanese cuisine, blending
+  traditional flavors with a relaxed vibe. This sushi haven features an array of
+  expertly prepared rolls, hibachi dishes, and other authentic options, making
+  it ideal for anyone craving quality Asian fare in a welcoming environment.
+  With convenient evening hours and happy hour specials, it's perfect for casual
+  dinners or quick bites after a long day. The restaurant's accessibility
+  features ensure a comfortable visit for all, enhancing its appeal as one of
+  the top sushi places near me in the area.
+generative_summary: >-
+  Discover Tsunami Sushi in Columbia, SC$$$Tsunami Sushi Restaurant in Columbia,
+  SC, stands out as a go-to spot for fresh Japanese cuisine, blending
+  traditional flavors with a relaxed vibe. This sushi haven features an array of
+  expertly prepared rolls, hibachi dishes, and other authentic options, making
+  it ideal for anyone craving quality Asian fare in a welcoming environment.
+  With convenient evening hours and happy hour specials, it's perfect for casual
+  dinners or quick bites after a long day. The restaurant's accessibility
+  features ensure a comfortable visit for all, enhancing its appeal as one of
+  the top sushi places near me in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$From what people share about Tsunami Sushi, it's
+  clear that the fresh ingredients and tasty dishes keep diners coming back for
+  more, earning it a solid reputation among local sushi spots. Many appreciate
+  the variety of options, from creative rolls to hearty hibachi selections,
+  which make it a fun choice for groups or solo meals. While opinions vary, the
+  overall vibe and service tend to leave a positive impression, with folks often
+  highlighting the value during happy hours. It's easy to see why this place
+  ranks highly for those searching sushi restaurants near me, offering a
+  generally satisfying experience that's worth trying. Though not perfect, the
+  consistent feedback suggests it's a reliable pick for anyone in the mood for
+  Japanese-inspired eats.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +370,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

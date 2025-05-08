@@ -5,4 +5,5 @@ permalink: /florida/palm-coast/
 stateAbbr: FL
 stateName: Florida
 cityName: Palm Coast
+
 ---

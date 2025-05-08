@@ -5,4 +5,5 @@ permalink: /florida/safety-harbor/
 stateAbbr: FL
 stateName: Florida
 cityName: Safety Harbor
+
 ---

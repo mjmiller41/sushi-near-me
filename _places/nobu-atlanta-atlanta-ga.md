@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Nobu Atlanta"
+title: Nobu Atlanta
 permalink: /georgia/atlanta/nobu-atlanta.html
 stateAbbr: GA
 stateName: Georgia
 cityName: Atlanta
 seo:
-  name: "Nobu Atlanta"
-  type: Restaurant
+  type: restaurant
   links: https://www.noburestaurants.com/atlanta/reservations/
-description: "Nobu Atlanta serves delicious sushi in Atlanta, Georgia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJB6y-jFAP9YgRKx_83w2FA4U
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $100 &ndash; & up
 rating: '3.9'
 rating_count: 0
 website: https://www.noburestaurants.com/atlanta/reservations/
+description: >-
+  Discover Nobu Atlanta in Atlanta, GA$$$Nobu Atlanta in Atlanta, GA, is a
+  premier destination for those seeking upscale Japanese dining, featuring an
+  array of fresh sushi and seafood dishes that highlight innovative flavors.
+  This elegant restaurant offers a sophisticated atmosphere with thoughtful
+  accessibility features, making it a welcoming spot for a variety of diners
+  looking for quality Japanese cuisine. Patrons can enjoy a menu that emphasizes
+  premium ingredients and creative presentations, ideal for anyone exploring
+  top-rated sushi options in the area. Whether you're in the mood for expertly
+  crafted rolls or other refined entrees, the experience here combines style and
+  substance in a vibrant Buckhead setting, perfect for those searching for sushi
+  restaurants near me.
+generative_summary: >-
+  Discover Nobu Atlanta in Atlanta, GA$$$Nobu Atlanta in Atlanta, GA, is a
+  premier destination for those seeking upscale Japanese dining, featuring an
+  array of fresh sushi and seafood dishes that highlight innovative flavors.
+  This elegant restaurant offers a sophisticated atmosphere with thoughtful
+  accessibility features, making it a welcoming spot for a variety of diners
+  looking for quality Japanese cuisine. Patrons can enjoy a menu that emphasizes
+  premium ingredients and creative presentations, ideal for anyone exploring
+  top-rated sushi options in the area. Whether you're in the mood for expertly
+  crafted rolls or other refined entrees, the experience here combines style and
+  substance in a vibrant Buckhead setting, perfect for those searching for sushi
+  restaurants near me.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJB6y-jFAP9YgRKx_83w2FA4U/reviews/ChZDSUhNMG9nS0VJQ0FnTURBOV9pVEx3EAE
@@ -382,6 +405,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUN3NUlqbXpRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUN3NUlqbXpRRRAB!2m1!1s0x88f50f508cbeac07:0x8503850ddffc1f2b
+review_summary: >-
+  Insights from Diners at This Japanese Gem$$$Visitors often praise the fresh
+  and flavorful sushi selections, with standout dishes delivering a perfect
+  balance of taste and quality that keeps people coming back for more. While the
+  service tends to be friendly and accommodating overall, some note occasional
+  waits that don't quite match the high-energy vibe of the place, though it
+  rarely detracts from the meal. The ambiance and creative offerings, like
+  inventive appetizers and drinks, create a relaxed yet exciting environment
+  that's great for groups or special evenings out. All in all, if you're on the
+  hunt for reliable Japanese places near me, this spot delivers a solid
+  experience with delicious highlights that make it worth a visit.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   paidParkingLot: true
@@ -415,7 +450,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

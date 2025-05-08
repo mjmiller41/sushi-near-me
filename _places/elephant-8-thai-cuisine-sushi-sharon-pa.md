@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Elephant #8 Thai Cuisine & Sushi"
+title: 'Elephant #8 Thai Cuisine & Sushi'
 permalink: /pennsylvania/sharon/elephant-8-thai-cuisine-sushi.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Sharon
 seo:
-  name: "Elephant #8 Thai Cuisine & Sushi"
-  type: Restaurant
-  links: null
-description: "Elephant #8 Thai Cuisine & Sushi serves delicious sushi in Sharon, Pennsylvania. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.elephantnumber8thaicuisineandsushi.com/
 place_id: ChIJCc_FX1rBM4gRL3AYqTpisyg
 photos:
   - name: >-
@@ -170,8 +168,113 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8833c15a5fc5cf09:0x28b3623aa918702f!10e5
 primary_type: Thai Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 15
+        minute: 0
+    - open:
+        day: 0
+        hour: 16
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 15
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 15
+        minute: 0
+    - open:
+        day: 6
+        hour: 16
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: Closed'
+    - 'Tuesday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM'
+    - 'Thursday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM'
+    - 'Friday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM'
+    - 'Saturday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM'
+    - 'Sunday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T01:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +282,50 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (724) 979-4148
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.7'
+rating_count: 314
+website: https://www.elephantnumber8thaicuisineandsushi.com/
+description: >-
+  Explore Elephant #8 Thai Cuisine & Sushi in Sharon, PA$$$Elephant #8 Thai
+  Cuisine & Sushi in Sharon, PA, offers a welcoming atmosphere for enjoying
+  authentic Thai dishes and fresh sushi options, making it a go-to spot for
+  those seeking flavorful meals in a relaxed setting. The restaurant features a
+  variety of vegetarian choices alongside classic favorites, ensuring there's
+  something for every diner looking for diverse and satisfying cuisine. With its
+  accessible design and convenient hours, it's an ideal destination for anyone
+  exploring sushi restaurants in the area, providing a comfortable space to
+  savor bold flavors and creative presentations. The moderate pricing adds to
+  its appeal, inviting locals and visitors alike to experience high-quality
+  dining without breaking the bank.
+generative_summary: >-
+  Explore Elephant #8 Thai Cuisine & Sushi in Sharon, PA$$$Elephant #8 Thai
+  Cuisine & Sushi in Sharon, PA, offers a welcoming atmosphere for enjoying
+  authentic Thai dishes and fresh sushi options, making it a go-to spot for
+  those seeking flavorful meals in a relaxed setting. The restaurant features a
+  variety of vegetarian choices alongside classic favorites, ensuring there's
+  something for every diner looking for diverse and satisfying cuisine. With its
+  accessible design and convenient hours, it's an ideal destination for anyone
+  exploring sushi restaurants in the area, providing a comfortable space to
+  savor bold flavors and creative presentations. The moderate pricing adds to
+  its appeal, inviting locals and visitors alike to experience high-quality
+  dining without breaking the bank.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Customer Feedback$$$Folks rave about the tasty offerings at this
+  Thai spot, with highlights on the scrumptious crab rangoon, hearty pad thai,
+  and well-crafted sushi that keep diners coming back for more. Many appreciate
+  the charming ambiance and the warm, attentive service that makes every visit
+  feel effortless and enjoyable. It's often noted for its great value, where
+  reasonable prices pair nicely with quick and efficient service, perfect for a
+  casual meal with friends or family. Overall, the positive vibes around the
+  food and atmosphere make it a solid choice for anyone hunting for reliable
+  sushi places nearby, though it's clear that the experience shines brightest
+  for those who love a mix of Thai and Japanese-inspired eats.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +351,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

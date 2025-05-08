@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Mt Fuji Hibachi & Sushi"
+title: Mt Fuji Hibachi & Sushi
 permalink: /colorado/parker/mt-fuji-hibachi-sushi.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Parker
 seo:
-  name: "Mt Fuji Hibachi & Sushi"
-  type: Restaurant
-  links: https://www.mtfujiparker.com/?utm_source=gmb&utm_medium=website
-description: "Mt Fuji Hibachi & Sushi serves delicious sushi in Parker, Colorado. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://mtfujihibachiparker.com/
 place_id: ChIJaSIki_yPbIcReiGODyVq2qk
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x876c8ffc8b242269:0xa9da6a250f8e217a!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:30 PM'
     - 'Tuesday: 11:00 AM – 9:30 PM'
     - 'Wednesday: 11:00 AM – 9:30 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:00 PM'
     - 'Saturday: 11:00 AM – 10:00 PM'
     - 'Sunday: 11:00 AM – 9:30 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:30 PM'
-    - 'Tuesday: 11:00 AM – 9:30 PM'
-    - 'Wednesday: 11:00 AM – 9:30 PM'
-    - 'Thursday: 11:00 AM – 9:30 PM'
-    - 'Friday: 11:00 AM – 10:00 PM'
-    - 'Saturday: 11:00 AM – 10:00 PM'
-    - 'Sunday: 11:00 AM – 9:30 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +246,50 @@ phone: (720) 851-8886
 price_level: PRICE_LEVEL_MODERATE
 price_range: $30 &ndash; $50
 rating: '4.5'
-rating_count: 0
-website: https://www.mtfujiparker.com/?utm_source=gmb&utm_medium=website
+rating_count: 429
+website: http://mtfujihibachiparker.com/
+description: >-
+  Discover Mt Fuji Hibachi & Sushi in Parker, Colorado$$$Mt Fuji Hibachi & Sushi
+  in Parker, Colorado, provides a welcoming spot for enjoying fresh Japanese
+  flavors, blending casual vibes with a menu that highlights expertly prepared
+  sushi and sizzling teppanyaki dishes. This local favorite offers a variety of
+  comforting options, including creative rolls and hearty entrees, making it an
+  ideal choice for those seeking authentic Asian dining experiences nearby. With
+  extended hours that include happy hour specials, it's perfect for casual meals
+  or gatherings with friends, adding to its appeal as a go-to destination for
+  flavorful cuisine in the area. The restaurant emphasizes accessibility,
+  ensuring a comfortable visit for all, while its inviting atmosphere encourages
+  repeat visits for everyday indulgences like premium rolls and grilled
+  favorites.
+generative_summary: >-
+  Discover Mt Fuji Hibachi & Sushi in Parker, Colorado$$$Mt Fuji Hibachi & Sushi
+  in Parker, Colorado, provides a welcoming spot for enjoying fresh Japanese
+  flavors, blending casual vibes with a menu that highlights expertly prepared
+  sushi and sizzling teppanyaki dishes. This local favorite offers a variety of
+  comforting options, including creative rolls and hearty entrees, making it an
+  ideal choice for those seeking authentic Asian dining experiences nearby. With
+  extended hours that include happy hour specials, it's perfect for casual meals
+  or gatherings with friends, adding to its appeal as a go-to destination for
+  flavorful cuisine in the area. The restaurant emphasizes accessibility,
+  ensuring a comfortable visit for all, while its inviting atmosphere encourages
+  repeat visits for everyday indulgences like premium rolls and grilled
+  favorites.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying About the Experience$$$Folks who stop by Mt Fuji
+  Hibachi & Sushi often praise the fresh and creative sushi selections, noting
+  how they hit the spot for anyone craving quality Japanese-inspired meals. Many
+  appreciate the lively hibachi shows and flavorful dishes that deliver great
+  value without breaking the bank, making it a solid pick for casual dinners or
+  family outings. While opinions vary, the overall vibe comes across as fun and
+  engaging, with highlights on the attentive service and tasty options that keep
+  people coming back. Based on high ratings, it's clear that diners enjoy the
+  welcoming environment, though some mention minor waits during peak times,
+  which doesn't overshadow the positive highlights. All in all, this spot
+  maintains a strong reputation for satisfying meals that make it worth trying
+  for sushi enthusiasts exploring local options.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +315,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

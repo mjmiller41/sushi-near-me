@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Hon"
+title: Sushi Hon
 permalink: /california/san-francisco/sushi-hon.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
 seo:
-  name: "Sushi Hon"
-  type: Restaurant
+  type: restaurant
   links: https://www.sushihon-sf.com/
-description: "Elevated bistro serving sushi, à la carte Japanese classics & an omakase menu in modern environs. Sushi Hon serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJE2a89jd-j4ARog5W0hCaIss
 photos:
   - name: >-
@@ -184,6 +182,33 @@ price_range: $100 &ndash; & up
 rating: '4.5'
 rating_count: 0
 website: https://www.sushihon-sf.com/
+description: >-
+  Discover Sushi Hon in San Francisco, CA$$$Sushi Hon in San Francisco, CA,
+  brings a fresh, contemporary spin to classic Japanese dining, featuring an
+  inviting sushi bar and innovative omakase options that highlight premium
+  ingredients. This spot stands out for its modern ambiance combined with
+  authentic flavors, making it a go-to choice for those seeking top-rated sushi
+  experiences in the area. Guests can enjoy a variety of Japanese classics
+  prepared with precision, alongside accessibility features like
+  wheelchair-friendly entrances and seating that enhance the overall visit. The
+  menu emphasizes high-quality fish and creative presentations, appealing to
+  anyone exploring sushi restaurants nearby. Whether you're in the mood for a
+  casual meal or something more upscale, Sushi Hon delivers a memorable blend of
+  tradition and modernity in the heart of the city.
+generative_summary: >-
+  Discover Sushi Hon in San Francisco, CA$$$Sushi Hon in San Francisco, CA,
+  brings a fresh, contemporary spin to classic Japanese dining, featuring an
+  inviting sushi bar and innovative omakase options that highlight premium
+  ingredients. This spot stands out for its modern ambiance combined with
+  authentic flavors, making it a go-to choice for those seeking top-rated sushi
+  experiences in the area. Guests can enjoy a variety of Japanese classics
+  prepared with precision, alongside accessibility features like
+  wheelchair-friendly entrances and seating that enhance the overall visit. The
+  menu emphasizes high-quality fish and creative presentations, appealing to
+  anyone exploring sushi restaurants nearby. Whether you're in the mood for a
+  casual meal or something more upscale, Sushi Hon delivers a memorable blend of
+  tradition and modernity in the heart of the city.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJE2a89jd-j4ARog5W0hCaIss/reviews/ChdDSUhNMG9nS0VJQ0FnTUNRbkliQ2tRRRAB
@@ -437,6 +462,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQzclpfbDNBRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQzclpfbDNBRRAB!2m1!1s0x808f7e37f6bc6613:0xcb229a10d2560ea2
+review_summary: >-
+  What Guests Are Saying About Sushi Hon$$$Visitors often rave about the
+  outstanding omakase offerings at this sushi spot, noting the incredibly fresh
+  fish and skillful preparation that make every bite feel special. Many
+  appreciate the warm, welcoming atmosphere and attentive service that elevate
+  the overall dining vibe, turning a simple meal into a standout experience.
+  Folks frequently mention the delicious hand rolls and pairings like sparkling
+  sake, praising how they add a fun twist to traditional favorites without
+  overwhelming the flavors. While it's clear this place shines for special
+  occasions, some feedback highlights it as a must-try for anyone hunting for
+  the best sushi around, with consistent highlights on the cozy yet lively
+  setting. Overall, it's a solid pick for sushi enthusiasts looking for quality
+  and authenticity in a relaxed environment.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options:
   acceptsCreditCards: true
@@ -465,8 +504,8 @@ serves_lunch: true
 serves_vegetarian_food: false
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Elevated bistro serving sushi, à la carte Japanese classics & an omakase menu
   in modern environs.
 

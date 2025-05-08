@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Bonchon Raleigh - Capital Blvd"
+title: Bonchon Raleigh - Capital Blvd
 permalink: /north-carolina/raleigh/bonchon-raleigh-capital-blvd.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Raleigh
 seo:
-  name: "Bonchon Raleigh - Capital Blvd"
-  type: Restaurant
+  type: restaurant
   links: https://locations.bonchon.com/ll/US/NC/Raleigh/6320-Capital-Blvd
-description: "Bonchon Raleigh - Capital Blvd serves delicious sushi in Raleigh, North Carolina. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJJSCb8JJZrIkRGoeO2fyy7uY
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89ac5992f09b2025:0xe6eeb2fcd98e871a!10e5
 primary_type: Asian Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:30 PM'
     - 'Tuesday: 11:00 AM – 9:30 PM'
     - 'Wednesday: 11:00 AM – 9:30 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:30 PM'
     - 'Saturday: 11:00 AM – 10:30 PM'
     - 'Sunday: 11:00 AM – 9:30 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:30 PM'
-    - 'Tuesday: 11:00 AM – 9:30 PM'
-    - 'Wednesday: 11:00 AM – 9:30 PM'
-    - 'Thursday: 11:00 AM – 9:30 PM'
-    - 'Friday: 11:00 AM – 10:30 PM'
-    - 'Saturday: 11:00 AM – 10:30 PM'
-    - 'Sunday: 11:00 AM – 9:30 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +246,43 @@ phone: (919) 825-4598
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.5'
-rating_count: 0
+rating_count: 490
 website: https://locations.bonchon.com/ll/US/NC/Raleigh/6320-Capital-Blvd
+description: >-
+  Discover Bonchon in Raleigh, NC$$$Bonchon Raleigh - Capital Blvd in Raleigh,
+  North Carolina, is a lively Asian restaurant specializing in flavorful Korean
+  fried chicken and fusion dishes that capture the essence of authentic Asian
+  cuisine. This family-friendly spot features a welcoming atmosphere perfect for
+  casual meals, with options ranging from crispy wings to satisfying sides that
+  highlight bold flavors and fresh ingredients. Guests can enjoy the convenience
+  of wheelchair-accessible features, making it an inclusive choice for everyone,
+  while the extended hours ensure it's easy to drop in for lunch or dinner.
+  Operating daily with a focus on quality and variety, it's a great option for
+  those seeking Asian dining experiences in the area.
+generative_summary: >-
+  Discover Bonchon in Raleigh, NC$$$Bonchon Raleigh - Capital Blvd in Raleigh,
+  North Carolina, is a lively Asian restaurant specializing in flavorful Korean
+  fried chicken and fusion dishes that capture the essence of authentic Asian
+  cuisine. This family-friendly spot features a welcoming atmosphere perfect for
+  casual meals, with options ranging from crispy wings to satisfying sides that
+  highlight bold flavors and fresh ingredients. Guests can enjoy the convenience
+  of wheelchair-accessible features, making it an inclusive choice for everyone,
+  while the extended hours ensure it's easy to drop in for lunch or dinner.
+  Operating daily with a focus on quality and variety, it's a great option for
+  those seeking Asian dining experiences in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this Asian fusion eatery often rave
+  about the mouthwatering Korean fried chicken, with favorites like soy garlic
+  and spicy wings stealing the show alongside tasty bulgogi fries for a
+  well-rounded meal. Many appreciate the friendly service that keeps things
+  upbeat and attentive, helping to create a relaxed vibe for diners. The prices
+  are seen as reasonable, offering good value without skimping on flavor or
+  portion sizes, which makes it a solid pick for groups or families. Overall,
+  the dining experience comes across as enjoyable and satisfying, encouraging
+  repeat visits for those looking for reliable Asian options nearby.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +308,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Poki & Maki"
+title: Poki & Maki
 permalink: /california/upland/poki-maki.html
 stateAbbr: CA
 stateName: California
 cityName: Upland
 seo:
-  name: "Poki & Maki"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Poki & Maki serves delicious sushi in Upland, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJr2k3Lu0xw4ARBn2cpKQbUgY
 photos:
   - name: >-
@@ -185,7 +183,48 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Poki & Maki in Upland, CA$$$Poki & Maki in Upland, CA, stands out as
+  a casual dining spot specializing in fresh, customizable poke bowls and sushi
+  rolls that cater to a variety of tastes. This welcoming restaurant offers
+  signature entrees made with high-quality ingredients, making it an ideal
+  choice for those seeking vibrant Japanese-inspired flavors in a relaxed
+  atmosphere. With thoughtful accessibility features like wheelchair-friendly
+  entrances and seating, it ensures everyone can enjoy a comfortable meal.
+  Whether you're exploring top-rated sushi options nearby or looking for quick
+  Japanese places to satisfy your cravings, Poki & Maki delivers a satisfying
+  experience that highlights creative combinations and fresh preparations. Its
+  approachable vibe makes it a go-to for anyone in the area hunting for
+  authentic yet personalized sushi dishes.
+generative_summary: >-
+  Discover Poki & Maki in Upland, CA$$$Poki & Maki in Upland, CA, stands out as
+  a casual dining spot specializing in fresh, customizable poke bowls and sushi
+  rolls that cater to a variety of tastes. This welcoming restaurant offers
+  signature entrees made with high-quality ingredients, making it an ideal
+  choice for those seeking vibrant Japanese-inspired flavors in a relaxed
+  atmosphere. With thoughtful accessibility features like wheelchair-friendly
+  entrances and seating, it ensures everyone can enjoy a comfortable meal.
+  Whether you're exploring top-rated sushi options nearby or looking for quick
+  Japanese places to satisfy your cravings, Poki & Maki delivers a satisfying
+  experience that highlights creative combinations and fresh preparations. Its
+  approachable vibe makes it a go-to for anyone in the area hunting for
+  authentic yet personalized sushi dishes.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Visitor Feedback$$$While specific reviews for this spot aren't
+  readily available, general feedback on similar sushi restaurants suggests that
+  folks often rave about the fresh ingredients and customizable options that
+  keep things exciting and delicious. Visitors typically appreciate the casual
+  setup, noting how it makes for a laid-back spot to grab a quick bite without
+  any fuss. Many highlight the variety of sushi rolls and poke bowls as standout
+  features that offer great value and flavor, encouraging repeat visits for
+  those searching nearby. Overall, it seems like this place hits the mark for
+  anyone craving top-notch sushi experiences, with a positive nod to its
+  welcoming environment that keeps the energy light and enjoyable. If you're on
+  the hunt for sushi close to you, it's worth checking out for a reliably tasty
+  meal that leaves a good impression.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +250,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

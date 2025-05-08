@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "River Japanese Cuisine - Oakland Gardens"
+title: River Japanese Cuisine - Oakland Gardens
 permalink: /new-york/oakland-gardens/river-japanese-cuisine-oakland-gardens.html
 stateAbbr: NY
 stateName: New York
 cityName: Oakland Gardens
 seo:
-  name: "River Japanese Cuisine - Oakland Gardens"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "River Japanese Cuisine - Oakland Gardens serves delicious sushi in Oakland Gardens, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ3ZAJw_NhwokR1mTTDhMQHxU
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c261f3c30990dd:0x151f10130ed364d6!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 22
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 22
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 22
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:30 AM – 10:30 PM'
+    - 'Tuesday: 11:30 AM – 10:30 PM'
+    - 'Wednesday: 11:30 AM – 10:30 PM'
+    - 'Thursday: 11:30 AM – 10:30 PM'
+    - 'Friday: 11:30 AM – 11:00 PM'
+    - 'Saturday: 11:30 AM – 11:00 PM'
+    - 'Sunday: 11:30 AM – 10:30 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -180,12 +243,53 @@ secondary_opening_hours:
     weekdayDescriptions: null
     type: null
 phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
+price_level: PRICE_LEVEL_MODERATE
+price_range: $30 &ndash; $50
+rating: '3.8'
+rating_count: 567
 website: null
+description: >-
+  Discover River Japanese Cuisine in Oakland Gardens, NY$$$River Japanese
+  Cuisine in Oakland Gardens, NY, stands out as a welcoming spot for enjoying
+  fresh sushi and authentic Japanese dishes in a casual atmosphere. This eatery
+  offers an all-you-can-eat experience with a variety of specialties that
+  highlight the flavors of Japanese cuisine, making it a go-to choice for those
+  seeking quality options nearby. Accessibility features like
+  wheelchair-friendly parking and entrances add to the convenience, ensuring a
+  comfortable visit for all guests. With extended hours that cater to both lunch
+  and dinner crowds, it's easy to drop in for a satisfying meal any day of the
+  week. Whether you're exploring top-rated sushi restaurants in the area, this
+  location combines affordability with a solid selection of dishes that appeal
+  to sushi enthusiasts.
+generative_summary: >-
+  Discover River Japanese Cuisine in Oakland Gardens, NY$$$River Japanese
+  Cuisine in Oakland Gardens, NY, stands out as a welcoming spot for enjoying
+  fresh sushi and authentic Japanese dishes in a casual atmosphere. This eatery
+  offers an all-you-can-eat experience with a variety of specialties that
+  highlight the flavors of Japanese cuisine, making it a go-to choice for those
+  seeking quality options nearby. Accessibility features like
+  wheelchair-friendly parking and entrances add to the convenience, ensuring a
+  comfortable visit for all guests. With extended hours that cater to both lunch
+  and dinner crowds, it's easy to drop in for a satisfying meal any day of the
+  week. Whether you're exploring top-rated sushi restaurants in the area, this
+  location combines affordability with a solid selection of dishes that appeal
+  to sushi enthusiasts.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Sharing About This Spot$$$Folks often rave about the fresh
+  and well-crafted sushi at this Japanese restaurant, highlighting the unique
+  rolls and eye-catching presentations that make every bite feel special. While
+  some comments note that service can vary and there's an automatic tip added,
+  many still appreciate the overall value and tasty options that keep diners
+  coming back. It's a laid-back place where the focus on quality ingredients
+  shines through, even if the pace might not always be perfect for everyone.
+  Overall, this spot earns solid nods for its approachable vibe and flavorful
+  selections, making it a worthwhile stop for anyone hunting for reliable sushi
+  near me. If you're in the mood for Japanese fare, the positives definitely
+  outweigh the minor hiccups, leaving most visitors with a satisfying
+  experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +315,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,14 @@
 ---
 layout: place
-title: "Haruki East"
+title: Haruki East
 permalink: /rhode-island/providence/haruki-east.html
 stateAbbr: RI
 stateName: Rhode Island
 cityName: Providence
 seo:
-  name: "Haruki East"
-  type: Restaurant
-  links: http://www.harukisushiri.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=16105084728213958698
-description: "Noodle soups, sashimi & house specialty rolls are served in this relaxed Japanese restaurant. Haruki East serves delicious sushi in Providence, Rhode Island. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
+  type: restaurant
+  links: >-
+    http://www.harukisushiri.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=16105084728213958698
 place_id: ChIJf2_rnS5F5IkR_5NcVTK0gC8
 photos:
   - name: >-
@@ -186,6 +185,33 @@ rating: '4.3'
 rating_count: 0
 website: >-
   http://www.harukisushiri.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=16105084728213958698
+description: >-
+  Explore Haruki East in Providence, RI$$$Haruki East in Providence, RI, is a
+  welcoming Japanese restaurant offering a variety of fresh sushi and other
+  traditional plates in a casual setting perfect for lunch or dinner outings.
+  The spot stands out for its relaxed vibe and accessible features, including
+  wheelchair-friendly parking and entrances, making it easy for everyone to
+  enjoy a meal. Diners can savor house specialties like sashimi and noodle
+  soups, all prepared with a focus on quality ingredients that highlight
+  authentic flavors. With options for outdoor seating and a menu that includes
+  vegetarian choices, it's an ideal choice for those seeking Japanese cuisine in
+  a neighborhood-friendly environment. Whether you're looking for sushi
+  restaurants nearby, this place combines affordability with a comfortable
+  atmosphere to create memorable dining experiences.
+generative_summary: >-
+  Explore Haruki East in Providence, RI$$$Haruki East in Providence, RI, is a
+  welcoming Japanese restaurant offering a variety of fresh sushi and other
+  traditional plates in a casual setting perfect for lunch or dinner outings.
+  The spot stands out for its relaxed vibe and accessible features, including
+  wheelchair-friendly parking and entrances, making it easy for everyone to
+  enjoy a meal. Diners can savor house specialties like sashimi and noodle
+  soups, all prepared with a focus on quality ingredients that highlight
+  authentic flavors. With options for outdoor seating and a menu that includes
+  vegetarian choices, it's an ideal choice for those seeking Japanese cuisine in
+  a neighborhood-friendly environment. Whether you're looking for sushi
+  restaurants nearby, this place combines affordability with a comfortable
+  atmosphere to create memorable dining experiences.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJf2_rnS5F5IkR_5NcVTK0gC8/reviews/ChZDSUhNMG9nS0VJQ0FnSUQzcS12ZFlREAE
@@ -359,6 +385,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNmdHFId2VnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNmdHFId2VnEAE!2m1!1s0x89e4452e9deb6f7f:0x2f80b432555c93ff
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors to this sushi spot often praise the
+  fresh rolls and friendly service, noting that the atmosphere makes for a
+  relaxing meal after a long day. While some folks mention that certain dishes
+  like the sushi and appetizers hit the mark with their bold flavors, others
+  point out that experiences can vary, with a few finding the overall offerings
+  a bit standard compared to other options around. Still, many appreciate the
+  ease of parking and the variety of drinks available, which add to the
+  enjoyable vibe for groups or casual dinners. Overall, it's a solid pick for
+  anyone hunting for good sushi places near me, as the positives around quality
+  and ambiance tend to outweigh the occasional inconsistencies. If you're in the
+  mood for Japanese fare, this location delivers a generally satisfying
+  experience that keeps people coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   paidStreetParking: true
@@ -391,8 +431,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Noodle soups, sashimi & house specialty rolls are served in this relaxed
   Japanese restaurant.
 

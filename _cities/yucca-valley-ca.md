@@ -5,4 +5,5 @@ permalink: /california/yucca-valley/
 stateAbbr: CA
 stateName: California
 cityName: Yucca Valley
+
 ---

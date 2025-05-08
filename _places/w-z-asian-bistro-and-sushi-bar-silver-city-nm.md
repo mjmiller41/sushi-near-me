@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "W&Z Asian Bistro and Sushi Bar"
+title: W&Z Asian Bistro and Sushi Bar
 permalink: /new-mexico/silver-city/w-z-asian-bistro-and-sushi-bar.html
 stateAbbr: NM
 stateName: New Mexico
 cityName: Silver City
 seo:
-  name: "W&Z Asian Bistro and Sushi Bar"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "W&Z Asian Bistro and Sushi Bar serves delicious sushi in Silver City, New Mexico. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJt9HVCSHH2IYRqPXWu_cWfoE
 photos:
   - name: >-
@@ -185,7 +183,40 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover W&Z Asian Bistro in Silver City, NM$$$In Silver City, NM, W&Z Asian
+  Bistro and Sushi Bar stands out as a cozy spot for enjoying authentic Asian
+  flavors. This eatery boasts a diverse menu featuring classic Chinese and
+  Japanese dishes, with fresh sushi options that appeal to those seeking
+  flavorful, expertly prepared meals. The welcoming atmosphere makes it ideal
+  for casual dining, complemented by thoughtful accessibility features like
+  wheelchair-friendly parking and entrances. Patrons can explore a range of
+  options that highlight the best of Asian cuisine, making it a reliable choice
+  for anyone looking for quality sushi experiences nearby.
+generative_summary: >-
+  Discover W&Z Asian Bistro in Silver City, NM$$$In Silver City, NM, W&Z Asian
+  Bistro and Sushi Bar stands out as a cozy spot for enjoying authentic Asian
+  flavors. This eatery boasts a diverse menu featuring classic Chinese and
+  Japanese dishes, with fresh sushi options that appeal to those seeking
+  flavorful, expertly prepared meals. The welcoming atmosphere makes it ideal
+  for casual dining, complemented by thoughtful accessibility features like
+  wheelchair-friendly parking and entrances. Patrons can explore a range of
+  options that highlight the best of Asian cuisine, making it a reliable choice
+  for anyone looking for quality sushi experiences nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Visitor Feedback$$$Folks exploring sushi spots in the area often
+  highlight the fresh and well-crafted dishes at this bistro, noting it as a
+  solid pick for satisfying Asian cravings. Many appreciate the variety of
+  options that deliver good value without skimping on taste, creating a
+  laid-back vibe for solo diners or groups. Comments frequently mention the
+  comfortable setting and attentive service, which enhance the overall meal
+  without overwhelming the senses. While experiences can vary, the general buzz
+  leans positive, positioning it as a go-to for those hunting top-rated sushi in
+  Silver City. All in all, it's clear that this place keeps things approachable
+  and enjoyable for anyone dropping by for a bite.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +242,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

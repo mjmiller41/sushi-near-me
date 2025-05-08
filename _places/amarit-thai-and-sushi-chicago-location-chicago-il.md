@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Amarit Thai and sushi (CHICAGO Location)"
+title: Amarit Thai and sushi (CHICAGO Location)
 permalink: /illinois/chicago/amarit-thai-and-sushi-chicago-location.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
 seo:
-  name: "Amarit Thai and sushi (CHICAGO Location)"
-  type: Restaurant
+  type: restaurant
   links: http://www.amaritthai.com/
-description: "Bright, modestly decorated Thai eatery dishing up the standards plus a handful of Chinese entrees. Amarit Thai and sushi (CHICAGO Location) serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJS1pmk5csDogRliHY-TThIvE
 photos:
   - name: >-
@@ -185,6 +183,35 @@ price_range: $10 &ndash; $20
 rating: '4.1'
 rating_count: 0
 website: http://www.amaritthai.com/
+description: >-
+  Discover Amarit Thai and Sushi in Chicago, IL$$$Amarit Thai and Sushi in
+  Chicago, IL, is a welcoming spot for those seeking authentic Thai flavors
+  blended with fresh sushi options, making it a go-to for Japanese-inspired
+  dining in the heart of the city. This modestly decorated eatery features a
+  casual atmosphere with traditional Thai elements, offering classic dishes
+  alongside creative fusions that highlight bold tastes and quality ingredients.
+  Visitors can enjoy a variety of Thai standards and a few Chinese-inspired
+  entrees, all served in a space that's perfect for a relaxed meal after
+  exploring the bustling streets. The menu includes fresh sushi rolls that pair
+  well with flavorful curries, appealing to anyone searching for top-rated Thai
+  or sushi places near me. With options like wheelchair-accessible seating and a
+  focus on moderate pricing, it's an accessible choice for a satisfying dining
+  experience in the Chicago Loop neighborhood.
+generative_summary: >-
+  Discover Amarit Thai and Sushi in Chicago, IL$$$Amarit Thai and Sushi in
+  Chicago, IL, is a welcoming spot for those seeking authentic Thai flavors
+  blended with fresh sushi options, making it a go-to for Japanese-inspired
+  dining in the heart of the city. This modestly decorated eatery features a
+  casual atmosphere with traditional Thai elements, offering classic dishes
+  alongside creative fusions that highlight bold tastes and quality ingredients.
+  Visitors can enjoy a variety of Thai standards and a few Chinese-inspired
+  entrees, all served in a space that's perfect for a relaxed meal after
+  exploring the bustling streets. The menu includes fresh sushi rolls that pair
+  well with flavorful curries, appealing to anyone searching for top-rated Thai
+  or sushi places near me. With options like wheelchair-accessible seating and a
+  focus on moderate pricing, it's an accessible choice for a satisfying dining
+  experience in the Chicago Loop neighborhood.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJS1pmk5csDogRliHY-TThIvE/reviews/ChdDSUhNMG9nS0VJQ0FnTUNRcDhqc3RRRRAB
@@ -336,6 +363,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNnbWYzMkJ3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNnbWYzMkJ3EAE!2m1!1s0x880e2c9793665a4b:0xf122e134f9d82196
+review_summary: >-
+  What Customers Love About Amarit$$$Folks rave about the flavorful curries and
+  fresh sushi rolls at this spot, often highlighting how the dishes deliver a
+  perfect balance of spice and taste that keeps diners coming back. Many
+  appreciate the reasonable prices and generous portions, making it a solid pick
+  for anyone craving affordable Thai or Japanese eats without breaking the bank.
+  Reviewers frequently mention the quick takeout service and standout items like
+  seafood salads and noodle dishes, which add to the overall enjoyable vibe.
+  It's clear that the fresh ingredients and variety keep things exciting, with
+  plenty of options for vegetarian choices and bubble tea to round out the meal.
+  All in all, this place comes across as a reliable favorite for a casual bite,
+  earning high marks for its welcoming approach to satisfying hunger in the
+  South Loop area.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidParkingLot: true
   paidStreetParking: true
@@ -367,8 +408,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Bright, modestly decorated Thai eatery dishing up the standards plus a handful
   of Chinese entrees.
 

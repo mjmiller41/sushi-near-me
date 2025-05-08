@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Bar Masa"
+title: Bar Masa
 permalink: /new-york/new-york/bar-masa.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "Bar Masa"
-  type: Restaurant
-  links: null
-description: "Bar Masa serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.barmasanyc.com/
 place_id: ChIJM26HnlhYwokR4IfXFz-AuCA
 photos:
   - name: >-
@@ -143,7 +141,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID9tr7BogE!2e10!4m2!3m1!1s0x89c258589e876e33:0x20b8803f17d787e0
 address: The Shops at, 10 Columbus Cir Floor 4, New York, NY 10019, USA
-street: The Shops at, 10 Columbus Cir Floor 4
+street: The Shops at,10 Columbus Cir Floor 4
 city: New York
 state: NY
 zip: '10019'
@@ -169,8 +167,97 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c258589e876e33:0x20b8803f17d787e0!10e5
 primary_type: Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 2
+        hour: 12
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 12
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 12
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 12
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 14
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: Closed'
+    - 'Tuesday: 12:00 – 2:00 PM, 5:00 – 9:30 PM'
+    - 'Wednesday: 12:00 – 2:00 PM, 5:00 – 9:30 PM'
+    - 'Thursday: 12:00 – 2:00 PM, 5:00 – 9:30 PM'
+    - 'Friday: 12:00 – 2:00 PM, 5:00 – 9:30 PM'
+    - 'Saturday: 12:00 – 2:00 PM, 5:00 – 9:30 PM'
+    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T01:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -178,13 +265,51 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (212) 823-9800
+price_level: PRICE_LEVEL_VERY_EXPENSIVE
+price_range: $100 &ndash; & up
+rating: '4.2'
+rating_count: 527
+website: http://www.barmasanyc.com/
+description: >-
+  Discover Bar Masa in New York, NY$$$Bar Masa in New York, NY, stands out as a
+  casual Japanese bar and restaurant, blending elegant ambiance with a
+  chef-driven menu that highlights fresh, high-quality ingredients. This spot
+  offers an inviting space for savoring expertly crafted sushi and other
+  Japanese specialties, making it a go-to for those exploring sushi restaurants
+  in the city. With thoughtful accessibility features like wheelchair-friendly
+  entrances and seating, it ensures a comfortable visit for everyone. Operating
+  primarily in the evenings and select lunch hours from Tuesday to Saturday,
+  it's perfect for a relaxed meal or special outing. Whether you're searching
+  for sushi places near you, Bar Masa delivers an authentic taste of Japanese
+  dining in a stylish, contemporary environment.
+generative_summary: >-
+  Discover Bar Masa in New York, NY$$$Bar Masa in New York, NY, stands out as a
+  casual Japanese bar and restaurant, blending elegant ambiance with a
+  chef-driven menu that highlights fresh, high-quality ingredients. This spot
+  offers an inviting space for savoring expertly crafted sushi and other
+  Japanese specialties, making it a go-to for those exploring sushi restaurants
+  in the city. With thoughtful accessibility features like wheelchair-friendly
+  entrances and seating, it ensures a comfortable visit for everyone. Operating
+  primarily in the evenings and select lunch hours from Tuesday to Saturday,
+  it's perfect for a relaxed meal or special outing. Whether you're searching
+  for sushi places near you, Bar Masa delivers an authentic taste of Japanese
+  dining in a stylish, contemporary environment.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Guests Are Saying About Bar Masa$$$Folks frequently praise the standout
+  sushi selections at this spot, noting the fresh flavors and creative
+  presentations that make every bite memorable. The service often comes across
+  as warm and attentive, creating a welcoming vibe that elevates the overall
+  experience for casual diners or those celebrating something special. Many
+  appreciate how it feels like a great pick for date nights or gatherings,
+  thanks to the high-quality ingredients and thoughtful atmosphere. While some
+  mention that prices lean toward the premium side, the consensus is that the
+  exceptional taste and care put into each dish make it a solid choice. If
+  you're on the hunt for top-rated sushi near you, this place gets high marks
+  for delivering a satisfying and enjoyable meal.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +335,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

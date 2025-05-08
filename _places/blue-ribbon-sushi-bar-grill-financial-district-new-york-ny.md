@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Blue Ribbon Sushi Bar & Grill - Financial District"
+title: Blue Ribbon Sushi Bar & Grill - Financial District
 permalink: /new-york/new-york/blue-ribbon-sushi-bar-grill-financial-district.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "Blue Ribbon Sushi Bar & Grill - Financial District"
-  type: Restaurant
-  links: null
-description: "Blue Ribbon Sushi Bar & Grill - Financial District serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.blueribbonsushibarandgrilldowntown.com/
 place_id: ChIJQ0zcVetbwokRV31aWICOGKk
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c25beb55dc4c43:0xa9188e80585a7d57!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 16
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 16
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:30 AM – 10:00 PM'
+    - 'Tuesday: 11:30 AM – 10:00 PM'
+    - 'Wednesday: 11:30 AM – 10:00 PM'
+    - 'Thursday: 11:30 AM – 10:00 PM'
+    - 'Friday: 11:30 AM – 10:00 PM'
+    - 'Saturday: 4:00 – 10:00 PM'
+    - 'Sunday: 4:00 – 10:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,54 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (212) 315-4900
+price_level: PRICE_LEVEL_MODERATE
+price_range: $50 &ndash; $100
+rating: '4.5'
+rating_count: 568
+website: https://www.blueribbonsushibarandgrilldowntown.com/
+description: >-
+  Discover Blue Ribbon Sushi in New York, NY$$$Blue Ribbon Sushi Bar & Grill in
+  New York, NY, stands out as a top Japanese restaurant in the bustling
+  Financial District, offering an array of fresh sushi and innovative dishes
+  that highlight seasonal ingredients. This spot combines a serene atmosphere
+  with a menu featuring creative specials and expertly crafted cocktails, making
+  it ideal for those seeking authentic Japanese flavors in a relaxed setting.
+  Diners appreciate the thoughtful blend of traditional and modern elements,
+  from artfully prepared rolls to a selection of grilled options that cater to
+  diverse tastes. Accessibility features like wheelchair-friendly entrances and
+  seating add to its appeal for a wide range of visitors, ensuring a comfortable
+  dining experience. Whether you're exploring sushi restaurants nearby or
+  looking for a peaceful meal in the city, this location delivers on quality and
+  ambiance.
+generative_summary: >-
+  Discover Blue Ribbon Sushi in New York, NY$$$Blue Ribbon Sushi Bar & Grill in
+  New York, NY, stands out as a top Japanese restaurant in the bustling
+  Financial District, offering an array of fresh sushi and innovative dishes
+  that highlight seasonal ingredients. This spot combines a serene atmosphere
+  with a menu featuring creative specials and expertly crafted cocktails, making
+  it ideal for those seeking authentic Japanese flavors in a relaxed setting.
+  Diners appreciate the thoughtful blend of traditional and modern elements,
+  from artfully prepared rolls to a selection of grilled options that cater to
+  diverse tastes. Accessibility features like wheelchair-friendly entrances and
+  seating add to its appeal for a wide range of visitors, ensuring a comfortable
+  dining experience. Whether you're exploring sushi restaurants nearby or
+  looking for a peaceful meal in the city, this location delivers on quality and
+  ambiance.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Recent Reviews$$$Visitors often rave about the fresh sushi and
+  fish at this Japanese spot, noting how the flavors really hit the mark for
+  anyone craving top-rated options. Many highlight the fun variety of cocktails
+  and rotating specials that keep the menu feeling fresh and exciting, perfect
+  for a casual night out. Folks appreciate the calm and inviting atmosphere,
+  which makes it a solid choice for unwinding after a long day. Service stands
+  out as consistently excellent, with staff going the extra mile to ensure a
+  pleasant visit. Overall, it's a go-to destination for sushi enthusiasts,
+  offering a reliably enjoyable experience that balances quality and vibe
+  without any major drawbacks.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +315,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

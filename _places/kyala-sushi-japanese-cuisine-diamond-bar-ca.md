@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kyala Sushi & Japanese Cuisine"
+title: Kyala Sushi & Japanese Cuisine
 permalink: /california/diamond-bar/kyala-sushi-japanese-cuisine.html
 stateAbbr: CA
 stateName: California
 cityName: Diamond Bar
 seo:
-  name: "Kyala Sushi & Japanese Cuisine"
-  type: Restaurant
+  type: restaurant
   links: https://morisendb.com/
-description: "Kyala Sushi & Japanese Cuisine serves delicious sushi in Diamond Bar, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJMS3Zn40sw4ARKHqe8k0BLKw
 photos:
   - name: >-
@@ -170,7 +168,97 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c32c8d9fd92d31:0xac2c014df29e7a28!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 14
+        minute: 30
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
     - 'Wednesday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
@@ -178,54 +266,474 @@ opening_hours:
     - 'Friday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
     - 'Saturday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
     - 'Sunday: 5:00 – 9:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
-    - 'Wednesday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
-    - 'Thursday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
-    - 'Friday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
-    - 'Saturday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
-    - 'Sunday: 5:00 – 9:00 PM'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: false
+    periods:
+      - open:
+          day: 0
+          hour: 16
+          minute: 30
+        close:
+          day: 0
+          hour: 21
+          minute: 0
+      - open:
+          day: 2
+          hour: 11
+          minute: 30
+        close:
+          day: 2
+          hour: 14
+          minute: 30
+      - open:
+          day: 2
+          hour: 16
+          minute: 30
+        close:
+          day: 2
+          hour: 21
+          minute: 0
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 14
+          minute: 30
+      - open:
+          day: 3
+          hour: 16
+          minute: 30
+        close:
+          day: 3
+          hour: 21
+          minute: 0
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 14
+          minute: 30
+      - open:
+          day: 4
+          hour: 16
+          minute: 30
+        close:
+          day: 4
+          hour: 21
+          minute: 0
+      - open:
+          day: 5
+          hour: 11
+          minute: 30
+        close:
+          day: 5
+          hour: 14
+          minute: 30
+      - open:
+          day: 5
+          hour: 16
+          minute: 30
+        close:
+          day: 5
+          hour: 21
+          minute: 0
+      - open:
+          day: 6
+          hour: 11
+          minute: 30
+        close:
+          day: 6
+          hour: 14
+          minute: 30
+      - open:
+          day: 6
+          hour: 16
+          minute: 30
+        close:
+          day: 6
+          hour: 21
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: Closed'
+      - 'Tuesday: 11:30 AM – 2:30 PM, 4:30 – 9:00 PM'
+      - 'Wednesday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
+      - 'Thursday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
+      - 'Friday: 11:30 AM – 2:30 PM, 4:30 – 9:00 PM'
+      - 'Saturday: 11:30 AM – 2:30 PM, 4:30 – 9:00 PM'
+      - 'Sunday: 4:30 – 9:00 PM'
+    secondaryHoursType: TAKEOUT
+    nextOpenTime: '2025-05-03T23:30:00Z'
+  - openNow: false
+    periods:
+      - open:
+          day: 0
+          hour: 16
+          minute: 30
+        close:
+          day: 0
+          hour: 20
+          minute: 45
+      - open:
+          day: 2
+          hour: 11
+          minute: 30
+        close:
+          day: 2
+          hour: 14
+          minute: 30
+      - open:
+          day: 2
+          hour: 16
+          minute: 30
+        close:
+          day: 2
+          hour: 20
+          minute: 45
+      - open:
+          day: 3
+          hour: 11
+          minute: 30
+        close:
+          day: 3
+          hour: 14
+          minute: 30
+      - open:
+          day: 3
+          hour: 16
+          minute: 30
+        close:
+          day: 3
+          hour: 20
+          minute: 45
+      - open:
+          day: 4
+          hour: 11
+          minute: 30
+        close:
+          day: 4
+          hour: 14
+          minute: 30
+      - open:
+          day: 4
+          hour: 16
+          minute: 30
+        close:
+          day: 4
+          hour: 20
+          minute: 45
+      - open:
+          day: 5
+          hour: 11
+          minute: 30
+        close:
+          day: 5
+          hour: 14
+          minute: 30
+      - open:
+          day: 5
+          hour: 16
+          minute: 30
+        close:
+          day: 5
+          hour: 20
+          minute: 45
+      - open:
+          day: 6
+          hour: 11
+          minute: 30
+        close:
+          day: 6
+          hour: 14
+          minute: 30
+      - open:
+          day: 6
+          hour: 16
+          minute: 30
+        close:
+          day: 6
+          hour: 20
+          minute: 45
+    weekdayDescriptions:
+      - 'Monday: Closed'
+      - 'Tuesday: 11:30 AM – 2:30 PM, 4:30 – 8:45 PM'
+      - 'Wednesday: 11:30 AM – 2:30 PM, 4:30 – 8:45 PM'
+      - 'Thursday: 11:30 AM – 2:30 PM, 4:30 – 8:45 PM'
+      - 'Friday: 11:30 AM – 2:30 PM, 4:30 – 8:45 PM'
+      - 'Saturday: 11:30 AM – 2:30 PM, 4:30 – 8:45 PM'
+      - 'Sunday: 4:30 – 8:45 PM'
+    secondaryHoursType: KITCHEN
+    nextOpenTime: '2025-05-03T23:30:00Z'
 phone: (909) 860-9162
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.5'
-rating_count: 0
+rating_count: 210
 website: https://morisendb.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Kyala Sushi in Diamond Bar, CA$$$Kyala Sushi & Japanese Cuisine in
+  Diamond Bar, CA, stands out as a welcoming spot for enjoying authentic
+  Japanese flavors, featuring fresh sashimi, creative rolls, and a selection of
+  hot dishes in a relaxed atmosphere. This establishment highlights its
+  commitment to quality ingredients and thoughtful presentations, making it an
+  ideal choice for those seeking flavorful sushi options nearby. With
+  accessibility features like wheelchair-friendly parking and seating, it caters
+  to a wide range of diners looking for a seamless experience. The menu balances
+  traditional elements with subtle innovations, offering a casual yet elegant
+  setting that appeals to sushi lovers exploring local Japanese cuisine. Whether
+  you're in the mood for a light lunch or an evening meal, this spot delivers on
+  taste and convenience in the heart of the area.
+generative_summary: >-
+  Discover Kyala Sushi in Diamond Bar, CA$$$Kyala Sushi & Japanese Cuisine in
+  Diamond Bar, CA, stands out as a welcoming spot for enjoying authentic
+  Japanese flavors, featuring fresh sashimi, creative rolls, and a selection of
+  hot dishes in a relaxed atmosphere. This establishment highlights its
+  commitment to quality ingredients and thoughtful presentations, making it an
+  ideal choice for those seeking flavorful sushi options nearby. With
+  accessibility features like wheelchair-friendly parking and seating, it caters
+  to a wide range of diners looking for a seamless experience. The menu balances
+  traditional elements with subtle innovations, offering a casual yet elegant
+  setting that appeals to sushi lovers exploring local Japanese cuisine. Whether
+  you're in the mood for a light lunch or an evening meal, this spot delivers on
+  taste and convenience in the heart of the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJMS3Zn40sw4ARKHqe8k0BLKw/reviews/ChZDSUhNMG9nS0VJQ0FnTUNBMzdXTUdBEAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        doesnt get better than this. price is good, service is incredible,sushi
+        is one of the best there is in the area.
+      languageCode: en
+    originalText:
+      text: >-
+        doesnt get better than this. price is good, service is incredible,sushi
+        is one of the best there is in the area.
+      languageCode: en
+    authorAttribution:
+      displayName: Kevin Ji
+      uri: https://www.google.com/maps/contrib/105736373529901305238/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWtnYrdweiF-QUAgbhEvAtR_PixgXeWJsLhLf1bKlVz17fGHqKR3g=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-02-12T07:14:21.523602Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNBMzdXTUdBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNBMzdXTUdBEAE!2m1!1s0x80c32c8d9fd92d31:0xac2c014df29e7a28
+  - name: >-
+      places/ChIJMS3Zn40sw4ARKHqe8k0BLKw/reviews/ChZDSUhNMG9nS0VJQ0FnSUNEbklIUkVBEAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        Extremely high quality Sushi and presentation. A variety of uncommon
+        types of fish and delightful presentations including rare fish and
+        appetizers. Beautiful flavors and a calm dining experience lead me to
+        recommending this place highly.
+      languageCode: en
+    originalText:
+      text: >-
+        Extremely high quality Sushi and presentation. A variety of uncommon
+        types of fish and delightful presentations including rare fish and
+        appetizers. Beautiful flavors and a calm dining experience lead me to
+        recommending this place highly.
+      languageCode: en
+    authorAttribution:
+      displayName: j l
+      uri: https://www.google.com/maps/contrib/115352988431373685869/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVihpmlkJPdNUYWJ28S9K1Ct6PFdF5orR5XwkqjZYioL7vpy1YEJA=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-03-25T14:44:16.390846Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNEbklIUkVBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNEbklIUkVBEAE!2m1!1s0x80c32c8d9fd92d31:0xac2c014df29e7a28
+  - name: >-
+      places/ChIJMS3Zn40sw4ARKHqe8k0BLKw/reviews/ChdDSUhNMG9nS0VJQ0FnSUM5bkk2YXZBRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 4
+    text:
+      text: >-
+        Taste :4.4/5
+
+        Environment: 4.2/5
+
+        Service：4.3/5
+
+
+        A Hidden Gem in Diamond Bar
+
+        Nestled in the heart of Diamond Bar, Kyala Sushi & Japanese Cuisine is a
+        delightful culinary haven for lovers of authentic Japanese fare. This
+        family-owned gem has carved a niche for itself, offering a harmonious
+        blend of tradition and innovation. Kyala takes pride in sourcing the
+        freshest ingredients for its dishes.
+
+        Recommend Sushi Deluxe
+
+        Sushi Deluxe, a signature dish, exemplifies Kyala’s culinary prowess.
+        Imagine a platter adorned with meticulously crafted nigiri, sashimi, and
+        maki rolls. The rice is perfectly seasoned, providing a delicate base
+        for the star ingredients. The friendly staff, led by the family owners,
+        ensures that every guest feels welcome. They share stories, recommend
+        dishes, and create an atmosphere of warmth ! definitely will come back
+        again
+      languageCode: en
+    originalText:
+      text: >-
+        Taste :4.4/5
+
+        Environment: 4.2/5
+
+        Service：4.3/5
+
+
+        A Hidden Gem in Diamond Bar
+
+        Nestled in the heart of Diamond Bar, Kyala Sushi & Japanese Cuisine is a
+        delightful culinary haven for lovers of authentic Japanese fare. This
+        family-owned gem has carved a niche for itself, offering a harmonious
+        blend of tradition and innovation. Kyala takes pride in sourcing the
+        freshest ingredients for its dishes.
+
+        Recommend Sushi Deluxe
+
+        Sushi Deluxe, a signature dish, exemplifies Kyala’s culinary prowess.
+        Imagine a platter adorned with meticulously crafted nigiri, sashimi, and
+        maki rolls. The rice is perfectly seasoned, providing a delicate base
+        for the star ingredients. The friendly staff, led by the family owners,
+        ensures that every guest feels welcome. They share stories, recommend
+        dishes, and create an atmosphere of warmth ! definitely will come back
+        again
+      languageCode: en
+    authorAttribution:
+      displayName: Paprika Meow
+      uri: https://www.google.com/maps/contrib/111635606610599291591/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXskclizzaADy-KSZ7es7UJT7HjvPayOn4lt0-Fc0onJPPd16EI=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2024-04-27T19:49:41.117772Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUM5bkk2YXZBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUM5bkk2YXZBRRAB!2m1!1s0x80c32c8d9fd92d31:0xac2c014df29e7a28
+  - name: >-
+      places/ChIJMS3Zn40sw4ARKHqe8k0BLKw/reviews/ChdDSUhNMG9nS0VJQ0FnSUNPMWFPTXBBRRAB
+    relativePublishTimeDescription: 2 years ago
+    rating: 5
+    text:
+      text: >-
+        Great little place in one of the strip malls here.   Fish was fresh
+        presentation was great and waitress was attentive.  All I could ask
+        for.  Would recommend if you live / are visiting in the area.  Wouldn’t
+        recommend driving far to get here though.  The food is great, but the
+        ambiance is kinda hole in the wall.  Will definitely be back when I’m in
+        the area and wanting some sushi.  Was $30 for the Chrashi bowl when I
+        came.  Really reasonable.
+      languageCode: en
+    originalText:
+      text: >-
+        Great little place in one of the strip malls here.   Fish was fresh
+        presentation was great and waitress was attentive.  All I could ask
+        for.  Would recommend if you live / are visiting in the area.  Wouldn’t
+        recommend driving far to get here though.  The food is great, but the
+        ambiance is kinda hole in the wall.  Will definitely be back when I’m in
+        the area and wanting some sushi.  Was $30 for the Chrashi bowl when I
+        came.  Really reasonable.
+      languageCode: en
+    authorAttribution:
+      displayName: Philip Lu
+      uri: https://www.google.com/maps/contrib/103387877918685467250/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXeDTiM2UjDsTW4IJAoZuzgmKj01cvWfOEhxY6GqhtaZNdQROZiTw=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2022-06-15T19:43:26.059741Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNPMWFPTXBBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNPMWFPTXBBRRAB!2m1!1s0x80c32c8d9fd92d31:0xac2c014df29e7a28
+  - name: >-
+      places/ChIJMS3Zn40sw4ARKHqe8k0BLKw/reviews/ChZDSUhNMG9nS0VJQ0FnSURyZ056WFVnEAE
+    relativePublishTimeDescription: 9 months ago
+    rating: 5
+    text:
+      text: >-
+        Enjoyed dinner at this unique and excuisute Japanese restaurant in
+        Diamond Bar, CA.
+
+        Their staff is amazing and they explain all the dishes prepared and
+        served to perfection. Enjoy!
+      languageCode: en
+    originalText:
+      text: >-
+        Enjoyed dinner at this unique and excuisute Japanese restaurant in
+        Diamond Bar, CA.
+
+        Their staff is amazing and they explain all the dishes prepared and
+        served to perfection. Enjoy!
+      languageCode: en
+    authorAttribution:
+      displayName: Maurice Mbaabu
+      uri: https://www.google.com/maps/contrib/103424703116260161418/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWtD1Dea47RctmiOLtqE9aViZPJOy1sMDQH4A8vpfUHvRTbGxUm=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-07-12T17:32:51.209107Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURyZ056WFVnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURyZ056WFVnEAE!2m1!1s0x80c32c8d9fd92d31:0xac2c014df29e7a28
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors often praise the fresh and
+  high-quality fish at this sushi spot, noting its variety and appealing
+  presentations that make every meal feel special. Many highlight the attentive
+  service and reasonable prices, creating a welcoming vibe that encourages
+  repeat visits for casual dinners or quick bites. While some mention the cozy,
+  unpretentious ambiance as a nice touch, others appreciate how the flavors
+  stand out without overwhelming the palate. Overall, it's clear that this place
+  hits the mark for those craving reliable Japanese fare, with positive comments
+  on the calm dining experience and solid portions. If you're hunting for tasty
+  sushi options close by, the general consensus leans toward it being a solid,
+  enjoyable choice that keeps customers coming back.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  paidStreetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
 delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
+dine_in: true
+good_for_children: false
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: true
 outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
 serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  This sleek sushi bar & restaurant serves sashimi & rolls plus common & unusual
+  hot Japanese dishes.
 
 ---

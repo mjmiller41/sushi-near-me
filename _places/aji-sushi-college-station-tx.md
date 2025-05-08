@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Aji Sushi"
+title: Aji Sushi
 permalink: /texas/college-station/aji-sushi.html
 stateAbbr: TX
 stateName: Texas
 cityName: College Station
 seo:
-  name: "Aji Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://direct.chownow.com/order/24014/locations/35247
-description: "Aji Sushi serves delicious sushi in College Station, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJRygRQXqERoYREnBbnmOW-CY
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8646847a41112847:0x26f896639e5b7012!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:00 AM – 10:00 PM'
     - 'Wednesday: 11:00 AM – 10:00 PM'
@@ -178,54 +226,403 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:00 PM'
     - 'Saturday: 11:00 AM – 10:00 PM'
     - 'Sunday: 11:00 AM – 10:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:00 AM – 10:00 PM'
-    - 'Wednesday: 11:00 AM – 10:00 PM'
-    - 'Thursday: 11:00 AM – 10:00 PM'
-    - 'Friday: 11:00 AM – 10:00 PM'
-    - 'Saturday: 11:00 AM – 10:00 PM'
-    - 'Sunday: 11:00 AM – 10:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 11
+          minute: 0
+        close:
+          day: 0
+          hour: 22
+          minute: 0
+      - open:
+          day: 2
+          hour: 11
+          minute: 0
+        close:
+          day: 2
+          hour: 22
+          minute: 0
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 22
+          minute: 0
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 22
+          minute: 0
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 22
+          minute: 0
+      - open:
+          day: 6
+          hour: 11
+          minute: 0
+        close:
+          day: 6
+          hour: 22
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: Closed'
+      - 'Tuesday: 11:00 AM – 10:00 PM'
+      - 'Wednesday: 11:00 AM – 10:00 PM'
+      - 'Thursday: 11:00 AM – 10:00 PM'
+      - 'Friday: 11:00 AM – 10:00 PM'
+      - 'Saturday: 11:00 AM – 10:00 PM'
+      - 'Sunday: 11:00 AM – 10:00 PM'
+    secondaryHoursType: TAKEOUT
+    nextCloseTime: '2025-05-04T03:00:00Z'
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 11
+          minute: 0
+        close:
+          day: 0
+          hour: 21
+          minute: 45
+      - open:
+          day: 2
+          hour: 11
+          minute: 0
+        close:
+          day: 2
+          hour: 21
+          minute: 45
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 21
+          minute: 45
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 45
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 21
+          minute: 45
+      - open:
+          day: 6
+          hour: 11
+          minute: 0
+        close:
+          day: 6
+          hour: 21
+          minute: 45
+    weekdayDescriptions:
+      - 'Monday: Closed'
+      - 'Tuesday: 11:00 AM – 9:45 PM'
+      - 'Wednesday: 11:00 AM – 9:45 PM'
+      - 'Thursday: 11:00 AM – 9:45 PM'
+      - 'Friday: 11:00 AM – 9:45 PM'
+      - 'Saturday: 11:00 AM – 9:45 PM'
+      - 'Sunday: 11:00 AM – 9:45 PM'
+    secondaryHoursType: KITCHEN
+    nextCloseTime: '2025-05-04T02:45:00Z'
 phone: (979) 696-1250
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.5'
-rating_count: 0
+rating_count: 794
 website: https://direct.chownow.com/order/24014/locations/35247
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Aji Sushi in College Station, TX$$$Aji Sushi in College Station, TX,
+  stands out as a relaxed Japanese eatery serving up fresh sushi and sashimi
+  options that appeal to anyone searching for top-rated sushi nearby. The spot
+  offers a welcoming atmosphere with a variety of menu choices, including
+  flavorful pho and kid-friendly dishes, making it ideal for casual family
+  outings or quick meals at sushi places near me. Accessibility features like
+  wheelchair-friendly entrances and seating enhance the experience, ensuring
+  everyone can enjoy the diverse selections without hassle. Open daily with
+  convenient hours, this restaurant combines affordable pricing with a cozy
+  vibe, perfect for those exploring the best sushi restaurants in the area.
+  Whether you're craving authentic Japanese flavors or something lighter, Aji
+  Sushi delivers a satisfying blend of quality and variety that keeps locals
+  coming back.
+generative_summary: >-
+  Discover Aji Sushi in College Station, TX$$$Aji Sushi in College Station, TX,
+  stands out as a relaxed Japanese eatery serving up fresh sushi and sashimi
+  options that appeal to anyone searching for top-rated sushi nearby. The spot
+  offers a welcoming atmosphere with a variety of menu choices, including
+  flavorful pho and kid-friendly dishes, making it ideal for casual family
+  outings or quick meals at sushi places near me. Accessibility features like
+  wheelchair-friendly entrances and seating enhance the experience, ensuring
+  everyone can enjoy the diverse selections without hassle. Open daily with
+  convenient hours, this restaurant combines affordable pricing with a cozy
+  vibe, perfect for those exploring the best sushi restaurants in the area.
+  Whether you're craving authentic Japanese flavors or something lighter, Aji
+  Sushi delivers a satisfying blend of quality and variety that keeps locals
+  coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJRygRQXqERoYREnBbnmOW-CY/reviews/ChdDSUhNMG9nS0VJQ0FnSURfdGRmcXlBRRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 4
+    text:
+      text: >-
+        This place is lovely! I had such a great time. This little restaurant is
+        doing really good at many things. Customer service was excellent.
+        Christian was our server (kudos to him).
+
+
+        Ordered a Bento box 🍱 it included: chicken teriyaki, edamame, salad,
+        miso soup, California crab, and gyoza. 🥟 We also ordered California and
+        a shrimp tempura roll. Really good!
+
+
+        The ambiance of the restaurant is very chill and kinda stepping into dim
+        and relax. Lots of cute Japanese decor all around.
+
+
+        Also, the prices were very reasonable. I cannot wait to be back.
+
+
+        Note to management: please consider revising the chicken you use in your
+        bento box. It is not good quality. I would suggest trying a non-process,
+        non-frozen chicken. I understand this might fit your pricing/ROI;
+        However, less is more. Consider preparing your own chicken and if it
+        means less quantity in the bento box, it will be fine with customers,
+        given that their few pieces of chicken are tasty and fresh. This is a
+        piece of advice (take it or leave it) but I just wanted to be as honest
+        and transparent with my feedback. You are clearly doing many other
+        things really good, let’s step into greatness. I hope nothing but the
+        best!
+      languageCode: en
+    originalText:
+      text: >-
+        This place is lovely! I had such a great time. This little restaurant is
+        doing really good at many things. Customer service was excellent.
+        Christian was our server (kudos to him).
+
+
+        Ordered a Bento box 🍱 it included: chicken teriyaki, edamame, salad,
+        miso soup, California crab, and gyoza. 🥟 We also ordered California and
+        a shrimp tempura roll. Really good!
+
+
+        The ambiance of the restaurant is very chill and kinda stepping into dim
+        and relax. Lots of cute Japanese decor all around.
+
+
+        Also, the prices were very reasonable. I cannot wait to be back.
+
+
+        Note to management: please consider revising the chicken you use in your
+        bento box. It is not good quality. I would suggest trying a non-process,
+        non-frozen chicken. I understand this might fit your pricing/ROI;
+        However, less is more. Consider preparing your own chicken and if it
+        means less quantity in the bento box, it will be fine with customers,
+        given that their few pieces of chicken are tasty and fresh. This is a
+        piece of advice (take it or leave it) but I just wanted to be as honest
+        and transparent with my feedback. You are clearly doing many other
+        things really good, let’s step into greatness. I hope nothing but the
+        best!
+      languageCode: en
+    authorAttribution:
+      displayName: Carlos Santos
+      uri: https://www.google.com/maps/contrib/103800747710929669019/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXuaOKXeBehLOXy4JSL9KLrBvcbHDr-EQ1ojnpjo8Zhim0SHQrz=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-01-26T01:04:34.358113Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURfdGRmcXlBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURfdGRmcXlBRRAB!2m1!1s0x8646847a41112847:0x26f896639e5b7012
+  - name: >-
+      places/ChIJRygRQXqERoYREnBbnmOW-CY/reviews/ChdDSUhNMG9nS0VJQ0FnSUNibVluSF9RRRAB
+    relativePublishTimeDescription: 9 months ago
+    rating: 5
+    text:
+      text: >-
+        The fried chicken bento was good for 2 people. Good value.
+
+        We had difficulty finding out online what time the happy hour is, so we
+        just went to the restaurant early to check it: it's from 11AM-10PM
+        daily.
+      languageCode: en
+    originalText:
+      text: >-
+        The fried chicken bento was good for 2 people. Good value.
+
+        We had difficulty finding out online what time the happy hour is, so we
+        just went to the restaurant early to check it: it's from 11AM-10PM
+        daily.
+      languageCode: en
+    authorAttribution:
+      displayName: Marijoy Maringit
+      uri: https://www.google.com/maps/contrib/101587070710786259477/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKTKP8AO0zX07i8ey4pRYaf4Y4vlGRbSIC0lbHF4U4G4jSWVoA=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-07-28T23:17:57.864318Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNibVluSF9RRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNibVluSF9RRRAB!2m1!1s0x8646847a41112847:0x26f896639e5b7012
+  - name: >-
+      places/ChIJRygRQXqERoYREnBbnmOW-CY/reviews/ChZDSUhNMG9nS0VJQ0FnSUNid0lDWmJ3EAE
+    relativePublishTimeDescription: 9 months ago
+    rating: 5
+    text:
+      text: >-
+        The food here was excellent. Everything I tried was tasted fresh,
+        flavorful. Not to mention, the prices are good. Here is the yakiudon
+        with vegetables and chicken, the Philadelphia roll, and the white crab
+        rolls.
+      languageCode: en
+    originalText:
+      text: >-
+        The food here was excellent. Everything I tried was tasted fresh,
+        flavorful. Not to mention, the prices are good. Here is the yakiudon
+        with vegetables and chicken, the Philadelphia roll, and the white crab
+        rolls.
+      languageCode: en
+    authorAttribution:
+      displayName: Brian Paniagua
+      uri: https://www.google.com/maps/contrib/108653518315962129026/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjX3B6i8VH7vcod2hkhRhMTRekMg7ZbZEeon_LeUI0FemkWD7Ahc=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-07-22T01:41:05.042162Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNid0lDWmJ3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNid0lDWmJ3EAE!2m1!1s0x8646847a41112847:0x26f896639e5b7012
+  - name: >-
+      places/ChIJRygRQXqERoYREnBbnmOW-CY/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfdkliUnlBRRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        Wanted to write a review because me and my fiancé love this place! I
+        think we order their take out once a week. We’ve tried many sushi places
+        in College Station, but this one always wins. So affordable while also
+        being some of the best sushi we’ve ever had! Fast service as well
+      languageCode: en
+    originalText:
+      text: >-
+        Wanted to write a review because me and my fiancé love this place! I
+        think we order their take out once a week. We’ve tried many sushi places
+        in College Station, but this one always wins. So affordable while also
+        being some of the best sushi we’ve ever had! Fast service as well
+      languageCode: en
+    authorAttribution:
+      displayName: Gali Byrne
+      uri: https://www.google.com/maps/contrib/101212610010030610511/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVh4oKbDK_O06RCcbaPCILfUFzk06Z5bbiJRh7sArPPpDXrwgJe=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-01-14T01:47:56.904387Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNfdkliUnlBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNfdkliUnlBRRAB!2m1!1s0x8646847a41112847:0x26f896639e5b7012
+  - name: >-
+      places/ChIJRygRQXqERoYREnBbnmOW-CY/reviews/ChdDSUhNMG9nS0VJQ0FnTURRNDdiTzVBRRAB
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        I have been here twice since my first review and the fish has been
+        consistently fresh as of late. Excellent portion sizes, and one of the
+        only sushi places in town that doesn't treat salmon like it's caviar...
+        BIG sashimi slices! Decent nigiri prices as well. Massive rolls.
+        Definitely worth checking out.
+      languageCode: en
+    originalText:
+      text: >-
+        I have been here twice since my first review and the fish has been
+        consistently fresh as of late. Excellent portion sizes, and one of the
+        only sushi places in town that doesn't treat salmon like it's caviar...
+        BIG sashimi slices! Decent nigiri prices as well. Massive rolls.
+        Definitely worth checking out.
+      languageCode: en
+    authorAttribution:
+      displayName: Vincent S.
+      uri: https://www.google.com/maps/contrib/117893760273366651411/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjW0XYn3SuvYZkUz3yImM_NZqJJRRx7w2KVjXOZccWFOoY4AqZo=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-04-14T02:25:57.591915Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURRNDdiTzVBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURRNDdiTzVBRRAB!2m1!1s0x8646847a41112847:0x26f896639e5b7012
+review_summary: >-
+  What Customers Are Buzzing About$$$Visitors to this sushi spot often rave
+  about the fresh and flavorful dishes that make it a go-to choice for
+  affordable Japanese cuisine. Many highlight the generous portions and great
+  value, especially with options like bento boxes and rolls that leave diners
+  feeling satisfied without breaking the bank. Folks appreciate the friendly
+  service and relaxed setting, which add to the overall enjoyable vibe during
+  meals. While there are occasional suggestions for refining certain
+  ingredients, the consensus leans positive, with plenty of praise for the
+  consistently high-quality sushi that stands out in the local scene. Overall,
+  it's a solid pick for anyone seeking reliable sushi close to me, offering a
+  welcoming experience that encourages repeat visits for both lunch and dinner
+  crowds.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
+curbside_pickup: false
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: true
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
 serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Relaxed kitchen featuring sushi & typical Japanese entrees, plus Vietnamese
+  options such as pho.
 
 ---

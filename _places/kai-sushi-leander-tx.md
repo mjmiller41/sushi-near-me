@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kai Sushi"
+title: Kai Sushi
 permalink: /texas/leander/kai-sushi.html
 stateAbbr: TX
 stateName: Texas
 cityName: Leander
 seo:
-  name: "Kai Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.kaisushiatx.com/
-description: "Kai Sushi serves delicious sushi in Leander, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJL2re43EsW4YRbOyuzXNoJjs
 photos:
   - name: >-
@@ -170,7 +168,105 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x865b2c71e3de6a2f:0x3b266873cdaeec6c!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 14
+        minute: 30
+    - open:
+        day: 6
+        hour: 16
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
     - 'Tuesday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
     - 'Wednesday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
@@ -178,14 +274,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
     - 'Saturday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
-    - 'Thursday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
-    - 'Friday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
-    - 'Saturday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +286,255 @@ phone: (512) 456-0147
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.7'
-rating_count: 0
+rating_count: 616
 website: https://www.kaisushiatx.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Kai Sushi in Leander, Texas$$$Kai Sushi in Leander, TX, stands out as
+  a cozy destination for those seeking quality sushi experiences in a welcoming
+  environment. This homey spot features artfully prepared sushi, sashimi, and
+  creative rolls that highlight fresh ingredients and thoughtful presentation,
+  making it a go-to choice for sushi lovers exploring local Japanese dining
+  options. With a relaxed atmosphere and options like lunch specials, it caters
+  to both casual diners and those looking for a satisfying meal, complemented by
+  a bring-your-own-beverage policy for added convenience. Accessibility features
+  such as wheelchair-friendly entrances and seating ensure everyone can enjoy
+  the flavorful offerings, while its moderate pricing makes it an approachable
+  spot for everyday sushi cravings. Whether you're in the mood for innovative
+  rolls or classic dishes, this restaurant delivers a memorable dining
+  experience near you.
+generative_summary: >-
+  Discover Kai Sushi in Leander, Texas$$$Kai Sushi in Leander, TX, stands out as
+  a cozy destination for those seeking quality sushi experiences in a welcoming
+  environment. This homey spot features artfully prepared sushi, sashimi, and
+  creative rolls that highlight fresh ingredients and thoughtful presentation,
+  making it a go-to choice for sushi lovers exploring local Japanese dining
+  options. With a relaxed atmosphere and options like lunch specials, it caters
+  to both casual diners and those looking for a satisfying meal, complemented by
+  a bring-your-own-beverage policy for added convenience. Accessibility features
+  such as wheelchair-friendly entrances and seating ensure everyone can enjoy
+  the flavorful offerings, while its moderate pricing makes it an approachable
+  spot for everyday sushi cravings. Whether you're in the mood for innovative
+  rolls or classic dishes, this restaurant delivers a memorable dining
+  experience near you.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJL2re43EsW4YRbOyuzXNoJjs/reviews/ChZDSUhNMG9nS0VJQ0FnTUNnbWV5dUZREAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        This was unexpectedly good. We loved every bite of everything we tried.
+        The crispy rice with salmon was so good that we ordered a second
+        serving. The rolls and sushi were fresh, great serving sized portions
+        and I can't wait to order everything again. The White Dragon roll and
+        the Spider Roll were both delicious. The chocolate mousse for desert was
+        so good that we couldn't stop eating it even though we were full at that
+        point.
+      languageCode: en
+    originalText:
+      text: >-
+        This was unexpectedly good. We loved every bite of everything we tried.
+        The crispy rice with salmon was so good that we ordered a second
+        serving. The rolls and sushi were fresh, great serving sized portions
+        and I can't wait to order everything again. The White Dragon roll and
+        the Spider Roll were both delicious. The chocolate mousse for desert was
+        so good that we couldn't stop eating it even though we were full at that
+        point.
+      languageCode: en
+    authorAttribution:
+      displayName: Emina Maria
+      uri: https://www.google.com/maps/contrib/101745666141689797773/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJ4zBwq7orRHIhJyJfsiUSysGvEhISXtv8HeSn4gcCk2TFhpw=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-02-18T19:08:46.608089Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNnbWV5dUZREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNnbWV5dUZREAE!2m1!1s0x865b2c71e3de6a2f:0x3b266873cdaeec6c
+  - name: >-
+      places/ChIJL2re43EsW4YRbOyuzXNoJjs/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfaTZIUnlnRRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        Best Sushi in Austin!
+
+        Great food, great service, and great atmosphere. This was our third time
+        visiting, and it was amazing as always.
+
+        It is shocking to say that having this type of quality food in this
+        area. Hands down the freshest sushi restaurant in the neighborhood.
+
+        I highly recommend ordering the mochi ice cream before leaving as a
+        dessert. Overall, 10/10!!
+      languageCode: en
+    originalText:
+      text: >-
+        Best Sushi in Austin!
+
+        Great food, great service, and great atmosphere. This was our third time
+        visiting, and it was amazing as always.
+
+        It is shocking to say that having this type of quality food in this
+        area. Hands down the freshest sushi restaurant in the neighborhood.
+
+        I highly recommend ordering the mochi ice cream before leaving as a
+        dessert. Overall, 10/10!!
+      languageCode: en
+    authorAttribution:
+      displayName: MIA Aum
+      uri: https://www.google.com/maps/contrib/111075598009465315886/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLHQy81EAjsIQCMKRbwuauJbLFYuWnvj2EXRMFGBO_OfjtoYEhx=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-01-19T00:18:06.775042Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNfaTZIUnlnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNfaTZIUnlnRRAB!2m1!1s0x865b2c71e3de6a2f:0x3b266873cdaeec6c
+  - name: >-
+      places/ChIJL2re43EsW4YRbOyuzXNoJjs/reviews/ChZDSUhNMG9nS0VJQ0FnSUMzeE0zZk1REAE
+    relativePublishTimeDescription: 6 months ago
+    rating: 5
+    text:
+      text: >-
+        Kai Sushi- excellent!! Go there now! Friendly staff and delicious sushi.
+        You also need to order the spicy tuna crispy rice as an appetizer!! You
+        can bring your own sake which we did. We ordered the Geisha roll and one
+        with strawberries on top. I forget the name but I was surprised by it.
+        Huge pieces. Kai Sushi, I’ll be back!!
+      languageCode: en
+    originalText:
+      text: >-
+        Kai Sushi- excellent!! Go there now! Friendly staff and delicious sushi.
+        You also need to order the spicy tuna crispy rice as an appetizer!! You
+        can bring your own sake which we did. We ordered the Geisha roll and one
+        with strawberries on top. I forget the name but I was surprised by it.
+        Huge pieces. Kai Sushi, I’ll be back!!
+      languageCode: en
+    authorAttribution:
+      displayName: Jake Hewitt
+      uri: https://www.google.com/maps/contrib/104721081627843166842/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXZsn_GS5UUKzQrBwc4SI4PdlGfqYrwHQL9To4Owgpmrae1srAAYQ=s128-c0x00000000-cc-rp-mo-ba7
+    publishTime: '2024-11-02T22:29:09.134743Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUMzeE0zZk1REAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUMzeE0zZk1REAE!2m1!1s0x865b2c71e3de6a2f:0x3b266873cdaeec6c
+  - name: >-
+      places/ChIJL2re43EsW4YRbOyuzXNoJjs/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ3djZuOVp3EAE
+    relativePublishTimeDescription: 8 months ago
+    rating: 5
+    text:
+      text: >-
+        A solid sushi spot in Austin with fresh, well-prepared dishes. Their
+        sashimi rice bowl is a standout, with generous portions of fish that
+        outshine the rice. The chef and staff are friendly, making it a pleasant
+        dining experience. Worth a visit if you’re in the area!
+      languageCode: en
+    originalText:
+      text: >-
+        A solid sushi spot in Austin with fresh, well-prepared dishes. Their
+        sashimi rice bowl is a standout, with generous portions of fish that
+        outshine the rice. The chef and staff are friendly, making it a pleasant
+        dining experience. Worth a visit if you’re in the area!
+      languageCode: en
+    authorAttribution:
+      displayName: Eun Lee
+      uri: https://www.google.com/maps/contrib/106838271798102818810/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWJ7FLWX_j1nsd_pCL9uNk6qoI6v-KShtv3g95SI-ML6bNu4N593w=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-08-30T12:41:31.005273Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQ3djZuOVp3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQ3djZuOVp3EAE!2m1!1s0x865b2c71e3de6a2f:0x3b266873cdaeec6c
+  - name: >-
+      places/ChIJL2re43EsW4YRbOyuzXNoJjs/reviews/ChdDSUhNMG9nS0VJQ0FnSUNscnVYMXRBRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        I've frequently heard praise for Kai Sushi from my friends, and today I
+        wholeheartedly agree with their sentiments. I went there to celebrate my
+        birthday with my family. The sushi was remarkably fresh, and all the
+        dishes were delicious, complemented by a superb design that left nothing
+        lacking for a celebratory occasion. The interior was clean, not overly
+        crowded, and the prompt preparation of the food made the experience
+        enjoyable without long waits. Every staff member was friendly, adding a
+        warm atmosphere that perfected the entire experience.
+      languageCode: en
+    originalText:
+      text: >-
+        I've frequently heard praise for Kai Sushi from my friends, and today I
+        wholeheartedly agree with their sentiments. I went there to celebrate my
+        birthday with my family. The sushi was remarkably fresh, and all the
+        dishes were delicious, complemented by a superb design that left nothing
+        lacking for a celebratory occasion. The interior was clean, not overly
+        crowded, and the prompt preparation of the food made the experience
+        enjoyable without long waits. Every staff member was friendly, adding a
+        warm atmosphere that perfected the entire experience.
+      languageCode: en
+    authorAttribution:
+      displayName: minhee park
+      uri: https://www.google.com/maps/contrib/114587286087569782165/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKpcaVYIn54QuSGLKf5nPlSvozDS495boQ-dwve1hggt_lOJQ=s128-c0x00000000-cc-rp-mo
+    publishTime: '2023-11-18T20:30:46.546951Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNscnVYMXRBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNscnVYMXRBRRAB!2m1!1s0x865b2c71e3de6a2f:0x3b266873cdaeec6c
+review_summary: >-
+  What Diners Are Buzzing About$$$Visitors to this popular sushi spot often
+  praise the incredibly fresh fish and creative rolls that make every bite feel
+  special and satisfying. Many highlight the generous portions and standout
+  appetizers, noting how they add a fun twist to the overall meal without
+  overwhelming the palate. The friendly service and laid-back vibe create a
+  welcoming atmosphere that keeps people coming back for more, with comments
+  frequently mentioning how it feels like a hidden gem in the neighborhood.
+  While some appreciate the variety of options for different tastes, including
+  vegetarian choices, others enjoy the quick preparation that enhances the
+  casual dining experience. Overall, it's clear that this place consistently
+  delivers tasty, reliable meals that leave folks excited to recommend it to
+  friends searching for top-rated sushi nearby.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
+curbside_pickup: true
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: true
 outdoor_seating: null
 reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+restroom: true
+serves_beer: false
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: false
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: false
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Relaxed spot for sushi, rolls & cooked Japanese fare with lunch specials, plus
+  beer, wine & sake.
 
 ---

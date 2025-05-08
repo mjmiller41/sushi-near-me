@@ -5,4 +5,5 @@ permalink: /connecticut/cromwell/
 stateAbbr: CT
 stateName: Connecticut
 cityName: Cromwell
+
 ---

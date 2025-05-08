@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ninja Steak and Sushi"
+title: Ninja Steak and Sushi
 permalink: /georgia/braselton/ninja-steak-and-sushi.html
 stateAbbr: GA
 stateName: Georgia
 cityName: Braselton
 seo:
-  name: "Ninja Steak and Sushi"
-  type: Restaurant
-  links: null
-description: "Ninja Steak and Sushi serves delicious sushi in Braselton, Georgia. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.ninjasteakandsushi.com/
 place_id: ChIJOzbEWIzu9YgR4-8NLYEBZKU
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x88f5ee8c58c4363b:0xa56401812d0defe3!10e5
 primary_type: Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 4:30 – 9:30 PM'
+    - 'Tuesday: 4:30 – 9:30 PM'
+    - 'Wednesday: 4:30 – 9:30 PM'
+    - 'Thursday: 4:30 – 9:30 PM'
+    - 'Friday: 4:30 – 10:00 PM'
+    - 'Saturday: 12:00 – 10:00 PM'
+    - 'Sunday: 12:00 – 9:30 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,51 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (770) 965-2292
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.2'
+rating_count: 797
+website: http://www.ninjasteakandsushi.com/
+description: >-
+  Discover Ninja Steak and Sushi in Braselton, GA$$$Ninja Steak and Sushi in
+  Braselton, GA, stands out as a welcoming Japanese eatery where fresh sushi and
+  hibachi-style dishes take center stage, blending casual vibes with flavorful
+  options for steak and seafood lovers. This spot excels with its accessible
+  features, including easy entry and seating for all guests, making it a
+  convenient choice for anyone seeking top-rated sushi experiences nearby. The
+  menu highlights high-quality ingredients prepared in an engaging, interactive
+  style that brings a fun element to dining out. With flexible hours that cater
+  to evenings and weekends, it's an ideal destination for those exploring sushi
+  restaurants in the area, offering a mix of traditional flavors and modern
+  appeal that keeps visitors coming back.
+generative_summary: >-
+  Discover Ninja Steak and Sushi in Braselton, GA$$$Ninja Steak and Sushi in
+  Braselton, GA, stands out as a welcoming Japanese eatery where fresh sushi and
+  hibachi-style dishes take center stage, blending casual vibes with flavorful
+  options for steak and seafood lovers. This spot excels with its accessible
+  features, including easy entry and seating for all guests, making it a
+  convenient choice for anyone seeking top-rated sushi experiences nearby. The
+  menu highlights high-quality ingredients prepared in an engaging, interactive
+  style that brings a fun element to dining out. With flexible hours that cater
+  to evenings and weekends, it's an ideal destination for those exploring sushi
+  restaurants in the area, offering a mix of traditional flavors and modern
+  appeal that keeps visitors coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What People Are Buzzing About$$$Visitors often rave about the lively hibachi
+  shows at this Japanese spot, where chefs whip up tasty, fresh meat and veggies
+  that make for a memorable meal without any fuss. Many highlight the generous
+  servings and inviting atmosphere, noting how it feels like a great place to
+  gather with friends for some of the best sushi around. While some mention that
+  the costs can add up, the overall experience is praised for its friendly
+  service and solid flavors that satisfy cravings for Japanese cuisine close to
+  home. Folks appreciate the reliable quality, making it a go-to option for
+  anyone hunting for sushi places near me that deliver on both fun and taste.
+  All in all, it's a solid pick if you're in the mood for an enjoyable dine-in
+  adventure with a positive twist.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +312,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

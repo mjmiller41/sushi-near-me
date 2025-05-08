@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Golden Rolls"
+title: Golden Rolls
 permalink: /illinois/woodstock/golden-rolls.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Woodstock
 seo:
-  name: "Golden Rolls"
-  type: Restaurant
+  type: restaurant
   links: http://www.goldenrollssushi.com/
-description: "Chill Japanese bistro with a bar featuring creative sushi rolls, noodle dishes & teriyaki entrees. Golden Rolls serves delicious sushi in Woodstock, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJP7v519ZrD4gRHdSJyDJyc1k
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 0
 website: http://www.goldenrollssushi.com/
+description: >-
+  Discover Golden Rolls in Woodstock, IL$$$Nestled in Woodstock, IL, Golden
+  Rolls stands out as a welcoming sushi restaurant offering a relaxed atmosphere
+  for enjoying Japanese cuisine. This casual spot features an array of creative
+  sushi rolls, flavorful noodle dishes, and teriyaki options, complemented by a
+  selection of beers and cocktails that enhance the dining experience. The
+  eatery emphasizes accessibility with wheelchair-friendly features and ample
+  parking, making it a convenient choice for those seeking sushi places near me.
+  Inside, you'll find a clean and inviting space ideal for casual meals or
+  groups, with options like fresh salads and soups adding variety to the menu.
+  Whether you're in the mood for top-rated sushi or a laid-back Japanese meal,
+  this location delivers on quality and affordability without overwhelming the
+  senses.
+generative_summary: >-
+  Discover Golden Rolls in Woodstock, IL$$$Nestled in Woodstock, IL, Golden
+  Rolls stands out as a welcoming sushi restaurant offering a relaxed atmosphere
+  for enjoying Japanese cuisine. This casual spot features an array of creative
+  sushi rolls, flavorful noodle dishes, and teriyaki options, complemented by a
+  selection of beers and cocktails that enhance the dining experience. The
+  eatery emphasizes accessibility with wheelchair-friendly features and ample
+  parking, making it a convenient choice for those seeking sushi places near me.
+  Inside, you'll find a clean and inviting space ideal for casual meals or
+  groups, with options like fresh salads and soups adding variety to the menu.
+  Whether you're in the mood for top-rated sushi or a laid-back Japanese meal,
+  this location delivers on quality and affordability without overwhelming the
+  senses.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJP7v519ZrD4gRHdSJyDJyc1k/reviews/ChZDSUhNMG9nS0VJQ0FnSUN6eWJlSmFBEAE
@@ -488,6 +513,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURnX2RXNVZBEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURnX2RXNVZBEAE!2m1!1s0x880f6bd6d7f9bb3f:0x59737232c889d41d
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors to Golden Rolls often rave about the
+  fresh and creative sushi rolls, highlighting them as a standout feature that
+  keeps them coming back for more. Many appreciate the friendly service and
+  welcoming vibe, with comments praising tasty appetizers like calamari and
+  solid portions that leave you satisfied. While some note minor
+  inconsistencies, such as occasional preparation issues with certain dishes,
+  the overall experience is described as enjoyable and worth trying for anyone
+  exploring sushi restaurants in the area. Folks enjoy the variety of options,
+  including beer and cocktails, which add to the relaxed setting for casual
+  outings or family dinners. Overall, it's a solid pick for those searching for
+  best sushi near me, offering good value and a generally positive vibe despite
+  the occasional hiccup.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -519,8 +558,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Chill Japanese bistro with a bar featuring creative sushi rolls, noodle dishes
   & teriyaki entrees.
 

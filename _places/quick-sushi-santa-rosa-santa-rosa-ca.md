@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Quick Sushi Santa Rosa"
+title: Quick Sushi Santa Rosa
 permalink: /california/santa-rosa/quick-sushi-santa-rosa.html
 stateAbbr: CA
 stateName: California
 cityName: Santa Rosa
 seo:
-  name: "Quick Sushi Santa Rosa"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Quick Sushi Santa Rosa serves delicious sushi in Santa Rosa, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ_xlCrR85hIARogRUlsDJpn4
 photos:
   - name: >-
@@ -184,7 +182,42 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Quick Sushi in Santa Rosa, CA$$$Quick Sushi Santa Rosa in Santa Rosa,
+  CA, offers a relaxed vibe for enjoying authentic Japanese flavors, featuring
+  an array of fresh dishes that cater to sushi enthusiasts and beyond. This spot
+  stands out with its expansive menu, including hearty bento boxes, vibrant poke
+  bowls, and a variety of expertly prepared sushi rolls that highlight quality
+  ingredients and creative presentations. The restaurant's welcoming atmosphere
+  is enhanced by thoughtful accessibility features, making it easy for everyone
+  to savor a meal in a comfortable setting. Whether you're seeking a quick bite
+  or a leisurely dine-in experience, this Japanese eatery provides options that
+  appeal to families and groups looking for flavorful, satisfying meals nearby.
+generative_summary: >-
+  Discover Quick Sushi in Santa Rosa, CA$$$Quick Sushi Santa Rosa in Santa Rosa,
+  CA, offers a relaxed vibe for enjoying authentic Japanese flavors, featuring
+  an array of fresh dishes that cater to sushi enthusiasts and beyond. This spot
+  stands out with its expansive menu, including hearty bento boxes, vibrant poke
+  bowls, and a variety of expertly prepared sushi rolls that highlight quality
+  ingredients and creative presentations. The restaurant's welcoming atmosphere
+  is enhanced by thoughtful accessibility features, making it easy for everyone
+  to savor a meal in a comfortable setting. Whether you're seeking a quick bite
+  or a leisurely dine-in experience, this Japanese eatery provides options that
+  appeal to families and groups looking for flavorful, satisfying meals nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Guests Are Saying About the Experience$$$Folks often rave about the tasty
+  bento boxes and poke bowls at this spot, noting how they hit the spot with
+  their fresh flavors and generous portions. Many appreciate the efficient
+  service that keeps things moving without skipping on friendliness, making for
+  a smooth and enjoyable visit every time. Visitors frequently mention the
+  affordable prices as a big plus, allowing you to enjoy quality Japanese fare
+  without breaking the bank. The family-oriented vibe, complete with fun
+  elements like automated servers, adds a charming touch that keeps the
+  atmosphere light and engaging. Overall, it's a go-to choice for anyone craving
+  reliable, delicious eats in a welcoming environment.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +243,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

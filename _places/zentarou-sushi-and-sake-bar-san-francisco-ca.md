@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Zentarou Sushi and Sake Bar"
+title: Zentarou Sushi and Sake Bar
 permalink: /california/san-francisco/zentarou-sushi-and-sake-bar.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
 seo:
-  name: "Zentarou Sushi and Sake Bar"
-  type: Restaurant
+  type: restaurant
   links: https://www.zentarousf.com/
-description: "Zentarou Sushi and Sake Bar serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJSf9KlMiHhYARjdG-GjPd-OE
 photos:
   - name: >-
@@ -184,6 +182,33 @@ price_range: $50 &ndash; $100
 rating: '4.9'
 rating_count: 0
 website: https://www.zentarousf.com/
+description: >-
+  Experience Zentarou Sushi in San Francisco, CA$$$Nestled in the heart of San
+  Francisco, CA, Zentarou Sushi and Sake Bar offers a delightful escape into
+  traditional Japanese cuisine, featuring fresh nigiri and sashimi that capture
+  the essence of authentic flavors. This casual eatery stands out with its
+  selection of beer and sake, creating a welcoming atmosphere perfect for those
+  seeking top-rated sushi experiences nearby. Guests can enjoy a variety of
+  Japanese-inspired dishes in a setting that's both accessible and moderately
+  priced, making it an ideal spot for casual dinners or special occasions. The
+  menu highlights seasonal ingredients and thoughtful pairings, ensuring every
+  visit feels like a genuine culinary adventure. With its focus on quality and
+  variety, it's a go-to choice for anyone exploring sushi restaurants in the
+  area.
+generative_summary: >-
+  Experience Zentarou Sushi in San Francisco, CA$$$Nestled in the heart of San
+  Francisco, CA, Zentarou Sushi and Sake Bar offers a delightful escape into
+  traditional Japanese cuisine, featuring fresh nigiri and sashimi that capture
+  the essence of authentic flavors. This casual eatery stands out with its
+  selection of beer and sake, creating a welcoming atmosphere perfect for those
+  seeking top-rated sushi experiences nearby. Guests can enjoy a variety of
+  Japanese-inspired dishes in a setting that's both accessible and moderately
+  priced, making it an ideal spot for casual dinners or special occasions. The
+  menu highlights seasonal ingredients and thoughtful pairings, ensuring every
+  visit feels like a genuine culinary adventure. With its focus on quality and
+  variety, it's a go-to choice for anyone exploring sushi restaurants in the
+  area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJSf9KlMiHhYARjdG-GjPd-OE/reviews/ChZDSUhNMG9nS0VJQ0FnSURfazV5Mlh3EAE
@@ -465,6 +490,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN2X0tmM3VBRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN2X0tmM3VBRRAB!2m1!1s0x808587c8944aff49:0xe1f8dd331abed18d
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors to this sushi spot often praise the
+  outstanding omakase selections and fresh nigiri, noting how the generous
+  portions and high-quality ingredients make for a memorable meal. Many
+  appreciate the extensive sake options and attentive service that enhance the
+  overall vibe, even if a few mentions suggest occasional inconsistencies in
+  dish preparation during busier times. Overall, folks find the atmosphere
+  inviting and the flavors spot-on, with side dishes like grilled yellowtail
+  adding extra excitement to the experience. It's clear that the focus on fresh,
+  regional fish keeps diners coming back, offering a solid pick for those
+  hunting for the best sushi nearby. While not every detail hits the mark for
+  everyone, the general consensus leans positive, making it a worthwhile stop
+  for Japanese cuisine enthusiasts.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeStreetParking: true
   paidStreetParking: true
@@ -495,7 +534,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

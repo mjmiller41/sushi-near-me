@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "SUBEN Sushi (Japanese Restaurant)"
+title: SUBEN Sushi (Japanese Restaurant)
 permalink: /texas/carrollton/suben-sushi-japanese-restaurant.html
 stateAbbr: TX
 stateName: Texas
 cityName: Carrollton
 seo:
-  name: "SUBEN Sushi (Japanese Restaurant)"
-  type: Restaurant
+  type: restaurant
   links: http://subencarrollton.com/
-description: "SUBEN Sushi (Japanese Restaurant) serves delicious sushi in Carrollton, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJpzXQ6V4lTIYRdKgJbN5Nvq8
 photos:
   - name: >-
@@ -170,7 +168,89 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x864c255ee9d035a7:0xafbe4dde6c09a874!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 15
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 15
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 15
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 15
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:00 AM – 3:30 PM, 4:30 – 9:30 PM'
     - 'Wednesday: 11:00 AM – 3:30 PM, 4:30 – 9:30 PM'
@@ -178,14 +258,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 3:30 PM, 4:30 – 9:30 PM'
     - 'Saturday: 12:00 – 9:30 PM'
     - 'Sunday: 12:00 – 9:30 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:00 AM – 3:30 PM, 4:30 – 9:30 PM'
-    - 'Wednesday: 11:00 AM – 3:30 PM, 4:30 – 9:30 PM'
-    - 'Thursday: 11:00 AM – 3:30 PM, 4:30 – 9:30 PM'
-    - 'Friday: 11:00 AM – 3:30 PM, 4:30 – 9:30 PM'
-    - 'Saturday: 12:00 – 9:30 PM'
-    - 'Sunday: 12:00 – 9:30 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +270,254 @@ phone: (972) 810-0123
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.3'
-rating_count: 0
+rating_count: 193
 website: http://subencarrollton.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover SUBEN Sushi in Carrollton, TX$$$SUBEN Sushi in Carrollton, TX, stands
+  out as a casual Japanese eatery offering fresh sushi, sashimi, and bento boxes
+  that appeal to those seeking authentic flavors in a relaxed setting. The menu
+  features a variety of rolls and grilled options, making it a go-to spot for
+  anyone exploring sushi restaurants in the area. With accessibility features
+  like wheelchair-friendly parking and entrances, it ensures a comfortable visit
+  for all diners. Operating hours accommodate both lunch and dinner crowds,
+  adding convenience for busy days. Its moderate pricing and welcoming vibe make
+  it an excellent choice for enjoying top-rated Japanese dining options nearby.
+generative_summary: >-
+  Discover SUBEN Sushi in Carrollton, TX$$$SUBEN Sushi in Carrollton, TX, stands
+  out as a casual Japanese eatery offering fresh sushi, sashimi, and bento boxes
+  that appeal to those seeking authentic flavors in a relaxed setting. The menu
+  features a variety of rolls and grilled options, making it a go-to spot for
+  anyone exploring sushi restaurants in the area. With accessibility features
+  like wheelchair-friendly parking and entrances, it ensures a comfortable visit
+  for all diners. Operating hours accommodate both lunch and dinner crowds,
+  adding convenience for busy days. Its moderate pricing and welcoming vibe make
+  it an excellent choice for enjoying top-rated Japanese dining options nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJpzXQ6V4lTIYRdKgJbN5Nvq8/reviews/ChZDSUhNMG9nS0VJQ0FnSUNmblBHaU5nEAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        Went to swing by with my co-worker on our break the other day. The
+        service was AMAZING alongside the food. We were warmly greeted by a
+        lovely woman and I was given immediate attention. She checked on me and
+        my friend regularly making sure we were enjoying our time there. We both
+        got sushi rolls, I’ve been eating Sushi for years and the food we got
+        exceeded my expectations. Cannot believe it took me so long to grab a
+        bite here! We definitely plan on returning soon. The environment was
+        quaint and lovely.
+      languageCode: en
+    originalText:
+      text: >-
+        Went to swing by with my co-worker on our break the other day. The
+        service was AMAZING alongside the food. We were warmly greeted by a
+        lovely woman and I was given immediate attention. She checked on me and
+        my friend regularly making sure we were enjoying our time there. We both
+        got sushi rolls, I’ve been eating Sushi for years and the food we got
+        exceeded my expectations. Cannot believe it took me so long to grab a
+        bite here! We definitely plan on returning soon. The environment was
+        quaint and lovely.
+      languageCode: en
+    authorAttribution:
+      displayName: Forest
+      uri: https://www.google.com/maps/contrib/106673402467710695164/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUUaOLK57I7fyFlwmvOJpabBVzkDMZWghbNvNhmzzK1gR8_MfF7bA=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-12-27T00:51:26.533735Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNmblBHaU5nEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNmblBHaU5nEAE!2m1!1s0x864c255ee9d035a7:0xafbe4dde6c09a874
+  - name: >-
+      places/ChIJpzXQ6V4lTIYRdKgJbN5Nvq8/reviews/ChdDSUhNMG9nS0VJQ0FnSUN2enV1VHRRRRAB
+    relativePublishTimeDescription: 4 months ago
+    rating: 1
+    text:
+      text: >-
+        This is not a Japanese ran establishment. The man at the counter is not
+        Japanese. I ordered the California Roll and it was horrible. I have
+        never had a roll that was SWEET and full of sugar! Absolutely
+        disgusting. The man at the counter acted like he was surprised that I
+        wasn’t there for “pickup” because I’m African- American. Don’t waste
+        your money. It’s not authentic.
+      languageCode: en
+    originalText:
+      text: >-
+        This is not a Japanese ran establishment. The man at the counter is not
+        Japanese. I ordered the California Roll and it was horrible. I have
+        never had a roll that was SWEET and full of sugar! Absolutely
+        disgusting. The man at the counter acted like he was surprised that I
+        wasn’t there for “pickup” because I’m African- American. Don’t waste
+        your money. It’s not authentic.
+      languageCode: en
+    authorAttribution:
+      displayName: Ms Mo
+      uri: https://www.google.com/maps/contrib/111098573505200854622/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVQZ-zgRFxHlS5Z47S4nvu1oN10NFFQ0ms24TVQNNE95tOqMuLhXA=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-12-11T03:34:27.772359Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN2enV1VHRRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN2enV1VHRRRRAB!2m1!1s0x864c255ee9d035a7:0xafbe4dde6c09a874
+  - name: >-
+      places/ChIJpzXQ6V4lTIYRdKgJbN5Nvq8/reviews/ChdDSUhNMG9nS0VJQ0FnTURBMGZYT3R3RRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        Love the food.  The California roll was great and also look at he cute
+        soy sauce pitcher
+
+
+        It's almost gone  It's so delicious
+      languageCode: en
+    originalText:
+      text: >-
+        Love the food.  The California roll was great and also look at he cute
+        soy sauce pitcher
+
+
+        It's almost gone  It's so delicious
+      languageCode: en
+    authorAttribution:
+      displayName: Karen Christal
+      uri: https://www.google.com/maps/contrib/108258596450867578550/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjW6wxLvithRcnQ1jqy2nHJII3Rjju65Ejud5fKrOmpUhP2D2DfX=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-02-09T20:46:31.895388Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURBMGZYT3R3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURBMGZYT3R3RRAB!2m1!1s0x864c255ee9d035a7:0xafbe4dde6c09a874
+  - name: >-
+      places/ChIJpzXQ6V4lTIYRdKgJbN5Nvq8/reviews/ChdDSUhNMG9nS0VJQ0FnSUNycWRfVDhnRRAB
+    relativePublishTimeDescription: 9 months ago
+    rating: 2
+    text:
+      text: >-
+        We were craving sushi and decided to order at this place (through door
+        dash). I paid 75$ and could not have been any more disappointed. We had
+        4 sushi rolls and some noodles with chicken. The amount you get for your
+        money is ridiculous. They shoved 3 of our rolls in one medium sized to
+        go box. You get 8 pieces tops, and they are so small. If I pay that much
+        money, I expect it to be a little more than a mouth full. The taste was
+        average, and it didn't even come with any wasabi or gari. It looked so
+        cheap. The noodles barely have any chicken in it, only cabbage. I sure
+        won't order here again; it is not worth the money.
+      languageCode: en
+    originalText:
+      text: >-
+        We were craving sushi and decided to order at this place (through door
+        dash). I paid 75$ and could not have been any more disappointed. We had
+        4 sushi rolls and some noodles with chicken. The amount you get for your
+        money is ridiculous. They shoved 3 of our rolls in one medium sized to
+        go box. You get 8 pieces tops, and they are so small. If I pay that much
+        money, I expect it to be a little more than a mouth full. The taste was
+        average, and it didn't even come with any wasabi or gari. It looked so
+        cheap. The noodles barely have any chicken in it, only cabbage. I sure
+        won't order here again; it is not worth the money.
+      languageCode: en
+    authorAttribution:
+      displayName: Sarah G.
+      uri: https://www.google.com/maps/contrib/113438522619453679983/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJJaZLU9bC0jumAk6Y6Vp7tD__FpeBqYC3nSzNT7MM0nhBGY9I=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-07-08T20:31:09.624603Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNycWRfVDhnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNycWRfVDhnRRAB!2m1!1s0x864c255ee9d035a7:0xafbe4dde6c09a874
+  - name: >-
+      places/ChIJpzXQ6V4lTIYRdKgJbN5Nvq8/reviews/ChdDSUhNMG9nS0VJQ0FnSUNyMnJpVWpRRRAB
+    relativePublishTimeDescription: 10 months ago
+    rating: 2
+    text:
+      text: >-
+        I spent 27 dollars at this place and left hungry. The service was very
+        slow, yet the rolls came out looking like they took only a few minutes
+        to make. It felt like their wasn't even any ac in the restaurant. The
+        quality of the food was average at best, and the quality of the wasabi
+        and soy sauce were both horrible. The attached photo is all I got for 27
+        dollars. For that same price I could go to another place to get more
+        food at a better or similar quality or even go to my local Walmart and
+        get much more than what i got here and if made fresh, of much better
+        flavor and quality. There are many, many places to get sushi in
+        Carrollton, and I advise you to not waste your money here and instead go
+        somewhere else.
+      languageCode: en
+    originalText:
+      text: >-
+        I spent 27 dollars at this place and left hungry. The service was very
+        slow, yet the rolls came out looking like they took only a few minutes
+        to make. It felt like their wasn't even any ac in the restaurant. The
+        quality of the food was average at best, and the quality of the wasabi
+        and soy sauce were both horrible. The attached photo is all I got for 27
+        dollars. For that same price I could go to another place to get more
+        food at a better or similar quality or even go to my local Walmart and
+        get much more than what i got here and if made fresh, of much better
+        flavor and quality. There are many, many places to get sushi in
+        Carrollton, and I advise you to not waste your money here and instead go
+        somewhere else.
+      languageCode: en
+    authorAttribution:
+      displayName: Derek
+      uri: https://www.google.com/maps/contrib/109728393371133205574/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVkSlOEUAUN-S-f5Aj_TqGl3uHIkZCh_suzC9okErqyF57NyYc4=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-07-06T06:31:01.523029Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNyMnJpVWpRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNyMnJpVWpRRRAB!2m1!1s0x864c255ee9d035a7:0xafbe4dde6c09a874
+review_summary: >-
+  What Customers Are Saying$$$Folks who visit SUBEN Sushi often rave about the
+  tasty sushi rolls and the friendly, attentive service that keeps things
+  feeling welcoming and efficient. While many appreciate the fresh flavors and
+  casual atmosphere, some mention that portions can feel a bit small compared to
+  the cost, leaving room for a heartier meal next time. Overall, the spot earns
+  solid praise for its quality ingredients and quick preparation, with plenty of
+  repeat visitors sharing their satisfaction. If you're on the hunt for sushi
+  places in the neighborhood, this one delivers a generally enjoyable experience
+  with a few minor tweaks that could enhance value. Despite the mixed notes, the
+  positive vibes and high ratings make it a worthwhile stop for anyone craving
+  Japanese flavors.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
+delivery: true
+dine_in: true
+good_for_children: true
 good_for_groups: null
-good_for_sports: null
-live_music: null
+good_for_sports: false
+live_music: false
 menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: true
+serves_brunch: false
+serves_cocktails: false
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: false
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

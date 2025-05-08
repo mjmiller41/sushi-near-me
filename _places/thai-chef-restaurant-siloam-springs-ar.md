@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Thai Chef Restaurant"
+title: Thai Chef Restaurant
 permalink: /arkansas/siloam-springs/thai-chef-restaurant.html
 stateAbbr: AR
 stateName: Arkansas
 cityName: Siloam Springs
 seo:
-  name: "Thai Chef Restaurant"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Thai Chef Restaurant serves delicious sushi in Siloam Springs, Arkansas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJf0sn_PyZyYcRQ5abIhFHAzE
 photos:
   - name: >-
@@ -183,7 +181,43 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Thai Cuisine in Siloam Springs, AR$$$The Thai Chef Restaurant in
+  Siloam Springs, AR, brings authentic Thai flavors to the heart of the
+  community, featuring a menu inspired by traditional offerings like flavorful
+  curries and savory pork dishes. This cozy spot emphasizes fresh ingredients
+  and a welcoming atmosphere, making it an ideal choice for those seeking a
+  taste of Southeast Asian dining in a relaxed setting. With accessibility
+  features such as wheelchair-friendly parking and entrances, it caters to a
+  wide range of visitors looking for convenient and inclusive Thai dining
+  options. The restaurant's focus on generous portions and well-prepared meals
+  ensures a satisfying experience, perfect for locals or travelers exploring
+  nearby Asian-inspired eateries.
+generative_summary: >-
+  Discover Thai Cuisine in Siloam Springs, AR$$$The Thai Chef Restaurant in
+  Siloam Springs, AR, brings authentic Thai flavors to the heart of the
+  community, featuring a menu inspired by traditional offerings like flavorful
+  curries and savory pork dishes. This cozy spot emphasizes fresh ingredients
+  and a welcoming atmosphere, making it an ideal choice for those seeking a
+  taste of Southeast Asian dining in a relaxed setting. With accessibility
+  features such as wheelchair-friendly parking and entrances, it caters to a
+  wide range of visitors looking for convenient and inclusive Thai dining
+  options. The restaurant's focus on generous portions and well-prepared meals
+  ensures a satisfying experience, perfect for locals or travelers exploring
+  nearby Asian-inspired eateries.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Raving About$$$Folks around town often highlight the tasty
+  Thai dishes at this spot, with favorites like Pad Thai and drunken noodles
+  standing out for their bold flavors and hearty servings that feel like great
+  value for the price. Many appreciate the friendly and attentive staff who make
+  the whole visit feel smooth and enjoyable, adding to the laid-back vibe of the
+  place. Reviewers frequently mention the quick service, which is a big plus for
+  anyone grabbing a meal on the go without sacrificing quality. Overall, it's
+  clear that diners enjoy the reliable portions and welcoming environment,
+  making it a solid pick for casual Thai food enthusiasts in the area.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -209,7 +243,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

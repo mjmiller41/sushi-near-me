@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Thai Bayside Restaurant"
+title: Thai Bayside Restaurant
 permalink: /florida/palm-bay/thai-bayside-restaurant.html
 stateAbbr: FL
 stateName: Florida
 cityName: Palm Bay
 seo:
-  name: "Thai Bayside Restaurant"
-  type: Restaurant
+  type: restaurant
   links: https://www.thaibayside.com/
-description: "Thai Bayside Restaurant serves delicious sushi in Palm Bay, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJgURcMexy3ogRY25dKMU22ho
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 0
 website: https://www.thaibayside.com/
+description: >-
+  Discover Thai Bayside Restaurant in Palm Bay, FL$$$Thai Bayside Restaurant in
+  Palm Bay, Florida, offers a welcoming atmosphere where authentic Thai flavors
+  meet comfortable dining. This spot highlights generous portions of flavorful
+  dishes like Pad Thai and Red Curry, crafted with fresh ingredients that
+  deliver a satisfying balance of spice and taste. The restaurant provides a
+  clean, accessible space with options for vegetarians and pairs meals with
+  beverages such as beer and wine, making it ideal for casual gatherings.
+  Friendly service ensures a pleasant experience, while the variety of choices
+  caters to different preferences, enhancing its appeal as a go-to spot for
+  quality Thai cuisine in the area.
+generative_summary: >-
+  Discover Thai Bayside Restaurant in Palm Bay, FL$$$Thai Bayside Restaurant in
+  Palm Bay, Florida, offers a welcoming atmosphere where authentic Thai flavors
+  meet comfortable dining. This spot highlights generous portions of flavorful
+  dishes like Pad Thai and Red Curry, crafted with fresh ingredients that
+  deliver a satisfying balance of spice and taste. The restaurant provides a
+  clean, accessible space with options for vegetarians and pairs meals with
+  beverages such as beer and wine, making it ideal for casual gatherings.
+  Friendly service ensures a pleasant experience, while the variety of choices
+  caters to different preferences, enhancing its appeal as a go-to spot for
+  quality Thai cuisine in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJgURcMexy3ogRY25dKMU22ho/reviews/ChZDSUhNMG9nS0VJQ0FnSUNuN1o3YktREAE
@@ -368,6 +389,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNueUphdEN3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNueUphdEN3EAE!2m1!1s0x88de72ec315c4481:0x1ada36c5285d6e63
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this Thai eatery often praise the
+  quick preparation and generous servings of popular dishes, creating a reliably
+  enjoyable meal experience. Many highlight the welcoming vibe and attentive
+  staff who handle requests smoothly, turning potential issues into positive
+  outcomes. While most feedback focuses on the delicious flavors of items like
+  noodles and curries, a few notes suggest room for improvement in consistency
+  and cleanliness details. Overall, it's a solid choice for families and groups
+  seeking tasty options nearby, with the majority of experiences leaving diners
+  eager to return for more. If you're exploring local spots, this place stands
+  out for its flavorful offerings and accommodating service.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -401,7 +434,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

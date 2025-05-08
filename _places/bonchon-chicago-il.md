@@ -1,15 +1,14 @@
 ---
 layout: place
-title: "Bonchon"
+title: Bonchon
 permalink: /illinois/chicago/bonchon.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
 seo:
-  name: "Bonchon"
-  type: Restaurant
-  links: null
-description: "Bonchon serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: >-
+    https://order.bonchon.com/web/3721?_gl=1*13k5041*_ga*MTEwOTI4ODcwNy4xNjY2MTU5OTQy*_ga_03FT4GK56K*MTY2NjM4NTQ3NS4zLjEuMTY2NjM4NTQ5MS4wLjAuMA..#/
 place_id: ChIJbeU4mI8tDogRLwgldZC7UQw
 photos:
   - name: >-
@@ -168,8 +167,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x880e2d8f9838e56d:0xc51bb907525082f!10e5
 primary_type: Asian Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 10:00 PM'
+    - 'Tuesday: 11:00 AM – 10:00 PM'
+    - 'Wednesday: 11:00 AM – 10:00 PM'
+    - 'Thursday: 11:00 AM – 10:00 PM'
+    - 'Friday: 11:00 AM – 10:30 PM'
+    - 'Saturday: 11:00 AM – 10:30 PM'
+    - 'Sunday: 11:00 AM – 10:00 PM'
+  nextCloseTime: '2025-05-04T03:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -177,13 +241,49 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (312) 877-5822
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.4'
+rating_count: 1173
+website: >-
+  https://order.bonchon.com/web/3721?_gl=1*13k5041*_ga*MTEwOTI4ODcwNy4xNjY2MTU5OTQy*_ga_03FT4GK56K*MTY2NjM4NTQ3NS4zLjEuMTY2NjM4NTQ5MS4wLjAuMA..#/
+description: >-
+  Explore Bonchon in Chicago, IL$$$Bonchon in Chicago, IL, stands out as a
+  vibrant Asian restaurant offering a mix of flavorful Korean-inspired dishes in
+  a welcoming setting. Located in the heart of the city, this spot features
+  accessible entrances and seating, making it easy for everyone to enjoy a
+  casual meal. With extended hours from late morning into the evening, it's
+  ideal for those seeking top-rated Asian options near urban hubs. The moderate
+  pricing and high-quality fare create an inviting atmosphere for diners looking
+  for a satisfying bite after exploring the neighborhood. Whether you're in the
+  mood for bold flavors or a relaxed dining experience, this location delivers
+  on freshness and variety that keeps locals coming back.
+generative_summary: >-
+  Explore Bonchon in Chicago, IL$$$Bonchon in Chicago, IL, stands out as a
+  vibrant Asian restaurant offering a mix of flavorful Korean-inspired dishes in
+  a welcoming setting. Located in the heart of the city, this spot features
+  accessible entrances and seating, making it easy for everyone to enjoy a
+  casual meal. With extended hours from late morning into the evening, it's
+  ideal for those seeking top-rated Asian options near urban hubs. The moderate
+  pricing and high-quality fare create an inviting atmosphere for diners looking
+  for a satisfying bite after exploring the neighborhood. Whether you're in the
+  mood for bold flavors or a relaxed dining experience, this location delivers
+  on freshness and variety that keeps locals coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback Highlights$$$Folks around Chicago rave about Bonchon for its
+  tasty, crispy dishes that hit the spot every time, based on the consistently
+  positive buzz from numerous ratings. Many appreciate the friendly service and
+  quick turnaround, making it a go-to for groups or solo diners wanting a solid
+  meal without the fuss. While some mention portions could vary, the overall
+  vibe and flavor profiles earn high marks for value and enjoyment. It's clear
+  from the feedback that this place nails the balance of spice and crunch,
+  drawing in repeat visitors who love the authentic feel. All in all, if you're
+  hunting for reliable Asian eats nearby, the general consensus leans toward a
+  worthwhile stop for a flavorful outing.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -209,7 +309,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

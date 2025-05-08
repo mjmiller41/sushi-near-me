@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kengo Sushi"
+title: Kengo Sushi
 permalink: /california/tracy/kengo-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Tracy
 seo:
-  name: "Kengo Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.kengosushi4u.com/
-description: "Kengo Sushi serves delicious sushi in Tracy, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJGRlTb1A9kIARaz9vQWawOHI
 photos:
   - name: >-
@@ -170,7 +168,105 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80903d506f531919:0x7238b066416f3f6b!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 16
+        minute: 0
+      close:
+        day: 1
+        hour: 20
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 14
+        minute: 30
+    - open:
+        day: 6
+        hour: 16
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 2:30 PM, 4:00 – 8:30 PM'
     - 'Tuesday: 11:00 AM – 2:30 PM, 4:00 – 8:30 PM'
     - 'Wednesday: 11:00 AM – 2:30 PM, 4:00 – 8:30 PM'
@@ -178,14 +274,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 2:30 PM, 4:00 – 9:00 PM'
     - 'Saturday: 11:00 AM – 2:30 PM, 4:00 – 9:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:00 AM – 2:30 PM, 4:00 – 8:30 PM'
-    - 'Tuesday: 11:00 AM – 2:30 PM, 4:00 – 8:30 PM'
-    - 'Wednesday: 11:00 AM – 2:30 PM, 4:00 – 8:30 PM'
-    - 'Thursday: 11:00 AM – 2:30 PM, 4:00 – 8:30 PM'
-    - 'Friday: 11:00 AM – 2:30 PM, 4:00 – 9:00 PM'
-    - 'Saturday: 11:00 AM – 2:30 PM, 4:00 – 9:00 PM'
-    - 'Sunday: Closed'
+  nextOpenTime: '2025-05-03T23:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +286,362 @@ phone: (209) 839-8292
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.3'
-rating_count: 0
+rating_count: 346
 website: https://www.kengosushi4u.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Kengo Sushi in Tracy, CA$$$Kengo Sushi in Tracy, CA, stands out as a
+  contemporary Japanese eatery, blending casual vibes with authentic flavors in
+  a minimalist setting. This spot offers a variety of fresh sushi rolls, bento
+  boxes, and other traditional Japanese dishes, making it a go-to for those
+  seeking top-rated sushi options nearby. With options like beer, wine, and sake
+  to complement your meal, it's designed to be family-friendly and accessible,
+  featuring wheelchair-friendly amenities for a comfortable visit. The
+  restaurant's straightforward atmosphere enhances the dining experience, ideal
+  for anyone exploring Japanese places in the area. Whether you're in the mood
+  for a quick lunch or a relaxed dinner, this location delivers on quality and
+  variety.
+generative_summary: >-
+  Discover Kengo Sushi in Tracy, CA$$$Kengo Sushi in Tracy, CA, stands out as a
+  contemporary Japanese eatery, blending casual vibes with authentic flavors in
+  a minimalist setting. This spot offers a variety of fresh sushi rolls, bento
+  boxes, and other traditional Japanese dishes, making it a go-to for those
+  seeking top-rated sushi options nearby. With options like beer, wine, and sake
+  to complement your meal, it's designed to be family-friendly and accessible,
+  featuring wheelchair-friendly amenities for a comfortable visit. The
+  restaurant's straightforward atmosphere enhances the dining experience, ideal
+  for anyone exploring Japanese places in the area. Whether you're in the mood
+  for a quick lunch or a relaxed dinner, this location delivers on quality and
+  variety.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJGRlTb1A9kIARaz9vQWawOHI/reviews/ChZDSUhNMG9nS0VJQ0FnSUN2N3NIdE1nEAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        10/10! My boyfriend and I unknowingly got there right after they opened.
+        We were the first people there but soon after several other guests came
+        in. It’s really good to see people ready to eat their food so early! Sad
+        they weren’t serving alcohol at the time because of their license but
+        the food was excellent. We ordered the chicken katsu box and salmon
+        donburi. Our server was really nice and welcoming! The prices were on
+        point too!
+      languageCode: en
+    originalText:
+      text: >-
+        10/10! My boyfriend and I unknowingly got there right after they opened.
+        We were the first people there but soon after several other guests came
+        in. It’s really good to see people ready to eat their food so early! Sad
+        they weren’t serving alcohol at the time because of their license but
+        the food was excellent. We ordered the chicken katsu box and salmon
+        donburi. Our server was really nice and welcoming! The prices were on
+        point too!
+      languageCode: en
+    authorAttribution:
+      displayName: Andrea Mari Lagasca
+      uri: https://www.google.com/maps/contrib/100658650203461318226/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjX3PZmDjZor03N97srB9uuoXs8leDYTbRB5_hyUKCyFzd-EfDcw=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2024-12-11T07:01:59.585944Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN2N3NIdE1nEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN2N3NIdE1nEAE!2m1!1s0x80903d506f531919:0x7238b066416f3f6b
+  - name: >-
+      places/ChIJGRlTb1A9kIARaz9vQWawOHI/reviews/ChZDSUhNMG9nS0VJQ0FnSUROdXZla05nEAE
+    relativePublishTimeDescription: a year ago
+    rating: 4
+    text:
+      text: >-
+        I was surprised to see that it was completely empty on a rainy Saturday
+        night in Tracy… so I decided to give Kengo Sushi a try after seeing it
+        packed the last time I saw it. Upon walking in, I immediately sensed
+        that it was going to be a good experience forsure.
+
+
+        If you’re looking to get decent Japanese food in Tracy… this is one of
+        them. Here’s how my experience went thus far:
+
+
+        Food: 4/5
+
+        Me and my partner got the 4pc shrimp tempura… which happened to be $8.
+        Not bad considering it was inflation, honestly, and the batter of the
+        tempura was very crispy. I found, however, that it contained a little
+        too less shrimp. The very aromatic tea really made up for the thick
+        batter though… that’s for sure.
+
+        We also got the Simba Roll and King Kong Roll… both of which were our
+        favorites. They were so good to the point I had to take them home to
+        leave them as leftovers LOL.
+
+        Ramen wise, we got the Korean Spicy Ramen and the Shoyu Ramen. I was a
+        bit disappointed considering I wanted actual ramen noodles from scratch,
+        but instant noodles were just as good — hehe. They included a lot of
+        veggies and toppings alongside pork for my shoyu, which definitely
+        helped with my culinary palette. The spicy ramen’s level was just right.
+
+
+        Service: 5/5
+
+        The waitresses were very friendly upon arrival, and kept on checking on
+        us throughout our meal…. and they gave us quite good recommendations.
+
+
+        Atmosphere: 4/5
+
+        I was quite fascinated to find that the entrance to the bathroom was
+        identical to going to a cabana or a party. I like the overall design of
+        the restaurant, but it seemed a little bit too dark, and I felt a little
+        squeezed. In addition, I also felt like there could’ve been more
+        variety, in terms of drinks, and in terms of rolls. Not trying to be
+        critical, but if there was room for improvement, I would’ve spaced the
+        tables around a little bit bit more.
+
+
+        Overall, I had a really good experience, and I can’t wait to come here
+        again with my friends.
+      languageCode: en
+    originalText:
+      text: >-
+        I was surprised to see that it was completely empty on a rainy Saturday
+        night in Tracy… so I decided to give Kengo Sushi a try after seeing it
+        packed the last time I saw it. Upon walking in, I immediately sensed
+        that it was going to be a good experience forsure.
+
+
+        If you’re looking to get decent Japanese food in Tracy… this is one of
+        them. Here’s how my experience went thus far:
+
+
+        Food: 4/5
+
+        Me and my partner got the 4pc shrimp tempura… which happened to be $8.
+        Not bad considering it was inflation, honestly, and the batter of the
+        tempura was very crispy. I found, however, that it contained a little
+        too less shrimp. The very aromatic tea really made up for the thick
+        batter though… that’s for sure.
+
+        We also got the Simba Roll and King Kong Roll… both of which were our
+        favorites. They were so good to the point I had to take them home to
+        leave them as leftovers LOL.
+
+        Ramen wise, we got the Korean Spicy Ramen and the Shoyu Ramen. I was a
+        bit disappointed considering I wanted actual ramen noodles from scratch,
+        but instant noodles were just as good — hehe. They included a lot of
+        veggies and toppings alongside pork for my shoyu, which definitely
+        helped with my culinary palette. The spicy ramen’s level was just right.
+
+
+        Service: 5/5
+
+        The waitresses were very friendly upon arrival, and kept on checking on
+        us throughout our meal…. and they gave us quite good recommendations.
+
+
+        Atmosphere: 4/5
+
+        I was quite fascinated to find that the entrance to the bathroom was
+        identical to going to a cabana or a party. I like the overall design of
+        the restaurant, but it seemed a little bit too dark, and I felt a little
+        squeezed. In addition, I also felt like there could’ve been more
+        variety, in terms of drinks, and in terms of rolls. Not trying to be
+        critical, but if there was room for improvement, I would’ve spaced the
+        tables around a little bit bit more.
+
+
+        Overall, I had a really good experience, and I can’t wait to come here
+        again with my friends.
+      languageCode: en
+    authorAttribution:
+      displayName: Austin Zhuang
+      uri: https://www.google.com/maps/contrib/111566566464051768141/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXZP_Zu4e25J1YQpp7-VIBYThQMf8kzlc9n73HlRPMTddaRyXvj=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-01-21T22:27:30.632972Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUROdXZla05nEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUROdXZla05nEAE!2m1!1s0x80903d506f531919:0x7238b066416f3f6b
+  - name: >-
+      places/ChIJGRlTb1A9kIARaz9vQWawOHI/reviews/ChdDSUhNMG9nS0VJQ0FnTUNnaDR5RDl3RRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        I think this is the best sushi place in the area. The music they played
+        was great, and the food was delicious. They had a great playlist going.
+        The staff was friendly, and the place was clean. I had a good time and
+        left the place with a full stomach. If you haven’t visited yet, it’s
+        worth the stop. I will be a returning customer.
+      languageCode: en
+    originalText:
+      text: >-
+        I think this is the best sushi place in the area. The music they played
+        was great, and the food was delicious. They had a great playlist going.
+        The staff was friendly, and the place was clean. I had a good time and
+        left the place with a full stomach. If you haven’t visited yet, it’s
+        worth the stop. I will be a returning customer.
+      languageCode: en
+    authorAttribution:
+      displayName: Romeo
+      uri: https://www.google.com/maps/contrib/101471598765234876958/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjU_Xh5T2HxiBI1G7zSPZRpHR8rVZkNfIjdsCzkXI_Vbjindsyl3cw=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-02-21T06:11:46.746389Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNnaDR5RDl3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNnaDR5RDl3RRAB!2m1!1s0x80903d506f531919:0x7238b066416f3f6b
+  - name: >-
+      places/ChIJGRlTb1A9kIARaz9vQWawOHI/reviews/ChZDSUhNMG9nS0VJQ0FnTUNnMXN6dGZBEAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 1
+    text:
+      text: >-
+        Very bad experience at Kengo.
+
+
+        I just left the restaurant after visiting on February 14, 2025.
+        Surprisingly, the place was not full, even though it was Valentine’s
+        Day. My husband, my two children, and I were seated, and they gave us
+        the menu. However, no one came to take our order.
+
+
+        Understanding that it was a busy day with in-person customers and Uber
+        orders, we patiently waited without saying anything. But then we started
+        noticing that the staff was paying attention to other customers who
+        arrived after us.
+
+
+        We finally asked a waiter to take our order, but he seemed annoyed when
+        he did. After that, we saw that at least five tables with people who
+        arrived later were having their orders taken and receiving their food,
+        while we kept being ignored despite asking multiple times.
+
+
+        This whole experience lasted around 50 minutes, and it was extremely
+        frustrating and disappointing. We were made to feel very unwelcome. I
+        will never return to this restaurant. It was a terrible experience.
+      languageCode: en
+    originalText:
+      text: >-
+        Very bad experience at Kengo.
+
+
+        I just left the restaurant after visiting on February 14, 2025.
+        Surprisingly, the place was not full, even though it was Valentine’s
+        Day. My husband, my two children, and I were seated, and they gave us
+        the menu. However, no one came to take our order.
+
+
+        Understanding that it was a busy day with in-person customers and Uber
+        orders, we patiently waited without saying anything. But then we started
+        noticing that the staff was paying attention to other customers who
+        arrived after us.
+
+
+        We finally asked a waiter to take our order, but he seemed annoyed when
+        he did. After that, we saw that at least five tables with people who
+        arrived later were having their orders taken and receiving their food,
+        while we kept being ignored despite asking multiple times.
+
+
+        This whole experience lasted around 50 minutes, and it was extremely
+        frustrating and disappointing. We were made to feel very unwelcome. I
+        will never return to this restaurant. It was a terrible experience.
+      languageCode: en
+    authorAttribution:
+      displayName: Patricia Flores
+      uri: https://www.google.com/maps/contrib/115178652289538601618/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLdGOiIBJIk_h9eMSx-6zbCCHfA1IVmwfTWiB2vzlC5D07mpA=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-02-16T23:48:49.695441Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNnMXN6dGZBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNnMXN6dGZBEAE!2m1!1s0x80903d506f531919:0x7238b066416f3f6b
+  - name: >-
+      places/ChIJGRlTb1A9kIARaz9vQWawOHI/reviews/ChdDSUhNMG9nS0VJQ0FnSUQyb3FUR2xRRRAB
+    relativePublishTimeDescription: 2 years ago
+    rating: 4
+    text:
+      text: >-
+        I had a decent experience at Kengo Sushi. The food was delicious,
+        service was good, only thing that was concerning is that the place
+        didn't seem too clean. Table we sat at still had somw crumbs, napkins
+        had a food stain on them, menu's were greasy, overall it just seems like
+        they could do a better job when cleaning up their tables after they have
+        been used.
+      languageCode: en
+    originalText:
+      text: >-
+        I had a decent experience at Kengo Sushi. The food was delicious,
+        service was good, only thing that was concerning is that the place
+        didn't seem too clean. Table we sat at still had somw crumbs, napkins
+        had a food stain on them, menu's were greasy, overall it just seems like
+        they could do a better job when cleaning up their tables after they have
+        been used.
+      languageCode: en
+    authorAttribution:
+      displayName: Cat
+      uri: https://www.google.com/maps/contrib/116890078395911794737/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUAp7W77DEgWDjKoKMDV9wOdNOtuLGsWRmhZYQCgBaLbAKhW3sB=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2022-05-10T04:31:31.158896Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQyb3FUR2xRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQyb3FUR2xRRRAB!2m1!1s0x80903d506f531919:0x7238b066416f3f6b
+review_summary: >-
+  What Customers Are Buzzing About$$$Folks generally rave about the tasty sushi
+  and friendly service at this spot, highlighting the fresh rolls and flavorful
+  ramen as standout choices for a satisfying meal. While most visitors
+  appreciate the welcoming atmosphere and reasonable prices, a few have noted
+  occasional slowdowns during busier times that might affect the flow of
+  service. Overall, the food quality and variety keep drawing people back, with
+  many enjoying it as a solid pick for casual outings or groups. It's easy to
+  see why this place earns high marks, as the positives like generous portions
+  and a clean vibe far outweigh any minor hiccups. If you're hunting for
+  reliable sushi near you, this option often leaves diners feeling content and
+  eager to return.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
+curbside_pickup: true
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
 menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
 serves_cocktails: null
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Contemporary Japanese eatery serving raw & cooked classics in a minimalist
+  setting with a sushi bar.
 
 ---

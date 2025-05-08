@@ -163,13 +163,29 @@ a {
 /**
  * Blockquotes
  */
-blockquote {
+blockquote,
+.blockquote {
   color: $grey-color;
   border-left: 4px solid $grey-color-light;
   padding-left: $spacing-unit * 0.5;
   @include relative-font-size(1.125);
   letter-spacing: -1px;
   font-style: italic;
+
+  p::before {
+    content: '\201C';
+  }
+
+  p::after {
+    content: '\201D';
+  }
+
+  + p {
+    text-align: right;
+    &::before {
+      content: '\2014';
+    }
+  }
 
   > :last-child {
     margin-bottom: 0;
@@ -206,19 +222,22 @@ pre {
  * Wrapper
  */
 .wrapper {
-  max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
-  max-width: calc(#{$content-width} - (#{$spacing-unit} * 2));
+  max-width: $max-width-webkit;
+  max-width: $max-width;
   margin-right: auto;
   margin-left: auto;
-  padding-right: $spacing-unit;
-  padding-left: $spacing-unit;
+  padding-right: $spacing-unit * 0.5;
+  padding-left: $spacing-unit * 0.5;
   @extend %clearfix;
+  &:has(.place-page) {
+    padding: 0;
+  }
 
-  @include media-query($on-laptop) {
+  @include media-query($on-tablet) {
     max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
     max-width: calc(#{$content-width} - (#{$spacing-unit}));
-    padding-right: $spacing-unit * 0.5;
-    padding-left: $spacing-unit * 0.5;
+    padding-right: $spacing-unit;
+    padding-left: $spacing-unit;
   }
 }
 

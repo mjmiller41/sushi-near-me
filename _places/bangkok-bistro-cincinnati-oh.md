@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Bangkok Bistro"
+title: Bangkok Bistro
 permalink: /ohio/cincinnati/bangkok-bistro.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Cincinnati
 seo:
-  name: "Bangkok Bistro"
-  type: Restaurant
+  type: restaurant
   links: http://www.bkkhydepark.com/
-description: "Casual eatery fixing up hearty noodle, sushi, tempura & curry dishes for dine-in or takeout. Bangkok Bistro serves delicious sushi in Cincinnati, Ohio. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ5WliN5-tQYgRtVOSoPjh5pE
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 0
 website: http://www.bkkhydepark.com/
+description: >-
+  About Bangkok Bistro in Cincinnati, OH$$$Bangkok Bistro in Cincinnati, OH,
+  serves up a welcoming blend of authentic Thai flavors and fresh sushi options
+  in a laid-back atmosphere, making it a go-to spot for those seeking sushi
+  restaurants near me. The menu highlights hearty noodle dishes, flavorful
+  curries, and creative rolls that cater to a variety of tastes, all prepared
+  with fresh ingredients for a satisfying dining experience. Accessibility
+  features like wheelchair-friendly entrances and seating add to the
+  convenience, ensuring everyone can enjoy the casual vibe. With outdoor seating
+  and options for takeout, it's ideal for both quick meals and relaxed evenings,
+  appealing to anyone exploring top-rated sushi or Japanese-inspired places near
+  me.
+generative_summary: >-
+  About Bangkok Bistro in Cincinnati, OH$$$Bangkok Bistro in Cincinnati, OH,
+  serves up a welcoming blend of authentic Thai flavors and fresh sushi options
+  in a laid-back atmosphere, making it a go-to spot for those seeking sushi
+  restaurants near me. The menu highlights hearty noodle dishes, flavorful
+  curries, and creative rolls that cater to a variety of tastes, all prepared
+  with fresh ingredients for a satisfying dining experience. Accessibility
+  features like wheelchair-friendly entrances and seating add to the
+  convenience, ensuring everyone can enjoy the casual vibe. With outdoor seating
+  and options for takeout, it's ideal for both quick meals and relaxed evenings,
+  appealing to anyone exploring top-rated sushi or Japanese-inspired places near
+  me.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ5WliN5-tQYgRtVOSoPjh5pE/reviews/ChZDSUhNMG9nS0VJQ0FnSURuczlYeWN3EAE
@@ -342,6 +365,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURPNTR5dWNBEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURPNTR5dWNBEAE!2m1!1s0x8841ad9f376269e5:0x91e6e1f8a09253b5
+review_summary: >-
+  What Guests Are Saying$$$Visitors consistently praise Bangkok Bistro for its
+  delicious Thai-inspired dishes and sushi selections, noting that the flavors
+  remain spot-on and satisfying across the board. Many highlight the variety of
+  options like noodles and curries, which offer a perfect balance of spice and
+  taste without overwhelming the palate. Folks appreciate the friendly service
+  and thoughtful recommendations that make every meal feel personalized and
+  enjoyable. Overall, it's a solid choice for a wholesome dining experience,
+  with easy parking and a welcoming environment adding to the appeal. While
+  sushi might not steal the show for everyone, the general consensus leans
+  positive, making it a reliable pick for anyone craving flavorful eats in a
+  casual setting.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   valetParking: false
@@ -373,8 +409,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Casual eatery fixing up hearty noodle, sushi, tempura & curry dishes for
   dine-in or takeout.
 

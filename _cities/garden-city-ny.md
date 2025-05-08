@@ -5,4 +5,5 @@ permalink: /new-york/garden-city/
 stateAbbr: NY
 stateName: New York
 cityName: Garden City
+
 ---

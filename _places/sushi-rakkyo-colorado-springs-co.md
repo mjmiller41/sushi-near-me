@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Rakkyo"
+title: Sushi Rakkyo
 permalink: /colorado/colorado-springs/sushi-rakkyo.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Colorado Springs
 seo:
-  name: "Sushi Rakkyo"
-  type: Restaurant
+  type: restaurant
   links: http://sushirakkyocoloradosprings.com/
-description: "Sushi Rakkyo serves delicious sushi in Colorado Springs, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ0bAT5BdNE4cRo4PcxXqPeEM
 photos:
   - name: >-
@@ -143,7 +141,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDjtoGa-wE!2e10!4m2!3m1!1s0x87134d17e413b0d1:0x43788f7ac5dc83a3
 address: Sushi Rakkyo, 9205 N Union Blvd Suite 2-100, Colorado Springs, CO 80920, USA
-street: Sushi Rakkyo, 9205 N Union Blvd Suite 2-100
+street: Sushi Rakkyo,9205 N Union Blvd Suite 2-100
 city: Colorado Springs
 state: CO
 zip: '80920'
@@ -170,7 +168,113 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x87134d17e413b0d1:0x43788f7ac5dc83a3!10e5
 primary_type: Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 14
+        minute: 30
+    - open:
+        day: 6
+        hour: 16
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 2:30 PM, 4:30 – 9:30 PM'
     - 'Tuesday: 11:00 AM – 2:30 PM, 4:30 – 9:30 PM'
     - 'Wednesday: 11:00 AM – 2:30 PM, 4:30 – 9:30 PM'
@@ -178,14 +282,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 2:30 PM, 4:30 – 10:00 PM'
     - 'Saturday: 11:00 AM – 2:30 PM, 4:30 – 10:00 PM'
     - 'Sunday: 12:00 – 8:30 PM'
-  current:
-    - 'Monday: 11:00 AM – 2:30 PM, 4:30 – 9:30 PM'
-    - 'Tuesday: 11:00 AM – 2:30 PM, 4:30 – 9:30 PM'
-    - 'Wednesday: 11:00 AM – 2:30 PM, 4:30 – 9:30 PM'
-    - 'Thursday: 11:00 AM – 2:30 PM, 4:30 – 9:30 PM'
-    - 'Friday: 11:00 AM – 2:30 PM, 4:30 – 10:00 PM'
-    - 'Saturday: 11:00 AM – 2:30 PM, 4:30 – 10:00 PM'
-    - 'Sunday: 12:00 – 8:30 PM'
+  nextOpenTime: '2025-05-03T22:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,36 +293,240 @@ secondary_opening_hours:
 phone: (719) 396-6797
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
-rating: '4.3'
-rating_count: 0
+rating: '4.4'
+rating_count: 1001
 website: http://sushirakkyocoloradosprings.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Experience Sushi Rakkyo$$$Sushi Rakkyo in Colorado Springs, CO, stands out as
+  a welcoming spot for those seeking fresh and flavorful Japanese cuisine. This
+  sushi restaurant offers an all-you-can-eat experience with a diverse selection
+  of rolls and appetizers that highlight high-quality ingredients and creative
+  presentations, making it a go-to choice for sushi lovers in the area. The
+  venue boasts accessible features like wheelchair-friendly entrances and
+  seating, ensuring everyone can enjoy a comfortable meal. With options for
+  dine-in, takeout, and delivery, it's ideal for groups or families looking to
+  savor expertly prepared dishes in a relaxed atmosphere. Whether you're
+  exploring top sushi restaurants nearby or craving a satisfying Japanese meal,
+  this location delivers on taste and convenience.
+generative_summary: >-
+  Experience Sushi Rakkyo$$$Sushi Rakkyo in Colorado Springs, CO, stands out as
+  a welcoming spot for those seeking fresh and flavorful Japanese cuisine. This
+  sushi restaurant offers an all-you-can-eat experience with a diverse selection
+  of rolls and appetizers that highlight high-quality ingredients and creative
+  presentations, making it a go-to choice for sushi lovers in the area. The
+  venue boasts accessible features like wheelchair-friendly entrances and
+  seating, ensuring everyone can enjoy a comfortable meal. With options for
+  dine-in, takeout, and delivery, it's ideal for groups or families looking to
+  savor expertly prepared dishes in a relaxed atmosphere. Whether you're
+  exploring top sushi restaurants nearby or craving a satisfying Japanese meal,
+  this location delivers on taste and convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ0bAT5BdNE4cRo4PcxXqPeEM/reviews/ChZDSUhNMG9nS0VJQ0FnTUNvdDlQSU5nEAE
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        We stumbled upon Sushi Rakkyo from a friend’s recommendation. Once we
+        walked in, I already know it’s going to be good because it was a packed
+        house. Once we got our table, we decided on AYCE. I love how the rolls
+        weren’t too big or too long. They are all so good. They definitely had
+        different varieties than other sushi restaurants in the area. They were
+        not stuff with so much rice. Their appetizers were a game changer. Keith
+        was our server and he was so kind and so nice. He recommended some rolls
+        for us to try. If you’re into cooked sushi rolls, Keith’s got you!!
+        Everything in the pictures were all from AYCE.
+      languageCode: en
+    originalText:
+      text: >-
+        We stumbled upon Sushi Rakkyo from a friend’s recommendation. Once we
+        walked in, I already know it’s going to be good because it was a packed
+        house. Once we got our table, we decided on AYCE. I love how the rolls
+        weren’t too big or too long. They are all so good. They definitely had
+        different varieties than other sushi restaurants in the area. They were
+        not stuff with so much rice. Their appetizers were a game changer. Keith
+        was our server and he was so kind and so nice. He recommended some rolls
+        for us to try. If you’re into cooked sushi rolls, Keith’s got you!!
+        Everything in the pictures were all from AYCE.
+      languageCode: en
+    authorAttribution:
+      displayName: Mei Tam
+      uri: https://www.google.com/maps/contrib/116286554739749552912/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXACv_0Y_b6RgAAzbwF3SD9YK9LHwKk36reKEf2zzl8knLAVKOY=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-04-20T17:24:22.404859Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNvdDlQSU5nEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNvdDlQSU5nEAE!2m1!1s0x87134d17e413b0d1:0x43788f7ac5dc83a3
+  - name: >-
+      places/ChIJ0bAT5BdNE4cRo4PcxXqPeEM/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJMGJ1eVBREAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Wow what an experience! Went in for sushi and they asked if we wanted
+        all you can eat. I was immediately sold! I couldn't tell you the rolls
+        other than California, but they were all absolutely delicious. The
+        yellowtail sashimi was awesome. Tempura squid was yummy! Tuna tower was
+        on point. Got all of this food for a little over $20 a person. If you
+        like sushi, this should be your place.
+      languageCode: en
+    originalText:
+      text: >-
+        Wow what an experience! Went in for sushi and they asked if we wanted
+        all you can eat. I was immediately sold! I couldn't tell you the rolls
+        other than California, but they were all absolutely delicious. The
+        yellowtail sashimi was awesome. Tempura squid was yummy! Tuna tower was
+        on point. Got all of this food for a little over $20 a person. If you
+        like sushi, this should be your place.
+      languageCode: en
+    authorAttribution:
+      displayName: Josh Homer
+      uri: https://www.google.com/maps/contrib/104182875150447555274/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWVtnevET1JsnYV5cxJ3C_zl-Tx2jIixp0tR2Ys__XGTO9NjGRt=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2025-04-02T20:50:21.969978Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNJMGJ1eVBREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNJMGJ1eVBREAE!2m1!1s0x87134d17e413b0d1:0x43788f7ac5dc83a3
+  - name: >-
+      places/ChIJ0bAT5BdNE4cRo4PcxXqPeEM/reviews/ChZDSUhNMG9nS0VJQ0FnTURRbHVlQU5nEAE
+    relativePublishTimeDescription: a month ago
+    rating: 4
+    text:
+      text: >-
+        Food was overall good, I do not recommend wasting your time on the
+        grilled chicken especially since they charge more if you don’t finish
+        your food. There’s an hour time limit to finish your food, it’s
+        reasonable depending on how much you’re ordering for an all you can eat.
+        Pretty good tho!
+      languageCode: en
+    originalText:
+      text: >-
+        Food was overall good, I do not recommend wasting your time on the
+        grilled chicken especially since they charge more if you don’t finish
+        your food. There’s an hour time limit to finish your food, it’s
+        reasonable depending on how much you’re ordering for an all you can eat.
+        Pretty good tho!
+      languageCode: en
+    authorAttribution:
+      displayName: michy
+      uri: https://www.google.com/maps/contrib/101550459416606383979/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXCMFsQn9UKkm4YoPY261aKWxlLjozpDhC9rgELzYDgrSLBBBfZ=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-03-11T11:19:14.390576Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURRbHVlQU5nEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURRbHVlQU5nEAE!2m1!1s0x87134d17e413b0d1:0x43788f7ac5dc83a3
+  - name: >-
+      places/ChIJ0bAT5BdNE4cRo4PcxXqPeEM/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3OG9yT2lBRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Sushi Rakyo is hands down one of the best all-you-can-eat sushi spots!
+        The fish is fresh, the rolls are well-made, and the variety is
+        impressive. The service was quick and friendly, and they made sure we
+        had everything we needed. Definitely worth the price if you’re a sushi
+        lover. Will be coming back for sure!
+      languageCode: en
+    originalText:
+      text: >-
+        Sushi Rakyo is hands down one of the best all-you-can-eat sushi spots!
+        The fish is fresh, the rolls are well-made, and the variety is
+        impressive. The service was quick and friendly, and they made sure we
+        had everything we needed. Definitely worth the price if you’re a sushi
+        lover. Will be coming back for sure!
+      languageCode: en
+    authorAttribution:
+      displayName: Itskaekan
+      uri: https://www.google.com/maps/contrib/102126458688762599170/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjW3bZKWHxcQZYkOAwKEUNSxwF6P2ZJnR-bXQC-j3N1tA9qUGnOb=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-17T21:34:48.915689Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUN3OG9yT2lBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUN3OG9yT2lBRRAB!2m1!1s0x87134d17e413b0d1:0x43788f7ac5dc83a3
+  - name: >-
+      places/ChIJ0bAT5BdNE4cRo4PcxXqPeEM/reviews/ChZDSUhNMG9nS0VJQ0FnTURvMnItUlpREAE
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        i ate so much sushi here it's actually unreal i've never seen so much
+        sushi in my life. service was pretty dang fire keith did an amazing job
+        keeping everyone fat & happy. s/o to him!! they were great at
+        celebrating my friend's bday. my friend also ate a lot of edamame.
+      languageCode: en
+    originalText:
+      text: >-
+        i ate so much sushi here it's actually unreal i've never seen so much
+        sushi in my life. service was pretty dang fire keith did an amazing job
+        keeping everyone fat & happy. s/o to him!! they were great at
+        celebrating my friend's bday. my friend also ate a lot of edamame.
+      languageCode: en
+    authorAttribution:
+      displayName: Elizabeth Wicker
+      uri: https://www.google.com/maps/contrib/107635334938841254426/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWNO9kkxrak3T7h_zSmyX_BBV0CxFk9Ub1huOqTajiLucJKjj70=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-24T02:09:27.226297Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURvMnItUlpREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURvMnItUlpREAE!2m1!1s0x87134d17e413b0d1:0x43788f7ac5dc83a3
+review_summary: >-
+  Buzz Around the Reviews$$$From what folks are sharing online, Sushi Rakkyo is
+  earning high marks for its tasty all-you-can-eat deals and fresh flavors that
+  keep diners coming back for more. Customers appreciate the variety of rolls
+  and appetizers, noting how the portions strike a great balance without
+  overwhelming rice, making it a solid pick for anyone hunting for the best
+  sushi nearby. While most feedback highlights friendly service and good value
+  around $20 per person, a few mention that certain items like grilled chicken
+  might not be worth the extra effort due to policies on unfinished plates.
+  Overall, it's a hit for casual get-togethers, with the atmosphere and
+  selections leaving people satisfied and eager to return. If you're in the mood
+  for reliable Japanese spots close to you, this place seems to deliver a fun
+  and fulfilling experience without any major letdowns.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: true
+live_music: false
+menu_for_children: true
+outdoor_seating: false
 reservable: null
-restroom: null
-serves_beer: null
+restroom: true
+serves_beer: true
 serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_brunch: false
+serves_cocktails: true
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

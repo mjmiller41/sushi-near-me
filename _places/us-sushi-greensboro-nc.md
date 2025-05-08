@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "US Sushi"
+title: US Sushi
 permalink: /north-carolina/greensboro/us-sushi.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Greensboro
 seo:
-  name: "US Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.us-sushi.biz/
-description: "US Sushi serves delicious sushi in Greensboro, North Carolina. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ5ba6x_0bU4gRCMZ_f4L4uww
 photos:
   - name: >-
@@ -170,7 +168,89 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x88531bfdc7bab6e5:0xcbbf8827f7fc608!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 15
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 0
+      close:
+        day: 1
+        hour: 20
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 3:00 PM, 4:00 – 8:30 PM'
     - 'Tuesday: Closed'
     - 'Wednesday: 11:00 AM – 3:00 PM, 4:00 – 8:30 PM'
@@ -178,14 +258,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 3:00 PM, 4:00 – 9:30 PM'
     - 'Saturday: 12:00 – 9:30 PM'
     - 'Sunday: 12:00 – 8:30 PM'
-  current:
-    - 'Monday: 11:00 AM – 3:00 PM, 4:00 – 8:30 PM'
-    - 'Tuesday: Closed'
-    - 'Wednesday: 11:00 AM – 3:00 PM, 4:00 – 8:30 PM'
-    - 'Thursday: 11:00 AM – 3:00 PM, 4:00 – 8:30 PM'
-    - 'Friday: 11:00 AM – 3:00 PM, 4:00 – 9:30 PM'
-    - 'Saturday: 12:00 – 9:30 PM'
-    - 'Sunday: 12:00 – 8:30 PM'
+  nextCloseTime: '2025-05-04T01:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +270,48 @@ phone: (336) 854-7854
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.2'
-rating_count: 0
+rating_count: 841
 website: http://www.us-sushi.biz/
+description: >-
+  Discover US Sushi in Greensboro, NC$$$US Sushi in Greensboro, NC, stands out
+  as a welcoming spot for enjoying fresh Japanese cuisine, particularly its
+  delectable sushi and hibachi options that appeal to those seeking authentic
+  flavors in a laid-back environment. The restaurant boasts accessibility
+  features like wheelchair-friendly parking and entrances, making it easy for
+  everyone to savor their meals in comfort. With moderate pricing around $10 to
+  $20, it's an ideal choice for casual diners looking for quality Japanese
+  dishes without breaking the bank. Operating hours cater to both lunch and
+  dinner crowds, ensuring you can find great sushi options near you when
+  cravings hit. This spot combines traditional elements with a relaxed vibe,
+  perfect for anyone exploring top-rated sushi restaurants in the area.
+generative_summary: >-
+  Discover US Sushi in Greensboro, NC$$$US Sushi in Greensboro, NC, stands out
+  as a welcoming spot for enjoying fresh Japanese cuisine, particularly its
+  delectable sushi and hibachi options that appeal to those seeking authentic
+  flavors in a laid-back environment. The restaurant boasts accessibility
+  features like wheelchair-friendly parking and entrances, making it easy for
+  everyone to savor their meals in comfort. With moderate pricing around $10 to
+  $20, it's an ideal choice for casual diners looking for quality Japanese
+  dishes without breaking the bank. Operating hours cater to both lunch and
+  dinner crowds, ensuring you can find great sushi options near you when
+  cravings hit. This spot combines traditional elements with a relaxed vibe,
+  perfect for anyone exploring top-rated sushi restaurants in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Buzzing About$$$Visitors to this sushi haven often rave
+  about the consistently tasty rolls and flavorful hibachi plates, highlighting
+  how the fresh ingredients make every bite a delight for sushi enthusiasts.
+  Many appreciate the friendly service and efficient atmosphere, which adds to
+  the overall enjoyable experience without any major hiccups. With an impressive
+  average rating, folks frequently note that it's a go-to for groups or families
+  hunting for reliable Japanese places nearby, offering good value for the
+  quality. While not every visit is flawless, the positive feedback generally
+  outweighs any minor issues, making it a solid pick for those saying "I love
+  sushi" and wanting a satisfying meal. Overall, it's clear that this spot keeps
+  customers coming back for its dependable flavors and welcoming feel,
+  positioning it as one of the best sushi options around.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +337,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

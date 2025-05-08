@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kuma Sushi + Sake"
+title: Kuma Sushi + Sake
 permalink: /california/san-francisco/kuma-sushi-sake.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
 seo:
-  name: "Kuma Sushi + Sake"
-  type: Restaurant
+  type: restaurant
   links: http://www.kumasf.com/
-description: "Minimalist neighborhood locale for nigiri, sashimi & Japanese small bites. Kuma Sushi + Sake serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJQ4nkGJSAhYARNPU7phma2gE
 photos:
   - name: >-
@@ -184,6 +182,27 @@ price_range: $50 &ndash; $100
 rating: '4.7'
 rating_count: 0
 website: http://www.kumasf.com/
+description: >-
+  Explore Kuma Sushi in San Francisco$$$Kuma Sushi + Sake in San Francisco, CA,
+  is a cozy spot offering fresh nigiri, sashimi, and Japanese small plates in a
+  relaxed atmosphere with a welcoming bar. This minimalist neighborhood
+  restaurant focuses on high-quality ingredients and accessible dining, making
+  it an ideal choice for those seeking authentic sushi experiences nearby. With
+  moderate pricing and options like wheelchair-accessible seating, it's designed
+  for comfortable visits whether you're enjoying a quick meal or lingering over
+  sake. The menu highlights flavorful small bites and vegetarian-friendly
+  dishes, appealing to a variety of tastes in the bustling city.
+generative_summary: >-
+  Explore Kuma Sushi in San Francisco$$$Kuma Sushi + Sake in San Francisco, CA,
+  is a cozy spot offering fresh nigiri, sashimi, and Japanese small plates in a
+  relaxed atmosphere with a welcoming bar. This minimalist neighborhood
+  restaurant focuses on high-quality ingredients and accessible dining, making
+  it an ideal choice for those seeking authentic sushi experiences nearby. With
+  moderate pricing and options like wheelchair-accessible seating, it's designed
+  for comfortable visits whether you're enjoying a quick meal or lingering over
+  sake. The menu highlights flavorful small bites and vegetarian-friendly
+  dishes, appealing to a variety of tastes in the bustling city.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJQ4nkGJSAhYARNPU7phma2gE/reviews/ChdDSUhNMG9nS0VJQ0FnTUNRZ3FIZHlnRRAB
@@ -345,6 +364,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNucTctQVJBEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNucTctQVJBEAE!2m1!1s0x8085809418e48943:0x1da9a19a63bf534
+review_summary: >-
+  Customer Feedback on Kuma Sushi$$$Folks often praise the super fresh fish and
+  creative rolls that pack a flavorful punch, making it a standout pick for
+  sushi enthusiasts in the area. Service stands out as warm and attentive,
+  helping to create a laid-back vibe that keeps diners coming back for more.
+  Many appreciate the reasonable prices and solid sake options, noting that the
+  variety of dishes adds to the overall enjoyment without breaking the bank.
+  While some mention the music or early closing times as minor quirks, the
+  consensus leans positive with highlights on the quality and taste. If you're
+  hunting for reliable sushi spots around San Francisco, this one delivers a
+  satisfying experience that's worth trying out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   valetParking: false
 payment_options:
@@ -375,7 +406,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: Minimalist neighborhood locale for nigiri, sashimi & Japanese small bites.
+update_category: pro
+places_description: Minimalist neighborhood locale for nigiri, sashimi & Japanese small bites.
 
 ---

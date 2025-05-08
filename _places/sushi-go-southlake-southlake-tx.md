@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Go Southlake"
+title: Sushi Go Southlake
 permalink: /texas/southlake/sushi-go-southlake.html
 stateAbbr: TX
 stateName: Texas
 cityName: Southlake
 seo:
-  name: "Sushi Go Southlake"
-  type: Restaurant
-  links: null
-description: "Sushi Go Southlake serves delicious sushi in Southlake, Texas. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://sushigosouthlake.com/
 place_id: ChIJK5aZjXvVTYYR-3h2-oljrJ8
 photos:
   - name: >-
@@ -169,8 +167,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x864dd57b8d99962b:0x9fac6389fa7678fb!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 9:00 PM'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 9:00 PM'
+    - 'Saturday: 11:00 AM – 9:00 PM'
+    - 'Sunday: 5:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -178,13 +241,50 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (469) 996-3630
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.9'
+rating_count: 55
+website: https://sushigosouthlake.com/
+description: >-
+  Discover Sushi Go in Southlake, TX$$$Sushi Go Southlake in Southlake, TX,
+  stands out as a convenient spot for enjoying fresh Japanese cuisine in a
+  welcoming setting. This self-serve restaurant specializes in quick and
+  flavorful bites, including creative rolls and classic options that highlight
+  quality ingredients like spicy tuna. With its accessible features such as
+  wheelchair-friendly parking and entrances, it's designed to accommodate a
+  variety of diners seeking easy sushi experiences nearby. The moderate pricing
+  makes it an appealing choice for those exploring top-rated Japanese places in
+  the area, offering a balance of speed and taste. Whether you're in the mood
+  for a casual meal or something light, this location delivers on fresh flavors
+  that keep locals coming back.
+generative_summary: >-
+  Discover Sushi Go in Southlake, TX$$$Sushi Go Southlake in Southlake, TX,
+  stands out as a convenient spot for enjoying fresh Japanese cuisine in a
+  welcoming setting. This self-serve restaurant specializes in quick and
+  flavorful bites, including creative rolls and classic options that highlight
+  quality ingredients like spicy tuna. With its accessible features such as
+  wheelchair-friendly parking and entrances, it's designed to accommodate a
+  variety of diners seeking easy sushi experiences nearby. The moderate pricing
+  makes it an appealing choice for those exploring top-rated Japanese places in
+  the area, offering a balance of speed and taste. Whether you're in the mood
+  for a casual meal or something light, this location delivers on fresh flavors
+  that keep locals coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Recent Visitors$$$Visitors often highlight the delicious variety
+  of sushi rolls, bowls, and nigiri at this spot, noting how the ingredients
+  always feel incredibly fresh and satisfying. Many appreciate the friendly vibe
+  from the team, which adds a warm touch to every visit and makes the place feel
+  inviting right from the start. Folks find the prices to be fair and
+  worthwhile, providing solid value without breaking the bank for quality meals.
+  The cozy atmosphere creates a relaxed environment that's perfect for quick
+  lunches or dinners, drawing in those searching for reliable sushi options
+  close by. Overall, it's a go-to for anyone craving tasty Japanese fare with a
+  positive, hassle-free experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +310,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

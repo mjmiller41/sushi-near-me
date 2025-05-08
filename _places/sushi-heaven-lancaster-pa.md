@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Heaven"
+title: Sushi Heaven
 permalink: /pennsylvania/lancaster/sushi-heaven.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Lancaster
 seo:
-  name: "Sushi Heaven"
-  type: Restaurant
+  type: restaurant
   links: https://sushiheavenlancaster.com/
-description: "Sushi Heaven serves delicious sushi in Lancaster, Pennsylvania. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJF8dMxrg7xokRSyi8UMAy94Q
 photos:
   - name: >-
@@ -170,7 +168,105 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c63bb8c64cc717:0x84f732c050bc284b!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 15
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 15
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 3:00 PM, 4:30 – 9:30 PM'
     - 'Tuesday: 11:00 AM – 3:00 PM, 4:30 – 9:30 PM'
     - 'Wednesday: 11:00 AM – 3:00 PM, 4:30 – 9:30 PM'
@@ -178,14 +274,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 3:00 PM, 4:30 – 10:30 PM'
     - 'Saturday: 11:30 AM – 10:00 PM'
     - 'Sunday: 12:00 – 9:30 PM'
-  current:
-    - 'Monday: 11:00 AM – 3:00 PM, 4:30 – 9:30 PM'
-    - 'Tuesday: 11:00 AM – 3:00 PM, 4:30 – 9:30 PM'
-    - 'Wednesday: 11:00 AM – 3:00 PM, 4:30 – 9:30 PM'
-    - 'Thursday: 11:00 AM – 3:00 PM, 4:30 – 9:30 PM'
-    - 'Friday: 11:00 AM – 3:00 PM, 4:30 – 10:30 PM'
-    - 'Saturday: 11:30 AM – 10:00 PM'
-    - 'Sunday: 12:00 – 9:30 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +286,49 @@ phone: (717) 740-5120
 price_level: null
 price_range: $20 &ndash; $30
 rating: '4.3'
-rating_count: 0
+rating_count: 396
 website: https://sushiheavenlancaster.com/
+description: >-
+  Discover Sushi Heaven in Lancaster, PA$$$Sushi Heaven in Lancaster, PA, stands
+  out as a casual Japanese dining spot offering an array of fresh sushi and
+  hibachi-grilled favorites, making it a go-to choice for those seeking
+  flavorful sushi restaurants in the area. With its all-you-can-eat options and
+  a dedicated kids' menu, this spot caters to families and sushi enthusiasts
+  looking for variety without the hassle. The restaurant boasts accessible
+  features like wheelchair-friendly parking and seating, ensuring a welcoming
+  experience for all visitors. Operating with convenient hours that span lunch
+  and dinner throughout the week, it's an ideal destination for anyone exploring
+  top-rated Japanese places near me. Its vibrant atmosphere and quality
+  ingredients combine to create memorable meals that highlight the best of sushi
+  dining close to home.
+generative_summary: >-
+  Discover Sushi Heaven in Lancaster, PA$$$Sushi Heaven in Lancaster, PA, stands
+  out as a casual Japanese dining spot offering an array of fresh sushi and
+  hibachi-grilled favorites, making it a go-to choice for those seeking
+  flavorful sushi restaurants in the area. With its all-you-can-eat options and
+  a dedicated kids' menu, this spot caters to families and sushi enthusiasts
+  looking for variety without the hassle. The restaurant boasts accessible
+  features like wheelchair-friendly parking and seating, ensuring a welcoming
+  experience for all visitors. Operating with convenient hours that span lunch
+  and dinner throughout the week, it's an ideal destination for anyone exploring
+  top-rated Japanese places near me. Its vibrant atmosphere and quality
+  ingredients combine to create memorable meals that highlight the best of sushi
+  dining close to home.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Customer Feedback$$$Visitors to this sushi spot often praise the
+  fresh flavors and generous portions, making it a solid pick for anyone craving
+  reliable Japanese cuisine nearby. Many highlight the variety of options, from
+  creative rolls to hibachi classics, as a standout feature that keeps diners
+  coming back for more. While some note that wait times can vary during peak
+  hours, the overall value and taste consistently earn high marks, reflecting a
+  welcoming vibe that's perfect for casual outings. Feedback generally
+  appreciates the family-friendly vibe and attentive service, helping it
+  maintain its status among the best sushi restaurants around. All in all, it's
+  a go-to choice for those searching for enjoyable sushi experiences that
+  deliver on both quality and fun.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +354,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

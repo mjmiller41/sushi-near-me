@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Q Sushi"
+title: Q Sushi
 permalink: /north-carolina/greenville/q-sushi.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Greenville
 seo:
-  name: "Q Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.qsushigreenville.com/
-description: "Q Sushi serves delicious sushi in Greenville, North Carolina. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJi-ttbznDrokR1IVFhcOS35A
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 0
 website: https://www.qsushigreenville.com/
+description: >-
+  Discover Q Sushi in Greenville, North Carolina$$$Nestled in Greenville, North
+  Carolina, Q Sushi stands out as a welcoming spot for fresh Japanese cuisine,
+  offering an all-you-can-eat experience that's perfect for sushi enthusiasts.
+  This casual eatery boasts a diverse menu with a range of rolls, hibachi
+  dishes, and other flavorful options, making it a go-to choice for those
+  seeking variety in their meals. Accessibility features like
+  wheelchair-friendly parking and seating add to the convenience, ensuring
+  everyone can enjoy the vibrant atmosphere. With moderate pricing and options
+  for dine-in or takeout, it's an ideal destination for anyone exploring
+  top-rated sushi restaurants in the area. Whether you're in the mood for
+  inventive rolls or hearty entrees, Q Sushi delivers a satisfying blend of
+  quality and affordability that keeps locals coming back.
+generative_summary: >-
+  Discover Q Sushi in Greenville, North Carolina$$$Nestled in Greenville, North
+  Carolina, Q Sushi stands out as a welcoming spot for fresh Japanese cuisine,
+  offering an all-you-can-eat experience that's perfect for sushi enthusiasts.
+  This casual eatery boasts a diverse menu with a range of rolls, hibachi
+  dishes, and other flavorful options, making it a go-to choice for those
+  seeking variety in their meals. Accessibility features like
+  wheelchair-friendly parking and seating add to the convenience, ensuring
+  everyone can enjoy the vibrant atmosphere. With moderate pricing and options
+  for dine-in or takeout, it's an ideal destination for anyone exploring
+  top-rated sushi restaurants in the area. Whether you're in the mood for
+  inventive rolls or hearty entrees, Q Sushi delivers a satisfying blend of
+  quality and affordability that keeps locals coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJi-ttbznDrokR1IVFhcOS35A/reviews/ChdDSUhNMG9nS0VJQ0FnTURJbXByRm5BRRAB
@@ -344,6 +369,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNmeXUySFVnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNmeXUySFVnEAE!2m1!1s0x89aec3396f6deb8b:0x90df92c3854585d4
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this sushi spot often rave about the
+  wide array of menu choices, from creative rolls to tasty hibachi options,
+  making it a hit for anyone looking for a fulfilling meal without breaking the
+  bank. Many appreciate the attentive service and quick turnaround, which
+  enhance the overall dining experience and leave folks feeling well taken care
+  of. Feedback highlights the great value, especially with the all-you-can-eat
+  deals that provide plenty of variety for lunch or dinner crowds. While some
+  note it's a solid pick for groups or families, the consistent praise for fresh
+  flavors and reasonable prices keeps the positive vibes flowing. Overall, it's
+  clear this place earns its reputation as a reliable option for casual Japanese
+  dining, drawing in those searching for dependable spots nearby.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -376,7 +414,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -5,4 +5,5 @@ permalink: /kansas/wichita/
 stateAbbr: KS
 stateName: Kansas
 cityName: Wichita
+
 ---

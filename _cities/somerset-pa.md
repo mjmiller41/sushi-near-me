@@ -5,4 +5,5 @@ permalink: /pennsylvania/somerset/
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Somerset
+
 ---

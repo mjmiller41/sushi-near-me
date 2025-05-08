@@ -5,4 +5,5 @@ permalink: /new-york/tonawanda/
 stateAbbr: NY
 stateName: New York
 cityName: Tonawanda
+
 ---

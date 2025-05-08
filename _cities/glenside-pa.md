@@ -5,4 +5,5 @@ permalink: /pennsylvania/glenside/
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Glenside
+
 ---

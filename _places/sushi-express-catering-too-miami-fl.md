@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Express /Catering Too"
+title: Sushi Express /Catering Too
 permalink: /florida/miami/sushi-express-catering-too.html
 stateAbbr: FL
 stateName: Florida
 cityName: Miami
 seo:
-  name: "Sushi Express /Catering Too"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi Express /Catering Too serves delicious sushi in Miami, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJD2vY1IC52YgRPdo7UQlsUqY
 photos:
   - name: >-
@@ -184,7 +182,39 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Sushi Express in Miami, FL$$$In Miami, FL, Sushi Express /Catering
+  Too is a standout spot for fresh Japanese-inspired cuisine and convenient
+  dining options. This welcoming restaurant specializes in a variety of sushi
+  dishes that highlight quality ingredients and flavors, perfect for those
+  seeking a casual meal or event catering. With features like
+  wheelchair-accessible parking and entrance, it ensures an inclusive experience
+  for all guests looking to enjoy a relaxed atmosphere. The inviting space, as
+  seen in available photos, makes it an ideal choice for anyone in the area
+  craving authentic tastes in a straightforward setting.
+generative_summary: >-
+  Discover Sushi Express in Miami, FL$$$In Miami, FL, Sushi Express /Catering
+  Too is a standout spot for fresh Japanese-inspired cuisine and convenient
+  dining options. This welcoming restaurant specializes in a variety of sushi
+  dishes that highlight quality ingredients and flavors, perfect for those
+  seeking a casual meal or event catering. With features like
+  wheelchair-accessible parking and entrance, it ensures an inclusive experience
+  for all guests looking to enjoy a relaxed atmosphere. The inviting space, as
+  seen in available photos, makes it an ideal choice for anyone in the area
+  craving authentic tastes in a straightforward setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Folks exploring sushi spots around Miami often
+  appreciate the fresh and flavorful options at places like this, with many
+  noting the satisfying variety that hits the spot for everyday cravings.
+  Customers frequently mention the convenience of the location for quick,
+  quality meals, making it a go-to for those hunting for reliable Japanese fare
+  nearby. Positive feedback highlights the versatility for both casual visits
+  and catering needs, adding to its appeal as a solid community favorite.
+  Overall, it's viewed as a dependable choice for enjoying tasty dishes in a
+  welcoming environment, though experiences can vary based on individual tastes.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +240,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

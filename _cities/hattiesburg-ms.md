@@ -5,4 +5,5 @@ permalink: /mississippi/hattiesburg/
 stateAbbr: MS
 stateName: Mississippi
 cityName: Hattiesburg
+
 ---

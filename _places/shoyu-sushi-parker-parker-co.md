@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Shoyu Sushi (Parker)"
+title: Shoyu Sushi (Parker)
 permalink: /colorado/parker/shoyu-sushi-parker.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Parker
 seo:
-  name: "Shoyu Sushi (Parker)"
-  type: Restaurant
+  type: restaurant
   links: http://shoyuparker.com/
-description: "Shoyu Sushi (Parker) serves delicious sushi in Parker, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJFQscQNyRbIcRvM7CG5rUfS4
 photos:
   - name: >-
@@ -170,7 +168,113 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x876c91dc401c0b15:0x2e7dd49a1bc2cebc!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 15
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 15
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 15
+        minute: 0
+    - open:
+        day: 6
+        hour: 16
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 3:00 PM, 4:30 – 9:00 PM'
     - 'Tuesday: 11:00 AM – 3:00 PM, 4:30 – 9:00 PM'
     - 'Wednesday: 11:00 AM – 3:00 PM, 4:30 – 9:00 PM'
@@ -178,14 +282,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 3:00 PM, 4:30 – 9:30 PM'
     - 'Saturday: 11:00 AM – 3:00 PM, 4:30 – 9:30 PM'
     - 'Sunday: 12:00 – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 3:00 PM, 4:30 – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 3:00 PM, 4:30 – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 3:00 PM, 4:30 – 9:00 PM'
-    - 'Thursday: 11:00 AM – 3:00 PM, 4:30 – 9:00 PM'
-    - 'Friday: 11:00 AM – 3:00 PM, 4:30 – 9:30 PM'
-    - 'Saturday: 11:00 AM – 3:00 PM, 4:30 – 9:30 PM'
-    - 'Sunday: 12:00 – 9:00 PM'
+  nextOpenTime: '2025-05-03T22:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +294,247 @@ phone: (303) 805-2188
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.6'
-rating_count: 0
+rating_count: 210
 website: http://shoyuparker.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Experience Shoyu Sushi in Parker, CO$$$Nestled in the heart of Parker, CO,
+  Shoyu Sushi stands out as a welcoming Japanese restaurant offering a variety
+  of fresh sushi and other authentic dishes in a cozy setting. This spot
+  delights with its clean ambiance and thoughtful accessibility features, making
+  it easy for everyone to enjoy a meal, whether you're stopping by for lunch or
+  dinner. Patrons can savor moderately priced options like flavorful rolls and
+  bento boxes, paired with a selection of beer and cocktails for a complete
+  dining experience. The family-friendly vibe and reliable service add to its
+  appeal as one of the go-to sushi places near me for those seeking quality
+  Japanese cuisine without breaking the bank.
+generative_summary: >-
+  Experience Shoyu Sushi in Parker, CO$$$Nestled in the heart of Parker, CO,
+  Shoyu Sushi stands out as a welcoming Japanese restaurant offering a variety
+  of fresh sushi and other authentic dishes in a cozy setting. This spot
+  delights with its clean ambiance and thoughtful accessibility features, making
+  it easy for everyone to enjoy a meal, whether you're stopping by for lunch or
+  dinner. Patrons can savor moderately priced options like flavorful rolls and
+  bento boxes, paired with a selection of beer and cocktails for a complete
+  dining experience. The family-friendly vibe and reliable service add to its
+  appeal as one of the go-to sushi places near me for those seeking quality
+  Japanese cuisine without breaking the bank.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJFQscQNyRbIcRvM7CG5rUfS4/reviews/ChZDSUhNMG9nS0VJQ0FnTUNBbnJucUpREAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        Looking for an inexpensive sushi restaurant in Parker? Then ShoYu is the
+        space. It’s a very clean, neat, little spot to eat at. You are greeted
+        as soon as you walk in and the customer experience is pleasant and the
+        waitstaff seem happy and they work together well!  It seems that it’s a
+        family business- children friendly and the kids look like they are happy
+        to be at work family!
+
+
+        The dishes you eat off are pretty as well! Thanks for a quick, tasty,
+        cost effective meal
+      languageCode: en
+    originalText:
+      text: >-
+        Looking for an inexpensive sushi restaurant in Parker? Then ShoYu is the
+        space. It’s a very clean, neat, little spot to eat at. You are greeted
+        as soon as you walk in and the customer experience is pleasant and the
+        waitstaff seem happy and they work together well!  It seems that it’s a
+        family business- children friendly and the kids look like they are happy
+        to be at work family!
+
+
+        The dishes you eat off are pretty as well! Thanks for a quick, tasty,
+        cost effective meal
+      languageCode: en
+    authorAttribution:
+      displayName: Bernadette McClair
+      uri: https://www.google.com/maps/contrib/111790511344038329457/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVhlhq1KCEKmOE8CpuxppPr3ik-GnGMYoo0LBofUbWAXWu1LoTo=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-02-01T04:23:48.407217Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNBbnJucUpREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNBbnJucUpREAE!2m1!1s0x876c91dc401c0b15:0x2e7dd49a1bc2cebc
+  - name: >-
+      places/ChIJFQscQNyRbIcRvM7CG5rUfS4/reviews/ChZDSUhNMG9nS0VJQ0FnTURvbVltOUxnEAE
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        We had such a nice experience at Shoyu Sushi! We grabbed dinner before a
+        show at the PACE Center, which is about 5 minutes away. There were lots
+        of folks there (good sign!) and the food was so delicious. As
+        vegetarians, we really enjoyed the veggie udon bowl. Their selection of
+        veggie rolls is pretty limited, but we'll plan to try the veggie tempura
+        roll next time.
+      languageCode: en
+    originalText:
+      text: >-
+        We had such a nice experience at Shoyu Sushi! We grabbed dinner before a
+        show at the PACE Center, which is about 5 minutes away. There were lots
+        of folks there (good sign!) and the food was so delicious. As
+        vegetarians, we really enjoyed the veggie udon bowl. Their selection of
+        veggie rolls is pretty limited, but we'll plan to try the veggie tempura
+        roll next time.
+      languageCode: en
+    authorAttribution:
+      displayName: Jennifer Fochek
+      uri: https://www.google.com/maps/contrib/110383899559742017212/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIZbnPOdW-TDMK7x5fgolsHOPgOCmG2RdinDFs2t42WXytJxQ=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-26T12:58:11.477915Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURvbVltOUxnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURvbVltOUxnEAE!2m1!1s0x876c91dc401c0b15:0x2e7dd49a1bc2cebc
+  - name: >-
+      places/ChIJFQscQNyRbIcRvM7CG5rUfS4/reviews/ChdDSUhNMG9nS0VJQ0FnTUNvaFpqYXZ3RRAB
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        Went here for a quick lunch with my wife. We were able to get in and out
+        in time for her to get back to work in time. We both had Bento lunch
+        boxes, the chicken teriyaki bento box was good and the portions were
+        generous. Lunch prices are on par with casual fast food, which is really
+        nice for a sit down restaurant with a great atmosphere like this. They
+        had GoPro videos of Japanese neighborhoods looping on both TVs, which
+        was really relaxing, and a laid back soundtrack playing that was loud
+        enough to enjoy, but we could still easily have a conversation over it.
+        We’ll definitely be back.
+      languageCode: en
+    originalText:
+      text: >-
+        Went here for a quick lunch with my wife. We were able to get in and out
+        in time for her to get back to work in time. We both had Bento lunch
+        boxes, the chicken teriyaki bento box was good and the portions were
+        generous. Lunch prices are on par with casual fast food, which is really
+        nice for a sit down restaurant with a great atmosphere like this. They
+        had GoPro videos of Japanese neighborhoods looping on both TVs, which
+        was really relaxing, and a laid back soundtrack playing that was loud
+        enough to enjoy, but we could still easily have a conversation over it.
+        We’ll definitely be back.
+      languageCode: en
+    authorAttribution:
+      displayName: B C
+      uri: https://www.google.com/maps/contrib/110100369395878673591/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocII7HvMFi6gCvDmA9MCo9QISXoXg-J0v15EYFvBHftHk0aVGQ=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-18T14:33:15.053438Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNvaFpqYXZ3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNvaFpqYXZ3RRAB!2m1!1s0x876c91dc401c0b15:0x2e7dd49a1bc2cebc
+  - name: >-
+      places/ChIJFQscQNyRbIcRvM7CG5rUfS4/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJbTZDS3l3RRAB
+    relativePublishTimeDescription: 4 weeks ago
+    rating: 5
+    text:
+      text: >-
+        We always have the best experience here! The sushi is really amazing and
+        is always presented beautifully! They also have a lot of other great
+        food options for dining with people who aren’t sushi lovers.
+
+        We go here pretty regularly and always have incredible service. They are
+        prompt, polite, and thoughtful. We have gone with our young kids a
+        couple times and they are so good with facilitating a kid-friendly
+        experience!
+      languageCode: en
+    originalText:
+      text: >-
+        We always have the best experience here! The sushi is really amazing and
+        is always presented beautifully! They also have a lot of other great
+        food options for dining with people who aren’t sushi lovers.
+
+        We go here pretty regularly and always have incredible service. They are
+        prompt, polite, and thoughtful. We have gone with our young kids a
+        couple times and they are so good with facilitating a kid-friendly
+        experience!
+      languageCode: en
+    authorAttribution:
+      displayName: Analisa Asay
+      uri: https://www.google.com/maps/contrib/117267493024975545517/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXj1J-AOPjRaMKNVxUcHyyYdOHI1qJwe5tvOSMOXIRsuLxr6H6pWw=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-04T20:45:50.717822Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNJbTZDS3l3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNJbTZDS3l3RRAB!2m1!1s0x876c91dc401c0b15:0x2e7dd49a1bc2cebc
+  - name: >-
+      places/ChIJFQscQNyRbIcRvM7CG5rUfS4/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJaWVhVXVRRRAB
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 5
+    text:
+      text: >-
+        Friendly service and atmosphere. Great food that won’t leave you broke.
+        Try the Surf and Turf roll. Amazing.
+      languageCode: en
+    originalText:
+      text: >-
+        Friendly service and atmosphere. Great food that won’t leave you broke.
+        Try the Surf and Turf roll. Amazing.
+      languageCode: en
+    authorAttribution:
+      displayName: Timothy Gray
+      uri: https://www.google.com/maps/contrib/112408575801904929959/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXSEVCdrIiwFqj9O8ibxB2sPuqiMsXG4CKKgo8UCAcmRAgaFBRF=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-11T01:00:21.667222Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNJaWVhVXVRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNJaWVhVXVRRRAB!2m1!1s0x876c91dc401c0b15:0x2e7dd49a1bc2cebc
+review_summary: >-
+  What Customers Love About This Spot$$$Folks rave about the tasty sushi and
+  other Japanese favorites at this local eatery, highlighting how the fresh
+  flavors and generous portions make every visit worthwhile. Many appreciate the
+  friendly service and relaxed atmosphere that keeps things approachable and
+  enjoyable, perfect for a quick bite or gathering with friends. Reviewers often
+  note the great value for money, with meals that satisfy without straining the
+  wallet, and options that cater to vegetarians and families alike. Overall,
+  it's clear that diners keep coming back for the reliable quality and welcoming
+  feel, making it a solid choice if you're hunting for top-rated sushi
+  restaurants nearby.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+curbside_pickup: true
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: true
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
 serves_breakfast: null
 serves_brunch: null
-serves_cocktails: null
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

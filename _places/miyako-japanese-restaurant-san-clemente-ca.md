@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Miyako Japanese Restaurant"
+title: Miyako Japanese Restaurant
 permalink: /california/san-clemente/miyako-japanese-restaurant.html
 stateAbbr: CA
 stateName: California
 cityName: San Clemente
 seo:
-  name: "Miyako Japanese Restaurant"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Miyako Japanese Restaurant serves delicious sushi in San Clemente, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJt0bUY2Tx3IARdxszhvBIxqk
 photos:
   - name: >-
@@ -170,8 +168,121 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80dcf16463d446b7:0xa9c648f086331b77!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 16
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 14
+        minute: 0
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 14
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:30 AM – 2:00 PM, 5:00 – 9:30 PM'
+    - 'Tuesday: 11:30 AM – 2:00 PM, 5:00 – 9:30 PM'
+    - 'Wednesday: 11:30 AM – 2:00 PM, 5:00 – 9:30 PM'
+    - 'Thursday: 11:30 AM – 2:00 PM, 5:00 – 9:30 PM'
+    - 'Friday: 11:30 AM – 2:00 PM, 5:00 – 10:00 PM'
+    - 'Saturday: 11:30 AM – 2:00 PM, 5:00 – 10:00 PM'
+    - 'Sunday: 4:00 – 9:00 PM'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +290,51 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
+phone: (949) 496-0900
+price_level: PRICE_LEVEL_MODERATE
+price_range: $30 &ndash; $50
+rating: '4.3'
+rating_count: 152
 website: null
+description: >-
+  Experience Miyako Japanese Restaurant in San Clemente, CA$$$Nestled in San
+  Clemente, CA, Miyako Japanese Restaurant delivers an inviting atmosphere for
+  enjoying classic Japanese cuisine, highlighted by fresh sushi and flavorful
+  teriyaki options that capture the essence of authentic flavors. The spot
+  features a selection of beer and wine to complement your meal, making it a
+  great choice for casual dinners or relaxed outings with friends. With its
+  accessible design and welcoming vibe, this Japanese eatery stands out as a
+  convenient option for those seeking quality sushi dining in the area.
+  Operating with flexible hours that include lunch and dinner services, it
+  caters to both quick visits and leisurely evenings, ensuring a satisfying
+  experience for sushi enthusiasts exploring local Japanese places.
+generative_summary: >-
+  Experience Miyako Japanese Restaurant in San Clemente, CA$$$Nestled in San
+  Clemente, CA, Miyako Japanese Restaurant delivers an inviting atmosphere for
+  enjoying classic Japanese cuisine, highlighted by fresh sushi and flavorful
+  teriyaki options that capture the essence of authentic flavors. The spot
+  features a selection of beer and wine to complement your meal, making it a
+  great choice for casual dinners or relaxed outings with friends. With its
+  accessible design and welcoming vibe, this Japanese eatery stands out as a
+  convenient option for those seeking quality sushi dining in the area.
+  Operating with flexible hours that include lunch and dinner services, it
+  caters to both quick visits and leisurely evenings, ensuring a satisfying
+  experience for sushi enthusiasts exploring local Japanese places.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Buzzing About$$$Visitors to this Japanese spot often rave
+  about the fresh, well-prepared sushi and tasty teriyaki dishes that keep them
+  coming back for more, earning it solid praise for its reliable flavors and
+  variety. While some mention minor waits during peak times, the overall
+  consensus highlights the welcoming service and value for the price, making it
+  a go-to for anyone craving top-rated Japanese fare nearby. Folks appreciate
+  the cozy setting that feels just right for casual meals, with many noting the
+  beer and wine selections add a nice touch to the experience. All in all, it's
+  clear this place holds up as a favorite among sushi lovers, offering an honest
+  mix of positives that make it worth checking out for your next local dining
+  adventure.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +360,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

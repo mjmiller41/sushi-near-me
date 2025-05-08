@@ -5,4 +5,5 @@ permalink: /florida/royal-palm-beach/
 stateAbbr: FL
 stateName: Florida
 cityName: Royal Palm Beach
+
 ---

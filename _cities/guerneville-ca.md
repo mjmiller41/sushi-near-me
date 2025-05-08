@@ -5,4 +5,5 @@ permalink: /california/guerneville/
 stateAbbr: CA
 stateName: California
 cityName: Guerneville
+
 ---

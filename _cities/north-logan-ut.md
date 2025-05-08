@@ -5,4 +5,5 @@ permalink: /utah/north-logan/
 stateAbbr: UT
 stateName: Utah
 cityName: North Logan
+
 ---

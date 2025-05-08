@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sora Sushi"
+title: Sora Sushi
 permalink: /washington/woodinville/sora-sushi.html
 stateAbbr: WA
 stateName: Washington
 cityName: Woodinville
 seo:
-  name: "Sora Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://sorasushi.menu11.com/wood/order
-description: "Sora Sushi serves delicious sushi in Woodinville, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJuy_L3bINkFQRZYyw00bv_QM
 photos:
   - name: >-
@@ -170,7 +168,81 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x54900db2ddcb2fbb:0x3fdef46d3b08c65!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
     - 'Wednesday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
@@ -178,14 +250,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 9:00 PM'
     - 'Saturday: 12:00 – 9:00 PM'
     - 'Sunday: 12:00 – 9:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
-    - 'Wednesday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
-    - 'Thursday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
-    - 'Friday: 11:30 AM – 9:00 PM'
-    - 'Saturday: 12:00 – 9:00 PM'
-    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +262,46 @@ phone: (425) 486-5858
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.4'
-rating_count: 0
+rating_count: 393
 website: https://sorasushi.menu11.com/wood/order
+description: >-
+  Discover Sora Sushi in Woodinville, WA$$$Sora Sushi in Woodinville, WA, is a
+  welcoming spot for fresh sushi and bento box options, perfect for those
+  seeking a laid-back dining experience. The restaurant features a relaxed
+  atmosphere that's ideal for families, with kid-friendly vibes that make it
+  easy to enjoy Japanese-inspired dishes without the formality. Highlighting its
+  happy-hour specials and accessible layout, it stands out as a go-to choice for
+  quality sushi in a comfortable setting. Visitors appreciate the moderate
+  pricing and thoughtful menu variety, making it a solid option for anyone
+  exploring top-rated sushi places nearby. With wheelchair-accessible features
+  throughout, this spot ensures everyone can savor the flavors of authentic
+  Japanese cuisine effortlessly.
+generative_summary: >-
+  Discover Sora Sushi in Woodinville, WA$$$Sora Sushi in Woodinville, WA, is a
+  welcoming spot for fresh sushi and bento box options, perfect for those
+  seeking a laid-back dining experience. The restaurant features a relaxed
+  atmosphere that's ideal for families, with kid-friendly vibes that make it
+  easy to enjoy Japanese-inspired dishes without the formality. Highlighting its
+  happy-hour specials and accessible layout, it stands out as a go-to choice for
+  quality sushi in a comfortable setting. Visitors appreciate the moderate
+  pricing and thoughtful menu variety, making it a solid option for anyone
+  exploring top-rated sushi places nearby. With wheelchair-accessible features
+  throughout, this spot ensures everyone can savor the flavors of authentic
+  Japanese cuisine effortlessly.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Guests Are Buzzing About$$$From what folks are sharing online, Sora Sushi
+  seems to hit the mark for fresh, flavorful rolls and a welcoming vibe that
+  keeps diners coming back for more. Many highlight the great value for the
+  price, with satisfying portions that make it a smart pick for casual meals or
+  groups. While some mention occasional waits during peak times, the overall
+  consensus leans positive, praising the friendly service and tasty options that
+  cater to a range of tastes. It's clear that the high rating reflects genuine
+  enjoyment, especially for those hunting for reliable sushi spots in the area.
+  All in all, if you're in the mood for solid Japanese eats, this place delivers
+  a consistently enjoyable experience without any major letdowns.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +327,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

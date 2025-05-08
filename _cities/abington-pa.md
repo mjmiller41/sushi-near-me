@@ -5,4 +5,5 @@ permalink: /pennsylvania/abington/
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Abington
+
 ---

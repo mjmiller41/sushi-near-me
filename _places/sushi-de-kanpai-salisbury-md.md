@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi De Kanpai"
+title: Sushi De Kanpai
 permalink: /maryland/salisbury/sushi-de-kanpai.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Salisbury
 seo:
-  name: "Sushi De Kanpai"
-  type: Restaurant
+  type: restaurant
   links: https://m.facebook.com/SushiDeKanpai/
-description: "Innovative sushi & Japanese entrees served with sake & cocktails in a simply appointed space. Sushi De Kanpai serves delicious sushi in Salisbury, Maryland. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJH0vg28EDuYkRdtGuJBWICCQ
 photos:
   - name: >-
@@ -149,8 +147,8 @@ state: MD
 zip: '21801'
 country: USA
 neighborhood: null
-latitude: '38.365569'
-longitude: '-75.600830'
+latitude: '38.365565'
+longitude: '-75.600872'
 accessibility_options:
   wheelchairAccessibleParking: true
   wheelchairAccessibleEntrance: true
@@ -185,6 +183,33 @@ price_range: null
 rating: '4.5'
 rating_count: 0
 website: https://m.facebook.com/SushiDeKanpai/
+description: >-
+  Discover Sushi De Kanpai in Salisbury, MD$$$Sushi De Kanpai in Salisbury, MD,
+  stands out as a welcoming spot for enjoying fresh Japanese cuisine, featuring
+  creative sushi rolls and classic entrees in a relaxed environment. This sushi
+  restaurant combines innovative flavors with familiar dishes, making it an
+  ideal choice for those seeking quality options without the fuss. Patrons can
+  savor a variety of rolls alongside beverages like sake and cocktails, all
+  served in a simply designed space that emphasizes comfort and accessibility.
+  Drawing from its reputation for fresh ingredients and thoughtful preparation,
+  it's a great pick for anyone exploring top-rated sushi spots in the area.
+  Whether you're looking for sushi restaurants near you or a casual meal with
+  friends, this location offers an authentic taste of Japanese fare that's both
+  satisfying and approachable.
+generative_summary: >-
+  Discover Sushi De Kanpai in Salisbury, MD$$$Sushi De Kanpai in Salisbury, MD,
+  stands out as a welcoming spot for enjoying fresh Japanese cuisine, featuring
+  creative sushi rolls and classic entrees in a relaxed environment. This sushi
+  restaurant combines innovative flavors with familiar dishes, making it an
+  ideal choice for those seeking quality options without the fuss. Patrons can
+  savor a variety of rolls alongside beverages like sake and cocktails, all
+  served in a simply designed space that emphasizes comfort and accessibility.
+  Drawing from its reputation for fresh ingredients and thoughtful preparation,
+  it's a great pick for anyone exploring top-rated sushi spots in the area.
+  Whether you're looking for sushi restaurants near you or a casual meal with
+  friends, this location offers an authentic taste of Japanese fare that's both
+  satisfying and approachable.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJH0vg28EDuYkRdtGuJBWICCQ/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ1b3JfMzJRRRAB
@@ -436,6 +461,21 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMzb083VDh3RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMzb083VDh3RRAB!2m1!1s0x89b903c1dbe04b1f:0x2408881524aed176
+review_summary: >-
+  What Visitors Are Saying About This Local Favorite$$$Folks who stop by this
+  sushi spot often rave about the fresh, flavorful rolls and the fun vibe that
+  makes dining out feel special, with many highlighting the variety of options
+  that keep things exciting. While most experiences lean positive, a few
+  mentions of occasional service slip-ups remind us that busy nights can vary,
+  but the overall atmosphere and food quality still shine through. Customers
+  frequently appreciate the generous portions and creative twists on traditional
+  dishes, making it a go-to for groups or anyone in the mood for reliable
+  Japanese eats. If you're hunting for the best sushi around, this place gets
+  high marks for its tasty selections and welcoming feel, encouraging repeat
+  visits for a solid meal. All in all, it's a spot worth checking out for its
+  blend of fresh flavors and casual charm, even if timing your visit right can
+  enhance the experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeStreetParking: true
   paidStreetParking: true
@@ -468,8 +508,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: null
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Innovative sushi & Japanese entrees served with sake & cocktails in a simply
   appointed space.
 

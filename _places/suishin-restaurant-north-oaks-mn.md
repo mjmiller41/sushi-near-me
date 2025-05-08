@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Suishin Restaurant"
+title: Suishin Restaurant
 permalink: /minnesota/north-oaks/suishin-restaurant.html
 stateAbbr: MN
 stateName: Minnesota
 cityName: North Oaks
 seo:
-  name: "Suishin Restaurant"
-  type: Restaurant
+  type: restaurant
   links: http://www.suishinmn.com/
-description: "Sleek Japanese restaurant offering a sushi bar, cocktails & hot pots in contemporary cool digs. Suishin Restaurant serves delicious sushi in North Oaks, Minnesota. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJPSLbOCYos1IRoC14kJJZO2Q
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 0
 website: http://www.suishinmn.com/
+description: >-
+  Discover Suishin Restaurant in North Oaks, MN$$$Nestled in the heart of North
+  Oaks, MN, Suishin Restaurant stands out as a sleek spot for enjoying fresh
+  Japanese cuisine, including an array of sushi options that appeal to those
+  seeking top-rated sushi nearby. This contemporary venue offers a casual
+  atmosphere with a well-stocked bar, perfect for savoring cocktails alongside
+  hot pots and a variety of Japanese plates that highlight authentic flavors and
+  innovative presentations. Accessibility features like wheelchair-friendly
+  entrances and seating make it welcoming for all diners, while ample parking
+  adds to the convenience for anyone exploring sushi restaurants in the area.
+  The menu emphasizes quality ingredients in a relaxed setting, making it an
+  ideal choice for a satisfying meal when you're in the mood for Japanese places
+  near me.
+generative_summary: >-
+  Discover Suishin Restaurant in North Oaks, MN$$$Nestled in the heart of North
+  Oaks, MN, Suishin Restaurant stands out as a sleek spot for enjoying fresh
+  Japanese cuisine, including an array of sushi options that appeal to those
+  seeking top-rated sushi nearby. This contemporary venue offers a casual
+  atmosphere with a well-stocked bar, perfect for savoring cocktails alongside
+  hot pots and a variety of Japanese plates that highlight authentic flavors and
+  innovative presentations. Accessibility features like wheelchair-friendly
+  entrances and seating make it welcoming for all diners, while ample parking
+  adds to the convenience for anyone exploring sushi restaurants in the area.
+  The menu emphasizes quality ingredients in a relaxed setting, making it an
+  ideal choice for a satisfying meal when you're in the mood for Japanese places
+  near me.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJPSLbOCYos1IRoC14kJJZO2Q/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfODZ2dW1BRRAB
@@ -358,6 +383,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUR3N3M2azJRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUR3N3M2azJRRRAB!2m1!1s0x52b3282638db223d:0x643b599290782da0
+review_summary: >-
+  What Customers Are Buzzing About$$$Visitors to this sushi spot often rave
+  about the fresh and expertly prepared dishes, with many highlighting the
+  high-quality sushi and attentive service that make every visit enjoyable.
+  Folks appreciate the clean, calm atmosphere and quick service, which enhance
+  the overall dining experience, though some note that sticking to the menu
+  yields the best results to avoid any occasional letdowns. Reviewers frequently
+  praise the variety of options, from flavorful appetizers to satisfying
+  entrees, making it a go-to for groups or families looking for reliable
+  Japanese cuisine. Overall, it's clear that this place delivers a solid
+  experience for sushi enthusiasts, with the positive vibes and tasty offerings
+  encouraging repeat trips for anyone searching for the best sushi near North
+  Oaks.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -390,8 +429,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Sleek Japanese restaurant offering a sushi bar, cocktails & hot pots in
   contemporary cool digs.
 

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Nara Sushi"
+title: Nara Sushi
 permalink: /virginia/virginia-beach/nara-sushi.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Virginia Beach
 seo:
-  name: "Nara Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.narasushi.com/front.php
-description: "Nara Sushi serves delicious sushi in Virginia Beach, Virginia. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJU8aMzlmUuokRVjWbBBzpDbw
 photos:
   - name: >-
@@ -170,7 +168,97 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89ba9459ce8cc653:0xbc0de91c049b3556!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 16
+        minute: 30
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 14
+        minute: 30
+    - open:
+        day: 6
+        hour: 16
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:30 AM – 2:30 PM, 4:30 – 10:00 PM'
     - 'Wednesday: 11:30 AM – 2:30 PM, 4:30 – 10:00 PM'
@@ -178,14 +266,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 2:30 PM, 4:30 – 10:30 PM'
     - 'Saturday: 11:30 AM – 2:30 PM, 4:30 – 10:30 PM'
     - 'Sunday: 4:30 – 10:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:30 AM – 2:30 PM, 4:30 – 10:00 PM'
-    - 'Wednesday: 11:30 AM – 2:30 PM, 4:30 – 10:00 PM'
-    - 'Thursday: 11:30 AM – 2:30 PM, 4:30 – 10:00 PM'
-    - 'Friday: 11:30 AM – 2:30 PM, 4:30 – 10:30 PM'
-    - 'Saturday: 11:30 AM – 2:30 PM, 4:30 – 10:30 PM'
-    - 'Sunday: 4:30 – 10:00 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +278,46 @@ phone: (757) 456-5111
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.8'
-rating_count: 0
+rating_count: 468
 website: http://www.narasushi.com/front.php
+description: >-
+  Discover Nara Sushi in Virginia Beach, VA$$$Nara Sushi in Virginia Beach, VA,
+  stands out as a welcoming spot for enjoying fresh Japanese cuisine, featuring
+  an extensive selection of dishes in a cozy, intimate atmosphere. This sushi
+  restaurant offers a variety of options that cater to those seeking authentic
+  flavors, with highlights including creative rolls and classic favorites that
+  appeal to sushi enthusiasts. Accessibility features like wheelchair-friendly
+  parking and entrances make it easy for everyone to enjoy a meal, while its
+  moderate pricing adds to the appeal for casual diners. Operating hours
+  accommodate both lunch and dinner crowds, ensuring you can find top-rated
+  sushi options close to home when craving something delicious from local
+  Japanese places.
+generative_summary: >-
+  Discover Nara Sushi in Virginia Beach, VA$$$Nara Sushi in Virginia Beach, VA,
+  stands out as a welcoming spot for enjoying fresh Japanese cuisine, featuring
+  an extensive selection of dishes in a cozy, intimate atmosphere. This sushi
+  restaurant offers a variety of options that cater to those seeking authentic
+  flavors, with highlights including creative rolls and classic favorites that
+  appeal to sushi enthusiasts. Accessibility features like wheelchair-friendly
+  parking and entrances make it easy for everyone to enjoy a meal, while its
+  moderate pricing adds to the appeal for casual diners. Operating hours
+  accommodate both lunch and dinner crowds, ensuring you can find top-rated
+  sushi options close to home when craving something delicious from local
+  Japanese places.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Love About This Spot$$$Folks rave about the fresh and flavorful
+  sushi at this Virginia Beach favorite, with standout dishes like sushi nachos
+  and chicken katsu drawing in repeat visitors for a satisfying bite. Many
+  appreciate the friendly service that keeps things relaxed and attentive,
+  making every meal feel welcoming without any fuss. The intimate vibe adds a
+  nice touch for those looking to unwind, creating a go-to atmosphere for casual
+  get-togethers or solo outings. Overall, it's clear that the quality of the
+  food and the warm setting make it a solid choice for anyone searching for the
+  best sushi near me, blending everyday enjoyment with a positive dining
+  experience that keeps the energy upbeat.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +343,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

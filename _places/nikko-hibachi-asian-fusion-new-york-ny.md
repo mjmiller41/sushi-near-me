@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Nikko Hibachi Asian Fusion"
+title: Nikko Hibachi Asian Fusion
 permalink: /new-york/new-york/nikko-hibachi-asian-fusion.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "Nikko Hibachi Asian Fusion"
-  type: Restaurant
+  type: restaurant
   links: https://nikkohibachiasianfusion.shop/
-description: "Modern Asian-fusion restaurant offering sushi, stir-fries, noodle soups & sake, plus lunch specials. Nikko Hibachi Asian Fusion serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJu3iXyGr2wokR29wWAqLfn8Q
 photos:
   - name: >-
@@ -185,6 +183,35 @@ price_range: null
 rating: '4.3'
 rating_count: 0
 website: https://nikkohibachiasianfusion.shop/
+description: >-
+  Explore Nikko Hibachi Asian Fusion in New York, NY$$$Nikko Hibachi Asian
+  Fusion in New York, NY, stands out as a casual spot for fresh
+  Japanese-inspired dishes, blending flavors from sushi rolls to flavorful
+  stir-fries and noodle soups in a welcoming atmosphere. This modern eatery
+  offers a variety of options like hibachi dinners and sake, making it a great
+  choice for those seeking top-rated Asian fusion near the city center. With
+  lunch specials and a bar setting that enhances the dining experience, it's
+  designed for both quick meals and relaxed evenings, appealing to anyone
+  hunting for reliable sushi places nearby. The restaurant prioritizes
+  accessibility with features like wheelchair-friendly entrances, ensuring
+  everyone can enjoy its diverse menu. Whether you're in the mood for inventive
+  rolls or hearty entrees, this location delivers a satisfying blend of quality
+  and value for sushi enthusiasts exploring the area.
+generative_summary: >-
+  Explore Nikko Hibachi Asian Fusion in New York, NY$$$Nikko Hibachi Asian
+  Fusion in New York, NY, stands out as a casual spot for fresh
+  Japanese-inspired dishes, blending flavors from sushi rolls to flavorful
+  stir-fries and noodle soups in a welcoming atmosphere. This modern eatery
+  offers a variety of options like hibachi dinners and sake, making it a great
+  choice for those seeking top-rated Asian fusion near the city center. With
+  lunch specials and a bar setting that enhances the dining experience, it's
+  designed for both quick meals and relaxed evenings, appealing to anyone
+  hunting for reliable sushi places nearby. The restaurant prioritizes
+  accessibility with features like wheelchair-friendly entrances, ensuring
+  everyone can enjoy its diverse menu. Whether you're in the mood for inventive
+  rolls or hearty entrees, this location delivers a satisfying blend of quality
+  and value for sushi enthusiasts exploring the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJu3iXyGr2wokR29wWAqLfn8Q/reviews/ChZDSUhNMG9nS0VJQ0FnSUNueXEzWFVBEAE
@@ -346,6 +373,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNYNV9tMUd3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNYNV9tMUd3EAE!2m1!1s0x89c2f66ac89778bb:0xc49fdfa20216dcdb
+review_summary: >-
+  Visitor Feedback Highlights$$$Visitors often praise the flavorful dishes at
+  this Japanese spot, with many highlighting the generous portions and tasty
+  bento boxes that make for a great value meal. Folks appreciate the warm
+  service and attentive staff who help make recommendations, contributing to a
+  welcoming vibe that keeps diners coming back. While some note that certain
+  seafood items could be fresher, the overall experience shines through in
+  comments about delicious hibachi options and satisfying soups that hit the
+  spot. It's clear that this place excels in offering solid choices for groups
+  or solo diners, with a casual charm that adds to the enjoyment. If you're on
+  the hunt for reliable sushi nearby, the positive buzz around the food and
+  atmosphere makes it a worthwhile stop for an honest, enjoyable outing.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeStreetParking: true
   paidStreetParking: true
@@ -378,8 +418,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Modern Asian-fusion restaurant offering sushi, stir-fries, noodle soups &
   sake, plus lunch specials.
 

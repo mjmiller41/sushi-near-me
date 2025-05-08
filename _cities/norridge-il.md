@@ -5,4 +5,5 @@ permalink: /illinois/norridge/
 stateAbbr: IL
 stateName: Illinois
 cityName: Norridge
+
 ---

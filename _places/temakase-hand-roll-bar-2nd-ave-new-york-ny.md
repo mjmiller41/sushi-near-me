@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Temakase Hand Roll Bar - 2nd Ave"
+title: Temakase Hand Roll Bar - 2nd Ave
 permalink: /new-york/new-york/temakase-hand-roll-bar-2nd-ave.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "Temakase Hand Roll Bar - 2nd Ave"
-  type: Restaurant
-  links: null
-description: "Temakase Hand Roll Bar - 2nd Ave serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://temakasenyc.com/temakasehandrollbar-2ndave?utm_source=google
 place_id: ChIJbxGBQJxZwokRyKepqIke4x8
 photos:
   - name: >-
@@ -168,22 +166,253 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c2599c4081116f:0x1fe31e89a8a9a7c8!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 12
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 12
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 12
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 12
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 12
+        minute: 0
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 12:00 – 10:00 PM'
+    - 'Tuesday: 12:00 – 10:00 PM'
+    - 'Wednesday: 12:00 – 10:00 PM'
+    - 'Thursday: 12:00 – 10:00 PM'
+    - 'Friday: 12:00 – 11:00 PM'
+    - 'Saturday: 12:00 – 11:00 PM'
+    - 'Sunday: 12:00 – 10:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 0
+        close:
+          day: 0
+          hour: 22
+          minute: 0
+      - open:
+          day: 1
+          hour: 12
+          minute: 0
+        close:
+          day: 1
+          hour: 22
+          minute: 0
+      - open:
+          day: 2
+          hour: 12
+          minute: 0
+        close:
+          day: 2
+          hour: 22
+          minute: 0
+      - open:
+          day: 3
+          hour: 12
+          minute: 0
+        close:
+          day: 3
+          hour: 22
+          minute: 0
+      - open:
+          day: 4
+          hour: 12
+          minute: 0
+        close:
+          day: 4
+          hour: 22
+          minute: 0
+      - open:
+          day: 5
+          hour: 12
+          minute: 0
+        close:
+          day: 5
+          hour: 23
+          minute: 0
+      - open:
+          day: 6
+          hour: 12
+          minute: 0
+        close:
+          day: 6
+          hour: 23
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 12:00 – 10:00 PM'
+      - 'Tuesday: 12:00 – 10:00 PM'
+      - 'Wednesday: 12:00 – 10:00 PM'
+      - 'Thursday: 12:00 – 10:00 PM'
+      - 'Friday: 12:00 – 11:00 PM'
+      - 'Saturday: 12:00 – 11:00 PM'
+      - 'Sunday: 12:00 – 10:00 PM'
+    secondaryHoursType: DELIVERY
+    nextCloseTime: '2025-05-04T03:00:00Z'
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 0
+        close:
+          day: 0
+          hour: 22
+          minute: 0
+      - open:
+          day: 1
+          hour: 12
+          minute: 0
+        close:
+          day: 1
+          hour: 22
+          minute: 0
+      - open:
+          day: 2
+          hour: 12
+          minute: 0
+        close:
+          day: 2
+          hour: 22
+          minute: 0
+      - open:
+          day: 3
+          hour: 12
+          minute: 0
+        close:
+          day: 3
+          hour: 22
+          minute: 0
+      - open:
+          day: 4
+          hour: 12
+          minute: 0
+        close:
+          day: 4
+          hour: 22
+          minute: 0
+      - open:
+          day: 5
+          hour: 12
+          minute: 0
+        close:
+          day: 5
+          hour: 23
+          minute: 0
+      - open:
+          day: 6
+          hour: 12
+          minute: 0
+        close:
+          day: 6
+          hour: 23
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 12:00 – 10:00 PM'
+      - 'Tuesday: 12:00 – 10:00 PM'
+      - 'Wednesday: 12:00 – 10:00 PM'
+      - 'Thursday: 12:00 – 10:00 PM'
+      - 'Friday: 12:00 – 11:00 PM'
+      - 'Saturday: 12:00 – 11:00 PM'
+      - 'Sunday: 12:00 – 10:00 PM'
+    secondaryHoursType: TAKEOUT
+    nextCloseTime: '2025-05-04T03:00:00Z'
+phone: (212) 381-1456
+price_level: PRICE_LEVEL_MODERATE
+price_range: $30 &ndash; $50
+rating: '4.6'
+rating_count: 1015
+website: https://temakasenyc.com/temakasehandrollbar-2ndave?utm_source=google
+description: >-
+  Discover Temakase Hand Roll Bar in New York, NY$$$Nestled in the vibrant
+  streets of New York, NY, Temakase Hand Roll Bar offers a relaxed atmosphere
+  perfect for enjoying fresh sushi creations. This spot specializes in inventive
+  hand rolls and crispy rice dishes, paired with a selection of beverages like
+  beer, wine, sake, and cocktails, making it an ideal choice for casual sushi
+  enthusiasts. Patrons can savor the authentic flavors of Japanese-inspired
+  cuisine in a laid-back setting that emphasizes quality and simplicity. With
+  its convenient location, it's a go-to option for those searching for top-rated
+  sushi restaurants nearby, blending traditional techniques with modern twists
+  to create memorable dining experiences.
+generative_summary: >-
+  Discover Temakase Hand Roll Bar in New York, NY$$$Nestled in the vibrant
+  streets of New York, NY, Temakase Hand Roll Bar offers a relaxed atmosphere
+  perfect for enjoying fresh sushi creations. This spot specializes in inventive
+  hand rolls and crispy rice dishes, paired with a selection of beverages like
+  beer, wine, sake, and cocktails, making it an ideal choice for casual sushi
+  enthusiasts. Patrons can savor the authentic flavors of Japanese-inspired
+  cuisine in a laid-back setting that emphasizes quality and simplicity. With
+  its convenient location, it's a go-to option for those searching for top-rated
+  sushi restaurants nearby, blending traditional techniques with modern twists
+  to create memorable dining experiences.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Love About This Sushi Spot$$$Folks rave about the tasty hand
+  rolls at this sushi place, particularly flavors like spicy scallop and blue
+  crab that bring a burst of freshness to every bite. Many highlight the crispy
+  rice dishes as a standout feature, adding a delightful crunch to the meal
+  without overwhelming the subtle tastes. The service stands out for being quick
+  and welcoming, helping to make the overall vibe feel efficient and enjoyable
+  right from the start. While it's easy to appreciate the cool, streamlined
+  atmosphere that keeps things moving smoothly, it's clear this spot delivers on
+  both flavor and convenience for groups or solo diners. If you're on the hunt
+  for great sushi options nearby, the positive feedback suggests it's worth
+  stopping by for a satisfying experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -209,7 +438,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

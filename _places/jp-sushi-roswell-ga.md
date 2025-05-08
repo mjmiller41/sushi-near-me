@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "JP Sushi"
+title: JP Sushi
 permalink: /georgia/roswell/jp-sushi.html
 stateAbbr: GA
 stateName: Georgia
 cityName: Roswell
 seo:
-  name: "JP Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.jpsushi.com/
-description: "Casual, contemporary Japanese eatery serving sushi, noodles & teriyaki, plus sake & wine. JP Sushi serves delicious sushi in Roswell, Georgia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ54FxoywL9YgRC2OPDDSpk08
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $10 &ndash; $20
 rating: '4.7'
 rating_count: 0
 website: http://www.jpsushi.com/
+description: >-
+  Discover JP Sushi in Roswell, GA$$$JP Sushi in Roswell, GA, stands out as a
+  welcoming spot for those seeking quality sushi restaurants near me, offering a
+  casual vibe perfect for everyday dining. This family-friendly eatery features
+  a diverse selection of fresh sushi rolls, bento boxes, and classic Japanese
+  dishes like noodles and teriyaki, all prepared with attention to detail and
+  accessibility in mind. With options for wheelchair access and a moderate price
+  range, it caters to a wide range of diners looking for reliable Japanese
+  places near me. The atmosphere emphasizes comfort and simplicity, making it an
+  ideal choice for quick meals or group gatherings, while its menu highlights
+  fresh ingredients that appeal to sushi enthusiasts. Whether you're in the mood
+  for top-rated sushi or something lighter, this spot delivers a satisfying
+  experience without the fuss.
+generative_summary: >-
+  Discover JP Sushi in Roswell, GA$$$JP Sushi in Roswell, GA, stands out as a
+  welcoming spot for those seeking quality sushi restaurants near me, offering a
+  casual vibe perfect for everyday dining. This family-friendly eatery features
+  a diverse selection of fresh sushi rolls, bento boxes, and classic Japanese
+  dishes like noodles and teriyaki, all prepared with attention to detail and
+  accessibility in mind. With options for wheelchair access and a moderate price
+  range, it caters to a wide range of diners looking for reliable Japanese
+  places near me. The atmosphere emphasizes comfort and simplicity, making it an
+  ideal choice for quick meals or group gatherings, while its menu highlights
+  fresh ingredients that appeal to sushi enthusiasts. Whether you're in the mood
+  for top-rated sushi or something lighter, this spot delivers a satisfying
+  experience without the fuss.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ54FxoywL9YgRC2OPDDSpk08/reviews/ChZDSUhNMG9nS0VJQ0FnSUNQbWI2VVR3EAE
@@ -306,6 +331,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNfaTRTeC1RRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNfaTRTeC1RRRAB!2m1!1s0x88f50b2ca37181e7:0x4f93a9340c8f630b
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this sushi spot often rave about the
+  fresh and flavorful dishes, with many highlighting the great value and variety
+  that make it one of the best sushi near me options in the area. Folks
+  appreciate the quick service and friendly staff who ensure everyone feels
+  taken care of, turning casual meals into enjoyable outings. While most agree
+  the food stands out for its quality and taste, a few note that the atmosphere
+  feels more straightforward, like a cozy diner, which might not suit everyone
+  seeking a fancy setting. Overall, the consensus leans positive, with diners
+  loving the consistent freshness and generous portions that keep them coming
+  back for more. If you're hunting for reliable sushi restaurants near me, this
+  place offers a solid mix of tasty eats and efficient service that makes it
+  worth a try.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -338,8 +377,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Casual, contemporary Japanese eatery serving sushi, noodles & teriyaki, plus
   sake & wine.
 

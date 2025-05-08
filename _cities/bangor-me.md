@@ -5,4 +5,5 @@ permalink: /maine/bangor/
 stateAbbr: ME
 stateName: Maine
 cityName: Bangor
+
 ---

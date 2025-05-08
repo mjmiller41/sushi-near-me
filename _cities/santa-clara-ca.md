@@ -5,4 +5,5 @@ permalink: /california/santa-clara/
 stateAbbr: CA
 stateName: California
 cityName: Santa Clara
+
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Enso Sushi & Grill"
+title: Enso Sushi & Grill
 permalink: /colorado/greenwood-village/enso-sushi-grill.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Greenwood Village
 seo:
-  name: "Enso Sushi & Grill"
-  type: Restaurant
+  type: restaurant
   links: https://www.ensosushigrill.com/?utm_source=gmb&utm_medium=website
-description: "Enso Sushi & Grill serves delicious sushi in Greenwood Village, Colorado. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJy08rT4OHbIcRkZYXu42cz_c
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: null
 rating: '4.6'
 rating_count: 0
 website: https://www.ensosushigrill.com/?utm_source=gmb&utm_medium=website
+description: >-
+  Discover Enso Sushi & Grill in Greenwood Village, CO$$$Enso Sushi & Grill in
+  Greenwood Village, CO, offers a casual dining experience focused on fresh
+  sushi and other Japanese dishes, making it a go-to spot for those seeking
+  authentic flavors in a welcoming environment. The restaurant features a
+  comfortable setting with a bar, ideal for enjoying creative rolls and grilled
+  options that highlight high-quality ingredients. Accessibility is a key
+  highlight, with options like wheelchair-friendly entrances and parking that
+  ensure everyone can enjoy the meal. Whether you're in the mood for inventive
+  sushi combinations or classic Japanese fare, this spot delivers on taste and
+  presentation in a relaxed atmosphere. For anyone exploring sushi restaurants
+  nearby, it's a solid choice that combines affordability with premium dining
+  elements.
+generative_summary: >-
+  Discover Enso Sushi & Grill in Greenwood Village, CO$$$Enso Sushi & Grill in
+  Greenwood Village, CO, offers a casual dining experience focused on fresh
+  sushi and other Japanese dishes, making it a go-to spot for those seeking
+  authentic flavors in a welcoming environment. The restaurant features a
+  comfortable setting with a bar, ideal for enjoying creative rolls and grilled
+  options that highlight high-quality ingredients. Accessibility is a key
+  highlight, with options like wheelchair-friendly entrances and parking that
+  ensure everyone can enjoy the meal. Whether you're in the mood for inventive
+  sushi combinations or classic Japanese fare, this spot delivers on taste and
+  presentation in a relaxed atmosphere. For anyone exploring sushi restaurants
+  nearby, it's a solid choice that combines affordability with premium dining
+  elements.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJy08rT4OHbIcRkZYXu42cz_c/reviews/ChZDSUhNMG9nS0VJQ0FnTUNBcjlQTEpnEAE
@@ -384,6 +409,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURmN05MZUh3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURmN05MZUh3EAE!2m1!1s0x876c87834f2b4fcb:0xf7cf9c8dbb179691
+review_summary: >-
+  What Customers Are Buzzing About$$$Visitors to this sushi spot often rave
+  about the fresh, flavorful dishes that make every bite memorable, with
+  standout rolls and Japanese classics stealing the show in a fun, laid-back
+  vibe. Folks appreciate the attentive service that keeps things smooth and
+  enjoyable, perfect for family outings or casual get-togethers without any
+  fuss. While the prices reflect the quality of the ingredients, especially in a
+  non-coastal area, many feel it's worth it for the unique tastes and generous
+  portions that satisfy sushi lovers. Overall, the welcoming atmosphere and
+  reliable options for kids and groups add to the appeal, making it a favorite
+  for those hunting for reliable Japanese places close by. If you're on the
+  lookout for top-rated sushi experiences, this one consistently delivers a
+  positive and tasty adventure.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -416,7 +455,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

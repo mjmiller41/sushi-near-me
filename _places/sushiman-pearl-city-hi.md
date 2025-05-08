@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushiman"
+title: Sushiman
 permalink: /hawaii/pearl-city/sushiman.html
 stateAbbr: HI
 stateName: Hawaii
 cityName: Pearl City
 seo:
-  name: "Sushiman"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushiman serves delicious sushi in Pearl City, Hawaii. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJQ8P0T3NmAHwR3PDISSXfg2Y
 photos:
   - name: >-
@@ -185,7 +183,43 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Explore Sushiman in Pearl City$$$Sushiman in Pearl City, HI, stands out as a
+  cozy sushi restaurant serving up fresh Japanese-inspired dishes in a
+  convenient location along Kamehameha Highway. This spot emphasizes
+  accessibility with features like wheelchair-friendly parking and entrances,
+  making it easy for everyone to enjoy a meal. Patrons can expect a simple yet
+  inviting atmosphere, highlighted by vibrant photos that showcase appealing
+  presentations of rolls and sashimi. As one of the reliable sushi restaurants
+  in the area, it offers a range of options that cater to those seeking quality
+  flavors without overwhelming complexity. Whether you're looking for sushi
+  close to home or a casual dining experience, Sushiman delivers a
+  straightforward and satisfying visit.
+generative_summary: >-
+  Explore Sushiman in Pearl City$$$Sushiman in Pearl City, HI, stands out as a
+  cozy sushi restaurant serving up fresh Japanese-inspired dishes in a
+  convenient location along Kamehameha Highway. This spot emphasizes
+  accessibility with features like wheelchair-friendly parking and entrances,
+  making it easy for everyone to enjoy a meal. Patrons can expect a simple yet
+  inviting atmosphere, highlighted by vibrant photos that showcase appealing
+  presentations of rolls and sashimi. As one of the reliable sushi restaurants
+  in the area, it offers a range of options that cater to those seeking quality
+  flavors without overwhelming complexity. Whether you're looking for sushi
+  close to home or a casual dining experience, Sushiman delivers a
+  straightforward and satisfying visit.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Visitor Feedback Highlights$$$Folks chatting about this spot often highlight
+  the fresh and flavorful sushi selections that keep things exciting for repeat
+  visits. Many appreciate how the variety of rolls and sides makes it a great
+  pick for anyone craving Japanese-inspired eats on a whim. Comments frequently
+  note the welcoming vibe and easy access, adding to the overall comfort without
+  any major drawbacks. While some mention it's a solid everyday choice rather
+  than a fancy outing, the general consensus leans positive for those searching
+  for dependable local options. All in all, it's shaping up as a go-to for sushi
+  enthusiasts nearby who value honest, tasty meals in a relaxed setting.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +245,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Bamboo Hibachi Sherwood"
+title: Bamboo Hibachi Sherwood
 permalink: /arkansas/sherwood/bamboo-hibachi-sherwood.html
 stateAbbr: AR
 stateName: Arkansas
 cityName: Sherwood
 seo:
-  name: "Bamboo Hibachi Sherwood"
-  type: Restaurant
+  type: restaurant
   links: http://bamboohibachi.weebly.com/
-description: "Bamboo Hibachi Sherwood serves delicious sushi in Sherwood, Arkansas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJQ4JFuoS90ocRByf6hpady7o
 photos:
   - name: >-
@@ -170,22 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x87d2bd84ba458243:0xbacb9d9686fa2707!10e5
 primary_type: Restaurant
 opening_hours:
-  regular:
-    - 'Monday: 11:00 AM – 2:30 PM, 4:00 – 9:30 PM'
-    - 'Tuesday: 11:00 AM – 2:30 PM, 4:00 – 9:30 PM'
-    - 'Wednesday: 11:00 AM – 2:30 PM, 4:00 – 9:30 PM'
-    - 'Thursday: 11:00 AM – 2:30 PM, 4:00 – 9:30 PM'
-    - 'Friday: 11:00 AM – 2:30 PM, 4:00 – 9:30 PM'
-    - 'Saturday: 11:00 AM – 2:30 PM, 4:00 – 9:30 PM'
-    - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:00 AM – 2:30 PM, 4:00 – 9:30 PM'
-    - 'Tuesday: 11:00 AM – 2:30 PM, 4:00 – 9:30 PM'
-    - 'Wednesday: 11:00 AM – 2:30 PM, 4:00 – 9:30 PM'
-    - 'Thursday: 11:00 AM – 2:30 PM, 4:00 – 9:30 PM'
-    - 'Friday: 11:00 AM – 2:30 PM, 4:00 – 9:30 PM'
-    - 'Saturday: 11:00 AM – 2:30 PM, 4:00 – 9:30 PM'
-    - 'Sunday: Closed'
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:30 PM'
+    - 'Tuesday: 11:00 AM – 9:30 PM'
+    - 'Wednesday: 11:00 AM – 9:30 PM'
+    - 'Thursday: 11:00 AM – 9:30 PM'
+    - 'Friday: 11:00 AM – 9:30 PM'
+    - 'Saturday: 11:00 AM – 9:30 PM'
+    - 'Sunday: 11:00 AM – 9:30 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,247 @@ phone: (501) 864-4906
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.5'
-rating_count: 0
+rating_count: 121
 website: http://bamboohibachi.weebly.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Explore Bamboo Hibachi Sherwood in Sherwood, AR$$$Nestled in Sherwood, AR,
+  Bamboo Hibachi Sherwood offers a casual spot for enjoying fresh hibachi
+  entrees and flavorful sushi rolls in a relaxed, informal atmosphere. This
+  sushi restaurant near me stands out with its affordable pricing and variety of
+  options, including tasty fried rice and other Japanese-inspired dishes that
+  cater to a range of preferences. Accessibility features like
+  wheelchair-friendly parking and seating make it a welcoming choice for
+  everyone, while its consistent hours from 11 AM to 9:30 PM ensure it's easy to
+  drop in for a satisfying meal. Whether you're craving top-rated sushi or quick
+  Japanese favorites, the spot delivers on fresh flavors and value, making it a
+  go-to for locals seeking reliable dining options.
+generative_summary: >-
+  Explore Bamboo Hibachi Sherwood in Sherwood, AR$$$Nestled in Sherwood, AR,
+  Bamboo Hibachi Sherwood offers a casual spot for enjoying fresh hibachi
+  entrees and flavorful sushi rolls in a relaxed, informal atmosphere. This
+  sushi restaurant near me stands out with its affordable pricing and variety of
+  options, including tasty fried rice and other Japanese-inspired dishes that
+  cater to a range of preferences. Accessibility features like
+  wheelchair-friendly parking and seating make it a welcoming choice for
+  everyone, while its consistent hours from 11 AM to 9:30 PM ensure it's easy to
+  drop in for a satisfying meal. Whether you're craving top-rated sushi or quick
+  Japanese favorites, the spot delivers on fresh flavors and value, making it a
+  go-to for locals seeking reliable dining options.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJQ4JFuoS90ocRByf6hpady7o/reviews/ChZDSUhNMG9nS0VJQ0FnTURRNVltckNREAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Small place, not alot of decorations or anything. BUT! The food made up
+        for everything. Absolutely phenomenal food. Great price. Bang bang
+        shrimp is the best I have had anywhere.
+      languageCode: en
+    originalText:
+      text: >-
+        Small place, not alot of decorations or anything. BUT! The food made up
+        for everything. Absolutely phenomenal food. Great price. Bang bang
+        shrimp is the best I have had anywhere.
+      languageCode: en
+    authorAttribution:
+      displayName: Brandi Taylor
+      uri: https://www.google.com/maps/contrib/110014907509521440562/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXJo0-OpzcqZZ-BxE_oPrJXwjHBRx1XGcVxqPso96re1Ezmqigb=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-03-12T15:04:05.988874Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURRNVltckNREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURRNVltckNREAE!2m1!1s0x87d2bd84ba458243:0xbacb9d9686fa2707
+  - name: >-
+      places/ChIJQ4JFuoS90ocRByf6hpady7o/reviews/ChZDSUhNMG9nS0VJQ0FnSUNKLWVhYlZnEAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        Wow. The food is delicious, and the service is so thoughtful and kind.
+        This was my first time to visit this restaurant, and I will definitely
+        be back. Their egg rolls were so light, crispy, and filled with flavor.
+        I highly recommend the hibachi shrimp. Next time, I will try their deep
+        fried sushi.
+
+
+        The interior design is minimal, so if you are looking for an upscale
+        ambiance, this will miss that mark. But the food! Is a hit!
+      languageCode: en
+    originalText:
+      text: >-
+        Wow. The food is delicious, and the service is so thoughtful and kind.
+        This was my first time to visit this restaurant, and I will definitely
+        be back. Their egg rolls were so light, crispy, and filled with flavor.
+        I highly recommend the hibachi shrimp. Next time, I will try their deep
+        fried sushi.
+
+
+        The interior design is minimal, so if you are looking for an upscale
+        ambiance, this will miss that mark. But the food! Is a hit!
+      languageCode: en
+    authorAttribution:
+      displayName: Debbie Ashcraft
+      uri: https://www.google.com/maps/contrib/109628121060170296830/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXBCP84jYO7pgyeMM2zsYA2bMEvalueuMov0kLmrFQEQr6GFe3D9A=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2023-06-30T22:06:01.748963Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNKLWVhYlZnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNKLWVhYlZnEAE!2m1!1s0x87d2bd84ba458243:0xbacb9d9686fa2707
+  - name: >-
+      places/ChIJQ4JFuoS90ocRByf6hpady7o/reviews/ChZDSUhNMG9nS0VJQ0FnTURnekw2Q05BEAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 4
+    text:
+      text: >-
+        Fried rice was delicious, would highly recommend. I added steak and
+        shrimp, plenty of steak and 4 jumbo shrimp. Crab ragoon was also good
+        and better than other places. Service was fast and decent. Food came out
+        fast and recently cooked. Definitely a must try.
+      languageCode: en
+    originalText:
+      text: >-
+        Fried rice was delicious, would highly recommend. I added steak and
+        shrimp, plenty of steak and 4 jumbo shrimp. Crab ragoon was also good
+        and better than other places. Service was fast and decent. Food came out
+        fast and recently cooked. Definitely a must try.
+      languageCode: en
+    authorAttribution:
+      displayName: User B
+      uri: https://www.google.com/maps/contrib/118117887748312096813/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXKSiwR7ovdmgmojR4LHgrL-rSFokh6tMec-bD9fvHd2cCQZKeP=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-02-23T00:31:23.116260Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURnekw2Q05BEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURnekw2Q05BEAE!2m1!1s0x87d2bd84ba458243:0xbacb9d9686fa2707
+  - name: >-
+      places/ChIJQ4JFuoS90ocRByf6hpady7o/reviews/ChdDSUhNMG9nS0VJQ0FnSURyN1BiQjBBRRAB
+    relativePublishTimeDescription: 9 months ago
+    rating: 2
+    text:
+      text: >-
+        Disappointing.. hardly any flavor to the rice, it was hard or not cooked
+        all the way. Had to use sauce and heat it up more til it was soft. My
+        son’s rice tasted fine as if his was fresh and mine was old. The salmon
+        was so dry it was hard to eat. The veggies were good tho. Our boxes were
+        stacked so high in the bag that it crushed the bottom box, I mentioned
+        it to the cashier and she just blank stared at us and offered no help.
+        The a/c didn’t work so I’m thankful we got it to go, it was way too hot
+        inside. Prices were good but I’d rather pay more for something tastier.
+        Prolly won’t come back unless this can be made right. We came here
+        7/15/24 around 1pm.
+      languageCode: en
+    originalText:
+      text: >-
+        Disappointing.. hardly any flavor to the rice, it was hard or not cooked
+        all the way. Had to use sauce and heat it up more til it was soft. My
+        son’s rice tasted fine as if his was fresh and mine was old. The salmon
+        was so dry it was hard to eat. The veggies were good tho. Our boxes were
+        stacked so high in the bag that it crushed the bottom box, I mentioned
+        it to the cashier and she just blank stared at us and offered no help.
+        The a/c didn’t work so I’m thankful we got it to go, it was way too hot
+        inside. Prices were good but I’d rather pay more for something tastier.
+        Prolly won’t come back unless this can be made right. We came here
+        7/15/24 around 1pm.
+      languageCode: en
+    authorAttribution:
+      displayName: Joann Stevenson
+      uri: https://www.google.com/maps/contrib/107487724579048032851/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLS6YDEkHGFSyzGuaN7RjeUeg0kOm7K061uz9R8AAqgq9POUQ=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-07-15T19:16:31.076105Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURyN1BiQjBBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURyN1BiQjBBRRAB!2m1!1s0x87d2bd84ba458243:0xbacb9d9686fa2707
+  - name: >-
+      places/ChIJQ4JFuoS90ocRByf6hpady7o/reviews/ChZDSUhNMG9nS0VJQ0FnSUNiOTZueVdnEAE
+    relativePublishTimeDescription: 9 months ago
+    rating: 4
+    text:
+      text: >-
+        This is the second location that I have tried. I got their chicken and
+        steak hibachi which was awesome. The steak was a little overdone for
+        what I requested but not inedible. The rice was also amazing.
+
+        The interior is not the most welcoming as it gives kind of a takeout
+        only vibe. I also wish there was a description of their sushi rolls as I
+        am not the most well versed in sushi, but like to try it from time to
+        time.
+      languageCode: en
+    originalText:
+      text: >-
+        This is the second location that I have tried. I got their chicken and
+        steak hibachi which was awesome. The steak was a little overdone for
+        what I requested but not inedible. The rice was also amazing.
+
+        The interior is not the most welcoming as it gives kind of a takeout
+        only vibe. I also wish there was a description of their sushi rolls as I
+        am not the most well versed in sushi, but like to try it from time to
+        time.
+      languageCode: en
+    authorAttribution:
+      displayName: Sarah Flatt
+      uri: https://www.google.com/maps/contrib/102373510386224140383/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjX22dw_HsiKBxBT9Rr_olvDZCUJVJ2NyQkUWZ8-FoDyWP5VvQU=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-07-31T02:05:49.766688Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNiOTZueVdnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNiOTZueVdnEAE!2m1!1s0x87d2bd84ba458243:0xbacb9d9686fa2707
+review_summary: >-
+  Customer Feedback Highlights$$$Feedback from diners highlights the delicious
+  hibachi and sushi dishes at this spot, with many praising the flavorful fried
+  rice and bang bang shrimp as standout choices that offer great bang for your
+  buck. People often note the fast service and reasonable prices, making it a
+  solid pick for casual meals or takeout when you're hunting for sushi places
+  near me. While most experiences are positive, a few mentions point to
+  occasional inconsistencies like overcooked items, but overall, the friendly
+  vibe and tasty offerings keep the energy upbeat. If you're exploring best
+  sushi near me, this place generally delivers on fresh tastes and convenience,
+  encouraging repeat visits for those who appreciate straightforward, satisfying
+  Japanese cuisine.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  paidStreetParking: false
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsCashOnly: false
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
+curbside_pickup: false
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
 menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: false
 serves_breakfast: null
 serves_brunch: null
-serves_cocktails: null
+serves_cocktails: false
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: false
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

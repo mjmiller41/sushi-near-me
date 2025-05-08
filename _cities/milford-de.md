@@ -5,4 +5,5 @@ permalink: /delaware/milford/
 stateAbbr: DE
 stateName: Delaware
 cityName: Milford
+
 ---

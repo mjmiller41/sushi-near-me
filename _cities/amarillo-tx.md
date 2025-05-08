@@ -5,4 +5,5 @@ permalink: /texas/amarillo/
 stateAbbr: TX
 stateName: Texas
 cityName: Amarillo
+
 ---

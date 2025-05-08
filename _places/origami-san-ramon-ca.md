@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Origami"
+title: Origami
 permalink: /california/san-ramon/origami.html
 stateAbbr: CA
 stateName: California
 cityName: San Ramon
 seo:
-  name: "Origami"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Origami serves delicious sushi in San Ramon, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJpbOLrszzj4ARH2tfTHpznY0
 photos:
   - name: >-
@@ -185,7 +183,41 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Origami in San Ramon$$$Origami in San Ramon, CA, stands out as a
+  welcoming Japanese eatery known for its fresh quick bites and inventive small
+  plates, including creative sushi options that appeal to those seeking
+  flavorful local dining experiences. The spot emphasizes accessibility with
+  features like wheelchair-friendly parking and entrances, making it easy for
+  everyone to enjoy a casual meal. Patrons can savor a variety of dishes that
+  highlight traditional flavors with a modern twist, perfect for anyone
+  exploring Japanese cuisine nearby. This eatery maintains a simple yet
+  efficient vibe, ideal for grabbing satisfying meals on the go without
+  compromising on taste or quality.
+generative_summary: >-
+  Discover Origami in San Ramon$$$Origami in San Ramon, CA, stands out as a
+  welcoming Japanese eatery known for its fresh quick bites and inventive small
+  plates, including creative sushi options that appeal to those seeking
+  flavorful local dining experiences. The spot emphasizes accessibility with
+  features like wheelchair-friendly parking and entrances, making it easy for
+  everyone to enjoy a casual meal. Patrons can savor a variety of dishes that
+  highlight traditional flavors with a modern twist, perfect for anyone
+  exploring Japanese cuisine nearby. This eatery maintains a simple yet
+  efficient vibe, ideal for grabbing satisfying meals on the go without
+  compromising on taste or quality.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Buzzing About$$$Visitors often praise the tasty sushi and
+  wraps at this Japanese spot, noting how the flavors really hit the spot for a
+  quick and enjoyable bite. Many highlight the efficient service that keeps
+  things moving smoothly, allowing for a relaxed dining experience without long
+  waits. Folks appreciate the friendly atmosphere that makes it feel welcoming
+  for casual outings, along with the reasonable prices that offer great value
+  for fresh, well-prepared dishes. Overall, it's a solid choice for those
+  looking for reliable Japanese fare, with consistent feedback on the teriyaki
+  plates adding to the positive vibes.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +243,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

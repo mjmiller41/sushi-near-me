@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kome Sushi & Bowl"
+title: Kome Sushi & Bowl
 permalink: /massachusetts/cambridge/kome-sushi-bowl.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Cambridge
 seo:
-  name: "Kome Sushi & Bowl"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Kome Sushi & Bowl serves delicious sushi in Cambridge, Massachusetts. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ1TkZE5p344kRSp6ktMB5SMY
 photos:
   - name: >-
@@ -173,7 +171,41 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Kome Sushi & Bowl in Cambridge, MA$$$Kome Sushi & Bowl in Cambridge,
+  MA, stands out as a welcoming spot for enjoying fresh Japanese-inspired
+  cuisine right in the heart of the Riverside neighborhood. This sushi
+  restaurant offers a variety of flavorful rolls and bowls that highlight
+  quality ingredients, making it ideal for casual dining or a quick bite on the
+  go. With its modern ambiance suggested by vibrant photos, the venue provides a
+  straightforward and satisfying experience for those seeking everyday Asian
+  flavors in a bustling college town. It's particularly appealing for anyone
+  exploring local sushi options, where convenience meets tasty, authentic tastes
+  that keep diners coming back.
+generative_summary: >-
+  Discover Kome Sushi & Bowl in Cambridge, MA$$$Kome Sushi & Bowl in Cambridge,
+  MA, stands out as a welcoming spot for enjoying fresh Japanese-inspired
+  cuisine right in the heart of the Riverside neighborhood. This sushi
+  restaurant offers a variety of flavorful rolls and bowls that highlight
+  quality ingredients, making it ideal for casual dining or a quick bite on the
+  go. With its modern ambiance suggested by vibrant photos, the venue provides a
+  straightforward and satisfying experience for those seeking everyday Asian
+  flavors in a bustling college town. It's particularly appealing for anyone
+  exploring local sushi options, where convenience meets tasty, authentic tastes
+  that keep diners coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Folks who stop by this spot often rave about the
+  fresh flavors and straightforward menu, making it a solid pick for anyone
+  craving reliable sushi nearby. Many appreciate the quick service and
+  approachable vibe, which adds to the overall ease of grabbing a meal without
+  any fuss. While some note it's perfect for casual outings or takeout, others
+  highlight the satisfying portions that leave you feeling content. Overall, the
+  feedback leans positive, with visitors enjoying it as a go-to choice for
+  everyday Japanese-inspired eats in the area, though it's always a good idea to
+  check for the latest offerings to match your preferences.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -200,6 +232,6 @@ serves_vegetarian_food: null
 serves_wine: null
 takeout: null
 update_category: pro
-summary: null
+places_description: null
 
 ---

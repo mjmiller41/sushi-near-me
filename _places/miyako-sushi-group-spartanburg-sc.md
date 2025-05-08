@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Miyako Sushi Group"
+title: Miyako Sushi Group
 permalink: /south-carolina/spartanburg/miyako-sushi-group.html
 stateAbbr: SC
 stateName: South Carolina
 cityName: Spartanburg
 seo:
-  name: "Miyako Sushi Group"
-  type: Restaurant
+  type: restaurant
   links: http://www.miyakosushigroup.com/
-description: "Comfy Japanese eatery offering a sizable selection of traditional dishes & specialty rolls. Miyako Sushi Group serves delicious sushi in Spartanburg, South Carolina. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJ7_q84vR1V4gRdEFXZBoFxK0
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 0
 website: http://www.miyakosushigroup.com/
+description: >-
+  Discover Miyako Sushi Group in Spartanburg, SC$$$Miyako Sushi Group in
+  Spartanburg, SC, stands out as a cozy destination for those seeking authentic
+  Japanese flavors and fresh sushi options. This spot offers a wide array of
+  traditional dishes and specialty rolls, all served in a relaxed setting that
+  makes it easy to enjoy a casual meal with friends or family. With its emphasis
+  on fresh ingredients and a menu that includes popular Japanese favorites, it's
+  a great choice for anyone exploring sushi restaurants in the area. The
+  restaurant also features thoughtful accessibility options and outdoor seating,
+  enhancing the overall dining experience. Whether you're in the mood for a
+  quick bite or a leisurely dinner, this place delivers a satisfying blend of
+  quality and affordability.
+generative_summary: >-
+  Discover Miyako Sushi Group in Spartanburg, SC$$$Miyako Sushi Group in
+  Spartanburg, SC, stands out as a cozy destination for those seeking authentic
+  Japanese flavors and fresh sushi options. This spot offers a wide array of
+  traditional dishes and specialty rolls, all served in a relaxed setting that
+  makes it easy to enjoy a casual meal with friends or family. With its emphasis
+  on fresh ingredients and a menu that includes popular Japanese favorites, it's
+  a great choice for anyone exploring sushi restaurants in the area. The
+  restaurant also features thoughtful accessibility options and outdoor seating,
+  enhancing the overall dining experience. Whether you're in the mood for a
+  quick bite or a leisurely dinner, this place delivers a satisfying blend of
+  quality and affordability.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ7_q84vR1V4gRdEFXZBoFxK0/reviews/ChdDSUhNMG9nS0VJQ0FnSURYeVpMRzdRRRAB
@@ -330,6 +353,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNfM3VuM1R3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNfM3VuM1R3EAE!2m1!1s0x885775f4e2bcfaef:0xadc4051a64574174
+review_summary: >-
+  What Customers Are Buzzing About$$$Visitors to this sushi spot often rave
+  about the fresh and flavorful dishes, with many highlighting the generous
+  portions and well-priced menu that make it a solid pick for everyday eats.
+  Folks appreciate the attentive service and variety of options like sashimi and
+  appetizers, which keep things exciting even for those new to Japanese cuisine.
+  While some mention the atmosphere can get a bit lively, it's generally seen as
+  a fun backdrop that doesn't overshadow the tasty food. Overall, the consensus
+  leans positive, with diners noting it's a reliable go-to for quality sushi
+  experiences that feel both welcoming and worthwhile. If you're searching for
+  top-rated sushi near you, this place delivers honest value without any major
+  letdowns.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -363,8 +399,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Comfy Japanese eatery offering a sizable selection of traditional dishes &
   specialty rolls.
 

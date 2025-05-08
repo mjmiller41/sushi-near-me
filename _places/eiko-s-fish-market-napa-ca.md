@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Eiko's Fish Market"
+title: Eiko's Fish Market
 permalink: /california/napa/eiko-s-fish-market.html
 stateAbbr: CA
 stateName: California
 cityName: Napa
 seo:
-  name: "Eiko's Fish Market"
-  type: Restaurant
+  type: restaurant
   links: http://www.eikosnapa.com/
-description: "Eiko's Fish Market serves delicious sushi in Napa, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJNQEnLmQGhYARDj7gtfc9gBw
 photos:
   - name: >-
@@ -169,7 +167,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x808506642e270135:0x1c803df7b5e03e0e!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 10
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 0
+    - open:
+        day: 1
+        hour: 10
+        minute: 0
+      close:
+        day: 1
+        hour: 20
+        minute: 0
+    - open:
+        day: 2
+        hour: 10
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 0
+    - open:
+        day: 3
+        hour: 10
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 0
+    - open:
+        day: 4
+        hour: 10
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 0
+    - open:
+        day: 5
+        hour: 10
+        minute: 0
+      close:
+        day: 5
+        hour: 20
+        minute: 0
+    - open:
+        day: 6
+        hour: 10
+        minute: 0
+      close:
+        day: 6
+        hour: 20
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 10:00 AM – 8:00 PM'
     - 'Tuesday: 10:00 AM – 8:00 PM'
     - 'Wednesday: 10:00 AM – 8:00 PM'
@@ -177,14 +233,7 @@ opening_hours:
     - 'Friday: 10:00 AM – 8:00 PM'
     - 'Saturday: 10:00 AM – 8:00 PM'
     - 'Sunday: 10:00 AM – 8:00 PM'
-  current:
-    - 'Monday: 10:00 AM – 8:00 PM'
-    - 'Tuesday: 10:00 AM – 8:00 PM'
-    - 'Wednesday: 10:00 AM – 8:00 PM'
-    - 'Thursday: 10:00 AM – 8:00 PM'
-    - 'Friday: 10:00 AM – 8:00 PM'
-    - 'Saturday: 10:00 AM – 8:00 PM'
-    - 'Sunday: 10:00 AM – 8:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,35 +245,222 @@ phone: (707) 515-7026
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.2'
-rating_count: 0
+rating_count: 61
 website: http://www.eikosnapa.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Eiko's Fish Market in Napa, CA$$$Eiko's Fish Market in Napa,
+  California, stands out as a casual hub in the Oxbow Public Market, serving up
+  fresh Japanese-inspired dishes that highlight the best of local seafood. This
+  spot specializes in flavorful options like poke, sushi, and ceviche, making it
+  a go-to for anyone craving authentic Japanese flavors in a relaxed setting.
+  With wheelchair-accessible features and extended hours from 10 a.m. to 8 p.m.
+  daily, it's designed for easy visits whether you're stopping by for a quick
+  lunch or dinner. The moderate price range offers great value for high-quality
+  ingredients, appealing to those seeking top-rated sushi experiences near
+  Napa's vibrant food scene. Its inviting atmosphere and variety of Japanese
+  eats make it a must-try for sushi enthusiasts exploring the area.
+generative_summary: >-
+  Discover Eiko's Fish Market in Napa, CA$$$Eiko's Fish Market in Napa,
+  California, stands out as a casual hub in the Oxbow Public Market, serving up
+  fresh Japanese-inspired dishes that highlight the best of local seafood. This
+  spot specializes in flavorful options like poke, sushi, and ceviche, making it
+  a go-to for anyone craving authentic Japanese flavors in a relaxed setting.
+  With wheelchair-accessible features and extended hours from 10 a.m. to 8 p.m.
+  daily, it's designed for easy visits whether you're stopping by for a quick
+  lunch or dinner. The moderate price range offers great value for high-quality
+  ingredients, appealing to those seeking top-rated sushi experiences near
+  Napa's vibrant food scene. Its inviting atmosphere and variety of Japanese
+  eats make it a must-try for sushi enthusiasts exploring the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJNQEnLmQGhYARDj7gtfc9gBw/reviews/ChdDSUhNMG9nS0VJQ0FnTUNvaWFxcTV3RRAB
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        These guys were awesome tonight. Service was great. The sushi was
+        fantastic. Exceeded my expectations. So amazing. Good job guys.
+      languageCode: en
+    originalText:
+      text: >-
+        These guys were awesome tonight. Service was great. The sushi was
+        fantastic. Exceeded my expectations. So amazing. Good job guys.
+      languageCode: en
+    authorAttribution:
+      displayName: Bill Pruitt
+      uri: https://www.google.com/maps/contrib/101137634169650761433/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWmWpgukD63wmqlf9IUoxscDxcGJ1Q0H397g48RSSVmQ0tHCvOk=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-18T00:44:44.146134Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNvaWFxcTV3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNvaWFxcTV3RRAB!2m1!1s0x808506642e270135:0x1c803df7b5e03e0e
+  - name: >-
+      places/ChIJNQEnLmQGhYARDj7gtfc9gBw/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRd2ZIMlh3EAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        The sushis were delicious and fresh! Great service, great food.
+
+        I had the bon bon and lion roll. I typically don't go for raw sushi, but
+        that was recommended by the host. It was bomb! Chef's kiss. I ate every
+        single piece, and I usually never finish all of my food.
+      languageCode: en
+    originalText:
+      text: >-
+        The sushis were delicious and fresh! Great service, great food.
+
+        I had the bon bon and lion roll. I typically don't go for raw sushi, but
+        that was recommended by the host. It was bomb! Chef's kiss. I ate every
+        single piece, and I usually never finish all of my food.
+      languageCode: en
+    authorAttribution:
+      displayName: Charlie D
+      uri: https://www.google.com/maps/contrib/110022155813594663645/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIVSKvTkv7aKVzEYn-BgPNTBNYSCY4kOGU-nOIIBjp-FlZLqA=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-03-06T01:14:04.026407Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNRd2ZIMlh3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNRd2ZIMlh3EAE!2m1!1s0x808506642e270135:0x1c803df7b5e03e0e
+  - name: >-
+      places/ChIJNQEnLmQGhYARDj7gtfc9gBw/reviews/ChZDSUhNMG9nS0VJQ0FnSUMzbEp5TkxBEAE
+    relativePublishTimeDescription: 6 months ago
+    rating: 4
+    text:
+      text: >-
+        I ordered the Hawaiian poke bowl, and the spiciness from the sliced
+        jalapeños stands out. Otherwise, the fish, rice, sauce, and vegetables
+        were good. It is pricey at almost $30 before tax & tip.
+      languageCode: en
+    originalText:
+      text: >-
+        I ordered the Hawaiian poke bowl, and the spiciness from the sliced
+        jalapeños stands out. Otherwise, the fish, rice, sauce, and vegetables
+        were good. It is pricey at almost $30 before tax & tip.
+      languageCode: en
+    authorAttribution:
+      displayName: Jason Ladera
+      uri: https://www.google.com/maps/contrib/116558963431758302485/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLUtj0P0T6SzPd9FLj9ctFlmLaTjIQoEiCQcYtTG7vJ3Bovzw=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-11-03T03:55:36.935681Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUMzbEp5TkxBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUMzbEp5TkxBEAE!2m1!1s0x808506642e270135:0x1c803df7b5e03e0e
+  - name: >-
+      places/ChIJNQEnLmQGhYARDj7gtfc9gBw/reviews/ChZDSUhNMG9nS0VJQ0FnSURhMEtEWFZBEAE
+    relativePublishTimeDescription: 3 years ago
+    rating: 4
+    text:
+      text: >-
+        This is our last resort of second dinner. As it turned out they were
+        able to seat us in less than 5 minutes on a pack Friday’s night.
+
+        The ambiance is inviting and eclectic. Great selection of Gen Mai cha.
+        This place got the sushi rolls and sashimi done right. Things were made
+        freshly. You could tell the quality is very different here. We would
+        definitely come back.
+      languageCode: en
+    originalText:
+      text: >-
+        This is our last resort of second dinner. As it turned out they were
+        able to seat us in less than 5 minutes on a pack Friday’s night.
+
+        The ambiance is inviting and eclectic. Great selection of Gen Mai cha.
+        This place got the sushi rolls and sashimi done right. Things were made
+        freshly. You could tell the quality is very different here. We would
+        definitely come back.
+      languageCode: en
+    authorAttribution:
+      displayName: Alynn Nguyen
+      uri: https://www.google.com/maps/contrib/115732047219313086656/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVk6Hpw_Fx-N8TCe06XdG6mOcr5RBkekjl3KIThxCUli_bMHmd-=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2021-08-13T02:19:53.446012Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURhMEtEWFZBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURhMEtEWFZBEAE!2m1!1s0x808506642e270135:0x1c803df7b5e03e0e
+  - name: >-
+      places/ChIJNQEnLmQGhYARDj7gtfc9gBw/reviews/ChZDSUhNMG9nS0VJQ0FnSUNoek5MNldREAE
+    relativePublishTimeDescription: 2 years ago
+    rating: 4
+    text:
+      text: >-
+        They’re very accommodating to requests, I’m very grateful for the
+        delicious salmon poke bowl. Also the hamachi bon bons are just perfect a
+        definite highlight.
+
+        More food stuff @vin.foodjournal
+      languageCode: en
+    originalText:
+      text: >-
+        They’re very accommodating to requests, I’m very grateful for the
+        delicious salmon poke bowl. Also the hamachi bon bons are just perfect a
+        definite highlight.
+
+        More food stuff @vin.foodjournal
+      languageCode: en
+    authorAttribution:
+      displayName: Vincent Gano
+      uri: https://www.google.com/maps/contrib/116575293743715466245/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJgUZuLI5zHkzt2ESY5uZOQz0Exd84gpCcx1V23OyCIFt6ooHg=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2023-02-07T00:43:18.168856Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNoek5MNldREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNoek5MNldREAE!2m1!1s0x808506642e270135:0x1c803df7b5e03e0e
+review_summary: >-
+  What Customers Are Saying About the Sushi$$$Visitors often praise the
+  freshness and quality of the sushi and poke bowls at this Japanese restaurant,
+  noting how the flavors exceed expectations for a casual meal. Many highlight
+  the excellent service and welcoming vibe, with standout dishes like specialty
+  rolls leaving a lasting impression that keeps people coming back. While some
+  mention the prices lean toward the higher end, the overall experience feels
+  worthwhile due to the generous portions and authentic taste. Feedback
+  generally reflects a positive buzz around the variety of options, making it a
+  solid choice for anyone hunting for reliable sushi places nearby. All in all,
+  it's a spot that delivers on flavor and satisfaction, encouraging diners to
+  explore more Japanese cuisine in the region.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
+delivery: true
+dine_in: true
 good_for_children: null
 good_for_groups: null
-good_for_sports: null
-live_music: null
+good_for_sports: false
+live_music: false
 menu_for_children: null
 outdoor_seating: null
 reservable: null
-restroom: null
+restroom: true
 serves_beer: null
 serves_breakfast: null
 serves_brunch: null
 serves_cocktails: null
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

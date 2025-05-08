@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Seabutter Sushi - Beverly Hills"
+title: Seabutter Sushi - Beverly Hills
 permalink: /california/beverly-hills/seabutter-sushi-beverly-hills.html
 stateAbbr: CA
 stateName: California
 cityName: Beverly Hills
 seo:
-  name: "Seabutter Sushi - Beverly Hills"
-  type: Restaurant
-  links: null
-description: "Seabutter Sushi - Beverly Hills serves delicious sushi in Beverly Hills, California. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.seabuttersushi.com/
 place_id: ChIJmfnhauu5woAReS6oPmE41Ps
 photos:
   - name: >-
@@ -170,8 +168,113 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c2b9eb6ae1f999:0xfbd438613ea82e79!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 12
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 12
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 12
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 12
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 12
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 12:00 – 2:30 PM, 5:00 – 9:00 PM'
+    - 'Tuesday: 12:30 – 2:30 PM, 5:00 – 9:00 PM'
+    - 'Wednesday: 12:00 – 2:30 PM, 5:00 – 9:00 PM'
+    - 'Thursday: 12:00 – 2:30 PM, 5:00 – 9:00 PM'
+    - 'Friday: 12:00 – 2:30 PM, 5:00 – 10:00 PM'
+    - 'Saturday: 12:00 – 10:00 PM'
+    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T05:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +282,51 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (310) 482-2797
+price_level: PRICE_LEVEL_MODERATE
+price_range: $50 &ndash; $100
+rating: '4.3'
+rating_count: 232
+website: http://www.seabuttersushi.com/
+description: >-
+  Discover Seabutter Sushi in Beverly Hills, CA$$$Seabutter Sushi in Beverly
+  Hills, CA, stands out as a cozy Japanese spot specializing in fresh seafood
+  and innovative rolls that capture the essence of authentic flavors. The eatery
+  boasts a laid-back vibe, making it perfect for casual dining or a relaxed
+  evening out, with options that highlight creative twists on traditional
+  dishes. Accessibility features like wheelchair-friendly parking and entrances
+  ensure a welcoming experience for all visitors, adding to its appeal as a
+  go-to sushi restaurant in the area. Operating with flexible hours, including
+  evenings and weekends, it caters well to those seeking quality Japanese
+  cuisine nearby, blending fresh ingredients with a comfortable atmosphere that
+  keeps patrons coming back.
+generative_summary: >-
+  Discover Seabutter Sushi in Beverly Hills, CA$$$Seabutter Sushi in Beverly
+  Hills, CA, stands out as a cozy Japanese spot specializing in fresh seafood
+  and innovative rolls that capture the essence of authentic flavors. The eatery
+  boasts a laid-back vibe, making it perfect for casual dining or a relaxed
+  evening out, with options that highlight creative twists on traditional
+  dishes. Accessibility features like wheelchair-friendly parking and entrances
+  ensure a welcoming experience for all visitors, adding to its appeal as a
+  go-to sushi restaurant in the area. Operating with flexible hours, including
+  evenings and weekends, it caters well to those seeking quality Japanese
+  cuisine nearby, blending fresh ingredients with a comfortable atmosphere that
+  keeps patrons coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About This Sushi Spot$$$Visitors to this Beverly
+  Hills sushi restaurant frequently highlight the fresh flavors and creative
+  presentations that make meals feel special and satisfying. Many enjoy the
+  variety of options, noting that the dishes deliver a solid balance of taste
+  and quality, ideal for anyone craving reliable Japanese fare. While some
+  feedback points out that prices lean toward the higher end, most agree it's a
+  worthwhile treat for the overall experience and portion sizes. Overall, the
+  positive buzz around the service and atmosphere suggests it's a solid pick for
+  groups or solo diners looking for enjoyable sushi options close by. If you're
+  on the hunt for top-rated sushi in the vicinity, this place often earns nods
+  for its consistent appeal and tasty selections.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +352,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

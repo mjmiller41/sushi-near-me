@@ -5,4 +5,5 @@ permalink: /colorado/northglenn/
 stateAbbr: CO
 stateName: Colorado
 cityName: Northglenn
+
 ---

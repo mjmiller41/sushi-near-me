@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Katsu-ya Woodland Hills"
+title: Sushi Katsu-ya Woodland Hills
 permalink: /california/woodland-hills/sushi-katsu-ya-woodland-hills.html
 stateAbbr: CA
 stateName: California
 cityName: Woodland Hills
 seo:
-  name: "Sushi Katsu-ya Woodland Hills"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi Katsu-ya Woodland Hills serves delicious sushi in Woodland Hills, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJK9ukRSCcwoAR5c86_owdTJ8
 photos:
   - name: >-
@@ -185,7 +183,47 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Sushi Katsu-ya in Woodland Hills, CA$$$Sushi Katsu-ya in Woodland
+  Hills, CA, stands out as a go-to sushi restaurant offering a casual dining
+  experience with fresh Japanese flavors. Specializing in specialties like
+  sushi, sashimi, and tempura, this spot delivers a satisfying mix of
+  traditional dishes that appeal to those seeking authentic tastes in a relaxed
+  setting. The restaurant emphasizes accessibility, making it easy for everyone
+  to enjoy its welcoming atmosphere and thoughtfully prepared meals. With its
+  focus on quality ingredients and simple yet inviting vibe, it's an ideal
+  choice for anyone exploring sushi options nearby. Whether you're in the mood
+  for a quick bite or a leisurely meal, this location combines affordability
+  with a genuine feel of Japanese cuisine excellence.
+generative_summary: >-
+  Discover Sushi Katsu-ya in Woodland Hills, CA$$$Sushi Katsu-ya in Woodland
+  Hills, CA, stands out as a go-to sushi restaurant offering a casual dining
+  experience with fresh Japanese flavors. Specializing in specialties like
+  sushi, sashimi, and tempura, this spot delivers a satisfying mix of
+  traditional dishes that appeal to those seeking authentic tastes in a relaxed
+  setting. The restaurant emphasizes accessibility, making it easy for everyone
+  to enjoy its welcoming atmosphere and thoughtfully prepared meals. With its
+  focus on quality ingredients and simple yet inviting vibe, it's an ideal
+  choice for anyone exploring sushi options nearby. Whether you're in the mood
+  for a quick bite or a leisurely meal, this location combines affordability
+  with a genuine feel of Japanese cuisine excellence.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About This Sushi Spot$$$Folks often rave about the
+  tasty variety of dishes at this sushi restaurant, highlighting fresh options
+  like eel, blue crab, and popcorn shrimp that make every bite memorable. Many
+  appreciate the great value, with generous portions that leave you feeling
+  satisfied without breaking the bank, and they frequently note how the sushi
+  consistently delivers on flavor and quality. While the overall experience
+  leans positive due to the reliable freshness and creative touches like crispy
+  onions on albacore, some mention that service can occasionally fall short of
+  expectations. Still, the consensus is that it's a solid pick for anyone
+  craving top-rated sushi, making it worth a visit for its honest appeal and
+  enjoyable meals. All in all, this place keeps things real with its strengths
+  in food and portions, encouraging diners to give it a try for a generally
+  uplifting outing.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +249,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Katana Sushi of Elkridge"
+title: Katana Sushi of Elkridge
 permalink: /maryland/elkridge/katana-sushi-of-elkridge.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Elkridge
 seo:
-  name: "Katana Sushi of Elkridge"
-  type: Restaurant
-  links: null
-description: "Katana Sushi of Elkridge serves delicious sushi in Elkridge, Maryland. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.katanasushiofelkridge.com/
 place_id: ChIJldYHIUzht4kRCmvKta4tHjw
 photos:
   - name: >-
@@ -170,8 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89b7e14c2107d695:0x3c1e2daeb5ca6b0a!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:30 AM – 10:00 PM'
+    - 'Tuesday: Closed'
+    - 'Wednesday: 11:30 AM – 10:00 PM'
+    - 'Thursday: 11:30 AM – 10:00 PM'
+    - 'Friday: 11:30 AM – 10:30 PM'
+    - 'Saturday: 11:30 AM – 10:30 PM'
+    - 'Sunday: 12:00 – 9:30 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +234,53 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
+phone: (410) 379-0111
+price_level: PRICE_LEVEL_MODERATE
 price_range: null
-rating: null
-rating_count: 0
-website: null
+rating: '4.3'
+rating_count: 133
+website: https://www.katanasushiofelkridge.com/
+description: >-
+  Discover Katana Sushi in Elkridge, MD$$$Katana Sushi of Elkridge in Elkridge,
+  MD, stands out as a relaxed dining destination nestled in a convenient
+  shopping center, offering a diverse selection of Asian fusion flavors and
+  expertly prepared sushi. The restaurant features an extensive menu that blends
+  traditional Japanese elements with creative twists, making it a go-to spot for
+  those craving fresh, flavorful rolls and dishes. With accessibility options
+  like wheelchair-friendly parking and entrances, it ensures a welcoming
+  experience for all visitors seeking quality Japanese cuisine nearby. Operating
+  hours cater to both lunch and dinner crowds, providing ample opportunities to
+  enjoy a meal in a casual setting. Whether you're exploring sushi options in
+  the area or looking for a reliable spot for a satisfying bite, this location
+  delivers on taste and convenience.
+generative_summary: >-
+  Discover Katana Sushi in Elkridge, MD$$$Katana Sushi of Elkridge in Elkridge,
+  MD, stands out as a relaxed dining destination nestled in a convenient
+  shopping center, offering a diverse selection of Asian fusion flavors and
+  expertly prepared sushi. The restaurant features an extensive menu that blends
+  traditional Japanese elements with creative twists, making it a go-to spot for
+  those craving fresh, flavorful rolls and dishes. With accessibility options
+  like wheelchair-friendly parking and entrances, it ensures a welcoming
+  experience for all visitors seeking quality Japanese cuisine nearby. Operating
+  hours cater to both lunch and dinner crowds, providing ample opportunities to
+  enjoy a meal in a casual setting. Whether you're exploring sushi options in
+  the area or looking for a reliable spot for a satisfying bite, this location
+  delivers on taste and convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this sushi spot often rave about the
+  fresh ingredients and variety of rolls that keep things exciting and
+  delicious, based on its strong overall rating. Many appreciate the consistent
+  quality and reasonable pricing, making it a solid choice for casual meals with
+  friends or family. Feedback highlights the friendly service and cozy
+  atmosphere, which add to the enjoyable dining experience without any major
+  drawbacks. While some note that wait times can vary during peak hours, the
+  general consensus leans positive, emphasizing it as a reliable option for
+  tasty Japanese fare. If you're searching for top-rated sushi nearby, this
+  place seems to hit the mark for those who value good food and a welcoming
+  vibe.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +306,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

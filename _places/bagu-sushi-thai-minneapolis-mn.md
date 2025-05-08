@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "BaGu Sushi & Thai"
+title: BaGu Sushi & Thai
 permalink: /minnesota/minneapolis/bagu-sushi-thai.html
 stateAbbr: MN
 stateName: Minnesota
 cityName: Minneapolis
 seo:
-  name: "BaGu Sushi & Thai"
-  type: Restaurant
+  type: restaurant
   links: https://bagusushi.com/
-description: "BaGu Sushi & Thai serves delicious sushi in Minneapolis, Minnesota. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJlT0LsdQn9ocR4MpC0xFDdgE
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x87f627d4b10b3d95:0x1764311d342cae0!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 5:00 – 9:00 PM'
     - 'Tuesday: 5:00 – 9:00 PM'
     - 'Wednesday: 5:00 – 9:00 PM'
@@ -178,28 +234,97 @@ opening_hours:
     - 'Friday: 5:00 – 9:00 PM'
     - 'Saturday: 5:00 – 9:00 PM'
     - 'Sunday: 5:00 – 9:00 PM'
-  current:
-    - 'Monday: 5:00 – 9:00 PM'
-    - 'Tuesday: 5:00 – 9:00 PM'
-    - 'Wednesday: 5:00 – 9:00 PM'
-    - 'Thursday: 5:00 – 9:00 PM'
-    - 'Friday: 5:00 – 9:00 PM'
-    - 'Saturday: 5:00 – 9:00 PM'
-    - 'Sunday: 5:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: false
+    periods:
+      - open:
+          day: 0
+          hour: 17
+          minute: 0
+        close:
+          day: 0
+          hour: 18
+          minute: 30
+      - open:
+          day: 2
+          hour: 17
+          minute: 0
+        close:
+          day: 2
+          hour: 18
+          minute: 30
+      - open:
+          day: 3
+          hour: 17
+          minute: 0
+        close:
+          day: 3
+          hour: 18
+          minute: 30
+      - open:
+          day: 4
+          hour: 17
+          minute: 0
+        close:
+          day: 4
+          hour: 18
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: Closed'
+      - 'Tuesday: 5:00 – 6:30 PM'
+      - 'Wednesday: 5:00 – 6:30 PM'
+      - 'Thursday: 5:00 – 6:30 PM'
+      - 'Friday: Closed'
+      - 'Saturday: Closed'
+      - 'Sunday: 5:00 – 6:30 PM'
+    secondaryHoursType: HAPPY_HOUR
+    nextOpenTime: '2025-05-04T22:00:00Z'
 phone: (612) 823-5254
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.4'
-rating_count: 0
+rating_count: 521
 website: https://bagusushi.com/
+description: >-
+  Discover BaGu Sushi & Thai in Minneapolis, MN$$$BaGu Sushi & Thai in
+  Minneapolis, MN, stands out as a welcoming spot for enjoying fresh sushi and
+  flavorful Thai cuisine, making it a go-to choice for those seeking quality
+  Asian dining options nearby. This cozy establishment offers a variety of
+  dishes paired with selections of wine and sake, creating an inviting
+  atmosphere perfect for casual evenings or special occasions. With thoughtful
+  accessibility features like wheelchair-friendly entrances and seating, it
+  ensures everyone can savor the experience comfortably. Additionally, happy
+  hour specials add value for diners looking to explore top-rated sushi in a
+  relaxed setting, blending traditional flavors with modern convenience.
+generative_summary: >-
+  Discover BaGu Sushi & Thai in Minneapolis, MN$$$BaGu Sushi & Thai in
+  Minneapolis, MN, stands out as a welcoming spot for enjoying fresh sushi and
+  flavorful Thai cuisine, making it a go-to choice for those seeking quality
+  Asian dining options nearby. This cozy establishment offers a variety of
+  dishes paired with selections of wine and sake, creating an inviting
+  atmosphere perfect for casual evenings or special occasions. With thoughtful
+  accessibility features like wheelchair-friendly entrances and seating, it
+  ensures everyone can savor the experience comfortably. Additionally, happy
+  hour specials add value for diners looking to explore top-rated sushi in a
+  relaxed setting, blending traditional flavors with modern convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About BaGu Sushi & Thai$$$Folks around Minneapolis
+  seem to really appreciate the solid vibes at this sushi spot, often
+  highlighting the fresh ingredients and tasty combinations that keep them
+  coming back for more. Many comments point to the friendly service and
+  welcoming environment as standout features, making it a reliable pick for
+  groups or solo diners hunting for great Japanese-inspired meals close by.
+  While a few mentions note that wait times can vary during peak hours, the
+  overall consensus leans positive with praise for the balanced flavors and
+  reasonable prices. It's clear from the feedback that this place delivers on
+  delivering satisfying experiences, especially for anyone on the hunt for
+  top-rated sushi that hits the spot without breaking the bank. All in all, it's
+  a spot worth trying if you're in the mood for something delicious and
+  dependable.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +350,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

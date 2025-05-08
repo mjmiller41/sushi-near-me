@@ -5,4 +5,5 @@ permalink: /louisiana/metairie/
 stateAbbr: LA
 stateName: Louisiana
 cityName: Metairie
+
 ---

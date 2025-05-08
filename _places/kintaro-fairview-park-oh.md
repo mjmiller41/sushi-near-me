@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kintaro"
+title: Kintaro
 permalink: /ohio/fairview-park/kintaro.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Fairview Park
 seo:
-  name: "Kintaro"
-  type: Restaurant
-  links: null
-description: "Kintaro serves delicious sushi in Fairview Park, Ohio. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.kintarooh.com/
 place_id: ChIJbbw1nCbtMIgRiHkZD00-tkc
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8830ed269c35bc6d:0x47b63e4d0f197988!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 9:00 PM'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 10:00 PM'
+    - 'Saturday: 11:00 AM – 10:00 PM'
+    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,52 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (216) 912-8196
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.3'
+rating_count: 783
+website: http://www.kintarooh.com/
+description: >-
+  Discover Kintaro in Fairview Park, OH$$$Kintaro in Fairview Park, OH, stands
+  out as a welcoming Japanese dining spot, perfect for those seeking fresh sushi
+  options nearby. This vibrant restaurant features an all-you-can-eat sushi
+  experience, complemented by flavorful hot pot and hibachi dishes, making it a
+  go-to choice for authentic Asian flavors. With its accessible entrance and
+  seating, it's designed to accommodate everyone looking for a comfortable meal,
+  while offering a selection of beverages to enhance the experience. The
+  moderate pricing invites families and groups to enjoy a satisfying lunch or
+  dinner, positioning it among the best spots for quality Japanese cuisine in
+  the area. Whether you're in the mood for top-rated rolls or a casual bite,
+  Kintaro delivers a blend of variety and value that keeps locals coming back.
+generative_summary: >-
+  Discover Kintaro in Fairview Park, OH$$$Kintaro in Fairview Park, OH, stands
+  out as a welcoming Japanese dining spot, perfect for those seeking fresh sushi
+  options nearby. This vibrant restaurant features an all-you-can-eat sushi
+  experience, complemented by flavorful hot pot and hibachi dishes, making it a
+  go-to choice for authentic Asian flavors. With its accessible entrance and
+  seating, it's designed to accommodate everyone looking for a comfortable meal,
+  while offering a selection of beverages to enhance the experience. The
+  moderate pricing invites families and groups to enjoy a satisfying lunch or
+  dinner, positioning it among the best spots for quality Japanese cuisine in
+  the area. Whether you're in the mood for top-rated rolls or a casual bite,
+  Kintaro delivers a blend of variety and value that keeps locals coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this sushi restaurant often rave about
+  the fresh, high-quality rolls and generous portions that make every meal feel
+  like a treat, earning it solid praise for its consistent flavors. Many
+  appreciate the welcoming atmosphere and efficient service, which add to the
+  overall enjoyment without any major hiccups, though some note that wait times
+  can vary during peak hours. Feedback highlights the great value for an
+  all-you-can-eat setup, with plenty of options that cater to different tastes,
+  making it a favorite for groups or anyone hunting for reliable Japanese eats
+  close by. Overall, the positive vibes dominate, as folks frequently mention
+  how it stands out among local spots for its tasty selections and friendly
+  vibe. If you're on the hunt for dependable sushi places near you, this one
+  delivers a generally uplifting experience that's worth checking out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +313,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

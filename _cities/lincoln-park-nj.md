@@ -5,4 +5,5 @@ permalink: /new-jersey/lincoln-park/
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Lincoln Park
+
 ---

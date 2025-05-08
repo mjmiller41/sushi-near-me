@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Cruise"
+title: Sushi Cruise
 permalink: /new-jersey/edgewater/sushi-cruise.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Edgewater
 seo:
-  name: "Sushi Cruise"
-  type: Restaurant
+  type: restaurant
   links: http://www.sushi-cruise.com/
-description: "Japanese eats & sushi selected off a conveyor belt in a riverside setting with a patio & NYC views. Sushi Cruise serves delicious sushi in Edgewater, New Jersey. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJZ5fe_Uv2wokRUEQShWZJFHI
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $30 &ndash; $50
 rating: '4.2'
 rating_count: 0
 website: http://www.sushi-cruise.com/
+description: >-
+  Discover Sushi Cruise in Edgewater, NJ$$$Sushi Cruise in Edgewater, NJ, stands
+  out as a casual Japanese restaurant blending fresh sushi and fusion dishes
+  with stunning riverside views of New York City, making it a go-to spot for
+  those seeking authentic flavors in a relaxed setting. The venue features a
+  unique conveyor belt system for selecting meals, paired with an inviting patio
+  that enhances the dining experience with its outdoor seating and accessibility
+  for all visitors. Patrons can enjoy moderately priced options that highlight
+  creative presentations and a variety of Japanese-inspired fare, ideal for
+  anyone exploring sushi restaurants near the area. This spot emphasizes quality
+  ingredients and a welcoming atmosphere, perfect for casual outings or groups
+  looking for top-rated sushi options close to home.
+generative_summary: >-
+  Discover Sushi Cruise in Edgewater, NJ$$$Sushi Cruise in Edgewater, NJ, stands
+  out as a casual Japanese restaurant blending fresh sushi and fusion dishes
+  with stunning riverside views of New York City, making it a go-to spot for
+  those seeking authentic flavors in a relaxed setting. The venue features a
+  unique conveyor belt system for selecting meals, paired with an inviting patio
+  that enhances the dining experience with its outdoor seating and accessibility
+  for all visitors. Patrons can enjoy moderately priced options that highlight
+  creative presentations and a variety of Japanese-inspired fare, ideal for
+  anyone exploring sushi restaurants near the area. This spot emphasizes quality
+  ingredients and a welcoming atmosphere, perfect for casual outings or groups
+  looking for top-rated sushi options close to home.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJZ5fe_Uv2wokRUEQShWZJFHI/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJaWFudkVBEAE
@@ -388,6 +411,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURKdHUtSGFBEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURKdHUtSGFBEAE!2m1!1s0x89c2f64bfdde9767:0x7214496685124450
+review_summary: >-
+  What Visitors Are Saying About Sushi Cruise$$$Visitors often praise the fresh
+  sushi and flavorful dishes like creative rolls and hearty soups, noting how
+  they hit the spot after a long day. Many appreciate the relaxing vibe and
+  beautiful views of the city skyline, which add a special touch to meals
+  enjoyed on the patio or inside. Folks mention quick service and a
+  family-friendly feel, making it a solid choice for casual get-togethers or
+  solo diners hunting for reliable Japanese places nearby. While there might be
+  a short wait during busy times, the overall experience comes across as
+  enjoyable and worth it, with highlights on the tasty starters and desserts
+  that leave a positive impression. If you're on the hunt for sushi spots that
+  deliver good value and a welcoming environment, this one frequently gets nods
+  for its consistent appeal.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -419,8 +456,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Japanese eats & sushi selected off a conveyor belt in a riverside setting with
   a patio & NYC views.
 

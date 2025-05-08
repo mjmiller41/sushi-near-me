@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Garden"
+title: Sushi Garden
 permalink: /virginia/arlington/sushi-garden.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Arlington
 seo:
-  name: "Sushi Garden"
-  type: Restaurant
+  type: restaurant
   links: https://www.sushigardencrystalcity.com/
-description: "Sushi Garden serves delicious sushi in Arlington, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJDY9HNyS3t4kRRx2rrw7YZfM
 photos:
   - name: >-
@@ -184,6 +182,35 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 0
 website: https://www.sushigardencrystalcity.com/
+description: >-
+  Explore Sushi Garden in Arlington, VA$$$Sushi Garden in Arlington, VA, stands
+  out as one of the top-rated sushi restaurants in the area, offering fresh and
+  flavorful Japanese-inspired dishes that draw in locals and visitors alike.
+  Nestled in the vibrant Crystal City neighborhood, this spot provides a cozy
+  atmosphere with accessible features like wheelchair-friendly entrances and
+  ample seating options, making it a convenient choice for sushi enthusiasts
+  seeking quality meals nearby. Patrons can enjoy generous portions of expertly
+  prepared sushi rolls and sashimi, complemented by thoughtful touches such as
+  complimentary miso soup, all at reasonable prices that fit various budgets.
+  The restaurant also supports easy dining with options for takeout and
+  delivery, ensuring that whether you're grabbing a quick bite or settling in
+  for a relaxed meal, it's a go-to destination for authentic flavors in a
+  welcoming setting.
+generative_summary: >-
+  Explore Sushi Garden in Arlington, VA$$$Sushi Garden in Arlington, VA, stands
+  out as one of the top-rated sushi restaurants in the area, offering fresh and
+  flavorful Japanese-inspired dishes that draw in locals and visitors alike.
+  Nestled in the vibrant Crystal City neighborhood, this spot provides a cozy
+  atmosphere with accessible features like wheelchair-friendly entrances and
+  ample seating options, making it a convenient choice for sushi enthusiasts
+  seeking quality meals nearby. Patrons can enjoy generous portions of expertly
+  prepared sushi rolls and sashimi, complemented by thoughtful touches such as
+  complimentary miso soup, all at reasonable prices that fit various budgets.
+  The restaurant also supports easy dining with options for takeout and
+  delivery, ensuring that whether you're grabbing a quick bite or settling in
+  for a relaxed meal, it's a go-to destination for authentic flavors in a
+  welcoming setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJDY9HNyS3t4kRRx2rrw7YZfM/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfNV92RTdnRRAB
@@ -351,6 +378,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNMX2NuNGl3RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNMX2NuNGl3RRAB!2m1!1s0x89b7b72437478f0d:0xf365d80eafab1d47
+review_summary: >-
+  What Visitors Are Saying About the Reviews$$$Folks who stop by Sushi Garden
+  often rave about the fresh and delicious sushi that's packed with generous
+  portions, making it a solid pick for anyone hunting for the best sushi around.
+  Many appreciate the quick service and friendly vibes that turn a simple meal
+  into a pleasant experience, with highlights on tasty add-ons like miso soup
+  that add extra value. While some mention minor adjustments needed for
+  convenience after a recent move, the overall feedback leans positive, praising
+  the high-quality ingredients and affordable prices that keep people coming
+  back. It's clear that this spot hits the mark for casual diners looking for
+  reliable Japanese options, though a few suggest visiting during less busy
+  times for a more relaxed vibe. All in all, the consensus is that it's a hidden
+  gem worth trying if you're in the mood for top-notch sushi near you.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   paidParkingLot: true
@@ -387,7 +428,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: null
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

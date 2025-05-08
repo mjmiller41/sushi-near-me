@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Izu Sushi Japanese Restaurant"
+title: Izu Sushi Japanese Restaurant
 permalink: /new-jersey/long-branch/izu-sushi-japanese-restaurant.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Long Branch
 seo:
-  name: "Izu Sushi Japanese Restaurant"
-  type: Restaurant
-  links: null
-description: "Izu Sushi Japanese Restaurant serves delicious sushi in Long Branch, New Jersey. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.izu-sushi.com/
 place_id: ChIJd49OPgIlwokRUcvx7t7FSU8
 photos:
   - name: >-
@@ -170,8 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c225023e4e8f77:0x4f49c5deeef1cb51!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: Closed'
+    - 'Tuesday: 11:30 AM – 9:30 PM'
+    - 'Wednesday: 11:30 AM – 9:30 PM'
+    - 'Thursday: 11:30 AM – 9:30 PM'
+    - 'Friday: 11:30 AM – 9:30 PM'
+    - 'Saturday: 11:30 AM – 9:30 PM'
+    - 'Sunday: 11:30 AM – 9:30 PM'
+  nextCloseTime: '2025-05-04T01:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +234,50 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (732) 870-0807
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.5'
+rating_count: 407
+website: http://www.izu-sushi.com/
+description: >-
+  Discover Izu Sushi in Long Branch, NJ$$$Izu Sushi Japanese Restaurant in Long
+  Branch, NJ, offers a welcoming spot for savoring fresh sushi and classic
+  Japanese dishes in a relaxed setting. The eatery boasts a comfortable
+  atmosphere that makes it ideal for casual meals, with options ranging from
+  inventive rolls to traditional favorites that highlight high-quality
+  ingredients. Accessibility features like wheelchair-friendly parking and
+  entrances ensure a hassle-free visit for all guests, while its moderate price
+  range provides great value for those seeking top-notch sushi experiences
+  nearby. Operating hours cater to both lunch and dinner crowds, making it a
+  convenient choice for locals and visitors alike exploring Japanese cuisine
+  options in the area.
+generative_summary: >-
+  Discover Izu Sushi in Long Branch, NJ$$$Izu Sushi Japanese Restaurant in Long
+  Branch, NJ, offers a welcoming spot for savoring fresh sushi and classic
+  Japanese dishes in a relaxed setting. The eatery boasts a comfortable
+  atmosphere that makes it ideal for casual meals, with options ranging from
+  inventive rolls to traditional favorites that highlight high-quality
+  ingredients. Accessibility features like wheelchair-friendly parking and
+  entrances ensure a hassle-free visit for all guests, while its moderate price
+  range provides great value for those seeking top-notch sushi experiences
+  nearby. Operating hours cater to both lunch and dinner crowds, making it a
+  convenient choice for locals and visitors alike exploring Japanese cuisine
+  options in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this Japanese spot often praise the
+  fresh and flavorful sushi rolls that deliver a satisfying mix of tastes
+  without breaking the bank. Many highlight the cozy, dimly lit ambiance that
+  creates a private and enjoyable dining vibe, perfect for unwinding after a
+  long day. Folks appreciate the attentive and friendly service that enhances
+  the overall meal, making every visit feel welcoming and efficient. While
+  opinions vary, the general consensus leans positive, with affordable pricing
+  adding to the appeal for those hunting for reliable sushi restaurants in the
+  neighborhood. Overall, it's a solid pick for anyone craving authentic flavors
+  in a laid-back environment.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +303,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

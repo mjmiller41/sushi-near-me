@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Amami Shima Sushi"
+title: Amami Shima Sushi
 permalink: /california/cupertino/amami-shima-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Cupertino
 seo:
-  name: "Amami Shima Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://amamishimasushi.com/
-description: "Amami Shima Sushi serves delicious sushi in Cupertino, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ54EGBEK1j4AR4z6S5qbPulQ
 photos:
   - name: >-
@@ -170,7 +168,105 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x808fb542040681e7:0x54bacfa6e6923ee3!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 14
+        minute: 30
+    - open:
+        day: 0
+        hour: 16
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 14
+        minute: 30
+    - open:
+        day: 6
+        hour: 16
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:30 AM – 2:30 PM, 4:30 – 9:00 PM'
     - 'Wednesday: 11:30 AM – 2:30 PM, 4:30 – 9:00 PM'
@@ -178,14 +274,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 2:30 PM, 4:30 – 9:30 PM'
     - 'Saturday: 11:30 AM – 2:30 PM, 4:30 – 9:30 PM'
     - 'Sunday: 11:30 AM – 2:30 PM, 4:30 – 9:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:30 AM – 2:30 PM, 4:30 – 9:00 PM'
-    - 'Wednesday: 11:30 AM – 2:30 PM, 4:30 – 9:00 PM'
-    - 'Thursday: 11:30 AM – 2:30 PM, 4:30 – 9:00 PM'
-    - 'Friday: 11:30 AM – 2:30 PM, 4:30 – 9:30 PM'
-    - 'Saturday: 11:30 AM – 2:30 PM, 4:30 – 9:30 PM'
-    - 'Sunday: 11:30 AM – 2:30 PM, 4:30 – 9:00 PM'
+  nextOpenTime: '2025-05-03T23:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +286,458 @@ phone: (408) 996-8815
 price_level: PRICE_LEVEL_MODERATE
 price_range: $30 &ndash; $50
 rating: '4.3'
-rating_count: 0
+rating_count: 631
 website: https://amamishimasushi.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Explore Amami Shima Sushi in Cupertino, CA$$$Amami Shima Sushi in Cupertino,
+  California, stands out as a relaxed destination for savoring fresh
+  Japanese-inspired cuisine, drawing in locals and visitors seeking quality
+  dining options nearby. This spot highlights a diverse selection of dishes,
+  including expertly prepared omakase selections, with ingredients sourced daily
+  to ensure an authentic taste of the sea. The restaurant's approachable
+  atmosphere combines casual vibes with thoughtful accessibility features,
+  making it easy for everyone to enjoy a meal. Whether you're in the mood for
+  classic rolls or more adventurous bites, the focus on fresh imports adds a
+  genuine flair to every plate. With its convenient location and welcoming
+  setup, it's an ideal choice for those exploring top sushi spots in the area.
+generative_summary: >-
+  Explore Amami Shima Sushi in Cupertino, CA$$$Amami Shima Sushi in Cupertino,
+  California, stands out as a relaxed destination for savoring fresh
+  Japanese-inspired cuisine, drawing in locals and visitors seeking quality
+  dining options nearby. This spot highlights a diverse selection of dishes,
+  including expertly prepared omakase selections, with ingredients sourced daily
+  to ensure an authentic taste of the sea. The restaurant's approachable
+  atmosphere combines casual vibes with thoughtful accessibility features,
+  making it easy for everyone to enjoy a meal. Whether you're in the mood for
+  classic rolls or more adventurous bites, the focus on fresh imports adds a
+  genuine flair to every plate. With its convenient location and welcoming
+  setup, it's an ideal choice for those exploring top sushi spots in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ54EGBEK1j4AR4z6S5qbPulQ/reviews/ChZDSUhNMG9nS0VJQ0FnTURRczdLbVJREAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Delightful, fresh and authentic Sushi. My first time here but definitely
+        not last.
+      languageCode: en
+    originalText:
+      text: >-
+        Delightful, fresh and authentic Sushi. My first time here but definitely
+        not last.
+      languageCode: en
+    authorAttribution:
+      displayName: sholeh ja
+      uri: https://www.google.com/maps/contrib/116690250271826454453/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWu9Cnyx5eT2GVzKShN9t-QR2u-BK3aUOVGAPMQrDrbrh3Njotz=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-03-14T01:55:30.187095Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURRczdLbVJREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURRczdLbVJREAE!2m1!1s0x808fb542040681e7:0x54bacfa6e6923ee3
+  - name: >-
+      places/ChIJ54EGBEK1j4AR4z6S5qbPulQ/reviews/ChdDSUhNMG9nS0VJQ0FnSURyNnJ2Y2pnRRAB
+    relativePublishTimeDescription: 9 months ago
+    rating: 3
+    text:
+      text: >-
+        Was recommended to try this place with a group of friends who raved
+        about this restaurant.
+
+        Compared to the other high end sushi restaurants I’ve tried, the
+        experience at Amami was okay. The deluxe is priced decently for a chefs
+        choice. The presentation is beautiful with slender cuts of fish, but the
+        quality of the fish is not as fresh as I would’ve liked.
+
+
+        Restaurant does get busy.
+      languageCode: en
+    originalText:
+      text: >-
+        Was recommended to try this place with a group of friends who raved
+        about this restaurant.
+
+        Compared to the other high end sushi restaurants I’ve tried, the
+        experience at Amami was okay. The deluxe is priced decently for a chefs
+        choice. The presentation is beautiful with slender cuts of fish, but the
+        quality of the fish is not as fresh as I would’ve liked.
+
+
+        Restaurant does get busy.
+      languageCode: en
+    authorAttribution:
+      displayName: A S
+      uri: https://www.google.com/maps/contrib/115358836964105037517/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIAHO6Y8qqHsZxoVCTlJSPrz5_3od-7QJsZLT3D28WyOOf7IIyE=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-07-16T20:29:36.898321Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURyNnJ2Y2pnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURyNnJ2Y2pnRRAB!2m1!1s0x808fb542040681e7:0x54bacfa6e6923ee3
+  - name: >-
+      places/ChIJ54EGBEK1j4AR4z6S5qbPulQ/reviews/ChdDSUhNMG9nS0VJQ0FnSURkdVlYTDdnRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 2
+    text:
+      text: >-
+        As a Japanese person from Japan, I'd say most Americans may think this
+        is good "sushi" if they've not tried any authentic ones. Just order the
+        rolls and skip the Nigiris. Nigiris are cut pretty but I would almost
+        consider it worthless. The name suggests a Japanese place but the place
+        is entirely ran by Chinese owners, chefs and servers.
+
+
+        Ordered:
+
+        - 2 Sushi Deluxe (9 piece + rock'n roll + miso soup per order)
+
+        - Ankimo (4 pieces)
+
+        - Oyster shots (2 spoons)
+
+        - Mix-it-up roll
+
+        - Tiger roll
+
+
+        Intro:
+
+        First of all, the male receptionist with spiky hair was flat out rude
+        and a liar. We waited an hour outside and he came out and called peoples
+        names on the wait-list. I noticed he skipped my name which was the next
+        in line so I went in and checked with him, he said rudely that he called
+        my name but I wasn't there so he skipped me. I responded by saying that
+        I was there, he didn't call my name. He started mumbling something in
+        Chinese with frustration and kept saying he called my name but I wasn't
+        there. I started laughing because I thought he was joking as I was
+        literally standing by the door, and turns out he was seriously lying to
+        my face. (Maybe he couldn't pronounce my name? Who knows...) So I told
+        him my car parked directly outside the door has a video recording if he
+        wanted to see. Then he goes and speaks to one of the servers and gets me
+        a table. He had a very entitled attitude and told me it happened because
+        I didn't check in. (I walked in, put my name on the tablet wait-list,
+        and spoke with the guy to make sure I'm good, and replied to yelp's text
+        with confirmation, stood outside patiently and went in periodically to
+        check the tablet for status for an hour so I don't know what I did wrong
+        to make him angry?). At this point I was already feeling this was a
+        terrible experience, in terms of service quality, for the money I'll be
+        paying.
+
+
+        Food:
+
+        - Sushi Deluxe consisted of:
+
+        3 Salmon, 2 Bincho Tuna, 2 Hamachi, 1 Aji and 1 Escolar.
+
+        To me, anything that says "Deluxe", I expect at least one piece of Ebi,
+        Ikura, Chutoro, Otoro, or Uni. They provided the lowest and cheapest
+        kind of Tuna ( Bincho Maguro), cheap Salmon (lean cut, no fat),
+        borderline sickening Escolar (full of laxatives, Japanese don't use this
+        for food). Hamachi and Aji were moderately good (when I say good, it's
+        Japanese supermarket sashimi grade). The best part was rock'n roll as
+        well as the wasabi that wasn't the typical paste-style you'd find.
+
+
+        We never got ginger, while other tables were served with it.
+
+        Also, we didn't get our Miso soup until we had to ask 30mins into our
+        dining experience.
+
+
+        Marukai market has better salmon, tuna, and hamachi for much cheaper and
+        fresher.
+
+
+        - Ankimo:
+
+        Tasted a bit old and stale but ok for the price. You can buy better ones
+        at Korean supermarkets for cheaper and fresher.
+
+
+        -Oyster Shots:
+
+        I assume middle to low tier grade oyster, barely fresh. Covered by an
+        overwhelming amount of flavorful toppings to cover/ fancy it up.  I'd
+        say ok appetizer for the price but wouldn't have more than 1 for the
+        fear of getting sick from old oyster. Also, one spoon had a tiny piece
+        of Hamachi mixed in it accidentally. Could be extra bang for the buck
+        but also shows the chefs don't care about contamination.
+
+
+        - Mix-it-up roll:
+
+        I like it. They have low tier fish so get them fried like Mix-it-up. It
+        has 3 kinds of fish mixed up and lightly fried to cover the cheap taste.
+
+
+        - Tiger roll was shrimp tempura, salmon and avocado, can't go wrong with
+        that. Liked this too.
+
+
+        Overall, you're paying for the premium looking pretty presentation, not
+        sushi quality. I spent $140 for the two of us and the dining service and
+        experience kinda sucked, tables are packed tight and the restaurant is
+        not too clean. I almost regretted taking my date there but I promised
+        her a genuine sushi experience next time.
+      languageCode: en
+    originalText:
+      text: >-
+        As a Japanese person from Japan, I'd say most Americans may think this
+        is good "sushi" if they've not tried any authentic ones. Just order the
+        rolls and skip the Nigiris. Nigiris are cut pretty but I would almost
+        consider it worthless. The name suggests a Japanese place but the place
+        is entirely ran by Chinese owners, chefs and servers.
+
+
+        Ordered:
+
+        - 2 Sushi Deluxe (9 piece + rock'n roll + miso soup per order)
+
+        - Ankimo (4 pieces)
+
+        - Oyster shots (2 spoons)
+
+        - Mix-it-up roll
+
+        - Tiger roll
+
+
+        Intro:
+
+        First of all, the male receptionist with spiky hair was flat out rude
+        and a liar. We waited an hour outside and he came out and called peoples
+        names on the wait-list. I noticed he skipped my name which was the next
+        in line so I went in and checked with him, he said rudely that he called
+        my name but I wasn't there so he skipped me. I responded by saying that
+        I was there, he didn't call my name. He started mumbling something in
+        Chinese with frustration and kept saying he called my name but I wasn't
+        there. I started laughing because I thought he was joking as I was
+        literally standing by the door, and turns out he was seriously lying to
+        my face. (Maybe he couldn't pronounce my name? Who knows...) So I told
+        him my car parked directly outside the door has a video recording if he
+        wanted to see. Then he goes and speaks to one of the servers and gets me
+        a table. He had a very entitled attitude and told me it happened because
+        I didn't check in. (I walked in, put my name on the tablet wait-list,
+        and spoke with the guy to make sure I'm good, and replied to yelp's text
+        with confirmation, stood outside patiently and went in periodically to
+        check the tablet for status for an hour so I don't know what I did wrong
+        to make him angry?). At this point I was already feeling this was a
+        terrible experience, in terms of service quality, for the money I'll be
+        paying.
+
+
+        Food:
+
+        - Sushi Deluxe consisted of:
+
+        3 Salmon, 2 Bincho Tuna, 2 Hamachi, 1 Aji and 1 Escolar.
+
+        To me, anything that says "Deluxe", I expect at least one piece of Ebi,
+        Ikura, Chutoro, Otoro, or Uni. They provided the lowest and cheapest
+        kind of Tuna ( Bincho Maguro), cheap Salmon (lean cut, no fat),
+        borderline sickening Escolar (full of laxatives, Japanese don't use this
+        for food). Hamachi and Aji were moderately good (when I say good, it's
+        Japanese supermarket sashimi grade). The best part was rock'n roll as
+        well as the wasabi that wasn't the typical paste-style you'd find.
+
+
+        We never got ginger, while other tables were served with it.
+
+        Also, we didn't get our Miso soup until we had to ask 30mins into our
+        dining experience.
+
+
+        Marukai market has better salmon, tuna, and hamachi for much cheaper and
+        fresher.
+
+
+        - Ankimo:
+
+        Tasted a bit old and stale but ok for the price. You can buy better ones
+        at Korean supermarkets for cheaper and fresher.
+
+
+        -Oyster Shots:
+
+        I assume middle to low tier grade oyster, barely fresh. Covered by an
+        overwhelming amount of flavorful toppings to cover/ fancy it up.  I'd
+        say ok appetizer for the price but wouldn't have more than 1 for the
+        fear of getting sick from old oyster. Also, one spoon had a tiny piece
+        of Hamachi mixed in it accidentally. Could be extra bang for the buck
+        but also shows the chefs don't care about contamination.
+
+
+        - Mix-it-up roll:
+
+        I like it. They have low tier fish so get them fried like Mix-it-up. It
+        has 3 kinds of fish mixed up and lightly fried to cover the cheap taste.
+
+
+        - Tiger roll was shrimp tempura, salmon and avocado, can't go wrong with
+        that. Liked this too.
+
+
+        Overall, you're paying for the premium looking pretty presentation, not
+        sushi quality. I spent $140 for the two of us and the dining service and
+        experience kinda sucked, tables are packed tight and the restaurant is
+        not too clean. I almost regretted taking my date there but I promised
+        her a genuine sushi experience next time.
+      languageCode: en
+    authorAttribution:
+      displayName: Hiroyuki Ichikawa
+      uri: https://www.google.com/maps/contrib/103575837092985836591/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKnh94PhuwXeYq7_t9stVHAV7Dy7zFQgVvCdfQnr6AgqUZ8fA=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-02-25T08:27:41.522944Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURkdVlYTDdnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURkdVlYTDdnRRAB!2m1!1s0x808fb542040681e7:0x54bacfa6e6923ee3
+  - name: >-
+      places/ChIJ54EGBEK1j4AR4z6S5qbPulQ/reviews/ChdDSUhNMG9nS0VJQ0FnTURvOGZhZWt3RRAB
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        Quality fish with generous portions. Every sushi place I go to gets
+        compared to Amami and no other restaurant compares. Omakase is my
+        favorite for variety and the fish to rice ratio is my preference (way
+        more fish than rice). My kids love their teriyaki and teriyaki udon.
+        They always hook us up with extra goodies as regulars, showing that they
+        take good care of their regular customers. Highly recommend! (Even
+        though parking can be tight sometimes.)
+      languageCode: en
+    originalText:
+      text: >-
+        Quality fish with generous portions. Every sushi place I go to gets
+        compared to Amami and no other restaurant compares. Omakase is my
+        favorite for variety and the fish to rice ratio is my preference (way
+        more fish than rice). My kids love their teriyaki and teriyaki udon.
+        They always hook us up with extra goodies as regulars, showing that they
+        take good care of their regular customers. Highly recommend! (Even
+        though parking can be tight sometimes.)
+      languageCode: en
+    authorAttribution:
+      displayName: Eileen Buenviaje Reyes
+      uri: https://www.google.com/maps/contrib/105033971481049212507/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVSBpVq7FlH2HNpE2voiBvz8E-IzbWaqcKe3-W0HPpEY3KLEeze=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-26T03:25:48.102804Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURvOGZhZWt3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURvOGZhZWt3RRAB!2m1!1s0x808fb542040681e7:0x54bacfa6e6923ee3
+  - name: >-
+      places/ChIJ54EGBEK1j4AR4z6S5qbPulQ/reviews/ChdDSUhNMG9nS0VJQ0FnSURleDl1NXh3RRAB
+    relativePublishTimeDescription: 2 years ago
+    rating: 4
+    text:
+      text: >-
+        A decent sushi option in the South Bay.
+
+
+        I like getting either the chirashi or sashimi here, since their omakase
+        is just okay to me.
+
+
+        The rice is served warm, which is a great contrast to the raw fish. I
+        find it a bit strange the sashimi is cut thick and short... Almost like
+        blocks. It doesn't necessarily affect the taste of the fish, but the
+        texture and the temperature is definitely impacted. When slices are cut
+        longer and a bit thinner, I feel like the fish has a more consistent
+        temperature. Here, the center of the fish feels slightly colder than
+        it's exterior.
+
+
+        Check in to the wait-list via Yelp! The parking here is pretty narrow,
+        so watch out for pedestrians and cars backing out of tight spaces. You
+        may need to circle the lot like a shark on busy weekends.
+      languageCode: en
+    originalText:
+      text: >-
+        A decent sushi option in the South Bay.
+
+
+        I like getting either the chirashi or sashimi here, since their omakase
+        is just okay to me.
+
+
+        The rice is served warm, which is a great contrast to the raw fish. I
+        find it a bit strange the sashimi is cut thick and short... Almost like
+        blocks. It doesn't necessarily affect the taste of the fish, but the
+        texture and the temperature is definitely impacted. When slices are cut
+        longer and a bit thinner, I feel like the fish has a more consistent
+        temperature. Here, the center of the fish feels slightly colder than
+        it's exterior.
+
+
+        Check in to the wait-list via Yelp! The parking here is pretty narrow,
+        so watch out for pedestrians and cars backing out of tight spaces. You
+        may need to circle the lot like a shark on busy weekends.
+      languageCode: en
+    authorAttribution:
+      displayName: Irene Lu
+      uri: https://www.google.com/maps/contrib/117250187194126685094/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIcOZPFmncX76sP3cXCN-h78a_wL3Eu103HngPtfBM54leWdduF=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2022-10-21T05:30:52.022951Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURleDl1NXh3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURleDl1NXh3RRAB!2m1!1s0x808fb542040681e7:0x54bacfa6e6923ee3
+review_summary: >-
+  Insights from Recent Feedback$$$Folks often rave about the fresh fish and
+  generous servings at this sushi favorite, making it a go-to for anyone craving
+  a satisfying meal with variety in their options. While some diners note that
+  the overall quality can vary a bit depending on the day, the presentation and
+  flavors generally hit the mark for a casual outing. Regulars appreciate the
+  attentive service and extras that come with repeat visits, though crowds and
+  wait times can make things a little hectic during peak hours. On the whole,
+  it's praised as a solid pick for families and groups, with the omakase
+  standing out as a highlight that keeps people coming back. Despite a few mixed
+  opinions on authenticity, the positive vibes and tasty dishes make it worth
+  checking out for a relaxed Japanese dining experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+curbside_pickup: false
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: false
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: false
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Laid-back, small restaurant serving an array of sushi & sashimi alongside
+  cooked Japanese dishes.
 
 ---

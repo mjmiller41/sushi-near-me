@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Cha Cha Sushi"
+title: Cha Cha Sushi
 permalink: /california/san-jose/cha-cha-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: San Jose
 seo:
-  name: "Cha Cha Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.chachasushi.com/
-description: "Cha Cha Sushi serves delicious sushi in San Jose, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJZXPuq0syjoAR8Y9FHnWb86o
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x808e324babee7365:0xaaf39b751e458ff1!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:00 PM'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -178,54 +226,350 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:00 PM'
     - 'Saturday: 11:00 AM – 9:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:00 AM – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 9:00 PM'
-    - 'Saturday: 11:00 AM – 9:00 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: false
+    periods:
+      - open:
+          day: 1
+          hour: 11
+          minute: 30
+        close:
+          day: 1
+          hour: 19
+          minute: 0
+      - open:
+          day: 2
+          hour: 11
+          minute: 30
+        close:
+          day: 2
+          hour: 19
+          minute: 0
+      - open:
+          day: 3
+          hour: 11
+          minute: 30
+        close:
+          day: 3
+          hour: 19
+          minute: 0
+      - open:
+          day: 4
+          hour: 11
+          minute: 30
+        close:
+          day: 4
+          hour: 19
+          minute: 0
+      - open:
+          day: 5
+          hour: 11
+          minute: 30
+        close:
+          day: 5
+          hour: 19
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 11:30 AM – 7:00 PM'
+      - 'Tuesday: 11:30 AM – 7:00 PM'
+      - 'Wednesday: 11:30 AM – 7:00 PM'
+      - 'Thursday: 11:30 AM – 7:00 PM'
+      - 'Friday: 11:30 AM – 7:00 PM'
+      - 'Saturday: Closed'
+      - 'Sunday: Closed'
+    secondaryHoursType: HAPPY_HOUR
+    nextOpenTime: '2025-05-05T18:30:00Z'
 phone: (408) 265-2416
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.4'
-rating_count: 0
+rating_count: 1354
 website: http://www.chachasushi.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Cha Cha Sushi in San Jose, CA$$$Cha Cha Sushi in San Jose,
+  California, stands out as a reliable destination for authentic Japanese
+  flavors, featuring a wide array of fresh sushi and classic entrees that
+  highlight the best of casual dining. This spot excels with its straightforward
+  vibe, offering bento boxes and specialty rolls that appeal to anyone craving
+  satisfying Japanese options without the fuss. Accessibility is a key strength,
+  with features like wheelchair-friendly parking and entrances making it easy
+  for all to enjoy. Expect generous portions at moderate prices, perfect for
+  those seeking top-rated sushi experiences nearby. Whether you're exploring
+  sushi places in the area or looking for a quick meal, the eatery's welcoming
+  atmosphere and solid menu selections make it a go-to choice for everyday
+  dining.
+generative_summary: >-
+  Discover Cha Cha Sushi in San Jose, CA$$$Cha Cha Sushi in San Jose,
+  California, stands out as a reliable destination for authentic Japanese
+  flavors, featuring a wide array of fresh sushi and classic entrees that
+  highlight the best of casual dining. This spot excels with its straightforward
+  vibe, offering bento boxes and specialty rolls that appeal to anyone craving
+  satisfying Japanese options without the fuss. Accessibility is a key strength,
+  with features like wheelchair-friendly parking and entrances making it easy
+  for all to enjoy. Expect generous portions at moderate prices, perfect for
+  those seeking top-rated sushi experiences nearby. Whether you're exploring
+  sushi places in the area or looking for a quick meal, the eatery's welcoming
+  atmosphere and solid menu selections make it a go-to choice for everyday
+  dining.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJZXPuq0syjoAR8Y9FHnWb86o/reviews/ChZDSUhNMG9nS0VJQ0FnTUNBeGItaWJBEAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        I absolutely LOVE this place!!!
+
+        Big verity of sushi, everything is delicious! Big sushi, served
+        beautifully and very fresh.
+
+        Super quick service,  everything came very fast.
+
+        Great prices, great deals on the happy hour.
+
+        I definitely recommend this place!
+      languageCode: en
+    originalText:
+      text: >-
+        I absolutely LOVE this place!!!
+
+        Big verity of sushi, everything is delicious! Big sushi, served
+        beautifully and very fresh.
+
+        Super quick service,  everything came very fast.
+
+        Great prices, great deals on the happy hour.
+
+        I definitely recommend this place!
+      languageCode: en
+    authorAttribution:
+      displayName: Natalie Vaysman
+      uri: https://www.google.com/maps/contrib/116316213089009738119/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWWWrJAE9-Vmcw1v-yqTcGqwM1bf5TOVGAAIPh2feJWVPOLBmIYqg=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-02-02T15:31:55.553706Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNBeGItaWJBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNBeGItaWJBEAE!2m1!1s0x808e324babee7365:0xaaf39b751e458ff1
+  - name: >-
+      places/ChIJZXPuq0syjoAR8Y9FHnWb86o/reviews/ChZDSUhNMG9nS0VJQ0FnTURnNGZ6Q1RREAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        I love is place . Great price for large portion! The place is a little
+        small and usually busy . But the service is always good. The food came
+        out really fast too. Definitely recommend going here.
+      languageCode: en
+    originalText:
+      text: >-
+        I love is place . Great price for large portion! The place is a little
+        small and usually busy . But the service is always good. The food came
+        out really fast too. Definitely recommend going here.
+      languageCode: en
+    authorAttribution:
+      displayName: Nhi Phương
+      uri: https://www.google.com/maps/contrib/112090041247801125404/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIigSFq5uRUoSk6YcCK326MHYSLlPrmajMHnmT7nlk1t6fnYkQ=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-02-25T09:07:11.321582Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURnNGZ6Q1RREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURnNGZ6Q1RREAE!2m1!1s0x808e324babee7365:0xaaf39b751e458ff1
+  - name: >-
+      places/ChIJZXPuq0syjoAR8Y9FHnWb86o/reviews/ChZDSUhNMG9nS0VJQ0FnTUNnb2QzcklnEAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        Excellent food (my favorite Lion King). The staff was freindly and quick
+        getting our order.
+      languageCode: en
+    originalText:
+      text: >-
+        Excellent food (my favorite Lion King). The staff was freindly and quick
+        getting our order.
+      languageCode: en
+    authorAttribution:
+      displayName: john Liclican
+      uri: https://www.google.com/maps/contrib/110800520665543096217/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJykljFNG213ny7A4CwzzUW4wuT8GlCB-3mkQYQnmVuFzR3BQ=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-02-18T01:33:11.100196Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNnb2QzcklnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNnb2QzcklnEAE!2m1!1s0x808e324babee7365:0xaaf39b751e458ff1
+  - name: >-
+      places/ChIJZXPuq0syjoAR8Y9FHnWb86o/reviews/ChZDSUhNMG9nS0VJQ0FnSUNEX195eEd3EAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Went in on a Wednesday at 4:35pm. No wait time, and was immediately
+        seated.
+
+
+        Order arrived quickly at around 4:45pm.
+
+
+        Food was excellent on top of arriving quickly. Ingredients uses appeared
+        to be very good.
+
+
+        Service was excellent, was asked for any specific needs throughout the
+        dinner ans servers were upbeat and very helpful.
+
+
+        Atmosphere was lovely, music wasn't overbearing and place was clean.
+
+
+        Ordered:
+
+        Lion King: baked california roll w/ salmon, spicy mayo, & unagi sauce
+
+
+        Alaskan Crispy: deep fried w/ salmon, cream cheese, wasabi mayo & unagi
+        sauce
+
+
+        Superman: soft shell crab w/ unagi, avocado, unagi sauce & spicy mayo
+
+
+        Wolf Tail: shrimp tempura, crab meat w/ salmon, unagi sauce & spicy mayo
+
+
+        Soft Shell Crab, Bento Platter, Chicken Yakitori
+      languageCode: en
+    originalText:
+      text: >-
+        Went in on a Wednesday at 4:35pm. No wait time, and was immediately
+        seated.
+
+
+        Order arrived quickly at around 4:45pm.
+
+
+        Food was excellent on top of arriving quickly. Ingredients uses appeared
+        to be very good.
+
+
+        Service was excellent, was asked for any specific needs throughout the
+        dinner ans servers were upbeat and very helpful.
+
+
+        Atmosphere was lovely, music wasn't overbearing and place was clean.
+
+
+        Ordered:
+
+        Lion King: baked california roll w/ salmon, spicy mayo, & unagi sauce
+
+
+        Alaskan Crispy: deep fried w/ salmon, cream cheese, wasabi mayo & unagi
+        sauce
+
+
+        Superman: soft shell crab w/ unagi, avocado, unagi sauce & spicy mayo
+
+
+        Wolf Tail: shrimp tempura, crab meat w/ salmon, unagi sauce & spicy mayo
+
+
+        Soft Shell Crab, Bento Platter, Chicken Yakitori
+      languageCode: en
+    authorAttribution:
+      displayName: Maverick Sy
+      uri: https://www.google.com/maps/contrib/104023130146964198438/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUR3mfvW2gn0P3p3ufCDZcDa2ksIUf_DwAKYc0APMvypSv2Nmrj=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-03-07T01:19:29.814925Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNEX195eEd3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNEX195eEd3EAE!2m1!1s0x808e324babee7365:0xaaf39b751e458ff1
+  - name: >-
+      places/ChIJZXPuq0syjoAR8Y9FHnWb86o/reviews/ChdDSUhNMG9nS0VJQ0FnSUM3MlpycDV3RRAB
+    relativePublishTimeDescription: 8 months ago
+    rating: 5
+    text:
+      text: >-
+        Power lunch spot in SJ, the lunch 3-item was hearty with soup salad and
+        good portions of rich, chicken and sushi rolls. I also ordered a hamachi
+        cheek and some tomago…both tasty additions. The service was speedy and
+        hospitable, the chef loves his nephews and it was nice seeing the love
+        for family in the restaurant….quick, clean and reasonably priced.
+      languageCode: en
+    originalText:
+      text: >-
+        Power lunch spot in SJ, the lunch 3-item was hearty with soup salad and
+        good portions of rich, chicken and sushi rolls. I also ordered a hamachi
+        cheek and some tomago…both tasty additions. The service was speedy and
+        hospitable, the chef loves his nephews and it was nice seeing the love
+        for family in the restaurant….quick, clean and reasonably priced.
+      languageCode: en
+    authorAttribution:
+      displayName: Carl Foisy
+      uri: https://www.google.com/maps/contrib/105218113004637469282/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXFenDiTL1mPPdYf97ih9lfzrIy2Z93LFtIOUKb1Yds8CgIjmI8=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-08-17T02:15:35.251873Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUM3MlpycDV3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUM3MlpycDV3RRAB!2m1!1s0x808e324babee7365:0xaaf39b751e458ff1
+review_summary: >-
+  What People Love About This Sushi Spot$$$Visitors consistently praise the
+  fresh and diverse sushi selections, noting how the generous portions and
+  flavorful rolls make every meal feel like a treat without breaking the bank.
+  Many highlight the speedy service and efficient atmosphere, which keeps things
+  moving smoothly even during busy times, allowing for a relaxed yet enjoyable
+  visit. Feedback often mentions great value, especially with deals like happy
+  hour, making it a smart pick for anyone hunting for affordable Japanese eats
+  close by. Overall, the welcoming staff and quick delivery of orders contribute
+  to a positive vibe that keeps folks coming back for more. If you're on the
+  hunt for reliable sushi restaurants in the neighborhood, this place delivers a
+  solid experience that's worth trying out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: false
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: false
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: false
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  No-frills sushi spot offering specialty rolls plus an array of classic
+  Japanese entrees.
 
 ---

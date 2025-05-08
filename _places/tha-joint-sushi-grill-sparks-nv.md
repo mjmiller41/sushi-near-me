@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Tha Joint Sushi & Grill"
+title: Tha Joint Sushi & Grill
 permalink: /nevada/sparks/tha-joint-sushi-grill.html
 stateAbbr: NV
 stateName: Nevada
 cityName: Sparks
 seo:
-  name: "Tha Joint Sushi & Grill"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Tha Joint Sushi & Grill serves delicious sushi in Sparks, Nevada. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJWeonEwA5mYARqMAS_0S31CU
 photos:
   - name: >-
@@ -185,7 +183,42 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  About Tha Joint Sushi & Grill in Sparks, NV$$$Tha Joint Sushi & Grill in
+  Sparks, NV, stands out as a go-to destination for those seeking vibrant sushi
+  restaurants in the area, offering an all-you-can-eat experience that
+  highlights fresh Japanese-inspired dishes. This laid-back eatery features a
+  diverse selection of sushi rolls and Asian favorites, perfect for anyone
+  exploring flavorful options close to home. With its relaxed atmosphere and
+  unique rooftop bar, it's an ideal spot for casual dining or unwinding after a
+  day out. The accessible design ensures everyone can enjoy the welcoming vibe,
+  making it a convenient choice for sushi lovers looking for quality and
+  variety.
+generative_summary: >-
+  About Tha Joint Sushi & Grill in Sparks, NV$$$Tha Joint Sushi & Grill in
+  Sparks, NV, stands out as a go-to destination for those seeking vibrant sushi
+  restaurants in the area, offering an all-you-can-eat experience that
+  highlights fresh Japanese-inspired dishes. This laid-back eatery features a
+  diverse selection of sushi rolls and Asian favorites, perfect for anyone
+  exploring flavorful options close to home. With its relaxed atmosphere and
+  unique rooftop bar, it's an ideal spot for casual dining or unwinding after a
+  day out. The accessible design ensures everyone can enjoy the welcoming vibe,
+  making it a convenient choice for sushi lovers looking for quality and
+  variety.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Buzzing About$$$Visitors often rave about the fantastic
+  all-you-can-eat deals at this sushi spot, praising the fresh rolls and tasty
+  entrees that keep things exciting and satisfying. The friendly service adds a
+  nice touch, helping to create a welcoming environment that makes every meal
+  feel special. Many appreciate the great value, especially with options for
+  vegetarians and a solid range of appetizers that cater to different tastes.
+  While some note that waits can occasionally stretch during busy periods, the
+  overall experience remains a hit for those hunting for reliable Japanese fare.
+  All in all, it's a fun and worthwhile stop for anyone in the mood for
+  top-notch sushi nearby.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +244,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

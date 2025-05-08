@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "SHŌTŌ Washington DC"
+title: SHŌTŌ Washington DC
 permalink: /district-of-columbia/washington/shoto-washington-dc.html
 stateAbbr: DC
 stateName: District of Columbia
 cityName: Washington
 seo:
-  name: "SHŌTŌ Washington DC"
-  type: Restaurant
+  type: restaurant
   links: https://www.sevenrooms.com/reservations/shotowashingtondc/
-description: "Modern restaurant serving sushi, Wagyu steak & grilled robata-style skewers in a lavish dining room. SHŌTŌ Washington DC serves delicious sushi in Washington, District of Columbia. Try fresh Japanese dishes for a great dining experience. Available for, lunch, and dinner."
 place_id: ChIJJX6GeKS3t4kR6pg6rKnZ8LM
 photos:
   - name: >-
@@ -184,6 +182,29 @@ price_range: $100 &ndash; & up
 rating: '4.2'
 rating_count: 0
 website: https://www.sevenrooms.com/reservations/shotowashingtondc/
+description: >-
+  Experience SHŌTŌ in Washington, DC$$$SHŌTŌ in Washington, DC, stands out as a
+  premier Japanese restaurant offering fresh sushi and expertly prepared Wagyu
+  steak in a stylish setting. The space blends modern elegance with warm vibes,
+  featuring thoughtful decor that makes it ideal for special dinners or casual
+  sushi outings. Diners can savor grilled robata-style skewers and creative
+  dishes that highlight bold flavors and high-quality ingredients, all served in
+  an atmosphere that's both luxurious and welcoming. With options like sake
+  pairings and attentive service, it's a go-to spot for those searching for
+  top-rated sushi experiences nearby, ensuring every meal feels memorable and
+  refined.
+generative_summary: >-
+  Experience SHŌTŌ in Washington, DC$$$SHŌTŌ in Washington, DC, stands out as a
+  premier Japanese restaurant offering fresh sushi and expertly prepared Wagyu
+  steak in a stylish setting. The space blends modern elegance with warm vibes,
+  featuring thoughtful decor that makes it ideal for special dinners or casual
+  sushi outings. Diners can savor grilled robata-style skewers and creative
+  dishes that highlight bold flavors and high-quality ingredients, all served in
+  an atmosphere that's both luxurious and welcoming. With options like sake
+  pairings and attentive service, it's a go-to spot for those searching for
+  top-rated sushi experiences nearby, ensuring every meal feels memorable and
+  refined.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJJX6GeKS3t4kR6pg6rKnZ8LM/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3b01MM2NnEAE
@@ -415,6 +436,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNfZ05tNld3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNfZ05tNld3EAE!2m1!1s0x89b7b7a478867e25:0xb3f0d9a9ac3a98ea
+review_summary: >-
+  Visitor Feedback on SHŌTŌ$$$Folks often rave about the fantastic ambiance and
+  creative flavors at this popular sushi spot, with many highlighting the fresh
+  sushi and tasty tempura as standout choices for a special night out. While
+  it's on the pricier side, reviewers agree it's worth it for the high-quality
+  ingredients and innovative presentations that make every bite enjoyable.
+  Service tends to be friendly and helpful, adding to the overall relaxed vibe,
+  though some note it can get busy and require a bit of patience. Overall, it's
+  frequently recommended for groups or date nights, offering a solid mix of
+  great drinks and dishes that keep people coming back for more authentic
+  Japanese-inspired meals in the area.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidStreetParking: true
   paidGarageParking: true
@@ -446,8 +479,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: false
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Modern restaurant serving sushi, Wagyu steak & grilled robata-style skewers in
   a lavish dining room.
 

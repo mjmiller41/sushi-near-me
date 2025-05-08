@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yokozuna Sushi"
+title: Yokozuna Sushi
 permalink: /virginia/ashland/yokozuna-sushi.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Ashland
 seo:
-  name: "Yokozuna Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://yokozunava.com/
-description: "Basic Japanese cafe with some Americanized fare plus beer, wine & sake & occasional piano music. Yokozuna Sushi serves delicious sushi in Ashland, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, and dinner."
 place_id: ChIJzXdji2I5sYkR3T7z34g3E8g
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $20 &ndash; $30
 rating: '4.8'
 rating_count: 0
 website: https://yokozunava.com/
+description: >-
+  Discover Yokozuna Sushi in Ashland, VA$$$Yokozuna Sushi in Ashland, VA, offers
+  a relaxed dining experience in a convenient shopping center setting, perfect
+  for those seeking fresh sushi options nearby. This spot specializes in
+  made-to-order sushi dishes that highlight high-quality ingredients and a
+  variety of flavors, complemented by selections of beer, wine, and sake for a
+  well-rounded meal. The eatery provides an inviting atmosphere with thoughtful
+  accessibility features and moderate pricing, making it an ideal choice for
+  casual outings or groups. Additionally, occasional live music adds a charming
+  touch, enhancing the overall vibe for anyone exploring top-rated
+  Japanese-inspired cuisine in the area.
+generative_summary: >-
+  Discover Yokozuna Sushi in Ashland, VA$$$Yokozuna Sushi in Ashland, VA, offers
+  a relaxed dining experience in a convenient shopping center setting, perfect
+  for those seeking fresh sushi options nearby. This spot specializes in
+  made-to-order sushi dishes that highlight high-quality ingredients and a
+  variety of flavors, complemented by selections of beer, wine, and sake for a
+  well-rounded meal. The eatery provides an inviting atmosphere with thoughtful
+  accessibility features and moderate pricing, making it an ideal choice for
+  casual outings or groups. Additionally, occasional live music adds a charming
+  touch, enhancing the overall vibe for anyone exploring top-rated
+  Japanese-inspired cuisine in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJzXdji2I5sYkR3T7z34g3E8g/reviews/ChdDSUhNMG9nS0VJQ0FnSURYN01hT3VBRRAB
@@ -340,6 +361,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURuakplSFNREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURuakplSFNREAE!2m1!1s0x89b139628b6377cd:0xc8133788dff33edd
+review_summary: >-
+  What Customers Love About This Sushi Spot$$$Visitors often rave about the
+  authentic and fresh sushi offerings, noting how the quality of ingredients
+  stands out compared to other local options, making it a go-to for satisfying
+  cravings. Many appreciate the variety of traditional dishes that feel expertly
+  prepared, with seasonal seafood adding a special twist that keeps things
+  exciting and delicious. The welcoming service and cozy ambiance create a
+  positive experience that encourages repeat visits, while the overall value
+  keeps things approachable for everyday enjoyment. Folks searching for reliable
+  sushi places nearby will find plenty to celebrate here, with the general
+  consensus leaning toward it being a hidden gem worth trying for its consistent
+  flavors and friendly vibe.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -372,8 +406,8 @@ serves_lunch: null
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Basic Japanese cafe with some Americanized fare plus beer, wine & sake &
   occasional piano music.
 

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Fuji sushi bar and grill"
+title: Fuji sushi bar and grill
 permalink: /south-carolina/summerville/fuji-sushi-bar-and-grill.html
 stateAbbr: SC
 stateName: South Carolina
 cityName: Summerville
 seo:
-  name: "Fuji sushi bar and grill"
-  type: Restaurant
+  type: restaurant
   links: http://www.fujicharleston.com/
-description: "Fuji sushi bar and grill serves delicious sushi in Summerville, South Carolina. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJg-5tGtaK_ogRC6B2CouqNyc
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x88fe8ad61a6dee83:0x2737aa8b0a76a00b!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 10:00 PM'
     - 'Tuesday: 11:00 AM – 10:00 PM'
     - 'Wednesday: 11:00 AM – 10:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:00 PM'
     - 'Saturday: 11:00 AM – 10:00 PM'
     - 'Sunday: 11:00 AM – 10:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 10:00 PM'
-    - 'Tuesday: 11:00 AM – 10:00 PM'
-    - 'Wednesday: 11:00 AM – 10:00 PM'
-    - 'Thursday: 11:00 AM – 10:00 PM'
-    - 'Friday: 11:00 AM – 10:00 PM'
-    - 'Saturday: 11:00 AM – 10:00 PM'
-    - 'Sunday: 11:00 AM – 10:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +246,44 @@ phone: (843) 879-9555
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.2'
-rating_count: 0
+rating_count: 741
 website: http://www.fujicharleston.com/
+description: >-
+  About Fuji Sushi Bar and Grill in Summerville, SC$$$Fuji Sushi Bar and Grill
+  in Summerville, SC, delivers a relaxed vibe perfect for savoring fresh sushi
+  and Japanese-inspired flavors. This spot highlights a selection of creative
+  sushi rolls, traditional dishes, and refreshing sake options, along with
+  specials that add great value to your meal. Accessibility features make it
+  easy for everyone to enjoy the welcoming atmosphere, while its daily hours
+  from 11 AM to 10 PM cater to both quick lunches and evening outings. For those
+  exploring sushi restaurants in the area, it stands out with its focus on
+  quality ingredients and a casual yet inviting setting, making it a solid
+  choice for Japanese cuisine enthusiasts.
+generative_summary: >-
+  About Fuji Sushi Bar and Grill in Summerville, SC$$$Fuji Sushi Bar and Grill
+  in Summerville, SC, delivers a relaxed vibe perfect for savoring fresh sushi
+  and Japanese-inspired flavors. This spot highlights a selection of creative
+  sushi rolls, traditional dishes, and refreshing sake options, along with
+  specials that add great value to your meal. Accessibility features make it
+  easy for everyone to enjoy the welcoming atmosphere, while its daily hours
+  from 11 AM to 10 PM cater to both quick lunches and evening outings. For those
+  exploring sushi restaurants in the area, it stands out with its focus on
+  quality ingredients and a casual yet inviting setting, making it a solid
+  choice for Japanese cuisine enthusiasts.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Love About This Sushi Spot$$$Visitors often rave about the
+  tasty sushi rolls and flavorful hibachi vegetables that make meals here feel
+  fresh and satisfying, with options like calamari adding a fun twist. The
+  service stands out for being friendly and attentive, paired with reasonable
+  prices that keep things approachable for a casual lunch or dinner. Many
+  appreciate the pleasant atmosphere that enhances the overall experience,
+  turning a simple visit into a enjoyable break. While some note that wait times
+  can occasionally stretch a bit, it's generally seen as worthwhile for the
+  solid value and welcoming vibe, making it a reliable pick for sushi lovers in
+  the neighborhood.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +309,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

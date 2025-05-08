@@ -5,4 +5,5 @@ permalink: /arizona/cottonwood/
 stateAbbr: AZ
 stateName: Arizona
 cityName: Cottonwood
+
 ---

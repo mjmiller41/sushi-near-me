@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Hi"
+title: Sushi Hi
 permalink: /texas/austin/sushi-hi.html
 stateAbbr: TX
 stateName: Texas
 cityName: Austin
 seo:
-  name: "Sushi Hi"
-  type: Restaurant
+  type: restaurant
   links: http://www.sushi-hi.co/
-description: "Sushi Hi serves delicious sushi in Austin, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJC7b7nX-1RIYRoIZw3hX1rtg
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8644b57f9dfbb60b:0xd8aef515de7086a0!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 0
+        minute: 0
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 0
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 0
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 0
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 0
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 0
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 0
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 5:00 PM – 12:00 AM'
     - 'Tuesday: 5:00 PM – 12:00 AM'
     - 'Wednesday: 5:00 PM – 12:00 AM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 5:00 PM – 12:00 AM'
     - 'Saturday: 11:00 AM – 12:00 AM'
     - 'Sunday: 11:00 AM – 12:00 AM'
-  current:
-    - 'Monday: 5:00 PM – 12:00 AM'
-    - 'Tuesday: 5:00 PM – 12:00 AM'
-    - 'Wednesday: 5:00 PM – 12:00 AM'
-    - 'Thursday: 5:00 PM – 12:00 AM'
-    - 'Friday: 5:00 PM – 12:00 AM'
-    - 'Saturday: 11:00 AM – 12:00 AM'
-    - 'Sunday: 11:00 AM – 12:00 AM'
+  nextCloseTime: '2025-05-04T05:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,271 @@ phone: (512) 477-8433
 price_level: PRICE_LEVEL_INEXPENSIVE
 price_range: $10 &ndash; $20
 rating: '4.5'
-rating_count: 0
+rating_count: 581
 website: http://www.sushi-hi.co/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Sushi Hi in Austin, TX$$$Sushi Hi in Austin, TX, stands out as a
+  welcoming sushi restaurant offering a blend of Japanese-inspired dishes that
+  cater to various tastes. This spot features an array of fresh rolls, hearty
+  ramen, and protein-packed bowls, all served in a casual setting perfect for
+  casual diners seeking authentic flavors. With options like sake and beer to
+  complement meals, it's an ideal choice for those exploring top-rated Japanese
+  cuisine in the area. The restaurant also prioritizes accessibility and
+  affordability, making it a convenient option for families or groups looking
+  for sushi places near me. Its operational hours extend into the evening,
+  ensuring you can enjoy a satisfying meal without the rush.
+generative_summary: >-
+  Discover Sushi Hi in Austin, TX$$$Sushi Hi in Austin, TX, stands out as a
+  welcoming sushi restaurant offering a blend of Japanese-inspired dishes that
+  cater to various tastes. This spot features an array of fresh rolls, hearty
+  ramen, and protein-packed bowls, all served in a casual setting perfect for
+  casual diners seeking authentic flavors. With options like sake and beer to
+  complement meals, it's an ideal choice for those exploring top-rated Japanese
+  cuisine in the area. The restaurant also prioritizes accessibility and
+  affordability, making it a convenient option for families or groups looking
+  for sushi places near me. Its operational hours extend into the evening,
+  ensuring you can enjoy a satisfying meal without the rush.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJC7b7nX-1RIYRoIZw3hX1rtg/reviews/ChZDSUhNMG9nS0VJQ0FnSURmc2ZiTFpREAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        I had the most delightful dining experience here! The ramen was
+        absolutely divine—the broth was rich and flavorful, complemented by
+        tender beef, perfectly cooked eggs, and fresh toppings like corn and
+        scallions that added a nice crunch. The curry rice bowl was comforting
+        and hearty, with vibrant vegetables and a mildly spiced sauce that was
+        just the right balance of savory and sweet. The sushi was incredibly
+        fresh, with the salmon and tuna practically melting in my mouth.
+        Everything was beautifully presented, and the attention to detail in
+        each dish was evident. Highly recommend this spot for anyone looking for
+        authentic and delicious cuisine!
+
+
+        Please note The curry is Korean inspired
+      languageCode: en
+    originalText:
+      text: >-
+        I had the most delightful dining experience here! The ramen was
+        absolutely divine—the broth was rich and flavorful, complemented by
+        tender beef, perfectly cooked eggs, and fresh toppings like corn and
+        scallions that added a nice crunch. The curry rice bowl was comforting
+        and hearty, with vibrant vegetables and a mildly spiced sauce that was
+        just the right balance of savory and sweet. The sushi was incredibly
+        fresh, with the salmon and tuna practically melting in my mouth.
+        Everything was beautifully presented, and the attention to detail in
+        each dish was evident. Highly recommend this spot for anyone looking for
+        authentic and delicious cuisine!
+
+
+        Please note The curry is Korean inspired
+      languageCode: en
+    authorAttribution:
+      displayName: Joe Patch
+      uri: https://www.google.com/maps/contrib/110194623252225934477/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVOggR5MYbC9i1e8iNFWjX2z9AFc9uW03ytWH2kebMor8dQs86H=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-01-07T15:28:53.052258Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURmc2ZiTFpREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURmc2ZiTFpREAE!2m1!1s0x8644b57f9dfbb60b:0xd8aef515de7086a0
+  - name: >-
+      places/ChIJC7b7nX-1RIYRoIZw3hX1rtg/reviews/ChZDSUhNMG9nS0VJQ0FnTURRcE5lRlpnEAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        The nicest workers ever, very hospitable and relaxing environment. Got
+        the tuna nigiri, chashu with pork broth, and seaweed salad all great in
+        their own right, but the best was the seaweed salad. Very refreshing
+        light salad that helped to cleanse my palate.
+      languageCode: en
+    originalText:
+      text: >-
+        The nicest workers ever, very hospitable and relaxing environment. Got
+        the tuna nigiri, chashu with pork broth, and seaweed salad all great in
+        their own right, but the best was the seaweed salad. Very refreshing
+        light salad that helped to cleanse my palate.
+      languageCode: en
+    authorAttribution:
+      displayName: Lincoln Evans
+      uri: https://www.google.com/maps/contrib/113574947992172035848/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKt2Muo7t8evSevb-qCbmrhdYa9TB-0DjsQvu4ZuG3_td86iw=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-09T02:22:12.345491Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURRcE5lRlpnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURRcE5lRlpnEAE!2m1!1s0x8644b57f9dfbb60b:0xd8aef515de7086a0
+  - name: >-
+      places/ChIJC7b7nX-1RIYRoIZw3hX1rtg/reviews/ChdDSUhNMG9nS0VJQ0FnSUMzc015MC1RRRAB
+    relativePublishTimeDescription: 6 months ago
+    rating: 5
+    text:
+      text: >-
+        Pros are really wide menu selection of various Asian cuisines. Also, the
+        waitress was really friendly. I got the galbi which sadly wasn’t cooked
+        at our table but it did come on a sizzling platter. It was a great
+        portion for $28 - 4 banchan and rice were included. Kids and hubby got
+        sushi and poke. I’m actually glad I stuck with the hot food but they
+        seemed to enjoy their meals. Next time I’d like to try the ramen!
+
+
+        Cons were location isn’t the best and I’m just not a big anime fan but
+        their walls have anime drawings. Not a big deal at all; I’d still eat
+        here!
+      languageCode: en
+    originalText:
+      text: >-
+        Pros are really wide menu selection of various Asian cuisines. Also, the
+        waitress was really friendly. I got the galbi which sadly wasn’t cooked
+        at our table but it did come on a sizzling platter. It was a great
+        portion for $28 - 4 banchan and rice were included. Kids and hubby got
+        sushi and poke. I’m actually glad I stuck with the hot food but they
+        seemed to enjoy their meals. Next time I’d like to try the ramen!
+
+
+        Cons were location isn’t the best and I’m just not a big anime fan but
+        their walls have anime drawings. Not a big deal at all; I’d still eat
+        here!
+      languageCode: en
+    authorAttribution:
+      displayName: Kim Baker
+      uri: https://www.google.com/maps/contrib/117725453892269419863/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjW2u8AMISxfHJWGU31Li795zMehtNQvMEGT5QC1lLRKz2-FjG4L=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-11-02T03:00:57.691099Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMzc015MC1RRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMzc015MC1RRRAB!2m1!1s0x8644b57f9dfbb60b:0xd8aef515de7086a0
+  - name: >-
+      places/ChIJC7b7nX-1RIYRoIZw3hX1rtg/reviews/ChdDSUhNMG9nS0VJQ0FnSUNyaExlVzRnRRAB
+    relativePublishTimeDescription: 10 months ago
+    rating: 5
+    text:
+      text: >-
+        Lovely welcome, came for a snack stayed for the space, friendly hole in
+        the wall. Naruto vibes, environment was calm and clean. Michelle took
+        care of us and recommended the popular options. We enjoyed them all. I
+        Realized that I ate all the food before I could snap a picture. Says
+        something 🤫
+
+        Naruto roll highly recommended !!!
+
+        Seaweed salad was one of the best I’ve had. 💚
+
+        Thank you Michelle!
+      languageCode: en
+    originalText:
+      text: >-
+        Lovely welcome, came for a snack stayed for the space, friendly hole in
+        the wall. Naruto vibes, environment was calm and clean. Michelle took
+        care of us and recommended the popular options. We enjoyed them all. I
+        Realized that I ate all the food before I could snap a picture. Says
+        something 🤫
+
+        Naruto roll highly recommended !!!
+
+        Seaweed salad was one of the best I’ve had. 💚
+
+        Thank you Michelle!
+      languageCode: en
+    authorAttribution:
+      displayName: A I
+      uri: https://www.google.com/maps/contrib/105415855097538761340/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKWQ2ZmsUvdnVeZYgecvWtbMfahjwrzQKhGcpDUV9Q4tJ06Dw=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2024-07-04T02:09:05.731809Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNyaExlVzRnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNyaExlVzRnRRAB!2m1!1s0x8644b57f9dfbb60b:0xd8aef515de7086a0
+  - name: >-
+      places/ChIJC7b7nX-1RIYRoIZw3hX1rtg/reviews/ChdDSUhNMG9nS0VJQ0FnSUNIamNENHJnRRAB
+    relativePublishTimeDescription: 7 months ago
+    rating: 5
+    text:
+      text: >-
+        This lil hide away is probably one of my favorite ramen spots. It was my
+        first solo adventure when I moved to Austin when they were located next
+        to UT campus! Staff has always made me feel welcomed. If you’re looking
+        for a restaurant that feels as tho you’re hanging out at a friend’s home
+        this is it! I’ve tried most of the ramens they have to offer same with
+        their appetizers. Nothing has disappointed me yet
+      languageCode: en
+    originalText:
+      text: >-
+        This lil hide away is probably one of my favorite ramen spots. It was my
+        first solo adventure when I moved to Austin when they were located next
+        to UT campus! Staff has always made me feel welcomed. If you’re looking
+        for a restaurant that feels as tho you’re hanging out at a friend’s home
+        this is it! I’ve tried most of the ramens they have to offer same with
+        their appetizers. Nothing has disappointed me yet
+      languageCode: en
+    authorAttribution:
+      displayName: Jay J.
+      uri: https://www.google.com/maps/contrib/113144595805081781767/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVzdDbAWsOsZMpiHp-lao99tc_9j-VhZNV6Sr6XMG1D9bzzn6jr=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2024-09-07T11:49:51.480833Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNIamNENHJnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNIamNENHJnRRAB!2m1!1s0x8644b57f9dfbb60b:0xd8aef515de7086a0
+review_summary: >-
+  What Customers Love About This Spot$$$Folks frequently rave about the fresh
+  and flavorful dishes at this sushi restaurant, with many highlighting the
+  tasty ramen and vibrant poke bowls as standout choices for a quick yet
+  satisfying bite. Reviewers often note the generous portions and variety of
+  options that make it feel like a hidden gem for anyone craving Japanese
+  comfort food. The welcoming atmosphere and attentive service add to the
+  appeal, creating a relaxed vibe that's perfect for unwinding after a long day.
+  Overall, visitors appreciate how the spot delivers on fresh ingredients and
+  hearty meals without breaking the bank, making it a solid pick for those
+  searching for the best sushi near me. While not every detail is flawless, the
+  positive experiences shared keep the energy upbeat and inviting for repeat
+  visits.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
+curbside_pickup: false
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
 reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
 serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  No-frills spot serving a variety of ramen, protein bowls along with sushi
+  rolls & sashimi.
 
 ---

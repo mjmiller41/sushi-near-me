@@ -1,156 +1,154 @@
 ---
 layout: place
-title: "Sushi Garden"
+title: Sushi Garden
 permalink: /arizona/tucson/sushi-garden.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Tucson
 seo:
-  name: "Sushi Garden"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi Garden serves delicious sushi in Tucson, Arizona. Try fresh Japanese dishes for a great dining experience. "
-place_id: ChIJsZBm6LN01oYRML6QTTf65xQ
+place_id: ChIJWwOA3SVw1oYRlE-mQFOj5ss
 photos:
   - name: >-
-      places/ChIJsZBm6LN01oYRML6QTTf65xQ/photos/AeeoHcIweSlqC7maLBlEV-tx9iL4IKsxUCUSxanog6JCTDG-7PXA5a_68npWbuyHh2AO-VG3q2twgZnCqHd0qDcQPKWUWURycNItUg8ESFEnv-o8WmHQac1t67FFv3iJmAIsjH4OcnZQELB_eFzPc0eKCrbCCprGVJVV6gAvu7_H5A8v_xUOPNhXvkzUuVLRsQHyNJ8W4aCKzILUA2iRv9gWOZkqEYVx9dcuuDOiOu6kqCfq5WbcYgXVYDMwIsLwBHNfp1rQJHfogKZ4Jm9V6YFi3I6snI8Wr5HuUETCb7WWY_9PTw
+      places/ChIJWwOA3SVw1oYRlE-mQFOj5ss/photos/AeeoHcI3PrKxt5gX3wPLWShb2INXO6PsNgLPI9TXLskhBhK1zZTt6_KJyUQFcBldRRrUyQczZ11WAWl5R_PpFQomjuiY1M4voLe61i06lVcf4bCgAmvURoBR8FXzHZC_ImCLCUB2yoSAhfGT_-Vq-ktyviBGlRjdOUMqG7plaQ-Lr52uEDlKYvrEz4XYr_F8yYnSdoZA65yzvtXe99FztCKIEEJ99Bx-m8ieuoPfPBtBGd_XdK7jx6zpFWmAdJkn0_89sAUbVieJCYS6g7CO1JOyUN1j9JNzPYEb79HGdy6SHsBeuw
+    widthPx: 4800
+    heightPx: 2198
+    authorAttributions:
+      - displayName: Sushi Garden
+        uri: https://maps.google.com/maps/contrib/111455014612666130456
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXE2VjdLoflCvfGNB1Zx7NYgOc5goW-1bqcHTxa6IpmDtWkpTY=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOsLZyb7JU0SdDSTEuIH7XdIyii43-ltDOL5wEl&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOsLZyb7JU0SdDSTEuIH7XdIyii43-ltDOL5wEl!2e10!4m2!3m1!1s0x86d67025dd80035b:0xcbe6a35340a64f94
+  - name: >-
+      places/ChIJWwOA3SVw1oYRlE-mQFOj5ss/photos/AeeoHcJ9zNvwGOVJonXDAt4lAc4e3gXpEw_LiDPpiZCIAGh8cdOZFFZSiNalTfRspN-a-IEtQtnoNPs-gqPOSZShHeSNWVhoIEtmompcq_nZhjNEIPkvE5iD0TBgi4ZL5T4Zf34xgXs5BCr-uNWicVCcYJLACGcz3h3c2G9n6lUMJuezuHcJDf6VDjbHUjp9dmXs0bFJ7Yhel5rnkdBv5sd6Ib5hBM7CNYGLFOqkbS4UuMsUQWG40MGyqvdQJFJs7ayeTWsKzcTXxohzY4pzwwhkTIZlunMkGDPP-DmcHcfhu8bdWA
     widthPx: 1080
     heightPx: 608
     authorAttributions:
       - displayName: Sushi Garden
-        uri: https://maps.google.com/maps/contrib/103790123355785793230
+        uri: https://maps.google.com/maps/contrib/111455014612666130456
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjV8cOxYx95VfknEVxqbbk8INjIZJmVE6wpYOI9g2RnatvhXee0=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjXE2VjdLoflCvfGNB1Zx7NYgOc5goW-1bqcHTxa6IpmDtWkpTY=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMUS4tGxAQlTX_Parrt1wfGPxPEgpDrhNxF9N1H&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOAuY24vyNDYrclk7gl8JiPniztWDWq4Xx0z4Vq&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMUS4tGxAQlTX_Parrt1wfGPxPEgpDrhNxF9N1H!2e10!4m2!3m1!1s0x86d674b3e86690b1:0x14e7fa374d90be30
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOAuY24vyNDYrclk7gl8JiPniztWDWq4Xx0z4Vq!2e10!4m2!3m1!1s0x86d67025dd80035b:0xcbe6a35340a64f94
   - name: >-
-      places/ChIJsZBm6LN01oYRML6QTTf65xQ/photos/AeeoHcKRFWTm5Ja5C368L8xR5CQPd_9zO1ZAr_auanP4-66YqOIxAYaPoOiohF36Dptgj3CP7PRvZj9UQ9_c-t17nEMU_MU3LR6Z4T8S6V1lCqxZzCAcDA-XzgAnvsLUg0UgSdVvTWUgcTdom2AGclWVBbX0_uaYMPg4jCIOHM3dLDbOgfuV-Pd8nX2GI9_FquqcD2YVzbOAcD6Q08NMZiCdjUOvhJWF5cVe-r_y92rofcDzzgW3gNXJf7chnQldvQlOl5KvhXcINdJFDY2S_k8eyhAeaVZPnaZq2benHWWWcLmU2w
+      places/ChIJWwOA3SVw1oYRlE-mQFOj5ss/photos/AeeoHcJ18Cx3Th9s8ilOGO9yySe2sbfsYq5iVB8yXc97oyTMyo8AmfktangVeBZbWjJJilx_YZAqa0ZLoAkKPKSz6S-nrz4W6tJUFgWXn5_yL-o9-y6dVcBGKy37Tdq4UDqOT6J-Fh0MjGRcNZwemZdcQN787Dq92wKwKRW_slu7E6eMajXmFj0kbzJNyG6SBwBguc2Wcg3eU2FJf7AmNJvmM2xWLt06C0CJpwCMWNzIO99kOvBK5n13BBQNYmjc8irNJe0NMBR2KIIgqg7Q-ai27wH4IKJy3sAROXpwPc_C6bT7aQ
     widthPx: 450
     heightPx: 450
     authorAttributions:
       - displayName: Sushi Garden
-        uri: https://maps.google.com/maps/contrib/103790123355785793230
+        uri: https://maps.google.com/maps/contrib/111455014612666130456
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjV8cOxYx95VfknEVxqbbk8INjIZJmVE6wpYOI9g2RnatvhXee0=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjXE2VjdLoflCvfGNB1Zx7NYgOc5goW-1bqcHTxa6IpmDtWkpTY=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNX8QXMNeukIQG5U_u4o_iZb0GBXX3Eh3ssOTmD&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOR4EShsoLsV1tpNqQx5TiAy3oXWpRjwvcfJ4wZ&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNX8QXMNeukIQG5U_u4o_iZb0GBXX3Eh3ssOTmD!2e10!4m2!3m1!1s0x86d674b3e86690b1:0x14e7fa374d90be30
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOR4EShsoLsV1tpNqQx5TiAy3oXWpRjwvcfJ4wZ!2e10!4m2!3m1!1s0x86d67025dd80035b:0xcbe6a35340a64f94
   - name: >-
-      places/ChIJsZBm6LN01oYRML6QTTf65xQ/photos/AeeoHcIxnqQ5ijQ2tdP_-M-XpjmV-vh9i7FpQx4iwXrvSwWYnM1XNNztENHombPdlRc5IENgbcCsir4tagi9gmZ3yUnh5k6Cj32Q1d0EEE_oN48-BwRL_50B3--jeZopRhIW6YLQxhGxqvBL0-BMGdZ6zu9AqtcllWCJkq9FKy0Hwk4v84wDklzASjo8DX0r-cCBf2cnD5a9USklt5AdeiFdN9tNyFG-dGmdkYsjjiXAEQB8qak0_6-Bmd10uUojTGw_PYfJJa7MB_RGFkAC0quoRd8z6Lh6lET4xePmdXrMaEyBdQ
+      places/ChIJWwOA3SVw1oYRlE-mQFOj5ss/photos/AeeoHcK3czKZX1ESAmBF_u7TIf_Hu5VOZSirHxSrt_vXmc5oma2rLvzZETp9ZKTksJRBf6U1_8QTvgsA4G-kF5K8kAPKLDQbAftHyQpCwUo5cMaD41Q-RJ-0Ll-LJbjLca1pL72SGJ2htuaq7bYx0na6I3BF-kC_2NDMJGhS2weoHO5r4c25KY1hElQ0aRY09drBmR-mlQSZ3flAH8N96OH-dGI8g0ysJX3Bx_Pgfwk6qQTAnPxGGhZAdzUNbzJ7Uo9Jfej-VNBX5yB5g0wUzSDe9rJklQzjaU_tJuuWDTc0iby8fw
     widthPx: 1280
     heightPx: 720
     authorAttributions:
       - displayName: Sushi Garden
-        uri: https://maps.google.com/maps/contrib/103790123355785793230
+        uri: https://maps.google.com/maps/contrib/111455014612666130456
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjV8cOxYx95VfknEVxqbbk8INjIZJmVE6wpYOI9g2RnatvhXee0=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjXE2VjdLoflCvfGNB1Zx7NYgOc5goW-1bqcHTxa6IpmDtWkpTY=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipO3nXRpAWIgEkMr5DvU5txz2qOhTR2kb2_Oz_H7&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipO_0NbfwKLv8BxjeVu9clVEzD4cqQQjK0obIef5&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipO3nXRpAWIgEkMr5DvU5txz2qOhTR2kb2_Oz_H7!2e10!4m2!3m1!1s0x86d674b3e86690b1:0x14e7fa374d90be30
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipO_0NbfwKLv8BxjeVu9clVEzD4cqQQjK0obIef5!2e10!4m2!3m1!1s0x86d67025dd80035b:0xcbe6a35340a64f94
   - name: >-
-      places/ChIJsZBm6LN01oYRML6QTTf65xQ/photos/AeeoHcK7GmUiIJzEkivCpywNDeMFvT3IK2RrdbeN7-sTAcBhg50HDd3mwGjT5mzntnD5Lh6vbvH1jpEreOsf0Ep9kcuIxomDAJdRdhRQ4cw0i5k56HNZfTjxRYOFpkmSPWK8ONg5Tzg2hrS9DyQReFqTd70FEAq1aDnD-DJQCtn6XojVjTH0JvFc5QJNBMlgxWx_v12D3dROx73WhsxwNsZtHZA0BOt2iV_wWq18yaWeNg_KEOAylkdDpbOEexy7JQBRPl_eCBWldKwZlB0r7z1tk_g2-jpXPYbxvvs_QMeL4jiLCw
+      places/ChIJWwOA3SVw1oYRlE-mQFOj5ss/photos/AeeoHcL1A3Jt1Lx-kUNHobMfFrUlS9qT0LPjOGsZQ1PUEZWHnXY0a37jYJEZsxIcRTh84sjM94TVHY-zA99pRLGcGhH8gKij8uzdW2XPRffftZRnPDzIlqZb1l5BvbVlC0ULy4wMeiX78FVMGYcDE2aVktQ8BV5SWnX1I8ZzpVtI15BAIP1BhUZh_EePkvCjvUW2-xQRRSz5wXKzDad49_B92yZcOtE1x6U36Dd2v2vHLrROg82hEbYXdFtFefsJRRgsbVv_fWwYTU0TUOaEoWsFpSoLXo3v3WKLNT7CX6QflIdYtuk-wOUasH4n0Oh0T1FG402Q312r7-VPtUl2UivuJjzwgWk1f-XMtSWU_sJThzw5YX3xafz56-Umv2CunxPfZ7pGYb_3C2j7ecqX9WeeBObiVzQgGlF0w1KAbEnJiYPhrkbf
+    widthPx: 4096
+    heightPx: 3072
+    authorAttributions:
+      - displayName: Aldo García
+        uri: https://maps.google.com/maps/contrib/107351128604752378953
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjU5GWaZkpVWRb03jGWN8HpLXZBLV6cAS4e26f8rNLfBeen_eaBF=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDjp_nJmQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDjp_nJmQE!2e10!4m2!3m1!1s0x86d67025dd80035b:0xcbe6a35340a64f94
+  - name: >-
+      places/ChIJWwOA3SVw1oYRlE-mQFOj5ss/photos/AeeoHcJmB8a5yazVJ1PPbR1PBsm4UdsWD4p-RZ85XAkCyLJB9CpFrzb5oCF6cPRHfEr14qwpjrNFZJW2chap5oiC0pX9YV1r-wDwAwYxQMMzS2LOcaLhiLLhL-lVkxOOgAHTvwrId7g_JyrCzl1Id0Ojlj8zGDjNwNMlhkr739XC2oVmSU-Rpm6JM58Kz7hfn5KxChql7_l8E9Wvn7BLe5tp2WgPKGYCZgFjAXkllvnj7md42zMipV5ZjU_kz9VWCZD12w6tnZXkqudYBaiCXEEH3mbPklB_vEe8jqsCl52qwQgC7A
     widthPx: 600
     heightPx: 600
     authorAttributions:
       - displayName: Sushi Garden
-        uri: https://maps.google.com/maps/contrib/103790123355785793230
+        uri: https://maps.google.com/maps/contrib/111455014612666130456
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjV8cOxYx95VfknEVxqbbk8INjIZJmVE6wpYOI9g2RnatvhXee0=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjXE2VjdLoflCvfGNB1Zx7NYgOc5goW-1bqcHTxa6IpmDtWkpTY=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNnLztl_-7AC2q5SHZHjNby-8vk_IajNyRKScyW&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNmUlLaHyuLhz0p9vlc5z9k8ZmWbrYME71yzBRM&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNnLztl_-7AC2q5SHZHjNby-8vk_IajNyRKScyW!2e10!4m2!3m1!1s0x86d674b3e86690b1:0x14e7fa374d90be30
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNmUlLaHyuLhz0p9vlc5z9k8ZmWbrYME71yzBRM!2e10!4m2!3m1!1s0x86d67025dd80035b:0xcbe6a35340a64f94
   - name: >-
-      places/ChIJsZBm6LN01oYRML6QTTf65xQ/photos/AeeoHcI-VtU7nu0ld6tcWoAFCkJOK7RS32p0Mdwpa-AXhkVG5PilVOAA3q_xwPlkAAI9uHJIjLv3itd-ppri0vO9w1C3YQsdhAJQSNEgMs8IRNPeWehuFCZ26dvPqEZ-S8HbCaH8lQIQBFnZ6j5158qUiJyMpVWAPzscg3_SCHSBf_LjmR6LyOXi9PIXQ78cxuFyovs0zFThsVRdwlvZ_wZB_9VI8ssflnlpj-OpSRsSqN-rIhiGjN-UYjbbKdglgYSYgHhnAOqKvLtaSNo-CDovUPoRsHieH4bKDdaz6p8lxdR1_g
-    widthPx: 1280
-    heightPx: 720
-    authorAttributions:
-      - displayName: Sushi Garden
-        uri: https://maps.google.com/maps/contrib/103790123355785793230
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjV8cOxYx95VfknEVxqbbk8INjIZJmVE6wpYOI9g2RnatvhXee0=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPuppjV_--aF-8N38R3ODt51eaiNIE4VG7eTUf-&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPuppjV_--aF-8N38R3ODt51eaiNIE4VG7eTUf-!2e10!4m2!3m1!1s0x86d674b3e86690b1:0x14e7fa374d90be30
-  - name: >-
-      places/ChIJsZBm6LN01oYRML6QTTf65xQ/photos/AeeoHcJHM0eICKz7pmY5mWjZCTlQ9MPJUUY35I30gTRyvV34N6jl3JqggJHR6yetJH57U0COZJy2dl3DeHMn0l9xECt9l3i48eVvG8iafoShZBSEfwX7RBF6W2KPE-851y2XuZEbEZEMXG1NebphLN-zRLHY_aDKuxb73wx5tqnNbvC-a2JNc-pXhjFXWir8dKLeIDCLPSCrPlGmMP1HTE-x2nqfWuPqG2n__kmm28ibFkmPOsjUeN-a70RgbjhCGonZlFeCRTZUnS0e_ogD5XYD1jtzFjgzY3Hr2relbdkuIzx1uQ
+      places/ChIJWwOA3SVw1oYRlE-mQFOj5ss/photos/AeeoHcKgmT0yGzZCIrQ1OjUL90wTXit_EPyN2Zzov710TrXE9SKF2aQRbmnNBrl04D5rteDWrVGh8I4FnN1XLnhacVvx5IzJGzCgOYdggQPhXIEbJL2idieVTq17mAMhP7NkMt6hK3yvrcl-Vg432uStK33h03PPYl8H-CB7lvwU_-OVAqkT5l2rw56IinRS06UVHUJELrr36VJBJsVEtJ2d_foF9B9num4CqWmxXRiBf221lsK0EqVRmavRD2dEptwD6h5p1ranh3oLAsi6CA8V-mkX0rTFOVl9FGQ-LmRRAn8C8Q
     widthPx: 500
     heightPx: 500
     authorAttributions:
       - displayName: Sushi Garden
-        uri: https://maps.google.com/maps/contrib/103790123355785793230
+        uri: https://maps.google.com/maps/contrib/111455014612666130456
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjV8cOxYx95VfknEVxqbbk8INjIZJmVE6wpYOI9g2RnatvhXee0=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjXE2VjdLoflCvfGNB1Zx7NYgOc5goW-1bqcHTxa6IpmDtWkpTY=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipM5gyNt5WyONjAqLR5msv7r1e0Ht8N8xV6A4niu&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNKw-3jaQsGSIx4NmSDljLajJYkh2B3JEevOnLs&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM5gyNt5WyONjAqLR5msv7r1e0Ht8N8xV6A4niu!2e10!4m2!3m1!1s0x86d674b3e86690b1:0x14e7fa374d90be30
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNKw-3jaQsGSIx4NmSDljLajJYkh2B3JEevOnLs!2e10!4m2!3m1!1s0x86d67025dd80035b:0xcbe6a35340a64f94
   - name: >-
-      places/ChIJsZBm6LN01oYRML6QTTf65xQ/photos/AeeoHcL_g_knRngarFxEzzTx9Cl2S7edIkR5B912SwrmMPx2JeeFvccNDY44IHWsYKLY6Kd2BpHCGhe_OBDIMn11ZyfOvFkdDxdsGRQ5Gh3q0FURG5PGmt-uouoiGR1ttxsxShLgVZRW_Ckw8W8QwPEC_J-NMkNjXzYXIQiJfs8GPjASE7gFVYlKTmKly5OVjgDl3pWdqjAUu6voyHeuU8dVLk6bjgJTIURZe8AO_ipD7vpuND4vKJ_3X05NI1yzE4SMOVwWMHhGAnkMHE-8KH7ufJ2IDc3QDFgnqQCoOTobRLe9iw
-    widthPx: 500
-    heightPx: 500
+      places/ChIJWwOA3SVw1oYRlE-mQFOj5ss/photos/AeeoHcJXbIshFE8BX2RgZ9LYIPLkvKrz2hhpS_XDyJE-sl4koU0hc37AuBt0kxhKXgr1zl7mQGTdfFWm4x6SOK0Qm7rndznZPlGrDOviZTDxNsTGj_KIuR0XVEZEMfQDe4qqD3Jznv0hiTJeQJLWBehet81YjNY59W34L9f2YbmnoMkDmaNCE1q71xYNTpRlCAWYYU6CVEA9N8oBZnhG_V_BxNmxm8phBAW14aUTdLlz13wR4wchbhEC4T7DxNw49LrpAlCUw0Ldktz-JzE_lkRV_4AWTZCQbxJhJV2cO9qAzYIXVA
+    widthPx: 450
+    heightPx: 450
     authorAttributions:
       - displayName: Sushi Garden
-        uri: https://maps.google.com/maps/contrib/103790123355785793230
+        uri: https://maps.google.com/maps/contrib/111455014612666130456
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjV8cOxYx95VfknEVxqbbk8INjIZJmVE6wpYOI9g2RnatvhXee0=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjXE2VjdLoflCvfGNB1Zx7NYgOc5goW-1bqcHTxa6IpmDtWkpTY=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipN0WEXQnq6V4QxAKv06lfPi0VLEUbV7zwqEgksc&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMgToxmQ1coKtBuknkl16OeHLWX3WT46eabbxQq&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipN0WEXQnq6V4QxAKv06lfPi0VLEUbV7zwqEgksc!2e10!4m2!3m1!1s0x86d674b3e86690b1:0x14e7fa374d90be30
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMgToxmQ1coKtBuknkl16OeHLWX3WT46eabbxQq!2e10!4m2!3m1!1s0x86d67025dd80035b:0xcbe6a35340a64f94
   - name: >-
-      places/ChIJsZBm6LN01oYRML6QTTf65xQ/photos/AeeoHcLRODcqGcypIckRiCLRbglf4eE9-u2Syz5BQN2oaGWdZ8xQBW3tKHOQosOtdGE4VCONkbcS54fTYu3laqCmAdGBITnRet9g2KTUZ_n0nPCmIVpAX-69gOctQQWkOzv-A-0iXdo76V_u0r2nmsuP5VND4l4o1VV4lfidNvCGPjlgRIO8f9sxaeW3FACkTmT-DUC1eccaePlX5TegobMnTm8VZTZqoMOJyBmxaMW9r05n27_O6SAhOCYnxjVlLY6AGHfulk4mID8ek8RYC-ycf9m7JhgJlM4vRCkGhTVsQVjdTw
-    widthPx: 400
-    heightPx: 400
-    authorAttributions:
-      - displayName: Sushi Garden
-        uri: https://maps.google.com/maps/contrib/103790123355785793230
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjV8cOxYx95VfknEVxqbbk8INjIZJmVE6wpYOI9g2RnatvhXee0=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipN003-w0AEAHgUA-tv9AzuGIhkdHHd5unjLKctX&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipN003-w0AEAHgUA-tv9AzuGIhkdHHd5unjLKctX!2e10!4m2!3m1!1s0x86d674b3e86690b1:0x14e7fa374d90be30
-  - name: >-
-      places/ChIJsZBm6LN01oYRML6QTTf65xQ/photos/AeeoHcI7dbtPT5r0wZ8BL3F4gt5Y1of0Pkc7jRjB5Q0Bp_Kg2YkExKLT3tJAU5kWgouMZ3xinqOZ_y8cQg9cIb8iFP_2l0LeLsX9NfoFErgasrFABSEWbibR9UUm7K74O7kANq27WCL4ux8RvKybbFr3MljMZvueUr78Q5jTfZFRjw7IzdFiCHIW2PH5Yy3fkSJB8GkdK04-l3PqI-k-RkuZ-JiAbFsPQpENYhNboyqtpTEta71Vh485EX6lYCW3JuDWp71WbibXVh3Z7jG6SURzxKtS6cWbC0oTAN7DRzYU6sauUQ
-    widthPx: 1280
+      places/ChIJWwOA3SVw1oYRlE-mQFOj5ss/photos/AeeoHcKfLW_hPCC3eeX_XSChcd00nf8-GcfxoV3l6u1RHvPn65PDawSnORnYHSkjWCRSTrw2qKg3P1LJuFDVz4copW9OlF1GKkqghJ7LSZVxoaZvJfYEQhmH2977JCCF-xNcM0nA-mcMoUWQawjO-suqaRqH-4ttmWWHHi--IxW2yBEXPDntXmnqKnNJtxJRJVOsdGGs51l8ykZqn2nxl__qoAr7rzqbGymhCxpG-mdLpsQJYiMBwTvogfHd_zS-IOOKPphpfov-vobWTd55Eta1ooiX9qGW0YSwedSmdU8Uawyzuw
+    widthPx: 1080
     heightPx: 720
     authorAttributions:
       - displayName: Sushi Garden
-        uri: https://maps.google.com/maps/contrib/103790123355785793230
+        uri: https://maps.google.com/maps/contrib/111455014612666130456
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjV8cOxYx95VfknEVxqbbk8INjIZJmVE6wpYOI9g2RnatvhXee0=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjXE2VjdLoflCvfGNB1Zx7NYgOc5goW-1bqcHTxa6IpmDtWkpTY=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPivWCo6vZIdC2g28SLVqS3Bhfqq9eaWgk9WVLh&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPQg_qiZY2CxfHvXlx08nTOqlkhxREe6U-lJZ_g&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPivWCo6vZIdC2g28SLVqS3Bhfqq9eaWgk9WVLh!2e10!4m2!3m1!1s0x86d674b3e86690b1:0x14e7fa374d90be30
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPQg_qiZY2CxfHvXlx08nTOqlkhxREe6U-lJZ_g!2e10!4m2!3m1!1s0x86d67025dd80035b:0xcbe6a35340a64f94
   - name: >-
-      places/ChIJsZBm6LN01oYRML6QTTf65xQ/photos/AeeoHcLfIqW4JrQEMMAbyOlT9dGeXVbDs3FRd1HKgFegLiL1FP3QRRbnbh7tKZBZ2WiPRDT_hL0tCRAPLR1zI-Ply9SsCB-Yd4wBTjZUZn7eIemI5Z_K49USEXc9ikBCORezPCl8nHyrABbGEK3TumjYQRHe5LkrBe0x58tCy1Ogo9Y1pHp4Fkob6VXyb1KFFry-A_Z7xqkqfM_J1xvaiNLNUBmz3eqlnnZmISGeUsZbgLpL0V6zFPoWWv_CziiOn_fLIPcfx0KL26nAFgE04_fR49QdC3oh0pu9qh1cgUO6LDXUhA
-    widthPx: 1280
-    heightPx: 720
+      places/ChIJWwOA3SVw1oYRlE-mQFOj5ss/photos/AeeoHcLL_eZQhik3Wp_0ORey2DV7_dF7eE9biIqxAdHFEK-drVuOcb6_K9J6Ggzw5a-g1fX6QrOl5iWETZ3eX9kYV7e8lbhRmFIMQv_9e8zLorQb_6x-rOzYVp-cFt9tVuAqKQf4xPax5ROjg7RC0dCTt8Fc5vM7G9bjsfRtkOtwhyed1BRCM9JS6_qXEd6DlXkXfTmrV9BC-Pp1RWDwMvfZ-lQkzpFvy4GGg-Puw_fYv-JQPV-g6vuXnSJC1k3Ij1aPwL_xa6qZeRwbL0WAUTMjMqmt1IgB9qZkGsr_V3hzvMoXwtdXID_mY6XQ5GSz0Hy33sYeMIUzbwIpkIWGdZFcaVO6fEuz8K1v4bE1JmsOwC_hdKFxb1nejNyKNuSnAd2nQw3-oQy1O1pdkRnG6oKHwLKm5D277WqOymR8HER2HgDAIQ
+    widthPx: 3000
+    heightPx: 2000
     authorAttributions:
-      - displayName: Sushi Garden
-        uri: https://maps.google.com/maps/contrib/103790123355785793230
+      - displayName: Steve Steinmetz
+        uri: https://maps.google.com/maps/contrib/102697527755882610286
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjV8cOxYx95VfknEVxqbbk8INjIZJmVE6wpYOI9g2RnatvhXee0=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjVyLY_rS-aG3Mm_cE8Y1rlq3Cyk0RZTd1zrvY8fV76TLyGPdjJB=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipM3oL_D4WrkZeQmRuvGvzZIjy0M9-TMADbd5C3h&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID4hNirfQ&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM3oL_D4WrkZeQmRuvGvzZIjy0M9-TMADbd5C3h!2e10!4m2!3m1!1s0x86d674b3e86690b1:0x14e7fa374d90be30
-address: 7475 N La Cholla Blvd Suite 422, Tucson, AZ 85741, USA
-street: 7475 N La Cholla Blvd Suite 422
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID4hNirfQ!2e10!4m2!3m1!1s0x86d67025dd80035b:0xcbe6a35340a64f94
+address: 3048 E Broadway Blvd, Tucson, AZ 85716, USA
+street: 3048 E Broadway Blvd
 city: Tucson
 state: AZ
-zip: '85741'
+zip: '85716'
 country: USA
-neighborhood: Federated Stores
-latitude: '32.342989'
-longitude: '-111.014232'
+neighborhood: Broadmoor-Broadway
+latitude: '32.221248'
+longitude: '-110.927043'
 accessibility_options:
   wheelchairAccessibleParking: true
   wheelchairAccessibleEntrance: true
@@ -160,14 +158,14 @@ business_status: OPERATIONAL
 name: Sushi Garden
 google_maps_links:
   directionsUri: >-
-    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x86d674b3e86690b1:0x14e7fa374d90be30!3e0
-  placeUri: https://maps.google.com/?cid=1506447715810197040
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x86d67025dd80035b:0xcbe6a35340a64f94!3e0
+  placeUri: https://maps.google.com/?cid=14692610412305076116
   writeAReviewUri: >-
-    https://www.google.com/maps/place//data=!4m3!3m2!1s0x86d674b3e86690b1:0x14e7fa374d90be30!12e1
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x86d67025dd80035b:0xcbe6a35340a64f94!12e1
   reviewsUri: >-
-    https://www.google.com/maps/place//data=!4m4!3m3!1s0x86d674b3e86690b1:0x14e7fa374d90be30!9m1!1b1
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x86d67025dd80035b:0xcbe6a35340a64f94!9m1!1b1
   photosUri: >-
-    https://www.google.com/maps/place//data=!4m3!3m2!1s0x86d674b3e86690b1:0x14e7fa374d90be30!10e5
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x86d67025dd80035b:0xcbe6a35340a64f94!10e5
 primary_type: Sushi Restaurant
 opening_hours:
   regular: null
@@ -185,7 +183,43 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Sushi Garden in Tucson, AZ$$$Sushi Garden in Tucson, AZ, stands out
+  as a vibrant Japanese restaurant and sushi bar nestled in the
+  Broadmoor-Broadway neighborhood, offering a fresh take on authentic flavors
+  for sushi enthusiasts. This spot delights visitors with its all-you-can-eat
+  options, featuring a variety of creative rolls and traditional Japanese dishes
+  that cater to diverse tastes. The welcoming atmosphere is enhanced by
+  thoughtful accessibility features, making it easy for everyone to enjoy a meal
+  in a comfortable setting. Whether you're seeking a casual dine-in experience
+  or exploring top sushi restaurants in the area, Sushi Garden provides a
+  satisfying blend of quality ingredients and inviting ambiance that keeps
+  locals coming back.
+generative_summary: >-
+  Discover Sushi Garden in Tucson, AZ$$$Sushi Garden in Tucson, AZ, stands out
+  as a vibrant Japanese restaurant and sushi bar nestled in the
+  Broadmoor-Broadway neighborhood, offering a fresh take on authentic flavors
+  for sushi enthusiasts. This spot delights visitors with its all-you-can-eat
+  options, featuring a variety of creative rolls and traditional Japanese dishes
+  that cater to diverse tastes. The welcoming atmosphere is enhanced by
+  thoughtful accessibility features, making it easy for everyone to enjoy a meal
+  in a comfortable setting. Whether you're seeking a casual dine-in experience
+  or exploring top sushi restaurants in the area, Sushi Garden provides a
+  satisfying blend of quality ingredients and inviting ambiance that keeps
+  locals coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors often highlight the impressive range of
+  sushi rolls and other Japanese favorites like hearty yakisoba and flavorful
+  udon soup, making it a go-to for those craving variety. The service stands out
+  for its friendly and attentive approach, creating a welcoming vibe that's
+  ideal for celebrations or casual get-togethers. While some folks mention that
+  prices can lean toward the higher end, many agree the value shines through in
+  the fresh preparations and generous portions. Overall, it's a solid pick for
+  anyone hunting for reliable sushi spots nearby, with the positives far
+  outweighing any minor drawbacks to deliver a genuinely enjoyable experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +245,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

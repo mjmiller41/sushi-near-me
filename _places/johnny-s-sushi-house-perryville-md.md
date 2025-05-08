@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Johnny's Sushi House"
+title: Johnny's Sushi House
 permalink: /maryland/perryville/johnny-s-sushi-house.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Perryville
 seo:
-  name: "Johnny's Sushi House"
-  type: Restaurant
+  type: restaurant
   links: http://johnnysushihouse.com/
-description: "Johnny's Sushi House serves delicious sushi in Perryville, Maryland. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJVY84EZa4x4kRlIgSf5x2rdA
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c7b89611388f55:0xd0ad769c7f128894!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 13
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 15
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 15
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 15
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:00 AM – 9:15 PM'
     - 'Wednesday: 11:00 AM – 9:15 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:30 PM'
     - 'Saturday: 12:00 – 9:30 PM'
     - 'Sunday: 1:00 – 8:30 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:00 AM – 9:15 PM'
-    - 'Wednesday: 11:00 AM – 9:15 PM'
-    - 'Thursday: 11:00 AM – 9:15 PM'
-    - 'Friday: 11:00 AM – 9:30 PM'
-    - 'Saturday: 12:00 – 9:30 PM'
-    - 'Sunday: 1:00 – 8:30 PM'
+  nextCloseTime: '2025-05-04T01:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +238,48 @@ phone: (410) 642-0009
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.6'
-rating_count: 0
+rating_count: 1460
 website: http://johnnysushihouse.com/
+description: >-
+  About Johnny's Sushi House in Perryville, MD$$$Johnny's Sushi House in
+  Perryville, MD, stands out as a casual spot for fresh sushi and flavorful
+  Asian-inspired dishes, blending traditional rolls with options like
+  citrus-glazed chicken favorites. This welcoming sushi restaurant near you
+  features a comfortable setting with accessible entrances and seating, making
+  it easy for everyone to enjoy a meal. Patrons can savor a variety of top-rated
+  sushi selections alongside hearty noodle bowls, all prepared with quality
+  ingredients that highlight the best of Japanese and Chinese influences. With
+  moderate pricing and convenient hours, it's an ideal choice for those
+  exploring sushi places near me looking for a relaxed dining experience. The
+  spot's vibrant atmosphere and efficient service add to its appeal as a go-to
+  option among local sushi restaurants.
+generative_summary: >-
+  About Johnny's Sushi House in Perryville, MD$$$Johnny's Sushi House in
+  Perryville, MD, stands out as a casual spot for fresh sushi and flavorful
+  Asian-inspired dishes, blending traditional rolls with options like
+  citrus-glazed chicken favorites. This welcoming sushi restaurant near you
+  features a comfortable setting with accessible entrances and seating, making
+  it easy for everyone to enjoy a meal. Patrons can savor a variety of top-rated
+  sushi selections alongside hearty noodle bowls, all prepared with quality
+  ingredients that highlight the best of Japanese and Chinese influences. With
+  moderate pricing and convenient hours, it's an ideal choice for those
+  exploring sushi places near me looking for a relaxed dining experience. The
+  spot's vibrant atmosphere and efficient service add to its appeal as a go-to
+  option among local sushi restaurants.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Folks who visit this sushi spot often highlight
+  the delicious variety of bento boxes and noodle dishes that make every bite
+  satisfying and full of flavor. Many appreciate the generous portions and
+  standout items like creative rolls, which add a fun twist to classic favorites
+  without overwhelming the palate. The friendly team and smooth ordering process
+  keep things easy and enjoyable, especially for groups or families stopping by
+  for a casual meal. Overall, it's frequently noted as a solid pick for anyone
+  seeking reliable, tasty options in a welcoming environment. If you're on the
+  hunt for top-rated sushi nearby, this place tends to deliver a positive
+  experience that keeps diners coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +305,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kuma Sushi Noodles & Bar"
+title: Kuma Sushi Noodles & Bar
 permalink: /virginia/charlottesville/kuma-sushi-noodles-bar.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Charlottesville
 seo:
-  name: "Kuma Sushi Noodles & Bar"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Kuma Sushi Noodles & Bar serves delicious sushi in Charlottesville, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJP5mmZUiGs4kR-Ui1EX2jWyI
 photos:
   - name: >-
@@ -183,6 +181,33 @@ price_range: $10 &ndash; $20
 rating: '4.3'
 rating_count: 0
 website: null
+description: >-
+  Discover Kuma Sushi in Charlottesville, VA$$$Kuma Sushi Noodles & Bar in
+  Charlottesville, VA, offers a delightful mix of Asian cuisine that highlights
+  fresh sushi and comforting Korean specialties, making it a go-to spot for
+  those seeking top-rated sushi options nearby. This inviting restaurant
+  features a menu with flavorful dishes like bibimbap and ramen, served in a
+  relaxed setting that's perfect for casual dining or quick meals. Accessibility
+  is a key plus, with wheelchair-friendly entrances and restrooms ensuring
+  everyone can enjoy the experience. The moderate price range provides great
+  value for authentic flavors, appealing to anyone exploring Japanese places
+  near me. Whether you're in the mood for expertly prepared rolls or hearty
+  noodle bowls, this spot delivers a comfortable atmosphere that enhances the
+  overall meal.
+generative_summary: >-
+  Discover Kuma Sushi in Charlottesville, VA$$$Kuma Sushi Noodles & Bar in
+  Charlottesville, VA, offers a delightful mix of Asian cuisine that highlights
+  fresh sushi and comforting Korean specialties, making it a go-to spot for
+  those seeking top-rated sushi options nearby. This inviting restaurant
+  features a menu with flavorful dishes like bibimbap and ramen, served in a
+  relaxed setting that's perfect for casual dining or quick meals. Accessibility
+  is a key plus, with wheelchair-friendly entrances and restrooms ensuring
+  everyone can enjoy the experience. The moderate price range provides great
+  value for authentic flavors, appealing to anyone exploring Japanese places
+  near me. Whether you're in the mood for expertly prepared rolls or hearty
+  noodle bowls, this spot delivers a comfortable atmosphere that enhances the
+  overall meal.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJP5mmZUiGs4kR-Ui1EX2jWyI/reviews/ChZDSUhNMG9nS0VJQ0FnTURnaDRLV1NnEAE
@@ -352,6 +377,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNBek1DR2xBRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNBek1DR2xBRRAB!2m1!1s0x89b3864865a6993f:0x225ba37d11b548f9
+review_summary: >-
+  What Customers Are Saying$$$Folks visiting this sushi spot often highlight the
+  tasty Korean-inspired dishes and well-balanced sushi as standout features,
+  with many appreciating the convenient location close to local attractions.
+  While some mention occasional inconsistencies in flavor that keep things from
+  being perfect every time, the general vibe remains welcoming and relaxed,
+  making it easy to enjoy a meal with friends or family. Reviewers frequently
+  praise the solid portions and variety, like the bento boxes and takoyaki,
+  which add to its appeal as one of the best sushi restaurants around. Overall,
+  it's a reliable choice for a satisfying dine-in experience, with the friendly
+  service and affordable prices earning high marks from satisfied diners. If
+  you're on the hunt for sushi close to me, this place tends to deliver a
+  positive outing despite minor hiccups.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   valetParking: false
 payment_options:
@@ -382,7 +421,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Ten"
+title: Sushi Ten
 permalink: /ohio/columbus/sushi-ten.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Columbus
 seo:
-  name: "Sushi Ten"
-  type: Restaurant
+  type: restaurant
   links: https://sushiten.japanmarketplace.com/
-description: "Market-based sushi spot with an extensive menu of raw fish & rolls plus poke, edamame & miso soup. Sushi Ten serves delicious sushi in Columbus, Ohio. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJk2BtvaSNOIgRLlLzt9uNiHs
 photos:
   - name: >-
@@ -184,6 +182,33 @@ price_range: $10 &ndash; $20
 rating: '4.7'
 rating_count: 0
 website: https://sushiten.japanmarketplace.com/
+description: >-
+  Explore Sushi Ten in Columbus, OH$$$Sushi Ten in Columbus, OH, stands out as a
+  vibrant sushi restaurant offering an extensive array of fresh rolls, poke, and
+  classic Japanese dishes that cater to a variety of tastes. This spot
+  emphasizes market-fresh ingredients and customizable options, making it a
+  go-to choice for those seeking top-rated sushi near me in a welcoming
+  environment. With its moderate pricing and accessibility features like
+  wheelchair-friendly entrances, it's ideal for families or groups looking for
+  authentic Japanese flavors without the hassle. The menu includes
+  vegetarian-friendly choices and quick takeout services, perfect for busy days
+  when you're craving sushi restaurants close to me. Whether you're in the mood
+  for edamame or miso soup, Sushi Ten delivers a satisfying experience that
+  highlights the best of Japanese cuisine in the area.
+generative_summary: >-
+  Explore Sushi Ten in Columbus, OH$$$Sushi Ten in Columbus, OH, stands out as a
+  vibrant sushi restaurant offering an extensive array of fresh rolls, poke, and
+  classic Japanese dishes that cater to a variety of tastes. This spot
+  emphasizes market-fresh ingredients and customizable options, making it a
+  go-to choice for those seeking top-rated sushi near me in a welcoming
+  environment. With its moderate pricing and accessibility features like
+  wheelchair-friendly entrances, it's ideal for families or groups looking for
+  authentic Japanese flavors without the hassle. The menu includes
+  vegetarian-friendly choices and quick takeout services, perfect for busy days
+  when you're craving sushi restaurants close to me. Whether you're in the mood
+  for edamame or miso soup, Sushi Ten delivers a satisfying experience that
+  highlights the best of Japanese cuisine in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJk2BtvaSNOIgRLlLzt9uNiHs/reviews/ChdDSUhNMG9nS0VJQ0FnSURiLXFxQ3h3RRAB
@@ -359,6 +384,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUR3NnJQeWlnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUR3NnJQeWlnRRAB!2m1!1s0x88388da4bd6d6093:0x7b888ddbb7f3522e
+review_summary: >-
+  What Visitors Love About the Reviews$$$Folks often rave about the fresh and
+  flavorful sushi rolls at this spot, noting how the ingredients feel top-notch
+  and generously portioned for the price. Many appreciate the ability to
+  customize orders, which adds a fun twist to enjoying everything from spicy
+  salmon to shrimp tempura without breaking the bank. It's clear that the value
+  stands out, with comments highlighting quick service and reasonable waits for
+  meals that taste homemade and authentic. Overall, people find it a solid pick
+  for takeout or a casual bite, especially if you're exploring the best sushi
+  near me and want something reliable. While the space is more suited for
+  grab-and-go, the positive vibes around freshness and variety keep the feedback
+  upbeat and encouraging for anyone stopping by.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -389,8 +427,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Market-based sushi spot with an extensive menu of raw fish & rolls plus poke,
   edamame & miso soup.
 

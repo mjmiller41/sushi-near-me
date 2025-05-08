@@ -5,4 +5,5 @@ permalink: /michigan/birmingham/
 stateAbbr: MI
 stateName: Michigan
 cityName: Birmingham
+
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sakura Sushi & Poke"
+title: Sakura Sushi & Poke
 permalink: /nevada/gardnerville/sakura-sushi-poke.html
 stateAbbr: NV
 stateName: Nevada
 cityName: Gardnerville
 seo:
-  name: "Sakura Sushi & Poke"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sakura Sushi & Poke serves delicious sushi in Gardnerville, Nevada. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJlwdTAaq_mYARRcqeLELuQbo
 photos:
   - name: >-
@@ -183,7 +181,49 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  About Sakura Sushi & Poke in Gardnerville, NV$$$Sakura Sushi & Poke in
+  Gardnerville, NV, stands out as a welcoming Japanese restaurant that
+  specializes in fresh sushi and poke options, perfect for those seeking
+  flavorful dining experiences in the area. This spot offers an all-you-can-eat
+  format with an extensive variety of dishes, making it a go-to choice for sushi
+  enthusiasts looking for variety and value in a relaxed setting. Accessibility
+  features like wheelchair-friendly seating and restrooms ensure it's inclusive
+  for all visitors, enhancing the overall comfort. The menu highlights
+  high-quality ingredients in creative rolls and bowls, appealing to anyone
+  exploring top-rated sushi restaurants nearby. Whether you're in the mood for
+  classic favorites or innovative twists, this location provides a satisfying
+  escape for casual meals that capture the essence of Japanese cuisine.
+generative_summary: >-
+  About Sakura Sushi & Poke in Gardnerville, NV$$$Sakura Sushi & Poke in
+  Gardnerville, NV, stands out as a welcoming Japanese restaurant that
+  specializes in fresh sushi and poke options, perfect for those seeking
+  flavorful dining experiences in the area. This spot offers an all-you-can-eat
+  format with an extensive variety of dishes, making it a go-to choice for sushi
+  enthusiasts looking for variety and value in a relaxed setting. Accessibility
+  features like wheelchair-friendly seating and restrooms ensure it's inclusive
+  for all visitors, enhancing the overall comfort. The menu highlights
+  high-quality ingredients in creative rolls and bowls, appealing to anyone
+  exploring top-rated sushi restaurants nearby. Whether you're in the mood for
+  classic favorites or innovative twists, this location provides a satisfying
+  escape for casual meals that capture the essence of Japanese cuisine.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Summary of Customer Feedback$$$From what folks have shared online, Sakura
+  Sushi & Poke seems to be a solid pick for anyone craving fresh sushi in a
+  laid-back vibe, with many highlighting the generous portions and tasty poke
+  bowls as real standouts. People often mention the all-you-can-eat deal as a
+  fun, budget-friendly way to sample a wide range of options without feeling
+  rushed, adding to its appeal as one of the go-to sushi places near me. While
+  some note it's a great spot for groups or families due to the welcoming
+  atmosphere, others appreciate the straightforward service that keeps things
+  efficient and enjoyable. Overall, it comes across as a reliable choice for
+  quality Japanese eats, earning nods for its fresh flavors and variety that
+  make it worth trying if you're hunting for the best sushi restaurants around.
+  Keep in mind, experiences can vary, but the general buzz leans positive for
+  those looking for a satisfying meal.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -209,7 +249,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

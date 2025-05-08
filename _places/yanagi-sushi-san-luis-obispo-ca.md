@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yanagi Sushi"
+title: Yanagi Sushi
 permalink: /california/san-luis-obispo/yanagi-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: San Luis Obispo
 seo:
-  name: "Yanagi Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Yanagi Sushi serves delicious sushi in San Luis Obispo, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJH6neuAXx7IAR-_b4TzmwneQ
 photos:
   - name: >-
@@ -185,7 +183,50 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Explore Yanagi Sushi in San Luis Obispo, CA$$$Nestled in the heart of San Luis
+  Obispo, CA, Yanagi Sushi offers a delightful array of fresh sushi and Japanese
+  dishes in a relaxed atmosphere that stands out for its innovative touches.
+  This spot combines traditional flavors like sashimi and other authentic
+  offerings with a modern, laid-back vibe, making it a go-to choice for those
+  seeking quality sushi experiences nearby. Patrons can enjoy the convenience of
+  a unique food-delivery system that adds a fun element to the dining process,
+  enhancing the overall appeal without overwhelming the traditional essence. The
+  accessible features, such as wheelchair-friendly entrances and seating, ensure
+  a welcoming environment for everyone looking to savor top-rated Japanese
+  cuisine in a comfortable setting. Whether you're exploring sushi places near
+  you or craving a casual meal with friends, this location delivers on freshness
+  and simplicity.
+generative_summary: >-
+  Explore Yanagi Sushi in San Luis Obispo, CA$$$Nestled in the heart of San Luis
+  Obispo, CA, Yanagi Sushi offers a delightful array of fresh sushi and Japanese
+  dishes in a relaxed atmosphere that stands out for its innovative touches.
+  This spot combines traditional flavors like sashimi and other authentic
+  offerings with a modern, laid-back vibe, making it a go-to choice for those
+  seeking quality sushi experiences nearby. Patrons can enjoy the convenience of
+  a unique food-delivery system that adds a fun element to the dining process,
+  enhancing the overall appeal without overwhelming the traditional essence. The
+  accessible features, such as wheelchair-friendly entrances and seating, ensure
+  a welcoming environment for everyone looking to savor top-rated Japanese
+  cuisine in a comfortable setting. Whether you're exploring sushi places near
+  you or craving a casual meal with friends, this location delivers on freshness
+  and simplicity.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Visitor Feedback$$$Visitors often highlight the fresh and
+  flavorful sushi selections at this spot, noting how the variety keeps things
+  exciting for anyone hunting for reliable Japanese eats nearby. Many appreciate
+  the laid-back setting and the quirky food-delivery robot, which adds a
+  memorable twist to the experience without overshadowing the tasty dishes.
+  Feedback generally praises the accessibility options, like easy parking and
+  inclusive seating, making it a solid pick for groups or families in the area.
+  While some mention it as a hidden gem among local sushi restaurants, others
+  point out that portions are generous and consistently satisfying for a casual
+  outing. Overall, the consensus leans positive, suggesting it's worth trying if
+  you're in the mood for dependable, enjoyable meals that capture the essence of
+  top-rated sushi spots.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +252,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

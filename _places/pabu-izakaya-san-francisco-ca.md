@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "PABU Izakaya"
+title: PABU Izakaya
 permalink: /california/san-francisco/pabu-izakaya.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
 seo:
-  name: "PABU Izakaya"
-  type: Restaurant
+  type: restaurant
   links: https://theminagroup.com/restaurants/pabu-izakaya/
-description: "A sleek space with a buzzy ambiance, this high-end spot offers classic Japanese cuisine in style. PABU Izakaya serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ44TmfmGAhYARtt8NOeJ9kLo
 photos:
   - name: >-
@@ -184,6 +182,33 @@ price_range: $100 &ndash; & up
 rating: '4.3'
 rating_count: 0
 website: https://theminagroup.com/restaurants/pabu-izakaya/
+description: >-
+  Discover PABU Izakaya in San Francisco, CA$$$Nestled in the heart of San
+  Francisco, CA, PABU Izakaya stands out as a premier spot for authentic
+  Japanese dining, featuring an elegant atmosphere that blends modern vibes with
+  traditional flavors. This upscale restaurant delights guests with a menu
+  highlighting robata-grilled meats, fresh sushi options, and a curated sake
+  selection, making it a go-to choice for those seeking top-rated sushi
+  experiences in the area. The sleek interior and attentive service enhance the
+  overall enjoyment, while accessibility features like wheelchair-friendly
+  entrances ensure a welcoming visit for all. Whether you're exploring sushi
+  places near you or craving Japanese specialties, this venue offers a
+  sophisticated setting that pairs quality ingredients with a lively energy,
+  ideal for intimate dinners or group outings.
+generative_summary: >-
+  Discover PABU Izakaya in San Francisco, CA$$$Nestled in the heart of San
+  Francisco, CA, PABU Izakaya stands out as a premier spot for authentic
+  Japanese dining, featuring an elegant atmosphere that blends modern vibes with
+  traditional flavors. This upscale restaurant delights guests with a menu
+  highlighting robata-grilled meats, fresh sushi options, and a curated sake
+  selection, making it a go-to choice for those seeking top-rated sushi
+  experiences in the area. The sleek interior and attentive service enhance the
+  overall enjoyment, while accessibility features like wheelchair-friendly
+  entrances ensure a welcoming visit for all. Whether you're exploring sushi
+  places near you or craving Japanese specialties, this venue offers a
+  sophisticated setting that pairs quality ingredients with a lively energy,
+  ideal for intimate dinners or group outings.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ44TmfmGAhYARtt8NOeJ9kLo/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJMkt6cmpRRRAB
@@ -399,6 +424,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNfX3RxNVB3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNfX3RxNVB3EAE!2m1!1s0x808580617ee684e3:0xba907de2390ddfb6
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors often rave about the fresh and
+  flavorful sushi selections at this popular spot, noting how dishes like rolls
+  and grilled options leave a lasting impression without overwhelming the
+  palate. Many appreciate the friendly service and vibrant atmosphere that make
+  every meal feel special, even if the prices lean towards the higher end for a
+  satisfying experience. Folks frequently mention the creative cocktails and
+  overall quality of the food as highlights, helping to create memorable
+  evenings for couples or friends. While some point out that portions might not
+  always satisfy larger appetites, the consensus leans positive, with diners
+  feeling it's worth trying for anyone hunting for the best sushi near them.
+  Overall, this place maintains a fun and approachable vibe that keeps guests
+  coming back for more Japanese-inspired treats in a stylish setting.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidStreetParking: true
 payment_options:
@@ -429,8 +468,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   A sleek space with a buzzy ambiance, this high-end spot offers classic
   Japanese cuisine in style.
 

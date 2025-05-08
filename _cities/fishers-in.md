@@ -5,4 +5,5 @@ permalink: /indiana/fishers/
 stateAbbr: IN
 stateName: Indiana
 cityName: Fishers
+
 ---

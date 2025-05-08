@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kitchen Aloha"
+title: Kitchen Aloha
 permalink: /california/san-francisco/kitchen-aloha.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
 seo:
-  name: "Kitchen Aloha"
-  type: Restaurant
+  type: restaurant
   links: http://www.kitchenalohasf.com/
-description: "Kitchen Aloha serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJXwQ8sESBhYARyMd5DM6PIyU
 photos:
   - name: >-
@@ -184,6 +182,31 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 0
 website: http://www.kitchenalohasf.com/
+description: >-
+  Discover Kitchen Aloha in San Francisco$$$Kitchen Aloha in San Francisco, CA,
+  stands out as a casual spot blending Hawaiian and Japanese flavors into
+  delightful small plates of comfort food. This sushi restaurant offers fresh,
+  affordable options that highlight vibrant ingredients and thoughtful
+  preparations, making it a go-to choice for those seeking a relaxed dining
+  experience. With accessible features like wheelchair-friendly entrances and
+  seating, it's designed to welcome everyone looking for a satisfying meal.
+  Patrons can enjoy a variety of dishes that evoke the essence of Japanese
+  cuisine, perfect for anyone exploring sushi places near me in a lively urban
+  setting. The spot's approachable vibe and solid menu selections add to its
+  appeal for those in search of top-rated sushi in the area.
+generative_summary: >-
+  Discover Kitchen Aloha in San Francisco$$$Kitchen Aloha in San Francisco, CA,
+  stands out as a casual spot blending Hawaiian and Japanese flavors into
+  delightful small plates of comfort food. This sushi restaurant offers fresh,
+  affordable options that highlight vibrant ingredients and thoughtful
+  preparations, making it a go-to choice for those seeking a relaxed dining
+  experience. With accessible features like wheelchair-friendly entrances and
+  seating, it's designed to welcome everyone looking for a satisfying meal.
+  Patrons can enjoy a variety of dishes that evoke the essence of Japanese
+  cuisine, perfect for anyone exploring sushi places near me in a lively urban
+  setting. The spot's approachable vibe and solid menu selections add to its
+  appeal for those in search of top-rated sushi in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJXwQ8sESBhYARyMd5DM6PIyU/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRaGNUY093EAE
@@ -329,6 +352,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNRcDVpdFNnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNRcDVpdFNnEAE!2m1!1s0x80858144b03c045f:0x25238fce0c79c7c8
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors often rave about the fresh
+  ingredients and generous portions at this sushi restaurant, noting that the
+  bowls and plates deliver great value without breaking the bank. Many highlight
+  the friendly service and tasty options like poke bowls, which make for a
+  satisfying and affordable meal in a casual atmosphere. While most experiences
+  lean positive with praise for the overall quality and variety, a few mentions
+  point to inconsistencies in temperature or flavor that could vary by visit.
+  Overall, it's a solid pick for anyone hunting for sushi near me, with the
+  majority agreeing that the spot hits the mark for quick, enjoyable eats. If
+  you're in the mood for Japanese-inspired comfort food, this place tends to
+  deliver a welcoming vibe that keeps folks coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   valetParking: false
 payment_options:
@@ -359,7 +395,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

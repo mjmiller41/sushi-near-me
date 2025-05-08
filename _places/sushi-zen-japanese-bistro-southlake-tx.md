@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Zen Japanese Bistro"
+title: Sushi Zen Japanese Bistro
 permalink: /texas/southlake/sushi-zen-japanese-bistro.html
 stateAbbr: TX
 stateName: Texas
 cityName: Southlake
 seo:
-  name: "Sushi Zen Japanese Bistro"
-  type: Restaurant
-  links: null
-description: "Sushi Zen Japanese Bistro serves delicious sushi in Southlake, Texas. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.gosushizen.com/
 place_id: ChIJGRKaocHUTYYRuLKalEEtD44
 photos:
   - name: >-
@@ -170,8 +168,113 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x864dd4c1a19a1219:0x8e0f2d41949ab2b8!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 2:30 PM, 5:00 – 10:00 PM'
+    - 'Tuesday: 11:00 AM – 2:30 PM, 5:00 – 10:00 PM'
+    - 'Wednesday: 11:00 AM – 2:30 PM, 5:00 – 10:00 PM'
+    - 'Thursday: 11:00 AM – 2:30 PM, 5:00 – 10:00 PM'
+    - 'Friday: 11:00 AM – 2:30 PM, 5:00 – 10:30 PM'
+    - 'Saturday: 11:30 AM – 10:30 PM'
+    - 'Sunday: 11:30 AM – 9:30 PM'
+  nextCloseTime: '2025-05-04T03:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +282,51 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (817) 749-0900
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.7'
+rating_count: 1375
+website: http://www.gosushizen.com/
+description: >-
+  Discover Sushi Zen in Southlake, TX$$$Sushi Zen Japanese Bistro in Southlake,
+  TX, stands out as a welcoming spot for enjoying authentic Japanese flavors in
+  a relaxed setting. This casual eatery features a diverse selection of dishes,
+  including fresh sushi options and other traditional fare, making it a go-to
+  choice for those seeking quality Japanese dining nearby. With its convenient
+  location and accessible features like wheelchair-friendly entrances, it caters
+  to a wide range of visitors looking for an easy and enjoyable meal. The menu
+  highlights a variety of options that balance taste and affordability, ideal
+  for anyone exploring top-rated sushi restaurants in the area. Operating with
+  extended hours, it provides a reliable option for lunch specials or evening
+  dinners that keep the focus on fresh, flavorful experiences.
+generative_summary: >-
+  Discover Sushi Zen in Southlake, TX$$$Sushi Zen Japanese Bistro in Southlake,
+  TX, stands out as a welcoming spot for enjoying authentic Japanese flavors in
+  a relaxed setting. This casual eatery features a diverse selection of dishes,
+  including fresh sushi options and other traditional fare, making it a go-to
+  choice for those seeking quality Japanese dining nearby. With its convenient
+  location and accessible features like wheelchair-friendly entrances, it caters
+  to a wide range of visitors looking for an easy and enjoyable meal. The menu
+  highlights a variety of options that balance taste and affordability, ideal
+  for anyone exploring top-rated sushi restaurants in the area. Operating with
+  extended hours, it provides a reliable option for lunch specials or evening
+  dinners that keep the focus on fresh, flavorful experiences.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Folks who stop by this Japanese spot often rave
+  about the tasty bento boxes and fresh sushi rolls that hit the spot without
+  breaking the bank, especially during lunch hours. Many appreciate the
+  attentive service that makes the atmosphere feel lively yet comfortable,
+  perfect for casual get-togethers or solo visits. Reviewers frequently mention
+  the reasonable prices and solid portions, adding to the appeal for anyone
+  hunting for reliable sushi places nearby. Overall, the feedback paints a
+  picture of a welcoming vibe where the food consistently delivers on freshness
+  and flavor, making it a solid pick for those in the mood for Japanese cuisine.
+  While opinions vary, the general consensus leans positive, highlighting it as
+  a dependable choice for satisfying meals in a friendly environment.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +352,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

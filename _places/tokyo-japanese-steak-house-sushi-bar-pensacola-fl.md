@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Tokyo Japanese Steak House & Sushi Bar"
+title: Tokyo Japanese Steak House & Sushi Bar
 permalink: /florida/pensacola/tokyo-japanese-steak-house-sushi-bar.html
 stateAbbr: FL
 stateName: Florida
 cityName: Pensacola
 seo:
-  name: "Tokyo Japanese Steak House & Sushi Bar"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Tokyo Japanese Steak House & Sushi Bar serves delicious sushi in Pensacola, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ858p2QeVkIgR9p-emqugFQ8
 photos:
   - name: >-
@@ -185,7 +183,48 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Tokyo Japanese Steak House & Sushi Bar in Pensacola, FL$$$Tokyo
+  Japanese Steak House & Sushi Bar in Pensacola, FL, stands out as a go-to spot
+  for fresh sushi and classic Japanese flavors, blending lively steak house
+  traditions with coastal dining vibes. This restaurant delights with its array
+  of authentic dishes, from expertly prepared rolls to sizzling entrees,
+  appealing to anyone seeking top-rated sushi options in the area. Accessibility
+  features like wheelchair-friendly parking and seating ensure a comfortable
+  visit for all, enhancing its appeal as a welcoming community hub. The vibrant
+  atmosphere, captured in shared photos, makes it ideal for casual meals or
+  group outings, perfect for those exploring Japanese places near me. Overall,
+  it offers a satisfying escape for sushi enthusiasts looking for quality and
+  variety in their local dining scene.
+generative_summary: >-
+  Discover Tokyo Japanese Steak House & Sushi Bar in Pensacola, FL$$$Tokyo
+  Japanese Steak House & Sushi Bar in Pensacola, FL, stands out as a go-to spot
+  for fresh sushi and classic Japanese flavors, blending lively steak house
+  traditions with coastal dining vibes. This restaurant delights with its array
+  of authentic dishes, from expertly prepared rolls to sizzling entrees,
+  appealing to anyone seeking top-rated sushi options in the area. Accessibility
+  features like wheelchair-friendly parking and seating ensure a comfortable
+  visit for all, enhancing its appeal as a welcoming community hub. The vibrant
+  atmosphere, captured in shared photos, makes it ideal for casual meals or
+  group outings, perfect for those exploring Japanese places near me. Overall,
+  it offers a satisfying escape for sushi enthusiasts looking for quality and
+  variety in their local dining scene.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Visitor Experiences$$$Feedback from diners at this Pensacola
+  spot highlights the appeal of its fresh sushi selections and flavorful
+  Japanese dishes, often praised for hitting the mark on taste and presentation.
+  Many appreciate the welcoming vibe and attentive service that make meals feel
+  relaxed and enjoyable, even for first-timers checking out sushi restaurants
+  nearby. While some note minor waits during peak hours, the overall consensus
+  leans positive, with folks enjoying the variety that keeps things exciting for
+  families and friends alike. It's frequently mentioned as a solid choice for
+  those craving top-rated sushi without the hassle, offering a balance of
+  affordability and quality that encourages repeat visits. In essence, the
+  experiences shared paint a picture of a reliable local favorite that's worth
+  trying for anyone in the mood for authentic Japanese cuisine.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +250,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

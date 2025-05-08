@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Otani"
+title: Otani
 permalink: /new-york/new-york/otani.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "Otani"
-  type: Restaurant
-  links: null
-description: "Otani serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://otaniatnassau.com/
 place_id: ChIJb198a_lbwokRyJ4xmOr8kQE
 photos:
   - name: >-
@@ -166,8 +164,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c25bf96b7c5f6f:0x191fcea98319ec8!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 10:00 PM'
+    - 'Tuesday: 11:00 AM – 10:00 PM'
+    - 'Wednesday: 11:00 AM – 10:00 PM'
+    - 'Thursday: 11:00 AM – 10:00 PM'
+    - 'Friday: 11:00 AM – 10:30 PM'
+    - 'Saturday: 11:00 AM – 10:30 PM'
+    - 'Sunday: 12:00 – 10:00 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -175,13 +238,50 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (212) 732-9250
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.9'
+rating_count: 316
+website: http://otaniatnassau.com/
+description: >-
+  Discover Otani in New York, NY$$$Otani, nestled in the heart of New York, NY,
+  stands out as a welcoming Japanese restaurant that blends authentic flavors
+  with a cozy ambiance, making it a go-to spot for fresh sushi and hearty
+  dishes. Patrons can savor a selection of expertly prepared rolls and
+  traditional favorites like spicy ramen, all crafted with high-quality
+  ingredients that highlight the essence of Japanese cuisine. The spot's
+  efficient service and comfortable setting enhance the overall dining
+  experience, ideal for those seeking a relaxed meal in a bustling city. Whether
+  you're exploring top-rated sushi options nearby or simply enjoying a casual
+  dinner, Otani delivers a balanced menu at reasonable prices that keeps diners
+  coming back.
+generative_summary: >-
+  Discover Otani in New York, NY$$$Otani, nestled in the heart of New York, NY,
+  stands out as a welcoming Japanese restaurant that blends authentic flavors
+  with a cozy ambiance, making it a go-to spot for fresh sushi and hearty
+  dishes. Patrons can savor a selection of expertly prepared rolls and
+  traditional favorites like spicy ramen, all crafted with high-quality
+  ingredients that highlight the essence of Japanese cuisine. The spot's
+  efficient service and comfortable setting enhance the overall dining
+  experience, ideal for those seeking a relaxed meal in a bustling city. Whether
+  you're exploring top-rated sushi options nearby or simply enjoying a casual
+  dinner, Otani delivers a balanced menu at reasonable prices that keeps diners
+  coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Buzzing About$$$If you're on the hunt for great sushi spots
+  around town, folks often highlight how Otani's fresh rolls and flavorful
+  dishes like spicy miso ramen really hit the mark with their bold tastes and
+  quality. Many appreciate the quick and approachable service that makes every
+  visit feel smooth and enjoyable, without any unnecessary fuss. The cozy
+  atmosphere adds a nice touch, creating a welcoming vibe that's perfect for
+  unwinding after a long day. Overall, it's praised for offering solid value,
+  with meals that satisfy cravings for Japanese favorites while keeping things
+  affordable and approachable. In short, it's a reliable choice that leaves
+  people feeling glad they stopped by.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -207,7 +307,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

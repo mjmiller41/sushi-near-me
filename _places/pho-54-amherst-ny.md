@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Pho 54"
+title: Pho 54
 permalink: /new-york/amherst/pho-54.html
 stateAbbr: NY
 stateName: New York
 cityName: Amherst
 seo:
-  name: "Pho 54"
-  type: Restaurant
+  type: restaurant
   links: https://www.pho54online.com/
-description: "Informal eatery serving an array of Vietnamese dishes alongside Thai curries & sushi rolls. Pho 54 serves delicious sushi in Amherst, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJKcVwLDFy04kRuw60-ojfLZg
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $10 &ndash; $20
 rating: '4.1'
 rating_count: 0
 website: https://www.pho54online.com/
+description: >-
+  Discover Pho 54 in Amherst, NY$$$Nestled in Amherst, NY, Pho 54 stands out as
+  a welcoming spot for those seeking a mix of authentic Vietnamese flavors, Thai
+  influences, and fresh sushi options, all in a casual and accessible setting.
+  This eatery boasts a diverse menu that highlights hearty pho bowls, flavorful
+  curries, and gluten-free choices, making it ideal for various dietary
+  preferences and group outings. With its spacious interior and convenient
+  parking, it's designed for easy visits, whether you're stopping by for a quick
+  lunch or a relaxed dinner. The moderate pricing adds to its appeal, offering
+  great value for delicious, well-prepared dishes that blend traditional tastes
+  with modern twists. For anyone exploring sushi restaurants near me or
+  Japanese-inspired places in the area, Pho 54 delivers a satisfying experience
+  with its thoughtful selection of rolls and sides.
+generative_summary: >-
+  Discover Pho 54 in Amherst, NY$$$Nestled in Amherst, NY, Pho 54 stands out as
+  a welcoming spot for those seeking a mix of authentic Vietnamese flavors, Thai
+  influences, and fresh sushi options, all in a casual and accessible setting.
+  This eatery boasts a diverse menu that highlights hearty pho bowls, flavorful
+  curries, and gluten-free choices, making it ideal for various dietary
+  preferences and group outings. With its spacious interior and convenient
+  parking, it's designed for easy visits, whether you're stopping by for a quick
+  lunch or a relaxed dinner. The moderate pricing adds to its appeal, offering
+  great value for delicious, well-prepared dishes that blend traditional tastes
+  with modern twists. For anyone exploring sushi restaurants near me or
+  Japanese-inspired places in the area, Pho 54 delivers a satisfying experience
+  with its thoughtful selection of rolls and sides.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJKcVwLDFy04kRuw60-ojfLZg/reviews/ChZDSUhNMG9nS0VJQ0FnSUN6cmZHUklBEAE
@@ -382,6 +407,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURya05qamhBRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURya05qamhBRRAB!2m1!1s0x89d372312c70c529:0x982ddf88fab40ebb
+review_summary: >-
+  Insights from Customer Feedback$$$Visitors to Pho 54 often praise the generous
+  portions and tasty Vietnamese classics like pho, along with solid Thai dishes
+  and sushi rolls that hit the spot for a casual meal. Many appreciate the
+  friendly service and welcoming atmosphere, noting it's a reliable choice for
+  families or groups looking for affordable options in the neighborhood. While
+  some mentions highlight minor inconsistencies, such as occasional flavor
+  variations or service hiccups, the overall vibe remains positive with standout
+  items like calamari and curry keeping diners coming back. It's clear that this
+  spot shines for its value and variety, making it a go-to for those searching
+  top-rated sushi or Vietnamese eats nearby. All in all, the feedback suggests
+  Pho 54 is worth trying for an honest, enjoyable dining experience that
+  balances tradition with everyday convenience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -414,8 +453,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: null
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Informal eatery serving an array of Vietnamese dishes alongside Thai curries &
   sushi rolls.
 

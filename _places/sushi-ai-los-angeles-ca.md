@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Ai"
+title: Sushi Ai
 permalink: /california/los-angeles/sushi-ai.html
 stateAbbr: CA
 stateName: California
 cityName: Los Angeles
 seo:
-  name: "Sushi Ai"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi Ai serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJs8ueG7DAwoARui8Sn1bv00s
 photos:
   - name: >-
@@ -185,7 +183,41 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Sushi Ai in Los Angeles, CA$$$Sushi Ai in Los Angeles, CA, stands out
+  as a welcoming Japanese restaurant blending traditional flavors with inventive
+  twists, making it a go-to spot for fresh sushi options in a laid-back
+  atmosphere. The spot features a cozy patio perfect for enjoying creative
+  dishes and happy-hour deals that add to its appeal for casual diners. With
+  thoughtful accessibility features like wheelchair-friendly entrances and
+  seating, it ensures everyone can savor the experience comfortably. This sushi
+  restaurant near you highlights creative flourishes in its cuisine, from
+  artfully prepared rolls to a relaxed vibe that encourages repeat visits.
+generative_summary: >-
+  Discover Sushi Ai in Los Angeles, CA$$$Sushi Ai in Los Angeles, CA, stands out
+  as a welcoming Japanese restaurant blending traditional flavors with inventive
+  twists, making it a go-to spot for fresh sushi options in a laid-back
+  atmosphere. The spot features a cozy patio perfect for enjoying creative
+  dishes and happy-hour deals that add to its appeal for casual diners. With
+  thoughtful accessibility features like wheelchair-friendly entrances and
+  seating, it ensures everyone can savor the experience comfortably. This sushi
+  restaurant near you highlights creative flourishes in its cuisine, from
+  artfully prepared rolls to a relaxed vibe that encourages repeat visits.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this sushi spot often rave about the
+  fresh, high-quality ingredients that make every bite feel satisfying and
+  authentic, turning it into a favorite for those seeking top-rated sushi
+  nearby. Many appreciate the relaxed setting and attentive service that enhance
+  the overall dining experience, with comments frequently noting the creative
+  twists on classic dishes as a standout feature. While some mention wait times
+  during peak hours, the general consensus leans positive, praising the value
+  and variety that keep groups coming back. Overall, folks searching for sushi
+  restaurants in the area find it a solid choice for a casual meal, with the
+  happy-hour specials adding an extra layer of enjoyment that makes it worth the
+  visit.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +243,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

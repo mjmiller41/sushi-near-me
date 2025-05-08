@@ -5,4 +5,5 @@ permalink: /virginia/ridge/
 stateAbbr: VA
 stateName: Virginia
 cityName: Ridge
+
 ---

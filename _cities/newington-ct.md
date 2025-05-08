@@ -5,4 +5,5 @@ permalink: /connecticut/newington/
 stateAbbr: CT
 stateName: Connecticut
 cityName: Newington
+
 ---

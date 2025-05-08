@@ -5,4 +5,5 @@ permalink: /colorado/boulder/
 stateAbbr: CO
 stateName: Colorado
 cityName: Boulder
+
 ---

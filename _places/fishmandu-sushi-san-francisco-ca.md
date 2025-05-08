@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Fishmandu Sushi"
+title: Fishmandu Sushi
 permalink: /california/san-francisco/fishmandu-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
 seo:
-  name: "Fishmandu Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://fishmandusushi.com/
-description: "A pint-sized neighborhood destination serving sushi & seafood, plus a few American standards. Fishmandu Sushi serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ2WRB2X2BhYAR6BvcLClEdqo
 photos:
   - name: >-
@@ -184,6 +182,31 @@ price_range: $30 &ndash; $50
 rating: '4.8'
 rating_count: 0
 website: http://fishmandusushi.com/
+description: >-
+  Explore Fishmandu Sushi in San Francisco, CA$$$Fishmandu Sushi in San
+  Francisco, CA, stands out as a cozy neighborhood gem for those seeking fresh
+  seafood and authentic Japanese flavors. This intimate spot offers a variety of
+  sushi options alongside classic dishes, creating a welcoming atmosphere
+  perfect for casual dinners or quick bites. With its focus on high-quality
+  ingredients and moderate pricing, it's an accessible choice for anyone
+  exploring top sushi restaurants in the area. The venue also boasts thoughtful
+  accessibility features, making it easier for everyone to enjoy a relaxing
+  meal. Whether you're in the mood for expertly crafted rolls or a taste of the
+  sea, this sushi haven in Lower Nob Hill delivers a memorable experience that
+  highlights the best of local dining.
+generative_summary: >-
+  Explore Fishmandu Sushi in San Francisco, CA$$$Fishmandu Sushi in San
+  Francisco, CA, stands out as a cozy neighborhood gem for those seeking fresh
+  seafood and authentic Japanese flavors. This intimate spot offers a variety of
+  sushi options alongside classic dishes, creating a welcoming atmosphere
+  perfect for casual dinners or quick bites. With its focus on high-quality
+  ingredients and moderate pricing, it's an accessible choice for anyone
+  exploring top sushi restaurants in the area. The venue also boasts thoughtful
+  accessibility features, making it easier for everyone to enjoy a relaxing
+  meal. Whether you're in the mood for expertly crafted rolls or a taste of the
+  sea, this sushi haven in Lower Nob Hill delivers a memorable experience that
+  highlights the best of local dining.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ2WRB2X2BhYAR6BvcLClEdqo/reviews/ChdDSUhNMG9nS0VJQ0FnTURRcDhuZDhRRRAB
@@ -375,6 +398,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQzLU5qWGlnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQzLU5qWGlnRRAB!2m1!1s0x8085817dd94164d9:0xaa7644292cdc1be8
+review_summary: >-
+  Insights from Recent Visitors$$$Visitors consistently praise this sushi spot
+  for its incredibly fresh and flavorful rolls, like the dragon roll and seaweed
+  salad, which stand out for their high quality and great value. The cozy, clean
+  ambiance adds a comfortable vibe that makes it feel like a hidden local
+  favorite, with friendly service enhancing the overall enjoyment. While most
+  folks appreciate the generous portions and reasonable prices, a few mention
+  that wait times can occasionally run a bit long during busy periods. All in
+  all, it's a solid pick for anyone hunting for top-rated sushi near you,
+  offering a reliably positive experience that keeps people coming back for
+  more. If you're on the hunt for the best sushi restaurants in San Francisco,
+  this one's worth checking out for its honest charm and delicious offerings.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   valetParking: false
 payment_options:
@@ -405,8 +441,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   A pint-sized neighborhood destination serving sushi & seafood, plus a few
   American standards.
 

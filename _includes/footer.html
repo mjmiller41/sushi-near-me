@@ -3,10 +3,10 @@
 
   <div class="wrapper">
 
-    <h2 class="footer-heading">{{ site.title | escape }}</h2>
 
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
+        <h3 class="footer-heading">{{ site.title | escape }}</h3>
         <ul class="contact-list">
           <li class="p-name">
             {%- if site.author -%}
@@ -21,20 +21,22 @@
         </ul>
       </div>
 
-      <div class="footer-col footer-col-2">
-        {%- include social.html -%}
-      </div>
+      {%- if site.social -%}
+        <div class="footer-col footer-col-2">
+          {%- include social.html -%}
+        </div>
+      {%- endif -%}
 
       <div class="footer-col footer-col-3">
         <p>{{- site.description | escape -}}</p>
       </div>
+    </div>
 
-      <div class="footer-col footer-col-4">
-        <p>
-          <span>&copy; Sushi Near Me U.S. All rights reserved.</span>
-          <a href="/privacy">Privacy Policy</a>
-        </p>
-      </div>
+    <div class="">
+      <p>
+        <span>&copy; Sushi Near Me U.S. All rights reserved.</span>
+        <a href="/privacy.html">Privacy Policy</a>
+      </p>
     </div>
   </div>
 

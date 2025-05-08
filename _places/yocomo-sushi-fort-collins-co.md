@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "YOCOMO Sushi"
+title: YOCOMO Sushi
 permalink: /colorado/fort-collins/yocomo-sushi.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Fort Collins
 seo:
-  name: "YOCOMO Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://yocomosushi.com/
-description: "YOCOMO Sushi serves delicious sushi in Fort Collins, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJz17UOctLaYcRQEi_N7yLQtQ
 photos:
   - name: >-
@@ -169,7 +167,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x87694bcb39d45ecf:0xd4428bbc37bf4840!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:00 PM'
     - 'Tuesday: Closed'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -177,14 +225,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:30 PM'
     - 'Saturday: 11:00 AM – 9:30 PM'
     - 'Sunday: 11:00 AM – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:00 PM'
-    - 'Tuesday: Closed'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:30 PM'
-    - 'Friday: 11:00 AM – 9:30 PM'
-    - 'Saturday: 11:00 AM – 9:30 PM'
-    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T03:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,35 +237,245 @@ phone: (970) 698-6129
 price_level: null
 price_range: $20 &ndash; $30
 rating: '4.7'
-rating_count: 0
+rating_count: 81
 website: http://yocomosushi.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Explore YOCOMO Sushi in Fort Collins, CO$$$Nestled in Fort Collins, CO, YOCOMO
+  Sushi stands out as a welcoming spot for fresh Japanese-inspired cuisine,
+  offering a cozy atmosphere perfect for enjoying lunch or dinner. This sushi
+  restaurant delights with its well-crafted rolls, nigiri, and sashimi,
+  emphasizing generous portions of high-quality fish that appeal to those
+  seeking authentic flavors in a relaxed setting. Located in a convenient plaza,
+  it provides easy access with options like wheelchair-accessible seating and
+  nearby parking, making it a practical choice for diners exploring sushi
+  options nearby. The menu caters to a variety of tastes, including vegetarian
+  selections and beverages like beer and wine, ensuring a satisfying experience
+  for groups or solo visitors. Whether you're in the mood for a quick bite or a
+  leisurely meal, this spot combines affordability with flavorful dishes that
+  highlight the best of Japanese dining traditions.
+generative_summary: >-
+  Explore YOCOMO Sushi in Fort Collins, CO$$$Nestled in Fort Collins, CO, YOCOMO
+  Sushi stands out as a welcoming spot for fresh Japanese-inspired cuisine,
+  offering a cozy atmosphere perfect for enjoying lunch or dinner. This sushi
+  restaurant delights with its well-crafted rolls, nigiri, and sashimi,
+  emphasizing generous portions of high-quality fish that appeal to those
+  seeking authentic flavors in a relaxed setting. Located in a convenient plaza,
+  it provides easy access with options like wheelchair-accessible seating and
+  nearby parking, making it a practical choice for diners exploring sushi
+  options nearby. The menu caters to a variety of tastes, including vegetarian
+  selections and beverages like beer and wine, ensuring a satisfying experience
+  for groups or solo visitors. Whether you're in the mood for a quick bite or a
+  leisurely meal, this spot combines affordability with flavorful dishes that
+  highlight the best of Japanese dining traditions.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJz17UOctLaYcRQEi_N7yLQtQ/reviews/ChZDSUhNMG9nS0VJQ0FnTURJODR5Y1FREAE
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        Starting with the lovely warm greeting and staff. Leading into a vast
+        menu that makes us excited to come back to try out everything. Finally
+        the food, things are so well made and beautiful. The sushi is portioned
+        so well on the fish to rice ratio, unlike some other local places. The
+        sushi and sashimi is well made. Also, kimchi jeop so yummy. Prices are
+        appropriate. Would recommend and coming back. Otoro wasn't super fatty
+        but one of the better tuna I can find in NoCo
+      languageCode: en
+    originalText:
+      text: >-
+        Starting with the lovely warm greeting and staff. Leading into a vast
+        menu that makes us excited to come back to try out everything. Finally
+        the food, things are so well made and beautiful. The sushi is portioned
+        so well on the fish to rice ratio, unlike some other local places. The
+        sushi and sashimi is well made. Also, kimchi jeop so yummy. Prices are
+        appropriate. Would recommend and coming back. Otoro wasn't super fatty
+        but one of the better tuna I can find in NoCo
+      languageCode: en
+    authorAttribution:
+      displayName: Jesse
+      uri: https://www.google.com/maps/contrib/111365799748537315729/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVnD6h8DFzoiZyH8HkzgTI8icjT1vWDj4ulb3j0LJ1ZTNmNQjg=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-04-12T23:32:23.444892Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURJODR5Y1FREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJODR5Y1FREAE!2m1!1s0x87694bcb39d45ecf:0xd4428bbc37bf4840
+  - name: >-
+      places/ChIJz17UOctLaYcRQEi_N7yLQtQ/reviews/ChZDSUhNMG9nS0VJQ0FnSUNqbDdHbFZnEAE
+    relativePublishTimeDescription: a month ago
+    rating: 4
+    text:
+      text: >-
+        Re-review: Under the new ownership, we saw prices rise but the food stay
+        the same. However, things have corrected a bit and with their new daily
+        specials and lunch (1-3) bogo on a few things, it's now an even better
+        deal than the previous ownership. Food is great, casual atmosphere, and
+        good service. We're going to keep coming back like we used to!
+      languageCode: en
+    originalText:
+      text: >-
+        Re-review: Under the new ownership, we saw prices rise but the food stay
+        the same. However, things have corrected a bit and with their new daily
+        specials and lunch (1-3) bogo on a few things, it's now an even better
+        deal than the previous ownership. Food is great, casual atmosphere, and
+        good service. We're going to keep coming back like we used to!
+      languageCode: en
+    authorAttribution:
+      displayName: Joshua Klomp
+      uri: https://www.google.com/maps/contrib/109474808637690088365/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjW22oKRsE91J1TAuArl_KKiaLAHHLeANyVlrGVqbGErWr1dphRQ=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-03-12T20:59:30.019141Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNqbDdHbFZnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNqbDdHbFZnEAE!2m1!1s0x87694bcb39d45ecf:0xd4428bbc37bf4840
+  - name: >-
+      places/ChIJz17UOctLaYcRQEi_N7yLQtQ/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3bE1lTVNnEAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        The Sushi is always delicious, and the Katsu is the best I've had since
+        visiting Kyoto. Friendly service and laid-back vibes, too!
+      languageCode: en
+    originalText:
+      text: >-
+        The Sushi is always delicious, and the Katsu is the best I've had since
+        visiting Kyoto. Friendly service and laid-back vibes, too!
+      languageCode: en
+    authorAttribution:
+      displayName: Arin Baun
+      uri: https://www.google.com/maps/contrib/112978244836836217794/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVsLOLEJy4vcz9WzyUqLuBQsPBRYEJ49z0eS-hMSwkJcOVF8HGL=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-16T20:43:47.627100Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUN3bE1lTVNnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUN3bE1lTVNnEAE!2m1!1s0x87694bcb39d45ecf:0xd4428bbc37bf4840
+  - name: >-
+      places/ChIJz17UOctLaYcRQEi_N7yLQtQ/reviews/ChZDSUhNMG9nS0VJQ0FnSUNidWV1ZUVnEAE
+    relativePublishTimeDescription: 9 months ago
+    rating: 5
+    text:
+      text: >-
+        Good Japan-Korean Restaurant - Will Be Back!
+
+        Rating: 8/10
+
+        I stopped by this restaurant on a busy Sunday afternoon and had a
+        generally positive experience. The black bean noodles were tasty,
+        although a bit too sweet for my taste. Unfortunately, the bulgogi beef
+        was not hot and also overly sweet - maybe they're a bit too generous
+        with the sugar in the kitchen? On the other hand, the spicy tuna roll
+        was decent. Despite the restaurant being busy, our waiter did a great
+        job attending to our needs. Overall, it's a solid Japan-Korean
+        restaurant and I'll definitely be back to try more dishes. Maybe they
+        can balance out the sweetness levels next time!
+      languageCode: en
+    originalText:
+      text: >-
+        Good Japan-Korean Restaurant - Will Be Back!
+
+        Rating: 8/10
+
+        I stopped by this restaurant on a busy Sunday afternoon and had a
+        generally positive experience. The black bean noodles were tasty,
+        although a bit too sweet for my taste. Unfortunately, the bulgogi beef
+        was not hot and also overly sweet - maybe they're a bit too generous
+        with the sugar in the kitchen? On the other hand, the spicy tuna roll
+        was decent. Despite the restaurant being busy, our waiter did a great
+        job attending to our needs. Overall, it's a solid Japan-Korean
+        restaurant and I'll definitely be back to try more dishes. Maybe they
+        can balance out the sweetness levels next time!
+      languageCode: en
+    authorAttribution:
+      displayName: Ánh Nguyệt
+      uri: https://www.google.com/maps/contrib/116302087170194841580/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWW1fKRgl79-rgXHafupVQpCr9k89CFqJ47uakLhUtP477xbsYJ=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-07-29T05:01:27.652813Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNidWV1ZUVnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNidWV1ZUVnEAE!2m1!1s0x87694bcb39d45ecf:0xd4428bbc37bf4840
+  - name: >-
+      places/ChIJz17UOctLaYcRQEi_N7yLQtQ/reviews/ChZDSUhNMG9nS0VJQ0FnSURYeVotR1Z3EAE
+    relativePublishTimeDescription: 6 months ago
+    rating: 5
+    text:
+      text: >-
+        Great sushi :) awesome cute little place. Rolls were very reasonably
+        priced for how good they were and hefty amount of filling. Will
+        definitely be coming back
+      languageCode: en
+    originalText:
+      text: >-
+        Great sushi :) awesome cute little place. Rolls were very reasonably
+        priced for how good they were and hefty amount of filling. Will
+        definitely be coming back
+      languageCode: en
+    authorAttribution:
+      displayName: Willem Schutte
+      uri: https://www.google.com/maps/contrib/103947002467813560828/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUWBhg5nMtBBjQE10_TL3S-QIjhtQ7qpU6EK9tzyxK02pQTVwKy=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2024-10-29T00:44:51.810065Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURYeVotR1Z3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURYeVotR1Z3EAE!2m1!1s0x87694bcb39d45ecf:0xd4428bbc37bf4840
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors to this sushi spot often rave about
+  the delicious and fresh rolls, with many highlighting the generous portions
+  that make every bite feel worthwhile without breaking the bank. Folks
+  appreciate the friendly service and laid-back vibe, which create a welcoming
+  environment for casual meals or trying new dishes like spicy tuna and katsu.
+  While some note that certain flavors can lean a bit sweet, the overall
+  consensus is that the food quality and value keep people coming back for more.
+  It's commonly mentioned that daily specials and lunch deals add to the appeal,
+  offering great options for those searching for top-rated sushi experiences
+  nearby. All in all, the feedback paints a positive picture of a reliable place
+  where tasty, well-prepared meals and attentive staff combine for an enjoyable
+  outing.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
+curbside_pickup: false
+delivery: true
+dine_in: true
 good_for_children: null
 good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
+good_for_sports: true
+live_music: false
+menu_for_children: true
 outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+reservable: true
+restroom: true
+serves_beer: true
 serves_breakfast: null
 serves_brunch: null
-serves_cocktails: null
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

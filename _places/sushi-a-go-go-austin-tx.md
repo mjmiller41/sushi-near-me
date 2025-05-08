@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi-A-Go-Go"
+title: Sushi-A-Go-Go
 permalink: /texas/austin/sushi-a-go-go.html
 stateAbbr: TX
 stateName: Texas
 cityName: Austin
 seo:
-  name: "Sushi-A-Go-Go"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi-A-Go-Go serves delicious sushi in Austin, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJCwKTSA-xRIYRZq4rKnBbHLw
 photos:
   - name: >-
@@ -182,19 +180,254 @@ phone: (512) 423-7170
 price_level: null
 price_range: $10 &ndash; $20
 rating: '1.9'
-rating_count: 0
+rating_count: 31
 website: null
-reviews: null
+description: >-
+  Discover Sushi-A-Go-Go in Austin, Texas$$$Sushi-A-Go-Go in Austin, Texas,
+  stands out as a casual Japanese restaurant conveniently located inside the
+  airport terminal, perfect for travelers seeking quick and accessible sushi
+  options. This spot offers a straightforward menu with lunch and dinner
+  choices, making it an ideal stop for those exploring Japanese places near me
+  while on the go. With features like wheelchair-accessible parking, entrances,
+  and seating, it ensures a welcoming experience for all visitors looking for
+  inclusive dining. The atmosphere emphasizes ease and efficiency, allowing
+  patrons to enjoy fresh rolls and other favorites without the hassle. Whether
+  you're searching for sushi restaurants near me or simply need a reliable meal
+  before your flight, this location combines convenience with everyday Japanese
+  flavors.
+generative_summary: >-
+  Discover Sushi-A-Go-Go in Austin, Texas$$$Sushi-A-Go-Go in Austin, Texas,
+  stands out as a casual Japanese restaurant conveniently located inside the
+  airport terminal, perfect for travelers seeking quick and accessible sushi
+  options. This spot offers a straightforward menu with lunch and dinner
+  choices, making it an ideal stop for those exploring Japanese places near me
+  while on the go. With features like wheelchair-accessible parking, entrances,
+  and seating, it ensures a welcoming experience for all visitors looking for
+  inclusive dining. The atmosphere emphasizes ease and efficiency, allowing
+  patrons to enjoy fresh rolls and other favorites without the hassle. Whether
+  you're searching for sushi restaurants near me or simply need a reliable meal
+  before your flight, this location combines convenience with everyday Japanese
+  flavors.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJCwKTSA-xRIYRZq4rKnBbHLw/reviews/ChZDSUhNMG9nS0VJQ0FnSUN2Njhyb0ZBEAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 1
+    text:
+      text: >-
+        My husband and I approached the counter while four people were behind
+        the counter all on their cell phones. Not one single person acknowledged
+        our presence or offered to assist us. Luckily with self check out I was
+        able to get my sushi paid for.  I continued to watch three other
+        customers walk in. Two of which walked out and the third one had to ask
+        if he could pay for his food. What kind of service is this?
+
+        On top of it, I believe the manager stood back behind the counter,
+        watching it all happened and did nothing.  As a customer service
+        trainer, I would’ve written every single one of them up.
+
+
+        It was 3:07 on Saturday December 14, 2025
+      languageCode: en
+    originalText:
+      text: >-
+        My husband and I approached the counter while four people were behind
+        the counter all on their cell phones. Not one single person acknowledged
+        our presence or offered to assist us. Luckily with self check out I was
+        able to get my sushi paid for.  I continued to watch three other
+        customers walk in. Two of which walked out and the third one had to ask
+        if he could pay for his food. What kind of service is this?
+
+        On top of it, I believe the manager stood back behind the counter,
+        watching it all happened and did nothing.  As a customer service
+        trainer, I would’ve written every single one of them up.
+
+
+        It was 3:07 on Saturday December 14, 2025
+      languageCode: en
+    authorAttribution:
+      displayName: Dawn DeZwaan
+      uri: https://www.google.com/maps/contrib/115759346540131216493/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJ73ZwODHpYm75jx83I4U2-RMnfRvqJzLIuEsSL1TIdLc8PKw=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2024-12-14T21:27:11.568722Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN2Njhyb0ZBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN2Njhyb0ZBEAE!2m1!1s0x8644b10f4893020b:0xbc1c5b702a2bae66
+  - name: >-
+      places/ChIJCwKTSA-xRIYRZq4rKnBbHLw/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRcy1qRWZ3EAE
+    relativePublishTimeDescription: a month ago
+    rating: 4
+    text:
+      text: >-
+        I grabbed the California rolls before my flight, and got separate wasabi
+        and ginger when I asked. It was fine - nothing spectacular, but I was
+        happy enough with it.  The service was not great, but the reviews are
+        really harsh on this place. You have to remember it’s an airport, so
+        everything is overpriced everywhere. Bring your own food if you don’t
+        want to deal with the airport prices and unpredictable quality.
+      languageCode: en
+    originalText:
+      text: >-
+        I grabbed the California rolls before my flight, and got separate wasabi
+        and ginger when I asked. It was fine - nothing spectacular, but I was
+        happy enough with it.  The service was not great, but the reviews are
+        really harsh on this place. You have to remember it’s an airport, so
+        everything is overpriced everywhere. Bring your own food if you don’t
+        want to deal with the airport prices and unpredictable quality.
+      languageCode: en
+    authorAttribution:
+      displayName: Kat Brown
+      uri: https://www.google.com/maps/contrib/115656712725580863939/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWRDdx0faQTH983azEejsW3WkQIXmSeNUiCfOmPA_GRz4mKD1zv=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-03-07T01:03:59.585108Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNRcy1qRWZ3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNRcy1qRWZ3EAE!2m1!1s0x8644b10f4893020b:0xbc1c5b702a2bae66
+  - name: >-
+      places/ChIJCwKTSA-xRIYRZq4rKnBbHLw/reviews/ChdDSUhNMG9nS0VJQ0FnSUNiNk1hbDRRRRAB
+    relativePublishTimeDescription: 9 months ago
+    rating: 1
+    text:
+      text: >-
+        They should change their name to Sushi NO go go as the cashier
+        unapologetically informed me they were sold out... as if it was no big
+        deal... does anyone remember when customer service used to exist?
+
+        It doesn't exist here; I will not forget it.
+      languageCode: en
+    originalText:
+      text: >-
+        They should change their name to Sushi NO go go as the cashier
+        unapologetically informed me they were sold out... as if it was no big
+        deal... does anyone remember when customer service used to exist?
+
+        It doesn't exist here; I will not forget it.
+      languageCode: en
+    authorAttribution:
+      displayName: Winston Smith
+      uri: https://www.google.com/maps/contrib/105051398650695774803/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJ6MzCLvbRIReUMK19HOV_IxoPk4S4CF7nZa3gtZtwDjtnQ7g=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-07-22T22:48:10.682059Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNiNk1hbDRRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNiNk1hbDRRRRAB!2m1!1s0x8644b10f4893020b:0xbc1c5b702a2bae66
+  - name: >-
+      places/ChIJCwKTSA-xRIYRZq4rKnBbHLw/reviews/ChZDSUhNMG9nS0VJQ0FnSURuanJUaGJ3EAE
+    relativePublishTimeDescription: 7 months ago
+    rating: 1
+    text:
+      text: >-
+        Food wasn’t great, can’t expect much when you’re buying premade rolls
+        that have been in a refrigerated case all day.
+
+
+        Staff stood at the register with my order while I stood at the counter
+        beneath the huge sign that said “pick-up here” and looked confused when
+        I expected them to bring it there.
+
+
+        I wasn’t given wasabi or ginger with my food. I came back to the counter
+        and the cashier gave me one small container of wasabi and one small
+        container of ginger for three rolls. I asked for more and was given two
+        more wasabi, and was denied a request for a fourth (I love wasabi). I
+        attached a photo of the incredibly small amount of wasabi that I assume
+        is supposed to be enough for an 8 piece roll.
+
+
+        Don’t eat here, the sushi was mediocre and the staff is rude. There’s 10
+        other options in the immediate vicinity.
+      languageCode: en
+    originalText:
+      text: >-
+        Food wasn’t great, can’t expect much when you’re buying premade rolls
+        that have been in a refrigerated case all day.
+
+
+        Staff stood at the register with my order while I stood at the counter
+        beneath the huge sign that said “pick-up here” and looked confused when
+        I expected them to bring it there.
+
+
+        I wasn’t given wasabi or ginger with my food. I came back to the counter
+        and the cashier gave me one small container of wasabi and one small
+        container of ginger for three rolls. I asked for more and was given two
+        more wasabi, and was denied a request for a fourth (I love wasabi). I
+        attached a photo of the incredibly small amount of wasabi that I assume
+        is supposed to be enough for an 8 piece roll.
+
+
+        Don’t eat here, the sushi was mediocre and the staff is rude. There’s 10
+        other options in the immediate vicinity.
+      languageCode: en
+    authorAttribution:
+      displayName: Alex Nicholson
+      uri: https://www.google.com/maps/contrib/101521363382994929726/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjX2zRdDG3KiR3JrljtKf-NJeCezAJgtAEktpm7dLhJCMT9iIfg=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-10-05T20:18:38.069994Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURuanJUaGJ3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURuanJUaGJ3EAE!2m1!1s0x8644b10f4893020b:0xbc1c5b702a2bae66
+  - name: >-
+      places/ChIJCwKTSA-xRIYRZq4rKnBbHLw/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJMExHendnRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 1
+    text:
+      text: >-
+        Terrible in every way.  The food was barely edible. They don't even have
+        anyone working - you pay at a screen and it asks you to tip it!
+      languageCode: en
+    originalText:
+      text: >-
+        Terrible in every way.  The food was barely edible. They don't even have
+        anyone working - you pay at a screen and it asks you to tip it!
+      languageCode: en
+    authorAttribution:
+      displayName: Gary Fullmer
+      uri: https://www.google.com/maps/contrib/112988747502404714833/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUwc4A1e0Lr5fBcBqlXV6WnUBX3JF64NlBKPCMRM1soBwgmIRY=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-03-29T16:45:39.233726Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNJMExHendnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNJMExHendnRRAB!2m1!1s0x8644b10f4893020b:0xbc1c5b702a2bae66
+review_summary: >-
+  What Customers Are Saying About the Experience$$$Folks heading to
+  Sushi-A-Go-Go often appreciate the convenience of grabbing quick sushi rolls
+  right at the airport, even if the service sometimes feels a bit rushed during
+  busy times. Many mention that the basic options like California rolls hit the
+  spot for a simple meal on the fly, though some wish for a bit more attention
+  to detail in portions and extras like wasabi. Overall, it's seen as a handy
+  choice for travelers searching for sushi places near me, with a few noting
+  that while the food is straightforward, it gets the job done in a pinch.
+  Despite some mixed feelings on staff interactions, several reviews suggest
+  it's worth trying if you're in the mood for affordable Japanese eats without
+  high expectations. In the end, this spot earns points for being an easy,
+  no-fuss option amid the hustle of airport dining.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
-payment_options: null
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
+delivery: false
+dine_in: true
 good_for_children: null
 good_for_groups: null
-good_for_sports: null
-live_music: null
+good_for_sports: false
+live_music: false
 menu_for_children: null
 outdoor_seating: null
 reservable: null
@@ -204,13 +437,13 @@ serves_breakfast: null
 serves_brunch: null
 serves_cocktails: null
 serves_coffee: null
-serves_dinner: null
+serves_dinner: true
 serves_dessert: null
-serves_lunch: null
+serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

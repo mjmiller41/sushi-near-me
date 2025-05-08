@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Teak Sushi & Thai Loveland"
+title: Teak Sushi & Thai Loveland
 permalink: /ohio/loveland/teak-sushi-thai-loveland.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Loveland
 seo:
-  name: "Teak Sushi & Thai Loveland"
-  type: Restaurant
-  links: null
-description: "Teak Sushi & Thai Loveland serves delicious sushi in Loveland, Ohio. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.teakloveland.com/
 place_id: ChIJi5IIpkH5QIgRZb7GKCetGig
 photos:
   - name: >-
@@ -170,22 +168,185 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8840f941a608928b:0x281aad2728c6be65!10e5
 primary_type: Thai Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: Closed'
+    - 'Tuesday: 11:30 AM – 2:30 PM, 4:00 – 9:30 PM'
+    - 'Wednesday: 11:30 AM – 2:30 PM, 4:00 – 9:30 PM'
+    - 'Thursday: 11:30 AM – 2:30 PM, 4:00 – 9:30 PM'
+    - 'Friday: 11:30 AM – 2:30 PM, 4:00 – 10:00 PM'
+    - 'Saturday: 12:00 – 10:00 PM'
+    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+  - openNow: false
+    periods:
+      - open:
+          day: 2
+          hour: 11
+          minute: 30
+        close:
+          day: 2
+          hour: 14
+          minute: 30
+      - open:
+          day: 3
+          hour: 11
+          minute: 30
+        close:
+          day: 3
+          hour: 14
+          minute: 30
+      - open:
+          day: 4
+          hour: 11
+          minute: 30
+        close:
+          day: 4
+          hour: 14
+          minute: 30
+      - open:
+          day: 5
+          hour: 11
+          minute: 30
+        close:
+          day: 5
+          hour: 14
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: Closed'
+      - 'Tuesday: 11:30 AM – 2:30 PM'
+      - 'Wednesday: 11:30 AM – 2:30 PM'
+      - 'Thursday: 11:30 AM – 2:30 PM'
+      - 'Friday: 11:30 AM – 2:30 PM'
+      - 'Saturday: Closed'
+      - 'Sunday: Closed'
+    secondaryHoursType: LUNCH
+    nextOpenTime: '2025-05-06T15:30:00Z'
+phone: (513) 583-8325
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.3'
+rating_count: 172
+website: https://www.teakloveland.com/
+description: >-
+  Explore Teak Sushi & Thai in Loveland, OH$$$Teak Sushi & Thai in Loveland, OH,
+  delivers a fresh take on Asian flavors with a menu featuring authentic Thai
+  dishes and expertly crafted sushi rolls. This spot stands out for its relaxed
+  vibe, where you can savor a variety of beverages including beer, wine, and
+  cocktails alongside your meal, making it ideal for casual dining or unwinding
+  after a day out. The restaurant prioritizes accessibility with
+  wheelchair-friendly features throughout, ensuring everyone can enjoy the
+  experience comfortably. For those seeking top-rated sushi places near me, the
+  emphasis on quality ingredients and diverse options creates a welcoming
+  atmosphere that encourages repeat visits.
+generative_summary: >-
+  Explore Teak Sushi & Thai in Loveland, OH$$$Teak Sushi & Thai in Loveland, OH,
+  delivers a fresh take on Asian flavors with a menu featuring authentic Thai
+  dishes and expertly crafted sushi rolls. This spot stands out for its relaxed
+  vibe, where you can savor a variety of beverages including beer, wine, and
+  cocktails alongside your meal, making it ideal for casual dining or unwinding
+  after a day out. The restaurant prioritizes accessibility with
+  wheelchair-friendly features throughout, ensuring everyone can enjoy the
+  experience comfortably. For those seeking top-rated sushi places near me, the
+  emphasis on quality ingredients and diverse options creates a welcoming
+  atmosphere that encourages repeat visits.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Based on the solid 4.3 rating from numerous
+  reviews, diners generally appreciate the tasty balance of flavors in the sushi
+  and Thai offerings at this spot, often highlighting the fresh ingredients and
+  generous portions. Many folks mention the friendly service and cozy setting as
+  standout elements that make meals feel more enjoyable, with some noting it's a
+  great choice for groups or quick bites. While opinions vary, the overall
+  feedback leans positive, suggesting it's a reliable option for anyone craving
+  authentic Asian cuisine without the hassle. If you're hunting for sushi
+  restaurants near me, the consistent praise for variety and value keeps the
+  tone upbeat, though it's wise to expect standard wait times during peak hours.
+  This makes it a solid pick for those looking to try something new in the area.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +372,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

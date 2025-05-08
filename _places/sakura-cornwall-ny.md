@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sakura"
+title: Sakura
 permalink: /new-york/cornwall/sakura.html
 stateAbbr: NY
 stateName: New York
 cityName: Cornwall
 seo:
-  name: "Sakura"
-  type: Restaurant
-  links: null
-description: "Sakura serves delicious sushi in Cornwall, New York. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://sakuracornwallny.com/
 place_id: ChIJVVTMXlIt3YkRgRbKMqDjfg8
 photos:
   - name: >-
@@ -169,22 +167,171 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89dd2d525ecc5455:0xf7ee3a032ca1681!10e5
 primary_type: Asian Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:00 PM'
+    - 'Tuesday: Closed'
+    - 'Wednesday: 11:00 AM – 9:00 PM'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 9:30 PM'
+    - 'Saturday: 11:00 AM – 9:30 PM'
+    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T01:30:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
-phone: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 0
+          minute: 0
+        close:
+          day: 0
+          hour: 21
+          minute: 0
+      - open:
+          day: 1
+          hour: 11
+          minute: 0
+        close:
+          day: 1
+          hour: 21
+          minute: 0
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 21
+          minute: 0
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 0
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 21
+          minute: 30
+      - open:
+          day: 6
+          hour: 11
+          minute: 0
+        close:
+          day: 6
+          hour: 21
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 11:00 AM – 9:00 PM'
+      - 'Tuesday: Closed'
+      - 'Wednesday: 11:00 AM – 9:00 PM'
+      - 'Thursday: 11:00 AM – 9:00 PM'
+      - 'Friday: 11:00 AM – 9:30 PM'
+      - 'Saturday: 11:00 AM – 9:30 PM'
+      - 'Sunday: 12:00 AM – 9:00 PM'
+    secondaryHoursType: TAKEOUT
+    nextCloseTime: '2025-05-04T01:30:00Z'
+phone: (845) 534-3488
 price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+price_range: $10 &ndash; $20
+rating: '4.4'
+rating_count: 110
+website: https://sakuracornwallny.com/
+description: >-
+  Discover Sakura in Cornwall, NY$$$Sakura in Cornwall, NY, stands out as a
+  welcoming Japanese eatery offering an array of fresh sushi and other
+  Asian-inspired dishes in a laid-back setting. This spot emphasizes a relaxed
+  atmosphere where diners can savor high-quality rolls and entrees made with
+  care, making it a go-to choice for those seeking sushi options nearby.
+  Accessibility features like wheelchair-friendly parking and entrances add to
+  the convenience, ensuring everyone can enjoy the experience. With flexible
+  hours including evenings and weekends, it's easy to drop in for a satisfying
+  meal that highlights the best of Japanese flavors. Whether you're in the mood
+  for top-rated sushi or exploring local Japanese places, Sakura delivers a
+  memorable dining outing.
+generative_summary: >-
+  Discover Sakura in Cornwall, NY$$$Sakura in Cornwall, NY, stands out as a
+  welcoming Japanese eatery offering an array of fresh sushi and other
+  Asian-inspired dishes in a laid-back setting. This spot emphasizes a relaxed
+  atmosphere where diners can savor high-quality rolls and entrees made with
+  care, making it a go-to choice for those seeking sushi options nearby.
+  Accessibility features like wheelchair-friendly parking and entrances add to
+  the convenience, ensuring everyone can enjoy the experience. With flexible
+  hours including evenings and weekends, it's easy to drop in for a satisfying
+  meal that highlights the best of Japanese flavors. Whether you're in the mood
+  for top-rated sushi or exploring local Japanese places, Sakura delivers a
+  memorable dining outing.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Folks chatting about Sakura often highlight the
+  tasty sushi and friendly service that make every visit feel worthwhile, with
+  many praising the fresh ingredients and generous portions. From what people
+  share, the atmosphere strikes a nice balance of casual and inviting, perfect
+  for a quick bite or gathering with friends, though some note occasional waits
+  during peak times. Overall, the high ratings suggest it's a solid pick for
+  anyone hunting for reliable sushi restaurants in the area, with comments
+  frequently mentioning the value for the price and flavorful options that keep
+  customers coming back. If you're on the lookout for sushi close to you, this
+  place seems to hit the mark with its consistent appeal and welcoming vibe,
+  encouraging repeat trips for more delicious discoveries.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +357,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

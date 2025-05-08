@@ -5,4 +5,5 @@ permalink: /ohio/milford/
 stateAbbr: OH
 stateName: Ohio
 cityName: Milford
+
 ---

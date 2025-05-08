@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kuidaore Handroll Bar"
+title: Kuidaore Handroll Bar
 permalink: /california/oakland/kuidaore-handroll-bar.html
 stateAbbr: CA
 stateName: California
 cityName: Oakland
 seo:
-  name: "Kuidaore Handroll Bar"
-  type: Restaurant
+  type: restaurant
   links: https://www.kuidaorehandrollbar.com/
-description: "Kuidaore Handroll Bar serves delicious sushi in Oakland, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJWwpdKRyBj4ARWO1klikQgOs
 photos:
   - name: >-
@@ -168,7 +166,89 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x808f811c295d0a5b:0xeb8010299664ed58!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 15
+        minute: 0
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 30
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 30
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 30
+    - open:
+        day: 4
+        hour: 12
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 12
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 15
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 5:00 – 8:30 PM'
     - 'Wednesday: 5:00 – 8:30 PM'
@@ -176,14 +256,7 @@ opening_hours:
     - 'Friday: 12:00 – 2:30 PM, 5:00 – 9:00 PM'
     - 'Saturday: 12:00 – 3:00 PM, 5:00 – 9:00 PM'
     - 'Sunday: 12:00 – 3:00 PM, 5:00 – 8:30 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 5:00 – 8:30 PM'
-    - 'Wednesday: 5:00 – 8:30 PM'
-    - 'Thursday: 12:00 – 2:30 PM, 5:00 – 9:00 PM'
-    - 'Friday: 12:00 – 2:30 PM, 5:00 – 9:00 PM'
-    - 'Saturday: 12:00 – 3:00 PM, 5:00 – 9:00 PM'
-    - 'Sunday: 12:00 – 3:00 PM, 5:00 – 8:30 PM'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -195,35 +268,284 @@ phone: (510) 392-2288
 price_level: PRICE_LEVEL_MODERATE
 price_range: $30 &ndash; $50
 rating: '4.8'
-rating_count: 0
+rating_count: 38
 website: https://www.kuidaorehandrollbar.com/
-reviews: null
+description: >-
+  Explore Kuidaore Handroll Bar in Oakland, CA$$$Kuidaore Handroll Bar in
+  Oakland, CA, stands out as a top-rated sushi spot offering fresh Japanese
+  flavors in a welcoming waterfront setting. This cozy eatery specializes in
+  expertly crafted handrolls with premium fish and crisp nori, paired with
+  creative cocktails and small plates that highlight seasonal ingredients.
+  Diners can enjoy a relaxed atmosphere with accessibility features like
+  wheelchair-friendly entrances, making it easy for everyone to savor authentic
+  tastes without hassle. The menu caters to various preferences, including
+  vegetarian options and drinks like beer and wine, positioning it as a go-to
+  choice for those searching for quality sushi restaurants near me. With its
+  moderate pricing and inviting vibe, it's an ideal stop for anyone exploring
+  the best sushi experiences in the area.
+generative_summary: >-
+  Explore Kuidaore Handroll Bar in Oakland, CA$$$Kuidaore Handroll Bar in
+  Oakland, CA, stands out as a top-rated sushi spot offering fresh Japanese
+  flavors in a welcoming waterfront setting. This cozy eatery specializes in
+  expertly crafted handrolls with premium fish and crisp nori, paired with
+  creative cocktails and small plates that highlight seasonal ingredients.
+  Diners can enjoy a relaxed atmosphere with accessibility features like
+  wheelchair-friendly entrances, making it easy for everyone to savor authentic
+  tastes without hassle. The menu caters to various preferences, including
+  vegetarian options and drinks like beer and wine, positioning it as a go-to
+  choice for those searching for quality sushi restaurants near me. With its
+  moderate pricing and inviting vibe, it's an ideal stop for anyone exploring
+  the best sushi experiences in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJWwpdKRyBj4ARWO1klikQgOs/reviews/ChdDSUhNMG9nS0VJQ0FnTURnclB6QXZ3RRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 3
+    text:
+      text: >-
+        The food was delicious, nothing super innovative, but tasty fish,
+        perfectly crisp nori and fun cocktails. I loved the happy spoons and
+        premium hand rolls. No complaints about the food, but it was quite
+        expensive, two of us spent 200 including tip and I was still hungry.
+
+
+        The service and ambiance are my reason for less stars. The lights are
+        extremely bright so that detracted from the experience. Some softer,
+        warmer light for evening would bring the vibe up to match the pricing
+        would be an easy fix. The staff was nice enough but it felt more cafe
+        casual and unrefined.
+
+
+        I would maybe try it again for lunch if they had a lunch special.
+      languageCode: en
+    originalText:
+      text: >-
+        The food was delicious, nothing super innovative, but tasty fish,
+        perfectly crisp nori and fun cocktails. I loved the happy spoons and
+        premium hand rolls. No complaints about the food, but it was quite
+        expensive, two of us spent 200 including tip and I was still hungry.
+
+
+        The service and ambiance are my reason for less stars. The lights are
+        extremely bright so that detracted from the experience. Some softer,
+        warmer light for evening would bring the vibe up to match the pricing
+        would be an easy fix. The staff was nice enough but it felt more cafe
+        casual and unrefined.
+
+
+        I would maybe try it again for lunch if they had a lunch special.
+      languageCode: en
+    authorAttribution:
+      displayName: Darcy Vasudev
+      uri: https://www.google.com/maps/contrib/108883258213380765861/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXvJHcrZydDdBdXmvpzCTfnJ1fKvtcfJj5H9BMQkrNbkrtCthy_cw=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-02-23T01:32:19.608092Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURnclB6QXZ3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURnclB6QXZ3RRAB!2m1!1s0x808f811c295d0a5b:0xeb8010299664ed58
+  - name: >-
+      places/ChIJWwpdKRyBj4ARWO1klikQgOs/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3ODVXeUhBEAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Best handrolls I've had in the Bay. We went for Oakland's Restaurant
+        Week and the menu was spectacular. Everything was delicious. Highly
+        recommended!
+      languageCode: en
+    originalText:
+      text: >-
+        Best handrolls I've had in the Bay. We went for Oakland's Restaurant
+        Week and the menu was spectacular. Everything was delicious. Highly
+        recommended!
+      languageCode: en
+    authorAttribution:
+      displayName: Oriol Nieto
+      uri: https://www.google.com/maps/contrib/105492818254279815588/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXcg1iTYp00BYhk7F3AJ4STLjhUHPLhnHDREWhL7zayfRsW6463uA=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-03-28T06:14:51.452422Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUR3ODVXeUhBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUR3ODVXeUhBEAE!2m1!1s0x808f811c295d0a5b:0xeb8010299664ed58
+  - name: >-
+      places/ChIJWwpdKRyBj4ARWO1klikQgOs/reviews/ChdDSUhNMG9nS0VJQ0FnSURIMHFMOG9nRRAB
+    relativePublishTimeDescription: 7 months ago
+    rating: 2
+    text:
+      text: >-
+        I had high hopes for this hand roll spot in Oakland, but overall, the
+        experience was pretty underwhelming. The food is very average, and a lot
+        of it seems like it's just pre-made items that you can easily pick up at
+        a Japanese market or wholesaler. The seaweed salad, wasabi octopus, and
+        ankimo all tasted like they were store-bought, not freshly made
+        in-house.
+
+
+        To make matters worse, the seaweed on the rolls was wet and soft,
+        completely lacking the crisp texture you'd expect. For the price, I was
+        expecting much higher quality and attention to detail. Unfortunately, it
+        just didn’t live up to that. If you're paying a premium, you expect
+        fresh, unique dishes, not things you could grab off a shelf at a market.
+        Not worth it for what they charge.
+
+
+        It felt more like a cheap American sushi roll place trying to act like
+        trendy and high end dining.
+
+
+        Not recommended at all, very amateur
+      languageCode: en
+    originalText:
+      text: >-
+        I had high hopes for this hand roll spot in Oakland, but overall, the
+        experience was pretty underwhelming. The food is very average, and a lot
+        of it seems like it's just pre-made items that you can easily pick up at
+        a Japanese market or wholesaler. The seaweed salad, wasabi octopus, and
+        ankimo all tasted like they were store-bought, not freshly made
+        in-house.
+
+
+        To make matters worse, the seaweed on the rolls was wet and soft,
+        completely lacking the crisp texture you'd expect. For the price, I was
+        expecting much higher quality and attention to detail. Unfortunately, it
+        just didn’t live up to that. If you're paying a premium, you expect
+        fresh, unique dishes, not things you could grab off a shelf at a market.
+        Not worth it for what they charge.
+
+
+        It felt more like a cheap American sushi roll place trying to act like
+        trendy and high end dining.
+
+
+        Not recommended at all, very amateur
+      languageCode: en
+    authorAttribution:
+      displayName: Awei Dai
+      uri: https://www.google.com/maps/contrib/103185615658881607638/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjX3Ij6aXNcGKgov0ckbSak_XghJtWJlz6P3Ldyrkd70wAmBx0ke=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2024-09-14T07:34:29.007450Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURIMHFMOG9nRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURIMHFMOG9nRRAB!2m1!1s0x808f811c295d0a5b:0xeb8010299664ed58
+  - name: >-
+      places/ChIJWwpdKRyBj4ARWO1klikQgOs/reviews/ChZDSUhNMG9nS0VJQ0FnSUNqbHVUQ1RBEAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        Great location and good quality of food with affordable price! TBH the
+        flavor is a little bland, but all the hand rolls match well with the soy
+        sauce provided. They have REAL WASABI and this is definitely a plus for
+        this restaurant. Uni, toro & caviar hand roll I tried today is 100%
+        amazing. Looking forward to its grand opening!
+      languageCode: en
+    originalText:
+      text: >-
+        Great location and good quality of food with affordable price! TBH the
+        flavor is a little bland, but all the hand rolls match well with the soy
+        sauce provided. They have REAL WASABI and this is definitely a plus for
+        this restaurant. Uni, toro & caviar hand roll I tried today is 100%
+        amazing. Looking forward to its grand opening!
+      languageCode: en
+    authorAttribution:
+      displayName: Hannah Jin
+      uri: https://www.google.com/maps/contrib/106886643289463162646/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjU-Vp4dRIlE0ESrjzGTS6DlEU_p8wHTjZboJ53irljTEwTPQc6q=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-04-21T05:51:31.440529Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNqbHVUQ1RBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNqbHVUQ1RBEAE!2m1!1s0x808f811c295d0a5b:0xeb8010299664ed58
+  - name: >-
+      places/ChIJWwpdKRyBj4ARWO1klikQgOs/reviews/ChdDSUhNMG9nS0VJQ0FnSUREdnJyam9BRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        Delicious food, friendly staff, and great location! We LOVED the maguro
+        and hamachi crudos. The seaweed salad was simple and yummy. The hand
+        rolls in the 4 combo were each unique with perfectly crispy nori and
+        fresh fish or veggies, and the hot sake hit the spot! We were happy to
+        have room for the jasmine ice cream and calamansi sorbet as well - both
+        really tasty and creative - don't skip dessert!
+
+
+        We are so excited that they're finally open and are definitely coming
+        back soon!
+      languageCode: en
+    originalText:
+      text: >-
+        Delicious food, friendly staff, and great location! We LOVED the maguro
+        and hamachi crudos. The seaweed salad was simple and yummy. The hand
+        rolls in the 4 combo were each unique with perfectly crispy nori and
+        fresh fish or veggies, and the hot sake hit the spot! We were happy to
+        have room for the jasmine ice cream and calamansi sorbet as well - both
+        really tasty and creative - don't skip dessert!
+
+
+        We are so excited that they're finally open and are definitely coming
+        back soon!
+      languageCode: en
+    authorAttribution:
+      displayName: Sara Hellstrom
+      uri: https://www.google.com/maps/contrib/112765846722025968042/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWNEuwm7g5lnHyYzlnC6FFFnvveV_PoIo9hnwFF6XUWflR2qVkz=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-04-10T03:51:03.321780Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUREdnJyam9BRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUREdnJyam9BRRAB!2m1!1s0x808f811c295d0a5b:0xeb8010299664ed58
+review_summary: >-
+  What Visitors Are Saying$$$Visitors often praise the fresh and flavorful
+  handrolls at this Oakland spot, noting that dishes like the tuna and uni rolls
+  stand out for their quality and taste, making it a solid pick for sushi
+  enthusiasts. While some mention that prices can add up quickly, many agree the
+  portions and variety keep things satisfying without feeling overly heavy.
+  Feedback highlights the welcoming service and atmosphere, though a few suggest
+  it might benefit from softer lighting to enhance the overall vibe. Overall,
+  it's a great place for a casual meal with friends, where the positives like
+  real wasabi and creative sides far outweigh any minor drawbacks, leaving most
+  people eager to return for more tasty bites. If you're on the hunt for
+  reliable sushi places near me, this location delivers a generally enjoyable
+  experience with room for everyone to find something they love.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
-payment_options: null
+payment_options:
+  acceptsCreditCards: true
+  acceptsCashOnly: false
 allow_dogs: null
 curbside_pickup: null
 delivery: null
-dine_in: null
-good_for_children: null
+dine_in: true
+good_for_children: true
 good_for_groups: null
-good_for_sports: null
-live_music: null
+good_for_sports: false
+live_music: false
 menu_for_children: null
 outdoor_seating: null
 reservable: null
-restroom: null
-serves_beer: null
+restroom: true
+serves_beer: true
 serves_breakfast: null
 serves_brunch: null
-serves_cocktails: null
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

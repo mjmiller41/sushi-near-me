@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Mike's"
+title: Sushi Mike's
 permalink: /new-york/dobbs-ferry/sushi-mike-s.html
 stateAbbr: NY
 stateName: New York
 cityName: Dobbs Ferry
 seo:
-  name: "Sushi Mike's"
-  type: Restaurant
+  type: restaurant
   links: https://sushimikes.com/?utm_source=google
-description: "Creative specialty rolls & more standard Japanese fare served in a tricked-out, modern space. Sushi Mike's serves delicious sushi in Dobbs Ferry, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJM6nYZGLrwokRO8me2evI8O4
 photos:
   - name: >-
@@ -181,6 +179,29 @@ price_range: $30 &ndash; $50
 rating: '4.4'
 rating_count: 0
 website: https://sushimikes.com/?utm_source=google
+description: >-
+  Explore Sushi Mike's in Dobbs Ferry, NY$$$Sushi Mike's in Dobbs Ferry, NY,
+  delivers a vibrant selection of classic Japanese dishes and inventive
+  specialty rolls in a sleek, contemporary atmosphere. The menu highlights fresh
+  ingredients and creative presentations that elevate traditional sushi options,
+  making it a standout choice for those seeking authentic flavors with a modern
+  twist. Diners can enjoy a casual yet stylish setting that pairs well with the
+  restaurant's focus on quality and variety, including options for vegetarians
+  and those looking for flavorful appetizers. With its moderate pricing and
+  welcoming vibe, this spot appeals to anyone craving a satisfying Japanese
+  dining experience, whether for a quick meal or a relaxed evening out.
+generative_summary: >-
+  Explore Sushi Mike's in Dobbs Ferry, NY$$$Sushi Mike's in Dobbs Ferry, NY,
+  delivers a vibrant selection of classic Japanese dishes and inventive
+  specialty rolls in a sleek, contemporary atmosphere. The menu highlights fresh
+  ingredients and creative presentations that elevate traditional sushi options,
+  making it a standout choice for those seeking authentic flavors with a modern
+  twist. Diners can enjoy a casual yet stylish setting that pairs well with the
+  restaurant's focus on quality and variety, including options for vegetarians
+  and those looking for flavorful appetizers. With its moderate pricing and
+  welcoming vibe, this spot appeals to anyone craving a satisfying Japanese
+  dining experience, whether for a quick meal or a relaxed evening out.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJM6nYZGLrwokRO8me2evI8O4/reviews/ChZDSUhNMG9nS0VJQ0FnSUMzNU9UclFREAE
@@ -322,6 +343,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNqeHNmbF9RRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNqeHNmbF9RRRAB!2m1!1s0x89c2eb6264d8a933:0xeef0c8ebd99ec93b
+review_summary: >-
+  Insights from Recent Reviews$$$Folks rave about the fresh and creative sushi
+  selections at this local favorite, often highlighting how the dishes bring
+  high-quality flavors right to Westchester. Many appreciate the solid
+  appetizers and overall vibe, noting that the service keeps things friendly and
+  efficient even during busy times. While a few mentions point to minor details
+  like room temperature or specific items not always hitting the mark, the
+  general consensus leans toward it being a go-to spot for tasty takeout or
+  dine-in meals. If you're on the hunt for reliable sushi options nearby, this
+  place consistently delivers on freshness and variety, making it worth a visit
+  for anyone in the mood for something delicious. Overall, it's clear that
+  patrons keep coming back for the dependable quality and enjoyable experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeStreetParking: true
   paidStreetParking: true
@@ -354,8 +388,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Creative specialty rolls & more standard Japanese fare served in a
   tricked-out, modern space.
 

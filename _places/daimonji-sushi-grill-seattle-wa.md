@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Daimonji Sushi & Grill"
+title: Daimonji Sushi & Grill
 permalink: /washington/seattle/daimonji-sushi-grill.html
 stateAbbr: WA
 stateName: Washington
 cityName: Seattle
 seo:
-  name: "Daimonji Sushi & Grill"
-  type: Restaurant
+  type: restaurant
   links: https://daimonji.square.site/
-description: "Daimonji Sushi & Grill serves delicious sushi in Seattle, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJz6StMetBkFQR5RQJKxw12U0
 photos:
   - name: >-
@@ -170,7 +168,97 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x549041eb31ada4cf:0x4dd9351c2b0914e5!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 0
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 20
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 20
+        minute: 30
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 20
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 2:00 PM, 5:00 – 8:00 PM'
     - 'Tuesday: 11:00 AM – 2:00 PM, 5:00 – 8:00 PM'
     - 'Wednesday: 11:00 AM – 2:00 PM, 5:00 – 8:00 PM'
@@ -178,14 +266,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 2:00 PM, 5:00 – 8:30 PM'
     - 'Saturday: 5:00 – 8:30 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:00 AM – 2:00 PM, 5:00 – 8:00 PM'
-    - 'Tuesday: 11:00 AM – 2:00 PM, 5:00 – 8:00 PM'
-    - 'Wednesday: 11:00 AM – 2:00 PM, 5:00 – 8:00 PM'
-    - 'Thursday: 11:00 AM – 2:00 PM, 5:00 – 8:00 PM'
-    - 'Friday: 11:00 AM – 2:00 PM, 5:00 – 8:30 PM'
-    - 'Saturday: 5:00 – 8:30 PM'
-    - 'Sunday: Closed'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +278,51 @@ phone: (206) 762-7820
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.5'
-rating_count: 0
+rating_count: 405
 website: https://daimonji.square.site/
+description: >-
+  Discover Daimonji Sushi & Grill in Seattle, WA$$$Nestled in the heart of
+  Seattle, WA, Daimonji Sushi & Grill offers a welcoming atmosphere perfect for
+  those seeking authentic Japanese cuisine in a relaxed setting. This sushi
+  restaurant features a cozy sushi bar where diners can enjoy a variety of
+  traditional dishes, including fresh vegetarian options that cater to diverse
+  tastes. With its accessible features like wheelchair-friendly entrances and
+  seating, it's an inclusive spot for everyone looking to savor high-quality
+  rolls and grilled specialties. Operating with convenient hours for lunch and
+  dinner, the venue stands out for its moderate pricing and solid portions,
+  making it a go-to choice for sushi enthusiasts exploring the city's vibrant
+  dining scene. Whether you're in the mood for classic Japanese standards or
+  something lighter, this spot delivers a satisfying experience that highlights
+  fresh ingredients and thoughtful preparation.
+generative_summary: >-
+  Discover Daimonji Sushi & Grill in Seattle, WA$$$Nestled in the heart of
+  Seattle, WA, Daimonji Sushi & Grill offers a welcoming atmosphere perfect for
+  those seeking authentic Japanese cuisine in a relaxed setting. This sushi
+  restaurant features a cozy sushi bar where diners can enjoy a variety of
+  traditional dishes, including fresh vegetarian options that cater to diverse
+  tastes. With its accessible features like wheelchair-friendly entrances and
+  seating, it's an inclusive spot for everyone looking to savor high-quality
+  rolls and grilled specialties. Operating with convenient hours for lunch and
+  dinner, the venue stands out for its moderate pricing and solid portions,
+  making it a go-to choice for sushi enthusiasts exploring the city's vibrant
+  dining scene. Whether you're in the mood for classic Japanese standards or
+  something lighter, this spot delivers a satisfying experience that highlights
+  fresh ingredients and thoughtful preparation.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Buzzing About$$$Folks who've stopped by this sushi spot
+  often rave about the fresh and skillfully made rolls, with standout items like
+  creative seasonal varieties leaving a strong impression. Many appreciate the
+  efficient and friendly service that keeps things running smoothly, adding to
+  the overall enjoyable vibe without any fuss. It's frequently noted as a great
+  value, offering generous portions at reasonable prices that make it easy on
+  the wallet for a quality meal. Diners highlight the welcoming environment as a
+  plus, especially for those hunting for reliable Japanese options nearby.
+  Overall, it's shaping up as a solid pick for anyone craving tasty sushi in a
+  laid-back setting, with positive feedback focusing on the balance of flavor,
+  affordability, and attentive staff.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +348,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

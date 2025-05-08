@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "A1 Kings Buffet"
+title: A1 Kings Buffet
 permalink: /new-york/massena/a1-kings-buffet.html
 stateAbbr: NY
 stateName: New York
 cityName: Massena
 seo:
-  name: "A1 Kings Buffet"
-  type: Restaurant
+  type: restaurant
   links: http://a1kingbuffet.restaurant888.com/
-description: "A1 Kings Buffet serves delicious sushi in Massena, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJuWMLQtk_zEwRIg-keJaWbDs
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $10 &ndash; $20
 rating: '3.5'
 rating_count: 0
 website: http://a1kingbuffet.restaurant888.com/
+description: >-
+  Discover A1 Kings Buffet in Massena, NY$$$A1 Kings Buffet in Massena, NY,
+  offers a casual all-you-can-eat experience featuring a variety of
+  Chinese-inspired dishes perfect for quick meals and small plates. Located in a
+  convenient shopping center, this buffet restaurant stands out with its
+  accessible features, including wheelchair-friendly entrances and ample parking
+  options, making it easy for everyone to enjoy. Diners can savor flavorful
+  options for lunch, dinner, and desserts, along with family-friendly amenities
+  like outdoor seating and a welcoming atmosphere for groups. The spot
+  emphasizes affordability with moderate pricing, ideal for those seeking
+  satisfying, no-fuss dining in the area.
+generative_summary: >-
+  Discover A1 Kings Buffet in Massena, NY$$$A1 Kings Buffet in Massena, NY,
+  offers a casual all-you-can-eat experience featuring a variety of
+  Chinese-inspired dishes perfect for quick meals and small plates. Located in a
+  convenient shopping center, this buffet restaurant stands out with its
+  accessible features, including wheelchair-friendly entrances and ample parking
+  options, making it easy for everyone to enjoy. Diners can savor flavorful
+  options for lunch, dinner, and desserts, along with family-friendly amenities
+  like outdoor seating and a welcoming atmosphere for groups. The spot
+  emphasizes affordability with moderate pricing, ideal for those seeking
+  satisfying, no-fuss dining in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJuWMLQtk_zEwRIg-keJaWbDs/reviews/ChdDSUhNMG9nS0VJQ0FnSUR0emNTNjlRRRAB
@@ -346,6 +367,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR3d0lUNHJBRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR3d0lUNHJBRRAB!2m1!1s0x4ccc3fd9420b63b9:0x3b6c969678a40f22
+review_summary: >-
+  What Customers Are Sharing$$$Visitors to this buffet restaurant often
+  appreciate the friendly service that adds a warm touch to their meals, making
+  it a go-to for casual gatherings. While some note that the food selection can
+  vary and might not always hit the mark in terms of freshness, many still find
+  value in the all-you-can-eat setup for trying different flavors. Feedback
+  highlights that the atmosphere is generally relaxed, though a few mention it
+  could use more variety to fully satisfy cravings. Overall, it's a solid choice
+  for affordable Chinese dining if you're in the mood for something
+  straightforward, with room for improvements that keep things upbeat for return
+  trips. Keep in mind, stopping by during peak times might offer the best
+  variety for an enjoyable experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -378,7 +412,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

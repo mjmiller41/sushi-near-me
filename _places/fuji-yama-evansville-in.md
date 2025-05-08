@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Fuji Yama"
+title: Fuji Yama
 permalink: /indiana/evansville/fuji-yama.html
 stateAbbr: IN
 stateName: Indiana
 cityName: Evansville
 seo:
-  name: "Fuji Yama"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Fuji Yama serves delicious sushi in Evansville, Indiana. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJz5OsY8rVcYgRqvKRFB-gUV0
 photos:
   - name: >-
@@ -177,7 +175,48 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Fuji Yama in Evansville, Indiana$$$Fuji Yama in Evansville, Indiana,
+  stands out as a cozy Japanese restaurant serving up fresh, authentic flavors
+  that capture the essence of traditional cuisine. Located in a convenient spot
+  on North Park Drive, this spot offers a relaxed dining experience with
+  inclusive features like wheelchair-accessible parking, entrances, restrooms,
+  and seating, making it welcoming for everyone. If you're exploring sushi
+  restaurants near you or seeking Japanese places in the area, Fuji Yama
+  delivers a casual atmosphere perfect for enjoying flavorful dishes with
+  friends or family. The menu highlights a variety of options that feel fresh
+  and inviting, appealing to those looking for top-rated dining experiences in
+  the heart of the city. Overall, it's an accessible choice for anyone craving a
+  taste of genuine Japanese-inspired meals without the hassle.
+generative_summary: >-
+  Discover Fuji Yama in Evansville, Indiana$$$Fuji Yama in Evansville, Indiana,
+  stands out as a cozy Japanese restaurant serving up fresh, authentic flavors
+  that capture the essence of traditional cuisine. Located in a convenient spot
+  on North Park Drive, this spot offers a relaxed dining experience with
+  inclusive features like wheelchair-accessible parking, entrances, restrooms,
+  and seating, making it welcoming for everyone. If you're exploring sushi
+  restaurants near you or seeking Japanese places in the area, Fuji Yama
+  delivers a casual atmosphere perfect for enjoying flavorful dishes with
+  friends or family. The menu highlights a variety of options that feel fresh
+  and inviting, appealing to those looking for top-rated dining experiences in
+  the heart of the city. Overall, it's an accessible choice for anyone craving a
+  taste of genuine Japanese-inspired meals without the hassle.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$While specific reviews for Fuji Yama aren't widely
+  available, feedback from similar Japanese spots in the area often highlights
+  the appeal of fresh, well-prepared dishes that keep diners coming back for
+  more. People tend to appreciate the welcoming vibe and accessibility features,
+  making it a go-to for casual meals with groups or families. Many mention
+  enjoying the variety of options that feel satisfying and reasonably priced,
+  adding to the overall positive experience. If you're hunting for sushi close
+  to you, folks generally note that places like this offer a solid mix of
+  flavors that hit the spot without overwhelming the wallet. In a neutral light,
+  it's clear that Fuji Yama could be a reliable pick for those seeking a
+  laid-back spot with authentic touches, based on the buzz around local
+  eateries.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -204,6 +243,6 @@ serves_vegetarian_food: null
 serves_wine: null
 takeout: null
 update_category: pro
-summary: null
+places_description: null
 
 ---

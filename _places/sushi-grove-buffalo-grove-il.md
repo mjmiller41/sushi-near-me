@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Grove"
+title: Sushi Grove
 permalink: /illinois/buffalo-grove/sushi-grove.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Buffalo Grove
 seo:
-  name: "Sushi Grove"
-  type: Restaurant
+  type: restaurant
   links: https://www.eatmenu24.com/forward?route=sushigrove_gs5d4hg5sd4hb5sd4g5
-description: "Sushi Grove serves delicious sushi in Buffalo Grove, Illinois. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ-z699mi8D4gROPLJUdu_ONw
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x880fbc68f6bd3efb:0xdc38bfdb51c9f238!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:00 AM – 10:00 PM'
     - 'Wednesday: 11:00 AM – 10:00 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:30 PM'
     - 'Saturday: 11:00 AM – 10:30 PM'
     - 'Sunday: 12:00 – 9:30 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:00 AM – 10:00 PM'
-    - 'Wednesday: 11:00 AM – 10:00 PM'
-    - 'Thursday: 11:00 AM – 10:00 PM'
-    - 'Friday: 11:00 AM – 10:30 PM'
-    - 'Saturday: 11:00 AM – 10:30 PM'
-    - 'Sunday: 12:00 – 9:30 PM'
+  nextCloseTime: '2025-05-04T03:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +238,45 @@ phone: (847) 520-9988
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.2'
-rating_count: 0
+rating_count: 783
 website: https://www.eatmenu24.com/forward?route=sushigrove_gs5d4hg5sd4hb5sd4g5
+description: >-
+  Discover Sushi Grove in Buffalo Grove$$$Sushi Grove in Buffalo Grove, IL,
+  stands out as a welcoming Japanese eatery specializing in fresh,
+  all-you-can-eat sushi options that cater to a variety of tastes. This casual
+  spot features a diverse selection of rolls and other Japanese favorites,
+  complemented by beer and wine choices for a relaxed meal. With thoughtful
+  accessibility features like wheelchair-friendly parking and entrances, it's
+  designed to accommodate everyone looking for an enjoyable dining experience.
+  For those searching for quality sushi restaurants nearby, Sushi Grove offers a
+  dependable choice that emphasizes fresh ingredients and a comfortable
+  atmosphere, making it a go-to for Japanese cuisine enthusiasts in the area.
+generative_summary: >-
+  Discover Sushi Grove in Buffalo Grove$$$Sushi Grove in Buffalo Grove, IL,
+  stands out as a welcoming Japanese eatery specializing in fresh,
+  all-you-can-eat sushi options that cater to a variety of tastes. This casual
+  spot features a diverse selection of rolls and other Japanese favorites,
+  complemented by beer and wine choices for a relaxed meal. With thoughtful
+  accessibility features like wheelchair-friendly parking and entrances, it's
+  designed to accommodate everyone looking for an enjoyable dining experience.
+  For those searching for quality sushi restaurants nearby, Sushi Grove offers a
+  dependable choice that emphasizes fresh ingredients and a comfortable
+  atmosphere, making it a go-to for Japanese cuisine enthusiasts in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Folks who dine at this Japanese spot often
+  highlight the all-you-can-eat menu as a fantastic value, with crowd-pleasers
+  like creative rolls and fresh nigiri standing out as must-tries. Many
+  appreciate the attentive service and reasonable prices that make it feel like
+  a smart pick for casual meals with friends or family. While some mention that
+  wait times for dishes can occasionally stretch a bit, the overall freshness of
+  the ingredients keeps the experience satisfying and worthwhile. If you're on
+  the hunt for top-rated sushi options close to you, this place earns praise for
+  its reliable flavors and welcoming vibe, making it a solid recommendation for
+  anyone craving Japanese fare. Overall, it's a hit that balances fun and
+  affordability, encouraging return visits for sushi lovers.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +302,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

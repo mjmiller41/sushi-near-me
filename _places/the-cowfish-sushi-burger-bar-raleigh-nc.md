@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "The Cowfish Sushi Burger Bar"
+title: The Cowfish Sushi Burger Bar
 permalink: /north-carolina/raleigh/the-cowfish-sushi-burger-bar.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Raleigh
 seo:
-  name: "The Cowfish Sushi Burger Bar"
-  type: Restaurant
+  type: restaurant
   links: http://thecowfish.com/
-description: "Gourmet burgers & sushi, & fusion combos of the 2, plus beer & spirits in a vibrant, colorful space. The Cowfish Sushi Burger Bar serves delicious sushi in Raleigh, North Carolina. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ660nrZZYrIkRP9AQVS2sBHI
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 0
 website: http://thecowfish.com/
+description: >-
+  Experience The Cowfish in Raleigh, NC$$$The Cowfish Sushi Burger Bar in
+  Raleigh, NC, offers a unique blend of gourmet burgers and fresh sushi that
+  appeals to those seeking innovative dining options in the area. This vibrant
+  spot features creative fusion dishes, a trendy atmosphere enhanced by
+  eye-catching decor like a central fish tank, and a menu that caters to a
+  variety of tastes for sushi enthusiasts. With its moderate pricing and
+  accessibility features, it's an ideal choice for casual outings or groups
+  looking for Japanese-inspired flavors combined with American classics. The
+  restaurant's lively vibe and extensive drink selections make it a go-to
+  destination for anyone exploring top sushi restaurants nearby, ensuring a
+  memorable meal in a welcoming environment.
+generative_summary: >-
+  Experience The Cowfish in Raleigh, NC$$$The Cowfish Sushi Burger Bar in
+  Raleigh, NC, offers a unique blend of gourmet burgers and fresh sushi that
+  appeals to those seeking innovative dining options in the area. This vibrant
+  spot features creative fusion dishes, a trendy atmosphere enhanced by
+  eye-catching decor like a central fish tank, and a menu that caters to a
+  variety of tastes for sushi enthusiasts. With its moderate pricing and
+  accessibility features, it's an ideal choice for casual outings or groups
+  looking for Japanese-inspired flavors combined with American classics. The
+  restaurant's lively vibe and extensive drink selections make it a go-to
+  destination for anyone exploring top sushi restaurants nearby, ensuring a
+  memorable meal in a welcoming environment.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ660nrZZYrIkRP9AQVS2sBHI/reviews/ChZDSUhNMG9nS0VJQ0FnSURuN2NyR2FREAE
@@ -404,6 +427,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNueXZDQ2Z3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNueXZDQ2Z3EAE!2m1!1s0x89ac5896ad27adeb:0x7204ac2d5510d03f
+review_summary: >-
+  Buzz Around The Reviews$$$Folks chatting about The Cowfish rave about the
+  flavorful burgers and fresh sushi rolls that hit the spot, often highlighting
+  the fun bento boxes as a smart way to mix things up. Many appreciate the
+  upbeat atmosphere and solid service that keep things enjoyable, even if the
+  place can get a bit crowded and noisy at peak times. While some mention that
+  prices lean toward the higher side and waits might stretch out, the overall
+  vibe and tasty appetizers like crab Rangoon dip make it worth the visit for
+  sushi lovers in the mood for something different. It's clear this spot
+  delivers a solid experience, with generous portions and creative drinks adding
+  to the appeal, making it a reliable pick for anyone hunting for great sushi
+  places around town.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -436,8 +472,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Gourmet burgers & sushi, & fusion combos of the 2, plus beer & spirits in a
   vibrant, colorful space.
 

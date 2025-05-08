@@ -5,4 +5,5 @@ permalink: /california/emeryville/
 stateAbbr: CA
 stateName: California
 cityName: Emeryville
+
 ---

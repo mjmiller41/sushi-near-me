@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kona Grill - Riverton"
+title: Kona Grill - Riverton
 permalink: /utah/riverton/kona-grill-riverton.html
 stateAbbr: UT
 stateName: Utah
 cityName: Riverton
 seo:
-  name: "Kona Grill - Riverton"
-  type: Restaurant
+  type: restaurant
   links: https://konagrill.com/locations?locations=Riverton,84096
-description: "Kona Grill - Riverton serves delicious sushi in Riverton, Utah. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJoX1rVkuFUocRF8-glESUIwU
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8752854b566b7da1:0x523944494a0cf17!10e5
 primary_type: American Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 10:00 PM'
     - 'Tuesday: 11:30 AM – 10:00 PM'
     - 'Wednesday: 11:30 AM – 10:00 PM'
@@ -178,54 +234,458 @@ opening_hours:
     - 'Friday: 11:30 AM – 10:00 PM'
     - 'Saturday: 11:30 AM – 10:00 PM'
     - 'Sunday: 11:30 AM – 10:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 10:00 PM'
-    - 'Tuesday: 11:30 AM – 10:00 PM'
-    - 'Wednesday: 11:30 AM – 10:00 PM'
-    - 'Thursday: 11:30 AM – 10:00 PM'
-    - 'Friday: 11:30 AM – 10:00 PM'
-    - 'Saturday: 11:30 AM – 10:00 PM'
-    - 'Sunday: 11:30 AM – 10:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 21
+          minute: 0
+        close:
+          day: 0
+          hour: 23
+          minute: 0
+      - open:
+          day: 1
+          hour: 14
+          minute: 0
+        close:
+          day: 1
+          hour: 18
+          minute: 0
+      - open:
+          day: 1
+          hour: 21
+          minute: 0
+        close:
+          day: 1
+          hour: 22
+          minute: 0
+      - open:
+          day: 2
+          hour: 14
+          minute: 0
+        close:
+          day: 2
+          hour: 18
+          minute: 0
+      - open:
+          day: 2
+          hour: 21
+          minute: 0
+        close:
+          day: 2
+          hour: 22
+          minute: 0
+      - open:
+          day: 3
+          hour: 14
+          minute: 0
+        close:
+          day: 3
+          hour: 18
+          minute: 0
+      - open:
+          day: 3
+          hour: 21
+          minute: 0
+        close:
+          day: 3
+          hour: 22
+          minute: 0
+      - open:
+          day: 4
+          hour: 14
+          minute: 0
+        close:
+          day: 4
+          hour: 18
+          minute: 0
+      - open:
+          day: 4
+          hour: 21
+          minute: 0
+        close:
+          day: 4
+          hour: 22
+          minute: 0
+      - open:
+          day: 5
+          hour: 14
+          minute: 0
+        close:
+          day: 5
+          hour: 18
+          minute: 0
+      - open:
+          day: 5
+          hour: 21
+          minute: 0
+        close:
+          day: 5
+          hour: 22
+          minute: 0
+      - open:
+          day: 6
+          hour: 14
+          minute: 0
+        close:
+          day: 6
+          hour: 18
+          minute: 0
+      - open:
+          day: 6
+          hour: 21
+          minute: 0
+        close:
+          day: 6
+          hour: 22
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 2:00 – 6:00 PM, 9:00 – 10:00 PM'
+      - 'Tuesday: 2:00 – 6:00 PM, 9:00 – 10:00 PM'
+      - 'Wednesday: 2:00 – 6:00 PM, 9:00 – 10:00 PM'
+      - 'Thursday: 2:00 – 6:00 PM, 9:00 – 10:00 PM'
+      - 'Friday: 2:00 – 6:00 PM, 9:00 – 10:00 PM'
+      - 'Saturday: 2:00 – 6:00 PM, 9:00 – 10:00 PM'
+      - 'Sunday: 9:00 – 11:00 PM'
+    secondaryHoursType: HAPPY_HOUR
+    nextCloseTime: '2025-05-04T00:00:00Z'
 phone: (385) 317-7744
 price_level: PRICE_LEVEL_MODERATE
-price_range: null
+price_range: $20 &ndash; $30
 rating: '4.5'
-rating_count: 0
+rating_count: 3140
 website: https://konagrill.com/locations?locations=Riverton,84096
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Explore Kona Grill in Riverton, Utah$$$Nestled in Riverton, Utah, Kona Grill
+  stands out as a polished chain restaurant offering a blend of American
+  favorites, fresh seafood, and inventive sushi options in a relaxed setting.
+  The spot features a diverse menu that highlights flavorful steaks, seafood
+  dishes, and creative rolls, making it a go-to for those seeking casual dining
+  with a touch of elegance. Accessibility is a key highlight, with
+  wheelchair-friendly parking, entrances, and seating ensuring everyone can
+  enjoy the experience. Its inviting atmosphere, complete with outdoor seating
+  and a welcoming vibe, pairs perfectly with cocktails and happy hour specials.
+  Whether you're looking for top-rated sushi near Riverton or a laid-back meal
+  with friends, this location delivers on variety and value.
+generative_summary: >-
+  Explore Kona Grill in Riverton, Utah$$$Nestled in Riverton, Utah, Kona Grill
+  stands out as a polished chain restaurant offering a blend of American
+  favorites, fresh seafood, and inventive sushi options in a relaxed setting.
+  The spot features a diverse menu that highlights flavorful steaks, seafood
+  dishes, and creative rolls, making it a go-to for those seeking casual dining
+  with a touch of elegance. Accessibility is a key highlight, with
+  wheelchair-friendly parking, entrances, and seating ensuring everyone can
+  enjoy the experience. Its inviting atmosphere, complete with outdoor seating
+  and a welcoming vibe, pairs perfectly with cocktails and happy hour specials.
+  Whether you're looking for top-rated sushi near Riverton or a laid-back meal
+  with friends, this location delivers on variety and value.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJoX1rVkuFUocRF8-glESUIwU/reviews/ChZDSUhNMG9nS0VJQ0FnTUNvaFBEaEd3EAE
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        This place was amazing!!! Came here for dinner on a Monday night and
+        everything was great. The food was delicious, well worth the price,
+        ambiance/decor was great, and the staff were way cool and friendly. Both
+        Marion and Coleman helped us out and they were super helpful and
+        attentive to when we needed water and extra sauces etc.   I got a medium
+        rare filet with lobster which was delicious and we loved the sushi as
+        well. Very big menu and great staff! If you get a side, the meatballs
+        are a must try!
+
+
+        Looking forward to going back for a birthday this weekend!
+      languageCode: en
+    originalText:
+      text: >-
+        This place was amazing!!! Came here for dinner on a Monday night and
+        everything was great. The food was delicious, well worth the price,
+        ambiance/decor was great, and the staff were way cool and friendly. Both
+        Marion and Coleman helped us out and they were super helpful and
+        attentive to when we needed water and extra sauces etc.   I got a medium
+        rare filet with lobster which was delicious and we loved the sushi as
+        well. Very big menu and great staff! If you get a side, the meatballs
+        are a must try!
+
+
+        Looking forward to going back for a birthday this weekend!
+      languageCode: en
+    authorAttribution:
+      displayName: Carmen Roadifer
+      uri: https://www.google.com/maps/contrib/115106994748923066339/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLs8KPxDGio2e9Nor209fuVhEecNR9R7DuB307qLbUiExB2mw=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-04-15T04:54:06.938738Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNvaFBEaEd3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNvaFBEaEd3EAE!2m1!1s0x8752854b566b7da1:0x523944494a0cf17
+  - name: >-
+      places/ChIJoX1rVkuFUocRF8-glESUIwU/reviews/ChZDSUhNMG9nS0VJQ0FnTUNBdFltOENBEAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 3
+    text:
+      text: >-
+        We came here at 1 pm on a Sunday to celebrate my oldest son’s birthday.
+        At first they only gave us brunch menus but they eventually brought
+        regular menus per our request. Our waiter’s name was Coleman. He was
+        very nice and he seemed to be trying very hard. The problem was that we
+        asked about using a Facebook coupon for a free burger and he said he
+        would make it happen. However, when we were finished the manager came to
+        our table and said we couldn’t use that offer because it was supposed to
+        be for take out only and the computer would not let her do it. She
+        didn’t seem to care about the fact that our waiter told us he would
+        honor it before he took our orders. I ordered the Rocky Mountain Omelet
+        because it said it included roasted red peppers. When I told the manager
+        that it didn’t include any red peppers she said “corporate took those
+        roasted red peppers away from us”. I told her they are listed on the
+        menu, but once again she didn’t seem to care. My omelet was overcooked
+        and filled with mostly onions. The rest of the food was okay but way
+        overpriced for what we received. The total was $185.62 for five of us
+        and four of us just had water to drink. The best items I tried were the
+        Sunset sushi roll and the asparagus. This is a beautiful and nicely
+        decorated restaurant with fish tanks and an awesome looking patio on an
+        upper deck. However, because of the manager’s ‘I don’t care’ attitude I
+        doubt I will ever return.
+      languageCode: en
+    originalText:
+      text: >-
+        We came here at 1 pm on a Sunday to celebrate my oldest son’s birthday.
+        At first they only gave us brunch menus but they eventually brought
+        regular menus per our request. Our waiter’s name was Coleman. He was
+        very nice and he seemed to be trying very hard. The problem was that we
+        asked about using a Facebook coupon for a free burger and he said he
+        would make it happen. However, when we were finished the manager came to
+        our table and said we couldn’t use that offer because it was supposed to
+        be for take out only and the computer would not let her do it. She
+        didn’t seem to care about the fact that our waiter told us he would
+        honor it before he took our orders. I ordered the Rocky Mountain Omelet
+        because it said it included roasted red peppers. When I told the manager
+        that it didn’t include any red peppers she said “corporate took those
+        roasted red peppers away from us”. I told her they are listed on the
+        menu, but once again she didn’t seem to care. My omelet was overcooked
+        and filled with mostly onions. The rest of the food was okay but way
+        overpriced for what we received. The total was $185.62 for five of us
+        and four of us just had water to drink. The best items I tried were the
+        Sunset sushi roll and the asparagus. This is a beautiful and nicely
+        decorated restaurant with fish tanks and an awesome looking patio on an
+        upper deck. However, because of the manager’s ‘I don’t care’ attitude I
+        doubt I will ever return.
+      languageCode: en
+    authorAttribution:
+      displayName: Jack Falkenrath
+      uri: https://www.google.com/maps/contrib/115472817062556029644/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIAgStlU28l88qnDQbfMK6krGlq3ecAQoMrzOSvdriYkdssAw=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-02-02T23:10:08.166642Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNBdFltOENBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNBdFltOENBEAE!2m1!1s0x8752854b566b7da1:0x523944494a0cf17
+  - name: >-
+      places/ChIJoX1rVkuFUocRF8-glESUIwU/reviews/ChdDSUhNMG9nS0VJQ0FnSUNmajhMTTJnRRAB
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        Kona Grill is a hip, island-inspired eatery that truly has something for
+        everyone. This was our second visit, and while everything was great, I
+        gave it a 5-star rating that feels more like a solid 4.5. Let’s talk
+        about it!
+
+
+        We came in early on New Year’s Eve (4:30 PM) and were greeted warmly.
+        The staff were all wonderful, engaging, and made us feel right at home.
+        The ambiance? Simply fantastic—a great mix of chill vibes and classy
+        touches.
+
+
+        Now, let’s get to the food. We started with the meatball appetizer and
+        then moved on to the macadamia nut chicken, the KG Burger, and a side of
+        mac and cheese. Everything was plated beautifully and looked very
+        inviting. While each dish tasted good, they all could have used just a
+        touch more seasoning—mainly a bit more salt to really make the flavors
+        pop. That said, we enjoyed every bite.
+
+
+        Our server, Sierra, was absolutely awesome. She was friendly, attentive,
+        and made the whole experience feel special. We had a tiny hiccup with
+        the KG Burger (we requested no onions, but it arrived with them). Sierra
+        noticed right away and went above and beyond by comping the burger. It
+        was such a kind gesture and completely unnecessary, but it left a
+        lasting impression. Thank you, Sierra!
+
+
+        I would highly recommend giving Kona Grill a try. It’s perfect for a
+        date night or a fun evening out with another couple (or two). You won’t
+        be disappointed. :)
+      languageCode: en
+    originalText:
+      text: >-
+        Kona Grill is a hip, island-inspired eatery that truly has something for
+        everyone. This was our second visit, and while everything was great, I
+        gave it a 5-star rating that feels more like a solid 4.5. Let’s talk
+        about it!
+
+
+        We came in early on New Year’s Eve (4:30 PM) and were greeted warmly.
+        The staff were all wonderful, engaging, and made us feel right at home.
+        The ambiance? Simply fantastic—a great mix of chill vibes and classy
+        touches.
+
+
+        Now, let’s get to the food. We started with the meatball appetizer and
+        then moved on to the macadamia nut chicken, the KG Burger, and a side of
+        mac and cheese. Everything was plated beautifully and looked very
+        inviting. While each dish tasted good, they all could have used just a
+        touch more seasoning—mainly a bit more salt to really make the flavors
+        pop. That said, we enjoyed every bite.
+
+
+        Our server, Sierra, was absolutely awesome. She was friendly, attentive,
+        and made the whole experience feel special. We had a tiny hiccup with
+        the KG Burger (we requested no onions, but it arrived with them). Sierra
+        noticed right away and went above and beyond by comping the burger. It
+        was such a kind gesture and completely unnecessary, but it left a
+        lasting impression. Thank you, Sierra!
+
+
+        I would highly recommend giving Kona Grill a try. It’s perfect for a
+        date night or a fun evening out with another couple (or two). You won’t
+        be disappointed. :)
+      languageCode: en
+    authorAttribution:
+      displayName: Brayden McCairns
+      uri: https://www.google.com/maps/contrib/111593428927367269052/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUpRPKTwXO5A8QgzIVt_7HNOXFgbueQgJu2QoF9_BnmGGYqwhXC=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-01-02T16:43:54.223222Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNmajhMTTJnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNmajhMTTJnRRAB!2m1!1s0x8752854b566b7da1:0x523944494a0cf17
+  - name: >-
+      places/ChIJoX1rVkuFUocRF8-glESUIwU/reviews/ChZDSUhNMG9nS0VJQ0FnTUNvallfaUpBEAE
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        Rex and Brock were awesome, the service has been a dream! They where so
+        attentive and quick with everything!
+
+        I will be requesting either of them every time I come here 💯
+      languageCode: en
+    originalText:
+      text: >-
+        Rex and Brock were awesome, the service has been a dream! They where so
+        attentive and quick with everything!
+
+        I will be requesting either of them every time I come here 💯
+      languageCode: en
+    authorAttribution:
+      displayName: Saxton Pentico
+      uri: https://www.google.com/maps/contrib/100163797958988842355/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVHU2_OqAdhsqdCVHd3eYkVlTL2FyRryT7-dtKsRYwYsZVXYrgvNg=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-19T01:03:49.961146Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNvallfaUpBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNvallfaUpBEAE!2m1!1s0x8752854b566b7da1:0x523944494a0cf17
+  - name: >-
+      places/ChIJoX1rVkuFUocRF8-glESUIwU/reviews/ChdDSUhNMG9nS0VJQ0FnTUNndWFLSDBRRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        Best experience EVER! Came in on a Tuesday afternoon with my family of
+        6. Kids ranging from 6 weeks to 13. The staff didn’t skip a beat. They
+        were so accommodating! We were greeted by Silas at the front door, and
+        he was amazing. So kind and friendly, struck up a convo with my us about
+        Demon Slayer because our girls were wearing their merch and that was
+        just an awesome way to break the ice. The food was so delicious, our
+        cups were always full, and Sara was so kind and made sure we were happy
+        the entire time. It can be so nerve  racking to go out for a nice meal
+        with a large family and little ones, but the way we were treated and
+        cared for at Kona Grill made it the most pleasant and memorable
+        experience we have had in years.
+      languageCode: en
+    originalText:
+      text: >-
+        Best experience EVER! Came in on a Tuesday afternoon with my family of
+        6. Kids ranging from 6 weeks to 13. The staff didn’t skip a beat. They
+        were so accommodating! We were greeted by Silas at the front door, and
+        he was amazing. So kind and friendly, struck up a convo with my us about
+        Demon Slayer because our girls were wearing their merch and that was
+        just an awesome way to break the ice. The food was so delicious, our
+        cups were always full, and Sara was so kind and made sure we were happy
+        the entire time. It can be so nerve  racking to go out for a nice meal
+        with a large family and little ones, but the way we were treated and
+        cared for at Kona Grill made it the most pleasant and memorable
+        experience we have had in years.
+      languageCode: en
+    authorAttribution:
+      displayName: Janda Bouzakis
+      uri: https://www.google.com/maps/contrib/100325014134177432809/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjV32fUI-hpc63JCnLoX3WFd4tSmea6d1aSTZ9y0mgnMCl5Xxdm1jw=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-02-19T00:21:22.245286Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNndWFLSDBRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNndWFLSDBRRRAB!2m1!1s0x8752854b566b7da1:0x523944494a0cf17
+review_summary: >-
+  Insights from Recent Visits$$$Folks rave about the friendly service and
+  attentive staff that make every meal feel effortless and enjoyable, often
+  noting how quickly needs are met during busy times. Many highlight the
+  delicious food, especially the fresh sushi and hearty entrees like burgers and
+  seafood, which offer great flavors at a reasonable price point. While a few
+  mentions point to minor hiccups, such as occasional seasoning tweaks or menu
+  discrepancies, these don't overshadow the overall positive vibes and welcoming
+  environment. Visitors appreciate the family-friendly setup and ample portions
+  that leave everyone satisfied, making it a solid choice for groups or casual
+  outings. If you're hunting for reliable sushi places near you, this spot
+  consistently delivers a fun dining experience that's worth checking out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
 good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+live_music: false
+menu_for_children: true
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: true
+serves_brunch: true
+serves_cocktails: true
+serves_coffee: true
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Sleek chain with a broad New American menu including low-calorie options, plus
+  sushi & cocktails.
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Fish & Rice"
+title: Fish & Rice
 permalink: /oregon/portland/fish-rice.html
 stateAbbr: OR
 stateName: Oregon
 cityName: Portland
 seo:
-  name: "Fish & Rice"
-  type: Restaurant
+  type: restaurant
   links: http://www.fishnrice.com/
-description: "Fish & Rice serves delicious sushi in Portland, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJY8MROHIJlVQR3NC3NJKPXmE
 photos:
   - name: >-
@@ -169,7 +167,89 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x549509723811c363:0x615e8f9234b7d0dc!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 2
+        hour: 12
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 0
+    - open:
+        day: 3
+        hour: 12
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 0
+    - open:
+        day: 4
+        hour: 12
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 0
+    - open:
+        day: 5
+        hour: 12
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 0
+      close:
+        day: 5
+        hour: 20
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 14
+        minute: 30
+    - open:
+        day: 6
+        hour: 16
+        minute: 0
+      close:
+        day: 6
+        hour: 20
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 12:00 – 2:30 PM, 4:00 – 8:00 PM'
     - 'Wednesday: 12:00 – 2:30 PM, 4:00 – 8:00 PM'
@@ -177,14 +257,7 @@ opening_hours:
     - 'Friday: 12:00 – 2:30 PM, 4:00 – 8:00 PM'
     - 'Saturday: 12:00 – 2:30 PM, 4:00 – 8:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 12:00 – 2:30 PM, 4:00 – 8:00 PM'
-    - 'Wednesday: 12:00 – 2:30 PM, 4:00 – 8:00 PM'
-    - 'Thursday: 12:00 – 2:30 PM, 4:00 – 8:00 PM'
-    - 'Friday: 12:00 – 2:30 PM, 4:00 – 8:00 PM'
-    - 'Saturday: 12:00 – 2:30 PM, 4:00 – 8:00 PM'
-    - 'Sunday: Closed'
+  nextOpenTime: '2025-05-03T23:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,35 +269,235 @@ phone: (503) 954-1270
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.6'
-rating_count: 0
+rating_count: 405
 website: http://www.fishnrice.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Fish & Rice in Portland, OR$$$Nestled in the heart of Portland, OR,
+  Fish & Rice stands out as a stylish sushi restaurant offering a welcoming
+  counter-serve experience with fresh, high-quality seafood selections. This
+  spot emphasizes an understated ambiance that pairs perfectly with its array of
+  sushi, sashimi, and sake options, making it a go-to choice for those seeking
+  sushi places near me in a relaxed setting. Accessibility features like
+  wheelchair-friendly entrances and seating add to its appeal, ensuring everyone
+  can enjoy the flavorful dishes without hassle. Patrons appreciate the outdoor
+  seating and moderate pricing, which enhance the overall dining vibe, while the
+  focus on fresh ingredients keeps it among the top-rated sushi restaurants in
+  the area. Whether you're looking for a quick meal or a taste of authentic
+  Japanese flavors close to home, this location delivers a satisfying blend of
+  simplicity and quality.
+generative_summary: >-
+  Discover Fish & Rice in Portland, OR$$$Nestled in the heart of Portland, OR,
+  Fish & Rice stands out as a stylish sushi restaurant offering a welcoming
+  counter-serve experience with fresh, high-quality seafood selections. This
+  spot emphasizes an understated ambiance that pairs perfectly with its array of
+  sushi, sashimi, and sake options, making it a go-to choice for those seeking
+  sushi places near me in a relaxed setting. Accessibility features like
+  wheelchair-friendly entrances and seating add to its appeal, ensuring everyone
+  can enjoy the flavorful dishes without hassle. Patrons appreciate the outdoor
+  seating and moderate pricing, which enhance the overall dining vibe, while the
+  focus on fresh ingredients keeps it among the top-rated sushi restaurants in
+  the area. Whether you're looking for a quick meal or a taste of authentic
+  Japanese flavors close to home, this location delivers a satisfying blend of
+  simplicity and quality.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJY8MROHIJlVQR3NC3NJKPXmE/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3Z0p1NEZBEAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Best Sushi I've had (fresh)!  The owner is super sweet and explained
+        where in Japan he sourced the sake we tried.
+      languageCode: en
+    originalText:
+      text: >-
+        Best Sushi I've had (fresh)!  The owner is super sweet and explained
+        where in Japan he sourced the sake we tried.
+      languageCode: en
+    authorAttribution:
+      displayName: Bek K
+      uri: https://www.google.com/maps/contrib/107641353519437648618/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWrAQ92Zn_L1_3JdZ7AqSigiOEExTwFgiWNcNcaNKz-4c6Fr66e=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-03-15T19:28:45.052209Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUN3Z0p1NEZBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUN3Z0p1NEZBEAE!2m1!1s0x549509723811c363:0x615e8f9234b7d0dc
+  - name: >-
+      places/ChIJY8MROHIJlVQR3NC3NJKPXmE/reviews/ChdDSUhNMG9nS0VJQ0FnSUR2M05qYXhBRRAB
+    relativePublishTimeDescription: 4 months ago
+    rating: 4
+    text:
+      text: >-
+        Very tasty fish. Dry/old rice though. Would come back. Rec tuna bowl,
+        spicy bowl, and spam musubi
+      languageCode: en
+    originalText:
+      text: >-
+        Very tasty fish. Dry/old rice though. Would come back. Rec tuna bowl,
+        spicy bowl, and spam musubi
+      languageCode: en
+    authorAttribution:
+      displayName: Antoine Pham
+      uri: https://www.google.com/maps/contrib/115378522814668804793/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVscMN3oIwTcd6b_iT2t97j34W1g-aEXgzxwXqbL4c-kcdG4oQxMA=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-12-18T12:33:50.687963Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR2M05qYXhBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR2M05qYXhBRRAB!2m1!1s0x549509723811c363:0x615e8f9234b7d0dc
+  - name: >-
+      places/ChIJY8MROHIJlVQR3NC3NJKPXmE/reviews/ChZDSUhNMG9nS0VJQ0FnSUNYdU9ER0ZBEAE
+    relativePublishTimeDescription: 6 months ago
+    rating: 5
+    text:
+      text: >-
+        I genuinely love how they prep and serve food to customers.
+
+        Quality foods neatly served on delicate and aesthetic plates.
+
+        I could definitely tell how this experience going to unfold even before
+        taking my first bite by seeing how English cucumbers are sliced and cut
+        in uniform size, Toro nigiri blow torched at spot-on texture. not to
+        mention those snowpeak mugs and seat cushions.
+
+        Ambience, service 5/5 stars, last but not least the food.
+      languageCode: en
+    originalText:
+      text: >-
+        I genuinely love how they prep and serve food to customers.
+
+        Quality foods neatly served on delicate and aesthetic plates.
+
+        I could definitely tell how this experience going to unfold even before
+        taking my first bite by seeing how English cucumbers are sliced and cut
+        in uniform size, Toro nigiri blow torched at spot-on texture. not to
+        mention those snowpeak mugs and seat cushions.
+
+        Ambience, service 5/5 stars, last but not least the food.
+      languageCode: en
+    authorAttribution:
+      displayName: Whisoo Lee
+      uri: https://www.google.com/maps/contrib/103440961263014856393/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKRwFGJgL4Z-_7Q4PyDAiNj-QsQCaM-Y1bFX3jAcjztFDMl9g=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-10-13T20:58:25.690029Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNYdU9ER0ZBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNYdU9ER0ZBEAE!2m1!1s0x549509723811c363:0x615e8f9234b7d0dc
+  - name: >-
+      places/ChIJY8MROHIJlVQR3NC3NJKPXmE/reviews/ChdDSUhNMG9nS0VJQ0FnSUR6bDg3djF3RRAB
+    relativePublishTimeDescription: 10 months ago
+    rating: 5
+    text:
+      text: >-
+        I had the spicy poké bowl- fish was very fresh and overall bowl well
+        made - delicious.  My friends sushi roll was also great and fresh. The
+        site is small but very cute, great for a quick pop in w/ 1 or 2
+        friends.  Will definitely return.
+      languageCode: en
+    originalText:
+      text: >-
+        I had the spicy poké bowl- fish was very fresh and overall bowl well
+        made - delicious.  My friends sushi roll was also great and fresh. The
+        site is small but very cute, great for a quick pop in w/ 1 or 2
+        friends.  Will definitely return.
+      languageCode: en
+    authorAttribution:
+      displayName: Kimberly Moore
+      uri: https://www.google.com/maps/contrib/113079711643199310234/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVC_JVrwc-OUMvP7l-8wvcR1VroPQGfSNDQnquIVSEDHDcHJLCtAA=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2024-06-13T03:47:01.848446Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR6bDg3djF3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR6bDg3djF3RRAB!2m1!1s0x549509723811c363:0x615e8f9234b7d0dc
+  - name: >-
+      places/ChIJY8MROHIJlVQR3NC3NJKPXmE/reviews/ChdDSUhNMG9nS0VJQ0FnSUQteU9XTjZBRRAB
+    relativePublishTimeDescription: 2 years ago
+    rating: 5
+    text:
+      text: >-
+        This was my favorite sushi place here in Portland and my go to whenever
+        I was craving it. The fish was always fresh, flavorful, and high quality
+        and it was very reasonably priced in my opinion. My personal go to items
+        were their bowls, especially the scallop bowl and when I wanted to treat
+        myself I'd get the chirashi bowl. I was sad when I walked by a few weeks
+        ago and saw that they're now closed. I'm glad I got to get many great
+        meals from them and wish everyone there the best in the future!
+      languageCode: en
+    originalText:
+      text: >-
+        This was my favorite sushi place here in Portland and my go to whenever
+        I was craving it. The fish was always fresh, flavorful, and high quality
+        and it was very reasonably priced in my opinion. My personal go to items
+        were their bowls, especially the scallop bowl and when I wanted to treat
+        myself I'd get the chirashi bowl. I was sad when I walked by a few weeks
+        ago and saw that they're now closed. I'm glad I got to get many great
+        meals from them and wish everyone there the best in the future!
+      languageCode: en
+    authorAttribution:
+      displayName: Sofia Contreras
+      uri: https://www.google.com/maps/contrib/101209130628504435844/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJ7q8Gm4in-1JGgKye7U0Rp6pazS7FK_K2JzDkbfYP4Rbmj1Q=s128-c0x00000000-cc-rp-mo
+    publishTime: '2022-11-19T22:31:21.412516Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQteU9XTjZBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQteU9XTjZBRRAB!2m1!1s0x549509723811c363:0x615e8f9234b7d0dc
+review_summary: >-
+  Insights from Recent Reviews$$$Folks checking out this sushi spot often
+  highlight the super fresh fish and well-prepared bowls, making it a solid pick
+  for anyone craving reliable Japanese cuisine. Many comments praise the tasty
+  options like poke bowls and nigiri, noting how the flavors really hit the spot
+  without any fuss. The atmosphere comes across as bright and inviting, with
+  friendly service that adds a nice touch to the meal. Overall, diners seem
+  eager to return for the consistent quality and value, keeping things upbeat
+  even with minor notes on rice texture. If you're hunting for the best sushi
+  near me, this place earns high marks for its honest, feel-good vibes that keep
+  the experience enjoyable and straightforward.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  paidStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
+delivery: true
+dine_in: true
+good_for_children: true
 good_for_groups: null
-good_for_sports: null
-live_music: null
+good_for_sports: false
+live_music: false
 menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+outdoor_seating: true
+reservable: false
+restroom: true
+serves_beer: true
 serves_breakfast: null
 serves_brunch: null
 serves_cocktails: null
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Stylish counter-serve operation with an understated ambiance offering sushi,
+  sashimi & sake.
 
 ---

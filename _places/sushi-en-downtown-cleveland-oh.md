@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi En Downtown"
+title: Sushi En Downtown
 permalink: /ohio/cleveland/sushi-en-downtown.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Cleveland
 seo:
-  name: "Sushi En Downtown"
-  type: Restaurant
-  links: null
-description: "Sushi En Downtown serves delicious sushi in Cleveland, Ohio. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.sushiendowntown.com/
 place_id: ChIJiVzt1ej7MIgRmJIC-9l4gIA
 photos:
   - name: >-
@@ -170,8 +168,97 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8830fbe8d5ed5c89:0x808078d9fb029298!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 15
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 0
+      close:
+        day: 5
+        hour: 20
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 20
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: Closed'
+    - 'Tuesday: 11:00 AM – 3:00 PM, 4:00 – 8:30 PM'
+    - 'Wednesday: 11:00 AM – 3:00 PM, 4:00 – 8:30 PM'
+    - 'Thursday: 11:00 AM – 3:00 PM, 4:00 – 8:30 PM'
+    - 'Friday: 11:00 AM – 3:00 PM, 4:00 – 8:30 PM'
+    - 'Saturday: 11:00 AM – 8:30 PM'
+    - 'Sunday: 11:00 AM – 8:00 PM'
+  nextCloseTime: '2025-05-04T00:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +266,53 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
+phone: (216) 716-8654
 price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+price_range: $20 &ndash; $30
+rating: '4.5'
+rating_count: 174
+website: https://www.sushiendowntown.com/
+description: >-
+  Discover Sushi En Downtown in Cleveland, OH$$$Sushi En Downtown in Cleveland,
+  OH, stands out as a cozy hub for fresh sushi and Asian-inspired dishes,
+  perfect for those seeking top-rated sushi spots in the area. This inviting
+  restaurant offers creative rolls, flavorful noodles, and a selection of Asian
+  plates that highlight innovative flavors in a welcoming atmosphere, making it
+  an ideal choice for casual dining near local theaters. With its accessible
+  features like wheelchair-friendly entrances and parking, it's designed to
+  accommodate a variety of diners looking for convenient sushi options. The
+  spot's convenient hours, including weekends, add to its appeal for anyone
+  exploring sushi restaurants in downtown Cleveland. Whether you're in the mood
+  for a quick lunch or an evening meal, this location delivers a blend of
+  quality and comfort that keeps patrons coming back.
+generative_summary: >-
+  Discover Sushi En Downtown in Cleveland, OH$$$Sushi En Downtown in Cleveland,
+  OH, stands out as a cozy hub for fresh sushi and Asian-inspired dishes,
+  perfect for those seeking top-rated sushi spots in the area. This inviting
+  restaurant offers creative rolls, flavorful noodles, and a selection of Asian
+  plates that highlight innovative flavors in a welcoming atmosphere, making it
+  an ideal choice for casual dining near local theaters. With its accessible
+  features like wheelchair-friendly entrances and parking, it's designed to
+  accommodate a variety of diners looking for convenient sushi options. The
+  spot's convenient hours, including weekends, add to its appeal for anyone
+  exploring sushi restaurants in downtown Cleveland. Whether you're in the mood
+  for a quick lunch or an evening meal, this location delivers a blend of
+  quality and comfort that keeps patrons coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About This Sushi Spot$$$Visitors to this popular
+  sushi place often praise the fresh and creative dishes, noting how the variety
+  keeps things exciting for repeat visits. Many highlight the friendly service
+  and cozy vibe, which make for a relaxed dining experience that's great for
+  groups or solo outings. Based on the high ratings, folks appreciate the
+  balance of flavors in the rolls and noodles, along with the reasonable prices
+  that offer good value without skimping on quality. While some mention minor
+  waits during peak times, the overall feedback leans positive, emphasizing the
+  spot's reliability as a go-to for satisfying meals. If you're hunting for the
+  best sushi near you, this place seems to hit the mark with its consistent
+  appeal and welcoming feel.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +338,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

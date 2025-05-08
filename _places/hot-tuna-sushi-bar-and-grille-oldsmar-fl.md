@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Hot Tuna Sushi Bar and Grille"
+title: Hot Tuna Sushi Bar and Grille
 permalink: /florida/oldsmar/hot-tuna-sushi-bar-and-grille.html
 stateAbbr: FL
 stateName: Florida
 cityName: Oldsmar
 seo:
-  name: "Hot Tuna Sushi Bar and Grille"
-  type: Restaurant
+  type: restaurant
   links: https://hottunasushi.com/
-description: "Sushi rolls, Japanese entrees & happy hour deals draw locals to this intimate, contemporary eatery. Hot Tuna Sushi Bar and Grille serves delicious sushi in Oldsmar, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ6bB__E_swogRZUESzujtwFQ
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: null
 rating: '4.6'
 rating_count: 0
 website: https://hottunasushi.com/
+description: >-
+  Explore Hot Tuna Sushi Bar and Grille in Oldsmar, FL$$$Hot Tuna Sushi Bar and
+  Grille in Oldsmar, Florida, offers a vibrant spot for enjoying fresh sushi
+  rolls and classic Japanese entrees in a modern, inviting atmosphere that
+  appeals to local diners. This sushi restaurant stands out with its affordable
+  happy hour specials, providing great value for those seeking tasty meals
+  without breaking the bank. Patrons appreciate the variety of flavorful
+  options, including vegetarian-friendly dishes and creative specials that cater
+  to diverse tastes. The contemporary setting makes it an ideal choice for
+  casual gatherings, while accessibility features ensure a welcoming experience
+  for all. Whether you're looking for top-rated sushi places near me, this spot
+  delivers on quality and ambiance for everyday dining.
+generative_summary: >-
+  Explore Hot Tuna Sushi Bar and Grille in Oldsmar, FL$$$Hot Tuna Sushi Bar and
+  Grille in Oldsmar, Florida, offers a vibrant spot for enjoying fresh sushi
+  rolls and classic Japanese entrees in a modern, inviting atmosphere that
+  appeals to local diners. This sushi restaurant stands out with its affordable
+  happy hour specials, providing great value for those seeking tasty meals
+  without breaking the bank. Patrons appreciate the variety of flavorful
+  options, including vegetarian-friendly dishes and creative specials that cater
+  to diverse tastes. The contemporary setting makes it an ideal choice for
+  casual gatherings, while accessibility features ensure a welcoming experience
+  for all. Whether you're looking for top-rated sushi places near me, this spot
+  delivers on quality and ambiance for everyday dining.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ6bB__E_swogRZUESzujtwFQ/reviews/ChZDSUhNMG9nS0VJQ0FnSUNfdk1tWUlnEAE
@@ -350,6 +373,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN6cElDUlRnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN6cElDUlRnEAE!2m1!1s0x88c2ec4ffc7fb0e9:0x54c0ede8ce124165
+review_summary: >-
+  Insights from Recent Reviews$$$Folks often highlight the fantastic happy hour
+  deals, like budget-friendly rolls that make it a go-to for affordable sushi
+  adventures without skimping on flavor. Many appreciate the fresh ingredients
+  and creative dishes, such as spicy tuna specials and crunchy tempura options,
+  which keep things exciting and satisfying. Reviewers note the welcoming vibe
+  and efficient service, even during busy times, making it worth any short wait
+  for a relaxed meal. Overall, it's praised as a reliable favorite in the Tampa
+  Bay area for groups or solo visits, with plenty of vegetarian choices adding
+  to its appeal. If you're hunting for the best sushi near me, this place
+  consistently delivers a solid, enjoyable experience that keeps customers
+  coming back.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -383,8 +419,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Sushi rolls, Japanese entrees & happy hour deals draw locals to this intimate,
   contemporary eatery.
 

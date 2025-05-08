@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Idy Sushi Rolls"
+title: Idy Sushi Rolls
 permalink: /california/idyllwild-pine-cove/idy-sushi-rolls.html
 stateAbbr: CA
 stateName: California
 cityName: Idyllwild-Pine Cove
 seo:
-  name: "Idy Sushi Rolls"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Idy Sushi Rolls serves delicious sushi in Idyllwild-Pine Cove, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJQ_ixG8YT24AReYAQe_tJdY8
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 0
 website: null
+description: >-
+  Discover Idy Sushi Rolls in Idyllwild-Pine Cove, CA$$$Idy Sushi Rolls in
+  Idyllwild-Pine Cove, CA, serves up a casual selection of fresh sushi and
+  Japanese favorites like yakisoba, making it a go-to spot for those exploring
+  sushi restaurants in the area. This welcoming eatery emphasizes accessibility
+  with wheelchair-friendly features and outdoor seating, perfect for enjoying
+  mountain views while savoring flavorful rolls and dishes. Diners can expect a
+  moderate price range that offers great value for authentic Japanese-inspired
+  meals, including vegetarian options and hot beverages to complement your
+  experience. For anyone searching for top-rated sushi near me, the focus on
+  quality ingredients and a relaxed atmosphere ensures a satisfying visit that
+  highlights the best of local dining options.
+generative_summary: >-
+  Discover Idy Sushi Rolls in Idyllwild-Pine Cove, CA$$$Idy Sushi Rolls in
+  Idyllwild-Pine Cove, CA, serves up a casual selection of fresh sushi and
+  Japanese favorites like yakisoba, making it a go-to spot for those exploring
+  sushi restaurants in the area. This welcoming eatery emphasizes accessibility
+  with wheelchair-friendly features and outdoor seating, perfect for enjoying
+  mountain views while savoring flavorful rolls and dishes. Diners can expect a
+  moderate price range that offers great value for authentic Japanese-inspired
+  meals, including vegetarian options and hot beverages to complement your
+  experience. For anyone searching for top-rated sushi near me, the focus on
+  quality ingredients and a relaxed atmosphere ensures a satisfying visit that
+  highlights the best of local dining options.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJQ_ixG8YT24AReYAQe_tJdY8/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3MHIyNHp3RRAB
@@ -376,6 +399,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNYbk5HLS13RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNYbk5HLS13RRAB!2m1!1s0x80db13c61bb1f843:0x8f7549fb7b108079
+review_summary: >-
+  What Customers Are Saying$$$Folks generally enjoy the fresh and tasty sushi
+  rolls at this spot, with many highlighting the quick service and flavorful
+  appetizers that make meals feel worthwhile. While some note occasional waits
+  or simple ambiance that could use more energy, the overall vibe leans positive
+  thanks to generous portions and affordable pricing for Japanese dishes.
+  Reviewers often appreciate the variety of options, like udon and teriyaki
+  combos, which provide solid choices for families or groups seeking something
+  hearty. It's clear that the friendly staff and quality food keep most visitors
+  coming back, offering an honest pick for anyone hunting for reliable sushi
+  places near me.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -408,7 +443,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

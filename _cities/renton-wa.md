@@ -5,4 +5,5 @@ permalink: /washington/renton/
 stateAbbr: WA
 stateName: Washington
 cityName: Renton
+
 ---

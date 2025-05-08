@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Finn’s"
+title: Finn’s
 permalink: /new-york/troy/finn-s.html
 stateAbbr: NY
 stateName: New York
 cityName: Troy
 seo:
-  name: "Finn’s"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Finn’s serves delicious sushi in Troy, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJxy4Aj_4P3okRhFX0R8Za4yg
 photos:
   - name: >-
@@ -185,7 +183,41 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Finn’s in Troy, New York$$$Finn’s in Troy, New York, stands out as a
+  welcoming spot for enjoying a mix of small plates, hearty burgers, and
+  refreshing cocktails, complemented by a selection of wines. This cozy
+  restaurant emphasizes accessibility with features like wheelchair-friendly
+  parking and entrances, making it easy for everyone to enjoy a relaxed meal.
+  Patrons appreciate the inviting atmosphere that blends casual vibes with
+  thoughtful details, perfect for unwinding after a day exploring the area.
+  Whether you're stopping by for a quick bite or a leisurely evening, the menu
+  highlights fresh flavors and creative pairings that elevate everyday dining.
+generative_summary: >-
+  Discover Finn’s in Troy, New York$$$Finn’s in Troy, New York, stands out as a
+  welcoming spot for enjoying a mix of small plates, hearty burgers, and
+  refreshing cocktails, complemented by a selection of wines. This cozy
+  restaurant emphasizes accessibility with features like wheelchair-friendly
+  parking and entrances, making it easy for everyone to enjoy a relaxed meal.
+  Patrons appreciate the inviting atmosphere that blends casual vibes with
+  thoughtful details, perfect for unwinding after a day exploring the area.
+  Whether you're stopping by for a quick bite or a leisurely evening, the menu
+  highlights fresh flavors and creative pairings that elevate everyday dining.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Folks often praise the flavorful burgers and
+  inventive cocktails at this spot, with many mentioning a particularly fresh
+  melon appetizer as a standout favorite. The atmosphere gets high marks for
+  being both laid-back and lively, creating a fun environment that keeps things
+  enjoyable without overwhelming the senses. Reviewers frequently note the
+  helpful and welcoming service that adds a personal touch to every visit,
+  helping to make meals feel more special. Overall, it's clear that diners
+  appreciate the reliable quality and variety here, making it a solid choice for
+  anyone seeking a satisfying meal in a friendly setting. While opinions vary,
+  the general buzz remains positive, encouraging first-timers to give it a try
+  for a well-rounded experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +243,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

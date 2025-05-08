@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Miho Sushi"
+title: Miho Sushi
 permalink: /california/tarzana/miho-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Tarzana
 seo:
-  name: "Miho Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Miho Sushi serves delicious sushi in Tarzana, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJydqfIPeZwoARXHAejHmvAoE
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c299f7209fdac9:0x8102af798c1e705c!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 12
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 12
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 12
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 12
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 12
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 12:00 – 9:30 PM'
     - 'Tuesday: 12:00 – 9:30 PM'
     - 'Wednesday: 12:00 – 9:30 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 12:00 – 9:30 PM'
     - 'Saturday: 12:00 – 9:30 PM'
     - 'Sunday: 12:00 – 9:30 PM'
-  current:
-    - 'Monday: 12:00 – 9:30 PM'
-    - 'Tuesday: 12:00 – 9:30 PM'
-    - 'Wednesday: 12:00 – 9:30 PM'
-    - 'Thursday: 12:00 – 9:30 PM'
-    - 'Friday: 12:00 – 9:30 PM'
-    - 'Saturday: 12:00 – 9:30 PM'
-    - 'Sunday: 12:00 – 9:30 PM'
+  nextCloseTime: '2025-05-04T04:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,261 @@ phone: (818) 708-3220
 price_level: null
 price_range: $30 &ndash; $50
 rating: '4.5'
-rating_count: 0
+rating_count: 150
 website: null
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Miho Sushi in Tarzana, CA$$$Miho Sushi in Tarzana, CA, stands out as
+  a cozy spot for sushi enthusiasts, offering a range of fresh, specialty
+  varieties in a simple and welcoming setting. This unassuming restaurant
+  delights with its focus on high-quality ingredients, including flavorful rolls
+  and happy hour options that make it a great choice for casual diners.
+  Accessibility features like wheelchair-friendly parking and entrances add to
+  its appeal, ensuring everyone can enjoy the experience. With daily hours from
+  noon to evening, it's conveniently open for lunch or dinner, making it an
+  ideal stop for those searching for reliable sushi restaurants nearby.
+generative_summary: >-
+  Discover Miho Sushi in Tarzana, CA$$$Miho Sushi in Tarzana, CA, stands out as
+  a cozy spot for sushi enthusiasts, offering a range of fresh, specialty
+  varieties in a simple and welcoming setting. This unassuming restaurant
+  delights with its focus on high-quality ingredients, including flavorful rolls
+  and happy hour options that make it a great choice for casual diners.
+  Accessibility features like wheelchair-friendly parking and entrances add to
+  its appeal, ensuring everyone can enjoy the experience. With daily hours from
+  noon to evening, it's conveniently open for lunch or dinner, making it an
+  ideal stop for those searching for reliable sushi restaurants nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJydqfIPeZwoARXHAejHmvAoE/reviews/ChZDSUhNMG9nS0VJQ0FnSUQzdE1iLWFREAE
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        Came on a Saturday night, wait for 2 was about 15 mins. We sat at the
+        bar and were promptly helped.
+
+
+        The sushi rolls were so good! Fish was fresh and the rolls had great
+        flavor. Rolls pack a lot of fish.
+
+
+        Parking - it’s in a plaza so plenty of free open parking.
+      languageCode: en
+    originalText:
+      text: >-
+        Came on a Saturday night, wait for 2 was about 15 mins. We sat at the
+        bar and were promptly helped.
+
+
+        The sushi rolls were so good! Fish was fresh and the rolls had great
+        flavor. Rolls pack a lot of fish.
+
+
+        Parking - it’s in a plaza so plenty of free open parking.
+      languageCode: en
+    authorAttribution:
+      displayName: Elizabeth Ulloa
+      uri: https://www.google.com/maps/contrib/106028886481540792728/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXq0waC7BzEGhL3HyJ_DGoOyWocxCQvGgT1cqrL3VYOn5ZFO1gVvg=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-11-12T15:57:43.886814Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQzdE1iLWFREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQzdE1iLWFREAE!2m1!1s0x80c299f7209fdac9:0x8102af798c1e705c
+  - name: >-
+      places/ChIJydqfIPeZwoARXHAejHmvAoE/reviews/ChZDSUhNMG9nS0VJQ0FnSURwcHJMS0NnEAE
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        Great place. Is very small, but dont let that full you. It's a very busy
+        place with pick-up orders also. Everything i have had here is fresh and
+        tastes amazing. This is my spot to come have authentic sushi. The drinks
+        are authentic as the place.
+
+        I always come back is my favorite place to have sushi.
+      languageCode: en
+    originalText:
+      text: >-
+        Great place. Is very small, but dont let that full you. It's a very busy
+        place with pick-up orders also. Everything i have had here is fresh and
+        tastes amazing. This is my spot to come have authentic sushi. The drinks
+        are authentic as the place.
+
+        I always come back is my favorite place to have sushi.
+      languageCode: en
+    authorAttribution:
+      displayName: Veronica Golan
+      uri: https://www.google.com/maps/contrib/107180427052932730798/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWINwJQ941CBObxacbmQ7PrZSeun3nywFKLmF3zFYh6zXAndHAs0w=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-04-23T04:59:06.614212Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURwcHJMS0NnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURwcHJMS0NnEAE!2m1!1s0x80c299f7209fdac9:0x8102af798c1e705c
+  - name: >-
+      places/ChIJydqfIPeZwoARXHAejHmvAoE/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ5dVBmd09nEAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        This place is that your definition of a hole in the wall. It's a cute
+        little restaurant with really great service and shockingly excellent
+        sushi! I went in there for lunch one day not expecting much and left a
+        fan. I can't tell you how many times I've been back since! I consider
+        myself to be pretty bougie when it comes to sushi and this place meets
+        all my needs. Shout out to the sushi chefs, Fiat, Tom, & Tan!!
+
+
+        If you're picky you won't be disappointed. Unbelievably fresh sushi,
+        amazing quality, and let's not forget they put the plates out with
+        beautiful presentation!! I highly recommend 🥰
+
+
+        I tend to order some of the more expensive stuff but they have a menu
+        that will suit any budget!
+      languageCode: en
+    originalText:
+      text: >-
+        This place is that your definition of a hole in the wall. It's a cute
+        little restaurant with really great service and shockingly excellent
+        sushi! I went in there for lunch one day not expecting much and left a
+        fan. I can't tell you how many times I've been back since! I consider
+        myself to be pretty bougie when it comes to sushi and this place meets
+        all my needs. Shout out to the sushi chefs, Fiat, Tom, & Tan!!
+
+
+        If you're picky you won't be disappointed. Unbelievably fresh sushi,
+        amazing quality, and let's not forget they put the plates out with
+        beautiful presentation!! I highly recommend 🥰
+
+
+        I tend to order some of the more expensive stuff but they have a menu
+        that will suit any budget!
+      languageCode: en
+    authorAttribution:
+      displayName: Jason Hertz
+      uri: https://www.google.com/maps/contrib/108047339240114909154/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjURRjiduEFCwcAaNhXir4JIhXMtnKIJN-0SW2u_sOYh4prJ0uaInQ=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-03-13T05:09:00.013426Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQ5dVBmd09nEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQ5dVBmd09nEAE!2m1!1s0x80c299f7209fdac9:0x8102af798c1e705c
+  - name: >-
+      places/ChIJydqfIPeZwoARXHAejHmvAoE/reviews/ChZDSUhNMG9nS0VJQ0FnSURQeXFIaE53EAE
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        If you enjoy Sushi as an art and experience, this is the spot for you.
+        Miho has the freshest, most tender fish I’ve ever eaten. The red snapper
+        carpaccio is packed with a little perfect punch of flavor. The maguro
+        tataki roll brings it all together with amazing texture and flavor. This
+        is the best sushi spot in LA, for those who are looking to enjoy fish
+        instead of posting their meal on their instagram story. The atmosphere
+        is intimate and vibrant and you’ll leave with a smile on your face:)
+        (much much much better as a dine-in experience than delivery.) it’s
+        worth the visit and it’s worth your money.
+      languageCode: en
+    originalText:
+      text: >-
+        If you enjoy Sushi as an art and experience, this is the spot for you.
+        Miho has the freshest, most tender fish I’ve ever eaten. The red snapper
+        carpaccio is packed with a little perfect punch of flavor. The maguro
+        tataki roll brings it all together with amazing texture and flavor. This
+        is the best sushi spot in LA, for those who are looking to enjoy fish
+        instead of posting their meal on their instagram story. The atmosphere
+        is intimate and vibrant and you’ll leave with a smile on your face:)
+        (much much much better as a dine-in experience than delivery.) it’s
+        worth the visit and it’s worth your money.
+      languageCode: en
+    authorAttribution:
+      displayName: Brendan Anoatubby
+      uri: https://www.google.com/maps/contrib/109331686554767308974/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjW9T6zqaF6OSGXOpBNLQrnm_0dd7bmS0AWkgjHXHWYbkY30hgE91g=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-12-01T01:37:16.279955Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURQeXFIaE53EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURQeXFIaE53EAE!2m1!1s0x80c299f7209fdac9:0x8102af798c1e705c
+  - name: >-
+      places/ChIJydqfIPeZwoARXHAejHmvAoE/reviews/ChZDSUhNMG9nS0VJQ0FnSUNUMDRtSU1REAE
+    relativePublishTimeDescription: 11 months ago
+    rating: 5
+    text:
+      text: >-
+        Miho Sushi in Tarzana is a cozy little restaurant with an atmospheric
+        setting. The food here is truly delicious, especially the fresh sushi.
+        The restaurant is small, so it's best to visit with a small group. The
+        staff is friendly and provides quick service. I recommend it for those
+        who appreciate high-quality sushi in a relaxed environment.
+      languageCode: en
+    originalText:
+      text: >-
+        Miho Sushi in Tarzana is a cozy little restaurant with an atmospheric
+        setting. The food here is truly delicious, especially the fresh sushi.
+        The restaurant is small, so it's best to visit with a small group. The
+        staff is friendly and provides quick service. I recommend it for those
+        who appreciate high-quality sushi in a relaxed environment.
+      languageCode: en
+    authorAttribution:
+      displayName: Aleksei Trifonenko
+      uri: https://www.google.com/maps/contrib/112346111952147380903/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWPZ73YWJ0p_0GQ_TlKkY-9sv9KYymzW-FMjeH1jleBYL4mAPuiag=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-05-18T21:22:16.761896Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNUMDRtSU1REAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNUMDRtSU1REAE!2m1!1s0x80c299f7209fdac9:0x8102af798c1e705c
+review_summary: >-
+  Insights from Recent Reviews$$$Visitors to this sushi spot often rave about
+  the incredibly fresh fish and bold flavors that make every bite memorable,
+  positioning it as one of the top-rated options in the area. Many appreciate
+  the intimate, vibrant atmosphere and efficient service that keeps things
+  lively without feeling rushed, perfect for a relaxed meal with friends.
+  Reviewers highlight the great value, with dishes that cater to various budgets
+  while delivering an authentic sushi experience that's worth returning for.
+  Overall, folks searching for the best sushi near me find it a go-to place for
+  quality and satisfaction, encouraging others to give it a try for a genuinely
+  enjoyable outing.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
+delivery: true
+dine_in: true
 good_for_children: null
 good_for_groups: null
 good_for_sports: null
-live_music: null
-menu_for_children: null
+live_music: false
+menu_for_children: false
 outdoor_seating: null
 reservable: null
-restroom: null
-serves_beer: null
+restroom: true
+serves_beer: true
 serves_breakfast: null
-serves_brunch: null
+serves_brunch: false
 serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

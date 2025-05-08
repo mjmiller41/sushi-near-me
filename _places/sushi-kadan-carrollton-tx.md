@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Kadan"
+title: Sushi Kadan
 permalink: /texas/carrollton/sushi-kadan.html
 stateAbbr: TX
 stateName: Texas
 cityName: Carrollton
 seo:
-  name: "Sushi Kadan"
-  type: Restaurant
+  type: restaurant
   links: https://sushi-kadan.com/
-description: "Sushi Kadan serves delicious sushi in Carrollton, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJH_ugWdUlTIYRZ1cNtufHHBA
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x864c25d559a0fb1f:0x101cc7e7b60d5767!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 10:00 PM'
     - 'Tuesday: 11:00 AM – 10:00 PM'
     - 'Wednesday: 11:00 AM – 10:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:00 PM'
     - 'Saturday: 11:00 AM – 10:00 PM'
     - 'Sunday: 11:00 AM – 10:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 10:00 PM'
-    - 'Tuesday: 11:00 AM – 10:00 PM'
-    - 'Wednesday: 11:00 AM – 10:00 PM'
-    - 'Thursday: 11:00 AM – 10:00 PM'
-    - 'Friday: 11:00 AM – 10:00 PM'
-    - 'Saturday: 11:00 AM – 10:00 PM'
-    - 'Sunday: 11:00 AM – 10:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,347 @@ phone: (469) 289-6555
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.3'
-rating_count: 0
+rating_count: 1442
 website: https://sushi-kadan.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Experience Sushi Kadan in Carrollton, TX$$$Sushi Kadan in Carrollton, TX,
+  stands out as a contemporary Japanese spot that blends elegant decor with
+  fresh sushi offerings, making it a go-to choice for those searching for sushi
+  restaurants near me. The restaurant features a charming atmosphere with
+  artistic touches like faux cherry blossoms, enhancing the dining experience
+  while providing a welcoming space for lunch specials and flavorful rolls.
+  Accessibility is a key highlight, with options like wheelchair-friendly
+  entrances and seating that ensure everyone can enjoy the vibrant setting.
+  Patrons appreciate the variety of dishes, including creative sushi options
+  that cater to different tastes, all served in a spot that's ideal for casual
+  visits or quick meals. Open daily with moderate pricing, it's a solid pick for
+  anyone exploring top-rated sushi places in the area.
+generative_summary: >-
+  Experience Sushi Kadan in Carrollton, TX$$$Sushi Kadan in Carrollton, TX,
+  stands out as a contemporary Japanese spot that blends elegant decor with
+  fresh sushi offerings, making it a go-to choice for those searching for sushi
+  restaurants near me. The restaurant features a charming atmosphere with
+  artistic touches like faux cherry blossoms, enhancing the dining experience
+  while providing a welcoming space for lunch specials and flavorful rolls.
+  Accessibility is a key highlight, with options like wheelchair-friendly
+  entrances and seating that ensure everyone can enjoy the vibrant setting.
+  Patrons appreciate the variety of dishes, including creative sushi options
+  that cater to different tastes, all served in a spot that's ideal for casual
+  visits or quick meals. Open daily with moderate pricing, it's a solid pick for
+  anyone exploring top-rated sushi places in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJH_ugWdUlTIYRZ1cNtufHHBA/reviews/ChdDSUhNMG9nS0VJQ0FnTURJMEx5RHNRRRAB
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 5
+    text:
+      text: >-
+        Food was yummy, tried eel for the first time in my sushi roll and it was
+        pretty good. I also tried the fried rice! It was good just through me
+        off that it had edamame in it but still yummy!
+      languageCode: en
+    originalText:
+      text: >-
+        Food was yummy, tried eel for the first time in my sushi roll and it was
+        pretty good. I also tried the fried rice! It was good just through me
+        off that it had edamame in it but still yummy!
+      languageCode: en
+    authorAttribution:
+      displayName: Amayrani Montoya
+      uri: https://www.google.com/maps/contrib/112371091394578439073/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUNSVmpdPNqVG0ysynLsVITEL-KWyuRQeGrkxBdylFMpO7UHQIVKw=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-06T09:40:33.345963Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJMEx5RHNRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJMEx5RHNRRRAB!2m1!1s0x864c25d559a0fb1f:0x101cc7e7b60d5767
+  - name: >-
+      places/ChIJH_ugWdUlTIYRZ1cNtufHHBA/reviews/ChZDSUhNMG9nS0VJQ0FnSUQzZ2RqSWZBEAE
+    relativePublishTimeDescription: 5 months ago
+    rating: 3
+    text:
+      text: >-
+        This was my second visit to Sushi Kadan, and it reaffirmed my mixed
+        feelings about the place.
+
+
+        To start with the positives, the restaurant is undeniably beautiful. The
+        cherry blossom decor is stunning and makes for great photos. The
+        atmosphere is complemented by multiple TVs playing games, which adds a
+        casual and lively vibe. Service is also a standout—attentive and
+        accommodating.
+
+
+        However, when it comes to the food, it falls short of expectations. My
+        wife and I chose Sushi Kadan because we’re on a keto diet - monetarily -
+        and were looking for rice-less rolls and sashimi. Unfortunately, the
+        portions were problematic. The pieces were excessively large, making
+        them difficult to enjoy. I’d prefer the same amount of food served in
+        smaller, more manageable pieces.
+
+
+        For instance, despite requesting thinner slices of sashimi—a request the
+        restaurant assured would be no problem—the sashimi arrived overly thick
+        and somewhat chewy. The rice-less rolls were similarly oversized and
+        lacked sufficient fish, which was disappointing.
+
+
+        I understand why Sushi Kadan has its fans—the ambiance and service are
+        great—but for me, the food doesn’t stand out compared to the many other
+        sushi options in the DFW area.
+      languageCode: en
+    originalText:
+      text: >-
+        This was my second visit to Sushi Kadan, and it reaffirmed my mixed
+        feelings about the place.
+
+
+        To start with the positives, the restaurant is undeniably beautiful. The
+        cherry blossom decor is stunning and makes for great photos. The
+        atmosphere is complemented by multiple TVs playing games, which adds a
+        casual and lively vibe. Service is also a standout—attentive and
+        accommodating.
+
+
+        However, when it comes to the food, it falls short of expectations. My
+        wife and I chose Sushi Kadan because we’re on a keto diet - monetarily -
+        and were looking for rice-less rolls and sashimi. Unfortunately, the
+        portions were problematic. The pieces were excessively large, making
+        them difficult to enjoy. I’d prefer the same amount of food served in
+        smaller, more manageable pieces.
+
+
+        For instance, despite requesting thinner slices of sashimi—a request the
+        restaurant assured would be no problem—the sashimi arrived overly thick
+        and somewhat chewy. The rice-less rolls were similarly oversized and
+        lacked sufficient fish, which was disappointing.
+
+
+        I understand why Sushi Kadan has its fans—the ambiance and service are
+        great—but for me, the food doesn’t stand out compared to the many other
+        sushi options in the DFW area.
+      languageCode: en
+    authorAttribution:
+      displayName: Salman Zindani
+      uri: https://www.google.com/maps/contrib/105711605574811914480/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjViOaQr2mHwdRmgDhWS4tSfM43filwMeaWNkwN3ep7JMnlvLMthig=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-11-15T16:39:26.044478Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQzZ2RqSWZBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQzZ2RqSWZBEAE!2m1!1s0x864c25d559a0fb1f:0x101cc7e7b60d5767
+  - name: >-
+      places/ChIJH_ugWdUlTIYRZ1cNtufHHBA/reviews/ChdDSUhNMG9nS0VJQ0FnTUNnbkt5Snp3RRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 1
+    text:
+      text: >-
+        Sat there for 10 minutes looking at the food because they didn’t bring
+        any utensils 😂 How weird @@ This place used to be my top place, always
+        stop by for important occasions because of their services and their
+        food, but today was completely different. Nobody stopped by our table to
+        take care of anything (that was why they didn’t realize the utensils
+        missing and we couldn’t ask for help either). The food was taking not
+        too long but everything was COLD. We got the lobster roll and it smelled
+        very fishy (not fresh).
+      languageCode: en
+    originalText:
+      text: >-
+        Sat there for 10 minutes looking at the food because they didn’t bring
+        any utensils 😂 How weird @@ This place used to be my top place, always
+        stop by for important occasions because of their services and their
+        food, but today was completely different. Nobody stopped by our table to
+        take care of anything (that was why they didn’t realize the utensils
+        missing and we couldn’t ask for help either). The food was taking not
+        too long but everything was COLD. We got the lobster roll and it smelled
+        very fishy (not fresh).
+      languageCode: en
+    authorAttribution:
+      displayName: jessie here
+      uri: https://www.google.com/maps/contrib/102946894687572981223/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKE-8gXMgEV6-mAlngRkADmYBvYAloOgDz8t45JvzbgdaYzEOc=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-02-15T01:13:53.378614Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNnbkt5Snp3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNnbkt5Snp3RRAB!2m1!1s0x864c25d559a0fb1f:0x101cc7e7b60d5767
+  - name: >-
+      places/ChIJH_ugWdUlTIYRZ1cNtufHHBA/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3ckxid1NnEAE
+    relativePublishTimeDescription: a month ago
+    rating: 1
+    text:
+      text: >-
+        This is a lot of things, but it's not Sushi. It's a lot of mayonnaise, a
+        lot of mis-proportioned rolls that don't understand balance or flavor, a
+        lot stuff.
+
+
+        This is the American-Indian owned weird hamburger shack of Sushi. It's
+        crude, it's totally disconnected from Japan or Japanese food and it's
+        got a ton of fat and bad names for nonsense items. Look, you may love
+        it, and if so good for you.
+
+
+        If you like this place you don't like Japanese food, and you
+
+        ABSOLUTELY don't like sushi. You like to TALK about sushi. But you don't
+        know what it is or what "good" is. This place offers none of the above.
+        For me, a horrific miss. I would rate it as "below grocery store". I've
+        been a fanatic for 40 years with many trips over to Japan and across the
+        US - and this is one of the worst. Sorry, but facts. I reiterate, I've
+        had better at market street and whole foods that was closer to Japan
+        than this nonsense.
+
+
+        Please clean your cold case, it was disgusting and I knew things were
+        off-track as soon as I saw the edges of it. Also please clean your bar
+        and re-caulk it. Horrific.
+
+
+        I threw away half of a $100 order because it was literally inedible.
+        They made it "right" it was just inedible slop. From salmon that was
+        tainted with off-flavors to california that was just a blob of fat,
+        tekamaki made incorrectly, rice that was old, hard, and incorrectly
+        vinegared, it's the kind of stuff that is obvious if you care.
+
+
+        The staff were nice. They gave me a water while I had to wait. Otherwise
+        horrific experience, worst sushi I've possibly ever had.
+      languageCode: en
+    originalText:
+      text: >-
+        This is a lot of things, but it's not Sushi. It's a lot of mayonnaise, a
+        lot of mis-proportioned rolls that don't understand balance or flavor, a
+        lot stuff.
+
+
+        This is the American-Indian owned weird hamburger shack of Sushi. It's
+        crude, it's totally disconnected from Japan or Japanese food and it's
+        got a ton of fat and bad names for nonsense items. Look, you may love
+        it, and if so good for you.
+
+
+        If you like this place you don't like Japanese food, and you
+
+        ABSOLUTELY don't like sushi. You like to TALK about sushi. But you don't
+        know what it is or what "good" is. This place offers none of the above.
+        For me, a horrific miss. I would rate it as "below grocery store". I've
+        been a fanatic for 40 years with many trips over to Japan and across the
+        US - and this is one of the worst. Sorry, but facts. I reiterate, I've
+        had better at market street and whole foods that was closer to Japan
+        than this nonsense.
+
+
+        Please clean your cold case, it was disgusting and I knew things were
+        off-track as soon as I saw the edges of it. Also please clean your bar
+        and re-caulk it. Horrific.
+
+
+        I threw away half of a $100 order because it was literally inedible.
+        They made it "right" it was just inedible slop. From salmon that was
+        tainted with off-flavors to california that was just a blob of fat,
+        tekamaki made incorrectly, rice that was old, hard, and incorrectly
+        vinegared, it's the kind of stuff that is obvious if you care.
+
+
+        The staff were nice. They gave me a water while I had to wait. Otherwise
+        horrific experience, worst sushi I've possibly ever had.
+      languageCode: en
+    authorAttribution:
+      displayName: Sovtek
+      uri: https://www.google.com/maps/contrib/111566255704141181592/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVwc5o6atRGCPLtY6xUQDdche77sTckab1CsbO0GDyg13acj5Qmug=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-03-24T07:34:48.995514Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUR3ckxid1NnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUR3ckxid1NnEAE!2m1!1s0x864c25d559a0fb1f:0x101cc7e7b60d5767
+  - name: >-
+      places/ChIJH_ugWdUlTIYRZ1cNtufHHBA/reviews/ChZDSUhNMG9nS0VJQ0FnSURYOVlEYVpREAE
+    relativePublishTimeDescription: 6 months ago
+    rating: 2
+    text:
+      text: >-
+        Gave it a try...won't try again. I ordered gyoza which were soggy on the
+        inside and over fried on the outside. Definitely not made fresh. Also,
+        ordered a Philly roll. It was  different, just okay. Service was so-so.
+        I wasn't asked about a refill and had to ask myself, my cup was empty.
+        Lots of decor inside, maybe several fake cherry blossom trees and stuff
+        on the ceiling. Decor was a bit much, made it seem small inside.
+      languageCode: en
+    originalText:
+      text: >-
+        Gave it a try...won't try again. I ordered gyoza which were soggy on the
+        inside and over fried on the outside. Definitely not made fresh. Also,
+        ordered a Philly roll. It was  different, just okay. Service was so-so.
+        I wasn't asked about a refill and had to ask myself, my cup was empty.
+        Lots of decor inside, maybe several fake cherry blossom trees and stuff
+        on the ceiling. Decor was a bit much, made it seem small inside.
+      languageCode: en
+    authorAttribution:
+      displayName: K. M.
+      uri: https://www.google.com/maps/contrib/108167813466190695253/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJWpQ12Z9nxxj-ZEFsy2rNFZXbOpnAQWO2BsaZso5I11tyitw=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-10-29T23:17:53.042905Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURYOVlEYVpREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURYOVlEYVpREAE!2m1!1s0x864c25d559a0fb1f:0x101cc7e7b60d5767
+review_summary: >-
+  What Visitors Are Saying About the Reviews$$$Reviews for Sushi Kadan show a
+  mix of excitement and a few bumps, with many folks highlighting the tasty
+  sushi rolls and lively vibe that make it a fun spot for Japanese places near
+  me. While some diners rave about the fresh flavors and welcoming atmosphere,
+  others mention occasional issues like oversized portions or service slip-ups
+  that could use a tweak. Overall, the general consensus leans positive,
+  especially for those who love sushi and appreciate the variety of options
+  available. It's clear that the restaurant shines in creating memorable meals,
+  though a handful of experiences point to inconsistencies in food temperature
+  and preparation. If you're on the hunt for best sushi near me, this place
+  often delivers enjoyable moments despite the mixed feedback, making it worth a
+  try for an honest taste adventure.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
 menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
+serves_coffee: true
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Contemporary Japanese restaurant adorned with faux cherry blossoms offering
+  sushi & lunch specials.
 
 ---

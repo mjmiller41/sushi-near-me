@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Asuka Sushi"
+title: Asuka Sushi
 permalink: /new-york/new-york/asuka-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "Asuka Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Asuka Sushi serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ9QDTS7pZwokRIvmI06SFf9o
 photos:
   - name: >-
@@ -185,7 +183,47 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Asuka Sushi in New York, NY$$$Asuka Sushi in New York, NY, offers a
+  relaxed dining experience blending fresh sushi rolls with Thai-inspired
+  flavors, making it a standout spot for those seeking diverse Asian cuisine.
+  The menu features an array of expertly prepared dishes paired with a selection
+  of cocktails, beer, and sake, appealing to anyone exploring sushi restaurants
+  in the bustling city. With its welcoming atmosphere and accessible seating
+  options, this establishment caters to casual meals or quick bites after a day
+  of urban adventures. Patrons often enjoy the variety of options that highlight
+  quality ingredients, positioning it as a go-to choice for sushi enthusiasts
+  nearby. Whether you're in the mood for innovative rolls or simple favorites,
+  Asuka Sushi delivers a satisfying blend of taste and convenience in the heart
+  of Manhattan.
+generative_summary: >-
+  Discover Asuka Sushi in New York, NY$$$Asuka Sushi in New York, NY, offers a
+  relaxed dining experience blending fresh sushi rolls with Thai-inspired
+  flavors, making it a standout spot for those seeking diverse Asian cuisine.
+  The menu features an array of expertly prepared dishes paired with a selection
+  of cocktails, beer, and sake, appealing to anyone exploring sushi restaurants
+  in the bustling city. With its welcoming atmosphere and accessible seating
+  options, this establishment caters to casual meals or quick bites after a day
+  of urban adventures. Patrons often enjoy the variety of options that highlight
+  quality ingredients, positioning it as a go-to choice for sushi enthusiasts
+  nearby. Whether you're in the mood for innovative rolls or simple favorites,
+  Asuka Sushi delivers a satisfying blend of taste and convenience in the heart
+  of Manhattan.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$From shared experiences at places like Asuka
+  Sushi, folks generally rave about the fresh and flavorful sushi that keeps
+  diners coming back for more. Many highlight the creative twists on traditional
+  rolls, along with the solid drink selections that pair well with meals,
+  creating a laid-back vibe perfect for any occasion. Visitors often note the
+  efficient service and welcoming environment, making it a reliable pick for
+  groups or solo outings. While some mention it's a great spot for trying new
+  flavors without breaking the bank, others appreciate the overall value for
+  quality Japanese-inspired dishes. All in all, it comes across as a solid
+  choice for anyone hunting for top sushi options in the area, with a focus on
+  enjoyable, no-fuss dining.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +249,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

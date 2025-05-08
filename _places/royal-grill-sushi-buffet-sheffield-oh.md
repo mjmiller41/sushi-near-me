@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Royal Grill Sushi Buffet"
+title: Royal Grill Sushi Buffet
 permalink: /ohio/sheffield/royal-grill-sushi-buffet.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Sheffield
 seo:
-  name: "Royal Grill Sushi Buffet"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Royal Grill Sushi Buffet serves delicious sushi in Sheffield, Ohio. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJcUrq5QSbMIgRcVFAEDvGdic
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $10 &ndash; $20
 rating: '4.2'
 rating_count: 0
 website: null
+description: >-
+  Discover Royal Grill Sushi Buffet in Sheffield, OH$$$Nestled in Sheffield, OH,
+  Royal Grill Sushi Buffet stands out as a casual spot for enjoying an
+  all-you-can-eat selection of Asian fusion dishes, with fresh sushi taking
+  center stage. This welcoming eatery combines a relaxed atmosphere with a
+  variety of options that cater to sushi enthusiasts looking for convenient
+  dining experiences nearby. Accessibility features like wheelchair-friendly
+  entrances and seating make it easy for everyone to savor the buffet's diverse
+  offerings, from flavorful rolls to hearty mains. The moderate pricing adds to
+  its appeal for those seeking quality meals without breaking the bank, while
+  the overall vibe encourages repeat visits for families and groups alike.
+generative_summary: >-
+  Discover Royal Grill Sushi Buffet in Sheffield, OH$$$Nestled in Sheffield, OH,
+  Royal Grill Sushi Buffet stands out as a casual spot for enjoying an
+  all-you-can-eat selection of Asian fusion dishes, with fresh sushi taking
+  center stage. This welcoming eatery combines a relaxed atmosphere with a
+  variety of options that cater to sushi enthusiasts looking for convenient
+  dining experiences nearby. Accessibility features like wheelchair-friendly
+  entrances and seating make it easy for everyone to savor the buffet's diverse
+  offerings, from flavorful rolls to hearty mains. The moderate pricing adds to
+  its appeal for those seeking quality meals without breaking the bank, while
+  the overall vibe encourages repeat visits for families and groups alike.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJcUrq5QSbMIgRcVFAEDvGdic/reviews/ChZDSUhNMG9nS0VJQ0FnTUNnbk9UeUxnEAE
@@ -328,6 +349,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURyXzlIOC1RRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURyXzlIOC1RRRAB!2m1!1s0x88309b04e5ea4a71:0x2776c63b10405171
+review_summary: >-
+  What People Are Buzzing About$$$Visitors often rave about the fresh and tasty
+  sushi that keeps drawing them back, highlighting it as a standout choice among
+  local options. Many appreciate the clean environment and attentive service
+  that make every meal feel effortless and enjoyable, with plenty of variety to
+  satisfy different tastes. Feedback frequently mentions the buffet's
+  well-stocked selections and quick replenishments, ensuring everything stays
+  appealing throughout the visit. Overall, folks find it a solid pick for casual
+  outings, blending good value with a welcoming vibe that leaves a positive
+  impression. While not perfect, the general consensus leans toward it being a
+  reliable spot for anyone craving flavorful bites in a laid-back setting.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -361,7 +394,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

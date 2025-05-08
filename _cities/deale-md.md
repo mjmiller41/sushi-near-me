@@ -5,4 +5,5 @@ permalink: /maryland/deale/
 stateAbbr: MD
 stateName: Maryland
 cityName: Deale
+
 ---

@@ -5,4 +5,5 @@ permalink: /minnesota/eagan/
 stateAbbr: MN
 stateName: Minnesota
 cityName: Eagan
+
 ---

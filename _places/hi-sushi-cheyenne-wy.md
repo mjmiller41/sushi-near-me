@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Hi Sushi"
+title: Hi Sushi
 permalink: /wyoming/cheyenne/hi-sushi.html
 stateAbbr: WY
 stateName: Wyoming
 cityName: Cheyenne
 seo:
-  name: "Hi Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.hisushitogo.com/
-description: "Hi Sushi serves delicious sushi in Cheyenne, Wyoming. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJofJTUz47b4cRvShzvGyxU8E
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x876f3b3e5353f2a1:0xc153b16cbc7328bd!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 10
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 0
+    - open:
+        day: 2
+        hour: 10
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 0
+    - open:
+        day: 3
+        hour: 10
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 0
+    - open:
+        day: 4
+        hour: 10
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 0
+    - open:
+        day: 5
+        hour: 10
+        minute: 0
+      close:
+        day: 5
+        hour: 20
+        minute: 0
+    - open:
+        day: 6
+        hour: 10
+        minute: 0
+      close:
+        day: 6
+        hour: 20
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 10:00 AM – 8:00 PM'
     - 'Wednesday: 10:00 AM – 8:00 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 10:00 AM – 8:00 PM'
     - 'Saturday: 10:00 AM – 8:00 PM'
     - 'Sunday: 10:00 AM – 8:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 10:00 AM – 8:00 PM'
-    - 'Wednesday: 10:00 AM – 8:00 PM'
-    - 'Thursday: 10:00 AM – 8:00 PM'
-    - 'Friday: 10:00 AM – 8:00 PM'
-    - 'Saturday: 10:00 AM – 8:00 PM'
-    - 'Sunday: 10:00 AM – 8:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +238,285 @@ phone: (307) 369-4321
 price_level: null
 price_range: $10 &ndash; $20
 rating: '4.9'
-rating_count: 0
+rating_count: 223
 website: https://www.hisushitogo.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Explore Hi Sushi in Cheyenne, WY$$$Hi Sushi in Cheyenne, WY, stands out as a
+  casual dining spot offering a delightful mix of fresh sushi, savory teriyaki,
+  and unexpected treats like donuts, making it a versatile choice for anyone
+  craving Japanese-inspired flavors. The restaurant boasts accessibility
+  features such as wheelchair-friendly entrances and parking, ensuring a
+  welcoming experience for all visitors, while its convenient hours from 10 AM
+  to 8 PM most days cater to both lunch crowds and evening diners. With a focus
+  on quality ingredients and a cozy atmosphere, it's an ideal stop for those
+  seeking top-rated sushi options in the area. This spot also shines for its
+  affordability, with meals typically in the $10 to $20 range, providing great
+  value without compromising on taste or presentation.
+generative_summary: >-
+  Explore Hi Sushi in Cheyenne, WY$$$Hi Sushi in Cheyenne, WY, stands out as a
+  casual dining spot offering a delightful mix of fresh sushi, savory teriyaki,
+  and unexpected treats like donuts, making it a versatile choice for anyone
+  craving Japanese-inspired flavors. The restaurant boasts accessibility
+  features such as wheelchair-friendly entrances and parking, ensuring a
+  welcoming experience for all visitors, while its convenient hours from 10 AM
+  to 8 PM most days cater to both lunch crowds and evening diners. With a focus
+  on quality ingredients and a cozy atmosphere, it's an ideal stop for those
+  seeking top-rated sushi options in the area. This spot also shines for its
+  affordability, with meals typically in the $10 to $20 range, providing great
+  value without compromising on taste or presentation.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJofJTUz47b4cRvShzvGyxU8E/reviews/ChZDSUhNMG9nS0VJQ0FnTURvcnRmeUN3EAE
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        I had such a great experience at Hi Sushi! The service was fast and
+        friendly from the moment I walked in. The staff made me feel welcome and
+        everything came out quickly without feeling rushed.
+
+
+        And the sushi? Absolutely amazing—fresh, flavorful, and beautifully
+        prepared. You can really tell they care about quality. I’ll definitely
+        be coming back and recommending this place to anyone looking for great
+        sushi and great service!
+      languageCode: en
+    originalText:
+      text: >-
+        I had such a great experience at Hi Sushi! The service was fast and
+        friendly from the moment I walked in. The staff made me feel welcome and
+        everything came out quickly without feeling rushed.
+
+
+        And the sushi? Absolutely amazing—fresh, flavorful, and beautifully
+        prepared. You can really tell they care about quality. I’ll definitely
+        be coming back and recommending this place to anyone looking for great
+        sushi and great service!
+      languageCode: en
+    authorAttribution:
+      displayName: Dhana Pinto
+      uri: https://www.google.com/maps/contrib/116733105113169209016/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXLdolAQQ6VSSOYzW04s2e4h_K0utyAMOQpwrQ-gA8l64I5Pea8=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-25T03:12:26.133396Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURvcnRmeUN3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURvcnRmeUN3EAE!2m1!1s0x876f3b3e5353f2a1:0xc153b16cbc7328bd
+  - name: >-
+      places/ChIJofJTUz47b4cRvShzvGyxU8E/reviews/ChZDSUhNMG9nS0VJQ0FnSUQzclo3c0FnEAE
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        This place truly saved me on a cold winter night! I was hungry and
+        feeling under the weather when I came in and ordered the beef ramen and
+        crab Rangoon. While I didn’t snap any pictures of the food, I did
+        capture the surprise bag of donuts they gave me—a sweet and thoughtful
+        gesture that made my night even better!
+
+
+        I know what you’re thinking—donuts? But yes, they have a donut shop
+        attached to the sushi place! I love that they can satisfy your cravings
+        for both savory and sweet, making it the perfect spot to get you through
+        the day deliciously. Highly recommend!
+      languageCode: en
+    originalText:
+      text: >-
+        This place truly saved me on a cold winter night! I was hungry and
+        feeling under the weather when I came in and ordered the beef ramen and
+        crab Rangoon. While I didn’t snap any pictures of the food, I did
+        capture the surprise bag of donuts they gave me—a sweet and thoughtful
+        gesture that made my night even better!
+
+
+        I know what you’re thinking—donuts? But yes, they have a donut shop
+        attached to the sushi place! I love that they can satisfy your cravings
+        for both savory and sweet, making it the perfect spot to get you through
+        the day deliciously. Highly recommend!
+      languageCode: en
+    authorAttribution:
+      displayName: The Queen of Yum
+      uri: https://www.google.com/maps/contrib/102084708372738514490/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUsFTbArEewPVTfZJdMvl1XeRts8mt0ldFh4X493t-J1c-LJhM=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-11-17T17:07:53.495556Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQzclo3c0FnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQzclo3c0FnEAE!2m1!1s0x876f3b3e5353f2a1:0xc153b16cbc7328bd
+  - name: >-
+      places/ChIJofJTUz47b4cRvShzvGyxU8E/reviews/ChZDSUhNMG9nS0VJQ0FnSURiOWNHVEN3EAE
+    relativePublishTimeDescription: 8 months ago
+    rating: 5
+    text:
+      text: >-
+        Hi Sushi: A Hidden Gem in Cheyenne, WY
+
+
+        Hi Sushi is a fantastic spot in Cheyenne, WY, offering some of the best
+        Japanese food in town. The quality of their sushi is outstanding,
+        particularly their Nigiri, which features perfectly seasoned rice and
+        the freshest fish. Their Onigiri is also a delight, with just the right
+        texture and flavorful fillings.
+
+
+        One of the best things about Hi Sushi is their ability to accommodate
+        custom orders, ensuring every meal is tailored to your tastes. The cozy
+        atmosphere and friendly staff make every visit special, and it's clear
+        they take great pride in their work.
+
+
+        Don't miss out on their delicious donuts—yes, donuts! They are a
+        must-try and add a unique twist to their menu.
+
+
+        Hi Sushi may not be a grand, five-star restaurant, but the quality of
+        their food and the warm, personalized service make it a standout. If
+        you're in Cheyenne, make sure to visit Hi Sushi for an unforgettable
+        dining experience!
+      languageCode: en
+    originalText:
+      text: >-
+        Hi Sushi: A Hidden Gem in Cheyenne, WY
+
+
+        Hi Sushi is a fantastic spot in Cheyenne, WY, offering some of the best
+        Japanese food in town. The quality of their sushi is outstanding,
+        particularly their Nigiri, which features perfectly seasoned rice and
+        the freshest fish. Their Onigiri is also a delight, with just the right
+        texture and flavorful fillings.
+
+
+        One of the best things about Hi Sushi is their ability to accommodate
+        custom orders, ensuring every meal is tailored to your tastes. The cozy
+        atmosphere and friendly staff make every visit special, and it's clear
+        they take great pride in their work.
+
+
+        Don't miss out on their delicious donuts—yes, donuts! They are a
+        must-try and add a unique twist to their menu.
+
+
+        Hi Sushi may not be a grand, five-star restaurant, but the quality of
+        their food and the warm, personalized service make it a standout. If
+        you're in Cheyenne, make sure to visit Hi Sushi for an unforgettable
+        dining experience!
+      languageCode: en
+    authorAttribution:
+      displayName: Fernando Mora
+      uri: https://www.google.com/maps/contrib/105138120499161463970/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWNnETXQ-o94TEf4nLCqSJF-TtFtbxIS_GhAfnD6btsDFDtxe-ywg=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-08-08T00:43:24.372641Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURiOWNHVEN3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURiOWNHVEN3EAE!2m1!1s0x876f3b3e5353f2a1:0xc153b16cbc7328bd
+  - name: >-
+      places/ChIJofJTUz47b4cRvShzvGyxU8E/reviews/ChZDSUhNMG9nS0VJQ0FnSUQzOEtxOFl3EAE
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        What a great place even though it looks average do not let that fool
+        you.. the service from the guys was top notch and food was amazing
+        delicious fresh and filling..
+
+        It a must check out if you are in the area…
+      languageCode: en
+    originalText:
+      text: >-
+        What a great place even though it looks average do not let that fool
+        you.. the service from the guys was top notch and food was amazing
+        delicious fresh and filling..
+
+        It a must check out if you are in the area…
+      languageCode: en
+    authorAttribution:
+      displayName: Cindy Brown
+      uri: https://www.google.com/maps/contrib/108432481136906355094/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVA85lVoLcgb8SXeV9WW8NYdpfN_V9R4yw7dwDOnvhh90nG0og31Q=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-11-11T13:31:24.123420Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQzOEtxOFl3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQzOEtxOFl3EAE!2m1!1s0x876f3b3e5353f2a1:0xc153b16cbc7328bd
+  - name: >-
+      places/ChIJofJTUz47b4cRvShzvGyxU8E/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3enBqdHRRRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Me and my husband went for the first time and we both loved it! We got
+        ramen, crab Rangoon, and my husband got a spicy tuna roll and everything
+        was delicious! We also got some donuts to go and I loved the maple
+        Boston donut! We will most definitely be going back. The service was
+        great and fast as well
+      languageCode: en
+    originalText:
+      text: >-
+        Me and my husband went for the first time and we both loved it! We got
+        ramen, crab Rangoon, and my husband got a spicy tuna roll and everything
+        was delicious! We also got some donuts to go and I loved the maple
+        Boston donut! We will most definitely be going back. The service was
+        great and fast as well
+      languageCode: en
+    authorAttribution:
+      displayName: Laura Glotfelty
+      uri: https://www.google.com/maps/contrib/109296901399041220565/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVvtGz5nMogNRAE9MnfvugiuZ_XZ3Xh7ZPbLPkgSU0PlyYoUHE=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-03-25T22:28:42.503269Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUR3enBqdHRRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUR3enBqdHRRRRAB!2m1!1s0x876f3b3e5353f2a1:0xc153b16cbc7328bd
+review_summary: >-
+  What Visitors Love About This Spot$$$Visitors consistently rave about the
+  fresh and flavorful sushi rolls at this local favorite, highlighting how they
+  hit the spot for anyone hunting for quality Japanese cuisine nearby. Many
+  appreciate the friendly and efficient service that makes every meal feel
+  relaxed and enjoyable, along with tasty add-ons like donuts that add a fun
+  twist to the experience. Feedback often notes the generous portions and quick
+  preparation, making it a go-to for families or groups looking for a satisfying
+  bite without the wait. Overall, the positive vibes around the food's
+  authenticity and affordability keep the energy upbeat, encouraging repeat
+  visits for those exploring the best sushi options around Cheyenne.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsCashOnly: false
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
+delivery: true
+dine_in: true
+good_for_children: true
 good_for_groups: null
-good_for_sports: null
-live_music: null
+good_for_sports: false
+live_music: false
 menu_for_children: null
-outdoor_seating: null
+outdoor_seating: false
 reservable: null
-restroom: null
-serves_beer: null
+restroom: true
+serves_beer: false
 serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_brunch: false
+serves_cocktails: false
+serves_coffee: true
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: false
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

@@ -5,4 +5,5 @@ permalink: /maryland/dundalk/
 stateAbbr: MD
 stateName: Maryland
 cityName: Dundalk
+
 ---

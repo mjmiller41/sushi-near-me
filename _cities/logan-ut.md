@@ -5,4 +5,5 @@ permalink: /utah/logan/
 stateAbbr: UT
 stateName: Utah
 cityName: Logan
+
 ---

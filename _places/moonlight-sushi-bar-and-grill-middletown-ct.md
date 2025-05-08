@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Moonlight Sushi Bar and Grill"
+title: Moonlight Sushi Bar and Grill
 permalink: /connecticut/middletown/moonlight-sushi-bar-and-grill.html
 stateAbbr: CT
 stateName: Connecticut
 cityName: Middletown
 seo:
-  name: "Moonlight Sushi Bar and Grill"
-  type: Restaurant
+  type: restaurant
   links: http://moonlightsushibargrillmiddletown.com/
-description: "Moonlight Sushi Bar and Grill serves delicious sushi in Middletown, Connecticut. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJxTx7vf815okR5m4q-dKEWZs
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89e635ffbd7b3cc5:0x9b5984d2f92a6ee6!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:30 PM'
     - 'Tuesday: Closed'
     - 'Wednesday: 11:00 AM – 9:30 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:30 PM'
     - 'Saturday: 11:00 AM – 10:30 PM'
     - 'Sunday: 12:00 – 9:30 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:30 PM'
-    - 'Tuesday: Closed'
-    - 'Wednesday: 11:00 AM – 9:30 PM'
-    - 'Thursday: 11:00 AM – 9:30 PM'
-    - 'Friday: 11:00 AM – 10:30 PM'
-    - 'Saturday: 11:00 AM – 10:30 PM'
-    - 'Sunday: 12:00 – 9:30 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +238,51 @@ phone: (860) 788-6253
 price_level: null
 price_range: $20 &ndash; $30
 rating: '4.3'
-rating_count: 0
+rating_count: 279
 website: http://moonlightsushibargrillmiddletown.com/
+description: >-
+  Discover Moonlight Sushi Bar and Grill in Middletown, CT$$$Nestled in the
+  heart of Middletown, CT, Moonlight Sushi Bar and Grill stands out as a go-to
+  spot for fresh sushi and Japanese-inspired dishes, blending casual vibes with
+  flavorful options that appeal to locals and visitors alike. This welcoming
+  sushi restaurant offers a variety of rolls, teriyaki classics, and other light
+  plates in a relaxed setting, making it an ideal choice for anyone seeking
+  authentic Japanese cuisine near you. With accessible features like
+  wheelchair-friendly entrances and seating, it's designed to accommodate
+  everyone looking for a comfortable dining experience. The spot operates with
+  convenient hours, including evenings and weekends, perfect for those searching
+  for top-rated sushi options close to home. Its approachable atmosphere and
+  diverse menu ensure it's a standout among sushi places in the area, drawing in
+  those eager to explore quality, everyday Japanese flavors.
+generative_summary: >-
+  Discover Moonlight Sushi Bar and Grill in Middletown, CT$$$Nestled in the
+  heart of Middletown, CT, Moonlight Sushi Bar and Grill stands out as a go-to
+  spot for fresh sushi and Japanese-inspired dishes, blending casual vibes with
+  flavorful options that appeal to locals and visitors alike. This welcoming
+  sushi restaurant offers a variety of rolls, teriyaki classics, and other light
+  plates in a relaxed setting, making it an ideal choice for anyone seeking
+  authentic Japanese cuisine near you. With accessible features like
+  wheelchair-friendly entrances and seating, it's designed to accommodate
+  everyone looking for a comfortable dining experience. The spot operates with
+  convenient hours, including evenings and weekends, perfect for those searching
+  for top-rated sushi options close to home. Its approachable atmosphere and
+  diverse menu ensure it's a standout among sushi places in the area, drawing in
+  those eager to explore quality, everyday Japanese flavors.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Guests Are Saying$$$Visitors to Moonlight Sushi Bar and Grill often
+  highlight the fresh flavors and reliable service that make meals here a solid
+  pick for casual outings. Many appreciate the variety of sushi rolls and
+  Japanese dishes that deliver a satisfying balance of taste and value, earning
+  it praise as a dependable spot for everyday dining. Folks frequently note the
+  welcoming vibe and efficient staff, which add to the overall enjoyment without
+  any major drawbacks. While some mention portions could vary, the general
+  consensus leans positive, with the high rating reflecting consistent
+  satisfaction among those stopping by for a quick bite. Overall, it's a favored
+  choice for anyone hunting for good sushi nearby, offering an honest and
+  enjoyable experience that keeps people coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +308,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

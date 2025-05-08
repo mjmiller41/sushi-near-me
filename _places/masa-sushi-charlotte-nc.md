@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Masa sushi"
+title: Masa sushi
 permalink: /north-carolina/charlotte/masa-sushi.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Charlotte
 seo:
-  name: "Masa sushi"
-  type: Restaurant
+  type: restaurant
   links: https://masasushitogo.com/
-description: "Masa sushi serves delicious sushi in Charlotte, North Carolina. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJcxKB7r6ZVogRowhIfz4SoV0
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 0
 website: https://masasushitogo.com/
+description: >-
+  About Masa Sushi in Charlotte, NC$$$Masa Sushi in Charlotte, NC, stands out as
+  a welcoming spot for enjoying fresh sushi and authentic Japanese dishes in a
+  relaxed environment. This casual eatery combines traditional Japanese
+  favorites with some Chinese-inspired options, making it a versatile choice for
+  those exploring sushi restaurants nearby. With its moderate pricing and
+  accessible features like wheelchair-friendly entrances and parking, it's
+  designed to accommodate a variety of diners seeking quality meals without the
+  fuss. The menu highlights flavorful selections that appeal to sushi
+  enthusiasts, ensuring a satisfying experience for anyone looking for top-rated
+  Japanese places in the area.
+generative_summary: >-
+  About Masa Sushi in Charlotte, NC$$$Masa Sushi in Charlotte, NC, stands out as
+  a welcoming spot for enjoying fresh sushi and authentic Japanese dishes in a
+  relaxed environment. This casual eatery combines traditional Japanese
+  favorites with some Chinese-inspired options, making it a versatile choice for
+  those exploring sushi restaurants nearby. With its moderate pricing and
+  accessible features like wheelchair-friendly entrances and parking, it's
+  designed to accommodate a variety of diners seeking quality meals without the
+  fuss. The menu highlights flavorful selections that appeal to sushi
+  enthusiasts, ensuring a satisfying experience for anyone looking for top-rated
+  Japanese places in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJcxKB7r6ZVogRowhIfz4SoV0/reviews/ChZDSUhNMG9nS0VJQ0FnTURRNTRtZ1FnEAE
@@ -338,6 +359,17 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNscW8zc1dnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNscW8zc1dnEAE!2m1!1s0x885699beee811273:0x5da1123e7f4808a3
+review_summary: >-
+  What Visitors Are Saying$$$Folks who stop by Masa Sushi often rave about the
+  tasty sushi rolls and entrees, praising the fresh flavors and generous
+  portions that make for a solid value. Many appreciate how quickly the food
+  arrives, turning simple meals into enjoyable highlights of their day. While
+  most feedback highlights the overall goodness of the dishes, a few note that
+  seasonings can sometimes feel a bit heavy, offering room for tweaks. All in
+  all, it's a go-to option for casual diners, with plenty of positive vibes
+  around the variety and service that keep people coming back for more sushi
+  adventures.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -370,7 +402,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

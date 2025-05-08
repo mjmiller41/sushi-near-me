@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Mizu Sushi House"
+title: Mizu Sushi House
 permalink: /illinois/palos-park/mizu-sushi-house.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Palos Park
 seo:
-  name: "Mizu Sushi House"
-  type: Restaurant
-  links: null
-description: "Mizu Sushi House serves delicious sushi in Palos Park, Illinois. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.mizusushihouse.com/
 place_id: ChIJpSKfE6hADogR_nCbAFnuGe8
 photos:
   - name: >-
@@ -170,8 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x880e40a8139f22a5:0xef19ee59009b70fe!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 10:00 PM'
+    - 'Tuesday: Closed'
+    - 'Wednesday: 11:00 AM – 10:00 PM'
+    - 'Thursday: 11:00 AM – 10:00 PM'
+    - 'Friday: 11:00 AM – 11:00 PM'
+    - 'Saturday: 11:00 AM – 11:00 PM'
+    - 'Sunday: 12:00 – 10:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +234,54 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (708) 671-1988
+price_level: PRICE_LEVEL_MODERATE
+price_range: $30 &ndash; $50
+rating: '3.9'
+rating_count: 711
+website: http://www.mizusushihouse.com/
+description: >-
+  Discover Mizu Sushi House in Palos Park, Illinois$$$Mizu Sushi House in Palos
+  Park, Illinois, offers a welcoming spot for enjoying fresh sushi rolls and
+  classic Japanese dishes, making it a go-to choice for casual dining
+  enthusiasts. This spot stands out with its all-you-can-eat options that
+  feature a variety of flavorful rolls and plates, appealing to those seeking
+  satisfying Japanese cuisine nearby. Accessibility is a key highlight, with
+  features like wheelchair-friendly parking and seating that ensure everyone can
+  enjoy the experience comfortably. The restaurant's relaxed atmosphere and
+  moderate pricing add to its appeal for families or groups looking for reliable
+  sushi restaurants in the area. Whether you're in the mood for inventive rolls
+  or traditional favorites, this location provides a straightforward yet
+  enjoyable setting for a memorable meal.
+generative_summary: >-
+  Discover Mizu Sushi House in Palos Park, Illinois$$$Mizu Sushi House in Palos
+  Park, Illinois, offers a welcoming spot for enjoying fresh sushi rolls and
+  classic Japanese dishes, making it a go-to choice for casual dining
+  enthusiasts. This spot stands out with its all-you-can-eat options that
+  feature a variety of flavorful rolls and plates, appealing to those seeking
+  satisfying Japanese cuisine nearby. Accessibility is a key highlight, with
+  features like wheelchair-friendly parking and seating that ensure everyone can
+  enjoy the experience comfortably. The restaurant's relaxed atmosphere and
+  moderate pricing add to its appeal for families or groups looking for reliable
+  sushi restaurants in the area. Whether you're in the mood for inventive rolls
+  or traditional favorites, this location provides a straightforward yet
+  enjoyable setting for a memorable meal.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Guests Are Sharing About the Experience$$$Visitors often rave about the
+  generous all-you-can-eat deals at this sushi spot, highlighting the wide
+  selection of tasty, well-sized rolls that make for a fulfilling outing without
+  breaking the bank. Many appreciate the overall value and variety, noting it as
+  a solid pick for anyone hunting for top-rated sushi options close by. While
+  some feedback points out occasional inconsistencies in service, like less
+  attentive staff during busier times, the general consensus leans toward the
+  positives, with folks enjoying the laid-back vibe and reasonable prices.
+  Overall, it's a place where the flavorful dishes tend to shine, encouraging
+  return trips for those who love exploring Japanese places near them. If you're
+  deciding on a visit, expect a mostly positive experience with room for the
+  occasional hiccup, keeping things real while focusing on the highlights.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +307,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -5,4 +5,5 @@ permalink: /nevada/las-vegas/
 stateAbbr: NV
 stateName: Nevada
 cityName: Las Vegas
+
 ---

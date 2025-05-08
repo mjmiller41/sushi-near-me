@@ -5,4 +5,5 @@ permalink: /florida/jupiter/
 stateAbbr: FL
 stateName: Florida
 cityName: Jupiter
+
 ---

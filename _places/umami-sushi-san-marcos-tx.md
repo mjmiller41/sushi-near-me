@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Umami Sushi"
+title: Umami Sushi
 permalink: /texas/san-marcos/umami-sushi.html
 stateAbbr: TX
 stateName: Texas
 cityName: San Marcos
 seo:
-  name: "Umami Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.umamiumami.com/
-description: "Umami Sushi serves delicious sushi in San Marcos, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ7d9OzGuoXIYRjlJsfCbXUo8
 photos:
   - name: >-
@@ -170,7 +168,105 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x865ca86bcc4edfed:0x8f52d7267c6c528e!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 14
+        minute: 30
+    - open:
+        day: 6
+        hour: 16
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 2:30 PM, 4:30 – 9:30 PM'
     - 'Tuesday: 11:00 AM – 2:30 PM, 4:30 – 9:30 PM'
     - 'Wednesday: 11:00 AM – 2:30 PM, 4:30 – 9:30 PM'
@@ -178,14 +274,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 2:30 PM, 4:30 – 9:30 PM'
     - 'Saturday: 12:00 – 2:30 PM, 4:30 – 10:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:00 AM – 2:30 PM, 4:30 – 9:30 PM'
-    - 'Tuesday: 11:00 AM – 2:30 PM, 4:30 – 9:30 PM'
-    - 'Wednesday: 11:00 AM – 2:30 PM, 4:30 – 9:30 PM'
-    - 'Thursday: 11:00 AM – 2:30 PM, 4:30 – 9:30 PM'
-    - 'Friday: 11:00 AM – 2:30 PM, 4:30 – 9:30 PM'
-    - 'Saturday: 12:00 – 2:30 PM, 4:30 – 10:00 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +286,236 @@ phone: (512) 667-7903
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.5'
-rating_count: 0
+rating_count: 485
 website: https://www.umamiumami.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Umami Sushi in San Marcos, TX$$$Umami Sushi in San Marcos, TX, offers
+  a welcoming retreat for those seeking fresh Japanese flavors, featuring an
+  array of expertly crafted sushi rolls and small plates that highlight the art
+  of simple, high-quality ingredients. This cozy spot emphasizes a relaxed
+  atmosphere where diners can enjoy creative dishes alongside refreshing
+  cocktails, making it an ideal choice for casual meals or special occasions.
+  With its focus on accessibility and thoughtful design, including
+  wheelchair-friendly features, the restaurant ensures everyone can savor the
+  experience without hassle. Operating with convenient hours that cater to lunch
+  and dinner crowds, it's a go-to destination for anyone exploring top sushi
+  options near you, blending affordability with authentic tastes that keep
+  locals coming back.
+generative_summary: >-
+  Discover Umami Sushi in San Marcos, TX$$$Umami Sushi in San Marcos, TX, offers
+  a welcoming retreat for those seeking fresh Japanese flavors, featuring an
+  array of expertly crafted sushi rolls and small plates that highlight the art
+  of simple, high-quality ingredients. This cozy spot emphasizes a relaxed
+  atmosphere where diners can enjoy creative dishes alongside refreshing
+  cocktails, making it an ideal choice for casual meals or special occasions.
+  With its focus on accessibility and thoughtful design, including
+  wheelchair-friendly features, the restaurant ensures everyone can savor the
+  experience without hassle. Operating with convenient hours that cater to lunch
+  and dinner crowds, it's a go-to destination for anyone exploring top sushi
+  options near you, blending affordability with authentic tastes that keep
+  locals coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ7d9OzGuoXIYRjlJsfCbXUo8/reviews/ChZDSUhNMG9nS0VJQ0FnTURBaWQ3emZBEAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        Good quality sushi and a comfortable environment. Could have spent less,
+        but I wanted to splurge on top notch food and I was not disappointed.
+        Watching the Chef bob to the music while preparing the food was also
+        entertaining.
+      languageCode: en
+    originalText:
+      text: >-
+        Good quality sushi and a comfortable environment. Could have spent less,
+        but I wanted to splurge on top notch food and I was not disappointed.
+        Watching the Chef bob to the music while preparing the food was also
+        entertaining.
+      languageCode: en
+    authorAttribution:
+      displayName: Cole Beauchamp
+      uri: https://www.google.com/maps/contrib/100556311348896631496/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXW9F2HokKWioV10jrub1gzSV6KbWSv_zNWmdtXtAhMUezzs-I=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-02-10T01:25:23.827076Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURBaWQ3emZBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURBaWQ3emZBEAE!2m1!1s0x865ca86bcc4edfed:0x8f52d7267c6c528e
+  - name: >-
+      places/ChIJ7d9OzGuoXIYRjlJsfCbXUo8/reviews/ChdDSUhNMG9nS0VJQ0FnTUNBN3BhSW5BRRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        Great food for an amazing price! I got to try fried octopus balls
+        (takoyaki) for 6$ which were amazing.
+
+        Also I highly recommend the miso sake (miso salmon) as it’s the best
+        nigiri I’ve ever had!
+      languageCode: en
+    originalText:
+      text: >-
+        Great food for an amazing price! I got to try fried octopus balls
+        (takoyaki) for 6$ which were amazing.
+
+        Also I highly recommend the miso sake (miso salmon) as it’s the best
+        nigiri I’ve ever had!
+      languageCode: en
+    authorAttribution:
+      displayName: Olin
+      uri: https://www.google.com/maps/contrib/111122750891836306781/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXTXjhzt9I_384FtW1LGjHa0HvRoyriyTlyBO6m82udxrEqev9A=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-02-01T02:13:24.448250Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNBN3BhSW5BRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNBN3BhSW5BRRAB!2m1!1s0x865ca86bcc4edfed:0x8f52d7267c6c528e
+  - name: >-
+      places/ChIJ7d9OzGuoXIYRjlJsfCbXUo8/reviews/ChZDSUhNMG9nS0VJQ0FnSUNuc05XS0xBEAE
+    relativePublishTimeDescription: 7 months ago
+    rating: 5
+    text:
+      text: >-
+        Easily the best Japanese food I’ve ever had. We had the gyoza, sunset
+        roll, yaki udon, and chicken katsu. All of it was absolutely delicious.
+        The atmosphere was perfect, and the staff were very friendly.
+      languageCode: en
+    originalText:
+      text: >-
+        Easily the best Japanese food I’ve ever had. We had the gyoza, sunset
+        roll, yaki udon, and chicken katsu. All of it was absolutely delicious.
+        The atmosphere was perfect, and the staff were very friendly.
+      languageCode: en
+    authorAttribution:
+      displayName: Wil Schulz
+      uri: https://www.google.com/maps/contrib/112276176765744782481/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWym3nipTV4Gg_4-P-IkTRhuPVDRDE23N2e754qG-9P7yzQ8P0=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-09-22T01:03:18.725879Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNuc05XS0xBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNuc05XS0xBEAE!2m1!1s0x865ca86bcc4edfed:0x8f52d7267c6c528e
+  - name: >-
+      places/ChIJ7d9OzGuoXIYRjlJsfCbXUo8/reviews/ChdDSUhNMG9nS0VJQ0FnSURMNnZLVnJRRRAB
+    relativePublishTimeDescription: 10 months ago
+    rating: 5
+    text:
+      text: >-
+        Umami sushi is the spot to go to if you're craving sushi in smtx. High
+        quality fish, great prices/portions, and friendly service. Highlights
+        included their hama kama served two ways; sashimi style and then grilled
+        and their spicy scallop hand roll.
+      languageCode: en
+    originalText:
+      text: >-
+        Umami sushi is the spot to go to if you're craving sushi in smtx. High
+        quality fish, great prices/portions, and friendly service. Highlights
+        included their hama kama served two ways; sashimi style and then grilled
+        and their spicy scallop hand roll.
+      languageCode: en
+    authorAttribution:
+      displayName: Christopher Choi
+      uri: https://www.google.com/maps/contrib/107914928803376383358/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKgWX2i2U1QCz_PSWkmS-V2WJOibCVRqU6HyMK8jThceOCOWQ=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2024-06-27T00:51:42.995418Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURMNnZLVnJRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURMNnZLVnJRRRAB!2m1!1s0x865ca86bcc4edfed:0x8f52d7267c6c528e
+  - name: >-
+      places/ChIJ7d9OzGuoXIYRjlJsfCbXUo8/reviews/ChdDSUhNMG9nS0VJQ0FnSUNwaWFlUzlnRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        I recently visited this sushi restaurant, and I must say, it was an
+        incredible experience! The rice they use is excellent, perfectly
+        complementing their creative sushi rolls. I was impressed by the variety
+        of options they offered, and the quality of the fish was outstanding.
+        They also have a fantastic selection of drinks to choose from, which I
+        thoroughly enjoyed. The staff were incredibly friendly and
+        accommodating, making the dining experience even more enjoyable. I tried
+        their volcano sushi, nigiri, and edamame, all of which were fresh and
+        delicious. In my opinion, this is hands down the best sushi place in all
+        of San Marcos!
+      languageCode: en
+    originalText:
+      text: >-
+        I recently visited this sushi restaurant, and I must say, it was an
+        incredible experience! The rice they use is excellent, perfectly
+        complementing their creative sushi rolls. I was impressed by the variety
+        of options they offered, and the quality of the fish was outstanding.
+        They also have a fantastic selection of drinks to choose from, which I
+        thoroughly enjoyed. The staff were incredibly friendly and
+        accommodating, making the dining experience even more enjoyable. I tried
+        their volcano sushi, nigiri, and edamame, all of which were fresh and
+        delicious. In my opinion, this is hands down the best sushi place in all
+        of San Marcos!
+      languageCode: en
+    authorAttribution:
+      displayName: Estefani G
+      uri: https://www.google.com/maps/contrib/110469882476992605900/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWfMhFVmbGtp8Bs26yQlridaau0z-2TRV6aZHB6iZV8MD4Zpnq6=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2023-08-06T01:52:25.395616Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNwaWFlUzlnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNwaWFlUzlnRRAB!2m1!1s0x865ca86bcc4edfed:0x8f52d7267c6c528e
+review_summary: >-
+  What Customers Are Raving About$$$Visitors to this sushi haven often praise
+  the consistently fresh and flavorful dishes that deliver great value without
+  breaking the bank, turning everyday meals into memorable treats. Many
+  highlight the variety of creative rolls and Japanese favorites that stand out
+  for their quality and taste, making it a solid pick for anyone craving
+  reliable sushi close to home. The friendly vibe and efficient service add to
+  the appeal, creating a comfortable setting where groups can unwind and enjoy
+  their time. Overall, folks appreciate how the spot balances affordability with
+  delicious options, encouraging repeat visits for those seeking the best sushi
+  experiences in the area. While not every detail is perfect, the positive
+  feedback keeps the energy upbeat and inviting for newcomers.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
+delivery: true
+dine_in: true
 good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Unassuming stop in a strip-mall serving Japanese dishes such as sushi rolls &
+  tempura.
 
 ---

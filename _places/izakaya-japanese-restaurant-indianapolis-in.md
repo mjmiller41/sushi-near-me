@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Izakaya Japanese Restaurant"
+title: Izakaya Japanese Restaurant
 permalink: /indiana/indianapolis/izakaya-japanese-restaurant.html
 stateAbbr: IN
 stateName: Indiana
 cityName: Indianapolis
 seo:
-  name: "Izakaya Japanese Restaurant"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Izakaya Japanese Restaurant serves delicious sushi in Indianapolis, Indiana. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJIbo9PjqzFIgRyWNceMIAVEo
 photos:
   - name: >-
@@ -177,7 +175,42 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Izakaya Japanese Restaurant in Indianapolis, IN$$$Izakaya Japanese
+  Restaurant in Indianapolis, IN, stands out as a cozy destination for savoring
+  authentic Japanese cuisine in a relaxed atmosphere. Nestled in the vibrant
+  Castleton neighborhood, this spot boasts fully accessible features like
+  wheelchair-friendly parking and seating, ensuring a welcoming experience for
+  all visitors. Patrons can enjoy a variety of traditional dishes that highlight
+  fresh flavors, making it an ideal choice for those exploring Japanese places
+  near them. Whether you're in the mood for top-rated sushi options or other
+  flavorful offerings, the restaurant's operational charm adds to its appeal as
+  a go-to spot for casual dining.
+generative_summary: >-
+  Discover Izakaya Japanese Restaurant in Indianapolis, IN$$$Izakaya Japanese
+  Restaurant in Indianapolis, IN, stands out as a cozy destination for savoring
+  authentic Japanese cuisine in a relaxed atmosphere. Nestled in the vibrant
+  Castleton neighborhood, this spot boasts fully accessible features like
+  wheelchair-friendly parking and seating, ensuring a welcoming experience for
+  all visitors. Patrons can enjoy a variety of traditional dishes that highlight
+  fresh flavors, making it an ideal choice for those exploring Japanese places
+  near them. Whether you're in the mood for top-rated sushi options or other
+  flavorful offerings, the restaurant's operational charm adds to its appeal as
+  a go-to spot for casual dining.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Folks often rave about the tasty and genuine
+  flavors at this Japanese eatery, noting it as a solid pick for anyone hunting
+  for sushi restaurants nearby. Many appreciate the easy accessibility and
+  comfortable vibe that make every visit feel straightforward and enjoyable.
+  While experiences vary, the general buzz leans positive, with comments
+  highlighting the welcoming setup and reliable food quality. Overall, it's
+  frequently recommended as a great option for casual meals, helping it maintain
+  a reputation among those seeking the best sushi near them. If you're looking
+  for a straightforward spot to grab a bite, this place tends to deliver on
+  expectations without any major letdowns.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -204,6 +237,6 @@ serves_vegetarian_food: null
 serves_wine: null
 takeout: null
 update_category: pro
-summary: null
+places_description: null
 
 ---

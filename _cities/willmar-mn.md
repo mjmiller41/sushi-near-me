@@ -5,4 +5,5 @@ permalink: /minnesota/willmar/
 stateAbbr: MN
 stateName: Minnesota
 cityName: Willmar
+
 ---

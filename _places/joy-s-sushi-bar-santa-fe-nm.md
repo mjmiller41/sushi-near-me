@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Joy's Sushi Bar"
+title: Joy's Sushi Bar
 permalink: /new-mexico/santa-fe/joy-s-sushi-bar.html
 stateAbbr: NM
 stateName: New Mexico
 cityName: Santa Fe
 seo:
-  name: "Joy's Sushi Bar"
-  type: Restaurant
+  type: restaurant
   links: https://www.joyssushibarnm.com/
-description: "Joy's Sushi Bar serves delicious sushi in Santa Fe, New Mexico. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJG24cYwBbGIcRrEXq23eWAw0
 photos:
   - name: >-
@@ -169,7 +167,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x87185b00631c6e1b:0xd039677dbea45ac!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 20
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 20
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 20
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 8:00 PM'
     - 'Tuesday: 11:00 AM – 8:00 PM'
     - 'Wednesday: 11:00 AM – 8:00 PM'
@@ -177,14 +225,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 8:00 PM'
     - 'Saturday: 11:00 AM – 8:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:00 AM – 8:00 PM'
-    - 'Tuesday: 11:00 AM – 8:00 PM'
-    - 'Wednesday: 11:00 AM – 8:00 PM'
-    - 'Thursday: 11:00 AM – 8:00 PM'
-    - 'Friday: 11:00 AM – 8:00 PM'
-    - 'Saturday: 11:00 AM – 8:00 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -195,36 +236,273 @@ secondary_opening_hours:
 phone: (505) 954-1816
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
-rating: '4.5'
-rating_count: 0
+rating: '4.4'
+rating_count: 55
 website: https://www.joyssushibarnm.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Experience Joy's Sushi Bar in Santa Fe, NM$$$Nestled in Santa Fe, NM, Joy's
+  Sushi Bar stands out as a welcoming spot for sushi enthusiasts seeking fresh,
+  flavorful Japanese cuisine in a convenient location. This cozy restaurant
+  offers a variety of creative rolls and traditional options, all prepared with
+  high-quality ingredients at moderate prices, making it an excellent choice for
+  casual diners or those exploring sushi places nearby. Accessibility features
+  like wheelchair-friendly parking and seating enhance the experience for all
+  visitors, while the menu includes beer, wine, and sake to complement your
+  meal. With daily hours from 11 AM to 8 PM, it's easy to drop in for a
+  satisfying lunch or dinner, positioning it as a reliable option among
+  top-rated sushi restaurants in the area.
+generative_summary: >-
+  Experience Joy's Sushi Bar in Santa Fe, NM$$$Nestled in Santa Fe, NM, Joy's
+  Sushi Bar stands out as a welcoming spot for sushi enthusiasts seeking fresh,
+  flavorful Japanese cuisine in a convenient location. This cozy restaurant
+  offers a variety of creative rolls and traditional options, all prepared with
+  high-quality ingredients at moderate prices, making it an excellent choice for
+  casual diners or those exploring sushi places nearby. Accessibility features
+  like wheelchair-friendly parking and seating enhance the experience for all
+  visitors, while the menu includes beer, wine, and sake to complement your
+  meal. With daily hours from 11 AM to 8 PM, it's easy to drop in for a
+  satisfying lunch or dinner, positioning it as a reliable option among
+  top-rated sushi restaurants in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJG24cYwBbGIcRrEXq23eWAw0/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJbFktdHJBRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        One of the best places for great sushi at a reasonable price. We tend to
+        get the Fusion Combo as it's a lot of food.. 1 salad, 1 Miso, 2
+        traditional rolls plus 1 of each Type 1-3 rolls. The staff is always
+        nice and friendly. They also serves beer, wine and sake/soju! I just
+        wish it wasn't so bright in there(personal pref), but otherwise A++
+      languageCode: en
+    originalText:
+      text: >-
+        One of the best places for great sushi at a reasonable price. We tend to
+        get the Fusion Combo as it's a lot of food.. 1 salad, 1 Miso, 2
+        traditional rolls plus 1 of each Type 1-3 rolls. The staff is always
+        nice and friendly. They also serves beer, wine and sake/soju! I just
+        wish it wasn't so bright in there(personal pref), but otherwise A++
+      languageCode: en
+    authorAttribution:
+      displayName: David Paez Jr
+      uri: https://www.google.com/maps/contrib/100983741242342649185/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUe-T18LdzPKmxUptrv9iYvNekNEiUEsuxdCoZOmnWB2gpmF1hKwg=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-03T16:37:52.498030Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNJbFktdHJBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNJbFktdHJBRRAB!2m1!1s0x87185b00631c6e1b:0xd039677dbea45ac
+  - name: >-
+      places/ChIJG24cYwBbGIcRrEXq23eWAw0/reviews/ChdDSUhNMG9nS0VJQ0FnSUNILVlUbDR3RRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        Always good sushi and service.
+
+        We had Yummy roll, baked salmon Teriyaki bowl, spicy tuna, and crunch
+        california.
+
+        Update 12/21/24: We tried one of the new items which was the Tuna Poke
+        Bowl. It was so good. Of course my favorite Yummy Roll and the New
+        Mexican Roll.
+
+        Miso Ramen with chicken.
+      languageCode: en
+    originalText:
+      text: >-
+        Always good sushi and service.
+
+        We had Yummy roll, baked salmon Teriyaki bowl, spicy tuna, and crunch
+        california.
+
+        Update 12/21/24: We tried one of the new items which was the Tuna Poke
+        Bowl. It was so good. Of course my favorite Yummy Roll and the New
+        Mexican Roll.
+
+        Miso Ramen with chicken.
+      languageCode: en
+    authorAttribution:
+      displayName: Fanny Lee
+      uri: https://www.google.com/maps/contrib/100379476235648466041/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjU3iuBkC_40EsOv76Glbf3IfrQZy7b8fswV8KdbRSfObCRhT54=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-01-25T21:33:56.097164Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNILVlUbDR3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNILVlUbDR3RRAB!2m1!1s0x87185b00631c6e1b:0xd039677dbea45ac
+  - name: >-
+      places/ChIJG24cYwBbGIcRrEXq23eWAw0/reviews/ChZDSUhNMG9nS0VJQ0FnTURRdjZDVkJBEAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        This is a very solid take on American-style sushi. There are lots of fun
+        sauces and toppings. There’s decent variety in the rolls. (I’d recommend
+        their baked Avalanche roll). The prices are really good. The space is
+        super no-frills, but it’s comfortable.
+
+
+        If you’re from a city on the west coast or looking for something
+        high-end or authentic, you won’t be impressed by Joy’s, but it’s the
+        best American-style sushi place I’ve found in NM.
+      languageCode: en
+    originalText:
+      text: >-
+        This is a very solid take on American-style sushi. There are lots of fun
+        sauces and toppings. There’s decent variety in the rolls. (I’d recommend
+        their baked Avalanche roll). The prices are really good. The space is
+        super no-frills, but it’s comfortable.
+
+
+        If you’re from a city on the west coast or looking for something
+        high-end or authentic, you won’t be impressed by Joy’s, but it’s the
+        best American-style sushi place I’ve found in NM.
+      languageCode: en
+    authorAttribution:
+      displayName: Airi Kawamura
+      uri: https://www.google.com/maps/contrib/116627742903459528697/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJhVV2ElSpneDiu7rD_4IfdYr4O1A0JDC0CeFQfkRq5JQ2dJA=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-03-15T15:52:49.446278Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURRdjZDVkJBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURRdjZDVkJBEAE!2m1!1s0x87185b00631c6e1b:0xd039677dbea45ac
+  - name: >-
+      places/ChIJG24cYwBbGIcRrEXq23eWAw0/reviews/ChdDSUhNMG9nS0VJQ0FnTURveGEtT3N3RRAB
+    relativePublishTimeDescription: in the last week
+    rating: 3
+    text:
+      text: >-
+        Went to JOY'S SUSHI last night for dinner.  Most importantly,  fish was
+        fresh and tasty.
+
+
+        Atmosphere leaves a bit to be desired. Adjacent to the Asian market,
+        it's a small space with limited seating, although there is a small sushi
+        bar.
+
+
+        Paper plates, paper cups and order at the counter, i hope they make it
+        😊 Prices were reasonable.
+      languageCode: en
+    originalText:
+      text: >-
+        Went to JOY'S SUSHI last night for dinner.  Most importantly,  fish was
+        fresh and tasty.
+
+
+        Atmosphere leaves a bit to be desired. Adjacent to the Asian market,
+        it's a small space with limited seating, although there is a small sushi
+        bar.
+
+
+        Paper plates, paper cups and order at the counter, i hope they make it
+        😊 Prices were reasonable.
+      languageCode: en
+    authorAttribution:
+      displayName: Douglas Brenner
+      uri: https://www.google.com/maps/contrib/115685584473863692153/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUHEcqnWvZH45i81sWldOmniGst9zGaTHGRTOXC6MLNV93_xDRy=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-26T23:12:05.499204Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURveGEtT3N3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURveGEtT3N3RRAB!2m1!1s0x87185b00631c6e1b:0xd039677dbea45ac
+  - name: >-
+      places/ChIJG24cYwBbGIcRrEXq23eWAw0/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ3Ni1uY01BEAE
+    relativePublishTimeDescription: 8 months ago
+    rating: 5
+    text:
+      text: >-
+        I sometimes go to the supermarket next door and they were stellar, my
+        coworker tried this place, so I decided to try it too. I’ve been in New
+        Mexico officially since last year and haven’t gotten to eat sushi at a
+        restaurant since, this place is also very good and would very much
+        recommend it to those who come to Santa Fe often.
+
+
+        The employees were warm and welcoming, they have a variety of options
+        for you to choose from, and the food tastes great. Hoping to come back
+        soon!
+
+
+        I got  the Santa Fe Roll. Picture below :-)
+      languageCode: en
+    originalText:
+      text: >-
+        I sometimes go to the supermarket next door and they were stellar, my
+        coworker tried this place, so I decided to try it too. I’ve been in New
+        Mexico officially since last year and haven’t gotten to eat sushi at a
+        restaurant since, this place is also very good and would very much
+        recommend it to those who come to Santa Fe often.
+
+
+        The employees were warm and welcoming, they have a variety of options
+        for you to choose from, and the food tastes great. Hoping to come back
+        soon!
+
+
+        I got  the Santa Fe Roll. Picture below :-)
+      languageCode: en
+    authorAttribution:
+      displayName: Susanflower1997
+      uri: https://www.google.com/maps/contrib/105301521131691238920/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjW2-NVr_jc33NRPdgk7VsIx39lnJeaAhv-VmkSrdEaZ6KkXsdW0=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-08-28T17:56:50.020289Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQ3Ni1uY01BEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQ3Ni1uY01BEAE!2m1!1s0x87185b00631c6e1b:0xd039677dbea45ac
+review_summary: >-
+  Buzz Around Joy's Sushi Bar$$$Folks often highlight the fresh fish and
+  creative rolls as standout features, making this spot a solid pick for anyone
+  craving reliable sushi without breaking the bank. Many appreciate the friendly
+  service and good variety, turning it into a go-to choice for quick, enjoyable
+  meals that keep customers coming back. While the atmosphere keeps things
+  simple and straightforward, it's praised for delivering tasty options like
+  baked rolls and poke bowls that satisfy cravings for the best sushi nearby.
+  Overall, visitors find it a welcoming place for groups or families, with
+  reasonable prices and efficient service adding to the appeal in a casual,
+  everyday setting.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsCashOnly: false
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
+curbside_pickup: false
+delivery: true
+dine_in: true
 good_for_children: null
 good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
+good_for_sports: false
+live_music: false
+menu_for_children: true
 outdoor_seating: null
 reservable: null
-restroom: null
+restroom: true
 serves_beer: null
 serves_breakfast: null
 serves_brunch: null
 serves_cocktails: null
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

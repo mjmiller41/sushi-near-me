@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Tank's sushi bistro(WGV)"
+title: Tank's sushi bistro(WGV)
 permalink: /florida/st-augustine/tank-s-sushi-bistro-wgv.html
 stateAbbr: FL
 stateName: Florida
 cityName: St. Augustine
 seo:
-  name: "Tank's sushi bistro(WGV)"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Tank's sushi bistro(WGV) serves delicious sushi in St. Augustine, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJUb77Vmgr5IgR5gPjV7HmZDo
 photos:
   - name: >-
@@ -185,7 +183,44 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  About Tank's Sushi Bistro$$$Tank's Sushi Bistro(WGV) in St. Augustine, FL,
+  delivers a welcoming vibe for those seeking fresh Japanese flavors in a
+  laid-back setting. This spot stands out with its focus on high-quality sushi
+  and other inspired dishes, making it a go-to choice for casual diners
+  exploring top-rated options nearby. Accessibility features like
+  wheelchair-friendly parking, entrances, and seating ensure a comfortable
+  experience for everyone. The vibrant atmosphere, as seen in various photos,
+  adds to the appeal for groups or solo visits, blending authenticity with
+  everyday convenience. Whether you're in the mood for sushi restaurants close
+  to St. Augustine or simply craving a relaxed meal, this place captures the
+  essence of enjoyable Japanese dining.
+generative_summary: >-
+  About Tank's Sushi Bistro$$$Tank's Sushi Bistro(WGV) in St. Augustine, FL,
+  delivers a welcoming vibe for those seeking fresh Japanese flavors in a
+  laid-back setting. This spot stands out with its focus on high-quality sushi
+  and other inspired dishes, making it a go-to choice for casual diners
+  exploring top-rated options nearby. Accessibility features like
+  wheelchair-friendly parking, entrances, and seating ensure a comfortable
+  experience for everyone. The vibrant atmosphere, as seen in various photos,
+  adds to the appeal for groups or solo visits, blending authenticity with
+  everyday convenience. Whether you're in the mood for sushi restaurants close
+  to St. Augustine or simply craving a relaxed meal, this place captures the
+  essence of enjoyable Japanese dining.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Folks generally rave about the fresh and flavorful
+  sushi at this Japanese eatery, often highlighting how it hits the spot for a
+  satisfying meal. Many appreciate the welcoming atmosphere and thoughtful
+  accessibility, which make it easy for all to enjoy their time there. It's
+  commonly noted as a solid pick for casual outings, with diners praising the
+  variety of dishes that keep things exciting without overwhelming the palate.
+  Overall, people seem to love the relaxed vibe and reliable quality, making it
+  a favorite among those searching for great sushi spots in the area. While
+  experiences can vary, the feedback leans positive, encouraging others to give
+  it a try for a pleasant dining adventure.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +246,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

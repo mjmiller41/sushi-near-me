@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "HAHA Sushi"
+title: HAHA Sushi
 permalink: /california/fresno/haha-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Fresno
 seo:
-  name: "HAHA Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.hahasushifresno.com/
-description: "HAHA Sushi serves delicious sushi in Fresno, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJu8aNjMxolIARMicvbuvheNM
 photos:
   - name: >-
@@ -170,7 +168,121 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x809468cc8c8dc6bb:0xd378e1eb6e2f2732!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 15
+        minute: 0
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 15
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 2:30 PM, 5:00 – 9:00 PM'
     - 'Tuesday: 11:00 AM – 2:30 PM, 5:00 – 9:00 PM'
     - 'Wednesday: 11:00 AM – 2:30 PM, 5:00 – 9:00 PM'
@@ -178,14 +290,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 3:00 PM, 5:00 – 9:30 PM'
     - 'Saturday: 12:00 – 3:00 PM, 5:00 – 9:00 PM'
     - 'Sunday: 12:00 – 3:00 PM, 5:00 – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 2:30 PM, 5:00 – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 2:30 PM, 5:00 – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 2:30 PM, 5:00 – 9:00 PM'
-    - 'Thursday: 11:00 AM – 2:30 PM, 5:00 – 9:00 PM'
-    - 'Friday: 11:00 AM – 3:00 PM, 5:00 – 9:30 PM'
-    - 'Saturday: 12:00 – 3:00 PM, 5:00 – 9:00 PM'
-    - 'Sunday: 12:00 – 3:00 PM, 5:00 – 9:00 PM'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +302,43 @@ phone: (559) 436-4796
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '3.9'
-rating_count: 0
+rating_count: 268
 website: https://www.hahasushifresno.com/
+description: >-
+  Explore HAHA Sushi in Fresno, CA$$$Nestled in Fresno, CA, HAHA Sushi stands
+  out as a welcoming spot for enthusiasts of fresh Japanese cuisine,
+  particularly those seeking sushi restaurants in the area. This cozy eatery
+  specializes in a variety of sushi rolls and other traditional dishes, enhanced
+  by enticing happy hour options that add great value to your meal. With its
+  accessible features like wheelchair-friendly entrances and seating, it's
+  designed to accommodate everyone looking for a relaxed dining experience. The
+  menu highlights flavorful ingredients and a comfortable atmosphere, making it
+  an ideal choice for anyone exploring top-rated Japanese places nearby.
+generative_summary: >-
+  Explore HAHA Sushi in Fresno, CA$$$Nestled in Fresno, CA, HAHA Sushi stands
+  out as a welcoming spot for enthusiasts of fresh Japanese cuisine,
+  particularly those seeking sushi restaurants in the area. This cozy eatery
+  specializes in a variety of sushi rolls and other traditional dishes, enhanced
+  by enticing happy hour options that add great value to your meal. With its
+  accessible features like wheelchair-friendly entrances and seating, it's
+  designed to accommodate everyone looking for a relaxed dining experience. The
+  menu highlights flavorful ingredients and a comfortable atmosphere, making it
+  an ideal choice for anyone exploring top-rated Japanese places nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Customer Feedback$$$Visitors often praise the fresh and tasty
+  sushi selections at this Fresno favorite, noting how the variety keeps things
+  exciting for sushi lovers on the hunt for quality options. Many highlight the
+  appealing happy hour deals that make dining here feel like a smart, enjoyable
+  choice without breaking the bank. While some mention occasional service
+  hiccups during busier times, the overall vibe remains welcoming and worth the
+  visit for groups or individuals alike. It's frequently recommended as a solid
+  pick for casual meals, with folks appreciating the balance of affordability
+  and flavor that keeps diners coming back. All in all, the feedback paints a
+  picture of a reliable spot that delivers on expectations for those searching
+  for great Japanese eats around town.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +364,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

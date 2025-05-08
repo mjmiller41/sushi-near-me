@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Ocean"
+title: Sushi Ocean
 permalink: /texas/austin/sushi-ocean.html
 stateAbbr: TX
 stateName: Texas
 cityName: Austin
 seo:
-  name: "Sushi Ocean"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi Ocean serves delicious sushi in Austin, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJTcIRv3HSRIYRIPZgjbPVgMw
 photos:
   - name: >-
@@ -185,7 +183,46 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Sushi Ocean in Austin, TX$$$Sushi Ocean in Austin, TX, stands out as
+  a welcoming spot for enjoying authentic Japanese cuisine, nestled in the
+  vibrant Boardwalk at Brushy Creek area. This cozy restaurant delights visitors
+  with a menu featuring fresh sushi rolls, spicy ramen, and flavorful teriyaki
+  options, all prepared with a focus on quality ingredients and traditional
+  techniques. The atmosphere combines comfort and accessibility, making it an
+  ideal choice for those seeking a relaxed dining experience with
+  wheelchair-friendly features. Beyond the tasty offerings, Sushi Ocean provides
+  a clean and inviting environment that enhances the overall enjoyment of
+  Japanese-inspired dishes. Whether you're exploring sushi restaurants near you
+  or looking for top-rated options in the area, this spot delivers a satisfying
+  blend of taste and convenience.
+generative_summary: >-
+  Discover Sushi Ocean in Austin, TX$$$Sushi Ocean in Austin, TX, stands out as
+  a welcoming spot for enjoying authentic Japanese cuisine, nestled in the
+  vibrant Boardwalk at Brushy Creek area. This cozy restaurant delights visitors
+  with a menu featuring fresh sushi rolls, spicy ramen, and flavorful teriyaki
+  options, all prepared with a focus on quality ingredients and traditional
+  techniques. The atmosphere combines comfort and accessibility, making it an
+  ideal choice for those seeking a relaxed dining experience with
+  wheelchair-friendly features. Beyond the tasty offerings, Sushi Ocean provides
+  a clean and inviting environment that enhances the overall enjoyment of
+  Japanese-inspired dishes. Whether you're exploring sushi restaurants near you
+  or looking for top-rated options in the area, this spot delivers a satisfying
+  blend of taste and convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback Highlights$$$Folks who visit places like this often rave
+  about the delicious sushi selections, noting how the fresh nigiri and variety
+  of rolls make every meal feel special. Many appreciate the great value for the
+  price, allowing you to enjoy high-quality Japanese fare without breaking the
+  bank. The service stands out as consistently clean and attentive, adding to
+  the welcoming vibe that keeps diners coming back. Overall, it's clear that
+  sushi lovers find this spot reliable for satisfying cravings, with positive
+  comments on the overall experience making it a go-to for casual outings. If
+  you're searching for the best sushi near you, this restaurant seems to hit the
+  mark with its honest appeal and enjoyable atmosphere.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +248,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

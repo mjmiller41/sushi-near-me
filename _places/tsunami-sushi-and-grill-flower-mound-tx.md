@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Tsunami Sushi and Grill"
+title: Tsunami Sushi and Grill
 permalink: /texas/flower-mound/tsunami-sushi-and-grill.html
 stateAbbr: TX
 stateName: Texas
 cityName: Flower Mound
 seo:
-  name: "Tsunami Sushi and Grill"
-  type: Restaurant
+  type: restaurant
   links: https://www.tsunamiflowermound.com/
-description: "Tsunami Sushi and Grill serves delicious sushi in Flower Mound, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ78R2lGotTIYRP5p748u5qC4
 photos:
   - name: >-
@@ -170,7 +168,121 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x864c2d6a9476c4ef:0x2ea8b9cbe37b9a3f!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 14
+        minute: 20
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 40
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 20
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 20
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 20
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 20
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 20
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 20
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 20
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 20
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 20
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 14
+        minute: 20
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 50
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 2:20 PM, 5:00 – 9:20 PM'
     - 'Tuesday: 11:00 AM – 2:20 PM, 5:00 – 9:20 PM'
     - 'Wednesday: 11:00 AM – 2:20 PM, 5:00 – 9:20 PM'
@@ -178,14 +290,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 2:20 PM, 5:00 – 10:00 PM'
     - 'Saturday: 11:00 AM – 2:20 PM, 5:00 – 9:50 PM'
     - 'Sunday: 11:00 AM – 2:20 PM, 5:00 – 8:40 PM'
-  current:
-    - 'Monday: 11:00 AM – 2:20 PM, 5:00 – 9:20 PM'
-    - 'Tuesday: 11:00 AM – 2:20 PM, 5:00 – 9:20 PM'
-    - 'Wednesday: 11:00 AM – 2:20 PM, 5:00 – 9:20 PM'
-    - 'Thursday: 11:00 AM – 2:20 PM, 5:00 – 9:20 PM'
-    - 'Friday: 11:00 AM – 2:20 PM, 5:00 – 10:00 PM'
-    - 'Saturday: 11:00 AM – 2:20 PM, 5:00 – 9:50 PM'
-    - 'Sunday: 11:00 AM – 2:20 PM, 5:00 – 8:40 PM'
+  nextCloseTime: '2025-05-04T02:50:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +302,268 @@ phone: (214) 513-8088
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.5'
-rating_count: 0
+rating_count: 331
 website: https://www.tsunamiflowermound.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Explore Tsunami Sushi and Grill in Flower Mound$$$Tsunami Sushi and Grill in
+  Flower Mound, TX, stands out as a welcoming Japanese eatery known for its
+  casual vibe and diverse menu featuring fresh sushi rolls and bento boxes,
+  complemented by selections of beer, wine, and sake. The restaurant boasts a
+  serene atmosphere with thoughtful Japanese-inspired decor that creates a
+  relaxing dining experience, making it ideal for those seeking authentic
+  flavors in a comfortable setting. Accessibility is a key highlight, with
+  options like wheelchair-friendly parking and entrances ensuring everyone can
+  enjoy the space easily. Patrons appreciate the generous portions and variety
+  of dishes, perfect for a satisfying meal whether you're dining in or taking
+  out. For anyone exploring top-rated sushi spots nearby, this location offers a
+  blend of quality ingredients and convenient hours to fit your schedule.
+generative_summary: >-
+  Explore Tsunami Sushi and Grill in Flower Mound$$$Tsunami Sushi and Grill in
+  Flower Mound, TX, stands out as a welcoming Japanese eatery known for its
+  casual vibe and diverse menu featuring fresh sushi rolls and bento boxes,
+  complemented by selections of beer, wine, and sake. The restaurant boasts a
+  serene atmosphere with thoughtful Japanese-inspired decor that creates a
+  relaxing dining experience, making it ideal for those seeking authentic
+  flavors in a comfortable setting. Accessibility is a key highlight, with
+  options like wheelchair-friendly parking and entrances ensuring everyone can
+  enjoy the space easily. Patrons appreciate the generous portions and variety
+  of dishes, perfect for a satisfying meal whether you're dining in or taking
+  out. For anyone exploring top-rated sushi spots nearby, this location offers a
+  blend of quality ingredients and convenient hours to fit your schedule.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ78R2lGotTIYRP5p748u5qC4/reviews/ChZDSUhNMG9nS0VJQ0FnSURfMU4yaEdREAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        Today we are here for the first time. It's been in the area for years
+        but on a corner in a direction we seldom travel.
+
+
+        The ambience of the environment was nicer than I expected with its
+        Japanese theme and zen-like atmosphere.
+
+
+        The waiter was attentive and memorized our order which made us
+        uncomfortable given how much we ordered. The food came out exactly as
+        ordered with large fresh pieces of fish. Seriously the portions are much
+        larger than normal and tasted great.
+
+
+        I am only sad that it took me so long to give it a try. We will be back.
+      languageCode: en
+    originalText:
+      text: >-
+        Today we are here for the first time. It's been in the area for years
+        but on a corner in a direction we seldom travel.
+
+
+        The ambience of the environment was nicer than I expected with its
+        Japanese theme and zen-like atmosphere.
+
+
+        The waiter was attentive and memorized our order which made us
+        uncomfortable given how much we ordered. The food came out exactly as
+        ordered with large fresh pieces of fish. Seriously the portions are much
+        larger than normal and tasted great.
+
+
+        I am only sad that it took me so long to give it a try. We will be back.
+      languageCode: en
+    authorAttribution:
+      displayName: Paul Drew
+      uri: https://www.google.com/maps/contrib/103153377613062340528/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWlsMOC8THS7YGZUjroV-8lGmfNEyfkqq2xUqepQtLbZiBJebdMGQ=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2025-01-21T22:56:15.886247Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURfMU4yaEdREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURfMU4yaEdREAE!2m1!1s0x864c2d6a9476c4ef:0x2ea8b9cbe37b9a3f
+  - name: >-
+      places/ChIJ78R2lGotTIYRP5p748u5qC4/reviews/ChdDSUhNMG9nS0VJQ0FnSURudmNpRnhnRRAB
+    relativePublishTimeDescription: 6 months ago
+    rating: 3
+    text:
+      text: >-
+        Good food, mediocre service at best. Sushi was really good, nice
+        presentation. There were only two other tables and it was the slowest
+        service I’ve had. Server finally got around to us and we waited on our
+        drinks for quite awhile. Our food came out all at random. As in the
+        appetizers came out with the main food. They got a couple orders
+        incorrect as well.
+
+        Probably won’t go back, plenty of other places to try.
+      languageCode: en
+    originalText:
+      text: >-
+        Good food, mediocre service at best. Sushi was really good, nice
+        presentation. There were only two other tables and it was the slowest
+        service I’ve had. Server finally got around to us and we waited on our
+        drinks for quite awhile. Our food came out all at random. As in the
+        appetizers came out with the main food. They got a couple orders
+        incorrect as well.
+
+        Probably won’t go back, plenty of other places to try.
+      languageCode: en
+    authorAttribution:
+      displayName: CrunchyNomNom
+      uri: https://www.google.com/maps/contrib/104596028621601535324/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVfVFrB8Gj5_dD5uMTj9Yo9cqT2_XPY-K_ZswyjnHgnKgB9_Uke=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-10-09T02:12:31.367513Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURudmNpRnhnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURudmNpRnhnRRAB!2m1!1s0x864c2d6a9476c4ef:0x2ea8b9cbe37b9a3f
+  - name: >-
+      places/ChIJ78R2lGotTIYRP5p748u5qC4/reviews/ChdDSUhNMG9nS0VJQ0FnSUNwaUtQVGpnRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 3
+    text:
+      text: >-
+        We stumbled across this small little sushi restaurant and decided to
+        give it a try. We were seated very quickly and the man took our drink
+        order immediately. Service started out super quick. He was not super
+        friendly but made up for that with his quickness, that was until he took
+        a phone call that lasted forever and all service stopped. The food was
+        good. Fresh but fast. However no one working besides the one waiter
+        apparently could do anything in the dining area. All other groups has
+        left and it was only us left. We were ready to leave for 20 minutes or
+        so while he sat on the phone and everyone else stared at us. It was very
+        frustrating, they were set to close in 30 minutes for their break time
+        and we just wanted to go. I think we will try one of the other sushi
+        places around the area so we don’t get in that awkward situation again.
+      languageCode: en
+    originalText:
+      text: >-
+        We stumbled across this small little sushi restaurant and decided to
+        give it a try. We were seated very quickly and the man took our drink
+        order immediately. Service started out super quick. He was not super
+        friendly but made up for that with his quickness, that was until he took
+        a phone call that lasted forever and all service stopped. The food was
+        good. Fresh but fast. However no one working besides the one waiter
+        apparently could do anything in the dining area. All other groups has
+        left and it was only us left. We were ready to leave for 20 minutes or
+        so while he sat on the phone and everyone else stared at us. It was very
+        frustrating, they were set to close in 30 minutes for their break time
+        and we just wanted to go. I think we will try one of the other sushi
+        places around the area so we don’t get in that awkward situation again.
+      languageCode: en
+    authorAttribution:
+      displayName: Hayli Castillo
+      uri: https://www.google.com/maps/contrib/100353154225134501411/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUFOyIiwm4oV_K79izLrwjjDTXb7AlWpXO92o8W29apqqJ-iOk=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2023-07-27T14:40:26.753324Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNwaUtQVGpnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNwaUtQVGpnRRAB!2m1!1s0x864c2d6a9476c4ef:0x2ea8b9cbe37b9a3f
+  - name: >-
+      places/ChIJ78R2lGotTIYRP5p748u5qC4/reviews/ChdDSUhNMG9nS0VJQ0FnSURMeUpLXzBRRRAB
+    relativePublishTimeDescription: 10 months ago
+    rating: 5
+    text:
+      text: >-
+        This place is amazing! Fish is fresh and clean, so many food options,
+        service was outstanding! Would give more than 5 stars if I could!
+      languageCode: en
+    originalText:
+      text: >-
+        This place is amazing! Fish is fresh and clean, so many food options,
+        service was outstanding! Would give more than 5 stars if I could!
+      languageCode: en
+    authorAttribution:
+      displayName: Ashley Duntley
+      uri: https://www.google.com/maps/contrib/117997691644065730854/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXiHIWQip11fhSwSqbYlPccJU5TcpeOKskspqYPJphdaW7awSzT=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-06-25T00:38:36.025552Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURMeUpLXzBRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURMeUpLXzBRRRAB!2m1!1s0x864c2d6a9476c4ef:0x2ea8b9cbe37b9a3f
+  - name: >-
+      places/ChIJ78R2lGotTIYRP5p748u5qC4/reviews/ChZDSUhNMG9nS0VJQ0FnSURkNnM3ZUJ3EAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        I got the sushi bento box as takeout from Tsunami and it was delicious!!
+        Definitely great value for money, I could barely finish half the box.
+        The cucumber salad was really crisp and refreshing, gyoza were yummy,
+        and the rolls were all super fresh and delicious. My order was completed
+        super fast and it was an easy pickup. I would definitely order from here
+        again.
+      languageCode: en
+    originalText:
+      text: >-
+        I got the sushi bento box as takeout from Tsunami and it was delicious!!
+        Definitely great value for money, I could barely finish half the box.
+        The cucumber salad was really crisp and refreshing, gyoza were yummy,
+        and the rolls were all super fresh and delicious. My order was completed
+        super fast and it was an easy pickup. I would definitely order from here
+        again.
+      languageCode: en
+    authorAttribution:
+      displayName: Elizabeth Hanna (Lizzy)
+      uri: https://www.google.com/maps/contrib/102299250010479574043/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVDgoPEapVKT8o2zFs2r9tR3nSAPWFfC3swmFKV21W_oQis29rTAg=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-02-22T17:09:51.261600Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURkNnM3ZUJ3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURkNnM3ZUJ3EAE!2m1!1s0x864c2d6a9476c4ef:0x2ea8b9cbe37b9a3f
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors to this sushi spot often rave about
+  the fresh, flavorful dishes and generous portions that make every meal feel
+  like great value, with many highlighting the variety of options for a
+  satisfying experience. While some note occasional service slowdowns during
+  busy times, the overall consensus leans toward quick and attentive staff who
+  handle orders well most visits. Feedback frequently praises the clean taste of
+  the fish and creative presentations, encouraging repeat trips for those
+  craving reliable Japanese cuisine close to home. Despite a few mentions of
+  minor mix-ups, the positive vibes dominate, with diners appreciating the
+  welcoming environment that's perfect for casual outings or groups. If you're
+  on the hunt for solid sushi restaurants in the area, this place delivers
+  honest, enjoyable vibes that keep customers coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
+curbside_pickup: false
+delivery: false
+dine_in: true
+good_for_children: true
 good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
+good_for_sports: false
+live_music: false
+menu_for_children: true
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: true
+serves_brunch: true
 serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

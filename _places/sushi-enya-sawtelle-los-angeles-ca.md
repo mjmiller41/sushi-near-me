@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Enya Sawtelle"
+title: Sushi Enya Sawtelle
 permalink: /california/los-angeles/sushi-enya-sawtelle.html
 stateAbbr: CA
 stateName: California
 cityName: Los Angeles
 seo:
-  name: "Sushi Enya Sawtelle"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi Enya Sawtelle serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ-VPXxbu7woAR_JUaFfQXcuE
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c2bbbbc5d753f9:0xe17217f4151a95fc!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 17
+        minute: 30
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 30
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 17
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 5:30 – 10:00 PM'
+    - 'Tuesday: 5:30 – 10:00 PM'
+    - 'Wednesday: 5:30 – 10:00 PM'
+    - 'Thursday: 5:30 – 10:00 PM'
+    - 'Friday: 5:30 – 10:30 PM'
+    - 'Saturday: 5:30 – 10:30 PM'
+    - 'Sunday: 5:00 – 10:00 PM'
+  nextOpenTime: '2025-05-04T00:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,52 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
+phone: (213) 446-1759
 price_level: null
-price_range: null
-rating: null
-rating_count: 0
+price_range: $30 &ndash; $50
+rating: '4.5'
+rating_count: 51
 website: null
+description: >-
+  Discover Sushi Enya Sawtelle in Los Angeles, CA$$$Sushi Enya Sawtelle in Los
+  Angeles, CA, stands out as a premier spot for fresh Japanese cuisine, drawing
+  in locals and visitors seeking authentic flavors in a welcoming atmosphere.
+  This sushi destination features expertly crafted rolls and high-quality fish
+  that highlight the artistry of traditional preparation, making it a go-to
+  choice for those exploring top sushi options nearby. With its accessible
+  design and inviting ambiance, the restaurant caters to a variety of diners
+  looking for a memorable meal without the fuss. Evening hours provide the
+  perfect setting for enjoying creative dishes, ensuring it's a solid pick for
+  anyone searching for reliable sushi restaurants in the area. Accessibility
+  features add to the appeal, making it easier for everyone to savor the
+  experience.
+generative_summary: >-
+  Discover Sushi Enya Sawtelle in Los Angeles, CA$$$Sushi Enya Sawtelle in Los
+  Angeles, CA, stands out as a premier spot for fresh Japanese cuisine, drawing
+  in locals and visitors seeking authentic flavors in a welcoming atmosphere.
+  This sushi destination features expertly crafted rolls and high-quality fish
+  that highlight the artistry of traditional preparation, making it a go-to
+  choice for those exploring top sushi options nearby. With its accessible
+  design and inviting ambiance, the restaurant caters to a variety of diners
+  looking for a memorable meal without the fuss. Evening hours provide the
+  perfect setting for enjoying creative dishes, ensuring it's a solid pick for
+  anyone searching for reliable sushi restaurants in the area. Accessibility
+  features add to the appeal, making it easier for everyone to savor the
+  experience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Diners Are Buzzing About$$$Folks rave about the standout fish and
+  inventive rolls at this spot, often highlighting creative takes like crispy
+  rice options that bring a fun twist to classic flavors. Many appreciate the
+  warm and attentive service that keeps the vibe relaxed and enjoyable, perfect
+  for a casual night out. The traditional Japanese setting adds a nice touch,
+  creating an atmosphere that feels both authentic and comforting without
+  overwhelming the senses. Overall, it's clear this place delivers solid value
+  for sushi lovers, with consistent praise for its fresh ingredients and
+  welcoming feel. If you're on the hunt for great sushi near you, it's worth
+  checking out for a satisfying dine-in experience that leaves you wanting more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +313,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

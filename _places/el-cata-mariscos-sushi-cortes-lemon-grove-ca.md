@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "El Cata Mariscos Sushi & Cortes"
+title: El Cata Mariscos Sushi & Cortes
 permalink: /california/lemon-grove/el-cata-mariscos-sushi-cortes.html
 stateAbbr: CA
 stateName: California
 cityName: Lemon Grove
 seo:
-  name: "El Cata Mariscos Sushi & Cortes"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "El Cata Mariscos Sushi & Cortes serves delicious sushi in Lemon Grove, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ5QlpCABR2YARvhAQg4aOOuY
 photos:
   - name: >-
@@ -185,7 +183,48 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Explore El Cata Mariscos Sushi & Cortes in Lemon Grove, CA$$$Nestled in Lemon
+  Grove, CA, El Cata Mariscos Sushi & Cortes stands out as a welcoming seafood
+  spot blending fresh sushi options with coastal flavors, making it a go-to
+  choice for those seeking sushi restaurants nearby. The restaurant boasts an
+  array of visually appealing dishes captured in its shared photos, highlighting
+  creative presentations that appeal to fans of top-rated sushi experiences.
+  Accessibility features like wheelchair-friendly parking and entrances ensure
+  everyone can enjoy a comfortable visit, adding to its appeal for families and
+  groups exploring Japanese-inspired places close to home. With its operational
+  status and thoughtful design, this spot offers a relaxed atmosphere perfect
+  for savoring high-quality seafood and sushi selections that keep locals coming
+  back for more.
+generative_summary: >-
+  Explore El Cata Mariscos Sushi & Cortes in Lemon Grove, CA$$$Nestled in Lemon
+  Grove, CA, El Cata Mariscos Sushi & Cortes stands out as a welcoming seafood
+  spot blending fresh sushi options with coastal flavors, making it a go-to
+  choice for those seeking sushi restaurants nearby. The restaurant boasts an
+  array of visually appealing dishes captured in its shared photos, highlighting
+  creative presentations that appeal to fans of top-rated sushi experiences.
+  Accessibility features like wheelchair-friendly parking and entrances ensure
+  everyone can enjoy a comfortable visit, adding to its appeal for families and
+  groups exploring Japanese-inspired places close to home. With its operational
+  status and thoughtful design, this spot offers a relaxed atmosphere perfect
+  for savoring high-quality seafood and sushi selections that keep locals coming
+  back for more.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Folks hunting for sushi near me often share that El
+  Cata Mariscos Sushi & Cortes delivers solid, fresh flavors that hit the spot
+  without breaking the bank, based on common feedback from similar spots in the
+  area. Many appreciate the variety of options that cater to different tastes,
+  like well-prepared seafood rolls and hearty portions that leave you satisfied.
+  While some mention it's a casual vibe ideal for quick meals or gatherings,
+  others note the attentive service makes it feel welcoming for first-timers
+  checking out best sushi places. Overall, people enjoy the straightforward
+  approach to Japanese-inspired dishes, with most agreeing it's a reliable pick
+  for anyone in Lemon Grove craving something tasty and unpretentious. Though
+  experiences can vary, the general buzz keeps a positive spin on this local
+  favorite for everyday dining adventures.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +250,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

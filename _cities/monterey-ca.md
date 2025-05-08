@@ -5,4 +5,5 @@ permalink: /california/monterey/
 stateAbbr: CA
 stateName: California
 cityName: Monterey
+
 ---

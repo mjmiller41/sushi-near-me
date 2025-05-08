@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi & Sub"
+title: Sushi & Sub
 permalink: /florida/jacksonville/sushi-sub.html
 stateAbbr: FL
 stateName: Florida
 cityName: Jacksonville
 seo:
-  name: "Sushi & Sub"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi & Sub serves delicious sushi in Jacksonville, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJufmmkne25YgRZwHaseDL4Pk
 photos:
   - name: >-
@@ -184,6 +182,29 @@ price_range: $10 &ndash; $20
 rating: '4.8'
 rating_count: 0
 website: null
+description: >-
+  Explore Sushi & Sub in Jacksonville, FL$$$Sushi & Sub in Jacksonville, FL,
+  offers a welcoming atmosphere for enjoying fresh Japanese cuisine that's ideal
+  for casual dining. This spot specializes in handmade sushi prepared with care,
+  featuring generous portions and affordable prices that make it a great value
+  for locals and visitors alike. The menu highlights a variety of options, from
+  classic rolls to simple favorites, ensuring there's something to satisfy
+  different tastes. With its convenient location and focus on quality
+  ingredients, it's a reliable choice for anyone seeking a relaxed meal in a
+  cozy setting. Accessibility features like wheelchair-friendly entrances add to
+  the appeal, making it easier for everyone to enjoy authentic flavors.
+generative_summary: >-
+  Explore Sushi & Sub in Jacksonville, FL$$$Sushi & Sub in Jacksonville, FL,
+  offers a welcoming atmosphere for enjoying fresh Japanese cuisine that's ideal
+  for casual dining. This spot specializes in handmade sushi prepared with care,
+  featuring generous portions and affordable prices that make it a great value
+  for locals and visitors alike. The menu highlights a variety of options, from
+  classic rolls to simple favorites, ensuring there's something to satisfy
+  different tastes. With its convenient location and focus on quality
+  ingredients, it's a reliable choice for anyone seeking a relaxed meal in a
+  cozy setting. Accessibility features like wheelchair-friendly entrances add to
+  the appeal, making it easier for everyone to enjoy authentic flavors.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJufmmkne25YgRZwHaseDL4Pk/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJODVlUXFBRRAB
@@ -325,6 +346,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUR3bmFYZkdREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUR3bmFYZkdREAE!2m1!1s0x88e5b67792a6f9b9:0xf9e0cbe0b1da0167
+review_summary: >-
+  Insights from Recent Feedback$$$Folks checking out this sushi place often
+  highlight the super fresh rolls and quick preparation that make every bite
+  feel just right, creating a standout experience for casual eaters. Many
+  appreciate the unbeatable prices and large servings that leave you feeling
+  full without breaking the bank, especially when comparing it to other spots in
+  the area. Reviewers frequently mention the friendly vibe and efficient service
+  that turns a simple lunch into a memorable outing, with customizable options
+  winning over families and groups alike. Overall, it's praised as a hidden gem
+  for top-rated sushi that's worth seeking out if you're in the mood for
+  something reliable and delicious. While the interior might not be flashy, the
+  focus on quality keeps the positive vibes flowing for repeat visits.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -357,7 +391,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

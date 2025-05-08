@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushinola Roll"
+title: Sushinola Roll
 permalink: /arizona/phoenix/sushinola-roll.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Phoenix
 seo:
-  name: "Sushinola Roll"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushinola Roll serves delicious sushi in Phoenix, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJMXCFov8UK4cRT9gFVpBcvdw
 photos:
   - name: >-
@@ -185,7 +183,45 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Sushinola Roll in Phoenix, AZ$$$Sushinola Roll in Phoenix, AZ, stands
+  out as a welcoming spot for those seeking fresh and flavorful sushi
+  experiences in a casual setting. This eatery delights with a diverse selection
+  of sushi rolls, including creative twists inspired by local flavors, making it
+  a go-to choice for anyone exploring sushi restaurants nearby. Patrons can
+  enjoy refreshing beverages like beer and cocktails alongside their meals,
+  enhancing the relaxed vibe perfect for casual outings. The venue prioritizes
+  accessibility, featuring options like wheelchair-friendly entrances and
+  seating, which adds to its appeal for a wide range of visitors. Whether you're
+  looking for top-rated sushi places near you, Sushinola Roll combines quality
+  ingredients with a laid-back atmosphere to create memorable dining moments.
+generative_summary: >-
+  Discover Sushinola Roll in Phoenix, AZ$$$Sushinola Roll in Phoenix, AZ, stands
+  out as a welcoming spot for those seeking fresh and flavorful sushi
+  experiences in a casual setting. This eatery delights with a diverse selection
+  of sushi rolls, including creative twists inspired by local flavors, making it
+  a go-to choice for anyone exploring sushi restaurants nearby. Patrons can
+  enjoy refreshing beverages like beer and cocktails alongside their meals,
+  enhancing the relaxed vibe perfect for casual outings. The venue prioritizes
+  accessibility, featuring options like wheelchair-friendly entrances and
+  seating, which adds to its appeal for a wide range of visitors. Whether you're
+  looking for top-rated sushi places near you, Sushinola Roll combines quality
+  ingredients with a laid-back atmosphere to create memorable dining moments.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Although specific reviews for Sushinola Roll are
+  limited, feedback from similar casual sushi spots often highlights the
+  enjoyable mix of fresh rolls and unique flavors that keep things exciting.
+  People tend to appreciate the approachable vibe and variety of options, making
+  it a solid pick for those in the mood for something tasty without the fuss.
+  Many mention the welcoming environment as a plus, especially for casual
+  meetups or quick bites, adding to the overall charm. While experiences can
+  vary, the general buzz suggests this place delivers on flavor and
+  affordability, encouraging diners to try it for themselves. If you're hunting
+  for sushi close to you with a fun twist, it's easy to see why spots like this
+  could become a favorite for laid-back enthusiasts.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +247,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

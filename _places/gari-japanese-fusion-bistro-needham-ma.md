@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Gari Japanese Fusion Bistro"
+title: Gari Japanese Fusion Bistro
 permalink: /massachusetts/needham/gari-japanese-fusion-bistro.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Needham
 seo:
-  name: "Gari Japanese Fusion Bistro"
-  type: Restaurant
+  type: restaurant
   links: http://www.garifusion.com/
-description: "Modern Japanese & Asian fusion fare & sushi, plus a full bar, in stylish strip-mall digs. Gari Japanese Fusion Bistro serves delicious sushi in Needham, Massachusetts. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJPWDoq6eB44kRt8_GH0Cuofo
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: null
 rating: '4.2'
 rating_count: 0
 website: http://www.garifusion.com/
+description: >-
+  Discover Gari Japanese Fusion Bistro in Needham, MA$$$Gari Japanese Fusion
+  Bistro in Needham, MA, delivers a modern blend of Japanese flavors with
+  creative Asian influences, making it a standout choice for sushi enthusiasts
+  in the area. This casual eatery features a full bar and an array of fresh
+  sushi options alongside cooked dishes, appealing to those seeking
+  vegetarian-friendly choices in local Japanese spots. Its stylish ambiance and
+  accessibility features ensure a welcoming environment for all diners,
+  enhancing the overall dining experience. Whether you're exploring top-rated
+  sushi near me or enjoying innovative entrees, the menu's variety keeps things
+  exciting and accessible for everyday meals.
+generative_summary: >-
+  Discover Gari Japanese Fusion Bistro in Needham, MA$$$Gari Japanese Fusion
+  Bistro in Needham, MA, delivers a modern blend of Japanese flavors with
+  creative Asian influences, making it a standout choice for sushi enthusiasts
+  in the area. This casual eatery features a full bar and an array of fresh
+  sushi options alongside cooked dishes, appealing to those seeking
+  vegetarian-friendly choices in local Japanese spots. Its stylish ambiance and
+  accessibility features ensure a welcoming environment for all diners,
+  enhancing the overall dining experience. Whether you're exploring top-rated
+  sushi near me or enjoying innovative entrees, the menu's variety keeps things
+  exciting and accessible for everyday meals.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJPWDoq6eB44kRt8_GH0Cuofo/reviews/ChdDSUhNMG9nS0VJQ0FnSUQteTdPWGlRRRAB
@@ -350,6 +371,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURueXJDVGx3RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURueXJDVGx3RRAB!2m1!1s0x89e381a7abe8603d:0xfaa1ae401fc6cfb7
+review_summary: >-
+  What Visitors Are Saying About the Sushi Scene$$$Folks heading to Gari
+  Japanese Fusion Bistro often highlight the impressive menu variety, especially
+  for veggie lovers and those craving quick sushi fixes in their neighborhood.
+  While some mention that flavors can occasionally feel a bit standard compared
+  to other options, many appreciate the convenience and solid portions that make
+  it a reliable go-to for takeout or casual dinners. Overall, it's praised as a
+  welcoming spot where the service adds a nice touch, helping it stand out among
+  sushi restaurants near me. If you're in the mood for straightforward Japanese
+  fare, this place delivers a generally enjoyable vibe with room for the
+  occasional flavor upgrade based on shared experiences.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -381,8 +414,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Modern Japanese & Asian fusion fare & sushi, plus a full bar, in stylish
   strip-mall digs.
 

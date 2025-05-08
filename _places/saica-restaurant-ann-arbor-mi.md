@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Saica Restaurant"
+title: Saica Restaurant
 permalink: /michigan/ann-arbor/saica-restaurant.html
 stateAbbr: MI
 stateName: Michigan
 cityName: Ann Arbor
 seo:
-  name: "Saica Restaurant"
-  type: Restaurant
+  type: restaurant
   links: https://saicarestaurant.square.site/
-description: "Casual, contemporary restaurant specializing in Japanese & Korean fare with a focus on sushi. Saica Restaurant serves delicious sushi in Ann Arbor, Michigan. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJNfSjVH6uPIgRpBjzgO2XU_Y
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $10 &ndash; $20
 rating: '4.1'
 rating_count: 0
 website: https://saicarestaurant.square.site/
+description: >-
+  Discover Saica Restaurant in Ann Arbor, MI$$$Saica Restaurant in Ann Arbor,
+  MI, stands out as a casual spot serving up authentic Japanese fare with a
+  focus on fresh sushi and other flavorful options. This welcoming eatery
+  highlights a variety of dishes like bento boxes and curry, making it a go-to
+  choice for those seeking quality sushi experiences in a relaxed setting. With
+  thoughtful accessibility features such as wheelchair-friendly entrances and
+  seating, it caters to a wide range of diners looking for convenience and
+  comfort. The moderate pricing and options for dine-in or takeout add to its
+  appeal for anyone exploring top-rated sushi restaurants nearby. Ample parking
+  and a menu that balances traditional flavors with everyday accessibility make
+  it an ideal stop for locals and visitors alike.
+generative_summary: >-
+  Discover Saica Restaurant in Ann Arbor, MI$$$Saica Restaurant in Ann Arbor,
+  MI, stands out as a casual spot serving up authentic Japanese fare with a
+  focus on fresh sushi and other flavorful options. This welcoming eatery
+  highlights a variety of dishes like bento boxes and curry, making it a go-to
+  choice for those seeking quality sushi experiences in a relaxed setting. With
+  thoughtful accessibility features such as wheelchair-friendly entrances and
+  seating, it caters to a wide range of diners looking for convenience and
+  comfort. The moderate pricing and options for dine-in or takeout add to its
+  appeal for anyone exploring top-rated sushi restaurants nearby. Ample parking
+  and a menu that balances traditional flavors with everyday accessibility make
+  it an ideal stop for locals and visitors alike.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJNfSjVH6uPIgRpBjzgO2XU_Y/reviews/ChdDSUhNMG9nS0VJQ0FnTURBaTRELXNBRRAB
@@ -324,6 +347,21 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURYNU9UcDBRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURYNU9UcDBRRRAB!2m1!1s0x883cae7e54a3f435:0xf65397ed80f318a4
+review_summary: >-
+  What Customers Are Sharing About Saica$$$Folks often rave about the tasty
+  Korean and Japanese dishes at this spot, particularly highlighting the fresh
+  sushi and generous portions that leave diners satisfied. While some mention
+  that certain meals could use a bit more variety in textures or traditional
+  sides, the overall flavors and service keep things enjoyable for groups and
+  families. It's common to hear praise for standout items like curry ramen,
+  which many consider among the best in the area, making it a solid pick for
+  anyone craving reliable Asian cuisine. That said, a few visitors note the
+  atmosphere might feel a tad dated, but the friendly vibe and solid food
+  offerings generally outweigh these minor points. If you're on the hunt for
+  great sushi places nearby, this restaurant delivers a mostly positive
+  experience that's worth checking out for its flavorful hits and welcoming
+  approach.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -356,8 +394,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Casual, contemporary restaurant specializing in Japanese & Korean fare with a
   focus on sushi.
 

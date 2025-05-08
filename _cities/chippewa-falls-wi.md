@@ -5,4 +5,5 @@ permalink: /wisconsin/chippewa-falls/
 stateAbbr: WI
 stateName: Wisconsin
 cityName: Chippewa Falls
+
 ---

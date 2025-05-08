@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Miso"
+title: Miso
 permalink: /new-york/brooklyn/miso.html
 stateAbbr: NY
 stateName: New York
 cityName: Brooklyn
 seo:
-  name: "Miso"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Miso serves delicious sushi in Brooklyn, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJqVgBPDFawokRWvpAgZ2nhb8
 photos:
   - name: >-
@@ -154,7 +152,7 @@ longitude: '-73.990784'
 accessibility_options:
   wheelchairAccessibleParking: false
   wheelchairAccessibleSeating: true
-business_status: OPERATIONAL
+business_status: CLOSED_TEMPORARILY
 name: Miso
 google_maps_links:
   directionsUri: >-
@@ -178,12 +176,53 @@ secondary_opening_hours:
     weekdayDescriptions: null
     type: null
 phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
+price_level: PRICE_LEVEL_INEXPENSIVE
+price_range: $20 &ndash; $30
+rating: '4.0'
+rating_count: 208
 website: null
+description: >-
+  Discover Miso in Brooklyn, NY$$$Miso in Brooklyn, NY, stands out as a casual
+  Japanese dining spot renowned for its fresh sushi and classic offerings that
+  capture the essence of authentic flavors. This sushi restaurant features a
+  selection of meticulously prepared rolls, along with traditional favorites
+  like sake and beer, making it an ideal choice for those seeking a relaxed meal
+  in a welcoming environment. Patrons can enjoy the calm atmosphere that
+  complements the quality ingredients used in every dish, enhancing the overall
+  experience of Japanese cuisine. With its focus on affordability and
+  accessibility, Miso appeals to locals and visitors alike looking for reliable
+  sushi options in the bustling neighborhood. Whether you're exploring top-rated
+  Japanese places nearby, this spot delivers a satisfying blend of simplicity
+  and taste that keeps diners coming back.
+generative_summary: >-
+  Discover Miso in Brooklyn, NY$$$Miso in Brooklyn, NY, stands out as a casual
+  Japanese dining spot renowned for its fresh sushi and classic offerings that
+  capture the essence of authentic flavors. This sushi restaurant features a
+  selection of meticulously prepared rolls, along with traditional favorites
+  like sake and beer, making it an ideal choice for those seeking a relaxed meal
+  in a welcoming environment. Patrons can enjoy the calm atmosphere that
+  complements the quality ingredients used in every dish, enhancing the overall
+  experience of Japanese cuisine. With its focus on affordability and
+  accessibility, Miso appeals to locals and visitors alike looking for reliable
+  sushi options in the bustling neighborhood. Whether you're exploring top-rated
+  Japanese places nearby, this spot delivers a satisfying blend of simplicity
+  and taste that keeps diners coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What People Are Buzzing About$$$Visitors often rave about the delicious
+  flavors at this sushi spot, particularly highlighting tasty miso soup and
+  fresh rolls that hit the spot just right. Many appreciate the calm vibe and
+  efficient service that make every meal feel effortless and enjoyable, turning
+  a simple dinner into a pleasant escape. While the place might come across as
+  understated at first glance, that charm adds to its appeal for those seeking
+  straightforward, quality eats without the fuss. Overall, folks find the fresh
+  ingredients and variety of options like tuna dumplings keep things exciting
+  and satisfying for groups or solo diners. If you're on the hunt for solid
+  sushi restaurants nearby, this location earns high marks for its reliable
+  taste and welcoming feel, making it a go-to for anyone craving top-rated
+  Japanese fare.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -209,7 +248,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

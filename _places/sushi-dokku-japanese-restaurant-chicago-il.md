@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "SUSHI DOKKU Japanese Restaurant"
+title: SUSHI DOKKU Japanese Restaurant
 permalink: /illinois/chicago/sushi-dokku-japanese-restaurant.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
 seo:
-  name: "SUSHI DOKKU Japanese Restaurant"
-  type: Restaurant
+  type: restaurant
   links: http://www.sushidokku.com/
-description: "Sushi, sashimi & Japanese small plates plus sake & cocktails in a chic, minimalist setting. SUSHI DOKKU Japanese Restaurant serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJa1x1zNosDogRWaWIsW63ktg
 photos:
   - name: >-
@@ -184,6 +182,33 @@ price_range: $50 &ndash; $100
 rating: '4.6'
 rating_count: 0
 website: http://www.sushidokku.com/
+description: >-
+  Discover SUSHI DOKKU in Chicago, IL$$$Nestled in the heart of Chicago, IL,
+  SUSHI DOKKU Japanese Restaurant offers a casual yet elegant dining experience
+  focused on fresh sushi and innovative Japanese flavors. This spot stands out
+  for its creative rolls and small plates, paired with a relaxed atmosphere that
+  includes a lively lounge area for enjoying drinks and light music. Visitors
+  can savor a variety of authentic dishes in a minimalist setting that
+  emphasizes quality ingredients and thoughtful presentation, making it a go-to
+  choice for those seeking top-rated sushi options in the city. Accessibility
+  features like wheelchair-friendly entrances and seating add to the welcoming
+  vibe, ensuring everyone can enjoy the flavorful offerings. With options for
+  outdoor seating and a menu that caters to different tastes, it's an ideal
+  destination for anyone exploring Japanese cuisine nearby.
+generative_summary: >-
+  Discover SUSHI DOKKU in Chicago, IL$$$Nestled in the heart of Chicago, IL,
+  SUSHI DOKKU Japanese Restaurant offers a casual yet elegant dining experience
+  focused on fresh sushi and innovative Japanese flavors. This spot stands out
+  for its creative rolls and small plates, paired with a relaxed atmosphere that
+  includes a lively lounge area for enjoying drinks and light music. Visitors
+  can savor a variety of authentic dishes in a minimalist setting that
+  emphasizes quality ingredients and thoughtful presentation, making it a go-to
+  choice for those seeking top-rated sushi options in the city. Accessibility
+  features like wheelchair-friendly entrances and seating add to the welcoming
+  vibe, ensuring everyone can enjoy the flavorful offerings. With options for
+  outdoor seating and a menu that caters to different tastes, it's an ideal
+  destination for anyone exploring Japanese cuisine nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJa1x1zNosDogRWaWIsW63ktg/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3X2QtTnVBRRAB
@@ -445,6 +470,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNfZ3UyWmJ3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNfZ3UyWmJ3EAE!2m1!1s0x880e2cdacc755c6b:0xd892b76eb188a559
+review_summary: >-
+  What People Love About This Sushi Spot$$$Folks rave about the delicious sushi
+  rolls and creative nigiri at this Chicago favorite, often highlighting the
+  fresh flavors and tasty cocktails that make meals memorable. While some
+  mention the prices as a bit on the higher side, many agree that the quality
+  and portion sizes make it worth the splurge for a special night out. The
+  service gets high marks for being attentive and friendly, helping to create a
+  relaxed and enjoyable atmosphere that's perfect for groups or date nights.
+  Overall, the vibe is praised for its chic yet approachable feel, with quick
+  service and a solid selection of drinks adding to the appeal. If you're in the
+  mood for standout Japanese dishes close to home, this place delivers a solid
+  experience that keeps diners coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidStreetParking: true
 payment_options:
@@ -475,8 +513,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Sushi, sashimi & Japanese small plates plus sake & cocktails in a chic,
   minimalist setting.
 

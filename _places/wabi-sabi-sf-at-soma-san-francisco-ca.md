@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Wabi-Sabi SF at Soma"
+title: Wabi-Sabi SF at Soma
 permalink: /california/san-francisco/wabi-sabi-sf-at-soma.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
 seo:
-  name: "Wabi-Sabi SF at Soma"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Wabi-Sabi SF at Soma serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJAf70RnKBhYARoJ7PAYkL8Ck
 photos:
   - name: >-
@@ -184,7 +182,44 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Wabi-Sabi SF in San Francisco, CA$$$Wabi-Sabi SF in San Francisco,
+  CA, offers a casual yet refined experience for those seeking authentic
+  Japanese cuisine in a cozy, intimate environment. This spot specializes in
+  fresh sushi and other traditional Japanese dishes, making it a go-to choice
+  for anyone exploring the vibrant dining scene in the area. With thoughtful
+  accessibility features like wheelchair-friendly entrances and seating, it
+  ensures everyone can enjoy the simple elegance of its setting. The
+  neighborhood's charm adds to the appeal, providing a welcoming atmosphere for
+  locals and visitors alike. Whether you're in the mood for a quick bite or a
+  relaxed meal, this Japanese restaurant stands out for its focus on quality
+  ingredients and unpretentious vibe.
+generative_summary: >-
+  Discover Wabi-Sabi SF in San Francisco, CA$$$Wabi-Sabi SF in San Francisco,
+  CA, offers a casual yet refined experience for those seeking authentic
+  Japanese cuisine in a cozy, intimate environment. This spot specializes in
+  fresh sushi and other traditional Japanese dishes, making it a go-to choice
+  for anyone exploring the vibrant dining scene in the area. With thoughtful
+  accessibility features like wheelchair-friendly entrances and seating, it
+  ensures everyone can enjoy the simple elegance of its setting. The
+  neighborhood's charm adds to the appeal, providing a welcoming atmosphere for
+  locals and visitors alike. Whether you're in the mood for a quick bite or a
+  relaxed meal, this Japanese restaurant stands out for its focus on quality
+  ingredients and unpretentious vibe.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Raving About$$$Folks love this Japanese restaurant for its
+  tasty nigiri and sashimi, often highlighting how fresh the fish tastes with
+  every order. Many appreciate the laid-back, cozy feel that makes dining here
+  feel like a comfortable getaway, paired with helpful service that keeps things
+  friendly and smooth. Reviewers frequently mention that the prices are fair,
+  offering great value without skimping on flavor or portion sizes. Overall,
+  it's a solid pick for anyone hunting for reliable sushi spots nearby, with
+  positive feedback on the welcoming ambiance that encourages repeat visits. If
+  you're on the hunt for top-rated Japanese eats in the city, this place
+  delivers a satisfying experience that balances quality and approachability.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +245,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

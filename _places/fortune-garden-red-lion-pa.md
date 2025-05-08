@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Fortune Garden"
+title: Fortune Garden
 permalink: /pennsylvania/red-lion/fortune-garden.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Red Lion
 seo:
-  name: "Fortune Garden"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Fortune Garden serves delicious sushi in Red Lion, Pennsylvania. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJqUIMWrWHyIkRDi1Jnwj6lgk
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c887b55a0c42a9:0x996fa089f492d0e!10e5
 primary_type: Chinese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:00 PM'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:00 PM'
     - 'Saturday: 11:00 AM – 10:00 PM'
     - 'Sunday: 11:30 AM – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 10:00 PM'
-    - 'Saturday: 11:00 AM – 10:00 PM'
-    - 'Sunday: 11:30 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +246,47 @@ phone: (717) 246-0110
 price_level: PRICE_LEVEL_INEXPENSIVE
 price_range: $10 &ndash; $20
 rating: '4.0'
-rating_count: 0
+rating_count: 227
 website: null
+description: >-
+  Discover Fortune Garden in Red Lion, PA$$$Fortune Garden in Red Lion, PA, is a
+  welcoming spot for enjoying classic Chinese comfort food, featuring a variety
+  of dishes that cater to different tastes, including hearty vegetarian options.
+  The casual, family-friendly atmosphere makes it an ideal choice for relaxed
+  meals, with accessible features like wheelchair-friendly entrances and seating
+  that ensure everyone can dine comfortably. Patrons can savor flavorful entrees
+  in a setting that emphasizes simplicity and warmth, perfect for everyday
+  dining or quick get-togethers. Operating with extended hours on weekends, it
+  provides a reliable option for those seeking authentic flavors without the
+  fuss. This local favorite highlights affordable pricing, making it a go-to for
+  anyone exploring Chinese places near me in a laid-back environment.
+generative_summary: >-
+  Discover Fortune Garden in Red Lion, PA$$$Fortune Garden in Red Lion, PA, is a
+  welcoming spot for enjoying classic Chinese comfort food, featuring a variety
+  of dishes that cater to different tastes, including hearty vegetarian options.
+  The casual, family-friendly atmosphere makes it an ideal choice for relaxed
+  meals, with accessible features like wheelchair-friendly entrances and seating
+  that ensure everyone can dine comfortably. Patrons can savor flavorful entrees
+  in a setting that emphasizes simplicity and warmth, perfect for everyday
+  dining or quick get-togethers. Operating with extended hours on weekends, it
+  provides a reliable option for those seeking authentic flavors without the
+  fuss. This local favorite highlights affordable pricing, making it a go-to for
+  anyone exploring Chinese places near me in a laid-back environment.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Buzzing About$$$Visitors to this spot often praise the
+  tasty Chinese dishes and friendly vibe, with many highlighting the solid
+  portion sizes and flavorful vegetarian choices as standout features. While the
+  overall experience earns high marks for value and convenience, some mention
+  that service can vary depending on the time of day, though it's generally
+  efficient and welcoming. Feedback leans positive on the food's freshness and
+  affordability, helping it maintain a strong reputation among local diners. If
+  you're in the mood for a casual meal, it's clear that folks appreciate the
+  approachable setting and reliable options, making it a solid pick for everyday
+  eats. All in all, with a solid rating, it comes across as a dependable choice
+  for those hunting for good Chinese restaurants near me.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +312,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -5,4 +5,5 @@ permalink: /utah/sandy/
 stateAbbr: UT
 stateName: Utah
 cityName: Sandy
+
 ---

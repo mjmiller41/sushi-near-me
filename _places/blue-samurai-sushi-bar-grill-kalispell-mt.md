@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Blue Samurai Sushi Bar & Grill"
+title: Blue Samurai Sushi Bar & Grill
 permalink: /montana/kalispell/blue-samurai-sushi-bar-grill.html
 stateAbbr: MT
 stateName: Montana
 cityName: Kalispell
 seo:
-  name: "Blue Samurai Sushi Bar & Grill"
-  type: Restaurant
+  type: restaurant
   links: https://www.bluesamuraimt.com/
-description: "Modern setting for Japanese appetizers, sushi & rolls including vegan options & some noodles. Blue Samurai Sushi Bar & Grill serves delicious sushi in Kalispell, Montana. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJDdd21MFQZlMRzgG5Imd2kx4
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $50 &ndash; $100
 rating: '4.4'
 rating_count: 0
 website: https://www.bluesamuraimt.com/
+description: >-
+  About Blue Samurai Sushi Bar & Grill in Kalispell, MT$$$Nestled in the heart
+  of Kalispell, MT, Blue Samurai Sushi Bar & Grill offers a welcoming spot for
+  enjoying fresh Japanese cuisine in a modern setting. This casual eatery
+  highlights an array of creative sushi rolls, savory appetizers, and
+  traditional fare, complemented by options like sake and cocktails for a
+  complete dining experience. With a focus on high-quality ingredients and
+  accessibility features such as wheelchair-friendly entrances, it stands out as
+  a go-to destination for those seeking sushi restaurants in the area. The menu
+  also caters to various preferences, including vegan choices and
+  Japanese-inspired dishes, making it ideal for anyone exploring top-rated sushi
+  options nearby.
+generative_summary: >-
+  About Blue Samurai Sushi Bar & Grill in Kalispell, MT$$$Nestled in the heart
+  of Kalispell, MT, Blue Samurai Sushi Bar & Grill offers a welcoming spot for
+  enjoying fresh Japanese cuisine in a modern setting. This casual eatery
+  highlights an array of creative sushi rolls, savory appetizers, and
+  traditional fare, complemented by options like sake and cocktails for a
+  complete dining experience. With a focus on high-quality ingredients and
+  accessibility features such as wheelchair-friendly entrances, it stands out as
+  a go-to destination for those seeking sushi restaurants in the area. The menu
+  also caters to various preferences, including vegan choices and
+  Japanese-inspired dishes, making it ideal for anyone exploring top-rated sushi
+  options nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJDdd21MFQZlMRzgG5Imd2kx4/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJeWNicHNnRRAB
@@ -372,6 +395,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURRaHVuV0pBEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURRaHVuV0pBEAE!2m1!1s0x536650c1d476d70d:0x1e93766722b901ce
+review_summary: >-
+  Insights from Recent Visitors$$$Diners consistently rave about the exceptional
+  freshness and quality of the sushi, often describing it as some of the best
+  they've tried in the region, which keeps folks coming back for more. Many
+  appreciate the friendly service and inviting atmosphere that make every meal
+  feel welcoming, even if there are occasional waits for allergen information or
+  seating. While a few mentions highlight minor issues like tight booth spaces,
+  the overall experience shines through with praise for fair pricing and
+  delicious presentations that enhance the enjoyment. Overall, it's clear that
+  this spot delivers a solid dining adventure, perfect for groups or solo
+  visitors looking for reliable Japanese places near me. If you're in the mood
+  for standout sushi, these shared experiences suggest it's worth a visit for a
+  satisfying and memorable outing.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeStreetParking: true
   valetParking: false
@@ -403,8 +440,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Modern setting for Japanese appetizers, sushi & rolls including vegan options
   & some noodles.
 

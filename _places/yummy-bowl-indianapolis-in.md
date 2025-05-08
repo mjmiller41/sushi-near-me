@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yummy Bowl"
+title: Yummy Bowl
 permalink: /indiana/indianapolis/yummy-bowl.html
 stateAbbr: IN
 stateName: Indiana
 cityName: Indianapolis
 seo:
-  name: "Yummy Bowl"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Yummy Bowl serves delicious sushi in Indianapolis, Indiana. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJO4-PdyGpbIgRAbhzFJwVVjM
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x886ca921778f8f3b:0x3356159c1473b801!10e5
 primary_type: Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 10
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 10
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 10
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 10
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 10
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 10
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 10:30 AM – 9:30 PM'
+    - 'Tuesday: 10:30 AM – 9:30 PM'
+    - 'Wednesday: 10:30 AM – 9:30 PM'
+    - 'Thursday: 10:30 AM – 9:30 PM'
+    - 'Friday: 10:30 AM – 10:00 PM'
+    - 'Saturday: 10:30 AM – 10:00 PM'
+    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,48 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
+phone: (317) 855-8392
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.6'
+rating_count: 979
 website: null
+description: >-
+  Discover Yummy Bowl in Indianapolis, IN$$$Yummy Bowl in Indianapolis, IN,
+  stands out as a welcoming casual eatery offering a variety of Asian-inspired
+  dishes that highlight fresh flavors and diverse options. This spot features an
+  inviting buffet setup with stir-fries and sushi selections that cater to those
+  seeking flavorful, everyday dining experiences. Accessibility is a key
+  highlight, with features like wheelchair-friendly parking and entrances making
+  it easy for everyone to enjoy a meal. The restaurant maintains a relaxed
+  atmosphere perfect for quick lunches or family gatherings, emphasizing a mix
+  of traditional and creative tastes. Whether you're in the mood for light bites
+  or hearty plates, it's a go-to choice for exploring Asian cuisine in the area.
+generative_summary: >-
+  Discover Yummy Bowl in Indianapolis, IN$$$Yummy Bowl in Indianapolis, IN,
+  stands out as a welcoming casual eatery offering a variety of Asian-inspired
+  dishes that highlight fresh flavors and diverse options. This spot features an
+  inviting buffet setup with stir-fries and sushi selections that cater to those
+  seeking flavorful, everyday dining experiences. Accessibility is a key
+  highlight, with features like wheelchair-friendly parking and entrances making
+  it easy for everyone to enjoy a meal. The restaurant maintains a relaxed
+  atmosphere perfect for quick lunches or family gatherings, emphasizing a mix
+  of traditional and creative tastes. Whether you're in the mood for light bites
+  or hearty plates, it's a go-to choice for exploring Asian cuisine in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Folks who've dined at this spot often rave about
+  the tasty sushi and stir-fry options that keep things fresh and satisfying,
+  based on its solid reputation among local eaters. Many appreciate the generous
+  portions and variety on the buffet, making it a hit for groups or anyone
+  craving a casual meal without breaking the bank. While some mention waits
+  during peak times, the overall vibe and friendly service shine through in the
+  feedback, contributing to its high marks. Customers frequently note the
+  flavorful dishes hit the spot, especially for those hunting for reliable Asian
+  fare nearby. All in all, it's clear this place delivers a consistently
+  enjoyable experience that leaves people coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +309,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

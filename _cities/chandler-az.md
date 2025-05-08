@@ -5,4 +5,5 @@ permalink: /arizona/chandler/
 stateAbbr: AZ
 stateName: Arizona
 cityName: Chandler
+
 ---

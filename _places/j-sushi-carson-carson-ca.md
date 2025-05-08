@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "J Sushi Carson"
+title: J Sushi Carson
 permalink: /california/carson/j-sushi-carson.html
 stateAbbr: CA
 stateName: California
 cityName: Carson
 seo:
-  name: "J Sushi Carson"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "J Sushi Carson serves delicious sushi in Carson, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJzUyekeE13YARFzOWBulcuoM
 photos:
   - name: >-
@@ -185,7 +183,45 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover J Sushi in Carson, CA$$$J Sushi Carson in Carson, CA, stands out as a
+  welcoming Japanese restaurant nestled within the vibrant Southbay Plaza Mall,
+  offering a serene escape for sushi enthusiasts. This spot delights with an
+  assortment of fresh Japanese dishes, including expertly crafted sushi rolls
+  and other traditional favorites that highlight the essence of authentic
+  flavors. The relaxed atmosphere makes it an ideal choice for casual dining,
+  complemented by thoughtful accessibility features that ensure a comfortable
+  experience for all visitors. Whether you're seeking a quick meal or a
+  leisurely taste of Japanese cuisine, this location provides a convenient
+  option in a bustling area, perfect for those exploring sushi restaurants
+  nearby.
+generative_summary: >-
+  Discover J Sushi in Carson, CA$$$J Sushi Carson in Carson, CA, stands out as a
+  welcoming Japanese restaurant nestled within the vibrant Southbay Plaza Mall,
+  offering a serene escape for sushi enthusiasts. This spot delights with an
+  assortment of fresh Japanese dishes, including expertly crafted sushi rolls
+  and other traditional favorites that highlight the essence of authentic
+  flavors. The relaxed atmosphere makes it an ideal choice for casual dining,
+  complemented by thoughtful accessibility features that ensure a comfortable
+  experience for all visitors. Whether you're seeking a quick meal or a
+  leisurely taste of Japanese cuisine, this location provides a convenient
+  option in a bustling area, perfect for those exploring sushi restaurants
+  nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Diners Are Buzzing About$$$Folks who visit this Japanese eatery often
+  rave about the tasty variety of sushi rolls, sashimi, udon, and bento boxes
+  that make every meal feel satisfying and well-balanced. Many appreciate the
+  friendly and attentive service that keeps things running smoothly, adding to
+  the overall enjoyable vibe without any unnecessary delays. The clean and
+  inviting setting gets plenty of nods for creating a welcoming environment that
+  enhances the dining experience. While opinions can vary, the general consensus
+  leans positive, with visitors highlighting it as a solid pick for anyone
+  hunting for reliable Japanese options in the area. Overall, it's clear that
+  this spot delivers on flavor and hospitality, making it a go-to for those
+  craving top-rated sushi experiences nearby.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +247,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

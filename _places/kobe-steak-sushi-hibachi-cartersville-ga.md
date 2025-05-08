@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kobe Steak, Sushi, & Hibachi"
+title: Kobe Steak, Sushi, & Hibachi
 permalink: /georgia/cartersville/kobe-steak-sushi-hibachi.html
 stateAbbr: GA
 stateName: Georgia
 cityName: Cartersville
 seo:
-  name: "Kobe Steak, Sushi, & Hibachi"
-  type: Restaurant
+  type: restaurant
   links: https://kobecartersville.com/
-description: "Kobe Steak, Sushi, & Hibachi serves delicious sushi in Cartersville, Georgia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJnWdJwgxP9YgR16e1yr8eYCU
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 0
 website: https://kobecartersville.com/
+description: >-
+  Discover Kobe Steak, Sushi, & Hibachi in Cartersville, GA$$$Nestled in
+  Cartersville, GA, Kobe Steak, Sushi, & Hibachi stands out as a modern Japanese
+  dining spot offering fresh sushi and hibachi options in a relaxed atmosphere.
+  This establishment delights with its blend of flavorful dishes, including
+  expertly prepared rolls and sizzling grill favorites that cater to those
+  seeking authentic tastes. Visitors can enjoy a laid-back setting with
+  thoughtful touches like accessibility features and outdoor seating, making it
+  an inviting choice for casual meals or group gatherings. The menu highlights a
+  variety of Japanese-inspired cuisine at moderate prices, perfect for anyone
+  exploring top sushi spots nearby. Generous portions and a focus on quality
+  ingredients ensure a satisfying experience for those looking for reliable
+  dining options in the area.
+generative_summary: >-
+  Discover Kobe Steak, Sushi, & Hibachi in Cartersville, GA$$$Nestled in
+  Cartersville, GA, Kobe Steak, Sushi, & Hibachi stands out as a modern Japanese
+  dining spot offering fresh sushi and hibachi options in a relaxed atmosphere.
+  This establishment delights with its blend of flavorful dishes, including
+  expertly prepared rolls and sizzling grill favorites that cater to those
+  seeking authentic tastes. Visitors can enjoy a laid-back setting with
+  thoughtful touches like accessibility features and outdoor seating, making it
+  an inviting choice for casual meals or group gatherings. The menu highlights a
+  variety of Japanese-inspired cuisine at moderate prices, perfect for anyone
+  exploring top sushi spots nearby. Generous portions and a focus on quality
+  ingredients ensure a satisfying experience for those looking for reliable
+  dining options in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJnWdJwgxP9YgR16e1yr8eYCU/reviews/ChdDSUhNMG9nS0VJQ0FnTURncklMVXdRRRAB
@@ -330,6 +355,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNaemRDOExBEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNaemRDOExBEAE!2m1!1s0x88f54f0cc249679d:0x25601ebfcab5a7d7
+review_summary: >-
+  What Guests Are Buzzing About$$$Folks rave about the tasty sushi and hibachi
+  dishes at this spot, noting how the fresh flavors and generous servings make
+  every meal feel like a treat without breaking the bank. Many appreciate the
+  quick service and welcoming vibe, especially during busy times, though a few
+  mention occasional inconsistencies that come with high demand. Overall, the
+  atmosphere gets high marks for being modern and clean, with extras like a
+  great playlist adding to the fun. It's a solid pick for families or friends
+  hunting for dependable Japanese eats, with highlights on the steak and shrimp
+  combos that leave diners feeling impressed. If you're on the hunt for
+  flavorful options close by, this place often delivers a positive experience
+  that's worth checking out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -361,7 +399,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -5,4 +5,5 @@ permalink: /maryland/frederick/
 stateAbbr: MD
 stateName: Maryland
 cityName: Frederick
+
 ---

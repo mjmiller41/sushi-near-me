@@ -1,15 +1,14 @@
 ---
 layout: place
-title: "Chick-fil-A"
+title: Chick-fil-A
 permalink: /illinois/charleston/chick-fil-a.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Charleston
 seo:
-  name: "Chick-fil-A"
-  type: Restaurant
-  links: https://www.chick-fil-a.com/locations/il/eastern-illinois-university?utm_source=yext&utm_medium=link
-description: "Fast-food chain serving chicken sandwiches & nuggets along with salads & sides. Chick-fil-A serves delicious sushi in Charleston, Illinois. Try fresh Japanese dishes for a great dining experience. Available for, delivery, lunch, and dinner."
+  type: restaurant
+  links: >-
+    https://www.chick-fil-a.com/locations/il/eastern-illinois-university?utm_source=yext&utm_medium=link
 place_id: ChIJGbS3YFodc4gRL9C8Bo7iHXk
 photos:
   - name: >-
@@ -143,7 +142,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID4iJqk7wE!2e10!4m2!3m1!1s0x88731d5a60b7b419:0x791de28e06bcd02f
 address: Office of Univ. Housing/Dining, 600 Lincoln Ave, Charleston, IL 61920, USA
-street: Office of Univ. Housing/Dining, 600 Lincoln Ave
+street: Office of Univ. Housing/Dining,600 Lincoln Ave
 city: Charleston
 state: IL
 zip: '61920'
@@ -185,6 +184,27 @@ rating: '4.2'
 rating_count: 0
 website: >-
   https://www.chick-fil-a.com/locations/il/eastern-illinois-university?utm_source=yext&utm_medium=link
+description: >-
+  About Chick-fil-A in Charleston, IL$$$Chick-fil-A in Charleston, IL, stands
+  out as a beloved fast-food destination known for its signature chicken
+  sandwiches, nuggets, and crispy waffle fries. This spot offers a variety of
+  options including breakfast items, fresh salads, and delightful treats, making
+  it a go-to for quick, satisfying meals in a campus setting. The location
+  emphasizes accessibility with wheelchair-friendly features and ample parking,
+  ensuring a convenient visit for all. Its menu caters to families and groups
+  with kid-friendly choices and consistent quality that keeps diners coming
+  back.
+generative_summary: >-
+  About Chick-fil-A in Charleston, IL$$$Chick-fil-A in Charleston, IL, stands
+  out as a beloved fast-food destination known for its signature chicken
+  sandwiches, nuggets, and crispy waffle fries. This spot offers a variety of
+  options including breakfast items, fresh salads, and delightful treats, making
+  it a go-to for quick, satisfying meals in a campus setting. The location
+  emphasizes accessibility with wheelchair-friendly features and ample parking,
+  ensuring a convenient visit for all. Its menu caters to families and groups
+  with kid-friendly choices and consistent quality that keeps diners coming
+  back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJGbS3YFodc4gRL9C8Bo7iHXk/reviews/ChdDSUhNMG9nS0VJQ0FnSURIdkk2RHl3RRAB
@@ -326,6 +346,17 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUROODUzVHpBRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUROODUzVHpBRRAB!2m1!1s0x88731d5a60b7b419:0x791de28e06bcd02f
+review_summary: >-
+  Customer Feedback Highlights$$$Visitors to this fast-food spot often rave
+  about the tasty chicken dishes and reliable service that make meals feel fresh
+  and enjoyable. While some mentions point to occasional wait times during busy
+  periods, many appreciate the efficient staff and welcoming atmosphere that
+  keeps things moving smoothly. Overall, the food consistency across locations
+  wins praise, with highlights on the variety that suits breakfast, lunch, or a
+  quick bite. It's clear that folks find value in the affordable options and
+  family-oriented vibe, making it a solid choice for a casual meal despite minor
+  hiccups.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -357,8 +388,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: false
 takeout: false
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Fast-food chain serving chicken sandwiches & nuggets along with salads &
   sides.
 

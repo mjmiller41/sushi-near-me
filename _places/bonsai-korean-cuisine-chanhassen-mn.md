@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Bonsai Korean Cuisine"
+title: Bonsai Korean Cuisine
 permalink: /minnesota/chanhassen/bonsai-korean-cuisine.html
 stateAbbr: MN
 stateName: Minnesota
 cityName: Chanhassen
 seo:
-  name: "Bonsai Korean Cuisine"
-  type: Restaurant
+  type: restaurant
   links: https://www.bonsaimn.com/
-description: "Restaurant for a wide range of Korean dishes in a small, contemporary interior. Bonsai Korean Cuisine serves delicious sushi in Chanhassen, Minnesota. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJgQPfE5ob9ocRA9Juobe6sFs
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 0
 website: https://www.bonsaimn.com/
+description: >-
+  Discover Bonsai Korean Cuisine in Chanhassen, MN$$$Bonsai Korean Cuisine in
+  Chanhassen, MN, delivers a delightful array of authentic Korean comfort dishes
+  and beverages in a relaxed, contemporary atmosphere that invites casual
+  dining. The spot emphasizes flavorful options like hearty mains and specialty
+  drinks, complemented by happy hour deals that add value to every visit. With
+  thoughtful accessibility features such as wheelchair-friendly entrances and
+  parking, it's an inclusive choice for those exploring Korean places near me.
+  The menu highlights generous portions and fresh ingredients, making it a go-to
+  for anyone seeking top-rated Korean flavors in a welcoming setting. Overall,
+  this spot stands out for its blend of traditional tastes and modern vibes,
+  perfect for a satisfying meal without the fuss.
+generative_summary: >-
+  Discover Bonsai Korean Cuisine in Chanhassen, MN$$$Bonsai Korean Cuisine in
+  Chanhassen, MN, delivers a delightful array of authentic Korean comfort dishes
+  and beverages in a relaxed, contemporary atmosphere that invites casual
+  dining. The spot emphasizes flavorful options like hearty mains and specialty
+  drinks, complemented by happy hour deals that add value to every visit. With
+  thoughtful accessibility features such as wheelchair-friendly entrances and
+  parking, it's an inclusive choice for those exploring Korean places near me.
+  The menu highlights generous portions and fresh ingredients, making it a go-to
+  for anyone seeking top-rated Korean flavors in a welcoming setting. Overall,
+  this spot stands out for its blend of traditional tastes and modern vibes,
+  perfect for a satisfying meal without the fuss.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJgQPfE5ob9ocRA9Juobe6sFs/reviews/ChZDSUhNMG9nS0VJQ0FnSUNkbi11T2V3EAE
@@ -368,6 +391,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNaZzdyRGtRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNaZzdyRGtRRRAB!2m1!1s0x87f61b9a13df0381:0x5bb0bab7a16ed203
+review_summary: >-
+  Customer Feedback Highlights$$$Visitors consistently praise Bonsai Korean
+  Cuisine for its tasty dishes and solid portions that leave everyone feeling
+  satisfied, even if the prices lean a bit higher than expected. Folks love the
+  friendly service and quick turnaround, which makes for a comfortable and
+  enjoyable experience every time. Many highlight the flavorful options like
+  savory mains and sides, noting how they hit the spot for anyone craving
+  authentic Korean vibes. While the atmosphere keeps things light and clean,
+  reviewers often mention it as a reliable pick for groups or solo diners
+  looking for a welcoming spot. All in all, it's clear this place delivers a
+  positive dining experience that keeps people coming back for more delicious,
+  well-prepared meals.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -399,8 +435,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Restaurant for a wide range of Korean dishes in a small, contemporary
   interior.
 

@@ -5,4 +5,5 @@ permalink: /washington/yakima/
 stateAbbr: WA
 stateName: Washington
 cityName: Yakima
+
 ---

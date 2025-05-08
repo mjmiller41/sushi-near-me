@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Rice Bowl Asian House"
+title: Rice Bowl Asian House
 permalink: /florida/bradenton/rice-bowl-asian-house.html
 stateAbbr: FL
 stateName: Florida
 cityName: Bradenton
 seo:
-  name: "Rice Bowl Asian House"
-  type: Restaurant
+  type: restaurant
   links: https://ricebowlasianhousefl.kwickmenu.com/index.php
-description: "Casual eatery with bright decor, offering classic sushi options & Japanese rice & noodle bowls. Rice Bowl Asian House serves delicious sushi in Bradenton, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJD9LRCvw7w4gRo7b8Ih_JRWU
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 0
 website: https://ricebowlasianhousefl.kwickmenu.com/index.php
+description: >-
+  Explore Rice Bowl Asian House in Bradenton, FL$$$Rice Bowl Asian House in
+  Bradenton, Florida, stands out as a welcoming spot for enjoying a mix of
+  classic Asian flavors in a casual, vibrant setting. This eatery specializes in
+  fresh sushi options and hearty rice and noodle bowls that highlight
+  well-balanced tastes and quality ingredients, making it a go-to for those
+  seeking satisfying Japanese-inspired meals. The bright decor creates a relaxed
+  atmosphere perfect for families or quick lunches, with options that cater to a
+  variety of preferences including spicy and tangy dishes. Accessibility
+  features like wheelchair-friendly entrances add to the convenience, ensuring
+  everyone can enjoy the affordable dining experience. Whether you're looking
+  for sushi places near me or top-rated Asian eats, this location delivers
+  flavorful options that keep customers coming back for more.
+generative_summary: >-
+  Explore Rice Bowl Asian House in Bradenton, FL$$$Rice Bowl Asian House in
+  Bradenton, Florida, stands out as a welcoming spot for enjoying a mix of
+  classic Asian flavors in a casual, vibrant setting. This eatery specializes in
+  fresh sushi options and hearty rice and noodle bowls that highlight
+  well-balanced tastes and quality ingredients, making it a go-to for those
+  seeking satisfying Japanese-inspired meals. The bright decor creates a relaxed
+  atmosphere perfect for families or quick lunches, with options that cater to a
+  variety of preferences including spicy and tangy dishes. Accessibility
+  features like wheelchair-friendly entrances add to the convenience, ensuring
+  everyone can enjoy the affordable dining experience. Whether you're looking
+  for sushi places near me or top-rated Asian eats, this location delivers
+  flavorful options that keep customers coming back for more.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJD9LRCvw7w4gRo7b8Ih_JRWU/reviews/ChdDSUhNMG9nS0VJQ0FnTURRdUlLei1RRRAB
@@ -452,6 +477,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNoNWRhSnVRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNoNWRhSnVRRRAB!2m1!1s0x88c33bfc0ad1d20f:0x6545c91f22fcb6a3
+review_summary: >-
+  Review Highlights from Visitors$$$Visitors to Rice Bowl Asian House often rave
+  about the tasty Asian dishes and generous portions that make meals feel
+  worthwhile, with many highlighting the flavorful rice bowls and fresh
+  ingredients as standout features. The service gets high marks for being
+  friendly and efficient, enhancing the overall casual vibe that's ideal for
+  takeout or dine-in. While some note that certain items like octopus could be
+  cooked more evenly, the majority appreciate the hot, well-prepared food that
+  hits the spot for everyday cravings. Overall, it's a solid choice for anyone
+  searching for sushi restaurants near me, offering reliable flavors and a
+  welcoming environment that encourages repeat visits. If you're in the mood for
+  hearty Asian dining, this spot delivers a generally positive experience that's
+  worth trying out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -484,8 +523,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Casual eatery with bright decor, offering classic sushi options & Japanese
   rice & noodle bowls.
 

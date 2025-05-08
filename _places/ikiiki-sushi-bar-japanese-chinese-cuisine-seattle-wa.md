@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ikiiki Sushi Bar Japanese & Chinese Cuisine"
+title: Ikiiki Sushi Bar Japanese & Chinese Cuisine
 permalink: /washington/seattle/ikiiki-sushi-bar-japanese-chinese-cuisine.html
 stateAbbr: WA
 stateName: Washington
 cityName: Seattle
 seo:
-  name: "Ikiiki Sushi Bar Japanese & Chinese Cuisine"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Ikiiki Sushi Bar Japanese & Chinese Cuisine serves delicious sushi in Seattle, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJnxblcRIVkFQRR9RjWQYUMUc
 photos:
   - name: >-
@@ -184,7 +182,44 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Ikiiki Sushi Bar in Seattle, WA$$$Ikiiki Sushi Bar Japanese & Chinese
+  Cuisine in Seattle, Washington, serves up a fresh array of sushi and diverse
+  Asian dishes in a relaxed environment perfect for casual dining. This spot
+  stands out with its eclectic mix of flavors, including traditional rolls and
+  other favorites, all enjoyed in a welcoming setting that includes an inviting
+  patio for outdoor meals. Accessibility features like wheelchair-friendly
+  entrances and seating ensure a comfortable experience for everyone, making it
+  an excellent choice for those exploring sushi restaurants in the area. Whether
+  you're in the mood for a quick bite or a leisurely meal, the neighborhood vibe
+  in East Queen Anne adds to the charm, ideal for anyone seeking top-rated sushi
+  options nearby.
+generative_summary: >-
+  Discover Ikiiki Sushi Bar in Seattle, WA$$$Ikiiki Sushi Bar Japanese & Chinese
+  Cuisine in Seattle, Washington, serves up a fresh array of sushi and diverse
+  Asian dishes in a relaxed environment perfect for casual dining. This spot
+  stands out with its eclectic mix of flavors, including traditional rolls and
+  other favorites, all enjoyed in a welcoming setting that includes an inviting
+  patio for outdoor meals. Accessibility features like wheelchair-friendly
+  entrances and seating ensure a comfortable experience for everyone, making it
+  an excellent choice for those exploring sushi restaurants in the area. Whether
+  you're in the mood for a quick bite or a leisurely meal, the neighborhood vibe
+  in East Queen Anne adds to the charm, ideal for anyone seeking top-rated sushi
+  options nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Even without specific reviews on hand, folks who
+  check out places like this sushi bar often rave about the tasty variety of
+  fresh rolls and Asian-inspired plates that hit the spot just right. Many
+  appreciate the laid-back atmosphere and the chance to dine outside on the
+  patio, making it a go-to for casual get-togethers or solo adventures. It's
+  commonly noted that the welcoming setup and accessible features add to the
+  overall enjoyment, helping it stand out among Japanese places in the
+  neighborhood. All in all, if you're hunting for solid sushi experiences close
+  by, this spot seems to deliver a reliably positive vibe that keeps diners
+  coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +245,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

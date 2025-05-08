@@ -5,4 +5,5 @@ permalink: /washington/kennewick/
 stateAbbr: WA
 stateName: Washington
 cityName: Kennewick
+
 ---

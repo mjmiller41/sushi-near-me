@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ichiban Sushi"
+title: Ichiban Sushi
 permalink: /minnesota/minneapolis/ichiban-sushi.html
 stateAbbr: MN
 stateName: Minnesota
 cityName: Minneapolis
 seo:
-  name: "Ichiban Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.ichibansushiedina.com/
-description: "Ichiban Sushi serves delicious sushi in Minneapolis, Minnesota. Try fresh Japanese dishes for a great dining experience. Available for, lunch, and dinner."
 place_id: ChIJ5VJbdpwl9ocR1_Bmq_Rq2gk
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $30 &ndash; $50
 rating: '4.2'
 rating_count: 0
 website: https://www.ichibansushiedina.com/
+description: >-
+  Discover Ichiban Sushi in Minneapolis, MN$$$Nestled in the heart of
+  Minneapolis, MN, Ichiban Sushi stands out as a go-to spot for those seeking
+  fresh Japanese cuisine in a relaxed setting. This casual eatery offers an
+  all-you-can-eat experience with a wide array of dishes, including flavorful
+  sushi rolls and hibachi favorites that highlight quality ingredients and
+  creative preparations. Visitors appreciate the accessible features like
+  wheelchair-friendly entrances and seating, making it an inclusive choice for
+  everyone. The menu balances variety and value, perfect for anyone exploring
+  sushi options nearby, with options that cater to different tastes without
+  overwhelming the senses. Whether you're in the mood for a quick bite or a
+  leisurely meal, this spot delivers an authentic Japanese dining vibe that's
+  both affordable and satisfying.
+generative_summary: >-
+  Discover Ichiban Sushi in Minneapolis, MN$$$Nestled in the heart of
+  Minneapolis, MN, Ichiban Sushi stands out as a go-to spot for those seeking
+  fresh Japanese cuisine in a relaxed setting. This casual eatery offers an
+  all-you-can-eat experience with a wide array of dishes, including flavorful
+  sushi rolls and hibachi favorites that highlight quality ingredients and
+  creative preparations. Visitors appreciate the accessible features like
+  wheelchair-friendly entrances and seating, making it an inclusive choice for
+  everyone. The menu balances variety and value, perfect for anyone exploring
+  sushi options nearby, with options that cater to different tastes without
+  overwhelming the senses. Whether you're in the mood for a quick bite or a
+  leisurely meal, this spot delivers an authentic Japanese dining vibe that's
+  both affordable and satisfying.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ5VJbdpwl9ocR1_Bmq_Rq2gk/reviews/ChdDSUhNMG9nS0VJQ0FnTURnMTgtcF9nRRAB
@@ -352,6 +377,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNndU9MRGdBRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNndU9MRGdBRRAB!2m1!1s0x87f6259c765b52e5:0x9da6af4ab66f0d7
+review_summary: >-
+  What Customers Are Saying$$$Folks generally rave about the fresh flavors and
+  solid value at this sushi spot, with many highlighting the generous portions
+  and tasty rolls that make it a favorite for casual outings. While most
+  visitors enjoy the attentive service and variety of options that keep things
+  exciting, a few mentions point to occasional inconsistencies in wait times or
+  selections during busier periods. Overall, it's praised as a worthwhile
+  destination for anyone craving top-rated Japanese eats, especially for groups
+  looking for a fun, budget-friendly meal. The positive vibes around the
+  all-you-can-eat setup suggest it's a reliable pick for sushi enthusiasts in
+  the area, encouraging repeat visits for its honest appeal. If you're hunting
+  for sushi places near you, this spot often comes through with a welcoming
+  atmosphere that leaves diners feeling content.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -384,7 +423,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

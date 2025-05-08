@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yummy Machi"
+title: Yummy Machi
 permalink: /new-york/staten-island/yummy-machi.html
 stateAbbr: NY
 stateName: New York
 cityName: Staten Island
 seo:
-  name: "Yummy Machi"
-  type: Restaurant
+  type: restaurant
   links: https://orderyummymachi.com/
-description: "Strip-mall counter serve providing sushi, bento & other Japanese fare, plus smoothies & bubble tea. Yummy Machi serves delicious sushi in Staten Island, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJO0HdG6xNwokRuPJFc8jebuI
 photos:
   - name: >-
@@ -184,6 +182,33 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 0
 website: https://orderyummymachi.com/
+description: >-
+  Discover Yummy Machi in Staten Island, NY$$$Yummy Machi in Staten Island, NY,
+  stands out as a relaxed spot for enjoying authentic Japanese flavors,
+  featuring fresh sushi rolls, teriyaki dishes, and hearty bento boxes that
+  appeal to those seeking sushi restaurants near me. This welcoming eatery also
+  offers refreshing bubble tea and smoothies, making it a go-to choice for
+  casual meals in a strip-mall setting. With accessibility features like
+  wheelchair-friendly entrances and parking, it's designed for everyone looking
+  for convenient Japanese places near me. The menu highlights affordable options
+  that balance taste and value, perfect for anyone craving top-rated sushi in a
+  laid-back atmosphere. Whether you're stopping by for a quick bite or exploring
+  new flavors, this spot delivers a satisfying experience with its diverse
+  selection of Japanese fare.
+generative_summary: >-
+  Discover Yummy Machi in Staten Island, NY$$$Yummy Machi in Staten Island, NY,
+  stands out as a relaxed spot for enjoying authentic Japanese flavors,
+  featuring fresh sushi rolls, teriyaki dishes, and hearty bento boxes that
+  appeal to those seeking sushi restaurants near me. This welcoming eatery also
+  offers refreshing bubble tea and smoothies, making it a go-to choice for
+  casual meals in a strip-mall setting. With accessibility features like
+  wheelchair-friendly entrances and parking, it's designed for everyone looking
+  for convenient Japanese places near me. The menu highlights affordable options
+  that balance taste and value, perfect for anyone craving top-rated sushi in a
+  laid-back atmosphere. Whether you're stopping by for a quick bite or exploring
+  new flavors, this spot delivers a satisfying experience with its diverse
+  selection of Japanese fare.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJO0HdG6xNwokRuPJFc8jebuI/reviews/ChdDSUhNMG9nS0VJQ0FnSUR4OVltU3JRRRAB
@@ -365,6 +390,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURncG9fX3BnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURncG9fX3BnRRAB!2m1!1s0x89c24dac1bdd413b:0xe26edec87345f2b8
+review_summary: >-
+  What Customers Are Saying$$$Visitors often rave about the tasty sushi rolls
+  and vegetarian choices, noting how they make for a budget-friendly and
+  enjoyable meal on the go. Many appreciate the friendly service and great
+  bubble tea selections that add a fun twist to the dining experience, even if
+  the space is better suited for takeout rather than lingering. Folks frequently
+  mention the solid lunch specials as a highlight, praising the fresh
+  ingredients and overall value that keep them coming back. While some feedback
+  touches on minor areas like store tidiness, the general vibe remains positive,
+  with people loving the convenience and variety for everyday eats. Overall,
+  it's a solid pick for anyone hunting for reliable sushi places near me,
+  offering honest satisfaction without any major drawbacks.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   valetParking: false
@@ -396,8 +434,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Strip-mall counter serve providing sushi, bento & other Japanese fare, plus
   smoothies & bubble tea.
 

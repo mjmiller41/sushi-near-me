@@ -5,4 +5,5 @@ permalink: /florida/bradenton/
 stateAbbr: FL
 stateName: Florida
 cityName: Bradenton
+
 ---

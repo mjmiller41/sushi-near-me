@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Passion Fin"
+title: Passion Fin
 permalink: /virginia/ashburn/passion-fin.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Ashburn
 seo:
-  name: "Passion Fin"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Passion Fin serves delicious sushi in Ashburn, Virginia. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJdb8dymA-tokRqyf0ZqaWkTU
 photos:
   - name: >-
@@ -185,7 +183,44 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Passion Fin in Ashburn, VA$$$Nestled in Ashburn, VA, Passion Fin
+  stands out as a welcoming Japanese restaurant offering a variety of fresh
+  sushi and hibachi dishes in a relaxed atmosphere. This spot highlights an
+  array of specialty rolls and sashimi platters, perfect for anyone exploring
+  sushi restaurants near you, with options that emphasize quality ingredients
+  and authentic flavors. The casual setting makes it easy to enjoy Japanese
+  cuisine close to home, complemented by thoughtful accessibility features like
+  wheelchair-friendly entrances and seating. Whether you're in the mood for a
+  quick meal or a leisurely dine-in experience, Passion Fin provides a
+  comfortable environment that caters to everyday cravings for top-rated sushi
+  options.
+generative_summary: >-
+  Discover Passion Fin in Ashburn, VA$$$Nestled in Ashburn, VA, Passion Fin
+  stands out as a welcoming Japanese restaurant offering a variety of fresh
+  sushi and hibachi dishes in a relaxed atmosphere. This spot highlights an
+  array of specialty rolls and sashimi platters, perfect for anyone exploring
+  sushi restaurants near you, with options that emphasize quality ingredients
+  and authentic flavors. The casual setting makes it easy to enjoy Japanese
+  cuisine close to home, complemented by thoughtful accessibility features like
+  wheelchair-friendly entrances and seating. Whether you're in the mood for a
+  quick meal or a leisurely dine-in experience, Passion Fin provides a
+  comfortable environment that caters to everyday cravings for top-rated sushi
+  options.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Folks frequently praise the flavorful sushi
+  selections at this Japanese eatery, noting how the specialty rolls and sashimi
+  platters deliver a satisfying mix of tastes and textures without breaking the
+  bank. Many appreciate the attentive service that keeps things running
+  smoothly, making it a go-to choice for casual gatherings or solo visits.
+  Reviewers often mention the reasonable prices and efficient vibe, which add up
+  to a solid overall experience for those seeking quality Japanese meals nearby.
+  While opinions vary, the general consensus leans positive, highlighting how
+  this spot reliably hits the mark for fresh, enjoyable dishes in a friendly
+  setting.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +246,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

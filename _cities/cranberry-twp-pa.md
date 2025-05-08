@@ -5,4 +5,5 @@ permalink: /pennsylvania/cranberry-twp/
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Cranberry Twp
+
 ---

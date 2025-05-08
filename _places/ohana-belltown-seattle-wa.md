@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ohana Belltown"
+title: Ohana Belltown
 permalink: /washington/seattle/ohana-belltown.html
 stateAbbr: WA
 stateName: Washington
 cityName: Seattle
 seo:
-  name: "Ohana Belltown"
-  type: Restaurant
+  type: restaurant
   links: https://www.fooddiscoveryapp.com/seattle/ohana-belltown
-description: "Ohana Belltown serves delicious sushi in Seattle, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJXUznpU0VkFQRcc35QzkAM7w
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x5490154da5e74c5d:0xbc33003943f9cd71!10e5
 primary_type: American Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 1
+        minute: 30
+    - open:
+        day: 1
+        hour: 15
+        minute: 0
+      close:
+        day: 2
+        hour: 1
+        minute: 30
+    - open:
+        day: 2
+        hour: 15
+        minute: 0
+      close:
+        day: 3
+        hour: 1
+        minute: 30
+    - open:
+        day: 3
+        hour: 15
+        minute: 0
+      close:
+        day: 4
+        hour: 1
+        minute: 30
+    - open:
+        day: 4
+        hour: 15
+        minute: 0
+      close:
+        day: 5
+        hour: 1
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 1
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 1
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 3:00 PM – 1:30 AM'
     - 'Tuesday: 3:00 PM – 1:30 AM'
     - 'Wednesday: 3:00 PM – 1:30 AM'
@@ -178,54 +234,266 @@ opening_hours:
     - 'Friday: 11:30 AM – 1:30 AM'
     - 'Saturday: 11:30 AM – 1:30 AM'
     - 'Sunday: 11:30 AM – 1:30 AM'
-  current:
-    - 'Monday: 3:00 PM – 1:30 AM'
-    - 'Tuesday: 3:00 PM – 1:30 AM'
-    - 'Wednesday: 3:00 PM – 1:30 AM'
-    - 'Thursday: 3:00 PM – 1:30 AM'
-    - 'Friday: 11:30 AM – 1:30 AM'
-    - 'Saturday: 11:30 AM – 1:30 AM'
-    - 'Sunday: 11:30 AM – 1:30 AM'
+  nextCloseTime: '2025-05-04T08:30:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: false
+    periods:
+      - open:
+          day: 1
+          hour: 15
+          minute: 0
+        close:
+          day: 1
+          hour: 18
+          minute: 0
+      - open:
+          day: 2
+          hour: 15
+          minute: 0
+        close:
+          day: 2
+          hour: 18
+          minute: 0
+      - open:
+          day: 3
+          hour: 15
+          minute: 0
+        close:
+          day: 3
+          hour: 18
+          minute: 0
+      - open:
+          day: 4
+          hour: 15
+          minute: 0
+        close:
+          day: 4
+          hour: 18
+          minute: 0
+      - open:
+          day: 5
+          hour: 15
+          minute: 0
+        close:
+          day: 5
+          hour: 18
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 3:00 – 6:00 PM'
+      - 'Tuesday: 3:00 – 6:00 PM'
+      - 'Wednesday: 3:00 – 6:00 PM'
+      - 'Thursday: 3:00 – 6:00 PM'
+      - 'Friday: 3:00 – 6:00 PM'
+      - 'Saturday: Closed'
+      - 'Sunday: Closed'
+    secondaryHoursType: HAPPY_HOUR
+    nextOpenTime: '2025-05-05T22:00:00Z'
 phone: (206) 956-9329
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.4'
-rating_count: 0
+rating_count: 1601
 website: https://www.fooddiscoveryapp.com/seattle/ohana-belltown
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Ohana Belltown in Seattle, WA$$$Nestled in the heart of Seattle,
+  Washington, Ohana Belltown offers a vibrant blend of Japanese and Hawaiian
+  flavors in a casual, tropical-inspired setting. This spot features fresh sushi
+  options alongside hearty Hawaiian dishes, all served in an upbeat atmosphere
+  with bamboo decor and a lively tiki bar that extends into late-night hours.
+  Patrons can enjoy moderately priced meals with a focus on generous portions
+  and creative cocktails, making it a go-to for those seeking sushi restaurants
+  in the area. Accessibility is a highlight, with features like
+  wheelchair-friendly entrances and seating that ensure everyone can savor the
+  experience comfortably.
+generative_summary: >-
+  Discover Ohana Belltown in Seattle, WA$$$Nestled in the heart of Seattle,
+  Washington, Ohana Belltown offers a vibrant blend of Japanese and Hawaiian
+  flavors in a casual, tropical-inspired setting. This spot features fresh sushi
+  options alongside hearty Hawaiian dishes, all served in an upbeat atmosphere
+  with bamboo decor and a lively tiki bar that extends into late-night hours.
+  Patrons can enjoy moderately priced meals with a focus on generous portions
+  and creative cocktails, making it a go-to for those seeking sushi restaurants
+  in the area. Accessibility is a highlight, with features like
+  wheelchair-friendly entrances and seating that ensure everyone can savor the
+  experience comfortably.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJXUznpU0VkFQRcc35QzkAM7w/reviews/ChZDSUhNMG9nS0VJQ0FnTUNveWM3ZGZnEAE
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 4
+    text:
+      text: >-
+        Excellent loco moco and kaluha pork. Hits the spot when you are craving
+        Hawaiian food. The drinks are strong as described in other reviews.
+      languageCode: en
+    originalText:
+      text: >-
+        Excellent loco moco and kaluha pork. Hits the spot when you are craving
+        Hawaiian food. The drinks are strong as described in other reviews.
+      languageCode: en
+    authorAttribution:
+      displayName: Jonathan Gong
+      uri: https://www.google.com/maps/contrib/114280801680204950657/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXiA20bXHv_ILVMWPYK0sBPYePyK-oSaIRjZnXfKMG-wWAfXTHn=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-18T02:59:06.676454Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNveWM3ZGZnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNveWM3ZGZnEAE!2m1!1s0x5490154da5e74c5d:0xbc33003943f9cd71
+  - name: >-
+      places/ChIJXUznpU0VkFQRcc35QzkAM7w/reviews/ChZDSUhNMG9nS0VJQ0FnSUNmbTh6N0dnEAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        Visited this place about 3 years ago and visited it again recently. It's
+        still as good as i remember. Vibe is still there and they still serve
+        strong drinks and big shots which my husband loves.
+
+        Service has always been good and welcome
+      languageCode: en
+    originalText:
+      text: >-
+        Visited this place about 3 years ago and visited it again recently. It's
+        still as good as i remember. Vibe is still there and they still serve
+        strong drinks and big shots which my husband loves.
+
+        Service has always been good and welcome
+      languageCode: en
+    authorAttribution:
+      displayName: Trinh Nguyen
+      uri: https://www.google.com/maps/contrib/117015058609802387520/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVCAnR1ydj7kB6E8h7EmqBGOjTx8bMmtKUyfpqN-PuF7KEsnCUU-Q=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-01-01T19:56:59.473113Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNmbTh6N0dnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNmbTh6N0dnEAE!2m1!1s0x5490154da5e74c5d:0xbc33003943f9cd71
+  - name: >-
+      places/ChIJXUznpU0VkFQRcc35QzkAM7w/reviews/ChZDSUhNMG9nS0VJQ0FnTUNvN1liaWFREAE
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        The food was great. If I'm ever in Seattle again I would absolutely come
+        back.
+      languageCode: en
+    originalText:
+      text: >-
+        The food was great. If I'm ever in Seattle again I would absolutely come
+        back.
+      languageCode: en
+    authorAttribution:
+      displayName: Erick Melara
+      uri: https://www.google.com/maps/contrib/114305849817886999318/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVfeVq2GhWo7vnXhjxcCc6zRbHYJUOY5rNfGj52Bv3rsFmw0KyDIQ=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-19T05:10:28.147258Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNvN1liaWFREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNvN1liaWFREAE!2m1!1s0x5490154da5e74c5d:0xbc33003943f9cd71
+  - name: >-
+      places/ChIJXUznpU0VkFQRcc35QzkAM7w/reviews/ChdDSUhNMG9nS0VJQ0FnTURJcmFTVV9BRRAB
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 4
+    text:
+      text: |-
+        A popular location. The wait can be awhile but it's worth it.
+
+        The Yudon was delicious and filled with a smoky flavor.
+      languageCode: en
+    originalText:
+      text: |-
+        A popular location. The wait can be awhile but it's worth it.
+
+        The Yudon was delicious and filled with a smoky flavor.
+      languageCode: en
+    authorAttribution:
+      displayName: Chase Eliason
+      uri: https://www.google.com/maps/contrib/103874995407567172405/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUedkz9gGwXvoxPc1ULiuY1Ag_NKOKJi8D3RC-_arKqsbQXggIM8A=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2025-04-12T05:09:39.701795Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJcmFTVV9BRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJcmFTVV9BRRAB!2m1!1s0x5490154da5e74c5d:0xbc33003943f9cd71
+  - name: >-
+      places/ChIJXUznpU0VkFQRcc35QzkAM7w/reviews/ChZDSUhNMG9nS0VJQ0FnTUNnNk9pYkZBEAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        This place is awesome! I love the vibe and the food is just as good! I
+        had the potstickers and sushi and it was great!
+      languageCode: en
+    originalText:
+      text: >-
+        This place is awesome! I love the vibe and the food is just as good! I
+        had the potstickers and sushi and it was great!
+      languageCode: en
+    authorAttribution:
+      displayName: Michael James
+      uri: https://www.google.com/maps/contrib/100622749167585869299/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjViYLCtNNBpQtcB5m2_WHxdmNnKq0tyu99WJvoCn5pZB3kVIp1JWA=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-02-13T20:05:19.589792Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNnNk9pYkZBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNnNk9pYkZBEAE!2m1!1s0x5490154da5e74c5d:0xbc33003943f9cd71
+review_summary: >-
+  Feedback on the Flavors at Ohana Belltown$$$Folks often rave about the
+  delicious mix of Hawaiian classics and fresh sushi rolls that hit the spot,
+  with many highlighting the hearty portions and bold flavors like smoky udon
+  and tropical-inspired dishes. The lively vibe and strong drinks add to the
+  fun, creating a welcoming environment that feels like a quick escape to
+  paradise, perfect for groups looking for a casual night out. While some
+  mention waits during peak times, the overall service keeps things friendly and
+  efficient, making it worth the visit for sushi enthusiasts nearby. Overall,
+  it's a solid choice for anyone craving top-rated sushi spots, with the added
+  bonus of live music and outdoor seating that enhances the experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  paidParkingLot: true
+  freeStreetParking: true
+  paidStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
+delivery: true
+dine_in: true
+good_for_children: false
+good_for_groups: true
 good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
+live_music: true
+menu_for_children: false
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
 serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_cocktails: true
+serves_coffee: true
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Hawaiian eats, sushi & tropical cocktails in an upbeat setting with bamboo
+  booths & a tiki bar.
 
 ---

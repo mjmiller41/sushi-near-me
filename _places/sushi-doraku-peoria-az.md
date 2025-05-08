@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Doraku"
+title: Sushi Doraku
 permalink: /arizona/peoria/sushi-doraku.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Peoria
 seo:
-  name: "Sushi Doraku"
-  type: Restaurant
+  type: restaurant
   links: http://www.sushidoraku.us/
-description: "Sushi Doraku serves delicious sushi in Peoria, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJi74YkaVdK4cROuwHBaYJsdw
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x872b5da59118be8b:0xdcb109a60507ec3a!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 9:00 PM'
     - 'Tuesday: 11:30 AM – 9:00 PM'
     - 'Wednesday: 11:30 AM – 9:00 PM'
@@ -178,28 +234,239 @@ opening_hours:
     - 'Friday: 11:30 AM – 9:30 PM'
     - 'Saturday: 11:30 AM – 9:30 PM'
     - 'Sunday: 12:00 – 8:30 PM'
-  current:
-    - 'Monday: 11:30 AM – 9:00 PM'
-    - 'Tuesday: 11:30 AM – 9:00 PM'
-    - 'Wednesday: 11:30 AM – 9:00 PM'
-    - 'Thursday: 11:30 AM – 9:00 PM'
-    - 'Friday: 11:30 AM – 9:30 PM'
-    - 'Saturday: 11:30 AM – 9:30 PM'
-    - 'Sunday: 12:00 – 8:30 PM'
+  nextCloseTime: '2025-05-04T04:30:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 14
+          minute: 0
+        close:
+          day: 0
+          hour: 16
+          minute: 30
+      - open:
+          day: 0
+          hour: 19
+          minute: 0
+        close:
+          day: 0
+          hour: 20
+          minute: 30
+      - open:
+          day: 1
+          hour: 11
+          minute: 30
+        close:
+          day: 1
+          hour: 21
+          minute: 0
+      - open:
+          day: 2
+          hour: 14
+          minute: 0
+        close:
+          day: 2
+          hour: 16
+          minute: 30
+      - open:
+          day: 2
+          hour: 19
+          minute: 30
+        close:
+          day: 2
+          hour: 21
+          minute: 0
+      - open:
+          day: 3
+          hour: 14
+          minute: 0
+        close:
+          day: 3
+          hour: 16
+          minute: 30
+      - open:
+          day: 3
+          hour: 19
+          minute: 30
+        close:
+          day: 3
+          hour: 21
+          minute: 0
+      - open:
+          day: 4
+          hour: 14
+          minute: 0
+        close:
+          day: 4
+          hour: 16
+          minute: 30
+      - open:
+          day: 4
+          hour: 19
+          minute: 30
+        close:
+          day: 4
+          hour: 21
+          minute: 0
+      - open:
+          day: 5
+          hour: 14
+          minute: 0
+        close:
+          day: 5
+          hour: 16
+          minute: 30
+      - open:
+          day: 5
+          hour: 20
+          minute: 0
+        close:
+          day: 5
+          hour: 21
+          minute: 30
+      - open:
+          day: 6
+          hour: 14
+          minute: 0
+        close:
+          day: 6
+          hour: 16
+          minute: 30
+      - open:
+          day: 6
+          hour: 20
+          minute: 0
+        close:
+          day: 6
+          hour: 21
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 11:30 AM – 9:00 PM'
+      - 'Tuesday: 2:00 – 4:30 PM, 7:30 – 9:00 PM'
+      - 'Wednesday: 2:00 – 4:30 PM, 7:30 – 9:00 PM'
+      - 'Thursday: 2:00 – 4:30 PM, 7:30 – 9:00 PM'
+      - 'Friday: 2:00 – 4:30 PM, 8:00 – 9:30 PM'
+      - 'Saturday: 2:00 – 4:30 PM, 8:00 – 9:30 PM'
+      - 'Sunday: 2:00 – 4:30 PM, 7:00 – 8:30 PM'
+    secondaryHoursType: HAPPY_HOUR
+    nextCloseTime: '2025-05-03T23:30:00Z'
+  - openNow: false
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 0
+        close:
+          day: 0
+          hour: 14
+          minute: 0
+      - open:
+          day: 1
+          hour: 11
+          minute: 30
+        close:
+          day: 1
+          hour: 14
+          minute: 0
+      - open:
+          day: 2
+          hour: 11
+          minute: 30
+        close:
+          day: 2
+          hour: 14
+          minute: 0
+      - open:
+          day: 3
+          hour: 11
+          minute: 30
+        close:
+          day: 3
+          hour: 14
+          minute: 0
+      - open:
+          day: 4
+          hour: 11
+          minute: 30
+        close:
+          day: 4
+          hour: 14
+          minute: 0
+      - open:
+          day: 5
+          hour: 11
+          minute: 30
+        close:
+          day: 5
+          hour: 14
+          minute: 0
+      - open:
+          day: 6
+          hour: 11
+          minute: 30
+        close:
+          day: 6
+          hour: 14
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 11:30 AM – 2:00 PM'
+      - 'Tuesday: 11:30 AM – 2:00 PM'
+      - 'Wednesday: 11:30 AM – 2:00 PM'
+      - 'Thursday: 11:30 AM – 2:00 PM'
+      - 'Friday: 11:30 AM – 2:00 PM'
+      - 'Saturday: 11:30 AM – 2:00 PM'
+      - 'Sunday: 12:00 – 2:00 PM'
+    secondaryHoursType: LUNCH
+    nextOpenTime: '2025-05-04T19:00:00Z'
 phone: (623) 561-0023
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.4'
-rating_count: 0
+rating_count: 410
 website: http://www.sushidoraku.us/
+description: >-
+  Experience Sushi Doraku in Peoria, AZ$$$Sushi Doraku in Peoria, AZ, stands out
+  as a welcoming spot for enjoying fresh Japanese cuisine, blending casual vibes
+  with a variety of sushi options that appeal to locals seeking top-rated dining
+  experiences. This sushi restaurant features an array of creative rolls and
+  traditional dishes, enhanced by daily specials that make it a go-to choice for
+  anyone exploring Japanese places near me. With its convenient location in a
+  bustling area, the spot offers accessibility features like wheelchair-friendly
+  entrances and seating, ensuring everyone can savor the flavors without hassle.
+  Happy hour deals add extra value, making it ideal for those looking for
+  affordable yet authentic sushi restaurants in the region. Overall, it's a
+  reliable destination for quality meals that capture the essence of Japanese
+  dining in a relaxed setting.
+generative_summary: >-
+  Experience Sushi Doraku in Peoria, AZ$$$Sushi Doraku in Peoria, AZ, stands out
+  as a welcoming spot for enjoying fresh Japanese cuisine, blending casual vibes
+  with a variety of sushi options that appeal to locals seeking top-rated dining
+  experiences. This sushi restaurant features an array of creative rolls and
+  traditional dishes, enhanced by daily specials that make it a go-to choice for
+  anyone exploring Japanese places near me. With its convenient location in a
+  bustling area, the spot offers accessibility features like wheelchair-friendly
+  entrances and seating, ensuring everyone can savor the flavors without hassle.
+  Happy hour deals add extra value, making it ideal for those looking for
+  affordable yet authentic sushi restaurants in the region. Overall, it's a
+  reliable destination for quality meals that capture the essence of Japanese
+  dining in a relaxed setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Visitor Feedback$$$Visitors to this sushi spot in Peoria often
+  rave about the fresh ingredients and creative presentations that keep things
+  exciting for sushi enthusiasts. Many appreciate the friendly service and
+  reasonable prices, noting that it's a solid pick for groups or casual outings
+  without any major letdowns. While some mention occasional waits during peak
+  times, the overall consensus highlights the tasty rolls and specials as
+  standout features that make it worth returning to. Folks frequently praise the
+  welcoming atmosphere, making it a favorite among those searching for the best
+  sushi near me. In summary, with its strong rating, this place delivers a
+  generally positive experience that's honest and enjoyable for anyone craving
+  Japanese flavors.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +492,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

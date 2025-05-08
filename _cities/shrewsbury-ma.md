@@ -5,4 +5,5 @@ permalink: /massachusetts/shrewsbury/
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Shrewsbury
+
 ---

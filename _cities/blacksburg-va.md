@@ -5,4 +5,5 @@ permalink: /virginia/blacksburg/
 stateAbbr: VA
 stateName: Virginia
 cityName: Blacksburg
+
 ---

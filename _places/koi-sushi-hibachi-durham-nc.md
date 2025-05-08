@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Koi Sushi & Hibachi"
+title: Koi Sushi & Hibachi
 permalink: /north-carolina/durham/koi-sushi-hibachi.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Durham
 seo:
-  name: "Koi Sushi & Hibachi"
-  type: Restaurant
+  type: restaurant
   links: https://koisushihibachi.com/
-description: "Koi Sushi & Hibachi serves delicious sushi in Durham, North Carolina. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJH7xaP0rlrIkRaQ81DMX4uKU
 photos:
   - name: >-
@@ -184,6 +182,31 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 0
 website: https://koisushihibachi.com/
+description: >-
+  Explore Koi Sushi & Hibachi in Durham, NC$$$Koi Sushi & Hibachi in Durham, NC,
+  stands out as a welcoming Japanese restaurant known for its diverse menu
+  featuring all-you-can-eat options that include fresh sushi, sashimi, and
+  flavorful hibachi dishes. The spot offers a casual atmosphere perfect for
+  enjoying affordable Japanese fare, with accessibility features like
+  wheelchair-friendly entrances and seating that make it easy for everyone to
+  dine comfortably. Patrons appreciate the moderate pricing, which provides
+  great value for hearty meals in a lively setting, ideal for those seeking
+  sushi restaurants nearby. Whether you're in the mood for classic rolls or
+  grilled hibachi favorites, this location delivers a satisfying experience that
+  highlights quality ingredients and quick service.
+generative_summary: >-
+  Explore Koi Sushi & Hibachi in Durham, NC$$$Koi Sushi & Hibachi in Durham, NC,
+  stands out as a welcoming Japanese restaurant known for its diverse menu
+  featuring all-you-can-eat options that include fresh sushi, sashimi, and
+  flavorful hibachi dishes. The spot offers a casual atmosphere perfect for
+  enjoying affordable Japanese fare, with accessibility features like
+  wheelchair-friendly entrances and seating that make it easy for everyone to
+  dine comfortably. Patrons appreciate the moderate pricing, which provides
+  great value for hearty meals in a lively setting, ideal for those seeking
+  sushi restaurants nearby. Whether you're in the mood for classic rolls or
+  grilled hibachi favorites, this location delivers a satisfying experience that
+  highlights quality ingredients and quick service.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJH7xaP0rlrIkRaQ81DMX4uKU/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJak5MUDFnRRAB
@@ -443,6 +466,21 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURyZ0l2X0V3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURyZ0l2X0V3EAE!2m1!1s0x89ace54a3f5abc1f:0xa5b8f8c50c350f69
+review_summary: >-
+  Customer Feedback on Koi Sushi & Hibachi$$$Folks generally rave about the
+  fresh and tasty sushi rolls, nigiri, and hibachi selections at this spot,
+  often highlighting how the all-you-can-eat deals offer solid value without
+  breaking the bank. Many appreciate the quick service and attentive staff that
+  keep things running smoothly, even during busy times, making it a go-to choice
+  for casual Japanese dining outings. While most experiences are positive, a few
+  mentions point to occasional issues like tight parking or packaging problems
+  with takeout orders, but these don't overshadow the overall enjoyment.
+  Overall, it's a hit for anyone craving reliable sushi options, with diners
+  frequently noting they'd return for the generous portions and friendly vibe
+  that keep the energy upbeat. If you're exploring top-rated sushi places
+  nearby, this one earns high marks for its approachable prices and flavorful
+  variety.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -472,7 +510,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

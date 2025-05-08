@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Neveyah Thai & Sushi Restaurant"
+title: Neveyah Thai & Sushi Restaurant
 permalink: /florida/orlando/neveyah-thai-sushi-restaurant.html
 stateAbbr: FL
 stateName: Florida
 cityName: Orlando
 seo:
-  name: "Neveyah Thai & Sushi Restaurant"
-  type: Restaurant
+  type: restaurant
   links: https://www.neveyahsushi.com/
-description: "Casual family-operated restaurant preparing classic Thai dishes as well as specialty sushi rolls. Neveyah Thai & Sushi Restaurant serves delicious sushi in Orlando, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJt7m8V-J654gRfBSvZCfb-mo
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 0
 website: https://www.neveyahsushi.com/
+description: >-
+  Explore Neveyah Thai & Sushi in Orlando, FL$$$Neveyah Thai & Sushi Restaurant
+  in Orlando, FL, offers a welcoming blend of traditional Thai flavors and
+  creative sushi options that appeal to those seeking fresh, vibrant cuisine.
+  The spot features a variety of classic dishes alongside inventive rolls, all
+  prepared with high-quality ingredients that highlight bold tastes and
+  satisfying textures. Diners can enjoy a relaxed atmosphere with options for
+  outdoor seating and a selection of beverages, making it ideal for casual meals
+  or group gatherings. Additionally, the restaurant accommodates various dietary
+  preferences, including vegetarian choices, ensuring a versatile dining
+  experience for anyone exploring top sushi spots in the area.
+generative_summary: >-
+  Explore Neveyah Thai & Sushi in Orlando, FL$$$Neveyah Thai & Sushi Restaurant
+  in Orlando, FL, offers a welcoming blend of traditional Thai flavors and
+  creative sushi options that appeal to those seeking fresh, vibrant cuisine.
+  The spot features a variety of classic dishes alongside inventive rolls, all
+  prepared with high-quality ingredients that highlight bold tastes and
+  satisfying textures. Diners can enjoy a relaxed atmosphere with options for
+  outdoor seating and a selection of beverages, making it ideal for casual meals
+  or group gatherings. Additionally, the restaurant accommodates various dietary
+  preferences, including vegetarian choices, ensuring a versatile dining
+  experience for anyone exploring top sushi spots in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJt7m8V-J654gRfBSvZCfb-mo/reviews/ChZDSUhNMG9nS0VJQ0FnSURIdXF5U1h3EAE
@@ -402,6 +423,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNRdk5xc0dREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNRdk5xc0dREAE!2m1!1s0x88e77ae257bcb9b7:0x6afadb2764af147c
+review_summary: >-
+  What Customers Are Buzzing About$$$Visitors to this Orlando favorite often
+  praise the fresh sushi and flavorful Thai dishes, noting how the quality
+  stands out in a city full of great options for Asian-inspired eats. Many
+  highlight the generous portions and tasty appetizers that add a fun start to
+  the meal, while the attentive service keeps the overall vibe enjoyable and
+  stress-free. Though a few mentions point to minor inconsistencies with certain
+  sauces, the general consensus leans toward delicious, well-prepared food that
+  leaves people satisfied and eager to return. If you're on the hunt for
+  reliable sushi near you, this place delivers a solid mix of hits that make it
+  worth checking out for a laid-back night. Overall, it's a go-to choice for
+  anyone wanting quality dining without the fuss.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   paidParkingLot: true
@@ -435,8 +469,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Casual family-operated restaurant preparing classic Thai dishes as well as
   specialty sushi rolls.
 

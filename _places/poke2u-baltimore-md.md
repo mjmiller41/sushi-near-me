@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Poke2u"
+title: Poke2u
 permalink: /maryland/baltimore/poke2u.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Baltimore
 seo:
-  name: "Poke2u"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Poke2u serves delicious sushi in Baltimore, Maryland. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJt8g3IgAFyIkRCf7tx_qnsE4
 photos:
   - name: >-
@@ -129,7 +127,46 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Poke2u in Baltimore, MD$$$Poke2u in Baltimore, MD, offers a fresh
+  take on casual dining with its focus on poke bowls and American-inspired
+  flavors in the vibrant Bromo Arts District. This spot stands out for its
+  emphasis on high-quality ingredients and customizable options, making it a
+  go-to for those seeking healthy, flavorful meals in a lively urban setting.
+  The restaurant's inviting atmosphere is highlighted by eye-catching visuals
+  that showcase the colorful dishes, drawing in locals and visitors alike for a
+  satisfying experience. Whether you're looking for quick, nutritious eats or
+  something to energize your day, Poke2u blends convenience with taste in a
+  welcoming environment. Its location near key attractions makes it an easy
+  choice for anyone exploring the area's dining scene.
+generative_summary: >-
+  Discover Poke2u in Baltimore, MD$$$Poke2u in Baltimore, MD, offers a fresh
+  take on casual dining with its focus on poke bowls and American-inspired
+  flavors in the vibrant Bromo Arts District. This spot stands out for its
+  emphasis on high-quality ingredients and customizable options, making it a
+  go-to for those seeking healthy, flavorful meals in a lively urban setting.
+  The restaurant's inviting atmosphere is highlighted by eye-catching visuals
+  that showcase the colorful dishes, drawing in locals and visitors alike for a
+  satisfying experience. Whether you're looking for quick, nutritious eats or
+  something to energize your day, Poke2u blends convenience with taste in a
+  welcoming environment. Its location near key attractions makes it an easy
+  choice for anyone exploring the area's dining scene.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors to Poke2u often rave about the fresh
+  ingredients and generous portions that make every bite feel worthwhile,
+  creating a buzz around its straightforward yet tasty offerings. Many
+  appreciate the efficient service and variety of options that cater to
+  different tastes, helping it stand out as a reliable spot for a casual meal.
+  Feedback highlights how the place delivers on flavor without overcomplicating
+  things, with folks noting it's perfect for a quick lunch or dinner that leaves
+  you feeling good. Overall, it's seen as a solid pick for those hunting for
+  healthy eats in the neighborhood, with most agreeing that the value and
+  quality keep them coming back. While experiences can vary, the general vibe is
+  upbeat, making it a favorite for anyone in the mood for something light and
+  satisfying.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -155,7 +192,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

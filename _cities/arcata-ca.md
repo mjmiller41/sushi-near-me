@@ -5,4 +5,5 @@ permalink: /california/arcata/
 stateAbbr: CA
 stateName: California
 cityName: Arcata
+
 ---

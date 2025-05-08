@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Nakazawa"
+title: Sushi Nakazawa
 permalink: /new-york/new-york/sushi-nakazawa.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "Sushi Nakazawa"
-  type: Restaurant
+  type: restaurant
   links: http://sushinakazawa.com/
-description: "Destination sushi spot for high-end omakase (multicourse, chef's choice meals) in spare digs. Sushi Nakazawa serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for, lunch, and dinner."
 place_id: ChIJsw80F5NZwokRcDtxajLLOeA
 photos:
   - name: >-
@@ -182,6 +180,33 @@ price_range: $100 &ndash; & up
 rating: '4.5'
 rating_count: 0
 website: http://sushinakazawa.com/
+description: >-
+  Experience Sushi Nakazawa in New York, NY$$$Sushi Nakazawa in New York, NY,
+  stands out as a premier spot for authentic Japanese dining, offering a refined
+  omakase experience that highlights meticulously prepared nigiri-style pieces
+  made with the freshest seasonal ingredients. This intimate eatery captures the
+  essence of traditional sushi artistry, where every course is thoughtfully
+  curated to deliver a harmonious blend of flavors and textures, making it ideal
+  for those seeking a sophisticated meal in a welcoming setting. Patrons can
+  enjoy a chef-driven menu that emphasizes quality and precision, perfect for
+  anyone exploring top sushi options in the area. Whether you're in the mood for
+  a special evening out or simply craving high-quality Japanese cuisine nearby,
+  this establishment delivers an elegant yet approachable atmosphere that
+  elevates the overall experience.
+generative_summary: >-
+  Experience Sushi Nakazawa in New York, NY$$$Sushi Nakazawa in New York, NY,
+  stands out as a premier spot for authentic Japanese dining, offering a refined
+  omakase experience that highlights meticulously prepared nigiri-style pieces
+  made with the freshest seasonal ingredients. This intimate eatery captures the
+  essence of traditional sushi artistry, where every course is thoughtfully
+  curated to deliver a harmonious blend of flavors and textures, making it ideal
+  for those seeking a sophisticated meal in a welcoming setting. Patrons can
+  enjoy a chef-driven menu that emphasizes quality and precision, perfect for
+  anyone exploring top sushi options in the area. Whether you're in the mood for
+  a special evening out or simply craving high-quality Japanese cuisine nearby,
+  this establishment delivers an elegant yet approachable atmosphere that
+  elevates the overall experience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJsw80F5NZwokRcDtxajLLOeA/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3cGZPSHRBRRAB
@@ -357,6 +382,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURmdlBMQmpBRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURmdlBMQmpBRRAB!2m1!1s0x89c2599317340fb3:0xe039cb326a713b70
+review_summary: >-
+  Highlights from Recent Feedback$$$Visitors often rave about the outstanding
+  omakase offerings at this sushi spot, noting the incredibly fresh fish and
+  well-balanced flavors that make every bite feel special and satisfying. Folks
+  appreciate the attentive service and cozy, intimate vibe that turns a simple
+  meal into a memorable event, with staff going the extra mile to ensure
+  everything runs smoothly. Many highlight how the restaurant handles dietary
+  needs thoughtfully, adding to its appeal for a wider crowd looking for
+  reliable Japanese dining experiences. Overall, it's praised as a go-to choice
+  for quality sushi in a relaxed yet refined environment, though it's best
+  suited for those okay with a higher price point for the premium touches. If
+  you're hunting for solid sushi nearby, this place consistently delivers on
+  taste and hospitality without any major letdowns.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: false
   valetParking: false
@@ -388,8 +427,8 @@ serves_lunch: true
 serves_vegetarian_food: false
 serves_wine: true
 takeout: false
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Destination sushi spot for high-end omakase (multicourse, chef's choice meals)
   in spare digs.
 

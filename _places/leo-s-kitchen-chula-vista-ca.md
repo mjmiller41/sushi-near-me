@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Leo's Kitchen"
+title: Leo's Kitchen
 permalink: /california/chula-vista/leo-s-kitchen.html
 stateAbbr: CA
 stateName: California
 cityName: Chula Vista
 seo:
-  name: "Leo's Kitchen"
-  type: Restaurant
+  type: restaurant
   links: https://leoskitchen.net/
-description: "Leo's Kitchen serves delicious sushi in Chula Vista, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ-SVZitlP2YARgyq7F9T0ims
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80d94fd98a5925f9:0x6b8af4d417bb2a83!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 14
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 20
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 8:00 PM'
     - 'Tuesday: 11:00 AM – 8:00 PM'
     - 'Wednesday: 11:00 AM – 8:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:00 PM'
     - 'Saturday: 11:00 AM – 9:00 PM'
     - 'Sunday: 2:00 – 8:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 8:00 PM'
-    - 'Tuesday: 11:00 AM – 8:00 PM'
-    - 'Wednesday: 11:00 AM – 8:00 PM'
-    - 'Thursday: 11:00 AM – 8:00 PM'
-    - 'Friday: 11:00 AM – 9:00 PM'
-    - 'Saturday: 11:00 AM – 9:00 PM'
-    - 'Sunday: 2:00 – 8:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,337 @@ phone: (619) 271-2731
 price_level: null
 price_range: $10 &ndash; $20
 rating: '4.4'
-rating_count: 0
+rating_count: 119
 website: https://leoskitchen.net/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Leo's Kitchen in Chula Vista, CA$$$Leo's Kitchen in Chula Vista, CA,
+  stands out as a welcoming sushi spot that combines a relaxed vibe with fresh,
+  flavorful rolls and specialty plates designed for diverse tastes. This eatery
+  highlights a variety of vegan options alongside creative dishes, making it an
+  ideal choice for those searching for sushi near me who appreciate inclusive
+  and high-quality Japanese-inspired cuisine. With accessibility features like
+  wheelchair-friendly entrances and seating, it ensures everyone can enjoy the
+  experience comfortably, while happy-hour specials add extra value for casual
+  diners. The menu's emphasis on fresh ingredients and thoughtful preparations
+  creates a satisfying meal, perfect for anyone exploring top-rated sushi
+  restaurants in the area.
+generative_summary: >-
+  Discover Leo's Kitchen in Chula Vista, CA$$$Leo's Kitchen in Chula Vista, CA,
+  stands out as a welcoming sushi spot that combines a relaxed vibe with fresh,
+  flavorful rolls and specialty plates designed for diverse tastes. This eatery
+  highlights a variety of vegan options alongside creative dishes, making it an
+  ideal choice for those searching for sushi near me who appreciate inclusive
+  and high-quality Japanese-inspired cuisine. With accessibility features like
+  wheelchair-friendly entrances and seating, it ensures everyone can enjoy the
+  experience comfortably, while happy-hour specials add extra value for casual
+  diners. The menu's emphasis on fresh ingredients and thoughtful preparations
+  creates a satisfying meal, perfect for anyone exploring top-rated sushi
+  restaurants in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ-SVZitlP2YARgyq7F9T0ims/reviews/ChZDSUhNMG9nS0VJQ0FnSURyNUtEWVZBEAE
+    relativePublishTimeDescription: 9 months ago
+    rating: 5
+    text:
+      text: >-
+        This was our second visit at Leo's Kitchen in Otay Ranch on 6/10/24. We
+        were greeted by a friendly waitress right away, the service is always
+        nice, and with a clean and pleasant environment. We ordered the calamari
+        which was fresh, hot, and crispy the way we like. We also each ordered
+        some of their specialty rolls and they were very delicious and
+        satisfying, as well as some flavorful Yuki Nigori Mango Sake to wash it
+        all down! We love this place, anytime we crave sushi, this is the spot!
+      languageCode: en
+    originalText:
+      text: >-
+        This was our second visit at Leo's Kitchen in Otay Ranch on 6/10/24. We
+        were greeted by a friendly waitress right away, the service is always
+        nice, and with a clean and pleasant environment. We ordered the calamari
+        which was fresh, hot, and crispy the way we like. We also each ordered
+        some of their specialty rolls and they were very delicious and
+        satisfying, as well as some flavorful Yuki Nigori Mango Sake to wash it
+        all down! We love this place, anytime we crave sushi, this is the spot!
+      languageCode: en
+    authorAttribution:
+      displayName: Resa D
+      uri: https://www.google.com/maps/contrib/115112690750343843014/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUAZrXQ3mso1vwSGZ8ldd2nUikO0rWSgvVvmw3KTTtuuf4Ng-075Q=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-07-15T06:02:50.102268Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURyNUtEWVZBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURyNUtEWVZBEAE!2m1!1s0x80d94fd98a5925f9:0x6b8af4d417bb2a83
+  - name: >-
+      places/ChIJ-SVZitlP2YARgyq7F9T0ims/reviews/ChdDSUhNMG9nS0VJQ0FnSURIX0tXaXB3RRAB
+    relativePublishTimeDescription: 7 months ago
+    rating: 4
+    text:
+      text: >-
+        Ordered take out from Leo’s Kitchen and we were grateful the food didn’t
+        disappoint. The items we ordered were:
+
+
+        Hot Cheeto roll: spicy crab, cucumber, avocado, covered in hot Cheeto
+        crumbs, spicy mayo, siracha dots - the roll tasted good, but the hot
+        cheeto crumb didn’t really add spiciness or enhance the flavor of the
+        roll.
+
+
+        SD Roll: cream cheese, avocado, salmon, tempura fried, topped with
+        jalapeño, spicy mayo, siracha dot and eel sauce - we loved the
+        creaminess and how each flavor complimented the other.
+
+
+        Tiger roll: cucumber, avocado, crab, shrimp tempura topped with avocado,
+        eel sauce, spicy mayo and sesame seeds - something fried, something
+        sweet and something spicy. What more do you need?
+
+
+        OMG roll: cucumber, avocado, crab, shrimp tempura, topped with spicy
+        crab, jalapeño, eel sauce and sesame seeds - simple but still tasty.
+
+
+        Kids teriyaki bowl - the teriyaki sauce was balanced, the chicken cooked
+        well and the veggies fresh.
+
+
+        We paid roughly $88.60 (with tip). Leo’s Kitchen deserves a return visit
+        and next time, we will dine in, especially since staff during pick up
+        was helpful and friendly
+      languageCode: en
+    originalText:
+      text: >-
+        Ordered take out from Leo’s Kitchen and we were grateful the food didn’t
+        disappoint. The items we ordered were:
+
+
+        Hot Cheeto roll: spicy crab, cucumber, avocado, covered in hot Cheeto
+        crumbs, spicy mayo, siracha dots - the roll tasted good, but the hot
+        cheeto crumb didn’t really add spiciness or enhance the flavor of the
+        roll.
+
+
+        SD Roll: cream cheese, avocado, salmon, tempura fried, topped with
+        jalapeño, spicy mayo, siracha dot and eel sauce - we loved the
+        creaminess and how each flavor complimented the other.
+
+
+        Tiger roll: cucumber, avocado, crab, shrimp tempura topped with avocado,
+        eel sauce, spicy mayo and sesame seeds - something fried, something
+        sweet and something spicy. What more do you need?
+
+
+        OMG roll: cucumber, avocado, crab, shrimp tempura, topped with spicy
+        crab, jalapeño, eel sauce and sesame seeds - simple but still tasty.
+
+
+        Kids teriyaki bowl - the teriyaki sauce was balanced, the chicken cooked
+        well and the veggies fresh.
+
+
+        We paid roughly $88.60 (with tip). Leo’s Kitchen deserves a return visit
+        and next time, we will dine in, especially since staff during pick up
+        was helpful and friendly
+      languageCode: en
+    authorAttribution:
+      displayName: Sarah Cordial
+      uri: https://www.google.com/maps/contrib/111172541469038304276/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjV0CTM3c9JFGzEedbJehDeB8TPv2vUDx7SM3yEc5S8fpyTLur6wPg=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-09-13T19:22:02.779134Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURIX0tXaXB3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURIX0tXaXB3RRAB!2m1!1s0x80d94fd98a5925f9:0x6b8af4d417bb2a83
+  - name: >-
+      places/ChIJ-SVZitlP2YARgyq7F9T0ims/reviews/ChZDSUhNMG9nS0VJQ0FnTURvbUxmZkx3EAE
+    relativePublishTimeDescription: a week ago
+    rating: 2
+    text:
+      text: >-
+        Visited on 4/21/25 between 11am and 12pm. The host/server needs more
+        customer service skills. Seems like she doesnt want to be there which is
+        understandable with any job but make an effort. She has a very "dry"
+        personality.That kind of pressence deters people from coming back. The
+        ramen is no bueno. Stick to sushi. The noodles were undercooked and
+        chewy. I was looking forward to finishing my meal and leaving ASAP. Not
+        a place I'd recommend to friends and family. The server needs some
+        coaching or look for a different job.
+      languageCode: en
+    originalText:
+      text: >-
+        Visited on 4/21/25 between 11am and 12pm. The host/server needs more
+        customer service skills. Seems like she doesnt want to be there which is
+        understandable with any job but make an effort. She has a very "dry"
+        personality.That kind of pressence deters people from coming back. The
+        ramen is no bueno. Stick to sushi. The noodles were undercooked and
+        chewy. I was looking forward to finishing my meal and leaving ASAP. Not
+        a place I'd recommend to friends and family. The server needs some
+        coaching or look for a different job.
+      languageCode: en
+    authorAttribution:
+      displayName: Fernando Jimenez
+      uri: https://www.google.com/maps/contrib/107036648547698453980/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKoWe_fY4oKs3JJhfhL5RnkohYnjrraFwML3JDC6kZmFC3Tsw=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-21T19:01:27.740837Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURvbUxmZkx3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURvbUxmZkx3EAE!2m1!1s0x80d94fd98a5925f9:0x6b8af4d417bb2a83
+  - name: >-
+      places/ChIJ-SVZitlP2YARgyq7F9T0ims/reviews/ChZDSUhNMG9nS0VJQ0FnTURBdGZHLVRREAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        I LOVE this sushi spot! The moment you take a bite, you can tell they
+        only use the freshest ingredients. The flavors are incredible, and you
+        can taste the quality.
+
+
+        Their menu is super diverse, with vegan options that are so good, even
+        non-vegans will love them! There's something for everyone here.
+
+
+        Happy hour is a must-try - their menu is amazing, and the prices are
+        unbeatable!
+
+
+        Personally, I'm hooked on the Chula Vista roll, but honestly, everything
+        I've tried has been top-notch. The chefs here are talented, and it shows
+        in every dish. They also have by request the boat platter that fits
+        different rolls which is really cool!
+
+
+        If you're a sushi lover like me, or just looking something new, this
+        place is a must-visit!
+
+
+        I Highly recommend Leos Kitchen!
+      languageCode: en
+    originalText:
+      text: >-
+        I LOVE this sushi spot! The moment you take a bite, you can tell they
+        only use the freshest ingredients. The flavors are incredible, and you
+        can taste the quality.
+
+
+        Their menu is super diverse, with vegan options that are so good, even
+        non-vegans will love them! There's something for everyone here.
+
+
+        Happy hour is a must-try - their menu is amazing, and the prices are
+        unbeatable!
+
+
+        Personally, I'm hooked on the Chula Vista roll, but honestly, everything
+        I've tried has been top-notch. The chefs here are talented, and it shows
+        in every dish. They also have by request the boat platter that fits
+        different rolls which is really cool!
+
+
+        If you're a sushi lover like me, or just looking something new, this
+        place is a must-visit!
+
+
+        I Highly recommend Leos Kitchen!
+      languageCode: en
+    authorAttribution:
+      displayName: Anabel Ortega
+      uri: https://www.google.com/maps/contrib/105766344282674669681/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKZseJdrf8aoVViGfJTPhGNJZmobGzUu4WeMRoDwS2IStCG3w=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-02-10T21:09:23.291799Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURBdGZHLVRREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURBdGZHLVRREAE!2m1!1s0x80d94fd98a5925f9:0x6b8af4d417bb2a83
+  - name: >-
+      places/ChIJ-SVZitlP2YARgyq7F9T0ims/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3czlYZURBEAE
+    relativePublishTimeDescription: a month ago
+    rating: 1
+    text:
+      text: >-
+        Went here yesterday for my birthday. Waitress acted as if she didn’t
+        even want to be there and acted like it was a chore to serve my older
+        boyfriend and I. Did not smile at us once. The only time I saw her smile
+        was when she was exchanging judgmental glances with the chefs in front
+        of my boyfriend and I. I’ve never felt more unwelcome and judged at a
+        restaurant before. The atmosphere was void of life. We had to ask for
+        soy sauce which is strange because that’s never happened at any sushi
+        restaurant I’ve been to in the past. Spicy Tuna Roll was bitter, but Hot
+        Cheeto Roll was good. Edamame was alright, but I’ve had it much better
+        at other locations. Not worth it and I will never go back.
+      languageCode: en
+    originalText:
+      text: >-
+        Went here yesterday for my birthday. Waitress acted as if she didn’t
+        even want to be there and acted like it was a chore to serve my older
+        boyfriend and I. Did not smile at us once. The only time I saw her smile
+        was when she was exchanging judgmental glances with the chefs in front
+        of my boyfriend and I. I’ve never felt more unwelcome and judged at a
+        restaurant before. The atmosphere was void of life. We had to ask for
+        soy sauce which is strange because that’s never happened at any sushi
+        restaurant I’ve been to in the past. Spicy Tuna Roll was bitter, but Hot
+        Cheeto Roll was good. Edamame was alright, but I’ve had it much better
+        at other locations. Not worth it and I will never go back.
+      languageCode: en
+    authorAttribution:
+      displayName: Trinity L
+      uri: https://www.google.com/maps/contrib/101577764337875684233/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVCgSyT7GFYXdh2ECTCp8lfnidt5E6eQXFf8TWFmrF9AhzXiGZolA=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-21T03:07:00.129085Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUN3czlYZURBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUN3czlYZURBEAE!2m1!1s0x80d94fd98a5925f9:0x6b8af4d417bb2a83
+review_summary: >-
+  What Customers Are Saying About the Experience$$$Folks rave about the fresh
+  flavors and creative rolls at this spot, often highlighting how the variety
+  keeps things exciting for sushi lovers on the hunt for something new nearby.
+  While most feedback praises the tasty options and great value during happy
+  hour, a few mentions point to occasional inconsistencies in service that could
+  use some smoothing out. Overall, the consensus leans positive, with many
+  appreciating the inclusive menu that caters to different preferences, making
+  it a go-to for groups or families. If you're seeking reliable sushi places
+  near me, this location delivers solid satisfaction with its flavorful dishes,
+  though it's worth noting that sticking to the sushi might be the best bet
+  based on mixed comments about other items.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsCashOnly: false
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
+delivery: true
+dine_in: true
+good_for_children: true
 good_for_groups: null
 good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+live_music: false
+menu_for_children: true
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
 serves_breakfast: null
 serves_brunch: null
 serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
 serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

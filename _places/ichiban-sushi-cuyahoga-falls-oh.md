@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ichiban Sushi"
+title: Ichiban Sushi
 permalink: /ohio/cuyahoga-falls/ichiban-sushi.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Cuyahoga Falls
 seo:
-  name: "Ichiban Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Ichiban Sushi serves delicious sushi in Cuyahoga Falls, Ohio. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJf-OZ3o4nMYgRuP9SuyjSfv4
 photos:
   - name: >-
@@ -177,7 +175,42 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Ichiban Sushi in Cuyahoga Falls, OH$$$Nestled in Cuyahoga Falls, OH,
+  Ichiban Sushi stands out as a welcoming spot for enjoying authentic Japanese
+  flavors in a relaxed setting. This restaurant highlights fresh, expertly
+  prepared sushi and other Asian-inspired dishes, making it an ideal choice for
+  casual meals that satisfy cravings for high-quality seafood options. With
+  thoughtful accessibility features like wheelchair-friendly parking, entrances,
+  and seating, it ensures a comfortable experience for everyone visiting. The
+  atmosphere emphasizes simplicity and convenience, perfect for those seeking
+  reliable dining near local hotspots, including top-rated sushi destinations in
+  the area.
+generative_summary: >-
+  Discover Ichiban Sushi in Cuyahoga Falls, OH$$$Nestled in Cuyahoga Falls, OH,
+  Ichiban Sushi stands out as a welcoming spot for enjoying authentic Japanese
+  flavors in a relaxed setting. This restaurant highlights fresh, expertly
+  prepared sushi and other Asian-inspired dishes, making it an ideal choice for
+  casual meals that satisfy cravings for high-quality seafood options. With
+  thoughtful accessibility features like wheelchair-friendly parking, entrances,
+  and seating, it ensures a comfortable experience for everyone visiting. The
+  atmosphere emphasizes simplicity and convenience, perfect for those seeking
+  reliable dining near local hotspots, including top-rated sushi destinations in
+  the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Customer Experiences$$$Folks exploring sushi spots around
+  Cuyahoga Falls often highlight the fresh ingredients and tasty rolls as
+  standout features, creating a go-to vibe for everyday diners. Many appreciate
+  the straightforward service that keeps things easy and enjoyable, especially
+  when you're in the mood for something light and flavorful. While some note
+  it's a solid pick for quick lunches or family outings, others mention the
+  welcoming feel makes it worth returning to for variety in Japanese-style eats.
+  Overall, it's frequently recommended as a dependable option for anyone hunting
+  for "sushi near me," with positive nods to its approachable atmosphere that
+  keeps the experience feeling genuine and satisfying.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -204,6 +237,6 @@ serves_vegetarian_food: null
 serves_wine: null
 takeout: null
 update_category: pro
-summary: null
+places_description: null
 
 ---

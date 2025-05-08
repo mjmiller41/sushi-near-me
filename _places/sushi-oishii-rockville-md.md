@@ -1,15 +1,14 @@
 ---
 layout: place
-title: "Sushi Oishii"
+title: Sushi Oishii
 permalink: /maryland/rockville/sushi-oishii.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Rockville
 seo:
-  name: "Sushi Oishii"
-  type: Restaurant
-  links: https://www.sushioishii.online/order?utm_source=googlemap&utm_medium=click&utm_campaign=orderrefer&sid=752176627143851520
-description: "Mainstay with traditional, minimalist decor known for inventive sushi & Japanese fare with a twist. Sushi Oishii serves delicious sushi in Rockville, Maryland. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
+  type: restaurant
+  links: >-
+    https://www.sushioishii.online/order?utm_source=googlemap&utm_medium=click&utm_campaign=orderrefer&sid=752176627143851520
 place_id: ChIJ9ytUobcytokRqm_02RzPgNM
 photos:
   - name: >-
@@ -186,6 +185,27 @@ rating: '4.3'
 rating_count: 0
 website: >-
   https://www.sushioishii.online/order?utm_source=googlemap&utm_medium=click&utm_campaign=orderrefer&sid=752176627143851520
+description: >-
+  Discover Sushi Oishii in Rockville, MD$$$Sushi Oishii in Rockville, MD, offers
+  a welcoming spot for enjoying fresh sushi and innovative Japanese dishes in a
+  minimalist setting. The restaurant features inventive rolls and traditional
+  fare with creative twists, making it a standout choice for those seeking
+  quality Asian cuisine. With accessible entrances, outdoor seating, and options
+  for groups or families, it caters to a variety of diners looking for a relaxed
+  meal. Moderately priced and focused on fresh ingredients, this spot stands out
+  among local sushi options, ideal for anyone exploring top-rated Japanese
+  places nearby.
+generative_summary: >-
+  Discover Sushi Oishii in Rockville, MD$$$Sushi Oishii in Rockville, MD, offers
+  a welcoming spot for enjoying fresh sushi and innovative Japanese dishes in a
+  minimalist setting. The restaurant features inventive rolls and traditional
+  fare with creative twists, making it a standout choice for those seeking
+  quality Asian cuisine. With accessible entrances, outdoor seating, and options
+  for groups or families, it caters to a variety of diners looking for a relaxed
+  meal. Moderately priced and focused on fresh ingredients, this spot stands out
+  among local sushi options, ideal for anyone exploring top-rated Japanese
+  places nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ9ytUobcytokRqm_02RzPgNM/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3eXVPdTlBRRAB
@@ -401,6 +421,17 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUROb0thYkJnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUROb0thYkJnEAE!2m1!1s0x89b632b7a1542bf7:0xd380cf1cd9f46faa
+review_summary: >-
+  What Guests Are Saying$$$Folks visiting this sushi spot often rave about the
+  fresh, well-prepared rolls and dishes that deliver great flavors at a solid
+  value. Many highlight the attentive service and cozy atmosphere that make
+  dining out feel effortless and enjoyable. While most feedback focuses on the
+  high-quality sashimi and creative presentations, a few mention minor issues
+  with ingredient substitutions that didn't quite meet expectations. Overall,
+  it's a go-to for sushi enthusiasts who appreciate reliable options and a
+  welcoming vibe, encouraging repeat visits for anyone hunting for tasty meals
+  in the area.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -433,8 +464,8 @@ serves_lunch: true
 serves_vegetarian_food: false
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Mainstay with traditional, minimalist decor known for inventive sushi &
   Japanese fare with a twist.
 

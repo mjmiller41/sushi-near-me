@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Remix - Midland"
+title: Sushi Remix - Midland
 permalink: /michigan/midland/sushi-remix-midland.html
 stateAbbr: MI
 stateName: Michigan
 cityName: Midland
 seo:
-  name: "Sushi Remix - Midland"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi Remix - Midland serves delicious sushi in Midland, Michigan. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJI8zWVsTVI4gRX3MVAHPiSp4
 photos:
   - name: >-
@@ -185,7 +183,47 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Explore Sushi Remix in Midland, MI$$$Sushi Remix in Midland, MI, stands out as
+  a welcoming sushi restaurant offering a variety of fresh Japanese-inspired
+  dishes that highlight quality ingredients and creative flavors. This spot is
+  known for its delicious poke bowls and sushi options, featuring vibrant
+  combinations of seafood and rice that appeal to those seeking authentic tastes
+  in a casual setting. The restaurant prioritizes accessibility, with features
+  like wheelchair-friendly parking and entrances, making it easier for everyone
+  to enjoy a meal. Additionally, its efficient service and inviting atmosphere
+  make it a go-to choice for anyone looking for sushi restaurants near you that
+  blend convenience with culinary excellence. Whether you're in the mood for a
+  quick bite or a relaxed dining experience, Sushi Remix delivers on freshness
+  and variety that keeps locals coming back.
+generative_summary: >-
+  Explore Sushi Remix in Midland, MI$$$Sushi Remix in Midland, MI, stands out as
+  a welcoming sushi restaurant offering a variety of fresh Japanese-inspired
+  dishes that highlight quality ingredients and creative flavors. This spot is
+  known for its delicious poke bowls and sushi options, featuring vibrant
+  combinations of seafood and rice that appeal to those seeking authentic tastes
+  in a casual setting. The restaurant prioritizes accessibility, with features
+  like wheelchair-friendly parking and entrances, making it easier for everyone
+  to enjoy a meal. Additionally, its efficient service and inviting atmosphere
+  make it a go-to choice for anyone looking for sushi restaurants near you that
+  blend convenience with culinary excellence. Whether you're in the mood for a
+  quick bite or a relaxed dining experience, Sushi Remix delivers on freshness
+  and variety that keeps locals coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Recent Feedback$$$Folks who've tried Sushi Remix often rave
+  about the tasty poke bowls packed with fresh ingredients like shrimp, chicken,
+  and spicy tuna, making it a solid pick for anyone craving satisfying Japanese
+  flavors. Many appreciate the friendly team and their helpful advice, which
+  adds a nice touch to the overall vibe without overwhelming the experience.
+  Service is frequently described as speedy and straightforward, ideal for those
+  on the go or exploring top-rated sushi options in the area. Overall, it's
+  clear that this place hits the mark for quality and ease, earning nods for
+  being a reliable spot that doesn't skimp on taste or hospitality. If you're
+  hunting for sushi close to you, the consistent positives around fresh meals
+  and welcoming service make it worth a visit.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +249,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -5,4 +5,5 @@ permalink: /georgia/duluth/
 stateAbbr: GA
 stateName: Georgia
 cityName: Duluth
+
 ---

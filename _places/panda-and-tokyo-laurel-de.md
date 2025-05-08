@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Panda And Tokyo"
+title: Panda And Tokyo
 permalink: /delaware/laurel/panda-and-tokyo.html
 stateAbbr: DE
 stateName: Delaware
 cityName: Laurel
 seo:
-  name: "Panda And Tokyo"
-  type: Restaurant
+  type: restaurant
   links: https://www.ezordernow.com/pandatokyode
-description: "Panda And Tokyo serves delicious sushi in Laurel, Delaware. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJEQfP7I76uIkR5qwvixG4F_s
 photos:
   - name: >-
@@ -184,6 +182,29 @@ price_range: $10 &ndash; $20
 rating: '3.8'
 rating_count: 0
 website: https://www.ezordernow.com/pandatokyode
+description: >-
+  Discover Panda And Tokyo in Laurel, Delaware$$$Panda And Tokyo in Laurel,
+  Delaware, offers a relaxed dining experience with a menu featuring fresh egg
+  rolls, sushi, and dumplings alongside other Chinese-inspired dishes. This spot
+  stands out for its laid-back atmosphere, making it an ideal choice for those
+  seeking casual sushi restaurants near you in a welcoming environment. With
+  accessibility features like wheelchair-friendly entrances and parking, it's
+  designed to accommodate a variety of visitors looking for convenient Japanese
+  and Chinese places nearby. The variety of fare ensures options for different
+  tastes, from light appetizers to satisfying mains, appealing to anyone
+  exploring top-rated sushi options in the area.
+generative_summary: >-
+  Discover Panda And Tokyo in Laurel, Delaware$$$Panda And Tokyo in Laurel,
+  Delaware, offers a relaxed dining experience with a menu featuring fresh egg
+  rolls, sushi, and dumplings alongside other Chinese-inspired dishes. This spot
+  stands out for its laid-back atmosphere, making it an ideal choice for those
+  seeking casual sushi restaurants near you in a welcoming environment. With
+  accessibility features like wheelchair-friendly entrances and parking, it's
+  designed to accommodate a variety of visitors looking for convenient Japanese
+  and Chinese places nearby. The variety of fare ensures options for different
+  tastes, from light appetizers to satisfying mains, appealing to anyone
+  exploring top-rated sushi options in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJEQfP7I76uIkR5qwvixG4F_s/reviews/ChZDSUhNMG9nS0VJQ0FnSURBNHJtS0V3EAE
@@ -329,6 +350,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNzNjRpR2VBEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNzNjRpR2VBEAE!2m1!1s0x89b8fa8eeccf0711:0xfb17b8118b2face6
+review_summary: >-
+  What Customers Are Sharing About the Experience$$$Folks often highlight the
+  tasty food and reliable orders as a big plus when visiting this spot, making
+  it a solid go-to for local sushi lovers. While some mention occasional
+  slip-ups like missing items or inconsistent flavors, the overall vibe keeps
+  things approachable for a quick meal. Many appreciate the convenience of
+  takeout and delivery, adding to the ease of enjoying Chinese and Japanese
+  dishes without much fuss. It's clear that the friendly setup draws repeat
+  crowds, though a few suggest checking for freshness to ensure the best bite.
+  All in all, if you're on the hunt for sushi near Laurel, this place delivers a
+  mix of hits that keep the experience generally upbeat.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -361,7 +394,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

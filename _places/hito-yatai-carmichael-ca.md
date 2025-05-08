@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "HITO YATAI"
+title: HITO YATAI
 permalink: /california/carmichael/hito-yatai.html
 stateAbbr: CA
 stateName: California
 cityName: Carmichael
 seo:
-  name: "HITO YATAI"
-  type: Restaurant
+  type: restaurant
   links: http://hitoyatai.com/
-description: "HITO YATAI serves delicious sushi in Carmichael, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJg0dfW5ffmoAR9oGV9o0ReK4
 photos:
   - name: >-
@@ -170,7 +168,49 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x809adf975b5f4783:0xae78118df69581f6!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 16
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 4:00 – 9:00 PM'
     - 'Wednesday: 4:00 – 9:00 PM'
@@ -178,14 +218,7 @@ opening_hours:
     - 'Friday: 4:00 – 9:00 PM'
     - 'Saturday: 4:00 – 9:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 4:00 – 9:00 PM'
-    - 'Wednesday: 4:00 – 9:00 PM'
-    - 'Thursday: 4:00 – 9:00 PM'
-    - 'Friday: 4:00 – 9:00 PM'
-    - 'Saturday: 4:00 – 9:00 PM'
-    - 'Sunday: Closed'
+  nextOpenTime: '2025-05-03T23:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +230,43 @@ phone: (916) 331-7300
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.8'
-rating_count: 0
+rating_count: 75
 website: http://hitoyatai.com/
+description: >-
+  Discover HITO YATAI in Carmichael, California$$$HITO YATAI in Carmichael,
+  California, offers a welcoming spot for enjoying authentic Japanese flavors in
+  a laid-back setting. This eatery specializes in fresh sushi rolls and nigiri,
+  paired with an array of small plates that highlight quality ingredients and
+  traditional techniques. Visitors can savor a variety of beverages, including
+  sake and wine, making it a great choice for casual dinners or intimate
+  gatherings. The accessible features, like wheelchair-friendly entrances and
+  seating, ensure a comfortable experience for all. With its focus on simple yet
+  elegant dishes, it's an ideal destination for those seeking top-notch Japanese
+  cuisine nearby.
+generative_summary: >-
+  Discover HITO YATAI in Carmichael, California$$$HITO YATAI in Carmichael,
+  California, offers a welcoming spot for enjoying authentic Japanese flavors in
+  a laid-back setting. This eatery specializes in fresh sushi rolls and nigiri,
+  paired with an array of small plates that highlight quality ingredients and
+  traditional techniques. Visitors can savor a variety of beverages, including
+  sake and wine, making it a great choice for casual dinners or intimate
+  gatherings. The accessible features, like wheelchair-friendly entrances and
+  seating, ensure a comfortable experience for all. With its focus on simple yet
+  elegant dishes, it's an ideal destination for those seeking top-notch Japanese
+  cuisine nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What People Are Saying About HITO YATAI$$$Folks often rave about the fresh and
+  flavorful fish at this spot, with standout options like creative rolls and
+  premium tuna making meals memorable. Many appreciate the engaging
+  omakase-style offerings that bring a sense of surprise and delight to the
+  table. The service stands out as warm and attentive, helping to create a cozy
+  vibe that keeps diners coming back. Overall, the atmosphere feels inviting and
+  relaxed, perfect for enjoying good food with friends or family. While opinions
+  vary, the general consensus leans positive, highlighting it as a solid pick
+  for anyone craving reliable Japanese fare.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +292,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

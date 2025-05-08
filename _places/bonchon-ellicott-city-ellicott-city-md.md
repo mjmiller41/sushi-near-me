@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Bonchon Ellicott City"
+title: Bonchon Ellicott City
 permalink: /maryland/ellicott-city/bonchon-ellicott-city.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Ellicott City
 seo:
-  name: "Bonchon Ellicott City"
-  type: Restaurant
-  links: null
-description: "Bonchon Ellicott City serves delicious sushi in Ellicott City, Maryland. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://locations.bonchon.com/ll/US/MD/Ellicott-City/3419-Plum-Tree-Dr
 place_id: ChIJXS_WNtIhyIkRxjTRafbsWuk
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c821d236d62f5d:0xe95aecf669d134c6!10e5
 primary_type: Asian Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 9:00 PM'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 10:00 PM'
+    - 'Saturday: 11:00 AM – 10:00 PM'
+    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,52 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (410) 465-0515
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.3'
+rating_count: 1398
+website: https://locations.bonchon.com/ll/US/MD/Ellicott-City/3419-Plum-Tree-Dr
+description: >-
+  Discover Bonchon in Ellicott City, MD$$$Bonchon in Ellicott City, MD, stands
+  out as a casual spot for authentic Asian flavors, specializing in crispy
+  Korean fried chicken and innovative fusion dishes that blend traditional
+  tastes with modern twists. This eatery offers a welcoming atmosphere where
+  patrons can savor a range of options, including hearty entrees paired with
+  refreshing beer and cocktails, making it ideal for casual meals or gatherings.
+  With convenient accessibility features like wheelchair-friendly parking and
+  entrances, it ensures everyone can enjoy a comfortable dining experience. The
+  restaurant maintains extended hours, opening early for lunch and staying late
+  on weekends, perfect for those exploring Asian cuisine options nearby. Its
+  focus on bold, flavorful meals makes it a go-to choice for anyone seeking
+  vibrant dining in the area.
+generative_summary: >-
+  Discover Bonchon in Ellicott City, MD$$$Bonchon in Ellicott City, MD, stands
+  out as a casual spot for authentic Asian flavors, specializing in crispy
+  Korean fried chicken and innovative fusion dishes that blend traditional
+  tastes with modern twists. This eatery offers a welcoming atmosphere where
+  patrons can savor a range of options, including hearty entrees paired with
+  refreshing beer and cocktails, making it ideal for casual meals or gatherings.
+  With convenient accessibility features like wheelchair-friendly parking and
+  entrances, it ensures everyone can enjoy a comfortable dining experience. The
+  restaurant maintains extended hours, opening early for lunch and staying late
+  on weekends, perfect for those exploring Asian cuisine options nearby. Its
+  focus on bold, flavorful meals makes it a go-to choice for anyone seeking
+  vibrant dining in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors often praise the standout Korean fried
+  chicken for its crispy texture and flavorful sauces, making it a highlight
+  among the menu offerings. Many appreciate the efficient service and welcoming
+  vibe that enhance the overall meal, turning casual visits into enjoyable
+  experiences. Feedback frequently notes the variety of dishes as a plus for
+  groups looking for something different in Asian dining. While some mention
+  that portion sizes could be more generous, the general consensus leans
+  positive with its solid rating reflecting tasty food and a relaxed setting.
+  All in all, it's a solid pick for anyone craving authentic Asian eats close to
+  home, with most feedback encouraging others to give it a try.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +313,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

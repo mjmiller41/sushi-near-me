@@ -1,15 +1,14 @@
 ---
 layout: place
-title: "Takara 88"
+title: Takara 88
 permalink: /wisconsin/middleton/takara-88.html
 stateAbbr: WI
 stateName: Wisconsin
 cityName: Middleton
 seo:
-  name: "Takara 88"
-  type: Restaurant
-  links: https://www.smorefood.com/order-online/takara-88-middleton-53562-lxjzw017?utm_source=gmb&utm_medium=website
-description: "Stylish, contemporary space for traditional Japanese dishes, hibachi-grill specialties & sushi. Takara 88 serves delicious sushi in Middleton, Wisconsin. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
+  type: restaurant
+  links: >-
+    https://www.smorefood.com/order-online/takara-88-middleton-53562-lxjzw017?utm_source=gmb&utm_medium=website
 place_id: ChIJCVdF1CqvB4gR0b2b5SsQt-A
 photos:
   - name: >-
@@ -186,6 +185,33 @@ rating: '4.2'
 rating_count: 0
 website: >-
   https://www.smorefood.com/order-online/takara-88-middleton-53562-lxjzw017?utm_source=gmb&utm_medium=website
+description: >-
+  Discover Takara 88 in Middleton, WI$$$Takara 88 in Middleton, WI, stands out
+  as a stylish spot for enjoying authentic Japanese cuisine, featuring a
+  contemporary atmosphere that blends tradition with modern flair. This sushi
+  restaurant offers an array of creative rolls, bento boxes, and teriyaki
+  options that highlight fresh ingredients and thoughtful preparation, making it
+  a go-to choice for those seeking flavorful Japanese dishes. With accessible
+  features like wheelchair-friendly entrances and seating, it ensures a
+  welcoming experience for all visitors, while its moderate pricing adds to the
+  appeal for casual diners. The menu caters to a variety of tastes, including
+  vegetarian selections, and pairs well with options like beer or wine for a
+  complete meal. Whether you're looking for top-rated sushi spots nearby, this
+  place delivers a satisfying blend of quality and convenience.
+generative_summary: >-
+  Discover Takara 88 in Middleton, WI$$$Takara 88 in Middleton, WI, stands out
+  as a stylish spot for enjoying authentic Japanese cuisine, featuring a
+  contemporary atmosphere that blends tradition with modern flair. This sushi
+  restaurant offers an array of creative rolls, bento boxes, and teriyaki
+  options that highlight fresh ingredients and thoughtful preparation, making it
+  a go-to choice for those seeking flavorful Japanese dishes. With accessible
+  features like wheelchair-friendly entrances and seating, it ensures a
+  welcoming experience for all visitors, while its moderate pricing adds to the
+  appeal for casual diners. The menu caters to a variety of tastes, including
+  vegetarian selections, and pairs well with options like beer or wine for a
+  complete meal. Whether you're looking for top-rated sushi spots nearby, this
+  place delivers a satisfying blend of quality and convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJCVdF1CqvB4gR0b2b5SsQt-A/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3cEx6cFd3EAE
@@ -325,6 +351,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN2ejQ3QjB3RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN2ejQ3QjB3RRAB!2m1!1s0x8807af2ad4455709:0xe0b7102be59bbdd1
+review_summary: >-
+  What Customers Are Buzzing About$$$Folks around Middleton rave about the fresh
+  and tasty sushi at this spot, often highlighting how the creative rolls and
+  specials keep things exciting without breaking the bank. Many appreciate the
+  reliable service and warm vibe that make every visit feel easygoing and
+  enjoyable, even for quick takeout or delivery orders. While some mention minor
+  issues like delivery delays, the food still comes through as flavorful and
+  well-presented, leaving people satisfied overall. It's frequently praised for
+  value-packed meals that feel healthy and hearty, with deals like half-off
+  rolls adding extra appeal on certain nights. If you're on the hunt for great
+  Japanese places near you, this restaurant consistently delivers a solid
+  experience that keeps diners coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -357,8 +396,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Stylish, contemporary space for traditional Japanese dishes, hibachi-grill
   specialties & sushi.
 

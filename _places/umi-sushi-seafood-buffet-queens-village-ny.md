@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Umi Sushi & Seafood Buffet"
+title: Umi Sushi & Seafood Buffet
 permalink: /new-york/queens-village/umi-sushi-seafood-buffet.html
 stateAbbr: NY
 stateName: New York
 cityName: Queens Village
 seo:
-  name: "Umi Sushi & Seafood Buffet"
-  type: Restaurant
-  links: null
-description: "Umi Sushi & Seafood Buffet serves delicious sushi in Queens Village, New York. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.umibuffet.com/
 place_id: ChIJ58k0dcFjwokR-LPExHJ8RcY
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c263c17534c9e7:0xc6457c72c4c4b3f8!10e5
 primary_type: Buffet Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:30 AM – 10:00 PM'
+    - 'Tuesday: 11:30 AM – 10:00 PM'
+    - 'Wednesday: 11:30 AM – 10:00 PM'
+    - 'Thursday: 11:30 AM – 10:00 PM'
+    - 'Friday: 11:30 AM – 11:00 PM'
+    - 'Saturday: 11:30 AM – 11:00 PM'
+    - 'Sunday: 11:30 AM – 10:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,56 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (718) 468-2100
+price_level: PRICE_LEVEL_MODERATE
+price_range: $30 &ndash; $50
+rating: '4.2'
+rating_count: 1265
+website: http://www.umibuffet.com/
+description: >-
+  Discover Umi Sushi & Seafood Buffet in Queens Village, NY$$$Nestled in Queens
+  Village, NY, Umi Sushi & Seafood Buffet stands out as a go-to spot for fresh
+  sushi and seafood enthusiasts, offering a casual all-you-can-eat experience
+  with an impressive variety of dishes. This buffet restaurant features a wide
+  array of expertly prepared options, from vibrant rolls and sashimi to other
+  oceanic delights, making it ideal for those seeking satisfying
+  Japanese-inspired meals in a welcoming atmosphere. Accessibility is a key
+  highlight, with wheelchair-friendly parking, entrances, restrooms, and seating
+  that ensure everyone can enjoy the feast without hassle. Operating daily from
+  late morning into the evening, it's perfect for families or groups looking for
+  affordable dining options around the area. Whether you're exploring sushi
+  places near you or craving top-rated seafood, this location delivers a
+  balanced mix of quality and value that keeps diners coming back.
+generative_summary: >-
+  Discover Umi Sushi & Seafood Buffet in Queens Village, NY$$$Nestled in Queens
+  Village, NY, Umi Sushi & Seafood Buffet stands out as a go-to spot for fresh
+  sushi and seafood enthusiasts, offering a casual all-you-can-eat experience
+  with an impressive variety of dishes. This buffet restaurant features a wide
+  array of expertly prepared options, from vibrant rolls and sashimi to other
+  oceanic delights, making it ideal for those seeking satisfying
+  Japanese-inspired meals in a welcoming atmosphere. Accessibility is a key
+  highlight, with wheelchair-friendly parking, entrances, restrooms, and seating
+  that ensure everyone can enjoy the feast without hassle. Operating daily from
+  late morning into the evening, it's perfect for families or groups looking for
+  affordable dining options around the area. Whether you're exploring sushi
+  places near you or craving top-rated seafood, this location delivers a
+  balanced mix of quality and value that keeps diners coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About the Experience$$$Visitors often praise the
+  fresh sushi and diverse seafood selections at this buffet, noting that the
+  variety keeps things exciting for every meal. Many appreciate the good value
+  for the price, especially for an all-you-can-eat setup that feels satisfying
+  without breaking the bank, though some mention occasional wait times during
+  peak hours. Folks highlight the clean environment and helpful service that
+  make the overall vibe relaxed and enjoyable, perfect for casual outings or
+  family gatherings. While the rating reflects strong positives, a few point out
+  that the selection might vary slightly by visit, but it's generally seen as a
+  solid choice for anyone hunting for reliable Japanese eats nearby. Overall,
+  the feedback leans positive, suggesting it's worth trying if you're in the
+  mood for tasty, approachable dining that hits the spot without any fuss.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +317,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

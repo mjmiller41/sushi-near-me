@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Soba"
+title: Sushi Soba
 permalink: /connecticut/old-greenwich/sushi-soba.html
 stateAbbr: CT
 stateName: Connecticut
 cityName: Old Greenwich
 seo:
-  name: "Sushi Soba"
-  type: Restaurant
+  type: restaurant
   links: http://sushisobagreenwich.com/
-description: "Sushi Soba serves delicious sushi in Old Greenwich, Connecticut. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ18w7KGeZwokREFtlbpVKzdA
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c29967283bccd7:0xd0cd4a956e655b10!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 45
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 45
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:30 PM'
     - 'Tuesday: 11:00 AM – 9:30 PM'
     - 'Wednesday: 11:00 AM – 9:30 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:45 PM'
     - 'Saturday: 12:00 – 9:45 PM'
     - 'Sunday: 12:00 – 9:30 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:30 PM'
-    - 'Tuesday: 11:00 AM – 9:30 PM'
-    - 'Wednesday: 11:00 AM – 9:30 PM'
-    - 'Thursday: 11:00 AM – 9:30 PM'
-    - 'Friday: 11:00 AM – 9:45 PM'
-    - 'Saturday: 12:00 – 9:45 PM'
-    - 'Sunday: 12:00 – 9:30 PM'
+  nextCloseTime: '2025-05-04T01:45:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +246,46 @@ phone: (203) 990-0888
 price_level: null
 price_range: $20 &ndash; $30
 rating: '4.7'
-rating_count: 0
+rating_count: 294
 website: http://sushisobagreenwich.com/
+description: >-
+  Explore Sushi Soba in Old Greenwich, CT$$$Sushi Soba in Old Greenwich, CT,
+  stands out as a welcoming spot for enjoying authentic Japanese cuisine,
+  featuring a diverse array of fresh dishes that cater to sushi enthusiasts and
+  beyond. This casual eatery boasts an extensive menu with options like
+  flavorful noodles and bento boxes, making it a go-to choice for those seeking
+  Japanese places near me with a relaxed atmosphere. Accessibility is a key
+  highlight, with features like wheelchair-accessible parking and seating
+  ensuring everyone can enjoy the experience comfortably. The restaurant
+  operates with convenient hours, including evenings and weekends, perfect for a
+  quick lunch or dinner outing. Overall, its focus on quality ingredients and
+  variety makes it a standout option among local sushi restaurants.
+generative_summary: >-
+  Explore Sushi Soba in Old Greenwich, CT$$$Sushi Soba in Old Greenwich, CT,
+  stands out as a welcoming spot for enjoying authentic Japanese cuisine,
+  featuring a diverse array of fresh dishes that cater to sushi enthusiasts and
+  beyond. This casual eatery boasts an extensive menu with options like
+  flavorful noodles and bento boxes, making it a go-to choice for those seeking
+  Japanese places near me with a relaxed atmosphere. Accessibility is a key
+  highlight, with features like wheelchair-accessible parking and seating
+  ensuring everyone can enjoy the experience comfortably. The restaurant
+  operates with convenient hours, including evenings and weekends, perfect for a
+  quick lunch or dinner outing. Overall, its focus on quality ingredients and
+  variety makes it a standout option among local sushi restaurants.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Visitor Feedback on Sushi Soba$$$Folks raving about Sushi Soba often highlight
+  the super fresh flavors and creative rolls that keep things exciting for sushi
+  lovers. Many appreciate the solid variety of options, from classic dishes to
+  more adventurous picks, making it a reliable spot for groups or solo diners.
+  While some mention the service as consistently friendly and efficient, others
+  note that the portions feel just right for a satisfying meal without breaking
+  the bank. It's clear that the high ratings stem from the overall vibe and
+  tasty offerings, though a few suggest it can get busy during peak times. All
+  in all, if you're on the hunt for top-rated sushi nearby, this place tends to
+  deliver a memorable experience that leaves people coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +311,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

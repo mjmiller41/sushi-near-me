@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Miso Teriyaki House"
+title: Miso Teriyaki House
 permalink: /tennessee/elizabethton/miso-teriyaki-house.html
 stateAbbr: TN
 stateName: Tennessee
 cityName: Elizabethton
 seo:
-  name: "Miso Teriyaki House"
-  type: Restaurant
-  links: null
-description: "Miso Teriyaki House serves delicious sushi in Elizabethton, Tennessee. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.facebook.com/misoelizabethton
 place_id: ChIJVbN-MuF_WogRr0HK-4GMD3k
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x885a7fe1327eb355:0x790f8c81fbca41af!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 10:00 PM'
+    - 'Tuesday: 11:00 AM – 10:00 PM'
+    - 'Wednesday: 11:00 AM – 10:00 PM'
+    - 'Thursday: 11:00 AM – 10:00 PM'
+    - 'Friday: 11:00 AM – 10:00 PM'
+    - 'Saturday: 11:00 AM – 10:00 PM'
+    - 'Sunday: 11:00 AM – 10:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,51 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (423) 543-8889
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.3'
+rating_count: 750
+website: http://www.facebook.com/misoelizabethton
+description: >-
+  Discover Miso Teriyaki House in Elizabethton, TN$$$Miso Teriyaki House in
+  Elizabethton, TN, serves up a delightful array of Japanese dishes in a relaxed
+  and welcoming environment, perfect for those seeking fresh sushi options
+  nearby. With offerings like bento boxes and flavorful rolls, this spot
+  emphasizes authentic flavors and accessibility features that make it easy for
+  everyone to enjoy a meal. The restaurant operates daily from 11 AM to 10 PM,
+  providing convenient hours for lunch or dinner outings. Its moderate pricing
+  adds to the appeal, making it an ideal choice for casual diners exploring
+  Japanese-inspired cuisine. Whether you're in the mood for a quick bite or a
+  satisfying meal, the informal atmosphere ensures a comfortable experience for
+  all.
+generative_summary: >-
+  Discover Miso Teriyaki House in Elizabethton, TN$$$Miso Teriyaki House in
+  Elizabethton, TN, serves up a delightful array of Japanese dishes in a relaxed
+  and welcoming environment, perfect for those seeking fresh sushi options
+  nearby. With offerings like bento boxes and flavorful rolls, this spot
+  emphasizes authentic flavors and accessibility features that make it easy for
+  everyone to enjoy a meal. The restaurant operates daily from 11 AM to 10 PM,
+  providing convenient hours for lunch or dinner outings. Its moderate pricing
+  adds to the appeal, making it an ideal choice for casual diners exploring
+  Japanese-inspired cuisine. Whether you're in the mood for a quick bite or a
+  satisfying meal, the informal atmosphere ensures a comfortable experience for
+  all.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this Japanese eatery often rave about
+  the tasty dishes and welcoming vibe, with many highlighting the fresh flavors
+  that keep them coming back for more sushi nearby. Based on the solid rating,
+  folks appreciate the reliable quality and variety of options that make it a
+  go-to spot for everyday meals. While some mention minor waits during peak
+  times, the overall consensus leans positive, praising the value and friendly
+  service that enhance the dining experience. It's clear that this place stands
+  out as a favorite for those searching for top-rated Japanese fare, offering a
+  balance of affordability and satisfaction. All in all, the feedback suggests
+  it's a solid choice for anyone looking to enjoy a casual meal without any
+  major drawbacks.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +312,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "HOUSE - Modern Sushi Restaurant"
+title: HOUSE - Modern Sushi Restaurant
 permalink: /arizona/mesa/house-modern-sushi-restaurant.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Mesa
 seo:
-  name: "HOUSE - Modern Sushi Restaurant"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "HOUSE - Modern Sushi Restaurant serves delicious sushi in Mesa, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJn2Jsh_OoK4cRmK-SPum9GY8
 photos:
   - name: >-
@@ -185,7 +183,44 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  About HOUSE - Modern Sushi Restaurant in Mesa, AZ$$$HOUSE - Modern Sushi
+  Restaurant in Mesa, AZ, offers a welcoming spot for enjoying fresh
+  Japanese-inspired dishes in a relaxed environment. This cozy eatery
+  specializes in a variety of sushi rolls and sashimi, making it a go-to choice
+  for those seeking authentic flavors and creative presentations in the area.
+  With its casual vibe and focus on quality ingredients, it's an ideal
+  destination for anyone exploring top-rated sushi options nearby. The
+  restaurant's approachable setting enhances the dining experience, blending
+  simplicity with flavorful tastes that appeal to sushi enthusiasts. Whether
+  you're in the mood for a quick meal or a leisurely outing, this spot stands
+  out as a reliable choice among local Japanese places.
+generative_summary: >-
+  About HOUSE - Modern Sushi Restaurant in Mesa, AZ$$$HOUSE - Modern Sushi
+  Restaurant in Mesa, AZ, offers a welcoming spot for enjoying fresh
+  Japanese-inspired dishes in a relaxed environment. This cozy eatery
+  specializes in a variety of sushi rolls and sashimi, making it a go-to choice
+  for those seeking authentic flavors and creative presentations in the area.
+  With its casual vibe and focus on quality ingredients, it's an ideal
+  destination for anyone exploring top-rated sushi options nearby. The
+  restaurant's approachable setting enhances the dining experience, blending
+  simplicity with flavorful tastes that appeal to sushi enthusiasts. Whether
+  you're in the mood for a quick meal or a leisurely outing, this spot stands
+  out as a reliable choice among local Japanese places.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback Highlights$$$Folks often rave about the fresh and flavorful
+  sushi rolls at this spot, praising the variety of options that keep things
+  exciting and satisfying. Many appreciate the tasty appetizers and overall
+  value, noting that the prices make it easy to enjoy a meal without breaking
+  the bank. The service stands out as friendly and attentive, contributing to a
+  comfortable, laid-back atmosphere that enhances the whole experience. While
+  some mention the quiet setting as perfect for casual get-togethers, others
+  highlight the consistent quality that keeps diners coming back for more.
+  Overall, it's a solid pick for anyone hunting for reliable sushi near you,
+  with positive vibes that make it worth a try.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +246,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

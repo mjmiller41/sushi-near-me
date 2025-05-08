@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "National’s Cafe"
+title: National’s Cafe
 permalink: /nevada/carson-city/national-s-cafe.html
 stateAbbr: NV
 stateName: Nevada
 cityName: Carson City
 seo:
-  name: "National’s Cafe"
-  type: Restaurant
+  type: restaurant
   links: http://nationalscafesushi.com/
-description: "National’s Cafe serves delicious sushi in Carson City, Nevada. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ12fg4r0KmYARWw1sTH0Jj20
 photos:
   - name: >-
@@ -168,7 +166,89 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80990abde2e067d7:0x6d8f097d4c6c0d5b!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 15
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 0
+      close:
+        day: 1
+        hour: 20
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 15
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 0
+      close:
+        day: 5
+        hour: 20
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 3:00 PM, 4:00 – 8:30 PM'
     - 'Tuesday: 11:00 AM – 3:00 PM, 4:00 – 8:30 PM'
     - 'Wednesday: 11:00 AM – 3:00 PM, 4:00 – 8:30 PM'
@@ -176,14 +256,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 3:00 PM, 4:00 – 8:30 PM'
     - 'Saturday: Closed'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:00 AM – 3:00 PM, 4:00 – 8:30 PM'
-    - 'Tuesday: 11:00 AM – 3:00 PM, 4:00 – 8:30 PM'
-    - 'Wednesday: 11:00 AM – 3:00 PM, 4:00 – 8:30 PM'
-    - 'Thursday: 11:00 AM – 3:00 PM, 4:00 – 8:30 PM'
-    - 'Friday: 11:00 AM – 3:00 PM, 4:00 – 8:30 PM'
-    - 'Saturday: Closed'
-    - 'Sunday: Closed'
+  nextOpenTime: '2025-05-05T18:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -195,35 +268,293 @@ phone: (775) 841-7377
 price_level: null
 price_range: $20 &ndash; $30
 rating: '4.5'
-rating_count: 0
+rating_count: 154
 website: http://nationalscafesushi.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover National’s Cafe in Carson City, NV$$$National’s Cafe in Carson City,
+  NV, stands out as a welcoming spot for enjoying fresh sushi and classic
+  Japanese dishes in a laid-back environment. This family-run eatery specializes
+  in a range of flavorful rolls and staples that highlight authentic flavors,
+  making it a go-to choice for those seeking sushi restaurants in the area. With
+  accessibility features like wheelchair-friendly entrances and parking, it
+  caters to a wide variety of diners looking for convenience and comfort. The
+  casual atmosphere pairs perfectly with its affordable pricing, ideal for a
+  relaxed meal after exploring the city. Whether you're hunting for top-rated
+  sushi options nearby, this cafe delivers a satisfying experience with its
+  thoughtful menu and easygoing vibe.
+generative_summary: >-
+  Discover National’s Cafe in Carson City, NV$$$National’s Cafe in Carson City,
+  NV, stands out as a welcoming spot for enjoying fresh sushi and classic
+  Japanese dishes in a laid-back environment. This family-run eatery specializes
+  in a range of flavorful rolls and staples that highlight authentic flavors,
+  making it a go-to choice for those seeking sushi restaurants in the area. With
+  accessibility features like wheelchair-friendly entrances and parking, it
+  caters to a wide variety of diners looking for convenience and comfort. The
+  casual atmosphere pairs perfectly with its affordable pricing, ideal for a
+  relaxed meal after exploring the city. Whether you're hunting for top-rated
+  sushi options nearby, this cafe delivers a satisfying experience with its
+  thoughtful menu and easygoing vibe.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ12fg4r0KmYARWw1sTH0Jj20/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJOU91cTVRRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 3
+    text:
+      text: >-
+        The sushi was good, service could of been better. Overall I was
+        expecting more.
+      languageCode: en
+    originalText:
+      text: >-
+        The sushi was good, service could of been better. Overall I was
+        expecting more.
+      languageCode: en
+    authorAttribution:
+      displayName: Raven Raven
+      uri: https://www.google.com/maps/contrib/101276685865363102654/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUR201ONOYz7Ewn8JrqSYiYY4oamj8q2b1DZJHVAK0oHeC_yXeHGQ=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-03-30T20:02:05.477745Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNJOU91cTVRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNJOU91cTVRRRAB!2m1!1s0x80990abde2e067d7:0x6d8f097d4c6c0d5b
+  - name: >-
+      places/ChIJ12fg4r0KmYARWw1sTH0Jj20/reviews/ChZDSUhNMG9nS0VJQ0FnSUNSdXZmVEdBEAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        Despite the Cafe's misleading name, an obsequious one that let me
+        overlook the fact that this place is an Asian restaurant, I came here
+        for some chicken teriyaki. What they served me was excellent!
+
+
+        I had a bit of craving for the teriyaki for a good while, and theirs hit
+        the spot! The miso soup was a welcome addition to my meal.
+
+
+        I do have minor criticism about one thing that I had there. The gyoza
+        were a bit too light on the filling. However, they were crispy and
+        tasty, nonetheless!
+
+
+        All of my food was well presented, and they included a refreshing
+        cucumber salad with a vinegary flavor. It had a peculiar topping that I
+        couldn't quite identify. Imitation crab, maybe? I'm no expert on
+        shellfish, nor imitation, so I can't tell you what they topped it with.
+
+
+        Since my grandfather was allergic to shellfish, in general, and my
+        family didn't eat it often, I just avoid it these days. I still tried a
+        taste of it. Looking at the picture, someone might be able to guess what
+        it is. I have no opinion about its flavor.
+
+
+        Years ago, this place used to be a sandwich shop when I was younger.
+        While I miss enjoying that business's food, particularly their French
+        Dips with chips, I've gained a new restaurant's food to enjoy for what
+        they offer; some really good teriyaki! Change doesn't have to be
+        frightening!
+
+
+        PS: The service was excellent. The woman who served my table brought
+        everything in intervals. I didn't have to wait too long for anything.
+        The asian cuisine program they had up on the tv was interesting too! It
+        was probably one of the most deaf-friendly forms of entertainment I can
+        think of, not to mention interesting for being foreign content and
+        subtitled as a matter!
+      languageCode: en
+    originalText:
+      text: >-
+        Despite the Cafe's misleading name, an obsequious one that let me
+        overlook the fact that this place is an Asian restaurant, I came here
+        for some chicken teriyaki. What they served me was excellent!
+
+
+        I had a bit of craving for the teriyaki for a good while, and theirs hit
+        the spot! The miso soup was a welcome addition to my meal.
+
+
+        I do have minor criticism about one thing that I had there. The gyoza
+        were a bit too light on the filling. However, they were crispy and
+        tasty, nonetheless!
+
+
+        All of my food was well presented, and they included a refreshing
+        cucumber salad with a vinegary flavor. It had a peculiar topping that I
+        couldn't quite identify. Imitation crab, maybe? I'm no expert on
+        shellfish, nor imitation, so I can't tell you what they topped it with.
+
+
+        Since my grandfather was allergic to shellfish, in general, and my
+        family didn't eat it often, I just avoid it these days. I still tried a
+        taste of it. Looking at the picture, someone might be able to guess what
+        it is. I have no opinion about its flavor.
+
+
+        Years ago, this place used to be a sandwich shop when I was younger.
+        While I miss enjoying that business's food, particularly their French
+        Dips with chips, I've gained a new restaurant's food to enjoy for what
+        they offer; some really good teriyaki! Change doesn't have to be
+        frightening!
+
+
+        PS: The service was excellent. The woman who served my table brought
+        everything in intervals. I didn't have to wait too long for anything.
+        The asian cuisine program they had up on the tv was interesting too! It
+        was probably one of the most deaf-friendly forms of entertainment I can
+        think of, not to mention interesting for being foreign content and
+        subtitled as a matter!
+      languageCode: en
+    authorAttribution:
+      displayName: Lina Taylor
+      uri: https://www.google.com/maps/contrib/104378409890362781112/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVT8fN_Scrq9bUNnIPtRJD5eO5FuEaGQBkIIDfNCzTd_nobRUoS-w=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-02-24T00:53:22.868644Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNSdXZmVEdBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNSdXZmVEdBEAE!2m1!1s0x80990abde2e067d7:0x6d8f097d4c6c0d5b
+  - name: >-
+      places/ChIJ12fg4r0KmYARWw1sTH0Jj20/reviews/ChZDSUhNMG9nS0VJQ0FnSUQtb3FuZFNnEAE
+    relativePublishTimeDescription: 2 years ago
+    rating: 5
+    text:
+      text: >-
+        I had the opportunity to enjoy several sushi rolls, tempura shrimp and
+        miso soup. The best is the long Nevada roll that is crystal shrimp,
+        jalapeno topped w/ cilantro, avocado, snapper, lemon.  Never had tasted
+        something like that.  The owners are super friendly and very affordable
+        prices.  Give a try or call for take out.
+      languageCode: en
+    originalText:
+      text: >-
+        I had the opportunity to enjoy several sushi rolls, tempura shrimp and
+        miso soup. The best is the long Nevada roll that is crystal shrimp,
+        jalapeno topped w/ cilantro, avocado, snapper, lemon.  Never had tasted
+        something like that.  The owners are super friendly and very affordable
+        prices.  Give a try or call for take out.
+      languageCode: en
+    authorAttribution:
+      displayName: Marco Jaen
+      uri: https://www.google.com/maps/contrib/104349224949506414986/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUrWQagDr_45Zm1Kd5Kmui2vhuMl7iBQtje5oM5HXwwjY6lC7MN=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2022-11-25T04:56:33.230496Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQtb3FuZFNnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQtb3FuZFNnEAE!2m1!1s0x80990abde2e067d7:0x6d8f097d4c6c0d5b
+  - name: >-
+      places/ChIJ12fg4r0KmYARWw1sTH0Jj20/reviews/ChZDSUhNMG9nS0VJQ0FnSURPaTllR1pBEAE
+    relativePublishTimeDescription: 2 years ago
+    rating: 5
+    text:
+      text: >-
+        The BEST sushi EVER! Most amazing staff too! They took care of my
+        husband who has a severe onion allergy, and me who can’t eat meat due to
+        a kidney condition, made us custom special food then charged us less
+        than we should have paid! Make sure you too big because these guys treat
+        you like royalty! Thank you from your BLM wild horse friends from
+        California!
+      languageCode: en
+    originalText:
+      text: >-
+        The BEST sushi EVER! Most amazing staff too! They took care of my
+        husband who has a severe onion allergy, and me who can’t eat meat due to
+        a kidney condition, made us custom special food then charged us less
+        than we should have paid! Make sure you too big because these guys treat
+        you like royalty! Thank you from your BLM wild horse friends from
+        California!
+      languageCode: en
+    authorAttribution:
+      displayName: Erika Hunter
+      uri: https://www.google.com/maps/contrib/116637184415958762393/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjW8hhqvws16f1iQv0U46zNbUfi3uJA5_WHd_ax4sVLsZof0pA=s128-c0x00000000-cc-rp-mo
+    publishTime: '2022-07-14T02:45:06.401486Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURPaTllR1pBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURPaTllR1pBEAE!2m1!1s0x80990abde2e067d7:0x6d8f097d4c6c0d5b
+  - name: >-
+      places/ChIJ12fg4r0KmYARWw1sTH0Jj20/reviews/ChZDSUhNMG9nS0VJQ0FnSURXb3VtNkdREAE
+    relativePublishTimeDescription: 3 years ago
+    rating: 5
+    text:
+      text: >-
+        Got our dinner to go. There was a long wait but it was totally worth it.
+        Delicious sushi and plenty for three people. Very good service as well.
+        They took our phone number and called us when our order was ready so we
+        didn't have to stand around waiting for it. Next time we will order
+        ahead.
+      languageCode: en
+    originalText:
+      text: >-
+        Got our dinner to go. There was a long wait but it was totally worth it.
+        Delicious sushi and plenty for three people. Very good service as well.
+        They took our phone number and called us when our order was ready so we
+        didn't have to stand around waiting for it. Next time we will order
+        ahead.
+      languageCode: en
+    authorAttribution:
+      displayName: Stacy J.
+      uri: https://www.google.com/maps/contrib/117755458869011447875/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUyQ0XFqGkssR6bVR34sUROY4D071G6Jozvd7GAns4Hg_y0ozo=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2022-03-19T08:06:04.176605Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURXb3VtNkdREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURXb3VtNkdREAE!2m1!1s0x80990abde2e067d7:0x6d8f097d4c6c0d5b
+review_summary: >-
+  What People Love About This Local Sushi Spot$$$Folks who visit this sushi
+  place often rave about the tasty rolls and Japanese favorites that hit the
+  spot every time, with many highlighting the fresh ingredients and generous
+  portions. While one comment mentioned service could use a bit more polish, the
+  overall vibe is positive, especially for custom orders that accommodate
+  dietary needs like allergies. Diners appreciate the friendly staff and
+  affordable prices, making it a solid pick for casual outings or takeout on
+  busy days. If you're on the hunt for the best sushi near me, this spot
+  frequently gets nods for its welcoming feel and reliable quality. All in all,
+  it's a neighborhood gem that keeps customers coming back for more enjoyable
+  meals without any major letdowns.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
+curbside_pickup: false
+delivery: false
+dine_in: true
 good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
+good_for_groups: true
+good_for_sports: false
+live_music: false
 menu_for_children: null
-outdoor_seating: null
-reservable: null
+outdoor_seating: false
+reservable: true
 restroom: null
 serves_beer: null
 serves_breakfast: null
-serves_brunch: null
+serves_brunch: false
 serves_cocktails: null
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Jip Restaurant"
+title: Sushi Jip Restaurant
 permalink: /virginia/arlington/sushi-jip-restaurant.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Arlington
 seo:
-  name: "Sushi Jip Restaurant"
-  type: Restaurant
+  type: restaurant
   links: https://www.sushijip.com/
-description: "Sushi Jip Restaurant serves delicious sushi in Arlington, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ6QexH6u3t4kRuv0pu_hTV_g
 photos:
   - name: >-
@@ -154,6 +152,7 @@ longitude: '-77.093759'
 accessibility_options:
   wheelchairAccessibleParking: true
   wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
   wheelchairAccessibleSeating: true
 business_status: OPERATIONAL
 name: Sushi Jip Restaurant
@@ -184,6 +183,33 @@ price_range: $30 &ndash; $50
 rating: '4.7'
 rating_count: 0
 website: https://www.sushijip.com/
+description: >-
+  Discover Sushi Jip in Arlington, VA$$$Sushi Jip Restaurant in Arlington, VA,
+  stands out as a top-rated spot for fresh and flavorful Japanese cuisine,
+  perfect for those seeking sushi places near you. This cozy eatery boasts an
+  array of expertly prepared rolls and sashimi, emphasizing high-quality
+  ingredients and generous portions that make every meal feel special. With
+  options for outdoor seating and accessibility features like
+  wheelchair-friendly entrances, it's an inviting choice for a relaxed dining
+  experience in a vibrant area. The moderate pricing adds to its appeal,
+  offering great value for authentic dishes that capture the essence of Japanese
+  traditions. Whether you're exploring sushi restaurants close to you or looking
+  for a welcoming atmosphere, this spot delivers a memorable blend of taste and
+  convenience.
+generative_summary: >-
+  Discover Sushi Jip in Arlington, VA$$$Sushi Jip Restaurant in Arlington, VA,
+  stands out as a top-rated spot for fresh and flavorful Japanese cuisine,
+  perfect for those seeking sushi places near you. This cozy eatery boasts an
+  array of expertly prepared rolls and sashimi, emphasizing high-quality
+  ingredients and generous portions that make every meal feel special. With
+  options for outdoor seating and accessibility features like
+  wheelchair-friendly entrances, it's an inviting choice for a relaxed dining
+  experience in a vibrant area. The moderate pricing adds to its appeal,
+  offering great value for authentic dishes that capture the essence of Japanese
+  traditions. Whether you're exploring sushi restaurants close to you or looking
+  for a welcoming atmosphere, this spot delivers a memorable blend of taste and
+  convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ6QexH6u3t4kRuv0pu_hTV_g/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJOFluOFNREAE
@@ -421,6 +447,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURmX0xPdWNnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURmX0xPdWNnEAE!2m1!1s0x89b7b7ab1fb107e9:0xf85753f8bb29fdba
+review_summary: >-
+  Customer Feedback on Sushi Jip$$$Folks consistently highlight the incredibly
+  fresh sushi and generous portions at this spot, making it a go-to for anyone
+  craving top-notch Japanese flavors without breaking the bank. Many appreciate
+  the friendly and attentive service that adds a fun, welcoming vibe to the
+  overall experience, turning a simple meal into something enjoyable. It's often
+  noted how the variety of options, from classic rolls to creative specials,
+  caters to different tastes while keeping things light and satisfying. Overall,
+  the cozy atmosphere and thoughtful touches like homemade sides keep the energy
+  positive and relaxed, encouraging repeat visits for both dine-in and takeout.
+  If you're on the hunt for the best sushi near you, this place seems to hit the
+  mark with its reliable quality and warm hospitality.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeStreetParking: true
   paidStreetParking: true
@@ -453,7 +492,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

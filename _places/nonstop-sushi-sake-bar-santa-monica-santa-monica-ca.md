@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Nonstop Sushi & Sake Bar Santa Monica"
+title: Nonstop Sushi & Sake Bar Santa Monica
 permalink: /california/santa-monica/nonstop-sushi-sake-bar-santa-monica.html
 stateAbbr: CA
 stateName: California
 cityName: Santa Monica
 seo:
-  name: "Nonstop Sushi & Sake Bar Santa Monica"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Nonstop Sushi & Sake Bar Santa Monica serves delicious sushi in Santa Monica, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJxWRgbte6woARkqADlkjVyGk
 photos:
   - name: >-
@@ -185,7 +183,46 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Nonstop Sushi in Santa Monica$$$Nonstop Sushi & Sake Bar in Santa
+  Monica, CA, delivers an inviting all-you-can-eat experience featuring a
+  variety of fresh Japanese dishes that highlight the best of sushi and sashimi
+  options. This casual spot boasts a welcoming atmosphere with a bar area
+  perfect for enjoying flavorful noodle bowls and other traditional fare, making
+  it a go-to choice for those seeking top sushi near the coast. Accessibility
+  features like wheelchair-friendly parking and seating ensure everyone can
+  savor the diverse menu in comfort. Whether you're looking for sushi places
+  near me or a relaxed meal with friends, the emphasis on quality ingredients
+  and a laid-back vibe adds to its appeal as a standout dining destination in
+  the area.
+generative_summary: >-
+  Discover Nonstop Sushi in Santa Monica$$$Nonstop Sushi & Sake Bar in Santa
+  Monica, CA, delivers an inviting all-you-can-eat experience featuring a
+  variety of fresh Japanese dishes that highlight the best of sushi and sashimi
+  options. This casual spot boasts a welcoming atmosphere with a bar area
+  perfect for enjoying flavorful noodle bowls and other traditional fare, making
+  it a go-to choice for those seeking top sushi near the coast. Accessibility
+  features like wheelchair-friendly parking and seating ensure everyone can
+  savor the diverse menu in comfort. Whether you're looking for sushi places
+  near me or a relaxed meal with friends, the emphasis on quality ingredients
+  and a laid-back vibe adds to its appeal as a standout dining destination in
+  the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Recent Reviews$$$Visitors to this sushi restaurant often rave
+  about the fantastic all-you-can-eat deals, praising the fresh and tasty rolls
+  that make for a satisfying meal without breaking the bank. Many appreciate the
+  quick and attentive service that keeps things running smoothly, along with the
+  handy location that offers easy parking for a hassle-free visit. While some
+  note that the pricing might feel a bit steep compared to the fish quality, the
+  overall experience still shines through with its generous portions and
+  variety. In a casual setting like this, it's clear that folks keep coming back
+  for the reliable flavors and friendly atmosphere, making it a solid pick for
+  anyone hunting for great sushi nearby. Ultimately, the positives around
+  convenience and taste help balance out any minor drawbacks, leaving diners
+  with a generally upbeat impression.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +248,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

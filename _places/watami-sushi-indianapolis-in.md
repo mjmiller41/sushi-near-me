@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Watami Sushi"
+title: Watami Sushi
 permalink: /indiana/indianapolis/watami-sushi.html
 stateAbbr: IN
 stateName: Indiana
 cityName: Indianapolis
 seo:
-  name: "Watami Sushi"
-  type: Restaurant
-  links: null
-description: "Watami Sushi serves delicious sushi in Indianapolis, Indiana. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://watamisushiin.com/
 place_id: ChIJw8SSEFFSa4gRWzRnRl4X4CY
 photos:
   - name: >-
@@ -170,8 +168,113 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x886b52511092c4c3:0x26e0175e4667345b!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 2:00 PM, 4:30 – 10:00 PM'
+    - 'Tuesday: 11:00 AM – 2:00 PM, 4:30 – 10:00 PM'
+    - 'Wednesday: 11:00 AM – 2:00 PM, 4:30 – 10:00 PM'
+    - 'Thursday: 11:00 AM – 2:00 PM, 4:30 – 10:00 PM'
+    - 'Friday: 11:00 AM – 2:00 PM, 4:30 – 10:00 PM'
+    - 'Saturday: 11:00 AM – 11:00 PM'
+    - 'Sunday: 12:00 – 9:30 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +282,53 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (317) 991-3355
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.4'
+rating_count: 950
+website: http://watamisushiin.com/
+description: >-
+  Explore Watami Sushi in Indianapolis, IN$$$Watami Sushi in Indianapolis, IN,
+  stands out as a welcoming Japanese restaurant known for its casual vibe and
+  diverse menu options. This spot offers an all-you-can-eat experience featuring
+  fresh sushi and hibachi-style dishes, making it a go-to choice for those
+  seeking flavorful Japanese cuisine in a relaxed setting. With accessibility
+  features like wheelchair-friendly entrances and parking, it's designed to
+  accommodate a wide range of diners looking for top-rated sushi options nearby.
+  The restaurant's extended hours, including evenings and weekends, provide
+  flexibility for lunch or dinner outings, enhancing its appeal for families and
+  groups. Whether you're exploring sushi places near me or craving authentic
+  Japanese fare, Watami Sushi delivers a satisfying blend of quality and
+  affordability in the heart of Broad Ripple.
+generative_summary: >-
+  Explore Watami Sushi in Indianapolis, IN$$$Watami Sushi in Indianapolis, IN,
+  stands out as a welcoming Japanese restaurant known for its casual vibe and
+  diverse menu options. This spot offers an all-you-can-eat experience featuring
+  fresh sushi and hibachi-style dishes, making it a go-to choice for those
+  seeking flavorful Japanese cuisine in a relaxed setting. With accessibility
+  features like wheelchair-friendly entrances and parking, it's designed to
+  accommodate a wide range of diners looking for top-rated sushi options nearby.
+  The restaurant's extended hours, including evenings and weekends, provide
+  flexibility for lunch or dinner outings, enhancing its appeal for families and
+  groups. Whether you're exploring sushi places near me or craving authentic
+  Japanese fare, Watami Sushi delivers a satisfying blend of quality and
+  affordability in the heart of Broad Ripple.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Customer Feedback$$$Visitors to this sushi spot often highlight
+  the fresh ingredients and variety of rolls as standout features, contributing
+  to a generally positive dining experience. Many appreciate the efficient
+  service and welcoming atmosphere, which make it a solid pick for casual meals
+  or group gatherings without any major complaints. The high rating reflects
+  consistent praise for the value, especially with the all-you-can-eat option
+  that keeps things exciting for sushi lovers. While a few mentions note
+  occasional wait times during peak hours, the overall vibe remains upbeat and
+  enjoyable for those checking out Japanese places near me. In summary, if
+  you're on the hunt for reliable, tasty sushi close to you, this location earns
+  solid nods for its flavorful offerings and friendly vibe.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +354,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

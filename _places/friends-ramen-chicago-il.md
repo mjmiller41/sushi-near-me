@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Friends Ramen"
+title: Friends Ramen
 permalink: /illinois/chicago/friends-ramen.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
 seo:
-  name: "Friends Ramen"
-  type: Restaurant
-  links: null
-description: "Friends Ramen serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.friendsramen.com/
 place_id: ChIJEUsvg1LTD4gRGtjI_aG6Erc
 photos:
   - name: >-
@@ -167,8 +165,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x880fd352832f4b11:0xb712baa1fdc8d81a!10e5
 primary_type: Ramen Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 2
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 2
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 2
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 2
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 2
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 2
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 2
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:30 AM – 2:00 AM'
+    - 'Tuesday: 11:30 AM – 2:00 AM'
+    - 'Wednesday: 11:30 AM – 2:00 AM'
+    - 'Thursday: 11:30 AM – 2:00 AM'
+    - 'Friday: 11:30 AM – 2:00 AM'
+    - 'Saturday: 11:30 AM – 2:00 AM'
+    - 'Sunday: 11:30 AM – 2:00 AM'
+  nextCloseTime: '2025-05-04T07:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -176,13 +239,50 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (312) 643-1209
+price_level: PRICE_LEVEL_INEXPENSIVE
+price_range: $10 &ndash; $20
+rating: '4.3'
+rating_count: 837
+website: https://www.friendsramen.com/
+description: >-
+  Experience Friends Ramen in Chicago$$$Friends Ramen in Chicago, IL, is a
+  welcoming spot that specializes in comforting bowls of traditional ramen,
+  creating an inviting environment for diners seeking flavorful
+  Japanese-inspired meals. The restaurant features a cozy setting where guests
+  can savor hearty noodle dishes alongside a variety of small plates, paired
+  with refreshing options like beer and sake to enhance the experience. Located
+  in the vibrant Rush & Division area, it's an ideal choice for those exploring
+  authentic Asian flavors in a relaxed urban atmosphere. With its focus on
+  quality ingredients and simple yet satisfying presentations, this eatery
+  stands out as a go-to destination for anyone craving warm, soul-nourishing
+  fare in the heart of the city.
+generative_summary: >-
+  Experience Friends Ramen in Chicago$$$Friends Ramen in Chicago, IL, is a
+  welcoming spot that specializes in comforting bowls of traditional ramen,
+  creating an inviting environment for diners seeking flavorful
+  Japanese-inspired meals. The restaurant features a cozy setting where guests
+  can savor hearty noodle dishes alongside a variety of small plates, paired
+  with refreshing options like beer and sake to enhance the experience. Located
+  in the vibrant Rush & Division area, it's an ideal choice for those exploring
+  authentic Asian flavors in a relaxed urban atmosphere. With its focus on
+  quality ingredients and simple yet satisfying presentations, this eatery
+  stands out as a go-to destination for anyone craving warm, soul-nourishing
+  fare in the heart of the city.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Folks who visit this ramen spot often highlight
+  the delicious, well-crafted bowls that hit the spot with their rich flavors
+  and perfect balance of ingredients, making it a solid pick for a satisfying
+  meal. Many appreciate the friendly vibe and efficient service that keep things
+  running smoothly, adding to the overall enjoyable dining experience. While
+  some mention portions could vary, the general consensus leans positive, with
+  praise for the affordable prices and variety that cater to different tastes.
+  Overall, it's clear that this place delivers on tasty comfort food, earning it
+  high marks for repeat visits among those looking for reliable Japanese-style
+  dining options nearby.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -208,7 +308,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

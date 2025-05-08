@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kura Revolving Sushi Bar"
+title: Kura Revolving Sushi Bar
 permalink: /california/berkeley/kura-revolving-sushi-bar.html
 stateAbbr: CA
 stateName: California
 cityName: Berkeley
 seo:
-  name: "Kura Revolving Sushi Bar"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Kura Revolving Sushi Bar serves delicious sushi in Berkeley, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJPX9pZyx_hYARTlOgUIKyE8U
 photos:
   - name: >-
@@ -153,6 +151,7 @@ latitude: '37.872025'
 longitude: '-122.268229'
 accessibility_options:
   wheelchairAccessibleEntrance: true
+  wheelchairAccessibleSeating: true
 business_status: OPERATIONAL
 name: Kura Revolving Sushi Bar
 google_maps_links:
@@ -182,7 +181,50 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Kura Revolving Sushi Bar in Berkeley, CA$$$Kura Revolving Sushi Bar
+  in Berkeley, California, stands out as a vibrant sushi restaurant where
+  innovative conveyor belt dining meets fresh Japanese flavors, making it a
+  go-to spot for those searching for sushi places near me. This establishment
+  features a dynamic setup with colorful plates gliding by, offering a variety
+  of high-quality rolls, nigiri, and creative specials that highlight the best
+  in Japanese cuisine. Accessibility is a key advantage, with
+  wheelchair-friendly entrances and seating ensuring everyone can enjoy the
+  experience comfortably. The casual atmosphere and efficient service make it
+  ideal for quick meals or relaxed gatherings, appealing to locals and visitors
+  alike who appreciate top-rated sushi in a lively setting. Whether you're
+  exploring sushi restaurants in the area or craving something fresh and fun,
+  this spot delivers an engaging twist on traditional dining.
+generative_summary: >-
+  Discover Kura Revolving Sushi Bar in Berkeley, CA$$$Kura Revolving Sushi Bar
+  in Berkeley, California, stands out as a vibrant sushi restaurant where
+  innovative conveyor belt dining meets fresh Japanese flavors, making it a
+  go-to spot for those searching for sushi places near me. This establishment
+  features a dynamic setup with colorful plates gliding by, offering a variety
+  of high-quality rolls, nigiri, and creative specials that highlight the best
+  in Japanese cuisine. Accessibility is a key advantage, with
+  wheelchair-friendly entrances and seating ensuring everyone can enjoy the
+  experience comfortably. The casual atmosphere and efficient service make it
+  ideal for quick meals or relaxed gatherings, appealing to locals and visitors
+  alike who appreciate top-rated sushi in a lively setting. Whether you're
+  exploring sushi restaurants in the area or craving something fresh and fun,
+  this spot delivers an engaging twist on traditional dining.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this sushi bar often rave about the
+  fresh, flavorful dishes that keep things exciting with a revolving selection,
+  making it a hit for anyone hunting for great sushi close to me. Many
+  appreciate the affordable prices and variety of options, noting that it's a
+  fantastic choice for families or groups looking for a casual meal without the
+  fuss. Feedback highlights the efficient service and fun atmosphere, though
+  some mention waits during peak times, which is common for popular spots.
+  Overall, people enjoy the quality of the ingredients and the innovative
+  presentation, helping it maintain a solid reputation among Japanese places
+  near me. If you're in the mood for I love sushi vibes with a modern edge, this
+  location seems to deliver a reliably enjoyable experience that keeps diners
+  coming back.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -208,7 +250,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

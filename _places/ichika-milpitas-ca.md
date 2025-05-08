@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ichika"
+title: Ichika
 permalink: /california/milpitas/ichika.html
 stateAbbr: CA
 stateName: California
 cityName: Milpitas
 seo:
-  name: "Ichika"
-  type: Restaurant
+  type: restaurant
   links: http://ichikamilpitas.com/
-description: "Ichika serves delicious sushi in Milpitas, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJXbEcQ_XJj4AR5V2k-L4blz4
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x808fc9f5431cb15d:0x3e971bbef8a45de5!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 5:00 – 9:00 PM'
     - 'Wednesday: 5:00 – 9:00 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 5:00 – 10:00 PM'
     - 'Saturday: 5:00 – 10:00 PM'
     - 'Sunday: 5:00 – 10:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 5:00 – 9:00 PM'
-    - 'Wednesday: 5:00 – 9:00 PM'
-    - 'Thursday: 5:00 – 9:00 PM'
-    - 'Friday: 5:00 – 10:00 PM'
-    - 'Saturday: 5:00 – 10:00 PM'
-    - 'Sunday: 5:00 – 10:00 PM'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +238,269 @@ phone: (669) 226-5215
 price_level: PRICE_LEVEL_INEXPENSIVE
 price_range: $100 &ndash; & up
 rating: '4.7'
-rating_count: 0
+rating_count: 86
 website: http://ichikamilpitas.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Ichika in Milpitas, CA$$$Ichika in Milpitas, CA, stands out as a
+  trendy Japanese restaurant offering an omakase menu that highlights fresh,
+  carefully prepared dishes in an intimate atmosphere. This spot specializes in
+  authentic Japanese fare, including exquisite sushi options that appeal to
+  those seeking quality dining experiences nearby. With its cozy setting and
+  thoughtful attention to detail, it's an ideal choice for enjoying flavorful
+  meals that balance tradition and innovation. The restaurant also provides
+  accessible features like wheelchair-friendly entrances, making it welcoming
+  for all visitors, while its evening hours cater to those looking for a relaxed
+  dinner outing.
+generative_summary: >-
+  Discover Ichika in Milpitas, CA$$$Ichika in Milpitas, CA, stands out as a
+  trendy Japanese restaurant offering an omakase menu that highlights fresh,
+  carefully prepared dishes in an intimate atmosphere. This spot specializes in
+  authentic Japanese fare, including exquisite sushi options that appeal to
+  those seeking quality dining experiences nearby. With its cozy setting and
+  thoughtful attention to detail, it's an ideal choice for enjoying flavorful
+  meals that balance tradition and innovation. The restaurant also provides
+  accessible features like wheelchair-friendly entrances, making it welcoming
+  for all visitors, while its evening hours cater to those looking for a relaxed
+  dinner outing.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJXbEcQ_XJj4AR5V2k-L4blz4/reviews/ChZDSUhNMG9nS0VJQ0FnSUNmMnJXYmZREAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        Impressed with the carefully and mindfully crafted menu. Great sake
+        selection to pair with the food. Service was excellent. Every course was
+        explained to us well. Ambience was great with non-intrusive music in the
+        background
+
+
+        We were there to celebrate mom's 81st birthday. They played a nice
+        version of "Happy Birthday" on their audio system for her! Totally
+        unexpected
+      languageCode: en
+    originalText:
+      text: >-
+        Impressed with the carefully and mindfully crafted menu. Great sake
+        selection to pair with the food. Service was excellent. Every course was
+        explained to us well. Ambience was great with non-intrusive music in the
+        background
+
+
+        We were there to celebrate mom's 81st birthday. They played a nice
+        version of "Happy Birthday" on their audio system for her! Totally
+        unexpected
+      languageCode: en
+    authorAttribution:
+      displayName: Opinion Worth a Thought
+      uri: https://www.google.com/maps/contrib/100168330107341721343/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjX0VNQHOWX5jIvc3Q-o4ee8Jp2dAzMKypFv4aTWgM13m5xfTndd=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-01-20T20:08:47.360101Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNmMnJXYmZREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNmMnJXYmZREAE!2m1!1s0x808fc9f5431cb15d:0x3e971bbef8a45de5
+  - name: >-
+      places/ChIJXbEcQ_XJj4AR5V2k-L4blz4/reviews/ChdDSUhNMG9nS0VJQ0FnTUNnaXJpaHFnRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 4
+    text:
+      text: >-
+        The service was very very good.  Food was good as expected.  We liked
+        the uni/salmon roe nigiri, the special chawamushi, and grilled misi sea
+        bass.  We celebrated a family member birthday there; enjoyed much.
+      languageCode: en
+    originalText:
+      text: >-
+        The service was very very good.  Food was good as expected.  We liked
+        the uni/salmon roe nigiri, the special chawamushi, and grilled misi sea
+        bass.  We celebrated a family member birthday there; enjoyed much.
+      languageCode: en
+    authorAttribution:
+      displayName: Phillip Cheng
+      uri: https://www.google.com/maps/contrib/117193186005621997182/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLusp1QghSEfm9s2jaEdiL2-7lRlwv1zuRVYPUsqsdP54dIx_E=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-02-15T20:43:59.839163Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNnaXJpaHFnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNnaXJpaHFnRRAB!2m1!1s0x808fc9f5431cb15d:0x3e971bbef8a45de5
+  - name: >-
+      places/ChIJXbEcQ_XJj4AR5V2k-L4blz4/reviews/ChZDSUhNMG9nS0VJQ0FnSUN2MFpXVE9nEAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        A great Japanese restaurant in the Milpitas area where you don't find
+        many fine dining restaurants. Food was awesome and service was great.
+        The chef is young but talented. Food is fresh and well presented. Worth
+        visiting again.
+      languageCode: en
+    originalText:
+      text: >-
+        A great Japanese restaurant in the Milpitas area where you don't find
+        many fine dining restaurants. Food was awesome and service was great.
+        The chef is young but talented. Food is fresh and well presented. Worth
+        visiting again.
+      languageCode: en
+    authorAttribution:
+      displayName: Sankha Hota
+      uri: https://www.google.com/maps/contrib/100834909024375913240/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjW8QJ1nAuKqWa0c1RbWgUzNjZmmOzXuDsPOtpXRCGmltn2_WQ8wxQ=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2024-12-12T01:14:16.065288Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN2MFpXVE9nEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN2MFpXVE9nEAE!2m1!1s0x808fc9f5431cb15d:0x3e971bbef8a45de5
+  - name: >-
+      places/ChIJXbEcQ_XJj4AR5V2k-L4blz4/reviews/ChZDSUhNMG9nS0VJQ0FnSUNfenVhbkF3EAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        I had a really great experience! The service was warm and the ambience
+        relaxing and intimate. The food was beautiful, delicious, had great
+        variety, and was well paced. About $150pp pre tax/tip and you'll leave
+        feeling comfortably full and happy!
+
+
+        The chawanmushi and sushi rice in the nigiri were my favorites 😋
+      languageCode: en
+    originalText:
+      text: >-
+        I had a really great experience! The service was warm and the ambience
+        relaxing and intimate. The food was beautiful, delicious, had great
+        variety, and was well paced. About $150pp pre tax/tip and you'll leave
+        feeling comfortably full and happy!
+
+
+        The chawanmushi and sushi rice in the nigiri were my favorites 😋
+      languageCode: en
+    authorAttribution:
+      displayName: Athena Hu
+      uri: https://www.google.com/maps/contrib/111566243199253373605/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKTO-wdUiKDINnUuN8FT1HDkMMuMhIedqcZNcLip6Y5rnop2w=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-01-16T07:14:21.693584Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNfenVhbkF3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNfenVhbkF3EAE!2m1!1s0x808fc9f5431cb15d:0x3e971bbef8a45de5
+  - name: >-
+      places/ChIJXbEcQ_XJj4AR5V2k-L4blz4/reviews/ChdDSUhNMG9nS0VJQ0FnSURIeFluMm1nRRAB
+    relativePublishTimeDescription: 7 months ago
+    rating: 5
+    text:
+      text: >-
+        A beautiful small space, cozy, zen and classy! We dined with our infant
+        at the 5pm seating so they were quite accommodating in giving us a big
+        table. Service was great. Our server was really attentive and explained
+        the courses well.
+
+        We loved their soy sauce made in-house by their chef! It felt special,
+        top notch, and paired so well with their sashimi. All the courses were
+        presented well and were paced appropriately. No dead-time between
+        courses and we appreciated that since we had a small baby with us.
+
+        The first course Sakizuke was a big wow for us! The scallops and
+        monkfish liver were my favorite. All the courses following that were
+        delightful, we loved the light and refreshing taste in most of them. My
+        husband added the Supplement (uni, wagyu, otoro) to his serving, but we
+        thought it was quite expensive since it came with one piece each and we
+        didn’t know our Nigiri would come with uni and otoro already. The
+        yakimono (grilled miso sea bass) were a bit too salty for our taste.
+        Dessert was decent but not as impressive as the other courses.
+
+        It was our first kaiseki experience and we were quite pleased overall.
+        The price of $148 per person is reasonable at nice restaurants nowadays
+        in my opinion. Good food, great space, a memorable meal to celebrate a
+        special occasion.
+      languageCode: en
+    originalText:
+      text: >-
+        A beautiful small space, cozy, zen and classy! We dined with our infant
+        at the 5pm seating so they were quite accommodating in giving us a big
+        table. Service was great. Our server was really attentive and explained
+        the courses well.
+
+        We loved their soy sauce made in-house by their chef! It felt special,
+        top notch, and paired so well with their sashimi. All the courses were
+        presented well and were paced appropriately. No dead-time between
+        courses and we appreciated that since we had a small baby with us.
+
+        The first course Sakizuke was a big wow for us! The scallops and
+        monkfish liver were my favorite. All the courses following that were
+        delightful, we loved the light and refreshing taste in most of them. My
+        husband added the Supplement (uni, wagyu, otoro) to his serving, but we
+        thought it was quite expensive since it came with one piece each and we
+        didn’t know our Nigiri would come with uni and otoro already. The
+        yakimono (grilled miso sea bass) were a bit too salty for our taste.
+        Dessert was decent but not as impressive as the other courses.
+
+        It was our first kaiseki experience and we were quite pleased overall.
+        The price of $148 per person is reasonable at nice restaurants nowadays
+        in my opinion. Good food, great space, a memorable meal to celebrate a
+        special occasion.
+      languageCode: en
+    authorAttribution:
+      displayName: Hillary Dang
+      uri: https://www.google.com/maps/contrib/104026925311042940903/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXzAjiDo1feRCC9KDNgjYZnjnZnXyrvew2WhIJUMOuDfcpLKWtm=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-09-18T06:12:30.973852Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURIeFluMm1nRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURIeFluMm1nRRAB!2m1!1s0x808fc9f5431cb15d:0x3e971bbef8a45de5
+review_summary: >-
+  What Guests Are Saying About the Experience$$$Visitors often rave about the
+  fresh and flavorful sushi selections, with many highlighting the standout
+  nigiri and grilled miso sea bass as must-try items that deliver a satisfying
+  taste. The service stands out as warm and attentive, creating a welcoming vibe
+  that makes every meal feel special, especially for celebrations or group
+  gatherings. People appreciate the intimate and relaxing atmosphere, which adds
+  to the overall enjoyment without any overwhelming distractions. While some
+  note that certain dishes might lean towards the salty side or come with a
+  higher price tag, the general consensus is that it's a solid pick for anyone
+  craving top-rated Japanese cuisine, leaving diners feeling happy and well-fed.
+  Overall, it's a go-to option for those searching for reliable sushi spots in
+  the area, blending quality food with a pleasant dining experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
 delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+dine_in: true
+good_for_children: false
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
 serves_breakfast: null
 serves_brunch: null
 serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
 serves_lunch: null
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

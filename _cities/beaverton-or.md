@@ -5,4 +5,5 @@ permalink: /oregon/beaverton/
 stateAbbr: OR
 stateName: Oregon
 cityName: Beaverton
+
 ---

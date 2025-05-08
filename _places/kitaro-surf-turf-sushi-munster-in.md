@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kitaro Surf & Turf & Sushi"
+title: Kitaro Surf & Turf & Sushi
 permalink: /indiana/munster/kitaro-surf-turf-sushi.html
 stateAbbr: IN
 stateName: Indiana
 cityName: Munster
 seo:
-  name: "Kitaro Surf & Turf & Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.kitarosurfandturf.com/
-description: "Kitaro Surf & Turf & Sushi serves delicious sushi in Munster, Indiana. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ64EkzK_hEYgRBx9J1vuxOMc
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8811e1afcc2481eb:0xc738b1fbd6491f07!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:30 PM'
     - 'Tuesday: Closed'
     - 'Wednesday: 11:00 AM – 9:30 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:30 PM'
     - 'Saturday: 11:00 AM – 10:30 PM'
     - 'Sunday: 11:00 AM – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:30 PM'
-    - 'Tuesday: Closed'
-    - 'Wednesday: 11:00 AM – 9:30 PM'
-    - 'Thursday: 11:00 AM – 9:30 PM'
-    - 'Friday: 11:00 AM – 10:30 PM'
-    - 'Saturday: 11:00 AM – 10:30 PM'
-    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T03:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +238,48 @@ phone: (219) 301-5090
 price_level: PRICE_LEVEL_EXPENSIVE
 price_range: null
 rating: '4.3'
-rating_count: 0
+rating_count: 1257
 website: https://www.kitarosurfandturf.com/
+description: >-
+  Discover Kitaro Surf & Turf & Sushi in Munster, Indiana$$$Kitaro Surf & Turf &
+  Sushi in Munster, Indiana, provides a relaxed spot for enjoying fresh
+  Japanese-inspired dishes, blending casual vibes with a focus on flavorful
+  sushi and seafood options. This spot stands out with its selection of expertly
+  crafted rolls and hibachi-style meals, appealing to those seeking quality
+  sushi restaurants in the area. Accessibility features like wheelchair-friendly
+  parking and entrances make it welcoming for all diners, while its operational
+  hours cater to lunch and dinner crowds throughout the week. The menu
+  highlights seafood-centric creations that pair well with the local dining
+  scene, offering a go-to choice for anyone searching for top-rated sushi near
+  Munster.
+generative_summary: >-
+  Discover Kitaro Surf & Turf & Sushi in Munster, Indiana$$$Kitaro Surf & Turf &
+  Sushi in Munster, Indiana, provides a relaxed spot for enjoying fresh
+  Japanese-inspired dishes, blending casual vibes with a focus on flavorful
+  sushi and seafood options. This spot stands out with its selection of expertly
+  crafted rolls and hibachi-style meals, appealing to those seeking quality
+  sushi restaurants in the area. Accessibility features like wheelchair-friendly
+  parking and entrances make it welcoming for all diners, while its operational
+  hours cater to lunch and dinner crowds throughout the week. The menu
+  highlights seafood-centric creations that pair well with the local dining
+  scene, offering a go-to choice for anyone searching for top-rated sushi near
+  Munster.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Buzzing About$$$Visitors often rave about the tasty
+  signature rolls like the firecracker and rainbow dragon at this Japanese
+  eatery, praising the flavorful combinations and accompanying drinks that
+  elevate the meal. Many appreciate the inviting atmosphere and attentive staff,
+  making it a solid pick for special occasions or casual get-togethers with
+  friends. While the overall experience shines with its beautiful decor and
+  reliable service, some note that the prices lean on the higher side, which is
+  worth considering for budget-conscious folks. Still, the consensus leans
+  positive, with diners highlighting it as a great option for exploring Japanese
+  cuisine without the hassle. If you're on the hunt for sushi places near you,
+  this spot delivers a generally enjoyable vibe with room for everyone to find
+  something satisfying.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +305,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

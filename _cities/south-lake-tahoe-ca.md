@@ -5,4 +5,5 @@ permalink: /california/south-lake-tahoe/
 stateAbbr: CA
 stateName: California
 cityName: South Lake Tahoe
+
 ---

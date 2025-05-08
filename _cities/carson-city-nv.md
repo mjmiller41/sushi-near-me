@@ -5,4 +5,5 @@ permalink: /nevada/carson-city/
 stateAbbr: NV
 stateName: Nevada
 cityName: Carson City
+
 ---

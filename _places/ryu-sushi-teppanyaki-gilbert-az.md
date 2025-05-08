@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ryu Sushi & Teppanyaki"
+title: Ryu Sushi & Teppanyaki
 permalink: /arizona/gilbert/ryu-sushi-teppanyaki.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Gilbert
 seo:
-  name: "Ryu Sushi & Teppanyaki"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Ryu Sushi & Teppanyaki serves delicious sushi in Gilbert, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJhVQDqXasK4cR47nEhDrIYw8
 photos:
   - name: >-
@@ -185,7 +183,40 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Ryu Sushi & Teppanyaki in Gilbert, Arizona$$$Ryu Sushi & Teppanyaki
+  in Gilbert, Arizona, offers a welcoming spot for enjoying authentic Japanese
+  flavors in a casual setting. This restaurant specializes in fresh sushi rolls,
+  sizzling teppanyaki dishes, and hearty ramen options, complemented by a
+  selection of beer, wine, and sake to enhance your meal. With thoughtful
+  accessibility features like wheelchair-friendly parking and entrances, it's
+  designed to accommodate all guests comfortably. The vibrant atmosphere makes
+  it an ideal choice for those seeking top-rated Japanese cuisine, perfect for
+  anyone exploring sushi restaurants near Gilbert.
+generative_summary: >-
+  Discover Ryu Sushi & Teppanyaki in Gilbert, Arizona$$$Ryu Sushi & Teppanyaki
+  in Gilbert, Arizona, offers a welcoming spot for enjoying authentic Japanese
+  flavors in a casual setting. This restaurant specializes in fresh sushi rolls,
+  sizzling teppanyaki dishes, and hearty ramen options, complemented by a
+  selection of beer, wine, and sake to enhance your meal. With thoughtful
+  accessibility features like wheelchair-friendly parking and entrances, it's
+  designed to accommodate all guests comfortably. The vibrant atmosphere makes
+  it an ideal choice for those seeking top-rated Japanese cuisine, perfect for
+  anyone exploring sushi restaurants near Gilbert.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying About Ryu Sushi & Teppanyaki$$$Folks chatting about
+  this spot often highlight the fresh ingredients and creative twists on classic
+  dishes, making it a go-to for sushi lovers in the area. Many appreciate the
+  flavorful teppanyaki and variety of options that keep things exciting without
+  overwhelming the palate. While some mention the service as reliably friendly
+  and efficient, others note that the portions feel just right for a satisfying
+  meal. Overall, it's praised as a solid pick for casual dining, especially if
+  you're hunting for the best sushi near you, with a vibe that's approachable
+  and worth returning to. Though experiences can vary, the general buzz keeps
+  things upbeat for anyone craving Japanese places close by.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +242,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

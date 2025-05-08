@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Betsutenjin Ramen"
+title: Betsutenjin Ramen
 permalink: /washington/seattle/betsutenjin-ramen.html
 stateAbbr: WA
 stateName: Washington
 cityName: Seattle
 seo:
-  name: "Betsutenjin Ramen"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Betsutenjin Ramen serves delicious sushi in Seattle, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJISfOEcxqkFQRgL7X1kMrKLk
 photos:
   - name: >-
@@ -183,7 +181,42 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Betsutenjin Ramen in Seattle, WA$$$Betsutenjin Ramen in Seattle, WA,
+  stands out as a cozy haven for late-night diners craving authentic Japanese
+  flavors, featuring hearty Hakata-style ramen and savory prawn miso options
+  alongside complementary sides. The spot emphasizes a welcoming vibe that
+  captures the essence of traditional Japanese dining, making it a go-to choice
+  for those exploring Japanese places near me. Accessibility features like
+  wheelchair-friendly entrances enhance the experience, ensuring everyone can
+  enjoy the fresh ingredients and thoughtful presentations. This neighborhood
+  gem in the First Hill area combines comfort with quality, ideal for anyone
+  seeking a relaxed meal in a bustling city setting.
+generative_summary: >-
+  Discover Betsutenjin Ramen in Seattle, WA$$$Betsutenjin Ramen in Seattle, WA,
+  stands out as a cozy haven for late-night diners craving authentic Japanese
+  flavors, featuring hearty Hakata-style ramen and savory prawn miso options
+  alongside complementary sides. The spot emphasizes a welcoming vibe that
+  captures the essence of traditional Japanese dining, making it a go-to choice
+  for those exploring Japanese places near me. Accessibility features like
+  wheelchair-friendly entrances enhance the experience, ensuring everyone can
+  enjoy the fresh ingredients and thoughtful presentations. This neighborhood
+  gem in the First Hill area combines comfort with quality, ideal for anyone
+  seeking a relaxed meal in a bustling city setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Folks visiting Betsutenjin Ramen frequently
+  highlight the tasty dishes like lobster salad and gyoza, which bring a
+  satisfying twist to the classic ramen lineup and keep things feeling fresh and
+  flavorful. The friendly service and genuine Japanese atmosphere make it a
+  welcoming spot for casual meetups or solo dinners, with many appreciating the
+  value for the price. Overall, diners enjoy the authentic vibes and solid
+  portions that make it worth returning to for a comforting meal. While a few
+  note that the broth might not always hit the mark in terms of richness, the
+  positives like the variety and affordability shine through, leaving most
+  people with a positive impression of this local favorite.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -209,7 +242,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

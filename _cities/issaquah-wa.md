@@ -5,4 +5,5 @@ permalink: /washington/issaquah/
 stateAbbr: WA
 stateName: Washington
 cityName: Issaquah
+
 ---

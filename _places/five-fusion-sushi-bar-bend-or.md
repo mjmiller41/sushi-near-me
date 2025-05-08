@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Five Fusion & Sushi Bar"
+title: Five Fusion & Sushi Bar
 permalink: /oregon/bend/five-fusion-sushi-bar.html
 stateAbbr: OR
 stateName: Oregon
 cityName: Bend
 seo:
-  name: "Five Fusion & Sushi Bar"
-  type: Restaurant
+  type: restaurant
   links: http://www.5fusion.com/
-description: "Five Fusion & Sushi Bar serves delicious sushi in Bend, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJy24cTJ3IuFQRYAzcnaoOno0
 photos:
   - name: >-
@@ -170,7 +168,49 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x54b8c89d4c1c6ecb:0x8d9e0eaa9ddc0c60!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 16
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 16
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 4:00 – 9:00 PM'
     - 'Tuesday: Closed'
     - 'Wednesday: Closed'
@@ -178,54 +218,359 @@ opening_hours:
     - 'Friday: 4:00 – 9:00 PM'
     - 'Saturday: 4:00 – 9:00 PM'
     - 'Sunday: 4:00 – 9:00 PM'
-  current:
-    - 'Monday: 4:00 – 9:00 PM'
-    - 'Tuesday: Closed'
-    - 'Wednesday: Closed'
-    - 'Thursday: 4:00 – 9:00 PM'
-    - 'Friday: 4:00 – 9:00 PM'
-    - 'Saturday: 4:00 – 9:00 PM'
-    - 'Sunday: 4:00 – 9:00 PM'
+  nextOpenTime: '2025-05-03T23:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: false
+    periods:
+      - open:
+          day: 0
+          hour: 15
+          minute: 30
+        close:
+          day: 0
+          hour: 21
+          minute: 0
+      - open:
+          day: 1
+          hour: 15
+          minute: 30
+        close:
+          day: 1
+          hour: 21
+          minute: 0
+      - open:
+          day: 4
+          hour: 15
+          minute: 30
+        close:
+          day: 4
+          hour: 21
+          minute: 0
+      - open:
+          day: 5
+          hour: 15
+          minute: 30
+        close:
+          day: 5
+          hour: 21
+          minute: 0
+      - open:
+          day: 6
+          hour: 15
+          minute: 30
+        close:
+          day: 6
+          hour: 21
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 3:30 – 9:00 PM'
+      - 'Tuesday: Closed'
+      - 'Wednesday: Closed'
+      - 'Thursday: 3:30 – 9:00 PM'
+      - 'Friday: 3:30 – 9:00 PM'
+      - 'Saturday: 3:30 – 9:00 PM'
+      - 'Sunday: 3:30 – 9:00 PM'
+    secondaryHoursType: TAKEOUT
+    nextOpenTime: '2025-05-03T22:30:00Z'
+  - openNow: false
+    periods:
+      - open:
+          day: 0
+          hour: 16
+          minute: 0
+        close:
+          day: 0
+          hour: 21
+          minute: 0
+      - open:
+          day: 1
+          hour: 16
+          minute: 0
+        close:
+          day: 1
+          hour: 21
+          minute: 0
+      - open:
+          day: 4
+          hour: 16
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 0
+      - open:
+          day: 5
+          hour: 16
+          minute: 0
+        close:
+          day: 5
+          hour: 21
+          minute: 0
+      - open:
+          day: 6
+          hour: 16
+          minute: 0
+        close:
+          day: 6
+          hour: 21
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 4:00 – 9:00 PM'
+      - 'Tuesday: Closed'
+      - 'Wednesday: Closed'
+      - 'Thursday: 4:00 – 9:00 PM'
+      - 'Friday: 4:00 – 9:00 PM'
+      - 'Saturday: 4:00 – 9:00 PM'
+      - 'Sunday: 4:00 – 9:00 PM'
+    secondaryHoursType: DINNER
+    nextOpenTime: '2025-05-03T23:00:00Z'
 phone: (541) 323-2328
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.5'
-rating_count: 0
+rating_count: 576
 website: http://www.5fusion.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Five Fusion & Sushi Bar in Bend, OR$$$Nestled in the heart of Bend,
+  OR, Five Fusion & Sushi Bar stands out as a premier destination for those
+  seeking fresh Japanese cuisine and innovative sushi options. This upscale spot
+  boasts a sleek, modern ambiance with high ceilings and stylish decor that
+  enhances the dining experience, making it ideal for a memorable evening out.
+  Patrons can enjoy a variety of expertly crafted dishes, including creative
+  fusion plates and hand-rolled sushi that highlight fresh ingredients and bold
+  flavors, paired perfectly with craft cocktails. The restaurant's commitment to
+  accessibility and thoughtful details, like wheelchair-friendly features,
+  ensures a welcoming atmosphere for all visitors. Whether you're exploring
+  sushi places near you or craving top-rated Japanese flavors, this location
+  delivers a refined yet approachable vibe that keeps diners coming back.
+generative_summary: >-
+  Discover Five Fusion & Sushi Bar in Bend, OR$$$Nestled in the heart of Bend,
+  OR, Five Fusion & Sushi Bar stands out as a premier destination for those
+  seeking fresh Japanese cuisine and innovative sushi options. This upscale spot
+  boasts a sleek, modern ambiance with high ceilings and stylish decor that
+  enhances the dining experience, making it ideal for a memorable evening out.
+  Patrons can enjoy a variety of expertly crafted dishes, including creative
+  fusion plates and hand-rolled sushi that highlight fresh ingredients and bold
+  flavors, paired perfectly with craft cocktails. The restaurant's commitment to
+  accessibility and thoughtful details, like wheelchair-friendly features,
+  ensures a welcoming atmosphere for all visitors. Whether you're exploring
+  sushi places near you or craving top-rated Japanese flavors, this location
+  delivers a refined yet approachable vibe that keeps diners coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJy24cTJ3IuFQRYAzcnaoOno0/reviews/ChdDSUhNMG9nS0VJQ0FnSUNmMFpPMml3RRAB
+    relativePublishTimeDescription: 4 months ago
+    rating: 4
+    text:
+      text: >-
+        This restaurant is visually pleasing, the ceiling is absolutely
+        beautiful. The service could have been better, but it doesn't take much
+        away from my experience here. The food was incredible. I recommend the
+        spider roll, the eel sauce is divine. The edemame was spicier than
+        expected, but very delicious nonetheless.
+      languageCode: en
+    originalText:
+      text: >-
+        This restaurant is visually pleasing, the ceiling is absolutely
+        beautiful. The service could have been better, but it doesn't take much
+        away from my experience here. The food was incredible. I recommend the
+        spider roll, the eel sauce is divine. The edemame was spicier than
+        expected, but very delicious nonetheless.
+      languageCode: en
+    authorAttribution:
+      displayName: Sarai Salcido
+      uri: https://www.google.com/maps/contrib/114391248411745239191/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocL2K-bJXVg9XbrCdbrkAJYpYpnONP2DgPDWfHDf_YUnS3BxIA=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-12-30T02:19:54.661601Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNmMFpPMml3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNmMFpPMml3RRAB!2m1!1s0x54b8c89d4c1c6ecb:0x8d9e0eaa9ddc0c60
+  - name: >-
+      places/ChIJy24cTJ3IuFQRYAzcnaoOno0/reviews/ChZDSUhNMG9nS0VJQ0FnSURnMWNPbk53EAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Update 3/2025. Still awesome with great service. Fresh food. And good
+        cocktails.
+
+
+        Cool, stylish atmosphere with food and service to match. Clean and
+        inviting throughout with upscale lighting and decor. Sushi was diverse
+        and expertly prepared. Service was great with friendly and knowledgeable
+        staff. Prices are a little high, but portions and quality are worth it.
+      languageCode: en
+    originalText:
+      text: >-
+        Update 3/2025. Still awesome with great service. Fresh food. And good
+        cocktails.
+
+
+        Cool, stylish atmosphere with food and service to match. Clean and
+        inviting throughout with upscale lighting and decor. Sushi was diverse
+        and expertly prepared. Service was great with friendly and knowledgeable
+        staff. Prices are a little high, but portions and quality are worth it.
+      languageCode: en
+    authorAttribution:
+      displayName: Matthew Krunglevich
+      uri: https://www.google.com/maps/contrib/100150831663760014553/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjU2Im7uOgausUs01LtzK2Y2_zpGdk6mdzdPU-LV5QuwpSZyva_gsQ=s128-c0x00000000-cc-rp-mo-ba7
+    publishTime: '2025-03-08T05:26:48.450126Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURnMWNPbk53EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURnMWNPbk53EAE!2m1!1s0x54b8c89d4c1c6ecb:0x8d9e0eaa9ddc0c60
+  - name: >-
+      places/ChIJy24cTJ3IuFQRYAzcnaoOno0/reviews/ChZDSUhNMG9nS0VJQ0FnSUNrMnN1ZlBREAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        We have been here a number of times here now, and they always have great
+        food and good service.  Price was on par for what you are getting. We
+        had Riley as our server the last time we went, and he was excellent. The
+        shrimp app was great as well as the pork belly fried rice. We also
+        shared 6 specialty rolls and some blue fin sashimi, everything was
+        excellent.
+      languageCode: en
+    originalText:
+      text: >-
+        We have been here a number of times here now, and they always have great
+        food and good service.  Price was on par for what you are getting. We
+        had Riley as our server the last time we went, and he was excellent. The
+        shrimp app was great as well as the pork belly fried rice. We also
+        shared 6 specialty rolls and some blue fin sashimi, everything was
+        excellent.
+      languageCode: en
+    authorAttribution:
+      displayName: jason w
+      uri: https://www.google.com/maps/contrib/117424802628250661200/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUjPqoQPi3YVUbJHRHdft818RdFRPKS4iBGTaCIgw3EyWhYRgGL=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-01-07T06:19:33.218227Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNrMnN1ZlBREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNrMnN1ZlBREAE!2m1!1s0x54b8c89d4c1c6ecb:0x8d9e0eaa9ddc0c60
+  - name: >-
+      places/ChIJy24cTJ3IuFQRYAzcnaoOno0/reviews/ChZDSUhNMG9nS0VJQ0FnSUN0aE1MSGJREAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        My husband and I love this place! The fish is always super fresh and the
+        presentation is beautiful. The waitstaff is fantastic and very
+        accommodating. As someone who reacts to gluten, I really appreciate the
+        option to have almost anything on the menu made gluten-free. (They even
+        have a gluten-free "unagi sauce" which is delicious!) Grateful to have a
+        go-to sushi restaurant that is consistently good.
+      languageCode: en
+    originalText:
+      text: >-
+        My husband and I love this place! The fish is always super fresh and the
+        presentation is beautiful. The waitstaff is fantastic and very
+        accommodating. As someone who reacts to gluten, I really appreciate the
+        option to have almost anything on the menu made gluten-free. (They even
+        have a gluten-free "unagi sauce" which is delicious!) Grateful to have a
+        go-to sushi restaurant that is consistently good.
+      languageCode: en
+    authorAttribution:
+      displayName: Stefanie Obregozo
+      uri: https://www.google.com/maps/contrib/116540966746724480112/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXrCNxf4zO9Mm8dextoDzDLmsKMCFLm_TelIb976Aaj5k28JvZc=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2024-01-28T23:45:08.199418Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN0aE1MSGJREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN0aE1MSGJREAE!2m1!1s0x54b8c89d4c1c6ecb:0x8d9e0eaa9ddc0c60
+  - name: >-
+      places/ChIJy24cTJ3IuFQRYAzcnaoOno0/reviews/ChdDSUhNMG9nS0VJQ0FnSUNMOXBhaXdnRRAB
+    relativePublishTimeDescription: 10 months ago
+    rating: 5
+    text:
+      text: >-
+        Great find tonight for dinner! Place is super cute and clean. Bright and
+        airy. Cool water feature suspended from the ceiling. Service was
+        stellar. Very knowledgeable and friendly. Food was amazing. Sushi is
+        fresh and flavorful. Steak was delicious. Appetizers were delightful.
+        All around great experience!
+      languageCode: en
+    originalText:
+      text: >-
+        Great find tonight for dinner! Place is super cute and clean. Bright and
+        airy. Cool water feature suspended from the ceiling. Service was
+        stellar. Very knowledgeable and friendly. Food was amazing. Sushi is
+        fresh and flavorful. Steak was delicious. Appetizers were delightful.
+        All around great experience!
+      languageCode: en
+    authorAttribution:
+      displayName: Lorri Dana
+      uri: https://www.google.com/maps/contrib/114501608872264532289/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUCDWckX9IRRmhFfmidF3Rii0bWoJCVcmTnfZbKqlktdmchBcmb=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2024-06-19T02:54:07.216951Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNMOXBhaXdnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNMOXBhaXdnRRAB!2m1!1s0x54b8c89d4c1c6ecb:0x8d9e0eaa9ddc0c60
+review_summary: >-
+  What People Love About This Sushi Spot$$$Folks often rave about the fresh and
+  flavorful sushi rolls that steal the show, with many highlighting how the
+  variety and quality make every bite worthwhile for a satisfying meal. Service
+  tends to be friendly and attentive, adding to the overall enjoyable vibe
+  without any major hiccups, though some note that prices lean toward the higher
+  side for the experience. Appetizers and specialty items, like the spicy
+  edamame or pork belly dishes, frequently get shoutouts for their delicious
+  twists that balance taste and presentation nicely. Overall, it's a go-to
+  choice for groups or anyone in the mood for a casual yet elevated dining
+  outing, with the consensus leaning positive on the fresh ingredients and
+  accommodating options. If you're hunting for reliable sushi restaurants
+  nearby, this spot earns solid marks for delivering a consistently good time
+  with minimal complaints.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  paidParkingLot: true
+  freeStreetParking: true
+  paidStreetParking: true
+  freeGarageParking: true
+  paidGarageParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+curbside_pickup: true
+delivery: false
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: true
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
+serves_coffee: true
+serves_dinner: true
+serves_dessert: true
+serves_lunch: false
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  A sleek, modern space with high ceilings is the setting for Asian fusion
+  plates, sushi & cocktails.
 
 ---

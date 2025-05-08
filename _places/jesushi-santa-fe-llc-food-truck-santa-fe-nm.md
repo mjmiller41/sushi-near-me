@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Jesushi Santa Fe LLC (Food Truck)"
+title: Jesushi Santa Fe LLC (Food Truck)
 permalink: /new-mexico/santa-fe/jesushi-santa-fe-llc-food-truck.html
 stateAbbr: NM
 stateName: New Mexico
 cityName: Santa Fe
 seo:
-  name: "Jesushi Santa Fe LLC (Food Truck)"
-  type: Restaurant
+  type: restaurant
   links: https://order.online/business/jesushi-13887887
-description: "Jesushi Santa Fe LLC (Food Truck) serves delicious sushi in Santa Fe, New Mexico. Try fresh Japanese dishes for a great dining experience. Available for takeout."
 place_id: ChIJVyUTBapbGIcRSai0KQdDEhA
 photos:
   - name: >-
@@ -183,6 +181,31 @@ price_range: null
 rating: '4.9'
 rating_count: 0
 website: https://order.online/business/jesushi-13887887
+description: >-
+  Discover Jesushi in Santa Fe$$$Jesushi Santa Fe LLC, a vibrant food truck in
+  Santa Fe, NM, brings fresh Japanese flavors to the streets with its mobile
+  setup offering classic sushi rolls and other savory fare perfect for on-the-go
+  dining. This spot stands out for its commitment to quality ingredients and
+  accessible options, including wheelchair-friendly parking and entrances,
+  making it a convenient choice for everyone seeking sushi near me. Patrons can
+  enjoy a variety of expertly prepared dishes that highlight the best of
+  Japanese cuisine, all served with a focus on takeout efficiency. Whether
+  you're in the mood for top-rated sushi or exploring Japanese places near me,
+  this food truck delivers a delightful experience with its fresh, flavorful
+  selections that capture the essence of authentic tastes.
+generative_summary: >-
+  Discover Jesushi in Santa Fe$$$Jesushi Santa Fe LLC, a vibrant food truck in
+  Santa Fe, NM, brings fresh Japanese flavors to the streets with its mobile
+  setup offering classic sushi rolls and other savory fare perfect for on-the-go
+  dining. This spot stands out for its commitment to quality ingredients and
+  accessible options, including wheelchair-friendly parking and entrances,
+  making it a convenient choice for everyone seeking sushi near me. Patrons can
+  enjoy a variety of expertly prepared dishes that highlight the best of
+  Japanese cuisine, all served with a focus on takeout efficiency. Whether
+  you're in the mood for top-rated sushi or exploring Japanese places near me,
+  this food truck delivers a delightful experience with its fresh, flavorful
+  selections that capture the essence of authentic tastes.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJVyUTBapbGIcRSai0KQdDEhA/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ5emRDZWV3EAE
@@ -430,6 +453,21 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURmcVpYT2lBRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURmcVpYT2lBRRAB!2m1!1s0x87185baa05132557:0x1012430729b4a849
+review_summary: >-
+  What Customers Are Raving About$$$Folks around Santa Fe seem genuinely
+  thrilled with the sushi offerings here, often highlighting the super fresh
+  ingredients and high-quality rolls that make it stand out among local spots.
+  Many appreciate how the food is made to order, ensuring everything tastes
+  light and delicious, with favorites like miso soup and rice balls earning
+  consistent praise for their spot-on flavors. It's clear that the service adds
+  to the appeal, as people mention the helpful staff and accommodating options
+  for dietary needs, turning quick visits into satisfying experiences. Overall,
+  diners frequently call this one of the best sushi near me choices, noting its
+  reasonable prices and tasty variety that keeps them coming back for more
+  casual, enjoyable meals. While some wish for extended hours, the positive
+  vibes around the fresh preparations and overall vibe make it a go-to for
+  anyone craving reliable Japanese fare in the area.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -460,7 +498,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

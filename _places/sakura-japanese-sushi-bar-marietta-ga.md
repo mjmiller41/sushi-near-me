@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sakura Japanese Sushi Bar"
+title: Sakura Japanese Sushi Bar
 permalink: /georgia/marietta/sakura-japanese-sushi-bar.html
 stateAbbr: GA
 stateName: Georgia
 cityName: Marietta
 seo:
-  name: "Sakura Japanese Sushi Bar"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sakura Japanese Sushi Bar serves delicious sushi in Marietta, Georgia. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ6TUMxbsN9YgRly7sCtUCuTg
 photos:
   - name: >-
@@ -185,7 +183,43 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Sakura Japanese Sushi Bar in Marietta, GA$$$Nestled in the heart of
+  Marietta, Georgia, Sakura Japanese Sushi Bar stands out as a welcoming spot
+  for fresh Japanese cuisine enthusiasts. This cozy restaurant offers an array
+  of expertly crafted sushi rolls and dishes that highlight quality ingredients
+  and traditional flavors, making it a go-to choice for anyone craving top-rated
+  sushi in the area. With its accessible features like wheelchair-friendly
+  parking and seating, it ensures a comfortable visit for all guests seeking a
+  relaxed dining experience. The inviting atmosphere, complete with vibrant
+  photos of delicious offerings, adds to the appeal for those exploring sushi
+  restaurants nearby, blending authenticity with a modern touch.
+generative_summary: >-
+  Discover Sakura Japanese Sushi Bar in Marietta, GA$$$Nestled in the heart of
+  Marietta, Georgia, Sakura Japanese Sushi Bar stands out as a welcoming spot
+  for fresh Japanese cuisine enthusiasts. This cozy restaurant offers an array
+  of expertly crafted sushi rolls and dishes that highlight quality ingredients
+  and traditional flavors, making it a go-to choice for anyone craving top-rated
+  sushi in the area. With its accessible features like wheelchair-friendly
+  parking and seating, it ensures a comfortable visit for all guests seeking a
+  relaxed dining experience. The inviting atmosphere, complete with vibrant
+  photos of delicious offerings, adds to the appeal for those exploring sushi
+  restaurants nearby, blending authenticity with a modern touch.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Folks who stop by Sakura Japanese Sushi Bar often
+  highlight the fresh, flavorful sushi and the welcoming vibe that makes every
+  meal feel special. Many appreciate the variety of options, from classic rolls
+  to creative specials, which keep things exciting for groups or solo diners.
+  It's commonly noted as a solid pick for anyone hunting for reliable Japanese
+  places close by, with praise for the attentive service that enhances the
+  overall experience. While experiences can vary, the general buzz leans
+  positive, suggesting it's a great spot for satisfying your sushi cravings
+  without any major letdowns. All in all, it comes across as a dependable choice
+  for a casual night out, earning nods from those who love exploring local
+  eateries.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +245,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

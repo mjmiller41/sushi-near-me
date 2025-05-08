@@ -5,4 +5,5 @@ permalink: /california/palm-springs/
 stateAbbr: CA
 stateName: California
 cityName: Palm Springs
+
 ---

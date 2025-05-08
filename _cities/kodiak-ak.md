@@ -5,4 +5,5 @@ permalink: /alaska/kodiak/
 stateAbbr: AK
 stateName: Alaska
 cityName: Kodiak
+
 ---

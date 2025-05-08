@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "KANZI | Sushi & Hibachi Restaurant"
+title: KANZI | Sushi & Hibachi Restaurant
 permalink: /texas/lewisville/kanzi-sushi-hibachi-restaurant.html
 stateAbbr: TX
 stateName: Texas
 cityName: Lewisville
 seo:
-  name: "KANZI | Sushi & Hibachi Restaurant"
-  type: Restaurant
+  type: restaurant
   links: https://kanzisushiandhibachi.com/
-description: "KANZI | Sushi & Hibachi Restaurant serves delicious sushi in Lewisville, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ5TAZmxIlTIYRJME_57l5vyg
 photos:
   - name: >-
@@ -170,7 +168,105 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x864c25129b1930e5:0x28bf79b9e73fc124!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 16
+        minute: 30
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 16
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 2:30 PM, 4:30 – 10:00 PM'
     - 'Tuesday: 11:00 AM – 2:30 PM, 4:30 – 10:00 PM'
     - 'Wednesday: 11:00 AM – 2:30 PM, 4:30 – 10:00 PM'
@@ -178,14 +274,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 2:30 PM, 4:30 – 10:00 PM'
     - 'Saturday: 4:30 – 10:00 PM'
     - 'Sunday: 4:30 – 10:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 2:30 PM, 4:30 – 10:00 PM'
-    - 'Tuesday: 11:00 AM – 2:30 PM, 4:30 – 10:00 PM'
-    - 'Wednesday: 11:00 AM – 2:30 PM, 4:30 – 10:00 PM'
-    - 'Thursday: 11:00 AM – 2:30 PM, 4:30 – 10:00 PM'
-    - 'Friday: 11:00 AM – 2:30 PM, 4:30 – 10:00 PM'
-    - 'Saturday: 4:30 – 10:00 PM'
-    - 'Sunday: 4:30 – 10:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +286,232 @@ phone: (972) 899-9779
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.5'
-rating_count: 0
+rating_count: 472
 website: https://kanzisushiandhibachi.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Kanzi Sushi & Hibachi in Lewisville, Texas$$$KANZI | Sushi & Hibachi
+  Restaurant in Lewisville, TX, stands out as a welcoming spot for fresh
+  Japanese cuisine, blending casual vibes with flavorful hibachi dishes and
+  creative sushi rolls. This family-friendly eatery emphasizes accessibility
+  features like wheelchair-friendly entrances and seating, making it easy for
+  everyone to enjoy a relaxed meal. With outdoor seating offering serene views,
+  it's an ideal choice for those seeking top-rated sushi options in a peaceful
+  setting. The menu highlights a variety of Japanese-inspired meals at moderate
+  prices, perfect for anyone exploring sushi restaurants nearby. Overall, it
+  captures the essence of authentic, everyday dining with a touch of elegance.
+generative_summary: >-
+  Discover Kanzi Sushi & Hibachi in Lewisville, Texas$$$KANZI | Sushi & Hibachi
+  Restaurant in Lewisville, TX, stands out as a welcoming spot for fresh
+  Japanese cuisine, blending casual vibes with flavorful hibachi dishes and
+  creative sushi rolls. This family-friendly eatery emphasizes accessibility
+  features like wheelchair-friendly entrances and seating, making it easy for
+  everyone to enjoy a relaxed meal. With outdoor seating offering serene views,
+  it's an ideal choice for those seeking top-rated sushi options in a peaceful
+  setting. The menu highlights a variety of Japanese-inspired meals at moderate
+  prices, perfect for anyone exploring sushi restaurants nearby. Overall, it
+  captures the essence of authentic, everyday dining with a touch of elegance.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ5TAZmxIlTIYRJME_57l5vyg/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJNzl6ZWJREAE
+    relativePublishTimeDescription: 4 weeks ago
+    rating: 5
+    text:
+      text: >-
+        I love Kanzi, it’s my favorite sushi place in Dallas! The inside is very
+        nice and the atmosphere is great! They have outdoor seating too, and
+        it’s nice that if you’re sitting outside you have a view of the lake.
+        The servers are very friendly and helpful, and the food is among the
+        best I have eaten here in Dallas. They also have some unique rolls, and
+        the prices are very good for the quality. They also have an assortment
+        of delicious hibachi meals, and even scallops that are a very good deal
+        for the price, and taste amazing too! The location is very pretty, and
+        when you finish eating you can always take a walk by the lake!
+      languageCode: en
+    originalText:
+      text: >-
+        I love Kanzi, it’s my favorite sushi place in Dallas! The inside is very
+        nice and the atmosphere is great! They have outdoor seating too, and
+        it’s nice that if you’re sitting outside you have a view of the lake.
+        The servers are very friendly and helpful, and the food is among the
+        best I have eaten here in Dallas. They also have some unique rolls, and
+        the prices are very good for the quality. They also have an assortment
+        of delicious hibachi meals, and even scallops that are a very good deal
+        for the price, and taste amazing too! The location is very pretty, and
+        when you finish eating you can always take a walk by the lake!
+      languageCode: en
+    authorAttribution:
+      displayName: Sophia Salem
+      uri: https://www.google.com/maps/contrib/101190758993167246513/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjW0jpo2V8ILi4G_SVWa5sEZz71g97HPdOlSHqq74kPyMfq5SA4F=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-05T17:08:15.894201Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNJNzl6ZWJREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNJNzl6ZWJREAE!2m1!1s0x864c25129b1930e5:0x28bf79b9e73fc124
+  - name: >-
+      places/ChIJ5TAZmxIlTIYRJME_57l5vyg/reviews/ChZDSUhNMG9nS0VJQ0FnTURRcWZTWllREAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        The food was really good my boyfriend said it was the best sushi he has
+        ever had. The staff were really friendly and the location is great.
+        Would definitely come back again.
+      languageCode: en
+    originalText:
+      text: >-
+        The food was really good my boyfriend said it was the best sushi he has
+        ever had. The staff were really friendly and the location is great.
+        Would definitely come back again.
+      languageCode: en
+    authorAttribution:
+      displayName: Hansoul Jung
+      uri: https://www.google.com/maps/contrib/115794936258749564856/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLq0CSTMJE2dKWk0ZAiHJvFR5LfrcS8DsjXFwCM5Y4XQ3IWDQ=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-12T01:17:27.634484Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURRcWZTWllREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURRcWZTWllREAE!2m1!1s0x864c25129b1930e5:0x28bf79b9e73fc124
+  - name: >-
+      places/ChIJ5TAZmxIlTIYRJME_57l5vyg/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3N3IzUWN3EAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        I absolutely love this place! The food is always served in generous
+        portions and of excellent quality. I highly recommend trying their
+        seared salmon sushi! It’s incredibly fresh and full of flavor!
+      languageCode: en
+    originalText:
+      text: >-
+        I absolutely love this place! The food is always served in generous
+        portions and of excellent quality. I highly recommend trying their
+        seared salmon sushi! It’s incredibly fresh and full of flavor!
+      languageCode: en
+    authorAttribution:
+      displayName: Vivian Kim
+      uri: https://www.google.com/maps/contrib/113550833607974931870/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJtWFq1Bn93VRDZ3ESNRXdRNxd8z6OTOfsxr0FqWF2f8mEN7M6A=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-26T01:11:26.879313Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUR3N3IzUWN3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUR3N3IzUWN3EAE!2m1!1s0x864c25129b1930e5:0x28bf79b9e73fc124
+  - name: >-
+      places/ChIJ5TAZmxIlTIYRJME_57l5vyg/reviews/ChZDSUhNMG9nS0VJQ0FnSUNyNGNITFdREAE
+    relativePublishTimeDescription: 9 months ago
+    rating: 5
+    text:
+      text: >-
+        I had a great time today for my birthday dinner! They accommodated
+        seating of 10 people. Everyone loved the food. I love that it's BYOB so
+        we were able to enjoy wine as they provided glasses for the wine and
+        even brought a chiller to keep wines cool. I actually came last year for
+        my birthday and love the atmosphere! I will be coming back. Thank you
+        for great food and service 
+      languageCode: en
+    originalText:
+      text: >-
+        I had a great time today for my birthday dinner! They accommodated
+        seating of 10 people. Everyone loved the food. I love that it's BYOB so
+        we were able to enjoy wine as they provided glasses for the wine and
+        even brought a chiller to keep wines cool. I actually came last year for
+        my birthday and love the atmosphere! I will be coming back. Thank you
+        for great food and service 
+      languageCode: en
+    authorAttribution:
+      displayName: Joan Kim
+      uri: https://www.google.com/maps/contrib/106212450954994942145/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXh5zDvm6gqC6-RAh1_2gboWjfSIBVl3aozt9zsq9U5CUnLSIn8vg=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-07-08T04:27:29.360451Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNyNGNITFdREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNyNGNITFdREAE!2m1!1s0x864c25129b1930e5:0x28bf79b9e73fc124
+  - name: >-
+      places/ChIJ5TAZmxIlTIYRJME_57l5vyg/reviews/ChZDSUhNMG9nS0VJQ0FnTURBeUxYQ0ZREAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        First time to try Kanzi and I was not disappointed! Called in a to go
+        order for hibachi and it was delicious!! The staff was friendly and I
+        was greeted immediately when I walked in by front staff and sushi chefs
+        and when leaving. The portions were generous and tasteful, will
+        definitely be back.
+      languageCode: en
+    originalText:
+      text: >-
+        First time to try Kanzi and I was not disappointed! Called in a to go
+        order for hibachi and it was delicious!! The staff was friendly and I
+        was greeted immediately when I walked in by front staff and sushi chefs
+        and when leaving. The portions were generous and tasteful, will
+        definitely be back.
+      languageCode: en
+    authorAttribution:
+      displayName: Amal Diabmarzouk
+      uri: https://www.google.com/maps/contrib/117349258401312354118/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKxbav3Q-NXunEGMU4VgQsNmRBE_XBSZs5AGaUOMGBfBI5REQ=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-02-06T15:42:37.846197Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURBeUxYQ0ZREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURBeUxYQ0ZREAE!2m1!1s0x864c25129b1930e5:0x28bf79b9e73fc124
+review_summary: >-
+  What Customers Are Buzzing About$$$Folks rave about the tasty hibachi and
+  sushi at this spot, with many highlighting the fresh flavors and generous
+  portions that make every bite worthwhile. Reviewers often note the
+  super-friendly staff and welcoming atmosphere, which adds to the overall fun
+  experience, especially when dining outdoors with a lake view. It's frequently
+  praised for offering great value without breaking the bank, making it a go-to
+  for groups or families looking for reliable Japanese places. While some
+  mention it's perfect for casual outings, the consistent feedback points to
+  delicious standout dishes like seared salmon rolls that keep people coming
+  back. All in all, it's a solid pick for anyone hunting for quality sushi
+  nearby, with a vibe that's laid-back and enjoyable.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  paidStreetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
 good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+live_music: false
+menu_for_children: true
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: false
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: false
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: false
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Unassuming, family-friendly place offering sushi, hibachi dishes & other
+  Japanese standards.
 
 ---

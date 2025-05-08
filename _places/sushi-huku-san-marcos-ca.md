@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Huku"
+title: Sushi Huku
 permalink: /california/san-marcos/sushi-huku.html
 stateAbbr: CA
 stateName: California
 cityName: San Marcos
 seo:
-  name: "Sushi Huku"
-  type: Restaurant
+  type: restaurant
   links: http://sushihuku.net/
-description: "Serving Japanese cuisine in a tranquil wood-paneled dining room with a polished wood sushi bar. Sushi Huku serves delicious sushi in San Marcos, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJ3XAbzVB13IARIjOEq368FRE
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: null
 rating: '4.6'
 rating_count: 0
 website: http://sushihuku.net/
+description: >-
+  Discover Sushi Huku in San Marcos, CA$$$Nestled in San Marcos, CA, Sushi Huku
+  stands out as a welcoming spot for enjoying fresh Japanese flavors in a
+  laid-back environment. This casual eatery offers an array of sushi options and
+  poke bowls, perfect for those seeking tasty, well-prepared dishes in a serene,
+  wood-accented setting. With its focus on quality ingredients and a variety of
+  rolls that cater to different tastes, it's an ideal choice for anyone
+  exploring top sushi restaurants nearby. The restaurant also boasts accessible
+  features and a cozy atmosphere that enhances the overall dining experience,
+  making it a go-to for relaxed meals. Whether you're in the mood for classic
+  rolls or innovative twists, Sushi Huku delivers a satisfying blend of
+  affordability and authenticity that keeps locals coming back.
+generative_summary: >-
+  Discover Sushi Huku in San Marcos, CA$$$Nestled in San Marcos, CA, Sushi Huku
+  stands out as a welcoming spot for enjoying fresh Japanese flavors in a
+  laid-back environment. This casual eatery offers an array of sushi options and
+  poke bowls, perfect for those seeking tasty, well-prepared dishes in a serene,
+  wood-accented setting. With its focus on quality ingredients and a variety of
+  rolls that cater to different tastes, it's an ideal choice for anyone
+  exploring top sushi restaurants nearby. The restaurant also boasts accessible
+  features and a cozy atmosphere that enhances the overall dining experience,
+  making it a go-to for relaxed meals. Whether you're in the mood for classic
+  rolls or innovative twists, Sushi Huku delivers a satisfying blend of
+  affordability and authenticity that keeps locals coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ3XAbzVB13IARIjOEq368FRE/reviews/ChdDSUhNMG9nS0VJQ0FnSUNOLU1EbnBnRRAB
@@ -368,6 +391,21 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURSemRTeU9nEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURSemRTeU9nEAE!2m1!1s0x80dc7550cd1b70dd:0x1115bc7eab843322
+review_summary: >-
+  What Guests Are Saying About This Sushi Spot$$$Folks rave about the delicious
+  sushi and poke bowls here, noting that the flavors are fresh and the portions
+  generous enough to share, all at prices that feel just right for a casual
+  outing. Many highlight the friendly service that makes every visit feel
+  welcoming and attentive, turning a simple meal into a pleasant experience.
+  While some mention it's more straightforward without anything overly fancy,
+  the overall consensus is that the food hits the spot with its quality and
+  variety, including standout rolls that blend creativity with classic tastes.
+  Visitors often appreciate how this spot keeps things approachable and
+  reliable, making it a solid pick for groups or families looking for a relaxed
+  vibe. All in all, it's a go-to choice for anyone hunting for great sushi
+  nearby, with the positive vibes and tasty offerings earning it high marks from
+  satisfied diners.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -400,8 +438,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Serving Japanese cuisine in a tranquil wood-paneled dining room with a
   polished wood sushi bar.
 

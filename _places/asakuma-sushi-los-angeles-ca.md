@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Asakuma sushi"
+title: Asakuma sushi
 permalink: /california/los-angeles/asakuma-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Los Angeles
 seo:
-  name: "Asakuma sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Asakuma sushi serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJU6P-z2i7woARGoyxShUYSZk
 photos:
   - name: >-
@@ -185,7 +183,40 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Asakuma Sushi in Los Angeles$$$Asakuma Sushi in Los Angeles, CA,
+  stands out as a casual counter-service spot specializing in fresh sushi rolls
+  and poke bowls, perfect for those seeking authentic Japanese flavors. With
+  thoughtful vegetarian options on the menu, it caters to a wide range of tastes
+  while emphasizing convenience through takeout and delivery services. The
+  restaurant's accessible features, like wheelchair-friendly entrances and
+  seating, make it an inclusive choice for everyone. Its straightforward vibe
+  appeals to locals looking for reliable sushi options nearby, blending quality
+  ingredients with easy dining experiences.
+generative_summary: >-
+  Discover Asakuma Sushi in Los Angeles$$$Asakuma Sushi in Los Angeles, CA,
+  stands out as a casual counter-service spot specializing in fresh sushi rolls
+  and poke bowls, perfect for those seeking authentic Japanese flavors. With
+  thoughtful vegetarian options on the menu, it caters to a wide range of tastes
+  while emphasizing convenience through takeout and delivery services. The
+  restaurant's accessible features, like wheelchair-friendly entrances and
+  seating, make it an inclusive choice for everyone. Its straightforward vibe
+  appeals to locals looking for reliable sushi options nearby, blending quality
+  ingredients with easy dining experiences.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Folks often rave about the fresh ingredients and
+  speedy service at this laid-back sushi spot, making it a solid pick for a
+  quick bite. Many highlight the variety of vegetarian choices and how well they
+  hit the spot for everyday meals. While some note it's ideal for takeout on
+  busy days, the overall vibe comes across as welcoming and efficient for groups
+  or solo diners. It's generally seen as a dependable option for Japanese
+  cuisine enthusiasts, with positive feedback focusing on the flavorful rolls
+  and hassle-free experience. Though experiences might differ, the consensus
+  points to it being a go-to choice for satisfying sushi cravings without the
+  fuss.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +242,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

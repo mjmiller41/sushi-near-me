@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Maki Bar"
+title: Maki Bar
 permalink: /maryland/bethesda/maki-bar.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Bethesda
 seo:
-  name: "Maki Bar"
-  type: Restaurant
+  type: restaurant
   links: http://makibarbethesda.com/
-description: "Sushi & Japanese standards, plus beer & sake, served in a simple Asian-style space. Maki Bar serves delicious sushi in Bethesda, Maryland. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJA8TqW3fJt4kRq8hfNIBO49M
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: null
 rating: '4.3'
 rating_count: 0
 website: http://makibarbethesda.com/
+description: >-
+  Discover Maki Bar in Bethesda, MD$$$Maki Bar in Bethesda, MD, is a standout
+  sushi restaurant known for its fresh Japanese dishes and inviting atmosphere.
+  Nestled in a simple Asian-style space, it offers generous portions and
+  appealing lunch specials that cater to a variety of tastes, making it a go-to
+  choice for casual diners and sushi lovers alike. The spot emphasizes quality
+  ingredients and a selection of beer and sake to complement your meal, creating
+  an enjoyable experience for those exploring top-rated sushi options nearby.
+  With accessibility features like wheelchair-friendly entrances and seating,
+  it's designed to welcome everyone seeking authentic flavors in a relaxed
+  setting. Whether you're in the mood for classic rolls or innovative specials,
+  this local favorite delivers a satisfying blend of tradition and convenience.
+generative_summary: >-
+  Discover Maki Bar in Bethesda, MD$$$Maki Bar in Bethesda, MD, is a standout
+  sushi restaurant known for its fresh Japanese dishes and inviting atmosphere.
+  Nestled in a simple Asian-style space, it offers generous portions and
+  appealing lunch specials that cater to a variety of tastes, making it a go-to
+  choice for casual diners and sushi lovers alike. The spot emphasizes quality
+  ingredients and a selection of beer and sake to complement your meal, creating
+  an enjoyable experience for those exploring top-rated sushi options nearby.
+  With accessibility features like wheelchair-friendly entrances and seating,
+  it's designed to welcome everyone seeking authentic flavors in a relaxed
+  setting. Whether you're in the mood for classic rolls or innovative specials,
+  this local favorite delivers a satisfying blend of tradition and convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJA8TqW3fJt4kRq8hfNIBO49M/reviews/ChdDSUhNMG9nS0VJQ0FnTUNnN0kzZDRnRRAB
@@ -358,6 +381,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN2cVB6bFFREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN2cVB6bFFREAE!2m1!1s0x89b7c9775beac403:0xd3e34e80345fc8ab
+review_summary: >-
+  What Customers Are Saying About This Sushi Spot$$$Folks generally love the
+  fresh and flavorful sushi rolls at this spot, with many praising the generous
+  portions and attentive service that make every visit feel special. While most
+  experiences highlight the authentic Japanese tastes and great recommendations
+  from the staff, a few mentions point to occasional inconsistencies in certain
+  dishes like ramen or chirashi. Overall, it's often described as one of the
+  best places for sushi near you, thanks to its variety of options that work
+  well for groups or quick take-out. The welcoming vibe and solid value keep it
+  a popular pick for anyone hunting for reliable Japanese cuisine in the area.
+  If you're on the lookout for top-rated sushi restaurants close by, this one
+  tends to leave diners excited to return for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options:
   acceptsCreditCards: true
@@ -386,8 +422,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Sushi & Japanese standards, plus beer & sake, served in a simple Asian-style
   space.
 

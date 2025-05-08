@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Asia Sushi & Chinese"
+title: Asia Sushi & Chinese
 permalink: /new-jersey/hoboken/asia-sushi-chinese.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Hoboken
 seo:
-  name: "Asia Sushi & Chinese"
-  type: Restaurant
+  type: restaurant
   links: http://www.asiasushichinesenj.com/
-description: "Counter-serve storefront with a long menu featuring standard Chinese eats, sushi & lunch specials. Asia Sushi & Chinese serves delicious sushi in Hoboken, New Jersey. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ0TXP6NhZwokRPsUPxsQkgwI
 photos:
   - name: >-
@@ -181,6 +179,29 @@ price_range: $10 &ndash; $20
 rating: '3.9'
 rating_count: 0
 website: http://www.asiasushichinesenj.com/
+description: >-
+  Experience Asia Sushi & Chinese$$$Asia Sushi & Chinese in Hoboken, NJ, offers
+  a welcoming spot for enjoying a mix of Asian flavors, including fresh sushi
+  and classic Chinese dishes in a casual atmosphere. This spot stands out with
+  its affordable menu featuring options like Singapore noodles and other
+  favorites, making it a go-to for those seeking sushi restaurants in the area.
+  The informal setting provides a comfortable environment for quick meals or
+  takeout, enhanced by speedy service and a variety of choices that cater to
+  different tastes. Whether you're looking for sushi close to me or hearty Asian
+  fare, the focus on fresh ingredients and lunch specials adds to its appeal for
+  everyday diners.
+generative_summary: >-
+  Experience Asia Sushi & Chinese$$$Asia Sushi & Chinese in Hoboken, NJ, offers
+  a welcoming spot for enjoying a mix of Asian flavors, including fresh sushi
+  and classic Chinese dishes in a casual atmosphere. This spot stands out with
+  its affordable menu featuring options like Singapore noodles and other
+  favorites, making it a go-to for those seeking sushi restaurants in the area.
+  The informal setting provides a comfortable environment for quick meals or
+  takeout, enhanced by speedy service and a variety of choices that cater to
+  different tastes. Whether you're looking for sushi close to me or hearty Asian
+  fare, the focus on fresh ingredients and lunch specials adds to its appeal for
+  everyday diners.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ0TXP6NhZwokRPsUPxsQkgwI/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3cktHMFpREAE
@@ -356,6 +377,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNlNGRTbnlnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNlNGRTbnlnRRAB!2m1!1s0x89c259d8e8cf35d1:0x28324c4c60fc53e
+review_summary: >-
+  Insights from Customer Feedback$$$Visitors to this sushi spot often share
+  mixed feelings, with many appreciating the tasty dishes like orange chicken
+  and authentic Singapore noodles that hit the spot for a satisfying meal. Some
+  folks note that the portions can feel small or inconsistent, but others praise
+  the quick preparation and friendly service that make it worth a try. Overall,
+  the sushi options receive positive nods for their flavor, though a few mention
+  occasional disappointments with certain items like curries not meeting
+  expectations. Despite a couple of rough experiences related to food quality,
+  the general vibe leans toward it being a solid choice for affordable Asian
+  dining near you, encouraging first-timers to explore the menu with an open
+  mind.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   valetParking: false
 payment_options:
@@ -386,8 +420,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Counter-serve storefront with a long menu featuring standard Chinese eats,
   sushi & lunch specials.
 

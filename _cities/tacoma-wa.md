@@ -5,4 +5,5 @@ permalink: /washington/tacoma/
 stateAbbr: WA
 stateName: Washington
 cityName: Tacoma
+
 ---

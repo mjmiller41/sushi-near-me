@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Phoshime"
+title: Phoshime
 permalink: /new-york/new-york/phoshime.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "Phoshime"
-  type: Restaurant
+  type: restaurant
   links: https://www.phoshime.com/
-description: "Phoshime serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJM6qAUEdZwokRjjuPrfu8A2I
 photos:
   - name: >-
@@ -184,6 +182,31 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 0
 website: https://www.phoshime.com/
+description: >-
+  Discover Phoshime in New York, NY$$$Phoshime in New York, NY, stands out as a
+  relaxed destination for exploring a blend of Asian-inspired cuisine, featuring
+  fresh Vietnamese pho and Japanese sushi options that appeal to those seeking
+  authentic flavors in a bustling urban setting. This spot offers a welcoming
+  vibe with moderately priced dishes, making it an ideal choice for anyone
+  hunting for top-rated sushi restaurants in the area. Patrons can enjoy a
+  variety of flavorful meals in a casual environment, enhanced by thoughtful
+  accessibility features like wheelchair-friendly entrances and restrooms.
+  Whether you're in the mood for hearty noodle bowls or expertly prepared rolls,
+  Phoshime delivers a satisfying experience that highlights the diversity of
+  Asian dining without overwhelming the senses.
+generative_summary: >-
+  Discover Phoshime in New York, NY$$$Phoshime in New York, NY, stands out as a
+  relaxed destination for exploring a blend of Asian-inspired cuisine, featuring
+  fresh Vietnamese pho and Japanese sushi options that appeal to those seeking
+  authentic flavors in a bustling urban setting. This spot offers a welcoming
+  vibe with moderately priced dishes, making it an ideal choice for anyone
+  hunting for top-rated sushi restaurants in the area. Patrons can enjoy a
+  variety of flavorful meals in a casual environment, enhanced by thoughtful
+  accessibility features like wheelchair-friendly entrances and restrooms.
+  Whether you're in the mood for hearty noodle bowls or expertly prepared rolls,
+  Phoshime delivers a satisfying experience that highlights the diversity of
+  Asian dining without overwhelming the senses.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJM6qAUEdZwokRjjuPrfu8A2I/reviews/ChZDSUhNMG9nS0VJQ0FnTURJOUlhZVBBEAE
@@ -359,6 +382,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNfOWJ2ajJBRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNfOWJ2ajJBRRAB!2m1!1s0x89c259475080aa33:0x6203bcfbad8f3b8e
+review_summary: >-
+  What Guests Are Saying$$$Folks frequently praise the tasty pho and sushi at
+  this spot, highlighting the rich, flavorful broth and generous portions that
+  make every bite feel worthwhile without breaking the bank. Many mention the
+  quick and friendly service that keeps things light and enjoyable, turning a
+  simple meal into a pleasant outing in a cozy atmosphere. Reviewers often note
+  the great value for Vietnamese and Japanese dishes, especially during lunch
+  specials, making it a solid pick for casual diners looking for reliable
+  options nearby. Overall, it's a go-to for those craving authentic Asian
+  flavors with a welcoming vibe, though some point out minor inconsistencies
+  like slightly undercooked items, it's still recommended for its honest,
+  everyday appeal. If you're exploring sushi places near me, this location often
+  comes through as a dependable favorite with positive vibes all around.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options:
   acceptsCreditCards: true
@@ -388,7 +425,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

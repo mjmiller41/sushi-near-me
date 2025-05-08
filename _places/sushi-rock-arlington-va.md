@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Rock"
+title: Sushi Rock
 permalink: /virginia/arlington/sushi-rock.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Arlington
 seo:
-  name: "Sushi Rock"
-  type: Restaurant
+  type: restaurant
   links: http://www.sushirockva.com/
-description: "Trendy sushi bar & performance venue with bands in the basement & Asian-themed drinks at the bar. Sushi Rock serves delicious sushi in Arlington, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJobliPGC2t4kR9Vb7dzIslz8
 photos:
   - name: >-
@@ -185,6 +183,27 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 0
 website: http://www.sushirockva.com/
+description: >-
+  Experience Sushi Rock in Arlington, VA$$$Sushi Rock in Arlington, VA, stands
+  out as a vibrant sushi restaurant offering a mix of fresh Pan-Asian flavors in
+  a relaxed environment perfect for casual dining. The spot features an inviting
+  patio for outdoor seating, making it ideal for enjoying happy hour specials
+  alongside creative drinks and dishes that highlight quality ingredients.
+  Accessibility is a key plus, with options like wheelchair-friendly entrances
+  and parking that ensure everyone can savor the experience. Beyond the food,
+  the venue's laid-back vibe and thoughtful design create a welcoming atmosphere
+  for those seeking top sushi spots near urban areas.
+generative_summary: >-
+  Experience Sushi Rock in Arlington, VA$$$Sushi Rock in Arlington, VA, stands
+  out as a vibrant sushi restaurant offering a mix of fresh Pan-Asian flavors in
+  a relaxed environment perfect for casual dining. The spot features an inviting
+  patio for outdoor seating, making it ideal for enjoying happy hour specials
+  alongside creative drinks and dishes that highlight quality ingredients.
+  Accessibility is a key plus, with options like wheelchair-friendly entrances
+  and parking that ensure everyone can savor the experience. Beyond the food,
+  the venue's laid-back vibe and thoughtful design create a welcoming atmosphere
+  for those seeking top sushi spots near urban areas.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJobliPGC2t4kR9Vb7dzIslz8/reviews/ChZDSUhNMG9nS0VJQ0FnTURJclBfR0pREAE
@@ -346,6 +365,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNnbmJlNHRnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNnbmJlNHRnRRAB!2m1!1s0x89b7b6603c62b9a1:0x3f972c3277fb56f5
+review_summary: >-
+  What Guests Are Buzzing About$$$Folks heading to this sushi joint often rave
+  about the fresh rolls and tasty sides like miso soup, which pair perfectly
+  with the creative drink menu for a satisfying meal. Happy hour deals stand out
+  as a real winner, drawing in crowds for affordable bites and a lively yet
+  chill setting that's great for groups or a quick night out. Service gets high
+  marks for being friendly and efficient, helping to make every visit feel
+  smooth and enjoyable, even on busier evenings. While some mention the
+  occasional loud music, it's generally seen as adding to the fun energy rather
+  than a drawback. Overall, it's a solid choice for anyone hunting for reliable
+  sushi restaurants nearby, with plenty of positive vibes to keep diners coming
+  back.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidStreetParking: true
 payment_options:
@@ -376,8 +408,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Trendy sushi bar & performance venue with bands in the basement & Asian-themed
   drinks at the bar.
 

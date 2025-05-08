@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ginza Go"
+title: Ginza Go
 permalink: /ohio/columbus/ginza-go.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Columbus
 seo:
-  name: "Ginza Go"
-  type: Restaurant
+  type: restaurant
   links: https://www.ginzagocolumbus.com/
-description: "Unfussy counter-serve joint dispensing casual Japanese grub, including sushi & tempura. Ginza Go serves delicious sushi in Columbus, Ohio. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJa425nAyLOIgR2r4qazvHs0I
 photos:
   - name: >-
@@ -142,11 +140,11 @@ photos:
       https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDEjcfttQE&hl=en-US
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDEjcfttQE!2e10!4m2!3m1!1s0x88388b0c9cb98d6b:0x42b3c73b6b2abeda
-address: 1837 Morse Rd, Columbus, OH 43224, USA
+address: 1837 Morse Rd, Columbus, OH 43229, USA
 street: 1837 Morse Rd
 city: Columbus
 state: OH
-zip: '43224'
+zip: '43229'
 country: USA
 neighborhood: Northland
 latitude: '40.059718'
@@ -185,6 +183,31 @@ price_range: $10 &ndash; $20
 rating: '3.9'
 rating_count: 0
 website: https://www.ginzagocolumbus.com/
+description: >-
+  Discover Ginza Go in Columbus, OH$$$Ginza Go in Columbus, OH, is a welcoming
+  spot for enjoying a mix of Japanese and Chinese favorites in a laid-back
+  atmosphere. This unpretentious eatery specializes in fresh sushi rolls,
+  flavorful hibachi options, and hearty bento boxes, making it a great choice
+  for casual meals. With its accessible features like wheelchair-friendly
+  entrances and parking, it's designed to accommodate everyone looking for a
+  relaxed dining experience. The menu highlights affordable yet satisfying
+  dishes, perfect for those seeking sushi restaurants in the area that balance
+  quality and convenience. Overall, it's an ideal stop for anyone exploring
+  top-rated Japanese places near me who appreciates straightforward, enjoyable
+  fare.
+generative_summary: >-
+  Discover Ginza Go in Columbus, OH$$$Ginza Go in Columbus, OH, is a welcoming
+  spot for enjoying a mix of Japanese and Chinese favorites in a laid-back
+  atmosphere. This unpretentious eatery specializes in fresh sushi rolls,
+  flavorful hibachi options, and hearty bento boxes, making it a great choice
+  for casual meals. With its accessible features like wheelchair-friendly
+  entrances and parking, it's designed to accommodate everyone looking for a
+  relaxed dining experience. The menu highlights affordable yet satisfying
+  dishes, perfect for those seeking sushi restaurants in the area that balance
+  quality and convenience. Overall, it's an ideal stop for anyone exploring
+  top-rated Japanese places near me who appreciates straightforward, enjoyable
+  fare.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJa425nAyLOIgR2r4qazvHs0I/reviews/ChZDSUhNMG9nS0VJQ0FnSURfMWZfLVJ3EAE
@@ -338,6 +361,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR3bXRDRE9nEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR3bXRDRE9nEAE!2m1!1s0x88388b0c9cb98d6b:0x42b3c73b6b2abeda
+review_summary: >-
+  What Visitors Are Saying$$$Visitors often rave about the fresh and tasty sushi
+  at this spot, noting how the flavors hit the mark for a satisfying meal that
+  keeps them coming back. While some mention that certain items feel a bit
+  pricey or not always up to par, the quick service and overall vibe make it a
+  reliable choice for a casual bite. Many appreciate the consistent quality of
+  dishes like spicy crab rolls, which stand out as a highlight for sushi
+  enthusiasts in the neighborhood. Despite a few mixed experiences, the general
+  consensus leans positive, with families and groups enjoying the welcoming
+  environment for everyday dining. If you're hunting for the best sushi near me,
+  this place offers solid options that deliver on freshness and flavor, making
+  it worth a try for a laid-back meal.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -370,8 +406,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Unfussy counter-serve joint dispensing casual Japanese grub, including sushi &
   tempura.
 

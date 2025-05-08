@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Station"
+title: Sushi Station
 permalink: /illinois/rolling-meadows/sushi-station.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Rolling Meadows
 seo:
-  name: "Sushi Station"
-  type: Restaurant
-  links: null
-description: "Sushi Station serves delicious sushi in Rolling Meadows, Illinois. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.sushistation.us/
 place_id: ChIJ2VM72w6wD4gRX9ofcI4zkCc
 photos:
   - name: >-
@@ -169,8 +167,113 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x880fb00edb3b53d9:0x2790338e701fda5f!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 14
+        minute: 0
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
+    - 'Tuesday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
+    - 'Wednesday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
+    - 'Thursday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
+    - 'Friday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
+    - 'Saturday: 12:00 – 9:00 PM'
+    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -178,13 +281,54 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (847) 593-2450
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.4'
+rating_count: 2118
+website: http://www.sushistation.us/
+description: >-
+  Discover Sushi Station in Rolling Meadows, IL$$$Sushi Station in Rolling
+  Meadows, IL, stands out as a go-to destination for authentic Japanese dining,
+  featuring a fun conveyor belt system that delivers fresh rolls and other
+  favorites right to your table. This casual eatery emphasizes high-quality
+  ingredients and a variety of sushi options, making it an ideal spot for anyone
+  craving Japanese places near you with a relaxed atmosphere. Accessibility
+  features like wheelchair-friendly parking and seating ensure everyone can
+  enjoy the experience, while its moderate pricing appeals to both casual diners
+  and sushi enthusiasts. Open throughout the week with extended hours on
+  weekends, it's perfect for lunch breaks or evening outings, blending
+  convenience with flavorful dishes that highlight the best in local sushi
+  restaurants.
+generative_summary: >-
+  Discover Sushi Station in Rolling Meadows, IL$$$Sushi Station in Rolling
+  Meadows, IL, stands out as a go-to destination for authentic Japanese dining,
+  featuring a fun conveyor belt system that delivers fresh rolls and other
+  favorites right to your table. This casual eatery emphasizes high-quality
+  ingredients and a variety of sushi options, making it an ideal spot for anyone
+  craving Japanese places near you with a relaxed atmosphere. Accessibility
+  features like wheelchair-friendly parking and seating ensure everyone can
+  enjoy the experience, while its moderate pricing appeals to both casual diners
+  and sushi enthusiasts. Open throughout the week with extended hours on
+  weekends, it's perfect for lunch breaks or evening outings, blending
+  convenience with flavorful dishes that highlight the best in local sushi
+  restaurants.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Sushi Station Visitors$$$Visitors to Sushi Station often praise
+  the fresh and flavorful sushi selections, noting how the conveyor belt adds an
+  enjoyable twist to their meals without compromising on taste or quality. Many
+  appreciate the efficient service and welcoming vibe, which make it a solid
+  choice for quick bites or group gatherings, especially if you're hunting for
+  top-rated sushi spots nearby. While some mention occasional waits during peak
+  times, the overall consensus highlights the value for money and variety of
+  options that cater to different preferences. Feedback frequently points to the
+  restaurant's ability to deliver satisfying Japanese fare that keeps customers
+  coming back, blending fun with reliable flavors in a casual setting. If you're
+  exploring sushi places near me, this spot consistently delivers a positive
+  experience worth trying.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +354,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kocina Stingray Sushifusion 2Go"
+title: Kocina Stingray Sushifusion 2Go
 permalink: /new-york/rochester/kocina-stingray-sushifusion-2go.html
 stateAbbr: NY
 stateName: New York
 cityName: Rochester
 seo:
-  name: "Kocina Stingray Sushifusion 2Go"
-  type: Restaurant
+  type: restaurant
   links: https://stingraysushifusion.com/?utm_source=google
-description: "Kocina Stingray Sushifusion 2Go serves delicious sushi in Rochester, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJmU9aJoS11okRMDV-DkI9HqI
 photos:
   - name: >-
@@ -170,7 +168,49 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89d6b584265a4f99:0xa21e3d420e7e3530!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 19
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 19
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 19
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 19
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 19
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 7:00 PM'
     - 'Tuesday: 11:00 AM – 7:00 PM'
     - 'Wednesday: 11:00 AM – 7:00 PM'
@@ -178,28 +218,159 @@ opening_hours:
     - 'Friday: 11:00 AM – 7:00 PM'
     - 'Saturday: Closed'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:00 AM – 7:00 PM'
-    - 'Tuesday: 11:00 AM – 7:00 PM'
-    - 'Wednesday: 11:00 AM – 7:00 PM'
-    - 'Thursday: 11:00 AM – 7:00 PM'
-    - 'Friday: 11:00 AM – 7:00 PM'
-    - 'Saturday: Closed'
-    - 'Sunday: Closed'
+  nextOpenTime: '2025-05-05T15:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: false
+    periods:
+      - open:
+          day: 1
+          hour: 11
+          minute: 0
+        close:
+          day: 1
+          hour: 18
+          minute: 0
+      - open:
+          day: 2
+          hour: 11
+          minute: 0
+        close:
+          day: 2
+          hour: 18
+          minute: 0
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 18
+          minute: 0
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 18
+          minute: 0
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 18
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 11:00 AM – 6:00 PM'
+      - 'Tuesday: 11:00 AM – 6:00 PM'
+      - 'Wednesday: 11:00 AM – 6:00 PM'
+      - 'Thursday: 11:00 AM – 6:00 PM'
+      - 'Friday: 11:00 AM – 6:00 PM'
+      - 'Saturday: Closed'
+      - 'Sunday: Closed'
+    secondaryHoursType: DELIVERY
+    nextOpenTime: '2025-05-05T15:00:00Z'
+  - openNow: false
+    periods:
+      - open:
+          day: 1
+          hour: 11
+          minute: 0
+        close:
+          day: 1
+          hour: 18
+          minute: 0
+      - open:
+          day: 2
+          hour: 11
+          minute: 0
+        close:
+          day: 2
+          hour: 18
+          minute: 0
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 18
+          minute: 0
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 18
+          minute: 0
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 18
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 11:00 AM – 6:00 PM'
+      - 'Tuesday: 11:00 AM – 6:00 PM'
+      - 'Wednesday: 11:00 AM – 6:00 PM'
+      - 'Thursday: 11:00 AM – 6:00 PM'
+      - 'Friday: 11:00 AM – 6:00 PM'
+      - 'Saturday: Closed'
+      - 'Sunday: Closed'
+    secondaryHoursType: TAKEOUT
+    nextOpenTime: '2025-05-05T15:00:00Z'
 phone: (585) 978-7966
 price_level: null
 price_range: $10 &ndash; $20
 rating: '4.5'
-rating_count: 0
+rating_count: 258
 website: https://stingraysushifusion.com/?utm_source=google
+description: >-
+  Explore Kocina Stingray Sushifusion 2Go in Rochester, NY$$$Nestled in
+  Rochester, NY, Kocina Stingray Sushifusion 2Go offers a unique blend of fresh
+  sushi with creative twists that draw from diverse flavors. This counter-serve
+  spot specializes in innovative dishes that fuse traditional Japanese
+  techniques with vibrant influences, making it a standout choice for anyone
+  seeking sushi restaurants nearby. With accessibility features like
+  wheelchair-friendly entrances and parking, it's designed to welcome all
+  visitors, enhancing the overall dining experience. Operating from Monday
+  through Friday, it provides convenient options for lunch or quick takeout,
+  perfect for those on the go in the area. Whether you're exploring top-rated
+  sushi options close to home, this eatery delivers a fresh take on classic
+  rolls in a hassle-free setting.
+generative_summary: >-
+  Explore Kocina Stingray Sushifusion 2Go in Rochester, NY$$$Nestled in
+  Rochester, NY, Kocina Stingray Sushifusion 2Go offers a unique blend of fresh
+  sushi with creative twists that draw from diverse flavors. This counter-serve
+  spot specializes in innovative dishes that fuse traditional Japanese
+  techniques with vibrant influences, making it a standout choice for anyone
+  seeking sushi restaurants nearby. With accessibility features like
+  wheelchair-friendly entrances and parking, it's designed to welcome all
+  visitors, enhancing the overall dining experience. Operating from Monday
+  through Friday, it provides convenient options for lunch or quick takeout,
+  perfect for those on the go in the area. Whether you're exploring top-rated
+  sushi options close to home, this eatery delivers a fresh take on classic
+  rolls in a hassle-free setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Recent Feedback on This Sushi Spot$$$Folks often rave about the
+  tasty fusion dishes at this sushi restaurant, highlighting the creative
+  Latin-inspired twists on favorites like rolls and plates that keep things
+  exciting. Many appreciate the great value, with generous portions of flavorful
+  food coming at affordable prices that make it a smart pick for everyday meals.
+  Visitors frequently note the overall satisfaction with the quality and
+  variety, making it a reliable choice for those hunting for the best sushi near
+  them. While opinions are generally positive, some mention it's ideal for quick
+  visits rather than lingering, keeping the focus on convenience without any
+  major drawbacks. All in all, it's a solid spot that delivers enjoyable eats
+  with a fun edge, encouraging locals to return for more satisfying experiences.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +396,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

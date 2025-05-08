@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "blufin sushi Vegan Teriyaki & Gluten Free"
+title: blufin sushi Vegan Teriyaki & Gluten Free
 permalink: /california/fresno/blufin-sushi-vegan-teriyaki-gluten-free.html
 stateAbbr: CA
 stateName: California
 cityName: Fresno
 seo:
-  name: "blufin sushi Vegan Teriyaki & Gluten Free"
-  type: Restaurant
+  type: restaurant
   links: http://www.blufinsushifresno.com/
-description: "blufin sushi Vegan Teriyaki & Gluten Free serves delicious sushi in Fresno, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ9wv3r1NdlIARpMQRXTwvrSk
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: null
 rating: '4.2'
 rating_count: 0
 website: http://www.blufinsushifresno.com/
+description: >-
+  Discover Blufin Sushi in Fresno, CA$$$Blufin Sushi Vegan Teriyaki & Gluten
+  Free in Fresno, CA, stands out as a welcoming destination for those seeking
+  fresh and inclusive Japanese dining options. This spot specializes in
+  gluten-free and vegan-friendly dishes, creating a relaxed environment where
+  flavorful sushi rolls and teriyaki delights take center stage. With its
+  emphasis on quality ingredients and accessibility features like
+  wheelchair-friendly entrances, it caters to a wide range of diners looking for
+  convenient and thoughtful meals. Whether you're exploring sushi restaurants
+  near you or craving top-rated options for a casual outing, the menu highlights
+  creative flavors that make it a go-to for everyday enjoyment. Its commitment
+  to dietary variety ensures a satisfying experience for anyone searching for
+  sushi places in the area.
+generative_summary: >-
+  Discover Blufin Sushi in Fresno, CA$$$Blufin Sushi Vegan Teriyaki & Gluten
+  Free in Fresno, CA, stands out as a welcoming destination for those seeking
+  fresh and inclusive Japanese dining options. This spot specializes in
+  gluten-free and vegan-friendly dishes, creating a relaxed environment where
+  flavorful sushi rolls and teriyaki delights take center stage. With its
+  emphasis on quality ingredients and accessibility features like
+  wheelchair-friendly entrances, it caters to a wide range of diners looking for
+  convenient and thoughtful meals. Whether you're exploring sushi restaurants
+  near you or craving top-rated options for a casual outing, the menu highlights
+  creative flavors that make it a go-to for everyday enjoyment. Its commitment
+  to dietary variety ensures a satisfying experience for anyone searching for
+  sushi places in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ9wv3r1NdlIARpMQRXTwvrSk/reviews/ChdDSUhNMG9nS0VJQ0FnTURnNmQ2ZC1nRRAB
@@ -336,6 +361,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURMbWJ6RGh3RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURMbWJ6RGh3RRAB!2m1!1s0x80945d53aff70bf7:0x29ad2f3c5d11c4a4
+review_summary: >-
+  What Customers Are Saying About This Spot$$$Visitors often highlight the
+  creative sushi rolls and hearty ramen as standout favorites, praising their
+  consistent taste and fresh preparation that keeps things exciting. Many
+  appreciate the friendly service and smooth ordering process, which makes
+  grabbing a meal feel effortless and enjoyable. The vegan and gluten-free
+  options get plenty of nods for being delicious and well-presented, appealing
+  to those with specific dietary needs without skimping on flavor. Overall, it's
+  seen as a reliable choice for groups or solo diners hunting for the best sushi
+  near me, with a laid-back vibe that enhances the whole experience. While
+  feedback is overwhelmingly positive, folks note it's a solid pick for quality
+  Japanese eats that hit the spot every time.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -367,7 +405,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

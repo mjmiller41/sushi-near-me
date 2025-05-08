@@ -5,4 +5,5 @@ permalink: /kentucky/nicholasville/
 stateAbbr: KY
 stateName: Kentucky
 cityName: Nicholasville
+
 ---

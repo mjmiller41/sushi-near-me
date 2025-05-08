@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "The Hamilton"
+title: The Hamilton
 permalink: /district-of-columbia/washington/the-hamilton.html
 stateAbbr: DC
 stateName: District of Columbia
 cityName: Washington
 seo:
-  name: "The Hamilton"
-  type: Restaurant
+  type: restaurant
   links: https://www.thehamiltondc.com/
-description: "Hip American eatery with late hours, plus plenty of room in a live music space downstairs. The Hamilton serves delicious sushi in Washington, District of Columbia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ0zjVx5e3t4kRPiQqmswuh9c
 photos:
   - name: >-
@@ -184,6 +182,29 @@ price_range: null
 rating: '4.5'
 rating_count: 0
 website: https://www.thehamiltondc.com/
+description: >-
+  Explore The Hamilton in Washington, DC$$$The Hamilton in Washington, DC,
+  stands out as a vibrant American eatery blending lively vibes with a diverse
+  menu that appeals to various tastes, including fresh seafood and creative
+  twists on classics. This spot features a spacious interior with beautiful
+  architecture and live music downstairs, making it ideal for casual gatherings
+  or relaxed evenings out. Patrons appreciate the attentive service and
+  welcoming atmosphere, complemented by options like outdoor seating and
+  accessibility features for all visitors. If you're seeking top-rated dining
+  experiences in the area, The Hamilton offers a mix of hearty dishes and
+  refreshing cocktails that highlight its commitment to quality and variety.
+generative_summary: >-
+  Explore The Hamilton in Washington, DC$$$The Hamilton in Washington, DC,
+  stands out as a vibrant American eatery blending lively vibes with a diverse
+  menu that appeals to various tastes, including fresh seafood and creative
+  twists on classics. This spot features a spacious interior with beautiful
+  architecture and live music downstairs, making it ideal for casual gatherings
+  or relaxed evenings out. Patrons appreciate the attentive service and
+  welcoming atmosphere, complemented by options like outdoor seating and
+  accessibility features for all visitors. If you're seeking top-rated dining
+  experiences in the area, The Hamilton offers a mix of hearty dishes and
+  refreshing cocktails that highlight its commitment to quality and variety.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ0zjVx5e3t4kRPiQqmswuh9c/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJMHNmUXVRRRAB
@@ -575,6 +596,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNJN0lISllnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNJN0lISllnEAE!2m1!1s0x89b7b797c7d538d3:0xd7872ecc9a2a243e
+review_summary: >-
+  What Guests Are Buzzing About$$$Visitors often rave about the fresh and
+  flavorful food at The Hamilton, with standout mentions of tasty sushi rolls
+  and other well-prepared dishes that keep things exciting and satisfying. Many
+  folks appreciate the friendly service and spacious layout, which make it a
+  go-to for groups or solo diners looking for a welcoming vibe. While some note
+  that certain items could use a bit more zest, the overall experience shines
+  with reasonable prices and great cocktails that enhance any meal. It's clear
+  that this place hits the mark for everything from quick bites to special
+  occasions, leaving guests eager to return for more of the relaxed, enjoyable
+  atmosphere.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: false
   paidParkingLot: true
@@ -607,8 +640,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Hip American eatery with late hours, plus plenty of room in a live music space
   downstairs.
 

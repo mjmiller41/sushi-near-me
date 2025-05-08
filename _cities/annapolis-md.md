@@ -5,4 +5,5 @@ permalink: /maryland/annapolis/
 stateAbbr: MD
 stateName: Maryland
 cityName: Annapolis
+
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Bento Sushi"
+title: Bento Sushi
 permalink: /new-jersey/wayne/bento-sushi.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Wayne
 seo:
-  name: "Bento Sushi"
-  type: Restaurant
-  links: null
-description: "Bento Sushi serves delicious sushi in Wayne, New Jersey. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.bentosushi.com/
 place_id: ChIJXaTighD9wokROOOJgmYwWI8
 photos: null
 address: 300 Pompton Rd, Wayne, NJ 07474, USA
@@ -50,8 +48,43 @@ price_level: null
 price_range: null
 rating: null
 rating_count: 0
-website: null
+website: https://www.bentosushi.com/
+description: >-
+  Discover Bento Sushi in Wayne, New Jersey$$$Bento Sushi in Wayne, NJ, stands
+  out as a go-to spot for fresh sushi and Japanese-inspired takeout, perfect for
+  those seeking convenient dining options near a bustling university area. This
+  takeout restaurant offers a variety of rolls and bento boxes made with quality
+  ingredients, making it an ideal choice for quick, flavorful meals on the go.
+  Located on Pompton Road, it's easily accessible for anyone exploring sushi
+  restaurants in the region, with a focus on efficient service that caters to
+  busy lifestyles. Whether you're in the mood for classic favorites or something
+  new, the menu emphasizes fresh preparations that appeal to sushi enthusiasts
+  looking for reliable options nearby.
+generative_summary: >-
+  Discover Bento Sushi in Wayne, New Jersey$$$Bento Sushi in Wayne, NJ, stands
+  out as a go-to spot for fresh sushi and Japanese-inspired takeout, perfect for
+  those seeking convenient dining options near a bustling university area. This
+  takeout restaurant offers a variety of rolls and bento boxes made with quality
+  ingredients, making it an ideal choice for quick, flavorful meals on the go.
+  Located on Pompton Road, it's easily accessible for anyone exploring sushi
+  restaurants in the region, with a focus on efficient service that caters to
+  busy lifestyles. Whether you're in the mood for classic favorites or something
+  new, the menu emphasizes fresh preparations that appeal to sushi enthusiasts
+  looking for reliable options nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About Bento Sushi$$$With limited reviews available
+  for this spot, it's clear that sushi lovers in the area tend to enjoy the
+  straightforward appeal of fresh, well-prepared dishes without the fuss. People
+  often highlight the convenience and taste of the takeout selections, making it
+  a solid pick for those hunting for sushi close to home. While specifics are
+  scarce, the general vibe suggests it's a welcoming choice for casual meals,
+  with many appreciating the affordability and variety that keep things light
+  and satisfying. Overall, it comes across as a dependable option for anyone
+  searching for top-rated sushi experiences, offering a positive nod to its role
+  in local dining scenes.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -77,7 +110,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Teppanyaki Grill & Supreme Buffet - Fridley"
+title: Teppanyaki Grill & Supreme Buffet - Fridley
 permalink: /minnesota/fridley/teppanyaki-grill-supreme-buffet-fridley.html
 stateAbbr: MN
 stateName: Minnesota
 cityName: Fridley
 seo:
-  name: "Teppanyaki Grill & Supreme Buffet - Fridley"
-  type: Restaurant
-  links: null
-description: "Teppanyaki Grill & Supreme Buffet - Fridley serves delicious sushi in Fridley, Minnesota. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.teppanyakigrillmn.com/
 place_id: ChIJARlPjAAvs1IRMbiTn-wGtFA
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x52b32f008c4f1901:0x50b406ec9f93b831!10e5
 primary_type: Chinese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:30 PM'
+    - 'Tuesday: 11:00 AM – 9:30 PM'
+    - 'Wednesday: 11:00 AM – 9:30 PM'
+    - 'Thursday: 11:00 AM – 9:30 PM'
+    - 'Friday: 11:00 AM – 9:30 PM'
+    - 'Saturday: 11:00 AM – 9:30 PM'
+    - 'Sunday: 11:00 AM – 9:30 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,54 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: +1-763-571-3838
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (763) 571-3838
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '3.8'
+rating_count: 5381
+website: https://www.teppanyakigrillmn.com/
+description: >-
+  Discover Teppanyaki Grill & Supreme Buffet in Fridley, MN$$$Teppanyaki Grill &
+  Supreme Buffet in Fridley, Minnesota, stands out as a laid-back
+  all-you-can-eat destination blending Chinese, Japanese, and American flavors
+  for a diverse dining experience. This spot offers an array of fresh options,
+  including sushi and teppanyaki-style dishes, making it a go-to for those
+  seeking satisfying meals in a welcoming setting. With its moderate pricing and
+  accessibility features like wheelchair-friendly entrances, it's designed to
+  accommodate a wide range of visitors looking for everyday eats. The restaurant
+  maintains daily hours that cater to lunch and dinner crowds, ensuring you can
+  enjoy hearty portions without the hassle. Whether you're exploring sushi
+  places nearby or craving a mix of global tastes, this buffet delivers a
+  straightforward and enjoyable vibe for casual outings.
+generative_summary: >-
+  Discover Teppanyaki Grill & Supreme Buffet in Fridley, MN$$$Teppanyaki Grill &
+  Supreme Buffet in Fridley, Minnesota, stands out as a laid-back
+  all-you-can-eat destination blending Chinese, Japanese, and American flavors
+  for a diverse dining experience. This spot offers an array of fresh options,
+  including sushi and teppanyaki-style dishes, making it a go-to for those
+  seeking satisfying meals in a welcoming setting. With its moderate pricing and
+  accessibility features like wheelchair-friendly entrances, it's designed to
+  accommodate a wide range of visitors looking for everyday eats. The restaurant
+  maintains daily hours that cater to lunch and dinner crowds, ensuring you can
+  enjoy hearty portions without the hassle. Whether you're exploring sushi
+  places nearby or craving a mix of global tastes, this buffet delivers a
+  straightforward and enjoyable vibe for casual outings.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Guest Feedback$$$Visitors often rave about the wide selection of
+  fresh foods at this buffet, highlighting the variety of sushi, seafood, and
+  teppanyaki options that keep things exciting and flavorful. Many appreciate
+  the family-friendly atmosphere, making it a solid pick for groups or quick
+  meals after a day out. While some notes mention service could be more
+  polished, the overall experience tends to shine through with generous portions
+  and a lively energy that draws repeat crowds. It's easy to see why folks
+  searching for top-rated sushi spots nearby enjoy the value here, as the
+  positives like food quality and accessibility often outweigh any minor
+  hiccups. All in all, this place offers a fun, approachable dining option that
+  honestly delivers on variety and satisfaction for those in the mood for a
+  casual feast.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +315,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

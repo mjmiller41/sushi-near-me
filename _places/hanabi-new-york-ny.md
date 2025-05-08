@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Hanabi"
+title: Hanabi
 permalink: /new-york/new-york/hanabi.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "Hanabi"
-  type: Restaurant
+  type: restaurant
   links: http://hanabi1888.com/
-description: "Snug Japanese eatery turning out sushi rolls, ramen & bento-boxes in an unadorned space. Hanabi serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJRY7bf79YwokRm9Y_m9XHTY4
 photos:
   - name: >-
@@ -183,6 +181,29 @@ price_range: $10 &ndash; $20
 rating: '4.2'
 rating_count: 0
 website: http://hanabi1888.com/
+description: >-
+  Discover Hanabi in New York, NY$$$Hanabi in New York, NY, stands out as a
+  casual Japanese restaurant offering a welcoming spot for enjoying fresh
+  staples like sushi and bento boxes in a straightforward setting. This spot
+  highlights affordable Japanese favorites such as teriyaki and tempura, making
+  it a go-to choice for those seeking reliable sushi options in the bustling
+  city. With accessible entrances and moderate pricing, it's designed for easy
+  visits, whether you're grabbing a quick meal or exploring diverse flavors. The
+  unadorned space keeps things simple and efficient, allowing the focus to
+  remain on the variety of dishes that cater to everyday cravings for authentic
+  tastes.
+generative_summary: >-
+  Discover Hanabi in New York, NY$$$Hanabi in New York, NY, stands out as a
+  casual Japanese restaurant offering a welcoming spot for enjoying fresh
+  staples like sushi and bento boxes in a straightforward setting. This spot
+  highlights affordable Japanese favorites such as teriyaki and tempura, making
+  it a go-to choice for those seeking reliable sushi options in the bustling
+  city. With accessible entrances and moderate pricing, it's designed for easy
+  visits, whether you're grabbing a quick meal or exploring diverse flavors. The
+  unadorned space keeps things simple and efficient, allowing the focus to
+  remain on the variety of dishes that cater to everyday cravings for authentic
+  tastes.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJRY7bf79YwokRm9Y_m9XHTY4/reviews/ChZDSUhNMG9nS0VJQ0FnSURYaWZ1TWV3EAE
@@ -374,6 +395,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNCdG9hci13RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNCdG9hci13RRAB!2m1!1s0x89c258bf7fdb8e45:0x8e4dc7d59b3fd69b
+review_summary: >-
+  What Visitors Are Saying About This Sushi Spot$$$Folks generally appreciate
+  the solid value at this sushi restaurant, with many highlighting the tasty
+  lunch specials and generous portions that make it a smart pick for a
+  satisfying meal. Reviewers often note the quick service and fresh ingredients
+  in dishes like bento boxes and rolls, adding to its appeal for those hunting
+  for convenient Japanese eats nearby. While some mention the cozy space feels a
+  bit no-frills and could use more ambiance, the overall experience comes across
+  as reliable and enjoyable for casual diners. It's clear that the variety of
+  options keeps people coming back, though a few point out that certain items
+  might not always hit the mark in terms of freshness. All in all, this place
+  earns praise for being an honest, budget-friendly choice among local sushi
+  spots, perfect for anyone looking to try something flavorful without the fuss.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidStreetParking: true
   valetParking: false
@@ -405,8 +440,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Snug Japanese eatery turning out sushi rolls, ramen & bento-boxes in an
   unadorned space.
 

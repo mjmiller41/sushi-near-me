@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Union Sushi + Barbeque Bar"
+title: Union Sushi + Barbeque Bar
 permalink: /illinois/chicago/union-sushi-barbeque-bar.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
 seo:
-  name: "Union Sushi + Barbeque Bar"
-  type: Restaurant
+  type: restaurant
   links: https://www.eatatunion.com/
-description: "Trendy, bustling restaurant with an upscale-urban vibe & a creative take on Japanese cuisine. Union Sushi + Barbeque Bar serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJdfRT5rQsDogRUqmb4zPRIK4
 photos:
   - name: >-
@@ -184,6 +182,35 @@ price_range: null
 rating: '4.5'
 rating_count: 0
 website: https://www.eatatunion.com/
+description: >-
+  Discover Union Sushi + Barbeque Bar in Chicago, IL$$$Union Sushi + Barbeque
+  Bar in Chicago, IL, offers a vibrant blend of Japanese flavors with a fun,
+  modern twist, making it a standout spot for fresh sushi and grilled delights
+  in the heart of the city. This bustling venue features an upscale-urban
+  atmosphere that combines creative cuisine with accessible design, including
+  wheelchair-friendly entrances and seating for all guests. Diners can enjoy a
+  variety of inventive dishes that fuse traditional Japanese elements with
+  playful American influences, perfect for those seeking top-rated sushi
+  experiences nearby. The restaurant's lively vibe and thoughtful layout create
+  an inviting space for casual meals or group gatherings, enhanced by options
+  like outdoor seating and a selection of beverages. With its focus on quality
+  ingredients and innovative presentations, it's an ideal choice for anyone
+  exploring sushi restaurants in the area.
+generative_summary: >-
+  Discover Union Sushi + Barbeque Bar in Chicago, IL$$$Union Sushi + Barbeque
+  Bar in Chicago, IL, offers a vibrant blend of Japanese flavors with a fun,
+  modern twist, making it a standout spot for fresh sushi and grilled delights
+  in the heart of the city. This bustling venue features an upscale-urban
+  atmosphere that combines creative cuisine with accessible design, including
+  wheelchair-friendly entrances and seating for all guests. Diners can enjoy a
+  variety of inventive dishes that fuse traditional Japanese elements with
+  playful American influences, perfect for those seeking top-rated sushi
+  experiences nearby. The restaurant's lively vibe and thoughtful layout create
+  an inviting space for casual meals or group gatherings, enhanced by options
+  like outdoor seating and a selection of beverages. With its focus on quality
+  ingredients and innovative presentations, it's an ideal choice for anyone
+  exploring sushi restaurants in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJdfRT5rQsDogRUqmb4zPRIK4/reviews/ChZDSUhNMG9nS0VJQ0FnTUNnNnBDeFFREAE
@@ -395,6 +422,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNINjlyVl9BRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNINjlyVl9BRRAB!2m1!1s0x880e2cb4e653f475:0xae20d133e39ba952
+review_summary: >-
+  What People Are Buzzing About This Sushi Spot$$$Visitors often praise the wide
+  range of sushi options and flavorful grilled items, noting that the fresh
+  rolls and creative combinations make for a satisfying meal in a lively
+  setting. While some mention occasional waits during busy times, the overall
+  atmosphere and attentive service add to the enjoyable experience, especially
+  for groups or those new to Japanese cuisine. Many highlight the tasty
+  non-sushi choices, like tender meats, as a great alternative for everyone at
+  the table, keeping the vibe relaxed and fun. Despite a few comments on menu
+  updates feeling a bit streamlined, the general consensus leans toward it being
+  a worthwhile stop for quality food and drinks. If you're hunting for the best
+  sushi near you, this place delivers a solid, memorable outing with its
+  welcoming energy and reliable flavors.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options:
   acceptsCreditCards: true
@@ -424,8 +465,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Trendy, bustling restaurant with an upscale-urban vibe & a creative take on
   Japanese cuisine.
 

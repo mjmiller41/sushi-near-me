@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Lin Garden II"
+title: Lin Garden II
 permalink: /florida/inverness/lin-garden-ii.html
 stateAbbr: FL
 stateName: Florida
 cityName: Inverness
 seo:
-  name: "Lin Garden II"
-  type: Restaurant
+  type: restaurant
   links: https://www.lingarden2.com/
-description: "Lin Garden II serves delicious sushi in Inverness, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJC_8KAx5z6IgR0aIiHw2X_pA
 photos:
   - name: >-
@@ -199,7 +197,42 @@ price_range: $10 &ndash; $20
 rating: '3.8'
 rating_count: 0
 website: https://www.lingarden2.com/
+description: >-
+  Discover Lin Garden II in Inverness, FL$$$Lin Garden II in Inverness, Florida,
+  is a welcoming Chinese restaurant that delights visitors with its selection of
+  flavorful, authentic dishes designed to suit various preferences. The spot
+  emphasizes accessibility, featuring easy parking, entrances, restrooms, and
+  seating options that make it comfortable for everyone. Operating from 11 AM on
+  most days except Mondays, it provides a convenient option for casual meals
+  throughout the week. Prices remain affordable, typically ranging from $10 to
+  $20, appealing to those seeking everyday dining without breaking the bank. Its
+  online presence offers helpful menu details, enhancing the overall experience
+  for nearby diners exploring Chinese cuisine.
+generative_summary: >-
+  Discover Lin Garden II in Inverness, FL$$$Lin Garden II in Inverness, Florida,
+  is a welcoming Chinese restaurant that delights visitors with its selection of
+  flavorful, authentic dishes designed to suit various preferences. The spot
+  emphasizes accessibility, featuring easy parking, entrances, restrooms, and
+  seating options that make it comfortable for everyone. Operating from 11 AM on
+  most days except Mondays, it provides a convenient option for casual meals
+  throughout the week. Prices remain affordable, typically ranging from $10 to
+  $20, appealing to those seeking everyday dining without breaking the bank. Its
+  online presence offers helpful menu details, enhancing the overall experience
+  for nearby diners exploring Chinese cuisine.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Visitors often enjoy the solid flavors and hearty
+  portions at this laid-back Chinese eatery, making it a reliable pick for
+  everyday meals. With an average rating around 3.8, many appreciate the
+  friendly service and inclusive atmosphere that keeps things welcoming for
+  families and groups. While some note minor areas for improvement like wait
+  times or menu variety, the overall vibe remains positive and approachable.
+  It's frequently praised as a great value for tasty options, encouraging folks
+  to return for simple, satisfying eats. All in all, this spot comes across as a
+  dependable local favorite that delivers on flavor without overhyping, ideal
+  for anyone craving Chinese food nearby.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +258,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

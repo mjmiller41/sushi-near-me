@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ocean Wave Sushi By Harry and Sons"
+title: Ocean Wave Sushi By Harry and Sons
 permalink: /georgia/atlanta/ocean-wave-sushi-by-harry-and-sons.html
 stateAbbr: GA
 stateName: Georgia
 cityName: Atlanta
 seo:
-  name: "Ocean Wave Sushi By Harry and Sons"
-  type: Restaurant
+  type: restaurant
   links: http://surinofthailand.com/locations/ocean-wave/
-description: "An exposed-brick wall & outdoor patio set the scene at this Thai restaurant & sushi bar. Ocean Wave Sushi By Harry and Sons serves delicious sushi in Atlanta, Georgia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ55RQXaAG9YgRMcp5CxsHkjI
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: null
 rating: '4.4'
 rating_count: 0
 website: http://surinofthailand.com/locations/ocean-wave/
+description: >-
+  Discover Ocean Wave Sushi in Atlanta, GA$$$Ocean Wave Sushi By Harry and Sons
+  in Atlanta, GA, stands out as a welcoming spot for enjoying fresh sushi and
+  Thai-inspired dishes in a relaxed setting. This sushi restaurant features a
+  comfortable ambiance with an inviting outdoor patio, making it ideal for
+  casual meals or gatherings with friends. Patrons can savor a menu that blends
+  creative sushi rolls with flavorful Thai specialties, all prepared with
+  attention to quality and taste. The venue prioritizes accessibility with
+  features like wheelchair-friendly entrances and parking, enhancing the
+  experience for all visitors. As one of the top-rated sushi options in the
+  area, it's a go-to choice for those seeking authentic flavors in a
+  neighborhood-friendly atmosphere.
+generative_summary: >-
+  Discover Ocean Wave Sushi in Atlanta, GA$$$Ocean Wave Sushi By Harry and Sons
+  in Atlanta, GA, stands out as a welcoming spot for enjoying fresh sushi and
+  Thai-inspired dishes in a relaxed setting. This sushi restaurant features a
+  comfortable ambiance with an inviting outdoor patio, making it ideal for
+  casual meals or gatherings with friends. Patrons can savor a menu that blends
+  creative sushi rolls with flavorful Thai specialties, all prepared with
+  attention to quality and taste. The venue prioritizes accessibility with
+  features like wheelchair-friendly entrances and parking, enhancing the
+  experience for all visitors. As one of the top-rated sushi options in the
+  area, it's a go-to choice for those seeking authentic flavors in a
+  neighborhood-friendly atmosphere.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ55RQXaAG9YgRMcp5CxsHkjI/reviews/ChZDSUhNMG9nS0VJQ0FnSUNIdF83ZkRnEAE
@@ -320,6 +343,22 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURHNjlpcnlRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURHNjlpcnlRRRAB!2m1!1s0x88f506a05d5094e7:0x3292071b0b79ca31
+review_summary: >-
+  What Customers Are Sharing About This Spot$$$Folks visiting this Atlanta sushi
+  restaurant often rave about the fresh and tasty rolls that hit the spot just
+  right, with many highlighting quick preparation and standout dishes that keep
+  them coming back. While some appetizers and entrees receive mixed feedback,
+  like certain curries not quite matching expectations, the overall vibe leans
+  positive with friendly service and a welcoming environment that makes dining
+  out feel easygoing. Reviewers frequently mention it as a solid pick for groups
+  or casual afternoons, appreciating the efficient staff and variety that caters
+  to different tastes. Despite a few preferences varying from person to person,
+  the general consensus is that it's a reliable choice for quality meals,
+  encouraging repeat visits for its approachable and enjoyable sushi experience.
+  If you're on the hunt for great sushi nearby, this place delivers a
+  consistently satisfying meal with just the right mix of flavors and
+  convenience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidParkingLot: true
   paidStreetParking: true
@@ -352,8 +391,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   An exposed-brick wall & outdoor patio set the scene at this Thai restaurant &
   sushi bar.
 

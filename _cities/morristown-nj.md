@@ -5,4 +5,5 @@ permalink: /new-jersey/morristown/
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Morristown
+
 ---

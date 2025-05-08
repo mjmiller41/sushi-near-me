@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Bonchon West Hartford"
+title: Bonchon West Hartford
 permalink: /connecticut/west-hartford/bonchon-west-hartford.html
 stateAbbr: CT
 stateName: Connecticut
 cityName: West Hartford
 seo:
-  name: "Bonchon West Hartford"
-  type: Restaurant
-  links: null
-description: "Bonchon West Hartford serves delicious sushi in West Hartford, Connecticut. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://locations.bonchon.com/ll/US/CT/West-Hartford/1491-New-Britain-Ave
 place_id: ChIJORx-3eWt54kR3tCUVQWxWHY
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89e7ade5dd7e1c39:0x7658b1055594d0de!10e5
 primary_type: Asian Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 10:00 PM'
+    - 'Tuesday: 11:00 AM – 10:00 PM'
+    - 'Wednesday: 11:00 AM – 10:00 PM'
+    - 'Thursday: 11:00 AM – 10:00 PM'
+    - 'Friday: 11:00 AM – 10:00 PM'
+    - 'Saturday: 11:00 AM – 10:00 PM'
+    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,53 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (860) 356-3333
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.2'
+rating_count: 455
+website: https://locations.bonchon.com/ll/US/CT/West-Hartford/1491-New-Britain-Ave
+description: >-
+  Discover Bonchon in West Hartford, CT$$$Bonchon West Hartford in West
+  Hartford, CT, stands out as a welcoming Asian fusion spot celebrated for its
+  flavorful dishes and inviting atmosphere. This family-oriented eatery
+  specializes in crispy fried chicken and a variety of Asian-inspired options,
+  making it a go-to choice for those seeking tasty meals in a casual setting.
+  With accessibility features like wheelchair-friendly parking and entrances,
+  it's designed to accommodate everyone looking for a comfortable dining
+  experience. The restaurant's extended hours add to its appeal, offering ample
+  opportunities for lunch or dinner near you, while its fusion style hints at
+  the diverse flavors found in top-rated Asian places. Overall, Bonchon combines
+  quality ingredients with a relaxed vibe, perfect for anyone exploring vibrant
+  dining options in the area.
+generative_summary: >-
+  Discover Bonchon in West Hartford, CT$$$Bonchon West Hartford in West
+  Hartford, CT, stands out as a welcoming Asian fusion spot celebrated for its
+  flavorful dishes and inviting atmosphere. This family-oriented eatery
+  specializes in crispy fried chicken and a variety of Asian-inspired options,
+  making it a go-to choice for those seeking tasty meals in a casual setting.
+  With accessibility features like wheelchair-friendly parking and entrances,
+  it's designed to accommodate everyone looking for a comfortable dining
+  experience. The restaurant's extended hours add to its appeal, offering ample
+  opportunities for lunch or dinner near you, while its fusion style hints at
+  the diverse flavors found in top-rated Asian places. Overall, Bonchon combines
+  quality ingredients with a relaxed vibe, perfect for anyone exploring vibrant
+  dining options in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Feedback from Diners$$$Visitors to this Asian restaurant often praise the
+  standout flavors, especially the signature fried chicken and fresh sides that
+  keep people coming back for more. Many appreciate the friendly service and
+  efficient operations, noting that meals are consistently satisfying and
+  well-prepared, even during busy times. While some mention occasional waits,
+  the overall experience earns high marks for value and taste, reflected in its
+  solid rating from hundreds of feedback. It's clear that folks enjoy the
+  welcoming environment, making it a reliable spot for groups or families
+  hunting for good food nearby. In summary, the positive buzz around Bonchon
+  highlights it as a worthwhile choice for anyone craving authentic Asian eats
+  with a casual twist.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +314,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

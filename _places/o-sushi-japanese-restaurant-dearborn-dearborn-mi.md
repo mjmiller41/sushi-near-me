@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "O'Sushi Japanese Restaurant Dearborn"
+title: O'Sushi Japanese Restaurant Dearborn
 permalink: /michigan/dearborn/o-sushi-japanese-restaurant-dearborn.html
 stateAbbr: MI
 stateName: Michigan
 cityName: Dearborn
 seo:
-  name: "O'Sushi Japanese Restaurant Dearborn"
-  type: Restaurant
-  links: null
-description: "O'Sushi Japanese Restaurant Dearborn serves delicious sushi in Dearborn, Michigan. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.osushimi.com/
 place_id: ChIJ-zfFF3hKO4gRQ4Ef1T2W6qw
 photos:
   - name: >-
@@ -170,22 +168,163 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x883b4a7817c537fb:0xacea963dd51f8143!10e5
 primary_type: Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 20
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 9:00 PM'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 9:30 PM'
+    - 'Saturday: 12:00 – 8:30 PM'
+    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T00:30:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+  - openNow: false
+    periods:
+      - open:
+          day: 2
+          hour: 11
+          minute: 0
+        close:
+          day: 2
+          hour: 14
+          minute: 30
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 14
+          minute: 30
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 14
+          minute: 30
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 14
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: Closed'
+      - 'Tuesday: 11:00 AM – 2:30 PM'
+      - 'Wednesday: 11:00 AM – 2:30 PM'
+      - 'Thursday: 11:00 AM – 2:30 PM'
+      - 'Friday: 11:00 AM – 2:30 PM'
+      - 'Saturday: Closed'
+      - 'Sunday: Closed'
+    secondaryHoursType: DELIVERY
+    nextOpenTime: '2025-05-06T15:00:00Z'
+phone: (313) 562-4166
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.1'
+rating_count: 989
+website: http://www.osushimi.com/
+description: >-
+  Explore O'Sushi in Dearborn, MI$$$O'Sushi Japanese Restaurant in Dearborn, MI,
+  delivers a welcoming blend of fresh sushi rolls, Korean-inspired dishes, and
+  classic Japanese flavors in a laid-back atmosphere perfect for casual dining.
+  This spot stands out for its accessible features, including
+  wheelchair-friendly parking and entrances, making it easy for everyone to
+  enjoy a meal. Patrons can savor a variety of sushi options that highlight
+  high-quality ingredients, appealing to those seeking sushi restaurants nearby.
+  With extended hours throughout the week, it's an ideal choice for lunch or
+  dinner outings, offering a relaxed space to unwind. Whether you're exploring
+  Japanese places near me, this restaurant combines affordability with authentic
+  tastes that keep visitors coming back.
+generative_summary: >-
+  Explore O'Sushi in Dearborn, MI$$$O'Sushi Japanese Restaurant in Dearborn, MI,
+  delivers a welcoming blend of fresh sushi rolls, Korean-inspired dishes, and
+  classic Japanese flavors in a laid-back atmosphere perfect for casual dining.
+  This spot stands out for its accessible features, including
+  wheelchair-friendly parking and entrances, making it easy for everyone to
+  enjoy a meal. Patrons can savor a variety of sushi options that highlight
+  high-quality ingredients, appealing to those seeking sushi restaurants nearby.
+  With extended hours throughout the week, it's an ideal choice for lunch or
+  dinner outings, offering a relaxed space to unwind. Whether you're exploring
+  Japanese places near me, this restaurant combines affordability with authentic
+  tastes that keep visitors coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Visitor Feedback Highlights$$$Visitors to this sushi spot often rave about the
+  fresh, flavorful rolls and diverse menu that make it a solid pick for anyone
+  craving top-rated sushi in the area. Many appreciate the attentive service and
+  cozy vibe, noting that it enhances the overall dining experience without any
+  fuss. While some mention occasional waits during busy times, the general
+  consensus is that the quality and variety outweigh any minor hiccups, leaving
+  most folks satisfied and eager to return. It's frequently described as a go-to
+  option for groups or families looking for reliable Japanese eats close to
+  home. All in all, the positive buzz around "I love sushi" moments here
+  reflects its reputation as one of the best sushi restaurants near me, based on
+  the solid ratings from the community.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +350,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

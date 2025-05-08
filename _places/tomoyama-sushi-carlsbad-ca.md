@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Tomoyama sushi"
+title: Tomoyama sushi
 permalink: /california/carlsbad/tomoyama-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Carlsbad
 seo:
-  name: "Tomoyama sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.tomoyamasushi.com/
-description: "Offering specials at lunch, this outfit with a full bar serves sushi & classic Japanese fare. Tomoyama sushi serves delicious sushi in Carlsbad, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJUe4hkFUL3IARfby9S6jKyjQ
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 0
 website: http://www.tomoyamasushi.com/
+description: >-
+  Discover Tomoyama Sushi in Carlsbad, CA$$$Tomoyama Sushi in Carlsbad, CA,
+  stands out as a casual Japanese restaurant offering an array of fresh rolls
+  and sushi that appeal to anyone seeking authentic flavors in a welcoming
+  setting. With a focus on quality ingredients and traditional preparations,
+  this spot provides a satisfying menu that includes sake, beer, and cocktails,
+  making it ideal for both quick lunches and relaxed dinners. The restaurant's
+  accessibility features, such as wheelchair-friendly entrances and seating,
+  ensure a comfortable visit for all guests, while its moderate pricing adds
+  great value for those exploring sushi options nearby. Drawing from its
+  inviting atmosphere and thoughtful offerings, it's a go-to choice for locals
+  and visitors alike looking for top-rated Japanese cuisine that feels just
+  right.
+generative_summary: >-
+  Discover Tomoyama Sushi in Carlsbad, CA$$$Tomoyama Sushi in Carlsbad, CA,
+  stands out as a casual Japanese restaurant offering an array of fresh rolls
+  and sushi that appeal to anyone seeking authentic flavors in a welcoming
+  setting. With a focus on quality ingredients and traditional preparations,
+  this spot provides a satisfying menu that includes sake, beer, and cocktails,
+  making it ideal for both quick lunches and relaxed dinners. The restaurant's
+  accessibility features, such as wheelchair-friendly entrances and seating,
+  ensure a comfortable visit for all guests, while its moderate pricing adds
+  great value for those exploring sushi options nearby. Drawing from its
+  inviting atmosphere and thoughtful offerings, it's a go-to choice for locals
+  and visitors alike looking for top-rated Japanese cuisine that feels just
+  right.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJUe4hkFUL3IARfby9S6jKyjQ/reviews/ChZDSUhNMG9nS0VJQ0FnSURQbU1yNE93EAE
@@ -332,6 +357,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR0OTV6LUxnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR0OTV6LUxnEAE!2m1!1s0x80dc0b559021ee51:0x34cacaa84bbdbc7d
+review_summary: >-
+  What Customers Are Saying$$$Visitors often rave about the fresh and flavorful
+  sushi rolls and udon dishes that make meals here feel like a real treat
+  without breaking the bank. Many highlight the generous portions in meal deals,
+  like those featuring chicken katsu or tempura, noting they provide plenty of
+  satisfying options for a casual outing. The friendly service and easygoing
+  vibe come up frequently, creating a relaxed environment that's perfect for
+  groups or families enjoying a night out. Overall, folks appreciate the
+  attention to detail in the food's preparation and the value during happy hour,
+  making it a solid pick for anyone in the area hunting for reliable Japanese
+  eats. While experiences can vary, the consistent praise for taste and
+  atmosphere keeps the positive buzz going strong.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -364,8 +402,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Offering specials at lunch, this outfit with a full bar serves sushi & classic
   Japanese fare.
 

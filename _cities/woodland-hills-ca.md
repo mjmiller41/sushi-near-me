@@ -5,4 +5,5 @@ permalink: /california/woodland-hills/
 stateAbbr: CA
 stateName: California
 cityName: Woodland Hills
+
 ---

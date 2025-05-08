@@ -5,4 +5,5 @@ permalink: /illinois/bloomington/
 stateAbbr: IL
 stateName: Illinois
 cityName: Bloomington
+
 ---

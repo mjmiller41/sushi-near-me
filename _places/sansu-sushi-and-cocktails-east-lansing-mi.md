@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sansu Sushi and Cocktails"
+title: Sansu Sushi and Cocktails
 permalink: /michigan/east-lansing/sansu-sushi-and-cocktails.html
 stateAbbr: MI
 stateName: Michigan
 cityName: East Lansing
 seo:
-  name: "Sansu Sushi and Cocktails"
-  type: Restaurant
+  type: restaurant
   links: http://www.sansu-sushi.com/
-description: "Sansu Sushi and Cocktails serves delicious sushi in East Lansing, Michigan. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJoUMb9pfCIogREsFLu8wbi0I
 photos:
   - name: >-
@@ -170,22 +168,113 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8822c297f61b43a1:0x428b1bccbb4bc112!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 3
+        minute: 30
+      close:
+        day: 0
+        hour: 20
+        minute: 30
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 20
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 14
+        minute: 0
+    - open:
+        day: 6
+        hour: 16
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 4:30 – 8:30 PM'
     - 'Tuesday: 11:30 AM – 2:00 PM, 4:30 – 9:00 PM'
     - 'Wednesday: 11:30 AM – 2:00 PM, 4:30 – 9:00 PM'
     - 'Thursday: 11:30 AM – 2:00 PM, 4:30 – 9:00 PM'
     - 'Friday: 11:30 AM – 2:00 PM, 4:30 – 9:30 PM'
     - 'Saturday: 11:30 AM – 2:00 PM, 4:30 – 9:30 PM'
-    - 'Sunday: 3:30 – 8:30 PM'
-  current:
-    - 'Monday: 4:30 – 8:30 PM'
-    - 'Tuesday: 11:30 AM – 2:00 PM, 4:30 – 9:00 PM'
-    - 'Wednesday: 11:30 AM – 2:00 PM, 4:30 – 9:00 PM'
-    - 'Thursday: 11:30 AM – 2:00 PM, 4:30 – 9:00 PM'
-    - 'Friday: 11:30 AM – 2:00 PM, 4:30 – 9:30 PM'
-    - 'Saturday: 11:30 AM – 2:00 PM, 4:30 – 9:30 PM'
-    - 'Sunday: 3:30 – 8:30 PM'
+    - 'Sunday: 3:30 AM – 8:30 PM'
+  nextCloseTime: '2025-05-04T01:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +286,47 @@ phone: (517) 333-1933
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.5'
-rating_count: 0
+rating_count: 1358
 website: http://www.sansu-sushi.com/
+description: >-
+  Discover Sansu Sushi and Cocktails in East Lansing, MI$$$Sansu Sushi and
+  Cocktails in East Lansing, MI, stands out as a welcoming spot for those
+  seeking fresh Japanese cuisine and creative flavors. This establishment boasts
+  an extensive array of over 75 specialty rolls alongside classic sushi options
+  and Korean-inspired dishes, all served in a relaxed and inviting atmosphere
+  that encourages casual dining. Accessibility features like wheelchair-friendly
+  parking and entrances make it easy for everyone to enjoy the experience, while
+  its moderate price range offers great value for quality meals. Whether you're
+  looking for top-rated sushi spots nearby or a cozy place to unwind with
+  cocktails, this restaurant delivers a memorable blend of taste and ambiance
+  that keeps locals coming back.
+generative_summary: >-
+  Discover Sansu Sushi and Cocktails in East Lansing, MI$$$Sansu Sushi and
+  Cocktails in East Lansing, MI, stands out as a welcoming spot for those
+  seeking fresh Japanese cuisine and creative flavors. This establishment boasts
+  an extensive array of over 75 specialty rolls alongside classic sushi options
+  and Korean-inspired dishes, all served in a relaxed and inviting atmosphere
+  that encourages casual dining. Accessibility features like wheelchair-friendly
+  parking and entrances make it easy for everyone to enjoy the experience, while
+  its moderate price range offers great value for quality meals. Whether you're
+  looking for top-rated sushi spots nearby or a cozy place to unwind with
+  cocktails, this restaurant delivers a memorable blend of taste and ambiance
+  that keeps locals coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Visitor Feedback$$$Visitors often praise the wide variety of
+  sushi rolls at this Japanese restaurant, highlighting creative options like
+  spicy and fusion styles that add excitement to every bite. Many appreciate the
+  tasty appetizers and sides that complement the main dishes, creating a
+  well-rounded meal experience that's both satisfying and flavorful. The staff
+  comes across as friendly and attentive, helping to make the overall vibe feel
+  warm and welcoming for groups or solo diners. While the atmosphere is
+  described as elegant yet comfortable, it's clear that the focus on quality
+  ingredients and service keeps the energy positive. If you're exploring sushi
+  places near you, this spot earns solid marks for its reliable appeal and
+  enjoyable dining.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +352,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

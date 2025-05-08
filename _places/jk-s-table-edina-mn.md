@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "JK's Table"
+title: JK's Table
 permalink: /minnesota/edina/jk-s-table.html
 stateAbbr: MN
 stateName: Minnesota
 cityName: Edina
 seo:
-  name: "JK's Table"
-  type: Restaurant
+  type: restaurant
   links: http://www.jkstable.com/
-description: "Weekday breakfast & lunch spot for sushi, Asian bowls & American deli sandwiches in low-key digs. JK's Table serves delicious sushi in Edina, Minnesota. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ4zufmuUj9ocRVTkKIA3N8xA
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $10 &ndash; $20
 rating: '4.8'
 rating_count: 0
 website: http://www.jkstable.com/
+description: >-
+  Discover JK's Table in Edina, MN$$$JK's Table in Edina, MN, stands out as a
+  welcoming Japanese spot specializing in fresh sushi, flavorful noodle dishes,
+  and hearty sandwiches, all served in a relaxed, unpretentious setting. This
+  affordable eatery emphasizes high-quality ingredients, making it a go-to
+  choice for those seeking authentic Asian flavors without the fuss. With
+  options like sushi rolls and Asian bowls that highlight seasonal freshness,
+  it's ideal for a quick yet satisfying meal in a conveniently accessible
+  location. The spot also caters to various needs, including easy parking and
+  inclusive features, ensuring a comfortable visit for everyone. Whether you're
+  in the mood for top-notch sushi options or a light lunch, this hidden gem
+  delivers a blend of simplicity and taste that keeps locals coming back.
+generative_summary: >-
+  Discover JK's Table in Edina, MN$$$JK's Table in Edina, MN, stands out as a
+  welcoming Japanese spot specializing in fresh sushi, flavorful noodle dishes,
+  and hearty sandwiches, all served in a relaxed, unpretentious setting. This
+  affordable eatery emphasizes high-quality ingredients, making it a go-to
+  choice for those seeking authentic Asian flavors without the fuss. With
+  options like sushi rolls and Asian bowls that highlight seasonal freshness,
+  it's ideal for a quick yet satisfying meal in a conveniently accessible
+  location. The spot also caters to various needs, including easy parking and
+  inclusive features, ensuring a comfortable visit for everyone. Whether you're
+  in the mood for top-notch sushi options or a light lunch, this hidden gem
+  delivers a blend of simplicity and taste that keeps locals coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ4zufmuUj9ocRVTkKIA3N8xA/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3enRMd2RBEAE
@@ -356,6 +379,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURQczRucDlRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURQczRucDlRRRAB!2m1!1s0x87f623e59a9f3be3:0x10f3cd0d200a3955
+review_summary: >-
+  What Customers Are Buzzing About$$$Visitors to this cozy sushi spot often rave
+  about the incredibly fresh and flavorful dishes, with many highlighting the
+  standout sushi rolls and bowls that make it a favorite for quick, delicious
+  meals. Folks appreciate the generous portions and great value, especially for
+  items like spicy tuna and chicken bowls, which come across as satisfying and
+  well-prepared. While most feedback praises the speedy service and welcoming
+  vibe perfect for a casual lunch, a few notes mention that some rice-based
+  options could use a bit more balance in pricing and preparation. Overall, the
+  consensus leans positive, with diners enjoying the authentic Japanese flavors
+  that feel both affordable and exciting. If you're hunting for reliable sushi
+  places nearby, this spot earns high marks for its consistent quality and
+  friendly atmosphere that keeps the experience enjoyable.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   valetParking: false
@@ -387,8 +424,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Weekday breakfast & lunch spot for sushi, Asian bowls & American deli
   sandwiches in low-key digs.
 

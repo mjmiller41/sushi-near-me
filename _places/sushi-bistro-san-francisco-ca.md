@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Bistro"
+title: Sushi Bistro
 permalink: /california/san-francisco/sushi-bistro.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
 seo:
-  name: "Sushi Bistro"
-  type: Restaurant
+  type: restaurant
   links: http://sushibistro.com/
-description: "Neighborhood Japanese spot where unusual ingredients make for twists on traditional sushi. Sushi Bistro serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, and dinner."
 place_id: ChIJCcINQEl-j4ARRypIXsVSEZI
 photos:
   - name: >-
@@ -184,6 +182,29 @@ price_range: $30 &ndash; $50
 rating: '4.5'
 rating_count: 0
 website: http://sushibistro.com/
+description: >-
+  Discover Sushi Bistro in San Francisco, CA$$$Sushi Bistro in San Francisco,
+  CA, stands out as a welcoming neighborhood destination for those craving
+  inventive Japanese flavors and fresh seafood options. This spot combines
+  casual vibes with creative twists on classic rolls and sashimi, paired
+  perfectly with a selection of beverages to enhance your meal. Accessibility
+  features like wheelchair-friendly entrances and seating make it easy for
+  everyone to enjoy the experience, while outdoor options add to the relaxed
+  charm. Whether you're exploring top sushi choices in the area, it's a go-to
+  for anyone seeking quality ingredients and a comfortable setting that feels
+  both familiar and exciting.
+generative_summary: >-
+  Discover Sushi Bistro in San Francisco, CA$$$Sushi Bistro in San Francisco,
+  CA, stands out as a welcoming neighborhood destination for those craving
+  inventive Japanese flavors and fresh seafood options. This spot combines
+  casual vibes with creative twists on classic rolls and sashimi, paired
+  perfectly with a selection of beverages to enhance your meal. Accessibility
+  features like wheelchair-friendly entrances and seating make it easy for
+  everyone to enjoy the experience, while outdoor options add to the relaxed
+  charm. Whether you're exploring top sushi choices in the area, it's a go-to
+  for anyone seeking quality ingredients and a comfortable setting that feels
+  both familiar and exciting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJCcINQEl-j4ARRypIXsVSEZI/reviews/ChdDSUhNMG9nS0VJQ0FnSUQyaGZ6WW5BRRAB
@@ -335,6 +356,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNaaTVIeC1RRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNaaTVIeC1RRRAB!2m1!1s0x808f7e49400dc209:0x921152c55e482a47
+review_summary: >-
+  What Visitors Are Buzzing About$$$Visitors consistently highlight the
+  outstanding freshness of the seafood and the clever variety in the menu,
+  making it a favorite for sushi enthusiasts looking for something special. The
+  service stands out as prompt and attentive, with quick seating and refills
+  that keep the experience smooth and enjoyable without any fuss. Many
+  appreciate the unique flavors and affordable pricing, turning first-timers
+  into regulars who can't wait to try more. Overall, the vibe is lively yet
+  relaxed, with plenty of praise for the welcoming atmosphere that encourages
+  groups or solo diners to return. If you're hunting for reliable sushi spots
+  nearby, this place delivers a solid, feel-good meal that lives up to the hype.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   valetParking: false
 payment_options:
@@ -365,8 +398,8 @@ serves_lunch: false
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Neighborhood Japanese spot where unusual ingredients make for twists on
   traditional sushi.
 

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Umi Sushi"
+title: Umi Sushi
 permalink: /new-york/brooklyn/umi-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: Brooklyn
 seo:
-  name: "Umi Sushi"
-  type: Restaurant
-  links: null
-description: "Umi Sushi serves delicious sushi in Brooklyn, New York. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.umisushibk.com/
 place_id: ChIJRxsII0dEwokRw1GOl5DTAmg
 photos:
   - name: >-
@@ -149,8 +147,8 @@ state: NY
 zip: '11235'
 country: USA
 neighborhood: Brighton Beach
-latitude: '40.576669'
-longitude: '-73.966667'
+latitude: '40.576787'
+longitude: '-73.966707'
 accessibility_options:
   wheelchairAccessibleEntrance: true
   wheelchairAccessibleSeating: true
@@ -168,8 +166,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c2444723081b47:0x6802d390978e51c3!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 12
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 12:00 – 10:00 PM'
+    - 'Tuesday: 11:00 AM – 10:00 PM'
+    - 'Wednesday: 11:00 AM – 10:00 PM'
+    - 'Thursday: 11:00 AM – 10:00 PM'
+    - 'Friday: 11:00 AM – 10:30 PM'
+    - 'Saturday: 11:30 AM – 10:30 PM'
+    - 'Sunday: 12:00 – 10:00 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -177,13 +240,52 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (718) 769-3338
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.0'
+rating_count: 512
+website: https://www.umisushibk.com/
+description: >-
+  Discover Umi Sushi in Brooklyn, NY$$$Umi Sushi in Brooklyn, NY, stands out as
+  a welcoming spot for enjoying traditional sushi and Asian-inspired dishes, set
+  in a cozy environment that invites both casual diners and those seeking a
+  relaxed meal. The restaurant boasts a wide array of fresh sushi options
+  alongside a variety of teas, making it a great choice for anyone exploring
+  Japanese flavors in a vibrant neighborhood. With convenient dine-in or
+  delivery services, it's designed to accommodate different preferences while
+  offering accessibility features like wheelchair-friendly entrances and
+  seating. Operating from late morning into the evening most days, this sushi
+  spot near you provides an authentic taste of Japanese cuisine that's perfect
+  for groups or solo visits, blending quality ingredients with a comfortable
+  atmosphere.
+generative_summary: >-
+  Discover Umi Sushi in Brooklyn, NY$$$Umi Sushi in Brooklyn, NY, stands out as
+  a welcoming spot for enjoying traditional sushi and Asian-inspired dishes, set
+  in a cozy environment that invites both casual diners and those seeking a
+  relaxed meal. The restaurant boasts a wide array of fresh sushi options
+  alongside a variety of teas, making it a great choice for anyone exploring
+  Japanese flavors in a vibrant neighborhood. With convenient dine-in or
+  delivery services, it's designed to accommodate different preferences while
+  offering accessibility features like wheelchair-friendly entrances and
+  seating. Operating from late morning into the evening most days, this sushi
+  spot near you provides an authentic taste of Japanese cuisine that's perfect
+  for groups or solo visits, blending quality ingredients with a comfortable
+  atmosphere.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Buzzing About$$$If you're on the hunt for top-rated sushi
+  places near you, Umi Sushi gets plenty of nods for its solid offerings that
+  keep diners coming back. With an average rating around 4.0 stars from hundreds
+  of feedback, people often highlight the fresh flavors and reliable service
+  that make meals feel worthwhile. Some casual mentions point to the cozy vibe
+  and variety of dishes hitting the spot without breaking the bank, though a few
+  note it's best for straightforward sushi cravings rather than anything overly
+  fancy. Overall, it's clear this spot maintains a positive reputation for
+  delivering enjoyable Japanese eats in a hassle-free setting, making it a go-to
+  option for anyone in the area looking for a satisfying bite.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -209,7 +311,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

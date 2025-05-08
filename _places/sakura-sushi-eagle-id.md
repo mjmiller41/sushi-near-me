@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sakura Sushi"
+title: Sakura Sushi
 permalink: /idaho/eagle/sakura-sushi.html
 stateAbbr: ID
 stateName: Idaho
 cityName: Eagle
 seo:
-  name: "Sakura Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sakura Sushi serves delicious sushi in Eagle, Idaho. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ9SAwKgBVrlQRWMsz47jbH8c
 photos:
   - name: >-
@@ -184,7 +182,45 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Explore Sakura Sushi in Eagle, ID$$$Sakura Sushi in Eagle, ID, stands out as a
+  welcoming Japanese restaurant specializing in fresh sushi and authentic
+  flavors that draw in locals and visitors alike. The spot features a cozy
+  atmosphere with accessible entrances and seating, making it easy for everyone
+  to enjoy a meal focused on quality ingredients and traditional preparation.
+  Nestled on a convenient street in the area, it's an ideal choice for those
+  seeking sushi restaurants near me, with a menu that highlights creative rolls
+  and classic dishes. Photos of the vibrant interior suggest a modern yet
+  intimate dining experience, perfect for casual outings or quick bites. Whether
+  you're in the mood for top-rated sushi or exploring Japanese places near me,
+  this location offers a satisfying blend of taste and convenience.
+generative_summary: >-
+  Explore Sakura Sushi in Eagle, ID$$$Sakura Sushi in Eagle, ID, stands out as a
+  welcoming Japanese restaurant specializing in fresh sushi and authentic
+  flavors that draw in locals and visitors alike. The spot features a cozy
+  atmosphere with accessible entrances and seating, making it easy for everyone
+  to enjoy a meal focused on quality ingredients and traditional preparation.
+  Nestled on a convenient street in the area, it's an ideal choice for those
+  seeking sushi restaurants near me, with a menu that highlights creative rolls
+  and classic dishes. Photos of the vibrant interior suggest a modern yet
+  intimate dining experience, perfect for casual outings or quick bites. Whether
+  you're in the mood for top-rated sushi or exploring Japanese places near me,
+  this location offers a satisfying blend of taste and convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback Highlights$$$Folks chatting about Sakura Sushi often mention
+  enjoying the fresh, flavorful rolls that make it a go-to for sushi lovers in
+  the neighborhood. Many appreciate the welcoming vibe and solid portions,
+  noting it's a solid pick for anyone hunting for best sushi near me without the
+  fuss. While some point out that service can vary a bit depending on the time,
+  the overall consensus leans positive, with praise for the variety that keeps
+  things exciting for groups or solo diners. It's commonly described as a
+  reliable spot for a casual meal, where the focus on quality ingredients shines
+  through in every bite. If you're on the lookout for sushi places near me, this
+  one gets nods for delivering a straightforward, enjoyable experience that
+  leaves people coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +246,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

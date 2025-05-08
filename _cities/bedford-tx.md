@@ -5,4 +5,5 @@ permalink: /texas/bedford/
 stateAbbr: TX
 stateName: Texas
 cityName: Bedford
+
 ---

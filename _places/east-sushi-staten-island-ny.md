@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "East Sushi"
+title: East Sushi
 permalink: /new-york/staten-island/east-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: Staten Island
 seo:
-  name: "East Sushi"
-  type: Restaurant
-  links: null
-description: "East Sushi serves delicious sushi in Staten Island, New York. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.eastsushiamboy.com/
 place_id: ChIJMdmspK1LwokRkYEguoHA0jU
 photos:
   - name: >-
@@ -130,8 +128,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c24bada4acd931:0x35d2c081ba208191!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 9:00 PM'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 9:30 PM'
+    - 'Saturday: 11:00 AM – 9:30 PM'
+    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T01:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -139,13 +202,48 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
+phone: (718) 966-8888
 price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+price_range: $10 &ndash; $20
+rating: '3.4'
+rating_count: 46
+website: http://www.eastsushiamboy.com/
+description: >-
+  Discover East Sushi in Staten Island$$$East Sushi in Staten Island, NY, stands
+  out as a welcoming spot for enjoying fresh Japanese flavors among local sushi
+  restaurants. This eatery delights with a menu featuring artfully prepared
+  rolls and dishes that highlight quality ingredients, making it a great option
+  for anyone seeking sushi near me. With convenient hours from 11 AM on most
+  days and full accessibility features like wheelchair-friendly entrances, it's
+  designed for easy visits whether you're dining in or grabbing takeout. The
+  neighborhood location in Eltingville adds to its appeal, offering a relaxed
+  atmosphere for casual meals or quick bites at one of the top sushi places near
+  me.
+generative_summary: >-
+  Discover East Sushi in Staten Island$$$East Sushi in Staten Island, NY, stands
+  out as a welcoming spot for enjoying fresh Japanese flavors among local sushi
+  restaurants. This eatery delights with a menu featuring artfully prepared
+  rolls and dishes that highlight quality ingredients, making it a great option
+  for anyone seeking sushi near me. With convenient hours from 11 AM on most
+  days and full accessibility features like wheelchair-friendly entrances, it's
+  designed for easy visits whether you're dining in or grabbing takeout. The
+  neighborhood location in Eltingville adds to its appeal, offering a relaxed
+  atmosphere for casual meals or quick bites at one of the top sushi places near
+  me.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Folks checking out this sushi spot often highlight
+  the tasty rolls and solid value for the price, creating a generally enjoyable
+  experience for Japanese food enthusiasts. While some mention that service can
+  vary depending on the time of day, many appreciate the friendly vibe and quick
+  preparation that keeps things straightforward. A few note that the portions
+  might not always feel generous, but the fresh flavors and affordability still
+  make it a reliable choice for satisfying sushi cravings. Overall, with a
+  moderate rating reflecting mixed feedback, it's a spot where you can expect
+  decent quality without high expectations, perfect for those exploring sushi
+  restaurants in the area.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -171,7 +269,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

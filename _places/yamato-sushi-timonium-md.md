@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yamato Sushi"
+title: Yamato Sushi
 permalink: /maryland/timonium/yamato-sushi.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Timonium
 seo:
-  name: "Yamato Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.yamatosushimd.com/
-description: "This hopping, BYO sushi scene boasts a huge array of signature rolls, plus some Thai offerings. Yamato Sushi serves delicious sushi in Timonium, Maryland. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJLdPZHxEOyIkRytz7qCGNWuY
 photos:
   - name: >-
@@ -184,6 +182,31 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 0
 website: http://www.yamatosushimd.com/
+description: >-
+  Discover Yamato Sushi in Timonium, MD$$$Yamato Sushi in Timonium, MD, offers a
+  casual dining experience with a focus on fresh sushi and other Asian flavors,
+  making it a go-to spot for those seeking top-rated sushi options nearby. The
+  restaurant features an extensive array of creative signature rolls and
+  Thai-inspired dishes, all served in a straightforward strip mall setting that
+  keeps things approachable and inviting. With accessibility options like
+  wheelchair-friendly parking and seating, it's designed to welcome everyone
+  looking for quality Japanese cuisine close to home. Patrons appreciate the
+  BYOB policy, which adds a personal touch to meals without the extra cost.
+  Whether you're exploring sushi places near me or craving something beyond the
+  basics, this spot delivers flavorful variety at moderate prices.
+generative_summary: >-
+  Discover Yamato Sushi in Timonium, MD$$$Yamato Sushi in Timonium, MD, offers a
+  casual dining experience with a focus on fresh sushi and other Asian flavors,
+  making it a go-to spot for those seeking top-rated sushi options nearby. The
+  restaurant features an extensive array of creative signature rolls and
+  Thai-inspired dishes, all served in a straightforward strip mall setting that
+  keeps things approachable and inviting. With accessibility options like
+  wheelchair-friendly parking and seating, it's designed to welcome everyone
+  looking for quality Japanese cuisine close to home. Patrons appreciate the
+  BYOB policy, which adds a personal touch to meals without the extra cost.
+  Whether you're exploring sushi places near me or craving something beyond the
+  basics, this spot delivers flavorful variety at moderate prices.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJLdPZHxEOyIkRytz7qCGNWuY/reviews/ChdDSUhNMG9nS0VJQ0FnSUN2MHVta21RRRAB
@@ -331,6 +354,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURRanVQV293RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURRanVQV293RRAB!2m1!1s0x89c80e111fd9d32d:0xe65a8d21a8fbdcca
+review_summary: >-
+  What Customers Are Raving About$$$Visitors often highlight the impressive
+  range of creative and tasty specialty rolls that make every meal feel fresh
+  and exciting, turning Yamato Sushi into a reliable favorite for sushi
+  enthusiasts. Folks appreciate the attentive service and quick preparation,
+  which keeps things smooth even when the place gets busy, allowing for
+  enjoyable group outings or quick bites. Many note the little extras, like
+  complimentary treats, that add a fun twist to the overall experience without
+  overshadowing the main dishes. Overall, it's praised as a solid choice for
+  anyone hunting for the best sushi near me, with consistent quality that keeps
+  people coming back for more. While it's not perfect for every craving, the
+  positive vibes and variety make it a welcoming option for casual diners
+  seeking honest, delicious eats.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -363,8 +400,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   This hopping, BYO sushi scene boasts a huge array of signature rolls, plus
   some Thai offerings.
 

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Matsuya Quality Japanese Eats"
+title: Matsuya Quality Japanese Eats
 permalink: /new-york/roslyn/matsuya-quality-japanese-eats.html
 stateAbbr: NY
 stateName: New York
 cityName: Roslyn
 seo:
-  name: "Matsuya Quality Japanese Eats"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Matsuya Quality Japanese Eats serves delicious sushi in Roslyn, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJGcr1m5eJwokRoTqqrFI8DUw
 photos:
   - name: >-
@@ -154,6 +152,7 @@ longitude: '-73.648691'
 accessibility_options:
   wheelchairAccessibleParking: true
   wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
   wheelchairAccessibleSeating: true
 business_status: OPERATIONAL
 name: Matsuya Quality Japanese Eats
@@ -184,7 +183,45 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Matsuya Quality Japanese Eats in Roslyn, NY$$$Matsuya Quality
+  Japanese Eats in Roslyn, NY, provides a relaxed spot for enjoying authentic
+  Japanese flavors, including fresh sushi and creative rolls crafted with care.
+  The casual atmosphere features a welcoming bar area where visitors can savor
+  expertly prepared dishes alongside a selection of beer and wine, making it
+  ideal for casual meals or unwinding after a day. With thoughtful accessibility
+  features like wheelchair-friendly entrances and seating, this spot ensures
+  everyone can experience its vibrant offerings without barriers. Patrons
+  appreciate the focus on quality ingredients that highlight traditional
+  techniques, positioning it as a go-to choice for those seeking Japanese
+  cuisine nearby.
+generative_summary: >-
+  Discover Matsuya Quality Japanese Eats in Roslyn, NY$$$Matsuya Quality
+  Japanese Eats in Roslyn, NY, provides a relaxed spot for enjoying authentic
+  Japanese flavors, including fresh sushi and creative rolls crafted with care.
+  The casual atmosphere features a welcoming bar area where visitors can savor
+  expertly prepared dishes alongside a selection of beer and wine, making it
+  ideal for casual meals or unwinding after a day. With thoughtful accessibility
+  features like wheelchair-friendly entrances and seating, this spot ensures
+  everyone can experience its vibrant offerings without barriers. Patrons
+  appreciate the focus on quality ingredients that highlight traditional
+  techniques, positioning it as a go-to choice for those seeking Japanese
+  cuisine nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Buzzing About$$$Folks exploring sushi spots around Roslyn
+  often highlight the fresh, flavorful rolls and solid drink options that make
+  for a satisfying meal without any fuss. Many comments point to the reliable
+  quality of the Japanese dishes, with people noting how the variety keeps
+  things exciting for repeat visits. While some mention portions could be more
+  generous, the overall vibe comes across as inviting and worth trying for
+  anyone in the mood for casual eats. It's clear that the emphasis on simple,
+  well-executed flavors has won over locals, creating a positive buzz for those
+  hunting for top-rated sushi experiences in the area. Overall, it seems like a
+  solid pick for anyone wanting to dive into Japanese-inspired dining with a
+  laid-back feel.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +247,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

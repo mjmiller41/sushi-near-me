@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Miso Sushi & Grill"
+title: Miso Sushi & Grill
 permalink: /california/chino/miso-sushi-grill.html
 stateAbbr: CA
 stateName: California
 cityName: Chino
 seo:
-  name: "Miso Sushi & Grill"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Miso Sushi & Grill serves delicious sushi in Chino, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJmcgkdB0zw4ARx2nTr1mEzFU
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c3331d7424c899:0x55cc8459afd369c7!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 10
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 10
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 10
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 10
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 10
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 10
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 10:00 AM – 9:30 PM'
     - 'Tuesday: 10:00 AM – 9:30 PM'
     - 'Wednesday: 10:00 AM – 9:30 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 10:00 AM – 9:30 PM'
     - 'Saturday: 10:00 AM – 9:30 PM'
     - 'Sunday: 12:00 – 9:00 PM'
-  current:
-    - 'Monday: 10:00 AM – 9:30 PM'
-    - 'Tuesday: 10:00 AM – 9:30 PM'
-    - 'Wednesday: 10:00 AM – 9:30 PM'
-    - 'Thursday: 10:00 AM – 9:30 PM'
-    - 'Friday: 10:00 AM – 9:30 PM'
-    - 'Saturday: 10:00 AM – 9:30 PM'
-    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T04:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,315 @@ phone: (909) 464-0513
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.5'
-rating_count: 0
+rating_count: 515
 website: null
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Explore Miso Sushi & Grill in Chino, CA$$$Miso Sushi & Grill in Chino, CA,
+  offers a welcoming spot for enjoying fresh sushi and Asian-inspired dishes in
+  a relaxed environment. This sushi restaurant features a variety of rolls,
+  Korean BBQ options, and other flavorful eats, making it a go-to choice for
+  those seeking authentic flavors without the fuss. The laid-back setting is
+  ideal for casual meals, with accessibility features like wheelchair-friendly
+  entrances and parking that enhance the overall experience. Visitors can expect
+  generous portions at moderate prices, perfect for a satisfying lunch or
+  dinner. Whether you're in the mood for top-rated sushi or exploring
+  Japanese-inspired cuisine nearby, this spot delivers a comfortable and
+  enjoyable dining vibe.
+generative_summary: >-
+  Explore Miso Sushi & Grill in Chino, CA$$$Miso Sushi & Grill in Chino, CA,
+  offers a welcoming spot for enjoying fresh sushi and Asian-inspired dishes in
+  a relaxed environment. This sushi restaurant features a variety of rolls,
+  Korean BBQ options, and other flavorful eats, making it a go-to choice for
+  those seeking authentic flavors without the fuss. The laid-back setting is
+  ideal for casual meals, with accessibility features like wheelchair-friendly
+  entrances and parking that enhance the overall experience. Visitors can expect
+  generous portions at moderate prices, perfect for a satisfying lunch or
+  dinner. Whether you're in the mood for top-rated sushi or exploring
+  Japanese-inspired cuisine nearby, this spot delivers a comfortable and
+  enjoyable dining vibe.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJmcgkdB0zw4ARx2nTr1mEzFU/reviews/ChdDSUhNMG9nS0VJQ0FnSUNQNGVtNDB3RRAB
+    relativePublishTimeDescription: 5 months ago
+    rating: 3
+    text:
+      text: >-
+        This is a pretty good sushi place! The food is pretty decent and the
+        service is good! The fish is fresh; no complaints there! The taste of
+        the food is pretty basic and the jalapeño poppers were just okay (they
+        are also not jalapeño poppers?), but nothing about the food or service
+        disappointed!
+      languageCode: en
+    originalText:
+      text: >-
+        This is a pretty good sushi place! The food is pretty decent and the
+        service is good! The fish is fresh; no complaints there! The taste of
+        the food is pretty basic and the jalapeño poppers were just okay (they
+        are also not jalapeño poppers?), but nothing about the food or service
+        disappointed!
+      languageCode: en
+    authorAttribution:
+      displayName: Nezam Newman
+      uri: https://www.google.com/maps/contrib/107304913920835410170/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWp5PFDM8KA7CquKsbhepRvUIjXWzKUmgo2mTuSH2RcYda4OlYU=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-11-25T08:10:51.315910Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNQNGVtNDB3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNQNGVtNDB3RRAB!2m1!1s0x80c3331d7424c899:0x55cc8459afd369c7
+  - name: >-
+      places/ChIJmcgkdB0zw4ARx2nTr1mEzFU/reviews/ChdDSUhNMG9nS0VJQ0FnSUNial91ODZBRRAB
+    relativePublishTimeDescription: 9 months ago
+    rating: 5
+    text:
+      text: >-
+        Stopped by here on our way home and decided to order teriyaki chicken
+        entrees, They were delicious and had great portions. The miso soup is
+        yummy and the chicken was tender. We waited to eat it so next time I
+        would order teriyaki on the side but other than that it was perfect and
+        the service was good too. The lady that took our order was super nice
+        and friendly. The order came out promptly and glad I came in before 9
+        because they close at 930 and I know sometimes restaurants don't take
+        any more orders after a certain time. So thank you for still taking us.
+      languageCode: en
+    originalText:
+      text: >-
+        Stopped by here on our way home and decided to order teriyaki chicken
+        entrees, They were delicious and had great portions. The miso soup is
+        yummy and the chicken was tender. We waited to eat it so next time I
+        would order teriyaki on the side but other than that it was perfect and
+        the service was good too. The lady that took our order was super nice
+        and friendly. The order came out promptly and glad I came in before 9
+        because they close at 930 and I know sometimes restaurants don't take
+        any more orders after a certain time. So thank you for still taking us.
+      languageCode: en
+    authorAttribution:
+      displayName: Adriana B
+      uri: https://www.google.com/maps/contrib/107381378101291638646/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjW23xyt7YBpyqfkW-TVPECL-LNBfK25-MxFwBzFXQrWxm51erN0dQ=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-07-31T04:56:46.973702Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNial91ODZBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNial91ODZBRRAB!2m1!1s0x80c3331d7424c899:0x55cc8459afd369c7
+  - name: >-
+      places/ChIJmcgkdB0zw4ARx2nTr1mEzFU/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ1dnRIRklBEAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        ⭐⭐⭐⭐⭐⭐
+
+
+        6-Star Sushi Restaurant!!! 🍣✨
+
+
+        I could not rate this place more highly. I happened to park nearby while
+        famished for some lunch, so I decided to stroll on in. I was pleasantly
+        greeted by Kai, and his customer service was truly out of this world!
+
+
+        Kai and the cook Ken catered to my needs perfectly, taking great care to
+        ensure my celiac dietary needs were met! Not a single trace of gluten
+        came near my sushi roll. I've never had such a seamless experience at a
+        sushi joint. Eating out isn't always this easy with my condition, but
+        this restaurant feels just like home.
+
+
+        The food was phenomenal. I LOVE me some good salmon, so I ordered the
+        Salmon Lover specialty roll. The salmon was so velvety, it literally
+        felt like melted in my mouth while eating it. I scarfed that bad boy
+        down so fast, I immediately ordered a new roll after that.
+
+
+        Once again, I cannot commend the service enough. I hope anyone who reads
+        this feels inspired to give the place a try if they have certain dietary
+        restrictions that they believe may be possible to work around with the
+        proper food preparation because you'll absolutely find that here. The
+        price is absolutely worth the service.
+
+
+        The atmosphere in here was very calming and relaxing. The music isn't
+        too loud. Good vibes all-around, and the radio is relaxing at a good
+        volume nearby the bar section where you can sit alone if you're just
+        coming for a quick bite. Plenty of seats and tables available if you are
+        coming with a group of friends or family.
+
+
+        Menu was easy to read, and there's a lot of great options. If you're in
+        the area, let's give this place the love it deserves! I'm definitely
+        coming here more. It's nearby one of my commutes. 🙂
+
+
+        (P.S. The roll in my picture was my second roll. I tried the Mango Tango
+        roll with seaweed replacing soy paper, yellowtail instead of salmon, and
+        no tempura. I finished the Salmon Roll before taking a picture. 😂)
+      languageCode: en
+    originalText:
+      text: >-
+        ⭐⭐⭐⭐⭐⭐
+
+
+        6-Star Sushi Restaurant!!! 🍣✨
+
+
+        I could not rate this place more highly. I happened to park nearby while
+        famished for some lunch, so I decided to stroll on in. I was pleasantly
+        greeted by Kai, and his customer service was truly out of this world!
+
+
+        Kai and the cook Ken catered to my needs perfectly, taking great care to
+        ensure my celiac dietary needs were met! Not a single trace of gluten
+        came near my sushi roll. I've never had such a seamless experience at a
+        sushi joint. Eating out isn't always this easy with my condition, but
+        this restaurant feels just like home.
+
+
+        The food was phenomenal. I LOVE me some good salmon, so I ordered the
+        Salmon Lover specialty roll. The salmon was so velvety, it literally
+        felt like melted in my mouth while eating it. I scarfed that bad boy
+        down so fast, I immediately ordered a new roll after that.
+
+
+        Once again, I cannot commend the service enough. I hope anyone who reads
+        this feels inspired to give the place a try if they have certain dietary
+        restrictions that they believe may be possible to work around with the
+        proper food preparation because you'll absolutely find that here. The
+        price is absolutely worth the service.
+
+
+        The atmosphere in here was very calming and relaxing. The music isn't
+        too loud. Good vibes all-around, and the radio is relaxing at a good
+        volume nearby the bar section where you can sit alone if you're just
+        coming for a quick bite. Plenty of seats and tables available if you are
+        coming with a group of friends or family.
+
+
+        Menu was easy to read, and there's a lot of great options. If you're in
+        the area, let's give this place the love it deserves! I'm definitely
+        coming here more. It's nearby one of my commutes. 🙂
+
+
+        (P.S. The roll in my picture was my second roll. I tried the Mango Tango
+        roll with seaweed replacing soy paper, yellowtail instead of salmon, and
+        no tempura. I finished the Salmon Roll before taking a picture. 😂)
+      languageCode: en
+    authorAttribution:
+      displayName: Shuccle
+      uri: https://www.google.com/maps/contrib/111746503372378887624/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXAINsCybjJCm8c_U7hS-OHixWw9jNO0uWt-RGBFt-R-pBtexHS=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2023-10-25T00:50:44.989086Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQ1dnRIRklBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQ1dnRIRklBEAE!2m1!1s0x80c3331d7424c899:0x55cc8459afd369c7
+  - name: >-
+      places/ChIJmcgkdB0zw4ARx2nTr1mEzFU/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ3OTRDd1hnEAE
+    relativePublishTimeDescription: 8 months ago
+    rating: 5
+    text:
+      text: >-
+        Overall great sushi I enjoy taking my girlfriend to eat here, we always
+        sit in-front where the chefs make the sushi last time we went the chef
+        made us a rose an bird out of a radish very thoughtful and they gave us
+        complimentary ice cream
+      languageCode: en
+    originalText:
+      text: >-
+        Overall great sushi I enjoy taking my girlfriend to eat here, we always
+        sit in-front where the chefs make the sushi last time we went the chef
+        made us a rose an bird out of a radish very thoughtful and they gave us
+        complimentary ice cream
+      languageCode: en
+    authorAttribution:
+      displayName: Angel
+      uri: https://www.google.com/maps/contrib/110777920163619614935/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjU04TSYA0v13si1Vq0SVNwEgtKdSdfrUAu-eeA01j3kx4VT6R8I=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-08-29T19:53:04.245635Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQ3OTRDd1hnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQ3OTRDd1hnEAE!2m1!1s0x80c3331d7424c899:0x55cc8459afd369c7
+  - name: >-
+      places/ChIJmcgkdB0zw4ARx2nTr1mEzFU/reviews/ChdDSUhNMG9nS0VJQ0FnSUMzb0o2SW13RRAB
+    relativePublishTimeDescription: 6 months ago
+    rating: 4
+    text:
+      text: >-
+        Food is good and fresh. At least the Bento I had but was annoyed by menu
+        on yelp. Price says $9.95 but has been raised to $16.95. So they got me
+        in by false advertising. When I told them about it they did not say they
+        would correct. So food good but deceptive practice in place with menu.
+      languageCode: en
+    originalText:
+      text: >-
+        Food is good and fresh. At least the Bento I had but was annoyed by menu
+        on yelp. Price says $9.95 but has been raised to $16.95. So they got me
+        in by false advertising. When I told them about it they did not say they
+        would correct. So food good but deceptive practice in place with menu.
+      languageCode: en
+    authorAttribution:
+      displayName: Bradley Boeck
+      uri: https://www.google.com/maps/contrib/104015846016071443714/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXgPhjso3NJemkyGxyVPCbB0ZEjQz0BWQKBVTN_H4b_GGDIjffH=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-11-01T19:56:09.765473Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMzb0o2SW13RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMzb0o2SW13RRAB!2m1!1s0x80c3331d7424c899:0x55cc8459afd369c7
+review_summary: >-
+  What Customers Are Raving About$$$Folks visiting this sushi spot often praise
+  the fresh, tasty dishes and friendly service that make every meal feel
+  worthwhile. Many highlight the generous portions and flavorful options like
+  teriyaki and specialty rolls, which leave diners feeling satisfied and coming
+  back for more. While most experiences are positive with accommodating staff
+  who handle special requests well, a few mentions note occasional pricing
+  surprises, though this doesn't overshadow the overall enjoyment. The calm
+  atmosphere and thoughtful extras, such as complimentary treats, add a nice
+  touch for groups or solo diners looking for good vibes. If you're searching
+  for reliable sushi places near you, this location stands out for its solid
+  flavors and welcoming feel, making it a solid pick for anyone craving a casual
+  bite.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: true
+outdoor_seating: false
+reservable: false
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: false
+serves_coffee: true
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

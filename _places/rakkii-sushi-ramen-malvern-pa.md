@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Rakkii Sushi & Ramen"
+title: Rakkii Sushi & Ramen
 permalink: /pennsylvania/malvern/rakkii-sushi-ramen.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Malvern
 seo:
-  name: "Rakkii Sushi & Ramen"
-  type: Restaurant
-  links: null
-description: "Rakkii Sushi & Ramen serves delicious sushi in Malvern, Pennsylvania. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.rakkiiusa.com/
 place_id: ChIJv356CgDzxokR-gX71eEmmKI
 photos:
   - name: >-
@@ -169,8 +167,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c6f3000a7a7ebf:0xa29826e1d5fb05fa!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 10
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 10
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 10
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 10
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 10
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 10
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 10:30 AM – 9:00 PM'
+    - 'Tuesday: 10:30 AM – 9:00 PM'
+    - 'Wednesday: 10:30 AM – 9:00 PM'
+    - 'Thursday: 10:30 AM – 9:00 PM'
+    - 'Friday: 10:30 AM – 10:00 PM'
+    - 'Saturday: 10:30 AM – 10:00 PM'
+    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -178,13 +233,48 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (610) 889-3888
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.8'
+rating_count: 48
+website: http://www.rakkiiusa.com/
+description: >-
+  Explore Rakkii Sushi & Ramen in Malvern, PA$$$Rakkii Sushi & Ramen in Malvern,
+  PA, offers a welcoming spot for enjoying authentic Japanese flavors, featuring
+  fresh sushi rolls and hearty ramen bowls that highlight the best of
+  traditional cuisine. This cozy restaurant stands out with its accessible
+  entrance and seating, making it easy for everyone to savor the experience,
+  along with a menu that balances quality ingredients and moderate pricing for a
+  satisfying meal. Diners can expect a variety of options that cater to those
+  seeking top-rated sushi near you, including creative takes on classic dishes
+  served in a relaxed atmosphere. The spot is open daily with convenient hours,
+  ideal for lunch or dinner when exploring sushi places near Malvern.
+generative_summary: >-
+  Explore Rakkii Sushi & Ramen in Malvern, PA$$$Rakkii Sushi & Ramen in Malvern,
+  PA, offers a welcoming spot for enjoying authentic Japanese flavors, featuring
+  fresh sushi rolls and hearty ramen bowls that highlight the best of
+  traditional cuisine. This cozy restaurant stands out with its accessible
+  entrance and seating, making it easy for everyone to savor the experience,
+  along with a menu that balances quality ingredients and moderate pricing for a
+  satisfying meal. Diners can expect a variety of options that cater to those
+  seeking top-rated sushi near you, including creative takes on classic dishes
+  served in a relaxed atmosphere. The spot is open daily with convenient hours,
+  ideal for lunch or dinner when exploring sushi places near Malvern.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback on Rakkii Sushi & Ramen$$$Visitors often praise the
+  flavorful gyoza and ramen selections here, with standout mentions of spicy
+  chicken and Tonkotsu Black varieties that deliver a comforting kick. Folks
+  appreciate the attentive service that keeps things running smoothly, adding to
+  the overall enjoyable vibe without any unnecessary fuss. While prices are seen
+  as fair for the quality, it's clear that the mix of tasty dishes and friendly
+  atmosphere makes this a go-to for anyone craving Japanese eats. Overall, the
+  feedback leans positive, suggesting it's a solid choice if you're hunting for
+  reliable sushi restaurants nearby, though it's always good to check for your
+  own preferences.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +300,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

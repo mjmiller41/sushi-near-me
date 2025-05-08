@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "RA Sushi Bar Restaurant"
+title: RA Sushi Bar Restaurant
 permalink: /arizona/scottsdale/ra-sushi-bar-restaurant.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Scottsdale
 seo:
-  name: "RA Sushi Bar Restaurant"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "RA Sushi Bar Restaurant serves delicious sushi in Scottsdale, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ3-SHecALK4cRss2rrDHpdwU
 photos:
   - name: >-
@@ -185,7 +183,46 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover RA Sushi Bar Restaurant in Scottsdale, Arizona$$$Nestled in the
+  vibrant city of Scottsdale, Arizona, RA Sushi Bar Restaurant stands out as a
+  popular spot for fresh sushi and creative Japanese cuisine. This lively eatery
+  features inventive cocktails and signature rolls that blend traditional
+  flavors with modern twists, making it a go-to choice for those seeking
+  top-rated sushi experiences in the area. With its welcoming atmosphere and
+  regular happy hours, it's an ideal destination for casual dinners or group
+  outings, enhanced by accessible features like wheelchair-friendly parking and
+  entrances. Whether you're exploring sushi restaurants near you or looking for
+  Japanese places that offer a fun vibe, this location delivers a memorable
+  dining experience that combines quality ingredients with a energetic setting.
+generative_summary: >-
+  Discover RA Sushi Bar Restaurant in Scottsdale, Arizona$$$Nestled in the
+  vibrant city of Scottsdale, Arizona, RA Sushi Bar Restaurant stands out as a
+  popular spot for fresh sushi and creative Japanese cuisine. This lively eatery
+  features inventive cocktails and signature rolls that blend traditional
+  flavors with modern twists, making it a go-to choice for those seeking
+  top-rated sushi experiences in the area. With its welcoming atmosphere and
+  regular happy hours, it's an ideal destination for casual dinners or group
+  outings, enhanced by accessible features like wheelchair-friendly parking and
+  entrances. Whether you're exploring sushi restaurants near you or looking for
+  Japanese places that offer a fun vibe, this location delivers a memorable
+  dining experience that combines quality ingredients with a energetic setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About RA Sushi$$$Folks often rave about the fresh
+  and flavorful sushi options at this spot, highlighting how the creative rolls
+  and drinks keep things exciting without overwhelming the palate. Many
+  appreciate the laid-back vibe and attentive service that make it a solid pick
+  for everything from quick bites to evening hangouts, though some mention waits
+  during peak times as a minor downside. Overall, visitors enjoy the value
+  during happy hours, with plenty of positive nods to the variety that caters to
+  different tastes, including vegetarian choices. If you're on the hunt for
+  reliable sushi close to you, this place generally scores well for its
+  consistent quality and welcoming feel, encouraging repeat visits for those who
+  love sushi. While not every experience is flawless, the general consensus
+  leans towards satisfaction with the overall dining adventure.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +248,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

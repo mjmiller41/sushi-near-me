@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kobe Sushi Lounge"
+title: Kobe Sushi Lounge
 permalink: /new-york/new-city/kobe-sushi-lounge.html
 stateAbbr: NY
 stateName: New York
 cityName: New City
 seo:
-  name: "Kobe Sushi Lounge"
-  type: Restaurant
-  links: null
-description: "Kobe Sushi Lounge serves delicious sushi in New City, New York. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.kobenewcity.com/
 place_id: ChIJaQl0SvrCwokRvnK6JX2gVIE
 photos:
   - name: >-
@@ -170,22 +168,153 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c2c2fa4a740969:0x8154a07d25ba72be!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 13
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 12
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 12
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 12
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 12
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 13
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: Closed'
+    - 'Tuesday: 12:00 – 9:30 PM'
+    - 'Wednesday: 12:00 – 9:30 PM'
+    - 'Thursday: 12:00 – 9:30 PM'
+    - 'Friday: 12:00 – 10:30 PM'
+    - 'Saturday: 1:00 – 10:30 PM'
+    - 'Sunday: 1:00 – 9:30 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+  - openNow: false
+    periods:
+      - open:
+          day: 2
+          hour: 12
+          minute: 0
+        close:
+          day: 2
+          hour: 15
+          minute: 0
+      - open:
+          day: 3
+          hour: 12
+          minute: 0
+        close:
+          day: 3
+          hour: 15
+          minute: 0
+      - open:
+          day: 4
+          hour: 12
+          minute: 0
+        close:
+          day: 4
+          hour: 15
+          minute: 0
+      - open:
+          day: 5
+          hour: 12
+          minute: 0
+        close:
+          day: 5
+          hour: 15
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: Closed'
+      - 'Tuesday: 12:00 – 3:00 PM'
+      - 'Wednesday: 12:00 – 3:00 PM'
+      - 'Thursday: 12:00 – 3:00 PM'
+      - 'Friday: 12:00 – 3:00 PM'
+      - 'Saturday: Closed'
+      - 'Sunday: Closed'
+    secondaryHoursType: LUNCH
+    nextOpenTime: '2025-05-06T16:00:00Z'
+phone: (845) 638-2202
+price_level: PRICE_LEVEL_MODERATE
+price_range: $30 &ndash; $50
+rating: '4.5'
+rating_count: 153
+website: https://www.kobenewcity.com/
+description: >-
+  Discover Kobe Sushi Lounge in New City$$$Kobe Sushi Lounge in New City, NY,
+  stands out as a go-to destination for fresh sushi and traditional Japanese
+  dishes in a relaxed environment. This spot offers a mix of counter and table
+  seating, creating an inviting space for enjoying flavorful rolls and other
+  authentic fare. Live music enhances the lively vibe, making it perfect for
+  casual evenings or quick meals with friends. The restaurant prioritizes
+  accessibility, ensuring a comfortable visit for all, while maintaining
+  moderate pricing that appeals to those seeking quality sushi options nearby.
+  Whether you're exploring Japanese places near you or looking for top-rated
+  sushi experiences, this lounge delivers a memorable dining atmosphere.
+generative_summary: >-
+  Discover Kobe Sushi Lounge in New City$$$Kobe Sushi Lounge in New City, NY,
+  stands out as a go-to destination for fresh sushi and traditional Japanese
+  dishes in a relaxed environment. This spot offers a mix of counter and table
+  seating, creating an inviting space for enjoying flavorful rolls and other
+  authentic fare. Live music enhances the lively vibe, making it perfect for
+  casual evenings or quick meals with friends. The restaurant prioritizes
+  accessibility, ensuring a comfortable visit for all, while maintaining
+  moderate pricing that appeals to those seeking quality sushi options nearby.
+  Whether you're exploring Japanese places near you or looking for top-rated
+  sushi experiences, this lounge delivers a memorable dining atmosphere.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Based on its strong 4.5-star rating from numerous
+  visitors, Kobe Sushi Lounge seems to be a hit for its tasty sushi and
+  welcoming vibe, with many highlighting the fresh flavors and variety of
+  dishes. People often appreciate the casual setting and occasional live music,
+  which add a fun twist to meals without overwhelming the experience. Feedback
+  frequently notes the solid service and overall value, making it a reliable
+  choice for anyone craving Japanese cuisine on a whim. While opinions vary, the
+  general consensus leans positive, suggesting it's a great spot for groups or
+  solo diners hunting for satisfying sushi close by. If you're on the hunt for
+  the best sushi near you, this place comes across as a solid, enjoyable option
+  worth trying.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +340,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Poke Maki Ramen"
+title: Poke Maki Ramen
 permalink: /arizona/glendale/poke-maki-ramen.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Glendale
 seo:
-  name: "Poke Maki Ramen"
-  type: Restaurant
+  type: restaurant
   links: http://www.pokemakionline.com/
-description: "Poke Maki Ramen serves delicious sushi in Glendale, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJYYa67xNpK4cRfxolwtOwrIw
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x872b6913efba8661:0x8cacb0d3c2251a7f!10e5
 primary_type: American Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 20
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 20
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 20
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 8:00 PM'
     - 'Tuesday: 11:00 AM – 8:00 PM'
     - 'Wednesday: 11:00 AM – 8:00 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 8:00 PM'
     - 'Saturday: 11:00 AM – 8:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:00 AM – 8:00 PM'
-    - 'Tuesday: 11:00 AM – 8:00 PM'
-    - 'Wednesday: 11:00 AM – 8:00 PM'
-    - 'Thursday: 11:00 AM – 8:00 PM'
-    - 'Friday: 11:00 AM – 8:00 PM'
-    - 'Saturday: 11:00 AM – 8:00 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +238,49 @@ phone: (602) 513-8005
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.4'
-rating_count: 0
+rating_count: 199
 website: http://www.pokemakionline.com/
+description: >-
+  Discover Poke Maki Ramen in Glendale, AZ$$$Poke Maki Ramen in Glendale, AZ,
+  stands out as a laid-back spot for fresh, made-to-order dishes that blend
+  flavors from poke, sushi, and ramen traditions. This welcoming restaurant
+  offers a variety of customizable options, including hearty bowls and rolls
+  that cater to those seeking sushi spots nearby, with plenty of vegetarian
+  choices to suit different preferences. Accessibility features like
+  wheelchair-friendly parking and seating make it easy for everyone to enjoy a
+  meal, enhancing its appeal for casual diners. The menu emphasizes quality
+  ingredients and quick service, perfect for anyone exploring top-rated
+  Japanese-inspired places in the area. Whether you're in the mood for a light
+  lunch or a satisfying dinner, this spot delivers a balanced mix of flavors in
+  a comfortable setting.
+generative_summary: >-
+  Discover Poke Maki Ramen in Glendale, AZ$$$Poke Maki Ramen in Glendale, AZ,
+  stands out as a laid-back spot for fresh, made-to-order dishes that blend
+  flavors from poke, sushi, and ramen traditions. This welcoming restaurant
+  offers a variety of customizable options, including hearty bowls and rolls
+  that cater to those seeking sushi spots nearby, with plenty of vegetarian
+  choices to suit different preferences. Accessibility features like
+  wheelchair-friendly parking and seating make it easy for everyone to enjoy a
+  meal, enhancing its appeal for casual diners. The menu emphasizes quality
+  ingredients and quick service, perfect for anyone exploring top-rated
+  Japanese-inspired places in the area. Whether you're in the mood for a light
+  lunch or a satisfying dinner, this spot delivers a balanced mix of flavors in
+  a comfortable setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying About This Local Favorite$$$Feedback from diners
+  highlights the fresh and flavorful poke bowls and sushi rolls that keep people
+  coming back for more at this Glendale gem. Many appreciate the generous
+  portions and variety of options, making it a solid pick for anyone hunting for
+  reliable sushi restaurants close by. While some mention occasional waits
+  during peak hours, the overall experience is praised for friendly service and
+  reasonable prices that offer great value. Customers often note the spot's
+  welcoming vibe and tasty vegetarian selections, adding to its reputation as a
+  go-to for casual meals. All in all, the high ratings reflect a positive spot
+  where quality food and a relaxed atmosphere make it worth trying if you're
+  exploring the best sushi options around.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +306,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

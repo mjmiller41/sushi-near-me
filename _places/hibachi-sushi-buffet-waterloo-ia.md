@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Hibachi Sushi Buffet"
+title: Hibachi Sushi Buffet
 permalink: /iowa/waterloo/hibachi-sushi-buffet.html
 stateAbbr: IA
 stateName: Iowa
 cityName: Waterloo
 seo:
-  name: "Hibachi Sushi Buffet"
-  type: Restaurant
+  type: restaurant
   links: http://www.hibachisushibuffets.com/
-description: "Straightforward buffet-style spot for familiar Chinese & Japanese dishes, along with sushi rolls. Hibachi Sushi Buffet serves delicious sushi in Waterloo, Iowa. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJD29zjTxS5YcRaQVua6IOSOY
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $10 &ndash; $20
 rating: '3.4'
 rating_count: 0
 website: http://www.hibachisushibuffets.com/
+description: >-
+  Discover Hibachi Sushi Buffet in Waterloo, IA$$$Hibachi Sushi Buffet in
+  Waterloo, IA, stands out as a casual dining spot offering an all-you-can-eat
+  experience with a mix of familiar Japanese and Chinese dishes. This buffet
+  features fresh sushi rolls alongside classic options like stir-fries and
+  desserts, making it a convenient choice for those seeking sushi restaurants in
+  the area. The restaurant prioritizes accessibility with features like
+  wheelchair-friendly parking and seating, ensuring a welcoming atmosphere for
+  all guests. Its straightforward setup allows for quick meals, perfect for
+  families or groups exploring local Japanese places near me. With a focus on
+  affordable pricing, it's an ideal stop for anyone craving top-rated sushi
+  without breaking the bank.
+generative_summary: >-
+  Discover Hibachi Sushi Buffet in Waterloo, IA$$$Hibachi Sushi Buffet in
+  Waterloo, IA, stands out as a casual dining spot offering an all-you-can-eat
+  experience with a mix of familiar Japanese and Chinese dishes. This buffet
+  features fresh sushi rolls alongside classic options like stir-fries and
+  desserts, making it a convenient choice for those seeking sushi restaurants in
+  the area. The restaurant prioritizes accessibility with features like
+  wheelchair-friendly parking and seating, ensuring a welcoming atmosphere for
+  all guests. Its straightforward setup allows for quick meals, perfect for
+  families or groups exploring local Japanese places near me. With a focus on
+  affordable pricing, it's an ideal stop for anyone craving top-rated sushi
+  without breaking the bank.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJD29zjTxS5YcRaQVua6IOSOY/reviews/ChZDSUhNMG9nS0VJQ0FnTUNnbk5PNUVnEAE
@@ -338,6 +361,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNkMEpfR1hnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNkMEpfR1hnEAE!2m1!1s0x87e5523c8d736f0f:0xe6480ea26b6e0569
+review_summary: >-
+  Insights from Visitor Feedback$$$Visitors to this sushi spot often praise the
+  variety of options, especially the reopened sushi bar that adds excitement to
+  the all-you-can-eat setup. While some enjoy the familiar flavors and
+  budget-friendly prices, a few note inconsistencies with food freshness and
+  preparation that can affect the overall experience. It's generally seen as a
+  solid pick for casual meals with friends or family, though improvements in
+  certain dishes could enhance satisfaction. If you're hunting for sushi close
+  to you, this place delivers hits like tasty teriyaki and desserts, but it's
+  wise to keep expectations realistic based on mixed reports. Overall, it
+  remains a worthwhile option for those exploring best sushi near me, as long as
+  you go in with an open mind for a straightforward dining adventure.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -370,8 +406,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Straightforward buffet-style spot for familiar Chinese & Japanese dishes,
   along with sushi rolls.
 

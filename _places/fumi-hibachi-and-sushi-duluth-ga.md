@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Fumi Hibachi and Sushi"
+title: Fumi Hibachi and Sushi
 permalink: /georgia/duluth/fumi-hibachi-and-sushi.html
 stateAbbr: GA
 stateName: Georgia
 cityName: Duluth
 seo:
-  name: "Fumi Hibachi and Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://fumiatlanta.com/
-description: "Fumi Hibachi and Sushi serves delicious sushi in Duluth, Georgia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJqTaBfxuj9YgR2yh-egDJcyM
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $20 &ndash; $30
 rating: '4.1'
 rating_count: 0
 website: https://fumiatlanta.com/
+description: >-
+  Discover Fumi Hibachi and Sushi in Duluth, GA$$$Fumi Hibachi and Sushi in
+  Duluth, GA, stands out as a vibrant Japanese restaurant blending hibachi
+  grilling with fresh sushi options in a relaxed atmosphere. This spot offers an
+  array of hibachi-grilled favorites like steaks and seafood, paired with a
+  variety of sushi rolls that cater to those seeking authentic flavors right in
+  the neighborhood. With convenient accessibility features and ample parking,
+  it's an inviting choice for casual diners looking for Japanese-inspired meals
+  nearby. The menu highlights moderately priced dishes that include cocktails
+  and beer, making it a great option for groups or families enjoying a laid-back
+  evening. Whether you're exploring sushi restaurants in the area or craving a
+  quick hibachi fix, this place delivers on fresh tastes and welcoming vibes.
+generative_summary: >-
+  Discover Fumi Hibachi and Sushi in Duluth, GA$$$Fumi Hibachi and Sushi in
+  Duluth, GA, stands out as a vibrant Japanese restaurant blending hibachi
+  grilling with fresh sushi options in a relaxed atmosphere. This spot offers an
+  array of hibachi-grilled favorites like steaks and seafood, paired with a
+  variety of sushi rolls that cater to those seeking authentic flavors right in
+  the neighborhood. With convenient accessibility features and ample parking,
+  it's an inviting choice for casual diners looking for Japanese-inspired meals
+  nearby. The menu highlights moderately priced dishes that include cocktails
+  and beer, making it a great option for groups or families enjoying a laid-back
+  evening. Whether you're exploring sushi restaurants in the area or craving a
+  quick hibachi fix, this place delivers on fresh tastes and welcoming vibes.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJqTaBfxuj9YgR2yh-egDJcyM/reviews/ChZDSUhNMG9nS0VJQ0FnSUNmMjliTVBREAE
@@ -406,6 +429,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNYb19Dd1pREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNYb19Dd1pREAE!2m1!1s0x88f5a31b7f8136a9:0x2373c9007a7e28db
+review_summary: >-
+  What Customers Are Buzzing About$$$Visitors to Fumi Hibachi and Sushi often
+  rave about the tasty hibachi dishes and fresh sushi rolls that make for a
+  satisfying meal, with many appreciating the friendly service and efficient
+  seating. Folks frequently mention the flavorful options like grilled steaks
+  and shrimp, along with a solid selection of cocktails that add to the fun
+  dining experience. While some have pointed out that prices can feel a bit
+  steep compared to other spots, the overall atmosphere and quick preparation
+  keep things enjoyable for groups. It's clear that the attentive staff and
+  quality ingredients help this place stand out among Japanese eateries nearby,
+  making it worth a try for anyone hunting for top-rated sushi. Ultimately, the
+  mix of delicious food and welcoming energy leaves most people glad they
+  stopped by, even if they keep an eye on the budget.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -438,7 +475,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

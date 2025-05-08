@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Bravo"
+title: Bravo
 permalink: /new-york/new-york/bravo.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "Bravo"
-  type: Restaurant
-  links: null
-description: "Bravo serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.bravokosherdowntown.com/
 place_id: ChIJl76CPhFawokRq_2mhqZAcOQ
 photos:
   - name: >-
@@ -170,8 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c25a113e82be97:0xe47040a686a6fdab!10e5
 primary_type: Pizza Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: false
+  periods:
+    - open:
+        day: 1
+        hour: 9
+        minute: 0
+      close:
+        day: 1
+        hour: 16
+        minute: 30
+    - open:
+        day: 2
+        hour: 9
+        minute: 0
+      close:
+        day: 2
+        hour: 16
+        minute: 30
+    - open:
+        day: 3
+        hour: 9
+        minute: 0
+      close:
+        day: 3
+        hour: 16
+        minute: 30
+    - open:
+        day: 4
+        hour: 9
+        minute: 0
+      close:
+        day: 4
+        hour: 16
+        minute: 30
+    - open:
+        day: 5
+        hour: 9
+        minute: 0
+      close:
+        day: 5
+        hour: 16
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 9:00 AM – 4:30 PM'
+    - 'Tuesday: 9:00 AM – 4:30 PM'
+    - 'Wednesday: 9:00 AM – 4:30 PM'
+    - 'Thursday: 9:00 AM – 4:30 PM'
+    - 'Friday: 9:00 AM – 4:30 PM'
+    - 'Saturday: Closed'
+    - 'Sunday: Closed'
+  nextOpenTime: '2025-05-05T13:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +226,46 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (212) 344-1111
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '3.7'
+rating_count: 601
+website: http://www.bravokosherdowntown.com/
+description: >-
+  About Bravo in New York, NY$$$Bravo in New York, NY, stands out as a welcoming
+  pizzeria that specializes in hearty Chicago-style and thin-crust pies,
+  catering to a range of tastes with its kosher-friendly options. The spot
+  emphasizes fresh ingredients and classic pizza craftsmanship, making it a
+  go-to for those seeking comforting, flavorful meals in a convenient downtown
+  location. Accessibility features like wheelchair-friendly entrances and
+  seating add to the inclusive vibe, ensuring a comfortable visit for everyone.
+  With its straightforward yet appealing ambiance, this eatery captures the
+  essence of New York dining, blending tradition with everyday convenience.
+generative_summary: >-
+  About Bravo in New York, NY$$$Bravo in New York, NY, stands out as a welcoming
+  pizzeria that specializes in hearty Chicago-style and thin-crust pies,
+  catering to a range of tastes with its kosher-friendly options. The spot
+  emphasizes fresh ingredients and classic pizza craftsmanship, making it a
+  go-to for those seeking comforting, flavorful meals in a convenient downtown
+  location. Accessibility features like wheelchair-friendly entrances and
+  seating add to the inclusive vibe, ensuring a comfortable visit for everyone.
+  With its straightforward yet appealing ambiance, this eatery captures the
+  essence of New York dining, blending tradition with everyday convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Visitor Feedback Highlights$$$Folks chatting about Bravo often highlight the
+  solid pizza selections and reliable service, giving it a nod for delivering
+  tasty, no-fuss meals that hit the spot. While the overall vibe earns praise
+  for being straightforward and accessible, some mention that portions could
+  feel a bit more generous to match the moderate pricing. That said, the general
+  consensus leans positive, with many appreciating the kosher choices and quick
+  turnaround on orders. It's clear from the chatter that this place holds up
+  well for casual lunches, though a few suggest checking hours ahead to avoid
+  any wait. All in all, it's a dependable spot that keeps diners coming back for
+  more authentic flavors in the heart of the city.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +291,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

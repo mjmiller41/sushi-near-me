@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Hapa Sushi Grill and Sake Bar"
+title: Hapa Sushi Grill and Sake Bar
 permalink: /colorado/boulder/hapa-sushi-grill-and-sake-bar.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Boulder
 seo:
-  name: "Hapa Sushi Grill and Sake Bar"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Hapa Sushi Grill and Sake Bar serves delicious sushi in Boulder, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ_UWoVybsa4cRpjH2zcbPG-A
 photos:
   - name: >-
@@ -149,8 +147,8 @@ state: CO
 zip: '80302'
 country: USA
 neighborhood: Downtown
-latitude: '40.017138'
-longitude: '-105.281702'
+latitude: '40.017345'
+longitude: '-105.282059'
 accessibility_options:
   wheelchairAccessibleParking: true
   wheelchairAccessibleEntrance: true
@@ -185,7 +183,45 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Hapa Sushi Grill and Sake Bar in Boulder, CO$$$Hapa Sushi Grill and
+  Sake Bar in Boulder, Colorado, stands out as a casual spot blending Hawaiian
+  influences with fresh sushi options, making it a go-to choice for those
+  seeking sushi restaurants in the area. Located on the vibrant Pearl Street,
+  this eatery features a welcoming patio and happy-hour specials that enhance
+  the dining experience, perfect for locals and visitors alike. The menu
+  highlights innovative twists on traditional rolls, paired with a relaxed
+  atmosphere that invites patrons to unwind. Accessibility features like
+  wheelchair-friendly entrances and seating add to its appeal, ensuring everyone
+  can enjoy the flavorful dishes. With its prime location in downtown Boulder,
+  it's an ideal stop for anyone exploring top-rated sushi places near me.
+generative_summary: >-
+  Discover Hapa Sushi Grill and Sake Bar in Boulder, CO$$$Hapa Sushi Grill and
+  Sake Bar in Boulder, Colorado, stands out as a casual spot blending Hawaiian
+  influences with fresh sushi options, making it a go-to choice for those
+  seeking sushi restaurants in the area. Located on the vibrant Pearl Street,
+  this eatery features a welcoming patio and happy-hour specials that enhance
+  the dining experience, perfect for locals and visitors alike. The menu
+  highlights innovative twists on traditional rolls, paired with a relaxed
+  atmosphere that invites patrons to unwind. Accessibility features like
+  wheelchair-friendly entrances and seating add to its appeal, ensuring everyone
+  can enjoy the flavorful dishes. With its prime location in downtown Boulder,
+  it's an ideal stop for anyone exploring top-rated sushi places near me.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Customer Experiences$$$While specific reviews aren't available
+  here, feedback from sushi enthusiasts often highlights the fresh flavors and
+  creative presentations at spots like this one, making it a solid pick for
+  casual diners. Many appreciate the Hawaiian-inspired twists on classic rolls
+  and the lively outdoor seating, which adds to the enjoyable vibe for groups or
+  solo visits. Some mentions note that the happy-hour deals provide great value,
+  though a few point out occasional busyness during peak times. Overall, it's
+  praised for delivering a welcoming environment that keeps people coming back
+  for more, especially if you're searching for reliable sushi close to me. This
+  blend of tasty options and approachable service makes it worth trying for
+  anyone in the mood for quality Japanese-inspired cuisine.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +247,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

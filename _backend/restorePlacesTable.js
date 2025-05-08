@@ -1,16 +1,16 @@
-import { upsertPlace, initSushiRestaurantsTable } from './lib/db.js'
+import DB from './lib/db.js'
 import { readObjectFromFile } from './lib/fileIO.js'
 import { Place } from './lib/Place.js'
 
 async function run() {
-  const filePlaces = await readObjectFromFile('sushi_places_bk.json')
+  const db = new DB()
+  const filePlaces = await readObjectFromFile('_places_bk.json')
   console.log(`${filePlaces.length} places read from file.`)
 
-  await initSushiRestaurantsTable()
   let upsertCount = 0
   for (const place of filePlaces) {
     try {
-      await upsertPlace(new Place(place))
+      await db.upsertPlace(new Place(place))
       upsertCount++
     } catch (error) {
       console.error(error)
@@ -19,6 +19,7 @@ async function run() {
   }
 
   console.log(`${upsertCount} of ${filePlaces.length} file places upserted`)
+  db.end()
 }
 
 run()

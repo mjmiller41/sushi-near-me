@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sakari Sushi"
+title: Sakari Sushi
 permalink: /florida/winter-park/sakari-sushi.html
 stateAbbr: FL
 stateName: Florida
 cityName: Winter Park
 seo:
-  name: "Sakari Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.sakarisushi.com/
-description: "Sushi, sashimi & other Japanese specialties offered in a shopping-mall spot with outdoor seating. Sakari Sushi serves delicious sushi in Winter Park, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJvdpNf2tw54gR-yw9XK2VCEQ
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $30 &ndash; $50
 rating: '4.5'
 rating_count: 0
 website: http://www.sakarisushi.com/
+description: >-
+  Experience Sakari Sushi in Winter Park, FL$$$Sakari Sushi in Winter Park, FL,
+  stands out as a delightful Japanese restaurant nestled in a vibrant
+  shopping-mall environment, offering fresh sushi and sashimi that highlight
+  premium ingredients and bold flavors. The spot features a cozy atmosphere with
+  outdoor seating options, making it ideal for casual meals or relaxed
+  gatherings in a modern setting. Diners can enjoy a variety of creative rolls
+  and specialties that emphasize quality and taste, perfect for those seeking
+  authentic Japanese cuisine nearby. With its accessible location and welcoming
+  vibe, it's a go-to choice for anyone exploring top-rated sushi options in the
+  area, blending convenience with culinary excellence.
+generative_summary: >-
+  Experience Sakari Sushi in Winter Park, FL$$$Sakari Sushi in Winter Park, FL,
+  stands out as a delightful Japanese restaurant nestled in a vibrant
+  shopping-mall environment, offering fresh sushi and sashimi that highlight
+  premium ingredients and bold flavors. The spot features a cozy atmosphere with
+  outdoor seating options, making it ideal for casual meals or relaxed
+  gatherings in a modern setting. Diners can enjoy a variety of creative rolls
+  and specialties that emphasize quality and taste, perfect for those seeking
+  authentic Japanese cuisine nearby. With its accessible location and welcoming
+  vibe, it's a go-to choice for anyone exploring top-rated sushi options in the
+  area, blending convenience with culinary excellence.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJvdpNf2tw54gR-yw9XK2VCEQ/reviews/ChdDSUhNMG9nS0VJQ0FnTURnaFoyM2dnRRAB
@@ -366,6 +387,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNUaU02WWpnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNUaU02WWpnRRAB!2m1!1s0x88e7706b7f4ddabd:0x440895ad5c3d2cfb
+review_summary: >-
+  Insights from Recent Feedback$$$Folks rave about the consistently fresh and
+  flavorful sushi rolls at this spot, often highlighting how the ingredients
+  make every bite a standout experience. Many appreciate the helpful service
+  that guides choices and adds to the overall enjoyment, creating a welcoming
+  vibe for both dine-in and takeout. The clean, modern atmosphere gets plenty of
+  nods, with outdoor seating adding a nice touch for casual visits. While some
+  mention specific menu favorites like creative specials, the general consensus
+  is that it's a reliable pick for tasty meals, making it a solid option for
+  anyone hunting for great Japanese places nearby. Overall, it's clear this
+  restaurant delivers a positive experience that's worth trying out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -397,8 +430,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Sushi, sashimi & other Japanese specialties offered in a shopping-mall spot
   with outdoor seating.
 

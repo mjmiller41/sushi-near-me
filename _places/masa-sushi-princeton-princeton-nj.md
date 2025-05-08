@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Masa Sushi-Princeton"
+title: Masa Sushi-Princeton
 permalink: /new-jersey/princeton/masa-sushi-princeton.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Princeton
 seo:
-  name: "Masa Sushi-Princeton"
-  type: Restaurant
-  links: null
-description: "Masa Sushi-Princeton serves delicious sushi in Princeton, New Jersey. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.masa8restaurant.com/
 place_id: ChIJV2nrbXzhw4kRQcai6QdNVcg
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c3e17c6deb6957:0xc8554d07e9a2c641!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:30 PM'
+    - 'Tuesday: 11:00 AM – 9:30 PM'
+    - 'Wednesday: 11:00 AM – 9:30 PM'
+    - 'Thursday: 11:00 AM – 9:30 PM'
+    - 'Friday: 11:00 AM – 10:00 PM'
+    - 'Saturday: 11:00 AM – 10:00 PM'
+    - 'Sunday: 11:00 AM – 9:30 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,53 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (609) 520-8883
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.2'
+rating_count: 1234
+website: http://www.masa8restaurant.com/
+description: >-
+  Discover Masa Sushi in Princeton, NJ$$$Masa Sushi-Princeton in Princeton, NJ,
+  stands out as a popular spot for those seeking delicious sushi and Japanese
+  cuisine in a welcoming environment. This relaxed eatery features an
+  all-you-can-eat option that highlights fresh sushi rolls, sashimi, and other
+  Asian-inspired dishes, making it a go-to choice for anyone craving authentic
+  flavors without breaking the bank. With accessibility features like
+  wheelchair-friendly parking and seating, it's designed to accommodate a
+  variety of diners looking for a comfortable meal. The restaurant's extended
+  hours, including evenings and weekends, add to its appeal for locals and
+  visitors searching for convenient sushi places near me. Whether you're
+  exploring top-rated sushi restaurants or simply enjoying a casual night out,
+  this spot delivers a satisfying blend of quality and value.
+generative_summary: >-
+  Discover Masa Sushi in Princeton, NJ$$$Masa Sushi-Princeton in Princeton, NJ,
+  stands out as a popular spot for those seeking delicious sushi and Japanese
+  cuisine in a welcoming environment. This relaxed eatery features an
+  all-you-can-eat option that highlights fresh sushi rolls, sashimi, and other
+  Asian-inspired dishes, making it a go-to choice for anyone craving authentic
+  flavors without breaking the bank. With accessibility features like
+  wheelchair-friendly parking and seating, it's designed to accommodate a
+  variety of diners looking for a comfortable meal. The restaurant's extended
+  hours, including evenings and weekends, add to its appeal for locals and
+  visitors searching for convenient sushi places near me. Whether you're
+  exploring top-rated sushi restaurants or simply enjoying a casual night out,
+  this spot delivers a satisfying blend of quality and value.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Recent Feedback$$$Folks rave about the tasty all-you-can-eat
+  menu at this sushi joint, praising the fresh sushi, sashimi, and standout
+  options like udon and ramen that bring a real depth to the flavors. Many
+  appreciate the solid value for money, especially with the dinner deals that
+  make it easy on the wallet while still feeling like a treat. It's often noted
+  as a great pick for groups or families hunting for reliable Japanese places
+  near me, with the overall vibe keeping things light and enjoyable. That said,
+  some mention occasional waits for food, which is worth keeping in mind during
+  busier times, but it doesn't overshadow the positive experiences. All in all,
+  if you're on the hunt for best sushi near me, this spot earns high marks for
+  its flavorful offerings and approachable atmosphere.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +314,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

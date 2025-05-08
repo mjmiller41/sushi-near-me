@@ -5,4 +5,5 @@ permalink: /florida/inverness/
 stateAbbr: FL
 stateName: Florida
 cityName: Inverness
+
 ---

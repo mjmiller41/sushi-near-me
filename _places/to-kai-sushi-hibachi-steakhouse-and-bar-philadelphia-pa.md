@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "To-Kai Sushi, Hibachi Steakhouse and Bar"
+title: To-Kai Sushi, Hibachi Steakhouse and Bar
 permalink: /pennsylvania/philadelphia/to-kai-sushi-hibachi-steakhouse-and-bar.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Philadelphia
 seo:
-  name: "To-Kai Sushi, Hibachi Steakhouse and Bar"
-  type: Restaurant
+  type: restaurant
   links: https://to-kaipa.com/
-description: "Japanese place with sushi bar that entertains diners with a chef show at the hibachi grill. To-Kai Sushi, Hibachi Steakhouse and Bar serves delicious sushi in Philadelphia, Pennsylvania. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJGRoqjcCzxokRGA-J3ORwNqk
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 0
 website: https://to-kaipa.com/
+description: >-
+  Discover To-Kai Sushi in Philadelphia, PA$$$To-Kai Sushi, Hibachi Steakhouse
+  and Bar in Philadelphia, PA, offers a casual yet engaging Japanese dining
+  experience with fresh sushi rolls and hibachi-grilled specialties that appeal
+  to a wide range of tastes. This spot stands out for its vibrant atmosphere,
+  where diners can enjoy interactive hibachi cooking alongside classic fare like
+  grilled steak and kid-friendly options, making it ideal for families and
+  groups. Accessibility features such as wheelchair-friendly entrances and
+  seating ensure everyone can savor the meal comfortably, while the menu caters
+  to those seeking top-rated sushi near you with a focus on quality ingredients.
+  Whether you're exploring Japanese places near me for a relaxed evening or
+  craving authentic flavors, this restaurant combines entertainment and cuisine
+  in a welcoming setting that keeps guests coming back.
+generative_summary: >-
+  Discover To-Kai Sushi in Philadelphia, PA$$$To-Kai Sushi, Hibachi Steakhouse
+  and Bar in Philadelphia, PA, offers a casual yet engaging Japanese dining
+  experience with fresh sushi rolls and hibachi-grilled specialties that appeal
+  to a wide range of tastes. This spot stands out for its vibrant atmosphere,
+  where diners can enjoy interactive hibachi cooking alongside classic fare like
+  grilled steak and kid-friendly options, making it ideal for families and
+  groups. Accessibility features such as wheelchair-friendly entrances and
+  seating ensure everyone can savor the meal comfortably, while the menu caters
+  to those seeking top-rated sushi near you with a focus on quality ingredients.
+  Whether you're exploring Japanese places near me for a relaxed evening or
+  craving authentic flavors, this restaurant combines entertainment and cuisine
+  in a welcoming setting that keeps guests coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJGRoqjcCzxokRGA-J3ORwNqk/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRM0lHNkRnEAE
@@ -340,6 +365,21 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN2Mi1UOHRnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN2Mi1UOHRnRRAB!2m1!1s0x89c6b3c08d2a1a19:0xa93670e4dc890f18
+review_summary: >-
+  What Guests Are Saying About the Experience$$$Visitors to this sushi spot
+  often rave about the fresh and flavorful dishes, with many highlighting the
+  tasty sushi rolls and delicious cocktails that make for a satisfying meal.
+  While most folks appreciate the attentive service and modern ambiance that
+  enhance the overall vibe, a few have mentioned occasional slip-ups like
+  unexpected elements in their food, though these seem to be rare exceptions.
+  Overall, the consensus leans positive, with diners frequently noting that the
+  experience feels worth the moderate price for those searching for best sushi
+  near me in a lively environment. If you're in the mood for reliable Japanese
+  cuisine, this place delivers on fresh tastes and fun, encouraging repeat
+  visits despite minor inconsistencies. Keep in mind that while the majority
+  enjoy the welcoming setup, it's always a good idea to check for any specifics
+  before heading out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -372,8 +412,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Japanese place with sushi bar that entertains diners with a chef show at the
   hibachi grill.
 

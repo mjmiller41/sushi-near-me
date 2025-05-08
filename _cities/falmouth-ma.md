@@ -5,4 +5,5 @@ permalink: /massachusetts/falmouth/
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Falmouth
+
 ---

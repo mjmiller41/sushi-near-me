@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Floating Sushi Boat"
+title: Floating Sushi Boat
 permalink: /california/san-francisco/floating-sushi-boat.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
 seo:
-  name: "Floating Sushi Boat"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Floating Sushi Boat serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJMQgObouAhYARG_ROpgr3NNg
 photos:
   - name: >-
@@ -168,8 +166,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8085808b6e0e0831:0xd834f70aa64ef41b!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:30 AM – 9:30 PM'
+    - 'Tuesday: 11:30 AM – 9:30 PM'
+    - 'Wednesday: Closed'
+    - 'Thursday: 11:30 AM – 9:30 PM'
+    - 'Friday: 11:30 AM – 9:30 PM'
+    - 'Saturday: 11:30 AM – 9:30 PM'
+    - 'Sunday: 11:30 AM – 9:30 PM'
+  nextCloseTime: '2025-05-04T04:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -178,12 +233,49 @@ secondary_opening_hours:
     weekdayDescriptions: null
     type: null
 phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '3.3'
+rating_count: 733
 website: null
+description: >-
+  Experience the Charm of Floating Sushi Boat in San Francisco$$$Nestled in the
+  heart of San Francisco, CA, Floating Sushi Boat delights visitors with its
+  casual vibe and innovative dining setup featuring a conveyor belt of fresh
+  Japanese-inspired dishes. This spot showcases a variety of sushi options
+  alongside tasty gyoza and other flavorful eats, making it a go-to choice for
+  those seeking sushi restaurants in the area. The restaurant's approachable
+  atmosphere and moderate pricing add to its appeal, perfect for anyone
+  exploring top-rated sushi near me. Accessibility features like
+  wheelchair-friendly entrances ensure a welcoming experience, while its daily
+  hours cater to both lunch and dinner crowds looking for convenient Japanese
+  places nearby.
+generative_summary: >-
+  Experience the Charm of Floating Sushi Boat in San Francisco$$$Nestled in the
+  heart of San Francisco, CA, Floating Sushi Boat delights visitors with its
+  casual vibe and innovative dining setup featuring a conveyor belt of fresh
+  Japanese-inspired dishes. This spot showcases a variety of sushi options
+  alongside tasty gyoza and other flavorful eats, making it a go-to choice for
+  those seeking sushi restaurants in the area. The restaurant's approachable
+  atmosphere and moderate pricing add to its appeal, perfect for anyone
+  exploring top-rated sushi near me. Accessibility features like
+  wheelchair-friendly entrances ensure a welcoming experience, while its daily
+  hours cater to both lunch and dinner crowds looking for convenient Japanese
+  places nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Diners at This Sushi Favorite$$$Folks often highlight the fun
+  and unique vibe at this casual eatery, where the floating boat setup adds a
+  playful twist to enjoying fresh sushi and affordable meals. Many appreciate
+  the value for money, making it a solid pick for those hunting for sushi close
+  to me without breaking the bank. While some note occasional inconsistencies in
+  food freshness, the overall experience still draws praise for its inventive
+  presentation and variety. It's worth mentioning that service can vary, but the
+  positives like the lively atmosphere keep the feedback generally upbeat. All
+  in all, this spot offers a memorable outing that honestly delivers on casual
+  Japanese dining, encouraging visitors to give it a try for a satisfying meal.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -209,7 +301,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

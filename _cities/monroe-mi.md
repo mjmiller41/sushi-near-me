@@ -5,4 +5,5 @@ permalink: /michigan/monroe/
 stateAbbr: MI
 stateName: Michigan
 cityName: Monroe
+
 ---

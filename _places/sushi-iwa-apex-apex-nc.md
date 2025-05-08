@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Iwa Apex"
+title: Sushi Iwa Apex
 permalink: /north-carolina/apex/sushi-iwa-apex.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Apex
 seo:
-  name: "Sushi Iwa Apex"
-  type: Restaurant
+  type: restaurant
   links: http://sushiiwabistro.com/
-description: "Sushi Iwa Apex serves delicious sushi in Apex, North Carolina. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ9xRGuSqTrIkR7IVRn4tf_Lk
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89ac932ab94614f7:0xb9fc5f8b9f5185ec!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 45
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 45
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 45
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 45
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 45
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 45
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 45
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:45 PM'
     - 'Tuesday: 11:00 AM – 9:45 PM'
     - 'Wednesday: 11:00 AM – 9:45 PM'
@@ -178,28 +234,124 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:45 PM'
     - 'Saturday: 11:00 AM – 10:45 PM'
     - 'Sunday: 11:00 AM – 9:45 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:45 PM'
-    - 'Tuesday: 11:00 AM – 9:45 PM'
-    - 'Wednesday: 11:00 AM – 9:45 PM'
-    - 'Thursday: 11:00 AM – 9:45 PM'
-    - 'Friday: 11:00 AM – 10:45 PM'
-    - 'Saturday: 11:00 AM – 10:45 PM'
-    - 'Sunday: 11:00 AM – 9:45 PM'
+  nextCloseTime: '2025-05-04T02:45:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 11
+          minute: 0
+        close:
+          day: 0
+          hour: 21
+          minute: 0
+      - open:
+          day: 1
+          hour: 11
+          minute: 0
+        close:
+          day: 1
+          hour: 21
+          minute: 0
+      - open:
+          day: 2
+          hour: 11
+          minute: 0
+        close:
+          day: 2
+          hour: 21
+          minute: 0
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 21
+          minute: 0
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 0
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 22
+          minute: 0
+      - open:
+          day: 6
+          hour: 11
+          minute: 0
+        close:
+          day: 6
+          hour: 22
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 11:00 AM – 9:00 PM'
+      - 'Tuesday: 11:00 AM – 9:00 PM'
+      - 'Wednesday: 11:00 AM – 9:00 PM'
+      - 'Thursday: 11:00 AM – 9:00 PM'
+      - 'Friday: 11:00 AM – 10:00 PM'
+      - 'Saturday: 11:00 AM – 10:00 PM'
+      - 'Sunday: 11:00 AM – 9:00 PM'
+    secondaryHoursType: TAKEOUT
+    nextCloseTime: '2025-05-04T02:00:00Z'
 phone: (919) 387-7022
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.4'
-rating_count: 0
+rating_count: 1670
 website: http://sushiiwabistro.com/
+description: >-
+  Discover Sushi Iwa Apex in Apex, NC$$$Sushi Iwa Apex in Apex, NC, stands out
+  as a casual dining destination offering a blend of Japanese favorites
+  alongside Thai, Vietnamese, and Chinese dishes, making it a versatile choice
+  for diverse tastes. The spot emphasizes fresh ingredients and includes
+  vegetarian options, appealing to those seeking lighter or plant-based meals in
+  a welcoming environment. With its convenient hours and accessibility features
+  like wheelchair-friendly entrances and parking, it's an inclusive option for
+  everyday visits or quick meals. Patrons can enjoy a variety of expertly
+  prepared rolls and entrees that highlight authentic flavors, positioning it as
+  a go-to for Japanese-inspired cuisine in the area. This sushi restaurant near
+  Apex provides a relaxed atmosphere perfect for savoring top-rated dishes
+  without the formality of upscale dining.
+generative_summary: >-
+  Discover Sushi Iwa Apex in Apex, NC$$$Sushi Iwa Apex in Apex, NC, stands out
+  as a casual dining destination offering a blend of Japanese favorites
+  alongside Thai, Vietnamese, and Chinese dishes, making it a versatile choice
+  for diverse tastes. The spot emphasizes fresh ingredients and includes
+  vegetarian options, appealing to those seeking lighter or plant-based meals in
+  a welcoming environment. With its convenient hours and accessibility features
+  like wheelchair-friendly entrances and parking, it's an inclusive option for
+  everyday visits or quick meals. Patrons can enjoy a variety of expertly
+  prepared rolls and entrees that highlight authentic flavors, positioning it as
+  a go-to for Japanese-inspired cuisine in the area. This sushi restaurant near
+  Apex provides a relaxed atmosphere perfect for savoring top-rated dishes
+  without the formality of upscale dining.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this sushi spot often rave about the
+  impressive selection of rolls and other Asian dishes, noting the generous
+  portions that make for a satisfying meal without breaking the bank. Many
+  appreciate the friendly service and reasonable prices, which add to the
+  overall enjoyable experience when grabbing a bite. While some feedback points
+  to occasional inconsistencies in customer care, the general consensus
+  highlights the flavorful options like hot and sour soup or curry as standout
+  choices for a casual outing. Overall, it's praised as a reliable place for
+  groups or individuals looking for quality sushi and variety, with the positive
+  vibes and tasty offerings keeping diners coming back. If you're exploring
+  sushi restaurants nearby, this location delivers a solid mix of affordability
+  and flavor that keeps the experience upbeat and worthwhile.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +377,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

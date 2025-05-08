@@ -5,4 +5,5 @@ permalink: /south-carolina/mt-pleasant/
 stateAbbr: SC
 stateName: South Carolina
 cityName: Mt Pleasant
+
 ---

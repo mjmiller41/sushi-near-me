@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Domo Cafe | Kahala"
+title: Domo Cafe | Kahala
 permalink: /hawaii/honolulu/domo-cafe-kahala.html
 stateAbbr: HI
 stateName: Hawaii
 cityName: Honolulu
 seo:
-  name: "Domo Cafe | Kahala"
-  type: Restaurant
-  links: null
-description: "Domo Cafe | Kahala serves delicious sushi in Honolulu, Hawaii. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.domocafehawaii.com/
 place_id: ChIJw-k640ptAHwRmKZyzsfP1Vg
 photos:
   - name: >-
@@ -169,8 +167,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x7c006d4ae33ae9c3:0x58d5cfc7ce72a698!10e5
 primary_type: American Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 10
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 0
+    - open:
+        day: 1
+        hour: 10
+        minute: 0
+      close:
+        day: 1
+        hour: 20
+        minute: 0
+    - open:
+        day: 2
+        hour: 10
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 0
+    - open:
+        day: 3
+        hour: 10
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 0
+    - open:
+        day: 4
+        hour: 10
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 0
+    - open:
+        day: 5
+        hour: 10
+        minute: 0
+      close:
+        day: 5
+        hour: 20
+        minute: 0
+    - open:
+        day: 6
+        hour: 10
+        minute: 0
+      close:
+        day: 6
+        hour: 20
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 10:00 AM – 8:00 PM'
+    - 'Tuesday: 10:00 AM – 8:00 PM'
+    - 'Wednesday: 10:00 AM – 8:00 PM'
+    - 'Thursday: 10:00 AM – 8:00 PM'
+    - 'Friday: 10:00 AM – 8:00 PM'
+    - 'Saturday: 10:00 AM – 8:00 PM'
+    - 'Sunday: 10:00 AM – 8:00 PM'
+  nextCloseTime: '2025-05-04T06:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -178,13 +241,49 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (808) 888-8860
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.5'
+rating_count: 112
+website: https://www.domocafehawaii.com/
+description: >-
+  Discover Domo Cafe in Honolulu, HI$$$Domo Cafe in Honolulu, HI, stands out as
+  a welcoming American restaurant nestled in the vibrant Waialae-Kahala
+  neighborhood, offering accessible dining options for all visitors. With
+  wheelchair-friendly parking, entrances, and seating, it ensures everyone can
+  enjoy a relaxed meal in a comfortable setting. The cafe operates daily from 10
+  AM to 8 PM, making it a convenient choice for casual lunches or dinners in a
+  laid-back atmosphere. Its moderate price range provides great value for fresh,
+  everyday eats, appealing to those exploring local spots or seeking nearby
+  dining gems. Photos from the location highlight a cozy vibe that invites
+  patrons to unwind and savor their experience.
+generative_summary: >-
+  Discover Domo Cafe in Honolulu, HI$$$Domo Cafe in Honolulu, HI, stands out as
+  a welcoming American restaurant nestled in the vibrant Waialae-Kahala
+  neighborhood, offering accessible dining options for all visitors. With
+  wheelchair-friendly parking, entrances, and seating, it ensures everyone can
+  enjoy a relaxed meal in a comfortable setting. The cafe operates daily from 10
+  AM to 8 PM, making it a convenient choice for casual lunches or dinners in a
+  laid-back atmosphere. Its moderate price range provides great value for fresh,
+  everyday eats, appealing to those exploring local spots or seeking nearby
+  dining gems. Photos from the location highlight a cozy vibe that invites
+  patrons to unwind and savor their experience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Folks who stop by Domo Cafe often rave about the
+  solid food quality and friendly service that make it a go-to spot for a
+  satisfying meal. Many appreciate the approachable prices and welcoming
+  environment, noting that it's perfect for quick bites or relaxed gatherings
+  without any fuss. While some mention minor waits during peak hours, the
+  overall consensus leans positive, with diners highlighting the tasty dishes
+  and attentive staff as standout features. It's clear that this place hits the
+  mark for those hunting for reliable eateries nearby, earning high marks for
+  its consistent vibe and accessibility. If you're in the mood for a casual
+  dining adventure, Domo Cafe seems to deliver a reliably enjoyable experience
+  that keeps people coming back.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +309,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

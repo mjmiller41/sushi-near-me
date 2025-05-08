@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Hooked on Sushi"
+title: Hooked on Sushi
 permalink: /texas/fort-worth/hooked-on-sushi.html
 stateAbbr: TX
 stateName: Texas
 cityName: Fort Worth
 seo:
-  name: "Hooked on Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://hookedonsushitx.com/
-description: "Hooked on Sushi serves delicious sushi in Fort Worth, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ_fPzgVJzToYRLEJKJfBFlPQ
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x864e735281f3f3fd:0xf49445f0254a422c!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:00 PM'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:30 PM'
     - 'Saturday: 12:00 – 9:30 PM'
     - 'Sunday: 12:00 – 9:30 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 9:30 PM'
-    - 'Saturday: 12:00 – 9:30 PM'
-    - 'Sunday: 12:00 – 9:30 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,230 @@ phone: (817) 370-0685
 price_level: null
 price_range: $10 &ndash; $20
 rating: '4.5'
-rating_count: 0
+rating_count: 367
 website: http://hookedonsushitx.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Experience Hooked on Sushi in Fort Worth, TX$$$Hooked on Sushi in Fort Worth,
+  TX, offers a relaxed dining experience with a wide array of fresh sushi rolls
+  that highlight creative flavors and quality ingredients, making it a standout
+  choice among local sushi restaurants. The spot features a welcoming atmosphere
+  perfect for casual meals, complemented by a selection of beer and cocktails to
+  enhance your visit. Accessibility is a key plus, with options like
+  wheelchair-friendly parking and entrances that ensure everyone can enjoy the
+  vibe. Whether you're stopping by for lunch or a laid-back evening, the menu
+  caters to various tastes with options that feel both innovative and
+  approachable. This sushi place near me stands out for its commitment to fresh,
+  satisfying dishes that keep diners coming back.
+generative_summary: >-
+  Experience Hooked on Sushi in Fort Worth, TX$$$Hooked on Sushi in Fort Worth,
+  TX, offers a relaxed dining experience with a wide array of fresh sushi rolls
+  that highlight creative flavors and quality ingredients, making it a standout
+  choice among local sushi restaurants. The spot features a welcoming atmosphere
+  perfect for casual meals, complemented by a selection of beer and cocktails to
+  enhance your visit. Accessibility is a key plus, with options like
+  wheelchair-friendly parking and entrances that ensure everyone can enjoy the
+  vibe. Whether you're stopping by for lunch or a laid-back evening, the menu
+  caters to various tastes with options that feel both innovative and
+  approachable. This sushi place near me stands out for its commitment to fresh,
+  satisfying dishes that keep diners coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ_fPzgVJzToYRLEJKJfBFlPQ/reviews/ChdDSUhNMG9nS0VJQ0FnTURReHBlYThRRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        We love this sushi place! This our favorite sushi place in all of DFW!
+        We are originally from San Diego and the owners own this location and
+        the sushi is just like home fresh and amazing, they have so many
+        different rolls and food entrees to chose from! Every roll is delicious
+        😁 the staff is always nice and accommodating and always checking on
+        you. The sushi chefs are great! Always have good experiences every time
+        I come in here! Ca dreaming, incredible roll and Fort Worth roll are so
+        good and the 911 if yoh like a little spice. Peter waiting on us today
+        for my bday and he was attentive and suprised me with a little birthday
+        desert! The place is super cute inside great for lunches and a little
+        date night
+      languageCode: en
+    originalText:
+      text: >-
+        We love this sushi place! This our favorite sushi place in all of DFW!
+        We are originally from San Diego and the owners own this location and
+        the sushi is just like home fresh and amazing, they have so many
+        different rolls and food entrees to chose from! Every roll is delicious
+        😁 the staff is always nice and accommodating and always checking on
+        you. The sushi chefs are great! Always have good experiences every time
+        I come in here! Ca dreaming, incredible roll and Fort Worth roll are so
+        good and the 911 if yoh like a little spice. Peter waiting on us today
+        for my bday and he was attentive and suprised me with a little birthday
+        desert! The place is super cute inside great for lunches and a little
+        date night
+      languageCode: en
+    authorAttribution:
+      displayName: Melissa Eversoll
+      uri: https://www.google.com/maps/contrib/108455808363206431347/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVO4JvfxNEwQAf3jliSV8cOKTW_GF5hAvF5j_MdbKLUhSVvGFVX=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-10T20:21:37.048398Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURReHBlYThRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURReHBlYThRRRAB!2m1!1s0x864e735281f3f3fd:0xf49445f0254a422c
+  - name: >-
+      places/ChIJ_fPzgVJzToYRLEJKJfBFlPQ/reviews/ChZDSUhNMG9nS0VJQ0FnTURJNnNUelpBEAE
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 5
+    text:
+      text: >-
+        Amazing food very flavorful best sushi! The Bob Marley roll was our
+        favorite. The staff is amazing, they are very kind and patient. Very
+        nice and relaxing atmosphere.
+      languageCode: en
+    originalText:
+      text: >-
+        Amazing food very flavorful best sushi! The Bob Marley roll was our
+        favorite. The staff is amazing, they are very kind and patient. Very
+        nice and relaxing atmosphere.
+      languageCode: en
+    authorAttribution:
+      displayName: Leah Sofia
+      uri: https://www.google.com/maps/contrib/113864498537031550446/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWtrdzMW3y_DuZ_boOI8-SGdgQ_otZoM5NUvWHQI_qggNdo7Lw=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-08T22:48:51.824510Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURJNnNUelpBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJNnNUelpBEAE!2m1!1s0x864e735281f3f3fd:0xf49445f0254a422c
+  - name: >-
+      places/ChIJ_fPzgVJzToYRLEJKJfBFlPQ/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRanRmRENREAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        Everything about this place was nothing short of amazing! We took our
+        young daughter here and she had the chicken nuggets and even those were
+        delicious. We got the Texas roll and the Fort Worth roll (pictured
+        below). I could eat here everyday!! Great spot and so many delicious
+        options to choose from.
+      languageCode: en
+    originalText:
+      text: >-
+        Everything about this place was nothing short of amazing! We took our
+        young daughter here and she had the chicken nuggets and even those were
+        delicious. We got the Texas roll and the Fort Worth roll (pictured
+        below). I could eat here everyday!! Great spot and so many delicious
+        options to choose from.
+      languageCode: en
+    authorAttribution:
+      displayName: Peyton Hoge
+      uri: https://www.google.com/maps/contrib/110826079859153587161/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXIgVmzvS19noDGqrACaazm-KBHRxxZuqwxGCCDw97scICCIqJWXQ=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-04T09:24:45.389082Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNRanRmRENREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNRanRmRENREAE!2m1!1s0x864e735281f3f3fd:0xf49445f0254a422c
+  - name: >-
+      places/ChIJ_fPzgVJzToYRLEJKJfBFlPQ/reviews/ChZDSUhNMG9nS0VJQ0FnTURRd3FxZUtBEAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Great music, the staff has been excellent and my sushi is off the chain!
+        I got the Bob Marley and the zombie, great quality and tastes fresh!
+        10/10 Would recommend
+      languageCode: en
+    originalText:
+      text: >-
+        Great music, the staff has been excellent and my sushi is off the chain!
+        I got the Bob Marley and the zombie, great quality and tastes fresh!
+        10/10 Would recommend
+      languageCode: en
+    authorAttribution:
+      displayName: Caesar Aguirre
+      uri: https://www.google.com/maps/contrib/116256300587831655072/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJ-9VzIdcZRRkTyLKgGjbhr5NHJ6JSBvcYYwCE3eI0neW6S8Q=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-03-10T00:55:25.030503Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURRd3FxZUtBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURRd3FxZUtBEAE!2m1!1s0x864e735281f3f3fd:0xf49445f0254a422c
+  - name: >-
+      places/ChIJ_fPzgVJzToYRLEJKJfBFlPQ/reviews/ChZDSUhNMG9nS0VJQ0FnTURRNTVDY0tBEAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        My son and I love hooked on sushi. He always get the crunchy roll which
+        he loves and I try different items. Ramen is great, but if you want a
+        kick get the super Mario roll! And the monkey brains are amazing
+      languageCode: en
+    originalText:
+      text: >-
+        My son and I love hooked on sushi. He always get the crunchy roll which
+        he loves and I try different items. Ramen is great, but if you want a
+        kick get the super Mario roll! And the monkey brains are amazing
+      languageCode: en
+    authorAttribution:
+      displayName: John Lawson
+      uri: https://www.google.com/maps/contrib/114581766940065306658/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIhKjmynbQD2ogjJVO9a6VJFaazUClR9Yo7LGO-Q1JEKf1uxQ=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-15T00:11:18.147534Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURRNTVDY0tBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURRNTVDY0tBEAE!2m1!1s0x864e735281f3f3fd:0xf49445f0254a422c
+review_summary: >-
+  Insights from Customer Feedback$$$Folks who visit this sushi spot often rave
+  about the fresh and flavorful rolls that bring a burst of excitement to every
+  bite, with many highlighting creative options that hit the spot just right.
+  The service gets high marks for being friendly and attentive, creating a
+  relaxed environment that's ideal for everything from quick lunches to special
+  outings. Reviewers frequently note the variety of dishes that cater to
+  different preferences, including spicy choices and family-friendly picks that
+  make it easy to find something everyone enjoys. Overall, the consensus leans
+  positive, with visitors appreciating the overall vibe and quality that make it
+  one of the top-rated sushi restaurants in the area. If you're searching for
+  great sushi close to you, this place delivers a consistently enjoyable
+  experience without any major letdowns.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
+curbside_pickup: false
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
 good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
+live_music: false
+menu_for_children: true
+outdoor_seating: false
 reservable: null
-restroom: null
-serves_beer: null
+restroom: true
+serves_beer: true
 serves_breakfast: null
 serves_brunch: null
-serves_cocktails: null
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

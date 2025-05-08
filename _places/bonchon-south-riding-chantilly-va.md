@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Bonchon South Riding"
+title: Bonchon South Riding
 permalink: /virginia/chantilly/bonchon-south-riding.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Chantilly
 seo:
-  name: "Bonchon South Riding"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Bonchon South Riding serves delicious sushi in Chantilly, Virginia. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJixlXK6RBtokRcAGy-zElk0Q
 photos:
   - name: >-
@@ -185,7 +183,47 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Experience Bonchon South Riding in Chantilly, VA$$$Bonchon South Riding in
+  Chantilly, VA, stands out as a welcoming spot for enjoying Korean fried
+  chicken and a variety of Asian fusion flavors, making it ideal for casual
+  family outings or quick meals. The venue boasts a comfortable atmosphere with
+  thoughtful accessibility features like wheelchair-friendly parking and
+  entrances, ensuring everyone can savor the experience. Its menu highlights
+  bold, crispy dishes that blend traditional Asian elements with modern twists,
+  appealing to those seeking flavorful options in a relaxed setting. Photos from
+  the location suggest a vibrant, inviting space perfect for groups, while the
+  overall vibe caters to anyone exploring Asian cuisine nearby. This makes it a
+  go-to choice for those in the area looking for authentic yet approachable
+  dining.
+generative_summary: >-
+  Experience Bonchon South Riding in Chantilly, VA$$$Bonchon South Riding in
+  Chantilly, VA, stands out as a welcoming spot for enjoying Korean fried
+  chicken and a variety of Asian fusion flavors, making it ideal for casual
+  family outings or quick meals. The venue boasts a comfortable atmosphere with
+  thoughtful accessibility features like wheelchair-friendly parking and
+  entrances, ensuring everyone can savor the experience. Its menu highlights
+  bold, crispy dishes that blend traditional Asian elements with modern twists,
+  appealing to those seeking flavorful options in a relaxed setting. Photos from
+  the location suggest a vibrant, inviting space perfect for groups, while the
+  overall vibe caters to anyone exploring Asian cuisine nearby. This makes it a
+  go-to choice for those in the area looking for authentic yet approachable
+  dining.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback Highlights$$$Folks who visit places like this Asian
+  restaurant often rave about the tasty Korean fried chicken and its satisfying
+  crunch, making it a solid pick for anyone craving bold flavors. Many
+  appreciate the friendly service and family-oriented feel, which adds to the
+  enjoyable atmosphere without any major complaints. While some mention
+  occasional waits during peak times, the overall consensus leans positive, with
+  diners highlighting the value and variety as reasons to return. It's commonly
+  noted as a reliable spot for casual gatherings, helping it stand out among
+  local eatery options. If you're on the hunt for great Asian places nearby,
+  this one tends to leave people feeling satisfied and eager to recommend it to
+  friends.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +249,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

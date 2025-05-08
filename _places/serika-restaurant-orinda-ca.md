@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Serika Restaurant"
+title: Serika Restaurant
 permalink: /california/orinda/serika-restaurant.html
 stateAbbr: CA
 stateName: California
 cityName: Orinda
 seo:
-  name: "Serika Restaurant"
-  type: Restaurant
+  type: restaurant
   links: https://www.serikaorinda.com/
-description: "Serika Restaurant serves delicious sushi in Orinda, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJszioMyl9hYARwaUGZbLaybY
 photos:
   - name: >-
@@ -170,7 +168,105 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80857d2933a838b3:0xb6c9dab26506a5c1!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 14
+        minute: 30
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 14
+        minute: 30
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
     - 'Wednesday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
@@ -178,14 +274,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
     - 'Saturday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
     - 'Sunday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
-    - 'Wednesday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
-    - 'Thursday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
-    - 'Friday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
-    - 'Saturday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
-    - 'Sunday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +286,287 @@ phone: (925) 386-0230
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.4'
-rating_count: 0
+rating_count: 103
 website: https://www.serikaorinda.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Serika Restaurant in Orinda, CA$$$Serika Restaurant in Orinda, CA,
+  offers a warm and inviting atmosphere perfect for enjoying authentic Japanese
+  cuisine, including fresh sushi and traditional dishes. The spot features a
+  traditional interior that creates a cozy, welcoming vibe, complemented by
+  options like bento boxes, sake, and a selection of beers and wines to enhance
+  your meal. Accessibility is a key highlight, with wheelchair-friendly parking,
+  entrances, and seating, making it easy for everyone to savor the experience.
+  Additionally, outdoor seating adds to the charm, ideal for those seeking a
+  relaxed dining spot near local attractions. As one of the go-to Japanese
+  places in the area, it stands out for its focus on quality ingredients and
+  flavorful offerings that appeal to sushi enthusiasts.
+generative_summary: >-
+  Discover Serika Restaurant in Orinda, CA$$$Serika Restaurant in Orinda, CA,
+  offers a warm and inviting atmosphere perfect for enjoying authentic Japanese
+  cuisine, including fresh sushi and traditional dishes. The spot features a
+  traditional interior that creates a cozy, welcoming vibe, complemented by
+  options like bento boxes, sake, and a selection of beers and wines to enhance
+  your meal. Accessibility is a key highlight, with wheelchair-friendly parking,
+  entrances, and seating, making it easy for everyone to savor the experience.
+  Additionally, outdoor seating adds to the charm, ideal for those seeking a
+  relaxed dining spot near local attractions. As one of the go-to Japanese
+  places in the area, it stands out for its focus on quality ingredients and
+  flavorful offerings that appeal to sushi enthusiasts.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJszioMyl9hYARwaUGZbLaybY/reviews/ChZDSUhNMG9nS0VJQ0FnSUNkc04tdElnEAE
+    relativePublishTimeDescription: 5 months ago
+    rating: 3
+    text:
+      text: >-
+        The new owners of Serika are doing a good business since it packed!
+
+        Lion King Roll and Rock and Roll were pretty good! I think their
+        presentation needs a little help to highlight the food being served. For
+        instance, the Rock & Roll that I had was served on it's side hiding the
+        Tobiko... still tasty.
+
+        The tiny Gyoza are deep fried, oh no! The taste of the filling is masked
+        by the oil in which it was fried (and everything else cooked in that
+        oil). The Orinda Roll tasted good.
+      languageCode: en
+    originalText:
+      text: >-
+        The new owners of Serika are doing a good business since it packed!
+
+        Lion King Roll and Rock and Roll were pretty good! I think their
+        presentation needs a little help to highlight the food being served. For
+        instance, the Rock & Roll that I had was served on it's side hiding the
+        Tobiko... still tasty.
+
+        The tiny Gyoza are deep fried, oh no! The taste of the filling is masked
+        by the oil in which it was fried (and everything else cooked in that
+        oil). The Orinda Roll tasted good.
+      languageCode: en
+    authorAttribution:
+      displayName: Erik H
+      uri: https://www.google.com/maps/contrib/112136445037246146617/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIy4kJ4kHNzZRy8owP5KnAs0Z54kDKhWAwteQG_agrFpkNsiQ=s128-c0x00000000-cc-rp-mo-ba7
+    publishTime: '2024-11-24T18:37:52.483536Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNkc04tdElnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNkc04tdElnEAE!2m1!1s0x80857d2933a838b3:0xb6c9dab26506a5c1
+  - name: >-
+      places/ChIJszioMyl9hYARwaUGZbLaybY/reviews/ChZDSUhNMG9nS0VJQ0FnSUNfN1AtTk9BEAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        My father in-law (Dr. William Kwong) has been a loyal customer for
+        Serika for over 10 years. The owner usually gives us something for free
+        every time because we order so much 😆😆.
+
+
+        They recently changed ownership and let me tell you the food is way
+        better than before! Super high quality and fresh. I wish there will be
+        more restaurants and businesses in Orinda bc right now there is only 4.
+        ありがとうございます。
+
+
+        The indoor design was apparently designed by a Japanese artist born and
+        raised in Japan. Super high quality and haven’t changed in 10 years.
+        Love it.
+      languageCode: en
+    originalText:
+      text: >-
+        My father in-law (Dr. William Kwong) has been a loyal customer for
+        Serika for over 10 years. The owner usually gives us something for free
+        every time because we order so much 😆😆.
+
+
+        They recently changed ownership and let me tell you the food is way
+        better than before! Super high quality and fresh. I wish there will be
+        more restaurants and businesses in Orinda bc right now there is only 4.
+        ありがとうございます。
+
+
+        The indoor design was apparently designed by a Japanese artist born and
+        raised in Japan. Super high quality and haven’t changed in 10 years.
+        Love it.
+      languageCode: en
+    authorAttribution:
+      displayName: Yunjiao Liu
+      uri: https://www.google.com/maps/contrib/100057448116365018360/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUNDGOfoP0vNsRXeVLJ0h-0_pHGiq64i7vHSVo97tTuU1ddoyMf=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-01-13T20:16:28.815541Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNfN1AtTk9BEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNfN1AtTk9BEAE!2m1!1s0x80857d2933a838b3:0xb6c9dab26506a5c1
+  - name: >-
+      places/ChIJszioMyl9hYARwaUGZbLaybY/reviews/ChZDSUhNMG9nS0VJQ0FnSUREM3JqX0lnEAE
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        A wonderful place to meet a friend for lunch or dinner which I do
+        often.  Such a tranquil place to sit and talk, inside or out ( more
+        limited outdoor seating), very clean and everyone is so friendly.  I
+        always love the mixed vegetable Tempura Lunch Entree which comes with
+        hot rice, a lovely crisp salad and miso soup.  The Saitama (vegan) roll
+        is  beautifully presented, fresh and delicious. Another favorite is
+        Agedashi Tofu- crispy and savory- the best of any I have tried. My
+        friend had the Futomaki roll and seaweed salad also which she enjoyed
+        greatly. I highly recommend visiting whenever possible!
+      languageCode: en
+    originalText:
+      text: >-
+        A wonderful place to meet a friend for lunch or dinner which I do
+        often.  Such a tranquil place to sit and talk, inside or out ( more
+        limited outdoor seating), very clean and everyone is so friendly.  I
+        always love the mixed vegetable Tempura Lunch Entree which comes with
+        hot rice, a lovely crisp salad and miso soup.  The Saitama (vegan) roll
+        is  beautifully presented, fresh and delicious. Another favorite is
+        Agedashi Tofu- crispy and savory- the best of any I have tried. My
+        friend had the Futomaki roll and seaweed salad also which she enjoyed
+        greatly. I highly recommend visiting whenever possible!
+      languageCode: en
+    authorAttribution:
+      displayName: April U
+      uri: https://www.google.com/maps/contrib/104759935026922371960/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjW7i6IVTnthQq_-pluBlnXO502TyT8Z6PGCcFDe9MyvoIxe04kvwg=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-11-07T05:54:46.606396Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUREM3JqX0lnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUREM3JqX0lnEAE!2m1!1s0x80857d2933a838b3:0xb6c9dab26506a5c1
+  - name: >-
+      places/ChIJszioMyl9hYARwaUGZbLaybY/reviews/ChdDSUhNMG9nS0VJQ0FnSUNaNTl1SHJ3RRAB
+    relativePublishTimeDescription: 8 months ago
+    rating: 5
+    text:
+      text: >-
+        NEW CHEF! Formerly sixteen years with Ozumo and it shows. A new husband
+        and wife team took over bringing the standards and stories from one of
+        the top places in the Bay Area to Orinda. The menu has been revamped,
+        but what is remarkable is, outside the fish quality he is accustomed to
+        having, the stuff that is not on the menu but made to order on the
+        Chef's recommendation. Hence, letting him choose will provide the best
+        experience and be yet one more level up.
+
+        Update: The place is doing well, he now added two staff. Glad to see how
+        the quality continues to be outstanding, and how new regulars flock the
+        place.
+      languageCode: en
+    originalText:
+      text: >-
+        NEW CHEF! Formerly sixteen years with Ozumo and it shows. A new husband
+        and wife team took over bringing the standards and stories from one of
+        the top places in the Bay Area to Orinda. The menu has been revamped,
+        but what is remarkable is, outside the fish quality he is accustomed to
+        having, the stuff that is not on the menu but made to order on the
+        Chef's recommendation. Hence, letting him choose will provide the best
+        experience and be yet one more level up.
+
+        Update: The place is doing well, he now added two staff. Glad to see how
+        the quality continues to be outstanding, and how new regulars flock the
+        place.
+      languageCode: en
+    authorAttribution:
+      displayName: Michael R. Schuppenhauer
+      uri: https://www.google.com/maps/contrib/110430074415425817977/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUbgL2QC8cYthY8A52uW8noKBoP7uFfIEXRIwvxYfSKQOdq6brg7g=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-08-22T17:52:19.112298Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNaNTl1SHJ3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNaNTl1SHJ3RRAB!2m1!1s0x80857d2933a838b3:0xb6c9dab26506a5c1
+  - name: >-
+      places/ChIJszioMyl9hYARwaUGZbLaybY/reviews/ChdDSUhNMG9nS0VJQ0FnSUMxd016U3ZBRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        Oddly enough, Orinda (a town with very few places to go) has 3 sushi
+        restaurants.  This one blows the others out of the water. The sushi chef
+        is friendly and welcoming and his fish is top notch (i hear he cut his
+        teeth at Osumo in the city).
+
+        Its a simple standard vibe for a sleepy suburb but we've been 4 or 5
+        times now and never been disappointed.  Support this new, delicious
+        local business!
+      languageCode: en
+    originalText:
+      text: >-
+        Oddly enough, Orinda (a town with very few places to go) has 3 sushi
+        restaurants.  This one blows the others out of the water. The sushi chef
+        is friendly and welcoming and his fish is top notch (i hear he cut his
+        teeth at Osumo in the city).
+
+        Its a simple standard vibe for a sleepy suburb but we've been 4 or 5
+        times now and never been disappointed.  Support this new, delicious
+        local business!
+      languageCode: en
+    authorAttribution:
+      displayName: Erik Lillquist
+      uri: https://www.google.com/maps/contrib/116090678854752942572/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUG6C_rRFqtKzJuyIPR2OYbvVDoV9aVAxmc3hdfgqwdsNQYpoz3Kw=s128-c0x00000000-cc-rp-mo
+    publishTime: '2023-12-20T04:49:55.457882Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMxd016U3ZBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMxd016U3ZBRRAB!2m1!1s0x80857d2933a838b3:0xb6c9dab26506a5c1
+review_summary: >-
+  What Visitors Are Saying About the Reviews$$$Folks checking out this spot
+  often praise the fresh and high-quality sushi, noting how it hits the spot for
+  anyone craving Japanese flavors in a laid-back setting. Many appreciate the
+  improved food under new management, with comments highlighting delicious rolls
+  and entrees that feel expertly prepared and full of taste. While some mention
+  minor tweaks needed for presentation or certain fried items, the overall vibe
+  remains positive, with diners enjoying the tranquil environment and friendly
+  service that makes it a reliable choice. It's clear that regulars love the
+  chef's recommendations for a personalized touch, adding to the appeal for
+  groups or solo visits. If you're hunting for top-rated sushi nearby, this
+  place consistently delivers a satisfying experience that keeps people coming
+  back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  freeGarageParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
 menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
 serves_breakfast: null
-serves_brunch: null
+serves_brunch: false
 serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Theater Square Japanese restaurant with a traditional interior & a menu of
+  sushi standards.
 
 ---

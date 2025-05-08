@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sakanaya"
+title: Sakanaya
 permalink: /illinois/champaign/sakanaya.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Champaign
 seo:
-  name: "Sakanaya"
-  type: Restaurant
+  type: restaurant
   links: http://www.sakanayarestaurant.com/
-description: "Inventive sushi, ramen, Japanese entrees & sake are presented in a stylish space. Sakanaya serves delicious sushi in Champaign, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJyX1CkzjXDIgRR1ZMZb1javk
 photos:
   - name: >-
@@ -183,6 +181,31 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 0
 website: http://www.sakanayarestaurant.com/
+description: >-
+  Experience Sakanaya in Champaign, IL$$$Sakanaya in Champaign, IL, stands out
+  as a modern sushi restaurant offering a stylish atmosphere and creative
+  Japanese dishes that highlight fresh flavors and innovative presentations. The
+  venue features eye-catching tableware that elevates the dining experience,
+  making it a go-to spot for enjoying sushi, ramen, and other authentic options
+  in a welcoming setting. With a focus on high-quality ingredients, this
+  establishment delivers a memorable meal that appeals to those seeking
+  top-rated sushi near me, all at a moderate price point. Accessibility options
+  like wheelchair-friendly seating add to its appeal for a broad range of
+  diners, ensuring everyone can savor the vibrant Japanese cuisine without
+  hassle.
+generative_summary: >-
+  Experience Sakanaya in Champaign, IL$$$Sakanaya in Champaign, IL, stands out
+  as a modern sushi restaurant offering a stylish atmosphere and creative
+  Japanese dishes that highlight fresh flavors and innovative presentations. The
+  venue features eye-catching tableware that elevates the dining experience,
+  making it a go-to spot for enjoying sushi, ramen, and other authentic options
+  in a welcoming setting. With a focus on high-quality ingredients, this
+  establishment delivers a memorable meal that appeals to those seeking
+  top-rated sushi near me, all at a moderate price point. Accessibility options
+  like wheelchair-friendly seating add to its appeal for a broad range of
+  diners, ensuring everyone can savor the vibrant Japanese cuisine without
+  hassle.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJyX1CkzjXDIgRR1ZMZb1javk/reviews/ChdDSUhNMG9nS0VJQ0FnTUNBckpLTDNnRRAB
@@ -330,6 +353,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN2NEpEZWJBEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN2NEpEZWJBEAE!2m1!1s0x880cd73893427dc9:0xf96a63bd654c5647
+review_summary: >-
+  Insights from Recent Reviews$$$Folks at this sushi spot often rave about the
+  fresh, flavorful dishes and thoughtful service that make it a favorite for
+  casual meals or group outings. Many highlight the excellent vegetarian and
+  vegan choices, like creative rolls and platters, which stand out as some of
+  the best options in local Japanese places near me. While most experiences are
+  glowing, with praise for the overall vibe and value, a few mentions note minor
+  inconsistencies like portions or temperature, but these don't overshadow the
+  positives. Overall, it's a hit for anyone craving reliable sushi restaurants
+  with attentive staff and a welcoming environment, encouraging repeat visits
+  for its standout quality and variety. If you're exploring sushi close to me,
+  this place delivers a solid, enjoyable experience worth trying.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeStreetParking: true
   paidStreetParking: true
@@ -362,8 +398,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Inventive sushi, ramen, Japanese entrees & sake are presented in a stylish
   space.
 

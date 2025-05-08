@@ -5,4 +5,5 @@ permalink: /pennsylvania/bala-cynwyd/
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Bala Cynwyd
+
 ---

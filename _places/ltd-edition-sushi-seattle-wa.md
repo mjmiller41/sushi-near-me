@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ltd Edition Sushi"
+title: Ltd Edition Sushi
 permalink: /washington/seattle/ltd-edition-sushi.html
 stateAbbr: WA
 stateName: Washington
 cityName: Seattle
 seo:
-  name: "Ltd Edition Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.ltdeditionsushi.com/
-description: "Ltd Edition Sushi serves delicious sushi in Seattle, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJL08LlpJrkFQRFVj2C-D0EuI
 photos:
   - name: >-
@@ -169,7 +167,49 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x54906b92960b4f2f:0xe212f4e00bf65815!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 5:00 – 9:30 PM'
     - 'Tuesday: 5:00 – 9:30 PM'
     - 'Wednesday: 5:00 – 9:30 PM'
@@ -177,14 +217,7 @@ opening_hours:
     - 'Friday: 5:00 – 9:30 PM'
     - 'Saturday: Closed'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 5:00 – 9:30 PM'
-    - 'Tuesday: 5:00 – 9:30 PM'
-    - 'Wednesday: 5:00 – 9:30 PM'
-    - 'Thursday: 5:00 – 9:30 PM'
-    - 'Friday: 5:00 – 9:30 PM'
-    - 'Saturday: Closed'
-    - 'Sunday: Closed'
+  nextOpenTime: '2025-05-06T00:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,9 +229,43 @@ phone: null
 price_level: null
 price_range: $100 &ndash; & up
 rating: '4.8'
-rating_count: 0
+rating_count: 187
 website: http://www.ltdeditionsushi.com/
+description: >-
+  Discover Ltd Edition Sushi in Seattle$$$Ltd Edition Sushi in Seattle, WA,
+  stands out as a premier destination for authentic Japanese dining, featuring
+  fresh sushi served at a counter in an intimate atmosphere. This spot
+  emphasizes traditional techniques with seasonal ingredients that highlight the
+  artistry of each dish, complemented by thoughtful sake pairings that elevate
+  the overall experience. Accessibility features like wheelchair-friendly
+  entrances and seating make it welcoming for all guests, ensuring everyone can
+  enjoy the culinary delights. Whether you're exploring top-rated sushi options
+  in the area or seeking a cozy venue for a memorable meal, this restaurant
+  captures the essence of Japanese culture with its carefully crafted offerings.
+generative_summary: >-
+  Discover Ltd Edition Sushi in Seattle$$$Ltd Edition Sushi in Seattle, WA,
+  stands out as a premier destination for authentic Japanese dining, featuring
+  fresh sushi served at a counter in an intimate atmosphere. This spot
+  emphasizes traditional techniques with seasonal ingredients that highlight the
+  artistry of each dish, complemented by thoughtful sake pairings that elevate
+  the overall experience. Accessibility features like wheelchair-friendly
+  entrances and seating make it welcoming for all guests, ensuring everyone can
+  enjoy the culinary delights. Whether you're exploring top-rated sushi options
+  in the area or seeking a cozy venue for a memorable meal, this restaurant
+  captures the essence of Japanese culture with its carefully crafted offerings.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Diners on This Sushi Gem$$$Folks who've visited this sushi spot
+  often rave about the outstanding omakase-style meals, packed with super fresh
+  and seasonal ingredients that keep things exciting and flavorful. The sake
+  pairings are a big win, adding a nice touch that brings out the best in every
+  bite without overwhelming the palate. People appreciate the warm and attentive
+  service that makes the atmosphere feel relaxed and inviting, perfect for a
+  casual night out. Overall, it's clear this place delivers a solid experience
+  for anyone hunting for quality sushi nearby, with positive vibes that make it
+  worth checking out if you're in the mood for something special.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -224,7 +291,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

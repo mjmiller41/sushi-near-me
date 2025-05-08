@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ying's Thai-Sushi"
+title: Ying's Thai-Sushi
 permalink: /utah/sandy/ying-s-thai-sushi.html
 stateAbbr: UT
 stateName: Utah
 cityName: Sandy
 seo:
-  name: "Ying's Thai-Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://yingsthaisushisandy.com/
-description: "Ying's Thai-Sushi serves delicious sushi in Sandy, Utah. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJu_ftL-KHUocRFgTqElV9Qyc
 photos:
   - name: >-
@@ -170,7 +168,89 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x875287e22fedf7bb:0x27437d5512ea0416!10e5
 primary_type: Thai Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 15
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM'
     - 'Wednesday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM'
@@ -178,14 +258,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 3:00 PM, 5:00 – 10:00 PM'
     - 'Saturday: 12:00 – 10:00 PM'
     - 'Sunday: 12:00 – 9:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM'
-    - 'Thursday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM'
-    - 'Friday: 11:00 AM – 3:00 PM, 5:00 – 10:00 PM'
-    - 'Saturday: 12:00 – 10:00 PM'
-    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +270,45 @@ phone: (801) 999-4321
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.5'
-rating_count: 0
+rating_count: 676
 website: https://yingsthaisushisandy.com/
+description: >-
+  Discover Ying's Thai-Sushi in Sandy, UT$$$Ying's Thai-Sushi in Sandy, UT,
+  delivers a casual dining vibe with a fusion of fresh sushi and authentic Thai
+  flavors, making it a go-to spot for those seeking sushi restaurants in the
+  area. The menu highlights a variety of Japanese-inspired rolls and traditional
+  Thai dishes, all prepared with high-quality ingredients that balance bold
+  tastes and subtle spices. Accessibility features like wheelchair-friendly
+  entrances and seating add to the welcoming atmosphere, ensuring everyone can
+  enjoy a comfortable meal. Open for lunch and dinner several days a week, this
+  spot stands out for its moderate pricing and inviting ambiance, perfect for
+  anyone exploring top-rated sushi options nearby.
+generative_summary: >-
+  Discover Ying's Thai-Sushi in Sandy, UT$$$Ying's Thai-Sushi in Sandy, UT,
+  delivers a casual dining vibe with a fusion of fresh sushi and authentic Thai
+  flavors, making it a go-to spot for those seeking sushi restaurants in the
+  area. The menu highlights a variety of Japanese-inspired rolls and traditional
+  Thai dishes, all prepared with high-quality ingredients that balance bold
+  tastes and subtle spices. Accessibility features like wheelchair-friendly
+  entrances and seating add to the welcoming atmosphere, ensuring everyone can
+  enjoy a comfortable meal. Open for lunch and dinner several days a week, this
+  spot stands out for its moderate pricing and inviting ambiance, perfect for
+  anyone exploring top-rated sushi options nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Buzzing About$$$Visitors to this sushi spot in Sandy
+  frequently rave about the fresh, flavorful rolls and hearty Thai entrees that
+  keep them coming back for more casual eats. Many appreciate the friendly
+  service and quick preparation, which make dining out feel effortless and
+  enjoyable without any major hiccups. While some note that wait times can vary
+  during peak hours, the overall value for the price keeps the experience
+  positive and satisfying. Folks often highlight the variety of options that
+  cater to different tastes, making it a solid choice for groups or families
+  hunting for reliable sushi places near me. All in all, the high marks reflect
+  a welcoming environment where the food consistently shines, encouraging repeat
+  visits for tasty, everyday dining.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +334,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

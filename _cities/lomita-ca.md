@@ -5,4 +5,5 @@ permalink: /california/lomita/
 stateAbbr: CA
 stateName: California
 cityName: Lomita
+
 ---

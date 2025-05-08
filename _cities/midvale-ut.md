@@ -5,4 +5,5 @@ permalink: /utah/midvale/
 stateAbbr: UT
 stateName: Utah
 cityName: Midvale
+
 ---

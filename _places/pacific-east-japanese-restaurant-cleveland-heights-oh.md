@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Pacific East Japanese Restaurant"
+title: Pacific East Japanese Restaurant
 permalink: /ohio/cleveland-heights/pacific-east-japanese-restaurant.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Cleveland Heights
 seo:
-  name: "Pacific East Japanese Restaurant"
-  type: Restaurant
-  links: null
-description: "Pacific East Japanese Restaurant serves delicious sushi in Cleveland Heights, Ohio. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.pacificeastcoventry88.com/
 place_id: ChIJ4cHkcED8MIgRitsFijTX4bE
 photos:
   - name: >-
@@ -170,8 +168,121 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8830fc4070e4c1e1:0xb1e1d7348a05db8a!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 15
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 15
+        minute: 0
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 15
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 15
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 3:00 PM, 5:00 – 9:30 PM'
+    - 'Tuesday: 11:00 AM – 3:00 PM, 5:00 – 9:30 PM'
+    - 'Wednesday: 11:00 AM – 3:00 PM, 5:00 – 9:30 PM'
+    - 'Thursday: 11:00 AM – 3:00 PM, 5:00 – 9:30 PM'
+    - 'Friday: 11:00 AM – 3:00 PM, 5:00 – 10:30 PM'
+    - 'Saturday: 12:00 – 3:00 PM, 5:00 – 10:30 PM'
+    - 'Sunday: 3:00 – 9:30 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +290,51 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (216) 320-2302
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.4'
+rating_count: 1361
+website: http://www.pacificeastcoventry88.com/
+description: >-
+  Discover Pacific East in Cleveland Heights, OH$$$Pacific East Japanese
+  Restaurant in Cleveland Heights, OH, offers a welcoming atmosphere for
+  enjoying authentic Japanese dishes, including fresh sushi and bubble tea. This
+  spot stands out with its casual vibe and a menu featuring familiar favorites
+  that cater to a variety of tastes, making it a great choice for those seeking
+  Japanese places near me. Accessibility features like wheelchair-friendly
+  parking and entrances ensure a comfortable visit for everyone, while the
+  restaurant's operational hours provide flexibility for lunch or dinner
+  outings. With its moderate pricing, it's an ideal destination for anyone
+  craving top-rated sushi in a relaxed setting, blending traditional flavors
+  with everyday convenience.
+generative_summary: >-
+  Discover Pacific East in Cleveland Heights, OH$$$Pacific East Japanese
+  Restaurant in Cleveland Heights, OH, offers a welcoming atmosphere for
+  enjoying authentic Japanese dishes, including fresh sushi and bubble tea. This
+  spot stands out with its casual vibe and a menu featuring familiar favorites
+  that cater to a variety of tastes, making it a great choice for those seeking
+  Japanese places near me. Accessibility features like wheelchair-friendly
+  parking and entrances ensure a comfortable visit for everyone, while the
+  restaurant's operational hours provide flexibility for lunch or dinner
+  outings. With its moderate pricing, it's an ideal destination for anyone
+  craving top-rated sushi in a relaxed setting, blending traditional flavors
+  with everyday convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Customer Experiences$$$Visitors to this popular sushi spot
+  frequently highlight the high-quality ingredients and flavorful dishes,
+  contributing to its strong reputation among local favorites. Many appreciate
+  the consistent service and welcoming environment, which make it a reliable
+  go-to for casual meals or group gatherings. While some note that portions can
+  vary, the overall consensus leans positive, with praise for the fresh rolls
+  and variety that keep diners coming back. If you're searching for the best
+  sushi near me, this place often delivers a satisfying experience that's worth
+  trying, especially given its solid rating from the community. Overall, it's a
+  solid pick for anyone looking to enjoy Japanese cuisine without any major
+  drawbacks.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +360,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

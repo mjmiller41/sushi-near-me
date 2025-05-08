@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yamada Sushi"
+title: Yamada Sushi
 permalink: /new-jersey/rutherford/yamada-sushi.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Rutherford
 seo:
-  name: "Yamada Sushi"
-  type: Restaurant
-  links: null
-description: "Yamada Sushi serves delicious sushi in Rutherford, New Jersey. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.yamadasushi.com/
 place_id: ChIJM_7yjr74wokRgnf-BP_VXSA
 photos:
   - name: >-
@@ -169,8 +167,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c2f8be8ef2fe33:0x205dd5ff04fe7782!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 45
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 45
+  weekdayDescriptions:
+    - 'Monday: Closed'
+    - 'Tuesday: 11:00 AM – 9:30 PM'
+    - 'Wednesday: 11:00 AM – 9:30 PM'
+    - 'Thursday: 11:00 AM – 9:30 PM'
+    - 'Friday: 11:00 AM – 9:45 PM'
+    - 'Saturday: 12:00 – 9:45 PM'
+    - 'Sunday: 12:30 – 9:00 PM'
+  nextCloseTime: '2025-05-04T01:45:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -178,13 +233,51 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (201) 460-8700
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.6'
+rating_count: 339
+website: http://www.yamadasushi.com/
+description: >-
+  Discover Yamada Sushi in Rutherford, NJ$$$Yamada Sushi in Rutherford, NJ,
+  stands out as a welcoming spot for enjoying fresh Japanese dishes, blending
+  casual vibes with authentic flavors that appeal to sushi enthusiasts. This
+  sushi restaurant offers a variety of options like expertly crafted rolls and
+  sashimi, making it a go-to choice for both dine-in experiences and convenient
+  delivery. With accessibility features such as wheelchair-friendly entrances
+  and seating, it's designed to accommodate all visitors seeking a comfortable
+  meal. The menu highlights traditional fare that captures the essence of
+  Japanese cuisine, perfect for those exploring top-rated sushi options nearby.
+  Whether you're in the mood for a quick bite or a relaxed outing, this spot
+  delivers on quality and convenience.
+generative_summary: >-
+  Discover Yamada Sushi in Rutherford, NJ$$$Yamada Sushi in Rutherford, NJ,
+  stands out as a welcoming spot for enjoying fresh Japanese dishes, blending
+  casual vibes with authentic flavors that appeal to sushi enthusiasts. This
+  sushi restaurant offers a variety of options like expertly crafted rolls and
+  sashimi, making it a go-to choice for both dine-in experiences and convenient
+  delivery. With accessibility features such as wheelchair-friendly entrances
+  and seating, it's designed to accommodate all visitors seeking a comfortable
+  meal. The menu highlights traditional fare that captures the essence of
+  Japanese cuisine, perfect for those exploring top-rated sushi options nearby.
+  Whether you're in the mood for a quick bite or a relaxed outing, this spot
+  delivers on quality and convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback Highlights$$$Feedback from visitors to this sushi spot often
+  highlights the consistently fresh ingredients and flavorful dishes that keep
+  people coming back for more. With an impressive rating, many appreciate the
+  efficient service and cozy atmosphere that make it feel like a reliable
+  neighborhood favorite for Japanese cuisine. While some note that wait times
+  can vary during peak hours, the overall experience is praised for its value
+  and taste, earning it high marks among local diners. Folks searching for great
+  sushi close to home tend to enjoy the variety and affordability, making it a
+  solid pick for casual meals. In summary, the positive buzz around Yamada Sushi
+  suggests it's worth trying for anyone craving quality Japanese fare with a
+  welcoming touch.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +303,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

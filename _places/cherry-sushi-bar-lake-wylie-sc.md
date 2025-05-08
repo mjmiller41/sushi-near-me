@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Cherry Sushi Bar"
+title: Cherry Sushi Bar
 permalink: /south-carolina/lake-wylie/cherry-sushi-bar.html
 stateAbbr: SC
 stateName: South Carolina
 cityName: Lake Wylie
 seo:
-  name: "Cherry Sushi Bar"
-  type: Restaurant
+  type: restaurant
   links: https://cherrysushiandhibachi.com/
-description: "Cherry Sushi Bar serves delicious sushi in Lake Wylie, South Carolina. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJcRsLGnqNVogRto5mQt2f8Ro
 photos:
   - name: >-
@@ -185,6 +183,27 @@ price_range: $10 &ndash; $20
 rating: '4.2'
 rating_count: 0
 website: https://cherrysushiandhibachi.com/
+description: >-
+  Experience Cherry Sushi Bar in Lake Wylie, SC$$$Cherry Sushi Bar in Lake
+  Wylie, SC, delivers a refreshing take on Japanese cuisine with fresh sushi and
+  scenic lake views in a laid-back environment. This spot highlights a variety
+  of expertly crafted rolls and dishes, making it ideal for casual meals or
+  relaxed gatherings. Accessibility features like wheelchair-friendly seating
+  and entrances add to the welcoming vibe, ensuring everyone can enjoy the
+  experience. Patrons appreciate the moderate pricing and thoughtful menu
+  options, including vegetarian choices, that cater to diverse tastes in this
+  hidden gem of a sushi restaurant.
+generative_summary: >-
+  Experience Cherry Sushi Bar in Lake Wylie, SC$$$Cherry Sushi Bar in Lake
+  Wylie, SC, delivers a refreshing take on Japanese cuisine with fresh sushi and
+  scenic lake views in a laid-back environment. This spot highlights a variety
+  of expertly crafted rolls and dishes, making it ideal for casual meals or
+  relaxed gatherings. Accessibility features like wheelchair-friendly seating
+  and entrances add to the welcoming vibe, ensuring everyone can enjoy the
+  experience. Patrons appreciate the moderate pricing and thoughtful menu
+  options, including vegetarian choices, that cater to diverse tastes in this
+  hidden gem of a sushi restaurant.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJcRsLGnqNVogRto5mQt2f8Ro/reviews/ChdDSUhNMG9nS0VJQ0FnTUNBcy12b3FRRRAB
@@ -350,6 +369,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURIMFpQLWtBRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURIMFpQLWtBRRAB!2m1!1s0x88568d7a1a0b1b71:0x1af19fdd42668eb6
+review_summary: >-
+  Visitor Feedback on This Local Sushi Favorite$$$Folks exploring sushi spots
+  near Lake Wylie often praise the fresh rolls and generous portions, with
+  specials like Monday discounts adding extra appeal for budget-friendly dining.
+  Many highlight the tasty hibachi and Japanese fare, along with solid service
+  that keeps the atmosphere lively and enjoyable. While one or two mentions
+  noted occasional slowdowns or inconsistencies, the overall consensus leans
+  toward positive experiences with flavorful dishes and a cozy setting. It's a
+  go-to choice for those seeking top-rated sushi, where the value and variety
+  make it worth trying for anyone craving authentic Japanese flavors in a
+  relaxed spot.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -383,7 +414,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

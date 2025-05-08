@@ -5,4 +5,5 @@ permalink: /texas/brenham/
 stateAbbr: TX
 stateName: Texas
 cityName: Brenham
+
 ---

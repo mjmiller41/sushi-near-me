@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Noku Sushi"
+title: Noku Sushi
 permalink: /virginia/leesburg/noku-sushi.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Leesburg
 seo:
-  name: "Noku Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://nokusushi.com/
-description: "Modern yet modest, light-filled mainstay for creative & classic sushi, plus standard Japanese bites. Noku Sushi serves delicious sushi in Leesburg, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJUQhjBkA8tokRJidROZQ6nvM
 photos:
   - name: >-
@@ -185,6 +183,27 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 0
 website: http://nokusushi.com/
+description: >-
+  Discover Noku Sushi in Leesburg, VA$$$Noku Sushi in Leesburg, VA, stands out
+  as a welcoming hub for sushi lovers seeking fresh Japanese cuisine in a
+  relaxed setting. This casual eatery features a variety of creative sushi rolls
+  and classic hibachi dishes, making it a go-to choice for those exploring sushi
+  restaurants nearby. The modern, light-filled atmosphere enhances the dining
+  experience, complemented by thoughtful accessibility options that ensure
+  everyone can enjoy the space comfortably. With a focus on standard Japanese
+  fare, it's an ideal spot for anyone hunting for top-rated sushi options close
+  to home, offering moderate prices and a menu that caters to diverse tastes.
+generative_summary: >-
+  Discover Noku Sushi in Leesburg, VA$$$Noku Sushi in Leesburg, VA, stands out
+  as a welcoming hub for sushi lovers seeking fresh Japanese cuisine in a
+  relaxed setting. This casual eatery features a variety of creative sushi rolls
+  and classic hibachi dishes, making it a go-to choice for those exploring sushi
+  restaurants nearby. The modern, light-filled atmosphere enhances the dining
+  experience, complemented by thoughtful accessibility options that ensure
+  everyone can enjoy the space comfortably. With a focus on standard Japanese
+  fare, it's an ideal spot for anyone hunting for top-rated sushi options close
+  to home, offering moderate prices and a menu that caters to diverse tastes.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJUQhjBkA8tokRJidROZQ6nvM/reviews/ChZDSUhNMG9nS0VJQ0FnSURCdHZqdWFBEAE
@@ -346,6 +365,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURIOXUzemZnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURIOXUzemZnEAE!2m1!1s0x89b63c4006630851:0xf39e3a9439512726
+review_summary: >-
+  What Customers Are Saying About Noku Sushi$$$Folks generally rave about the
+  fresh flavors and reliable quality at this spot, with many highlighting the
+  standout sushi and hibachi selections as must-tries for Japanese dining
+  enthusiasts. Service stands out as attentive and accommodating, especially for
+  those with dietary needs, creating a welcoming vibe that keeps people coming
+  back for more. While most agree the variety of dishes hits the mark, a few
+  mentions note that certain sauces could use a tweak, though this doesn't
+  overshadow the overall positives. In general, it's seen as a solid pick for
+  groups or families, with the general consensus leaning toward it being one of
+  the best sushi places around for a satisfying meal. If you're on the hunt for
+  sushi near you, this spot often delivers a pleasant experience worth checking
+  out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -379,8 +412,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Modern yet modest, light-filled mainstay for creative & classic sushi, plus
   standard Japanese bites.
 

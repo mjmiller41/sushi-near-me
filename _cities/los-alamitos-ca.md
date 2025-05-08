@@ -5,4 +5,5 @@ permalink: /california/los-alamitos/
 stateAbbr: CA
 stateName: California
 cityName: Los Alamitos
+
 ---

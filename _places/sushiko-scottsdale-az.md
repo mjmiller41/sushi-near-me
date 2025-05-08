@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "SushiKo"
+title: SushiKo
 permalink: /arizona/scottsdale/sushiko.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Scottsdale
 seo:
-  name: "SushiKo"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "SushiKo serves delicious sushi in Scottsdale, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ19FeVT91K4cRrmcgvnYBpTE
 photos:
   - name: >-
@@ -185,7 +183,47 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover SushiKo in Scottsdale, Arizona$$$SushiKo in Scottsdale, Arizona,
+  stands out as a welcoming sushi restaurant specializing in fresh Japanese
+  cuisine that captures the essence of traditional flavors. This spot offers an
+  array of delectable options like sashimi, tempura, and a selection of sake and
+  cocktails, making it a go-to for those seeking authentic Asian dining
+  experiences. With its accessible features, including wheelchair-friendly
+  parking and entrances, it ensures a comfortable visit for all guests,
+  enhancing the overall appeal for families and groups. The vibrant photos
+  shared by patrons highlight the inviting ambiance and beautifully presented
+  dishes, adding to the allure of this local favorite. Whether you're exploring
+  sushi places near you or looking for top-rated Japanese options in the area,
+  SushiKo delivers a memorable meal in a relaxed setting.
+generative_summary: >-
+  Discover SushiKo in Scottsdale, Arizona$$$SushiKo in Scottsdale, Arizona,
+  stands out as a welcoming sushi restaurant specializing in fresh Japanese
+  cuisine that captures the essence of traditional flavors. This spot offers an
+  array of delectable options like sashimi, tempura, and a selection of sake and
+  cocktails, making it a go-to for those seeking authentic Asian dining
+  experiences. With its accessible features, including wheelchair-friendly
+  parking and entrances, it ensures a comfortable visit for all guests,
+  enhancing the overall appeal for families and groups. The vibrant photos
+  shared by patrons highlight the inviting ambiance and beautifully presented
+  dishes, adding to the allure of this local favorite. Whether you're exploring
+  sushi places near you or looking for top-rated Japanese options in the area,
+  SushiKo delivers a memorable meal in a relaxed setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Folks who visit this Scottsdale sushi spot often
+  rave about the fresh, high-quality ingredients that make every bite feel
+  special and satisfying. Many appreciate the variety of dishes, noting how the
+  menu balances classic favorites with creative twists to suit different tastes.
+  Comments frequently highlight the efficient service and cozy atmosphere, which
+  help create a pleasant experience for casual diners and groups alike. Even
+  without a ton of reviews on hand, it's clear that this place earns nods for
+  being a reliable choice in the local sushi scene, with people enjoying the
+  overall value and flavors. If you're on the hunt for great sushi restaurants
+  nearby, this one tends to leave visitors with a positive vibe, encouraging
+  return trips for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +249,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

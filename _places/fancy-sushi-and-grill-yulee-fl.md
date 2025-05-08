@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Fancy Sushi and Grill"
+title: Fancy Sushi and Grill
 permalink: /florida/yulee/fancy-sushi-and-grill.html
 stateAbbr: FL
 stateName: Florida
 cityName: Yulee
 seo:
-  name: "Fancy Sushi and Grill"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Fancy Sushi and Grill serves delicious sushi in Yulee, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJX6fDtXYA5YgRUK5D8sKsETs
 photos:
   - name: >-
@@ -185,7 +183,42 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Fancy Sushi and Grill in Yulee, Florida$$$Nestled in Yulee, Florida,
+  Fancy Sushi and Grill offers a welcoming spot for those seeking fresh
+  Japanese-inspired dishes in a cozy setting. This sushi restaurant features an
+  array of expertly prepared rolls and hibachi options, making it a go-to choice
+  for anyone craving authentic flavors right in their local area. With
+  thoughtful accessibility features like wheelchair-friendly parking and
+  entrances, it ensures a comfortable experience for all visitors exploring
+  sushi spots nearby. The menu highlights a variety of Japanese fare that
+  balances tradition with creative twists, appealing to both casual diners and
+  those in search of top-rated sushi options close to home.
+generative_summary: >-
+  Discover Fancy Sushi and Grill in Yulee, Florida$$$Nestled in Yulee, Florida,
+  Fancy Sushi and Grill offers a welcoming spot for those seeking fresh
+  Japanese-inspired dishes in a cozy setting. This sushi restaurant features an
+  array of expertly prepared rolls and hibachi options, making it a go-to choice
+  for anyone craving authentic flavors right in their local area. With
+  thoughtful accessibility features like wheelchair-friendly parking and
+  entrances, it ensures a comfortable experience for all visitors exploring
+  sushi spots nearby. The menu highlights a variety of Japanese fare that
+  balances tradition with creative twists, appealing to both casual diners and
+  those in search of top-rated sushi options close to home.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Buzzing About$$$Folks around Yulee seem to really enjoy the
+  tasty miso soup and signature rolls at this spot, often praising the generous
+  portions that make meals feel satisfying without breaking the bank. Many
+  highlight the friendly team and their quick, accommodating service, which adds
+  a nice touch to the overall vibe. The atmosphere comes across as pleasant and
+  relaxed, perfect for grabbing a bite with friends or family after a day out.
+  While keeping things honest, it's clear that the hibachi dishes stand out for
+  their flavorful execution, drawing in repeat visits from sushi enthusiasts in
+  the area. All in all, it's a solid pick for anyone looking for reliable
+  Japanese eats that deliver on both taste and convenience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +244,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

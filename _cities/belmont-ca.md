@@ -5,4 +5,5 @@ permalink: /california/belmont/
 stateAbbr: CA
 stateName: California
 cityName: Belmont
+
 ---

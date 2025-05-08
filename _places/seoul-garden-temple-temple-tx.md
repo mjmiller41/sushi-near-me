@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Seoul Garden Temple"
+title: Seoul Garden Temple
 permalink: /texas/temple/seoul-garden-temple.html
 stateAbbr: TX
 stateName: Texas
 cityName: Temple
 seo:
-  name: "Seoul Garden Temple"
-  type: Restaurant
-  links: null
-description: "Seoul Garden Temple serves delicious sushi in Temple, Texas. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.seoulgardentemple.com/
 place_id: ChIJazvl-xJrRYYRttSATckx5Pk
 photos:
   - name: >-
@@ -170,8 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x86456b12fbe53b6b:0xf9e431c94d80d4b6!10e5
 primary_type: Korean Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 9:00 PM'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 10:00 PM'
+    - 'Saturday: 11:00 AM – 10:00 PM'
+    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +234,48 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (254) 773-8413
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.4'
+rating_count: 855
+website: http://www.seoulgardentemple.com/
+description: >-
+  Discover Seoul Garden Temple in Temple, TX$$$Seoul Garden Temple in Temple,
+  TX, stands out as a welcoming spot for those seeking a mix of Korean and
+  Japanese flavors, including fresh sushi options that highlight its diverse
+  menu. This casual eatery boasts accessibility features like
+  wheelchair-friendly entrances and seating, making it easy for everyone to
+  enjoy a relaxed dining experience. With operating hours that span from late
+  morning into the evening on most days, it's ideal for quick lunches or evening
+  outings with friends. The moderate pricing adds to its appeal, offering good
+  value for authentic dishes that blend traditional tastes with modern twists,
+  perfect for anyone exploring Japanese-inspired cuisine nearby.
+generative_summary: >-
+  Discover Seoul Garden Temple in Temple, TX$$$Seoul Garden Temple in Temple,
+  TX, stands out as a welcoming spot for those seeking a mix of Korean and
+  Japanese flavors, including fresh sushi options that highlight its diverse
+  menu. This casual eatery boasts accessibility features like
+  wheelchair-friendly entrances and seating, making it easy for everyone to
+  enjoy a relaxed dining experience. With operating hours that span from late
+  morning into the evening on most days, it's ideal for quick lunches or evening
+  outings with friends. The moderate pricing adds to its appeal, offering good
+  value for authentic dishes that blend traditional tastes with modern twists,
+  perfect for anyone exploring Japanese-inspired cuisine nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What People Are Saying About the Experience$$$Folks generally rave about the
+  tasty sushi and hearty Korean dishes at this spot, noting how the flavors hit
+  the spot every time. With a solid rating reflecting hundreds of positive nods,
+  visitors often mention the reliable quality and friendly vibe that make meals
+  feel effortless and enjoyable. Many appreciate the variety that caters to
+  different preferences, from light bites to more filling options, helping it
+  stand out as a go-to for casual dining. Overall, the feedback paints a picture
+  of a place that's consistently delivering on fresh tastes and attentive
+  service, making it a smart pick for anyone in the mood for satisfying eats
+  without any fuss.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +301,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

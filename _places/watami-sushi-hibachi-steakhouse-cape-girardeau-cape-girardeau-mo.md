@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Watami Sushi & Hibachi Steakhouse (Cape Girardeau)"
+title: Watami Sushi & Hibachi Steakhouse (Cape Girardeau)
 permalink: /missouri/cape-girardeau/watami-sushi-hibachi-steakhouse-cape-girardeau.html
 stateAbbr: MO
 stateName: Missouri
 cityName: Cape Girardeau
 seo:
-  name: "Watami Sushi & Hibachi Steakhouse (Cape Girardeau)"
-  type: Restaurant
+  type: restaurant
   links: http://www.watamisushimo.com/
-description: "Watami Sushi & Hibachi Steakhouse (Cape Girardeau) serves delicious sushi in Cape Girardeau, Missouri. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJF6W38waId4gRuPfD1POkgrM
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x88778806f3b7a517:0xb382a4f3d4c3f7b8!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 15
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 15
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 15
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 15
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 15
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 15
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:15 PM'
     - 'Tuesday: 11:00 AM – 9:15 PM'
     - 'Wednesday: 11:00 AM – 9:15 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:15 PM'
     - 'Saturday: 11:00 AM – 10:15 PM'
     - 'Sunday: 12:00 – 8:30 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:15 PM'
-    - 'Tuesday: 11:00 AM – 9:15 PM'
-    - 'Wednesday: 11:00 AM – 9:15 PM'
-    - 'Thursday: 11:00 AM – 9:15 PM'
-    - 'Friday: 11:00 AM – 10:15 PM'
-    - 'Saturday: 11:00 AM – 10:15 PM'
-    - 'Sunday: 12:00 – 8:30 PM'
+  nextCloseTime: '2025-05-04T03:15:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +246,45 @@ phone: (573) 332-0688
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.5'
-rating_count: 0
+rating_count: 789
 website: http://www.watamisushimo.com/
+description: >-
+  Discover Watami Sushi in Cape Girardeau, MO$$$Watami Sushi & Hibachi
+  Steakhouse in Cape Girardeau, MO, brings authentic Japanese flavors to the
+  heart of the Midwest with its fresh sushi rolls and sizzling hibachi dishes.
+  This welcoming spot features a variety of options including sake and creative
+  cocktails, making it a go-to choice for those seeking Japanese cuisine near
+  you. The restaurant boasts accessible features like wheelchair-friendly
+  entrances and seating, ensuring a comfortable experience for all diners. With
+  its operational hours extending into the evening, it's ideal for casual
+  lunches or dinners, complemented by a lively atmosphere that highlights
+  top-rated sushi preparations.
+generative_summary: >-
+  Discover Watami Sushi in Cape Girardeau, MO$$$Watami Sushi & Hibachi
+  Steakhouse in Cape Girardeau, MO, brings authentic Japanese flavors to the
+  heart of the Midwest with its fresh sushi rolls and sizzling hibachi dishes.
+  This welcoming spot features a variety of options including sake and creative
+  cocktails, making it a go-to choice for those seeking Japanese cuisine near
+  you. The restaurant boasts accessible features like wheelchair-friendly
+  entrances and seating, ensuring a comfortable experience for all diners. With
+  its operational hours extending into the evening, it's ideal for casual
+  lunches or dinners, complemented by a lively atmosphere that highlights
+  top-rated sushi preparations.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Love About This Spot$$$Folks around Cape Girardeau often rave
+  about the fresh and flavorful sushi offerings at this popular Japanese
+  restaurant, with many highlighting the variety and quality that keep them
+  coming back. Diners appreciate the solid hibachi experience and overall vibe,
+  noting that the service adds to the enjoyable meal without any major hiccups.
+  Based on the high ratings, it's clear that the spot delivers on tasty dishes
+  and a relaxed setting, making it a favorite for groups or solo outings when
+  you're in the mood for reliable Japanese eats. While opinions vary as with any
+  place, the general buzz leans positive, emphasizing great value for those
+  exploring sushi restaurants nearby. All in all, it's a solid pick if you're
+  hunting for dependable flavors that satisfy without breaking the bank.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +310,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

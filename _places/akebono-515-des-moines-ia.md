@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Akebono 515"
+title: Akebono 515
 permalink: /iowa/des-moines/akebono-515.html
 stateAbbr: IA
 stateName: Iowa
 cityName: Des Moines
 seo:
-  name: "Akebono 515"
-  type: Restaurant
+  type: restaurant
   links: http://akebono515.com/
-description: "Sleek, contemporary restaurant & bar offering sushi, cooked Japanese dishes & cocktails. Akebono 515 serves delicious sushi in Des Moines, Iowa. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJE7pwewKZ7ocRXbpT1yCr91k
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $20 &ndash; $30
 rating: '4.7'
 rating_count: 0
 website: http://akebono515.com/
+description: >-
+  Discover Akebono 515 in Des Moines, IA$$$Akebono 515 in Des Moines, IA, stands
+  out as a modern Japanese restaurant blending fresh sushi options with a
+  welcoming atmosphere perfect for casual dining. This spot offers an array of
+  sushi rolls, sake selections, and bento boxes, making it a go-to choice for
+  those seeking authentic Japanese flavors in a relaxed setting. With happy hour
+  specials and a dedicated sushi bar, it's ideal for enjoying top-rated dishes
+  that highlight fresh ingredients and creative presentations. The restaurant
+  also features accessible entrances and seating, ensuring a comfortable
+  experience for all visitors, while its downtown location adds to the
+  convenience for anyone searching for quality sushi restaurants nearby.
+generative_summary: >-
+  Discover Akebono 515 in Des Moines, IA$$$Akebono 515 in Des Moines, IA, stands
+  out as a modern Japanese restaurant blending fresh sushi options with a
+  welcoming atmosphere perfect for casual dining. This spot offers an array of
+  sushi rolls, sake selections, and bento boxes, making it a go-to choice for
+  those seeking authentic Japanese flavors in a relaxed setting. With happy hour
+  specials and a dedicated sushi bar, it's ideal for enjoying top-rated dishes
+  that highlight fresh ingredients and creative presentations. The restaurant
+  also features accessible entrances and seating, ensuring a comfortable
+  experience for all visitors, while its downtown location adds to the
+  convenience for anyone searching for quality sushi restaurants nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJE7pwewKZ7ocRXbpT1yCr91k/reviews/ChZDSUhNMG9nS0VJQ0FnTURJNnFPV0hREAE
@@ -402,6 +423,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQzMV91Y1hnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQzMV91Y1hnEAE!2m1!1s0x87ee99027b70ba13:0x59f7ab20d753ba5d
+review_summary: >-
+  What Visitors Are Raving About$$$Folks who visit Akebono 515 often praise the
+  flavorful sushi rolls and appetizers like dumplings, noting how the menu
+  strikes a great balance of taste and affordability. Many highlight the
+  friendly service and lively vibe, which make dining out feel welcoming and
+  enjoyable, especially during busy evenings. Reviewers frequently mention
+  standout dishes that bring a bit of heat or unique twists, helping it stand
+  out as one of the best sushi spots in the area for groups or casual meals.
+  Overall, the clean, modern setting and quick service keep the experience
+  positive, encouraging repeat visits for anyone exploring top-rated Japanese
+  places nearby.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidStreetParking: true
 payment_options:
@@ -432,8 +465,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Sleek, contemporary restaurant & bar offering sushi, cooked Japanese dishes &
   cocktails.
 

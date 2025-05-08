@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "AO Sushi"
+title: AO Sushi
 permalink: /illinois/wilmette/ao-sushi.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Wilmette
 seo:
-  name: "AO Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://aosushi.com/
-description: "Snug stop with sushi to go & a few dine-in seats, plus a small Japanese grocery & fish market. AO Sushi serves delicious sushi in Wilmette, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJR1upE7_FD4gRlj-4mRNqRRE
 photos:
   - name: >-
@@ -183,6 +181,33 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 0
 website: http://aosushi.com/
+description: >-
+  Explore AO Sushi in Wilmette, IL$$$AO Sushi in Wilmette, IL, offers a casual
+  and welcoming spot for fresh Japanese cuisine, blending made-to-order sushi
+  and seafood with options for both dine-in and carryout. This cozy eatery
+  stands out for its high-quality ingredients, including a selection of
+  specialty rolls and vegetarian choices that appeal to a variety of tastes.
+  Visitors can enjoy a small Japanese grocery and fish market alongside their
+  meal, making it a convenient destination for quick bites or thoughtful
+  take-home treats. With accessible features like wheelchair-friendly entrances
+  and parking, it's designed for easy visits, enhancing the overall experience
+  for anyone seeking authentic flavors. Whether you're in the mood for top-rated
+  sushi or exploring Japanese places nearby, this spot delivers a satisfying and
+  straightforward dining option.
+generative_summary: >-
+  Explore AO Sushi in Wilmette, IL$$$AO Sushi in Wilmette, IL, offers a casual
+  and welcoming spot for fresh Japanese cuisine, blending made-to-order sushi
+  and seafood with options for both dine-in and carryout. This cozy eatery
+  stands out for its high-quality ingredients, including a selection of
+  specialty rolls and vegetarian choices that appeal to a variety of tastes.
+  Visitors can enjoy a small Japanese grocery and fish market alongside their
+  meal, making it a convenient destination for quick bites or thoughtful
+  take-home treats. With accessible features like wheelchair-friendly entrances
+  and parking, it's designed for easy visits, enhancing the overall experience
+  for anyone seeking authentic flavors. Whether you're in the mood for top-rated
+  sushi or exploring Japanese places nearby, this spot delivers a satisfying and
+  straightforward dining option.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJR1upE7_FD4gRlj-4mRNqRRE/reviews/ChdDSUhNMG9nS0VJQ0FnTURJOXZmRW1nRRAB
@@ -354,6 +379,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN6cF8yNnRRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN6cF8yNnRRRRAB!2m1!1s0x880fc5bf13a95b47:0x11456a1399b83f96
+review_summary: >-
+  Customer Feedback on AO Sushi$$$Folks rave about the incredibly fresh sushi
+  and generous portions that make grabbing a quick meal feel like a treat, with
+  plenty of options for specialty rolls, maki, and even vegetarian picks to suit
+  different preferences. Many appreciate the speedy service for takeout, noting
+  how the quality holds up well for on-the-go eats, and the variety keeps things
+  exciting for repeat visits. While most experiences highlight the great value
+  and authentic flavors that stand out in the area, a few mention minor
+  frustrations with online ordering details that could be smoother. Overall,
+  it's a solid choice for anyone searching for reliable sushi restaurants
+  nearby, offering a mix of delicious options and friendly vibes that encourage
+  coming back. If you're hunting for the best sushi around, this place generally
+  delivers on taste and convenience without any major letdowns.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -386,8 +425,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Snug stop with sushi to go & a few dine-in seats, plus a small Japanese
   grocery & fish market.
 

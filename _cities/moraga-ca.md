@@ -5,4 +5,5 @@ permalink: /california/moraga/
 stateAbbr: CA
 stateName: California
 cityName: Moraga
+
 ---

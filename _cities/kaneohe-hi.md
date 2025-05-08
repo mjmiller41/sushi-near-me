@@ -5,4 +5,5 @@ permalink: /hawaii/kaneohe/
 stateAbbr: HI
 stateName: Hawaii
 cityName: Kaneohe
+
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Fontana Sushi"
+title: Fontana Sushi
 permalink: /colorado/littleton/fontana-sushi.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Littleton
 seo:
-  name: "Fontana Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Fontana Sushi serves delicious sushi in Littleton, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJSyvh1xB_a4cRG5fqg4lavEM
 photos:
   - name: >-
@@ -185,7 +183,41 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  About Fontana Sushi in Littleton, CO$$$Fontana Sushi in Littleton, CO, offers
+  a relaxed environment perfect for enjoying a variety of Japanese dishes,
+  making it a go-to choice for sushi enthusiasts in the area. This spot features
+  an array of fresh sushi options alongside other traditional Japanese
+  favorites, all served in a laid-back setting that invites casual dining. With
+  options like happy hour specials, it's ideal for those seeking affordable and
+  flavorful meals after a long day. If you're exploring sushi restaurants nearby
+  or looking for Japanese places close to home, the emphasis on quality
+  ingredients and a welcoming vibe sets this location apart as a solid option
+  for everyday eats.
+generative_summary: >-
+  About Fontana Sushi in Littleton, CO$$$Fontana Sushi in Littleton, CO, offers
+  a relaxed environment perfect for enjoying a variety of Japanese dishes,
+  making it a go-to choice for sushi enthusiasts in the area. This spot features
+  an array of fresh sushi options alongside other traditional Japanese
+  favorites, all served in a laid-back setting that invites casual dining. With
+  options like happy hour specials, it's ideal for those seeking affordable and
+  flavorful meals after a long day. If you're exploring sushi restaurants nearby
+  or looking for Japanese places close to home, the emphasis on quality
+  ingredients and a welcoming vibe sets this location apart as a solid option
+  for everyday eats.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What People Are Saying About the Food$$$Visitors often praise the flavorful
+  sushi rolls and other Japanese dishes at this spot, highlighting how the fresh
+  ingredients make every bite enjoyable and satisfying. Many note the great
+  value for money, with tasty options like teriyaki and dumplings that keep
+  things exciting without breaking the bank. The staff comes across as friendly
+  and attentive, adding to the overall pleasant atmosphere that makes it easy to
+  relax and unwind. Overall, it's a favorite for anyone hunting for top-rated
+  sushi experiences, where the combination of delicious food and a comfortable
+  setting keeps folks coming back for more casual, everyday indulgences.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +243,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

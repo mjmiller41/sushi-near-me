@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Niji"
+title: Sushi Niji
 permalink: /new-york/dobbs-ferry/sushi-niji.html
 stateAbbr: NY
 stateName: New York
 cityName: Dobbs Ferry
 seo:
-  name: "Sushi Niji"
-  type: Restaurant
+  type: restaurant
   links: http://www.73sushiniji.com/
-description: "Sushi Niji serves delicious sushi in Dobbs Ferry, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJtWjEgfXtwokRFAyvbEigIWI
 photos:
   - name: >-
@@ -170,7 +168,89 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c2edf581c468b5:0x6221a0486caf0c14!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 13
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 15
+      close:
+        day: 1
+        hour: 15
+        minute: 15
+    - open:
+        day: 1
+        hour: 16
+        minute: 15
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 15
+      close:
+        day: 3
+        hour: 15
+        minute: 15
+    - open:
+        day: 3
+        hour: 16
+        minute: 15
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 15
+      close:
+        day: 4
+        hour: 15
+        minute: 15
+    - open:
+        day: 4
+        hour: 16
+        minute: 15
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 15
+      close:
+        day: 5
+        hour: 15
+        minute: 15
+    - open:
+        day: 5
+        hour: 16
+        minute: 15
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 12
+        minute: 15
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:15 AM – 3:15 PM, 4:15 – 10:00 PM'
     - 'Tuesday: Closed'
     - 'Wednesday: 11:15 AM – 3:15 PM, 4:15 – 10:00 PM'
@@ -178,14 +258,7 @@ opening_hours:
     - 'Friday: 11:15 AM – 3:15 PM, 4:15 – 10:30 PM'
     - 'Saturday: 12:15 – 10:30 PM'
     - 'Sunday: 1:00 – 10:00 PM'
-  current:
-    - 'Monday: 11:15 AM – 3:15 PM, 4:15 – 10:00 PM'
-    - 'Tuesday: Closed'
-    - 'Wednesday: 11:15 AM – 3:15 PM, 4:15 – 10:00 PM'
-    - 'Thursday: 11:15 AM – 3:15 PM, 4:15 – 10:00 PM'
-    - 'Friday: 11:15 AM – 3:15 PM, 4:15 – 10:30 PM'
-    - 'Saturday: 12:15 – 10:30 PM'
-    - 'Sunday: 1:00 – 10:00 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +270,46 @@ phone: (914) 693-8838
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.7'
-rating_count: 0
+rating_count: 62
 website: http://www.73sushiniji.com/
+description: >-
+  Discover Sushi Niji in Dobbs Ferry, NY$$$Sushi Niji in Dobbs Ferry, NY, stands
+  out as a welcoming spot for enjoying authentic Japanese dishes in a casual
+  atmosphere. This restaurant specializes in fresh sushi, sashimi, and tempura,
+  making it a go-to choice for those seeking flavorful Japanese fare in the
+  area. With its moderate pricing and accessibility features like
+  wheelchair-friendly entrances and seating, it's designed to accommodate a
+  variety of diners looking for a comfortable meal. The spot also boasts
+  extended hours for lunch and dinner, allowing visitors to savor top-quality
+  options whether stopping by midday or in the evening. As one of the reliable
+  sushi restaurants near you, it combines simplicity with satisfying flavors
+  that keep locals returning for more.
+generative_summary: >-
+  Discover Sushi Niji in Dobbs Ferry, NY$$$Sushi Niji in Dobbs Ferry, NY, stands
+  out as a welcoming spot for enjoying authentic Japanese dishes in a casual
+  atmosphere. This restaurant specializes in fresh sushi, sashimi, and tempura,
+  making it a go-to choice for those seeking flavorful Japanese fare in the
+  area. With its moderate pricing and accessibility features like
+  wheelchair-friendly entrances and seating, it's designed to accommodate a
+  variety of diners looking for a comfortable meal. The spot also boasts
+  extended hours for lunch and dinner, allowing visitors to savor top-quality
+  options whether stopping by midday or in the evening. As one of the reliable
+  sushi restaurants near you, it combines simplicity with satisfying flavors
+  that keep locals returning for more.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Say About This Sushi Favorite$$$Folks around here often rave
+  about the tasty sushi rolls and great lunch deals that make this Japanese spot
+  a solid pick for everyday eats. Many appreciate the quick service and friendly
+  vibe that enhance the overall dining experience without any fuss. Customers
+  frequently note the fantastic balance of quality food and reasonable prices,
+  turning it into a go-to for those hunting for the best sushi near me. While
+  opinions highlight its strengths, it's clear that the fresh ingredients and
+  efficient atmosphere keep things enjoyable for groups or solo visits. Overall,
+  it's a dependable choice for anyone exploring top-rated sushi places, offering
+  a positive and straightforward dining option that doesn't disappoint.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +335,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

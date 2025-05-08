@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sake Sushi"
+title: Sake Sushi
 permalink: /mississippi/meridian/sake-sushi.html
 stateAbbr: MS
 stateName: Mississippi
 cityName: Meridian
 seo:
-  name: "Sake Sushi"
-  type: Restaurant
-  links: null
-description: "Sake Sushi serves delicious sushi in Meridian, Mississippi. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.sakesushimeridian.com/
 place_id: ChIJXZeywp19hIgRB9VJLgtz_eA
 photos:
   - name: >-
@@ -170,22 +168,369 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x88847d9dc2b2975d:0xe0fd730b2e49d507!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 14
+        minute: 30
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 20
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 14
+        minute: 30
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 2:30 PM, 5:00 – 8:30 PM'
+    - 'Tuesday: 11:00 AM – 2:30 PM, 5:00 – 8:30 PM'
+    - 'Wednesday: 11:00 AM – 2:30 PM, 5:00 – 8:30 PM'
+    - 'Thursday: 11:00 AM – 2:30 PM, 5:00 – 8:30 PM'
+    - 'Friday: 11:00 AM – 2:30 PM, 5:00 – 9:30 PM'
+    - 'Saturday: 11:00 AM – 2:30 PM, 5:00 – 9:30 PM'
+    - 'Sunday: 11:30 AM – 2:30 PM, 5:00 – 8:30 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 11
+          minute: 30
+        close:
+          day: 0
+          hour: 14
+          minute: 30
+      - open:
+          day: 0
+          hour: 17
+          minute: 0
+        close:
+          day: 0
+          hour: 20
+          minute: 30
+      - open:
+          day: 1
+          hour: 11
+          minute: 0
+        close:
+          day: 1
+          hour: 14
+          minute: 30
+      - open:
+          day: 1
+          hour: 17
+          minute: 0
+        close:
+          day: 1
+          hour: 20
+          minute: 30
+      - open:
+          day: 2
+          hour: 11
+          minute: 0
+        close:
+          day: 2
+          hour: 14
+          minute: 30
+      - open:
+          day: 2
+          hour: 17
+          minute: 0
+        close:
+          day: 2
+          hour: 20
+          minute: 30
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 14
+          minute: 30
+      - open:
+          day: 3
+          hour: 17
+          minute: 0
+        close:
+          day: 3
+          hour: 20
+          minute: 30
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 14
+          minute: 30
+      - open:
+          day: 4
+          hour: 17
+          minute: 0
+        close:
+          day: 4
+          hour: 20
+          minute: 30
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 14
+          minute: 30
+      - open:
+          day: 5
+          hour: 17
+          minute: 0
+        close:
+          day: 5
+          hour: 21
+          minute: 30
+      - open:
+          day: 6
+          hour: 11
+          minute: 0
+        close:
+          day: 6
+          hour: 14
+          minute: 30
+      - open:
+          day: 6
+          hour: 17
+          minute: 0
+        close:
+          day: 6
+          hour: 21
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 11:00 AM – 2:30 PM, 5:00 – 8:30 PM'
+      - 'Tuesday: 11:00 AM – 2:30 PM, 5:00 – 8:30 PM'
+      - 'Wednesday: 11:00 AM – 2:30 PM, 5:00 – 8:30 PM'
+      - 'Thursday: 11:00 AM – 2:30 PM, 5:00 – 8:30 PM'
+      - 'Friday: 11:00 AM – 2:30 PM, 5:00 – 9:30 PM'
+      - 'Saturday: 11:00 AM – 2:30 PM, 5:00 – 9:30 PM'
+      - 'Sunday: 11:30 AM – 2:30 PM, 5:00 – 8:30 PM'
+    secondaryHoursType: TAKEOUT
+    nextCloseTime: '2025-05-04T02:30:00Z'
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 13
+          minute: 0
+        close:
+          day: 0
+          hour: 19
+          minute: 30
+      - open:
+          day: 1
+          hour: 13
+          minute: 0
+        close:
+          day: 1
+          hour: 19
+          minute: 30
+      - open:
+          day: 2
+          hour: 13
+          minute: 0
+        close:
+          day: 2
+          hour: 19
+          minute: 30
+      - open:
+          day: 3
+          hour: 13
+          minute: 0
+        close:
+          day: 3
+          hour: 19
+          minute: 30
+      - open:
+          day: 4
+          hour: 13
+          minute: 0
+        close:
+          day: 4
+          hour: 19
+          minute: 30
+      - open:
+          day: 5
+          hour: 13
+          minute: 0
+        close:
+          day: 5
+          hour: 19
+          minute: 30
+      - open:
+          day: 6
+          hour: 13
+          minute: 0
+        close:
+          day: 6
+          hour: 19
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 1:00 – 7:30 PM'
+      - 'Tuesday: 1:00 – 7:30 PM'
+      - 'Wednesday: 1:00 – 7:30 PM'
+      - 'Thursday: 1:00 – 7:30 PM'
+      - 'Friday: 1:00 – 7:30 PM'
+      - 'Saturday: 1:00 – 7:30 PM'
+      - 'Sunday: 1:00 – 7:30 PM'
+    secondaryHoursType: PICKUP
+    nextCloseTime: '2025-05-04T00:30:00Z'
+phone: (601) 482-8288
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.1'
+rating_count: 548
+website: https://www.sakesushimeridian.com/
+description: >-
+  Discover Sake Sushi in Meridian, Mississippi$$$Sake Sushi in Meridian,
+  Mississippi, stands out as a welcoming Japanese restaurant featuring a lively
+  hibachi grill that brings authentic flavors to your table. With options for
+  lunch, brunch, and dinner, this spot caters to those seeking fresh sushi and
+  creative dishes in a relaxed atmosphere, making it ideal for casual meals or
+  evening outings. The restaurant also offers happy-hour drinks, enhancing the
+  dining experience with affordable sips that pair perfectly with their menu.
+  Accessibility features like wheelchair-friendly parking and seating ensure
+  everyone can enjoy the vibrant setting, while its convenient location makes it
+  a top pick for anyone exploring sushi places near me. Whether you're in the
+  mood for traditional rolls or innovative entrees, Sake Sushi delivers a
+  satisfying blend of quality and convenience in the heart of the city.
+generative_summary: >-
+  Discover Sake Sushi in Meridian, Mississippi$$$Sake Sushi in Meridian,
+  Mississippi, stands out as a welcoming Japanese restaurant featuring a lively
+  hibachi grill that brings authentic flavors to your table. With options for
+  lunch, brunch, and dinner, this spot caters to those seeking fresh sushi and
+  creative dishes in a relaxed atmosphere, making it ideal for casual meals or
+  evening outings. The restaurant also offers happy-hour drinks, enhancing the
+  dining experience with affordable sips that pair perfectly with their menu.
+  Accessibility features like wheelchair-friendly parking and seating ensure
+  everyone can enjoy the vibrant setting, while its convenient location makes it
+  a top pick for anyone exploring sushi places near me. Whether you're in the
+  mood for traditional rolls or innovative entrees, Sake Sushi delivers a
+  satisfying blend of quality and convenience in the heart of the city.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Visitors to this Japanese eatery often highlight
+  the fresh, flavorful sushi and the fun hibachi experience as standout
+  features, contributing to its solid reputation among local dining spots. Many
+  appreciate the friendly service and reasonable prices, making it a go-to
+  choice for groups or families looking for a casual meal without any fuss.
+  While some note that wait times can vary during peak hours, the overall vibe
+  remains positive with praises for the variety of options that cater to
+  different tastes. Folks searching for reliable sushi restaurants near Meridian
+  tend to enjoy the consistent quality and welcoming environment, helping it
+  maintain a strong rating. All in all, it's a spot that delivers good value and
+  tasty bites, encouraging repeat visits for those who love sushi.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +556,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

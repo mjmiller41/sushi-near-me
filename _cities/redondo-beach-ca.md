@@ -5,4 +5,5 @@ permalink: /california/redondo-beach/
 stateAbbr: CA
 stateName: California
 cityName: Redondo Beach
+
 ---

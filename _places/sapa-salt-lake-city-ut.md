@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sapa"
+title: Sapa
 permalink: /utah/salt-lake-city/sapa.html
 stateAbbr: UT
 stateName: Utah
 cityName: Salt Lake City
 seo:
-  name: "Sapa"
-  type: Restaurant
+  type: restaurant
   links: https://www.sapabarandgrill.com/
-description: "Sapa serves delicious sushi in Salt Lake City, Utah. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ9Qb8ij31UocRYN6St9xX_EY
 photos:
   - name: >-
@@ -170,7 +168,97 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8752f53d8afc06f5:0x46fc57dcb792de60!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 15
+        minute: 0
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 15
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM'
     - 'Tuesday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM'
     - 'Wednesday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM'
@@ -178,14 +266,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 3:00 PM, 5:00 – 10:00 PM'
     - 'Saturday: 5:00 – 10:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM'
-    - 'Thursday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM'
-    - 'Friday: 11:00 AM – 3:00 PM, 5:00 – 10:00 PM'
-    - 'Saturday: 5:00 – 10:00 PM'
-    - 'Sunday: Closed'
+  nextOpenTime: '2025-05-03T23:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +278,352 @@ phone: (801) 363-7272
 price_level: PRICE_LEVEL_MODERATE
 price_range: $30 &ndash; $50
 rating: '4.6'
-rating_count: 0
+rating_count: 3292
 website: https://www.sapabarandgrill.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Explore Sapa in Salt Lake City, UT$$$Sapa in Salt Lake City, UT, stands out as
+  a welcoming Japanese restaurant blending fresh sushi rolls with Vietnamese
+  influences in a relaxed, inviting setting. The spot features a charming patio
+  and cozy atmosphere, making it ideal for casual dining or groups seeking
+  flavorful Asian fusion options. Patrons can enjoy a variety of expertly
+  prepared dishes, including vibrant cocktails and fresh fare, all served in a
+  space designed for accessibility and comfort. With moderate pricing and
+  options like outdoor seating, it's a go-to choice for those searching for
+  top-rated sushi restaurants in the area. This hidden gem combines authentic
+  flavors with modern vibes, perfect for anyone craving sushi places near me.
+generative_summary: >-
+  Explore Sapa in Salt Lake City, UT$$$Sapa in Salt Lake City, UT, stands out as
+  a welcoming Japanese restaurant blending fresh sushi rolls with Vietnamese
+  influences in a relaxed, inviting setting. The spot features a charming patio
+  and cozy atmosphere, making it ideal for casual dining or groups seeking
+  flavorful Asian fusion options. Patrons can enjoy a variety of expertly
+  prepared dishes, including vibrant cocktails and fresh fare, all served in a
+  space designed for accessibility and comfort. With moderate pricing and
+  options like outdoor seating, it's a go-to choice for those searching for
+  top-rated sushi restaurants in the area. This hidden gem combines authentic
+  flavors with modern vibes, perfect for anyone craving sushi places near me.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ9Qb8ij31UocRYN6St9xX_EY/reviews/ChZDSUhNMG9nS0VJQ0FnTUNvMlliQUZnEAE
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        Had a great experience at Sapa. The lamb sauté bento box really
+        impressed--huge portion for just $18, and the lamb was coated in a
+        flavorful, rich sauce with just the right amount of heat. The salad on
+        the side was crisp and refreshing, especially with the light, citrusy
+        dressing that balanced out the meal nicely.
+
+
+        We also shared the calamari, which was a standout. Super crispy with a
+        light, airy batter, and the dipping sauce had a sweet and sour blend
+        that had a subtle Southeast Asian vibe--really addictive. It came out
+        hot and fresh, and the portion was generous.
+
+
+        The sashimi plate was beautifully presented and tasted just as fresh as
+        it looked. The sauce on the side was unique--not something I've tried
+        before, but it complemented the fish in a really cool way. Definitely
+        better quality sashimi than what I've seen at most other spots around
+        SLC.
+
+
+        Service was attentive and friendly throughout, and we only waited about
+        5-10 minutes for a table, even on a busy lunch.
+
+
+        Overall, Sapa delivered on both flavor and value. Solid spot if you're
+        craving Japanese or fusion in the area.
+      languageCode: en
+    originalText:
+      text: >-
+        Had a great experience at Sapa. The lamb sauté bento box really
+        impressed--huge portion for just $18, and the lamb was coated in a
+        flavorful, rich sauce with just the right amount of heat. The salad on
+        the side was crisp and refreshing, especially with the light, citrusy
+        dressing that balanced out the meal nicely.
+
+
+        We also shared the calamari, which was a standout. Super crispy with a
+        light, airy batter, and the dipping sauce had a sweet and sour blend
+        that had a subtle Southeast Asian vibe--really addictive. It came out
+        hot and fresh, and the portion was generous.
+
+
+        The sashimi plate was beautifully presented and tasted just as fresh as
+        it looked. The sauce on the side was unique--not something I've tried
+        before, but it complemented the fish in a really cool way. Definitely
+        better quality sashimi than what I've seen at most other spots around
+        SLC.
+
+
+        Service was attentive and friendly throughout, and we only waited about
+        5-10 minutes for a table, even on a busy lunch.
+
+
+        Overall, Sapa delivered on both flavor and value. Solid spot if you're
+        craving Japanese or fusion in the area.
+      languageCode: en
+    authorAttribution:
+      displayName: d o
+      uri: https://www.google.com/maps/contrib/101449615754420452047/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIN0WZHUR6faMhdsdd_1elPq88MEzcX8sxMuRDZwnCEpDsM_A=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-18T10:05:19.439540Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNvMlliQUZnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNvMlliQUZnEAE!2m1!1s0x8752f53d8afc06f5:0x46fc57dcb792de60
+  - name: >-
+      places/ChIJ9Qb8ij31UocRYN6St9xX_EY/reviews/ChdDSUhNMG9nS0VJQ0FnTUNvczdqUnNRRRAB
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        I loved everything about this place, and I’m not even a sushi guy.
+
+
+        I was able to make my own custom roll, I call it the Brady Roll…anyway,
+        super good. It was basically a sushi version of a burrito.
+
+
+        Fantastic food, and great service!
+      languageCode: en
+    originalText:
+      text: >-
+        I loved everything about this place, and I’m not even a sushi guy.
+
+
+        I was able to make my own custom roll, I call it the Brady Roll…anyway,
+        super good. It was basically a sushi version of a burrito.
+
+
+        Fantastic food, and great service!
+      languageCode: en
+    authorAttribution:
+      displayName: Brady Crump
+      uri: https://www.google.com/maps/contrib/118403534174237535617/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVXBD462Mm2dKjqiHXGGg1hbe48il5-OwKaDilFsh2953rNftmn=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-04-19T18:29:28.223192Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNvczdqUnNRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNvczdqUnNRRRAB!2m1!1s0x8752f53d8afc06f5:0x46fc57dcb792de60
+  - name: >-
+      places/ChIJ9Qb8ij31UocRYN6St9xX_EY/reviews/ChZDSUhNMG9nS0VJQ0FnSURQeGRLZE5REAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        I loved the layout, decorations, and especially the patio at Sapa Sushi.
+        I wish it had been summer so I could’ve enjoyed dining outside. The
+        prices are fair, and the ingredients were very fresh. Customer service
+        was excellent, and the space is accommodating for large groups.
+
+
+        The sushi was delicious—not extraordinary, but made with good-quality
+        ingredients. One thing they should improve is their table cleaning
+        process. The washcloth they used had a noticeable humidity smell, which
+        was not appealing.
+
+
+        Overall, it was a good experience, and I’d recommend it!
+      languageCode: en
+    originalText:
+      text: >-
+        I loved the layout, decorations, and especially the patio at Sapa Sushi.
+        I wish it had been summer so I could’ve enjoyed dining outside. The
+        prices are fair, and the ingredients were very fresh. Customer service
+        was excellent, and the space is accommodating for large groups.
+
+
+        The sushi was delicious—not extraordinary, but made with good-quality
+        ingredients. One thing they should improve is their table cleaning
+        process. The washcloth they used had a noticeable humidity smell, which
+        was not appealing.
+
+
+        Overall, it was a good experience, and I’d recommend it!
+      languageCode: en
+    authorAttribution:
+      displayName: Valeria Pérez
+      uri: https://www.google.com/maps/contrib/117863422655022298066/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVDlfS9JheD_FTLYduspTm-5Im2TqPdfXZK88nMEcOIb-2WgDoV=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-12-06T22:49:55.924153Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURQeGRLZE5REAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURQeGRLZE5REAE!2m1!1s0x8752f53d8afc06f5:0x46fc57dcb792de60
+  - name: >-
+      places/ChIJ9Qb8ij31UocRYN6St9xX_EY/reviews/ChdDSUhNMG9nS0VJQ0FnTURvbVlxZ3lnRRAB
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        Terrific dinner experience at Sapa! Our party of nine were graciously
+        handled with just a 20 minute wait on a Friday night. The place was
+        packed so the host’s skills at getting us seats was much appreciated.
+
+
+        Water glasses were already filled when we got to our table. Nice touch.
+        Menus are a QR code scan away. The menu is huge but not in a certain
+        inexplicably popular purveyor of cheesecake and microwaved entrees kind
+        of way. Our server was delightful allowing us plenty of time to find
+        what suited our wide array of palettes, including three children and one
+        decidedly anti-sushi adult.
+
+
+        Starters included edamame, spicy edamame, pork dumplings (a big hit!),
+        and the filet mignon bites. My daughter, in an act of blasphemy, ordered
+        that medium well, but it was still a treat. The chef managed to keep the
+        filet tender enough to save it from medium well Hell.
+
+
+        The children and the lone anti-sushi adult slammed down their drunken
+        noodles and garlic noodles. Note on the garlic noodles - the garlic
+        level is turned up to 11 and will allow you to repel vampires for
+        months.
+
+
+        Sushi-wise, we got the Tataki, Vegas, Shrimp Crunchy and a couple of
+        others whose names escape me. The flavors though do not. Each one packed
+        taste in every bite. It doesn’t punch you in the face though, subtle is
+        the key as shrimp or ahi and avocado mix with rice and wasabi. It also
+        screams fresh. There’s no overly fishy smell here, which declares the
+        fish is fresh and real. No crab is spelled with a “k” here.
+
+
+        Looking forward to coming back!
+      languageCode: en
+    originalText:
+      text: >-
+        Terrific dinner experience at Sapa! Our party of nine were graciously
+        handled with just a 20 minute wait on a Friday night. The place was
+        packed so the host’s skills at getting us seats was much appreciated.
+
+
+        Water glasses were already filled when we got to our table. Nice touch.
+        Menus are a QR code scan away. The menu is huge but not in a certain
+        inexplicably popular purveyor of cheesecake and microwaved entrees kind
+        of way. Our server was delightful allowing us plenty of time to find
+        what suited our wide array of palettes, including three children and one
+        decidedly anti-sushi adult.
+
+
+        Starters included edamame, spicy edamame, pork dumplings (a big hit!),
+        and the filet mignon bites. My daughter, in an act of blasphemy, ordered
+        that medium well, but it was still a treat. The chef managed to keep the
+        filet tender enough to save it from medium well Hell.
+
+
+        The children and the lone anti-sushi adult slammed down their drunken
+        noodles and garlic noodles. Note on the garlic noodles - the garlic
+        level is turned up to 11 and will allow you to repel vampires for
+        months.
+
+
+        Sushi-wise, we got the Tataki, Vegas, Shrimp Crunchy and a couple of
+        others whose names escape me. The flavors though do not. Each one packed
+        taste in every bite. It doesn’t punch you in the face though, subtle is
+        the key as shrimp or ahi and avocado mix with rice and wasabi. It also
+        screams fresh. There’s no overly fishy smell here, which declares the
+        fish is fresh and real. No crab is spelled with a “k” here.
+
+
+        Looking forward to coming back!
+      languageCode: en
+    authorAttribution:
+      displayName: Michael Lyons
+      uri: https://www.google.com/maps/contrib/118128201094971827132/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUJwPsMNZ_a4WLojjnnomoizodGG464W3vSloDEo3RMUa9gDsJJ=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-04-26T12:33:54.171576Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURvbVlxZ3lnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURvbVlxZ3lnRRAB!2m1!1s0x8752f53d8afc06f5:0x46fc57dcb792de60
+  - name: >-
+      places/ChIJ9Qb8ij31UocRYN6St9xX_EY/reviews/ChZDSUhNMG9nS0VJQ0FnSUR2ay1MYll3EAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        This is my favourite spot for sushi. I live in Lehi but always want to
+        go there for sushi, it's worth the drive. The food never disappointed
+        (especially fillet mignon & margaritas). The price is very reasonable.
+        That's why they always busy.
+      languageCode: en
+    originalText:
+      text: >-
+        This is my favourite spot for sushi. I live in Lehi but always want to
+        go there for sushi, it's worth the drive. The food never disappointed
+        (especially fillet mignon & margaritas). The price is very reasonable.
+        That's why they always busy.
+      languageCode: en
+    authorAttribution:
+      displayName: Elly Huỳnh
+      uri: https://www.google.com/maps/contrib/105990030331646529948/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUOHohKol8pjSQkPAyAXYtTlxk33RDC5QLUraARwd-TOCnwSO4f=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-12-23T18:32:25.917465Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR2ay1MYll3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR2ay1MYll3EAE!2m1!1s0x8752f53d8afc06f5:0x46fc57dcb792de60
+review_summary: >-
+  Visitor Feedback on Sapa$$$Folks seem to really enjoy the fresh and flavorful
+  sushi at Sapa, often highlighting how the ingredients make every bite feel
+  just right without overwhelming the palate. Many appreciate the generous
+  portions and standout dishes like sashimi and appetizers, which offer great
+  value for a casual meal out. Service gets high marks for being friendly and
+  efficient, helping create a welcoming vibe whether you're dining with a group
+  or grabbing a quick lunch. While a few mentions note minor tweaks like table
+  cleanliness, the overall experience comes across as fun and satisfying,
+  especially on the patio. If you're on the hunt for reliable sushi spots
+  nearby, this place delivers solid, enjoyable vibes that keep people coming
+  back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  paidParkingLot: true
+  freeStreetParking: true
+  paidStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+curbside_pickup: true
+delivery: true
+dine_in: true
+good_for_children: false
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
+serves_coffee: true
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Asian fusion venue offering sushi & cocktails in a hip locale with a courtyard
+  & Japanese teahouses.
 
 ---

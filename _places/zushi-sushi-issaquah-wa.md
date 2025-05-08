@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Zushi Sushi"
+title: Zushi Sushi
 permalink: /washington/issaquah/zushi-sushi.html
 stateAbbr: WA
 stateName: Washington
 cityName: Issaquah
 seo:
-  name: "Zushi Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://zushisushiissaquah.com/
-description: "Zushi Sushi serves delicious sushi in Issaquah, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJyYKiWL1vkFQR7pcAvu7viTQ
 photos:
   - name: >-
@@ -170,22 +168,89 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x54906fbd58a282c9:0x3489efeebe0097ee!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
-    - 'Monday: 11:30 AM – 2:30 PM, 4:00 – 9:00 PM'
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 15
+        minute: 0
+    - open:
+        day: 0
+        hour: 16
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 15
+        minute: 0
+    - open:
+        day: 6
+        hour: 16
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: Closed'
     - 'Tuesday: Closed'
-    - 'Wednesday: 11:00 AM – 2:30 PM, 4:00 – 9:00 PM'
+    - 'Wednesday: 4:00 – 9:00 PM'
     - 'Thursday: 11:30 AM – 2:30 PM, 4:00 – 9:00 PM'
     - 'Friday: 11:30 AM – 2:30 PM, 4:00 – 9:00 PM'
     - 'Saturday: 11:30 AM – 3:00 PM, 4:00 – 9:00 PM'
     - 'Sunday: 11:30 AM – 3:00 PM, 4:00 – 9:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 2:30 PM, 4:00 – 9:00 PM'
-    - 'Tuesday: Closed'
-    - 'Wednesday: 11:00 AM – 2:30 PM, 4:00 – 9:00 PM'
-    - 'Thursday: 11:30 AM – 2:30 PM, 4:00 – 9:00 PM'
-    - 'Friday: 11:30 AM – 2:30 PM, 4:00 – 9:00 PM'
-    - 'Saturday: 11:30 AM – 3:00 PM, 4:00 – 9:00 PM'
-    - 'Sunday: 11:30 AM – 3:00 PM, 4:00 – 9:00 PM'
+  nextOpenTime: '2025-05-03T23:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +262,244 @@ phone: (425) 557-4474
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.6'
-rating_count: 0
+rating_count: 389
 website: https://zushisushiissaquah.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Explore Zushi Sushi in Issaquah, WA$$$Zushi Sushi in Issaquah, WA, offers a
+  relaxed Japanese dining experience in a strip-mall setting, featuring creative
+  sushi rolls and fresh sashimi alongside classic cooked dishes. This welcoming
+  spot stands out for its family-friendly vibe, accessibility features like
+  wheelchair-friendly parking and seating, and a menu that includes options for
+  vegetarians and groups. With moderate pricing and options for beer and wine,
+  it's an ideal choice for anyone seeking quality Japanese cuisine in a
+  comfortable atmosphere. The restaurant's thoughtful details, such as ample
+  parking and dine-in services, make it a convenient go-to for sushi enthusiasts
+  exploring local eateries. Whether you're in the mood for inventive rolls or a
+  quick lunch, Zushi Sushi delivers a satisfying blend of flavors that highlight
+  the best of Japanese traditions near you.
+generative_summary: >-
+  Explore Zushi Sushi in Issaquah, WA$$$Zushi Sushi in Issaquah, WA, offers a
+  relaxed Japanese dining experience in a strip-mall setting, featuring creative
+  sushi rolls and fresh sashimi alongside classic cooked dishes. This welcoming
+  spot stands out for its family-friendly vibe, accessibility features like
+  wheelchair-friendly parking and seating, and a menu that includes options for
+  vegetarians and groups. With moderate pricing and options for beer and wine,
+  it's an ideal choice for anyone seeking quality Japanese cuisine in a
+  comfortable atmosphere. The restaurant's thoughtful details, such as ample
+  parking and dine-in services, make it a convenient go-to for sushi enthusiasts
+  exploring local eateries. Whether you're in the mood for inventive rolls or a
+  quick lunch, Zushi Sushi delivers a satisfying blend of flavors that highlight
+  the best of Japanese traditions near you.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJyYKiWL1vkFQR7pcAvu7viTQ/reviews/ChZDSUhNMG9nS0VJQ0FnSUNmZzlxbVRBEAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        Such kind hosts, food was delicious, the service was quick, and the
+        atmosphere was really nice. Mango salad was interesting. It would be so
+        much more popular if they had a better location though. I really
+        recommend this place!
+      languageCode: en
+    originalText:
+      text: >-
+        Such kind hosts, food was delicious, the service was quick, and the
+        atmosphere was really nice. Mango salad was interesting. It would be so
+        much more popular if they had a better location though. I really
+        recommend this place!
+      languageCode: en
+    authorAttribution:
+      displayName: Allyssa Mcclurkin
+      uri: https://www.google.com/maps/contrib/109861166393068940859/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjX_SAgfrHwQy8hxFMeOrECW8UuHPezxNrBRhXjjA9ZeandasiU=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-01-01T01:41:30.627740Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNmZzlxbVRBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNmZzlxbVRBEAE!2m1!1s0x54906fbd58a282c9:0x3489efeebe0097ee
+  - name: >-
+      places/ChIJyYKiWL1vkFQR7pcAvu7viTQ/reviews/ChdDSUhNMG9nS0VJQ0FnSUR2ME11dzhBRRAB
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        Very cute sushi spot! I stopped in for lunch and had a wonderful meal of
+        miso, California rolls, and tuna nigiri with a special treat, deep fried
+        oreo!
+
+
+        I would recommend this place, it's very quick and easy, and the prices
+        are best in the neighborhood!
+      languageCode: en
+    originalText:
+      text: >-
+        Very cute sushi spot! I stopped in for lunch and had a wonderful meal of
+        miso, California rolls, and tuna nigiri with a special treat, deep fried
+        oreo!
+
+
+        I would recommend this place, it's very quick and easy, and the prices
+        are best in the neighborhood!
+      languageCode: en
+    authorAttribution:
+      displayName: Emily Thiel
+      uri: https://www.google.com/maps/contrib/116946289269856122836/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjX9wfDcjey19kPCFGfuGZWkqC8ul1Ou1WQo0clLp0vqrugJAz2V=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-12-16T21:07:00.928630Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR2ME11dzhBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR2ME11dzhBRRAB!2m1!1s0x54906fbd58a282c9:0x3489efeebe0097ee
+  - name: >-
+      places/ChIJyYKiWL1vkFQR7pcAvu7viTQ/reviews/ChZDSUhNMG9nS0VJQ0FnSURucnNidUdREAE
+    relativePublishTimeDescription: 6 months ago
+    rating: 5
+    text:
+      text: >-
+        I had a glorious meal alone by myself, big deal for a parent. Super
+        pleasant staff, quite prompt and checked on me often. The fish was fresh
+        and practically melted- amazing quality. For the lemon wedge salmon
+        lover sushi roll the rind was too thick to eat and other places it was
+        cut thin enough I didn’t have to peel it myself, only feedback. It was
+        sweet they brought me a fried Oreo but I’m gf. Such a cool idea! The
+        bento is robust. Never been somewhere that offers high quality sushi or
+        sashimi and multiple options not just a California roll. Love that. I
+        was the only person without kids there (for once!!) definitely family
+        friendly. Going to be a favorite when visiting great grandma for sure 😁
+        thank you!
+      languageCode: en
+    originalText:
+      text: >-
+        I had a glorious meal alone by myself, big deal for a parent. Super
+        pleasant staff, quite prompt and checked on me often. The fish was fresh
+        and practically melted- amazing quality. For the lemon wedge salmon
+        lover sushi roll the rind was too thick to eat and other places it was
+        cut thin enough I didn’t have to peel it myself, only feedback. It was
+        sweet they brought me a fried Oreo but I’m gf. Such a cool idea! The
+        bento is robust. Never been somewhere that offers high quality sushi or
+        sashimi and multiple options not just a California roll. Love that. I
+        was the only person without kids there (for once!!) definitely family
+        friendly. Going to be a favorite when visiting great grandma for sure 😁
+        thank you!
+      languageCode: en
+    authorAttribution:
+      displayName: Grace June
+      uri: https://www.google.com/maps/contrib/103211193189747356666/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUB4W5ArzhxpQDhz8Z4YvpUu0v5Uc8NUHDaumrZdJeUUJ4gpAwnng=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-10-06T00:21:43.481202Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURucnNidUdREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURucnNidUdREAE!2m1!1s0x54906fbd58a282c9:0x3489efeebe0097ee
+  - name: >-
+      places/ChIJyYKiWL1vkFQR7pcAvu7viTQ/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3cjRtZDlBRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        We’ve come here a few times for a family birthday dinner and date
+        nights. They gave us a complimentary appetizer without us evening
+        mentioning celebrating a birthday. The atmosphere is comfortable, and is
+        a good place for families. The sushi is excellent and the prices are
+        good.
+      languageCode: en
+    originalText:
+      text: >-
+        We’ve come here a few times for a family birthday dinner and date
+        nights. They gave us a complimentary appetizer without us evening
+        mentioning celebrating a birthday. The atmosphere is comfortable, and is
+        a good place for families. The sushi is excellent and the prices are
+        good.
+      languageCode: en
+    authorAttribution:
+      displayName: Rhayelle Faria
+      uri: https://www.google.com/maps/contrib/114479239580749147986/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKoxIQCTV-4Dsv4Cp0V4GKcg9RnWp7IKxr1Bjis1UbIGG_0IA=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-29T03:45:40.601209Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUR3cjRtZDlBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUR3cjRtZDlBRRAB!2m1!1s0x54906fbd58a282c9:0x3489efeebe0097ee
+  - name: >-
+      places/ChIJyYKiWL1vkFQR7pcAvu7viTQ/reviews/ChdDSUhNMG9nS0VJQ0FnSUNYMjZTVHV3RRAB
+    relativePublishTimeDescription: 6 months ago
+    rating: 5
+    text:
+      text: >-
+        This place rocks! Such sweet and excellent service. Our food was too
+        good, we scarfed it down before a picture could be taken. Had the crazy
+        horse and crazy monkey roll!
+      languageCode: en
+    originalText:
+      text: >-
+        This place rocks! Such sweet and excellent service. Our food was too
+        good, we scarfed it down before a picture could be taken. Had the crazy
+        horse and crazy monkey roll!
+      languageCode: en
+    authorAttribution:
+      displayName: Cabryna Harkness
+      uri: https://www.google.com/maps/contrib/111809079647075096796/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUceSQF21aPU-3IrwI1eyE0B7bsDBJDGJR3hxh23DJQsgN4d5bsRA=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2024-10-20T21:14:31.740817Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNYMjZTVHV3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNYMjZTVHV3RRAB!2m1!1s0x54906fbd58a282c9:0x3489efeebe0097ee
+review_summary: >-
+  What People Love About the Reviews$$$Visitors to this sushi spot often rave
+  about the fresh, high-quality fish and creative rolls that make every meal
+  feel special, with many noting it as a standout option for affordable Japanese
+  dining. Folks appreciate the friendly and efficient service that keeps things
+  light and enjoyable, perfect for family outings or casual get-togethers. The
+  cozy, welcoming atmosphere gets high marks for being kid-friendly and
+  comfortable, adding to the overall charm without overwhelming the experience.
+  While some mention fun extras like complimentary treats, the general consensus
+  is that the value and taste keep customers coming back for more. If you're
+  hunting for top-rated sushi places nearby, this spot consistently delivers a
+  positive vibe that makes it worth trying out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: true
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
 serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Laid-back strip-mall Japanese eatery serving cooked fare alongside creative
+  sushi rolls & sashimi.
 
 ---

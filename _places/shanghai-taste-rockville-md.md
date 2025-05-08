@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Shanghai Taste"
+title: Shanghai Taste
 permalink: /maryland/rockville/shanghai-taste.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Rockville
 seo:
-  name: "Shanghai Taste"
-  type: Restaurant
+  type: restaurant
   links: https://shanghaitaste1121.wixsite.com/website
-description: "Shanghai Taste serves delicious sushi in Rockville, Maryland. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJzTcYgkHNt4kRYYjHwMR0mmY
 photos:
   - name: >-
@@ -169,7 +167,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89b7cd41821837cd:0x669a74c4c0c78861!10e5
 primary_type: Chinese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -177,14 +225,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:00 PM'
     - 'Saturday: 11:00 AM – 9:00 PM'
     - 'Sunday: 11:00 AM – 9:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 9:00 PM'
-    - 'Saturday: 11:00 AM – 9:00 PM'
-    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T01:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,9 +237,49 @@ phone: (301) 279-0806
 price_level: PRICE_LEVEL_INEXPENSIVE
 price_range: $10 &ndash; $20
 rating: '4.1'
-rating_count: 0
+rating_count: 554
 website: https://shanghaitaste1121.wixsite.com/website
+description: >-
+  Discover Shanghai Taste in Rockville, MD$$$Shanghai Taste in Rockville, MD,
+  offers a charming introduction to traditional Shanghainese flavors, featuring
+  a selection of hearty dishes in a cozy, intimate setting. This eatery
+  specializes in authentic options like soup dumplings and savory pancakes,
+  drawing on time-honored recipes that highlight fresh ingredients and bold
+  tastes. With accessibility features such as wheelchair-friendly parking and
+  entrances, it's a welcoming spot for a variety of diners looking to enjoy
+  casual, flavorful meals. Operating from Tuesday through Sunday with hours that
+  accommodate lunch and dinner crowds, the restaurant provides an affordable
+  dining experience that captures the essence of regional Chinese cuisine. For
+  those exploring local eateries in the area, it's a go-to choice for genuine,
+  satisfying flavors that evoke a sense of cultural discovery.
+generative_summary: >-
+  Discover Shanghai Taste in Rockville, MD$$$Shanghai Taste in Rockville, MD,
+  offers a charming introduction to traditional Shanghainese flavors, featuring
+  a selection of hearty dishes in a cozy, intimate setting. This eatery
+  specializes in authentic options like soup dumplings and savory pancakes,
+  drawing on time-honored recipes that highlight fresh ingredients and bold
+  tastes. With accessibility features such as wheelchair-friendly parking and
+  entrances, it's a welcoming spot for a variety of diners looking to enjoy
+  casual, flavorful meals. Operating from Tuesday through Sunday with hours that
+  accommodate lunch and dinner crowds, the restaurant provides an affordable
+  dining experience that captures the essence of regional Chinese cuisine. For
+  those exploring local eateries in the area, it's a go-to choice for genuine,
+  satisfying flavors that evoke a sense of cultural discovery.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Visitor Feedback on Shanghai Taste$$$Folks often rave about the tasty standout
+  dishes at this spot, like the flavorful soup dumplings and crispy radish cake
+  that really hit the spot for a comforting meal. Many appreciate the warm,
+  attentive service that makes the atmosphere feel inviting and relaxed, perfect
+  for a casual outing with friends or family. While some mention the staff's
+  enthusiasm for tips as a minor downside, it doesn't overshadow the overall
+  positive vibe and solid food quality that keeps people coming back. Overall,
+  it's a reliable choice for anyone seeking authentic Shanghainese eats, with
+  the menu's highlights earning high marks for freshness and value. If you're in
+  the mood for hearty, well-prepared options nearby, this place delivers a
+  generally enjoyable experience that's worth checking out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -224,7 +305,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

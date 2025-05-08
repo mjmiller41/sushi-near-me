@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Bonchon New Haven"
+title: Bonchon New Haven
 permalink: /connecticut/new-haven/bonchon-new-haven.html
 stateAbbr: CT
 stateName: Connecticut
 cityName: New Haven
 seo:
-  name: "Bonchon New Haven"
-  type: Restaurant
-  links: null
-description: "Bonchon New Haven serves delicious sushi in New Haven, Connecticut. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://locations.bonchon.com/ll/US/CT/New-Haven/170-College-St
 place_id: ChIJH4Q-70zY54kRkmpOyuakZmA
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89e7d84cef3e841f:0x6066a4e6ca4e6a92!10e5
 primary_type: Asian Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 10:00 PM'
+    - 'Tuesday: 11:00 AM – 10:00 PM'
+    - 'Wednesday: 11:00 AM – 10:00 PM'
+    - 'Thursday: 11:00 AM – 10:00 PM'
+    - 'Friday: 11:00 AM – 11:00 PM'
+    - 'Saturday: 11:00 AM – 11:00 PM'
+    - 'Sunday: 11:00 AM – 10:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,50 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (203) 507-2159
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.3'
+rating_count: 749
+website: https://locations.bonchon.com/ll/US/CT/New-Haven/170-College-St
+description: >-
+  Discover Bonchon in New Haven, CT$$$Bonchon New Haven in New Haven, CT, stands
+  out as a vibrant spot for Asian fusion dining, offering a lively atmosphere
+  perfect for casual meals. This family-oriented eatery specializes in flavorful
+  Korean-inspired dishes, including crispy fried options and bold flavors that
+  appeal to those seeking authentic Asian cuisine near urban hubs. With
+  accessible features like wheelchair-friendly entrances and parking, it caters
+  to a wide range of visitors looking for inclusive dining experiences. The spot
+  maintains extended hours, making it a convenient choice for lunch or dinner,
+  and its moderate pricing adds to its appeal for everyday outings. Whether
+  you're exploring top-rated Asian places near me, this location delivers a
+  satisfying blend of taste and convenience in a welcoming setting.
+generative_summary: >-
+  Discover Bonchon in New Haven, CT$$$Bonchon New Haven in New Haven, CT, stands
+  out as a vibrant spot for Asian fusion dining, offering a lively atmosphere
+  perfect for casual meals. This family-oriented eatery specializes in flavorful
+  Korean-inspired dishes, including crispy fried options and bold flavors that
+  appeal to those seeking authentic Asian cuisine near urban hubs. With
+  accessible features like wheelchair-friendly entrances and parking, it caters
+  to a wide range of visitors looking for inclusive dining experiences. The spot
+  maintains extended hours, making it a convenient choice for lunch or dinner,
+  and its moderate pricing adds to its appeal for everyday outings. Whether
+  you're exploring top-rated Asian places near me, this location delivers a
+  satisfying blend of taste and convenience in a welcoming setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Raving About$$$Folks often praise the tasty soy garlic
+  wings and hearty bulgogi at this Asian fusion spot, noting how the flavors
+  really hit the spot for a satisfying meal. Many highlight the great value with
+  affordable prices and generous portions that leave you feeling full without
+  breaking the bank. While some mention that service can occasionally take a bit
+  longer during busy times, the overall vibe keeps things positive and worth the
+  wait. Overall, it's a solid pick for anyone craving flavorful Asian dishes in
+  a casual environment, making it a go-to for repeat visits. If you're on the
+  hunt for reliable Asian restaurants near me, this place delivers honest,
+  enjoyable eats that keep the good times rolling.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +311,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

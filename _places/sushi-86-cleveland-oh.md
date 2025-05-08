@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi 86"
+title: Sushi 86
 permalink: /ohio/cleveland/sushi-86.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Cleveland
 seo:
-  name: "Sushi 86"
-  type: Restaurant
-  links: null
-description: "Sushi 86 serves delicious sushi in Cleveland, Ohio. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.sushi86.com/
 place_id: ChIJbaiAvn_wMIgR-so0c_KbJWc
 photos:
   - name: >-
@@ -151,14 +149,82 @@ country: USA
 neighborhood: Downtown
 latitude: '41.509286'
 longitude: '-81.695348'
-accessibility_options: null
-business_status: null
+accessibility_options:
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleSeating: true
+business_status: OPERATIONAL
 name: Sushi 86
-google_maps_links: null
-primary_type: null
+google_maps_links:
+  directionsUri: >-
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x8830f07fbe80a86d:0x67259bf27334cafa!3e0
+  placeUri: https://maps.google.com/?cid=7432518225662102266
+  writeAReviewUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x8830f07fbe80a86d:0x67259bf27334cafa!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x8830f07fbe80a86d:0x67259bf27334cafa!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x8830f07fbe80a86d:0x67259bf27334cafa!10e5
+primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 15
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 20
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 20
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 3:00 PM'
+    - 'Tuesday: 11:00 AM – 3:00 PM'
+    - 'Wednesday: 11:00 AM – 3:00 PM'
+    - 'Thursday: 11:00 AM – 8:00 PM'
+    - 'Friday: 11:00 AM – 8:00 PM'
+    - 'Saturday: 11:00 AM – 8:00 PM'
+    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -166,39 +232,261 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
-reviews: null
-parking_options: null
-payment_options: null
+phone: (216) 621-8686
+price_level: PRICE_LEVEL_INEXPENSIVE
+price_range: $20 &ndash; $30
+rating: '4.6'
+rating_count: 332
+website: http://www.sushi86.com/
+description: >-
+  Discover Sushi 86 in Cleveland, OH$$$Sushi 86 in Cleveland, OH, stands out as
+  a casual waterside spot perfect for enjoying fresh sushi and Japanese-inspired
+  dishes in a relaxed setting. This sushi restaurant boasts vegetarian and
+  gluten-free options, making it a welcoming choice for various dietary
+  preferences, along with a selection of sake, beer, and happy hour specials
+  that enhance the dining vibe. Nestled in the vibrant Downtown area, it offers
+  easy access and accessibility features like wheelchair-friendly entrances,
+  ideal for a comfortable meal near the water. With convenient hours including
+  lunch and dinner services, it's a great pick for those seeking top-rated sushi
+  places in the area, blending affordability with quality flavors that keep
+  locals and visitors coming back.
+generative_summary: >-
+  Discover Sushi 86 in Cleveland, OH$$$Sushi 86 in Cleveland, OH, stands out as
+  a casual waterside spot perfect for enjoying fresh sushi and Japanese-inspired
+  dishes in a relaxed setting. This sushi restaurant boasts vegetarian and
+  gluten-free options, making it a welcoming choice for various dietary
+  preferences, along with a selection of sake, beer, and happy hour specials
+  that enhance the dining vibe. Nestled in the vibrant Downtown area, it offers
+  easy access and accessibility features like wheelchair-friendly entrances,
+  ideal for a comfortable meal near the water. With convenient hours including
+  lunch and dinner services, it's a great pick for those seeking top-rated sushi
+  places in the area, blending affordability with quality flavors that keep
+  locals and visitors coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJbaiAvn_wMIgR-so0c_KbJWc/reviews/ChdDSUhNMG9nS0VJQ0FnSURuMDhlWHdRRRAB
+    relativePublishTimeDescription: 6 months ago
+    rating: 4
+    text:
+      text: >-
+        The store is literal hidden gem, it was hidden but I found it. They were
+        out of most of the drinks and we were waiting for a while, but let me
+        say it was with it! The sushi tasted so fresh it was like they freshly
+        cut the salmon. It was so juicy and tender . The service was amazing
+        aswell. I would love to come back. The atmosphere was so calming  . 9/10
+        would be 10 if they had the drinks, but everything else was fantastic.
+      languageCode: en
+    originalText:
+      text: >-
+        The store is literal hidden gem, it was hidden but I found it. They were
+        out of most of the drinks and we were waiting for a while, but let me
+        say it was with it! The sushi tasted so fresh it was like they freshly
+        cut the salmon. It was so juicy and tender . The service was amazing
+        aswell. I would love to come back. The atmosphere was so calming  . 9/10
+        would be 10 if they had the drinks, but everything else was fantastic.
+      languageCode: en
+    authorAttribution:
+      displayName: Sem’s Thoughts
+      uri: https://www.google.com/maps/contrib/114848817636961555316/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjW7BlLKo4g8_sSnB_CWFci0BKJHYUuK4vc5GyfVLEIwHMKuhosd=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-10-09T18:22:34.800083Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURuMDhlWHdRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURuMDhlWHdRRRAB!2m1!1s0x8830f07fbe80a86d:0x67259bf27334cafa
+  - name: >-
+      places/ChIJbaiAvn_wMIgR-so0c_KbJWc/reviews/ChdDSUhNMG9nS0VJQ0FnSURqbWREUXNRRRAB
+    relativePublishTimeDescription: 12 months ago
+    rating: 5
+    text:
+      text: >-
+        We stopped after our visit to the Science Center. It's very pretty by
+        the lake. You can access it from either the front of the Science center,
+        or by walking behind the s.c over the tiny bridge. The sushi was
+        delicious.  Not busy at all for a Saturday lunch. Definitely would go
+        back. We ordered baby octopus, and I guess I wasn't expecting whole baby
+        octopuses, hahaha. Kind of shocked us, but I'm sure they were good, I
+        just can't eat food that is smiling at us! 😂😂😂🐙🐙🐙🐙 would
+        definitely recommend!
+      languageCode: en
+    originalText:
+      text: >-
+        We stopped after our visit to the Science Center. It's very pretty by
+        the lake. You can access it from either the front of the Science center,
+        or by walking behind the s.c over the tiny bridge. The sushi was
+        delicious.  Not busy at all for a Saturday lunch. Definitely would go
+        back. We ordered baby octopus, and I guess I wasn't expecting whole baby
+        octopuses, hahaha. Kind of shocked us, but I'm sure they were good, I
+        just can't eat food that is smiling at us! 😂😂😂🐙🐙🐙🐙 would
+        definitely recommend!
+      languageCode: en
+    authorAttribution:
+      displayName: Melanie Wood
+      uri: https://www.google.com/maps/contrib/108557848782872238175/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUSn6nhfmTLZ-xfcKR1o5iSA-n2dAlwEOuxXegaj_CwaIUeiMTJ=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-05-04T23:32:19.067092Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURqbWREUXNRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURqbWREUXNRRRAB!2m1!1s0x8830f07fbe80a86d:0x67259bf27334cafa
+  - name: >-
+      places/ChIJbaiAvn_wMIgR-so0c_KbJWc/reviews/ChZDSUhNMG9nS0VJQ0FnSUNsM1p1X1dBEAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        Love the new place! Great addition to North Coast Harbor. The restaurant
+        is very nice inside and will have patio seating along the water in the
+        summer. The sushi is great and reasonably priced. Service was great,
+        really liked the sushi chef. Short walk from the Rock and Roll Hall of
+        Fame and Science Center.
+
+
+        Only downside right now is that they don't have a liquor license, so no
+        beer or coctails...but sounds like they are working on that.
+
+
+        Definitely worth a visit...will definitely be back.
+      languageCode: en
+    originalText:
+      text: >-
+        Love the new place! Great addition to North Coast Harbor. The restaurant
+        is very nice inside and will have patio seating along the water in the
+        summer. The sushi is great and reasonably priced. Service was great,
+        really liked the sushi chef. Short walk from the Rock and Roll Hall of
+        Fame and Science Center.
+
+
+        Only downside right now is that they don't have a liquor license, so no
+        beer or coctails...but sounds like they are working on that.
+
+
+        Definitely worth a visit...will definitely be back.
+      languageCode: en
+    authorAttribution:
+      displayName: Kevin M
+      uri: https://www.google.com/maps/contrib/106594784695526480551/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVEMWp4x6WAuzTWVID3cqazsajwQOb3rblyLhFQsWCGAO9BAI4bkQ=s128-c0x00000000-cc-rp-mo-ba7
+    publishTime: '2023-11-25T02:37:14.420313Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNsM1p1X1dBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNsM1p1X1dBEAE!2m1!1s0x8830f07fbe80a86d:0x67259bf27334cafa
+  - name: >-
+      places/ChIJbaiAvn_wMIgR-so0c_KbJWc/reviews/ChdDSUhNMG9nS0VJQ0FnTUNvMFlPb3pRRRAB
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 2
+    text:
+      text: >-
+        The sushi is mediocre at best. The service is terrible. Warm water, 30
+        minutes before first refill, no ice upon refill, extremely slow food
+        service. Spicy edamame is nearly flavorless. Philly roll has a weird
+        aftertaste. This sushi is not worth the price.
+      languageCode: en
+    originalText:
+      text: >-
+        The sushi is mediocre at best. The service is terrible. Warm water, 30
+        minutes before first refill, no ice upon refill, extremely slow food
+        service. Spicy edamame is nearly flavorless. Philly roll has a weird
+        aftertaste. This sushi is not worth the price.
+      languageCode: en
+    authorAttribution:
+      displayName: A P
+      uri: https://www.google.com/maps/contrib/105498764948203720183/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVYTzMDo0GtmlxX8ppEJqnbYWFOsnq-46FVY4CGdMqAa7eiXPqH=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-17T19:57:41.194173Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNvMFlPb3pRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNvMFlPb3pRRRAB!2m1!1s0x8830f07fbe80a86d:0x67259bf27334cafa
+  - name: >-
+      places/ChIJbaiAvn_wMIgR-so0c_KbJWc/reviews/ChZDSUhNMG9nS0VJQ0FnSUNGM2V2dVJnEAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        The best sushi in Cleveland if not the USA. Classic, well prepared,
+        delicious, carefully crafted. Fresh fish, fresh rice, great combinations
+        and a highly skilled chef. Highly recommend if you have taste buds and
+        any idea what good food is.
+
+
+        Go here.
+      languageCode: en
+    originalText:
+      text: >-
+        The best sushi in Cleveland if not the USA. Classic, well prepared,
+        delicious, carefully crafted. Fresh fish, fresh rice, great combinations
+        and a highly skilled chef. Highly recommend if you have taste buds and
+        any idea what good food is.
+
+
+        Go here.
+      languageCode: en
+    authorAttribution:
+      displayName: Calin Alexander
+      uri: https://www.google.com/maps/contrib/118240415027000698392/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVVmBOClJZwBz7NuraFfMI-0UkGtAiUTFKTeXVjXhE2H_LFZ18=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2023-11-01T16:49:20.224641Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNGM2V2dVJnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNGM2V2dVJnEAE!2m1!1s0x8830f07fbe80a86d:0x67259bf27334cafa
+review_summary: >-
+  What Guests Are Saying About the Experience$$$Visitors to this sushi spot
+  often rave about the fresh, flavorful rolls and dishes that make it a standout
+  choice for anyone craving quality Japanese cuisine nearby. Many appreciate the
+  friendly service and reasonable prices, noting that the waterfront location
+  adds a relaxing touch to meals, though some mention occasional waits or
+  service hiccups that could be improved. Overall, the variety of options,
+  including vegan picks, keeps things exciting and accessible for groups, with
+  plenty of praise for the tender fish and creative combinations that hit the
+  spot. While a few folks point out minor issues like drink availability, the
+  general consensus leans positive, making it a solid recommendation for those
+  hunting for the best sushi around. If you're in the mood for a laid-back meal
+  at one of Cleveland's go-to sushi restaurants, this place delivers a
+  satisfying experience worth trying.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  paidParkingLot: true
+  paidStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
+curbside_pickup: true
+delivery: true
+dine_in: true
 good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: false
+serves_coffee: true
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Vegan, vegetarian & gluten-free-friendly Japanese joint serving maki, salads &
+  combination plates.
 
 ---

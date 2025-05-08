@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Oriental Jade Restaurant & Bar"
+title: Oriental Jade Restaurant & Bar
 permalink: /maine/bangor/oriental-jade-restaurant-bar.html
 stateAbbr: ME
 stateName: Maine
 cityName: Bangor
 seo:
-  name: "Oriental Jade Restaurant & Bar"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Oriental Jade Restaurant & Bar serves delicious sushi in Bangor, Maine. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJBSVwUZe0r0wR8wFivAxOGGg
 photos:
   - name: >-
@@ -177,7 +175,45 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Explore Oriental Jade in Bangor, ME$$$Oriental Jade Restaurant & Bar in
+  Bangor, ME, stands out as a welcoming Asian dining spot conveniently situated
+  near the Bangor Mall area, ideal for those seeking flavorful meals in a
+  relaxed setting. This eatery specializes in a variety of Asian cuisine
+  options, making it a go-to choice for locals and visitors looking for
+  authentic tastes close to home. With thoughtful features like
+  wheelchair-accessible parking, entrances, restrooms, and seating, it ensures a
+  comfortable experience for everyone. The inviting interior, as seen in
+  available photos, creates a casual ambiance perfect for casual outings or
+  unwinding at the bar. Whether you're exploring top-rated Asian places near
+  you, this spot delivers a hassle-free vibe for enjoying diverse dishes.
+generative_summary: >-
+  Explore Oriental Jade in Bangor, ME$$$Oriental Jade Restaurant & Bar in
+  Bangor, ME, stands out as a welcoming Asian dining spot conveniently situated
+  near the Bangor Mall area, ideal for those seeking flavorful meals in a
+  relaxed setting. This eatery specializes in a variety of Asian cuisine
+  options, making it a go-to choice for locals and visitors looking for
+  authentic tastes close to home. With thoughtful features like
+  wheelchair-accessible parking, entrances, restrooms, and seating, it ensures a
+  comfortable experience for everyone. The inviting interior, as seen in
+  available photos, creates a casual ambiance perfect for casual outings or
+  unwinding at the bar. Whether you're exploring top-rated Asian places near
+  you, this spot delivers a hassle-free vibe for enjoying diverse dishes.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Visitor Feedback on Oriental Jade$$$Visitors often highlight the easygoing
+  atmosphere and convenient location of this Asian eatery, making it a solid
+  pick for everyday meals. Many appreciate the accessibility options that make
+  it welcoming for all, adding to its family-friendly appeal without any major
+  complaints. Folks seem to enjoy the relaxed bar experience and overall
+  comfort, with comments pointing to it as a reliable spot for casual
+  gatherings. While specific ratings aren't widely detailed, the general buzz
+  suggests it's a worthwhile stop for those in the area, offering good value and
+  a positive dining vibe. All in all, it's frequently recommended for anyone
+  searching for straightforward, enjoyable Asian options nearby, keeping things
+  light and approachable.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -204,6 +240,6 @@ serves_vegetarian_food: null
 serves_wine: null
 takeout: null
 update_category: pro
-summary: null
+places_description: null
 
 ---

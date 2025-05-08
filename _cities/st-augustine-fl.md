@@ -5,4 +5,5 @@ permalink: /florida/st-augustine/
 stateAbbr: FL
 stateName: Florida
 cityName: St. Augustine
+
 ---

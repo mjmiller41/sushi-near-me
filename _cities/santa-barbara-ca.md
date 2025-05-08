@@ -5,4 +5,5 @@ permalink: /california/santa-barbara/
 stateAbbr: CA
 stateName: California
 cityName: Santa Barbara
+
 ---

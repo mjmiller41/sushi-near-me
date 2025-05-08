@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Fire-Fish Sushi & More"
+title: Fire-Fish Sushi & More
 permalink: /california/temecula/fire-fish-sushi-more.html
 stateAbbr: CA
 stateName: California
 cityName: Temecula
 seo:
-  name: "Fire-Fish Sushi & More"
-  type: Restaurant
+  type: restaurant
   links: https://www.firefishsushica.com/
-description: "Fire-Fish Sushi & More serves delicious sushi in Temecula, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJITLtirV_24ARHhC9e3JrHAc
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: null
 rating: '4.5'
 rating_count: 0
 website: https://www.firefishsushica.com/
+description: >-
+  Discover Fire-Fish Sushi & More in Temecula, CA$$$Nestled in Temecula, CA,
+  Fire-Fish Sushi & More stands out as a welcoming spot for enjoying fresh
+  Japanese cuisine, blending casual vibes with a variety of flavorful sushi
+  options and creative dishes like nachos. This sushi restaurant offers
+  accessible features such as wheelchair-friendly entrances and seating, making
+  it easy for everyone to savor the experience. Patrons can indulge in a range
+  of Japanese specialties, from expertly crafted rolls to satisfying entrees,
+  all served in a relaxed atmosphere that encourages casual dining. With options
+  for outdoor seating and a menu that includes beer and wine, it's an ideal
+  choice for those seeking sushi places near me that combine convenience with
+  quality. The overall setup highlights a commitment to fresh ingredients and
+  inclusive amenities, perfect for anyone exploring top-rated sushi in the area.
+generative_summary: >-
+  Discover Fire-Fish Sushi & More in Temecula, CA$$$Nestled in Temecula, CA,
+  Fire-Fish Sushi & More stands out as a welcoming spot for enjoying fresh
+  Japanese cuisine, blending casual vibes with a variety of flavorful sushi
+  options and creative dishes like nachos. This sushi restaurant offers
+  accessible features such as wheelchair-friendly entrances and seating, making
+  it easy for everyone to savor the experience. Patrons can indulge in a range
+  of Japanese specialties, from expertly crafted rolls to satisfying entrees,
+  all served in a relaxed atmosphere that encourages casual dining. With options
+  for outdoor seating and a menu that includes beer and wine, it's an ideal
+  choice for those seeking sushi places near me that combine convenience with
+  quality. The overall setup highlights a commitment to fresh ingredients and
+  inclusive amenities, perfect for anyone exploring top-rated sushi in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJITLtirV_24ARHhC9e3JrHAc/reviews/ChZDSUhNMG9nS0VJQ0FnSUNfOHN1TFlREAE
@@ -352,6 +377,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURndnZmN0JREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURndnZmN0JREAE!2m1!1s0x80db7fb58aed3221:0x71c6b727bbd101e
+review_summary: >-
+  What Customers Are Saying About This Sushi Spot$$$Visitors to this Temecula
+  sushi restaurant often praise the fresh and tasty rolls, with many
+  highlighting the quality of sashimi and edamame as standout favorites that
+  make for a satisfying meal. While some folks note that the service is quick
+  and attentive, especially during dine-in visits, there are occasional mentions
+  of takeout orders falling short in flavor and presentation. Overall, the spot
+  gets high marks for its reasonable prices and welcoming environment, though a
+  few have pointed out areas for improvement like consistency in preparation.
+  It's clear that regulars appreciate the variety of options for Japanese places
+  near me, but opinions vary on specifics like seasoning in certain dishes. In a
+  casual setting like this, the general buzz remains positive, encouraging
+  newcomers to give it a try for an authentic sushi experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -384,7 +423,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

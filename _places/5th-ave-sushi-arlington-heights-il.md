@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "5th Ave Sushi"
+title: 5th Ave Sushi
 permalink: /illinois/arlington-heights/5th-ave-sushi.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Arlington Heights
 seo:
-  name: "5th Ave Sushi"
-  type: Restaurant
-  links: null
-description: "5th Ave Sushi serves delicious sushi in Arlington Heights, Illinois. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.5thavesushi.com/
 place_id: ChIJLxsqAA-7D4gRMqjdBXd3JJo
 photos:
   - name: >-
@@ -170,8 +168,89 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x880fbb0f002a1b2f:0x9a24777705dda832!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 16
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 2:30 PM, 4:00 – 9:00 PM'
+    - 'Tuesday: Closed'
+    - 'Wednesday: 11:00 AM – 2:30 PM, 4:00 – 9:00 PM'
+    - 'Thursday: 11:00 AM – 2:30 PM, 4:00 – 9:00 PM'
+    - 'Friday: 11:00 AM – 10:00 PM'
+    - 'Saturday: 11:00 AM – 10:00 PM'
+    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +258,47 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (847) 870-1388
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '3.4'
+rating_count: 295
+website: http://www.5thavesushi.com/
+description: >-
+  Discover Fresh Sushi in Arlington Heights, IL$$$Nestled in Arlington Heights,
+  IL, 5th Ave Sushi stands out as a go-to spot for those craving authentic
+  Japanese flavors and a relaxed dining experience. This eatery delights with
+  its all-you-can-eat selection of diverse rolls and fresh ingredients, making
+  it an ideal choice for sushi enthusiasts exploring options close to home. The
+  informal atmosphere pairs perfectly with accessibility features like
+  wheelchair-friendly entrances and seating, ensuring everyone can enjoy a
+  comfortable meal. With convenient hours that include evenings and weekends,
+  it's easy to stop by for a satisfying lunch or dinner, appealing to anyone
+  searching for top-rated sushi restaurants in the area.
+generative_summary: >-
+  Discover Fresh Sushi in Arlington Heights, IL$$$Nestled in Arlington Heights,
+  IL, 5th Ave Sushi stands out as a go-to spot for those craving authentic
+  Japanese flavors and a relaxed dining experience. This eatery delights with
+  its all-you-can-eat selection of diverse rolls and fresh ingredients, making
+  it an ideal choice for sushi enthusiasts exploring options close to home. The
+  informal atmosphere pairs perfectly with accessibility features like
+  wheelchair-friendly entrances and seating, ensuring everyone can enjoy a
+  comfortable meal. With convenient hours that include evenings and weekends,
+  it's easy to stop by for a satisfying lunch or dinner, appealing to anyone
+  searching for top-rated sushi restaurants in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Recent Feedback$$$Folks who visit this local sushi spot often
+  highlight the tasty variety of rolls and the great value for the price, making
+  it a solid pick for casual meals with friends or family. While some mention
+  that service can vary depending on the time, many appreciate the fresh flavors
+  and generous portions that keep them coming back. Overall, it's seen as a
+  reliable option for everyday dining, with positive notes on the welcoming vibe
+  and quick service during busier times. If you're on the hunt for sushi places
+  near you, this spot generally delivers a satisfying experience, though it's
+  wise to plan around peak hours for the best results.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +324,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

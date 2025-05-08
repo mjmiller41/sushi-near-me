@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Warakubune"
+title: Warakubune
 permalink: /california/san-francisco/warakubune.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
 seo:
-  name: "Warakubune"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Diners at this Japanese joint snag their sushi from boats that sail by on a conveyor belt. Warakubune serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJGQnGlh5-j4ARAXOJ0vGq53k
 photos:
   - name: >-
@@ -184,6 +182,31 @@ price_range: $30 &ndash; $50
 rating: '4.5'
 rating_count: 0
 website: null
+description: >-
+  Experience Warakubune Sushi in San Francisco$$$Nestled in the vibrant city of
+  San Francisco, California, Warakubune stands out as a beloved sushi restaurant
+  where diners enjoy a unique conveyor belt system delivering an array of fresh
+  fish options. This spot combines traditional Japanese flavors with a fun,
+  interactive dining experience, featuring a selection of beer and sake to
+  complement the meal. The moderate pricing makes it an accessible choice for
+  those seeking quality sushi without breaking the bank, while thoughtful
+  accessibility features like wheelchair-friendly seating enhance the visit.
+  Overall, it's a go-to destination for anyone exploring top sushi places in the
+  area, offering a blend of simplicity and authentic taste that keeps locals and
+  visitors coming back.
+generative_summary: >-
+  Experience Warakubune Sushi in San Francisco$$$Nestled in the vibrant city of
+  San Francisco, California, Warakubune stands out as a beloved sushi restaurant
+  where diners enjoy a unique conveyor belt system delivering an array of fresh
+  fish options. This spot combines traditional Japanese flavors with a fun,
+  interactive dining experience, featuring a selection of beer and sake to
+  complement the meal. The moderate pricing makes it an accessible choice for
+  those seeking quality sushi without breaking the bank, while thoughtful
+  accessibility features like wheelchair-friendly seating enhance the visit.
+  Overall, it's a go-to destination for anyone exploring top sushi places in the
+  area, offering a blend of simplicity and authentic taste that keeps locals and
+  visitors coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJGQnGlh5-j4ARAXOJ0vGq53k/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfOGF2S3B3RRAB
@@ -389,6 +412,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR2M2Jici1BRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR2M2Jici1BRRAB!2m1!1s0x808f7e1e96c60919:0x79e7aaf1d2897301
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this sushi spot often rave about the
+  fresh and high-quality ingredients that make every bite a delight, with many
+  highlighting the fun conveyor belt setup as a standout feature. Folks
+  appreciate the affordable prices and casual vibe, making it a great pick for
+  quick lunches or group outings without the high cost. While some note that
+  service could be more attentive at times, the overall consensus leans
+  positive, praising dishes like the special rolls and sashimi for their
+  incredible flavors and value. It's clear that the restaurant delivers a
+  satisfying experience for sushi enthusiasts, with most agreeing it's worth
+  returning to for its authentic appeal. If you're searching for reliable sushi
+  restaurants nearby, this place consistently earns nods for its tasty offerings
+  and enjoyable atmosphere.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   valetParking: false
 payment_options:
@@ -419,8 +456,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Diners at this Japanese joint snag their sushi from boats that sail by on a
   conveyor belt.
 

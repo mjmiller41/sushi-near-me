@@ -5,4 +5,5 @@ permalink: /washington/lynnwood/
 stateAbbr: WA
 stateName: Washington
 cityName: Lynnwood
+
 ---

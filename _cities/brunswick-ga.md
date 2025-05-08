@@ -5,4 +5,5 @@ permalink: /georgia/brunswick/
 stateAbbr: GA
 stateName: Georgia
 cityName: Brunswick
+
 ---

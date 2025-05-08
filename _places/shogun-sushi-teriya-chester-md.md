@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Shogun Sushi Teriya"
+title: Shogun Sushi Teriya
 permalink: /maryland/chester/shogun-sushi-teriya.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Chester
 seo:
-  name: "Shogun Sushi Teriya"
-  type: Restaurant
+  type: restaurant
   links: http://www.shogunsushiteriya.com/
-description: "Shogun Sushi Teriya serves delicious sushi in Chester, Maryland. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJo3UvJ3cQuIkRsVshF47OZQU
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 0
 website: http://www.shogunsushiteriya.com/
+description: >-
+  Discover Shogun Sushi Teriya in Chester, Maryland$$$Nestled in Chester,
+  Maryland, Shogun Sushi Teriya offers a relaxed atmosphere perfect for enjoying
+  fresh Japanese cuisine, including flavorful sushi rolls and classic staples
+  like bento boxes and teriyaki dishes. This spot stands out for its commitment
+  to quality ingredients that deliver an authentic taste, making it a go-to
+  choice for those seeking satisfying meals in a welcoming setting. With options
+  for dine-in or takeout, it's ideal for casual outings or quick meals on the
+  go, complemented by accessible features like wheelchair-friendly entrances and
+  parking. The menu caters to a variety of preferences, from hearty rice bowls
+  to lighter options, ensuring there's something for everyone looking for
+  reliable Japanese fare nearby.
+generative_summary: >-
+  Discover Shogun Sushi Teriya in Chester, Maryland$$$Nestled in Chester,
+  Maryland, Shogun Sushi Teriya offers a relaxed atmosphere perfect for enjoying
+  fresh Japanese cuisine, including flavorful sushi rolls and classic staples
+  like bento boxes and teriyaki dishes. This spot stands out for its commitment
+  to quality ingredients that deliver an authentic taste, making it a go-to
+  choice for those seeking satisfying meals in a welcoming setting. With options
+  for dine-in or takeout, it's ideal for casual outings or quick meals on the
+  go, complemented by accessible features like wheelchair-friendly entrances and
+  parking. The menu caters to a variety of preferences, from hearty rice bowls
+  to lighter options, ensuring there's something for everyone looking for
+  reliable Japanese fare nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJo3UvJ3cQuIkRsVshF47OZQU/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfN05HSXNBRRAB
@@ -334,6 +357,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQ1M3NXbFZ3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQ1M3NXbFZ3EAE!2m1!1s0x89b81077272f75a3:0x565ce8e17215bb1
+review_summary: >-
+  What Customers Are Saying$$$Folks rave about the fresh and flavorful
+  selections at this sushi spot, with highlights on the variety of rolls, ramen,
+  and teriyaki options that hit the spot every time. Many appreciate the
+  friendly service and welcoming vibe, even in a cozy space that's great for
+  grabbing food to go or enjoying a quick meal. It's often noted for offering
+  solid value without breaking the bank, making it a smart pick for anyone
+  hunting for tasty Japanese dishes in the area. Overall, the consensus leans
+  positive, with diners enjoying the well-prepared meals that keep them coming
+  back for more relaxed dining experiences. If you're on the hunt for top-rated
+  sushi options close by, this place delivers a consistently enjoyable meal with
+  helpful staff and competitive pricing.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -366,7 +402,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

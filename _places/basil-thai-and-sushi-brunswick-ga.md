@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Basil Thai and Sushi"
+title: Basil Thai and Sushi
 permalink: /georgia/brunswick/basil-thai-and-sushi.html
 stateAbbr: GA
 stateName: Georgia
 cityName: Brunswick
 seo:
-  name: "Basil Thai and Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://basilthaiandsushi.com/hello-world
-description: "Stylish eatery serving sushi, pho & familiar Thai mains, including curry, in modern surrounds. Basil Thai and Sushi serves delicious sushi in Brunswick, Georgia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJDXz6DBbY5IgREAr8L5Gikr8
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: null
 rating: '4.3'
 rating_count: 0
 website: http://basilthaiandsushi.com/hello-world
+description: >-
+  Discover Basil Thai and Sushi in Brunswick, Georgia$$$Nestled in the heart of
+  Brunswick, Georgia, Basil Thai and Sushi stands out as a stylish eatery
+  blending authentic Thai flavors with fresh sushi options, making it a go-to
+  spot for diverse dining experiences. This casual venue offers a variety of
+  dishes like flavorful Thai fried rice and creative sushi rolls, all served in
+  a modern setting that enhances the overall meal. Accessibility features such
+  as wheelchair-friendly entrances and parking add to its appeal for all
+  visitors, while options for beer, cocktails, and wine create a relaxed
+  atmosphere for enjoying lunch or dinner. With its moderate pricing and
+  welcoming vibe, it's an ideal choice for those searching for quality sushi
+  restaurants or Thai-inspired meals nearby, ensuring a satisfying visit every
+  time.
+generative_summary: >-
+  Discover Basil Thai and Sushi in Brunswick, Georgia$$$Nestled in the heart of
+  Brunswick, Georgia, Basil Thai and Sushi stands out as a stylish eatery
+  blending authentic Thai flavors with fresh sushi options, making it a go-to
+  spot for diverse dining experiences. This casual venue offers a variety of
+  dishes like flavorful Thai fried rice and creative sushi rolls, all served in
+  a modern setting that enhances the overall meal. Accessibility features such
+  as wheelchair-friendly entrances and parking add to its appeal for all
+  visitors, while options for beer, cocktails, and wine create a relaxed
+  atmosphere for enjoying lunch or dinner. With its moderate pricing and
+  welcoming vibe, it's an ideal choice for those searching for quality sushi
+  restaurants or Thai-inspired meals nearby, ensuring a satisfying visit every
+  time.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJDXz6DBbY5IgREAr8L5Gikr8/reviews/ChdDSUhNMG9nS0VJQ0FnSUR6dEotaTdnRRAB
@@ -386,6 +411,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMxNWNIZDRnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMxNWNIZDRnRRAB!2m1!1s0x88e4d8160cfa7c0d:0xbf92a2912ffc0a10
+review_summary: >-
+  What Customers Are Raving About$$$Folks seem to really enjoy the tasty Thai
+  and sushi dishes here, with many highlighting the flavorful options like fried
+  rice and perfectly prepared proteins that hit the spot without overwhelming
+  the palate. Service stands out as friendly and efficient, helping to make
+  meals feel smooth and enjoyable, especially for groups or quick lunches.
+  Comments often mention the inviting ambiance that adds a nice touch to the
+  overall experience, encouraging repeat visits for both everyday eats and
+  special occasions. While some note minor details like portion sizes, the
+  general consensus leans positive, with plenty of praise for the variety that
+  keeps things fresh and satisfying. If you're on the hunt for reliable sushi
+  places nearby, this spot comes through as a solid pick for a casual, delicious
+  outing.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -417,8 +456,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Stylish eatery serving sushi, pho & familiar Thai mains, including curry, in
   modern surrounds.
 

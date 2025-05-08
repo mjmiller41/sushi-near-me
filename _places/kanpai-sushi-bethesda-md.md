@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kanpai Sushi"
+title: Kanpai Sushi
 permalink: /maryland/bethesda/kanpai-sushi.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Bethesda
 seo:
-  name: "Kanpai Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://kanpaisushicarryout.com/
-description: "Unassuming resource for takeout sushi, plus a variety of Asian grocery items & beverages. Kanpai Sushi serves delicious sushi in Bethesda, Maryland. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJze3rm1rKt4kRGpNiJ6EqD4s
 photos:
   - name: >-
@@ -183,6 +181,33 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 0
 website: https://kanpaisushicarryout.com/
+description: >-
+  Discover Kanpai Sushi in Bethesda, MD$$$Kanpai Sushi in Bethesda, MD, stands
+  out as a top-rated spot for fresh sushi and Japanese specialties, perfect for
+  those seeking quality dining options in the area. This unassuming eatery
+  combines a selection of expertly crafted sushi with an array of Asian grocery
+  items, making it a convenient choice for takeout meals that highlight
+  authentic flavors. Drawing from its focus on takeout-friendly offerings, the
+  restaurant emphasizes fresh ingredients and moderate pricing, appealing to
+  anyone exploring local sushi restaurants. Accessibility features like
+  wheelchair-friendly entrances add to its appeal, ensuring a welcoming
+  experience for all visitors. Whether you're in the mood for a quick bite or
+  stocking up on favorites, this spot delivers a satisfying blend of taste and
+  convenience that keeps locals coming back.
+generative_summary: >-
+  Discover Kanpai Sushi in Bethesda, MD$$$Kanpai Sushi in Bethesda, MD, stands
+  out as a top-rated spot for fresh sushi and Japanese specialties, perfect for
+  those seeking quality dining options in the area. This unassuming eatery
+  combines a selection of expertly crafted sushi with an array of Asian grocery
+  items, making it a convenient choice for takeout meals that highlight
+  authentic flavors. Drawing from its focus on takeout-friendly offerings, the
+  restaurant emphasizes fresh ingredients and moderate pricing, appealing to
+  anyone exploring local sushi restaurants. Accessibility features like
+  wheelchair-friendly entrances add to its appeal, ensuring a welcoming
+  experience for all visitors. Whether you're in the mood for a quick bite or
+  stocking up on favorites, this spot delivers a satisfying blend of taste and
+  convenience that keeps locals coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJze3rm1rKt4kRGpNiJ6EqD4s/reviews/ChZDSUhNMG9nS0VJQ0FnSURScFpxUGNnEAE
@@ -326,6 +351,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQzOWNqNklREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQzOWNqNklREAE!2m1!1s0x89b7ca5a9bebedcd:0x8b0f2aa12762931a
+review_summary: >-
+  What Customers Are Saying$$$Folks who've tried Kanpai Sushi often rave about
+  the outstanding freshness and flavor of the dishes, making it a go-to for
+  satisfying sushi cravings. Many highlight the quick service and friendly
+  atmosphere, with standout items like spicy tuna rolls earning high praise for
+  their bold taste and quality. Overall, visitors appreciate the consistency and
+  value, noting it's worth the trip even from nearby areas. While it's mostly a
+  carryout setup, people enjoy the reliable experience that feels both efficient
+  and enjoyable. In summary, the feedback paints a picture of a solid, enjoyable
+  option that delivers on taste and convenience, encouraging others to give it a
+  shot for a dependable meal.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -358,8 +395,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Unassuming resource for takeout sushi, plus a variety of Asian grocery items &
   beverages.
 

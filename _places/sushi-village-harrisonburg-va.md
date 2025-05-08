@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Village"
+title: Sushi Village
 permalink: /virginia/harrisonburg/sushi-village.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Harrisonburg
 seo:
-  name: "Sushi Village"
-  type: Restaurant
+  type: restaurant
   links: https://www.sushivillageharrisonburg.com/
-description: "Sushi Village serves delicious sushi in Harrisonburg, Virginia. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJIQF6YZaStIkRoCtn7V3SwUA
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89b49296617a0121:0x40c1d25ded672ba0!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:00 PM'
     - 'Saturday: 11:00 AM – 10:00 PM'
     - 'Sunday: 11:00 AM – 8:30 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 10:00 PM'
-    - 'Saturday: 11:00 AM – 10:00 PM'
-    - 'Sunday: 11:00 AM – 8:30 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +238,46 @@ phone: (540) 568-9880
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.0'
-rating_count: 0
+rating_count: 737
 website: https://www.sushivillageharrisonburg.com/
+description: >-
+  Explore Sushi Village in Harrisonburg, VA$$$Sushi Village in Harrisonburg, VA,
+  offers a relaxed and inviting atmosphere for enjoying authentic Japanese
+  flavors, particularly its popular all-you-can-eat sushi options that pair well
+  with a selection of beverages. The spot emphasizes fresh ingredients and a
+  variety of rolls, making it a go-to choice for those seeking sushi restaurants
+  in a welcoming setting. Accessibility features like wheelchair-friendly
+  parking and entrances ensure everyone can savor the experience, while its
+  moderate pricing and solid reputation add to the appeal. With convenient hours
+  that include evenings and weekends, it's an excellent option for anyone
+  exploring top-rated sushi places nearby, blending casual dining with genuine
+  tastes of Japanese cuisine.
+generative_summary: >-
+  Explore Sushi Village in Harrisonburg, VA$$$Sushi Village in Harrisonburg, VA,
+  offers a relaxed and inviting atmosphere for enjoying authentic Japanese
+  flavors, particularly its popular all-you-can-eat sushi options that pair well
+  with a selection of beverages. The spot emphasizes fresh ingredients and a
+  variety of rolls, making it a go-to choice for those seeking sushi restaurants
+  in a welcoming setting. Accessibility features like wheelchair-friendly
+  parking and entrances ensure everyone can savor the experience, while its
+  moderate pricing and solid reputation add to the appeal. With convenient hours
+  that include evenings and weekends, it's an excellent option for anyone
+  exploring top-rated sushi places nearby, blending casual dining with genuine
+  tastes of Japanese cuisine.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Visitor Feedback on Sushi Village$$$Folks heading to Sushi Village often
+  highlight the all-you-can-eat menu for its fresh and flavorful dishes, like
+  tasty sushi rolls and hibachi favorites that make for a satisfying meal. Many
+  appreciate the efficient service and friendly staff, even when things get
+  busy, which helps create a positive vibe overall. While some mention that the
+  value doesn't always hit the mark, the variety and quality of the food keep
+  drawing people back for more. If you're on the hunt for sushi spots near me,
+  this place stands out for its approachable vibe and reliable options. In the
+  end, it's a solid pick for enjoying Japanese eats with a mostly upbeat
+  experience in Harrisonburg.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +303,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

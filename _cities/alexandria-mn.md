@@ -5,4 +5,5 @@ permalink: /minnesota/alexandria/
 stateAbbr: MN
 stateName: Minnesota
 cityName: Alexandria
+
 ---

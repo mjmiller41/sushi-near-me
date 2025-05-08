@@ -5,4 +5,5 @@ permalink: /massachusetts/framingham/
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Framingham
+
 ---

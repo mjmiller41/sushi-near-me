@@ -5,4 +5,5 @@ permalink: /hawaii/mililani/
 stateAbbr: HI
 stateName: Hawaii
 cityName: Mililani
+
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "ROLL SPOT sushi & desserts Tokyo Haus Sushi & Grill"
+title: ROLL SPOT sushi & desserts Tokyo Haus Sushi & Grill
 permalink: /california/los-angeles/roll-spot-sushi-desserts-tokyo-haus-sushi-grill.html
 stateAbbr: CA
 stateName: California
 cityName: Los Angeles
 seo:
-  name: "ROLL SPOT sushi & desserts Tokyo Haus Sushi & Grill"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "ROLL SPOT sushi & desserts Tokyo Haus Sushi & Grill serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJO8cmfLDHwoAR_NGUqkx1c2s
 photos:
   - name: >-
@@ -169,7 +167,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c2c7b07c26c73b:0x6b73754caa94d1fc!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:30 PM'
     - 'Tuesday: 11:00 AM – 9:30 PM'
     - 'Wednesday: 11:00 AM – 9:30 PM'
@@ -177,14 +233,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:30 PM'
     - 'Saturday: 11:00 AM – 9:30 PM'
     - 'Sunday: 11:00 AM – 9:30 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:30 PM'
-    - 'Tuesday: 11:00 AM – 9:30 PM'
-    - 'Wednesday: 11:00 AM – 9:30 PM'
-    - 'Thursday: 11:00 AM – 9:30 PM'
-    - 'Friday: 11:00 AM – 9:30 PM'
-    - 'Saturday: 11:00 AM – 9:30 PM'
-    - 'Sunday: 11:00 AM – 9:30 PM'
+  nextCloseTime: '2025-05-04T04:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,35 +245,290 @@ phone: (213) 266-8879
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.3'
-rating_count: 0
+rating_count: 89
 website: null
-reviews: null
+description: >-
+  Discover ROLL SPOT Sushi & Desserts in Los Angeles, CA$$$ROLL SPOT sushi &
+  desserts Tokyo Haus Sushi & Grill in Los Angeles, CA, stands out as a casual
+  dining destination blending fresh Japanese flavors with innovative treats.
+  This spot offers a wide array of sushi rolls crafted with quality ingredients,
+  alongside delightful options like macaroon ice cream and acai bowls that add a
+  fun twist to traditional meals. Located in the vibrant Downtown area, it
+  provides easy access and wheelchair-friendly features, making it welcoming for
+  all visitors seeking a relaxed meal. The restaurant operates daily with
+  generous hours from 11 AM to 9:30 PM, perfect for lunch, dinner, or a quick
+  bite on the go. Whether you're exploring top sushi options in the city, this
+  place delivers a balance of affordability and variety that keeps locals coming
+  back.
+generative_summary: >-
+  Discover ROLL SPOT Sushi & Desserts in Los Angeles, CA$$$ROLL SPOT sushi &
+  desserts Tokyo Haus Sushi & Grill in Los Angeles, CA, stands out as a casual
+  dining destination blending fresh Japanese flavors with innovative treats.
+  This spot offers a wide array of sushi rolls crafted with quality ingredients,
+  alongside delightful options like macaroon ice cream and acai bowls that add a
+  fun twist to traditional meals. Located in the vibrant Downtown area, it
+  provides easy access and wheelchair-friendly features, making it welcoming for
+  all visitors seeking a relaxed meal. The restaurant operates daily with
+  generous hours from 11 AM to 9:30 PM, perfect for lunch, dinner, or a quick
+  bite on the go. Whether you're exploring top sushi options in the city, this
+  place delivers a balance of affordability and variety that keeps locals coming
+  back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJO8cmfLDHwoAR_NGUqkx1c2s/reviews/ChdDSUhNMG9nS0VJQ0FnSURaenJTWnN3RRAB
+    relativePublishTimeDescription: a year ago
+    rating: 1
+    text:
+      text: >-
+        I had the unfortunate experience of dining at this sushi restaurant, and
+        it was honestly the worst sushi I've ever had. The rolls were drowning
+        in mayo to the point where they were inedible. We got three rolls and
+        all three were inedible. On top of that, the prices were quite high for
+        what we received. I strongly do not recommend this place to anyone
+        looking for good sushi. There are far better options in town.
+      languageCode: en
+    originalText:
+      text: >-
+        I had the unfortunate experience of dining at this sushi restaurant, and
+        it was honestly the worst sushi I've ever had. The rolls were drowning
+        in mayo to the point where they were inedible. We got three rolls and
+        all three were inedible. On top of that, the prices were quite high for
+        what we received. I strongly do not recommend this place to anyone
+        looking for good sushi. There are far better options in town.
+      languageCode: en
+    authorAttribution:
+      displayName: Heidi
+      uri: https://www.google.com/maps/contrib/102500591800100631065/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKf3CKxwkYzeP9ZZPtiomm3MONyxrewKzdpG2FvSArYaZ5fnw=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2023-10-01T02:34:08.645883Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURaenJTWnN3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURaenJTWnN3RRAB!2m1!1s0x80c2c7b07c26c73b:0x6b73754caa94d1fc
+  - name: >-
+      places/ChIJO8cmfLDHwoAR_NGUqkx1c2s/reviews/ChdDSUhNMG9nS0VJQ0FnSURTdHJxZWlnRRAB
+    relativePublishTimeDescription: 4 years ago
+    rating: 5
+    text:
+      text: >-
+        Gave this place a try since everybody deserves some loving. I asked for
+        a Salmon Steak Salad and a Crunch Alaskan Roll. My brother went with the
+        Salmon Crispy Garlic Roll.
+
+
+        The menu is self explanatory. I had been looking for a good sushi place.
+        This hidden gem was just what I was looking for. I enjoyed both dishes.
+        Fresh taste. Salmon was delicious on both the salad and the sushi.
+
+
+        My brother said he enjoyed as well. We asked each other if we would
+        return and that was a confirmed yes. Good food. The wait was a bit
+        because my dishes were baked but well worth it.
+
+
+        Thank you.
+      languageCode: en
+    originalText:
+      text: >-
+        Gave this place a try since everybody deserves some loving. I asked for
+        a Salmon Steak Salad and a Crunch Alaskan Roll. My brother went with the
+        Salmon Crispy Garlic Roll.
+
+
+        The menu is self explanatory. I had been looking for a good sushi place.
+        This hidden gem was just what I was looking for. I enjoyed both dishes.
+        Fresh taste. Salmon was delicious on both the salad and the sushi.
+
+
+        My brother said he enjoyed as well. We asked each other if we would
+        return and that was a confirmed yes. Good food. The wait was a bit
+        because my dishes were baked but well worth it.
+
+
+        Thank you.
+      languageCode: en
+    authorAttribution:
+      displayName: Moses Soto
+      uri: https://www.google.com/maps/contrib/117639132960871293571/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjU1PlZ5nyiBfpYXTKKNPE2CiUEmLwuIKeB1i47lloa1S1R7MiDHXQ=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2020-12-24T21:06:41.213682Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURTdHJxZWlnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURTdHJxZWlnRRAB!2m1!1s0x80c2c7b07c26c73b:0x6b73754caa94d1fc
+  - name: >-
+      places/ChIJO8cmfLDHwoAR_NGUqkx1c2s/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ1eU5IbVB3EAE
+    relativePublishTimeDescription: a year ago
+    rating: 4
+    text:
+      text: >-
+        Roll Spot is a relatively new restaurant (couple years) but it still
+        doesn’t look up to date. They always advertise 50% off all sushi
+        (nigiri) and cut/hand rolls, but that actually just brings them down to
+        average prices. Across the board, their menu is regularly priced like
+        their competitors in the same ballpark, so that just leaves quality and
+        portion size to differ.
+
+        I got a Washington roll and it came out fast. It looks like their roll
+        is a little shorter than others, with fewer pieces but looking at the
+        second picture, they provide a significantly larger portion of salmon
+        and crab meat per piece. This was really tasty but I left still a little
+        hungry because there’s not that much rice. If you’re starving, skip out
+        on their rolls, but go for it in any other scenario.
+      languageCode: en
+    originalText:
+      text: >-
+        Roll Spot is a relatively new restaurant (couple years) but it still
+        doesn’t look up to date. They always advertise 50% off all sushi
+        (nigiri) and cut/hand rolls, but that actually just brings them down to
+        average prices. Across the board, their menu is regularly priced like
+        their competitors in the same ballpark, so that just leaves quality and
+        portion size to differ.
+
+        I got a Washington roll and it came out fast. It looks like their roll
+        is a little shorter than others, with fewer pieces but looking at the
+        second picture, they provide a significantly larger portion of salmon
+        and crab meat per piece. This was really tasty but I left still a little
+        hungry because there’s not that much rice. If you’re starving, skip out
+        on their rolls, but go for it in any other scenario.
+      languageCode: en
+    authorAttribution:
+      displayName: Dom Ku
+      uri: https://www.google.com/maps/contrib/104435468025180882974/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWQ4e8GjC42gr-T7eTdC-xyLi2NgXFN5BA09U1SAbxLV-NACvuZ=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2023-10-19T15:41:11.532170Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQ1eU5IbVB3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQ1eU5IbVB3EAE!2m1!1s0x80c2c7b07c26c73b:0x6b73754caa94d1fc
+  - name: >-
+      places/ChIJO8cmfLDHwoAR_NGUqkx1c2s/reviews/ChZDSUhNMG9nS0VJQ0FnSURjMVphelZnEAE
+    relativePublishTimeDescription: 4 years ago
+    rating: 5
+    text:
+      text: >-
+        I stopped by 4 days ago. l ordered sashimi.
+
+        It was the most delicious sashimi I've ever had in the world.
+
+        The price was cheap.
+
+        The 2 staff were friendly and made me happy.
+
+        It was a short lunch break, but it will be memorable for a long time.
+        Highly recommended.
+      languageCode: en
+    originalText:
+      text: >-
+        I stopped by 4 days ago. l ordered sashimi.
+
+        It was the most delicious sashimi I've ever had in the world.
+
+        The price was cheap.
+
+        The 2 staff were friendly and made me happy.
+
+        It was a short lunch break, but it will be memorable for a long time.
+        Highly recommended.
+      languageCode: en
+    authorAttribution:
+      displayName: Don Park
+      uri: https://www.google.com/maps/contrib/115897111235064020213/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocI9U2w3YVBn13sdGTJ17ApKKOoazFRkwNFqSG5Badese7Z7sA=s128-c0x00000000-cc-rp-mo
+    publishTime: '2020-06-16T13:08:53.122942Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURjMVphelZnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURjMVphelZnEAE!2m1!1s0x80c2c7b07c26c73b:0x6b73754caa94d1fc
+  - name: >-
+      places/ChIJO8cmfLDHwoAR_NGUqkx1c2s/reviews/ChZDSUhNMG9nS0VJQ0FnSUNKakt6Y1RBEAE
+    relativePublishTimeDescription: a year ago
+    rating: 4
+    text:
+      text: >-
+        Have you seen better sushi deals than the ones they have at
+        @rollspotlittletokyo ? This tucked away gem opened in the thick of covid
+        and, amidst the reopening of society, is welcoming patrons with half off
+        sushi! This alone was enough to get me through the door, but then i
+        noticed all the other FANTASTIC specials they have running. And to make
+        matters even better, they have a 4.5 star Yelp rating. I think the only
+        thing needed to take them to 5 stars is some more comfortable seating
+        (it’s the metal tables and chairs). So it’s not a sake date night type
+        of place, but cute for a lunch or a quick bite. It definitely has enough
+        potential to be my regular sushi spot.
+      languageCode: en
+    originalText:
+      text: >-
+        Have you seen better sushi deals than the ones they have at
+        @rollspotlittletokyo ? This tucked away gem opened in the thick of covid
+        and, amidst the reopening of society, is welcoming patrons with half off
+        sushi! This alone was enough to get me through the door, but then i
+        noticed all the other FANTASTIC specials they have running. And to make
+        matters even better, they have a 4.5 star Yelp rating. I think the only
+        thing needed to take them to 5 stars is some more comfortable seating
+        (it’s the metal tables and chairs). So it’s not a sake date night type
+        of place, but cute for a lunch or a quick bite. It definitely has enough
+        potential to be my regular sushi spot.
+      languageCode: en
+    authorAttribution:
+      displayName: Savannah Miller
+      uri: https://www.google.com/maps/contrib/110931755020861741640/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjW74CQrfT7NdXB8nwCVRtpmRsNZKQWyb2t-hNWI2yCdgMw2luVf=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2023-06-22T03:46:17.053895Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNKakt6Y1RBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNKakt6Y1RBEAE!2m1!1s0x80c2c7b07c26c73b:0x6b73754caa94d1fc
+review_summary: >-
+  What Visitors Are Buzzing About$$$Feedback from diners highlights the fresh
+  and flavorful sushi rolls that make this spot a go-to for satisfying cravings,
+  with many appreciating the great deals and speedy service that enhance the
+  overall experience. While some note that portions might feel a bit light on
+  certain items, the tasty combinations and value for money often leave people
+  pleasantly surprised and eager to return. Reviewers frequently mention
+  enjoying the creative dishes like salmon-based rolls and salads, praising
+  their quality and how they hit the spot for a casual meal. Overall, the
+  atmosphere and offerings create a positive vibe, making it a solid choice for
+  anyone hunting for reliable sushi nearby. If you're on the lookout for
+  approachable Japanese-inspired eats, this location tends to deliver a
+  worthwhile visit with room for everyone to find something they love.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
-payment_options: null
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
+delivery: true
+dine_in: true
+good_for_children: true
 good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: true
+reservable: false
 restroom: null
 serves_beer: null
-serves_breakfast: null
+serves_breakfast: true
 serves_brunch: null
 serves_cocktails: null
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
 serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

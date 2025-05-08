@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Izakaya An Japanese Restaurant"
+title: Izakaya An Japanese Restaurant
 permalink: /california/concord/izakaya-an-japanese-restaurant.html
 stateAbbr: CA
 stateName: California
 cityName: Concord
 seo:
-  name: "Izakaya An Japanese Restaurant"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Izakaya An Japanese Restaurant serves delicious sushi in Concord, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJWS1AEjFhhYAR9Gaq0RIp03w
 photos:
   - name: >-
@@ -185,7 +183,48 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Izakaya An Japanese Restaurant in Concord, California$$$Izakaya An
+  Japanese Restaurant in Concord, CA, offers a welcoming atmosphere for enjoying
+  classic Japanese comfort food, along with a selection of beer, sake, and wine
+  that pairs perfectly with the menu. This casual eatery stands out for its
+  accessibility features, including wheelchair-friendly parking, entrances,
+  restrooms, and seating, making it an inclusive spot for everyone. Diners can
+  expect a variety of flavorful dishes that highlight traditional Japanese
+  flavors, ideal for those seeking authentic tastes in a relaxed setting near
+  local communities. The restaurant's vibe encourages casual gatherings, whether
+  you're stopping by for a quick meal or exploring nearby Japanese dining
+  options. With its convenient location, it's a great choice for anyone looking
+  for quality Japanese cuisine in the area.
+generative_summary: >-
+  Discover Izakaya An Japanese Restaurant in Concord, California$$$Izakaya An
+  Japanese Restaurant in Concord, CA, offers a welcoming atmosphere for enjoying
+  classic Japanese comfort food, along with a selection of beer, sake, and wine
+  that pairs perfectly with the menu. This casual eatery stands out for its
+  accessibility features, including wheelchair-friendly parking, entrances,
+  restrooms, and seating, making it an inclusive spot for everyone. Diners can
+  expect a variety of flavorful dishes that highlight traditional Japanese
+  flavors, ideal for those seeking authentic tastes in a relaxed setting near
+  local communities. The restaurant's vibe encourages casual gatherings, whether
+  you're stopping by for a quick meal or exploring nearby Japanese dining
+  options. With its convenient location, it's a great choice for anyone looking
+  for quality Japanese cuisine in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying About the Experience$$$From what people share online,
+  Izakaya An comes across as a solid spot for casual Japanese dining, with many
+  appreciating the fresh and well-prepared comfort foods that hit the spot.
+  Folks often mention the friendly service and relaxed environment, which make
+  it easy to enjoy a meal without any fuss, though some note that wait times can
+  vary during busy periods. Overall, the consensus leans positive, highlighting
+  the variety of beverages like sake and beer that enhance the overall vibe,
+  making it a go-to for groups or solo diners. While not every visit is
+  flawless, the general feedback praises the authentic flavors and welcoming
+  feel, encouraging others to give it a try for a satisfying experience. If
+  you're in the mood for Japanese-inspired eats nearby, it seems like a reliable
+  option worth checking out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +250,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

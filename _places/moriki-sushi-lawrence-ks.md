@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Moriki Sushi"
+title: Moriki Sushi
 permalink: /kansas/lawrence/moriki-sushi.html
 stateAbbr: KS
 stateName: Kansas
 cityName: Lawrence
 seo:
-  name: "Moriki Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.morikisushi.com/
-description: "Moriki Sushi serves delicious sushi in Lawrence, Kansas. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJzRQDgBlnv4cR3NSrnVeknhM
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $10 &ndash; $20
 rating: '4.9'
 rating_count: 0
 website: http://www.morikisushi.com/
+description: >-
+  Discover Moriki Sushi in Lawrence, KS$$$Nestled in Lawrence, KS, Moriki Sushi
+  offers a relaxed and welcoming atmosphere for enjoying an extensive selection
+  of fresh Japanese cuisine, making it a go-to spot for those seeking top-rated
+  sushi nearby. The restaurant features a diverse menu that highlights flavorful
+  sushi rolls and other classic dishes, all prepared with high-quality
+  ingredients that emphasize authenticity and taste. Accessibility is a key
+  highlight, with wheelchair-friendly parking, entrances, restrooms, and seating
+  options that ensure everyone can enjoy a comfortable dining experience.
+  Whether you're looking for sushi places near me or exploring Japanese dining
+  options in the area, this spot delivers on both variety and value, perfect for
+  a casual meal or special occasion. Its moderate pricing adds to the appeal,
+  providing an affordable yet memorable way to savor expertly crafted flavors.
+generative_summary: >-
+  Discover Moriki Sushi in Lawrence, KS$$$Nestled in Lawrence, KS, Moriki Sushi
+  offers a relaxed and welcoming atmosphere for enjoying an extensive selection
+  of fresh Japanese cuisine, making it a go-to spot for those seeking top-rated
+  sushi nearby. The restaurant features a diverse menu that highlights flavorful
+  sushi rolls and other classic dishes, all prepared with high-quality
+  ingredients that emphasize authenticity and taste. Accessibility is a key
+  highlight, with wheelchair-friendly parking, entrances, restrooms, and seating
+  options that ensure everyone can enjoy a comfortable dining experience.
+  Whether you're looking for sushi places near me or exploring Japanese dining
+  options in the area, this spot delivers on both variety and value, perfect for
+  a casual meal or special occasion. Its moderate pricing adds to the appeal,
+  providing an affordable yet memorable way to savor expertly crafted flavors.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJzRQDgBlnv4cR3NSrnVeknhM/reviews/ChZDSUhNMG9nS0VJQ0FnTURRMC1mU0lnEAE
@@ -344,6 +369,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURRdU1PUzJRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURRdU1PUzJRRRAB!2m1!1s0x87bf6719800314cd:0x139ea4579dabd4dc
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this sushi haven often rave about the
+  fresh and flavorful rolls that make every bite a delight, with many
+  highlighting the high-quality ingredients and thoughtful presentations. Folks
+  appreciate the friendly and efficient service that enhances the overall dining
+  experience, turning a simple meal into a enjoyable outing. It's clear from the
+  feedback that this place stands out as a hidden gem for sushi enthusiasts,
+  with consistent praise for its generous portions and great value that keeps
+  people coming back. While some note it's a favorite for casual get-togethers,
+  the general consensus is that the atmosphere and food quality make it worth
+  seeking out, especially if you're on the hunt for the best sushi near me.
+  Overall, the positive vibes from diners suggest it's a reliable choice for
+  anyone craving authentic Japanese flavors in a welcoming setting.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   valetParking: false
@@ -375,7 +414,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

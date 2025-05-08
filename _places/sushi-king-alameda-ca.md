@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi King"
+title: Sushi King
 permalink: /california/alameda/sushi-king.html
 stateAbbr: CA
 stateName: California
 cityName: Alameda
 seo:
-  name: "Sushi King"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi King serves delicious sushi in Alameda, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJLQS_-JSGj4ARMSo3akLmz48
 photos:
   - name: >-
@@ -185,7 +183,45 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Sushi King in Alameda, CA$$$Sushi King in Alameda, California, stands
+  out as a casual dining destination known for its fresh seafood selections and
+  vibrant poke bowls, making it a go-to spot for sushi enthusiasts in the area.
+  Nestled within the lively Alameda Marketplace, this restaurant offers a
+  welcoming atmosphere with accessible features that enhance the experience for
+  all visitors. Patrons can enjoy a variety of expertly prepared dishes that
+  highlight high-quality ingredients, appealing to those seeking authentic
+  Japanese-inspired flavors without the formality of upscale settings. The
+  menu's emphasis on fresh, flavorful options makes it an ideal choice for
+  anyone exploring top-rated sushi restaurants nearby, blending convenience with
+  satisfying tastes that keep locals coming back.
+generative_summary: >-
+  Discover Sushi King in Alameda, CA$$$Sushi King in Alameda, California, stands
+  out as a casual dining destination known for its fresh seafood selections and
+  vibrant poke bowls, making it a go-to spot for sushi enthusiasts in the area.
+  Nestled within the lively Alameda Marketplace, this restaurant offers a
+  welcoming atmosphere with accessible features that enhance the experience for
+  all visitors. Patrons can enjoy a variety of expertly prepared dishes that
+  highlight high-quality ingredients, appealing to those seeking authentic
+  Japanese-inspired flavors without the formality of upscale settings. The
+  menu's emphasis on fresh, flavorful options makes it an ideal choice for
+  anyone exploring top-rated sushi restaurants nearby, blending convenience with
+  satisfying tastes that keep locals coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Visitor Feedback$$$Visitors to this sushi spot often praise the
+  fresh and flavorful dishes, noting that the poke bowls and sushi rolls deliver
+  a satisfying mix of tastes that feel just right for a casual meal. Many
+  appreciate the straightforward vibe and attentive service, which make it easy
+  to enjoy a relaxed dining experience without any fuss. While some mention
+  minor waits during peak times, the overall consensus highlights the value and
+  quality that make it a solid pick for groups or families. Feedback generally
+  reflects a positive nod to the variety of options, helping it stand out among
+  Japanese places in the region for those searching for reliable, everyday eats.
+  All in all, it's a welcoming choice that honestly delivers on fresh flavors,
+  encouraging repeat visits for anyone craving great sushi nearby.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +247,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

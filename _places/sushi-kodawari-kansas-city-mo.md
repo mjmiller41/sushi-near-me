@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Kodawari"
+title: Sushi Kodawari
 permalink: /missouri/kansas-city/sushi-kodawari.html
 stateAbbr: MO
 stateName: Missouri
 cityName: Kansas City
 seo:
-  name: "Sushi Kodawari"
-  type: Restaurant
+  type: restaurant
   links: http://www.sushikodawari.com/
-description: "Sushi Kodawari serves delicious sushi in Kansas City, Missouri. Try fresh Japanese dishes for a great dining experience. Available for, and dinner."
 place_id: ChIJ3ZC-RRfxwIcREBi1SUGMQdE
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $100 &ndash; & up
 rating: '4.9'
 rating_count: 0
 website: http://www.sushikodawari.com/
+description: >-
+  Experience Sushi Kodawari in Kansas City$$$Sushi Kodawari in Kansas City, MO,
+  stands out as a top-tier sushi destination, offering an authentic Japanese
+  dining experience in a vibrant urban setting. Nestled in the Crossroads
+  neighborhood, this spot emphasizes fresh, high-quality ingredients that
+  elevate every bite, making it a go-to for those seeking premium sushi options
+  close to home. The intimate atmosphere and thoughtful accessibility features
+  ensure a welcoming visit for all, blending traditional techniques with modern
+  flair. With its focus on expertly prepared dishes, it's easy to see why this
+  location ranks among the best for sushi enthusiasts exploring local favorites.
+  Whether you're in the mood for something special or just searching for quality
+  Japanese cuisine nearby, Sushi Kodawari delivers an unforgettable meal that
+  highlights the art of fine dining.
+generative_summary: >-
+  Experience Sushi Kodawari in Kansas City$$$Sushi Kodawari in Kansas City, MO,
+  stands out as a top-tier sushi destination, offering an authentic Japanese
+  dining experience in a vibrant urban setting. Nestled in the Crossroads
+  neighborhood, this spot emphasizes fresh, high-quality ingredients that
+  elevate every bite, making it a go-to for those seeking premium sushi options
+  close to home. The intimate atmosphere and thoughtful accessibility features
+  ensure a welcoming visit for all, blending traditional techniques with modern
+  flair. With its focus on expertly prepared dishes, it's easy to see why this
+  location ranks among the best for sushi enthusiasts exploring local favorites.
+  Whether you're in the mood for something special or just searching for quality
+  Japanese cuisine nearby, Sushi Kodawari delivers an unforgettable meal that
+  highlights the art of fine dining.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ3ZC-RRfxwIcREBi1SUGMQdE/reviews/ChZDSUhNMG9nS0VJQ0FnSUNfcmFHMkRREAE
@@ -408,6 +433,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNRN09HQ29RRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNRN09HQ29RRRAB!2m1!1s0x87c0f11745be90dd:0xd1418c4149b51810
+review_summary: >-
+  Buzz Around the Reviews$$$Folks are absolutely raving about the fresh and
+  flavorful offerings at this sushi spot, often highlighting how the authentic
+  Omakase style brings a true taste of Japan right to Kansas City. Many diners
+  appreciate the high-quality ingredients and the welcoming vibe that makes
+  every visit feel special and worth repeating. It's clear that the attention to
+  detail in preparation and service leaves a lasting impression, with people
+  noting it's one of the standout experiences in the area. Overall, the feedback
+  paints a picture of a place that's perfect for anyone looking to enjoy
+  top-notch sushi without the hassle, though it's wise to plan ahead for
+  reservations. While opinions are overwhelmingly positive, it's all about that
+  genuine, satisfying meal that keeps customers coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options:
   acceptsCreditCards: true
@@ -435,7 +473,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: true
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

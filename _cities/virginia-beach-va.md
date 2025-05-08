@@ -5,4 +5,5 @@ permalink: /virginia/virginia-beach/
 stateAbbr: VA
 stateName: Virginia
 cityName: Virginia Beach
+
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Poke Island Plus Vietnamese Cuisine, Sushi & Boba"
+title: Poke Island Plus Vietnamese Cuisine, Sushi & Boba
 permalink: /florida/tampa/poke-island-plus-vietnamese-cuisine-sushi-boba.html
 stateAbbr: FL
 stateName: Florida
 cityName: Tampa
 seo:
-  name: "Poke Island Plus Vietnamese Cuisine, Sushi & Boba"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Poke Island Plus Vietnamese Cuisine, Sushi & Boba serves delicious sushi in Tampa, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJyTUAVfW3wogRwEQEsa0sfk0
 photos:
   - name: >-
@@ -185,7 +183,42 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Poke Island Plus in Tampa, FL$$$Poke Island Plus Vietnamese Cuisine,
+  Sushi & Boba in Tampa, FL, offers a vibrant mix of Asian-inspired flavors that
+  make it a standout spot for casual dining. This welcoming restaurant features
+  fresh poke bowls, authentic Vietnamese dishes, creative sushi rolls, and
+  refreshing boba drinks, appealing to those seeking diverse culinary options in
+  a relaxed setting. Located in the New Tampa neighborhood, it provides easy
+  access with wheelchair-friendly parking and entrances, ensuring a comfortable
+  visit for everyone. Whether you're looking for sushi restaurants nearby or a
+  quick meal with variety, the blend of cuisines here highlights quality
+  ingredients and straightforward vibes that keep locals coming back.
+generative_summary: >-
+  Discover Poke Island Plus in Tampa, FL$$$Poke Island Plus Vietnamese Cuisine,
+  Sushi & Boba in Tampa, FL, offers a vibrant mix of Asian-inspired flavors that
+  make it a standout spot for casual dining. This welcoming restaurant features
+  fresh poke bowls, authentic Vietnamese dishes, creative sushi rolls, and
+  refreshing boba drinks, appealing to those seeking diverse culinary options in
+  a relaxed setting. Located in the New Tampa neighborhood, it provides easy
+  access with wheelchair-friendly parking and entrances, ensuring a comfortable
+  visit for everyone. Whether you're looking for sushi restaurants nearby or a
+  quick meal with variety, the blend of cuisines here highlights quality
+  ingredients and straightforward vibes that keep locals coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$While specific reviews for this spot aren't
+  available, similar sushi places near me often get praised for their fresh
+  ingredients and flavorful combinations, much like the poke and Vietnamese
+  offerings here. Folks appreciate the variety of options that cater to
+  different tastes, with many noting the satisfying sushi rolls and boba as
+  highlights for a laid-back outing. Accessibility features add to the appeal,
+  making it a go-to for groups or families seeking an inclusive vibe. Overall,
+  it's generally seen as a solid choice for anyone hunting top-rated sushi in
+  Tampa, with honest feedback emphasizing good value and tasty meals that leave
+  diners feeling content.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +244,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

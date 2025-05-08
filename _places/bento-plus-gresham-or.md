@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Bento Plus"
+title: Bento Plus
 permalink: /oregon/gresham/bento-plus.html
 stateAbbr: OR
 stateName: Oregon
 cityName: Gresham
 seo:
-  name: "Bento Plus"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Bento Plus serves delicious sushi in Gresham, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJQfxE7FaYlVQRTbe_82sdCeY
 photos:
   - name: >-
@@ -149,8 +147,8 @@ state: OR
 zip: '97080'
 country: USA
 neighborhood: Mount Hood
-latitude: '45.493774'
-longitude: '-122.409214'
+latitude: '45.493779'
+longitude: '-122.409212'
 accessibility_options:
   wheelchairAccessibleParking: true
   wheelchairAccessibleEntrance: true
@@ -170,7 +168,105 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x54959856ec44fc41:0xe6091d6bf3bfb74d!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 15
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 15
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 15
+        minute: 0
+    - open:
+        day: 6
+        hour: 16
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 3:00 PM, 4:30 – 9:00 PM'
     - 'Tuesday: 11:00 AM – 3:00 PM, 4:30 – 9:00 PM'
     - 'Wednesday: 11:00 AM – 3:00 PM, 4:30 – 9:00 PM'
@@ -178,14 +274,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 3:00 PM, 4:30 – 9:00 PM'
     - 'Saturday: 11:00 AM – 3:00 PM, 4:30 – 9:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:00 AM – 3:00 PM, 4:30 – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 3:00 PM, 4:30 – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 3:00 PM, 4:30 – 9:00 PM'
-    - 'Thursday: 11:00 AM – 3:00 PM, 4:30 – 9:00 PM'
-    - 'Friday: 11:00 AM – 3:00 PM, 4:30 – 9:00 PM'
-    - 'Saturday: 11:00 AM – 3:00 PM, 4:30 – 9:00 PM'
-    - 'Sunday: Closed'
+  nextOpenTime: '2025-05-03T23:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +286,265 @@ phone: (503) 492-2853
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.6'
-rating_count: 0
+rating_count: 534
 website: null
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Bento Plus in Gresham, OR$$$Nestled in Gresham, OR, Bento Plus stands
+  out as a welcoming sushi restaurant offering a laid-back atmosphere perfect
+  for enjoying fresh Japanese cuisine. This spot delights visitors with an array
+  of traditional dishes, including flavorful teriyaki, tempura, and an extensive
+  selection of sushi that caters to a variety of tastes. Accessibility features
+  like wheelchair-friendly parking and seating make it easy for everyone to
+  savor the experience, while options for beer and sake add to the relaxed vibe.
+  Whether you're seeking top sushi options near you or a casual spot for
+  Japanese-inspired meals, this eatery combines quality ingredients with
+  moderate pricing to create a memorable dining outing in the Mount Hood
+  neighborhood.
+generative_summary: >-
+  Discover Bento Plus in Gresham, OR$$$Nestled in Gresham, OR, Bento Plus stands
+  out as a welcoming sushi restaurant offering a laid-back atmosphere perfect
+  for enjoying fresh Japanese cuisine. This spot delights visitors with an array
+  of traditional dishes, including flavorful teriyaki, tempura, and an extensive
+  selection of sushi that caters to a variety of tastes. Accessibility features
+  like wheelchair-friendly parking and seating make it easy for everyone to
+  savor the experience, while options for beer and sake add to the relaxed vibe.
+  Whether you're seeking top sushi options near you or a casual spot for
+  Japanese-inspired meals, this eatery combines quality ingredients with
+  moderate pricing to create a memorable dining outing in the Mount Hood
+  neighborhood.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJQfxE7FaYlVQRTbe_82sdCeY/reviews/ChdDSUhNMG9nS0VJQ0FnTURvcnRUQTh3RRAB
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        Love love love this place. Sushi is so fresh. Grest customer service.
+        Highly recommend the sushi boat. Enjoy babies
+      languageCode: en
+    originalText:
+      text: >-
+        Love love love this place. Sushi is so fresh. Grest customer service.
+        Highly recommend the sushi boat. Enjoy babies
+      languageCode: en
+    authorAttribution:
+      displayName: Chevy Renee
+      uri: https://www.google.com/maps/contrib/118252699011689945655/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVP6_1nTbYefQpvhLpPnW-oxY-t4ya0VD0zq91Sh8hSO11LdTz5JA=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-25T01:01:44.368902Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURvcnRUQTh3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURvcnRUQTh3RRAB!2m1!1s0x54959856ec44fc41:0xe6091d6bf3bfb74d
+  - name: >-
+      places/ChIJQfxE7FaYlVQRTbe_82sdCeY/reviews/ChdDSUhNMG9nS0VJQ0FnSUNtZ0w3UTZ3RRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        We’ve ordered take out here a couple times and really enjoy their sushi.
+        Great quality, great prices. I recommend the tuna poke salad and the bay
+        island roll!!
+      languageCode: en
+    originalText:
+      text: >-
+        We’ve ordered take out here a couple times and really enjoy their sushi.
+        Great quality, great prices. I recommend the tuna poke salad and the bay
+        island roll!!
+      languageCode: en
+    authorAttribution:
+      displayName: Kelly Holmes
+      uri: https://www.google.com/maps/contrib/117351116289925492660/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVuJtdr5ZXDYHRAq-NFB0DsQ6MSsvVnscxVpPmXAlkXWvRSyEs=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-01-23T00:06:04.985177Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNtZ0w3UTZ3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNtZ0w3UTZ3RRAB!2m1!1s0x54959856ec44fc41:0xe6091d6bf3bfb74d
+  - name: >-
+      places/ChIJQfxE7FaYlVQRTbe_82sdCeY/reviews/ChZDSUhNMG9nS0VJQ0FnSUN2NjZUWkNnEAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        Great place to eat.. super chill atmosphere.. super friendly folks..
+        great place to unwind after a busy week. Super calm. Very happy to
+        finally relax. Perfect portion sizes and perfect prices. Will come
+        again.. especially for some sake
+      languageCode: en
+    originalText:
+      text: >-
+        Great place to eat.. super chill atmosphere.. super friendly folks..
+        great place to unwind after a busy week. Super calm. Very happy to
+        finally relax. Perfect portion sizes and perfect prices. Will come
+        again.. especially for some sake
+      languageCode: en
+    authorAttribution:
+      displayName: Brian Mashin
+      uri: https://www.google.com/maps/contrib/103751917114341741404/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjV2x9ffFn0WJjld91jLGW66DrPzql6axFB3uEEs62nzRKND293R=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-12-14T21:05:05.498740Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN2NjZUWkNnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN2NjZUWkNnEAE!2m1!1s0x54959856ec44fc41:0xe6091d6bf3bfb74d
+  - name: >-
+      places/ChIJQfxE7FaYlVQRTbe_82sdCeY/reviews/ChZDSUhNMG9nS0VJQ0FnSURPeGJfUVFREAE
+    relativePublishTimeDescription: 2 years ago
+    rating: 5
+    text:
+      text: >-
+        Awesome!! What a fantastic food(Roll and Sushi). Those are one of my
+        best food I've have ever eaten. The Mr.chef is also very a expert for
+        sushi. I will visit again.
+
+
+        Thank you so much for taking opportunity to eat.
+      languageCode: en
+    originalText:
+      text: >-
+        Awesome!! What a fantastic food(Roll and Sushi). Those are one of my
+        best food I've have ever eaten. The Mr.chef is also very a expert for
+        sushi. I will visit again.
+
+
+        Thank you so much for taking opportunity to eat.
+      languageCode: en
+    authorAttribution:
+      displayName: 엘도라도(Xess)
+      uri: https://www.google.com/maps/contrib/117901645723665910501/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUJtDR-zh-xNkMzgcgAuGVGILs1nCIgc83Fy-XTaEVmpYWVi-_3=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2022-07-10T04:51:37.985123Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURPeGJfUVFREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURPeGJfUVFREAE!2m1!1s0x54959856ec44fc41:0xe6091d6bf3bfb74d
+  - name: >-
+      places/ChIJQfxE7FaYlVQRTbe_82sdCeY/reviews/ChZDSUhNMG9nS0VJQ0FnSUNmeWV5Y1N3EAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        I have made a point in my life to visit as many sushi restaurants as
+        possible  when traveling & after thinking about it just now it’s
+        definitely more than 50 and less than 100, probably about 70. This is my
+        favorite sushi restaurant. It’s the best one I’ve ever been to, not just
+        my favorite sushi restaurant around here but by far the absolute best
+        one I’ve been to objectively. The fish is as fresh as it gets that’s the
+        most important thing with sushi. The service is incredible every time.
+        I’ve been eating here over a decade and every time the staff are so
+        friendly, quick and professional, and I haven’t even started talking
+        about the sushi yet!! The rolls themselves are creative and the menu is
+        fun! Large menus are looked down on by some snobby restaurant critic
+        types, but this is a great example of a huge menu that works great! My
+        absolute favorite roll is the Seattle! I get it every time I visit but
+        the Heart Attack is very good too and I’d recommend you go there
+        immediately try both and if you’re not completely blown away you should
+        probably get checked to make sure you’re not sick because something is
+        wrong with your sense of taste. Oh my goodness the Udon too!!! I can’t
+        name another place I can count on to get good Udon around here let alone
+        the delicious Udon I get here. I still find it amazing, I’ve visited
+        Sushi restaurants in LA, Seattle, San Francisco, etc yet my absolute
+        favorite is right here in Gresham. I would put this sushi up against any
+        on the west coast in a blind taste test and bet heavily on Bento Plus. I
+        have been charged much more for inferior Sushi, and happily paid it. As
+        such I always tip very well when I visit, except for possibly once or
+        twice when I was short on cash and probably shouldn’t have been ordering
+        Sushi in the first place.
+      languageCode: en
+    originalText:
+      text: >-
+        I have made a point in my life to visit as many sushi restaurants as
+        possible  when traveling & after thinking about it just now it’s
+        definitely more than 50 and less than 100, probably about 70. This is my
+        favorite sushi restaurant. It’s the best one I’ve ever been to, not just
+        my favorite sushi restaurant around here but by far the absolute best
+        one I’ve been to objectively. The fish is as fresh as it gets that’s the
+        most important thing with sushi. The service is incredible every time.
+        I’ve been eating here over a decade and every time the staff are so
+        friendly, quick and professional, and I haven’t even started talking
+        about the sushi yet!! The rolls themselves are creative and the menu is
+        fun! Large menus are looked down on by some snobby restaurant critic
+        types, but this is a great example of a huge menu that works great! My
+        absolute favorite roll is the Seattle! I get it every time I visit but
+        the Heart Attack is very good too and I’d recommend you go there
+        immediately try both and if you’re not completely blown away you should
+        probably get checked to make sure you’re not sick because something is
+        wrong with your sense of taste. Oh my goodness the Udon too!!! I can’t
+        name another place I can count on to get good Udon around here let alone
+        the delicious Udon I get here. I still find it amazing, I’ve visited
+        Sushi restaurants in LA, Seattle, San Francisco, etc yet my absolute
+        favorite is right here in Gresham. I would put this sushi up against any
+        on the west coast in a blind taste test and bet heavily on Bento Plus. I
+        have been charged much more for inferior Sushi, and happily paid it. As
+        such I always tip very well when I visit, except for possibly once or
+        twice when I was short on cash and probably shouldn’t have been ordering
+        Sushi in the first place.
+      languageCode: en
+    authorAttribution:
+      displayName: Sam B
+      uri: https://www.google.com/maps/contrib/110613159192742607602/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocInXrVeAIeoc7a3jOnTdjvp9IXUml2ChYy534n_9F1S1jwU5w=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2024-12-30T09:03:09.041911Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNmeWV5Y1N3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNmeWV5Y1N3EAE!2m1!1s0x54959856ec44fc41:0xe6091d6bf3bfb74d
+review_summary: >-
+  What Customers Love About This Sushi Spot$$$Folks rave about the incredibly
+  fresh sushi at this Gresham favorite, with standout rolls like the Seattle and
+  Heart Attack earning high marks for their creative flavors and generous
+  portions. Many appreciate the friendly and efficient service that keeps things
+  running smoothly, making it a go-to choice for quick takeout or a relaxed meal
+  with friends. Visitors often highlight the great value for the price, noting
+  that dishes like the tuna poke salad and udon hit the spot without breaking
+  the bank. Overall, the chill atmosphere and solid selection make it a reliable
+  pick for anyone hunting for the best sushi near me, though some mention it's
+  best enjoyed during peak hours for the fullest experience. If you're exploring
+  sushi restaurants in the area, this one's worth a try for its consistent
+  quality and welcoming feel.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
+delivery: false
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
 menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: false
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Japanese restaurant with a relaxed vibe executing traditional dishes & an
+  extensive menu of sushi.
 
 ---

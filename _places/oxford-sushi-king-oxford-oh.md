@@ -1,15 +1,14 @@
 ---
 layout: place
-title: "Oxford Sushi King"
+title: Oxford Sushi King
 permalink: /ohio/oxford/oxford-sushi-king.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Oxford
 seo:
-  name: "Oxford Sushi King"
-  type: Restaurant
-  links: null
-description: "Oxford Sushi King serves delicious sushi in Oxford, Ohio. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: >-
+    https://www.oxfordsushiking.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=7926408088504885893
 place_id: ChIJ91PblMI9QIgRieIw6UC7ZAk
 photos:
   - name: >-
@@ -170,8 +169,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x88403dc294db53f7:0x964bb40e930e289!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 10:00 PM'
+    - 'Tuesday: 11:00 AM – 10:00 PM'
+    - 'Wednesday: 11:00 AM – 10:00 PM'
+    - 'Thursday: 11:00 AM – 10:00 PM'
+    - 'Friday: 11:00 AM – 10:00 PM'
+    - 'Saturday: 11:00 AM – 10:00 PM'
+    - 'Sunday: 11:00 AM – 10:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +243,49 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
+phone: (513) 280-6001
 price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+price_range: $10 &ndash; $20
+rating: '4.3'
+rating_count: 88
+website: >-
+  https://www.oxfordsushiking.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=7926408088504885893
+description: >-
+  Discover Oxford Sushi King in Oxford, OH$$$Oxford Sushi King in Oxford, OH,
+  stands out as a welcoming spot for enjoying fresh sushi and small plates in a
+  relaxed setting. This casual sushi restaurant specializes in quick bites and
+  flavorful Japanese-inspired dishes that cater to those seeking convenient yet
+  tasty meals. With accessibility features like wheelchair-friendly parking and
+  entrances, it's an inclusive choice for everyone looking to savor authentic
+  flavors without hassle. The daily hours from 11 AM to 10 PM make it easy to
+  drop in for a satisfying lunch or dinner, perfect for anyone exploring sushi
+  options nearby. Its inviting atmosphere enhances the overall experience,
+  making it a go-to destination for sushi enthusiasts in the area.
+generative_summary: >-
+  Discover Oxford Sushi King in Oxford, OH$$$Oxford Sushi King in Oxford, OH,
+  stands out as a welcoming spot for enjoying fresh sushi and small plates in a
+  relaxed setting. This casual sushi restaurant specializes in quick bites and
+  flavorful Japanese-inspired dishes that cater to those seeking convenient yet
+  tasty meals. With accessibility features like wheelchair-friendly parking and
+  entrances, it's an inclusive choice for everyone looking to savor authentic
+  flavors without hassle. The daily hours from 11 AM to 10 PM make it easy to
+  drop in for a satisfying lunch or dinner, perfect for anyone exploring sushi
+  options nearby. Its inviting atmosphere enhances the overall experience,
+  making it a go-to destination for sushi enthusiasts in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Folks often highlight the fresh and well-prepared
+  rolls at this spot, appreciating how it delivers solid flavors without
+  overcomplicating things. Many enjoy the quick service and reasonable prices,
+  making it a reliable pick for casual meals with friends or solo diners. While
+  some note that portions could be a bit more generous, the overall vibe keeps
+  things positive for those hunting for top-rated sushi in a laid-back
+  environment. It's frequently praised for its consistency and welcoming feel,
+  drawing in locals who love exploring Japanese places close to home. All in
+  all, the feedback paints a picture of a dependable choice that hits the mark
+  for tasty, everyday dining without any major letdowns.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +311,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

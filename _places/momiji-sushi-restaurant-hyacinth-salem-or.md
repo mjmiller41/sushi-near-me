@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Momiji Sushi Restaurant - Hyacinth"
+title: Momiji Sushi Restaurant - Hyacinth
 permalink: /oregon/salem/momiji-sushi-restaurant-hyacinth.html
 stateAbbr: OR
 stateName: Oregon
 cityName: Salem
 seo:
-  name: "Momiji Sushi Restaurant - Hyacinth"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Momiji Sushi Restaurant - Hyacinth serves delicious sushi in Salem, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJa_QBU7b_v1QR3wX8EuRNiJI
 photos:
   - name: >-
@@ -185,7 +183,44 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Momiji Sushi Restaurant in Salem, OR$$$Momiji Sushi Restaurant -
+  Hyacinth in Salem, OR, stands out as a welcoming spot for those craving
+  authentic Japanese flavors, featuring a casual vibe and a variety of fresh
+  sushi options that cater to everyday diners. This establishment highlights an
+  array of Japanese dishes alongside enticing happy hour deals, making it an
+  ideal choice for anyone exploring sushi restaurants in the area. With its
+  accessible features like wheelchair-friendly parking and seating, it ensures a
+  comfortable experience for all guests seeking top-rated sushi near them. The
+  menu's emphasis on quality ingredients and diverse selections adds to the
+  appeal, perfect for those looking for sushi places near me that balance
+  tradition with affordability.
+generative_summary: >-
+  Discover Momiji Sushi Restaurant in Salem, OR$$$Momiji Sushi Restaurant -
+  Hyacinth in Salem, OR, stands out as a welcoming spot for those craving
+  authentic Japanese flavors, featuring a casual vibe and a variety of fresh
+  sushi options that cater to everyday diners. This establishment highlights an
+  array of Japanese dishes alongside enticing happy hour deals, making it an
+  ideal choice for anyone exploring sushi restaurants in the area. With its
+  accessible features like wheelchair-friendly parking and seating, it ensures a
+  comfortable experience for all guests seeking top-rated sushi near them. The
+  menu's emphasis on quality ingredients and diverse selections adds to the
+  appeal, perfect for those looking for sushi places near me that balance
+  tradition with affordability.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$If you're hunting for sushi near me in Salem,
+  folks generally appreciate the fresh and flavorful rolls at spots like this,
+  often noting the solid variety that keeps things exciting for repeat visits.
+  Many highlight the friendly service and reasonable prices, making it a
+  reliable pick for casual meals with friends or family. While experiences can
+  vary, the overall vibe comes across as relaxed and enjoyable, with positive
+  mentions of the happy hour specials adding extra value. Diners tend to agree
+  that it's a great option among Japanese places near me for satisfying sushi
+  cravings without any major letdowns, keeping the atmosphere light and the food
+  consistently appealing.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +246,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

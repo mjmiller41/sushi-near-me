@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Freestyle Poke"
+title: Freestyle Poke
 permalink: /missouri/kansas-city/freestyle-poke.html
 stateAbbr: MO
 stateName: Missouri
 cityName: Kansas City
 seo:
-  name: "Freestyle Poke"
-  type: Restaurant
+  type: restaurant
   links: http://www.freestylepoke.com/
-description: "Freestyle Poke serves delicious sushi in Kansas City, Missouri. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJve-_HFzxwIcR3CGnzgTgLv8
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 0
 website: http://www.freestylepoke.com/
+description: >-
+  Explore Freestyle Poke in Kansas City$$$Freestyle Poke in Kansas City, MO,
+  stands out as a relaxed spot for enjoying fresh Hawaiian poke bowls, blending
+  vibrant flavors with gluten-free and vegan choices that cater to various
+  dietary needs. Nestled in the lively River Market neighborhood, this eatery
+  offers customizable seafood dishes made with high-quality ingredients, making
+  it a go-to for those seeking sushi-inspired meals near you. Accessibility
+  features like wheelchair-friendly entrances and seating ensure a welcoming
+  experience for all visitors, while options for outdoor dining add to its charm
+  in a bustling urban setting. Whether you're looking for top-rated poke or
+  Japanese-inspired places close to you, the generous portions and
+  health-focused menu make every visit memorable and satisfying.
+generative_summary: >-
+  Explore Freestyle Poke in Kansas City$$$Freestyle Poke in Kansas City, MO,
+  stands out as a relaxed spot for enjoying fresh Hawaiian poke bowls, blending
+  vibrant flavors with gluten-free and vegan choices that cater to various
+  dietary needs. Nestled in the lively River Market neighborhood, this eatery
+  offers customizable seafood dishes made with high-quality ingredients, making
+  it a go-to for those seeking sushi-inspired meals near you. Accessibility
+  features like wheelchair-friendly entrances and seating ensure a welcoming
+  experience for all visitors, while options for outdoor dining add to its charm
+  in a bustling urban setting. Whether you're looking for top-rated poke or
+  Japanese-inspired places close to you, the generous portions and
+  health-focused menu make every visit memorable and satisfying.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJve-_HFzxwIcR3CGnzgTgLv8/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRajQtZFhBEAE
@@ -382,6 +405,17 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNBMGIyMHhRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNBMGIyMHhRRRAB!2m1!1s0x87c0f15c1cbfefbd:0xff2ee004cea721dc
+review_summary: >-
+  Customer Feedback Highlights$$$Folks love the fresh and flavorful poke bowls
+  at this spot, often praising the wide range of customization options that let
+  you build a meal just right for your tastes. Many appreciate the generous
+  portions that make for a filling and value-packed experience, turning a quick
+  stop into a satisfying feast. Reviewers frequently mention how the helpful
+  service and healthy vibes make it easy for first-timers to dive in, with
+  standout dishes leaving them eager to return. Overall, it's a solid choice for
+  anyone hunting for quality seafood options, delivering a positive dining vibe
+  that's both casual and enjoyable without any major drawbacks.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -415,7 +449,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -5,4 +5,5 @@ permalink: /california/solana-beach/
 stateAbbr: CA
 stateName: California
 cityName: Solana Beach
+
 ---

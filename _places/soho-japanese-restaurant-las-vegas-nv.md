@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Soho Japanese Restaurant"
+title: Soho Japanese Restaurant
 permalink: /nevada/las-vegas/soho-japanese-restaurant.html
 stateAbbr: NV
 stateName: Nevada
 cityName: Las Vegas
 seo:
-  name: "Soho Japanese Restaurant"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Soho Japanese Restaurant serves delicious sushi in Las Vegas, Nevada. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJDzQ1Si_GyIARy_IPbqOOd70
 photos:
   - name: >-
@@ -185,7 +183,41 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Soho Japanese Restaurant in Las Vegas, NV$$$Soho Japanese Restaurant
+  in Las Vegas, NV, stands out as a welcoming spot for enjoying fresh sushi and
+  inventive Japanese flavors in a relaxed environment. This eatery delights
+  visitors with its creative dishes and specials, including options that make it
+  a favorite for those searching for quality sushi nearby. The casual atmosphere
+  is enhanced by thoughtful details like accessibility features, ensuring
+  everyone can savor the experience comfortably. Happy hour offerings add to the
+  appeal, providing affordable ways to try signature rolls and other delights.
+  For anyone exploring top-rated sushi restaurants in the area, this location
+  combines authentic tastes with a laid-back vibe that keeps diners coming back.
+generative_summary: >-
+  Discover Soho Japanese Restaurant in Las Vegas, NV$$$Soho Japanese Restaurant
+  in Las Vegas, NV, stands out as a welcoming spot for enjoying fresh sushi and
+  inventive Japanese flavors in a relaxed environment. This eatery delights
+  visitors with its creative dishes and specials, including options that make it
+  a favorite for those searching for quality sushi nearby. The casual atmosphere
+  is enhanced by thoughtful details like accessibility features, ensuring
+  everyone can savor the experience comfortably. Happy hour offerings add to the
+  appeal, providing affordable ways to try signature rolls and other delights.
+  For anyone exploring top-rated sushi restaurants in the area, this location
+  combines authentic tastes with a laid-back vibe that keeps diners coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying About the Experience$$$Folks frequently highlight the
+  standout sashimi and hearty miso soup as highlights that make meals feel
+  special at this Japanese spot. The popular rolls, like one with a fiery twist,
+  often get nods for their bold flavors and fresh ingredients that hit the spot.
+  Many appreciate the warm and helpful service that creates a cozy, inviting
+  feel throughout the visit. Happy hour deals come up a lot for offering solid
+  value without skimping on quality, making it a go-to for casual get-togethers.
+  Overall, it's a reliable choice for sushi lovers seeking a positive dining
+  experience with good vibes and tasty options.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +243,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

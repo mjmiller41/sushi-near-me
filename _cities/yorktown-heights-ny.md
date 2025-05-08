@@ -5,4 +5,5 @@ permalink: /new-york/yorktown-heights/
 stateAbbr: NY
 stateName: New York
 cityName: Yorktown Heights
+
 ---

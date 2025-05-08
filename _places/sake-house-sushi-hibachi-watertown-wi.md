@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sake House | Sushi & Hibachi"
+title: Sake House | Sushi & Hibachi
 permalink: /wisconsin/watertown/sake-house-sushi-hibachi.html
 stateAbbr: WI
 stateName: Wisconsin
 cityName: Watertown
 seo:
-  name: "Sake House | Sushi & Hibachi"
-  type: Restaurant
-  links: null
-description: "Sake House | Sushi & Hibachi serves delicious sushi in Watertown, Wisconsin. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.sakehousewatertown.com/
 place_id: ChIJvW3wPTgrBIgRW79TWo5xyuE
 photos:
   - name: >-
@@ -170,22 +168,224 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x88042b383df06dbd:0xe1ca718e5a53bf5b!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 10
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: Closed'
+    - 'Tuesday: 10:00 AM – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 9:00 PM'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 10:00 PM'
+    - 'Saturday: 11:00 AM – 10:00 PM'
+    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+  - openNow: false
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 0
+        close:
+          day: 0
+          hour: 15
+          minute: 0
+      - open:
+          day: 2
+          hour: 11
+          minute: 0
+        close:
+          day: 2
+          hour: 15
+          minute: 0
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 15
+          minute: 0
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 15
+          minute: 0
+      - open:
+          day: 5
+          hour: 12
+          minute: 0
+        close:
+          day: 5
+          hour: 15
+          minute: 0
+      - open:
+          day: 6
+          hour: 11
+          minute: 0
+        close:
+          day: 6
+          hour: 15
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: Closed'
+      - 'Tuesday: 11:00 AM – 3:00 PM'
+      - 'Wednesday: 11:00 AM – 3:00 PM'
+      - 'Thursday: 11:00 AM – 3:00 PM'
+      - 'Friday: 12:00 – 3:00 PM'
+      - 'Saturday: 11:00 AM – 3:00 PM'
+      - 'Sunday: 12:00 – 3:00 PM'
+    secondaryHoursType: LUNCH
+    nextOpenTime: '2025-05-04T17:00:00Z'
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 15
+          minute: 0
+        close:
+          day: 0
+          hour: 21
+          minute: 0
+      - open:
+          day: 2
+          hour: 15
+          minute: 0
+        close:
+          day: 2
+          hour: 21
+          minute: 0
+      - open:
+          day: 3
+          hour: 15
+          minute: 0
+        close:
+          day: 3
+          hour: 21
+          minute: 0
+      - open:
+          day: 4
+          hour: 15
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 0
+      - open:
+          day: 5
+          hour: 15
+          minute: 0
+        close:
+          day: 5
+          hour: 22
+          minute: 0
+      - open:
+          day: 6
+          hour: 15
+          minute: 0
+        close:
+          day: 6
+          hour: 22
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: Closed'
+      - 'Tuesday: 3:00 – 9:00 PM'
+      - 'Wednesday: 3:00 – 9:00 PM'
+      - 'Thursday: 3:00 – 9:00 PM'
+      - 'Friday: 3:00 – 10:00 PM'
+      - 'Saturday: 3:00 – 10:00 PM'
+      - 'Sunday: 3:00 – 9:00 PM'
+    secondaryHoursType: DINNER
+    nextCloseTime: '2025-05-04T03:00:00Z'
+phone: (920) 390-4242
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.7'
+rating_count: 641
+website: https://www.sakehousewatertown.com/
+description: >-
+  Discover Sake House in Watertown, WI$$$Sake House | Sushi & Hibachi in
+  Watertown, WI, stands out as a welcoming spot for enjoying fresh sushi and
+  Japanese-inspired dishes in a relaxed atmosphere. This sushi restaurant near
+  you offers a diverse menu featuring flavorful teriyaki, bento boxes, and a
+  selection of wines and sake to complement your meal. With its focus on
+  high-quality ingredients and accessible features like wheelchair-friendly
+  parking and seating, it's an ideal choice for casual dining or gathering with
+  friends. Operating hours cater to both lunch and dinner crowds, ensuring you
+  can savor top-rated sushi options throughout the week.
+generative_summary: >-
+  Discover Sake House in Watertown, WI$$$Sake House | Sushi & Hibachi in
+  Watertown, WI, stands out as a welcoming spot for enjoying fresh sushi and
+  Japanese-inspired dishes in a relaxed atmosphere. This sushi restaurant near
+  you offers a diverse menu featuring flavorful teriyaki, bento boxes, and a
+  selection of wines and sake to complement your meal. With its focus on
+  high-quality ingredients and accessible features like wheelchair-friendly
+  parking and seating, it's an ideal choice for casual dining or gathering with
+  friends. Operating hours cater to both lunch and dinner crowds, ensuring you
+  can savor top-rated sushi options throughout the week.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors often praise the delicious sushi combos
+  and hibachi favorites at this spot, highlighting the fresh fish and tasty
+  flavors that make every bite worthwhile. Many appreciate the efficient service
+  and welcoming vibe that keep things running smoothly without any fuss. Folks
+  frequently mention the reasonable prices as a big plus, offering great value
+  for authentic Japanese cuisine that's hard to beat. Overall, it's a solid pick
+  for anyone seeking a satisfying meal, with the general consensus leaning
+  towards repeat visits for the reliable quality and enjoyable experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +411,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

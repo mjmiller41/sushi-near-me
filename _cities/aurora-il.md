@@ -5,4 +5,5 @@ permalink: /illinois/aurora/
 stateAbbr: IL
 stateName: Illinois
 cityName: Aurora
+
 ---

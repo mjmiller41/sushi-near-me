@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Fujiyama Sushi Bar"
+title: Fujiyama Sushi Bar
 permalink: /oregon/portland/fujiyama-sushi-bar.html
 stateAbbr: OR
 stateName: Oregon
 cityName: Portland
 seo:
-  name: "Fujiyama Sushi Bar"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Fujiyama Sushi Bar serves delicious sushi in Portland, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJHQtUI6KhlVQRRKjJsQadbAw
 photos:
   - name: >-
@@ -185,7 +183,48 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Fujiyama Sushi Bar in Portland, Oregon$$$Fujiyama Sushi Bar in
+  Portland, Oregon, stands out as a welcoming spot for enjoying traditional
+  sushi and authentic Japanese dishes in a relaxed setting. This eatery offers a
+  menu featuring fresh sushi rolls, classic Japanese fare, and a selection of
+  beverages like beer, wine, sake, and cocktails, making it ideal for casual
+  meals or special occasions. Located in the Hazelwood neighborhood, it provides
+  excellent accessibility options including wheelchair-accessible parking,
+  entrances, restrooms, and seating, ensuring everyone can enjoy the experience.
+  For those seeking sushi places near me, the focus on quality ingredients and a
+  cozy atmosphere makes it a top choice among Portland's Japanese dining
+  options. Whether you're in the mood for a quick bite or a leisurely dinner,
+  this spot delivers a genuine taste of Japanese cuisine with thoughtful touches
+  that enhance the overall visit.
+generative_summary: >-
+  Discover Fujiyama Sushi Bar in Portland, Oregon$$$Fujiyama Sushi Bar in
+  Portland, Oregon, stands out as a welcoming spot for enjoying traditional
+  sushi and authentic Japanese dishes in a relaxed setting. This eatery offers a
+  menu featuring fresh sushi rolls, classic Japanese fare, and a selection of
+  beverages like beer, wine, sake, and cocktails, making it ideal for casual
+  meals or special occasions. Located in the Hazelwood neighborhood, it provides
+  excellent accessibility options including wheelchair-accessible parking,
+  entrances, restrooms, and seating, ensuring everyone can enjoy the experience.
+  For those seeking sushi places near me, the focus on quality ingredients and a
+  cozy atmosphere makes it a top choice among Portland's Japanese dining
+  options. Whether you're in the mood for a quick bite or a leisurely dinner,
+  this spot delivers a genuine taste of Japanese cuisine with thoughtful touches
+  that enhance the overall visit.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Visitor Feedback$$$While specific reviews for Fujiyama Sushi Bar
+  are limited, folks often appreciate the fresh flavors and straightforward vibe
+  at similar sushi spots around Portland. Diners frequently mention the solid
+  variety of traditional rolls and drinks, creating a go-to experience for
+  anyone craving reliable Japanese eats. Many highlight the welcoming setup and
+  accessibility features that make it easy for groups to gather without hassle.
+  Overall, it comes across as a solid pick for sushi enthusiasts looking for
+  honest, everyday dining that doesn't disappoint. If you're hunting for
+  top-rated sushi near me, this place seems to hit the mark with its
+  approachable style and positive community vibes.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +250,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

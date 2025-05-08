@@ -5,4 +5,5 @@ permalink: /oregon/west-linn/
 stateAbbr: OR
 stateName: Oregon
 cityName: West Linn
+
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Hana Sushi"
+title: Hana Sushi
 permalink: /hawaii/honolulu/hana-sushi.html
 stateAbbr: HI
 stateName: Hawaii
 cityName: Honolulu
 seo:
-  name: "Hana Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://hanasushihawaii.com/
-description: "Hana Sushi serves delicious sushi in Honolulu, Hawaii. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJK6v1W2cSAHwRrGungn6hbpI
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x7c0012675bf5ab2b:0x926ea17e82a76bac!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 19
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 19
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 19
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 19
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 19
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 19
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 19
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 7:30 PM'
     - 'Tuesday: 11:00 AM – 7:30 PM'
     - 'Wednesday: 11:00 AM – 7:30 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 7:30 PM'
     - 'Saturday: 11:00 AM – 7:30 PM'
     - 'Sunday: 11:00 AM – 7:30 PM'
-  current:
-    - 'Monday: 11:00 AM – 7:30 PM'
-    - 'Tuesday: 11:00 AM – 7:30 PM'
-    - 'Wednesday: 11:00 AM – 7:30 PM'
-    - 'Thursday: 11:00 AM – 7:30 PM'
-    - 'Friday: 11:00 AM – 7:30 PM'
-    - 'Saturday: 11:00 AM – 7:30 PM'
-    - 'Sunday: 11:00 AM – 7:30 PM'
+  nextCloseTime: '2025-05-04T05:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,226 @@ phone: (808) 395-4330
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.3'
-rating_count: 0
+rating_count: 185
 website: http://hanasushihawaii.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Hana Sushi in Honolulu, HI$$$Hana Sushi in Honolulu, HI, stands out
+  as a welcoming spot for enjoying fresh sushi and authentic Japanese dishes in
+  a convenient neighborhood setting. This eatery features a variety of options
+  like poke bowls and teriyaki, making it a go-to choice for those seeking
+  flavorful Japanese fare in a relaxed atmosphere. With accessibility features
+  such as wheelchair-friendly parking and entrances, it's designed to
+  accommodate all visitors, enhancing the overall dining experience. The menu
+  highlights affordable prices and a selection of dishes that blend traditional
+  flavors with local influences, perfect for anyone exploring sushi places near
+  me. Operating daily from 11 AM to 7:30 PM, it offers a straightforward spot to
+  savor top-rated sushi without the hassle.
+generative_summary: >-
+  Discover Hana Sushi in Honolulu, HI$$$Hana Sushi in Honolulu, HI, stands out
+  as a welcoming spot for enjoying fresh sushi and authentic Japanese dishes in
+  a convenient neighborhood setting. This eatery features a variety of options
+  like poke bowls and teriyaki, making it a go-to choice for those seeking
+  flavorful Japanese fare in a relaxed atmosphere. With accessibility features
+  such as wheelchair-friendly parking and entrances, it's designed to
+  accommodate all visitors, enhancing the overall dining experience. The menu
+  highlights affordable prices and a selection of dishes that blend traditional
+  flavors with local influences, perfect for anyone exploring sushi places near
+  me. Operating daily from 11 AM to 7:30 PM, it offers a straightforward spot to
+  savor top-rated sushi without the hassle.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJK6v1W2cSAHwRrGungn6hbpI/reviews/ChZDSUhNMG9nS0VJQ0FnSUNKM3J5QkxnEAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        Delicious food!! We got chicken teriyaki, salmon roll, California roll,
+        2 cucumber rolls, tuna roll, and 4 miso soups. (I loved every single one
+        of these dishes.) The prices are very affordable. Service is quick and
+        the staff is nice as well. I would recommend stopping by.
+      languageCode: en
+    originalText:
+      text: >-
+        Delicious food!! We got chicken teriyaki, salmon roll, California roll,
+        2 cucumber rolls, tuna roll, and 4 miso soups. (I loved every single one
+        of these dishes.) The prices are very affordable. Service is quick and
+        the staff is nice as well. I would recommend stopping by.
+      languageCode: en
+    authorAttribution:
+      displayName: Anastasia Borisevich
+      uri: https://www.google.com/maps/contrib/109177235191430508425/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUYZ45Ewy2ymkvcY2lNyTP7EkD7GgDM4qm-yITemrx12rrckkVJ=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2023-06-27T23:56:40.060236Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNKM3J5QkxnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNKM3J5QkxnEAE!2m1!1s0x7c0012675bf5ab2b:0x926ea17e82a76bac
+  - name: >-
+      places/ChIJK6v1W2cSAHwRrGungn6hbpI/reviews/ChdDSUhNMG9nS0VJQ0FnTURBeXVxZTd3RRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 4
+    text:
+      text: >-
+        We came here expecting conveyor belt sushi, but there was no conveyor
+        belt in sight. Maybe there used to be something, but not anymore. We got
+        a California Roll and a Sunset Roll. I don't typically like fish in my
+        sushi (I usually stick to veggies), but actually I loved the Sunset
+        Roll. Overall, happy with the food, but disappointed by the lack of the
+        belt.
+      languageCode: en
+    originalText:
+      text: >-
+        We came here expecting conveyor belt sushi, but there was no conveyor
+        belt in sight. Maybe there used to be something, but not anymore. We got
+        a California Roll and a Sunset Roll. I don't typically like fish in my
+        sushi (I usually stick to veggies), but actually I loved the Sunset
+        Roll. Overall, happy with the food, but disappointed by the lack of the
+        belt.
+      languageCode: en
+    authorAttribution:
+      displayName: Janelle Youngstrom
+      uri: https://www.google.com/maps/contrib/106327751962179631311/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVlhQOtO0NHkFizTbSd4z9LBb-JTsHEUdOLN_tJk-v3q9srYlyXWA=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-02-08T04:21:35.804389Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURBeXVxZTd3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURBeXVxZTd3RRAB!2m1!1s0x7c0012675bf5ab2b:0x926ea17e82a76bac
+  - name: >-
+      places/ChIJK6v1W2cSAHwRrGungn6hbpI/reviews/ChdDSUhNMG9nS0VJQ0FnSUNXemR2aTVnRRAB
+    relativePublishTimeDescription: 3 years ago
+    rating: 5
+    text:
+      text: >-
+        Fantastic sushi! We went here on a whim and it turned out to be some of
+        the best sushi we ever had. The wait staff and the chefs were so
+        attentive and polite. Our party of 4 was very very happy. They
+        accommodated the kids well too.
+      languageCode: en
+    originalText:
+      text: >-
+        Fantastic sushi! We went here on a whim and it turned out to be some of
+        the best sushi we ever had. The wait staff and the chefs were so
+        attentive and polite. Our party of 4 was very very happy. They
+        accommodated the kids well too.
+      languageCode: en
+    authorAttribution:
+      displayName: Molly Noyes
+      uri: https://www.google.com/maps/contrib/114429875928776755944/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJ8Q9RKfxadab3j-ZSGKvqcgqmSfsKs-aAPZUvvrkX7-RTyhg=s128-c0x00000000-cc-rp-mo
+    publishTime: '2022-03-04T05:33:30.359754Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNXemR2aTVnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNXemR2aTVnRRAB!2m1!1s0x7c0012675bf5ab2b:0x926ea17e82a76bac
+  - name: >-
+      places/ChIJK6v1W2cSAHwRrGungn6hbpI/reviews/ChdDSUhNMG9nS0VJQ0FnSURGMnIydjRnRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        I am only 36, but this local place has hands down the best 🔥 cracker
+        roll 👌 in America! If you are from Texas, you will respect this spicy
+        😋 deliciousness. NOAH, the greeter/server was awesome! Coming back
+        manana!
+      languageCode: en
+    originalText:
+      text: >-
+        I am only 36, but this local place has hands down the best 🔥 cracker
+        roll 👌 in America! If you are from Texas, you will respect this spicy
+        😋 deliciousness. NOAH, the greeter/server was awesome! Coming back
+        manana!
+      languageCode: en
+    authorAttribution:
+      displayName: Brandon Kuehner
+      uri: https://www.google.com/maps/contrib/117496533956283425265/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocK0Mj4FGEtdQ1FNajOc1kI5u4XSMS-7qXujJIpy58zNlmMLxg=s128-c0x00000000-cc-rp-mo
+    publishTime: '2023-11-06T04:14:42.965594Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURGMnIydjRnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURGMnIydjRnRRAB!2m1!1s0x7c0012675bf5ab2b:0x926ea17e82a76bac
+  - name: >-
+      places/ChIJK6v1W2cSAHwRrGungn6hbpI/reviews/ChZDSUhNMG9nS0VJQ0FnSURXZ19xMkNREAE
+    relativePublishTimeDescription: 3 years ago
+    rating: 4
+    text:
+      text: >-
+        The sushi is excellent, but there seems to be something going on with
+        the building. Ot was very rundown. I hope they make it and either
+        relocate or fix up their space. The special garlic otoro was delicious.
+        We also ordered the dragon (2), rainbow and caterpillar (1) along with a
+        salmon bowl (3).
+      languageCode: en
+    originalText:
+      text: >-
+        The sushi is excellent, but there seems to be something going on with
+        the building. Ot was very rundown. I hope they make it and either
+        relocate or fix up their space. The special garlic otoro was delicious.
+        We also ordered the dragon (2), rainbow and caterpillar (1) along with a
+        salmon bowl (3).
+      languageCode: en
+    authorAttribution:
+      displayName: Carol Lin
+      uri: https://www.google.com/maps/contrib/108703322809724406959/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjU94W4WLJeIpf8a0Xg87ZIpxajJ17P4LfXoZX_DOHfX2M669RfMfQ=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2022-04-02T05:48:32.021852Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURXZ19xMkNREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURXZ19xMkNREAE!2m1!1s0x7c0012675bf5ab2b:0x926ea17e82a76bac
+review_summary: >-
+  What Customers Are Saying About the Food$$$Visitors to this sushi spot often
+  rave about the tasty rolls and generous portions that make it a solid pick for
+  a casual meal, with many highlighting the fresh flavors and variety on offer.
+  While some folks miss the conveyor belt feature, the overall consensus leans
+  toward satisfaction with the quality of dishes like teriyaki and poke bowls,
+  which keep things exciting for sushi enthusiasts. Feedback frequently praises
+  the quick service and family-friendly vibe, making it easy to recommend for
+  groups or anyone hunting for reliable Japanese places near me. Despite a few
+  mentions of the space feeling a bit worn, the affordable prices and delicious
+  options help balance things out, leaving most people with a positive
+  impression. All in all, it's a spot that delivers on flavor and value, ideal
+  for those looking to try the best sushi around.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
+curbside_pickup: false
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
 menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
+outdoor_seating: false
+reservable: true
+restroom: true
 serves_beer: null
-serves_breakfast: null
-serves_brunch: null
+serves_breakfast: true
+serves_brunch: true
 serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

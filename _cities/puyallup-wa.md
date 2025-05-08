@@ -5,4 +5,5 @@ permalink: /washington/puyallup/
 stateAbbr: WA
 stateName: Washington
 cityName: Puyallup
+
 ---

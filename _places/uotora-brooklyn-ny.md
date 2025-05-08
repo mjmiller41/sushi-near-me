@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Uotora"
+title: Uotora
 permalink: /new-york/brooklyn/uotora.html
 stateAbbr: NY
 stateName: New York
 cityName: Brooklyn
 seo:
-  name: "Uotora"
-  type: Restaurant
+  type: restaurant
   links: http://uotorabk.com/
-description: "Uotora serves delicious sushi in Brooklyn, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, and dinner."
 place_id: ChIJkVcmgJxbwokRIqAid-4ZjFs
 photos:
   - name: >-
@@ -183,6 +181,29 @@ price_range: $100 &ndash; & up
 rating: '4.6'
 rating_count: 0
 website: http://uotorabk.com/
+description: >-
+  Experience Uotora in Brooklyn, NY$$$Uotora in Brooklyn, NY, stands out as a
+  top sushi restaurant offering an authentic omakase experience in a cozy,
+  counter-serve setting that draws in locals seeking fresh Japanese flavors.
+  This spot is celebrated for its high-quality fish selections and intimate
+  atmosphere, making it a go-to choice for those exploring sushi restaurants
+  nearby. With wheelchair-accessible entrances and a focus on delivering
+  flavorful dishes, it provides a welcoming vibe for diners looking for genuine
+  culinary delights. Reservations are easy to secure, enhancing its appeal for
+  groups or solo visitors craving a memorable meal, while the option for dine-in
+  and takeout adds to its convenience for busy urbanites.
+generative_summary: >-
+  Experience Uotora in Brooklyn, NY$$$Uotora in Brooklyn, NY, stands out as a
+  top sushi restaurant offering an authentic omakase experience in a cozy,
+  counter-serve setting that draws in locals seeking fresh Japanese flavors.
+  This spot is celebrated for its high-quality fish selections and intimate
+  atmosphere, making it a go-to choice for those exploring sushi restaurants
+  nearby. With wheelchair-accessible entrances and a focus on delivering
+  flavorful dishes, it provides a welcoming vibe for diners looking for genuine
+  culinary delights. Reservations are easy to secure, enhancing its appeal for
+  groups or solo visitors craving a memorable meal, while the option for dine-in
+  and takeout adds to its convenience for busy urbanites.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJkVcmgJxbwokRIqAid-4ZjFs/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ3bWN5alJnEAE
@@ -398,6 +419,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUN3OGNxS1V3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUN3OGNxS1V3EAE!2m1!1s0x89c25b9c80265791:0x5b8c19ee7722a022
+review_summary: >-
+  Buzz Around Uotora's Reviews$$$Folks often rave about the omakase at this
+  sushi spot, highlighting the fresh fish and unique global sourcing that make
+  each bite feel special and satisfying. Many appreciate the intimate, welcoming
+  environment and the helpful staff who add a personal touch without
+  overwhelming the experience, creating a relaxed spot for enjoying top-rated
+  sushi. While most feedback praises the great value and delicious flavors that
+  keep people coming back, a few mentions note occasional inconsistencies like
+  odors that might affect first impressions. Overall, it's a solid pick for
+  anyone hunting for the best sushi nearby, with the majority agreeing that the
+  positives far outweigh any minor drawbacks, making it worth a try for an
+  honest, enjoyable outing.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   valetParking: false
 payment_options:
@@ -428,7 +462,7 @@ serves_lunch: null
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kano Cafe"
+title: Kano Cafe
 permalink: /texas/temple/kano-cafe.html
 stateAbbr: TX
 stateName: Texas
 cityName: Temple
 seo:
-  name: "Kano Cafe"
-  type: Restaurant
+  type: restaurant
   links: https://yoshihibachi.com/
-description: "Kano Cafe serves delicious sushi in Temple, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJiRF6TmJrRYYR35hjoLbqKqQ
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x86456b624e7a1189:0xa42aeab6a06398df!10e5
 primary_type: Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 0
+    - open:
+        day: 2
+        hour: 9
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 9:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:00 PM'
     - 'Saturday: 11:00 AM – 9:00 PM'
     - 'Sunday: 11:00 AM – 8:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 9:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 9:00 PM'
-    - 'Saturday: 11:00 AM – 9:00 PM'
-    - 'Sunday: 11:00 AM – 8:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +238,335 @@ phone: (254) 863-2192
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.1'
-rating_count: 0
+rating_count: 600
 website: https://yoshihibachi.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Kano Cafe in Temple, TX$$$Kano Cafe in Temple, TX, stands out as a
+  vibrant Japanese eatery blending traditional flavors with familiar Asian
+  dishes, making it a go-to spot for those seeking sushi and more in the area.
+  This restaurant features a welcoming sushi bar where fresh rolls and bento
+  boxes highlight the menu, complemented by options like pho for a diverse
+  dining experience. With accessibility features ensuring everyone can enjoy the
+  space, it's designed for comfortable visits, whether you're stopping by for a
+  quick bite or a relaxed meal. The atmosphere combines casual vibes with clean,
+  organized surroundings, enhancing the overall appeal for families and
+  individuals alike. Open at convenient hours, it serves as an excellent choice
+  for anyone exploring top-rated Japanese places near me.
+generative_summary: >-
+  Discover Kano Cafe in Temple, TX$$$Kano Cafe in Temple, TX, stands out as a
+  vibrant Japanese eatery blending traditional flavors with familiar Asian
+  dishes, making it a go-to spot for those seeking sushi and more in the area.
+  This restaurant features a welcoming sushi bar where fresh rolls and bento
+  boxes highlight the menu, complemented by options like pho for a diverse
+  dining experience. With accessibility features ensuring everyone can enjoy the
+  space, it's designed for comfortable visits, whether you're stopping by for a
+  quick bite or a relaxed meal. The atmosphere combines casual vibes with clean,
+  organized surroundings, enhancing the overall appeal for families and
+  individuals alike. Open at convenient hours, it serves as an excellent choice
+  for anyone exploring top-rated Japanese places near me.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJiRF6TmJrRYYR35hjoLbqKqQ/reviews/ChZDSUhNMG9nS0VJQ0FnSUN2bkpIZmJREAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        Kano Cafe is a Solid place to stop and get some pho. It was spicy and
+        Definitely full of flavor. Our order was served to us very quickly. The
+        staff was very kind and courteous towards myself and my family and were
+        very attentive. The wings were cooked perfectly and the sauce they
+        coated them with was tangy and delicious. They are in the old Yoshi
+        building and have some work to do as far as making the building their
+        own, but everything was still very clean and organized. But the food for
+        sure is top notch. Definitely one of the best in Temple for Vietnamese
+        cuisine. I would highly recommend this place for a large family dinner
+        or even just a quick bite to eat. I will definitely be bringing my
+        family back here
+      languageCode: en
+    originalText:
+      text: >-
+        Kano Cafe is a Solid place to stop and get some pho. It was spicy and
+        Definitely full of flavor. Our order was served to us very quickly. The
+        staff was very kind and courteous towards myself and my family and were
+        very attentive. The wings were cooked perfectly and the sauce they
+        coated them with was tangy and delicious. They are in the old Yoshi
+        building and have some work to do as far as making the building their
+        own, but everything was still very clean and organized. But the food for
+        sure is top notch. Definitely one of the best in Temple for Vietnamese
+        cuisine. I would highly recommend this place for a large family dinner
+        or even just a quick bite to eat. I will definitely be bringing my
+        family back here
+      languageCode: en
+    authorAttribution:
+      displayName: Raymond Flowers
+      uri: https://www.google.com/maps/contrib/107519426331705097650/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVCeAbZFt5kf7V-AsIcSBocD1FgHEAgoUrpaOsoampiucx0sO_Q=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-12-08T21:47:38.178331Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN2bkpIZmJREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN2bkpIZmJREAE!2m1!1s0x86456b624e7a1189:0xa42aeab6a06398df
+  - name: >-
+      places/ChIJiRF6TmJrRYYR35hjoLbqKqQ/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3X2FUQzlnRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        10/10 the food is good me and my friend we  came here to eat we like it
+        I recommend and the service is good everyone are nice and I would
+        definitely come back again to Temple Texas
+      languageCode: en
+    originalText:
+      text: >-
+        10/10 the food is good me and my friend we  came here to eat we like it
+        I recommend and the service is good everyone are nice and I would
+        definitely come back again to Temple Texas
+      languageCode: en
+    authorAttribution:
+      displayName: Luis Ortiz
+      uri: https://www.google.com/maps/contrib/101210391492754196452/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWT5JKwOmhv_JcovY39wtC4KsOIPghuT3UNgSgTTmH3tgNNIWk=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-27T20:11:46.751585Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUR3X2FUQzlnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUR3X2FUQzlnRRAB!2m1!1s0x86456b624e7a1189:0xa42aeab6a06398df
+  - name: >-
+      places/ChIJiRF6TmJrRYYR35hjoLbqKqQ/reviews/ChZDSUhNMG9nS0VJQ0FnSUNscHBma0V3EAE
+    relativePublishTimeDescription: a year ago
+    rating: 3
+    text:
+      text: >-
+        Been waiting for 4 months for them to reopen!  They never updated the
+        information online or phone message.
+
+        I drove by one day and saw it was open!
+
+
+        We had lunch there.
+
+
+        The staff were very friendly and efficient.
+
+        The interior wasn’t anything special. The place was clean and in order.
+
+
+        The food was just so-so.
+
+
+        We had appetizers;
+
+        Shrimp Tempura - Lightly Battered Shrimp Deep Fried!  They were a little
+        limp or soggy. They had a good taste.
+
+
+        Crab Rangoon- Crab and Cream Cheese in a Fried Wonton! Crispy and
+        flavorful.
+
+
+        Our Meals were:
+
+        Bento Box,
+
+        Grilled Steak, Shrimp Tempura,
+
+        4 pieces California Roll, Ginger Salad, Fried Dumplings, and Rice.
+
+        Grilled steak was flavorful but tough!
+
+
+        Bento Box,
+
+        Katsu Chicken, Shrimp Tempura,
+
+        4 pieces California Roll, Ginger Salad, Fried Dumplings, and Rice.
+
+
+        Bento Box,
+
+        Katsu Chicken, Shrimp Tempura,
+
+        4 pieces California Roll, Ginger Salad, Fried Dumplings, and Rice.
+
+
+        Chicken was Dry and Tough!
+
+
+        Overall it was OK but I don’t need to come back.
+      languageCode: en
+    originalText:
+      text: >-
+        Been waiting for 4 months for them to reopen!  They never updated the
+        information online or phone message.
+
+        I drove by one day and saw it was open!
+
+
+        We had lunch there.
+
+
+        The staff were very friendly and efficient.
+
+        The interior wasn’t anything special. The place was clean and in order.
+
+
+        The food was just so-so.
+
+
+        We had appetizers;
+
+        Shrimp Tempura - Lightly Battered Shrimp Deep Fried!  They were a little
+        limp or soggy. They had a good taste.
+
+
+        Crab Rangoon- Crab and Cream Cheese in a Fried Wonton! Crispy and
+        flavorful.
+
+
+        Our Meals were:
+
+        Bento Box,
+
+        Grilled Steak, Shrimp Tempura,
+
+        4 pieces California Roll, Ginger Salad, Fried Dumplings, and Rice.
+
+        Grilled steak was flavorful but tough!
+
+
+        Bento Box,
+
+        Katsu Chicken, Shrimp Tempura,
+
+        4 pieces California Roll, Ginger Salad, Fried Dumplings, and Rice.
+
+
+        Bento Box,
+
+        Katsu Chicken, Shrimp Tempura,
+
+        4 pieces California Roll, Ginger Salad, Fried Dumplings, and Rice.
+
+
+        Chicken was Dry and Tough!
+
+
+        Overall it was OK but I don’t need to come back.
+      languageCode: en
+    authorAttribution:
+      displayName: Tate Vinson
+      uri: https://www.google.com/maps/contrib/117502684203964055126/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUSUiJLVMxMI8McDh7_zjc14cQaBwAaAvkkDKsdmljELGe5dL4i=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2023-11-17T14:03:30.493671Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNscHBma0V3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNscHBma0V3EAE!2m1!1s0x86456b624e7a1189:0xa42aeab6a06398df
+  - name: >-
+      places/ChIJiRF6TmJrRYYR35hjoLbqKqQ/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3aGFTME9nEAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Took my friend here for her bday dinner, we loved the pho ga and crab
+        rangoons. Lovely staff
+      languageCode: en
+    originalText:
+      text: >-
+        Took my friend here for her bday dinner, we loved the pho ga and crab
+        rangoons. Lovely staff
+      languageCode: en
+    authorAttribution:
+      displayName: Jo Stockton
+      uri: https://www.google.com/maps/contrib/106073703103843113016/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVqXDJ61eCQn4dwjZ_n2qL3OYATcFoD0UaTb_UG7RA1bEnWLrbQ=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-27T02:16:54.547301Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUR3aGFTME9nEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUR3aGFTME9nEAE!2m1!1s0x86456b624e7a1189:0xa42aeab6a06398df
+  - name: >-
+      places/ChIJiRF6TmJrRYYR35hjoLbqKqQ/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRbDdTQkVREAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Kano Cafe just served me the best sushi and Tuna nigiri I’ve had in my
+        whole life. I eat sushi probably twice a week and I have for years, I’ve
+        been to a lot of good spots and nothing amounts to how amazing this food
+        was. Even the rice was the best sushi rice I’ve ever had. Super excited
+        to come back and eat the Pho and more sushi. 10/10 recommend.
+      languageCode: en
+    originalText:
+      text: >-
+        Kano Cafe just served me the best sushi and Tuna nigiri I’ve had in my
+        whole life. I eat sushi probably twice a week and I have for years, I’ve
+        been to a lot of good spots and nothing amounts to how amazing this food
+        was. Even the rice was the best sushi rice I’ve ever had. Super excited
+        to come back and eat the Pho and more sushi. 10/10 recommend.
+      languageCode: en
+    authorAttribution:
+      displayName: Joey Munoz
+      uri: https://www.google.com/maps/contrib/110210511341975218465/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWoJpXAFzFMDuVwup4bwLG4jwElEmuC1iaaP4SLe5nKqNj_tl2j=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-07T18:08:26.726584Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNRbDdTQkVREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNRbDdTQkVREAE!2m1!1s0x86456b624e7a1189:0xa42aeab6a06398df
+review_summary: >-
+  What Customers Are Sharing$$$Folks rave about the tasty pho and sushi at this
+  spot, often noting the bold flavors and fresh ingredients that make meals
+  memorable and satisfying. Many appreciate the friendly service and speedy
+  delivery of orders, which adds to the enjoyable dining experience without any
+  fuss. While most visitors find the wings and other appetizers spot-on with
+  their tangy zest, a few mention that some dishes could use a bit more
+  refinement for the best results. Overall, it's a solid pick for groups or
+  families looking for reliable Japanese fare, with plenty of positive feedback
+  encouraging return trips for more. If you're hunting for sushi restaurants
+  near me, this place delivers a generally uplifting vibe that's worth checking
+  out for a casual outing.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  paidStreetParking: false
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+curbside_pickup: false
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: true
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
 serves_breakfast: null
-serves_brunch: null
+serves_brunch: false
 serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_coffee: true
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kuma."
+title: Kuma.
 permalink: /california/los-osos/kuma.html
 stateAbbr: CA
 stateName: California
 cityName: Los Osos
 seo:
-  name: "Kuma."
-  type: Restaurant
-  links: null
-description: "Kuma. serves delicious sushi in Los Osos, California. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.kumabowls.com/
 place_id: ChIJ52tUXwnj7IAR3QINJmy-JMk
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80ece3095f546be7:0xc924be6c260d02dd!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 9:00 PM'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 9:00 PM'
+    - 'Saturday: 11:00 AM – 9:00 PM'
+    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,49 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (805) 528-6767
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.4'
+rating_count: 945
+website: http://www.kumabowls.com/
+description: >-
+  Discover Kuma in Los Osos, CA$$$Kuma in Los Osos, CA, stands out as a
+  welcoming spot for enjoying fresh Japanese dishes in a laid-back setting,
+  perfect for those seeking sushi restaurants in the area. This hip eatery
+  offers a variety of authentic flavors, including expertly prepared sushi and
+  hearty ramen options that highlight the best of Japanese cuisine. With its
+  moderate pricing and accessibility features like wheelchair-friendly entrances
+  and seating, it's an inclusive choice for casual diners looking for quality
+  meals close to home. The restaurant's daily hours from 11 AM to 9 PM make it
+  convenient for lunch or dinner, appealing to anyone searching for top-rated
+  sushi experiences nearby.
+generative_summary: >-
+  Discover Kuma in Los Osos, CA$$$Kuma in Los Osos, CA, stands out as a
+  welcoming spot for enjoying fresh Japanese dishes in a laid-back setting,
+  perfect for those seeking sushi restaurants in the area. This hip eatery
+  offers a variety of authentic flavors, including expertly prepared sushi and
+  hearty ramen options that highlight the best of Japanese cuisine. With its
+  moderate pricing and accessibility features like wheelchair-friendly entrances
+  and seating, it's an inclusive choice for casual diners looking for quality
+  meals close to home. The restaurant's daily hours from 11 AM to 9 PM make it
+  convenient for lunch or dinner, appealing to anyone searching for top-rated
+  sushi experiences nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Visitors to this Japanese spot often rave about the
+  fresh and flavorful sushi rolls that keep them coming back for more, making it
+  a go-to for anyone hunting for great sushi restaurants near me. Many
+  appreciate the relaxed vibe and attentive service that enhance the overall
+  dining experience, with comments highlighting the generous portions and tasty
+  options that feel just right for a casual outing. While a few mentions note
+  occasional wait times during peak hours, the high satisfaction around the food
+  quality and welcoming atmosphere keeps the feedback overwhelmingly positive.
+  Overall, folks searching for the best sushi in Los Osos seem to agree that
+  it's a solid pick for a satisfying meal, blending authenticity with a friendly
+  touch that leaves a lasting impression.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +310,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

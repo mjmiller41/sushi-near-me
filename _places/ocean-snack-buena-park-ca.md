@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ocean Snack"
+title: Ocean Snack
 permalink: /california/buena-park/ocean-snack.html
 stateAbbr: CA
 stateName: California
 cityName: Buena Park
 seo:
-  name: "Ocean Snack"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Ocean Snack serves delicious sushi in Buena Park, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJn0HNSvUr3YAR4l_2ZU3Iq7E
 photos:
   - name: >-
@@ -169,7 +167,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80dd2bf54acd419f:0xb1abc84d65f65fe2!10e5
 primary_type: Seafood Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 20
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 20
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 20
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 8:00 PM'
     - 'Tuesday: 11:00 AM – 8:00 PM'
     - 'Wednesday: 11:00 AM – 8:00 PM'
@@ -177,14 +233,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 8:30 PM'
     - 'Saturday: 11:00 AM – 8:30 PM'
     - 'Sunday: 11:00 AM – 8:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 8:00 PM'
-    - 'Tuesday: 11:00 AM – 8:00 PM'
-    - 'Wednesday: 11:00 AM – 8:00 PM'
-    - 'Thursday: 11:00 AM – 8:00 PM'
-    - 'Friday: 11:00 AM – 8:30 PM'
-    - 'Saturday: 11:00 AM – 8:30 PM'
-    - 'Sunday: 11:00 AM – 8:00 PM'
+  nextCloseTime: '2025-05-04T03:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,20 +245,236 @@ phone: (714) 690-1458
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '3.8'
-rating_count: 0
+rating_count: 63
 website: null
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Ocean Snack in Buena Park, California$$$Ocean Snack in Buena Park,
+  California, stands out as a vibrant Asian seafood destination, perfect for
+  those seeking fresh flavors in a casual food court setting. This spot delights
+  with an array of options like sushi rolls, sashimi, poke bowls, and hearty
+  noodle soups, all prepared with a focus on quality ingredients and authentic
+  tastes. Accessibility features such as wheelchair-friendly entrances and
+  parking make it easy for everyone to enjoy a meal, while its moderate pricing
+  appeals to locals looking for everyday dining excitement. Operating daily from
+  late morning into the evening, it's an ideal choice for anyone exploring
+  nearby sushi and Japanese-inspired dishes in the area.
+generative_summary: >-
+  Discover Ocean Snack in Buena Park, California$$$Ocean Snack in Buena Park,
+  California, stands out as a vibrant Asian seafood destination, perfect for
+  those seeking fresh flavors in a casual food court setting. This spot delights
+  with an array of options like sushi rolls, sashimi, poke bowls, and hearty
+  noodle soups, all prepared with a focus on quality ingredients and authentic
+  tastes. Accessibility features such as wheelchair-friendly entrances and
+  parking make it easy for everyone to enjoy a meal, while its moderate pricing
+  appeals to locals looking for everyday dining excitement. Operating daily from
+  late morning into the evening, it's an ideal choice for anyone exploring
+  nearby sushi and Japanese-inspired dishes in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJn0HNSvUr3YAR4l_2ZU3Iq7E/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ3OU1qTmd3RRAB
+    relativePublishTimeDescription: 8 months ago
+    rating: 3
+    text:
+      text: >-
+        One of the offerings at The Source’s food court so the atmosphere is
+        irrelevant and a neutral rating.  They prefer you order through a kiosk
+        and just holler your name/number when the food is ready so I have
+        nothing to add there.  I ordered the sausage and rice cake that was
+        drowned in sauce and tornado fries.  The we didn’t like the sausage and
+        rice cakes sauced up like that especially since the sauce wasn’t very
+        flavorful.  The tornado fries was ok, nicely fried but also lacking
+        flavor.  Was hoping it would be good but was disappointed.  😔
+      languageCode: en
+    originalText:
+      text: >-
+        One of the offerings at The Source’s food court so the atmosphere is
+        irrelevant and a neutral rating.  They prefer you order through a kiosk
+        and just holler your name/number when the food is ready so I have
+        nothing to add there.  I ordered the sausage and rice cake that was
+        drowned in sauce and tornado fries.  The we didn’t like the sausage and
+        rice cakes sauced up like that especially since the sauce wasn’t very
+        flavorful.  The tornado fries was ok, nicely fried but also lacking
+        flavor.  Was hoping it would be good but was disappointed.  😔
+      languageCode: en
+    authorAttribution:
+      displayName: A. Ko
+      uri: https://www.google.com/maps/contrib/101165093843232305863/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUutZg7pc_fGoNRdTd-j_vouyM8WNV1dh7PtpJob3Vv2uZGBquGLQ=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-08-21T22:16:36.395298Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQ3OU1qTmd3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQ3OU1qTmd3RRAB!2m1!1s0x80dd2bf54acd419f:0xb1abc84d65f65fe2
+  - name: >-
+      places/ChIJn0HNSvUr3YAR4l_2ZU3Iq7E/reviews/ChZDSUhNMG9nS0VJQ0FnSUNwMHB1QlpREAE
+    relativePublishTimeDescription: a year ago
+    rating: 4
+    text:
+      text: >-
+        My kids love their tornado fries but the ramen is just ok.  The salmon
+        poke could use a little more salmon.  Service is good and overall is
+        decent.
+      languageCode: en
+    originalText:
+      text: >-
+        My kids love their tornado fries but the ramen is just ok.  The salmon
+        poke could use a little more salmon.  Service is good and overall is
+        decent.
+      languageCode: en
+    authorAttribution:
+      displayName: Roger K Ng (RKNG)
+      uri: https://www.google.com/maps/contrib/115955109817567881023/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVYXqVWY3-HCqL8QLCDhpd9Yj8iOZxMIV-qExWjuIBOHtWtOSw5qw=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2023-08-01T00:16:01.709337Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNwMHB1QlpREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNwMHB1QlpREAE!2m1!1s0x80dd2bf54acd419f:0xb1abc84d65f65fe2
+  - name: >-
+      places/ChIJn0HNSvUr3YAR4l_2ZU3Iq7E/reviews/ChdDSUhNMG9nS0VJQ0FnSURWOXZHWDB3RRAB
+    relativePublishTimeDescription: a year ago
+    rating: 4
+    text:
+      text: >-
+        I saw that this was the only place here at the Source that had the
+        Sausage and Rice Cake skewers so I had to try it while I was here. I've
+        been wanting to try this for the longest time ever since I saw it in
+        Korean dramas and tv shows.
+
+
+        The skewers were 5.99 each, which was a bit overpriced. They were ready
+        fast though, and the lady who took my order was friendly and even gave
+        us extra trays to eat the skewers.
+
+
+        The rice cake and sausage is covered in sweet red pepper gochujang sauce
+        but it wasn't too sweet. Eating the sausage and rice cake together was
+        sooo good and I can see why it's a popular street snack. The portion is
+        pretty good too, and I felt quite full.
+      languageCode: en
+    originalText:
+      text: >-
+        I saw that this was the only place here at the Source that had the
+        Sausage and Rice Cake skewers so I had to try it while I was here. I've
+        been wanting to try this for the longest time ever since I saw it in
+        Korean dramas and tv shows.
+
+
+        The skewers were 5.99 each, which was a bit overpriced. They were ready
+        fast though, and the lady who took my order was friendly and even gave
+        us extra trays to eat the skewers.
+
+
+        The rice cake and sausage is covered in sweet red pepper gochujang sauce
+        but it wasn't too sweet. Eating the sausage and rice cake together was
+        sooo good and I can see why it's a popular street snack. The portion is
+        pretty good too, and I felt quite full.
+      languageCode: en
+    authorAttribution:
+      displayName: Sarah Sun
+      uri: https://www.google.com/maps/contrib/106590407298382491834/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjX5Rt3SSQ_xNg0VLcAYCevIk6L8Dh--_VqxIHIEcQCQLVoWKGdkPg=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2023-12-12T23:54:59.325608Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURWOXZHWDB3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURWOXZHWDB3RRAB!2m1!1s0x80dd2bf54acd419f:0xb1abc84d65f65fe2
+  - name: >-
+      places/ChIJn0HNSvUr3YAR4l_2ZU3Iq7E/reviews/ChZDSUhNMG9nS0VJQ0FnSURkX3RHRlNREAE
+    relativePublishTimeDescription: a year ago
+    rating: 4
+    text:
+      text: >-
+        The squid in the cold noodle is delicious!! (Surprisingly, coming from a
+        person who’s not the biggest fan of seafood)
+
+        I wish they gave us scissors for the cold noodle lol it was a struggle😝
+
+        nonetheless the food was good
+      languageCode: en
+    originalText:
+      text: >-
+        The squid in the cold noodle is delicious!! (Surprisingly, coming from a
+        person who’s not the biggest fan of seafood)
+
+        I wish they gave us scissors for the cold noodle lol it was a struggle😝
+
+        nonetheless the food was good
+      languageCode: en
+    authorAttribution:
+      displayName: Joy
+      uri: https://www.google.com/maps/contrib/113593105342205785023/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVIQSvQUgwdLGlwQbz3IoPd52U2FmPF76QCGsZ5yLtX9RH2-uY-=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-02-24T05:38:47.994286Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURkX3RHRlNREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURkX3RHRlNREAE!2m1!1s0x80dd2bf54acd419f:0xb1abc84d65f65fe2
+  - name: >-
+      places/ChIJn0HNSvUr3YAR4l_2ZU3Iq7E/reviews/ChZDSUhNMG9nS0VJQ0FnSUNjcjlLdERnEAE
+    relativePublishTimeDescription: 5 years ago
+    rating: 5
+    text:
+      text: >-
+        Excellent place to eat some fresh Korean seafood! Order the squid and
+        sea squirt cold noodle for a hot summer’s day! Presentation for takeout
+        is even more impressive! This was shrink wrapped to protect from germs
+        and the broth to fall out. Highly recommend to come and get your cold
+        noodles!!! Support your small businesses :)
+      languageCode: en
+    originalText:
+      text: >-
+        Excellent place to eat some fresh Korean seafood! Order the squid and
+        sea squirt cold noodle for a hot summer’s day! Presentation for takeout
+        is even more impressive! This was shrink wrapped to protect from germs
+        and the broth to fall out. Highly recommend to come and get your cold
+        noodles!!! Support your small businesses :)
+      languageCode: en
+    authorAttribution:
+      displayName: Chris H
+      uri: https://www.google.com/maps/contrib/104537909154118206145/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLhuK5ok2cYqbjKYcliQL_P30jTBddr1MfooSncUq_8NArwJune=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2020-05-02T19:57:22.623669Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNjcjlLdERnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNjcjlLdERnEAE!2m1!1s0x80dd2bf54acd419f:0xb1abc84d65f65fe2
+review_summary: >-
+  What Customers Are Saying$$$Visitors to Ocean Snack often praise the fun and
+  tasty snacks like the creative fries and skewered treats, which have become
+  favorites for families and groups. While some folks note that certain dishes,
+  such as the poke or noodle options, could benefit from a bit more flavor or
+  generous portions, the overall experience remains enjoyable with quick service
+  and fresh seafood highlights. It's clear that the spot hits the mark for
+  casual meals, especially on warmer days when lighter, refreshing choices shine
+  through. Many appreciate the welcoming vibe and kid-friendly items, making it
+  a solid pick for a relaxed outing, though a few suggest experimenting with
+  sauces for an extra kick. All in all, this place offers a worthwhile stop for
+  anyone in the mood for satisfying, no-fuss eats nearby.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
+curbside_pickup: false
+delivery: true
+dine_in: true
+good_for_children: true
 good_for_groups: null
 good_for_sports: null
-live_music: null
-menu_for_children: null
+live_music: false
+menu_for_children: false
 outdoor_seating: null
 reservable: null
 restroom: null
@@ -218,13 +483,13 @@ serves_breakfast: null
 serves_brunch: null
 serves_cocktails: null
 serves_coffee: null
-serves_dinner: null
+serves_dinner: true
 serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
+serves_lunch: true
+serves_vegetarian_food: true
 serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Mr. Sake Sushi & Grill"
+title: Mr. Sake Sushi & Grill
 permalink: /colorado/louisville/mr-sake-sushi-grill.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Louisville
 seo:
-  name: "Mr. Sake Sushi & Grill"
-  type: Restaurant
+  type: restaurant
   links: http://www.mrsakesushigrill.com/
-description: "Mr. Sake Sushi & Grill serves delicious sushi in Louisville, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ-0gfSZmKa4cRmzKYOiPnQDk
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x876b8a99491f48fb:0x3940e7233a98329b!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:00 PM'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:30 PM'
     - 'Saturday: 12:00 – 9:30 PM'
     - 'Sunday: 12:00 – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 9:30 PM'
-    - 'Saturday: 12:00 – 9:30 PM'
-    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T03:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,292 @@ phone: (303) 604-9999
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.5'
-rating_count: 0
+rating_count: 318
 website: http://www.mrsakesushigrill.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Explore Mr. Sake Sushi & Grill in Louisville, CO$$$Nestled in Louisville, CO,
+  Mr. Sake Sushi & Grill offers a casual dining experience focused on fresh
+  Japanese favorites like sashimi and inventive sushi rolls, complemented by
+  Chinese-inspired dishes for a diverse menu. The restaurant boasts
+  accessibility features such as wheelchair-friendly entrances and seating,
+  making it welcoming for all guests seeking sushi options in the area. With
+  extended hours including lunch specials and evening service, it's an ideal
+  spot for those craving flavorful bento boxes or gluten-free choices in a
+  relaxed atmosphere. Enjoy the blend of traditional and creative cuisine that
+  highlights the best of Asian flavors, perfect for anyone exploring top sushi
+  spots nearby.
+generative_summary: >-
+  Explore Mr. Sake Sushi & Grill in Louisville, CO$$$Nestled in Louisville, CO,
+  Mr. Sake Sushi & Grill offers a casual dining experience focused on fresh
+  Japanese favorites like sashimi and inventive sushi rolls, complemented by
+  Chinese-inspired dishes for a diverse menu. The restaurant boasts
+  accessibility features such as wheelchair-friendly entrances and seating,
+  making it welcoming for all guests seeking sushi options in the area. With
+  extended hours including lunch specials and evening service, it's an ideal
+  spot for those craving flavorful bento boxes or gluten-free choices in a
+  relaxed atmosphere. Enjoy the blend of traditional and creative cuisine that
+  highlights the best of Asian flavors, perfect for anyone exploring top sushi
+  spots nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ-0gfSZmKa4cRmzKYOiPnQDk/reviews/ChdDSUhNMG9nS0VJQ0FnSUNkNHVxWG1BRRAB
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        December: yummo!  Sesame shrimp! Best ever!
+
+
+        October:  yum yum crunchy Calamari!  perfectly paired with spicy salmon
+        roll and miso.
+
+        September:  cute fresh delish!  Fun ‘smoking’ dry ice decor.
+
+        August:  ADORABLE blue flower on salmon nigiri!  and refreshing Tuna
+        Poke too!  Luv luv!
+
+        July: I know I had something lovely… 😳
+
+        June:  perfect nigiri!  Great service with a smile and chrysanthemums! 
+        Relaxing vibes!  Luv the jazz music with wine!
+
+        May: thank you for such a beautiful meal 🙏🏼💐
+
+        April: luv the udon and spicy shrimp roll.  Leftovers for sure!  Much
+        gratitude for the roses! You’re so talented and special!
+
+        Excellent king salmon!  luv the spicy shrimp roll too!
+
+        March: luv the whale ice fog!
+
+        February:  Valentine’s Day roses underway!   Luv the Uni, thank you!
+      languageCode: en
+    originalText:
+      text: >-
+        December: yummo!  Sesame shrimp! Best ever!
+
+
+        October:  yum yum crunchy Calamari!  perfectly paired with spicy salmon
+        roll and miso.
+
+        September:  cute fresh delish!  Fun ‘smoking’ dry ice decor.
+
+        August:  ADORABLE blue flower on salmon nigiri!  and refreshing Tuna
+        Poke too!  Luv luv!
+
+        July: I know I had something lovely… 😳
+
+        June:  perfect nigiri!  Great service with a smile and chrysanthemums! 
+        Relaxing vibes!  Luv the jazz music with wine!
+
+        May: thank you for such a beautiful meal 🙏🏼💐
+
+        April: luv the udon and spicy shrimp roll.  Leftovers for sure!  Much
+        gratitude for the roses! You’re so talented and special!
+
+        Excellent king salmon!  luv the spicy shrimp roll too!
+
+        March: luv the whale ice fog!
+
+        February:  Valentine’s Day roses underway!   Luv the Uni, thank you!
+      languageCode: en
+    authorAttribution:
+      displayName: Annette Cormier
+      uri: https://www.google.com/maps/contrib/114244647720292709737/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJNElOs-DLEC--GbP3EQ7GFLUAj5kPUFeMUkthGlGgrb1WEdQ=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-12-10T20:50:11.296426Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNkNHVxWG1BRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNkNHVxWG1BRRAB!2m1!1s0x876b8a99491f48fb:0x3940e7233a98329b
+  - name: >-
+      places/ChIJ-0gfSZmKa4cRmzKYOiPnQDk/reviews/ChZDSUhNMG9nS0VJQ0FnSUMxZ2RfSkJnEAE
+    relativePublishTimeDescription: a year ago
+    rating: 4
+    text:
+      text: >-
+        Sushi was surprisingly good but rice was a bit cold and mushy. Miso soup
+        was disappointing as it lacked flavor. It’s to be noted that the menu
+        has a limited selection of cooked/not raw sushi. There were a lot of
+        different food choices from curry to Chinese, but we did not try any of
+        them. Music, service, and food displays were nice.
+      languageCode: en
+    originalText:
+      text: >-
+        Sushi was surprisingly good but rice was a bit cold and mushy. Miso soup
+        was disappointing as it lacked flavor. It’s to be noted that the menu
+        has a limited selection of cooked/not raw sushi. There were a lot of
+        different food choices from curry to Chinese, but we did not try any of
+        them. Music, service, and food displays were nice.
+      languageCode: en
+    authorAttribution:
+      displayName: SiRMickX
+      uri: https://www.google.com/maps/contrib/115054509236644500008/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWDQQaSqAElyALVbau-s3Mhuq_GTFqEer7y4i68cBnuMQMhkGg=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2023-12-30T21:14:01.657661Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUMxZ2RfSkJnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUMxZ2RfSkJnEAE!2m1!1s0x876b8a99491f48fb:0x3940e7233a98329b
+  - name: >-
+      places/ChIJ-0gfSZmKa4cRmzKYOiPnQDk/reviews/ChdDSUhNMG9nS0VJQ0FnSUNQa3FuLXVRRRAB
+    relativePublishTimeDescription: 5 months ago
+    rating: 4
+    text:
+      text: >-
+        Ordered the salmon mango special roll and yellowtail/jalapeño.  Pretty
+        decent. Make sure you take advantage of the lunch special which ends at
+        3!
+      languageCode: en
+    originalText:
+      text: >-
+        Ordered the salmon mango special roll and yellowtail/jalapeño.  Pretty
+        decent. Make sure you take advantage of the lunch special which ends at
+        3!
+      languageCode: en
+    authorAttribution:
+      displayName: B D
+      uri: https://www.google.com/maps/contrib/115684015533532554079/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjV0F6_AncvHy0KuoyVHhgFvnwBl84byz4MxOOa3qd3QuCzBw6C3uA=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-11-22T21:15:01.757480Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNQa3FuLXVRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNQa3FuLXVRRRAB!2m1!1s0x876b8a99491f48fb:0x3940e7233a98329b
+  - name: >-
+      places/ChIJ-0gfSZmKa4cRmzKYOiPnQDk/reviews/ChZDSUhNMG9nS0VJQ0FnTURRcWM3UlVBEAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Excellent sushi! For a party of five, we got the ‘Lover’s boat’, and
+        “Sushi and sashimi for 2”. Also got multiple boba drinks and a small
+        sake bottle which were delicious. Surprised how fresh the sushi tasted
+        considering we’re so far from the coast, but the high prices probably
+        account for that. Service was awesome. Would definitely come back.
+      languageCode: en
+    originalText:
+      text: >-
+        Excellent sushi! For a party of five, we got the ‘Lover’s boat’, and
+        “Sushi and sashimi for 2”. Also got multiple boba drinks and a small
+        sake bottle which were delicious. Surprised how fresh the sushi tasted
+        considering we’re so far from the coast, but the high prices probably
+        account for that. Service was awesome. Would definitely come back.
+      languageCode: en
+    authorAttribution:
+      displayName: Suzy Cubberley
+      uri: https://www.google.com/maps/contrib/112230355372327279119/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXZqbFar9Vp6A34A5XMSSEhPCe-ykWHNafbck4tNKI80DnngTbt=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-03-12T01:46:22.483898Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURRcWM3UlVBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURRcWM3UlVBEAE!2m1!1s0x876b8a99491f48fb:0x3940e7233a98329b
+  - name: >-
+      places/ChIJ-0gfSZmKa4cRmzKYOiPnQDk/reviews/ChdDSUhNMG9nS0VJQ0FnSUNGcFpDSzV3RRAB
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        Mr. Sake has some of the best sushi rolls around.
+
+        I love the Kobe Beef roll and Dynamite roll.
+
+
+        They have amazing lunch specials too.
+
+        Like, for $13 you can get a bento box big enough to feed a grown man
+        twice. No lie.
+
+        Also, the have great sushi roll specials for lunch...If you get one each
+        from Group "A" and Group "B", will be stuffed!
+
+
+        Bring it all together with a wide selection of whiskey, beer, and sake
+        and you are sure to fall in love with this place!
+      languageCode: en
+    originalText:
+      text: >-
+        Mr. Sake has some of the best sushi rolls around.
+
+        I love the Kobe Beef roll and Dynamite roll.
+
+
+        They have amazing lunch specials too.
+
+        Like, for $13 you can get a bento box big enough to feed a grown man
+        twice. No lie.
+
+        Also, the have great sushi roll specials for lunch...If you get one each
+        from Group "A" and Group "B", will be stuffed!
+
+
+        Bring it all together with a wide selection of whiskey, beer, and sake
+        and you are sure to fall in love with this place!
+      languageCode: en
+    authorAttribution:
+      displayName: Samuel Wright
+      uri: https://www.google.com/maps/contrib/110588646314789815314/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJWOJic68D2dd6tEwjfaZU_0lrXuNoqmU2m5PXedLLgSTwVpQ=s128-c0x00000000-cc-rp-mo
+    publishTime: '2023-11-05T00:44:12.118423Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNGcFpDSzV3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNGcFpDSzV3RRAB!2m1!1s0x876b8a99491f48fb:0x3940e7233a98329b
+review_summary: >-
+  Customer Feedback Highlights$$$Visitors often rave about the fresh and
+  creative sushi rolls, with many appreciating the variety of options like bento
+  boxes and specials that make for a satisfying meal. While some note that
+  certain items like rice could be warmer or miso soup more flavorful, the
+  overall experience is elevated by friendly service and a cozy vibe that keeps
+  diners coming back. Lunch deals stand out as a great value, offering generous
+  portions that leave customers feeling full and pleased. The addition of drinks
+  like sake and boba adds to the fun, making it a go-to choice for groups or
+  families looking for reliable Japanese-inspired eats. All in all, it's a solid
+  pick for anyone in the mood for quality sushi, with the positives far
+  outweighing any minor hiccups.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
+curbside_pickup: true
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
 menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Informal pick serving Asian-style eats alongside European & American fare,
+  plus gluten-free options.
 
 ---

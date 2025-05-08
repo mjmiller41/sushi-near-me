@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kee's Teriyaki & Sushi"
+title: Kee's Teriyaki & Sushi
 permalink: /texas/el-paso/kee-s-teriyaki-sushi.html
 stateAbbr: TX
 stateName: Texas
 cityName: El Paso
 seo:
-  name: "Kee's Teriyaki & Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Kee's Teriyaki & Sushi serves delicious sushi in El Paso, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJgfnAuGhE54YRcreq3Eo5wto
 photos:
   - name: >-
@@ -185,7 +183,43 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Kee's Teriyaki & Sushi in El Paso, TX$$$Kee's Teriyaki & Sushi in El
+  Paso, TX, provides a welcoming spot for enjoying fresh Japanese dishes in a
+  laid-back atmosphere, perfect for those searching for reliable sushi options
+  nearby. This restaurant specializes in flavorful teriyaki plates and creative
+  sushi rolls, complemented by convenient bento boxes that make it a go-to
+  choice for casual meals or family outings. Accessibility features like
+  wheelchair-friendly parking and seating ensure a comfortable visit for all
+  guests, enhancing its appeal as a thoughtful dining destination. With its
+  focus on authentic flavors and simple yet inviting ambiance, it's an ideal
+  stop for anyone exploring top-rated Japanese places in the area, blending
+  affordability with satisfying tastes that keep locals coming back.
+generative_summary: >-
+  Discover Kee's Teriyaki & Sushi in El Paso, TX$$$Kee's Teriyaki & Sushi in El
+  Paso, TX, provides a welcoming spot for enjoying fresh Japanese dishes in a
+  laid-back atmosphere, perfect for those searching for reliable sushi options
+  nearby. This restaurant specializes in flavorful teriyaki plates and creative
+  sushi rolls, complemented by convenient bento boxes that make it a go-to
+  choice for casual meals or family outings. Accessibility features like
+  wheelchair-friendly parking and seating ensure a comfortable visit for all
+  guests, enhancing its appeal as a thoughtful dining destination. With its
+  focus on authentic flavors and simple yet inviting ambiance, it's an ideal
+  stop for anyone exploring top-rated Japanese places in the area, blending
+  affordability with satisfying tastes that keep locals coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Folks appreciate the tasty sushi rolls and combos
+  at this spot, often highlighting flavorful options like fresh bento dishes
+  that hit the spot without breaking the bank. The service stands out for being
+  warm and attentive, creating a relaxed vibe that makes dining out feel
+  effortless and enjoyable. Many note the reasonable prices as a big plus,
+  offering great value for the quality of the meals served. Overall, it's
+  praised as a solid pick for anyone craving authentic Japanese flavors, with
+  feedback emphasizing the fresh ingredients and welcoming environment that
+  leave a positive impression.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +245,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

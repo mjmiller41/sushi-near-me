@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Karma Sushi Bar Grill"
+title: Karma Sushi Bar Grill
 permalink: /arizona/flagstaff/karma-sushi-bar-grill.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Flagstaff
 seo:
-  name: "Karma Sushi Bar Grill"
-  type: Restaurant
+  type: restaurant
   links: http://karmaflagstaff.com/
-description: "Karma Sushi Bar Grill serves delicious sushi in Flagstaff, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJxWG05UOPLYcRVtp8yawRJJY
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x872d8f43e5b461c5:0x962411acc97cda56!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:00 PM'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -178,54 +234,414 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:00 PM'
     - 'Saturday: 11:00 AM – 10:00 PM'
     - 'Sunday: 11:00 AM – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 10:00 PM'
-    - 'Saturday: 11:00 AM – 10:00 PM'
-    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T05:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 15
+          minute: 0
+        close:
+          day: 0
+          hour: 18
+          minute: 0
+      - open:
+          day: 1
+          hour: 15
+          minute: 0
+        close:
+          day: 1
+          hour: 18
+          minute: 0
+      - open:
+          day: 2
+          hour: 15
+          minute: 0
+        close:
+          day: 2
+          hour: 18
+          minute: 0
+      - open:
+          day: 3
+          hour: 15
+          minute: 0
+        close:
+          day: 3
+          hour: 18
+          minute: 0
+      - open:
+          day: 4
+          hour: 15
+          minute: 0
+        close:
+          day: 4
+          hour: 18
+          minute: 0
+      - open:
+          day: 5
+          hour: 15
+          minute: 0
+        close:
+          day: 5
+          hour: 18
+          minute: 0
+      - open:
+          day: 6
+          hour: 15
+          minute: 0
+        close:
+          day: 6
+          hour: 18
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 3:00 – 6:00 PM'
+      - 'Tuesday: 3:00 – 6:00 PM'
+      - 'Wednesday: 3:00 – 6:00 PM'
+      - 'Thursday: 3:00 – 6:00 PM'
+      - 'Friday: 3:00 – 6:00 PM'
+      - 'Saturday: 3:00 – 6:00 PM'
+      - 'Sunday: 3:00 – 6:00 PM'
+    secondaryHoursType: HAPPY_HOUR
+    nextCloseTime: '2025-05-04T01:00:00Z'
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 11
+          minute: 0
+        close:
+          day: 0
+          hour: 20
+          minute: 30
+      - open:
+          day: 1
+          hour: 11
+          minute: 0
+        close:
+          day: 1
+          hour: 20
+          minute: 30
+      - open:
+          day: 2
+          hour: 11
+          minute: 0
+        close:
+          day: 2
+          hour: 20
+          minute: 30
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 20
+          minute: 30
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 20
+          minute: 30
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 21
+          minute: 30
+      - open:
+          day: 6
+          hour: 11
+          minute: 0
+        close:
+          day: 6
+          hour: 21
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 11:00 AM – 8:30 PM'
+      - 'Tuesday: 11:00 AM – 8:30 PM'
+      - 'Wednesday: 11:00 AM – 8:30 PM'
+      - 'Thursday: 11:00 AM – 8:30 PM'
+      - 'Friday: 11:00 AM – 9:30 PM'
+      - 'Saturday: 11:00 AM – 9:30 PM'
+      - 'Sunday: 11:00 AM – 8:30 PM'
+    secondaryHoursType: TAKEOUT
+    nextCloseTime: '2025-05-04T04:30:00Z'
 phone: (928) 774-6100
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.4'
-rating_count: 0
+rating_count: 2381
 website: http://karmaflagstaff.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Experience Karma Sushi Bar Grill in Flagstaff, AZ$$$Nestled in the heart of
+  Flagstaff, AZ, Karma Sushi Bar Grill stands out as a welcoming spot for fresh
+  Japanese-inspired dishes. This cozy eatery specializes in a variety of sushi
+  rolls, grilled options, and flavorful ramen, all served in a relaxed setting
+  that invites casual dining. With accessibility features like
+  wheelchair-friendly entrances and parking, it's an inclusive choice for
+  everyone looking to enjoy authentic flavors without hassle. The menu
+  highlights creative takes on classic sushi, paired with cocktails and other
+  beverages, making it a go-to destination for those searching for quality
+  Japanese cuisine nearby. Open daily with extended hours on weekends, it's
+  perfect for a laid-back lunch or dinner outing in this vibrant area.
+generative_summary: >-
+  Experience Karma Sushi Bar Grill in Flagstaff, AZ$$$Nestled in the heart of
+  Flagstaff, AZ, Karma Sushi Bar Grill stands out as a welcoming spot for fresh
+  Japanese-inspired dishes. This cozy eatery specializes in a variety of sushi
+  rolls, grilled options, and flavorful ramen, all served in a relaxed setting
+  that invites casual dining. With accessibility features like
+  wheelchair-friendly entrances and parking, it's an inclusive choice for
+  everyone looking to enjoy authentic flavors without hassle. The menu
+  highlights creative takes on classic sushi, paired with cocktails and other
+  beverages, making it a go-to destination for those searching for quality
+  Japanese cuisine nearby. Open daily with extended hours on weekends, it's
+  perfect for a laid-back lunch or dinner outing in this vibrant area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJxWG05UOPLYcRVtp8yawRJJY/reviews/ChZDSUhNMG9nS0VJQ0FnTURvM2VtaWZBEAE
+    relativePublishTimeDescription: in the last week
+    rating: 4
+    text:
+      text: >-
+        We stopped by Karma Sushi Bar Grill in Flagstaff and overall had a good
+        experience.
+
+
+        We ordered the Karma and Instant Karma sushi rolls, along with the
+        lobster tempura bites from their specials menu. The lobster bites were
+        tasty but were mostly breading, especially for the $18 price point. The
+        ramen was good, but the noodles were a little different than what we
+        expected. As for the sushi, the flavors were good but the rice was a bit
+        mushy this time around.
+
+
+        That said, the service was great. Thomas did an excellent job letting us
+        know that the sushi bar was a bit backed up, so we really appreciated
+        the communication. They brought out our ramen first, and about 15
+        minutes later our sushi and appetizer arrived.
+
+
+        We’ve been to Karma before and have had great experiences, so it seems
+        like they were just extra busy this time. We’ll definitely be back
+      languageCode: en
+    originalText:
+      text: >-
+        We stopped by Karma Sushi Bar Grill in Flagstaff and overall had a good
+        experience.
+
+
+        We ordered the Karma and Instant Karma sushi rolls, along with the
+        lobster tempura bites from their specials menu. The lobster bites were
+        tasty but were mostly breading, especially for the $18 price point. The
+        ramen was good, but the noodles were a little different than what we
+        expected. As for the sushi, the flavors were good but the rice was a bit
+        mushy this time around.
+
+
+        That said, the service was great. Thomas did an excellent job letting us
+        know that the sushi bar was a bit backed up, so we really appreciated
+        the communication. They brought out our ramen first, and about 15
+        minutes later our sushi and appetizer arrived.
+
+
+        We’ve been to Karma before and have had great experiences, so it seems
+        like they were just extra busy this time. We’ll definitely be back
+      languageCode: en
+    authorAttribution:
+      displayName: David Madrid
+      uri: https://www.google.com/maps/contrib/115434233070077856744/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVmnNhrGOsOGSlAStennNQu2--qc00R4qJ6z_t0HmWw2fvYG0kOHA=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-27T23:18:15.768935Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURvM2VtaWZBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURvM2VtaWZBEAE!2m1!1s0x872d8f43e5b461c5:0x962411acc97cda56
+  - name: >-
+      places/ChIJxWG05UOPLYcRVtp8yawRJJY/reviews/ChdDSUhNMG9nS0VJQ0FnSUR2OWVmem13RRAB
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        A great sushi place, lots of Japanese whiskey choices.
+
+
+        Went during Happy Hour, great deals. I got a Hot Toddy, it was not on
+        the menu but the bartender whipped it up no problem.
+
+
+        Very clean, great service.
+      languageCode: en
+    originalText:
+      text: >-
+        A great sushi place, lots of Japanese whiskey choices.
+
+
+        Went during Happy Hour, great deals. I got a Hot Toddy, it was not on
+        the menu but the bartender whipped it up no problem.
+
+
+        Very clean, great service.
+      languageCode: en
+    authorAttribution:
+      displayName: Nathan Fortmeyer
+      uri: https://www.google.com/maps/contrib/108491173745446848970/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKje_w2v9KSySfA_uHEg-XW-4qQnO_JWOe10yyIpyczEcQlGw=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-12-22T18:57:10.917828Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR2OWVmem13RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR2OWVmem13RRAB!2m1!1s0x872d8f43e5b461c5:0x962411acc97cda56
+  - name: >-
+      places/ChIJxWG05UOPLYcRVtp8yawRJJY/reviews/ChZDSUhNMG9nS0VJQ0FnTURJb0xlR0lBEAE
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 5
+    text:
+      text: >-
+        Wonderful atmosphere, the ramen noodles in the ramen were absolutely
+        delicious. There weren’t too many toppings which is oddly satisfying
+        because you can really focus on the broth and noodles. A bit expensive
+        but I think the atmosphere makes up for it.
+
+
+        Probably would only go during happy hour though, just for the sake of
+        prices :)
+      languageCode: en
+    originalText:
+      text: >-
+        Wonderful atmosphere, the ramen noodles in the ramen were absolutely
+        delicious. There weren’t too many toppings which is oddly satisfying
+        because you can really focus on the broth and noodles. A bit expensive
+        but I think the atmosphere makes up for it.
+
+
+        Probably would only go during happy hour though, just for the sake of
+        prices :)
+      languageCode: en
+    authorAttribution:
+      displayName: A.N.
+      uri: https://www.google.com/maps/contrib/100814309223547254894/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXNTP4mfJ3O2C_vFWrXHumv2JxeEA-7abhMlLAKIPAJ-sxM_ra_=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-06T06:03:20.694662Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURJb0xlR0lBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJb0xlR0lBEAE!2m1!1s0x872d8f43e5b461c5:0x962411acc97cda56
+  - name: >-
+      places/ChIJxWG05UOPLYcRVtp8yawRJJY/reviews/ChZDSUhNMG9nS0VJQ0FnTURJamU2TUJREAE
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 5
+    text:
+      text: >-
+        I wish we lived here because I want to try so many more rolls!!  We were
+        heading for pizza and found this first and definitely we think we made
+        the right decision.  We started with the special, I just know it had
+        mangos and was very good.  We then went for the Red Dragon and Kaptain
+        Krunch rolls.  Just watching the rolls going to different tables was
+        fun, they definitely win for presentation.
+      languageCode: en
+    originalText:
+      text: >-
+        I wish we lived here because I want to try so many more rolls!!  We were
+        heading for pizza and found this first and definitely we think we made
+        the right decision.  We started with the special, I just know it had
+        mangos and was very good.  We then went for the Red Dragon and Kaptain
+        Krunch rolls.  Just watching the rolls going to different tables was
+        fun, they definitely win for presentation.
+      languageCode: en
+    authorAttribution:
+      displayName: Mazanec Mischief
+      uri: https://www.google.com/maps/contrib/100435757885353298462/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUZjL7fu1cNAVp6ss6wT-vlPgV7O1EtwjH5ahTAV9MSHwN_OCrP=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-04-12T02:29:53.126206Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURJamU2TUJREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJamU2TUJREAE!2m1!1s0x872d8f43e5b461c5:0x962411acc97cda56
+  - name: >-
+      places/ChIJxWG05UOPLYcRVtp8yawRJJY/reviews/ChZDSUhNMG9nS0VJQ0FnTURJMlBuRkh3EAE
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 5
+    text:
+      text: >-
+        Dinner at Karma did not disappoint and service was impeccable. We both
+        had the Ahi Tataki Tower and shared a Rainbow roll. The sushi was
+        incredible. Highly recommend!
+      languageCode: en
+    originalText:
+      text: >-
+        Dinner at Karma did not disappoint and service was impeccable. We both
+        had the Ahi Tataki Tower and shared a Rainbow roll. The sushi was
+        incredible. Highly recommend!
+      languageCode: en
+    authorAttribution:
+      displayName: TG
+      uri: https://www.google.com/maps/contrib/105173920963754468143/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjULhqU_yLPB5ZAPCEsV5nl0xiZrNbTJqxBrKjH-leYiaFJ3899K=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-04-06T22:17:46.450237Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURJMlBuRkh3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJMlBuRkh3EAE!2m1!1s0x872d8f43e5b461c5:0x962411acc97cda56
+review_summary: >-
+  Buzz Around Karma Sushi$$$Visitors often rave about the tasty sushi and
+  inviting atmosphere at this popular spot, noting that the rolls are creative
+  and well-presented for a satisfying meal. Many appreciate the solid service
+  and happy hour deals that make dining more affordable without skimping on
+  flavor, though some mention that prices can add up for larger orders. Feedback
+  highlights the delicious ramen and overall vibe, with folks enjoying the focus
+  on fresh ingredients that keep things feeling light and enjoyable. Overall,
+  it's seen as a reliable choice for groups or casual get-togethers, earning
+  praise for its consistent quality and welcoming feel that encourages repeat
+  visits. If you're in the mood for something flavorful and fun, this place
+  delivers a solid experience worth trying out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  paidParkingLot: true
+  paidStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
+curbside_pickup: true
 delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: true
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
+serves_coffee: true
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Cozy Japanese eatery offering a variety of sushi & grilled fare in laid-back
+  surrounds.
 
 ---

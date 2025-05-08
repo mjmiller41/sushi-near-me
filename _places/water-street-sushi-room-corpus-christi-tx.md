@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Water Street Sushi Room"
+title: Water Street Sushi Room
 permalink: /texas/corpus-christi/water-street-sushi-room.html
 stateAbbr: TX
 stateName: Texas
 cityName: Corpus Christi
 seo:
-  name: "Water Street Sushi Room"
-  type: Restaurant
+  type: restaurant
   links: http://www.waterstmarketcc.com/sushi-room
-description: "Water Street Sushi Room serves delicious sushi in Corpus Christi, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJl9dWz-1faIYRVYm24gg-CDY
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x86685fedcf56d797:0x36083e08e2b68955!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:00 PM'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:00 PM'
     - 'Saturday: 11:00 AM – 10:00 PM'
     - 'Sunday: 11:00 AM – 10:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 10:00 PM'
-    - 'Saturday: 11:00 AM – 10:00 PM'
-    - 'Sunday: 11:00 AM – 10:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,254 @@ phone: (361) 561-0190
 price_level: null
 price_range: null
 rating: '4.5'
-rating_count: 0
+rating_count: 304
 website: http://www.waterstmarketcc.com/sushi-room
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Water Street Sushi Room in Corpus Christi, TX$$$Nestled in the heart
+  of Corpus Christi, TX, Water Street Sushi Room stands out as a welcoming spot
+  for fresh sushi and Japanese-inspired dishes, offering a relaxed vibe perfect
+  for casual dining. This establishment delights visitors with its array of
+  oysters, creative sushi rolls, and poke bowls, complemented by enticing happy
+  hour specials that make it a go-to choice for those seeking sushi restaurants
+  nearby. Accessibility features like wheelchair-friendly entrances and seating
+  add to the inclusive atmosphere, ensuring everyone can enjoy the experience.
+  With generous hours from late morning into the evening, it's an ideal stop for
+  locals and travelers alike looking for top-rated sushi options. The blend of
+  fresh seafood and affordable deals creates a memorable setting for anyone
+  exploring Japanese places near me.
+generative_summary: >-
+  Discover Water Street Sushi Room in Corpus Christi, TX$$$Nestled in the heart
+  of Corpus Christi, TX, Water Street Sushi Room stands out as a welcoming spot
+  for fresh sushi and Japanese-inspired dishes, offering a relaxed vibe perfect
+  for casual dining. This establishment delights visitors with its array of
+  oysters, creative sushi rolls, and poke bowls, complemented by enticing happy
+  hour specials that make it a go-to choice for those seeking sushi restaurants
+  nearby. Accessibility features like wheelchair-friendly entrances and seating
+  add to the inclusive atmosphere, ensuring everyone can enjoy the experience.
+  With generous hours from late morning into the evening, it's an ideal stop for
+  locals and travelers alike looking for top-rated sushi options. The blend of
+  fresh seafood and affordable deals creates a memorable setting for anyone
+  exploring Japanese places near me.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJl9dWz-1faIYRVYm24gg-CDY/reviews/ChZDSUhNMG9nS0VJQ0FnSUNIbllqWFpREAE
+    relativePublishTimeDescription: 7 months ago
+    rating: 4
+    text:
+      text: >-
+        Came in for lunch and overall I'd say it was an enjoyable experience.
+        The food was really good (a bit pricey, but still good). Our server was
+        friendly. My only complaint was the wait time was a bit long... I get
+        that it's sushi and it can take awhile to make fresh, but I felt the
+        wait time was a bit long. I only mention this because we were the only
+        guests in the restaraunt at the time. Other than that its a good place
+        to grab a lunch.
+      languageCode: en
+    originalText:
+      text: >-
+        Came in for lunch and overall I'd say it was an enjoyable experience.
+        The food was really good (a bit pricey, but still good). Our server was
+        friendly. My only complaint was the wait time was a bit long... I get
+        that it's sushi and it can take awhile to make fresh, but I felt the
+        wait time was a bit long. I only mention this because we were the only
+        guests in the restaraunt at the time. Other than that its a good place
+        to grab a lunch.
+      languageCode: en
+    authorAttribution:
+      displayName: Jason J
+      uri: https://www.google.com/maps/contrib/106392798560644223465/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUqwPtM_c3fhr_4RqmAHAKf-AdvWywUBDCdJJe5xZd4G9BwUjvM=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-09-07T19:40:53.279134Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNIbllqWFpREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNIbllqWFpREAE!2m1!1s0x86685fedcf56d797:0x36083e08e2b68955
+  - name: >-
+      places/ChIJl9dWz-1faIYRVYm24gg-CDY/reviews/ChdDSUhNMG9nS0VJQ0FnSUNyMk12R3h3RRAB
+    relativePublishTimeDescription: 6 months ago
+    rating: 5
+    text:
+      text: |-
+        Great atmosphere!
+        My favorite is Mojito Roll which has mango! 🥭
+        I also like their veggie sushi and spicy tuna!
+        They have %50 discount ‘everyday’ between 3pm-6pm!🍣🧡❤️
+      languageCode: en
+    originalText:
+      text: |-
+        Great atmosphere!
+        My favorite is Mojito Roll which has mango! 🥭
+        I also like their veggie sushi and spicy tuna!
+        They have %50 discount ‘everyday’ between 3pm-6pm!🍣🧡❤️
+      languageCode: en
+    authorAttribution:
+      displayName: Rabia Nur Dural
+      uri: https://www.google.com/maps/contrib/114130308368911085178/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWdDm9BweZskue1U19wDH78f2fyo7P58fu4uSp3REprAHgGZU35Hw=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-10-14T03:01:56.900269Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNyMk12R3h3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNyMk12R3h3RRAB!2m1!1s0x86685fedcf56d797:0x36083e08e2b68955
+  - name: >-
+      places/ChIJl9dWz-1faIYRVYm24gg-CDY/reviews/ChdDSUhNMG9nS0VJQ0FnSURwLUt5Y3lBRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 3
+    text:
+      text: >-
+        The ambience and atmosphere were very nice along with the staff. Happy
+        Hour is daily from 3-6. We ordered the Volcano roll (originally $19) a
+        Spicy Salmon Roll, Spicy Tuna Roll along with Tuna and Salmon Nigiri
+        which are not on the happy hour menu. The quality of the fish is pretty
+        solid for South Texas and was impressive. However, the sushi rice was a
+        bit hard making the sushi dry. We were able to get the Volcano roll for
+        $9.5 which is fair but $19 being the original price is pretty wild.
+        Overall the experience was solid during happy hour and if you’re in the
+        area craving sushi. I’m sure the other seafood options at Water Street
+        are good quality.
+      languageCode: en
+    originalText:
+      text: >-
+        The ambience and atmosphere were very nice along with the staff. Happy
+        Hour is daily from 3-6. We ordered the Volcano roll (originally $19) a
+        Spicy Salmon Roll, Spicy Tuna Roll along with Tuna and Salmon Nigiri
+        which are not on the happy hour menu. The quality of the fish is pretty
+        solid for South Texas and was impressive. However, the sushi rice was a
+        bit hard making the sushi dry. We were able to get the Volcano roll for
+        $9.5 which is fair but $19 being the original price is pretty wild.
+        Overall the experience was solid during happy hour and if you’re in the
+        area craving sushi. I’m sure the other seafood options at Water Street
+        are good quality.
+      languageCode: en
+    authorAttribution:
+      displayName: Sami Daoud
+      uri: https://www.google.com/maps/contrib/112026858732181746318/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjU1tAN7_E6YtkQlmUxFUPpit0_TY8U7BKUyiI3OKjWPoQZi62r6_w=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2023-08-15T23:36:38.685867Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURwLUt5Y3lBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURwLUt5Y3lBRRAB!2m1!1s0x86685fedcf56d797:0x36083e08e2b68955
+  - name: >-
+      places/ChIJl9dWz-1faIYRVYm24gg-CDY/reviews/ChdDSUhNMG9nS0VJQ0FnSUNkaU12UzdBRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        Most creative rolls I have ever had… will be back for sure.  Eco lab
+        washers are a plus and make sano cleanup work for sanitation of glasses
+        and dishes.
+      languageCode: en
+    originalText:
+      text: >-
+        Most creative rolls I have ever had… will be back for sure.  Eco lab
+        washers are a plus and make sano cleanup work for sanitation of glasses
+        and dishes.
+      languageCode: en
+    authorAttribution:
+      displayName: Tomas L
+      uri: https://www.google.com/maps/contrib/111443632550026168472/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjV5J1-XCDlD7ElJViY-bSSyJJS37LZTycoA8vmAW2PE1lx-c1U=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-02-10T16:15:01.307033Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNkaU12UzdBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNkaU12UzdBRRAB!2m1!1s0x86685fedcf56d797:0x36083e08e2b68955
+  - name: >-
+      places/ChIJl9dWz-1faIYRVYm24gg-CDY/reviews/ChZDSUhNMG9nS0VJQ0FnSUNHdU1POFpBEAE
+    relativePublishTimeDescription: 3 years ago
+    rating: 5
+    text:
+      text: >-
+        Best seafood in town and acceptable prices, sort of. But compared to
+        other restaurants in the area, the oysters, shrimp, and fish are fresh
+        guaranteed. Make sure you ennjoy 1/2 price off on oysters on half shell
+        and sushi (dine in). Nice atmosphere, friendly staff. Sarah was my
+        friend at the bar and she's been graceful and answered my questions with
+        great info. Great chef; the caliente soup was excellent with health
+        loaded ingredients. Loved it! It continues to be my favorite in spite of
+        shrunken space and hiked up prices...
+
+        The outside ambience is charment=charming!
+
+        Take a few minutes to walk around and look at the oyster wall at the
+        bar. Enjoy!
+      languageCode: en
+    originalText:
+      text: >-
+        Best seafood in town and acceptable prices, sort of. But compared to
+        other restaurants in the area, the oysters, shrimp, and fish are fresh
+        guaranteed. Make sure you ennjoy 1/2 price off on oysters on half shell
+        and sushi (dine in). Nice atmosphere, friendly staff. Sarah was my
+        friend at the bar and she's been graceful and answered my questions with
+        great info. Great chef; the caliente soup was excellent with health
+        loaded ingredients. Loved it! It continues to be my favorite in spite of
+        shrunken space and hiked up prices...
+
+        The outside ambience is charment=charming!
+
+        Take a few minutes to walk around and look at the oyster wall at the
+        bar. Enjoy!
+      languageCode: en
+    authorAttribution:
+      displayName: al salceanu
+      uri: https://www.google.com/maps/contrib/114309054313241127157/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocL6TOWmMm0SvKF7sMr6fciugPKXNR2dB67SyV3UhZ3lLZe6=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2021-10-19T22:40:27.903479Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNHdU1POFpBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNHdU1POFpBEAE!2m1!1s0x86685fedcf56d797:0x36083e08e2b68955
+review_summary: >-
+  What Guests Are Saying About This Local Sushi Spot$$$Folks generally rave
+  about the fresh flavors and creative twists on classic rolls, making it a
+  solid pick for anyone craving quality sushi in a laid-back environment. Many
+  highlight the daily happy hour deals as a fantastic value, helping to keep
+  things affordable without skimping on taste, though a few mention occasional
+  waits that come with freshly prepared meals. The atmosphere gets plenty of
+  nods for being welcoming and vibe-y, with outdoor seating adding to the charm
+  for groups or casual meetups. Overall, the seafood quality stands out as a
+  highlight, earning high marks for freshness in this part of Texas, and it's
+  often recommended for a satisfying lunch or dinner. While there are minor
+  notes about rice texture in some dishes, the positives around variety and
+  service keep the feedback upbeat and encouraging for first-timers.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsCashOnly: false
 allow_dogs: null
 curbside_pickup: null
 delivery: null
-dine_in: null
+dine_in: true
 good_for_children: null
-good_for_groups: null
+good_for_groups: true
 good_for_sports: null
-live_music: null
+live_music: false
 menu_for_children: null
-outdoor_seating: null
+outdoor_seating: true
 reservable: null
-restroom: null
-serves_beer: null
+restroom: true
+serves_beer: true
 serves_breakfast: null
 serves_brunch: null
-serves_cocktails: null
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

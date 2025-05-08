@@ -5,4 +5,5 @@ permalink: /pennsylvania/bloomsburg/
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Bloomsburg
+
 ---

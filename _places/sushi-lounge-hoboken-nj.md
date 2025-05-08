@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Lounge"
+title: Sushi Lounge
 permalink: /new-jersey/hoboken/sushi-lounge.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Hoboken
 seo:
-  name: "Sushi Lounge"
-  type: Restaurant
-  links: null
-description: "Sushi Lounge serves delicious sushi in Hoboken, New Jersey. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.sushiloungenj.com/
 place_id: ChIJiw2E3OFZwokRO0K8w8WyomY
 photos:
   - name: >-
@@ -168,8 +166,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c259e1dc840d8b:0x66a2b2c5c3bc423b!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 12
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 12
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 12
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 12
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 12
+        minute: 0
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 12:00 – 10:00 PM'
+    - 'Tuesday: 12:00 – 10:00 PM'
+    - 'Wednesday: 12:00 – 10:00 PM'
+    - 'Thursday: 12:00 – 10:00 PM'
+    - 'Friday: 12:00 – 11:00 PM'
+    - 'Saturday: 12:00 – 11:00 PM'
+    - 'Sunday: 12:00 – 10:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -177,13 +240,50 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (201) 386-1117
+price_level: PRICE_LEVEL_MODERATE
+price_range: $30 &ndash; $50
+rating: '4.1'
+rating_count: 633
+website: https://www.sushiloungenj.com/
+description: >-
+  Discover Sushi Lounge in Hoboken, NJ$$$Sushi Lounge in Hoboken, NJ, stands out
+  as a welcoming spot for enjoying fresh Japanese cuisine, blending casual vibes
+  with a selection of inventive sushi rolls and classic dishes. This restaurant
+  offers an inviting atmosphere perfect for unwinding, complete with happy hour
+  deals that enhance the experience for those seeking affordable bites.
+  Accessibility features like wheelchair-friendly entrances and seating make it
+  easier for everyone to savor the flavors, while the menu highlights a variety
+  of options that appeal to sushi enthusiasts exploring local dining scenes.
+  Whether you're in the mood for a relaxed meal or something more lively, this
+  spot delivers on quality and variety, making it a go-to choice in the area for
+  authentic Japanese flavors.
+generative_summary: >-
+  Discover Sushi Lounge in Hoboken, NJ$$$Sushi Lounge in Hoboken, NJ, stands out
+  as a welcoming spot for enjoying fresh Japanese cuisine, blending casual vibes
+  with a selection of inventive sushi rolls and classic dishes. This restaurant
+  offers an inviting atmosphere perfect for unwinding, complete with happy hour
+  deals that enhance the experience for those seeking affordable bites.
+  Accessibility features like wheelchair-friendly entrances and seating make it
+  easier for everyone to savor the flavors, while the menu highlights a variety
+  of options that appeal to sushi enthusiasts exploring local dining scenes.
+  Whether you're in the mood for a relaxed meal or something more lively, this
+  spot delivers on quality and variety, making it a go-to choice in the area for
+  authentic Japanese flavors.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors often praise this sushi spot for its
+  flavorful rolls and refreshing drinks, creating a laid-back lounge feel that's
+  perfect for casual outings. Many highlight the attentive service that keeps
+  things running smoothly, adding to the overall enjoyment of the meal. While
+  some mention that the prices lean towards the higher end, the consensus is
+  that the quality and atmosphere make it a worthwhile treat. It's frequently
+  recommended for groups or anyone craving top-notch Japanese options nearby,
+  with the cozy setting drawing in those looking for a memorable dining
+  experience. All in all, it's a solid pick for sushi lovers who value good food
+  and a welcoming vibe, even if budgeting plays a role.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -209,7 +309,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

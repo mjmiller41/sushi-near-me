@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "NaRa-Ya"
+title: NaRa-Ya
 permalink: /district-of-columbia/washington/nara-ya.html
 stateAbbr: DC
 stateName: District of Columbia
 cityName: Washington
 seo:
-  name: "NaRa-Ya"
-  type: Restaurant
+  type: restaurant
   links: https://nara-ya.com/
-description: "NaRa-Ya serves delicious sushi in Washington, District of Columbia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, and dinner."
 place_id: ChIJJYqfj563t4kRoItAIPV366A
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $50 &ndash; $100
 rating: '3.9'
 rating_count: 0
 website: https://nara-ya.com/
+description: >-
+  Explore NaRa-Ya in Washington, DC$$$NaRa-Ya in Washington, DC, stands out as a
+  vibrant Japanese restaurant offering fresh sushi and flavorful dishes in a
+  lively setting. This spot captures the essence of Japanese cuisine with
+  beautifully presented options that appeal to those seeking top-rated sushi
+  near me, complemented by a welcoming atmosphere perfect for casual gatherings
+  or special occasions. The decor features elegant touches that enhance the
+  overall dining experience, making it an ideal choice for exploring Japanese
+  places near me with a focus on quality and presentation. Accessibility
+  features like wheelchair-friendly entrances add to its appeal, ensuring
+  everyone can enjoy the inviting vibe. Whether you're in the mood for a quick
+  sushi fix or a relaxed meal, NaRa-Ya delivers a memorable taste of authentic
+  flavors in the heart of the city.
+generative_summary: >-
+  Explore NaRa-Ya in Washington, DC$$$NaRa-Ya in Washington, DC, stands out as a
+  vibrant Japanese restaurant offering fresh sushi and flavorful dishes in a
+  lively setting. This spot captures the essence of Japanese cuisine with
+  beautifully presented options that appeal to those seeking top-rated sushi
+  near me, complemented by a welcoming atmosphere perfect for casual gatherings
+  or special occasions. The decor features elegant touches that enhance the
+  overall dining experience, making it an ideal choice for exploring Japanese
+  places near me with a focus on quality and presentation. Accessibility
+  features like wheelchair-friendly entrances add to its appeal, ensuring
+  everyone can enjoy the inviting vibe. Whether you're in the mood for a quick
+  sushi fix or a relaxed meal, NaRa-Ya delivers a memorable taste of authentic
+  flavors in the heart of the city.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJJYqfj563t4kRoItAIPV366A/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3anUyZHJ3RRAB
@@ -382,6 +407,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR2OVl5SElBEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR2OVl5SElBEAE!2m1!1s0x89b7b79e8f9f8a25:0xa0eb77f520408ba0
+review_summary: >-
+  Insights from Recent Reviews$$$Visitors often rave about the charming
+  atmosphere at this sushi spot, highlighting its stunning decor and perfect
+  vibe for date nights or group outings, which really elevates the whole
+  experience. Many folks appreciate the tasty dishes like fresh sushi rolls and
+  crispy salmon, noting that the flavors hit the spot and pair well with happy
+  hour deals that keep things fun and affordable. While service is generally
+  friendly and attentive, a few mentions suggest it can vary, but overall, it's
+  seen as solid and welcoming without any major hiccups. The all-you-can-eat
+  options and waterfront views add extra excitement, making it a go-to for
+  anyone hunting for great sushi restaurants near me. All in all, it's a solid
+  pick for a enjoyable meal that leaves you wanting to come back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: false
   paidParkingLot: true
@@ -418,7 +456,7 @@ serves_lunch: false
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

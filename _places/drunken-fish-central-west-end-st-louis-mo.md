@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Drunken Fish - Central West End"
+title: Drunken Fish - Central West End
 permalink: /missouri/st-louis/drunken-fish-central-west-end.html
 stateAbbr: MO
 stateName: Missouri
 cityName: St. Louis
 seo:
-  name: "Drunken Fish - Central West End"
-  type: Restaurant
-  links: null
-description: "Drunken Fish - Central West End serves delicious sushi in St. Louis, Missouri. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.drunkenfish.com/
 place_id: ChIJ8Xi1LNa02IcRhTijmlaR_oQ
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x87d8b4d62cb578f1:0x84fe91569aa33885!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 23
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 23
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 10:00 PM'
+    - 'Tuesday: 11:00 AM – 10:00 PM'
+    - 'Wednesday: 11:00 AM – 10:00 PM'
+    - 'Thursday: 11:00 AM – 11:00 PM'
+    - 'Friday: 11:00 AM – 11:00 PM'
+    - 'Saturday: 11:00 AM – 11:00 PM'
+    - 'Sunday: 11:00 AM – 11:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,57 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
+phone: (314) 367-4222
+price_level: PRICE_LEVEL_MODERATE
 price_range: null
-rating: null
-rating_count: 0
-website: null
+rating: '4.0'
+rating_count: 1344
+website: http://www.drunkenfish.com/
+description: >-
+  Discover Drunken Fish in St. Louis, MO$$$Drunken Fish - Central West End in
+  St. Louis, MO, stands out as a welcoming sushi restaurant offering a relaxed
+  vibe perfect for casual dining. This spot features an array of fresh sushi
+  options alongside creative cocktails and sake selections, making it a go-to
+  choice for those seeking flavorful Japanese-inspired meals in a lively
+  setting. With outdoor seating on a patio, it's ideal for enjoying happy hour
+  deals or a laid-back meal with friends, enhancing the overall experience in
+  the vibrant Central West End neighborhood. Accessibility features like
+  wheelchair-friendly entrances and parking add to its appeal for a wide range
+  of visitors, ensuring everyone can savor the authentic flavors without hassle.
+  Whether you're exploring sushi restaurants nearby or looking for a spot to
+  unwind, this location combines quality cuisine with a casual atmosphere that
+  keeps locals coming back.
+generative_summary: >-
+  Discover Drunken Fish in St. Louis, MO$$$Drunken Fish - Central West End in
+  St. Louis, MO, stands out as a welcoming sushi restaurant offering a relaxed
+  vibe perfect for casual dining. This spot features an array of fresh sushi
+  options alongside creative cocktails and sake selections, making it a go-to
+  choice for those seeking flavorful Japanese-inspired meals in a lively
+  setting. With outdoor seating on a patio, it's ideal for enjoying happy hour
+  deals or a laid-back meal with friends, enhancing the overall experience in
+  the vibrant Central West End neighborhood. Accessibility features like
+  wheelchair-friendly entrances and parking add to its appeal for a wide range
+  of visitors, ensuring everyone can savor the authentic flavors without hassle.
+  Whether you're exploring sushi restaurants nearby or looking for a spot to
+  unwind, this location combines quality cuisine with a casual atmosphere that
+  keeps locals coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying About This Sushi Spot$$$Feedback from diners at this
+  popular sushi restaurant highlights a generally positive experience, with many
+  praising the fresh ingredients and variety of rolls that make it a standout
+  choice for Japanese cuisine lovers. People often note the friendly service and
+  inviting ambiance, including the patio and drink options, as key reasons for
+  repeat visits, though some mention occasional wait times during peak hours.
+  Overall, the solid 4.0 rating reflects enjoyment of the balanced flavors and
+  affordable happy hour specials, helping it rank among the best options for
+  those searching for top-rated sushi nearby. Reviewers appreciate the
+  approachable vibe that suits both solo diners and groups, adding to its
+  reputation as a reliable spot in the area. If you're on the hunt for sushi
+  places near me, this location delivers a consistently enjoyable meal with just
+  enough variety to keep things exciting.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +318,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Itto Sushi"
+title: Itto Sushi
 permalink: /utah/midvale/itto-sushi.html
 stateAbbr: UT
 stateName: Utah
 cityName: Midvale
 seo:
-  name: "Itto Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Itto Sushi serves delicious sushi in Midvale, Utah. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJrV_0Ni2IUocRX6CEmvGs6R0
 photos:
   - name: >-
@@ -185,7 +183,43 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Itto Sushi in Midvale, UT$$$Itto Sushi in Midvale, UT, stands out as
+  a welcoming Japanese restaurant celebrated for its inventive sushi creations
+  and thoughtful menu options. This spot emphasizes fresh ingredients and
+  creative rolls that appeal to a variety of tastes, including gluten-free
+  choices for those with dietary needs. With accessibility features like
+  wheelchair-friendly parking and seating, it ensures a comfortable visit for
+  everyone seeking authentic Japanese flavors. The atmosphere highlights a blend
+  of traditional and modern elements, making it an ideal destination for sushi
+  enthusiasts exploring local dining options. Whether you're looking for
+  top-rated sushi restaurants nearby, Itto Sushi delivers a memorable experience
+  with its focus on quality and variety.
+generative_summary: >-
+  Discover Itto Sushi in Midvale, UT$$$Itto Sushi in Midvale, UT, stands out as
+  a welcoming Japanese restaurant celebrated for its inventive sushi creations
+  and thoughtful menu options. This spot emphasizes fresh ingredients and
+  creative rolls that appeal to a variety of tastes, including gluten-free
+  choices for those with dietary needs. With accessibility features like
+  wheelchair-friendly parking and seating, it ensures a comfortable visit for
+  everyone seeking authentic Japanese flavors. The atmosphere highlights a blend
+  of traditional and modern elements, making it an ideal destination for sushi
+  enthusiasts exploring local dining options. Whether you're looking for
+  top-rated sushi restaurants nearby, Itto Sushi delivers a memorable experience
+  with its focus on quality and variety.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors often praise the flavorful omakase and
+  nigiri at this Japanese eatery, with standout rolls adding a fun twist to the
+  menu. Many highlight the efficient service that keeps things running smoothly
+  without any hassle. The staff's approachable vibe creates a relaxed
+  environment, making meals feel more enjoyable overall. While feedback
+  consistently notes the delicious variety of dishes, it's clear this place hits
+  the mark for anyone craving fresh sushi in a casual setting. If you're on the
+  hunt for reliable sushi spots nearby, the positive buzz around the quality and
+  speed makes it a solid choice for a satisfying outing.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +245,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

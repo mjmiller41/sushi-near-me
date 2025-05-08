@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Okinawa Sushi"
+title: Okinawa Sushi
 permalink: /colorado/northglenn/okinawa-sushi.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Northglenn
 seo:
-  name: "Okinawa Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Okinawa Sushi serves delicious sushi in Northglenn, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJxUtjDTF0bIcRtXq2yokvTWU
 photos:
   - name: >-
@@ -185,7 +183,45 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Okinawa Sushi in Northglenn, Colorado$$$Okinawa Sushi in Northglenn,
+  CO, stands out as a welcoming spot for fresh Japanese-inspired dining,
+  featuring an array of creative rolls and options for various tastes. This
+  sushi restaurant boasts a diverse selection that includes flavorful vegan
+  choices, making it easy for everyone to find something satisfying.
+  Complementing the meals are refreshing beverages like sake, beer, and wine,
+  enhancing the overall experience in a relaxed atmosphere. The venue
+  prioritizes accessibility, ensuring a comfortable visit for all guests, which
+  adds to its appeal for those seeking inclusive sushi spots nearby. With its
+  focus on quality ingredients and variety, it's a great choice for anyone
+  exploring local Japanese cuisine options.
+generative_summary: >-
+  Discover Okinawa Sushi in Northglenn, Colorado$$$Okinawa Sushi in Northglenn,
+  CO, stands out as a welcoming spot for fresh Japanese-inspired dining,
+  featuring an array of creative rolls and options for various tastes. This
+  sushi restaurant boasts a diverse selection that includes flavorful vegan
+  choices, making it easy for everyone to find something satisfying.
+  Complementing the meals are refreshing beverages like sake, beer, and wine,
+  enhancing the overall experience in a relaxed atmosphere. The venue
+  prioritizes accessibility, ensuring a comfortable visit for all guests, which
+  adds to its appeal for those seeking inclusive sushi spots nearby. With its
+  focus on quality ingredients and variety, it's a great choice for anyone
+  exploring local Japanese cuisine options.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$From what folks share about Okinawa Sushi, the
+  general vibe is positive, with many highlighting the fresh flavors and solid
+  variety of rolls that keep things exciting. Visitors often note that the vegan
+  options stand out as a thoughtful addition, making it a go-to for groups with
+  different preferences. While some mention it's a solid spot for casual meals,
+  others appreciate the approachable atmosphere that feels just right for a
+  quick bite or unwind. Overall, it seems like the place delivers on
+  expectations for tasty sushi experiences, though a few suggest it's best for
+  straightforward dining rather than something overly fancy. If you're on the
+  hunt for reliable sushi nearby, this spot gets nods for its consistent appeal
+  and welcoming feel.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +247,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

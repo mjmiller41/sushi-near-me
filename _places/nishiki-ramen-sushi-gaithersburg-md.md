@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Nishiki Ramen & Sushi"
+title: Nishiki Ramen & Sushi
 permalink: /maryland/gaithersburg/nishiki-ramen-sushi.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Gaithersburg
 seo:
-  name: "Nishiki Ramen & Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.nishikiramenmd.com/
-description: "Nishiki Ramen & Sushi serves delicious sushi in Gaithersburg, Maryland. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJDRVcamsttokRJrY_JwkrjoY
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 0
 website: http://www.nishikiramenmd.com/
+description: >-
+  Experience Nishiki Ramen & Sushi in Gaithersburg, MD$$$Nestled in the heart of
+  Gaithersburg, MD, Nishiki Ramen & Sushi stands out as a welcoming spot for
+  authentic Japanese flavors, blending hearty ramen with fresh sushi options
+  that appeal to casual diners and food enthusiasts alike. The restaurant boasts
+  accessible features like wheelchair-friendly entrances and seating, making it
+  easy for everyone to enjoy a comfortable meal. Diners can savor generous
+  portions of flavorful dishes, from steaming bowls of ramen to artfully
+  prepared sushi rolls, all served in a cozy atmosphere that evokes a
+  traditional Japanese vibe. With affordable pricing and options for outdoor
+  seating, it's an ideal choice for those seeking sushi restaurants near me that
+  offer both quality and convenience.
+generative_summary: >-
+  Experience Nishiki Ramen & Sushi in Gaithersburg, MD$$$Nestled in the heart of
+  Gaithersburg, MD, Nishiki Ramen & Sushi stands out as a welcoming spot for
+  authentic Japanese flavors, blending hearty ramen with fresh sushi options
+  that appeal to casual diners and food enthusiasts alike. The restaurant boasts
+  accessible features like wheelchair-friendly entrances and seating, making it
+  easy for everyone to enjoy a comfortable meal. Diners can savor generous
+  portions of flavorful dishes, from steaming bowls of ramen to artfully
+  prepared sushi rolls, all served in a cozy atmosphere that evokes a
+  traditional Japanese vibe. With affordable pricing and options for outdoor
+  seating, it's an ideal choice for those seeking sushi restaurants near me that
+  offer both quality and convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJDRVcamsttokRJrY_JwkrjoY/reviews/ChdDSUhNMG9nS0VJQ0FnTUNRa2V1bnlRRRAB
@@ -334,6 +357,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQ5cjlXRTdBRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQ5cjlXRTdBRRAB!2m1!1s0x89b62d6b6a5c150d:0x868e2b09273fb626
+review_summary: >-
+  Buzz Around This Local Favorite$$$If you're hunting for top-rated sushi near
+  Gaithersburg, folks often rave about the fresh, flavorful dishes that make
+  meals here a hit, with highlights on the generous portions and tasty ramen
+  that keep customers coming back. While most experiences lean positive, with
+  praise for the welcoming vibe and solid value, some note that service can
+  occasionally feel a bit slow during busy times, though it doesn't overshadow
+  the overall enjoyment. Reviewers frequently mention the variety of options
+  like spicy rolls and sashimi that satisfy cravings for Japanese places near
+  me, creating a relaxed setting perfect for groups or a quick bite. Overall,
+  it's a spot where the delicious food and reasonable prices earn high marks,
+  making it a go-to for anyone who loves sushi and wants a reliably good outing.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -366,7 +402,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

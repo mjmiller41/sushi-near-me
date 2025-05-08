@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ten Prime Steak & Sushi"
+title: Ten Prime Steak & Sushi
 permalink: /rhode-island/providence/ten-prime-steak-sushi.html
 stateAbbr: RI
 stateName: Rhode Island
 cityName: Providence
 seo:
-  name: "Ten Prime Steak & Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.tenprimesteakandsushi.com/
-description: "Designer rolls & aged meats are the draw at this swank fixture, with a raw bar & happy-hour menu. Ten Prime Steak & Sushi serves delicious sushi in Providence, Rhode Island. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJYeeUNhRF5IkRnrn5W9b_nvM
 photos:
   - name: >-
@@ -183,6 +181,33 @@ price_range: $100 &ndash; & up
 rating: '4.6'
 rating_count: 0
 website: http://www.tenprimesteakandsushi.com/
+description: >-
+  Discover Ten Prime Steak & Sushi in Providence, RI$$$Ten Prime Steak & Sushi
+  in Providence, RI, stands out as a premier spot for enjoying innovative sushi
+  and high-quality meat dishes in an elegant atmosphere. This restaurant
+  combines fresh Japanese-inspired fare with premium steaks, making it a go-to
+  choice for those seeking sushi restaurants in the area that blend tradition
+  with modern flair. The stylish space features a raw bar and a selection of
+  creative cocktails, enhancing the overall dining experience for anyone looking
+  for top-rated sushi near me. Accessibility options like wheelchair-friendly
+  seating add to its appeal, ensuring a welcoming environment for all visitors.
+  With its focus on flavorful options and a vibrant happy-hour vibe, it's an
+  ideal destination for exploring Japanese places near me that offer both
+  sophistication and variety.
+generative_summary: >-
+  Discover Ten Prime Steak & Sushi in Providence, RI$$$Ten Prime Steak & Sushi
+  in Providence, RI, stands out as a premier spot for enjoying innovative sushi
+  and high-quality meat dishes in an elegant atmosphere. This restaurant
+  combines fresh Japanese-inspired fare with premium steaks, making it a go-to
+  choice for those seeking sushi restaurants in the area that blend tradition
+  with modern flair. The stylish space features a raw bar and a selection of
+  creative cocktails, enhancing the overall dining experience for anyone looking
+  for top-rated sushi near me. Accessibility options like wheelchair-friendly
+  seating add to its appeal, ensuring a welcoming environment for all visitors.
+  With its focus on flavorful options and a vibrant happy-hour vibe, it's an
+  ideal destination for exploring Japanese places near me that offer both
+  sophistication and variety.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJYeeUNhRF5IkRnrn5W9b_nvM/reviews/ChZDSUhNMG9nS0VJQ0FnTURnbE9tcGFnEAE
@@ -336,6 +361,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURYOHNhQ1pnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURYOHNhQ1pnEAE!2m1!1s0x89e445143694e761:0xf39effd65bf9b99e
+review_summary: >-
+  What Guests Are Saying About Ten Prime Steak & Sushi$$$Visitors often
+  highlight the fantastic mix of sushi and steak dishes, with many praising the
+  fresh rolls and perfectly prepared meats that make meals memorable. Folks
+  appreciate the strong drink selection and attentive service, which contribute
+  to a lively and enjoyable atmosphere during visits. While most feedback is
+  enthusiastic about the quality and flavors, a few note that some favorite
+  items might not always be on the menu, though this doesn't detract from the
+  overall positive experience. In a casual setting, diners frequently mention it
+  as a solid pick for anyone searching for the best sushi near me, with the
+  combination of great food and ambiance keeping the energy high. Overall, it's
+  a spot that delivers a satisfying experience, encouraging repeat trips for
+  those who love sushi and want a reliably good time.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidParkingLot: true
   valetParking: true
@@ -367,8 +406,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Designer rolls & aged meats are the draw at this swank fixture, with a raw bar
   & happy-hour menu.
 

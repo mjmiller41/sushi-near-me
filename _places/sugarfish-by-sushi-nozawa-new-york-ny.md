@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "SUGARFISH by sushi nozawa"
+title: SUGARFISH by sushi nozawa
 permalink: /new-york/new-york/sugarfish-by-sushi-nozawa.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "SUGARFISH by sushi nozawa"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "SUGARFISH by sushi nozawa serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJe6Yde7VZwokRVbeUmR3iKfs
 photos:
   - name: >-
@@ -183,7 +181,41 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover SUGARFISH in New York, NY$$$SUGARFISH by sushi nozawa in New York,
+  NY, stands out as a premier spot for fresh Japanese-inspired dining,
+  specializing in omakase-style offerings that highlight high-quality
+  ingredients and expert preparation. This sushi restaurant delivers an
+  authentic experience with meticulously crafted hand rolls and nigiri,
+  appealing to those seeking top-rated sushi options in the bustling city. The
+  intimate setting enhances the meal, making it ideal for anyone exploring sushi
+  places near me who appreciates a focus on simplicity and flavor. Additionally,
+  the eatery's commitment to fresh fish and thoughtful ambiance creates a
+  welcoming environment for enjoying Japanese cuisine without the fuss.
+generative_summary: >-
+  Discover SUGARFISH in New York, NY$$$SUGARFISH by sushi nozawa in New York,
+  NY, stands out as a premier spot for fresh Japanese-inspired dining,
+  specializing in omakase-style offerings that highlight high-quality
+  ingredients and expert preparation. This sushi restaurant delivers an
+  authentic experience with meticulously crafted hand rolls and nigiri,
+  appealing to those seeking top-rated sushi options in the bustling city. The
+  intimate setting enhances the meal, making it ideal for anyone exploring sushi
+  places near me who appreciates a focus on simplicity and flavor. Additionally,
+  the eatery's commitment to fresh fish and thoughtful ambiance creates a
+  welcoming environment for enjoying Japanese cuisine without the fuss.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this sushi spot often rave about the
+  delicious omakase and hand rolls that feature incredibly fresh fish and
+  well-balanced flavors, making it a go-to choice for satisfying sushi cravings.
+  Many appreciate the efficient service that keeps things running smoothly,
+  allowing for a relaxed and enjoyable meal in a cozy atmosphere. Folks
+  highlight the great value for the quality of the ingredients, noting it's a
+  solid pick for anyone hunting for the best sushi near me. Overall, the
+  positive vibes around the portions and overall experience make it a reliable
+  option for casual diners, though it's worth noting that availability can vary.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -209,7 +241,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

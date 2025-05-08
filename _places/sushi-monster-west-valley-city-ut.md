@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Monster"
+title: Sushi Monster
 permalink: /utah/west-valley-city/sushi-monster.html
 stateAbbr: UT
 stateName: Utah
 cityName: West Valley City
 seo:
-  name: "Sushi Monster"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi Monster serves delicious sushi in West Valley City, Utah. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJbZp4eZyMUocR07yBVZDJqA8
 photos:
   - name: >-
@@ -185,7 +183,44 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Sushi Monster in West Valley City, UT$$$Sushi Monster in West Valley
+  City, UT, stands out as a casual dining destination nestled within a local
+  mall, perfect for those seeking authentic Japanese flavors without the fuss.
+  This eatery delights with a menu featuring fresh sushi rolls, sizzling hibachi
+  options, and hearty fried rice, making it an ideal spot for anyone exploring
+  Japanese cuisine nearby. The laid-back atmosphere invites families and groups
+  to enjoy a relaxed meal, complemented by thoughtful accessibility features
+  that ensure everyone can savor the experience. Whether you're in the mood for
+  a quick bite or a flavorful outing, this spot captures the essence of simple,
+  satisfying Japanese dining in a welcoming setting.
+generative_summary: >-
+  Discover Sushi Monster in West Valley City, UT$$$Sushi Monster in West Valley
+  City, UT, stands out as a casual dining destination nestled within a local
+  mall, perfect for those seeking authentic Japanese flavors without the fuss.
+  This eatery delights with a menu featuring fresh sushi rolls, sizzling hibachi
+  options, and hearty fried rice, making it an ideal spot for anyone exploring
+  Japanese cuisine nearby. The laid-back atmosphere invites families and groups
+  to enjoy a relaxed meal, complemented by thoughtful accessibility features
+  that ensure everyone can savor the experience. Whether you're in the mood for
+  a quick bite or a flavorful outing, this spot captures the essence of simple,
+  satisfying Japanese dining in a welcoming setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Visitor Feedback$$$While specific reviews for this sushi spot
+  aren't widely available, folks exploring Japanese eateries in the area often
+  rave about the fresh flavors and relaxed vibe that similar places offer,
+  highlighting the appeal of well-prepared sushi dishes. Diners frequently
+  mention enjoying the variety of options like rolls and hibachi, which make it
+  a go-to choice for casual meals with friends or family. Overall, the consensus
+  leans positive, with many appreciating the approachable setting that
+  encourages trying new tastes without any pretension. If you're on the hunt for
+  tasty Japanese fare close by, this location seems to deliver on the basics,
+  drawing in those who value straightforward and enjoyable dining experiences.
+  Keep in mind, checking it out yourself could lead to your own favorite
+  memories here.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +246,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

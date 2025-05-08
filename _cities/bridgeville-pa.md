@@ -5,4 +5,5 @@ permalink: /pennsylvania/bridgeville/
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Bridgeville
+
 ---

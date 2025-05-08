@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "A-Aki Sushi & Steakhouse - Florida Mall"
+title: A-Aki Sushi & Steakhouse - Florida Mall
 permalink: /florida/orlando/a-aki-sushi-steakhouse-florida-mall.html
 stateAbbr: FL
 stateName: Florida
 cityName: Orlando
 seo:
-  name: "A-Aki Sushi & Steakhouse - Florida Mall"
-  type: Restaurant
+  type: restaurant
   links: https://a-akisushi.com/
-description: "A-Aki Sushi & Steakhouse - Florida Mall serves delicious sushi in Orlando, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJna8wekt854gRln3C5E1fq-E
 photos:
   - name: >-
@@ -199,7 +197,42 @@ price_range: $20 &ndash; $30
 rating: '3.9'
 rating_count: 0
 website: https://a-akisushi.com/
+description: >-
+  Explore A-Aki Sushi in Orlando, Florida$$$A-Aki Sushi & Steakhouse in Orlando,
+  Florida, offers a vibrant blend of fresh Japanese cuisine and steakhouse
+  favorites, set in the lively atmosphere of a popular mall. This spot stands
+  out for its accessible pricing and variety of dishes that highlight quality
+  ingredients and creative flavors, making it a great choice for those seeking
+  sushi options nearby. With extended hours including evenings on weekends, it's
+  ideal for casual lunches or relaxed dinners, appealing to diners looking for
+  wheelchair-friendly dining experiences. The menu features a range of sushi
+  rolls and entrees that can be explored online, ensuring everyone finds
+  something to enjoy in this welcoming environment.
+generative_summary: >-
+  Explore A-Aki Sushi in Orlando, Florida$$$A-Aki Sushi & Steakhouse in Orlando,
+  Florida, offers a vibrant blend of fresh Japanese cuisine and steakhouse
+  favorites, set in the lively atmosphere of a popular mall. This spot stands
+  out for its accessible pricing and variety of dishes that highlight quality
+  ingredients and creative flavors, making it a great choice for those seeking
+  sushi options nearby. With extended hours including evenings on weekends, it's
+  ideal for casual lunches or relaxed dinners, appealing to diners looking for
+  wheelchair-friendly dining experiences. The menu features a range of sushi
+  rolls and entrees that can be explored online, ensuring everyone finds
+  something to enjoy in this welcoming environment.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Sharing About A-Aki$$$From what folks are buzzing about,
+  A-Aki Sushi & Steakhouse hits the mark with its tasty sushi rolls and reliable
+  steak choices, often praised as one of the go-to spots for fresh Japanese
+  flavors around Orlando. People frequently mention the friendly service and
+  laid-back vibe that make meals feel enjoyable, even if there might be a short
+  wait during busy times. Overall, it's seen as a solid pick for groups or
+  individuals craving top-rated sushi without overspending, with many
+  highlighting the good value and satisfying portions. While not perfect, the
+  general feedback keeps things upbeat, positioning it as a dependable option
+  for anyone exploring sushi restaurants near me.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +258,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

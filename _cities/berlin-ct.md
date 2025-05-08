@@ -5,4 +5,5 @@ permalink: /connecticut/berlin/
 stateAbbr: CT
 stateName: Connecticut
 cityName: Berlin
+
 ---

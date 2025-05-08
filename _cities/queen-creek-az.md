@@ -5,4 +5,5 @@ permalink: /arizona/queen-creek/
 stateAbbr: AZ
 stateName: Arizona
 cityName: Queen Creek
+
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Bada"
+title: Sushi Bada
 permalink: /new-york/suffern/sushi-bada.html
 stateAbbr: NY
 stateName: New York
 cityName: Suffern
 seo:
-  name: "Sushi Bada"
-  type: Restaurant
+  type: restaurant
   links: http://www.sushibada59.com/
-description: "Chic sushi spot with lunch plates & boxes plus beer, wine & sake served in a lively, low-lit space. Sushi Bada serves delicious sushi in Suffern, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJCUTeuEjnwokRALVbgZklijs
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $30 &ndash; $50
 rating: '4.5'
 rating_count: 0
 website: http://www.sushibada59.com/
+description: >-
+  Discover Sushi Bada in Suffern, New York$$$Sushi Bada in Suffern, New York,
+  offers a welcoming spot for enjoying fresh Japanese-inspired dishes in a
+  lively and comfortable setting. This sushi restaurant features an array of
+  creative rolls, classic fare, and a full bar with options like beer, wine, and
+  sake to complement your meal. Visitors can savor the variety of flavors, from
+  inventive appetizers to satisfying lunch plates and boxes, all served in a
+  cozy, low-lit atmosphere that enhances the dining experience. Accessibility is
+  a highlight, with options like wheelchair-friendly entrances and parking,
+  making it easy for everyone to enjoy top-notch sushi options nearby. Whether
+  you're seeking a casual night out or a taste of authentic Japanese cuisine,
+  this spot delivers on quality and ambiance for sushi enthusiasts in the area.
+generative_summary: >-
+  Discover Sushi Bada in Suffern, New York$$$Sushi Bada in Suffern, New York,
+  offers a welcoming spot for enjoying fresh Japanese-inspired dishes in a
+  lively and comfortable setting. This sushi restaurant features an array of
+  creative rolls, classic fare, and a full bar with options like beer, wine, and
+  sake to complement your meal. Visitors can savor the variety of flavors, from
+  inventive appetizers to satisfying lunch plates and boxes, all served in a
+  cozy, low-lit atmosphere that enhances the dining experience. Accessibility is
+  a highlight, with options like wheelchair-friendly entrances and parking,
+  making it easy for everyone to enjoy top-notch sushi options nearby. Whether
+  you're seeking a casual night out or a taste of authentic Japanese cuisine,
+  this spot delivers on quality and ambiance for sushi enthusiasts in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJCUTeuEjnwokRALVbgZklijs/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3aDc2OHlBRRAB
@@ -432,6 +455,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURyczZfa0VBEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURyczZfa0VBEAE!2m1!1s0x89c2e748b8de4409:0x3b8a2599815bb500
+review_summary: >-
+  What Customers Are Saying$$$Folks rave about the delicious sushi rolls and
+  fresh ingredients at this popular spot, with many highlighting flavorful
+  options like omakase and creative apps that keep things exciting. While
+  service is generally attentive and professional, a few mentions note
+  occasional waits or minor hiccups that don't overshadow the overall vibe.
+  Diners appreciate the cozy atmosphere, great music, and comfortable seating
+  that make it a go-to for groups or a relaxed meal. Overall, the consensus
+  leans positive, with praise for the quick service and tasty combinations that
+  leave you feeling satisfied and eager to return. If you're hunting for the
+  best sushi near you, this place delivers a solid experience that's worth
+  checking out for its blend of quality food and welcoming energy.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -463,8 +499,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Chic sushi spot with lunch plates & boxes plus beer, wine & sake served in a
   lively, low-lit space.
 

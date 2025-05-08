@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Spring Rolls"
+title: Spring Rolls
 permalink: /north-carolina/raleigh/spring-rolls.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Raleigh
 seo:
-  name: "Spring Rolls"
-  type: Restaurant
+  type: restaurant
   links: https://springrollsrestaurant.com/
-description: "Spring Rolls serves delicious sushi in Raleigh, North Carolina. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJw0s1SRf0rIkRVOKY7OWzFZs
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89acf41749354bc3:0x9b15b3e5ec98e254!10e5
 primary_type: Asian Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 16
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 16
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:00 PM'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:00 PM'
     - 'Saturday: 4:00 – 10:00 PM'
     - 'Sunday: 4:00 – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 10:00 PM'
-    - 'Saturday: 4:00 – 10:00 PM'
-    - 'Sunday: 4:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +246,47 @@ phone: (919) 803-1118
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.0'
-rating_count: 0
+rating_count: 705
 website: https://springrollsrestaurant.com/
+description: >-
+  Discover Spring Rolls in Raleigh, NC$$$Spring Rolls in Raleigh, NC, stands out
+  as a welcoming Asian restaurant offering a mix of casual dining experiences
+  with flavorful dishes that highlight fresh ingredients and diverse flavors.
+  This spot features an array of options from sushi rolls to classic
+  Chinese-inspired meals, complemented by a relaxed bar setting for enjoying
+  drinks alongside your meal. With accessibility features like
+  wheelchair-friendly entrances and parking, it's designed to accommodate all
+  guests comfortably, making it a convenient choice for everyday visits. The
+  restaurant maintains moderate pricing and extended hours, ideal for lunch,
+  dinner, or even a quick bite after work, ensuring it's a go-to for those
+  exploring Asian cuisine nearby.
+generative_summary: >-
+  Discover Spring Rolls in Raleigh, NC$$$Spring Rolls in Raleigh, NC, stands out
+  as a welcoming Asian restaurant offering a mix of casual dining experiences
+  with flavorful dishes that highlight fresh ingredients and diverse flavors.
+  This spot features an array of options from sushi rolls to classic
+  Chinese-inspired meals, complemented by a relaxed bar setting for enjoying
+  drinks alongside your meal. With accessibility features like
+  wheelchair-friendly entrances and parking, it's designed to accommodate all
+  guests comfortably, making it a convenient choice for everyday visits. The
+  restaurant maintains moderate pricing and extended hours, ideal for lunch,
+  dinner, or even a quick bite after work, ensuring it's a go-to for those
+  exploring Asian cuisine nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback Highlights$$$Folks checking out this spot often appreciate
+  the tasty sushi and well-prepared Asian dishes that hit the spot without
+  breaking the bank, based on its solid overall rating. Many comments point to
+  the friendly service and cozy atmosphere that make dining here feel effortless
+  and enjoyable, even for groups or solo diners. While some mention occasional
+  waits during peak times, the general consensus leans positive, praising the
+  variety of flavors that keep things exciting on every visit. Overall, it's
+  seen as a reliable choice for anyone craving quality meals in a laid-back
+  environment, with the fresh offerings earning repeat nods from satisfied
+  patrons. This feedback paints a picture of a place that's worth trying for its
+  balance of taste and value.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +312,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

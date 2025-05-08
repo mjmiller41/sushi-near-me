@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Katsumi Sushi"
+title: Katsumi Sushi
 permalink: /california/berkeley/katsumi-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Berkeley
 seo:
-  name: "Katsumi Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Katsumi Sushi serves delicious sushi in Berkeley, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJw2Geay98hYAR8GN39NOr-Vs
 photos:
   - name: >-
@@ -167,7 +165,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80857c2f6b9e61c3:0x5bf9abd3f47763f0!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 30
+      close:
+        day: 0
+        hour: 23
+        minute: 0
+    - open:
+        day: 1
+        hour: 12
+        minute: 30
+      close:
+        day: 1
+        hour: 23
+        minute: 0
+    - open:
+        day: 2
+        hour: 12
+        minute: 30
+      close:
+        day: 2
+        hour: 23
+        minute: 0
+    - open:
+        day: 3
+        hour: 12
+        minute: 30
+      close:
+        day: 3
+        hour: 23
+        minute: 0
+    - open:
+        day: 4
+        hour: 12
+        minute: 30
+      close:
+        day: 4
+        hour: 23
+        minute: 0
+    - open:
+        day: 5
+        hour: 12
+        minute: 30
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 30
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 12:30 – 11:00 PM'
     - 'Tuesday: 12:30 – 11:00 PM'
     - 'Wednesday: 12:30 – 11:00 PM'
@@ -175,14 +231,7 @@ opening_hours:
     - 'Friday: 12:30 – 11:00 PM'
     - 'Saturday: 12:30 – 11:00 PM'
     - 'Sunday: 12:30 – 11:00 PM'
-  current:
-    - 'Monday: 12:30 – 11:00 PM'
-    - 'Tuesday: 12:30 – 11:00 PM'
-    - 'Wednesday: 12:30 – 11:00 PM'
-    - 'Thursday: 12:30 – 11:00 PM'
-    - 'Friday: 12:30 – 11:00 PM'
-    - 'Saturday: 12:30 – 11:00 PM'
-    - 'Sunday: 12:30 – 11:00 PM'
+  nextCloseTime: '2025-05-04T06:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -194,35 +243,211 @@ phone: (510) 529-4799
 price_level: null
 price_range: $10 &ndash; $20
 rating: '4.2'
-rating_count: 0
+rating_count: 75
 website: null
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Katsumi Sushi in Berkeley, CA$$$Nestled in the vibrant city of
+  Berkeley, CA, Katsumi Sushi stands out as a welcoming spot for those seeking
+  quality sushi restaurants nearby. This relaxed eatery specializes in classic
+  offerings like fresh poke, savory miso soup, and flavorful fried rice,
+  creating a simple yet satisfying dining experience. With convenient
+  accessibility features and ample outdoor seating, it's an ideal choice for
+  casual meals in a laid-back atmosphere. Operating daily from early afternoon
+  into the evening, it caters to locals and visitors looking for top-rated sushi
+  options that emphasize fresh ingredients and straightforward service.
+generative_summary: >-
+  Discover Katsumi Sushi in Berkeley, CA$$$Nestled in the vibrant city of
+  Berkeley, CA, Katsumi Sushi stands out as a welcoming spot for those seeking
+  quality sushi restaurants nearby. This relaxed eatery specializes in classic
+  offerings like fresh poke, savory miso soup, and flavorful fried rice,
+  creating a simple yet satisfying dining experience. With convenient
+  accessibility features and ample outdoor seating, it's an ideal choice for
+  casual meals in a laid-back atmosphere. Operating daily from early afternoon
+  into the evening, it caters to locals and visitors looking for top-rated sushi
+  options that emphasize fresh ingredients and straightforward service.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJw2Geay98hYAR8GN39NOr-Vs/reviews/ChZDSUhNMG9nS0VJQ0FnSUQtZzhlUUV3EAE
+    relativePublishTimeDescription: 2 years ago
+    rating: 5
+    text:
+      text: >-
+        Very friendly service! Order at the kiosk for card or at the register to
+        pay with cash. Cash options are cheaper which was so nice! Absolutely
+        love the prices and quality of food. Such good miso soup. The
+        ingredients taste fresh and the food was served fairly quickly. Some
+        indoor seating and a good amount of outdoor seating. Will definitely be
+        back and would recommend!
+      languageCode: en
+    originalText:
+      text: >-
+        Very friendly service! Order at the kiosk for card or at the register to
+        pay with cash. Cash options are cheaper which was so nice! Absolutely
+        love the prices and quality of food. Such good miso soup. The
+        ingredients taste fresh and the food was served fairly quickly. Some
+        indoor seating and a good amount of outdoor seating. Will definitely be
+        back and would recommend!
+      languageCode: en
+    authorAttribution:
+      displayName: Karly Falkenberg
+      uri: https://www.google.com/maps/contrib/117693705599869030256/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXHKGRu94YYMiZz8YnfiExd1GU1FvOX6x5H7V40ST6AjltPvp7h=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2022-12-08T10:30:10.570369Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQtZzhlUUV3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQtZzhlUUV3EAE!2m1!1s0x80857c2f6b9e61c3:0x5bf9abd3f47763f0
+  - name: >-
+      places/ChIJw2Geay98hYAR8GN39NOr-Vs/reviews/ChdDSUhNMG9nS0VJQ0FnSURYcXJDeC1nRRAB
+    relativePublishTimeDescription: 6 months ago
+    rating: 5
+    text:
+      text: >-
+        Small shop, great food, prompt service. If you're lucky you can dine in.
+        Don't let that turn you away it's a great restaurant. Their sushi is
+        delicious, hand rolls hit the spot, and they're combos will satisfy any
+        craving.  My go-to's are the Chicken Katsu, Dragon Roll, and their
+        California Handroll.
+      languageCode: en
+    originalText:
+      text: >-
+        Small shop, great food, prompt service. If you're lucky you can dine in.
+        Don't let that turn you away it's a great restaurant. Their sushi is
+        delicious, hand rolls hit the spot, and they're combos will satisfy any
+        craving.  My go-to's are the Chicken Katsu, Dragon Roll, and their
+        California Handroll.
+      languageCode: en
+    authorAttribution:
+      displayName: Joaquin Quintana
+      uri: https://www.google.com/maps/contrib/102338880274039935961/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVXfog2NyrsAAk0U70CpRrOrlQIot-Niebc3w6N1FzmA9Id9jIL=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2024-10-26T03:03:09.607880Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURYcXJDeC1nRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURYcXJDeC1nRRAB!2m1!1s0x80857c2f6b9e61c3:0x5bf9abd3f47763f0
+  - name: >-
+      places/ChIJw2Geay98hYAR8GN39NOr-Vs/reviews/ChdDSUhNMG9nS0VJQ0FnSUMya083dy1RRRAB
+    relativePublishTimeDescription: 3 years ago
+    rating: 4
+    text:
+      text: >-
+        Walked into this place for lunch. We had the pork chop and chicken katsu
+        over rice. Good size portions w salad and ca rolls. Pork chop was good
+        but a little dry. Chicken was tasty. I’d come back if in the area. Kids
+        loved it.
+      languageCode: en
+    originalText:
+      text: >-
+        Walked into this place for lunch. We had the pork chop and chicken katsu
+        over rice. Good size portions w salad and ca rolls. Pork chop was good
+        but a little dry. Chicken was tasty. I’d come back if in the area. Kids
+        loved it.
+      languageCode: en
+    authorAttribution:
+      displayName: Scott Wong
+      uri: https://www.google.com/maps/contrib/110789278630699593085/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWAQjNkXjhpG7N2zqBZB2pOPv9Y32yh6Mn_EogE0gB2mdz5DD0L=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2022-04-10T02:58:43.064475Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMya083dy1RRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMya083dy1RRRAB!2m1!1s0x80857c2f6b9e61c3:0x5bf9abd3f47763f0
+  - name: >-
+      places/ChIJw2Geay98hYAR8GN39NOr-Vs/reviews/ChdDSUhNMG9nS0VJQ0FnTURnazhlZHZBRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: Super friendly service, decent prices and really yummy food :)
+      languageCode: en
+    originalText:
+      text: Super friendly service, decent prices and really yummy food :)
+      languageCode: en
+    authorAttribution:
+      displayName: Mia Hernandez-Peng
+      uri: https://www.google.com/maps/contrib/118140715580519890437/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKfh4HzgvPNiEpdjvTUWi6BwvK3R6S4dnT3_8HWHRN9OC3HFg=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-02-27T06:19:07.674300Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURnazhlZHZBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURnazhlZHZBRRAB!2m1!1s0x80857c2f6b9e61c3:0x5bf9abd3f47763f0
+  - name: >-
+      places/ChIJw2Geay98hYAR8GN39NOr-Vs/reviews/ChZDSUhNMG9nS0VJQ0FnSUR0aXRqRUZnEAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        A very nice sushi place in Berkeley. The owners are so nice and
+        welcoming. Sushi were really good and tasty, products felt very fresh.
+        The menu is also very clear and simple making it all very simple and
+        fast. 100% recommend.
+      languageCode: en
+    originalText:
+      text: >-
+        A very nice sushi place in Berkeley. The owners are so nice and
+        welcoming. Sushi were really good and tasty, products felt very fresh.
+        The menu is also very clear and simple making it all very simple and
+        fast. 100% recommend.
+      languageCode: en
+    authorAttribution:
+      displayName: Constantin Coumaros
+      uri: https://www.google.com/maps/contrib/104663772458423924363/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXYIkXV9pJuy7U_9Uv7znUG2jbVZCHVzZjhYQPyoM4wqd6Dvn9J=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-02-03T17:00:30.432766Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR0aXRqRUZnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR0aXRqRUZnEAE!2m1!1s0x80857c2f6b9e61c3:0x5bf9abd3f47763f0
+review_summary: >-
+  What People Love About This Sushi Spot$$$Visitors often rave about the
+  friendly and efficient service that makes every visit feel welcoming and
+  hassle-free. Many highlight the great value for money, with affordable prices
+  on delicious dishes like hand rolls and combos that leave you feeling
+  satisfied without breaking the bank. While some note that certain items might
+  vary in texture, the overall freshness and taste of the sushi and rice-based
+  meals consistently impress. Folks appreciate the quick preparation and variety
+  of seating options, making it a go-to for casual get-togethers or solo stops.
+  If you're hunting for the best sushi near you, this spot delivers a reliably
+  enjoyable experience that's worth checking out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
+delivery: true
+dine_in: true
+good_for_children: true
 good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: true
+reservable: true
 restroom: null
 serves_beer: null
 serves_breakfast: null
 serves_brunch: null
 serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
+serves_coffee: false
+serves_dinner: true
 serves_dessert: null
-serves_lunch: null
+serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

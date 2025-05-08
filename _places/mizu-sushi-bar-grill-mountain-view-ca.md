@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Mizu Sushi Bar & Grill"
+title: Mizu Sushi Bar & Grill
 permalink: /california/mountain-view/mizu-sushi-bar-grill.html
 stateAbbr: CA
 stateName: California
 cityName: Mountain View
 seo:
-  name: "Mizu Sushi Bar & Grill"
-  type: Restaurant
-  links: null
-description: "Mizu Sushi Bar & Grill serves delicious sushi in Mountain View, California. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://mizusbg.com/
 place_id: ChIJbdRr8Juwj4ARRFNrtLQtGjs
 photos:
   - name: >-
@@ -170,8 +168,113 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x808fb09bf06bd46d:0x3b1a2db4b46b5344!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 14
+        minute: 0
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 14
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: Closed'
+    - 'Tuesday: 11:30 AM – 2:00 PM, 5:00 – 8:30 PM'
+    - 'Wednesday: 11:30 AM – 2:00 PM, 5:00 – 8:30 PM'
+    - 'Thursday: 11:30 AM – 2:00 PM, 5:00 – 8:30 PM'
+    - 'Friday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
+    - 'Saturday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
+    - 'Sunday: 11:30 AM – 2:00 PM, 5:00 – 8:30 PM'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +282,52 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (650) 397-7700
+price_level: PRICE_LEVEL_MODERATE
+price_range: $30 &ndash; $50
+rating: '4.3'
+rating_count: 508
+website: http://mizusbg.com/
+description: >-
+  Discover Mizu Sushi Bar & Grill in Mountain View, CA$$$Mizu Sushi Bar & Grill
+  in Mountain View, California, stands out as a relaxed destination for enjoying
+  authentic Japanese flavors, featuring a variety of fresh sushi rolls and bento
+  boxes that cater to diverse tastes. The spot offers inviting outdoor seating,
+  making it ideal for casual meals in a welcoming environment, especially on
+  pleasant days. With accessibility features like wheelchair-friendly entrances
+  and parking, it's designed to accommodate all visitors seeking quality sushi
+  dining options. This sushi restaurant emphasizes a casual vibe that pairs well
+  with its flavorful offerings, appealing to those exploring top Japanese
+  cuisine spots nearby. Whether you're in the mood for a quick lunch or an
+  evening out, it's a solid choice for savoring expertly prepared dishes in a
+  comfortable setting.
+generative_summary: >-
+  Discover Mizu Sushi Bar & Grill in Mountain View, CA$$$Mizu Sushi Bar & Grill
+  in Mountain View, California, stands out as a relaxed destination for enjoying
+  authentic Japanese flavors, featuring a variety of fresh sushi rolls and bento
+  boxes that cater to diverse tastes. The spot offers inviting outdoor seating,
+  making it ideal for casual meals in a welcoming environment, especially on
+  pleasant days. With accessibility features like wheelchair-friendly entrances
+  and parking, it's designed to accommodate all visitors seeking quality sushi
+  dining options. This sushi restaurant emphasizes a casual vibe that pairs well
+  with its flavorful offerings, appealing to those exploring top Japanese
+  cuisine spots nearby. Whether you're in the mood for a quick lunch or an
+  evening out, it's a solid choice for savoring expertly prepared dishes in a
+  comfortable setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About This Spot$$$Folks generally rave about the
+  fresh and tasty sushi at this popular eatery, often noting how the variety of
+  rolls keeps things exciting and satisfying. Many appreciate the friendly
+  service and cozy atmosphere that make dining here feel welcoming and
+  enjoyable, even for groups or solo visits. The moderate prices come up
+  frequently as a great value, allowing people to indulge without breaking the
+  bank. Overall, it's seen as a reliable go-to for anyone craving Japanese
+  flavors, with the high ratings reflecting consistent quality that leaves
+  diners coming back for more. While opinions vary, the positive buzz around the
+  food and ambiance helps it stand out among local sushi options.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +353,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

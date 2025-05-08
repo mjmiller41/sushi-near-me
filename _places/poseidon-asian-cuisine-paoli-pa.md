@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Poseidon Asian Cuisine"
+title: Poseidon Asian Cuisine
 permalink: /pennsylvania/paoli/poseidon-asian-cuisine.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Paoli
 seo:
-  name: "Poseidon Asian Cuisine"
-  type: Restaurant
+  type: restaurant
   links: http://poseidonpa.com/
-description: "Poseidon Asian Cuisine serves delicious sushi in Paoli, Pennsylvania. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJJStsU1btxokR21LWtcbbEF4
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c6ed56536c2b25:0x5e10dbc6b5d652db!10e5
 primary_type: Asian Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:30 PM'
     - 'Tuesday: 11:00 AM – 9:30 PM'
     - 'Wednesday: 11:00 AM – 9:30 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:00 PM'
     - 'Saturday: 11:00 AM – 10:00 PM'
     - 'Sunday: 12:00 – 9:30 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:30 PM'
-    - 'Tuesday: 11:00 AM – 9:30 PM'
-    - 'Wednesday: 11:00 AM – 9:30 PM'
-    - 'Thursday: 11:00 AM – 9:30 PM'
-    - 'Friday: 11:00 AM – 10:00 PM'
-    - 'Saturday: 11:00 AM – 10:00 PM'
-    - 'Sunday: 12:00 – 9:30 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +246,42 @@ phone: (610) 812-3333
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.8'
-rating_count: 0
+rating_count: 532
 website: http://poseidonpa.com/
+description: >-
+  About Poseidon Asian Cuisine in Paoli, PA$$$Poseidon Asian Cuisine in Paoli,
+  PA, delivers a relaxed dining vibe centered around authentic Japanese and
+  Chinese flavors, with standout sushi selections that highlight fresh
+  ingredients and creative presentations. As a BYOB spot, it invites patrons to
+  pair their meals with personal beverage choices, adding to the casual and
+  welcoming atmosphere. The restaurant emphasizes accessibility, featuring
+  wheelchair-friendly parking, entrances, and seating to ensure everyone can
+  enjoy a comfortable visit. Operating daily with generous hours, it's an ideal
+  choice for those exploring sushi restaurants or Japanese places nearby,
+  offering a blend of traditional dishes that cater to diverse tastes.
+generative_summary: >-
+  About Poseidon Asian Cuisine in Paoli, PA$$$Poseidon Asian Cuisine in Paoli,
+  PA, delivers a relaxed dining vibe centered around authentic Japanese and
+  Chinese flavors, with standout sushi selections that highlight fresh
+  ingredients and creative presentations. As a BYOB spot, it invites patrons to
+  pair their meals with personal beverage choices, adding to the casual and
+  welcoming atmosphere. The restaurant emphasizes accessibility, featuring
+  wheelchair-friendly parking, entrances, and seating to ensure everyone can
+  enjoy a comfortable visit. Operating daily with generous hours, it's an ideal
+  choice for those exploring sushi restaurants or Japanese places nearby,
+  offering a blend of traditional dishes that cater to diverse tastes.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Folks heading to this Asian spot often rave about
+  the flavorful appetizers and variety of sushi rolls, noting the fresh
+  ingredients and hearty portions that make every bite satisfying. Many
+  appreciate the warm, attentive service that keeps the experience smooth and
+  enjoyable from start to finish. The cozy ambiance adds a nice touch for casual
+  meals, drawing in those looking for a laid-back spot to unwind. Overall, the
+  menu stands out for its great value, making it a go-to for anyone seeking
+  top-rated sushi or Asian fusion options without breaking the bank.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +307,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

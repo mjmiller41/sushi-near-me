@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Cilantro Thai & Sushi Restaurant"
+title: Cilantro Thai & Sushi Restaurant
 permalink: /ohio/akron/cilantro-thai-sushi-restaurant.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Akron
 seo:
-  name: "Cilantro Thai & Sushi Restaurant"
-  type: Restaurant
-  links: null
-description: "Cilantro Thai & Sushi Restaurant serves delicious sushi in Akron, Ohio. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.cilantrothai.com/
 place_id: ChIJ9_AvzyXWMIgRN9Nf-r8BKeI
 photos:
   - name: >-
@@ -170,8 +168,105 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8830d625cf2ff0f7:0xe22901bffa5fd337!10e5
 primary_type: Thai Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 0
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 16
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 2:00 PM, 5:00 – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 2:00 PM, 5:00 – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 2:00 PM, 5:00 – 9:00 PM'
+    - 'Thursday: 11:00 AM – 2:00 PM, 5:00 – 9:00 PM'
+    - 'Friday: 11:00 AM – 2:00 PM, 5:00 – 9:30 PM'
+    - 'Saturday: 4:30 – 9:30 PM'
+    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T01:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +274,50 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (330) 434-2876
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.5'
+rating_count: 1414
+website: http://www.cilantrothai.com/
+description: >-
+  Discover Cilantro Thai & Sushi in Akron, OH$$$Nestled in the heart of Akron,
+  OH, Cilantro Thai & Sushi Restaurant offers a delightful blend of authentic
+  Thai favorites and fresh sushi options, making it a go-to spot for flavorful
+  Asian cuisine. This casual yet upscale eatery, housed in a historic building,
+  provides an inviting atmosphere perfect for enjoying expertly prepared dishes
+  like savory curries and expertly rolled rolls. Patrons appreciate the
+  accessible features, including wheelchair-friendly parking and seating,
+  ensuring a welcoming experience for all. Whether you're exploring top-rated
+  sushi spots in the area or seeking a relaxed meal, the menu highlights fresh
+  ingredients and creative flavors that cater to a variety of tastes.
+generative_summary: >-
+  Discover Cilantro Thai & Sushi in Akron, OH$$$Nestled in the heart of Akron,
+  OH, Cilantro Thai & Sushi Restaurant offers a delightful blend of authentic
+  Thai favorites and fresh sushi options, making it a go-to spot for flavorful
+  Asian cuisine. This casual yet upscale eatery, housed in a historic building,
+  provides an inviting atmosphere perfect for enjoying expertly prepared dishes
+  like savory curries and expertly rolled rolls. Patrons appreciate the
+  accessible features, including wheelchair-friendly parking and seating,
+  ensuring a welcoming experience for all. Whether you're exploring top-rated
+  sushi spots in the area or seeking a relaxed meal, the menu highlights fresh
+  ingredients and creative flavors that cater to a variety of tastes.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Raving About$$$Folks heading to this Akron gem often praise
+  the tasty sushi and Thai classics like green curry and pad Thai for their bold
+  flavors and high-quality ingredients, making it a solid choice for anyone
+  craving Asian fare. Many visitors highlight the warm, attentive service that
+  adds a personal touch to every meal, helping to create a comfortable and
+  enjoyable vibe. It's clear that the welcoming atmosphere keeps people coming
+  back, with comments focusing on the overall relaxed setting that feels just
+  right for casual dinners or group outings. While opinions vary, the general
+  buzz leans positive, noting that the food's freshness and variety make it
+  worth trying for sushi enthusiasts in the neighborhood. All in all, if you're
+  on the hunt for reliable spots serving up satisfying meals, this place
+  delivers a consistently pleasant experience that doesn't disappoint.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +343,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

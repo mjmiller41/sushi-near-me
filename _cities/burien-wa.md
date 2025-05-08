@@ -5,4 +5,5 @@ permalink: /washington/burien/
 stateAbbr: WA
 stateName: Washington
 cityName: Burien
+
 ---

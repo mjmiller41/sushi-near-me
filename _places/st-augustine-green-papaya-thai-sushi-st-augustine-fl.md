@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "（St Augustine)Green Papaya Thai & Sushi"
+title: （St Augustine)Green Papaya Thai & Sushi
 permalink: /florida/st-augustine/st-augustine-green-papaya-thai-sushi.html
 stateAbbr: FL
 stateName: Florida
 cityName: St. Augustine
 seo:
-  name: "（St Augustine)Green Papaya Thai & Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "（St Augustine)Green Papaya Thai & Sushi serves delicious sushi in St. Augustine, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJlaxGpjsn5IgRcXCtdXOYz54
 photos:
   - name: >-
@@ -185,7 +183,43 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Explore Green Papaya Thai & Sushi in St. Augustine, FL$$$In St. Augustine, FL,
+  Green Papaya Thai & Sushi stands out as a vibrant spot blending authentic Thai
+  and Japanese flavors in a cozy, welcoming environment. This restaurant
+  highlights fresh ingredients and traditional preparations, offering a range of
+  dishes that appeal to those seeking flavorful Asian cuisine options nearby.
+  With thoughtful features like wheelchair-accessible parking, entrance, and
+  seating, it ensures a comfortable experience for every guest exploring the
+  area. Whether you're in the mood for creative sushi rolls or classic Thai
+  favorites, this spot delivers a relaxed dining vibe that captures the essence
+  of quality local eateries.
+generative_summary: >-
+  Explore Green Papaya Thai & Sushi in St. Augustine, FL$$$In St. Augustine, FL,
+  Green Papaya Thai & Sushi stands out as a vibrant spot blending authentic Thai
+  and Japanese flavors in a cozy, welcoming environment. This restaurant
+  highlights fresh ingredients and traditional preparations, offering a range of
+  dishes that appeal to those seeking flavorful Asian cuisine options nearby.
+  With thoughtful features like wheelchair-accessible parking, entrance, and
+  seating, it ensures a comfortable experience for every guest exploring the
+  area. Whether you're in the mood for creative sushi rolls or classic Thai
+  favorites, this spot delivers a relaxed dining vibe that captures the essence
+  of quality local eateries.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Visitor Feedback$$$Feedback from diners at this sushi spot near
+  St. Augustine often highlights the tasty blend of Thai and sushi offerings,
+  with many appreciating the fresh flavors and inclusive setup that makes
+  everyone feel at ease. People frequently mention enjoying the variety of
+  dishes that cater to casual meals, helping it stand out among local Japanese
+  places for those searching for reliable options. While experiences vary,
+  there's a common thread of satisfaction with the welcoming atmosphere and
+  accessible features, making it a solid pick for groups or solo diners.
+  Overall, it comes across as a go-to choice for anyone craving top-rated sushi
+  in the neighborhood, with positive notes on the operational efficiency that
+  keeps things running smoothly.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +245,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

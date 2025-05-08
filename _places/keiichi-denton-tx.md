@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Keiichi"
+title: Keiichi
 permalink: /texas/denton/keiichi.html
 stateAbbr: TX
 stateName: Texas
 cityName: Denton
 seo:
-  name: "Keiichi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Keiichi serves delicious sushi in Denton, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJs2j7dYnKTYYRyjbGeH0EOTk
 photos:
   - name: >-
@@ -170,7 +168,41 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x864dca8975fb68b3:0x3939047d78c636ca!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 3
+        hour: 18
+        minute: 0
+      close:
+        day: 3
+        hour: 19
+        minute: 0
+    - open:
+        day: 4
+        hour: 18
+        minute: 0
+      close:
+        day: 4
+        hour: 19
+        minute: 0
+    - open:
+        day: 5
+        hour: 18
+        minute: 0
+      close:
+        day: 5
+        hour: 19
+        minute: 0
+    - open:
+        day: 6
+        hour: 18
+        minute: 0
+      close:
+        day: 6
+        hour: 19
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: Closed'
     - 'Wednesday: 6:00 – 7:00 PM'
@@ -178,14 +210,7 @@ opening_hours:
     - 'Friday: 6:00 – 7:00 PM'
     - 'Saturday: 6:00 – 7:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: Closed'
-    - 'Wednesday: 6:00 – 7:00 PM'
-    - 'Thursday: 6:00 – 7:00 PM'
-    - 'Friday: 6:00 – 7:00 PM'
-    - 'Saturday: 6:00 – 7:00 PM'
-    - 'Sunday: Closed'
+  nextOpenTime: '2025-05-03T23:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +222,317 @@ phone: (940) 230-3410
 price_level: PRICE_LEVEL_MODERATE
 price_range: $100 &ndash; & up
 rating: '4.8'
-rating_count: 0
+rating_count: 224
 website: null
-reviews: null
+description: >-
+  Discover Keiichi in Denton, Texas$$$Keiichi in Denton, TX, stands out as an
+  upscale Japanese restaurant renowned for its exquisite sushi offerings and
+  intimate dining experience. This spot features a carefully curated omakase
+  menu that highlights fresh, high-quality ingredients, creating a memorable
+  meal for sushi enthusiasts. With just a few seats available, the atmosphere
+  emphasizes exclusivity and attention to detail, complemented by thoughtful
+  touches like wheelchair-accessible seating for inclusive visits. Patrons can
+  enjoy a blend of traditional flavors with unique twists, including delightful
+  desserts, making it a go-to choice for those seeking top-rated sushi
+  experiences nearby. Operating on a limited schedule, it adds to the allure of
+  discovering authentic Japanese cuisine in a cozy setting.
+generative_summary: >-
+  Discover Keiichi in Denton, Texas$$$Keiichi in Denton, TX, stands out as an
+  upscale Japanese restaurant renowned for its exquisite sushi offerings and
+  intimate dining experience. This spot features a carefully curated omakase
+  menu that highlights fresh, high-quality ingredients, creating a memorable
+  meal for sushi enthusiasts. With just a few seats available, the atmosphere
+  emphasizes exclusivity and attention to detail, complemented by thoughtful
+  touches like wheelchair-accessible seating for inclusive visits. Patrons can
+  enjoy a blend of traditional flavors with unique twists, including delightful
+  desserts, making it a go-to choice for those seeking top-rated sushi
+  experiences nearby. Operating on a limited schedule, it adds to the allure of
+  discovering authentic Japanese cuisine in a cozy setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJs2j7dYnKTYYRyjbGeH0EOTk/reviews/ChZDSUhNMG9nS0VJQ0FnSUN2Z01lSEpREAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        I somehow got lucky enough to get a single spot. He heard I was a single
+        and said if I came at 5 I could get a seat.
+
+
+        I found out later that the entire year of 2025 is booked. It took one
+        week to fill up.
+
+
+        That's the reputation the man has built. And I say well deserved.
+
+
+        The food was amazing and the service too.
+
+        Everything was great and 10/10 would do it again.
+      languageCode: en
+    originalText:
+      text: >-
+        I somehow got lucky enough to get a single spot. He heard I was a single
+        and said if I came at 5 I could get a seat.
+
+
+        I found out later that the entire year of 2025 is booked. It took one
+        week to fill up.
+
+
+        That's the reputation the man has built. And I say well deserved.
+
+
+        The food was amazing and the service too.
+
+        Everything was great and 10/10 would do it again.
+      languageCode: en
+    authorAttribution:
+      displayName: cactus flinthead
+      uri: https://www.google.com/maps/contrib/118120048950718003824/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjU9c-3Ttpf5nF0yTBGPYBqvBV4_9uLkCe5L6gTqDOBkVJh1ZFO1=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-12-07T14:13:35.993686Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN2Z01lSEpREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN2Z01lSEpREAE!2m1!1s0x864dca8975fb68b3:0x3939047d78c636ca
+  - name: >-
+      places/ChIJs2j7dYnKTYYRyjbGeH0EOTk/reviews/ChZDSUhNMG9nS0VJQ0FnSUN5dU4zMFJ3EAE
+    relativePublishTimeDescription: 4 years ago
+    rating: 5
+    text:
+      text: >-
+        Fantastic Sushi restaurant....one of my favorite for authentic, fresh
+        and high end sushi. They have a long wait for reservations, but worth
+        the wait. Due to Covid their seating is very limited. Call ahead and get
+        a reservation, you won’t regret it.
+
+        The beef roll and trout sashimi are too die for. The service was very
+        friendly, the chef made incredible suggestions, the waitress was super
+        efficient and the food was reasonably priced for the quality of
+        fish/ingredients. A meal like this at Nobu would have been twice the
+        price with perhaps lesser quality ingredients.
+
+        The portions are very generous and filling.
+
+
+        A must try place if you are a sushi 🍣 fan.
+      languageCode: en
+    originalText:
+      text: >-
+        Fantastic Sushi restaurant....one of my favorite for authentic, fresh
+        and high end sushi. They have a long wait for reservations, but worth
+        the wait. Due to Covid their seating is very limited. Call ahead and get
+        a reservation, you won’t regret it.
+
+        The beef roll and trout sashimi are too die for. The service was very
+        friendly, the chef made incredible suggestions, the waitress was super
+        efficient and the food was reasonably priced for the quality of
+        fish/ingredients. A meal like this at Nobu would have been twice the
+        price with perhaps lesser quality ingredients.
+
+        The portions are very generous and filling.
+
+
+        A must try place if you are a sushi 🍣 fan.
+      languageCode: en
+    authorAttribution:
+      displayName: Rahul M
+      uri: https://www.google.com/maps/contrib/114327437056864711850/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLX4uN3y7ru7i0YFvql3Cgr7pyMB3ZVNTHvw_G4F-ds3g5yig=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2021-01-19T06:51:07.481542Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN5dU4zMFJ3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN5dU4zMFJ3EAE!2m1!1s0x864dca8975fb68b3:0x3939047d78c636ca
+  - name: >-
+      places/ChIJs2j7dYnKTYYRyjbGeH0EOTk/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ2a29PV2N3EAE
+    relativePublishTimeDescription: 3 years ago
+    rating: 5
+    text:
+      text: >-
+        Absolutely the best Japanese restaurant in DFW area. This restaurant
+        looks so unassuming from outside but once you get in, you feel like
+        being in Japan. The food is so amazing. It is an interesting combination
+        of Japanese and Italian. Every dish is great. The seafood is so fresh.
+        Remember to reserve two months in advance.
+
+        What a special restaurant! Will come back again and again!
+      languageCode: en
+    originalText:
+      text: >-
+        Absolutely the best Japanese restaurant in DFW area. This restaurant
+        looks so unassuming from outside but once you get in, you feel like
+        being in Japan. The food is so amazing. It is an interesting combination
+        of Japanese and Italian. Every dish is great. The seafood is so fresh.
+        Remember to reserve two months in advance.
+
+        What a special restaurant! Will come back again and again!
+      languageCode: en
+    authorAttribution:
+      displayName: Connie Zhang
+      uri: https://www.google.com/maps/contrib/113376139867324686547/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIcXelhrPLXELHWcgIT617w6wZ9ShyGpsEJieObjuW3kLS4fQ=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2021-09-25T02:24:45.064974Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQ2a29PV2N3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQ2a29PV2N3EAE!2m1!1s0x864dca8975fb68b3:0x3939047d78c636ca
+  - name: >-
+      places/ChIJs2j7dYnKTYYRyjbGeH0EOTk/reviews/ChdDSUhNMG9nS0VJQ0FnSUNpcUxUd3FnRRAB
+    relativePublishTimeDescription: 4 years ago
+    rating: 5
+    text:
+      text: >-
+        Once you go to Keiichi, you basically won't trust anyone else to give
+        this kind of quality, authentic sushi anywhere else. This isn't your
+        typical sushi joint, either. Even sushi chefs from Dallas come to Denton
+        to eat here. It's a hole-in-the-wall, easily overlooked sushi restaurant
+        right off the Denton Square, and he just recently put out a sign to
+        advertise his long-time business location. Book in advance! Only open
+        Wed-Sat I think and only takes reservations by phone.
+
+
+        Keiichi (the owner's name) is the only sushi chef there and cooks right
+        in front of you. The prices aren't cheap but I've never been more
+        satisfied about spending $75-100 per person at any restaurant, ever, and
+        gladly give up my wallet to eat his sushi.
+
+
+        My all time favorites are the beef and jalepeno cream cheese rolls
+        (OMGGG), beef tataki, and any of the sashimi plates. My husband and I
+        did the "chefs special" on a special occasion and got to try many of his
+        incredibly fresh and delicious sashimi (that I probably normally
+        wouldn't have the courage to order) and it was so worth it — definitely
+        expanded my palette to develop a new love of sushi. But I don't really
+        trust eating sashimi / raw fish anywhere else because I know his fish is
+        top notch quality. It's such a treat coming here every time.
+
+
+        Also it's pretty casual and not a fancy place, so all are welcome.
+      languageCode: en
+    originalText:
+      text: >-
+        Once you go to Keiichi, you basically won't trust anyone else to give
+        this kind of quality, authentic sushi anywhere else. This isn't your
+        typical sushi joint, either. Even sushi chefs from Dallas come to Denton
+        to eat here. It's a hole-in-the-wall, easily overlooked sushi restaurant
+        right off the Denton Square, and he just recently put out a sign to
+        advertise his long-time business location. Book in advance! Only open
+        Wed-Sat I think and only takes reservations by phone.
+
+
+        Keiichi (the owner's name) is the only sushi chef there and cooks right
+        in front of you. The prices aren't cheap but I've never been more
+        satisfied about spending $75-100 per person at any restaurant, ever, and
+        gladly give up my wallet to eat his sushi.
+
+
+        My all time favorites are the beef and jalepeno cream cheese rolls
+        (OMGGG), beef tataki, and any of the sashimi plates. My husband and I
+        did the "chefs special" on a special occasion and got to try many of his
+        incredibly fresh and delicious sashimi (that I probably normally
+        wouldn't have the courage to order) and it was so worth it — definitely
+        expanded my palette to develop a new love of sushi. But I don't really
+        trust eating sashimi / raw fish anywhere else because I know his fish is
+        top notch quality. It's such a treat coming here every time.
+
+
+        Also it's pretty casual and not a fancy place, so all are welcome.
+      languageCode: en
+    authorAttribution:
+      displayName: Local and Small
+      uri: https://www.google.com/maps/contrib/114888241508853242651/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVEL1_FIh8DAHc_ZXhripUtRvJCtDXb3NJ2QHVwXRsEEN5BRPVR=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2020-10-19T23:00:42.008533Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNpcUxUd3FnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNpcUxUd3FnRRAB!2m1!1s0x864dca8975fb68b3:0x3939047d78c636ca
+  - name: >-
+      places/ChIJs2j7dYnKTYYRyjbGeH0EOTk/reviews/ChZDSUhNMG9nS0VJQ0FnSURDb3VLeFR3EAE
+    relativePublishTimeDescription: 4 years ago
+    rating: 5
+    text:
+      text: >-
+        Keiichi is by far the best restaurant in Denton. It is always worth the
+        wait. The owners + staff are incredibly friendly, and the food is
+        consistently creative, gorgeous, and delicious. I literally have dreams
+        about the squid sashimi and sea trout. They serve pasta and INCREDIBLE
+        steak. Also they have a bidet? When I talk about why I live in Denton I
+        always mention this place.
+      languageCode: en
+    originalText:
+      text: >-
+        Keiichi is by far the best restaurant in Denton. It is always worth the
+        wait. The owners + staff are incredibly friendly, and the food is
+        consistently creative, gorgeous, and delicious. I literally have dreams
+        about the squid sashimi and sea trout. They serve pasta and INCREDIBLE
+        steak. Also they have a bidet? When I talk about why I live in Denton I
+        always mention this place.
+      languageCode: en
+    authorAttribution:
+      displayName: Taneum Bambrick
+      uri: https://www.google.com/maps/contrib/104733310556306482026/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXQ_XOKjLRIZn328q1ASo3KpgJRGCfNlYu36jh6PpJxEAI4D91U=s128-c0x00000000-cc-rp-mo
+    publishTime: '2020-09-21T22:07:24.961462Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURDb3VLeFR3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURDb3VLeFR3EAE!2m1!1s0x864dca8975fb68b3:0x3939047d78c636ca
+review_summary: >-
+  What Customers Are Saying$$$Folks who visit this sushi spot often rave about
+  the incredibly fresh and flavorful dishes that make every bite feel like a
+  standout treat, with many highlighting the generous portions and creative
+  takes on classics. Reviewers frequently mention the welcoming service and
+  efficient staff that enhance the overall vibe, turning a simple meal into
+  something special and worth the wait for reservations. While it's noted that
+  planning ahead is essential due to its popularity, visitors appreciate the
+  reasonable pricing for such high-end quality, especially when compared to
+  similar spots elsewhere. Overall, it's clear that sushi lovers find this place
+  a reliable favorite for authentic experiences, with praise for the variety
+  that keeps things exciting and satisfying. If you're on the hunt for great
+  sushi near you, this spot seems to deliver on both taste and atmosphere
+  without disappointing.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
-payment_options: null
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
+delivery: false
+dine_in: true
+good_for_children: false
 good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
+serves_dinner: true
+serves_dessert: true
 serves_lunch: null
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Acclaimed sushi house from chef Keiichi Nagano with just 10 seats, an omakase
+  menu & select sake.
 
 ---

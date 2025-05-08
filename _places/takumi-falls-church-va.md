@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Takumi"
+title: Takumi
 permalink: /virginia/falls-church/takumi.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Falls Church
 seo:
-  name: "Takumi"
-  type: Restaurant
-  links: null
-description: "Takumi serves delicious sushi in Falls Church, Virginia. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://takumiva.com/
 place_id: ChIJI23Xd8C0t4kRr22FmmkvosY
 photos:
   - name: >-
@@ -169,8 +167,113 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89b7b4c077d76d23:0xc6a22f699a856daf!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 14
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 14
+        minute: 0
+    - open:
+        day: 6
+        hour: 16
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:30 AM – 2:00 PM, 4:30 – 9:00 PM'
+    - 'Tuesday: 11:30 AM – 2:00 PM, 4:30 – 9:00 PM'
+    - 'Wednesday: 11:30 AM – 2:00 PM, 4:30 – 9:00 PM'
+    - 'Thursday: 11:30 AM – 2:00 PM, 4:30 – 9:00 PM'
+    - 'Friday: 11:30 AM – 2:00 PM, 4:30 – 9:00 PM'
+    - 'Saturday: 11:30 AM – 2:00 PM, 4:30 – 9:00 PM'
+    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T01:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -178,13 +281,47 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
+phone: (703) 241-1128
+price_level: PRICE_LEVEL_MODERATE
 price_range: null
-rating: null
-rating_count: 0
-website: null
+rating: '4.6'
+rating_count: 496
+website: http://takumiva.com/
+description: >-
+  Discover Takumi in Falls Church, VA$$$Takumi in Falls Church, VA, stands out
+  as a welcoming sushi destination, blending a relaxed vibe with an impressive
+  selection of fresh Japanese-inspired dishes. This intimate eatery specializes
+  in an array of artfully prepared sushi and sashimi, complemented by options
+  like sake for an authentic dining experience. Accessibility features such as
+  wheelchair-friendly parking and entrances make it easy for everyone to enjoy a
+  meal, adding to its appeal for those seeking convenient sushi restaurants
+  nearby. With its moderate pricing and consistent hours, it's a go-to spot for
+  locals and visitors alike looking for quality Japanese places in the area.
+generative_summary: >-
+  Discover Takumi in Falls Church, VA$$$Takumi in Falls Church, VA, stands out
+  as a welcoming sushi destination, blending a relaxed vibe with an impressive
+  selection of fresh Japanese-inspired dishes. This intimate eatery specializes
+  in an array of artfully prepared sushi and sashimi, complemented by options
+  like sake for an authentic dining experience. Accessibility features such as
+  wheelchair-friendly parking and entrances make it easy for everyone to enjoy a
+  meal, adding to its appeal for those seeking convenient sushi restaurants
+  nearby. With its moderate pricing and consistent hours, it's a go-to spot for
+  locals and visitors alike looking for quality Japanese places in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About Takumi$$$Visitors often highlight the
+  fantastic variety of fresh fish at this sushi spot, with standout picks like
+  nigiri and sashimi that deliver great taste and solid value without breaking
+  the bank. Many appreciate the cozy, intimate atmosphere that makes every meal
+  feel special, paired with friendly service that keeps things running smoothly.
+  Folks frequently mention the menu's creative twists as a fun surprise, making
+  it a reliable choice for anyone craving top-rated sushi nearby. Overall, the
+  consensus leans positive, with diners enjoying the balance of quality
+  ingredients and affordability that encourages repeat visits. If you're on the
+  hunt for sushi close to you, this place seems to hit the mark for a satisfying
+  experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +347,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

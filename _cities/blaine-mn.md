@@ -5,4 +5,5 @@ permalink: /minnesota/blaine/
 stateAbbr: MN
 stateName: Minnesota
 cityName: Blaine
+
 ---

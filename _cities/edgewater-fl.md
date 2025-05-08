@@ -5,4 +5,5 @@ permalink: /florida/edgewater/
 stateAbbr: FL
 stateName: Florida
 cityName: Edgewater
+
 ---

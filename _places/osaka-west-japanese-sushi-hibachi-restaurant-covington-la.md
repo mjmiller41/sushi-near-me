@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Osaka West | Japanese Sushi & Hibachi Restaurant"
+title: Osaka West | Japanese Sushi & Hibachi Restaurant
 permalink: /louisiana/covington/osaka-west-japanese-sushi-hibachi-restaurant.html
 stateAbbr: LA
 stateName: Louisiana
 cityName: Covington
 seo:
-  name: "Osaka West | Japanese Sushi & Hibachi Restaurant"
-  type: Restaurant
+  type: restaurant
   links: https://www.osakawestla.com/osakawestla
-description: "Osaka West | Japanese Sushi & Hibachi Restaurant serves delicious sushi in Covington, Louisiana. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJX4_B1QVcJ4YRRKAGmfl4BP8
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x86275c05d5c18f5f:0xff0478f99906a044!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:00 PM'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:30 PM'
     - 'Saturday: 11:00 AM – 9:30 PM'
     - 'Sunday: 11:00 AM – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 9:30 PM'
-    - 'Saturday: 11:00 AM – 9:30 PM'
-    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,254 @@ phone: (985) 871-8199
 price_level: PRICE_LEVEL_EXPENSIVE
 price_range: null
 rating: '3.9'
-rating_count: 0
+rating_count: 546
 website: https://www.osakawestla.com/osakawestla
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Osaka West in Covington, LA$$$Osaka West, a popular Japanese sushi
+  and hibachi restaurant in Covington, LA, offers a casual dining experience
+  with a focus on fresh Japanese fare and interactive hibachi options. The spot
+  features a welcoming atmosphere perfect for families, complete with
+  kid-friendly dishes and a variety of sushi rolls that highlight local flavors
+  and traditional techniques. Guests can enjoy hibachi-grilled meats and tempura
+  alongside udon and teriyaki selections, all served in a setting that's
+  accessible and accommodating for all diners. With convenient hours extending
+  into the evening, it's an ideal choice for those seeking sushi places near me
+  that combine quality ingredients with a relaxed vibe. This Covington gem
+  stands out for its blend of authentic tastes and thoughtful accessibility
+  features, making it a go-to for Japanese cuisine enthusiasts.
+generative_summary: >-
+  Discover Osaka West in Covington, LA$$$Osaka West, a popular Japanese sushi
+  and hibachi restaurant in Covington, LA, offers a casual dining experience
+  with a focus on fresh Japanese fare and interactive hibachi options. The spot
+  features a welcoming atmosphere perfect for families, complete with
+  kid-friendly dishes and a variety of sushi rolls that highlight local flavors
+  and traditional techniques. Guests can enjoy hibachi-grilled meats and tempura
+  alongside udon and teriyaki selections, all served in a setting that's
+  accessible and accommodating for all diners. With convenient hours extending
+  into the evening, it's an ideal choice for those seeking sushi places near me
+  that combine quality ingredients with a relaxed vibe. This Covington gem
+  stands out for its blend of authentic tastes and thoughtful accessibility
+  features, making it a go-to for Japanese cuisine enthusiasts.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJX4_B1QVcJ4YRRKAGmfl4BP8/reviews/ChZDSUhNMG9nS0VJQ0FnSUNsX3VmdU53EAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 4
+    text:
+      text: >-
+        If it wasn’t for the awesome hibachi guy, we likely would have been
+        completely disappointed. Food was cooked but Different things tasted
+        like an old fish tank smells- miso soup, vegetables. Rice seemed old but
+        flavorful and editable. Family said they got some that was crunchy.
+        Timing was good Thursday night 5pm only one chef but no customers,
+        hibachi tables all open so got service relatively quickly. Staff very
+        friendly. Overall, food not worth the price point. Sushi was different
+        than normal, not bad just not the same as we typically get, seemed
+        skimpy. It was very cold in there given it was freezing outside,
+        certainly was uncomfortable inside. Dark in room but pulled up blinds
+        and was blinded by sun for dinner. Needs some new lighting so chefs can
+        see.
+      languageCode: en
+    originalText:
+      text: >-
+        If it wasn’t for the awesome hibachi guy, we likely would have been
+        completely disappointed. Food was cooked but Different things tasted
+        like an old fish tank smells- miso soup, vegetables. Rice seemed old but
+        flavorful and editable. Family said they got some that was crunchy.
+        Timing was good Thursday night 5pm only one chef but no customers,
+        hibachi tables all open so got service relatively quickly. Staff very
+        friendly. Overall, food not worth the price point. Sushi was different
+        than normal, not bad just not the same as we typically get, seemed
+        skimpy. It was very cold in there given it was freezing outside,
+        certainly was uncomfortable inside. Dark in room but pulled up blinds
+        and was blinded by sun for dinner. Needs some new lighting so chefs can
+        see.
+      languageCode: en
+    authorAttribution:
+      displayName: Britanie Breland
+      uri: https://www.google.com/maps/contrib/102966803911544005606/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJAoGf7u1n2S-gdUSPWFMRwGObkWHWAQUfT6D0Vmm7afGZbzQ=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-02-21T01:38:00.118540Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNsX3VmdU53EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNsX3VmdU53EAE!2m1!1s0x86275c05d5c18f5f:0xff0478f99906a044
+  - name: >-
+      places/ChIJX4_B1QVcJ4YRRKAGmfl4BP8/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJNWNyS25nRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 4
+    text:
+      text: >-
+        Really pleased. Flavor of the food was quite tasty. They use a powder
+        mix that seems to heighten flavor. Chicken base garlic and onion. I
+        loved the fresh crunch of the salad and zesty dressing. I had chicken
+        terriaki which I recommend over plain chicken. Steak was tender and
+        cooked to order. I will definitely return.
+      languageCode: en
+    originalText:
+      text: >-
+        Really pleased. Flavor of the food was quite tasty. They use a powder
+        mix that seems to heighten flavor. Chicken base garlic and onion. I
+        loved the fresh crunch of the salad and zesty dressing. I had chicken
+        terriaki which I recommend over plain chicken. Steak was tender and
+        cooked to order. I will definitely return.
+      languageCode: en
+    authorAttribution:
+      displayName: Karen M
+      uri: https://www.google.com/maps/contrib/111790987034696355740/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJ5S6tGJThB0FOQ0UOHhdl_qjsogwRqpg9Fmvox3txhewGLjA=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-03T14:47:08.434761Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNJNWNyS25nRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNJNWNyS25nRRAB!2m1!1s0x86275c05d5c18f5f:0xff0478f99906a044
+  - name: >-
+      places/ChIJX4_B1QVcJ4YRRKAGmfl4BP8/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJdGV2WlVREAE
+    relativePublishTimeDescription: a month ago
+    rating: 1
+    text:
+      text: >-
+        They advertised that their all you can eat is now on Thursdays too. When
+        I called to verify they confirmed that, Yes, today (Thursday) was indeed
+        all you can eat. However, when we called again on our way to see if they
+        were busy, not only did they change their story, but the owner laughed
+        at us for even asking after he confirmed that it was indeed posted on
+        their specials board in the restaurant. Changing your stores policy is
+        one thing, but for the owners themselves to laugh at you for inquiring
+        about the specials they themselves posted is beyond disrespectful and
+        they will not be receiving any of my business ever again!
+      languageCode: en
+    originalText:
+      text: >-
+        They advertised that their all you can eat is now on Thursdays too. When
+        I called to verify they confirmed that, Yes, today (Thursday) was indeed
+        all you can eat. However, when we called again on our way to see if they
+        were busy, not only did they change their story, but the owner laughed
+        at us for even asking after he confirmed that it was indeed posted on
+        their specials board in the restaurant. Changing your stores policy is
+        one thing, but for the owners themselves to laugh at you for inquiring
+        about the specials they themselves posted is beyond disrespectful and
+        they will not be receiving any of my business ever again!
+      languageCode: en
+    authorAttribution:
+      displayName: Joshua Lecompte
+      uri: https://www.google.com/maps/contrib/106419263684064663680/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXj3mRyaEjw-IviQwAE7l0HLlUQI8xWVNUPZGdCrqMG2OliDYlG0g=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-03T18:55:10.869587Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNJdGV2WlVREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNJdGV2WlVREAE!2m1!1s0x86275c05d5c18f5f:0xff0478f99906a044
+  - name: >-
+      places/ChIJX4_B1QVcJ4YRRKAGmfl4BP8/reviews/ChdDSUhNMG9nS0VJQ0FnSURoMmVqMDhBRRAB
+    relativePublishTimeDescription: 2 years ago
+    rating: 5
+    text:
+      text: >-
+        In the mood for some sushi... we stopped in and ended up doing the
+        hibachi with some side sushi rolls. The place was empty and we were a
+        little concerned... but everything was fresh and high quality. Had the
+        shrimp hibachi and a Miami roll. The salad was the best I have had
+        anywhere!
+      languageCode: en
+    originalText:
+      text: >-
+        In the mood for some sushi... we stopped in and ended up doing the
+        hibachi with some side sushi rolls. The place was empty and we were a
+        little concerned... but everything was fresh and high quality. Had the
+        shrimp hibachi and a Miami roll. The salad was the best I have had
+        anywhere!
+      languageCode: en
+    authorAttribution:
+      displayName: Daniel Scheer
+      uri: https://www.google.com/maps/contrib/108136220487427602694/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUAupyl2GskBAQRtgnv9KkEmHIr7Shx9UDJB7tTKQxrgpUlrv4uEA=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2023-03-12T16:00:41.720926Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURoMmVqMDhBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURoMmVqMDhBRRAB!2m1!1s0x86275c05d5c18f5f:0xff0478f99906a044
+  - name: >-
+      places/ChIJX4_B1QVcJ4YRRKAGmfl4BP8/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfazlMMGh3RRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        10/10 would highly recommend. From the moment we walked in, everyone was
+        so friendly and attentive. Looks like my husband and I found our new go
+        to sushi spot. Looking forward to coming back in the future.
+      languageCode: en
+    originalText:
+      text: >-
+        10/10 would highly recommend. From the moment we walked in, everyone was
+        so friendly and attentive. Looks like my husband and I found our new go
+        to sushi spot. Looking forward to coming back in the future.
+      languageCode: en
+    authorAttribution:
+      displayName: Brittany Wheeler
+      uri: https://www.google.com/maps/contrib/101243319077232992050/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWIvJY1d_l_XfJ5gq9aegMU8FLOdMQQZpYOh5k-Y3qNB6AewoBV=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-01-18T19:41:09.709973Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNfazlMMGh3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNfazlMMGh3RRAB!2m1!1s0x86275c05d5c18f5f:0xff0478f99906a044
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors to this Covington sushi spot often
+  rave about the flavorful hibachi dishes and fresh sushi rolls, noting that the
+  meals hit the spot with tasty options like teriyaki and salads that add a nice
+  crunch. While some folks mention occasional inconsistencies with food
+  preparation or ambiance that could use a tweak, the overall experience shines
+  through friendly service and quick seating that keeps things enjoyable. Many
+  appreciate the spot's value for groups and families, with highlights on tender
+  meats and generous portions that make it worth returning for top-rated sushi
+  near me. Even with a few mixed opinions on specifics like temperature or
+  specials, the general buzz leans positive, encouraging diners to give it a try
+  for a solid Japanese meal. If you're exploring sushi restaurants in the area,
+  this place delivers a casual, satisfying vibe that's easy to recommend.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  paidStreetParking: false
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+curbside_pickup: false
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: true
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Hibachi tables & a sushi bar in a Japanese restaurant also serving udon,
+  tempura & teriyaki.
 
 ---

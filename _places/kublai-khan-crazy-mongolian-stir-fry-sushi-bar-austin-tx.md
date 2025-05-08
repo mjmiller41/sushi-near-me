@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kublai Khan Crazy Mongolian Stir Fry & Sushi Bar"
+title: Kublai Khan Crazy Mongolian Stir Fry & Sushi Bar
 permalink: /texas/austin/kublai-khan-crazy-mongolian-stir-fry-sushi-bar.html
 stateAbbr: TX
 stateName: Texas
 cityName: Austin
 seo:
-  name: "Kublai Khan Crazy Mongolian Stir Fry & Sushi Bar"
-  type: Restaurant
+  type: restaurant
   links: https://kublaikhan.kwickmenu.com/index.php
-description: "Kublai Khan Crazy Mongolian Stir Fry & Sushi Bar serves delicious sushi in Austin, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJeVbufgjPRIYRInemFrJx2QA
 photos:
   - name: >-
@@ -170,7 +168,105 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8644cf087eee5679:0xd971b216a67722!10e5
 primary_type: Asian Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 15
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 15
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 3:00 PM, 4:30 – 9:30 PM'
     - 'Tuesday: 11:00 AM – 3:00 PM, 4:30 – 9:30 PM'
     - 'Wednesday: 11:00 AM – 3:00 PM, 4:30 – 9:30 PM'
@@ -178,14 +274,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 3:00 PM, 4:30 – 10:00 PM'
     - 'Saturday: 11:00 AM – 10:00 PM'
     - 'Sunday: 11:00 AM – 9:30 PM'
-  current:
-    - 'Monday: 11:00 AM – 3:00 PM, 4:30 – 9:30 PM'
-    - 'Tuesday: 11:00 AM – 3:00 PM, 4:30 – 9:30 PM'
-    - 'Wednesday: 11:00 AM – 3:00 PM, 4:30 – 9:30 PM'
-    - 'Thursday: 11:00 AM – 3:00 PM, 4:30 – 9:30 PM'
-    - 'Friday: 11:00 AM – 3:00 PM, 4:30 – 10:00 PM'
-    - 'Saturday: 11:00 AM – 10:00 PM'
-    - 'Sunday: 11:00 AM – 9:30 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +286,232 @@ phone: (512) 251-8886
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.2'
-rating_count: 0
+rating_count: 1412
 website: https://kublaikhan.kwickmenu.com/index.php
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Kublai Khan in Austin, TX$$$Kublai Khan Crazy Mongolian Stir Fry &
+  Sushi Bar in Austin, Texas, stands out as a vibrant spot for fresh sushi and
+  customizable Asian dishes in a casual, industrial-chic atmosphere. Here,
+  diners can build their own stir-fry bowls with a variety of meats, veggies,
+  and sauces, alongside artfully prepared sushi options that highlight bold
+  flavors and quality ingredients. The restaurant's accessible features, like
+  wheelchair-friendly seating and ample parking, make it a welcoming choice for
+  everyone seeking sushi places near me. Operating with extended hours including
+  evenings and weekends, it's ideal for a quick lunch or relaxed dinner,
+  blending convenience with authentic tastes. Whether you're exploring top-rated
+  sushi restaurants or Japanese-inspired meals close to home, this spot delivers
+  a fun, interactive dining experience that keeps customers coming back.
+generative_summary: >-
+  Discover Kublai Khan in Austin, TX$$$Kublai Khan Crazy Mongolian Stir Fry &
+  Sushi Bar in Austin, Texas, stands out as a vibrant spot for fresh sushi and
+  customizable Asian dishes in a casual, industrial-chic atmosphere. Here,
+  diners can build their own stir-fry bowls with a variety of meats, veggies,
+  and sauces, alongside artfully prepared sushi options that highlight bold
+  flavors and quality ingredients. The restaurant's accessible features, like
+  wheelchair-friendly seating and ample parking, make it a welcoming choice for
+  everyone seeking sushi places near me. Operating with extended hours including
+  evenings and weekends, it's ideal for a quick lunch or relaxed dinner,
+  blending convenience with authentic tastes. Whether you're exploring top-rated
+  sushi restaurants or Japanese-inspired meals close to home, this spot delivers
+  a fun, interactive dining experience that keeps customers coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJeVbufgjPRIYRInemFrJx2QA/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3bHNUU1BREAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        It was an amazing time there with the members of Church. We rsvp and the
+        staff was able to accommodate us a table to fit us all. Jason our waiter
+        was very helpful & informative on the options the restaurant had to
+        offer. The cooks were on point making the dishes to our liking. Jason &
+        staff were attentive to our requests. Overall the experience was great &
+        the Superman sushi is a must. Even for some it was the first time trying
+        sushi & they were impressed on the taste.
+
+        Definitely returning and i advise come with an empty stomach.
+      languageCode: en
+    originalText:
+      text: >-
+        It was an amazing time there with the members of Church. We rsvp and the
+        staff was able to accommodate us a table to fit us all. Jason our waiter
+        was very helpful & informative on the options the restaurant had to
+        offer. The cooks were on point making the dishes to our liking. Jason &
+        staff were attentive to our requests. Overall the experience was great &
+        the Superman sushi is a must. Even for some it was the first time trying
+        sushi & they were impressed on the taste.
+
+        Definitely returning and i advise come with an empty stomach.
+      languageCode: en
+    authorAttribution:
+      displayName: Gabriel Restrepo
+      uri: https://www.google.com/maps/contrib/101996241300530177508/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKQ5EFj1FWlZ1l1UyYPXoBdm1q7jL2LTOLqWiqBe2OhF7KSfQ=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-18T16:24:39.684955Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUN3bHNUU1BREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUN3bHNUU1BREAE!2m1!1s0x8644cf087eee5679:0xd971b216a67722
+  - name: >-
+      places/ChIJeVbufgjPRIYRInemFrJx2QA/reviews/ChZDSUhNMG9nS0VJQ0FnTUNneE5ETE5BEAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        I'm just sorry I didn't try this place years ago. Great food and greater
+        service. Good prices. Will definitely be back
+      languageCode: en
+    originalText:
+      text: >-
+        I'm just sorry I didn't try this place years ago. Great food and greater
+        service. Good prices. Will definitely be back
+      languageCode: en
+    authorAttribution:
+      displayName: Lawrence Guttierrez
+      uri: https://www.google.com/maps/contrib/104333870646523474300/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKUXj4XbN-tRZhN3oQSN2S4MWEsUB0qgvMtJ9Q1_ttdgzyOLQ=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-02-14T06:09:00.076848Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNneE5ETE5BEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNneE5ETE5BEAE!2m1!1s0x8644cf087eee5679:0xd971b216a67722
+  - name: >-
+      places/ChIJeVbufgjPRIYRInemFrJx2QA/reviews/ChdDSUhNMG9nS0VJQ0FnSUMzamJPRi13RRAB
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        When you enter, there are employees who welcome you politely and with a
+        smile. You are given a bowl and you fill it with meat, chicken, fish and
+        vegetables and then you give it to them and there are spaghetti-style
+        options, you choose, they mix and cook it all for you and give it to
+        you, you choose the sauce and I must say that the taste is excellent. I
+        can say that the price-performance ratio is great, this price is very
+        reasonable, you get a lot for the money you pay, it is not an open
+        buffet, people misunderstand this issue. But it is a great place. I
+        highly recommend it.
+      languageCode: en
+    originalText:
+      text: >-
+        When you enter, there are employees who welcome you politely and with a
+        smile. You are given a bowl and you fill it with meat, chicken, fish and
+        vegetables and then you give it to them and there are spaghetti-style
+        options, you choose, they mix and cook it all for you and give it to
+        you, you choose the sauce and I must say that the taste is excellent. I
+        can say that the price-performance ratio is great, this price is very
+        reasonable, you get a lot for the money you pay, it is not an open
+        buffet, people misunderstand this issue. But it is a great place. I
+        highly recommend it.
+      languageCode: en
+    authorAttribution:
+      displayName: İsa Avar
+      uri: https://www.google.com/maps/contrib/100584559902125391056/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXkFUIeAdv9nGyDB4FrpwCeSMuHZAT9T91L8460UkVc9H1uK-4Y=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-11-07T23:36:50.617789Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMzamJPRi13RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMzamJPRi13RRAB!2m1!1s0x8644cf087eee5679:0xd971b216a67722
+  - name: >-
+      places/ChIJeVbufgjPRIYRInemFrJx2QA/reviews/ChZDSUhNMG9nS0VJQ0FnTURJODhXZVN3EAE
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        Amazing!! This place needs to get more recognition. The food is great
+        and the service was top tier. Everyone is so nice and helpful.
+      languageCode: en
+    originalText:
+      text: >-
+        Amazing!! This place needs to get more recognition. The food is great
+        and the service was top tier. Everyone is so nice and helpful.
+      languageCode: en
+    authorAttribution:
+      displayName: T C
+      uri: https://www.google.com/maps/contrib/106231938268389281981/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJXUp1LgpZAeNP2zP8ufF2yUJ80rGMHJbfpYKxR8oOIvkVFuw=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-04-13T00:09:03.283812Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURJODhXZVN3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJODhXZVN3EAE!2m1!1s0x8644cf087eee5679:0xd971b216a67722
+  - name: >-
+      places/ChIJeVbufgjPRIYRInemFrJx2QA/reviews/ChZDSUhNMG9nS0VJQ0FnSURQcU02R0tBEAE
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        Great place for food cooked right in front of you! The servers are great
+        and very friendly. Many choices for protein and veggies.
+      languageCode: en
+    originalText:
+      text: >-
+        Great place for food cooked right in front of you! The servers are great
+        and very friendly. Many choices for protein and veggies.
+      languageCode: en
+    authorAttribution:
+      displayName: Vivek Nair
+      uri: https://www.google.com/maps/contrib/100428396420433593810/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjX6ZrW0iQjuSgEew5OQr2H4FJEIX7Z_bxiAK1P97XlqFAjH_8g88w=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-11-28T17:06:27.708992Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURQcU02R0tBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURQcU02R0tBEAE!2m1!1s0x8644cf087eee5679:0xd971b216a67722
+review_summary: >-
+  What Visitors Love About This Spot$$$Folks rave about the delicious,
+  customizable stir-fry bowls and fresh sushi at this Austin favorite, noting
+  how the variety of proteins and sauces lets everyone tailor their meal just
+  right. Many highlight the friendly staff and efficient service that make the
+  whole experience feel welcoming and hassle-free, with meals offering great
+  value for the price. While most agree it's a solid pick for groups or families
+  looking for satisfying Asian eats, a few mention occasional inconsistencies in
+  wait times that don't detract from the overall fun vibe. If you're hunting for
+  the best sushi near me or a casual place to enjoy hearty portions, this spot
+  consistently delivers tasty results that leave diners feeling impressed and
+  eager to return. Overall, it's a go-to for anyone craving reliable, flavorful
+  options in a laid-back setting.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
+curbside_pickup: true
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: true
+live_music: false
+menu_for_children: true
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: true
 serves_cocktails: null
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Modern eatery combining artfully presented sushi & Mongolian stir-fry in
+  industrial-chic environs.
 
 ---

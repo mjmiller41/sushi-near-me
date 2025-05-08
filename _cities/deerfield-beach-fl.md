@@ -5,4 +5,5 @@ permalink: /florida/deerfield-beach/
 stateAbbr: FL
 stateName: Florida
 cityName: Deerfield Beach
+
 ---

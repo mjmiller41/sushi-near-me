@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Time"
+title: Sushi Time
 permalink: /idaho/idaho-falls/sushi-time.html
 stateAbbr: ID
 stateName: Idaho
 cityName: Idaho Falls
 seo:
-  name: "Sushi Time"
-  type: Restaurant
+  type: restaurant
   links: https://www.sushitimeidaho.com/
-description: "Sushi Time serves delicious sushi in Idaho Falls, Idaho. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJS_9RSyNfVFMR1Y7c8nuW4sI
 photos:
   - name: >-
@@ -170,7 +168,89 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x53545f234b51ff4b:0xc2e2967bf2dc8ed5!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 14
+        minute: 30
+    - open:
+        day: 0
+        hour: 16
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 14
+        minute: 30
+    - open:
+        day: 6
+        hour: 16
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
     - 'Tuesday: Closed'
     - 'Wednesday: Closed'
@@ -178,14 +258,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 2:30 PM, 4:30 – 10:00 PM'
     - 'Saturday: 11:00 AM – 2:30 PM, 4:30 – 10:00 PM'
     - 'Sunday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
-    - 'Tuesday: Closed'
-    - 'Wednesday: Closed'
-    - 'Thursday: 11:00 AM – 2:30 PM, 4:30 – 10:00 PM'
-    - 'Friday: 11:00 AM – 2:30 PM, 4:30 – 10:00 PM'
-    - 'Saturday: 11:00 AM – 2:30 PM, 4:30 – 10:00 PM'
-    - 'Sunday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
+  nextOpenTime: '2025-05-03T22:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +270,386 @@ phone: (208) 529-8463
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.0'
-rating_count: 0
+rating_count: 936
 website: https://www.sushitimeidaho.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Explore Sushi Time in Idaho Falls, ID$$$Sushi Time in Idaho Falls, ID, stands
+  out as a casual Japanese eatery offering an all-you-can-eat experience with
+  fresh sushi and a selection of sake and beer in a welcoming setting. This spot
+  emphasizes accessibility features like wheelchair-friendly entrances and
+  seating, making it easy for everyone to enjoy top-rated sushi options nearby.
+  Patrons can savor a variety of rolls and dishes in a cozy atmosphere that's
+  perfect for groups or families seeking Japanese places near me. With moderate
+  pricing and a menu that includes vegetarian-friendly choices, it's an ideal
+  choice for those exploring best sushi restaurants in the area. Operating hours
+  cater to lunch and dinner crowds, ensuring you can find satisfying meals
+  without the hassle.
+generative_summary: >-
+  Explore Sushi Time in Idaho Falls, ID$$$Sushi Time in Idaho Falls, ID, stands
+  out as a casual Japanese eatery offering an all-you-can-eat experience with
+  fresh sushi and a selection of sake and beer in a welcoming setting. This spot
+  emphasizes accessibility features like wheelchair-friendly entrances and
+  seating, making it easy for everyone to enjoy top-rated sushi options nearby.
+  Patrons can savor a variety of rolls and dishes in a cozy atmosphere that's
+  perfect for groups or families seeking Japanese places near me. With moderate
+  pricing and a menu that includes vegetarian-friendly choices, it's an ideal
+  choice for those exploring best sushi restaurants in the area. Operating hours
+  cater to lunch and dinner crowds, ensuring you can find satisfying meals
+  without the hassle.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJS_9RSyNfVFMR1Y7c8nuW4sI/reviews/ChZDSUhNMG9nS0VJQ0FnSUNYdGF1QVZBEAE
+    relativePublishTimeDescription: 6 months ago
+    rating: 1
+    text:
+      text: >-
+        That was the worst sushi I've ever had. I wanted to send back 2 out of 3
+        rolls I ordered but since they charge you for not eating I didn't...
+
+
+        Breaded Shrimp in a roll - Cold, hard, tasted awfulike it had been
+        sitting there a LONG time. Had to pick it all out of the roll and it
+        still made the whole roll taste bad.
+
+
+        EEL - Ditto. Couldn't stand this and it made the whole roll taste bad.
+
+
+        Tuna - I know it was tuna but it did not taste very fresh... Like maybe
+        it has been sitting a very long time in the air.
+
+
+        Spider Roll - this one was ok
+
+
+        Other fish - Similar to the tuna. It's like they're letting the fish get
+        warm or something
+
+
+        Sauces - I had only one roll that looked like it had the sauces
+        advertised. It's like they forgot half the ingredients of most of the
+        rolls we ordered, either that or the food here is very plain.
+
+
+        In general, most of the rolls had lots of rice and very little fish. The
+        one in this review that *looks* good was actually pretty terrible
+        because the breaded shrimp in it was so old. The other one had a large
+        chunk of some hard, dry, unidentifiable white meat in it and nothing
+        else.
+
+
+        I forgot to mention the waitress was by far the worst server I've ever
+        seen. She seemed genuinely upset that we were there and ordering food
+        and messed up our order and forgot stuff no less than 8 times.
+      languageCode: en
+    originalText:
+      text: >-
+        That was the worst sushi I've ever had. I wanted to send back 2 out of 3
+        rolls I ordered but since they charge you for not eating I didn't...
+
+
+        Breaded Shrimp in a roll - Cold, hard, tasted awfulike it had been
+        sitting there a LONG time. Had to pick it all out of the roll and it
+        still made the whole roll taste bad.
+
+
+        EEL - Ditto. Couldn't stand this and it made the whole roll taste bad.
+
+
+        Tuna - I know it was tuna but it did not taste very fresh... Like maybe
+        it has been sitting a very long time in the air.
+
+
+        Spider Roll - this one was ok
+
+
+        Other fish - Similar to the tuna. It's like they're letting the fish get
+        warm or something
+
+
+        Sauces - I had only one roll that looked like it had the sauces
+        advertised. It's like they forgot half the ingredients of most of the
+        rolls we ordered, either that or the food here is very plain.
+
+
+        In general, most of the rolls had lots of rice and very little fish. The
+        one in this review that *looks* good was actually pretty terrible
+        because the breaded shrimp in it was so old. The other one had a large
+        chunk of some hard, dry, unidentifiable white meat in it and nothing
+        else.
+
+
+        I forgot to mention the waitress was by far the worst server I've ever
+        seen. She seemed genuinely upset that we were there and ordering food
+        and messed up our order and forgot stuff no less than 8 times.
+      languageCode: en
+    authorAttribution:
+      displayName: Inigo Montoya
+      uri: https://www.google.com/maps/contrib/116458190857233099256/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXbQg4REzhtr0isrJCQblY_qpvBYQauh4vkNsFSlDItY2kraRJ50A=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-10-24T14:01:03.225121Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNYdGF1QVZBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNYdGF1QVZBEAE!2m1!1s0x53545f234b51ff4b:0xc2e2967bf2dc8ed5
+  - name: >-
+      places/ChIJS_9RSyNfVFMR1Y7c8nuW4sI/reviews/ChdDSUhNMG9nS0VJQ0FnTURnNE1PNnNnRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 2
+    text:
+      text: >-
+        Service was great. Very kind and explained the menu well (Auna)!!
+
+
+        Flavor was a 6/10, if want for the sauce the rice would be TERRIBLE:
+        more below
+
+
+        Rice 1/10 dry and flavorless. Literally had to request extra sauce and
+        drank water to get the fit down so we wouldn’t be charged extra.
+
+        Best roll, protein, was a la carte.
+
+
+        They ran out of pot stickers at 6pm!
+
+
+        Sushi is about the rice and this place failed.
+      languageCode: en
+    originalText:
+      text: >-
+        Service was great. Very kind and explained the menu well (Auna)!!
+
+
+        Flavor was a 6/10, if want for the sauce the rice would be TERRIBLE:
+        more below
+
+
+        Rice 1/10 dry and flavorless. Literally had to request extra sauce and
+        drank water to get the fit down so we wouldn’t be charged extra.
+
+        Best roll, protein, was a la carte.
+
+
+        They ran out of pot stickers at 6pm!
+
+
+        Sushi is about the rice and this place failed.
+      languageCode: en
+    authorAttribution:
+      displayName: Ronald Bennett
+      uri: https://www.google.com/maps/contrib/104369061752997837273/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjV163XiRN80NCLjuL-ft3J8PGKYx5CrqcxDOr-0fogU17xPkVj1yw=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-02-22T01:09:54.619688Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURnNE1PNnNnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURnNE1PNnNnRRAB!2m1!1s0x53545f234b51ff4b:0xc2e2967bf2dc8ed5
+  - name: >-
+      places/ChIJS_9RSyNfVFMR1Y7c8nuW4sI/reviews/ChdDSUhNMG9nS0VJQ0FnTURRMUxheXdBRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 2
+    text:
+      text: >-
+        Went to dinner with my mom tonight. I got the all you can eat sushi. Our
+        server had to leave shortly after ordering our food. We got our
+        appetizers just fine and it was all great up until then. We got a new
+        server because the original had to leave. We waited 30 minutes for our
+        sushi to come out. Turns out our order wasn’t even put in so we had to
+        wait a few more minutes. I ordered another piece of sushi later and. I
+        had approximately 9 pieces of sushi left and asked for a box. The serve
+        told me it would be an extra charge for not finishing all but 3 pieces
+        of sushi. She even apologized for this information not being relayed to
+        us before ordering. The new server didn’t even know that I was the only
+        one with the all you can eat sushi order until I told her. I told her I
+        wouldn’t have even ordered my last sushi roll if I had known about the
+        policy of finishing all but three pieces of sushi. She apologized and
+        said the best she could do was only charge an extra $5 for not finishing
+        it. She then stated the policy was started in the menu even though the
+        original server should have explained to us the policy. Asked to speak
+        to the manager and she explain the same thing but could clearly care
+        less (even though we also waited 30 minutes son sushi that hadn’t even
+        put in). Then to top things off my mother was charged twice for the same
+        roll. The server said there was a piece of sushi left when the servers
+        switched which was a complete lie and the servers part (or she’s a
+        complete airhead). I felt completely unheard and uncared for. I have
+        worked in the restaurant industry for over 10 years and I know for a
+        fact that my managers would not have charged the extra $5 for not
+        finishing the sushi simply for the fact we were not told about it, and
+        we would have even been discounted for the inconvenience of having to
+        wait over 30 minutes for our order being forgotten about. The manager
+        did not care at all and charged us full price for everything plus the
+        extra $5 for not finishing the sushi.  I have never experienced such
+        poor hospitality by a manager in a restaurant. I do not blame the server
+        (even though she wasn’t very bright) but I expect more from a manager.
+        First and last time going to the place.. The only reason why they
+        received two starts from me was because the other staff that was not our
+        server was very caring and kind and the food was good. Zero starts for
+        management. Shame on you.
+      languageCode: en
+    originalText:
+      text: >-
+        Went to dinner with my mom tonight. I got the all you can eat sushi. Our
+        server had to leave shortly after ordering our food. We got our
+        appetizers just fine and it was all great up until then. We got a new
+        server because the original had to leave. We waited 30 minutes for our
+        sushi to come out. Turns out our order wasn’t even put in so we had to
+        wait a few more minutes. I ordered another piece of sushi later and. I
+        had approximately 9 pieces of sushi left and asked for a box. The serve
+        told me it would be an extra charge for not finishing all but 3 pieces
+        of sushi. She even apologized for this information not being relayed to
+        us before ordering. The new server didn’t even know that I was the only
+        one with the all you can eat sushi order until I told her. I told her I
+        wouldn’t have even ordered my last sushi roll if I had known about the
+        policy of finishing all but three pieces of sushi. She apologized and
+        said the best she could do was only charge an extra $5 for not finishing
+        it. She then stated the policy was started in the menu even though the
+        original server should have explained to us the policy. Asked to speak
+        to the manager and she explain the same thing but could clearly care
+        less (even though we also waited 30 minutes son sushi that hadn’t even
+        put in). Then to top things off my mother was charged twice for the same
+        roll. The server said there was a piece of sushi left when the servers
+        switched which was a complete lie and the servers part (or she’s a
+        complete airhead). I felt completely unheard and uncared for. I have
+        worked in the restaurant industry for over 10 years and I know for a
+        fact that my managers would not have charged the extra $5 for not
+        finishing the sushi simply for the fact we were not told about it, and
+        we would have even been discounted for the inconvenience of having to
+        wait over 30 minutes for our order being forgotten about. The manager
+        did not care at all and charged us full price for everything plus the
+        extra $5 for not finishing the sushi.  I have never experienced such
+        poor hospitality by a manager in a restaurant. I do not blame the server
+        (even though she wasn’t very bright) but I expect more from a manager.
+        First and last time going to the place.. The only reason why they
+        received two starts from me was because the other staff that was not our
+        server was very caring and kind and the food was good. Zero starts for
+        management. Shame on you.
+      languageCode: en
+    authorAttribution:
+      displayName: Brenna Campbell
+      uri: https://www.google.com/maps/contrib/107260327108911514681/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocInd_LRu2Qu8hou4C_dGLBE2XDIba6zbhDuXQdj1iJyq2vtJg=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-09T05:34:33.772460Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURRMUxheXdBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURRMUxheXdBRRAB!2m1!1s0x53545f234b51ff4b:0xc2e2967bf2dc8ed5
+  - name: >-
+      places/ChIJS_9RSyNfVFMR1Y7c8nuW4sI/reviews/ChZDSUhNMG9nS0VJQ0FnTUNvdTViMkp3EAE
+    relativePublishTimeDescription: a week ago
+    rating: 1
+    text:
+      text: >-
+        Worst sushi place ever. Idaho Falls has a very low bar for dinning
+        industry and this place definitely reaches the lowest limit. Thank you
+        for your effort. Although they say it is "all you can eat sushi," they
+        have all kinds of condition to limit how many times we can order. Also,
+        this place is more like "all you can eat rice" instead. Additionally,
+        the rude server has mentioned five times about their leftover policies
+        which is no more than 6 pieces. Sounds like people always had hard time
+        finishing the food they order. That explains all how shitty the food is
+        right?
+      languageCode: en
+    originalText:
+      text: >-
+        Worst sushi place ever. Idaho Falls has a very low bar for dinning
+        industry and this place definitely reaches the lowest limit. Thank you
+        for your effort. Although they say it is "all you can eat sushi," they
+        have all kinds of condition to limit how many times we can order. Also,
+        this place is more like "all you can eat rice" instead. Additionally,
+        the rude server has mentioned five times about their leftover policies
+        which is no more than 6 pieces. Sounds like people always had hard time
+        finishing the food they order. That explains all how shitty the food is
+        right?
+      languageCode: en
+    authorAttribution:
+      displayName: Anthony
+      uri: https://www.google.com/maps/contrib/111314817092632639455/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIk9uk7vdE-iJ3BSMTL2vs8qfs4de_Rqpy15dIz3jvq1UxqsQ=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-20T07:02:31.673193Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNvdTViMkp3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNvdTViMkp3EAE!2m1!1s0x53545f234b51ff4b:0xc2e2967bf2dc8ed5
+  - name: >-
+      places/ChIJS_9RSyNfVFMR1Y7c8nuW4sI/reviews/ChdDSUhNMG9nS0VJQ0FnSURQZ2RpYXJBRRAB
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        It was mine and my friend’s first time trying this place and it was
+        amazing!! Our server Cameron was fantastic! Super helpful and friendly
+        and always made sure we were happy with our food! 10/10 would go again
+        :)
+      languageCode: en
+    originalText:
+      text: >-
+        It was mine and my friend’s first time trying this place and it was
+        amazing!! Our server Cameron was fantastic! Super helpful and friendly
+        and always made sure we were happy with our food! 10/10 would go again
+        :)
+      languageCode: en
+    authorAttribution:
+      displayName: Haiden Scarr
+      uri: https://www.google.com/maps/contrib/106922941075880176398/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUkujnoFCiJxYn17nBQ9zmbzObz0vaO4UcxXHp0NiComkM56RRi=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-12-02T21:25:09.930464Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURQZ2RpYXJBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURQZ2RpYXJBRRAB!2m1!1s0x53545f234b51ff4b:0xc2e2967bf2dc8ed5
+review_summary: >-
+  Visitor Feedback Highlights$$$Feedback from diners at this sushi spot often
+  highlights the friendly service and helpful staff, creating a relaxed vibe for
+  enjoying meals with friends. While some appreciate the variety of rolls and
+  the all-you-can-eat deal, a few mention that the rice could be fresher for a
+  more authentic taste. Overall, it's a go-to place for casual sushi lovers,
+  with many noting the reasonable portions and fun atmosphere despite occasional
+  inconsistencies in preparation. Patrons frequently praise the beer and sake
+  selections, adding to the enjoyable experience, though suggestions for quicker
+  service come up now and then. If you're hunting for sushi restaurants near me,
+  this location offers solid value with its approachable vibe, making it worth a
+  try for a satisfying outing.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  paidStreetParking: false
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+delivery: false
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: true
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

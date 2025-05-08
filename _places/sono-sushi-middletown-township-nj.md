@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sono Sushi"
+title: Sono Sushi
 permalink: /new-jersey/middletown-township/sono-sushi.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Middletown Township
 seo:
-  name: "Sono Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.sonosushi.net/
-description: "Sushi, teriyaki, fried dishes & more at a longtime option in simple strip-mall surrounds. Sono Sushi serves delicious sushi in Middletown Township, New Jersey. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJZy2TlUIxwokRttRJGEtDXU0
 photos:
   - name: >-
@@ -185,6 +183,27 @@ price_range: $30 &ndash; $50
 rating: '4.5'
 rating_count: 0
 website: http://www.sonosushi.net/
+description: >-
+  Discover Sono Sushi in Middletown Township, NJ$$$Sono Sushi in Middletown
+  Township, NJ, stands out as a welcoming Japanese restaurant known for its
+  fresh sushi and sashimi selections that cater to both lunch and dinner crowds.
+  The spot offers a variety of traditional dishes in a simple, accessible
+  setting, making it a go-to choice for those seeking quality Japanese cuisine
+  nearby. With features like wheelchair-accessible options and convenient
+  parking, it ensures a comfortable visit for everyone. Additionally, the menu
+  includes teriyaki and fried favorites, providing a well-rounded experience
+  that appeals to sushi enthusiasts exploring local options.
+generative_summary: >-
+  Discover Sono Sushi in Middletown Township, NJ$$$Sono Sushi in Middletown
+  Township, NJ, stands out as a welcoming Japanese restaurant known for its
+  fresh sushi and sashimi selections that cater to both lunch and dinner crowds.
+  The spot offers a variety of traditional dishes in a simple, accessible
+  setting, making it a go-to choice for those seeking quality Japanese cuisine
+  nearby. With features like wheelchair-accessible options and convenient
+  parking, it ensures a comfortable visit for everyone. Additionally, the menu
+  includes teriyaki and fried favorites, providing a well-rounded experience
+  that appeals to sushi enthusiasts exploring local options.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJZy2TlUIxwokRttRJGEtDXU0/reviews/ChdDSUhNMG9nS0VJQ0FnSURfaTdYaHBBRRAB
@@ -446,6 +465,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNzOTQ3bDFRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNzOTQ3bDFRRRAB!2m1!1s0x89c2314295932d67:0x4d5d434b1849d4b6
+review_summary: >-
+  Insights from Recent Feedback$$$Folks enjoying sushi spots around Middletown
+  Township often highlight the tasty dishes and generous portions that make
+  meals feel worthwhile without breaking the bank. Many appreciate the friendly
+  service and welcoming atmosphere that enhance the overall dining experience,
+  turning first-time visits into memorable ones. While most feedback praises the
+  fresh flavors and variety of rolls, a few note that consistency in preparation
+  can vary, though positives like affordability and great service generally
+  shine through. Overall, it's a solid pick for anyone craving top-rated sushi
+  nearby, with the majority of experiences leaving diners satisfied and eager to
+  return.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -478,8 +509,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Sushi, teriyaki, fried dishes & more at a longtime option in simple strip-mall
   surrounds.
 

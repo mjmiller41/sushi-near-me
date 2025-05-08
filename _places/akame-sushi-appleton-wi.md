@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Akame Sushi"
+title: Akame Sushi
 permalink: /wisconsin/appleton/akame-sushi.html
 stateAbbr: WI
 stateName: Wisconsin
 cityName: Appleton
 seo:
-  name: "Akame Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://akamesushi888.com/
-description: "Akame Sushi serves delicious sushi in Appleton, Wisconsin. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJDdrfONWxA4gRujxvHwsIDNE
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $30 &ndash; $50
 rating: '4.6'
 rating_count: 0
 website: https://akamesushi888.com/
+description: >-
+  Experience Akame Sushi in Appleton, WI$$$Akame Sushi in Appleton, WI, stands
+  out as a popular Japanese restaurant known for its inviting atmosphere and
+  fresh, flavorful offerings that cater to sushi enthusiasts. This spot features
+  an all-you-can-eat buffet with high-quality sashimi and creative rolls, making
+  it a go-to choice for those seeking satisfying Japanese cuisine in a welcoming
+  setting. The modern decor adds a fun, vibrant touch, enhancing the overall
+  dining experience, while convenient ordering via tablets ensures quick
+  service. Accessibility options like wheelchair-friendly entrances and parking
+  make it easy for everyone to enjoy, positioning it as a reliable option for
+  sushi places near me looking for a balanced meal at a moderate price.
+generative_summary: >-
+  Experience Akame Sushi in Appleton, WI$$$Akame Sushi in Appleton, WI, stands
+  out as a popular Japanese restaurant known for its inviting atmosphere and
+  fresh, flavorful offerings that cater to sushi enthusiasts. This spot features
+  an all-you-can-eat buffet with high-quality sashimi and creative rolls, making
+  it a go-to choice for those seeking satisfying Japanese cuisine in a welcoming
+  setting. The modern decor adds a fun, vibrant touch, enhancing the overall
+  dining experience, while convenient ordering via tablets ensures quick
+  service. Accessibility options like wheelchair-friendly entrances and parking
+  make it easy for everyone to enjoy, positioning it as a reliable option for
+  sushi places near me looking for a balanced meal at a moderate price.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJDdrfONWxA4gRujxvHwsIDNE/reviews/ChZDSUhNMG9nS0VJQ0FnTUNndHRTY1ZBEAE
@@ -354,6 +375,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURnM2REcEN3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURnM2REcEN3EAE!2m1!1s0x8803b1d538dfda0d:0xd10c080b1f6f3cba
+review_summary: >-
+  What Patrons Love About This Sushi Spot$$$Visitors often rave about the fresh
+  and tasty sushi selections, with standout items like sashimi and salmon dishes
+  that hit the spot for a satisfying meal. Many appreciate the speedy service
+  and efficient ordering system, even during busy times, though some note it can
+  get a bit slower on weekends but still delivers overall. Folks enjoy the
+  variety of options that make it great for groups or families, highlighting the
+  value for the price and the welcoming vibe that keeps things enjoyable. While
+  it's not always the most unique spot on the block, the consistent quality and
+  friendly atmosphere make it a solid pick for anyone hunting for top-rated
+  sushi restaurants nearby, encouraging repeat visits for a reliably good time.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -384,7 +417,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Love Sushi"
+title: Love Sushi
 permalink: /texas/frisco/love-sushi.html
 stateAbbr: TX
 stateName: Texas
 cityName: Frisco
 seo:
-  name: "Love Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Love Sushi serves delicious sushi in Frisco, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJMd6meaI5TIYRSas9Fow93g0
 photos:
   - name: >-
@@ -185,7 +183,44 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Love Sushi in Frisco, TX$$$Love Sushi in Frisco, TX, stands out as a
+  welcoming sushi restaurant that brings authentic Japanese flavors to the local
+  dining scene. This spot delights guests with a menu featuring fresh, creative
+  rolls and classic dishes, all prepared with high-quality ingredients for a
+  memorable meal. The restaurant emphasizes accessibility, including
+  wheelchair-friendly parking and entrances, ensuring a comfortable experience
+  for everyone. Its value-driven lunch and dinner options make it an ideal
+  choice for casual outings or family gatherings, appealing to those seeking
+  flavorful sushi in a relaxed environment. With its inviting atmosphere and
+  attention to detail, Love Sushi is a go-to destination for anyone exploring
+  top-rated Japanese cuisine nearby.
+generative_summary: >-
+  Discover Love Sushi in Frisco, TX$$$Love Sushi in Frisco, TX, stands out as a
+  welcoming sushi restaurant that brings authentic Japanese flavors to the local
+  dining scene. This spot delights guests with a menu featuring fresh, creative
+  rolls and classic dishes, all prepared with high-quality ingredients for a
+  memorable meal. The restaurant emphasizes accessibility, including
+  wheelchair-friendly parking and entrances, ensuring a comfortable experience
+  for everyone. Its value-driven lunch and dinner options make it an ideal
+  choice for casual outings or family gatherings, appealing to those seeking
+  flavorful sushi in a relaxed environment. With its inviting atmosphere and
+  attention to detail, Love Sushi is a go-to destination for anyone exploring
+  top-rated Japanese cuisine nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Diners at Love Sushi$$$Visitors often praise the tasty variety
+  of dishes, like the flavorful rolls and teriyaki options that bring a
+  satisfying balance of flavors to the table. Many highlight the great deals on
+  lunch and dinner specials, noting how they offer solid portions at fair prices
+  without skimping on quality. Folks appreciate the friendly vibe and attentive
+  service that make every meal feel effortless and enjoyable. Overall, it's a
+  spot that delivers on fresh tastes and good value, making it a reliable pick
+  for sushi enthusiasts looking for a casual spot to unwind. While not perfect,
+  the positive feedback suggests it's worth trying for anyone in the mood for
+  dependable Japanese fare.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +246,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

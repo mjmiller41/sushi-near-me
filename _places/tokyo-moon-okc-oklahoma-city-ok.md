@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Tokyo Moon OKC"
+title: Tokyo Moon OKC
 permalink: /oklahoma/oklahoma-city/tokyo-moon-okc.html
 stateAbbr: OK
 stateName: Oklahoma
 cityName: Oklahoma City
 seo:
-  name: "Tokyo Moon OKC"
-  type: Restaurant
-  links: null
-description: "Tokyo Moon OKC serves delicious sushi in Oklahoma City, Oklahoma. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://tokyomoonhefner.com/
 place_id: ChIJScqLzJ4EsocRRmSXKTb3IOg
 photos:
   - name: >-
@@ -170,8 +168,89 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x87b2049ecc8bca49:0xe820f73629976446!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 20
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 20
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 20
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 20
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: Closed'
+    - 'Tuesday: 11:00 AM – 2:00 PM, 4:30 – 8:30 PM'
+    - 'Wednesday: 11:00 AM – 2:00 PM, 4:30 – 8:30 PM'
+    - 'Thursday: 11:00 AM – 2:00 PM, 4:30 – 8:30 PM'
+    - 'Friday: 11:00 AM – 2:00 PM, 4:30 – 8:30 PM'
+    - 'Saturday: 11:00 AM – 9:00 PM'
+    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +258,54 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (405) 721-7253
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.6'
+rating_count: 435
+website: http://tokyomoonhefner.com/
+description: >-
+  Discover Tokyo Moon OKC in Oklahoma City, OK$$$Tokyo Moon OKC in Oklahoma
+  City, OK, stands out as a welcoming spot for those seeking authentic Japanese
+  and Vietnamese flavors, blending casual dining with a variety of tasty
+  options. This restaurant offers an array of fresh dishes, including expertly
+  prepared sushi and vegetarian choices that cater to diverse tastes, making it
+  a go-to destination for sushi enthusiasts in the area. With its accessible
+  features like wheelchair-friendly parking and entrances, it ensures everyone
+  can enjoy a comfortable meal in a relaxed atmosphere. The menu highlights
+  creative takes on traditional cuisine, providing a satisfying experience for
+  anyone exploring top-rated Japanese places nearby. Open for lunch and dinner
+  several days a week, it's an ideal stop for locals and visitors alike looking
+  for quality sushi restaurants close to home.
+generative_summary: >-
+  Discover Tokyo Moon OKC in Oklahoma City, OK$$$Tokyo Moon OKC in Oklahoma
+  City, OK, stands out as a welcoming spot for those seeking authentic Japanese
+  and Vietnamese flavors, blending casual dining with a variety of tasty
+  options. This restaurant offers an array of fresh dishes, including expertly
+  prepared sushi and vegetarian choices that cater to diverse tastes, making it
+  a go-to destination for sushi enthusiasts in the area. With its accessible
+  features like wheelchair-friendly parking and entrances, it ensures everyone
+  can enjoy a comfortable meal in a relaxed atmosphere. The menu highlights
+  creative takes on traditional cuisine, providing a satisfying experience for
+  anyone exploring top-rated Japanese places nearby. Open for lunch and dinner
+  several days a week, it's an ideal stop for locals and visitors alike looking
+  for quality sushi restaurants close to home.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Love About Tokyo Moon$$$Folks rave about the mouthwatering sushi
+  selections at this spot, with standout rolls that bring bold flavors and fresh
+  ingredients to the table, making it a favorite for anyone craving reliable
+  Japanese dining. Many highlight the variety of dishes like flavorful poke
+  bowls and fresh carpaccio, which add a nice touch to the overall meal
+  experience without overwhelming the palate. The staff comes across as
+  genuinely helpful and friendly, contributing to a warm vibe that keeps diners
+  coming back for more casual evenings out. Overall, the inviting atmosphere
+  makes it a solid choice for groups or solo visits, blending good food with
+  attentive service in a way that feels just right. While opinions vary, the
+  general consensus leans positive, encouraging those searching for the best
+  sushi near them to give it a try for an enjoyable outing.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +331,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

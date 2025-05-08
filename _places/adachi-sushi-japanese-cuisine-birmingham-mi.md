@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Adachi Sushi & Japanese Cuisine"
+title: Adachi Sushi & Japanese Cuisine
 permalink: /michigan/birmingham/adachi-sushi-japanese-cuisine.html
 stateAbbr: MI
 stateName: Michigan
 cityName: Birmingham
 seo:
-  name: "Adachi Sushi & Japanese Cuisine"
-  type: Restaurant
+  type: restaurant
   links: http://adachirestaurant.com/
-description: "Adachi Sushi & Japanese Cuisine serves delicious sushi in Birmingham, Michigan. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJyyI93fLHJIgRjM4FluYqPT4
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8824c7f2dd3d22cb:0x3e3d2ae69605ce8c!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 23
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 23
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 23
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 0
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 0
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 0
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 11:00 PM'
     - 'Tuesday: 11:30 AM – 11:00 PM'
     - 'Wednesday: 11:30 AM – 11:00 PM'
@@ -178,28 +234,189 @@ opening_hours:
     - 'Friday: 11:30 AM – 12:00 AM'
     - 'Saturday: 11:30 AM – 12:00 AM'
     - 'Sunday: 11:30 AM – 10:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 11:00 PM'
-    - 'Tuesday: 11:30 AM – 11:00 PM'
-    - 'Wednesday: 11:30 AM – 11:00 PM'
-    - 'Thursday: 11:30 AM – 12:00 AM'
-    - 'Friday: 11:30 AM – 12:00 AM'
-    - 'Saturday: 11:30 AM – 12:00 AM'
-    - 'Sunday: 11:30 AM – 10:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 0
+        close:
+          day: 0
+          hour: 20
+          minute: 0
+      - open:
+          day: 1
+          hour: 12
+          minute: 0
+        close:
+          day: 1
+          hour: 20
+          minute: 0
+      - open:
+          day: 2
+          hour: 12
+          minute: 0
+        close:
+          day: 2
+          hour: 20
+          minute: 0
+      - open:
+          day: 3
+          hour: 12
+          minute: 0
+        close:
+          day: 3
+          hour: 20
+          minute: 0
+      - open:
+          day: 4
+          hour: 12
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 0
+      - open:
+          day: 5
+          hour: 12
+          minute: 0
+        close:
+          day: 5
+          hour: 21
+          minute: 0
+      - open:
+          day: 6
+          hour: 12
+          minute: 0
+        close:
+          day: 6
+          hour: 21
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 12:00 – 8:00 PM'
+      - 'Tuesday: 12:00 – 8:00 PM'
+      - 'Wednesday: 12:00 – 8:00 PM'
+      - 'Thursday: 12:00 – 9:00 PM'
+      - 'Friday: 12:00 – 9:00 PM'
+      - 'Saturday: 12:00 – 9:00 PM'
+      - 'Sunday: 12:00 – 8:00 PM'
+    secondaryHoursType: DELIVERY
+    nextCloseTime: '2025-05-04T01:00:00Z'
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 0
+        close:
+          day: 0
+          hour: 21
+          minute: 0
+      - open:
+          day: 1
+          hour: 12
+          minute: 0
+        close:
+          day: 1
+          hour: 21
+          minute: 0
+      - open:
+          day: 2
+          hour: 12
+          minute: 0
+        close:
+          day: 2
+          hour: 21
+          minute: 0
+      - open:
+          day: 3
+          hour: 12
+          minute: 0
+        close:
+          day: 3
+          hour: 21
+          minute: 0
+      - open:
+          day: 4
+          hour: 12
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 0
+      - open:
+          day: 5
+          hour: 12
+          minute: 0
+        close:
+          day: 5
+          hour: 21
+          minute: 0
+      - open:
+          day: 6
+          hour: 12
+          minute: 0
+        close:
+          day: 6
+          hour: 21
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 12:00 – 9:00 PM'
+      - 'Tuesday: 12:00 – 9:00 PM'
+      - 'Wednesday: 12:00 – 9:00 PM'
+      - 'Thursday: 12:00 – 9:00 PM'
+      - 'Friday: 12:00 – 9:00 PM'
+      - 'Saturday: 12:00 – 9:00 PM'
+      - 'Sunday: 12:00 – 9:00 PM'
+    secondaryHoursType: TAKEOUT
+    nextCloseTime: '2025-05-04T01:00:00Z'
 phone: (248) 540-5900
 price_level: PRICE_LEVEL_MODERATE
 price_range: $50 &ndash; $100
 rating: '4.4'
-rating_count: 0
+rating_count: 1141
 website: http://adachirestaurant.com/
+description: >-
+  Discover Adachi Sushi in Birmingham, MI$$$Adachi Sushi & Japanese Cuisine in
+  Birmingham, MI, stands out as a contemporary spot for enjoying fresh
+  Japanese-inspired dishes in a historic ambiance. This sushi restaurant blends
+  modern elegance with traditional flavors, offering a menu that highlights
+  expertly crafted rolls and innovative entrees perfect for sushi enthusiasts.
+  With its accessible features like wheelchair-friendly entrances and seating,
+  it's an inclusive choice for diners seeking quality Japanese fare. The eatery
+  maintains extended hours, making it convenient for those hunting for sushi
+  places near me to stop by for lunch or dinner. Whether you're exploring
+  top-rated sushi options or simply craving authentic tastes, this location
+  delivers a memorable dining experience.
+generative_summary: >-
+  Discover Adachi Sushi in Birmingham, MI$$$Adachi Sushi & Japanese Cuisine in
+  Birmingham, MI, stands out as a contemporary spot for enjoying fresh
+  Japanese-inspired dishes in a historic ambiance. This sushi restaurant blends
+  modern elegance with traditional flavors, offering a menu that highlights
+  expertly crafted rolls and innovative entrees perfect for sushi enthusiasts.
+  With its accessible features like wheelchair-friendly entrances and seating,
+  it's an inclusive choice for diners seeking quality Japanese fare. The eatery
+  maintains extended hours, making it convenient for those hunting for sushi
+  places near me to stop by for lunch or dinner. Whether you're exploring
+  top-rated sushi options or simply craving authentic tastes, this location
+  delivers a memorable dining experience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Recent Reviews$$$Visitors to this sushi spot often rave about
+  the delicious variety of rolls and appetizers, like crispy rice spicy tuna and
+  flavorful sliders that keep things exciting for food lovers. Many folks
+  appreciate the tasty drinks and amazing desserts that round out the meal,
+  along with the friendly service that makes everyone feel right at home. The
+  atmosphere comes across as lively and welcoming, ideal for casual
+  get-togethers or date nights at one of the best sushi restaurants around.
+  While some mention that prices lean towards the higher end, the overall value
+  from fresh ingredients and attentive staff keeps the feedback positive. If
+  you're on the hunt for great Japanese places near me, these insights suggest
+  it's worth checking out for a satisfying experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +442,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

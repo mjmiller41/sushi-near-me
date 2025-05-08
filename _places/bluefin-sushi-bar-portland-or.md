@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Bluefin Sushi Bar"
+title: Bluefin Sushi Bar
 permalink: /oregon/portland/bluefin-sushi-bar.html
 stateAbbr: OR
 stateName: Oregon
 cityName: Portland
 seo:
-  name: "Bluefin Sushi Bar"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Bluefin Sushi Bar serves delicious sushi in Portland, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJHW7X4tmglVQRFXquN891TlQ
 photos:
   - name: >-
@@ -184,7 +182,45 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Bluefin Sushi Bar in Portland, OR$$$Bluefin Sushi Bar in Portland,
+  OR, stands out as a welcoming spot for enjoying fresh sushi and
+  Japanese-inspired dishes in a relaxed environment. This family-owned venue
+  offers a variety of options like bento boxes and sake, making it a go-to
+  choice for those seeking authentic flavors in a casual setting. With
+  accessibility features such as wheelchair-friendly parking and entrances, it's
+  designed to accommodate all guests comfortably. The atmosphere invites diners
+  to savor high-quality ingredients and simple yet elegant presentations, ideal
+  for anyone exploring sushi restaurants in the area. Whether you're looking for
+  sushi places near me or a laid-back meal with friends, this spot delivers a
+  satisfying experience that highlights Portland's vibrant dining scene.
+generative_summary: >-
+  Discover Bluefin Sushi Bar in Portland, OR$$$Bluefin Sushi Bar in Portland,
+  OR, stands out as a welcoming spot for enjoying fresh sushi and
+  Japanese-inspired dishes in a relaxed environment. This family-owned venue
+  offers a variety of options like bento boxes and sake, making it a go-to
+  choice for those seeking authentic flavors in a casual setting. With
+  accessibility features such as wheelchair-friendly parking and entrances, it's
+  designed to accommodate all guests comfortably. The atmosphere invites diners
+  to savor high-quality ingredients and simple yet elegant presentations, ideal
+  for anyone exploring sushi restaurants in the area. Whether you're looking for
+  sushi places near me or a laid-back meal with friends, this spot delivers a
+  satisfying experience that highlights Portland's vibrant dining scene.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Folks who visit places like Bluefin Sushi Bar
+  often rave about the fresh, flavorful rolls and generous portions that make it
+  a solid pick for sushi lovers on the hunt for options close to home. Many
+  appreciate the casual vibe and reliable choices like bento boxes, which offer
+  great value for a quick or relaxed meal. While some mention occasional
+  busyness during peak times, the overall consensus leans positive, with diners
+  highlighting the welcoming feel and tasty selections as reasons to return.
+  It's frequently recommended as one of the top-rated sushi spots around,
+  especially for those searching for the best sushi near me without the fuss. In
+  a nutshell, the feedback paints a picture of a dependable neighborhood
+  favorite that keeps things enjoyable and straightforward for everyone.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +246,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Hokkaido Ramen House"
+title: Hokkaido Ramen House
 permalink: /georgia/dacula/hokkaido-ramen-house.html
 stateAbbr: GA
 stateName: Georgia
 cityName: Dacula
 seo:
-  name: "Hokkaido Ramen House"
-  type: Restaurant
-  links: null
-description: "Hokkaido Ramen House serves delicious sushi in Dacula, Georgia. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://hokkaidodacula.com/
 place_id: ChIJlf9eGQDr9YgRbpOz2ztFE7M
 photos:
   - name: >-
@@ -170,8 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x88f5eb00195eff95:0xb313453bdbb3936e!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 10:00 PM'
+    - 'Tuesday: Closed'
+    - 'Wednesday: 11:00 AM – 10:00 PM'
+    - 'Thursday: 11:00 AM – 10:00 PM'
+    - 'Friday: 11:00 AM – 10:30 PM'
+    - 'Saturday: 11:00 AM – 10:30 PM'
+    - 'Sunday: 11:00 AM – 10:00 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +234,49 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (678) 469-3995
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.6'
+rating_count: 224
+website: http://hokkaidodacula.com/
+description: >-
+  Explore Hokkaido Ramen House in Dacula, GA$$$Hokkaido Ramen House in Dacula,
+  GA, offers a welcoming spot for enjoying authentic Japanese flavors, featuring
+  a variety of hearty ramen bowls and fresh sushi options that highlight the
+  region's culinary traditions. This casual eatery stands out with its
+  comfortable atmosphere and accessibility features, making it easy for everyone
+  to savor a meal in a relaxed setting. Patrons can explore an array of dishes
+  that pair well with beverages from the full bar, providing a satisfying dining
+  experience at moderate prices. Whether you're craving comforting noodles or
+  creative rolls, this spot delivers on taste and variety, ideal for those
+  seeking Japanese places near me in a vibrant local scene.
+generative_summary: >-
+  Explore Hokkaido Ramen House in Dacula, GA$$$Hokkaido Ramen House in Dacula,
+  GA, offers a welcoming spot for enjoying authentic Japanese flavors, featuring
+  a variety of hearty ramen bowls and fresh sushi options that highlight the
+  region's culinary traditions. This casual eatery stands out with its
+  comfortable atmosphere and accessibility features, making it easy for everyone
+  to savor a meal in a relaxed setting. Patrons can explore an array of dishes
+  that pair well with beverages from the full bar, providing a satisfying dining
+  experience at moderate prices. Whether you're craving comforting noodles or
+  creative rolls, this spot delivers on taste and variety, ideal for those
+  seeking Japanese places near me in a vibrant local scene.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Favorites and Vibes$$$Folks rave about the tasty offerings at this
+  Japanese spot, particularly the flavorful spicy beef ramen and bang bang
+  shrimp that keep diners coming back for more. Many highlight the fresh sushi
+  rolls as a standout choice, praising the overall quality and variety that make
+  it a go-to for sushi enthusiasts. The friendly service and cozy atmosphere add
+  to the appeal, creating a pleasant environment for casual meals with friends
+  or family. While opinions are generally positive, it's clear that the
+  combination of solid food and attentive staff makes this place a reliable pick
+  for anyone searching for top-rated sushi nearby. Overall, it's a welcoming
+  destination that honestly delivers on flavor and comfort without any major
+  drawbacks.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +302,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -5,4 +5,5 @@ permalink: /new-york/latham/
 stateAbbr: NY
 stateName: New York
 cityName: Latham
+
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi on Oracle"
+title: Sushi on Oracle
 permalink: /arizona/tucson/sushi-on-oracle.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Tucson
 seo:
-  name: "Sushi on Oracle"
-  type: Restaurant
+  type: restaurant
   links: https://www.sushionoracletucson.com/
-description: "Sushi on Oracle serves delicious sushi in Tucson, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJVQb5yGxz1oYR_Fm911G7QKk
 photos:
   - name: >-
@@ -170,7 +168,97 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x86d6736cc8f90655:0xa940bb51d7bd59fc!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 16
+        minute: 30
+      close:
+        day: 0
+        hour: 20
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 20
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 20
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 20
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 14
+        minute: 30
+    - open:
+        day: 6
+        hour: 16
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:30 AM – 2:00 PM, 4:30 – 8:00 PM'
     - 'Wednesday: 11:30 AM – 2:00 PM, 4:30 – 8:00 PM'
@@ -178,14 +266,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 2:00 PM, 4:30 – 9:00 PM'
     - 'Saturday: 12:00 – 2:30 PM, 4:30 – 9:00 PM'
     - 'Sunday: 4:30 – 8:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:30 AM – 2:00 PM, 4:30 – 8:00 PM'
-    - 'Wednesday: 11:30 AM – 2:00 PM, 4:30 – 8:00 PM'
-    - 'Thursday: 11:30 AM – 2:00 PM, 4:30 – 8:00 PM'
-    - 'Friday: 11:30 AM – 2:00 PM, 4:30 – 9:00 PM'
-    - 'Saturday: 12:00 – 2:30 PM, 4:30 – 9:00 PM'
-    - 'Sunday: 4:30 – 8:00 PM'
+  nextOpenTime: '2025-05-03T23:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +278,240 @@ phone: (520) 297-3615
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.5'
-rating_count: 0
+rating_count: 672
 website: https://www.sushionoracletucson.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Sushi on Oracle in Tucson, AZ$$$Sushi on Oracle in Tucson, AZ, stands
+  out as a welcoming Japanese eatery specializing in fresh, made-to-order sushi
+  rolls that highlight the best of authentic flavors. This spot offers a casual
+  and comfortable atmosphere, perfect for enjoying a variety of dishes in a
+  relaxed setting, with thoughtful touches like high chairs for families.
+  Patrons appreciate the accessibility features, including wheelchair-friendly
+  parking and seating, making it an inclusive choice for everyone. The menu
+  emphasizes high-quality ingredients and a range of options, from classic rolls
+  to hearty entrees, ideal for those seeking top sushi restaurants in the area.
+  Whether you're exploring sushi places near me or looking for a reliable
+  dine-in experience, this location delivers on both taste and convenience.
+generative_summary: >-
+  Discover Sushi on Oracle in Tucson, AZ$$$Sushi on Oracle in Tucson, AZ, stands
+  out as a welcoming Japanese eatery specializing in fresh, made-to-order sushi
+  rolls that highlight the best of authentic flavors. This spot offers a casual
+  and comfortable atmosphere, perfect for enjoying a variety of dishes in a
+  relaxed setting, with thoughtful touches like high chairs for families.
+  Patrons appreciate the accessibility features, including wheelchair-friendly
+  parking and seating, making it an inclusive choice for everyone. The menu
+  emphasizes high-quality ingredients and a range of options, from classic rolls
+  to hearty entrees, ideal for those seeking top sushi restaurants in the area.
+  Whether you're exploring sushi places near me or looking for a reliable
+  dine-in experience, this location delivers on both taste and convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJVQb5yGxz1oYR_Fm911G7QKk/reviews/ChdDSUhNMG9nS0VJQ0FnSUNYdGU3VzB3RRAB
+    relativePublishTimeDescription: 6 months ago
+    rating: 5
+    text:
+      text: >-
+        This place was a great sushi spot! We were squeezed in right before a
+        wait list started and they were seriously on top of drink refills. Rare
+        thing. Sushi was so yummy. We tried the wagyu beef as well and it was
+        out of this world good. The rolls we had were happy crab (my favorite),
+        dynamite, and spicy tuna. All wonderful. We will come back and bring our
+        friends next time!
+      languageCode: en
+    originalText:
+      text: >-
+        This place was a great sushi spot! We were squeezed in right before a
+        wait list started and they were seriously on top of drink refills. Rare
+        thing. Sushi was so yummy. We tried the wagyu beef as well and it was
+        out of this world good. The rolls we had were happy crab (my favorite),
+        dynamite, and spicy tuna. All wonderful. We will come back and bring our
+        friends next time!
+      languageCode: en
+    authorAttribution:
+      displayName: Kelly Brace
+      uri: https://www.google.com/maps/contrib/114746717909023634837/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWN5BW4nO59bMK1_ATM3KYPnfjn9ru-d45N4nIQFD4plNDatKDd=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-10-19T03:33:40.503158Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNYdGU3VzB3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNYdGU3VzB3RRAB!2m1!1s0x86d6736cc8f90655:0xa940bb51d7bd59fc
+  - name: >-
+      places/ChIJVQb5yGxz1oYR_Fm911G7QKk/reviews/ChdDSUhNMG9nS0VJQ0FnSUNicE9YSjRBRRAB
+    relativePublishTimeDescription: 9 months ago
+    rating: 5
+    text:
+      text: >-
+        First time here.
+
+
+        We went on the recommendation of my friend.  She said it was, in her
+        opinion, the best in town (personally, I still like O Sushi on Swan and
+        Speedway better, but that's me).  Everything here tasted fresh, service
+        was good, no issues.  Kind of a hole in the wall joint, decent easterly
+        views out the front door and windows.
+      languageCode: en
+    originalText:
+      text: >-
+        First time here.
+
+
+        We went on the recommendation of my friend.  She said it was, in her
+        opinion, the best in town (personally, I still like O Sushi on Swan and
+        Speedway better, but that's me).  Everything here tasted fresh, service
+        was good, no issues.  Kind of a hole in the wall joint, decent easterly
+        views out the front door and windows.
+      languageCode: en
+    authorAttribution:
+      displayName: Tod Persellin
+      uri: https://www.google.com/maps/contrib/117662770398595276110/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWU5q-qNO0OYugsQB6nJ0JAol2iis0FkfJPKXIebEcoLOQxN1j5=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2024-07-23T14:15:34.173650Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNicE9YSjRBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNicE9YSjRBRRAB!2m1!1s0x86d6736cc8f90655:0xa940bb51d7bd59fc
+  - name: >-
+      places/ChIJVQb5yGxz1oYR_Fm911G7QKk/reviews/ChZDSUhNMG9nS0VJQ0FnTUNneHBXemZREAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        We are regular customers of Sushi on Oracle. The staff is very friendly,
+        and their food is delicious and high-quality. On Valentine’s Day Friday
+        night, they were extremely busy, with a full house as usual and a
+        significantly higher number of takeout orders than usual. The chefs and
+        service staff were very professional and efficient. We were amazed at
+        how many customers they served in such a short time. Although we waited
+        a bit longer, it was a special weekend, and our food was still
+        absolutely delicious. We enjoyed the dining atmosphere and truly
+        appreciate their hard work and dedication.
+      languageCode: en
+    originalText:
+      text: >-
+        We are regular customers of Sushi on Oracle. The staff is very friendly,
+        and their food is delicious and high-quality. On Valentine’s Day Friday
+        night, they were extremely busy, with a full house as usual and a
+        significantly higher number of takeout orders than usual. The chefs and
+        service staff were very professional and efficient. We were amazed at
+        how many customers they served in such a short time. Although we waited
+        a bit longer, it was a special weekend, and our food was still
+        absolutely delicious. We enjoyed the dining atmosphere and truly
+        appreciate their hard work and dedication.
+      languageCode: en
+    authorAttribution:
+      displayName: Cookie Cream
+      uri: https://www.google.com/maps/contrib/100176056355055645786/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWmaPH1VqCxE8kvmOGuV1mHS6X1zyrMw6NBhXyf5875cbVwGUI=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-02-16T16:42:04.384648Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNneHBXemZREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNneHBXemZREAE!2m1!1s0x86d6736cc8f90655:0xa940bb51d7bd59fc
+  - name: >-
+      places/ChIJVQb5yGxz1oYR_Fm911G7QKk/reviews/ChdDSUhNMG9nS0VJQ0FnTURRcElYTzRBRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        We got absolutely wasted on sake and had a Time Of Our Lives eating some
+        very delicious sushi
+      languageCode: en
+    originalText:
+      text: >-
+        We got absolutely wasted on sake and had a Time Of Our Lives eating some
+        very delicious sushi
+      languageCode: en
+    authorAttribution:
+      displayName: Kora Delta
+      uri: https://www.google.com/maps/contrib/109096173001776361849/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVopGAKNKp9MzWkXTYvQz4UFvB6K3v6dw0JZJBuWErbXjsmK0SY9Q=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-03-09T02:00:59.642705Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURRcElYTzRBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURRcElYTzRBRRAB!2m1!1s0x86d6736cc8f90655:0xa940bb51d7bd59fc
+  - name: >-
+      places/ChIJVQb5yGxz1oYR_Fm911G7QKk/reviews/ChZDSUhNMG9nS0VJQ0FnSUREaDRiM1J3EAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        This was my first time here, and I would definitely come back. The
+        people working were friendly, atte tive, spoke Japanese ( dont usually
+        see that in Tucson) and the food was really good. I would definitely
+        recommend them to anyone that wants sushi.
+      languageCode: en
+    originalText:
+      text: >-
+        This was my first time here, and I would definitely come back. The
+        people working were friendly, atte tive, spoke Japanese ( dont usually
+        see that in Tucson) and the food was really good. I would definitely
+        recommend them to anyone that wants sushi.
+      languageCode: en
+    authorAttribution:
+      displayName: Joel Ketchum
+      uri: https://www.google.com/maps/contrib/108096937758837134588/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLOuLKjLh70PkdBPmWsHqjQ53TsNzGOXaAfayoyyEdNPd-hmw=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2024-04-14T23:14:33.736969Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUREaDRiM1J3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUREaDRiM1J3EAE!2m1!1s0x86d6736cc8f90655:0xa940bb51d7bd59fc
+review_summary: >-
+  What Visitors Love About This Tucson Sushi Spot$$$Visitors often praise the
+  fresh and flavorful sushi rolls at this popular eatery, noting how the variety
+  keeps things exciting for repeat trips. Many highlight the efficient service
+  and welcoming vibe, even during busy times, which adds to the overall
+  enjoyment without any major hiccups. Folks appreciate the quality ingredients
+  and generous portions that make meals feel satisfying and worthwhile, with
+  specials like beef dishes standing out as crowd-pleasers. While waits can
+  happen on peak nights, the consensus is that it's a solid pick for anyone
+  craving reliable Japanese cuisine, earning it high marks for consistency and
+  taste. If you're on the hunt for best sushi near me, this place delivers a
+  genuinely positive experience that's worth checking out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
+delivery: false
+dine_in: true
 good_for_children: null
 good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: false
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Family-owned Japanese eatery serving made-to-order sushi dishes & more in a
+  comfy atmosphere.
 
 ---

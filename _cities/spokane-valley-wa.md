@@ -5,4 +5,5 @@ permalink: /washington/spokane-valley/
 stateAbbr: WA
 stateName: Washington
 cityName: Spokane Valley
+
 ---

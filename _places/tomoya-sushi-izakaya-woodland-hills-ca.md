@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Tomoya Sushi & Izakaya"
+title: Tomoya Sushi & Izakaya
 permalink: /california/woodland-hills/tomoya-sushi-izakaya.html
 stateAbbr: CA
 stateName: California
 cityName: Woodland Hills
 seo:
-  name: "Tomoya Sushi & Izakaya"
-  type: Restaurant
+  type: restaurant
   links: https://tomoyausa.com/?utm_source=google
-description: "Lively, modern eatery featuring an extensive menu of creative sushi, cooked Japanese fare & sake. Tomoya Sushi & Izakaya serves delicious sushi in Woodland Hills, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJecApyqaewoARvLHyyK-qNnU
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $30 &ndash; $50
 rating: '4.1'
 rating_count: 0
 website: https://tomoyausa.com/?utm_source=google
+description: >-
+  Explore Tomoya Sushi & Izakaya in Woodland Hills, CA$$$Tomoya Sushi & Izakaya
+  in Woodland Hills, CA, stands out as a lively hub for fresh Japanese dining,
+  offering an array of creative sushi rolls and flavorful cooked dishes that
+  appeal to sushi enthusiasts near you. This modern eatery boasts an extensive
+  menu featuring innovative options like riceless rolls and sake pairings,
+  making it a go-to spot for those seeking top-rated sushi in a welcoming
+  atmosphere. With convenient accessibility features and outdoor seating, it's
+  ideal for casual meals or groups looking to enjoy authentic flavors without
+  the hassle. The spot also shines with its moderate pricing and variety of
+  vegetarian choices, ensuring there's something for everyone exploring Japanese
+  places in the area.
+generative_summary: >-
+  Explore Tomoya Sushi & Izakaya in Woodland Hills, CA$$$Tomoya Sushi & Izakaya
+  in Woodland Hills, CA, stands out as a lively hub for fresh Japanese dining,
+  offering an array of creative sushi rolls and flavorful cooked dishes that
+  appeal to sushi enthusiasts near you. This modern eatery boasts an extensive
+  menu featuring innovative options like riceless rolls and sake pairings,
+  making it a go-to spot for those seeking top-rated sushi in a welcoming
+  atmosphere. With convenient accessibility features and outdoor seating, it's
+  ideal for casual meals or groups looking to enjoy authentic flavors without
+  the hassle. The spot also shines with its moderate pricing and variety of
+  vegetarian choices, ensuring there's something for everyone exploring Japanese
+  places in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJecApyqaewoARvLHyyK-qNnU/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfa0lIc2hBRRAB
@@ -374,6 +397,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNfcl82T2JREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNfcl82T2JREAE!2m1!1s0x80c29ea6ca29c079:0x7536aaafc8f2b1bc
+review_summary: >-
+  What Folks Are Saying About the Experience$$$Visitors often rave about the
+  fresh and creative sushi rolls that make this spot a standout for anyone
+  craving quality Japanese fare, with many highlighting the delicious variety
+  and solid portions that keep things satisfying. While the service can
+  occasionally feel a bit uneven, most agree that the friendly staff and quick
+  delivery of dishes add to the overall fun vibe, especially for groups or
+  families stopping by. People appreciate the cozy ambiance and affordable
+  pricing, noting it's a great pick for casual dinners or trying new flavors
+  without breaking the bank. Overall, the consensus leans positive, with diners
+  frequently recommending it as one of the best sushi restaurants nearby for its
+  tasty options and welcoming feel, though keeping an eye on service could make
+  it even better.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -406,8 +443,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Lively, modern eatery featuring an extensive menu of creative sushi, cooked
   Japanese fare & sake.
 

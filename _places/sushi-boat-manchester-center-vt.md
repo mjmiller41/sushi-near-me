@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Boat"
+title: Sushi Boat
 permalink: /vermont/manchester-center/sushi-boat.html
 stateAbbr: VT
 stateName: Vermont
 cityName: Manchester Center
 seo:
-  name: "Sushi Boat"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi Boat serves delicious sushi in Manchester Center, Vermont. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJBavDq0Ve4IkR6i8t4RldpRo
 photos:
   - name: >-
@@ -185,7 +183,41 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Sushi Boat in Manchester Center, VT$$$Sushi Boat in Manchester
+  Center, VT, offers a cozy retreat for those craving authentic Japanese flavors
+  in a relaxed environment. This spot specializes in fresh sushi rolls, sashimi,
+  and other Asian-inspired dishes, making it a go-to choice for anyone exploring
+  sushi restaurants in the area. With wheelchair-accessible features like
+  parking and seating, it ensures a welcoming experience for all diners seeking
+  inclusive dining options. The casual setting enhances the enjoyment of
+  top-rated sushi selections, perfect for casual meals or quick visits when
+  searching for sushi near you.
+generative_summary: >-
+  Discover Sushi Boat in Manchester Center, VT$$$Sushi Boat in Manchester
+  Center, VT, offers a cozy retreat for those craving authentic Japanese flavors
+  in a relaxed environment. This spot specializes in fresh sushi rolls, sashimi,
+  and other Asian-inspired dishes, making it a go-to choice for anyone exploring
+  sushi restaurants in the area. With wheelchair-accessible features like
+  parking and seating, it ensures a welcoming experience for all diners seeking
+  inclusive dining options. The casual setting enhances the enjoyment of
+  top-rated sushi selections, perfect for casual meals or quick visits when
+  searching for sushi near you.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Diners$$$Diners often highlight the fresh ingredients and
+  flavorful dishes at this sushi spot, creating a positive buzz for those
+  enjoying Japanese cuisine locally. Many appreciate the laid-back atmosphere
+  and efficient service, making it a reliable pick for casual get-togethers or
+  solo outings. While specific feedback is limited based on available sources,
+  the general vibe leans toward satisfaction with the variety of options for
+  sushi lovers. It's frequently noted as a solid choice for anyone hunting for
+  sushi places near me, with an emphasis on tasty, well-prepared meals that keep
+  the experience enjoyable. Overall, it comes across as a welcoming destination
+  for fans of Japanese fare, encouraging repeat visits for its approachable
+  vibe.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +243,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

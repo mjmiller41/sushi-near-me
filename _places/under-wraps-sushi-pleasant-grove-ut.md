@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Under Wraps Sushi"
+title: Under Wraps Sushi
 permalink: /utah/pleasant-grove/under-wraps-sushi.html
 stateAbbr: UT
 stateName: Utah
 cityName: Pleasant Grove
 seo:
-  name: "Under Wraps Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://underwrapssushi.com/
-description: "Under Wraps Sushi serves delicious sushi in Pleasant Grove, Utah. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJCaEzQVODTYcRxdDBoSWgNLs
 photos:
   - name: >-
@@ -170,7 +168,81 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x874d83534133a109:0xbb34a025a1c1d0c5!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:00 AM – 2:00 PM, 5:00 – 9:00 PM'
     - 'Wednesday: 11:00 AM – 2:00 PM, 5:00 – 9:00 PM'
@@ -178,14 +250,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 2:00 PM, 5:00 – 9:00 PM'
     - 'Saturday: 5:00 – 9:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:00 AM – 2:00 PM, 5:00 – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 2:00 PM, 5:00 – 9:00 PM'
-    - 'Thursday: 11:00 AM – 2:00 PM, 5:00 – 9:00 PM'
-    - 'Friday: 11:00 AM – 2:00 PM, 5:00 – 9:00 PM'
-    - 'Saturday: 5:00 – 9:00 PM'
-    - 'Sunday: Closed'
+  nextOpenTime: '2025-05-03T23:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +262,303 @@ phone: (801) 854-5070
 price_level: null
 price_range: $20 &ndash; $30
 rating: '4.7'
-rating_count: 0
+rating_count: 508
 website: http://underwrapssushi.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Under Wraps Sushi in Pleasant Grove, UT$$$Under Wraps Sushi in
+  Pleasant Grove, UT, offers a welcoming retreat for those seeking authentic
+  Japanese flavors and innovative twists on classic dishes. This spot stands out
+  with its relaxed atmosphere, featuring creative sushi rolls crafted from fresh
+  ingredients, alongside a selection of beverages like beer, wine, and sake to
+  complement your meal. Patrons can enjoy a variety of traditional Japanese
+  options that highlight quality and taste, making it a go-to choice for sushi
+  enthusiasts exploring local dining scenes. The restaurant's accessibility
+  features and convenient parking add to the ease of visiting, ensuring a
+  comfortable experience for all. With its focus on fresh, flavorful
+  preparations, it's an ideal destination for anyone searching for top-rated
+  sushi options nearby.
+generative_summary: >-
+  Discover Under Wraps Sushi in Pleasant Grove, UT$$$Under Wraps Sushi in
+  Pleasant Grove, UT, offers a welcoming retreat for those seeking authentic
+  Japanese flavors and innovative twists on classic dishes. This spot stands out
+  with its relaxed atmosphere, featuring creative sushi rolls crafted from fresh
+  ingredients, alongside a selection of beverages like beer, wine, and sake to
+  complement your meal. Patrons can enjoy a variety of traditional Japanese
+  options that highlight quality and taste, making it a go-to choice for sushi
+  enthusiasts exploring local dining scenes. The restaurant's accessibility
+  features and convenient parking add to the ease of visiting, ensuring a
+  comfortable experience for all. With its focus on fresh, flavorful
+  preparations, it's an ideal destination for anyone searching for top-rated
+  sushi options nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJCaEzQVODTYcRxdDBoSWgNLs/reviews/ChZDSUhNMG9nS0VJQ0FnTURJbTRydmJBEAE
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        This place is amazing. Pricey, yes. But it has become one of our
+        favorites.
+
+        We had a couple mocktails. A pina-con-nada and a Lychee drink with
+        hibiscus, I can't remember the name. But they were sweet, but not too
+        sweet..so they were refreshing.
+
+        The sushi was amazing. We did the nigiri salmon with chili crisp, it was
+        packed with flavor! and the Unagi (eel) melted in our mouth. Wow!
+
+        We did the ahi tuna salad which has tons of fresh veggies And a dressing
+        that we weren't sure what it was. But it was delicious.
+
+        We also tried the pork belly lettuce cups.
+
+        They were amazing! Crispy, smokey and saucy. We loved it with the
+        pickled onions.
+
+        Service was great. Place is quiet and we loved the theme and vibes.
+        Anime art, Ghibli moving playing on the big screen and the place was
+        just quiet and chill. Even with all the people around .
+
+        Plenty of parking. Definitely go check this place out. It is a bit
+        pricey. But the quality/experience is worth it.
+      languageCode: en
+    originalText:
+      text: >-
+        This place is amazing. Pricey, yes. But it has become one of our
+        favorites.
+
+        We had a couple mocktails. A pina-con-nada and a Lychee drink with
+        hibiscus, I can't remember the name. But they were sweet, but not too
+        sweet..so they were refreshing.
+
+        The sushi was amazing. We did the nigiri salmon with chili crisp, it was
+        packed with flavor! and the Unagi (eel) melted in our mouth. Wow!
+
+        We did the ahi tuna salad which has tons of fresh veggies And a dressing
+        that we weren't sure what it was. But it was delicious.
+
+        We also tried the pork belly lettuce cups.
+
+        They were amazing! Crispy, smokey and saucy. We loved it with the
+        pickled onions.
+
+        Service was great. Place is quiet and we loved the theme and vibes.
+        Anime art, Ghibli moving playing on the big screen and the place was
+        just quiet and chill. Even with all the people around .
+
+        Plenty of parking. Definitely go check this place out. It is a bit
+        pricey. But the quality/experience is worth it.
+      languageCode: en
+    authorAttribution:
+      displayName: melialvarez23
+      uri: https://www.google.com/maps/contrib/107285792122580028761/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVvjWJkvg_rycZOYdHDEuOIk14LCheKY_9DAiAkO6RFcwvxunYj=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-04-13T06:32:55.806951Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURJbTRydmJBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJbTRydmJBEAE!2m1!1s0x874d83534133a109:0xbb34a025a1c1d0c5
+  - name: >-
+      places/ChIJCaEzQVODTYcRxdDBoSWgNLs/reviews/ChZDSUhNMG9nS0VJQ0FnSUNuaUx6WUFnEAE
+    relativePublishTimeDescription: 7 months ago
+    rating: 5
+    text:
+      text: >-
+        I went to a special Studio Ghibli Spirited Away themed dinner. It was 9
+        courses of absolutely sensational food from the movie! For those not
+        familiar with the film, food plays a central role in the story. They
+        played it on a projector and like clockwork, every time there was food
+        on screen they brought out that dish for us to eat! The staff were all
+        excellent. It was my understanding that two of the three servers were
+        new and they did awesome. The host, Skyler, was friendly and gregarious.
+        The chef knew what he was doing, incredible food! All in all, an amazing
+        experience, 100 out of 10 would recommend.
+      languageCode: en
+    originalText:
+      text: >-
+        I went to a special Studio Ghibli Spirited Away themed dinner. It was 9
+        courses of absolutely sensational food from the movie! For those not
+        familiar with the film, food plays a central role in the story. They
+        played it on a projector and like clockwork, every time there was food
+        on screen they brought out that dish for us to eat! The staff were all
+        excellent. It was my understanding that two of the three servers were
+        new and they did awesome. The host, Skyler, was friendly and gregarious.
+        The chef knew what he was doing, incredible food! All in all, an amazing
+        experience, 100 out of 10 would recommend.
+      languageCode: en
+    authorAttribution:
+      displayName: D
+      uri: https://www.google.com/maps/contrib/108527502065444302954/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUCHPuGFcF7lhTHnGbbUvq_zsS61CHt6SD3eoCJoE3q7944lKCevQ=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-09-22T04:30:37.635178Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNuaUx6WUFnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNuaUx6WUFnEAE!2m1!1s0x874d83534133a109:0xbb34a025a1c1d0c5
+  - name: >-
+      places/ChIJCaEzQVODTYcRxdDBoSWgNLs/reviews/ChZDSUhNMG9nS0VJQ0FnSUNfLVBpb1pnEAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 4
+    text:
+      text: >-
+        Fun for a different experience, I wasn't sure what to expect to be
+        honest! Plates shown so you can see the price per plate since that
+        appears to be a common complaint. We started eating the salmon sashimi
+        before I remembered a photo so that's not a great representation of what
+        you'll get but you get the idea. We also ordered a few tuna rolls, a
+        scallop roll, and tuna sashimi- all not pictured. Their rolls are shaped
+        like half of a regular sushi roll but just not cut, to give you an idea!
+
+
+        We are sashimi lovers so this was a different experience but fun for the
+        concept. We spent about $65/person including 1 drink (sake flight) and
+        left satisfied, adding this since some people said they've left hungry.
+        All in all we had a fun experience and Chef Hannah was lovely to chat
+        with! Thank you!
+      languageCode: en
+    originalText:
+      text: >-
+        Fun for a different experience, I wasn't sure what to expect to be
+        honest! Plates shown so you can see the price per plate since that
+        appears to be a common complaint. We started eating the salmon sashimi
+        before I remembered a photo so that's not a great representation of what
+        you'll get but you get the idea. We also ordered a few tuna rolls, a
+        scallop roll, and tuna sashimi- all not pictured. Their rolls are shaped
+        like half of a regular sushi roll but just not cut, to give you an idea!
+
+
+        We are sashimi lovers so this was a different experience but fun for the
+        concept. We spent about $65/person including 1 drink (sake flight) and
+        left satisfied, adding this since some people said they've left hungry.
+        All in all we had a fun experience and Chef Hannah was lovely to chat
+        with! Thank you!
+      languageCode: en
+    authorAttribution:
+      displayName: Randi Snarr
+      uri: https://www.google.com/maps/contrib/115213738655759638313/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWzNXBu3dtFKc3_tFbo0BhfhfShlr7Rezm9Pvq60RODs91M6VcMoA=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-01-12T18:14:32.972199Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNfLVBpb1pnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNfLVBpb1pnEAE!2m1!1s0x874d83534133a109:0xbb34a025a1c1d0c5
+  - name: >-
+      places/ChIJCaEzQVODTYcRxdDBoSWgNLs/reviews/ChZDSUhNMG9nS0VJQ0FnSURuN3FMdlJnEAE
+    relativePublishTimeDescription: 6 months ago
+    rating: 5
+    text:
+      text: >-
+        Under wraps was a refreshing sushi experience, especially for here in
+        Utah.
+
+        Skyler, the owner is who served me and he was amazing. I asked him to
+        just order for me and he did and amazing job. Everything had amazing
+        flavor and you could tell was made from high quality ingredients.
+
+
+        I would tell you my favorites from the menu but it would just be too
+        hard to decide!
+      languageCode: en
+    originalText:
+      text: >-
+        Under wraps was a refreshing sushi experience, especially for here in
+        Utah.
+
+        Skyler, the owner is who served me and he was amazing. I asked him to
+        just order for me and he did and amazing job. Everything had amazing
+        flavor and you could tell was made from high quality ingredients.
+
+
+        I would tell you my favorites from the menu but it would just be too
+        hard to decide!
+      languageCode: en
+    authorAttribution:
+      displayName: dodge poelman
+      uri: https://www.google.com/maps/contrib/109243707595284250539/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVw5Msfzz4oMSxt7gc7ourvfCSqnjrkc2FPwzZtWaZ8YhqrFVxG=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-10-06T02:29:39.460857Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURuN3FMdlJnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURuN3FMdlJnEAE!2m1!1s0x874d83534133a109:0xbb34a025a1c1d0c5
+  - name: >-
+      places/ChIJCaEzQVODTYcRxdDBoSWgNLs/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRb04zLWJREAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        This is the best sushi place in Utah. The fish is all super fresh.
+        Simple option highlight the fish and sauce combos. Fantastic service
+        from tanner who felt with our group of 10. Love the vibe and will be
+        back frequently.
+      languageCode: en
+    originalText:
+      text: >-
+        This is the best sushi place in Utah. The fish is all super fresh.
+        Simple option highlight the fish and sauce combos. Fantastic service
+        from tanner who felt with our group of 10. Love the vibe and will be
+        back frequently.
+      languageCode: en
+    authorAttribution:
+      displayName: Josh Pugmire
+      uri: https://www.google.com/maps/contrib/109178722318406681714/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXsJ-NGC4GROTRjU4IiRWYqXmvWK2YvbMFLuheOahkdEcRCiBbh=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-03-01T03:51:46.335305Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNRb04zLWJREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNRb04zLWJREAE!2m1!1s0x874d83534133a109:0xbb34a025a1c1d0c5
+review_summary: >-
+  What Customers Love About This Sushi Spot$$$Feedback from visitors highlights
+  the delicious and fresh sushi rolls that bring bold flavors to the table,
+  often leaving diners feeling satisfied and impressed. Many appreciate the fun,
+  anime-inspired vibe that creates a casual and enjoyable setting, perfect for
+  groups or a relaxed night out. While some note that prices lean toward the
+  higher end, the overall consensus is that the quality of ingredients and
+  creative dishes make it well worth the cost. People frequently praise the
+  friendly service and unique menu items like hand rolls and salads, which add
+  to the memorable experience. Overall, this spot comes across as a reliable
+  favorite for those craving the best sushi in the area, with its welcoming
+  atmosphere encouraging repeat visits.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: true
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

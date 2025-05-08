@@ -5,4 +5,5 @@ permalink: /illinois/buffalo-grove/
 stateAbbr: IL
 stateName: Illinois
 cityName: Buffalo Grove
+
 ---

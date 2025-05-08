@@ -5,4 +5,5 @@ permalink: /wisconsin/appleton/
 stateAbbr: WI
 stateName: Wisconsin
 cityName: Appleton
+
 ---

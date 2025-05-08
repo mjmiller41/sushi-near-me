@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Moko"
+title: Moko
 permalink: /new-york/new-york/moko.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "Moko"
-  type: Restaurant
+  type: restaurant
   links: http://mokonyc.com/
-description: "Moko serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for, delivery, lunch, and dinner."
 place_id: ChIJKcTI8OxZwokRtK-tImLBAcc
 photos:
   - name: >-
@@ -182,6 +180,31 @@ price_range: $50 &ndash; $100
 rating: '4.4'
 rating_count: 0
 website: http://mokonyc.com/
+description: >-
+  Discover Moko in New York, NY$$$Nestled in the heart of New York, NY, Moko
+  stands out as a premier sushi destination, offering a sophisticated dining
+  experience with ingredients sourced fresh from Japan. This high-end spot in
+  the East Village emphasizes quality and authenticity, featuring expertly
+  crafted dishes that highlight the finest seafood and traditional techniques.
+  Diners can enjoy a relaxed omakase-style meal, where the focus is on fresh,
+  daily-arrived flavors that elevate every bite. Whether you're searching for
+  top-rated sushi near you or exploring Japanese-inspired places in the bustling
+  city, Moko delivers an intimate atmosphere that combines elegance with
+  approachable vibes. Its commitment to fresh imports makes it a go-to choice
+  for those seeking authentic sushi experiences close to home.
+generative_summary: >-
+  Discover Moko in New York, NY$$$Nestled in the heart of New York, NY, Moko
+  stands out as a premier sushi destination, offering a sophisticated dining
+  experience with ingredients sourced fresh from Japan. This high-end spot in
+  the East Village emphasizes quality and authenticity, featuring expertly
+  crafted dishes that highlight the finest seafood and traditional techniques.
+  Diners can enjoy a relaxed omakase-style meal, where the focus is on fresh,
+  daily-arrived flavors that elevate every bite. Whether you're searching for
+  top-rated sushi near you or exploring Japanese-inspired places in the bustling
+  city, Moko delivers an intimate atmosphere that combines elegance with
+  approachable vibes. Its commitment to fresh imports makes it a go-to choice
+  for those seeking authentic sushi experiences close to home.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJKcTI8OxZwokRtK-tImLBAcc/reviews/ChdDSUhNMG9nS0VJQ0FnSUNma3RUQjRnRRAB
@@ -381,6 +404,21 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURfazlmX2pBRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURfazlmX2pBRRAB!2m1!1s0x89c259ecf0c8c429:0xc701c16222adafb4
+review_summary: >-
+  Insights from Recent Reviews$$$Visitors to this East Village sushi spot often
+  rave about the fresh, high-quality fish that brings a genuine Japanese flair
+  to every plate, making it a solid pick for anyone craving top-rated sushi
+  nearby. Many appreciate the laid-back vibe and the value of the omakase
+  options, noting that the overall experience feels welcoming and worth trying
+  for a casual night out. While some mention occasional waits for service or
+  billing that could use a bit more polish, the general consensus leans toward
+  enjoying the flavorful dishes and affordable pricing that keep things
+  approachable. Overall, it's a great spot for sushi enthusiasts looking for
+  something authentic without the fuss, though a heads-up on details like BYOB
+  policies might enhance the visit. If you're hunting for the best sushi places
+  near me, this location earns praise for its tasty offerings while encouraging
+  diners to plan ahead for a smooth experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
 payment_options:
@@ -409,7 +447,7 @@ serves_lunch: true
 serves_vegetarian_food: false
 serves_wine: true
 takeout: false
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

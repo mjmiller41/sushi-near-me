@@ -5,4 +5,5 @@ permalink: /california/san-bernardino/
 stateAbbr: CA
 stateName: California
 cityName: San Bernardino
+
 ---

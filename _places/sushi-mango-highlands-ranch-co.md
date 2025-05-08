@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Mango"
+title: Sushi Mango
 permalink: /colorado/highlands-ranch/sushi-mango.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Highlands Ranch
 seo:
-  name: "Sushi Mango"
-  type: Restaurant
+  type: restaurant
   links: http://sushi-mango.com/
-description: "Sushi Mango serves delicious sushi in Highlands Ranch, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJA76iZIKDbIcRqFCzH8x6NR0
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x876c838264a2be03:0x1d357acc1fb350a8!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:00 PM'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:00 PM'
     - 'Saturday: 11:00 AM – 10:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:00 AM – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 10:00 PM'
-    - 'Saturday: 11:00 AM – 10:00 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +238,234 @@ phone: (720) 348-0773
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.2'
-rating_count: 0
+rating_count: 358
 website: http://sushi-mango.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Sushi Mango in Highlands Ranch, CO$$$Sushi Mango in Highlands Ranch,
+  CO, stands out as a welcoming spot for Japanese dining enthusiasts, offering a
+  blend of fresh sushi and creative rolls in a sleek, accessible environment.
+  This casual eatery serves up a variety of Japanese fare alongside beer, wine,
+  and cocktails, making it ideal for a relaxed meal with friends or a quick bite
+  after a day out. Patrons can enjoy thoughtfully prepared dishes that highlight
+  quality ingredients, from flavorful hot options to innovative appetizers, all
+  in a setting that's easy to navigate with wheelchair-accessible features. The
+  restaurant's extended hours and outdoor seating add to its appeal for those
+  seeking top sushi experiences in the area, perfect for anyone exploring local
+  Japanese cuisine options.
+generative_summary: >-
+  Discover Sushi Mango in Highlands Ranch, CO$$$Sushi Mango in Highlands Ranch,
+  CO, stands out as a welcoming spot for Japanese dining enthusiasts, offering a
+  blend of fresh sushi and creative rolls in a sleek, accessible environment.
+  This casual eatery serves up a variety of Japanese fare alongside beer, wine,
+  and cocktails, making it ideal for a relaxed meal with friends or a quick bite
+  after a day out. Patrons can enjoy thoughtfully prepared dishes that highlight
+  quality ingredients, from flavorful hot options to innovative appetizers, all
+  in a setting that's easy to navigate with wheelchair-accessible features. The
+  restaurant's extended hours and outdoor seating add to its appeal for those
+  seeking top sushi experiences in the area, perfect for anyone exploring local
+  Japanese cuisine options.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJA76iZIKDbIcRqFCzH8x6NR0/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3aXZmR1pnEAE
+    relativePublishTimeDescription: a month ago
+    rating: 4
+    text:
+      text: >-
+        This place was interesting and the food was pretty good. The shrimp
+        fried rice was good and had a cheesy taste to it. Still not sure if it
+        was cheese. The tuna tower looked small at first but was definitely a
+        bigger meal than anticipated. All in all the sushi and other food was
+        good.
+      languageCode: en
+    originalText:
+      text: >-
+        This place was interesting and the food was pretty good. The shrimp
+        fried rice was good and had a cheesy taste to it. Still not sure if it
+        was cheese. The tuna tower looked small at first but was definitely a
+        bigger meal than anticipated. All in all the sushi and other food was
+        good.
+      languageCode: en
+    authorAttribution:
+      displayName: Rob DLion
+      uri: https://www.google.com/maps/contrib/100895337603000547243/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWRtO_rfKPcu_FxRt9GOtEk6q4Gy-YkBlEtjO58hAsTTJ6fMEUw=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-03-18T00:23:21.549027Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUN3aXZmR1pnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUN3aXZmR1pnEAE!2m1!1s0x876c838264a2be03:0x1d357acc1fb350a8
+  - name: >-
+      places/ChIJA76iZIKDbIcRqFCzH8x6NR0/reviews/ChZDSUhNMG9nS0VJQ0FnSUNmMXYtM0VREAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        Love this place for a quick bite! Very good selection of food. I like
+        their miso soup since they added fresh mushrooms to it! The edamame was
+        quite flavorful!
+      languageCode: en
+    originalText:
+      text: >-
+        Love this place for a quick bite! Very good selection of food. I like
+        their miso soup since they added fresh mushrooms to it! The edamame was
+        quite flavorful!
+      languageCode: en
+    authorAttribution:
+      displayName: Jenn Pfankuch
+      uri: https://www.google.com/maps/contrib/114190947241820048286/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXpBS2kmcfMGkqa75jrF2F90hW5setFqqz5XKhzoXKSTiakRgF4wg=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2024-12-28T21:20:27.183710Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNmMXYtM0VREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNmMXYtM0VREAE!2m1!1s0x876c838264a2be03:0x1d357acc1fb350a8
+  - name: >-
+      places/ChIJA76iZIKDbIcRqFCzH8x6NR0/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3cGF5cGdRRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Love the sushi here. Well seasoned sushi and yummy seaweed salad topped
+        with mango! Delish!
+      languageCode: en
+    originalText:
+      text: >-
+        Love the sushi here. Well seasoned sushi and yummy seaweed salad topped
+        with mango! Delish!
+      languageCode: en
+    authorAttribution:
+      displayName: Meenal Vadke
+      uri: https://www.google.com/maps/contrib/115166515105284501867/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUhnqNs5MIBdiNQY6TNM5xGZEqeyCo-7izATx7atZyJPQfI6plA=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-03-27T05:13:34.243224Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUR3cGF5cGdRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUR3cGF5cGdRRRAB!2m1!1s0x876c838264a2be03:0x1d357acc1fb350a8
+  - name: >-
+      places/ChIJA76iZIKDbIcRqFCzH8x6NR0/reviews/ChZDSUhNMG9nS0VJQ0FnSUN4bk0zTVNnEAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        First visit to Sushi Mango. Nice lunch spot.
+
+        I enjoyed the Tuna Tower and the Mango Mochi. Really nice combination
+        but I must mention that the salad I opted for with the Tuna Tower was
+        wonderful! Well the dressing, it’s a secret recipe, according to my
+        excellent server Michael.
+      languageCode: en
+    originalText:
+      text: >-
+        First visit to Sushi Mango. Nice lunch spot.
+
+        I enjoyed the Tuna Tower and the Mango Mochi. Really nice combination
+        but I must mention that the salad I opted for with the Tuna Tower was
+        wonderful! Well the dressing, it’s a secret recipe, according to my
+        excellent server Michael.
+      languageCode: en
+    authorAttribution:
+      displayName: KyLee Productions
+      uri: https://www.google.com/maps/contrib/116498420815777619982/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWWWNVQSVOFJ8T18LjMzkSjh1B8CZs9582idCq2BcrkT96g-YS4iA=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2023-05-12T18:04:38.622854Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN4bk0zTVNnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN4bk0zTVNnEAE!2m1!1s0x876c838264a2be03:0x1d357acc1fb350a8
+  - name: >-
+      places/ChIJA76iZIKDbIcRqFCzH8x6NR0/reviews/ChZDSUhNMG9nS0VJQ0FnSURsME5peWVBEAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        We only go here occasionally.  But we are recognized each time which
+        makes us feel welcomed.
+
+        It was cold and snowing a bit so the restaurant was empty but lit up.
+
+        We started off with the Crispy Tuna and Miso Soup.  The West Coast Roll
+        was fantastic.  The Yellowtail was fresh like always.
+
+        The server was attentive without being overbearing.  The fish was fresh
+        and everything was seasoned to the same standards as we remembered.
+      languageCode: en
+    originalText:
+      text: >-
+        We only go here occasionally.  But we are recognized each time which
+        makes us feel welcomed.
+
+        It was cold and snowing a bit so the restaurant was empty but lit up.
+
+        We started off with the Crispy Tuna and Miso Soup.  The West Coast Roll
+        was fantastic.  The Yellowtail was fresh like always.
+
+        The server was attentive without being overbearing.  The fish was fresh
+        and everything was seasoned to the same standards as we remembered.
+      languageCode: en
+    authorAttribution:
+      displayName: Corey R. Bryant
+      uri: https://www.google.com/maps/contrib/100950239711858599908/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVDqMkbzvDyJmfsAjn6fY9W5p9GjTplSEb98_G_VRZvck-UyU6H=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2023-11-29T18:46:51.274913Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURsME5peWVBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURsME5peWVBEAE!2m1!1s0x876c838264a2be03:0x1d357acc1fb350a8
+review_summary: >-
+  What Customers Are Buzzing About$$$Visitors often rave about the fresh and
+  well-seasoned sushi at this spot, highlighting its tasty varieties that leave
+  you satisfied and coming back for more. Many appreciate the generous portions
+  and unique flavors in dishes like the tuna tower and miso soup, which add a
+  delightful twist to classic favorites. The overall atmosphere gets high marks
+  for being welcoming and attentive, making it a solid choice for casual outings
+  or group gatherings. Folks frequently note the restaurant's consistency in
+  delivering quality meals that pair well with drinks, offering a reliably
+  enjoyable experience. While opinions vary slightly, the general consensus
+  leans positive, encouraging anyone craving Japanese fare to give it a try for
+  a flavorful escape.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
 delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
 menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Sleek, Japanese restaurant offering sushi, creative & classic rolls plus hot
+  dishes & cocktails.
 
 ---

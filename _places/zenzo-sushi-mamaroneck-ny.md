@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Zenzo Sushi"
+title: Zenzo Sushi
 permalink: /new-york/mamaroneck/zenzo-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: Mamaroneck
 seo:
-  name: "Zenzo Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.izenzosushi.com/
-description: "Zenzo Sushi serves delicious sushi in Mamaroneck, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJUcz1p5yRwokRi8eBdXeyvW8
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 0
 website: http://www.izenzosushi.com/
+description: >-
+  Discover Zenzo Sushi in Mamaroneck, NY$$$Zenzo Sushi in Mamaroneck, NY, offers
+  a relaxed atmosphere perfect for enjoying fresh Japanese cuisine, including a
+  variety of sushi and seafood options that appeal to those seeking authentic
+  flavors in a welcoming setting. This spot stands out for its selection of
+  beverages like beer, sake, and cocktails, making it an ideal choice for casual
+  dinners or special occasions. Patrons appreciate the accessible features, such
+  as wheelchair-friendly entrances and seating, along with convenient services
+  like delivery and dine-in options. Whether you're exploring sushi restaurants
+  near you or looking for a reliable spot for Japanese dishes, this location
+  combines quality ingredients with a comfortable vibe. Its moderate pricing
+  adds to the appeal for anyone in the area craving top-rated sushi experiences.
+generative_summary: >-
+  Discover Zenzo Sushi in Mamaroneck, NY$$$Zenzo Sushi in Mamaroneck, NY, offers
+  a relaxed atmosphere perfect for enjoying fresh Japanese cuisine, including a
+  variety of sushi and seafood options that appeal to those seeking authentic
+  flavors in a welcoming setting. This spot stands out for its selection of
+  beverages like beer, sake, and cocktails, making it an ideal choice for casual
+  dinners or special occasions. Patrons appreciate the accessible features, such
+  as wheelchair-friendly entrances and seating, along with convenient services
+  like delivery and dine-in options. Whether you're exploring sushi restaurants
+  near you or looking for a reliable spot for Japanese dishes, this location
+  combines quality ingredients with a comfortable vibe. Its moderate pricing
+  adds to the appeal for anyone in the area craving top-rated sushi experiences.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJUcz1p5yRwokRi8eBdXeyvW8/reviews/ChZDSUhNMG9nS0VJQ0FnTURnb1A2dVNBEAE
@@ -348,6 +371,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNsZ18zbWFBEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNsZ18zbWFBEAE!2m1!1s0x89c2919ca7f5cc51:0x6fbdb2777581c78b
+review_summary: >-
+  What Customers Are Buzzing About$$$Visitors often praise the fresh and
+  authentic sushi at this spot, noting how it consistently delivers flavorful
+  rolls that leave them satisfied and coming back for more. While most feedback
+  highlights quick service and a cozy ambiance that enhances the overall meal,
+  some mention minor inconsistencies in certain dishes or communication that
+  didn't detract much from the experience. Folks love the reliable delivery and
+  pickup, making it a go-to for easy meals without the fuss. Overall, the
+  positive vibes dominate, with many considering it one of the best sushi places
+  near me for its genuine taste and attentive atmosphere. If you're on the hunt
+  for great Japanese options, this restaurant comes highly recommended for a
+  solid, enjoyable outing.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidStreetParking: true
   valetParking: false
@@ -378,7 +414,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

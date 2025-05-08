@@ -1,15 +1,14 @@
 ---
 layout: place
-title: "Tataki Ramen & Sushi"
+title: Tataki Ramen & Sushi
 permalink: /pennsylvania/philadelphia/tataki-ramen-sushi.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Philadelphia
 seo:
-  name: "Tataki Ramen & Sushi"
-  type: Restaurant
-  links: https://order.mealkeyway.com/merchant/584964516c554339506764544b796c72796e4c5274413d3d/main
-description: "Tataki Ramen & Sushi serves delicious sushi in Philadelphia, Pennsylvania. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: >-
+    https://order.mealkeyway.com/merchant/584964516c554339506764544b796c72796e4c5274413d3d/main
 place_id: ChIJD1diuaPHxokRkEESK041Yaw
 photos:
   - name: >-
@@ -167,7 +166,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c6c7a3b962570f:0xac61354e2b124190!10e5
 primary_type: Ramen Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 10:00 PM'
     - 'Tuesday: Closed'
     - 'Wednesday: 11:30 AM – 10:00 PM'
@@ -175,14 +224,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 10:30 PM'
     - 'Saturday: 11:30 AM – 10:30 PM'
     - 'Sunday: 11:30 AM – 10:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 10:00 PM'
-    - 'Tuesday: Closed'
-    - 'Wednesday: 11:30 AM – 10:00 PM'
-    - 'Thursday: 11:30 AM – 10:00 PM'
-    - 'Friday: 11:30 AM – 10:30 PM'
-    - 'Saturday: 11:30 AM – 10:30 PM'
-    - 'Sunday: 11:30 AM – 10:00 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -194,10 +236,47 @@ phone: (267) 969-5880
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.7'
-rating_count: 0
+rating_count: 267
 website: >-
   https://order.mealkeyway.com/merchant/584964516c554339506764544b796c72796e4c5274413d3d/main
+description: >-
+  Discover Tataki Ramen & Sushi in Philadelphia, PA$$$Tataki Ramen & Sushi in
+  Philadelphia, PA, stands out as a contemporary Japanese eatery offering a
+  blend of flavorful ramen and fresh sushi options that appeal to those seeking
+  authentic Asian cuisine. The spot features a modern ambiance with
+  wheelchair-accessible entrances, making it easy for everyone to enjoy dishes
+  like savory ramen bowls and creative rolls in a welcoming setting. With
+  convenient hours that include evenings and weekends, it's an ideal choice for
+  a casual meal or quick delivery when you're craving top-rated Japanese fare
+  nearby. This location in the vibrant University City neighborhood adds to its
+  charm, providing a cozy atmosphere that complements the moderately priced menu
+  ranging from $10 to $20.
+generative_summary: >-
+  Discover Tataki Ramen & Sushi in Philadelphia, PA$$$Tataki Ramen & Sushi in
+  Philadelphia, PA, stands out as a contemporary Japanese eatery offering a
+  blend of flavorful ramen and fresh sushi options that appeal to those seeking
+  authentic Asian cuisine. The spot features a modern ambiance with
+  wheelchair-accessible entrances, making it easy for everyone to enjoy dishes
+  like savory ramen bowls and creative rolls in a welcoming setting. With
+  convenient hours that include evenings and weekends, it's an ideal choice for
+  a casual meal or quick delivery when you're craving top-rated Japanese fare
+  nearby. This location in the vibrant University City neighborhood adds to its
+  charm, providing a cozy atmosphere that complements the moderately priced menu
+  ranging from $10 to $20.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Folks who visit this spot often rave about the
+  tasty dishes, particularly the spicy garlic ramen and fresh sushi rolls that
+  hit the spot for anyone hunting for great Japanese eats. Many highlight the
+  friendly and attentive service that makes dining out feel relaxed and
+  enjoyable, along with the quick turnaround that keeps things efficient without
+  sacrificing quality. The atmosphere gets plenty of nods for being clean, cute,
+  and inviting, creating a positive vibe that's perfect for a casual
+  get-together. Overall, it's clear that this place delivers a solid experience
+  that's worth checking out if you're in the mood for reliable and flavorful
+  options nearby.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -223,7 +302,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

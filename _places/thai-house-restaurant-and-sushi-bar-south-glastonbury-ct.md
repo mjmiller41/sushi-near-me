@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Thai House Restaurant and Sushi Bar"
+title: Thai House Restaurant and Sushi Bar
 permalink: /connecticut/south-glastonbury/thai-house-restaurant-and-sushi-bar.html
 stateAbbr: CT
 stateName: Connecticut
 cityName: South Glastonbury
 seo:
-  name: "Thai House Restaurant and Sushi Bar"
-  type: Restaurant
+  type: restaurant
   links: https://www.thaihouseandsushibar-ct.com/
-description: "Thai House Restaurant and Sushi Bar serves delicious sushi in South Glastonbury, Connecticut. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJ56NDZg1O5okRUYjGZtj1E0E
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 0
 website: https://www.thaihouseandsushibar-ct.com/
+description: >-
+  Explore Thai House Restaurant and Sushi Bar$$$Thai House Restaurant and Sushi
+  Bar in South Glastonbury, CT, offers a welcoming blend of authentic Thai
+  flavors and fresh sushi in a relaxed, intimate atmosphere. This spot
+  highlights Thai classics like flavorful curries and noodles alongside creative
+  sushi options, making it a go-to for those seeking diverse Asian cuisine. With
+  accessibility features and ample parking, it's designed for comfortable dining
+  experiences, whether you're enjoying a quick meal or lingering over drinks.
+  The menu caters to various preferences, including vegetarian choices and
+  options for groups, ensuring everyone finds something satisfying. For anyone
+  searching for quality sushi restaurants nearby, this location stands out with
+  its thoughtful combination of tastes and convenient vibe.
+generative_summary: >-
+  Explore Thai House Restaurant and Sushi Bar$$$Thai House Restaurant and Sushi
+  Bar in South Glastonbury, CT, offers a welcoming blend of authentic Thai
+  flavors and fresh sushi in a relaxed, intimate atmosphere. This spot
+  highlights Thai classics like flavorful curries and noodles alongside creative
+  sushi options, making it a go-to for those seeking diverse Asian cuisine. With
+  accessibility features and ample parking, it's designed for comfortable dining
+  experiences, whether you're enjoying a quick meal or lingering over drinks.
+  The menu caters to various preferences, including vegetarian choices and
+  options for groups, ensuring everyone finds something satisfying. For anyone
+  searching for quality sushi restaurants nearby, this location stands out with
+  its thoughtful combination of tastes and convenient vibe.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ56NDZg1O5okRUYjGZtj1E0E/reviews/ChdDSUhNMG9nS0VJQ0FnSUN2OTl2dTNBRRAB
@@ -372,6 +395,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURYM09xM3l3RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURYM09xM3l3RRAB!2m1!1s0x89e64e0d6643a3e7:0x4113f5d866c68851
+review_summary: >-
+  Visitor Feedback Highlights$$$Visitors often rave about the tasty Thai dishes
+  like chicken satay and yellow curry, praising their balanced flavors and
+  generous portions that make for a satisfying meal. While some note that sushi
+  rolls can vary with a bit more rice than expected, many appreciate the overall
+  freshness and variety that keeps things interesting. Folks enjoy the quaint,
+  intimate setting and attentive service, which add to the cozy dining
+  experience without feeling rushed. Even with a few mentions of takeout
+  inconsistencies, the general consensus leans positive, encouraging
+  first-timers to try the spot for its solid value and welcoming vibe. If you're
+  on the hunt for top-rated sushi places nearby, this restaurant delivers a mix
+  of highlights that make it worth a visit for flavorful eats.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -403,7 +439,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

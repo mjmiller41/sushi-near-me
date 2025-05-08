@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "MIX - Uptown Marion"
+title: MIX - Uptown Marion
 permalink: /iowa/marion/mix-uptown-marion.html
 stateAbbr: IA
 stateName: Iowa
 cityName: Marion
 seo:
-  name: "MIX - Uptown Marion"
-  type: Restaurant
+  type: restaurant
   links: http://mixsushikitchen.com/
-description: "MIX - Uptown Marion serves delicious sushi in Marion, Iowa. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ3fApMDn35IcRvD2QC7xnbhk
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 0
 website: http://mixsushikitchen.com/
+description: >-
+  Discover MIX - Uptown Marion in Marion, IA$$$Nestled in the heart of Marion,
+  IA, MIX - Uptown Marion stands out as a vibrant spot for enjoying fresh
+  Asian-inspired cuisine, including hot pot and poke bowls that highlight its
+  creative menu. This welcoming venue offers a mix of flavorful dishes with
+  thoughtful vegan options, making it a go-to choice for those seeking diverse
+  and health-conscious meals in a lively atmosphere. Patrons can savor expertly
+  prepared sushi and other specialties that emphasize quality ingredients and
+  innovative flavors, appealing to anyone exploring sushi restaurants nearby.
+  The accessible design and inviting vibe add to the appeal, ensuring a
+  comfortable experience for all visitors. Whether you're in the mood for a
+  casual dinner or something more interactive, this spot delivers on both taste
+  and variety.
+generative_summary: >-
+  Discover MIX - Uptown Marion in Marion, IA$$$Nestled in the heart of Marion,
+  IA, MIX - Uptown Marion stands out as a vibrant spot for enjoying fresh
+  Asian-inspired cuisine, including hot pot and poke bowls that highlight its
+  creative menu. This welcoming venue offers a mix of flavorful dishes with
+  thoughtful vegan options, making it a go-to choice for those seeking diverse
+  and health-conscious meals in a lively atmosphere. Patrons can savor expertly
+  prepared sushi and other specialties that emphasize quality ingredients and
+  innovative flavors, appealing to anyone exploring sushi restaurants nearby.
+  The accessible design and inviting vibe add to the appeal, ensuring a
+  comfortable experience for all visitors. Whether you're in the mood for a
+  casual dinner or something more interactive, this spot delivers on both taste
+  and variety.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ3fApMDn35IcRvD2QC7xnbhk/reviews/ChdDSUhNMG9nS0VJQ0FnTUNRb0pqaDlnRRAB
@@ -442,6 +467,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURJckplMFRBEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJckplMFRBEAE!2m1!1s0x87e4f7393029f0dd:0x196e67bc0b903dbc
+review_summary: >-
+  What Visitors Love About This Spot$$$Feedback from recent visits highlights
+  the fantastic value of the all-you-can-eat options, with many appreciating the
+  generous portions and flavorful hot pot that leave diners feeling satisfied
+  without breaking the bank. While some noted occasional waits for service, the
+  overall experience shines through with praise for the fresh ingredients and
+  fun, interactive cooking style that encourages sharing and enjoyment.
+  Customers often rave about the sushi selections, describing them as a
+  highlight for anyone craving top-quality rolls at affordable prices. Despite a
+  few mentions of slower pacing during busier times, the welcoming staff and
+  communal vibe keep the atmosphere positive and engaging. All in all, it's a
+  solid pick for groups or families looking for a memorable meal at a
+  sushi-friendly spot in the area.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -474,7 +513,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

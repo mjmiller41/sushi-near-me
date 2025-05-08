@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Bai Sushi Japanese Restaurant"
+title: Bai Sushi Japanese Restaurant
 permalink: /new-york/astoria/bai-sushi-japanese-restaurant.html
 stateAbbr: NY
 stateName: New York
 cityName: Astoria
 seo:
-  name: "Bai Sushi Japanese Restaurant"
-  type: Restaurant
+  type: restaurant
   links: https://baisushitogo.com/
-description: "Compact sushi joint serving traditional Japanese plates, plus a selection of unique rolls. Bai Sushi Japanese Restaurant serves delicious sushi in Astoria, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJjdCEuDtfwokRlrAKrJvk8Yk
 photos:
   - name: >-
@@ -182,6 +180,31 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 0
 website: https://baisushitogo.com/
+description: >-
+  Discover Bai Sushi Japanese Restaurant in Astoria, NY$$$Bai Sushi Japanese
+  Restaurant in Astoria, NY, stands out as a cozy spot for enjoying authentic
+  Japanese cuisine, featuring a variety of creative sushi rolls and classic
+  dishes that appeal to sushi enthusiasts. This welcoming eatery offers a
+  relaxed atmosphere where patrons can savor fresh, inventive options for both
+  lunch and dinner, making it a go-to choice among local sushi places. With its
+  focus on quality ingredients and thoughtful presentations, the menu highlights
+  unique twists on traditional favorites, ensuring a satisfying meal at moderate
+  prices. Whether you're seeking top-rated sushi options or simply exploring
+  Japanese flavors close to home, this neighborhood gem delivers a dependable
+  dining experience that balances tradition with creativity.
+generative_summary: >-
+  Discover Bai Sushi Japanese Restaurant in Astoria, NY$$$Bai Sushi Japanese
+  Restaurant in Astoria, NY, stands out as a cozy spot for enjoying authentic
+  Japanese cuisine, featuring a variety of creative sushi rolls and classic
+  dishes that appeal to sushi enthusiasts. This welcoming eatery offers a
+  relaxed atmosphere where patrons can savor fresh, inventive options for both
+  lunch and dinner, making it a go-to choice among local sushi places. With its
+  focus on quality ingredients and thoughtful presentations, the menu highlights
+  unique twists on traditional favorites, ensuring a satisfying meal at moderate
+  prices. Whether you're seeking top-rated sushi options or simply exploring
+  Japanese flavors close to home, this neighborhood gem delivers a dependable
+  dining experience that balances tradition with creativity.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJjdCEuDtfwokRlrAKrJvk8Yk/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJOFpDNWtnRRAB
@@ -351,6 +374,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUR3aGNqbHh3RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUR3aGNqbHh3RRAB!2m1!1s0x89c25f3bb884d08d:0x89f1e49bac0ab096
+review_summary: >-
+  What Customers Are Saying About Bai Sushi$$$Folks who visit this spot often
+  praise the delicious sushi rolls and overall vibe, noting that the food is
+  both tasty and reasonably priced for the quality. Many appreciate the friendly
+  service and charming ambiance that make meals feel enjoyable and welcoming,
+  with specific mentions of standout rolls that keep diners coming back. While
+  there have been occasional complaints about wait times for deliveries, the
+  general consensus highlights the restaurant's efforts to address issues and
+  maintain a positive experience. Overall, it's clear that this place earns high
+  marks for its flavorful offerings and attentive staff, making it a solid pick
+  for anyone hunting for reliable sushi restaurants nearby. If you're in the
+  mood for a casual Japanese meal, the feedback suggests you'll likely leave
+  satisfied with the fresh tastes and attentive touches.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidStreetParking: true
   valetParking: false
@@ -382,8 +419,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Compact sushi joint serving traditional Japanese plates, plus a selection of
   unique rolls.
 

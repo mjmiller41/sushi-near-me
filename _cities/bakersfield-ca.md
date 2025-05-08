@@ -5,4 +5,5 @@ permalink: /california/bakersfield/
 stateAbbr: CA
 stateName: California
 cityName: Bakersfield
+
 ---

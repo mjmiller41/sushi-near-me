@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Khin’s Sushi"
+title: Khin’s Sushi
 permalink: /district-of-columbia/washington/khin-s-sushi.html
 stateAbbr: DC
 stateName: District of Columbia
 cityName: Washington
 seo:
-  name: "Khin’s Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://khinsushi.com/
-description: "Khin’s Sushi serves delicious sushi in Washington, District of Columbia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJb3Hkh2O5t4kRJ0MSqgoGDm4
 photos:
   - name: >-
@@ -184,6 +182,29 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 0
 website: https://khinsushi.com/
+description: >-
+  Discover Khin’s Sushi in Washington, DC$$$Khin’s Sushi in Washington, DC,
+  offers a welcoming retreat for those craving fresh Asian flavors and standout
+  sushi options in a vibrant neighborhood. The spot highlights expertly prepared
+  dishes with high-quality ingredients that deliver a perfect mix of tastes,
+  complemented by fun additions like boba and desserts. Its affordable pricing
+  makes it an easy choice for casual meals, whether you're dining in or grabbing
+  takeout from this accessible location. Features like outdoor seating and
+  inclusive amenities add to the appeal, making it a go-to for anyone exploring
+  top-rated sushi restaurants nearby. If you're searching for sushi places near
+  me, this Navy Yard gem provides a satisfying blend of quality and convenience.
+generative_summary: >-
+  Discover Khin’s Sushi in Washington, DC$$$Khin’s Sushi in Washington, DC,
+  offers a welcoming retreat for those craving fresh Asian flavors and standout
+  sushi options in a vibrant neighborhood. The spot highlights expertly prepared
+  dishes with high-quality ingredients that deliver a perfect mix of tastes,
+  complemented by fun additions like boba and desserts. Its affordable pricing
+  makes it an easy choice for casual meals, whether you're dining in or grabbing
+  takeout from this accessible location. Features like outdoor seating and
+  inclusive amenities add to the appeal, making it a go-to for anyone exploring
+  top-rated sushi restaurants nearby. If you're searching for sushi places near
+  me, this Navy Yard gem provides a satisfying blend of quality and convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJb3Hkh2O5t4kRJ0MSqgoGDm4/reviews/ChdDSUhNMG9nS0VJQ0FnTURnbnFieV9BRRAB
@@ -393,6 +414,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURheE92SUF3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURheE92SUF3EAE!2m1!1s0x89b7b96387e4716f:0x6e0e060aaa124327
+review_summary: >-
+  What Guests Are Saying About Khin’s Sushi$$$Folks generally enjoy the fresh
+  sushi and friendly vibes at this spot, with many highlighting the tasty rolls
+  and good value that make it a solid pick for a quick bite. While some mention
+  that portions on certain items like poke bowls feel a bit light, the overall
+  experience often shines through with quick service and affordable prices that
+  keep things approachable. It's clear that the welcoming atmosphere and variety
+  of options appeal to those looking for reliable sushi restaurants in the area.
+  Despite a few mixed feelings on specifics, the positive feedback on flavor and
+  convenience helps it stand out as a neighborhood favorite. If you're on the
+  hunt for best sushi near me, this place gets nods for its enjoyable meals and
+  easygoing feel.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   valetParking: false
 payment_options:
@@ -423,7 +457,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: null
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

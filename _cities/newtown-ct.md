@@ -5,4 +5,5 @@ permalink: /connecticut/newtown/
 stateAbbr: CT
 stateName: Connecticut
 cityName: Newtown
+
 ---

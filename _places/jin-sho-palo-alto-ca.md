@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Jin Sho"
+title: Jin Sho
 permalink: /california/palo-alto/jin-sho.html
 stateAbbr: CA
 stateName: California
 cityName: Palo Alto
 seo:
-  name: "Jin Sho"
-  type: Restaurant
-  links: null
-description: "Jin Sho serves delicious sushi in Palo Alto, California. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://jinshorestaurant.com/
 place_id: ChIJIdvn8OW6j4ARLuSJEAHBDoY
 photos:
   - name: >-
@@ -170,8 +168,89 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x808fbae5f0e7db21:0x860ec1011089e42e!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: false
+  periods:
+    - open:
+        day: 2
+        hour: 11
+        minute: 45
+      close:
+        day: 2
+        hour: 13
+        minute: 45
+    - open:
+        day: 2
+        hour: 17
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 45
+      close:
+        day: 3
+        hour: 13
+        minute: 45
+    - open:
+        day: 3
+        hour: 17
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 45
+      close:
+        day: 4
+        hour: 13
+        minute: 45
+    - open:
+        day: 4
+        hour: 17
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 45
+      close:
+        day: 5
+        hour: 13
+        minute: 45
+    - open:
+        day: 5
+        hour: 17
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: Closed'
+    - 'Tuesday: 11:45 AM – 1:45 PM, 5:30 – 9:00 PM'
+    - 'Wednesday: 11:45 AM – 1:45 PM, 5:30 – 9:00 PM'
+    - 'Thursday: 11:45 AM – 1:45 PM, 5:30 – 9:00 PM'
+    - 'Friday: 11:45 AM – 1:45 PM, 5:30 – 9:30 PM'
+    - 'Saturday: 5:00 – 9:00 PM'
+    - 'Sunday: Closed'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +258,48 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (650) 321-3454
+price_level: PRICE_LEVEL_MODERATE
+price_range: $50 &ndash; $100
+rating: '4.3'
+rating_count: 545
+website: http://jinshorestaurant.com/
+description: >-
+  Experience Jin Sho in Palo Alto$$$Jin Sho in Palo Alto, CA, stands out as a
+  welcoming Japanese restaurant known for its inviting atmosphere and accessible
+  features that make dining enjoyable for everyone. This spot offers a range of
+  authentic flavors, from expertly prepared sushi rolls to other classic dishes,
+  all served in a setting that's both cozy and modern. With its convenient
+  location in the Evergreen Park neighborhood, it's an ideal choice for those
+  seeking top-rated Japanese cuisine close to home, perfect for a casual meal or
+  special occasion. The restaurant maintains a moderate price point, providing
+  great value without compromising on quality, and its thoughtful design ensures
+  a comfortable experience for all visitors.
+generative_summary: >-
+  Experience Jin Sho in Palo Alto$$$Jin Sho in Palo Alto, CA, stands out as a
+  welcoming Japanese restaurant known for its inviting atmosphere and accessible
+  features that make dining enjoyable for everyone. This spot offers a range of
+  authentic flavors, from expertly prepared sushi rolls to other classic dishes,
+  all served in a setting that's both cozy and modern. With its convenient
+  location in the Evergreen Park neighborhood, it's an ideal choice for those
+  seeking top-rated Japanese cuisine close to home, perfect for a casual meal or
+  special occasion. The restaurant maintains a moderate price point, providing
+  great value without compromising on quality, and its thoughtful design ensures
+  a comfortable experience for all visitors.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Visitor Feedback Highlights$$$People often praise the fresh and flavorful
+  sushi at this Japanese eatery, noting how it hits the spot for anyone craving
+  quality options nearby. Many mention the attentive service and welcoming vibe
+  that make every visit feel relaxed and enjoyable, even during busy times.
+  While some point out occasional waits due to popularity, the overall consensus
+  is that the tasty dishes and reasonable prices keep diners coming back for
+  more. Feedback frequently highlights the solid variety of menu items that
+  cater to different tastes, making it a go-to for groups or solo adventurers.
+  All in all, it's clear that this place delivers a reliably positive
+  experience, earning its reputation as a favorite among local food enthusiasts.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +325,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

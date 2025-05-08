@@ -5,4 +5,5 @@ permalink: /california/oakland/
 stateAbbr: CA
 stateName: California
 cityName: Oakland
+
 ---

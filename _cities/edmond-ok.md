@@ -5,4 +5,5 @@ permalink: /oklahoma/edmond/
 stateAbbr: OK
 stateName: Oklahoma
 cityName: Edmond
+
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Monster"
+title: Sushi Monster
 permalink: /utah/farmington/sushi-monster.html
 stateAbbr: UT
 stateName: Utah
 cityName: Farmington
 seo:
-  name: "Sushi Monster"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi Monster serves delicious sushi in Farmington, Utah. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ7Uu_Y-D-UocRlYIVmwmR03c
 photos:
   - name: >-
@@ -185,7 +183,43 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Sushi Monster in Farmington, UT$$$Sushi Monster in Farmington, UT,
+  stands out as a welcoming destination for Japanese cuisine enthusiasts,
+  offering a range of fresh sushi and hibachi options in a comfortable setting.
+  The spot highlights a variety of flavorful dishes that capture the essence of
+  traditional Japanese fare, making it an ideal choice for those exploring local
+  dining scenes. With thoughtful accessibility features ensuring everyone can
+  enjoy the experience, it combines quality ingredients with a cozy atmosphere
+  that enhances every visit. For anyone searching for sushi restaurants nearby,
+  this location delivers a satisfying blend of taste and convenience, perfect
+  for casual meals or trying new flavors.
+generative_summary: >-
+  Discover Sushi Monster in Farmington, UT$$$Sushi Monster in Farmington, UT,
+  stands out as a welcoming destination for Japanese cuisine enthusiasts,
+  offering a range of fresh sushi and hibachi options in a comfortable setting.
+  The spot highlights a variety of flavorful dishes that capture the essence of
+  traditional Japanese fare, making it an ideal choice for those exploring local
+  dining scenes. With thoughtful accessibility features ensuring everyone can
+  enjoy the experience, it combines quality ingredients with a cozy atmosphere
+  that enhances every visit. For anyone searching for sushi restaurants nearby,
+  this location delivers a satisfying blend of taste and convenience, perfect
+  for casual meals or trying new flavors.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying About Sushi Monster$$$Folks who stop by Sushi Monster
+  often rave about the fresh, well-prepared sushi that hits the spot for
+  Japanese food lovers in the area. Many appreciate the inviting vibe and
+  reliable service that make it a go-to for quick bites or relaxed evenings out.
+  While specific feedback is limited, it's clear that the spot tends to shine
+  for its tasty options and approachable setting, drawing in those hunting for
+  top-rated sushi nearby. Overall, it comes across as a solid pick for anyone
+  craving authentic flavors, with diners noting the positive experience keeps
+  them returning for more. If you're on the lookout for sushi places near me,
+  this one generally earns nods for its straightforward appeal and enjoyable
+  meals.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +245,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

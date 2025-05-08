@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Bay 17"
+title: Sushi Bay 17
 permalink: /colorado/denver/sushi-bay-17.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Denver
 seo:
-  name: "Sushi Bay 17"
-  type: Restaurant
+  type: restaurant
   links: https://www.sushibay17denverco.com/
-description: "Sushi Bay 17 serves delicious sushi in Denver, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJHx_A8zR5bIcRAatKtim5xpY
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x876c7934f3c01f1f:0x96c6b929b64aab01!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:30 PM'
     - 'Tuesday: 11:00 AM – 9:30 PM'
     - 'Wednesday: 11:00 AM – 9:30 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:30 PM'
     - 'Saturday: 12:00 – 9:30 PM'
     - 'Sunday: 12:00 – 9:30 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:30 PM'
-    - 'Tuesday: 11:00 AM – 9:30 PM'
-    - 'Wednesday: 11:00 AM – 9:30 PM'
-    - 'Thursday: 11:00 AM – 9:30 PM'
-    - 'Friday: 11:00 AM – 9:30 PM'
-    - 'Saturday: 12:00 – 9:30 PM'
-    - 'Sunday: 12:00 – 9:30 PM'
+  nextCloseTime: '2025-05-04T03:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,266 @@ phone: (303) 321-1805
 price_level: PRICE_LEVEL_MODERATE
 price_range: $30 &ndash; $50
 rating: '4.4'
-rating_count: 0
+rating_count: 586
 website: https://www.sushibay17denverco.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Sushi Bay 17 in Denver, CO$$$Sushi Bay 17 in Denver, CO, offers a
+  relaxed and inviting atmosphere for enjoying fresh Japanese-inspired dishes,
+  making it a go-to spot for those seeking sushi options in the area. With its
+  modern decor and variety of rolls, this casual eatery highlights affordable
+  lunch specials and happy hour deals that appeal to both locals and visitors.
+  The restaurant provides accessible features like wheelchair-friendly entrances
+  and outdoor seating, enhancing the dining experience for everyone.
+  Additionally, it serves a range of beverages including beer and wine, perfect
+  for pairing with flavorful meals. Whether you're looking for sushi restaurants
+  near you or a welcoming place to unwind, this spot delivers on quality and
+  convenience.
+generative_summary: >-
+  Discover Sushi Bay 17 in Denver, CO$$$Sushi Bay 17 in Denver, CO, offers a
+  relaxed and inviting atmosphere for enjoying fresh Japanese-inspired dishes,
+  making it a go-to spot for those seeking sushi options in the area. With its
+  modern decor and variety of rolls, this casual eatery highlights affordable
+  lunch specials and happy hour deals that appeal to both locals and visitors.
+  The restaurant provides accessible features like wheelchair-friendly entrances
+  and outdoor seating, enhancing the dining experience for everyone.
+  Additionally, it serves a range of beverages including beer and wine, perfect
+  for pairing with flavorful meals. Whether you're looking for sushi restaurants
+  near you or a welcoming place to unwind, this spot delivers on quality and
+  convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJHx_A8zR5bIcRAatKtim5xpY/reviews/ChdDSUhNMG9nS0VJQ0FnSURidXBUeHlnRRAB
+    relativePublishTimeDescription: 9 months ago
+    rating: 5
+    text:
+      text: >-
+        This is your old reliable local sushi restaurant. Some people compare
+        this place to restaurants downtown, there's no comparison this is a
+        local cheap sushi restaurant if you want fine dining this isn't the
+        place. A really nice patio area out front if you want to dine in but
+        they also do great take away.
+
+
+        Staff is always very friendly and helpful.
+      languageCode: en
+    originalText:
+      text: >-
+        This is your old reliable local sushi restaurant. Some people compare
+        this place to restaurants downtown, there's no comparison this is a
+        local cheap sushi restaurant if you want fine dining this isn't the
+        place. A really nice patio area out front if you want to dine in but
+        they also do great take away.
+
+
+        Staff is always very friendly and helpful.
+      languageCode: en
+    authorAttribution:
+      displayName: Dion Jones-Bauer
+      uri: https://www.google.com/maps/contrib/118246291296275686231/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjX5OEaw8NyBJTAoyHOVYE5gRLlkKwaWIkWhbmxpPXSg6f7-sslNOA=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2024-08-04T14:28:10.765480Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURidXBUeHlnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURidXBUeHlnRRAB!2m1!1s0x876c7934f3c01f1f:0x96c6b929b64aab01
+  - name: >-
+      places/ChIJHx_A8zR5bIcRAatKtim5xpY/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJemRiUlh3EAE
+    relativePublishTimeDescription: 4 weeks ago
+    rating: 5
+    text:
+      text: >-
+        The sushi was fresh and tasty, and they had a good selection of sake,
+        wine, and beer to pair with the food. The service is prompt and
+        efficient. The atmosphere is as serene as one would expect from Japan.
+        It's a great place to go and relax while you enjoy your food. Parking is
+        mostly along the street, but there is a small lot next door that opens
+        up after 5 p.m. Don't park there before 5 p.m.! The business next door
+        owns that lot.
+      languageCode: en
+    originalText:
+      text: >-
+        The sushi was fresh and tasty, and they had a good selection of sake,
+        wine, and beer to pair with the food. The service is prompt and
+        efficient. The atmosphere is as serene as one would expect from Japan.
+        It's a great place to go and relax while you enjoy your food. Parking is
+        mostly along the street, but there is a small lot next door that opens
+        up after 5 p.m. Don't park there before 5 p.m.! The business next door
+        owns that lot.
+      languageCode: en
+    authorAttribution:
+      displayName: Joseph Carr
+      uri: https://www.google.com/maps/contrib/103125399085554723988/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXcI8EvJCeXUmAEAz-A99xSfbQi0pZpRzZC9bynQBLYzgXpQvky=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-03T22:24:18.359098Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNJemRiUlh3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNJemRiUlh3EAE!2m1!1s0x876c7934f3c01f1f:0x96c6b929b64aab01
+  - name: >-
+      places/ChIJHx_A8zR5bIcRAatKtim5xpY/reviews/ChZDSUhNMG9nS0VJQ0FnSUNqeGI2WGNREAE
+    relativePublishTimeDescription: a year ago
+    rating: 2
+    text:
+      text: >-
+        So, It’s been about 6 years or so since I’ve been here. The patio is
+        pretty nice. I saw the sashimi price and thought it priced very cheap so
+        I thought I’d give it a try. I was very disappointed. The fish is 1/3
+        the size of what you typically get for $10 around downtown. Those salmon
+        & tuna slices in my pic are extremely small, even for $6. I looked at
+        some of the nigiri pics in the reviews and the fish cuts were much
+        better than what we had. The smoked salmon was NOT fresh. The salmon
+        jalapeño roll was so disproportionate when it came to jalapeño/fish. It
+        was like I was eating a ball of peppers.
+
+        We will definitely not be coming back. There’s just too many awesome
+        sushi places downtown that blow this one out of the water.
+
+
+        Service was good and the waitress was attentive. She did have a bad case
+        of RBF though.
+
+
+        -Put a smile on your face it goes a long way.
+      languageCode: en
+    originalText:
+      text: >-
+        So, It’s been about 6 years or so since I’ve been here. The patio is
+        pretty nice. I saw the sashimi price and thought it priced very cheap so
+        I thought I’d give it a try. I was very disappointed. The fish is 1/3
+        the size of what you typically get for $10 around downtown. Those salmon
+        & tuna slices in my pic are extremely small, even for $6. I looked at
+        some of the nigiri pics in the reviews and the fish cuts were much
+        better than what we had. The smoked salmon was NOT fresh. The salmon
+        jalapeño roll was so disproportionate when it came to jalapeño/fish. It
+        was like I was eating a ball of peppers.
+
+        We will definitely not be coming back. There’s just too many awesome
+        sushi places downtown that blow this one out of the water.
+
+
+        Service was good and the waitress was attentive. She did have a bad case
+        of RBF though.
+
+
+        -Put a smile on your face it goes a long way.
+      languageCode: en
+    authorAttribution:
+      displayName: Drew mahaney
+      uri: https://www.google.com/maps/contrib/112277448672299066783/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUL_pnX_jHZ1yh37L-nrdyMiXaYCgwIbaEN1_d9kZAIx0OEa04=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-04-24T00:10:25.771049Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNqeGI2WGNREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNqeGI2WGNREAE!2m1!1s0x876c7934f3c01f1f:0x96c6b929b64aab01
+  - name: >-
+      places/ChIJHx_A8zR5bIcRAatKtim5xpY/reviews/ChZDSUhNMG9nS0VJQ0FnTUNBbkppNGRnEAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        Cozy little sushi spot, great food and they even have a separate karaoke
+        room!
+
+
+        Cool place, will absolutely be back!
+      languageCode: en
+    originalText:
+      text: >-
+        Cozy little sushi spot, great food and they even have a separate karaoke
+        room!
+
+
+        Cool place, will absolutely be back!
+      languageCode: en
+    authorAttribution:
+      displayName: Celeste Weingartner
+      uri: https://www.google.com/maps/contrib/113958878941878920760/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWVgirtuwQSSx6VE11tBiC_-QvaRsL83ZXw99QHJvQQ6ZQ1kL8BMw=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-01-30T04:29:37.525223Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNBbkppNGRnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNBbkppNGRnEAE!2m1!1s0x876c7934f3c01f1f:0x96c6b929b64aab01
+  - name: >-
+      places/ChIJHx_A8zR5bIcRAatKtim5xpY/reviews/ChZDSUhNMG9nS0VJQ0FnSUQtdDZTMU1REAE
+    relativePublishTimeDescription: 2 years ago
+    rating: 5
+    text:
+      text: >-
+        We enjoyed this sushi restaurant.  The sushi was fresh and the rolls
+        were a good size for the price.  Definitely more on the Americanized
+        sushi, lots of California roll variations and not too much raw fish that
+        isn’t fried.  Definitely a crowd pleaser.
+      languageCode: en
+    originalText:
+      text: >-
+        We enjoyed this sushi restaurant.  The sushi was fresh and the rolls
+        were a good size for the price.  Definitely more on the Americanized
+        sushi, lots of California roll variations and not too much raw fish that
+        isn’t fried.  Definitely a crowd pleaser.
+      languageCode: en
+    authorAttribution:
+      displayName: Lauren Hughes Realtor
+      uri: https://www.google.com/maps/contrib/114571882477549975462/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjV_NXpOpESHDStA0NFJDlCvZjeZeGK9dfNt6oiZMWZUcbO0mUfo=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2022-12-12T02:35:14.167560Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQtdDZTMU1REAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQtdDZTMU1REAE!2m1!1s0x876c7934f3c01f1f:0x96c6b929b64aab01
+review_summary: >-
+  What Customers Are Sharing About This Local Spot$$$Folks often rave about the
+  fresh flavors and solid selection at this neighborhood sushi place, noting
+  it's a reliable choice for casual meals and takeout. Many appreciate the
+  efficient service and serene vibe that makes it easy to relax while enjoying
+  their food, with highlights on the outdoor patio and drink options like sake
+  or beer. While some mention portions might feel modest compared to pricier
+  downtown spots, the overall experience comes across as approachable and
+  satisfying for groups or solo diners. It's frequently described as a cozy
+  hideaway with fun extras like a separate karaoke room, adding to the lively
+  yet laid-back appeal. If you're hunting for top-rated sushi nearby, this
+  location tends to please with its honest value and welcoming feel.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+curbside_pickup: true
+delivery: true
+dine_in: true
+good_for_children: false
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: Relaxed Japanese spot with modern decor offering lunch specials.
 
 ---

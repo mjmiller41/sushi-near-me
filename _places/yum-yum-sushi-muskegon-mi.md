@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yum Yum Sushi"
+title: Yum Yum Sushi
 permalink: /michigan/muskegon/yum-yum-sushi.html
 stateAbbr: MI
 stateName: Michigan
 cityName: Muskegon
 seo:
-  name: "Yum Yum Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.yumyumsushi123.com/
-description: "Yum Yum Sushi serves delicious sushi in Muskegon, Michigan. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJaUQaHRvWG4gRPphhmD6Bm2E
 photos:
   - name: >-
@@ -184,6 +182,33 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 0
 website: http://www.yumyumsushi123.com/
+description: >-
+  Discover Yum Yum Sushi in Muskegon, MI$$$Yum Yum Sushi in Muskegon, Michigan,
+  offers a cozy atmosphere perfect for enjoying a mix of fresh sushi, Thai
+  specialties, and Chinese-inspired dishes that highlight authentic flavors.
+  This welcoming spot focuses on quality ingredients and accessible features
+  like wheelchair-friendly parking and seating, making it an inclusive choice
+  for casual diners. With moderate pricing around $10 to $20, it's ideal for
+  those seeking sushi restaurants that balance affordability and taste, whether
+  you're exploring local Japanese places or top-rated options nearby. The menu
+  caters to a variety of preferences, including vegetarian selections, ensuring
+  a satisfying experience for lunch or dinner outings. Its operational vibe and
+  convenient takeout options make it a go-to for anyone searching for reliable
+  sushi dining in the area.
+generative_summary: >-
+  Discover Yum Yum Sushi in Muskegon, MI$$$Yum Yum Sushi in Muskegon, Michigan,
+  offers a cozy atmosphere perfect for enjoying a mix of fresh sushi, Thai
+  specialties, and Chinese-inspired dishes that highlight authentic flavors.
+  This welcoming spot focuses on quality ingredients and accessible features
+  like wheelchair-friendly parking and seating, making it an inclusive choice
+  for casual diners. With moderate pricing around $10 to $20, it's ideal for
+  those seeking sushi restaurants that balance affordability and taste, whether
+  you're exploring local Japanese places or top-rated options nearby. The menu
+  caters to a variety of preferences, including vegetarian selections, ensuring
+  a satisfying experience for lunch or dinner outings. Its operational vibe and
+  convenient takeout options make it a go-to for anyone searching for reliable
+  sushi dining in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJaUQaHRvWG4gRPphhmD6Bm2E/reviews/ChZDSUhNMG9nS0VJQ0FnSURfNTVYMVBREAE
@@ -333,6 +358,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNuekt6Y0lREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNuekt6Y0lREAE!2m1!1s0x881bd61b1d1a4469:0x619b813e9861983e
+review_summary: >-
+  What Visitors Are Saying About This Spot$$$Folks generally enjoy the fresh and
+  flavorful sushi rolls here, often praising their quality and how they hit the
+  spot for a satisfying meal. Many highlight the variety of dishes, like
+  well-prepared entrees that bring bold tastes to the table, though a few note
+  that some items could use a bit more refinement in texture. The service stands
+  out as friendly and efficient, paired with a clean environment that keeps
+  things pleasant during visits or pickups. Overall, it's seen as a solid pick
+  for anyone craving good sushi without the fuss, with most people excited to
+  come back for more. Despite occasional minor issues, the vibe remains
+  positive, making it a trustworthy choice for casual sushi lovers in the
+  neighborhood.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -365,7 +403,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -4,5 +4,5 @@ title: Maine cities with Sushi Restaurants
 permalink: /maine/
 stateAbbr: ME
 stateName: Maine
-place_type: Sushi Restaurant
+
 ---

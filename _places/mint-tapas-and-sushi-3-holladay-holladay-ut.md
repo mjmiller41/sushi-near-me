@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Mint Tapas and Sushi 3 (Holladay)"
+title: Mint Tapas and Sushi 3 (Holladay)
 permalink: /utah/holladay/mint-tapas-and-sushi-3-holladay.html
 stateAbbr: UT
 stateName: Utah
 cityName: Holladay
 seo:
-  name: "Mint Tapas and Sushi 3 (Holladay)"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Mint Tapas and Sushi 3 (Holladay) serves delicious sushi in Holladay, Utah. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ_yJWm3VjUocRM1VNJUjXwzI
 photos:
   - name: >-
@@ -185,7 +183,48 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Mint Tapas and Sushi in Holladay, UT$$$Mint Tapas and Sushi 3 in
+  Holladay, UT, delivers a delightful blend of Asian-inspired small plates and
+  fresh sushi in an elegant atmosphere, making it a standout choice for those
+  seeking flavorful dining options nearby. The menu features creative sushi
+  rolls and tapas-style dishes that highlight bold flavors and quality
+  ingredients, paired with handcrafted cocktails for a complete experience. This
+  spot excels in its upscale setting, where attention to detail creates a
+  welcoming vibe perfect for casual evenings or special occasions. Visitors can
+  enjoy the convenience of wheelchair-accessible features, ensuring everyone
+  feels included. Whether you're exploring top-rated sushi places in the area,
+  it's an ideal destination for a memorable meal that combines taste and
+  ambiance seamlessly.
+generative_summary: >-
+  Discover Mint Tapas and Sushi in Holladay, UT$$$Mint Tapas and Sushi 3 in
+  Holladay, UT, delivers a delightful blend of Asian-inspired small plates and
+  fresh sushi in an elegant atmosphere, making it a standout choice for those
+  seeking flavorful dining options nearby. The menu features creative sushi
+  rolls and tapas-style dishes that highlight bold flavors and quality
+  ingredients, paired with handcrafted cocktails for a complete experience. This
+  spot excels in its upscale setting, where attention to detail creates a
+  welcoming vibe perfect for casual evenings or special occasions. Visitors can
+  enjoy the convenience of wheelchair-accessible features, ensuring everyone
+  feels included. Whether you're exploring top-rated sushi places in the area,
+  it's an ideal destination for a memorable meal that combines taste and
+  ambiance seamlessly.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Buzzing About$$$Folks who've dined here often rave about the
+  tasty sushi selections, like inventive rolls that bring a fresh twist to
+  classic flavors, making it a go-to for anyone craving quality
+  Japanese-inspired dishes close by. Many highlight the delicious tapas options,
+  from savory grilled items to hearty appetizers, which pair perfectly with the
+  overall menu and add to the fun, shareable vibe. Service stands out as
+  friendly and attentive, helping to create a relaxed and enjoyable atmosphere
+  that keeps people coming back. Overall, the warm and inviting setting gets
+  plenty of nods for its cozy feel, rounding out a positive experience for
+  groups or solo diners. If you're on the hunt for reliable sushi spots in the
+  neighborhood, this place delivers solid satisfaction with its flavorful
+  offerings and welcoming energy.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +250,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

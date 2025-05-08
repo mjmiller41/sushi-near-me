@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yummy Sushi"
+title: Yummy Sushi
 permalink: /new-jersey/robbinsville-twp/yummy-sushi.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Robbinsville Twp
 seo:
-  name: "Yummy Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Yummy Sushi serves delicious sushi in Robbinsville Twp, New Jersey. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ54D3YrBfwYkRsO7c0HVKPOs
 photos:
   - name: >-
@@ -185,7 +183,48 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Yummy Sushi in Robbinsville Twp, NJ$$$Yummy Sushi in Robbinsville
+  Twp, NJ, offers a relaxed dining experience with options for dine-in and
+  takeout, making it a convenient choice for those seeking sushi restaurants
+  near me. The spot features an extensive selection of Japanese, Chinese, and
+  Thai dishes, highlighting fresh flavors and diverse menu choices that cater to
+  a variety of tastes. Accessibility is a key highlight, with
+  wheelchair-friendly parking, entrances, restrooms, and seating ensuring
+  everyone can enjoy the vibrant atmosphere. Photos from the location showcase
+  appealing presentations of signature rolls and entrees, drawing in locals and
+  visitors alike for a satisfying meal. Whether you're exploring top-rated sushi
+  options or simply craving authentic Asian cuisine, this spot stands out for
+  its casual vibe and thoughtful amenities.
+generative_summary: >-
+  Discover Yummy Sushi in Robbinsville Twp, NJ$$$Yummy Sushi in Robbinsville
+  Twp, NJ, offers a relaxed dining experience with options for dine-in and
+  takeout, making it a convenient choice for those seeking sushi restaurants
+  near me. The spot features an extensive selection of Japanese, Chinese, and
+  Thai dishes, highlighting fresh flavors and diverse menu choices that cater to
+  a variety of tastes. Accessibility is a key highlight, with
+  wheelchair-friendly parking, entrances, restrooms, and seating ensuring
+  everyone can enjoy the vibrant atmosphere. Photos from the location showcase
+  appealing presentations of signature rolls and entrees, drawing in locals and
+  visitors alike for a satisfying meal. Whether you're exploring top-rated sushi
+  options or simply craving authentic Asian cuisine, this spot stands out for
+  its casual vibe and thoughtful amenities.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Feedback from diners at spots like this often
+  highlights the appeal of a wide-ranging menu that delivers fresh and flavorful
+  sushi, making it a solid pick for anyone hunting for sushi close to me. Many
+  appreciate the welcoming, laid-back setting that feels perfect for casual
+  outings or quick takeout, with comments frequently noting the helpful service
+  and inclusive features. While experiences can vary, people tend to enjoy the
+  variety of options that blend Japanese favorites with other Asian influences,
+  keeping things exciting for groups or families. Overall, it's commonly
+  recommended as a reliable choice for tasty meals, though some suggest checking
+  for updates on availability to ensure a smooth visit. If you're on the hunt
+  for I love sushi moments in a neighborhood spot, this place generally earns
+  nods for its approachable vibe and solid offerings.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +250,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

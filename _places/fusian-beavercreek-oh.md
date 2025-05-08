@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "FUSIAN"
+title: FUSIAN
 permalink: /ohio/beavercreek/fusian.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Beavercreek
 seo:
-  name: "FUSIAN"
-  type: Restaurant
-  links: null
-description: "FUSIAN serves delicious sushi in Beavercreek, Ohio. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.fusian.com/?olonwp=JjBtp_vMLk25gkYh_bnoiQ
 place_id: ChIJxwkznWCcQIgR3hmX76bfJOI
 photos:
   - name: >-
@@ -143,7 +141,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC6_rLsXg!2e10!4m2!3m1!1s0x88409c609d3309c7:0xe224dfa6ef9719de
 address: The Mall at, 2733 Fairfield Cmns, Beavercreek, OH 45431, USA
-street: The Mall at, 2733 Fairfield Cmns
+street: The Mall at,2733 Fairfield Cmns
 city: Beavercreek
 state: OH
 zip: '45431'
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x88409c609d3309c7:0xe224dfa6ef9719de!10e5
 primary_type: Asian Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 10
+        minute: 45
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 10
+        minute: 45
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 10
+        minute: 45
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 10
+        minute: 45
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 10
+        minute: 45
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 10
+        minute: 45
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 10
+        minute: 45
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 10:45 AM – 10:00 PM'
+    - 'Tuesday: 10:45 AM – 10:00 PM'
+    - 'Wednesday: 10:45 AM – 10:00 PM'
+    - 'Thursday: 10:45 AM – 10:00 PM'
+    - 'Friday: 10:45 AM – 10:00 PM'
+    - 'Saturday: 10:45 AM – 10:00 PM'
+    - 'Sunday: 10:45 AM – 10:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,53 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (937) 999-2772
+price_level: PRICE_LEVEL_INEXPENSIVE
+price_range: $10 &ndash; $20
+rating: '4.2'
+rating_count: 703
+website: https://www.fusian.com/?olonwp=JjBtp_vMLk25gkYh_bnoiQ
+description: >-
+  FUSIAN in Beavercreek, OH: Fresh Japanese Eats$$$FUSIAN in Beavercreek, Ohio,
+  stands out as a vibrant counter-serve spot nestled in a bustling mall,
+  offering a modern twist on Japanese-inspired cuisine with customizable bowls
+  and sushi rolls. This eatery emphasizes fresh ingredients and caters to
+  various dietary needs, including vegan and gluten-free options, making it a
+  go-to choice for those exploring sushi restaurants in the area. Visitors can
+  enjoy a casual dining atmosphere with convenient accessibility features like
+  wheelchair-friendly entrances and seating, enhancing the overall experience.
+  The menu highlights inventive combinations that bring authentic flavors to
+  life, perfect for anyone seeking top-rated sushi close to home. With its
+  extended hours, it's an ideal stop for a quick, satisfying meal that combines
+  quality and convenience.
+generative_summary: >-
+  FUSIAN in Beavercreek, OH: Fresh Japanese Eats$$$FUSIAN in Beavercreek, Ohio,
+  stands out as a vibrant counter-serve spot nestled in a bustling mall,
+  offering a modern twist on Japanese-inspired cuisine with customizable bowls
+  and sushi rolls. This eatery emphasizes fresh ingredients and caters to
+  various dietary needs, including vegan and gluten-free options, making it a
+  go-to choice for those exploring sushi restaurants in the area. Visitors can
+  enjoy a casual dining atmosphere with convenient accessibility features like
+  wheelchair-friendly entrances and seating, enhancing the overall experience.
+  The menu highlights inventive combinations that bring authentic flavors to
+  life, perfect for anyone seeking top-rated sushi close to home. With its
+  extended hours, it's an ideal stop for a quick, satisfying meal that combines
+  quality and convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Say About FUSIAN's Sushi Scene$$$Folks often highlight the
+  tasty sushi and versatile rice bowls at this spot, praising the fresh
+  ingredients that make every bite feel satisfying and authentic. Many
+  appreciate the welcoming vibe and spotless environment, which add to the
+  enjoyable dining experience when checking out sushi places nearby. While some
+  note that service might occasionally take a bit longer during busy times, the
+  overall atmosphere and food quality keep drawing people back for more. It's
+  commonly described as a solid pick for groups or families looking for
+  affordable Japanese-inspired meals, with plenty of customization to suit
+  different tastes. All in all, this Beavercreek favorite delivers a reliably
+  good experience, especially for those on the hunt for the best sushi near me.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +314,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

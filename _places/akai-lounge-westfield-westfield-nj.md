@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Akai Lounge Westfield"
+title: Akai Lounge Westfield
 permalink: /new-jersey/westfield/akai-lounge-westfield.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Westfield
 seo:
-  name: "Akai Lounge Westfield"
-  type: Restaurant
+  type: restaurant
   links: https://www.akailounge.com/
-description: "Akai Lounge Westfield serves delicious sushi in Westfield, New Jersey. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ9eRl-Kixw4kRaRD3EPVud80
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c3b1a8f865e4f5:0xcd776ef510f71069!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 12
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 12
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 12
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 12
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 12
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 12:00 – 10:00 PM'
     - 'Tuesday: 12:00 – 10:00 PM'
     - 'Wednesday: 12:00 – 10:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 12:00 – 10:00 PM'
     - 'Saturday: 12:00 – 10:00 PM'
     - 'Sunday: 12:00 – 9:00 PM'
-  current:
-    - 'Monday: 12:00 – 10:00 PM'
-    - 'Tuesday: 12:00 – 10:00 PM'
-    - 'Wednesday: 12:00 – 10:00 PM'
-    - 'Thursday: 12:00 – 10:00 PM'
-    - 'Friday: 12:00 – 10:00 PM'
-    - 'Saturday: 12:00 – 10:00 PM'
-    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +246,44 @@ phone: (908) 264-8660
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.4'
-rating_count: 0
+rating_count: 428
 website: https://www.akailounge.com/
+description: >-
+  Experience Akai Lounge in Westfield, NJ$$$Akai Lounge Westfield in Westfield,
+  NJ, stands out as a contemporary destination for Japanese dining, blending
+  traditional flavors with creative twists in a welcoming setting. This modern
+  eatery offers a diverse menu featuring fresh sushi and other Japanese
+  specialties, complemented by a full bar with handcrafted drinks that enhance
+  the meal. Accessibility features like wheelchair-friendly entrances and
+  seating make it an inclusive spot for all guests, while its moderate pricing
+  appeals to those seeking quality without excess cost. Operating daily from
+  noon, it's an ideal choice for locals searching for reliable Japanese places
+  near them to enjoy innovative cuisine in a relaxed vibe.
+generative_summary: >-
+  Experience Akai Lounge in Westfield, NJ$$$Akai Lounge Westfield in Westfield,
+  NJ, stands out as a contemporary destination for Japanese dining, blending
+  traditional flavors with creative twists in a welcoming setting. This modern
+  eatery offers a diverse menu featuring fresh sushi and other Japanese
+  specialties, complemented by a full bar with handcrafted drinks that enhance
+  the meal. Accessibility features like wheelchair-friendly entrances and
+  seating make it an inclusive spot for all guests, while its moderate pricing
+  appeals to those seeking quality without excess cost. Operating daily from
+  noon, it's an ideal choice for locals searching for reliable Japanese places
+  near them to enjoy innovative cuisine in a relaxed vibe.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Buzz Around Akai Lounge$$$Folks generally rave about the fresh sushi and bold
+  Japanese flavors at this spot, often noting how the creative dishes keep
+  things exciting without skimping on taste. Many appreciate the solid service
+  and cozy atmosphere that make dining out feel effortless and enjoyable,
+  turning it into a go-to for groups or casual meals. While opinions vary, the
+  overall consensus highlights it as a reliable pick among top-rated sushi
+  restaurants, with praise for the value and variety that keeps customers coming
+  back. It's clear that visitors find the experience worthwhile, especially for
+  those hunting for great sushi close to home, though some mention room for
+  tweaks in wait times during busier hours.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +309,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

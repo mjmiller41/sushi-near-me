@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Osaka"
+title: Osaka
 permalink: /kentucky/louisville/osaka.html
 stateAbbr: KY
 stateName: Kentucky
 cityName: Louisville
 seo:
-  name: "Osaka"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "One of a small chain of casual Japanese eateries known for a selection of traditional sushi fare. Osaka serves delicious sushi in Louisville, Kentucky. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJRV-GzD5zaYgR2O7nFVtgykY
 photos:
   - name: >-
@@ -185,6 +183,35 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 0
 website: null
+description: >-
+  Explore Osaka in Louisville, KY$$$Osaka in Louisville, KY, stands out as a
+  casual Japanese eatery renowned for its fresh array of sushi rolls, flavorful
+  fried rice, and classic teriyaki dishes that capture the essence of authentic
+  flavors. Nestled in the vibrant Clifton neighborhood, this spot offers a
+  welcoming atmosphere with thoughtful accessibility features like
+  wheelchair-friendly entrances and seating, making it easy for everyone to
+  enjoy a meal. Diners can savor the variety of options that highlight creative
+  presentations and traditional tastes, perfect for those seeking sushi
+  restaurants in the area. With its moderate pricing and focus on quality
+  ingredients, Osaka provides a relaxed setting for casual outings or quick
+  bites, appealing to anyone exploring Japanese places near me. Whether you're
+  in the mood for inventive rolls or hearty sides, this establishment delivers a
+  satisfying experience that keeps locals coming back for more.
+generative_summary: >-
+  Explore Osaka in Louisville, KY$$$Osaka in Louisville, KY, stands out as a
+  casual Japanese eatery renowned for its fresh array of sushi rolls, flavorful
+  fried rice, and classic teriyaki dishes that capture the essence of authentic
+  flavors. Nestled in the vibrant Clifton neighborhood, this spot offers a
+  welcoming atmosphere with thoughtful accessibility features like
+  wheelchair-friendly entrances and seating, making it easy for everyone to
+  enjoy a meal. Diners can savor the variety of options that highlight creative
+  presentations and traditional tastes, perfect for those seeking sushi
+  restaurants in the area. With its moderate pricing and focus on quality
+  ingredients, Osaka provides a relaxed setting for casual outings or quick
+  bites, appealing to anyone exploring Japanese places near me. Whether you're
+  in the mood for inventive rolls or hearty sides, this establishment delivers a
+  satisfying experience that keeps locals coming back for more.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJRV-GzD5zaYgR2O7nFVtgykY/reviews/ChZDSUhNMG9nS0VJQ0FnTURRelotQlhBEAE
@@ -384,6 +411,21 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNneTlHS3h3RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNneTlHS3h3RRAB!2m1!1s0x8869733ecc865f45:0x46ca605b15e7eed8
+review_summary: >-
+  What People Are Saying About the Food$$$Visitors to this sushi spot often rave
+  about the tasty rolls and creative presentations that add a fun twist to their
+  meals, making it a go-to for anyone hunting for great sushi options nearby.
+  Many appreciate the cozy vibe and solid service that make dining out feel
+  effortless and enjoyable, with comments highlighting the flavorful dishes and
+  welcoming environment as standout features. While some note that certain items
+  might not hit the mark for everyone in terms of freshness or value, the
+  overall consensus leans positive, especially for those who love exploring
+  top-rated sushi in a laid-back setting. Feedback frequently mentions the
+  generous portions and variety that cater to different tastes, encouraging
+  folks to try it for a reliable meal. All in all, it's a solid choice for sushi
+  enthusiasts looking for honest, approachable dining that delivers on flavor
+  without overpromising.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeStreetParking: true
   valetParking: false
@@ -415,8 +457,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   One of a small chain of casual Japanese eateries known for a selection of
   traditional sushi fare.
 

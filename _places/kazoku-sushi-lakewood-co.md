@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kazoku Sushi"
+title: Kazoku Sushi
 permalink: /colorado/lakewood/kazoku-sushi.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Lakewood
 seo:
-  name: "Kazoku Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.kazokusushiorder.com/
-description: "Kazoku Sushi serves delicious sushi in Lakewood, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJH1bAY6KGa4cRoek_gcuo2cY
 photos:
   - name: >-
@@ -170,7 +168,97 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x876b86a263c0561f:0xc6d9a8cb813fe9a1!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 15
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 15
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 3:00 PM, 4:00 – 9:30 PM'
     - 'Tuesday: 11:00 AM – 3:00 PM, 4:00 – 9:30 PM'
     - 'Wednesday: 11:00 AM – 3:00 PM, 4:00 – 9:30 PM'
@@ -178,14 +266,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 3:00 PM, 4:00 – 10:00 PM'
     - 'Saturday: 12:00 – 10:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:00 AM – 3:00 PM, 4:00 – 9:30 PM'
-    - 'Tuesday: 11:00 AM – 3:00 PM, 4:00 – 9:30 PM'
-    - 'Wednesday: 11:00 AM – 3:00 PM, 4:00 – 9:30 PM'
-    - 'Thursday: 11:00 AM – 3:00 PM, 4:00 – 9:30 PM'
-    - 'Friday: 11:00 AM – 3:00 PM, 4:00 – 10:00 PM'
-    - 'Saturday: 12:00 – 10:00 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +278,227 @@ phone: (303) 238-1199
 price_level: PRICE_LEVEL_MODERATE
 price_range: $30 &ndash; $50
 rating: '4.5'
-rating_count: 0
+rating_count: 668
 website: https://www.kazokusushiorder.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Kazoku Sushi in Lakewood, CO$$$Kazoku Sushi in Lakewood, CO, stands
+  out as a vibrant spot for sushi enthusiasts seeking fresh Japanese cuisine in
+  a cozy setting. This restaurant features an array of unique rolls and
+  traditional Japanese dishes, complemented by a selection of sake and cocktails
+  that enhance the dining experience. With its swanky atmosphere and
+  accessibility options like wheelchair-friendly parking and entrances, it's an
+  inviting choice for those exploring sushi restaurants near me. The menu
+  highlights creative flavors and generous portions, making it a go-to for
+  anyone craving top-rated sushi in a welcoming environment. Operating with
+  convenient hours, including lunch and dinner services, it caters to both quick
+  visits and relaxed evenings out.
+generative_summary: >-
+  Discover Kazoku Sushi in Lakewood, CO$$$Kazoku Sushi in Lakewood, CO, stands
+  out as a vibrant spot for sushi enthusiasts seeking fresh Japanese cuisine in
+  a cozy setting. This restaurant features an array of unique rolls and
+  traditional Japanese dishes, complemented by a selection of sake and cocktails
+  that enhance the dining experience. With its swanky atmosphere and
+  accessibility options like wheelchair-friendly parking and entrances, it's an
+  inviting choice for those exploring sushi restaurants near me. The menu
+  highlights creative flavors and generous portions, making it a go-to for
+  anyone craving top-rated sushi in a welcoming environment. Operating with
+  convenient hours, including lunch and dinner services, it caters to both quick
+  visits and relaxed evenings out.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJH1bAY6KGa4cRoek_gcuo2cY/reviews/ChdDSUhNMG9nS0VJQ0FnTURJcXNXbzBRRRAB
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 5
+    text:
+      text: >-
+        This is our favorite sushi joint. We have been here 3 times in the past
+        8 months for massive birthday gatherings alone. Every time we end up
+        spending between $250-300. They bring them out tastefully on these giant
+        boats, beautifully decorated. Our photo is just one of the containers we
+        ended up taking home as leftovers.
+      languageCode: en
+    originalText:
+      text: >-
+        This is our favorite sushi joint. We have been here 3 times in the past
+        8 months for massive birthday gatherings alone. Every time we end up
+        spending between $250-300. They bring them out tastefully on these giant
+        boats, beautifully decorated. Our photo is just one of the containers we
+        ended up taking home as leftovers.
+      languageCode: en
+    authorAttribution:
+      displayName: Cassie Szendrodi
+      uri: https://www.google.com/maps/contrib/104068897387583201950/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocL-e7DOHnoz1h8McD_izaa2n6UJZBYdEpQdP-t2LWw1RP2I9Q=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-08T21:58:35.014738Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJcXNXbzBRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJcXNXbzBRRRAB!2m1!1s0x876b86a263c0561f:0xc6d9a8cb813fe9a1
+  - name: >-
+      places/ChIJH1bAY6KGa4cRoek_gcuo2cY/reviews/ChdDSUhNMG9nS0VJQ0FnSURfNV9xNDJnRRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        Absolutely exquisite! Came here for lunch and was BLOWN AWAY. Don’t let
+        the outside fool you, everything is freshly prepared. Two of us got the
+        3-roll lunch special and a shrimp tempura roll, walked away under $30,
+        and were stuffed to the gills with food. The tempura shrimp and sweet
+        potato was hot and amazing. Even their basic California roll was good.
+        My only complaint was that the 5-piece rolls were SO MASSIVE, there was
+        no way to eat them whole.
+      languageCode: en
+    originalText:
+      text: >-
+        Absolutely exquisite! Came here for lunch and was BLOWN AWAY. Don’t let
+        the outside fool you, everything is freshly prepared. Two of us got the
+        3-roll lunch special and a shrimp tempura roll, walked away under $30,
+        and were stuffed to the gills with food. The tempura shrimp and sweet
+        potato was hot and amazing. Even their basic California roll was good.
+        My only complaint was that the 5-piece rolls were SO MASSIVE, there was
+        no way to eat them whole.
+      languageCode: en
+    authorAttribution:
+      displayName: Kathryn Simecek
+      uri: https://www.google.com/maps/contrib/111799796170449129452/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXk3uX5AvU4nUUZr1eIxLUEcprsyQu_IsywJ6EIMvlhD2PhAdPQ=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-01-27T20:38:05.106474Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURfNV9xNDJnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURfNV9xNDJnRRAB!2m1!1s0x876b86a263c0561f:0xc6d9a8cb813fe9a1
+  - name: >-
+      places/ChIJH1bAY6KGa4cRoek_gcuo2cY/reviews/ChdDSUhNMG9nS0VJQ0FnSUNYNGFQajdnRRAB
+    relativePublishTimeDescription: 6 months ago
+    rating: 5
+    text:
+      text: >-
+        I really enjoyed this place. The food and the sweet plum wine were
+        amazing 👏
+
+        Service last night was great! Music on point, overall a great
+        experience!
+
+        They have an extensive menu so there's something for everyone
+      languageCode: en
+    originalText:
+      text: >-
+        I really enjoyed this place. The food and the sweet plum wine were
+        amazing 👏
+
+        Service last night was great! Music on point, overall a great
+        experience!
+
+        They have an extensive menu so there's something for everyone
+      languageCode: en
+    authorAttribution:
+      displayName: Paola Anzures
+      uri: https://www.google.com/maps/contrib/101784579005330313914/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXiSfRDOQA_rsy1ehg5Gk3-_onyqV2UGpDnJDloIbnDb5aOOwiETA=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-10-17T13:48:15.562075Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNYNGFQajdnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNYNGFQajdnRRAB!2m1!1s0x876b86a263c0561f:0xc6d9a8cb813fe9a1
+  - name: >-
+      places/ChIJH1bAY6KGa4cRoek_gcuo2cY/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJLUlQM0VBEAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Best sushi I've had in the area hands down. Great happy hour and the
+        freshest sushi
+      languageCode: en
+    originalText:
+      text: >-
+        Best sushi I've had in the area hands down. Great happy hour and the
+        freshest sushi
+      languageCode: en
+    authorAttribution:
+      displayName: River Farley
+      uri: https://www.google.com/maps/contrib/111051980317930847429/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVDutVCTwNuMb3ufDqCvBAJ4MxNQKHKsch91Vtq8DX1IwMbk7q08g=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-03-30T06:55:49.255213Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNJLUlQM0VBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNJLUlQM0VBEAE!2m1!1s0x876b86a263c0561f:0xc6d9a8cb813fe9a1
+  - name: >-
+      places/ChIJH1bAY6KGa4cRoek_gcuo2cY/reviews/ChdDSUhNMG9nS0VJQ0FnSURmZ01xQV9RRRAB
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        This is my go-to spot after work to just have a few sushi rolls in a
+        pleasant atmosphere! The sushi is always fantastic and never disappoints
+      languageCode: en
+    originalText:
+      text: >-
+        This is my go-to spot after work to just have a few sushi rolls in a
+        pleasant atmosphere! The sushi is always fantastic and never disappoints
+      languageCode: en
+    authorAttribution:
+      displayName: Cora
+      uri: https://www.google.com/maps/contrib/104681055927789932618/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIdYPDYgTUId65WAOReh5SirJoNTPENuSyygiJb1u0LMrv0LA=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-01-03T06:55:07.078012Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURmZ01xQV9RRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURmZ01xQV9RRRAB!2m1!1s0x876b86a263c0561f:0xc6d9a8cb813fe9a1
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this sushi spot often rave about the
+  fresh and flavorful rolls that make it a standout among Japanese places near
+  me, with many highlighting the great value and variety on offer. People
+  appreciate the generous portions and affordable lunch specials that leave you
+  feeling satisfied without breaking the bank, adding to its appeal for casual
+  diners. The atmosphere gets high marks for being pleasant and lively, perfect
+  for groups or a quick bite after work, while the service consistently comes
+  across as friendly and efficient. Overall, feedback points to consistently
+  delicious meals that live up to expectations, making it a reliable choice for
+  anyone loving sushi. If you're on the hunt for the best sushi near me, this
+  place delivers a positive experience that's worth trying.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
+curbside_pickup: true
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
 good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+live_music: false
+menu_for_children: true
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Colorful, swanky sushi spot offering a variety of unique rolls & Japanese eats
+  along with cocktails.
 
 ---

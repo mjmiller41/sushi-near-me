@@ -5,4 +5,5 @@ permalink: /pennsylvania/grove-city/
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Grove City
+
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Avocado California Roll & Sushi"
+title: Avocado California Roll & Sushi
 permalink: /texas/cedar-hill/avocado-california-roll-sushi.html
 stateAbbr: TX
 stateName: Texas
 cityName: Cedar Hill
 seo:
-  name: "Avocado California Roll & Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Avocado California Roll & Sushi serves delicious sushi in Cedar Hill, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJUbdYh8KNToYRhK3WsZFZO84
 photos:
   - name: >-
@@ -169,7 +167,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x864e8dc28758b751:0xce3b5991b1d6ad84!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:00 PM'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -177,14 +233,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:00 PM'
     - 'Saturday: 11:00 AM – 10:00 PM'
     - 'Sunday: 11:00 AM – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 10:00 PM'
-    - 'Saturday: 11:00 AM – 10:00 PM'
-    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,35 +245,248 @@ phone: (972) 291-8392
 price_level: null
 price_range: $10 &ndash; $20
 rating: '4.2'
-rating_count: 0
+rating_count: 577
 website: null
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Avocado California Roll & Sushi in Cedar Hill, TX$$$Avocado
+  California Roll & Sushi in Cedar Hill, TX, stands out as a top-rated spot for
+  fresh sushi and Japanese-inspired dishes, perfect for anyone seeking sushi
+  restaurants near me. This cozy eatery features an array of creative rolls and
+  flavorful options, including specialties presented in unique ways that add a
+  fun twist to your meal, alongside selections of sake and beer for a complete
+  dining experience. The modern, stylish interior creates a welcoming atmosphere
+  ideal for casual lunches or dinners, with accessibility features like
+  wheelchair-friendly seating making it easy for all to enjoy. Operating daily
+  with extended hours on weekends, it's a convenient choice for those exploring
+  Japanese places near me, offering teriyaki and lunch specials that highlight
+  fresh ingredients and thoughtful preparation.
+generative_summary: >-
+  Discover Avocado California Roll & Sushi in Cedar Hill, TX$$$Avocado
+  California Roll & Sushi in Cedar Hill, TX, stands out as a top-rated spot for
+  fresh sushi and Japanese-inspired dishes, perfect for anyone seeking sushi
+  restaurants near me. This cozy eatery features an array of creative rolls and
+  flavorful options, including specialties presented in unique ways that add a
+  fun twist to your meal, alongside selections of sake and beer for a complete
+  dining experience. The modern, stylish interior creates a welcoming atmosphere
+  ideal for casual lunches or dinners, with accessibility features like
+  wheelchair-friendly seating making it easy for all to enjoy. Operating daily
+  with extended hours on weekends, it's a convenient choice for those exploring
+  Japanese places near me, offering teriyaki and lunch specials that highlight
+  fresh ingredients and thoughtful preparation.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJUbdYh8KNToYRhK3WsZFZO84/reviews/ChZDSUhNMG9nS0VJQ0FnSUM3aWJYZ2VBEAE
+    relativePublishTimeDescription: 8 months ago
+    rating: 5
+    text:
+      text: >-
+        This was our first visit. Emilio our waiter was really attentive. The
+        soft christian music gave the place a peaceful atmosphere & THE FOOD WAS
+        THE BEST!! I got the crunch rolls and my husband  the shrimp ramen
+        🍲.😍😍🤤 We stayed in a hotel close by visiting from Arkansas. This
+        will definitely be in our stop list when visiting Dallas. The business
+        name is different in google its Moons Ramen & sushi
+      languageCode: en
+    originalText:
+      text: >-
+        This was our first visit. Emilio our waiter was really attentive. The
+        soft christian music gave the place a peaceful atmosphere & THE FOOD WAS
+        THE BEST!! I got the crunch rolls and my husband  the shrimp ramen
+        🍲.😍😍🤤 We stayed in a hotel close by visiting from Arkansas. This
+        will definitely be in our stop list when visiting Dallas. The business
+        name is different in google its Moons Ramen & sushi
+      languageCode: en
+    authorAttribution:
+      displayName: Leticia Perez
+      uri: https://www.google.com/maps/contrib/114011203570641714562/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWpdz9yMw-ZnBWWgTDPDV1V2RTRuxIcP4SKbmsP5fMtk98wnw5mHw=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-08-18T18:57:13.329239Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUM3aWJYZ2VBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUM3aWJYZ2VBEAE!2m1!1s0x864e8dc28758b751:0xce3b5991b1d6ad84
+  - name: >-
+      places/ChIJUbdYh8KNToYRhK3WsZFZO84/reviews/ChdDSUhNMG9nS0VJQ0FnSUNSMk9pc3R3RRAB
+    relativePublishTimeDescription: 2 years ago
+    rating: 4
+    text:
+      text: >-
+        I'd say that the rolls are good. Alot of the rolls are basically like
+        California rolls with different toppings. They tasted real good but for
+        someone that loves sushi like me, you may appreciate a different
+        approach. All of the seats have seat cushions. The inside is comfortable
+        and themed beautifully. I will be back for sure.
+      languageCode: en
+    originalText:
+      text: >-
+        I'd say that the rolls are good. Alot of the rolls are basically like
+        California rolls with different toppings. They tasted real good but for
+        someone that loves sushi like me, you may appreciate a different
+        approach. All of the seats have seat cushions. The inside is comfortable
+        and themed beautifully. I will be back for sure.
+      languageCode: en
+    authorAttribution:
+      displayName: Tamera Gray
+      uri: https://www.google.com/maps/contrib/113296831455025405277/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWJGfyfJ9bW_ofoS41SrUcOhKsSQ7DSpA50rvJMfbRvI4kTyHx05w=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2023-03-24T14:39:39.746277Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNSMk9pc3R3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNSMk9pc3R3RRAB!2m1!1s0x864e8dc28758b751:0xce3b5991b1d6ad84
+  - name: >-
+      places/ChIJUbdYh8KNToYRhK3WsZFZO84/reviews/ChZDSUhNMG9nS0VJQ0FnSUN1Z3J5SlFREAE
+    relativePublishTimeDescription: 2 years ago
+    rating: 4
+    text:
+      text: >-
+        Great place even though it's right next to the shopping center. We came
+        in and no one wanted to wait on us. It was our first time and non of the
+        ladies there was like let me help. We went to the front grabbed a menu
+        and looked. Then went to a table and then the waitress finally asked us
+        togo or for here. She was nice after she took our order and apologized
+        for not greeting us. The food was great we got the $30 special, 2 rolls
+        valued at $14 each and 2 appetizers and 2 miso soups 🍲 . Everything was
+        great and we enjoyed it. Will go back if we are ever by.
+      languageCode: en
+    originalText:
+      text: >-
+        Great place even though it's right next to the shopping center. We came
+        in and no one wanted to wait on us. It was our first time and non of the
+        ladies there was like let me help. We went to the front grabbed a menu
+        and looked. Then went to a table and then the waitress finally asked us
+        togo or for here. She was nice after she took our order and apologized
+        for not greeting us. The food was great we got the $30 special, 2 rolls
+        valued at $14 each and 2 appetizers and 2 miso soups 🍲 . Everything was
+        great and we enjoyed it. Will go back if we are ever by.
+      languageCode: en
+    authorAttribution:
+      displayName: Romario Pedraza
+      uri: https://www.google.com/maps/contrib/106679063540108725499/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWIKXgdBk1A67tvRV2tb2lBZaKgFM4S2KrcLsFqs3CX_kp5yx66=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2022-07-26T06:19:19.638884Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN1Z3J5SlFREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN1Z3J5SlFREAE!2m1!1s0x864e8dc28758b751:0xce3b5991b1d6ad84
+  - name: >-
+      places/ChIJUbdYh8KNToYRhK3WsZFZO84/reviews/ChdDSUhNMG9nS0VJQ0FnSUN5NW91b3J3RRAB
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        Update 12/14/24- this place has changed names. It's now moon and ramen
+        or something like that. The tea my mom asked for was from kroger, and
+        the water was room temp. We were told that there were whole wings, but
+        they ended up being 3 flats for $5.95. When we questioned it, the server
+        told us the cook said he ran out of whole wings, so he made those.
+        Shrimp fried rice tastes like it was cooked in a burnt skillet. Sadly,
+        my go-to chill spot is no more. I probably won't be back.
+
+
+        If you want to chill/relax, this is your place. Great miso soup, chicken
+        egg rolls and sushi!  I got the Cedar Hill roll.
+      languageCode: en
+    originalText:
+      text: >-
+        Update 12/14/24- this place has changed names. It's now moon and ramen
+        or something like that. The tea my mom asked for was from kroger, and
+        the water was room temp. We were told that there were whole wings, but
+        they ended up being 3 flats for $5.95. When we questioned it, the server
+        told us the cook said he ran out of whole wings, so he made those.
+        Shrimp fried rice tastes like it was cooked in a burnt skillet. Sadly,
+        my go-to chill spot is no more. I probably won't be back.
+
+
+        If you want to chill/relax, this is your place. Great miso soup, chicken
+        egg rolls and sushi!  I got the Cedar Hill roll.
+      languageCode: en
+    authorAttribution:
+      displayName: Kira Purnell
+      uri: https://www.google.com/maps/contrib/103293831543330594103/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUwEh8Z5eQuc8jZf5HhV8arwZSzJyJhn47qOct6uQGuAVceOsZe=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-12-14T20:47:26.281969Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN5NW91b3J3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN5NW91b3J3RRAB!2m1!1s0x864e8dc28758b751:0xce3b5991b1d6ad84
+  - name: >-
+      places/ChIJUbdYh8KNToYRhK3WsZFZO84/reviews/ChZDSUhNMG9nS0VJQ0FnSUNKN3V6RlRnEAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        This was my first time here and I really enjoyed myself. I really like
+        the decorating and our waitress was really nice. Food was amazing!
+      languageCode: en
+    originalText:
+      text: >-
+        This was my first time here and I really enjoyed myself. I really like
+        the decorating and our waitress was really nice. Food was amazing!
+      languageCode: en
+    authorAttribution:
+      displayName: blanca alex soto
+      uri: https://www.google.com/maps/contrib/111160824401309714646/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWDqOmKAsQjB0LzQz6DvNvCxC4-b0jqWwWFY4SYIRcfr1LYi2E=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2023-06-27T16:09:00.510749Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNKN3V6RlRnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNKN3V6RlRnEAE!2m1!1s0x864e8dc28758b751:0xce3b5991b1d6ad84
+review_summary: >-
+  What Customers Are Saying About This Sushi Spot$$$Visitors often rave about
+  the delicious sushi rolls and comforting ramen, noting that the food hits the
+  spot with its fresh flavors and creative twists that keep things exciting.
+  Many appreciate the relaxed atmosphere and friendly service, which make for a
+  pleasant outing whether you're stopping by for a quick bite or a leisurely
+  meal. While some mention occasional waits during busy times, the overall
+  experience is described as enjoyable and worth the visit, especially for
+  families or groups looking for good value. Folks highlight the cozy vibe and
+  tasty appetizers as standout elements, making it a go-to for anyone hunting
+  for the best sushi near me. All in all, it's a solid choice that delivers on
+  flavor and ambiance, encouraging repeat trips for those who love sushi.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
 good_for_sports: null
-live_music: null
-menu_for_children: null
+live_music: false
+menu_for_children: true
 outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+reservable: true
+restroom: true
+serves_beer: true
 serves_breakfast: null
 serves_brunch: null
 serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Modern counter-serve chain doing creative sushi, plus teriyaki & lunch
+  specials in stylish digs.
 
 ---

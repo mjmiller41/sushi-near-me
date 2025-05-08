@@ -5,4 +5,5 @@ permalink: /oregon/portland/
 stateAbbr: OR
 stateName: Oregon
 cityName: Portland
+
 ---

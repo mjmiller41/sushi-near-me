@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "SUSHI MOTO"
+title: SUSHI MOTO
 permalink: /oklahoma/oklahoma-city/sushi-moto.html
 stateAbbr: OK
 stateName: Oklahoma
 cityName: Oklahoma City
 seo:
-  name: "SUSHI MOTO"
-  type: Restaurant
+  type: restaurant
   links: https://www.eatsushimoto.com/
-description: "SUSHI MOTO serves delicious sushi in Oklahoma City, Oklahoma. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJLT1WkTMXsocRbC28_xFFqbg
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x87b2173391563d2d:0xb8a94511ffbc2d6c!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:00 PM'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -178,54 +226,310 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:30 PM'
     - 'Saturday: 11:00 AM – 9:30 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:00 AM – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 9:30 PM'
-    - 'Saturday: 11:00 AM – 9:30 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: false
+    periods:
+      - open:
+          day: 1
+          hour: 15
+          minute: 0
+        close:
+          day: 1
+          hour: 17
+          minute: 0
+      - open:
+          day: 2
+          hour: 15
+          minute: 0
+        close:
+          day: 2
+          hour: 17
+          minute: 0
+      - open:
+          day: 3
+          hour: 15
+          minute: 0
+        close:
+          day: 3
+          hour: 17
+          minute: 0
+      - open:
+          day: 4
+          hour: 15
+          minute: 0
+        close:
+          day: 4
+          hour: 17
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 3:00 – 5:00 PM'
+      - 'Tuesday: 3:00 – 5:00 PM'
+      - 'Wednesday: 3:00 – 5:00 PM'
+      - 'Thursday: 3:00 – 5:00 PM'
+      - 'Friday: Closed'
+      - 'Saturday: Closed'
+      - 'Sunday: Closed'
+    secondaryHoursType: HAPPY_HOUR
+    nextOpenTime: '2025-05-05T20:00:00Z'
 phone: (405) 602-6333
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.5'
-rating_count: 0
+rating_count: 1017
 website: https://www.eatsushimoto.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover SUSHI MOTO in Oklahoma City$$$SUSHI MOTO in Oklahoma City, OK, stands
+  out as a welcoming spot for fresh Japanese flavors, blending casual vibes with
+  a menu full of creative rolls and hearty bowls. This eatery delights with its
+  array of sushi options, poke bowls, and tempura dishes, all served in a
+  relaxed setting that includes accessible features like wheelchair-friendly
+  entrances and parking. Happy hour specials add extra appeal for those seeking
+  affordable bites in the Midtown neighborhood, making it a go-to choice for
+  everyday dining. The spot's moderate pricing and variety of vegetarian options
+  ensure it's suitable for different tastes, while its operational hours cater
+  to lunch and dinner crowds looking for quality Japanese eats nearby.
+generative_summary: >-
+  Discover SUSHI MOTO in Oklahoma City$$$SUSHI MOTO in Oklahoma City, OK, stands
+  out as a welcoming spot for fresh Japanese flavors, blending casual vibes with
+  a menu full of creative rolls and hearty bowls. This eatery delights with its
+  array of sushi options, poke bowls, and tempura dishes, all served in a
+  relaxed setting that includes accessible features like wheelchair-friendly
+  entrances and parking. Happy hour specials add extra appeal for those seeking
+  affordable bites in the Midtown neighborhood, making it a go-to choice for
+  everyday dining. The spot's moderate pricing and variety of vegetarian options
+  ensure it's suitable for different tastes, while its operational hours cater
+  to lunch and dinner crowds looking for quality Japanese eats nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJLT1WkTMXsocRbC28_xFFqbg/reviews/ChZDSUhNMG9nS0VJQ0FnSUNQZ2VpbFpBEAE
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        Sushi Moto is one of the best sushi places that I have EVER eaten at.
+        It's so good that I drive 2 hours and 30 minutes to Oklahoma City nearly
+        EVERY MONTH just to eat here for dinner on a random Friday night! My
+        favorites are the Spicy Cowboy, Princess, and Spicy Cajun. 🤤 They are
+        MOUTH WATERING GOOD! The Thai tea also hits the spot. I've also had
+        other rolls, and they have never done me wrong. I highly recommend that
+        everyone try this spot out.
+      languageCode: en
+    originalText:
+      text: >-
+        Sushi Moto is one of the best sushi places that I have EVER eaten at.
+        It's so good that I drive 2 hours and 30 minutes to Oklahoma City nearly
+        EVERY MONTH just to eat here for dinner on a random Friday night! My
+        favorites are the Spicy Cowboy, Princess, and Spicy Cajun. 🤤 They are
+        MOUTH WATERING GOOD! The Thai tea also hits the spot. I've also had
+        other rolls, and they have never done me wrong. I highly recommend that
+        everyone try this spot out.
+      languageCode: en
+    authorAttribution:
+      displayName: Mike Thornton
+      uri: https://www.google.com/maps/contrib/116995694334485871976/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUSNNkneox4BqKYcFs-7yt5747rgkzXWfalh3fT1Fg9w9Yu0ge6VQ=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-11-25T01:05:16.619456Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNQZ2VpbFpBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNQZ2VpbFpBEAE!2m1!1s0x87b2173391563d2d:0xb8a94511ffbc2d6c
+  - name: >-
+      places/ChIJLT1WkTMXsocRbC28_xFFqbg/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3c01yVlF3EAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        When we first walked in, we were greated with smiles and great service.
+        The stove was best of all but on top of that,   We ordered a spicy
+        cowboy and two other rolls.  It was really tasty! I'd recommend getting
+        food to go or dine in !
+      languageCode: en
+    originalText:
+      text: >-
+        When we first walked in, we were greated with smiles and great service.
+        The stove was best of all but on top of that,   We ordered a spicy
+        cowboy and two other rolls.  It was really tasty! I'd recommend getting
+        food to go or dine in !
+      languageCode: en
+    authorAttribution:
+      displayName: Amanda SueCyn Henne
+      uri: https://www.google.com/maps/contrib/106868388680416956309/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXt8DhbLS6G0FOqiHgSGb8EJfAO4lPiol-D-NiEL3MbH6y52lwFxg=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-03-16T04:21:21.453997Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUN3c01yVlF3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUN3c01yVlF3EAE!2m1!1s0x87b2173391563d2d:0xb8a94511ffbc2d6c
+  - name: >-
+      places/ChIJLT1WkTMXsocRbC28_xFFqbg/reviews/ChdDSUhNMG9nS0VJQ0FnTURvanJDVWxRRRAB
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        Absolutely perfect every time. With the lunch special and 2 drinks, it's
+        still under 40 dollars. Quality, large pieces of fish were in my poke
+        bowl and a healthy amount of cream cheese in my boyfriends fries rolls.
+      languageCode: en
+    originalText:
+      text: >-
+        Absolutely perfect every time. With the lunch special and 2 drinks, it's
+        still under 40 dollars. Quality, large pieces of fish were in my poke
+        bowl and a healthy amount of cream cheese in my boyfriends fries rolls.
+      languageCode: en
+    authorAttribution:
+      displayName: Sariah Greenhalgh
+      uri: https://www.google.com/maps/contrib/104550647499554083237/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKFf3pEDS3sgSxBn5Z8eEQ3D5mJaq5MZLuDwhuxEC_tpszcmg=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-24T19:51:06.879463Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURvanJDVWxRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURvanJDVWxRRRAB!2m1!1s0x87b2173391563d2d:0xb8a94511ffbc2d6c
+  - name: >-
+      places/ChIJLT1WkTMXsocRbC28_xFFqbg/reviews/ChZDSUhNMG9nS0VJQ0FnSUN2c2JtRFJnEAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 3
+    text:
+      text: >-
+        Sushi Moto was okay for the most part.  The service was great, and the
+        sushi was lacking flavor.
+
+
+        I enjoyed the edamame - cooked very well.  Parking is available, but
+        could be packed on lunch hour. There are lunch specials so the total
+        amount order doesn't break the bank either.  Feel free to check it out,
+        if you'd like something quick.
+      languageCode: en
+    originalText:
+      text: >-
+        Sushi Moto was okay for the most part.  The service was great, and the
+        sushi was lacking flavor.
+
+
+        I enjoyed the edamame - cooked very well.  Parking is available, but
+        could be packed on lunch hour. There are lunch specials so the total
+        amount order doesn't break the bank either.  Feel free to check it out,
+        if you'd like something quick.
+      languageCode: en
+    authorAttribution:
+      displayName: blushcoloredcopperhead
+      uri: https://www.google.com/maps/contrib/104105896185012667094/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXL-tUXXu78-Rt-BMUu3JyZu93DESH_mE9-junPVyefCIcczXzc=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-01-18T19:42:23.960052Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN2c2JtRFJnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN2c2JtRFJnEAE!2m1!1s0x87b2173391563d2d:0xb8a94511ffbc2d6c
+  - name: >-
+      places/ChIJLT1WkTMXsocRbC28_xFFqbg/reviews/ChdDSUhNMG9nS0VJQ0FnSUR2cXJyQml3RRAB
+    relativePublishTimeDescription: 4 months ago
+    rating: 4
+    text:
+      text: >-
+        Like did not realize that this was the former GoGo Shshi, still the same
+        layout, still serving quality sushi at a good price!
+
+
+        I was in the area working when I realized it was after lunch and I had
+        BOGO so I had to stop in.  Luckily for me it was well after the lunch
+        rush so basically pretty empty.
+
+
+        I must admit the rolls I selected were awesome!  The Rock n Roll and the
+        Great Gatsby such a great  choice.  I was looking for the Ikura on the
+        menu but they didn't offer that so I opted for the Masago Nigiri - a
+        suitable substitute.
+
+
+        I'm flag in stopped in it read will with the visit.  Service was great,
+        parking was ample at that time of day and the sushi . . . delicious!  If
+        you're a Sushi fan you need to give this place a try!
+      languageCode: en
+    originalText:
+      text: >-
+        Like did not realize that this was the former GoGo Shshi, still the same
+        layout, still serving quality sushi at a good price!
+
+
+        I was in the area working when I realized it was after lunch and I had
+        BOGO so I had to stop in.  Luckily for me it was well after the lunch
+        rush so basically pretty empty.
+
+
+        I must admit the rolls I selected were awesome!  The Rock n Roll and the
+        Great Gatsby such a great  choice.  I was looking for the Ikura on the
+        menu but they didn't offer that so I opted for the Masago Nigiri - a
+        suitable substitute.
+
+
+        I'm flag in stopped in it read will with the visit.  Service was great,
+        parking was ample at that time of day and the sushi . . . delicious!  If
+        you're a Sushi fan you need to give this place a try!
+      languageCode: en
+    authorAttribution:
+      displayName: Terry Bowler
+      uri: https://www.google.com/maps/contrib/111442327008709897861/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWlpWIzPJpDE91FE8Mts1-9rc6KP2sLBI6L-q9glBRr9V3vh4B5=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2024-12-19T12:38:21.599425Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR2cXJyQml3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR2cXJyQml3RRAB!2m1!1s0x87b2173391563d2d:0xb8a94511ffbc2d6c
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors often rave about the fresh sushi and
+  generous portions at this sushi spot, highlighting how the flavorful rolls and
+  bowls make it a solid pick for a satisfying meal. Many appreciate the friendly
+  service and great value, especially with lunch specials that keep things
+  budget-friendly without skimping on quality. While most feedback praises the
+  tasty combinations and quick service, a few note that flavors can vary,
+  suggesting it might not wow everyone on every visit. Overall, it's a reliable
+  choice for anyone craving Japanese cuisine, with the convenience of takeout or
+  dine-in options adding to its charm. If you're exploring sushi restaurants in
+  the area, this one frequently comes up as a favorite for its approachable
+  atmosphere and reliable offerings.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: true
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: false
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Relaxed Japanese eatery with staples such as sushi, sashimi, hibachi, noodle
+  dishes & tempura.
 
 ---

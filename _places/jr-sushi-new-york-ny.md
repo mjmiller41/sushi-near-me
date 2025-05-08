@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "JR Sushi"
+title: JR Sushi
 permalink: /new-york/new-york/jr-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "JR Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.jrsushi.com/?utm_source=gmb&utm_medium=website
-description: "Snug nook featuring sashimi & creative rolls plus bubble teas, flavored iced teas & yogurt drinks. JR Sushi serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJDaXc2B5awokRZLdRComJ-C0
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 0
 website: http://www.jrsushi.com/?utm_source=gmb&utm_medium=website
+description: >-
+  Discover JR Sushi in New York, NY$$$JR Sushi in New York, NY, provides a
+  relaxed spot for enjoying fresh sushi with creative twists on classic dishes,
+  making it a go-to for those seeking authentic Japanese flavors in a cozy
+  setting. The menu highlights innovative rolls and sashimi paired with
+  refreshing bubble teas and flavored iced drinks, appealing to both dine-in
+  crowds and those opting for convenient takeout or delivery. Accessibility
+  features like wheelchair-friendly entrances and seating ensure a welcoming
+  experience for all visitors, enhancing its appeal as a versatile sushi
+  destination. With moderate pricing, this spot balances quality ingredients and
+  modern presentations, perfect for anyone exploring top sushi options in the
+  area.
+generative_summary: >-
+  Discover JR Sushi in New York, NY$$$JR Sushi in New York, NY, provides a
+  relaxed spot for enjoying fresh sushi with creative twists on classic dishes,
+  making it a go-to for those seeking authentic Japanese flavors in a cozy
+  setting. The menu highlights innovative rolls and sashimi paired with
+  refreshing bubble teas and flavored iced drinks, appealing to both dine-in
+  crowds and those opting for convenient takeout or delivery. Accessibility
+  features like wheelchair-friendly entrances and seating ensure a welcoming
+  experience for all visitors, enhancing its appeal as a versatile sushi
+  destination. With moderate pricing, this spot balances quality ingredients and
+  modern presentations, perfect for anyone exploring top sushi options in the
+  area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJDaXc2B5awokRZLdRComJ-C0/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ3X2RDUFdnEAE
@@ -342,6 +365,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR6Z3RmQ2RBEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR6Z3RmQ2RBEAE!2m1!1s0x89c25a1ed8dca50d:0x2df889890a51b764
+review_summary: >-
+  What Customers Are Buzzing About$$$Folks generally rave about the fresh and
+  tasty sushi at this spot, with many highlighting the creative rolls and quick,
+  professional service that make meals feel effortless and enjoyable. While one
+  comment noted smaller portions and higher costs for what they got, the
+  majority appreciate the value, especially with affordable lunch specials that
+  deliver a healthy, satisfying bite without breaking the bank. The cozy
+  atmosphere comes up often as a plus, creating a comfortable vibe ideal for
+  casual get-togethers or solo outings near you. Overall, it's clear that the
+  emphasis on fresh ingredients and friendly service keeps diners coming back,
+  making it a solid choice for anyone hunting for reliable sushi restaurants in
+  the neighborhood.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options:
   acceptsCreditCards: true
@@ -371,8 +407,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Snug nook featuring sashimi & creative rolls plus bubble teas, flavored iced
   teas & yogurt drinks.
 

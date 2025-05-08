@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Asian Spice Cafe"
+title: Asian Spice Cafe
 permalink: /virginia/ashburn/asian-spice-cafe.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Ashburn
 seo:
-  name: "Asian Spice Cafe"
-  type: Restaurant
+  type: restaurant
   links: http://www.asianspicecafe.com/
-description: "Laid-back Chinese eatery with booth seating & a sushi bar supplying straightforward fare. Asian Spice Cafe serves delicious sushi in Ashburn, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJycbE9os_tokRMSTSjBBAhJU
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $10 &ndash; $20
 rating: '4.0'
 rating_count: 0
 website: http://www.asianspicecafe.com/
+description: >-
+  About Asian Spice Cafe in Ashburn, VA$$$Asian Spice Cafe in Ashburn, VA,
+  stands out as a relaxed destination for authentic Asian flavors, blending
+  Chinese specialties with fresh sushi options in a welcoming atmosphere. This
+  spot features comfortable booth seating and a dedicated sushi bar, making it
+  ideal for casual meals that highlight affordable and straightforward dishes.
+  Accessibility is a key strength, with wheelchair-friendly parking, entrances,
+  and restrooms ensuring everyone can enjoy the experience. Drawing from its
+  casual vibe and diverse menu, it's a great choice for those seeking everyday
+  Asian cuisine without the fuss. Whether you're in the mood for classic
+  favorites or exploring sushi varieties, this eatery delivers a satisfying
+  dining option in the heart of the area.
+generative_summary: >-
+  About Asian Spice Cafe in Ashburn, VA$$$Asian Spice Cafe in Ashburn, VA,
+  stands out as a relaxed destination for authentic Asian flavors, blending
+  Chinese specialties with fresh sushi options in a welcoming atmosphere. This
+  spot features comfortable booth seating and a dedicated sushi bar, making it
+  ideal for casual meals that highlight affordable and straightforward dishes.
+  Accessibility is a key strength, with wheelchair-friendly parking, entrances,
+  and restrooms ensuring everyone can enjoy the experience. Drawing from its
+  casual vibe and diverse menu, it's a great choice for those seeking everyday
+  Asian cuisine without the fuss. Whether you're in the mood for classic
+  favorites or exploring sushi varieties, this eatery delivers a satisfying
+  dining option in the heart of the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJycbE9os_tokRMSTSjBBAhJU/reviews/ChdDSUhNMG9nS0VJQ0FnSURfMXFpVXl3RRAB
@@ -322,6 +345,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUN3bG9PY3V3RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUN3bG9PY3V3RRAB!2m1!1s0x89b63f8bf6c4c6c9:0x958440108cd22431
+review_summary: >-
+  Customer Feedback Highlights$$$Visitors often praise Asian Spice Cafe for its
+  speedy service and budget-friendly lunch deals, making it a solid pick for
+  quick, tasty meals on a budget. While some dishes like beef broccoli
+  consistently hit the mark with their reliable flavors, a few comments note
+  that certain items can feel overly oily or inconsistent in quality, such as
+  the sushi selections. Overall, the value stands out, with many appreciating
+  the inclusive pricing that covers drinks and leaves you feeling satisfied.
+  Despite occasional mixed experiences, the general vibe keeps things positive
+  for groups or families looking for straightforward Asian eats. If you're
+  searching for accessible sushi spots nearby, this place offers a welcoming
+  option worth trying for its everyday appeal.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -354,8 +390,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: null
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Laid-back Chinese eatery with booth seating & a sushi bar supplying
   straightforward fare.
 

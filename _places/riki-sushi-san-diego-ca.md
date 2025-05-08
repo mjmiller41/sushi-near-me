@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Riki Sushi"
+title: Riki Sushi
 permalink: /california/san-diego/riki-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: San Diego
 seo:
-  name: "Riki Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.rikisushisd.com/
-description: "This casual yet contemporary Japanese eatery offers classic sushi & rolls, plus hot entrees. Riki Sushi serves delicious sushi in San Diego, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJo2rLk_ZU2YARztPCQqhLzu0
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 0
 website: http://www.rikisushisd.com/
+description: >-
+  Discover Riki Sushi in San Diego, CA$$$Riki Sushi in San Diego, CA, delivers a
+  welcoming blend of traditional and contemporary Japanese dining, featuring
+  fresh sushi rolls and hearty hot entrees in a casual atmosphere. This spot
+  stands out for its variety of vegetarian options, making it a great choice for
+  diverse tastes among sushi restaurants in the area. Accessibility features
+  like wheelchair-friendly entrances and seating add to the inclusive vibe,
+  ensuring everyone can enjoy the experience. Patrons appreciate the outdoor
+  seating and moderate pricing, which enhance the relaxed setting for those
+  seeking top-rated sushi near me. With its focus on quality ingredients and
+  efficient service, it's an ideal destination for authentic Japanese flavors in
+  a neighborhood-friendly environment.
+generative_summary: >-
+  Discover Riki Sushi in San Diego, CA$$$Riki Sushi in San Diego, CA, delivers a
+  welcoming blend of traditional and contemporary Japanese dining, featuring
+  fresh sushi rolls and hearty hot entrees in a casual atmosphere. This spot
+  stands out for its variety of vegetarian options, making it a great choice for
+  diverse tastes among sushi restaurants in the area. Accessibility features
+  like wheelchair-friendly entrances and seating add to the inclusive vibe,
+  ensuring everyone can enjoy the experience. Patrons appreciate the outdoor
+  seating and moderate pricing, which enhance the relaxed setting for those
+  seeking top-rated sushi near me. With its focus on quality ingredients and
+  efficient service, it's an ideal destination for authentic Japanese flavors in
+  a neighborhood-friendly environment.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJo2rLk_ZU2YARztPCQqhLzu0/reviews/ChZDSUhNMG9nS0VJQ0FnSUQzMUlhdlJnEAE
@@ -362,6 +385,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUREN01ISjNRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUREN01ISjNRRRAB!2m1!1s0x80d954f693cb6aa3:0xedce4ba842c2d3ce
+review_summary: >-
+  What Customers Are Saying About the Food$$$Folks frequently praise the
+  creative sushi rolls and nigiri at this spot, highlighting their unique
+  flavors and fresh ingredients that make meals memorable without breaking the
+  bank. Many note the quick service and tasty sides like salads, which add a
+  nice touch to the overall dining vibe. While some mention occasional waits
+  during busy times, the general consensus is that the food quality shines
+  through and leaves diners satisfied. It's often described as a solid pick for
+  families or groups looking for reliable Japanese options, with affordable
+  prices keeping things approachable. Overall, the positive feedback on the
+  melt-in-your-mouth dishes and efficient atmosphere makes it a go-to for anyone
+  exploring sushi places near me.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeStreetParking: true
   paidStreetParking: true
@@ -394,8 +430,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   This casual yet contemporary Japanese eatery offers classic sushi & rolls,
   plus hot entrees.
 

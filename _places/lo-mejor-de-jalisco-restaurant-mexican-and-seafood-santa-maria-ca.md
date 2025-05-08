@@ -1,15 +1,14 @@
 ---
 layout: place
-title: "Lo Mejor De Jalisco Restaurant Mexican And Seafood"
-permalink: /california/santa-maria/lo-mejor-de-jalisco-restaurant-mexican-and-seafood.html
+title: Lo Mejor De Jalisco Restaurant Mexican And Seafood
+permalink: >-
+  /california/santa-maria/lo-mejor-de-jalisco-restaurant-mexican-and-seafood.html
 stateAbbr: CA
 stateName: California
 cityName: Santa Maria
 seo:
-  name: "Lo Mejor De Jalisco Restaurant Mexican And Seafood"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Lo Mejor De Jalisco Restaurant Mexican And Seafood serves delicious sushi in Santa Maria, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJmf2BZJlr7IARKn9NvrY_FT0
 photos:
   - name: >-
@@ -169,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80ec6b996481fd99:0x3d153fb6be4d7f2a!10e5
 primary_type: Mexican Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 6
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 6
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 6
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 6
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 6
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 6
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 6
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 6:00 AM – 9:00 PM'
     - 'Tuesday: 6:00 AM – 9:00 PM'
     - 'Wednesday: 6:00 AM – 9:00 PM'
@@ -177,14 +234,7 @@ opening_hours:
     - 'Friday: 6:00 AM – 9:00 PM'
     - 'Saturday: 6:00 AM – 9:00 PM'
     - 'Sunday: 6:00 AM – 9:00 PM'
-  current:
-    - 'Monday: 6:00 AM – 9:00 PM'
-    - 'Tuesday: 6:00 AM – 9:00 PM'
-    - 'Wednesday: 6:00 AM – 9:00 PM'
-    - 'Thursday: 6:00 AM – 9:00 PM'
-    - 'Friday: 6:00 AM – 9:00 PM'
-    - 'Saturday: 6:00 AM – 9:00 PM'
-    - 'Sunday: 6:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,35 +246,240 @@ phone: (805) 925-0194
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.4'
-rating_count: 0
+rating_count: 548
 website: null
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Experience Lo Mejor De Jalisco in Santa Maria, CA$$$Lo Mejor De Jalisco
+  Restaurant Mexican And Seafood in Santa Maria, CA, delivers a taste of
+  traditional Mexican cuisine in a welcoming, laid-back atmosphere. This spot
+  highlights flavorful dishes like enchiladas and stuffed fish, paired with a
+  relaxed setting that includes outdoor seating options for a casual dining
+  experience. The restaurant operates daily from early morning to evening,
+  making it convenient for breakfast, lunch, or dinner, with accessible features
+  like wheelchair-friendly entrances and parking. Its moderate pricing offers
+  great value for authentic flavors, appealing to those seeking quality Mexican
+  and seafood options nearby.
+generative_summary: >-
+  Experience Lo Mejor De Jalisco in Santa Maria, CA$$$Lo Mejor De Jalisco
+  Restaurant Mexican And Seafood in Santa Maria, CA, delivers a taste of
+  traditional Mexican cuisine in a welcoming, laid-back atmosphere. This spot
+  highlights flavorful dishes like enchiladas and stuffed fish, paired with a
+  relaxed setting that includes outdoor seating options for a casual dining
+  experience. The restaurant operates daily from early morning to evening,
+  making it convenient for breakfast, lunch, or dinner, with accessible features
+  like wheelchair-friendly entrances and parking. Its moderate pricing offers
+  great value for authentic flavors, appealing to those seeking quality Mexican
+  and seafood options nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJmf2BZJlr7IARKn9NvrY_FT0/reviews/ChdDSUhNMG9nS0VJQ0FnSUQzcHUzYnBBRRAB
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        A friend recommended this place to us as an authentic Mexican
+        restaurant.  A definite must visit place.   We had the Chile Relleno
+        plate. The food was very delicious. This was the best Chili Relleno I
+        have ever had.  I didn't realize i needed to take a picture until after
+        I ate a few bites.    Our server Maria was very helpful.  I wish I knew
+        more of the Mexican language to be able to communicate with them.  We
+        came all the way from the middle of Wyoming to eat here.   It's
+        definitely worth it.
+      languageCode: en
+    originalText:
+      text: >-
+        A friend recommended this place to us as an authentic Mexican
+        restaurant.  A definite must visit place.   We had the Chile Relleno
+        plate. The food was very delicious. This was the best Chili Relleno I
+        have ever had.  I didn't realize i needed to take a picture until after
+        I ate a few bites.    Our server Maria was very helpful.  I wish I knew
+        more of the Mexican language to be able to communicate with them.  We
+        came all the way from the middle of Wyoming to eat here.   It's
+        definitely worth it.
+      languageCode: en
+    authorAttribution:
+      displayName: Micheal Nading
+      uri: https://www.google.com/maps/contrib/105786836136958100969/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUOIsDiDTXZL267BwwUPGm47bhCc6DgsHUBgvpRuiFgpX1oTYcDDA=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-11-14T17:43:24.137383Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQzcHUzYnBBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQzcHUzYnBBRRAB!2m1!1s0x80ec6b996481fd99:0x3d153fb6be4d7f2a
+  - name: >-
+      places/ChIJmf2BZJlr7IARKn9NvrY_FT0/reviews/ChdDSUhNMG9nS0VJQ0FnSURQdzQybHJBRRAB
+    relativePublishTimeDescription: 4 months ago
+    rating: 4
+    text:
+      text: >-
+        Didn’t really think the shredded chicken sope was good but the shrimps
+        and chile rellenos were great! Our waitress was very nice too.
+        Unfortunately we were the last ones there and they started cleaning the
+        floors with a strong Clorox solution that was so disturbing. I think
+        they could have waited for their customers to leave because we were
+        enjoying our experience before that.
+      languageCode: en
+    originalText:
+      text: >-
+        Didn’t really think the shredded chicken sope was good but the shrimps
+        and chile rellenos were great! Our waitress was very nice too.
+        Unfortunately we were the last ones there and they started cleaning the
+        floors with a strong Clorox solution that was so disturbing. I think
+        they could have waited for their customers to leave because we were
+        enjoying our experience before that.
+      languageCode: en
+    authorAttribution:
+      displayName: Alicia Anaya
+      uri: https://www.google.com/maps/contrib/115301364482190622631/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLxgtOPq7HFvv37aHdn7BF50ACXyycLn7X_TmKyQ-7v-xv3TQ=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-12-05T06:09:45.925848Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURQdzQybHJBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURQdzQybHJBRRAB!2m1!1s0x80ec6b996481fd99:0x3d153fb6be4d7f2a
+  - name: >-
+      places/ChIJmf2BZJlr7IARKn9NvrY_FT0/reviews/ChZDSUhNMG9nS0VJQ0FnTURRaDZ5T1BREAE
+    relativePublishTimeDescription: a month ago
+    rating: 4
+    text:
+      text: >-
+        Great Mexican food,; extensive seafood menu and standard meat items
+        available.  The complimentary soup starter is a very nice touch! 
+        Quality of food very good; service very friendly and good.  In
+        restaurant seating is limited but for larger parties there is outdoor
+        seating in a rented area.
+      languageCode: en
+    originalText:
+      text: >-
+        Great Mexican food,; extensive seafood menu and standard meat items
+        available.  The complimentary soup starter is a very nice touch! 
+        Quality of food very good; service very friendly and good.  In
+        restaurant seating is limited but for larger parties there is outdoor
+        seating in a rented area.
+      languageCode: en
+    authorAttribution:
+      displayName: Y Muncher
+      uri: https://www.google.com/maps/contrib/103468562405970161906/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLHdDtpMCFd2P1VUIWFsbZMuDURteN0wGZDf-lOe4CscCcVpA=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-03-14T19:20:40.178502Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURRaDZ5T1BREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURRaDZ5T1BREAE!2m1!1s0x80ec6b996481fd99:0x3d153fb6be4d7f2a
+  - name: >-
+      places/ChIJmf2BZJlr7IARKn9NvrY_FT0/reviews/ChZDSUhNMG9nS0VJQ0FnSUNEdDh1SkVnEAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        Nothing fancy - just great, authentic Mexican food.
+
+        And, bonus you can bring in your guitar and serenade, or be serenaded.
+
+        I went with 3 colleagues and everyone raved about their meals.  I had
+        Pork Tamales with rice and refried beans - amazing! If you are anywhere
+        near you have to stop in.
+
+        Most highly recommended!
+      languageCode: en
+    originalText:
+      text: >-
+        Nothing fancy - just great, authentic Mexican food.
+
+        And, bonus you can bring in your guitar and serenade, or be serenaded.
+
+        I went with 3 colleagues and everyone raved about their meals.  I had
+        Pork Tamales with rice and refried beans - amazing! If you are anywhere
+        near you have to stop in.
+
+        Most highly recommended!
+      languageCode: en
+    authorAttribution:
+      displayName: USA is a Constitutional Federal Republic
+      uri: https://www.google.com/maps/contrib/114588985372346890464/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXGL57GDsjFDxyh_NvUOkVb03vD3Q4BhudiklKD6bykH_JNwjMR=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2025-01-03T18:22:06.537181Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNEdDh1SkVnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNEdDh1SkVnEAE!2m1!1s0x80ec6b996481fd99:0x3d153fb6be4d7f2a
+  - name: >-
+      places/ChIJmf2BZJlr7IARKn9NvrY_FT0/reviews/ChdDSUhNMG9nS0VJQ0FnSURyMC1PNTdnRRAB
+    relativePublishTimeDescription: 9 months ago
+    rating: 5
+    text:
+      text: >-
+        Best Mexican food I've ever had. Unfortunately, I was only a visitor to
+        the area! I had a chile relleno and enchilada, both were very good. I
+        wish this quality of Mexican food was where I live!
+      languageCode: en
+    originalText:
+      text: >-
+        Best Mexican food I've ever had. Unfortunately, I was only a visitor to
+        the area! I had a chile relleno and enchilada, both were very good. I
+        wish this quality of Mexican food was where I live!
+      languageCode: en
+    authorAttribution:
+      displayName: Kat Spaw
+      uri: https://www.google.com/maps/contrib/101987228787008760097/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXj5RbWpu0H1pAGw4GYp-XnqMT1EtcaSjArMfRf8R3ngK9j_kw=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-07-20T01:05:33.948072Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURyMC1PNTdnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURyMC1PNTdnRRAB!2m1!1s0x80ec6b996481fd99:0x3d153fb6be4d7f2a
+review_summary: >-
+  Insights from Customer Feedback$$$Visitors often rave about the delicious,
+  authentic Mexican dishes at this spot, with many highlighting standout items
+  like chiles rellenos and tamales that deliver bold, satisfying flavors. The
+  service stands out as friendly and attentive, enhancing the overall dining
+  experience without any major complaints. While most enjoy the welcoming vibe
+  and complimentary starters, a few mention minor disruptions like cleaning
+  routines that could be timed better, but these don't overshadow the positives.
+  Overall, it's a solid choice for families or groups looking for hearty meals
+  in a casual environment, with the general consensus leaning toward repeat
+  visits for its reliable quality. If you're exploring Mexican restaurants in
+  the area, this one consistently earns praise for its tasty offerings and
+  approachable vibe.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
+curbside_pickup: false
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
 live_music: null
 menu_for_children: null
 outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: true
+serves_brunch: true
 serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_coffee: true
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: false
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Good Time Sushi"
+title: Good Time Sushi
 permalink: /new-york/manlius/good-time-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: Manlius
 seo:
-  name: "Good Time Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.goodtimesushiny.com/
-description: "Good Time Sushi serves delicious sushi in Manlius, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJyfv5aa2O2YkRyO67Yd9bKBU
 photos:
   - name: >-
@@ -170,7 +168,89 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89d98ead69f9fbc9:0x15285bdf61bbeec8!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 16
+        minute: 0
+      close:
+        day: 1
+        hour: 20
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 2:30 PM, 4:00 – 8:30 PM'
     - 'Tuesday: 11:30 AM – 2:30 PM, 4:00 – 8:30 PM'
     - 'Wednesday: 4:00 – 8:30 PM'
@@ -178,14 +258,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 2:30 PM, 4:00 – 9:00 PM'
     - 'Saturday: 12:00 – 9:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:30 AM – 2:30 PM, 4:00 – 8:30 PM'
-    - 'Tuesday: 11:30 AM – 2:30 PM, 4:00 – 8:30 PM'
-    - 'Wednesday: 4:00 – 8:30 PM'
-    - 'Thursday: 11:30 AM – 2:30 PM, 4:00 – 8:30 PM'
-    - 'Friday: 11:30 AM – 2:30 PM, 4:00 – 9:00 PM'
-    - 'Saturday: 12:00 – 9:00 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T01:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +270,45 @@ phone: (315) 692-4524
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.5'
-rating_count: 0
+rating_count: 236
 website: https://www.goodtimesushiny.com/
+description: >-
+  Experience Good Time Sushi in Manlius, NY$$$Good Time Sushi in Manlius, NY,
+  stands out as a welcoming spot for enjoying fresh sushi and diverse
+  Asian-inspired dishes. This casual eatery combines authentic flavors with a
+  relaxed atmosphere, offering a menu that includes creative rolls, Korean
+  specialties, and other Japanese favorites, all paired with a selection of wine
+  and beer for a complete dining experience. Accessibility features like
+  wheelchair-friendly parking and seating make it an inclusive choice for
+  everyone seeking quality meals. Visitors can appreciate the thoughtful design
+  and cozy setup, enhancing the overall enjoyment of their visit. With
+  convenient hours that cater to lunch and dinner crowds, it's a go-to option
+  for those searching for sushi restaurants nearby.
+generative_summary: >-
+  Experience Good Time Sushi in Manlius, NY$$$Good Time Sushi in Manlius, NY,
+  stands out as a welcoming spot for enjoying fresh sushi and diverse
+  Asian-inspired dishes. This casual eatery combines authentic flavors with a
+  relaxed atmosphere, offering a menu that includes creative rolls, Korean
+  specialties, and other Japanese favorites, all paired with a selection of wine
+  and beer for a complete dining experience. Accessibility features like
+  wheelchair-friendly parking and seating make it an inclusive choice for
+  everyone seeking quality meals. Visitors can appreciate the thoughtful design
+  and cozy setup, enhancing the overall enjoyment of their visit. With
+  convenient hours that cater to lunch and dinner crowds, it's a go-to option
+  for those searching for sushi restaurants nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback Highlights$$$Folks often rave about the flavorful salmon
+  sushi and comforting soups at this spot, noting how they hit the spot every
+  time. The staff comes across as super friendly and always ready to accommodate
+  requests, adding a warm touch to the meal. Many appreciate the charming decor,
+  like the cute paintings and attractive seating that make dining feel more
+  inviting. Overall, it's clear this place delivers a solid experience that
+  keeps people coming back for more, especially if you're on the hunt for
+  top-rated sushi options in the area. While opinions vary, the general vibe is
+  positive, making it a reliable pick for casual outings with friends or family.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +334,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Arilang Sushi"
+title: Arilang Sushi
 permalink: /virginia/glen-allen/arilang-sushi.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Glen Allen
 seo:
-  name: "Arilang Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.arilangsushi.com/
-description: "Arilang Sushi serves delicious sushi in Glen Allen, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJ3_5l1mprsYkRrUBV0GQMJOU
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $20 &ndash; $30
 rating: '4.9'
 rating_count: 0
 website: http://www.arilangsushi.com/
+description: >-
+  Experience Arilang Sushi in Glen Allen, VA$$$Arilang Sushi in Glen Allen, VA,
+  delights diners with a selection of fresh sushi, sashimi, and classic Japanese
+  plates, all served in a welcoming and intimate setting that includes
+  entertaining karaoke options. This spot stands out for its cozy atmosphere,
+  making it ideal for casual meals or group gatherings, while offering
+  accessible features like wheelchair-friendly entrances and outdoor seating for
+  added comfort. Patrons can enjoy high-quality ingredients that highlight
+  authentic flavors, paired with a menu that caters to various tastes, including
+  vegetarian choices and options for families. The restaurant's commitment to a
+  relaxed vibe enhances the overall dining experience, appealing to those
+  seeking top-rated Japanese cuisine in the area.
+generative_summary: >-
+  Experience Arilang Sushi in Glen Allen, VA$$$Arilang Sushi in Glen Allen, VA,
+  delights diners with a selection of fresh sushi, sashimi, and classic Japanese
+  plates, all served in a welcoming and intimate setting that includes
+  entertaining karaoke options. This spot stands out for its cozy atmosphere,
+  making it ideal for casual meals or group gatherings, while offering
+  accessible features like wheelchair-friendly entrances and outdoor seating for
+  added comfort. Patrons can enjoy high-quality ingredients that highlight
+  authentic flavors, paired with a menu that caters to various tastes, including
+  vegetarian choices and options for families. The restaurant's commitment to a
+  relaxed vibe enhances the overall dining experience, appealing to those
+  seeking top-rated Japanese cuisine in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ3_5l1mprsYkRrUBV0GQMJOU/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJaWNITXl3RRAB
@@ -358,6 +381,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNmOS1iOC1nRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNmOS1iOC1nRRAB!2m1!1s0x89b16b6ad665fedf:0xe5240c64d05540ad
+review_summary: >-
+  Customer Favorites and Feedback$$$Visitors to this sushi spot often praise the
+  exceptional quality and fresh flavors of the dishes, with many highlighting
+  creative rolls and sashimi as standout choices that keep them coming back.
+  Folks appreciate the friendly service and reasonable prices, noting how the
+  welcoming staff and clean environment make every visit feel effortless and
+  enjoyable. Reviews frequently mention the beautiful presentation of meals,
+  which adds a special touch to the authentic Japanese experience without
+  overwhelming the palate. Overall, it's clear that this place delivers a solid
+  meal for groups or solo diners, earning high marks for its tasty offerings and
+  approachable vibe. If you're exploring sushi options nearby, it's worth
+  checking out for a satisfying and memorable meal.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -391,7 +427,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

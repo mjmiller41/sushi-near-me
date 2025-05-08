@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Hillstone"
+title: Hillstone
 permalink: /colorado/denver/hillstone.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Denver
 seo:
-  name: "Hillstone"
-  type: Restaurant
+  type: restaurant
   links: https://hillstonerestaurant.com/locations/denver/
-description: "Hillstone serves delicious sushi in Denver, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJeW6Jj5V-bIcREQhNXHtu2uQ
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x876c7e958f896e79:0xe4da6e7b5c4d0811!10e5
 primary_type: American Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:30 PM'
     - 'Tuesday: 11:00 AM – 9:30 PM'
     - 'Wednesday: 11:00 AM – 9:30 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:00 PM'
     - 'Saturday: 11:00 AM – 10:00 PM'
     - 'Sunday: 11:00 AM – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:30 PM'
-    - 'Tuesday: 11:00 AM – 9:30 PM'
-    - 'Wednesday: 11:00 AM – 9:30 PM'
-    - 'Thursday: 11:00 AM – 9:30 PM'
-    - 'Friday: 11:00 AM – 10:00 PM'
-    - 'Saturday: 11:00 AM – 10:00 PM'
-    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,255 @@ phone: (303) 333-4688
 price_level: PRICE_LEVEL_EXPENSIVE
 price_range: null
 rating: '4.5'
-rating_count: 0
+rating_count: 1635
 website: https://hillstonerestaurant.com/locations/denver/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  About Hillstone in Denver, CO$$$Hillstone in Denver, CO, stands out as an
+  upscale chain eatery blending New American comfort dishes with fresh sushi
+  options in a stylish setting. The restaurant features inviting elements like a
+  cozy fireplace and occasional live music, creating a welcoming vibe for diners
+  seeking quality meals in a relaxed yet elegant atmosphere. Accessibility is a
+  key highlight, with wheelchair-friendly parking, entrances, restrooms, and
+  seating that make it inclusive for all guests. Located in the vibrant Cherry
+  Creek neighborhood, it offers a menu that includes inventive comfort food
+  alongside sushi choices, appealing to those exploring top-rated dining spots
+  nearby. With options for outdoor seating and a focus on groups, it's an ideal
+  spot for enjoying flavorful entrees in a spacious environment.
+generative_summary: >-
+  About Hillstone in Denver, CO$$$Hillstone in Denver, CO, stands out as an
+  upscale chain eatery blending New American comfort dishes with fresh sushi
+  options in a stylish setting. The restaurant features inviting elements like a
+  cozy fireplace and occasional live music, creating a welcoming vibe for diners
+  seeking quality meals in a relaxed yet elegant atmosphere. Accessibility is a
+  key highlight, with wheelchair-friendly parking, entrances, restrooms, and
+  seating that make it inclusive for all guests. Located in the vibrant Cherry
+  Creek neighborhood, it offers a menu that includes inventive comfort food
+  alongside sushi choices, appealing to those exploring top-rated dining spots
+  nearby. With options for outdoor seating and a focus on groups, it's an ideal
+  spot for enjoying flavorful entrees in a spacious environment.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJeW6Jj5V-bIcREQhNXHtu2uQ/reviews/ChdDSUhNMG9nS0VJQ0FnTUNnbHFpcnZ3RRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        Wow. Phenomenal food, incredible ambience, fantastic host and server.
+        Beautiful place to be. We tried the regular sushi the pressed tuna. It
+        was soo good. And fresh. We also ordered  one of the funky flavor sushi
+        with soy paper and macadamia nuts. It was interesting. But we were
+        feeling adventurous. Probably won’t try the funny flavors again. The
+        salmon was delectable. The trout barely barely had any flavor.. Juicy
+        and flaky nonetheless . The mashed potatoes were insane! Did not make no
+        sense how good they were. We love coming here and we will definitely be
+        back.
+      languageCode: en
+    originalText:
+      text: >-
+        Wow. Phenomenal food, incredible ambience, fantastic host and server.
+        Beautiful place to be. We tried the regular sushi the pressed tuna. It
+        was soo good. And fresh. We also ordered  one of the funky flavor sushi
+        with soy paper and macadamia nuts. It was interesting. But we were
+        feeling adventurous. Probably won’t try the funny flavors again. The
+        salmon was delectable. The trout barely barely had any flavor.. Juicy
+        and flaky nonetheless . The mashed potatoes were insane! Did not make no
+        sense how good they were. We love coming here and we will definitely be
+        back.
+      languageCode: en
+    authorAttribution:
+      displayName: Pink Dragun (Pink_Dragun)
+      uri: https://www.google.com/maps/contrib/114653094895583257908/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUjBo2Itzhhc1kjGlpUNQxhSSehimAp3qmpoXv_KENpRR3LtktC=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-02-16T21:05:16.909488Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNnbHFpcnZ3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNnbHFpcnZ3RRAB!2m1!1s0x876c7e958f896e79:0xe4da6e7b5c4d0811
+  - name: >-
+      places/ChIJeW6Jj5V-bIcREQhNXHtu2uQ/reviews/ChdDSUhNMG9nS0VJQ0FnTUNRM0tpYXF3RRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        Really thought that this place would be over-hyped, since it’s a chain
+        but man they DELIVERED. The food was so yummy, in just a really classic
+        way. They were running a bit behind on our reservation but they made up
+        for it tenfold with amazing service, bringing us drinks while we waited
+        for our table and comping our appetizer. The French dip was delectable
+        (pro tip: ask for the fresh horseradish too), the croutons on the Caesar
+        salad were so soft and crunchy at the same time, and the martini was
+        crispy and refreshing at the same time. Highly recommend! It’s super
+        packed so reservations necessary.
+      languageCode: en
+    originalText:
+      text: >-
+        Really thought that this place would be over-hyped, since it’s a chain
+        but man they DELIVERED. The food was so yummy, in just a really classic
+        way. They were running a bit behind on our reservation but they made up
+        for it tenfold with amazing service, bringing us drinks while we waited
+        for our table and comping our appetizer. The French dip was delectable
+        (pro tip: ask for the fresh horseradish too), the croutons on the Caesar
+        salad were so soft and crunchy at the same time, and the martini was
+        crispy and refreshing at the same time. Highly recommend! It’s super
+        packed so reservations necessary.
+      languageCode: en
+    authorAttribution:
+      displayName: Yasmin Zenhari
+      uri: https://www.google.com/maps/contrib/115689236977651189731/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVRuL57aoxKUCDQwzjXRtsNSIMxma9Fyabg73c6bdijuMDI-5g2=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-03-02T21:36:38.589444Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNRM0tpYXF3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNRM0tpYXF3RRAB!2m1!1s0x876c7e958f896e79:0xe4da6e7b5c4d0811
+  - name: >-
+      places/ChIJeW6Jj5V-bIcREQhNXHtu2uQ/reviews/ChZDSUhNMG9nS0VJQ0FnTURJbXFmSFlREAE
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 5
+    text:
+      text: >-
+        Excellent attentive friendly staff. We were seated promptly and felt
+        well attended to. Drinks were tasty, grilled artichoke was excellent.
+        Steak was amazing, chicken sandwhich was good. Key lime pie, amazing.
+        Not a budget conscience experience, but imho, worth it.
+      languageCode: en
+    originalText:
+      text: >-
+        Excellent attentive friendly staff. We were seated promptly and felt
+        well attended to. Drinks were tasty, grilled artichoke was excellent.
+        Steak was amazing, chicken sandwhich was good. Key lime pie, amazing.
+        Not a budget conscience experience, but imho, worth it.
+      languageCode: en
+    authorAttribution:
+      displayName: Jane Dunk
+      uri: https://www.google.com/maps/contrib/100403733341430014254/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWTYMmrAeskyDyzz34nk4auMGdtcR3C9zaHuA8WZ8EaCyI56NjCVw=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-10T16:21:45.000436Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURJbXFmSFlREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJbXFmSFlREAE!2m1!1s0x876c7e958f896e79:0xe4da6e7b5c4d0811
+  - name: >-
+      places/ChIJeW6Jj5V-bIcREQhNXHtu2uQ/reviews/ChdDSUhNMG9nS0VJQ0FnTURJakxxenRnRRAB
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 5
+    text:
+      text: >-
+        We really enjoyed our birthday dinner for two at Hillstone.  We shared
+        "Osaka Style" pressed sushi, spinach & artichoke dip and grilled
+        heirloom artichokes - a delicacy IMHO.  I chose a New Zealand white wine
+        (having just returned from NZ) and it was excellent.
+
+        The restaurant was near capacity when we arrived and we were seated
+        within a few minutes of the time of our reservation.  Table service, the
+        wait staff and the assistant manager who checked on us were very
+        attentive, very professional and very friendly.  Top flight in every
+        way.
+      languageCode: en
+    originalText:
+      text: >-
+        We really enjoyed our birthday dinner for two at Hillstone.  We shared
+        "Osaka Style" pressed sushi, spinach & artichoke dip and grilled
+        heirloom artichokes - a delicacy IMHO.  I chose a New Zealand white wine
+        (having just returned from NZ) and it was excellent.
+
+        The restaurant was near capacity when we arrived and we were seated
+        within a few minutes of the time of our reservation.  Table service, the
+        wait staff and the assistant manager who checked on us were very
+        attentive, very professional and very friendly.  Top flight in every
+        way.
+      languageCode: en
+    authorAttribution:
+      displayName: David Martin
+      uri: https://www.google.com/maps/contrib/106298503963870722257/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocK3jtTZm687qSP-06M6OF3otyQ04hkZfEp3HMUWuPSmITEhhQ=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-07T18:40:53.368718Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJakxxenRnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJakxxenRnRRAB!2m1!1s0x876c7e958f896e79:0xe4da6e7b5c4d0811
+  - name: >-
+      places/ChIJeW6Jj5V-bIcREQhNXHtu2uQ/reviews/ChZDSUhNMG9nS0VJQ0FnSUQzdWRYcGNREAE
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        An incredible lunch the other day at Hillstone. Fabulous host greeted us
+        with a lovely smile. Wonderful service from start to finish. Delicious
+        artichoke and cheeseburger with shoestring fries. Also, waitress (I
+        believe also manager) congratulated me for my celebration lunch. Very
+        satisfied customer.
+      languageCode: en
+    originalText:
+      text: >-
+        An incredible lunch the other day at Hillstone. Fabulous host greeted us
+        with a lovely smile. Wonderful service from start to finish. Delicious
+        artichoke and cheeseburger with shoestring fries. Also, waitress (I
+        believe also manager) congratulated me for my celebration lunch. Very
+        satisfied customer.
+      languageCode: en
+    authorAttribution:
+      displayName: Lindsay Coe
+      uri: https://www.google.com/maps/contrib/113106493091116134609/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUUBqW0aNmH6xTyKTUYU61vqjLuZy-zocBKz91ZlHlL5UMtITcf=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-11-16T17:31:58.296792Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQzdWRYcGNREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQzdWRYcGNREAE!2m1!1s0x876c7e958f896e79:0xe4da6e7b5c4d0811
+review_summary: >-
+  Customer Feedback on Hillstone$$$Folks dining at this spot often rave about
+  the tasty sushi and classic American dishes like the French dip and artichoke
+  appetizers, noting their fresh flavors and satisfying portions. Many
+  appreciate the attentive service and cozy atmosphere that make every visit
+  feel special, with highlights on the professional staff and welcoming vibe.
+  Visitors frequently mention the well-crafted cocktails and desserts as
+  standout elements that add to the overall experience, encouraging return trips
+  for more. While it's a bit on the pricey side, the consensus is that the
+  quality and ambiance make it worth it for special occasions or casual
+  gatherings. Overall, it's a go-to choice for anyone searching for reliable
+  sushi restaurants in the area, with positive vibes dominating the feedback.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  paidStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
+curbside_pickup: false
+delivery: true
+dine_in: true
+good_for_children: false
+good_for_groups: true
+good_for_sports: false
+live_music: true
+menu_for_children: false
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
 serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_cocktails: true
+serves_coffee: true
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: false
+update_category: atmosphere
+places_description: >-
+  Upscale chain eatery serving burgers, steaks & other American fare in stylish,
+  spacious surrounds.
 
 ---

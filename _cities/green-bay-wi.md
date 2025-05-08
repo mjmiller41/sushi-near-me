@@ -5,4 +5,5 @@ permalink: /wisconsin/green-bay/
 stateAbbr: WI
 stateName: Wisconsin
 cityName: Green Bay
+
 ---

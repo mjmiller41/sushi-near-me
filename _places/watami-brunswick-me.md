@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Watami"
+title: Watami
 permalink: /maine/brunswick/watami.html
 stateAbbr: ME
 stateName: Maine
 cityName: Brunswick
 seo:
-  name: "Watami"
-  type: Restaurant
+  type: restaurant
   links: https://watamiinmaine.com/
-description: "Watami serves delicious sushi in Brunswick, Maine. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJGaWo_VGHrUwRioh5AaI9r0k
 photos:
   - name: >-
@@ -183,6 +181,31 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 0
 website: https://watamiinmaine.com/
+description: >-
+  Discover Watami in Brunswick, ME$$$Watami in Brunswick, ME, stands out as a
+  premier sushi restaurant, delighting visitors with its fresh Japanese dishes
+  and welcoming atmosphere. This spot offers a variety of flavorful options like
+  expertly prepared sushi rolls and hearty ramen, making it a go-to choice for
+  those seeking top-rated Japanese places in the area. The restaurant boasts
+  accessibility features such as wheelchair-friendly parking and restrooms,
+  along with outdoor seating for a relaxed dining experience. Patrons appreciate
+  the cozy, clean setting and moderate pricing, which enhance its appeal for
+  casual meals or group outings. Whether you're exploring sushi restaurants near
+  you or looking for a reliable spot for authentic flavors, Watami delivers a
+  satisfying blend of quality and convenience.
+generative_summary: >-
+  Discover Watami in Brunswick, ME$$$Watami in Brunswick, ME, stands out as a
+  premier sushi restaurant, delighting visitors with its fresh Japanese dishes
+  and welcoming atmosphere. This spot offers a variety of flavorful options like
+  expertly prepared sushi rolls and hearty ramen, making it a go-to choice for
+  those seeking top-rated Japanese places in the area. The restaurant boasts
+  accessibility features such as wheelchair-friendly parking and restrooms,
+  along with outdoor seating for a relaxed dining experience. Patrons appreciate
+  the cozy, clean setting and moderate pricing, which enhance its appeal for
+  casual meals or group outings. Whether you're exploring sushi restaurants near
+  you or looking for a reliable spot for authentic flavors, Watami delivers a
+  satisfying blend of quality and convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJGaWo_VGHrUwRioh5AaI9r0k/reviews/ChdDSUhNMG9nS0VJQ0FnSURmX3F2Nnh3RRAB
@@ -418,6 +441,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUM1MFpEZUNBEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUM1MFpEZUNBEAE!2m1!1s0x4cad8751fda8a519:0x49af3da20179888a
+review_summary: >-
+  Insights from Recent Feedback$$$Folks dining at this sushi spot often rave
+  about the fresh and tasty rolls, along with standout appetizers that keep
+  things exciting and delicious. Many highlight the friendly service and quick
+  pace, making it a solid pick for a laid-back meal with friends or family.
+  While most experiences lean positive with praise for the inviting vibe and
+  fair prices, it's worth noting that a few visits have had minor service
+  hiccups, though these seem rare compared to the overall satisfaction. Overall,
+  the consensus is that the food's quality and variety make it a favorite for
+  anyone hunting for the best sushi around. If you're in the mood for reliable
+  Japanese flavors, this place tends to hit the mark with its welcoming approach
+  and flavorful offerings.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -450,7 +486,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -5,4 +5,5 @@ permalink: /georgia/chamblee/
 stateAbbr: GA
 stateName: Georgia
 cityName: Chamblee
+
 ---

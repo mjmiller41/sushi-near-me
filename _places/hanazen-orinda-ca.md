@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Hanazen"
+title: Hanazen
 permalink: /california/orinda/hanazen.html
 stateAbbr: CA
 stateName: California
 cityName: Orinda
 seo:
-  name: "Hanazen"
-  type: Restaurant
+  type: restaurant
   links: http://www.myhanazen.com/
-description: "Hanazen serves delicious sushi in Orinda, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJN9NDEtx8hYARAZHCtBAgMwA
 photos:
   - name: >-
@@ -170,7 +168,49 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80857cdc1243d337:0x332010b4c29101!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 2
+        hour: 17
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 17
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 5:30 – 9:00 PM'
     - 'Wednesday: 5:30 – 9:00 PM'
@@ -178,14 +218,7 @@ opening_hours:
     - 'Friday: 5:30 – 9:30 PM'
     - 'Saturday: 5:30 – 9:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 5:30 – 9:00 PM'
-    - 'Wednesday: 5:30 – 9:00 PM'
-    - 'Thursday: 5:30 – 9:00 PM'
-    - 'Friday: 5:30 – 9:30 PM'
-    - 'Saturday: 5:30 – 9:00 PM'
-    - 'Sunday: Closed'
+  nextOpenTime: '2025-05-04T00:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +230,266 @@ phone: (925) 254-3611
 price_level: null
 price_range: $100 &ndash; & up
 rating: '4.9'
-rating_count: 0
+rating_count: 56
 website: http://www.myhanazen.com/
-reviews: null
+description: >-
+  Discover Hanazen in Orinda, CA$$$Hanazen in Orinda, CA, is a welcoming
+  Japanese eatery renowned for its omakase-style dining and fresh sushi
+  selections that highlight housemade seasonings and seasonal ingredients. This
+  intimate spot offers a curated menu focused on authentic flavors, making it a
+  go-to choice for those exploring sushi restaurants in the area. With
+  accessibility features like wheelchair-friendly entrances and seating, it
+  ensures a comfortable experience for all diners seeking quality Japanese
+  cuisine. The restaurant's cozy atmosphere and emphasis on inventive dishes
+  provide a memorable escape, ideal for anyone hunting for top-rated sushi
+  options nearby.
+generative_summary: >-
+  Discover Hanazen in Orinda, CA$$$Hanazen in Orinda, CA, is a welcoming
+  Japanese eatery renowned for its omakase-style dining and fresh sushi
+  selections that highlight housemade seasonings and seasonal ingredients. This
+  intimate spot offers a curated menu focused on authentic flavors, making it a
+  go-to choice for those exploring sushi restaurants in the area. With
+  accessibility features like wheelchair-friendly entrances and seating, it
+  ensures a comfortable experience for all diners seeking quality Japanese
+  cuisine. The restaurant's cozy atmosphere and emphasis on inventive dishes
+  provide a memorable escape, ideal for anyone hunting for top-rated sushi
+  options nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJN9NDEtx8hYARAZHCtBAgMwA/reviews/ChdDSUhNMG9nS0VJQ0FnSUREZ3JyZjlRRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        Great omakase experience offering exceptional value. Initially
+        comprising 18 pieces of exquisite nigiri sushi, additional pieces can be
+        added after the initial serving. Each bite （almost）has its distinct
+        texture and flavor. Standouts include the tako nigiri, smoked salmon
+        with yuzu jelly, fluke seasoned with cherry blossom salt, nodoguro,
+        negitoro hand roll, uni/squid hand roll, and more. They have inventive
+        flavors and deliver a wow factor. I highly recommend sitting at the
+        counter to talk with the chef. He is knowledgeable and kind.
+      languageCode: en
+    originalText:
+      text: >-
+        Great omakase experience offering exceptional value. Initially
+        comprising 18 pieces of exquisite nigiri sushi, additional pieces can be
+        added after the initial serving. Each bite （almost）has its distinct
+        texture and flavor. Standouts include the tako nigiri, smoked salmon
+        with yuzu jelly, fluke seasoned with cherry blossom salt, nodoguro,
+        negitoro hand roll, uni/squid hand roll, and more. They have inventive
+        flavors and deliver a wow factor. I highly recommend sitting at the
+        counter to talk with the chef. He is knowledgeable and kind.
+      languageCode: en
+    authorAttribution:
+      displayName: Hannah Jin
+      uri: https://www.google.com/maps/contrib/106886643289463162646/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjU-Vp4dRIlE0ESrjzGTS6DlEU_p8wHTjZboJ53irljTEwTPQc6q=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-04-08T23:51:13.221417Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUREZ3JyZjlRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUREZ3JyZjlRRRAB!2m1!1s0x80857cdc1243d337:0x332010b4c29101
+  - name: >-
+      places/ChIJN9NDEtx8hYARAZHCtBAgMwA/reviews/ChdDSUhNMG9nS0VJQ0FnTURnNTVhSjV3RRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        This restaurant is an absolute gem—a true slice of Japan right here at
+        home. As someone who constantly craves the authentic flavors of Japan, I
+        was thrilled to find a place that captures the essence of its cuisine so
+        beautifully. The sushi was nothing short of exceptional—fresh, expertly
+        crafted, and bursting with flavor; especially the Sakura salt! Beyond
+        the incredible food, the owners made the experience even more special
+        with their warm hospitality and genuine passion for what they do. Every
+        moment spent here felt welcoming and wholesome, making it more than just
+        a meal—it was an experience to remember. I appreciate them for making my
+        birthday a memorable one and I can't wait to return!
+      languageCode: en
+    originalText:
+      text: >-
+        This restaurant is an absolute gem—a true slice of Japan right here at
+        home. As someone who constantly craves the authentic flavors of Japan, I
+        was thrilled to find a place that captures the essence of its cuisine so
+        beautifully. The sushi was nothing short of exceptional—fresh, expertly
+        crafted, and bursting with flavor; especially the Sakura salt! Beyond
+        the incredible food, the owners made the experience even more special
+        with their warm hospitality and genuine passion for what they do. Every
+        moment spent here felt welcoming and wholesome, making it more than just
+        a meal—it was an experience to remember. I appreciate them for making my
+        birthday a memorable one and I can't wait to return!
+      languageCode: en
+    authorAttribution:
+      displayName: Dave Fujita-Militante
+      uri: https://www.google.com/maps/contrib/113817861406666174294/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjX5gJSR_Kq5vuOAuaTbsbeQNrGE-RN9tIW-AHHHWYKg-k38-QNBfg=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-02-28T04:06:16.229222Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURnNTVhSjV3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURnNTVhSjV3RRAB!2m1!1s0x80857cdc1243d337:0x332010b4c29101
+  - name: >-
+      places/ChIJN9NDEtx8hYARAZHCtBAgMwA/reviews/ChdDSUhNMG9nS0VJQ0FnSUR4dk43ZHhRRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 4
+    text:
+      text: >-
+        Cozy and relaxed restaurant where the food takes center stage. We
+        enjoyed our 18-piece omakase experience. The variety was very diverse. 
+        Aji, Tai, Tako, Ikura, Bonito, White Tuna, Amberjack, Scallop, and Uni
+        to name a few.
+
+
+        The quality of the ingredients really shined. My wife and I used very
+        little soy sauce. In fact, we only used a small amount when instructed
+        by our wonderful hostess, Coco. The flavors were clean and subtle. Not
+        overpowering at all.
+
+
+        Also, the service was outstanding. Coco walked us through each piece and
+        told us how Chef Kenji prepared the dish.
+
+
+        I highly recommend giving Hanazen a try if you enjoy omakase. However,
+        this is not the place for you if you're looking for rolls, anything
+        seared, or sushi covered in heavy sauce.
+      languageCode: en
+    originalText:
+      text: >-
+        Cozy and relaxed restaurant where the food takes center stage. We
+        enjoyed our 18-piece omakase experience. The variety was very diverse. 
+        Aji, Tai, Tako, Ikura, Bonito, White Tuna, Amberjack, Scallop, and Uni
+        to name a few.
+
+
+        The quality of the ingredients really shined. My wife and I used very
+        little soy sauce. In fact, we only used a small amount when instructed
+        by our wonderful hostess, Coco. The flavors were clean and subtle. Not
+        overpowering at all.
+
+
+        Also, the service was outstanding. Coco walked us through each piece and
+        told us how Chef Kenji prepared the dish.
+
+
+        I highly recommend giving Hanazen a try if you enjoy omakase. However,
+        this is not the place for you if you're looking for rolls, anything
+        seared, or sushi covered in heavy sauce.
+      languageCode: en
+    authorAttribution:
+      displayName: Michael Chang
+      uri: https://www.google.com/maps/contrib/114895646990127992892/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWxR_8cTOoc7w5qs4Y0MlanOb75Yx7EwMsO5U_UQodouJI7TYcl=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2023-06-04T04:28:48.347928Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR4dk43ZHhRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR4dk43ZHhRRRAB!2m1!1s0x80857cdc1243d337:0x332010b4c29101
+  - name: >-
+      places/ChIJN9NDEtx8hYARAZHCtBAgMwA/reviews/ChZDSUhNMG9nS0VJQ0FnSUNiMkw3ZFlnEAE
+    relativePublishTimeDescription: 9 months ago
+    rating: 5
+    text:
+      text: |-
+        Authentic, Edo style?
+        Only 8 per night.
+        Small but good quality.
+        For the amount of sushi you get, the price is affordable.
+      languageCode: en
+    originalText:
+      text: |-
+        Authentic, Edo style?
+        Only 8 per night.
+        Small but good quality.
+        For the amount of sushi you get, the price is affordable.
+      languageCode: en
+    authorAttribution:
+      displayName: A I
+      uri: https://www.google.com/maps/contrib/112945655769517105433/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKC8-yTj2rqzq6EthFIHoNjyAXiRWLg7osxELJogweCe-4WEbWu=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-07-23T04:36:47.421581Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNiMkw3ZFlnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNiMkw3ZFlnEAE!2m1!1s0x80857cdc1243d337:0x332010b4c29101
+  - name: >-
+      places/ChIJN9NDEtx8hYARAZHCtBAgMwA/reviews/ChRDSUhNMG9nS0VJQ0FnSUMxbkt4ahAB
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        Hanazen oferred some of the most delicious fish and housemade seasonings
+        I have ever tasted. The service was incredible and the food was beyond
+        memorable. Be sure to call and make a reservation for a meal you won't
+        soon forget.
+      languageCode: en
+    originalText:
+      text: >-
+        Hanazen oferred some of the most delicious fish and housemade seasonings
+        I have ever tasted. The service was incredible and the food was beyond
+        memorable. Be sure to call and make a reservation for a meal you won't
+        soon forget.
+      languageCode: en
+    authorAttribution:
+      displayName: Olivia
+      uri: https://www.google.com/maps/contrib/100637981155255018509/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWJMkrKJQ2hkBWNsPMF3vwOVvz8WJebJkjra3seq4DZ5kcJvyrgTg=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2023-12-25T00:08:09.379351Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChRDSUhNMG9nS0VJQ0FnSUMxbkt4ahAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChRDSUhNMG9nS0VJQ0FnSUMxbkt4ahAB!2m1!1s0x80857cdc1243d337:0x332010b4c29101
+review_summary: >-
+  What Visitors Are Saying$$$Folks who visit this spot often rave about the
+  outstanding omakase experience, praising the fresh and creative flavors that
+  make every meal feel special and worthwhile. Many highlight the variety of
+  high-quality ingredients that deliver a satisfying mix of textures and tastes
+  without overwhelming the palate. The service stands out as friendly and
+  attentive, adding to the relaxed vibe that keeps things enjoyable from start
+  to finish. If you're on the hunt for the best sushi around, this place gets
+  solid nods for its authentic appeal and great value, though it's best for
+  those who prefer traditional styles over heavy sauces or rolls. Overall, it's
+  a reliable pick for a genuine dining adventure that leaves a positive
+  impression.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
-payment_options: null
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
+delivery: false
+dine_in: true
+good_for_children: false
 good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
 serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
 serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
+serves_vegetarian_food: false
+serves_wine: true
 takeout: null
-update_category: essentials
-summary: null
+update_category: atmosphere
+places_description: >-
+  Family-run Japanese eatery handcrafting a variety of sushi selections in an
+  intimate setting.
 
 ---

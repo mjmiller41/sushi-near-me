@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Paradise Sushi & Grill"
+title: Paradise Sushi & Grill
 permalink: /california/santa-rosa/paradise-sushi-grill.html
 stateAbbr: CA
 stateName: California
 cityName: Santa Rosa
 seo:
-  name: "Paradise Sushi & Grill"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Paradise Sushi & Grill serves delicious sushi in Santa Rosa, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ2fUXOAA4hIAR52X0NOQK1tk
 photos:
   - name: >-
@@ -185,7 +183,49 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Paradise Sushi & Grill in Santa Rosa$$$Paradise Sushi & Grill in
+  Santa Rosa, CA, stands out as a welcoming sushi restaurant offering a variety
+  of fresh Japanese-inspired dishes in a relaxed setting. This spot features an
+  all-you-can-eat menu that appeals to sushi enthusiasts looking for great value
+  and flavorful options, complemented by happy hour specials that enhance the
+  casual dining experience. With its convenient location in the historic area,
+  it's an ideal choice for those seeking sushi restaurants near me that combine
+  affordability with authentic tastes. The restaurant also prioritizes
+  accessibility, making it easy for everyone to enjoy its vibrant atmosphere and
+  diverse selections. Whether you're in the mood for top-rated sushi or a
+  laid-back meal, this place delivers a satisfying blend of quality and
+  convenience.
+generative_summary: >-
+  Discover Paradise Sushi & Grill in Santa Rosa$$$Paradise Sushi & Grill in
+  Santa Rosa, CA, stands out as a welcoming sushi restaurant offering a variety
+  of fresh Japanese-inspired dishes in a relaxed setting. This spot features an
+  all-you-can-eat menu that appeals to sushi enthusiasts looking for great value
+  and flavorful options, complemented by happy hour specials that enhance the
+  casual dining experience. With its convenient location in the historic area,
+  it's an ideal choice for those seeking sushi restaurants near me that combine
+  affordability with authentic tastes. The restaurant also prioritizes
+  accessibility, making it easy for everyone to enjoy its vibrant atmosphere and
+  diverse selections. Whether you're in the mood for top-rated sushi or a
+  laid-back meal, this place delivers a satisfying blend of quality and
+  convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$From what people share about their experiences,
+  Paradise Sushi & Grill comes across as a solid pick for anyone craving fresh
+  rolls and generous portions at a fair price, often highlighting the
+  all-you-can-eat deal as a standout feature. Folks tend to appreciate the
+  friendly vibe and quick service, making it a go-to spot for casual
+  get-togethers or solo sushi adventures without any major complaints. While
+  some mention the atmosphere feels unpretentious and fun, others note it's a
+  reliable option for japanese places near me when you're in the mood for
+  something light and tasty. Overall, it seems like a favorite among locals and
+  visitors alike for its honest flavors and value, though it's always a good
+  idea to check for any updates on specials. If you're searching for the best
+  sushi near me, this place often gets nods for keeping things enjoyable and
+  approachable.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +251,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

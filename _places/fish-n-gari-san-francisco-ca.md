@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Fish N Gari"
+title: Fish N Gari
 permalink: /california/san-francisco/fish-n-gari.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
 seo:
-  name: "Fish N Gari"
-  type: Restaurant
+  type: restaurant
   links: http://orderfishngari.com/
-description: "Informal Japanese restaurant serving sushi, teriyaki & udon noodles for dine-in or delivery. Fish N Gari serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJjTEnAuuAhYARB2g4qgYihJg
 photos:
   - name: >-
@@ -184,6 +182,31 @@ price_range: null
 rating: '4.2'
 rating_count: 0
 website: http://orderfishngari.com/
+description: >-
+  Discover Fish N Gari in San Francisco, CA$$$Nestled in the heart of San
+  Francisco, CA, Fish N Gari stands out as a welcoming Japanese eatery offering
+  fresh sushi and flavorful dishes in a relaxed atmosphere. This spot
+  specializes in authentic options like sashimi, bento boxes, and tempura,
+  making it a go-to choice for those seeking quality Japanese cuisine in a
+  casual setting. With its accessible features and moderate pricing, it's ideal
+  for a quick meal or takeout, appealing to anyone exploring sushi restaurants
+  in the area. The menu highlights a variety of fresh seafood and traditional
+  preparations, ensuring a satisfying experience for locals and visitors alike.
+  Drawing from its family-oriented vibe, this establishment provides a
+  comfortable space to enjoy top-rated sushi options without the fuss.
+generative_summary: >-
+  Discover Fish N Gari in San Francisco, CA$$$Nestled in the heart of San
+  Francisco, CA, Fish N Gari stands out as a welcoming Japanese eatery offering
+  fresh sushi and flavorful dishes in a relaxed atmosphere. This spot
+  specializes in authentic options like sashimi, bento boxes, and tempura,
+  making it a go-to choice for those seeking quality Japanese cuisine in a
+  casual setting. With its accessible features and moderate pricing, it's ideal
+  for a quick meal or takeout, appealing to anyone exploring sushi restaurants
+  in the area. The menu highlights a variety of fresh seafood and traditional
+  preparations, ensuring a satisfying experience for locals and visitors alike.
+  Drawing from its family-oriented vibe, this establishment provides a
+  comfortable space to enjoy top-rated sushi options without the fuss.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJjTEnAuuAhYARB2g4qgYihJg/reviews/ChZDSUhNMG9nS0VJQ0FnSUN4c1lQMk13EAE
@@ -395,6 +418,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURHMmFmS3NBRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURHMmFmS3NBRRAB!2m1!1s0x808580eb0227318d:0x98842206aa386807
+review_summary: >-
+  What People Are Saying About This Sushi Spot$$$Folks generally rave about the
+  fresh flavors and friendly service at this sushi place, with many highlighting
+  the delicious rolls and generous portions that make it a solid pick for a
+  casual meal. While most visitors appreciate the attentive staff and affordable
+  specials like hot sake deals, some note that it can get busy, leading to
+  slight waits that are worth it for the tasty results. Overall, the consensus
+  leans positive, praising the variety of options from teriyaki to udon that
+  cater to different tastes, though a few mention occasional inconsistencies in
+  preparation. It's a neighborhood favorite where diners often return for the
+  welcoming feel and solid value, encouraging anyone searching for great sushi
+  nearby to give it a try. Despite the mostly glowing feedback, it's clear that
+  experiences can vary, so stopping by for yourself is the best way to judge.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   valetParking: false
 payment_options:
@@ -425,8 +462,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Informal Japanese restaurant serving sushi, teriyaki & udon noodles for
   dine-in or delivery.
 

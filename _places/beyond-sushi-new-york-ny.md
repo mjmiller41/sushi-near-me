@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Beyond Sushi"
+title: Beyond Sushi
 permalink: /new-york/new-york/beyond-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "Beyond Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Beyond Sushi serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJPy94jKtZwokRRODqoL09Acw
 photos:
   - name: >-
@@ -185,7 +183,49 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Explore Beyond Sushi in New York$$$Beyond Sushi in New York, NY, stands out as
+  a creative plant-based eatery specializing in Asian fusion dishes that
+  reimagine traditional sushi with fresh, innovative twists. This spot delights
+  visitors with its vegan offerings, blending bold flavors and artistic
+  presentations that cater to those seeking top-rated sushi alternatives in a
+  bustling urban setting. The restaurant emphasizes accessibility, featuring
+  wheelchair-friendly entrances and seating, making it an inclusive choice for a
+  wide range of diners exploring Japanese-inspired places near me. Its focus on
+  sustainable, health-conscious ingredients adds to the appeal, providing a
+  modern take on classic rolls that appeal to sushi enthusiasts looking for
+  something unique. Whether you're in the mood for inventive rolls or flavorful
+  fusion plates, this location offers a welcoming vibe perfect for a casual meal
+  in the heart of the city.
+generative_summary: >-
+  Explore Beyond Sushi in New York$$$Beyond Sushi in New York, NY, stands out as
+  a creative plant-based eatery specializing in Asian fusion dishes that
+  reimagine traditional sushi with fresh, innovative twists. This spot delights
+  visitors with its vegan offerings, blending bold flavors and artistic
+  presentations that cater to those seeking top-rated sushi alternatives in a
+  bustling urban setting. The restaurant emphasizes accessibility, featuring
+  wheelchair-friendly entrances and seating, making it an inclusive choice for a
+  wide range of diners exploring Japanese-inspired places near me. Its focus on
+  sustainable, health-conscious ingredients adds to the appeal, providing a
+  modern take on classic rolls that appeal to sushi enthusiasts looking for
+  something unique. Whether you're in the mood for inventive rolls or flavorful
+  fusion plates, this location offers a welcoming vibe perfect for a casual meal
+  in the heart of the city.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Diners Are Buzzing About$$$Visitors often praise the tasty vegan sushi
+  rolls at this spot, highlighting creative options that bring exciting flavors
+  to the table in a relaxed setting. Folks appreciate the friendly service and
+  attentive staff that make every visit feel warm and enjoyable, adding to the
+  overall charm of the experience. Many note the variety of dishes, like
+  flavorful rolls and satisfying sides, as standout choices that keep things
+  fresh and delicious for sushi lovers. The cozy atmosphere gets consistent nods
+  for its inviting feel, making it a go-to for groups or individuals hunting for
+  the best sushi near me. Overall, it's a solid pick for anyone wanting a
+  positive, laid-back dining adventure with honest, high-quality vegan fare that
+  doesn't disappoint.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +251,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

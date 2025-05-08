@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Fresh Ventura"
+title: Sushi Fresh Ventura
 permalink: /california/ventura/sushi-fresh-ventura.html
 stateAbbr: CA
 stateName: California
 cityName: Ventura
 seo:
-  name: "Sushi Fresh Ventura"
-  type: Restaurant
+  type: restaurant
   links: http://sushifreshventura.com/
-description: "Sushi Fresh Ventura serves delicious sushi in Ventura, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ_wIl6ray6YARq6S0V5iOwbw
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80e9b2b6ea2502ff:0xbcc18e9857b4a4ab!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 9:00 PM'
     - 'Tuesday: 11:30 AM – 9:00 PM'
     - 'Wednesday: 11:30 AM – 9:00 PM'
@@ -178,28 +234,208 @@ opening_hours:
     - 'Friday: 11:30 AM – 10:00 PM'
     - 'Saturday: 11:30 AM – 10:00 PM'
     - 'Sunday: 11:30 AM – 9:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 9:00 PM'
-    - 'Tuesday: 11:30 AM – 9:00 PM'
-    - 'Wednesday: 11:30 AM – 9:00 PM'
-    - 'Thursday: 11:30 AM – 9:00 PM'
-    - 'Friday: 11:30 AM – 10:00 PM'
-    - 'Saturday: 11:30 AM – 10:00 PM'
-    - 'Sunday: 11:30 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T05:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 14
+          minute: 0
+        close:
+          day: 0
+          hour: 18
+          minute: 0
+      - open:
+          day: 1
+          hour: 14
+          minute: 0
+        close:
+          day: 1
+          hour: 18
+          minute: 0
+      - open:
+          day: 2
+          hour: 14
+          minute: 0
+        close:
+          day: 2
+          hour: 18
+          minute: 0
+      - open:
+          day: 3
+          hour: 14
+          minute: 0
+        close:
+          day: 3
+          hour: 18
+          minute: 0
+      - open:
+          day: 4
+          hour: 14
+          minute: 0
+        close:
+          day: 4
+          hour: 18
+          minute: 0
+      - open:
+          day: 5
+          hour: 14
+          minute: 0
+        close:
+          day: 5
+          hour: 18
+          minute: 0
+      - open:
+          day: 5
+          hour: 20
+          minute: 0
+        close:
+          day: 5
+          hour: 21
+          minute: 30
+      - open:
+          day: 6
+          hour: 14
+          minute: 0
+        close:
+          day: 6
+          hour: 18
+          minute: 0
+      - open:
+          day: 6
+          hour: 20
+          minute: 0
+        close:
+          day: 6
+          hour: 21
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 2:00 – 6:00 PM'
+      - 'Tuesday: 2:00 – 6:00 PM'
+      - 'Wednesday: 2:00 – 6:00 PM'
+      - 'Thursday: 2:00 – 6:00 PM'
+      - 'Friday: 2:00 – 6:00 PM, 8:00 – 9:30 PM'
+      - 'Saturday: 2:00 – 6:00 PM, 8:00 – 9:30 PM'
+      - 'Sunday: 2:00 – 6:00 PM'
+    secondaryHoursType: HAPPY_HOUR
+    nextCloseTime: '2025-05-04T01:00:00Z'
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 11
+          minute: 30
+        close:
+          day: 0
+          hour: 20
+          minute: 30
+      - open:
+          day: 1
+          hour: 11
+          minute: 30
+        close:
+          day: 1
+          hour: 20
+          minute: 30
+      - open:
+          day: 2
+          hour: 11
+          minute: 30
+        close:
+          day: 2
+          hour: 20
+          minute: 30
+      - open:
+          day: 3
+          hour: 11
+          minute: 30
+        close:
+          day: 3
+          hour: 20
+          minute: 30
+      - open:
+          day: 4
+          hour: 11
+          minute: 30
+        close:
+          day: 4
+          hour: 20
+          minute: 30
+      - open:
+          day: 5
+          hour: 11
+          minute: 30
+        close:
+          day: 5
+          hour: 21
+          minute: 30
+      - open:
+          day: 6
+          hour: 11
+          minute: 30
+        close:
+          day: 6
+          hour: 21
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 11:30 AM – 8:30 PM'
+      - 'Tuesday: 11:30 AM – 8:30 PM'
+      - 'Wednesday: 11:30 AM – 8:30 PM'
+      - 'Thursday: 11:30 AM – 8:30 PM'
+      - 'Friday: 11:30 AM – 9:30 PM'
+      - 'Saturday: 11:30 AM – 9:30 PM'
+      - 'Sunday: 11:30 AM – 8:30 PM'
+    secondaryHoursType: TAKEOUT
+    nextCloseTime: '2025-05-04T04:30:00Z'
 phone: (805) 650-6068
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.4'
-rating_count: 0
+rating_count: 416
 website: http://sushifreshventura.com/
+description: >-
+  Explore Sushi Fresh Ventura in Ventura, CA$$$Sushi Fresh Ventura in Ventura,
+  CA, stands out as a welcoming spot for those craving authentic Japanese
+  cuisine, featuring a variety of fresh sushi rolls that highlight quality
+  ingredients and creative flavors. This relaxed eatery offers an inviting
+  atmosphere perfect for enjoying sake, beer, and wine alongside your meal,
+  making it ideal for casual dining or a quick bite. With accessibility features
+  like wheelchair-friendly parking and entrances, it's designed to accommodate
+  all guests comfortably. The restaurant operates with convenient hours,
+  including evenings and weekends, ensuring you can satisfy your sushi cravings
+  at various times. Whether you're searching for top-rated sushi options nearby,
+  this place combines affordability with a solid selection that appeals to sushi
+  enthusiasts.
+generative_summary: >-
+  Explore Sushi Fresh Ventura in Ventura, CA$$$Sushi Fresh Ventura in Ventura,
+  CA, stands out as a welcoming spot for those craving authentic Japanese
+  cuisine, featuring a variety of fresh sushi rolls that highlight quality
+  ingredients and creative flavors. This relaxed eatery offers an inviting
+  atmosphere perfect for enjoying sake, beer, and wine alongside your meal,
+  making it ideal for casual dining or a quick bite. With accessibility features
+  like wheelchair-friendly parking and entrances, it's designed to accommodate
+  all guests comfortably. The restaurant operates with convenient hours,
+  including evenings and weekends, ensuring you can satisfy your sushi cravings
+  at various times. Whether you're searching for top-rated sushi options nearby,
+  this place combines affordability with a solid selection that appeals to sushi
+  enthusiasts.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Customer Feedback$$$Feedback for this sushi spot often
+  highlights the consistently fresh and flavorful rolls that keep diners coming
+  back for more, with many appreciating the balanced portions and reasonable
+  prices. People frequently note the friendly service and relaxed vibe, which
+  make it a go-to choice for casual meals or group outings, adding to the
+  overall enjoyable experience. While some mention occasional waits during peak
+  times, the general consensus leans positive, praising the variety of options
+  that cater to different tastes, including vegetarian choices. Overall, it's
+  seen as a reliable pick for anyone exploring local Japanese places, with the
+  high rating reflecting satisfaction among frequent visitors. If you're on the
+  hunt for great sushi restaurants in the area, this one delivers a solid,
+  enjoyable dining experience that lives up to the buzz.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +461,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

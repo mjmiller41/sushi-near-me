@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Bistro Chen"
+title: Bistro Chen
 permalink: /illinois/arlington-heights/bistro-chen.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Arlington Heights
 seo:
-  name: "Bistro Chen"
-  type: Restaurant
+  type: restaurant
   links: http://bistrochen.com/
-description: "Spare, modern restaurant serving Chinese-Japanese fare (from dim sum to sushi) & tropical cocktails. Bistro Chen serves delicious sushi in Arlington Heights, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJT0xTAfK6D4gRtHzUpYzH_Tw
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 0
 website: http://bistrochen.com/
+description: >-
+  Discover Bistro Chen in Arlington Heights, IL$$$Nestled in the heart of
+  Arlington Heights, IL, Bistro Chen stands out as a modern spot blending
+  Chinese and Japanese flavors, offering an inviting atmosphere for casual
+  dining. This relaxed restaurant features an all-you-can-eat sushi selection
+  that appeals to those seeking variety, alongside gluten-free and vegetarian
+  choices to accommodate different preferences. Patrons can enjoy a range of
+  fresh rolls and sashimi, complemented by tropical cocktails and other
+  Asian-inspired dishes in a spare, contemporary setting. Accessibility is a key
+  highlight, with options like wheelchair-friendly entrances and seating making
+  it welcoming for everyone. Whether you're looking for sushi spots nearby or a
+  place to unwind with flavorful meals, Bistro Chen delivers a balanced
+  experience that combines affordability with diverse culinary options.
+generative_summary: >-
+  Discover Bistro Chen in Arlington Heights, IL$$$Nestled in the heart of
+  Arlington Heights, IL, Bistro Chen stands out as a modern spot blending
+  Chinese and Japanese flavors, offering an inviting atmosphere for casual
+  dining. This relaxed restaurant features an all-you-can-eat sushi selection
+  that appeals to those seeking variety, alongside gluten-free and vegetarian
+  choices to accommodate different preferences. Patrons can enjoy a range of
+  fresh rolls and sashimi, complemented by tropical cocktails and other
+  Asian-inspired dishes in a spare, contemporary setting. Accessibility is a key
+  highlight, with options like wheelchair-friendly entrances and seating making
+  it welcoming for everyone. Whether you're looking for sushi spots nearby or a
+  place to unwind with flavorful meals, Bistro Chen delivers a balanced
+  experience that combines affordability with diverse culinary options.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJT0xTAfK6D4gRtHzUpYzH_Tw/reviews/ChdDSUhNMG9nS0VJQ0FnSURmeEpENHNnRRAB
@@ -336,6 +361,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURkdW91Z2JnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURkdW91Z2JnEAE!2m1!1s0x880fbaf201534c4f:0x3cfdc78ca5d47cb4
+review_summary: >-
+  What Customers Are Buzzing About$$$Folks seem to love the generous portions
+  and wide variety at this spot, often highlighting the all-you-can-eat deals as
+  a great value for tasty sushi and other dishes. Many appreciate the friendly
+  service that goes the extra mile for dietary needs, making meals feel
+  personalized and enjoyable. While some mention that flavors can lean towards
+  the sweeter or more intense side, the overall vibe and affordability keep
+  drawing people back for lunch combos and fresh rolls. It's clear that the
+  relaxed atmosphere adds to the fun, though a few note that limited hours might
+  be a downside for spontaneous visits. All in all, this place earns solid nods
+  for being a reliable choice when you're craving quality sushi without breaking
+  the bank, making it a go-to for casual outings.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -368,8 +406,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Spare, modern restaurant serving Chinese-Japanese fare (from dim sum to sushi)
   & tropical cocktails.
 

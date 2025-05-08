@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Osaka Sushi & Fresh Fruit Smoothies"
+title: Osaka Sushi & Fresh Fruit Smoothies
 permalink: /illinois/chicago/osaka-sushi-fresh-fruit-smoothies.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
 seo:
-  name: "Osaka Sushi & Fresh Fruit Smoothies"
-  type: Restaurant
+  type: restaurant
   links: http://www.osaka2go.com/
-description: "Counter-serve restaurant serving sushi, smoothies & bubble teas in a small, simple space. Osaka Sushi & Fresh Fruit Smoothies serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJKYy9QKIsDogRwugOgMR561M
 photos:
   - name: >-
@@ -182,6 +180,35 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 0
 website: http://www.osaka2go.com/
+description: >-
+  Discover Osaka Sushi & Fresh Fruit Smoothies in Chicago, IL$$$Nestled in the
+  heart of Chicago, IL, Osaka Sushi & Fresh Fruit Smoothies stands out as a
+  casual spot for enjoying authentic Japanese flavors and refreshing beverages.
+  This low-key eatery specializes in fresh sushi rolls, udon noodles, and
+  sashimi, paired perfectly with a variety of fruit-based smoothies that make it
+  a go-to choice for those seeking a quick and healthy meal. The simple,
+  counter-serve setup enhances the appeal for locals and visitors looking for
+  sushi restaurants in the bustling city, offering an affordable menu that
+  highlights quality ingredients without overwhelming frills. With options like
+  vibrant smoothies and expertly prepared Japanese dishes, it's an ideal stop
+  for anyone exploring sushi places near me, blending convenience with tasty,
+  nourishing options. The focus on fresh, everyday eats ensures a satisfying
+  experience in a neighborhood-friendly atmosphere.
+generative_summary: >-
+  Discover Osaka Sushi & Fresh Fruit Smoothies in Chicago, IL$$$Nestled in the
+  heart of Chicago, IL, Osaka Sushi & Fresh Fruit Smoothies stands out as a
+  casual spot for enjoying authentic Japanese flavors and refreshing beverages.
+  This low-key eatery specializes in fresh sushi rolls, udon noodles, and
+  sashimi, paired perfectly with a variety of fruit-based smoothies that make it
+  a go-to choice for those seeking a quick and healthy meal. The simple,
+  counter-serve setup enhances the appeal for locals and visitors looking for
+  sushi restaurants in the bustling city, offering an affordable menu that
+  highlights quality ingredients without overwhelming frills. With options like
+  vibrant smoothies and expertly prepared Japanese dishes, it's an ideal stop
+  for anyone exploring sushi places near me, blending convenience with tasty,
+  nourishing options. The focus on fresh, everyday eats ensures a satisfying
+  experience in a neighborhood-friendly atmosphere.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJKYy9QKIsDogRwugOgMR561M/reviews/ChZDSUhNMG9nS0VJQ0FnSUN2LUxPcGJ3EAE
@@ -341,6 +368,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUN3aUt6aDB3RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUN3aUt6aDB3RRAB!2m1!1s0x880e2ca240bd8c29:0x53eb79c4800ee8c2
+review_summary: >-
+  What Customers Are Saying About This Chicago Sushi Spot$$$Folks frequently
+  highlight the fresh sushi and flavorful smoothies as standout features, making
+  it a solid pick for a fast and satisfying bite in the city. Many appreciate
+  the quick service and how the dishes are prepared on the spot, adding to the
+  appeal for those hunting for reliable sushi restaurants nearby. While some
+  note that portions might feel a bit small for the price, the overall value and
+  taste keep drawing people back for affordable rolls and drinks. Reviewers
+  often mention the friendly vibe and improved food quality over time,
+  suggesting it's a great option for casual meals or a healthy snack on the go.
+  All in all, this spot earns high marks for its consistent flavors and
+  convenience, making it worth trying if you're on the hunt for top-rated sushi
+  in the area.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidParkingLot: true
   paidStreetParking: true
@@ -373,8 +414,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Counter-serve restaurant serving sushi, smoothies & bubble teas in a small,
   simple space.
 

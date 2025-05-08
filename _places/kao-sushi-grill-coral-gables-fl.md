@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kao Sushi & Grill"
+title: Kao Sushi & Grill
 permalink: /florida/coral-gables/kao-sushi-grill.html
 stateAbbr: FL
 stateName: Florida
 cityName: Coral Gables
 seo:
-  name: "Kao Sushi & Grill"
-  type: Restaurant
+  type: restaurant
   links: http://www.kaosushigrill.com/
-description: "Kao Sushi & Grill serves delicious sushi in Coral Gables, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJXb2T1Jm32YgRZjNIivNJGeI
 photos:
   - name: >-
@@ -199,7 +197,47 @@ price_range: $30 &ndash; $50
 rating: '4.6'
 rating_count: 0
 website: http://www.kaosushigrill.com/
+description: >-
+  Explore Kao Sushi & Grill in Coral Gables, FL$$$Nestled in the vibrant heart
+  of Coral Gables, FL, Kao Sushi & Grill stands out as a top spot for those
+  seeking fresh sushi and innovative fusion flavors. This casual venue delights
+  diners with a menu featuring Asian-Latin inspired dishes, including expertly
+  crafted sushi rolls and zesty ceviche that blend global tastes in a welcoming
+  atmosphere. Accessibility is a key highlight, with wheelchair-friendly
+  parking, entrances, and seating making it easy for everyone to enjoy a meal.
+  Whether you're looking for sushi restaurants near you or craving the best
+  Japanese-inspired options in the area, the spot's moderate pricing and
+  inviting vibe make it a go-to choice for a relaxed dining experience.
+  Operating hours cater to evening crowds, ensuring you can savor these culinary
+  gems from Tuesday through Sunday.
+generative_summary: >-
+  Explore Kao Sushi & Grill in Coral Gables, FL$$$Nestled in the vibrant heart
+  of Coral Gables, FL, Kao Sushi & Grill stands out as a top spot for those
+  seeking fresh sushi and innovative fusion flavors. This casual venue delights
+  diners with a menu featuring Asian-Latin inspired dishes, including expertly
+  crafted sushi rolls and zesty ceviche that blend global tastes in a welcoming
+  atmosphere. Accessibility is a key highlight, with wheelchair-friendly
+  parking, entrances, and seating making it easy for everyone to enjoy a meal.
+  Whether you're looking for sushi restaurants near you or craving the best
+  Japanese-inspired options in the area, the spot's moderate pricing and
+  inviting vibe make it a go-to choice for a relaxed dining experience.
+  Operating hours cater to evening crowds, ensuring you can savor these culinary
+  gems from Tuesday through Sunday.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Buzz Around This Local Sushi Favorite$$$Folks searching for sushi close to me
+  often rave about the tasty fusion offerings at this Coral Gables gem, with
+  standout dishes like creative rolls and flavorful Argentine-inspired sides
+  stealing the show. Visitors frequently mention the friendly and attentive
+  service that keeps things feeling warm and personal, adding to the overall
+  enjoyable vibe. Live music and an inviting atmosphere get plenty of nods,
+  making it a fun spot for groups or casual nights out. While opinions highlight
+  the solid flavors and welcoming energy, it's clear this place delivers a
+  reliably good experience that keeps people coming back for more. If you're on
+  the hunt for top-rated sushi restaurants in the area, this one's worth
+  checking out for its blend of delicious food and lively setting.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +263,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

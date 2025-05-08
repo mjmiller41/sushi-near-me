@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Fontana Sushi (6th Ave)"
+title: Fontana Sushi (6th Ave)
 permalink: /colorado/denver/fontana-sushi-6th-ave.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Denver
 seo:
-  name: "Fontana Sushi (6th Ave)"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Fontana Sushi (6th Ave) serves delicious sushi in Denver, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ2xGQToZ_bIcRPwAUCm09cCQ
 photos:
   - name: >-
@@ -184,7 +182,41 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Fontana Sushi in Denver$$$Fontana Sushi in Denver, CO, stands out as
+  a welcoming spot for those seeking quality Japanese cuisine in a relaxed
+  atmosphere. This casual eatery features a vibrant sushi bar where patrons can
+  enjoy an array of fresh rolls and creative dishes, complemented by generous
+  lunch specials that make it a go-to choice for sushi enthusiasts. With a
+  diverse menu highlighting flavorful options like sake pairings and innovative
+  combinations, it's ideal for anyone exploring top-rated sushi restaurants in
+  the area. The restaurant also prioritizes accessibility, ensuring a
+  comfortable experience for all visitors, which adds to its appeal as a
+  reliable option for everyday dining or special occasions.
+generative_summary: >-
+  Discover Fontana Sushi in Denver$$$Fontana Sushi in Denver, CO, stands out as
+  a welcoming spot for those seeking quality Japanese cuisine in a relaxed
+  atmosphere. This casual eatery features a vibrant sushi bar where patrons can
+  enjoy an array of fresh rolls and creative dishes, complemented by generous
+  lunch specials that make it a go-to choice for sushi enthusiasts. With a
+  diverse menu highlighting flavorful options like sake pairings and innovative
+  combinations, it's ideal for anyone exploring top-rated sushi restaurants in
+  the area. The restaurant also prioritizes accessibility, ensuring a
+  comfortable experience for all visitors, which adds to its appeal as a
+  reliable option for everyday dining or special occasions.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Feedback on the Experience$$$Folks checking out this spot often rave about the
+  fresh and tasty sushi selections, especially the value-packed lunch combos
+  that let you try a couple of rolls without breaking the bank. Many appreciate
+  how the standout dishes, like the flavorful grilled options, bring a nice
+  balance of quality and affordability to the table. The service gets high marks
+  for being friendly and attentive, creating a laid-back vibe that makes every
+  visit feel enjoyable. Overall, it's seen as a solid pick for anyone hunting
+  for reliable sushi places nearby, with reasonable prices that keep customers
+  coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +242,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

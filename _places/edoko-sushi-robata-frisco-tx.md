@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Edoko Sushi & Robata"
+title: Edoko Sushi & Robata
 permalink: /texas/frisco/edoko-sushi-robata.html
 stateAbbr: TX
 stateName: Texas
 cityName: Frisco
 seo:
-  name: "Edoko Sushi & Robata"
-  type: Restaurant
-  links: null
-description: "Edoko Sushi & Robata serves delicious sushi in Frisco, Texas. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.edokosushifrisco.com/
 place_id: ChIJDYsB4ls7TIYRXYacEAnh2ZU
 photos:
   - name: >-
@@ -170,22 +168,232 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x864c3b5be2018b0d:0x95d9e109109c865d!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 15
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:30 AM – 2:30 PM, 5:00 – 10:00 PM'
+    - 'Tuesday: 11:30 AM – 2:30 PM, 5:00 – 10:00 PM'
+    - 'Wednesday: 11:30 AM – 2:30 PM, 5:00 – 10:00 PM'
+    - 'Thursday: 11:30 AM – 2:30 PM, 5:00 – 10:00 PM'
+    - 'Friday: 11:30 AM – 2:30 PM, 5:00 – 10:00 PM'
+    - 'Saturday: 3:00 – 10:00 PM'
+    - 'Sunday: 5:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
-phone: null
-price_level: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 17
+          minute: 0
+        close:
+          day: 0
+          hour: 18
+          minute: 30
+      - open:
+          day: 1
+          hour: 17
+          minute: 0
+        close:
+          day: 1
+          hour: 18
+          minute: 30
+      - open:
+          day: 2
+          hour: 17
+          minute: 0
+        close:
+          day: 2
+          hour: 18
+          minute: 30
+      - open:
+          day: 3
+          hour: 17
+          minute: 0
+        close:
+          day: 3
+          hour: 18
+          minute: 30
+      - open:
+          day: 4
+          hour: 17
+          minute: 0
+        close:
+          day: 4
+          hour: 18
+          minute: 30
+      - open:
+          day: 5
+          hour: 17
+          minute: 0
+        close:
+          day: 5
+          hour: 18
+          minute: 30
+      - open:
+          day: 6
+          hour: 15
+          minute: 0
+        close:
+          day: 6
+          hour: 18
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 5:00 – 6:30 PM'
+      - 'Tuesday: 5:00 – 6:30 PM'
+      - 'Wednesday: 5:00 – 6:30 PM'
+      - 'Thursday: 5:00 – 6:30 PM'
+      - 'Friday: 5:00 – 6:30 PM'
+      - 'Saturday: 3:00 – 6:00 PM'
+      - 'Sunday: 5:00 – 6:30 PM'
+    secondaryHoursType: HAPPY_HOUR
+    nextCloseTime: '2025-05-03T23:00:00Z'
+phone: (214) 618-9888
+price_level: PRICE_LEVEL_MODERATE
 price_range: null
-rating: null
-rating_count: 0
-website: null
+rating: '4.5'
+rating_count: 1096
+website: http://www.edokosushifrisco.com/
+description: >-
+  Discover Edoko Sushi & Robata in Frisco, Texas$$$Edoko Sushi & Robata in
+  Frisco, TX, stands out as a welcoming Japanese restaurant blending authentic
+  flavors with modern dining vibes, perfect for those seeking top-rated sushi
+  options nearby. The spot features a lively robata bar for grilled specialties
+  and a dedicated sushi bar offering fresh, artfully prepared rolls and sashimi,
+  complemented by a selection of beverages including wine, cocktails, and sake.
+  Its accessible design ensures a comfortable visit for all guests, with
+  wheelchair-friendly features and a menu that caters to various tastes in a
+  casual yet elegant setting. Operating with flexible hours including lunch and
+  dinner services, this establishment provides an ideal spot for enjoying
+  Japanese cuisine in a relaxed atmosphere. Whether you're exploring sushi
+  places near you or looking for a satisfying meal after a day in the area,
+  Edoko delivers a memorable experience with its focus on quality and variety.
+generative_summary: >-
+  Discover Edoko Sushi & Robata in Frisco, Texas$$$Edoko Sushi & Robata in
+  Frisco, TX, stands out as a welcoming Japanese restaurant blending authentic
+  flavors with modern dining vibes, perfect for those seeking top-rated sushi
+  options nearby. The spot features a lively robata bar for grilled specialties
+  and a dedicated sushi bar offering fresh, artfully prepared rolls and sashimi,
+  complemented by a selection of beverages including wine, cocktails, and sake.
+  Its accessible design ensures a comfortable visit for all guests, with
+  wheelchair-friendly features and a menu that caters to various tastes in a
+  casual yet elegant setting. Operating with flexible hours including lunch and
+  dinner services, this establishment provides an ideal spot for enjoying
+  Japanese cuisine in a relaxed atmosphere. Whether you're exploring sushi
+  places near you or looking for a satisfying meal after a day in the area,
+  Edoko delivers a memorable experience with its focus on quality and variety.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Guests Are Saying About the Dining Experience$$$Folks rave about the
+  generous portions and super fresh sushi at this Japanese spot, with standout
+  dishes like creative rolls and other favorites hitting the mark for a
+  satisfying meal. Many appreciate the inviting vibe and attentive service that
+  make every visit feel effortless and enjoyable, especially during lunch when
+  prices are particularly reasonable. Visitors often note the solid variety of
+  Japanese options beyond sushi, such as dumplings and rice dishes, which add to
+  the overall appeal for groups or solo diners. Overall, the atmosphere keeps
+  things light and fun, encouraging repeat trips for anyone hunting for reliable
+  sushi restaurants in the neighborhood. It's clear from the feedback that this
+  place offers great value and a positive dining experience, making it a go-to
+  choice for tasty, well-executed meals.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +419,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

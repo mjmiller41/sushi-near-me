@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Handroll Project"
+title: Handroll Project
 permalink: /california/san-francisco/handroll-project.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
 seo:
-  name: "Handroll Project"
-  type: Restaurant
+  type: restaurant
   links: https://www.handrollproject.com/
-description: "Handroll Project serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, and dinner."
 place_id: ChIJpbpAXz9_j4ARxhsZJbZpa-w
 photos:
   - name: >-
@@ -185,6 +183,35 @@ price_range: $50 &ndash; $100
 rating: '4.1'
 rating_count: 0
 website: https://www.handrollproject.com/
+description: >-
+  Discover Handroll Project in San Francisco, CA$$$Nestled in the vibrant city
+  of San Francisco, CA, Handroll Project stands out as a modern spot for fresh
+  sushi experiences, blending innovative twists with classic Japanese flavors.
+  This hip eatery specializes in a variety of hand rolls crafted from
+  high-quality ingredients, complemented by a selection of beverages like beer,
+  wine, and sake to enhance the meal. The intimate setting invites diners to
+  enjoy a casual yet refined atmosphere, perfect for those seeking authentic
+  sushi options in a bustling neighborhood. Accessibility features such as
+  wheelchair-friendly entrances and seating make it welcoming for all, while the
+  focus on dine-in services adds to its appeal for locals and visitors alike.
+  Whether you're exploring top-rated sushi spots nearby, this place offers a
+  straightforward yet memorable way to savor Japanese-inspired cuisine without
+  the fuss.
+generative_summary: >-
+  Discover Handroll Project in San Francisco, CA$$$Nestled in the vibrant city
+  of San Francisco, CA, Handroll Project stands out as a modern spot for fresh
+  sushi experiences, blending innovative twists with classic Japanese flavors.
+  This hip eatery specializes in a variety of hand rolls crafted from
+  high-quality ingredients, complemented by a selection of beverages like beer,
+  wine, and sake to enhance the meal. The intimate setting invites diners to
+  enjoy a casual yet refined atmosphere, perfect for those seeking authentic
+  sushi options in a bustling neighborhood. Accessibility features such as
+  wheelchair-friendly entrances and seating make it welcoming for all, while the
+  focus on dine-in services adds to its appeal for locals and visitors alike.
+  Whether you're exploring top-rated sushi spots nearby, this place offers a
+  straightforward yet memorable way to savor Japanese-inspired cuisine without
+  the fuss.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJpbpAXz9_j4ARxhsZJbZpa-w/reviews/ChdDSUhNMG9nS0VJQ0FnTUNBOWFUOV9nRRAB
@@ -366,6 +393,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNybkw3UGZREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNybkw3UGZREAE!2m1!1s0x808f7f3f5f40baa5:0xec6b69b625191bc6
+review_summary: >-
+  What Customers Are Saying$$$Visitors to Handroll Project often rave about the
+  fresh and flavorful hand rolls that deliver a satisfying mix of unique tastes,
+  making it a go-to for anyone hunting for quality sushi in the area. While many
+  appreciate the efficient service and well-paced meals that keep the experience
+  enjoyable and budget-friendly, a few note that the pricing can feel a bit
+  steep for the portions served. Overall, the atmosphere and innovative flavors
+  earn high marks, with folks enjoying the simplicity and creativity that set
+  this spot apart from typical options. It's clear that the spot hits the mark
+  for those looking for a relaxed vibe and solid selections, though some suggest
+  planning ahead to avoid any time constraints during busier evenings. If you're
+  on the hunt for the best sushi near you, this place generally leaves a
+  positive impression with its reliable offerings and welcoming feel.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options:
   acceptsCreditCards: true
@@ -395,7 +436,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

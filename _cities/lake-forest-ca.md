@@ -5,4 +5,5 @@ permalink: /california/lake-forest/
 stateAbbr: CA
 stateName: California
 cityName: Lake Forest
+
 ---

@@ -5,4 +5,5 @@ permalink: /california/placentia/
 stateAbbr: CA
 stateName: California
 cityName: Placentia
+
 ---

@@ -5,4 +5,5 @@ permalink: /california/san-leandro/
 stateAbbr: CA
 stateName: California
 cityName: San Leandro
+
 ---

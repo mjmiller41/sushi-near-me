@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Anza"
+title: Sushi Anza
 permalink: /california/torrance/sushi-anza.html
 stateAbbr: CA
 stateName: California
 cityName: Torrance
 seo:
-  name: "Sushi Anza"
-  type: Restaurant
+  type: restaurant
   links: http://www.sushianza.com/cms/
-description: "Sushi Anza serves delicious sushi in Torrance, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJdRc6rs60woARCDWh5nBWrq8
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c2b4ceae3a1775:0xafae5670e6a13508!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 5:00 – 9:30 PM'
     - 'Wednesday: 5:00 – 9:30 PM'
@@ -178,54 +226,320 @@ opening_hours:
     - 'Friday: 5:00 – 9:30 PM'
     - 'Saturday: 5:00 – 9:30 PM'
     - 'Sunday: 5:00 – 9:30 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 5:00 – 9:30 PM'
-    - 'Wednesday: 5:00 – 9:30 PM'
-    - 'Thursday: 5:00 – 9:30 PM'
-    - 'Friday: 5:00 – 9:30 PM'
-    - 'Saturday: 5:00 – 9:30 PM'
-    - 'Sunday: 5:00 – 9:30 PM'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: false
+    periods:
+      - open:
+          day: 0
+          hour: 16
+          minute: 0
+        close:
+          day: 0
+          hour: 21
+          minute: 0
+      - open:
+          day: 1
+          hour: 16
+          minute: 0
+        close:
+          day: 1
+          hour: 21
+          minute: 0
+      - open:
+          day: 2
+          hour: 16
+          minute: 0
+        close:
+          day: 2
+          hour: 21
+          minute: 0
+      - open:
+          day: 3
+          hour: 16
+          minute: 0
+        close:
+          day: 3
+          hour: 21
+          minute: 0
+      - open:
+          day: 4
+          hour: 16
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 0
+      - open:
+          day: 5
+          hour: 16
+          minute: 0
+        close:
+          day: 5
+          hour: 21
+          minute: 0
+      - open:
+          day: 6
+          hour: 16
+          minute: 0
+        close:
+          day: 6
+          hour: 21
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 4:00 – 9:00 PM'
+      - 'Tuesday: 4:00 – 9:00 PM'
+      - 'Wednesday: 4:00 – 9:00 PM'
+      - 'Thursday: 4:00 – 9:00 PM'
+      - 'Friday: 4:00 – 9:00 PM'
+      - 'Saturday: 4:00 – 9:00 PM'
+      - 'Sunday: 4:00 – 9:00 PM'
+    secondaryHoursType: TAKEOUT
+    nextOpenTime: '2025-05-03T23:00:00Z'
 phone: (310) 371-6774
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.4'
-rating_count: 0
+rating_count: 103
 website: http://www.sushianza.com/cms/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Sushi Anza in Torrance, California$$$Nestled in Torrance, California,
+  Sushi Anza stands out as a long-standing spot for authentic Japanese cuisine,
+  offering a casual atmosphere that highlights fresh sushi and traditional fare.
+  This establishment serves up a variety of expertly prepared dishes, including
+  beer, wine, and sake, making it a go-to choice for those seeking quality sushi
+  experiences in the area. With its focus on simple, balanced flavors and
+  high-quality ingredients, it's ideal for anyone exploring top-rated sushi
+  restaurants nearby. The accessible setting and welcoming vibe add to its
+  appeal, providing a reliable option for both dine-in and takeout enthusiasts
+  looking for genuine Japanese tastes.
+generative_summary: >-
+  Discover Sushi Anza in Torrance, California$$$Nestled in Torrance, California,
+  Sushi Anza stands out as a long-standing spot for authentic Japanese cuisine,
+  offering a casual atmosphere that highlights fresh sushi and traditional fare.
+  This establishment serves up a variety of expertly prepared dishes, including
+  beer, wine, and sake, making it a go-to choice for those seeking quality sushi
+  experiences in the area. With its focus on simple, balanced flavors and
+  high-quality ingredients, it's ideal for anyone exploring top-rated sushi
+  restaurants nearby. The accessible setting and welcoming vibe add to its
+  appeal, providing a reliable option for both dine-in and takeout enthusiasts
+  looking for genuine Japanese tastes.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJdRc6rs60woARCDWh5nBWrq8/reviews/ChdDSUhNMG9nS0VJQ0FnTURJOGFhd2dnRRAB
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 5
+    text:
+      text: >-
+        This unassuming sushi spot in the Vons center at Torrance and Anza is
+        incredible.. the quality and authenticity are off the charts.  Their
+        menu does not have the wild overly sauced extravaganza rolls you
+        commonly see now in America.. this store has been there for a long time
+        and they stuck to the more simple, traditional menu that relies on
+        quality and balance rather than a ton of sweet eel sauce and mayo.  The
+        service is friendly and you can tell this is a long time neighborhood
+        family run place that is much loved by the community.  We will be back
+        soon to try more of the menu.. also have ordered takeout and it was just
+        as good and perfectly done.  Eat in, take out.. just eat the food and be
+        transported to a simple time when sushi was just taking off in America..
+        great ingredients and talented chef working with them makes this a must
+        try.
+      languageCode: en
+    originalText:
+      text: >-
+        This unassuming sushi spot in the Vons center at Torrance and Anza is
+        incredible.. the quality and authenticity are off the charts.  Their
+        menu does not have the wild overly sauced extravaganza rolls you
+        commonly see now in America.. this store has been there for a long time
+        and they stuck to the more simple, traditional menu that relies on
+        quality and balance rather than a ton of sweet eel sauce and mayo.  The
+        service is friendly and you can tell this is a long time neighborhood
+        family run place that is much loved by the community.  We will be back
+        soon to try more of the menu.. also have ordered takeout and it was just
+        as good and perfectly done.  Eat in, take out.. just eat the food and be
+        transported to a simple time when sushi was just taking off in America..
+        great ingredients and talented chef working with them makes this a must
+        try.
+      languageCode: en
+    authorAttribution:
+      displayName: Swoon Lashes
+      uri: https://www.google.com/maps/contrib/118097095326970967142/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUqHjtRpWqDFG15BfrjvQLfnfvZBI0wgC0BGHjcfPjIxgOLdC4=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-10T22:26:21.647148Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJOGFhd2dnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJOGFhd2dnRRAB!2m1!1s0x80c2b4ceae3a1775:0xafae5670e6a13508
+  - name: >-
+      places/ChIJdRc6rs60woARCDWh5nBWrq8/reviews/ChdDSUhNMG9nS0VJQ0FnSURueXAzZjN3RRAB
+    relativePublishTimeDescription: 7 months ago
+    rating: 5
+    text:
+      text: >-
+        fresh sushi and huge variety of different fish. I loved the snapper,
+        salmon and scallops. Every fish I tried was really tasty and well
+        prepared. The owners who are also the sushi chefs are really nice! They
+        definitely know how to create traditional Japanese sushi and dishes. The
+        vibe is fun and the place has character. So glad I tried this cool
+        little sushi restaurant!
+      languageCode: en
+    originalText:
+      text: >-
+        fresh sushi and huge variety of different fish. I loved the snapper,
+        salmon and scallops. Every fish I tried was really tasty and well
+        prepared. The owners who are also the sushi chefs are really nice! They
+        definitely know how to create traditional Japanese sushi and dishes. The
+        vibe is fun and the place has character. So glad I tried this cool
+        little sushi restaurant!
+      languageCode: en
+    authorAttribution:
+      displayName: Brian Engleman
+      uri: https://www.google.com/maps/contrib/100398316539920269109/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVBiCbGSHgUlX-3dWHpoF03AiJztUaF_0_MCffNmUme8XHUig-J=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2024-10-05T00:33:14.369960Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURueXAzZjN3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURueXAzZjN3RRAB!2m1!1s0x80c2b4ceae3a1775:0xafae5670e6a13508
+  - name: >-
+      places/ChIJdRc6rs60woARCDWh5nBWrq8/reviews/ChdDSUhNMG9nS0VJQ0FnSUR0aXZpTzdRRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        Kazumi & Chef are the best ! The sushi & sashimi is always delicate &
+        delicious! It is truly a hidden gem ❤️
+      languageCode: en
+    originalText:
+      text: >-
+        Kazumi & Chef are the best ! The sushi & sashimi is always delicate &
+        delicious! It is truly a hidden gem ❤️
+      languageCode: en
+    authorAttribution:
+      displayName: Celeste Torres
+      uri: https://www.google.com/maps/contrib/112563748976434427626/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjULHDqg5rlNUbqd6np3ZOm7JKOmuh_gZxqVk_Wus3qKUulgX0U=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-02-03T17:01:51.161881Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR0aXZpTzdRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR0aXZpTzdRRRAB!2m1!1s0x80c2b4ceae3a1775:0xafae5670e6a13508
+  - name: >-
+      places/ChIJdRc6rs60woARCDWh5nBWrq8/reviews/ChdDSUhNMG9nS0VJQ0FnSURHX09pN21BRRAB
+    relativePublishTimeDescription: 3 years ago
+    rating: 5
+    text:
+      text: >-
+        I was just here last night with my wife and we got to meet her friend
+        who works here and also got to meet the owner and his wife at the
+        restaurant. When you walk in you really feel like you're back in Japan
+        (one of my favorite countries to visit by the way) and the vibe there is
+        very chill, mellow, and fun... The good was great and the customer
+        service was amazing. The eel was amazing along with the Tuna Roll (of
+        course I had to have a cold beer to go with it 😋 🤣) and places like
+        this is one of the reasons why I love eating sushi with a real taste of
+        Japan atmosphere to go with it! I will definitely be back and thank you
+        so much for the hospitality!!!
+      languageCode: en
+    originalText:
+      text: >-
+        I was just here last night with my wife and we got to meet her friend
+        who works here and also got to meet the owner and his wife at the
+        restaurant. When you walk in you really feel like you're back in Japan
+        (one of my favorite countries to visit by the way) and the vibe there is
+        very chill, mellow, and fun... The good was great and the customer
+        service was amazing. The eel was amazing along with the Tuna Roll (of
+        course I had to have a cold beer to go with it 😋 🤣) and places like
+        this is one of the reasons why I love eating sushi with a real taste of
+        Japan atmosphere to go with it! I will definitely be back and thank you
+        so much for the hospitality!!!
+      languageCode: en
+    authorAttribution:
+      displayName: Eddie Joseph
+      uri: https://www.google.com/maps/contrib/106810650138012828021/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWwHW9sM5LWtz-CQlJMZAuA2-TwfzwNH6q4PIqOJTpYQNr0KHA=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2021-11-21T20:22:39.770779Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURHX09pN21BRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURHX09pN21BRRAB!2m1!1s0x80c2b4ceae3a1775:0xafae5670e6a13508
+  - name: >-
+      places/ChIJdRc6rs60woARCDWh5nBWrq8/reviews/ChdDSUhNMG9nS0VJQ0FnSURnLXA2Tm9nRRAB
+    relativePublishTimeDescription: 7 years ago
+    rating: 5
+    text:
+      text: >-
+        happy hour is from 530 to 7 pm!  Best sushi spot, hidden gem,  menu is
+        part Japanese!  Love it!
+      languageCode: en
+    originalText:
+      text: >-
+        happy hour is from 530 to 7 pm!  Best sushi spot, hidden gem,  menu is
+        part Japanese!  Love it!
+      languageCode: en
+    authorAttribution:
+      displayName: Tony Arenas
+      uri: https://www.google.com/maps/contrib/108656828375729121702/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXfhhaBDN0T0XCftApzjlDFUCCtHUpe01Z-W4EvsPudxFkcNE6v=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2018-03-11T03:22:21.274Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURnLXA2Tm9nRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURnLXA2Tm9nRRAB!2m1!1s0x80c2b4ceae3a1775:0xafae5670e6a13508
+review_summary: >-
+  What Guests Are Saying About This Local Favorite$$$Visitors often rave about
+  the fresh and diverse selection of sushi at this spot, noting how the
+  authentic flavors and well-prepared fish make every meal enjoyable. Many
+  appreciate the friendly service and traditional vibe that create a fun,
+  neighborhood feel, perfect for casual outings or quick takeout. Folks
+  frequently mention the balance of quality over flashy presentations, which
+  keeps things honest and satisfying for sushi lovers in the community. Overall,
+  it's praised as a hidden gem for those searching for the best sushi near me,
+  with consistent positives around the atmosphere and value. While it's clear
+  this place has loyal fans, the general feedback highlights it as a solid,
+  welcoming choice for anyone craving reliable Japanese dishes.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
+delivery: false
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: true
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
 serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: false
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  No-frills Japanese establishment offers a sushi-focused menu in a standard
+  setting.
 
 ---

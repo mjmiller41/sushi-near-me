@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Asian Express"
+title: Asian Express
 permalink: /georgia/lawrenceville/asian-express.html
 stateAbbr: GA
 stateName: Georgia
 cityName: Lawrenceville
 seo:
-  name: "Asian Express"
-  type: Restaurant
-  links: null
-description: "Asian Express serves delicious sushi in Lawrenceville, Georgia. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://m.facebook.com/pages/Asian-Express-Sushi-Hibatchi/237426272962630
 place_id: ChIJWV3Lehe89YgRK-fqCUoOtD0
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x88f5bc177acb5d59:0x3db40e4a09eae72b!10e5
 primary_type: Chinese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:30 PM'
+    - 'Tuesday: 11:00 AM – 9:30 PM'
+    - 'Wednesday: 11:00 AM – 9:30 PM'
+    - 'Thursday: 11:00 AM – 9:30 PM'
+    - 'Friday: 11:00 AM – 10:00 PM'
+    - 'Saturday: 11:00 AM – 10:00 PM'
+    - 'Sunday: 11:00 AM – 9:30 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,55 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (770) 338-1200
+price_level: PRICE_LEVEL_INEXPENSIVE
+price_range: $1 &ndash; $10
+rating: '4.2'
+rating_count: 363
+website: https://m.facebook.com/pages/Asian-Express-Sushi-Hibatchi/237426272962630
+description: >-
+  Explore Asian Express in Lawrenceville, GA$$$Asian Express in Lawrenceville,
+  GA, stands out as a welcoming spot for enjoying a mix of Chinese favorites and
+  fresh sushi options, making it a go-to choice for those seeking diverse Asian
+  cuisine. This casual eatery offers classic dishes like teriyaki and honey
+  chicken alongside sushi selections, all prepared with a focus on flavorful
+  simplicity and accessibility features such as wheelchair-friendly parking and
+  seating. Diners can appreciate the straightforward atmosphere that emphasizes
+  quick service and everyday affordability, perfect for families or anyone
+  looking for reliable Japanese-inspired meals near local hubs. With convenient
+  hours extending into the evening, it's an easy pick for a satisfying lunch or
+  dinner, blending traditional tastes with modern convenience in a laid-back
+  setting.
+generative_summary: >-
+  Explore Asian Express in Lawrenceville, GA$$$Asian Express in Lawrenceville,
+  GA, stands out as a welcoming spot for enjoying a mix of Chinese favorites and
+  fresh sushi options, making it a go-to choice for those seeking diverse Asian
+  cuisine. This casual eatery offers classic dishes like teriyaki and honey
+  chicken alongside sushi selections, all prepared with a focus on flavorful
+  simplicity and accessibility features such as wheelchair-friendly parking and
+  seating. Diners can appreciate the straightforward atmosphere that emphasizes
+  quick service and everyday affordability, perfect for families or anyone
+  looking for reliable Japanese-inspired meals near local hubs. With convenient
+  hours extending into the evening, it's an easy pick for a satisfying lunch or
+  dinner, blending traditional tastes with modern convenience in a laid-back
+  setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback Highlights$$$Visitors to this sushi spot in Lawrenceville
+  often rave about the tasty combination of Chinese and sushi offerings, noting
+  how the fresh flavors and generous portions make it a solid value for everyday
+  meals. Many appreciate the friendly service and quick preparation, which keeps
+  things efficient without sacrificing quality, especially for those grabbing
+  takeout on a busy day. While some mention the atmosphere as straightforward
+  rather than fancy, the overall experience gets high marks for reliability and
+  taste, with favorites like teriyaki dishes standing out as crowd-pleasers.
+  Feedback generally highlights it as a dependable choice for groups or families
+  searching for affordable sushi restaurants nearby, encouraging repeat visits
+  for its consistent appeal. With a strong rating reflecting positive
+  experiences, it's clear this place delivers on expectations for casual,
+  enjoyable dining.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +316,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

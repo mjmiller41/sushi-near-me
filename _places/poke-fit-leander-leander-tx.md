@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Poke fit-Leander"
+title: Poke fit-Leander
 permalink: /texas/leander/poke-fit-leander.html
 stateAbbr: TX
 stateName: Texas
 cityName: Leander
 seo:
-  name: "Poke fit-Leander"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Poke fit-Leander serves delicious sushi in Leander, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJX_hVnEUtW4YRntHFswW7FhY
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x865b2d459c55f85f:0x1616bb05b3c5d19e!10e5
 primary_type: American Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:00 PM'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:00 PM'
     - 'Saturday: 11:00 AM – 9:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:00 AM – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 9:00 PM'
-    - 'Saturday: 11:00 AM – 9:00 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +238,244 @@ phone: (512) 379-5240
 price_level: PRICE_LEVEL_INEXPENSIVE
 price_range: $10 &ndash; $20
 rating: '4.6'
-rating_count: 0
+rating_count: 204
 website: null
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Poke Fit-Leander in Leander, TX$$$Poke Fit-Leander in Leander, TX,
+  stands out as a casual spot for fresh Hawaiian-inspired dishes, blending poke
+  bowls and sushi with a focus on health-conscious options. This welcoming
+  restaurant offers generous portions of high-quality ingredients, making it a
+  go-to choice for those seeking light, flavorful meals in a convenient
+  location. With accessibility features like wheelchair-friendly entrances and
+  parking, it's designed for easy visits, enhancing the overall experience for
+  everyone. Operating daily from 11 AM to 9 PM, it caters to lunch and dinner
+  crowds with affordable pricing and options for takeout or dine-in, appealing
+  to anyone exploring sushi spots nearby.
+generative_summary: >-
+  Discover Poke Fit-Leander in Leander, TX$$$Poke Fit-Leander in Leander, TX,
+  stands out as a casual spot for fresh Hawaiian-inspired dishes, blending poke
+  bowls and sushi with a focus on health-conscious options. This welcoming
+  restaurant offers generous portions of high-quality ingredients, making it a
+  go-to choice for those seeking light, flavorful meals in a convenient
+  location. With accessibility features like wheelchair-friendly entrances and
+  parking, it's designed for easy visits, enhancing the overall experience for
+  everyone. Operating daily from 11 AM to 9 PM, it caters to lunch and dinner
+  crowds with affordable pricing and options for takeout or dine-in, appealing
+  to anyone exploring sushi spots nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJX_hVnEUtW4YRntHFswW7FhY/reviews/ChdDSUhNMG9nS0VJQ0FnTURJeXZLcnpBRRAB
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 5
+    text:
+      text: >-
+        My favorite poke stop. I go here a couple times a week. Love how much
+        food they give you. Such a healthy helping of fish compared to other
+        poke places. The small is more than enough.
+
+
+        I get the sesame shoyu sauce which is a bit sweet, but ask for less of
+        it and then add soy sauce.
+      languageCode: en
+    originalText:
+      text: >-
+        My favorite poke stop. I go here a couple times a week. Love how much
+        food they give you. Such a healthy helping of fish compared to other
+        poke places. The small is more than enough.
+
+
+        I get the sesame shoyu sauce which is a bit sweet, but ask for less of
+        it and then add soy sauce.
+      languageCode: en
+    authorAttribution:
+      displayName: Emily H
+      uri: https://www.google.com/maps/contrib/103778987170445179634/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJq67J0vnBH8i-9VHh_qaNP0h4WAvMCoSMIFi2LwEC7YEmBkR4=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-08T19:51:43.228171Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJeXZLcnpBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJeXZLcnpBRRAB!2m1!1s0x865b2d459c55f85f:0x1616bb05b3c5d19e
+  - name: >-
+      places/ChIJX_hVnEUtW4YRntHFswW7FhY/reviews/ChdDSUhNMG9nS0VJQ0FnSUNUdXR5TzlBRRAB
+    relativePublishTimeDescription: 11 months ago
+    rating: 4
+    text:
+      text: >-
+        Not sure why I haven't commented more on Poke Fit in the several years
+        we've been grabbing carryout poke bowls from them.  We grab dinner from
+        there about once a month, and it's always good.  We always start with
+        the Miso Soup, which is very good... one of the best in ATX, IMHO.  The
+        poke bowls come with super fresh ingredients, almost sushi grade fish,
+        ample portions, and good sauces that come on the side.  Solid,
+        consistent, and pretty healthy poke ... recommend you give them a try!
+      languageCode: en
+    originalText:
+      text: >-
+        Not sure why I haven't commented more on Poke Fit in the several years
+        we've been grabbing carryout poke bowls from them.  We grab dinner from
+        there about once a month, and it's always good.  We always start with
+        the Miso Soup, which is very good... one of the best in ATX, IMHO.  The
+        poke bowls come with super fresh ingredients, almost sushi grade fish,
+        ample portions, and good sauces that come on the side.  Solid,
+        consistent, and pretty healthy poke ... recommend you give them a try!
+      languageCode: en
+    authorAttribution:
+      displayName: Jim Nabholz
+      uri: https://www.google.com/maps/contrib/101337094024750005120/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVlnEXJUbOjY0Xf6eFCeZFb5khkZUUIpN5kRxJGwM3A_ogJ9bhn=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2024-05-13T19:11:08.532235Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNUdXR5TzlBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNUdXR5TzlBRRAB!2m1!1s0x865b2d459c55f85f:0x1616bb05b3c5d19e
+  - name: >-
+      places/ChIJX_hVnEUtW4YRntHFswW7FhY/reviews/ChZDSUhNMG9nS0VJQ0FnSURHNy1YVk5nEAE
+    relativePublishTimeDescription: 3 years ago
+    rating: 5
+    text:
+      text: >-
+        There's no better place to get an amazing and delicious sushi bowl. I
+        really enjoy the experience there. My husband and my kids are loyal
+        costumers.
+
+        The manager( Daisy Marie) and also the kitchen staff ( Vicky and Susan)
+        are great!💯
+      languageCode: en
+    originalText:
+      text: >-
+        There's no better place to get an amazing and delicious sushi bowl. I
+        really enjoy the experience there. My husband and my kids are loyal
+        costumers.
+
+        The manager( Daisy Marie) and also the kitchen staff ( Vicky and Susan)
+        are great!💯
+      languageCode: en
+    authorAttribution:
+      displayName: Rosita Silva
+      uri: https://www.google.com/maps/contrib/114617346950560241596/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVkiTAx6ECSF5QLDsnfEC7stdIl_EkFy--35oVsWzRELiIpW1Xj=s128-c0x00000000-cc-rp-mo
+    publishTime: '2022-03-24T11:48:00.710556Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURHNy1YVk5nEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURHNy1YVk5nEAE!2m1!1s0x865b2d459c55f85f:0x1616bb05b3c5d19e
+  - name: >-
+      places/ChIJX_hVnEUtW4YRntHFswW7FhY/reviews/ChdDSUhNMG9nS0VJQ0FnSUNYeWIzNWlRRRAB
+    relativePublishTimeDescription: 6 months ago
+    rating: 3
+    text:
+      text: >-
+        Really good quality fish, good ingredients and good sauce but it's
+        always the same everytime. The women who work there are always polite
+        but I wouldn't go so far as to call them nice and friendly. The
+        atmosphere....well ...there isn't one. It's always empty and no music I
+        ever remember hearing. But if you're looking for consistency and decent
+        quality this is a pretty good spot.
+      languageCode: en
+    originalText:
+      text: >-
+        Really good quality fish, good ingredients and good sauce but it's
+        always the same everytime. The women who work there are always polite
+        but I wouldn't go so far as to call them nice and friendly. The
+        atmosphere....well ...there isn't one. It's always empty and no music I
+        ever remember hearing. But if you're looking for consistency and decent
+        quality this is a pretty good spot.
+      languageCode: en
+    authorAttribution:
+      displayName: Doc Flores
+      uri: https://www.google.com/maps/contrib/113461998743881816565/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWUujqlN6h0tHxMwWwSqdNFiKXQB77bptS-sZfjDdXWH8QMQr4=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-10-18T02:13:13.080497Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNYeWIzNWlRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNYeWIzNWlRRRAB!2m1!1s0x865b2d459c55f85f:0x1616bb05b3c5d19e
+  - name: >-
+      places/ChIJX_hVnEUtW4YRntHFswW7FhY/reviews/ChdDSUhNMG9nS0VJQ0FnSUN2NVp6eXJ3RRAB
+    relativePublishTimeDescription: 4 months ago
+    rating: 1
+    text:
+      text: >-
+        Despite closing at 9 the employee that “helped” us told us we could not
+        dine in at 8:30. I drove 45 minutes to get there cause I liked the place
+        previously, so had to drive home and eat my lukewarm poke bowl in
+        sadness. Really poor customer service. I could understand if it was 2
+        minutes before closing, but it was a full half hour. We would have
+        finished our bowls before they closed. I will never recommend this place
+        again.
+      languageCode: en
+    originalText:
+      text: >-
+        Despite closing at 9 the employee that “helped” us told us we could not
+        dine in at 8:30. I drove 45 minutes to get there cause I liked the place
+        previously, so had to drive home and eat my lukewarm poke bowl in
+        sadness. Really poor customer service. I could understand if it was 2
+        minutes before closing, but it was a full half hour. We would have
+        finished our bowls before they closed. I will never recommend this place
+        again.
+      languageCode: en
+    authorAttribution:
+      displayName: Forrest Parton
+      uri: https://www.google.com/maps/contrib/102917519324840558936/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLbVAjP2dXVI9MArXj9R4pwGkfQMy5Q7h6Ts_apcUh7kevCvQ=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-12-13T03:21:26.682221Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN2NVp6eXJ3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN2NVp6eXJ3RRAB!2m1!1s0x865b2d459c55f85f:0x1616bb05b3c5d19e
+review_summary: >-
+  What Visitors Are Sharing$$$Folks often rave about the fresh, high-quality
+  fish and hearty portions that make meals here feel satisfying and worthwhile,
+  drawing in regular customers for a quick, healthy bite. Many appreciate the
+  consistent flavors and variety of sauces that add a fun twist to the bowls,
+  helping it stand out among local options for casual dining. While the
+  atmosphere keeps things simple and straightforward, the overall value and
+  taste keep people coming back for more. Some mention that service is polite
+  and efficient, contributing to a smooth experience, though it's best to plan
+  visits earlier in the day for the full vibe. All in all, it's a solid pick for
+  anyone hunting for tasty, budget-friendly poke or sushi nearby, with the
+  positives outweighing any minor hiccups.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
+curbside_pickup: false
+delivery: true
+dine_in: true
+good_for_children: true
 good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
+good_for_sports: false
+live_music: false
+menu_for_children: true
+outdoor_seating: false
+reservable: false
+restroom: true
 serves_beer: null
 serves_breakfast: null
-serves_brunch: null
+serves_brunch: false
 serves_cocktails: null
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
 serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

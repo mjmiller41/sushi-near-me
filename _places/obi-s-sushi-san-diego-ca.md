@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Obi's Sushi"
+title: Obi's Sushi
 permalink: /california/san-diego/obi-s-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: San Diego
 seo:
-  name: "Obi's Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.obissushi.com/
-description: "Obi's Sushi serves delicious sushi in San Diego, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJF0ZiaCj-24ARDlcIdjz2-kA
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 0
 website: http://www.obissushi.com/
+description: >-
+  Discover Obi's Sushi in San Diego, CA$$$Obi's Sushi in San Diego, CA, stands
+  out as a welcoming spot for enjoying fresh Japanese cuisine in a serene
+  environment, perfect for those seeking quality sushi options nearby. The
+  restaurant offers a variety of classic dishes like sushi rolls and bento
+  boxes, all prepared with vibrant flavors and thoughtful presentation that
+  highlight its commitment to authentic tastes. With enticing happy-hour
+  specials, it's an ideal choice for casual diners looking to unwind after a
+  long day, making it a go-to among local sushi restaurants. Accessibility
+  features such as wheelchair-friendly entrances and ample parking add to the
+  convenience, ensuring a stress-free visit for everyone. This hidden gem in the
+  Kearny Mesa area combines affordability with satisfying meals, appealing to
+  anyone exploring top-rated sushi places in the region.
+generative_summary: >-
+  Discover Obi's Sushi in San Diego, CA$$$Obi's Sushi in San Diego, CA, stands
+  out as a welcoming spot for enjoying fresh Japanese cuisine in a serene
+  environment, perfect for those seeking quality sushi options nearby. The
+  restaurant offers a variety of classic dishes like sushi rolls and bento
+  boxes, all prepared with vibrant flavors and thoughtful presentation that
+  highlight its commitment to authentic tastes. With enticing happy-hour
+  specials, it's an ideal choice for casual diners looking to unwind after a
+  long day, making it a go-to among local sushi restaurants. Accessibility
+  features such as wheelchair-friendly entrances and ample parking add to the
+  convenience, ensuring a stress-free visit for everyone. This hidden gem in the
+  Kearny Mesa area combines affordability with satisfying meals, appealing to
+  anyone exploring top-rated sushi places in the region.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJF0ZiaCj-24ARDlcIdjz2-kA/reviews/ChZDSUhNMG9nS0VJQ0FnSURiNmVmSE9REAE
@@ -368,6 +393,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNacFB2NS1nRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNacFB2NS1nRRAB!2m1!1s0x80dbfe2868624617:0x40faf63c7608570e
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this sushi spot often rave about the
+  delicious, flavorful rolls and appetizers that make for a satisfying meal,
+  with many highlighting the great value during happy-hour deals. While some
+  folks mention that prices lean a bit higher than expected, they agree the
+  quality and taste more than justify the cost, especially for fresh seafood
+  options. The atmosphere comes across as relaxed and comfortable, providing a
+  nice backdrop for casual gatherings or unwinding solo, though service can vary
+  from attentive to occasionally slow on quieter days. Overall, people
+  appreciate the consistent experience and clean, inviting space, making it a
+  solid pick for anyone craving reliable Japanese fare. If you're on the hunt
+  for sushi near you, this place earns praise for its tasty dishes and welcoming
+  vibe, encouraging repeat visits for a laid-back dining adventure.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -399,7 +438,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

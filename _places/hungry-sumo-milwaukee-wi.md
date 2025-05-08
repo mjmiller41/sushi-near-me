@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Hungry Sumo"
+title: Hungry Sumo
 permalink: /wisconsin/milwaukee/hungry-sumo.html
 stateAbbr: WI
 stateName: Wisconsin
 cityName: Milwaukee
 seo:
-  name: "Hungry Sumo"
-  type: Restaurant
+  type: restaurant
   links: http://www.hungrysumosushibar.com/
-description: "Traditional & creative sushi, Japanese & Thai small plates, rice bowls & ramen in a modern space. Hungry Sumo serves delicious sushi in Milwaukee, Wisconsin. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJ-1Njv34XBYgRmYuSaobePGA
 photos:
   - name: >-
@@ -184,6 +182,31 @@ price_range: $20 &ndash; $30
 rating: '4.7'
 rating_count: 0
 website: http://www.hungrysumosushibar.com/
+description: >-
+  Discover Hungry Sumo in Milwaukee, WI$$$Hungry Sumo in Milwaukee, WI, offers a
+  delightful blend of Japanese dining with fresh sushi, flavorful ramen, and
+  creative small plates in a welcoming, casual atmosphere. This spot stands out
+  for its modern vibe and thoughtful menu that caters to a variety of tastes,
+  making it a go-to choice for those seeking authentic yet approachable
+  Asian-inspired cuisine. With options like rice bowls and innovative rolls,
+  it's designed for diners looking for quality meals at moderate prices,
+  enhanced by accessible features like wheelchair-friendly entrances. The
+  restaurant's focus on fresh ingredients and diverse offerings ensures a
+  satisfying experience for anyone exploring top-rated Japanese places in the
+  area.
+generative_summary: >-
+  Discover Hungry Sumo in Milwaukee, WI$$$Hungry Sumo in Milwaukee, WI, offers a
+  delightful blend of Japanese dining with fresh sushi, flavorful ramen, and
+  creative small plates in a welcoming, casual atmosphere. This spot stands out
+  for its modern vibe and thoughtful menu that caters to a variety of tastes,
+  making it a go-to choice for those seeking authentic yet approachable
+  Asian-inspired cuisine. With options like rice bowls and innovative rolls,
+  it's designed for diners looking for quality meals at moderate prices,
+  enhanced by accessible features like wheelchair-friendly entrances. The
+  restaurant's focus on fresh ingredients and diverse offerings ensures a
+  satisfying experience for anyone exploring top-rated Japanese places in the
+  area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ-1Njv34XBYgRmYuSaobePGA/reviews/ChZDSUhNMG9nS0VJQ0FnTUNBNnQ2cFNnEAE
@@ -373,6 +396,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNBOE96RnNnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNBOE96RnNnRRAB!2m1!1s0x8805177ebf6353fb:0x603cde866a928b99
+review_summary: >-
+  What Guests Are Saying About This Sushi Spot$$$Folks who visit this lively
+  eatery often highlight the super fresh sushi and tasty dishes that make every
+  bite worthwhile, creating a buzz around its creative flavors and generous
+  portions. Many appreciate the friendly service and efficient vibe that keep
+  things running smoothly, even during busy times, adding to the overall
+  enjoyable atmosphere. It's clear that the menu hits the mark with favorites
+  like flavorful buns and hearty ramen, drawing in crowds who value good value
+  without breaking the bank. While some note that it gets crowded, especially at
+  lunch, the consensus leans positive, with diners eager to return for more of
+  the delicious options. All in all, this spot comes across as a solid pick for
+  anyone hunting for reliable sushi restaurants nearby, blending fun and flavor
+  in a way that keeps the good times rolling.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeStreetParking: true
   valetParking: false
@@ -404,8 +441,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Traditional & creative sushi, Japanese & Thai small plates, rice bowls & ramen
   in a modern space.
 

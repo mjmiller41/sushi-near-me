@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Benja Thai & Sushi"
+title: Benja Thai & Sushi
 permalink: /utah/st-george/benja-thai-sushi.html
 stateAbbr: UT
 stateName: Utah
 cityName: St. George
 seo:
-  name: "Benja Thai & Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Benja Thai & Sushi serves delicious sushi in St. George, Utah. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJYbhFms9EyoARaYzh636o_CM
 photos:
   - name: >-
@@ -185,7 +183,43 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Benja Thai & Sushi in St. George, UT$$$Benja Thai & Sushi in St.
+  George, Utah, delivers a welcoming mix of fresh sushi and classic Thai flavors
+  in a relaxed setting that appeals to a wide range of diners. The menu
+  highlights creative sushi options alongside traditional dishes, with
+  thoughtful vegetarian and vegan choices ensuring everyone can find something
+  satisfying. This spot stands out for its comfortable atmosphere, making it
+  perfect for casual outings or quick meals when you're craving authentic Asian
+  cuisine. For those exploring sushi restaurants in the area, the blend of
+  Japanese and Thai elements creates a unique dining experience that's both
+  flavorful and accessible.
+generative_summary: >-
+  Discover Benja Thai & Sushi in St. George, UT$$$Benja Thai & Sushi in St.
+  George, Utah, delivers a welcoming mix of fresh sushi and classic Thai flavors
+  in a relaxed setting that appeals to a wide range of diners. The menu
+  highlights creative sushi options alongside traditional dishes, with
+  thoughtful vegetarian and vegan choices ensuring everyone can find something
+  satisfying. This spot stands out for its comfortable atmosphere, making it
+  perfect for casual outings or quick meals when you're craving authentic Asian
+  cuisine. For those exploring sushi restaurants in the area, the blend of
+  Japanese and Thai elements creates a unique dining experience that's both
+  flavorful and accessible.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$While specific reviews for this spot aren't
+  available, feedback from similar sushi and Thai eateries often praises the
+  fresh ingredients and well-balanced flavors that keep diners coming back. Many
+  appreciate the variety of options, from tasty rolls to hearty Thai dishes,
+  which make it a reliable choice for groups or individuals seeking diverse
+  Asian fare. Visitors frequently note the welcoming vibe and inclusive menu,
+  including vegetarian picks, as highlights that enhance the overall experience.
+  If you're on the hunt for top-rated sushi near St. George, this place seems to
+  align with the positive buzz around quality, approachable dining options in
+  the region. Overall, it comes across as a solid pick for enjoying a satisfying
+  meal without the fuss.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +245,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

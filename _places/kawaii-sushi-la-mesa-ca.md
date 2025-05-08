@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kawaii Sushi"
+title: Kawaii Sushi
 permalink: /california/la-mesa/kawaii-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: La Mesa
 seo:
-  name: "Kawaii Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://kawaiisushi.restaurant/?utm_source=google
-description: "Kawaii Sushi serves delicious sushi in La Mesa, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJx-qOq8ZV2YARY7Rr7dDp3Bw
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80d955c6ab8eeac7:0x1cdce9d0ed6bb463!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 20
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 8:30 PM'
     - 'Tuesday: 11:00 AM – 8:30 PM'
     - 'Wednesday: 11:00 AM – 8:30 PM'
@@ -178,54 +234,390 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:00 PM'
     - 'Saturday: 11:00 AM – 9:00 PM'
     - 'Sunday: 12:00 – 8:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 8:30 PM'
-    - 'Tuesday: 11:00 AM – 8:30 PM'
-    - 'Wednesday: 11:00 AM – 8:30 PM'
-    - 'Thursday: 11:00 AM – 8:30 PM'
-    - 'Friday: 11:00 AM – 9:00 PM'
-    - 'Saturday: 11:00 AM – 9:00 PM'
-    - 'Sunday: 12:00 – 8:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 0
+        close:
+          day: 0
+          hour: 20
+          minute: 0
+      - open:
+          day: 1
+          hour: 11
+          minute: 0
+        close:
+          day: 1
+          hour: 20
+          minute: 30
+      - open:
+          day: 2
+          hour: 11
+          minute: 0
+        close:
+          day: 2
+          hour: 20
+          minute: 30
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 20
+          minute: 15
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 20
+          minute: 30
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 21
+          minute: 0
+      - open:
+          day: 6
+          hour: 11
+          minute: 0
+        close:
+          day: 6
+          hour: 21
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 11:00 AM – 8:30 PM'
+      - 'Tuesday: 11:00 AM – 8:30 PM'
+      - 'Wednesday: 11:00 AM – 8:15 PM'
+      - 'Thursday: 11:00 AM – 8:30 PM'
+      - 'Friday: 11:00 AM – 9:00 PM'
+      - 'Saturday: 11:00 AM – 9:00 PM'
+      - 'Sunday: 12:00 – 8:00 PM'
+    secondaryHoursType: DELIVERY
+    nextCloseTime: '2025-05-04T04:00:00Z'
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 0
+        close:
+          day: 0
+          hour: 20
+          minute: 0
+      - open:
+          day: 1
+          hour: 11
+          minute: 0
+        close:
+          day: 1
+          hour: 20
+          minute: 30
+      - open:
+          day: 2
+          hour: 11
+          minute: 0
+        close:
+          day: 2
+          hour: 20
+          minute: 30
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 20
+          minute: 30
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 20
+          minute: 30
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 21
+          minute: 0
+      - open:
+          day: 6
+          hour: 11
+          minute: 0
+        close:
+          day: 6
+          hour: 21
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 11:00 AM – 8:30 PM'
+      - 'Tuesday: 11:00 AM – 8:30 PM'
+      - 'Wednesday: 11:00 AM – 8:30 PM'
+      - 'Thursday: 11:00 AM – 8:30 PM'
+      - 'Friday: 11:00 AM – 9:00 PM'
+      - 'Saturday: 11:00 AM – 9:00 PM'
+      - 'Sunday: 12:00 – 8:00 PM'
+    secondaryHoursType: TAKEOUT
+    nextCloseTime: '2025-05-04T04:00:00Z'
 phone: (619) 584-8888
 price_level: null
 price_range: $20 &ndash; $30
 rating: '4.5'
-rating_count: 0
+rating_count: 194
 website: https://kawaiisushi.restaurant/?utm_source=google
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Kawaii Sushi in La Mesa, CA$$$Kawaii Sushi in La Mesa, CA, stands out
+  as a welcoming spot for enjoying fresh Japanese-inspired cuisine, blending
+  casual vibes with a variety of flavorful options that cater to sushi
+  enthusiasts. This eatery offers an array of dishes like nigiri and bento
+  boxes, complemented by refreshing boba smoothies, making it a go-to choice for
+  those seeking sushi restaurants near me. With its accessible features and
+  convenient hours, including lunch specials and evening service, it provides a
+  relaxed atmosphere perfect for casual meals or quick takeout. The menu
+  highlights quality ingredients and affordable pricing, ensuring a satisfying
+  experience for anyone exploring top-rated sushi in the area. Whether you're in
+  the mood for a light bite or a full meal, this spot delivers on taste and
+  convenience without overwhelming the senses.
+generative_summary: >-
+  Discover Kawaii Sushi in La Mesa, CA$$$Kawaii Sushi in La Mesa, CA, stands out
+  as a welcoming spot for enjoying fresh Japanese-inspired cuisine, blending
+  casual vibes with a variety of flavorful options that cater to sushi
+  enthusiasts. This eatery offers an array of dishes like nigiri and bento
+  boxes, complemented by refreshing boba smoothies, making it a go-to choice for
+  those seeking sushi restaurants near me. With its accessible features and
+  convenient hours, including lunch specials and evening service, it provides a
+  relaxed atmosphere perfect for casual meals or quick takeout. The menu
+  highlights quality ingredients and affordable pricing, ensuring a satisfying
+  experience for anyone exploring top-rated sushi in the area. Whether you're in
+  the mood for a light bite or a full meal, this spot delivers on taste and
+  convenience without overwhelming the senses.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJx-qOq8ZV2YARY7Rr7dDp3Bw/reviews/ChZDSUhNMG9nS0VJQ0FnTURncDdEUFFnEAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        The food is great. My family comes here a lot. It’s very family
+        friendly. Amazing service. You have to try their boba smoothies and they
+        have a very affordable lunch special. We would definitely recommend you
+        try this place out!
+      languageCode: en
+    originalText:
+      text: >-
+        The food is great. My family comes here a lot. It’s very family
+        friendly. Amazing service. You have to try their boba smoothies and they
+        have a very affordable lunch special. We would definitely recommend you
+        try this place out!
+      languageCode: en
+    authorAttribution:
+      displayName: Eli ER
+      uri: https://www.google.com/maps/contrib/104639588054812679768/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUUiZ27Lm7fz1QpI4gZfnF8yaAzn8-IACg1miLFULqJTiUpMDw=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-02-28T01:51:39.702363Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURncDdEUFFnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURncDdEUFFnEAE!2m1!1s0x80d955c6ab8eeac7:0x1cdce9d0ed6bb463
+  - name: >-
+      places/ChIJx-qOq8ZV2YARY7Rr7dDp3Bw/reviews/ChZDSUhNMG9nS0VJQ0FnSURqdEk2VkhBEAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        We work down the street at Bob Stall and we have been waiting for this
+        restaurant to open for weeks. I have had the lunch special twice
+        already, and it's amazing. The service is wonderful, everyone is so
+        kind. I have had the honeydew and kiwi smoothie and both were great.
+        10/10, highly recommended!
+      languageCode: en
+    originalText:
+      text: >-
+        We work down the street at Bob Stall and we have been waiting for this
+        restaurant to open for weeks. I have had the lunch special twice
+        already, and it's amazing. The service is wonderful, everyone is so
+        kind. I have had the honeydew and kiwi smoothie and both were great.
+        10/10, highly recommended!
+      languageCode: en
+    authorAttribution:
+      displayName: Rebecca Coates-Lapidario
+      uri: https://www.google.com/maps/contrib/112816089304701186862/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXjxQ_-mYIsgHgi7aw7MthDcilvO4LtrrAL1eQwYUw4BP6SwGaR5Q=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-04-30T01:01:52.929235Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURqdEk2VkhBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURqdEk2VkhBEAE!2m1!1s0x80d955c6ab8eeac7:0x1cdce9d0ed6bb463
+  - name: >-
+      places/ChIJx-qOq8ZV2YARY7Rr7dDp3Bw/reviews/ChZDSUhNMG9nS0VJQ0FnSUNMcHU3NlBBEAE
+    relativePublishTimeDescription: 10 months ago
+    rating: 5
+    text:
+      text: >-
+        The sushi and noodles were absolutely delicious, super fresh and very
+        tasty. They had a variety of dishes and drinks that were all so good.
+        Amazing boba and beverages. The restaurant was super cute as well. The
+        owners of the restaurant were incredibly kind and put in so much effort
+        to make sure we had a good time. I absolutely loved it and it’s my new
+        favorite sushi restaurant!
+      languageCode: en
+    originalText:
+      text: >-
+        The sushi and noodles were absolutely delicious, super fresh and very
+        tasty. They had a variety of dishes and drinks that were all so good.
+        Amazing boba and beverages. The restaurant was super cute as well. The
+        owners of the restaurant were incredibly kind and put in so much effort
+        to make sure we had a good time. I absolutely loved it and it’s my new
+        favorite sushi restaurant!
+      languageCode: en
+    authorAttribution:
+      displayName: Aubrey Gaona
+      uri: https://www.google.com/maps/contrib/115384965301773722579/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVsyRMzhrYD0y1xfRKctjjsEKKRDvcopayVEi7jtceW3fjoyPiR=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-06-18T17:17:32.790209Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNMcHU3NlBBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNMcHU3NlBBEAE!2m1!1s0x80d955c6ab8eeac7:0x1cdce9d0ed6bb463
+  - name: >-
+      places/ChIJx-qOq8ZV2YARY7Rr7dDp3Bw/reviews/ChdDSUhNMG9nS0VJQ0FnSUNUa29TUTRnRRAB
+    relativePublishTimeDescription: 11 months ago
+    rating: 4
+    text:
+      text: >-
+        The sushi was good. The Thai tea was really good but pricey, it was
+        $6.50. Be aware that there are different prices for dine in and take
+        out. We first sat down and decided to get it to go and we were charged
+        the dine in price. Even though we took it home to eat.
+      languageCode: en
+    originalText:
+      text: >-
+        The sushi was good. The Thai tea was really good but pricey, it was
+        $6.50. Be aware that there are different prices for dine in and take
+        out. We first sat down and decided to get it to go and we were charged
+        the dine in price. Even though we took it home to eat.
+      languageCode: en
+    authorAttribution:
+      displayName: Sydney Nitzel
+      uri: https://www.google.com/maps/contrib/101055717228200451462/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjU4fhHcBvwfA5bnyWVivyRN9zLpdY7hBSkmd_gRQTv0gOlpdOZy5Q=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2024-05-12T19:25:10.651873Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNUa29TUTRnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNUa29TUTRnRRAB!2m1!1s0x80d955c6ab8eeac7:0x1cdce9d0ed6bb463
+  - name: >-
+      places/ChIJx-qOq8ZV2YARY7Rr7dDp3Bw/reviews/ChZDSUhNMG9nS0VJQ0FnSUNvNXV2RGJBEAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        Kawaii is an outstanding sushi restaurant with a clean, welcoming
+        atmosphere and top-notch service. The prices are affordable, making it a
+        great spot for quality sushi without overspending. The food is fresh and
+        delicious—my favorites are the Crunchy Roll and Triple Fish Roll, both
+        packed with flavor and beautifully prepared. The miso soup is also a
+        must-try, warm and comforting with just the right balance of flavors.
+
+
+        One of the highlights of my visit was the excellent service from
+        Jasmine. She was incredibly friendly, professional, and attentive,
+        making sure everything was perfect throughout the meal. Her warm
+        attitude and knowledge of the menu made the experience even better. If
+        you’re looking for a great sushi spot with delicious food and
+        exceptional service, Kawaii is the place to go!
+      languageCode: en
+    originalText:
+      text: >-
+        Kawaii is an outstanding sushi restaurant with a clean, welcoming
+        atmosphere and top-notch service. The prices are affordable, making it a
+        great spot for quality sushi without overspending. The food is fresh and
+        delicious—my favorites are the Crunchy Roll and Triple Fish Roll, both
+        packed with flavor and beautifully prepared. The miso soup is also a
+        must-try, warm and comforting with just the right balance of flavors.
+
+
+        One of the highlights of my visit was the excellent service from
+        Jasmine. She was incredibly friendly, professional, and attentive,
+        making sure everything was perfect throughout the meal. Her warm
+        attitude and knowledge of the menu made the experience even better. If
+        you’re looking for a great sushi spot with delicious food and
+        exceptional service, Kawaii is the place to go!
+      languageCode: en
+    authorAttribution:
+      displayName: Anh Nguyen
+      uri: https://www.google.com/maps/contrib/102992034010703671153/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIYN7Oa77rKC1pwmVpyn5M91zZNGflhE9PIDARke-W_NmpU=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-02-01T02:27:14.162661Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNvNXV2RGJBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNvNXV2RGJBEAE!2m1!1s0x80d955c6ab8eeac7:0x1cdce9d0ed6bb463
+review_summary: >-
+  What Customers Are Saying$$$Folks rave about the tasty sushi and fresh flavors
+  at this spot, often highlighting the variety of rolls and drinks that make
+  every visit feel worthwhile. Many appreciate the friendly service and
+  family-friendly vibe, which adds to the overall enjoyable dining experience
+  without any major complaints. Reviewers frequently mention the great value of
+  lunch specials and boba options, noting how they enhance a laid-back meal.
+  While some point out that certain drinks might feel a bit pricey, the
+  consensus leans toward it being a solid pick for quality food that doesn't
+  break the bank. If you're hunting for reliable sushi places near me, this
+  location seems to hit the mark with its consistent positives and welcoming
+  feel.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
+curbside_pickup: false
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
 good_for_sports: null
-live_music: null
+live_music: false
 menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
 serves_cocktails: null
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

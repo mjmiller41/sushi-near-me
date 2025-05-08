@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Naree Kitchen Thai & Sushi"
+title: Naree Kitchen Thai & Sushi
 permalink: /kansas/kansas-city/naree-kitchen-thai-sushi.html
 stateAbbr: KS
 stateName: Kansas
 cityName: Kansas City
 seo:
-  name: "Naree Kitchen Thai & Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.nareekitchen.com/
-description: "Naree Kitchen Thai & Sushi serves delicious sushi in Kansas City, Kansas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJnfPj7RyNwIcRZqGNChvNvFs
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x87c08d1cede3f39d:0x5bbccd1b0a8da166!10e5
 primary_type: Thai Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:00 PM'
     - 'Saturday: 11:00 AM – 9:00 PM'
     - 'Sunday: 11:00 AM – 9:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 9:00 PM'
-    - 'Saturday: 11:00 AM – 9:00 PM'
-    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +238,45 @@ phone: (913) 766-1202
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.7'
-rating_count: 0
+rating_count: 768
 website: http://www.nareekitchen.com/
+description: >-
+  Discover Naree Kitchen in Kansas City$$$Naree Kitchen Thai & Sushi in Kansas
+  City, KS, offers a relaxed dining experience blending fresh sushi options with
+  authentic Thai flavors, making it a go-to spot for flavorful meals throughout
+  the day. This welcoming restaurant features a variety of sushi rolls and Thai
+  staples, served in a casual atmosphere that's perfect for lunch or dinner
+  outings. Accessibility is a key highlight, with features like
+  wheelchair-accessible parking and seating ensuring everyone can enjoy the
+  vibrant menu. Operating hours are convenient, open most days from 11 AM to 9
+  PM, allowing visitors to savor generous portions at moderate prices. Whether
+  you're seeking top-rated sushi or comforting Thai dishes nearby, this spot
+  delivers a satisfying blend of tastes in a peaceful setting.
+generative_summary: >-
+  Discover Naree Kitchen in Kansas City$$$Naree Kitchen Thai & Sushi in Kansas
+  City, KS, offers a relaxed dining experience blending fresh sushi options with
+  authentic Thai flavors, making it a go-to spot for flavorful meals throughout
+  the day. This welcoming restaurant features a variety of sushi rolls and Thai
+  staples, served in a casual atmosphere that's perfect for lunch or dinner
+  outings. Accessibility is a key highlight, with features like
+  wheelchair-accessible parking and seating ensuring everyone can enjoy the
+  vibrant menu. Operating hours are convenient, open most days from 11 AM to 9
+  PM, allowing visitors to savor generous portions at moderate prices. Whether
+  you're seeking top-rated sushi or comforting Thai dishes nearby, this spot
+  delivers a satisfying blend of tastes in a peaceful setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Recent Feedback$$$Folks rave about the tasty pho and sushi at
+  this Thai eatery, noting how the flavors really hit the spot without breaking
+  the bank. Many appreciate the hearty servings that leave you feeling full and
+  happy, along with the fair pricing that makes it easy to return for more. The
+  staff comes across as super friendly and attentive, always ready to help with
+  recommendations or questions. Overall, the calm vibe adds to the enjoyable
+  experience, creating a welcoming space for casual meals. If you're hunting for
+  solid sushi places nearby, this one stands out for its reliable quality and
+  positive vibes that keep diners coming back.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +302,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

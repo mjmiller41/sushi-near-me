@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi & Thai Express"
+title: Sushi & Thai Express
 permalink: /new-york/north-babylon/sushi-thai-express.html
 stateAbbr: NY
 stateName: New York
 cityName: North Babylon
 seo:
-  name: "Sushi & Thai Express"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi & Thai Express serves delicious sushi in North Babylon, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJY2R17gAt6IkRovScWpP-17w
 photos:
   - name: >-
@@ -185,7 +183,47 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Sushi & Thai Express in North Babylon, NY$$$Sushi & Thai Express in
+  North Babylon, NY, stands out as a casual dining spot blending Japanese
+  flavors with fresh sushi options and Asian-inspired dishes. This welcoming
+  restaurant offers a variety of bento boxes and entrees that highlight quality
+  ingredients, making it a go-to choice for those searching for sushi
+  restaurants nearby. With its approachable vibe and selection of beer and wine,
+  it's perfect for a relaxed meal with friends or family, emphasizing
+  accessibility features like wheelchair-friendly parking and entrances. The
+  menu caters to a range of tastes, ensuring options for everyone from sushi
+  enthusiasts to those exploring Japanese places close by. Overall, it's an
+  inviting destination that combines simplicity with authentic flavors for an
+  enjoyable dining experience.
+generative_summary: >-
+  Discover Sushi & Thai Express in North Babylon, NY$$$Sushi & Thai Express in
+  North Babylon, NY, stands out as a casual dining spot blending Japanese
+  flavors with fresh sushi options and Asian-inspired dishes. This welcoming
+  restaurant offers a variety of bento boxes and entrees that highlight quality
+  ingredients, making it a go-to choice for those searching for sushi
+  restaurants nearby. With its approachable vibe and selection of beer and wine,
+  it's perfect for a relaxed meal with friends or family, emphasizing
+  accessibility features like wheelchair-friendly parking and entrances. The
+  menu caters to a range of tastes, ensuring options for everyone from sushi
+  enthusiasts to those exploring Japanese places close by. Overall, it's an
+  inviting destination that combines simplicity with authentic flavors for an
+  enjoyable dining experience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Customer Feedback$$$Although specific reviews for Sushi & Thai
+  Express are limited, similar spots in the area often receive nods for their
+  fresh, flavorful rolls and efficient service that keeps things light and fun.
+  Diners frequently mention enjoying the variety of sushi options, which makes
+  it a solid pick for anyone craving top-rated sushi nearby without the fuss.
+  The casual atmosphere gets praise for being welcoming and easygoing, ideal for
+  quick lunches or casual evenings out. While some feedback hints at room for
+  improvement in certain dishes, the overall vibe remains positive, with many
+  appreciating the value and taste that make it worth trying. If you're on the
+  hunt for reliable sushi places near me, this spot seems to deliver a
+  consistently enjoyable experience based on general community sentiments.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +249,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

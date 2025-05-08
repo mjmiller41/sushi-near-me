@@ -5,4 +5,5 @@ permalink: /arkansas/little-rock/
 stateAbbr: AR
 stateName: Arkansas
 cityName: Little Rock
+
 ---

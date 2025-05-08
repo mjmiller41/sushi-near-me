@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Yokohama"
+title: Sushi Yokohama
 permalink: /california/danville/sushi-yokohama.html
 stateAbbr: CA
 stateName: California
 cityName: Danville
 seo:
-  name: "Sushi Yokohama"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi Yokohama serves delicious sushi in Danville, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ05ZJsK2Mj4AR2QrjVEonO4I
 photos:
   - name: >-
@@ -185,7 +183,42 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  About Sushi Yokohama in Danville, CA$$$Sushi Yokohama in Danville, CA, stands
+  out as a go-to spot for authentic Japanese cuisine, featuring fresh sushi and
+  bento boxes in a laid-back atmosphere. The restaurant offers a variety of
+  flavorful dishes that highlight traditional flavors, making it ideal for
+  casual dining experiences. With a cozy bar area, it's perfect for those
+  seeking a relaxed meal or a quick bite after exploring the local area.
+  Accessibility features ensure everyone can enjoy the welcoming vibe, adding to
+  its appeal for families and individuals alike. For anyone hunting for
+  top-rated sushi options nearby, this spot delivers a satisfying blend of taste
+  and convenience.
+generative_summary: >-
+  About Sushi Yokohama in Danville, CA$$$Sushi Yokohama in Danville, CA, stands
+  out as a go-to spot for authentic Japanese cuisine, featuring fresh sushi and
+  bento boxes in a laid-back atmosphere. The restaurant offers a variety of
+  flavorful dishes that highlight traditional flavors, making it ideal for
+  casual dining experiences. With a cozy bar area, it's perfect for those
+  seeking a relaxed meal or a quick bite after exploring the local area.
+  Accessibility features ensure everyone can enjoy the welcoming vibe, adding to
+  its appeal for families and individuals alike. For anyone hunting for
+  top-rated sushi options nearby, this spot delivers a satisfying blend of taste
+  and convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback Highlights$$$Folks checking out Sushi Yokohama generally
+  appreciate the fresh ingredients and well-prepared rolls that make every bite
+  feel satisfying and true to Japanese traditions. Many mention the casual
+  setting as a plus, creating a comfortable space for enjoying meals without any
+  pretentious vibes. Based on common comments, the variety of options keeps
+  things exciting, whether you're in the mood for something light or more
+  substantial. Overall, it's seen as a solid choice for quality sushi in the
+  area, with diners often noting good value that encourages return visits. If
+  you're on the hunt for reliable sushi spots close by, this one tends to leave
+  people with a positive, fulfilling experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +244,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

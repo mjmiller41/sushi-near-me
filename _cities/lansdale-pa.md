@@ -5,4 +5,5 @@ permalink: /pennsylvania/lansdale/
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Lansdale
+
 ---

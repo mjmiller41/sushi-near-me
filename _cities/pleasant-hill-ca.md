@@ -5,4 +5,5 @@ permalink: /california/pleasant-hill/
 stateAbbr: CA
 stateName: California
 cityName: Pleasant Hill
+
 ---

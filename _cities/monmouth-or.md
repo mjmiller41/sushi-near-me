@@ -5,4 +5,5 @@ permalink: /oregon/monmouth/
 stateAbbr: OR
 stateName: Oregon
 cityName: Monmouth
+
 ---

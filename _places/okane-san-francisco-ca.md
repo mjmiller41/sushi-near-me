@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Okane"
+title: Okane
 permalink: /california/san-francisco/okane.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
 seo:
-  name: "Okane"
-  type: Restaurant
+  type: restaurant
   links: http://www.okanesf.com/
-description: "Cafe for refined Japanese comfort food with shareable dishes, handmade rolls & other Asian staples. Okane serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJjaWT5yx-j4AR0S6cwdgnD4Q
 photos:
   - name: >-
@@ -184,6 +182,29 @@ price_range: $50 &ndash; $100
 rating: '4.3'
 rating_count: 0
 website: http://www.okanesf.com/
+description: >-
+  Discover Okane in San Francisco$$$Okane in San Francisco, CA, stands out as a
+  trendy and cozy sushi restaurant that blends classic Japanese flavors with a
+  welcoming atmosphere. This spot delights visitors with fresh nigiri, sashimi,
+  and shareable dishes that capture the essence of refined Japanese comfort
+  food, making it a go-to for those seeking authentic yet approachable dining.
+  Accessibility features like wheelchair-friendly entrances and seating add to
+  its appeal, ensuring everyone can enjoy the experience. The menu highlights
+  handmade rolls and other Asian staples, perfect for casual gatherings or
+  intimate meals. Located in the vibrant Showplace Square neighborhood, it's an
+  ideal choice for anyone exploring top sushi restaurants near me.
+generative_summary: >-
+  Discover Okane in San Francisco$$$Okane in San Francisco, CA, stands out as a
+  trendy and cozy sushi restaurant that blends classic Japanese flavors with a
+  welcoming atmosphere. This spot delights visitors with fresh nigiri, sashimi,
+  and shareable dishes that capture the essence of refined Japanese comfort
+  food, making it a go-to for those seeking authentic yet approachable dining.
+  Accessibility features like wheelchair-friendly entrances and seating add to
+  its appeal, ensuring everyone can enjoy the experience. The menu highlights
+  handmade rolls and other Asian staples, perfect for casual gatherings or
+  intimate meals. Located in the vibrant Showplace Square neighborhood, it's an
+  ideal choice for anyone exploring top sushi restaurants near me.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJjaWT5yx-j4AR0S6cwdgnD4Q/reviews/ChdDSUhNMG9nS0VJQ0FnSUNMaDRxZGp3RRAB
@@ -545,6 +566,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUR3NmZfNUp3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUR3NmZfNUp3EAE!2m1!1s0x808f7e2ce793a58d:0x840f27d8c19c2ed1
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this San Francisco sushi spot often
+  praise the fresh and flavorful fish that make every bite memorable, turning it
+  into a favorite for sushi enthusiasts. Many highlight the welcoming vibe and
+  attentive service that enhance the overall dining experience, with standout
+  dishes like nigiri and udon leaving a strong impression. While some note minor
+  issues like occasional inconsistencies with certain items or table surfaces,
+  the general consensus leans positive, emphasizing its value as a relaxed yet
+  high-quality option. Folks appreciate the variety of shareable plates and
+  affordable fine-dining feel, making it a solid pick for groups or solo diners
+  searching for the best sushi near me. Overall, it's a reliable choice that
+  keeps customers coming back for its authentic flavors and cozy setting.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeStreetParking: true
   paidStreetParking: true
@@ -576,8 +610,8 @@ serves_lunch: true
 serves_vegetarian_food: false
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Cafe for refined Japanese comfort food with shareable dishes, handmade rolls &
   other Asian staples.
 

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Oyshi Sushi"
+title: Oyshi Sushi
 permalink: /nevada/las-vegas/oyshi-sushi.html
 stateAbbr: NV
 stateName: Nevada
 cityName: Las Vegas
 seo:
-  name: "Oyshi Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Oyshi Sushi serves delicious sushi in Las Vegas, Nevada. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ1b1hq8PAyIAR1z3MZmrIoQk
 photos:
   - name: >-
@@ -185,7 +183,40 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Oyshi Sushi in Las Vegas$$$Oyshi Sushi in Las Vegas, NV, provides a
+  welcoming spot for sushi enthusiasts seeking a casual vibe and an array of
+  fresh Japanese dishes. This eatery stands out with its all-you-can-eat menu
+  featuring a variety of rolls and nigiri, complemented by a selection of
+  beverages like beer and sake to enhance the meal. Accessibility features make
+  it easy for everyone to enjoy the space, including wheelchair-friendly parking
+  and seating that add to the inclusive atmosphere. The spot's relaxed setting
+  is perfect for those exploring top sushi options in the city, making it a
+  go-to choice for anyone craving authentic flavors without the fuss.
+generative_summary: >-
+  Discover Oyshi Sushi in Las Vegas$$$Oyshi Sushi in Las Vegas, NV, provides a
+  welcoming spot for sushi enthusiasts seeking a casual vibe and an array of
+  fresh Japanese dishes. This eatery stands out with its all-you-can-eat menu
+  featuring a variety of rolls and nigiri, complemented by a selection of
+  beverages like beer and sake to enhance the meal. Accessibility features make
+  it easy for everyone to enjoy the space, including wheelchair-friendly parking
+  and seating that add to the inclusive atmosphere. The spot's relaxed setting
+  is perfect for those exploring top sushi options in the city, making it a
+  go-to choice for anyone craving authentic flavors without the fuss.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Visitor Feedback on Oyshi Sushi$$$Folks who stop by this sushi spot often
+  highlight the fresh ingredients and generous portions that make every visit
+  worthwhile. Many appreciate the value of the all-you-can-eat deal, noting it
+  delivers a satisfying range of options for groups or solo diners looking for
+  variety. Comments frequently mention the welcoming service and cozy
+  environment that keep things light and enjoyable, even on busier nights.
+  Overall, it's clear that this place resonates with sushi lovers seeking
+  reliable quality nearby, though some suggest checking for peak times to avoid
+  waits. If you're hunting for solid Japanese fare in the area, it's definitely
+  worth a try for its consistent appeal.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +242,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

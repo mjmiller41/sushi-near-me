@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Zuki Hibachi Grill & Sushi (Zuki East)"
+title: Zuki Hibachi Grill & Sushi (Zuki East)
 permalink: /indiana/evansville/zuki-hibachi-grill-sushi-zuki-east.html
 stateAbbr: IN
 stateName: Indiana
 cityName: Evansville
 seo:
-  name: "Zuki Hibachi Grill & Sushi (Zuki East)"
-  type: Restaurant
-  links: null
-description: "Zuki Hibachi Grill & Sushi (Zuki East) serves delicious sushi in Evansville, Indiana. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.zukievv.com/
 place_id: ChIJW6-5iQYrbogRAj7jCx_sdzo
 photos:
   - name: >-
@@ -170,8 +168,113 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x886e2b0689b9af5b:0x3a77ec1f0be33e02!10e5
 primary_type: Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 2:00 PM, 4:00 – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 2:00 PM, 4:00 – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 2:00 PM, 4:00 – 9:00 PM'
+    - 'Thursday: 11:00 AM – 2:00 PM, 4:00 – 9:00 PM'
+    - 'Friday: 11:00 AM – 2:00 PM, 4:00 – 10:00 PM'
+    - 'Saturday: 11:00 AM – 10:00 PM'
+    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +282,48 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (812) 477-9854
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.2'
+rating_count: 1204
+website: https://www.zukievv.com/
+description: >-
+  Explore Zuki Hibachi Grill & Sushi in Evansville, Indiana$$$Zuki Hibachi Grill
+  & Sushi in Evansville, Indiana, offers a vibrant spot for enjoying fresh
+  Japanese-inspired dishes, blending sizzling hibachi grills with an array of
+  creative sushi rolls that cater to various tastes. The restaurant features an
+  inviting atmosphere with accessible seating and parking options, making it
+  easy for everyone to savor a meal without hassle. Diners can expect a menu
+  that highlights quality ingredients and flavorful combinations, perfect for
+  those seeking top-rated sushi experiences in a casual setting. With convenient
+  hours that extend into the evening, it's an ideal choice for lunch or dinner
+  outings, appealing to anyone exploring sushi restaurants nearby.
+generative_summary: >-
+  Explore Zuki Hibachi Grill & Sushi in Evansville, Indiana$$$Zuki Hibachi Grill
+  & Sushi in Evansville, Indiana, offers a vibrant spot for enjoying fresh
+  Japanese-inspired dishes, blending sizzling hibachi grills with an array of
+  creative sushi rolls that cater to various tastes. The restaurant features an
+  inviting atmosphere with accessible seating and parking options, making it
+  easy for everyone to savor a meal without hassle. Diners can expect a menu
+  that highlights quality ingredients and flavorful combinations, perfect for
+  those seeking top-rated sushi experiences in a casual setting. With convenient
+  hours that extend into the evening, it's an ideal choice for lunch or dinner
+  outings, appealing to anyone exploring sushi restaurants nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Customer Feedback$$$Visitors to this popular sushi spot often
+  praise the tasty rolls and flavorful hibachi dishes, noting how they hit the
+  spot for anyone craving Japanese flavors close to home. Many appreciate the
+  friendly service and efficient vibe, which make for a relaxed dining
+  experience without any major complaints. Feedback frequently highlights the
+  value for the price, with meals that feel satisfying and well-prepared,
+  encouraging repeat visits for sushi lovers in the area. Overall, the consensus
+  leans positive, with folks enjoying the energetic atmosphere that suits groups
+  or solo diners alike, though some mention wait times during peak hours as a
+  minor drawback.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +349,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

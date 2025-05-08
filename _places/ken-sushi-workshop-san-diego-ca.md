@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ken Sushi Workshop"
+title: Ken Sushi Workshop
 permalink: /california/san-diego/ken-sushi-workshop.html
 stateAbbr: CA
 stateName: California
 cityName: San Diego
 seo:
-  name: "Ken Sushi Workshop"
-  type: Restaurant
+  type: restaurant
   links: https://kensushiworkshop.shop/
-description: "Japanese fusion fare like clever sushi rolls are served in a sleek, compact space with bar seats. Ken Sushi Workshop serves delicious sushi in San Diego, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJtRPOWEcG3IAROZN1_3t-Jd8
 photos:
   - name: >-
@@ -185,6 +183,37 @@ price_range: $100 &ndash; & up
 rating: '4.7'
 rating_count: 0
 website: https://kensushiworkshop.shop/
+description: >-
+  Discover Ken Sushi Workshop in San Diego, CA$$$Nestled in the vibrant city of
+  San Diego, CA, Ken Sushi Workshop stands out as a premier destination for
+  fresh Japanese cuisine, blending traditional flavors with innovative twists in
+  a sleek and inviting setting. This upscale spot offers a diverse array of
+  sushi options alongside other Japanese favorites, making it a go-to choice for
+  those seeking authentic yet creative dining experiences in the area. Patrons
+  can enjoy a selection of sake, beer, and wine to complement their meals, all
+  served in a compact space that emphasizes quality and attention to detail. The
+  restaurant's accessibility features and outdoor seating add to its appeal,
+  providing a comfortable environment for enjoying top-rated sushi dishes that
+  highlight fresh ingredients and thoughtful presentations. Whether you're
+  exploring sushi restaurants near you or looking for a memorable meal in Carmel
+  Valley, this location delivers an elevated dining experience that captures the
+  essence of Japanese fare.
+generative_summary: >-
+  Discover Ken Sushi Workshop in San Diego, CA$$$Nestled in the vibrant city of
+  San Diego, CA, Ken Sushi Workshop stands out as a premier destination for
+  fresh Japanese cuisine, blending traditional flavors with innovative twists in
+  a sleek and inviting setting. This upscale spot offers a diverse array of
+  sushi options alongside other Japanese favorites, making it a go-to choice for
+  those seeking authentic yet creative dining experiences in the area. Patrons
+  can enjoy a selection of sake, beer, and wine to complement their meals, all
+  served in a compact space that emphasizes quality and attention to detail. The
+  restaurant's accessibility features and outdoor seating add to its appeal,
+  providing a comfortable environment for enjoying top-rated sushi dishes that
+  highlight fresh ingredients and thoughtful presentations. Whether you're
+  exploring sushi restaurants near you or looking for a memorable meal in Carmel
+  Valley, this location delivers an elevated dining experience that captures the
+  essence of Japanese fare.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJtRPOWEcG3IAROZN1_3t-Jd8/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3NF9fUU5REAE
@@ -352,6 +381,21 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURnZ0lYZVZBEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURnZ0lYZVZBEAE!2m1!1s0x80dc064758ce13b5:0xdf257e7bff759339
+review_summary: >-
+  What Customers Love About This Sushi Spot$$$Visitors frequently praise the
+  exceptional freshness and quality of the sushi rolls and sashimi, noting how
+  the flavors make every bite feel truly special and satisfying. Many highlight
+  the friendly and attentive service that creates a welcoming vibe, helping to
+  make the overall experience enjoyable and relaxed, especially in the cozy
+  outdoor areas. Folks often mention the great atmosphere and variety of drinks
+  like sake, which pair perfectly with the inventive dishes and add to the fun
+  of dining out. While the prices reflect the high-end offerings, reviewers
+  appreciate the value in the delicious, well-prepared meals that leave them
+  feeling delighted and eager to return. Overall, this spot earns high marks as
+  one of the best sushi options nearby, with consistent feedback emphasizing its
+  tasty selections and positive energy that keeps customers coming back for
+  more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -383,8 +427,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Japanese fusion fare like clever sushi rolls are served in a sleek, compact
   space with bar seats.
 

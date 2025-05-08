@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Grey Whale Poke Bowl"
+title: Grey Whale Poke Bowl
 permalink: /nebraska/lincoln/grey-whale-poke-bowl.html
 stateAbbr: NE
 stateName: Nebraska
 cityName: Lincoln
 seo:
-  name: "Grey Whale Poke Bowl"
-  type: Restaurant
-  links: null
-description: "Grey Whale Poke Bowl serves delicious sushi in Lincoln, Nebraska. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.greywhalepokebowl.com/
 place_id: ChIJYa1NW-O-locRn0s9Vev1Uyk
 photos:
   - name: >-
@@ -170,22 +168,186 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8796bee35b4dad61:0x2953f5eb553d4b9f!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 10
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 10
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 10
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 10
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 10
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 10
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 10:30 AM – 9:00 PM'
+    - 'Tuesday: 10:30 AM – 9:00 PM'
+    - 'Wednesday: 10:30 AM – 9:00 PM'
+    - 'Thursday: 10:30 AM – 9:00 PM'
+    - 'Friday: 10:30 AM – 9:30 PM'
+    - 'Saturday: 10:30 AM – 9:30 PM'
+    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 11
+          minute: 0
+        close:
+          day: 0
+          hour: 21
+          minute: 0
+      - open:
+          day: 1
+          hour: 11
+          minute: 0
+        close:
+          day: 1
+          hour: 21
+          minute: 0
+      - open:
+          day: 2
+          hour: 11
+          minute: 0
+        close:
+          day: 2
+          hour: 21
+          minute: 0
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 21
+          minute: 0
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 0
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 21
+          minute: 30
+      - open:
+          day: 6
+          hour: 11
+          minute: 0
+        close:
+          day: 6
+          hour: 21
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 11:00 AM – 9:00 PM'
+      - 'Tuesday: 11:00 AM – 9:00 PM'
+      - 'Wednesday: 11:00 AM – 9:00 PM'
+      - 'Thursday: 11:00 AM – 9:00 PM'
+      - 'Friday: 11:00 AM – 9:30 PM'
+      - 'Saturday: 11:00 AM – 9:30 PM'
+      - 'Sunday: 11:00 AM – 9:00 PM'
+    secondaryHoursType: DELIVERY
+    nextCloseTime: '2025-05-04T02:30:00Z'
+phone: (402) 480-6868
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.3'
+rating_count: 360
+website: https://www.greywhalepokebowl.com/
+description: >-
+  Discover Grey Whale Poke Bowl in Lincoln, NE$$$Grey Whale Poke Bowl in
+  Lincoln, NE, stands out as a welcoming Japanese-inspired eatery focused on
+  fresh, customizable poke bowls and refreshing bubble tea options. Nestled in
+  the heart of downtown, this spot emphasizes locally sourced ingredients that
+  bring out bold flavors in every dish, creating a casual and accessible dining
+  experience. Patrons enjoy the convenience of wheelchair-friendly features and
+  a laid-back atmosphere perfect for quick meals or relaxed gatherings. With
+  extended hours throughout the week, it's an ideal choice for those seeking
+  tasty, health-conscious Japanese-style cuisine near you, blending simplicity
+  with satisfying tastes that keep visitors coming back.
+generative_summary: >-
+  Discover Grey Whale Poke Bowl in Lincoln, NE$$$Grey Whale Poke Bowl in
+  Lincoln, NE, stands out as a welcoming Japanese-inspired eatery focused on
+  fresh, customizable poke bowls and refreshing bubble tea options. Nestled in
+  the heart of downtown, this spot emphasizes locally sourced ingredients that
+  bring out bold flavors in every dish, creating a casual and accessible dining
+  experience. Patrons enjoy the convenience of wheelchair-friendly features and
+  a laid-back atmosphere perfect for quick meals or relaxed gatherings. With
+  extended hours throughout the week, it's an ideal choice for those seeking
+  tasty, health-conscious Japanese-style cuisine near you, blending simplicity
+  with satisfying tastes that keep visitors coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this lively poke bowl spot often
+  highlight the fresh ingredients and flavorful combinations that make meals
+  feel both satisfying and light, earning it solid praise from the community.
+  Many appreciate the generous portions and variety of options, which add up to
+  a consistently enjoyable experience for groups or solo diners looking for a
+  quick bite. While some note that wait times can vary during peak hours, the
+  overall vibe remains positive with folks loving the attentive service and
+  affordable prices. It's frequently recommended as a top pick for anyone
+  craving Japanese-inspired dishes nearby, with the high rating reflecting its
+  reliability as a go-to for delicious, everyday eats. Overall, the feedback
+  paints a picture of a welcoming place that delivers on taste and convenience
+  without overcomplicating things.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +373,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

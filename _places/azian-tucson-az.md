@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Azian"
+title: Azian
 permalink: /arizona/tucson/azian.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Tucson
 seo:
-  name: "Azian"
-  type: Restaurant
+  type: restaurant
   links: http://www.aziansushi.com/
-description: "Azian serves delicious sushi in Tucson, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJZ-UC8SVw1oYRt7YD0Cq70G8
 photos:
   - name: >-
@@ -170,7 +168,49 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x86d67025f102e567:0x6fd0bb2ad003b6b7!10e5
 primary_type: Asian Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: Closed'
     - 'Wednesday: 11:30 AM – 10:00 PM'
@@ -178,14 +218,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 11:00 PM'
     - 'Saturday: 11:30 AM – 11:00 PM'
     - 'Sunday: 12:00 – 10:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: Closed'
-    - 'Wednesday: 11:30 AM – 10:00 PM'
-    - 'Thursday: 11:30 AM – 10:00 PM'
-    - 'Friday: 11:30 AM – 11:00 PM'
-    - 'Saturday: 11:30 AM – 11:00 PM'
-    - 'Sunday: 12:00 – 10:00 PM'
+  nextCloseTime: '2025-05-04T06:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +230,264 @@ phone: (520) 777-8311
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '3.6'
-rating_count: 0
+rating_count: 1318
 website: http://www.aziansushi.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Azian in Tucson, AZ$$$Azian in Tucson, AZ, stands out as a casual
+  eatery specializing in fresh sushi and a range of Asian dishes, perfect for
+  those seeking flavorful options in a welcoming setting. The spot offers a
+  variety of specialties that highlight bold flavors and quality ingredients,
+  making it a go-to for sushi enthusiasts exploring local dining scenes. With
+  accessible features like wheelchair-friendly entrances and seating, it ensures
+  everyone can enjoy the experience comfortably. Operating from late morning
+  into the evening several days a week, this restaurant provides a relaxed vibe
+  for both quick lunches and relaxed dinners, ideal for anyone searching for
+  top-rated sushi places nearby.
+generative_summary: >-
+  Discover Azian in Tucson, AZ$$$Azian in Tucson, AZ, stands out as a casual
+  eatery specializing in fresh sushi and a range of Asian dishes, perfect for
+  those seeking flavorful options in a welcoming setting. The spot offers a
+  variety of specialties that highlight bold flavors and quality ingredients,
+  making it a go-to for sushi enthusiasts exploring local dining scenes. With
+  accessible features like wheelchair-friendly entrances and seating, it ensures
+  everyone can enjoy the experience comfortably. Operating from late morning
+  into the evening several days a week, this restaurant provides a relaxed vibe
+  for both quick lunches and relaxed dinners, ideal for anyone searching for
+  top-rated sushi places nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJZ-UC8SVw1oYRt7YD0Cq70G8/reviews/ChZDSUhNMG9nS0VJQ0FnSURfbjdEMFlBEAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 4
+    text:
+      text: >-
+        I always leave happy with a box of leftovers. They give you a lot of
+        food for what you pay for. The teriyaki chicken I had was dry and
+        definitely overcooked. The beef bulgogi my friend had was cooked perfect
+        and tender. The sushi was pretty tasty and would recommend!
+      languageCode: en
+    originalText:
+      text: >-
+        I always leave happy with a box of leftovers. They give you a lot of
+        food for what you pay for. The teriyaki chicken I had was dry and
+        definitely overcooked. The beef bulgogi my friend had was cooked perfect
+        and tender. The sushi was pretty tasty and would recommend!
+      languageCode: en
+    authorAttribution:
+      displayName: Jing Lei
+      uri: https://www.google.com/maps/contrib/111670165061800637556/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWsGQHKuLUD0t8JTm8qzo3NE7FdtKzcJ5lrWivjjIt_MewVLUM=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-01-28T10:28:45.512448Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURfbjdEMFlBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURfbjdEMFlBEAE!2m1!1s0x86d67025f102e567:0x6fd0bb2ad003b6b7
+  - name: >-
+      places/ChIJZ-UC8SVw1oYRt7YD0Cq70G8/reviews/ChdDSUhNMG9nS0VJQ0FnTURvaS0zZ3BBRRAB
+    relativePublishTimeDescription: in the last week
+    rating: 4
+    text:
+      text: >-
+        For those who love sushi this is your place to enjoy a lunch on a
+        Saturday. For a new mom there are changing tables in the spacious clean
+        restrooms..
+      languageCode: en
+    originalText:
+      text: >-
+        For those who love sushi this is your place to enjoy a lunch on a
+        Saturday. For a new mom there are changing tables in the spacious clean
+        restrooms..
+      languageCode: en
+    authorAttribution:
+      displayName: Yvette Zazueta
+      uri: https://www.google.com/maps/contrib/109701341276792590937/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKFqT4RTDraLq4U86PBuzruA4E-YQ1-WHxlAPLtrRDfTilTzw=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-28T21:04:38.971769Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURvaS0zZ3BBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURvaS0zZ3BBRRAB!2m1!1s0x86d67025f102e567:0x6fd0bb2ad003b6b7
+  - name: >-
+      places/ChIJZ-UC8SVw1oYRt7YD0Cq70G8/reviews/ChdDSUhNMG9nS0VJQ0FnSUNIcmR6TW1BRRAB
+    relativePublishTimeDescription: 7 months ago
+    rating: 5
+    text:
+      text: >-
+        Awesome food, quick service, need I say more?
+
+
+        I love Asian food, especially sushi, so I decided to visit this place
+        for lunch as a celebration of a special event. I parked behind the
+        building in their lot, which is shared by other places including
+        Smashburger & Bruegger's Bagels.
+
+
+        I was seated promptly, and my booth was very clean with a metal table
+        that helps with wiping up any spills. I ordered Edamame & Gyoza for
+        appetizers, along with Pineapple Soju (be careful with that drink, it
+        taste like juice!). For entrees, I tried three specialty sushi rolls:
+        the Antonio, Wildcat, & Holy Moly Roll. Out of the three, it was really
+        hard to choose a favorite, but I suppose the Antonio roll was a good mix
+        of sweet & spicy whereas Wildcat is great for your sweet craving and
+        Holy Moly for spicy.
+
+
+        The server was very friendly and prompt with our orders, and the
+        environment was so inviting that I'd be more than happy to spend money
+        here again.
+      languageCode: en
+    originalText:
+      text: >-
+        Awesome food, quick service, need I say more?
+
+
+        I love Asian food, especially sushi, so I decided to visit this place
+        for lunch as a celebration of a special event. I parked behind the
+        building in their lot, which is shared by other places including
+        Smashburger & Bruegger's Bagels.
+
+
+        I was seated promptly, and my booth was very clean with a metal table
+        that helps with wiping up any spills. I ordered Edamame & Gyoza for
+        appetizers, along with Pineapple Soju (be careful with that drink, it
+        taste like juice!). For entrees, I tried three specialty sushi rolls:
+        the Antonio, Wildcat, & Holy Moly Roll. Out of the three, it was really
+        hard to choose a favorite, but I suppose the Antonio roll was a good mix
+        of sweet & spicy whereas Wildcat is great for your sweet craving and
+        Holy Moly for spicy.
+
+
+        The server was very friendly and prompt with our orders, and the
+        environment was so inviting that I'd be more than happy to spend money
+        here again.
+      languageCode: en
+    authorAttribution:
+      displayName: Jennie Ifanis
+      uri: https://www.google.com/maps/contrib/117034780587284038791/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUwVuI4ju6lZoj_V8IrOIMCk5hZA_7dfEq_VWY8XZrFNqKQUMMslQ=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-09-07T16:11:07.793038Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNIcmR6TW1BRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNIcmR6TW1BRRAB!2m1!1s0x86d67025f102e567:0x6fd0bb2ad003b6b7
+  - name: >-
+      places/ChIJZ-UC8SVw1oYRt7YD0Cq70G8/reviews/ChZDSUhNMG9nS0VJQ0FnSUNla29iZkpBEAE
+    relativePublishTimeDescription: 2 years ago
+    rating: 3
+    text:
+      text: >-
+        The sushi was great! The tempura batter was lighter than I'm used to but
+        it was very enjoyable. The problem that I had was that I asked for
+        avocado on the side (I'm allergic) and they said you get it on the rolls
+        or not at all. I thought that was disappointing but the server was able
+        to get us some on the side, I appreciated that. I have never had that
+        happen before. I think if they could be more flexible to their customers
+        the experience can improve.
+      languageCode: en
+    originalText:
+      text: >-
+        The sushi was great! The tempura batter was lighter than I'm used to but
+        it was very enjoyable. The problem that I had was that I asked for
+        avocado on the side (I'm allergic) and they said you get it on the rolls
+        or not at all. I thought that was disappointing but the server was able
+        to get us some on the side, I appreciated that. I have never had that
+        happen before. I think if they could be more flexible to their customers
+        the experience can improve.
+      languageCode: en
+    authorAttribution:
+      displayName: V Martini
+      uri: https://www.google.com/maps/contrib/114223402446929917635/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUIWzaCVePQ4UM9yNc0SQ9x0YUl6uvy6jBPp_P3I9FeEfLWcqfs=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2022-09-10T02:52:16.850850Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNla29iZkpBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNla29iZkpBEAE!2m1!1s0x86d67025f102e567:0x6fd0bb2ad003b6b7
+  - name: >-
+      places/ChIJZ-UC8SVw1oYRt7YD0Cq70G8/reviews/ChdDSUhNMG9nS0VJQ0FnSUNLa0pQNjB3RRAB
+    relativePublishTimeDescription: 4 years ago
+    rating: 3
+    text:
+      text: >-
+        The bathroom is so disgusting. For all the people and the 45 mins we
+        waited on a Wednesday night, you'd think they'd care more about the
+        restrooms.
+
+        It's a good thing I didn't come here for the restroom.
+
+        Food was yummy.
+      languageCode: en
+    originalText:
+      text: >-
+        The bathroom is so disgusting. For all the people and the 45 mins we
+        waited on a Wednesday night, you'd think they'd care more about the
+        restrooms.
+
+        It's a good thing I didn't come here for the restroom.
+
+        Food was yummy.
+      languageCode: en
+    authorAttribution:
+      displayName: Chrystal Steamy Story Teller
+      uri: https://www.google.com/maps/contrib/105044943417654453405/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUIQiEZPyYo26q8x14nqWeYP3UjoJbwHdXMhGubsz3h2XdVmTqd=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2021-03-25T04:18:04.105752Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNLa0pQNjB3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNLa0pQNjB3RRAB!2m1!1s0x86d67025f102e567:0x6fd0bb2ad003b6b7
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this Tucson sushi spot often rave
+  about the generous portions and tasty flavors that make meals feel worthwhile.
+  While some feedback notes occasional inconsistencies with certain dishes, like
+  overcooked items, the standout beef bulgogi and fresh rolls consistently win
+  praise for their perfect balance of sweet and spicy notes. The service stands
+  out as friendly and efficient, with many appreciating the clean environment
+  and family-friendly amenities like changing tables. Overall, it's a solid
+  choice for anyone craving reliable Asian cuisine, offering a mix of hits that
+  keep the atmosphere lively and inviting for groups or casual outings.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
 good_for_sports: null
-live_music: null
-menu_for_children: null
+live_music: false
+menu_for_children: true
 outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Bustling option for Korean entrees & tabletop-grilled BBQ, plus basic sushi
+  rolls & cocktails.
 
 ---

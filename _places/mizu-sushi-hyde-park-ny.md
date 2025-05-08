@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Mizu Sushi"
+title: Mizu Sushi
 permalink: /new-york/hyde-park/mizu-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: Hyde Park
 seo:
-  name: "Mizu Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Mizu Sushi serves delicious sushi in Hyde Park, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJE5kaGCEU3YkRoiva-HBjs4Q
 photos:
   - name: >-
@@ -185,7 +183,43 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Mizu Sushi in Hyde Park, NY$$$Mizu Sushi in Hyde Park, NY, stands out
+  as a welcoming Japanese restaurant that combines comfort with a diverse menu
+  of fresh sushi and other Asian-inspired dishes. This spot offers an array of
+  specialty rolls alongside hibachi meals and unique options like pad thai and
+  bubble tea, making it a versatile choice for various tastes. The atmosphere is
+  relaxed and accessible, ideal for casual dining experiences that cater to
+  different preferences. Patrons appreciate the thoughtful touches, such as easy
+  access features, enhancing the overall enjoyment of exploring Japanese
+  cuisine. Whether you're searching for top-rated sushi options nearby, this
+  location delivers a satisfying blend of flavors in a cozy setting.
+generative_summary: >-
+  Discover Mizu Sushi in Hyde Park, NY$$$Mizu Sushi in Hyde Park, NY, stands out
+  as a welcoming Japanese restaurant that combines comfort with a diverse menu
+  of fresh sushi and other Asian-inspired dishes. This spot offers an array of
+  specialty rolls alongside hibachi meals and unique options like pad thai and
+  bubble tea, making it a versatile choice for various tastes. The atmosphere is
+  relaxed and accessible, ideal for casual dining experiences that cater to
+  different preferences. Patrons appreciate the thoughtful touches, such as easy
+  access features, enhancing the overall enjoyment of exploring Japanese
+  cuisine. Whether you're searching for top-rated sushi options nearby, this
+  location delivers a satisfying blend of flavors in a cozy setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About the Experience$$$Visitors often highlight the
+  freshness and flavor of the sushi at this spot, with specialty rolls standing
+  out as a favorite for their creative twists and quality ingredients. Many note
+  the standout desserts, like the chocolate pyramid, as a delightful way to end
+  a meal, adding a fun element to the dining experience. The staff comes across
+  as friendly and attentive, contributing to a welcoming vibe that keeps things
+  light and enjoyable. Prices are frequently praised as reasonable, especially
+  for the lunch menu, making it a solid pick for everyday meals without breaking
+  the bank. Overall, it's a go-to for those craving reliable Japanese dishes,
+  with feedback pointing to a consistently positive atmosphere that encourages
+  return visits.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +245,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

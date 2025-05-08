@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sakura Sushi"
+title: Sakura Sushi
 permalink: /iowa/west-des-moines/sakura-sushi.html
 stateAbbr: IA
 stateName: Iowa
 cityName: West Des Moines
 seo:
-  name: "Sakura Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.sakurasushiwdm.com/
-description: "Japanese & Asian fusion dishes presented with decorative flair in a small storefront. Sakura Sushi serves delicious sushi in West Des Moines, Iowa. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJZfvwEc-f7ocRGaTIn13zIec
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 0
 website: http://www.sakurasushiwdm.com/
+description: >-
+  Discover Sakura Sushi in West Des Moines, IA$$$Nestled in West Des Moines, IA,
+  Sakura Sushi stands out as a welcoming spot for those seeking fresh
+  Japanese-inspired dishes in a relaxed setting. This sushi restaurant offers a
+  variety of creative rolls, bento boxes, and other Asian fusion options, all
+  presented with an eye for decorative detail that enhances the dining
+  experience. Patrons can enjoy accessible features like wheelchair-friendly
+  entrances and seating, making it easy for everyone to savor the flavors. The
+  laid-back atmosphere pairs perfectly with moderately priced meals, ideal for
+  anyone exploring top-rated sushi options in the area. Whether you're looking
+  for sushi restaurants nearby or a casual meal with friends, this spot delivers
+  a blend of authenticity and comfort that keeps locals coming back.
+generative_summary: >-
+  Discover Sakura Sushi in West Des Moines, IA$$$Nestled in West Des Moines, IA,
+  Sakura Sushi stands out as a welcoming spot for those seeking fresh
+  Japanese-inspired dishes in a relaxed setting. This sushi restaurant offers a
+  variety of creative rolls, bento boxes, and other Asian fusion options, all
+  presented with an eye for decorative detail that enhances the dining
+  experience. Patrons can enjoy accessible features like wheelchair-friendly
+  entrances and seating, making it easy for everyone to savor the flavors. The
+  laid-back atmosphere pairs perfectly with moderately priced meals, ideal for
+  anyone exploring top-rated sushi options in the area. Whether you're looking
+  for sushi restaurants nearby or a casual meal with friends, this spot delivers
+  a blend of authenticity and comfort that keeps locals coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJZfvwEc-f7ocRGaTIn13zIec/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJbU9qcE93EAE
@@ -364,6 +387,21 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNsdm9IdEt3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNsdm9IdEt3EAE!2m1!1s0x87ee9fcf11f0fb65:0xe721f35d9fc8a419
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this sushi spot often rave about the
+  excellent quality of the rolls and specialty dishes, noting that the generous
+  portions and creative flavors make it a standout choice for a satisfying meal.
+  Many appreciate the cute, inviting atmosphere that adds a fun, familial vibe
+  to every visit, along with attentive service that keeps things running
+  smoothly even during busy times. While most experiences highlight fresh
+  ingredients and quick service, a few mentions of occasional order mix-ups
+  remind us that it's not perfect, but the positives far outweigh any minor
+  hiccups. Overall, it's a great pick for families or groups hunting for the
+  best sushi around, with plenty of positive feedback on its kid-friendly
+  options and variety. If you're searching for top-rated sushi places near you,
+  this location earns high marks for delivering a reliably enjoyable dining
+  experience with a welcoming touch.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -396,8 +434,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Japanese & Asian fusion dishes presented with decorative flair in a small
   storefront.
 

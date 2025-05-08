@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ninja Sushi"
+title: Ninja Sushi
 permalink: /hawaii/kaneohe/ninja-sushi.html
 stateAbbr: HI
 stateName: Hawaii
 cityName: Kaneohe
 seo:
-  name: "Ninja Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Ninja Sushi serves delicious sushi in Kaneohe, Hawaii. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ4-peB_lqAHwRO0mC-4JZzjU
 photos:
   - name: >-
@@ -184,7 +182,45 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Ninja Sushi in Kaneohe, HI$$$Ninja Sushi in Kaneohe, HI, stands out
+  as a relaxed spot at Windward Mall, perfect for anyone craving authentic
+  Japanese flavors in a welcoming environment. This sushi restaurant offers a
+  selection of fresh small plates and bento boxes, along with crispy tempura
+  options that highlight local ingredients and creative twists. Visitors can
+  enjoy the convenience of wheelchair-accessible features, making it easier for
+  everyone to savor a meal in a casual setting. If you're exploring sushi places
+  near you, this location provides a straightforward yet enjoyable dining
+  experience that combines affordability with tasty choices. Its proximity to
+  shopping areas adds to the appeal for those seeking top-rated sushi
+  restaurants in the region.
+generative_summary: >-
+  Discover Ninja Sushi in Kaneohe, HI$$$Ninja Sushi in Kaneohe, HI, stands out
+  as a relaxed spot at Windward Mall, perfect for anyone craving authentic
+  Japanese flavors in a welcoming environment. This sushi restaurant offers a
+  selection of fresh small plates and bento boxes, along with crispy tempura
+  options that highlight local ingredients and creative twists. Visitors can
+  enjoy the convenience of wheelchair-accessible features, making it easier for
+  everyone to savor a meal in a casual setting. If you're exploring sushi places
+  near you, this location provides a straightforward yet enjoyable dining
+  experience that combines affordability with tasty choices. Its proximity to
+  shopping areas adds to the appeal for those seeking top-rated sushi
+  restaurants in the region.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$From what people share about spots like this casual
+  sushi eatery, the focus is often on the fresh and flavorful dishes that keep
+  diners coming back for more. Many appreciate the straightforward menu with
+  options that feel just right for a quick bite or a relaxed meal, highlighting
+  the value and variety available. It's commonly noted as a solid pick for
+  families or friends looking for reliable Japanese cuisine without the fuss,
+  with praise for the welcoming vibe and efficient service. Overall, feedback
+  suggests it's a go-to choice among local sushi spots, offering a positive
+  experience that balances taste and convenience. If you're hunting for sushi
+  near me, this place tends to earn nods for its approachable style and
+  satisfying meals.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +246,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

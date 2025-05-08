@@ -1,15 +1,14 @@
 ---
 layout: place
-title: "Akeno Sushi Bar and Thai at Capitol Hill"
+title: Akeno Sushi Bar and Thai at Capitol Hill
 permalink: /district-of-columbia/washington/akeno-sushi-bar-and-thai-at-capitol-hill.html
 stateAbbr: DC
 stateName: District of Columbia
 cityName: Washington
 seo:
-  name: "Akeno Sushi Bar and Thai at Capitol Hill"
-  type: Restaurant
-  links: https://akenosushibar.com/akenosushibarandthaiatcapitolhill?utm_source=google
-description: "Sushi and Thai fare, plus drinks, offered in a chill space featuring a rooftop. Akeno Sushi Bar and Thai at Capitol Hill serves delicious sushi in Washington, District of Columbia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
+  type: restaurant
+  links: >-
+    https://akenosushibar.com/akenosushibarandthaiatcapitolhill?utm_source=google
 place_id: ChIJzZX3JGe5t4kRAkx2g1Q4y_8
 photos:
   - name: >-
@@ -181,6 +180,31 @@ price_range: $20 &ndash; $30
 rating: '4.7'
 rating_count: 0
 website: https://akenosushibar.com/akenosushibarandthaiatcapitolhill?utm_source=google
+description: >-
+  Discover Akeno Sushi Bar and Thai in Washington, DC$$$Akeno Sushi Bar and Thai
+  at Capitol Hill in Washington, DC, delivers a welcoming blend of fresh sushi
+  and Thai dishes in a laid-back setting, ideal for those seeking top sushi
+  experiences nearby. The menu highlights creative rolls and flavorful
+  appetizers that pair perfectly with a selection of drinks, creating a
+  satisfying meal in a cozy atmosphere. With outdoor seating on the rooftop,
+  it's a great spot for casual gatherings or enjoying vibrant flavors under the
+  open sky. Visitors appreciate the variety of options that cater to different
+  tastes, making it a solid choice for anyone exploring sushi restaurants in the
+  area. This hidden gem emphasizes quality ingredients and a relaxed vibe,
+  perfect for unwinding after a day in the city.
+generative_summary: >-
+  Discover Akeno Sushi Bar and Thai in Washington, DC$$$Akeno Sushi Bar and Thai
+  at Capitol Hill in Washington, DC, delivers a welcoming blend of fresh sushi
+  and Thai dishes in a laid-back setting, ideal for those seeking top sushi
+  experiences nearby. The menu highlights creative rolls and flavorful
+  appetizers that pair perfectly with a selection of drinks, creating a
+  satisfying meal in a cozy atmosphere. With outdoor seating on the rooftop,
+  it's a great spot for casual gatherings or enjoying vibrant flavors under the
+  open sky. Visitors appreciate the variety of options that cater to different
+  tastes, making it a solid choice for anyone exploring sushi restaurants in the
+  area. This hidden gem emphasizes quality ingredients and a relaxed vibe,
+  perfect for unwinding after a day in the city.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJzZX3JGe5t4kRAkx2g1Q4y_8/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3eEp5OHR3RRAB
@@ -444,6 +468,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNBNDhtTVJBEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNBNDhtTVJBEAE!2m1!1s0x89b7b96724f795cd:0xffcb385483764c02
+review_summary: >-
+  What Customers Are Saying About Akeno Sushi$$$Folks generally enjoy the tasty
+  sushi rolls and friendly service at this spot, often highlighting it as a
+  reliable choice for a casual meal with friends. Many appreciate the variety of
+  dishes and the fun atmosphere, especially for trying new flavors or enjoying
+  drinks on the rooftop. While some mention that certain items didn't quite hit
+  the mark or that seating can feel a bit snug, the overall experience remains
+  positive and worth revisiting. It's praised for its approachable vibe and
+  solid offerings, making it a go-to for anyone hunting for great sushi places
+  nearby. In the end, the consensus leans toward recommending it for its
+  welcoming feel and flavorful hits, with just a few tweaks that keep things
+  real.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeStreetParking: true
   paidStreetParking: true
@@ -475,8 +512,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Sushi and Thai fare, plus drinks, offered in a chill space featuring a
   rooftop.
 

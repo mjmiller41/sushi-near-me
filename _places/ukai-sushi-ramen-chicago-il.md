@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ukai Sushi & Ramen"
+title: Ukai Sushi & Ramen
 permalink: /illinois/chicago/ukai-sushi-ramen.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
 seo:
-  name: "Ukai Sushi & Ramen"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Ukai Sushi & Ramen serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJz_qRb6vTD4gRr6iqv1ZZzmg
 photos:
   - name: >-
@@ -185,7 +183,45 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Explore Ukai Sushi & Ramen in Chicago, IL$$$Ukai Sushi & Ramen in Chicago, IL,
+  stands out as a cozy hub for authentic Japanese dining, blending fresh flavors
+  with a laid-back vibe that appeals to locals and visitors alike. This spot
+  specializes in a variety of sushi and ramen options, including thoughtful
+  choices for gluten-free and vegetarian diners, making it a versatile choice
+  for different tastes. The menu highlights high-quality ingredients that bring
+  out the best in traditional dishes, set in a welcoming environment perfect for
+  casual meals or quick bites. Whether you're searching for top-rated sushi
+  spots in the area, Ukai delivers on fresh, satisfying experiences that capture
+  the essence of Japanese cuisine. Its convenient location in the heart of the
+  city makes it an easy go-to for anyone craving sushi restaurants nearby.
+generative_summary: >-
+  Explore Ukai Sushi & Ramen in Chicago, IL$$$Ukai Sushi & Ramen in Chicago, IL,
+  stands out as a cozy hub for authentic Japanese dining, blending fresh flavors
+  with a laid-back vibe that appeals to locals and visitors alike. This spot
+  specializes in a variety of sushi and ramen options, including thoughtful
+  choices for gluten-free and vegetarian diners, making it a versatile choice
+  for different tastes. The menu highlights high-quality ingredients that bring
+  out the best in traditional dishes, set in a welcoming environment perfect for
+  casual meals or quick bites. Whether you're searching for top-rated sushi
+  spots in the area, Ukai delivers on fresh, satisfying experiences that capture
+  the essence of Japanese cuisine. Its convenient location in the heart of the
+  city makes it an easy go-to for anyone craving sushi restaurants nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback on Ukai Sushi & Ramen$$$Folks often rave about the fantastic
+  lunch specials at this Japanese eatery, praising the fresh and tasty sushi
+  rolls that hit the spot every time. Many highlight the delicious ramen options
+  that come with generous portions, making meals feel like great value without
+  breaking the bank. Service stands out as friendly and attentive, adding to the
+  overall enjoyable vibe that keeps people coming back. While opinions vary, the
+  general consensus leans positive, with diners appreciating the flavorful
+  combinations and reasonable prices that make it a solid pick for everyday
+  eats. If you're on the hunt for reliable sushi places around Chicago, this
+  spot seems to deliver a consistently satisfying experience based on shared
+  experiences.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +247,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

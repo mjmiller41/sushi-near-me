@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "E+O Kitchen - Hyde Park"
+title: E+O Kitchen - Hyde Park
 permalink: /ohio/cincinnati/e-o-kitchen-hyde-park.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Cincinnati
 seo:
-  name: "E+O Kitchen - Hyde Park"
-  type: Restaurant
-  links: null
-description: "E+O Kitchen - Hyde Park serves delicious sushi in Cincinnati, Ohio. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://eokitchen.com/
 place_id: ChIJXblYXXmyQYgRh2Wh4L4zG4g
 photos:
   - name: >-
@@ -170,22 +168,173 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8841b2795d58b95d:0x881b33bee0a16587!10e5
 primary_type: Asian Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 10
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 10
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 9:00 PM'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 9:00 PM'
+    - 'Saturday: 10:00 AM – 10:00 PM'
+    - 'Sunday: 10:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
-phone: null
-price_level: null
+  - openNow: false
+    periods:
+      - open:
+          day: 1
+          hour: 17
+          minute: 0
+        close:
+          day: 1
+          hour: 18
+          minute: 0
+      - open:
+          day: 2
+          hour: 17
+          minute: 0
+        close:
+          day: 2
+          hour: 18
+          minute: 0
+      - open:
+          day: 3
+          hour: 17
+          minute: 0
+        close:
+          day: 3
+          hour: 18
+          minute: 0
+      - open:
+          day: 4
+          hour: 17
+          minute: 0
+        close:
+          day: 4
+          hour: 18
+          minute: 0
+      - open:
+          day: 5
+          hour: 17
+          minute: 0
+        close:
+          day: 5
+          hour: 18
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 5:00 – 6:00 PM'
+      - 'Tuesday: 5:00 – 6:00 PM'
+      - 'Wednesday: 5:00 – 6:00 PM'
+      - 'Thursday: 5:00 – 6:00 PM'
+      - 'Friday: 5:00 – 6:00 PM'
+      - 'Saturday: Closed'
+      - 'Sunday: Closed'
+    secondaryHoursType: HAPPY_HOUR
+    nextOpenTime: '2025-05-05T21:00:00Z'
+phone: (513) 832-1023
+price_level: PRICE_LEVEL_MODERATE
 price_range: null
-rating: null
-rating_count: 0
-website: null
+rating: '4.5'
+rating_count: 890
+website: http://eokitchen.com/
+description: >-
+  Discover E+O Kitchen in Cincinnati, OH$$$E+O Kitchen in Cincinnati, OH, stands
+  out as a vibrant Asian-fusion spot where fresh sushi and innovative dishes
+  blend seamlessly in a relaxed, beach-inspired setting. This eatery delights
+  with its eclectic menu featuring creative rolls and flavorful entrees like
+  lobster fried rice, making it a go-to choice for those seeking top-rated sushi
+  in the area. The welcoming atmosphere evokes a casual coastal vibe, enhanced
+  by thoughtful accessibility features that ensure everyone can enjoy the
+  experience. With convenient hours that cater to both lunch and dinner crowds,
+  it's an ideal destination for anyone exploring sushi restaurants near me.
+  Whether you're in the mood for a quick bite or a leisurely meal, this spot
+  combines quality ingredients and a lively energy to create memorable dining
+  moments.
+generative_summary: >-
+  Discover E+O Kitchen in Cincinnati, OH$$$E+O Kitchen in Cincinnati, OH, stands
+  out as a vibrant Asian-fusion spot where fresh sushi and innovative dishes
+  blend seamlessly in a relaxed, beach-inspired setting. This eatery delights
+  with its eclectic menu featuring creative rolls and flavorful entrees like
+  lobster fried rice, making it a go-to choice for those seeking top-rated sushi
+  in the area. The welcoming atmosphere evokes a casual coastal vibe, enhanced
+  by thoughtful accessibility features that ensure everyone can enjoy the
+  experience. With convenient hours that cater to both lunch and dinner crowds,
+  it's an ideal destination for anyone exploring sushi restaurants near me.
+  Whether you're in the mood for a quick bite or a leisurely meal, this spot
+  combines quality ingredients and a lively energy to create memorable dining
+  moments.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Sharing$$$Folks often highlight the tasty sushi rolls and
+  fresh flavors at this Asian fusion gem, noting how the creative dishes like
+  ceviche and cocktails really hit the spot for a satisfying meal. Many
+  appreciate the friendly and attentive service that makes every visit feel
+  welcoming and enjoyable, adding to the overall fun vibe of the place. It's
+  commonly mentioned that the lively atmosphere keeps things upbeat without
+  overwhelming the experience, perfect for casual outings or groups looking for
+  great sushi close to me. While opinions vary, the general consensus leans
+  positive, with diners praising the consistent quality that keeps them coming
+  back for more. Overall, it's a solid pick for anyone searching for reliable
+  Japanese-inspired eats that deliver on taste and ambiance in a genuine way.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +360,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

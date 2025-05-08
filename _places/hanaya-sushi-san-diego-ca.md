@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Hanaya Sushi"
+title: Hanaya Sushi
 permalink: /california/san-diego/hanaya-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: San Diego
 seo:
-  name: "Hanaya Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Spare Japanese eatery offering enormous, artfully presented sashimi platters & sushi rolls. Hanaya Sushi serves delicious sushi in San Diego, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJS5Q8bGwH3IARUgHZHDblw1M
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 0
 website: null
+description: >-
+  Experience Hanaya Sushi in San Diego$$$Hanaya Sushi in San Diego, CA, stands
+  out as a welcoming Japanese eatery known for its fresh sushi rolls and
+  artfully prepared dishes in a relaxed setting. This spot offers generous
+  portions of authentic Japanese cuisine, including creative sashimi platters
+  that highlight high-quality ingredients and thoughtful presentation. With
+  accessibility features like wheelchair-friendly entrances and parking, it's an
+  inclusive choice for anyone seeking sushi restaurants near me. The casual
+  atmosphere makes it ideal for a quick lunch or dinner, blending traditional
+  flavors with a laid-back vibe. Whether you're exploring top-rated sushi
+  options or Japanese places near me, Hanaya Sushi delivers a satisfying
+  experience that emphasizes quality and value.
+generative_summary: >-
+  Experience Hanaya Sushi in San Diego$$$Hanaya Sushi in San Diego, CA, stands
+  out as a welcoming Japanese eatery known for its fresh sushi rolls and
+  artfully prepared dishes in a relaxed setting. This spot offers generous
+  portions of authentic Japanese cuisine, including creative sashimi platters
+  that highlight high-quality ingredients and thoughtful presentation. With
+  accessibility features like wheelchair-friendly entrances and parking, it's an
+  inclusive choice for anyone seeking sushi restaurants near me. The casual
+  atmosphere makes it ideal for a quick lunch or dinner, blending traditional
+  flavors with a laid-back vibe. Whether you're exploring top-rated sushi
+  options or Japanese places near me, Hanaya Sushi delivers a satisfying
+  experience that emphasizes quality and value.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJS5Q8bGwH3IARUgHZHDblw1M/reviews/ChdDSUhNMG9nS0VJQ0FnSUMzcElmMWpnRRAB
@@ -370,6 +393,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURBOWFQZ25nRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURBOWFQZ25nRRAB!2m1!1s0x80dc076c6c3c944b:0x53c3e5361cd90152
+review_summary: >-
+  Summary of Customer Feedback$$$Visitors to Hanaya Sushi often rave about the
+  fresh, flavorful sushi and the surprisingly large portions that leave everyone
+  feeling satisfied. Many appreciate the thoughtful extras like complimentary
+  sides and treats, which add a nice touch to the overall meal without
+  overwhelming the authentic taste. Folks note that the spot feels welcoming and
+  accommodating, making it a go-to for casual dining or quick takeout when
+  craving something light yet fulfilling. While some might expect heavier
+  sauces, the genuine Japanese style shines through, earning high marks for its
+  simplicity and quality. Overall, it's a solid pick for anyone hunting for
+  reliable sushi close to me, with consistent praise for the friendly service
+  and enjoyable atmosphere that keeps people coming back.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -402,8 +438,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Spare Japanese eatery offering enormous, artfully presented sashimi platters &
   sushi rolls.
 

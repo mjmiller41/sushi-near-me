@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "J Towne Tavern"
+title: J Towne Tavern
 permalink: /new-jersey/lake-hopatcong/j-towne-tavern.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Lake Hopatcong
 seo:
-  name: "J Towne Tavern"
-  type: Restaurant
+  type: restaurant
   links: http://www.jtownetavern.com/
-description: "Upscale-casual restaurant/bar for steaks, burgers, seafood & pizza, plus craft brews & other drinks. J Towne Tavern serves delicious sushi in Lake Hopatcong, New Jersey. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJEUgkT1Rzw4kRda-cFSECL9U
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $20 &ndash; $30
 rating: '4.1'
 rating_count: 0
 website: http://www.jtownetavern.com/
+description: >-
+  About J Towne Tavern in Lake Hopatcong, NJ$$$Nestled in Lake Hopatcong, NJ, J
+  Towne Tavern offers an inviting upscale-casual vibe perfect for enjoying a mix
+  of hearty comfort foods and refreshing drinks. This sports bar features
+  numerous TVs for catching games, alongside a diverse menu that includes
+  steaks, burgers, seafood, and pizzas, all paired with craft brews and live
+  entertainment for a lively atmosphere. Accessibility is a highlight, with
+  wheelchair-friendly parking, entrances, restrooms, and seating making it
+  welcoming for all visitors. The spot also boasts outdoor seating and options
+  for dine-in, takeout, or delivery, ideal for casual gatherings or solo stops.
+  With its moderate pricing and family-friendly features like a kids' menu, it's
+  a go-to destination for relaxed meals in a community-oriented setting.
+generative_summary: >-
+  About J Towne Tavern in Lake Hopatcong, NJ$$$Nestled in Lake Hopatcong, NJ, J
+  Towne Tavern offers an inviting upscale-casual vibe perfect for enjoying a mix
+  of hearty comfort foods and refreshing drinks. This sports bar features
+  numerous TVs for catching games, alongside a diverse menu that includes
+  steaks, burgers, seafood, and pizzas, all paired with craft brews and live
+  entertainment for a lively atmosphere. Accessibility is a highlight, with
+  wheelchair-friendly parking, entrances, restrooms, and seating making it
+  welcoming for all visitors. The spot also boasts outdoor seating and options
+  for dine-in, takeout, or delivery, ideal for casual gatherings or solo stops.
+  With its moderate pricing and family-friendly features like a kids' menu, it's
+  a go-to destination for relaxed meals in a community-oriented setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJEUgkT1Rzw4kRda-cFSECL9U/reviews/ChZDSUhNMG9nS0VJQ0FnSUNfMk9LQk1nEAE
@@ -336,6 +359,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNpOWF2ejlnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNpOWF2ejlnRRAB!2m1!1s0x89c373544f244811:0xd52f0221159caf75
+review_summary: >-
+  Visitor Feedback Highlights$$$Folks stopping by J Towne Tavern often praise
+  the friendly and attentive service, making for a welcoming experience whether
+  you're at the bar or grabbing a table. Many appreciate the wide range of menu
+  options, from salads and seafood to Greek-inspired dishes and burgers, though
+  some mention certain items could use a bit more moisture for the best taste.
+  The atmosphere gets high marks for its casual energy, beer selection, and fun
+  events like live music, creating a spot that's great for groups or watching
+  sports. Overall, it's a solid choice for a laid-back meal, with most visitors
+  happy to return for the reliable vibe despite occasional service hiccups
+  during busier times. If you're in the area, it's worth checking out for a
+  comfortable spot that balances good food with an enjoyable hangout feel.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -366,8 +402,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Upscale-casual restaurant/bar for steaks, burgers, seafood & pizza, plus craft
   brews & other drinks.
 

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Modesto Sukiyaki"
+title: Modesto Sukiyaki
 permalink: /california/modesto/modesto-sukiyaki.html
 stateAbbr: CA
 stateName: California
 cityName: Modesto
 seo:
-  name: "Modesto Sukiyaki"
-  type: Restaurant
+  type: restaurant
   links: https://www.facebook.com/ModestoSukiyaki
-description: "Modesto Sukiyaki serves delicious sushi in Modesto, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJfQAU2x5RkIARCb3KUB1FU7w
 photos:
   - name: >-
@@ -170,62 +168,435 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8090511edb14007d:0xbc53451d50cabd09!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 20
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 20
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 20
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 20
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 20
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 20
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 8:00 PM'
-    - 'Tuesday: 9:00 AM – 5:00 PM'
+    - 'Tuesday: 11:30 AM – 8:00 PM'
     - 'Wednesday: 11:30 AM – 8:00 PM'
     - 'Thursday: 11:30 AM – 8:00 PM'
     - 'Friday: 11:30 AM – 8:00 PM'
     - 'Saturday: 11:30 AM – 8:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:30 AM – 8:00 PM'
-    - 'Tuesday: 9:00 AM – 5:00 PM'
-    - 'Wednesday: 11:30 AM – 8:00 PM'
-    - 'Thursday: 11:30 AM – 8:00 PM'
-    - 'Friday: 11:30 AM – 8:00 PM'
-    - 'Saturday: 11:30 AM – 8:00 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 1
+          hour: 11
+          minute: 30
+        close:
+          day: 1
+          hour: 20
+          minute: 0
+      - open:
+          day: 2
+          hour: 11
+          minute: 30
+        close:
+          day: 2
+          hour: 20
+          minute: 0
+      - open:
+          day: 3
+          hour: 11
+          minute: 30
+        close:
+          day: 3
+          hour: 20
+          minute: 0
+      - open:
+          day: 4
+          hour: 11
+          minute: 30
+        close:
+          day: 4
+          hour: 20
+          minute: 0
+      - open:
+          day: 5
+          hour: 11
+          minute: 30
+        close:
+          day: 5
+          hour: 20
+          minute: 0
+      - open:
+          day: 6
+          hour: 11
+          minute: 30
+        close:
+          day: 6
+          hour: 20
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 11:30 AM – 8:00 PM'
+      - 'Tuesday: 11:30 AM – 8:00 PM'
+      - 'Wednesday: 11:30 AM – 8:00 PM'
+      - 'Thursday: 11:30 AM – 8:00 PM'
+      - 'Friday: 11:30 AM – 8:00 PM'
+      - 'Saturday: 11:30 AM – 8:00 PM'
+      - 'Sunday: Closed'
+    secondaryHoursType: TAKEOUT
+    nextCloseTime: '2025-05-04T03:00:00Z'
 phone: (209) 526-3494
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.5'
-rating_count: 0
+rating_count: 328
 website: https://www.facebook.com/ModestoSukiyaki
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Modesto Sukiyaki in Modesto, CA$$$Modesto Sukiyaki in Modesto, CA, is
+  a welcoming spot for enjoying authentic Japanese flavors in a relaxed setting.
+  This unpretentious eatery specializes in fresh sushi and hearty teriyaki
+  dishes, making it a go-to choice for anyone seeking quality Japanese dining
+  options nearby. With its easygoing atmosphere and convenient location in a
+  shopping center, it's ideal for casual meals or quick takeout, enhanced by
+  thoughtful accessibility features like wheelchair-friendly entrances and
+  seating. The menu highlights traditional staples prepared with care, offering
+  a comforting blend of tastes that appeal to both locals and visitors exploring
+  sushi spots in the area. Open daily for lunch and dinner, it provides a
+  straightforward yet satisfying experience for those craving flavorful,
+  everyday Japanese cuisine.
+generative_summary: >-
+  Discover Modesto Sukiyaki in Modesto, CA$$$Modesto Sukiyaki in Modesto, CA, is
+  a welcoming spot for enjoying authentic Japanese flavors in a relaxed setting.
+  This unpretentious eatery specializes in fresh sushi and hearty teriyaki
+  dishes, making it a go-to choice for anyone seeking quality Japanese dining
+  options nearby. With its easygoing atmosphere and convenient location in a
+  shopping center, it's ideal for casual meals or quick takeout, enhanced by
+  thoughtful accessibility features like wheelchair-friendly entrances and
+  seating. The menu highlights traditional staples prepared with care, offering
+  a comforting blend of tastes that appeal to both locals and visitors exploring
+  sushi spots in the area. Open daily for lunch and dinner, it provides a
+  straightforward yet satisfying experience for those craving flavorful,
+  everyday Japanese cuisine.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJfQAU2x5RkIARCb3KUB1FU7w/reviews/ChZDSUhNMG9nS0VJQ0FnSUNmNVp6ZkhREAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        I can’t say enough great things about Modesto Sukiyaki! This place has
+        quickly become my new favorite spot—10/10! A coworker recommended it to
+        me, and it absolutely did not disappoint.
+
+
+        The sushi was fresh and flavorful, with beautiful presentation. The
+        ramen was rich and comforting, with a perfect balance of flavors. The
+        chicken katsu was crispy, juicy, and perfectly seasoned—truly one of the
+        best I’ve had.
+
+
+        The service was equally amazing—attentive, friendly, and fast. The staff
+        made the whole experience so enjoyable.
+
+
+        If you’re looking for incredible food and outstanding service, I highly
+        recommend checking this place out. I’ll definitely be coming back again
+        and again! And we were treated to this amazing dessert!
+      languageCode: en
+    originalText:
+      text: >-
+        I can’t say enough great things about Modesto Sukiyaki! This place has
+        quickly become my new favorite spot—10/10! A coworker recommended it to
+        me, and it absolutely did not disappoint.
+
+
+        The sushi was fresh and flavorful, with beautiful presentation. The
+        ramen was rich and comforting, with a perfect balance of flavors. The
+        chicken katsu was crispy, juicy, and perfectly seasoned—truly one of the
+        best I’ve had.
+
+
+        The service was equally amazing—attentive, friendly, and fast. The staff
+        made the whole experience so enjoyable.
+
+
+        If you’re looking for incredible food and outstanding service, I highly
+        recommend checking this place out. I’ll definitely be coming back again
+        and again! And we were treated to this amazing dessert!
+      languageCode: en
+    authorAttribution:
+      displayName: Jacqueline Godina
+      uri: https://www.google.com/maps/contrib/104263599544642542055/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVDQvARb5ccsIqhfRiSHd-ajeEf7Uzqz-r1NepkOgAV7mYnOzg=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2024-12-31T03:33:37.999300Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNmNVp6ZkhREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNmNVp6ZkhREAE!2m1!1s0x8090511edb14007d:0xbc53451d50cabd09
+  - name: >-
+      places/ChIJfQAU2x5RkIARCb3KUB1FU7w/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3bnNfTXlRRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        The food actually feels like if it was made in Japan itself. Super good
+        food and the staff is really friendly and overall a nice vibe. 10/10!
+      languageCode: en
+    originalText:
+      text: >-
+        The food actually feels like if it was made in Japan itself. Super good
+        food and the staff is really friendly and overall a nice vibe. 10/10!
+      languageCode: en
+    authorAttribution:
+      displayName: Edwin Vardeh
+      uri: https://www.google.com/maps/contrib/109099801570563726477/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWyvuIx7R5rnEBCTlGzhzBsPQPTcKzpugADRxo1cV1hdee7e9_v=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-03-19T02:54:53.387394Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUN3bnNfTXlRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUN3bnNfTXlRRRAB!2m1!1s0x8090511edb14007d:0xbc53451d50cabd09
+  - name: >-
+      places/ChIJfQAU2x5RkIARCb3KUB1FU7w/reviews/ChZDSUhNMG9nS0VJQ0FnSUQzeWR6T1VnEAE
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        First time coming in and I'm glad my friends took me here. Food was
+        great, and aesthetic even better. Felt like I could sit and chat for
+        hours there! All of the dishes I sampled tonight were fantastic and I
+        hope to come back again.
+      languageCode: en
+    originalText:
+      text: >-
+        First time coming in and I'm glad my friends took me here. Food was
+        great, and aesthetic even better. Felt like I could sit and chat for
+        hours there! All of the dishes I sampled tonight were fantastic and I
+        hope to come back again.
+      languageCode: en
+    authorAttribution:
+      displayName: Diego Lomeli-Katen
+      uri: https://www.google.com/maps/contrib/105281849999690646417/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWhgJJPMGtBI64S3pwAjZMM2U_wG8shAO_1BTvCvw1EgPTQJZt4ZA=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2024-11-16T07:45:44.391690Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQzeWR6T1VnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQzeWR6T1VnEAE!2m1!1s0x8090511edb14007d:0xbc53451d50cabd09
+  - name: >-
+      places/ChIJfQAU2x5RkIARCb3KUB1FU7w/reviews/ChdDSUhNMG9nS0VJQ0FnSUMzNDUySm53RRAB
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        Thank you U.A for your hospitality, your friendliness. You made our
+        night as we ate some delicious sushi prepared by you. Best sushi chef by
+        far!
+      languageCode: en
+    originalText:
+      text: >-
+        Thank you U.A for your hospitality, your friendliness. You made our
+        night as we ate some delicious sushi prepared by you. Best sushi chef by
+        far!
+      languageCode: en
+    authorAttribution:
+      displayName: Bernabe G
+      uri: https://www.google.com/maps/contrib/109470908758415140418/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjV3I2MT3DRNG-qrgvqbQcfIzG05WimouYKhwYhkaO9f9OGua3s7=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-11-08T19:43:45.226240Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMzNDUySm53RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMzNDUySm53RRAB!2m1!1s0x8090511edb14007d:0xbc53451d50cabd09
+  - name: >-
+      places/ChIJfQAU2x5RkIARCb3KUB1FU7w/reviews/ChZDSUhNMG9nS0VJQ0FnSUROcS1hX2JnEAE
+    relativePublishTimeDescription: a year ago
+    rating: 4
+    text:
+      text: >-
+        Upon entering Modesto Sukiyaki, the ambiance struck a delightful balance
+        between elegance and comfort, thanks to its dark theme accented with
+        soft lighting. The welcoming smile from the staff added a touch of
+        warmth, although the chill in the air was noticeable. Despite being
+        winter, the restaurant's AC seemed to be in full swing, a small note for
+        future visits to bring along a jacket.
+
+
+        The restaurant, cozy in size, had an intimate atmosphere that was
+        unexpectedly quiet for an early evening, with just a few patrons besides
+        us. Its smallness contributed to a more personalized and relaxed dining
+        experience. I was immediately drawn to the vibrant neon sign
+        highlighting the day's specials - an array of tempting choices like
+        tempura soft shell crab and blue fin o-toro. However, my sushi craving
+        was insatiable. We started our culinary journey with some classic saki
+        bomb drinks, accompanied by the comforting warmth of miso soup and the
+        delightful crunch of gyoza.
+
+
+        For our main course, we chose the Crazy Tuna Roll and the Volcano Roll.
+        Each roll was a masterpiece of flavor and texture. The Crazy Tuna Roll,
+        with its spicy tuna and crispy asparagus, offered a satisfying crunch in
+        every bite, while the Volcano Roll was an explosion of tastes, combining
+        the heat of jalapeño with the richness of cream cheese, topped off with
+        eel and crazy sauce. It was a delightful balance of spicy, creamy, and
+        crunchy elements, making the Volcano Roll particularly memorable.
+
+
+        What surprised me the most was the affordability of our meal. Despite
+        the high quality and generous portions of the sushi, our total bill was
+        under $60, making Modesto Sukiyaki not just a culinary delight but also
+        a budget-friendly option. This restaurant proved to be a fantastic
+        choice, offering a cozy atmosphere, delicious food, and prices that
+        leave you pleasantly surprised. It's a spot I'd gladly recommend to
+        anyone in Modesto looking for a great sushi experience without breaking
+        the bank.
+      languageCode: en
+    originalText:
+      text: >-
+        Upon entering Modesto Sukiyaki, the ambiance struck a delightful balance
+        between elegance and comfort, thanks to its dark theme accented with
+        soft lighting. The welcoming smile from the staff added a touch of
+        warmth, although the chill in the air was noticeable. Despite being
+        winter, the restaurant's AC seemed to be in full swing, a small note for
+        future visits to bring along a jacket.
+
+
+        The restaurant, cozy in size, had an intimate atmosphere that was
+        unexpectedly quiet for an early evening, with just a few patrons besides
+        us. Its smallness contributed to a more personalized and relaxed dining
+        experience. I was immediately drawn to the vibrant neon sign
+        highlighting the day's specials - an array of tempting choices like
+        tempura soft shell crab and blue fin o-toro. However, my sushi craving
+        was insatiable. We started our culinary journey with some classic saki
+        bomb drinks, accompanied by the comforting warmth of miso soup and the
+        delightful crunch of gyoza.
+
+
+        For our main course, we chose the Crazy Tuna Roll and the Volcano Roll.
+        Each roll was a masterpiece of flavor and texture. The Crazy Tuna Roll,
+        with its spicy tuna and crispy asparagus, offered a satisfying crunch in
+        every bite, while the Volcano Roll was an explosion of tastes, combining
+        the heat of jalapeño with the richness of cream cheese, topped off with
+        eel and crazy sauce. It was a delightful balance of spicy, creamy, and
+        crunchy elements, making the Volcano Roll particularly memorable.
+
+
+        What surprised me the most was the affordability of our meal. Despite
+        the high quality and generous portions of the sushi, our total bill was
+        under $60, making Modesto Sukiyaki not just a culinary delight but also
+        a budget-friendly option. This restaurant proved to be a fantastic
+        choice, offering a cozy atmosphere, delicious food, and prices that
+        leave you pleasantly surprised. It's a spot I'd gladly recommend to
+        anyone in Modesto looking for a great sushi experience without breaking
+        the bank.
+      languageCode: en
+    authorAttribution:
+      displayName: Pardeep Binning
+      uri: https://www.google.com/maps/contrib/102132889221404263661/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVNx4sWW7vtvuhj_0O0ZnM0jHHhOtz6d_3Y9x8ZGMRGKbrtUQv5=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-01-26T04:53:16.080979Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUROcS1hX2JnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUROcS1hX2JnEAE!2m1!1s0x8090511edb14007d:0xbc53451d50cabd09
+review_summary: >-
+  What Customers Are Saying$$$Folks rave about the fresh and flavorful sushi
+  rolls at this spot, often highlighting how they hit the spot with their
+  perfect balance of textures and tastes. Many appreciate the friendly service
+  and cozy vibe that make dining here feel inviting and enjoyable, turning a
+  simple meal into a relaxed outing. Reviewers frequently note the great value
+  for the portion sizes, with meals coming in at reasonable prices that don't
+  skimp on quality, especially for families or groups looking for reliable
+  Japanese options nearby. Overall, the atmosphere and food consistency earn
+  high marks, making it a solid pick for anyone searching for top-rated sushi
+  experiences in Modesto. While a few mentions touch on minor temperature
+  adjustments in the dining area, the positive feedback on the dishes and
+  service keeps the energy upbeat and encouraging for first-timers.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
+delivery: true
+dine_in: true
 good_for_children: null
-good_for_groups: null
+good_for_groups: true
 good_for_sports: null
-live_music: null
+live_music: false
 menu_for_children: null
 outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: false
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Mom-&-pop eatery serving mostly country-style Japanese dishes in a warm,
+  unpretentious space.
 
 ---

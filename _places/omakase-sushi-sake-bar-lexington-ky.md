@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Omakase Sushi & Sake Bar"
+title: Omakase Sushi & Sake Bar
 permalink: /kentucky/lexington/omakase-sushi-sake-bar.html
 stateAbbr: KY
 stateName: Kentucky
 cityName: Lexington
 seo:
-  name: "Omakase Sushi & Sake Bar"
-  type: Restaurant
-  links: null
-description: "Omakase Sushi & Sake Bar serves delicious sushi in Lexington, Kentucky. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://omakaselex.com/
 place_id: ChIJZfX9J2ZFQogRygkd5WSrth4
 photos:
   - name: >-
@@ -170,8 +168,113 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8842456627fdf565:0x1eb6ab64e51d09ca!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 14
+        minute: 0
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:30 AM – 2:00 PM, 5:00 – 9:30 PM'
+    - 'Tuesday: 11:30 AM – 2:00 PM, 5:00 – 9:30 PM'
+    - 'Wednesday: 11:30 AM – 2:00 PM, 5:00 – 9:30 PM'
+    - 'Thursday: 11:30 AM – 2:00 PM, 5:00 – 9:30 PM'
+    - 'Friday: 11:30 AM – 2:00 PM, 5:00 – 10:30 PM'
+    - 'Saturday: 12:00 – 10:30 PM'
+    - 'Sunday: 12:00 – 9:30 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +282,48 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
+phone: (859) 269-9291
 price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+price_range: $50 &ndash; $100
+rating: '4.7'
+rating_count: 185
+website: http://omakaselex.com/
+description: >-
+  Discover Omakase Sushi in Lexington, KY$$$Omakase Sushi & Sake Bar in
+  Lexington, Kentucky, stands out as a top destination for those seeking
+  authentic Japanese cuisine in a welcoming environment. This sushi spot boasts
+  an extensive selection of fresh seafood and creative rolls, perfect for anyone
+  exploring the best sushi options in the area. Patrons enjoy the meticulous
+  preparation and vibrant flavors that highlight the restaurant's commitment to
+  quality ingredients. With its cozy atmosphere evoking traditional Japanese
+  dining, it's an ideal choice for a memorable meal. If you're on the hunt for
+  sushi restaurants near you, this location offers a refined experience that
+  combines elegance with everyday accessibility.
+generative_summary: >-
+  Discover Omakase Sushi in Lexington, KY$$$Omakase Sushi & Sake Bar in
+  Lexington, Kentucky, stands out as a top destination for those seeking
+  authentic Japanese cuisine in a welcoming environment. This sushi spot boasts
+  an extensive selection of fresh seafood and creative rolls, perfect for anyone
+  exploring the best sushi options in the area. Patrons enjoy the meticulous
+  preparation and vibrant flavors that highlight the restaurant's commitment to
+  quality ingredients. With its cozy atmosphere evoking traditional Japanese
+  dining, it's an ideal choice for a memorable meal. If you're on the hunt for
+  sushi restaurants near you, this location offers a refined experience that
+  combines elegance with everyday accessibility.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Guests Are Saying About the Experience$$$Visitors often praise the wide
+  array of fresh fish and tasty sushi rolls that make this spot a solid pick for
+  casual dinners or special occasions. Many highlight the attentive service that
+  keeps things running smoothly and adds a personal touch to every visit. Folks
+  appreciate the genuine Japanese feel that brings a bit of authenticity to
+  Lexington, making it feel like a quick escape to something exotic. Overall,
+  it's frequently recommended for its reliable quality and inviting vibe, though
+  some note it's best for those who enjoy a focused sushi menu. If you're
+  craving top-rated sushi close to you, this place generally delivers a
+  satisfying and enjoyable outing.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +349,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

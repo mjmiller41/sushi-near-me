@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "PK Sushi"
+title: PK Sushi
 permalink: /california/rocklin/pk-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Rocklin
 seo:
-  name: "PK Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.pksushi.com/
-description: "PK Sushi serves delicious sushi in Rocklin, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJU5tR0Bwim4ARqfIn-uON11c
 photos:
   - name: >-
@@ -170,7 +168,121 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x809b221cd0519b53:0x57d78de3fa27f2a9!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 15
+        minute: 0
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 20
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 20
+        minute: 30
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 14
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 20
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 2:30 PM, 5:00 – 8:30 PM'
     - 'Tuesday: 11:30 AM – 2:30 PM, 5:00 – 8:30 PM'
     - 'Wednesday: 11:30 AM – 2:30 PM, 5:00 – 8:30 PM'
@@ -178,14 +290,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 2:30 PM, 5:00 – 8:30 PM'
     - 'Saturday: 12:00 – 2:00 PM, 5:00 – 8:30 PM'
     - 'Sunday: 12:00 – 3:00 PM, 5:00 – 8:30 PM'
-  current:
-    - 'Monday: 11:30 AM – 2:30 PM, 5:00 – 8:30 PM'
-    - 'Tuesday: 11:30 AM – 2:30 PM, 5:00 – 8:30 PM'
-    - 'Wednesday: 11:30 AM – 2:30 PM, 5:00 – 8:30 PM'
-    - 'Thursday: 11:30 AM – 2:30 PM, 5:00 – 8:30 PM'
-    - 'Friday: 11:30 AM – 2:30 PM, 5:00 – 8:30 PM'
-    - 'Saturday: 12:00 – 2:00 PM, 5:00 – 8:30 PM'
-    - 'Sunday: 12:00 – 3:00 PM, 5:00 – 8:30 PM'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +302,49 @@ phone: (916) 771-2333
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.5'
-rating_count: 0
+rating_count: 456
 website: http://www.pksushi.com/
+description: >-
+  Explore PK Sushi in Rocklin, CA$$$PK Sushi in Rocklin, CA, stands out as a
+  welcoming spot for enjoying fresh Japanese dishes, particularly its signature
+  sushi offerings that highlight quality ingredients and creative flavors. The
+  restaurant boasts accessibility features like wheelchair-friendly parking and
+  entrances, making it easy for everyone to savor a meal in a relaxed setting.
+  With hours that cater to both lunch and dinner crowds, it's an ideal choice
+  for those seeking sushi restaurants near me that balance convenience and
+  taste. Diners can expect a variety of rolls and options that appeal to sushi
+  lovers, from classic nigiri to innovative combinations. Whether you're hunting
+  for the best sushi near me or simply craving a casual Japanese meal, this spot
+  delivers a satisfying experience with its efficient service and cozy
+  atmosphere.
+generative_summary: >-
+  Explore PK Sushi in Rocklin, CA$$$PK Sushi in Rocklin, CA, stands out as a
+  welcoming spot for enjoying fresh Japanese dishes, particularly its signature
+  sushi offerings that highlight quality ingredients and creative flavors. The
+  restaurant boasts accessibility features like wheelchair-friendly parking and
+  entrances, making it easy for everyone to savor a meal in a relaxed setting.
+  With hours that cater to both lunch and dinner crowds, it's an ideal choice
+  for those seeking sushi restaurants near me that balance convenience and
+  taste. Diners can expect a variety of rolls and options that appeal to sushi
+  lovers, from classic nigiri to innovative combinations. Whether you're hunting
+  for the best sushi near me or simply craving a casual Japanese meal, this spot
+  delivers a satisfying experience with its efficient service and cozy
+  atmosphere.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback Highlights$$$Visitors to this sushi place often praise the
+  fresh flavors and generous portions, making it a go-to for anyone in the mood
+  for reliable Japanese fare. Many appreciate the attentive staff and quick
+  service, which add to the overall enjoyable vibe without any major hiccups.
+  Folks frequently mention the solid value for the price, noting that the menu
+  offers something for everyone, from simple rolls to more adventurous picks.
+  While not every dish wows everyone, the high ratings suggest it's consistently
+  a solid choice for sushi close to me, with positive comments on the variety
+  that keeps things exciting. Overall, if you're exploring top-rated sushi
+  options, this location comes across as a dependable favorite that leaves most
+  people smiling and satisfied.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +370,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

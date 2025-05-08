@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Dosirak House"
+title: Dosirak House
 permalink: /florida/fort-walton-beach/dosirak-house.html
 stateAbbr: FL
 stateName: Florida
 cityName: Fort Walton Beach
 seo:
-  name: "Dosirak House"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Relaxed venue with a sushi bar offering traditional Japanese & Korean dishes along with sake & beer. Dosirak House serves delicious sushi in Fort Walton Beach, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, and dinner."
 place_id: ChIJJ-39vfQ-kYgR8RtY5bagpOg
 photos:
   - name: >-
@@ -185,6 +183,27 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 0
 website: null
+description: >-
+  Discover Dosirak House in Fort Walton Beach, FL$$$Dosirak House in Fort Walton
+  Beach, FL, provides a welcoming spot for savoring traditional Japanese and
+  Korean dishes in a laid-back environment. The menu features a variety of fresh
+  sushi options alongside classic offerings, complemented by selections like
+  sake and beer for a complete dining experience. This sushi restaurant stands
+  out for its cozy vibe and accessibility features, making it easy for everyone
+  to enjoy a meal. Patrons often note the blend of authentic flavors that create
+  a satisfying and relaxed atmosphere, ideal for casual outings or family
+  gatherings.
+generative_summary: >-
+  Discover Dosirak House in Fort Walton Beach, FL$$$Dosirak House in Fort Walton
+  Beach, FL, provides a welcoming spot for savoring traditional Japanese and
+  Korean dishes in a laid-back environment. The menu features a variety of fresh
+  sushi options alongside classic offerings, complemented by selections like
+  sake and beer for a complete dining experience. This sushi restaurant stands
+  out for its cozy vibe and accessibility features, making it easy for everyone
+  to enjoy a meal. Patrons often note the blend of authentic flavors that create
+  a satisfying and relaxed atmosphere, ideal for casual outings or family
+  gatherings.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJJ-39vfQ-kYgR8RtY5bagpOg/reviews/ChZDSUhNMG9nS0VJQ0FnSUNfeTlEQkhnEAE
@@ -336,6 +355,17 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURuNTRLcVd3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURuNTRLcVd3EAE!2m1!1s0x88913ef4bdfded27:0xe8a4a0b6e5581bf1
+review_summary: >-
+  What Customers Are Saying About This Spot$$$Folks frequently praise the fresh
+  and tasty sushi at this local favorite, often calling it one of the top
+  choices in the area for a satisfying meal. Many highlight the friendly service
+  and welcoming vibe that make dining here feel like a casual, enjoyable hangout
+  with great vibes. Reviewers appreciate the authentic flavors and
+  family-friendly touches, like helpful staff guidance, which add to the overall
+  charm. While experiences vary, the general consensus is that it's a solid pick
+  for anyone craving quality sushi nearby, leaving most visitors eager to come
+  back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -368,8 +398,8 @@ serves_lunch: false
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Relaxed venue with a sushi bar offering traditional Japanese & Korean dishes
   along with sake & beer.
 

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Nama Sushi & Teriyaki"
+title: Nama Sushi & Teriyaki
 permalink: /california/walnut-creek/nama-sushi-teriyaki.html
 stateAbbr: CA
 stateName: California
 cityName: Walnut Creek
 seo:
-  name: "Nama Sushi & Teriyaki"
-  type: Restaurant
+  type: restaurant
   links: https://order.online/business/nama-sushi--teriyaki-22209
-description: "Nama Sushi & Teriyaki serves delicious sushi in Walnut Creek, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJN_JkpnJhhYARxs-IHYDx4y8
 photos:
   - name: >-
@@ -170,7 +168,113 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80856172a664f237:0x2fe3f1801d88cfc6!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 14
+        minute: 30
+    - open:
+        day: 0
+        hour: 16
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 14
+        minute: 30
+    - open:
+        day: 6
+        hour: 16
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 2:30 PM, 4:30 – 9:00 PM'
     - 'Tuesday: 4:30 – 9:00 PM'
     - 'Wednesday: 11:30 AM – 2:30 PM, 4:30 – 9:00 PM'
@@ -178,14 +282,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 2:30 PM, 4:30 – 9:00 PM'
     - 'Saturday: 11:30 AM – 2:30 PM, 4:30 – 9:00 PM'
     - 'Sunday: 11:30 AM – 2:30 PM, 4:30 – 9:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 2:30 PM, 4:30 – 9:00 PM'
-    - 'Tuesday: 4:30 – 9:00 PM'
-    - 'Wednesday: 11:30 AM – 2:30 PM, 4:30 – 9:00 PM'
-    - 'Thursday: 11:30 AM – 2:30 PM, 4:30 – 9:00 PM'
-    - 'Friday: 11:30 AM – 2:30 PM, 4:30 – 9:00 PM'
-    - 'Saturday: 11:30 AM – 2:30 PM, 4:30 – 9:00 PM'
-    - 'Sunday: 11:30 AM – 2:30 PM, 4:30 – 9:00 PM'
+  nextOpenTime: '2025-05-03T23:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +294,229 @@ phone: (925) 932-9540
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.3'
-rating_count: 0
+rating_count: 301
 website: https://order.online/business/nama-sushi--teriyaki-22209
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Nama Sushi & Teriyaki in Walnut Creek, CA$$$Nama Sushi & Teriyaki in
+  Walnut Creek, CA, stands out as a cozy spot for those seeking authentic
+  Japanese flavors in a relaxed setting. This eatery delights with a variety of
+  fresh sushi options, hearty bento boxes, and flavorful yakisoba, complemented
+  by a selection of wine and beer to enhance the meal. The welcoming atmosphere
+  makes it an ideal choice for casual dining or quick bites, with thoughtful
+  accessibility features ensuring everyone can enjoy the experience. Patrons
+  appreciate the moderate pricing and convenient location near other local
+  attractions, making it a go-to option for sushi restaurants in the area.
+generative_summary: >-
+  Discover Nama Sushi & Teriyaki in Walnut Creek, CA$$$Nama Sushi & Teriyaki in
+  Walnut Creek, CA, stands out as a cozy spot for those seeking authentic
+  Japanese flavors in a relaxed setting. This eatery delights with a variety of
+  fresh sushi options, hearty bento boxes, and flavorful yakisoba, complemented
+  by a selection of wine and beer to enhance the meal. The welcoming atmosphere
+  makes it an ideal choice for casual dining or quick bites, with thoughtful
+  accessibility features ensuring everyone can enjoy the experience. Patrons
+  appreciate the moderate pricing and convenient location near other local
+  attractions, making it a go-to option for sushi restaurants in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJN_JkpnJhhYARxs-IHYDx4y8/reviews/ChZDSUhNMG9nS0VJQ0FnSURWbTgzOEZREAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        Great sushi, and incredible people working here. Love me some Nama! The
+        Gina Roll might be my fav! The jalapeños stuffed with cream cheese and
+        deep fried are incredible too. Great sake selection!
+      languageCode: en
+    originalText:
+      text: >-
+        Great sushi, and incredible people working here. Love me some Nama! The
+        Gina Roll might be my fav! The jalapeños stuffed with cream cheese and
+        deep fried are incredible too. Great sake selection!
+      languageCode: en
+    authorAttribution:
+      displayName: Richard P
+      uri: https://www.google.com/maps/contrib/104957740822325950720/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJ-RSk6KOPJvpXUSaoVJkSKleuBJ42PSQBsVaBYW_MyoiXZ9w=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2023-12-16T15:33:54.568295Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURWbTgzOEZREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURWbTgzOEZREAE!2m1!1s0x80856172a664f237:0x2fe3f1801d88cfc6
+  - name: >-
+      places/ChIJN_JkpnJhhYARxs-IHYDx4y8/reviews/ChdDSUhNMG9nS0VJQ0FnTURndjVMNjBRRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 1
+    text:
+      text: >-
+        Absolutely terrible. I ordered the 10 nigir platter and 6 of them were
+        all the same fish and of poor quality. I literally paid $30 to eat the
+        “Sprout discounted frozen fish on Wednesday” . My work place is near
+        this restaurant and tried it a couple times last year and it was good.
+        But now it's not good anymore. Will never come back again.
+      languageCode: en
+    originalText:
+      text: >-
+        Absolutely terrible. I ordered the 10 nigir platter and 6 of them were
+        all the same fish and of poor quality. I literally paid $30 to eat the
+        “Sprout discounted frozen fish on Wednesday” . My work place is near
+        this restaurant and tried it a couple times last year and it was good.
+        But now it's not good anymore. Will never come back again.
+      languageCode: en
+    authorAttribution:
+      displayName: Cop Lizard
+      uri: https://www.google.com/maps/contrib/114400943430014098007/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJxNiJCDlE8PqTwv-z47Z8Umf_NOoOLWd4edXiYQMwgUKIelA=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-02-28T21:01:35.277468Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURndjVMNjBRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURndjVMNjBRRRAB!2m1!1s0x80856172a664f237:0x2fe3f1801d88cfc6
+  - name: >-
+      places/ChIJN_JkpnJhhYARxs-IHYDx4y8/reviews/ChZDSUhNMG9nS0VJQ0FnSURwcG9LUENREAE
+    relativePublishTimeDescription: a year ago
+    rating: 4
+    text:
+      text: >-
+        We came in right around when I imagine the Sunday lunch rush had ended
+        because for the moment we were the only two in the entire establishment.
+        Things that stand out, the atmosphere is great. Being next to a busy
+        intersection you'd expect a lot more road noise but it was relatively
+        quiet inside. Great, and quick service.
+
+
+        I can certainly see myself becoming a regular here because their chicken
+        teriyaki is delicious. While the food was great my only gripe is
+        parking. Good luck, and if you can park nearby it's worth the walk.
+      languageCode: en
+    originalText:
+      text: >-
+        We came in right around when I imagine the Sunday lunch rush had ended
+        because for the moment we were the only two in the entire establishment.
+        Things that stand out, the atmosphere is great. Being next to a busy
+        intersection you'd expect a lot more road noise but it was relatively
+        quiet inside. Great, and quick service.
+
+
+        I can certainly see myself becoming a regular here because their chicken
+        teriyaki is delicious. While the food was great my only gripe is
+        parking. Good luck, and if you can park nearby it's worth the walk.
+      languageCode: en
+    authorAttribution:
+      displayName: Luis Leonard Sanchez
+      uri: https://www.google.com/maps/contrib/104375135894267070364/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWHdvldFdsLmh6JsN1kWn_mntcm1cmyTuW2laS14sM3C0camM9S=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2023-08-21T04:21:47.617958Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURwcG9LUENREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURwcG9LUENREAE!2m1!1s0x80856172a664f237:0x2fe3f1801d88cfc6
+  - name: >-
+      places/ChIJN_JkpnJhhYARxs-IHYDx4y8/reviews/ChdDSUhNMG9nS0VJQ0FnSUNzNlpYSGlRRRAB
+    relativePublishTimeDescription: 5 years ago
+    rating: 5
+    text:
+      text: >-
+        We’ve eaten here a few times now and the food is always delicious! The
+        sushi is good, the hot food is good, and the vegetarian and vegan
+        options are diverse! It’s a crowd pleaser!! Fast and friendly service,
+        too.
+      languageCode: en
+    originalText:
+      text: >-
+        We’ve eaten here a few times now and the food is always delicious! The
+        sushi is good, the hot food is good, and the vegetarian and vegan
+        options are diverse! It’s a crowd pleaser!! Fast and friendly service,
+        too.
+      languageCode: en
+    authorAttribution:
+      displayName: Donnelly West
+      uri: https://www.google.com/maps/contrib/101994837047422909416/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUqebH7aixqkJfKcguKFaIFcvKExhE28BR6jseACTqQQCoqu3h4rQ=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2020-02-07T02:51:22.672664Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNzNlpYSGlRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNzNlpYSGlRRRAB!2m1!1s0x80856172a664f237:0x2fe3f1801d88cfc6
+  - name: >-
+      places/ChIJN_JkpnJhhYARxs-IHYDx4y8/reviews/ChZDSUhNMG9nS0VJQ0FnSUNUdGZXMEhBEAE
+    relativePublishTimeDescription: 11 months ago
+    rating: 5
+    text:
+      text: >-
+        This restaurant, which I often order from, has become cleaner and
+        tastier since the sushi chef changed. It's fresh, well-balanced, and all
+        the dishes are delicious.
+      languageCode: en
+    originalText:
+      text: >-
+        This restaurant, which I often order from, has become cleaner and
+        tastier since the sushi chef changed. It's fresh, well-balanced, and all
+        the dishes are delicious.
+      languageCode: en
+    authorAttribution:
+      displayName: 곽은아
+      uri: https://www.google.com/maps/contrib/107925382138839360130/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUuAkamM5yufizqyLqb1qF1aZIuG_1b4PF7lYw09wXp8TQ069Jt=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-05-17T14:03:04.656947Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNUdGZXMEhBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNUdGZXMEhBEAE!2m1!1s0x80856172a664f237:0x2fe3f1801d88cfc6
+review_summary: >-
+  What Customers Are Saying About This Sushi Spot$$$Folks around Walnut Creek
+  often rave about the fresh and creative sushi rolls at this spot, highlighting
+  how they hit the spot for a satisfying meal. While most diners enjoy the
+  flavorful dishes and friendly service that keep things light and enjoyable, a
+  few have mentioned occasional inconsistencies with ingredient quality on
+  busier days. Overall, it's praised for its diverse vegetarian options and
+  quick turnaround, making it a solid pick for groups or families looking for
+  tasty Japanese fare. The atmosphere gets thumbs up for being relaxed and
+  accommodating, encouraging repeat visits for anyone searching for top-rated
+  sushi nearby. In summary, it's a welcoming place that generally delivers on
+  flavor and convenience, though keeping an eye on freshness is always a good
+  idea.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
 good_for_sports: null
-live_music: null
+live_music: false
 menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: false
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Bustling Japanese dining spot featuring an L-shaped sushi bar & creative rolls
+  in a casual setting.
 
 ---

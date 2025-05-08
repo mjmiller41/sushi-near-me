@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kim's Bap Yeoubi(K-food)"
+title: Kim's Bap Yeoubi(K-food)
 permalink: /michigan/orion-twp/kim-s-bap-yeoubi-k-food.html
 stateAbbr: MI
 stateName: Michigan
 cityName: Orion Twp
 seo:
-  name: "Kim's Bap Yeoubi(K-food)"
-  type: Restaurant
+  type: restaurant
   links: https://www.toasttab.com/hankki
-description: "Kim's Bap Yeoubi(K-food) serves delicious sushi in Orion Twp, Michigan. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJR25e3buVJIgRvzeLE5hNHbI
 photos:
   - name: >-
@@ -183,6 +181,31 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 0
 website: https://www.toasttab.com/hankki
+description: >-
+  Discover Kim's Bap Yeoubi in Orion Twp, MI$$$Kim's Bap Yeoubi in Orion Twp,
+  MI, stands out as a casual spot blending authentic Korean cuisine with fresh
+  sushi options, perfect for those seeking diverse flavors in a relaxed setting.
+  This venue offers a welcoming atmosphere where diners can enjoy hearty Korean
+  fare alongside creative sushi rolls, making it an ideal choice for anyone
+  exploring local eateries. With options for dine-in or takeout, it caters to
+  busy lifestyles while emphasizing accessibility and moderate pricing. The menu
+  highlights quality ingredients in dishes that balance tradition and
+  simplicity, appealing to fans of Japanese-inspired elements like sushi near
+  me. Overall, it's a go-to destination for flavorful meals that combine the
+  best of Korean and sushi influences in a community-friendly environment.
+generative_summary: >-
+  Discover Kim's Bap Yeoubi in Orion Twp, MI$$$Kim's Bap Yeoubi in Orion Twp,
+  MI, stands out as a casual spot blending authentic Korean cuisine with fresh
+  sushi options, perfect for those seeking diverse flavors in a relaxed setting.
+  This venue offers a welcoming atmosphere where diners can enjoy hearty Korean
+  fare alongside creative sushi rolls, making it an ideal choice for anyone
+  exploring local eateries. With options for dine-in or takeout, it caters to
+  busy lifestyles while emphasizing accessibility and moderate pricing. The menu
+  highlights quality ingredients in dishes that balance tradition and
+  simplicity, appealing to fans of Japanese-inspired elements like sushi near
+  me. Overall, it's a go-to destination for flavorful meals that combine the
+  best of Korean and sushi influences in a community-friendly environment.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJR25e3buVJIgRvzeLE5hNHbI/reviews/ChdDSUhNMG9nS0VJQ0FnSUNqbTVxWXFnRRAB
@@ -498,6 +521,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUM5eVlLQVF3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUM5eVlLQVF3EAE!2m1!1s0x882495bbdd5e6e47:0xb21d4d98138b37bf
+review_summary: >-
+  What Customers Are Saying$$$Folks visiting this spot often praise the tasty
+  Korean dishes and sushi rolls for their fresh preparation and satisfying
+  flavors, with many highlighting the welcoming vibe and attentive service.
+  While some comments suggest occasional inconsistencies in seasoning or dish
+  execution, the majority appreciate the overall value and variety that make it
+  a solid pick for casual dining. It's frequently recommended for those craving
+  authentic options like beef kimbap or pork bulgogi, adding to its appeal as
+  one of the top-rated sushi places near me. The friendly atmosphere and
+  proximity keep it popular among locals, offering a generally enjoyable
+  experience despite minor areas for improvement. In summary, it's a worthwhile
+  stop for anyone looking for genuine Korean-inspired eats with a positive,
+  approachable feel.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -528,7 +565,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Crazy Tokyo Sushi"
+title: Crazy Tokyo Sushi
 permalink: /california/woodland-hills/crazy-tokyo-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Woodland Hills
 seo:
-  name: "Crazy Tokyo Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://crazytokyosushionline.com/
-description: "Crazy Tokyo Sushi serves delicious sushi in Woodland Hills, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJXxncg72ewoARc4rlpy1LeIs
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c29ebd83dc195f:0x8b784b2da7e58a73!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 9:30 PM'
     - 'Tuesday: 11:30 AM – 9:30 PM'
     - 'Wednesday: 11:30 AM – 9:30 PM'
@@ -178,54 +234,322 @@ opening_hours:
     - 'Friday: 11:30 AM – 10:00 PM'
     - 'Saturday: 11:30 AM – 10:00 PM'
     - 'Sunday: 11:00 AM – 9:30 PM'
-  current:
-    - 'Monday: 11:30 AM – 9:30 PM'
-    - 'Tuesday: 11:30 AM – 9:30 PM'
-    - 'Wednesday: 11:30 AM – 9:30 PM'
-    - 'Thursday: 11:30 AM – 9:30 PM'
-    - 'Friday: 11:30 AM – 10:00 PM'
-    - 'Saturday: 11:30 AM – 10:00 PM'
-    - 'Sunday: 11:00 AM – 9:30 PM'
+  nextCloseTime: '2025-05-04T05:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 30
+        close:
+          day: 0
+          hour: 23
+          minute: 0
+      - open:
+          day: 1
+          hour: 11
+          minute: 30
+        close:
+          day: 1
+          hour: 22
+          minute: 30
+      - open:
+          day: 2
+          hour: 11
+          minute: 30
+        close:
+          day: 2
+          hour: 22
+          minute: 30
+      - open:
+          day: 3
+          hour: 11
+          minute: 30
+        close:
+          day: 3
+          hour: 22
+          minute: 30
+      - open:
+          day: 4
+          hour: 11
+          minute: 30
+        close:
+          day: 4
+          hour: 22
+          minute: 30
+      - open:
+          day: 5
+          hour: 12
+          minute: 30
+        close:
+          day: 5
+          hour: 23
+          minute: 0
+      - open:
+          day: 6
+          hour: 12
+          minute: 30
+        close:
+          day: 6
+          hour: 23
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 11:30 AM – 10:30 PM'
+      - 'Tuesday: 11:30 AM – 10:30 PM'
+      - 'Wednesday: 11:30 AM – 10:30 PM'
+      - 'Thursday: 11:30 AM – 10:30 PM'
+      - 'Friday: 12:30 – 11:00 PM'
+      - 'Saturday: 12:30 – 11:00 PM'
+      - 'Sunday: 12:30 – 11:00 PM'
+    secondaryHoursType: HAPPY_HOUR
+    nextCloseTime: '2025-05-04T06:00:00Z'
 phone: (818) 999-5060
 price_level: PRICE_LEVEL_INEXPENSIVE
 price_range: $20 &ndash; $30
 rating: '3.9'
-rating_count: 0
+rating_count: 383
 website: https://crazytokyosushionline.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Crazy Tokyo Sushi in Woodland Hills, CA$$$Nestled in the heart of
+  Woodland Hills, CA, Crazy Tokyo Sushi stands out as a go-to spot for fresh
+  sushi and Japanese dishes in a welcoming environment. This laid-back eatery
+  offers a variety of flavorful options, including expertly prepared rolls and
+  cocktails, making it ideal for casual meals or happy hour gatherings. With its
+  accessible features like wheelchair-friendly entrances and ample parking, it's
+  designed for everyone to enjoy a relaxed dining experience. The spot also
+  boasts extended hours and affordable pricing, perfect for those searching for
+  top-rated sushi restaurants nearby that balance quality and value.
+generative_summary: >-
+  Discover Crazy Tokyo Sushi in Woodland Hills, CA$$$Nestled in the heart of
+  Woodland Hills, CA, Crazy Tokyo Sushi stands out as a go-to spot for fresh
+  sushi and Japanese dishes in a welcoming environment. This laid-back eatery
+  offers a variety of flavorful options, including expertly prepared rolls and
+  cocktails, making it ideal for casual meals or happy hour gatherings. With its
+  accessible features like wheelchair-friendly entrances and ample parking, it's
+  designed for everyone to enjoy a relaxed dining experience. The spot also
+  boasts extended hours and affordable pricing, perfect for those searching for
+  top-rated sushi restaurants nearby that balance quality and value.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJXxncg72ewoARc4rlpy1LeIs/reviews/ChdDSUhNMG9nS0VJQ0FnTURveFlpSDNnRRAB
+    relativePublishTimeDescription: a week ago
+    rating: 1
+    text:
+      text: >-
+        I would have given a zero star if I had the option. This restaurant is
+        expensive, not clean and extremely poor service! We came in for lunch
+        today, ramen came in way late compared to other items. The server didn’t
+        check in at our table at all. For their ramen, it missed many
+        ingredients shown on the menu, such as fish cake, bamboo shoots, sweet
+        corn, and sprouts. Food is below average and service is unacceptable.
+        Terrible experience.
+      languageCode: en
+    originalText:
+      text: >-
+        I would have given a zero star if I had the option. This restaurant is
+        expensive, not clean and extremely poor service! We came in for lunch
+        today, ramen came in way late compared to other items. The server didn’t
+        check in at our table at all. For their ramen, it missed many
+        ingredients shown on the menu, such as fish cake, bamboo shoots, sweet
+        corn, and sprouts. Food is below average and service is unacceptable.
+        Terrible experience.
+      languageCode: en
+    authorAttribution:
+      displayName: Fenglian Gao
+      uri: https://www.google.com/maps/contrib/111236569671690417885/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJaJzSO_7o61v2RZT4i4AqUypkq5_CIouj60lmY5zFvH9nQ2g=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-26T21:17:31.089241Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURveFlpSDNnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURveFlpSDNnRRAB!2m1!1s0x80c29ebd83dc195f:0x8b784b2da7e58a73
+  - name: >-
+      places/ChIJXxncg72ewoARc4rlpy1LeIs/reviews/ChZDSUhNMG9nS0VJQ0FnTURBMHUySGVBEAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 4
+    text:
+      text: >-
+        This review is for takeout. The restaurant always packs the food well,
+        including utensils when requested. The staff is friendly, and the place
+        is clean.
+      languageCode: en
+    originalText:
+      text: >-
+        This review is for takeout. The restaurant always packs the food well,
+        including utensils when requested. The staff is friendly, and the place
+        is clean.
+      languageCode: en
+    authorAttribution:
+      displayName: Mayi Barov
+      uri: https://www.google.com/maps/contrib/105050300904308996068/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUDc99F-mEYJXEP7OFoHDROcQNIiEFF2aIK3NShcwSe-_EyHRlaFA=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-02-07T23:25:57.490834Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURBMHUySGVBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURBMHUySGVBEAE!2m1!1s0x80c29ebd83dc195f:0x8b784b2da7e58a73
+  - name: >-
+      places/ChIJXxncg72ewoARc4rlpy1LeIs/reviews/ChdDSUhNMG9nS0VJQ0FnSUQyd0ppOG9BRRAB
+    relativePublishTimeDescription: 3 years ago
+    rating: 3
+    text:
+      text: >-
+        I was a regular at the Reseda location awhile back and frequented the
+        place when it was directly next to Ralph's. A few years back it
+        relocated to the east of Sprouts and I kinda of stopped going to it
+        regularly.  I would time to time come in and it would be ok. Somehow it
+        lost whatever ambiance it had back in the day.
+
+
+        I came in today, May 1st 2022 around and it pretty dead. All the empty
+        booths had not been cleared, like 5 booths. There was only one waiter on
+        the schedule and he was also in charge of bussing the tables. Man that's
+        rough trade. We sat and he took awhile to get our orders. Our food took
+        20 minutes to be served. The good news the sushi was very good and
+        fresh. Had the salmon sushi, tarzan roll, Philly roll all really good. I
+        hope they can get their staffing issues fixes because the food is worth
+        coming back to.
+      languageCode: en
+    originalText:
+      text: >-
+        I was a regular at the Reseda location awhile back and frequented the
+        place when it was directly next to Ralph's. A few years back it
+        relocated to the east of Sprouts and I kinda of stopped going to it
+        regularly.  I would time to time come in and it would be ok. Somehow it
+        lost whatever ambiance it had back in the day.
+
+
+        I came in today, May 1st 2022 around and it pretty dead. All the empty
+        booths had not been cleared, like 5 booths. There was only one waiter on
+        the schedule and he was also in charge of bussing the tables. Man that's
+        rough trade. We sat and he took awhile to get our orders. Our food took
+        20 minutes to be served. The good news the sushi was very good and
+        fresh. Had the salmon sushi, tarzan roll, Philly roll all really good. I
+        hope they can get their staffing issues fixes because the food is worth
+        coming back to.
+      languageCode: en
+    authorAttribution:
+      displayName: Tony Medina
+      uri: https://www.google.com/maps/contrib/103565752030759393768/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWe2Nyb94_o02k7-Rpd8shBYZI3QLqnt2PzWFtfOBGmiVDdUMWa-Q=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2022-05-03T06:01:15.101059Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQyd0ppOG9BRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQyd0ppOG9BRRAB!2m1!1s0x80c29ebd83dc195f:0x8b784b2da7e58a73
+  - name: >-
+      places/ChIJXxncg72ewoARc4rlpy1LeIs/reviews/ChdDSUhNMG9nS0VJQ0FnSURNbm83dXVRRRAB
+    relativePublishTimeDescription: 7 years ago
+    rating: 5
+    text:
+      text: >-
+        I ended up having a party of 19 including me that didn't come at once(
+        server nightmare) and kept adding tables to our group. They handled it
+        like champs. Can't remember male servers name but he rocked and delt
+        with us no problem. Food rocked as always. Thank you chefs. My only
+        complaint was that they had to close but that was not their fault. Next
+        time i come from Florida I'm def having another large party there. Thank
+        you guys for helping making a great dinner amazing.
+      languageCode: en
+    originalText:
+      text: >-
+        I ended up having a party of 19 including me that didn't come at once(
+        server nightmare) and kept adding tables to our group. They handled it
+        like champs. Can't remember male servers name but he rocked and delt
+        with us no problem. Food rocked as always. Thank you chefs. My only
+        complaint was that they had to close but that was not their fault. Next
+        time i come from Florida I'm def having another large party there. Thank
+        you guys for helping making a great dinner amazing.
+      languageCode: en
+    authorAttribution:
+      displayName: Stephanie King
+      uri: https://www.google.com/maps/contrib/107851447600011923914/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjV8V8GjuYj8Z2ZX0sYc957-9LEvu5A8lC3mhE2NKcmO2ZNYP8ZE=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2017-09-27T13:46:22.069Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURNbm83dXVRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURNbm83dXVRRRAB!2m1!1s0x80c29ebd83dc195f:0x8b784b2da7e58a73
+  - name: >-
+      places/ChIJXxncg72ewoARc4rlpy1LeIs/reviews/ChdDSUhNMG9nS0VJQ0FnSURlbm9lUXZRRRAB
+    relativePublishTimeDescription: 2 years ago
+    rating: 4
+    text:
+      text: >-
+        Excellent sushi but the ginger was off and tasted extra fermented. The
+        fish and seafood is very fresh. Lots of menu options here. There's also
+        sake & beer here.
+      languageCode: en
+    originalText:
+      text: >-
+        Excellent sushi but the ginger was off and tasted extra fermented. The
+        fish and seafood is very fresh. Lots of menu options here. There's also
+        sake & beer here.
+      languageCode: en
+    authorAttribution:
+      displayName: Chef Cher
+      uri: https://www.google.com/maps/contrib/100128950417577248419/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjX1j_SNx0RNMNX76nXyQpuKGG75Hx5bgv5mnWw9ej3xGNV1Vmz4KA=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2022-10-18T19:09:03.225992Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURlbm9lUXZRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURlbm9lUXZRRRAB!2m1!1s0x80c29ebd83dc195f:0x8b784b2da7e58a73
+review_summary: >-
+  What People Are Buzzing About This Sushi Spot$$$Folks often rave about the
+  fresh, high-quality sushi and Japanese fare at this local favorite, noting how
+  it hits the spot for a satisfying meal whether you're grabbing takeout or
+  dining in. While some mention occasional service hiccups like slower times
+  during busy periods, the overall vibe remains friendly and efficient, with
+  staff handling orders well for groups or quick pickups. Customers appreciate
+  the clean atmosphere and solid portions, especially for budget-friendly
+  options that make it a smart choice for everyday cravings. Despite a few mixed
+  experiences with wait times, the consensus leans positive, highlighting the
+  tasty selections that keep people coming back for more in the Woodland Hills
+  area. If you're on the hunt for reliable sushi places near you, this one
+  delivers a generally enjoyable experience worth trying.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
 good_for_sports: null
-live_music: null
+live_music: false
 menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Low-key Japanese option offering a lineup of popular fare, plus a happy hour
+  menu.
 
 ---

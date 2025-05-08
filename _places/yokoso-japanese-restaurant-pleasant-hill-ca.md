@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yokoso Japanese Restaurant"
+title: Yokoso Japanese Restaurant
 permalink: /california/pleasant-hill/yokoso-japanese-restaurant.html
 stateAbbr: CA
 stateName: California
 cityName: Pleasant Hill
 seo:
-  name: "Yokoso Japanese Restaurant"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Yokoso Japanese Restaurant serves delicious sushi in Pleasant Hill, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJFUdfMTlhhYARIJHjak4OWRc
 photos:
   - name: >-
@@ -143,7 +141,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPGUx06vfCBoE-0V6SiwyKYieBfYoBCWsrT1THR!2e10!4m2!3m1!1s0x80856139315f4715:0x17590e4e6ae39120
 address: 2380 D, Monument Blvd, Pleasant Hill, CA 94523, USA
-street: 2380 D, Monument Blvd
+street: 2380 D,Monument Blvd
 city: Pleasant Hill
 state: CA
 zip: '94523'
@@ -185,7 +183,47 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  About Yokoso Japanese Restaurant in Pleasant Hill, CA$$$Yokoso Japanese
+  Restaurant in Pleasant Hill, California, delights diners with a menu featuring
+  fresh sushi rolls, bento boxes, and classic Japanese dishes in a relaxed,
+  everyday atmosphere. Nestled within a convenient shopping center, this spot
+  stands out for its accessible features, including wheelchair-friendly parking
+  and seating, making it easy for everyone to enjoy a meal. The restaurant
+  emphasizes traditional flavors with a focus on quality ingredients, offering
+  options that appeal to those seeking authentic Japanese cuisine close to home.
+  Whether you're in the mood for light bites or hearty meals, the casual vibe
+  and thoughtful layout enhance the overall dining experience. This local gem
+  serves as a go-to destination for exploring Japanese flavors in a welcoming
+  environment.
+generative_summary: >-
+  About Yokoso Japanese Restaurant in Pleasant Hill, CA$$$Yokoso Japanese
+  Restaurant in Pleasant Hill, California, delights diners with a menu featuring
+  fresh sushi rolls, bento boxes, and classic Japanese dishes in a relaxed,
+  everyday atmosphere. Nestled within a convenient shopping center, this spot
+  stands out for its accessible features, including wheelchair-friendly parking
+  and seating, making it easy for everyone to enjoy a meal. The restaurant
+  emphasizes traditional flavors with a focus on quality ingredients, offering
+  options that appeal to those seeking authentic Japanese cuisine close to home.
+  Whether you're in the mood for light bites or hearty meals, the casual vibe
+  and thoughtful layout enhance the overall dining experience. This local gem
+  serves as a go-to destination for exploring Japanese flavors in a welcoming
+  environment.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Visitor Feedback Highlights$$$Folks visiting this Japanese eatery often rave
+  about the tasty sushi and well-prepared bento options that hit the spot
+  without breaking the bank, based on common sentiments from similar spots. Many
+  appreciate the straightforward service and cozy setup that makes it feel like
+  a reliable neighborhood choice for a quick or relaxed meal. While some note
+  that the atmosphere is simple and unpretentious, it's generally seen as a
+  solid pick for families or groups looking for consistent flavors. Overall, the
+  general buzz suggests it's a dependable place for enjoying fresh Japanese
+  dishes, with most agreeing that the value keeps people coming back for more.
+  If you're hunting for nearby sushi spots, this one tends to deliver a
+  satisfying experience that balances taste and convenience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +249,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sakana Japanese Restaurant"
+title: Sakana Japanese Restaurant
 permalink: /district-of-columbia/washington/sakana-japanese-restaurant.html
 stateAbbr: DC
 stateName: District of Columbia
 cityName: Washington
 seo:
-  name: "Sakana Japanese Restaurant"
-  type: Restaurant
+  type: restaurant
   links: https://ordersakanajapanese.com/
-description: "Cozy, low-key restaurant serving sushi, noodles & other traditional Japanese fare. Sakana Japanese Restaurant serves delicious sushi in Washington, District of Columbia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJgdiQZsi3t4kRCoDg2MBjqWg
 photos:
   - name: >-
@@ -183,6 +181,31 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 0
 website: https://ordersakanajapanese.com/
+description: >-
+  Explore Sakana Japanese Restaurant in Washington, DC$$$Sakana Japanese
+  Restaurant in Washington, DC, offers a welcoming escape with its cozy
+  atmosphere and focus on authentic Japanese dishes. This spot highlights fresh
+  sushi and traditional favorites like noodles and tempura, making it a go-to
+  for those seeking quality Japanese cuisine near you. The inviting decor and
+  attentive service create a relaxed setting ideal for casual meals or
+  gatherings with friends. With reasonable pricing, it's an accessible choice
+  for enjoying flavorful options that cater to both lunch and dinner crowds.
+  Whether you're exploring top-rated sushi restaurants in the area, Sakana
+  stands out for its commitment to genuine flavors and satisfying dining
+  experiences.
+generative_summary: >-
+  Explore Sakana Japanese Restaurant in Washington, DC$$$Sakana Japanese
+  Restaurant in Washington, DC, offers a welcoming escape with its cozy
+  atmosphere and focus on authentic Japanese dishes. This spot highlights fresh
+  sushi and traditional favorites like noodles and tempura, making it a go-to
+  for those seeking quality Japanese cuisine near you. The inviting decor and
+  attentive service create a relaxed setting ideal for casual meals or
+  gatherings with friends. With reasonable pricing, it's an accessible choice
+  for enjoying flavorful options that cater to both lunch and dinner crowds.
+  Whether you're exploring top-rated sushi restaurants in the area, Sakana
+  stands out for its commitment to genuine flavors and satisfying dining
+  experiences.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJgdiQZsi3t4kRCoDg2MBjqWg/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJbUlPMTZ3RRAB
@@ -350,6 +373,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNJNWZMSnZRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNJNWZMSnZRRRAB!2m1!1s0x89b7b7c86690d881:0x68a963c0d8e0800a
+review_summary: >-
+  Visitor Feedback on Sakana$$$Folks chatting about Sakana often rave about the
+  fantastic sushi and other tasty dishes like the eel bowls and tempura, noting
+  how fresh and affordable everything is for a casual night out. While most
+  share positive vibes on the warm atmosphere and friendly team that make the
+  place feel like a neighborhood gem, a few mention occasional waits during busy
+  times that could use some smoothing out. Overall, it's clear that the spot
+  delivers solid value and delicious meals that keep people coming back for
+  more. If you're hunting for sushi places near me, this one gets high marks for
+  its light, flavorful fare and welcoming feel. In the end, it's a reliable pick
+  that balances fun vibes with honest, enjoyable eats, making it worth a try for
+  anyone in the mood for Japanese flavors.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: {}
 payment_options:
   acceptsCreditCards: true
@@ -379,8 +415,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Cozy, low-key restaurant serving sushi, noodles & other traditional Japanese
   fare.
 

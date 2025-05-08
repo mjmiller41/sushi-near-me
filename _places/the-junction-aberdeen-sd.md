@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "The Junction"
+title: The Junction
 permalink: /south-dakota/aberdeen/the-junction.html
 stateAbbr: SD
 stateName: South Dakota
 cityName: Aberdeen
 seo:
-  name: "The Junction"
-  type: Restaurant
-  links: null
-description: "The Junction serves delicious sushi in Aberdeen, South Dakota. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://thejunctionaberdeen.com/
 place_id: ChIJkw4sbeFE0lIRHzafY7Yb7as
 photos:
   - name: >-
@@ -170,8 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x52d244e16d2c0e93:0xabed1bb6639f361f!10e5
 primary_type: Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: false
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 19
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 19
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 19
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 19
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 19
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 14
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 7:00 PM'
+    - 'Tuesday: 11:00 AM – 7:00 PM'
+    - 'Wednesday: 11:00 AM – 7:00 PM'
+    - 'Thursday: 11:00 AM – 7:00 PM'
+    - 'Friday: 11:00 AM – 7:00 PM'
+    - 'Saturday: 11:00 AM – 2:00 PM'
+    - 'Sunday: Closed'
+  nextOpenTime: '2025-05-05T16:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +234,53 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (605) 262-4400
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.4'
+rating_count: 184
+website: https://thejunctionaberdeen.com/
+description: >-
+  Discover The Junction in Aberdeen, SD$$$The Junction in Aberdeen, SD, stands
+  out as a welcoming health-food restaurant that combines cozy ambiance with a
+  menu featuring fresh salads, sandwiches, sushi, and baked goods, making it a
+  go-to spot for those seeking nutritious yet flavorful meals. This
+  establishment emphasizes accessibility, with features like wheelchair-friendly
+  parking and entrances that ensure everyone can enjoy its offerings without
+  hassle. Patrons appreciate the variety of options, including satisfying sushi
+  choices that cater to anyone looking for Japanese-inspired dishes in the area.
+  The restaurant's focus on quality ingredients and thoughtful preparation adds
+  to its appeal, creating an inviting atmosphere for casual dining. Whether
+  you're exploring sushi restaurants nearby or simply wanting a healthy bite,
+  The Junction delivers a balanced experience that highlights local flavors.
+generative_summary: >-
+  Discover The Junction in Aberdeen, SD$$$The Junction in Aberdeen, SD, stands
+  out as a welcoming health-food restaurant that combines cozy ambiance with a
+  menu featuring fresh salads, sandwiches, sushi, and baked goods, making it a
+  go-to spot for those seeking nutritious yet flavorful meals. This
+  establishment emphasizes accessibility, with features like wheelchair-friendly
+  parking and entrances that ensure everyone can enjoy its offerings without
+  hassle. Patrons appreciate the variety of options, including satisfying sushi
+  choices that cater to anyone looking for Japanese-inspired dishes in the area.
+  The restaurant's focus on quality ingredients and thoughtful preparation adds
+  to its appeal, creating an inviting atmosphere for casual dining. Whether
+  you're exploring sushi restaurants nearby or simply wanting a healthy bite,
+  The Junction delivers a balanced experience that highlights local flavors.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Think of The Junction$$$From the high ratings, it seems many
+  people find The Junction to be a reliable choice for tasty, health-conscious
+  eats, with the sushi and fresh options standing out as crowd favorites. Folks
+  often mention the solid flavors and variety, noting that the meals feel both
+  satisfying and well-prepared without any major letdowns. While some feedback
+  touches on portion sizes or wait times, the overall vibe is positive, with
+  diners appreciating the welcoming setup and accessibility features. If you're
+  on the hunt for top-rated sushi spots nearby, this place generally gets nods
+  for its approachable style and consistent quality. All in all, it's clear that
+  visitors leave feeling content, making it a solid pick for anyone craving a
+  casual meal in the neighborhood.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +306,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

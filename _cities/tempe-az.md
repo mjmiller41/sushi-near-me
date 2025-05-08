@@ -5,4 +5,5 @@ permalink: /arizona/tempe/
 stateAbbr: AZ
 stateName: Arizona
 cityName: Tempe
+
 ---

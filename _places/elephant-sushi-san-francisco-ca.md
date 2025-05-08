@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Elephant Sushi"
+title: Elephant Sushi
 permalink: /california/san-francisco/elephant-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
 seo:
-  name: "Elephant Sushi"
-  type: Restaurant
-  links: null
-description: "Elephant Sushi serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://elephantsushi.com/
 place_id: ChIJcVyMiSmBhYARK9hpjwu_JcQ
 photos:
   - name: >-
@@ -169,22 +167,192 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80858129898c5c71:0xc425bf0b8f69d82b!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 5:00 – 9:00 PM'
+    - 'Tuesday: 5:00 – 9:00 PM'
+    - 'Wednesday: 5:00 – 9:00 PM'
+    - 'Thursday: 5:00 – 9:00 PM'
+    - 'Friday: 5:00 – 9:30 PM'
+    - 'Saturday: 5:00 – 9:30 PM'
+    - 'Sunday: 5:00 – 9:00 PM'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
-phone: null
+  - openNow: false
+    periods:
+      - open:
+          day: 0
+          hour: 17
+          minute: 0
+        close:
+          day: 0
+          hour: 21
+          minute: 0
+      - open:
+          day: 1
+          hour: 17
+          minute: 0
+        close:
+          day: 1
+          hour: 21
+          minute: 0
+      - open:
+          day: 2
+          hour: 17
+          minute: 0
+        close:
+          day: 2
+          hour: 21
+          minute: 0
+      - open:
+          day: 3
+          hour: 17
+          minute: 0
+        close:
+          day: 3
+          hour: 21
+          minute: 0
+      - open:
+          day: 4
+          hour: 17
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 30
+      - open:
+          day: 5
+          hour: 17
+          minute: 0
+        close:
+          day: 5
+          hour: 21
+          minute: 30
+      - open:
+          day: 6
+          hour: 17
+          minute: 0
+        close:
+          day: 6
+          hour: 21
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 5:00 – 9:00 PM'
+      - 'Tuesday: 5:00 – 9:00 PM'
+      - 'Wednesday: 5:00 – 9:00 PM'
+      - 'Thursday: 5:00 – 9:30 PM'
+      - 'Friday: 5:00 – 9:30 PM'
+      - 'Saturday: 5:00 – 9:30 PM'
+      - 'Sunday: 5:00 – 9:00 PM'
+    secondaryHoursType: DINNER
+    nextOpenTime: '2025-05-04T00:00:00Z'
+phone: (415) 400-4018
 price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+price_range: $50 &ndash; $100
+rating: '4.5'
+rating_count: 189
+website: https://elephantsushi.com/
+description: >-
+  Discover Elephant Sushi in San Francisco, CA$$$Nestled in the heart of San
+  Francisco, CA, Elephant Sushi stands out as a trendy Japanese eatery renowned
+  for its expertly crafted sushi offerings that draw in locals and visitors
+  alike. This spot in the vibrant Hayes Valley neighborhood combines fresh,
+  high-quality ingredients with a modern twist on traditional flavors, making it
+  a go-to choice for anyone searching for authentic sushi experiences nearby.
+  The restaurant boasts accessible features like wheelchair-friendly entrances
+  and seating, ensuring a welcoming atmosphere for all diners. Operating in the
+  evenings, it provides a cozy setting perfect for enjoying meticulously
+  prepared rolls and Japanese specialties, ideal for those exploring top-rated
+  sushi options in the area. With its inviting ambiance and focus on quality,
+  Elephant Sushi offers a memorable dining adventure that captures the essence
+  of San Francisco's diverse culinary scene.
+generative_summary: >-
+  Discover Elephant Sushi in San Francisco, CA$$$Nestled in the heart of San
+  Francisco, CA, Elephant Sushi stands out as a trendy Japanese eatery renowned
+  for its expertly crafted sushi offerings that draw in locals and visitors
+  alike. This spot in the vibrant Hayes Valley neighborhood combines fresh,
+  high-quality ingredients with a modern twist on traditional flavors, making it
+  a go-to choice for anyone searching for authentic sushi experiences nearby.
+  The restaurant boasts accessible features like wheelchair-friendly entrances
+  and seating, ensuring a welcoming atmosphere for all diners. Operating in the
+  evenings, it provides a cozy setting perfect for enjoying meticulously
+  prepared rolls and Japanese specialties, ideal for those exploring top-rated
+  sushi options in the area. With its inviting ambiance and focus on quality,
+  Elephant Sushi offers a memorable dining adventure that captures the essence
+  of San Francisco's diverse culinary scene.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying About This Sushi Favorite$$$Folks who stop by this
+  San Francisco sushi spot often rave about the fresh flavors and creative
+  presentations that make every meal feel special, helping it earn its solid
+  reputation among local favorites. Many appreciate the attentive service and
+  cozy vibe, which add to the overall enjoyment without overwhelming the
+  spotlight on the food itself. While some mention occasional waits during peak
+  times, the general consensus highlights the value for the price, especially
+  for groups looking to savor standout dishes in a relaxed setting. Overall,
+  it's clear that diners find this place a reliable pick for quality Japanese
+  cuisine, with plenty of positive nods to the variety that keeps people coming
+  back for more. If you're on the hunt for great sushi nearby, the feedback
+  suggests it's worth checking out for a satisfying and flavorful experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +378,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

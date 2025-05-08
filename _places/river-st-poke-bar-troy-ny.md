@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "River St. Poke Bar"
+title: River St. Poke Bar
 permalink: /new-york/troy/river-st-poke-bar.html
 stateAbbr: NY
 stateName: New York
 cityName: Troy
 seo:
-  name: "River St. Poke Bar"
-  type: Restaurant
+  type: restaurant
   links: http://www.riverstpokebar.com/
-description: "River St. Poke Bar serves delicious sushi in Troy, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJHSwMBSwP3okRM5gk_7AqJYQ
 photos:
   - name: >-
@@ -169,7 +167,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89de0f2c050c2c1d:0x84252ab0ff249833!10e5
 primary_type: American Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -177,14 +225,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:00 PM'
     - 'Saturday: 11:00 AM – 9:00 PM'
     - 'Sunday: 11:00 AM – 8:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 9:00 PM'
-    - 'Saturday: 11:00 AM – 9:00 PM'
-    - 'Sunday: 11:00 AM – 8:00 PM'
+  nextCloseTime: '2025-05-04T01:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,9 +237,47 @@ phone: (518) 874-1058
 price_level: null
 price_range: $10 &ndash; $20
 rating: '4.6'
-rating_count: 0
+rating_count: 55
 website: http://www.riverstpokebar.com/
+description: >-
+  Discover River St. Poke Bar in Troy, NY$$$River St. Poke Bar in Troy, NY,
+  stands out as a laid-back spot specializing in Hawaiian-inspired bowls packed
+  with fresh seafood and vibrant vegetables. This eatery caters to a variety of
+  preferences with thoughtful options like vegan and gluten-free choices, making
+  it a welcoming choice for diverse diners seeking healthy, flavorful meals. The
+  accessible features, such as wheelchair-friendly parking and seating, enhance
+  the overall experience for everyone looking for convenient Japanese-style
+  places near me. With its inviting atmosphere and focus on quality ingredients,
+  it's an ideal stop for those exploring fresh seafood options in the area.
+  Operating hours accommodate busy schedules, ensuring you can enjoy a quick,
+  satisfying meal without the hassle.
+generative_summary: >-
+  Discover River St. Poke Bar in Troy, NY$$$River St. Poke Bar in Troy, NY,
+  stands out as a laid-back spot specializing in Hawaiian-inspired bowls packed
+  with fresh seafood and vibrant vegetables. This eatery caters to a variety of
+  preferences with thoughtful options like vegan and gluten-free choices, making
+  it a welcoming choice for diverse diners seeking healthy, flavorful meals. The
+  accessible features, such as wheelchair-friendly parking and seating, enhance
+  the overall experience for everyone looking for convenient Japanese-style
+  places near me. With its inviting atmosphere and focus on quality ingredients,
+  it's an ideal stop for those exploring fresh seafood options in the area.
+  Operating hours accommodate busy schedules, ensuring you can enjoy a quick,
+  satisfying meal without the hassle.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Customer Feedback$$$Folks often rave about the standout food at
+  this poke bar, praising its freshness and delicious flavors that keep
+  customers coming back for more. Many highlight the super convenient ordering
+  process, which feels tailored for a relaxed, low-key vibe, making it easy to
+  grab a meal on the go. While the overall experience leans positive, some note
+  it's a solid pick for anyone hunting for top-rated sushi alternatives near me,
+  with consistent mentions of generous portions and variety. It's clear that the
+  focus on quality ingredients creates a reliably enjoyable spot, though a few
+  suggest checking for any preferences to ensure it fits just right. All in all,
+  this place delivers a fresh and fun dining option that honestly hits the mark
+  for casual eaters in the neighborhood.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -224,7 +303,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

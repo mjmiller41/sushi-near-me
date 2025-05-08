@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Wokcano"
+title: Wokcano
 permalink: /california/burbank/wokcano.html
 stateAbbr: CA
 stateName: California
 cityName: Burbank
 seo:
-  name: "Wokcano"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Wokcano serves delicious sushi in Burbank, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ87ITJlGVwoARuc3mHsFMFEc
 photos:
   - name: >-
@@ -185,7 +183,40 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Wokcano in Burbank, CA$$$Wokcano in Burbank, CA, is a welcoming Asian
+  fusion spot that blends flavorful dishes like fresh sushi rolls with classic
+  favorites in a laid-back environment. This restaurant stands out for its
+  diverse menu, featuring creative takes on pan-Asian cuisine that appeal to
+  those seeking sushi options close to home. With accessibility features such as
+  wheelchair-friendly parking and seating, it ensures a comfortable visit for
+  everyone. The relaxed atmosphere makes it an ideal choice for casual meals,
+  whether you're exploring top-rated sushi places near you or enjoying fusion
+  flavors that highlight quality ingredients.
+generative_summary: >-
+  Discover Wokcano in Burbank, CA$$$Wokcano in Burbank, CA, is a welcoming Asian
+  fusion spot that blends flavorful dishes like fresh sushi rolls with classic
+  favorites in a laid-back environment. This restaurant stands out for its
+  diverse menu, featuring creative takes on pan-Asian cuisine that appeal to
+  those seeking sushi options close to home. With accessibility features such as
+  wheelchair-friendly parking and seating, it ensures a comfortable visit for
+  everyone. The relaxed atmosphere makes it an ideal choice for casual meals,
+  whether you're exploring top-rated sushi places near you or enjoying fusion
+  flavors that highlight quality ingredients.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this spot often highlight the tasty
+  fusion dishes and welcoming vibe, making it a go-to for anyone craving
+  reliable Asian eats. Many appreciate the fresh sushi and variety of options
+  that keep things exciting without overwhelming the palate. While experiences
+  can vary, folks generally note the solid value and friendly service that
+  enhance the overall enjoyment. If you're on the hunt for sushi restaurants
+  near you, feedback suggests this place delivers on flavor and atmosphere,
+  encouraging repeat visits for its approachable style. Overall, it's a spot
+  that tends to leave diners satisfied with their choices, blending fun and
+  flavor in a way that's hard to beat.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +242,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

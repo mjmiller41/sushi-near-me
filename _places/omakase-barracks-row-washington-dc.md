@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Omakase @ Barracks Row"
+title: Omakase @ Barracks Row
 permalink: /district-of-columbia/washington/omakase-barracks-row.html
 stateAbbr: DC
 stateName: District of Columbia
 cityName: Washington
 seo:
-  name: "Omakase @ Barracks Row"
-  type: Restaurant
+  type: restaurant
   links: https://www.omakasedc.com/
-description: "Omakase @ Barracks Row serves delicious sushi in Washington, District of Columbia. Try fresh Japanese dishes for a great dining experience. Available for, and dinner."
 place_id: ChIJFZO8ACO5t4kRZPCSdzahTs4
 photos:
   - name: >-
@@ -172,12 +170,52 @@ price_range: null
 rating: '4.8'
 rating_count: 0
 website: https://www.omakasedc.com/
+description: >-
+  Discover Omakase in Washington, DC$$$Omakase @ Barracks Row in Washington, DC,
+  stands out as a premier sushi destination in the bustling Capitol Hill area,
+  offering an inviting atmosphere for those craving authentic Japanese cuisine.
+  This spot highlights fresh ingredients and thoughtful service, creating an
+  enjoyable dining experience with options for reservations and a selection of
+  beer and wine to enhance your meal. Visitors can appreciate the cozy setting,
+  perfect for savoring expertly prepared dishes that emphasize quality and
+  flavor. Additionally, convenient amenities like restrooms add to the overall
+  comfort, making it a go-to choice for anyone exploring top sushi restaurants
+  nearby. Whether you're searching for sushi places near me or simply looking to
+  enjoy a relaxed evening, this location delivers a memorable blend of tradition
+  and taste.
+generative_summary: >-
+  Discover Omakase in Washington, DC$$$Omakase @ Barracks Row in Washington, DC,
+  stands out as a premier sushi destination in the bustling Capitol Hill area,
+  offering an inviting atmosphere for those craving authentic Japanese cuisine.
+  This spot highlights fresh ingredients and thoughtful service, creating an
+  enjoyable dining experience with options for reservations and a selection of
+  beer and wine to enhance your meal. Visitors can appreciate the cozy setting,
+  perfect for savoring expertly prepared dishes that emphasize quality and
+  flavor. Additionally, convenient amenities like restrooms add to the overall
+  comfort, making it a go-to choice for anyone exploring top sushi restaurants
+  nearby. Whether you're searching for sushi places near me or simply looking to
+  enjoy a relaxed evening, this location delivers a memorable blend of tradition
+  and taste.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - ChdDSUhNMG9nS0VJQ0FnTURBemZ6RGlnRRAB
   - ChdDSUhNMG9nS0VJQ0FnTURRLXJlQXB3RRAB
   - ChZDSUhNMG9nS0VJQ0FnTURncC1fNk9REAE
   - ChdDSUhNMG9nS0VJQ0FnSUR2NG82Ui1nRRAB
   - ChZDSUhNMG9nS0VJQ0FnSUQzMmFmd2ZREAE
+review_summary: >-
+  What Visitors Are Buzzing About$$$Folks who dine at this sushi spot often rave
+  about the exceptional quality of the food, noting how the fresh flavors and
+  creative presentations make every bite worthwhile. Many mention the attentive
+  service and welcoming vibe that elevate the overall experience, turning a
+  simple meal into something special. With a high rating reflecting consistent
+  satisfaction, people frequently highlight the great value and variety in the
+  menu, ideal for those seeking top-rated sushi in a lively neighborhood. It's
+  common to hear praise for the seamless reservations and drink pairings that
+  complement the dishes, adding to the fun and relaxed atmosphere. Overall, if
+  you're on the hunt for sushi restaurants near me, this place comes through
+  with solid vibes and delicious options that keep diners coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeStreetParking: true
   paidStreetParking: true
@@ -208,7 +246,7 @@ serves_lunch: null
 serves_vegetarian_food: false
 serves_wine: true
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

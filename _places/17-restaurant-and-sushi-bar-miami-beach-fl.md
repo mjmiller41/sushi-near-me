@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "17 Restaurant and Sushi Bar"
+title: 17 Restaurant and Sushi Bar
 permalink: /florida/miami-beach/17-restaurant-and-sushi-bar.html
 stateAbbr: FL
 stateName: Florida
 cityName: Miami Beach
 seo:
-  name: "17 Restaurant and Sushi Bar"
-  type: Restaurant
+  type: restaurant
   links: https://17restaurant.com/
-description: "Kosher go-to featuring an eclectic menu of sushi & rustic Italian fare in simple, bright environs. 17 Restaurant and Sushi Bar serves delicious sushi in Miami Beach, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJC4EJc4e02YgRsrTV2vNkhaQ
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 0
 website: https://17restaurant.com/
+description: >-
+  Explore 17 Restaurant and Sushi Bar in Miami Beach$$$17 Restaurant and Sushi
+  Bar in Miami Beach, FL, stands out as a kosher-friendly destination blending
+  fresh sushi with rustic Italian flavors in a bright and inviting setting. This
+  spot offers an eclectic menu featuring creative rolls and hearty pasta dishes
+  that highlight quality ingredients and thoughtful preparation, making it ideal
+  for those seeking diverse dining options. With outdoor seating available,
+  visitors can enjoy their meals in a relaxed atmosphere perfect for casual
+  outings or group gatherings. The establishment emphasizes accessibility with
+  features like wheelchair-friendly entrances and parking, enhancing the overall
+  experience. It's a great choice for anyone looking for top-rated sushi options
+  in the area, combining culinary variety with a welcoming vibe.
+generative_summary: >-
+  Explore 17 Restaurant and Sushi Bar in Miami Beach$$$17 Restaurant and Sushi
+  Bar in Miami Beach, FL, stands out as a kosher-friendly destination blending
+  fresh sushi with rustic Italian flavors in a bright and inviting setting. This
+  spot offers an eclectic menu featuring creative rolls and hearty pasta dishes
+  that highlight quality ingredients and thoughtful preparation, making it ideal
+  for those seeking diverse dining options. With outdoor seating available,
+  visitors can enjoy their meals in a relaxed atmosphere perfect for casual
+  outings or group gatherings. The establishment emphasizes accessibility with
+  features like wheelchair-friendly entrances and parking, enhancing the overall
+  experience. It's a great choice for anyone looking for top-rated sushi options
+  in the area, combining culinary variety with a welcoming vibe.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJC4EJc4e02YgRsrTV2vNkhaQ/reviews/ChZDSUhNMG9nS0VJQ0FnTURBMl9qTGRREAE
@@ -344,6 +367,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNfdHI2OHdRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNfdHI2OHdRRRAB!2m1!1s0x88d9b4877309810b:0xa48564f3dad5b4b2
+review_summary: >-
+  Insights from Recent Reviews$$$Folks rave about the delicious food at this
+  sushi spot, with highlights including flavorful rolls, pasta dishes, and
+  desserts that leave a lasting impression. Many appreciate the generous
+  portions and reasonable pricing, making it a solid pick for a satisfying meal
+  without breaking the bank. The service stands out as friendly and attentive,
+  contributing to a pleasant atmosphere whether dining indoors or outside. While
+  some note that wait times can vary, the overall experience remains enjoyable
+  and worth the visit for groups or families. If you're hunting for the best
+  sushi near me, this place often comes through with a mix of tasty options and
+  a cozy feel that keeps people coming back.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -376,8 +411,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Kosher go-to featuring an eclectic menu of sushi & rustic Italian fare in
   simple, bright environs.
 

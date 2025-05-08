@@ -5,4 +5,5 @@ permalink: /california/rocklin/
 stateAbbr: CA
 stateName: California
 cityName: Rocklin
+
 ---

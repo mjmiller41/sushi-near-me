@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Tao"
+title: Sushi Tao
 permalink: /california/arcata/sushi-tao.html
 stateAbbr: CA
 stateName: California
 cityName: Arcata
 seo:
-  name: "Sushi Tao"
-  type: Restaurant
+  type: restaurant
   links: https://sushitaotogo.com/
-description: "Sushi Tao serves delicious sushi in Arcata, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ0TQKaRNX0VQRtTr9z-EY35I
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x54d15713690a34d1:0x92df18e1cffd3ab5!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 12
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 12
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 12
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 12
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 12:00 – 9:30 PM'
     - 'Tuesday: Closed'
     - 'Wednesday: 12:00 – 9:30 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 12:00 – 9:30 PM'
     - 'Saturday: 12:00 – 9:30 PM'
     - 'Sunday: 12:00 – 9:30 PM'
-  current:
-    - 'Monday: 12:00 – 9:30 PM'
-    - 'Tuesday: Closed'
-    - 'Wednesday: 12:00 – 9:30 PM'
-    - 'Thursday: 12:00 – 9:30 PM'
-    - 'Friday: 12:00 – 9:30 PM'
-    - 'Saturday: 12:00 – 9:30 PM'
-    - 'Sunday: 12:00 – 9:30 PM'
+  nextCloseTime: '2025-05-04T04:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +238,286 @@ phone: (707) 826-1988
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.4'
-rating_count: 0
+rating_count: 378
 website: https://sushitaotogo.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Explore Sushi Tao in Arcata, CA$$$Sushi Tao in Arcata, CA, stands out as a
+  welcoming Japanese eatery offering fresh sushi and Asian-inspired dishes that
+  cater to a variety of tastes. This spot emphasizes accessibility with features
+  like wheelchair-friendly parking and entrances, making it easy for everyone to
+  enjoy their meal. Patrons can savor a range of vegetarian and gluten-free
+  options alongside classic rolls, all prepared with high-quality ingredients in
+  a casual atmosphere. The restaurant's moderate pricing and convenient hours
+  add to its appeal for those seeking sushi places near me, with generous
+  portions that highlight its commitment to satisfying diners. Open most days
+  from noon until evening, it's a reliable choice for anyone exploring top-rated
+  sushi in the area.
+generative_summary: >-
+  Explore Sushi Tao in Arcata, CA$$$Sushi Tao in Arcata, CA, stands out as a
+  welcoming Japanese eatery offering fresh sushi and Asian-inspired dishes that
+  cater to a variety of tastes. This spot emphasizes accessibility with features
+  like wheelchair-friendly parking and entrances, making it easy for everyone to
+  enjoy their meal. Patrons can savor a range of vegetarian and gluten-free
+  options alongside classic rolls, all prepared with high-quality ingredients in
+  a casual atmosphere. The restaurant's moderate pricing and convenient hours
+  add to its appeal for those seeking sushi places near me, with generous
+  portions that highlight its commitment to satisfying diners. Open most days
+  from noon until evening, it's a reliable choice for anyone exploring top-rated
+  sushi in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ0TQKaRNX0VQRtTr9z-EY35I/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ3Z05pc1N3EAE
+    relativePublishTimeDescription: 8 months ago
+    rating: 5
+    text:
+      text: >-
+        Super tasty off the beaten path sushi place in Arcata. It’s a mom n pop
+        shop atmosphere but the food is fine dining style. We both got a roll
+        with salmon in it, can’t remember the names but they were both
+        delicious. The Miso soup, tempura veggies and edamame are all bomb too.
+        Made a mistake of ordering three sakis, they came in a nice size bottle
+        with more than enough for the three of us. Portions are generous and the
+        food is fresh. Got the seaweed salad this trip and it was great, nice
+        roasted sesame flavor. This is now our favorite place to get sushi in
+        Arcata
+      languageCode: en
+    originalText:
+      text: >-
+        Super tasty off the beaten path sushi place in Arcata. It’s a mom n pop
+        shop atmosphere but the food is fine dining style. We both got a roll
+        with salmon in it, can’t remember the names but they were both
+        delicious. The Miso soup, tempura veggies and edamame are all bomb too.
+        Made a mistake of ordering three sakis, they came in a nice size bottle
+        with more than enough for the three of us. Portions are generous and the
+        food is fresh. Got the seaweed salad this trip and it was great, nice
+        roasted sesame flavor. This is now our favorite place to get sushi in
+        Arcata
+      languageCode: en
+    authorAttribution:
+      displayName: Amy Smith
+      uri: https://www.google.com/maps/contrib/111909304914298445870/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXWJcrgMm368a5qi2hFfiGWf3b6oai7RjB79xjjBh9rJ6pPHTQ=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-08-19T21:46:58.178392Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQ3Z05pc1N3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQ3Z05pc1N3EAE!2m1!1s0x54d15713690a34d1:0x92df18e1cffd3ab5
+  - name: >-
+      places/ChIJ0TQKaRNX0VQRtTr9z-EY35I/reviews/ChZDSUhNMG9nS0VJQ0FnSUN2MjllWUJREAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 4
+    text:
+      text: >-
+        The sushi is good and it comes out fast, at least it did for me this
+        time! Lots of options!
+
+
+        I especially enjoyed the sushirito and the Klamath rolls!
+      languageCode: en
+    originalText:
+      text: >-
+        The sushi is good and it comes out fast, at least it did for me this
+        time! Lots of options!
+
+
+        I especially enjoyed the sushirito and the Klamath rolls!
+      languageCode: en
+    authorAttribution:
+      displayName: Colton Dixon
+      uri: https://www.google.com/maps/contrib/103975255836985746614/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjV6TKxE7oGZCwS9Hc8fYmLbisOftO2z3YZWBaHoWTcoJk2V4vAlvA=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-12-15T02:43:54.511618Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN2MjllWUJREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN2MjllWUJREAE!2m1!1s0x54d15713690a34d1:0x92df18e1cffd3ab5
+  - name: >-
+      places/ChIJ0TQKaRNX0VQRtTr9z-EY35I/reviews/ChZDSUhNMG9nS0VJQ0FnSURIcEw2WFVnEAE
+    relativePublishTimeDescription: 7 months ago
+    rating: 2
+    text:
+      text: >-
+        4 person meal, we ordered two pots of green tea. They charged 15$
+        dollars for two small pots. When we brought this up they said oh its
+        3$/person not per pot. (even with 3$/person we were overcharged). The
+        waitress got very angry and defensive when we brought it up and told us
+        "I gave you a discount". We informed her that even 3$/cup is
+        overcharging and that the sushi restaurant right down the street charges
+        1$/pot. Inside the pot you can see 1 measly bag of green tea, so
+        regardless of the number of teabags you are actually charged by the
+        number of people drinking the pot, how does that make sense ? Also the
+        tea is not even on the menu so we unknowingly consented to this
+        outrageous price. Regardless of the price of tea, the waitress was very
+        rude, loud, defensive, and confrontational. As we were signing our
+        receipts she came back and broached the subject all over again insisting
+        that it's not her policy it's not her fault and that we can go to the
+        sushi spot next time if we don't like the prices.
+
+        My husband and I used to say this was our favorite sushi spot in town.
+        We loved the mom and pop vibe and peaceful environment. This waitress
+        has changed the whole atmosphere. She is loud, inattentive, and rude;
+        the opposite of what a Japanese restaurant normally strives for.
+      languageCode: en
+    originalText:
+      text: >-
+        4 person meal, we ordered two pots of green tea. They charged 15$
+        dollars for two small pots. When we brought this up they said oh its
+        3$/person not per pot. (even with 3$/person we were overcharged). The
+        waitress got very angry and defensive when we brought it up and told us
+        "I gave you a discount". We informed her that even 3$/cup is
+        overcharging and that the sushi restaurant right down the street charges
+        1$/pot. Inside the pot you can see 1 measly bag of green tea, so
+        regardless of the number of teabags you are actually charged by the
+        number of people drinking the pot, how does that make sense ? Also the
+        tea is not even on the menu so we unknowingly consented to this
+        outrageous price. Regardless of the price of tea, the waitress was very
+        rude, loud, defensive, and confrontational. As we were signing our
+        receipts she came back and broached the subject all over again insisting
+        that it's not her policy it's not her fault and that we can go to the
+        sushi spot next time if we don't like the prices.
+
+        My husband and I used to say this was our favorite sushi spot in town.
+        We loved the mom and pop vibe and peaceful environment. This waitress
+        has changed the whole atmosphere. She is loud, inattentive, and rude;
+        the opposite of what a Japanese restaurant normally strives for.
+      languageCode: en
+    authorAttribution:
+      displayName: Grace Easterbrook
+      uri: https://www.google.com/maps/contrib/114118971190289968293/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXpV0vNzqC0JCN72yT1jsA7mf7TyVQ3_zh2tOrA-AlSuuAnJ_oK=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-09-13T04:01:55.740937Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURIcEw2WFVnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURIcEw2WFVnEAE!2m1!1s0x54d15713690a34d1:0x92df18e1cffd3ab5
+  - name: >-
+      places/ChIJ0TQKaRNX0VQRtTr9z-EY35I/reviews/ChdDSUhNMG9nS0VJQ0FnSURZcnZHd3BBRRAB
+    relativePublishTimeDescription: 5 years ago
+    rating: 5
+    text:
+      text: >-
+        This food was so good! I took my mom here for mother's day. There was
+        hardly anyone there because it was still pretty early. We got seated
+        right away and our server was super cool & mellow but on top of his
+        waiter game.
+
+        We ordered the tempura basket and got it in like 5 minutes the tempura
+        was perfect. Light, hot, crispy and not greasy. The portion is huge it
+        can with yam, asparagus, onion, broccoli and shrimp, it was delicious.
+        So we went a little overboard but everything was bomb and in good we
+        went a little nuts. We had enough food for ourselves and took a bunch
+        over to my son-son at work. We had the golden dragon with avocado and it
+        was amazing! We also had the house special roll, the fire dragon roll
+        and the three fairy tales. Everything was fresh, bright, and clean
+        tasting.
+
+        I couldn't believe the total it was very reasonable. The restaurant is
+        clean, service is great, food is delicious. This is a 5 🌟 review.
+      languageCode: en
+    originalText:
+      text: >-
+        This food was so good! I took my mom here for mother's day. There was
+        hardly anyone there because it was still pretty early. We got seated
+        right away and our server was super cool & mellow but on top of his
+        waiter game.
+
+        We ordered the tempura basket and got it in like 5 minutes the tempura
+        was perfect. Light, hot, crispy and not greasy. The portion is huge it
+        can with yam, asparagus, onion, broccoli and shrimp, it was delicious.
+        So we went a little overboard but everything was bomb and in good we
+        went a little nuts. We had enough food for ourselves and took a bunch
+        over to my son-son at work. We had the golden dragon with avocado and it
+        was amazing! We also had the house special roll, the fire dragon roll
+        and the three fairy tales. Everything was fresh, bright, and clean
+        tasting.
+
+        I couldn't believe the total it was very reasonable. The restaurant is
+        clean, service is great, food is delicious. This is a 5 🌟 review.
+      languageCode: en
+    authorAttribution:
+      displayName: Megan Quinn
+      uri: https://www.google.com/maps/contrib/109126812488084173691/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVm6yGG0ZoBq52fAJKcwuWL6krfE7aIGIYn9aXHDqwpxg_Hwama=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2019-05-13T20:53:18.953118Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURZcnZHd3BBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURZcnZHd3BBRRAB!2m1!1s0x54d15713690a34d1:0x92df18e1cffd3ab5
+  - name: >-
+      places/ChIJ0TQKaRNX0VQRtTr9z-EY35I/reviews/ChZDSUhNMG9nS0VJQ0FnSURUdWZfV1dBEAE
+    relativePublishTimeDescription: 11 months ago
+    rating: 5
+    text:
+      text: >-
+        Pretty delicious rolls, affordable pricing, good service. Exceeded my
+        expectation for a sushi place in a small town.
+      languageCode: en
+    originalText:
+      text: >-
+        Pretty delicious rolls, affordable pricing, good service. Exceeded my
+        expectation for a sushi place in a small town.
+      languageCode: en
+    authorAttribution:
+      displayName: Terry Lou (TL)
+      uri: https://www.google.com/maps/contrib/112919517008935603314/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUUu6d94S1szWiywVcvkjKhLHc0WFWUnm3vw8WiqVacSXbYVKrAow=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-05-26T02:20:11.361924Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURUdWZfV1dBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURUdWZfV1dBEAE!2m1!1s0x54d15713690a34d1:0x92df18e1cffd3ab5
+review_summary: >-
+  Customer Feedback on Sushi Tao$$$Folks generally enjoy the fresh and flavorful
+  sushi rolls at this spot, with many highlighting the generous portions and
+  quick service that make it a go-to for casual meals. While most experiences
+  praise the variety of options like tasty tempura and affordable pricing, a few
+  mentions note occasional inconsistencies in service or costs that could use
+  some smoothing out. Overall, the vibe remains positive, with diners
+  appreciating the welcoming environment and solid selections that keep them
+  coming back for more Japanese fare close to home. If you're on the hunt for
+  sushi restaurants near me, this place often delivers on taste and value,
+  making it a solid pick for groups or families. In the end, the high ratings
+  reflect a mostly upbeat experience, encouraging visitors to try it for
+  themselves with an open mind.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
 serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_cocktails: false
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

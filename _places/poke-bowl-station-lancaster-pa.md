@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Poke Bowl Station"
+title: Poke Bowl Station
 permalink: /pennsylvania/lancaster/poke-bowl-station.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Lancaster
 seo:
-  name: "Poke Bowl Station"
-  type: Restaurant
-  links: null
-description: "Poke Bowl Station serves delicious sushi in Lancaster, Pennsylvania. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.pokebowlstationpa.com/
 place_id: ChIJI5eZ3dUlxokRWUaNP1NxhDc
 photos:
   - name: >-
@@ -170,8 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c625d5dd999723:0x378471533f8d4659!10e5
 primary_type: American Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 9:00 PM'
+    - 'Wednesday: Closed'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 9:00 PM'
+    - 'Saturday: 11:00 AM – 9:00 PM'
+    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T01:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +234,50 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
+phone: (717) 584-6860
 price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+price_range: $10 &ndash; $20
+rating: '4.8'
+rating_count: 74
+website: https://www.pokebowlstationpa.com/
+description: >-
+  Discover Poke Bowl Station in Lancaster, PA$$$Nestled in Lancaster, PA, Poke
+  Bowl Station stands out as a casual eatery offering customizable poke bowls
+  that cater to health-conscious diners seeking fresh and vibrant meal options.
+  This spot emphasizes build-your-own creations with a variety of proteins,
+  toppings, and sauces, making it a go-to for those exploring Japanese-inspired
+  dishes close to home. The menu extends beyond bowls to include wholesome
+  alternatives and refreshing boba teas, perfect for a quick and satisfying
+  meal. With convenient hours and accessibility features, it's designed for easy
+  visits, appealing to anyone in the area looking for top-rated, healthy dining
+  experiences. Its welcoming atmosphere adds to the appeal, making it a solid
+  choice for locals hunting for flavorful, personalized eats nearby.
+generative_summary: >-
+  Discover Poke Bowl Station in Lancaster, PA$$$Nestled in Lancaster, PA, Poke
+  Bowl Station stands out as a casual eatery offering customizable poke bowls
+  that cater to health-conscious diners seeking fresh and vibrant meal options.
+  This spot emphasizes build-your-own creations with a variety of proteins,
+  toppings, and sauces, making it a go-to for those exploring Japanese-inspired
+  dishes close to home. The menu extends beyond bowls to include wholesome
+  alternatives and refreshing boba teas, perfect for a quick and satisfying
+  meal. With convenient hours and accessibility features, it's designed for easy
+  visits, appealing to anyone in the area looking for top-rated, healthy dining
+  experiences. Its welcoming atmosphere adds to the appeal, making it a solid
+  choice for locals hunting for flavorful, personalized eats nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Raving About$$$Visitors often praise Poke Bowl Station for
+  its fresh and versatile poke bowls, where you can mix and match toppings and
+  proteins to suit your tastes, creating a truly personalized meal. Folks
+  appreciate the friendly team that helps guide choices, ensuring everyone
+  leaves satisfied with their order. The clean and inviting vibe of the place
+  makes it a comfortable spot to grab a bite, with extras like fried dumplings
+  adding a nice variety to the menu. Overall, it's clear that the focus on
+  quality ingredients and a welcoming environment keeps people coming back for
+  more. If you're in the mood for a casual, healthy outing, this spot delivers
+  on flavor and service without any major hiccups.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +303,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Waraji Japanese Restaurant"
+title: Waraji Japanese Restaurant
 permalink: /north-carolina/raleigh/waraji-japanese-restaurant.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Raleigh
 seo:
-  name: "Waraji Japanese Restaurant"
-  type: Restaurant
+  type: restaurant
   links: http://www.warajijapaneserestaurant.com/
-description: "Waraji Japanese Restaurant serves delicious sushi in Raleigh, North Carolina. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJkWDhFP32rIkRlpLTdf1yVNI
 photos:
   - name: >-
@@ -170,7 +168,121 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89acf6fd14e16091:0xd25472fd75d39296!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 15
+        minute: 0
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 14
+        minute: 0
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 15
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
     - 'Tuesday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
     - 'Wednesday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
@@ -178,14 +290,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 2:00 PM, 5:00 – 9:30 PM'
     - 'Saturday: 11:30 AM – 3:00 PM, 5:00 – 9:30 PM'
     - 'Sunday: 12:00 – 3:00 PM, 5:00 – 9:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
-    - 'Tuesday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
-    - 'Wednesday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
-    - 'Thursday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
-    - 'Friday: 11:30 AM – 2:00 PM, 5:00 – 9:30 PM'
-    - 'Saturday: 11:30 AM – 3:00 PM, 5:00 – 9:30 PM'
-    - 'Sunday: 12:00 – 3:00 PM, 5:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T01:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +302,48 @@ phone: (919) 783-1883
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.5'
-rating_count: 0
+rating_count: 1795
 website: http://www.warajijapaneserestaurant.com/
+description: >-
+  Discover Waraji in Raleigh, NC$$$Waraji Japanese Restaurant in Raleigh, NC,
+  stands out as a top choice for those seeking authentic sushi and Japanese
+  cuisine in a refined setting. The restaurant features an elegant atmosphere
+  with a dedicated sushi bar, where fresh rolls and traditional dishes are
+  expertly prepared, drawing in locals and visitors alike. Accessibility is a
+  key highlight, with options like wheelchair-accessible parking and seating
+  that make it welcoming for everyone. Operating with convenient hours including
+  lunch and dinner services throughout the week, it's ideal for casual meals or
+  special occasions. Whether you're exploring sushi options nearby or looking
+  for Japanese-inspired dining, this spot combines quality ingredients with a
+  sophisticated ambiance to create a memorable experience.
+generative_summary: >-
+  Discover Waraji in Raleigh, NC$$$Waraji Japanese Restaurant in Raleigh, NC,
+  stands out as a top choice for those seeking authentic sushi and Japanese
+  cuisine in a refined setting. The restaurant features an elegant atmosphere
+  with a dedicated sushi bar, where fresh rolls and traditional dishes are
+  expertly prepared, drawing in locals and visitors alike. Accessibility is a
+  key highlight, with options like wheelchair-accessible parking and seating
+  that make it welcoming for everyone. Operating with convenient hours including
+  lunch and dinner services throughout the week, it's ideal for casual meals or
+  special occasions. Whether you're exploring sushi options nearby or looking
+  for Japanese-inspired dining, this spot combines quality ingredients with a
+  sophisticated ambiance to create a memorable experience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$From what people share about Waraji Japanese
+  Restaurant, the fresh sushi and flavorful Japanese dishes often steal the
+  show, making it a go-to for anyone craving reliable favorites in the area.
+  Many appreciate the welcoming vibe and solid service that keep things running
+  smoothly, helping it maintain its high marks among sushi spots. While some
+  note it's a bit on the pricier side, the overall value shines through in the
+  tasty selections and cozy atmosphere that encourage repeat visits. Folks
+  frequently mention the variety of options that cater to different tastes, from
+  classic rolls to heartier entrees, adding to its appeal for groups or solo
+  diners. All in all, it's clear this place continues to impress with its
+  consistent quality, making it a solid pick for anyone hunting for great sushi
+  experiences nearby.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +369,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

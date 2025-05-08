@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Vegan"
+title: Sushi Vegan
 permalink: /california/santa-monica/sushi-vegan.html
 stateAbbr: CA
 stateName: California
 cityName: Santa Monica
 seo:
-  name: "Sushi Vegan"
-  type: Restaurant
+  type: restaurant
   links: https://www.sushiveganca.com/?utm_source=gmb&utm_medium=website
-description: "Sushi Vegan serves delicious sushi in Santa Monica, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJqbNEGOu7woARSwjOCzcvgmE
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c2bbeb1844b3a9:0x61822f370bce084b!10e5
 primary_type: Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 4:30 – 9:30 PM'
     - 'Tuesday: 4:30 – 9:30 PM'
     - 'Wednesday: 4:30 – 9:30 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:30 PM'
     - 'Saturday: 11:00 AM – 9:30 PM'
     - 'Sunday: 11:00 AM – 9:30 PM'
-  current:
-    - 'Monday: 4:30 – 9:30 PM'
-    - 'Tuesday: 4:30 – 9:30 PM'
-    - 'Wednesday: 4:30 – 9:30 PM'
-    - 'Thursday: 4:30 – 9:30 PM'
-    - 'Friday: 11:00 AM – 9:30 PM'
-    - 'Saturday: 11:00 AM – 9:30 PM'
-    - 'Sunday: 11:00 AM – 9:30 PM'
+  nextCloseTime: '2025-05-04T04:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,234 @@ phone: (310) 310-3314
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.8'
-rating_count: 0
+rating_count: 89
 website: https://www.sushiveganca.com/?utm_source=gmb&utm_medium=website
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Sushi Vegan in Santa Monica, CA$$$In Santa Monica, CA, Sushi Vegan
+  stands out as a charming spot for plant-based Japanese-inspired dining,
+  featuring fresh rolls, ramen, and salads in a welcoming atmosphere. The
+  restaurant boasts a cute setting with outdoor seating options, making it ideal
+  for enjoying meals al fresco while soaking in the local vibe. Accessibility is
+  a key highlight, with wheelchair-friendly features throughout, ensuring
+  everyone can savor the experience. Operating with flexible hours including
+  evenings and weekends, it's a go-to for those seeking top-rated vegan options
+  in the area, complemented by moderate pricing that keeps things approachable.
+  This hidden gem near the coast delivers nutritious, flavorful dishes that
+  appeal to sushi enthusiasts looking for meat-free alternatives.
+generative_summary: >-
+  Discover Sushi Vegan in Santa Monica, CA$$$In Santa Monica, CA, Sushi Vegan
+  stands out as a charming spot for plant-based Japanese-inspired dining,
+  featuring fresh rolls, ramen, and salads in a welcoming atmosphere. The
+  restaurant boasts a cute setting with outdoor seating options, making it ideal
+  for enjoying meals al fresco while soaking in the local vibe. Accessibility is
+  a key highlight, with wheelchair-friendly features throughout, ensuring
+  everyone can savor the experience. Operating with flexible hours including
+  evenings and weekends, it's a go-to for those seeking top-rated vegan options
+  in the area, complemented by moderate pricing that keeps things approachable.
+  This hidden gem near the coast delivers nutritious, flavorful dishes that
+  appeal to sushi enthusiasts looking for meat-free alternatives.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJqbNEGOu7woARSwjOCzcvgmE/reviews/ChZDSUhNMG9nS0VJQ0FnSURyMzZlclh3EAE
+    relativePublishTimeDescription: 9 months ago
+    rating: 3
+    text:
+      text: >-
+        There are plenty of creative vegan sushi options here (which is a great
+        benefit), but the flavors didn't stand out as I anticipated. I was
+        hoping that flavors popped as you ate the food item, but that wasn't the
+        case. The rolls were a bit mild in flavor. The ingredients are fresh and
+        ripe. The service is quick, but the dining area is narrow and tight.
+        However, there is an outside seating option if you want or need the
+        space. It was clean and neat.
+      languageCode: en
+    originalText:
+      text: >-
+        There are plenty of creative vegan sushi options here (which is a great
+        benefit), but the flavors didn't stand out as I anticipated. I was
+        hoping that flavors popped as you ate the food item, but that wasn't the
+        case. The rolls were a bit mild in flavor. The ingredients are fresh and
+        ripe. The service is quick, but the dining area is narrow and tight.
+        However, there is an outside seating option if you want or need the
+        space. It was clean and neat.
+      languageCode: en
+    authorAttribution:
+      displayName: Daniel Castillo
+      uri: https://www.google.com/maps/contrib/105552357492334983279/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUNoQH5CO0VpgI8qXCYOQu3C-_IsAa23YYERHGX8XGe7nwijS-Q=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-07-21T18:49:19.541152Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURyMzZlclh3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURyMzZlclh3EAE!2m1!1s0x80c2bbeb1844b3a9:0x61822f370bce084b
+  - name: >-
+      places/ChIJqbNEGOu7woARSwjOCzcvgmE/reviews/ChdDSUhNMG9nS0VJQ0FnSUR2OTducC1RRRAB
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        Every roll we ordered was amazing, affordable, and the staff was very
+        friendly. There were many options to choose from and everything came out
+        perfectly. It was definitely just as good as, if not better than, sushi
+        that is not vegan.
+      languageCode: en
+    originalText:
+      text: >-
+        Every roll we ordered was amazing, affordable, and the staff was very
+        friendly. There were many options to choose from and everything came out
+        perfectly. It was definitely just as good as, if not better than, sushi
+        that is not vegan.
+      languageCode: en
+    authorAttribution:
+      displayName: Kat M
+      uri: https://www.google.com/maps/contrib/108202641429369895891/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLPtU2g3hxzSOH7-hop3Po5UizEJErsYnpk79AGqoYqBuBBXrA=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-12-25T04:38:30.522712Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR2OTducC1RRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR2OTducC1RRRAB!2m1!1s0x80c2bbeb1844b3a9:0x61822f370bce084b
+  - name: >-
+      places/ChIJqbNEGOu7woARSwjOCzcvgmE/reviews/ChZDSUhNMG9nS0VJQ0FnSUM3NktyNEdnEAE
+    relativePublishTimeDescription: 8 months ago
+    rating: 5
+    text:
+      text: >-
+        Bursting with flavor, this vegan sushi is wonderfully prepared with
+        every intention to provide nutrients and taste without boasting to be
+        “fake sushi”. I went right before closing after a long beach run, the
+        ingredients tasted fresh and I was very impressed with the large menu
+        options. I love that it is sit down cafeteria style, where there are two
+        small adjacent booths where you can choose vegan sushi or vegan Thai, 
+        if you’d like you could get one of each. It is good honest food served
+        at an affordable price. The portions are large and last well as takeout
+        and leftover items 5/5 would definitely recommend. My favorite so far is
+        the Aloha roll with pineapple topping. There is a large parking lot
+        right behind. It parking is very affordable at about a dollar an hour or
+        you can simply drive up a block or two and park in the neighborhood
+      languageCode: en
+    originalText:
+      text: >-
+        Bursting with flavor, this vegan sushi is wonderfully prepared with
+        every intention to provide nutrients and taste without boasting to be
+        “fake sushi”. I went right before closing after a long beach run, the
+        ingredients tasted fresh and I was very impressed with the large menu
+        options. I love that it is sit down cafeteria style, where there are two
+        small adjacent booths where you can choose vegan sushi or vegan Thai, 
+        if you’d like you could get one of each. It is good honest food served
+        at an affordable price. The portions are large and last well as takeout
+        and leftover items 5/5 would definitely recommend. My favorite so far is
+        the Aloha roll with pineapple topping. There is a large parking lot
+        right behind. It parking is very affordable at about a dollar an hour or
+        you can simply drive up a block or two and park in the neighborhood
+      languageCode: en
+    authorAttribution:
+      displayName: Jessica F
+      uri: https://www.google.com/maps/contrib/109553801680299436949/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUW9tWR75cI7_fTIGuaIIW__PLKVpv2tx2yIfJWliN4oHWZOls=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-08-12T03:51:29.331505Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUM3NktyNEdnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUM3NktyNEdnEAE!2m1!1s0x80c2bbeb1844b3a9:0x61822f370bce084b
+  - name: >-
+      places/ChIJqbNEGOu7woARSwjOCzcvgmE/reviews/ChZDSUhNMG9nS0VJQ0FnTUNvNjRPMlB3EAE
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        Very delicious food, loads of options to choose from and reasonably
+        priced. Didn't have to wait long for the food and there were indoor and
+        outdoor seating options.
+      languageCode: en
+    originalText:
+      text: >-
+        Very delicious food, loads of options to choose from and reasonably
+        priced. Didn't have to wait long for the food and there were indoor and
+        outdoor seating options.
+      languageCode: en
+    authorAttribution:
+      displayName: Jasmine Stanley-Ahmed
+      uri: https://www.google.com/maps/contrib/100495471526746113141/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWa-qIDBbZz4F679uMTj0GAvjJW3qoqr0h2BGALUqFmAYCdsPSCHA=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-04-20T03:00:40.417601Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNvNjRPMlB3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNvNjRPMlB3EAE!2m1!1s0x80c2bbeb1844b3a9:0x61822f370bce084b
+  - name: >-
+      places/ChIJqbNEGOu7woARSwjOCzcvgmE/reviews/ChdDSUhNMG9nS0VJQ0FnSUR2dXB6RjlBRRAB
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        This sushi place is freaking amazing, and I’m not even vegan. Their
+        Philly rolls are sooo good I’m definitely coming back
+      languageCode: en
+    originalText:
+      text: >-
+        This sushi place is freaking amazing, and I’m not even vegan. Their
+        Philly rolls are sooo good I’m definitely coming back
+      languageCode: en
+    authorAttribution:
+      displayName: Jerry Lin
+      uri: https://www.google.com/maps/contrib/100960689914956222125/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocK5foZbErqMnrPWENbVjmItfuHSsPD2FnMXEcd7FDrDBqACTg=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-12-19T19:46:55.837050Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR2dXB6RjlBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR2dXB6RjlBRRAB!2m1!1s0x80c2bbeb1844b3a9:0x61822f370bce084b
+review_summary: >-
+  What Customers Are Buzzing About$$$Folks rave about the tasty variety at this
+  spot, with plenty of creative rolls and options that keep things exciting and
+  satisfying for both vegans and non-vegans alike. Many highlight the fresh
+  ingredients and generous portions that make meals feel worthwhile without
+  breaking the bank, plus the quick service adds to the laid-back appeal. While
+  some note that flavors can be on the milder side, overall feedback leans
+  toward it being just as enjoyable as traditional sushi spots. The availability
+  of indoor and outdoor seating gets thumbs up for convenience, and diners
+  appreciate how well it handles takeout for those on the go. All in all, it's a
+  solid choice for anyone searching for reliable, budget-friendly sushi
+  experiences that deliver on taste and ease.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  paidStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
+curbside_pickup: false
+delivery: true
+dine_in: true
+good_for_children: true
 good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: true
 reservable: null
-restroom: null
-serves_beer: null
+restroom: true
+serves_beer: false
 serves_breakfast: null
 serves_brunch: null
-serves_cocktails: null
+serves_cocktails: false
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: false
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

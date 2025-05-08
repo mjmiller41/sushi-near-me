@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Zen & Izakaya"
+title: Sushi Zen & Izakaya
 permalink: /florida/sunny-isles-beach/sushi-zen-izakaya.html
 stateAbbr: FL
 stateName: Florida
 cityName: Sunny Isles Beach
 seo:
-  name: "Sushi Zen & Izakaya"
-  type: Restaurant
+  type: restaurant
   links: http://www.sushizenizakaya.com/
-description: "Sushi Zen & Izakaya serves delicious sushi in Sunny Isles Beach, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJqQ097eCs2YgRCI61kwalR4A
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $10 &ndash; $20
 rating: '4.7'
 rating_count: 0
 website: http://www.sushizenizakaya.com/
+description: >-
+  Explore Sushi Zen in Sunny Isles Beach, FL$$$Sushi Zen & Izakaya in Sunny
+  Isles Beach, FL, stands out as a popular spot for enjoying fresh Japanese
+  cuisine, featuring an array of creative rolls and appetizers that highlight
+  high-quality ingredients. The restaurant offers a relaxed atmosphere perfect
+  for casual gatherings, with flavorful dishes like refreshing sushi selections
+  and salads that blend diverse tastes to create a satisfying meal. Options for
+  beer and vegetarian choices make it easy to find something that fits various
+  preferences, while its convenient beachside location adds to the appeal for a
+  laid-back dining outing. Whether you're seeking top-rated sushi options or
+  exploring Japanese places near me, this venue delivers an enjoyable experience
+  with its focus on quality and variety.
+generative_summary: >-
+  Explore Sushi Zen in Sunny Isles Beach, FL$$$Sushi Zen & Izakaya in Sunny
+  Isles Beach, FL, stands out as a popular spot for enjoying fresh Japanese
+  cuisine, featuring an array of creative rolls and appetizers that highlight
+  high-quality ingredients. The restaurant offers a relaxed atmosphere perfect
+  for casual gatherings, with flavorful dishes like refreshing sushi selections
+  and salads that blend diverse tastes to create a satisfying meal. Options for
+  beer and vegetarian choices make it easy to find something that fits various
+  preferences, while its convenient beachside location adds to the appeal for a
+  laid-back dining outing. Whether you're seeking top-rated sushi options or
+  exploring Japanese places near me, this venue delivers an enjoyable experience
+  with its focus on quality and variety.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJqQ097eCs2YgRCI61kwalR4A/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfMXRXdzF3RRAB
@@ -398,6 +421,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNYOUw3NWV3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNYOUw3NWV3EAE!2m1!1s0x88d9ace0ed3d0da9:0x8047a50693b58e08
+review_summary: >-
+  Insights from Recent Feedback$$$Folks raving about Sushi Zen often highlight
+  the super fresh and tasty sushi rolls, along with quick and friendly service
+  that makes for a relaxed vibe during meals. Many appreciate the affordable
+  beer and unique salads that add a fun twist to the experience, making it a
+  solid pick for groups or casual solo visits. While one comment pointed out an
+  occasional inconsistency with certain dishes, the overall consensus leans
+  positive, with diners loving the flavorful combos and reasonable prices. If
+  you're hunting for the best sushi near me, this spot generally delivers a
+  welcoming feel that's worth trying for a satisfying bite. All in all, it's a
+  go-to choice for those craving reliable Japanese flavors without the fuss.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
 payment_options:
@@ -428,7 +463,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

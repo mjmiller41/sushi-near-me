@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Haha Sushi"
+title: Haha Sushi
 permalink: /california/santa-maria/haha-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Santa Maria
 seo:
-  name: "Haha Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://hahasushicatogo.com/
-description: "Haha Sushi serves delicious sushi in Santa Maria, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJa6dbtTMT7IARgJD_rmj-qvA
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80ec1333b55ba76b:0xf0aafe68aeff9080!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:00 PM'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:00 PM'
     - 'Saturday: 11:00 AM – 9:00 PM'
     - 'Sunday: 11:00 AM – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 9:00 PM'
-    - 'Saturday: 11:00 AM – 9:00 PM'
-    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,10 +245,42 @@ secondary_opening_hours:
 phone: (805) 937-1369
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
-rating: '4.0'
-rating_count: 0
+rating: '4.1'
+rating_count: 111
 website: https://hahasushicatogo.com/
+description: >-
+  About Haha Sushi in Santa Maria$$$Haha Sushi in Santa Maria, CA, delivers a
+  relaxed vibe perfect for savoring fresh Japanese flavors in a convenient
+  shopping center setting. This spot specializes in a range of sushi rolls and
+  classic dishes like teriyaki and seafood options, making it a go-to for those
+  seeking authentic Asian-inspired meals nearby. With accessibility features
+  such as wheelchair-friendly entrances and seating, it caters to a wide
+  audience looking for inclusive dining experiences. The moderate pricing and
+  daily hours from 11 AM to 9 PM add to its appeal as a reliable choice for
+  casual sushi enthusiasts in the area.
+generative_summary: >-
+  About Haha Sushi in Santa Maria$$$Haha Sushi in Santa Maria, CA, delivers a
+  relaxed vibe perfect for savoring fresh Japanese flavors in a convenient
+  shopping center setting. This spot specializes in a range of sushi rolls and
+  classic dishes like teriyaki and seafood options, making it a go-to for those
+  seeking authentic Asian-inspired meals nearby. With accessibility features
+  such as wheelchair-friendly entrances and seating, it caters to a wide
+  audience looking for inclusive dining experiences. The moderate pricing and
+  daily hours from 11 AM to 9 PM add to its appeal as a reliable choice for
+  casual sushi enthusiasts in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this Japanese eatery often rave about
+  the fresh sushi and flavorful teriyaki dishes that come with tasty tempura,
+  making it a solid pick for anyone craving reliable Asian fare. Many appreciate
+  the friendly service that helps make the meal feel welcoming and attentive,
+  along with the generous portions that offer great bang for your buck. While a
+  few folks mention the atmosphere might feel a bit dated, it doesn't overshadow
+  the overall enjoyable experience. All in all, it's a spot that delivers on
+  taste and value, ideal for those exploring local sushi options without any
+  major letdowns.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +306,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

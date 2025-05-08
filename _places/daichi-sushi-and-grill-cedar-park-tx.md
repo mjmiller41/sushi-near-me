@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Daichi Sushi and Grill"
+title: Daichi Sushi and Grill
 permalink: /texas/cedar-park/daichi-sushi-and-grill.html
 stateAbbr: TX
 stateName: Texas
 cityName: Cedar Park
 seo:
-  name: "Daichi Sushi and Grill"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Daichi Sushi and Grill serves delicious sushi in Cedar Park, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJSUi3rJotW4YRmBQaChc6vTc
 photos:
   - name: >-
@@ -170,7 +168,49 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x865b2d9aacb74849:0x37bd3a170a1a1498!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 0
+    - open:
+        day: 3
+        hour: 12
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 0
+    - open:
+        day: 4
+        hour: 12
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 0
+    - open:
+        day: 5
+        hour: 12
+        minute: 0
+      close:
+        day: 5
+        hour: 20
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 20
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: Closed'
     - 'Wednesday: 12:00 – 8:00 PM'
@@ -178,14 +218,7 @@ opening_hours:
     - 'Friday: 12:00 – 8:00 PM'
     - 'Saturday: 12:00 – 8:00 PM'
     - 'Sunday: 12:00 – 8:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: Closed'
-    - 'Wednesday: 12:00 – 8:00 PM'
-    - 'Thursday: 12:00 – 8:00 PM'
-    - 'Friday: 12:00 – 8:00 PM'
-    - 'Saturday: 12:00 – 8:00 PM'
-    - 'Sunday: 12:00 – 8:00 PM'
+  nextCloseTime: '2025-05-04T01:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,36 +229,257 @@ secondary_opening_hours:
 phone: (512) 249-0338
 price_level: null
 price_range: $10 &ndash; $20
-rating: '4.8'
-rating_count: 0
+rating: '4.7'
+rating_count: 151
 website: null
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Daichi Sushi and Grill in Cedar Park, TX$$$Daichi Sushi and Grill in
+  Cedar Park, TX, provides a relaxed spot for enjoying authentic Japanese
+  flavors in a convenient strip mall setting. This eatery specializes in fresh
+  sushi rolls and classic dishes that capture the essence of traditional
+  cuisine, making it a go-to option for anyone craving quality Japanese dining
+  nearby. With thoughtful accessibility features and a welcoming atmosphere,
+  it's ideal for casual meals with friends or family, offering a blend of lunch
+  specials and evening options that deliver great value. The menu highlights a
+  variety of familiar plates prepared with care, ensuring a satisfying
+  experience for those exploring local Japanese spots.
+generative_summary: >-
+  Discover Daichi Sushi and Grill in Cedar Park, TX$$$Daichi Sushi and Grill in
+  Cedar Park, TX, provides a relaxed spot for enjoying authentic Japanese
+  flavors in a convenient strip mall setting. This eatery specializes in fresh
+  sushi rolls and classic dishes that capture the essence of traditional
+  cuisine, making it a go-to option for anyone craving quality Japanese dining
+  nearby. With thoughtful accessibility features and a welcoming atmosphere,
+  it's ideal for casual meals with friends or family, offering a blend of lunch
+  specials and evening options that deliver great value. The menu highlights a
+  variety of familiar plates prepared with care, ensuring a satisfying
+  experience for those exploring local Japanese spots.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJSUi3rJotW4YRmBQaChc6vTc/reviews/ChZDSUhNMG9nS0VJQ0FnSUN2bHFlOVZBEAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        Their food is very nice, and reminded me of the food I ate in Japan, so
+        I come here once in a while with friends and family.
+
+        Prices are decent, service is good, and their seafood is nice.
+
+        They have a lunch menu that's great value, and a dinner menu that serves
+        izakaya style dishes.
+
+        I will keep coming back here for more.
+      languageCode: en
+    originalText:
+      text: >-
+        Their food is very nice, and reminded me of the food I ate in Japan, so
+        I come here once in a while with friends and family.
+
+        Prices are decent, service is good, and their seafood is nice.
+
+        They have a lunch menu that's great value, and a dinner menu that serves
+        izakaya style dishes.
+
+        I will keep coming back here for more.
+      languageCode: en
+    authorAttribution:
+      displayName: Chung Chow
+      uri: https://www.google.com/maps/contrib/107840806809320794716/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjW9UyUcnkuWGVfEAhpBDevwya4BOuH93ZjKQOfkDd3NL8Tsf-U=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-12-10T18:31:12.193699Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN2bHFlOVZBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN2bHFlOVZBEAE!2m1!1s0x865b2d9aacb74849:0x37bd3a170a1a1498
+  - name: >-
+      places/ChIJSUi3rJotW4YRmBQaChc6vTc/reviews/ChdDSUhNMG9nS0VJQ0FnSUQzd092ZGl3RRAB
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        This restaurant is exactly what you call a neighborhood hidden gem.
+        Small place huge true authentic menu and reasonable price!!
+
+
+        You can tell this is not an Americanized Japanese restaurant with the
+        menu and the service! Not every roll has mayo and deep fried and they
+        even have full grilled squid and ginger pork.
+      languageCode: en
+    originalText:
+      text: >-
+        This restaurant is exactly what you call a neighborhood hidden gem.
+        Small place huge true authentic menu and reasonable price!!
+
+
+        You can tell this is not an Americanized Japanese restaurant with the
+        menu and the service! Not every roll has mayo and deep fried and they
+        even have full grilled squid and ginger pork.
+      languageCode: en
+    authorAttribution:
+      displayName: Liang Zou
+      uri: https://www.google.com/maps/contrib/113395568827064756594/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocI6NWS5snbcJhnWSf6lAmfbUGw8_2A0K2t-ONO8eRdvkl5T0w=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-11-11T03:02:03.552333Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQzd092ZGl3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQzd092ZGl3RRAB!2m1!1s0x865b2d9aacb74849:0x37bd3a170a1a1498
+  - name: >-
+      places/ChIJSUi3rJotW4YRmBQaChc6vTc/reviews/ChZDSUhNMG9nS0VJQ0FnSUN2ZzduaU5REAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        Chirashi don is good with a decent price. Tofu is good too. Squid is ok
+        tho. Can give it a try if you haven't been here.
+      languageCode: en
+    originalText:
+      text: >-
+        Chirashi don is good with a decent price. Tofu is good too. Squid is ok
+        tho. Can give it a try if you haven't been here.
+      languageCode: en
+    authorAttribution:
+      displayName: Kevin C
+      uri: https://www.google.com/maps/contrib/102029491307634934433/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXMYSit-owM-Bo6LNiYjCjU4J0LhXbVnv_IDaB77z3dk-0a3T2C=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-12-14T02:25:48.999342Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN2ZzduaU5REAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN2ZzduaU5REAE!2m1!1s0x865b2d9aacb74849:0x37bd3a170a1a1498
+  - name: >-
+      places/ChIJSUi3rJotW4YRmBQaChc6vTc/reviews/ChZDSUhNMG9nS0VJQ0FnSURfall5QVN3EAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        This might be one of the better sushi places we’ve been to. We don’t
+        usually go back to places when we’re traveling, but this one we did. It
+        was that good.
+
+
+        A fun and previously unknown appetizer (to us) was the broiled crab
+        stuffed avocado topped with panko. We ordered it both times.
+
+
+        The lunch bento box was excellent - the mackerel was perfectly cooked
+        and the sashimi was super fresh. The spicy tuna and spicy salmon sushi
+        were as good as I’ve had.
+
+
+        Service was excellent. It was a little cool in there - we kept our light
+        jackets on while eating and noticed others did as well.
+      languageCode: en
+    originalText:
+      text: >-
+        This might be one of the better sushi places we’ve been to. We don’t
+        usually go back to places when we’re traveling, but this one we did. It
+        was that good.
+
+
+        A fun and previously unknown appetizer (to us) was the broiled crab
+        stuffed avocado topped with panko. We ordered it both times.
+
+
+        The lunch bento box was excellent - the mackerel was perfectly cooked
+        and the sashimi was super fresh. The spicy tuna and spicy salmon sushi
+        were as good as I’ve had.
+
+
+        Service was excellent. It was a little cool in there - we kept our light
+        jackets on while eating and noticed others did as well.
+      languageCode: en
+    authorAttribution:
+      displayName: TheCherry RVLife
+      uri: https://www.google.com/maps/contrib/109984067829785659257/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVdD3wkD3LAf8Femwrd1z0vrG1hMJgxuFuqEPiqJU5Q_N0xI5M=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-01-26T03:16:39.397786Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURfall5QVN3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURfall5QVN3EAE!2m1!1s0x865b2d9aacb74849:0x37bd3a170a1a1498
+  - name: >-
+      places/ChIJSUi3rJotW4YRmBQaChc6vTc/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3cUlLanhRRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        I’ve been coming here for 10+ years and can confidently say it is one of
+        the best Japanese restaurants in the Austin area (and I’ve had a ton of
+        sushi in Austin!) The quality is so consistent and the service is
+        exceptional. There is a lot of variety on the menu and the sushi is so
+        fresh and tasty. Highly recommend!
+      languageCode: en
+    originalText:
+      text: >-
+        I’ve been coming here for 10+ years and can confidently say it is one of
+        the best Japanese restaurants in the Austin area (and I’ve had a ton of
+        sushi in Austin!) The quality is so consistent and the service is
+        exceptional. There is a lot of variety on the menu and the sushi is so
+        fresh and tasty. Highly recommend!
+      languageCode: en
+    authorAttribution:
+      displayName: Stephanie
+      uri: https://www.google.com/maps/contrib/117094454374569780894/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJOkpdcwAquiK_hiXu7hTkcV2HYiyBT63tDs8Xmm7kwKOY7sQ=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-03-23T05:01:00.459614Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUR3cUlLanhRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUR3cUlLanhRRRAB!2m1!1s0x865b2d9aacb74849:0x37bd3a170a1a1498
+review_summary: >-
+  What Customers Are Saying About the Experience$$$Folks frequently praise the
+  authentic vibe at this spot, noting how the menu goes beyond typical American
+  twists to deliver genuinely fresh and flavorful Japanese dishes. Many
+  highlight the excellent value, especially with lunch deals that make it easy
+  to enjoy high-quality sushi without breaking the bank. Service stands out as
+  consistently attentive and efficient, adding to the overall enjoyable
+  atmosphere that keeps people coming back. While some mention minor preferences
+  like temperature adjustments, the general consensus is that the food's
+  freshness and variety make it a solid choice for casual outings. Overall, it's
+  clear this place hits the mark for anyone seeking reliable, tasty options in
+  the area.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
 menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
 serves_breakfast: null
-serves_brunch: null
+serves_brunch: false
 serves_cocktails: null
 serves_coffee: null
-serves_dinner: null
+serves_dinner: true
 serves_dessert: null
-serves_lunch: null
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

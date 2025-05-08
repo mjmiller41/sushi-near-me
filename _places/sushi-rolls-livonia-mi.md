@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi & Rolls"
+title: Sushi & Rolls
 permalink: /michigan/livonia/sushi-rolls.html
 stateAbbr: MI
 stateName: Michigan
 cityName: Livonia
 seo:
-  name: "Sushi & Rolls"
-  type: Restaurant
+  type: restaurant
   links: http://www.mimealtime.com/restaurant/sushiandrolls
-description: "Down-to-earth sushi bar offering sashimi, clever rolls & other Japanese eats in a narrow space. Sushi & Rolls serves delicious sushi in Livonia, Michigan. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ78M3ApCtJIgRkvJPIlsfJ90
 photos:
   - name: >-
@@ -185,6 +183,35 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 0
 website: http://www.mimealtime.com/restaurant/sushiandrolls
+description: >-
+  Explore Sushi & Rolls in Livonia, MI$$$Sushi & Rolls in Livonia, MI, stands
+  out as a cozy Japanese eatery specializing in fresh sashimi and inventive
+  rolls that blend traditional flavors with creative twists, making it a go-to
+  spot for sushi enthusiasts in the area. The restaurant offers a
+  straightforward, welcoming atmosphere in a compact space, perfect for enjoying
+  affordable Japanese dishes that highlight quality ingredients and thoughtful
+  preparation. With accessible features like wheelchair-friendly entrances and
+  parking, it's designed to accommodate a wide range of diners seeking authentic
+  sushi experiences. Pricing is moderate, providing great value for meals that
+  include a variety of rolls and other Japanese favorites, ideal for those
+  searching for reliable sushi restaurants nearby. This hidden gem in Michigan
+  delivers a satisfying dining option that balances simplicity with flavorful
+  execution, appealing to anyone craving top-rated sushi spots close to home.
+generative_summary: >-
+  Explore Sushi & Rolls in Livonia, MI$$$Sushi & Rolls in Livonia, MI, stands
+  out as a cozy Japanese eatery specializing in fresh sashimi and inventive
+  rolls that blend traditional flavors with creative twists, making it a go-to
+  spot for sushi enthusiasts in the area. The restaurant offers a
+  straightforward, welcoming atmosphere in a compact space, perfect for enjoying
+  affordable Japanese dishes that highlight quality ingredients and thoughtful
+  preparation. With accessible features like wheelchair-friendly entrances and
+  parking, it's designed to accommodate a wide range of diners seeking authentic
+  sushi experiences. Pricing is moderate, providing great value for meals that
+  include a variety of rolls and other Japanese favorites, ideal for those
+  searching for reliable sushi restaurants nearby. This hidden gem in Michigan
+  delivers a satisfying dining option that balances simplicity with flavorful
+  execution, appealing to anyone craving top-rated sushi spots close to home.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ78M3ApCtJIgRkvJPIlsfJ90/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJMzl1cmFnEAE
@@ -410,6 +437,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNnOE9hb25nRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNnOE9hb25nRRAB!2m1!1s0x8824ad900237c3ef:0xdd271f5b224ff292
+review_summary: >-
+  Customer Feedback on Sushi & Rolls$$$Folks generally rave about the fresh and
+  flavorful sushi rolls at this spot, with many highlighting the quick service
+  and welcoming vibe that make it a solid choice for families or casual meals.
+  While most diners appreciate the good value and variety of options like
+  creative specials and bento boxes, a few mentions point to inconsistencies in
+  portion sizes that could use some tweaking. Overall, the friendly staff and
+  tasty dishes like tempura rolls keep the experience upbeat, encouraging repeat
+  visits for those exploring local sushi places. It's clear that the positives
+  outweigh any minor hiccups, painting a picture of a reliable go-to for anyone
+  in the mood for Japanese eats near Livonia. If you're on the hunt for
+  approachable sushi restaurants, this one often leaves customers satisfied and
+  eager to return for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -442,8 +483,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Down-to-earth sushi bar offering sashimi, clever rolls & other Japanese eats
   in a narrow space.
 

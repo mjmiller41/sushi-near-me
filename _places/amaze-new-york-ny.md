@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Amaze"
+title: Amaze
 permalink: /new-york/new-york/amaze.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "Amaze"
-  type: Restaurant
+  type: restaurant
   links: http://www.amazerestaurant.com/
-description: "Pan-Asian hub for creative sushi & sashimi bites with a simple bar & dimly lit atmosphere. Amaze serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ9cDQ-QJZwokRY1mXBDuFNag
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $10 &ndash; $20
 rating: '4.1'
 rating_count: 0
 website: http://www.amazerestaurant.com/
+description: >-
+  Discover Amaze in New York, NY$$$Amaze in New York, NY, stands out as a casual
+  Asian fusion destination offering a blend of creative sushi and familiar
+  flavors in a welcoming setting. This spot delights with fresh sushi rolls,
+  teriyaki dishes, and a selection of beverages that pair perfectly with meals,
+  making it a go-to for those seeking flavorful Asian-inspired dining options
+  nearby. The dimly lit atmosphere creates an intimate vibe ideal for quick
+  lunches or relaxed evenings, complemented by thoughtful accessibility features
+  like wheelchair-friendly entrances. Patrons appreciate the affordable pricing
+  and variety of options, from inventive bites to classic fare, positioning it
+  as a solid choice for anyone exploring top-rated Asian eateries in the city.
+generative_summary: >-
+  Discover Amaze in New York, NY$$$Amaze in New York, NY, stands out as a casual
+  Asian fusion destination offering a blend of creative sushi and familiar
+  flavors in a welcoming setting. This spot delights with fresh sushi rolls,
+  teriyaki dishes, and a selection of beverages that pair perfectly with meals,
+  making it a go-to for those seeking flavorful Asian-inspired dining options
+  nearby. The dimly lit atmosphere creates an intimate vibe ideal for quick
+  lunches or relaxed evenings, complemented by thoughtful accessibility features
+  like wheelchair-friendly entrances. Patrons appreciate the affordable pricing
+  and variety of options, from inventive bites to classic fare, positioning it
+  as a solid choice for anyone exploring top-rated Asian eateries in the city.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ9cDQ-QJZwokRY1mXBDuFNag/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJa3ZESVZnEAE
@@ -340,6 +361,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUREOFByWkpnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUREOFByWkpnEAE!2m1!1s0x89c25902f9d0c0f5:0xa835853b04975963
+review_summary: >-
+  What Customers Are Saying$$$Visitors to Amaze often highlight the tasty sushi
+  and great deals, with many enjoying the unique flavors and generous portions
+  that make for a satisfying meal on a budget. While some appreciate the fast
+  service and fresh ingredients that keep things lively and efficient, others
+  note that certain dishes can vary in quality, offering a mixed experience
+  depending on what you order. Overall, the atmosphere and value shine through
+  in feedback, making it a convenient spot for casual get-togethers or solo
+  dining without the fuss. Though a few mentions point to inconsistencies like
+  less welcoming service on busier days, the positives around affordability and
+  variety help balance things out for an enjoyable visit. If you're in the mood
+  for straightforward Asian fusion, it's worth checking out for its approachable
+  vibe and reliable hits.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: false
   paidParkingLot: false
@@ -373,8 +408,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Pan-Asian hub for creative sushi & sashimi bites with a simple bar & dimly lit
   atmosphere.
 

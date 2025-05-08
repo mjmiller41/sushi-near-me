@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Matsuhisa Denver"
+title: Matsuhisa Denver
 permalink: /colorado/denver/matsuhisa-denver.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Denver
 seo:
-  name: "Matsuhisa Denver"
-  type: Restaurant
+  type: restaurant
   links: https://www.matsuhisarestaurants.com/home/denver
-description: "Matsuhisa Denver serves delicious sushi in Denver, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJq6r-G5p-bIcRvEcBmWPjIoo
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x876c7e9a1bfeaaab:0x8a22e363990147bc!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 5:00 – 9:00 PM'
     - 'Tuesday: 5:00 – 9:00 PM'
     - 'Wednesday: 5:00 – 9:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 5:00 – 9:30 PM'
     - 'Saturday: 5:00 – 9:30 PM'
     - 'Sunday: 5:00 – 9:00 PM'
-  current:
-    - 'Monday: 5:00 – 9:00 PM'
-    - 'Tuesday: 5:00 – 9:00 PM'
-    - 'Wednesday: 5:00 – 9:00 PM'
-    - 'Thursday: 5:00 – 9:00 PM'
-    - 'Friday: 5:00 – 9:30 PM'
-    - 'Saturday: 5:00 – 9:30 PM'
-    - 'Sunday: 5:00 – 9:00 PM'
+  nextOpenTime: '2025-05-03T23:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,331 @@ phone: (303) 329-6628
 price_level: PRICE_LEVEL_VERY_EXPENSIVE
 price_range: $100 &ndash; & up
 rating: '4.6'
-rating_count: 0
+rating_count: 1126
 website: https://www.matsuhisarestaurants.com/home/denver
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Experience Matsuhisa Denver$$$Matsuhisa Denver in Denver, CO, stands out as a
+  premier Japanese eatery renowned for its fresh sushi and innovative small
+  plates that capture the essence of authentic flavors. This spot delights
+  visitors with a menu featuring expertly prepared seafood dishes, sake
+  selections, and creative cocktails, all set in an understated yet elegant
+  atmosphere that enhances the dining experience. Accessibility is a key
+  highlight, with features like wheelchair-accessible entrances and seating
+  making it welcoming for all guests seeking top-rated sushi options nearby.
+  Evening hours from 5 PM offer a perfect setting for those exploring sushi
+  restaurants in the area, where the focus on high-quality ingredients ensures
+  every bite is memorable. Whether you're in the mood for classic rolls or
+  unique specials, this Denver gem provides an inviting space for enjoying
+  Japanese cuisine close to home.
+generative_summary: >-
+  Experience Matsuhisa Denver$$$Matsuhisa Denver in Denver, CO, stands out as a
+  premier Japanese eatery renowned for its fresh sushi and innovative small
+  plates that capture the essence of authentic flavors. This spot delights
+  visitors with a menu featuring expertly prepared seafood dishes, sake
+  selections, and creative cocktails, all set in an understated yet elegant
+  atmosphere that enhances the dining experience. Accessibility is a key
+  highlight, with features like wheelchair-accessible entrances and seating
+  making it welcoming for all guests seeking top-rated sushi options nearby.
+  Evening hours from 5 PM offer a perfect setting for those exploring sushi
+  restaurants in the area, where the focus on high-quality ingredients ensures
+  every bite is memorable. Whether you're in the mood for classic rolls or
+  unique specials, this Denver gem provides an inviting space for enjoying
+  Japanese cuisine close to home.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJq6r-G5p-bIcRvEcBmWPjIoo/reviews/ChZDSUhNMG9nS0VJQ0FnTURvZ3ByZ1pnEAE
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        We were originally heading to Matsuhisa in Vail. When that didn't pan
+        out, we decided to head to Matsuhisa in Denver. Very glad we did. From
+        the moment we walked in, we were greeted very friendly, and lead to our
+        table. We started off with their light and palate enriching mixed
+        greens, with their own Matsuhisa dressing. We also added the cucumber
+        sunomono, which again, was perfect, and exactly what we were looking for
+        to start the meal. Then a series of Daily Special appetizers came; the
+        lobster ceviche, the tri-color cauliflower with jalapeno and serrano
+        sauce, and the spicy tuna with crispy rice. I could eat just the
+        appetizers for dinner! All the items were just as scrumptious as you see
+        in the attached pictures! If I only had a larger stomach to eat each of
+        them twice! For the main course, we did order the Sushi Combo; wanting
+        to try a little of everything. They did  not disappoint! The sushi is
+        among the freshest I've ever had, and it just equates the deliciousness
+        to the start of the meal. We finished off with their Miso-Butterscotch
+        Shaved Ice. I have to admit, I hesitated on the pairing of the sauce,
+        and was glad I got passed that original thought, and had it! It was the
+        perfect ending to the meal. It was light, sweet, but not too sweet - as
+        it was balanced by the miso, and just perfect. Rianna, our server, was
+        perfect in timing, every time, every plate. Not too early, not too late.
+        Every step of the course was meticulously timed, and it showed. I
+        absolutely enjoyed my experience at Matsuhisa in Denver, and glad that I
+        didn't have to trek to Vail to get the same!Thank you, Matsuhisa Denver,
+        for a fantastic experience! I'd definitely recommend to anyone seeking
+        sushi for the day. Try it out! You never know! Happy eating!
+      languageCode: en
+    originalText:
+      text: >-
+        We were originally heading to Matsuhisa in Vail. When that didn't pan
+        out, we decided to head to Matsuhisa in Denver. Very glad we did. From
+        the moment we walked in, we were greeted very friendly, and lead to our
+        table. We started off with their light and palate enriching mixed
+        greens, with their own Matsuhisa dressing. We also added the cucumber
+        sunomono, which again, was perfect, and exactly what we were looking for
+        to start the meal. Then a series of Daily Special appetizers came; the
+        lobster ceviche, the tri-color cauliflower with jalapeno and serrano
+        sauce, and the spicy tuna with crispy rice. I could eat just the
+        appetizers for dinner! All the items were just as scrumptious as you see
+        in the attached pictures! If I only had a larger stomach to eat each of
+        them twice! For the main course, we did order the Sushi Combo; wanting
+        to try a little of everything. They did  not disappoint! The sushi is
+        among the freshest I've ever had, and it just equates the deliciousness
+        to the start of the meal. We finished off with their Miso-Butterscotch
+        Shaved Ice. I have to admit, I hesitated on the pairing of the sauce,
+        and was glad I got passed that original thought, and had it! It was the
+        perfect ending to the meal. It was light, sweet, but not too sweet - as
+        it was balanced by the miso, and just perfect. Rianna, our server, was
+        perfect in timing, every time, every plate. Not too early, not too late.
+        Every step of the course was meticulously timed, and it showed. I
+        absolutely enjoyed my experience at Matsuhisa in Denver, and glad that I
+        didn't have to trek to Vail to get the same!Thank you, Matsuhisa Denver,
+        for a fantastic experience! I'd definitely recommend to anyone seeking
+        sushi for the day. Try it out! You never know! Happy eating!
+      languageCode: en
+    authorAttribution:
+      displayName: Shayao McF
+      uri: https://www.google.com/maps/contrib/106303602425536233941/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJoX9l5LsJIR8Y1K0WsGMa0-ZLDSDgpPzlaV8MCalCQttO2fQ=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-23T02:25:53.328797Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURvZ3ByZ1pnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURvZ3ByZ1pnEAE!2m1!1s0x876c7e9a1bfeaaab:0x8a22e363990147bc
+  - name: >-
+      places/ChIJq6r-G5p-bIcRvEcBmWPjIoo/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJMl9DaHBBRRAB
+    relativePublishTimeDescription: 4 weeks ago
+    rating: 5
+    text:
+      text: >-
+        This place was insane!! Easily one of the best meals I’ve had in Denver.
+        Yes, it’s definitely on the pricey side, but in my opinion, it’s worth
+        every penny. The ingredients were incredibly fresh and high quality, the
+        flavors were complex yet beautifully balanced, and the service was
+        flawless from start to finish. The restaurant itself is also beautifully
+        designed, giving high-end and sultry.
+
+
+        I’d go all the time if my wallet could keep up!
+      languageCode: en
+    originalText:
+      text: >-
+        This place was insane!! Easily one of the best meals I’ve had in Denver.
+        Yes, it’s definitely on the pricey side, but in my opinion, it’s worth
+        every penny. The ingredients were incredibly fresh and high quality, the
+        flavors were complex yet beautifully balanced, and the service was
+        flawless from start to finish. The restaurant itself is also beautifully
+        designed, giving high-end and sultry.
+
+
+        I’d go all the time if my wallet could keep up!
+      languageCode: en
+    authorAttribution:
+      displayName: Tiffany Chang
+      uri: https://www.google.com/maps/contrib/103098632295365205502/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjU3vOM_nLdr39We2OunKpAZ_gK3x_mFPz56h4ko6oog2LYKcv2xZg=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-04T21:47:37.272469Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNJMl9DaHBBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNJMl9DaHBBRRAB!2m1!1s0x876c7e9a1bfeaaab:0x8a22e363990147bc
+  - name: >-
+      places/ChIJq6r-G5p-bIcRvEcBmWPjIoo/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3b0xpUWF3EAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        We came in for the Omakase experience and it did not disappoint!
+        Everything was sublime. Our sushi chef Matsuh was amazing and our server
+        Jessica was absolutely incredible. Highly recommend this to anyone
+        looking for the best sushi experience Denver has to offer.
+      languageCode: en
+    originalText:
+      text: >-
+        We came in for the Omakase experience and it did not disappoint!
+        Everything was sublime. Our sushi chef Matsuh was amazing and our server
+        Jessica was absolutely incredible. Highly recommend this to anyone
+        looking for the best sushi experience Denver has to offer.
+      languageCode: en
+    authorAttribution:
+      displayName: Maximillian Alvarez
+      uri: https://www.google.com/maps/contrib/113338501458477259728/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLJCkSIrbfJ5EBxxL4veQ0EqcVig-AUML0EhU1gqL1yf3eDVA=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-03-22T15:18:34.069120Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUR3b0xpUWF3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUR3b0xpUWF3EAE!2m1!1s0x876c7e9a1bfeaaab:0x8a22e363990147bc
+  - name: >-
+      places/ChIJq6r-G5p-bIcRvEcBmWPjIoo/reviews/ChZDSUhNMG9nS0VJQ0FnTUNBcE4yX2JREAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 4
+    text:
+      text: >-
+        Probably the fanciest sushi 🍣 place at Denver. Front desk didnt work
+        perfectly, I we celebrated a birthday, and let them know. Needed to
+        remind again. And a compliment we got an extremely staled macaroon,
+        instead to put the candle on our dessert as I asked.  But overall great
+        experience, and wonderful wine list
+      languageCode: en
+    originalText:
+      text: >-
+        Probably the fanciest sushi 🍣 place at Denver. Front desk didnt work
+        perfectly, I we celebrated a birthday, and let them know. Needed to
+        remind again. And a compliment we got an extremely staled macaroon,
+        instead to put the candle on our dessert as I asked.  But overall great
+        experience, and wonderful wine list
+      languageCode: en
+    authorAttribution:
+      displayName: DIMA KING
+      uri: https://www.google.com/maps/contrib/105068824723049727526/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjV6VGsei5dwSPEATGzy0bPbU4tkOY7zW_i13DDGkwbKbSU3Wmg=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-01-29T17:34:33.588648Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNBcE4yX2JREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNBcE4yX2JREAE!2m1!1s0x876c7e9a1bfeaaab:0x8a22e363990147bc
+  - name: >-
+      places/ChIJq6r-G5p-bIcRvEcBmWPjIoo/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJOV82QjFBRRAB
+    relativePublishTimeDescription: 4 weeks ago
+    rating: 3
+    text:
+      text: >-
+        Been here twice. The first time was amazing, so I booked this restaurant
+        again for my birthday. However the second time was disappointing.
+
+        The hot dishes came out fast enough but between the hot dishes and our
+        large sushi order it was a wait of 40+ minutes.
+
+        This is a bit awkward to say but you know how sometimes someone talks to
+        you and accidentally lands a spittle on your face? It happened with our
+        sever so for the rest of the night I was anxious that some spit would
+        get on my food when they introduce the food.
+
+        What really made me realize I’m not coming back was the dessert. I got
+        the cherry blossom green tea tiramisu. The tiramisu came with two
+        macarons- a matcha and a chocolate one. The chocolate one came with a
+        hole on it (?) so i didn’t fully include it in the photo. The macarons
+        were super dry and flavorless (both flavors tasted the same)- they were
+        worse than grocery store macarons. In fact they taste like grocery store
+        macarons that have been out too long and expired. Husband took a bite
+        and was also surprised at how dry and flavorless they are - you cannot
+        distinguish any “chocolate” or “matcha” flavor.
+
+        The rest of the tiramisu was good.
+
+        Both times we spent around $400. At this price range I think it’s
+        reasonable to expect some level of care such as not getting old dry
+        macarons (one of which came with a hole in the center) . As the
+        finishing dish of the night that’s all we can remember and therefore
+        will be seeking another restaurant for future celebrations.
+      languageCode: en
+    originalText:
+      text: >-
+        Been here twice. The first time was amazing, so I booked this restaurant
+        again for my birthday. However the second time was disappointing.
+
+        The hot dishes came out fast enough but between the hot dishes and our
+        large sushi order it was a wait of 40+ minutes.
+
+        This is a bit awkward to say but you know how sometimes someone talks to
+        you and accidentally lands a spittle on your face? It happened with our
+        sever so for the rest of the night I was anxious that some spit would
+        get on my food when they introduce the food.
+
+        What really made me realize I’m not coming back was the dessert. I got
+        the cherry blossom green tea tiramisu. The tiramisu came with two
+        macarons- a matcha and a chocolate one. The chocolate one came with a
+        hole on it (?) so i didn’t fully include it in the photo. The macarons
+        were super dry and flavorless (both flavors tasted the same)- they were
+        worse than grocery store macarons. In fact they taste like grocery store
+        macarons that have been out too long and expired. Husband took a bite
+        and was also surprised at how dry and flavorless they are - you cannot
+        distinguish any “chocolate” or “matcha” flavor.
+
+        The rest of the tiramisu was good.
+
+        Both times we spent around $400. At this price range I think it’s
+        reasonable to expect some level of care such as not getting old dry
+        macarons (one of which came with a hole in the center) . As the
+        finishing dish of the night that’s all we can remember and therefore
+        will be seeking another restaurant for future celebrations.
+      languageCode: en
+    authorAttribution:
+      displayName: Ellie Liu
+      uri: https://www.google.com/maps/contrib/113476706416290832413/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLeJfq77_RYZAteDXBLDssLutM1-P-Izi9KYkP5aRLele4_KA=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-05T12:06:05.731070Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNJOV82QjFBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNJOV82QjFBRRAB!2m1!1s0x876c7e9a1bfeaaab:0x8a22e363990147bc
+review_summary: >-
+  Customer Feedback Highlights$$$Visitors to this sushi spot in Denver often
+  rave about the fresh and flavorful dishes, with many highlighting the
+  exceptional quality of seafood like black cod and rock shrimp tempura that
+  make every meal feel special. While most experiences are praised for the
+  attentive service and engaging omakase options that keep things exciting, a
+  few notes suggest occasional waits during busy evenings, though the overall
+  vibe remains enjoyable. Folks appreciate the extensive drink choices,
+  including sake and creative cocktails, which add to the fun atmosphere without
+  overwhelming the senses. Despite a couple of mentions about minor
+  inconsistencies in desserts, the general consensus leans positive, making it a
+  solid pick for anyone hunting for reliable sushi places nearby. If you're
+  craving top-rated Japanese eats, this location delivers a satisfying
+  experience that's worth checking out for its blend of taste and hospitality.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: false
+  paidParkingLot: false
+  valetParking: true
+  paidGarageParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+delivery: true
+dine_in: true
+good_for_children: false
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
+serves_coffee: true
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Acclaimed Japanese seafood & tasting menus by chef Nobu Matsuhisa prepared in
+  understated surrounds.
 
 ---

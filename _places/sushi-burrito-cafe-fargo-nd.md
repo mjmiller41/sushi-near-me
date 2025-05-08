@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Burrito Cafe"
+title: Sushi Burrito Cafe
 permalink: /north-dakota/fargo/sushi-burrito-cafe.html
 stateAbbr: ND
 stateName: North Dakota
 cityName: Fargo
 seo:
-  name: "Sushi Burrito Cafe"
-  type: Restaurant
+  type: restaurant
   links: https://sushi-burrito-and-thai.square.site/
-description: "Sushi Burrito Cafe serves delicious sushi in Fargo, North Dakota. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJd43pnVLJyFIRp26u36FTwqA
 photos:
   - name: >-
@@ -156,7 +154,7 @@ accessibility_options:
   wheelchairAccessibleEntrance: true
   wheelchairAccessibleRestroom: true
   wheelchairAccessibleSeating: true
-business_status: CLOSED_PERMANENTLY
+business_status: OPERATIONAL
 name: Sushi Burrito Cafe
 google_maps_links:
   directionsUri: >-
@@ -185,6 +183,33 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 0
 website: https://sushi-burrito-and-thai.square.site/
+description: >-
+  Discover Sushi Burrito Cafe in Fargo, ND$$$Sushi Burrito Cafe in Fargo, ND,
+  stands out as a vibrant spot blending fresh Japanese-inspired dishes with
+  modern twists, making it a go-to for sushi enthusiasts in the area. This
+  trendy cafe offers an array of creative options like poke bowls and bubble
+  tea, catering to those seeking flavorful, health-conscious meals with plenty
+  of vegan and vegetarian choices. Accessibility features such as
+  wheelchair-friendly entrances and seating add to the welcoming vibe, ensuring
+  everyone can enjoy the experience. The cafe's innovative approach to sushi
+  combines quality ingredients and variety, appealing to anyone searching for
+  top sushi restaurants near them. With its lively atmosphere and thoughtful
+  menu, it's an ideal destination for casual diners looking for sushi places in
+  Fargo.
+generative_summary: >-
+  Discover Sushi Burrito Cafe in Fargo, ND$$$Sushi Burrito Cafe in Fargo, ND,
+  stands out as a vibrant spot blending fresh Japanese-inspired dishes with
+  modern twists, making it a go-to for sushi enthusiasts in the area. This
+  trendy cafe offers an array of creative options like poke bowls and bubble
+  tea, catering to those seeking flavorful, health-conscious meals with plenty
+  of vegan and vegetarian choices. Accessibility features such as
+  wheelchair-friendly entrances and seating add to the welcoming vibe, ensuring
+  everyone can enjoy the experience. The cafe's innovative approach to sushi
+  combines quality ingredients and variety, appealing to anyone searching for
+  top sushi restaurants near them. With its lively atmosphere and thoughtful
+  menu, it's an ideal destination for casual diners looking for sushi places in
+  Fargo.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJd43pnVLJyFIRp26u36FTwqA/reviews/ChZDSUhNMG9nS0VJQ0FnSURIdDVfamRnEAE
@@ -390,6 +415,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNxMjRlUTZ3RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNxMjRlUTZ3RRAB!2m1!1s0x52c8c9529de98d77:0xa0c253a1dfae6ea7
+review_summary: >-
+  Insights from Visitor Experiences$$$Folks rave about the fresh flavors and
+  creative twists on classics like sushi burritos and poke bowls, often
+  highlighting the welcoming service and solid vegetarian selections that make
+  it a hit for diverse tastes. While most visitors appreciate the variety and
+  tasty beverages, a few mention that some dishes can be on the spicy side or
+  have occasional texture issues, but these don't overshadow the overall
+  enjoyment. It's clear that the cafe's commitment to customization keeps things
+  exciting for groups or solo diners searching for sushi near me. Overall, the
+  feedback leans positive, with many returning for the reliable quality and fun
+  vibe that positions it among the best sushi spots in the region. If you're in
+  the mood for a casual meal at Japanese-inspired eateries, this place delivers
+  a satisfying experience with room for everyone to find their favorite.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -422,7 +461,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

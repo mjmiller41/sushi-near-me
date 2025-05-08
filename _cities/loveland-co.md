@@ -5,4 +5,5 @@ permalink: /colorado/loveland/
 stateAbbr: CO
 stateName: Colorado
 cityName: Loveland
+
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Bottle Rocket Fine Food and Beverage"
+title: Bottle Rocket Fine Food and Beverage
 permalink: /georgia/atlanta/bottle-rocket-fine-food-and-beverage.html
 stateAbbr: GA
 stateName: Georgia
 cityName: Atlanta
 seo:
-  name: "Bottle Rocket Fine Food and Beverage"
-  type: Restaurant
+  type: restaurant
   links: http://www.bottlerocketatl.com/
-description: "Trendy hangout offering sushi & Japanese-American–fusion dishes, plus creative cocktails. Bottle Rocket Fine Food and Beverage serves delicious sushi in Atlanta, Georgia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, and dinner."
 place_id: ChIJJQEcinkD9YgRw46X2vrQ7rA
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: null
 rating: '4.5'
 rating_count: 0
 website: http://www.bottlerocketatl.com/
+description: >-
+  Discover Bottle Rocket in Atlanta, GA$$$Bottle Rocket Fine Food and Beverage
+  in Atlanta, GA, stands out as a vibrant spot where Japanese-inspired dishes
+  meet American comfort, offering a relaxed atmosphere for enjoying fresh sushi
+  and creative beverages. This establishment features a fusion of flavors
+  including inventive rolls and hearty options, complemented by a selection of
+  local brews that enhance the dining experience. With thoughtful accessibility
+  features and outdoor seating, it's designed for easy enjoyment in the heart of
+  Downtown Atlanta. Visitors often appreciate the blend of casual vibes and
+  quality ingredients, making it a go-to choice for those seeking sushi
+  restaurants in a lively urban setting.
+generative_summary: >-
+  Discover Bottle Rocket in Atlanta, GA$$$Bottle Rocket Fine Food and Beverage
+  in Atlanta, GA, stands out as a vibrant spot where Japanese-inspired dishes
+  meet American comfort, offering a relaxed atmosphere for enjoying fresh sushi
+  and creative beverages. This establishment features a fusion of flavors
+  including inventive rolls and hearty options, complemented by a selection of
+  local brews that enhance the dining experience. With thoughtful accessibility
+  features and outdoor seating, it's designed for easy enjoyment in the heart of
+  Downtown Atlanta. Visitors often appreciate the blend of casual vibes and
+  quality ingredients, making it a go-to choice for those seeking sushi
+  restaurants in a lively urban setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJJQEcinkD9YgRw46X2vrQ7rA/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3cGR1aUlREAE
@@ -392,6 +413,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURkb29hS1FBEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURkb29hS1FBEAE!2m1!1s0x88f503798a1c0125:0xb0eed0fada978ec3
+review_summary: >-
+  What Customers Are Saying$$$Folks generally love the tasty sushi rolls and
+  flavorful cocktails at this spot, with many highlighting the welcoming
+  atmosphere and solid food options that hit the spot for a casual outing. While
+  most experiences praise the fresh ingredients and fun fusion dishes, a few
+  mentions point to occasional service hiccups or minor inconsistencies in
+  preparation, though these seem to be exceptions. Overall, it's a hit for
+  groups looking for a laid-back vibe and great drinks, especially if you're on
+  the hunt for top-rated sushi nearby. The positive feedback on the neighborhood
+  feel and variety keeps the energy upbeat, encouraging visitors to give it a
+  try for an enjoyable meal.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeStreetParking: true
   paidStreetParking: true
@@ -423,8 +456,8 @@ serves_lunch: false
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Trendy hangout offering sushi & Japanese-American–fusion dishes, plus creative
   cocktails.
 

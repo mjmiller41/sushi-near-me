@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Fusabowl"
+title: Fusabowl
 permalink: /ohio/cincinnati/fusabowl.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Cincinnati
 seo:
-  name: "Fusabowl"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Fusabowl serves delicious sushi in Cincinnati, Ohio. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJAy1l8PSzQYgRdl03eXUpxkM
 photos:
   - name: >-
@@ -185,7 +183,45 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Fusabowl in Cincinnati, OH$$$Fusabowl in Cincinnati, OH, stands out
+  as a relaxed Asian eatery specializing in customizable bowls and fresh poke
+  options, perfect for those exploring sushi-inspired dining near urban hubs.
+  This spot offers a laid-back vibe where patrons can build their own meals with
+  vibrant, high-quality ingredients, appealing to anyone seeking quick and
+  healthy Japanese-influenced cuisine. The restaurant's accessibility features,
+  like wheelchair-friendly entrances and seating, make it an inclusive choice
+  for all diners looking for convenient sushi places nearby. Whether you're in
+  the mood for a light lunch or a flavorful dinner, Fusabowl delivers a
+  straightforward yet enjoyable experience that captures the essence of modern
+  Asian dining.
+generative_summary: >-
+  Discover Fusabowl in Cincinnati, OH$$$Fusabowl in Cincinnati, OH, stands out
+  as a relaxed Asian eatery specializing in customizable bowls and fresh poke
+  options, perfect for those exploring sushi-inspired dining near urban hubs.
+  This spot offers a laid-back vibe where patrons can build their own meals with
+  vibrant, high-quality ingredients, appealing to anyone seeking quick and
+  healthy Japanese-influenced cuisine. The restaurant's accessibility features,
+  like wheelchair-friendly entrances and seating, make it an inclusive choice
+  for all diners looking for convenient sushi places nearby. Whether you're in
+  the mood for a light lunch or a flavorful dinner, Fusabowl delivers a
+  straightforward yet enjoyable experience that captures the essence of modern
+  Asian dining.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Though specific reviews for this spot are limited,
+  feedback from similar poke and bowl-focused eateries suggests that customers
+  generally enjoy the fresh, customizable options that keep things light and
+  satisfying for sushi enthusiasts on the go. Many appreciate the welcoming
+  atmosphere and efficient service, often noting how it makes for a great casual
+  meal without the fuss. Overall, the emphasis on quality ingredients and
+  variety hints at a positive experience for groups or individuals searching for
+  top-rated sushi alternatives nearby. While experiences can vary, the general
+  consensus leans toward it being a solid pick for anyone craving healthy,
+  flavorful dishes in a relaxed setting, encouraging first-timers to give it a
+  try.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +247,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

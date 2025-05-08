@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Poke Fresh"
+title: Poke Fresh
 permalink: /texas/houston/poke-fresh.html
 stateAbbr: TX
 stateName: Texas
 cityName: Houston
 seo:
-  name: "Poke Fresh"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Poke Fresh serves delicious sushi in Houston, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJYZQFW-i_QIYRS1Q2x-qxC9Q
 photos:
   - name: >-
@@ -185,7 +183,43 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Explore Poke Fresh in Houston, TX$$$Poke Fresh in Houston, TX, stands out as a
+  lively poke bar specializing in fresh, Japanese-inspired cuisine that's
+  perfect for those seeking quick and satisfying meals. This spot offers a
+  variety of flavorful options, including popular ramen dishes that highlight
+  the essence of Japanese fare, all prepared with high-quality ingredients for
+  an authentic dining experience. Located in the bustling Central Business
+  District, it provides excellent accessibility features like
+  wheelchair-friendly parking and entrances, making it welcoming for all
+  visitors. The casual atmosphere and focus on quick bites make it an ideal
+  choice for anyone exploring Japanese places near me, especially for a
+  convenient lunch or dinner outing.
+generative_summary: >-
+  Explore Poke Fresh in Houston, TX$$$Poke Fresh in Houston, TX, stands out as a
+  lively poke bar specializing in fresh, Japanese-inspired cuisine that's
+  perfect for those seeking quick and satisfying meals. This spot offers a
+  variety of flavorful options, including popular ramen dishes that highlight
+  the essence of Japanese fare, all prepared with high-quality ingredients for
+  an authentic dining experience. Located in the bustling Central Business
+  District, it provides excellent accessibility features like
+  wheelchair-friendly parking and entrances, making it welcoming for all
+  visitors. The casual atmosphere and focus on quick bites make it an ideal
+  choice for anyone exploring Japanese places near me, especially for a
+  convenient lunch or dinner outing.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback Highlights$$$Folks enjoying spots like this one often rave
+  about the fresh, high-quality ingredients that bring out bold flavors in every
+  bite, making it a go-to for tasty Japanese-inspired eats. Many appreciate the
+  efficient service and variety of options that cater to different tastes,
+  turning a simple meal into a delightful experience without any fuss. It's
+  frequently noted as a solid pick for casual gatherings, with the welcoming
+  vibe adding to the overall enjoyment. While experiences can vary, the general
+  consensus leans positive, suggesting it's worth trying for anyone hunting for
+  top-rated sushi alternatives in the area.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +245,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

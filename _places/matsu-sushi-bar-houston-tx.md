@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Matsu Sushi Bar"
+title: Matsu Sushi Bar
 permalink: /texas/houston/matsu-sushi-bar.html
 stateAbbr: TX
 stateName: Texas
 cityName: Houston
 seo:
-  name: "Matsu Sushi Bar"
-  type: Restaurant
+  type: restaurant
   links: http://www.matsuhouston.com/
-description: "Matsu Sushi Bar serves delicious sushi in Houston, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJf2hhU3PcQIYRjcfkQSGWb3g
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8640dc735361687f:0x786f962141e4c78d!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:00 PM'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -178,54 +226,313 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:00 PM'
     - 'Saturday: 12:00 – 10:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:00 AM – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 10:00 PM'
-    - 'Saturday: 12:00 – 10:00 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 1
+          hour: 14
+          minute: 30
+        close:
+          day: 1
+          hour: 21
+          minute: 0
+      - open:
+          day: 2
+          hour: 14
+          minute: 30
+        close:
+          day: 2
+          hour: 21
+          minute: 0
+      - open:
+          day: 3
+          hour: 14
+          minute: 30
+        close:
+          day: 3
+          hour: 21
+          minute: 0
+      - open:
+          day: 4
+          hour: 14
+          minute: 30
+        close:
+          day: 4
+          hour: 21
+          minute: 0
+      - open:
+          day: 5
+          hour: 14
+          minute: 30
+        close:
+          day: 5
+          hour: 22
+          minute: 30
+      - open:
+          day: 6
+          hour: 14
+          minute: 30
+        close:
+          day: 6
+          hour: 22
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 2:30 – 9:00 PM'
+      - 'Tuesday: 2:30 – 9:00 PM'
+      - 'Wednesday: 2:30 – 9:00 PM'
+      - 'Thursday: 2:30 – 9:00 PM'
+      - 'Friday: 2:30 – 10:30 PM'
+      - 'Saturday: 2:30 – 10:30 PM'
+      - 'Sunday: Closed'
+    secondaryHoursType: HAPPY_HOUR
+    nextCloseTime: '2025-05-04T03:30:00Z'
 phone: (281) 531-0900
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.7'
-rating_count: 0
+rating_count: 755
 website: http://www.matsuhouston.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Matsu Sushi Bar in Houston, TX$$$Matsu Sushi Bar in Houston, TX,
+  offers a relaxed and contemporary setting for enjoying authentic Japanese
+  cuisine, featuring fresh sushi rolls, sashimi, and flavorful options like
+  teriyaki and bento boxes. This spot stands out with its accessible features,
+  including wheelchair-friendly parking, entrances, and seating, making it
+  welcoming for all visitors seeking a comfortable dining experience. Patrons
+  can savor the casual atmosphere while exploring a menu that highlights
+  high-quality ingredients and traditional dishes, perfect for those craving
+  sushi restaurants in the area. With convenient hours that extend into the
+  evening and options for dine-in or takeout, it's an ideal choice for a quick
+  lunch or relaxed dinner in the Energy Corridor neighborhood.
+generative_summary: >-
+  Discover Matsu Sushi Bar in Houston, TX$$$Matsu Sushi Bar in Houston, TX,
+  offers a relaxed and contemporary setting for enjoying authentic Japanese
+  cuisine, featuring fresh sushi rolls, sashimi, and flavorful options like
+  teriyaki and bento boxes. This spot stands out with its accessible features,
+  including wheelchair-friendly parking, entrances, and seating, making it
+  welcoming for all visitors seeking a comfortable dining experience. Patrons
+  can savor the casual atmosphere while exploring a menu that highlights
+  high-quality ingredients and traditional dishes, perfect for those craving
+  sushi restaurants in the area. With convenient hours that extend into the
+  evening and options for dine-in or takeout, it's an ideal choice for a quick
+  lunch or relaxed dinner in the Energy Corridor neighborhood.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJf2hhU3PcQIYRjcfkQSGWb3g/reviews/ChZDSUhNMG9nS0VJQ0FnSUMzd0wzWUlBEAE
+    relativePublishTimeDescription: 6 months ago
+    rating: 4
+    text:
+      text: >-
+        Good choice for a quick stop for lunch. Fish is fresh and cut thickly,
+        some appetizers are amazing. Their portion is really big. Our group of 4
+        couldn’t finish the whole meal, we had 4 boxes for to go. They’re almost
+        full-house during lunch time @ 12:00PM on Tuesday. Service was instant,
+        friendly, and helpful. Definitely come back many more times for this
+        good deal!
+      languageCode: en
+    originalText:
+      text: >-
+        Good choice for a quick stop for lunch. Fish is fresh and cut thickly,
+        some appetizers are amazing. Their portion is really big. Our group of 4
+        couldn’t finish the whole meal, we had 4 boxes for to go. They’re almost
+        full-house during lunch time @ 12:00PM on Tuesday. Service was instant,
+        friendly, and helpful. Definitely come back many more times for this
+        good deal!
+      languageCode: en
+    authorAttribution:
+      displayName: Tram Ngu
+      uri: https://www.google.com/maps/contrib/109524605735569376950/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXsj8HPA-6lZzGM_Dx9Md1yBOoWuZ5OmyrLQtb_bVA1C-OSlJ3mJQ=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2024-11-01T18:46:54.519301Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUMzd0wzWUlBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUMzd0wzWUlBEAE!2m1!1s0x8640dc735361687f:0x786f962141e4c78d
+  - name: >-
+      places/ChIJf2hhU3PcQIYRjcfkQSGWb3g/reviews/ChdDSUhNMG9nS0VJQ0FnSUR2MUxMNGdBRRAB
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        We always enjoy our lunch specials. Economical, quick and great service.
+
+        Nancy always ready to greet the patrons with open arms. Between Andres
+        and herself, they keep the restaurant flowing without a hitch. Somewhat
+        small restaurant.
+
+        Lunch specials to please the 🍣 and non sushi diners.
+      languageCode: en
+    originalText:
+      text: >-
+        We always enjoy our lunch specials. Economical, quick and great service.
+
+        Nancy always ready to greet the patrons with open arms. Between Andres
+        and herself, they keep the restaurant flowing without a hitch. Somewhat
+        small restaurant.
+
+        Lunch specials to please the 🍣 and non sushi diners.
+      languageCode: en
+    authorAttribution:
+      displayName: Richard Cheung
+      uri: https://www.google.com/maps/contrib/114960424595766595192/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXnmL4FNs98yLbw1J-VnpHcF4MxkE7EXZAD1sTeyGQHRg_66Bp9=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-12-18T00:09:10.150094Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR2MUxMNGdBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR2MUxMNGdBRRAB!2m1!1s0x8640dc735361687f:0x786f962141e4c78d
+  - name: >-
+      places/ChIJf2hhU3PcQIYRjcfkQSGWb3g/reviews/ChZDSUhNMG9nS0VJQ0FnTUNnLUpqQlNnEAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        Cozy mom & pop sushi place.  Great price and excellent quality sushi. 
+        Early valentines dinner.  Had
+
+        edamame & veg egg roll - 8/10
+
+        Shaggy roll (gently spicy) - 9/10
+
+        Salmon avocado roll (moderate spicy) -9/10
+
+        Salmon shushi - 9.5/10. Fresh!
+
+        Yellowtail shushi - 9.5/10. Perfect taste
+      languageCode: en
+    originalText:
+      text: >-
+        Cozy mom & pop sushi place.  Great price and excellent quality sushi. 
+        Early valentines dinner.  Had
+
+        edamame & veg egg roll - 8/10
+
+        Shaggy roll (gently spicy) - 9/10
+
+        Salmon avocado roll (moderate spicy) -9/10
+
+        Salmon shushi - 9.5/10. Fresh!
+
+        Yellowtail shushi - 9.5/10. Perfect taste
+      languageCode: en
+    authorAttribution:
+      displayName: s Ullah
+      uri: https://www.google.com/maps/contrib/105679540291060963296/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVmCcaS9KPO2q4sBfm6gW_ilStFS-4UndInNg7H24MNP0QRKP1nLw=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-02-14T02:39:43.119827Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNnLUpqQlNnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNnLUpqQlNnEAE!2m1!1s0x8640dc735361687f:0x786f962141e4c78d
+  - name: >-
+      places/ChIJf2hhU3PcQIYRjcfkQSGWb3g/reviews/ChdDSUhNMG9nS0VJQ0FnSUNuX1A2b3J3RRAB
+    relativePublishTimeDescription: 7 months ago
+    rating: 5
+    text:
+      text: >-
+        The service was exceptional, and the food was absolutely delicious. Our
+        waiter was attentive and friendly, making the experience even more
+        enjoyable. The prices are very reasonable, offering great value for
+        money. I’ll definitely be returning the next time I’m in town!
+      languageCode: en
+    originalText:
+      text: >-
+        The service was exceptional, and the food was absolutely delicious. Our
+        waiter was attentive and friendly, making the experience even more
+        enjoyable. The prices are very reasonable, offering great value for
+        money. I’ll definitely be returning the next time I’m in town!
+      languageCode: en
+    authorAttribution:
+      displayName: Nhu Le
+      uri: https://www.google.com/maps/contrib/107152861565602050166/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXDG_jxc5ZobZmT5AkU98naaw6xIecXkQTsJvUQEdjQgg5EmOP8=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-09-24T01:47:52.562764Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNuX1A2b3J3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNuX1A2b3J3RRAB!2m1!1s0x8640dc735361687f:0x786f962141e4c78d
+  - name: >-
+      places/ChIJf2hhU3PcQIYRjcfkQSGWb3g/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJa2Q3Y0Z3EAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        My husband and I came here looking for a good meal and a good time.
+        Matsu sushi bar gave both in abundance. Please if you are in the area.
+        The summer chips were the star of the show. And my husband swears by
+        their yakisoba.
+      languageCode: en
+    originalText:
+      text: >-
+        My husband and I came here looking for a good meal and a good time.
+        Matsu sushi bar gave both in abundance. Please if you are in the area.
+        The summer chips were the star of the show. And my husband swears by
+        their yakisoba.
+      languageCode: en
+    authorAttribution:
+      displayName: Krechevskoy Shadowpaw
+      uri: https://www.google.com/maps/contrib/115769293416100060210/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWD5NB9_Kj7ZbvNeue1NuF8-IpsY66qHi6BL9WM8JhSXejUyHfU1g=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-02T18:54:14.293949Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNJa2Q3Y0Z3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNJa2Q3Y0Z3EAE!2m1!1s0x8640dc735361687f:0x786f962141e4c78d
+review_summary: >-
+  What Visitors Are Saying$$$Visitors often praise the fresh ingredients and
+  generous portions at this sushi spot, making it a solid pick for anyone
+  hunting for a satisfying meal without breaking the bank. Many highlight the
+  quick service and welcoming vibe that keep things flowing smoothly, especially
+  during busy lunch hours, turning routine visits into enjoyable outings. Folks
+  appreciate the variety of options that cater to both sushi lovers and those
+  opting for alternatives like noodles or appetizers, with specials adding great
+  value to the experience. Overall, the consistent quality and friendly
+  atmosphere have folks coming back, offering a reliable spot for casual dining
+  that lives up to expectations in Houston's dining scene. While not every
+  detail is perfect, the positive feedback around taste and affordability keeps
+  the energy high for repeat trips.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+payment_options:
+  acceptsDebitCards: false
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
+delivery: true
+dine_in: true
 good_for_children: null
-good_for_groups: null
+good_for_groups: true
 good_for_sports: null
 live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
 serves_cocktails: null
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Relaxed, contemporary Japanese spot serving sushi & sashimi, plus teriyaki,
+  noodles & bento boxes.
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kantaro Sushi"
+title: Kantaro Sushi
 permalink: /california/torrance/kantaro-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Torrance
 seo:
-  name: "Kantaro Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Kantaro Sushi serves delicious sushi in Torrance, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJETTd_KNK3YARQNroUoSKkpk
 photos:
   - name: >-
@@ -170,7 +168,49 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80dd4aa3fcdd3411:0x99928a8452e8da40!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 17
+        minute: 30
+      close:
+        day: 0
+        hour: 20
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 30
+      close:
+        day: 3
+        hour: 20
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 30
+      close:
+        day: 4
+        hour: 20
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 30
+      close:
+        day: 5
+        hour: 20
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 30
+      close:
+        day: 6
+        hour: 20
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: Closed'
     - 'Wednesday: 5:30 – 8:00 PM'
@@ -178,14 +218,7 @@ opening_hours:
     - 'Friday: 5:30 – 8:00 PM'
     - 'Saturday: 5:30 – 8:00 PM'
     - 'Sunday: 5:30 – 8:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: Closed'
-    - 'Wednesday: 5:30 – 8:00 PM'
-    - 'Thursday: 5:30 – 8:00 PM'
-    - 'Friday: 5:30 – 8:00 PM'
-    - 'Saturday: 5:30 – 8:00 PM'
-    - 'Sunday: 5:30 – 8:00 PM'
+  nextOpenTime: '2025-05-04T00:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +230,253 @@ phone: (310) 320-0200
 price_level: PRICE_LEVEL_MODERATE
 price_range: $50 &ndash; $100
 rating: '4.6'
-rating_count: 0
+rating_count: 163
 website: null
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Explore Kantaro Sushi in Torrance, CA$$$Nestled in Torrance, CA, Kantaro Sushi
+  stands out as a cozy spot for fresh sushi experiences, blending casual
+  Japanese vibes with an inviting old-school atmosphere that appeals to those
+  seeking authentic flavors. This sushi restaurant highlights daily catches and
+  personalized omakase presentations, offering a straightforward menu that
+  balances quality ingredients with accessible pricing for an enjoyable meal.
+  Patrons can appreciate the thoughtful decor and wheelchair-accessible
+  features, making it a welcoming choice for various diners in the area. Whether
+  you're looking for top-rated sushi options nearby, the focus here remains on
+  simple, satisfying dishes that capture the essence of traditional Japanese
+  cuisine. With its moderate price range, it's an ideal destination for anyone
+  exploring sushi places near me in this bustling neighborhood.
+generative_summary: >-
+  Explore Kantaro Sushi in Torrance, CA$$$Nestled in Torrance, CA, Kantaro Sushi
+  stands out as a cozy spot for fresh sushi experiences, blending casual
+  Japanese vibes with an inviting old-school atmosphere that appeals to those
+  seeking authentic flavors. This sushi restaurant highlights daily catches and
+  personalized omakase presentations, offering a straightforward menu that
+  balances quality ingredients with accessible pricing for an enjoyable meal.
+  Patrons can appreciate the thoughtful decor and wheelchair-accessible
+  features, making it a welcoming choice for various diners in the area. Whether
+  you're looking for top-rated sushi options nearby, the focus here remains on
+  simple, satisfying dishes that capture the essence of traditional Japanese
+  cuisine. With its moderate price range, it's an ideal destination for anyone
+  exploring sushi places near me in this bustling neighborhood.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJETTd_KNK3YARQNroUoSKkpk/reviews/ChdDSUhNMG9nS0VJQ0FnSUNOcWZmMl9BRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        Best omakase for the value in South Bay. Owned by a Japanese husband and
+        wife duo in a strip mall corner. Parking has always been available every
+        time we’ve been here, and we’ve came over 6+ times now. Go often and
+        keep them in business for years to come!
+      languageCode: en
+    originalText:
+      text: >-
+        Best omakase for the value in South Bay. Owned by a Japanese husband and
+        wife duo in a strip mall corner. Parking has always been available every
+        time we’ve been here, and we’ve came over 6+ times now. Go often and
+        keep them in business for years to come!
+      languageCode: en
+    authorAttribution:
+      displayName: Vicky Hwang
+      uri: https://www.google.com/maps/contrib/115896328374698360466/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVo0pJERB95gevq-JMZW05MjSBbo69vINlE0dtfsXZY98-cbPh9qw=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-01-15T18:59:50.515550Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNOcWZmMl9BRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNOcWZmMl9BRRAB!2m1!1s0x80dd4aa3fcdd3411:0x99928a8452e8da40
+  - name: >-
+      places/ChIJETTd_KNK3YARQNroUoSKkpk/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfMjZTWnB3RRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        Great value for the money. The amount served in their omakase was very
+        satisfying for us. It felt like the progression of the dishes (with
+        reappearances of a few that were cooked and served in two different
+        forms to enjoy), along with the unique dinnerware each course was served
+        on, were well thought-out. A wide range of flavors and textures that
+        excite the senses—most were familiar, with a few that were unexpected
+        and fun. The green tea/matcha they serve in retro cups is quality. All
+        of this in a nostalgic, no-frills space with prompt and friendly
+        service.
+      languageCode: en
+    originalText:
+      text: >-
+        Great value for the money. The amount served in their omakase was very
+        satisfying for us. It felt like the progression of the dishes (with
+        reappearances of a few that were cooked and served in two different
+        forms to enjoy), along with the unique dinnerware each course was served
+        on, were well thought-out. A wide range of flavors and textures that
+        excite the senses—most were familiar, with a few that were unexpected
+        and fun. The green tea/matcha they serve in retro cups is quality. All
+        of this in a nostalgic, no-frills space with prompt and friendly
+        service.
+      languageCode: en
+    authorAttribution:
+      displayName: Bobby Kim
+      uri: https://www.google.com/maps/contrib/107254039179744351872/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWcCjU2hL8fMpkzSynEOAkCYH2tc1p_wFWTyboyksRcy7ASueG3=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-01-19T07:30:16.561917Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNfMjZTWnB3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNfMjZTWnB3RRAB!2m1!1s0x80dd4aa3fcdd3411:0x99928a8452e8da40
+  - name: >-
+      places/ChIJETTd_KNK3YARQNroUoSKkpk/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfcl9TYnZBRRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        So. Much. Food.
+
+
+        Hole in the wall spot with amazing quality and great price. Waitress
+        explained each dish. I’d say the variety was less than other omakase,
+        but the quantity and flavor was spot on. Sake is really cheap too.
+        Definitely coming back.
+      languageCode: en
+    originalText:
+      text: >-
+        So. Much. Food.
+
+
+        Hole in the wall spot with amazing quality and great price. Waitress
+        explained each dish. I’d say the variety was less than other omakase,
+        but the quantity and flavor was spot on. Sake is really cheap too.
+        Definitely coming back.
+      languageCode: en
+    authorAttribution:
+      displayName: Drew Li
+      uri: https://www.google.com/maps/contrib/102619832894149743800/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLsKD5DZ4TeNi3NSy6kj896fvcuAQi5sRX0Djc1svCRb29RAg=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-01-20T04:01:19.081404Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNfcl9TYnZBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNfcl9TYnZBRRAB!2m1!1s0x80dd4aa3fcdd3411:0x99928a8452e8da40
+  - name: >-
+      places/ChIJETTd_KNK3YARQNroUoSKkpk/reviews/ChdDSUhNMG9nS0VJQ0FnSUMzN0pMVG93RRAB
+    relativePublishTimeDescription: 6 months ago
+    rating: 5
+    text:
+      text: >-
+        I love mom and pop joints like this. The omakase, which was reasonably
+        priced, was an amazing experience. Each offering was prepared
+        masterfully.
+
+
+        This unassuming restaurant is located at the corner of a petite shopping
+        plaza, so parking shouldn’t be too difficult. It’s best to make a
+        reservation well in advance.
+      languageCode: en
+    originalText:
+      text: >-
+        I love mom and pop joints like this. The omakase, which was reasonably
+        priced, was an amazing experience. Each offering was prepared
+        masterfully.
+
+
+        This unassuming restaurant is located at the corner of a petite shopping
+        plaza, so parking shouldn’t be too difficult. It’s best to make a
+        reservation well in advance.
+      languageCode: en
+    authorAttribution:
+      displayName: John Moon
+      uri: https://www.google.com/maps/contrib/116065960927375742335/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJYLgzTfi2zm3ryRjtMpnonRcOGuFeZZswfVnuLDKFtZ9xn5Q=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-11-03T16:10:59.147415Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMzN0pMVG93RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMzN0pMVG93RRAB!2m1!1s0x80dd4aa3fcdd3411:0x99928a8452e8da40
+  - name: >-
+      places/ChIJETTd_KNK3YARQNroUoSKkpk/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfcE42VmhnRRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 3
+    text:
+      text: >-
+        A True hole in the wall omakase experience. It's like time traveling
+        back to the 90s but not in the good sense. The amount of food you get is
+        definitely worth it, but our experience included partially defrosted
+        Toro nigiri, and very rushed service. Dishes were brought to our table
+        before we could even finish the previous one. Highlights were the black
+        bass and desserts.
+      languageCode: en
+    originalText:
+      text: >-
+        A True hole in the wall omakase experience. It's like time traveling
+        back to the 90s but not in the good sense. The amount of food you get is
+        definitely worth it, but our experience included partially defrosted
+        Toro nigiri, and very rushed service. Dishes were brought to our table
+        before we could even finish the previous one. Highlights were the black
+        bass and desserts.
+      languageCode: en
+    authorAttribution:
+      displayName: Joshua Lee
+      uri: https://www.google.com/maps/contrib/111520327674737420293/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWXBYlx0laFqwbEzS_HxUWQAld7GkVD5fAxJBsI9jY5KAx3oX9d=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-01-13T01:02:59.032795Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNfcE42VmhnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNfcE42VmhnRRAB!2m1!1s0x80dd4aa3fcdd3411:0x99928a8452e8da40
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors to this sushi spot often rave about
+  the incredible value of the omakase offerings, noting how the generous
+  portions and variety of flavors make for a memorable dining experience without
+  breaking the bank. Many appreciate the thoughtful progression of dishes and
+  the friendly service that keeps things running smoothly, even in a no-frills
+  setting. While most comments highlight the high-quality fish and exciting
+  taste combinations that hit the spot, a few mention occasional pacing issues
+  or minor inconsistencies that could use some tweaks. Overall, it's clear that
+  folks keep coming back for the satisfying meals and affordable sake, making it
+  a solid pick for anyone hunting for reliable sushi restaurants nearby. If
+  you're in the mood for something fresh and unpretentious, this place delivers
+  a generally positive vibe that lives up to its reputation as one of the best
+  sushi options around.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
 delivery: null
-dine_in: null
-good_for_children: null
+dine_in: true
+good_for_children: false
 good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: false
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: false
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  This small sushi bar focuses on daily catches & the chef's personal omakase
+  presentations.
 
 ---

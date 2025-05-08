@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Su"
+title: Sushi Su
 permalink: /california/thousand-oaks/sushi-su.html
 stateAbbr: CA
 stateName: California
 cityName: Thousand Oaks
 seo:
-  name: "Sushi Su"
-  type: Restaurant
+  type: restaurant
   links: https://www.sushisurestaurant.com/
-description: "Sushi Su serves delicious sushi in Thousand Oaks, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJPQc8Sq0m6IAR1T8z940nJag
 photos:
   - name: >-
@@ -170,7 +168,121 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80e826ad4a3c073d:0xa825278df7333fd5!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 15
+        minute: 0
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 15
+        minute: 0
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 15
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 15
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 3:00 PM, 5:00 – 9:30 PM'
     - 'Tuesday: 11:30 AM – 3:00 PM, 5:00 – 9:30 PM'
     - 'Wednesday: 11:30 AM – 3:00 PM, 5:00 – 9:30 PM'
@@ -178,54 +290,314 @@ opening_hours:
     - 'Friday: 11:30 AM – 3:00 PM, 5:00 – 10:00 PM'
     - 'Saturday: 12:00 – 3:00 PM, 5:00 – 10:00 PM'
     - 'Sunday: 12:00 – 3:00 PM, 5:00 – 9:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 3:00 PM, 5:00 – 9:30 PM'
-    - 'Tuesday: 11:30 AM – 3:00 PM, 5:00 – 9:30 PM'
-    - 'Wednesday: 11:30 AM – 3:00 PM, 5:00 – 9:30 PM'
-    - 'Thursday: 11:30 AM – 3:00 PM, 5:00 – 9:30 PM'
-    - 'Friday: 11:30 AM – 3:00 PM, 5:00 – 10:00 PM'
-    - 'Saturday: 12:00 – 3:00 PM, 5:00 – 10:00 PM'
-    - 'Sunday: 12:00 – 3:00 PM, 5:00 – 9:00 PM'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: false
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 0
+        close:
+          day: 0
+          hour: 15
+          minute: 0
+      - open:
+          day: 1
+          hour: 11
+          minute: 30
+        close:
+          day: 1
+          hour: 15
+          minute: 0
+      - open:
+          day: 2
+          hour: 11
+          minute: 30
+        close:
+          day: 2
+          hour: 15
+          minute: 0
+      - open:
+          day: 3
+          hour: 11
+          minute: 30
+        close:
+          day: 3
+          hour: 15
+          minute: 0
+      - open:
+          day: 4
+          hour: 11
+          minute: 30
+        close:
+          day: 4
+          hour: 15
+          minute: 0
+      - open:
+          day: 5
+          hour: 11
+          minute: 30
+        close:
+          day: 5
+          hour: 15
+          minute: 0
+      - open:
+          day: 6
+          hour: 12
+          minute: 0
+        close:
+          day: 6
+          hour: 15
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 11:30 AM – 3:00 PM'
+      - 'Tuesday: 11:30 AM – 3:00 PM'
+      - 'Wednesday: 11:30 AM – 3:00 PM'
+      - 'Thursday: 11:30 AM – 3:00 PM'
+      - 'Friday: 11:30 AM – 3:00 PM'
+      - 'Saturday: 12:00 – 3:00 PM'
+      - 'Sunday: 12:00 – 3:00 PM'
+    secondaryHoursType: DELIVERY
+    nextOpenTime: '2025-05-04T19:00:00Z'
 phone: (818) 865-8622
 price_level: PRICE_LEVEL_MODERATE
 price_range: $30 &ndash; $50
 rating: '4.5'
-rating_count: 0
+rating_count: 164
 website: https://www.sushisurestaurant.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Explore Sushi Su in Thousand Oaks, CA$$$Sushi Su in Thousand Oaks, CA,
+  delivers a welcoming experience with its array of fresh sushi, specialty
+  rolls, and classic Japanese dishes in a laid-back setting. This spot stands
+  out for its commitment to quality ingredients and accessible features like
+  wheelchair-friendly entrances and ample parking, making it easy for everyone
+  to enjoy a meal. Patrons can savor the variety of options, from innovative
+  rolls to traditional favorites, all served in an atmosphere that balances
+  casual comfort with authentic flavors. For those seeking top-rated Japanese
+  cuisine nearby, Sushi Su offers a reliable choice with options for dine-in,
+  takeout, and even beer and wine to enhance the experience. Whether you're in
+  the mood for a quick lunch or an evening out, this restaurant provides a
+  satisfying blend of taste and convenience.
+generative_summary: >-
+  Explore Sushi Su in Thousand Oaks, CA$$$Sushi Su in Thousand Oaks, CA,
+  delivers a welcoming experience with its array of fresh sushi, specialty
+  rolls, and classic Japanese dishes in a laid-back setting. This spot stands
+  out for its commitment to quality ingredients and accessible features like
+  wheelchair-friendly entrances and ample parking, making it easy for everyone
+  to enjoy a meal. Patrons can savor the variety of options, from innovative
+  rolls to traditional favorites, all served in an atmosphere that balances
+  casual comfort with authentic flavors. For those seeking top-rated Japanese
+  cuisine nearby, Sushi Su offers a reliable choice with options for dine-in,
+  takeout, and even beer and wine to enhance the experience. Whether you're in
+  the mood for a quick lunch or an evening out, this restaurant provides a
+  satisfying blend of taste and convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJPQc8Sq0m6IAR1T8z940nJag/reviews/ChdDSUhNMG9nS0VJQ0FnTUNnaGFUSzNBRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        Love sushi su. They have recently moved locations and are no longer in
+        Agoura Hills. Please make sure you continue to visit them at their new
+        location in Thousand Oaks Blvd, on Thousand Oaks blvd. They are in the
+        shipping center next to 24 hour fitness. They are located inside the
+        Thai cuisine restaurant.
+      languageCode: en
+    originalText:
+      text: >-
+        Love sushi su. They have recently moved locations and are no longer in
+        Agoura Hills. Please make sure you continue to visit them at their new
+        location in Thousand Oaks Blvd, on Thousand Oaks blvd. They are in the
+        shipping center next to 24 hour fitness. They are located inside the
+        Thai cuisine restaurant.
+      languageCode: en
+    authorAttribution:
+      displayName: Celeste Montesdeoca
+      uri: https://www.google.com/maps/contrib/115509727123338973962/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWBUC1RMhIMU7yeDWDJ07esilBNRMkGesB9e45srD_uM4bC6989=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-02-19T04:00:58.818306Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNnaGFUSzNBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNnaGFUSzNBRRAB!2m1!1s0x80e826ad4a3c073d:0xa825278df7333fd5
+  - name: >-
+      places/ChIJPQc8Sq0m6IAR1T8z940nJag/reviews/ChdDSUhNMG9nS0VJQ0FnSURXd04yZmhBRRAB
+    relativePublishTimeDescription: 2 years ago
+    rating: 4
+    text:
+      text: >-
+        Cool spot and great customer service.  The food was great and delicious.
+        I ordered the blue crab roll, uni & seared salmon, crunchy pizza bite
+        appetizer and salmon skin salad.
+
+
+        All were good and the crunchy pizza bite was the best. Only thing was
+        the blue crab roll had too many crab shell pieces but it was still
+        good.  I’d definitely come back in the future.
+
+
+        ***Update***
+
+        Tried their chicken karage and eggplant/shishito peppers and they were
+        both really delicious!
+      languageCode: en
+    originalText:
+      text: >-
+        Cool spot and great customer service.  The food was great and delicious.
+        I ordered the blue crab roll, uni & seared salmon, crunchy pizza bite
+        appetizer and salmon skin salad.
+
+
+        All were good and the crunchy pizza bite was the best. Only thing was
+        the blue crab roll had too many crab shell pieces but it was still
+        good.  I’d definitely come back in the future.
+
+
+        ***Update***
+
+        Tried their chicken karage and eggplant/shishito peppers and they were
+        both really delicious!
+      languageCode: en
+    authorAttribution:
+      displayName: Rodrigo “funning”
+      uri: https://www.google.com/maps/contrib/117621384126831676862/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUsZ1hyyMfOFupdHf08FE308CAjnXeLxXfFyQQWlges6bS2NaDD9A=s128-c0x00000000-cc-rp-mo-ba7
+    publishTime: '2022-11-06T04:00:40.583673Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURXd04yZmhBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURXd04yZmhBRRAB!2m1!1s0x80e826ad4a3c073d:0xa825278df7333fd5
+  - name: >-
+      places/ChIJPQc8Sq0m6IAR1T8z940nJag/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3a3BtNkVnEAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        NEW location - Same great food and service!
+
+        We loved sushi su in Agoura, now it’s a closer drive in Thousand Oaks
+        near 24 hr fitness! Also now has Thai food in same restaurant location.
+        Must try it !!
+      languageCode: en
+    originalText:
+      text: >-
+        NEW location - Same great food and service!
+
+        We loved sushi su in Agoura, now it’s a closer drive in Thousand Oaks
+        near 24 hr fitness! Also now has Thai food in same restaurant location.
+        Must try it !!
+      languageCode: en
+    authorAttribution:
+      displayName: john smith
+      uri: https://www.google.com/maps/contrib/106015967028695971670/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocL61rHLmCjq3LzovCUpZfqdCAtnV3nTMUz2uNdXxDwAcNKvAA=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-03-17T17:25:49.513409Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUN3a3BtNkVnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUN3a3BtNkVnEAE!2m1!1s0x80e826ad4a3c073d:0xa825278df7333fd5
+  - name: >-
+      places/ChIJPQc8Sq0m6IAR1T8z940nJag/reviews/ChZDSUhNMG9nS0VJQ0FnSUNmdk1LNUVnEAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 1
+    text:
+      text: >-
+        they gave us expired salmon and they didn’t even question it when we
+        told them it seemed as if they had knew all along of our expired salmon.
+        (the photo is tuna)
+      languageCode: en
+    originalText:
+      text: >-
+        they gave us expired salmon and they didn’t even question it when we
+        told them it seemed as if they had knew all along of our expired salmon.
+        (the photo is tuna)
+      languageCode: en
+    authorAttribution:
+      displayName: Michael Gilad
+      uri: https://www.google.com/maps/contrib/108787574752299382392/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjX80n6kif7b5sOBOXsK3wQgKMuiP5RcFBRMyq2YjZb5eg4shXdp=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-12-29T03:42:50.519497Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNmdk1LNUVnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNmdk1LNUVnEAE!2m1!1s0x80e826ad4a3c073d:0xa825278df7333fd5
+  - name: >-
+      places/ChIJPQc8Sq0m6IAR1T8z940nJag/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3c3NYcWxBRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Still amazing even after the move. As noted elsewhere, Sushi Su is
+        actually in the Thai restaurant. Seperate menus and all dynamite.
+      languageCode: en
+    originalText:
+      text: >-
+        Still amazing even after the move. As noted elsewhere, Sushi Su is
+        actually in the Thai restaurant. Seperate menus and all dynamite.
+      languageCode: en
+    authorAttribution:
+      displayName: B Manda
+      uri: https://www.google.com/maps/contrib/105816712800926883618/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJXYuCBzQFylFJdHRi-CpIdv-VgMVloiyYb0kqOVrlMNvQPrA=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-03-27T04:07:41.346795Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUR3c3NYcWxBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUR3c3NYcWxBRRAB!2m1!1s0x80e826ad4a3c073d:0xa825278df7333fd5
+review_summary: >-
+  Customer Feedback on Sushi Su$$$Visitors often praise the fresh and flavorful
+  sushi selections at this spot, highlighting the high-quality fish and creative
+  specialty rolls that make every bite enjoyable. While most experiences focus
+  on the friendly service and relaxed vibe that keep things welcoming, there was
+  a rare mention of an issue with food freshness, though it's not the norm based
+  on overall comments. The reasonable prices and inviting atmosphere have made
+  it a go-to for casual gatherings or solo diners looking for something
+  delicious. If you're hunting for reliable sushi options close by, many agree
+  that the positives far outweigh any occasional hiccups, with standout
+  appetizers and salads adding to the appeal. All in all, it's a solid pick for
+  anyone craving authentic Japanese flavors without breaking the bank.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
 outdoor_seating: null
 reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
 serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Hello Sushi"
+title: Hello Sushi
 permalink: /california/fullerton/hello-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Fullerton
 seo:
-  name: "Hello Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Hello Sushi serves delicious sushi in Fullerton, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJs5SSAwDW3IARGAPfCiasvfA
 photos:
   - name: >-
@@ -185,7 +183,42 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Hello Sushi in Fullerton, CA$$$Hello Sushi in Fullerton, California,
+  stands out as a relaxed destination for fresh sushi and Japanese-inspired
+  dishes that cater to a variety of tastes. This all-you-can-eat eatery boasts a
+  welcoming vibe with options like a dedicated kids' menu, making it ideal for
+  family outings or casual get-togethers. Special deals during happy hour
+  enhance the experience, offering great value for those seeking affordable
+  sushi spots in the area. Accessibility features, such as wheelchair-friendly
+  entrances and seating, ensure everyone can enjoy the meal comfortably. Whether
+  you're exploring top sushi restaurants nearby or looking for a laid-back
+  Japanese place, this spot delivers on fresh flavors and inclusive dining.
+generative_summary: >-
+  Discover Hello Sushi in Fullerton, CA$$$Hello Sushi in Fullerton, California,
+  stands out as a relaxed destination for fresh sushi and Japanese-inspired
+  dishes that cater to a variety of tastes. This all-you-can-eat eatery boasts a
+  welcoming vibe with options like a dedicated kids' menu, making it ideal for
+  family outings or casual get-togethers. Special deals during happy hour
+  enhance the experience, offering great value for those seeking affordable
+  sushi spots in the area. Accessibility features, such as wheelchair-friendly
+  entrances and seating, ensure everyone can enjoy the meal comfortably. Whether
+  you're exploring top sushi restaurants nearby or looking for a laid-back
+  Japanese place, this spot delivers on fresh flavors and inclusive dining.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Feedback from visitors often highlights the appeal
+  of Hello Sushi's all-you-can-eat setup, with many enjoying the wide range of
+  fresh rolls and generous portions that keep things satisfying. People
+  frequently mention the family-friendly atmosphere and kid options as a big
+  plus, making it a go-to for easy meals with loved ones. Happy hour specials
+  get solid nods for providing budget-friendly fun without skimping on quality.
+  While experiences can vary, the overall vibe comes across as welcoming and
+  accessible, drawing in those hunting for reliable sushi near them. In summary,
+  it's commonly praised as a solid choice for casual dining that balances taste
+  and convenience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +244,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

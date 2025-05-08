@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Villa"
+title: Sushi Villa
 permalink: /california/oakland/sushi-villa.html
 stateAbbr: CA
 stateName: California
 cityName: Oakland
 seo:
-  name: "Sushi Villa"
-  type: Restaurant
+  type: restaurant
   links: https://www.sushivillaca.com/
-description: "Sushi Villa serves delicious sushi in Oakland, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJYfGyDrOAj4ART1yz1GPLYss
 photos:
   - name: >-
@@ -168,7 +166,49 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x808f80b30eb2f161:0xcb62cb63d4b35c4f!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 19
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 19
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 19
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 19
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 19
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 7:00 PM'
     - 'Tuesday: 11:00 AM – 7:00 PM'
     - 'Wednesday: 11:00 AM – 7:00 PM'
@@ -176,14 +216,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 7:00 PM'
     - 'Saturday: Closed'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:00 AM – 7:00 PM'
-    - 'Tuesday: 11:00 AM – 7:00 PM'
-    - 'Wednesday: 11:00 AM – 7:00 PM'
-    - 'Thursday: 11:00 AM – 7:00 PM'
-    - 'Friday: 11:00 AM – 7:00 PM'
-    - 'Saturday: Closed'
-    - 'Sunday: Closed'
+  nextOpenTime: '2025-05-05T18:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -195,35 +228,227 @@ phone: (510) 823-2338
 price_level: null
 price_range: $10 &ndash; $20
 rating: '4.1'
-rating_count: 0
+rating_count: 62
 website: https://www.sushivillaca.com/
-reviews: null
+description: >-
+  Explore Sushi Villa in Oakland, CA$$$Sushi Villa in Oakland, CA, stands out as
+  a welcoming spot for enjoying fresh sushi rolls and poke bowls, blending cozy
+  ambiance with healthy dining choices. This sushi restaurant offers a variety
+  of small plates and nutritious options that cater to those seeking flavorful
+  Japanese-inspired meals close to home. Patrons appreciate the accessible
+  features like wheelchair-friendly entrances, making it easier for everyone to
+  savor high-quality dishes in a relaxed setting. With its focus on generous
+  portions and fresh ingredients, it's an ideal destination for anyone exploring
+  top-rated sushi places near me. Operating mainly for lunch and dinner, Sushi
+  Villa provides a straightforward menu that emphasizes value without
+  overwhelming choices.
+generative_summary: >-
+  Explore Sushi Villa in Oakland, CA$$$Sushi Villa in Oakland, CA, stands out as
+  a welcoming spot for enjoying fresh sushi rolls and poke bowls, blending cozy
+  ambiance with healthy dining choices. This sushi restaurant offers a variety
+  of small plates and nutritious options that cater to those seeking flavorful
+  Japanese-inspired meals close to home. Patrons appreciate the accessible
+  features like wheelchair-friendly entrances, making it easier for everyone to
+  savor high-quality dishes in a relaxed setting. With its focus on generous
+  portions and fresh ingredients, it's an ideal destination for anyone exploring
+  top-rated sushi places near me. Operating mainly for lunch and dinner, Sushi
+  Villa provides a straightforward menu that emphasizes value without
+  overwhelming choices.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJYfGyDrOAj4ART1yz1GPLYss/reviews/ChdDSUhNMG9nS0VJQ0FnSUR2ODhiXzVnRRAB
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        Absolutely MAXIMUM VALUE POKE BOWLS! No surcharge for generous avocado
+        portion at time of posting! This place is such a low-key stunner,
+        fabulous owner who takes pride in serving meals using the freshest fish
+        and ingredients with generous portions that delight and fill you up!
+        Worth the quick trip to 17th @ Harrison corridor. These businesses need
+        us to survive and Sushi Villa is one that is WORTH IT! 10/10 any menu
+        item!
+      languageCode: en
+    originalText:
+      text: >-
+        Absolutely MAXIMUM VALUE POKE BOWLS! No surcharge for generous avocado
+        portion at time of posting! This place is such a low-key stunner,
+        fabulous owner who takes pride in serving meals using the freshest fish
+        and ingredients with generous portions that delight and fill you up!
+        Worth the quick trip to 17th @ Harrison corridor. These businesses need
+        us to survive and Sushi Villa is one that is WORTH IT! 10/10 any menu
+        item!
+      languageCode: en
+    authorAttribution:
+      displayName: Sara Ogilvie
+      uri: https://www.google.com/maps/contrib/101655911790365165269/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWhauQWxV1q422MXn8I7dSLJg8f1E2GpqL2ayqGxo3MNrL455E-=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-12-24T00:35:31.231107Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR2ODhiXzVnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR2ODhiXzVnRRAB!2m1!1s0x808f80b30eb2f161:0xcb62cb63d4b35c4f
+  - name: >-
+      places/ChIJYfGyDrOAj4ART1yz1GPLYss/reviews/ChZDSUhNMG9nS0VJQ0FnSUNydU1xc2RBEAE
+    relativePublishTimeDescription: 10 months ago
+    rating: 1
+    text:
+      text: >-
+        I got the chirashi bowl. It comes with miso soup and salad. After tax
+        $26+. It was extremely disappointing and unappetizing. It didn’t feel
+        fresh at all. I couldn’t identify what I was eating. Some fish was
+        cooked and some was raw. Rubbery shrimp. I couldn’t bring myself to
+        finish it. A lot of money for bad sushi ☹️
+      languageCode: en
+    originalText:
+      text: >-
+        I got the chirashi bowl. It comes with miso soup and salad. After tax
+        $26+. It was extremely disappointing and unappetizing. It didn’t feel
+        fresh at all. I couldn’t identify what I was eating. Some fish was
+        cooked and some was raw. Rubbery shrimp. I couldn’t bring myself to
+        finish it. A lot of money for bad sushi ☹️
+      languageCode: en
+    authorAttribution:
+      displayName: Mishu Pham
+      uri: https://www.google.com/maps/contrib/110835618095814130864/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIlABBIvUcfAnkl1lEV8DUXDwdhNKaAxHkGF-13Qes6WpKl7Q=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-07-04T00:34:30.397875Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNydU1xc2RBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNydU1xc2RBEAE!2m1!1s0x808f80b30eb2f161:0xcb62cb63d4b35c4f
+  - name: >-
+      places/ChIJYfGyDrOAj4ART1yz1GPLYss/reviews/ChZDSUhNMG9nS0VJQ0FnSUREN08td0xBEAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        Fresh ingredients and great tasting food by owner and chef. Poke bowl is
+        fantastic! Went to Tokyo and its neighborhood restaurant and this little
+        shop can hold its own.
+      languageCode: en
+    originalText:
+      text: >-
+        Fresh ingredients and great tasting food by owner and chef. Poke bowl is
+        fantastic! Went to Tokyo and its neighborhood restaurant and this little
+        shop can hold its own.
+      languageCode: en
+    authorAttribution:
+      displayName: Cris
+      uri: https://www.google.com/maps/contrib/112826913276268999310/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUi0xgYZcBMAJEp3opIDSyF7lMw0Rd0oAGQ-UBQq0XqjQ6HmkA=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-04-06T17:40:02.541419Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUREN08td0xBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUREN08td0xBEAE!2m1!1s0x808f80b30eb2f161:0xcb62cb63d4b35c4f
+  - name: >-
+      places/ChIJYfGyDrOAj4ART1yz1GPLYss/reviews/ChdDSUhNMG9nS0VJQ0FnSURVbk5lMHF3RRAB
+    relativePublishTimeDescription: 5 years ago
+    rating: 5
+    text:
+      text: >-
+        I give them five star because they are a couple who is hard working,
+        very attentive, and had treated customers with respect. I see their
+        efforts behind of running a restaurant in Oakland and the sacrifices
+        that they have to make in order to please their clientale. their food
+        has been consistently good and I have never gotten sick so I can say
+        that their fish is pretty fresh. Their rolls are a great deal, I haven't
+        tried their poke bowls but they have a big menu with lots to offer.
+      languageCode: en
+    originalText:
+      text: >-
+        I give them five star because they are a couple who is hard working,
+        very attentive, and had treated customers with respect. I see their
+        efforts behind of running a restaurant in Oakland and the sacrifices
+        that they have to make in order to please their clientale. their food
+        has been consistently good and I have never gotten sick so I can say
+        that their fish is pretty fresh. Their rolls are a great deal, I haven't
+        tried their poke bowls but they have a big menu with lots to offer.
+      languageCode: en
+    authorAttribution:
+      displayName: Keka Grant
+      uri: https://www.google.com/maps/contrib/114670448364071805069/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUpOm8DYQ4JyYXnfNhl075OIjYGAkwq5peXzKW9xv3WTmhffGMVsw=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2019-08-17T03:42:14.539956Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURVbk5lMHF3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURVbk5lMHF3RRAB!2m1!1s0x808f80b30eb2f161:0xcb62cb63d4b35c4f
+  - name: >-
+      places/ChIJYfGyDrOAj4ART1yz1GPLYss/reviews/ChZDSUhNMG9nS0VJQ0FnSUNKa3JiUVZ3EAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        I wouldn't change a thing. Poke bowl was generous and delicious. They
+        made sure to let me know that I could add more ingredients than I asked
+        for. Utensils came with a toothpick for the seaweed teeth. 10/10
+      languageCode: en
+    originalText:
+      text: >-
+        I wouldn't change a thing. Poke bowl was generous and delicious. They
+        made sure to let me know that I could add more ingredients than I asked
+        for. Utensils came with a toothpick for the seaweed teeth. 10/10
+      languageCode: en
+    authorAttribution:
+      displayName: Jessie Trost
+      uri: https://www.google.com/maps/contrib/107753637414904997688/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXAP74RNIa9H659UMvJU7P7zBtRn8IqKQpIgiJQRc3MfZHdLRxr=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2023-06-24T01:51:56.653917Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNKa3JiUVZ3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNKa3JiUVZ3EAE!2m1!1s0x808f80b30eb2f161:0xcb62cb63d4b35c4f
+review_summary: >-
+  Visitor Feedback on Sushi Villa$$$Visitors frequently highlight the generous
+  portions and fresh ingredients in poke bowls, making it a solid pick for
+  anyone craving satisfying sushi options. While most feedback praises the
+  overall value and tasty selections that leave you feeling full and delighted,
+  a few notes mention occasional inconsistencies with certain dishes like
+  chirashi. Overall, the vibe is positive, with many appreciating the attentive
+  service and variety that keeps things exciting for groups or solo diners. If
+  you're on the hunt for reliable sushi restaurants nearby, this spot often
+  delivers on freshness and affordability, though it's wise to stick with
+  popular items for the best experience. In a casual setting, it remains a go-to
+  choice that balances quality with everyday appeal.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
-payment_options: null
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
+delivery: true
+dine_in: true
+good_for_children: true
 good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
 restroom: null
-serves_beer: null
+serves_beer: false
 serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+serves_brunch: false
+serves_cocktails: false
 serves_coffee: null
-serves_dinner: null
+serves_dinner: true
 serves_dessert: null
-serves_lunch: null
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: false
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

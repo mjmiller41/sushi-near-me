@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Splendid Sushi"
+title: Splendid Sushi
 permalink: /new-hampshire/concord/splendid-sushi.html
 stateAbbr: NH
 stateName: New Hampshire
 cityName: Concord
 seo:
-  name: "Splendid Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://order.online/business/splendid-sushi-12623271
-description: "Splendid Sushi serves delicious sushi in Concord, New Hampshire. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ-Ybm9Nxr4okRJyFe4WcNWJE
 photos:
   - name: >-
@@ -183,6 +181,31 @@ price_range: $10 &ndash; $20
 rating: '4.8'
 rating_count: 0
 website: https://order.online/business/splendid-sushi-12623271
+description: >-
+  Discover Splendid Sushi in Concord, New Hampshire$$$Splendid Sushi in Concord,
+  NH, stands out as a casual dining spot renowned for its fresh sushi and
+  Japanese-inspired offerings that appeal to locals and visitors seeking
+  authentic flavors. The restaurant features a wide array of dishes, including
+  dumplings, poke bowls, and bento boxes, all prepared with high-quality
+  ingredients that highlight the art of Japanese cuisine. With its welcoming
+  atmosphere and thoughtful accessibility options like wheelchair-friendly
+  parking and restrooms, it's an ideal choice for a relaxed meal. Whether you're
+  exploring sushi places near you or looking for top-rated options in the area,
+  this spot delivers a satisfying experience that balances taste and
+  convenience.
+generative_summary: >-
+  Discover Splendid Sushi in Concord, New Hampshire$$$Splendid Sushi in Concord,
+  NH, stands out as a casual dining spot renowned for its fresh sushi and
+  Japanese-inspired offerings that appeal to locals and visitors seeking
+  authentic flavors. The restaurant features a wide array of dishes, including
+  dumplings, poke bowls, and bento boxes, all prepared with high-quality
+  ingredients that highlight the art of Japanese cuisine. With its welcoming
+  atmosphere and thoughtful accessibility options like wheelchair-friendly
+  parking and restrooms, it's an ideal choice for a relaxed meal. Whether you're
+  exploring sushi places near you or looking for top-rated options in the area,
+  this spot delivers a satisfying experience that balances taste and
+  convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ-Ybm9Nxr4okRJyFe4WcNWJE/reviews/ChZDSUhNMG9nS0VJQ0FnSURmcC15RldBEAE
@@ -340,6 +363,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNRdkpEWXdnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNRdkpEWXdnRRAB!2m1!1s0x89e26bdcf4e686f9:0x91580d67e15e2127
+review_summary: >-
+  What Customers Are Saying About the Experience$$$Visitors to this sushi
+  restaurant often rave about the incredibly fresh fish and flavorful dishes
+  that make every bite memorable, with plenty of options for vegetarians and
+  vegans adding to the appeal. Many appreciate the quick, friendly service and
+  the easy, casual ordering process that keeps things straightforward without
+  sacrificing quality. While some note that the sushi could be cut a bit thinner
+  for an even better presentation, the overall value and cozy vibe consistently
+  win people over for a laid-back outing. If you're hunting for the best sushi
+  near you, feedback suggests this place offers solid portions at fair prices,
+  making it a go-to for families and groups alike. Overall, it's a spot that
+  delivers on taste and atmosphere, encouraging repeat visits for anyone craving
+  reliable Japanese fare.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidStreetParking: true
   valetParking: false
@@ -371,7 +408,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

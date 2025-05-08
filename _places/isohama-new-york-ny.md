@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Isohama"
+title: Isohama
 permalink: /new-york/new-york/isohama.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "Isohama"
-  type: Restaurant
+  type: restaurant
   links: http://www.isohama.com/
-description: "Tranquil find with dark-wood decor offering a sushi selection plus cooked Japanese dishes. Isohama serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ0xo0S6RYwokR3Bf7nu0vPFs
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 0
 website: http://www.isohama.com/
+description: >-
+  Experience Isohama in New York, NY$$$Isohama in New York, NY, stands out as a
+  cozy Japanese restaurant serving fresh sushi and a range of traditional dishes
+  in a serene setting. This spot offers a welcoming atmosphere with dark-wood
+  decor that enhances the dining experience, making it ideal for those seeking
+  sushi restaurants near me or authentic Japanese flavors. Patrons can enjoy a
+  variety of options, including vegetarian choices and cooked favorites, paired
+  with beverages like beer, wine, and sake for a complete meal. The menu
+  emphasizes quality ingredients, providing a balance of simplicity and taste
+  that appeals to fans of top-rated sushi. Whether you're exploring Japanese
+  places near me or looking for a relaxed spot to unwind, Isohama delivers a
+  satisfying blend of comfort and culinary variety.
+generative_summary: >-
+  Experience Isohama in New York, NY$$$Isohama in New York, NY, stands out as a
+  cozy Japanese restaurant serving fresh sushi and a range of traditional dishes
+  in a serene setting. This spot offers a welcoming atmosphere with dark-wood
+  decor that enhances the dining experience, making it ideal for those seeking
+  sushi restaurants near me or authentic Japanese flavors. Patrons can enjoy a
+  variety of options, including vegetarian choices and cooked favorites, paired
+  with beverages like beer, wine, and sake for a complete meal. The menu
+  emphasizes quality ingredients, providing a balance of simplicity and taste
+  that appeals to fans of top-rated sushi. Whether you're exploring Japanese
+  places near me or looking for a relaxed spot to unwind, Isohama delivers a
+  satisfying blend of comfort and culinary variety.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ0xo0S6RYwokR3Bf7nu0vPFs/reviews/ChdDSUhNMG9nS0VJQ0FnTURRMWJPVzFBRRAB
@@ -366,6 +389,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNINElPRHdnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNINElPRHdnRRAB!2m1!1s0x89c258a44b341ad3:0x5b3c2fed9efb17dc
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors often appreciate the fresh sushi and
+  solid lunch deals at this neighborhood favorite, noting that the flavors hit
+  the spot for a quick Japanese fix. While some mention that portions are modest
+  and service can vary depending on the time of day, the overall value and
+  variety keep things approachable for casual diners. Feedback highlights
+  enjoyable dishes like the chirashi and udon, with many agreeing that the
+  vegetarian options add nice flexibility without compromising taste. Despite a
+  few mixed experiences with certain items, like the texture of some rolls, the
+  friendly vibe and reasonable prices make it a go-to for those craving sushi
+  close to me. All in all, it's a reliable choice for everyday Japanese dining,
+  offering enough positives to encourage return visits while being upfront about
+  room for improvement.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   valetParking: false
 payment_options:
@@ -396,8 +433,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Tranquil find with dark-wood decor offering a sushi selection plus cooked
   Japanese dishes.
 

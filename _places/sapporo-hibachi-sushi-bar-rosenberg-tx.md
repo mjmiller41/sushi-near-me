@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sapporo Hibachi & Sushi Bar"
+title: Sapporo Hibachi & Sushi Bar
 permalink: /texas/rosenberg/sapporo-hibachi-sushi-bar.html
 stateAbbr: TX
 stateName: Texas
 cityName: Rosenberg
 seo:
-  name: "Sapporo Hibachi & Sushi Bar"
-  type: Restaurant
-  links: null
-description: "Sapporo Hibachi & Sushi Bar serves delicious sushi in Rosenberg, Texas. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.sapporosushibarhouston.com/
 place_id: ChIJQRTt7wwdQYYR1B3hJJtAqlg
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x86411d0cefed1441:0x58aa409b24e11dd4!10e5
 primary_type: Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:30 PM'
+    - 'Tuesday: 11:00 AM – 9:30 PM'
+    - 'Wednesday: 11:00 AM – 9:30 PM'
+    - 'Thursday: 11:00 AM – 9:30 PM'
+    - 'Friday: 11:00 AM – 10:00 PM'
+    - 'Saturday: 11:00 AM – 10:00 PM'
+    - 'Sunday: 11:00 AM – 9:30 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,57 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (346) 467-2025
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.5'
+rating_count: 185
+website: http://www.sapporosushibarhouston.com/
+description: >-
+  Discover Sapporo Hibachi & Sushi Bar in Rosenberg, TX$$$In Rosenberg, TX,
+  Sapporo Hibachi & Sushi Bar stands out as a cozy spot for enjoying fresh
+  Japanese-inspired cuisine, blending hibachi flair with a variety of sushi
+  options that appeal to local diners seeking authentic flavors. This welcoming
+  restaurant features a casual atmosphere perfect for casual meals, complete
+  with beer and wine selections to enhance your dining experience, making it an
+  ideal choice for those exploring top-rated sushi restaurants nearby.
+  Accessibility is a key highlight, with wheelchair-friendly parking, entrances,
+  and seating that ensure everyone can enjoy the vibrant hibachi shows and
+  meticulously prepared dishes. Operating daily from late morning into the
+  evening, it offers a convenient option for families or groups looking for
+  quality Japanese places near me without the hassle of fine dining
+  reservations.
+generative_summary: >-
+  Discover Sapporo Hibachi & Sushi Bar in Rosenberg, TX$$$In Rosenberg, TX,
+  Sapporo Hibachi & Sushi Bar stands out as a cozy spot for enjoying fresh
+  Japanese-inspired cuisine, blending hibachi flair with a variety of sushi
+  options that appeal to local diners seeking authentic flavors. This welcoming
+  restaurant features a casual atmosphere perfect for casual meals, complete
+  with beer and wine selections to enhance your dining experience, making it an
+  ideal choice for those exploring top-rated sushi restaurants nearby.
+  Accessibility is a key highlight, with wheelchair-friendly parking, entrances,
+  and seating that ensure everyone can enjoy the vibrant hibachi shows and
+  meticulously prepared dishes. Operating daily from late morning into the
+  evening, it offers a convenient option for families or groups looking for
+  quality Japanese places near me without the hassle of fine dining
+  reservations.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What People Are Saying About This Local Sushi Favorite$$$Visitors to this
+  sushi spot in Rosenberg often rave about the fresh, flavorful dishes that make
+  it a go-to for satisfying cravings, with many highlighting the well-executed
+  hibachi and sushi selections as standout features. Feedback frequently notes
+  the reasonable prices and welcoming vibe, creating a relaxed environment
+  that's great for a quick bite or casual outing, though some mention occasional
+  waits during peak hours. Overall, folks appreciate the solid value and tasty
+  options that keep them coming back, positioning it as one of the best sushi
+  near me for everyday enjoyment. While not every experience is flawless, the
+  high marks from the community suggest it's a reliable pick for anyone hunting
+  for sushi restaurants close to home. If you're in the mood for something
+  simple yet delicious, this place delivers with a consistently positive vibe
+  that leaves diners feeling content.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +318,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

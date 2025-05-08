@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yume Sushi"
+title: Yume Sushi
 permalink: /wisconsin/madison/yume-sushi.html
 stateAbbr: WI
 stateName: Wisconsin
 cityName: Madison
 seo:
-  name: "Yume Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.yumesushimadison.com/
-description: "Casual eatery serving sushi rolls, noodle dishes & other Japanese staples in simple digs. Yume Sushi serves delicious sushi in Madison, Wisconsin. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJJ-zlczZTBogRM3JXw0WwV3I
 photos:
   - name: >-
@@ -182,6 +180,31 @@ price_range: $10 &ndash; $20
 rating: '4.0'
 rating_count: 0
 website: https://www.yumesushimadison.com/
+description: >-
+  Discover Yume Sushi in Madison, WI$$$Yume Sushi in Madison, WI, provides a
+  relaxed and inviting atmosphere for enjoying authentic Japanese flavors,
+  including fresh sushi rolls and classic noodle dishes. This spot stands out
+  for its casual vibe, offering a selection of beer, wine, and sake to
+  complement your meal, making it ideal for those searching for Japanese places
+  near me. With moderate pricing and options like wheelchair-accessible seating,
+  it's a convenient choice for a satisfying dine-in or takeout experience. The
+  menu highlights fresh ingredients and simple yet flavorful preparations,
+  appealing to anyone craving top-rated sushi in a welcoming setting. Whether
+  you're looking for sushi restaurants that balance quality and affordability,
+  Yume Sushi delivers a solid option for everyday enjoyment.
+generative_summary: >-
+  Discover Yume Sushi in Madison, WI$$$Yume Sushi in Madison, WI, provides a
+  relaxed and inviting atmosphere for enjoying authentic Japanese flavors,
+  including fresh sushi rolls and classic noodle dishes. This spot stands out
+  for its casual vibe, offering a selection of beer, wine, and sake to
+  complement your meal, making it ideal for those searching for Japanese places
+  near me. With moderate pricing and options like wheelchair-accessible seating,
+  it's a convenient choice for a satisfying dine-in or takeout experience. The
+  menu highlights fresh ingredients and simple yet flavorful preparations,
+  appealing to anyone craving top-rated sushi in a welcoming setting. Whether
+  you're looking for sushi restaurants that balance quality and affordability,
+  Yume Sushi delivers a solid option for everyday enjoyment.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJJ-zlczZTBogRM3JXw0WwV3I/reviews/ChZDSUhNMG9nS0VJQ0FnSUNkbGR6cWVBEAE
@@ -369,6 +392,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURDMHVyVjF3RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURDMHVyVjF3RRAB!2m1!1s0x8806533673e5ec27:0x7257b045c3577233
+review_summary: >-
+  What Customers Are Saying$$$Folks generally appreciate the quick service and
+  fresh-tasting rolls at this spot, often noting it as a reliable go-to for
+  affordable Japanese meals that hit the spot for takeout or casual dining. Many
+  highlight the variety of options like the dragonfly and Philly rolls, praising
+  their flavor and value without breaking the bank. While some have mentioned
+  occasional inconsistencies with certain dishes, like freshness issues, the
+  overall experience still draws positive nods for its convenience and friendly
+  atmosphere. It's a favorite among those seeking sushi near me for everyday
+  cravings, though a few suggest sticking to well-reviewed items for the best
+  results. All in all, if you're on the hunt for straightforward,
+  budget-friendly sushi places, this one earns kudos for its strengths while
+  keeping things real about room for improvement.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeStreetParking: true
   valetParking: false
@@ -400,8 +437,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Casual eatery serving sushi rolls, noodle dishes & other Japanese staples in
   simple digs.
 

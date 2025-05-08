@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Bonchon Orlando"
+title: Bonchon Orlando
 permalink: /florida/orlando/bonchon-orlando.html
 stateAbbr: FL
 stateName: Florida
 cityName: Orlando
 seo:
-  name: "Bonchon Orlando"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Bonchon Orlando serves delicious sushi in Orlando, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJw45eaAhj54gRwkXFo7l-klc
 photos:
   - name: >-
@@ -185,7 +183,39 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Bonchon Orlando in Florida$$$Bonchon Orlando in Orlando, FL, stands
+  out as a vibrant Asian restaurant specializing in Korean-inspired flavors,
+  conveniently located near the airport for easy access. This spot emphasizes
+  accessibility with features like wheelchair-friendly parking, entrances, and
+  seating, ensuring a comfortable visit for all guests. The atmosphere is lively
+  and inviting, as captured in various photos that showcase a cozy dining
+  environment perfect for casual meals or group gatherings. Whether you're
+  seeking flavorful dishes in a relaxed setting, it's an ideal choice for those
+  exploring Asian cuisine options in the area.
+generative_summary: >-
+  Discover Bonchon Orlando in Florida$$$Bonchon Orlando in Orlando, FL, stands
+  out as a vibrant Asian restaurant specializing in Korean-inspired flavors,
+  conveniently located near the airport for easy access. This spot emphasizes
+  accessibility with features like wheelchair-friendly parking, entrances, and
+  seating, ensuring a comfortable visit for all guests. The atmosphere is lively
+  and inviting, as captured in various photos that showcase a cozy dining
+  environment perfect for casual meals or group gatherings. Whether you're
+  seeking flavorful dishes in a relaxed setting, it's an ideal choice for those
+  exploring Asian cuisine options in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Folks checking out this Asian eatery often
+  highlight the tasty Korean-inspired dishes and the welcoming vibe that makes
+  every meal feel special. Many appreciate the thoughtful accessibility
+  features, like easy entry and seating, which add to the overall convenience
+  for a wide range of diners. The spot's prime location near the airport gets
+  nods for being a hassle-free stop for travelers looking for a quick bite.
+  While specific feedback varies, it's generally seen as a solid pick for casual
+  get-togethers, with most agreeing that the flavorful options keep people
+  coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +241,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Itto Sushi JC"
+title: Itto Sushi JC
 permalink: /new-jersey/jersey-city/itto-sushi-jc.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Jersey City
 seo:
-  name: "Itto Sushi JC"
-  type: Restaurant
-  links: null
-description: "Itto Sushi JC serves delicious sushi in Jersey City, New Jersey. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.instagram.com/ittosushijc/
 place_id: ChIJwbV12epRwokR6hEFDfolaU8
 photos:
   - name: >-
@@ -168,22 +166,496 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c251ead975b5c1:0x4f6925fa0d0511ea!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 14
+        minute: 30
+    - open:
+        day: 0
+        hour: 16
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 14
+        minute: 30
+    - open:
+        day: 6
+        hour: 16
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: Closed'
+    - 'Tuesday: 11:30 AM – 2:30 PM, 4:00 – 10:00 PM'
+    - 'Wednesday: 11:30 AM – 2:30 PM, 4:00 – 10:00 PM'
+    - 'Thursday: 11:30 AM – 2:30 PM, 4:00 – 10:00 PM'
+    - 'Friday: 11:30 AM – 2:30 PM, 4:00 – 10:00 PM'
+    - 'Saturday: 11:30 AM – 2:30 PM, 4:00 – 10:00 PM'
+    - 'Sunday: 12:00 – 2:30 PM, 4:00 – 9:30 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 0
+        close:
+          day: 0
+          hour: 14
+          minute: 0
+      - open:
+          day: 0
+          hour: 16
+          minute: 0
+        close:
+          day: 0
+          hour: 20
+          minute: 30
+      - open:
+          day: 2
+          hour: 11
+          minute: 30
+        close:
+          day: 2
+          hour: 14
+          minute: 0
+      - open:
+          day: 2
+          hour: 16
+          minute: 0
+        close:
+          day: 2
+          hour: 21
+          minute: 0
+      - open:
+          day: 3
+          hour: 11
+          minute: 30
+        close:
+          day: 3
+          hour: 14
+          minute: 0
+      - open:
+          day: 3
+          hour: 16
+          minute: 0
+        close:
+          day: 3
+          hour: 21
+          minute: 0
+      - open:
+          day: 4
+          hour: 11
+          minute: 30
+        close:
+          day: 4
+          hour: 14
+          minute: 0
+      - open:
+          day: 4
+          hour: 16
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 0
+      - open:
+          day: 5
+          hour: 11
+          minute: 30
+        close:
+          day: 5
+          hour: 14
+          minute: 0
+      - open:
+          day: 5
+          hour: 16
+          minute: 0
+        close:
+          day: 5
+          hour: 21
+          minute: 0
+      - open:
+          day: 6
+          hour: 11
+          minute: 30
+        close:
+          day: 6
+          hour: 14
+          minute: 0
+      - open:
+          day: 6
+          hour: 16
+          minute: 0
+        close:
+          day: 6
+          hour: 21
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: Closed'
+      - 'Tuesday: 11:30 AM – 2:00 PM, 4:00 – 9:00 PM'
+      - 'Wednesday: 11:30 AM – 2:00 PM, 4:00 – 9:00 PM'
+      - 'Thursday: 11:30 AM – 2:00 PM, 4:00 – 9:00 PM'
+      - 'Friday: 11:30 AM – 2:00 PM, 4:00 – 9:00 PM'
+      - 'Saturday: 11:30 AM – 2:00 PM, 4:00 – 9:00 PM'
+      - 'Sunday: 12:00 – 2:00 PM, 4:00 – 8:30 PM'
+    secondaryHoursType: DELIVERY
+    nextCloseTime: '2025-05-04T01:00:00Z'
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 0
+        close:
+          day: 0
+          hour: 14
+          minute: 0
+      - open:
+          day: 0
+          hour: 16
+          minute: 0
+        close:
+          day: 0
+          hour: 20
+          minute: 30
+      - open:
+          day: 2
+          hour: 11
+          minute: 30
+        close:
+          day: 2
+          hour: 14
+          minute: 0
+      - open:
+          day: 2
+          hour: 16
+          minute: 0
+        close:
+          day: 2
+          hour: 21
+          minute: 0
+      - open:
+          day: 3
+          hour: 11
+          minute: 30
+        close:
+          day: 3
+          hour: 14
+          minute: 0
+      - open:
+          day: 3
+          hour: 16
+          minute: 0
+        close:
+          day: 3
+          hour: 21
+          minute: 0
+      - open:
+          day: 4
+          hour: 11
+          minute: 30
+        close:
+          day: 4
+          hour: 14
+          minute: 0
+      - open:
+          day: 4
+          hour: 16
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 0
+      - open:
+          day: 5
+          hour: 11
+          minute: 30
+        close:
+          day: 5
+          hour: 14
+          minute: 0
+      - open:
+          day: 5
+          hour: 16
+          minute: 0
+        close:
+          day: 5
+          hour: 21
+          minute: 0
+      - open:
+          day: 6
+          hour: 11
+          minute: 30
+        close:
+          day: 6
+          hour: 14
+          minute: 0
+      - open:
+          day: 6
+          hour: 16
+          minute: 0
+        close:
+          day: 6
+          hour: 21
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: Closed'
+      - 'Tuesday: 11:30 AM – 2:00 PM, 4:00 – 9:00 PM'
+      - 'Wednesday: 11:30 AM – 2:00 PM, 4:00 – 9:00 PM'
+      - 'Thursday: 11:30 AM – 2:00 PM, 4:00 – 9:00 PM'
+      - 'Friday: 11:30 AM – 2:00 PM, 4:00 – 9:00 PM'
+      - 'Saturday: 11:30 AM – 2:00 PM, 4:00 – 9:00 PM'
+      - 'Sunday: 12:00 – 2:00 PM, 4:00 – 8:30 PM'
+    secondaryHoursType: KITCHEN
+    nextCloseTime: '2025-05-04T01:00:00Z'
+  - openNow: false
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 0
+        close:
+          day: 0
+          hour: 14
+          minute: 0
+      - open:
+          day: 2
+          hour: 11
+          minute: 30
+        close:
+          day: 2
+          hour: 14
+          minute: 0
+      - open:
+          day: 3
+          hour: 11
+          minute: 30
+        close:
+          day: 3
+          hour: 14
+          minute: 0
+      - open:
+          day: 4
+          hour: 11
+          minute: 30
+        close:
+          day: 4
+          hour: 14
+          minute: 0
+      - open:
+          day: 5
+          hour: 11
+          minute: 30
+        close:
+          day: 6
+          hour: 0
+          minute: 0
+      - open:
+          day: 6
+          hour: 11
+          minute: 30
+        close:
+          day: 6
+          hour: 14
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: Closed'
+      - 'Tuesday: 11:30 AM – 2:00 PM'
+      - 'Wednesday: 11:30 AM – 2:00 PM'
+      - 'Thursday: 11:30 AM – 2:00 PM'
+      - 'Friday: 11:30 AM – 12:00 AM'
+      - 'Saturday: 11:30 AM – 2:00 PM'
+      - 'Sunday: 12:00 – 2:00 PM'
+    secondaryHoursType: LUNCH
+    nextOpenTime: '2025-05-04T16:00:00Z'
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 16
+          minute: 0
+        close:
+          day: 0
+          hour: 20
+          minute: 30
+      - open:
+          day: 2
+          hour: 16
+          minute: 0
+        close:
+          day: 2
+          hour: 21
+          minute: 0
+      - open:
+          day: 3
+          hour: 16
+          minute: 0
+        close:
+          day: 3
+          hour: 21
+          minute: 0
+      - open:
+          day: 4
+          hour: 16
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 0
+      - open:
+          day: 5
+          hour: 16
+          minute: 0
+        close:
+          day: 5
+          hour: 21
+          minute: 0
+      - open:
+          day: 6
+          hour: 16
+          minute: 0
+        close:
+          day: 6
+          hour: 21
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: Closed'
+      - 'Tuesday: 4:00 – 9:00 PM'
+      - 'Wednesday: 4:00 – 9:00 PM'
+      - 'Thursday: 4:00 – 9:00 PM'
+      - 'Friday: 4:00 – 9:00 PM'
+      - 'Saturday: 4:00 – 9:00 PM'
+      - 'Sunday: 4:00 – 8:30 PM'
+    secondaryHoursType: DINNER
+    nextCloseTime: '2025-05-04T01:00:00Z'
+phone: (732) 997-4200
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.5'
+rating_count: 286
+website: https://www.instagram.com/ittosushijc/
+description: >-
+  Explore Itto Sushi JC in Jersey City, NJ$$$Nestled in the heart of Jersey
+  City, NJ, Itto Sushi JC stands out as a welcoming spot for those seeking
+  authentic Japanese flavors and more. This casual eatery delights with a menu
+  featuring fresh sushi rolls, sashimi, teriyaki options, and hearty bento
+  boxes, complemented by a selection of Korean-inspired dishes for a diverse
+  dining experience. Patrons can enjoy a relaxed atmosphere perfect for casual
+  meals or quick bites, with accessibility features like wheelchair-friendly
+  seating adding to its appeal. The restaurant's focus on quality ingredients
+  and variety makes it a go-to choice for sushi enthusiasts exploring local
+  options. Whether you're in the mood for top-rated sushi near you or a
+  satisfying Japanese meal, this spot combines tradition with modern
+  convenience.
+generative_summary: >-
+  Explore Itto Sushi JC in Jersey City, NJ$$$Nestled in the heart of Jersey
+  City, NJ, Itto Sushi JC stands out as a welcoming spot for those seeking
+  authentic Japanese flavors and more. This casual eatery delights with a menu
+  featuring fresh sushi rolls, sashimi, teriyaki options, and hearty bento
+  boxes, complemented by a selection of Korean-inspired dishes for a diverse
+  dining experience. Patrons can enjoy a relaxed atmosphere perfect for casual
+  meals or quick bites, with accessibility features like wheelchair-friendly
+  seating adding to its appeal. The restaurant's focus on quality ingredients
+  and variety makes it a go-to choice for sushi enthusiasts exploring local
+  options. Whether you're in the mood for top-rated sushi near you or a
+  satisfying Japanese meal, this spot combines tradition with modern
+  convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback on Itto Sushi JC$$$Visitors often rave about the delicious
+  and fresh sushi offerings, with standout dishes like the spicy pork dinner box
+  and creamy udon drawing plenty of praise for their bold flavors. Many
+  appreciate the friendly and attentive service that makes every visit feel
+  welcoming and enjoyable. The clean, modern ambiance adds to the overall charm,
+  creating a comfortable space for casual dining or gatherings. Overall, it's
+  clear that folks find this place reliable for a satisfying meal, blending
+  great taste with a relaxed vibe. If you're hunting for reliable sushi
+  restaurants nearby, the positive experiences shared here suggest it's worth a
+  try for an uplifting culinary adventure.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -209,7 +681,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

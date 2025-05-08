@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Bros"
+title: Sushi Bros
 permalink: /idaho/boise/sushi-bros.html
 stateAbbr: ID
 stateName: Idaho
 cityName: Boise
 seo:
-  name: "Sushi Bros"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi Bros serves delicious sushi in Boise, Idaho. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJJ5rfJQlWrlQR2HWSBO_DIEk
 photos:
   - name: >-
@@ -185,7 +183,41 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Sushi Bros in Boise, ID$$$Sushi Bros in Boise, ID, stands out as a
+  laid-back spot for enjoying authentic Japanese flavors, featuring a menu
+  packed with fresh sushi rolls, sashimi, and hearty rice bowls. This casual
+  venue enhances the dining experience with options like beer to pair with your
+  meal, making it ideal for a relaxed outing or quick bite. Accessibility
+  features, such as wheelchair-friendly parking and seating, ensure everyone can
+  savor the vibrant atmosphere and thoughtful dish selections. For those
+  exploring sushi places near you, this location delivers on quality and
+  variety, blending traditional tastes with a welcoming vibe that keeps locals
+  coming back.
+generative_summary: >-
+  Discover Sushi Bros in Boise, ID$$$Sushi Bros in Boise, ID, stands out as a
+  laid-back spot for enjoying authentic Japanese flavors, featuring a menu
+  packed with fresh sushi rolls, sashimi, and hearty rice bowls. This casual
+  venue enhances the dining experience with options like beer to pair with your
+  meal, making it ideal for a relaxed outing or quick bite. Accessibility
+  features, such as wheelchair-friendly parking and seating, ensure everyone can
+  savor the vibrant atmosphere and thoughtful dish selections. For those
+  exploring sushi places near you, this location delivers on quality and
+  variety, blending traditional tastes with a welcoming vibe that keeps locals
+  coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Visitor Feedback$$$Visitors to this sushi spot often highlight
+  the fresh ingredients and creative flavor combinations that make meals feel
+  satisfying and authentic. Many appreciate the casual setting and beer
+  selections, noting it as a solid choice for anyone craving top-rated sushi
+  without the fuss. While some mention occasional waits during busy times, the
+  overall consensus leans positive, with folks enjoying the approachable vibe
+  and reliable portions. If you're on the hunt for Japanese-inspired dining
+  close to you, feedback suggests this place delivers a genuine experience
+  that's worth trying for its balance of taste and affordability.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +243,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

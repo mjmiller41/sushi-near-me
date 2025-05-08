@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Hamachi Sushi Bar"
+title: Hamachi Sushi Bar
 permalink: /illinois/chicago/hamachi-sushi-bar.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
 seo:
-  name: "Hamachi Sushi Bar"
-  type: Restaurant
+  type: restaurant
   links: http://www.hamachichicago.com/
-description: "Hamachi Sushi Bar serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJT8glttXPD4gRi905Xw3r1xg
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x880fcfd5b625c84f:0x18d7eb0d5f39dd8b!10e5
 primary_type: Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 30
+    - open:
+        day: 1
+        hour: 12
+        minute: 0
+      close:
+        day: 1
+        hour: 20
+        minute: 30
+    - open:
+        day: 2
+        hour: 12
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 30
+    - open:
+        day: 3
+        hour: 12
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 30
+    - open:
+        day: 4
+        hour: 12
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 13
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 12:00 – 8:30 PM'
     - 'Tuesday: 12:00 – 8:30 PM'
     - 'Wednesday: 12:00 – 8:30 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 1:30 PM'
     - 'Saturday: Closed'
     - 'Sunday: 12:00 – 8:30 PM'
-  current:
-    - 'Monday: 12:00 – 8:30 PM'
-    - 'Tuesday: 12:00 – 8:30 PM'
-    - 'Wednesday: 12:00 – 8:30 PM'
-    - 'Thursday: 12:00 – 8:30 PM'
-    - 'Friday: 11:00 AM – 1:30 PM'
-    - 'Saturday: Closed'
-    - 'Sunday: 12:00 – 8:30 PM'
+  nextOpenTime: '2025-05-04T17:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +238,44 @@ phone: (773) 293-6904
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.5'
-rating_count: 0
+rating_count: 380
 website: http://www.hamachichicago.com/
+description: >-
+  Discover Hamachi Sushi Bar in Chicago, IL$$$Hamachi Sushi Bar in Chicago, IL,
+  is a welcoming kosher Japanese eatery that delights visitors with its array of
+  fresh sushi rolls and creative menu options. This spot combines traditional
+  Japanese flavors with influences from Chinese fare and hearty sandwiches, all
+  crafted to appeal to a variety of tastes. Accessibility features like
+  wheelchair-friendly parking and entrances make it an inclusive choice for
+  everyone seeking quality dining. Whether you're exploring sushi restaurants in
+  the area or looking for Japanese places near you, the eatery's cozy atmosphere
+  and thoughtful details enhance the overall experience, making it a standout
+  option for casual meals.
+generative_summary: >-
+  Discover Hamachi Sushi Bar in Chicago, IL$$$Hamachi Sushi Bar in Chicago, IL,
+  is a welcoming kosher Japanese eatery that delights visitors with its array of
+  fresh sushi rolls and creative menu options. This spot combines traditional
+  Japanese flavors with influences from Chinese fare and hearty sandwiches, all
+  crafted to appeal to a variety of tastes. Accessibility features like
+  wheelchair-friendly parking and entrances make it an inclusive choice for
+  everyone seeking quality dining. Whether you're exploring sushi restaurants in
+  the area or looking for Japanese places near you, the eatery's cozy atmosphere
+  and thoughtful details enhance the overall experience, making it a standout
+  option for casual meals.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Folks often rave about Hamachi Sushi Bar's tasty
+  sushi selections and well-prepared dishes, based on its strong reputation
+  among diners. Many appreciate the fresh ingredients and reasonable prices,
+  noting that it offers great value for a satisfying meal. The welcoming vibe
+  and attentive service come up frequently as highlights, making it a go-to spot
+  for groups or solo visits. While opinions vary, the overall feedback leans
+  positive with a high rating, suggesting it's a solid pick if you're hunting
+  for top-rated sushi near you. In a casual setting like this, the consistent
+  praise for flavor and atmosphere helps it maintain its appeal for those
+  craving reliable Japanese-inspired eats.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +301,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

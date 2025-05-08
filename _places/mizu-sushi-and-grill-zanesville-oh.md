@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Mizu Sushi And Grill"
+title: Mizu Sushi And Grill
 permalink: /ohio/zanesville/mizu-sushi-and-grill.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Zanesville
 seo:
-  name: "Mizu Sushi And Grill"
-  type: Restaurant
+  type: restaurant
   links: http://mizuzanesville.com/
-description: "Mizu Sushi And Grill serves delicious sushi in Zanesville, Ohio. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJIz2nZpntN4gR6-4PsQO1k3I
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 0
 website: http://mizuzanesville.com/
+description: >-
+  Discover Mizu Sushi and Grill in Zanesville, Ohio$$$Nestled in Zanesville,
+  Ohio, Mizu Sushi and Grill stands out as a welcoming spot for those seeking
+  authentic Japanese flavors in a casual setting. This sushi restaurant offers
+  an impressive selection of fresh rolls, sashimi, and hibachi dishes, perfect
+  for a satisfying lunch or dinner outing. Diners can enjoy a variety of options
+  that highlight creative presentations and quality ingredients, making it a
+  go-to choice for exploring Japanese cuisine close to home. The atmosphere
+  combines comfort with accessibility features like wheelchair-friendly
+  entrances and parking, enhancing the overall experience. Whether you're
+  looking for top-rated sushi options nearby or a relaxed place to try new
+  flavors, this spot delivers a memorable meal without the fuss.
+generative_summary: >-
+  Discover Mizu Sushi and Grill in Zanesville, Ohio$$$Nestled in Zanesville,
+  Ohio, Mizu Sushi and Grill stands out as a welcoming spot for those seeking
+  authentic Japanese flavors in a casual setting. This sushi restaurant offers
+  an impressive selection of fresh rolls, sashimi, and hibachi dishes, perfect
+  for a satisfying lunch or dinner outing. Diners can enjoy a variety of options
+  that highlight creative presentations and quality ingredients, making it a
+  go-to choice for exploring Japanese cuisine close to home. The atmosphere
+  combines comfort with accessibility features like wheelchair-friendly
+  entrances and parking, enhancing the overall experience. Whether you're
+  looking for top-rated sushi options nearby or a relaxed place to try new
+  flavors, this spot delivers a memorable meal without the fuss.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJIz2nZpntN4gR6-4PsQO1k3I/reviews/ChZDSUhNMG9nS0VJQ0FnTUNBOHR1bUR3EAE
@@ -336,6 +359,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMzbDZ6V2h3RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMzbDZ6V2h3RRAB!2m1!1s0x8837ed9966a73d23:0x7293b503b10feeeb
+review_summary: >-
+  What Customers Love About This Local Sushi Spot$$$Visitors often rave about
+  the fresh and diverse sushi selections that make this restaurant a standout in
+  the area, with many appreciating the creative variety and flavorful dishes
+  like coconut shrimp. The staff comes across as friendly and attentive, helping
+  to create a welcoming vibe that keeps people coming back for more. While most
+  feedback highlights the clean environment and solid portions at reasonable
+  prices, a few notes suggest that expectations around fish quality can vary, so
+  it's worth trying popular rolls first. Overall, it's a great pick for anyone
+  searching for reliable sushi places near me, offering a mix of hits that
+  satisfy groups or families looking for a casual dine-in experience. If you're
+  in the mood for something tasty and approachable, this spot generally delivers
+  a positive meal that lives up to its reputation.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   paidStreetParking: false
@@ -368,7 +405,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

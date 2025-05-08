@@ -5,4 +5,5 @@ permalink: /illinois/chicago/
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
+
 ---

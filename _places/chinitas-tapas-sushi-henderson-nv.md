@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Chinitas Tapas & Sushi"
+title: Chinitas Tapas & Sushi
 permalink: /nevada/henderson/chinitas-tapas-sushi.html
 stateAbbr: NV
 stateName: Nevada
 cityName: Henderson
 seo:
-  name: "Chinitas Tapas & Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.chinitastapas.com/
-description: "Chinitas Tapas & Sushi serves delicious sushi in Henderson, Nevada. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJbQHfSvfXyIARU17iK0Spv1A
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c8d7f74adf016d:0x50bfa9442be25e53!10e5
 primary_type: Asian Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 9:00 PM'
     - 'Tuesday: 11:30 AM – 9:00 PM'
     - 'Wednesday: 11:30 AM – 9:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 10:00 PM'
     - 'Saturday: 11:30 AM – 10:00 PM'
     - 'Sunday: 11:00 AM – 9:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 9:00 PM'
-    - 'Tuesday: 11:30 AM – 9:00 PM'
-    - 'Wednesday: 11:30 AM – 9:00 PM'
-    - 'Thursday: 11:30 AM – 9:00 PM'
-    - 'Friday: 11:30 AM – 10:00 PM'
-    - 'Saturday: 11:30 AM – 10:00 PM'
-    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T05:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,342 @@ phone: (702) 405-8215
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.7'
-rating_count: 0
+rating_count: 1014
 website: http://www.chinitastapas.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Chinitas Tapas & Sushi in Henderson, NV$$$Chinitas Tapas & Sushi in
+  Henderson, NV, blends Asian fusion flavors with creative tapas for a vibrant
+  dining experience that appeals to sushi enthusiasts. This spot features fresh
+  ingredients in dishes that highlight bold tastes and thoughtful presentations,
+  making it a go-to for those exploring sushi restaurants nearby. With
+  accessible entrances, outdoor seating, and options for groups, it caters to a
+  wide range of visitors seeking a relaxed yet lively atmosphere. The menu
+  includes vegetarian choices and live music, adding to its appeal for casual
+  outings or special occasions. If you're searching for top-rated sushi options
+  close to home, this location delivers a mix of quality and convenience that
+  keeps diners coming back.
+generative_summary: >-
+  Discover Chinitas Tapas & Sushi in Henderson, NV$$$Chinitas Tapas & Sushi in
+  Henderson, NV, blends Asian fusion flavors with creative tapas for a vibrant
+  dining experience that appeals to sushi enthusiasts. This spot features fresh
+  ingredients in dishes that highlight bold tastes and thoughtful presentations,
+  making it a go-to for those exploring sushi restaurants nearby. With
+  accessible entrances, outdoor seating, and options for groups, it caters to a
+  wide range of visitors seeking a relaxed yet lively atmosphere. The menu
+  includes vegetarian choices and live music, adding to its appeal for casual
+  outings or special occasions. If you're searching for top-rated sushi options
+  close to home, this location delivers a mix of quality and convenience that
+  keeps diners coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJbQHfSvfXyIARU17iK0Spv1A/reviews/ChdDSUhNMG9nS0VJQ0FnTURJLWNDWHRnRRAB
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 5
+    text:
+      text: >-
+        Chinitas Tapas and Asian Fusion is an absolute gem! The food was nothing
+        short of amazing—each dish was bursting with flavor and beautifully
+        presented. The unique blend of tapas and Asian cuisine made for an
+        unforgettable dining experience.
+
+
+        The service was top-notch; the staff was friendly, attentive, and really
+        knew their menu, offering great recommendations. And let’s not forget
+        about the happy hour—it’s hands down the best in town! With delicious
+        drink specials and tasty bites, it’s the perfect way to unwind after a
+        long day.
+
+
+        I can’t wait to return to Chinitas for more culinary delights! Highly
+        recommend! 🍽️🥢🍹
+      languageCode: en
+    originalText:
+      text: >-
+        Chinitas Tapas and Asian Fusion is an absolute gem! The food was nothing
+        short of amazing—each dish was bursting with flavor and beautifully
+        presented. The unique blend of tapas and Asian cuisine made for an
+        unforgettable dining experience.
+
+
+        The service was top-notch; the staff was friendly, attentive, and really
+        knew their menu, offering great recommendations. And let’s not forget
+        about the happy hour—it’s hands down the best in town! With delicious
+        drink specials and tasty bites, it’s the perfect way to unwind after a
+        long day.
+
+
+        I can’t wait to return to Chinitas for more culinary delights! Highly
+        recommend! 🍽️🥢🍹
+      languageCode: en
+    authorAttribution:
+      displayName: Danika M.
+      uri: https://www.google.com/maps/contrib/116047337222267706576/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXDCASYvE3dj8UslwBkVMeXFQEsqNhU_Po8uUczziWZPB42cCpn=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-04-11T12:25:26.738158Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJLWNDWHRnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJLWNDWHRnRRAB!2m1!1s0x80c8d7f74adf016d:0x50bfa9442be25e53
+  - name: >-
+      places/ChIJbQHfSvfXyIARU17iK0Spv1A/reviews/ChdDSUhNMG9nS0VJQ0FnTUNvLU9YR3V3RRAB
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 4
+    text:
+      text: >-
+        Came here to celebrate my friends wedding. We had the entire patio all
+        to ourselves. When we first arrived, we walked right on the patio and
+        they had misters running. It was hot so that was perfect. It cooled down
+        the whole area. The seating was a bit tight but we made it work. The
+        inside of the restaurant was pretty good in size. Definitely a spot I
+        would come back to dine at.
+
+
+        Food:
+
+        Lasagna Sushi
+
+        Chicken Wings
+
+        Shrimp Taco
+
+        Bacon Wrapped Shrimp
+
+
+        The Lasagna Sushi and Wings were delicious.  The shrimp taco was also
+        yummy but the tortilla wrap kept breaking.  It was very thin. Lastly, I
+        had some bacon wrapped shrimp and oh my, I had 2 of them. I enjoyed the
+        food so much that Imma be sure to return.
+
+
+        Overall, the server was friendly and nice. She took care of all of our
+        drink orders. The guest ticket system was strange but it worked.
+      languageCode: en
+    originalText:
+      text: >-
+        Came here to celebrate my friends wedding. We had the entire patio all
+        to ourselves. When we first arrived, we walked right on the patio and
+        they had misters running. It was hot so that was perfect. It cooled down
+        the whole area. The seating was a bit tight but we made it work. The
+        inside of the restaurant was pretty good in size. Definitely a spot I
+        would come back to dine at.
+
+
+        Food:
+
+        Lasagna Sushi
+
+        Chicken Wings
+
+        Shrimp Taco
+
+        Bacon Wrapped Shrimp
+
+
+        The Lasagna Sushi and Wings were delicious.  The shrimp taco was also
+        yummy but the tortilla wrap kept breaking.  It was very thin. Lastly, I
+        had some bacon wrapped shrimp and oh my, I had 2 of them. I enjoyed the
+        food so much that Imma be sure to return.
+
+
+        Overall, the server was friendly and nice. She took care of all of our
+        drink orders. The guest ticket system was strange but it worked.
+      languageCode: en
+    authorAttribution:
+      displayName: Nette Rab
+      uri: https://www.google.com/maps/contrib/114223394155151808981/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWp96PVuM0VFiPpd9ZAnGWbEE42Z6hsEAYaMeHm_J5H5hgQ0F6WYg=s128-c0x00000000-cc-rp-mo-ba7
+    publishTime: '2025-04-15T03:43:53.713034Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNvLU9YR3V3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNvLU9YR3V3RRAB!2m1!1s0x80c8d7f74adf016d:0x50bfa9442be25e53
+  - name: >-
+      places/ChIJbQHfSvfXyIARU17iK0Spv1A/reviews/ChdDSUhNMG9nS0VJQ0FnTURJazRPM3l3RRAB
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 5
+    text:
+      text: >-
+        My boyfriend and I couldn’t decide where or what to eat after visiting
+        the farmers market, so we ended up choosing this spot and we’re so glad
+        we did! He’s Asian and I’m Mexican, so we both got to enjoy some of our
+        favorite comfort foods. It was the best decision we could’ve made,
+        everything was absolutely delicious, and the staff was super friendly
+        and quick. Our top picks were the birria egg rolls and the tiger roll.
+        I'm definitely looking forward to coming back soon! 🤍
+      languageCode: en
+    originalText:
+      text: >-
+        My boyfriend and I couldn’t decide where or what to eat after visiting
+        the farmers market, so we ended up choosing this spot and we’re so glad
+        we did! He’s Asian and I’m Mexican, so we both got to enjoy some of our
+        favorite comfort foods. It was the best decision we could’ve made,
+        everything was absolutely delicious, and the staff was super friendly
+        and quick. Our top picks were the birria egg rolls and the tiger roll.
+        I'm definitely looking forward to coming back soon! 🤍
+      languageCode: en
+    authorAttribution:
+      displayName: Destiny Olivas
+      uri: https://www.google.com/maps/contrib/101910317607832432892/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUiaApDwI7CXOqELcNF1diJQwRhq7DI2lrtApos819Gc1E8Z4sO=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-12T19:49:02.182193Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJazRPM3l3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJazRPM3l3RRAB!2m1!1s0x80c8d7f74adf016d:0x50bfa9442be25e53
+  - name: >-
+      places/ChIJbQHfSvfXyIARU17iK0Spv1A/reviews/ChZDSUhNMG9nS0VJQ0FnTURnX3BtVEFREAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        My recent visit to Chinitis Tapas & Sushi on Water Street in Henderson
+        was nothing short of delightful. This restaurant stands out for its
+        immaculate cleanliness, exceptional service, and mouthwatering cuisine.
+
+
+        From the moment we walked in, we were impressed by the spotless dining
+        area. The clean, well-maintained environment immediately set a positive
+        tone for the experience ahead.
+
+
+        The highlight of our visit was undoubtedly the service provided by
+        Micah. Attentive without being intrusive, Micah offered helpful
+        suggestions from the menu and ensured our dining experience was smooth
+        and enjoyable. This level of personalized service truly elevated the
+        entire meal.
+
+
+        As for the food - simply yummy! The fusion of tapas and sushi creates a
+        unique dining concept that delivers on flavor and presentation. Each
+        dish arrived beautifully plated and tasted as good as it looked. The
+        sushi was fresh, and the tapas offered creative combinations of flavors
+        that left me eager to return and try more of their menu.
+
+
+        If you're looking for a clean restaurant with outstanding service and
+        delicious food in Henderson, Chinitis on Water Street is definitely
+        worth a visit. Ask for Micah - you won't be
+        disappointed!​​​​​​​​​​​​​​​​
+      languageCode: en
+    originalText:
+      text: >-
+        My recent visit to Chinitis Tapas & Sushi on Water Street in Henderson
+        was nothing short of delightful. This restaurant stands out for its
+        immaculate cleanliness, exceptional service, and mouthwatering cuisine.
+
+
+        From the moment we walked in, we were impressed by the spotless dining
+        area. The clean, well-maintained environment immediately set a positive
+        tone for the experience ahead.
+
+
+        The highlight of our visit was undoubtedly the service provided by
+        Micah. Attentive without being intrusive, Micah offered helpful
+        suggestions from the menu and ensured our dining experience was smooth
+        and enjoyable. This level of personalized service truly elevated the
+        entire meal.
+
+
+        As for the food - simply yummy! The fusion of tapas and sushi creates a
+        unique dining concept that delivers on flavor and presentation. Each
+        dish arrived beautifully plated and tasted as good as it looked. The
+        sushi was fresh, and the tapas offered creative combinations of flavors
+        that left me eager to return and try more of their menu.
+
+
+        If you're looking for a clean restaurant with outstanding service and
+        delicious food in Henderson, Chinitis on Water Street is definitely
+        worth a visit. Ask for Micah - you won't be
+        disappointed!​​​​​​​​​​​​​​​​
+      languageCode: en
+    authorAttribution:
+      displayName: Adrenaline Junkies
+      uri: https://www.google.com/maps/contrib/111456910960983203231/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjW2D7756BVyiXg3rmgB2c2ETBgkS9cfwwaW70WXRCc5x4BVvZ7p=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-02-25T03:13:22.635990Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURnX3BtVEFREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURnX3BtVEFREAE!2m1!1s0x80c8d7f74adf016d:0x50bfa9442be25e53
+  - name: >-
+      places/ChIJbQHfSvfXyIARU17iK0Spv1A/reviews/ChZDSUhNMG9nS0VJQ0FnSUN2MnBhX0FREAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        Absolutely LOVE this venue. I had the best sorority formal here. The
+        owners were so sweet and helpful with our entire planning process. The
+        food was also so so good. The sliders 😗👌🏽. The bacon wrapped shrimp
+        😗👌🏽The Tacos 😗👌🏽 Id hyped this place up anyday.
+      languageCode: en
+    originalText:
+      text: >-
+        Absolutely LOVE this venue. I had the best sorority formal here. The
+        owners were so sweet and helpful with our entire planning process. The
+        food was also so so good. The sliders 😗👌🏽. The bacon wrapped shrimp
+        😗👌🏽The Tacos 😗👌🏽 Id hyped this place up anyday.
+      languageCode: en
+    authorAttribution:
+      displayName: emily delaespriella
+      uri: https://www.google.com/maps/contrib/108467044967496056673/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVk5WwG8rj0hYoEFC_o7BdL8scp6zrGrGv3rsPBAoFkBTm5K7bsjA=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-12-10T06:57:17.014827Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN2MnBhX0FREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN2MnBhX0FREAE!2m1!1s0x80c8d7f74adf016d:0x50bfa9442be25e53
+review_summary: >-
+  What Visitors Are Saying About This Spot$$$People really enjoy the creative
+  sushi rolls and flavorful tapas here, often highlighting how the fresh
+  ingredients make every bite memorable and satisfying. The service stands out
+  as friendly and efficient, helping to create a welcoming vibe that enhances
+  the overall meal without any fuss. Many folks appreciate the great value
+  during happy hour, with tasty deals that make it perfect for unwinding or
+  celebrating with friends. While some mention minor issues like seating
+  arrangements, the general consensus is that the atmosphere feels fun and
+  lively, especially for groups. If you're on the hunt for reliable sushi places
+  near Henderson, this one comes across as a solid choice that balances
+  delicious food with a positive, enjoyable experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: true
+live_music: true
+menu_for_children: true
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
 serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_brunch: true
+serves_cocktails: true
+serves_coffee: true
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Tobiko Sushi"
+title: Tobiko Sushi
 permalink: /massachusetts/westfield/tobiko-sushi.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Westfield
 seo:
-  name: "Tobiko Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.tobikowestfield.com/
-description: "Tobiko Sushi serves delicious sushi in Westfield, Massachusetts. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJp8oUn-Af54kRM8mcOkyBeJA
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 0
 website: https://www.tobikowestfield.com/
+description: >-
+  Explore Tobiko Sushi in Westfield, MA$$$Tobiko Sushi in Westfield, MA, stands
+  out as a welcoming sushi restaurant nestled inside a small airport, blending
+  fresh Japanese flavors with stunning airfield views that enhance the dining
+  experience. This spot offers a variety of expertly crafted sushi rolls, ramen,
+  and appetizers, making it a go-to choice for those seeking authentic Japanese
+  cuisine in a relaxed setting. With its accessible features like
+  wheelchair-friendly entrances and seating, it's designed to accommodate all
+  guests comfortably while maintaining a moderately priced menu. The outdoor
+  seating and selection of beers and cocktails add to its appeal as a casual
+  hangout for locals or travelers looking for top-rated sushi options nearby.
+generative_summary: >-
+  Explore Tobiko Sushi in Westfield, MA$$$Tobiko Sushi in Westfield, MA, stands
+  out as a welcoming sushi restaurant nestled inside a small airport, blending
+  fresh Japanese flavors with stunning airfield views that enhance the dining
+  experience. This spot offers a variety of expertly crafted sushi rolls, ramen,
+  and appetizers, making it a go-to choice for those seeking authentic Japanese
+  cuisine in a relaxed setting. With its accessible features like
+  wheelchair-friendly entrances and seating, it's designed to accommodate all
+  guests comfortably while maintaining a moderately priced menu. The outdoor
+  seating and selection of beers and cocktails add to its appeal as a casual
+  hangout for locals or travelers looking for top-rated sushi options nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJp8oUn-Af54kRM8mcOkyBeJA/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJN0lDeHBnRRAB
@@ -362,6 +383,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNOMk8yTS1nRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNOMk8yTS1nRRAB!2m1!1s0x89e71fe09f14caa7:0x9078814c3a9cc933
+review_summary: >-
+  Customer Feedback on This Local Sushi Favorite$$$Folks who visit this sushi
+  restaurant often praise the flavorful dishes, from fresh rolls and hearty
+  ramen to standout salads that keep diners coming back for more. Many
+  appreciate the quick service and welcoming vibe, especially with the unique
+  airport backdrop that adds an exciting element to meals. Reviewers frequently
+  note the generous portions and overall value, making it a solid pick for
+  groups or families enjoying a laid-back lunch or dinner. While the atmosphere
+  gets high marks for its novelty, some mention it's best for those who enjoy a
+  mix of casual dining and people-watching. Overall, it's clear this place
+  delivers a reliably enjoyable experience for anyone searching for great sushi
+  spots in the area.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -394,7 +428,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

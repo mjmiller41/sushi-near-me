@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kombu Sushi"
+title: Kombu Sushi
 permalink: /california/los-angeles/kombu-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Los Angeles
 seo:
-  name: "Kombu Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Kombu Sushi serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJsx9ISYvHwoARADS1PKgIv0k
 photos:
   - name: >-
@@ -185,7 +183,43 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Kombu Sushi in Los Angeles, CA$$$Kombu Sushi in Los Angeles,
+  California, serves up a fresh selection of sushi and Japanese-inspired dishes
+  in a creatively designed environment that appeals to food enthusiasts seeking
+  authentic flavors. The spot highlights an artistic ambiance that enhances the
+  dining experience, making it ideal for those looking for a relaxing meal with
+  a modern twist. Patrons can enjoy a variety of Japanese fare, including
+  expertly prepared rolls and specials that cater to diverse tastes, especially
+  during dedicated happy hour times that add value to the visit. Accessibility
+  features like wheelchair-friendly parking and entrances ensure that everyone
+  can savor the offerings without hassle, making it a convenient choice for
+  sushi lovers exploring the area.
+generative_summary: >-
+  Discover Kombu Sushi in Los Angeles, CA$$$Kombu Sushi in Los Angeles,
+  California, serves up a fresh selection of sushi and Japanese-inspired dishes
+  in a creatively designed environment that appeals to food enthusiasts seeking
+  authentic flavors. The spot highlights an artistic ambiance that enhances the
+  dining experience, making it ideal for those looking for a relaxing meal with
+  a modern twist. Patrons can enjoy a variety of Japanese fare, including
+  expertly prepared rolls and specials that cater to diverse tastes, especially
+  during dedicated happy hour times that add value to the visit. Accessibility
+  features like wheelchair-friendly parking and entrances ensure that everyone
+  can savor the offerings without hassle, making it a convenient choice for
+  sushi lovers exploring the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Love About This Sushi Spot$$$Visitors often praise the
+  flavorful specialty rolls and fresh tuna dishes at this Japanese restaurant,
+  noting how they bring a satisfying twist to classic sushi options. The staff
+  comes across as welcoming and attentive, helping to create a laid-back
+  atmosphere that makes dining out feel effortless and enjoyable. Happy hour
+  deals stand out as a favorite, adding an extra layer of fun for those stopping
+  by after work or for a casual gathering. Overall, the positive vibes and
+  quality ingredients leave people feeling content, making it a solid pick for
+  anyone craving top-notch sushi in a friendly setting.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +245,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

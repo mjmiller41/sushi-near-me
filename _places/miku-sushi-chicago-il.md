@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Miku Sushi"
+title: Miku Sushi
 permalink: /illinois/chicago/miku-sushi.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
 seo:
-  name: "Miku Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.mikuchicago.com
-description: "An extensive Japanese menu of creative maki rolls, small plates, ramen, unusual skewers & more. Miku Sushi serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJXZFpVBDSD4gRsL98utDkMks
 photos:
   - name: >-
@@ -184,6 +182,35 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 0
 website: http://www.mikuchicago.com
+description: >-
+  Explore Miku Sushi in Chicago, IL$$$Miku Sushi in Chicago, IL, stands out as a
+  cozy spot for enjoying authentic Japanese flavors, featuring an array of
+  creative sushi rolls and small plates that highlight fresh ingredients. This
+  welcoming restaurant offers a comfortable dining experience with options like
+  ramen and unique skewers, making it a go-to choice for those seeking sushi
+  places near me in a vibrant neighborhood. Happy-hour specials add extra
+  appeal, providing affordable ways to sample top-rated sushi and Japanese
+  dishes without breaking the bank. Accessibility features, such as
+  wheelchair-friendly entrances and seating, ensure everyone can enjoy the
+  inviting atmosphere, while outdoor options enhance the overall vibe for casual
+  meals. Whether you're in the mood for innovative rolls or classic favorites,
+  this spot delivers a satisfying blend of quality and variety that keeps locals
+  coming back.
+generative_summary: >-
+  Explore Miku Sushi in Chicago, IL$$$Miku Sushi in Chicago, IL, stands out as a
+  cozy spot for enjoying authentic Japanese flavors, featuring an array of
+  creative sushi rolls and small plates that highlight fresh ingredients. This
+  welcoming restaurant offers a comfortable dining experience with options like
+  ramen and unique skewers, making it a go-to choice for those seeking sushi
+  places near me in a vibrant neighborhood. Happy-hour specials add extra
+  appeal, providing affordable ways to sample top-rated sushi and Japanese
+  dishes without breaking the bank. Accessibility features, such as
+  wheelchair-friendly entrances and seating, ensure everyone can enjoy the
+  inviting atmosphere, while outdoor options enhance the overall vibe for casual
+  meals. Whether you're in the mood for innovative rolls or classic favorites,
+  this spot delivers a satisfying blend of quality and variety that keeps locals
+  coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJXZFpVBDSD4gRsL98utDkMks/reviews/ChZDSUhNMG9nS0VJQ0FnTUNnOHFPQUt3EAE
@@ -363,6 +390,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNIc2Vqdm93RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNIc2Vqdm93RRAB!2m1!1s0x880fd2105469915d:0x4b32e4d0ba7cbfb0
+review_summary: >-
+  Customer Feedback on Miku Sushi$$$Folks often rave about the fresh sushi rolls
+  and creative specials at this spot, noting how the flavors really hit the mark
+  for a satisfying Japanese meal. Many appreciate the solid happy-hour deals
+  that make it easy to try a variety of dishes without overspending, along with
+  friendly service that keeps things relaxed and enjoyable. While some mention
+  occasional waits during busy times or concerns about pricing for certain
+  items, the overall experience tends to lean positive with highlights on
+  generous portions and tasty options like ramen and skewers. It's clear that
+  diners value the neighborhood feel and accessibility, making it a reliable
+  pick for groups or solo visits when craving top-rated sushi. All in all, this
+  place earns praise for its welcoming vibe, though timing your visit right can
+  help avoid any minor hiccups for a smoother experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidParkingLot: true
   freeStreetParking: true
@@ -396,8 +437,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   An extensive Japanese menu of creative maki rolls, small plates, ramen,
   unusual skewers & more.
 

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ginger Wasabi Sushi + Grill"
+title: Ginger Wasabi Sushi + Grill
 permalink: /kentucky/lexington/ginger-wasabi-sushi-grill.html
 stateAbbr: KY
 stateName: Kentucky
 cityName: Lexington
 seo:
-  name: "Ginger Wasabi Sushi + Grill"
-  type: Restaurant
+  type: restaurant
   links: http://ilovegingerwasabi.com/
-description: "Light-filled, modern chain branch serving up bento boxes, sushi and hot Japanese dishes. Ginger Wasabi Sushi + Grill serves delicious sushi in Lexington, Kentucky. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJneLLQAFFQogRxNTawIsIMxY
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 0
 website: http://ilovegingerwasabi.com/
+description: >-
+  Discover Ginger Wasabi Sushi + Grill in Lexington, KY$$$Nestled in the heart
+  of Lexington, KY, Ginger Wasabi Sushi + Grill stands out as a relaxed spot for
+  enjoying fresh sushi and Japanese-inspired dishes. This modern eatery offers a
+  welcoming atmosphere with options like teriyaki, poke bowls, and bento boxes,
+  complemented by a selection of beer, wine, and cocktails for a complete dining
+  experience. Patrons appreciate the accessibility features, such as
+  wheelchair-friendly entrances and restrooms, making it easy for everyone to
+  savor the flavors. The menu highlights affordable, generous portions that
+  cater to those seeking top-rated sushi near me, with a focus on quality
+  ingredients and quick service. Whether you're in the mood for a casual meal or
+  takeout, this sushi restaurant near me provides a light-filled space that
+  enhances the overall enjoyment of Japanese cuisine.
+generative_summary: >-
+  Discover Ginger Wasabi Sushi + Grill in Lexington, KY$$$Nestled in the heart
+  of Lexington, KY, Ginger Wasabi Sushi + Grill stands out as a relaxed spot for
+  enjoying fresh sushi and Japanese-inspired dishes. This modern eatery offers a
+  welcoming atmosphere with options like teriyaki, poke bowls, and bento boxes,
+  complemented by a selection of beer, wine, and cocktails for a complete dining
+  experience. Patrons appreciate the accessibility features, such as
+  wheelchair-friendly entrances and restrooms, making it easy for everyone to
+  savor the flavors. The menu highlights affordable, generous portions that
+  cater to those seeking top-rated sushi near me, with a focus on quality
+  ingredients and quick service. Whether you're in the mood for a casual meal or
+  takeout, this sushi restaurant near me provides a light-filled space that
+  enhances the overall enjoyment of Japanese cuisine.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJneLLQAFFQogRxNTawIsIMxY/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJOGYyeFBBEAE
@@ -402,6 +427,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR0b1pXVV9nRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR0b1pXVV9nRRAB!2m1!1s0x8842450140cbe29d:0x1633088bc0dad4c4
+review_summary: >-
+  Insights from Customer Experiences$$$Visitors to this sushi spot often rave
+  about the fresh, flavorful rolls and generous portions that make it a go-to
+  choice for affordable Japanese eats. Many highlight the late-night hours and
+  variety of appetizers, like lo mein and unique rolls, which add to the fun and
+  satisfying dining vibe. While most feedback praises the helpful staff and
+  well-lit ambiance, a few note that some dishes might not always hit the mark
+  in terms of bold flavors, though they still recommend it for hibachi and sushi
+  options. Overall, the consensus leans positive, with folks appreciating the
+  value and quick service that keeps them coming back for more. If you're
+  exploring best sushi near me, this place delivers a solid mix of tasty meals
+  and convenient features that make it worth a try.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -435,8 +473,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Light-filled, modern chain branch serving up bento boxes, sushi and hot
   Japanese dishes.
 

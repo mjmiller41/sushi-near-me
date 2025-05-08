@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kiraku Sushi & Ramen"
+title: Kiraku Sushi & Ramen
 permalink: /california/santa-rosa/kiraku-sushi-ramen.html
 stateAbbr: CA
 stateName: California
 cityName: Santa Rosa
 seo:
-  name: "Kiraku Sushi & Ramen"
-  type: Restaurant
+  type: restaurant
   links: https://www.kirakullc.com/
-description: "Kiraku Sushi & Ramen serves delicious sushi in Santa Rosa, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJqSjH3og5hIAR9v9d-elHuco
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80843988dec728a9:0xcab947e9f95dfff6!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 9:00 PM'
     - 'Tuesday: 11:30 AM – 9:00 PM'
     - 'Wednesday: 11:30 AM – 9:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 9:30 PM'
     - 'Saturday: 11:30 AM – 9:30 PM'
     - 'Sunday: 11:30 AM – 9:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 9:00 PM'
-    - 'Tuesday: 11:30 AM – 9:00 PM'
-    - 'Wednesday: 11:30 AM – 9:00 PM'
-    - 'Thursday: 11:30 AM – 9:00 PM'
-    - 'Friday: 11:30 AM – 9:30 PM'
-    - 'Saturday: 11:30 AM – 9:30 PM'
-    - 'Sunday: 11:30 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T04:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,258 @@ phone: (707) 800-7699
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.6'
-rating_count: 0
+rating_count: 309
 website: https://www.kirakullc.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Kiraku Sushi & Ramen in Santa Rosa, CA$$$Nestled in Santa Rosa, CA,
+  Kiraku Sushi & Ramen stands out as a trendy spot for fresh sushi and
+  Japanese-inspired dishes, blending modern vibes with a fun dining experience.
+  The restaurant features an innovative conveyor belt system that delivers a
+  variety of sushi rolls, poke bowls, and flavorful ramen options, making it a
+  go-to choice for those searching for top-rated sushi near me. With its
+  accessible entrance, seating, and parking, it's designed to welcome everyone
+  for a comfortable meal, while offering a diverse menu that includes
+  vegetarian-friendly choices. Open daily from late morning into the evening,
+  this sushi restaurant near me provides a lively atmosphere perfect for casual
+  lunches or dinners with friends. Its commitment to quality ingredients and
+  efficient service ensures a memorable visit for anyone exploring the best
+  sushi restaurants in the area.
+generative_summary: >-
+  Discover Kiraku Sushi & Ramen in Santa Rosa, CA$$$Nestled in Santa Rosa, CA,
+  Kiraku Sushi & Ramen stands out as a trendy spot for fresh sushi and
+  Japanese-inspired dishes, blending modern vibes with a fun dining experience.
+  The restaurant features an innovative conveyor belt system that delivers a
+  variety of sushi rolls, poke bowls, and flavorful ramen options, making it a
+  go-to choice for those searching for top-rated sushi near me. With its
+  accessible entrance, seating, and parking, it's designed to welcome everyone
+  for a comfortable meal, while offering a diverse menu that includes
+  vegetarian-friendly choices. Open daily from late morning into the evening,
+  this sushi restaurant near me provides a lively atmosphere perfect for casual
+  lunches or dinners with friends. Its commitment to quality ingredients and
+  efficient service ensures a memorable visit for anyone exploring the best
+  sushi restaurants in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJqSjH3og5hIAR9v9d-elHuco/reviews/ChZDSUhNMG9nS0VJQ0FnTUNvXzVlNktREAE
+    relativePublishTimeDescription: a week ago
+    rating: 4
+    text:
+      text: >-
+        The sushi here is okay, the sashimi is fresh, the restaurant has a
+        diverse menu with many dishes. The ramen here is normal, but because I
+        wanted to eat noodles, I tried it. When you come here, you should order
+        sushi because it is the restaurant's strength.
+
+
+        The staff is friendly, the service is good even though the restaurant is
+        very crowded, there are even robot waiters, the restaurant will have a
+        food delivery system by conveyor belt, whatever dish you order, the
+        conveyor belt will transport the dish to that table area.
+      languageCode: en
+    originalText:
+      text: >-
+        The sushi here is okay, the sashimi is fresh, the restaurant has a
+        diverse menu with many dishes. The ramen here is normal, but because I
+        wanted to eat noodles, I tried it. When you come here, you should order
+        sushi because it is the restaurant's strength.
+
+
+        The staff is friendly, the service is good even though the restaurant is
+        very crowded, there are even robot waiters, the restaurant will have a
+        food delivery system by conveyor belt, whatever dish you order, the
+        conveyor belt will transport the dish to that table area.
+      languageCode: en
+    authorAttribution:
+      displayName: Taro Doboba
+      uri: https://www.google.com/maps/contrib/112533616381338223699/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjX4xMbsSwH0PD2NXJU1cwNj6w46jlm1CMpaCJNXxvI9CGNbBo_-=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-21T04:38:39.828393Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNvXzVlNktREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNvXzVlNktREAE!2m1!1s0x80843988dec728a9:0xcab947e9f95dfff6
+  - name: >-
+      places/ChIJqSjH3og5hIAR9v9d-elHuco/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRcy1YMFNnEAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        We went in not knowing how fun this place would be. My partner had some
+        really great rolls and I had veggie tempura and ramen with chicken. All
+        the food was high quality and came out streaming hot! The race car that
+        brought the rolls was so cute! We enjoyed all the decor too. The staff
+        were friendly and the hostess robot was really sweet.
+      languageCode: en
+    originalText:
+      text: >-
+        We went in not knowing how fun this place would be. My partner had some
+        really great rolls and I had veggie tempura and ramen with chicken. All
+        the food was high quality and came out streaming hot! The race car that
+        brought the rolls was so cute! We enjoyed all the decor too. The staff
+        were friendly and the hostess robot was really sweet.
+      languageCode: en
+    authorAttribution:
+      displayName: CoolHandSuuze “CoolHandSuuze” Rateliff
+      uri: https://www.google.com/maps/contrib/113823319143239094664/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXZtr0JFJmQMbF-hzCik2CrNS4skudb1awrFgjqcyxcXMENgJw9=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-03-07T01:49:30.672982Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNRcy1YMFNnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNRcy1YMFNnEAE!2m1!1s0x80843988dec728a9:0xcab947e9f95dfff6
+  - name: >-
+      places/ChIJqSjH3og5hIAR9v9d-elHuco/reviews/ChdDSUhNMG9nS0VJQ0FnTURBaVliRXl3RRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        Just had a lunch with 12 of us for my stepdaughters birthday. What an
+        amazing place and atmosphere. The food was fresh and delicious. They
+        have my daughter gifts and and I mean a few. Hands down best restaurant
+        I've ever eaten at. Hands down one of the best sushi spots I've been
+        too. Definitely going back.
+      languageCode: en
+    originalText:
+      text: >-
+        Just had a lunch with 12 of us for my stepdaughters birthday. What an
+        amazing place and atmosphere. The food was fresh and delicious. They
+        have my daughter gifts and and I mean a few. Hands down best restaurant
+        I've ever eaten at. Hands down one of the best sushi spots I've been
+        too. Definitely going back.
+      languageCode: en
+    authorAttribution:
+      displayName: trenton reid
+      uri: https://www.google.com/maps/contrib/103892649668228743621/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWYHtDW4JNDR35rH70dUruP8GMKX2PkNe5r6szQnU8Xa8U1GZg=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-02-10T01:13:22.834215Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURBaVliRXl3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURBaVliRXl3RRAB!2m1!1s0x80843988dec728a9:0xcab947e9f95dfff6
+  - name: >-
+      places/ChIJqSjH3og5hIAR9v9d-elHuco/reviews/ChdDSUhNMG9nS0VJQ0FnSURkM29UV3NnRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        Really cute, little restaurant, tried it yesterday with friends. It’s
+        pretty small, but we also noticed they had a whole section of single
+        serve spots for people dining alone. Which I thought was nice. You order
+        from an iPad, and that sends the orders back to the kitchen. Ramen will
+        be delivered by somebody to your table if you order it, and sushi and
+        other small plates arrive via the little race car system which was super
+        cute. The prices were shockingly reasonable. I paid like $15.95 for my
+        bowl of ramen. I don’t know any places to get a decent bowl of Ramen for
+        that price. The quality was good, the broth tasted great. My friends
+        ordered some sushi and were happy with it as well. It was the first
+        reasonably priced meal. I think we’ve eaten a long time. I’d come back
+        when in the area again for sure.
+      languageCode: en
+    originalText:
+      text: >-
+        Really cute, little restaurant, tried it yesterday with friends. It’s
+        pretty small, but we also noticed they had a whole section of single
+        serve spots for people dining alone. Which I thought was nice. You order
+        from an iPad, and that sends the orders back to the kitchen. Ramen will
+        be delivered by somebody to your table if you order it, and sushi and
+        other small plates arrive via the little race car system which was super
+        cute. The prices were shockingly reasonable. I paid like $15.95 for my
+        bowl of ramen. I don’t know any places to get a decent bowl of Ramen for
+        that price. The quality was good, the broth tasted great. My friends
+        ordered some sushi and were happy with it as well. It was the first
+        reasonably priced meal. I think we’ve eaten a long time. I’d come back
+        when in the area again for sure.
+      languageCode: en
+    authorAttribution:
+      displayName: Kennedy F
+      uri: https://www.google.com/maps/contrib/102691572897269529276/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUy5VmpILGqID8Y6zS6ohou66tgi_Ij7q3PpKMNB24-XviA4-U=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-02-24T01:34:03.363991Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURkM29UV3NnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURkM29UV3NnRRAB!2m1!1s0x80843988dec728a9:0xcab947e9f95dfff6
+  - name: >-
+      places/ChIJqSjH3og5hIAR9v9d-elHuco/reviews/ChZDSUhNMG9nS0VJQ0FnTUNnbzVUbFd3EAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        Absolutely wonderful! I went for my granddaughter’s 12th birthday & it
+        was amazing. They showered her with gifts & their robot sang happy
+        birthday to her! Food was definitely delicious & the delivery system for
+        the food was pretty rad!  We had a large group, but they did their best
+        to accommodate all of us! 🙏🏻😊
+      languageCode: en
+    originalText:
+      text: >-
+        Absolutely wonderful! I went for my granddaughter’s 12th birthday & it
+        was amazing. They showered her with gifts & their robot sang happy
+        birthday to her! Food was definitely delicious & the delivery system for
+        the food was pretty rad!  We had a large group, but they did their best
+        to accommodate all of us! 🙏🏻😊
+      languageCode: en
+    authorAttribution:
+      displayName: Tina Palmer
+      uri: https://www.google.com/maps/contrib/102623092818674893154/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIUN-WlZxjdFx4-FotOU7tg_qbaNMT7VHUCRYmXWPprjKj9AaU=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-02-20T10:01:55.957750Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNnbzVUbFd3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNnbzVUbFd3EAE!2m1!1s0x80843988dec728a9:0xcab947e9f95dfff6
+review_summary: >-
+  What Customers Love About This Sushi Spot$$$Folks rave about the fresh sushi
+  and tasty ramen at this spot, often highlighting how the variety of rolls and
+  vegetarian options keep things exciting and satisfying. Many appreciate the
+  fun, automated delivery system that adds a playful touch to the meal, making
+  dining out feel like a unique adventure without overwhelming the experience.
+  Reviewers frequently note the friendly staff and welcoming vibe, which make it
+  a great place for groups or quick solo visits, even when it's busy. Overall,
+  the reasonable prices and high-quality food have earned it solid praise,
+  encouraging repeat trips for anyone craving reliable Japanese fare. While
+  opinions vary slightly, the consensus leans positive, painting it as a solid
+  choice for those seeking enjoyable sushi places near me in a casual setting.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
+curbside_pickup: true
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
 menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
 serves_breakfast: null
-serves_brunch: null
+serves_brunch: false
 serves_cocktails: null
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

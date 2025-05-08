@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Rockin' Rolls Sushi"
+title: Rockin' Rolls Sushi
 permalink: /north-carolina/charlotte/rockin-rolls-sushi.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Charlotte
 seo:
-  name: "Rockin' Rolls Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://rockinrollscharlotte.com/
-description: "Rockin' Rolls Sushi serves delicious sushi in Charlotte, North Carolina. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJYdDMAy6fVogR7oY7qnLwrjk
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $10 &ndash; $20
 rating: '4.2'
 rating_count: 0
 website: http://rockinrollscharlotte.com/
+description: >-
+  Discover Rockin' Rolls Sushi in Charlotte, NC$$$Rockin' Rolls Sushi in
+  Charlotte, NC, stands out as a casual dining spot perfect for sushi
+  enthusiasts seeking a unique all-you-can-eat adventure. This Japanese
+  restaurant features a fun conveyor belt system that delivers an array of fresh
+  sushi rolls, hibachi options, and more, making it an ideal choice for those
+  exploring top-rated sushi places in the area. With its approachable vibe and
+  variety of dishes, it's a great spot to sample creative flavors without
+  breaking the bank, appealing to anyone craving sushi close to home. The
+  restaurant also offers accessible features like wheelchair-friendly entrances
+  and parking, enhancing the overall experience for all visitors. Whether you're
+  in the mood for a quick lunch or a relaxed dinner, this spot combines
+  convenience with a lively atmosphere that keeps diners coming back.
+generative_summary: >-
+  Discover Rockin' Rolls Sushi in Charlotte, NC$$$Rockin' Rolls Sushi in
+  Charlotte, NC, stands out as a casual dining spot perfect for sushi
+  enthusiasts seeking a unique all-you-can-eat adventure. This Japanese
+  restaurant features a fun conveyor belt system that delivers an array of fresh
+  sushi rolls, hibachi options, and more, making it an ideal choice for those
+  exploring top-rated sushi places in the area. With its approachable vibe and
+  variety of dishes, it's a great spot to sample creative flavors without
+  breaking the bank, appealing to anyone craving sushi close to home. The
+  restaurant also offers accessible features like wheelchair-friendly entrances
+  and parking, enhancing the overall experience for all visitors. Whether you're
+  in the mood for a quick lunch or a relaxed dinner, this spot combines
+  convenience with a lively atmosphere that keeps diners coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJYdDMAy6fVogR7oY7qnLwrjk/reviews/ChdDSUhNMG9nS0VJQ0FnSUR6ei15MGhBRRAB
@@ -404,6 +429,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNBb0xUVzdnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNBb0xUVzdnRRAB!2m1!1s0x88569f2e03ccd061:0x39aef072aa3b86ee
+review_summary: >-
+  What Visitors Are Sharing About the Experience$$$Folks rave about the fun,
+  interactive vibe at this all-you-can-eat sushi spot, where the conveyor belt
+  lets you easily try a bunch of different rolls and sides without any fuss.
+  Many appreciate the fresh sushi and tasty hibachi choices, along with quick
+  service that keeps things moving smoothly during meals. While some mention
+  that certain items like desserts might not hit the mark, the overall value and
+  variety make it a solid pick for groups or families looking for an enjoyable
+  outing. It's often noted as a worthwhile drive for sushi lovers, with
+  vegetarian options and small portions encouraging exploration of new flavors.
+  All in all, this place delivers a entertaining dining experience that's worth
+  checking out if you're in the mood for something casual and flavorful.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -436,7 +474,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

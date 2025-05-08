@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Shoten Japanese Dining"
+title: Shoten Japanese Dining
 permalink: /oregon/beaverton/shoten-japanese-dining.html
 stateAbbr: OR
 stateName: Oregon
 cityName: Beaverton
 seo:
-  name: "Shoten Japanese Dining"
-  type: Restaurant
+  type: restaurant
   links: http://shotensushi.com/
-description: "Shoten Japanese Dining serves delicious sushi in Beaverton, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJB5YnPSAPlVQRDHWYSpSDpZc
 photos:
   - name: >-
@@ -170,7 +168,105 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x54950f203d279607:0x97a583944a98750c!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 14
+        minute: 30
+    - open:
+        day: 0
+        hour: 16
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 14
+        minute: 30
+    - open:
+        day: 6
+        hour: 16
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
     - 'Wednesday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
@@ -178,54 +274,384 @@ opening_hours:
     - 'Friday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
     - 'Saturday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
     - 'Sunday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
-    - 'Thursday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
-    - 'Friday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
-    - 'Saturday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
-    - 'Sunday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
+  nextOpenTime: '2025-05-03T23:30:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: false
+    periods:
+      - open:
+          day: 0
+          hour: 11
+          minute: 0
+        close:
+          day: 0
+          hour: 15
+          minute: 0
+      - open:
+          day: 0
+          hour: 17
+          minute: 0
+        close:
+          day: 0
+          hour: 21
+          minute: 0
+      - open:
+          day: 2
+          hour: 11
+          minute: 0
+        close:
+          day: 2
+          hour: 15
+          minute: 0
+      - open:
+          day: 2
+          hour: 17
+          minute: 0
+        close:
+          day: 2
+          hour: 21
+          minute: 0
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 15
+          minute: 0
+      - open:
+          day: 3
+          hour: 17
+          minute: 0
+        close:
+          day: 3
+          hour: 21
+          minute: 0
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 15
+          minute: 0
+      - open:
+          day: 4
+          hour: 17
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 0
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 15
+          minute: 0
+      - open:
+          day: 5
+          hour: 17
+          minute: 0
+        close:
+          day: 5
+          hour: 21
+          minute: 0
+      - open:
+          day: 6
+          hour: 11
+          minute: 0
+        close:
+          day: 6
+          hour: 15
+          minute: 0
+      - open:
+          day: 6
+          hour: 17
+          minute: 0
+        close:
+          day: 6
+          hour: 21
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: Closed'
+      - 'Tuesday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM'
+      - 'Wednesday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM'
+      - 'Thursday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM'
+      - 'Friday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM'
+      - 'Saturday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM'
+      - 'Sunday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM'
+    secondaryHoursType: TAKEOUT
+    nextOpenTime: '2025-05-04T00:00:00Z'
 phone: (503) 746-6373
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.4'
-rating_count: 0
+rating_count: 789
 website: http://shotensushi.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Shoten Japanese Dining in Beaverton, Oregon$$$Shoten Japanese Dining
+  in Beaverton, Oregon, stands out as a welcoming spot for enjoying authentic
+  Japanese flavors, featuring a selection of bento boxes, fresh sushi, and
+  traditional dishes in a casual, relaxed environment. This sushi restaurant
+  offers creative and classic options that highlight high-quality ingredients,
+  making it a go-to choice for those exploring top-rated Japanese places nearby.
+  With accessibility features like wheelchair-friendly parking and seating, it
+  ensures a comfortable visit for everyone, while its moderate pricing adds to
+  the appeal for everyday diners. Operating hours cater to lunch and dinner
+  crowds, providing a convenient option for anyone searching for sushi
+  restaurants in the area that balance quality and affordability.
+generative_summary: >-
+  Discover Shoten Japanese Dining in Beaverton, Oregon$$$Shoten Japanese Dining
+  in Beaverton, Oregon, stands out as a welcoming spot for enjoying authentic
+  Japanese flavors, featuring a selection of bento boxes, fresh sushi, and
+  traditional dishes in a casual, relaxed environment. This sushi restaurant
+  offers creative and classic options that highlight high-quality ingredients,
+  making it a go-to choice for those exploring top-rated Japanese places nearby.
+  With accessibility features like wheelchair-friendly parking and seating, it
+  ensures a comfortable visit for everyone, while its moderate pricing adds to
+  the appeal for everyday diners. Operating hours cater to lunch and dinner
+  crowds, providing a convenient option for anyone searching for sushi
+  restaurants in the area that balance quality and affordability.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJB5YnPSAPlVQRDHWYSpSDpZc/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJakxHdGt3RRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        If you love sushi, Shoten is a must-visit. This cozy spot serves up some
+        of the freshest, most flavorful sushi in town, with chefs who truly know
+        their craft.
+
+
+        Their sushi rolls are next-level—perfectly balanced with fresh fish,
+        crisp veggies, and just the right amount of sauce. The tuna on fire roll
+        has a great kick, the beaverton roll is packed with flavor, and the
+        dynamite roll is a must-try. Each bite is a perfect mix of texture and
+        taste.
+
+
+        The vibe is warm and inviting, and the staff makes you feel right at
+        home. Whether you're a sushi aficionado or just looking for an amazing
+        meal, Shoten delivers. Five stars, no question.
+      languageCode: en
+    originalText:
+      text: >-
+        If you love sushi, Shoten is a must-visit. This cozy spot serves up some
+        of the freshest, most flavorful sushi in town, with chefs who truly know
+        their craft.
+
+
+        Their sushi rolls are next-level—perfectly balanced with fresh fish,
+        crisp veggies, and just the right amount of sauce. The tuna on fire roll
+        has a great kick, the beaverton roll is packed with flavor, and the
+        dynamite roll is a must-try. Each bite is a perfect mix of texture and
+        taste.
+
+
+        The vibe is warm and inviting, and the staff makes you feel right at
+        home. Whether you're a sushi aficionado or just looking for an amazing
+        meal, Shoten delivers. Five stars, no question.
+      languageCode: en
+    authorAttribution:
+      displayName: Conrad Godfrey
+      uri: https://www.google.com/maps/contrib/103758949515629695244/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjU6d5hoyOO4ffzYm64HId39XCmDhX13Mwek810_OewvlqFkGU5lhw=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-03-30T21:19:01.091362Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNJakxHdGt3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNJakxHdGt3RRAB!2m1!1s0x54950f203d279607:0x97a583944a98750c
+  - name: >-
+      places/ChIJB5YnPSAPlVQRDHWYSpSDpZc/reviews/ChZDSUhNMG9nS0VJQ0FnTUNvNklQSGZBEAE
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        The staff is very kind. We ordered bento. Beef ribs and spicy pork. We
+        also had a bulgogi meal. The bulgogi and spicy pork had an authentic
+        Korean taste. The beef ribs were very tender and had an also great
+        taste. The sushi called Scallop Volcano was also very good. we couldn't
+        dine in because we had a dog with us, but the food was very delicious.
+        We stopped by on the way back from Portland before heading to
+        Washington. We will definitely be back. I'd love to this restaurant open
+        in Washington too!!
+      languageCode: en
+    originalText:
+      text: >-
+        The staff is very kind. We ordered bento. Beef ribs and spicy pork. We
+        also had a bulgogi meal. The bulgogi and spicy pork had an authentic
+        Korean taste. The beef ribs were very tender and had an also great
+        taste. The sushi called Scallop Volcano was also very good. we couldn't
+        dine in because we had a dog with us, but the food was very delicious.
+        We stopped by on the way back from Portland before heading to
+        Washington. We will definitely be back. I'd love to this restaurant open
+        in Washington too!!
+      languageCode: en
+    authorAttribution:
+      displayName: Ritsuko kim Nakamichi
+      uri: https://www.google.com/maps/contrib/114455080827274385242/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVhXuD9pBl9tBJv-lmklott6QGdncWrIKhuxonRwyXj9PBPHoqK4w=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-14T21:03:01.124775Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNvNklQSGZBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNvNklQSGZBEAE!2m1!1s0x54950f203d279607:0x97a583944a98750c
+  - name: >-
+      places/ChIJB5YnPSAPlVQRDHWYSpSDpZc/reviews/ChdDSUhNMG9nS0VJQ0FnSUNEeVAyMi1nRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        This place has some of the best Japanese food I've had outside Japan.
+        Everything was fresh and tasty. Prices are great for the quality. Staff
+        was welcoming, friendly, and helpful. Restaurant is clean, and the
+        atmosphere is relaxing. It wasn't quiet, but it wasn't so loud that we
+        couldn't use normal conversation volume to talk. My only problem was
+        trying to decide what of my many options to get. Even my 6 year old had
+        plenty of things off the kids menu and appetizer menu she wanted to try.
+        Will definitely be returning to try more of the menu.
+      languageCode: en
+    originalText:
+      text: >-
+        This place has some of the best Japanese food I've had outside Japan.
+        Everything was fresh and tasty. Prices are great for the quality. Staff
+        was welcoming, friendly, and helpful. Restaurant is clean, and the
+        atmosphere is relaxing. It wasn't quiet, but it wasn't so loud that we
+        couldn't use normal conversation volume to talk. My only problem was
+        trying to decide what of my many options to get. Even my 6 year old had
+        plenty of things off the kids menu and appetizer menu she wanted to try.
+        Will definitely be returning to try more of the menu.
+      languageCode: en
+    authorAttribution:
+      displayName: Brandi F
+      uri: https://www.google.com/maps/contrib/111526060266992741917/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVKddCzXWuV4ygrOynNiGh2FMCtqWkbmlqGKMe3qzu16_ex03Ig=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-03-23T21:11:37.631497Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNEeVAyMi1nRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNEeVAyMi1nRRAB!2m1!1s0x54950f203d279607:0x97a583944a98750c
+  - name: >-
+      places/ChIJB5YnPSAPlVQRDHWYSpSDpZc/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3MTVXQm93RRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Very comfortable little sushi place. 🍣 my friend and I enjoyed our food
+        very much. The monkey balls were my favorite 😍😋 the sushi portions are
+        huge which makes it awkward to eat but nice and filling. The service was
+        great. Out server checked on us frequently.
+      languageCode: en
+    originalText:
+      text: >-
+        Very comfortable little sushi place. 🍣 my friend and I enjoyed our food
+        very much. The monkey balls were my favorite 😍😋 the sushi portions are
+        huge which makes it awkward to eat but nice and filling. The service was
+        great. Out server checked on us frequently.
+      languageCode: en
+    authorAttribution:
+      displayName: Elijah Parker
+      uri: https://www.google.com/maps/contrib/108613011620128395093/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIiLbq2T6oXlG8K2EYL1I7EqrN6_v1Ksjpendl2Tsmm7wIicw=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-28T22:05:57.461194Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUR3MTVXQm93RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUR3MTVXQm93RRAB!2m1!1s0x54950f203d279607:0x97a583944a98750c
+  - name: >-
+      places/ChIJB5YnPSAPlVQRDHWYSpSDpZc/reviews/ChdDSUhNMG9nS0VJQ0FnSURHanJ1RXJ3RRAB
+    relativePublishTimeDescription: 8 months ago
+    rating: 5
+    text:
+      text: >-
+        When you sign up, they offer a complimentary item on Saturdays, and
+        today's complimentary item was salmon collar. I love their salmon and
+        ikura (salmon roe) bowl and used to order it for takeout often during
+        the COVID pandemic. This time, we got two dinner bento boxes. The bento
+        lets you choose two items, so my husband chose bulgogi and mixed
+        tempura, while I went with salmon teriyaki and sashimi. Japanese food is
+        often pricey with small portions, but here, the prices are reasonable,
+        the portions are generous, and the taste is authentically Japanese.
+        We'll definitely be coming back to try more!🤤
+      languageCode: en
+    originalText:
+      text: >-
+        When you sign up, they offer a complimentary item on Saturdays, and
+        today's complimentary item was salmon collar. I love their salmon and
+        ikura (salmon roe) bowl and used to order it for takeout often during
+        the COVID pandemic. This time, we got two dinner bento boxes. The bento
+        lets you choose two items, so my husband chose bulgogi and mixed
+        tempura, while I went with salmon teriyaki and sashimi. Japanese food is
+        often pricey with small portions, but here, the prices are reasonable,
+        the portions are generous, and the taste is authentically Japanese.
+        We'll definitely be coming back to try more!🤤
+      languageCode: en
+    authorAttribution:
+      displayName: Yulily
+      uri: https://www.google.com/maps/contrib/100592725538643396435/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWUNHqt-kCut3IZq8K6Z15frptFJ4kbET6hCswf_r-M_EK_TzGr2g=s128-c0x00000000-cc-rp-mo-ba7
+    publishTime: '2024-08-16T07:43:24.075630Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURHanJ1RXJ3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURHanJ1RXJ3RRAB!2m1!1s0x54950f203d279607:0x97a583944a98750c
+review_summary: >-
+  What Diners Are Saying About the Food$$$Visitors often praise the fresh and
+  flavorful sushi rolls for their perfect balance of ingredients and generous
+  portions that leave you satisfied without feeling overwhelmed. Many highlight
+  the authentic taste of bento boxes and other dishes, noting how they deliver a
+  comforting, home-like vibe that's ideal for a casual meal. The service stands
+  out as friendly and attentive, contributing to a welcoming atmosphere that
+  enhances the overall experience. While some mention the portions can make
+  eating a bit tricky, it's generally seen as a positive for value seekers. All
+  in all, this spot comes across as a solid pick for anyone craving reliable
+  Japanese cuisine, with feedback leaning toward repeat visits for its
+  consistent quality.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+curbside_pickup: false
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: true
+live_music: false
+menu_for_children: true
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Relaxed outpost of a local chain restaurant producing classic & creative
+  Japanese plates.
 
 ---

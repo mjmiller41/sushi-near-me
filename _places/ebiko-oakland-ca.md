@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ebiko"
+title: Ebiko
 permalink: /california/oakland/ebiko.html
 stateAbbr: CA
 stateName: California
 cityName: Oakland
 seo:
-  name: "Ebiko"
-  type: Restaurant
+  type: restaurant
   links: http://ebikosushi.com/
-description: "Ebiko serves delicious sushi in Oakland, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJgRDCFnB9hYARm0CqfprunqQ
 photos:
   - name: >-
@@ -167,7 +165,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80857d7016c21081:0xa49eee9a7eaa409b!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 17
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 17
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 17
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 17
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 17
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 17
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 5:00 PM'
     - 'Tuesday: 11:00 AM – 5:00 PM'
     - 'Wednesday: 11:00 AM – 5:00 PM'
@@ -175,14 +223,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 5:00 PM'
     - 'Saturday: 11:00 AM – 5:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:00 AM – 5:00 PM'
-    - 'Tuesday: 11:00 AM – 5:00 PM'
-    - 'Wednesday: 11:00 AM – 5:00 PM'
-    - 'Thursday: 11:00 AM – 5:00 PM'
-    - 'Friday: 11:00 AM – 5:00 PM'
-    - 'Saturday: 11:00 AM – 5:00 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -194,35 +235,227 @@ phone: (510) 903-6506
 price_level: null
 price_range: $10 &ndash; $20
 rating: '4.9'
-rating_count: 0
+rating_count: 146
 website: http://ebikosushi.com/
-reviews: null
+description: >-
+  Explore Ebiko in Oakland, CA$$$Ebiko in Oakland, California, stands out as a
+  welcoming sushi destination known for its fresh and diverse offerings that
+  cater to sushi enthusiasts. This low-key spot specializes in a variety of
+  sushi rolls and rice bowls, perfect for quick takeout or enjoying on the go,
+  making it an ideal choice for those seeking quality Japanese cuisine in a
+  relaxed setting. With a focus on high-quality ingredients, the menu highlights
+  flavorful options that balance tradition and simplicity, appealing to anyone
+  looking for authentic flavors without the fuss. The restaurant's convenient
+  location and accessibility features ensure a seamless experience, while its
+  operational hours support easy visits for lunch or casual meals. Whether
+  you're exploring top-rated sushi options nearby or craving something light and
+  satisfying, Ebiko delivers a genuine taste of Japanese-inspired dining.
+generative_summary: >-
+  Explore Ebiko in Oakland, CA$$$Ebiko in Oakland, California, stands out as a
+  welcoming sushi destination known for its fresh and diverse offerings that
+  cater to sushi enthusiasts. This low-key spot specializes in a variety of
+  sushi rolls and rice bowls, perfect for quick takeout or enjoying on the go,
+  making it an ideal choice for those seeking quality Japanese cuisine in a
+  relaxed setting. With a focus on high-quality ingredients, the menu highlights
+  flavorful options that balance tradition and simplicity, appealing to anyone
+  looking for authentic flavors without the fuss. The restaurant's convenient
+  location and accessibility features ensure a seamless experience, while its
+  operational hours support easy visits for lunch or casual meals. Whether
+  you're exploring top-rated sushi options nearby or craving something light and
+  satisfying, Ebiko delivers a genuine taste of Japanese-inspired dining.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJgRDCFnB9hYARm0CqfprunqQ/reviews/ChdDSUhNMG9nS0VJQ0FnTURRamQ2bnp3RRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        The sushi here is really fresh. I especially love the Shiraishi bowl,
+        which has a Medley of salmon, tuna, small and large fish roe. They also
+        put egg and crab in there too! So good! Other notables include unagi
+        rolls, 6 piece omakase and salmon rolls.
+
+
+        Also, if they are out of your item you want, just let them know and
+        perhaps they can make it for you in the back.
+      languageCode: en
+    originalText:
+      text: >-
+        The sushi here is really fresh. I especially love the Shiraishi bowl,
+        which has a Medley of salmon, tuna, small and large fish roe. They also
+        put egg and crab in there too! So good! Other notables include unagi
+        rolls, 6 piece omakase and salmon rolls.
+
+
+        Also, if they are out of your item you want, just let them know and
+        perhaps they can make it for you in the back.
+      languageCode: en
+    authorAttribution:
+      displayName: Helene
+      uri: https://www.google.com/maps/contrib/106583518024087535693/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXbSNUXzyTkcHS-rwbVTmFTuKQ_yoTStnlBJL202Y5WipmVAI9dDw=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-03-12T23:47:17.069909Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURRamQ2bnp3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURRamQ2bnp3RRAB!2m1!1s0x80857d7016c21081:0xa49eee9a7eaa409b
+  - name: >-
+      places/ChIJgRDCFnB9hYARm0CqfprunqQ/reviews/ChdDSUhNMG9nS0VJQ0FnTUNvc1kzcTVBRRAB
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        Unbelievable. I'm from out of town and thus sushi is one of the best.
+        First off it is take out only. I've never seen such quality like this
+        for takeout. It's so fresh and the fish tastes so clean. Truly a gem
+      languageCode: en
+    originalText:
+      text: >-
+        Unbelievable. I'm from out of town and thus sushi is one of the best.
+        First off it is take out only. I've never seen such quality like this
+        for takeout. It's so fresh and the fish tastes so clean. Truly a gem
+      languageCode: en
+    authorAttribution:
+      displayName: Abdelrahman
+      uri: https://www.google.com/maps/contrib/116555226464618068041/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjV1pq-Qhwwuzaw-WdLZM_FBHBLr2wytuC9ZqaLITwpd7MYejOJziQ=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-17T21:38:30.285099Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNvc1kzcTVBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNvc1kzcTVBRRAB!2m1!1s0x80857d7016c21081:0xa49eee9a7eaa409b
+  - name: >-
+      places/ChIJgRDCFnB9hYARm0CqfprunqQ/reviews/ChdDSUhNMG9nS0VJQ0FnTUNnbHRIVDNBRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        My favorite sushi to pick up! 😍 so fresh and delicious every time. Also
+        love that I can try a fun new treat from their snack options. Selfishly
+        would love if they were open 24/7 😋🍣💕
+      languageCode: en
+    originalText:
+      text: >-
+        My favorite sushi to pick up! 😍 so fresh and delicious every time. Also
+        love that I can try a fun new treat from their snack options. Selfishly
+        would love if they were open 24/7 😋🍣💕
+      languageCode: en
+    authorAttribution:
+      displayName: A.S.D.
+      uri: https://www.google.com/maps/contrib/106492115250259539948/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjW49MMumh1YEpxg0Y8gmQzNjJlFplN6Gq1-sUHw94LDf4VQghrVhA=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-02-16T22:10:49.557421Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNnbHRIVDNBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNnbHRIVDNBRRAB!2m1!1s0x80857d7016c21081:0xa49eee9a7eaa409b
+  - name: >-
+      places/ChIJgRDCFnB9hYARm0CqfprunqQ/reviews/ChdDSUhNMG9nS0VJQ0FnSUN2bGVYQ3ZRRRAB
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        My absolute favorite affordable and delicious sushi spot. The one piece
+        of scallop you get in the sushi assortment tray is so good my eyes will
+        roll back in my head. Perfect for taking to a picnic in the cemetery.
+        Seriously. I love this spot. I wish it were open on Sundays.
+      languageCode: en
+    originalText:
+      text: >-
+        My absolute favorite affordable and delicious sushi spot. The one piece
+        of scallop you get in the sushi assortment tray is so good my eyes will
+        roll back in my head. Perfect for taking to a picnic in the cemetery.
+        Seriously. I love this spot. I wish it were open on Sundays.
+      languageCode: en
+    authorAttribution:
+      displayName: C Squared
+      uri: https://www.google.com/maps/contrib/116083500153926862460/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXpZz_Sn5AhSSWoHPKRzqtZ3nY0WN07rG3UYWWfwhKWAkLfpQL9Qw=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-12-13T05:23:36.319090Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN2bGVYQ3ZRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN2bGVYQ3ZRRRAB!2m1!1s0x80857d7016c21081:0xa49eee9a7eaa409b
+  - name: >-
+      places/ChIJgRDCFnB9hYARm0CqfprunqQ/reviews/ChdDSUhNMG9nS0VJQ0FnTURJanFDUm93RRAB
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 5
+    text:
+      text: >-
+        I wanted a quick light snack so I stopped in here because I never don't
+        want sushi. I  was completely shocked by the quality of sushi at the
+        price point. Really delicious omakase set and aburi salmon. I ate my
+        sushi at the tea place next door and it was perfect. They had a lot of
+        options including sides (miso soup, seaweed salad, etc.) and Japanese
+        snacks. I will definitely be back soon to buy much more sushi!
+      languageCode: en
+    originalText:
+      text: >-
+        I wanted a quick light snack so I stopped in here because I never don't
+        want sushi. I  was completely shocked by the quality of sushi at the
+        price point. Really delicious omakase set and aburi salmon. I ate my
+        sushi at the tea place next door and it was perfect. They had a lot of
+        options including sides (miso soup, seaweed salad, etc.) and Japanese
+        snacks. I will definitely be back soon to buy much more sushi!
+      languageCode: en
+    authorAttribution:
+      displayName: Christine Uyemura
+      uri: https://www.google.com/maps/contrib/112818123607003087369/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjU6ORuBrwpAUttldquTynxblbK4IRDsHkrFaFHTm3QuXxalH527EQ=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-09T18:48:29.447690Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJanFDUm93RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJanFDUm93RRAB!2m1!1s0x80857d7016c21081:0xa49eee9a7eaa409b
+review_summary: >-
+  Visitor Feedback Highlights$$$Folks consistently praise the sushi at this spot
+  for its incredible freshness and high-quality fish, making it a go-to for
+  anyone wanting a reliable meal on the run. Many highlight the affordable
+  prices and tasty variety of rolls and bowls, noting that it's surprisingly
+  impressive for takeout and leaves you feeling satisfied without breaking the
+  bank. Reviewers often mention the clean flavors and additional treats like
+  snacks, adding to the overall appeal for casual diners. While some wish for
+  extended hours, the general consensus is that it's a hidden gem worth
+  returning to, especially for those testing out new Japanese-inspired dishes.
+  Overall, the positive vibes around the experience make it a solid pick for
+  sushi lovers seeking a straightforward and enjoyable option.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
-payment_options: null
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
+curbside_pickup: true
+delivery: true
+dine_in: true
 good_for_children: null
 good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
 reservable: null
 restroom: null
 serves_beer: null
 serves_breakfast: null
 serves_brunch: null
 serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
+serves_coffee: false
+serves_dinner: true
 serves_dessert: null
-serves_lunch: null
+serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

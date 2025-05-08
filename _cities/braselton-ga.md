@@ -5,4 +5,5 @@ permalink: /georgia/braselton/
 stateAbbr: GA
 stateName: Georgia
 cityName: Braselton
+
 ---

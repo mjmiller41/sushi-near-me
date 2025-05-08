@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Khin's Sushi"
+title: Khin's Sushi
 permalink: /kentucky/richmond/khin-s-sushi.html
 stateAbbr: KY
 stateName: Kentucky
 cityName: Richmond
 seo:
-  name: "Khin's Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Simple set-up for a menu of sushi rolls, a few Japanese starters & some classic Burmese items. Khin's Sushi serves delicious sushi in Richmond, Kentucky. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJQSB9yvT9QogRljLw9bQpcrk
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $1 &ndash; $10
 rating: '4.8'
 rating_count: 0
 website: null
+description: >-
+  About Khin's Sushi in Richmond, Kentucky$$$Khin's Sushi in Richmond, KY,
+  stands out as a casual sushi destination offering a simple yet inviting setup
+  with a menu featuring fresh rolls, Japanese starters, and some
+  Burmese-inspired dishes. This spot emphasizes quick service and includes
+  vegetarian options, making it a convenient choice for those seeking diverse
+  and flavorful meals. With its affordable pricing and accessibility features
+  like wheelchair-friendly entrances and parking, it's an easy go-to for anyone
+  exploring sushi restaurants near me. The restaurant's focus on quality
+  ingredients and efficient operations ensures a satisfying experience,
+  positioning it among the best sushi options in the area for both locals and
+  visitors.
+generative_summary: >-
+  About Khin's Sushi in Richmond, Kentucky$$$Khin's Sushi in Richmond, KY,
+  stands out as a casual sushi destination offering a simple yet inviting setup
+  with a menu featuring fresh rolls, Japanese starters, and some
+  Burmese-inspired dishes. This spot emphasizes quick service and includes
+  vegetarian options, making it a convenient choice for those seeking diverse
+  and flavorful meals. With its affordable pricing and accessibility features
+  like wheelchair-friendly entrances and parking, it's an easy go-to for anyone
+  exploring sushi restaurants near me. The restaurant's focus on quality
+  ingredients and efficient operations ensures a satisfying experience,
+  positioning it among the best sushi options in the area for both locals and
+  visitors.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJQSB9yvT9QogRljLw9bQpcrk/reviews/ChdDSUhNMG9nS0VJQ0FnSURuNllUQjBRRRAB
@@ -324,6 +347,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNROTY3ME13EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNROTY3ME13EAE!2m1!1s0x8842fdf4ca7d2041:0xb97229b4f5f03296
+review_summary: >-
+  What Customers Are Buzzing About$$$Visitors to this sushi spot often rave
+  about the tasty rolls, like the California and eel varieties, which stand out
+  for their fresh flavors and generous portions at budget-friendly prices. While
+  most folks enjoy the fast service and friendly staff that make grabbing a meal
+  a breeze, there are occasional mentions of inconsistencies that didn't live up
+  to expectations. Overall, the quick turnaround and perks like free drinks for
+  cash payments add a nice touch that keeps people coming back. If you're on the
+  hunt for top-rated sushi close to me, this place generally delivers a solid,
+  enjoyable vibe that's worth trying for its highlights in taste and
+  convenience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -357,8 +392,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Simple set-up for a menu of sushi rolls, a few Japanese starters & some
   classic Burmese items.
 

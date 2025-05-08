@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sawa Hibachi Steakhouse and Sushi"
+title: Sawa Hibachi Steakhouse and Sushi
 permalink: /massachusetts/shrewsbury/sawa-hibachi-steakhouse-and-sushi.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Shrewsbury
 seo:
-  name: "Sawa Hibachi Steakhouse and Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://sawahibachima.com/
-description: "Modern Japanese eatery featuring steaks, sushi, cocktails & entertaining hibachi chefs. Sawa Hibachi Steakhouse and Sushi serves delicious sushi in Shrewsbury, Massachusetts. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJwT4mfFMI5IkRPDpOrD67RlI
 photos:
   - name: >-
@@ -142,8 +140,8 @@ photos:
       https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCQzNW_fQ&hl=en-US
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCQzNW_fQ!2e10!4m2!3m1!1s0x89e408537c263ec1:0x5246bb3eac4e3a3c
-address: 551 Boston Turnpike, Shrewsbury, MA 01545, USA
-street: 551 Boston Turnpike
+address: 551 Boston Tpke, Shrewsbury, MA 01545, USA
+street: 551 Boston Tpke
 city: Shrewsbury
 state: MA
 zip: '01545'
@@ -185,6 +183,35 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 0
 website: https://sawahibachima.com/
+description: >-
+  Discover Sawa Hibachi Steakhouse and Sushi in Shrewsbury, MA$$$Sawa Hibachi
+  Steakhouse and Sushi in Shrewsbury, MA, offers a modern take on Japanese
+  dining with a focus on fresh sushi and expertly prepared hibachi steaks that
+  delight locals seeking authentic flavors. This welcoming spot features an
+  entertaining atmosphere where skilled chefs bring flair to every meal,
+  complemented by a selection of cocktails and family-friendly options that make
+  it ideal for groups or special occasions. Accessibility is a key highlight,
+  with wheelchair-friendly features and ample parking ensuring everyone can
+  enjoy the experience comfortably. The menu caters to various preferences,
+  including vegetarian choices and kid-friendly dishes, making it a go-to
+  destination for those exploring sushi restaurants near me. With its lively
+  vibe and thoughtful details, it's perfect for anyone craving top-rated
+  Japanese cuisine in a relaxed setting.
+generative_summary: >-
+  Discover Sawa Hibachi Steakhouse and Sushi in Shrewsbury, MA$$$Sawa Hibachi
+  Steakhouse and Sushi in Shrewsbury, MA, offers a modern take on Japanese
+  dining with a focus on fresh sushi and expertly prepared hibachi steaks that
+  delight locals seeking authentic flavors. This welcoming spot features an
+  entertaining atmosphere where skilled chefs bring flair to every meal,
+  complemented by a selection of cocktails and family-friendly options that make
+  it ideal for groups or special occasions. Accessibility is a key highlight,
+  with wheelchair-friendly features and ample parking ensuring everyone can
+  enjoy the experience comfortably. The menu caters to various preferences,
+  including vegetarian choices and kid-friendly dishes, making it a go-to
+  destination for those exploring sushi restaurants near me. With its lively
+  vibe and thoughtful details, it's perfect for anyone craving top-rated
+  Japanese cuisine in a relaxed setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJwT4mfFMI5IkRPDpOrD67RlI/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRek5XX1hREAE
@@ -336,6 +363,21 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQ5dGRTdUF3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQ5dGRTdUF3EAE!2m1!1s0x89e408537c263ec1:0x5246bb3eac4e3a3c
+review_summary: >-
+  What Customers Are Saying About the Experience$$$Visitors to this popular
+  sushi spot often praise the flavorful dishes and fun hibachi presentations,
+  with many highlighting how the fresh sushi and perfectly cooked entrees make
+  for a satisfying meal. Folks appreciate the lively atmosphere that's great for
+  celebrations, noting that the service generally adds to the enjoyable vibe,
+  though it's not always flawless for every group. Reviews frequently mention
+  generous portions and tasty appetizers that leave diners eager to return,
+  positioning it as a solid choice for families or friends looking for Japanese
+  places near me. Overall, the consensus leans positive, with people loving the
+  entertainment and quality that make it stand out among best sushi near me
+  options, even if minor service tweaks could enhance the flow. If you're in the
+  mood for a casual night out with reliable flavors and a touch of excitement,
+  this place comes highly recommended.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -368,8 +410,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Modern Japanese eatery featuring steaks, sushi, cocktails & entertaining
   hibachi chefs.
 

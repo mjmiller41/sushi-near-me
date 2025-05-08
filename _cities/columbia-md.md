@@ -5,4 +5,5 @@ permalink: /maryland/columbia/
 stateAbbr: MD
 stateName: Maryland
 cityName: Columbia
+
 ---

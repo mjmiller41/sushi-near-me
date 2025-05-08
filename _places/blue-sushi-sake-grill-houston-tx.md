@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Blue Sushi Sake Grill"
+title: Blue Sushi Sake Grill
 permalink: /texas/houston/blue-sushi-sake-grill.html
 stateAbbr: TX
 stateName: Texas
 cityName: Houston
 seo:
-  name: "Blue Sushi Sake Grill"
-  type: Restaurant
+  type: restaurant
   links: http://bluesushisakegrill.com/
-description: "Blue Sushi Sake Grill serves delicious sushi in Houston, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJRZQ4BW3HQIYRl-vrF443qyQ
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8640c76d05389445:0x24ab378e17ebeb97!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 10:00 PM'
     - 'Tuesday: 11:00 AM – 10:00 PM'
     - 'Wednesday: 11:00 AM – 10:00 PM'
@@ -178,28 +234,122 @@ opening_hours:
     - 'Friday: 11:00 AM – 11:00 PM'
     - 'Saturday: 11:00 AM – 11:00 PM'
     - 'Sunday: 12:00 – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 10:00 PM'
-    - 'Tuesday: 11:00 AM – 10:00 PM'
-    - 'Wednesday: 11:00 AM – 10:00 PM'
-    - 'Thursday: 11:00 AM – 10:00 PM'
-    - 'Friday: 11:00 AM – 11:00 PM'
-    - 'Saturday: 11:00 AM – 11:00 PM'
-    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 0
+        close:
+          day: 0
+          hour: 21
+          minute: 0
+      - open:
+          day: 1
+          hour: 14
+          minute: 0
+        close:
+          day: 1
+          hour: 18
+          minute: 0
+      - open:
+          day: 2
+          hour: 14
+          minute: 0
+        close:
+          day: 2
+          hour: 18
+          minute: 0
+      - open:
+          day: 3
+          hour: 14
+          minute: 0
+        close:
+          day: 3
+          hour: 18
+          minute: 0
+      - open:
+          day: 4
+          hour: 14
+          minute: 0
+        close:
+          day: 4
+          hour: 18
+          minute: 0
+      - open:
+          day: 5
+          hour: 14
+          minute: 0
+        close:
+          day: 5
+          hour: 18
+          minute: 0
+      - open:
+          day: 6
+          hour: 14
+          minute: 0
+        close:
+          day: 6
+          hour: 18
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 2:00 – 6:00 PM'
+      - 'Tuesday: 2:00 – 6:00 PM'
+      - 'Wednesday: 2:00 – 6:00 PM'
+      - 'Thursday: 2:00 – 6:00 PM'
+      - 'Friday: 2:00 – 6:00 PM'
+      - 'Saturday: 2:00 – 6:00 PM'
+      - 'Sunday: 12:00 – 9:00 PM'
+    secondaryHoursType: HAPPY_HOUR
+    nextCloseTime: '2025-05-03T23:00:00Z'
 phone: (346) 816-2583
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.4'
-rating_count: 0
+rating_count: 666
 website: http://bluesushisakegrill.com/
+description: >-
+  Discover Blue Sushi Sake Grill in Houston, TX$$$Blue Sushi Sake Grill in
+  Houston, TX, stands out as a vibrant sushi destination blending fresh flavors
+  with a modern twist, ideal for those seeking quality Japanese-inspired dining.
+  This trendy spot offers an array of creative rolls and sake selections, making
+  it a go-to choice for lunch or dinner in the bustling Greater Heights area.
+  With its welcoming atmosphere and accessible features like wheelchair-friendly
+  entrances, it caters to a wide range of diners looking for an enjoyable meal.
+  The restaurant's moderate pricing ensures you can savor top-rated sushi
+  without breaking the bank, appealing to locals and visitors alike. Whether
+  you're exploring sushi places near you or craving a casual night out, this
+  location delivers on taste and convenience.
+generative_summary: >-
+  Discover Blue Sushi Sake Grill in Houston, TX$$$Blue Sushi Sake Grill in
+  Houston, TX, stands out as a vibrant sushi destination blending fresh flavors
+  with a modern twist, ideal for those seeking quality Japanese-inspired dining.
+  This trendy spot offers an array of creative rolls and sake selections, making
+  it a go-to choice for lunch or dinner in the bustling Greater Heights area.
+  With its welcoming atmosphere and accessible features like wheelchair-friendly
+  entrances, it caters to a wide range of diners looking for an enjoyable meal.
+  The restaurant's moderate pricing ensures you can savor top-rated sushi
+  without breaking the bank, appealing to locals and visitors alike. Whether
+  you're exploring sushi places near you or craving a casual night out, this
+  location delivers on taste and convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Customer Feedback$$$Visitors to this sushi restaurant often
+  highlight the fresh and inventive dishes that make every bite memorable, with
+  many praising the variety of options for a satisfying experience. Feedback
+  frequently notes the friendly service and lively vibe, helping it stand out
+  among Houston's sushi spots as a reliable choice for groups or solo diners.
+  While some mention occasional waits during peak hours, the overall consensus
+  leans positive, emphasizing the value for the price and flavorful specials
+  that keep people coming back. It's clear that the combination of quality
+  ingredients and welcoming environment contributes to its strong reputation,
+  making it a solid pick if you're hunting for the best sushi near me.
+  Ultimately, the feedback paints a picture of a place that's worth trying for
+  anyone in the mood for delicious, approachable Japanese cuisine.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +375,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

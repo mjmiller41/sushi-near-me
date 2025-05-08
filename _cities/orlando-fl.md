@@ -5,4 +5,5 @@ permalink: /florida/orlando/
 stateAbbr: FL
 stateName: Florida
 cityName: Orlando
+
 ---

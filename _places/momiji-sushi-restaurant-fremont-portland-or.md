@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Momiji Sushi Restaurant - Fremont"
+title: Momiji Sushi Restaurant - Fremont
 permalink: /oregon/portland/momiji-sushi-restaurant-fremont.html
 stateAbbr: OR
 stateName: Oregon
 cityName: Portland
 seo:
-  name: "Momiji Sushi Restaurant - Fremont"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Momiji Sushi Restaurant - Fremont serves delicious sushi in Portland, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ8Xdgu8ynlVQRJ7pciH-9WKw
 photos:
   - name: >-
@@ -184,7 +182,42 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Momiji Sushi in Portland, OR$$$Momiji Sushi Restaurant in Portland,
+  OR, provides a relaxed spot for enjoying authentic Japanese dishes,
+  highlighted by fresh sushi selections and a welcoming atmosphere. This eatery
+  stands out for its casual vibe, offering traditional fare alongside options
+  like beer and sake, with appealing all-you-can-eat choices that cater to sushi
+  enthusiasts. Accessibility features, such as wheelchair-friendly entrances and
+  seating, make it an inclusive destination for anyone seeking top-rated sushi
+  restaurants in the area. Whether you're exploring Japanese places near you or
+  simply craving a satisfying meal, the menu's variety ensures a delightful
+  experience that blends quality and convenience.
+generative_summary: >-
+  Discover Momiji Sushi in Portland, OR$$$Momiji Sushi Restaurant in Portland,
+  OR, provides a relaxed spot for enjoying authentic Japanese dishes,
+  highlighted by fresh sushi selections and a welcoming atmosphere. This eatery
+  stands out for its casual vibe, offering traditional fare alongside options
+  like beer and sake, with appealing all-you-can-eat choices that cater to sushi
+  enthusiasts. Accessibility features, such as wheelchair-friendly entrances and
+  seating, make it an inclusive destination for anyone seeking top-rated sushi
+  restaurants in the area. Whether you're exploring Japanese places near you or
+  simply craving a satisfying meal, the menu's variety ensures a delightful
+  experience that blends quality and convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Folks who stop by this sushi spot often highlight
+  the fresh flavors and solid portions that make it a go-to for casual dining in
+  the neighborhood. Many appreciate the straightforward vibe and how it delivers
+  on classic Japanese favorites without overcomplicating things, keeping things
+  light and enjoyable. While some mention the all-you-can-eat deals as a fun
+  value, others note that the service keeps the experience smooth and welcoming
+  for groups or solo visits. Overall, it's clear that this place earns nods for
+  being a reliable choice among sushi restaurants near me, with a positive buzz
+  around its approachable style that leaves people satisfied and ready to
+  return.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +243,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

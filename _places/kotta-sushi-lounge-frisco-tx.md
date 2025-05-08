@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kotta Sushi Lounge"
+title: Kotta Sushi Lounge
 permalink: /texas/frisco/kotta-sushi-lounge.html
 stateAbbr: TX
 stateName: Texas
 cityName: Frisco
 seo:
-  name: "Kotta Sushi Lounge"
-  type: Restaurant
+  type: restaurant
   links: http://kottasushilounge.com/
-description: "Kotta Sushi Lounge serves delicious sushi in Frisco, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJjS0UpmQ8TIYRAwVu5cOtSxo
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x864c3c64a6142d8d:0x1a4badc3e56e0503!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 9:00 PM'
     - 'Tuesday: 11:30 AM – 9:30 PM'
     - 'Wednesday: 11:30 AM – 9:30 PM'
@@ -178,54 +234,326 @@ opening_hours:
     - 'Friday: 11:30 AM – 10:00 PM'
     - 'Saturday: 12:00 – 10:00 PM'
     - 'Sunday: 12:00 – 9:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 9:00 PM'
-    - 'Tuesday: 11:30 AM – 9:30 PM'
-    - 'Wednesday: 11:30 AM – 9:30 PM'
-    - 'Thursday: 11:30 AM – 9:30 PM'
-    - 'Friday: 11:30 AM – 10:00 PM'
-    - 'Saturday: 12:00 – 10:00 PM'
-    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 14
+          minute: 30
+        close:
+          day: 0
+          hour: 17
+          minute: 30
+      - open:
+          day: 1
+          hour: 14
+          minute: 30
+        close:
+          day: 1
+          hour: 17
+          minute: 30
+      - open:
+          day: 2
+          hour: 14
+          minute: 30
+        close:
+          day: 2
+          hour: 17
+          minute: 30
+      - open:
+          day: 3
+          hour: 14
+          minute: 30
+        close:
+          day: 3
+          hour: 17
+          minute: 30
+      - open:
+          day: 4
+          hour: 14
+          minute: 30
+        close:
+          day: 4
+          hour: 17
+          minute: 30
+      - open:
+          day: 5
+          hour: 14
+          minute: 30
+        close:
+          day: 5
+          hour: 17
+          minute: 30
+      - open:
+          day: 6
+          hour: 14
+          minute: 30
+        close:
+          day: 6
+          hour: 17
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 2:30 – 5:30 PM'
+      - 'Tuesday: 2:30 – 5:30 PM'
+      - 'Wednesday: 2:30 – 5:30 PM'
+      - 'Thursday: 2:30 – 5:30 PM'
+      - 'Friday: 2:30 – 5:30 PM'
+      - 'Saturday: 2:30 – 5:30 PM'
+      - 'Sunday: 2:30 – 5:30 PM'
+    secondaryHoursType: HAPPY_HOUR
+    nextCloseTime: '2025-05-03T22:30:00Z'
 phone: (214) 705-0090
 price_level: PRICE_LEVEL_EXPENSIVE
 price_range: null
 rating: '4.4'
-rating_count: 0
+rating_count: 533
 website: http://kottasushilounge.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Experience Kotta Sushi Lounge in Frisco, TX$$$Kotta Sushi Lounge in Frisco,
+  TX, stands out as a modern spot for enjoying fresh sushi and creative Japanese
+  cuisine, blending trendy vibes with an open bar setup that invites a relaxed
+  dining experience. This venue offers a variety of signature rolls and bento
+  boxes, making it a go-to choice for those seeking authentic flavors in a
+  welcoming atmosphere, complete with happy hour deals that enhance the value.
+  Accessibility features like wheelchair-friendly parking and entrances ensure
+  it's inclusive for all guests, while extended hours cater to both lunch crowds
+  and evening outings. With its focus on high-quality ingredients and thoughtful
+  presentation, it's an ideal destination for anyone exploring top-rated sushi
+  options near you in the area.
+generative_summary: >-
+  Experience Kotta Sushi Lounge in Frisco, TX$$$Kotta Sushi Lounge in Frisco,
+  TX, stands out as a modern spot for enjoying fresh sushi and creative Japanese
+  cuisine, blending trendy vibes with an open bar setup that invites a relaxed
+  dining experience. This venue offers a variety of signature rolls and bento
+  boxes, making it a go-to choice for those seeking authentic flavors in a
+  welcoming atmosphere, complete with happy hour deals that enhance the value.
+  Accessibility features like wheelchair-friendly parking and entrances ensure
+  it's inclusive for all guests, while extended hours cater to both lunch crowds
+  and evening outings. With its focus on high-quality ingredients and thoughtful
+  presentation, it's an ideal destination for anyone exploring top-rated sushi
+  options near you in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJjS0UpmQ8TIYRAwVu5cOtSxo/reviews/ChZDSUhNMG9nS0VJQ0FnTURvcElfTGVREAE
+    relativePublishTimeDescription: in the last week
+    rating: 5
+    text:
+      text: >-
+        The very best sushi I've ever tryed. Really nice taste and the
+        presentation was amazing. The service was also excellent. All staff were
+        so attentive and they help us to understand the menu and the questions
+        we had about the dishes.
+      languageCode: en
+    originalText:
+      text: >-
+        The very best sushi I've ever tryed. Really nice taste and the
+        presentation was amazing. The service was also excellent. All staff were
+        so attentive and they help us to understand the menu and the questions
+        we had about the dishes.
+      languageCode: en
+    authorAttribution:
+      displayName: Jaime Calderon
+      uri: https://www.google.com/maps/contrib/116771417196475878772/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjV23eFiidrknWRPC4b3LFPmisL7oZtM6xByvjnKMwgL8SpU-a7itQ=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-04-28T00:45:41.841483Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURvcElfTGVREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURvcElfTGVREAE!2m1!1s0x864c3c64a6142d8d:0x1a4badc3e56e0503
+  - name: >-
+      places/ChIJjS0UpmQ8TIYRAwVu5cOtSxo/reviews/ChZDSUhNMG9nS0VJQ0FnSURQLTVpa0pnEAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 4
+    text:
+      text: >-
+        Was in the mood for sushi and I have been here once before a few years
+        ago. Went early and it was happy hour still so I got a few different
+        rolls at good prices. The ingredients are very fresh and everything
+        comes out quick. The service is wonderful and treats you well (I was the
+        only one in at the time however). This is a fairly typical modern sushi
+        bar. Nothing special moody lighting and a big sushi bar to sit at. It’s
+        a surprise for Frisco, TX.
+      languageCode: en
+    originalText:
+      text: >-
+        Was in the mood for sushi and I have been here once before a few years
+        ago. Went early and it was happy hour still so I got a few different
+        rolls at good prices. The ingredients are very fresh and everything
+        comes out quick. The service is wonderful and treats you well (I was the
+        only one in at the time however). This is a fairly typical modern sushi
+        bar. Nothing special moody lighting and a big sushi bar to sit at. It’s
+        a surprise for Frisco, TX.
+      languageCode: en
+    authorAttribution:
+      displayName: Eric Dowling
+      uri: https://www.google.com/maps/contrib/100386682555576522079/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIXmO1l57QcMGX4zdTnzfDHYdkL6IlblBr_1NnQAsx1M7Zwgg=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-12-05T22:57:50.779916Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURQLTVpa0pnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURQLTVpa0pnEAE!2m1!1s0x864c3c64a6142d8d:0x1a4badc3e56e0503
+  - name: >-
+      places/ChIJjS0UpmQ8TIYRAwVu5cOtSxo/reviews/ChZDSUhNMG9nS0VJQ0FnTURJeUxMRUhnEAE
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 5
+    text:
+      text: >-
+        Absolutely blown away by this gem of a sushi lounge! It strikes the
+        perfect balance between upscale and welcoming — the kind of place where
+        you can celebrate something special or just unwind after a long day. The
+        quality of the fish is consistently outstanding — every bite tastes
+        incredibly fresh and thoughtfully prepared. You can tell the chefs truly
+        care about their craft. The ambiance is refined yet relaxed, and the
+        service is impeccable without being overbearing. It’s rare to find a
+        spot that nails every detail so effortlessly, but this place does it
+        time and time again. A true neighborhood treasure with the soul of a
+        fine dining experience.
+      languageCode: en
+    originalText:
+      text: >-
+        Absolutely blown away by this gem of a sushi lounge! It strikes the
+        perfect balance between upscale and welcoming — the kind of place where
+        you can celebrate something special or just unwind after a long day. The
+        quality of the fish is consistently outstanding — every bite tastes
+        incredibly fresh and thoughtfully prepared. You can tell the chefs truly
+        care about their craft. The ambiance is refined yet relaxed, and the
+        service is impeccable without being overbearing. It’s rare to find a
+        spot that nails every detail so effortlessly, but this place does it
+        time and time again. A true neighborhood treasure with the soul of a
+        fine dining experience.
+      languageCode: en
+    authorAttribution:
+      displayName: S M
+      uri: https://www.google.com/maps/contrib/101947912205922292274/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLFQVMukYiEDvPYZxJXS8a5wCuoePI3FfJQkg_K7hHS-h7jOQ=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-06T15:20:40.540407Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURJeUxMRUhnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJeUxMRUhnEAE!2m1!1s0x864c3c64a6142d8d:0x1a4badc3e56e0503
+  - name: >-
+      places/ChIJjS0UpmQ8TIYRAwVu5cOtSxo/reviews/ChZDSUhNMG9nS0VJQ0FnTUNBbzlYaktnEAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 4
+    text:
+      text: >-
+        The food at Kotta Sushi Lounge was really good. Tried a variety of
+        dishes. Avocado and Cucumber Rolls were nice and fresh.  Dayna Roll was
+        a really creative roll. Never seen or had anything like it so it was
+        nice to see a sushi restaurant that has a creative option for
+        vegetarians (Most places  only have just a simple vegetable roll). 
+        Garden noodles were very tasty and flavorful.  For dessert tried the
+        chocolate mouse cake which was most and delicious and green tea ice
+        cream which was nice and creamy.  In addition to the food, service and
+        atmosphere was excellent.  Definitely will be back.
+      languageCode: en
+    originalText:
+      text: >-
+        The food at Kotta Sushi Lounge was really good. Tried a variety of
+        dishes. Avocado and Cucumber Rolls were nice and fresh.  Dayna Roll was
+        a really creative roll. Never seen or had anything like it so it was
+        nice to see a sushi restaurant that has a creative option for
+        vegetarians (Most places  only have just a simple vegetable roll). 
+        Garden noodles were very tasty and flavorful.  For dessert tried the
+        chocolate mouse cake which was most and delicious and green tea ice
+        cream which was nice and creamy.  In addition to the food, service and
+        atmosphere was excellent.  Definitely will be back.
+      languageCode: en
+    authorAttribution:
+      displayName: Ankush Agarwal
+      uri: https://www.google.com/maps/contrib/103766153805172070144/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKXdbOLpGOlKzJJ7COIgB2EICjvir7RISIympnfKKCYSTGyHA=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-02-03T20:11:56.860233Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNBbzlYaktnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNBbzlYaktnEAE!2m1!1s0x864c3c64a6142d8d:0x1a4badc3e56e0503
+  - name: >-
+      places/ChIJjS0UpmQ8TIYRAwVu5cOtSxo/reviews/ChZDSUhNMG9nS0VJQ0FnSURqdC1XM1lREAE
+    relativePublishTimeDescription: 12 months ago
+    rating: 5
+    text:
+      text: >-
+        Dined in for lunch and it was great!! Bento box and sushi’s were so
+        tasty and fresh. Service was quick and attentive, my waters were always
+        filled up and they prebussed all our dirty plates when possible. I do
+        miss the oranges they used to serve with the bento boxes though. Highly
+        recommend!
+      languageCode: en
+    originalText:
+      text: >-
+        Dined in for lunch and it was great!! Bento box and sushi’s were so
+        tasty and fresh. Service was quick and attentive, my waters were always
+        filled up and they prebussed all our dirty plates when possible. I do
+        miss the oranges they used to serve with the bento boxes though. Highly
+        recommend!
+      languageCode: en
+    authorAttribution:
+      displayName: J
+      uri: https://www.google.com/maps/contrib/116189084185182599846/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVE5omtl_CBgEOK6Uv2ZdFARbRCTTgIxD9DygX-abnqdWwHxRkQ=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-05-08T17:00:39.067636Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURqdC1XM1lREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURqdC1XM1lREAE!2m1!1s0x864c3c64a6142d8d:0x1a4badc3e56e0503
+review_summary: >-
+  Insights from Recent Feedback$$$Folks frequently highlight the freshness of
+  the ingredients and the creative twists on classic rolls, making meals here
+  feel both innovative and satisfying in a casual setting. Many appreciate the
+  attentive service and quick delivery of dishes, which adds to the overall
+  enjoyable vibe without any unnecessary fuss. There's a common nod to the
+  welcoming atmosphere and variety of options, including vegetarian choices and
+  desserts, that keep things balanced for different tastes. Overall, it's
+  praised as a solid pick for groups or solo diners looking for reliable
+  Japanese fare, though some note it's a typical modern spot that delivers
+  consistently good experiences. If you're on the hunt for sushi places near me,
+  this one often comes through as a dependable favorite with its blend of
+  quality and affordability.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
+delivery: true
+dine_in: true
 good_for_children: null
-good_for_groups: null
+good_for_groups: true
 good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+live_music: false
+menu_for_children: true
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Modern eatery with open sushi bar rolls out signature maki & other creative
+  Japanese fare.
 
 ---

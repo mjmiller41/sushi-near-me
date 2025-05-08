@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi california Japanese Restaurant"
+title: Sushi california Japanese Restaurant
 permalink: /connecticut/newington/sushi-california-japanese-restaurant.html
 stateAbbr: CT
 stateName: Connecticut
 cityName: Newington
 seo:
-  name: "Sushi california Japanese Restaurant"
-  type: Restaurant
+  type: restaurant
   links: http://sushicaliforniact.com/
-description: "Simple eatery turning out sushi & sashimi, plus cooked Japanese classics like katsu & teppanyaki. Sushi california Japanese Restaurant serves delicious sushi in Newington, Connecticut. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJHc4nKIiy54kRICN8Ejz1xks
 photos:
   - name: >-
@@ -185,6 +183,35 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 0
 website: http://sushicaliforniact.com/
+description: >-
+  Explore Sushi California in Newington, CT$$$Sushi California Japanese
+  Restaurant in Newington, CT, stands out as a welcoming spot for enjoying
+  authentic Japanese flavors, including fresh rolls and small plates in a cozy
+  atmosphere. This BYOB establishment offers a variety of vegetarian options
+  alongside classic dishes, making it a great choice for diverse tastes and
+  groups looking for sushi places near me. With its accessible features like
+  wheelchair-friendly entrances and parking, it's designed for comfortable
+  dining experiences that cater to families and friends alike. The menu
+  highlights creative specials and traditional fare, ensuring a satisfying meal
+  in a relaxed setting that emphasizes quality ingredients. Whether you're
+  seeking top-rated sushi restaurants or simply craving Japanese cuisine close
+  to home, this spot delivers a memorable vibe with its thoughtful ambiance and
+  flavorful selections.
+generative_summary: >-
+  Explore Sushi California in Newington, CT$$$Sushi California Japanese
+  Restaurant in Newington, CT, stands out as a welcoming spot for enjoying
+  authentic Japanese flavors, including fresh rolls and small plates in a cozy
+  atmosphere. This BYOB establishment offers a variety of vegetarian options
+  alongside classic dishes, making it a great choice for diverse tastes and
+  groups looking for sushi places near me. With its accessible features like
+  wheelchair-friendly entrances and parking, it's designed for comfortable
+  dining experiences that cater to families and friends alike. The menu
+  highlights creative specials and traditional fare, ensuring a satisfying meal
+  in a relaxed setting that emphasizes quality ingredients. Whether you're
+  seeking top-rated sushi restaurants or simply craving Japanese cuisine close
+  to home, this spot delivers a memorable vibe with its thoughtful ambiance and
+  flavorful selections.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJHc4nKIiy54kRICN8Ejz1xks/reviews/ChdDSUhNMG9nS0VJQ0FnSUNYMkppTnpBRRAB
@@ -370,6 +397,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURZOXNHanVRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURZOXNHanVRRRAB!2m1!1s0x89e7b2882827ce1d:0x4bc6f53c127c2320
+review_summary: >-
+  Insights from Recent Reviews$$$Folks who've dined here often highlight the
+  consistently fresh sushi and generous portions that make every visit feel
+  worthwhile, especially for those hunting for reliable sushi spots nearby. Many
+  appreciate the friendly service and welcoming vibe, which adds to the overall
+  enjoyment without overwhelming the experience. Comments frequently praise the
+  variety of options, from tasty appetizers to well-prepared entrees, making it
+  a solid pick for casual meals or family outings. While most feedback leans
+  positive, some note it's a great value for the quality, encouraging repeat
+  trips for anyone exploring Japanese places near me. Overall, it's clear this
+  restaurant keeps things lively and satisfying, offering a go-to destination
+  for sushi enthusiasts looking for honest, enjoyable eats.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -402,8 +442,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Simple eatery turning out sushi & sashimi, plus cooked Japanese classics like
   katsu & teppanyaki.
 

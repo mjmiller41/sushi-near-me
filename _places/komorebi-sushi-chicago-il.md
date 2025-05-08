@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Komorebi Sushi"
+title: Komorebi Sushi
 permalink: /illinois/chicago/komorebi-sushi.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
 seo:
-  name: "Komorebi Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.komorebisushi.com/
-description: "Japanese restaurant with elegantly plated sushi, rolls & cooked fare in a rustic-chic storefront. Komorebi Sushi serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJI3g0gs_SD4gRdpbA9ygL_K4
 photos:
   - name: >-
@@ -184,6 +182,31 @@ price_range: $30 &ndash; $50
 rating: '4.7'
 rating_count: 0
 website: http://www.komorebisushi.com/
+description: >-
+  Discover Komorebi Sushi in Chicago, IL$$$Komorebi Sushi in Chicago, IL, stands
+  out as a casual sushi spot offering an extensive selection of specialty rolls
+  and fresh seafood dishes in a rustic-chic atmosphere. This Japanese restaurant
+  delights visitors with elegantly plated options, including creative takes on
+  salmon and other flavorful fare, making it a go-to choice for those exploring
+  top sushi restaurants in the area. Accessibility features like
+  wheelchair-friendly entrances and seating add to the welcoming vibe, ensuring
+  everyone can enjoy the experience. With moderate pricing and a BYOB policy,
+  it's an ideal spot for a relaxed meal, perfect for anyone searching for
+  quality sushi near me. The focus on fresh ingredients and thoughtful
+  presentation elevates it among Chicago's vibrant Japanese places near me.
+generative_summary: >-
+  Discover Komorebi Sushi in Chicago, IL$$$Komorebi Sushi in Chicago, IL, stands
+  out as a casual sushi spot offering an extensive selection of specialty rolls
+  and fresh seafood dishes in a rustic-chic atmosphere. This Japanese restaurant
+  delights visitors with elegantly plated options, including creative takes on
+  salmon and other flavorful fare, making it a go-to choice for those exploring
+  top sushi restaurants in the area. Accessibility features like
+  wheelchair-friendly entrances and seating add to the welcoming vibe, ensuring
+  everyone can enjoy the experience. With moderate pricing and a BYOB policy,
+  it's an ideal spot for a relaxed meal, perfect for anyone searching for
+  quality sushi near me. The focus on fresh ingredients and thoughtful
+  presentation elevates it among Chicago's vibrant Japanese places near me.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJI3g0gs_SD4gRdpbA9ygL_K4/reviews/ChZDSUhNMG9nS0VJQ0FnTURJMnJtaGNBEAE
@@ -315,6 +338,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQ5XzlYUGlnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQ5XzlYUGlnRRAB!2m1!1s0x880fd2cf82347823:0xaefc0b28f7c09676
+review_summary: >-
+  What Customers Are Raving About$$$Visitors often highlight the fresh and
+  flavorful sushi rolls at this spot, praising the variety that includes
+  creative vegetarian options and unique tastes that keep things exciting. Many
+  appreciate the quick service and great value for the price, making it a solid
+  pick for casual dinners without breaking the bank. Folks mention the friendly
+  staff and clean environment add to the overall enjoyment, turning first-time
+  tries into repeat visits. While some note the pacing can feel a bit hurried
+  during peak times, the consensus leans toward it being a reliably tasty choice
+  for sushi enthusiasts. All in all, it's a welcoming place that delivers on
+  flavor and affordability, encouraging anyone hunting for the best sushi near
+  me to give it a shot.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidStreetParking: true
 payment_options:
@@ -345,8 +381,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Japanese restaurant with elegantly plated sushi, rolls & cooked fare in a
   rustic-chic storefront.
 

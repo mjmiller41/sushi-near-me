@@ -5,4 +5,5 @@ permalink: /hawaii/haleiwa/
 stateAbbr: HI
 stateName: Hawaii
 cityName: Haleiwa
+
 ---

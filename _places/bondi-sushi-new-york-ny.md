@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Bondi sushi"
+title: Bondi sushi
 permalink: /new-york/new-york/bondi-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "Bondi sushi"
-  type: Restaurant
-  links: null
-description: "Bondi sushi serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://bondisushi.com/
 place_id: ChIJb9AlFyhZwokRGGKmqrEq84s
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c259281725d06f:0x8bf32ab1aaa66218!10e5
 primary_type: Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 10:00 PM'
+    - 'Tuesday: 11:00 AM – 10:00 PM'
+    - 'Wednesday: 11:00 AM – 10:00 PM'
+    - 'Thursday: 11:00 AM – 10:00 PM'
+    - 'Friday: 11:00 AM – 10:00 PM'
+    - 'Saturday: 11:00 AM – 10:00 PM'
+    - 'Sunday: 11:00 AM – 10:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,46 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
+phone: (929) 397-2384
+price_level: PRICE_LEVEL_MODERATE
 price_range: null
-rating: null
-rating_count: 0
-website: null
+rating: '4.1'
+rating_count: 222
+website: http://bondisushi.com/
+description: >-
+  About Bondi Sushi in New York, NY$$$Bondi Sushi in New York, NY, stands out as
+  a cozy and casual destination for enjoying fresh sushi and creative
+  Japanese-inspired dishes. This welcoming spot features a menu that highlights
+  high-quality ingredients, paired with a selection of cocktails and sake to
+  enhance the dining experience. With its accessible entrance and comfortable
+  seating, it's designed for easy visits, making it ideal for those seeking a
+  relaxed meal in a vibrant urban setting. Operating daily from 11 AM to 10 PM,
+  it caters to both quick lunches and evening outings, appealing to sushi
+  enthusiasts exploring options in the city.
+generative_summary: >-
+  About Bondi Sushi in New York, NY$$$Bondi Sushi in New York, NY, stands out as
+  a cozy and casual destination for enjoying fresh sushi and creative
+  Japanese-inspired dishes. This welcoming spot features a menu that highlights
+  high-quality ingredients, paired with a selection of cocktails and sake to
+  enhance the dining experience. With its accessible entrance and comfortable
+  seating, it's designed for easy visits, making it ideal for those seeking a
+  relaxed meal in a vibrant urban setting. Operating daily from 11 AM to 10 PM,
+  it caters to both quick lunches and evening outings, appealing to sushi
+  enthusiasts exploring options in the city.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback Highlights$$$Visitors to this sushi spot often rave about
+  the fresh flavors and well-prepared rolls, making it a go-to choice for anyone
+  craving Japanese cuisine nearby. Many appreciate the friendly service and cozy
+  atmosphere, noting that it delivers a solid experience without any major
+  hiccups. While a few mentions point to occasional wait times during peak
+  hours, the overall vibe remains positive, with folks enjoying the variety of
+  drinks on offer. It's frequently recommended for groups or solo diners looking
+  for reliable, tasty options, earning it praise as one of the better picks in
+  the area for satisfying sushi cravings. Overall, the feedback suggests it's a
+  worthwhile stop for those hunting for quality eats in a laid-back environment.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +307,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

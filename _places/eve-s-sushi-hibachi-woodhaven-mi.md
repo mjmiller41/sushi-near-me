@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Eve's Sushi & Hibachi"
+title: Eve's Sushi & Hibachi
 permalink: /michigan/woodhaven/eve-s-sushi-hibachi.html
 stateAbbr: MI
 stateName: Michigan
 cityName: Woodhaven
 seo:
-  name: "Eve's Sushi & Hibachi"
-  type: Restaurant
+  type: restaurant
   links: https://www.evessushi.com/
-description: "Eve's Sushi & Hibachi serves delicious sushi in Woodhaven, Michigan. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJnTuNboQ5O4gRHr9g87OVRTU
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 0
 website: https://www.evessushi.com/
+description: >-
+  Experience Eve's Sushi & Hibachi in Woodhaven, MI$$$Eve's Sushi & Hibachi in
+  Woodhaven, MI, stands out as a welcoming spot for enjoying creative sushi
+  rolls and flavorful hibachi dishes in a casual setting. The menu highlights
+  fresh ingredients and a variety of Japanese-inspired options, making it a
+  go-to choice for those seeking quality dining experiences in the area. With
+  its accessible features and moderate pricing, this restaurant caters to a wide
+  range of preferences, from quick meals to special occasions. Visitors can
+  appreciate the clean atmosphere and thoughtful presentation of dishes, which
+  add to the overall appeal. Whether you're exploring sushi restaurants near you
+  or looking for top-rated Japanese places, this location delivers a satisfying
+  blend of taste and value.
+generative_summary: >-
+  Experience Eve's Sushi & Hibachi in Woodhaven, MI$$$Eve's Sushi & Hibachi in
+  Woodhaven, MI, stands out as a welcoming spot for enjoying creative sushi
+  rolls and flavorful hibachi dishes in a casual setting. The menu highlights
+  fresh ingredients and a variety of Japanese-inspired options, making it a
+  go-to choice for those seeking quality dining experiences in the area. With
+  its accessible features and moderate pricing, this restaurant caters to a wide
+  range of preferences, from quick meals to special occasions. Visitors can
+  appreciate the clean atmosphere and thoughtful presentation of dishes, which
+  add to the overall appeal. Whether you're exploring sushi restaurants near you
+  or looking for top-rated Japanese places, this location delivers a satisfying
+  blend of taste and value.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJnTuNboQ5O4gRHr9g87OVRTU/reviews/ChZDSUhNMG9nS0VJQ0FnTURBZ3VtQU9nEAE
@@ -382,6 +405,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNieWEzdk1REAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNieWEzdk1REAE!2m1!1s0x883b39846e8d3b9d:0x354595b3f360bf1e
+review_summary: >-
+  Customer Feedback on This Local Sushi Favorite$$$Folks rave about the fresh
+  seafood and inventive rolls at this spot, noting how the flavors stand out
+  without overwhelming the palate, making it a solid pick for anyone craving
+  reliable Japanese fare. Many highlight the welcoming vibe and attentive
+  service that enhance the overall meal, turning simple dinners into enjoyable
+  outings. While most experiences are positive, a few mentions of portion sizes
+  and specific preparations show room for tweaks, but the general consensus
+  leans toward satisfaction with the variety and quality. If you're hunting for
+  the best sushi close to you, this place often impresses with its consistent
+  taste and atmosphere that keeps diners coming back. All in all, it's a
+  neighborhood gem that balances fun and flavor, encouraging repeat visits for
+  both casual bites and group gatherings.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -414,7 +451,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: null
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

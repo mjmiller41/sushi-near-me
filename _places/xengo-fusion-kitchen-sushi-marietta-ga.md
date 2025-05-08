@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "XenGo Fusion Kitchen & Sushi"
+title: XenGo Fusion Kitchen & Sushi
 permalink: /georgia/marietta/xengo-fusion-kitchen-sushi.html
 stateAbbr: GA
 stateName: Georgia
 cityName: Marietta
 seo:
-  name: "XenGo Fusion Kitchen & Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.ilovexengo.com/
-description: "Everyday sushi restaurant offering Asian classics with a Latin twist, plus outdoor seating. XenGo Fusion Kitchen & Sushi serves delicious sushi in Marietta, Georgia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJH8SBW0sN9YgRbdgN3fLvj1s
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $10 &ndash; $20
 rating: '4.2'
 rating_count: 0
 website: http://www.ilovexengo.com/
+description: >-
+  Experience XenGo Fusion Kitchen & Sushi$$$XenGo Fusion Kitchen & Sushi in
+  Marietta, GA, offers a delightful blend of Asian classics with innovative
+  flavors, making it a standout spot for sushi enthusiasts in the area. This
+  laid-back restaurant serves fresh sushi alongside a variety of other Asian
+  standards, all prepared with creative twists that enhance the dining
+  experience. With accessible features like wheelchair-friendly entrances and
+  outdoor seating, it's an inviting choice for a relaxed meal with friends or
+  family. The moderate price range ensures great value, while options like beer
+  and wine add to the enjoyable atmosphere for those seeking top-rated sushi
+  restaurants nearby.
+generative_summary: >-
+  Experience XenGo Fusion Kitchen & Sushi$$$XenGo Fusion Kitchen & Sushi in
+  Marietta, GA, offers a delightful blend of Asian classics with innovative
+  flavors, making it a standout spot for sushi enthusiasts in the area. This
+  laid-back restaurant serves fresh sushi alongside a variety of other Asian
+  standards, all prepared with creative twists that enhance the dining
+  experience. With accessible features like wheelchair-friendly entrances and
+  outdoor seating, it's an inviting choice for a relaxed meal with friends or
+  family. The moderate price range ensures great value, while options like beer
+  and wine add to the enjoyable atmosphere for those seeking top-rated sushi
+  restaurants nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJH8SBW0sN9YgRbdgN3fLvj1s/reviews/ChZDSUhNMG9nS0VJQ0FnSUN2dTRyZkl3EAE
@@ -406,6 +427,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURKdkliYUJBEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURKdkliYUJBEAE!2m1!1s0x88f50d4b5b81c41f:0x5b8feff2dd0dd86d
+review_summary: >-
+  Insights from Customer Feedback$$$Folks checking out this spot often praise
+  the flavorful dishes and generous portions, like the tasty noodles and
+  appetizers that leave you satisfied for multiple meals. While the service
+  stands out as friendly and attentive, creating a warm vibe that makes diners
+  want to return, some mention that certain sushi options could offer more for
+  the price to feel like a complete deal. Overall, it's a go-to for anyone
+  craving fresh rolls and fusion eats, with the casual setting and quick service
+  adding to the fun. If you're hunting for sushi places near me, this location
+  delivers solid experiences that keep the positives rolling, even with a few
+  minor tweaks suggested by regulars.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -438,8 +471,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Everyday sushi restaurant offering Asian classics with a Latin twist, plus
   outdoor seating.
 

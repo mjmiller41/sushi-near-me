@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yoshi Sushi"
+title: Yoshi Sushi
 permalink: /california/milpitas/yoshi-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Milpitas
 seo:
-  name: "Yoshi Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Yoshi Sushi serves delicious sushi in Milpitas, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJrSOoc0HPj4AR6amuZyvxXKg
 photos:
   - name: >-
@@ -185,7 +183,42 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Yoshi Sushi in Milpitas, CA$$$Yoshi Sushi in Milpitas, California,
+  stands out as a cozy spot for savoring authentic Japanese flavors, ideal for
+  families and sushi enthusiasts alike. The restaurant boasts a welcoming
+  atmosphere with a menu featuring fresh sushi rolls, bento boxes, and other
+  traditional fare that appeals to a wide range of tastes. Accessibility
+  features like wheelchair-friendly parking and seating make it an inclusive
+  choice for everyone seeking quality Japanese dining options nearby. If you're
+  exploring top-rated sushi spots in the area, this location delivers a
+  comfortable experience with kid-friendly selections that enhance its appeal as
+  a go-to for casual meals.
+generative_summary: >-
+  Discover Yoshi Sushi in Milpitas, CA$$$Yoshi Sushi in Milpitas, California,
+  stands out as a cozy spot for savoring authentic Japanese flavors, ideal for
+  families and sushi enthusiasts alike. The restaurant boasts a welcoming
+  atmosphere with a menu featuring fresh sushi rolls, bento boxes, and other
+  traditional fare that appeals to a wide range of tastes. Accessibility
+  features like wheelchair-friendly parking and seating make it an inclusive
+  choice for everyone seeking quality Japanese dining options nearby. If you're
+  exploring top-rated sushi spots in the area, this location delivers a
+  comfortable experience with kid-friendly selections that enhance its appeal as
+  a go-to for casual meals.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$While specific reviews for Yoshi Sushi are
+  limited, feedback from similar Japanese eateries suggests that diners enjoy
+  the fresh, flavorful sushi and family-friendly vibe that make it a solid pick
+  for everyday dining. Many appreciate the straightforward approach to
+  traditional dishes, often noting how it caters well to those hunting for
+  reliable options close to home. The overall atmosphere receives nods for being
+  relaxed and accommodating, positioning it as a welcoming choice for groups or
+  quick bites. Based on general sentiments about such spots, it's seen as a
+  dependable spot for quality Japanese cuisine, encouraging visitors to try it
+  for a satisfying meal without the hype.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +244,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

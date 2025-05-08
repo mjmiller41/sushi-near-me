@@ -5,4 +5,5 @@ permalink: /michigan/muskegon/
 stateAbbr: MI
 stateName: Michigan
 cityName: Muskegon
+
 ---

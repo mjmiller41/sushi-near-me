@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kazu Sushi Burrito"
+title: Kazu Sushi Burrito
 permalink: /florida/jacksonville/kazu-sushi-burrito.html
 stateAbbr: FL
 stateName: Florida
 cityName: Jacksonville
 seo:
-  name: "Kazu Sushi Burrito"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Kazu Sushi Burrito serves delicious sushi in Jacksonville, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJj3ubfhzK5YgR2_KzbSnZduA
 photos:
   - name: >-
@@ -185,7 +183,46 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Kazu Sushi Burrito in Jacksonville$$$Kazu Sushi Burrito in
+  Jacksonville, FL, delivers a creative twist on traditional sushi with its
+  fresh, burrito-style offerings that blend flavors innovatively. Nestled in the
+  Deerwood Center neighborhood, this spot prioritizes accessibility with
+  features like wheelchair-friendly parking, entrances, and seating, ensuring a
+  welcoming experience for all. The casual atmosphere makes it ideal for quick
+  grabs or relaxed meals, highlighting high-quality ingredients that elevate
+  everyday dining. For those exploring sushi restaurants nearby, it stands out
+  with its convenient location and inventive takes on classic dishes. Whether
+  you're in the mood for something light and portable or a satisfying sit-down
+  option, it's a go-to choice for sushi enthusiasts in the area.
+generative_summary: >-
+  Discover Kazu Sushi Burrito in Jacksonville$$$Kazu Sushi Burrito in
+  Jacksonville, FL, delivers a creative twist on traditional sushi with its
+  fresh, burrito-style offerings that blend flavors innovatively. Nestled in the
+  Deerwood Center neighborhood, this spot prioritizes accessibility with
+  features like wheelchair-friendly parking, entrances, and seating, ensuring a
+  welcoming experience for all. The casual atmosphere makes it ideal for quick
+  grabs or relaxed meals, highlighting high-quality ingredients that elevate
+  everyday dining. For those exploring sushi restaurants nearby, it stands out
+  with its convenient location and inventive takes on classic dishes. Whether
+  you're in the mood for something light and portable or a satisfying sit-down
+  option, it's a go-to choice for sushi enthusiasts in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$People checking out sushi spots like Kazu Sushi
+  Burrito often highlight the fresh ingredients and fun, creative twists on
+  familiar favorites, making meals feel exciting and satisfying. Many appreciate
+  the straightforward vibe that's perfect for a casual bite, especially if
+  you're searching for reliable sushi options close to home in Jacksonville.
+  Feedback frequently mentions good value and quick service, turning it into a
+  handy pick for families or groups looking for tasty Japanese-inspired eats.
+  While not every visit is flawless, the overall sentiment leans positive, with
+  diners enjoying the approachable atmosphere and recommending it for anyone
+  craving top-rated flavors on the go. If you're hunting for sushi near you,
+  this place tends to leave folks feeling glad they stopped by, based on shared
+  experiences from the community.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +248,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

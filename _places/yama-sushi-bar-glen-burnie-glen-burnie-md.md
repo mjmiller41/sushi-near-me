@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yama Sushi Bar（Glen Burnie)"
+title: Yama Sushi Bar（Glen Burnie)
 permalink: /maryland/glen-burnie/yama-sushi-bar-glen-burnie.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Glen Burnie
 seo:
-  name: "Yama Sushi Bar（Glen Burnie)"
-  type: Restaurant
+  type: restaurant
   links: https://www.yamasushibarglenburnie.com/
-description: "Yama Sushi Bar（Glen Burnie) serves delicious sushi in Glen Burnie, Maryland. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJGc1somn9t4kRXSK8V1bwMQY
 photos:
   - name: >-
@@ -170,7 +168,97 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89b7fd69a26ccd19:0x631f05657bc225d!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 2:30 PM, 4:30 – 10:00 PM'
     - 'Tuesday: 11:00 AM – 2:30 PM, 4:30 – 10:00 PM'
     - 'Wednesday: 11:00 AM – 2:30 PM, 4:30 – 10:00 PM'
@@ -178,14 +266,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:30 PM'
     - 'Saturday: 11:00 AM – 10:30 PM'
     - 'Sunday: 12:00 – 9:30 PM'
-  current:
-    - 'Monday: 11:00 AM – 2:30 PM, 4:30 – 10:00 PM'
-    - 'Tuesday: 11:00 AM – 2:30 PM, 4:30 – 10:00 PM'
-    - 'Wednesday: 11:00 AM – 2:30 PM, 4:30 – 10:00 PM'
-    - 'Thursday: 11:00 AM – 2:30 PM, 4:30 – 10:00 PM'
-    - 'Friday: 11:00 AM – 10:30 PM'
-    - 'Saturday: 11:00 AM – 10:30 PM'
-    - 'Sunday: 12:00 – 9:30 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +278,45 @@ phone: (410) 760-5938
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.6'
-rating_count: 0
+rating_count: 899
 website: https://www.yamasushibarglenburnie.com/
+description: >-
+  Discover Yama Sushi Bar in Glen Burnie, MD$$$Yama Sushi Bar in Glen Burnie,
+  MD, stands out as a welcoming spot for enjoying fresh Japanese cuisine in a
+  relaxed setting. This casual restaurant offers a variety of flavorful options
+  like sushi, tempura, and teriyaki, making it a go-to choice for those seeking
+  authentic Asian dishes in the area. With its accessible features, including
+  wheelchair-friendly parking and entrances, it caters to a wide range of diners
+  looking for a comfortable dining experience. The moderate pricing and inviting
+  atmosphere add to its appeal, perfect for anyone exploring top-rated sushi
+  restaurants nearby. Open for lunch and dinner throughout the week, it's an
+  ideal destination for savoring high-quality meals that highlight the best of
+  Japanese flavors.
+generative_summary: >-
+  Discover Yama Sushi Bar in Glen Burnie, MD$$$Yama Sushi Bar in Glen Burnie,
+  MD, stands out as a welcoming spot for enjoying fresh Japanese cuisine in a
+  relaxed setting. This casual restaurant offers a variety of flavorful options
+  like sushi, tempura, and teriyaki, making it a go-to choice for those seeking
+  authentic Asian dishes in the area. With its accessible features, including
+  wheelchair-friendly parking and entrances, it caters to a wide range of diners
+  looking for a comfortable dining experience. The moderate pricing and inviting
+  atmosphere add to its appeal, perfect for anyone exploring top-rated sushi
+  restaurants nearby. Open for lunch and dinner throughout the week, it's an
+  ideal destination for savoring high-quality meals that highlight the best of
+  Japanese flavors.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Raving About$$$Folks seem to really enjoy the tasty sashimi
+  and nigiri at this spot, often mentioning how the assorted sashimi deluxe
+  stands out as a highlight on the menu. Many appreciate the friendly service
+  and attentive staff that make every visit feel welcoming and smooth. Prices
+  are generally seen as reasonable, offering great value for the quality of food
+  without breaking the bank. The calming vibe adds a nice touch, creating a
+  relaxed environment that's perfect for casual outings or groups. Overall, it's
+  clear that this place delivers a solid experience, making it a reliable pick
+  for anyone hunting for delicious sushi options in the neighborhood.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +342,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

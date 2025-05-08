@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Jūn's Sushi and Bento"
+title: Jūn's Sushi and Bento
 permalink: /washington/bellingham/jun-s-sushi-and-bento.html
 stateAbbr: WA
 stateName: Washington
 cityName: Bellingham
 seo:
-  name: "Jūn's Sushi and Bento"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Jūn's Sushi and Bento serves delicious sushi in Bellingham, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ93YKHbyjhVQROhWqaC7ylGU
 photos:
   - name: >-
@@ -170,7 +168,105 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x5485a3bc1d0a76f7:0x6594f22e68aa153a!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 16
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 14
+        minute: 30
+    - open:
+        day: 6
+        hour: 16
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 2:30 PM, 4:00 – 9:00 PM'
     - 'Tuesday: 11:30 AM – 2:30 PM, 4:00 – 9:00 PM'
     - 'Wednesday: 11:30 AM – 2:30 PM, 4:00 – 9:00 PM'
@@ -178,14 +274,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 2:30 PM, 4:00 – 9:00 PM'
     - 'Saturday: 12:00 – 2:30 PM, 4:00 – 9:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:30 AM – 2:30 PM, 4:00 – 9:00 PM'
-    - 'Tuesday: 11:30 AM – 2:30 PM, 4:00 – 9:00 PM'
-    - 'Wednesday: 11:30 AM – 2:30 PM, 4:00 – 9:00 PM'
-    - 'Thursday: 11:30 AM – 2:30 PM, 4:00 – 9:00 PM'
-    - 'Friday: 11:30 AM – 2:30 PM, 4:00 – 9:00 PM'
-    - 'Saturday: 12:00 – 2:30 PM, 4:00 – 9:00 PM'
-    - 'Sunday: Closed'
+  nextOpenTime: '2025-05-03T23:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +286,49 @@ phone: (360) 306-3584
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.4'
-rating_count: 0
+rating_count: 459
 website: null
+description: >-
+  Experience Jūn's Sushi in Bellingham, WA$$$Nestled in the heart of Bellingham,
+  WA, Jūn's Sushi and Bento offers a welcoming spot for enjoying fresh
+  Japanese-inspired dishes. This cozy eatery highlights a variety of sushi
+  options alongside other traditional fare, making it a great choice for those
+  seeking flavorful meals in a relaxed setting. With thoughtful vegetarian
+  selections and a selection of beer and wine to complement your meal, it's
+  designed to cater to diverse tastes and preferences. The restaurant's
+  accessibility features ensure a comfortable visit for all, while its
+  convenient location adds to the appeal for anyone exploring local dining
+  scenes. Whether you're in the mood for a quick bite or a leisurely dinner,
+  this spot combines quality ingredients with a charming atmosphere to create
+  memorable experiences.
+generative_summary: >-
+  Experience Jūn's Sushi in Bellingham, WA$$$Nestled in the heart of Bellingham,
+  WA, Jūn's Sushi and Bento offers a welcoming spot for enjoying fresh
+  Japanese-inspired dishes. This cozy eatery highlights a variety of sushi
+  options alongside other traditional fare, making it a great choice for those
+  seeking flavorful meals in a relaxed setting. With thoughtful vegetarian
+  selections and a selection of beer and wine to complement your meal, it's
+  designed to cater to diverse tastes and preferences. The restaurant's
+  accessibility features ensure a comfortable visit for all, while its
+  convenient location adds to the appeal for anyone exploring local dining
+  scenes. Whether you're in the mood for a quick bite or a leisurely dinner,
+  this spot combines quality ingredients with a charming atmosphere to create
+  memorable experiences.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Buzz Around This Local Sushi Favorite$$$If you're on the hunt for solid sushi
+  spots nearby, folks often rave about the fresh flavors and welcoming vibe at
+  places like this one, backed by a strong overall rating. Diners appreciate the
+  variety of options that go beyond just rolls, including vegetarian picks and
+  drinks that pair perfectly, making it a go-to for casual outings or groups.
+  While most feedback highlights the consistent quality and attentive service,
+  some mention it's best to plan around busy times to avoid waits. Overall, it's
+  seen as a reliable choice for anyone craving top-rated Japanese cuisine close
+  to home, with many returning for the reliable taste and cozy feel. Keep in
+  mind, the moderately priced menu makes it an approachable option without
+  breaking the bank, adding to its charm for everyday sushi lovers.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +354,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

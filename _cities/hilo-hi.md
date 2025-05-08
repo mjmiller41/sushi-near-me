@@ -5,4 +5,5 @@ permalink: /hawaii/hilo/
 stateAbbr: HI
 stateName: Hawaii
 cityName: Hilo
+
 ---

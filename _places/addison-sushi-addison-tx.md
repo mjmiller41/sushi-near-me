@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Addison Sushi"
+title: Addison Sushi
 permalink: /texas/addison/addison-sushi.html
 stateAbbr: TX
 stateName: Texas
 cityName: Addison
 seo:
-  name: "Addison Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://addisonsushi.com/
-description: "Addison Sushi serves delicious sushi in Addison, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ7yKCrAMhTIYRmi3jQcAkZ2U
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x864c2103ac8222ef:0x656724c041e32d9a!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 16
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 16
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 4:00 – 10:00 PM'
     - 'Tuesday: 4:00 – 10:00 PM'
     - 'Wednesday: 4:00 – 10:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 4:00 – 10:00 PM'
     - 'Saturday: 4:00 – 10:00 PM'
     - 'Sunday: 4:00 – 10:00 PM'
-  current:
-    - 'Monday: 4:00 – 10:00 PM'
-    - 'Tuesday: 4:00 – 10:00 PM'
-    - 'Wednesday: 4:00 – 10:00 PM'
-    - 'Thursday: 4:00 – 10:00 PM'
-    - 'Friday: 4:00 – 10:00 PM'
-    - 'Saturday: 4:00 – 10:00 PM'
-    - 'Sunday: 4:00 – 10:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,246 @@ phone: (972) 803-1192
 price_level: null
 price_range: null
 rating: '4.5'
-rating_count: 0
+rating_count: 382
 website: http://addisonsushi.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Addison Sushi in Addison, TX$$$Addison Sushi in Addison, TX, stands
+  out as a premier spot for fresh sushi and Japanese cuisine, offering a relaxed
+  atmosphere perfect for casual dining or special occasions. With its inviting
+  patio and comfortable indoor seating, this sushi restaurant near me provides
+  an authentic taste of Japanese fare, including flavorful rolls and other
+  traditional dishes that capture the essence of the Orient. Accessibility
+  features like wheelchair-friendly parking and entrances make it welcoming for
+  all guests, while the evening hours cater to those seeking a delightful dinner
+  option. For anyone exploring top-rated sushi places near me, the combination
+  of quality ingredients and a serene setting ensures a memorable meal that
+  highlights the best of Japanese dining.
+generative_summary: >-
+  Discover Addison Sushi in Addison, TX$$$Addison Sushi in Addison, TX, stands
+  out as a premier spot for fresh sushi and Japanese cuisine, offering a relaxed
+  atmosphere perfect for casual dining or special occasions. With its inviting
+  patio and comfortable indoor seating, this sushi restaurant near me provides
+  an authentic taste of Japanese fare, including flavorful rolls and other
+  traditional dishes that capture the essence of the Orient. Accessibility
+  features like wheelchair-friendly parking and entrances make it welcoming for
+  all guests, while the evening hours cater to those seeking a delightful dinner
+  option. For anyone exploring top-rated sushi places near me, the combination
+  of quality ingredients and a serene setting ensures a memorable meal that
+  highlights the best of Japanese dining.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ7yKCrAMhTIYRmi3jQcAkZ2U/reviews/ChdDSUhNMG9nS0VJQ0FnTUNRbWVfMnRBRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 4
+    text:
+      text: >-
+        This is a great option for sushi and thoroughly enjoyed the food and
+        service at the restaurant. The ambience of the restaurant is great with
+        interiors that remind you of the Orientals. They have indoor and outdoor
+        seating and seating by the open kitchen as well.
+
+
+        The edamame for appetizer is a must try along with some sake. The staff
+        offer good recommendations and the sushi, sashimi we tried were really
+        great.
+
+
+        Parking around the area can be tricky, but there is plenty of roadside
+        parking available. You just have to be lucky to find a spot.
+
+
+        Pricing is moderate high.
+
+
+        Will I return? For sure!
+      languageCode: en
+    originalText:
+      text: >-
+        This is a great option for sushi and thoroughly enjoyed the food and
+        service at the restaurant. The ambience of the restaurant is great with
+        interiors that remind you of the Orientals. They have indoor and outdoor
+        seating and seating by the open kitchen as well.
+
+
+        The edamame for appetizer is a must try along with some sake. The staff
+        offer good recommendations and the sushi, sashimi we tried were really
+        great.
+
+
+        Parking around the area can be tricky, but there is plenty of roadside
+        parking available. You just have to be lucky to find a spot.
+
+
+        Pricing is moderate high.
+
+
+        Will I return? For sure!
+      languageCode: en
+    authorAttribution:
+      displayName: Arun
+      uri: https://www.google.com/maps/contrib/109318474849693035740/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIuDLZhcy07f3xNcUBQgD8_XtjRqq3Y9H7Nlxjg9fz5WH5GWI0=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-03-05T20:13:09.133100Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNRbWVfMnRBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNRbWVfMnRBRRAB!2m1!1s0x864c2103ac8222ef:0x656724c041e32d9a
+  - name: >-
+      places/ChIJ7yKCrAMhTIYRmi3jQcAkZ2U/reviews/ChZDSUhNMG9nS0VJQ0FnTURnNXV5MFp3EAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        The waitress was so kind and did a great job making sure we had
+        everything we needed. And the chef did a phenomenal job of making our
+        food! We actually requested that our gratitude be passed along to him!
+        The food was so fresh and delicious, and I wish I lived in Texas (was
+        visiting) so that I could go regularly. We ordered a lot of food
+        including literal “boats” of food for our big group. Super worth it!
+      languageCode: en
+    originalText:
+      text: >-
+        The waitress was so kind and did a great job making sure we had
+        everything we needed. And the chef did a phenomenal job of making our
+        food! We actually requested that our gratitude be passed along to him!
+        The food was so fresh and delicious, and I wish I lived in Texas (was
+        visiting) so that I could go regularly. We ordered a lot of food
+        including literal “boats” of food for our big group. Super worth it!
+      languageCode: en
+    authorAttribution:
+      displayName: Sue
+      uri: https://www.google.com/maps/contrib/105502532781875439837/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWSYylK5Jl_BJTsADv5c6_O0lAxe29Oz1Qjjn9cddyEx1iIm_qj=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-02-24T12:26:47.233619Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURnNXV5MFp3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURnNXV5MFp3EAE!2m1!1s0x864c2103ac8222ef:0x656724c041e32d9a
+  - name: >-
+      places/ChIJ7yKCrAMhTIYRmi3jQcAkZ2U/reviews/ChdDSUhNMG9nS0VJQ0FnSUN2Ni1PRl9BRRAB
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        My wife and I joined another couple in dining here last night from the
+        amazing reviews. WOW 😮!! This establishment is amazing. Peter our
+        waiter was very knowledgeable, professional, and funny. The food was on
+        point!! We will be back soon!!
+      languageCode: en
+    originalText:
+      text: >-
+        My wife and I joined another couple in dining here last night from the
+        amazing reviews. WOW 😮!! This establishment is amazing. Peter our
+        waiter was very knowledgeable, professional, and funny. The food was on
+        point!! We will be back soon!!
+      languageCode: en
+    authorAttribution:
+      displayName: Jerry Frith
+      uri: https://www.google.com/maps/contrib/100992565991477257365/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVch4I9fAClI5c3v9MUtW85a1X-0g7WzUWpjFRxKsaT3Qw0sCzT=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-12-14T22:19:51.111436Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN2Ni1PRl9BRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN2Ni1PRl9BRRAB!2m1!1s0x864c2103ac8222ef:0x656724c041e32d9a
+  - name: >-
+      places/ChIJ7yKCrAMhTIYRmi3jQcAkZ2U/reviews/ChZDSUhNMG9nS0VJQ0FnSUNfc05HQkh3EAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        I ate here with my daughter for her birthday. Although  I am not a sushi
+        fan, but I did enjoy the ambience of the establishment. When I am in
+        town I would visit again.
+      languageCode: en
+    originalText:
+      text: >-
+        I ate here with my daughter for her birthday. Although  I am not a sushi
+        fan, but I did enjoy the ambience of the establishment. When I am in
+        town I would visit again.
+      languageCode: en
+    authorAttribution:
+      displayName: Nubian Azzure
+      uri: https://www.google.com/maps/contrib/102607165769854463784/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjU88OzAT36oB7ZYONZ-ka4wO4NEC1yuWTLidoGMVgdHFnaPnpzPUg=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-01-12T04:02:48.445652Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNfc05HQkh3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNfc05HQkh3EAE!2m1!1s0x864c2103ac8222ef:0x656724c041e32d9a
+  - name: >-
+      places/ChIJ7yKCrAMhTIYRmi3jQcAkZ2U/reviews/ChdDSUhNMG9nS0VJQ0FnTUNndHNMejFRRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        Delicious sushi! I'm so happy we found this place. We will definitely be
+        returning. Service was very attentive and fast!
+      languageCode: en
+    originalText:
+      text: >-
+        Delicious sushi! I'm so happy we found this place. We will definitely be
+        returning. Service was very attentive and fast!
+      languageCode: en
+    authorAttribution:
+      displayName: Christine Ernst
+      uri: https://www.google.com/maps/contrib/109512790690541746382/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVw2Fwu7gze2YpbfAYnC8URfh8Ih3QrQ2b829SYlYLNwDXc2fZw5g=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-02-17T02:34:28.364425Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNndHNMejFRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNndHNMejFRRRAB!2m1!1s0x864c2103ac8222ef:0x656724c041e32d9a
+review_summary: >-
+  What Customers Are Saying About the Experience$$$Folks frequently praise the
+  fresh and tasty sushi offerings, noting how the flavors really hit the spot
+  for a satisfying meal. Many appreciate the helpful staff who provide solid
+  recommendations, making it easy to try new dishes without any hassle. The
+  overall vibe comes across as welcoming and enjoyable, with visitors often
+  mentioning plans to come back for more of that great food and atmosphere.
+  While parking might take a little effort, it's generally not a big issue given
+  the rewarding dining experience. In a casual search for sushi restaurants near
+  me, this place gets high marks for delivering a reliably positive and
+  flavorful adventure.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
+curbside_pickup: false
+delivery: true
+dine_in: true
 good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

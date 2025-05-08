@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "MASAKAZU"
+title: MASAKAZU
 permalink: /california/los-angeles/masakazu.html
 stateAbbr: CA
 stateName: California
 cityName: Los Angeles
 seo:
-  name: "MASAKAZU"
-  type: Restaurant
+  type: restaurant
   links: https://sushimasakazu.com/
-description: "MASAKAZU serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJw7qnPdC7woARTgEUSZ__hNM
 photos:
   - name: >-
@@ -169,22 +167,105 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c2bbd03da7bac3:0xd384ff9f4914014e!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 15
+        minute: 30
+    - open:
+        day: 0
+        hour: 17
+        minute: 30
+      close:
+        day: 1
+        hour: 0
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 30
+      close:
+        day: 3
+        hour: 0
+        minute: 0
+    - open:
+        day: 3
+        hour: 12
+        minute: 0
+      close:
+        day: 3
+        hour: 15
+        minute: 30
+    - open:
+        day: 3
+        hour: 17
+        minute: 30
+      close:
+        day: 4
+        hour: 0
+        minute: 0
+    - open:
+        day: 4
+        hour: 12
+        minute: 0
+      close:
+        day: 4
+        hour: 15
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 30
+      close:
+        day: 5
+        hour: 0
+        minute: 0
+    - open:
+        day: 5
+        hour: 12
+        minute: 0
+      close:
+        day: 5
+        hour: 15
+        minute: 30
+    - open:
+        day: 5
+        hour: 17
+        minute: 30
+      close:
+        day: 6
+        hour: 0
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 15
+        minute: 30
+    - open:
+        day: 6
+        hour: 17
+        minute: 30
+      close:
+        day: 0
+        hour: 0
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 5:30 PM – 12:00 AM'
-    - 'Wednesday: 5:30 PM – 12:00 AM'
-    - 'Thursday: 5:30 PM – 12:00 AM'
-    - 'Friday: 5:30 PM – 12:00 AM'
-    - 'Saturday: 5:30 PM – 12:00 AM'
-    - 'Sunday: 5:30 PM – 12:00 AM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 5:30 PM – 12:00 AM'
-    - 'Wednesday: 5:30 PM – 12:00 AM'
-    - 'Thursday: 5:30 PM – 12:00 AM'
-    - 'Friday: 5:30 PM – 12:00 AM'
-    - 'Saturday: 5:30 PM – 12:00 AM'
-    - 'Sunday: 5:30 PM – 12:00 AM'
+    - 'Wednesday: 12:00 – 3:30 PM, 5:30 PM – 12:00 AM'
+    - 'Thursday: 12:00 – 3:30 PM, 5:30 PM – 12:00 AM'
+    - 'Friday: 12:00 – 3:30 PM, 5:30 PM – 12:00 AM'
+    - 'Saturday: 12:00 – 3:30 PM, 5:30 PM – 12:00 AM'
+    - 'Sunday: 12:00 – 3:30 PM, 5:30 PM – 12:00 AM'
+  nextCloseTime: '2025-05-03T22:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,35 +277,345 @@ phone: (310) 421-9779
 price_level: null
 price_range: $100 &ndash; & up
 rating: '4.2'
-rating_count: 0
+rating_count: 65
 website: https://sushimasakazu.com/
-reviews: null
+description: >-
+  Discover MASAKAZU in Los Angeles, CA$$$MASAKAZU in Los Angeles, CA, stands out
+  as a premier destination for sushi enthusiasts seeking an authentic omakase
+  experience, where fresh sushi and sake take center stage in a thoughtfully
+  curated setting. This intimate eatery focuses on high-quality ingredients and
+  expert preparation, offering a menu that highlights traditional Japanese
+  flavors in a welcoming atmosphere. With wheelchair-accessible features and
+  flexible hours that cater to both lunch and dinner crowds, it's designed for
+  those looking for top-rated sushi options in the area. Reservations are
+  encouraged, making it a convenient choice for anyone exploring sushi
+  restaurants near me or the best sushi in West Los Angeles.
+generative_summary: >-
+  Discover MASAKAZU in Los Angeles, CA$$$MASAKAZU in Los Angeles, CA, stands out
+  as a premier destination for sushi enthusiasts seeking an authentic omakase
+  experience, where fresh sushi and sake take center stage in a thoughtfully
+  curated setting. This intimate eatery focuses on high-quality ingredients and
+  expert preparation, offering a menu that highlights traditional Japanese
+  flavors in a welcoming atmosphere. With wheelchair-accessible features and
+  flexible hours that cater to both lunch and dinner crowds, it's designed for
+  those looking for top-rated sushi options in the area. Reservations are
+  encouraged, making it a convenient choice for anyone exploring sushi
+  restaurants near me or the best sushi in West Los Angeles.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJw7qnPdC7woARTgEUSZ__hNM/reviews/ChdDSUhNMG9nS0VJQ0FnTUNRZ2UteXZRRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 1
+    text:
+      text: >-
+        I dined here for the Valentine’s Day omakase with my girlfriend. This
+        fell well below expectations. Having been to numerous omakase
+        establishments, we can both confidently say that both the service and
+        food quality do not justify the $200+ per person price tag.
+
+
+        - Lack of Attention to Detail: In intimate omakase settings with fewer
+        than ten seats, it is customary for the staff to pull out chairs for
+        guests—a small but thoughtful gesture that enhances the overall
+        experience. This was noticeably absent here.
+
+
+        - Premature Upselling: Just three courses into the meal, our waitress
+        asked if we would like to order additional nigiri. At a high-end
+        omakase, this is highly unusual, if not inappropriate, as the experience
+        should be about enjoying the curated menu, not being pressured into
+        add-ons before the meal is even complete. My girlfriend, who has dined
+        at over 20 omakase restaurants ranging from $150 to $500 per person, has
+        never encountered this practice. It came across as a blatant attempt to
+        nickel-and-dime guests.
+
+
+        - Inconsistent Service: While I was served dessert, my girlfriend was
+        not. I was then served the check BEFORE my gilrfriend got her dessert.
+        This level of oversight is unacceptable at this price point!
+
+
+        - Use of lower-Quality ingredients: A well-curated omakase experience
+        highlights premium cuts of fish. However, this restaurant included sake
+        nigiri (salmon) as part of the set menu—something commonly found in
+        sushi restaurants at a fraction of the price. High-end omakase
+        establishments typically focus on more exclusive selections.
+
+
+        - Budget choices for white fish: Most reputable omakase venues serve red
+        or golden snapper, but this restaurant opted for black snapper, the
+        least premium of the three. This further reinforced the impression that
+        ingredient costs were being cut.
+
+
+        - Lack of Engagement from the Chef: Part of the omakase experience is
+        the interaction with the chef, who provides insight into each course and
+        enhances the meal with their presence. Here, the chef was notably
+        disengaged and did not converse with guests, creating a cold and
+        uninviting atmosphere. The sushi counter also had a divider which was
+        blocking the "view" of sushi making, very odd considering most omakase
+        places don't have this.
+
+
+        Final Thoughts: This restaurant charges a premium price but does not
+        deliver a premium experience. Between the lower-quality ingredients, the
+        aggressive upselling, and the lack of attention to detail in service, it
+        simply does not compare to other omakase establishments in the same
+        price range. If you’re looking for an authentic, high-end omakase
+        experience, I would recommend looking elsewhere!!
+      languageCode: en
+    originalText:
+      text: >-
+        I dined here for the Valentine’s Day omakase with my girlfriend. This
+        fell well below expectations. Having been to numerous omakase
+        establishments, we can both confidently say that both the service and
+        food quality do not justify the $200+ per person price tag.
+
+
+        - Lack of Attention to Detail: In intimate omakase settings with fewer
+        than ten seats, it is customary for the staff to pull out chairs for
+        guests—a small but thoughtful gesture that enhances the overall
+        experience. This was noticeably absent here.
+
+
+        - Premature Upselling: Just three courses into the meal, our waitress
+        asked if we would like to order additional nigiri. At a high-end
+        omakase, this is highly unusual, if not inappropriate, as the experience
+        should be about enjoying the curated menu, not being pressured into
+        add-ons before the meal is even complete. My girlfriend, who has dined
+        at over 20 omakase restaurants ranging from $150 to $500 per person, has
+        never encountered this practice. It came across as a blatant attempt to
+        nickel-and-dime guests.
+
+
+        - Inconsistent Service: While I was served dessert, my girlfriend was
+        not. I was then served the check BEFORE my gilrfriend got her dessert.
+        This level of oversight is unacceptable at this price point!
+
+
+        - Use of lower-Quality ingredients: A well-curated omakase experience
+        highlights premium cuts of fish. However, this restaurant included sake
+        nigiri (salmon) as part of the set menu—something commonly found in
+        sushi restaurants at a fraction of the price. High-end omakase
+        establishments typically focus on more exclusive selections.
+
+
+        - Budget choices for white fish: Most reputable omakase venues serve red
+        or golden snapper, but this restaurant opted for black snapper, the
+        least premium of the three. This further reinforced the impression that
+        ingredient costs were being cut.
+
+
+        - Lack of Engagement from the Chef: Part of the omakase experience is
+        the interaction with the chef, who provides insight into each course and
+        enhances the meal with their presence. Here, the chef was notably
+        disengaged and did not converse with guests, creating a cold and
+        uninviting atmosphere. The sushi counter also had a divider which was
+        blocking the "view" of sushi making, very odd considering most omakase
+        places don't have this.
+
+
+        Final Thoughts: This restaurant charges a premium price but does not
+        deliver a premium experience. Between the lower-quality ingredients, the
+        aggressive upselling, and the lack of attention to detail in service, it
+        simply does not compare to other omakase establishments in the same
+        price range. If you’re looking for an authentic, high-end omakase
+        experience, I would recommend looking elsewhere!!
+      languageCode: en
+    authorAttribution:
+      displayName: Thomas Lin
+      uri: https://www.google.com/maps/contrib/102466243143386118877/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJMEX5Ns_qY_55R5TGqfP0TFQ5d-oqsHawfOHZXLHCtkV9FXw=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-04T21:10:24.039164Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNRZ2UteXZRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNRZ2UteXZRRRAB!2m1!1s0x80c2bbd03da7bac3:0xd384ff9f4914014e
+  - name: >-
+      places/ChIJw7qnPdC7woARTgEUSZ__hNM/reviews/ChZDSUhNMG9nS0VJQ0FnSUNfcHFhY1lBEAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 1
+    text:
+      text: >-
+        I wish I had read more bad reviews on this place, so I did not choose
+        this restaurant. I am a foodie I've tried restaurants worldwide,
+        high-end and low-end, the spectrum. Particularly Japanese restaurants,
+        so I have a lot of comparisons making my review. Walking into the place
+        itself felt very cold and empty, the lights were way too bright, and it
+        hurt both my and my company's eyes.
+
+        The service of the chef was so slow, and it was only five people in the
+        restaurant, including ourselves. When it is slow, it messes up the
+        temperature of the fish; it was warm and a bit off-putting. The waitress
+        was fine in her service.
+
+        The bill came, and regardless of the money being overpriced, it was not
+        worth going already. We were all super upset.
+      languageCode: en
+    originalText:
+      text: >-
+        I wish I had read more bad reviews on this place, so I did not choose
+        this restaurant. I am a foodie I've tried restaurants worldwide,
+        high-end and low-end, the spectrum. Particularly Japanese restaurants,
+        so I have a lot of comparisons making my review. Walking into the place
+        itself felt very cold and empty, the lights were way too bright, and it
+        hurt both my and my company's eyes.
+
+        The service of the chef was so slow, and it was only five people in the
+        restaurant, including ourselves. When it is slow, it messes up the
+        temperature of the fish; it was warm and a bit off-putting. The waitress
+        was fine in her service.
+
+        The bill came, and regardless of the money being overpriced, it was not
+        worth going already. We were all super upset.
+      languageCode: en
+    authorAttribution:
+      displayName: Elizabeth Torman
+      uri: https://www.google.com/maps/contrib/100011761339639265542/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKcsMR789MOl4kEHXF0h2hx2QIJqqBAMU8ijkIJ0w3Hsq2TlQ=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-01-15T18:02:38.391719Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNfcHFhY1lBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNfcHFhY1lBEAE!2m1!1s0x80c2bbd03da7bac3:0xd384ff9f4914014e
+  - name: >-
+      places/ChIJw7qnPdC7woARTgEUSZ__hNM/reviews/ChZDSUhNMG9nS0VJQ0FnSUNXd3NYTkNnEAE
+    relativePublishTimeDescription: 3 years ago
+    rating: 5
+    text:
+      text: >-
+        I cannot express how amazing this meal was. Shin is an amazing chef. His
+        humble, funny, and kind chat made our dinner. Not a single piece of
+        sushi wasn’t perfect. Many changed how I thought of sushi. Highlights
+        were the black snapper (cured with kelp), ebi, bluefin, and sea breem.
+        Japanese mackerel was perfect. It’s wonderfully chill and homey inside.
+        Well worth twice the price. Couldn’t imagine another trip to LA without
+        visiting. Would give 6 stars if possible.
+      languageCode: en
+    originalText:
+      text: >-
+        I cannot express how amazing this meal was. Shin is an amazing chef. His
+        humble, funny, and kind chat made our dinner. Not a single piece of
+        sushi wasn’t perfect. Many changed how I thought of sushi. Highlights
+        were the black snapper (cured with kelp), ebi, bluefin, and sea breem.
+        Japanese mackerel was perfect. It’s wonderfully chill and homey inside.
+        Well worth twice the price. Couldn’t imagine another trip to LA without
+        visiting. Would give 6 stars if possible.
+      languageCode: en
+    authorAttribution:
+      displayName: Steve Reilly
+      uri: https://www.google.com/maps/contrib/102247478406157893101/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUtItsvZapFEqkGzq8LqU5RgRt7DlBzh3hOhjAJSOuRTJo5U1N26A=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2022-02-21T18:07:20.378341Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNXd3NYTkNnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNXd3NYTkNnEAE!2m1!1s0x80c2bbd03da7bac3:0xd384ff9f4914014e
+  - name: >-
+      places/ChIJw7qnPdC7woARTgEUSZ__hNM/reviews/ChZDSUhNMG9nS0VJQ0FnSUMycDZ2RmFREAE
+    relativePublishTimeDescription: 3 years ago
+    rating: 2
+    text:
+      text: >-
+        The experience wasn’t terrible but I wouldn’t go back. When I pay a
+        certain amount for an omakase, I expect exceptional experience but my
+        experience was meh to mediocre. The sushi was small with thin slices,
+        minced cucumber placed on top of the fish didn’t pair well with some and
+        most importantly, some fish didn’t taste fresh. Now that I’m thinking
+        back on the details of my experience, I’m more disappointed. Oh, they
+        charge you for hot tap water.
+      languageCode: en
+    originalText:
+      text: >-
+        The experience wasn’t terrible but I wouldn’t go back. When I pay a
+        certain amount for an omakase, I expect exceptional experience but my
+        experience was meh to mediocre. The sushi was small with thin slices,
+        minced cucumber placed on top of the fish didn’t pair well with some and
+        most importantly, some fish didn’t taste fresh. Now that I’m thinking
+        back on the details of my experience, I’m more disappointed. Oh, they
+        charge you for hot tap water.
+      languageCode: en
+    authorAttribution:
+      displayName: Michelle Lee
+      uri: https://www.google.com/maps/contrib/117145954359564145394/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLtgq3mAWQRGlNPdOS9OGMSSsflE3ZU4DRjOW3JiTGCH0Vm5Q=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2022-04-29T21:46:47.896274Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUMycDZ2RmFREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUMycDZ2RmFREAE!2m1!1s0x80c2bbd03da7bac3:0xd384ff9f4914014e
+  - name: >-
+      places/ChIJw7qnPdC7woARTgEUSZ__hNM/reviews/ChZDSUhNMG9nS0VJQ0FnSURHOC0yY1RBEAE
+    relativePublishTimeDescription: 3 years ago
+    rating: 5
+    text:
+      text: >-
+        Excellent value and quality. It's a hidden gem on Westwood and requires
+        reservations. They serve the entire room at once and are very strict on
+        punctuality. It's so worth it though.
+      languageCode: en
+    originalText:
+      text: >-
+        Excellent value and quality. It's a hidden gem on Westwood and requires
+        reservations. They serve the entire room at once and are very strict on
+        punctuality. It's so worth it though.
+      languageCode: en
+    authorAttribution:
+      displayName: James Leung (jobias)
+      uri: https://www.google.com/maps/contrib/106101920759546399093/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjU8vBbF1nJoatEtzfjjFxRl1Wi-mQGFTXZtq64kU3KyCO6iGSjp=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2021-12-09T07:30:10.965566Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURHOC0yY1RBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURHOC0yY1RBEAE!2m1!1s0x80c2bbd03da7bac3:0xd384ff9f4914014e
+review_summary: >-
+  What Customers Are Saying About MASAKAZU$$$Folks generally enjoy the fresh
+  sushi and cozy vibe at this spot, with many highlighting the flavorful dishes
+  and solid value for an omakase meal. While some mention occasional
+  inconsistencies like slower service or smaller portions that didn't quite hit
+  the mark, others rave about standout items that make the experience memorable.
+  Overall, the mix of creative flavors and attentive staff keeps things positive
+  for sushi lovers dropping by. It's a go-to for anyone hunting for great
+  Japanese places near me, though a few diners suggest checking expectations to
+  ensure it aligns with their tastes. Despite the occasional hiccup, the
+  consensus is that it's worth trying for a satisfying night out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
-payment_options: null
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
+delivery: false
+dine_in: true
+good_for_children: false
 good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
 serves_breakfast: null
 serves_brunch: null
 serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
 serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_vegetarian_food: false
+serves_wine: true
+takeout: false
+update_category: atmosphere
+places_description: null
 
 ---

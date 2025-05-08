@@ -1,156 +1,154 @@
 ---
 layout: place
-title: "Sushi Kuchi"
+title: Sushi Kuchi
 permalink: /california/san-diego/sushi-kuchi.html
 stateAbbr: CA
 stateName: California
 cityName: San Diego
 seo:
-  name: "Sushi Kuchi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi Kuchi serves delicious sushi in San Diego, California. Try fresh Japanese dishes for a great dining experience. "
-place_id: ChIJAzBGu-7_24ARYJqSQB8Njqk
+place_id: ChIJc7nTRO0B3IARuFfogaT5WCQ
 photos:
   - name: >-
-      places/ChIJAzBGu-7_24ARYJqSQB8Njqk/photos/AeeoHcJ8MY0I88bCT3bFR0vwpg9EgoqXLMeuPWUh5pn83HYGSc9ZoPYNCbyteH77UsR6lk3AMC488xvHPo5XnQBmblASGD0b1ofkb6xCyLEUuF_0753Tdxhg_AgrWPd0FhEI4lovhCLmP0NVsJVstpwbYUU2Dno-7B2WwA3jlUPpJH-z9PdzYPZlXIg99ovs-q1YPcpqJkgwR9ICwVNpUZSPycJC7x-TMPOCtuxFgB_0irGsvmzkZNkkNWiEXd8HBGeEaAtBl6bpTl4GJF1GaF3Z_x7CuRtEYhlDh9Q473imSGRNyQ
-    widthPx: 2120
-    heightPx: 1191
+      places/ChIJc7nTRO0B3IARuFfogaT5WCQ/photos/AeeoHcJ6YGB5XentQ6R6UrGeKhYUUR6bjTTLAEp_8_oCPU5eXDE1aqblYTLx3Y9unGLJaJsbTDeNCkpzFedYb2RajNW4HbNxFczmb7s7kNrJQ1KuaLAA1U_Y-NPlTa6ESul3vvF174BCXW9gAQ1IiH7_0i8O50uQmoMjMOLfWJSyX6U-qZaZ9UNjcp46ckOkFbr38E_KMEYOgSB2kGlDY3_ChFLi2bHwU0b-niKbrBFms6MpeR5DEwjaHhpIxFiXoNCU-iFvhhTVPw5gJAcM8H4ICT3VbgFQ5nMKlPGUj0L6uSp-qnzQPeuBjx35BcgLQqF3a660S-Q5Q43vZ2U4snnx7uQX8FlrA98wNXmqQwd3EMSwTMQQBC8J6PG2JOulPUDHcipIB85g-rlgKktoXbtNGR50zQyhLNjZ-PFyDe2mLbI
+    widthPx: 1440
+    heightPx: 2560
     authorAttributions:
-      - displayName: Sushi Kuchi
-        uri: https://maps.google.com/maps/contrib/111933624890289307433
+      - displayName: Andrew Gilby
+        uri: https://maps.google.com/maps/contrib/105355006274162814404
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjXjHa2QAJJzZG9llg9tJ1mxErbNjF8H3-7abgwxlfSFBRu6rVMK=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjVk3TFw4WDi-lilKXVItmKa6ncQ1d6jY2y8pEo7yPUodDZ9r7OM=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMf7xr5281iBaD6OP0IqTtfKC7zkY0cj5rR8mGZ&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDE_PKuYw&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMf7xr5281iBaD6OP0IqTtfKC7zkY0cj5rR8mGZ!2e10!4m2!3m1!1s0x80dbffeebb463003:0xa98e0d1f40929a60
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDE_PKuYw!2e10!4m2!3m1!1s0x80dc01ed44d3b973:0x2458f9a481e857b8
   - name: >-
-      places/ChIJAzBGu-7_24ARYJqSQB8Njqk/photos/AeeoHcJctHmnY9I3QbGOePdHMYB0GcAv7NacKRTswR2yDO_L2bvhKX92_t5LZ8mFzbVZ7imVe_mYzwDdEo5cM3D_RBcFIT-yUCkqb82rpC1dwACqRQKz_omNa8xhkLQ6VOu1E-XjJ3eXG45QusMAEYWXx4j-yvQVpkWXZoRjHvC6J7MQE-g7A6r3LkXWe0FpBlMoB8pAhrLIWd5pfZMsggyV51-BaH0cXpqtnd807w8frKTtX3siSyZ65JWRQPQ1QnuORAZbxmZPb_o4v5geuS05F565Q2-ST5YJergYVLSVDeH-pg
-    widthPx: 1501
-    heightPx: 1498
+      places/ChIJc7nTRO0B3IARuFfogaT5WCQ/photos/AeeoHcJiUdEuiU_-j1t9LebRF1NR3lHJUrB8dIww_5ahyl6kw-7rZBXFZRa8fNhGuw6KxN2MBZbb-pAO4BhxEOUDjRIoriFMCZHgjsWrNEmB6PJNy5IQaSCjwP1mDZMNKo0UKLK7McqPnG89utITWylE5Fq7BaFsihY1cfmF6pOQ-4zs1bU8MarLBNJ4HR8u6Gyw7V3NAIWkASyz5NBFFvLTBBS0wsnqGpvzgI7CHhWUU2x514YfQdy8obawYQl54uWpZQQOy0SnZVZzCuOk0245NupU0FxuVYV_uCt1C6Kbl5Yh3wk8v1VroXhICsRIobk27iJddJpWqHNznJ97BwSVNTEyYFAqKyLAIPEair1N8UPsig_SxMnHq0tPpWgKSc6Nf9VLgZldLnCA8W2uAxI9D3zw0Acs_LiT8fyyo7efk_A
+    widthPx: 4800
+    heightPx: 3600
     authorAttributions:
-      - displayName: Sushi Kuchi
-        uri: https://maps.google.com/maps/contrib/111933624890289307433
+      - displayName: kailee cullen
+        uri: https://maps.google.com/maps/contrib/105895207820769875206
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjXjHa2QAJJzZG9llg9tJ1mxErbNjF8H3-7abgwxlfSFBRu6rVMK=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjX0fcl06Gg53pkRg4qioXk9FFQCEYXxK_kyb-4XGzBar-4x5yQ=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOip26GndR7Jko7A4ihlAA0P0yM2RywW6fxXGsg&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICbwKXHAQ&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOip26GndR7Jko7A4ihlAA0P0yM2RywW6fxXGsg!2e10!4m2!3m1!1s0x80dbffeebb463003:0xa98e0d1f40929a60
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICbwKXHAQ!2e10!4m2!3m1!1s0x80dc01ed44d3b973:0x2458f9a481e857b8
   - name: >-
-      places/ChIJAzBGu-7_24ARYJqSQB8Njqk/photos/AeeoHcJfT6u_XEQw9HgTVrzKH7eheRh_5_U8CeyOX5hhMuVUwCZqrRb7DeAZtX7PZ4K6lexGyO7EZHNUfzqz8tI2LWSfj22B8WLiZJMRVCye1d_Js-z6ekavbNyuqXoB_emVr5Fi2-0SSdyV2lOCUsAMr9GAcfzSBEHFIsWVU9gxcN_jefVjZcZVDvD5sUgf8B1t79-ARAtUphAbkA8SUKHWrp5t8TGxPmrOd9u1j_ioWpsKVCzIMnO6IGNE7bSvCLnsrAdUwTdiV75dscMHOnDlTyYo1loB0_L6tLbnpo7g2OENjbyIUcOO68ltNwRjQHSkW1ts6TT7FHS3onxukSvKB0NCMVIfUxZs_rgAQx_0rKGu0UTPJ0h_8_1bQLVSmqu3hHIR-O-X0PYxk8s0r61oMaEZJTjXM8MZ4Y6qpUGGcBANmw
-    widthPx: 3024
-    heightPx: 4032
+      places/ChIJc7nTRO0B3IARuFfogaT5WCQ/photos/AeeoHcJ2grb2RbyuB_zaKFqkZN35Y-kbl0BSMWmRQIvhV_nwVOv7wce1ypaT7Hgrohgnf0fnVVPRXYT51A-_-i9duWR4A6kQCaY4MVzhO63DIHWnRx3suCZxEapd3k-cokqE03k1ZU2VjklDsjWsY8Cj_IL2LQmBnu6emmmY0PXbQr-fonJmUgjn6nc5xGgjEpnECpQqUI-o8B2uK9jw-WOFdH24T2f9-RoOfQiVcMKsP7D8ESf9P6jAjMrVtLIlANIS9Vv_rPjwNSAebnjsKkRILGPizlBXlU4pqvb5Ld1-tRA6xk3U5tODkxRFQBOBPOQ8X-fcF9p4AIQRPXa0WuAhwpFP6S7o21VA15ctTrUX6ULjGHXx8RZVRR-zu-5F1va15efkpQINBfGfI5RCK7cuxpzfzyaLkd_-cz1T88xP_V-THEQU
+    widthPx: 4800
+    heightPx: 3600
     authorAttributions:
-      - displayName: Darryl Gordon
-        uri: https://maps.google.com/maps/contrib/101072735235641618252
+      - displayName: Emily Black
+        uri: https://maps.google.com/maps/contrib/113015005608400061716
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjW4q4EwcT91WgwBGtbPmT4aYWj9uE9NyGzyaP783BNietTaJ9BP=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjU_fx3Wr_LOpQDtPjDnDJCC8mk1_vMU7daahU96Mbr-tnHceQNm7g=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDq2O2PKw&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCQpPXk6gE&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDq2O2PKw!2e10!4m2!3m1!1s0x80dbffeebb463003:0xa98e0d1f40929a60
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCQpPXk6gE!2e10!4m2!3m1!1s0x80dc01ed44d3b973:0x2458f9a481e857b8
   - name: >-
-      places/ChIJAzBGu-7_24ARYJqSQB8Njqk/photos/AeeoHcJckLi7xsofMkhRqjwH6xuQyzv3YVY2f5xKGL08gKGlFOiYoIVpxATNg_whvbSx35AVOJdkWpKVRttzdrpm0-6yeVVyShJWnjmrV6V61BSAvyUWliLocFDo60jqkc06VjBn4n2MEYSNIQR0XesdBsfulOTvYdG1DNtPY5O0jsF_PYplZCMJf_eZYNjAPAew-_OLIckBTiDjVPB5fRKoVdwfTMMfBJlhEhLVIAyuhNPKUlgagoTtClrE9iQCoVxZ9e_ORu08S6-VPH0dG_j_H7J5X5e8CiPcYEauhI8zqgVbg1482zkTDYtRH6O46kIPigZa9xS9ZRMzjVhfbqMGgkBBhqPSWMDC2SlZVsKVPzneEtUBmFj5XMsc91zvgDSSDEbfx9ZW7ON5CYBeFcDVfJw9Ou3XhJP01cVFSqajbbYAbQ
-    widthPx: 3064
-    heightPx: 2231
+      places/ChIJc7nTRO0B3IARuFfogaT5WCQ/photos/AeeoHcITCzk5lZ2PRFcP-g-hvkdgdnxGvUYYUGoaj7mhK-KLDiOcULNQ6PQPG0WVuUyRBv496T_SUY2oGlykLBiYOnsRIwUDhCXXs3G2YZ57vm3T_oc_8tZF_uMU1G5ADx43Z4oWrvybLrbMmTJO0NysctlNKWyAsxBABlZGVycpJCW7WRPDcZZqRs0AQ3VpFU79xDPziKB--M3KjUsVq7w3ZLbx7Lb-zDwRnv6o34T7N5aE1ZAC5UPQ7UsiMAK8YBc-4xvfsro37zwapZcCpZkXgmDncfQo6ADHdEjcowTZ9wRjwdGqaSX-XvR1D2lyNJLSj3ioQ_egi6TNhOi0lENKfyzXw6H-Sb48YhNA_d1luZXW52S_4Zhc7K-RKoNNWvNS4CwipL63ZB40VMy_wCkW9R82jWQkJtB8o6rlX2-P04ctGQ
+    widthPx: 4000
+    heightPx: 3000
     authorAttributions:
-      - displayName: Mullen Teodoro
-        uri: https://maps.google.com/maps/contrib/101773021802410002577
+      - displayName: Vladimir Keptene
+        uri: https://maps.google.com/maps/contrib/114732193084831539111
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjXnpfwVnPcAaXFbyzxFJ44CWMHpV-zAWBppnc6UP3VQp3EeiYhF=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjVgWGXCFk2Xe_UJCvNsy-VVHptf7ZL-L6S9YY8OFG3mEd7Xcp2W=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICnxcPYPw&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID_wp-bZg&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICnxcPYPw!2e10!4m2!3m1!1s0x80dbffeebb463003:0xa98e0d1f40929a60
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID_wp-bZg!2e10!4m2!3m1!1s0x80dc01ed44d3b973:0x2458f9a481e857b8
   - name: >-
-      places/ChIJAzBGu-7_24ARYJqSQB8Njqk/photos/AeeoHcJZfE9gdCC1Aahl8R1lBHjmrc9LoXsSJsuFIo0rcXdNl1cuvvZ3Q0blgGU6h_Wxb2KdAlgzp0uLqDBfD5ApGzwq-4VB73xwIB_MuURkcjypFH6whxA8qIPCNKziOO0G3Ui9-FUplvQxIgBTvqP7xcB9DcKpVC1j5HyS2WhKojPWMC7_eAoJDcte0Ro8aJix-uG2TNaBWM2-MpzR7dKSdETjGoIqApfPluebGkBVPJ4uAE1u5iOK-ttotYUKOh-hmbf7nOb0zIkhCXu1aiA_SulSBvq8BrsQ9mQT3h5IrPHy9w
-    widthPx: 1123
-    heightPx: 1119
+      places/ChIJc7nTRO0B3IARuFfogaT5WCQ/photos/AeeoHcK4YNzhgepWvs0apr4bT96GKvKfwVc-j4wVeNrU88wHBbkle0GG7hpidJG8E9LMpEENBa-nIPmhhGYdCng3vBWIqxe5DgPZahJK9cYYqZ2ENqIyegH7nT9Ns5EGcM3llTaDEsMTAv-P7WgTuVeKf7jU83-pJxGkdkK5uvN1fix34SXpjAxl0fX5Yvd0YitYSZN0YpOuz8ePkM7AkEuclYTQPc2EQZyUH4Qz6t3l9AKpruYL7PgeecONiN59Becvh6r_7p3JsMDD_22QfqGM_eRxSjnwhLB0gKX0c2H-kIp9ivGSG5eSmNEcpvDA4bvNyyfNczu0l_2Bxp2klnJhr4aeqnGHIDRarydR6aFFFkg3yDMfajgjfriuxvXysMKmWdkWswuCkWvvubyg9tnIjGPHG8eJCzv5dNjDuyiTsspxKpA
+    widthPx: 3600
+    heightPx: 4800
     authorAttributions:
-      - displayName: Sushi Kuchi
-        uri: https://maps.google.com/maps/contrib/111933624890289307433
+      - displayName: kailee cullen
+        uri: https://maps.google.com/maps/contrib/105895207820769875206
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjXjHa2QAJJzZG9llg9tJ1mxErbNjF8H3-7abgwxlfSFBRu6rVMK=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjX0fcl06Gg53pkRg4qioXk9FFQCEYXxK_kyb-4XGzBar-4x5yQ=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipO1rQoBTe22-ktgYTvRgLJAtwxfL2dWfTuVzOV9&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICbwKXH_gE&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipO1rQoBTe22-ktgYTvRgLJAtwxfL2dWfTuVzOV9!2e10!4m2!3m1!1s0x80dbffeebb463003:0xa98e0d1f40929a60
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICbwKXH_gE!2e10!4m2!3m1!1s0x80dc01ed44d3b973:0x2458f9a481e857b8
   - name: >-
-      places/ChIJAzBGu-7_24ARYJqSQB8Njqk/photos/AeeoHcKjpxepEWjoPtOr52UR4Q682Tu4Iemz9DoOGtex7TmwfWqIVJtLazwph3b97ilGxEUxfTA5Om19qlTISEkV2a_AYZ2BOwsNoOGdONY0px0-1T4A5UlwxsIsU0IqZqFe7lDgCzTn_sUSk8jhJzZp9a1AYDyOMl2ZJTrqBw7GdChxBxbGEkget3T7u08Dw-DxGJcqawD1oNwjNY4QV4hlLClGz7oqjB1Mz7LZiPOeLSL4K7Z-a9_bN-iymkKVUcSETukueeEND1Qc_DplV_IptQdQgtZw14j1F8XpSKDAlyt7_HuxgOP8RbiZOrJ_aUs9rHWxYZ3aG_rsCk46mxBXj0th35pLmVE_VshC89EVEXS3cYr6VspWQUB68udIEu9xP5uCuhibnEvLnnuThZiBXrF-osvDVZ2KJg041NJPlhab2A
-    widthPx: 3024
-    heightPx: 4032
+      places/ChIJc7nTRO0B3IARuFfogaT5WCQ/photos/AeeoHcLjQB50GYHjp-prC8hPZILAIqG9lRv9k7vdLFXVhpjf8SzoEAVNdiT_0MSKUgRC3WBki0abmIbM-DcGFXdfdBirV37h3dA9pLNXd3F19DUhWM2ixrJc7486H91No5MkSUQrX9KXsOTwdsjY2IJ56bBt6kyjAsNVH20_jp-5GH2smFGmmVHruimC7J192wBo8MOtK4W0UVpZH-e5V7mfIVhhSlfhYMyXhGXIWW-V4YGvJLSS6NxfWLTCnD7EcBovgAES1S-13dS3B1twrGihR-wMcKbTSM07si3n2CDL5-3T1GdY5bg8IoFUBadko4cdQqx9PdGbkkXD0eGt8LBtEFNssHsO2FWHiR4iRkxtiA8dsIC2-eAjzjwhfouc6VuS9HSTvxNvXcJQxzkmo2E8gqXS9VhcOKicDokhn3Dq7mMYWeWD
+    widthPx: 4032
+    heightPx: 3024
     authorAttributions:
-      - displayName: Diana Malsahova
-        uri: https://maps.google.com/maps/contrib/110703384782274018337
+      - displayName: Andy
+        uri: https://maps.google.com/maps/contrib/105754282811197564854
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjWYpU8XTYjhMn6zQyXakKLNhgd7O2po5k9qddc9mvl4f7ti1RVG=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a/ACg8ocJBPJi_xdVnZ7F1GYUNoJkbobBKyCjg-LLIqFHQ8SGt9rKXUoQ=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICn3LGXBw&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDL2tvhkgE&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICn3LGXBw!2e10!4m2!3m1!1s0x80dbffeebb463003:0xa98e0d1f40929a60
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDL2tvhkgE!2e10!4m2!3m1!1s0x80dc01ed44d3b973:0x2458f9a481e857b8
   - name: >-
-      places/ChIJAzBGu-7_24ARYJqSQB8Njqk/photos/AeeoHcI1bAfm03LwLenAyPjtBlkREBInFrBSzroYK876xdTn5ztwCnwFMfpI5NjerYk0ogqynE6U1W1dHiIvauW8b9ZwNtmv6R7nHf_1JqrxKrNYXHpqZ2HjUvZ6Gc5kSxH3M-fLa32dVerCEsnwlZ2zMfjADzXqdB104QFYM8rU-CXs20hEBaFREh2K999H2ALj7qLXfnYKeXZuplZqq2KBJuRTdawbIZbf7uHZ6wi5B0ALsEFug5DqxOaNRVDjXVeGmAg-NcgJuHau59Oqp0HO683l319VM-ORAGpIyg6YHujVgA
-    widthPx: 1123
-    heightPx: 1119
+      places/ChIJc7nTRO0B3IARuFfogaT5WCQ/photos/AeeoHcIeNiMz1c9nu8ydvxzU9Yzg1lkRz480yzqHo37M6KRyon7PJoJiUbvo5WJ3-9su31se2orV-vGS8ZggEMRYgLpDzDnGEfGkZWhJWIMnf81Cr815jCZvsW3fvT17XfRtcqstsLWueqweyOZHH8cvoSgMlLff4NUvaf5cGuzTZplllrUGmyUqsATWwTpbs18pcSqJ6abkHgGsGQQut9B_1Pv70qD6_DNJaj2oKVH3aLBMzFh_da06xCPxppneZEF8iSkpKQzs11KdsUPKCh20AUR3IwI4g9rlKiyXWqmMa1zMUkEueUp9J8Kw2jq_SJSqDpMW_n1tGeNFdLWGwuRn7xLhxwCsmcFYWAvAwa4a7xeGXPm1LTcU-XsEmShRpusl-tfgbdMHhpnrgrbNx-VyK6wFIxgEVZzTCoiLgIf-p411JnFIvakUDzk4YnQllzIP
+    widthPx: 4000
+    heightPx: 3000
     authorAttributions:
-      - displayName: Sushi Kuchi
-        uri: https://maps.google.com/maps/contrib/111933624890289307433
+      - displayName: kristi elliott
+        uri: https://maps.google.com/maps/contrib/115979403625493570391
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjXjHa2QAJJzZG9llg9tJ1mxErbNjF8H3-7abgwxlfSFBRu6rVMK=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjXj-NE-oKfgNDrtQAGjjUCIvlRbyndZaX_zZ2q9zAQEZXP9D3_RGw=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOw9PgOAxuln1n5vv6xCUQQX_Qs6VzqKXyxKh4o&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIABIhADyc5UDSjx32e-LlIAB9q7&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOw9PgOAxuln1n5vv6xCUQQX_Qs6VzqKXyxKh4o!2e10!4m2!3m1!1s0x80dbffeebb463003:0xa98e0d1f40929a60
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADyc5UDSjx32e-LlIAB9q7!2e10!4m2!3m1!1s0x80dc01ed44d3b973:0x2458f9a481e857b8
   - name: >-
-      places/ChIJAzBGu-7_24ARYJqSQB8Njqk/photos/AeeoHcJBs1-LjbgsDToS8OrMwSb6_DppszJISlyvdxhGaulEhlcP3at8RYNnxWQVDnml6-aqlcU64PL4s-xB_wnKwtbqlE1G5CzSWqxBRrI18rdmG9KSokIzXmbd6ioHr2JRcJqOvMnL4M7RDHadiC88dB07fCY4PulUy8Lxe61JIv_3RL4HrN_Zentz_h6mT-vdkC4WIX1GFGRoCzfFgwVLyaj4uXJQNqQ_WE20Ti-hhX8OkGnCR-eUpiQMEfN7gpYvHPN0b2Y0jUE4kXSkvG9x1Kw_NeFXHkgnT0NcjmIkGCotu-u2l_hd5KnCz6PCQa7BIktsXQt8sZvo9If2wxmn5z_NeKFIQuaMHtFT-UZbrgfAUPsyMcpqBx7qg3eCufOLa63a6rT8_rSim8BJjKsJBaVU7hB59vJU0HbJdo0rKOtT-ZqI
-    widthPx: 3024
-    heightPx: 4032
+      places/ChIJc7nTRO0B3IARuFfogaT5WCQ/photos/AeeoHcLX6YbPy5-GPposEAnvtFR2o_GTzxgjSbz2gRvx0g7WGCbxXWk2beI5SLgrN8G5rdhyOHdBbIzlk8yk-CriTjuG_Ys1vAhJwpNzcLDiokq6URh5e3uhYsnhk5ONdbuOaSpFSWMZRvd1JXBY3ni8LAf46is6Taw1-cxe7WRXH6mkUdFrSI4bVw8ejIwl9Eq2tl6xo6-h51tqEq-9PEyc43Bks322WiEYwTh99jIYZM8STmvLH-kAVmuIeP9LyW7eXpAtKaHqTo8LGnIDYZOUdIzxnktGOD9OD20uCehdeMWa8fS040XA5I-FNC34DdeGmn83xx-PTJKAmH0FPtdSYNINLUCAZHsrn3qNuQyQcRs2THLCKybuZSiAEJRNF6F25jeWP7SjPjsv35FSz4jIeHizP_GivkybaxSHROpRmfAgtQ
+    widthPx: 4032
+    heightPx: 3024
     authorAttributions:
-      - displayName: Paia
-        uri: https://maps.google.com/maps/contrib/104721815587812845332
+      - displayName: Andy
+        uri: https://maps.google.com/maps/contrib/105754282811197564854
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjWb6Eh2OS3Ks45BtfZFtbEzPOuyH1IgwSJgaV3xazSnb5QyGM4=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a/ACg8ocJBPJi_xdVnZ7F1GYUNoJkbobBKyCjg-LLIqFHQ8SGt9rKXUoQ=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICRkrvktgE&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDL2tvhEg&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICRkrvktgE!2e10!4m2!3m1!1s0x80dbffeebb463003:0xa98e0d1f40929a60
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDL2tvhEg!2e10!4m2!3m1!1s0x80dc01ed44d3b973:0x2458f9a481e857b8
   - name: >-
-      places/ChIJAzBGu-7_24ARYJqSQB8Njqk/photos/AeeoHcIXrJHm2RcR2ND4dJI5UiYnrKDdHqf2hVQUc-jTzRIVxFqEZj68qULB88sTiXl_q1m7LrIuNhJ2aQqpDJZlyP1X1OxywECRv-3i99Oh_ph17kZdlbJnnOI1G9MJXG-gIgQ-0oeNYxFEr42hy_lVVvKvnhvmYVBbpN9R1X9gMjpnoQTpYWPt46nnOtO3Su2Kv5E9JgKxXh9LCIpUDCafkxXLEZBIK8bevJWMwIJW-GeASYyYwN-qRrdZHfY1pRCU5DNuIxx5l4XEdIuRnyOEVOqZB15XVwmZAtMOPllVDAdp3ibjtPR3Urbtwsd2vuNhtggupk-d76bSymEmOwxz06iYim2DHKQ9Luj1DUSpQ0hXwQMPhktg6qaYgAPVE2vu74HczYBv0PxO62xA1cxF5UWtZM0WPdivYJBnkDyguhy7D9Xm
-    widthPx: 3024
-    heightPx: 4032
+      places/ChIJc7nTRO0B3IARuFfogaT5WCQ/photos/AeeoHcKACkH2QPmQuEpf9v7PpAJFm9hF5nq159SocBS5_8BZIGppXGa4vd_89QcjPsP-f_BAVhA5ly9x3IeZz1bcxLR52am0JLOOYbHd7OOopfSrcadfVfQVv5ri-fcxtZWgjoGqRycz5a0wi11Dve1PuNJHMpKqcKaX17Zm8lSFO991EAE5NTHCwEestdwDbVnq-hZruYbUrSWuxil5oT-sORZDwU8gxb-_4_N8c4-1lTSMmjKKJzFwWTYwHOJo1_UGeZbEx80STyiGH4cWuO53IqS9-KWUn_-PyFisDO74QG2jFRUAtt5tN7wfK5itKvtynLYNgu_WYmfsT18m5VWNZNbqYrI2e5JLw3IcL0RFRep3w1ja5FcRMjJ40OFmxTz4l8vSQbvBdT4TEF-sKwaLwIUd3lozkppy-rdWfwmd_bWc7BqI
+    widthPx: 4032
+    heightPx: 3024
     authorAttributions:
-      - displayName: Darryl Gordon
-        uri: https://maps.google.com/maps/contrib/101072735235641618252
+      - displayName: Andy
+        uri: https://maps.google.com/maps/contrib/105754282811197564854
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjW4q4EwcT91WgwBGtbPmT4aYWj9uE9NyGzyaP783BNietTaJ9BP=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a/ACg8ocJBPJi_xdVnZ7F1GYUNoJkbobBKyCjg-LLIqFHQ8SGt9rKXUoQ=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDq2O2PuwE&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDL2tvhogE&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDq2O2PuwE!2e10!4m2!3m1!1s0x80dbffeebb463003:0xa98e0d1f40929a60
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDL2tvhogE!2e10!4m2!3m1!1s0x80dc01ed44d3b973:0x2458f9a481e857b8
   - name: >-
-      places/ChIJAzBGu-7_24ARYJqSQB8Njqk/photos/AeeoHcK2jsDT1REj2RgLKZfCTdPYT-lYnFD5OjP08QQc6JLjIIm12n3FJqTmewt45cyCAaJOrGLGYFHlCmckNJVDhQO88zSO7CpAAfoUh0CZb8BJCmuLC8b4qtjZs87qo4RMB7OzvYL8UeXwHZY_Dp00QX7SYEWTMZSDryMkp5vZS6azeLws4DJOpvFjLINvZK2BJGudwtjorel4Feyk5eNfAI3BuDgjbOusVvGEqwI9eFkdRXMb5A0HxeZd9ApOcWv9NHSl2nweQBHK1w_haNKD8cdEp-h1SO4qdIWVFGGjDoG94ruDa4y1imX4Gbhl0L8g8zBqYGDnY14GLPlf3epFZlfG3hfboGX-BJtKev7BGuuEJEVGVi2VnRRasisXZ1A4ooYmToFb1omJCxiiQVRNAK3VUex6_i2s0VPZge6ypXThY4U0
-    widthPx: 1848
-    heightPx: 4000
+      places/ChIJc7nTRO0B3IARuFfogaT5WCQ/photos/AeeoHcIRZHqzs8JJQ1_Pdw9kvzRsigVGI6YgrJuY1FeY75VaqimBHw7IuZfrtOmPxAQ-PRhcHgvbsXGwQy09qnM4Jgq0sY3_qGHxur7Dlt5-AFD9DBEIQX4v8ZticEGDOyr8Plc5socJiLoRG4-5qKTyVT3Oga-i8XYUBy6qCMWAsHmAC35KrFI8YVXWsLzs8yeegtafkUkkDGBMVpylicDLSn2oADqaf6j0CfDJa2UVS-QQ66lCV6LX2bUPKhekxXKXNtgnwQ9YExrHYMhlvgqJweHbJFFcCEu1YQ6nVzCQahESZhCtH8Esomm0c_n7k1JfYNVF7JG9HrGvxf-vwFNmoyqZik_tq6ib3n00pdE91mEnIFLqRWf2kAfth9w9PfKbAncU9drng8H2W-NuRHa_2nV30TKGfF3AVZko8V3X4hp6pUuS
+    widthPx: 4032
+    heightPx: 3024
     authorAttributions:
-      - displayName: Yusuf Erel
-        uri: https://maps.google.com/maps/contrib/115930324494072557586
+      - displayName: Andy
+        uri: https://maps.google.com/maps/contrib/105754282811197564854
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjU1299Jcb_QwAQd-O1rgW7I3CWnoFYRuK5f5y8sghmgIc1Dee4=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a/ACg8ocJBPJi_xdVnZ7F1GYUNoJkbobBKyCjg-LLIqFHQ8SGt9rKXUoQ=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICHuNuy9wE&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDL2tvhggE&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICHuNuy9wE!2e10!4m2!3m1!1s0x80dbffeebb463003:0xa98e0d1f40929a60
-address: 4637 Convoy St Ste 104, San Diego, CA 92111, USA
-street: 4637 Convoy St Ste 104
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDL2tvhggE!2e10!4m2!3m1!1s0x80dc01ed44d3b973:0x2458f9a481e857b8
+address: 4475 Mission Blvd, San Diego, CA 92109, USA
+street: 4475 Mission Blvd
 city: San Diego
 state: CA
-zip: '92111'
+zip: '92109'
 country: USA
-neighborhood: Kearny Mesa
-latitude: '32.824999'
-longitude: '-117.154278'
+neighborhood: Pacific Beach
+latitude: '32.796572'
+longitude: '-117.254879'
 accessibility_options:
   wheelchairAccessibleParking: true
   wheelchairAccessibleEntrance: true
@@ -160,32 +158,59 @@ business_status: OPERATIONAL
 name: Sushi Kuchi
 google_maps_links:
   directionsUri: >-
-    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x80dbffeebb463003:0xa98e0d1f40929a60!3e0
-  placeUri: https://maps.google.com/?cid=12217717266981231200
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x80dc01ed44d3b973:0x2458f9a481e857b8!3e0
+  placeUri: https://maps.google.com/?cid=2619117668265383864
   writeAReviewUri: >-
-    https://www.google.com/maps/place//data=!4m3!3m2!1s0x80dbffeebb463003:0xa98e0d1f40929a60!12e1
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x80dc01ed44d3b973:0x2458f9a481e857b8!12e1
   reviewsUri: >-
-    https://www.google.com/maps/place//data=!4m4!3m3!1s0x80dbffeebb463003:0xa98e0d1f40929a60!9m1!1b1
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x80dc01ed44d3b973:0x2458f9a481e857b8!9m1!1b1
   photosUri: >-
-    https://www.google.com/maps/place//data=!4m3!3m2!1s0x80dbffeebb463003:0xa98e0d1f40929a60!10e5
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x80dc01ed44d3b973:0x2458f9a481e857b8!10e5
 primary_type: Sushi Restaurant
-opening_hours:
-  regular: null
-  current: null
-secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+opening_hours: null
+secondary_opening_hours: null
 phone: null
 price_level: null
 price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Explore Sushi Kuchi in San Diego, CA$$$Sushi Kuchi in San Diego, CA, stands
+  out as a relaxed destination for enjoying fresh Japanese cuisine in a
+  welcoming atmosphere. This spot specializes in a variety of sushi rolls and
+  other traditional dishes, complemented by selections of beer and sake that
+  enhance the dining experience. With its convenient location in the vibrant
+  Pacific Beach neighborhood, it's an ideal choice for those seeking top-rated
+  sushi options near the coast. The restaurant also prioritizes accessibility,
+  making it easy for everyone to savor its flavorful offerings. Whether you're
+  looking for sushi places close to home or a casual meal with friends, Sushi
+  Kuchi delivers a satisfying blend of quality and simplicity.
+generative_summary: >-
+  Explore Sushi Kuchi in San Diego, CA$$$Sushi Kuchi in San Diego, CA, stands
+  out as a relaxed destination for enjoying fresh Japanese cuisine in a
+  welcoming atmosphere. This spot specializes in a variety of sushi rolls and
+  other traditional dishes, complemented by selections of beer and sake that
+  enhance the dining experience. With its convenient location in the vibrant
+  Pacific Beach neighborhood, it's an ideal choice for those seeking top-rated
+  sushi options near the coast. The restaurant also prioritizes accessibility,
+  making it easy for everyone to savor its flavorful offerings. Whether you're
+  looking for sushi places close to home or a casual meal with friends, Sushi
+  Kuchi delivers a satisfying blend of quality and simplicity.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Feedback on the Dining Experience$$$Folks who visit spots like this often
+  appreciate the fresh flavors and straightforward vibe that make for a
+  enjoyable meal without any fuss. Many comments highlight the tasty sushi rolls
+  and well-paired drinks, noting how they hit the spot for a laid-back night
+  out. While some mention it's a solid pick for quick bites or groups, others
+  point out that the overall experience feels reliable and unpretentious,
+  especially in a busy area. Overall, it's clear that diners value the
+  approachable setting and consistent quality, making it a go-to for anyone
+  craving Japanese-inspired eats. If you're hunting for sushi restaurants
+  nearby, this one tends to leave people feeling content with their choice.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +236,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

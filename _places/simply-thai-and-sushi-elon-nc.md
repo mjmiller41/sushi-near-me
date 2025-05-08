@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Simply Thai and Sushi"
+title: Simply Thai and Sushi
 permalink: /north-carolina/elon/simply-thai-and-sushi.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Elon
 seo:
-  name: "Simply Thai and Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.mysimplythai.com/
-description: "Simply Thai and Sushi serves delicious sushi in Elon, North Carolina. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ310ezgEpU4gRnjmZO2w138E
 photos:
   - name: >-
@@ -170,7 +168,97 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x88532901ce1e5ddf:0xc1df356c3b99399e!10e5
 primary_type: Thai Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 15
+        minute: 0
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 30
+    - open:
+        day: 1
+        hour: 16
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 16
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 4:00 – 9:00 PM'
     - 'Tuesday: 4:00 – 9:00 PM'
     - 'Wednesday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM'
@@ -178,14 +266,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 3:00 PM, 5:00 – 9:30 PM'
     - 'Saturday: 4:00 – 9:30 PM'
     - 'Sunday: 11:00 AM – 3:00 PM, 5:00 – 8:30 PM'
-  current:
-    - 'Monday: 4:00 – 9:00 PM'
-    - 'Tuesday: 4:00 – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM'
-    - 'Thursday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM'
-    - 'Friday: 11:00 AM – 3:00 PM, 5:00 – 9:30 PM'
-    - 'Saturday: 4:00 – 9:30 PM'
-    - 'Sunday: 11:00 AM – 3:00 PM, 5:00 – 8:30 PM'
+  nextCloseTime: '2025-05-04T01:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +278,49 @@ phone: (336) 584-3838
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.4'
-rating_count: 0
+rating_count: 543
 website: http://www.mysimplythai.com/
+description: >-
+  Experience Simply Thai and Sushi in Elon, NC$$$Simply Thai and Sushi in Elon,
+  NC, delivers a delightful blend of authentic Thai flavors and fresh sushi
+  options, making it a go-to spot for those craving Asian-inspired cuisine. The
+  restaurant features an inviting atmosphere that's both upscale and relaxed,
+  complemented by a selection of beverages including beer, wine, and cocktails
+  to enhance your meal. Diners can enjoy a variety of dishes that highlight
+  fresh ingredients and creative presentations, perfect for anyone exploring
+  sushi restaurants in the area. With accessibility features like
+  wheelchair-friendly entrances and seating, it's designed to welcome everyone
+  for a comfortable dining experience. Whether you're searching for top-rated
+  sushi near you or simply a casual place to savor Thai favorites, this spot
+  stands out for its thoughtful menu and welcoming vibe.
+generative_summary: >-
+  Experience Simply Thai and Sushi in Elon, NC$$$Simply Thai and Sushi in Elon,
+  NC, delivers a delightful blend of authentic Thai flavors and fresh sushi
+  options, making it a go-to spot for those craving Asian-inspired cuisine. The
+  restaurant features an inviting atmosphere that's both upscale and relaxed,
+  complemented by a selection of beverages including beer, wine, and cocktails
+  to enhance your meal. Diners can enjoy a variety of dishes that highlight
+  fresh ingredients and creative presentations, perfect for anyone exploring
+  sushi restaurants in the area. With accessibility features like
+  wheelchair-friendly entrances and seating, it's designed to welcome everyone
+  for a comfortable dining experience. Whether you're searching for top-rated
+  sushi near you or simply a casual place to savor Thai favorites, this spot
+  stands out for its thoughtful menu and welcoming vibe.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Visitor Feedback Highlights$$$Feedback from patrons at this sushi spot in Elon
+  paints a generally positive picture, with many praising the flavorful dishes
+  and attentive service that make for a satisfying visit. People often highlight
+  the fresh sushi rolls and Thai entrees as standout items, noting how they
+  balance taste and quality without overwhelming the palate. While some mention
+  occasional waits during peak times, the overall consensus appreciates the
+  value for the price, especially for groups or families looking for reliable
+  options. The high rating reflects enjoyment of the casual yet refined setting,
+  encouraging repeat visits for those seeking the best sushi experiences nearby.
+  All in all, it's a solid choice if you're in the mood for tasty, well-prepared
+  meals that keep things light and enjoyable.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +346,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

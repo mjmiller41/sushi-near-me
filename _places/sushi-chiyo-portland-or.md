@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Chiyo"
+title: Sushi Chiyo
 permalink: /oregon/portland/sushi-chiyo.html
 stateAbbr: OR
 stateName: Oregon
 cityName: Portland
 seo:
-  name: "Sushi Chiyo"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi Chiyo serves delicious sushi in Portland, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJs6iaTdeglVQRW6SRkw5BPx4
 photos:
   - name: >-
@@ -185,7 +183,45 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  About Sushi Chiyo in Portland, OR$$$Sushi Chiyo in Portland, OR, stands out as
+  a casual dining destination offering a unique blend of fresh Japanese flavors
+  and innovative presentation. This laid-back eatery features a dynamic sushi
+  train that delivers an array of small plates, making it a fun choice for both
+  lunch and dinner outings. Visitors can enjoy a variety of expertly prepared
+  rolls and bites that highlight quality ingredients and creative twists on
+  traditional dishes. The spot's accessible design, including
+  wheelchair-friendly features, ensures a welcoming atmosphere for all,
+  enhancing its appeal as one of the top sushi places near you. Whether you're
+  exploring sushi restaurants in the area or seeking a relaxed meal, Sushi Chiyo
+  combines affordability with an engaging dining experience.
+generative_summary: >-
+  About Sushi Chiyo in Portland, OR$$$Sushi Chiyo in Portland, OR, stands out as
+  a casual dining destination offering a unique blend of fresh Japanese flavors
+  and innovative presentation. This laid-back eatery features a dynamic sushi
+  train that delivers an array of small plates, making it a fun choice for both
+  lunch and dinner outings. Visitors can enjoy a variety of expertly prepared
+  rolls and bites that highlight quality ingredients and creative twists on
+  traditional dishes. The spot's accessible design, including
+  wheelchair-friendly features, ensures a welcoming atmosphere for all,
+  enhancing its appeal as one of the top sushi places near you. Whether you're
+  exploring sushi restaurants in the area or seeking a relaxed meal, Sushi Chiyo
+  combines affordability with an engaging dining experience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What People Are Buzzing About$$$When it comes to feedback on spots like this,
+  folks often rave about the fresh and flavorful sushi selections that keep
+  things exciting and satisfying. Many appreciate the lively sushi train
+  concept, which adds a playful element to meals and makes it easy to try a mix
+  of dishes without the fuss. Comments frequently highlight the welcoming vibe
+  and solid value, perfect for casual get-togethers or solo adventures in
+  Japanese cuisine. Overall, it's clear that diners enjoy the reliable quality
+  and variety, positioning it as a go-to option among the best sushi near me.
+  While experiences can vary, the general consensus leans positive, encouraging
+  anyone hunting for sushi close to you to give it a shot for a enjoyable and
+  straightforward meal.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +247,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

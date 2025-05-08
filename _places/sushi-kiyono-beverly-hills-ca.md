@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Kiyono"
+title: Sushi Kiyono
 permalink: /california/beverly-hills/sushi-kiyono.html
 stateAbbr: CA
 stateName: California
 cityName: Beverly Hills
 seo:
-  name: "Sushi Kiyono"
-  type: Restaurant
-  links: null
-description: "Sushi Kiyono serves delicious sushi in Beverly Hills, California. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.sushikiyono.com/
 place_id: ChIJf7Fsj_u7woARm1XWYSccf4k
 photos:
   - name: >-
@@ -170,8 +168,89 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c2bbfb8f6cb17f:0x897f1c2761d6559b!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: false
+  periods:
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 17
+        minute: 30
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 17
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 17
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: Closed'
+    - 'Tuesday: 11:30 AM – 2:30 PM, 5:30 – 10:00 PM'
+    - 'Wednesday: 11:30 AM – 2:30 PM, 5:30 – 10:00 PM'
+    - 'Thursday: 11:30 AM – 2:30 PM, 5:30 – 10:00 PM'
+    - 'Friday: 11:30 AM – 2:30 PM, 5:30 – 10:00 PM'
+    - 'Saturday: 5:30 – 10:00 PM'
+    - 'Sunday: Closed'
+  nextOpenTime: '2025-05-04T00:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +258,55 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
+phone: (310) 205-3741
+price_level: PRICE_LEVEL_MODERATE
 price_range: null
-rating: null
-rating_count: 0
-website: null
+rating: '4.6'
+rating_count: 194
+website: http://www.sushikiyono.com/
+description: >-
+  Discover Sushi Kiyono in Beverly Hills$$$Sushi Kiyono in Beverly Hills, CA,
+  stands out as a welcoming spot for enjoying fresh Japanese cuisine, featuring
+  a relaxed vibe and a selection of expertly crafted sushi rolls that highlight
+  the area's top-rated dining options. This casual eatery combines traditional
+  flavors with a bar offering a variety of drinks, making it an ideal choice for
+  those seeking sushi restaurants near me that blend authenticity with modern
+  appeal. Patrons appreciate the accessible atmosphere, complete with thoughtful
+  touches like wheelchair-friendly entrances, ensuring a comfortable experience
+  for all. The menu extends beyond sushi to include other Japanese specialties,
+  paired with beverages that enhance the overall meal. Whether you're exploring
+  local Japanese places near me, this spot delivers a satisfying blend of
+  quality ingredients and attentive service.
+generative_summary: >-
+  Discover Sushi Kiyono in Beverly Hills$$$Sushi Kiyono in Beverly Hills, CA,
+  stands out as a welcoming spot for enjoying fresh Japanese cuisine, featuring
+  a relaxed vibe and a selection of expertly crafted sushi rolls that highlight
+  the area's top-rated dining options. This casual eatery combines traditional
+  flavors with a bar offering a variety of drinks, making it an ideal choice for
+  those seeking sushi restaurants near me that blend authenticity with modern
+  appeal. Patrons appreciate the accessible atmosphere, complete with thoughtful
+  touches like wheelchair-friendly entrances, ensuring a comfortable experience
+  for all. The menu extends beyond sushi to include other Japanese specialties,
+  paired with beverages that enhance the overall meal. Whether you're exploring
+  local Japanese places near me, this spot delivers a satisfying blend of
+  quality ingredients and attentive service.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What People Are Saying About This Sushi Favorite$$$Visitors to this popular
+  sushi spot often rave about the fresh, flavorful dishes that make it a go-to
+  for anyone craving reliable Japanese fare in the area. Many highlight the
+  consistently high-quality rolls and attentive service that contribute to its
+  strong reputation among sushi enthusiasts, with feedback pointing to a
+  welcoming environment that keeps diners coming back. While some note that wait
+  times can vary during peak hours, the overall experience is frequently
+  described as enjoyable and worth the visit, especially for groups looking for
+  a casual night out. The solid rating reflects praise for the variety of
+  options that cater to different tastes, making it a solid pick for those
+  searching for the best sushi near me. All in all, it's clear that this place
+  hits the mark for authentic flavors and a relaxed setting, encouraging a
+  positive vibe for repeat trips.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +332,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Oyama"
+title: Oyama
 permalink: /iowa/iowa-city/oyama.html
 stateAbbr: IA
 stateName: Iowa
 cityName: Iowa City
 seo:
-  name: "Oyama"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Oyama serves delicious sushi in Iowa City, Iowa. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJgxgpNW5q5IcRujUJ_l-7b4k
 photos:
   - name: >-
@@ -185,7 +183,38 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Oyama in Iowa City$$$Oyama in Iowa City, IA, is a laid-back Japanese
+  restaurant celebrated for its fresh sushi rolls and flavorful traditional
+  dishes like teriyaki and tempura. This spot offers a welcoming atmosphere
+  where diners can savor authentic tastes in a casual setting, making it ideal
+  for everyday meals or quick getaways. With thoughtful accessibility features
+  such as wheelchair-friendly entrances and seating, it ensures everyone can
+  enjoy the experience comfortably. For those searching for top-rated sushi
+  options nearby, Oyama delivers a satisfying blend of quality ingredients and
+  simple elegance that keeps locals coming back.
+generative_summary: >-
+  Discover Oyama in Iowa City$$$Oyama in Iowa City, IA, is a laid-back Japanese
+  restaurant celebrated for its fresh sushi rolls and flavorful traditional
+  dishes like teriyaki and tempura. This spot offers a welcoming atmosphere
+  where diners can savor authentic tastes in a casual setting, making it ideal
+  for everyday meals or quick getaways. With thoughtful accessibility features
+  such as wheelchair-friendly entrances and seating, it ensures everyone can
+  enjoy the experience comfortably. For those searching for top-rated sushi
+  options nearby, Oyama delivers a satisfying blend of quality ingredients and
+  simple elegance that keeps locals coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What People Are Saying$$$Visitors often rave about the fresh sushi and tasty
+  Japanese dishes at this cozy eatery, noting how the flavors hit the spot
+  without any fuss. Many appreciate the straightforward menu that balances
+  variety with reliable execution, making it a go-to for casual dining. Feedback
+  highlights the welcoming vibe and solid portions, with folks enjoying it as a
+  relaxed spot for a quick bite or group outings. While not every meal is
+  perfect, the overall consensus leans positive, positioning it as a dependable
+  choice for anyone craving authentic sushi in the area.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +240,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

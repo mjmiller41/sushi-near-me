@@ -5,4 +5,5 @@ permalink: /oregon/bend/
 stateAbbr: OR
 stateName: Oregon
 cityName: Bend
+
 ---

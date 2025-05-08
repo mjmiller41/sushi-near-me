@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "AJ’S Sushi & Cajun Seafood"
+title: AJ’S Sushi & Cajun Seafood
 permalink: /new-york/suffern/aj-s-sushi-cajun-seafood.html
 stateAbbr: NY
 stateName: New York
 cityName: Suffern
 seo:
-  name: "AJ’S Sushi & Cajun Seafood"
-  type: Restaurant
+  type: restaurant
   links: http://www.ajsushiny.com/
-description: "AJ’S Sushi & Cajun Seafood serves delicious sushi in Suffern, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJpfXU00jnwokRWf7-9_UhgUk
 photos:
   - name: >-
@@ -184,6 +182,29 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 0
 website: http://www.ajsushiny.com/
+description: >-
+  About AJ’s Sushi & Cajun Seafood in Suffern, NY$$$AJ’s Sushi & Cajun Seafood
+  in Suffern, NY, stands out as a casual dining spot offering an all-you-can-eat
+  menu that combines fresh sushi with flavorful cooked dishes, making it a go-to
+  for seafood enthusiasts. The restaurant features a welcoming atmosphere with
+  accessible options like wheelchair-friendly seating and parking, ensuring
+  everyone can enjoy the experience comfortably. Diners appreciate the variety
+  of high-quality sushi rolls and Cajun-inspired seafood, all served at moderate
+  prices that provide great value for families and groups. With its focus on
+  fresh ingredients and a solid reputation among sushi places near me, this spot
+  delivers a satisfying meal that balances taste and affordability.
+generative_summary: >-
+  About AJ’s Sushi & Cajun Seafood in Suffern, NY$$$AJ’s Sushi & Cajun Seafood
+  in Suffern, NY, stands out as a casual dining spot offering an all-you-can-eat
+  menu that combines fresh sushi with flavorful cooked dishes, making it a go-to
+  for seafood enthusiasts. The restaurant features a welcoming atmosphere with
+  accessible options like wheelchair-friendly seating and parking, ensuring
+  everyone can enjoy the experience comfortably. Diners appreciate the variety
+  of high-quality sushi rolls and Cajun-inspired seafood, all served at moderate
+  prices that provide great value for families and groups. With its focus on
+  fresh ingredients and a solid reputation among sushi places near me, this spot
+  delivers a satisfying meal that balances taste and affordability.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJpfXU00jnwokRWf7-9_UhgUk/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfNnBLNy1BRRAB
@@ -531,6 +552,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURBa3RxdHVnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURBa3RxdHVnRRAB!2m1!1s0x89c2e748d3d4f5a5:0x498121f5f7fefe59
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors to AJ’s Sushi & Cajun Seafood often
+  rave about the fresh sushi and all-you-can-eat deals that make it a fun,
+  value-packed choice for seafood lovers in the area. While some folks note that
+  the service can vary, the overall highlights include tasty specialty rolls and
+  generous portions that keep people coming back for more. It's clear that the
+  quality of the fish and creative dishes hit the mark for those seeking
+  top-rated sushi experiences, though a few mention minor inconsistencies in
+  preparation to keep things real. All in all, this spot maintains a positive
+  vibe for casual diners looking for reliable options, with the consensus
+  leaning toward it being a solid pick for anyone exploring sushi restaurants
+  nearby.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -563,7 +597,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

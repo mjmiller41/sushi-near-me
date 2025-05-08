@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "FYSH Sushi and Poke"
+title: FYSH Sushi and Poke
 permalink: /pennsylvania/malvern/fysh-sushi-and-poke.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Malvern
 seo:
-  name: "FYSH Sushi and Poke"
-  type: Restaurant
+  type: restaurant
   links: http://fyshsushi.com/
-description: "FYSH Sushi and Poke serves delicious sushi in Malvern, Pennsylvania. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ1XmnYBjtxokRhikx03X9_6Y
 photos:
   - name: >-
@@ -168,7 +166,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c6ed1860a779d5:0xa6fffd75d3312986!10e5
 primary_type: Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 20
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 20
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 20
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 20
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 20
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 20
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 8:00 PM'
     - 'Tuesday: 11:30 AM – 8:00 PM'
     - 'Wednesday: 11:30 AM – 8:00 PM'
@@ -176,14 +224,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 8:00 PM'
     - 'Saturday: 11:30 AM – 8:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:30 AM – 8:00 PM'
-    - 'Tuesday: 11:30 AM – 8:00 PM'
-    - 'Wednesday: 11:30 AM – 8:00 PM'
-    - 'Thursday: 11:30 AM – 8:00 PM'
-    - 'Friday: 11:30 AM – 8:00 PM'
-    - 'Saturday: 11:30 AM – 8:00 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -195,9 +236,46 @@ phone: (484) 329-3777
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.9'
-rating_count: 0
+rating_count: 100
 website: http://fyshsushi.com/
+description: >-
+  Discover FYSH Sushi and Poke in Malvern, PA$$$FYSH Sushi and Poke in Malvern,
+  PA, offers a casual dining experience focused on fresh, flavorful sushi rolls
+  and poke bowls that highlight the best of Japanese-inspired cuisine. This spot
+  stands out with its welcoming atmosphere and accessibility features, making it
+  easy for everyone to enjoy a meal without hassle. Patrons can savor a variety
+  of options, including creative toppings and sauces that add excitement to
+  every bite, paired perfectly with refreshing bubble teas for a complete treat.
+  The moderate pricing ensures it's a great choice for everyday outings or quick
+  lunches, while the clean, modern setup enhances the overall enjoyment. Whether
+  you're seeking sushi places near you for a satisfying meal, this location
+  delivers on quality and convenience.
+generative_summary: >-
+  Discover FYSH Sushi and Poke in Malvern, PA$$$FYSH Sushi and Poke in Malvern,
+  PA, offers a casual dining experience focused on fresh, flavorful sushi rolls
+  and poke bowls that highlight the best of Japanese-inspired cuisine. This spot
+  stands out with its welcoming atmosphere and accessibility features, making it
+  easy for everyone to enjoy a meal without hassle. Patrons can savor a variety
+  of options, including creative toppings and sauces that add excitement to
+  every bite, paired perfectly with refreshing bubble teas for a complete treat.
+  The moderate pricing ensures it's a great choice for everyday outings or quick
+  lunches, while the clean, modern setup enhances the overall enjoyment. Whether
+  you're seeking sushi places near you for a satisfying meal, this location
+  delivers on quality and convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Raving About$$$Folks who've visited this spot often praise
+  the tasty poke bowls and sushi for their super fresh fish and fun array of
+  toppings and sauces that keep things exciting. Many highlight the friendly
+  team and speedy service, which make grabbing a bite feel effortless and
+  enjoyable every time. The clean, modern vibe adds to the appeal, creating a
+  relaxed environment that's perfect for casual meetups or solo stops. Overall,
+  it's clear that diners appreciate the consistent quality and variety, making
+  it a solid pick for anyone hunting for top-rated sushi nearby. While opinions
+  are generally positive, the emphasis on fresh ingredients and attentive
+  service keeps the experience feeling reliable and worth returning for.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -223,7 +301,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

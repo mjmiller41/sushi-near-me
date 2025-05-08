@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Geisha"
+title: Geisha
 permalink: /new-york/new-york/geisha.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "Geisha"
-  type: Restaurant
-  links: null
-description: "Geisha serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.geisha3470ny.com/
 place_id: ChIJFalicmT2wokR02HksZFX9VA
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c2f6647262a915:0x50f55791b1e461d3!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 30
+      close:
+        day: 0
+        hour: 23
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 23
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 23
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 23
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 23
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 30
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:30 AM – 11:00 PM'
+    - 'Tuesday: 11:30 AM – 11:00 PM'
+    - 'Wednesday: 11:30 AM – 11:00 PM'
+    - 'Thursday: 11:30 AM – 11:00 PM'
+    - 'Friday: 11:30 AM – 11:00 PM'
+    - 'Saturday: 12:30 – 11:00 PM'
+    - 'Sunday: 12:30 – 11:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,48 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (212) 862-7800
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.3'
+rating_count: 898
+website: http://www.geisha3470ny.com/
+description: >-
+  Explore Geisha Sushi in New York, NY$$$Geisha in New York, NY, stands out as a
+  welcoming sushi restaurant offering authentic Japanese flavors in a cozy
+  atmosphere. This spot delights diners with a variety of fresh sushi options,
+  including vegetarian and vegan choices, paired with a full bar for craft
+  cocktails and drinks. Its intimate setting makes it ideal for casual meals or
+  special occasions, while accessibility features like wheelchair-friendly
+  entrances and seating ensure everyone can enjoy the experience. Open daily
+  from late morning into the evening, it's a convenient choice for those
+  searching for top-rated sushi restaurants near me, blending traditional tastes
+  with modern appeal.
+generative_summary: >-
+  Explore Geisha Sushi in New York, NY$$$Geisha in New York, NY, stands out as a
+  welcoming sushi restaurant offering authentic Japanese flavors in a cozy
+  atmosphere. This spot delights diners with a variety of fresh sushi options,
+  including vegetarian and vegan choices, paired with a full bar for craft
+  cocktails and drinks. Its intimate setting makes it ideal for casual meals or
+  special occasions, while accessibility features like wheelchair-friendly
+  entrances and seating ensure everyone can enjoy the experience. Open daily
+  from late morning into the evening, it's a convenient choice for those
+  searching for top-rated sushi restaurants near me, blending traditional tastes
+  with modern appeal.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Feedback on Geisha Sushi Experiences$$$Visitors to this sushi spot often rave
+  about the consistently fresh and flavorful dishes that make it a go-to for
+  Japanese cuisine lovers. Many highlight the welcoming vibe and solid value,
+  with meals leaving folks feeling satisfied without breaking the bank,
+  especially for groups or quick bites. While a few mention occasional waits
+  during peak times, the overall consensus leans positive, praising the
+  attentive service and variety of options that cater to different tastes. If
+  you're on the hunt for reliable sushi places near me, this location scores
+  high for its reliable quality and friendly staff, making it a solid pick for a
+  relaxed dining outing.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +309,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

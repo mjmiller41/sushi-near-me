@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Nori Maki Bar"
+title: Nori Maki Bar
 permalink: /colorado/fort-collins/nori-maki-bar.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Fort Collins
 seo:
-  name: "Nori Maki Bar"
-  type: Restaurant
+  type: restaurant
   links: https://www.norimakibar.com/
-description: "Nori Maki Bar serves delicious sushi in Fort Collins, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ24cOIkCzbocR_so_n_gr4hU
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x876eb340220e87db:0x15e22bf89f3fcafe!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 16
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:00 PM'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:00 PM'
     - 'Saturday: 11:00 AM – 9:00 PM'
     - 'Sunday: 4:00 – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 9:00 PM'
-    - 'Saturday: 11:00 AM – 9:00 PM'
-    - 'Sunday: 4:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,265 @@ phone: (970) 930-6254
 price_level: null
 price_range: $20 &ndash; $30
 rating: '4.5'
-rating_count: 0
+rating_count: 310
 website: https://www.norimakibar.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Nori Maki Bar in Fort Collins, CO$$$Nori Maki Bar in Fort Collins,
+  CO, stands out as a welcoming sushi restaurant offering fresh, inventive rolls
+  and a cozy atmosphere for those seeking top-rated sushi experiences. The spot
+  features a clean, open layout with ample natural light, making it ideal for
+  casual lunches or intimate dinners, while its accessibility options ensure a
+  comfortable visit for everyone. Diners can enjoy a variety of unique specialty
+  rolls crafted with high-quality ingredients, paired with options like beer,
+  wine, and cocktails to enhance the meal. The restaurant's commitment to timely
+  service and fresh preparations adds to its appeal as a go-to choice for sushi
+  lovers exploring local Japanese-inspired dining. With convenient hours and a
+  focus on flavorful dishes, it's a solid option for anyone searching for sushi
+  restaurants in the area.
+generative_summary: >-
+  Discover Nori Maki Bar in Fort Collins, CO$$$Nori Maki Bar in Fort Collins,
+  CO, stands out as a welcoming sushi restaurant offering fresh, inventive rolls
+  and a cozy atmosphere for those seeking top-rated sushi experiences. The spot
+  features a clean, open layout with ample natural light, making it ideal for
+  casual lunches or intimate dinners, while its accessibility options ensure a
+  comfortable visit for everyone. Diners can enjoy a variety of unique specialty
+  rolls crafted with high-quality ingredients, paired with options like beer,
+  wine, and cocktails to enhance the meal. The restaurant's commitment to timely
+  service and fresh preparations adds to its appeal as a go-to choice for sushi
+  lovers exploring local Japanese-inspired dining. With convenient hours and a
+  focus on flavorful dishes, it's a solid option for anyone searching for sushi
+  restaurants in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ24cOIkCzbocR_so_n_gr4hU/reviews/ChZDSUhNMG9nS0VJQ0FnTUNveTlUdWF3EAE
+    relativePublishTimeDescription: a week ago
+    rating: 4
+    text:
+      text: >-
+        Visited for lunch. The sushi was great. We tried several different rolls
+        and we definitely had our favorites. I love soup so I had to try the
+        miso soup. It was ok, but lacked some flavor. The app was good very
+        flavorful. The service was excellent. Very attentive staff. Atmosphere
+        was nice and quiet. We went when it wasn't busy. Food came out timely
+        and fresh. Overall would recommend for the sushi.
+      languageCode: en
+    originalText:
+      text: >-
+        Visited for lunch. The sushi was great. We tried several different rolls
+        and we definitely had our favorites. I love soup so I had to try the
+        miso soup. It was ok, but lacked some flavor. The app was good very
+        flavorful. The service was excellent. Very attentive staff. Atmosphere
+        was nice and quiet. We went when it wasn't busy. Food came out timely
+        and fresh. Overall would recommend for the sushi.
+      languageCode: en
+    authorAttribution:
+      displayName: Connie
+      uri: https://www.google.com/maps/contrib/104464290114284234269/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXY5COUgOK6FepvrZ6MEIOA2a0-Hc2tMWX__4NTL-I4AAia9ZRU=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2025-04-19T23:01:31.255301Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNveTlUdWF3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNveTlUdWF3EAE!2m1!1s0x876eb340220e87db:0x15e22bf89f3fcafe
+  - name: >-
+      places/ChIJ24cOIkCzbocR_so_n_gr4hU/reviews/ChZDSUhNMG9nS0VJQ0FnTURvLVlQWVpBEAE
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        The food was delicious. The fish tasted fresh (for Colorado). The people
+        were very friendly and kind. The atmosphere was clean, open with lots of
+        natural light. The specialty sushi rolls they have here are very unique
+        and I believe they change them up often so you can try something new
+        almost each time you go. This is one of our favorite sushi locations in
+        Fort Collins.
+      languageCode: en
+    originalText:
+      text: >-
+        The food was delicious. The fish tasted fresh (for Colorado). The people
+        were very friendly and kind. The atmosphere was clean, open with lots of
+        natural light. The specialty sushi rolls they have here are very unique
+        and I believe they change them up often so you can try something new
+        almost each time you go. This is one of our favorite sushi locations in
+        Fort Collins.
+      languageCode: en
+    authorAttribution:
+      displayName: Alexia Torres
+      uri: https://www.google.com/maps/contrib/115794554963326348276/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXRmm7SGlrwWkZxte84pthoiAuC0c0kmOvvJrj_6Nkex11kQ-IW=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-04-26T18:43:24.557885Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURvLVlQWVpBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURvLVlQWVpBEAE!2m1!1s0x876eb340220e87db:0x15e22bf89f3fcafe
+  - name: >-
+      places/ChIJ24cOIkCzbocR_so_n_gr4hU/reviews/ChZDSUhNMG9nS0VJQ0FnSUNEZ2N5RkNREAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        Autumn was our waitress and she was very friendly and informative… we
+        ordered 6 different rolls and everything was delicious!!! The place was
+        very clean and the atmosphere was great..!! Will definitely be coming
+        back..!!!
+
+        Beauty and the Beast
+
+        Red Devil
+
+        Heart Attack
+
+        Dynamite
+
+        Fiesta
+
+        Honeymoon
+
+        Helen G - Loveland
+      languageCode: en
+    originalText:
+      text: >-
+        Autumn was our waitress and she was very friendly and informative… we
+        ordered 6 different rolls and everything was delicious!!! The place was
+        very clean and the atmosphere was great..!! Will definitely be coming
+        back..!!!
+
+        Beauty and the Beast
+
+        Red Devil
+
+        Heart Attack
+
+        Dynamite
+
+        Fiesta
+
+        Honeymoon
+
+        Helen G - Loveland
+      languageCode: en
+    authorAttribution:
+      displayName: Helen Cavallo
+      uri: https://www.google.com/maps/contrib/113003697606353127357/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXPBdpRzDX2R2bZAR9TFinf0gAOsKudf8ibPoiDKotdlo0vbXRg=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-03-28T22:57:54.869745Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNEZ2N5RkNREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNEZ2N5RkNREAE!2m1!1s0x876eb340220e87db:0x15e22bf89f3fcafe
+  - name: >-
+      places/ChIJ24cOIkCzbocR_so_n_gr4hU/reviews/ChZDSUhNMG9nS0VJQ0FnSUQxdGVUOVlnEAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        This place is great. I went in the late afternoon on a monday and it was
+        pretty empty. The atmosphere was perfect very nice and chill. The food
+        was amazing, it does cost a pretty penny. But the food is well worth the
+        cost. The sushi is amazing and the plating is just as good. This is a
+        great spot for a higher end date. Other than the cost being just a tad
+        higher than other sushi options I'd say this place is perfect. The staff
+        was also friendly.
+      languageCode: en
+    originalText:
+      text: >-
+        This place is great. I went in the late afternoon on a monday and it was
+        pretty empty. The atmosphere was perfect very nice and chill. The food
+        was amazing, it does cost a pretty penny. But the food is well worth the
+        cost. The sushi is amazing and the plating is just as good. This is a
+        great spot for a higher end date. Other than the cost being just a tad
+        higher than other sushi options I'd say this place is perfect. The staff
+        was also friendly.
+      languageCode: en
+    authorAttribution:
+      displayName: Andrew Otto
+      uri: https://www.google.com/maps/contrib/108117850275236358843/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUrSX7y1Se0JmRBF-rnMm9QUzMARVbtvxbtStRlNzWneoAe3wUThQ=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-01-09T01:26:50.356209Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQxdGVUOVlnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQxdGVUOVlnEAE!2m1!1s0x876eb340220e87db:0x15e22bf89f3fcafe
+  - name: >-
+      places/ChIJ24cOIkCzbocR_so_n_gr4hU/reviews/ChZDSUhNMG9nS0VJQ0FnSURONjZ1ckZREAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        This is the best sushi place in town. They really focus and put well
+        their energy into making extraordinary sushi dishes. The presentations
+        are always unique. The taste is exquisite by curating the perfect
+        combination of ingredients.
+      languageCode: en
+    originalText:
+      text: >-
+        This is the best sushi place in town. They really focus and put well
+        their energy into making extraordinary sushi dishes. The presentations
+        are always unique. The taste is exquisite by curating the perfect
+        combination of ingredients.
+      languageCode: en
+    authorAttribution:
+      displayName: Jacky Wong
+      uri: https://www.google.com/maps/contrib/113356647405514100869/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXuVMTJ_Ln7PrTeiBDQLGX5Am5wOVrNUVx87asuF5DM2woj2Gc=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-01-30T18:01:54.822088Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURONjZ1ckZREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURONjZ1ckZREAE!2m1!1s0x876eb340220e87db:0x15e22bf89f3fcafe
+review_summary: >-
+  Insights from Customer Reviews$$$Visitors to Nori Maki Bar often rave about
+  the delicious, fresh-tasting sushi that makes it a standout spot for
+  satisfying cravings, with many highlighting the creative and unique rolls that
+  keep things exciting. Folks appreciate the friendly service and relaxed vibe,
+  noting that the staff is attentive and the overall experience feels welcoming
+  without any major hitches. While some mention that prices lean a bit higher,
+  most agree the quality and presentation of the food make it well worth it for
+  a memorable meal. The clean, chill atmosphere gets consistent nods, especially
+  for daytime visits when it's less crowded, adding to the enjoyment of the
+  dining experience. Overall, it's clear this place earns its reputation as one
+  of the best sushi options around, encouraging repeat trips for anyone in the
+  mood for quality Japanese fare.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
 outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

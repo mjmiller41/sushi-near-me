@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "wasabiofbemidji"
+title: wasabiofbemidji
 permalink: /minnesota/bemidji/wasabiofbemidji.html
 stateAbbr: MN
 stateName: Minnesota
 cityName: Bemidji
 seo:
-  name: "wasabiofbemidji"
-  type: Restaurant
-  links: null
-description: "wasabiofbemidji serves delicious sushi in Bemidji, Minnesota. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.wasabiofbemidji.com/
 place_id: ChIJ0TyckMgtuFIR295m98sIwhE
 photos:
   - name: >-
@@ -170,22 +168,209 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x52b82dc8909c3cd1:0x11c208cbf766dedb!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 14
+        minute: 30
+    - open:
+        day: 6
+        hour: 16
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
+    - 'Thursday: Closed'
+    - 'Friday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
+    - 'Saturday: 11:00 AM – 2:30 PM, 4:30 – 9:00 PM'
+    - 'Sunday: 12:00 – 8:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 0
+        close:
+          day: 0
+          hour: 20
+          minute: 0
+      - open:
+          day: 1
+          hour: 11
+          minute: 0
+        close:
+          day: 1
+          hour: 20
+          minute: 45
+      - open:
+          day: 2
+          hour: 11
+          minute: 0
+        close:
+          day: 2
+          hour: 20
+          minute: 45
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 20
+          minute: 45
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 20
+          minute: 45
+      - open:
+          day: 6
+          hour: 11
+          minute: 0
+        close:
+          day: 6
+          hour: 20
+          minute: 45
+    weekdayDescriptions:
+      - 'Monday: 11:00 AM – 8:45 PM'
+      - 'Tuesday: 11:00 AM – 8:45 PM'
+      - 'Wednesday: 11:00 AM – 8:45 PM'
+      - 'Thursday: Closed'
+      - 'Friday: 11:00 AM – 8:45 PM'
+      - 'Saturday: 11:00 AM – 8:45 PM'
+      - 'Sunday: 12:00 – 8:00 PM'
+    secondaryHoursType: DELIVERY
+    nextCloseTime: '2025-05-04T01:45:00Z'
+phone: (218) 444-2022
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.5'
+rating_count: 507
+website: https://www.wasabiofbemidji.com/
+description: >-
+  Discover Wasabi of Bemidji in Bemidji, MN$$$Wasabi of Bemidji in Bemidji, MN,
+  stands out as a casual spot for enjoying fresh sushi and flavorful ramen,
+  making it a go-to choice among local dining options. This eatery offers a
+  relaxed atmosphere where patrons can savor a variety of Japanese-inspired
+  dishes, complemented by a selection of cocktails, sake, and beer for a
+  complete meal experience. With its accessibility features like
+  wheelchair-friendly parking and entrances, it's designed to welcome everyone
+  looking for authentic flavors in a comfortable setting. The spot's flexible
+  hours, including evenings and weekends, make it easy to fit into busy
+  schedules, appealing to those seeking top-rated sushi restaurants nearby.
+generative_summary: >-
+  Discover Wasabi of Bemidji in Bemidji, MN$$$Wasabi of Bemidji in Bemidji, MN,
+  stands out as a casual spot for enjoying fresh sushi and flavorful ramen,
+  making it a go-to choice among local dining options. This eatery offers a
+  relaxed atmosphere where patrons can savor a variety of Japanese-inspired
+  dishes, complemented by a selection of cocktails, sake, and beer for a
+  complete meal experience. With its accessibility features like
+  wheelchair-friendly parking and entrances, it's designed to welcome everyone
+  looking for authentic flavors in a comfortable setting. The spot's flexible
+  hours, including evenings and weekends, make it easy to fit into busy
+  schedules, appealing to those seeking top-rated sushi restaurants nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Buzzing About$$$Visitors often praise the tasty sushi rolls
+  and hearty ramen at this spot, noting how the fresh ingredients bring out
+  delicious flavors that keep them coming back for more. Many highlight the
+  friendly service that adds a welcoming vibe to every meal, making it feel like
+  a neighborhood favorite without any pretension. Folks appreciate the cozy and
+  well-thought-out ambiance, which enhances the overall dining experience for
+  groups or solo diners. While opinions vary, the general consensus leans
+  positive, with plenty of nods to satisfying options like gyoza that make it a
+  solid pick for anyone craving Japanese cuisine. Overall, it's a reliable
+  choice for those exploring sushi places near me, offering good value and
+  enjoyable eats that live up to the hype.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +396,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

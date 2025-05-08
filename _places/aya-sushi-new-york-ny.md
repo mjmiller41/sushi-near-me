@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Aya Sushi"
+title: Aya Sushi
 permalink: /new-york/new-york/aya-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "Aya Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.ayasushinewyork.com/
-description: "Tiny, unadorned sushi place also preparing a long menu of familiar Japanese entrees. Aya Sushi serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJM3uuJq1ZwokRyQ7JC-KW_6w
 photos:
   - name: >-
@@ -182,6 +180,27 @@ price_range: $10 &ndash; $20
 rating: '4.3'
 rating_count: 0
 website: http://www.ayasushinewyork.com/
+description: >-
+  Discover Aya Sushi in New York, NY$$$Aya Sushi in New York, NY, offers a
+  welcoming spot for enjoying fresh sushi and classic Japanese dishes in a cozy,
+  efficient environment. This unassuming venue specializes in a range of
+  familiar entrees and rolls, making it an ideal choice for those seeking
+  authentic flavors without the fuss. With quick service and a focus on quality
+  ingredients, it's perfect for diners looking for reliable Japanese cuisine in
+  the bustling city. Whether you're in the mood for expertly prepared sushi or
+  hearty options, this spot delivers a straightforward yet satisfying experience
+  that appeals to locals and visitors alike.
+generative_summary: >-
+  Discover Aya Sushi in New York, NY$$$Aya Sushi in New York, NY, offers a
+  welcoming spot for enjoying fresh sushi and classic Japanese dishes in a cozy,
+  efficient environment. This unassuming venue specializes in a range of
+  familiar entrees and rolls, making it an ideal choice for those seeking
+  authentic flavors without the fuss. With quick service and a focus on quality
+  ingredients, it's perfect for diners looking for reliable Japanese cuisine in
+  the bustling city. Whether you're in the mood for expertly prepared sushi or
+  hearty options, this spot delivers a straightforward yet satisfying experience
+  that appeals to locals and visitors alike.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJM3uuJq1ZwokRyQ7JC-KW_6w/reviews/ChZDSUhNMG9nS0VJQ0FnSURmNXRuWUt3EAE
@@ -353,6 +372,17 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNBdDl6b3dnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNBdDl6b3dnRRAB!2m1!1s0x89c259ad26ae7b33:0xacff96e20bc90ec9
+review_summary: >-
+  What Visitors Are Saying$$$Visitors often praise Aya Sushi for its convenient
+  location near busy hubs, making it a go-to for a quick and affordable bite of
+  Japanese fare. Many note the friendly service and well-sized portions that hit
+  the spot without overwhelming the wallet, especially for rolls and simple
+  entrees. While some feedback suggests the food is more on the basic side
+  compared to upscale spots, it's frequently appreciated for its reliable taste
+  and value, ideal for a casual meal on the go. Overall, it's seen as a solid
+  option for anyone craving sushi in a relaxed setting, with positive mentions
+  of the welcoming atmosphere keeping the experience enjoyable.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   valetParking: false
 payment_options:
@@ -383,8 +413,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Tiny, unadorned sushi place also preparing a long menu of familiar Japanese
   entrees.
 

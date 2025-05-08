@@ -5,4 +5,5 @@ permalink: /massachusetts/new-bedford/
 stateAbbr: MA
 stateName: Massachusetts
 cityName: New Bedford
+
 ---

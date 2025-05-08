@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ninja Restaurant"
+title: Ninja Restaurant
 permalink: /nebraska/lincoln/ninja-restaurant.html
 stateAbbr: NE
 stateName: Nebraska
 cityName: Lincoln
 seo:
-  name: "Ninja Restaurant"
-  type: Restaurant
-  links: null
-description: "Ninja Restaurant serves delicious sushi in Lincoln, Nebraska. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.ninjalincoln.com/
 place_id: ChIJI3fLAme5locRGmy9PbjufsE
 photos:
   - name: >-
@@ -170,8 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8796b96702cb7723:0xc17eeeb83dbd6c1a!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: Closed'
+    - 'Tuesday: 11:00 AM – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 9:00 PM'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 10:00 PM'
+    - 'Saturday: 11:00 AM – 10:00 PM'
+    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +234,53 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (402) 435-8700
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.1'
+rating_count: 250
+website: https://www.ninjalincoln.com/
+description: >-
+  Discover Ninja Restaurant in Lincoln, NE$$$Ninja Restaurant in Lincoln, NE,
+  stands out as a welcoming spot for those seeking fresh sushi and authentic
+  Japanese flavors, complemented by Chinese-inspired dishes. This casual eatery
+  offers a variety of options, including affordable lunch specials that make it
+  a great choice for everyday dining or exploring top-rated sushi spots nearby.
+  With its accessible features like wheelchair-friendly entrances and seating,
+  it ensures a comfortable experience for all visitors looking for quality
+  Japanese cuisine. The menu highlights creative rolls and hearty meals that
+  blend traditional tastes with modern twists, appealing to anyone searching for
+  reliable sushi restaurants in the area. Open during convenient hours
+  throughout the week, it's an ideal destination for a satisfying meal without
+  the fuss.
+generative_summary: >-
+  Discover Ninja Restaurant in Lincoln, NE$$$Ninja Restaurant in Lincoln, NE,
+  stands out as a welcoming spot for those seeking fresh sushi and authentic
+  Japanese flavors, complemented by Chinese-inspired dishes. This casual eatery
+  offers a variety of options, including affordable lunch specials that make it
+  a great choice for everyday dining or exploring top-rated sushi spots nearby.
+  With its accessible features like wheelchair-friendly entrances and seating,
+  it ensures a comfortable experience for all visitors looking for quality
+  Japanese cuisine. The menu highlights creative rolls and hearty meals that
+  blend traditional tastes with modern twists, appealing to anyone searching for
+  reliable sushi restaurants in the area. Open during convenient hours
+  throughout the week, it's an ideal destination for a satisfying meal without
+  the fuss.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Folks who stop by Ninja Restaurant often rave about
+  the tasty sushi and flavorful Japanese dishes, giving it solid praise for its
+  fresh ingredients and value-for-money options that keep diners coming back.
+  Many appreciate the friendly service and welcoming atmosphere, noting that
+  it's a reliable pick for casual meals with friends or family, even if things
+  can get busy during peak times. While some mention minor waits or room for
+  more variety in certain selections, the overall vibe leans positive with a
+  strong 4.1 rating reflecting enjoyable experiences. If you're on the hunt for
+  great sushi places nearby, this spot delivers on flavor and convenience,
+  making it a go-to for satisfying cravings. All in all, it's a solid choice
+  that balances everyday appeal with genuine highlights worth trying out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +306,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

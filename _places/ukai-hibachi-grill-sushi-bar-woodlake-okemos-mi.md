@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ukai Hibachi Grill & Sushi Bar Woodlake"
+title: Ukai Hibachi Grill & Sushi Bar Woodlake
 permalink: /michigan/okemos/ukai-hibachi-grill-sushi-bar-woodlake.html
 stateAbbr: MI
 stateName: Michigan
 cityName: Okemos
 seo:
-  name: "Ukai Hibachi Grill & Sushi Bar Woodlake"
-  type: Restaurant
-  links: null
-description: "Ukai Hibachi Grill & Sushi Bar Woodlake serves delicious sushi in Okemos, Michigan. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.iloveukai.com/
 place_id: ChIJR6bNWtLcIogRihTckpvCGDw
 photos:
   - name: >-
@@ -170,22 +168,207 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8822dcd25acda647:0x3c18c29b92dc148a!10e5
 primary_type: Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 14
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 16
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:30 AM – 2:00 PM, 4:00 – 9:00 PM'
+    - 'Tuesday: 11:30 AM – 2:00 PM, 4:00 – 9:00 PM'
+    - 'Wednesday: 11:30 AM – 2:00 PM, 4:00 – 9:00 PM'
+    - 'Thursday: 11:30 AM – 2:00 PM, 4:00 – 9:00 PM'
+    - 'Friday: 11:30 AM – 2:00 PM, 4:00 – 9:00 PM'
+    - 'Saturday: 4:00 – 9:00 PM'
+    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T01:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+  - openNow: false
+    periods:
+      - open:
+          day: 0
+          hour: 16
+          minute: 0
+        close:
+          day: 0
+          hour: 22
+          minute: 0
+      - open:
+          day: 1
+          hour: 16
+          minute: 0
+        close:
+          day: 1
+          hour: 22
+          minute: 0
+      - open:
+          day: 2
+          hour: 16
+          minute: 0
+        close:
+          day: 2
+          hour: 22
+          minute: 0
+      - open:
+          day: 3
+          hour: 16
+          minute: 0
+        close:
+          day: 3
+          hour: 22
+          minute: 0
+      - open:
+          day: 4
+          hour: 16
+          minute: 0
+        close:
+          day: 4
+          hour: 22
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 4:00 – 10:00 PM'
+      - 'Tuesday: 4:00 – 10:00 PM'
+      - 'Wednesday: 4:00 – 10:00 PM'
+      - 'Thursday: 4:00 – 10:00 PM'
+      - 'Friday: Closed'
+      - 'Saturday: Closed'
+      - 'Sunday: 4:00 – 10:00 PM'
+    secondaryHoursType: HAPPY_HOUR
+    nextOpenTime: '2025-05-04T20:00:00Z'
+phone: (517) 940-8400
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.2'
+rating_count: 575
+website: http://www.iloveukai.com/
+description: >-
+  Discover Ukai Hibachi Grill & Sushi Bar in Okemos, Michigan$$$Ukai Hibachi
+  Grill & Sushi Bar in Okemos, MI, stands out as a welcoming spot for enjoying
+  authentic Japanese flavors, featuring a variety of fresh sushi and lively
+  hibachi options in a relaxed environment. This sushi restaurant combines
+  teppanyaki-style cooking with an informal dining vibe, making it ideal for
+  casual meals or group gatherings near you. Accessibility features like
+  wheelchair-friendly entrances and seating add to the convenience, ensuring
+  everyone can savor the experience. Whether you're seeking top-rated sushi
+  dishes or a fun evening out, this location offers moderate pricing and
+  extended hours to fit your schedule. Its operational status and inviting
+  atmosphere make it a go-to choice among Japanese places in the area for those
+  craving flavorful, well-prepared meals.
+generative_summary: >-
+  Discover Ukai Hibachi Grill & Sushi Bar in Okemos, Michigan$$$Ukai Hibachi
+  Grill & Sushi Bar in Okemos, MI, stands out as a welcoming spot for enjoying
+  authentic Japanese flavors, featuring a variety of fresh sushi and lively
+  hibachi options in a relaxed environment. This sushi restaurant combines
+  teppanyaki-style cooking with an informal dining vibe, making it ideal for
+  casual meals or group gatherings near you. Accessibility features like
+  wheelchair-friendly entrances and seating add to the convenience, ensuring
+  everyone can savor the experience. Whether you're seeking top-rated sushi
+  dishes or a fun evening out, this location offers moderate pricing and
+  extended hours to fit your schedule. Its operational status and inviting
+  atmosphere make it a go-to choice among Japanese places in the area for those
+  craving flavorful, well-prepared meals.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About Ukai Hibachi Grill & Sushi Bar$$$Visitors
+  frequently highlight the tasty sushi selections and entertaining hibachi
+  performances as standout features, giving this spot a strong reputation for
+  delivering a memorable dining experience. With an overall rating around 4.2
+  from numerous feedback, folks appreciate the fresh ingredients and solid
+  portion sizes that keep them coming back for more. While some mention
+  occasional waits during peak times, the general consensus leans positive,
+  praising the welcoming service and variety of options that cater to different
+  tastes. It's often described as a fun place for families or friends looking
+  for reliable Japanese cuisine nearby, making it worth a try for anyone
+  searching for quality sushi restaurants in the region. Overall, the feedback
+  paints a picture of a dependable favorite that balances enjoyment with good
+  value, encouraging first-timers to check it out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +394,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

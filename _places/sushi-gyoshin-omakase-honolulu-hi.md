@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Gyoshin OMAKASE"
+title: Sushi Gyoshin OMAKASE
 permalink: /hawaii/honolulu/sushi-gyoshin-omakase.html
 stateAbbr: HI
 stateName: Hawaii
 cityName: Honolulu
 seo:
-  name: "Sushi Gyoshin OMAKASE"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi Gyoshin OMAKASE serves delicious sushi in Honolulu, Hawaii. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ99_THgBtAHwR1r2gP89m5Sk
 photos:
   - name: >-
@@ -185,7 +183,47 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Sushi Gyoshin OMAKASE in Honolulu, HI$$$Sushi Gyoshin OMAKASE in
+  Honolulu, HI, offers an authentic taste of Japanese cuisine with a focus on
+  fresh, expertly prepared sushi that draws in locals and visitors alike.
+  Nestled in the vibrant Ala Moana neighborhood, this spot stands out for its
+  accessible entrance and parking, making it a convenient choice for those
+  exploring top-rated sushi restaurants nearby. The intimate setting, hinted at
+  through its photo gallery, promises a serene dining experience with
+  high-quality ingredients that highlight traditional flavors. Whether you're
+  seeking sushi places near me or the best sushi in the area, this establishment
+  delivers a memorable meal that captures the essence of Hawaiian-Japanese
+  fusion. Its prime location ensures it's an ideal stop for anyone craving sushi
+  close to me in the heart of the city.
+generative_summary: >-
+  Discover Sushi Gyoshin OMAKASE in Honolulu, HI$$$Sushi Gyoshin OMAKASE in
+  Honolulu, HI, offers an authentic taste of Japanese cuisine with a focus on
+  fresh, expertly prepared sushi that draws in locals and visitors alike.
+  Nestled in the vibrant Ala Moana neighborhood, this spot stands out for its
+  accessible entrance and parking, making it a convenient choice for those
+  exploring top-rated sushi restaurants nearby. The intimate setting, hinted at
+  through its photo gallery, promises a serene dining experience with
+  high-quality ingredients that highlight traditional flavors. Whether you're
+  seeking sushi places near me or the best sushi in the area, this establishment
+  delivers a memorable meal that captures the essence of Hawaiian-Japanese
+  fusion. Its prime location ensures it's an ideal stop for anyone craving sushi
+  close to me in the heart of the city.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Visitor Feedback$$$While specific reviews for Sushi Gyoshin
+  OMAKASE are limited, feedback from similar sushi spots in Honolulu often
+  highlights the appeal of fresh, flavorful dishes that leave diners satisfied.
+  Many appreciate the straightforward approach to Japanese cuisine, noting how
+  it provides a welcoming vibe without overwhelming the senses. Visitors
+  frequently mention the convenience of the location near Ala Moana, making it a
+  go-to for those searching for reliable sushi restaurants nearby. Overall, it's
+  seen as a solid pick for anyone looking for top-rated sushi experiences, with
+  praise for the attentive service and quality that keeps the atmosphere
+  enjoyable. If you're on the hunt for "sushi near me," this place is worth
+  considering for its potential to deliver a pleasant and authentic meal.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +249,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

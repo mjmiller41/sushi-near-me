@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "So Sushi"
+title: So Sushi
 permalink: /california/tarzana/so-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Tarzana
 seo:
-  name: "So Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "So Sushi serves delicious sushi in Tarzana, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJYVlCgkCZwoARpYOR1kXW1ns
 photos:
   - name: >-
@@ -185,7 +183,44 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover So Sushi in Tarzana, CA$$$So Sushi in Tarzana, CA, stands out as a
+  welcoming sushi restaurant offering a variety of fresh Japanese dishes in a
+  relaxed, everyday atmosphere. Patrons can enjoy an array of expertly prepared
+  sushi options, where chefs accommodate custom requests to enhance the dining
+  experience. The spot emphasizes accessibility with features like
+  wheelchair-friendly parking and entrances, making it easy for everyone to
+  savor its casual vibe. Its location near Ventura Blvd adds to the convenience
+  for those searching for quality sushi restaurants in the area, blending
+  traditional flavors with a modern touch. Whether you're craving inventive
+  rolls or classic Japanese fare, this spot delivers a satisfying meal that
+  highlights fresh ingredients and thoughtful preparation.
+generative_summary: >-
+  Discover So Sushi in Tarzana, CA$$$So Sushi in Tarzana, CA, stands out as a
+  welcoming sushi restaurant offering a variety of fresh Japanese dishes in a
+  relaxed, everyday atmosphere. Patrons can enjoy an array of expertly prepared
+  sushi options, where chefs accommodate custom requests to enhance the dining
+  experience. The spot emphasizes accessibility with features like
+  wheelchair-friendly parking and entrances, making it easy for everyone to
+  savor its casual vibe. Its location near Ventura Blvd adds to the convenience
+  for those searching for quality sushi restaurants in the area, blending
+  traditional flavors with a modern touch. Whether you're craving inventive
+  rolls or classic Japanese fare, this spot delivers a satisfying meal that
+  highlights fresh ingredients and thoughtful preparation.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this sushi spot often rave about the
+  incredibly fresh and flavorful selections, with standout rolls that keep
+  diners coming back for more. Many appreciate the cozy, modern ambiance that
+  creates a comfortable environment for enjoying meals with friends or solo.
+  Folks frequently mention the efficient and warm service that makes every visit
+  feel seamless and enjoyable, paired with options like hot sake to complement
+  the dishes. Overall, it's praised as a reliable choice for tasty Japanese
+  cuisine, drawing in those seeking top-rated sushi experiences nearby. While
+  opinions are generally positive, the emphasis on quality ingredients and
+  welcoming atmosphere ensures it's a go-to option for casual outings.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +246,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

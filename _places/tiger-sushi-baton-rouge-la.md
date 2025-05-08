@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Tiger Sushi"
+title: Tiger Sushi
 permalink: /louisiana/baton-rouge/tiger-sushi.html
 stateAbbr: LA
 stateName: Louisiana
 cityName: Baton Rouge
 seo:
-  name: "Tiger Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.tigersushi225.com/
-description: "Tiger Sushi serves delicious sushi in Baton Rouge, Louisiana. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJkUuzrEm7JoYRVj9RQ3gKfAo
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8626bb49acb34b91:0xa7c0a7843513f56!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 20
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 8:00 PM'
     - 'Tuesday: 11:00 AM – 8:00 PM'
     - 'Wednesday: 11:00 AM – 8:00 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:00 PM'
     - 'Saturday: 11:00 AM – 9:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:00 AM – 8:00 PM'
-    - 'Tuesday: 11:00 AM – 8:00 PM'
-    - 'Wednesday: 11:00 AM – 8:00 PM'
-    - 'Thursday: 11:00 AM – 8:00 PM'
-    - 'Friday: 11:00 AM – 9:00 PM'
-    - 'Saturday: 11:00 AM – 9:00 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +238,43 @@ phone: (225) 291-9933
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.4'
-rating_count: 0
+rating_count: 223
 website: http://www.tigersushi225.com/
+description: >-
+  Discover Tiger Sushi in Baton Rouge, LA$$$Tiger Sushi in Baton Rouge, LA,
+  offers a welcoming spot for enjoying fresh Japanese cuisine in a relaxed
+  environment. This sushi restaurant specializes in a variety of artfully
+  prepared rolls and traditional dishes, making it a go-to choice for those
+  seeking authentic flavors close to home. With its laid-back setting and
+  accessibility features like wheelchair-friendly entrances and seating, it's
+  designed for comfortable dining experiences. The menu caters to a range of
+  tastes, from classic options to creative twists, all at moderate prices that
+  appeal to families and groups looking for quality sushi places nearby.
+generative_summary: >-
+  Discover Tiger Sushi in Baton Rouge, LA$$$Tiger Sushi in Baton Rouge, LA,
+  offers a welcoming spot for enjoying fresh Japanese cuisine in a relaxed
+  environment. This sushi restaurant specializes in a variety of artfully
+  prepared rolls and traditional dishes, making it a go-to choice for those
+  seeking authentic flavors close to home. With its laid-back setting and
+  accessibility features like wheelchair-friendly entrances and seating, it's
+  designed for comfortable dining experiences. The menu caters to a range of
+  tastes, from classic options to creative twists, all at moderate prices that
+  appeal to families and groups looking for quality sushi places nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Visitors to this popular sushi spot often rave
+  about the consistently fresh ingredients and flavorful dishes that make every
+  meal memorable. Many appreciate the friendly service and efficient atmosphere,
+  which contribute to a pleasant overall experience without any major
+  complaints. Feedback highlights the great value for the price, with portions
+  that satisfy and a vibe that's perfect for casual outings or quick bites.
+  While a few mention occasional waits during peak hours, the general consensus
+  leans positive, encouraging others searching for top-rated sushi near me to
+  give it a try for a reliable and enjoyable meal. Overall, it's clear that this
+  local favorite continues to impress with its commitment to quality and
+  customer satisfaction.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +300,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

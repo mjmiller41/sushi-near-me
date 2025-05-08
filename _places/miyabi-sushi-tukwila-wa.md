@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Miyabi Sushi"
+title: Miyabi Sushi
 permalink: /washington/tukwila/miyabi-sushi.html
 stateAbbr: WA
 stateName: Washington
 cityName: Tukwila
 seo:
-  name: "Miyabi Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://miyabisushi.com/
-description: "Miyabi Sushi serves delicious sushi in Tukwila, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJgfl9S85ckFQRonest40Vj8c
 photos:
   - name: >-
@@ -170,7 +168,113 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x54905cce4b7df981:0xc78f158db7ac77a2!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 16
+        minute: 30
+      close:
+        day: 0
+        hour: 20
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 15
+      close:
+        day: 1
+        hour: 14
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 15
+      close:
+        day: 2
+        hour: 14
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 15
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 15
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 15
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 14
+        minute: 30
+    - open:
+        day: 6
+        hour: 16
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:15 AM – 2:00 PM, 4:30 – 9:00 PM'
     - 'Tuesday: 11:15 AM – 2:00 PM, 4:30 – 9:00 PM'
     - 'Wednesday: 11:15 AM – 2:00 PM, 4:30 – 9:00 PM'
@@ -178,14 +282,7 @@ opening_hours:
     - 'Friday: 11:15 AM – 2:00 PM, 4:30 – 9:30 PM'
     - 'Saturday: 12:00 – 2:30 PM, 4:30 – 9:30 PM'
     - 'Sunday: 4:30 – 8:30 PM'
-  current:
-    - 'Monday: 11:15 AM – 2:00 PM, 4:30 – 9:00 PM'
-    - 'Tuesday: 11:15 AM – 2:00 PM, 4:30 – 9:00 PM'
-    - 'Wednesday: 11:15 AM – 2:00 PM, 4:30 – 9:00 PM'
-    - 'Thursday: 11:15 AM – 2:00 PM, 4:30 – 9:00 PM'
-    - 'Friday: 11:15 AM – 2:00 PM, 4:30 – 9:30 PM'
-    - 'Saturday: 12:00 – 2:30 PM, 4:30 – 9:30 PM'
-    - 'Sunday: 4:30 – 8:30 PM'
+  nextOpenTime: '2025-05-03T23:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +294,247 @@ phone: (206) 575-6815
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.5'
-rating_count: 0
+rating_count: 1702
 website: http://miyabisushi.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Miyabi Sushi in Tukwila, WA$$$Nestled in Tukwila, WA, Miyabi Sushi
+  stands out as a welcoming spot for those seeking authentic Japanese flavors in
+  a casual setting. This eatery specializes in fresh sushi rolls, bento boxes,
+  and a variety of hot dishes that highlight creative presentations and quality
+  ingredients, making it a go-to choice for sushi enthusiasts exploring local
+  dining options. The restaurant boasts accessibility features like
+  wheelchair-friendly entrances and seating, ensuring a comfortable experience
+  for all visitors, while its strip mall location adds to the convenience for
+  those searching for sushi near me. With moderate pricing and a menu that
+  balances traditional favorites with innovative twists, it's an ideal stop for
+  anyone craving top-rated sushi in a relaxed atmosphere. Operating hours cater
+  to both lunch and dinner crowds, offering ample opportunities to enjoy
+  Japanese-inspired meals without the hassle.
+generative_summary: >-
+  Discover Miyabi Sushi in Tukwila, WA$$$Nestled in Tukwila, WA, Miyabi Sushi
+  stands out as a welcoming spot for those seeking authentic Japanese flavors in
+  a casual setting. This eatery specializes in fresh sushi rolls, bento boxes,
+  and a variety of hot dishes that highlight creative presentations and quality
+  ingredients, making it a go-to choice for sushi enthusiasts exploring local
+  dining options. The restaurant boasts accessibility features like
+  wheelchair-friendly entrances and seating, ensuring a comfortable experience
+  for all visitors, while its strip mall location adds to the convenience for
+  those searching for sushi near me. With moderate pricing and a menu that
+  balances traditional favorites with innovative twists, it's an ideal stop for
+  anyone craving top-rated sushi in a relaxed atmosphere. Operating hours cater
+  to both lunch and dinner crowds, offering ample opportunities to enjoy
+  Japanese-inspired meals without the hassle.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJgfl9S85ckFQRonest40Vj8c/reviews/ChdDSUhNMG9nS0VJQ0FnSURIdjYtSWpRRRAB
+    relativePublishTimeDescription: 7 months ago
+    rating: 5
+    text:
+      text: >-
+        I had an amazing dining experience at Miyabi Sushi in Tukwila! The sushi
+        was incredibly fresh, beautifully presented, and full of flavor. The
+        menu offers a wide variety of options, from traditional favorites to
+        creative rolls that really stand out. The staff was friendly, attentive,
+        and made sure we had everything we needed throughout the meal. The
+        ambiance was warm and inviting, perfect for a relaxed meal or a special
+        night out. I’ll definitely be coming back to Miyabi Sushi – highly
+        recommend for sushi lovers in the area!
+      languageCode: en
+    originalText:
+      text: >-
+        I had an amazing dining experience at Miyabi Sushi in Tukwila! The sushi
+        was incredibly fresh, beautifully presented, and full of flavor. The
+        menu offers a wide variety of options, from traditional favorites to
+        creative rolls that really stand out. The staff was friendly, attentive,
+        and made sure we had everything we needed throughout the meal. The
+        ambiance was warm and inviting, perfect for a relaxed meal or a special
+        night out. I’ll definitely be coming back to Miyabi Sushi – highly
+        recommend for sushi lovers in the area!
+      languageCode: en
+    authorAttribution:
+      displayName: Chanil Jung
+      uri: https://www.google.com/maps/contrib/110370796704634416174/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXUQGp1nrL9JxzAwqk4JQgTjHyMBxLETKa4reQFPABq175G_ZSPDw=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-09-21T11:55:06.862664Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURIdjYtSWpRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURIdjYtSWpRRRAB!2m1!1s0x54905cce4b7df981:0xc78f158db7ac77a2
+  - name: >-
+      places/ChIJgfl9S85ckFQRonest40Vj8c/reviews/ChZDSUhNMG9nS0VJQ0FnSUNQbThqbUdBEAE
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        Everything was incredible that I the tempora was light and delicious.
+        The fish was cut perfectly and very fresh and I even tried their
+        tacoyaki which was incredible.
+      languageCode: en
+    originalText:
+      text: >-
+        Everything was incredible that I the tempora was light and delicious.
+        The fish was cut perfectly and very fresh and I even tried their
+        tacoyaki which was incredible.
+      languageCode: en
+    authorAttribution:
+      displayName: John Musumeci
+      uri: https://www.google.com/maps/contrib/117556302935685343410/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUf4cPbMbd5ipEFBaYY8kdKBSEZCrGaO-0vRkbphO1F6cZF6W0Xhg=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-11-28T06:37:19.971206Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNQbThqbUdBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNQbThqbUdBEAE!2m1!1s0x54905cce4b7df981:0xc78f158db7ac77a2
+  - name: >-
+      places/ChIJgfl9S85ckFQRonest40Vj8c/reviews/ChZDSUhNMG9nS0VJQ0FnSUMzbE5UX0tnEAE
+    relativePublishTimeDescription: 6 months ago
+    rating: 5
+    text:
+      text: >-
+        Miyabi is a cozy little sushi place in Southcenter. Prices are about
+        on-par with other sushi places of this quality (so not too cheap really
+        😅). You get what you pay for :) I can tell they really care about their
+        food and customers!
+      languageCode: en
+    originalText:
+      text: >-
+        Miyabi is a cozy little sushi place in Southcenter. Prices are about
+        on-par with other sushi places of this quality (so not too cheap really
+        😅). You get what you pay for :) I can tell they really care about their
+        food and customers!
+      languageCode: en
+    authorAttribution:
+      displayName: Stacey L.
+      uri: https://www.google.com/maps/contrib/106180889044879860604/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWnl6b8Iz1b0jhBKs1L3mqAcraHZsnzlOu1HGl-usn4nl69TYZAIw=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-11-03T03:48:26.416369Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUMzbE5UX0tnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUMzbE5UX0tnEAE!2m1!1s0x54905cce4b7df981:0xc78f158db7ac77a2
+  - name: >-
+      places/ChIJgfl9S85ckFQRonest40Vj8c/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3bC15YmdBRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Really great sushi and super friendly staff. The greater met us at the
+        front with a warm smile and sat us at a table right away. The sushi and
+        sashimi was fantastic and filling. It's our go to place in Tukwilla. My
+        only complaint is the space is really cramped, due to the small size and
+        the parking can be a challenge due to the location. But still very worth
+        it.
+      languageCode: en
+    originalText:
+      text: >-
+        Really great sushi and super friendly staff. The greater met us at the
+        front with a warm smile and sat us at a table right away. The sushi and
+        sashimi was fantastic and filling. It's our go to place in Tukwilla. My
+        only complaint is the space is really cramped, due to the small size and
+        the parking can be a challenge due to the location. But still very worth
+        it.
+      languageCode: en
+    authorAttribution:
+      displayName: R L
+      uri: https://www.google.com/maps/contrib/114222059623681896846/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXulKMHPmlqmJsKe37ItIJbDVAg_efgmfSPMxkJS6V3wd5aszIS=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-03-28T20:22:21.310965Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUR3bC15YmdBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUR3bC15YmdBRRAB!2m1!1s0x54905cce4b7df981:0xc78f158db7ac77a2
+  - name: >-
+      places/ChIJgfl9S85ckFQRonest40Vj8c/reviews/ChZDSUhNMG9nS0VJQ0FnSUNWOXE2V0h3EAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        Totally legit … absolutely delicious.
+
+        James, the Chef, was so on point with the little details that make for a
+        great experience and meal.   The fish and rice were prepared perfectly
+        (and I don’t use that term often).
+
+        The selection of non-traditional fish was excellent and the hand rolls
+        were well balanced and not soggy.  They even had all the ingredients to
+        make an authentic futomaki. This place is definitely worth a trip much
+        less a stop…. You won’t be disappointed.
+      languageCode: en
+    originalText:
+      text: >-
+        Totally legit … absolutely delicious.
+
+        James, the Chef, was so on point with the little details that make for a
+        great experience and meal.   The fish and rice were prepared perfectly
+        (and I don’t use that term often).
+
+        The selection of non-traditional fish was excellent and the hand rolls
+        were well balanced and not soggy.  They even had all the ingredients to
+        make an authentic futomaki. This place is definitely worth a trip much
+        less a stop…. You won’t be disappointed.
+      languageCode: en
+    authorAttribution:
+      displayName: QuietBark
+      uri: https://www.google.com/maps/contrib/116416277271724651208/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVLE-8AaM_TWG4BraGrdoFddobrDdpWGB-4dEBzwShPAoNU1TYuzA=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-01-25T01:53:33.731286Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNWOXE2V0h3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNWOXE2V0h3EAE!2m1!1s0x54905cce4b7df981:0xc78f158db7ac77a2
+review_summary: >-
+  What Customers Are Buzzing About$$$Folks rave about the fresh and flavorful
+  sushi at this spot, noting how the variety keeps things exciting without
+  breaking the bank. Many appreciate the friendly service that makes dining feel
+  welcoming and attentive, turning meals into enjoyable experiences even in a
+  cozy space. While some mention the parking and seating can get a bit tight
+  during peak times, it's generally seen as a minor trade-off for the delicious
+  bento boxes and sashimi that hit the spot just right. Overall, visitors find
+  it a solid pick for groups or families looking for reliable Japanese fare,
+  with the balance of quality and affordability drawing in repeat crowds. If
+  you're hunting for sushi places near me that deliver on taste and value, this
+  location often leaves people satisfied and eager to return for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
 allow_dogs: null
-curbside_pickup: null
+curbside_pickup: false
 delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: true
 outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+reservable: false
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Located in a strip mall, this Japanese fixture prepares creative sushi & other
+  kitchen-cooked fare.
 
 ---

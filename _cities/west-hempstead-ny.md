@@ -5,4 +5,5 @@ permalink: /new-york/west-hempstead/
 stateAbbr: NY
 stateName: New York
 cityName: West Hempstead
+
 ---

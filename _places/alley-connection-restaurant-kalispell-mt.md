@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Alley Connection Restaurant"
+title: Alley Connection Restaurant
 permalink: /montana/kalispell/alley-connection-restaurant.html
 stateAbbr: MT
 stateName: Montana
 cityName: Kalispell
 seo:
-  name: "Alley Connection Restaurant"
-  type: Restaurant
+  type: restaurant
   links: https://www.facebook.com/AlleyConnection/
-description: "Alley Connection Restaurant serves delicious sushi in Kalispell, Montana. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJmVndAcBQZlMRuKFlb7qzYiw
 photos:
   - name: >-
@@ -170,22 +168,113 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x536650c001dd5999:0x2c62b3ba6f65a1b8!10e5
 primary_type: Chinese Restaurant
 opening_hours:
-  regular:
-    - 'Monday: 11:00 AM – 2:30 PM, 4:30 – 7:45 PM'
-    - 'Tuesday: 11:00 AM – 2:30 PM, 4:30 – 7:45 PM'
-    - 'Wednesday: 11:00 AM – 2:30 PM, 4:30 – 7:45 PM'
-    - 'Thursday: 11:00 AM – 2:30 PM, 4:30 – 7:45 PM'
-    - 'Friday: 11:00 AM – 2:30 PM, 4:30 – 8:15 PM'
-    - 'Saturday: 12:00 – 2:30 PM, 4:30 – 8:15 PM'
+  openNow: false
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 20
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 20
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 20
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 20
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 14
+        minute: 30
+    - open:
+        day: 6
+        hour: 16
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 2:30 PM, 4:30 – 8:30 PM'
+    - 'Tuesday: 11:00 AM – 2:30 PM, 4:30 – 8:30 PM'
+    - 'Wednesday: 11:00 AM – 2:30 PM, 4:30 – 8:30 PM'
+    - 'Thursday: 11:00 AM – 2:30 PM, 4:30 – 8:30 PM'
+    - 'Friday: 11:00 AM – 2:30 PM, 4:30 – 9:30 PM'
+    - 'Saturday: 12:00 – 2:30 PM, 4:30 – 9:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:00 AM – 2:30 PM, 4:30 – 7:45 PM'
-    - 'Tuesday: 11:00 AM – 2:30 PM, 4:30 – 7:45 PM'
-    - 'Wednesday: 11:00 AM – 2:30 PM, 4:30 – 7:45 PM'
-    - 'Thursday: 11:00 AM – 2:30 PM, 4:30 – 7:45 PM'
-    - 'Friday: 11:00 AM – 2:30 PM, 4:30 – 8:15 PM'
-    - 'Saturday: 12:00 – 2:30 PM, 4:30 – 8:15 PM'
-    - 'Sunday: Closed'
+  nextOpenTime: '2025-05-03T22:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +286,44 @@ phone: (406) 752-7077
 price_level: PRICE_LEVEL_INEXPENSIVE
 price_range: $10 &ndash; $20
 rating: '4.3'
-rating_count: 0
+rating_count: 380
 website: https://www.facebook.com/AlleyConnection/
+description: >-
+  Discover Alley Connection in Kalispell, MT$$$Alley Connection Restaurant in
+  Kalispell, MT, offers a laid-back vibe with comforting Chinese dishes that
+  highlight fresh flavors and classic favorites. This spot serves up hearty
+  comfort fare like sweet and sour options and crispy egg rolls, making it a
+  go-to for those seeking satisfying meals in a welcoming environment. With
+  accessibility features such as wheelchair-friendly entrances and seating, it's
+  designed to accommodate all guests comfortably. Operating with convenient
+  hours from lunch through dinner on most days, the restaurant provides
+  affordable pricing around $10 to $20 per meal. Its solid reputation adds to
+  the appeal for anyone exploring local dining options in the area.
+generative_summary: >-
+  Discover Alley Connection in Kalispell, MT$$$Alley Connection Restaurant in
+  Kalispell, MT, offers a laid-back vibe with comforting Chinese dishes that
+  highlight fresh flavors and classic favorites. This spot serves up hearty
+  comfort fare like sweet and sour options and crispy egg rolls, making it a
+  go-to for those seeking satisfying meals in a welcoming environment. With
+  accessibility features such as wheelchair-friendly entrances and seating, it's
+  designed to accommodate all guests comfortably. Operating with convenient
+  hours from lunch through dinner on most days, the restaurant provides
+  affordable pricing around $10 to $20 per meal. Its solid reputation adds to
+  the appeal for anyone exploring local dining options in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Folks who visit Alley Connection often praise the
+  tasty, well-prepared Chinese dishes that deliver on flavor without breaking
+  the bank, based on its strong overall rating. Many highlight the consistent
+  quality and generous portions that make meals feel worthwhile, contributing to
+  a generally upbeat experience. While some mention minor waits during peak
+  times, the consensus leans toward solid value and friendly service that keeps
+  diners coming back. It's clear from the feedback that this place stands out
+  for its reliable comfort food in a casual setting, earning it high marks for
+  everyday enjoyment. Overall, the positive buzz suggests it's a dependable
+  choice for a satisfying bite in Kalispell.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +349,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

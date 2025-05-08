@@ -5,4 +5,5 @@ permalink: /idaho/idaho-falls/
 stateAbbr: ID
 stateName: Idaho
 cityName: Idaho Falls
+
 ---

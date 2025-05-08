@@ -5,4 +5,5 @@ permalink: /illinois/arlington-heights/
 stateAbbr: IL
 stateName: Illinois
 cityName: Arlington Heights
+
 ---

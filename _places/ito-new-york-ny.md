@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "ITO"
+title: ITO
 permalink: /new-york/new-york/ito.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "ITO"
-  type: Restaurant
+  type: restaurant
   links: https://itotribeca.com/
-description: "ITO serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for, and dinner."
 place_id: ChIJiW_7kM9bwokR9qMrG4XITL8
 photos:
   - name: >-
@@ -184,6 +182,33 @@ price_range: $100 &ndash; & up
 rating: '4.5'
 rating_count: 0
 website: https://itotribeca.com/
+description: >-
+  Discover ITO in New York, NY$$$ITO in New York, NY, stands out as a trendy
+  Japanese restaurant offering an exceptional omakase menu that highlights fresh
+  sushi and sashimi, paired with a selection of sake and wine. This intimate
+  spot captures the essence of authentic Japanese dining with its carefully
+  curated courses that emphasize high-quality ingredients and innovative
+  flavors, making it a go-to for sushi enthusiasts exploring the best options
+  near you. The ambiance combines modern elegance with a welcoming vibe, perfect
+  for those seeking top-rated sushi restaurants in a bustling city like New
+  York. Accessibility features add to the appeal, ensuring a comfortable visit
+  for many diners. Whether you're looking for sushi places near me or a refined
+  meal, ITO delivers a memorable experience that blends tradition with
+  contemporary style.
+generative_summary: >-
+  Discover ITO in New York, NY$$$ITO in New York, NY, stands out as a trendy
+  Japanese restaurant offering an exceptional omakase menu that highlights fresh
+  sushi and sashimi, paired with a selection of sake and wine. This intimate
+  spot captures the essence of authentic Japanese dining with its carefully
+  curated courses that emphasize high-quality ingredients and innovative
+  flavors, making it a go-to for sushi enthusiasts exploring the best options
+  near you. The ambiance combines modern elegance with a welcoming vibe, perfect
+  for those seeking top-rated sushi restaurants in a bustling city like New
+  York. Accessibility features add to the appeal, ensuring a comfortable visit
+  for many diners. Whether you're looking for sushi places near me or a refined
+  meal, ITO delivers a memorable experience that blends tradition with
+  contemporary style.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJiW_7kM9bwokR9qMrG4XITL8/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3cGRlT2pBRRAB
@@ -361,6 +386,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURBXzdpWXRnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURBXzdpWXRnRRAB!2m1!1s0x89c25bcf90fb6f89:0xbf4cc8851b2ba3f6
+review_summary: >-
+  Visitor Feedback on ITO$$$Visitors to this sushi spot often rave about the
+  outstanding freshness and variety of the dishes, with many highlighting the
+  expertly prepared omakase courses that leave a lasting impression. Folks
+  appreciate the attentive service and cozy atmosphere, which create a
+  personalized feel even in a lively setting, making it a solid choice for
+  casual or special occasions. Reviews frequently mention the great wine and
+  sake pairings that enhance the overall meal, adding to the fun and relaxed
+  vibe without feeling overly formal. While some note it's a bit of a splurge,
+  the consensus is that the quality justifies the experience, especially if
+  you're hunting for the best sushi near me. Overall, it's a welcoming place
+  that consistently delivers on flavor and hospitality, encouraging repeat
+  visits for anyone craving top-notch Japanese cuisine.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidStreetParking: true
 payment_options:
@@ -391,7 +430,7 @@ serves_lunch: null
 serves_vegetarian_food: false
 serves_wine: true
 takeout: false
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

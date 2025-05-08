@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Fusion 2 Any 1 Sushi & Roll"
+title: Fusion 2 Any 1 Sushi & Roll
 permalink: /california/diamond-bar/fusion-2-any-1-sushi-roll.html
 stateAbbr: CA
 stateName: California
 cityName: Diamond Bar
 seo:
-  name: "Fusion 2 Any 1 Sushi & Roll"
-  type: Restaurant
+  type: restaurant
   links: http://fusion2any1.com/
-description: "Fusion 2 Any 1 Sushi & Roll serves delicious sushi in Diamond Bar, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ63KrFpIsw4AR-svIuexDC-Q
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c32c9216ab72eb:0xe40b43ecb9c8cbfa!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:30 AM – 9:30 PM'
     - 'Wednesday: 11:30 AM – 9:30 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 9:30 PM'
     - 'Saturday: 11:30 AM – 10:00 PM'
     - 'Sunday: 11:30 AM – 9:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:30 AM – 9:30 PM'
-    - 'Wednesday: 11:30 AM – 9:30 PM'
-    - 'Thursday: 11:30 AM – 9:30 PM'
-    - 'Friday: 11:30 AM – 9:30 PM'
-    - 'Saturday: 11:30 AM – 10:00 PM'
-    - 'Sunday: 11:30 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T05:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +238,295 @@ phone: (909) 396-1900
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.4'
-rating_count: 0
+rating_count: 392
 website: http://fusion2any1.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Fusion 2 Any 1 Sushi & Roll in Diamond Bar, CA$$$Fusion 2 Any 1 Sushi
+  & Roll in Diamond Bar, CA, stands out as a welcoming spot for those seeking
+  quality Japanese cuisine in a relaxed setting. This eatery specializes in
+  fresh sushi rolls, bento boxes, and tempura dishes, complemented by a
+  selection of beer and wine to enhance your meal. With its accessible features
+  like wheelchair-friendly entrances and parking, it's designed for everyone to
+  enjoy a comfortable dining experience. The vibrant atmosphere makes it a great
+  choice for casual outings, whether you're in the mood for top-rated sushi or
+  exploring Japanese-inspired flavors close to home. Open hours cater to lunch
+  and dinner crowds, ensuring you can easily find a time that fits your schedule
+  for a satisfying visit.
+generative_summary: >-
+  Discover Fusion 2 Any 1 Sushi & Roll in Diamond Bar, CA$$$Fusion 2 Any 1 Sushi
+  & Roll in Diamond Bar, CA, stands out as a welcoming spot for those seeking
+  quality Japanese cuisine in a relaxed setting. This eatery specializes in
+  fresh sushi rolls, bento boxes, and tempura dishes, complemented by a
+  selection of beer and wine to enhance your meal. With its accessible features
+  like wheelchair-friendly entrances and parking, it's designed for everyone to
+  enjoy a comfortable dining experience. The vibrant atmosphere makes it a great
+  choice for casual outings, whether you're in the mood for top-rated sushi or
+  exploring Japanese-inspired flavors close to home. Open hours cater to lunch
+  and dinner crowds, ensuring you can easily find a time that fits your schedule
+  for a satisfying visit.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ63KrFpIsw4AR-svIuexDC-Q/reviews/ChdDSUhNMG9nS0VJQ0FnTUNvbTRueWtnRRAB
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        WE LOVE THIS PLACE !! 🤘🏻 Finally a fun sushi place with fun 80s
+        music!   Great food every time!! Awesome service from SIMON !!  👌🏻
+
+
+        Really good sushi, ramen, sake, beer…
+
+        Always a fun time ! 😊
+
+
+        Thanks Simon!
+
+        - Z and G
+      languageCode: en
+    originalText:
+      text: >-
+        WE LOVE THIS PLACE !! 🤘🏻 Finally a fun sushi place with fun 80s
+        music!   Great food every time!! Awesome service from SIMON !!  👌🏻
+
+
+        Really good sushi, ramen, sake, beer…
+
+        Always a fun time ! 😊
+
+
+        Thanks Simon!
+
+        - Z and G
+      languageCode: en
+    authorAttribution:
+      displayName: Adriann Gold
+      uri: https://www.google.com/maps/contrib/109073177525602503981/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjX8Iv-6UwYxLsM9F-ZMLw3F7TvqK9Eke5P2f1i6RCJnAK3HMnc=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-20T04:14:32.459310Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNvbTRueWtnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNvbTRueWtnRRAB!2m1!1s0x80c32c9216ab72eb:0xe40b43ecb9c8cbfa
+  - name: >-
+      places/ChIJ63KrFpIsw4AR-svIuexDC-Q/reviews/ChZDSUhNMG9nS0VJQ0FnSUNMdkxTVExnEAE
+    relativePublishTimeDescription: 10 months ago
+    rating: 5
+    text:
+      text: >-
+        I hadn't seen one of my cousins for a long while, and he recommended
+        this place.
+
+
+        The atmosphere here is awesome. There’s an old phone booth outside—haha,
+        I haven't seen one of those in ages.
+
+
+        The inside is huge, with a very nicely decorated frog placed right at
+        the front.
+
+
+        The greeting was extremely welcoming, and the service was nice.  They
+        check on you every now and then but definitely don't overdo it like most
+        restaurants. Also, they don’t try to clear your plates while you are
+        eating, which is common in many places. The tables are pretty big, so
+        you can easily move your plate to the side.
+
+
+        The food was delicious, with lots of different rolls to choose from.
+        Some are classic, and some are special rolls unique to this restaurant.
+
+
+        They also have noodles, rice dishes, and much more. We ordered lots of
+        rolls but definitely want to come back and try some of their other
+        dishes in the future.
+
+
+        It feels like eating at home here. Maybe it’s the atmosphere or the
+        other customers; we noticed nearly every customer is a family group with
+        little ones.
+
+
+        It's a very family-friendly restaurant.
+      languageCode: en
+    originalText:
+      text: >-
+        I hadn't seen one of my cousins for a long while, and he recommended
+        this place.
+
+
+        The atmosphere here is awesome. There’s an old phone booth outside—haha,
+        I haven't seen one of those in ages.
+
+
+        The inside is huge, with a very nicely decorated frog placed right at
+        the front.
+
+
+        The greeting was extremely welcoming, and the service was nice.  They
+        check on you every now and then but definitely don't overdo it like most
+        restaurants. Also, they don’t try to clear your plates while you are
+        eating, which is common in many places. The tables are pretty big, so
+        you can easily move your plate to the side.
+
+
+        The food was delicious, with lots of different rolls to choose from.
+        Some are classic, and some are special rolls unique to this restaurant.
+
+
+        They also have noodles, rice dishes, and much more. We ordered lots of
+        rolls but definitely want to come back and try some of their other
+        dishes in the future.
+
+
+        It feels like eating at home here. Maybe it’s the atmosphere or the
+        other customers; we noticed nearly every customer is a family group with
+        little ones.
+
+
+        It's a very family-friendly restaurant.
+      languageCode: en
+    authorAttribution:
+      displayName: Steven Jin
+      uri: https://www.google.com/maps/contrib/111188134646686351407/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWjqMhR3qe1OzU-UwIeJdc099WlHhGSfB6bFTH8ObuB33u6t-o=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-06-16T16:40:39.215789Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNMdkxTVExnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNMdkxTVExnEAE!2m1!1s0x80c32c9216ab72eb:0xe40b43ecb9c8cbfa
+  - name: >-
+      places/ChIJ63KrFpIsw4AR-svIuexDC-Q/reviews/ChZDSUhNMG9nS0VJQ0FnSURqZ2Z5dGZBEAE
+    relativePublishTimeDescription: 12 months ago
+    rating: 5
+    text:
+      text: >-
+        I really enjoyed the fresh and delicious sushi and sashimi. The sushi
+        rice was perfectly seasoned, and the sashimi had an amazing texture.
+        Also, the broth of the jjamppong and jjajangmyeon was rich and
+        flavorful, truly excellent. The owner was also very friendly; it was an
+        all-around perfect restaurant.
+      languageCode: en
+    originalText:
+      text: >-
+        I really enjoyed the fresh and delicious sushi and sashimi. The sushi
+        rice was perfectly seasoned, and the sashimi had an amazing texture.
+        Also, the broth of the jjamppong and jjajangmyeon was rich and
+        flavorful, truly excellent. The owner was also very friendly; it was an
+        all-around perfect restaurant.
+      languageCode: en
+    authorAttribution:
+      displayName: ChaCha “moody” Yoo
+      uri: https://www.google.com/maps/contrib/104499797677987330222/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjW_IvjjPkYneozkohcrjVIZwZdFC2PrPc1az1EctU8f7amIPQQ=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-05-03T22:31:02.581Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURqZ2Z5dGZBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURqZ2Z5dGZBEAE!2m1!1s0x80c32c9216ab72eb:0xe40b43ecb9c8cbfa
+  - name: >-
+      places/ChIJ63KrFpIsw4AR-svIuexDC-Q/reviews/ChdDSUhNMG9nS0VJQ0FnSURwaHRQQ3lnRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        The food was great. The place was so cute. The waiter peter was so
+        friendly. The whole experience was great. We are definitely going back
+        there soon
+      languageCode: en
+    originalText:
+      text: >-
+        The food was great. The place was so cute. The waiter peter was so
+        friendly. The whole experience was great. We are definitely going back
+        there soon
+      languageCode: en
+    authorAttribution:
+      displayName: ricardo assaad
+      uri: https://www.google.com/maps/contrib/113534461272396378230/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWW8LBi6_Q3GxmWY55gpcR2BbayZVD27lrImCTacFhNOfa88gif=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2023-08-20T21:21:08.069597Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURwaHRQQ3lnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURwaHRQQ3lnRRAB!2m1!1s0x80c32c9216ab72eb:0xe40b43ecb9c8cbfa
+  - name: >-
+      places/ChIJ63KrFpIsw4AR-svIuexDC-Q/reviews/ChdDSUhNMG9nS0VJQ0FnSUN3OXB6N3JnRRAB
+    relativePublishTimeDescription: 7 years ago
+    rating: 5
+    text:
+      text: >-
+        First time meeting the owner of the sushi restaurant. The price was good
+        plus the drink is included, if you get the AYCE sushi.The food was great
+        and delicious! Especially the baked mussels!!  Definitely bringing more
+        friends here. Thanks you Simon for the great food! :)
+      languageCode: en
+    originalText:
+      text: >-
+        First time meeting the owner of the sushi restaurant. The price was good
+        plus the drink is included, if you get the AYCE sushi.The food was great
+        and delicious! Especially the baked mussels!!  Definitely bringing more
+        friends here. Thanks you Simon for the great food! :)
+      languageCode: en
+    authorAttribution:
+      displayName: Nicole Fong
+      uri: https://www.google.com/maps/contrib/113946037227924847241/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWMBfwp-Jj4Xh28tSPi4YhF_d9k6WQipIKfz-Tzrxh0Ou7fs5JL=s128-c0x00000000-cc-rp-mo
+    publishTime: '2017-12-18T22:48:38.878Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN3OXB6N3JnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN3OXB6N3JnRRAB!2m1!1s0x80c32c9216ab72eb:0xe40b43ecb9c8cbfa
+review_summary: >-
+  Insights from Recent Feedback on This Sushi Spot$$$Visitors often rave about
+  the fresh and flavorful sushi options, highlighting how the variety keeps
+  things exciting for repeat trips. Many appreciate the family-friendly vibe and
+  welcoming service that make dining here feel relaxed and enjoyable, without
+  any pressure. Feedback frequently mentions the delicious rolls and other
+  dishes like ramen, noting that the overall experience balances quality with
+  affordability. While some comments touch on the fun atmosphere with music and
+  decor, folks generally agree it's a solid pick for groups or casual meals. If
+  you're hunting for reliable sushi places nearby, this spot delivers on taste
+  and atmosphere, making it a go-to for those who love a good meal with friends
+  or family.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
 good_for_sports: null
-live_music: null
+live_music: false
 menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
 serves_breakfast: null
 serves_brunch: null
-serves_cocktails: null
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

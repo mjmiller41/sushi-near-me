@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Raku Hibachi & Sushi"
+title: Raku Hibachi & Sushi
 permalink: /pennsylvania/parkesburg/raku-hibachi-sushi.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Parkesburg
 seo:
-  name: "Raku Hibachi & Sushi"
-  type: Restaurant
-  links: null
-description: "Raku Hibachi & Sushi serves delicious sushi in Parkesburg, Pennsylvania. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://raku5667.com/?utm_source=gmb&utm_medium=referral
 place_id: ChIJS6MgNadFxokR8x76blQuODM
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c645a73520a34b:0x33382e546efa1ef3!10e5
 primary_type: Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:30 PM'
+    - 'Tuesday: 11:00 AM – 9:30 PM'
+    - 'Wednesday: 11:00 AM – 9:30 PM'
+    - 'Thursday: 11:00 AM – 9:30 PM'
+    - 'Friday: 11:00 AM – 10:30 PM'
+    - 'Saturday: 11:00 AM – 10:30 PM'
+    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,50 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (484) 712-5667
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.4'
+rating_count: 312
+website: http://raku5667.com/?utm_source=gmb&utm_medium=referral
+description: >-
+  Explore Raku Hibachi & Sushi in Parkesburg, PA$$$Raku Hibachi & Sushi in
+  Parkesburg, PA, stands out as a welcoming Japanese eatery specializing in
+  fresh sushi and flavorful hibachi dishes that cater to a variety of tastes.
+  This spot emphasizes accessibility with features like wheelchair-friendly
+  parking and entrances, making it easy for everyone to enjoy a casual dining
+  experience. Diners can savor a range of options, including vegan and
+  vegetarian choices, all prepared in a relaxed atmosphere that highlights
+  authentic flavors and creative presentations. The restaurant's moderate
+  pricing and extended hours add to its appeal for those seeking reliable sushi
+  spots nearby, ensuring a satisfying meal whether you're stopping by for lunch
+  or dinner.
+generative_summary: >-
+  Explore Raku Hibachi & Sushi in Parkesburg, PA$$$Raku Hibachi & Sushi in
+  Parkesburg, PA, stands out as a welcoming Japanese eatery specializing in
+  fresh sushi and flavorful hibachi dishes that cater to a variety of tastes.
+  This spot emphasizes accessibility with features like wheelchair-friendly
+  parking and entrances, making it easy for everyone to enjoy a casual dining
+  experience. Diners can savor a range of options, including vegan and
+  vegetarian choices, all prepared in a relaxed atmosphere that highlights
+  authentic flavors and creative presentations. The restaurant's moderate
+  pricing and extended hours add to its appeal for those seeking reliable sushi
+  spots nearby, ensuring a satisfying meal whether you're stopping by for lunch
+  or dinner.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback on Raku Hibachi & Sushi$$$Folks around Parkesburg seem to
+  really enjoy this sushi spot, with many highlighting the tasty rolls and
+  hibachi grills that keep things exciting and flavorful. Comments often praise
+  the friendly service and solid variety of options, making it a go-to for
+  groups or anyone craving top-rated Japanese fare close to home. While some
+  mention minor waits during busy times, the overall vibe comes across as
+  welcoming and worth the visit, especially for fresh ingredients that hit the
+  spot. It's clear from the buzz that this place delivers a solid experience for
+  sushi lovers, blending casual fun with honest value that leaves most patrons
+  smiling and satisfied.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +311,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

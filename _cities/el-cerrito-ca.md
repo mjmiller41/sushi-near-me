@@ -5,4 +5,5 @@ permalink: /california/el-cerrito/
 stateAbbr: CA
 stateName: California
 cityName: El Cerrito
+
 ---

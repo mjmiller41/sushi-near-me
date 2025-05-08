@@ -5,4 +5,5 @@ permalink: /minnesota/st-cloud/
 stateAbbr: MN
 stateName: Minnesota
 cityName: St Cloud
+
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ling's Bistro"
+title: Ling's Bistro
 permalink: /kansas/topeka/ling-s-bistro.html
 stateAbbr: KS
 stateName: Kansas
 cityName: Topeka
 seo:
-  name: "Ling's Bistro"
-  type: Restaurant
+  type: restaurant
   links: https://www.lingsbistroks.com/
-description: "Ling's Bistro serves delicious sushi in Topeka, Kansas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJRbyRtxD9vocRg5xrhgnMmYM
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x87befd10b791bc45:0x8399cc09866b9c83!10e5
 primary_type: Chinese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 10:00 PM'
     - 'Tuesday: Closed'
     - 'Wednesday: 11:00 AM – 10:00 PM'
@@ -178,28 +226,177 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:00 PM'
     - 'Saturday: 11:00 AM – 10:00 PM'
     - 'Sunday: 11:30 AM – 9:30 PM'
-  current:
-    - 'Monday: 11:00 AM – 10:00 PM'
-    - 'Tuesday: Closed'
-    - 'Wednesday: 11:00 AM – 10:00 PM'
-    - 'Thursday: 11:00 AM – 10:00 PM'
-    - 'Friday: 11:00 AM – 10:00 PM'
-    - 'Saturday: 11:00 AM – 10:00 PM'
-    - 'Sunday: 11:30 AM – 9:30 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 11
+          minute: 30
+        close:
+          day: 0
+          hour: 21
+          minute: 30
+      - open:
+          day: 1
+          hour: 11
+          minute: 0
+        close:
+          day: 1
+          hour: 22
+          minute: 0
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 22
+          minute: 0
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 22
+          minute: 0
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 22
+          minute: 0
+      - open:
+          day: 6
+          hour: 11
+          minute: 0
+        close:
+          day: 6
+          hour: 22
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 11:00 AM – 10:00 PM'
+      - 'Tuesday: Closed'
+      - 'Wednesday: 11:00 AM – 10:00 PM'
+      - 'Thursday: 11:00 AM – 10:00 PM'
+      - 'Friday: 11:00 AM – 10:00 PM'
+      - 'Saturday: 11:00 AM – 10:00 PM'
+      - 'Sunday: 11:30 AM – 9:30 PM'
+    secondaryHoursType: DELIVERY
+    nextCloseTime: '2025-05-04T03:00:00Z'
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 11
+          minute: 30
+        close:
+          day: 0
+          hour: 21
+          minute: 15
+      - open:
+          day: 1
+          hour: 11
+          minute: 0
+        close:
+          day: 1
+          hour: 21
+          minute: 45
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 21
+          minute: 45
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 45
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 22
+          minute: 0
+      - open:
+          day: 6
+          hour: 11
+          minute: 0
+        close:
+          day: 6
+          hour: 22
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 11:00 AM – 9:45 PM'
+      - 'Tuesday: Closed'
+      - 'Wednesday: 11:00 AM – 9:45 PM'
+      - 'Thursday: 11:00 AM – 9:45 PM'
+      - 'Friday: 11:00 AM – 10:00 PM'
+      - 'Saturday: 11:00 AM – 10:00 PM'
+      - 'Sunday: 11:30 AM – 9:15 PM'
+    secondaryHoursType: TAKEOUT
+    nextCloseTime: '2025-05-04T03:00:00Z'
 phone: (785) 271-0050
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.1'
-rating_count: 0
+rating_count: 444
 website: https://www.lingsbistroks.com/
+description: >-
+  Discover Ling's Bistro in Topeka, KS$$$Ling's Bistro in Topeka, KS, stands out
+  as a casual spot offering a mix of classic Chinese flavors and fresh sushi
+  options, making it a great choice for those seeking diverse Asian cuisine
+  nearby. This welcoming restaurant features an array of dishes prepared with
+  care, including flavorful stir-fries and hand-rolled sushi that appeal to both
+  locals and visitors looking for authentic tastes. Accessibility is a key
+  highlight, with wheelchair-friendly parking, entrances, restrooms, and seating
+  ensuring everyone can enjoy a comfortable meal. Operating from late morning
+  into the evening most days, it's ideal for lunch or dinner outings, with
+  moderately priced options around $10 to $20 that fit various budgets. Whether
+  you're exploring top-rated sushi places in the area or craving hearty Chinese
+  fare, this bistro combines quality ingredients and a relaxed vibe for a
+  satisfying dining experience.
+generative_summary: >-
+  Discover Ling's Bistro in Topeka, KS$$$Ling's Bistro in Topeka, KS, stands out
+  as a casual spot offering a mix of classic Chinese flavors and fresh sushi
+  options, making it a great choice for those seeking diverse Asian cuisine
+  nearby. This welcoming restaurant features an array of dishes prepared with
+  care, including flavorful stir-fries and hand-rolled sushi that appeal to both
+  locals and visitors looking for authentic tastes. Accessibility is a key
+  highlight, with wheelchair-friendly parking, entrances, restrooms, and seating
+  ensuring everyone can enjoy a comfortable meal. Operating from late morning
+  into the evening most days, it's ideal for lunch or dinner outings, with
+  moderately priced options around $10 to $20 that fit various budgets. Whether
+  you're exploring top-rated sushi places in the area or craving hearty Chinese
+  fare, this bistro combines quality ingredients and a relaxed vibe for a
+  satisfying dining experience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Sharing$$$Visitors often praise the delicious food at this
+  spot, highlighting generous portions and reasonable prices that make every
+  meal feel like a great value. The service stands out for being quick and
+  friendly, helping to create a welcoming atmosphere that keeps people coming
+  back for more. Many appreciate the convenience of delivery options, allowing
+  them to enjoy favorites without leaving home, which adds to the overall ease
+  of ordering. While the majority of feedback focuses on positive experiences
+  with flavorful dishes, some mention occasional inconsistencies in quality that
+  might vary by visit. All in all, it's a solid choice for anyone hunting for
+  reliable Asian eats, offering a mix of hits that generally leave diners
+  satisfied and eager to return.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +422,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

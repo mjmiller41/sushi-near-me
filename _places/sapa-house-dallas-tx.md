@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sapa House"
+title: Sapa House
 permalink: /texas/dallas/sapa-house.html
 stateAbbr: TX
 stateName: Texas
 cityName: Dallas
 seo:
-  name: "Sapa House"
-  type: Restaurant
+  type: restaurant
   links: https://www.ordersapahousedallas.com/
-description: "Sapa House serves delicious sushi in Dallas, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJhQE8TR-ZToYRsF0rtTyJEmQ
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x864e991f4d3c0185:0x6412893cb52b5db0!10e5
 primary_type: Vietnamese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 10:00 PM'
     - 'Tuesday: 11:00 AM – 10:00 PM'
     - 'Wednesday: 11:00 AM – 10:00 PM'
@@ -178,28 +234,118 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:00 PM'
     - 'Saturday: 12:00 – 10:00 PM'
     - 'Sunday: 12:00 – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 10:00 PM'
-    - 'Tuesday: 11:00 AM – 10:00 PM'
-    - 'Wednesday: 11:00 AM – 10:00 PM'
-    - 'Thursday: 11:00 AM – 10:00 PM'
-    - 'Friday: 11:00 AM – 10:00 PM'
-    - 'Saturday: 12:00 – 10:00 PM'
-    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 15
+          minute: 0
+        close:
+          day: 0
+          hour: 19
+          minute: 0
+      - open:
+          day: 1
+          hour: 15
+          minute: 0
+        close:
+          day: 1
+          hour: 23
+          minute: 0
+      - open:
+          day: 2
+          hour: 15
+          minute: 0
+        close:
+          day: 2
+          hour: 23
+          minute: 0
+      - open:
+          day: 3
+          hour: 15
+          minute: 0
+        close:
+          day: 3
+          hour: 23
+          minute: 0
+      - open:
+          day: 4
+          hour: 15
+          minute: 0
+        close:
+          day: 4
+          hour: 19
+          minute: 0
+      - open:
+          day: 5
+          hour: 15
+          minute: 0
+        close:
+          day: 5
+          hour: 19
+          minute: 0
+      - open:
+          day: 6
+          hour: 15
+          minute: 0
+        close:
+          day: 6
+          hour: 19
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 3:00 – 11:00 PM'
+      - 'Tuesday: 3:00 – 11:00 PM'
+      - 'Wednesday: 3:00 – 11:00 PM'
+      - 'Thursday: 3:00 – 7:00 PM'
+      - 'Friday: 3:00 – 7:00 PM'
+      - 'Saturday: 3:00 – 7:00 PM'
+      - 'Sunday: 3:00 – 7:00 PM'
+    secondaryHoursType: HAPPY_HOUR
+    nextCloseTime: '2025-05-04T00:00:00Z'
 phone: (214) 748-0746
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.3'
-rating_count: 0
+rating_count: 981
 website: https://www.ordersapahousedallas.com/
+description: >-
+  Experience Sapa House in Dallas, TX$$$Sapa House in Dallas, TX, stands out as
+  a welcoming Vietnamese restaurant that blends traditional flavors with modern
+  twists, making it a great spot for those seeking sushi restaurants in the
+  area. The menu features fresh Vietnamese dishes like pho and ramen,
+  complemented by a selection of sushi options that highlight quality
+  ingredients in an easygoing atmosphere. Visitors can enjoy happy hour specials
+  that add value to the dining experience, perfect for casual meetups or solo
+  outings. With accessibility features ensuring everyone feels included, this
+  spot caters to a variety of tastes while maintaining a relaxed vibe that
+  encourages repeat visits.
+generative_summary: >-
+  Experience Sapa House in Dallas, TX$$$Sapa House in Dallas, TX, stands out as
+  a welcoming Vietnamese restaurant that blends traditional flavors with modern
+  twists, making it a great spot for those seeking sushi restaurants in the
+  area. The menu features fresh Vietnamese dishes like pho and ramen,
+  complemented by a selection of sushi options that highlight quality
+  ingredients in an easygoing atmosphere. Visitors can enjoy happy hour specials
+  that add value to the dining experience, perfect for casual meetups or solo
+  outings. With accessibility features ensuring everyone feels included, this
+  spot caters to a variety of tastes while maintaining a relaxed vibe that
+  encourages repeat visits.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What People Are Saying About Sapa House$$$Feedback from diners highlights the
+  solid overall experience at this spot, with many appreciating the tasty mix of
+  Vietnamese and sushi-inspired dishes that hit the mark for flavor and
+  freshness. Folks often note the friendly service and reasonable prices, making
+  it a go-to choice for groups or quick meals without breaking the bank. While
+  some mention occasional waits during peak times, the general consensus leans
+  positive, praising the welcoming environment and solid portions that leave you
+  satisfied. If you're on the hunt for top-rated sushi places nearby, this
+  location seems to deliver reliably good vibes and meals that keep customers
+  coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +371,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Osaka Fire Japanese Steakhouse & Seafood"
+title: Osaka Fire Japanese Steakhouse & Seafood
 permalink: /texas/odessa/osaka-fire-japanese-steakhouse-seafood.html
 stateAbbr: TX
 stateName: Texas
 cityName: Odessa
 seo:
-  name: "Osaka Fire Japanese Steakhouse & Seafood"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Osaka Fire Japanese Steakhouse & Seafood serves delicious sushi in Odessa, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ6W8qZr3P-4YR7t0DDBU8iGA
 photos:
   - name: >-
@@ -185,7 +183,48 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  About Osaka Fire Japanese Steakhouse & Seafood in Odessa, TX$$$Osaka Fire
+  Japanese Steakhouse & Seafood in Odessa, TX, offers a vibrant dining
+  experience centered around fresh sushi, hibachi entrees, and teppanyaki dishes
+  in a contemporary setting that appeals to sushi enthusiasts. The menu
+  highlights expertly prepared seafood and grilled specialties, making it a
+  go-to spot for those seeking authentic Japanese flavors in a welcoming
+  atmosphere. With its modern design and attention to detail, this restaurant
+  provides an ideal venue for enjoying flavorful meals that blend tradition with
+  innovation. Accessibility features ensure a comfortable visit for all guests,
+  enhancing the overall appeal of this local favorite. Whether you're exploring
+  sushi options in the area, this place stands out for its commitment to quality
+  and variety.
+generative_summary: >-
+  About Osaka Fire Japanese Steakhouse & Seafood in Odessa, TX$$$Osaka Fire
+  Japanese Steakhouse & Seafood in Odessa, TX, offers a vibrant dining
+  experience centered around fresh sushi, hibachi entrees, and teppanyaki dishes
+  in a contemporary setting that appeals to sushi enthusiasts. The menu
+  highlights expertly prepared seafood and grilled specialties, making it a
+  go-to spot for those seeking authentic Japanese flavors in a welcoming
+  atmosphere. With its modern design and attention to detail, this restaurant
+  provides an ideal venue for enjoying flavorful meals that blend tradition with
+  innovation. Accessibility features ensure a comfortable visit for all guests,
+  enhancing the overall appeal of this local favorite. Whether you're exploring
+  sushi options in the area, this place stands out for its commitment to quality
+  and variety.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Although specific reviews for Osaka Fire aren't
+  available right now, feedback from similar Japanese spots often highlights the
+  excitement of watching skilled chefs at work during hibachi sessions. Diners
+  frequently appreciate the fresh ingredients and tasty sushi rolls that make
+  meals feel both fun and satisfying, with many mentioning the lively vibe as a
+  big plus for groups or families. Overall, people seem to enjoy the balance of
+  entertainment and great food, though it's always smart to check for the latest
+  experiences. This type of restaurant typically earns praise for its
+  approachable prices and quick service, helping it maintain a positive
+  reputation among sushi lovers in the region. If you're hunting for top-rated
+  sushi nearby, it's worth giving this spot a try based on the general buzz
+  around places like it.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +250,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

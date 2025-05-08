@@ -5,4 +5,5 @@ permalink: /west-virginia/hurricane/
 stateAbbr: WV
 stateName: West Virginia
 cityName: Hurricane
+
 ---

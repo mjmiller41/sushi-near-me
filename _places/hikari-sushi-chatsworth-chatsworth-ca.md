@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Hikari Sushi Chatsworth"
+title: Hikari Sushi Chatsworth
 permalink: /california/chatsworth/hikari-sushi-chatsworth.html
 stateAbbr: CA
 stateName: California
 cityName: Chatsworth
 seo:
-  name: "Hikari Sushi Chatsworth"
-  type: Restaurant
+  type: restaurant
   links: http://www.hikarisushichatsworth.com/
-description: "Hikari Sushi Chatsworth serves delicious sushi in Chatsworth, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJZzezjLCcwoARqmIrRjnaHPE
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c29cb08cb33767:0xf11cda39462b62aa!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 10:00 PM'
     - 'Tuesday: 11:30 AM – 10:00 PM'
     - 'Wednesday: 11:30 AM – 10:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 10:00 PM'
     - 'Saturday: 11:30 AM – 10:00 PM'
     - 'Sunday: 11:30 AM – 10:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 10:00 PM'
-    - 'Tuesday: 11:30 AM – 10:00 PM'
-    - 'Wednesday: 11:30 AM – 10:00 PM'
-    - 'Thursday: 11:30 AM – 10:00 PM'
-    - 'Friday: 11:30 AM – 10:00 PM'
-    - 'Saturday: 11:30 AM – 10:00 PM'
-    - 'Sunday: 11:30 AM – 10:00 PM'
+  nextCloseTime: '2025-05-04T05:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +246,47 @@ phone: (818) 998-8080
 price_level: PRICE_LEVEL_MODERATE
 price_range: $30 &ndash; $50
 rating: '4.4'
-rating_count: 0
+rating_count: 1736
 website: http://www.hikarisushichatsworth.com/
+description: >-
+  Discover Hikari Sushi in Chatsworth, CA$$$Hikari Sushi in Chatsworth, CA,
+  stands out as a welcoming sushi restaurant offering a variety of fresh
+  Japanese-inspired dishes in a comfortable setting. The spot features
+  accessible entrances and seating, making it easy for everyone to enjoy a meal,
+  with daily hours that cater to both lunch and dinner crowds. Patrons can savor
+  moderately priced options that highlight creative rolls and classic favorites,
+  all prepared with quality ingredients for a satisfying experience. Located in
+  a vibrant neighborhood, this establishment provides a relaxed atmosphere ideal
+  for casual outings or quick bites of authentic flavors. Whether you're
+  exploring top-rated sushi options nearby, it's a go-to choice for those
+  seeking reliable Japanese cuisine close to home.
+generative_summary: >-
+  Discover Hikari Sushi in Chatsworth, CA$$$Hikari Sushi in Chatsworth, CA,
+  stands out as a welcoming sushi restaurant offering a variety of fresh
+  Japanese-inspired dishes in a comfortable setting. The spot features
+  accessible entrances and seating, making it easy for everyone to enjoy a meal,
+  with daily hours that cater to both lunch and dinner crowds. Patrons can savor
+  moderately priced options that highlight creative rolls and classic favorites,
+  all prepared with quality ingredients for a satisfying experience. Located in
+  a vibrant neighborhood, this establishment provides a relaxed atmosphere ideal
+  for casual outings or quick bites of authentic flavors. Whether you're
+  exploring top-rated sushi options nearby, it's a go-to choice for those
+  seeking reliable Japanese cuisine close to home.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Customer Feedback$$$Folks chatting about Hikari Sushi often
+  highlight the consistently fresh and flavorful rolls that make every visit
+  feel worthwhile, with many appreciating the solid variety that keeps things
+  exciting. There's a common nod to the friendly service and efficient vibe,
+  which helps turn a simple meal into a pleasant escape without any major
+  hiccups. While some mention waits during peak times, the overall consensus
+  leans toward it being a reliable spot for quality sushi that doesn't break the
+  bank. Diners frequently praise the attention to detail in the presentations,
+  adding to the enjoyment of exploring new tastes. If you're on the hunt for
+  solid sushi places around Chatsworth, this one comes through as a
+  crowd-pleaser with its balance of taste and value.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +312,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

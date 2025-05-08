@@ -5,4 +5,5 @@ permalink: /washington/mill-creek/
 stateAbbr: WA
 stateName: Washington
 cityName: Mill Creek
+
 ---

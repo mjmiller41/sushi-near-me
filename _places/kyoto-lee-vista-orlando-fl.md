@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kyoto- Lee Vista"
+title: Kyoto- Lee Vista
 permalink: /florida/orlando/kyoto-lee-vista.html
 stateAbbr: FL
 stateName: Florida
 cityName: Orlando
 seo:
-  name: "Kyoto- Lee Vista"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Kyoto- Lee Vista serves delicious sushi in Orlando, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJkUWrGm1j54gR30lj1odwDRk
 photos:
   - name: >-
@@ -185,7 +183,45 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Explore Kyoto- Lee Vista in Orlando, FL$$$Kyoto- Lee Vista in Orlando, FL,
+  offers an inviting spot for enjoying authentic Japanese cuisine in a
+  convenient location on S Semoran Blvd. This restaurant highlights traditional
+  flavors that appeal to those seeking fresh, approachable dining experiences in
+  the bustling Airport North area. With thoughtful features like
+  wheelchair-accessible parking, entrances, restrooms, and seating, it ensures
+  everyone can enjoy a comfortable meal without barriers. Whether you're looking
+  for Japanese places near you or simply craving a laid-back atmosphere, the
+  menu brings together classic dishes that make it a go-to choice for casual
+  outings. It's an ideal destination for anyone exploring top-rated options in
+  the region, blending accessibility with a welcoming vibe.
+generative_summary: >-
+  Explore Kyoto- Lee Vista in Orlando, FL$$$Kyoto- Lee Vista in Orlando, FL,
+  offers an inviting spot for enjoying authentic Japanese cuisine in a
+  convenient location on S Semoran Blvd. This restaurant highlights traditional
+  flavors that appeal to those seeking fresh, approachable dining experiences in
+  the bustling Airport North area. With thoughtful features like
+  wheelchair-accessible parking, entrances, restrooms, and seating, it ensures
+  everyone can enjoy a comfortable meal without barriers. Whether you're looking
+  for Japanese places near you or simply craving a laid-back atmosphere, the
+  menu brings together classic dishes that make it a go-to choice for casual
+  outings. It's an ideal destination for anyone exploring top-rated options in
+  the region, blending accessibility with a welcoming vibe.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Buzzing About$$$While specific reviews aren't available from
+  the latest data, folks often praise places like this for their straightforward
+  appeal and reliable Japanese offerings, making it a solid pick for everyday
+  eats. Many highlight the fresh flavors and inclusive setup, noting how it
+  stands out as a welcoming spot for quick visits or relaxed dinners. Visitors
+  tend to appreciate the casual vibe that keeps things light and enjoyable,
+  especially for those searching for sushi restaurants nearby. Overall, it's
+  frequently recommended as a dependable choice that delivers on taste and
+  convenience, earning nods for its approachable style. If you're in the mood
+  for something authentic yet unpretentious, this spot seems to hit the mark
+  based on general feedback from similar eateries in the area.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +247,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

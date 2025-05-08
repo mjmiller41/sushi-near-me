@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "En Bistro & Sushi"
+title: En Bistro & Sushi
 permalink: /maryland/potomac/en-bistro-sushi.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Potomac
 seo:
-  name: "En Bistro & Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.enbistro.com/
-description: "En Bistro & Sushi serves delicious sushi in Potomac, Maryland. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJoWGLOqU0tokRoHQiECMaqWc
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $10 &ndash; $20
 rating: '4.2'
 rating_count: 0
 website: http://www.enbistro.com/
+description: >-
+  Discover En Bistro & Sushi in Potomac, Maryland$$$En Bistro & Sushi in
+  Potomac, Maryland, offers a welcoming spot for enjoying a mix of Chinese
+  favorites and diverse sushi options, nestled conveniently in a local shopping
+  center. This sushi restaurant stands out with its comfortable atmosphere,
+  fresh ingredients, and accessible features like wheelchair-friendly parking
+  and seating, making it easy for everyone to savor their meal. Visitors can
+  explore a variety of rolls and dishes that highlight authentic flavors,
+  perfect for those seeking quality Japanese-inspired dining close to home.
+  Whether you're looking for sushi places near me or top-rated options in the
+  area, the menu balances traditional tastes with everyday appeal, ensuring a
+  satisfying experience. With options for delivery and takeout, it's an ideal
+  choice for casual gatherings or quick bites in a relaxed setting.
+generative_summary: >-
+  Discover En Bistro & Sushi in Potomac, Maryland$$$En Bistro & Sushi in
+  Potomac, Maryland, offers a welcoming spot for enjoying a mix of Chinese
+  favorites and diverse sushi options, nestled conveniently in a local shopping
+  center. This sushi restaurant stands out with its comfortable atmosphere,
+  fresh ingredients, and accessible features like wheelchair-friendly parking
+  and seating, making it easy for everyone to savor their meal. Visitors can
+  explore a variety of rolls and dishes that highlight authentic flavors,
+  perfect for those seeking quality Japanese-inspired dining close to home.
+  Whether you're looking for sushi places near me or top-rated options in the
+  area, the menu balances traditional tastes with everyday appeal, ensuring a
+  satisfying experience. With options for delivery and takeout, it's an ideal
+  choice for casual gatherings or quick bites in a relaxed setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJoWGLOqU0tokRoHQiECMaqWc/reviews/ChZDSUhNMG9nS0VJQ0FnSUNMMXQ3SmJnEAE
@@ -342,6 +367,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURmOUtIUjNBRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURmOUtIUjNBRRAB!2m1!1s0x89b634a53a8b61a1:0x67a91a23102274a0
+review_summary: >-
+  What Customers Are Sharing About This Spot$$$Folks often rave about the fresh
+  seafood and flavorful sushi rolls at this local favorite, noting that the
+  dishes bring a delightful mix of tastes that keep diners coming back for more.
+  While some mention that certain items like vegetarian options could use a bit
+  more zest to fully hit the mark, the overall vibe and friendly service make it
+  a solid pick for a laid-back meal. Many appreciate the generous portions and
+  variety, especially for families or groups looking to try something new
+  without the hassle. It's generally seen as a reliable spot for Asian cuisine
+  enthusiasts, with highlights on the appetizers and soups that add a nice touch
+  to the experience. All in all, if you're hunting for sushi restaurants near
+  Potomac, this place delivers a mostly positive vibe that's worth checking out
+  for its approachable vibe and tasty selections.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -373,7 +412,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

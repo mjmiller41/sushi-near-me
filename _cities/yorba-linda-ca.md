@@ -5,4 +5,5 @@ permalink: /california/yorba-linda/
 stateAbbr: CA
 stateName: California
 cityName: Yorba Linda
+
 ---

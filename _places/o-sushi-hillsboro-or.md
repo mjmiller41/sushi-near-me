@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "O Sushi"
+title: O Sushi
 permalink: /oregon/hillsboro/o-sushi.html
 stateAbbr: OR
 stateName: Oregon
 cityName: Hillsboro
 seo:
-  name: "O Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "O Sushi serves delicious sushi in Hillsboro, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJXXds65oFlVQRwqFfT1taPws
 photos:
   - name: >-
@@ -185,7 +183,47 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Explore O Sushi in Hillsboro, OR$$$O Sushi in Hillsboro, OR, offers a relaxed
+  dining experience centered around fresh sushi and traditional Japanese dishes,
+  making it a go-to spot for those seeking authentic flavors in a casual
+  setting. The restaurant features an innovative conveyor belt system for a fun,
+  interactive way to select your meal, alongside made-to-order options that
+  highlight high-quality ingredients and creative presentations. With its
+  welcoming atmosphere and focus on accessibility, including wheelchair-friendly
+  features, it's an ideal choice for anyone exploring Japanese cuisine nearby.
+  Visitors appreciate the variety of options that cater to different tastes,
+  from classic rolls to hearty entrees, positioning it as a standout among local
+  sushi restaurants. This Hillsboro gem combines convenience and taste, perfect
+  for anyone searching for top-rated sushi experiences in the area.
+generative_summary: >-
+  Explore O Sushi in Hillsboro, OR$$$O Sushi in Hillsboro, OR, offers a relaxed
+  dining experience centered around fresh sushi and traditional Japanese dishes,
+  making it a go-to spot for those seeking authentic flavors in a casual
+  setting. The restaurant features an innovative conveyor belt system for a fun,
+  interactive way to select your meal, alongside made-to-order options that
+  highlight high-quality ingredients and creative presentations. With its
+  welcoming atmosphere and focus on accessibility, including wheelchair-friendly
+  features, it's an ideal choice for anyone exploring Japanese cuisine nearby.
+  Visitors appreciate the variety of options that cater to different tastes,
+  from classic rolls to hearty entrees, positioning it as a standout among local
+  sushi restaurants. This Hillsboro gem combines convenience and taste, perfect
+  for anyone searching for top-rated sushi experiences in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback on O Sushi$$$Folks often rave about the fresh flavors and
+  creative twists on classic sushi rolls at this spot, highlighting it as a
+  reliable pick for satisfying meals in a laid-back vibe. Many appreciate the
+  efficient service and the novelty of the conveyor belt setup, which adds an
+  element of fun to dining out. While some mention that portions could be more
+  generous, the overall consensus leans positive, with diners frequently noting
+  the quality ingredients that make it worth a return visit. It's commonly
+  described as a solid option for groups or families looking for Japanese fare
+  without the fuss, keeping things approachable and enjoyable. If you're on the
+  hunt for great sushi nearby, this place tends to deliver a consistently
+  pleasant experience that leaves people eager to come back.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +249,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

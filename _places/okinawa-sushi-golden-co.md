@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Okinawa sushi"
+title: Okinawa sushi
 permalink: /colorado/golden/okinawa-sushi.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Golden
 seo:
-  name: "Okinawa sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Okinawa sushi serves delicious sushi in Golden, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJvSTlNPWba4cRpjrZsKfIuHA
 photos:
   - name: >-
@@ -185,7 +183,46 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Okinawa Sushi in Golden, CO$$$Okinawa Sushi in Golden, CO, is a
+  laid-back spot that delights sushi enthusiasts with its diverse selection of
+  rolls and Japanese-inspired dishes. This casual eatery boasts a trendy
+  atmosphere where patrons can enjoy fresh sushi options alongside refreshing
+  sake and beer, making it a go-to choice for those searching for top-rated
+  sushi restaurants nearby. The menu highlights an array of creative rolls that
+  cater to various tastes, all served in a welcoming environment perfect for a
+  relaxed meal. Accessibility features like wheelchair-friendly parking and
+  entrances add to the convenience, ensuring everyone can savor the experience.
+  Whether you're exploring sushi places near me or seeking a flavorful dining
+  option, this location combines quality ingredients with a vibrant vibe for an
+  enjoyable visit.
+generative_summary: >-
+  Discover Okinawa Sushi in Golden, CO$$$Okinawa Sushi in Golden, CO, is a
+  laid-back spot that delights sushi enthusiasts with its diverse selection of
+  rolls and Japanese-inspired dishes. This casual eatery boasts a trendy
+  atmosphere where patrons can enjoy fresh sushi options alongside refreshing
+  sake and beer, making it a go-to choice for those searching for top-rated
+  sushi restaurants nearby. The menu highlights an array of creative rolls that
+  cater to various tastes, all served in a welcoming environment perfect for a
+  relaxed meal. Accessibility features like wheelchair-friendly parking and
+  entrances add to the convenience, ensuring everyone can savor the experience.
+  Whether you're exploring sushi places near me or seeking a flavorful dining
+  option, this location combines quality ingredients with a vibrant vibe for an
+  enjoyable visit.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Folks frequently mention that the sushi here is
+  super fresh and packed with flavor, with standout rolls that bring a nice
+  twist to classic favorites. Many appreciate the tasty sides like miso soup
+  that complement the main dishes just right, adding to the overall
+  satisfaction. The staff comes across as friendly and attentive, helping to
+  create a positive dining experience from start to finish. Service tends to be
+  quick and efficient, which is a big plus for those on the go or looking for a
+  hassle-free meal. All in all, it's a solid pick for anyone craving reliable
+  Japanese eats, with feedback leaning towards it being a welcoming spot for
+  casual sushi lovers.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +248,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

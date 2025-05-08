@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Pacific Sushi"
+title: Pacific Sushi
 permalink: /idaho/nampa/pacific-sushi.html
 stateAbbr: ID
 stateName: Idaho
 cityName: Nampa
 seo:
-  name: "Pacific Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Pacific Sushi serves delicious sushi in Nampa, Idaho. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJQzleE21MrlQR79_oN4EnL64
 photos:
   - name: >-
@@ -170,22 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x54ae4c6d135e3943:0xae2f278137e8dfef!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 2
+        hour: 12
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 12
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 12
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 12:00 – 9:30 PM'
-    - 'Wednesday: 12:00 – 9:30 PM'
+    - 'Wednesday: 12:00 – 9:00 PM'
     - 'Thursday: 12:00 – 9:30 PM'
     - 'Friday: 11:00 AM – 9:30 PM'
     - 'Saturday: 11:00 AM – 9:30 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 12:00 – 9:30 PM'
-    - 'Wednesday: 12:00 – 9:30 PM'
-    - 'Thursday: 12:00 – 9:30 PM'
-    - 'Friday: 11:00 AM – 9:30 PM'
-    - 'Saturday: 11:00 AM – 9:30 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T03:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +230,221 @@ phone: (208) 467-5737
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '3.9'
-rating_count: 0
+rating_count: 574
 website: null
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Pacific Sushi in Nampa, ID$$$Pacific Sushi in Nampa, ID, stands out
+  as a laid-back destination for those craving authentic Japanese flavors and
+  fresh sushi options. This spot features an inviting all-you-can-eat menu that
+  includes a variety of rolls, alongside selections of beer and wine to
+  complement your meal, making it ideal for casual dining or gathering with
+  friends. With accessibility features like wheelchair-friendly entrances and
+  parking, it's designed to welcome everyone looking for top-rated sushi
+  restaurants in the area. The restaurant's moderate pricing and focus on fresh
+  ingredients create a relaxed vibe for enjoying Japanese cuisine, whether
+  you're searching for sushi places near me or simply wanting a satisfying lunch
+  or dinner outing.
+generative_summary: >-
+  Discover Pacific Sushi in Nampa, ID$$$Pacific Sushi in Nampa, ID, stands out
+  as a laid-back destination for those craving authentic Japanese flavors and
+  fresh sushi options. This spot features an inviting all-you-can-eat menu that
+  includes a variety of rolls, alongside selections of beer and wine to
+  complement your meal, making it ideal for casual dining or gathering with
+  friends. With accessibility features like wheelchair-friendly entrances and
+  parking, it's designed to welcome everyone looking for top-rated sushi
+  restaurants in the area. The restaurant's moderate pricing and focus on fresh
+  ingredients create a relaxed vibe for enjoying Japanese cuisine, whether
+  you're searching for sushi places near me or simply wanting a satisfying lunch
+  or dinner outing.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJQzleE21MrlQR79_oN4EnL64/reviews/ChZDSUhNMG9nS0VJQ0FnTURvMGYzcFNBEAE
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        Amazing sushi! Went there 2 times this week on our visit to Nampa. Best
+        sushi place!
+      languageCode: en
+    originalText:
+      text: >-
+        Amazing sushi! Went there 2 times this week on our visit to Nampa. Best
+        sushi place!
+      languageCode: en
+    authorAttribution:
+      displayName: Tanya Mendakoff
+      uri: https://www.google.com/maps/contrib/116329200048482489381/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWRVJ_rijk6YxAVY1GpbIK6xp2bpL1nspl_7jDccmJ9Wt2Uh1mzvQ=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-25T23:50:53.762379Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURvMGYzcFNBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURvMGYzcFNBEAE!2m1!1s0x54ae4c6d135e3943:0xae2f278137e8dfef
+  - name: >-
+      places/ChIJQzleE21MrlQR79_oN4EnL64/reviews/ChdDSUhNMG9nS0VJQ0FnSUMxLU9mamxBRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 3
+    text:
+      text: >-
+        It is decent and easy to get to the location. The rolls were great and
+        made very quickly. Atmosphere and service was okay. Prices were fairly
+        high considering the product received in comparison to their
+        competitors. Overall, for some quick sushi, that'll do!
+      languageCode: en
+    originalText:
+      text: >-
+        It is decent and easy to get to the location. The rolls were great and
+        made very quickly. Atmosphere and service was okay. Prices were fairly
+        high considering the product received in comparison to their
+        competitors. Overall, for some quick sushi, that'll do!
+      languageCode: en
+    authorAttribution:
+      displayName: Melvado
+      uri: https://www.google.com/maps/contrib/114941070615780973128/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjU2y3Ii6xTZ3a9Shi9VilnL2ELnZXSSu-HRX9HaIfc8rQ2Q6Rpw=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2023-12-26T16:03:24.839651Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMxLU9mamxBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMxLU9mamxBRRAB!2m1!1s0x54ae4c6d135e3943:0xae2f278137e8dfef
+  - name: >-
+      places/ChIJQzleE21MrlQR79_oN4EnL64/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3NlpLbml3RRAB
+    relativePublishTimeDescription: a month ago
+    rating: 1
+    text:
+      text: >-
+        Went mid afternoon. Staff didn't seem to knowledgeable about the menu on
+        the wall, until after they studied it. The wall menu was wrong, both in
+        price and items no longer available.  The cashier,  though nice, wasn't
+        paying attention to the transaction,  as she entered it incorrectly to
+        where I got more cash in return. It's a good thing I am honest. 😯 It's
+        like she had a million other things on her mind and not present for the
+        important business at hand. Not so impressed with this place. Get your
+        wall menu updated!!
+      languageCode: en
+    originalText:
+      text: >-
+        Went mid afternoon. Staff didn't seem to knowledgeable about the menu on
+        the wall, until after they studied it. The wall menu was wrong, both in
+        price and items no longer available.  The cashier,  though nice, wasn't
+        paying attention to the transaction,  as she entered it incorrectly to
+        where I got more cash in return. It's a good thing I am honest. 😯 It's
+        like she had a million other things on her mind and not present for the
+        important business at hand. Not so impressed with this place. Get your
+        wall menu updated!!
+      languageCode: en
+    authorAttribution:
+      displayName: Cecilia Drechsel-Luck
+      uri: https://www.google.com/maps/contrib/110368452612115433884/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWdpohsFySzj8PkWveZfSICV5eDB8JmCOi0S2HSTGhk8loU2mI=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-26T21:08:48.195246Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUR3NlpLbml3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUR3NlpLbml3RRAB!2m1!1s0x54ae4c6d135e3943:0xae2f278137e8dfef
+  - name: >-
+      places/ChIJQzleE21MrlQR79_oN4EnL64/reviews/ChZDSUhNMG9nS0VJQ0FnTURvMnJuMkZnEAE
+    relativePublishTimeDescription: a week ago
+    rating: 2
+    text:
+      text: >-
+        first time we tried this place it was great! went back tonight for a
+        couple rolls and it was such a disappointment compared to the first time
+        we went! the rolls were super small compared to the first time and
+        didn’t look as fresh either. we probably won’t be returning :(
+      languageCode: en
+    originalText:
+      text: >-
+        first time we tried this place it was great! went back tonight for a
+        couple rolls and it was such a disappointment compared to the first time
+        we went! the rolls were super small compared to the first time and
+        didn’t look as fresh either. we probably won’t be returning :(
+      languageCode: en
+    authorAttribution:
+      displayName: ruby robinson
+      uri: https://www.google.com/maps/contrib/112913069424039381307/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVBlcJONDvDTzo6_ZifY0rGMuDO1OB-JM9HMFasocV4hW1aIXXiTg=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-24T01:25:15.405550Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURvMnJuMkZnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURvMnJuMkZnEAE!2m1!1s0x54ae4c6d135e3943:0xae2f278137e8dfef
+  - name: >-
+      places/ChIJQzleE21MrlQR79_oN4EnL64/reviews/ChdDSUhNMG9nS0VJQ0FnSUQzNGE2TTNBRRAB
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        Some of the best sushi I've had in a while very long while. I would
+        recommend the crystal sushi definitely the top of my list
+      languageCode: en
+    originalText:
+      text: >-
+        Some of the best sushi I've had in a while very long while. I would
+        recommend the crystal sushi definitely the top of my list
+      languageCode: en
+    authorAttribution:
+      displayName: Joshua Stueckle
+      uri: https://www.google.com/maps/contrib/109724352836591776490/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVne-yvoIxpQXFcOL7LiW599UN-oF_iQmE7faTMdVkLoO1dfocX=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-11-15T21:25:18.674947Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQzNGE2TTNBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQzNGE2TTNBRRAB!2m1!1s0x54ae4c6d135e3943:0xae2f278137e8dfef
+review_summary: >-
+  What Customers Are Saying$$$Folks often rave about the fresh sushi rolls and
+  the all-you-can-eat deals that make it a fun spot for a casual meal, with many
+  highlighting the quick preparation and tasty options that keep diners coming
+  back. While some mention that prices can feel a bit steep or unclear at times,
+  the overall experience is generally seen as worthwhile for those seeking
+  variety without the fuss. A few visitors note occasional inconsistencies in
+  service or menu details, but the positives like flavorful dishes and a
+  welcoming atmosphere tend to shine through. All in all, it's a solid choice if
+  you're in the mood for Japanese places near me, offering enough highlights to
+  make it worth trying despite minor hiccups. Keep in mind that sticking to the
+  basics can lead to a satisfying visit, helping you decide if it's the best
+  sushi near you.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
+curbside_pickup: false
+delivery: false
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
 menu_for_children: null
-outdoor_seating: null
+outdoor_seating: false
 reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
 serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
+serves_coffee: false
+serves_dinner: true
 serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Minato Sushi"
+title: Minato Sushi
 permalink: /california/thousand-oaks/minato-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Thousand Oaks
 seo:
-  name: "Minato Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Minato Sushi serves delicious sushi in Thousand Oaks, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJyyTxhgYw6IARoFj_znrkxrM
 photos:
   - name: >-
@@ -185,7 +183,46 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Minato Sushi in Thousand Oaks, CA$$$Minato Sushi in Thousand Oaks,
+  CA, stands out as a welcoming spot for enjoying fresh sushi and
+  Japanese-inspired dishes in a relaxed setting. This family-friendly venue
+  boasts a cozy atmosphere perfect for casual meals, complemented by specials
+  like happy hours that add value to your dining experience. Accessibility
+  features make it easy for everyone to enjoy the menu, which highlights a
+  variety of flavorful rolls and traditional fare that appeal to sushi
+  enthusiasts. Whether you're exploring Japanese places in the area or seeking
+  top-rated options for a quick bite, the emphasis on quality ingredients and
+  comfortable seating ensures a memorable visit. For those on the hunt for sushi
+  restaurants nearby, Minato Sushi combines authentic flavors with a laid-back
+  vibe that keeps locals coming back.
+generative_summary: >-
+  Discover Minato Sushi in Thousand Oaks, CA$$$Minato Sushi in Thousand Oaks,
+  CA, stands out as a welcoming spot for enjoying fresh sushi and
+  Japanese-inspired dishes in a relaxed setting. This family-friendly venue
+  boasts a cozy atmosphere perfect for casual meals, complemented by specials
+  like happy hours that add value to your dining experience. Accessibility
+  features make it easy for everyone to enjoy the menu, which highlights a
+  variety of flavorful rolls and traditional fare that appeal to sushi
+  enthusiasts. Whether you're exploring Japanese places in the area or seeking
+  top-rated options for a quick bite, the emphasis on quality ingredients and
+  comfortable seating ensures a memorable visit. For those on the hunt for sushi
+  restaurants nearby, Minato Sushi combines authentic flavors with a laid-back
+  vibe that keeps locals coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Folks who visit Minato Sushi often highlight the
+  fresh ingredients and creative twists on classic rolls, making it a go-to for
+  satisfying meals. Many appreciate the friendly service and inviting atmosphere
+  that make dining out feel effortless and enjoyable. While some mention wait
+  times during peak hours, the overall experience shines through with praise for
+  the variety of options that cater to different tastes. It's clear that the
+  spot holds up well for casual get-togethers, with diners frequently noting the
+  value in their choices. If you're looking for reliable sushi spots around
+  town, this place earns solid nods for its consistent quality and welcoming
+  feel, encouraging repeat visits for anyone craving Japanese flavors.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +248,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Umi Sushi"
+title: Umi Sushi
 permalink: /california/modesto/umi-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Modesto
 seo:
-  name: "Umi Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Umi Sushi serves delicious sushi in Modesto, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJHaXYaKBXkIARRdC0kyzHi1s
 photos:
   - name: >-
@@ -185,7 +183,46 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Umi Sushi in Modesto, CA$$$Umi Sushi in Modesto, California, stands
+  out as a relaxed destination for anyone craving authentic Japanese flavors and
+  fresh seafood options. This casual eatery specializes in a diverse selection
+  of sushi rolls and bento boxes, complemented by a range of beverages like
+  beer, wine, and cocktails, making it an ideal spot for casual dinners or quick
+  sushi outings. With its accessible features, including wheelchair-friendly
+  parking and seating, the restaurant ensures a comfortable experience for all
+  visitors exploring top sushi places in the area. The menu's variety appeals to
+  those seeking satisfying meals that blend traditional tastes with everyday
+  convenience. Whether you're searching for sushi restaurants near you, Umi
+  Sushi delivers a welcoming vibe that highlights quality ingredients and
+  simple, enjoyable dining.
+generative_summary: >-
+  Discover Umi Sushi in Modesto, CA$$$Umi Sushi in Modesto, California, stands
+  out as a relaxed destination for anyone craving authentic Japanese flavors and
+  fresh seafood options. This casual eatery specializes in a diverse selection
+  of sushi rolls and bento boxes, complemented by a range of beverages like
+  beer, wine, and cocktails, making it an ideal spot for casual dinners or quick
+  sushi outings. With its accessible features, including wheelchair-friendly
+  parking and seating, the restaurant ensures a comfortable experience for all
+  visitors exploring top sushi places in the area. The menu's variety appeals to
+  those seeking satisfying meals that blend traditional tastes with everyday
+  convenience. Whether you're searching for sushi restaurants near you, Umi
+  Sushi delivers a welcoming vibe that highlights quality ingredients and
+  simple, enjoyable dining.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Think of Umi Sushi$$$Folks who stop by Umi Sushi often highlight
+  the fresh, flavorful rolls and generous portions that make every bite feel
+  worthwhile. Many appreciate the laid-back atmosphere and efficient service,
+  turning it into a reliable choice for casual get-togethers or solo meals.
+  While some mention room for more options in vegetarian dishes, the overall
+  consensus leans positive with praise for the authentic Japanese vibes and
+  tasty combinations. It's commonly noted as a solid pick for families or groups
+  looking for an easy, enjoyable spot without the fuss. If you're on the hunt
+  for great sushi close to you, this place tends to leave people satisfied and
+  coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +248,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

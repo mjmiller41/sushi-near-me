@@ -5,4 +5,5 @@ permalink: /texas/lakeway/
 stateAbbr: TX
 stateName: Texas
 cityName: Lakeway
+
 ---

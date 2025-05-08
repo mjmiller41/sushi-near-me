@@ -5,4 +5,5 @@ permalink: /new-york/goshen/
 stateAbbr: NY
 stateName: New York
 cityName: Goshen
+
 ---

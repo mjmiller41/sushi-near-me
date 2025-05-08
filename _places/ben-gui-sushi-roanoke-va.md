@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ben Gui Sushi"
+title: Ben Gui Sushi
 permalink: /virginia/roanoke/ben-gui-sushi.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Roanoke
 seo:
-  name: "Ben Gui Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.benguisushi.com/
-description: "Relaxed, stylish Japanese restaurant offering a variety of sushi, plus teriyaki, udon & bento boxes. Ben Gui Sushi serves delicious sushi in Roanoke, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJd66bl8YMTYgRTuemx0gYodE
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 0
 website: http://www.benguisushi.com/
+description: >-
+  Explore Ben Gui Sushi in Roanoke, VA$$$Ben Gui Sushi in Roanoke, VA, stands
+  out as a cozy and informal spot for savoring authentic Japanese flavors,
+  featuring an array of fresh sushi and traditional dishes like teriyaki and
+  bento boxes. This welcoming sushi restaurant emphasizes a wide-ranging menu
+  that caters to various tastes, making it a go-to choice for those seeking
+  quality Japanese cuisine in a relaxed setting. With its accessible features,
+  including wheelchair-friendly options, it ensures everyone can enjoy the
+  experience comfortably. The emphasis on fresh ingredients and a serene
+  ambiance adds to the appeal, ideal for anyone exploring top-rated sushi
+  options nearby. Whether you're in the mood for a casual meal or something more
+  special, this spot delivers a satisfying blend of taste and tranquility.
+generative_summary: >-
+  Explore Ben Gui Sushi in Roanoke, VA$$$Ben Gui Sushi in Roanoke, VA, stands
+  out as a cozy and informal spot for savoring authentic Japanese flavors,
+  featuring an array of fresh sushi and traditional dishes like teriyaki and
+  bento boxes. This welcoming sushi restaurant emphasizes a wide-ranging menu
+  that caters to various tastes, making it a go-to choice for those seeking
+  quality Japanese cuisine in a relaxed setting. With its accessible features,
+  including wheelchair-friendly options, it ensures everyone can enjoy the
+  experience comfortably. The emphasis on fresh ingredients and a serene
+  ambiance adds to the appeal, ideal for anyone exploring top-rated sushi
+  options nearby. Whether you're in the mood for a casual meal or something more
+  special, this spot delivers a satisfying blend of taste and tranquility.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJd66bl8YMTYgRTuemx0gYodE/reviews/ChdDSUhNMG9nS0VJQ0FnSURYa0xQNjdRRRAB
@@ -418,6 +441,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNUMXViSVpBEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNUMXViSVpBEAE!2m1!1s0x884d0cc6979bae77:0xd1a11848c7a6e74e
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors often rave about the exceptional
+  freshness and quality of the sushi at this spot, highlighting it as a standout
+  choice for Japanese dining in the area. Many appreciate the welcoming vibe and
+  attentive service that make every visit feel personal and enjoyable, even for
+  groups or those on a budget. While most experiences are positive, a few
+  mentions of service inconsistencies show room for improvement in handling
+  details like charges. Overall, folks find the menu's variety worth trying,
+  with dishes that consistently impress sushi enthusiasts looking for reliable
+  options close by. If you're searching for great sushi places near Roanoke,
+  this location earns high marks for its flavorful offerings and cozy
+  atmosphere, making it a solid pick for a memorable meal.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -450,8 +486,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Relaxed, stylish Japanese restaurant offering a variety of sushi, plus
   teriyaki, udon & bento boxes.
 

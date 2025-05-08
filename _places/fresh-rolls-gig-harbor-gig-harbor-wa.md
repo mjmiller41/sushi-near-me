@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Fresh Rolls Gig Harbor"
+title: Fresh Rolls Gig Harbor
 permalink: /washington/gig-harbor/fresh-rolls-gig-harbor.html
 stateAbbr: WA
 stateName: Washington
 cityName: Gig Harbor
 seo:
-  name: "Fresh Rolls Gig Harbor"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Fresh Rolls Gig Harbor serves delicious sushi in Gig Harbor, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJiUGd9S1TkFQRFFdzp9XUwcg
 photos:
   - name: >-
@@ -185,7 +183,40 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Explore Fresh Rolls in Gig Harbor, WA$$$Fresh Rolls Gig Harbor in Gig Harbor,
+  WA, offers a welcoming spot for enjoying authentic Vietnamese flavors in a
+  cozy setting. The restaurant features accessible entrances and seating, making
+  it easy for everyone to savor its fresh, vibrant dishes that highlight
+  traditional ingredients and creative presentations. With a focus on quality
+  and inclusivity, this eatery stands out as a go-to choice for those seeking
+  Vietnamese cuisine near the waterfront area. Diners can expect a relaxed
+  atmosphere that pairs well with flavorful meals, drawing in locals and
+  visitors alike looking for a satisfying dining experience.
+generative_summary: >-
+  Explore Fresh Rolls in Gig Harbor, WA$$$Fresh Rolls Gig Harbor in Gig Harbor,
+  WA, offers a welcoming spot for enjoying authentic Vietnamese flavors in a
+  cozy setting. The restaurant features accessible entrances and seating, making
+  it easy for everyone to savor its fresh, vibrant dishes that highlight
+  traditional ingredients and creative presentations. With a focus on quality
+  and inclusivity, this eatery stands out as a go-to choice for those seeking
+  Vietnamese cuisine near the waterfront area. Diners can expect a relaxed
+  atmosphere that pairs well with flavorful meals, drawing in locals and
+  visitors alike looking for a satisfying dining experience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback Highlights$$$Feedback from patrons at this Vietnamese spot
+  often highlights the delicious, fresh-tasting dishes that make meals feel
+  light and satisfying, with many appreciating the variety of options available.
+  People frequently mention the welcoming vibe and attentive service that
+  enhance the overall visit, creating a comfortable environment for casual
+  outings. While experiences vary, there's a common thread of enjoyment around
+  the flavorful combinations and reasonable portions that leave diners feeling
+  content. Overall, it's clear that this place continues to attract those in
+  search of reliable, tasty eats in the area, making it a solid pick for anyone
+  exploring local dining scenes.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +242,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

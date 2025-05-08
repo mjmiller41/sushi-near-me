@@ -5,4 +5,5 @@ permalink: /california/palmdale/
 stateAbbr: CA
 stateName: California
 cityName: Palmdale
+
 ---

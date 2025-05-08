@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Takesushi"
+title: Takesushi
 permalink: /new-york/sunnyside/takesushi.html
 stateAbbr: NY
 stateName: New York
 cityName: Sunnyside
 seo:
-  name: "Takesushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.takesushinyc.com/
-description: "This charming restaurant specializing in traditional Japanese food & sushi has daily lunch specials. Takesushi serves delicious sushi in Sunnyside, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJzWqEZdhewokRg3H5Q-5B90g
 photos:
   - name: >-
@@ -143,7 +141,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDu8fbWuAE!2e10!4m2!3m1!1s0x89c25ed865846acd:0x48f741ee43f97183
 address: Inside Bon Cafe et Restaurant, 41-31 Queens Blvd, Sunnyside, NY 11104, USA
-street: Inside Bon Cafe et Restaurant, 41-31 Queens Blvd
+street: Inside Bon Cafe et Restaurant,41-31 Queens Blvd
 city: Sunnyside
 state: NY
 zip: '11104'
@@ -184,6 +182,29 @@ price_range: $30 &ndash; $50
 rating: '4.5'
 rating_count: 0
 website: http://www.takesushinyc.com/
+description: >-
+  Discover Takesushi in Sunnyside, NY$$$Takesushi in Sunnyside, NY, stands out
+  as a welcoming Japanese eatery known for its fresh sushi and sake selections,
+  making it a go-to spot for authentic flavors in a cozy setting. This hidden
+  gem offers an omakase menu that highlights expertly prepared dishes, drawing
+  in those seeking high-quality Japanese cuisine without the fuss. Daily lunch
+  specials provide affordable options for enjoying traditional fare,
+  complemented by a relaxed atmosphere perfect for casual meals or intimate
+  gatherings. With moderate pricing and thoughtful accessibility features, it's
+  an inviting choice for sushi enthusiasts exploring options nearby, blending
+  simplicity with delightful tastes that capture the essence of Japanese dining.
+generative_summary: >-
+  Discover Takesushi in Sunnyside, NY$$$Takesushi in Sunnyside, NY, stands out
+  as a welcoming Japanese eatery known for its fresh sushi and sake selections,
+  making it a go-to spot for authentic flavors in a cozy setting. This hidden
+  gem offers an omakase menu that highlights expertly prepared dishes, drawing
+  in those seeking high-quality Japanese cuisine without the fuss. Daily lunch
+  specials provide affordable options for enjoying traditional fare,
+  complemented by a relaxed atmosphere perfect for casual meals or intimate
+  gatherings. With moderate pricing and thoughtful accessibility features, it's
+  an inviting choice for sushi enthusiasts exploring options nearby, blending
+  simplicity with delightful tastes that capture the essence of Japanese dining.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJzWqEZdhewokRg3H5Q-5B90g/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJdTZpQTBRRRAB
@@ -425,6 +446,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMzNTY3TmlRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMzNTY3TmlRRRAB!2m1!1s0x89c25ed865846acd:0x48f741ee43f97183
+review_summary: >-
+  What Visitors Are Sharing About the Experience$$$Folks who stop by Takesushi
+  often rave about the incredibly fresh fish and generous portions that make
+  every bite feel special, turning it into a favorite for sushi lovers in the
+  area. Many highlight the unpretentious vibe and top-notch service that add to
+  the charm, with comments on how the omakase sets deliver unique flavors at a
+  great value. While most agree it's a standout spot for authentic Japanese
+  dishes, a few note that freshness can vary, suggesting it's worth checking out
+  based on the day. Overall, the consensus leans positive, with visitors
+  appreciating the expert preparation and welcoming feel that keeps them coming
+  back for more satisfying meals. If you're hunting for reliable sushi places
+  around town, this one tends to impress with its focus on quality and
+  straightforward appeal.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidParkingLot: false
   freeStreetParking: true
@@ -458,8 +493,8 @@ serves_lunch: true
 serves_vegetarian_food: false
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   This charming restaurant specializing in traditional Japanese food & sushi has
   daily lunch specials.
 

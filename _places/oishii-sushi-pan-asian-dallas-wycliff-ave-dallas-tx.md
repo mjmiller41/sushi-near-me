@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Oishii Sushi & Pan-Asian Dallas - Wycliff Ave"
+title: Oishii Sushi & Pan-Asian Dallas - Wycliff Ave
 permalink: /texas/dallas/oishii-sushi-pan-asian-dallas-wycliff-ave.html
 stateAbbr: TX
 stateName: Texas
 cityName: Dallas
 seo:
-  name: "Oishii Sushi & Pan-Asian Dallas - Wycliff Ave"
-  type: Restaurant
-  links: null
-description: "Oishii Sushi & Pan-Asian Dallas - Wycliff Ave serves delicious sushi in Dallas, Texas. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.oishiirestaurants.com/
 place_id: ChIJbSqBOLGeToYRom7u3rn-eOQ
 photos:
   - name: >-
@@ -170,8 +168,113 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x864e9eb138812a6d:0xe478feb9deee6ea2!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 15
+        minute: 0
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 15
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 3:00 PM, 5:00 – 10:00 PM'
+    - 'Tuesday: 11:00 AM – 3:00 PM, 5:00 – 10:00 PM'
+    - 'Wednesday: 11:00 AM – 3:00 PM, 5:00 – 10:00 PM'
+    - 'Thursday: 11:00 AM – 3:00 PM, 5:00 – 10:00 PM'
+    - 'Friday: 11:00 AM – 3:00 PM, 5:00 – 11:00 PM'
+    - 'Saturday: 11:00 AM – 11:00 PM'
+    - 'Sunday: 5:00 – 10:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +282,46 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (214) 599-9448
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.5'
+rating_count: 1642
+website: http://www.oishiirestaurants.com/
+description: >-
+  Discover Oishii Sushi in Dallas, TX$$$Oishii Sushi & Pan-Asian in Dallas, TX,
+  stands out as a welcoming Pan-Asian destination blending fresh sushi with a
+  variety of flavorful dishes in an elegant setting. This spot highlights a
+  range of authentic options, from expertly crafted rolls to other
+  Asian-inspired meals, making it ideal for those exploring sushi restaurants in
+  the area. Accessibility features like wheelchair-friendly parking and seating
+  ensure a comfortable visit for everyone, while its extended hours cater to
+  both lunch crowds and evening diners. With a focus on quality ingredients and
+  a refined ambiance, it's a go-to choice for anyone seeking top-rated sushi
+  experiences nearby.
+generative_summary: >-
+  Discover Oishii Sushi in Dallas, TX$$$Oishii Sushi & Pan-Asian in Dallas, TX,
+  stands out as a welcoming Pan-Asian destination blending fresh sushi with a
+  variety of flavorful dishes in an elegant setting. This spot highlights a
+  range of authentic options, from expertly crafted rolls to other
+  Asian-inspired meals, making it ideal for those exploring sushi restaurants in
+  the area. Accessibility features like wheelchair-friendly parking and seating
+  ensure a comfortable visit for everyone, while its extended hours cater to
+  both lunch crowds and evening diners. With a focus on quality ingredients and
+  a refined ambiance, it's a go-to choice for anyone seeking top-rated sushi
+  experiences nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying About This Spot$$$Folks often praise the tasty sushi
+  rolls and other Pan-Asian favorites at this Dallas eatery, noting how they hit
+  the spot with fresh flavors and solid variety. Many mention the friendly
+  service and fair prices that make it feel like a smart pick for a relaxed meal
+  out. The vibe comes across as pleasant and inviting, perfect for casual
+  get-togethers or quick bites during the day. Overall, it's frequently
+  recommended as a reliable option for quality dining, with highlights on the
+  overall value that keeps people coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +347,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

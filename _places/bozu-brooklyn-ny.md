@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Bozu"
+title: Bozu
 permalink: /new-york/brooklyn/bozu.html
 stateAbbr: NY
 stateName: New York
 cityName: Brooklyn
 seo:
-  name: "Bozu"
-  type: Restaurant
+  type: restaurant
   links: http://www.bozubrooklyn.com/
-description: "Japanese tapas bar serving sushi, sake & cocktails in a hip setting with a bi-level patio. Bozu serves delicious sushi in Brooklyn, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJfXcUkV9ZwokRe1dEXRBJzuk
 photos:
   - name: >-
@@ -184,6 +182,35 @@ price_range: $30 &ndash; $50
 rating: '4.4'
 rating_count: 0
 website: http://www.bozubrooklyn.com/
+description: >-
+  Discover Bozu in Brooklyn, NY$$$Bozu in Brooklyn, NY, stands out as a vibrant
+  Japanese tapas bar that combines fresh sushi with creative small plates and
+  cocktails, making it a go-to spot for those seeking authentic Japanese flavors
+  in a lively atmosphere. The restaurant features a hip setting with a bi-level
+  patio, perfect for enjoying outdoor seating while savoring expertly prepared
+  dishes that highlight seasonal ingredients and innovative twists. Drawing from
+  its cozy vibe and accessible entrance, Bozu offers an inviting experience for
+  sushi enthusiasts looking for top-rated options in the area, blending
+  traditional elements with modern flair. Its moderate price range ensures a
+  satisfying meal without breaking the bank, appealing to anyone exploring sushi
+  restaurants nearby. Whether you're in the mood for sake pairings or unique
+  rolls, this Williamsburg gem delivers a memorable dining adventure that keeps
+  locals coming back.
+generative_summary: >-
+  Discover Bozu in Brooklyn, NY$$$Bozu in Brooklyn, NY, stands out as a vibrant
+  Japanese tapas bar that combines fresh sushi with creative small plates and
+  cocktails, making it a go-to spot for those seeking authentic Japanese flavors
+  in a lively atmosphere. The restaurant features a hip setting with a bi-level
+  patio, perfect for enjoying outdoor seating while savoring expertly prepared
+  dishes that highlight seasonal ingredients and innovative twists. Drawing from
+  its cozy vibe and accessible entrance, Bozu offers an inviting experience for
+  sushi enthusiasts looking for top-rated options in the area, blending
+  traditional elements with modern flair. Its moderate price range ensures a
+  satisfying meal without breaking the bank, appealing to anyone exploring sushi
+  restaurants nearby. Whether you're in the mood for sake pairings or unique
+  rolls, this Williamsburg gem delivers a memorable dining adventure that keeps
+  locals coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJfXcUkV9ZwokRe1dEXRBJzuk/reviews/ChZDSUhNMG9nS0VJQ0FnTURJMVBlV0tnEAE
@@ -409,6 +436,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNkZ1lTYklREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNkZ1lTYklREAE!2m1!1s0x89c2595f9114777d:0xe9ce49105d44577b
+review_summary: >-
+  Insights from Recent Reviews$$$Visitors to this sushi spot often rave about
+  the fresh and flavorful dishes, with many highlighting the creative rolls and
+  tasty cocktails as standout features that make every meal feel special. Folks
+  appreciate the unique menu items and fun atmosphere, noting it's a great place
+  to unwind alone or with friends, though a few mentioned minor tweaks could
+  enhance takeout experiences. Overall, the consensus leans positive, praising
+  the well-prepared fish and inventive small plates that bring a delightful
+  twist to classic Japanese cuisine. If you're hunting for reliable sushi places
+  near you, this location scores high for its generous portions and welcoming
+  vibe, encouraging repeat visits for its solid value. While not perfect, the
+  general feedback keeps things upbeat, making it a solid choice for anyone
+  craving the best sushi in the neighborhood.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options:
   acceptsCreditCards: true
@@ -438,8 +479,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Japanese tapas bar serving sushi, sake & cocktails in a hip setting with a
   bi-level patio.
 

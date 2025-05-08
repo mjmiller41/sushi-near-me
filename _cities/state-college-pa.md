@@ -5,4 +5,5 @@ permalink: /pennsylvania/state-college/
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: State College
+
 ---

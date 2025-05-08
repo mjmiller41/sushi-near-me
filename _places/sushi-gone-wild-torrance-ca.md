@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Gone Wild"
+title: Sushi Gone Wild
 permalink: /california/torrance/sushi-gone-wild.html
 stateAbbr: CA
 stateName: California
 cityName: Torrance
 seo:
-  name: "Sushi Gone Wild"
-  type: Restaurant
+  type: restaurant
   links: http://www.sushigonewild.com/
-description: "Sushi Gone Wild serves delicious sushi in Torrance, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ-V9LYxBL3YARPWVJDT--t_o
 photos:
   - name: >-
@@ -170,22 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80dd4b10634b5ff9:0xfab7be3f0d49653d!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
-    - 'Monday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
-    - 'Tuesday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
-    - 'Wednesday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
-    - 'Thursday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:30 AM – 2:30 PM'
+    - 'Tuesday: 11:30 AM – 2:30 PM'
+    - 'Wednesday: 11:30 AM – 2:30 PM'
+    - 'Thursday: 11:30 AM – 2:30 PM'
     - 'Friday: 11:30 AM – 9:00 PM'
     - 'Saturday: 11:30 AM – 9:00 PM'
     - 'Sunday: 5:00 – 9:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
-    - 'Tuesday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
-    - 'Wednesday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
-    - 'Thursday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
-    - 'Friday: 11:30 AM – 9:00 PM'
-    - 'Saturday: 11:30 AM – 9:00 PM'
-    - 'Sunday: 5:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,240 @@ phone: (310) 373-0706
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.7'
-rating_count: 0
+rating_count: 340
 website: http://www.sushigonewild.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Sushi Gone Wild in Torrance, CA$$$Sushi Gone Wild in Torrance, CA,
+  stands out as a comfortable eatery offering an extensive array of specialty
+  sushi rolls, paired with refreshing sake and beer options, making it a go-to
+  spot for fresh Japanese cuisine. The lively atmosphere and creative menu
+  highlights include inventive rolls and traditional favorites, all prepared
+  with high-quality ingredients that appeal to sushi enthusiasts seeking
+  variety. Accessibility features like wheelchair-friendly entrances and seating
+  add to the welcoming vibe, while outdoor patio options enhance the dining
+  experience on pleasant days. With moderate pricing and lunch specials, this
+  sushi restaurant near you provides a balanced blend of affordability and
+  excitement for those exploring top-rated Japanese places in the area.
+generative_summary: >-
+  Discover Sushi Gone Wild in Torrance, CA$$$Sushi Gone Wild in Torrance, CA,
+  stands out as a comfortable eatery offering an extensive array of specialty
+  sushi rolls, paired with refreshing sake and beer options, making it a go-to
+  spot for fresh Japanese cuisine. The lively atmosphere and creative menu
+  highlights include inventive rolls and traditional favorites, all prepared
+  with high-quality ingredients that appeal to sushi enthusiasts seeking
+  variety. Accessibility features like wheelchair-friendly entrances and seating
+  add to the welcoming vibe, while outdoor patio options enhance the dining
+  experience on pleasant days. With moderate pricing and lunch specials, this
+  sushi restaurant near you provides a balanced blend of affordability and
+  excitement for those exploring top-rated Japanese places in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ-V9LYxBL3YARPWVJDT--t_o/reviews/ChZDSUhNMG9nS0VJQ0FnTURJN0pQQU5BEAE
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 5
+    text:
+      text: >-
+        We love Sushi Gone Wild.. it has a great lively atmosphere, fast
+        friendly service, and excellent quality sushi at a very reasonable
+        price.  The happy hour is great you get extra pc of sushi for free.  The
+        dining room is pretty small so it can be a little hard to get a table at
+        peak times and there is also an outdoor patio.  They have some good
+        appetizers and hot dishes in addition to traditional and creative
+        original rolls and creations.  This is a great spot full of loyal local
+        customers who come back over and over... see you tomorrow sushi gone
+        wild!
+      languageCode: en
+    originalText:
+      text: >-
+        We love Sushi Gone Wild.. it has a great lively atmosphere, fast
+        friendly service, and excellent quality sushi at a very reasonable
+        price.  The happy hour is great you get extra pc of sushi for free.  The
+        dining room is pretty small so it can be a little hard to get a table at
+        peak times and there is also an outdoor patio.  They have some good
+        appetizers and hot dishes in addition to traditional and creative
+        original rolls and creations.  This is a great spot full of loyal local
+        customers who come back over and over... see you tomorrow sushi gone
+        wild!
+      languageCode: en
+    authorAttribution:
+      displayName: Swoon Lashes
+      uri: https://www.google.com/maps/contrib/118097095326970967142/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUqHjtRpWqDFG15BfrjvQLfnfvZBI0wgC0BGHjcfPjIxgOLdC4=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-08T01:51:18.250384Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURJN0pQQU5BEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJN0pQQU5BEAE!2m1!1s0x80dd4b10634b5ff9:0xfab7be3f0d49653d
+  - name: >-
+      places/ChIJ-V9LYxBL3YARPWVJDT--t_o/reviews/ChdDSUhNMG9nS0VJQ0FnSUMxMnQ3dzZnRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 4
+    text:
+      text: >-
+        Mr Kim the owner is a character. Come early n come hungry for their
+        happy hour, Monday to Thursday lunch hour and  5 to 630 PM. 3 pieces for
+        price of 2 on regular Nigri sushi. Good food n good price. Place is tiny
+        so not too good for big party. Service can be slow during Happy Hour.
+        Come support small business.
+      languageCode: en
+    originalText:
+      text: >-
+        Mr Kim the owner is a character. Come early n come hungry for their
+        happy hour, Monday to Thursday lunch hour and  5 to 630 PM. 3 pieces for
+        price of 2 on regular Nigri sushi. Good food n good price. Place is tiny
+        so not too good for big party. Service can be slow during Happy Hour.
+        Come support small business.
+      languageCode: en
+    authorAttribution:
+      displayName: Ho Ho Ho
+      uri: https://www.google.com/maps/contrib/108180417988578412218/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXdT6Kd1UJLqc5yYcu7UAAAHfG5lte8G7AVXap8wm-n561-vrQD=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2023-12-28T04:36:03.767164Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMxMnQ3dzZnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMxMnQ3dzZnRRAB!2m1!1s0x80dd4b10634b5ff9:0xfab7be3f0d49653d
+  - name: >-
+      places/ChIJ-V9LYxBL3YARPWVJDT--t_o/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ1cHRfcnF3RRAB
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        I think I found my new go to place for sushi. Tucked away in a nice
+        little plaza. Plenty of free parking.
+
+        Has a small cozy covered outdoor patio with heating. There's indoor
+        seating as well.
+
+        Service is very friendly.
+
+        The food is very tasty and fresh. Lots of options. Prices are very
+        reasonable. Will be returning!
+      languageCode: en
+    originalText:
+      text: >-
+        I think I found my new go to place for sushi. Tucked away in a nice
+        little plaza. Plenty of free parking.
+
+        Has a small cozy covered outdoor patio with heating. There's indoor
+        seating as well.
+
+        Service is very friendly.
+
+        The food is very tasty and fresh. Lots of options. Prices are very
+        reasonable. Will be returning!
+      languageCode: en
+    authorAttribution:
+      displayName: Sam Hosein
+      uri: https://www.google.com/maps/contrib/109265324261145870236/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVfE8yeu6dZBn1HA9MPqY_Ope63pKaKRqJ14cvUGGN5JhtJy4oV_g=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2023-10-24T05:48:00.009706Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQ1cHRfcnF3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQ1cHRfcnF3RRAB!2m1!1s0x80dd4b10634b5ff9:0xfab7be3f0d49653d
+  - name: >-
+      places/ChIJ-V9LYxBL3YARPWVJDT--t_o/reviews/ChdDSUhNMG9nS0VJQ0FnSUQzM2NMMzdBRRAB
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        Affordable and great place to hang out to have your Japanese food fix.
+        Awesome staff!
+      languageCode: en
+    originalText:
+      text: >-
+        Affordable and great place to hang out to have your Japanese food fix.
+        Awesome staff!
+      languageCode: en
+    authorAttribution:
+      displayName: Mark Lorilla
+      uri: https://www.google.com/maps/contrib/100220337971225323763/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVV5xTrqeMt9msFGXYIrUP1WgTxFAGPw3ITh3OjOE1OdgSiszQ=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-11-17T23:14:21.958534Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQzM2NMMzdBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQzM2NMMzdBRRAB!2m1!1s0x80dd4b10634b5ff9:0xfab7be3f0d49653d
+  - name: >-
+      places/ChIJ-V9LYxBL3YARPWVJDT--t_o/reviews/ChdDSUhNMG9nS0VJQ0FnSUQtcnZPaWlBRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 4
+    text:
+      text: >-
+        Mr Kim is a great host. My family has been coming here for many years.
+        Love their happy hours special. 3  pieces for the price of 2 on regular
+        Nigri sushi. Super friendly host n servers. N I will see you tomorrow.
+      languageCode: en
+    originalText:
+      text: >-
+        Mr Kim is a great host. My family has been coming here for many years.
+        Love their happy hours special. 3  pieces for the price of 2 on regular
+        Nigri sushi. Super friendly host n servers. N I will see you tomorrow.
+      languageCode: en
+    authorAttribution:
+      displayName: HoHo Ho
+      uri: https://www.google.com/maps/contrib/117750615835195759433/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKqirBMZWcdxBLmlsA2OMuBW6xiOVMeyEwAy8mgpgwcwrWdZw=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2023-09-23T06:01:55.556349Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQtcnZPaWlBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQtcnZPaWlBRRAB!2m1!1s0x80dd4b10634b5ff9:0xfab7be3f0d49653d
+review_summary: >-
+  What Guests Are Buzzing About$$$Visitors to this popular sushi spot often rave
+  about the fresh, flavorful dishes and unbeatable happy hour deals that make it
+  a smart choice for casual meals. Many appreciate the friendly service and
+  lively energy, which create a welcoming environment perfect for quick lunches
+  or evening hangouts with friends. While the cozy space can get busy during
+  peak times, folks note that the reasonable prices and generous portions keep
+  them coming back for more authentic flavors. Overall, it's praised as a
+  reliable option for quality sushi experiences, with highlights on the tasty
+  appetizers and creative rolls that satisfy cravings without breaking the bank.
+  If you're hunting for the best sushi near me, this place delivers a solid,
+  enjoyable vibe that encourages repeat visits.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
 good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+live_music: false
+menu_for_children: false
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: false
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Lively destination for sushi & creative rolls, plus Japanese draft-beer
+  pitchers & lunch specials.
 
 ---

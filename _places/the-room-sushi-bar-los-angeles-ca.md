@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "The Room Sushi Bar"
+title: The Room Sushi Bar
 permalink: /california/los-angeles/the-room-sushi-bar.html
 stateAbbr: CA
 stateName: California
 cityName: Los Angeles
 seo:
-  name: "The Room Sushi Bar"
-  type: Restaurant
+  type: restaurant
   links: https://www.theroomsushi.com/
-description: "The Room Sushi Bar serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ10eY85y7woARDosjyqpRdf4
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c2bb9cf39847d7:0xfe7551aaca238b0e!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:00 PM'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:00 PM'
     - 'Saturday: 12:00 – 9:00 PM'
     - 'Sunday: 12:00 – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 9:00 PM'
-    - 'Saturday: 12:00 – 9:00 PM'
-    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,269 @@ phone: (310) 474-0462
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.3'
-rating_count: 0
+rating_count: 261
 website: https://www.theroomsushi.com/
-reviews: null
+description: >-
+  Discover The Room Sushi Bar in Los Angeles, CA$$$The Room Sushi Bar in Los
+  Angeles, CA, offers a relaxed and welcoming atmosphere for enjoying fresh
+  sushi rolls, teriyaki, tempura, and more, making it a go-to spot for those
+  seeking top-rated sushi nearby. This straightforward dining room features an
+  extensive menu with exotic options and a selection of beer and wine, perfect
+  for casual meals or quick visits in the bustling West Los Angeles area.
+  Accessibility is a key highlight, with wheelchair-friendly parking, entrances,
+  and seating that ensure everyone can enjoy the experience comfortably. Open
+  daily with convenient hours from late morning to evening, it's ideal for
+  locals or visitors hunting for reliable sushi restaurants close to home.
+  Whether you're in the mood for a light lunch or a satisfying dinner, this spot
+  delivers authentic flavors that keep diners coming back for more.
+generative_summary: >-
+  Discover The Room Sushi Bar in Los Angeles, CA$$$The Room Sushi Bar in Los
+  Angeles, CA, offers a relaxed and welcoming atmosphere for enjoying fresh
+  sushi rolls, teriyaki, tempura, and more, making it a go-to spot for those
+  seeking top-rated sushi nearby. This straightforward dining room features an
+  extensive menu with exotic options and a selection of beer and wine, perfect
+  for casual meals or quick visits in the bustling West Los Angeles area.
+  Accessibility is a key highlight, with wheelchair-friendly parking, entrances,
+  and seating that ensure everyone can enjoy the experience comfortably. Open
+  daily with convenient hours from late morning to evening, it's ideal for
+  locals or visitors hunting for reliable sushi restaurants close to home.
+  Whether you're in the mood for a light lunch or a satisfying dinner, this spot
+  delivers authentic flavors that keep diners coming back for more.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ10eY85y7woARDosjyqpRdf4/reviews/ChZDSUhNMG9nS0VJQ0FnSUNUeHBpcUxREAE
+    relativePublishTimeDescription: 11 months ago
+    rating: 4
+    text:
+      text: >-
+        Overall a really nice and casual sushi restaurant in the Westwood area.
+        I am giving it a 4/5 because there are a few more other sushi spots that
+        I like more in the immediate area, but this place is still worth
+        visiting. It’s very bright on the inside and there’s actually a lot of
+        seating available. Service was really fast but we ordered appetizers and
+        entrées, but they ended up bringing everything at once, which I was
+        hoping to avoid. They don’t have a parking lot, but it was easy to find
+        metered street parking right out front.
+
+
+        They have a fairly extensive menu with a lot of the classics. They
+        actually do have a great selection of choices. I started off with the
+        clam miso soup, which was really nice and warm and a good start to the
+        meal. Next came the softshell crab, which I thought was pretty good,
+        although it was more fried than I like and I find it better when the
+        crab is kept intact. Next came The Room Special Roll, which was very
+        good, the Zumba Zumba roll, which was nice with the warm langostine on
+        top, and some assorted nigiri.
+
+
+        In the end I would recommend to any sushi fan, especially if you are in
+        the area.
+      languageCode: en
+    originalText:
+      text: >-
+        Overall a really nice and casual sushi restaurant in the Westwood area.
+        I am giving it a 4/5 because there are a few more other sushi spots that
+        I like more in the immediate area, but this place is still worth
+        visiting. It’s very bright on the inside and there’s actually a lot of
+        seating available. Service was really fast but we ordered appetizers and
+        entrées, but they ended up bringing everything at once, which I was
+        hoping to avoid. They don’t have a parking lot, but it was easy to find
+        metered street parking right out front.
+
+
+        They have a fairly extensive menu with a lot of the classics. They
+        actually do have a great selection of choices. I started off with the
+        clam miso soup, which was really nice and warm and a good start to the
+        meal. Next came the softshell crab, which I thought was pretty good,
+        although it was more fried than I like and I find it better when the
+        crab is kept intact. Next came The Room Special Roll, which was very
+        good, the Zumba Zumba roll, which was nice with the warm langostine on
+        top, and some assorted nigiri.
+
+
+        In the end I would recommend to any sushi fan, especially if you are in
+        the area.
+      languageCode: en
+    authorAttribution:
+      displayName: Zan Lee
+      uri: https://www.google.com/maps/contrib/108779042509160492676/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUN5C3H72aGGcR8PtqR1l-OglvxT_md2x261gTi8kiOsK2nOLA=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2024-05-14T03:09:19.044887Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNUeHBpcUxREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNUeHBpcUxREAE!2m1!1s0x80c2bb9cf39847d7:0xfe7551aaca238b0e
+  - name: >-
+      places/ChIJ10eY85y7woARDosjyqpRdf4/reviews/ChZDSUhNMG9nS0VJQ0FnTUNvNjZyOGJBEAE
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        You want sushi? You want lots of sushi options? You want decent prices?
+        This is your place. Nothing fancy.  Nothing out of this world. It’s just
+        good decent sushi. They have a cash discount. Give this place a try.
+        It’s a great neighborhood sushi spot. I went with my three little kids
+        and they enjoyed it.
+      languageCode: en
+    originalText:
+      text: >-
+        You want sushi? You want lots of sushi options? You want decent prices?
+        This is your place. Nothing fancy.  Nothing out of this world. It’s just
+        good decent sushi. They have a cash discount. Give this place a try.
+        It’s a great neighborhood sushi spot. I went with my three little kids
+        and they enjoyed it.
+      languageCode: en
+    authorAttribution:
+      displayName: Sam Vahedi
+      uri: https://www.google.com/maps/contrib/102105008951153409655/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXGqESE8psvpyQ6MB6u1RnS2ie-Vef4xuz8aN2PSh7lGuDibTTm=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-20T02:17:58.282579Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNvNjZyOGJBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNvNjZyOGJBEAE!2m1!1s0x80c2bb9cf39847d7:0xfe7551aaca238b0e
+  - name: >-
+      places/ChIJ10eY85y7woARDosjyqpRdf4/reviews/ChZDSUhNMG9nS0VJQ0FnTUNBcUpqVFF3EAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        Had to take my wife here. I came once and randomly stopped by on the way
+        to work. Tonight was that night, and it was great!
+      languageCode: en
+    originalText:
+      text: >-
+        Had to take my wife here. I came once and randomly stopped by on the way
+        to work. Tonight was that night, and it was great!
+      languageCode: en
+    authorAttribution:
+      displayName: VR SURFBOARDS
+      uri: https://www.google.com/maps/contrib/109444211544546599148/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXEv_3SJfcLrV_fnf1neF_6E8fmGaWDOiiAcvcrpRAKWck2J0RvrQ=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-01-29T07:08:05.976485Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNBcUpqVFF3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNBcUpqVFF3EAE!2m1!1s0x80c2bb9cf39847d7:0xfe7551aaca238b0e
+  - name: >-
+      places/ChIJ10eY85y7woARDosjyqpRdf4/reviews/ChdDSUhNMG9nS0VJQ0FnSURQdHJyM3d3RRAB
+    relativePublishTimeDescription: 5 months ago
+    rating: 1
+    text:
+      text: >-
+        We have been coming here for years. Overtime the service got a little
+        worse and the staff a little less friendly, but tonight was the worst
+        experience. First the waiters didn’t even care to smile once. Then when
+        I asked for a ponzu sauce, the waitress told me she would charge me for
+        it 50 cents. Obviously, this had never happened before and obviously we
+        don’t care about a 50 cent charge on an order for a family of 4. But the
+        unfriendliness together with a charge for ponzu (while soy sauce seems
+        to be ok) is just too much.
+
+        This was the last time we went there and would not recommend them
+        anymore either.
+      languageCode: en
+    originalText:
+      text: >-
+        We have been coming here for years. Overtime the service got a little
+        worse and the staff a little less friendly, but tonight was the worst
+        experience. First the waiters didn’t even care to smile once. Then when
+        I asked for a ponzu sauce, the waitress told me she would charge me for
+        it 50 cents. Obviously, this had never happened before and obviously we
+        don’t care about a 50 cent charge on an order for a family of 4. But the
+        unfriendliness together with a charge for ponzu (while soy sauce seems
+        to be ok) is just too much.
+
+        This was the last time we went there and would not recommend them
+        anymore either.
+      languageCode: en
+    authorAttribution:
+      displayName: Shadfar Bahri
+      uri: https://www.google.com/maps/contrib/101961008516368124874/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIl4uoa37fWiKE-vxaiWhS4nyPgrov-3ksIRc1_izdnSDfCZg=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-12-02T03:11:41.154548Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURQdHJyM3d3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURQdHJyM3d3RRAB!2m1!1s0x80c2bb9cf39847d7:0xfe7551aaca238b0e
+  - name: >-
+      places/ChIJ10eY85y7woARDosjyqpRdf4/reviews/ChZDSUhNMG9nS0VJQ0FnSUN1MFpmVkJREAE
+    relativePublishTimeDescription: 2 years ago
+    rating: 5
+    text:
+      text: >-
+        The Room is my absolute favorite sushi spot in LA! I dream about the
+        spicy tuna on crispy rice & albacore sashimi! The staff is AMAZING and
+        the kindest staff ever. So thoughtful and always get the order perfect.
+        I recommend to everyone!
+      languageCode: en
+    originalText:
+      text: >-
+        The Room is my absolute favorite sushi spot in LA! I dream about the
+        spicy tuna on crispy rice & albacore sashimi! The staff is AMAZING and
+        the kindest staff ever. So thoughtful and always get the order perfect.
+        I recommend to everyone!
+      languageCode: en
+    authorAttribution:
+      displayName: Taylor Aiono
+      uri: https://www.google.com/maps/contrib/117759671389615389005/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLfzymZJQfRk3IRKdtzrRdpyGZJRWorB_LhTPrmrA8UJ7M16Q=s128-c0x00000000-cc-rp-mo
+    publishTime: '2022-07-30T20:34:58.500478Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN1MFpmVkJREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN1MFpmVkJREAE!2m1!1s0x80c2bb9cf39847d7:0xfe7551aaca238b0e
+review_summary: >-
+  Insights from Customer Feedback$$$Visitors often praise The Room Sushi Bar for
+  its solid variety of sushi options at fair prices, making it a solid choice
+  for families and groups looking for a neighborhood favorite. Many appreciate
+  the quick service and welcoming vibe, with highlights on tasty rolls and
+  appetizers that hit the spot without any fuss. While most experiences lean
+  positive, a few mentions of occasional service hiccups show room for
+  improvement, but these don't overshadow the overall enjoyment. Folks searching
+  for the best sushi near me will find it a reliable pick for everyday cravings,
+  with the added bonus of outdoor seating for a casual vibe. All in all, it's a
+  spot that delivers good vibes and honest value, encouraging repeat visits for
+  anyone in the area.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
-payment_options: null
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
+curbside_pickup: false
+delivery: true
+dine_in: true
 good_for_children: null
-good_for_groups: null
+good_for_groups: true
 good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+live_music: false
+menu_for_children: false
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: false
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Vast sushi menu with exotic options, plus beer & sake in a straightforward
+  dining room.
 
 ---

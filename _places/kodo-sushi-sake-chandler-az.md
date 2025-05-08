@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kodo Sushi Sake"
+title: Kodo Sushi Sake
 permalink: /arizona/chandler/kodo-sushi-sake.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Chandler
 seo:
-  name: "Kodo Sushi Sake"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Kodo Sushi Sake serves delicious sushi in Chandler, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ-w-TRx6rK4cRo3IGJYHIOLE
 photos:
   - name: >-
@@ -185,7 +183,44 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Kodo Sushi Sake in Chandler, AZ$$$Kodo Sushi Sake in Chandler, AZ,
+  stands out as a relaxed destination for enjoying fresh sushi and
+  Japanese-inspired dishes, perfect for those seeking sushi restaurants in the
+  area. This spot highlights innovative options like black rice sushi rolls and
+  a selection of sake, complemented by tasty small plates that add variety to
+  every meal. With enticing happy-hour specials, it's an ideal choice for anyone
+  looking for affordable yet flavorful dining experiences near you. The
+  welcoming atmosphere makes it easy to unwind, whether you're stopping by for a
+  quick bite or a leisurely evening out. Accessibility features like
+  wheelchair-friendly parking and entrances ensure a comfortable visit for all
+  guests.
+generative_summary: >-
+  Discover Kodo Sushi Sake in Chandler, AZ$$$Kodo Sushi Sake in Chandler, AZ,
+  stands out as a relaxed destination for enjoying fresh sushi and
+  Japanese-inspired dishes, perfect for those seeking sushi restaurants in the
+  area. This spot highlights innovative options like black rice sushi rolls and
+  a selection of sake, complemented by tasty small plates that add variety to
+  every meal. With enticing happy-hour specials, it's an ideal choice for anyone
+  looking for affordable yet flavorful dining experiences near you. The
+  welcoming atmosphere makes it easy to unwind, whether you're stopping by for a
+  quick bite or a leisurely evening out. Accessibility features like
+  wheelchair-friendly parking and entrances ensure a comfortable visit for all
+  guests.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying About the Experience$$$Folks checking out this sushi
+  spot often highlight the creative and tasty rolls that bring a fun twist to
+  classic flavors, making it a go-to for anyone craving top-rated sushi nearby.
+  Many appreciate the friendly service that keeps things smooth and enjoyable
+  from start to finish, adding to the overall vibe without any fuss. Prices are
+  frequently noted as reasonable, offering great value for the quality of the
+  food and atmosphere. The inviting setting creates a relaxed environment that's
+  perfect for casual get-togethers or solo outings. Overall, it's clear that
+  this place delivers a solid dining experience that leaves people excited to
+  return for more delicious options.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +246,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

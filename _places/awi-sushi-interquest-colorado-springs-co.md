@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Awi Sushi (Interquest)"
+title: Awi Sushi (Interquest)
 permalink: /colorado/colorado-springs/awi-sushi-interquest.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Colorado Springs
 seo:
-  name: "Awi Sushi (Interquest)"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Awi Sushi (Interquest) serves delicious sushi in Colorado Springs, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ-XziDmFNE4cRR7HcJtIdSTY
 photos:
   - name: >-
@@ -185,7 +183,42 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Explore Awi Sushi in Colorado Springs$$$Awi Sushi in Colorado Springs, CO,
+  stands out as a welcoming Japanese spot offering fresh sushi and comforting
+  dishes in the vibrant Interquest area. This sushi restaurant delights patrons
+  with a variety of expertly crafted rolls and traditional favorites, all served
+  in a casual atmosphere perfect for everyday dining. Located conveniently for
+  those searching for top-rated sushi options nearby, it emphasizes
+  accessibility with features like wheelchair-friendly parking and entrances.
+  The menu highlights affordable, flavorful selections that cater to sushi
+  enthusiasts looking for quality without the fuss, making it a go-to choice for
+  locals and visitors alike.
+generative_summary: >-
+  Explore Awi Sushi in Colorado Springs$$$Awi Sushi in Colorado Springs, CO,
+  stands out as a welcoming Japanese spot offering fresh sushi and comforting
+  dishes in the vibrant Interquest area. This sushi restaurant delights patrons
+  with a variety of expertly crafted rolls and traditional favorites, all served
+  in a casual atmosphere perfect for everyday dining. Located conveniently for
+  those searching for top-rated sushi options nearby, it emphasizes
+  accessibility with features like wheelchair-friendly parking and entrances.
+  The menu highlights affordable, flavorful selections that cater to sushi
+  enthusiasts looking for quality without the fuss, making it a go-to choice for
+  locals and visitors alike.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors to this sushi spot often rave about
+  the diverse selection of tasty rolls that deliver big on flavor without
+  breaking the bank, making it a solid pick for anyone craving affordable
+  Japanese eats. Many appreciate the speedy and attentive service that keeps
+  things moving smoothly, whether you're grabbing a quick take-out meal or
+  enjoying a relaxed bite. Feedback highlights the restaurant's ability to offer
+  creative options like specialty rolls that add excitement to the experience,
+  all while maintaining a welcoming vibe for casual diners. Overall, it's clear
+  that folks find this place reliable for satisfying sushi cravings, with
+  positive notes on its efficiency and value that encourage repeat visits.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +244,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

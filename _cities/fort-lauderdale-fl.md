@@ -5,4 +5,5 @@ permalink: /florida/fort-lauderdale/
 stateAbbr: FL
 stateName: Florida
 cityName: Fort Lauderdale
+
 ---

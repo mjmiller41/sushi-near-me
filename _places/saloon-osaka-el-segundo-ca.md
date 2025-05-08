@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "SALOON OSAKA"
+title: SALOON OSAKA
 permalink: /california/el-segundo/saloon-osaka.html
 stateAbbr: CA
 stateName: California
 cityName: El Segundo
 seo:
-  name: "SALOON OSAKA"
-  type: Restaurant
+  type: restaurant
   links: https://www.saloonosaka.com/menu
-description: "SALOON OSAKA serves delicious sushi in El Segundo, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJEaoVy1-xwoAR1wfNkEcX1dc
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c2b15fcb15aa11:0xd7d5174790cd07d7!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 5:00 – 10:00 PM'
     - 'Wednesday: 5:00 – 10:00 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 5:00 – 10:00 PM'
     - 'Saturday: 5:00 – 10:00 PM'
     - 'Sunday: 5:00 – 10:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 5:00 – 10:00 PM'
-    - 'Wednesday: 5:00 – 10:00 PM'
-    - 'Thursday: 5:00 – 10:00 PM'
-    - 'Friday: 5:00 – 10:00 PM'
-    - 'Saturday: 5:00 – 10:00 PM'
-    - 'Sunday: 5:00 – 10:00 PM'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +238,239 @@ phone: (310) 364-1231
 price_level: null
 price_range: $30 &ndash; $50
 rating: '4.7'
-rating_count: 0
+rating_count: 110
 website: https://www.saloonosaka.com/menu
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover SALOON OSAKA in El Segundo, CA$$$SALOON OSAKA in El Segundo, CA,
+  offers a delightful blend of traditional Japanese flavors and a welcoming
+  izakaya vibe, perfect for those seeking authentic sushi experiences near LAX.
+  This spot serves up fresh sushi, sashimi, tempura, udon, and bento boxes,
+  complemented by a selection of beer, sake, and wine, all crafted with
+  high-quality ingredients in a cozy setting. Accessibility features like
+  wheelchair-friendly parking and entrances make it easy for everyone to enjoy
+  the casual yet refined atmosphere. Operating in the evenings from Tuesday
+  through Sunday, it's an ideal destination for intimate dinners or small
+  gatherings, emphasizing quality over quantity in every dish. Whether you're
+  exploring Japanese places near you or craving top-rated sushi options, this
+  restaurant stands out for its thoughtful menu and inviting ambiance.
+generative_summary: >-
+  Discover SALOON OSAKA in El Segundo, CA$$$SALOON OSAKA in El Segundo, CA,
+  offers a delightful blend of traditional Japanese flavors and a welcoming
+  izakaya vibe, perfect for those seeking authentic sushi experiences near LAX.
+  This spot serves up fresh sushi, sashimi, tempura, udon, and bento boxes,
+  complemented by a selection of beer, sake, and wine, all crafted with
+  high-quality ingredients in a cozy setting. Accessibility features like
+  wheelchair-friendly parking and entrances make it easy for everyone to enjoy
+  the casual yet refined atmosphere. Operating in the evenings from Tuesday
+  through Sunday, it's an ideal destination for intimate dinners or small
+  gatherings, emphasizing quality over quantity in every dish. Whether you're
+  exploring Japanese places near you or craving top-rated sushi options, this
+  restaurant stands out for its thoughtful menu and inviting ambiance.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJEaoVy1-xwoAR1wfNkEcX1dc/reviews/ChdDSUhNMG9nS0VJQ0FnTURBa0wzcl93RRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        This is one of El Segundo and LAX’s local gems. It brings a different,
+        more traditional, and better quality sushi experience to the locals and
+        travelers. It appears that they are making some changes though… really
+        hope they keep the things which have separated themselves from the rest
+        on their journey forward. Quality vs quantity is always best;) and they
+        have understood that.
+      languageCode: en
+    originalText:
+      text: >-
+        This is one of El Segundo and LAX’s local gems. It brings a different,
+        more traditional, and better quality sushi experience to the locals and
+        travelers. It appears that they are making some changes though… really
+        hope they keep the things which have separated themselves from the rest
+        on their journey forward. Quality vs quantity is always best;) and they
+        have understood that.
+      languageCode: en
+    authorAttribution:
+      displayName: Pop Culture Taxi
+      uri: https://www.google.com/maps/contrib/113499603068272245414/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUZM8H9EAb4p3klnYq7PMnnn8ubcGfJYxqAbqocQQaTw7WyiOi4=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-02-06T07:36:34.626933Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURBa0wzcl93RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURBa0wzcl93RRAB!2m1!1s0x80c2b15fcb15aa11:0xd7d5174790cd07d7
+  - name: >-
+      places/ChIJEaoVy1-xwoAR1wfNkEcX1dc/reviews/ChdDSUhNMG9nS0VJQ0FnTURnbDhtMXlBRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        The service is on point and the food selection is perfect for a variety
+        of hunger levels. From nigiri to udon (curry udon has stellar flavor for
+        vegetarian or non-fish-lover friends), I haven't found a single thing to
+        complain about. I visit LAX every few months and look forward to the
+        next dish I get to try out next.
+      languageCode: en
+    originalText:
+      text: >-
+        The service is on point and the food selection is perfect for a variety
+        of hunger levels. From nigiri to udon (curry udon has stellar flavor for
+        vegetarian or non-fish-lover friends), I haven't found a single thing to
+        complain about. I visit LAX every few months and look forward to the
+        next dish I get to try out next.
+      languageCode: en
+    authorAttribution:
+      displayName: M Saylors
+      uri: https://www.google.com/maps/contrib/115350634113892248547/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjX7IApRMbBrpVXPWAuyHWkh1UnlA4g0NUisKBfm7HheQO33stlf=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-02-28T05:51:59.684477Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURnbDhtMXlBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURnbDhtMXlBRRAB!2m1!1s0x80c2b15fcb15aa11:0xd7d5174790cd07d7
+  - name: >-
+      places/ChIJEaoVy1-xwoAR1wfNkEcX1dc/reviews/ChZDSUhNMG9nS0VJQ0FnSUM5dElQeWVnEAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        I had the Fire Cracker Roll and the Curry Udon(vegan). The food is very
+        rich with flavor, you can tell the ingredients are fresh. The chief is
+        very interactive with his customers. The shop is small but makes the
+        atmosphere feel homey. Definitely a good place to come with a small
+        group of friends (3-4). Great experiences. Definitely a place that
+        appreciates quality.
+      languageCode: en
+    originalText:
+      text: >-
+        I had the Fire Cracker Roll and the Curry Udon(vegan). The food is very
+        rich with flavor, you can tell the ingredients are fresh. The chief is
+        very interactive with his customers. The shop is small but makes the
+        atmosphere feel homey. Definitely a good place to come with a small
+        group of friends (3-4). Great experiences. Definitely a place that
+        appreciates quality.
+      languageCode: en
+    authorAttribution:
+      displayName: Joshua Abzun
+      uri: https://www.google.com/maps/contrib/107652634146277409315/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKoeLygRoXCChXlhKJEY4uMA0J4vUE_UuMv3SDcZG9Q0njjkg=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-03-03T04:52:10.125068Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUM5dElQeWVnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUM5dElQeWVnEAE!2m1!1s0x80c2b15fcb15aa11:0xd7d5174790cd07d7
+  - name: >-
+      places/ChIJEaoVy1-xwoAR1wfNkEcX1dc/reviews/ChZDSUhNMG9nS0VJQ0FnSUMtOGM3MGJ3EAE
+    relativePublishTimeDescription: 2 years ago
+    rating: 4
+    text:
+      text: >-
+        I really want to give this place five stars. But the day we came it took
+        so long to even get some of food. We ended up not ordering more things
+        because we didn’t have another hour to wait for the food. The vibe of
+        the place is super cool! The chef is amazing, and the food was
+        incredible. The flavors were totally on point! The fish was super fresh.
+        And the presentation was great. Just one thing they need to work on is a
+        little bit more efficiency getting the food out. I’m just now coming
+        back here and giving them another try very soon!
+      languageCode: en
+    originalText:
+      text: >-
+        I really want to give this place five stars. But the day we came it took
+        so long to even get some of food. We ended up not ordering more things
+        because we didn’t have another hour to wait for the food. The vibe of
+        the place is super cool! The chef is amazing, and the food was
+        incredible. The flavors were totally on point! The fish was super fresh.
+        And the presentation was great. Just one thing they need to work on is a
+        little bit more efficiency getting the food out. I’m just now coming
+        back here and giving them another try very soon!
+      languageCode: en
+    authorAttribution:
+      displayName: Masha Krakovskaya
+      uri: https://www.google.com/maps/contrib/109109076460534968984/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVYNO2zunn85Dq7muqLMLpa0zr6uJzdFAe39e8l_lJYsABPcJG-=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2022-11-06T22:03:40.870688Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUMtOGM3MGJ3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUMtOGM3MGJ3EAE!2m1!1s0x80c2b15fcb15aa11:0xd7d5174790cd07d7
+  - name: >-
+      places/ChIJEaoVy1-xwoAR1wfNkEcX1dc/reviews/ChZDSUhNMG9nS0VJQ0FnSUR6NTRhYlNBEAE
+    relativePublishTimeDescription: 10 months ago
+    rating: 5
+    text:
+      text: >-
+        I would give more stars if I could. As a sushi snob, I’ve gotta say this
+        place DELIVERS. And it looks like a hole in the wall but seriously the
+        service, ambiance, and sushi are all exceptional. Take a risk, you’ll be
+        glad you did.
+      languageCode: en
+    originalText:
+      text: >-
+        I would give more stars if I could. As a sushi snob, I’ve gotta say this
+        place DELIVERS. And it looks like a hole in the wall but seriously the
+        service, ambiance, and sushi are all exceptional. Take a risk, you’ll be
+        glad you did.
+      languageCode: en
+    authorAttribution:
+      displayName: Katherine Golden
+      uri: https://www.google.com/maps/contrib/101388445623993817350/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXamuDuW2n_AfZwi6C8gA-BB9yDI8tRDCh9er6PdCwHk0TCvnag=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2024-06-13T01:55:27.432055Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR6NTRhYlNBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR6NTRhYlNBEAE!2m1!1s0x80c2b15fcb15aa11:0xd7d5174790cd07d7
+review_summary: >-
+  What Visitors Are Saying About the Experience$$$Folks frequently praise the
+  fresh and flavorful sushi selections, making SALOON OSAKA a go-to spot for
+  anyone hunting for the best sushi near me in a relaxed setting. Many highlight
+  the variety of options, including tasty vegetarian dishes like curry udon,
+  which cater to different tastes without skimping on bold flavors. While the
+  service often comes across as attentive and enhances the overall vibe, a few
+  mentions note occasional waits that might affect the pace of the meal. Still,
+  the consensus leans positive, with diners appreciating the homey atmosphere
+  and interactive elements that make every visit feel special. If you're
+  checking out sushi restaurants near me, this place delivers a solid experience
+  that's worth trying for its authentic tastes and welcoming feel.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
+curbside_pickup: false
+delivery: true
+dine_in: true
 good_for_children: null
 good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
 serves_breakfast: null
 serves_brunch: null
-serves_cocktails: null
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

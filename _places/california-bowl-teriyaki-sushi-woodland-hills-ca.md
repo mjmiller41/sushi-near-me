@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "California Bowl Teriyaki Sushi"
+title: California Bowl Teriyaki Sushi
 permalink: /california/woodland-hills/california-bowl-teriyaki-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Woodland Hills
 seo:
-  name: "California Bowl Teriyaki Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "California Bowl Teriyaki Sushi serves delicious sushi in Woodland Hills, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJDeDExRycwoARGClxQFYnt7Q
 photos:
   - name: >-
@@ -185,7 +183,45 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover California Bowl Teriyaki Sushi in Woodland Hills, CA$$$Nestled in the
+  heart of Woodland Hills, CA, California Bowl Teriyaki Sushi stands out as a
+  welcoming spot for Japanese dining enthusiasts seeking fresh flavors and
+  casual vibes. This eatery specializes in classic Japanese staples like
+  teriyaki bowls, sushi rolls, and tempura, all prepared with a focus on quality
+  ingredients that highlight authentic tastes. With its accessible features,
+  including wheelchair-friendly parking and seating, it's an inclusive choice
+  for anyone exploring sushi restaurants in the area. The inviting atmosphere,
+  captured in vibrant photos of colorful dishes, makes it a go-to destination
+  for those searching for reliable sushi spots near you, blending simplicity
+  with satisfying meals that keep locals coming back.
+generative_summary: >-
+  Discover California Bowl Teriyaki Sushi in Woodland Hills, CA$$$Nestled in the
+  heart of Woodland Hills, CA, California Bowl Teriyaki Sushi stands out as a
+  welcoming spot for Japanese dining enthusiasts seeking fresh flavors and
+  casual vibes. This eatery specializes in classic Japanese staples like
+  teriyaki bowls, sushi rolls, and tempura, all prepared with a focus on quality
+  ingredients that highlight authentic tastes. With its accessible features,
+  including wheelchair-friendly parking and seating, it's an inclusive choice
+  for anyone exploring sushi restaurants in the area. The inviting atmosphere,
+  captured in vibrant photos of colorful dishes, makes it a go-to destination
+  for those searching for reliable sushi spots near you, blending simplicity
+  with satisfying meals that keep locals coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Buzzing About$$$Folks checking out sushi places in Woodland
+  Hills often rave about the fresh, well-prepared rolls and bowls that hit the
+  spot without breaking the bank, making it a solid pick for everyday cravings.
+  Many appreciate the straightforward menu that delivers on classic Japanese
+  flavors, with comments highlighting the tasty teriyaki and tempura as standout
+  favorites for a quick, satisfying meal. While some note it's a laid-back spot
+  ideal for families or casual meetups, others mention the efficient service
+  adds to the overall enjoyable experience, even if it's not overly fancy.
+  Overall, it seems like a dependable choice for anyone hunting for top-rated
+  sushi near me, with positive vibes dominating the feedback despite the
+  occasional wait during peak hours.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +247,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Genki Sushi"
+title: Genki Sushi
 permalink: /hawaii/honolulu/genki-sushi.html
 stateAbbr: HI
 stateName: Hawaii
 cityName: Honolulu
 seo:
-  name: "Genki Sushi"
-  type: Restaurant
-  links: null
-description: "Genki Sushi serves delicious sushi in Honolulu, Hawaii. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.genkisushiusa.com/
 place_id: ChIJcWKjRfBtAHwRtIigf1upgi4
 photos:
   - name: >-
@@ -169,8 +167,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x7c006df045a36271:0x2e82a95b7fa088b4!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 19
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 20
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 20
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 20
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 8:00 PM'
+    - 'Tuesday: 11:00 AM – 8:00 PM'
+    - 'Wednesday: 11:00 AM – 8:00 PM'
+    - 'Thursday: 11:00 AM – 8:00 PM'
+    - 'Friday: 11:00 AM – 8:00 PM'
+    - 'Saturday: 11:00 AM – 8:00 PM'
+    - 'Sunday: 11:00 AM – 7:00 PM'
+  nextCloseTime: '2025-05-04T06:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -178,13 +241,56 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (808) 942-9102
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.0'
+rating_count: 647
+website: https://www.genkisushiusa.com/
+description: >-
+  Experience Genki Sushi in Honolulu, HI$$$Genki Sushi in Honolulu, HI, stands
+  out as a vibrant sushi restaurant offering a unique dining experience with
+  innovative features that blend Japanese tradition and modern flair. Located in
+  the bustling Ala Moana neighborhood, this spot delights visitors with its
+  creative presentation of fresh sushi, including a fun delivery system that
+  adds an element of excitement to every meal. The restaurant emphasizes
+  accessibility, with options like wheelchair-accessible seating and entrances,
+  making it welcoming for all guests seeking quality Japanese cuisine. Open
+  daily from late morning until evening, it's an ideal choice for those
+  exploring top sushi options in the area, where fresh ingredients and moderate
+  pricing enhance the overall appeal. Whether you're in the mood for a quick
+  bite or a leisurely meal, this establishment captures the essence of authentic
+  flavors in a casual, engaging atmosphere.
+generative_summary: >-
+  Experience Genki Sushi in Honolulu, HI$$$Genki Sushi in Honolulu, HI, stands
+  out as a vibrant sushi restaurant offering a unique dining experience with
+  innovative features that blend Japanese tradition and modern flair. Located in
+  the bustling Ala Moana neighborhood, this spot delights visitors with its
+  creative presentation of fresh sushi, including a fun delivery system that
+  adds an element of excitement to every meal. The restaurant emphasizes
+  accessibility, with options like wheelchair-accessible seating and entrances,
+  making it welcoming for all guests seeking quality Japanese cuisine. Open
+  daily from late morning until evening, it's an ideal choice for those
+  exploring top sushi options in the area, where fresh ingredients and moderate
+  pricing enhance the overall appeal. Whether you're in the mood for a quick
+  bite or a leisurely meal, this establishment captures the essence of authentic
+  flavors in a casual, engaging atmosphere.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Customer Feedback$$$From what folks are sharing online, Genki
+  Sushi seems to hit the mark for anyone craving solid sushi in a lively
+  setting, with many praising the fresh tastes and creative twists on classic
+  dishes. Visitors often highlight the entertaining delivery method as a fun
+  highlight that keeps things upbeat, contributing to a generally enjoyable vibe
+  without any major complaints. With an average rating around 4.0 from hundreds
+  of comments, it's clear that the value for money stands out, making it a
+  reliable pick for families or groups looking for tasty options nearby. While
+  some mention waits during peak times, the overall consensus leans positive,
+  noting the friendly service and variety that keeps diners coming back. If
+  you're hunting for dependable sushi spots around Honolulu, this one comes
+  across as a solid, approachable choice that delivers on flavor and fun.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +316,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

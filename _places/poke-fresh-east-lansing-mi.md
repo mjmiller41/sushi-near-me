@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Poké Fresh"
+title: Poké Fresh
 permalink: /michigan/east-lansing/poke-fresh.html
 stateAbbr: MI
 stateName: Michigan
 cityName: East Lansing
 seo:
-  name: "Poké Fresh"
-  type: Restaurant
-  links: null
-description: "Poké Fresh serves delicious sushi in East Lansing, Michigan. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://poke-fresh.com/
 place_id: ChIJN_NABv7pIogRGUz8Y6YMGlg
 photos:
   - name: >-
@@ -170,22 +168,171 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8822e9fe0640f337:0x581a0ca663fc4c19!10e5
 primary_type: American Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 20
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 20
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 20
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 8:00 PM'
+    - 'Tuesday: 11:00 AM – 8:00 PM'
+    - 'Wednesday: 11:00 AM – 8:00 PM'
+    - 'Thursday: 11:00 AM – 8:00 PM'
+    - 'Friday: 11:00 AM – 8:00 PM'
+    - 'Saturday: 11:00 AM – 8:00 PM'
+    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+  - openNow: true
+    periods:
+      - open:
+          day: 1
+          hour: 11
+          minute: 0
+        close:
+          day: 1
+          hour: 19
+          minute: 40
+      - open:
+          day: 2
+          hour: 11
+          minute: 0
+        close:
+          day: 2
+          hour: 19
+          minute: 40
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 19
+          minute: 40
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 19
+          minute: 40
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 19
+          minute: 40
+      - open:
+          day: 6
+          hour: 11
+          minute: 0
+        close:
+          day: 6
+          hour: 19
+          minute: 40
+    weekdayDescriptions:
+      - 'Monday: 11:00 AM – 7:40 PM'
+      - 'Tuesday: 11:00 AM – 7:40 PM'
+      - 'Wednesday: 11:00 AM – 7:40 PM'
+      - 'Thursday: 11:00 AM – 7:40 PM'
+      - 'Friday: 11:00 AM – 7:40 PM'
+      - 'Saturday: 11:00 AM – 7:40 PM'
+      - 'Sunday: Closed'
+    secondaryHoursType: DELIVERY
+    nextCloseTime: '2025-05-03T23:40:00Z'
+phone: (517) 580-4408
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.2'
+rating_count: 107
+website: http://poke-fresh.com/
+description: >-
+  Discover Poké Fresh in East Lansing, MI$$$Poké Fresh in East Lansing,
+  Michigan, stands out as a welcoming counter-serve spot specializing in
+  customizable poke bowls that blend fresh flavors with health-conscious
+  choices. This eatery highlights vegan and organic ingredients, creating a
+  vibrant menu perfect for those seeking nutritious, build-your-own meals in a
+  casual setting. With amenities like Wi-Fi, it's an ideal stop for a quick bite
+  during a busy day or a relaxed gathering. The restaurant's accessibility
+  features, such as wheelchair-friendly entrances and seating, ensure a
+  comfortable experience for all visitors. For anyone exploring fresh poke
+  options near you, Poké Fresh delivers a satisfying mix of quality ingredients
+  and convenient vibes.
+generative_summary: >-
+  Discover Poké Fresh in East Lansing, MI$$$Poké Fresh in East Lansing,
+  Michigan, stands out as a welcoming counter-serve spot specializing in
+  customizable poke bowls that blend fresh flavors with health-conscious
+  choices. This eatery highlights vegan and organic ingredients, creating a
+  vibrant menu perfect for those seeking nutritious, build-your-own meals in a
+  casual setting. With amenities like Wi-Fi, it's an ideal stop for a quick bite
+  during a busy day or a relaxed gathering. The restaurant's accessibility
+  features, such as wheelchair-friendly entrances and seating, ensure a
+  comfortable experience for all visitors. For anyone exploring fresh poke
+  options near you, Poké Fresh delivers a satisfying mix of quality ingredients
+  and convenient vibes.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$People often praise the fresh ingredients and
+  generous portions at this poke spot, making it a solid pick for a tasty,
+  customizable meal. Many highlight the quick service and welcoming atmosphere
+  as key highlights, helping it stand out among local dining choices. With an
+  overall rating around 4.2, feedback frequently notes the healthy options and
+  great value, appealing to those watching their diet without sacrificing
+  flavor. It's commonly mentioned as a reliable go-to for casual lunches or
+  dinners, especially for groups or individuals seeking variety. While not
+  perfect, the general buzz suggests Poké Fresh offers a worthwhile experience
+  that's frequently recommended for anyone hunting for top-rated fresh bowls in
+  the area.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +358,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

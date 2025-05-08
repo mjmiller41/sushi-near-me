@@ -5,4 +5,5 @@ permalink: /california/la-canada-flintridge/
 stateAbbr: CA
 stateName: California
 cityName: La Cañada Flintridge
+
 ---

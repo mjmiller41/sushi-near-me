@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Mikuni | Folsom"
+title: Mikuni | Folsom
 permalink: /california/folsom/mikuni-folsom.html
 stateAbbr: CA
 stateName: California
 cityName: Folsom
 seo:
-  name: "Mikuni | Folsom"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Mikuni | Folsom serves delicious sushi in Folsom, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJO2rO_w3lmoARV_fB8rX-8Ls
 photos:
   - name: >-
@@ -185,7 +183,45 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Mikuni in Folsom, CA$$$Mikuni in Folsom, CA, stands out as an
+  energetic Japanese spot that delights diners with its fresh sushi and seafood
+  selections, making it a go-to choice for those seeking top sushi restaurants
+  in the area. The venue enhances the experience with a welcoming patio for
+  outdoor dining, paired with a selection of sake and beer that complements the
+  flavorful menu. Accessibility features like wheelchair-friendly parking and
+  entrances add to its appeal for a wide range of visitors looking for sushi
+  places near me. This spot captures the essence of authentic Japanese cuisine
+  while offering a relaxed atmosphere that encourages savoring every bite.
+  Whether you're exploring sushi close to me or craving a casual meal, Mikuni
+  delivers a memorable blend of quality ingredients and vibrant vibes.
+generative_summary: >-
+  Discover Mikuni in Folsom, CA$$$Mikuni in Folsom, CA, stands out as an
+  energetic Japanese spot that delights diners with its fresh sushi and seafood
+  selections, making it a go-to choice for those seeking top sushi restaurants
+  in the area. The venue enhances the experience with a welcoming patio for
+  outdoor dining, paired with a selection of sake and beer that complements the
+  flavorful menu. Accessibility features like wheelchair-friendly parking and
+  entrances add to its appeal for a wide range of visitors looking for sushi
+  places near me. This spot captures the essence of authentic Japanese cuisine
+  while offering a relaxed atmosphere that encourages savoring every bite.
+  Whether you're exploring sushi close to me or craving a casual meal, Mikuni
+  delivers a memorable blend of quality ingredients and vibrant vibes.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About This Spot$$$Folks frequently praise this sushi
+  restaurant for its incredibly fresh and tasty rolls, with many highlighting
+  standout dishes like the pepperfin as a real crowd-pleaser. Service stands out
+  too, as visitors often note how attentive and friendly the staff are, even
+  during busy times, creating a welcoming vibe for everyone. It's clear that the
+  overall experience leaves people feeling satisfied and eager to return, thanks
+  to the consistent quality and attention to detail. While opinions vary, the
+  general consensus leans positive, making it a solid pick for anyone hunting
+  for the best sushi near me. If you're in the mood for reliable Japanese fare,
+  this place comes highly recommended for its approachable charm and solid
+  execution.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +247,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

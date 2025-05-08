@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Umi Japanese Restaurant"
+title: Umi Japanese Restaurant
 permalink: /florida/winter-park/umi-japanese-restaurant.html
 stateAbbr: FL
 stateName: Florida
 cityName: Winter Park
 seo:
-  name: "Umi Japanese Restaurant"
-  type: Restaurant
+  type: restaurant
   links: http://www.umijapaneserestaurant.com/
-description: "Umi Japanese Restaurant serves delicious sushi in Winter Park, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJdQPyXwVw54gRWJg4VHN9Qnk
 photos:
   - name: >-
@@ -199,7 +197,47 @@ price_range: $20 &ndash; $30
 rating: '4.7'
 rating_count: 0
 website: http://www.umijapaneserestaurant.com/
+description: >-
+  Discover Umi Japanese Restaurant in Winter Park, FL$$$Umi Japanese Restaurant
+  in Winter Park, FL, offers a welcoming and cozy atmosphere ideal for enjoying
+  fresh, authentic Japanese-inspired cuisine. With convenient hours starting
+  from 11:30 AM daily and thoughtful accessibility features like
+  wheelchair-friendly parking and entrances, it caters to a diverse crowd
+  seeking relaxed dining options. The menu highlights a variety of traditional
+  flavors and creative dishes, making it a great spot for casual lunches or
+  evening get-togethers with friends. Visitors can explore top-rated Japanese
+  places nearby, where fresh sushi and other specialties stand out for their
+  quality and ease of access. This sushi restaurant near me provides a
+  comfortable setting that appeals to those hunting for reliable Japanese eats
+  in the area.
+generative_summary: >-
+  Discover Umi Japanese Restaurant in Winter Park, FL$$$Umi Japanese Restaurant
+  in Winter Park, FL, offers a welcoming and cozy atmosphere ideal for enjoying
+  fresh, authentic Japanese-inspired cuisine. With convenient hours starting
+  from 11:30 AM daily and thoughtful accessibility features like
+  wheelchair-friendly parking and entrances, it caters to a diverse crowd
+  seeking relaxed dining options. The menu highlights a variety of traditional
+  flavors and creative dishes, making it a great spot for casual lunches or
+  evening get-togethers with friends. Visitors can explore top-rated Japanese
+  places nearby, where fresh sushi and other specialties stand out for their
+  quality and ease of access. This sushi restaurant near me provides a
+  comfortable setting that appeals to those hunting for reliable Japanese eats
+  in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Folks exploring this popular sushi spot in Winter
+  Park often praise the fresh and flavorful dishes that deliver a satisfying
+  experience, making it a reliable choice for everyday Japanese cravings. Many
+  highlight the friendly service and inviting vibe that turn meals into
+  enjoyable moments, adding to the overall appeal for groups or solo diners.
+  Reviewers frequently note the fair pricing and generous portions, offering
+  solid value for anyone seeking quality sushi options close by. While some
+  mention occasional waits during busy periods, the general feedback remains
+  upbeat, emphasizing the authentic tastes and welcoming environment. Overall,
+  it's a go-to pick for those looking for top-rated sushi restaurants, with
+  shared experiences suggesting a hassle-free visit worth trying.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +263,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

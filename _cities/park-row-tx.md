@@ -5,4 +5,5 @@ permalink: /texas/park-row/
 stateAbbr: TX
 stateName: Texas
 cityName: Park Row
+
 ---

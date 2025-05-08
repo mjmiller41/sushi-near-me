@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yosu Sushi"
+title: Yosu Sushi
 permalink: /oregon/portland/yosu-sushi.html
 stateAbbr: OR
 stateName: Oregon
 cityName: Portland
 seo:
-  name: "Yosu Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.yosusushi.com/
-description: "Yosu Sushi serves delicious sushi in Portland, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJN6X7H12nlVQRxsDiJJKcZX8
 photos:
   - name: >-
@@ -167,22 +165,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x5495a75d1ffba537:0x7f659c9224e2c0c6!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 13
+        minute: 30
+      close:
+        day: 0
+        hour: 22
+        minute: 30
+    - open:
+        day: 2
+        hour: 13
+        minute: 30
+      close:
+        day: 2
+        hour: 22
+        minute: 30
+    - open:
+        day: 3
+        hour: 13
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 30
+    - open:
+        day: 4
+        hour: 13
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 30
+    - open:
+        day: 5
+        hour: 13
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 13
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: Closed'
-    - 'Tuesday: 12:00 – 10:30 PM'
-    - 'Wednesday: 12:30 – 10:30 PM'
+    - 'Tuesday: 1:30 – 10:30 PM'
+    - 'Wednesday: 1:30 – 10:30 PM'
     - 'Thursday: 1:30 – 10:30 PM'
-    - 'Friday: 12:00 – 10:30 PM'
-    - 'Saturday: 12:00 – 10:30 PM'
+    - 'Friday: 1:30 – 10:30 PM'
+    - 'Saturday: 1:30 – 10:30 PM'
     - 'Sunday: 1:30 – 10:30 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 12:00 – 10:30 PM'
-    - 'Wednesday: 12:30 – 10:30 PM'
-    - 'Thursday: 1:30 – 10:30 PM'
-    - 'Friday: 12:00 – 10:30 PM'
-    - 'Saturday: 12:00 – 10:30 PM'
-    - 'Sunday: 1:30 – 10:30 PM'
+  nextCloseTime: '2025-05-04T05:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -194,35 +235,249 @@ phone: (971) 867-2140
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.3'
-rating_count: 0
+rating_count: 99
 website: http://www.yosusushi.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Explore Yosu Sushi in Portland, OR$$$Yosu Sushi in Portland, OR, stands out as
+  a charming Japanese restaurant that blends traditional flavors with innovative
+  twists on classic dishes. This spot delights diners with its adventurous sushi
+  rolls, complemented by a selection of small plates, beer, and wine, making it
+  a go-to choice for those seeking authentic Japanese cuisine in a welcoming
+  setting. The restaurant's elegant interior and thoughtful ambiance create an
+  inviting atmosphere perfect for casual meals or special occasions, enhancing
+  the overall dining experience. With options for accessibility and a focus on
+  quality ingredients, it's an ideal destination for anyone exploring top-rated
+  sushi restaurants in the area. Whether you're in the mood for fresh rolls or a
+  relaxed vibe, Yosu Sushi offers a memorable taste of Japanese culture right in
+  the heart of Portland.
+generative_summary: >-
+  Explore Yosu Sushi in Portland, OR$$$Yosu Sushi in Portland, OR, stands out as
+  a charming Japanese restaurant that blends traditional flavors with innovative
+  twists on classic dishes. This spot delights diners with its adventurous sushi
+  rolls, complemented by a selection of small plates, beer, and wine, making it
+  a go-to choice for those seeking authentic Japanese cuisine in a welcoming
+  setting. The restaurant's elegant interior and thoughtful ambiance create an
+  inviting atmosphere perfect for casual meals or special occasions, enhancing
+  the overall dining experience. With options for accessibility and a focus on
+  quality ingredients, it's an ideal destination for anyone exploring top-rated
+  sushi restaurants in the area. Whether you're in the mood for fresh rolls or a
+  relaxed vibe, Yosu Sushi offers a memorable taste of Japanese culture right in
+  the heart of Portland.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJN6X7H12nlVQRxsDiJJKcZX8/reviews/ChdDSUhNMG9nS0VJQ0FnTUNvdjhTRDVnRRAB
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        I’ve been searching for restaurants that mimic a taste of being in my
+        childhood home, a bit of a nostalgia and comfortability. Where the art
+        is perfect and just makes sense. Whether it be your home or mine, I feel
+        so welcome. Thank you for my meal, I adore the bachelorette bash water
+        cup as it represents how we should reduce, reuse, and recycle.
+      languageCode: en
+    originalText:
+      text: >-
+        I’ve been searching for restaurants that mimic a taste of being in my
+        childhood home, a bit of a nostalgia and comfortability. Where the art
+        is perfect and just makes sense. Whether it be your home or mine, I feel
+        so welcome. Thank you for my meal, I adore the bachelorette bash water
+        cup as it represents how we should reduce, reuse, and recycle.
+      languageCode: en
+    authorAttribution:
+      displayName: Romana Sena
+      uri: https://www.google.com/maps/contrib/104118733111014718245/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWDLUoFcC118q8-AgNYm3bHACeGE-XjsBwEDn2i9DKJ18QHeyfaFw=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-21T03:02:48.811965Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNvdjhTRDVnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNvdjhTRDVnRRAB!2m1!1s0x5495a75d1ffba537:0x7f659c9224e2c0c6
+  - name: >-
+      places/ChIJN6X7H12nlVQRxsDiJJKcZX8/reviews/ChdDSUhNMG9nS0VJQ0FnSUNucE82U19RRRAB
+    relativePublishTimeDescription: 7 months ago
+    rating: 5
+    text:
+      text: >-
+        I had an absolutely wonderful dining experience at this sushi
+        restaurant. The sushi was not only delicious but also extremely clean,
+        giving off a homely feeling. What made this experience even more special
+        was the charming proprietress. She is incredibly beautiful with a sweet
+        voice and an excellent personality. It was truly a stroke of luck to
+        have dined here. I highly recommend this place to anyone looking for
+        great sushi and a warm, welcoming atmosphere.
+      languageCode: en
+    originalText:
+      text: >-
+        I had an absolutely wonderful dining experience at this sushi
+        restaurant. The sushi was not only delicious but also extremely clean,
+        giving off a homely feeling. What made this experience even more special
+        was the charming proprietress. She is incredibly beautiful with a sweet
+        voice and an excellent personality. It was truly a stroke of luck to
+        have dined here. I highly recommend this place to anyone looking for
+        great sushi and a warm, welcoming atmosphere.
+      languageCode: en
+    authorAttribution:
+      displayName: 赵佩琦
+      uri: https://www.google.com/maps/contrib/112840027918361713246/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJowEaHnscwn8MU2JhaVAZXjLwBAPWbnTQ2o3jTDHDeBpbG4g=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-09-23T00:20:02.045932Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNucE82U19RRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNucE82U19RRRAB!2m1!1s0x5495a75d1ffba537:0x7f659c9224e2c0c6
+  - name: >-
+      places/ChIJN6X7H12nlVQRxsDiJJKcZX8/reviews/ChZDSUhNMG9nS0VJQ0FnSURuaWN2RUxREAE
+    relativePublishTimeDescription: 6 months ago
+    rating: 5
+    text:
+      text: >-
+        This place was adorable!! And the food was amazing quality and priced so
+        well for the experience! It may take a bit for things to come out but we
+        got a ton of fried things which take longer! The appetizers come out
+        right away!! Especially because the fried stuff is a type of katsu
+        style. Honestly the best deep fried rolls I’ve ever had!! We got the st.
+        John’s Bridge roll and the fish was so yummy!! I’m a real stickler about
+        fish quality but this fish was so good!! I really hope as they get
+        popular they won’t ever change the quality of their rolls because this
+        will keep me coming back for more!!
+      languageCode: en
+    originalText:
+      text: >-
+        This place was adorable!! And the food was amazing quality and priced so
+        well for the experience! It may take a bit for things to come out but we
+        got a ton of fried things which take longer! The appetizers come out
+        right away!! Especially because the fried stuff is a type of katsu
+        style. Honestly the best deep fried rolls I’ve ever had!! We got the st.
+        John’s Bridge roll and the fish was so yummy!! I’m a real stickler about
+        fish quality but this fish was so good!! I really hope as they get
+        popular they won’t ever change the quality of their rolls because this
+        will keep me coming back for more!!
+      languageCode: en
+    authorAttribution:
+      displayName: Grumpy Acorn
+      uri: https://www.google.com/maps/contrib/100832308356880663671/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIoFyMRuEP3RtX7wwgKh-HR9hnOAQcxmEY3NKbELY3Maw6g2g=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-10-07T06:15:47.604176Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURuaWN2RUxREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURuaWN2RUxREAE!2m1!1s0x5495a75d1ffba537:0x7f659c9224e2c0c6
+  - name: >-
+      places/ChIJN6X7H12nlVQRxsDiJJKcZX8/reviews/ChdDSUhNMG9nS0VJQ0FnSUNiaTlfYnVnRRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        Great new sushi spot on NE Broadway at 7th. Just the kind of update the
+        Lloyd neighborhood needs. Open the door to an unexpectedly elegant room
+        with an upstairs dining loft. I ordered the Rose City California role
+        for take-out and was served a glass of water while I waited, nice. The
+        sushi was delicious and made a delicious appetizer when I got home.
+        Service was quick. Honestly it wasn’t busy while I was there, but as I
+        was entering I asked a fellow patron if he’d been here before and how is
+        it? Answer: “Really good, I cone here a lot with my girlfriend”. I can
+        see why, I’m going back for the dine-in experience.
+      languageCode: en
+    originalText:
+      text: >-
+        Great new sushi spot on NE Broadway at 7th. Just the kind of update the
+        Lloyd neighborhood needs. Open the door to an unexpectedly elegant room
+        with an upstairs dining loft. I ordered the Rose City California role
+        for take-out and was served a glass of water while I waited, nice. The
+        sushi was delicious and made a delicious appetizer when I got home.
+        Service was quick. Honestly it wasn’t busy while I was there, but as I
+        was entering I asked a fellow patron if he’d been here before and how is
+        it? Answer: “Really good, I cone here a lot with my girlfriend”. I can
+        see why, I’m going back for the dine-in experience.
+      languageCode: en
+    authorAttribution:
+      displayName: Susie Higgins
+      uri: https://www.google.com/maps/contrib/108868741775928115454/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXgL_vHzw7duYDXooiDTsedahSXfWlxszWRyDYtHuYMYVjPCbt_pg=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-01-15T01:21:45.109944Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNiaTlfYnVnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNiaTlfYnVnRRAB!2m1!1s0x5495a75d1ffba537:0x7f659c9224e2c0c6
+  - name: >-
+      places/ChIJN6X7H12nlVQRxsDiJJKcZX8/reviews/ChZDSUhNMG9nS0VJQ0FnTURnX2ZQU1R3EAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        Absolutely the best sushi I’ve ever had, the staff was incredibly
+        friendly. Here for a concert but I had to come back twice! And they
+        actually remembered me! Love these guys and will love to come back again
+        🫶🏻
+      languageCode: en
+    originalText:
+      text: >-
+        Absolutely the best sushi I’ve ever had, the staff was incredibly
+        friendly. Here for a concert but I had to come back twice! And they
+        actually remembered me! Love these guys and will love to come back again
+        🫶🏻
+      languageCode: en
+    authorAttribution:
+      displayName: burro
+      uri: https://www.google.com/maps/contrib/102602636967780223138/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUTVoxXoE6UJkO5zJmV0A9zVprN54NrBMAXKGIHuzohxO5_egey=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-02-26T23:03:30.213537Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURnX2ZQU1R3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURnX2ZQU1R3EAE!2m1!1s0x5495a75d1ffba537:0x7f659c9224e2c0c6
+review_summary: >-
+  Customer Feedback on Yosu Sushi$$$Folks chatting about Yosu Sushi often
+  highlight the fresh and flavorful sushi that hits the spot every time, making
+  it a solid pick for anyone craving reliable Japanese eats nearby. Many
+  appreciate the cozy, homely feel of the place, along with quick service and
+  generous portions that provide great value without breaking the bank. It's
+  clear that the welcoming atmosphere and high-quality ingredients keep people
+  coming back for more, turning simple meals into enjoyable experiences. While
+  some note that wait times can vary with popular fried items, the overall
+  consensus leans positive, praising the spot as a hidden gem for tasty rolls
+  and friendly vibes. If you're on the hunt for the best sushi around, this
+  place delivers a consistently satisfying meal that leaves a good impression.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  paidStreetParking: true
+  valetParking: false
+  freeGarageParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsCashOnly: false
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
+curbside_pickup: true
+delivery: true
+dine_in: true
 good_for_children: null
 good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
 reservable: null
-restroom: null
-serves_beer: null
+restroom: true
+serves_beer: true
 serves_breakfast: null
-serves_brunch: null
+serves_brunch: false
 serves_cocktails: null
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

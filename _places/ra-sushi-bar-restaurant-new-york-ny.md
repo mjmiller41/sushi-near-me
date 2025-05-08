@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "RA Sushi Bar Restaurant"
+title: RA Sushi Bar Restaurant
 permalink: /new-york/new-york/ra-sushi-bar-restaurant.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "RA Sushi Bar Restaurant"
-  type: Restaurant
+  type: restaurant
   links: https://rasushi.com/locations/times-square-ny/
-description: "Snazzy Japanese fusion chain known for its inventive sushi, cocktails & happy-hour deals at the bar. RA Sushi Bar Restaurant serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJV0lhkFRYwokRnOYz2uD9LN4
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $30 &ndash; $50
 rating: '4.3'
 rating_count: 0
 website: https://rasushi.com/locations/times-square-ny/
+description: >-
+  Explore RA Sushi in New York, NY$$$RA Sushi Bar Restaurant in New York, NY,
+  stands out as a vibrant chain offering creative sushi and innovative Japanese
+  dishes in a relaxed atmosphere. This spot blends fresh flavors with inventive
+  presentations, making it a go-to for anyone seeking flavorful rolls and
+  signature cocktails that elevate the dining experience. Located conveniently
+  in the heart of Times Square, it features accessible entrances and a casual
+  vibe perfect for unwinding after exploring the city. With options for
+  happy-hour deals and a menu that highlights fresh ingredients, it's an ideal
+  choice for those looking for quality Japanese fare near bustling urban areas.
+  Whether you're in the mood for a quick bite or a leisurely meal, this
+  restaurant delivers on taste and ambiance that keeps locals and visitors
+  coming back.
+generative_summary: >-
+  Explore RA Sushi in New York, NY$$$RA Sushi Bar Restaurant in New York, NY,
+  stands out as a vibrant chain offering creative sushi and innovative Japanese
+  dishes in a relaxed atmosphere. This spot blends fresh flavors with inventive
+  presentations, making it a go-to for anyone seeking flavorful rolls and
+  signature cocktails that elevate the dining experience. Located conveniently
+  in the heart of Times Square, it features accessible entrances and a casual
+  vibe perfect for unwinding after exploring the city. With options for
+  happy-hour deals and a menu that highlights fresh ingredients, it's an ideal
+  choice for those looking for quality Japanese fare near bustling urban areas.
+  Whether you're in the mood for a quick bite or a leisurely meal, this
+  restaurant delivers on taste and ambiance that keeps locals and visitors
+  coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJV0lhkFRYwokRnOYz2uD9LN4/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3OTRPLTlRRRAB
@@ -364,6 +389,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURBd0wtcVVnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURBd0wtcVVnEAE!2m1!1s0x89c2585490614957:0xde2cfde0da33e69c
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors to RA Sushi are buzzing about the
+  fresh and flavorful sushi that hits the spot every time, with many
+  highlighting the creative twists on classic rolls. Folks appreciate the
+  welcoming atmosphere and lively music that make dining feel upbeat and
+  enjoyable, turning meals into memorable experiences. The service stands out as
+  attentive and helpful, ensuring everyone feels taken care of without any fuss,
+  while happy-hour specials add extra value for those stopping by after a long
+  day. Overall, it's praised as a top pick for anyone craving quality Japanese
+  options in a casual setting, making it a reliable choice for groups or solo
+  diners seeking a positive vibe. If you're exploring sushi spots nearby, this
+  place often comes up as a favorite for its consistent appeal and satisfying
+  meals.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidStreetParking: true
   valetParking: false
@@ -395,8 +434,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Snazzy Japanese fusion chain known for its inventive sushi, cocktails &
   happy-hour deals at the bar.
 

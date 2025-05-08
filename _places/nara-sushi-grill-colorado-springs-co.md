@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Nara Sushi & Grill"
+title: Nara Sushi & Grill
 permalink: /colorado/colorado-springs/nara-sushi-grill.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Colorado Springs
 seo:
-  name: "Nara Sushi & Grill"
-  type: Restaurant
+  type: restaurant
   links: https://narasushiandgrill.com/
-description: "Nara Sushi & Grill serves delicious sushi in Colorado Springs, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJLy5MOZlaE4cR8fi-6_0sYt0
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x87135a99394c2e2f:0xdd622cfdebbef8f1!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 16
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 16
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 4:00 – 9:00 PM'
     - 'Tuesday: 4:00 – 9:00 PM'
     - 'Wednesday: 4:00 – 9:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 4:00 – 9:30 PM'
     - 'Saturday: 4:00 – 9:30 PM'
     - 'Sunday: 4:00 – 9:00 PM'
-  current:
-    - 'Monday: 4:00 – 9:00 PM'
-    - 'Tuesday: 4:00 – 9:00 PM'
-    - 'Wednesday: 4:00 – 9:00 PM'
-    - 'Thursday: 4:00 – 9:00 PM'
-    - 'Friday: 4:00 – 9:30 PM'
-    - 'Saturday: 4:00 – 9:30 PM'
-    - 'Sunday: 4:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T03:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,323 @@ phone: (719) 230-0645
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.6'
-rating_count: 0
+rating_count: 822
 website: https://narasushiandgrill.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Nara Sushi & Grill in Colorado Springs, CO$$$Nara Sushi & Grill in
+  Colorado Springs, CO, stands out as a welcoming Japanese dining spot known for
+  its fresh seafood and flavorful grilled options that appeal to sushi
+  enthusiasts. The restaurant offers a cozy atmosphere with accessible features
+  like wheelchair-friendly entrances and seating, making it easy for everyone to
+  enjoy a meal. Diners can savor a variety of creative rolls and classic dishes
+  prepared with high-quality ingredients, all served in a setting that's perfect
+  for casual evenings or group outings. With convenient hours in the evening,
+  it's an ideal choice for those searching for reliable sushi options nearby,
+  blending authentic flavors with a relaxed vibe that keeps locals coming back.
+generative_summary: >-
+  Discover Nara Sushi & Grill in Colorado Springs, CO$$$Nara Sushi & Grill in
+  Colorado Springs, CO, stands out as a welcoming Japanese dining spot known for
+  its fresh seafood and flavorful grilled options that appeal to sushi
+  enthusiasts. The restaurant offers a cozy atmosphere with accessible features
+  like wheelchair-friendly entrances and seating, making it easy for everyone to
+  enjoy a meal. Diners can savor a variety of creative rolls and classic dishes
+  prepared with high-quality ingredients, all served in a setting that's perfect
+  for casual evenings or group outings. With convenient hours in the evening,
+  it's an ideal choice for those searching for reliable sushi options nearby,
+  blending authentic flavors with a relaxed vibe that keeps locals coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJLy5MOZlaE4cR8fi-6_0sYt0/reviews/ChZDSUhNMG9nS0VJQ0FnSURfdGNycFdnEAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        Nara is extremely underrated. I don’t know why this place isn’t packed
+        every night. Their ingredients are super fresh and the sushi is
+        incredible (just look at the pictures). Nara makes that fancy sushi
+        place in downtown springs look like Long John Silvers.
+      languageCode: en
+    originalText:
+      text: >-
+        Nara is extremely underrated. I don’t know why this place isn’t packed
+        every night. Their ingredients are super fresh and the sushi is
+        incredible (just look at the pictures). Nara makes that fancy sushi
+        place in downtown springs look like Long John Silvers.
+      languageCode: en
+    authorAttribution:
+      displayName: Zach Schaefer
+      uri: https://www.google.com/maps/contrib/104753374278374364969/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKFCYYUwW6ejyeSXu9A5KUel3v8FzGVlbMH-2t9M7u7tE8b=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-01-26T00:02:07.481403Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURfdGNycFdnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURfdGNycFdnEAE!2m1!1s0x87135a99394c2e2f:0xdd622cfdebbef8f1
+  - name: >-
+      places/ChIJLy5MOZlaE4cR8fi-6_0sYt0/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3d0xfeFF3EAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        A Local Gem – The Best Sushi, Amazing People
+
+
+        Nara Sushi & Grill is hands down one of our favorite restaurants—my wife
+        and I have been going there for years, and it never disappoints. The
+        sushi is consistently excellent—fresh, beautifully prepared, and
+        absolutely delicious. The service is equally outstanding—always warm,
+        attentive, and genuine.
+
+
+        What truly sets Nara apart, though, are the owners, Jae and Kim. They
+        are among the most hardworking, dedicated people I’ve ever met. Despite
+        enduring major setbacks, including a devastating fire in a neighboring
+        business and the challenges of COVID, they’ve continued to pour their
+        hearts into offering the best sushi and Asian entrées in town.
+
+
+        Please understand that great sushi takes time—perfection can’t be
+        rushed. The quality and care behind every dish is absolutely worth the
+        wait.
+
+
+        If you’re lucky enough to get to know Jae and Kim, you’ll be as blessed
+        as we are. Nara Sushi & Grill is not just a restaurant—it’s a place
+        built on passion, resilience, and love for the craft. Highly, highly
+        recommend!
+      languageCode: en
+    originalText:
+      text: >-
+        A Local Gem – The Best Sushi, Amazing People
+
+
+        Nara Sushi & Grill is hands down one of our favorite restaurants—my wife
+        and I have been going there for years, and it never disappoints. The
+        sushi is consistently excellent—fresh, beautifully prepared, and
+        absolutely delicious. The service is equally outstanding—always warm,
+        attentive, and genuine.
+
+
+        What truly sets Nara apart, though, are the owners, Jae and Kim. They
+        are among the most hardworking, dedicated people I’ve ever met. Despite
+        enduring major setbacks, including a devastating fire in a neighboring
+        business and the challenges of COVID, they’ve continued to pour their
+        hearts into offering the best sushi and Asian entrées in town.
+
+
+        Please understand that great sushi takes time—perfection can’t be
+        rushed. The quality and care behind every dish is absolutely worth the
+        wait.
+
+
+        If you’re lucky enough to get to know Jae and Kim, you’ll be as blessed
+        as we are. Nara Sushi & Grill is not just a restaurant—it’s a place
+        built on passion, resilience, and love for the craft. Highly, highly
+        recommend!
+      languageCode: en
+    authorAttribution:
+      displayName: Kevin K Snyder MD
+      uri: https://www.google.com/maps/contrib/104824935808390110473/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWUvR3zDo2lpEMVboAjpb11ffmGOnGbvm5JKm6iQZ_8mw1fDG7p=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-03-22T15:09:13.959411Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUR3d0xfeFF3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUR3d0xfeFF3EAE!2m1!1s0x87135a99394c2e2f:0xdd622cfdebbef8f1
+  - name: >-
+      places/ChIJLy5MOZlaE4cR8fi-6_0sYt0/reviews/ChZDSUhNMG9nS0VJQ0FnSURUdWI3UlFnEAE
+    relativePublishTimeDescription: 11 months ago
+    rating: 5
+    text:
+      text: >-
+        This is a great neighborhood sushi spot. When we went, someone was
+        having a birthday and they brought out a ridiculously cool sushi boat
+        for them, complete with moving parts 😂
+
+
+        Service for us was really prompt - we were seated right away and we
+        don’t remember the food taking a long time in any sense of the word.
+
+
+        We ordered 2 nigiri- salmon and tuna and 2 rolls and a seaweed salad.
+        The seaweed salad was presented really lovely with flowers and a small
+        salad underneath. Strong sesame flavor- I’d recommend this!
+
+
+        The salmon nigiri was good flavor and texture. My dining partner liked
+        the tuna nigiri but I couldn’t get into it - maybe it was just me.
+
+
+        Crazy spicy was the best roll. It’s deep fried and not really sushi but
+        it was really really tasty 😂 like really.
+
+
+        The dragon roll was good but simply had too much - this is a 2 bite
+        roll!
+
+
+        The specials all looked good especially the red snapper- we might get
+        that when we come back.
+      languageCode: en
+    originalText:
+      text: >-
+        This is a great neighborhood sushi spot. When we went, someone was
+        having a birthday and they brought out a ridiculously cool sushi boat
+        for them, complete with moving parts 😂
+
+
+        Service for us was really prompt - we were seated right away and we
+        don’t remember the food taking a long time in any sense of the word.
+
+
+        We ordered 2 nigiri- salmon and tuna and 2 rolls and a seaweed salad.
+        The seaweed salad was presented really lovely with flowers and a small
+        salad underneath. Strong sesame flavor- I’d recommend this!
+
+
+        The salmon nigiri was good flavor and texture. My dining partner liked
+        the tuna nigiri but I couldn’t get into it - maybe it was just me.
+
+
+        Crazy spicy was the best roll. It’s deep fried and not really sushi but
+        it was really really tasty 😂 like really.
+
+
+        The dragon roll was good but simply had too much - this is a 2 bite
+        roll!
+
+
+        The specials all looked good especially the red snapper- we might get
+        that when we come back.
+      languageCode: en
+    authorAttribution:
+      displayName: Stephanie Brown
+      uri: https://www.google.com/maps/contrib/109546576215692335497/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJ-0UPnL3O7OZe1YnIY9B0hI3MlWv8PW0gGWym4Ja9Y18vX3g=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-05-26T01:30:11.641662Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURUdWI3UlFnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURUdWI3UlFnEAE!2m1!1s0x87135a99394c2e2f:0xdd622cfdebbef8f1
+  - name: >-
+      places/ChIJLy5MOZlaE4cR8fi-6_0sYt0/reviews/ChdDSUhNMG9nS0VJQ0FnSUNycElYajFBRRAB
+    relativePublishTimeDescription: 10 months ago
+    rating: 5
+    text:
+      text: >-
+        Excellent sushi restaurant, we was passing town and noticed this
+        restaurant and we decided to risk it.
+
+        For our surprise it was worth it. Food was delicious and rich in flavor.
+
+        The chef JAE give us a surprise for our child , The nice serves also did
+        a great job
+
+        We really thank you for all the service and we recommend this place to
+        any visitor who love sushi.
+      languageCode: en
+    originalText:
+      text: >-
+        Excellent sushi restaurant, we was passing town and noticed this
+        restaurant and we decided to risk it.
+
+        For our surprise it was worth it. Food was delicious and rich in flavor.
+
+        The chef JAE give us a surprise for our child , The nice serves also did
+        a great job
+
+        We really thank you for all the service and we recommend this place to
+        any visitor who love sushi.
+      languageCode: en
+    authorAttribution:
+      displayName: Sahar O
+      uri: https://www.google.com/maps/contrib/110142929448376738985/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVQr7Ow_RXEWF1lI0u6QbDX9eYBlK5SP7Al5eRRksWJNew97GBWDQ=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-07-04T05:32:48.282525Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNycElYajFBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNycElYajFBRRAB!2m1!1s0x87135a99394c2e2f:0xdd622cfdebbef8f1
+  - name: >-
+      places/ChIJLy5MOZlaE4cR8fi-6_0sYt0/reviews/ChdDSUhNMG9nS0VJQ0FnSUNydHAycnpRRRAB
+    relativePublishTimeDescription: 10 months ago
+    rating: 5
+    text:
+      text: >-
+        A typical place for a delicious dinner. Everything was fresh and
+        delicious. Beautiful sashimi serving. Delicious baby bento. The rolls
+        were delicious. Soup is a large portion, be prepared. I liked the
+        desserts. The service was fast and very friendly.
+      languageCode: en
+    originalText:
+      text: >-
+        A typical place for a delicious dinner. Everything was fresh and
+        delicious. Beautiful sashimi serving. Delicious baby bento. The rolls
+        were delicious. Soup is a large portion, be prepared. I liked the
+        desserts. The service was fast and very friendly.
+      languageCode: en
+    authorAttribution:
+      displayName: Natalia
+      uri: https://www.google.com/maps/contrib/102550397898769506797/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUAUgD0BJDCAXxWxV3W-FLvZROphvRu49wUSRwpdLlhDCIpRZA9Bg=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-07-07T00:09:55.253781Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNydHAycnpRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNydHAycnpRRRAB!2m1!1s0x87135a99394c2e2f:0xdd622cfdebbef8f1
+review_summary: >-
+  Buzz Around This Local Sushi Favorite$$$Visitors frequently praise the fresh
+  and flavorful sushi at this spot, highlighting how it delivers on taste and
+  quality without breaking the bank. Many note the efficient service that adds
+  to the overall enjoyable experience, making it a go-to for quick yet
+  satisfying meals. Folks appreciate the variety of rolls and grilled dishes
+  that cater to different preferences, often mentioning how the portions feel
+  generous and well worth the wait. While some mention that popular items can
+  take a bit of time due to their careful preparation, the consensus leans
+  positive, with plenty of nods to its value as a solid pick for anyone craving
+  Japanese cuisine in the area. Overall, it's clear that this place earns its
+  high marks by consistently offering tasty options that leave diners feeling
+  satisfied and eager to return.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
 delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: true
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
+serves_dinner: true
+serves_dessert: true
 serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

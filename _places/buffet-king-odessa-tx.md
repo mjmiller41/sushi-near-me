@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Buffet King"
+title: Buffet King
 permalink: /texas/odessa/buffet-king.html
 stateAbbr: TX
 stateName: Texas
 cityName: Odessa
 seo:
-  name: "Buffet King"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Buffet King serves delicious sushi in Odessa, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJgzIT0i7P-4YRzOsZAqlU9L8
 photos:
   - name: >-
@@ -185,7 +183,42 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  About Buffet King in Odessa, TX$$$Buffet King in Odessa, Texas, stands out as
+  a casual dining destination featuring a wide array of Chinese-inspired dishes,
+  including fresh sushi options that cater to those seeking flavorful Asian
+  cuisine. The spot highlights a Mongolian grill for customized meals, alongside
+  a variety of traditional eats and a dedicated kids' menu, making it ideal for
+  family outings or quick meals. Visitors can enjoy an accessible atmosphere
+  with wheelchair-friendly features, enhancing the overall experience for
+  everyone. This restaurant combines affordability with diverse flavors, perfect
+  for anyone exploring top-rated sushi places near me or Japanese-inspired
+  dining in the area.
+generative_summary: >-
+  About Buffet King in Odessa, TX$$$Buffet King in Odessa, Texas, stands out as
+  a casual dining destination featuring a wide array of Chinese-inspired dishes,
+  including fresh sushi options that cater to those seeking flavorful Asian
+  cuisine. The spot highlights a Mongolian grill for customized meals, alongside
+  a variety of traditional eats and a dedicated kids' menu, making it ideal for
+  family outings or quick meals. Visitors can enjoy an accessible atmosphere
+  with wheelchair-friendly features, enhancing the overall experience for
+  everyone. This restaurant combines affordability with diverse flavors, perfect
+  for anyone exploring top-rated sushi places near me or Japanese-inspired
+  dining in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Although specific reviews for this spot aren't
+  readily available, similar buffet-style restaurants often receive praise for
+  their fresh sushi selections and variety of options that keep things exciting
+  for families and groups. Diners typically appreciate the casual vibe and
+  kid-friendly choices, noting that the overall experience feels welcoming and
+  value-driven without breaking the bank. Many highlight the accessibility
+  features, like easy parking and entrances, as a big plus for everyday visits.
+  In general, folks searching for sushi restaurants near me tend to enjoy the
+  mix of flavors, making it a solid pick for a relaxed meal that satisfies
+  cravings honestly and affordably.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +244,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

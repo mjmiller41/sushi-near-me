@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Boat"
+title: Sushi Boat
 permalink: /california/san-jose/sushi-boat.html
 stateAbbr: CA
 stateName: California
 cityName: San Jose
 seo:
-  name: "Sushi Boat"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi Boat serves delicious sushi in San Jose, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJPW-nhJXLj4ARKaJl8tguF78
 photos:
   - name: >-
@@ -184,7 +182,46 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Sushi Boat in San Jose, CA$$$Sushi Boat in San Jose, CA, provides a
+  relaxed spot for enjoying fresh sushi and Japanese-inspired meals right at the
+  San Jose International Airport, making it an ideal choice for travelers
+  craving authentic flavors on the go. The casual atmosphere highlights a
+  variety of rolls and other light eats, perfect for quick bites or casual
+  dining experiences. With accessibility features like wheelchair-friendly
+  entrances and seating, it caters to a wide range of visitors seeking
+  convenient Japanese cuisine options. This spot stands out for its
+  straightforward approach to quality ingredients, appealing to those exploring
+  sushi restaurants in the area. Whether you're looking for a tasty meal before
+  a flight, Sushi Boat delivers a simple yet satisfying introduction to local
+  Japanese dining vibes.
+generative_summary: >-
+  Discover Sushi Boat in San Jose, CA$$$Sushi Boat in San Jose, CA, provides a
+  relaxed spot for enjoying fresh sushi and Japanese-inspired meals right at the
+  San Jose International Airport, making it an ideal choice for travelers
+  craving authentic flavors on the go. The casual atmosphere highlights a
+  variety of rolls and other light eats, perfect for quick bites or casual
+  dining experiences. With accessibility features like wheelchair-friendly
+  entrances and seating, it caters to a wide range of visitors seeking
+  convenient Japanese cuisine options. This spot stands out for its
+  straightforward approach to quality ingredients, appealing to those exploring
+  sushi restaurants in the area. Whether you're looking for a tasty meal before
+  a flight, Sushi Boat delivers a simple yet satisfying introduction to local
+  Japanese dining vibes.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Folks generally enjoy the fresh sushi selections
+  at this airport eatery, often noting it as a solid pick for grabbing quality
+  Japanese dishes without much hassle. Many appreciate the convenience and
+  variety, especially for travelers in a rush, though some mention portions
+  could be more generous for the price. Overall, it's praised for hitting the
+  spot with reliable flavors that make it a go-to among sushi places nearby,
+  helping ease airport waits with a touch of excitement. While not every visit
+  is flawless, the positive vibes around the food keep it recommended for casual
+  eaters seeking something familiar. In summary, it's a dependable choice that
+  leaves most people satisfied with their quick Japanese meal adventure.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +247,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Kokku"
+title: Sushi Kokku
 permalink: /california/san-luis-obispo/sushi-kokku.html
 stateAbbr: CA
 stateName: California
 cityName: San Luis Obispo
 seo:
-  name: "Sushi Kokku"
-  type: Restaurant
-  links: null
-description: "Sushi Kokku serves delicious sushi in San Luis Obispo, California. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.sushikokkuslo.com/
 place_id: ChIJzd-__1Dx7IARdzbVDeQVV-k
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80ecf150ffbfdfcd:0xe95715e40dd53677!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 19
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 20
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 20
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 20
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 8:00 PM'
+    - 'Tuesday: 11:00 AM – 8:00 PM'
+    - 'Wednesday: 11:00 AM – 8:00 PM'
+    - 'Thursday: 11:00 AM – 8:00 PM'
+    - 'Friday: 11:00 AM – 8:00 PM'
+    - 'Saturday: 11:00 AM – 8:00 PM'
+    - 'Sunday: 11:00 AM – 7:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,54 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (805) 782-9321
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.1'
+rating_count: 254
+website: http://www.sushikokkuslo.com/
+description: >-
+  Discover Sushi Kokku in San Luis Obispo, CA$$$Sushi Kokku in San Luis Obispo,
+  CA, offers a relaxed vibe perfect for enjoying fresh Japanese dishes in a
+  convenient shopping center setting. This spot specializes in a variety of
+  sushi rolls and teriyaki bowls, making it a go-to choice for anyone craving
+  authentic flavors from Japanese cuisine right in the heart of the area. With
+  its welcoming atmosphere and accessible features like wheelchair-friendly
+  parking, it's easy to see why locals and visitors seek out this eatery for
+  casual meals. The restaurant maintains consistent hours throughout the week,
+  ensuring you can drop in for a satisfying lunch or dinner without hassle.
+  Whether you're exploring top-rated sushi options nearby or looking for a quick
+  bite, Sushi Kokku delivers a blend of quality ingredients and simple charm
+  that keeps diners coming back.
+generative_summary: >-
+  Discover Sushi Kokku in San Luis Obispo, CA$$$Sushi Kokku in San Luis Obispo,
+  CA, offers a relaxed vibe perfect for enjoying fresh Japanese dishes in a
+  convenient shopping center setting. This spot specializes in a variety of
+  sushi rolls and teriyaki bowls, making it a go-to choice for anyone craving
+  authentic flavors from Japanese cuisine right in the heart of the area. With
+  its welcoming atmosphere and accessible features like wheelchair-friendly
+  parking, it's easy to see why locals and visitors seek out this eatery for
+  casual meals. The restaurant maintains consistent hours throughout the week,
+  ensuring you can drop in for a satisfying lunch or dinner without hassle.
+  Whether you're exploring top-rated sushi options nearby or looking for a quick
+  bite, Sushi Kokku delivers a blend of quality ingredients and simple charm
+  that keeps diners coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Guests Are Saying About the Experience$$$Visitors to this sushi spot
+  often praise the fresh flavors and generous portions, highlighting it as a
+  solid pick for anyone searching for reliable Japanese eats close to home. Many
+  appreciate the welcoming service and cozy environment, which make it feel like
+  a comfortable go-to for groups or solo diners enjoying a casual meal. While
+  some note that the variety could expand a bit, the overall consensus leans
+  positive, with the food's taste and value earning high marks from those who've
+  tried it. Based on the solid rating, it's clear that folks find the sushi
+  selections satisfying and worth recommending for a laid-back dining
+  experience. If you're on the hunt for tasty sushi restaurants in the area,
+  this place stands out as a dependable favorite that balances affordability
+  with enjoyable vibes.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +315,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

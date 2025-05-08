@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Aji Sushi Teppan"
+title: Aji Sushi Teppan
 permalink: /florida/winter-garden/aji-sushi-teppan.html
 stateAbbr: FL
 stateName: Florida
 cityName: Winter Garden
 seo:
-  name: "Aji Sushi Teppan"
-  type: Restaurant
+  type: restaurant
   links: http://www.ajisushi.com/
-description: "Contemporary Japanese gathering spot featuring made-to-order sushi, teppanyaki meals & cocktails. Aji Sushi Teppan serves delicious sushi in Winter Garden, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ-Q_bt-6D54gRRl_IqEKJ_MI
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: null
 rating: '4.1'
 rating_count: 0
 website: http://www.ajisushi.com/
+description: >-
+  Discover Aji Sushi Teppan in Winter Garden, FL$$$Aji Sushi Teppan in Winter
+  Garden, Florida, stands out as a contemporary Japanese restaurant offering
+  fresh sushi and sizzling teppanyaki meals in a welcoming setting. This spot
+  delights visitors with its made-to-order rolls and flavorful dishes that
+  highlight high-quality ingredients and creative flavors, making it a go-to for
+  those seeking authentic Japanese cuisine. Generous portions and a variety of
+  options cater to different tastes, including vegetarian-friendly choices and
+  refreshing cocktails that enhance the dining experience. The atmosphere is
+  casual and inviting, perfect for groups looking to enjoy a satisfying meal,
+  while accessible features ensure a comfortable visit for all.
+generative_summary: >-
+  Discover Aji Sushi Teppan in Winter Garden, FL$$$Aji Sushi Teppan in Winter
+  Garden, Florida, stands out as a contemporary Japanese restaurant offering
+  fresh sushi and sizzling teppanyaki meals in a welcoming setting. This spot
+  delights visitors with its made-to-order rolls and flavorful dishes that
+  highlight high-quality ingredients and creative flavors, making it a go-to for
+  those seeking authentic Japanese cuisine. Generous portions and a variety of
+  options cater to different tastes, including vegetarian-friendly choices and
+  refreshing cocktails that enhance the dining experience. The atmosphere is
+  casual and inviting, perfect for groups looking to enjoy a satisfying meal,
+  while accessible features ensure a comfortable visit for all.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ-Q_bt-6D54gRRl_IqEKJ_MI/reviews/ChdDSUhNMG9nS0VJQ0FnTURnOHFyM2l3RRAB
@@ -376,6 +397,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNBdEphWkl3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNBdEphWkl3EAE!2m1!1s0x88e783eeb7db0ff9:0xc2fc8942a8c85f46
+review_summary: >-
+  What Customers Are Buzzing About$$$Visitors to this sushi spot often rave
+  about the tasty rolls and generous servings that make for a fulfilling meal,
+  with many highlighting the fresh flavors and creative twists on traditional
+  dishes. While some note occasional service delays or minor upkeep issues, the
+  overall experience shines through with efficient attention and standout items
+  like the edamame and tempura vegetables that keep diners coming back. Feedback
+  generally appreciates the value for money, especially for those exploring
+  top-rated sushi options nearby, creating a balanced vibe that's worth trying
+  for a casual night out. In a positive light, the restaurant's welcoming
+  environment and solid food quality make it a reliable choice for anyone
+  searching for great Japanese places in the area, encouraging repeat visits
+  despite a few areas for improvement.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -407,8 +442,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Contemporary Japanese gathering spot featuring made-to-order sushi, teppanyaki
   meals & cocktails.
 

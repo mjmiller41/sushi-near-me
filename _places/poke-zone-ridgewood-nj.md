@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Poke Zone"
+title: Poke Zone
 permalink: /new-jersey/ridgewood/poke-zone.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Ridgewood
 seo:
-  name: "Poke Zone"
-  type: Restaurant
+  type: restaurant
   links: http://www.pokezone43.com/
-description: "Poke Zone serves delicious sushi in Ridgewood, New Jersey. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJpcQy4NjlwokRJRjUV4tQayo
 photos:
   - name: >-
@@ -184,6 +182,33 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 0
 website: http://www.pokezone43.com/
+description: >-
+  Discover Poke Zone in Ridgewood, NJ$$$Nestled in the heart of Ridgewood, NJ,
+  Poke Zone stands out as a relaxed spot for fresh, customizable poke bowls that
+  cater to a variety of tastes. This laid-back eatery focuses on high-quality
+  ingredients, allowing diners to build their own meals with an array of
+  proteins, toppings, and sauces, complemented by refreshing bubble tea options.
+  The welcoming atmosphere makes it an ideal choice for those seeking
+  Japanese-inspired dishes in a casual setting, perfect for a quick lunch or
+  dinner. Accessibility features like wheelchair-friendly entrances add to the
+  convenience, ensuring everyone can enjoy the vibrant flavors on offer. Whether
+  you're looking for sushi-inspired spots nearby, Poke Zone delivers a
+  satisfying experience that highlights its commitment to fresh, build-your-own
+  creations.
+generative_summary: >-
+  Discover Poke Zone in Ridgewood, NJ$$$Nestled in the heart of Ridgewood, NJ,
+  Poke Zone stands out as a relaxed spot for fresh, customizable poke bowls that
+  cater to a variety of tastes. This laid-back eatery focuses on high-quality
+  ingredients, allowing diners to build their own meals with an array of
+  proteins, toppings, and sauces, complemented by refreshing bubble tea options.
+  The welcoming atmosphere makes it an ideal choice for those seeking
+  Japanese-inspired dishes in a casual setting, perfect for a quick lunch or
+  dinner. Accessibility features like wheelchair-friendly entrances add to the
+  convenience, ensuring everyone can enjoy the vibrant flavors on offer. Whether
+  you're looking for sushi-inspired spots nearby, Poke Zone delivers a
+  satisfying experience that highlights its commitment to fresh, build-your-own
+  creations.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJpcQy4NjlwokRJRjUV4tQayo/reviews/ChdDSUhNMG9nS0VJQ0FnSURicWI3czl3RRAB
@@ -351,6 +376,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUM5N0xYeHNRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUM5N0xYeHNRRRAB!2m1!1s0x89c2e5d8e032c4a5:0x2a6b508b57d41825
+review_summary: >-
+  What Customers Are Saying$$$Visitors to Poke Zone often praise the fresh
+  ingredients and variety of options in their bowls, making it a go-to for
+  anyone craving a customizable meal. While some folks enjoy the flavorful
+  combinations and generous portions that feel like a comforting homemade treat,
+  others note that certain dishes can sometimes lack seasoning or feel overly
+  sauced. Overall, the spot earns high marks for its approachable vibe and tasty
+  appetizers, though a few have mentioned occasional inconsistencies in
+  preparation that could use some tweaks. Despite these mixed experiences, many
+  agree it's worth trying for a casual bite, especially if you're in the mood
+  for something light and fun. If you're hunting for top-rated sushi places
+  nearby, feedback suggests Poke Zone offers solid choices that generally leave
+  diners satisfied with their visit.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidStreetParking: true
   valetParking: false
@@ -382,7 +421,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

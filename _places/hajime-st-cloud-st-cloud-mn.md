@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Hajime St.Cloud"
+title: Hajime St.Cloud
 permalink: /minnesota/st-cloud/hajime-st-cloud.html
 stateAbbr: MN
 stateName: Minnesota
 cityName: St Cloud
 seo:
-  name: "Hajime St.Cloud"
-  type: Restaurant
+  type: restaurant
   links: http://hajimestc.com/
-description: "Stylish Japanese outpost with a full bar offering specialty rolls, traditional entrees & happy hour. Hajime St.Cloud serves delicious sushi in St Cloud, Minnesota. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJAQCExxpftFIRl-ph5BXrefY
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 0
 website: http://hajimestc.com/
+description: >-
+  Discover Hajime in St Cloud, MN$$$Hajime in St Cloud, MN, stands out as a cozy
+  Japanese restaurant that delights visitors with its inviting atmosphere and a
+  menu featuring fresh sushi rolls, traditional entrees, and enticing happy hour
+  options. This spot emphasizes accessibility with wheelchair-friendly features,
+  making it easy for everyone to enjoy authentic Japanese flavors in a welcoming
+  setting. Patrons can savor moderately priced dishes that highlight quality
+  ingredients, from specialty rolls to satisfying mains, perfect for those
+  seeking sushi restaurants in the area. The full bar adds to the appeal,
+  offering cocktails and beverages that complement meals, ideal for casual
+  outings or groups. Whether you're exploring Japanese places near me or looking
+  for top-rated sushi experiences, Hajime delivers a blend of comfort and
+  culinary excellence that keeps diners coming back.
+generative_summary: >-
+  Discover Hajime in St Cloud, MN$$$Hajime in St Cloud, MN, stands out as a cozy
+  Japanese restaurant that delights visitors with its inviting atmosphere and a
+  menu featuring fresh sushi rolls, traditional entrees, and enticing happy hour
+  options. This spot emphasizes accessibility with wheelchair-friendly features,
+  making it easy for everyone to enjoy authentic Japanese flavors in a welcoming
+  setting. Patrons can savor moderately priced dishes that highlight quality
+  ingredients, from specialty rolls to satisfying mains, perfect for those
+  seeking sushi restaurants in the area. The full bar adds to the appeal,
+  offering cocktails and beverages that complement meals, ideal for casual
+  outings or groups. Whether you're exploring Japanese places near me or looking
+  for top-rated sushi experiences, Hajime delivers a blend of comfort and
+  culinary excellence that keeps diners coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJAQCExxpftFIRl-ph5BXrefY/reviews/ChdDSUhNMG9nS0VJQ0FnSURjLXRiaV93RRAB
@@ -382,6 +407,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURUaTc3VVpnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURUaTc3VVpnEAE!2m1!1s0x52b45f1ac7840001:0xf679eb15e461ea97
+review_summary: >-
+  What Guests Are Saying$$$Visitors to this Japanese eatery often rave about the
+  consistently delicious sushi and entrees, with many highlighting the creative
+  rolls and flavorful options that make every meal feel fresh and exciting.
+  Folks appreciate the friendly service and attentive staff who keep things
+  running smoothly, even during busy times, ensuring a pleasant experience from
+  start to finish. Happy hour deals come up frequently as a great value, drawing
+  in those hunting for affordable sushi near me without skimping on quality.
+  While some note minor waits during peak hours, the overall vibe remains
+  positive, with families and groups enjoying the welcoming environment and
+  variety of dishes. All in all, it's a solid choice for anyone craving reliable
+  Japanese dining that hits the mark on taste, service, and satisfaction.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -414,8 +452,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Stylish Japanese outpost with a full bar offering specialty rolls, traditional
   entrees & happy hour.
 

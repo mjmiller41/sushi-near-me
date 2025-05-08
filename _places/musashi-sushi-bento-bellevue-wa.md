@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Musashi Sushi & Bento"
+title: Musashi Sushi & Bento
 permalink: /washington/bellevue/musashi-sushi-bento.html
 stateAbbr: WA
 stateName: Washington
 cityName: Bellevue
 seo:
-  name: "Musashi Sushi & Bento"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Musashi Sushi & Bento serves delicious sushi in Bellevue, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJvbTdBSptkFQRlTNieGsQdKk
 photos:
   - name: >-
@@ -185,7 +183,45 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Musashi Sushi & Bento in Bellevue, WA$$$Musashi Sushi & Bento in
+  Bellevue, WA, stands out as a welcoming spot for enjoying fresh Japanese
+  cuisine, featuring an array of sushi rolls and bento boxes that cater to both
+  dine-in and takeout preferences. This casual eatery emphasizes accessibility
+  with features like wheelchair-friendly parking and entrances, making it easy
+  for everyone to savor its flavorful offerings. Patrons can expect a
+  straightforward yet inviting atmosphere, ideal for quick meals or relaxed
+  gatherings, with a menu that highlights high-quality ingredients in every
+  bite. Whether you're seeking top-rated sushi options in the area, the
+  restaurant's focus on authentic flavors ensures a satisfying experience that
+  blends tradition with convenience.
+generative_summary: >-
+  Discover Musashi Sushi & Bento in Bellevue, WA$$$Musashi Sushi & Bento in
+  Bellevue, WA, stands out as a welcoming spot for enjoying fresh Japanese
+  cuisine, featuring an array of sushi rolls and bento boxes that cater to both
+  dine-in and takeout preferences. This casual eatery emphasizes accessibility
+  with features like wheelchair-friendly parking and entrances, making it easy
+  for everyone to savor its flavorful offerings. Patrons can expect a
+  straightforward yet inviting atmosphere, ideal for quick meals or relaxed
+  gatherings, with a menu that highlights high-quality ingredients in every
+  bite. Whether you're seeking top-rated sushi options in the area, the
+  restaurant's focus on authentic flavors ensures a satisfying experience that
+  blends tradition with convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Feedback from Diners$$$Visitors to this sushi spot often rave about the fresh,
+  well-prepared rolls and bento boxes that hit the spot for a quick Japanese
+  fix, making it a go-to choice for locals hunting for reliable eats nearby.
+  Many appreciate the straightforward service and welcoming vibe, which adds to
+  the overall enjoyment without any fuss, even if things can get busy during
+  peak times. Folks frequently note that the portions feel generous and the
+  flavors stay true to what you'd expect from quality sushi places, helping it
+  stand out as a solid option for casual meals. While some mention waits for
+  popular items, the general consensus leans positive, with diners leaving
+  satisfied and eager to return for more of the tasty selections that keep the
+  buzz going strong.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +247,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

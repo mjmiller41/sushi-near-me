@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kinoko Ramen"
+title: Kinoko Ramen
 permalink: /north-carolina/morrisville/kinoko-ramen.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Morrisville
 seo:
-  name: "Kinoko Ramen"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Kinoko Ramen serves delicious sushi in Morrisville, North Carolina. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ_2VoufPtrIkRmMe71PvJk48
 photos:
   - name: >-
@@ -169,22 +167,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89acedf3b96865ff:0x8f93c9fbd4bbc798!10e5
 primary_type: Ramen Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
+    - 'Tuesday: Closed'
     - 'Wednesday: 11:00 AM – 9:00 PM'
     - 'Thursday: 11:00 AM – 9:00 PM'
     - 'Friday: 11:00 AM – 9:00 PM'
     - 'Saturday: 11:00 AM – 9:00 PM'
     - 'Sunday: 11:00 AM – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 9:00 PM'
-    - 'Saturday: 11:00 AM – 9:00 PM'
-    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T01:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,9 +237,45 @@ phone: (919) 651-0999
 price_level: null
 price_range: $10 &ndash; $20
 rating: '5.0'
-rating_count: 0
+rating_count: 22
 website: null
+description: >-
+  Discover Kinoko Ramen in Morrisville, NC$$$Kinoko Ramen in Morrisville, North
+  Carolina, offers a cozy retreat for enjoying authentic Japanese noodle dishes
+  in a welcoming atmosphere. The restaurant features flavorful broths and hearty
+  toppings that highlight its commitment to quality ingredients, making it a
+  go-to spot for comforting meals. Accessibility is a key strength, with
+  wheelchair-friendly parking, entrances, and seating options that ensure
+  everyone can enjoy the experience. Operating hours are convenient, spanning
+  lunch and dinner from Wednesday through Sunday, with a high rating reflecting
+  its popularity among local diners. This Japanese-inspired eatery near you
+  provides a satisfying escape for those seeking top-rated noodle options in a
+  relaxed setting.
+generative_summary: >-
+  Discover Kinoko Ramen in Morrisville, NC$$$Kinoko Ramen in Morrisville, North
+  Carolina, offers a cozy retreat for enjoying authentic Japanese noodle dishes
+  in a welcoming atmosphere. The restaurant features flavorful broths and hearty
+  toppings that highlight its commitment to quality ingredients, making it a
+  go-to spot for comforting meals. Accessibility is a key strength, with
+  wheelchair-friendly parking, entrances, and seating options that ensure
+  everyone can enjoy the experience. Operating hours are convenient, spanning
+  lunch and dinner from Wednesday through Sunday, with a high rating reflecting
+  its popularity among local diners. This Japanese-inspired eatery near you
+  provides a satisfying escape for those seeking top-rated noodle options in a
+  relaxed setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Buzzing About$$$Visitors often highlight the delicious
+  ramen varieties like Shoyu and Shio, praising the rich, flavorful broths that
+  make every bowl a standout. Many appreciate the excellent pork belly for its
+  tender texture and robust taste, adding a real highlight to the menu. Service
+  stands out as quick and friendly, creating a welcoming vibe that keeps things
+  enjoyable from start to finish. Overall, it's a solid choice for anyone
+  craving a hearty meal, with the atmosphere drawing in repeat crowds for its
+  comforting feel. If you're exploring Japanese places nearby, this spot
+  delivers a reliably positive experience without any major letdowns.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -224,7 +301,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

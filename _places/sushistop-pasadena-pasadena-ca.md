@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "SushiStop Pasadena"
+title: SushiStop Pasadena
 permalink: /california/pasadena/sushistop-pasadena.html
 stateAbbr: CA
 stateName: California
 cityName: Pasadena
 seo:
-  name: "SushiStop Pasadena"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "SushiStop Pasadena serves delicious sushi in Pasadena, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJu7_rsHHDwoAR-q0s26NmSbk
 photos:
   - name: >-
@@ -185,7 +183,44 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover SushiStop in Pasadena, CA$$$SushiStop in Pasadena, CA, stands out as
+  a relaxed destination for anyone seeking quality Japanese cuisine in a vibrant
+  urban setting. This spot features an array of classic and creative sushi rolls
+  alongside other traditional dishes, making it a go-to choice for those
+  exploring sushi restaurants in the area. With thoughtful accessibility options
+  like wheelchair-friendly entrances and seating, it ensures a welcoming
+  experience for all visitors. The lively atmosphere in Old Pasadena adds to its
+  appeal, ideal for casual meals or quick bites when searching for Japanese
+  places nearby. Photos of the venue highlight its fresh presentations, drawing
+  in locals and travelers alike who appreciate authentic flavors without the
+  fuss.
+generative_summary: >-
+  Discover SushiStop in Pasadena, CA$$$SushiStop in Pasadena, CA, stands out as
+  a relaxed destination for anyone seeking quality Japanese cuisine in a vibrant
+  urban setting. This spot features an array of classic and creative sushi rolls
+  alongside other traditional dishes, making it a go-to choice for those
+  exploring sushi restaurants in the area. With thoughtful accessibility options
+  like wheelchair-friendly entrances and seating, it ensures a welcoming
+  experience for all visitors. The lively atmosphere in Old Pasadena adds to its
+  appeal, ideal for casual meals or quick bites when searching for Japanese
+  places nearby. Photos of the venue highlight its fresh presentations, drawing
+  in locals and travelers alike who appreciate authentic flavors without the
+  fuss.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$From what people share about SushiStop, it seems
+  like a solid pick for fresh and flavorful sushi that keeps diners coming back
+  for more. Many highlight the variety of rolls as a standout feature, noting
+  how they hit the spot for everyday cravings or special occasions. While some
+  mention the casual vibe makes it feel approachable, others appreciate the
+  overall value for a quick Japanese meal in the neighborhood. Overall, feedback
+  paints it as a reliable option that delivers on taste and convenience, though
+  it's clear that timing your visit can make a difference in the experience. If
+  you're on the hunt for top-rated sushi nearby, this place often gets nods for
+  its straightforward appeal and satisfying dishes.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +246,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

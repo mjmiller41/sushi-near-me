@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Haru"
+title: Sushi Haru
 permalink: /missouri/kansas-city/sushi-haru.html
 stateAbbr: MO
 stateName: Missouri
 cityName: Kansas City
 seo:
-  name: "Sushi Haru"
-  type: Restaurant
+  type: restaurant
   links: https://www.sushiharukc.com/#/
-description: "Shopping-center sushi joint with a big menu of hand rolls, sashimi, maki & nigiri, plus bento boxes. Sushi Haru serves delicious sushi in Kansas City, Missouri. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJwcoaa3zCwIcRHFISp46EU1M
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 0
 website: https://www.sushiharukc.com/#/
+description: >-
+  Discover Sushi Haru in Kansas City, MO$$$Nestled in Kansas City, MO, Sushi
+  Haru stands out as a welcoming spot for those seeking fresh Japanese cuisine
+  in a relaxed setting. This casual eatery offers an extensive selection of
+  sushi rolls, along with flavorful hibachi options and a range of beverages
+  like beer, wine, and sake, making it ideal for a laid-back meal with friends
+  or family. The restaurant boasts accessible features such as
+  wheelchair-friendly entrances and seating, ensuring everyone can enjoy the
+  experience comfortably. With its moderate pricing and diverse menu, it's a
+  go-to choice for locals hunting for top-rated sushi spots nearby. Whether
+  you're in the mood for a quick bite or a full dining adventure, Sushi Haru
+  combines quality ingredients with a cozy vibe to satisfy sushi enthusiasts in
+  the area.
+generative_summary: >-
+  Discover Sushi Haru in Kansas City, MO$$$Nestled in Kansas City, MO, Sushi
+  Haru stands out as a welcoming spot for those seeking fresh Japanese cuisine
+  in a relaxed setting. This casual eatery offers an extensive selection of
+  sushi rolls, along with flavorful hibachi options and a range of beverages
+  like beer, wine, and sake, making it ideal for a laid-back meal with friends
+  or family. The restaurant boasts accessible features such as
+  wheelchair-friendly entrances and seating, ensuring everyone can enjoy the
+  experience comfortably. With its moderate pricing and diverse menu, it's a
+  go-to choice for locals hunting for top-rated sushi spots nearby. Whether
+  you're in the mood for a quick bite or a full dining adventure, Sushi Haru
+  combines quality ingredients with a cozy vibe to satisfy sushi enthusiasts in
+  the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJwcoaa3zCwIcRHFISp46EU1M/reviews/ChZDSUhNMG9nS0VJQ0FnSUNYNGJuTEd3EAE
@@ -384,6 +409,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURSc2IzVW9nRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURSc2IzVW9nRRAB!2m1!1s0x87c0c27c6b1acac1:0x5353848ea712521c
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors often rave about the fresh and
+  creative sushi rolls at this spot, highlighting how the variety keeps things
+  exciting for repeat trips. Many appreciate the friendly and efficient service
+  that makes dining feel effortless and enjoyable, with meals arriving quickly
+  and staff going the extra mile to assist. Folks frequently mention the great
+  value for the price, noting that dishes like tempura and teriyaki offer a
+  solid balance of taste and affordability without breaking the bank. Overall,
+  the clean and inviting atmosphere adds to the appeal, making it a reliable
+  pick for groups or casual outings near you. While experiences are generally
+  positive, it's clear this place delivers on fresh flavors and welcoming vibes,
+  encouraging diners to explore more Japanese options on the menu.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -416,8 +454,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Shopping-center sushi joint with a big menu of hand rolls, sashimi, maki &
   nigiri, plus bento boxes.
 

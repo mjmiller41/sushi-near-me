@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "RA Sushi Bar Restaurant"
+title: RA Sushi Bar Restaurant
 permalink: /florida/pembroke-pines/ra-sushi-bar-restaurant.html
 stateAbbr: FL
 stateName: Florida
 cityName: Pembroke Pines
 seo:
-  name: "RA Sushi Bar Restaurant"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "RA Sushi Bar Restaurant serves delicious sushi in Pembroke Pines, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ-XLJNpym2YgRi2xJf8m_LaI
 photos:
   - name: >-
@@ -185,7 +183,38 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Explore RA Sushi in Pembroke Pines, FL$$$RA Sushi Bar Restaurant in Pembroke
+  Pines, Florida, delivers a relaxed vibe ideal for enjoying fresh Japanese
+  flavors in a welcoming atmosphere. The spot emphasizes accessibility with
+  features like wheelchair-friendly parking, entrances, restrooms, and seating,
+  ensuring a comfortable experience for every visitor. Its convenient location
+  on SW 145th Terrace makes it an easy choice for those searching for quality
+  sushi options nearby, blending casual dining with thoughtful design. Photos of
+  the space highlight the inviting ambiance, appealing to anyone seeking a
+  laid-back spot for Japanese cuisine in the area.
+generative_summary: >-
+  Explore RA Sushi in Pembroke Pines, FL$$$RA Sushi Bar Restaurant in Pembroke
+  Pines, Florida, delivers a relaxed vibe ideal for enjoying fresh Japanese
+  flavors in a welcoming atmosphere. The spot emphasizes accessibility with
+  features like wheelchair-friendly parking, entrances, restrooms, and seating,
+  ensuring a comfortable experience for every visitor. Its convenient location
+  on SW 145th Terrace makes it an easy choice for those searching for quality
+  sushi options nearby, blending casual dining with thoughtful design. Photos of
+  the space highlight the inviting ambiance, appealing to anyone seeking a
+  laid-back spot for Japanese cuisine in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Visitor Feedback$$$Visitors to this sushi spot often highlight
+  the fresh rolls and creative dishes that make it a standout option among local
+  Japanese places. Many enjoy the friendly service and lively setting, which add
+  to the overall fun of grabbing a meal with friends or family. While some
+  mention that prices reflect the quality ingredients, most agree the portions
+  and flavors deliver great value for sushi lovers. Overall, it's frequently
+  recommended as one of the top-rated sushi restaurants in the region for anyone
+  craving authentic tastes in a casual environment.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +240,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

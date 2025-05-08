@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Osaka"
+title: Osaka
 permalink: /texas/houston/osaka.html
 stateAbbr: TX
 stateName: Texas
 cityName: Houston
 seo:
-  name: "Osaka"
-  type: Restaurant
-  links: null
-description: "Osaka serves delicious sushi in Houston, Texas. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://osakahoustontogo.com/
 place_id: ChIJx6FTVSfBQIYRN2hqzGCEf3Y
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8640c1275553a1c7:0x767f8460cc6a6837!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 10:00 PM'
+    - 'Tuesday: 11:00 AM – 10:00 PM'
+    - 'Wednesday: 11:00 AM – 10:00 PM'
+    - 'Thursday: 11:00 AM – 10:00 PM'
+    - 'Friday: 11:00 AM – 10:30 PM'
+    - 'Saturday: 11:00 AM – 10:30 PM'
+    - 'Sunday: 11:00 AM – 10:00 PM'
+  nextCloseTime: '2025-05-04T03:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,51 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
+phone: (713) 838-9812
 price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+price_range: $20 &ndash; $30
+rating: '4.1'
+rating_count: 47
+website: https://osakahoustontogo.com/
+description: >-
+  Explore Osaka in Houston, TX$$$Osaka in Houston, TX, stands out as a welcoming
+  sushi restaurant that brings authentic Japanese flavors to the local dining
+  scene. This casual spot features a menu highlighting fresh sushi rolls and
+  crispy tempura, perfect for those seeking traditional fare in a relaxed
+  atmosphere. With its convenient hours from 11 AM to 10 PM most days, it's an
+  ideal choice for a quick lunch or evening meal, complemented by accessibility
+  features like wheelchair-friendly entrances and seating. The restaurant's
+  straightforward vibe makes it a great option for everyday diners looking for
+  quality Japanese cuisine without the fuss. Whether you're in the mood for
+  something light and flavorful, Osaka delivers a satisfying experience in the
+  heart of Houston.
+generative_summary: >-
+  Explore Osaka in Houston, TX$$$Osaka in Houston, TX, stands out as a welcoming
+  sushi restaurant that brings authentic Japanese flavors to the local dining
+  scene. This casual spot features a menu highlighting fresh sushi rolls and
+  crispy tempura, perfect for those seeking traditional fare in a relaxed
+  atmosphere. With its convenient hours from 11 AM to 10 PM most days, it's an
+  ideal choice for a quick lunch or evening meal, complemented by accessibility
+  features like wheelchair-friendly entrances and seating. The restaurant's
+  straightforward vibe makes it a great option for everyday diners looking for
+  quality Japanese cuisine without the fuss. Whether you're in the mood for
+  something light and flavorful, Osaka delivers a satisfying experience in the
+  heart of Houston.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Visitor Feedback on Osaka$$$Folks who've dined at this Houston sushi spot
+  often rave about the fresh ingredients and well-prepared dishes, making it a
+  solid pick for anyone craving reliable Japanese eats. Many appreciate the
+  friendly service and cozy setting, which add to the overall enjoyable vibe,
+  even if things can get busy during peak times. While the menu keeps things
+  traditional and hits the mark for value, some mention that portions might feel
+  just right for lighter meals rather than hearty feasts. Overall, it's earned
+  praise as a go-to place for quality sushi that's worth trying, with a
+  welcoming feel that keeps people coming back for more. If you're exploring
+  sushi options nearby, this spot tends to deliver a consistently positive
+  experience that lives up to its reputation.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +312,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

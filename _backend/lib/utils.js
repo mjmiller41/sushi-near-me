@@ -1,6 +1,6 @@
 import fs from 'fs/promises'
 import { convert, revert } from 'url-slug'
-import yaml from 'js-yaml'
+import yaml, { JSON_SCHEMA } from 'js-yaml'
 import { glob } from 'glob'
 import { MONTH_MAP } from './constants.js'
 
@@ -49,12 +49,34 @@ function registerShutdown(saveDataCbs) {
     console.log('Received SIGTERM. Shutting down gracefully...')
     shutdown(saveDataCbs)
   })
+
+  process.on('beforeExit', async () => {
+    console.log('Process is about to exit. Shutting down gracefully...')
+    const unsavedPlacesCb = saveDataCbs.find(el => el.unsavedPlaces?.length > 0)
+    if (unsavedPlacesCb) {
+      console.log('Unsaved places detected. Saving before exit...')
+      try {
+        // Convert object to JSON string with indentation
+        const jsonString = JSON.stringify(unsavedPlacesCb.unsavedPlaces, null, 2)
+        const filepath = 'unsavedPlaces.json'
+        await fs.writeFile(filepath, jsonString)
+        console.log(`unsavedPlaces saved to ${filepath}`)
+      } catch (error) {
+        console.error(`Error saving object to ${filePath}:`, error)
+      }
+
+      // await fileIO.wr //unsavedPlacesCb.cb(unsavedPlacesCb.unsavedPlaces)
+    }
+    process.exit(0)
+  })
 }
 
 async function shutdown(saveDataCbs) {
   try {
     // upsert data before exit
-    await saveDataCbs.forEach(async ({ data, cb }) => await cb(data))
+    if (Array.isArray(saveDataCbs) || saveDataCbs.length > 0) {
+      await saveDataCbs.forEach(async ({ data, cb }) => await cb(data))
+    }
 
     // Exit the process
     console.log('Process exited gracefully.')
@@ -96,6 +118,12 @@ async function cleanDir(dir) {
 }
 
 function objToYaml(object, globalIndent = 2) {
+  function rplcr(key, value) {
+    if (typeof value === 'string' && value.includes(':')) {
+      return `"${value}"`
+    }
+    return value
+  }
   const yamlString = yaml.dump(object)
   const spaces = globalIndent > 0 ? ' '.repeat(globalIndent) : ''
   const indentedYaml = yamlString
@@ -137,6 +165,55 @@ function timestamp() {
   return isoDate.replace('T', ' ').replace('Z', '')
 }
 
+// Function to calculate surrounding lat/long coordinates for a given center and radius
+function calcSurroundingCoords(latitude, longitude, radius) {
+  // Earth's radius in meters
+  const EARTH_RADIUS = 6371000
+
+  // Convert radius to radians (angular distance)
+  const radiusInRadians = radius / EARTH_RADIUS
+
+  // Distance to surrounding points (approx sqrt(3) * radius for hexagonal packing)
+  const distance = 1.732 * radius
+  const distanceInRadians = distance / EARTH_RADIUS
+
+  // Array to store new coordinates
+  const surroundingCoords = []
+
+  // Calculate 6 surrounding points (hexagonal arrangement at 0°, 60°, 120°, 180°, 240°, 300°)
+  for (let i = 0; i < 6; i++) {
+    const bearing = (i * 60 * Math.PI) / 180 // Convert degrees to radians
+
+    // Calculate new latitude
+    const newLat =
+      (Math.asin(
+        Math.sin((latitude * Math.PI) / 180) * Math.cos(distanceInRadians) +
+          Math.cos((latitude * Math.PI) / 180) *
+            Math.sin(distanceInRadians) *
+            Math.cos(bearing)
+      ) *
+        180) /
+      Math.PI
+
+    // Calculate new longitude
+    const newLon =
+      longitude +
+      (Math.atan2(
+        Math.sin(bearing) *
+          Math.sin(distanceInRadians) *
+          Math.cos((latitude * Math.PI) / 180),
+        Math.cos(distanceInRadians) -
+          Math.sin((latitude * Math.PI) / 180) * Math.sin((newLat * Math.PI) / 180)
+      ) *
+        180) /
+        Math.PI
+
+    surroundingCoords.push({ latitude: newLat, longitude: newLon })
+  }
+
+  return surroundingCoords
+}
+
 export {
   ONGOING_TASKS,
   extractId,
@@ -149,5 +226,6 @@ export {
   cleanDir,
   instancesEqualExcluding,
   registerShutdown,
-  shutdown
+  shutdown,
+  calcSurroundingCoords
 }

@@ -5,4 +5,5 @@ permalink: /south-dakota/aberdeen/
 stateAbbr: SD
 stateName: South Dakota
 cityName: Aberdeen
+
 ---

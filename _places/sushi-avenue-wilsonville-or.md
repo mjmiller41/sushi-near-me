@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Avenue"
+title: Sushi Avenue
 permalink: /oregon/wilsonville/sushi-avenue.html
 stateAbbr: OR
 stateName: Oregon
 cityName: Wilsonville
 seo:
-  name: "Sushi Avenue"
-  type: Restaurant
+  type: restaurant
   links: https://www.sushiavenuewilsonville.com/
-description: "Sushi Avenue serves delicious sushi in Wilsonville, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJC4bNLexulVQRY_IAfI42nbk
 photos:
   - name: >-
@@ -170,7 +168,97 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x54956eec2dcd860b:0xb99d368e7c00f263!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
     - 'Tuesday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
     - 'Wednesday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
@@ -178,14 +266,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 2:30 PM, 5:00 – 10:00 PM'
     - 'Saturday: 12:00 – 10:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
-    - 'Tuesday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
-    - 'Wednesday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
-    - 'Thursday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
-    - 'Friday: 11:30 AM – 2:30 PM, 5:00 – 10:00 PM'
-    - 'Saturday: 12:00 – 10:00 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T05:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +278,252 @@ phone: (503) 682-0729
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.6'
-rating_count: 0
+rating_count: 449
 website: https://www.sushiavenuewilsonville.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Sushi Avenue in Wilsonville, OR$$$Sushi Avenue in Wilsonville, OR,
+  stands out as a casual Japanese eatery offering fresh sushi rolls and classic
+  dishes that appeal to those seeking authentic flavors in a welcoming setting.
+  With a focus on high-quality ingredients and creative presentations, this spot
+  delivers a satisfying experience for sushi enthusiasts exploring options
+  nearby. The restaurant features a simple yet comfortable atmosphere,
+  complemented by selections of beer and sake that pair perfectly with meals.
+  Accessibility is a key highlight, including wheelchair-friendly features that
+  make it easy for everyone to enjoy. Whether you're in the mood for bento boxes
+  or inventive rolls, it's a go-to choice for anyone hunting for top-rated sushi
+  in the area.
+generative_summary: >-
+  Discover Sushi Avenue in Wilsonville, OR$$$Sushi Avenue in Wilsonville, OR,
+  stands out as a casual Japanese eatery offering fresh sushi rolls and classic
+  dishes that appeal to those seeking authentic flavors in a welcoming setting.
+  With a focus on high-quality ingredients and creative presentations, this spot
+  delivers a satisfying experience for sushi enthusiasts exploring options
+  nearby. The restaurant features a simple yet comfortable atmosphere,
+  complemented by selections of beer and sake that pair perfectly with meals.
+  Accessibility is a key highlight, including wheelchair-friendly features that
+  make it easy for everyone to enjoy. Whether you're in the mood for bento boxes
+  or inventive rolls, it's a go-to choice for anyone hunting for top-rated sushi
+  in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJC4bNLexulVQRY_IAfI42nbk/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJemVDMVV3EAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        A small, unassuming sushi restaurant with really good food. I highly
+        recommend this hidden gem. Service is always great, and their fish is
+        fresh and delicious! No conveyor belt - everything is made to order and
+        you can taste the difference.
+      languageCode: en
+    originalText:
+      text: >-
+        A small, unassuming sushi restaurant with really good food. I highly
+        recommend this hidden gem. Service is always great, and their fish is
+        fresh and delicious! No conveyor belt - everything is made to order and
+        you can taste the difference.
+      languageCode: en
+    authorAttribution:
+      displayName: Jay Stiller-Freeman
+      uri: https://www.google.com/maps/contrib/117798169620923771333/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUL-byYlZ9JrMZ5boXIGtld1vgArdSF1X2YQe8wkP-ivxEy7NP9Aw=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-03T21:49:56.277459Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNJemVDMVV3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNJemVDMVV3EAE!2m1!1s0x54956eec2dcd860b:0xb99d368e7c00f263
+  - name: >-
+      places/ChIJC4bNLexulVQRY_IAfI42nbk/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3MXJPVkZnEAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Great hole in the wall sushi restaurant well worth the visit.  Fairly
+        small and tends to be busy during peak times but wait time isn't bad and
+        they have kind and attentive staff, excellent quality food, overall
+        highly recommended.  Authentic beef teriyaki, sushi, and all other
+        dishes I have tried are winners, can't go wrong.
+      languageCode: en
+    originalText:
+      text: >-
+        Great hole in the wall sushi restaurant well worth the visit.  Fairly
+        small and tends to be busy during peak times but wait time isn't bad and
+        they have kind and attentive staff, excellent quality food, overall
+        highly recommended.  Authentic beef teriyaki, sushi, and all other
+        dishes I have tried are winners, can't go wrong.
+      languageCode: en
+    authorAttribution:
+      displayName: Levi Manselle
+      uri: https://www.google.com/maps/contrib/102931293625910446651/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUMtOjvZlckujfRCujg8EKhwtnU6JKmX7VrSxBle8rOfYdj6yas=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2025-03-18T18:12:39.990564Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUN3MXJPVkZnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUN3MXJPVkZnEAE!2m1!1s0x54956eec2dcd860b:0xb99d368e7c00f263
+  - name: >-
+      places/ChIJC4bNLexulVQRY_IAfI42nbk/reviews/ChdDSUhNMG9nS0VJQ0FnSUN2aDhUdGtBRRAB
+    relativePublishTimeDescription: 4 months ago
+    rating: 3
+    text:
+      text: >-
+        We decided to check this place out given the high reviews. We love sushi
+        and usually try different locations. We went at a late afternoon time so
+        it wasn't busy. We were welcomed and promptly seated. The service was
+        kind and attentive. The atmosphere was chill. We ordered two jasmine hot
+        teas, edamame, a veggie roll, spicy tuna roll, spider roll, and the
+        Samurai roll. While they do have a large selection of rolls, there's
+        nothing really unique or interesting about them. The tea was just a bag
+        from the Stash brand. We prefer loose leaf or higher quality teas
+        typically served at other places. The edamame was perfectly steamed and
+        salted. The sushi was very disappointing. The spicy tuna had really no
+        flavor or spice and I usually don't handle much heat. My partner said
+        the spider tasted off and was worried the crab was spoiled. The veggie
+        and Samurai rolls were just okay. Not a fan of Kikkoman soy sauce but
+        that's just me so take it with a grain of salt. I can't justify the
+        quality for the price. I will absolutely pay $15-20 per roll for quality
+        sushi but this isn't it. Total was about $55 (before tip).
+      languageCode: en
+    originalText:
+      text: >-
+        We decided to check this place out given the high reviews. We love sushi
+        and usually try different locations. We went at a late afternoon time so
+        it wasn't busy. We were welcomed and promptly seated. The service was
+        kind and attentive. The atmosphere was chill. We ordered two jasmine hot
+        teas, edamame, a veggie roll, spicy tuna roll, spider roll, and the
+        Samurai roll. While they do have a large selection of rolls, there's
+        nothing really unique or interesting about them. The tea was just a bag
+        from the Stash brand. We prefer loose leaf or higher quality teas
+        typically served at other places. The edamame was perfectly steamed and
+        salted. The sushi was very disappointing. The spicy tuna had really no
+        flavor or spice and I usually don't handle much heat. My partner said
+        the spider tasted off and was worried the crab was spoiled. The veggie
+        and Samurai rolls were just okay. Not a fan of Kikkoman soy sauce but
+        that's just me so take it with a grain of salt. I can't justify the
+        quality for the price. I will absolutely pay $15-20 per roll for quality
+        sushi but this isn't it. Total was about $55 (before tip).
+      languageCode: en
+    authorAttribution:
+      displayName: Jennifer V
+      uri: https://www.google.com/maps/contrib/113174996144551525300/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXMns19XX-JBO3Q2wVjDI4vEy4fDs0wKfO_mSvxbssqPM6swucLBQ=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-12-15T06:03:41.857093Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN2aDhUdGtBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN2aDhUdGtBRRAB!2m1!1s0x54956eec2dcd860b:0xb99d368e7c00f263
+  - name: >-
+      places/ChIJC4bNLexulVQRY_IAfI42nbk/reviews/ChdDSUhNMG9nS0VJQ0FnSURfejhtazh3RRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        Been two times. One dine in and one to-go order. Staff is very nice.
+        Sushi fresh and delicious. I had the Wildcat Roll as I do not eat raw
+        fish. Teriyaki chicken is grilled to order. Not dry. Could used a little
+        more teriyaki sauce or a side of teriyaki sauce with each order. LOVE
+        the stir fried veggies that come with teriyaki dishes.
+      languageCode: en
+    originalText:
+      text: >-
+        Been two times. One dine in and one to-go order. Staff is very nice.
+        Sushi fresh and delicious. I had the Wildcat Roll as I do not eat raw
+        fish. Teriyaki chicken is grilled to order. Not dry. Could used a little
+        more teriyaki sauce or a side of teriyaki sauce with each order. LOVE
+        the stir fried veggies that come with teriyaki dishes.
+      languageCode: en
+    authorAttribution:
+      displayName: Asha Birch
+      uri: https://www.google.com/maps/contrib/109277052942966334806/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjX4uZioqY8cjrc1P002FKFCDy7tVCiG-JhIPHlgxsdXG3nkRkkjiA=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-01-31T06:36:37.703921Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURfejhtazh3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURfejhtazh3RRAB!2m1!1s0x54956eec2dcd860b:0xb99d368e7c00f263
+  - name: >-
+      places/ChIJC4bNLexulVQRY_IAfI42nbk/reviews/ChdDSUhNMG9nS0VJQ0FnSURyaE03b2xnRRAB
+    relativePublishTimeDescription: 9 months ago
+    rating: 5
+    text:
+      text: >-
+        Walked in on a Thursday night about 45 minutes to close and Sushi Ave
+        did not disappoint! The restaurant was clean and the staff were all
+        super friendly. The potstickers are crispy (I highly recommend!). We
+        ordered multiple options to try it all and we were so happy we did
+        because everything was amazing!
+      languageCode: en
+    originalText:
+      text: >-
+        Walked in on a Thursday night about 45 minutes to close and Sushi Ave
+        did not disappoint! The restaurant was clean and the staff were all
+        super friendly. The potstickers are crispy (I highly recommend!). We
+        ordered multiple options to try it all and we were so happy we did
+        because everything was amazing!
+      languageCode: en
+    authorAttribution:
+      displayName: Mary Kate Johnson
+      uri: https://www.google.com/maps/contrib/101718914632311827488/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJh42HO2jJ_keiY-9LnebA6EyOsTSJ8IQQSGEUduEkVBmIhHA=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-07-14T19:09:49.586712Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURyaE03b2xnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURyaE03b2xnRRAB!2m1!1s0x54956eec2dcd860b:0xb99d368e7c00f263
+review_summary: >-
+  Insights from Recent Reviews$$$Folks rave about the fresh sushi and generous
+  portions at this spot, making it a solid pick for anyone craving reliable
+  Japanese fare without breaking the bank. Many highlight the friendly service
+  and quick turnaround, which keep things enjoyable even during busy times,
+  though some note that certain dishes could use a bit more flair for an extra
+  wow factor. Standout mentions include tasty teriyaki options and appetizers
+  like potstickers that leave diners feeling satisfied and coming back for more.
+  Overall, it's praised as a hidden gem that's worth the visit, with reasonable
+  prices and a relaxed vibe that suits families or casual outings. If you're on
+  the hunt for great sushi places nearby, this one often delivers a positive
+  experience that keeps the good times rolling.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
 outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: false
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Sushi boats, creative rolls & bento lunch boxes are highlighted in a simple
+  space with beer & wine.
 
 ---

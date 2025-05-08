@@ -5,4 +5,5 @@ permalink: /washington/seattle/
 stateAbbr: WA
 stateName: Washington
 cityName: Seattle
+
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Tee Jay Thai Sushi"
+title: Tee Jay Thai Sushi
 permalink: /florida/fort-lauderdale/tee-jay-thai-sushi.html
 stateAbbr: FL
 stateName: Florida
 cityName: Fort Lauderdale
 seo:
-  name: "Tee Jay Thai Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Tee Jay Thai Sushi serves delicious sushi in Fort Lauderdale, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ64Cr5W0C2YgRfk2b19h52DU
 photos:
   - name: >-
@@ -185,7 +183,43 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Tee Jay Thai Sushi in Fort Lauderdale, FL$$$Tee Jay Thai Sushi in
+  Fort Lauderdale, Florida, stands out as a welcoming spot for those seeking
+  vibrant Asian flavors in a convenient neighborhood setting. This eatery blends
+  fresh Thai and sushi options, offering a menu that's perfect for anyone
+  exploring top-rated sushi restaurants nearby. With thoughtful features like
+  wheelchair-accessible parking and seating, it ensures a comfortable experience
+  for all visitors, making it an inclusive choice for casual dining. Located on
+  North Federal Hwy in the Imperial Point area, it's ideally positioned for
+  locals and travelers searching for sushi places near me to enjoy a mix of
+  authentic tastes in a relaxed atmosphere.
+generative_summary: >-
+  Discover Tee Jay Thai Sushi in Fort Lauderdale, FL$$$Tee Jay Thai Sushi in
+  Fort Lauderdale, Florida, stands out as a welcoming spot for those seeking
+  vibrant Asian flavors in a convenient neighborhood setting. This eatery blends
+  fresh Thai and sushi options, offering a menu that's perfect for anyone
+  exploring top-rated sushi restaurants nearby. With thoughtful features like
+  wheelchair-accessible parking and seating, it ensures a comfortable experience
+  for all visitors, making it an inclusive choice for casual dining. Located on
+  North Federal Hwy in the Imperial Point area, it's ideally positioned for
+  locals and travelers searching for sushi places near me to enjoy a mix of
+  authentic tastes in a relaxed atmosphere.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Customer Experiences$$$While specific reviews for this sushi
+  restaurant are limited at the moment, it appears to be drawing interest for
+  its approachable vibe and flavorful dishes that cater to sushi enthusiasts.
+  Folks often appreciate spots like this for delivering fresh, well-prepared
+  meals that balance Thai influences with classic rolls, making it a solid pick
+  for anyone craving the best sushi near me. The overall feedback suggests a
+  positive experience with accessible amenities that enhance visits, though more
+  input would help paint a fuller picture. In a casual dining scene, it's
+  emerging as a go-to option for groups or individuals looking for reliable
+  Japanese-inspired places near me, with potential for even greater acclaim as
+  more people share their thoughts.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +245,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

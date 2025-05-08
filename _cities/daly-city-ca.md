@@ -5,4 +5,5 @@ permalink: /california/daly-city/
 stateAbbr: CA
 stateName: California
 cityName: Daly City
+
 ---

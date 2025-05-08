@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Edohana Hibachi Sushi"
+title: Edohana Hibachi Sushi
 permalink: /texas/fort-worth/edohana-hibachi-sushi.html
 stateAbbr: TX
 stateName: Texas
 cityName: Fort Worth
 seo:
-  name: "Edohana Hibachi Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://edohanafw.site/
-description: "Edohana Hibachi Sushi serves delicious sushi in Fort Worth, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJK7ONF5xyToYRT-PbzhL0ve4
 photos:
   - name: >-
@@ -170,7 +168,105 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x864e729c178db32b:0xeebdf412cedbe34f!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 16
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 45
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 45
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 45
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 45
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 45
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 16
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 2:00 PM, 4:45 – 10:00 PM'
     - 'Tuesday: 11:00 AM – 2:00 PM, 4:45 – 10:00 PM'
     - 'Wednesday: 11:00 AM – 2:00 PM, 4:45 – 10:00 PM'
@@ -178,14 +274,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 2:00 PM, 4:45 – 9:30 PM'
     - 'Saturday: 4:30 – 10:30 PM'
     - 'Sunday: 4:30 – 9:30 PM'
-  current:
-    - 'Monday: 11:00 AM – 2:00 PM, 4:45 – 10:00 PM'
-    - 'Tuesday: 11:00 AM – 2:00 PM, 4:45 – 10:00 PM'
-    - 'Wednesday: 11:00 AM – 2:00 PM, 4:45 – 10:00 PM'
-    - 'Thursday: 11:00 AM – 2:00 PM, 4:45 – 10:00 PM'
-    - 'Friday: 11:00 AM – 2:00 PM, 4:45 – 9:30 PM'
-    - 'Saturday: 4:30 – 10:30 PM'
-    - 'Sunday: 4:30 – 9:30 PM'
+  nextCloseTime: '2025-05-04T03:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +286,281 @@ phone: (817) 731-6002
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.3'
-rating_count: 0
+rating_count: 1024
 website: https://edohanafw.site/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Edohana Hibachi Sushi in Fort Worth, TX$$$Edohana Hibachi Sushi in
+  Fort Worth, TX, stands out as a classic Japanese dining spot celebrated for
+  its vibrant hibachi preparations and diverse sushi selections. This restaurant
+  offers an engaging experience with tableside cooking that adds flair to every
+  meal, complemented by fresh ingredients and a variety of specialty rolls that
+  appeal to sushi enthusiasts. Accessibility features like wheelchair-friendly
+  entrances and seating make it a welcoming choice for all visitors seeking
+  Japanese cuisine near you. With moderate pricing and options for beer and
+  cocktails, it's an ideal spot for casual dinners or group outings, blending
+  entertainment with flavorful dishes. Whether you're exploring top-rated sushi
+  restaurants in the area, this location delivers a memorable taste of authentic
+  flavors in a lively atmosphere.
+generative_summary: >-
+  Discover Edohana Hibachi Sushi in Fort Worth, TX$$$Edohana Hibachi Sushi in
+  Fort Worth, TX, stands out as a classic Japanese dining spot celebrated for
+  its vibrant hibachi preparations and diverse sushi selections. This restaurant
+  offers an engaging experience with tableside cooking that adds flair to every
+  meal, complemented by fresh ingredients and a variety of specialty rolls that
+  appeal to sushi enthusiasts. Accessibility features like wheelchair-friendly
+  entrances and seating make it a welcoming choice for all visitors seeking
+  Japanese cuisine near you. With moderate pricing and options for beer and
+  cocktails, it's an ideal spot for casual dinners or group outings, blending
+  entertainment with flavorful dishes. Whether you're exploring top-rated sushi
+  restaurants in the area, this location delivers a memorable taste of authentic
+  flavors in a lively atmosphere.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJK7ONF5xyToYRT-PbzhL0ve4/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfME5qSGdRRRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        The food was amazing! The rice was so good especially with the yum yum
+        sauce! The meat was really good! The shrimp and zucchini were good too!
+        The sake was stout but good! Service was outstanding! It is reasonable
+        priced.
+      languageCode: en
+    originalText:
+      text: >-
+        The food was amazing! The rice was so good especially with the yum yum
+        sauce! The meat was really good! The shrimp and zucchini were good too!
+        The sake was stout but good! Service was outstanding! It is reasonable
+        priced.
+      languageCode: en
+    authorAttribution:
+      displayName: Jamie Hoffman
+      uri: https://www.google.com/maps/contrib/113121342927183349669/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjW-hw_sDYlPL6IX81JCAW4xMq2TkdKM0Yk307kvhw5ETBDpRy-4tw=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-01-12T13:45:56.639853Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNfME5qSGdRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNfME5qSGdRRRAB!2m1!1s0x864e729c178db32b:0xeebdf412cedbe34f
+  - name: >-
+      places/ChIJK7ONF5xyToYRT-PbzhL0ve4/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRNXN1U0N3EAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 3
+    text:
+      text: >-
+        THEY AUTOMATICALLY INCLUDE A 18% SERVICE CHARGE AND REQUEST AT TIP ON
+        TOP OF THAT!
+
+
+        (They brought out multiple receipts for each person in our group making
+        it very kerfuffled and sus. Some in our group ended up accidentally
+        tipping 40%)
+
+
+        It was very loud and more group orientated, we went for a birthday and
+        it was fun but getting service including drinks took a while because of
+        the amount of people and flagging down a waiter was hectic on the
+        Thursday dinner we went. We did have reservations in advance too. We had
+        to yell just to speak to the person next to us. The floors were sticky
+        and they played Fox News the entire time. The hibachi chef we got wasn't
+        the most energetic but it was still fun and the skill absolutely was
+        there.
+
+
+        The hibachi dinners include a light soup broth that was very flavorful
+        and a basic salad with a vinaigrette type of dressing. The main dinner
+        food included half a dinner plate of rice, a quarter lo mein and a
+        quarter vegetables and half the plate of chicken with two side sauce
+        options. For the $21 per plate I feel like we got a good amount of food
+        especially for it being made so fresh.
+      languageCode: en
+    originalText:
+      text: >-
+        THEY AUTOMATICALLY INCLUDE A 18% SERVICE CHARGE AND REQUEST AT TIP ON
+        TOP OF THAT!
+
+
+        (They brought out multiple receipts for each person in our group making
+        it very kerfuffled and sus. Some in our group ended up accidentally
+        tipping 40%)
+
+
+        It was very loud and more group orientated, we went for a birthday and
+        it was fun but getting service including drinks took a while because of
+        the amount of people and flagging down a waiter was hectic on the
+        Thursday dinner we went. We did have reservations in advance too. We had
+        to yell just to speak to the person next to us. The floors were sticky
+        and they played Fox News the entire time. The hibachi chef we got wasn't
+        the most energetic but it was still fun and the skill absolutely was
+        there.
+
+
+        The hibachi dinners include a light soup broth that was very flavorful
+        and a basic salad with a vinaigrette type of dressing. The main dinner
+        food included half a dinner plate of rice, a quarter lo mein and a
+        quarter vegetables and half the plate of chicken with two side sauce
+        options. For the $21 per plate I feel like we got a good amount of food
+        especially for it being made so fresh.
+      languageCode: en
+    authorAttribution:
+      displayName: Jin
+      uri: https://www.google.com/maps/contrib/106967901512425255300/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJDicxHHhSghPzbzsABqqqfhKRTd_cOWtlH0QJ4wy3aGqwd9Q=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-03-04T01:43:38.440686Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNRNXN1U0N3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNRNXN1U0N3EAE!2m1!1s0x864e729c178db32b:0xeebdf412cedbe34f
+  - name: >-
+      places/ChIJK7ONF5xyToYRT-PbzhL0ve4/reviews/ChdDSUhNMG9nS0VJQ0FnSUMzaDdtczB3RRAB
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        Great restaurant, the food and energy did not disappoint. Our table was
+        great, the service was great and the food was plentiful and yummy. I
+        highly recommend this location for dinner or any occasion. Even the
+        kids' portion was large, which we took home. They even made side noodles
+        for us to take home as requested. The price is the same as you would
+        find at these types of restaurants, which is good when it all goes as
+        well as our experience.
+      languageCode: en
+    originalText:
+      text: >-
+        Great restaurant, the food and energy did not disappoint. Our table was
+        great, the service was great and the food was plentiful and yummy. I
+        highly recommend this location for dinner or any occasion. Even the
+        kids' portion was large, which we took home. They even made side noodles
+        for us to take home as requested. The price is the same as you would
+        find at these types of restaurants, which is good when it all goes as
+        well as our experience.
+      languageCode: en
+    authorAttribution:
+      displayName: Tom Cruz
+      uri: https://www.google.com/maps/contrib/118262090042824884997/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWvT2dL2VLAFQAGs76UiBB86eJ4fNToeBOx9P0GcpfZXExITYiI=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-11-09T19:41:50.876046Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMzaDdtczB3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMzaDdtczB3RRAB!2m1!1s0x864e729c178db32b:0xeebdf412cedbe34f
+  - name: >-
+      places/ChIJK7ONF5xyToYRT-PbzhL0ve4/reviews/ChdDSUhNMG9nS0VJQ0FnSUNYbGItUjl3RRAB
+    relativePublishTimeDescription: 6 months ago
+    rating: 5
+    text:
+      text: >-
+        I ended up really liking this place! They have a large menu, but I only
+        got to try the sushi this time. I went a little out there and ordered
+        some rolls along with some sashimi. I was expecting a few slices of fish
+        on a plate, but they really go all out on their sashimi!! The salmon was
+        a little large, but it was so tender, it melted in our mouths. There was
+        a sauce on the spicy tuna that I couldn't place, but it was absolutely
+        delicious. The service is quick and friendly. I'll definitely come back
+        and try the hibachi side.
+      languageCode: en
+    originalText:
+      text: >-
+        I ended up really liking this place! They have a large menu, but I only
+        got to try the sushi this time. I went a little out there and ordered
+        some rolls along with some sashimi. I was expecting a few slices of fish
+        on a plate, but they really go all out on their sashimi!! The salmon was
+        a little large, but it was so tender, it melted in our mouths. There was
+        a sauce on the spicy tuna that I couldn't place, but it was absolutely
+        delicious. The service is quick and friendly. I'll definitely come back
+        and try the hibachi side.
+      languageCode: en
+    authorAttribution:
+      displayName: Sara Waeltz
+      uri: https://www.google.com/maps/contrib/108653237284810430852/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjU2i46cQi88deqF5qp-2wSejzehjvph5DRmSVuYAufzysIBREnB=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-10-18T23:44:41.169945Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNYbGItUjl3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNYbGItUjl3RRAB!2m1!1s0x864e729c178db32b:0xeebdf412cedbe34f
+  - name: >-
+      places/ChIJK7ONF5xyToYRT-PbzhL0ve4/reviews/ChZDSUhNMG9nS0VJQ0FnSURIc0tTSFRBEAE
+    relativePublishTimeDescription: 7 months ago
+    rating: 5
+    text:
+      text: >-
+        We loved this place!! We had delicious fresh sushi & ate hibachi.
+        Chicken and steak and they were both amazing! We loved the entertainment
+        our chef brought as well. He was very funny and made dinner fun! We
+        would highly recommend  checking this place out.
+      languageCode: en
+    originalText:
+      text: >-
+        We loved this place!! We had delicious fresh sushi & ate hibachi.
+        Chicken and steak and they were both amazing! We loved the entertainment
+        our chef brought as well. He was very funny and made dinner fun! We
+        would highly recommend  checking this place out.
+      languageCode: en
+    authorAttribution:
+      displayName: Stephanie Osborn
+      uri: https://www.google.com/maps/contrib/115983714925564750407/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXXq8m9CTNmW9ds6c0ygXPJDA42IvMVoqWw8EbwU5jEN53JE-WP9w=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-09-11T14:22:13.683291Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURIc0tTSFRBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURIc0tTSFRBEAE!2m1!1s0x864e729c178db32b:0xeebdf412cedbe34f
+review_summary: >-
+  What Visitors Are Saying About the Experience$$$Folks rave about the tasty
+  hibachi and sushi options at this spot, highlighting the fresh flavors of
+  dishes like steak and chicken that keep diners coming back for more. Many
+  appreciate the entertaining chefs who bring fun energy to the table, making
+  meals feel like a lively event rather than just dinner. While service is
+  generally friendly and portions are generous, some note that wait times can
+  occasionally slow things down during busy evenings. Overall, it's a solid pick
+  for anyone hunting for great sushi places near me, with positive feedback on
+  the value and variety that make it worth a visit. If you're in the mood for
+  reliable Japanese dining, this restaurant delivers a satisfying experience
+  that balances excitement and quality.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  paidStreetParking: false
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: true
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Hibachi meals prepared tableside with flair, plus a full sushi menu with
+  sashimi & specialty rolls.
 
 ---

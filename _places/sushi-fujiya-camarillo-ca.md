@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Fujiya"
+title: Sushi Fujiya
 permalink: /california/camarillo/sushi-fujiya.html
 stateAbbr: CA
 stateName: California
 cityName: Camarillo
 seo:
-  name: "Sushi Fujiya"
-  type: Restaurant
+  type: restaurant
   links: https://m.facebook.com/pages/Sushi-Fujiya/121783931165695
-description: "Sushi Fujiya serves delicious sushi in Camarillo, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJSwnMQhs26IARR9z5F0T67-0
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80e8361b42cc094b:0xedeffa4417f9dc47!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 16
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 4:00 – 9:30 PM'
     - 'Tuesday: 4:00 – 9:30 PM'
     - 'Wednesday: 11:00 AM – 9:30 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:30 PM'
     - 'Saturday: 12:00 – 9:30 PM'
     - 'Sunday: 4:00 – 9:00 PM'
-  current:
-    - 'Monday: 4:00 – 9:30 PM'
-    - 'Tuesday: 4:00 – 9:30 PM'
-    - 'Wednesday: 11:00 AM – 9:30 PM'
-    - 'Thursday: 11:00 AM – 9:30 PM'
-    - 'Friday: 11:00 AM – 9:30 PM'
-    - 'Saturday: 12:00 – 9:30 PM'
-    - 'Sunday: 4:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T04:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,261 @@ phone: (805) 482-6730
 price_level: PRICE_LEVEL_MODERATE
 price_range: $30 &ndash; $50
 rating: '4.2'
-rating_count: 0
+rating_count: 295
 website: https://m.facebook.com/pages/Sushi-Fujiya/121783931165695
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Explore Sushi Fujiya in Camarillo, CA$$$Sushi Fujiya in Camarillo, CA, stands
+  out as a relaxed destination for fresh Japanese cuisine, particularly
+  appealing to those seeking all-you-can-eat sushi options in a convenient
+  shopping center setting. This spot offers a wide array of rolls and other
+  traditional bites, making it a go-to choice for sushi enthusiasts looking for
+  variety and value in their local dining experiences. With accessibility
+  features like wheelchair-friendly entrances and parking, it caters to a broad
+  range of visitors while maintaining a casual vibe. The menu includes flavorful
+  selections that pair well with cocktails, enhancing the overall appeal for
+  those exploring top-rated sushi restaurants nearby. Operating hours
+  accommodate both lunch and dinner crowds, ensuring it's easy to enjoy
+  authentic flavors without the hassle.
+generative_summary: >-
+  Explore Sushi Fujiya in Camarillo, CA$$$Sushi Fujiya in Camarillo, CA, stands
+  out as a relaxed destination for fresh Japanese cuisine, particularly
+  appealing to those seeking all-you-can-eat sushi options in a convenient
+  shopping center setting. This spot offers a wide array of rolls and other
+  traditional bites, making it a go-to choice for sushi enthusiasts looking for
+  variety and value in their local dining experiences. With accessibility
+  features like wheelchair-friendly entrances and parking, it caters to a broad
+  range of visitors while maintaining a casual vibe. The menu includes flavorful
+  selections that pair well with cocktails, enhancing the overall appeal for
+  those exploring top-rated sushi restaurants nearby. Operating hours
+  accommodate both lunch and dinner crowds, ensuring it's easy to enjoy
+  authentic flavors without the hassle.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJSwnMQhs26IARR9z5F0T67-0/reviews/ChdDSUhNMG9nS0VJQ0FnTURnenEyRzVnRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 4
+    text:
+      text: >-
+        I got the AYCE for $35.95 on a Thursday night;
+
+        Service was decent, not many workers but solemn.
+
+        Roll was good, however, the sushi rice was kind of separated, tuna
+        quality was decent but a little fishy, as was the halibut. My favorite
+        was the unagi and albacore sushi, and the spicy tuna handroll(a lot of
+        rice but a lot of tuna too so I guess it makes up for it).
+      languageCode: en
+    originalText:
+      text: >-
+        I got the AYCE for $35.95 on a Thursday night;
+
+        Service was decent, not many workers but solemn.
+
+        Roll was good, however, the sushi rice was kind of separated, tuna
+        quality was decent but a little fishy, as was the halibut. My favorite
+        was the unagi and albacore sushi, and the spicy tuna handroll(a lot of
+        rice but a lot of tuna too so I guess it makes up for it).
+      languageCode: en
+    authorAttribution:
+      displayName: Leah Lai
+      uri: https://www.google.com/maps/contrib/105511497935550606708/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjX_FOINlmyN66i8e_2Jhn91EUsIdn7L5vi0IkhZ4eXSa7D9fe2Z=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-02-24T19:38:50.329152Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURnenEyRzVnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURnenEyRzVnRRAB!2m1!1s0x80e8361b42cc094b:0xedeffa4417f9dc47
+  - name: >-
+      places/ChIJSwnMQhs26IARR9z5F0T67-0/reviews/ChdDSUhNMG9nS0VJQ0FnTURRX0wySnFnRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Definitely a go to restaurant for me and my partner that never has a
+        wait. The food is always outstanding with the servers doing an amazing
+        job if you do need to get a server you just click a button and they
+        arrive! Definitely gives a mom pop type of restaurant. So if that’s your
+        style you will definitely love this spot!
+      languageCode: en
+    originalText:
+      text: >-
+        Definitely a go to restaurant for me and my partner that never has a
+        wait. The food is always outstanding with the servers doing an amazing
+        job if you do need to get a server you just click a button and they
+        arrive! Definitely gives a mom pop type of restaurant. So if that’s your
+        style you will definitely love this spot!
+      languageCode: en
+    authorAttribution:
+      displayName: Wicho Rodriguez
+      uri: https://www.google.com/maps/contrib/114692427877761884319/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJIB6Lgdxs_pjnwdIyoqoI4qf3k3F2GZG1KyFUbf_2-g7rIk4U=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-09T21:55:49.628276Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURRX0wySnFnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURRX0wySnFnRRAB!2m1!1s0x80e8361b42cc094b:0xedeffa4417f9dc47
+  - name: >-
+      places/ChIJSwnMQhs26IARR9z5F0T67-0/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3LVphc3hBRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        This is my favorite sushi place ! I always get a Vegas roll with some
+        chicken katsu. The music is chill and the service is stellar !
+      languageCode: en
+    originalText:
+      text: >-
+        This is my favorite sushi place ! I always get a Vegas roll with some
+        chicken katsu. The music is chill and the service is stellar !
+      languageCode: en
+    authorAttribution:
+      displayName: Maurice Garcia (Mo)
+      uri: https://www.google.com/maps/contrib/109043285500326045849/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXNRLesQNMdLDL9uvk5g1qIsosZ7LVoRdAa2a7aw7sJag_112ph=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-03-19T23:41:53.622937Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUN3LVphc3hBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUN3LVphc3hBRRAB!2m1!1s0x80e8361b42cc094b:0xedeffa4417f9dc47
+  - name: >-
+      places/ChIJSwnMQhs26IARR9z5F0T67-0/reviews/ChdDSUhNMG9nS0VJQ0FnTUNndnFLTG5BRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 3
+    text:
+      text: >-
+        Food: average, nothing exciting or horrible. Typical sushi but it was
+        fresh and satisfying. Be aware that they give full rolls of sushi. I’ve
+        been to some AYCE and they give a few pieces of your order, this is a
+        full roll. We didn’t finish a roll and were charged an additional $5,
+        understandable.
+
+
+        Service: We waited about 10 minutes to receive our menus, another 25 to
+        receive our food. We did the AYCE, so we put in one big order and didn’t
+        have to order again. There were two waiters on duty. To give them
+        credit, they cleared our table as needed.
+
+
+        Atmosphere: definitely some sketchiness to the place, menus were sticky,
+        table beside us was dirty when we arrived and never touched the whole
+        time we were there. The place is in need of an upgrade.
+      languageCode: en
+    originalText:
+      text: >-
+        Food: average, nothing exciting or horrible. Typical sushi but it was
+        fresh and satisfying. Be aware that they give full rolls of sushi. I’ve
+        been to some AYCE and they give a few pieces of your order, this is a
+        full roll. We didn’t finish a roll and were charged an additional $5,
+        understandable.
+
+
+        Service: We waited about 10 minutes to receive our menus, another 25 to
+        receive our food. We did the AYCE, so we put in one big order and didn’t
+        have to order again. There were two waiters on duty. To give them
+        credit, they cleared our table as needed.
+
+
+        Atmosphere: definitely some sketchiness to the place, menus were sticky,
+        table beside us was dirty when we arrived and never touched the whole
+        time we were there. The place is in need of an upgrade.
+      languageCode: en
+    authorAttribution:
+      displayName: Victoria Aguon
+      uri: https://www.google.com/maps/contrib/109953652678601097882/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVm4u5aAnJISkMQxoGZiSCQ3ufqUGfOvxTAH0qszT_vHsf2vt36=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-02-17T18:03:01.332758Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNndnFLTG5BRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNndnFLTG5BRRAB!2m1!1s0x80e8361b42cc094b:0xedeffa4417f9dc47
+  - name: >-
+      places/ChIJSwnMQhs26IARR9z5F0T67-0/reviews/ChdDSUhNMG9nS0VJQ0FnSUR5dkxHZG1RRRAB
+    relativePublishTimeDescription: 4 years ago
+    rating: 4
+    text:
+      text: >-
+        Pleasantly surprised by this small sushi place! They have an all you can
+        eat sushi menu which is great. There were some hit and miss in what they
+        have. The oysters were not that tasty and their hand rolls had more rice
+        than fish which was a bit disappointing. However, they had some tasty
+        sushi on their menu, like white tuna, red snapper, their salmon was like
+        butter. This is definitely a place to come and try plus staff was so
+        nice.
+      languageCode: en
+    originalText:
+      text: >-
+        Pleasantly surprised by this small sushi place! They have an all you can
+        eat sushi menu which is great. There were some hit and miss in what they
+        have. The oysters were not that tasty and their hand rolls had more rice
+        than fish which was a bit disappointing. However, they had some tasty
+        sushi on their menu, like white tuna, red snapper, their salmon was like
+        butter. This is definitely a place to come and try plus staff was so
+        nice.
+      languageCode: en
+    authorAttribution:
+      displayName: Felix Franco
+      uri: https://www.google.com/maps/contrib/117115986830201742142/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVRjyM-gfimKHgqfhduEhWy42nCusYW9JzVkWdinYm7pzj8N166=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2021-04-12T05:04:44.402871Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR5dkxHZG1RRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR5dkxHZG1RRRAB!2m1!1s0x80e8361b42cc094b:0xedeffa4417f9dc47
+review_summary: >-
+  Insights from Recent Reviews$$$Diners frequently highlight the all-you-can-eat
+  sushi deals as a fun and satisfying way to sample a variety of fresh rolls,
+  making it a solid pick for casual meals with friends or family. While some
+  note that service can be prompt thanks to an easy ordering system, others
+  mention occasional waits that are worth it for the tasty selections like unagi
+  and spicy tuna. The atmosphere comes across as laid-back and unpretentious,
+  ideal for those who appreciate a no-fuss spot for Japanese-inspired dishes
+  close to home. Overall, the food quality shines through with fresh ingredients
+  that keep people coming back, though a few suggest it's best for
+  straightforward sushi cravings rather than fancy outings. If you're searching
+  for reliable sushi places near you, this location often delivers a positive
+  experience with generous portions at a moderate price.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
 good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Enduring, relaxed fixture with an all-you-can-eat sushi menu, plus other
+  Japanese bites & cocktails.
 
 ---

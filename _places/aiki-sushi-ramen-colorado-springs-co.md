@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Aiki Sushi & Ramen"
+title: Aiki Sushi & Ramen
 permalink: /colorado/colorado-springs/aiki-sushi-ramen.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Colorado Springs
 seo:
-  name: "Aiki Sushi & Ramen"
-  type: Restaurant
+  type: restaurant
   links: http://www.sushiaikico.com/
-description: "Aiki Sushi & Ramen serves delicious sushi in Colorado Springs, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJb7HXdK5JE4cRyi3ezl899_4
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x871349ae74d7b16f:0xfef73d5fcede2dca!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 15
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 15
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 15
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 15
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 15
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 15
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 15
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:15 PM'
     - 'Tuesday: 11:00 AM – 9:15 PM'
     - 'Wednesday: 11:00 AM – 9:15 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:15 PM'
     - 'Saturday: 11:00 AM – 9:15 PM'
     - 'Sunday: 12:00 – 8:15 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:15 PM'
-    - 'Tuesday: 11:00 AM – 9:15 PM'
-    - 'Wednesday: 11:00 AM – 9:15 PM'
-    - 'Thursday: 11:00 AM – 9:15 PM'
-    - 'Friday: 11:00 AM – 9:15 PM'
-    - 'Saturday: 11:00 AM – 9:15 PM'
-    - 'Sunday: 12:00 – 8:15 PM'
+  nextCloseTime: '2025-05-04T03:15:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,36 +245,405 @@ secondary_opening_hours:
 phone: (719) 800-9003
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
-rating: '3.6'
-rating_count: 0
+rating: '3.7'
+rating_count: 451
 website: http://www.sushiaikico.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Experience Aiki Sushi & Ramen$$$Aiki Sushi & Ramen in Colorado Springs, CO,
+  offers a casual yet inviting spot for enjoying fresh Japanese cuisine,
+  featuring an array of sushi rolls and flavorful entrees in a minimalist
+  setting. This sushi restaurant stands out with its accessible atmosphere,
+  including wheelchair-friendly options and ample parking, making it a
+  convenient choice for diners seeking quality meals without the hassle. Patrons
+  can savor a variety of dishes, from baked rolls to hearty ramen, paired with
+  selections like sake, wine, and beer for a well-rounded experience. The spot's
+  open hours cater to both lunch and dinner crowds, ensuring you can easily find
+  sushi places near you for a satisfying meal. With its focus on fresh
+  ingredients and a welcoming vibe, it's a go-to option for those exploring
+  top-rated sushi in the area.
+generative_summary: >-
+  Experience Aiki Sushi & Ramen$$$Aiki Sushi & Ramen in Colorado Springs, CO,
+  offers a casual yet inviting spot for enjoying fresh Japanese cuisine,
+  featuring an array of sushi rolls and flavorful entrees in a minimalist
+  setting. This sushi restaurant stands out with its accessible atmosphere,
+  including wheelchair-friendly options and ample parking, making it a
+  convenient choice for diners seeking quality meals without the hassle. Patrons
+  can savor a variety of dishes, from baked rolls to hearty ramen, paired with
+  selections like sake, wine, and beer for a well-rounded experience. The spot's
+  open hours cater to both lunch and dinner crowds, ensuring you can easily find
+  sushi places near you for a satisfying meal. With its focus on fresh
+  ingredients and a welcoming vibe, it's a go-to option for those exploring
+  top-rated sushi in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJb7HXdK5JE4cRyi3ezl899_4/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3bDR5UHdBRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 3
+    text:
+      text: >-
+        The restaurant looks nice and clean inside. We went weekday during lunch
+        and it wasn’t busy at all. They have hibachi seating on one side and
+        regular seating on the other. The  service was good, as one would
+        expect. The food was okay. We order the bento box, which came with
+        plenty of food, but the food was underwhelming. I was expecting the
+        salad to be your traditional Japanese shredded cabbage salad with sesame
+        dressing, not at all. The miso soup was tasty, the teriyaki chicken is
+        your run of the mill teriyaki sauce—nothing special. For what it was the
+        price was justifiable ($15 per bento box). The California roll left was
+        not what one would expect, it was okay at best.
+
+
+        Overall, good service, but the food was just okay. I have better hopes
+        for the hibachi, which I will go back and try at some point. I’ve had
+        teppanyaki in Japan and I’m curious to see how theirs compares so I’m
+        looking forward to trying their hibachi grill in the future.
+      languageCode: en
+    originalText:
+      text: >-
+        The restaurant looks nice and clean inside. We went weekday during lunch
+        and it wasn’t busy at all. They have hibachi seating on one side and
+        regular seating on the other. The  service was good, as one would
+        expect. The food was okay. We order the bento box, which came with
+        plenty of food, but the food was underwhelming. I was expecting the
+        salad to be your traditional Japanese shredded cabbage salad with sesame
+        dressing, not at all. The miso soup was tasty, the teriyaki chicken is
+        your run of the mill teriyaki sauce—nothing special. For what it was the
+        price was justifiable ($15 per bento box). The California roll left was
+        not what one would expect, it was okay at best.
+
+
+        Overall, good service, but the food was just okay. I have better hopes
+        for the hibachi, which I will go back and try at some point. I’ve had
+        teppanyaki in Japan and I’m curious to see how theirs compares so I’m
+        looking forward to trying their hibachi grill in the future.
+      languageCode: en
+    authorAttribution:
+      displayName: Gredy Seago
+      uri: https://www.google.com/maps/contrib/103864593011908211557/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWtt1mdtdla7ppX2j9gob9suShv1GDij9GwklMEo3-MXg8GrFBh=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-03-28T20:20:23.904414Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUR3bDR5UHdBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUR3bDR5UHdBRRAB!2m1!1s0x871349ae74d7b16f:0xfef73d5fcede2dca
+  - name: >-
+      places/ChIJb7HXdK5JE4cRyi3ezl899_4/reviews/ChdDSUhNMG9nS0VJQ0FnSUNMbXVTX2t3RRAB
+    relativePublishTimeDescription: 10 months ago
+    rating: 3
+    text:
+      text: >-
+        We decided to take a chance on this place, and it turned out to be just
+        okay. Although the restaurant was clean, it was unorganized with random
+        supplies in every corner. Ordering was a bit confusing. We were promptly
+        served drinks, but it took a while to place our food order. The waitress
+        noticed we hadn't ordered yet and spoke to the waiter. She then asked us
+        to write our order on a scrap of paper, which added to the confusion.
+
+
+        We ordered the combo fried rice, spicy miso ramen, tiger roll, and angel
+        roll. The meal began with a salad with ginger dressing, which I didn’t
+        enjoy, although the salad was fresh.
+
+
+        The combo fried rice portion was generous and came with a miso soup that
+        was overly salty. Unfortunately, the chicken didn’t taste right and some
+        of the beef pieces had the same issue. The spicy miso ramen was just
+        okay; it lacked a strong miso flavor and the pork was dry, though the
+        noodles were nicely chewy.
+
+
+        The sushi was the highlight of the meal. Both the tiger roll and the
+        angel roll matched their menu descriptions and tasted good. The sushi
+        chef who brought out our sushi was pleasant and asked if we needed
+        anything.
+
+
+        Overall, the experience was quite disorganized, with staff repeatedly
+        asking if certain things had been done, like whether they had brought
+        the miso soup or taken our order. I wouldn’t return for the menu dishes,
+        but the sushi might warrant another visit.
+      languageCode: en
+    originalText:
+      text: >-
+        We decided to take a chance on this place, and it turned out to be just
+        okay. Although the restaurant was clean, it was unorganized with random
+        supplies in every corner. Ordering was a bit confusing. We were promptly
+        served drinks, but it took a while to place our food order. The waitress
+        noticed we hadn't ordered yet and spoke to the waiter. She then asked us
+        to write our order on a scrap of paper, which added to the confusion.
+
+
+        We ordered the combo fried rice, spicy miso ramen, tiger roll, and angel
+        roll. The meal began with a salad with ginger dressing, which I didn’t
+        enjoy, although the salad was fresh.
+
+
+        The combo fried rice portion was generous and came with a miso soup that
+        was overly salty. Unfortunately, the chicken didn’t taste right and some
+        of the beef pieces had the same issue. The spicy miso ramen was just
+        okay; it lacked a strong miso flavor and the pork was dry, though the
+        noodles were nicely chewy.
+
+
+        The sushi was the highlight of the meal. Both the tiger roll and the
+        angel roll matched their menu descriptions and tasted good. The sushi
+        chef who brought out our sushi was pleasant and asked if we needed
+        anything.
+
+
+        Overall, the experience was quite disorganized, with staff repeatedly
+        asking if certain things had been done, like whether they had brought
+        the miso soup or taken our order. I wouldn’t return for the menu dishes,
+        but the sushi might warrant another visit.
+      languageCode: en
+    authorAttribution:
+      displayName: Isabel M
+      uri: https://www.google.com/maps/contrib/115240168598521838724/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXmyrLmHgRH2K2NMNzG0U5587eLedV25SBqzn_YiFKFhu3qcopb=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-06-18T05:31:04.966523Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNMbXVTX2t3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNMbXVTX2t3RRAB!2m1!1s0x871349ae74d7b16f:0xfef73d5fcede2dca
+  - name: >-
+      places/ChIJb7HXdK5JE4cRyi3ezl899_4/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJaXBTR05BEAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        I am eating the absolute best order of Sushi since leaving Phoenix...
+        See attached photo ... For less then 30 silly dollars..... to go?! ...
+        Yeah, you guys keep eating whatever it is your calling "fish" I'm simply
+        trying to keep them open, so don't come all at once since I'm sharing.
+        ... I mean if I have to explain what Roe is then the proper texture of
+        Caviar then we're not having the same conversation
+      languageCode: en
+    originalText:
+      text: >-
+        I am eating the absolute best order of Sushi since leaving Phoenix...
+        See attached photo ... For less then 30 silly dollars..... to go?! ...
+        Yeah, you guys keep eating whatever it is your calling "fish" I'm simply
+        trying to keep them open, so don't come all at once since I'm sharing.
+        ... I mean if I have to explain what Roe is then the proper texture of
+        Caviar then we're not having the same conversation
+      languageCode: en
+    authorAttribution:
+      displayName: soraya cason
+      uri: https://www.google.com/maps/contrib/110527245327958206367/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKqfEzx4pPaLxHeBAQc8D_s7BPyBKvOh3Gzjm2UmVu8vc0I3Vo=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-31T23:54:58.107025Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNJaXBTR05BEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNJaXBTR05BEAE!2m1!1s0x871349ae74d7b16f:0xfef73d5fcede2dca
+  - name: >-
+      places/ChIJb7HXdK5JE4cRyi3ezl899_4/reviews/ChdDSUhNMG9nS0VJQ0FnSUNPNC1pMHZnRRAB
+    relativePublishTimeDescription: 2 years ago
+    rating: 2
+    text:
+      text: >-
+        We did not enjoy our experience at this place. We dined in. Lazy
+        service- we had to write our order on a piece of paper, dirty plates
+        were not picked up in a timely manner. Some odd music for the entire
+        restaurant came from the server's phone. The food was very unimpressive.
+        Pho looked and tasted like it was prepared with spaghetti noodles, which
+        is very strange. The prices are way too high for the quality of food. We
+        will not return.
+      languageCode: en
+    originalText:
+      text: >-
+        We did not enjoy our experience at this place. We dined in. Lazy
+        service- we had to write our order on a piece of paper, dirty plates
+        were not picked up in a timely manner. Some odd music for the entire
+        restaurant came from the server's phone. The food was very unimpressive.
+        Pho looked and tasted like it was prepared with spaghetti noodles, which
+        is very strange. The prices are way too high for the quality of food. We
+        will not return.
+      languageCode: en
+    authorAttribution:
+      displayName: Olena V
+      uri: https://www.google.com/maps/contrib/100038258806932453710/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjU8olfChEBf40qS0DZW_v6BTvqIuZdSrY5Gq2A_-bdugaN6PHJf=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2022-06-18T14:30:11.263105Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNPNC1pMHZnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNPNC1pMHZnRRAB!2m1!1s0x871349ae74d7b16f:0xfef73d5fcede2dca
+  - name: >-
+      places/ChIJb7HXdK5JE4cRyi3ezl899_4/reviews/ChdDSUhNMG9nS0VJQ0FnSUQtN2RPRW93RRAB
+    relativePublishTimeDescription: 2 years ago
+    rating: 3
+    text:
+      text: >-
+        I've shelved my expections on sushi after my timing living abroad, as it
+        would not be fair to the restaurant to grade it by those standards in a
+        landlocked state.
+
+
+        However, I was overall disappointed with my experience here. Aiki Sushi
+        and Ramen feels like a cafe when stepping in. I was greeted by one of
+        the two people behind the sushi bar.
+
+
+        After sitting and one of the two sushi chefs took my order, I realized
+        that the ordering system would be written down. The owner behind the
+        cashier counter stood there with little to do but look at the TV. When
+        he did bring food, he was extremely soft-spoken.
+
+
+        I felt like some nigiri, and ordered a few salmon, hokkigai, saba, and
+        hotategai.
+
+        I also ordered a veg yakisoba.
+
+
+        First, my sushi came out. It was smaller, but that was to be expected at
+        $1 per piece. The rice was refrigerated and clumpy, and off-putting. As
+        far as each fish went, the salmon and hokkigai were okay, and the saba
+        was off even with its usual vinegary taste. The hotategai is where I was
+        disappointed, as nothing on the menu said that it would be spicy. While
+        I do love spicy food, I try to avoid it with sushi, as it taints the
+        palate. Luckily, I was saving that for last in this visit.
+
+
+        For the little bit of soy sauce that I did use, do be careful when
+        pouring it out. The containers spill a lot. I lost my napkin to that.
+
+
+        Miso soup came out during the sushi (as well as the entree).
+
+        The broth was okay. Not overly strong but reliant on miso rather than
+        dashi, and I was happy to see soft tofu as well.
+
+
+        The entree was the star here, taking me back to yatai yakisoba at
+        festivals. While the veggies tasted like they were cooked 8n a different
+        sauce, the overall slightly tangy savory flavor was wonderful. Having it
+        served on a house dinner plate was odd, but it too gave a good feeling.
+
+
+        I did my best to leave Japan in Japan, but it is places like this that
+        make me think why it is okay for us to expect excellent burgers, steak,
+        chicken, pizza, etc for a top dollar, yet  we settle for mediocrity when
+        it comes to Japanese food.
+      languageCode: en
+    originalText:
+      text: >-
+        I've shelved my expections on sushi after my timing living abroad, as it
+        would not be fair to the restaurant to grade it by those standards in a
+        landlocked state.
+
+
+        However, I was overall disappointed with my experience here. Aiki Sushi
+        and Ramen feels like a cafe when stepping in. I was greeted by one of
+        the two people behind the sushi bar.
+
+
+        After sitting and one of the two sushi chefs took my order, I realized
+        that the ordering system would be written down. The owner behind the
+        cashier counter stood there with little to do but look at the TV. When
+        he did bring food, he was extremely soft-spoken.
+
+
+        I felt like some nigiri, and ordered a few salmon, hokkigai, saba, and
+        hotategai.
+
+        I also ordered a veg yakisoba.
+
+
+        First, my sushi came out. It was smaller, but that was to be expected at
+        $1 per piece. The rice was refrigerated and clumpy, and off-putting. As
+        far as each fish went, the salmon and hokkigai were okay, and the saba
+        was off even with its usual vinegary taste. The hotategai is where I was
+        disappointed, as nothing on the menu said that it would be spicy. While
+        I do love spicy food, I try to avoid it with sushi, as it taints the
+        palate. Luckily, I was saving that for last in this visit.
+
+
+        For the little bit of soy sauce that I did use, do be careful when
+        pouring it out. The containers spill a lot. I lost my napkin to that.
+
+
+        Miso soup came out during the sushi (as well as the entree).
+
+        The broth was okay. Not overly strong but reliant on miso rather than
+        dashi, and I was happy to see soft tofu as well.
+
+
+        The entree was the star here, taking me back to yatai yakisoba at
+        festivals. While the veggies tasted like they were cooked 8n a different
+        sauce, the overall slightly tangy savory flavor was wonderful. Having it
+        served on a house dinner plate was odd, but it too gave a good feeling.
+
+
+        I did my best to leave Japan in Japan, but it is places like this that
+        make me think why it is okay for us to expect excellent burgers, steak,
+        chicken, pizza, etc for a top dollar, yet  we settle for mediocrity when
+        it comes to Japanese food.
+      languageCode: en
+    authorAttribution:
+      displayName: Eric Basco
+      uri: https://www.google.com/maps/contrib/103216600794969343795/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUgvsxN1HQfIvYK8BRU9pFJmuofqT9L-r4sDYaYLHHERNCZx64=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2022-12-06T23:08:47.864577Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQtN2RPRW93RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQtN2RPRW93RRAB!2m1!1s0x871349ae74d7b16f:0xfef73d5fcede2dca
+review_summary: >-
+  Visitor Feedback Highlights$$$Visitors often praise the sushi selections at
+  this spot, noting that rolls like the tiger and angel varieties deliver fresh
+  flavors that stand out as a highlight of the meal. While some mention that
+  service can feel a bit disorganized at times, the overall experience is
+  generally seen as worthwhile, especially for the generous portions and tasty
+  sides like miso soup. Feedback suggests the fried rice and ramen are
+  hit-or-miss, but many agree that the sushi makes it worth another visit for
+  fans of Japanese dishes. In a casual setting, folks appreciate the
+  affordability and variety, making it a solid pick for anyone hunting for sushi
+  restaurants nearby. Overall, it's a place that delivers enjoyable moments,
+  particularly if you're in the mood for reliable sushi options that keep things
+  light and fun.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
+curbside_pickup: false
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
 menu_for_children: null
-outdoor_seating: null
+outdoor_seating: true
 reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Japanese entrees plus an extensive sushi menu including baked rolls served in
+  minimalist digs.
 
 ---

@@ -5,4 +5,5 @@ permalink: /new-york/ithaca/
 stateAbbr: NY
 stateName: New York
 cityName: Ithaca
+
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Quickway Japanese Hibachi"
+title: Quickway Japanese Hibachi
 permalink: /maryland/oxon-hill/quickway-japanese-hibachi.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Oxon Hill
 seo:
-  name: "Quickway Japanese Hibachi"
-  type: Restaurant
+  type: restaurant
   links: https://quickwayhibachi.com/
-description: "Japanese chain preparing teppanyaki and sushi for lunch and dinner in casual environs. Quickway Japanese Hibachi serves delicious sushi in Oxon Hill, Maryland. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJUT2uUme7t4kRXAlxiU5rJdw
 photos:
   - name: >-
@@ -184,6 +182,27 @@ price_range: $10 &ndash; $20
 rating: '3.5'
 rating_count: 0
 website: https://quickwayhibachi.com/
+description: >-
+  Discover Quickway Japanese Hibachi in Oxon Hill, MD$$$Quickway Japanese
+  Hibachi in Oxon Hill, MD, delivers a relaxed dining vibe focused on flavorful
+  teppanyaki and sushi options for everyday meals. This spot stands out for its
+  affordable pricing, making it an accessible choice for those seeking casual
+  Japanese cuisine without breaking the bank. Patrons can enjoy a variety of
+  dishes prepared in a straightforward setting, emphasizing fresh ingredients
+  and quick service that suits busy lifestyles. For anyone exploring sushi
+  restaurants in the area, it offers convenient meals that blend traditional
+  flavors with everyday convenience, ideal for lunch or dinner outings.
+generative_summary: >-
+  Discover Quickway Japanese Hibachi in Oxon Hill, MD$$$Quickway Japanese
+  Hibachi in Oxon Hill, MD, delivers a relaxed dining vibe focused on flavorful
+  teppanyaki and sushi options for everyday meals. This spot stands out for its
+  affordable pricing, making it an accessible choice for those seeking casual
+  Japanese cuisine without breaking the bank. Patrons can enjoy a variety of
+  dishes prepared in a straightforward setting, emphasizing fresh ingredients
+  and quick service that suits busy lifestyles. For anyone exploring sushi
+  restaurants in the area, it offers convenient meals that blend traditional
+  flavors with everyday convenience, ideal for lunch or dinner outings.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJUT2uUme7t4kRXAlxiU5rJdw/reviews/ChdDSUhNMG9nS0VJQ0FnSUNYa3E2MjJBRRAB
@@ -375,6 +394,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURhajZLNkJ3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURhajZLNkJ3EAE!2m1!1s0x89b7bb6752ae3d51:0xdc256b4e8971095c
+review_summary: >-
+  Insights from Visitor Experiences$$$Folks checking out Quickway Japanese
+  Hibachi often note the budget-friendly prices and generous portions as a solid
+  plus for grabbing a quick bite of Japanese-style eats. While some appreciate
+  the tasty sauces and variety on offer, a few mention that food quality can
+  sometimes vary, suggesting it's best to go with simpler choices for a reliable
+  meal. Overall, it's a spot where the casual atmosphere makes it easy to enjoy
+  affordable sushi options, though keeping expectations in check helps for a
+  smoother visit. If you're on the hunt for sushi places nearby, this location
+  might hit the spot for an unpretentious meal, encouraging a balanced approach
+  to dining out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   valetParking: false
@@ -406,8 +437,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Japanese chain preparing teppanyaki and sushi for lunch and dinner in casual
   environs.
 

@@ -5,4 +5,5 @@ permalink: /colorado/arvada/
 stateAbbr: CO
 stateName: Colorado
 cityName: Arvada
+
 ---

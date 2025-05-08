@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Fuku Sushi"
+title: Fuku Sushi
 permalink: /arizona/tucson/fuku-sushi.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Tucson
 seo:
-  name: "Fuku Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.fukuaz.com/
-description: "Fuku Sushi serves delicious sushi in Tucson, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJl7pWBQRx1oYRBKDRC-iVz7A
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x86d671040556ba97:0xb0cf95e80bd1a004!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 2
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 2
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 2
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 2
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 2
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 2
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 2
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 2:00 AM'
     - 'Tuesday: 11:00 AM – 2:00 AM'
     - 'Wednesday: 11:00 AM – 2:00 AM'
@@ -178,54 +234,427 @@ opening_hours:
     - 'Friday: 11:00 AM – 2:00 AM'
     - 'Saturday: 11:00 AM – 2:00 AM'
     - 'Sunday: 11:00 AM – 2:00 AM'
-  current:
-    - 'Monday: 11:00 AM – 2:00 AM'
-    - 'Tuesday: 11:00 AM – 2:00 AM'
-    - 'Wednesday: 11:00 AM – 2:00 AM'
-    - 'Thursday: 11:00 AM – 2:00 AM'
-    - 'Friday: 11:00 AM – 2:00 AM'
-    - 'Saturday: 11:00 AM – 2:00 AM'
-    - 'Sunday: 11:00 AM – 2:00 AM'
+  nextCloseTime: '2025-05-04T09:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 11
+          minute: 0
+        close:
+          day: 1
+          hour: 0
+          minute: 0
+      - open:
+          day: 1
+          hour: 11
+          minute: 0
+        close:
+          day: 2
+          hour: 0
+          minute: 0
+      - open:
+          day: 2
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 0
+          minute: 0
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 0
+          minute: 0
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 1
+          minute: 30
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 6
+          hour: 1
+          minute: 30
+      - open:
+          day: 6
+          hour: 11
+          minute: 0
+        close:
+          day: 0
+          hour: 1
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 11:00 AM – 12:00 AM'
+      - 'Tuesday: 11:00 AM – 12:00 AM'
+      - 'Wednesday: 11:00 AM – 12:00 AM'
+      - 'Thursday: 11:00 AM – 1:30 AM'
+      - 'Friday: 11:00 AM – 1:30 AM'
+      - 'Saturday: 11:00 AM – 1:30 AM'
+      - 'Sunday: 11:00 AM – 12:00 AM'
+    secondaryHoursType: DELIVERY
+    nextCloseTime: '2025-05-04T08:30:00Z'
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 11
+          minute: 0
+        close:
+          day: 1
+          hour: 0
+          minute: 0
+      - open:
+          day: 1
+          hour: 11
+          minute: 0
+        close:
+          day: 2
+          hour: 0
+          minute: 0
+      - open:
+          day: 2
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 0
+          minute: 0
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 0
+          minute: 0
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 0
+          minute: 0
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 6
+          hour: 0
+          minute: 0
+      - open:
+          day: 6
+          hour: 11
+          minute: 0
+        close:
+          day: 0
+          hour: 0
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 11:00 AM – 12:00 AM'
+      - 'Tuesday: 11:00 AM – 12:00 AM'
+      - 'Wednesday: 11:00 AM – 12:00 AM'
+      - 'Thursday: 11:00 AM – 12:00 AM'
+      - 'Friday: 11:00 AM – 12:00 AM'
+      - 'Saturday: 11:00 AM – 12:00 AM'
+      - 'Sunday: 11:00 AM – 12:00 AM'
+    secondaryHoursType: TAKEOUT
+    nextCloseTime: '2025-05-04T07:00:00Z'
 phone: (520) 798-3858
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '3.3'
-rating_count: 0
+rating_count: 796
 website: https://www.fukuaz.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Experience Fuku Sushi in Tucson, AZ$$$Nestled in the heart of Tucson, AZ, Fuku
+  Sushi stands out as a welcoming spot for those seeking fresh sushi and Asian
+  fusion dishes in a relaxed environment. This lively restaurant boasts an
+  inviting atmosphere with outdoor seating options, making it ideal for casual
+  gatherings or a quick meal after exploring the area. Patrons can enjoy a
+  variety of creative rolls and small plates, all prepared with a focus on
+  quality ingredients and accessibility features like wheelchair-friendly
+  entrances and seating. Whether you're looking for top-rated sushi options near
+  you, the menu here blends traditional Japanese flavors with innovative twists,
+  ensuring a satisfying dining experience for sushi enthusiasts.
+generative_summary: >-
+  Experience Fuku Sushi in Tucson, AZ$$$Nestled in the heart of Tucson, AZ, Fuku
+  Sushi stands out as a welcoming spot for those seeking fresh sushi and Asian
+  fusion dishes in a relaxed environment. This lively restaurant boasts an
+  inviting atmosphere with outdoor seating options, making it ideal for casual
+  gatherings or a quick meal after exploring the area. Patrons can enjoy a
+  variety of creative rolls and small plates, all prepared with a focus on
+  quality ingredients and accessibility features like wheelchair-friendly
+  entrances and seating. Whether you're looking for top-rated sushi options near
+  you, the menu here blends traditional Japanese flavors with innovative twists,
+  ensuring a satisfying dining experience for sushi enthusiasts.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJl7pWBQRx1oYRBKDRC-iVz7A/reviews/ChdDSUhNMG9nS0VJQ0FnTURRMlBQWm13RRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Last week, I was having a very tough day. I walked into Fuku for the
+        first time. I ordered a spicy tuna roll to go and a veggie tempura for
+        there. I had asked the waitress about fried tofu, which she kindly let
+        me know they did not serve. Joseph(one of the chefs) asked what exactly
+        I wanted.. I just said a piece of fried tofu.. but what followed was
+        this! ❤️ Thank you so much, Joseph, David, and Ruby, for making my night
+        such a kind, nemerable one. See you soon.
+      languageCode: en
+    originalText:
+      text: >-
+        Last week, I was having a very tough day. I walked into Fuku for the
+        first time. I ordered a spicy tuna roll to go and a veggie tempura for
+        there. I had asked the waitress about fried tofu, which she kindly let
+        me know they did not serve. Joseph(one of the chefs) asked what exactly
+        I wanted.. I just said a piece of fried tofu.. but what followed was
+        this! ❤️ Thank you so much, Joseph, David, and Ruby, for making my night
+        such a kind, nemerable one. See you soon.
+      languageCode: en
+    authorAttribution:
+      displayName: Anissa Camacho
+      uri: https://www.google.com/maps/contrib/117019570440735595022/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUkZunwewuaLRbLMInVYVHjIQUe3bYBRsCxLApohI3ewiyVtMj8Vg=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-03-18T12:09:36.103605Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURRMlBQWm13RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURRMlBQWm13RRAB!2m1!1s0x86d671040556ba97:0xb0cf95e80bd1a004
+  - name: >-
+      places/ChIJl7pWBQRx1oYRBKDRC-iVz7A/reviews/ChdDSUhNMG9nS0VJQ0FnTURJaXNhVW1BRRAB
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 1
+    text:
+      text: >-
+        I ordered 2 hand rolls the tuna & yellowtail because they looked
+        delicious from the pictures online. However, when I received them they
+        looked nothing like the pictures online. I received just a piece of
+        tuna, cucumber & rice wrapped in seaweed. It was dry and inedible. From
+        the pictures online the tuna was diced & tossed in a sauce with chopped
+        green onion. I tried calling during normal business hours to discuss
+        what happened but the phone just rang until a voicemail intercepted.
+        Below are pictures of what I received verses the pictures/descriptions
+        that are advertised online.
+      languageCode: en
+    originalText:
+      text: >-
+        I ordered 2 hand rolls the tuna & yellowtail because they looked
+        delicious from the pictures online. However, when I received them they
+        looked nothing like the pictures online. I received just a piece of
+        tuna, cucumber & rice wrapped in seaweed. It was dry and inedible. From
+        the pictures online the tuna was diced & tossed in a sauce with chopped
+        green onion. I tried calling during normal business hours to discuss
+        what happened but the phone just rang until a voicemail intercepted.
+        Below are pictures of what I received verses the pictures/descriptions
+        that are advertised online.
+      languageCode: en
+    authorAttribution:
+      displayName: Michael Johnson
+      uri: https://www.google.com/maps/contrib/101439970624423403963/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJY7Bpn4JNKgA808tz2sb5A8QTxCMhKppAs7LJkr69bECPXkQ=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-04-08T18:22:18.603821Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJaXNhVW1BRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJaXNhVW1BRRAB!2m1!1s0x86d671040556ba97:0xb0cf95e80bd1a004
+  - name: >-
+      places/ChIJl7pWBQRx1oYRBKDRC-iVz7A/reviews/ChdDSUhNMG9nS0VJQ0FnTUNndmF6WGhBRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 1
+    text:
+      text: >-
+        I hate to be one of those people but dang I spend my hard earned money
+        on food that should be delicious. Especially since I am not a sushi
+        person and we have never tried this place but we see people always
+        ordering. So we decided to get takeout and when placing an order a girl
+        answered and put me on hold and then hung up. I called again pretty sure
+        she knew it was me because she didn’t get my name or phone number. She
+        gave me the total and time it would be ready. So we go and my husband is
+        waiting to get help and two other customers come in and he still hasn’t
+        been helped and it wasn’t busy it was 9:15pm they close at 2am. Finally
+        she walks over which I am assuming it was her because she was the only
+        one working behind the counter other then a guy. She gives my husband
+        the order pulls a card reader out sees my husband getting cash and says
+        “let me get the change from my purse” and my husband was shocked because
+        like what?? He comes to the car and tells me this and says she gave me
+        $14 in cash and I’m shocked because I have never heard of an employee
+        doing this. So we get home excited thinking it was gonna be at least
+        good. No we barley got any food like the sushi rolls were so small and
+        thin and we ordered 3 sushi rolls each $15 except one $12 and it looked
+        like a mess each roll didn’t look appealing and again I’m not a sushi
+        person so we get this once in awhile but I have eaten at other sushi
+        places and I can say other places charge way less for more or it’s
+        pricey but it’s good sushi if that make sense. Recommend our regular
+        spot! Sushi Lito! So yeah I am disappointed in this experience because
+        it’s supposedly “good”. Definitely don’t recommend.
+      languageCode: en
+    originalText:
+      text: >-
+        I hate to be one of those people but dang I spend my hard earned money
+        on food that should be delicious. Especially since I am not a sushi
+        person and we have never tried this place but we see people always
+        ordering. So we decided to get takeout and when placing an order a girl
+        answered and put me on hold and then hung up. I called again pretty sure
+        she knew it was me because she didn’t get my name or phone number. She
+        gave me the total and time it would be ready. So we go and my husband is
+        waiting to get help and two other customers come in and he still hasn’t
+        been helped and it wasn’t busy it was 9:15pm they close at 2am. Finally
+        she walks over which I am assuming it was her because she was the only
+        one working behind the counter other then a guy. She gives my husband
+        the order pulls a card reader out sees my husband getting cash and says
+        “let me get the change from my purse” and my husband was shocked because
+        like what?? He comes to the car and tells me this and says she gave me
+        $14 in cash and I’m shocked because I have never heard of an employee
+        doing this. So we get home excited thinking it was gonna be at least
+        good. No we barley got any food like the sushi rolls were so small and
+        thin and we ordered 3 sushi rolls each $15 except one $12 and it looked
+        like a mess each roll didn’t look appealing and again I’m not a sushi
+        person so we get this once in awhile but I have eaten at other sushi
+        places and I can say other places charge way less for more or it’s
+        pricey but it’s good sushi if that make sense. Recommend our regular
+        spot! Sushi Lito! So yeah I am disappointed in this experience because
+        it’s supposedly “good”. Definitely don’t recommend.
+      languageCode: en
+    authorAttribution:
+      displayName: Lulani Nunez
+      uri: https://www.google.com/maps/contrib/107004420671118622878/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJxVlGsqlXP4hPxAgud3kViR7Jxj-To6CjJKw_9o_kGlAv6QSs=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-02-20T19:04:53.938422Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNndmF6WGhBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNndmF6WGhBRRAB!2m1!1s0x86d671040556ba97:0xb0cf95e80bd1a004
+  - name: >-
+      places/ChIJl7pWBQRx1oYRBKDRC-iVz7A/reviews/ChZDSUhNMG9nS0VJQ0FnTUNvcVlTWUpnEAE
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 1
+    text:
+      text: >-
+        Had a horrible experience. Came in with my husband and the waitress was
+        so rude to us immediately upon arrival. I asked for a sprite however it
+        was really watered down so I had asked for a different soda. She rolled
+        her eyes and gave me the meanest look. My husbands food had hair in it
+        and so did mine. The manager did not want to help us and forced us to
+        pay. 0/10 experience.
+      languageCode: en
+    originalText:
+      text: >-
+        Had a horrible experience. Came in with my husband and the waitress was
+        so rude to us immediately upon arrival. I asked for a sprite however it
+        was really watered down so I had asked for a different soda. She rolled
+        her eyes and gave me the meanest look. My husbands food had hair in it
+        and so did mine. The manager did not want to help us and forced us to
+        pay. 0/10 experience.
+      languageCode: en
+    authorAttribution:
+      displayName: Annaleena pitts
+      uri: https://www.google.com/maps/contrib/102106526831751469777/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXB25oMotPhKcBJl0yfmuS0GFq0VuGrqLO-o2wOy44WudkPyK74=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-18T04:17:23.953851Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNvcVlTWUpnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNvcVlTWUpnEAE!2m1!1s0x86d671040556ba97:0xb0cf95e80bd1a004
+  - name: >-
+      places/ChIJl7pWBQRx1oYRBKDRC-iVz7A/reviews/ChdDSUhNMG9nS0VJQ0FnSUNqbG9qN3B3RRAB
+    relativePublishTimeDescription: a year ago
+    rating: 2
+    text:
+      text: >-
+        Everything was ok about this place except for the fact they stop serving
+        food at 9pm. Perhaps it was a weekend thing, perhaps not either way, I
+        would've liked to have the opportunity for dine in but every company has
+        a reason for doing things the way they do. Waited 30 minutes and wasn't
+        even offered a water. And the preselected tip was 30%, not the standard
+        15%. That was wild. If they paid their staff enough (& trained them
+        better), they wouldn’t have to default to customers forming over such
+        large tips. They would feel comfortable giving that instead.
+      languageCode: en
+    originalText:
+      text: >-
+        Everything was ok about this place except for the fact they stop serving
+        food at 9pm. Perhaps it was a weekend thing, perhaps not either way, I
+        would've liked to have the opportunity for dine in but every company has
+        a reason for doing things the way they do. Waited 30 minutes and wasn't
+        even offered a water. And the preselected tip was 30%, not the standard
+        15%. That was wild. If they paid their staff enough (& trained them
+        better), they wouldn’t have to default to customers forming over such
+        large tips. They would feel comfortable giving that instead.
+      languageCode: en
+    authorAttribution:
+      displayName: Jesse “Jarimiah” James
+      uri: https://www.google.com/maps/contrib/107702977668361638512/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVllh-j89r1K29UXbp_C_XlijopmGXnJJB4y48aa5-vwNybWE_a3A=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-05-02T02:11:58.602664Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNqbG9qN3B3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNqbG9qN3B3RRAB!2m1!1s0x86d671040556ba97:0xb0cf95e80bd1a004
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors to this sushi spot often praise the
+  friendly service and thoughtful touches that make for memorable meals, though
+  some mention occasional inconsistencies in portion sizes and food
+  presentation. Many appreciate the lively vibe and quick preparation,
+  especially for takeout or delivery when craving Japanese-inspired eats close
+  to home. While a few have pointed out areas for improvement, like variations
+  in dish quality, the overall energy and accessibility keep it a go-to choice
+  for groups or solo diners. In a balanced view, it's clear that the best sushi
+  near me vibes shine through in the positive interactions, making it worth
+  trying for anyone exploring local Japanese places.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
+curbside_pickup: true
+delivery: true
+dine_in: true
 good_for_children: null
-good_for_groups: null
+good_for_groups: true
 good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+live_music: false
+menu_for_children: false
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
 serves_breakfast: null
 serves_brunch: null
-serves_cocktails: null
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  A menu of classic & creative sushi & small plates with outdoor lounge seating
+  in a lively setting.
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "The Sushi Bar"
+title: The Sushi Bar
 permalink: /oklahoma/oklahoma-city/the-sushi-bar.html
 stateAbbr: OK
 stateName: Oklahoma
 cityName: Oklahoma City
 seo:
-  name: "The Sushi Bar"
-  type: Restaurant
-  links: null
-description: "The Sushi Bar serves delicious sushi in Oklahoma City, Oklahoma. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://thesushibarok.com/
 place_id: ChIJWXFboUADsocRMdmf4KZqsTU
 photos:
   - name: >-
@@ -170,22 +168,178 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x87b20340a15b7159:0x35b16aa6e09fd931!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 10:00 PM'
+    - 'Tuesday: 11:00 AM – 10:00 PM'
+    - 'Wednesday: 11:00 AM – 10:00 PM'
+    - 'Thursday: 11:00 AM – 10:00 PM'
+    - 'Friday: 11:00 AM – 11:00 PM'
+    - 'Saturday: 11:00 AM – 11:00 PM'
+    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
-phone: null
-price_level: null
+  - openNow: false
+    periods:
+      - open:
+          day: 1
+          hour: 14
+          minute: 0
+        close:
+          day: 1
+          hour: 17
+          minute: 0
+      - open:
+          day: 2
+          hour: 14
+          minute: 0
+        close:
+          day: 2
+          hour: 17
+          minute: 0
+      - open:
+          day: 3
+          hour: 14
+          minute: 0
+        close:
+          day: 3
+          hour: 17
+          minute: 0
+      - open:
+          day: 4
+          hour: 14
+          minute: 0
+        close:
+          day: 4
+          hour: 17
+          minute: 0
+      - open:
+          day: 5
+          hour: 14
+          minute: 0
+        close:
+          day: 5
+          hour: 17
+          minute: 0
+      - open:
+          day: 6
+          hour: 14
+          minute: 0
+        close:
+          day: 6
+          hour: 17
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 2:00 – 5:00 PM'
+      - 'Tuesday: 2:00 – 5:00 PM'
+      - 'Wednesday: 2:00 – 5:00 PM'
+      - 'Thursday: 2:00 – 5:00 PM'
+      - 'Friday: 2:00 – 5:00 PM'
+      - 'Saturday: 2:00 – 5:00 PM'
+      - 'Sunday: Closed'
+    secondaryHoursType: HAPPY_HOUR
+    nextOpenTime: '2025-05-05T19:00:00Z'
+phone: (405) 470-8123
+price_level: PRICE_LEVEL_MODERATE
 price_range: null
-rating: null
-rating_count: 0
-website: null
+rating: '4.5'
+rating_count: 934
+website: https://thesushibarok.com/
+description: >-
+  Discover The Sushi Bar in Oklahoma City$$$The Sushi Bar in Oklahoma City, OK,
+  offers a romantic ambiance perfect for enjoying fresh Japanese cuisine and
+  expertly crafted dishes. This inviting spot specializes in an array of small
+  plates that highlight premium ingredients, paired with a thoughtful selection
+  of wines and sake to elevate every meal. With its accessible features and
+  welcoming layout, it's designed for a comfortable dining experience that
+  caters to various needs. Operating with flexible hours from late morning into
+  the evening, it provides options for both quick lunches and leisurely dinners.
+  For those seeking top-rated sushi options nearby, this restaurant delivers a
+  blend of authentic flavors and a cozy atmosphere that keeps diners coming
+  back.
+generative_summary: >-
+  Discover The Sushi Bar in Oklahoma City$$$The Sushi Bar in Oklahoma City, OK,
+  offers a romantic ambiance perfect for enjoying fresh Japanese cuisine and
+  expertly crafted dishes. This inviting spot specializes in an array of small
+  plates that highlight premium ingredients, paired with a thoughtful selection
+  of wines and sake to elevate every meal. With its accessible features and
+  welcoming layout, it's designed for a comfortable dining experience that
+  caters to various needs. Operating with flexible hours from late morning into
+  the evening, it provides options for both quick lunches and leisurely dinners.
+  For those seeking top-rated sushi options nearby, this restaurant delivers a
+  blend of authentic flavors and a cozy atmosphere that keeps diners coming
+  back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$If you're looking for sushi spots near you, people
+  generally praise The Sushi Bar for its fresh and flavorful rolls that hit the
+  spot every time. Many highlight the tasty appetizers and drinks, like creative
+  cocktails that pair well with the menu, making meals feel extra enjoyable. The
+  overall vibe gets thumbs up for being warm and relaxed, with staff noted for
+  their helpful service that adds to the fun. It's often recommended as a go-to
+  place for casual outings or special evenings, thanks to its consistent quality
+  and inviting feel. All in all, this spot earns solid marks as one of the
+  better choices for Japanese dining in the area, offering a reliably positive
+  experience for sushi fans.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +365,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

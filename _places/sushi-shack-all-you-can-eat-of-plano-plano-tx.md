@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Shack All You Can Eat of Plano"
+title: Sushi Shack All You Can Eat of Plano
 permalink: /texas/plano/sushi-shack-all-you-can-eat-of-plano.html
 stateAbbr: TX
 stateName: Texas
 cityName: Plano
 seo:
-  name: "Sushi Shack All You Can Eat of Plano"
-  type: Restaurant
+  type: restaurant
   links: https://www.4sushitogo.com/
-description: "Sushi Shack All You Can Eat of Plano serves delicious sushi in Plano, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJC7yyFIMiTIYRxhersE2uPu0
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x864c228314b2bc0b:0xed3eae4db0ab17c6!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 10:00 PM'
     - 'Tuesday: 11:00 AM – 10:00 PM'
     - 'Wednesday: 11:00 AM – 10:00 PM'
@@ -178,28 +234,120 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:00 PM'
     - 'Saturday: 11:30 AM – 10:00 PM'
     - 'Sunday: 11:30 AM – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 10:00 PM'
-    - 'Tuesday: 11:00 AM – 10:00 PM'
-    - 'Wednesday: 11:00 AM – 10:00 PM'
-    - 'Thursday: 11:00 AM – 10:00 PM'
-    - 'Friday: 11:00 AM – 10:00 PM'
-    - 'Saturday: 11:30 AM – 10:00 PM'
-    - 'Sunday: 11:30 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 11
+          minute: 30
+        close:
+          day: 0
+          hour: 20
+          minute: 30
+      - open:
+          day: 1
+          hour: 11
+          minute: 0
+        close:
+          day: 1
+          hour: 21
+          minute: 30
+      - open:
+          day: 2
+          hour: 11
+          minute: 0
+        close:
+          day: 2
+          hour: 21
+          minute: 30
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 21
+          minute: 30
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 30
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 21
+          minute: 30
+      - open:
+          day: 6
+          hour: 11
+          minute: 30
+        close:
+          day: 6
+          hour: 21
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 11:00 AM – 9:30 PM'
+      - 'Tuesday: 11:00 AM – 9:30 PM'
+      - 'Wednesday: 11:00 AM – 9:30 PM'
+      - 'Thursday: 11:00 AM – 9:30 PM'
+      - 'Friday: 11:00 AM – 9:30 PM'
+      - 'Saturday: 11:30 AM – 9:30 PM'
+      - 'Sunday: 11:30 AM – 8:30 PM'
+    secondaryHoursType: KITCHEN
+    nextCloseTime: '2025-05-04T02:30:00Z'
 phone: (469) 782-0160
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '3.9'
-rating_count: 0
+rating_count: 973
 website: https://www.4sushitogo.com/
+description: >-
+  Discover Sushi in Plano, TX$$$Sushi Shack All You Can Eat of Plano in Plano,
+  TX, stands out as a laid-back spot for fresh Japanese cuisine, perfect for
+  anyone craving an all-you-can-eat experience with a variety of options. This
+  sushi restaurant features an inviting atmosphere where diners can enjoy
+  endless rolls, complemented by a fresh salad bar, refreshing beverages like
+  beer and sake, and accessibility features that make it welcoming for all. With
+  its convenient hours extending into the evening, it's an ideal choice for a
+  casual meal, whether you're stopping by for lunch or dinner. The focus on
+  quality ingredients and a simple, enjoyable dining setup adds to its appeal
+  for those exploring top-rated Japanese places nearby.
+generative_summary: >-
+  Discover Sushi in Plano, TX$$$Sushi Shack All You Can Eat of Plano in Plano,
+  TX, stands out as a laid-back spot for fresh Japanese cuisine, perfect for
+  anyone craving an all-you-can-eat experience with a variety of options. This
+  sushi restaurant features an inviting atmosphere where diners can enjoy
+  endless rolls, complemented by a fresh salad bar, refreshing beverages like
+  beer and sake, and accessibility features that make it welcoming for all. With
+  its convenient hours extending into the evening, it's an ideal choice for a
+  casual meal, whether you're stopping by for lunch or dinner. The focus on
+  quality ingredients and a simple, enjoyable dining setup adds to its appeal
+  for those exploring top-rated Japanese places nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Buzzing About$$$Visitors to this Plano sushi spot often
+  rave about the generous portions and tasty selections that make it a go-to for
+  affordable all-you-can-eat deals, earning it solid praise overall. Many
+  appreciate the fresh flavors and variety in the rolls, though some note that
+  service can vary depending on the time of day, adding a bit of real-world
+  honesty to the experience. Folks frequently highlight the value for the price,
+  making it a favorite for groups or families looking for a relaxed vibe without
+  breaking the bank. Despite a few mentions of wait times during peak hours, the
+  general consensus leans positive, with diners enjoying the overall atmosphere
+  and recommending it as a reliable option for satisfying sushi cravings. If
+  you're on the hunt for nearby eateries with a good mix of fun and flavor, this
+  place delivers a mostly upbeat dining adventure.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +373,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Inaka Sushi"
+title: Inaka Sushi
 permalink: /new-york/brooklyn/inaka-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: Brooklyn
 seo:
-  name: "Inaka Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.inaka83st.com/
-description: "Creative sushi rolls & other classic Japanese dishes are the draw at this snug, contemporary eatery. Inaka Sushi serves delicious sushi in Brooklyn, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJEyNRiAJPwokR8PcCt1FrUhM
 photos:
   - name: >-
@@ -184,6 +182,29 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 0
 website: http://www.inaka83st.com/
+description: >-
+  Discover Inaka Sushi in Brooklyn, NY$$$Inaka Sushi in Brooklyn, NY, stands out
+  as a cozy spot for enjoying fresh Japanese dishes, blending creative sushi
+  rolls with other Asian flavors in a welcoming atmosphere. This sushi
+  restaurant near you offers a variety of options like inventive rolls and
+  refreshing drinks, making it a go-to choice for those seeking top-rated sushi
+  experiences in the area. The casual space enhances the dining vibe, perfect
+  for casual meals or quick bites after exploring the neighborhood.
+  Accessibility features add to its appeal, ensuring a comfortable visit for
+  many, while the menu's blend of traditional and unique items keeps things
+  exciting for sushi enthusiasts.
+generative_summary: >-
+  Discover Inaka Sushi in Brooklyn, NY$$$Inaka Sushi in Brooklyn, NY, stands out
+  as a cozy spot for enjoying fresh Japanese dishes, blending creative sushi
+  rolls with other Asian flavors in a welcoming atmosphere. This sushi
+  restaurant near you offers a variety of options like inventive rolls and
+  refreshing drinks, making it a go-to choice for those seeking top-rated sushi
+  experiences in the area. The casual space enhances the dining vibe, perfect
+  for casual meals or quick bites after exploring the neighborhood.
+  Accessibility features add to its appeal, ensuring a comfortable visit for
+  many, while the menu's blend of traditional and unique items keeps things
+  exciting for sushi enthusiasts.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJEyNRiAJPwokR8PcCt1FrUhM/reviews/ChZDSUhNMG9nS0VJQ0FnSUR2Mm91M0xBEAE
@@ -351,6 +372,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURfcm8tNXNnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURfcm8tNXNnRRAB!2m1!1s0x89c24f0288512313:0x13526b51b702f7f0
+review_summary: >-
+  What Customers Are Saying$$$Folks visiting this sushi spot often rave about
+  the fresh and flavorful rolls that make every meal feel like a treat,
+  especially with the wallet-friendly specials that add extra value. Many
+  appreciate the generous portions and friendly service that turn a simple lunch
+  into a satisfying experience, highlighting the variety of options for
+  different tastes. While most feedback focuses on the tasty dishes and
+  welcoming vibe, a few mentions note that some appetizers might not always hit
+  the mark in terms of freshness. Overall, it's a solid pick for anyone hunting
+  for reliable sushi places nearby, with the positive vibes outweighing any
+  minor hiccups to keep things enjoyable. If you're on the hunt for great sushi
+  close to you, this place tends to deliver a consistently fun dining adventure.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options:
   acceptsCreditCards: true
@@ -380,8 +414,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Creative sushi rolls & other classic Japanese dishes are the draw at this
   snug, contemporary eatery.
 

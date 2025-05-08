@@ -5,4 +5,5 @@ permalink: /indiana/bloomington/
 stateAbbr: IN
 stateName: Indiana
 cityName: Bloomington
+
 ---

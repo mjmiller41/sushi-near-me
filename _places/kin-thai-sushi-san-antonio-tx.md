@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kin Thai & Sushi"
+title: Kin Thai & Sushi
 permalink: /texas/san-antonio/kin-thai-sushi.html
 stateAbbr: TX
 stateName: Texas
 cityName: San Antonio
 seo:
-  name: "Kin Thai & Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Kin Thai & Sushi serves delicious sushi in San Antonio, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJcQ03oAdlXIYRhfGC4fi9xmA
 photos:
   - name: >-
@@ -185,7 +183,45 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Kin Thai & Sushi in San Antonio, TX$$$Kin Thai & Sushi in San
+  Antonio, TX, brings together a vibrant mix of fresh sushi and authentic Thai
+  flavors in a relaxed setting that's perfect for casual dining. This spot
+  stands out with its diverse menu featuring expertly prepared sushi rolls and
+  Thai specialties that highlight bold tastes and high-quality ingredients. The
+  eatery boasts a welcoming atmosphere that's ideal for those seeking sushi
+  restaurants in the area, making it a go-to choice for flavorful meals without
+  the fuss. Accessibility features like wheelchair-friendly parking and
+  entrances add to the convenience, ensuring everyone can enjoy the experience.
+  Whether you're exploring Japanese-inspired places near you or craving a
+  satisfying lunch, this location delivers on taste and ease.
+generative_summary: >-
+  Discover Kin Thai & Sushi in San Antonio, TX$$$Kin Thai & Sushi in San
+  Antonio, TX, brings together a vibrant mix of fresh sushi and authentic Thai
+  flavors in a relaxed setting that's perfect for casual dining. This spot
+  stands out with its diverse menu featuring expertly prepared sushi rolls and
+  Thai specialties that highlight bold tastes and high-quality ingredients. The
+  eatery boasts a welcoming atmosphere that's ideal for those seeking sushi
+  restaurants in the area, making it a go-to choice for flavorful meals without
+  the fuss. Accessibility features like wheelchair-friendly parking and
+  entrances add to the convenience, ensuring everyone can enjoy the experience.
+  Whether you're exploring Japanese-inspired places near you or craving a
+  satisfying lunch, this location delivers on taste and ease.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Guests Are Saying About This Spot$$$Folks who visit this sushi spot often
+  rave about the delicious sushi selections, including fresh options that hit
+  the spot just right, paired with tasty Thai dishes that keep things exciting.
+  Many highlight the friendly and attentive service that makes every meal feel
+  welcoming and enjoyable, adding a nice touch to the overall vibe. Reviewers
+  appreciate the reasonable prices, which make it a solid pick for anyone
+  looking for great value without breaking the bank. The pleasant atmosphere
+  gets plenty of nods for its casual feel, perfect for unwinding over a meal. If
+  you're on the hunt for top-rated sushi near you, this place comes through with
+  honest flavors and a positive dining experience that leaves people coming back
+  for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +247,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

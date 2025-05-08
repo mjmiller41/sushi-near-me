@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Tampopo Kitchen"
+title: Tampopo Kitchen
 permalink: /new-york/new-york/tampopo-kitchen.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "Tampopo Kitchen"
-  type: Restaurant
+  type: restaurant
   links: http://tampopokitchen.com/
-description: "Tampopo Kitchen serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJM3gySND3wokRESUm1OOHcG4
 photos:
   - name: >-
@@ -168,22 +166,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c2f7d048327833:0x6e7087e3d4262511!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 10
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 10:00 PM'
     - 'Tuesday: 11:30 AM – 10:00 PM'
-    - 'Wednesday: 11:30 AM – 10:00 PM'
+    - 'Wednesday: 10:30 AM – 10:00 PM'
     - 'Thursday: 11:30 AM – 10:00 PM'
     - 'Friday: 11:30 AM – 10:00 PM'
     - 'Saturday: 11:30 AM – 10:00 PM'
     - 'Sunday: 11:30 AM – 9:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 10:00 PM'
-    - 'Tuesday: 11:30 AM – 10:00 PM'
-    - 'Wednesday: 11:30 AM – 10:00 PM'
-    - 'Thursday: 11:30 AM – 10:00 PM'
-    - 'Friday: 11:30 AM – 10:00 PM'
-    - 'Saturday: 11:30 AM – 10:00 PM'
-    - 'Sunday: 11:30 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -195,9 +244,44 @@ phone: (646) 609-3899
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.4'
-rating_count: 0
+rating_count: 143
 website: http://tampopokitchen.com/
+description: >-
+  Discover Tampopo Kitchen in New York, NY$$$Tampopo Kitchen in New York, NY,
+  stands out as a welcoming Japanese eatery specializing in fresh, handmade udon
+  noodles and a variety of sushi options that highlight authentic flavors. This
+  casual spot offers a straightforward menu featuring creative dishes alongside
+  selections of sake and beer, making it an ideal choice for those seeking
+  quality Japanese cuisine in a relaxed setting. With its moderate pricing and
+  convenient hours from late morning into the evening, it's perfect for a quick
+  lunch or dinner outing. The restaurant also provides accessible entrances,
+  ensuring a comfortable visit for many diners exploring sushi places near me in
+  the bustling city.
+generative_summary: >-
+  Discover Tampopo Kitchen in New York, NY$$$Tampopo Kitchen in New York, NY,
+  stands out as a welcoming Japanese eatery specializing in fresh, handmade udon
+  noodles and a variety of sushi options that highlight authentic flavors. This
+  casual spot offers a straightforward menu featuring creative dishes alongside
+  selections of sake and beer, making it an ideal choice for those seeking
+  quality Japanese cuisine in a relaxed setting. With its moderate pricing and
+  convenient hours from late morning into the evening, it's perfect for a quick
+  lunch or dinner outing. The restaurant also provides accessible entrances,
+  ensuring a comfortable visit for many diners exploring sushi places near me in
+  the bustling city.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Visitors to Tampopo Kitchen often rave about the
+  fresh and flavorful sushi rolls that make it a go-to spot for Japanese food
+  lovers, with many highlighting the satisfying handmade udon as a standout
+  feature. People appreciate the solid value for the price, noting that the
+  portions are generous and the overall experience feels worthwhile without
+  breaking the bank. While some mention minor waits during peak times, the
+  friendly atmosphere and tasty beverages like sake and beer help keep things
+  enjoyable. Overall, feedback leans positive, with folks frequently
+  recommending it as one of the top-rated sushi restaurants near me for a casual
+  and reliable meal that leaves you feeling content.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -223,7 +307,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

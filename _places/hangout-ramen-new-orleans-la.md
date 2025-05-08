@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Hangout Ramen"
+title: Hangout Ramen
 permalink: /louisiana/new-orleans/hangout-ramen.html
 stateAbbr: LA
 stateName: Louisiana
 cityName: New Orleans
 seo:
-  name: "Hangout Ramen"
-  type: Restaurant
-  links: null
-description: "Hangout Ramen serves delicious sushi in New Orleans, Louisiana. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.hangoutramenla.com/
 place_id: ChIJDdxuPo2lIIYRxa9CAlyuUvE
 photos:
   - name: >-
@@ -169,8 +167,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8620a58d3e6edc0d:0xf152ae5c0242afc5!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 16
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 10:00 PM'
+    - 'Tuesday: 11:00 AM – 10:00 PM'
+    - 'Wednesday: 11:00 AM – 10:00 PM'
+    - 'Thursday: 11:00 AM – 10:00 PM'
+    - 'Friday: 11:00 AM – 10:30 PM'
+    - 'Saturday: 4:00 – 10:30 PM'
+    - 'Sunday: 12:00 – 10:00 PM'
+  nextCloseTime: '2025-05-04T03:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -178,13 +241,54 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (504) 571-5024
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.2'
+rating_count: 229
+website: https://www.hangoutramenla.com/
+description: >-
+  Discover Hangout Ramen in New Orleans, LA$$$Hangout Ramen in New Orleans, LA,
+  stands out as a welcoming Japanese eatery celebrated for its comforting ramen
+  and fresh sushi options, making it a go-to spot for those craving authentic
+  flavors in a relaxed setting. The venue offers a cozy atmosphere paired with a
+  selection of beer and flavorful small plates, ideal for casual meals or quick
+  bites after exploring the city. With accessibility features like
+  wheelchair-friendly entrances and seating, it caters to a wide range of
+  visitors seeking convenient Japanese dining experiences. Operating from late
+  morning into the evening most days, this spot provides a solid choice for
+  anyone searching for top-rated sushi restaurants nearby. Its focus on quality
+  ingredients and varied menu ensures a satisfying visit for fans of Japanese
+  cuisine.
+generative_summary: >-
+  Discover Hangout Ramen in New Orleans, LA$$$Hangout Ramen in New Orleans, LA,
+  stands out as a welcoming Japanese eatery celebrated for its comforting ramen
+  and fresh sushi options, making it a go-to spot for those craving authentic
+  flavors in a relaxed setting. The venue offers a cozy atmosphere paired with a
+  selection of beer and flavorful small plates, ideal for casual meals or quick
+  bites after exploring the city. With accessibility features like
+  wheelchair-friendly entrances and seating, it caters to a wide range of
+  visitors seeking convenient Japanese dining experiences. Operating from late
+  morning into the evening most days, this spot provides a solid choice for
+  anyone searching for top-rated sushi restaurants nearby. Its focus on quality
+  ingredients and varied menu ensures a satisfying visit for fans of Japanese
+  cuisine.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Buzzing About This Local Favorite$$$Visitors to this New
+  Orleans gem often rave about the delicious ramen and sushi dishes that hit the
+  spot with their bold flavors and fresh preparations, earning it a solid
+  reputation among local eateries. Many appreciate the friendly service and cozy
+  vibe that make dining here feel effortless and enjoyable, with comments
+  highlighting the value for the price. While a few mention wait times during
+  peak hours, the overall consensus leans positive, praising the beer selection
+  and small plates as perfect complements to the main courses. Folks searching
+  for sushi places near me frequently note the satisfying portions and taste
+  that keep them coming back. All in all, it's a reliable choice for a casual
+  meal, delivering a generally upbeat experience that lives up to its strong
+  rating.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +314,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

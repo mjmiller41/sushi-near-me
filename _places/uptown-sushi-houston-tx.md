@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Uptown Sushi"
+title: Uptown Sushi
 permalink: /texas/houston/uptown-sushi.html
 stateAbbr: TX
 stateName: Texas
 cityName: Houston
 seo:
-  name: "Uptown Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.uptown-sushi.com/
-description: "Uptown Sushi serves delicious sushi in Houston, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJB50K5UfBQIYRnhGTlgwEu8Q
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8640c147e50a9d07:0xc4bb040c9693119e!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 23
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 10:00 PM'
     - 'Tuesday: 11:00 AM – 10:00 PM'
     - 'Wednesday: 11:00 AM – 10:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 11:00 PM'
     - 'Saturday: 12:00 – 11:00 PM'
     - 'Sunday: 5:00 – 10:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 10:00 PM'
-    - 'Tuesday: 11:00 AM – 10:00 PM'
-    - 'Wednesday: 11:00 AM – 10:00 PM'
-    - 'Thursday: 11:00 AM – 11:00 PM'
-    - 'Friday: 11:00 AM – 11:00 PM'
-    - 'Saturday: 12:00 – 11:00 PM'
-    - 'Sunday: 5:00 – 10:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,300 @@ phone: (713) 871-1200
 price_level: PRICE_LEVEL_EXPENSIVE
 price_range: null
 rating: '4.4'
-rating_count: 0
+rating_count: 665
 website: http://www.uptown-sushi.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Uptown Sushi in Houston, TX$$$Uptown Sushi in Houston, TX, stands out as an
+  upscale Japanese restaurant that blends fresh flavors with a modern vibe,
+  making it a go-to spot for sushi enthusiasts in the area. This venue offers a
+  variety of creative rolls, sashimi, and inventive cocktails that elevate the
+  traditional dining experience, all set in a trendy atmosphere perfect for
+  casual meetups or special occasions. Accessibility features like
+  wheelchair-friendly entrances and parking add to its appeal, ensuring everyone
+  can enjoy the high-quality offerings without hassle. With extended hours
+  including evenings and weekends, it's easy to find a time to savor the menu's
+  focus on premium ingredients and fusion elements. Whether you're exploring
+  local Japanese places near you or seeking top-rated sushi options, this spot
+  delivers a refined yet approachable culinary adventure.
+generative_summary: >-
+  Uptown Sushi in Houston, TX$$$Uptown Sushi in Houston, TX, stands out as an
+  upscale Japanese restaurant that blends fresh flavors with a modern vibe,
+  making it a go-to spot for sushi enthusiasts in the area. This venue offers a
+  variety of creative rolls, sashimi, and inventive cocktails that elevate the
+  traditional dining experience, all set in a trendy atmosphere perfect for
+  casual meetups or special occasions. Accessibility features like
+  wheelchair-friendly entrances and parking add to its appeal, ensuring everyone
+  can enjoy the high-quality offerings without hassle. With extended hours
+  including evenings and weekends, it's easy to find a time to savor the menu's
+  focus on premium ingredients and fusion elements. Whether you're exploring
+  local Japanese places near you or seeking top-rated sushi options, this spot
+  delivers a refined yet approachable culinary adventure.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJB50K5UfBQIYRnhGTlgwEu8Q/reviews/ChdDSUhNMG9nS0VJQ0FnSUR2cnVpUHRnRRAB
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        Uptown Sushi is an absolute gem in Houston's dining scene, and it
+        delivers a top-notch experience every time! The sleek and modern
+        interior exudes sophistication, making it an ideal spot for a date
+        night, celebratory dinner, or just treating yourself to something
+        special. The vibe is chic yet inviting, striking a perfect balance
+        between upscale and comfortable.
+
+
+        The food is simply outstanding. The sushi is incredibly fresh, artfully
+        presented, and bursting with flavor. Their creative rolls and sashimi
+        options are a must-try, and they always have unique dishes that push the
+        boundaries of traditional sushi. For those who prefer something other
+        than sushi, their menu offers a variety of equally delicious options.
+
+
+        What truly sets Uptown Sushi apart is the attention to detail—from the
+        perfectly balanced flavors in every dish to the impeccable plating. The
+        cocktails are a highlight too—crafted with care and a perfect complement
+        to the meal.
+
+
+        The service is exceptional, with a staff that is knowledgeable,
+        friendly, and attentive without being overbearing. They go above and
+        beyond to ensure you have a fantastic dining experience.
+
+
+        Whether you're a sushi aficionado or a newcomer, Uptown Sushi offers a
+        culinary adventure that is sure to impress. Highly recommend it for
+        anyone looking for a refined yet approachable dining experience. I can’t
+        wait to go back!
+      languageCode: en
+    originalText:
+      text: >-
+        Uptown Sushi is an absolute gem in Houston's dining scene, and it
+        delivers a top-notch experience every time! The sleek and modern
+        interior exudes sophistication, making it an ideal spot for a date
+        night, celebratory dinner, or just treating yourself to something
+        special. The vibe is chic yet inviting, striking a perfect balance
+        between upscale and comfortable.
+
+
+        The food is simply outstanding. The sushi is incredibly fresh, artfully
+        presented, and bursting with flavor. Their creative rolls and sashimi
+        options are a must-try, and they always have unique dishes that push the
+        boundaries of traditional sushi. For those who prefer something other
+        than sushi, their menu offers a variety of equally delicious options.
+
+
+        What truly sets Uptown Sushi apart is the attention to detail—from the
+        perfectly balanced flavors in every dish to the impeccable plating. The
+        cocktails are a highlight too—crafted with care and a perfect complement
+        to the meal.
+
+
+        The service is exceptional, with a staff that is knowledgeable,
+        friendly, and attentive without being overbearing. They go above and
+        beyond to ensure you have a fantastic dining experience.
+
+
+        Whether you're a sushi aficionado or a newcomer, Uptown Sushi offers a
+        culinary adventure that is sure to impress. Highly recommend it for
+        anyone looking for a refined yet approachable dining experience. I can’t
+        wait to go back!
+      languageCode: en
+    authorAttribution:
+      displayName: Benjamin Kang
+      uri: https://www.google.com/maps/contrib/111579009037117118959/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVI4jMcV3hHyONTwgX5VbcQ5dlXYlaE0KD8sVfCTbU_NAHazamV=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-12-20T15:48:04.125303Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR2cnVpUHRnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR2cnVpUHRnRRAB!2m1!1s0x8640c147e50a9d07:0xc4bb040c9693119e
+  - name: >-
+      places/ChIJB50K5UfBQIYRnhGTlgwEu8Q/reviews/ChZDSUhNMG9nS0VJQ0FnSURidm9IaklBEAE
+    relativePublishTimeDescription: 9 months ago
+    rating: 5
+    text:
+      text: >-
+        This is my absolute favorite sushi restaurant of all Houston. The place
+        itself is gorgeous, the rolls are A M A Z I N G, and the service is
+        always top notch. My favorite dish is the Zubi roll, and the Kobe Beef
+        Cubes. 100% recommended. Also, the drinks are delicious. I always have a
+        good time there.
+      languageCode: en
+    originalText:
+      text: >-
+        This is my absolute favorite sushi restaurant of all Houston. The place
+        itself is gorgeous, the rolls are A M A Z I N G, and the service is
+        always top notch. My favorite dish is the Zubi roll, and the Kobe Beef
+        Cubes. 100% recommended. Also, the drinks are delicious. I always have a
+        good time there.
+      languageCode: en
+    authorAttribution:
+      displayName: Mariel Martin
+      uri: https://www.google.com/maps/contrib/106520086124843957394/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLX0FsqHyVfe3GtpcR7kOXzQFkFyh0iYOS1B_Va4s46KusxJA=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2024-08-06T00:05:29.744940Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURidm9IaklBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURidm9IaklBEAE!2m1!1s0x8640c147e50a9d07:0xc4bb040c9693119e
+  - name: >-
+      places/ChIJB50K5UfBQIYRnhGTlgwEu8Q/reviews/ChdDSUhNMG9nS0VJQ0FnSUNUMy02cTN3RRAB
+    relativePublishTimeDescription: 11 months ago
+    rating: 5
+    text:
+      text: >-
+        My wife and I came there yesterday evening for a nice dinner for her
+        birthday, and we were not let down. Our waitress, Christina helped us
+        with a lot of recommendations and every single one hit the spot. We
+        could tell the sashimi has better quality than most places. We are fans
+        of the nice atmosphere and will be back soon!
+      languageCode: en
+    originalText:
+      text: >-
+        My wife and I came there yesterday evening for a nice dinner for her
+        birthday, and we were not let down. Our waitress, Christina helped us
+        with a lot of recommendations and every single one hit the spot. We
+        could tell the sashimi has better quality than most places. We are fans
+        of the nice atmosphere and will be back soon!
+      languageCode: en
+    authorAttribution:
+      displayName: Ajay Abraham
+      uri: https://www.google.com/maps/contrib/118165146769057908892/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXriAy-m_j5h8cN5Fg_qSFBl4uPQL42bKMlFIuygprrWYOvQLqX=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-05-20T21:00:25.060837Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNUMy02cTN3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNUMy02cTN3RRAB!2m1!1s0x8640c147e50a9d07:0xc4bb040c9693119e
+  - name: >-
+      places/ChIJB50K5UfBQIYRnhGTlgwEu8Q/reviews/ChdDSUhNMG9nS0VJQ0FnSURqNm9ybXNnRRAB
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        This restaurant is truly amazing. Tina provided fantastic and delightful
+        service!!! They still serve my favorite plate: Kobe Cubes.  It is rice
+        under a Kobe beef cube which is under a quail egg. It is probably one of
+        the best pairings I've ever had in my life.
+
+
+        All the small plates we ordered we're so delicious we didn't even need
+        to order entrees.
+
+
+        Tina introduced me to a fantastic Japanese whiskey called Hibiki.  It
+        was absolutely smooth and tasty.
+      languageCode: en
+    originalText:
+      text: >-
+        This restaurant is truly amazing. Tina provided fantastic and delightful
+        service!!! They still serve my favorite plate: Kobe Cubes.  It is rice
+        under a Kobe beef cube which is under a quail egg. It is probably one of
+        the best pairings I've ever had in my life.
+
+
+        All the small plates we ordered we're so delicious we didn't even need
+        to order entrees.
+
+
+        Tina introduced me to a fantastic Japanese whiskey called Hibiki.  It
+        was absolutely smooth and tasty.
+      languageCode: en
+    authorAttribution:
+      displayName: D Z
+      uri: https://www.google.com/maps/contrib/102528932017664489078/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKooZ7yLvtGzXOWm231oNFeGIP0d__CFXiLnit9JWwswW_uTg=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2025-04-23T01:08:59.792268Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURqNm9ybXNnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURqNm9ybXNnRRAB!2m1!1s0x8640c147e50a9d07:0xc4bb040c9693119e
+  - name: >-
+      places/ChIJB50K5UfBQIYRnhGTlgwEu8Q/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ3aHRfTEVREAE
+    relativePublishTimeDescription: 8 months ago
+    rating: 5
+    text:
+      text: >-
+        Uptown sushi has always been my go-to sushi restaurant when I’m in the
+        area. I’m an exotic sushi snob and love that they have foie gras,
+        ankimo, Santa Barbara uni, and sweet shrimp on the daily. I don’t
+        usually order chicken wings at a sushi restaurant, but they’re sooo good
+        here!! Great service and I always request Jennifer for exceptional
+        service!
+      languageCode: en
+    originalText:
+      text: >-
+        Uptown sushi has always been my go-to sushi restaurant when I’m in the
+        area. I’m an exotic sushi snob and love that they have foie gras,
+        ankimo, Santa Barbara uni, and sweet shrimp on the daily. I don’t
+        usually order chicken wings at a sushi restaurant, but they’re sooo good
+        here!! Great service and I always request Jennifer for exceptional
+        service!
+      languageCode: en
+    authorAttribution:
+      displayName: Michelle Nguyen
+      uri: https://www.google.com/maps/contrib/109891875838436497530/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocL7dPHSxBM7Y7WZyBOp9xj06N-uCUNy6g09AlQc_qTUVMbi8A=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-08-23T20:56:03.495067Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQ3aHRfTEVREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQ3aHRfTEVREAE!2m1!1s0x8640c147e50a9d07:0xc4bb040c9693119e
+review_summary: >-
+  Insights from Recent Feedback$$$Folks seem really excited about the fresh and
+  creative sushi selections at this Houston favorite, often praising the unique
+  rolls and high-quality ingredients that make every bite memorable. Many
+  appreciate the welcoming atmosphere and solid service that keeps things smooth
+  and enjoyable without any fuss. Comments highlight tasty add-ons like
+  specialty drinks and small plates that pair perfectly with the main dishes,
+  adding to the overall fun vibe. While it's clear this place shines for groups
+  or date nights, the consistent positives around flavor and presentation make
+  it a reliable choice for anyone craving great sushi close to home. Overall,
+  it's a spot that keeps customers coming back for its blend of quality and good
+  times, earning it high marks among local dining options.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
+delivery: true
+dine_in: true
 good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
 serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_cocktails: true
+serves_coffee: true
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Hip haunt for sushi lovers serving unique fusion rolls, inspired cocktails in
+  a trendy setting.
 
 ---

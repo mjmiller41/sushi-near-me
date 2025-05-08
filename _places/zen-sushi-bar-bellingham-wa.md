@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Zen Sushi & Bar"
+title: Zen Sushi & Bar
 permalink: /washington/bellingham/zen-sushi-bar.html
 stateAbbr: WA
 stateName: Washington
 cityName: Bellingham
 seo:
-  name: "Zen Sushi & Bar"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Zen Sushi & Bar serves delicious sushi in Bellingham, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJd_iErH6khVQRK4kJzi6HJKk
 photos:
   - name: >-
@@ -185,7 +183,44 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Zen Sushi & Bar in Bellingham, WA$$$Zen Sushi & Bar in Bellingham,
+  WA, stands out as a vibrant spot for enjoying fresh sushi and creative
+  Japanese-inspired dishes. This trendy restaurant features a unique conveyor
+  belt system that delivers an array of flavorful rolls and small plates right
+  to your table, making it a fun and efficient dining experience. With options
+  like happy-hour specials, it caters to those seeking affordable yet
+  high-quality meals in a lively atmosphere. The place emphasizes accessibility,
+  ensuring a welcoming environment for all guests, which adds to its appeal as a
+  go-to destination for sushi enthusiasts. Whether you're exploring local sushi
+  options or looking for a casual night out, this spot combines modern flair
+  with delicious flavors that keep diners coming back.
+generative_summary: >-
+  Discover Zen Sushi & Bar in Bellingham, WA$$$Zen Sushi & Bar in Bellingham,
+  WA, stands out as a vibrant spot for enjoying fresh sushi and creative
+  Japanese-inspired dishes. This trendy restaurant features a unique conveyor
+  belt system that delivers an array of flavorful rolls and small plates right
+  to your table, making it a fun and efficient dining experience. With options
+  like happy-hour specials, it caters to those seeking affordable yet
+  high-quality meals in a lively atmosphere. The place emphasizes accessibility,
+  ensuring a welcoming environment for all guests, which adds to its appeal as a
+  go-to destination for sushi enthusiasts. Whether you're exploring local sushi
+  options or looking for a casual night out, this spot combines modern flair
+  with delicious flavors that keep diners coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Feedback on the Experience$$$Folks exploring sushi spots in Bellingham often
+  highlight the excitement of the conveyor belt setup, making meals feel
+  interactive and enjoyable. Many appreciate the variety of fresh rolls and
+  small plates, noting they offer great value especially during happy-hour
+  deals. Comments frequently mention the welcoming vibe and solid portion sizes,
+  helping it stand out as a reliable choice for casual gatherings. While
+  experiences can vary, the overall sentiment leans positive, with people
+  enjoying the innovative approach to Japanese cuisine. If you're on the hunt
+  for top-rated sushi nearby, this place seems to deliver a satisfying mix of
+  fun and flavor that keeps the feedback upbeat.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +246,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

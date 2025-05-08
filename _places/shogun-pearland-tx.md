@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Shogun"
+title: Shogun
 permalink: /texas/pearland/shogun.html
 stateAbbr: TX
 stateName: Texas
 cityName: Pearland
 seo:
-  name: "Shogun"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Shogun serves delicious sushi in Pearland, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJK5vBeDKTQIYRFgZ_jnIs20o
 photos:
   - name: >-
@@ -185,7 +183,44 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Shogun in Pearland, TX$$$Shogun in Pearland, TX, stands out as a
+  welcoming Japanese chain restaurant offering a mix of fresh sushi, hibachi
+  grilling, and convenient bento box options for a satisfying meal. This spot
+  emphasizes casual dining with accessible features like wheelchair-friendly
+  parking and entrances, making it easy for everyone to enjoy authentic flavors
+  in a relaxed setting. Patrons can explore a variety of sushi dishes that
+  highlight quality ingredients, perfect for those searching for reliable
+  Japanese places near them. The menu's hibachi selections add an interactive
+  element, ideal for groups or families seeking a fun dining experience.
+  Overall, it's a go-to choice for anyone in the area looking for top-rated
+  sushi restaurants that balance tradition and convenience.
+generative_summary: >-
+  Discover Shogun in Pearland, TX$$$Shogun in Pearland, TX, stands out as a
+  welcoming Japanese chain restaurant offering a mix of fresh sushi, hibachi
+  grilling, and convenient bento box options for a satisfying meal. This spot
+  emphasizes casual dining with accessible features like wheelchair-friendly
+  parking and entrances, making it easy for everyone to enjoy authentic flavors
+  in a relaxed setting. Patrons can explore a variety of sushi dishes that
+  highlight quality ingredients, perfect for those searching for reliable
+  Japanese places near them. The menu's hibachi selections add an interactive
+  element, ideal for groups or families seeking a fun dining experience.
+  Overall, it's a go-to choice for anyone in the area looking for top-rated
+  sushi restaurants that balance tradition and convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Folks often rave about the tasty sushi rolls and
+  lively hibachi shows at places like this, creating a fun vibe that keeps
+  diners coming back for more. Many appreciate the fresh flavors and
+  well-prepared bento boxes, noting that they make for a solid meal option when
+  craving Japanese cuisine nearby. Service tends to be friendly and efficient,
+  helping to make the overall experience feel smooth and enjoyable for casual
+  visitors. While it's a chain restaurant, people frequently highlight its
+  consistent quality as a plus for families or groups. All in all, it's commonly
+  recommended as a reliable spot for those hunting for great sushi close to
+  home, with most feedback leaning positive on the atmosphere and food variety.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +246,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kontiki Wine & Raw Bar Restaurant"
+title: Kontiki Wine & Raw Bar Restaurant
 permalink: /florida/wellington/kontiki-wine-raw-bar-restaurant.html
 stateAbbr: FL
 stateName: Florida
 cityName: Wellington
 seo:
-  name: "Kontiki Wine & Raw Bar Restaurant"
-  type: Restaurant
+  type: restaurant
   links: https://www.ilovekontiki.com/
-description: "Atmospheric wine bar serving global, Asian-tinged small & large plates plus sushi in sultry digs. Kontiki Wine & Raw Bar Restaurant serves delicious sushi in Wellington, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, and dinner."
 place_id: ChIJIzdZhPov2YgRrhOZMozT2ac
 photos:
   - name: >-
@@ -185,6 +183,35 @@ price_range: $30 &ndash; $50
 rating: '4.2'
 rating_count: 0
 website: https://www.ilovekontiki.com/
+description: >-
+  Explore Kontiki in Wellington, FL$$$Kontiki Wine & Raw Bar Restaurant in
+  Wellington, FL, is a cozy spot that masterfully combines global flavors with
+  Asian-inspired dishes, creating an inviting atmosphere for diners seeking a
+  memorable meal. The menu highlights fresh and creative options, including
+  exceptional sushi selections that appeal to those exploring top-rated
+  Japanese-style cuisine in the area. With a focus on quality ingredients and
+  thoughtful presentations, this establishment offers a relaxed setting perfect
+  for enjoying small plates or larger entrees alongside a curated selection of
+  wines and cocktails. Its accessibility features, such as wheelchair-friendly
+  entrances and parking, make it a welcoming choice for a wide range of
+  visitors. Overall, Kontiki stands out as a hidden gem for anyone in Wellington
+  looking for sushi restaurants that blend innovation with a warm, engaging
+  vibe.
+generative_summary: >-
+  Explore Kontiki in Wellington, FL$$$Kontiki Wine & Raw Bar Restaurant in
+  Wellington, FL, is a cozy spot that masterfully combines global flavors with
+  Asian-inspired dishes, creating an inviting atmosphere for diners seeking a
+  memorable meal. The menu highlights fresh and creative options, including
+  exceptional sushi selections that appeal to those exploring top-rated
+  Japanese-style cuisine in the area. With a focus on quality ingredients and
+  thoughtful presentations, this establishment offers a relaxed setting perfect
+  for enjoying small plates or larger entrees alongside a curated selection of
+  wines and cocktails. Its accessibility features, such as wheelchair-friendly
+  entrances and parking, make it a welcoming choice for a wide range of
+  visitors. Overall, Kontiki stands out as a hidden gem for anyone in Wellington
+  looking for sushi restaurants that blend innovation with a warm, engaging
+  vibe.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJIzdZhPov2YgRrhOZMozT2ac/reviews/ChdDSUhNMG9nS0VJQ0FnSUNmNi1DUjZBRRAB
@@ -372,6 +399,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNLNmVER01REAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNLNmVER01REAE!2m1!1s0x88d92ffa84593723:0xa7d9d38c329913ae
+review_summary: >-
+  Insights from Recent Reviews$$$Folks visiting this spot often rave about the
+  delicious food, particularly the fresh sushi and creative dishes that keep
+  them coming back for more. Many appreciate the fun and welcoming atmosphere,
+  ideal for casual date nights or gatherings with friends, which adds to the
+  overall enjoyable experience. Service stands out as a major plus, with
+  comments highlighting how attentive and friendly the team makes every visit
+  feel authentic and comfortable. While the menu's variety and quality shine
+  through in most feedback, some note that the drinks and desserts provide a
+  nice finishing touch to meals. All in all, if you're searching for sushi
+  places near me that deliver on taste and good times, this location seems to
+  hit the mark with its consistent positive vibes.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -402,8 +442,8 @@ serves_lunch: null
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Atmospheric wine bar serving global, Asian-tinged small & large plates plus
   sushi in sultry digs.
 

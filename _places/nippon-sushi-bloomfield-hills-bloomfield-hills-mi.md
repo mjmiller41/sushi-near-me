@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Nippon Sushi - Bloomfield Hills"
+title: Nippon Sushi - Bloomfield Hills
 permalink: /michigan/bloomfield-hills/nippon-sushi-bloomfield-hills.html
 stateAbbr: MI
 stateName: Michigan
 cityName: Bloomfield Hills
 seo:
-  name: "Nippon Sushi - Bloomfield Hills"
-  type: Restaurant
+  type: restaurant
   links: https://www.nipponsushibar.com/
-description: "Nippon Sushi - Bloomfield Hills serves delicious sushi in Bloomfield Hills, Michigan. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJwWjT3N2-JIgRBU4IE7IuVs0
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 0
 website: https://www.nipponsushibar.com/
+description: >-
+  Explore Nippon Sushi in Bloomfield Hills, MI$$$Nippon Sushi in Bloomfield
+  Hills, MI, stands out as a welcoming Japanese eatery offering a variety of
+  fresh sushi rolls that capture the essence of authentic flavors. This spot
+  combines casual dining with an array of beverages like wine, beer, and sake,
+  making it a go-to choice for those seeking sushi restaurants near me with a
+  relaxed vibe. The restaurant boasts accessibility features such as
+  wheelchair-friendly entrances and seating, along with ample parking options,
+  enhancing the overall experience for all visitors. Beyond the tasty offerings,
+  the clean and bright atmosphere adds to its appeal as one of the top-rated
+  sushi places in the area. Whether you're in the mood for inventive rolls or
+  classic appetizers, this location delivers a satisfying blend of quality and
+  convenience.
+generative_summary: >-
+  Explore Nippon Sushi in Bloomfield Hills, MI$$$Nippon Sushi in Bloomfield
+  Hills, MI, stands out as a welcoming Japanese eatery offering a variety of
+  fresh sushi rolls that capture the essence of authentic flavors. This spot
+  combines casual dining with an array of beverages like wine, beer, and sake,
+  making it a go-to choice for those seeking sushi restaurants near me with a
+  relaxed vibe. The restaurant boasts accessibility features such as
+  wheelchair-friendly entrances and seating, along with ample parking options,
+  enhancing the overall experience for all visitors. Beyond the tasty offerings,
+  the clean and bright atmosphere adds to its appeal as one of the top-rated
+  sushi places in the area. Whether you're in the mood for inventive rolls or
+  classic appetizers, this location delivers a satisfying blend of quality and
+  convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJwWjT3N2-JIgRBU4IE7IuVs0/reviews/ChdDSUhNMG9nS0VJQ0FnSURaeFlXS29BRRAB
@@ -380,6 +405,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQwOHZiVnFRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQwOHZiVnFRRRAB!2m1!1s0x8824bedddcd368c1:0xcd562eb213084e05
+review_summary: >-
+  Insights from Recent Feedback on This Sushi Spot$$$Visitors often rave about
+  the fresh and well-prepared sushi rolls, highlighting how the flavors and
+  presentations make meals feel special without overcomplicating things. While
+  some note that prices can add up quickly, especially for multiple dishes, many
+  agree that the portions and taste justify the cost for a quality outing at
+  sushi restaurants like this one. Service tends to be efficient and friendly,
+  with quick delivery of food that keeps the energy upbeat during visits.
+  Overall, folks appreciate the clean environment and variety of options, making
+  it a solid pick for anyone searching for best sushi near me. Though a few
+  mention it's not the cheapest spot, the positive experiences with the food and
+  atmosphere keep the buzz lively and encouraging for future diners.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -412,7 +450,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

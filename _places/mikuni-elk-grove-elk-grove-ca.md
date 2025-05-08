@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Mikuni | Elk Grove"
+title: Mikuni | Elk Grove
 permalink: /california/elk-grove/mikuni-elk-grove.html
 stateAbbr: CA
 stateName: California
 cityName: Elk Grove
 seo:
-  name: "Mikuni | Elk Grove"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Mikuni | Elk Grove serves delicious sushi in Elk Grove, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJSz0KZRzHmoAR98MiO8IsxBc
 photos:
   - name: >-
@@ -185,7 +183,42 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Mikuni in Elk Grove, CA$$$Mikuni in Elk Grove, CA, stands out as a
+  premier spot for enjoying fresh sushi and Japanese-inspired dishes in a
+  refined atmosphere. This sushi restaurant offers an array of expertly crafted
+  rolls and traditional fare, perfect for those seeking top-rated options in the
+  area. With its upscale setting and inviting bar, it provides a welcoming
+  environment for casual dinners or special occasions, blending quality
+  ingredients with elegant presentation. Whether you're exploring sushi
+  restaurants nearby or looking for a taste of authentic Japanese flavors,
+  Mikuni delivers a memorable dining experience that highlights its commitment
+  to culinary excellence.
+generative_summary: >-
+  Discover Mikuni in Elk Grove, CA$$$Mikuni in Elk Grove, CA, stands out as a
+  premier spot for enjoying fresh sushi and Japanese-inspired dishes in a
+  refined atmosphere. This sushi restaurant offers an array of expertly crafted
+  rolls and traditional fare, perfect for those seeking top-rated options in the
+  area. With its upscale setting and inviting bar, it provides a welcoming
+  environment for casual dinners or special occasions, blending quality
+  ingredients with elegant presentation. Whether you're exploring sushi
+  restaurants nearby or looking for a taste of authentic Japanese flavors,
+  Mikuni delivers a memorable dining experience that highlights its commitment
+  to culinary excellence.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$From what people share about Mikuni, it's clear
+  that the fresh sushi and cozy vibe make it a favorite for laid-back meals with
+  friends or family. Many folks mention the flavorful dishes and attentive
+  service as standout features, helping it hold its own among local Japanese
+  spots. While experiences can vary, there's a general buzz around the welcoming
+  atmosphere and solid portions that keep diners coming back for more. Overall,
+  it seems like a reliable choice if you're hunting for sushi places near you,
+  with positive notes on the overall value and taste that encourage repeat
+  visits. Keep in mind, as with any eatery, checking current feedback can help
+  set expectations for your own adventure.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +244,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

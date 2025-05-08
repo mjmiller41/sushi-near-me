@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ohana Sushi & Grill"
+title: Ohana Sushi & Grill
 permalink: /indiana/jasper/ohana-sushi-grill.html
 stateAbbr: IN
 stateName: Indiana
 cityName: Jasper
 seo:
-  name: "Ohana Sushi & Grill"
-  type: Restaurant
+  type: restaurant
   links: https://www.ohanasushiandgrill.com/
-description: "Ohana Sushi & Grill serves delicious sushi in Jasper, Indiana. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ0UHKnuNibogRhEfoTjl56EQ
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x886e62e39eca41d1:0x44e879394ee84784!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:00 AM – 8:30 PM'
     - 'Wednesday: 11:00 AM – 8:30 PM'
@@ -178,28 +226,99 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:30 PM'
     - 'Saturday: 11:00 AM – 9:30 PM'
     - 'Sunday: 11:00 AM – 8:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:00 AM – 8:30 PM'
-    - 'Wednesday: 11:00 AM – 8:30 PM'
-    - 'Thursday: 11:00 AM – 8:30 PM'
-    - 'Friday: 11:00 AM – 9:30 PM'
-    - 'Saturday: 11:00 AM – 9:30 PM'
-    - 'Sunday: 11:00 AM – 8:00 PM'
+  nextCloseTime: '2025-05-04T01:30:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: false
+    periods:
+      - open:
+          day: 1
+          hour: 16
+          minute: 0
+        close:
+          day: 1
+          hour: 17
+          minute: 30
+      - open:
+          day: 2
+          hour: 16
+          minute: 0
+        close:
+          day: 2
+          hour: 17
+          minute: 30
+      - open:
+          day: 3
+          hour: 16
+          minute: 0
+        close:
+          day: 3
+          hour: 17
+          minute: 30
+      - open:
+          day: 4
+          hour: 16
+          minute: 0
+        close:
+          day: 4
+          hour: 17
+          minute: 30
+      - open:
+          day: 5
+          hour: 16
+          minute: 0
+        close:
+          day: 5
+          hour: 17
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 4:00 – 5:30 PM'
+      - 'Tuesday: 4:00 – 5:30 PM'
+      - 'Wednesday: 4:00 – 5:30 PM'
+      - 'Thursday: 4:00 – 5:30 PM'
+      - 'Friday: 4:00 – 5:30 PM'
+      - 'Saturday: Closed'
+      - 'Sunday: Closed'
+    secondaryHoursType: HAPPY_HOUR
+    nextOpenTime: '2025-05-05T20:00:00Z'
 phone: (812) 482-1788
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.3'
-rating_count: 0
+rating_count: 546
 website: https://www.ohanasushiandgrill.com/
+description: >-
+  Explore Ohana Sushi & Grill in Jasper, IN$$$Ohana Sushi & Grill in Jasper, IN,
+  stands out as a casual dining destination offering a variety of fresh
+  Japanese-inspired dishes. This eatery features an array of sushi options
+  alongside other flavorful entrees, complemented by a relaxed atmosphere and a
+  full bar for those seeking a complete meal experience. With thoughtful
+  accessibility features like wheelchair-friendly parking and seating, it's
+  designed to welcome everyone for a comfortable visit. Operating hours cater to
+  both lunch and dinner crowds, making it a convenient choice for locals and
+  visitors alike exploring sushi restaurants in the area.
+generative_summary: >-
+  Explore Ohana Sushi & Grill in Jasper, IN$$$Ohana Sushi & Grill in Jasper, IN,
+  stands out as a casual dining destination offering a variety of fresh
+  Japanese-inspired dishes. This eatery features an array of sushi options
+  alongside other flavorful entrees, complemented by a relaxed atmosphere and a
+  full bar for those seeking a complete meal experience. With thoughtful
+  accessibility features like wheelchair-friendly parking and seating, it's
+  designed to welcome everyone for a comfortable visit. Operating hours cater to
+  both lunch and dinner crowds, making it a convenient choice for locals and
+  visitors alike exploring sushi restaurants in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Sharing$$$Folks who stop by Ohana Sushi & Grill often rave
+  about the consistently fresh flavors and generous portions that make every
+  bite worthwhile, based on the solid feedback from hundreds of experiences.
+  Many highlight the friendly service and cozy vibe that add to the overall
+  enjoyment, turning a simple meal into a pleasant outing. While some note that
+  wait times can vary during peak hours, the general consensus leans positive
+  with praise for the quality ingredients and variety of options. Overall, it's
+  clear that this spot delivers a satisfying experience for sushi lovers,
+  encouraging repeat visits for its reliable appeal.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +344,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

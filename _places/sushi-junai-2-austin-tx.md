@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Junai 2"
+title: Sushi Junai 2
 permalink: /texas/austin/sushi-junai-2.html
 stateAbbr: TX
 stateName: Texas
 cityName: Austin
 seo:
-  name: "Sushi Junai 2"
-  type: Restaurant
+  type: restaurant
   links: https://sushijunai2.online/
-description: "Sushi Junai 2 serves delicious sushi in Austin, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJl1QkySbMRIYR6q8_Ja2NAkc
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8644cc26c9245497:0x47028dad253fafea!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 10:00 PM'
     - 'Tuesday: 11:00 AM – 10:00 PM'
     - 'Wednesday: 11:00 AM – 10:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:00 PM'
     - 'Saturday: 11:00 AM – 10:00 PM'
     - 'Sunday: 5:00 – 10:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 10:00 PM'
-    - 'Tuesday: 11:00 AM – 10:00 PM'
-    - 'Wednesday: 11:00 AM – 10:00 PM'
-    - 'Thursday: 11:00 AM – 10:00 PM'
-    - 'Friday: 11:00 AM – 10:00 PM'
-    - 'Saturday: 11:00 AM – 10:00 PM'
-    - 'Sunday: 5:00 – 10:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,259 @@ phone: (512) 716-3922
 price_level: PRICE_LEVEL_MODERATE
 price_range: $30 &ndash; $50
 rating: '4.3'
-rating_count: 0
+rating_count: 1706
 website: https://sushijunai2.online/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Sushi Junai 2 in Austin, TX$$$Sushi Junai 2 in Austin, TX, delivers a
+  relaxed and inviting atmosphere for enjoying fresh sushi and Japanese dishes,
+  making it a go-to spot for sushi enthusiasts in the area. With its
+  all-you-can-eat options and a stylish interior, this eatery highlights a wide
+  variety of rolls and entrees that cater to different tastes, all prepared with
+  quality ingredients. Accessibility features like wheelchair-friendly parking
+  and seating ensure a welcoming experience for everyone, while the moderate
+  pricing adds great value for those seeking top-rated sushi without breaking
+  the bank. Open for lunch and dinner most days, it's an ideal choice for casual
+  meals or gatherings, blending traditional flavors with modern convenience to
+  satisfy cravings for sushi places near me.
+generative_summary: >-
+  Discover Sushi Junai 2 in Austin, TX$$$Sushi Junai 2 in Austin, TX, delivers a
+  relaxed and inviting atmosphere for enjoying fresh sushi and Japanese dishes,
+  making it a go-to spot for sushi enthusiasts in the area. With its
+  all-you-can-eat options and a stylish interior, this eatery highlights a wide
+  variety of rolls and entrees that cater to different tastes, all prepared with
+  quality ingredients. Accessibility features like wheelchair-friendly parking
+  and seating ensure a welcoming experience for everyone, while the moderate
+  pricing adds great value for those seeking top-rated sushi without breaking
+  the bank. Open for lunch and dinner most days, it's an ideal choice for casual
+  meals or gatherings, blending traditional flavors with modern convenience to
+  satisfy cravings for sushi places near me.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJl1QkySbMRIYR6q8_Ja2NAkc/reviews/ChZDSUhNMG9nS0VJQ0FnSURfNE4tcFl3EAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        We came in on a Saturday. We’ve been eating here for 10+ years and have
+        had a great experience. There was a bit of a wait; I recommend getting
+        added to the wait list before getting there.
+
+        When I was younger, I enjoyed their all-you-can-eat option. However, now
+        I opt for the rolls that are not on the all-you-can-eat menu.
+
+
+        The garlic edema is an excellent starter for a table of three adults.
+        The fried rolls take a little longer to make and can feed 2 adults.
+        Sushi rolls can be subjective based on taste. Some of my favorites are
+        the Ex-Wife, Beef Roll, and Sweet Heart.
+
+
+        Service is always excellent and attentive.
+      languageCode: en
+    originalText:
+      text: >-
+        We came in on a Saturday. We’ve been eating here for 10+ years and have
+        had a great experience. There was a bit of a wait; I recommend getting
+        added to the wait list before getting there.
+
+        When I was younger, I enjoyed their all-you-can-eat option. However, now
+        I opt for the rolls that are not on the all-you-can-eat menu.
+
+
+        The garlic edema is an excellent starter for a table of three adults.
+        The fried rolls take a little longer to make and can feed 2 adults.
+        Sushi rolls can be subjective based on taste. Some of my favorites are
+        the Ex-Wife, Beef Roll, and Sweet Heart.
+
+
+        Service is always excellent and attentive.
+      languageCode: en
+    authorAttribution:
+      displayName: Aaron Torres
+      uri: https://www.google.com/maps/contrib/112314818965406934187/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWaCFQV04x3MDwZzLh-_48lSkehdbEo83016Q7mRaW4VgGo00s=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-01-20T19:13:03.729829Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURfNE4tcFl3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURfNE4tcFl3EAE!2m1!1s0x8644cc26c9245497:0x47028dad253fafea
+  - name: >-
+      places/ChIJl1QkySbMRIYR6q8_Ja2NAkc/reviews/ChZDSUhNMG9nS0VJQ0FnTUNndHVTVVVREAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 4
+    text:
+      text: >-
+        Food is always so delicious here and me and my sister always come by
+        when we’re feeling sushi and AYCE! We always get the same 4 rolls
+        (cucumber passion, longhorn, sweet kiss, and one more that I can’t seem
+        to remember the name of). We also get a LOT of nigiri and these include
+        some escolar, tamago, beef (limited per person), salmon belly, sweet
+        salmon (seared salmon with sweet sauce on top), and scallop yum yum!
+
+
+        We came for her birthday last time and the wait was about an hour (right
+        after valentines day) so to be expected, but usually we are seated right
+        away or a 10 min wait.
+      languageCode: en
+    originalText:
+      text: >-
+        Food is always so delicious here and me and my sister always come by
+        when we’re feeling sushi and AYCE! We always get the same 4 rolls
+        (cucumber passion, longhorn, sweet kiss, and one more that I can’t seem
+        to remember the name of). We also get a LOT of nigiri and these include
+        some escolar, tamago, beef (limited per person), salmon belly, sweet
+        salmon (seared salmon with sweet sauce on top), and scallop yum yum!
+
+
+        We came for her birthday last time and the wait was about an hour (right
+        after valentines day) so to be expected, but usually we are seated right
+        away or a 10 min wait.
+      languageCode: en
+    authorAttribution:
+      displayName: Jennifer Kim
+      uri: https://www.google.com/maps/contrib/115781267348580411212/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXiqhWoESJbf_BqUxyQjM3RwvuOvvMvoJk6gPKvY2t_JOlYuth1=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-02-17T02:14:39.569692Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNndHVTVVVREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNndHVTVVVREAE!2m1!1s0x8644cc26c9245497:0x47028dad253fafea
+  - name: >-
+      places/ChIJl1QkySbMRIYR6q8_Ja2NAkc/reviews/ChdDSUhNMG9nS0VJQ0FnSUNLa29xanJBRRAB
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 5
+    text:
+      text: >-
+        The sushi was amazing! All you can eat and lots of options. It was great
+        to have many options to try. Salad and soup as well.
+      languageCode: en
+    originalText:
+      text: >-
+        The sushi was amazing! All you can eat and lots of options. It was great
+        to have many options to try. Salad and soup as well.
+      languageCode: en
+    authorAttribution:
+      displayName: Rosemary McKnight
+      uri: https://www.google.com/maps/contrib/105701947613703466922/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUO6kgWVEEH_LiOVGbKyXmP6lR43TIYaU6i76UkbCQzo9NSOgrj=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2025-04-07T03:31:17.808996Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNLa29xanJBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNLa29xanJBRRAB!2m1!1s0x8644cc26c9245497:0x47028dad253fafea
+  - name: >-
+      places/ChIJl1QkySbMRIYR6q8_Ja2NAkc/reviews/ChdDSUhNMG9nS0VJQ0FnSURqbWZhYmtRRRAB
+    relativePublishTimeDescription: 12 months ago
+    rating: 5
+    text:
+      text: >-
+        It was a good "first-time-here" experience. The staff were super
+        attentive and the items we ordered were really delicious. I say it was a
+        good value since my teenage son can probably eat about $60 worth of
+        sushi from other places. Doing eat all you can at about $37 seems like a
+        good value for him. I will definitely recommend to friends!
+      languageCode: en
+    originalText:
+      text: >-
+        It was a good "first-time-here" experience. The staff were super
+        attentive and the items we ordered were really delicious. I say it was a
+        good value since my teenage son can probably eat about $60 worth of
+        sushi from other places. Doing eat all you can at about $37 seems like a
+        good value for him. I will definitely recommend to friends!
+      languageCode: en
+    authorAttribution:
+      displayName: May Ledesma
+      uri: https://www.google.com/maps/contrib/104376416735367571944/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWhUr1yU4hAUpQ3Iv1B4HnMwfcULvjBCyKj14658ndYhl7MB_6MmA=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-05-05T00:48:36.034595Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURqbWZhYmtRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURqbWZhYmtRRRAB!2m1!1s0x8644cc26c9245497:0x47028dad253fafea
+  - name: >-
+      places/ChIJl1QkySbMRIYR6q8_Ja2NAkc/reviews/ChZDSUhNMG9nS0VJQ0FnTURveEoyOVhnEAE
+    relativePublishTimeDescription: a week ago
+    rating: 3
+    text:
+      text: >-
+        My husband and I are regular customers for the past 4 years. The food is
+        really good and the servers great. The restaurant recently chance the
+        menu and took off the mochi ice cream and changed the green tea ice
+        cream which it was our go to dessert after getting all you can eat. I
+        hope the menu doesn’t keep changing for the worst.
+      languageCode: en
+    originalText:
+      text: >-
+        My husband and I are regular customers for the past 4 years. The food is
+        really good and the servers great. The restaurant recently chance the
+        menu and took off the mochi ice cream and changed the green tea ice
+        cream which it was our go to dessert after getting all you can eat. I
+        hope the menu doesn’t keep changing for the worst.
+      languageCode: en
+    authorAttribution:
+      displayName: Ana Carbajal Bracho
+      uri: https://www.google.com/maps/contrib/116752978243973496509/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIf58ogqAJ380xhgHmOgX-onB4x0G0sRF3aZDnepJOzFSNB2Q=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-22T01:03:33.004040Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURveEoyOVhnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURveEoyOVhnEAE!2m1!1s0x8644cc26c9245497:0x47028dad253fafea
+review_summary: >-
+  What Visitors Are Sharing About the Experience$$$Folks often rave about the
+  delicious variety of sushi rolls and all-you-can-eat deals that make for a
+  satisfying meal without feeling rushed. Many appreciate the attentive service
+  and solid portions, noting that it's a smart pick for groups or families
+  looking for good value on fresh Japanese fare. While some mention occasional
+  waits during busy times, the overall vibe remains positive with highlights on
+  flavorful options like nigiri and fried rolls that keep diners coming back.
+  It's clear that the restaurant maintains a strong reputation for quality, as
+  reflected in its high ratings, though a few regulars have pointed out recent
+  menu tweaks that might affect dessert choices. All in all, if you're hunting
+  for reliable sushi restaurants in Austin, this spot delivers a fun and
+  worthwhile dining adventure with plenty of tasty highlights to enjoy.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
 delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
 menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
 serves_cocktails: null
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Unassuming storefront with a stylish interior for sushi, Japanese entrees &
+  all-you-can-eat options.
 
 ---

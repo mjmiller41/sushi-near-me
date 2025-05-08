@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Izumi Sushi and Grill"
+title: Izumi Sushi and Grill
 permalink: /oregon/eugene/izumi-sushi-and-grill.html
 stateAbbr: OR
 stateName: Oregon
 cityName: Eugene
 seo:
-  name: "Izumi Sushi and Grill"
-  type: Restaurant
+  type: restaurant
   links: http://www.izumisushieugene.com/
-description: "Izumi Sushi and Grill serves delicious sushi in Eugene, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJV_UlRTfiwFQRLetsnL0I-tY
 photos:
   - name: >-
@@ -170,7 +168,105 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x54c0e2374525f557:0xd6fa08bd9c6ceb2d!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 16
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 16
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 16
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 2:30 PM, 4:00 – 10:00 PM'
     - 'Tuesday: 11:30 AM – 2:30 PM, 4:00 – 10:00 PM'
     - 'Wednesday: 11:30 AM – 2:30 PM, 4:00 – 10:00 PM'
@@ -178,54 +274,378 @@ opening_hours:
     - 'Friday: 11:30 AM – 2:30 PM, 4:00 – 10:00 PM'
     - 'Saturday: 4:00 – 10:00 PM'
     - 'Sunday: 4:00 – 9:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 2:30 PM, 4:00 – 10:00 PM'
-    - 'Tuesday: 11:30 AM – 2:30 PM, 4:00 – 10:00 PM'
-    - 'Wednesday: 11:30 AM – 2:30 PM, 4:00 – 10:00 PM'
-    - 'Thursday: 11:30 AM – 2:30 PM, 4:00 – 10:00 PM'
-    - 'Friday: 11:30 AM – 2:30 PM, 4:00 – 10:00 PM'
-    - 'Saturday: 4:00 – 10:00 PM'
-    - 'Sunday: 4:00 – 9:00 PM'
+  nextOpenTime: '2025-05-03T23:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: false
+    periods:
+      - open:
+          day: 0
+          hour: 16
+          minute: 0
+        close:
+          day: 0
+          hour: 18
+          minute: 0
+      - open:
+          day: 0
+          hour: 21
+          minute: 0
+        close:
+          day: 0
+          hour: 23
+          minute: 0
+      - open:
+          day: 1
+          hour: 16
+          minute: 0
+        close:
+          day: 1
+          hour: 18
+          minute: 0
+      - open:
+          day: 1
+          hour: 21
+          minute: 0
+        close:
+          day: 1
+          hour: 23
+          minute: 0
+      - open:
+          day: 2
+          hour: 16
+          minute: 0
+        close:
+          day: 2
+          hour: 18
+          minute: 0
+      - open:
+          day: 2
+          hour: 21
+          minute: 0
+        close:
+          day: 2
+          hour: 23
+          minute: 0
+      - open:
+          day: 3
+          hour: 16
+          minute: 0
+        close:
+          day: 3
+          hour: 18
+          minute: 0
+      - open:
+          day: 3
+          hour: 21
+          minute: 0
+        close:
+          day: 3
+          hour: 23
+          minute: 0
+      - open:
+          day: 4
+          hour: 16
+          minute: 0
+        close:
+          day: 4
+          hour: 18
+          minute: 0
+      - open:
+          day: 4
+          hour: 21
+          minute: 0
+        close:
+          day: 4
+          hour: 23
+          minute: 0
+      - open:
+          day: 5
+          hour: 16
+          minute: 0
+        close:
+          day: 5
+          hour: 18
+          minute: 0
+      - open:
+          day: 5
+          hour: 21
+          minute: 0
+        close:
+          day: 5
+          hour: 23
+          minute: 0
+      - open:
+          day: 6
+          hour: 16
+          minute: 0
+        close:
+          day: 6
+          hour: 18
+          minute: 0
+      - open:
+          day: 6
+          hour: 21
+          minute: 0
+        close:
+          day: 6
+          hour: 23
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 4:00 – 6:00 PM, 9:00 – 11:00 PM'
+      - 'Tuesday: 4:00 – 6:00 PM, 9:00 – 11:00 PM'
+      - 'Wednesday: 4:00 – 6:00 PM, 9:00 – 11:00 PM'
+      - 'Thursday: 4:00 – 6:00 PM, 9:00 – 11:00 PM'
+      - 'Friday: 4:00 – 6:00 PM, 9:00 – 11:00 PM'
+      - 'Saturday: 4:00 – 6:00 PM, 9:00 – 11:00 PM'
+      - 'Sunday: 4:00 – 6:00 PM, 9:00 – 11:00 PM'
+    secondaryHoursType: HAPPY_HOUR
+    nextOpenTime: '2025-05-03T23:00:00Z'
 phone: (541) 683-1201
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.3'
-rating_count: 0
+rating_count: 1174
 website: http://www.izumisushieugene.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Explore Izumi Sushi and Grill in Eugene, OR$$$Izumi Sushi and Grill in Eugene,
+  OR, stands out as a welcoming spot for fresh sushi and Japanese favorites,
+  blending contemporary vibes with a casual atmosphere perfect for unwinding.
+  This eatery features an array of creative rolls and classic dishes,
+  complemented by enticing happy-hour deals that attract locals seeking
+  affordable Japanese cuisine. With accessibility options like
+  wheelchair-friendly entrances and seating, it's designed to accommodate
+  everyone looking for a relaxed dining experience. The menu highlights
+  flavorful options that cater to various tastes, making it a great choice for
+  those exploring top-rated sushi restaurants nearby. Whether you're in the mood
+  for inventive rolls or hearty mains, this spot delivers a satisfying meal in a
+  comfortable setting.
+generative_summary: >-
+  Explore Izumi Sushi and Grill in Eugene, OR$$$Izumi Sushi and Grill in Eugene,
+  OR, stands out as a welcoming spot for fresh sushi and Japanese favorites,
+  blending contemporary vibes with a casual atmosphere perfect for unwinding.
+  This eatery features an array of creative rolls and classic dishes,
+  complemented by enticing happy-hour deals that attract locals seeking
+  affordable Japanese cuisine. With accessibility options like
+  wheelchair-friendly entrances and seating, it's designed to accommodate
+  everyone looking for a relaxed dining experience. The menu highlights
+  flavorful options that cater to various tastes, making it a great choice for
+  those exploring top-rated sushi restaurants nearby. Whether you're in the mood
+  for inventive rolls or hearty mains, this spot delivers a satisfying meal in a
+  comfortable setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJV_UlRTfiwFQRLetsnL0I-tY/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3N1o2X21nRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Great happy hour and friendly service. The sushi was delicious. I
+        recommend the crab and mushroom rolls. I took a picture of our sushi and
+        chicken katsu on the happy hour menu
+      languageCode: en
+    originalText:
+      text: >-
+        Great happy hour and friendly service. The sushi was delicious. I
+        recommend the crab and mushroom rolls. I took a picture of our sushi and
+        chicken katsu on the happy hour menu
+      languageCode: en
+    authorAttribution:
+      displayName: Andrew H
+      uri: https://www.google.com/maps/contrib/110141501022820836714/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVJbYEl8ba714QdDlCGEvVlf1G5ExwN9jGwaMPlFagLrDkd9mmu=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-03-27T16:12:45.333098Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUR3N1o2X21nRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUR3N1o2X21nRRAB!2m1!1s0x54c0e2374525f557:0xd6fa08bd9c6ceb2d
+  - name: >-
+      places/ChIJV_UlRTfiwFQRLetsnL0I-tY/reviews/ChZDSUhNMG9nS0VJQ0FnSUNfMTViM0lBEAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        Some excellent sushi, and a big menu. Mussels highly recommended. The
+        place was slammed on a Saturday night, but I know that you don't go to a
+        good sushi place if you're in a hurry. Very friendly service,  too.
+      languageCode: en
+    originalText:
+      text: >-
+        Some excellent sushi, and a big menu. Mussels highly recommended. The
+        place was slammed on a Saturday night, but I know that you don't go to a
+        good sushi place if you're in a hurry. Very friendly service,  too.
+      languageCode: en
+    authorAttribution:
+      displayName: Sean McKee
+      uri: https://www.google.com/maps/contrib/104070615951332224938/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIkQYEekEX1fT5TvmzS44TJVbhzGd9aUE0UuEktOzGJ65ue7w=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-01-19T19:37:17.165200Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNfMTViM0lBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNfMTViM0lBEAE!2m1!1s0x54c0e2374525f557:0xd6fa08bd9c6ceb2d
+  - name: >-
+      places/ChIJV_UlRTfiwFQRLetsnL0I-tY/reviews/ChZDSUhNMG9nS0VJQ0FnSUNUeGJUS1ZBEAE
+    relativePublishTimeDescription: 11 months ago
+    rating: 5
+    text:
+      text: >-
+        Amazing experience! Went there for the first time on our anniversary.
+        Staff was all extremely friendly, environment was nice. Food came out
+        surprisingly fast. They were busy and we were both genuinely shocked at
+        how timely everything came out. The food was great. Recommend stuffed
+        jalapeños for appetizer 10/10, had a fresh crunch and very flavorful. We
+        got the love boat which came with so much food, had so much leftovers
+        which were still very appetizing later. We are excited to go back and
+        dine again.
+      languageCode: en
+    originalText:
+      text: >-
+        Amazing experience! Went there for the first time on our anniversary.
+        Staff was all extremely friendly, environment was nice. Food came out
+        surprisingly fast. They were busy and we were both genuinely shocked at
+        how timely everything came out. The food was great. Recommend stuffed
+        jalapeños for appetizer 10/10, had a fresh crunch and very flavorful. We
+        got the love boat which came with so much food, had so much leftovers
+        which were still very appetizing later. We are excited to go back and
+        dine again.
+      languageCode: en
+    authorAttribution:
+      displayName: Savannah Starkey
+      uri: https://www.google.com/maps/contrib/102119764985009961801/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXqOK0tA3v98cBf2Aqh-N2hx9zqtQHVh9vojnPn2AkblRv5IjDV=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2024-05-17T02:21:47.820308Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNUeGJUS1ZBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNUeGJUS1ZBEAE!2m1!1s0x54c0e2374525f557:0xd6fa08bd9c6ceb2d
+  - name: >-
+      places/ChIJV_UlRTfiwFQRLetsnL0I-tY/reviews/ChdDSUhNMG9nS0VJQ0FnSUNYaXJPNmxnRRAB
+    relativePublishTimeDescription: 6 months ago
+    rating: 3
+    text:
+      text: >-
+        It took a long time to get seated, despite many tables being open. Our
+        server forgot our sushi order entirely. However, the food we received s
+        was very good. I would come here again and see if I came on an off
+        night.
+      languageCode: en
+    originalText:
+      text: >-
+        It took a long time to get seated, despite many tables being open. Our
+        server forgot our sushi order entirely. However, the food we received s
+        was very good. I would come here again and see if I came on an off
+        night.
+      languageCode: en
+    authorAttribution:
+      displayName: Tara Ellsworth
+      uri: https://www.google.com/maps/contrib/108543938414079885344/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjV0CfEi0CHmxrmz9OP3hAOrtNqUFoO7R2opnABmEvNH4pNxpkOk7w=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-10-15T05:13:51.998109Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNYaXJPNmxnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNYaXJPNmxnRRAB!2m1!1s0x54c0e2374525f557:0xd6fa08bd9c6ceb2d
+  - name: >-
+      places/ChIJV_UlRTfiwFQRLetsnL0I-tY/reviews/ChZDSUhNMG9nS0VJQ0FnSURuN3J2X05BEAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 1
+    text:
+      text: >-
+        Two very poor experiences in a row! Never eating here again.
+
+
+        Be careful when ordering take out dinner. The online menu had incorrect
+        prices. They asked for $7.00 more than the prices displayed and will not
+        honor the online price. Screenshot of menu added.
+
+
+        I really like this place. However, tonight was not a good experience. I
+        ordered carry out, which I have done numerous times. When I got the food
+        home, the miso had leaked everywhere, soaking the bag. I tried calling 6
+        times to report this, last call was at 8:40, but no one would pick up.
+        Why did a lid with a large hole in it end up on the miso? This was a $70
+        order!
+      languageCode: en
+    originalText:
+      text: >-
+        Two very poor experiences in a row! Never eating here again.
+
+
+        Be careful when ordering take out dinner. The online menu had incorrect
+        prices. They asked for $7.00 more than the prices displayed and will not
+        honor the online price. Screenshot of menu added.
+
+
+        I really like this place. However, tonight was not a good experience. I
+        ordered carry out, which I have done numerous times. When I got the food
+        home, the miso had leaked everywhere, soaking the bag. I tried calling 6
+        times to report this, last call was at 8:40, but no one would pick up.
+        Why did a lid with a large hole in it end up on the miso? This was a $70
+        order!
+      languageCode: en
+    authorAttribution:
+      displayName: Steve Jarvis
+      uri: https://www.google.com/maps/contrib/115029039289689262033/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUYumcIDtJYilVo-t8GiG1eB36ZUQIxDBUe-3AZ5leLqCKVwHPp=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-12-16T03:05:59.391527Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURuN3J2X05BEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURuN3J2X05BEAE!2m1!1s0x54c0e2374525f557:0xd6fa08bd9c6ceb2d
+review_summary: >-
+  Insights from Recent Feedback$$$Diners often rave about the tasty sushi
+  selections and generous portions, making it a solid pick for anyone hunting
+  for great Japanese places near Eugene. While most experiences highlight
+  friendly service and enjoyable happy-hour specials, a few mentions note
+  occasional waits or minor order mix-ups that didn't detract from the overall
+  vibe. The variety of dishes, from fresh rolls to flavorful appetizers, keeps
+  customers coming back for more, with many appreciating the value and
+  atmosphere. Overall, it's clear that this spot earns its high marks for
+  quality food and a welcoming feel, offering a reliable option for sushi
+  enthusiasts despite the rare hiccup. If you're searching for the best sushi
+  around, this place tends to deliver a positive outing most of the time.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
+delivery: true
+dine_in: true
 good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: true
 outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
+serves_coffee: true
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Contemporary sushi house with a roomy bar featuring clever rolls & classic
+  Japanese mains.
 
 ---

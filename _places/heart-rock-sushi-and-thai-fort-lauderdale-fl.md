@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Heart Rock Sushi and thai"
+title: Heart Rock Sushi and thai
 permalink: /florida/fort-lauderdale/heart-rock-sushi-and-thai.html
 stateAbbr: FL
 stateName: Florida
 cityName: Fort Lauderdale
 seo:
-  name: "Heart Rock Sushi and thai"
-  type: Restaurant
+  type: restaurant
   links: https://www.heartrocksushithai.com/
-description: "Cozy Asian eatery with modern decor & a lounge feel serving rolls, tempura, noodle & Thai dishes. Heart Rock Sushi and thai serves delicious sushi in Fort Lauderdale, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJuffLEMgB2YgRetQnYBMsw60
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $10 &ndash; $20
 rating: '4.3'
 rating_count: 0
 website: https://www.heartrocksushithai.com/
+description: >-
+  Explore Heart Rock Sushi and Thai in Fort Lauderdale, FL$$$Heart Rock Sushi
+  and Thai in Fort Lauderdale, FL, stands out as a welcoming spot for enjoying
+  fresh Asian cuisine in a relaxed, modern setting. This sushi restaurant
+  combines stylish decor with a lounge-inspired vibe, making it ideal for casual
+  meals or gatherings while savoring a variety of rolls, tempura, and
+  Thai-inspired dishes. Patrons appreciate the accessible features like easy
+  parking and wheelchair-friendly options, enhancing the overall experience for
+  everyone. The menu highlights flavorful noodle options and hearty specials,
+  perfect for those seeking top-rated sushi places near me. With its convenient
+  location and inviting atmosphere, it's a great choice for anyone exploring
+  sushi restaurants in the area.
+generative_summary: >-
+  Explore Heart Rock Sushi and Thai in Fort Lauderdale, FL$$$Heart Rock Sushi
+  and Thai in Fort Lauderdale, FL, stands out as a welcoming spot for enjoying
+  fresh Asian cuisine in a relaxed, modern setting. This sushi restaurant
+  combines stylish decor with a lounge-inspired vibe, making it ideal for casual
+  meals or gatherings while savoring a variety of rolls, tempura, and
+  Thai-inspired dishes. Patrons appreciate the accessible features like easy
+  parking and wheelchair-friendly options, enhancing the overall experience for
+  everyone. The menu highlights flavorful noodle options and hearty specials,
+  perfect for those seeking top-rated sushi places near me. With its convenient
+  location and inviting atmosphere, it's a great choice for anyone exploring
+  sushi restaurants in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJuffLEMgB2YgRetQnYBMsw60/reviews/ChdDSUhNMG9nS0VJQ0FnTUNReEtTZTl3RRAB
@@ -310,6 +333,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUR3ejlUdFVREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUR3ejlUdFVREAE!2m1!1s0x88d901c810cbf7b9:0xadc32c136027d47a
+review_summary: >-
+  Visitor Feedback on This Local Sushi Favorite$$$Folks frequently highlight the
+  tasty sushi and Thai dishes as standout features, with many enjoying the fresh
+  flavors and generous portions that make meals feel satisfying and worthwhile.
+  Happy hour deals and lunch combos add great value, drawing in those looking
+  for affordable yet quality options at sushi spots around town. Service tends
+  to be friendly and efficient, contributing to a welcoming vibe that keeps
+  people coming back for more. While some mention the background music could be
+  toned down, it doesn't overshadow the overall positive experience of good food
+  and easy parking. All in all, this place earns high marks as a reliable go-to
+  for anyone craving the best sushi near me, offering a solid mix of flavors and
+  convenience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
 payment_options:
@@ -340,8 +376,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Cozy Asian eatery with modern decor & a lounge feel serving rolls, tempura,
   noodle & Thai dishes.
 

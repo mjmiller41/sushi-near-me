@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Aki Sushi"
+title: Aki Sushi
 permalink: /california/yucca-valley/aki-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Yucca Valley
 seo:
-  name: "Aki Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.akisushiyuccavalley.com/
-description: "Aki Sushi serves delicious sushi in Yucca Valley, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ7Qjg2AnY2oARiIhybvttk5I
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80dad809d8e008ed:0x92936dfb6e728888!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 10:00 PM'
     - 'Tuesday: 11:00 AM – 10:00 PM'
     - 'Wednesday: 11:00 AM – 10:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:00 PM'
     - 'Saturday: 11:00 AM – 10:00 PM'
     - 'Sunday: 11:00 AM – 10:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 10:00 PM'
-    - 'Tuesday: 11:00 AM – 10:00 PM'
-    - 'Wednesday: 11:00 AM – 10:00 PM'
-    - 'Thursday: 11:00 AM – 10:00 PM'
-    - 'Friday: 11:00 AM – 10:00 PM'
-    - 'Saturday: 11:00 AM – 10:00 PM'
-    - 'Sunday: 11:00 AM – 10:00 PM'
+  nextCloseTime: '2025-05-04T05:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,232 @@ phone: (760) 365-7755
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.5'
-rating_count: 0
+rating_count: 1475
 website: https://www.akisushiyuccavalley.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Aki Sushi in Yucca Valley, CA$$$Aki Sushi in Yucca Valley, CA, offers
+  a welcoming spot for enjoying fresh sushi and traditional Japanese dishes in a
+  relaxed setting. The menu features a variety of options like bento boxes and
+  flavorful rolls, making it a go-to choice for those seeking authentic flavors
+  in a casual environment. With accessibility features such as
+  wheelchair-friendly entrances and seating, it's designed to accommodate
+  everyone, including families with a dedicated kids' menu. Open daily from 11
+  AM to 10 PM, this sushi restaurant provides a convenient option for locals and
+  visitors looking for quality Japanese fare nearby, ensuring a satisfying meal
+  without the fuss.
+generative_summary: >-
+  Discover Aki Sushi in Yucca Valley, CA$$$Aki Sushi in Yucca Valley, CA, offers
+  a welcoming spot for enjoying fresh sushi and traditional Japanese dishes in a
+  relaxed setting. The menu features a variety of options like bento boxes and
+  flavorful rolls, making it a go-to choice for those seeking authentic flavors
+  in a casual environment. With accessibility features such as
+  wheelchair-friendly entrances and seating, it's designed to accommodate
+  everyone, including families with a dedicated kids' menu. Open daily from 11
+  AM to 10 PM, this sushi restaurant provides a convenient option for locals and
+  visitors looking for quality Japanese fare nearby, ensuring a satisfying meal
+  without the fuss.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ7Qjg2AnY2oARiIhybvttk5I/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3bElqbVR3EAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Now that I’m finally leaving the Hi-Desert, Aki Sushi is one of the few
+        things I’ll miss about living up here. I’ve never dined in but the
+        service I’ve received when ordering pickup was always easy and friendly.
+        The food is fantastic. This is the only sushi place I’ve tried up here
+        where the fish doesn’t taste several days old. I live for their spicy
+        tuna rolls specifically - they’ve actually got a kick of spice! Their
+        sushi rolls are filled very generously so, in my opinion, everything is
+        pretty fairly priced as well.
+      languageCode: en
+    originalText:
+      text: >-
+        Now that I’m finally leaving the Hi-Desert, Aki Sushi is one of the few
+        things I’ll miss about living up here. I’ve never dined in but the
+        service I’ve received when ordering pickup was always easy and friendly.
+        The food is fantastic. This is the only sushi place I’ve tried up here
+        where the fish doesn’t taste several days old. I live for their spicy
+        tuna rolls specifically - they’ve actually got a kick of spice! Their
+        sushi rolls are filled very generously so, in my opinion, everything is
+        pretty fairly priced as well.
+      languageCode: en
+    authorAttribution:
+      displayName: Aubrey Couturier
+      uri: https://www.google.com/maps/contrib/105946675391169107246/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjW0md_jG5IizZd0IlvbWRYkdPrGlBnG5KxgXe6oFS33_1JNl7U6=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-23T19:01:33.624910Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUR3bElqbVR3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUR3bElqbVR3EAE!2m1!1s0x80dad809d8e008ed:0x92936dfb6e728888
+  - name: >-
+      places/ChIJ7Qjg2AnY2oARiIhybvttk5I/reviews/ChZDSUhNMG9nS0VJQ0FnSURmb3JPTGVREAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        The service, food and atmosphere are perfect! New to town and tried this
+        place for the first time tonight. Best sushi I’ve had in years. I highly
+        recommend the Viking roll
+      languageCode: en
+    originalText:
+      text: >-
+        The service, food and atmosphere are perfect! New to town and tried this
+        place for the first time tonight. Best sushi I’ve had in years. I highly
+        recommend the Viking roll
+      languageCode: en
+    authorAttribution:
+      displayName: Sara
+      uri: https://www.google.com/maps/contrib/112094817092348600711/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJi-efuTlzmqq5F2ZgVKuICCiJ_jI02LNERarQqSR7GUXK9nA=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-01-05T02:18:42.768702Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURmb3JPTGVREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURmb3JPTGVREAE!2m1!1s0x80dad809d8e008ed:0x92936dfb6e728888
+  - name: >-
+      places/ChIJ7Qjg2AnY2oARiIhybvttk5I/reviews/ChdDSUhNMG9nS0VJQ0FnSURjOHZELXlBRRAB
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        Ive been going here since they first opened. It has always been amazing
+        high quality food made just the way you order it. Ive only had a few
+        times out of thousands of visits where I wasnt happy with everything. It
+        seems those staff members have been retrained or are no longer here.
+        Stoked to be able to enjoy one of my favorite spots in town again!
+
+        You never know who you'll see while you're there. :)
+      languageCode: en
+    originalText:
+      text: >-
+        Ive been going here since they first opened. It has always been amazing
+        high quality food made just the way you order it. Ive only had a few
+        times out of thousands of visits where I wasnt happy with everything. It
+        seems those staff members have been retrained or are no longer here.
+        Stoked to be able to enjoy one of my favorite spots in town again!
+
+        You never know who you'll see while you're there. :)
+      languageCode: en
+    authorAttribution:
+      displayName: Christina
+      uri: https://www.google.com/maps/contrib/116555296804569137576/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVnjQYuuL1d1nLbwKnbKc_vKH-Cqse3k-e_nPjOAndmw_0s9MOcRQ=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-14T17:55:28.564505Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURjOHZELXlBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURjOHZELXlBRRAB!2m1!1s0x80dad809d8e008ed:0x92936dfb6e728888
+  - name: >-
+      places/ChIJ7Qjg2AnY2oARiIhybvttk5I/reviews/ChZDSUhNMG9nS0VJQ0FnTURnbmQ2WEZnEAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 4
+    text:
+      text: >-
+        Try it you will be happy you did. Sushi in the desert doesn't have to be
+        scary. Aki sushi isn't fancy but the food is good, service is excellent
+        and prices are fair. The decor and setting are simple but the food and
+        staff are on point. The staff goes out of their way to be helpful and
+        friendly. I have been here multiple times and every experience was good.
+      languageCode: en
+    originalText:
+      text: >-
+        Try it you will be happy you did. Sushi in the desert doesn't have to be
+        scary. Aki sushi isn't fancy but the food is good, service is excellent
+        and prices are fair. The decor and setting are simple but the food and
+        staff are on point. The staff goes out of their way to be helpful and
+        friendly. I have been here multiple times and every experience was good.
+      languageCode: en
+    authorAttribution:
+      displayName: Bachaus Maximus
+      uri: https://www.google.com/maps/contrib/109269793211269484460/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIoaARb6fo_7T0CTaZn4_3I68_fhchs2ERABUDxg6DaZX3l2w=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-02-26T18:34:21.776740Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURnbmQ2WEZnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURnbmQ2WEZnEAE!2m1!1s0x80dad809d8e008ed:0x92936dfb6e728888
+  - name: >-
+      places/ChIJ7Qjg2AnY2oARiIhybvttk5I/reviews/ChdDSUhNMG9nS0VJQ0FnTUNvNHBlQmxBRRAB
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        Picked an order up for friends who have a newborn and haven't had much
+        time to go out for food, let alone not being able to even eat sushi for
+        the past nine months! The order was ready quickly and the staff were all
+        very friendly. The sushi did look bomb though!
+      languageCode: en
+    originalText:
+      text: >-
+        Picked an order up for friends who have a newborn and haven't had much
+        time to go out for food, let alone not being able to even eat sushi for
+        the past nine months! The order was ready quickly and the staff were all
+        very friendly. The sushi did look bomb though!
+      languageCode: en
+    authorAttribution:
+      displayName: Jon Merz
+      uri: https://www.google.com/maps/contrib/116325789340253997651/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLDdms5UEBg9mE_0EVwMkBRfZ-vziY0XV61G9rb_i_F7cAwVA=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-15T21:09:43.191864Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNvNHBlQmxBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNvNHBlQmxBRRAB!2m1!1s0x80dad809d8e008ed:0x92936dfb6e728888
+review_summary: >-
+  What Customers Are Saying$$$Folks around Yucca Valley often highlight the
+  fresh and generously portioned sushi rolls as a standout feature, with many
+  appreciating the real kick of spice in popular options. Service tends to be
+  friendly and efficient, whether you're picking up an order or dining in,
+  adding to the overall enjoyable vibe of the place. While the atmosphere keeps
+  things simple and unfussy, it's consistently praised for delivering good value
+  and reliable quality that keeps people coming back. Overall, it's clear that
+  this spot hits the mark for anyone craving top-rated sushi in the area, with
+  positive experiences outweighing any minor hiccups. If you're on the hunt for
+  sushi restaurants near you, this one delivers a solid, satisfying meal every
+  time.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsCashOnly: false
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: true
+outdoor_seating: false
 reservable: null
-restroom: null
-serves_beer: null
+restroom: true
+serves_beer: true
 serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_brunch: false
+serves_cocktails: true
+serves_coffee: true
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Simple, casual eatery features sushi & sashimi, plus cooked Japanese dishes
+  such as teriyaki.
 
 ---

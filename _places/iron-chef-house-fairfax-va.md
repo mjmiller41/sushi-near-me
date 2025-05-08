@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Iron Chef House"
+title: Iron Chef House
 permalink: /virginia/fairfax/iron-chef-house.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Fairfax
 seo:
-  name: "Iron Chef House"
-  type: Restaurant
-  links: null
-description: "Iron Chef House serves delicious sushi in Fairfax, Virginia. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.ironchef.house/
 place_id: ChIJl8Mf6XxLtokRF1Gs0ml7VqU
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89b64b7ce91fc397:0xa5567b69d2ac5117!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:30 PM'
+    - 'Tuesday: 11:00 AM – 9:30 PM'
+    - 'Wednesday: 11:00 AM – 9:30 PM'
+    - 'Thursday: 11:00 AM – 9:30 PM'
+    - 'Friday: 11:00 AM – 10:30 PM'
+    - 'Saturday: 12:00 – 10:30 PM'
+    - 'Sunday: 12:00 – 9:30 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,51 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
+phone: (703) 280-5555
+price_level: PRICE_LEVEL_MODERATE
 price_range: null
-rating: null
-rating_count: 0
-website: null
+rating: '3.9'
+rating_count: 399
+website: http://www.ironchef.house/
+description: >-
+  Discover Iron Chef House in Fairfax, VA$$$Nestled in the heart of Fairfax,
+  Virginia, Iron Chef House stands out as a premier destination for authentic
+  Japanese cuisine, offering a delightful array of fresh sushi and traditional
+  dishes. This inviting spot features a menu inspired by classic fare like
+  tempura, teriyaki, and sake, all prepared with high-quality ingredients that
+  highlight the essence of Japanese flavors. Patrons can enjoy a welcoming
+  atmosphere with convenient accessibility options, making it an ideal choice
+  for those seeking sushi dining in a relaxed setting. The restaurant's
+  operational hours cater to both lunch and dinner crowds, ensuring you can
+  savor these specialties at your convenience, whether you're exploring local
+  Japanese places or craving something quick and satisfying nearby.
+generative_summary: >-
+  Discover Iron Chef House in Fairfax, VA$$$Nestled in the heart of Fairfax,
+  Virginia, Iron Chef House stands out as a premier destination for authentic
+  Japanese cuisine, offering a delightful array of fresh sushi and traditional
+  dishes. This inviting spot features a menu inspired by classic fare like
+  tempura, teriyaki, and sake, all prepared with high-quality ingredients that
+  highlight the essence of Japanese flavors. Patrons can enjoy a welcoming
+  atmosphere with convenient accessibility options, making it an ideal choice
+  for those seeking sushi dining in a relaxed setting. The restaurant's
+  operational hours cater to both lunch and dinner crowds, ensuring you can
+  savor these specialties at your convenience, whether you're exploring local
+  Japanese places or craving something quick and satisfying nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Say About This Sushi Spot$$$Feedback from diners at this popular
+  sushi restaurant often highlights the fresh and flavorful dishes that keep
+  people coming back for more. Many appreciate the balanced flavors and generous
+  portions, making it a solid pick for anyone hunting for reliable Japanese eats
+  in the area. While some note that service can vary, the overall experience
+  earns praise for its affordability and tasty options, with a solid rating
+  reflecting genuine satisfaction. Folks frequently mention the welcoming vibe
+  as a plus, especially for groups or casual meals, helping it maintain its
+  status among top-rated sushi options. All in all, it's a go-to spot that
+  delivers a mostly positive dining experience, perfect for those searching for
+  quality sushi close to home.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +312,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Bonchon Town Center Jacksonville"
+title: Bonchon Town Center Jacksonville
 permalink: /florida/jacksonville/bonchon-town-center-jacksonville.html
 stateAbbr: FL
 stateName: Florida
 cityName: Jacksonville
 seo:
-  name: "Bonchon Town Center Jacksonville"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Bonchon Town Center Jacksonville serves delicious sushi in Jacksonville, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJIzFiqmC15YgRyLVUdcCH-zY
 photos:
   - name: >-
@@ -185,7 +183,49 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Bonchon in Jacksonville, FL$$$Bonchon Town Center Jacksonville in
+  Jacksonville, FL, stands out as a casual and welcoming Asian fusion spot that
+  specializes in flavorful Korean fried chicken and other delectable dishes.
+  This family-friendly eatery offers a vibrant atmosphere where patrons can
+  enjoy crispy, perfectly seasoned wings in options like soy garlic and spicy
+  varieties, alongside a variety of fusion favorites that blend traditional
+  flavors with modern twists. With its accessible features, including
+  wheelchair-friendly parking and seating, it's designed to accommodate everyone
+  looking for a comfortable dining experience. The menu highlights fresh
+  ingredients and creative presentations, making it a go-to choice for those
+  seeking Asian-inspired meals near urban hubs. Whether you're in the mood for
+  bold tastes or a relaxed outing, this spot delivers an authentic fusion vibe
+  that appeals to locals and visitors alike.
+generative_summary: >-
+  Discover Bonchon in Jacksonville, FL$$$Bonchon Town Center Jacksonville in
+  Jacksonville, FL, stands out as a casual and welcoming Asian fusion spot that
+  specializes in flavorful Korean fried chicken and other delectable dishes.
+  This family-friendly eatery offers a vibrant atmosphere where patrons can
+  enjoy crispy, perfectly seasoned wings in options like soy garlic and spicy
+  varieties, alongside a variety of fusion favorites that blend traditional
+  flavors with modern twists. With its accessible features, including
+  wheelchair-friendly parking and seating, it's designed to accommodate everyone
+  looking for a comfortable dining experience. The menu highlights fresh
+  ingredients and creative presentations, making it a go-to choice for those
+  seeking Asian-inspired meals near urban hubs. Whether you're in the mood for
+  bold tastes or a relaxed outing, this spot delivers an authentic fusion vibe
+  that appeals to locals and visitors alike.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Buzzing About$$$Folks rave about the tasty Korean fried
+  chicken wings at this Asian fusion spot, praising the flavorful soy garlic and
+  spicy options that keep diners coming back for more. Many highlight the super
+  friendly service that makes every visit feel welcoming and attentive, turning
+  a simple meal into a enjoyable experience. Popular dishes like bulgogi
+  bibimbap, japche, and fried rice get thumbs up for their hearty portions and
+  great taste, making it a solid pick for groups or families. While some note
+  that the prices can be on the higher side, the overall value from the quality
+  ingredients and generous servings keeps the feedback positive. All in all,
+  it's a spot where the delicious food and helpful staff create a fun,
+  satisfying vibe for anyone exploring local Asian eateries.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +251,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

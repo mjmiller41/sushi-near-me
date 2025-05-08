@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ebisu Restaurant"
+title: Ebisu Restaurant
 permalink: /california/san-francisco/ebisu-restaurant.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
 seo:
-  name: "Ebisu Restaurant"
-  type: Restaurant
+  type: restaurant
   links: https://ebisusushi.com/
-description: "Ebisu Restaurant serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ93MU4FyHhYARNsN1cMElpgo
 photos:
   - name: >-
@@ -169,7 +167,89 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8085875ce01473f7:0xaa625c17075c336!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 14
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
     - 'Wednesday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
@@ -177,14 +257,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
     - 'Saturday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
-    - 'Wednesday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
-    - 'Thursday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
-    - 'Friday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
-    - 'Saturday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
-    - 'Sunday: Closed'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,9 +269,46 @@ phone: (415) 566-1770
 price_level: PRICE_LEVEL_MODERATE
 price_range: $30 &ndash; $50
 rating: '4.6'
-rating_count: 0
+rating_count: 1157
 website: https://ebisusushi.com/
+description: >-
+  Discover Ebisu Restaurant in San Francisco, CA$$$Ebisu Restaurant in San
+  Francisco, CA, stands out as a cozy Japanese eatery specializing in fresh
+  sushi and traditional dishes that capture the essence of authentic flavors.
+  With its inviting atmosphere and family-inspired vibe, the spot offers a range
+  of sushi options that appeal to those exploring local dining gems. Diners can
+  savor high-quality ingredients in a setting that's both accessible and
+  welcoming, making it a go-to for anyone seeking sushi restaurants in the area.
+  The moderate pricing adds to its charm, providing an affordable way to enjoy
+  top-rated Japanese cuisine without breaking the bank. Whether you're in the
+  mood for a quick bite or a relaxed meal, this Inner Sunset location delivers a
+  satisfying experience for sushi enthusiasts nearby.
+generative_summary: >-
+  Discover Ebisu Restaurant in San Francisco, CA$$$Ebisu Restaurant in San
+  Francisco, CA, stands out as a cozy Japanese eatery specializing in fresh
+  sushi and traditional dishes that capture the essence of authentic flavors.
+  With its inviting atmosphere and family-inspired vibe, the spot offers a range
+  of sushi options that appeal to those exploring local dining gems. Diners can
+  savor high-quality ingredients in a setting that's both accessible and
+  welcoming, making it a go-to for anyone seeking sushi restaurants in the area.
+  The moderate pricing adds to its charm, providing an affordable way to enjoy
+  top-rated Japanese cuisine without breaking the bank. Whether you're in the
+  mood for a quick bite or a relaxed meal, this Inner Sunset location delivers a
+  satisfying experience for sushi enthusiasts nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Buzzing About$$$Folks often praise the delicious sushi at
+  this spot, highlighting creative rolls and fresh flavors that make every bite
+  memorable. The service stands out as friendly and attentive, creating a warm
+  environment that keeps guests coming back for more. Many appreciate the
+  variety of sake options, which pair perfectly with the high-quality fish and
+  add to the overall enjoyment. It's frequently noted as a reliable choice for
+  authentic Japanese dining, with the freshness of ingredients earning
+  consistent nods. While opinions vary slightly, the general vibe is positive,
+  making it a solid pick for anyone hunting for great sushi experiences in the
+  neighborhood.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -224,7 +334,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

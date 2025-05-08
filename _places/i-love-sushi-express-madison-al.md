@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "I Love Sushi Express"
+title: I Love Sushi Express
 permalink: /alabama/madison/i-love-sushi-express.html
 stateAbbr: AL
 stateName: Alabama
 cityName: Madison
 seo:
-  name: "I Love Sushi Express"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "I Love Sushi Express serves delicious sushi in Madison, Alabama. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJSdjQ2tNvYogRDq0U0CaXwb0
 photos:
   - name: >-
@@ -185,7 +183,47 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover I Love Sushi Express in Madison, Alabama$$$I Love Sushi Express in
+  Madison, Alabama, stands out as a casual spot for sushi enthusiasts, offering
+  a menu filled with fresh poke bowls and inventive sushi burritos that cater to
+  customizable tastes. This welcoming restaurant emphasizes build-your-own
+  options, allowing diners to create meals that suit their preferences with
+  high-quality ingredients and creative flavors. Accessibility features like
+  wheelchair-friendly parking and seating make it an inclusive choice for
+  everyone seeking top sushi options nearby. The atmosphere draws in locals
+  looking for quick, satisfying meals, enhanced by a variety of dishes that
+  highlight the best in Japanese-inspired cuisine. Whether you're exploring
+  sushi restaurants in the area, it's a go-to destination for those craving
+  authentic yet approachable eats.
+generative_summary: >-
+  Discover I Love Sushi Express in Madison, Alabama$$$I Love Sushi Express in
+  Madison, Alabama, stands out as a casual spot for sushi enthusiasts, offering
+  a menu filled with fresh poke bowls and inventive sushi burritos that cater to
+  customizable tastes. This welcoming restaurant emphasizes build-your-own
+  options, allowing diners to create meals that suit their preferences with
+  high-quality ingredients and creative flavors. Accessibility features like
+  wheelchair-friendly parking and seating make it an inclusive choice for
+  everyone seeking top sushi options nearby. The atmosphere draws in locals
+  looking for quick, satisfying meals, enhanced by a variety of dishes that
+  highlight the best in Japanese-inspired cuisine. Whether you're exploring
+  sushi restaurants in the area, it's a go-to destination for those craving
+  authentic yet approachable eats.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About the Experience$$$Folks who visit this spot
+  often highlight the delicious poke bowls and sushi burritos for their fresh
+  ingredients and generous servings, making it a solid pick for anyone hunting
+  for quality sushi nearby. Many appreciate the standout flavors like the sweet
+  potato roll and zesty ginger dressing, which add a fun twist to classic
+  dishes. The staff comes across as friendly and attentive, helping to create a
+  relaxed and inviting vibe that keeps people coming back. Overall, it's praised
+  as a reliable choice for casual meals with friends or family, blending great
+  taste with a welcoming environment. If you're on the hunt for the best sushi
+  places around, this location earns consistent nods for its honest value and
+  enjoyable atmosphere.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +249,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

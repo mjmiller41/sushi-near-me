@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sakura Sushi Bar & Grill"
+title: Sakura Sushi Bar & Grill
 permalink: /california/alameda/sakura-sushi-bar-grill.html
 stateAbbr: CA
 stateName: California
 cityName: Alameda
 seo:
-  name: "Sakura Sushi Bar & Grill"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sakura Sushi Bar & Grill serves delicious sushi in Alameda, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJaT5A5pWGj4AREkzNmz6sOE0
 photos:
   - name: >-
@@ -185,7 +183,43 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Sakura Sushi Bar & Grill in Alameda, CA$$$Sakura Sushi Bar & Grill in
+  Alameda, CA, offers a welcoming spot for enjoying fresh sushi and authentic
+  Japanese cuisine, making it a go-to choice for those seeking flavorful dining
+  options nearby. This casual eatery features a variety of Japanese dishes
+  alongside refreshing beer and sake selections, creating a relaxed atmosphere
+  perfect for casual meals or gatherings. With thoughtful accessibility features
+  like wheelchair-friendly parking and entrances, it's designed to accommodate
+  all visitors comfortably. The restaurant's vibe combines simplicity and charm,
+  appealing to anyone looking for reliable sushi places in the area that deliver
+  on taste and convenience.
+generative_summary: >-
+  Discover Sakura Sushi Bar & Grill in Alameda, CA$$$Sakura Sushi Bar & Grill in
+  Alameda, CA, offers a welcoming spot for enjoying fresh sushi and authentic
+  Japanese cuisine, making it a go-to choice for those seeking flavorful dining
+  options nearby. This casual eatery features a variety of Japanese dishes
+  alongside refreshing beer and sake selections, creating a relaxed atmosphere
+  perfect for casual meals or gatherings. With thoughtful accessibility features
+  like wheelchair-friendly parking and entrances, it's designed to accommodate
+  all visitors comfortably. The restaurant's vibe combines simplicity and charm,
+  appealing to anyone looking for reliable sushi places in the area that deliver
+  on taste and convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Customer Reviews$$$From what diners have shared about Sakura
+  Sushi Bar & Grill, the overall experience often highlights the fresh flavors
+  and solid portions that keep people coming back for more satisfying meals.
+  Many appreciate the approachable vibe and how the menu balances classic sushi
+  rolls with other Japanese favorites, making it a dependable pick for everyday
+  cravings. While some note that service can vary depending on the time, the
+  general consensus leans positive, with folks enjoying the laid-back setting
+  that's great for groups or solo diners. Overall, it's seen as a solid option
+  among local sushi spots, offering good value that encourages repeat visits
+  without any major letdowns. If you're on the hunt for top-rated sushi near
+  you, this place tends to deliver a reliably enjoyable outing.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +245,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

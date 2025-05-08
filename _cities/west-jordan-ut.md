@@ -5,4 +5,5 @@ permalink: /utah/west-jordan/
 stateAbbr: UT
 stateName: Utah
 cityName: West Jordan
+
 ---

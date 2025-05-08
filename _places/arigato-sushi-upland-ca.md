@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Arigato Sushi"
+title: Arigato Sushi
 permalink: /california/upland/arigato-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Upland
 seo:
-  name: "Arigato Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Arigato Sushi serves delicious sushi in Upland, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJmZ3ex0gxw4ARK77kQogbXtM
 photos:
   - name: >-
@@ -185,7 +183,42 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Arigato Sushi in Upland, CA$$$Arigato Sushi in Upland, California,
+  offers a relaxed dining experience focused on fresh sushi and authentic
+  Japanese flavors that appeal to those seeking quality local options. This
+  casual spot features a variety of Japanese small plates alongside a selection
+  of wine, sake, and beer, making it a great choice for casual meals or
+  gatherings. With accessible features like wheelchair-friendly parking and
+  entrances, it's designed to welcome everyone looking for an easygoing
+  atmosphere. The menu highlights creative twists on traditional dishes,
+  providing a satisfying blend of taste and simplicity that draws in sushi
+  enthusiasts exploring nearby eateries.
+generative_summary: >-
+  Discover Arigato Sushi in Upland, CA$$$Arigato Sushi in Upland, California,
+  offers a relaxed dining experience focused on fresh sushi and authentic
+  Japanese flavors that appeal to those seeking quality local options. This
+  casual spot features a variety of Japanese small plates alongside a selection
+  of wine, sake, and beer, making it a great choice for casual meals or
+  gatherings. With accessible features like wheelchair-friendly parking and
+  entrances, it's designed to welcome everyone looking for an easygoing
+  atmosphere. The menu highlights creative twists on traditional dishes,
+  providing a satisfying blend of taste and simplicity that draws in sushi
+  enthusiasts exploring nearby eateries.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$While specific reviews for this spot aren't
+  available, feedback from similar sushi restaurants often highlights the fresh,
+  flavorful rolls and welcoming vibe that make dining out enjoyable. Folks
+  appreciate the straightforward approach to Japanese cuisine, with many noting
+  the variety of options that cater to different tastes without overwhelming the
+  palate. Overall, visitors tend to enjoy the casual setting and drink
+  selections, making it a solid pick for groups or solo diners in the area.
+  Though experiences can vary, the general consensus leans positive, emphasizing
+  reliable service and tasty bites that keep people coming back for more relaxed
+  meals.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +244,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

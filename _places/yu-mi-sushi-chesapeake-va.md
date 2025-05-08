@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yu-Mi Sushi"
+title: Yu-Mi Sushi
 permalink: /virginia/chesapeake/yu-mi-sushi.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Chesapeake
 seo:
-  name: "Yu-Mi Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://yumisushitogo.com/
-description: "Yu-Mi Sushi serves delicious sushi in Chesapeake, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJz39vCSqluokRIFMJu98xLM4
 photos:
   - name: >-
@@ -154,6 +152,7 @@ longitude: '-76.275567'
 accessibility_options:
   wheelchairAccessibleParking: true
   wheelchairAccessibleEntrance: true
+  wheelchairAccessibleRestroom: true
   wheelchairAccessibleSeating: true
 business_status: OPERATIONAL
 name: Yu-Mi Sushi
@@ -184,6 +183,27 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 0
 website: https://yumisushitogo.com/
+description: >-
+  Discover Yu-Mi Sushi in Chesapeake, VA$$$Yu-Mi Sushi in Chesapeake, VA, offers
+  a delightful array of fresh sushi and Japanese specialties that capture the
+  essence of authentic flavors. This cozy spot serves up bento boxes, flavorful
+  rolls, and a selection of beverages like beer and sake, making it a go-to
+  choice for those seeking sushi restaurants near me. With accessible features
+  including wheelchair-friendly entrances and parking, it's an inviting option
+  for families and groups looking for a casual dining experience. The menu
+  highlights top-rated sushi options that blend traditional tastes with creative
+  twists, ensuring a satisfying meal in a welcoming atmosphere.
+generative_summary: >-
+  Discover Yu-Mi Sushi in Chesapeake, VA$$$Yu-Mi Sushi in Chesapeake, VA, offers
+  a delightful array of fresh sushi and Japanese specialties that capture the
+  essence of authentic flavors. This cozy spot serves up bento boxes, flavorful
+  rolls, and a selection of beverages like beer and sake, making it a go-to
+  choice for those seeking sushi restaurants near me. With accessible features
+  including wheelchair-friendly entrances and parking, it's an inviting option
+  for families and groups looking for a casual dining experience. The menu
+  highlights top-rated sushi options that blend traditional tastes with creative
+  twists, ensuring a satisfying meal in a welcoming atmosphere.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJz39vCSqluokRIFMJu98xLM4/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3cjhpZVdREAE
@@ -347,6 +367,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNSbjZPZTNRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNSbjZPZTNRRRAB!2m1!1s0x89baa52a096f7fcf:0xce2c31dfbb095320
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this sushi place often praise the
+  delicious and fresh Japanese dishes, with many highlighting the tasty rolls
+  and entrees that make it a favorite for local diners. While some folks mention
+  occasional waits during busy times, the overall experience is frequently
+  described as enjoyable, especially for families enjoying meals together.
+  Feedback generally appreciates the variety of options that cater to different
+  tastes, helping it stand out among sushi spots close to me. Despite a few
+  notes on service inconsistencies, the positive vibes around the food quality
+  and atmosphere keep the energy upbeat and encouraging for first-timers. If
+  you're hunting for the best sushi near me, it's worth checking out for a
+  solid, flavorful outing.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -379,7 +412,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

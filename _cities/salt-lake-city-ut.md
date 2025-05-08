@@ -5,4 +5,5 @@ permalink: /utah/salt-lake-city/
 stateAbbr: UT
 stateName: Utah
 cityName: Salt Lake City
+
 ---

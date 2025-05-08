@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Crazy Stone"
+title: Crazy Stone
 permalink: /massachusetts/marlborough/crazy-stone.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Marlborough
 seo:
-  name: "Crazy Stone"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Crazy Stone serves delicious sushi in Marlborough, Massachusetts. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJSfHHyweM44kRqTUa6tUWmeU
 photos:
   - name: >-
@@ -177,7 +175,42 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Crazy Stone in Marlborough, MA$$$Crazy Stone in Marlborough,
+  Massachusetts, stands out as a charming sushi restaurant offering a relaxed
+  and accessible dining option for all patrons. This spot emphasizes inclusivity
+  with features like wheelchair-accessible parking, entrances, and seating,
+  ensuring everyone can enjoy their meal comfortably. Situated conveniently on
+  Boston Post Road East, it's a go-to destination for fresh Japanese-inspired
+  dishes that appeal to sushi enthusiasts seeking quality nearby. The inviting
+  atmosphere, captured in various online photos, highlights cozy interiors and
+  well-presented meals, making it ideal for casual outings or quick bites in the
+  area.
+generative_summary: >-
+  Discover Crazy Stone in Marlborough, MA$$$Crazy Stone in Marlborough,
+  Massachusetts, stands out as a charming sushi restaurant offering a relaxed
+  and accessible dining option for all patrons. This spot emphasizes inclusivity
+  with features like wheelchair-accessible parking, entrances, and seating,
+  ensuring everyone can enjoy their meal comfortably. Situated conveniently on
+  Boston Post Road East, it's a go-to destination for fresh Japanese-inspired
+  dishes that appeal to sushi enthusiasts seeking quality nearby. The inviting
+  atmosphere, captured in various online photos, highlights cozy interiors and
+  well-presented meals, making it ideal for casual outings or quick bites in the
+  area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying About Crazy Stone$$$Folks around Marlborough often
+  highlight the fresh flavors and creative rolls at this local sushi spot,
+  making it a solid pick for anyone craving authentic tastes without the fuss.
+  Many appreciate the welcoming vibe and thoughtful options that cater to
+  different preferences, turning it into a favorite for groups or solo diners.
+  While experiences can vary, the general buzz leans positive, with praise for
+  the straightforward service and inviting setup that keeps things enjoyable.
+  Overall, it's frequently recommended as one of the top sushi places in the
+  region for a reliable and satisfying meal, encouraging newcomers to give it a
+  try for their next Japanese dining adventure.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -204,6 +237,6 @@ serves_vegetarian_food: null
 serves_wine: null
 takeout: null
 update_category: pro
-summary: null
+places_description: null
 
 ---

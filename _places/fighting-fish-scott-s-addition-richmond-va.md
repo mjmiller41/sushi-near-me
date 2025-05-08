@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Fighting Fish Scott’s Addition"
+title: Fighting Fish Scott’s Addition
 permalink: /virginia/richmond/fighting-fish-scott-s-addition.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Richmond
 seo:
-  name: "Fighting Fish Scott’s Addition"
-  type: Restaurant
+  type: restaurant
   links: http://fightingfishrva.com/
-description: "A menu with creative takes on Japanese sushi (bowls, burritos, & rolls) in a cozy, casual space. Fighting Fish Scott’s Addition serves delicious sushi in Richmond, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJJ10HqaoWsYkRxsycXWo2zVo
 photos:
   - name: >-
@@ -184,6 +182,33 @@ price_range: $20 &ndash; $30
 rating: '4.7'
 rating_count: 0
 website: http://fightingfishrva.com/
+description: >-
+  Discover Fighting Fish Sushi in Richmond, VA$$$Fighting Fish Sushi in
+  Richmond, VA, offers a casual yet inviting spot for enjoying innovative
+  Japanese cuisine that's perfect for sushi enthusiasts. This cozy restaurant
+  features creative twists on traditional dishes, including unique sushi rolls,
+  burritos, and poke bowls, all paired with a selection of beer and cocktails to
+  enhance the meal. With its focus on fresh ingredients and accessible pricing,
+  it's an ideal choice for those seeking top sushi spots in the area, making it
+  easy to find great options when searching for sushi near me. The welcoming
+  atmosphere and thoughtful menu details, such as accessibility features, ensure
+  a comfortable dining experience for everyone. Overall, it's a go-to
+  destination for anyone exploring Japanese places near me that blend quality
+  and creativity.
+generative_summary: >-
+  Discover Fighting Fish Sushi in Richmond, VA$$$Fighting Fish Sushi in
+  Richmond, VA, offers a casual yet inviting spot for enjoying innovative
+  Japanese cuisine that's perfect for sushi enthusiasts. This cozy restaurant
+  features creative twists on traditional dishes, including unique sushi rolls,
+  burritos, and poke bowls, all paired with a selection of beer and cocktails to
+  enhance the meal. With its focus on fresh ingredients and accessible pricing,
+  it's an ideal choice for those seeking top sushi spots in the area, making it
+  easy to find great options when searching for sushi near me. The welcoming
+  atmosphere and thoughtful menu details, such as accessibility features, ensure
+  a comfortable dining experience for everyone. Overall, it's a go-to
+  destination for anyone exploring Japanese places near me that blend quality
+  and creativity.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJJ10HqaoWsYkRxsycXWo2zVo/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3a00zY0hnEAE
@@ -363,6 +388,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURuOHNleEdnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURuOHNleEdnEAE!2m1!1s0x89b116aaa9075d27:0x5acd366a5d9cccc6
+review_summary: >-
+  What People Love About This Sushi Gem$$$Visitors often rave about the fresh
+  and flavorful sushi options at this spot, with many highlighting creative
+  rolls and bowls that deliver a satisfying mix of tastes and textures. While
+  some note occasional waits for service, the overall experience shines through
+  friendly staff and solid value, especially during happy hour deals that keep
+  things affordable and fun. Folks appreciate the high-quality fish and
+  inventive dishes like sushi burritos, making it a standout for anyone hunting
+  for the best sushi near me. The lively vibe adds to the appeal, creating a
+  relaxed setting that's great for casual outings or groups. In summary, it's a
+  reliable choice that earns high marks for its tasty offerings and welcoming
+  feel, encouraging repeat visits for sushi lovers in the neighborhood.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeStreetParking: true
   valetParking: false
@@ -394,8 +432,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   A menu with creative takes on Japanese sushi (bowls, burritos, & rolls) in a
   cozy, casual space.
 

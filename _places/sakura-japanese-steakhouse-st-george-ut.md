@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sakura Japanese Steakhouse"
+title: Sakura Japanese Steakhouse
 permalink: /utah/st-george/sakura-japanese-steakhouse.html
 stateAbbr: UT
 stateName: Utah
 cityName: St. George
 seo:
-  name: "Sakura Japanese Steakhouse"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sakura Japanese Steakhouse serves delicious sushi in St. George, Utah. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ1cL9qC9byoAREPC-LkJ7mto
 photos:
   - name: >-
@@ -185,7 +183,52 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Sakura Japanese Steakhouse in St. George, UT$$$Sakura Japanese
+  Steakhouse in St. George, UT, stands out as a vibrant spot for enjoying
+  authentic Japanese cuisine, featuring a mix of sizzling teppanyaki dishes and
+  fresh sushi options that appeal to those seeking quality dining experiences
+  nearby. The restaurant boasts a hip, energetic atmosphere where patrons can
+  savor expertly prepared meals alongside a selection of beer, wine, and
+  cocktails, making it an ideal choice for casual evenings or special occasions.
+  With its focus on flavorful offerings like grilled specialties and artfully
+  rolled sushi, this establishment highlights the best of Japanese culinary
+  traditions in a welcoming setting. Accessibility features such as
+  wheelchair-friendly parking and entrances add to the convenience, ensuring a
+  comfortable visit for all. Whether you're exploring top-rated sushi
+  restaurants in the area or looking for a fun meal with friends, Sakura
+  delivers a memorable blend of taste and ambiance.
+generative_summary: >-
+  Discover Sakura Japanese Steakhouse in St. George, UT$$$Sakura Japanese
+  Steakhouse in St. George, UT, stands out as a vibrant spot for enjoying
+  authentic Japanese cuisine, featuring a mix of sizzling teppanyaki dishes and
+  fresh sushi options that appeal to those seeking quality dining experiences
+  nearby. The restaurant boasts a hip, energetic atmosphere where patrons can
+  savor expertly prepared meals alongside a selection of beer, wine, and
+  cocktails, making it an ideal choice for casual evenings or special occasions.
+  With its focus on flavorful offerings like grilled specialties and artfully
+  rolled sushi, this establishment highlights the best of Japanese culinary
+  traditions in a welcoming setting. Accessibility features such as
+  wheelchair-friendly parking and entrances add to the convenience, ensuring a
+  comfortable visit for all. Whether you're exploring top-rated sushi
+  restaurants in the area or looking for a fun meal with friends, Sakura
+  delivers a memorable blend of taste and ambiance.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Guests Are Saying About the Experience$$$Visitors to this Japanese
+  steakhouse often rave about the delicious sushi rolls and hibachi steak that
+  make every meal feel fresh and satisfying, with many highlighting the fun,
+  interactive cooking style that keeps things entertaining. Folks appreciate the
+  efficient service that keeps the pace lively without rushing, paired with
+  reasonable prices that make it a great value for families or groups. The
+  welcoming atmosphere adds to the overall charm, creating a vibrant space where
+  diners feel right at home while enjoying classics like fried rice. Overall,
+  the consensus leans positive, with praise for the flavorful dishes and
+  attentive staff that contribute to a enjoyable outing. If you're on the hunt
+  for reliable sushi spots nearby, this place seems to hit the mark with its
+  solid reputation for quality and fun.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +254,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

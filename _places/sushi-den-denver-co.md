@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Den"
+title: Sushi Den
 permalink: /colorado/denver/sushi-den.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Denver
 seo:
-  name: "Sushi Den"
-  type: Restaurant
+  type: restaurant
   links: http://www.sushiden.net/
-description: "Sushi Den serves delicious sushi in Denver, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJL2TJFlJ-bIcRENgfRp3uELQ
 photos:
   - name: >-
@@ -170,7 +168,105 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x876c7e5216c9642f:0xb410ee9d461fd810!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 15
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 14
+        minute: 0
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 16
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 2:00 PM, 5:00 – 9:30 PM'
     - 'Tuesday: 11:30 AM – 2:00 PM, 5:00 – 9:30 PM'
     - 'Wednesday: 11:30 AM – 2:00 PM, 5:00 – 9:30 PM'
@@ -178,28 +274,169 @@ opening_hours:
     - 'Friday: 11:30 AM – 2:00 PM, 4:30 – 10:00 PM'
     - 'Saturday: 4:30 – 10:00 PM'
     - 'Sunday: 5:00 – 9:15 PM'
-  current:
-    - 'Monday: 11:30 AM – 2:00 PM, 5:00 – 9:30 PM'
-    - 'Tuesday: 11:30 AM – 2:00 PM, 5:00 – 9:30 PM'
-    - 'Wednesday: 11:30 AM – 2:00 PM, 5:00 – 9:30 PM'
-    - 'Thursday: 11:30 AM – 2:00 PM, 5:00 – 9:30 PM'
-    - 'Friday: 11:30 AM – 2:00 PM, 4:30 – 10:00 PM'
-    - 'Saturday: 4:30 – 10:00 PM'
-    - 'Sunday: 5:00 – 9:15 PM'
+  nextOpenTime: '2025-05-03T22:30:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: false
+    periods:
+      - open:
+          day: 0
+          hour: 16
+          minute: 30
+        close:
+          day: 0
+          hour: 20
+          minute: 30
+      - open:
+          day: 1
+          hour: 17
+          minute: 0
+        close:
+          day: 1
+          hour: 20
+          minute: 30
+      - open:
+          day: 2
+          hour: 17
+          minute: 0
+        close:
+          day: 2
+          hour: 20
+          minute: 30
+      - open:
+          day: 3
+          hour: 17
+          minute: 0
+        close:
+          day: 3
+          hour: 20
+          minute: 30
+      - open:
+          day: 4
+          hour: 17
+          minute: 0
+        close:
+          day: 4
+          hour: 20
+          minute: 30
+      - open:
+          day: 5
+          hour: 16
+          minute: 30
+        close:
+          day: 5
+          hour: 21
+          minute: 30
+      - open:
+          day: 6
+          hour: 16
+          minute: 30
+        close:
+          day: 6
+          hour: 21
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 5:00 – 8:30 PM'
+      - 'Tuesday: 5:00 – 8:30 PM'
+      - 'Wednesday: 5:00 – 8:30 PM'
+      - 'Thursday: 5:00 – 8:30 PM'
+      - 'Friday: 4:30 – 9:30 PM'
+      - 'Saturday: 4:30 – 9:30 PM'
+      - 'Sunday: 4:30 – 8:30 PM'
+    secondaryHoursType: TAKEOUT
+    nextOpenTime: '2025-05-03T22:30:00Z'
+  - openNow: false
+    periods:
+      - open:
+          day: 1
+          hour: 11
+          minute: 30
+        close:
+          day: 1
+          hour: 14
+          minute: 0
+      - open:
+          day: 2
+          hour: 11
+          minute: 30
+        close:
+          day: 2
+          hour: 14
+          minute: 0
+      - open:
+          day: 3
+          hour: 11
+          minute: 30
+        close:
+          day: 3
+          hour: 14
+          minute: 0
+      - open:
+          day: 4
+          hour: 11
+          minute: 30
+        close:
+          day: 4
+          hour: 14
+          minute: 0
+      - open:
+          day: 5
+          hour: 11
+          minute: 30
+        close:
+          day: 5
+          hour: 14
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 11:30 AM – 2:00 PM'
+      - 'Tuesday: 11:30 AM – 2:00 PM'
+      - 'Wednesday: 11:30 AM – 2:00 PM'
+      - 'Thursday: 11:30 AM – 2:00 PM'
+      - 'Friday: 11:30 AM – 2:00 PM'
+      - 'Saturday: Closed'
+      - 'Sunday: Closed'
+    secondaryHoursType: LUNCH
+    nextOpenTime: '2025-05-05T17:30:00Z'
 phone: (303) 777-0826
 price_level: PRICE_LEVEL_EXPENSIVE
 price_range: $50 &ndash; $100
 rating: '4.7'
-rating_count: 0
+rating_count: 4785
 website: http://www.sushiden.net/
+description: >-
+  Discover Sushi Den in Denver, CO$$$Sushi Den in Denver, CO, stands out as a
+  top spot for authentic Japanese cuisine, drawing in locals and visitors with
+  its commitment to fresh, high-quality ingredients. This vibrant restaurant
+  features fish flown in daily from Japan's renowned markets, paired with an
+  impressive selection of sake that enhances the dining experience. The space is
+  designed for comfort and accessibility, including wheelchair-friendly parking,
+  entrances, restrooms, and seating, making it welcoming for all guests seeking
+  Japanese flavors near the city. Its lively atmosphere and carefully curated
+  menu make it a go-to choice for those exploring sushi options in the area,
+  with options that cater to various tastes and preferences.
+generative_summary: >-
+  Discover Sushi Den in Denver, CO$$$Sushi Den in Denver, CO, stands out as a
+  top spot for authentic Japanese cuisine, drawing in locals and visitors with
+  its commitment to fresh, high-quality ingredients. This vibrant restaurant
+  features fish flown in daily from Japan's renowned markets, paired with an
+  impressive selection of sake that enhances the dining experience. The space is
+  designed for comfort and accessibility, including wheelchair-friendly parking,
+  entrances, restrooms, and seating, making it welcoming for all guests seeking
+  Japanese flavors near the city. Its lively atmosphere and carefully curated
+  menu make it a go-to choice for those exploring sushi options in the area,
+  with options that cater to various tastes and preferences.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Patrons Are Saying About the Reviews$$$Folks rave about the fresh fish at
+  this sushi spot, often highlighting how the daily imports from Japan bring an
+  authentic touch to every bite. Popular dishes like nigiri and wagyu beef rolls
+  get plenty of nods for their quality and flavor, while the lobster tempura
+  stands out as a must-try favorite. Reviewers appreciate the attentive service
+  and upbeat vibe that make meals feel special, along with the wide range of
+  sake that adds to the fun. Overall, it's clear that this place delivers a
+  solid experience for anyone looking for reliable Japanese dining, keeping
+  things enjoyable without any major letdowns.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +462,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

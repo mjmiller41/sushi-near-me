@@ -5,4 +5,5 @@ permalink: /california/fremont/
 stateAbbr: CA
 stateName: California
 cityName: Fremont
+
 ---

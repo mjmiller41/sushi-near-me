@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Miyako Steakhouse and Sushi"
+title: Miyako Steakhouse and Sushi
 permalink: /kentucky/crescent-springs/miyako-steakhouse-and-sushi.html
 stateAbbr: KY
 stateName: Kentucky
 cityName: Crescent Springs
 seo:
-  name: "Miyako Steakhouse and Sushi"
-  type: Restaurant
-  links: null
-description: "Miyako Steakhouse and Sushi serves delicious sushi in Crescent Springs, Kentucky. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.miyako2511.com/
 place_id: ChIJB8w9p5e3QYgRvStO5ZzVsq0
 photos:
   - name: >-
@@ -170,8 +168,113 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8841b797a73dcc07:0xadb2d59ce54e2bbd!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 2:30 PM, 4:30 – 10:00 PM'
+    - 'Tuesday: 11:00 AM – 2:30 PM, 4:30 – 10:00 PM'
+    - 'Wednesday: 11:00 AM – 2:30 PM, 4:30 – 10:00 PM'
+    - 'Thursday: 11:00 AM – 2:30 PM, 4:30 – 10:00 PM'
+    - 'Friday: 11:00 AM – 2:30 PM, 4:30 – 11:00 PM'
+    - 'Saturday: 11:30 AM – 11:00 PM'
+    - 'Sunday: 12:00 – 9:30 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +282,54 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (859) 578-0031
+price_level: PRICE_LEVEL_EXPENSIVE
+price_range: $20 &ndash; $30
+rating: '4.3'
+rating_count: 1206
+website: http://www.miyako2511.com/
+description: >-
+  Discover Miyako Steakhouse and Sushi in Crescent Springs, KY$$$Miyako
+  Steakhouse and Sushi in Crescent Springs, KY, stands out as a welcoming spot
+  for enjoying fresh sushi and interactive hibachi dining, blending casual vibes
+  with flavorful Japanese-inspired cuisine. This establishment offers an
+  engaging experience where meals are prepared right in front of you, making it
+  ideal for those seeking top-rated sushi restaurants in the area. With a full
+  bar to complement your meal, it's a great choice for relaxed evenings or quick
+  lunches, appealing to anyone exploring sushi places near me. Accessibility
+  features ensure everyone can enjoy the lively atmosphere, from
+  wheelchair-friendly entrances to seating options. Operating with flexible
+  hours, including evenings and weekends, it caters to both families and groups
+  looking for authentic Japanese flavors close to home.
+generative_summary: >-
+  Discover Miyako Steakhouse and Sushi in Crescent Springs, KY$$$Miyako
+  Steakhouse and Sushi in Crescent Springs, KY, stands out as a welcoming spot
+  for enjoying fresh sushi and interactive hibachi dining, blending casual vibes
+  with flavorful Japanese-inspired cuisine. This establishment offers an
+  engaging experience where meals are prepared right in front of you, making it
+  ideal for those seeking top-rated sushi restaurants in the area. With a full
+  bar to complement your meal, it's a great choice for relaxed evenings or quick
+  lunches, appealing to anyone exploring sushi places near me. Accessibility
+  features ensure everyone can enjoy the lively atmosphere, from
+  wheelchair-friendly entrances to seating options. Operating with flexible
+  hours, including evenings and weekends, it caters to both families and groups
+  looking for authentic Japanese flavors close to home.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About Miyako$$$Visitors to this sushi spot often
+  highlight the fresh, high-quality rolls and the entertaining hibachi shows
+  that keep things fun and engaging, making it a favorite among local sushi
+  enthusiasts. Many appreciate the solid value for the price, with meals that
+  satisfy without breaking the bank, earning it praise as one of the best sushi
+  restaurants near me. Feedback frequently mentions the friendly service and
+  welcoming environment, helping it maintain a strong reputation in the
+  community. While some note occasional waits during peak times, the overall
+  experience leaves people excited to return for more. If you're on the hunt for
+  top-rated sushi close to you, this place delivers a reliably enjoyable vibe
+  that keeps diners coming back for the authentic tastes and lively
+  presentations.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +355,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

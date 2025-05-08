@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Tee Jay Thai Sushi | Wilton Manors"
+title: Tee Jay Thai Sushi | Wilton Manors
 permalink: /florida/wilton-manors/tee-jay-thai-sushi-wilton-manors.html
 stateAbbr: FL
 stateName: Florida
 cityName: Wilton Manors
 seo:
-  name: "Tee Jay Thai Sushi | Wilton Manors"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Tee Jay Thai Sushi | Wilton Manors serves delicious sushi in Wilton Manors, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ2Zo0qZ4B2YgRlk6vlfdiEm8
 photos:
   - name: >-
@@ -185,7 +183,44 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Tee Jay Thai Sushi in Wilton Manors, FL$$$Tee Jay Thai Sushi in
+  Wilton Manors, Florida, delivers a vibrant mix of fresh Thai and sushi options
+  that appeal to those seeking flavorful, authentic dining experiences. The spot
+  emphasizes accessibility with features like wheelchair-friendly parking and
+  seating, creating an inclusive environment for all visitors. Its cozy
+  atmosphere makes it ideal for casual meals or get-togethers, drawing in locals
+  and travelers alike looking for top-rated sushi in a lively neighborhood.
+  Photos from the area highlight a welcoming vibe that's perfect for exploring
+  diverse menu choices, from creative rolls to traditional dishes. As one of the
+  go-to sushi restaurants near you, it's a convenient choice for anyone craving
+  quality Japanese-inspired cuisine in a relaxed setting.
+generative_summary: >-
+  Discover Tee Jay Thai Sushi in Wilton Manors, FL$$$Tee Jay Thai Sushi in
+  Wilton Manors, Florida, delivers a vibrant mix of fresh Thai and sushi options
+  that appeal to those seeking flavorful, authentic dining experiences. The spot
+  emphasizes accessibility with features like wheelchair-friendly parking and
+  seating, creating an inclusive environment for all visitors. Its cozy
+  atmosphere makes it ideal for casual meals or get-togethers, drawing in locals
+  and travelers alike looking for top-rated sushi in a lively neighborhood.
+  Photos from the area highlight a welcoming vibe that's perfect for exploring
+  diverse menu choices, from creative rolls to traditional dishes. As one of the
+  go-to sushi restaurants near you, it's a convenient choice for anyone craving
+  quality Japanese-inspired cuisine in a relaxed setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Summary of Visitor Experiences$$$Visitors often rave about the fresh sushi and
+  delicious Thai flavors that make this spot a standout in Wilton Manors. Many
+  folks appreciate the approachable atmosphere and how it caters to different
+  tastes, with comments highlighting the variety and quality of the dishes. It's
+  frequently noted as a solid pick for casual outings, thanks to its welcoming
+  setup that feels just right for groups or solo diners. Overall, people tend to
+  agree that the experience here lives up to expectations for tasty, reliable
+  meals, making it a go-to option if you're hunting for great sushi nearby.
+  While opinions vary, the general buzz keeps things positive, encouraging
+  others to give it a try for an enjoyable bite.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +246,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

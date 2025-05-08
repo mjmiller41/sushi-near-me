@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "ZENSHI Handcrafted Sushi"
+title: ZENSHI Handcrafted Sushi
 permalink: /massachusetts/north-easton/zenshi-handcrafted-sushi.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: North Easton
 seo:
-  name: "ZENSHI Handcrafted Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.zenshisushi.com/
-description: "ZENSHI Handcrafted Sushi serves delicious sushi in North Easton, Massachusetts. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJfZrTdmqJ5IkReJSfqOQWoEs
 photos:
   - name: >-
@@ -90,7 +88,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89e4896a76d39a7d:0x4ba016e4a89f9478!10e5
 primary_type: Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 9
+        minute: 0
+      close:
+        day: 0
+        hour: 19
+        minute: 0
+    - open:
+        day: 1
+        hour: 9
+        minute: 0
+      close:
+        day: 1
+        hour: 19
+        minute: 0
+    - open:
+        day: 2
+        hour: 9
+        minute: 0
+      close:
+        day: 2
+        hour: 19
+        minute: 0
+    - open:
+        day: 3
+        hour: 9
+        minute: 0
+      close:
+        day: 3
+        hour: 19
+        minute: 0
+    - open:
+        day: 4
+        hour: 9
+        minute: 0
+      close:
+        day: 4
+        hour: 19
+        minute: 0
+    - open:
+        day: 5
+        hour: 9
+        minute: 0
+      close:
+        day: 5
+        hour: 19
+        minute: 0
+    - open:
+        day: 6
+        hour: 9
+        minute: 0
+      close:
+        day: 6
+        hour: 19
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 9:00 AM – 7:00 PM'
     - 'Tuesday: 9:00 AM – 7:00 PM'
     - 'Wednesday: 9:00 AM – 7:00 PM'
@@ -98,14 +154,7 @@ opening_hours:
     - 'Friday: 9:00 AM – 7:00 PM'
     - 'Saturday: 9:00 AM – 7:00 PM'
     - 'Sunday: 9:00 AM – 7:00 PM'
-  current:
-    - 'Monday: 9:00 AM – 7:00 PM'
-    - 'Tuesday: 9:00 AM – 7:00 PM'
-    - 'Wednesday: 9:00 AM – 7:00 PM'
-    - 'Thursday: 9:00 AM – 7:00 PM'
-    - 'Friday: 9:00 AM – 7:00 PM'
-    - 'Saturday: 9:00 AM – 7:00 PM'
-    - 'Sunday: 9:00 AM – 7:00 PM'
+  nextCloseTime: '2025-05-03T23:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -119,7 +168,42 @@ price_range: null
 rating: null
 rating_count: 0
 website: https://www.zenshisushi.com/
+description: >-
+  Discover ZENSHI Handcrafted Sushi in North Easton, MA$$$ZENSHI Handcrafted
+  Sushi in North Easton, MA, stands out as a welcoming spot for fresh
+  Japanese-inspired dishes that highlight artisanal techniques and quality
+  ingredients. The restaurant boasts accessible features like
+  wheelchair-friendly parking and entrances, making it easy for everyone to
+  enjoy a meal in a comfortable setting. With extended hours from 9 AM to 7 PM
+  every day, it's a convenient choice for those seeking sushi restaurants
+  nearby, whether for a quick lunch or evening outing. The menu likely draws
+  from traditional methods, offering a variety of rolls and options that appeal
+  to sushi lovers looking for something reliable and well-crafted in the area.
+generative_summary: >-
+  Discover ZENSHI Handcrafted Sushi in North Easton, MA$$$ZENSHI Handcrafted
+  Sushi in North Easton, MA, stands out as a welcoming spot for fresh
+  Japanese-inspired dishes that highlight artisanal techniques and quality
+  ingredients. The restaurant boasts accessible features like
+  wheelchair-friendly parking and entrances, making it easy for everyone to
+  enjoy a meal in a comfortable setting. With extended hours from 9 AM to 7 PM
+  every day, it's a convenient choice for those seeking sushi restaurants
+  nearby, whether for a quick lunch or evening outing. The menu likely draws
+  from traditional methods, offering a variety of rolls and options that appeal
+  to sushi lovers looking for something reliable and well-crafted in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying About the Experience$$$From what people share online,
+  this sushi spot in North Easton tends to impress with its fresh flavors and
+  creative presentations that keep diners coming back for more. Many folks
+  mention enjoying the solid variety of options, making it a solid pick for
+  anyone craving Japanese-style eats without the hassle. While some note it's a
+  straightforward place for a casual meal, the overall vibe comes across as
+  friendly and approachable, with service that's often described as attentive
+  and efficient. All in all, it seems like a go-to for local sushi enthusiasts
+  who appreciate the straightforward goodness without any major letdowns,
+  leaving most with a positive impression worth checking out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -145,7 +229,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

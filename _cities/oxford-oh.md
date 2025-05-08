@@ -5,4 +5,5 @@ permalink: /ohio/oxford/
 stateAbbr: OH
 stateName: Ohio
 cityName: Oxford
+
 ---

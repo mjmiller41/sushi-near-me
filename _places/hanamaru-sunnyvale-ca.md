@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Hanamaru"
+title: Hanamaru
 permalink: /california/sunnyvale/hanamaru.html
 stateAbbr: CA
 stateName: California
 cityName: Sunnyvale
 seo:
-  name: "Hanamaru"
-  type: Restaurant
+  type: restaurant
   links: https://gohanamaru.com/?utm_source=google
-description: "Casual Japanese outfit in a strip center offers a lengthy list of specialty sushi rolls. Hanamaru serves delicious sushi in Sunnyvale, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ2_drFum2j4ARdQ3ok0PiRrw
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $20 &ndash; $30
 rating: '4.2'
 rating_count: 0
 website: https://gohanamaru.com/?utm_source=google
+description: >-
+  Discover Hanamaru in Sunnyvale, CA$$$Nestled in Sunnyvale, CA, Hanamaru stands
+  out as a casual Japanese eatery offering an array of fresh sushi and other
+  authentic fare, perfect for those searching for sushi restaurants nearby. This
+  spot in the Cherry Chase Shopping Center features a welcoming atmosphere with
+  accessible options like wheelchair-friendly entrances and parking, making it
+  easy for everyone to enjoy a meal. Diners can savor a variety of specialty
+  rolls and Japanese dishes, emphasizing quality ingredients in a moderately
+  priced setting that caters to both takeout and dine-in preferences. The menu
+  highlights vegetarian options and outdoor seating, ideal for a relaxed lunch
+  or dinner when exploring top-rated sushi places in the area. With its focus on
+  accessibility and diverse offerings, it's a go-to choice for anyone craving
+  Japanese cuisine close to home.
+generative_summary: >-
+  Discover Hanamaru in Sunnyvale, CA$$$Nestled in Sunnyvale, CA, Hanamaru stands
+  out as a casual Japanese eatery offering an array of fresh sushi and other
+  authentic fare, perfect for those searching for sushi restaurants nearby. This
+  spot in the Cherry Chase Shopping Center features a welcoming atmosphere with
+  accessible options like wheelchair-friendly entrances and parking, making it
+  easy for everyone to enjoy a meal. Diners can savor a variety of specialty
+  rolls and Japanese dishes, emphasizing quality ingredients in a moderately
+  priced setting that caters to both takeout and dine-in preferences. The menu
+  highlights vegetarian options and outdoor seating, ideal for a relaxed lunch
+  or dinner when exploring top-rated sushi places in the area. With its focus on
+  accessibility and diverse offerings, it's a go-to choice for anyone craving
+  Japanese cuisine close to home.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ2_drFum2j4ARdQ3ok0PiRrw/reviews/ChdDSUhNMG9nS0VJQ0FnSUR2cUx6TzNnRRAB
@@ -386,6 +411,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUM5MUtmMnRRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUM5MUtmMnRRRRAB!2m1!1s0x808fb6e9166bf7db:0xbc46e24393e80d75
+review_summary: >-
+  What Customers Are Saying About This Spot$$$Visitors often appreciate the
+  friendly service and tasty appetizers at this Sunnyvale sushi restaurant, with
+  many highlighting enjoyable meals like fresh tempura and flavorful rolls that
+  hit the spot. While some folks note that certain dishes can vary in freshness
+  and might feel a bit pricey, the overall experience is frequently praised for
+  its welcoming vibe and quick delivery options. A few mentions point to
+  occasional waits or inconsistencies in food preparation, but positives like
+  generous portions and great appetizers keep the feedback upbeat. In general,
+  it's a solid pick for casual sushi lovers looking for reliable spots nearby,
+  as long as expectations are set for a straightforward, no-fuss outing. Despite
+  mixed experiences, the welcoming staff and standout items make it worth trying
+  for anyone in the mood for local Japanese eats.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -418,8 +457,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Casual Japanese outfit in a strip center offers a lengthy list of specialty
   sushi rolls.
 

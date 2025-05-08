@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Akimi"
+title: Akimi
 permalink: /texas/houston/akimi.html
 stateAbbr: TX
 stateName: Texas
 cityName: Houston
 seo:
-  name: "Akimi"
-  type: Restaurant
+  type: restaurant
   links: http://akimisushi.godaddysites.com/
-description: "Akimi serves delicious sushi in Houston, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJZX6pnQGdQIYRta_8Fipk7_c
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x86409d019da97e65:0xf7ef642a16fcafb5!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:00 AM – 10:00 PM'
     - 'Wednesday: 11:00 AM – 10:00 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:00 PM'
     - 'Saturday: 11:00 AM – 10:00 PM'
     - 'Sunday: 11:00 AM – 10:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:00 AM – 10:00 PM'
-    - 'Wednesday: 11:00 AM – 10:00 PM'
-    - 'Thursday: 11:00 AM – 10:00 PM'
-    - 'Friday: 11:00 AM – 10:00 PM'
-    - 'Saturday: 11:00 AM – 10:00 PM'
-    - 'Sunday: 11:00 AM – 10:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +238,47 @@ phone: (281) 333-1633
 price_level: PRICE_LEVEL_INEXPENSIVE
 price_range: $10 &ndash; $20
 rating: '4.4'
-rating_count: 0
+rating_count: 925
 website: http://akimisushi.godaddysites.com/
+description: >-
+  Explore Akimi in Houston, TX$$$Akimi in Houston, TX, stands out as a welcoming
+  Japanese restaurant that combines casual dining with authentic flavors, making
+  it a go-to spot for those seeking quality sushi and other Asian-inspired
+  dishes. The menu highlights fresh seafood selections and creative rolls,
+  alongside options like pad Thai, all enhanced by appealing happy-hour specials
+  that add value to every visit. With its accessible features such as
+  wheelchair-friendly parking and entrances, the restaurant ensures a
+  comfortable experience for all guests, while its convenient hours from late
+  morning to evening cater to both quick lunches and relaxed dinners. This spot
+  near NASA Parkway embodies a blend of traditional and modern vibes, perfect
+  for anyone exploring top Japanese places in the area.
+generative_summary: >-
+  Explore Akimi in Houston, TX$$$Akimi in Houston, TX, stands out as a welcoming
+  Japanese restaurant that combines casual dining with authentic flavors, making
+  it a go-to spot for those seeking quality sushi and other Asian-inspired
+  dishes. The menu highlights fresh seafood selections and creative rolls,
+  alongside options like pad Thai, all enhanced by appealing happy-hour specials
+  that add value to every visit. With its accessible features such as
+  wheelchair-friendly parking and entrances, the restaurant ensures a
+  comfortable experience for all guests, while its convenient hours from late
+  morning to evening cater to both quick lunches and relaxed dinners. This spot
+  near NASA Parkway embodies a blend of traditional and modern vibes, perfect
+  for anyone exploring top Japanese places in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Visitor Feedback on Akimi$$$Folks chatting about Akimi often rave about the
+  fresh and flavorful sushi rolls that hit the spot without breaking the bank,
+  giving it solid vibes for anyone hunting for reliable eats nearby. Many
+  appreciate the friendly service and cozy atmosphere that make dining out feel
+  effortless and enjoyable, even during busy times. While some mention wait
+  times on popular nights, the overall consensus leans positive with its
+  affordable prices and tasty options drawing in repeat crowds. It's clear that
+  the happy-hour deals and variety of dishes keep things exciting, helping this
+  spot maintain its strong reputation among sushi enthusiasts in the region. If
+  you're on the hunt for solid Japanese fare close to home, Akimi seems to
+  deliver a consistently satisfying experience based on the buzz.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +304,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

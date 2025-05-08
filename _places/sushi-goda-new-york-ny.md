@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Goda"
+title: Sushi Goda
 permalink: /new-york/new-york/sushi-goda.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "Sushi Goda"
-  type: Restaurant
+  type: restaurant
   links: https://www.sushigoda.com/
-description: "Sushi Goda serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJM_t1kYpZwokRfJS9jGe1I04
 photos:
   - name: >-
@@ -183,6 +181,31 @@ price_range: null
 rating: '4.6'
 rating_count: 0
 website: https://www.sushigoda.com/
+description: >-
+  Explore Sushi Goda in New York, NY$$$Sushi Goda in New York, NY, stands out as
+  a premier sushi restaurant offering an elegant dining experience with fresh,
+  high-quality Japanese cuisine that draws in locals and visitors alike. The
+  venue features a stylish atmosphere perfect for intimate meals or group
+  gatherings, complemented by thoughtful touches like wheelchair-accessible
+  entrances and a variety of menu options including brunch specials and
+  cocktails. Diners can enjoy expertly prepared dishes that highlight seasonal
+  ingredients, making it a go-to spot for those seeking authentic flavors in a
+  welcoming setting. With options for reservations and takeout, this
+  establishment combines convenience with culinary excellence, appealing to
+  anyone exploring sushi restaurants in the bustling city.
+generative_summary: >-
+  Explore Sushi Goda in New York, NY$$$Sushi Goda in New York, NY, stands out as
+  a premier sushi restaurant offering an elegant dining experience with fresh,
+  high-quality Japanese cuisine that draws in locals and visitors alike. The
+  venue features a stylish atmosphere perfect for intimate meals or group
+  gatherings, complemented by thoughtful touches like wheelchair-accessible
+  entrances and a variety of menu options including brunch specials and
+  cocktails. Diners can enjoy expertly prepared dishes that highlight seasonal
+  ingredients, making it a go-to spot for those seeking authentic flavors in a
+  welcoming setting. With options for reservations and takeout, this
+  establishment combines convenience with culinary excellence, appealing to
+  anyone exploring sushi restaurants in the bustling city.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJM_t1kYpZwokRfJS9jGe1I04/reviews/ChZDSUhNMG9nS0VJQ0FnTURJZ01EZWR3EAE
@@ -340,6 +363,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUR3Mlk3R1pnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUR3Mlk3R1pnEAE!2m1!1s0x89c2598a9175fb33:0x4e23b5678cbd947c
+review_summary: >-
+  Insights from Recent Reviews$$$Visitors to this popular sushi spot often
+  praise the outstanding omakase offerings and flavorful rolls that leave you
+  feeling satisfied and impressed, with many highlighting the great value for
+  the quality. Folks appreciate the friendly vibe and efficient service that
+  make every meal feel special, whether you're stopping by for a quick bite or a
+  leisurely brunch deal. The atmosphere comes across as cool and inviting,
+  encouraging repeat visits for those hunting for top-rated sushi experiences
+  nearby. Overall, it's clear that the combination of fresh ingredients and
+  attentive staff creates a positive dining memory, though it's always wise to
+  plan ahead for peak times to enjoy the best of what this place has to offer.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidStreetParking: true
 payment_options:
@@ -370,7 +405,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kyodai Sushi"
+title: Kyodai Sushi
 permalink: /california/san-diego/kyodai-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: San Diego
 seo:
-  name: "Kyodai Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.sushikyodai.com/
-description: "Casual strip-mall restaurant offering traditional sushi rolls & standard Japanese dishes. Kyodai Sushi serves delicious sushi in San Diego, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJaSFC2AD624ARrII8rgVXb0Y
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 0
 website: https://www.sushikyodai.com/
+description: >-
+  Discover Kyodai Sushi in San Diego, CA$$$Kyodai Sushi in San Diego, CA, stands
+  out as a casual Japanese restaurant serving fresh sushi rolls, poke bowls, and
+  bento boxes in a welcoming atmosphere. This spot highlights its accessibility
+  features, including wheelchair-friendly parking and seating, making it easy
+  for everyone to enjoy authentic flavors without hassle. Patrons searching for
+  top-rated sushi restaurants near them will appreciate the moderate pricing and
+  convenient location in Carmel Mountain Ranch, paired with options like free
+  parking and a variety of Japanese dishes. Whether you're craving sushi close
+  to you or exploring Japanese places near me, the menu offers a solid selection
+  of traditional favorites that deliver great value. With its efficient service
+  and family-friendly vibe, it's an ideal choice for a relaxed meal that
+  combines quality and convenience.
+generative_summary: >-
+  Discover Kyodai Sushi in San Diego, CA$$$Kyodai Sushi in San Diego, CA, stands
+  out as a casual Japanese restaurant serving fresh sushi rolls, poke bowls, and
+  bento boxes in a welcoming atmosphere. This spot highlights its accessibility
+  features, including wheelchair-friendly parking and seating, making it easy
+  for everyone to enjoy authentic flavors without hassle. Patrons searching for
+  top-rated sushi restaurants near them will appreciate the moderate pricing and
+  convenient location in Carmel Mountain Ranch, paired with options like free
+  parking and a variety of Japanese dishes. Whether you're craving sushi close
+  to you or exploring Japanese places near me, the menu offers a solid selection
+  of traditional favorites that deliver great value. With its efficient service
+  and family-friendly vibe, it's an ideal choice for a relaxed meal that
+  combines quality and convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJaSFC2AD624ARrII8rgVXb0Y/reviews/ChdDSUhNMG9nS0VJQ0FnSUREM3BIenFBRRAB
@@ -342,6 +367,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNCcEszbV9BRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNCcEszbV9BRRAB!2m1!1s0x80dbfa00d8422169:0x466f5705ae3c82ac
+review_summary: >-
+  What Customers Are Buzzing About$$$Visitors to this sushi spot often rave
+  about the fresh, flavorful rolls and quick service that make dining out a
+  breeze, with many highlighting the generous portions and tasty sides like
+  fried rice. Folks appreciate the beautiful decor and friendly atmosphere,
+  perfect for casual dates or group outings, though some note that veggie
+  options in rolls could be more varied. Overall, the experience is praised for
+  fast food delivery and an easy ordering process, making it a go-to for anyone
+  seeking reliable Japanese cuisine without the wait. If you're on the hunt for
+  the best sushi near me, this place delivers solid satisfaction with its
+  affordable prices and welcoming vibe. While not every detail is flawless, the
+  positive feedback keeps the energy upbeat, encouraging repeat visits for lunch
+  or dinner specials.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -373,8 +412,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Casual strip-mall restaurant offering traditional sushi rolls & standard
   Japanese dishes.
 

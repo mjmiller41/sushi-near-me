@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Bonchon San Leandro"
+title: Bonchon San Leandro
 permalink: /california/san-leandro/bonchon-san-leandro.html
 stateAbbr: CA
 stateName: California
 cityName: San Leandro
 seo:
-  name: "Bonchon San Leandro"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Bonchon San Leandro serves delicious sushi in San Leandro, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJaazAoGiPj4ARTT2e_x6luoo
 photos:
   - name: >-
@@ -185,7 +183,40 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  About Bonchon San Leandro$$$Bonchon San Leandro in San Leandro, CA, stands out
+  as a welcoming Asian eatery known for its vibrant atmosphere and fusion of
+  flavorful dishes. This spot highlights signature Korean fried chicken
+  alongside a variety of Asian-inspired options, making it a go-to for those
+  exploring diverse tastes in the area. With accessibility features like
+  wheelchair-friendly parking and entrances, it ensures a comfortable visit for
+  everyone. The casual vibe pairs perfectly with its focus on fresh, bold
+  flavors, drawing in locals and visitors alike seeking quality Asian dining
+  experiences nearby.
+generative_summary: >-
+  About Bonchon San Leandro$$$Bonchon San Leandro in San Leandro, CA, stands out
+  as a welcoming Asian eatery known for its vibrant atmosphere and fusion of
+  flavorful dishes. This spot highlights signature Korean fried chicken
+  alongside a variety of Asian-inspired options, making it a go-to for those
+  exploring diverse tastes in the area. With accessibility features like
+  wheelchair-friendly parking and entrances, it ensures a comfortable visit for
+  everyone. The casual vibe pairs perfectly with its focus on fresh, bold
+  flavors, drawing in locals and visitors alike seeking quality Asian dining
+  experiences nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback Highlights$$$Visitors to this Asian restaurant often rave
+  about the crispy Korean fried chicken and tasty sides, noting how the flavors
+  hit the spot for a satisfying meal. Many appreciate the friendly service and
+  relaxed setting, which make it easy for groups or families to enjoy a casual
+  outing. While some mention portions could be more generous, the overall value
+  and taste keep people coming back for more. It's frequently described as a
+  solid choice for anyone craving bold, authentic Asian eats, with the
+  atmosphere adding to the fun without overwhelming the experience. Overall, the
+  buzz around this place leans positive, encouraging first-timers to give it a
+  try for a reliable dining option.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +242,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

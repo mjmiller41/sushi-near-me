@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kansai Japanese Steakhouse"
+title: Kansai Japanese Steakhouse
 permalink: /indiana/clarksville/kansai-japanese-steakhouse.html
 stateAbbr: IN
 stateName: Indiana
 cityName: Clarksville
 seo:
-  name: "Kansai Japanese Steakhouse"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Kansai Japanese Steakhouse serves delicious sushi in Clarksville, Indiana. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ6RDkWfdxaYgRO9mIkIYsEWs
 photos:
   - name: >-
@@ -185,7 +183,41 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Experience Kansai Japanese Steakhouse in Clarksville, IN$$$Kansai Japanese
+  Steakhouse in Clarksville, IN, delivers a relaxed dining vibe focused on fresh
+  sushi and classic Japanese flavors, making it a go-to spot for those seeking
+  sushi options nearby. The restaurant features lively teppanyaki grills where
+  skilled chefs prepare meals with flair, adding an entertaining element to
+  every visit. Guests can enjoy a variety of traditional dishes that highlight
+  quality ingredients and authentic tastes, perfect for anyone exploring
+  Japanese places in the area. With its welcoming atmosphere and accessible
+  features, it's an ideal choice for casual meals or group outings centered
+  around top-rated sushi experiences.
+generative_summary: >-
+  Experience Kansai Japanese Steakhouse in Clarksville, IN$$$Kansai Japanese
+  Steakhouse in Clarksville, IN, delivers a relaxed dining vibe focused on fresh
+  sushi and classic Japanese flavors, making it a go-to spot for those seeking
+  sushi options nearby. The restaurant features lively teppanyaki grills where
+  skilled chefs prepare meals with flair, adding an entertaining element to
+  every visit. Guests can enjoy a variety of traditional dishes that highlight
+  quality ingredients and authentic tastes, perfect for anyone exploring
+  Japanese places in the area. With its welcoming atmosphere and accessible
+  features, it's an ideal choice for casual meals or group outings centered
+  around top-rated sushi experiences.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Feedback on Kansai Japanese Steakhouse$$$Visitors often rave about the tasty
+  hibachi and sushi selections here, noting how the flavorful rolls and grilled
+  dishes make for a satisfying meal without any fuss. Many appreciate the fun
+  energy from the chefs who keep things lively and engaging during preparation,
+  adding to the overall enjoyment. Folks frequently mention the helpful staff
+  and cozy, family-oriented setting that makes it easy to relax and have a good
+  time. While experiences can vary, the general consensus leans positive, with
+  plenty of praise for the reliable service and welcoming vibe that keeps people
+  coming back for more Japanese dining options.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +243,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

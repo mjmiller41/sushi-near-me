@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Shiku"
+title: Shiku
 permalink: /california/la-jolla/shiku.html
 stateAbbr: CA
 stateName: California
 cityName: La Jolla
 seo:
-  name: "Shiku"
-  type: Restaurant
-  links: null
-description: "Shiku serves delicious sushi in La Jolla, California. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.shikusushibar.com/
 place_id: ChIJtaeyU_wD3IARUSCg9YElD8U
 photos:
   - name: >-
@@ -170,22 +168,167 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80dc03fc53b2a7b5:0xc50f2581f5a02051!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 9
+        minute: 0
+      close:
+        day: 3
+        hour: 17
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:30 AM – 9:00 PM'
+    - 'Tuesday: 11:30 AM – 9:00 PM'
+    - 'Wednesday: 9:00 AM – 5:00 PM'
+    - 'Thursday: 11:30 AM – 9:00 PM'
+    - 'Friday: 11:30 AM – 9:00 PM'
+    - 'Saturday: 11:30 AM – 9:00 PM'
+    - 'Sunday: 11:30 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+  - openNow: false
+    periods:
+      - open:
+          day: 1
+          hour: 15
+          minute: 0
+        close:
+          day: 1
+          hour: 18
+          minute: 0
+      - open:
+          day: 2
+          hour: 15
+          minute: 0
+        close:
+          day: 2
+          hour: 18
+          minute: 0
+      - open:
+          day: 3
+          hour: 15
+          minute: 0
+        close:
+          day: 3
+          hour: 18
+          minute: 0
+      - open:
+          day: 4
+          hour: 15
+          minute: 0
+        close:
+          day: 4
+          hour: 18
+          minute: 0
+      - open:
+          day: 5
+          hour: 15
+          minute: 0
+        close:
+          day: 5
+          hour: 18
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 3:00 – 6:00 PM'
+      - 'Tuesday: 3:00 – 6:00 PM'
+      - 'Wednesday: 3:00 – 6:00 PM'
+      - 'Thursday: 3:00 – 6:00 PM'
+      - 'Friday: 3:00 – 6:00 PM'
+      - 'Saturday: Closed'
+      - 'Sunday: Closed'
+    secondaryHoursType: HAPPY_HOUR
+    nextOpenTime: '2025-05-05T22:00:00Z'
+phone: (858) 456-7118
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.7'
+rating_count: 718
+website: http://www.shikusushibar.com/
+description: >-
+  Explore Shiku in La Jolla, CA$$$Shiku in La Jolla, CA, stands out as a
+  welcoming spot for fresh Japanese-inspired dining, offering a relaxed vibe
+  perfect for enjoying coastal cuisine. This casual eatery specializes in a
+  diverse selection of sushi rolls crafted with high-quality ingredients,
+  complemented by options like sake and creative cocktails that enhance the
+  meal. Accessibility features such as wheelchair-friendly parking and seating
+  make it an inclusive choice for everyone looking to savor authentic flavors in
+  a charming setting. With convenient hours that include evenings and weekends,
+  it's an ideal destination for those seeking top-notch sushi experiences near
+  the oceanfront.
+generative_summary: >-
+  Explore Shiku in La Jolla, CA$$$Shiku in La Jolla, CA, stands out as a
+  welcoming spot for fresh Japanese-inspired dining, offering a relaxed vibe
+  perfect for enjoying coastal cuisine. This casual eatery specializes in a
+  diverse selection of sushi rolls crafted with high-quality ingredients,
+  complemented by options like sake and creative cocktails that enhance the
+  meal. Accessibility features such as wheelchair-friendly parking and seating
+  make it an inclusive choice for everyone looking to savor authentic flavors in
+  a charming setting. With convenient hours that include evenings and weekends,
+  it's an ideal destination for those seeking top-notch sushi experiences near
+  the oceanfront.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback on Shiku$$$Visitors often rave about the fresh and flavorful
+  sushi at this laid-back spot, highlighting tasty options like premium fish
+  varieties and well-prepared Japanese classics that keep things exciting. Folks
+  appreciate the efficient and warm service that makes every visit feel smooth
+  and enjoyable, along with prices that offer great value without skimping on
+  quality. The inviting atmosphere, complete with outdoor seating, adds to the
+  appeal for casual gatherings or solo outings. Overall, it's clear that diners
+  find this place reliably satisfying, making it a solid pick for anyone in the
+  mood for reliable Japanese fare in a friendly environment.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +354,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

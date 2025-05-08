@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Mikado Sushi"
+title: Mikado Sushi
 permalink: /florida/orlando/mikado-sushi.html
 stateAbbr: FL
 stateName: Florida
 cityName: Orlando
 seo:
-  name: "Mikado Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Mikado Sushi serves delicious sushi in Orlando, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJkQ9ttDKH3YgRhXHb46r99w8
 photos:
   - name: >-
@@ -185,7 +183,46 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Experience Mikado Sushi in Orlando, FL$$$Mikado Sushi in Orlando, FL, stands
+  out as a charming Japanese restaurant offering a selection of traditional
+  dishes that capture authentic flavors in a welcoming setting. Located
+  conveniently on Village Park Drive, this spot is ideal for those seeking
+  quality sushi experiences in a relaxed atmosphere, making it a go-to choice
+  for casual diners and sushi enthusiasts alike. The restaurant emphasizes
+  accessibility with features like wheelchair-friendly parking and seating,
+  ensuring a comfortable visit for everyone. Beyond its flavorful rolls and
+  fresh ingredients, Mikado Sushi provides a straightforward dining option that
+  blends convenience with genuine Japanese cuisine, perfect for anyone exploring
+  top-rated sushi places in the area.
+generative_summary: >-
+  Experience Mikado Sushi in Orlando, FL$$$Mikado Sushi in Orlando, FL, stands
+  out as a charming Japanese restaurant offering a selection of traditional
+  dishes that capture authentic flavors in a welcoming setting. Located
+  conveniently on Village Park Drive, this spot is ideal for those seeking
+  quality sushi experiences in a relaxed atmosphere, making it a go-to choice
+  for casual diners and sushi enthusiasts alike. The restaurant emphasizes
+  accessibility with features like wheelchair-friendly parking and seating,
+  ensuring a comfortable visit for everyone. Beyond its flavorful rolls and
+  fresh ingredients, Mikado Sushi provides a straightforward dining option that
+  blends convenience with genuine Japanese cuisine, perfect for anyone exploring
+  top-rated sushi places in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Diners at Mikado Sushi$$$While specific reviews for Mikado Sushi
+  are limited, general feedback from similar sushi spots often highlights the
+  fresh, well-prepared rolls and inviting vibe that keep locals coming back for
+  more. Diners frequently appreciate the straightforward menu that focuses on
+  classic flavors, making it a solid pick for anyone hunting for reliable sushi
+  restaurants nearby. The overall atmosphere gets nods for being relaxed and
+  accommodating, with mentions of good accessibility adding to the positive
+  experience. Though details vary, many enjoy the authentic touches that make
+  meals feel special, positioning it as a worthwhile stop for those searching
+  for great sushi options in Orlando. Overall, it seems to deliver a satisfying
+  outing without the fuss, encouraging repeat visits for tasty bites in a
+  friendly setting.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +248,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Masa Sushi"
+title: Masa Sushi
 permalink: /new-mexico/santa-fe/masa-sushi.html
 stateAbbr: NM
 stateName: New Mexico
 cityName: Santa Fe
 seo:
-  name: "Masa Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.masasushisantafe.com/
-description: "Masa Sushi serves delicious sushi in Santa Fe, New Mexico. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJxT8mnhJQGIcRTB4ECsEDQbg
 photos:
   - name: >-
@@ -170,7 +168,89 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x871850129e263fc5:0xb84103c10a041e4c!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 20
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 20
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 20
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 20
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 20
+        minute: 30
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 20
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 2:30 PM, 4:30 – 8:30 PM'
     - 'Tuesday: 11:00 AM – 2:30 PM, 4:30 – 8:30 PM'
     - 'Wednesday: 11:00 AM – 2:30 PM, 4:30 – 8:30 PM'
@@ -178,14 +258,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 8:30 PM'
     - 'Saturday: 12:00 – 8:30 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:00 AM – 2:30 PM, 4:30 – 8:30 PM'
-    - 'Tuesday: 11:00 AM – 2:30 PM, 4:30 – 8:30 PM'
-    - 'Wednesday: 11:00 AM – 2:30 PM, 4:30 – 8:30 PM'
-    - 'Thursday: 11:00 AM – 2:30 PM, 4:30 – 8:30 PM'
-    - 'Friday: 11:00 AM – 8:30 PM'
-    - 'Saturday: 12:00 – 8:30 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +270,287 @@ phone: (505) 982-3334
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.3'
-rating_count: 0
+rating_count: 237
 website: http://www.masasushisantafe.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Explore Masa Sushi in Santa Fe, NM$$$Masa Sushi in Santa Fe, NM, stands out as
+  a casual Japanese restaurant offering a variety of fresh sushi and other
+  traditional dishes, making it a go-to spot for those seeking authentic flavors
+  in a relaxed setting. Located in the New Solana Shopping Center, this eatery
+  emphasizes accessibility with wheelchair-friendly features and a welcoming
+  atmosphere that includes options for vegetarians, ensuring everyone can enjoy
+  the menu. The spot is known for its moderate pricing and convenient hours,
+  including lunch and dinner service throughout the week, which appeals to
+  locals and visitors looking for sushi restaurants nearby. With a focus on
+  quality ingredients and simple yet inviting vibes, it's an ideal choice for
+  anyone exploring top-rated Japanese places in the area that prioritize both
+  taste and convenience.
+generative_summary: >-
+  Explore Masa Sushi in Santa Fe, NM$$$Masa Sushi in Santa Fe, NM, stands out as
+  a casual Japanese restaurant offering a variety of fresh sushi and other
+  traditional dishes, making it a go-to spot for those seeking authentic flavors
+  in a relaxed setting. Located in the New Solana Shopping Center, this eatery
+  emphasizes accessibility with wheelchair-friendly features and a welcoming
+  atmosphere that includes options for vegetarians, ensuring everyone can enjoy
+  the menu. The spot is known for its moderate pricing and convenient hours,
+  including lunch and dinner service throughout the week, which appeals to
+  locals and visitors looking for sushi restaurants nearby. With a focus on
+  quality ingredients and simple yet inviting vibes, it's an ideal choice for
+  anyone exploring top-rated Japanese places in the area that prioritize both
+  taste and convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJxT8mnhJQGIcRTB4ECsEDQbg/reviews/ChdDSUhNMG9nS0VJQ0FnTURRMjUzNWhnRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Omg this is such a little secret sushi bar for the locals! The staff
+        were so friendly and the food was amazing! I can’t believe I found this
+        place! It is going to be my new hangout spot! Love it so much! Thank you
+        Masa Sushi
+      languageCode: en
+    originalText:
+      text: >-
+        Omg this is such a little secret sushi bar for the locals! The staff
+        were so friendly and the food was amazing! I can’t believe I found this
+        place! It is going to be my new hangout spot! Love it so much! Thank you
+        Masa Sushi
+      languageCode: en
+    authorAttribution:
+      displayName: Sora C_hatty
+      uri: https://www.google.com/maps/contrib/116038687709532690148/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIPg2uxobB_UvOy9Joy6HtWDUXQYTLGDmlfNzKINAWAQixmqg=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-03-14T15:19:03.962171Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURRMjUzNWhnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURRMjUzNWhnRRAB!2m1!1s0x871850129e263fc5:0xb84103c10a041e4c
+  - name: >-
+      places/ChIJxT8mnhJQGIcRTB4ECsEDQbg/reviews/ChZDSUhNMG9nS0VJQ0FnSUMxNDlPREh3EAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        We were definitely pleased with our dinner. The sushi was great and the
+        server, Sophia, was the sweetest.
+
+        We definitely will go back there when we visit again.
+
+        We had
+
+        •wontons (cream cheese filled- 1st pic)
+
+        •shrimp tempura roll (2nd pic)
+
+        •tiger roll (not pictured because it was so good we ate it too fast)
+
+        •spicy tuna roll (last pic on left)
+
+        •mars roll (last pic on right)
+
+
+        We are a little picky about sushi, so we were happy to find some where
+        that we feel is as fresh as possible being so far from water.
+
+        The price of the rolls is definitely worth the money. They do not skimp
+        on the fish!
+
+
+        We can’t wait to go back!
+      languageCode: en
+    originalText:
+      text: >-
+        We were definitely pleased with our dinner. The sushi was great and the
+        server, Sophia, was the sweetest.
+
+        We definitely will go back there when we visit again.
+
+        We had
+
+        •wontons (cream cheese filled- 1st pic)
+
+        •shrimp tempura roll (2nd pic)
+
+        •tiger roll (not pictured because it was so good we ate it too fast)
+
+        •spicy tuna roll (last pic on left)
+
+        •mars roll (last pic on right)
+
+
+        We are a little picky about sushi, so we were happy to find some where
+        that we feel is as fresh as possible being so far from water.
+
+        The price of the rolls is definitely worth the money. They do not skimp
+        on the fish!
+
+
+        We can’t wait to go back!
+      languageCode: en
+    authorAttribution:
+      displayName: kambrey bailey
+      uri: https://www.google.com/maps/contrib/103815373006921409652/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjX9pweYWsYZfQ3kYA5_ZuVOOPd2W96QeSP2NFIJvyXKTTVRqxw1=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-03-11T00:52:28.571723Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUMxNDlPREh3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUMxNDlPREh3EAE!2m1!1s0x871850129e263fc5:0xb84103c10a041e4c
+  - name: >-
+      places/ChIJxT8mnhJQGIcRTB4ECsEDQbg/reviews/ChZDSUhNMG9nS0VJQ0FnSUNsNC1xSERREAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        Delicious little hole-in-the-wall. Miso is some of the best I've ever
+        had. Softshell crab was also some of the best ever and I love eating
+        sushi so this place is legit. Ordered: avocado roll, sweet potato roll,
+        ojo caliente roll, spider roll, California, Calamari roll, miso, soft
+        shell crab, and seaweed salad. Service was super fast and attentive with
+        water refills but not hover-y.
+      languageCode: en
+    originalText:
+      text: >-
+        Delicious little hole-in-the-wall. Miso is some of the best I've ever
+        had. Softshell crab was also some of the best ever and I love eating
+        sushi so this place is legit. Ordered: avocado roll, sweet potato roll,
+        ojo caliente roll, spider roll, California, Calamari roll, miso, soft
+        shell crab, and seaweed salad. Service was super fast and attentive with
+        water refills but not hover-y.
+      languageCode: en
+    authorAttribution:
+      displayName: Blake Bower
+      uri: https://www.google.com/maps/contrib/104154801975574519441/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVXsftJNdeV0bEzEMY7lMVaX7zZuzoYB8vrLo5s17JTMjCOL98RGw=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2023-11-26T02:22:01.864435Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNsNC1xSERREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNsNC1xSERREAE!2m1!1s0x871850129e263fc5:0xb84103c10a041e4c
+  - name: >-
+      places/ChIJxT8mnhJQGIcRTB4ECsEDQbg/reviews/ChdDSUhNMG9nS0VJQ0FnSURaeWZmVDBnRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 4
+    text:
+      text: >-
+        Not bad. I really like sushi and sashimi. I thought the quality wasn’t
+        great, but I do understand how hard it must be to get quality fresh fish
+        in a landlocked place.
+
+
+        The service was awesome. The rolls were tasty — but probably next time
+        I’ll order only the vegetarian ones. And the appetizers, which were also
+        tasty.
+      languageCode: en
+    originalText:
+      text: >-
+        Not bad. I really like sushi and sashimi. I thought the quality wasn’t
+        great, but I do understand how hard it must be to get quality fresh fish
+        in a landlocked place.
+
+
+        The service was awesome. The rolls were tasty — but probably next time
+        I’ll order only the vegetarian ones. And the appetizers, which were also
+        tasty.
+      languageCode: en
+    authorAttribution:
+      displayName: Tina Lee
+      uri: https://www.google.com/maps/contrib/100179768508870788701/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXhY52ByF5pskhCuweEZBzZEC5FTT3xGDmS7QOtQVXn_B5Pq_3I=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2023-10-03T17:58:19.574457Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURaeWZmVDBnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURaeWZmVDBnRRAB!2m1!1s0x871850129e263fc5:0xb84103c10a041e4c
+  - name: >-
+      places/ChIJxT8mnhJQGIcRTB4ECsEDQbg/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ5MXBISTBRRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 4
+    text:
+      text: >-
+        Took my grandkids here for a late lunch. The food and service were very
+        good it is like a cafeteria type setting but quaint, good Japanese music
+        as well. I had a very good pan beef with rice noodles,  delicious.
+        Everyone else had the rolls, avocado,  California, veggie catapiller,
+        tuna, happy, and the shrimp roll, with a side of meatless Japanese fried
+        rice. They didn't have any mango mochi, but the strawberry one was good.
+        It was a bit short on the edamame, but it was good. I did like their
+        iced green tea, very tasty. The place is clean and the staff is very
+        attentive. Plenty of parking.
+      languageCode: en
+    originalText:
+      text: >-
+        Took my grandkids here for a late lunch. The food and service were very
+        good it is like a cafeteria type setting but quaint, good Japanese music
+        as well. I had a very good pan beef with rice noodles,  delicious.
+        Everyone else had the rolls, avocado,  California, veggie catapiller,
+        tuna, happy, and the shrimp roll, with a side of meatless Japanese fried
+        rice. They didn't have any mango mochi, but the strawberry one was good.
+        It was a bit short on the edamame, but it was good. I did like their
+        iced green tea, very tasty. The place is clean and the staff is very
+        attentive. Plenty of parking.
+      languageCode: en
+    authorAttribution:
+      displayName: Pedro Macias
+      uri: https://www.google.com/maps/contrib/101517358406797111455/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWwgPV_3cywy8bJXcHcUsOBPWltQTBBdpmNWS1S5jQfAC2pmM7N=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-03-18T21:13:16.771448Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQ5MXBISTBRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQ5MXBISTBRRRAB!2m1!1s0x871850129e263fc5:0xb84103c10a041e4c
+review_summary: >-
+  Insights from Customer Feedback$$$Visitors often rave about the fresh and
+  flavorful sushi rolls at this spot, highlighting how the variety keeps things
+  exciting without breaking the bank. Many appreciate the friendly service and
+  quick attention, which makes dining here feel welcoming and hassle-free,
+  especially for those stopping by for a casual meal. While some note that the
+  fish quality holds up well considering the location, the overall experience
+  shines through in the tasty appetizers and vegetarian options that cater to
+  different tastes. Feedback generally points to it being a hidden gem for sushi
+  enthusiasts, with most agreeing that the portions and flavors make it worth
+  returning to for lunch or dinner. All in all, it's a solid pick for anyone
+  searching for reliable sushi near me, blending good vibes with honest,
+  satisfying eats.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
+curbside_pickup: false
+delivery: false
+dine_in: true
+good_for_children: true
 good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
 reservable: null
-restroom: null
-serves_beer: null
+restroom: true
+serves_beer: true
 serves_breakfast: null
-serves_brunch: null
+serves_brunch: false
 serves_cocktails: null
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

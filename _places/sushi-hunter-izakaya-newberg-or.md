@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Hunter Izakaya"
+title: Sushi Hunter Izakaya
 permalink: /oregon/newberg/sushi-hunter-izakaya.html
 stateAbbr: OR
 stateName: Oregon
 cityName: Newberg
 seo:
-  name: "Sushi Hunter Izakaya"
-  type: Restaurant
+  type: restaurant
   links: http://www.sushihunternewberg.com/
-description: "Sushi Hunter Izakaya serves delicious sushi in Newberg, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJITfAB3tqlVQRMAcbCnNalak
 photos:
   - name: >-
@@ -170,7 +168,81 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x54956a7b07c03721:0xa9955a730a1b0730!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 15
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:00 AM – 3:00 PM, 4:30 – 9:00 PM'
     - 'Wednesday: 11:00 AM – 3:00 PM, 4:30 – 9:00 PM'
@@ -178,54 +250,339 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:00 PM'
     - 'Saturday: 11:00 AM – 9:00 PM'
     - 'Sunday: 12:00 – 8:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:00 AM – 3:00 PM, 4:30 – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 3:00 PM, 4:30 – 9:00 PM'
-    - 'Thursday: 11:00 AM – 3:00 PM, 4:30 – 9:00 PM'
-    - 'Friday: 11:00 AM – 9:00 PM'
-    - 'Saturday: 11:00 AM – 9:00 PM'
-    - 'Sunday: 12:00 – 8:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: false
+    periods:
+      - open:
+          day: 0
+          hour: 19
+          minute: 30
+        close:
+          day: 0
+          hour: 20
+          minute: 0
+      - open:
+          day: 2
+          hour: 14
+          minute: 30
+        close:
+          day: 2
+          hour: 15
+          minute: 0
+      - open:
+          day: 2
+          hour: 20
+          minute: 30
+        close:
+          day: 2
+          hour: 21
+          minute: 0
+      - open:
+          day: 3
+          hour: 14
+          minute: 30
+        close:
+          day: 3
+          hour: 15
+          minute: 0
+      - open:
+          day: 3
+          hour: 20
+          minute: 30
+        close:
+          day: 3
+          hour: 21
+          minute: 0
+      - open:
+          day: 4
+          hour: 14
+          minute: 30
+        close:
+          day: 4
+          hour: 15
+          minute: 0
+      - open:
+          day: 4
+          hour: 20
+          minute: 30
+        close:
+          day: 4
+          hour: 21
+          minute: 0
+      - open:
+          day: 5
+          hour: 20
+          minute: 30
+        close:
+          day: 5
+          hour: 21
+          minute: 0
+      - open:
+          day: 6
+          hour: 20
+          minute: 30
+        close:
+          day: 6
+          hour: 21
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: Closed'
+      - 'Tuesday: 2:30 – 3:00 PM, 8:30 – 9:00 PM'
+      - 'Wednesday: 2:30 – 3:00 PM, 8:30 – 9:00 PM'
+      - 'Thursday: 2:30 – 3:00 PM, 8:30 – 9:00 PM'
+      - 'Friday: 8:30 – 9:00 PM'
+      - 'Saturday: 8:30 – 9:00 PM'
+      - 'Sunday: 7:30 – 8:00 PM'
+    secondaryHoursType: TAKEOUT
+    nextOpenTime: '2025-05-04T03:30:00Z'
 phone: (971) 281-8911
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.2'
-rating_count: 0
+rating_count: 368
 website: http://www.sushihunternewberg.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Explore Sushi Hunter Izakaya in Newberg, OR$$$Nestled in the heart of Newberg,
+  OR, Sushi Hunter Izakaya stands out as a welcoming spot for Japanese cuisine
+  enthusiasts, blending a casual vibe with an array of fresh sushi options and
+  traditional dishes. This sushi restaurant offers a comfortable atmosphere
+  perfect for enjoying bento boxes, teriyaki favorites, and hearty udon noodles,
+  making it a go-to choice for anyone seeking authentic flavors in a relaxed
+  setting. With its focus on quality ingredients and thoughtful presentation,
+  it's an ideal destination for those exploring top sushi spots nearby, complete
+  with accessibility features like wheelchair-friendly entrances and parking.
+  The menu caters to a variety of tastes, including vegetarian selections, and
+  pairs well with a selection of beverages for a well-rounded dining experience.
+  Whether you're in the mood for a quick lunch or an evening out, this spot
+  delivers on both taste and convenience in the Newberg area.
+generative_summary: >-
+  Explore Sushi Hunter Izakaya in Newberg, OR$$$Nestled in the heart of Newberg,
+  OR, Sushi Hunter Izakaya stands out as a welcoming spot for Japanese cuisine
+  enthusiasts, blending a casual vibe with an array of fresh sushi options and
+  traditional dishes. This sushi restaurant offers a comfortable atmosphere
+  perfect for enjoying bento boxes, teriyaki favorites, and hearty udon noodles,
+  making it a go-to choice for anyone seeking authentic flavors in a relaxed
+  setting. With its focus on quality ingredients and thoughtful presentation,
+  it's an ideal destination for those exploring top sushi spots nearby, complete
+  with accessibility features like wheelchair-friendly entrances and parking.
+  The menu caters to a variety of tastes, including vegetarian selections, and
+  pairs well with a selection of beverages for a well-rounded dining experience.
+  Whether you're in the mood for a quick lunch or an evening out, this spot
+  delivers on both taste and convenience in the Newberg area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJITfAB3tqlVQRMAcbCnNalak/reviews/ChZDSUhNMG9nS0VJQ0FnTUNBXzRfcE5nEAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: |-
+        This is a go to for saki, Sushi and teriyaki dishes.
+        But...
+        A must try is the appetizer Hamichi (yellow tail) collar.
+        For me it's a must have.
+        Absolutely delicious.
+        Did I already tell you they have a LARGE selection of warm or cold saki.
+        Worth the visit if your in the mood for Saki and Hamachi!
+      languageCode: en
+    originalText:
+      text: |-
+        This is a go to for saki, Sushi and teriyaki dishes.
+        But...
+        A must try is the appetizer Hamichi (yellow tail) collar.
+        For me it's a must have.
+        Absolutely delicious.
+        Did I already tell you they have a LARGE selection of warm or cold saki.
+        Worth the visit if your in the mood for Saki and Hamachi!
+      languageCode: en
+    authorAttribution:
+      displayName: C Off
+      uri: https://www.google.com/maps/contrib/110944477913212701809/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUv1AcNyusHtxu1w8y_mrXnNy_MqgKrPoetGU-eW7-WTaFeCnw3=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-02-06T01:22:18.897914Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNBXzRfcE5nEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNBXzRfcE5nEAE!2m1!1s0x54956a7b07c03721:0xa9955a730a1b0730
+  - name: >-
+      places/ChIJITfAB3tqlVQRMAcbCnNalak/reviews/ChZDSUhNMG9nS0VJQ0FnSURqb0tUT1VREAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        We came to Izakaya for dinner seeking some good sushi. Our server Sarah
+        was friendly and smiled when she spoke and provided excellent customer
+        service. We ordered some rolls, sashimi, and of course finished with
+        miso soup and did not wait for long before they delivered. The flavors
+        and portions were excellent. The prices could have been slightly more
+        modest. The atmosphere and decor was very calming and tasteful. Overall
+        great experience, and we will be returning soon.
+      languageCode: en
+    originalText:
+      text: >-
+        We came to Izakaya for dinner seeking some good sushi. Our server Sarah
+        was friendly and smiled when she spoke and provided excellent customer
+        service. We ordered some rolls, sashimi, and of course finished with
+        miso soup and did not wait for long before they delivered. The flavors
+        and portions were excellent. The prices could have been slightly more
+        modest. The atmosphere and decor was very calming and tasteful. Overall
+        great experience, and we will be returning soon.
+      languageCode: en
+    authorAttribution:
+      displayName: Ali Hamzah
+      uri: https://www.google.com/maps/contrib/113225130619316999950/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWaR7ubf0RuQCDluzhdlultloGHffCkRMKuFsXvbh6zdxdLRp7h=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-04-28T02:32:34.940846Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURqb0tUT1VREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURqb0tUT1VREAE!2m1!1s0x54956a7b07c03721:0xa9955a730a1b0730
+  - name: >-
+      places/ChIJITfAB3tqlVQRMAcbCnNalak/reviews/ChZDSUhNMG9nS0VJQ0FnSUNJOHZmRE1nEAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        Great selection of sushi, Japanese appetizers, main dishes, ramen, etc.
+        Prices are very good and overall quality is much better than other
+        Japanese restaurants in the area.
+      languageCode: en
+    originalText:
+      text: >-
+        Great selection of sushi, Japanese appetizers, main dishes, ramen, etc.
+        Prices are very good and overall quality is much better than other
+        Japanese restaurants in the area.
+      languageCode: en
+    authorAttribution:
+      displayName: Janice Wenrich
+      uri: https://www.google.com/maps/contrib/113950334915947944868/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLE0Pew9y_uf3ENs4Xo9nuFcrFjpeAMnJ9EQgFpGQZlOAE1LQ=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2025-01-03T21:20:53.419245Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNJOHZmRE1nEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNJOHZmRE1nEAE!2m1!1s0x54956a7b07c03721:0xa9955a730a1b0730
+  - name: >-
+      places/ChIJITfAB3tqlVQRMAcbCnNalak/reviews/ChZDSUhNMG9nS0VJQ0FnSUMzME9EU0FREAE
+    relativePublishTimeDescription: 6 months ago
+    rating: 5
+    text:
+      text: >-
+        This is our families absolute favorite place to eat.  The food is always
+        fresh and amazing, the ambiance is very relaxing and plesant.  The staff
+        is very polite, attentive, and has never left us waiting.  All of the
+        food we have enjoyed here has always been put together beautifully with
+        care.  My daughter wishes we were able to leave 100 stars instead of
+        only 5.  Definitely go it's worth it.
+      languageCode: en
+    originalText:
+      text: >-
+        This is our families absolute favorite place to eat.  The food is always
+        fresh and amazing, the ambiance is very relaxing and plesant.  The staff
+        is very polite, attentive, and has never left us waiting.  All of the
+        food we have enjoyed here has always been put together beautifully with
+        care.  My daughter wishes we were able to leave 100 stars instead of
+        only 5.  Definitely go it's worth it.
+      languageCode: en
+    authorAttribution:
+      displayName: Jessi Rutherford
+      uri: https://www.google.com/maps/contrib/104888199843305823704/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUoh9n5Q2u1uAZUu-GXGy4-7BHu7rxLJp5NIrZ0fTmw5dPB0mo=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-11-02T00:36:10.851140Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUMzME9EU0FREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUMzME9EU0FREAE!2m1!1s0x54956a7b07c03721:0xa9955a730a1b0730
+  - name: >-
+      places/ChIJITfAB3tqlVQRMAcbCnNalak/reviews/ChZDSUhNMG9nS0VJQ0FnSURPc05lUE5nEAE
+    relativePublishTimeDescription: 2 years ago
+    rating: 5
+    text:
+      text: >-
+        Gerald Front End, Sushi Chef, and 1 cook are amazinly working 💪 very
+        hard to provide diners with quality food. Give them extra patience
+        during the peak rush times, the plates are quality and made with care.
+
+        5 stars 🌟 🌟 🌟 🌟 🌟
+
+        Sushi 🍣 🍣 🍣 🍣 🍣 Delux and Skinny 🥝 Roll was delicious.
+
+        Avocado 🥑 🥗 Salad 🥢🍱🍶
+      languageCode: en
+    originalText:
+      text: >-
+        Gerald Front End, Sushi Chef, and 1 cook are amazinly working 💪 very
+        hard to provide diners with quality food. Give them extra patience
+        during the peak rush times, the plates are quality and made with care.
+
+        5 stars 🌟 🌟 🌟 🌟 🌟
+
+        Sushi 🍣 🍣 🍣 🍣 🍣 Delux and Skinny 🥝 Roll was delicious.
+
+        Avocado 🥑 🥗 Salad 🥢🍱🍶
+      languageCode: en
+    authorAttribution:
+      displayName: Iris Powell
+      uri: https://www.google.com/maps/contrib/110945092970831364654/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUz3Ta3Zdxq_1nJP-sLQ8tR5J_kCl0olsOWFObnvCLmYMqpTySvjQ=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2022-06-25T17:14:38.163500Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURPc05lUE5nEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURPc05lUE5nEAE!2m1!1s0x54956a7b07c03721:0xa9955a730a1b0730
+review_summary: >-
+  What Customers Love About This Local Sushi Gem$$$Visitors often rave about the
+  fresh and flavorful sushi rolls, along with tasty Japanese appetizers and main
+  dishes that make every meal feel special without breaking the bank. Many
+  appreciate the attentive service and relaxing ambiance that enhance the
+  overall enjoyment, turning a simple dinner into a memorable outing. Folks
+  frequently highlight the generous portions and variety of options, including
+  options for families and groups, which add to the appeal for casual
+  get-togethers. While some note that wait times can occur during busy periods,
+  the consensus is that the quality and care in preparation make it well worth
+  the visit for anyone hunting for reliable sushi dining nearby. Overall, this
+  spot maintains a solid reputation for satisfying cravings with honest,
+  delicious fare that keeps people coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
+curbside_pickup: true
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
 serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

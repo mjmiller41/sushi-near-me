@@ -5,4 +5,5 @@ permalink: /texas/odessa/
 stateAbbr: TX
 stateName: Texas
 cityName: Odessa
+
 ---

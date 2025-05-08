@@ -5,4 +5,5 @@ permalink: /north-carolina/goldsboro/
 stateAbbr: NC
 stateName: North Carolina
 cityName: Goldsboro
+
 ---

@@ -5,4 +5,5 @@ permalink: /rhode-island/cranston/
 stateAbbr: RI
 stateName: Rhode Island
 cityName: Cranston
+
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kobe Japanese Steakhouse"
+title: Kobe Japanese Steakhouse
 permalink: /illinois/algonquin/kobe-japanese-steakhouse.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Algonquin
 seo:
-  name: "Kobe Japanese Steakhouse"
-  type: Restaurant
+  type: restaurant
   links: https://eatatkobe.com/
-description: "Kobe Japanese Steakhouse serves delicious sushi in Algonquin, Illinois. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJnY4nTG4SD4gRUsKnep0OB5s
 photos:
   - name: >-
@@ -168,7 +166,113 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x880f126e4c278e9d:0x9b070e9d7aa7c252!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 16
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 15
+        minute: 0
+    - open:
+        day: 6
+        hour: 16
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 2:30 PM, 4:00 – 9:00 PM'
     - 'Tuesday: 11:00 AM – 2:30 PM, 4:00 – 9:00 PM'
     - 'Wednesday: 11:00 AM – 2:30 PM, 4:00 – 9:00 PM'
@@ -176,14 +280,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 2:30 PM, 4:00 – 10:00 PM'
     - 'Saturday: 12:00 – 3:00 PM, 4:00 – 10:00 PM'
     - 'Sunday: 12:00 – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 2:30 PM, 4:00 – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 2:30 PM, 4:00 – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 2:30 PM, 4:00 – 9:00 PM'
-    - 'Thursday: 11:00 AM – 2:30 PM, 4:00 – 9:00 PM'
-    - 'Friday: 11:00 AM – 2:30 PM, 4:00 – 10:00 PM'
-    - 'Saturday: 12:00 – 3:00 PM, 4:00 – 10:00 PM'
-    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -195,9 +292,49 @@ phone: (847) 854-0757
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.2'
-rating_count: 0
+rating_count: 594
 website: https://eatatkobe.com/
+description: >-
+  Discover Kobe Japanese Steakhouse in Algonquin, IL$$$Kobe Japanese Steakhouse
+  in Algonquin, IL, stands out as a lively destination for fans of authentic
+  Japanese flavors, offering a mix of sizzling steak and fresh sushi options
+  that cater to diverse tastes. The eatery features interactive teppanyaki
+  tables where meals are prepared with flair, alongside all-you-can-eat choices
+  that make it ideal for groups or casual outings. With a full bar providing a
+  range of beverages to complement your meal, it's a welcoming spot for those
+  exploring sushi restaurants in the area. Accessibility features like
+  wheelchair-friendly seating ensure everyone can enjoy the experience, adding
+  to its appeal for families and friends. If you're searching for top-rated
+  Japanese places near you, this location delivers a memorable dining vibe with
+  convenient hours to fit any schedule.
+generative_summary: >-
+  Discover Kobe Japanese Steakhouse in Algonquin, IL$$$Kobe Japanese Steakhouse
+  in Algonquin, IL, stands out as a lively destination for fans of authentic
+  Japanese flavors, offering a mix of sizzling steak and fresh sushi options
+  that cater to diverse tastes. The eatery features interactive teppanyaki
+  tables where meals are prepared with flair, alongside all-you-can-eat choices
+  that make it ideal for groups or casual outings. With a full bar providing a
+  range of beverages to complement your meal, it's a welcoming spot for those
+  exploring sushi restaurants in the area. Accessibility features like
+  wheelchair-friendly seating ensure everyone can enjoy the experience, adding
+  to its appeal for families and friends. If you're searching for top-rated
+  Japanese places near you, this location delivers a memorable dining vibe with
+  convenient hours to fit any schedule.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying About Kobe$$$Folks heading to Kobe Japanese
+  Steakhouse often rave about the fresh sushi and flavorful steak dishes that
+  keep things exciting and satisfying. Many appreciate the fun, interactive
+  cooking shows at the tables, which add an entertaining twist to the meal
+  without overwhelming the focus on great food. Comments frequently highlight
+  the solid value from all-you-can-eat options, making it a smart pick for
+  budget-friendly yet quality Japanese dining. While some note minor waits
+  during peak times, the overall atmosphere and friendly service tend to leave a
+  positive impression. If you're on the hunt for reliable sushi spots nearby,
+  this place earns high marks for its consistent flavors and welcoming vibe,
+  based on its strong community feedback.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -223,7 +360,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

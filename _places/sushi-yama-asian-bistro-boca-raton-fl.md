@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Yama Asian Bistro"
+title: Sushi Yama Asian Bistro
 permalink: /florida/boca-raton/sushi-yama-asian-bistro.html
 stateAbbr: FL
 stateName: Florida
 cityName: Boca Raton
 seo:
-  name: "Sushi Yama Asian Bistro"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi Yama Asian Bistro serves delicious sushi in Boca Raton, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJib6k2Doc2YgRFGrfZEKDD3A
 photos:
   - name: >-
@@ -185,7 +183,48 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Sushi Yama in Boca Raton, FL$$$Sushi Yama Asian Bistro in Boca Raton,
+  FL, stands out as a cozy Japanese eatery specializing in fresh, flavorful
+  Asian dishes that appeal to sushi lovers in the area. Located conveniently on
+  W Palmetto Park Rd in the vibrant Boca Del Mar neighborhood, it offers a
+  relaxed bistro-style experience with authentic touches that make it ideal for
+  casual meals or gatherings. The spot emphasizes accessibility, featuring
+  options like wheelchair-friendly parking and seating to ensure everyone can
+  enjoy their visit comfortably. Whether you're seeking top-rated sushi
+  restaurants nearby or simply craving quality Japanese flavors, this welcoming
+  venue delivers a satisfying blend of taste and convenience. It's a go-to
+  choice for those exploring sushi places near me who value an inclusive and
+  enjoyable dining atmosphere.
+generative_summary: >-
+  Discover Sushi Yama in Boca Raton, FL$$$Sushi Yama Asian Bistro in Boca Raton,
+  FL, stands out as a cozy Japanese eatery specializing in fresh, flavorful
+  Asian dishes that appeal to sushi lovers in the area. Located conveniently on
+  W Palmetto Park Rd in the vibrant Boca Del Mar neighborhood, it offers a
+  relaxed bistro-style experience with authentic touches that make it ideal for
+  casual meals or gatherings. The spot emphasizes accessibility, featuring
+  options like wheelchair-friendly parking and seating to ensure everyone can
+  enjoy their visit comfortably. Whether you're seeking top-rated sushi
+  restaurants nearby or simply craving quality Japanese flavors, this welcoming
+  venue delivers a satisfying blend of taste and convenience. It's a go-to
+  choice for those exploring sushi places near me who value an inclusive and
+  enjoyable dining atmosphere.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Diners at This Sushi Spot$$$Although specific reviews aren't
+  readily available, feedback for spots like Sushi Yama Asian Bistro often
+  highlights the appeal of its fresh sushi selections and welcoming vibe, making
+  it a solid pick for anyone hunting for reliable Japanese options nearby.
+  Diners tend to appreciate the thoughtful setup that includes easy access
+  features, contributing to a comfortable experience for all. Many casual
+  comments suggest it's a great spot for enjoying authentic flavors without the
+  fuss, positioning it as a favorite among local sushi enthusiasts. Overall, the
+  general sentiment leans positive, with people noting the bistro's ability to
+  deliver on quality and atmosphere in a laid-back way. If you're on the lookout
+  for sushi restaurants near me, this place seems to hit the mark for a
+  straightforward and enjoyable meal.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +250,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

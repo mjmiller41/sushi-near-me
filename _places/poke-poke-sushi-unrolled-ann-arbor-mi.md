@@ -1,15 +1,14 @@
 ---
 layout: place
-title: "Poke Poke - Sushi Unrolled"
+title: Poke Poke - Sushi Unrolled
 permalink: /michigan/ann-arbor/poke-poke-sushi-unrolled.html
 stateAbbr: MI
 stateName: Michigan
 cityName: Ann Arbor
 seo:
-  name: "Poke Poke - Sushi Unrolled"
-  type: Restaurant
-  links: null
-description: "Poke Poke - Sushi Unrolled serves delicious sushi in Ann Arbor, Michigan. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: >-
+    https://eatpokepoke.com/stores/ann-arbor/?utm_source=GoogleBusinessProfile&utm_medium=organic&utm_campaign=gmb-website-link
 place_id: ChIJbYoAS0WvPIgRYIx-o2hX2kQ
 photos:
   - name: >-
@@ -169,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x883caf454b008a6d:0x44da5768a37e8c60!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 10
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 10
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 10
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 10
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 10
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 10
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 10:30 AM – 9:00 PM'
+    - 'Tuesday: 10:30 AM – 9:00 PM'
+    - 'Wednesday: 10:30 AM – 9:00 PM'
+    - 'Thursday: 10:30 AM – 9:00 PM'
+    - 'Friday: 10:30 AM – 9:00 PM'
+    - 'Saturday: 10:30 AM – 9:00 PM'
+    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T01:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -178,13 +242,55 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (734) 263-2155
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '3.9'
+rating_count: 165
+website: >-
+  https://eatpokepoke.com/stores/ann-arbor/?utm_source=GoogleBusinessProfile&utm_medium=organic&utm_campaign=gmb-website-link
+description: >-
+  Discover Poke Poke - Sushi Unrolled in Ann Arbor, MI$$$Poke Poke - Sushi
+  Unrolled in Ann Arbor, MI, offers a relaxed dining experience centered around
+  fresh Hawaiian poke bowls that cater to a variety of tastes and dietary needs.
+  This sushi restaurant stands out for its commitment to quality ingredients,
+  including options for vegetarian, gluten-free, and vegan diners, making it a
+  versatile choice for health-conscious meals. The spot features accessible
+  entrances and seating, ensuring a welcoming atmosphere for all visitors, while
+  its convenient location near downtown adds to its appeal for those seeking
+  casual Japanese-inspired cuisine. With extended hours throughout the week,
+  it's an ideal stop for anyone exploring top-rated sushi options in the area,
+  blending simplicity with flavorful, customizable dishes that highlight fresh
+  seafood and bold flavors.
+generative_summary: >-
+  Discover Poke Poke - Sushi Unrolled in Ann Arbor, MI$$$Poke Poke - Sushi
+  Unrolled in Ann Arbor, MI, offers a relaxed dining experience centered around
+  fresh Hawaiian poke bowls that cater to a variety of tastes and dietary needs.
+  This sushi restaurant stands out for its commitment to quality ingredients,
+  including options for vegetarian, gluten-free, and vegan diners, making it a
+  versatile choice for health-conscious meals. The spot features accessible
+  entrances and seating, ensuring a welcoming atmosphere for all visitors, while
+  its convenient location near downtown adds to its appeal for those seeking
+  casual Japanese-inspired cuisine. With extended hours throughout the week,
+  it's an ideal stop for anyone exploring top-rated sushi options in the area,
+  blending simplicity with flavorful, customizable dishes that highlight fresh
+  seafood and bold flavors.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Say About This Ann Arbor Sushi Spot$$$Folks seem to appreciate
+  the fresh ingredients and variety at this spot, with many highlighting the
+  tasty poke bowls and accommodating options for different diets as standout
+  features. Overall, the vibe comes across as laid-back and enjoyable, though
+  some mention occasional waits during peak times that are worth it for the
+  quality. It's clear that the restaurant hits the mark for those craving quick,
+  satisfying meals, earning solid praise for its flavors and presentation
+  without any major complaints. If you're on the hunt for reliable sushi places
+  nearby, this one often gets nods for being a go-to choice that delivers good
+  value and a positive experience. In short, it's a welcoming option that keeps
+  customers coming back for more, based on the generally upbeat feedback from
+  its ratings.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +316,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

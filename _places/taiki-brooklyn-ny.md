@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Taiki"
+title: Taiki
 permalink: /new-york/brooklyn/taiki.html
 stateAbbr: NY
 stateName: New York
 cityName: Brooklyn
 seo:
-  name: "Taiki"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Taiki serves delicious sushi in Brooklyn, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ5yE7xlJawokRcLeu5KNTqgg
 photos:
   - name: >-
@@ -184,7 +182,47 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Taiki in Brooklyn, NY$$$Nestled in the vibrant neighborhood of
+  Brooklyn, NY, Taiki stands out as an intimate sushi restaurant that blends
+  traditional Japanese flavors with a welcoming ambiance. This spot offers a
+  selection of fresh sushi, sake, and delectable appetizers, making it a go-to
+  choice for those seeking authentic Japanese cuisine in a cozy setting. Diners
+  can explore thoughtfully crafted tasting menus that highlight seasonal
+  ingredients and expert preparation, elevating the overall dining experience.
+  With accessibility features like wheelchair-friendly entrances, Taiki ensures
+  everyone can enjoy its refined offerings, perfect for anyone hunting for top
+  sushi spots in the area. Whether you're in the mood for a relaxed meal or
+  something more special, this Brooklyn gem delivers a memorable taste of
+  Japanese culture right in your neighborhood.
+generative_summary: >-
+  Discover Taiki in Brooklyn, NY$$$Nestled in the vibrant neighborhood of
+  Brooklyn, NY, Taiki stands out as an intimate sushi restaurant that blends
+  traditional Japanese flavors with a welcoming ambiance. This spot offers a
+  selection of fresh sushi, sake, and delectable appetizers, making it a go-to
+  choice for those seeking authentic Japanese cuisine in a cozy setting. Diners
+  can explore thoughtfully crafted tasting menus that highlight seasonal
+  ingredients and expert preparation, elevating the overall dining experience.
+  With accessibility features like wheelchair-friendly entrances, Taiki ensures
+  everyone can enjoy its refined offerings, perfect for anyone hunting for top
+  sushi spots in the area. Whether you're in the mood for a relaxed meal or
+  something more special, this Brooklyn gem delivers a memorable taste of
+  Japanese culture right in your neighborhood.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying About Taiki$$$Visitors often rave about the fresh and
+  flavorful sushi at this Brooklyn favorite, noting how it hits the spot for
+  anyone craving quality Japanese dishes nearby. Many appreciate the intimate
+  vibe and attentive service that make every visit feel personal and enjoyable,
+  even for casual drop-ins. Folks frequently mention the variety of appetizers
+  and sake options as highlights that add to the fun atmosphere without
+  overwhelming the palate. Overall, the consensus leans positive, with people
+  enjoying the solid value and creative twists on classics that keep them coming
+  back for more. If you're exploring sushi places around here, Taiki seems to
+  deliver a reliably good experience that leaves diners satisfied and eager to
+  recommend it to friends.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +248,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

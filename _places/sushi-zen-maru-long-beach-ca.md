@@ -1,15 +1,14 @@
 ---
 layout: place
-title: "Sushi Zen Maru"
+title: Sushi Zen Maru
 permalink: /california/long-beach/sushi-zen-maru.html
 stateAbbr: CA
 stateName: California
 cityName: Long Beach
 seo:
-  name: "Sushi Zen Maru"
-  type: Restaurant
-  links: https://smorefood.com/order-online/sushi-zen-maru-long-beach-90802-rbyde5rh?utm_source=gmb&utm_medium=website
-description: "Sushi Zen Maru serves delicious sushi in Long Beach, California. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: >-
+    https://smorefood.com/order-online/sushi-zen-maru-long-beach-90802-rbyde5rh?utm_source=gmb&utm_medium=website
 place_id: ChIJFV0VcTgx3YAR9nEeFncN22w
 photos:
   - name: >-
@@ -170,7 +169,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80dd313871155d15:0x6cdb0d77161e71f6!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 13
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:00 PM'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -178,14 +235,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:00 PM'
     - 'Saturday: 11:00 AM – 9:00 PM'
     - 'Sunday: 1:00 – 8:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 9:00 PM'
-    - 'Saturday: 11:00 AM – 9:00 PM'
-    - 'Sunday: 1:00 – 8:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,36 +247,267 @@ phone: (562) 628-9828
 price_level: PRICE_LEVEL_INEXPENSIVE
 price_range: $10 &ndash; $20
 rating: '3.8'
-rating_count: 0
+rating_count: 128
 website: >-
   https://smorefood.com/order-online/sushi-zen-maru-long-beach-90802-rbyde5rh?utm_source=gmb&utm_medium=website
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Sushi Zen Maru in Long Beach, CA$$$Nestled in the heart of Long
+  Beach, CA, Sushi Zen Maru offers a delightful array of fresh sushi rolls and
+  Japanese specialties that capture the essence of authentic flavors in a
+  welcoming environment. This cozy spot specializes in meticulously prepared
+  dishes, from classic teriyaki options to flavorful noodles, making it a go-to
+  choice for those seeking quality Japanese cuisine nearby. Visitors can enjoy a
+  menu that balances traditional tastes with everyday favorites, all served in a
+  simple yet inviting storefront setting. The restaurant's accessibility
+  features ensure a comfortable experience for all, while its convenient hours
+  cater to both lunch crowds and evening diners looking for satisfying meals.
+generative_summary: >-
+  Discover Sushi Zen Maru in Long Beach, CA$$$Nestled in the heart of Long
+  Beach, CA, Sushi Zen Maru offers a delightful array of fresh sushi rolls and
+  Japanese specialties that capture the essence of authentic flavors in a
+  welcoming environment. This cozy spot specializes in meticulously prepared
+  dishes, from classic teriyaki options to flavorful noodles, making it a go-to
+  choice for those seeking quality Japanese cuisine nearby. Visitors can enjoy a
+  menu that balances traditional tastes with everyday favorites, all served in a
+  simple yet inviting storefront setting. The restaurant's accessibility
+  features ensure a comfortable experience for all, while its convenient hours
+  cater to both lunch crowds and evening diners looking for satisfying meals.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJFV0VcTgx3YAR9nEeFncN22w/reviews/ChdDSUhNMG9nS0VJQ0FnTUNRLVk2TWtBRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 1
+    text:
+      text: >-
+        This is what you get for $20?!! This is ridiculous!! the ginger smells
+        like it's rotten! You get a small serving of dry beef, you ask for
+        teriyaki sauce and they act super stingy asking for any extra sides they
+        give you attitude. If you're running a business you're supposed to
+        satisfy the customer not yourself. Total disappointment never ever
+        ordering anything from this place it's like the food is about to go bad
+        it's like on the verge of expiration and they're still serving it. Yuck!
+        Worst Sushi spot in LB pls don't waste your money here. There is so many
+        other sushi spots or Teriyaki places that I go to that fill up the plate
+        with beef you can't even see the rice underneath look at the skimpy
+        amount of meat overpriced and terrible quality. Also, where is my miso
+        soup? Every combo plate comes with the miso soup what the hell talk
+        about stingy they want to charge for everything here. I had to edit my
+        review again so you guys can see this nasty ass tempura that is just
+        full of flour inside.
+      languageCode: en
+    originalText:
+      text: >-
+        This is what you get for $20?!! This is ridiculous!! the ginger smells
+        like it's rotten! You get a small serving of dry beef, you ask for
+        teriyaki sauce and they act super stingy asking for any extra sides they
+        give you attitude. If you're running a business you're supposed to
+        satisfy the customer not yourself. Total disappointment never ever
+        ordering anything from this place it's like the food is about to go bad
+        it's like on the verge of expiration and they're still serving it. Yuck!
+        Worst Sushi spot in LB pls don't waste your money here. There is so many
+        other sushi spots or Teriyaki places that I go to that fill up the plate
+        with beef you can't even see the rice underneath look at the skimpy
+        amount of meat overpriced and terrible quality. Also, where is my miso
+        soup? Every combo plate comes with the miso soup what the hell talk
+        about stingy they want to charge for everything here. I had to edit my
+        review again so you guys can see this nasty ass tempura that is just
+        full of flour inside.
+      languageCode: en
+    authorAttribution:
+      displayName: Jocelyn Reyes Flores
+      uri: https://www.google.com/maps/contrib/113315526384048986545/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXVwlTwGUe1ONTl-i8aXudhcRYTZjwXzHPHyen36zePTD7DGp4fRQ=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-03-06T04:10:53.484775Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNRLVk2TWtBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNRLVk2TWtBRRAB!2m1!1s0x80dd313871155d15:0x6cdb0d77161e71f6
+  - name: >-
+      places/ChIJFV0VcTgx3YAR9nEeFncN22w/reviews/ChZDSUhNMG9nS0VJQ0FnSUREdElUMk5REAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        Worth a visit - I recommend! Bento’s chicken and beef teriyaki are
+        great. 3 Roll [special] for $33 is fairly priced and good quality. I
+        would definitely consider returning.
+
+
+        The restaurant has a good variety of offerings.
+
+
+        Notice me, Mr Kim! haha
+      languageCode: en
+    originalText:
+      text: >-
+        Worth a visit - I recommend! Bento’s chicken and beef teriyaki are
+        great. 3 Roll [special] for $33 is fairly priced and good quality. I
+        would definitely consider returning.
+
+
+        The restaurant has a good variety of offerings.
+
+
+        Notice me, Mr Kim! haha
+      languageCode: en
+    authorAttribution:
+      displayName: Brandon Lee
+      uri: https://www.google.com/maps/contrib/111708675127788016752/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVlNSElTck7BFW8gLk4H1oLi2VsODcnmCeSOksQT7Y0necdw61H=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-04-06T05:17:31.101929Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUREdElUMk5REAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUREdElUMk5REAE!2m1!1s0x80dd313871155d15:0x6cdb0d77161e71f6
+  - name: >-
+      places/ChIJFV0VcTgx3YAR9nEeFncN22w/reviews/ChdDSUhNMG9nS0VJQ0FnSUN0eTczUmdRRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        The sushi was so tasty, and they added a great amount of salmon and
+        avocado. The rice was soft, the perfect consistency honestly. The
+        bulgogi plate had ALOT of beef in it, and the carrots & veggies
+        complimented the plate so well. i loved this place and the person who
+        took my order was such nice man. Support this business!
+      languageCode: en
+    originalText:
+      text: >-
+        The sushi was so tasty, and they added a great amount of salmon and
+        avocado. The rice was soft, the perfect consistency honestly. The
+        bulgogi plate had ALOT of beef in it, and the carrots & veggies
+        complimented the plate so well. i loved this place and the person who
+        took my order was such nice man. Support this business!
+      languageCode: en
+    authorAttribution:
+      displayName: josephine
+      uri: https://www.google.com/maps/contrib/118306275177953642943/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVqS7cHvYs_QrVYvpqBGCLPWZxtih7p4zJC7QuSTv21I7146dnO6A=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-02-01T01:00:32.501190Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN0eTczUmdRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN0eTczUmdRRRAB!2m1!1s0x80dd313871155d15:0x6cdb0d77161e71f6
+  - name: >-
+      places/ChIJFV0VcTgx3YAR9nEeFncN22w/reviews/ChdDSUhNMG9nS0VJQ0FnSUNhZzhiLTBnRRAB
+    relativePublishTimeDescription: 3 years ago
+    rating: 1
+    text:
+      text: >-
+        The service here is good. Just what you'd expect from a place like this.
+        The food on the other hand.....TERRIBLE! This is the absolute worst,
+        tasting "ramen" I've ever had! ZERO flavor. Literally tastes exactly how
+        it looks, like dirty dish water. Rubbery chicken, cheap beef and hard
+        rice. Mushy tempura. What happened to this place? I lived on Pine years
+        ago, and I ate here all the time? Where is Japanese gentleman that
+        cooked here for years? The food was much better then. Don't know how
+        this place has managed to stay open serving "food" like this.
+
+        Also BEWARE OF THE FAKE GOOGLE REVIEWS ON THIS PLACE. NO WAY ANYONE WITH
+        A TONGUE WOULD GIVE THIS PLACE 5, 4, 3, 2 OR 1 STAR!
+      languageCode: en
+    originalText:
+      text: >-
+        The service here is good. Just what you'd expect from a place like this.
+        The food on the other hand.....TERRIBLE! This is the absolute worst,
+        tasting "ramen" I've ever had! ZERO flavor. Literally tastes exactly how
+        it looks, like dirty dish water. Rubbery chicken, cheap beef and hard
+        rice. Mushy tempura. What happened to this place? I lived on Pine years
+        ago, and I ate here all the time? Where is Japanese gentleman that
+        cooked here for years? The food was much better then. Don't know how
+        this place has managed to stay open serving "food" like this.
+
+        Also BEWARE OF THE FAKE GOOGLE REVIEWS ON THIS PLACE. NO WAY ANYONE WITH
+        A TONGUE WOULD GIVE THIS PLACE 5, 4, 3, 2 OR 1 STAR!
+      languageCode: en
+    authorAttribution:
+      displayName: Matthew Beck
+      uri: https://www.google.com/maps/contrib/109524485614003508993/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIXGq6tFFqaF6Oq4qUkKMHW-EW1oJBOy2ZT-HpHfNblMmUiXw=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2021-08-08T03:06:30.084691Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNhZzhiLTBnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNhZzhiLTBnRRAB!2m1!1s0x80dd313871155d15:0x6cdb0d77161e71f6
+  - name: >-
+      places/ChIJFV0VcTgx3YAR9nEeFncN22w/reviews/ChZDSUhNMG9nS0VJQ0FnSURKMS1PRkdnEAE
+    relativePublishTimeDescription: a year ago
+    rating: 4
+    text:
+      text: >-
+        The food was good but, some rolls where lower quality then others.
+        Overall  it's a nice little spot and the service was also great 👍. If
+        you plan on eating here I definitely recommend the crunchy Cali roll
+      languageCode: en
+    originalText:
+      text: >-
+        The food was good but, some rolls where lower quality then others.
+        Overall  it's a nice little spot and the service was also great 👍. If
+        you plan on eating here I definitely recommend the crunchy Cali roll
+      languageCode: en
+    authorAttribution:
+      displayName: Elayna
+      uri: https://www.google.com/maps/contrib/107197128138434431781/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLdoUKkAap7gcbric9pjZvZxl6H8C81CbPjbDU7RNVj82QnZA=s128-c0x00000000-cc-rp-mo
+    publishTime: '2023-07-24T18:46:13.110417Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURKMS1PRkdnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURKMS1PRkdnEAE!2m1!1s0x80dd313871155d15:0x6cdb0d77161e71f6
+review_summary: >-
+  Insights from Recent Feedback$$$Folks dining at Sushi Zen Maru often rave
+  about the tasty sushi rolls and generous portions of dishes like teriyaki and
+  bulgogi, highlighting the solid variety that keeps things interesting for a
+  casual meal. While some appreciate the good value and friendly service that
+  make it a reliable spot for everyday eats, others note occasional
+  inconsistencies in quality that could use a tweak. Overall, it's a welcoming
+  place for groups or quick bites, with many enjoying the flavorful combinations
+  that stand out in the local scene. Despite a few mentions of portion sizes or
+  specific items not hitting the mark, the general vibe leans positive,
+  encouraging visitors to try popular picks like the crunchy rolls for a
+  satisfying experience. If you're exploring sushi options around town, this
+  spot delivers enough highlights to make it worth a visit, blending
+  affordability with genuine flavors that keep diners coming back.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
+delivery: true
+dine_in: true
 good_for_children: null
-good_for_groups: null
+good_for_groups: true
 good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
 serves_brunch: null
 serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
+serves_coffee: false
+serves_dinner: true
 serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
+serves_lunch: true
+serves_vegetarian_food: true
 serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Sushi specialist offering rolls, noodles & teriyaki dishes in a minimal,
+  storefront setting.
 
 ---

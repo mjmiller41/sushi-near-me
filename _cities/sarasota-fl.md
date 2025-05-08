@@ -5,4 +5,5 @@ permalink: /florida/sarasota/
 stateAbbr: FL
 stateName: Florida
 cityName: Sarasota
+
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi & Co"
+title: Sushi & Co
 permalink: /new-york/new-york/sushi-co.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "Sushi & Co"
-  type: Restaurant
+  type: restaurant
   links: http://www.sushinco.com/
-description: "Sushi & Co serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJK-iBUjZbwokR6nW3PdAmegs
 photos:
   - name: >-
@@ -168,7 +166,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c25b365281e82b:0xb7a26d03db775ea!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 45
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 45
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 45
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 45
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 45
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 45
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 45
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:45 AM – 9:00 PM'
     - 'Tuesday: 11:45 AM – 9:00 PM'
     - 'Wednesday: 11:45 AM – 9:00 PM'
@@ -176,14 +232,7 @@ opening_hours:
     - 'Friday: 11:45 AM – 9:00 PM'
     - 'Saturday: 11:45 AM – 9:00 PM'
     - 'Sunday: 11:45 AM – 9:00 PM'
-  current:
-    - 'Monday: 11:45 AM – 9:00 PM'
-    - 'Tuesday: 11:45 AM – 9:00 PM'
-    - 'Wednesday: 11:45 AM – 9:00 PM'
-    - 'Thursday: 11:45 AM – 9:00 PM'
-    - 'Friday: 11:45 AM – 9:00 PM'
-    - 'Saturday: 11:45 AM – 9:00 PM'
-    - 'Sunday: 11:45 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T01:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -195,9 +244,48 @@ phone: (646) 799-9911
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.6'
-rating_count: 0
+rating_count: 671
 website: http://www.sushinco.com/
+description: >-
+  Discover Sushi & Co in New York, NY$$$Sushi & Co in New York, NY, stands out
+  as a welcoming spot for those seeking authentic Japanese flavors in a casual
+  setting. This eatery delights with an array of fresh sushi rolls, savory
+  noodles, and dumplings, making it a go-to choice for lunch or dinner in the
+  bustling downtown area. Patrons can enjoy a variety of Japanese-inspired
+  dishes prepared with high-quality ingredients, emphasizing simplicity and
+  taste that captures the essence of traditional fare. The restaurant's
+  convenient hours and accessible entrance add to its appeal for anyone
+  exploring top-rated sushi options nearby. Whether you're in the mood for a
+  quick meal or a relaxed dining experience, Sushi & Co brings a touch of
+  genuine Japanese cuisine right to the heart of the city.
+generative_summary: >-
+  Discover Sushi & Co in New York, NY$$$Sushi & Co in New York, NY, stands out
+  as a welcoming spot for those seeking authentic Japanese flavors in a casual
+  setting. This eatery delights with an array of fresh sushi rolls, savory
+  noodles, and dumplings, making it a go-to choice for lunch or dinner in the
+  bustling downtown area. Patrons can enjoy a variety of Japanese-inspired
+  dishes prepared with high-quality ingredients, emphasizing simplicity and
+  taste that captures the essence of traditional fare. The restaurant's
+  convenient hours and accessible entrance add to its appeal for anyone
+  exploring top-rated sushi options nearby. Whether you're in the mood for a
+  quick meal or a relaxed dining experience, Sushi & Co brings a touch of
+  genuine Japanese cuisine right to the heart of the city.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Folks frequently highlight the mouthwatering black
+  rice sushi and crispy shrimp tempura rolls as standout favorites at this spot,
+  noting how the flavors really hit the mark for fresh, satisfying eats. Many
+  appreciate the friendly team that keeps things running smoothly with attentive
+  service and quick turnaround, making every visit feel effortless and
+  enjoyable. Reviewers often mention the tasty veggie dumplings as a great
+  option for lighter choices, praising the overall quality and variety that
+  keeps diners coming back. While opinions vary, the consensus leans positive on
+  the restaurant's ability to deliver consistent, well-prepared dishes that feel
+  both comforting and exciting. If you're on the hunt for reliable Japanese
+  places with solid vibes, this location seems to deliver a genuinely pleasant
+  experience based on shared feedback.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -223,7 +311,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

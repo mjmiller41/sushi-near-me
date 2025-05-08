@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Cure Bar & Bistro"
+title: Cure Bar & Bistro
 permalink: /district-of-columbia/washington/cure-bar-bistro.html
 stateAbbr: DC
 stateName: District of Columbia
 cityName: Washington
 seo:
-  name: "Cure Bar & Bistro"
-  type: Restaurant
+  type: restaurant
   links: https://www.curebarandbistro.com/
-description: "Cure Bar & Bistro serves delicious sushi in Washington, District of Columbia. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJSzcUXpG3t4kRbjuqpcHzbGw
 photos:
   - name: >-
@@ -199,7 +197,49 @@ price_range: $30 &ndash; $50
 rating: '4.2'
 rating_count: 0
 website: https://www.curebarandbistro.com/
+description: >-
+  Explore Cure Bar & Bistro in Washington, DC$$$Cure Bar & Bistro in Washington,
+  DC, offers a charming French-inspired dining experience nestled in the lively
+  Northwest Washington area, perfect for those seeking a relaxed urban escape.
+  The spot features a cozy bistro atmosphere with classic flavors that highlight
+  seasonal ingredients, making it an ideal choice for casual meals or intimate
+  gatherings throughout the day. With extended hours from late morning into the
+  evening, it caters to both quick lunches and leisurely dinners, all within a
+  moderate price range that ensures accessibility without compromising quality.
+  Accessibility is a key highlight, including wheelchair-friendly parking and
+  seating, which adds to the welcoming vibe for all visitors. This French
+  restaurant stands out as a go-to destination for anyone exploring authentic
+  bistro-style options in the heart of the city.
+generative_summary: >-
+  Explore Cure Bar & Bistro in Washington, DC$$$Cure Bar & Bistro in Washington,
+  DC, offers a charming French-inspired dining experience nestled in the lively
+  Northwest Washington area, perfect for those seeking a relaxed urban escape.
+  The spot features a cozy bistro atmosphere with classic flavors that highlight
+  seasonal ingredients, making it an ideal choice for casual meals or intimate
+  gatherings throughout the day. With extended hours from late morning into the
+  evening, it caters to both quick lunches and leisurely dinners, all within a
+  moderate price range that ensures accessibility without compromising quality.
+  Accessibility is a key highlight, including wheelchair-friendly parking and
+  seating, which adds to the welcoming vibe for all visitors. This French
+  restaurant stands out as a go-to destination for anyone exploring authentic
+  bistro-style options in the heart of the city.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$From what folks are sharing online, Cure Bar &
+  Bistro comes across as a solid spot for enjoying tasty French dishes in a
+  comfortable setting, with many highlighting the flavorful meals and friendly
+  service that make every visit feel worthwhile. People often mention the
+  inviting atmosphere and reasonable prices, noting it's great for groups or a
+  quick bite without breaking the bank, which keeps things approachable and fun.
+  While some feedback touches on occasional waits during peak times, the overall
+  consensus leans positive, praising the consistent quality and welcoming energy
+  that encourages repeat trips. It's clear that the bistro's focus on fresh
+  flavors and a relaxed vibe resonates with diners looking for reliable
+  French-inspired eats in DC. All in all, if you're in the mood for a
+  hassle-free meal at a popular local eatery, this place seems to deliver a
+  genuinely enjoyable experience for most.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +265,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

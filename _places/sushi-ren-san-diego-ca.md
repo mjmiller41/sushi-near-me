@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Ren"
+title: Sushi Ren
 permalink: /california/san-diego/sushi-ren.html
 stateAbbr: CA
 stateName: California
 cityName: San Diego
 seo:
-  name: "Sushi Ren"
-  type: Restaurant
+  type: restaurant
   links: https://fooddiscoveryapp.com/san-diego/sushi-ren
-description: "Sushi Ren serves delicious sushi in San Diego, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJR-Q-DFT324ARpmUTHl4rIxg
 photos:
   - name: >-
@@ -185,6 +183,37 @@ price_range: $10 &ndash; $20
 rating: '4.1'
 rating_count: 0
 website: https://fooddiscoveryapp.com/san-diego/sushi-ren
+description: >-
+  Discover Sushi Ren in San Diego, CA$$$Nestled in San Diego, CA, Sushi Ren
+  offers a welcoming atmosphere perfect for enjoying fresh sushi and
+  Korean-inspired dishes, complemented by a selection of draft and bottled
+  beers. This cozy spot stands out for its generous portions and creative rolls
+  that blend traditional flavors with unique twists, making it a go-to choice
+  for those seeking quality Asian cuisine. The restaurant's accessibility
+  features, including wheelchair-friendly options, ensure a comfortable visit
+  for everyone, while its convenient location in the Black Mountain Ranch
+  neighborhood adds to its appeal for locals and visitors alike. Whether you're
+  in the mood for a quick bite or a relaxed meal, Sushi Ren provides a solid
+  selection of options that cater to various tastes, including hearty Korean
+  dishes alongside classic sushi favorites. With its focus on fresh ingredients
+  and a casual vibe, it's an ideal destination for anyone exploring top sushi
+  spots in the area.
+generative_summary: >-
+  Discover Sushi Ren in San Diego, CA$$$Nestled in San Diego, CA, Sushi Ren
+  offers a welcoming atmosphere perfect for enjoying fresh sushi and
+  Korean-inspired dishes, complemented by a selection of draft and bottled
+  beers. This cozy spot stands out for its generous portions and creative rolls
+  that blend traditional flavors with unique twists, making it a go-to choice
+  for those seeking quality Asian cuisine. The restaurant's accessibility
+  features, including wheelchair-friendly options, ensure a comfortable visit
+  for everyone, while its convenient location in the Black Mountain Ranch
+  neighborhood adds to its appeal for locals and visitors alike. Whether you're
+  in the mood for a quick bite or a relaxed meal, Sushi Ren provides a solid
+  selection of options that cater to various tastes, including hearty Korean
+  dishes alongside classic sushi favorites. With its focus on fresh ingredients
+  and a casual vibe, it's an ideal destination for anyone exploring top sushi
+  spots in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJR-Q-DFT324ARpmUTHl4rIxg/reviews/ChZDSUhNMG9nS0VJQ0FnSUNIeC1UbEh3EAE
@@ -376,6 +405,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURaaHYtc2l3RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURaaHYtc2l3RRAB!2m1!1s0x80dbf7540c3ee447:0x18232b5e1e1365a6
+review_summary: >-
+  What Visitors Are Saying$$$Feedback from diners highlights Sushi Ren as a
+  reliable spot for fresh and flavorful sushi rolls that hit the spot without
+  breaking the bank, with many praising the generous portions and quick service.
+  People often mention enjoying the variety of dishes, like the satisfying
+  salmon options and other Korean-inspired meals, which make for a well-rounded
+  dining experience. While most appreciate the friendly atmosphere and efficient
+  staff that make meals feel hassle-free, a few note that service can
+  occasionally feel a bit slow during busy times. Overall, it's seen as a great
+  neighborhood choice for casual lunches or dinners, especially for those
+  looking for solid beer selections to pair with their food. If you're hunting
+  for tasty sushi options nearby, this place comes through as a consistently
+  enjoyable pick that keeps customers coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -406,7 +449,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Pisces Sushi Bar & Lounge-Lake Norman"
+title: Pisces Sushi Bar & Lounge-Lake Norman
 permalink: /north-carolina/mooresville/pisces-sushi-bar-lounge-lake-norman.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Mooresville
 seo:
-  name: "Pisces Sushi Bar & Lounge-Lake Norman"
-  type: Restaurant
+  type: restaurant
   links: http://piscessushi.com/
-description: "Pisces Sushi Bar & Lounge-Lake Norman serves delicious sushi in Mooresville, North Carolina. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJEwh9UetUUYgRJF9ehTudCj4
 photos:
   - name: >-
@@ -170,22 +168,113 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x885154eb517d0813:0x3e0a9d3b855e5f24!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
-    - 'Monday: 11:30 AM – 2:15 PM, 5:00 – 9:15 PM'
-    - 'Tuesday: 11:30 AM – 2:15 PM, 5:00 – 9:15 PM'
-    - 'Wednesday: 11:30 AM – 2:15 PM, 5:00 – 9:15 PM'
-    - 'Thursday: 11:30 AM – 2:15 PM, 5:00 – 9:15 PM'
-    - 'Friday: 11:30 AM – 2:15 PM, 5:00 – 10:15 PM'
-    - 'Saturday: 11:30 AM – 2:15 PM, 5:00 – 10:15 PM'
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 14
+        minute: 30
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:30 AM – 2:30 PM, 5:00 – 9:30 PM'
+    - 'Tuesday: 11:30 AM – 2:30 PM, 5:00 – 9:30 PM'
+    - 'Wednesday: 11:30 AM – 2:30 PM, 5:00 – 9:30 PM'
+    - 'Thursday: 11:30 AM – 2:30 PM, 5:00 – 9:30 PM'
+    - 'Friday: 11:30 AM – 2:30 PM, 5:00 – 10:30 PM'
+    - 'Saturday: 11:30 AM – 2:30 PM, 5:00 – 10:30 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:30 AM – 2:15 PM, 5:00 – 9:15 PM'
-    - 'Tuesday: 11:30 AM – 2:15 PM, 5:00 – 9:15 PM'
-    - 'Wednesday: 11:30 AM – 2:15 PM, 5:00 – 9:15 PM'
-    - 'Thursday: 11:30 AM – 2:15 PM, 5:00 – 9:15 PM'
-    - 'Friday: 11:30 AM – 2:15 PM, 5:00 – 10:15 PM'
-    - 'Saturday: 11:30 AM – 2:15 PM, 5:00 – 10:15 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +286,47 @@ phone: (704) 662-0062
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.4'
-rating_count: 0
+rating_count: 595
 website: http://piscessushi.com/
+description: >-
+  Explore Pisces Sushi in Mooresville, NC$$$Pisces Sushi Bar & Lounge-Lake
+  Norman in Mooresville, NC, offers a welcoming spot for enjoying fresh sushi
+  and Japanese-inspired dishes in a relaxed setting. This locally favored eatery
+  highlights an array of specialty rolls, sashimi, and nigiri, crafted with
+  high-quality ingredients that appeal to sushi enthusiasts seeking authentic
+  flavors. The inviting atmosphere features cozy seating and a calm vibe, making
+  it an ideal choice for a casual meal or intimate gathering near Lake Norman.
+  Accessibility options like wheelchair-friendly entrances and parking add to
+  the convenience, ensuring a comfortable visit for all. With its moderate
+  pricing and inviting lounge area, it's a go-to destination for those searching
+  for top-rated sushi restaurants in the region.
+generative_summary: >-
+  Explore Pisces Sushi in Mooresville, NC$$$Pisces Sushi Bar & Lounge-Lake
+  Norman in Mooresville, NC, offers a welcoming spot for enjoying fresh sushi
+  and Japanese-inspired dishes in a relaxed setting. This locally favored eatery
+  highlights an array of specialty rolls, sashimi, and nigiri, crafted with
+  high-quality ingredients that appeal to sushi enthusiasts seeking authentic
+  flavors. The inviting atmosphere features cozy seating and a calm vibe, making
+  it an ideal choice for a casual meal or intimate gathering near Lake Norman.
+  Accessibility options like wheelchair-friendly entrances and parking add to
+  the convenience, ensuring a comfortable visit for all. With its moderate
+  pricing and inviting lounge area, it's a go-to destination for those searching
+  for top-rated sushi restaurants in the region.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Recent Reviews$$$Folks who visit this sushi spot often rave
+  about the tasty rolls and creative dishes, like fresh takes on sweet potato
+  and mango varieties that really hit the spot. Many appreciate the peaceful,
+  well-designed atmosphere with private booths and plenty of room, perfect for
+  enjoying a meal with friends or unwinding at the bar with generous drinks.
+  While some mention that the prices lean a bit higher, the overall experience
+  is seen as worthwhile for the quality and variety on offer. It's frequently
+  noted as a solid pick for anyone craving reliable Japanese flavors, with
+  highlights on flavorful options like calamari and hibachi that keep diners
+  coming back. All in all, this place stands out as a favorite for sushi lovers
+  looking for a balanced and enjoyable outing in the area.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +352,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

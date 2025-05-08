@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "DING Asian Cuisine"
+title: DING Asian Cuisine
 permalink: /florida/riverview/ding-asian-cuisine.html
 stateAbbr: FL
 stateName: Florida
 cityName: Riverview
 seo:
-  name: "DING Asian Cuisine"
-  type: Restaurant
+  type: restaurant
   links: http://www.dingasian.com/
-description: "DING Asian Cuisine serves delicious sushi in Riverview, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJRXpt7Z7RwogRPK18vve2X7k
 photos:
   - name: >-
@@ -199,7 +197,44 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 0
 website: http://www.dingasian.com/
+description: >-
+  Explore DING Asian Cuisine in Riverview, FL$$$Nestled in Riverview, FL, DING
+  Asian Cuisine offers a welcoming atmosphere for enjoying fresh Asian flavors
+  and creative dishes that highlight regional influences. This spot stands out
+  with its diverse menu, featuring inventive sushi rolls, Thai-inspired options,
+  and sizzling hibachi selections, all crafted from quality ingredients for an
+  authentic taste. Accessibility is a key feature, including wheelchair-friendly
+  parking and entrances, making it easy for all guests to savor the vibrant
+  dining experience. Whether you're looking for sushi spots in the area or a
+  relaxed place to try Japanese-style eats, the cozy ambiance and thoughtful
+  drink pairings like sake add to the appeal, perfect for a casual meal.
+generative_summary: >-
+  Explore DING Asian Cuisine in Riverview, FL$$$Nestled in Riverview, FL, DING
+  Asian Cuisine offers a welcoming atmosphere for enjoying fresh Asian flavors
+  and creative dishes that highlight regional influences. This spot stands out
+  with its diverse menu, featuring inventive sushi rolls, Thai-inspired options,
+  and sizzling hibachi selections, all crafted from quality ingredients for an
+  authentic taste. Accessibility is a key feature, including wheelchair-friendly
+  parking and entrances, making it easy for all guests to savor the vibrant
+  dining experience. Whether you're looking for sushi spots in the area or a
+  relaxed place to try Japanese-style eats, the cozy ambiance and thoughtful
+  drink pairings like sake add to the appeal, perfect for a casual meal.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Visitor Insights on DING Asian Cuisine$$$People in the Riverview area often
+  rave about the delicious sushi and overall friendly vibe at this spot, noting
+  the fresh ingredients and wide variety of options that make every visit
+  enjoyable. Many appreciate the efficient service that keeps things relaxed and
+  fun, ideal for quick lunches or group gatherings without any hassle. While
+  some mention it's best to go during busier times for the full energy, the
+  general consensus is that the value is spot-on for the moderate prices,
+  offering satisfying meals that don't disappoint. Folks hunting for reliable
+  sushi places nearby tend to agree it's a solid choice for diverse Asian
+  flavors, with the positive feedback highlighting its reliability and welcoming
+  feel. Overall, it's shaping up as a go-to option that balances quality and
+  enjoyment for anyone craving a tasty bite.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +260,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

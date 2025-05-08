@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Akai Lounge - Scarsdale"
+title: Akai Lounge - Scarsdale
 permalink: /new-york/scarsdale/akai-lounge-scarsdale.html
 stateAbbr: NY
 stateName: New York
 cityName: Scarsdale
 seo:
-  name: "Akai Lounge - Scarsdale"
-  type: Restaurant
-  links: null
-description: "Akai Lounge - Scarsdale serves delicious sushi in Scarsdale, New York. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.akaiscarsdale.com/
 place_id: ChIJGayI8h2TwokRmJVnK0ic1RE
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c2931df288ac19:0x11d59c482b679598!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 12
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 12
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 12
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 12
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 12
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 12:00 – 9:30 PM'
+    - 'Tuesday: 12:00 – 9:30 PM'
+    - 'Wednesday: 12:00 – 9:30 PM'
+    - 'Thursday: 12:00 – 9:30 PM'
+    - 'Friday: 12:00 – 10:00 PM'
+    - 'Saturday: 12:00 – 10:00 PM'
+    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,48 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
+phone: (914) 722-2022
+price_level: PRICE_LEVEL_MODERATE
 price_range: null
-rating: null
-rating_count: 0
-website: null
+rating: '4.2'
+rating_count: 112
+website: https://www.akaiscarsdale.com/
+description: >-
+  About Akai Lounge in Scarsdale, NY$$$Akai Lounge in Scarsdale, NY, stands out
+  as a welcoming spot for fresh sushi and classic Japanese dishes, set in a
+  sleek, contemporary environment. This sushi restaurant features a full bar
+  with a variety of drinks to complement your meal, making it ideal for casual
+  dinners or relaxed gatherings. Patrons can enjoy accessible amenities like
+  wheelchair-friendly parking and seating, ensuring everyone feels included.
+  With hours extending into the evening, it's a great choice for those seeking
+  authentic flavors in a modern setting, perfect for exploring top-rated sushi
+  options nearby. The focus on traditional fare brings a touch of elegance to
+  everyday dining experiences in the area.
+generative_summary: >-
+  About Akai Lounge in Scarsdale, NY$$$Akai Lounge in Scarsdale, NY, stands out
+  as a welcoming spot for fresh sushi and classic Japanese dishes, set in a
+  sleek, contemporary environment. This sushi restaurant features a full bar
+  with a variety of drinks to complement your meal, making it ideal for casual
+  dinners or relaxed gatherings. Patrons can enjoy accessible amenities like
+  wheelchair-friendly parking and seating, ensuring everyone feels included.
+  With hours extending into the evening, it's a great choice for those seeking
+  authentic flavors in a modern setting, perfect for exploring top-rated sushi
+  options nearby. The focus on traditional fare brings a touch of elegance to
+  everyday dining experiences in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Visitor Feedback Highlights$$$Folks seem to really appreciate the fresh and
+  flavorful sushi rolls at this spot, often mentioning how they hit the spot for
+  a satisfying meal. Many comments highlight the cozy atmosphere and attentive
+  service that make it a go-to for casual outings or family dinners. While some
+  note that wait times can vary, the overall vibe comes across as enjoyable and
+  worth the visit, especially for those hunting for reliable sushi places close
+  by. It's clear that the moderate pricing and quality ingredients keep people
+  coming back, earning it solid nods from diners looking for a solid Japanese
+  dining experience. All in all, if you're in the mood for something tasty and
+  approachable, this location often delivers a pleasant surprise.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +309,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

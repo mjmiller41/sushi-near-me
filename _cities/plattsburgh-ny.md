@@ -5,4 +5,5 @@ permalink: /new-york/plattsburgh/
 stateAbbr: NY
 stateName: New York
 cityName: Plattsburgh
+
 ---

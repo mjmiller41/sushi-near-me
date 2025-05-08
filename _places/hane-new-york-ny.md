@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Hane"
+title: Hane
 permalink: /new-york/new-york/hane.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "Hane"
-  type: Restaurant
+  type: restaurant
   links: https://www.hanenyc.com/
-description: "Hane serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJq4cP1HRZwokRvklrlW28QGc
 photos:
   - name: >-
@@ -169,7 +167,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c25974d40f87ab:0x6740bc6d956b49be!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 12
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 12
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 12
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 12
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 12
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 12:00 – 10:00 PM'
     - 'Tuesday: 12:00 – 10:00 PM'
     - 'Wednesday: 12:00 – 10:00 PM'
@@ -177,14 +233,7 @@ opening_hours:
     - 'Friday: 12:00 – 10:30 PM'
     - 'Saturday: 12:00 – 10:30 PM'
     - 'Sunday: 12:00 – 10:00 PM'
-  current:
-    - 'Monday: 12:00 – 10:00 PM'
-    - 'Tuesday: 12:00 – 10:00 PM'
-    - 'Wednesday: 12:00 – 10:00 PM'
-    - 'Thursday: 12:00 – 10:00 PM'
-    - 'Friday: 12:00 – 10:30 PM'
-    - 'Saturday: 12:00 – 10:30 PM'
-    - 'Sunday: 12:00 – 10:00 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,9 +245,47 @@ phone: (212) 598-9889
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.2'
-rating_count: 0
+rating_count: 512
 website: https://www.hanenyc.com/
+description: >-
+  Discover Hane in New York, NY$$$Hane in New York, NY, stands out as a
+  welcoming Japanese restaurant offering a relaxed vibe and an array of fresh
+  sushi options that capture the essence of authentic flavors. This spot
+  delights visitors with its selection of tempura and other classic Japanese
+  dishes, paired with a variety of sake to enhance the dining experience.
+  Accessibility features like wheelchair-friendly entrances make it easy for
+  everyone to enjoy a meal, while the moderate pricing keeps it approachable for
+  casual outings or special occasions. With its convenient location in the heart
+  of the city, Hane serves as an ideal destination for those seeking top-rated
+  sushi restaurants near me, blending traditional tastes with a modern, inviting
+  atmosphere.
+generative_summary: >-
+  Discover Hane in New York, NY$$$Hane in New York, NY, stands out as a
+  welcoming Japanese restaurant offering a relaxed vibe and an array of fresh
+  sushi options that capture the essence of authentic flavors. This spot
+  delights visitors with its selection of tempura and other classic Japanese
+  dishes, paired with a variety of sake to enhance the dining experience.
+  Accessibility features like wheelchair-friendly entrances make it easy for
+  everyone to enjoy a meal, while the moderate pricing keeps it approachable for
+  casual outings or special occasions. With its convenient location in the heart
+  of the city, Hane serves as an ideal destination for those seeking top-rated
+  sushi restaurants near me, blending traditional tastes with a modern, inviting
+  atmosphere.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying About Hane$$$Visitors often highlight the solid
+  quality of the food at Hane, with many appreciating the fresh sushi and
+  well-prepared Japanese specialties that make for a satisfying meal. Feedback
+  tends to praise the friendly service and cozy setting, noting that it's a
+  reliable choice for anyone craving sushi close to me without breaking the
+  bank. While some mention minor waits during peak times, the overall consensus
+  leans positive, emphasizing the value and taste that keep people coming back.
+  It's clear that folks enjoy the balance of flavors and portions, making it a
+  go-to spot for japanese places near me looking for a straightforward yet
+  enjoyable dining experience. All in all, the high rating reflects a genuine
+  appreciation for the consistent vibe and offerings here.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -224,7 +311,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

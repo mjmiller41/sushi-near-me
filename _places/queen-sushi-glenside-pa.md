@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Queen Sushi"
+title: Queen Sushi
 permalink: /pennsylvania/glenside/queen-sushi.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Glenside
 seo:
-  name: "Queen Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.queensushi.us/
-description: "No-frills Asian eatery with a long menu covering various Chinese, Japanese & Thai staples. Queen Sushi serves delicious sushi in Glenside, Pennsylvania. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJsT81a5uwxokRy1bIrGDV4RE
 photos:
   - name: >-
@@ -183,6 +181,31 @@ price_range: $10 &ndash; $20
 rating: '3.9'
 rating_count: 0
 website: https://www.queensushi.us/
+description: >-
+  Explore Queen Sushi in Glenside, PA$$$Queen Sushi in Glenside, PA, offers a
+  casual dining experience blending Chinese, Japanese, and Thai flavors in a
+  welcoming atmosphere. This spot stands out for its diverse menu featuring
+  fresh sushi rolls, hearty Chinese dishes, and a variety of teas, making it a
+  go-to choice for those seeking flavorful Asian cuisine. With
+  wheelchair-accessible options and moderate pricing, it's ideal for groups or
+  individuals looking for a relaxed meal. The restaurant emphasizes variety,
+  including vegetarian choices, and provides convenient takeout and delivery for
+  busy days. Whether you're in the mood for top-rated sushi or exploring nearby
+  Japanese-inspired eats, this eatery delivers a satisfying blend of tastes in a
+  no-fuss setting.
+generative_summary: >-
+  Explore Queen Sushi in Glenside, PA$$$Queen Sushi in Glenside, PA, offers a
+  casual dining experience blending Chinese, Japanese, and Thai flavors in a
+  welcoming atmosphere. This spot stands out for its diverse menu featuring
+  fresh sushi rolls, hearty Chinese dishes, and a variety of teas, making it a
+  go-to choice for those seeking flavorful Asian cuisine. With
+  wheelchair-accessible options and moderate pricing, it's ideal for groups or
+  individuals looking for a relaxed meal. The restaurant emphasizes variety,
+  including vegetarian choices, and provides convenient takeout and delivery for
+  busy days. Whether you're in the mood for top-rated sushi or exploring nearby
+  Japanese-inspired eats, this eatery delivers a satisfying blend of tastes in a
+  no-fuss setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJsT81a5uwxokRy1bIrGDV4RE/reviews/ChdDSUhNMG9nS0VJQ0FnSURfOUlqYy1nRRAB
@@ -396,6 +419,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNmLVlLMllnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNmLVlLMllnEAE!2m1!1s0x89c6b09b6b353fb1:0x11e1d560acc856cb
+review_summary: >-
+  Insights from Customer Feedback$$$Visitors to this sushi spot often praise the
+  fresh sushi rolls and generous portions, making it a solid pick for anyone
+  craving reliable Asian flavors in a casual vibe. While some folks noted that
+  certain dishes like curries could use a bit more consistency in preparation,
+  the overall experience shines with friendly service and tasty options that
+  keep diners coming back. Many appreciate the variety, including vegetarian
+  alternatives and quick takeout, which adds to its appeal for families or
+  groups on the go. Despite a few mentions of occasional inconsistencies, the
+  positive highlights around the atmosphere and value make it worth trying for
+  sushi enthusiasts. If you're searching for sushi restaurants nearby, this
+  place generally delivers an enjoyable meal with room for the occasional
+  standout dish.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidStreetParking: true
   valetParking: false
@@ -427,8 +464,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   No-frills Asian eatery with a long menu covering various Chinese, Japanese &
   Thai staples.
 

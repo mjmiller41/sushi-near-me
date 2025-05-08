@@ -5,4 +5,5 @@ permalink: /texas/frisco/
 stateAbbr: TX
 stateName: Texas
 cityName: Frisco
+
 ---

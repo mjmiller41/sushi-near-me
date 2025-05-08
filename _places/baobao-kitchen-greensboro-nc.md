@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "BaoBao Kitchen"
+title: BaoBao Kitchen
 permalink: /north-carolina/greensboro/baobao-kitchen.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Greensboro
 seo:
-  name: "BaoBao Kitchen"
-  type: Restaurant
+  type: restaurant
   links: https://baobaokitchen.com/?utm_source=google
-description: "BaoBao Kitchen serves delicious sushi in Greensboro, North Carolina. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJa7s-JV4fU4gR1F6jtYxEq1k
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x88531f5e253ebb6b:0x59ab448cb5a35ed4!10e5
 primary_type: Vietnamese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 9
+        minute: 0
+      close:
+        day: 1
+        hour: 20
+        minute: 0
+    - open:
+        day: 2
+        hour: 8
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 0
+    - open:
+        day: 3
+        hour: 9
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 0
+    - open:
+        day: 4
+        hour: 9
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 0
+    - open:
+        day: 5
+        hour: 9
+        minute: 0
+      close:
+        day: 5
+        hour: 20
+        minute: 0
+    - open:
+        day: 6
+        hour: 9
+        minute: 0
+      close:
+        day: 6
+        hour: 20
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 9:00 AM – 8:00 PM'
     - 'Tuesday: 8:00 AM – 8:00 PM'
     - 'Wednesday: 9:00 AM – 8:00 PM'
@@ -178,28 +226,169 @@ opening_hours:
     - 'Friday: 9:00 AM – 8:00 PM'
     - 'Saturday: 9:00 AM – 8:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 9:00 AM – 8:00 PM'
-    - 'Tuesday: 8:00 AM – 8:00 PM'
-    - 'Wednesday: 9:00 AM – 8:00 PM'
-    - 'Thursday: 9:00 AM – 8:00 PM'
-    - 'Friday: 9:00 AM – 8:00 PM'
-    - 'Saturday: 9:00 AM – 8:00 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 1
+          hour: 9
+          minute: 0
+        close:
+          day: 1
+          hour: 20
+          minute: 0
+      - open:
+          day: 2
+          hour: 8
+          minute: 0
+        close:
+          day: 2
+          hour: 20
+          minute: 0
+      - open:
+          day: 3
+          hour: 9
+          minute: 0
+        close:
+          day: 3
+          hour: 20
+          minute: 0
+      - open:
+          day: 4
+          hour: 9
+          minute: 0
+        close:
+          day: 4
+          hour: 20
+          minute: 0
+      - open:
+          day: 5
+          hour: 9
+          minute: 0
+        close:
+          day: 5
+          hour: 20
+          minute: 0
+      - open:
+          day: 6
+          hour: 9
+          minute: 0
+        close:
+          day: 6
+          hour: 20
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 9:00 AM – 8:00 PM'
+      - 'Tuesday: 8:00 AM – 8:00 PM'
+      - 'Wednesday: 9:00 AM – 8:00 PM'
+      - 'Thursday: 9:00 AM – 8:00 PM'
+      - 'Friday: 9:00 AM – 8:00 PM'
+      - 'Saturday: 9:00 AM – 8:00 PM'
+      - 'Sunday: Closed'
+    secondaryHoursType: DELIVERY
+    nextCloseTime: '2025-05-04T00:00:00Z'
+  - openNow: true
+    periods:
+      - open:
+          day: 1
+          hour: 9
+          minute: 0
+        close:
+          day: 1
+          hour: 20
+          minute: 0
+      - open:
+          day: 2
+          hour: 8
+          minute: 0
+        close:
+          day: 2
+          hour: 20
+          minute: 0
+      - open:
+          day: 3
+          hour: 9
+          minute: 0
+        close:
+          day: 3
+          hour: 20
+          minute: 0
+      - open:
+          day: 4
+          hour: 9
+          minute: 0
+        close:
+          day: 4
+          hour: 20
+          minute: 0
+      - open:
+          day: 5
+          hour: 9
+          minute: 0
+        close:
+          day: 5
+          hour: 20
+          minute: 0
+      - open:
+          day: 6
+          hour: 9
+          minute: 0
+        close:
+          day: 6
+          hour: 20
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 9:00 AM – 8:00 PM'
+      - 'Tuesday: 8:00 AM – 8:00 PM'
+      - 'Wednesday: 9:00 AM – 8:00 PM'
+      - 'Thursday: 9:00 AM – 8:00 PM'
+      - 'Friday: 9:00 AM – 8:00 PM'
+      - 'Saturday: 9:00 AM – 8:00 PM'
+      - 'Sunday: Closed'
+    secondaryHoursType: TAKEOUT
+    nextCloseTime: '2025-05-04T00:00:00Z'
 phone: (336) 617-3066
 price_level: PRICE_LEVEL_INEXPENSIVE
 price_range: $10 &ndash; $20
 rating: '4.4'
-rating_count: 0
+rating_count: 250
 website: https://baobaokitchen.com/?utm_source=google
+description: >-
+  Discover BaoBao Kitchen in Greensboro, NC$$$BaoBao Kitchen in Greensboro, NC,
+  offers a welcoming atmosphere for enjoying authentic Vietnamese flavors,
+  making it a go-to spot for flavorful pho and banh mi in a relaxed setting. The
+  restaurant highlights a variety of fresh, traditional dishes alongside
+  thoughtful vegan options, appealing to those seeking diverse Asian-inspired
+  meals in the area. With convenient accessibility features like
+  wheelchair-friendly parking and entrances, it ensures a comfortable dining
+  experience for all visitors. Operating from early morning hours through the
+  evening most days, it's ideal for casual lunches or dinners, blending
+  affordability with quality ingredients.
+generative_summary: >-
+  Discover BaoBao Kitchen in Greensboro, NC$$$BaoBao Kitchen in Greensboro, NC,
+  offers a welcoming atmosphere for enjoying authentic Vietnamese flavors,
+  making it a go-to spot for flavorful pho and banh mi in a relaxed setting. The
+  restaurant highlights a variety of fresh, traditional dishes alongside
+  thoughtful vegan options, appealing to those seeking diverse Asian-inspired
+  meals in the area. With convenient accessibility features like
+  wheelchair-friendly parking and entrances, it ensures a comfortable dining
+  experience for all visitors. Operating from early morning hours through the
+  evening most days, it's ideal for casual lunches or dinners, blending
+  affordability with quality ingredients.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What People Are Buzzing About$$$Visitors to this spot often rave about the
+  tasty Vietnamese dishes that hit the spot, with many highlighting the fresh
+  flavors and generous portions as standout features. Feedback frequently notes
+  the welcoming vibe and solid value, making it a reliable choice for anyone
+  craving authentic eats without breaking the bank. While some mention
+  occasional waits during peak times, the overall consensus leans positive,
+  praising the attentive service and variety of options that cater to different
+  tastes. Overall, it's clear that folks appreciate the balance of quality and
+  affordability here, encouraging repeat visits for a satisfying meal.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +414,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

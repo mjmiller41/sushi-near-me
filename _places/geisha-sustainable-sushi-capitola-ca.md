@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Geisha Sustainable Sushi"
+title: Geisha Sustainable Sushi
 permalink: /california/capitola/geisha-sustainable-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Capitola
 seo:
-  name: "Geisha Sustainable Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.geishasushicapitola.com/
-description: "Geisha Sustainable Sushi serves delicious sushi in Capitola, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJDQ0nIAsVjoARGMguAiwnWAc
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x808e150b20270d0d:0x758272c022ec818!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 16
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 0
+      close:
+        day: 1
+        hour: 20
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 0
+      close:
+        day: 5
+        hour: 20
+        minute: 30
+    - open:
+        day: 6
+        hour: 16
+        minute: 0
+      close:
+        day: 6
+        hour: 20
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 4:00 – 8:00 PM'
     - 'Tuesday: 4:00 – 8:00 PM'
     - 'Wednesday: 4:00 – 8:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 4:00 – 8:30 PM'
     - 'Saturday: 4:00 – 8:30 PM'
     - 'Sunday: 4:00 – 8:00 PM'
-  current:
-    - 'Monday: 4:00 – 8:00 PM'
-    - 'Tuesday: 4:00 – 8:00 PM'
-    - 'Wednesday: 4:00 – 8:00 PM'
-    - 'Thursday: 4:00 – 8:00 PM'
-    - 'Friday: 4:00 – 8:30 PM'
-    - 'Saturday: 4:00 – 8:30 PM'
-    - 'Sunday: 4:00 – 8:00 PM'
+  nextOpenTime: '2025-05-03T23:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,246 @@ phone: (831) 464-3328
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.3'
-rating_count: 0
+rating_count: 216
 website: https://www.geishasushicapitola.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Geisha Sustainable Sushi in Capitola, CA$$$Geisha Sustainable Sushi
+  in Capitola, CA, stands out as a welcoming Japanese eatery focused on fresh,
+  creative sushi rolls that highlight organic ingredients and thoughtful
+  vegetarian choices. The laid-back atmosphere makes it an ideal spot for
+  enjoying flavorful dishes in a relaxed coastal setting, perfect for those
+  seeking quality sushi restaurants nearby. With a commitment to sustainable
+  practices, the menu features a variety of options that cater to different
+  tastes, including innovative rolls that balance tradition with modern twists.
+  This Capitola gem also offers accessibility features and a convenient location
+  close to local attractions, enhancing the overall dining experience for sushi
+  enthusiasts. Whether you're looking for top-rated sushi spots in the area,
+  it's a great place to unwind and savor the flavors.
+generative_summary: >-
+  Discover Geisha Sustainable Sushi in Capitola, CA$$$Geisha Sustainable Sushi
+  in Capitola, CA, stands out as a welcoming Japanese eatery focused on fresh,
+  creative sushi rolls that highlight organic ingredients and thoughtful
+  vegetarian choices. The laid-back atmosphere makes it an ideal spot for
+  enjoying flavorful dishes in a relaxed coastal setting, perfect for those
+  seeking quality sushi restaurants nearby. With a commitment to sustainable
+  practices, the menu features a variety of options that cater to different
+  tastes, including innovative rolls that balance tradition with modern twists.
+  This Capitola gem also offers accessibility features and a convenient location
+  close to local attractions, enhancing the overall dining experience for sushi
+  enthusiasts. Whether you're looking for top-rated sushi spots in the area,
+  it's a great place to unwind and savor the flavors.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJDQ0nIAsVjoARGMguAiwnWAc/reviews/ChZDSUhNMG9nS0VJQ0FnSUREczZxQ2V3EAE
+    relativePublishTimeDescription: 6 months ago
+    rating: 3
+    text:
+      text: >-
+        Very nice. Sake boxes are fun. Good was fresh. Pork tonkatsu was crispy.
+        I had not been here in a very long time. But will definitely come back.
+
+        2nd time not as nice, dinner. Saki was not full, sushi was ok service
+        was ok, they were bored so on phones.
+      languageCode: en
+    originalText:
+      text: >-
+        Very nice. Sake boxes are fun. Good was fresh. Pork tonkatsu was crispy.
+        I had not been here in a very long time. But will definitely come back.
+
+        2nd time not as nice, dinner. Saki was not full, sushi was ok service
+        was ok, they were bored so on phones.
+      languageCode: en
+    authorAttribution:
+      displayName: Debbie Pieracci
+      uri: https://www.google.com/maps/contrib/103617268183321181339/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWv0O9kHNsh17IFzgMkyhpTrPJpuV-HvekJ4_FYpOfNZjXb2B4xKw=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2024-10-11T03:20:50.466206Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUREczZxQ2V3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUREczZxQ2V3EAE!2m1!1s0x808e150b20270d0d:0x758272c022ec818
+  - name: >-
+      places/ChIJDQ0nIAsVjoARGMguAiwnWAc/reviews/ChdDSUhNMG9nS0VJQ0FnSURMaGRIZXFnRRAB
+    relativePublishTimeDescription: 10 months ago
+    rating: 3
+    text:
+      text: >-
+        Ordered delivery through Doordash for the first time and was very
+        impressed with the quality and variety of flavors. I am a vegetarian and
+        had more options than just the traditional simple rolls. Pics taken
+        after we were almost done eating. Plan to eat from here again 😸
+
+
+        Edit: Was really happy with the vegetarian offerings but asked that any
+        items containing msg be removed from my order as it makes me very ill.
+        No one contacted me and my full order was prepared so believed
+        everything was fine. Was quite happy with the flavor of my meal but
+        became ill just a couple hours after eating it so presume they ignored
+        my request. Will likely be very ill for the next few days now. Changing
+        my review from 5 star to 3 for disregarding my request.
+      languageCode: en
+    originalText:
+      text: >-
+        Ordered delivery through Doordash for the first time and was very
+        impressed with the quality and variety of flavors. I am a vegetarian and
+        had more options than just the traditional simple rolls. Pics taken
+        after we were almost done eating. Plan to eat from here again 😸
+
+
+        Edit: Was really happy with the vegetarian offerings but asked that any
+        items containing msg be removed from my order as it makes me very ill.
+        No one contacted me and my full order was prepared so believed
+        everything was fine. Was quite happy with the flavor of my meal but
+        became ill just a couple hours after eating it so presume they ignored
+        my request. Will likely be very ill for the next few days now. Changing
+        my review from 5 star to 3 for disregarding my request.
+      languageCode: en
+    authorAttribution:
+      displayName: Eliza
+      uri: https://www.google.com/maps/contrib/106835979040690407698/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUbmBmDdHt029EEt3elbUIr7bWrhzEuNFFZo38KtG6hqn7tPx4=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-06-29T04:26:30.384979Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURMaGRIZXFnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURMaGRIZXFnRRAB!2m1!1s0x808e150b20270d0d:0x758272c022ec818
+  - name: >-
+      places/ChIJDQ0nIAsVjoARGMguAiwnWAc/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfX09Ed21nRRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        Great sushi and a beautiful little restaurant close to capitola beach.
+        It overlooks the village.
+      languageCode: en
+    originalText:
+      text: >-
+        Great sushi and a beautiful little restaurant close to capitola beach.
+        It overlooks the village.
+      languageCode: en
+    authorAttribution:
+      displayName: Steve Ionescu
+      uri: https://www.google.com/maps/contrib/116740079010766476255/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjW6-SdNSULIkUIgfnhoNaDUmo63Vz2cH8zFTN5vXEVaA1slP6Y=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-01-14T03:29:09.639112Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNfX09Ed21nRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNfX09Ed21nRRAB!2m1!1s0x808e150b20270d0d:0x758272c022ec818
+  - name: >-
+      places/ChIJDQ0nIAsVjoARGMguAiwnWAc/reviews/ChZDSUhNMG9nS0VJQ0FnSUNRdVlmSUVREAE
+    relativePublishTimeDescription: 6 years ago
+    rating: 5
+    text:
+      text: >-
+        My wife and I gave this place a shot for our anniversary and loved it!
+        The staff was very friendly and the sushi was tasty. I definitely
+        enjoyed the sashimi more than the rolls, but one of the basil rolls were
+        surprisingly delicious. This is the only sushi place I have ever been to
+        that had something actually spicy. You gotta try the Satan sauce if you
+        are crazy about hot food!
+      languageCode: en
+    originalText:
+      text: >-
+        My wife and I gave this place a shot for our anniversary and loved it!
+        The staff was very friendly and the sushi was tasty. I definitely
+        enjoyed the sashimi more than the rolls, but one of the basil rolls were
+        surprisingly delicious. This is the only sushi place I have ever been to
+        that had something actually spicy. You gotta try the Satan sauce if you
+        are crazy about hot food!
+      languageCode: en
+    authorAttribution:
+      displayName: Robert Saunders
+      uri: https://www.google.com/maps/contrib/116781438166631939723/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUVxaawvhUmz75x6ok753Vrc4EjObGWlGqIHQlHWUJYU4aJ9eFh=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2018-09-03T04:52:19.829973Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNRdVlmSUVREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNRdVlmSUVREAE!2m1!1s0x808e150b20270d0d:0x758272c022ec818
+  - name: >-
+      places/ChIJDQ0nIAsVjoARGMguAiwnWAc/reviews/ChZDSUhNMG9nS0VJQ0FnSURxb3J6R2ZnEAE
+    relativePublishTimeDescription: 3 years ago
+    rating: 5
+    text:
+      text: >-
+        Truly amazing vegan sushi! One of the best on the west coast in my
+        opinion and I’ve had a lot of vegan sushi across California + Oregon.
+        They really dedicated a good chunk of the menu for creative options that
+        are flavourful and affordable. You won’t see the common and unnecessary
+        “vegan tax” here, it allows you to splurge to try more rolls! Highly
+        recommended.
+      languageCode: en
+    originalText:
+      text: >-
+        Truly amazing vegan sushi! One of the best on the west coast in my
+        opinion and I’ve had a lot of vegan sushi across California + Oregon.
+        They really dedicated a good chunk of the menu for creative options that
+        are flavourful and affordable. You won’t see the common and unnecessary
+        “vegan tax” here, it allows you to splurge to try more rolls! Highly
+        recommended.
+      languageCode: en
+    authorAttribution:
+      displayName: Alexandra Lane
+      uri: https://www.google.com/maps/contrib/105093655404717438987/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjW1X-iPLqnnDvRIj5TrETxepF8610JlA8aVGRuFkic24w8yayFa=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2021-07-14T17:36:37.180950Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURxb3J6R2ZnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURxb3J6R2ZnEAE!2m1!1s0x808e150b20270d0d:0x758272c022ec818
+review_summary: >-
+  What Customers Are Saying About the Sushi$$$Visitors often praise the fresh
+  and creative sushi offerings, with plenty of flavorful options that appeal to
+  vegetarians and those exploring new tastes in a casual vibe. While most
+  experiences highlight the quality of the food and its variety, some note
+  occasional inconsistencies in service that could use a bit more attention to
+  detail. Overall, the spot earns high marks for its welcoming environment and
+  proximity to the beach, making it a solid choice for groups or families.
+  Feedback suggests it's a reliable go-to for anyone craving tasty rolls without
+  breaking the bank, though a few mention room for improvement in handling
+  special requests. If you're hunting for great sushi places near you, this
+  location delivers a generally positive experience that's worth trying out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: true
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
 serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

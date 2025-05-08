@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Flying Sumo"
+title: Flying Sumo
 permalink: /utah/park-city/flying-sumo.html
 stateAbbr: UT
 stateName: Utah
 cityName: Park City
 seo:
-  name: "Flying Sumo"
-  type: Restaurant
+  type: restaurant
   links: http://www.flyingsumosushi.com/
-description: "Flying Sumo serves delicious sushi in Park City, Utah. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJKTxPn6JyUocRcfN7vIAUchw
 photos:
   - name: >-
@@ -170,62 +168,374 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x875272a29f4f3c29:0x1c721480bc7bf371!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 17
+        minute: 30
+      close:
+        day: 0
+        hour: 20
+        minute: 30
+    - open:
+        day: 1
+        hour: 17
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 5:30 – 9:00 PM'
     - 'Tuesday: 5:30 – 9:00 PM'
     - 'Wednesday: 5:30 – 9:00 PM'
     - 'Thursday: 5:30 – 9:00 PM'
     - 'Friday: 5:30 – 9:00 PM'
     - 'Saturday: 5:30 – 9:00 PM'
-    - 'Sunday: 11:30 AM – 8:30 PM'
-  current:
-    - 'Monday: 5:30 – 9:00 PM'
-    - 'Tuesday: 5:30 – 9:00 PM'
-    - 'Wednesday: 5:30 – 9:00 PM'
-    - 'Thursday: 5:30 – 9:00 PM'
-    - 'Friday: 5:30 – 9:00 PM'
-    - 'Saturday: 5:30 – 9:00 PM'
-    - 'Sunday: 11:30 AM – 8:30 PM'
+    - 'Sunday: 5:30 – 8:30 PM'
+  nextOpenTime: '2025-05-03T23:30:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: false
+    periods:
+      - open:
+          day: 0
+          hour: 17
+          minute: 30
+        close:
+          day: 0
+          hour: 21
+          minute: 0
+      - open:
+          day: 1
+          hour: 17
+          minute: 30
+        close:
+          day: 1
+          hour: 21
+          minute: 0
+      - open:
+          day: 2
+          hour: 17
+          minute: 30
+        close:
+          day: 2
+          hour: 21
+          minute: 0
+      - open:
+          day: 3
+          hour: 17
+          minute: 30
+        close:
+          day: 3
+          hour: 21
+          minute: 0
+      - open:
+          day: 4
+          hour: 17
+          minute: 30
+        close:
+          day: 4
+          hour: 21
+          minute: 0
+      - open:
+          day: 5
+          hour: 17
+          minute: 30
+        close:
+          day: 5
+          hour: 21
+          minute: 0
+      - open:
+          day: 6
+          hour: 17
+          minute: 30
+        close:
+          day: 6
+          hour: 21
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 5:30 – 9:00 PM'
+      - 'Tuesday: 5:30 – 9:00 PM'
+      - 'Wednesday: 5:30 – 9:00 PM'
+      - 'Thursday: 5:30 – 9:00 PM'
+      - 'Friday: 5:30 – 9:00 PM'
+      - 'Saturday: 5:30 – 9:00 PM'
+      - 'Sunday: 5:30 – 9:00 PM'
+    secondaryHoursType: TAKEOUT
+    nextOpenTime: '2025-05-03T23:30:00Z'
 phone: (435) 649-5522
 price_level: PRICE_LEVEL_MODERATE
 price_range: $30 &ndash; $50
 rating: '4.1'
-rating_count: 0
+rating_count: 377
 website: http://www.flyingsumosushi.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Flying Sumo in Park City, UT$$$Flying Sumo in Park City, UT, stands
+  out as a casual Japanese restaurant offering a delightful array of fresh sushi
+  and classic dishes that capture the essence of authentic flavors. With its
+  welcoming atmosphere and selection of sake and beer, it's an ideal spot for
+  those seeking a relaxed dining experience in a mountain town setting. The menu
+  highlights specialty rolls and cooked options that blend traditional
+  techniques with creative twists, making it a go-to for sushi enthusiasts
+  exploring local eateries. Accessibility features like wheelchair-friendly
+  entrances and seating add to its appeal, ensuring everyone can enjoy the
+  vibrant offerings. Whether you're looking for sushi places near you or a taste
+  of Japanese cuisine in a cozy environment, this spot delivers a memorable meal
+  at moderate prices.
+generative_summary: >-
+  Discover Flying Sumo in Park City, UT$$$Flying Sumo in Park City, UT, stands
+  out as a casual Japanese restaurant offering a delightful array of fresh sushi
+  and classic dishes that capture the essence of authentic flavors. With its
+  welcoming atmosphere and selection of sake and beer, it's an ideal spot for
+  those seeking a relaxed dining experience in a mountain town setting. The menu
+  highlights specialty rolls and cooked options that blend traditional
+  techniques with creative twists, making it a go-to for sushi enthusiasts
+  exploring local eateries. Accessibility features like wheelchair-friendly
+  entrances and seating add to its appeal, ensuring everyone can enjoy the
+  vibrant offerings. Whether you're looking for sushi places near you or a taste
+  of Japanese cuisine in a cozy environment, this spot delivers a memorable meal
+  at moderate prices.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJKTxPn6JyUocRcfN7vIAUchw/reviews/ChZDSUhNMG9nS0VJQ0FnSUN2d09mNkdREAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        This place deserves more praise than it currently has. After being
+        turned away from Yuki Yama we walked down to Flying Sumo in the freezing
+        temperature but it was so worth it! The Saki was amazing The food was so
+        fresh and tasty. The staff was friendly and inviting.
+      languageCode: en
+    originalText:
+      text: >-
+        This place deserves more praise than it currently has. After being
+        turned away from Yuki Yama we walked down to Flying Sumo in the freezing
+        temperature but it was so worth it! The Saki was amazing The food was so
+        fresh and tasty. The staff was friendly and inviting.
+      languageCode: en
+    authorAttribution:
+      displayName: Eric Mojica
+      uri: https://www.google.com/maps/contrib/107990387121362652014/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJhh2oPux9UnrI8B2_Pg76TqVBs7J12udWDdLzV-KESSqDodQ=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-12-07T02:13:48.100606Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN2d09mNkdREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN2d09mNkdREAE!2m1!1s0x875272a29f4f3c29:0x1c721480bc7bf371
+  - name: >-
+      places/ChIJKTxPn6JyUocRcfN7vIAUchw/reviews/ChdDSUhNMG9nS0VJQ0FnSUNubjR6VHNRRRAB
+    relativePublishTimeDescription: 7 months ago
+    rating: 5
+    text:
+      text: >-
+        I like sushi and I was delighted by this place. I was looking for a
+        lighter dinner and the Uramaki I ordered was called "Sunset". It was one
+        of the best rolls I have ever had. The flavor was incredible and the
+        atmosphere of the place was very calming. What a great place to grab
+        dinner.
+
+
+        If you are like me and don't go to Park City often, make sure that when
+        you do, the Flying Sumo is on your list of restaurants to visit while in
+        town! I know that I will be back as often as I can.
+      languageCode: en
+    originalText:
+      text: >-
+        I like sushi and I was delighted by this place. I was looking for a
+        lighter dinner and the Uramaki I ordered was called "Sunset". It was one
+        of the best rolls I have ever had. The flavor was incredible and the
+        atmosphere of the place was very calming. What a great place to grab
+        dinner.
+
+
+        If you are like me and don't go to Park City often, make sure that when
+        you do, the Flying Sumo is on your list of restaurants to visit while in
+        town! I know that I will be back as often as I can.
+      languageCode: en
+    authorAttribution:
+      displayName: Austin Colton
+      uri: https://www.google.com/maps/contrib/113568559090060117990/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUjcONsZZdDPuAGaEibUv5CihKr4_gtj7tbPf8jPAQGkikYxTyL=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-10-01T13:33:13.018774Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNubjR6VHNRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNubjR6VHNRRRAB!2m1!1s0x875272a29f4f3c29:0x1c721480bc7bf371
+  - name: >-
+      places/ChIJKTxPn6JyUocRcfN7vIAUchw/reviews/ChdDSUhNMG9nS0VJQ0FnTUNnallDdHh3RRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        I went for the first time on Valentine's Day, Chef Eric created the
+        sushi especially for me. They were delicious, good service and
+        treatment. I would go again without a doubt!!!! 🌟
+      languageCode: en
+    originalText:
+      text: >-
+        I went for the first time on Valentine's Day, Chef Eric created the
+        sushi especially for me. They were delicious, good service and
+        treatment. I would go again without a doubt!!!! 🌟
+      languageCode: en
+    authorAttribution:
+      displayName: Sheila Rivera
+      uri: https://www.google.com/maps/contrib/107398455345165454047/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWxDZMZSAAwlIj5R0dk4i7pDRYwKfQ8IhrYSDdLLmeYkhY882rC=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-02-19T18:50:28.540935Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNnallDdHh3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNnallDdHh3RRAB!2m1!1s0x875272a29f4f3c29:0x1c721480bc7bf371
+  - name: >-
+      places/ChIJKTxPn6JyUocRcfN7vIAUchw/reviews/ChdDSUhNMG9nS0VJQ0FnSUR2b19yVTN3RRAB
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        Great food, most of all, and the service was topnotch! Bogdon, our
+        server, was impressive with his kind of service. Great attitude and made
+        us feel like a valuable customer. Keep it up!
+      languageCode: en
+    originalText:
+      text: >-
+        Great food, most of all, and the service was topnotch! Bogdon, our
+        server, was impressive with his kind of service. Great attitude and made
+        us feel like a valuable customer. Keep it up!
+      languageCode: en
+    authorAttribution:
+      displayName: Den Son
+      uri: https://www.google.com/maps/contrib/112196723714122461536/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUcpeYMh7ZHx3BthdUC5UMGHMxKG9EMOF_9JYpXSshC8r8QB6gH=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-12-23T15:11:49.620337Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR2b19yVTN3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR2b19yVTN3RRAB!2m1!1s0x875272a29f4f3c29:0x1c721480bc7bf371
+  - name: >-
+      places/ChIJKTxPn6JyUocRcfN7vIAUchw/reviews/ChZDSUhNMG9nS0VJQ0FnSURuaGRYYklnEAE
+    relativePublishTimeDescription: 6 months ago
+    rating: 5
+    text:
+      text: >-
+        What a great place to hang out and eat some sushi! Our experience has
+        been that the staff is very friendly and does an excellent job of taking
+        care of our needs. They have a lot of very cool combinations in their
+        sushi rolls, and they're always happy to give my wife a big pile of
+        ginger, which she seems to be addicted to.
+      languageCode: en
+    originalText:
+      text: >-
+        What a great place to hang out and eat some sushi! Our experience has
+        been that the staff is very friendly and does an excellent job of taking
+        care of our needs. They have a lot of very cool combinations in their
+        sushi rolls, and they're always happy to give my wife a big pile of
+        ginger, which she seems to be addicted to.
+      languageCode: en
+    authorAttribution:
+      displayName: Monte Webster
+      uri: https://www.google.com/maps/contrib/115085069810271744822/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVnPl-y6_hAAXMgr-iVy5RAiUGzG7kAb6iiSmdQ1YZWfz9Isz0iJA=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2024-10-07T20:36:52.010701Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURuaGRYYklnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURuaGRYYklnEAE!2m1!1s0x875272a29f4f3c29:0x1c721480bc7bf371
+review_summary: >-
+  What Customers Are Raving About$$$If you're hunting for top-rated sushi spots,
+  folks often highlight the fresh and flavorful rolls that make every bite a
+  standout experience at this laid-back eatery. Many appreciate the friendly
+  service and welcoming vibe that turn a simple dinner into a enjoyable outing,
+  with comments praising the creative combinations and overall quality of the
+  food. It's clear that the staff's attentive approach helps create a positive
+  atmosphere, leaving visitors feeling well taken care of from start to finish.
+  While some mention the cozy setting as perfect for a casual night out, others
+  note the great value for authentic Japanese dishes that satisfy cravings
+  without breaking the bank. Overall, it's a solid choice for anyone in the area
+  wanting reliable sushi restaurants that deliver on taste and hospitality.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  paidParkingLot: true
+  freeStreetParking: true
+  paidStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
+curbside_pickup: true
+delivery: true
+dine_in: true
 good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: true
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Relaxed sushi place featuring classic & specialty rolls as well as cooked
+  Japanese dishes.
 
 ---

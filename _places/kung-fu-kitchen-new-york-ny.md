@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kung Fu Kitchen"
+title: Kung Fu Kitchen
 permalink: /new-york/new-york/kung-fu-kitchen.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "Kung Fu Kitchen"
-  type: Restaurant
+  type: restaurant
   links: https://www.kfkitchennyc.com/
-description: "Dumplings, hand-pulled ramen, and other Chinese staples round out the menu at this relaxed restaurant. Kung Fu Kitchen serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ2_UcxqxZwokRf5dbeh2oSe8
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 0
 website: https://www.kfkitchennyc.com/
+description: >-
+  Explore Kung Fu Kitchen in New York, NY$$$Kung Fu Kitchen in New York, NY,
+  stands out as a relaxed spot for enjoying authentic Chinese flavors, blending
+  traditional dishes with a casual vibe. This eatery specializes in hearty
+  steamed buns and regional specialties that capture the essence of comforting,
+  home-style meals, complemented by refreshing bubble tea options. Visitors can
+  savor a variety of dumplings and hand-pulled noodles, prepared with fresh
+  ingredients that highlight bold tastes without overwhelming the palate. The
+  welcoming atmosphere makes it a great choice for quick lunches or group
+  gatherings, adding to its appeal in a bustling urban setting. With its focus
+  on affordable, satisfying eats, it's an ideal destination for those seeking
+  genuine Chinese cuisine near the city center.
+generative_summary: >-
+  Explore Kung Fu Kitchen in New York, NY$$$Kung Fu Kitchen in New York, NY,
+  stands out as a relaxed spot for enjoying authentic Chinese flavors, blending
+  traditional dishes with a casual vibe. This eatery specializes in hearty
+  steamed buns and regional specialties that capture the essence of comforting,
+  home-style meals, complemented by refreshing bubble tea options. Visitors can
+  savor a variety of dumplings and hand-pulled noodles, prepared with fresh
+  ingredients that highlight bold tastes without overwhelming the palate. The
+  welcoming atmosphere makes it a great choice for quick lunches or group
+  gatherings, adding to its appeal in a bustling urban setting. With its focus
+  on affordable, satisfying eats, it's an ideal destination for those seeking
+  genuine Chinese cuisine near the city center.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ2_UcxqxZwokRf5dbeh2oSe8/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3MUthYjBBRRAB
@@ -366,6 +389,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNRNFlIdFN3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNRNFlIdFN3EAE!2m1!1s0x89c259acc61cf5db:0xef49a81d7a5b977f
+review_summary: >-
+  Insights from Recent Feedback$$$Diners often rave about the standout dishes
+  like juicy dumplings and flavorful noodles, making this spot a solid pick for
+  anyone craving hearty, well-prepared Chinese meals. While most appreciate the
+  reasonable prices and fresh ingredients that keep things approachable and
+  satisfying, a few notes mention occasional waits that might slow down the
+  experience. Overall, the food's bold flavors and comforting qualities shine
+  through, earning high marks for authenticity and value in a casual
+  environment. It's praised as a go-to for groups or solo diners looking for
+  reliable options without breaking the bank, though some suggest planning ahead
+  during peak times. If you're exploring Chinese restaurants nearby, this place
+  delivers a generally positive vibe with room for smooth service improvements.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: false
   paidStreetParking: true
@@ -398,8 +434,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Dumplings, hand-pulled ramen, and other Chinese staples round out the menu at
   this relaxed restaurant.
 

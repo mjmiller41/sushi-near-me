@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Qiu Sushi and Tea Bar"
+title: Qiu Sushi and Tea Bar
 permalink: /new-york/flushing/qiu-sushi-and-tea-bar.html
 stateAbbr: NY
 stateName: New York
 cityName: Flushing
 seo:
-  name: "Qiu Sushi and Tea Bar"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Qiu Sushi and Tea Bar serves delicious sushi in Flushing, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJS-T0TbhhwokRAS-BW4R9WIg
 photos:
   - name: >-
@@ -167,7 +165,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c261b84df4e44b:0x88587d845b812f01!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:00 PM'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -175,14 +223,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:00 PM'
     - 'Saturday: 11:00 AM – 9:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:00 AM – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 9:00 PM'
-    - 'Saturday: 11:00 AM – 9:00 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T01:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -194,9 +235,43 @@ phone: (718) 799-0628
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.2'
-rating_count: 0
+rating_count: 95
 website: null
+description: >-
+  Discover Qiu Sushi and Tea Bar in Flushing, NY$$$Qiu Sushi and Tea Bar in
+  Flushing, NY, stands out as a welcoming Japanese restaurant offering a blend
+  of fresh sushi rolls, hearty ramen, and flavorful BBQ skewers in a relaxed
+  atmosphere. Patrons can enjoy a variety of authentic dishes paired with
+  refreshing bubble tea, making it an ideal spot for casual dining experiences.
+  The menu highlights high-quality ingredients that bring out the best in
+  traditional flavors, appealing to those seeking sushi options in the area.
+  Additionally, its moderate pricing and accessibility features ensure a
+  comfortable visit for everyone, enhancing its appeal as a go-to destination
+  for Japanese cuisine enthusiasts.
+generative_summary: >-
+  Discover Qiu Sushi and Tea Bar in Flushing, NY$$$Qiu Sushi and Tea Bar in
+  Flushing, NY, stands out as a welcoming Japanese restaurant offering a blend
+  of fresh sushi rolls, hearty ramen, and flavorful BBQ skewers in a relaxed
+  atmosphere. Patrons can enjoy a variety of authentic dishes paired with
+  refreshing bubble tea, making it an ideal spot for casual dining experiences.
+  The menu highlights high-quality ingredients that bring out the best in
+  traditional flavors, appealing to those seeking sushi options in the area.
+  Additionally, its moderate pricing and accessibility features ensure a
+  comfortable visit for everyone, enhancing its appeal as a go-to destination
+  for Japanese cuisine enthusiasts.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Folks frequently rave about the fresh and tasty
+  sushi selections at this spot, often noting it as a solid choice for anyone
+  craving Japanese fare nearby. With an impressive 4.2 rating from numerous
+  reviews, many appreciate the variety of options like ramen and bubble tea that
+  keep things exciting and satisfying. Some casual diners mention the laid-back
+  vibe makes it perfect for quick meals or groups, adding to the overall
+  enjoyment. While a few suggest it's best for everyday eats rather than special
+  occasions, the general consensus leans positive, making it a recommended pick
+  for those exploring top-rated sushi places in the neighborhood.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -222,7 +297,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

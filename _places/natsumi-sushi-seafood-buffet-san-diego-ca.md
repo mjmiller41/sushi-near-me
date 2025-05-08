@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Natsumi Sushi & Seafood Buffet"
+title: Natsumi Sushi & Seafood Buffet
 permalink: /california/san-diego/natsumi-sushi-seafood-buffet.html
 stateAbbr: CA
 stateName: California
 cityName: San Diego
 seo:
-  name: "Natsumi Sushi & Seafood Buffet"
-  type: Restaurant
+  type: restaurant
   links: http://natsumibuffet.com/
-description: "Modern spot for all-you-can eat sushi, Japanese entrees, poke bowls, Chinese dishes & Mongolian BBQ. Natsumi Sushi & Seafood Buffet serves delicious sushi in San Diego, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJp5Tx4VL_24ARNOlqbKLTVdo
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: null
 rating: '4.2'
 rating_count: 0
 website: http://natsumibuffet.com/
+description: >-
+  Explore Natsumi Sushi & Seafood Buffet in San Diego$$$Natsumi Sushi & Seafood
+  Buffet in San Diego, CA, offers a contemporary dining experience with a focus
+  on fresh, all-you-can-eat options that blend Japanese flavors with other Asian
+  influences. This spot features an array of specialty rolls, poke bowls, and
+  entrees alongside desserts and a lively Mongolian grill, making it a go-to for
+  those seeking diverse sushi restaurants nearby. Accessibility is a key
+  highlight, with wheelchair-friendly parking, entrances, and seating that
+  ensure everyone can enjoy the meal comfortably. The venue also includes
+  outdoor seating and a variety of dishes that cater to different preferences,
+  from vegetarian options to hearty seafood selections. With its modern ambiance
+  and generous portions, it's an ideal choice for anyone exploring top-rated
+  sushi places in the area.
+generative_summary: >-
+  Explore Natsumi Sushi & Seafood Buffet in San Diego$$$Natsumi Sushi & Seafood
+  Buffet in San Diego, CA, offers a contemporary dining experience with a focus
+  on fresh, all-you-can-eat options that blend Japanese flavors with other Asian
+  influences. This spot features an array of specialty rolls, poke bowls, and
+  entrees alongside desserts and a lively Mongolian grill, making it a go-to for
+  those seeking diverse sushi restaurants nearby. Accessibility is a key
+  highlight, with wheelchair-friendly parking, entrances, and seating that
+  ensure everyone can enjoy the meal comfortably. The venue also includes
+  outdoor seating and a variety of dishes that cater to different preferences,
+  from vegetarian options to hearty seafood selections. With its modern ambiance
+  and generous portions, it's an ideal choice for anyone exploring top-rated
+  sushi places in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJp5Tx4VL_24ARNOlqbKLTVdo/reviews/ChdDSUhNMG9nS0VJQ0FnSUNYcU9fSWlBRRAB
@@ -374,6 +399,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQzcW9teFF3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQzcW9teFF3EAE!2m1!1s0x80dbff52e1f194a7:0xda55d3a26c6ae934
+review_summary: >-
+  Visitor Feedback on This Sushi Spot$$$Folks generally rave about the fresh
+  sushi and seafood variety at this buffet, calling it a solid pick for anyone
+  hunting for great sushi near me without breaking the bank. Many appreciate the
+  wide range of dishes, including tasty rolls, soups, and desserts that keep
+  things exciting and satisfying for groups or families. While service is often
+  described as quick and helpful, a few mentions note occasional inconsistencies
+  like less friendly staff or issues toward closing time, but these don't
+  overshadow the overall positives. It's frequently highlighted as a worthwhile
+  spot for lunch deals, with authentic flavors that make it stand out among
+  Japanese places near me. All in all, this location earns high marks for its
+  value and fun atmosphere, making it a recommended stop for sushi enthusiasts
+  looking for a reliable meal.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -406,8 +445,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Modern spot for all-you-can eat sushi, Japanese entrees, poke bowls, Chinese
   dishes & Mongolian BBQ.
 

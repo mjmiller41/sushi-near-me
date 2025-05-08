@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Poke Delight"
+title: Poke Delight
 permalink: /california/eastvale/poke-delight.html
 stateAbbr: CA
 stateName: California
 cityName: Eastvale
 seo:
-  name: "Poke Delight"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Poke Delight serves delicious sushi in Eastvale, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ-8omL13K3IARDWAqu4Oh01M
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80dcca5d2f26cafb:0x53d3a183bb2a600d!10e5
 primary_type: Asian Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:00 PM'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:00 PM'
     - 'Saturday: 11:00 AM – 9:00 PM'
     - 'Sunday: 11:00 AM – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 9:00 PM'
-    - 'Saturday: 11:00 AM – 9:00 PM'
-    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +246,46 @@ phone: (951) 444-6446
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.0'
-rating_count: 0
+rating_count: 197
 website: null
+description: >-
+  Discover Poke Delight in Eastvale, California$$$Poke Delight in Eastvale, CA,
+  stands out as a casual Asian eatery specializing in fresh Hawaiian poke and
+  sushi options that appeal to a variety of tastes. This spot offers a welcoming
+  atmosphere with accessible features like wheelchair-friendly parking and
+  seating, making it easy for everyone to enjoy a meal. Patrons can savor a
+  range of flavorful dishes, including poke bowls and other Asian-inspired fare,
+  all prepared with high-quality ingredients at moderate prices. If you're
+  searching for sushi places near me, this location provides a convenient option
+  with daily hours from 11 AM to 9 PM, perfect for a quick lunch or dinner.
+  Additionally, the menu includes family-friendly choices, ensuring it's a great
+  pick for those exploring top-rated sushi restaurants in the area.
+generative_summary: >-
+  Discover Poke Delight in Eastvale, California$$$Poke Delight in Eastvale, CA,
+  stands out as a casual Asian eatery specializing in fresh Hawaiian poke and
+  sushi options that appeal to a variety of tastes. This spot offers a welcoming
+  atmosphere with accessible features like wheelchair-friendly parking and
+  seating, making it easy for everyone to enjoy a meal. Patrons can savor a
+  range of flavorful dishes, including poke bowls and other Asian-inspired fare,
+  all prepared with high-quality ingredients at moderate prices. If you're
+  searching for sushi places near me, this location provides a convenient option
+  with daily hours from 11 AM to 9 PM, perfect for a quick lunch or dinner.
+  Additionally, the menu includes family-friendly choices, ensuring it's a great
+  pick for those exploring top-rated sushi restaurants in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this Asian restaurant often rave about
+  the poke bowls, noting their reasonable prices and burst of fresh flavors that
+  make for a satisfying meal. Folks frequently highlight the high-quality
+  ingredients that bring a delightful taste to every bite, creating an enjoyable
+  dining experience overall. While some mention that portions might feel a bit
+  modest, the value and taste keep it a solid choice for casual eaters. In a
+  casual setting like this, many appreciate the straightforward appeal that
+  keeps people coming back for more. All in all, it's a go-to spot if you're in
+  the mood for reliable sushi close to me, with the positives outweighing any
+  minor drawbacks for an honest, feel-good vibe.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +311,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Jooa"
+title: Sushi Jooa
 permalink: /colorado/loveland/sushi-jooa.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Loveland
 seo:
-  name: "Sushi Jooa"
-  type: Restaurant
+  type: restaurant
   links: http://www.sushijooa.com/
-description: "Sushi Jooa serves delicious sushi in Loveland, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJrynqAvdSaYcRgqvpEJF3_-I
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x876952f702ea29af:0xe2ff779110e9ab82!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:30 PM'
     - 'Tuesday: 11:00 AM – 9:30 PM'
     - 'Wednesday: 11:00 AM – 9:30 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:00 PM'
     - 'Saturday: 11:00 AM – 10:00 PM'
     - 'Sunday: 11:00 AM – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:30 PM'
-    - 'Tuesday: 11:00 AM – 9:30 PM'
-    - 'Wednesday: 11:00 AM – 9:30 PM'
-    - 'Thursday: 11:00 AM – 9:30 PM'
-    - 'Friday: 11:00 AM – 10:00 PM'
-    - 'Saturday: 11:00 AM – 10:00 PM'
-    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,217 @@ phone: (970) 685-4694
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.4'
-rating_count: 0
+rating_count: 589
 website: http://www.sushijooa.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Explore Sushi Jooa in Loveland, CO$$$Sushi Jooa in Loveland, CO, stands out as
+  a welcoming spot for fresh sushi and Japanese cuisine, blending casual vibes
+  with a variety of flavorful dishes perfect for lunch or dinner. This eatery
+  offers an array of rolls and entrees that highlight high-quality ingredients,
+  making it a go-to choice for those seeking sushi restaurants in the area. With
+  accessibility features like wheelchair-friendly entrances and ample parking,
+  it's designed for everyone to enjoy a relaxed meal. The menu includes options
+  for vegetarians and those looking for beer or wine pairings, adding to its
+  appeal as one of the top-rated sushi places near me. Open daily with extended
+  hours on weekends, it's an ideal destination for anyone craving authentic
+  Japanese flavors in a comfortable setting.
+generative_summary: >-
+  Explore Sushi Jooa in Loveland, CO$$$Sushi Jooa in Loveland, CO, stands out as
+  a welcoming spot for fresh sushi and Japanese cuisine, blending casual vibes
+  with a variety of flavorful dishes perfect for lunch or dinner. This eatery
+  offers an array of rolls and entrees that highlight high-quality ingredients,
+  making it a go-to choice for those seeking sushi restaurants in the area. With
+  accessibility features like wheelchair-friendly entrances and ample parking,
+  it's designed for everyone to enjoy a relaxed meal. The menu includes options
+  for vegetarians and those looking for beer or wine pairings, adding to its
+  appeal as one of the top-rated sushi places near me. Open daily with extended
+  hours on weekends, it's an ideal destination for anyone craving authentic
+  Japanese flavors in a comfortable setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJrynqAvdSaYcRgqvpEJF3_-I/reviews/ChdDSUhNMG9nS0VJQ0FnTUNRd0o3V3VBRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        The sushi was absolutely delicious! The Las Vegas rolls were my
+        favorite. I went with three other people, and three dishes plus an
+        appetizer was enough to fill all of us. I definitely want to come back!
+      languageCode: en
+    originalText:
+      text: >-
+        The sushi was absolutely delicious! The Las Vegas rolls were my
+        favorite. I went with three other people, and three dishes plus an
+        appetizer was enough to fill all of us. I definitely want to come back!
+      languageCode: en
+    authorAttribution:
+      displayName: Louisa Mitchell
+      uri: https://www.google.com/maps/contrib/104609241194659085771/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVy39tp-GxNzCYOidmeXYxVXORojwlwPk8S3f1zLQZLv1Av8grjRw=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-01T02:05:41.270386Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNRd0o3V3VBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNRd0o3V3VBRRAB!2m1!1s0x876952f702ea29af:0xe2ff779110e9ab82
+  - name: >-
+      places/ChIJrynqAvdSaYcRgqvpEJF3_-I/reviews/ChZDSUhNMG9nS0VJQ0FnSUQzekpuWktBEAE
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        As someone who has had sushi in Japan the quality of the fish here is
+        phenomenal. The variety in rolls, entrees and appetizers makes for a
+        comfortable place to eat even if you're not a common fan of sushi
+        either.
+
+        I even got some tempura ice cream for my birthday which was wonderful
+      languageCode: en
+    originalText:
+      text: >-
+        As someone who has had sushi in Japan the quality of the fish here is
+        phenomenal. The variety in rolls, entrees and appetizers makes for a
+        comfortable place to eat even if you're not a common fan of sushi
+        either.
+
+        I even got some tempura ice cream for my birthday which was wonderful
+      languageCode: en
+    authorAttribution:
+      displayName: Freya Iwa
+      uri: https://www.google.com/maps/contrib/105189903013951817206/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVGmIxmrQ05x13EVqcGNqLABfNDc-RIgi7ufWraUhmm31B06EZUHA=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-11-12T21:54:08.014206Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQzekpuWktBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQzekpuWktBEAE!2m1!1s0x876952f702ea29af:0xe2ff779110e9ab82
+  - name: >-
+      places/ChIJrynqAvdSaYcRgqvpEJF3_-I/reviews/ChZDSUhNMG9nS0VJQ0FnSUNYaGNTa0ZnEAE
+    relativePublishTimeDescription: 6 months ago
+    rating: 5
+    text:
+      text: >-
+        The sushi melts in your mouth. The portions were perfect, and the
+        atmosphere calming and plesant. This was their lunch special, and it was
+        more than enough food. I highly recommend them for sushi, and I will
+        surely be back!
+      languageCode: en
+    originalText:
+      text: >-
+        The sushi melts in your mouth. The portions were perfect, and the
+        atmosphere calming and plesant. This was their lunch special, and it was
+        more than enough food. I highly recommend them for sushi, and I will
+        surely be back!
+      languageCode: en
+    authorAttribution:
+      displayName: AJ Jackson
+      uri: https://www.google.com/maps/contrib/100312286811987685220/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWLeQ65CdIsTXTrWeoebY10fuYl-C15OnNZtaifjFoM-HYuzbGvvg=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-10-18T14:27:54.515782Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNYaGNTa0ZnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNYaGNTa0ZnEAE!2m1!1s0x876952f702ea29af:0xe2ff779110e9ab82
+  - name: >-
+      places/ChIJrynqAvdSaYcRgqvpEJF3_-I/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJXzdPV2V3EAE
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 3
+    text:
+      text: >-
+        Would love to eat here more! Sushi is amazing. Service from one
+        particular server ruins the experience. Customer service not the best.
+        Other than that we love it!
+      languageCode: en
+    originalText:
+      text: >-
+        Would love to eat here more! Sushi is amazing. Service from one
+        particular server ruins the experience. Customer service not the best.
+        Other than that we love it!
+      languageCode: en
+    authorAttribution:
+      displayName: Emily
+      uri: https://www.google.com/maps/contrib/104975456266644598320/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLjYoe9Fg5iXEM4Tyd65YmH1K1DiM6uOWmhs0zeexf2jBWtTQ=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-15T11:48:21.986246Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNJXzdPV2V3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNJXzdPV2V3EAE!2m1!1s0x876952f702ea29af:0xe2ff779110e9ab82
+  - name: >-
+      places/ChIJrynqAvdSaYcRgqvpEJF3_-I/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3NDRpcmdRRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        A bit pricier than Mr. Chen's, but with a bit more selection of sushi
+        ingredients. The yellow fin belly was delectable.
+      languageCode: en
+    originalText:
+      text: >-
+        A bit pricier than Mr. Chen's, but with a bit more selection of sushi
+        ingredients. The yellow fin belly was delectable.
+      languageCode: en
+    authorAttribution:
+      displayName: Fenn Vali
+      uri: https://www.google.com/maps/contrib/102782203651692131606/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUMvX-DcV2T-lWk7z6JBxreMJGMfaQlEqfavW9bFsH0_va845msTw=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-03-20T22:27:21.631196Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUN3NDRpcmdRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUN3NDRpcmdRRRAB!2m1!1s0x876952f702ea29af:0xe2ff779110e9ab82
+review_summary: >-
+  Insights from Customer Feedback$$$Visitors to this sushi spot often rave about
+  the exceptional quality and freshness of the rolls, with many highlighting the
+  generous portions and diverse menu that make it a standout among Japanese
+  places near me. Feedback frequently praises the melt-in-your-mouth fish and
+  tasty appetizers, noting that even lunch specials provide plenty of satisfying
+  options for groups or individuals. While most experiences are positive, a few
+  mentions point to occasional service inconsistencies that could use some
+  smoothing out, though they don't overshadow the overall enjoyment. Overall,
+  folks appreciate the welcoming atmosphere and value for the price, making it a
+  solid pick for anyone searching for the best sushi near me. If you're in the
+  mood for a casual dining adventure, this place delivers a generally delightful
+  experience worth trying.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  paidParkingLot: false
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: true
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
+serves_coffee: true
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

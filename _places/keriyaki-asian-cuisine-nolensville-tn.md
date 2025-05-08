@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Keriyaki Asian Cuisine"
+title: Keriyaki Asian Cuisine
 permalink: /tennessee/nolensville/keriyaki-asian-cuisine.html
 stateAbbr: TN
 stateName: Tennessee
 cityName: Nolensville
 seo:
-  name: "Keriyaki Asian Cuisine"
-  type: Restaurant
-  links: null
-description: "Keriyaki Asian Cuisine serves delicious sushi in Nolensville, Tennessee. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://keriyakiasiancuisine.kwickmenu.com/index.php
 place_id: ChIJA9M72ENxZIgR65YdBAFhEkg
 photos:
   - name: >-
@@ -170,8 +168,129 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x88647143d83bd303:0x48126101041d96eb!10e5
 primary_type: Asian Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 15
+        minute: 0
+    - open:
+        day: 0
+        hour: 16
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 15
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 15
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 15
+        minute: 0
+    - open:
+        day: 6
+        hour: 16
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 3:00 PM, 4:30 – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 3:00 PM, 4:30 – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 3:00 PM, 4:30 – 9:00 PM'
+    - 'Thursday: 11:00 AM – 3:00 PM, 4:30 – 9:00 PM'
+    - 'Friday: 11:00 AM – 3:00 PM, 4:30 – 9:30 PM'
+    - 'Saturday: 11:00 AM – 3:00 PM, 4:30 – 9:30 PM'
+    - 'Sunday: 11:00 AM – 3:00 PM, 4:30 – 9:00 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +298,49 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (615) 776-8618
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.5'
+rating_count: 208
+website: https://keriyakiasiancuisine.kwickmenu.com/index.php
+description: >-
+  Explore Keriyaki Asian Cuisine in Nolensville, TN$$$Keriyaki Asian Cuisine in
+  Nolensville, TN, offers a relaxed atmosphere perfect for enjoying a variety of
+  Asian fusion dishes, with standout options like fresh sushi that highlight its
+  creative flavors. This spot combines casual dining with an eclectic mix of
+  culinary influences, making it a go-to choice for those seeking flavorful
+  meals in a welcoming setting. Accessibility features such as
+  wheelchair-friendly parking and entrances ensure everyone can savor the
+  experience, while its moderate pricing appeals to those looking for quality
+  without breaking the bank. Operating with convenient hours that span lunch and
+  dinner, it's an ideal spot for locals or visitors searching for tasty
+  Asian-inspired eats nearby.
+generative_summary: >-
+  Explore Keriyaki Asian Cuisine in Nolensville, TN$$$Keriyaki Asian Cuisine in
+  Nolensville, TN, offers a relaxed atmosphere perfect for enjoying a variety of
+  Asian fusion dishes, with standout options like fresh sushi that highlight its
+  creative flavors. This spot combines casual dining with an eclectic mix of
+  culinary influences, making it a go-to choice for those seeking flavorful
+  meals in a welcoming setting. Accessibility features such as
+  wheelchair-friendly parking and entrances ensure everyone can savor the
+  experience, while its moderate pricing appeals to those looking for quality
+  without breaking the bank. Operating with convenient hours that span lunch and
+  dinner, it's an ideal spot for locals or visitors searching for tasty
+  Asian-inspired eats nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What People Are Buzzing About at Keriyaki$$$Folks rave about the delicious
+  flavors and solid portions at this Asian fusion spot, often highlighting the
+  fresh sushi as a real highlight that keeps them coming back. Many appreciate
+  the friendly service and cozy vibe, noting that it's a great place for a
+  casual meal with friends or family without any fuss. While some mention minor
+  waits during peak times, the overall consensus leans positive, with diners
+  enjoying the value for the price and variety of options on offer. It's clear
+  that the high marks reflect a satisfying experience, making it a reliable
+  choice for anyone in the mood for top-rated Asian cuisine in the area.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +366,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

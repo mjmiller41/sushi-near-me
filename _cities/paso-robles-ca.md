@@ -5,4 +5,5 @@ permalink: /california/paso-robles/
 stateAbbr: CA
 stateName: California
 cityName: Paso Robles
+
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Mikaku Sushi"
+title: Mikaku Sushi
 permalink: /new-york/new-york/mikaku-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "Mikaku Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.mikakusushiny.com/
-description: "Intimate location serving nigiri & rolled sushi, tempura, teriyaki & other Japanese standards. Mikaku Sushi serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJp94Aw4hZwokRPTLbr8Vw5t8
 photos:
   - name: >-
@@ -182,6 +180,29 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 0
 website: https://www.mikakusushiny.com/
+description: >-
+  Discover Mikaku Sushi in New York, NY$$$Mikaku Sushi in New York, NY, offers a
+  welcoming spot for enjoying fresh sushi and classic Japanese dishes in an
+  intimate setting. This casual eatery features a variety of rolls, nigiri,
+  tempura, and teriyaki options, making it a go-to choice for anyone seeking
+  satisfying Japanese flavors without the fuss. With affordable lunch specials
+  and a cozy atmosphere, it's perfect for a quick meal or relaxed dining
+  experience in the bustling city. The menu highlights fresh ingredients and
+  moderate pricing, appealing to those exploring top-rated sushi spots nearby.
+  Whether you're looking for sushi restaurants close to you, Mikaku Sushi
+  delivers a balance of quality and convenience that keeps locals coming back.
+generative_summary: >-
+  Discover Mikaku Sushi in New York, NY$$$Mikaku Sushi in New York, NY, offers a
+  welcoming spot for enjoying fresh sushi and classic Japanese dishes in an
+  intimate setting. This casual eatery features a variety of rolls, nigiri,
+  tempura, and teriyaki options, making it a go-to choice for anyone seeking
+  satisfying Japanese flavors without the fuss. With affordable lunch specials
+  and a cozy atmosphere, it's perfect for a quick meal or relaxed dining
+  experience in the bustling city. The menu highlights fresh ingredients and
+  moderate pricing, appealing to those exploring top-rated sushi spots nearby.
+  Whether you're looking for sushi restaurants close to you, Mikaku Sushi
+  delivers a balance of quality and convenience that keeps locals coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJp94Aw4hZwokRPTLbr8Vw5t8/reviews/ChdDSUhNMG9nS0VJQ0FnSURfMEotSXpBRRAB
@@ -345,6 +366,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUN3NTluZ3p3RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUN3NTluZ3p3RRAB!2m1!1s0x89c25988c300dea7:0xdfe670c5afdb323d
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this sushi spot often rave about the
+  tasty rolls and friendly service, making it a solid pick for a casual lunch or
+  dinner outing. Many appreciate the fresh ingredients and generous portions
+  that leave you feeling satisfied without breaking the bank, though a few note
+  that some dishes could use a bit more consistency. Overall, the cozy vibe and
+  attentive staff create a welcoming environment that's ideal for solo diners or
+  small groups enjoying Japanese favorites. If you're hunting for the best sushi
+  near you, feedback highlights the standout specials and flavorful options that
+  make meals here enjoyable. In a nutshell, it's a reliable choice for good food
+  and service, with most experiences leaning positive and worth trying out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   valetParking: false
 payment_options:
@@ -375,8 +408,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Intimate location serving nigiri & rolled sushi, tempura, teriyaki & other
   Japanese standards.
 

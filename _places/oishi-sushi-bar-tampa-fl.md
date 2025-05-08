@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Oishi Sushi Bar"
+title: Oishi Sushi Bar
 permalink: /florida/tampa/oishi-sushi-bar.html
 stateAbbr: FL
 stateName: Florida
 cityName: Tampa
 seo:
-  name: "Oishi Sushi Bar"
-  type: Restaurant
+  type: restaurant
   links: https://www.oishisushithaioldsmar.com/
-description: "Straightforward setting for Thai classics & sushi with lunch specials, beer, wine & happy hour. Oishi Sushi Bar serves delicious sushi in Tampa, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJU7UdBkXswogRIXTTR4OQKf4
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 0
 website: https://www.oishisushithaioldsmar.com/
+description: >-
+  Discover Oishi Sushi Bar in Tampa, FL$$$Oishi Sushi Bar in Tampa, Florida,
+  stands out as a cozy spot for enjoying authentic Thai dishes and expertly
+  crafted sushi in a simple yet inviting atmosphere. The menu features fresh
+  sushi rolls and sashimi that highlight creative flavors and meticulous
+  presentation, making it a favorite for those seeking quality Japanese-inspired
+  meals. With thoughtful amenities like wheelchair accessibility and options for
+  curbside pickup and delivery, it caters to a variety of dining needs for
+  families or casual outings. You'll find a selection of beer and wine to
+  complement your meal, along with lunch specials that add value to the
+  experience. This sushi restaurant near you offers a comfortable setting for
+  savoring top-rated dishes that blend tradition with convenience.
+generative_summary: >-
+  Discover Oishi Sushi Bar in Tampa, FL$$$Oishi Sushi Bar in Tampa, Florida,
+  stands out as a cozy spot for enjoying authentic Thai dishes and expertly
+  crafted sushi in a simple yet inviting atmosphere. The menu features fresh
+  sushi rolls and sashimi that highlight creative flavors and meticulous
+  presentation, making it a favorite for those seeking quality Japanese-inspired
+  meals. With thoughtful amenities like wheelchair accessibility and options for
+  curbside pickup and delivery, it caters to a variety of dining needs for
+  families or casual outings. You'll find a selection of beer and wine to
+  complement your meal, along with lunch specials that add value to the
+  experience. This sushi restaurant near you offers a comfortable setting for
+  savoring top-rated dishes that blend tradition with convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJU7UdBkXswogRIXTTR4OQKf4/reviews/ChZDSUhNMG9nS0VJQ0FnTUNnbk9UU2JBEAE
@@ -322,6 +345,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNEbE5XY1NnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNEbE5XY1NnEAE!2m1!1s0x88c2ec45061db553:0xfe29908347d37421
+review_summary: >-
+  What People Are Saying About the Experience$$$Visitors frequently praise the
+  fresh and beautifully presented sushi at this spot, noting how the rolls and
+  sashimi deliver a burst of flavors that keep them coming back for more. While
+  one comment mentioned occasional waits during peak times, the overall service
+  is often described as efficient and friendly, enhancing the relaxed vibe
+  perfect for groups or solo diners. Many highlight standout items like creative
+  rolls that feel like a treat, emphasizing the quality and taste that make it a
+  solid choice for Japanese cuisine enthusiasts. The atmosphere gets nods for
+  being quiet and welcoming, especially for family meals, with plenty of
+  positive feedback on the overall value. All in all, it's a go-to sushi place
+  near me where the positives far outweigh any minor hiccups, leaving most
+  people eager to recommend it.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -353,8 +390,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Straightforward setting for Thai classics & sushi with lunch specials, beer,
   wine & happy hour.
 

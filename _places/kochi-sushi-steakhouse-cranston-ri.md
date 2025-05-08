@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kochi Sushi & Steakhouse"
+title: Kochi Sushi & Steakhouse
 permalink: /rhode-island/cranston/kochi-sushi-steakhouse.html
 stateAbbr: RI
 stateName: Rhode Island
 cityName: Cranston
 seo:
-  name: "Kochi Sushi & Steakhouse"
-  type: Restaurant
+  type: restaurant
   links: https://www.kochicranston.com/
-description: "Kochi Sushi & Steakhouse serves delicious sushi in Cranston, Rhode Island. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJDUN_ScJI5IkRxyz9hPnI3HQ
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 0
 website: https://www.kochicranston.com/
+description: >-
+  Experience Kochi Sushi & Steakhouse in Cranston, Rhode Island$$$Kochi Sushi &
+  Steakhouse in Cranston, Rhode Island, stands out as a relaxed spot for
+  enjoying authentic Japanese flavors, featuring a variety of fresh sushi and
+  hibachi options that cater to diverse tastes. This welcoming restaurant boasts
+  a full bar with creative cocktails, making it ideal for casual dinners or
+  gatherings with friends. Patrons appreciate the accessible layout and ample
+  parking, ensuring a hassle-free visit for everyone. The menu highlights
+  generous portions at reasonable prices, blending traditional dishes with
+  innovative twists. Whether you're seeking a cozy atmosphere for a quick meal
+  or exploring top Japanese cuisine locally, this spot delivers a satisfying
+  experience.
+generative_summary: >-
+  Experience Kochi Sushi & Steakhouse in Cranston, Rhode Island$$$Kochi Sushi &
+  Steakhouse in Cranston, Rhode Island, stands out as a relaxed spot for
+  enjoying authentic Japanese flavors, featuring a variety of fresh sushi and
+  hibachi options that cater to diverse tastes. This welcoming restaurant boasts
+  a full bar with creative cocktails, making it ideal for casual dinners or
+  gatherings with friends. Patrons appreciate the accessible layout and ample
+  parking, ensuring a hassle-free visit for everyone. The menu highlights
+  generous portions at reasonable prices, blending traditional dishes with
+  innovative twists. Whether you're seeking a cozy atmosphere for a quick meal
+  or exploring top Japanese cuisine locally, this spot delivers a satisfying
+  experience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJDUN_ScJI5IkRxyz9hPnI3HQ/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3OFltYl9BRRAB
@@ -318,6 +341,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURIdGVIXzRnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURIdGVIXzRnRRAB!2m1!1s0x89e448c2497f430d:0x74dcc8f984fd2cc7
+review_summary: >-
+  What Customers Love About the Reviews$$$Visitors often rave about the
+  delicious and fresh Asian dishes at this spot, with many highlighting the
+  standout sushi rolls that offer great value and generous sizes. Folks
+  appreciate the consistently friendly service and cozy vibe, which make every
+  meal feel welcoming and enjoyable. Reviewers frequently note that the food
+  quality exceeds expectations, especially for those looking for affordable yet
+  flavorful options in the area. Overall, it's clear that regulars return for
+  the reliable taste and atmosphere, making it a solid choice for anyone craving
+  a casual dining experience. While opinions are mostly positive, some mention
+  it's a great find for everyday meals without needing anything overly fancy.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -350,7 +385,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

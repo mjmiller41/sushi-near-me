@@ -5,4 +5,5 @@ permalink: /massachusetts/salem/
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Salem
+
 ---

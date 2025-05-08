@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Thai Kitchen"
+title: Thai Kitchen
 permalink: /ohio/dayton/thai-kitchen.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Dayton
 seo:
-  name: "Thai Kitchen"
-  type: Restaurant
-  links: null
-description: "Thai Kitchen serves delicious sushi in Dayton, Ohio. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://thaikitchendayton.com/
 place_id: ChIJIba_kAGJQIgRvQk6F-Gcq_g
 photos:
   - name: >-
@@ -170,8 +168,129 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8840890190bfb621:0xf8ab9ce1173a09bd!10e5
 primary_type: Thai Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 15
+        minute: 0
+    - open:
+        day: 0
+        hour: 16
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 15
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 15
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 15
+        minute: 0
+    - open:
+        day: 6
+        hour: 16
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 3:00 PM, 4:30 – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 3:00 PM, 4:30 – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 3:00 PM, 4:30 – 9:00 PM'
+    - 'Thursday: 11:00 AM – 3:00 PM, 4:30 – 9:00 PM'
+    - 'Friday: 11:00 AM – 3:00 PM, 4:30 – 10:00 PM'
+    - 'Saturday: 12:00 – 3:00 PM, 4:00 – 10:00 PM'
+    - 'Sunday: 12:00 – 3:00 PM, 4:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +298,51 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (937) 888-8424
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.5'
+rating_count: 857
+website: https://thaikitchendayton.com/
+description: >-
+  Discover Thai Kitchen in Dayton, OH$$$Thai Kitchen in Dayton, OH, stands out
+  as a welcoming eatery blending authentic Thai flavors with fresh sushi
+  options, making it a go-to spot for diverse Asian cuisine enthusiasts. The
+  restaurant offers a relaxed vibe where diners can enjoy familiar Thai dishes
+  alongside creative rolls and pairings of wine and beer, all served in a
+  comfortable setting. Accessibility features like wheelchair-friendly entrances
+  and seating enhance the experience for all visitors, ensuring everyone can
+  savor the meal without hassle. With generous portions and a menu that
+  highlights bold, fresh tastes, it's an ideal choice for those seeking quality
+  Asian fare in the area. Operating with flexible hours, including evenings and
+  weekends, it caters well to both quick lunches and leisurely dinners.
+generative_summary: >-
+  Discover Thai Kitchen in Dayton, OH$$$Thai Kitchen in Dayton, OH, stands out
+  as a welcoming eatery blending authentic Thai flavors with fresh sushi
+  options, making it a go-to spot for diverse Asian cuisine enthusiasts. The
+  restaurant offers a relaxed vibe where diners can enjoy familiar Thai dishes
+  alongside creative rolls and pairings of wine and beer, all served in a
+  comfortable setting. Accessibility features like wheelchair-friendly entrances
+  and seating enhance the experience for all visitors, ensuring everyone can
+  savor the meal without hassle. With generous portions and a menu that
+  highlights bold, fresh tastes, it's an ideal choice for those seeking quality
+  Asian fare in the area. Operating with flexible hours, including evenings and
+  weekends, it caters well to both quick lunches and leisurely dinners.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Sharing$$$Visitors often praise the tasty Thai dishes and
+  sushi at this spot, noting the fresh ingredients and hearty servings that
+  leave them satisfied and coming back for more. Many highlight the friendly
+  service that makes the atmosphere feel inviting and attentive, turning a
+  simple meal into a pleasant outing. Folks appreciate the variety of options
+  like flavorful curries and refreshing drinks, which add to the overall
+  enjoyable experience without any major drawbacks. Overall, the consensus is
+  that it's a solid pick for anyone craving reliable Asian-inspired eats, with
+  the cozy ambiance making it perfect for groups or solo diners. If you're
+  exploring local dining choices, this place delivers a consistently positive
+  vibe that matches the hype around its popular menu items.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +368,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

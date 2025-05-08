@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Marumi"
+title: Marumi
 permalink: /new-york/new-york/marumi.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "Marumi"
-  type: Restaurant
+  type: restaurant
   links: https://www.marumi.nyc/
-description: "Along with sushi, this Japanese joint offers bento boxes, udon noodles & other cooked fare. Marumi serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJM_hKtpFZwokRBMH-ozSrBNQ
 photos:
   - name: >-
@@ -182,6 +180,33 @@ price_range: $30 &ndash; $50
 rating: '4.5'
 rating_count: 0
 website: https://www.marumi.nyc/
+description: >-
+  Experience Marumi in New York$$$Marumi in New York, NY, stands out as a
+  relaxed Japanese restaurant offering fresh sushi and sashimi alongside small
+  plates, sake, and wine, creating an inviting atmosphere for diners seeking
+  authentic flavors. The spot highlights a variety of Japanese dishes like bento
+  boxes and udon noodles, all prepared with high-quality ingredients that
+  emphasize traditional techniques and balanced tastes. Its cozy interior and
+  thoughtful menu selections make it a go-to choice for those exploring
+  top-rated sushi options in the city. Additionally, the availability of outdoor
+  seating and a selection of beverages adds to the appeal for casual meals or
+  intimate gatherings. Whether you're in the mood for classic rolls or something
+  more adventurous, Marumi delivers a memorable dining experience in the heart
+  of sushi restaurants near you.
+generative_summary: >-
+  Experience Marumi in New York$$$Marumi in New York, NY, stands out as a
+  relaxed Japanese restaurant offering fresh sushi and sashimi alongside small
+  plates, sake, and wine, creating an inviting atmosphere for diners seeking
+  authentic flavors. The spot highlights a variety of Japanese dishes like bento
+  boxes and udon noodles, all prepared with high-quality ingredients that
+  emphasize traditional techniques and balanced tastes. Its cozy interior and
+  thoughtful menu selections make it a go-to choice for those exploring
+  top-rated sushi options in the city. Additionally, the availability of outdoor
+  seating and a selection of beverages adds to the appeal for casual meals or
+  intimate gatherings. Whether you're in the mood for classic rolls or something
+  more adventurous, Marumi delivers a memorable dining experience in the heart
+  of sushi restaurants near you.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJM_hKtpFZwokRBMH-ozSrBNQ/reviews/ChZDSUhNMG9nS0VJQ0FnSUNIdEo2X1JnEAE
@@ -327,6 +352,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURuMXRmQUZ3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURuMXRmQUZ3EAE!2m1!1s0x89c25991b64af833:0xd404ab34a3fec104
+review_summary: >-
+  Insights from Recent Reviews$$$Visitors often praise the fresh and flavorful
+  sushi at this spot, noting its great value and generous portions that make it
+  a solid pick for affordable Japanese eats. Many appreciate the relaxing vibe
+  and variety of sake and tea choices, which enhance the overall experience for
+  casual outings or dates with friends. While some mention the service is warm
+  and attentive, others highlight the unpretentious setting that keeps things
+  approachable without skimping on quality. Overall, the consensus leans
+  positive, with folks enjoying the well-made dishes that add a touch of
+  excitement to their meals. If you're hunting for top-rated sushi places
+  nearby, this location seems to hit the mark for a satisfying and enjoyable
+  visit.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   valetParking: false
 payment_options:
@@ -356,8 +394,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Along with sushi, this Japanese joint offers bento boxes, udon noodles & other
   cooked fare.
 

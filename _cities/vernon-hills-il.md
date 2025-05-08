@@ -5,4 +5,5 @@ permalink: /illinois/vernon-hills/
 stateAbbr: IL
 stateName: Illinois
 cityName: Vernon Hills
+
 ---

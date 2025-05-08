@@ -5,4 +5,5 @@ permalink: /california/concord/
 stateAbbr: CA
 stateName: California
 cityName: Concord
+
 ---

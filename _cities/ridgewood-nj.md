@@ -5,4 +5,5 @@ permalink: /new-jersey/ridgewood/
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Ridgewood
+
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ichiban Hibachi sushi & Boba"
+title: Ichiban Hibachi sushi & Boba
 permalink: /ohio/canton/ichiban-hibachi-sushi-boba.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Canton
 seo:
-  name: "Ichiban Hibachi sushi & Boba"
-  type: Restaurant
+  type: restaurant
   links: https://ichibanoh.com/
-description: "Ichiban Hibachi sushi & Boba serves delicious sushi in Canton, Ohio. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJrfBra_rZNogRECJzzN0rXM8
 photos:
   - name: >-
@@ -153,6 +151,8 @@ latitude: '40.794430'
 longitude: '-81.448027'
 accessibility_options:
   wheelchairAccessibleParking: true
+  wheelchairAccessibleEntrance: true
+  wheelchairAccessibleSeating: true
 business_status: OPERATIONAL
 name: Ichiban Hibachi sushi & Boba
 google_maps_links:
@@ -167,7 +167,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8836d9fa6b6bf0ad:0xcf5c2bddcc732210!10e5
 primary_type: Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -175,14 +225,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:30 PM'
     - 'Saturday: 11:00 AM – 9:30 PM'
     - 'Sunday: 11:00 AM – 8:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 9:30 PM'
-    - 'Saturday: 11:00 AM – 9:30 PM'
-    - 'Sunday: 11:00 AM – 8:00 PM'
+  nextCloseTime: '2025-05-04T01:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -194,9 +237,48 @@ phone: (330) 477-6888
 price_level: null
 price_range: $10 &ndash; $20
 rating: '4.8'
-rating_count: 0
+rating_count: 36
 website: https://ichibanoh.com/
+description: >-
+  Discover Ichiban Hibachi Sushi & Boba in Canton, OH$$$Ichiban Hibachi Sushi &
+  Boba in Canton, OH, stands out as a welcoming spot for enjoying fresh sushi
+  and hibachi favorites, blending Japanese-inspired flavors with a cozy dining
+  atmosphere. The restaurant features accessible options like
+  wheelchair-friendly parking and seating, making it easy for everyone to savor
+  its menu highlights, including creative rolls and flavorful teas. With
+  generous portions and a focus on quality ingredients, it's an ideal choice for
+  those seeking authentic Asian cuisine in a relaxed setting. Operating hours
+  cater to both lunch and dinner crowds, ensuring you can drop in for a
+  satisfying meal any day of the week. This spot appeals to sushi enthusiasts
+  looking for reliable options nearby, offering a balance of taste and
+  convenience that keeps locals returning.
+generative_summary: >-
+  Discover Ichiban Hibachi Sushi & Boba in Canton, OH$$$Ichiban Hibachi Sushi &
+  Boba in Canton, OH, stands out as a welcoming spot for enjoying fresh sushi
+  and hibachi favorites, blending Japanese-inspired flavors with a cozy dining
+  atmosphere. The restaurant features accessible options like
+  wheelchair-friendly parking and seating, making it easy for everyone to savor
+  its menu highlights, including creative rolls and flavorful teas. With
+  generous portions and a focus on quality ingredients, it's an ideal choice for
+  those seeking authentic Asian cuisine in a relaxed setting. Operating hours
+  cater to both lunch and dinner crowds, ensuring you can drop in for a
+  satisfying meal any day of the week. This spot appeals to sushi enthusiasts
+  looking for reliable options nearby, offering a balance of taste and
+  convenience that keeps locals returning.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Folks around town often praise the tasty dishes at
+  this sushi spot, with standout items like fresh hibachi and colorful rolls
+  drawing plenty of compliments for their bold flavors and presentation. Service
+  tends to be quick and welcoming, helping create a laid-back vibe that makes
+  dining out feel effortless and enjoyable. Many visitors mention the soothing
+  atmosphere as a nice touch, perfect for casual get-togethers or a solo bite.
+  Overall, it's earned high marks as a go-to place for quality meals and
+  refreshing drinks like boba tea. If you're on the hunt for solid sushi options
+  close by, this location delivers a consistently positive experience that
+  leaves diners satisfied.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -222,7 +304,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

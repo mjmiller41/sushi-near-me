@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Neta Sushi"
+title: Neta Sushi
 permalink: /illinois/park-ridge/neta-sushi.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Park Ridge
 seo:
-  name: "Neta Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Neta Sushi serves delicious sushi in Park Ridge, Illinois. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJVSTVi5zJD4gRFI6zE7OR_jo
 photos:
   - name: >-
@@ -167,22 +165,187 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x880fc99c8bd52455:0x3afe91b313b38e14!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 14
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 14
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: Closed'
+    - 'Tuesday: 11:30 AM – 2:00 PM, 4:30 – 9:00 PM'
+    - 'Wednesday: 11:30 AM – 2:00 PM, 4:30 – 9:00 PM'
+    - 'Thursday: 11:30 AM – 2:00 PM, 4:30 – 9:00 PM'
+    - 'Friday: 11:30 AM – 2:00 PM, 4:30 – 9:30 PM'
+    - 'Saturday: 2:00 – 9:30 PM'
+    - 'Sunday: 2:00 – 8:30 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
-phone: null
+  - openNow: false
+    periods:
+      - open:
+          day: 2
+          hour: 11
+          minute: 30
+        close:
+          day: 2
+          hour: 14
+          minute: 0
+      - open:
+          day: 3
+          hour: 11
+          minute: 30
+        close:
+          day: 3
+          hour: 14
+          minute: 0
+      - open:
+          day: 4
+          hour: 11
+          minute: 30
+        close:
+          day: 4
+          hour: 14
+          minute: 0
+      - open:
+          day: 5
+          hour: 11
+          minute: 30
+        close:
+          day: 5
+          hour: 14
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: Closed'
+      - 'Tuesday: 11:30 AM – 2:00 PM'
+      - 'Wednesday: 11:30 AM – 2:00 PM'
+      - 'Thursday: 11:30 AM – 2:00 PM'
+      - 'Friday: 11:30 AM – 2:00 PM'
+      - 'Saturday: Closed'
+      - 'Sunday: Closed'
+    secondaryHoursType: LUNCH
+    nextOpenTime: '2025-05-06T16:30:00Z'
+phone: (847) 518-8580
 price_level: null
-price_range: null
-rating: null
-rating_count: 0
+price_range: $20 &ndash; $30
+rating: '5.0'
+rating_count: 124
 website: null
+description: >-
+  Discover Neta Sushi in Park Ridge, IL$$$Neta Sushi in Park Ridge, IL, stands
+  out as a welcoming spot for enjoying traditional sushi in a relaxed
+  environment. This sushi restaurant features an array of fresh, authentic
+  options that cater to those seeking quality Japanese cuisine nearby,
+  complemented by a selection of beer and wine to enhance the meal. Patrons can
+  appreciate the cozy atmosphere and thoughtful menu choices that make it ideal
+  for casual outings or intimate dinners. With convenient hours that include
+  evenings and weekends, it's a go-to choice for anyone exploring top-rated
+  sushi places in the area. Whether you're in the mood for a light lunch or a
+  full evening of flavors, this local gem delivers a satisfying experience that
+  highlights its commitment to simple, well-executed dishes.
+generative_summary: >-
+  Discover Neta Sushi in Park Ridge, IL$$$Neta Sushi in Park Ridge, IL, stands
+  out as a welcoming spot for enjoying traditional sushi in a relaxed
+  environment. This sushi restaurant features an array of fresh, authentic
+  options that cater to those seeking quality Japanese cuisine nearby,
+  complemented by a selection of beer and wine to enhance the meal. Patrons can
+  appreciate the cozy atmosphere and thoughtful menu choices that make it ideal
+  for casual outings or intimate dinners. With convenient hours that include
+  evenings and weekends, it's a go-to choice for anyone exploring top-rated
+  sushi places in the area. Whether you're in the mood for a light lunch or a
+  full evening of flavors, this local gem delivers a satisfying experience that
+  highlights its commitment to simple, well-executed dishes.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Love About Neta Sushi$$$Visitors often highlight the fresh
+  sushi and flavorful appetizers at this spot, making it a solid pick for anyone
+  craving reliable Japanese fare close to home. Many appreciate the friendly
+  service that keeps things upbeat and attentive without overwhelming the vibe,
+  paired with prices that feel just right for the quality on offer. The cozy
+  atmosphere adds to the appeal, creating a comfortable setting that's perfect
+  for casual meetups or solo visits. Overall, folks tend to agree that the
+  combination of tasty options like inventive rolls and sides keeps drawing them
+  back, offering a genuinely enjoyable experience. If you're on the hunt for
+  sushi restaurants near you, this place earns praise for its straightforward
+  charm and consistent flavors that leave a positive impression.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -208,7 +371,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

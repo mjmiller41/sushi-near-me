@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Mr. Bin Sushi & Grill"
+title: Mr. Bin Sushi & Grill
 permalink: /new-jersey/cranford/mr-bin-sushi-grill.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Cranford
 seo:
-  name: "Mr. Bin Sushi & Grill"
-  type: Restaurant
+  type: restaurant
   links: http://www.mrbin123.com/
-description: "Japanese eatery serving sushi, udon & classic entrees in a modest space with sidewalk seats. Mr. Bin Sushi & Grill serves delicious sushi in Cranford, New Jersey. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJE6vXnSOyw4kRz0wmK7htk9w
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 0
 website: http://www.mrbin123.com/
+description: >-
+  Discover Mr. Bin Sushi & Grill in Cranford, NJ$$$Nestled in the heart of
+  Cranford, NJ, Mr. Bin Sushi & Grill stands out as a casual Japanese eatery
+  offering a diverse array of fresh sushi and classic dishes that appeal to
+  those searching for quality sushi options nearby. The spot boasts a welcoming
+  atmosphere with thoughtful touches like accessible seating and convenient
+  parking, making it an ideal choice for anyone exploring top-rated sushi
+  restaurants in the area. Diners can enjoy a wide range of chef-inspired
+  selections, including vegetarian-friendly choices, all prepared with
+  high-quality ingredients that highlight the flavors of authentic Japanese
+  cuisine. Its modest yet inviting space, complete with outdoor seating,
+  provides a relaxed setting for savoring udon and other entrees, perfect for
+  those seeking the best sushi experiences close to home.
+generative_summary: >-
+  Discover Mr. Bin Sushi & Grill in Cranford, NJ$$$Nestled in the heart of
+  Cranford, NJ, Mr. Bin Sushi & Grill stands out as a casual Japanese eatery
+  offering a diverse array of fresh sushi and classic dishes that appeal to
+  those searching for quality sushi options nearby. The spot boasts a welcoming
+  atmosphere with thoughtful touches like accessible seating and convenient
+  parking, making it an ideal choice for anyone exploring top-rated sushi
+  restaurants in the area. Diners can enjoy a wide range of chef-inspired
+  selections, including vegetarian-friendly choices, all prepared with
+  high-quality ingredients that highlight the flavors of authentic Japanese
+  cuisine. Its modest yet inviting space, complete with outdoor seating,
+  provides a relaxed setting for savoring udon and other entrees, perfect for
+  those seeking the best sushi experiences close to home.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJE6vXnSOyw4kRz0wmK7htk9w/reviews/ChRDSUhNMG9nS0VJQ0FnTURJOExNOBAB
@@ -346,6 +371,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQyNjd2WTdBRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQyNjd2WTdBRRAB!2m1!1s0x89c3b2239dd7ab13:0xdc936db82b264ccf
+review_summary: >-
+  Buzz Around the Sushi Scene$$$Visitors often rave about the incredibly fresh
+  sushi and standout specials that make this spot a go-to for satisfying
+  cravings in a laid-back vibe. Many appreciate the attentive service and
+  helpful recommendations that enhance the overall dining experience, turning
+  even quick meals into enjoyable occasions. Folks frequently mention the
+  thoughtful extras, like the convenient tea service, which add a nice touch
+  without overwhelming the simplicity of the menu. Overall, the consensus leans
+  positive, with praise for the variety and quality that keep people coming back
+  for more, making it a solid pick for anyone hunting for reliable sushi places
+  nearby. While it's not without its cozy, no-frills setup, the consistent
+  flavors and welcoming feel ensure it's a hit for groups or solo diners alike.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
 payment_options:
@@ -376,8 +414,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Japanese eatery serving sushi, udon & classic entrees in a modest space with
   sidewalk seats.
 

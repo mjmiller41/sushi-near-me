@@ -5,4 +5,5 @@ permalink: /minnesota/wayzata/
 stateAbbr: MN
 stateName: Minnesota
 cityName: Wayzata
+
 ---

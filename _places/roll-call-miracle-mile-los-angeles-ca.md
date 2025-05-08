@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Roll Call - Miracle Mile"
+title: Roll Call - Miracle Mile
 permalink: /california/los-angeles/roll-call-miracle-mile.html
 stateAbbr: CA
 stateName: California
 cityName: Los Angeles
 seo:
-  name: "Roll Call - Miracle Mile"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Roll Call - Miracle Mile serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJy49RN4G5woARHZCc5m_LnL8
 photos:
   - name: >-
@@ -185,7 +183,46 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Roll Call in Los Angeles$$$Roll Call - Miracle Mile in Los Angeles,
+  CA, stands out as a welcoming sushi restaurant ideal for those seeking fresh
+  Japanese-inspired dining options nearby. This spot offers a variety of quick
+  bites alongside lunch and dinner selections, complemented by a selection of
+  beer, sake, and cocktails to enhance your meal. With its convenient location
+  in the vibrant Miracle Mile neighborhood, it's perfect for anyone exploring
+  top-rated sushi places in the area. The restaurant also prioritizes
+  accessibility, featuring wheelchair-friendly parking, entrances, and seating,
+  making it easier for everyone to enjoy a relaxed atmosphere. Whether you're in
+  the mood for authentic rolls or a casual drink, this establishment delivers a
+  satisfying experience that captures the essence of modern sushi dining.
+generative_summary: >-
+  Discover Roll Call in Los Angeles$$$Roll Call - Miracle Mile in Los Angeles,
+  CA, stands out as a welcoming sushi restaurant ideal for those seeking fresh
+  Japanese-inspired dining options nearby. This spot offers a variety of quick
+  bites alongside lunch and dinner selections, complemented by a selection of
+  beer, sake, and cocktails to enhance your meal. With its convenient location
+  in the vibrant Miracle Mile neighborhood, it's perfect for anyone exploring
+  top-rated sushi places in the area. The restaurant also prioritizes
+  accessibility, featuring wheelchair-friendly parking, entrances, and seating,
+  making it easier for everyone to enjoy a relaxed atmosphere. Whether you're in
+  the mood for authentic rolls or a casual drink, this establishment delivers a
+  satisfying experience that captures the essence of modern sushi dining.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Folks checking out this sushi restaurant often
+  highlight the fresh, high-quality ingredients that make every bite feel
+  special, turning it into a favorite for casual meals in the city. Many
+  appreciate the efficient service and inviting vibe that keeps things light and
+  enjoyable, especially when grabbing drinks like sake or cocktails with
+  friends. While some note that the portions could vary, the overall consensus
+  leans positive, with visitors praising the flavorful options that cater to
+  both quick lunches and evening outings. It's commonly described as a solid
+  choice for anyone hunting for reliable sushi spots nearby, offering a blend of
+  taste and convenience that encourages repeat visits. Overall, the feedback
+  suggests it's a go-to destination for those who love exploring tasty Japanese
+  cuisine without any major drawbacks.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +248,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

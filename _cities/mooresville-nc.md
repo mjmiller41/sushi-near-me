@@ -5,4 +5,5 @@ permalink: /north-carolina/mooresville/
 stateAbbr: NC
 stateName: North Carolina
 cityName: Mooresville
+
 ---

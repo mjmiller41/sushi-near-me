@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Messi Soul Kitchen - Riverside"
+title: Messi Soul Kitchen - Riverside
 permalink: /california/riverside/messi-soul-kitchen-riverside.html
 stateAbbr: CA
 stateName: California
 cityName: Riverside
 seo:
-  name: "Messi Soul Kitchen - Riverside"
-  type: Restaurant
-  links: null
-description: "Messi Soul Kitchen - Riverside serves delicious sushi in Riverside, California. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://messisoulkitchen.com/
 place_id: ChIJ1W4_cAC33IARcRU29HT3boE
 photos:
   - name: >-
@@ -169,22 +167,137 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80dcb700703f6ed5:0x816ef774f4361571!10e5
 primary_type: American Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 13
+        minute: 0
+      close:
+        day: 0
+        hour: 19
+        minute: 0
+    - open:
+        day: 4
+        hour: 13
+        minute: 0
+      close:
+        day: 4
+        hour: 19
+        minute: 0
+    - open:
+        day: 5
+        hour: 13
+        minute: 0
+      close:
+        day: 5
+        hour: 19
+        minute: 0
+    - open:
+        day: 6
+        hour: 13
+        minute: 0
+      close:
+        day: 6
+        hour: 19
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: Closed'
+    - 'Tuesday: Closed'
+    - 'Wednesday: Closed'
+    - 'Thursday: 1:00 – 7:00 PM'
+    - 'Friday: 1:00 – 7:00 PM'
+    - 'Saturday: 1:00 – 7:00 PM'
+    - 'Sunday: 1:00 – 7:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 13
+          minute: 0
+        close:
+          day: 0
+          hour: 19
+          minute: 0
+      - open:
+          day: 4
+          hour: 13
+          minute: 0
+        close:
+          day: 4
+          hour: 19
+          minute: 0
+      - open:
+          day: 5
+          hour: 13
+          minute: 0
+        close:
+          day: 5
+          hour: 19
+          minute: 0
+      - open:
+          day: 6
+          hour: 13
+          minute: 0
+        close:
+          day: 6
+          hour: 19
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: Closed'
+      - 'Tuesday: Closed'
+      - 'Wednesday: Closed'
+      - 'Thursday: 1:00 – 7:00 PM'
+      - 'Friday: 1:00 – 7:00 PM'
+      - 'Saturday: 1:00 – 7:00 PM'
+      - 'Sunday: 1:00 – 7:00 PM'
+    secondaryHoursType: DELIVERY
+    nextCloseTime: '2025-05-04T02:00:00Z'
+phone: (951) 324-1214
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.4'
+rating_count: 375
+website: http://messisoulkitchen.com/
+description: >-
+  Discover Messi Soul Kitchen in Riverside, CA$$$Messi Soul Kitchen in
+  Riverside, CA, offers a welcoming spot for enjoying hearty soul food dishes in
+  a casual atmosphere. This eatery specializes in comforting favorites like
+  tender oxtails, flavorful BBQ chicken, and classic banana pudding, making it a
+  go-to for satisfying meals that evoke home-cooked vibes. With accessibility
+  features such as wheelchair-friendly parking and entrances, it's designed to
+  accommodate all visitors comfortably. The restaurant operates in the evenings
+  from Thursday through Sunday, providing a convenient option for those seeking
+  quality soul food dining experiences nearby. Plus, its catering services add
+  versatility for events, enhancing its appeal for local food enthusiasts.
+generative_summary: >-
+  Discover Messi Soul Kitchen in Riverside, CA$$$Messi Soul Kitchen in
+  Riverside, CA, offers a welcoming spot for enjoying hearty soul food dishes in
+  a casual atmosphere. This eatery specializes in comforting favorites like
+  tender oxtails, flavorful BBQ chicken, and classic banana pudding, making it a
+  go-to for satisfying meals that evoke home-cooked vibes. With accessibility
+  features such as wheelchair-friendly parking and entrances, it's designed to
+  accommodate all visitors comfortably. The restaurant operates in the evenings
+  from Thursday through Sunday, providing a convenient option for those seeking
+  quality soul food dining experiences nearby. Plus, its catering services add
+  versatility for events, enhancing its appeal for local food enthusiasts.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Folks rave about the mouthwatering soul food at
+  this Riverside spot, with highlights on the delicious oxtails, creamy mac and
+  cheese, and hearty pot roast that keep diners coming back for more. Many
+  appreciate the generous portions and reasonable prices, making it a solid
+  choice for a fulfilling meal without breaking the bank. The friendly staff and
+  cozy, homey atmosphere add to the overall charm, creating a relaxed
+  environment that feels inviting for casual get-togethers. While some mention
+  that wait times for food can stretch a bit, the overall experience remains
+  positive with tasty offerings that make it worth the visit. If you're in the
+  mood for comforting eats, this place delivers a reliably enjoyable vibe that
+  balances flavor and hospitality.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +323,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

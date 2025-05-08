@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Hatsuhana"
+title: Hatsuhana
 permalink: /new-york/new-york/hatsuhana.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "Hatsuhana"
-  type: Restaurant
+  type: restaurant
   links: http://www.hatsuhana.com/
-description: "Japanese mainstay turning out fresh sushi & other basic fare in a simple setting. Hatsuhana serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJw47zKvxYwokRgD1Zt5Licyo
 photos:
   - name: >-
@@ -184,6 +182,31 @@ price_range: $50 &ndash; $100
 rating: '4.6'
 rating_count: 0
 website: http://www.hatsuhana.com/
+description: >-
+  About Hatsuhana in New York, NY$$$Hatsuhana in New York, NY, stands as a
+  longtime, upscale sushi restaurant offering fresh, high-quality Japanese
+  cuisine in a simple yet refined setting. This spot is known for its omakase
+  options and popular lunch selections, appealing to those seeking authentic
+  flavors and a touch of elegance. Diners can enjoy a variety of sushi and
+  sashimi that highlight premium ingredients, making it a go-to choice for
+  anyone exploring sushi restaurants in the area. The atmosphere combines
+  tradition with accessibility, providing an ideal backdrop for both casual
+  meals and special occasions. Whether you're looking for top-rated sushi near
+  you, Hatsuhana delivers a memorable dining experience that emphasizes quality
+  and simplicity.
+generative_summary: >-
+  About Hatsuhana in New York, NY$$$Hatsuhana in New York, NY, stands as a
+  longtime, upscale sushi restaurant offering fresh, high-quality Japanese
+  cuisine in a simple yet refined setting. This spot is known for its omakase
+  options and popular lunch selections, appealing to those seeking authentic
+  flavors and a touch of elegance. Diners can enjoy a variety of sushi and
+  sashimi that highlight premium ingredients, making it a go-to choice for
+  anyone exploring sushi restaurants in the area. The atmosphere combines
+  tradition with accessibility, providing an ideal backdrop for both casual
+  meals and special occasions. Whether you're looking for top-rated sushi near
+  you, Hatsuhana delivers a memorable dining experience that emphasizes quality
+  and simplicity.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJw47zKvxYwokRgD1Zt5Licyo/reviews/ChZDSUhNMG9nS0VJQ0FnSURPeHY3QkVBEAE
@@ -383,6 +406,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURYNXNucnF3RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURYNXNucnF3RRAB!2m1!1s0x89c258fc2af38ec3:0x2a73e292b7593d80
+review_summary: >-
+  What Reviewers Are Buzzing About$$$Visitors to this sushi haven often praise
+  the incredibly fresh fish and well-balanced dishes, making it a standout spot
+  for anyone craving authentic Japanese flavors. Many highlight the flavorful
+  options like specialty boxes and sashimi platters, noting how they deliver a
+  satisfying mix of taste and presentation without overwhelming the palate.
+  While the service is generally described as friendly and attentive, a few
+  mentions point to occasional inconsistencies that don't detract from the
+  overall vibe. Folks appreciate the welcoming atmosphere, even if some suggest
+  minor updates could enhance the space, keeping things positive for groups or
+  solo diners. All in all, it's clear this place earns its reputation as one of
+  the best sushi options nearby, with most leaving happy and eager to return for
+  more delicious bites.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: false
 payment_options:
@@ -413,8 +450,8 @@ serves_lunch: true
 serves_vegetarian_food: false
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Japanese mainstay turning out fresh sushi & other basic fare in a simple
   setting.
 

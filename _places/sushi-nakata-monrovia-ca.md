@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi NAKATA"
+title: Sushi NAKATA
 permalink: /california/monrovia/sushi-nakata.html
 stateAbbr: CA
 stateName: California
 cityName: Monrovia
 seo:
-  name: "Sushi NAKATA"
-  type: Restaurant
+  type: restaurant
   links: https://www.sushinakatamonrovia.com/
-description: "Sushi NAKATA serves delicious sushi in Monrovia, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ90qpdabZwoARSofvUXyAGXk
 photos:
   - name: >-
@@ -170,7 +168,105 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c2d9a675a94af7:0x7919807c51ef874a!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 14
+        minute: 0
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 14
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:30 AM – 2:00 PM, 5:30 – 9:00 PM'
     - 'Wednesday: 11:30 AM – 2:00 PM, 5:30 – 9:00 PM'
@@ -178,14 +274,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
     - 'Saturday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
     - 'Sunday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:30 AM – 2:00 PM, 5:30 – 9:00 PM'
-    - 'Wednesday: 11:30 AM – 2:00 PM, 5:30 – 9:00 PM'
-    - 'Thursday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
-    - 'Friday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
-    - 'Saturday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
-    - 'Sunday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +286,47 @@ phone: (626) 706-6818
 price_level: null
 price_range: null
 rating: '4.6'
-rating_count: 0
+rating_count: 106
 website: https://www.sushinakatamonrovia.com/
+description: >-
+  Discover Sushi NAKATA in Monrovia, CA$$$Sushi NAKATA in Monrovia, CA, stands
+  out as a welcoming spot for those seeking authentic Japanese flavors and fresh
+  seafood options. This cozy restaurant specializes in high-quality sushi fare,
+  including meticulously prepared omakase selections that highlight seasonal
+  ingredients, paired with a selection of sake and beer for a complete dining
+  experience. Accessibility features like wheelchair-friendly parking and
+  seating make it an inclusive choice for everyone looking to enjoy Japanese
+  cuisine nearby. The intimate atmosphere adds to the appeal, perfect for a
+  relaxed meal after exploring the local area. Whether you're searching for
+  top-rated sushi places or a go-to option for Japanese dining, this spot
+  delivers a memorable taste of tradition with every visit.
+generative_summary: >-
+  Discover Sushi NAKATA in Monrovia, CA$$$Sushi NAKATA in Monrovia, CA, stands
+  out as a welcoming spot for those seeking authentic Japanese flavors and fresh
+  seafood options. This cozy restaurant specializes in high-quality sushi fare,
+  including meticulously prepared omakase selections that highlight seasonal
+  ingredients, paired with a selection of sake and beer for a complete dining
+  experience. Accessibility features like wheelchair-friendly parking and
+  seating make it an inclusive choice for everyone looking to enjoy Japanese
+  cuisine nearby. The intimate atmosphere adds to the appeal, perfect for a
+  relaxed meal after exploring the local area. Whether you're searching for
+  top-rated sushi places or a go-to option for Japanese dining, this spot
+  delivers a memorable taste of tradition with every visit.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Folks who stop by Sushi NAKATA often praise the
+  fresh, flavorful dishes that keep them coming back for more, making it a solid
+  pick for anyone craving reliable Japanese eats. With a strong overall rating,
+  many highlight the welcoming vibe and consistent quality that elevate the
+  experience beyond just a quick meal. It's clear that the attention to detail
+  in preparation wins over sushi enthusiasts, turning first-timers into regulars
+  without any major letdowns. While opinions vary as with any spot, the general
+  buzz leans positive, especially for those hunting for nearby options that feel
+  both authentic and approachable. If you're on the hunt for great sushi close
+  to home, this place tends to leave diners satisfied and eager to recommend it
+  to friends.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +352,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

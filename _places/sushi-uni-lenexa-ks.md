@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi UNI"
+title: Sushi UNI
 permalink: /kansas/lenexa/sushi-uni.html
 stateAbbr: KS
 stateName: Kansas
 cityName: Lenexa
 seo:
-  name: "Sushi UNI"
-  type: Restaurant
+  type: restaurant
   links: https://www.ordersushiuni.com/
-description: "Compact, busy strip-mall venue for traditional Japanese sushi, sashimi, salads & hot entrees. Sushi UNI serves delicious sushi in Lenexa, Kansas. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJWQVgBqmUwIcRhxXieX6gsyY
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $10 &ndash; $20
 rating: '4.7'
 rating_count: 0
 website: https://www.ordersushiuni.com/
+description: >-
+  Discover Sushi UNI in Lenexa, Kansas$$$Sushi UNI in Lenexa, KS, stands out as
+  a welcoming spot for enjoying fresh sushi and hibachi-style favorites in a
+  relaxed setting. This compact eatery offers a variety of traditional rolls,
+  sashimi, and hot entrees, complemented by a selection of beer, wine, and
+  cocktails that enhance the dining experience. With its accessible features
+  like wheelchair-friendly parking and entrances, it's an inclusive choice for
+  anyone seeking top sushi options in the area. The cozy strip-mall location
+  adds to its charm, making it a go-to destination for those exploring
+  Japanese-inspired cuisine nearby. Whether you're in the mood for a quick lunch
+  or a casual dinner, Sushi UNI delivers quality flavors that make it a standout
+  among local sushi spots.
+generative_summary: >-
+  Discover Sushi UNI in Lenexa, Kansas$$$Sushi UNI in Lenexa, KS, stands out as
+  a welcoming spot for enjoying fresh sushi and hibachi-style favorites in a
+  relaxed setting. This compact eatery offers a variety of traditional rolls,
+  sashimi, and hot entrees, complemented by a selection of beer, wine, and
+  cocktails that enhance the dining experience. With its accessible features
+  like wheelchair-friendly parking and entrances, it's an inclusive choice for
+  anyone seeking top sushi options in the area. The cozy strip-mall location
+  adds to its charm, making it a go-to destination for those exploring
+  Japanese-inspired cuisine nearby. Whether you're in the mood for a quick lunch
+  or a casual dinner, Sushi UNI delivers quality flavors that make it a standout
+  among local sushi spots.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJWQVgBqmUwIcRhxXieX6gsyY/reviews/ChZDSUhNMG9nS0VJQ0FnTURJN1BLdk1BEAE
@@ -364,6 +387,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNYM3RpSy1nRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNYM3RpSy1nRRAB!2m1!1s0x87c094a906600559:0x26b3a07e79e21587
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this popular sushi restaurant often
+  rave about the fresh, high-quality rolls and generous portions that make every
+  meal feel worthwhile. Many highlight the great value for the price, with tasty
+  options like crab rangoon and specialty rolls standing out as crowd-pleasers
+  for a satisfying lunch or dinner. Folks appreciate the friendly staff and
+  efficient service, which add a welcoming vibe to the overall experience, even
+  if waits can occasionally run a bit long during peak times. Overall, it's
+  praised as one of the best spots in the Kansas City area for authentic flavors
+  that keep people coming back for more. If you're hunting for reliable sushi
+  places nearby, this spot earns high marks for its honest appeal and consistent
+  taste that leaves diners feeling glad they stopped by.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -397,8 +433,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Compact, busy strip-mall venue for traditional Japanese sushi, sashimi, salads
   & hot entrees.
 

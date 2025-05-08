@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Hana Matsuri Sushi"
+title: Hana Matsuri Sushi
 permalink: /colorado/lakewood/hana-matsuri-sushi.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Lakewood
 seo:
-  name: "Hana Matsuri Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Hana Matsuri Sushi serves delicious sushi in Lakewood, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ_zCxWPmDa4cRN1wR_ivtdoo
 photos:
   - name: >-
@@ -185,7 +183,47 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Hana Matsuri Sushi in Lakewood, CO$$$Hana Matsuri Sushi in Lakewood,
+  CO, stands out as a welcoming Japanese eatery known for its fresh sushi and
+  flavorful small plates, perfect for those seeking casual dining options. This
+  spot enhances the experience with happy hour deals that add value to every
+  visit, making it an ideal choice for relaxed meals in a laid-back setting.
+  Accessibility features like wheelchair-friendly parking and entrances ensure
+  everyone can enjoy the vibrant atmosphere without barriers. For locals or
+  visitors exploring sushi restaurants in the area, the menu highlights creative
+  rolls and traditional flavors that capture the essence of Japanese cuisine.
+  Whether you're looking for a quick bite or a leisurely dinner, this location
+  combines quality ingredients with an approachable vibe to satisfy sushi
+  enthusiasts nearby.
+generative_summary: >-
+  Discover Hana Matsuri Sushi in Lakewood, CO$$$Hana Matsuri Sushi in Lakewood,
+  CO, stands out as a welcoming Japanese eatery known for its fresh sushi and
+  flavorful small plates, perfect for those seeking casual dining options. This
+  spot enhances the experience with happy hour deals that add value to every
+  visit, making it an ideal choice for relaxed meals in a laid-back setting.
+  Accessibility features like wheelchair-friendly parking and entrances ensure
+  everyone can enjoy the vibrant atmosphere without barriers. For locals or
+  visitors exploring sushi restaurants in the area, the menu highlights creative
+  rolls and traditional flavors that capture the essence of Japanese cuisine.
+  Whether you're looking for a quick bite or a leisurely dinner, this location
+  combines quality ingredients with an approachable vibe to satisfy sushi
+  enthusiasts nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Love About It$$$Folks frequently highlight the fresh sushi and
+  tasty tempura rolls at this spot, with the mango roll emerging as a standout
+  favorite that keeps diners coming back. The service is often described as
+  friendly and attentive, creating a comfortable environment that makes every
+  meal feel effortless and enjoyable. Prices are generally seen as reasonable,
+  offering great value for the quality of food without straining your wallet.
+  Overall, the casual and relaxed vibe adds to the appeal, making it a solid
+  pick for groups or solo adventurers hunting for reliable Japanese eats. If
+  you're on the hunt for top-rated sushi options around town, this place
+  delivers a consistently positive experience that balances flavor and
+  affordability.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +249,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

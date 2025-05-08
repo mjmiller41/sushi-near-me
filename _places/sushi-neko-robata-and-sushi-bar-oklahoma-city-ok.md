@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Neko Robata and Sushi Bar"
+title: Sushi Neko Robata and Sushi Bar
 permalink: /oklahoma/oklahoma-city/sushi-neko-robata-and-sushi-bar.html
 stateAbbr: OK
 stateName: Oklahoma
 cityName: Oklahoma City
 seo:
-  name: "Sushi Neko Robata and Sushi Bar"
-  type: Restaurant
+  type: restaurant
   links: http://www.sushineko.com/
-description: "Sushi Neko Robata and Sushi Bar serves delicious sushi in Oklahoma City, Oklahoma. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJbdXiZgMasocR-apoxaTgFB0
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x87b21a0366e2d56d:0x1d14e0a4c568aaf9!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:00 PM'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:30 PM'
     - 'Saturday: 11:00 AM – 9:30 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:00 AM – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 9:30 PM'
-    - 'Saturday: 11:00 AM – 9:30 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -195,11 +236,47 @@ secondary_opening_hours:
     type: null
 phone: (405) 528-8862
 price_level: PRICE_LEVEL_MODERATE
-price_range: null
+price_range: $20 &ndash; $30
 rating: '4.5'
-rating_count: 0
+rating_count: 1748
 website: http://www.sushineko.com/
+description: >-
+  Explore Sushi Neko in Oklahoma City, OK$$$Nestled in Oklahoma City, OK, Sushi
+  Neko Robata and Sushi Bar stands out as a premier destination for fresh sushi
+  and Japanese-inspired dining. This eatery boasts an extensive menu featuring a
+  variety of sushi options alongside a selection of wines, making it ideal for
+  those seeking a sophisticated yet approachable meal. A unique tatami station
+  adds an authentic touch, enhancing the overall ambiance for diners looking to
+  enjoy a cultural experience. The spot also caters to families with a dedicated
+  kids' menu, ensuring everyone can savor the flavors. Whether you're exploring
+  local sushi restaurants or searching for the best sushi nearby, this venue
+  combines quality ingredients with a welcoming vibe.
+generative_summary: >-
+  Explore Sushi Neko in Oklahoma City, OK$$$Nestled in Oklahoma City, OK, Sushi
+  Neko Robata and Sushi Bar stands out as a premier destination for fresh sushi
+  and Japanese-inspired dining. This eatery boasts an extensive menu featuring a
+  variety of sushi options alongside a selection of wines, making it ideal for
+  those seeking a sophisticated yet approachable meal. A unique tatami station
+  adds an authentic touch, enhancing the overall ambiance for diners looking to
+  enjoy a cultural experience. The spot also caters to families with a dedicated
+  kids' menu, ensuring everyone can savor the flavors. Whether you're exploring
+  local sushi restaurants or searching for the best sushi nearby, this venue
+  combines quality ingredients with a welcoming vibe.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Diners at Sushi Neko$$$Folks rave about the tasty rolls like the
+  spicy and creative varieties that really hit the spot, making it a go-to for
+  satisfying sushi cravings. Many appreciate the fresh fish selections that
+  bring out bold flavors without overwhelming the palate, adding to the overall
+  enjoyment of the meal. Service here is often described as warm and attentive,
+  helping to create a relaxed atmosphere that keeps guests coming back. The
+  welcoming setting makes it easy to unwind, whether you're dining solo or with
+  friends, and adds a positive layer to the experience. Overall, it's clear that
+  this spot delivers a solid mix of great food and friendly vibes, encouraging
+  visitors to try it for themselves if they're in the mood for top-rated sushi
+  options.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +302,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

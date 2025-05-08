@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Osaka Hibachi & Sushi"
+title: Osaka Hibachi & Sushi
 permalink: /virginia/powhatan/osaka-hibachi-sushi.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Powhatan
 seo:
-  name: "Osaka Hibachi & Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Osaka Hibachi & Sushi serves delicious sushi in Powhatan, Virginia. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJr9rkId9isYkRrMezE7GnXvA
 photos:
   - name: >-
@@ -185,7 +183,41 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Osaka Hibachi & Sushi in Powhatan, Virginia$$$Osaka Hibachi & Sushi
+  in Powhatan, VA, stands out as a casual Japanese restaurant known for its
+  fresh sushi rolls and classic dishes that cater to a variety of tastes. This
+  spot offers a welcoming environment for both dine-in and takeout, making it an
+  ideal choice for those seeking authentic flavors in a relaxed setting. With
+  accessibility features like wheelchair-friendly parking and entrances, it
+  ensures everyone can enjoy the menu's highlights, including flavorful hibachi
+  options and creative rolls. Whether you're exploring local sushi restaurants
+  or looking for Japanese places nearby, this venue delivers on quality and
+  convenience, perfect for a quick meal or a leisurely outing.
+generative_summary: >-
+  Discover Osaka Hibachi & Sushi in Powhatan, Virginia$$$Osaka Hibachi & Sushi
+  in Powhatan, VA, stands out as a casual Japanese restaurant known for its
+  fresh sushi rolls and classic dishes that cater to a variety of tastes. This
+  spot offers a welcoming environment for both dine-in and takeout, making it an
+  ideal choice for those seeking authentic flavors in a relaxed setting. With
+  accessibility features like wheelchair-friendly parking and entrances, it
+  ensures everyone can enjoy the menu's highlights, including flavorful hibachi
+  options and creative rolls. Whether you're exploring local sushi restaurants
+  or looking for Japanese places nearby, this venue delivers on quality and
+  convenience, perfect for a quick meal or a leisurely outing.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About the Experience$$$Folks who visit this sushi
+  spot often highlight the fresh ingredients and tasty variety of rolls that
+  keep things exciting without overwhelming the palate. Many appreciate the
+  efficient service and how meals come together quickly, especially for takeout,
+  making it a go-to for busy days. The overall vibe gets positive nods for being
+  laid-back and family-friendly, with comments on the solid portion sizes adding
+  to the satisfaction. While some mention it's a solid pick for everyday dining,
+  the general buzz leans toward it being a reliable choice for anyone hunting
+  for top-rated sushi nearby, blending good value with enjoyable flavors.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +243,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

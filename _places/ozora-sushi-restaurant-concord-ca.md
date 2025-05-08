@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ozora Sushi Restaurant"
+title: Ozora Sushi Restaurant
 permalink: /california/concord/ozora-sushi-restaurant.html
 stateAbbr: CA
 stateName: California
 cityName: Concord
 seo:
-  name: "Ozora Sushi Restaurant"
-  type: Restaurant
+  type: restaurant
   links: http://ozora-sushi.com/
-description: "Ozora Sushi Restaurant serves delicious sushi in Concord, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ1bJ75vBghYARHWysXm4oJB0
 photos:
   - name: >-
@@ -170,7 +168,105 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x808560f0e67bb2d5:0x1d24286e5eac6c1d!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 15
+        minute: 0
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 15
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 23
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 15
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 23
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 3:00 PM, 5:00 – 10:00 PM'
     - 'Tuesday: 11:30 AM – 3:00 PM, 5:00 – 10:00 PM'
     - 'Wednesday: 11:30 AM – 3:00 PM, 5:00 – 10:00 PM'
@@ -178,14 +274,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 3:00 PM, 5:00 – 11:30 PM'
     - 'Saturday: 11:30 AM – 3:00 PM, 5:00 – 11:30 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:30 AM – 3:00 PM, 5:00 – 10:00 PM'
-    - 'Tuesday: 11:30 AM – 3:00 PM, 5:00 – 10:00 PM'
-    - 'Wednesday: 11:30 AM – 3:00 PM, 5:00 – 10:00 PM'
-    - 'Thursday: 11:30 AM – 3:00 PM, 5:00 – 10:00 PM'
-    - 'Friday: 11:30 AM – 3:00 PM, 5:00 – 11:30 PM'
-    - 'Saturday: 11:30 AM – 3:00 PM, 5:00 – 11:30 PM'
-    - 'Sunday: Closed'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +286,238 @@ phone: (925) 691-6009
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.5'
-rating_count: 0
+rating_count: 622
 website: http://ozora-sushi.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Ozora Sushi in Concord, CA$$$Nestled in Concord, CA, Ozora Sushi
+  Restaurant stands out as a go-to spot for authentic Japanese cuisine, offering
+  a blend of inventive rolls, fresh bento boxes, and savory teriyaki dishes in a
+  relaxed atmosphere. This sushi haven is known for its creative menu that
+  includes a variety of Japanese favorites, making it an ideal choice for those
+  seeking quality dining options nearby. With highlights like happy hour
+  specials and a casual yet stylish interior, it caters to both casual diners
+  and sushi enthusiasts looking for flavorful experiences. The restaurant
+  emphasizes accessibility and convenience, ensuring a welcoming environment for
+  all visitors. Whether you're in the mood for top-rated sushi or exploring
+  Japanese places close to you, this spot delivers on taste and variety without
+  overwhelming the senses.
+generative_summary: >-
+  Discover Ozora Sushi in Concord, CA$$$Nestled in Concord, CA, Ozora Sushi
+  Restaurant stands out as a go-to spot for authentic Japanese cuisine, offering
+  a blend of inventive rolls, fresh bento boxes, and savory teriyaki dishes in a
+  relaxed atmosphere. This sushi haven is known for its creative menu that
+  includes a variety of Japanese favorites, making it an ideal choice for those
+  seeking quality dining options nearby. With highlights like happy hour
+  specials and a casual yet stylish interior, it caters to both casual diners
+  and sushi enthusiasts looking for flavorful experiences. The restaurant
+  emphasizes accessibility and convenience, ensuring a welcoming environment for
+  all visitors. Whether you're in the mood for top-rated sushi or exploring
+  Japanese places close to you, this spot delivers on taste and variety without
+  overwhelming the senses.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ1bJ75vBghYARHWysXm4oJB0/reviews/ChdDSUhNMG9nS0VJQ0FnTURvNUpiQWtnRRAB
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        This is our go to place for quality Japanese food. Everything is
+        consistently fresh and delicious. There’s something for everyone. The
+        portions are fair and reasonably priced.
+      languageCode: en
+    originalText:
+      text: >-
+        This is our go to place for quality Japanese food. Everything is
+        consistently fresh and delicious. There’s something for everyone. The
+        portions are fair and reasonably priced.
+      languageCode: en
+    authorAttribution:
+      displayName: Liz Armstrong
+      uri: https://www.google.com/maps/contrib/110231210718711726214/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWwNlwtA9sju-GAxge363pZV8y0m10qJFVY02KKs8RfUBWrYkOL=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-22T03:38:33.061941Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURvNUpiQWtnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURvNUpiQWtnRRAB!2m1!1s0x808560f0e67bb2d5:0x1d24286e5eac6c1d
+  - name: >-
+      places/ChIJ1bJ75vBghYARHWysXm4oJB0/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRdWMtclJnEAE
+    relativePublishTimeDescription: a month ago
+    rating: 1
+    text:
+      text: >-
+        Was my go to place for rolls. Unfortunately, there is almost no fish in
+        rolls anymore. Slices were so thin I could not even taste it. Not coming
+        back. Rice has a really good flavor though.
+      languageCode: en
+    originalText:
+      text: >-
+        Was my go to place for rolls. Unfortunately, there is almost no fish in
+        rolls anymore. Slices were so thin I could not even taste it. Not coming
+        back. Rice has a really good flavor though.
+      languageCode: en
+    authorAttribution:
+      displayName: Yaroslav Shneikin
+      uri: https://www.google.com/maps/contrib/102762694992197966156/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUFKeLVIE4bic2oQbHZ-6_ItBBVGTU-2GDhLYYxs9jX8tEBTwpx_g=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-06T06:15:51.877025Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNRdWMtclJnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNRdWMtclJnEAE!2m1!1s0x808560f0e67bb2d5:0x1d24286e5eac6c1d
+  - name: >-
+      places/ChIJ1bJ75vBghYARHWysXm4oJB0/reviews/ChZDSUhNMG9nS0VJQ0FnSUMxeTk3WlBnEAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        Let me preface this: the food portions are HUGE! You get really big
+        platters of food and unless you're getting the hand rolls, the sushi
+        trays are no different either. I would be more sparse with the
+        appetizers if you're in a party of four or less. That said, everything
+        tastes amazing and high quality, and the presentation is always
+        meticulously crafted. In terms of atmosphere, the place is a nice blend
+        of modern and traditional Japanese aestheics. The service is super solid
+        too, but it can take a while sometimes for them to get your food to your
+        table (honestly it's not really something that's always on them, since
+        peak dinner hours are a thing). Definitely a place to check out for fans
+        of Japanese food!
+      languageCode: en
+    originalText:
+      text: >-
+        Let me preface this: the food portions are HUGE! You get really big
+        platters of food and unless you're getting the hand rolls, the sushi
+        trays are no different either. I would be more sparse with the
+        appetizers if you're in a party of four or less. That said, everything
+        tastes amazing and high quality, and the presentation is always
+        meticulously crafted. In terms of atmosphere, the place is a nice blend
+        of modern and traditional Japanese aestheics. The service is super solid
+        too, but it can take a while sometimes for them to get your food to your
+        table (honestly it's not really something that's always on them, since
+        peak dinner hours are a thing). Definitely a place to check out for fans
+        of Japanese food!
+      languageCode: en
+    authorAttribution:
+      displayName: John-Andrew Zacharakis
+      uri: https://www.google.com/maps/contrib/109766120041594264085/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVN19pGXwKDVXWJMOZRIRSEG4uGFoSw3dRvy5t9rLtwz1QR1-qzmw=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-01-01T00:48:01.659085Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUMxeTk3WlBnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUMxeTk3WlBnEAE!2m1!1s0x808560f0e67bb2d5:0x1d24286e5eac6c1d
+  - name: >-
+      places/ChIJ1bJ75vBghYARHWysXm4oJB0/reviews/ChdDSUhNMG9nS0VJQ0FnSUR2aTdqT19RRRAB
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        Okay, so we eat a LOT of sushi in my family. We’ve been from Danville to
+        as far as San Francisco for some good sushi and let me tell you, this
+        restaurant is our heaven on earth. Yes, It’s on a pricey side but the
+        rolls are amazing. Would highly recommend the Lion King, and Baked
+        Scallop as well as Sashimi. Been a customer for years now. Love this
+        place so much!
+      languageCode: en
+    originalText:
+      text: >-
+        Okay, so we eat a LOT of sushi in my family. We’ve been from Danville to
+        as far as San Francisco for some good sushi and let me tell you, this
+        restaurant is our heaven on earth. Yes, It’s on a pricey side but the
+        rolls are amazing. Would highly recommend the Lion King, and Baked
+        Scallop as well as Sashimi. Been a customer for years now. Love this
+        place so much!
+      languageCode: en
+    authorAttribution:
+      displayName: Tanvi Prithiviraj
+      uri: https://www.google.com/maps/contrib/100160109788766441613/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKKeAfB_nt1st0uMYrD4-IdAdR6s6w4LS2lD3teIXe0gqQ_Ug=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2024-12-24T01:48:27.832567Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR2aTdqT19RRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR2aTdqT19RRRAB!2m1!1s0x808560f0e67bb2d5:0x1d24286e5eac6c1d
+  - name: >-
+      places/ChIJ1bJ75vBghYARHWysXm4oJB0/reviews/ChdDSUhNMG9nS0VJQ0FnTURvNWM3ZHB3RRAB
+    relativePublishTimeDescription: in the last week
+    rating: 5
+    text:
+      text: >-
+        Second time today and the service has been amazing.  I ordered different
+        dishes both times and it's been delicious. Restaurant gets packed super
+        quick but the atmosphere is nice
+      languageCode: en
+    originalText:
+      text: >-
+        Second time today and the service has been amazing.  I ordered different
+        dishes both times and it's been delicious. Restaurant gets packed super
+        quick but the atmosphere is nice
+      languageCode: en
+    authorAttribution:
+      displayName: Maria Ayala
+      uri: https://www.google.com/maps/contrib/110110839747274782640/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIu2XQHgpbcgvc25oCSzvNHSbr_66h_JkidoAxYfJrJ2wbJSA=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-27T02:27:52.752659Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURvNWM3ZHB3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURvNWM3ZHB3RRAB!2m1!1s0x808560f0e67bb2d5:0x1d24286e5eac6c1d
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors often praise Ozora Sushi for its
+  consistently fresh and delicious dishes, with many highlighting the generous
+  portions and high-quality ingredients that make every meal feel satisfying.
+  While most feedback focuses on the amazing rolls and overall variety that
+  suits groups or families, a few notes mention occasional inconsistencies in
+  portion sizes for certain items, though the flavorful rice and presentation
+  keep things enjoyable. The atmosphere gets high marks for its nice blend of
+  modern and traditional vibes, along with solid service that handles busy times
+  well, creating a welcoming spot for casual outings. Overall, it's clear that
+  this place shines as a reliable choice for Japanese fare, encouraging repeat
+  visits despite minor hiccups. If you're hunting for the best sushi near you,
+  the positive experiences shared suggest it's worth trying for a balanced and
+  tasty adventure.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
 good_for_sports: null
-live_music: null
-menu_for_children: null
+live_music: false
+menu_for_children: true
 outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Sophisticated sushi house garners raves for its inventive rolls & fare served
+  in a stylish interior.
 
 ---

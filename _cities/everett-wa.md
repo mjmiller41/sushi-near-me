@@ -5,4 +5,5 @@ permalink: /washington/everett/
 stateAbbr: WA
 stateName: Washington
 cityName: Everett
+
 ---

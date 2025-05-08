@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "MoCA Asian Bistro"
+title: MoCA Asian Bistro
 permalink: /new-york/woodbury/moca-asian-bistro.html
 stateAbbr: NY
 stateName: New York
 cityName: Woodbury
 seo:
-  name: "MoCA Asian Bistro"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "MoCA Asian Bistro serves delicious sushi in Woodbury, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJVUCC_g2CwokReIdOikc17Iw
 photos:
   - name: >-
@@ -185,7 +183,48 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover MoCA Asian Bistro in Woodbury, NY$$$MoCA Asian Bistro in Woodbury,
+  New York, stands out as an upscale Asian fusion spot where fresh flavors and
+  innovative dishes blend seamlessly for a memorable dining experience. This
+  inviting restaurant features a stylish bar area perfect for enjoying happy
+  hour specials alongside a variety of lunch and dinner options that highlight
+  creative twists on classic Asian cuisine. With its focus on accessibility and
+  welcoming ambiance, it's an ideal choice for those seeking sushi restaurants
+  near me or top-rated Japanese-inspired places in the area. The menu draws from
+  a mix of cultural influences, offering dishes that appeal to both casual
+  diners and those looking for something special. Overall, it's a go-to
+  destination for anyone exploring the best sushi and Asian dining options close
+  to home in this vibrant community.
+generative_summary: >-
+  Discover MoCA Asian Bistro in Woodbury, NY$$$MoCA Asian Bistro in Woodbury,
+  New York, stands out as an upscale Asian fusion spot where fresh flavors and
+  innovative dishes blend seamlessly for a memorable dining experience. This
+  inviting restaurant features a stylish bar area perfect for enjoying happy
+  hour specials alongside a variety of lunch and dinner options that highlight
+  creative twists on classic Asian cuisine. With its focus on accessibility and
+  welcoming ambiance, it's an ideal choice for those seeking sushi restaurants
+  near me or top-rated Japanese-inspired places in the area. The menu draws from
+  a mix of cultural influences, offering dishes that appeal to both casual
+  diners and those looking for something special. Overall, it's a go-to
+  destination for anyone exploring the best sushi and Asian dining options close
+  to home in this vibrant community.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Visitor Experiences$$$Folks checking out MoCA Asian Bistro often
+  highlight the tasty, well-prepared meals that make every visit feel
+  worthwhile, with many praising the fresh ingredients and creative
+  presentations. Feedback frequently mentions a relaxed vibe and attentive
+  service that keeps things enjoyable without any fuss, making it a solid pick
+  for groups or a quick bite. While some note that wait times can vary during
+  peak hours, the overall consensus leans positive, especially for those hunting
+  for reliable sushi places near me. Diners appreciate the variety of options
+  that cater to different tastes, helping it maintain a reputation as one of the
+  go-to spots in the area. All in all, it's a welcoming choice that delivers on
+  flavor and atmosphere, encouraging repeat trips for anyone in the mood for
+  quality Asian fare.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +250,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

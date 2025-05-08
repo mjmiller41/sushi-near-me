@@ -5,4 +5,5 @@ permalink: /florida/islamorada/
 stateAbbr: FL
 stateName: Florida
 cityName: Islamorada
+
 ---

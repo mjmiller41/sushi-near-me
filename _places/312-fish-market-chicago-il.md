@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "312 Fish Market"
+title: 312 Fish Market
 permalink: /illinois/chicago/312-fish-market.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
 seo:
-  name: "312 Fish Market"
-  type: Restaurant
+  type: restaurant
   links: http://312fishmarket.com/
-description: "312 Fish Market serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ38DgqNEtDogRM8KleUXhHCs
 photos:
   - name: >-
@@ -181,6 +179,33 @@ price_range: null
 rating: '4.6'
 rating_count: 0
 website: http://312fishmarket.com/
+description: >-
+  Explore 312 Fish Market in Chicago, IL$$$Nestled in Chicago, IL, 312 Fish
+  Market stands out as a casual Japanese sushi bar offering a unique blend of
+  fresh seafood and premium wagyu beef, all conveniently located within a
+  bustling grocery store setting. This spot delivers an authentic sushi
+  experience with high-quality ingredients that emphasize flavor and freshness,
+  making it a hidden gem for those seeking everyday Japanese cuisine. Diners can
+  enjoy a variety of expertly prepared rolls and sashimi that highlight the
+  delicate balance of tastes, paired with an intimate atmosphere that feels
+  worlds away from the surrounding market. The restaurant's focus on fresh fare
+  ensures a satisfying meal, ideal for anyone exploring top sushi options in the
+  area, with convenient access for those searching for reliable sushi
+  restaurants nearby.
+generative_summary: >-
+  Explore 312 Fish Market in Chicago, IL$$$Nestled in Chicago, IL, 312 Fish
+  Market stands out as a casual Japanese sushi bar offering a unique blend of
+  fresh seafood and premium wagyu beef, all conveniently located within a
+  bustling grocery store setting. This spot delivers an authentic sushi
+  experience with high-quality ingredients that emphasize flavor and freshness,
+  making it a hidden gem for those seeking everyday Japanese cuisine. Diners can
+  enjoy a variety of expertly prepared rolls and sashimi that highlight the
+  delicate balance of tastes, paired with an intimate atmosphere that feels
+  worlds away from the surrounding market. The restaurant's focus on fresh fare
+  ensures a satisfying meal, ideal for anyone exploring top sushi options in the
+  area, with convenient access for those searching for reliable sushi
+  restaurants nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ38DgqNEtDogRM8KleUXhHCs/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3ajVlNzdnRRAB
@@ -348,6 +373,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNuM0otS0NBEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNuM0otS0NBEAE!2m1!1s0x880e2dd1a8e0c0df:0x2b1ce14579a5c233
+review_summary: >-
+  Insights from Recent Reviews$$$Folks consistently praise the sushi at this
+  spot for its incredible freshness and melt-in-your-mouth quality, with
+  standout mentions of dishes like salmon and tuna that bring bold flavors to
+  the table. Many appreciate the generous portions and overall value, making it
+  a solid pick for anyone craving high-quality Japanese eats without breaking
+  the bank. While some note occasional waits during busy times, the overall
+  experience remains upbeat, thanks to the welcoming vibe and reasonable pricing
+  that keeps customers coming back. If you're on the hunt for the best sushi
+  near you, this place delivers a reliably enjoyable meal that's perfect for
+  casual outings or quick takeout. All in all, it's a go-to choice that lives up
+  to the hype for fresh, flavorful options in a lively setting.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
 payment_options:
@@ -376,7 +414,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

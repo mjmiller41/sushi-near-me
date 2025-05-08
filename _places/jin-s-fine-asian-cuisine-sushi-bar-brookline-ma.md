@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Jin’s fine Asian cuisine sushi bar"
+title: Jin’s fine Asian cuisine sushi bar
 permalink: /massachusetts/brookline/jin-s-fine-asian-cuisine-sushi-bar.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Brookline
 seo:
-  name: "Jin’s fine Asian cuisine sushi bar"
-  type: Restaurant
+  type: restaurant
   links: https://jinsbrookline.com/
-description: "Jin’s fine Asian cuisine sushi bar serves delicious sushi in Brookline, Massachusetts. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJw-xam79544kRIgnwpyJn7y4
 photos:
   - name: >-
@@ -169,7 +167,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89e379bf9b5aecc3:0x2eef6722a7f00922!10e5
 primary_type: Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 20
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 20
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 20
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 20
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 20
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 20
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 20
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 9:20 PM'
     - 'Tuesday: 11:30 AM – 9:20 PM'
     - 'Wednesday: 11:30 AM – 9:20 PM'
@@ -177,28 +233,194 @@ opening_hours:
     - 'Friday: 11:30 AM – 10:20 PM'
     - 'Saturday: 11:30 AM – 10:20 PM'
     - 'Sunday: 11:30 AM – 9:20 PM'
-  current:
-    - 'Monday: 11:30 AM – 9:20 PM'
-    - 'Tuesday: 11:30 AM – 9:20 PM'
-    - 'Wednesday: 11:30 AM – 9:20 PM'
-    - 'Thursday: 11:30 AM – 9:20 PM'
-    - 'Friday: 11:30 AM – 10:20 PM'
-    - 'Saturday: 11:30 AM – 10:20 PM'
-    - 'Sunday: 11:30 AM – 9:20 PM'
+  nextCloseTime: '2025-05-04T02:20:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 11
+          minute: 30
+        close:
+          day: 0
+          hour: 21
+          minute: 20
+      - open:
+          day: 1
+          hour: 11
+          minute: 30
+        close:
+          day: 1
+          hour: 21
+          minute: 20
+      - open:
+          day: 2
+          hour: 11
+          minute: 30
+        close:
+          day: 2
+          hour: 21
+          minute: 20
+      - open:
+          day: 3
+          hour: 11
+          minute: 30
+        close:
+          day: 3
+          hour: 21
+          minute: 20
+      - open:
+          day: 4
+          hour: 11
+          minute: 30
+        close:
+          day: 4
+          hour: 21
+          minute: 20
+      - open:
+          day: 5
+          hour: 11
+          minute: 30
+        close:
+          day: 5
+          hour: 22
+          minute: 20
+      - open:
+          day: 6
+          hour: 11
+          minute: 30
+        close:
+          day: 6
+          hour: 22
+          minute: 20
+    weekdayDescriptions:
+      - 'Monday: 11:30 AM – 9:20 PM'
+      - 'Tuesday: 11:30 AM – 9:20 PM'
+      - 'Wednesday: 11:30 AM – 9:20 PM'
+      - 'Thursday: 11:30 AM – 9:20 PM'
+      - 'Friday: 11:30 AM – 10:20 PM'
+      - 'Saturday: 11:30 AM – 10:20 PM'
+      - 'Sunday: 11:30 AM – 9:20 PM'
+    secondaryHoursType: DELIVERY
+    nextCloseTime: '2025-05-04T02:20:00Z'
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 11
+          minute: 30
+        close:
+          day: 0
+          hour: 21
+          minute: 20
+      - open:
+          day: 1
+          hour: 11
+          minute: 30
+        close:
+          day: 1
+          hour: 21
+          minute: 20
+      - open:
+          day: 2
+          hour: 11
+          minute: 30
+        close:
+          day: 2
+          hour: 21
+          minute: 20
+      - open:
+          day: 3
+          hour: 11
+          minute: 30
+        close:
+          day: 3
+          hour: 21
+          minute: 20
+      - open:
+          day: 4
+          hour: 11
+          minute: 30
+        close:
+          day: 4
+          hour: 21
+          minute: 20
+      - open:
+          day: 5
+          hour: 11
+          minute: 30
+        close:
+          day: 5
+          hour: 22
+          minute: 20
+      - open:
+          day: 6
+          hour: 11
+          minute: 30
+        close:
+          day: 6
+          hour: 22
+          minute: 20
+    weekdayDescriptions:
+      - 'Monday: 11:30 AM – 9:20 PM'
+      - 'Tuesday: 11:30 AM – 9:20 PM'
+      - 'Wednesday: 11:30 AM – 9:20 PM'
+      - 'Thursday: 11:30 AM – 9:20 PM'
+      - 'Friday: 11:30 AM – 10:20 PM'
+      - 'Saturday: 11:30 AM – 10:20 PM'
+      - 'Sunday: 11:30 AM – 9:20 PM'
+    secondaryHoursType: TAKEOUT
+    nextCloseTime: '2025-05-04T02:20:00Z'
 phone: (617) 860-6288
 price_level: PRICE_LEVEL_MODERATE
 price_range: $30 &ndash; $50
 rating: '4.2'
-rating_count: 0
+rating_count: 353
 website: https://jinsbrookline.com/
+description: >-
+  Discover Jin’s Fine Asian Cuisine Sushi Bar in Brookline, MA$$$Jin’s Fine
+  Asian Cuisine Sushi Bar in Brookline, MA, provides a welcoming retreat for
+  those craving authentic Asian flavors and fresh sushi options. This relaxed
+  spot features a cozy sushi bar alongside an extensive menu that blends
+  traditional Japanese fare with a variety of Chinese dishes, including creative
+  takes on dim sum. Accessibility is a key highlight, with wheelchair-friendly
+  entrances, restrooms, and seating, making it easy for everyone to enjoy a
+  meal. Operating daily from late morning into the evening, it's an ideal choice
+  for casual lunches or dinners, drawing in locals and visitors alike with its
+  blend of comforting ambiance and diverse culinary offerings. Whether you're
+  exploring sushi restaurants in the area or seeking Japanese-inspired meals
+  nearby, this establishment stands out for its thoughtful combination of
+  flavors and convenient hours.
+generative_summary: >-
+  Discover Jin’s Fine Asian Cuisine Sushi Bar in Brookline, MA$$$Jin’s Fine
+  Asian Cuisine Sushi Bar in Brookline, MA, provides a welcoming retreat for
+  those craving authentic Asian flavors and fresh sushi options. This relaxed
+  spot features a cozy sushi bar alongside an extensive menu that blends
+  traditional Japanese fare with a variety of Chinese dishes, including creative
+  takes on dim sum. Accessibility is a key highlight, with wheelchair-friendly
+  entrances, restrooms, and seating, making it easy for everyone to enjoy a
+  meal. Operating daily from late morning into the evening, it's an ideal choice
+  for casual lunches or dinners, drawing in locals and visitors alike with its
+  blend of comforting ambiance and diverse culinary offerings. Whether you're
+  exploring sushi restaurants in the area or seeking Japanese-inspired meals
+  nearby, this establishment stands out for its thoughtful combination of
+  flavors and convenient hours.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Love About This Top-Rated Sushi Spot$$$Folks who visit this
+  sushi bar often rave about the fresh, high-quality ingredients that make every
+  bite memorable, earning it solid praise across the board. Many appreciate the
+  flavorful dishes and reliable service, which help create a relaxed dining
+  experience that's perfect for groups or solo outings. While some note that
+  wait times can vary during peak hours, the overall consensus highlights the
+  great value for the price, especially for those hunting for the best sushi
+  options around. It's frequently described as a go-to place for satisfying
+  meals that blend Japanese and Chinese influences, with the atmosphere adding
+  to the appeal for repeat visits. All in all, the positive feedback underscores
+  it as a trustworthy choice for anyone searching for tasty, accessible dining
+  in the neighborhood.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -224,7 +446,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

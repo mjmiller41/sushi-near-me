@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Mido Sushi"
+title: Mido Sushi
 permalink: /arizona/chandler/mido-sushi.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Chandler
 seo:
-  name: "Mido Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.midosushi.com/
-description: "Mido Sushi serves delicious sushi in Chandler, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJrRU-1VYHK4cRuPi2YfJUqko
 photos:
   - name: >-
@@ -170,7 +168,97 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x872b0756d53e15ad:0x4aaa54f261b6f8b8!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 16
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 14
+        minute: 0
+    - open:
+        day: 6
+        hour: 16
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:30 AM – 2:00 PM, 4:30 – 9:00 PM'
     - 'Wednesday: 11:30 AM – 2:00 PM, 4:30 – 9:00 PM'
@@ -178,54 +266,348 @@ opening_hours:
     - 'Friday: 11:30 AM – 2:00 PM, 4:30 – 9:30 PM'
     - 'Saturday: 11:30 AM – 2:00 PM, 4:30 – 9:30 PM'
     - 'Sunday: 4:30 – 9:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:30 AM – 2:00 PM, 4:30 – 9:00 PM'
-    - 'Wednesday: 11:30 AM – 2:00 PM, 4:30 – 9:00 PM'
-    - 'Thursday: 11:30 AM – 2:00 PM, 4:30 – 9:00 PM'
-    - 'Friday: 11:30 AM – 2:00 PM, 4:30 – 9:30 PM'
-    - 'Saturday: 11:30 AM – 2:00 PM, 4:30 – 9:30 PM'
-    - 'Sunday: 4:30 – 9:00 PM'
+  nextOpenTime: '2025-05-03T23:30:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: false
+    periods:
+      - open:
+          day: 2
+          hour: 11
+          minute: 30
+        close:
+          day: 2
+          hour: 14
+          minute: 0
+      - open:
+          day: 2
+          hour: 16
+          minute: 30
+        close:
+          day: 2
+          hour: 20
+          minute: 30
+      - open:
+          day: 3
+          hour: 11
+          minute: 30
+        close:
+          day: 3
+          hour: 14
+          minute: 0
+      - open:
+          day: 3
+          hour: 16
+          minute: 30
+        close:
+          day: 3
+          hour: 20
+          minute: 30
+      - open:
+          day: 4
+          hour: 11
+          minute: 30
+        close:
+          day: 4
+          hour: 14
+          minute: 0
+      - open:
+          day: 4
+          hour: 16
+          minute: 30
+        close:
+          day: 4
+          hour: 20
+          minute: 30
+      - open:
+          day: 5
+          hour: 11
+          minute: 30
+        close:
+          day: 5
+          hour: 14
+          minute: 0
+      - open:
+          day: 6
+          hour: 11
+          minute: 30
+        close:
+          day: 6
+          hour: 14
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: Closed'
+      - 'Tuesday: 11:30 AM – 2:00 PM, 4:30 – 8:30 PM'
+      - 'Wednesday: 11:30 AM – 2:00 PM, 4:30 – 8:30 PM'
+      - 'Thursday: 11:30 AM – 2:00 PM, 4:30 – 8:30 PM'
+      - 'Friday: 11:30 AM – 2:00 PM'
+      - 'Saturday: 11:30 AM – 2:00 PM'
+      - 'Sunday: Closed'
+    secondaryHoursType: HAPPY_HOUR
+    nextOpenTime: '2025-05-06T18:30:00Z'
 phone: (480) 753-6622
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.6'
-rating_count: 0
+rating_count: 1176
 website: http://www.midosushi.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Experience Mido Sushi in Chandler, AZ$$$Mido Sushi in Chandler, AZ, stands out
+  as a casual Japanese eatery offering fresh sushi rolls and classic dishes in a
+  welcoming atmosphere. This spot focuses on flavorful options like tempura and
+  teriyaki, making it a great choice for anyone exploring sushi restaurants in
+  the area. With its cozy setting and emphasis on quality ingredients, it's
+  ideal for those seeking affordable Japanese dining experiences nearby.
+  Accessibility features ensure it's easy to enjoy, whether you're stopping by
+  for a quick meal or a relaxed evening. For locals or visitors hunting for
+  top-rated sushi spots, Mido Sushi delivers a satisfying blend of taste and
+  value that keeps diners coming back.
+generative_summary: >-
+  Experience Mido Sushi in Chandler, AZ$$$Mido Sushi in Chandler, AZ, stands out
+  as a casual Japanese eatery offering fresh sushi rolls and classic dishes in a
+  welcoming atmosphere. This spot focuses on flavorful options like tempura and
+  teriyaki, making it a great choice for anyone exploring sushi restaurants in
+  the area. With its cozy setting and emphasis on quality ingredients, it's
+  ideal for those seeking affordable Japanese dining experiences nearby.
+  Accessibility features ensure it's easy to enjoy, whether you're stopping by
+  for a quick meal or a relaxed evening. For locals or visitors hunting for
+  top-rated sushi spots, Mido Sushi delivers a satisfying blend of taste and
+  value that keeps diners coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJrRU-1VYHK4cRuPi2YfJUqko/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJM2FhUGVnEAE
+    relativePublishTimeDescription: 4 weeks ago
+    rating: 5
+    text:
+      text: >-
+        Delicious Japanese shushi by an outstanding Japanese chef. Good
+        selection of Japanese bottled beer. All-Day Happy Hours for sushi on
+        workdays.
+      languageCode: en
+    originalText:
+      text: >-
+        Delicious Japanese shushi by an outstanding Japanese chef. Good
+        selection of Japanese bottled beer. All-Day Happy Hours for sushi on
+        workdays.
+      languageCode: en
+    authorAttribution:
+      displayName: Pavel F
+      uri: https://www.google.com/maps/contrib/117668661854412739874/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIObJosrJtXRF4cG03kQaMpIwWQ9GQYqJ_bviIBeHyD2NjpE9w=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2025-04-04T03:57:38.398087Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNJM2FhUGVnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNJM2FhUGVnEAE!2m1!1s0x872b0756d53e15ad:0x4aaa54f261b6f8b8
+  - name: >-
+      places/ChIJrRU-1VYHK4cRuPi2YfJUqko/reviews/ChdDSUhNMG9nS0VJQ0FnTUNRbE1pNHp3RRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        This place cannot be beat as a sushi lunch spot for the value. The food
+        is made-to-order and they don't skimp out on the fish.
+      languageCode: en
+    originalText:
+      text: >-
+        This place cannot be beat as a sushi lunch spot for the value. The food
+        is made-to-order and they don't skimp out on the fish.
+      languageCode: en
+    authorAttribution:
+      displayName: Mark D
+      uri: https://www.google.com/maps/contrib/117598059496080393830/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjU3l9PJlKexc9Ml4m8omQryvRglJhLop4cx9BjtjhMr-7WfAN0epA=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-03-02T05:40:56.629667Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNRbE1pNHp3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNRbE1pNHp3RRAB!2m1!1s0x872b0756d53e15ad:0x4aaa54f261b6f8b8
+  - name: >-
+      places/ChIJrRU-1VYHK4cRuPi2YfJUqko/reviews/ChZDSUhNMG9nS0VJQ0FnSUNiaktMSkZ3EAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        We have been going here for over ten years, and it is our favorite local
+        sushi place! Especially if you like spicy rolls, there are a lot of good
+        specialty rolls the chef creates that have some spice to them. Not all
+        of the rolls are spicy, as there is a great variety. The staff has
+        stayed largely the same over the last 10 years, which says a lot. The
+        staff and owner have watched my kids grow up. The service is always the
+        best. The quality of the food is amazing.
+
+
+        My personal recommendations would be the Special Roll (spicy), the
+        Chandler Roll (variation on shrimp tempura), and the Sunshine Roll
+        (carrot adds a nice texture).
+      languageCode: en
+    originalText:
+      text: >-
+        We have been going here for over ten years, and it is our favorite local
+        sushi place! Especially if you like spicy rolls, there are a lot of good
+        specialty rolls the chef creates that have some spice to them. Not all
+        of the rolls are spicy, as there is a great variety. The staff has
+        stayed largely the same over the last 10 years, which says a lot. The
+        staff and owner have watched my kids grow up. The service is always the
+        best. The quality of the food is amazing.
+
+
+        My personal recommendations would be the Special Roll (spicy), the
+        Chandler Roll (variation on shrimp tempura), and the Sunshine Roll
+        (carrot adds a nice texture).
+      languageCode: en
+    authorAttribution:
+      displayName: Sarah Berrett
+      uri: https://www.google.com/maps/contrib/113322608056412632890/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVQfKbaYojyVBdrDTHtoKPaxgKdBmDDr4wIOliv92hPWZMxTro=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-12-18T00:53:45.652772Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNiaktMSkZ3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNiaktMSkZ3EAE!2m1!1s0x872b0756d53e15ad:0x4aaa54f261b6f8b8
+  - name: >-
+      places/ChIJrRU-1VYHK4cRuPi2YfJUqko/reviews/ChZDSUhNMG9nS0VJQ0FnSUNEOTZ1eU5BEAE
+    relativePublishTimeDescription: a year ago
+    rating: 4
+    text:
+      text: >-
+        The strengths and weaknesses of this restaurant have been extensively
+        covered in other reviews, so I'll share my personal experience. The
+        portions are generous, but the flavor of the food is average, with some
+        adjustments made to cater to local tastes. If you're craving truly
+        authentic Japanese sushi, this might not be the place for you. However,
+        if you're looking to hang out with friends, enjoy drinks, and watch a
+        game while indulging in plentiful food, this is a great spot offering
+        value for money. The taste and style lean more towards Korean,
+        particularly reminiscent of places in Seoul or Yanbian. You'll notice
+        similar styles and decorations inside. The service is attentive and
+        friendly. The only downside to the food is that it's not particularly
+        authentic or refined, but the portions are undeniably generous.
+      languageCode: en
+    originalText:
+      text: >-
+        The strengths and weaknesses of this restaurant have been extensively
+        covered in other reviews, so I'll share my personal experience. The
+        portions are generous, but the flavor of the food is average, with some
+        adjustments made to cater to local tastes. If you're craving truly
+        authentic Japanese sushi, this might not be the place for you. However,
+        if you're looking to hang out with friends, enjoy drinks, and watch a
+        game while indulging in plentiful food, this is a great spot offering
+        value for money. The taste and style lean more towards Korean,
+        particularly reminiscent of places in Seoul or Yanbian. You'll notice
+        similar styles and decorations inside. The service is attentive and
+        friendly. The only downside to the food is that it's not particularly
+        authentic or refined, but the portions are undeniably generous.
+      languageCode: en
+    authorAttribution:
+      displayName: Joe Qiao
+      uri: https://www.google.com/maps/contrib/102950437940463012792/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXm57_rVbZGZvpgAVo55gMA-GVhkbJW4akhCwTgbh4chGt_HekT=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2024-04-03T06:59:12.754053Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNEOTZ1eU5BEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNEOTZ1eU5BEAE!2m1!1s0x872b0756d53e15ad:0x4aaa54f261b6f8b8
+  - name: >-
+      places/ChIJrRU-1VYHK4cRuPi2YfJUqko/reviews/ChZDSUhNMG9nS0VJQ0FnSUNUa3JQQUN3EAE
+    relativePublishTimeDescription: 11 months ago
+    rating: 5
+    text:
+      text: >-
+        Presentation of the food 5/5
+
+        Taste 5/5
+
+        Service 5/5
+
+        Ambiance 5/5
+
+
+        Delicious sushi with great customer service. Price is very reasonable as
+        well. The owner Bo is also the sushi chief, he has boundless energy with
+        great enthusiasm. This is a small family business, everyone is helping
+        the restaurant including wife, daughter and son-in-law.  Everyone
+        dedicate to make the restaurant dinning experience the very best.
+        Overall amazing food and great service, definitely recommend!
+      languageCode: en
+    originalText:
+      text: >-
+        Presentation of the food 5/5
+
+        Taste 5/5
+
+        Service 5/5
+
+        Ambiance 5/5
+
+
+        Delicious sushi with great customer service. Price is very reasonable as
+        well. The owner Bo is also the sushi chief, he has boundless energy with
+        great enthusiasm. This is a small family business, everyone is helping
+        the restaurant including wife, daughter and son-in-law.  Everyone
+        dedicate to make the restaurant dinning experience the very best.
+        Overall amazing food and great service, definitely recommend!
+      languageCode: en
+    authorAttribution:
+      displayName: Lai Lam
+      uri: https://www.google.com/maps/contrib/106451099481071003209/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUGuI5Z2SJPx5OoMZqy6q3vBCQ1gyIp8Xo8wF1fKGF9J4Ro3kXWxg=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-05-12T20:57:33.315Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNUa3JQQUN3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNUa3JQQUN3EAE!2m1!1s0x872b0756d53e15ad:0x4aaa54f261b6f8b8
+review_summary: >-
+  Visitor Feedback Highlights$$$Visitors often praise the wide variety of
+  creative sushi rolls and generous portions that make this place a solid pick
+  for a casual meal. Many appreciate the fresh flavors and reasonable prices,
+  especially during happy hour, which adds extra appeal for those looking to
+  unwind. The friendly service stands out, with staff going the extra mile to
+  create a comfortable vibe that's perfect for groups or families. While some
+  note that the style leans towards familiar twists rather than purely
+  traditional tastes, the overall experience remains enjoyable and reliable. If
+  you're on the hunt for dependable sushi options nearby, this spot generally
+  delivers on taste and hospitality, earning high marks from satisfied eaters.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
 allow_dogs: null
 curbside_pickup: null
 delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
+dine_in: true
+good_for_children: true
+good_for_groups: true
 good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+live_music: false
+menu_for_children: true
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Sushi is the focus of this straightforward Japanese eatery, which also serves
+  tempura & teriyaki.
 
 ---

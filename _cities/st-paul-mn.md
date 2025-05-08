@@ -5,4 +5,5 @@ permalink: /minnesota/st-paul/
 stateAbbr: MN
 stateName: Minnesota
 cityName: St Paul
+
 ---

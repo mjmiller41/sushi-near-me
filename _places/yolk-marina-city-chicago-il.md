@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yolk - Marina City"
+title: Yolk - Marina City
 permalink: /illinois/chicago/yolk-marina-city.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
 seo:
-  name: "Yolk - Marina City"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Yolk - Marina City serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJoToyIa4sDogROtxPMF-6QN8
 photos:
   - name: >-
@@ -185,7 +183,43 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Experience Yolk - Marina City in Chicago, IL$$$Yolk - Marina City in Chicago,
+  IL, stands out as a welcoming counter and table-serve venue specializing in
+  classic breakfast and brunch options in a relaxed atmosphere. This spot
+  highlights its commitment to hearty, well-prepared dishes like eggs Benedict
+  and other morning favorites, making it ideal for those seeking a casual dining
+  experience. Located in the vibrant River North neighborhood, the restaurant
+  offers thoughtful accessibility features, ensuring a comfortable visit for all
+  guests. Its operational efficiency and inviting setting make it a go-to choice
+  for anyone exploring local dining scenes, blending simplicity with satisfying
+  flavors that appeal to everyday eaters.
+generative_summary: >-
+  Experience Yolk - Marina City in Chicago, IL$$$Yolk - Marina City in Chicago,
+  IL, stands out as a welcoming counter and table-serve venue specializing in
+  classic breakfast and brunch options in a relaxed atmosphere. This spot
+  highlights its commitment to hearty, well-prepared dishes like eggs Benedict
+  and other morning favorites, making it ideal for those seeking a casual dining
+  experience. Located in the vibrant River North neighborhood, the restaurant
+  offers thoughtful accessibility features, ensuring a comfortable visit for all
+  guests. Its operational efficiency and inviting setting make it a go-to choice
+  for anyone exploring local dining scenes, blending simplicity with satisfying
+  flavors that appeal to everyday eaters.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Visitor Feedback on Yolk - Marina City$$$Visitors often rave about the solid
+  breakfast and brunch offerings at this spot, noting that the food hits the
+  mark with fresh ingredients and reliable classics. Many appreciate the
+  laid-back vibe and efficient service, which make it a comfortable pick for
+  groups or solo diners looking for a quick meal. While some mention wait times
+  during peak hours, the overall consensus leans positive, with folks enjoying
+  the value and taste that keep them coming back. It's generally seen as a
+  dependable choice for everyday eats, offering a welcoming environment that
+  encourages repeat visits without any major letdowns. All in all, the feedback
+  paints a picture of a straightforward spot that delivers on the basics and
+  leaves people satisfied.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +245,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

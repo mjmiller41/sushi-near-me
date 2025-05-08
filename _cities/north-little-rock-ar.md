@@ -5,4 +5,5 @@ permalink: /arkansas/north-little-rock/
 stateAbbr: AR
 stateName: Arkansas
 cityName: North Little Rock
+
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Company"
+title: Sushi Company
 permalink: /hawaii/honolulu/sushi-company.html
 stateAbbr: HI
 stateName: Hawaii
 cityName: Honolulu
 seo:
-  name: "Sushi Company"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi Company serves delicious sushi in Honolulu, Hawaii. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ0wN2j_JtAHwRqKFX2ReoUOg
 photos:
   - name: >-
@@ -167,7 +165,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x7c006df28f7603d3:0xe850a817d957a1a8!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 10
+        minute: 30
+      close:
+        day: 0
+        hour: 18
+        minute: 0
+    - open:
+        day: 1
+        hour: 10
+        minute: 30
+      close:
+        day: 1
+        hour: 18
+        minute: 0
+    - open:
+        day: 2
+        hour: 10
+        minute: 30
+      close:
+        day: 2
+        hour: 18
+        minute: 0
+    - open:
+        day: 3
+        hour: 10
+        minute: 30
+      close:
+        day: 3
+        hour: 18
+        minute: 0
+    - open:
+        day: 4
+        hour: 10
+        minute: 30
+      close:
+        day: 4
+        hour: 18
+        minute: 0
+    - open:
+        day: 5
+        hour: 10
+        minute: 30
+      close:
+        day: 5
+        hour: 18
+        minute: 0
+    - open:
+        day: 6
+        hour: 10
+        minute: 30
+      close:
+        day: 6
+        hour: 18
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 10:30 AM – 6:00 PM'
     - 'Tuesday: 10:30 AM – 6:00 PM'
     - 'Wednesday: 10:30 AM – 6:00 PM'
@@ -175,14 +231,7 @@ opening_hours:
     - 'Friday: 10:30 AM – 6:00 PM'
     - 'Saturday: 10:30 AM – 6:00 PM'
     - 'Sunday: 10:30 AM – 6:00 PM'
-  current:
-    - 'Monday: 10:30 AM – 6:00 PM'
-    - 'Tuesday: 10:30 AM – 6:00 PM'
-    - 'Wednesday: 10:30 AM – 6:00 PM'
-    - 'Thursday: 10:30 AM – 6:00 PM'
-    - 'Friday: 10:30 AM – 6:00 PM'
-    - 'Saturday: 10:30 AM – 6:00 PM'
-    - 'Sunday: 10:30 AM – 6:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -192,37 +241,202 @@ secondary_opening_hours:
     type: null
 phone: (808) 947-5411
 price_level: PRICE_LEVEL_INEXPENSIVE
-price_range: null
+price_range: $10 &ndash; $20
 rating: '4.4'
-rating_count: 0
+rating_count: 91
 website: null
-reviews: null
+description: >-
+  About Sushi Company in Honolulu, HI$$$Nestled in the heart of Honolulu, HI,
+  Sushi Company stands out as a welcoming spot for fresh Japanese cuisine,
+  offering a comfortable atmosphere perfect for families and casual diners. This
+  kid-friendly eatery specializes in a variety of fish dishes, hearty bento
+  boxes, and crispy tempura, making it a go-to choice for those seeking
+  affordable and flavorful options in the area. With its convenient takeout
+  counter and daily hours from late morning to early evening, it's ideal for
+  quick lunches or relaxed meals that highlight quality ingredients without the
+  fuss. Wheelchair-accessible parking adds to the ease of visiting, ensuring
+  everyone can enjoy this hidden gem among sushi restaurants near you.
+generative_summary: >-
+  About Sushi Company in Honolulu, HI$$$Nestled in the heart of Honolulu, HI,
+  Sushi Company stands out as a welcoming spot for fresh Japanese cuisine,
+  offering a comfortable atmosphere perfect for families and casual diners. This
+  kid-friendly eatery specializes in a variety of fish dishes, hearty bento
+  boxes, and crispy tempura, making it a go-to choice for those seeking
+  affordable and flavorful options in the area. With its convenient takeout
+  counter and daily hours from late morning to early evening, it's ideal for
+  quick lunches or relaxed meals that highlight quality ingredients without the
+  fuss. Wheelchair-accessible parking adds to the ease of visiting, ensuring
+  everyone can enjoy this hidden gem among sushi restaurants near you.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ0wN2j_JtAHwRqKFX2ReoUOg/reviews/ChdDSUhNMG9nS0VJQ0FnTUNnd2ZpOXRnRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 4
+    text:
+      text: Great for the price. lovely staff. I get this often for lunch.
+      languageCode: en
+    originalText:
+      text: Great for the price. lovely staff. I get this often for lunch.
+      languageCode: en
+    authorAttribution:
+      displayName: T L
+      uri: https://www.google.com/maps/contrib/109462758515231313234/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXsVXL8Jf22cuoeQXM22EtLYyEp2_09BI4ti1U0nvqkKF65miTp=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-02-17T21:52:26.490877Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNnd2ZpOXRnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNnd2ZpOXRnRRAB!2m1!1s0x7c006df28f7603d3:0xe850a817d957a1a8
+  - name: >-
+      places/ChIJ0wN2j_JtAHwRqKFX2ReoUOg/reviews/ChZDSUhNMG9nS0VJQ0FnSUQzdU1QSmZnEAE
+    relativePublishTimeDescription: 5 months ago
+    rating: 3
+    text:
+      text: Nigiri was okay but service was very quick.
+      languageCode: en
+    originalText:
+      text: Nigiri was okay but service was very quick.
+      languageCode: en
+    authorAttribution:
+      displayName: Kimo Rebollo
+      uri: https://www.google.com/maps/contrib/100079142910931289260/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVw5AVgNSp8TJz0NwoJl8IUu5H21B62z8ptGSo_3Rwe96XYtrgJog=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-11-12T03:00:01.963352Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQzdU1QSmZnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQzdU1QSmZnEAE!2m1!1s0x7c006df28f7603d3:0xe850a817d957a1a8
+  - name: >-
+      places/ChIJ0wN2j_JtAHwRqKFX2ReoUOg/reviews/ChZDSUhNMG9nS0VJQ0FnTUNvaTdEblN3EAE
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: Loved it. Would highly recommend. Food is amazing.
+      languageCode: en
+    originalText:
+      text: Loved it. Would highly recommend. Food is amazing.
+      languageCode: en
+    authorAttribution:
+      displayName: Eduardo Veloso
+      uri: https://www.google.com/maps/contrib/112732589248555832528/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLftAhj-vgW81QnZPZCXS0bQGgAFQKoOeQacouhtz1OgOTfYw=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-04-19T21:13:21.361223Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNvaTdEblN3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNvaTdEblN3EAE!2m1!1s0x7c006df28f7603d3:0xe850a817d957a1a8
+  - name: >-
+      places/ChIJ0wN2j_JtAHwRqKFX2ReoUOg/reviews/ChZDSUhNMG9nS0VJQ0FnSURubnJXUFFBEAE
+    relativePublishTimeDescription: 6 months ago
+    rating: 5
+    text:
+      text: >-
+        I ordered via phone on a Saturday and picked up half hour later. Service
+        was great and order accurate. All food was freshly made. We enjoyed
+        karaagi chicken, spicy tuna donburi, shrimp donburi,  unagi donburi.
+        sushi and rice were excellent. Orders included miso soup. Will
+        definitely return.
+      languageCode: en
+    originalText:
+      text: >-
+        I ordered via phone on a Saturday and picked up half hour later. Service
+        was great and order accurate. All food was freshly made. We enjoyed
+        karaagi chicken, spicy tuna donburi, shrimp donburi,  unagi donburi.
+        sushi and rice were excellent. Orders included miso soup. Will
+        definitely return.
+      languageCode: en
+    authorAttribution:
+      displayName: Judy Yamamoto
+      uri: https://www.google.com/maps/contrib/112599926365710361580/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVfPs6IPhu1Ku21RaSjqKE9_vG0bWHb5yHD4-3x-tOCaI5QvXdB=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-10-06T05:49:48.941284Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURubnJXUFFBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURubnJXUFFBEAE!2m1!1s0x7c006df28f7603d3:0xe850a817d957a1a8
+  - name: >-
+      places/ChIJ0wN2j_JtAHwRqKFX2ReoUOg/reviews/ChZDSUhNMG9nS0VJQ0FnSURkalluQ0N3EAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        When I got my first job in town I would come here for lunch weekly! I’ve
+        since moved to another island and ALWAYS make it a point to visit this
+        awesome little food establishment. I just went here today and had my
+        usual spicy ahi don with tempura and it is THE BEST. Their food never
+        disappoints and they always have friendly staff. Thank you for always
+        providing affordable yet delicious meals throughout the years. 10/10
+        recommend!!
+      languageCode: en
+    originalText:
+      text: >-
+        When I got my first job in town I would come here for lunch weekly! I’ve
+        since moved to another island and ALWAYS make it a point to visit this
+        awesome little food establishment. I just went here today and had my
+        usual spicy ahi don with tempura and it is THE BEST. Their food never
+        disappoints and they always have friendly staff. Thank you for always
+        providing affordable yet delicious meals throughout the years. 10/10
+        recommend!!
+      languageCode: en
+    authorAttribution:
+      displayName: Kayla Macadangdang
+      uri: https://www.google.com/maps/contrib/101741958632753333907/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWNYTl_VfMbPhfkUSyAUjhFxqIWUlQhEo5ivzYFmQ39CYQs94vDbA=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-02-26T03:18:03.335504Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURkalluQ0N3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURkalluQ0N3EAE!2m1!1s0x7c006df28f7603d3:0xe850a817d957a1a8
+review_summary: >-
+  What People Are Buzzing About This Sushi Spot$$$Visitors often rave about the
+  great value and fresh flavors at this Honolulu favorite, with many
+  highlighting the tasty fish dishes and efficient service that make it a
+  reliable lunch option. While one comment noted that some items were just okay,
+  the overall consensus leans toward satisfaction with the accurate orders and
+  generous portions that keep folks coming back. Folks appreciate the affordable
+  pricing and friendly vibe, making it a solid pick for everyday meals or
+  takeout cravings. Overall, the feedback paints a picture of a dependable spot
+  that's worth trying for anyone searching for top-rated sushi experiences in
+  the neighborhood.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
-payment_options: null
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
+delivery: true
+dine_in: true
+good_for_children: true
 good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: false
+restroom: false
+serves_beer: false
 serves_breakfast: null
 serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_cocktails: false
+serves_coffee: false
+serves_dinner: true
+serves_dessert: false
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: false
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Call ahead or order & wait at this Japanese takeout counter offering varying
+  sizes of sushi sets.
 
 ---

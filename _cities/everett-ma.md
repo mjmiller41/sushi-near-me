@@ -5,4 +5,5 @@ permalink: /massachusetts/everett/
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Everett
+
 ---

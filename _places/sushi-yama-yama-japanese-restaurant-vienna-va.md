@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Yama (Yama Japanese Restaurant)"
+title: Sushi Yama (Yama Japanese Restaurant)
 permalink: /virginia/vienna/sushi-yama-yama-japanese-restaurant.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Vienna
 seo:
-  name: "Sushi Yama (Yama Japanese Restaurant)"
-  type: Restaurant
-  links: null
-description: "Sushi Yama (Yama Japanese Restaurant) serves delicious sushi in Vienna, Virginia. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://sushiyama.menu11.com/
 place_id: ChIJ00OgFsRLtokRrrExBfkX3hw
 photos:
   - name: >-
@@ -170,8 +168,105 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89b64bc416a043d3:0x1cde17f90531b1ae!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 15
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: Closed'
+    - 'Tuesday: 11:30 AM – 2:30 PM, 5:00 – 9:30 PM'
+    - 'Wednesday: 11:30 AM – 2:30 PM, 5:00 – 9:30 PM'
+    - 'Thursday: 11:30 AM – 2:30 PM, 5:00 – 9:30 PM'
+    - 'Friday: 11:30 AM – 2:30 PM, 5:00 – 9:30 PM'
+    - 'Saturday: 12:00 – 3:00 PM, 5:00 – 9:30 PM'
+    - 'Sunday: 5:00 – 9:30 PM'
+  nextCloseTime: '2025-05-04T01:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +274,51 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (703) 242-7703
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.6'
+rating_count: 452
+website: https://sushiyama.menu11.com/
+description: >-
+  Discover Sushi Yama in Vienna, VA$$$Sushi Yama in Vienna, VA, stands out as a
+  cozy Japanese restaurant where fresh sushi rolls and traditional specialties
+  take center stage, perfect for those seeking top-rated sushi options nearby.
+  This spot pairs its menu with sake and beer in a relaxed, casual setting that
+  invites diners to unwind while enjoying authentic flavors. Accessibility
+  features like wheelchair-friendly parking and entrances make it an inclusive
+  choice for everyone looking for quality Japanese cuisine close to home. With
+  moderate pricing around $20 to $30, it's an excellent option for a satisfying
+  meal without breaking the bank. Whether you're exploring sushi places near you
+  or craving Japanese dishes, this restaurant delivers a welcoming atmosphere
+  that enhances the overall dining experience.
+generative_summary: >-
+  Discover Sushi Yama in Vienna, VA$$$Sushi Yama in Vienna, VA, stands out as a
+  cozy Japanese restaurant where fresh sushi rolls and traditional specialties
+  take center stage, perfect for those seeking top-rated sushi options nearby.
+  This spot pairs its menu with sake and beer in a relaxed, casual setting that
+  invites diners to unwind while enjoying authentic flavors. Accessibility
+  features like wheelchair-friendly parking and entrances make it an inclusive
+  choice for everyone looking for quality Japanese cuisine close to home. With
+  moderate pricing around $20 to $30, it's an excellent option for a satisfying
+  meal without breaking the bank. Whether you're exploring sushi places near you
+  or craving Japanese dishes, this restaurant delivers a welcoming atmosphere
+  that enhances the overall dining experience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Feedback from Sushi Enthusiasts$$$Visitors often praise the flavorful nigiri
+  and pork katsu at this Japanese eatery, noting how these dishes hit the spot
+  for anyone hunting for reliable sushi restaurants in the area. Folks
+  appreciate the consistently friendly service that makes every visit feel
+  effortless and enjoyable, adding to the laid-back vibe. Many highlight the
+  overall quality and variety that keep people coming back for more, especially
+  when searching for the best sushi near me. While experiences can vary, the
+  general consensus leans positive, with comments on the excellent attention to
+  detail that elevates simple meals. If you're in the mood for solid Japanese
+  fare with a welcoming touch, this place tends to deliver just what you need
+  without any major letdowns.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +344,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

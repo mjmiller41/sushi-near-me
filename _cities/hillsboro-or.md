@@ -5,4 +5,5 @@ permalink: /oregon/hillsboro/
 stateAbbr: OR
 stateName: Oregon
 cityName: Hillsboro
+
 ---

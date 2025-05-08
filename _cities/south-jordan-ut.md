@@ -5,4 +5,5 @@ permalink: /utah/south-jordan/
 stateAbbr: UT
 stateName: Utah
 cityName: South Jordan
+
 ---

@@ -5,4 +5,5 @@ permalink: /california/duarte/
 stateAbbr: CA
 stateName: California
 cityName: Duarte
+
 ---

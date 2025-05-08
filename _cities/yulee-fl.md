@@ -5,4 +5,5 @@ permalink: /florida/yulee/
 stateAbbr: FL
 stateName: Florida
 cityName: Yulee
+
 ---

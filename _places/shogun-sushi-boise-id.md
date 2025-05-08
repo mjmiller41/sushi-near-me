@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Shogun Sushi"
+title: Shogun Sushi
 permalink: /idaho/boise/shogun-sushi.html
 stateAbbr: ID
 stateName: Idaho
 cityName: Boise
 seo:
-  name: "Shogun Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.shogunsushi.org/
-description: "Shogun Sushi serves delicious sushi in Boise, Idaho. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJvb1i5x34rlQRCXCrAmRmVNM
 photos:
   - name: >-
@@ -170,7 +168,89 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x54aef81de762bdbd:0xd354666402ab7009!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 0
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 2:00 PM, 5:00 – 9:00 PM'
     - 'Tuesday: 11:00 AM – 2:00 PM, 5:00 – 9:00 PM'
     - 'Wednesday: 11:00 AM – 2:00 PM, 5:00 – 9:00 PM'
@@ -178,14 +258,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:00 PM'
     - 'Saturday: 11:00 AM – 10:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:00 AM – 2:00 PM, 5:00 – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 2:00 PM, 5:00 – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 2:00 PM, 5:00 – 9:00 PM'
-    - 'Thursday: 11:00 AM – 2:00 PM, 5:00 – 9:00 PM'
-    - 'Friday: 11:00 AM – 10:00 PM'
-    - 'Saturday: 11:00 AM – 10:00 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +270,229 @@ phone: (208) 336-2122
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.6'
-rating_count: 0
+rating_count: 860
 website: https://www.shogunsushi.org/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Shogun Sushi in Boise, ID$$$Shogun Sushi in Boise, ID, stands out as
+  a welcoming spot for Japanese cuisine enthusiasts, featuring a menu
+  highlighted by fresh sushi rolls, bento boxes, teriyaki, and hearty ramen
+  options. This casual eatery emphasizes accessibility with wheelchair-friendly
+  parking, entrances, and seating, making it easy for everyone to enjoy a meal.
+  Diners can appreciate the efficient service and reasonable pricing, paired
+  with a cozy atmosphere that's perfect for casual lunches or dinners. Open from
+  late morning through evening on most days, it's a convenient choice for those
+  seeking quality sushi dining in the area. Whether you're in the mood for a
+  quick bite or a relaxed outing, this local spot delivers authentic flavors
+  that keep customers coming back.
+generative_summary: >-
+  Discover Shogun Sushi in Boise, ID$$$Shogun Sushi in Boise, ID, stands out as
+  a welcoming spot for Japanese cuisine enthusiasts, featuring a menu
+  highlighted by fresh sushi rolls, bento boxes, teriyaki, and hearty ramen
+  options. This casual eatery emphasizes accessibility with wheelchair-friendly
+  parking, entrances, and seating, making it easy for everyone to enjoy a meal.
+  Diners can appreciate the efficient service and reasonable pricing, paired
+  with a cozy atmosphere that's perfect for casual lunches or dinners. Open from
+  late morning through evening on most days, it's a convenient choice for those
+  seeking quality sushi dining in the area. Whether you're in the mood for a
+  quick bite or a relaxed outing, this local spot delivers authentic flavors
+  that keep customers coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJvb1i5x34rlQRCXCrAmRmVNM/reviews/ChRDSUhNMG9nS0VJQ0FnTUNvOTZNehAB
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        I love this spot. I've took my wife and family here a couple times now.
+        The staff is always friendly. They kept checking on us and made sure we
+        were doing good. The rolls are incredible and the sushi chefs put a lot
+        of love and care behind there rolls. The teriyaki has great flavor, we
+        ordered appetizers and came out quick even with a packed restaurant.
+        Definitely will recommend and be returning. Shout out to the owners as
+        well for checking on customers as well. Great mom and pop place to
+        support local!;!;
+      languageCode: en
+    originalText:
+      text: >-
+        I love this spot. I've took my wife and family here a couple times now.
+        The staff is always friendly. They kept checking on us and made sure we
+        were doing good. The rolls are incredible and the sushi chefs put a lot
+        of love and care behind there rolls. The teriyaki has great flavor, we
+        ordered appetizers and came out quick even with a packed restaurant.
+        Definitely will recommend and be returning. Shout out to the owners as
+        well for checking on customers as well. Great mom and pop place to
+        support local!;!;
+      languageCode: en
+    authorAttribution:
+      displayName: Derrty Shirt
+      uri: https://www.google.com/maps/contrib/104057229019522891584/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjV79dbLLBB06pCPqzlm9_RqPxTbLaA1sr7EDmLnmdKuDKTxQA6o9w=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-04-20T18:49:22.128042Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChRDSUhNMG9nS0VJQ0FnTUNvOTZNehAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChRDSUhNMG9nS0VJQ0FnTUNvOTZNehAB!2m1!1s0x54aef81de762bdbd:0xd354666402ab7009
+  - name: >-
+      places/ChIJvb1i5x34rlQRCXCrAmRmVNM/reviews/ChZDSUhNMG9nS0VJQ0FnTUNna3VmZUdnEAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        Kudos to the staff for keeping things moving on a Valentine's day Friday
+        evening. Sushi was fresh and Ramen was good, although a bit salty for my
+        taste. Seating is a bit tight, you are essentially elbow to elbow with
+        your neighbour. Prices are reasonable.
+
+        Certainly a must try.
+      languageCode: en
+    originalText:
+      text: >-
+        Kudos to the staff for keeping things moving on a Valentine's day Friday
+        evening. Sushi was fresh and Ramen was good, although a bit salty for my
+        taste. Seating is a bit tight, you are essentially elbow to elbow with
+        your neighbour. Prices are reasonable.
+
+        Certainly a must try.
+      languageCode: en
+    authorAttribution:
+      displayName: Rajesh Kariya
+      uri: https://www.google.com/maps/contrib/107644796770257373373/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJEFZgmppZq0LwmKVpjUQ97js4xNuBNCm139O3O96IiypjMFQ=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-02-15T14:45:07.859155Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNna3VmZUdnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNna3VmZUdnEAE!2m1!1s0x54aef81de762bdbd:0xd354666402ab7009
+  - name: >-
+      places/ChIJvb1i5x34rlQRCXCrAmRmVNM/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3dVkyWDZnRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Really good Sushi! Service was ok! My friend and I split the lunch
+        specials and had 3 rolls and our favorites were the Pacific and the
+        Ichiban roll. Lunch speci was a great value too.
+
+        We will be back!
+      languageCode: en
+    originalText:
+      text: >-
+        Really good Sushi! Service was ok! My friend and I split the lunch
+        specials and had 3 rolls and our favorites were the Pacific and the
+        Ichiban roll. Lunch speci was a great value too.
+
+        We will be back!
+      languageCode: en
+    authorAttribution:
+      displayName: Michele Walker
+      uri: https://www.google.com/maps/contrib/100966075665156765734/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUapwMl09d2huy3iYTcIVCQ7L0PMnTOEC4agcjeUBZBx7GaSekRpw=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-03-19T22:42:13.382181Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUN3dVkyWDZnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUN3dVkyWDZnRRAB!2m1!1s0x54aef81de762bdbd:0xd354666402ab7009
+  - name: >-
+      places/ChIJvb1i5x34rlQRCXCrAmRmVNM/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3aktiSWxBRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Best Sushi Boise has to offer. The folks who own and work at Shogun
+        Sushi always turn out fantastic dishes.
+      languageCode: en
+    originalText:
+      text: >-
+        Best Sushi Boise has to offer. The folks who own and work at Shogun
+        Sushi always turn out fantastic dishes.
+      languageCode: en
+    authorAttribution:
+      displayName: Carol A. Maddalena
+      uri: https://www.google.com/maps/contrib/118124930572044261590/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIUTh_eS0zVWo4E9Y8VnMypVdJrxNPUxouEVOWa2w4JO9DlT9vl=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-03-24T03:28:45.273393Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUR3aktiSWxBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUR3aktiSWxBRRAB!2m1!1s0x54aef81de762bdbd:0xd354666402ab7009
+  - name: >-
+      places/ChIJvb1i5x34rlQRCXCrAmRmVNM/reviews/ChdDSUhNMG9nS0VJQ0FnSUN6eDhtWXJ3RRAB
+    relativePublishTimeDescription: 11 months ago
+    rating: 5
+    text:
+      text: >-
+        It's within walking distance of the Pilot travel plaza. The food smells
+        & and tastes awesome! It's the best  sushi place I have found west of
+        the Missouri river. I had the Eel. It was perfectly prepared.
+      languageCode: en
+    originalText:
+      text: >-
+        It's within walking distance of the Pilot travel plaza. The food smells
+        & and tastes awesome! It's the best  sushi place I have found west of
+        the Missouri river. I had the Eel. It was perfectly prepared.
+      languageCode: en
+    authorAttribution:
+      displayName: Matt Johnson
+      uri: https://www.google.com/maps/contrib/110107687667453075948/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjURJA1I5vMo1eafJF0euYtp0LbW-bqmVT5DzIbAtn_4qU_FOC3V=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-06-05T19:40:51.463645Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN6eDhtWXJ3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN6eDhtWXJ3RRAB!2m1!1s0x54aef81de762bdbd:0xd354666402ab7009
+review_summary: >-
+  What Customers Are Sharing$$$Visitors often rave about the fresh and flavorful
+  sushi rolls that make this place a go-to for tasty Japanese fare, with many
+  noting the great value in lunch specials. The ramen and other dishes come
+  across as satisfying and well-prepared, even during busy times when service
+  stays friendly and efficient. Folks appreciate the reasonable prices that make
+  it accessible for casual meals without breaking the bank. While seating can
+  feel a bit snug, the overall experience is positive, with quick delivery of
+  appetizers and attentive staff enhancing the vibe. All in all, it's a solid
+  pick for anyone hunting for reliable sushi options nearby, offering honest
+  satisfaction for a relaxed dining adventure.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
 delivery: null
-dine_in: null
+dine_in: true
 good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
+good_for_groups: true
+good_for_sports: false
+live_music: false
 menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
 serves_cocktails: null
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Casual sushi bar & restaurant offering familiar Japanese & Korean fare & an
+  unlimited sushi option.
 
 ---

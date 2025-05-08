@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Aji Ramen and Sushi"
+title: Aji Ramen and Sushi
 permalink: /virginia/lynchburg/aji-ramen-and-sushi.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Lynchburg
 seo:
-  name: "Aji Ramen and Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.ajiramenandsushi.com/
-description: "Aji Ramen and Sushi serves delicious sushi in Lynchburg, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJzd8EX0TZsokRLY1NgLBycuE
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 0
 website: http://www.ajiramenandsushi.com/
+description: >-
+  Discover Aji Ramen and Sushi in Lynchburg, Virginia$$$Aji Ramen and Sushi in
+  Lynchburg, VA, offers a welcoming spot for enjoying fresh Asian-inspired
+  dishes that highlight flavorful ramen and sushi options. This casual eatery
+  features a variety of menu items including boba drinks and hibachi entrees,
+  making it a great choice for those seeking Japanese cuisine in a relaxed
+  setting. With accessible features like wheelchair-friendly entrances and
+  parking, it's designed to accommodate all visitors comfortably. The modern
+  atmosphere and moderate pricing add to the appeal, providing an inviting
+  environment for a satisfying meal. Whether you're looking for top-rated sushi
+  or a cozy place to unwind, this spot delivers authentic flavors that keep
+  locals coming back.
+generative_summary: >-
+  Discover Aji Ramen and Sushi in Lynchburg, Virginia$$$Aji Ramen and Sushi in
+  Lynchburg, VA, offers a welcoming spot for enjoying fresh Asian-inspired
+  dishes that highlight flavorful ramen and sushi options. This casual eatery
+  features a variety of menu items including boba drinks and hibachi entrees,
+  making it a great choice for those seeking Japanese cuisine in a relaxed
+  setting. With accessible features like wheelchair-friendly entrances and
+  parking, it's designed to accommodate all visitors comfortably. The modern
+  atmosphere and moderate pricing add to the appeal, providing an inviting
+  environment for a satisfying meal. Whether you're looking for top-rated sushi
+  or a cozy place to unwind, this spot delivers authentic flavors that keep
+  locals coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJzd8EX0TZsokRLY1NgLBycuE/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJMkt6OXV3RRAB
@@ -328,6 +351,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURmb3NMSERREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURmb3NMSERREAE!2m1!1s0x89b2d9445f04dfcd:0xe17272b0804d8d2d
+review_summary: >-
+  What Customers Are Saying About the Experience$$$Visitors to this sushi spot
+  often rave about the delicious and fresh flavors of the ramen and sushi, with
+  many highlighting the generous portions and great value for the price. While
+  most feedback praises the welcoming atmosphere and friendly service that make
+  dining out feel enjoyable, a few notes mention that some dishes could be
+  improved for better texture and tenderness. Overall, folks appreciate the
+  variety of options like boba and hibachi that cater to different tastes,
+  making it a solid pick for groups or families. The positive vibes from the
+  crowd suggest it's worth trying if you're exploring Japanese places nearby,
+  with the general consensus leaning towards repeat visits for its tasty
+  offerings. Keep in mind, it's a popular choice that can get busy, so plan
+  accordingly for a smooth experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -360,7 +397,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

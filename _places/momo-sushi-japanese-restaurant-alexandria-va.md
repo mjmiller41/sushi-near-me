@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Momo Sushi Japanese Restaurant"
+title: Momo Sushi Japanese Restaurant
 permalink: /virginia/alexandria/momo-sushi-japanese-restaurant.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Alexandria
 seo:
-  name: "Momo Sushi Japanese Restaurant"
-  type: Restaurant
+  type: restaurant
   links: http://momosushioldtown.com/
-description: "Sushi bar & kitchen with fresh rolls, teriyaki & noodles, plus lots of wine, sake & Japanese beers. Momo Sushi Japanese Restaurant serves delicious sushi in Alexandria, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJL3GvV_awt4kRVgK3mtw6keo
 photos:
   - name: >-
@@ -158,13 +156,13 @@ name: Momo Sushi Japanese Restaurant
 google_maps_links:
   directionsUri: >-
     https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x89b7b0f657af712f:0xea913adc9ab70256!3e0
-  photosUri: >-
-    https://www.google.com/maps/place//data=!4m3!3m2!1s0x89b7b0f657af712f:0xea913adc9ab70256!10e5
   placeUri: https://maps.google.com/?cid=16902355595661083222
-  reviewsUri: >-
-    https://www.google.com/maps/place//data=!4m4!3m3!1s0x89b7b0f657af712f:0xea913adc9ab70256!9m1!1b1
   writeAReviewUri: >-
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89b7b0f657af712f:0xea913adc9ab70256!12e1
+  reviewsUri: >-
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x89b7b0f657af712f:0xea913adc9ab70256!9m1!1b1
+  photosUri: >-
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x89b7b0f657af712f:0xea913adc9ab70256!10e5
 primary_type: Restaurant
 opening_hours:
   regular: null
@@ -182,12 +180,52 @@ price_range: $20 &mdash; 30
 rating: '4.6'
 rating_count: 0
 website: http://momosushioldtown.com/
+description: >-
+  Discover Momo Sushi in Alexandria, VA$$$Momo Sushi Japanese Restaurant in
+  Alexandria, VA, offers a cozy and inviting atmosphere perfect for enjoying
+  authentic sushi and Japanese cuisine. This spot features a diverse selection
+  of fresh sushi rolls, sashimi, and classic dishes like teriyaki and noodles,
+  making it a go-to choice for those seeking quality Japanese flavors in a
+  relaxed setting. With an array of beverages including sake, wine, and Japanese
+  beers, it's ideal for casual dinners or special occasions, enhancing the
+  overall dining experience. The restaurant emphasizes fresh ingredients and
+  thoughtful preparation, appealing to anyone exploring sushi restaurants in the
+  area. Whether you're looking for sushi places near me or a welcoming Japanese
+  dining option, this location combines tradition with a modern vibe for an
+  enjoyable meal.
+generative_summary: >-
+  Discover Momo Sushi in Alexandria, VA$$$Momo Sushi Japanese Restaurant in
+  Alexandria, VA, offers a cozy and inviting atmosphere perfect for enjoying
+  authentic sushi and Japanese cuisine. This spot features a diverse selection
+  of fresh sushi rolls, sashimi, and classic dishes like teriyaki and noodles,
+  making it a go-to choice for those seeking quality Japanese flavors in a
+  relaxed setting. With an array of beverages including sake, wine, and Japanese
+  beers, it's ideal for casual dinners or special occasions, enhancing the
+  overall dining experience. The restaurant emphasizes fresh ingredients and
+  thoughtful preparation, appealing to anyone exploring sushi restaurants in the
+  area. Whether you're looking for sushi places near me or a welcoming Japanese
+  dining option, this location combines tradition with a modern vibe for an
+  enjoyable meal.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - ChdDSUhNMG9nS0VJQ0FnSURfaDk2NXdRRRAB
   - ChZDSUhNMG9nS0VJQ0FnSURYdjlYYVlBEAE
   - ChdDSUhNMG9nS0VJQ0FnTUNnNXJ2UmhRRRAB
   - ChZDSUhNMG9nS0VJQ0FnSUNmNzZXNFFnEAE
   - ChdDSUhNMG9nS0VJQ0FnSURYaWRQc2dnRRAB
+review_summary: >-
+  Insights from Recent Reviews$$$Visitors to this sushi spot often rave about
+  the tasty variety of rolls and sashimi, highlighting how the fresh fish and
+  creative combinations make every bite memorable. Many appreciate the friendly
+  service that keeps things smooth and attentive without overwhelming the
+  experience, adding to the laid-back vibe of the place. Folks frequently
+  mention that the prices are fair for the quality, making it a solid pick for
+  anyone hunting for best sushi near me on a budget. Overall, the consensus
+  leans positive, with diners enjoying the high-quality ingredients that keep
+  them coming back for more. If you're in the mood for reliable Japanese places
+  near me, this restaurant delivers a satisfying meal with a welcoming touch
+  that leaves a good impression.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidParkingLot: true
   freeStreetParking: true
@@ -219,8 +257,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Sushi bar & kitchen with fresh rolls, teriyaki & noodles, plus lots of wine,
   sake & Japanese beers.
 

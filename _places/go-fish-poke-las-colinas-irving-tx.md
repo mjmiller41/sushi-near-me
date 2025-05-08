@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "GO FISH POKE - LAS COLINAS"
+title: GO FISH POKE - LAS COLINAS
 permalink: /texas/irving/go-fish-poke-las-colinas.html
 stateAbbr: TX
 stateName: Texas
 cityName: Irving
 seo:
-  name: "GO FISH POKE - LAS COLINAS"
-  type: Restaurant
-  links: null
-description: "GO FISH POKE - LAS COLINAS serves delicious sushi in Irving, Texas. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.gofishpoketexas.com/
 place_id: ChIJG96qnGODToYRFstYT5XRhiw
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x864e83639caade1b:0x2c86d1954f58cb16!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 9:00 PM'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 9:00 PM'
+    - 'Saturday: 11:00 AM – 9:00 PM'
+    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,47 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
+phone: (469) 647-5140
 price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+price_range: $10 &ndash; $20
+rating: '4.5'
+rating_count: 549
+website: http://www.gofishpoketexas.com/
+description: >-
+  Explore GO FISH POKE in Irving, TX$$$GO FISH POKE - LAS COLINAS in Irving, TX,
+  stands out as a vibrant spot for enjoying fresh seafood dishes in a welcoming
+  environment. This sushi restaurant specializes in customizable poke bowls and
+  other Japanese-inspired options, making it a go-to choice for anyone craving
+  sushi nearby. Its convenient location in the lively Las Colinas neighborhood
+  ensures easy access, with ample accessibility features like
+  wheelchair-friendly parking and seating to enhance the dining experience. The
+  daily hours from 11 AM to 9 PM add to its appeal for lunch or dinner seekers,
+  while the focus on quality ingredients creates a satisfying meal that
+  highlights the best of casual Japanese cuisine.
+generative_summary: >-
+  Explore GO FISH POKE in Irving, TX$$$GO FISH POKE - LAS COLINAS in Irving, TX,
+  stands out as a vibrant spot for enjoying fresh seafood dishes in a welcoming
+  environment. This sushi restaurant specializes in customizable poke bowls and
+  other Japanese-inspired options, making it a go-to choice for anyone craving
+  sushi nearby. Its convenient location in the lively Las Colinas neighborhood
+  ensures easy access, with ample accessibility features like
+  wheelchair-friendly parking and seating to enhance the dining experience. The
+  daily hours from 11 AM to 9 PM add to its appeal for lunch or dinner seekers,
+  while the focus on quality ingredients creates a satisfying meal that
+  highlights the best of casual Japanese cuisine.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Guests Are Buzzing About$$$Based on the strong 4.5-star rating from
+  hundreds of visitors, this sushi spot near you consistently delivers on fresh
+  flavors and solid portions that keep people coming back for more. Many
+  appreciate the variety of options that cater to different tastes, making it a
+  reliable pick for quick and tasty meals in a relaxed setting. Folks often note
+  the efficient service and reasonable prices around $10 to $20, which add up to
+  a worthwhile experience without breaking the bank. Overall, it's clear that
+  diners enjoy the authentic vibes and quality seafood, positioning it as one of
+  the top sushi restaurants in the area for those seeking a satisfying bite.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +308,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

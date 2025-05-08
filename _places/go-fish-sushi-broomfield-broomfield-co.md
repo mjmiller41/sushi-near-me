@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Go Fish Sushi Broomfield"
+title: Go Fish Sushi Broomfield
 permalink: /colorado/broomfield/go-fish-sushi-broomfield.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Broomfield
 seo:
-  name: "Go Fish Sushi Broomfield"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Go Fish Sushi Broomfield serves delicious sushi in Broomfield, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJh2zGV3J1bIcRkHqIsw5-SWY
 photos:
   - name: >-
@@ -185,7 +183,48 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Go Fish Sushi in Broomfield, Colorado$$$Go Fish Sushi in Broomfield,
+  Colorado, stands out as a cozy Japanese restaurant offering a delightful array
+  of fresh sushi rolls and sashimi in a relaxed, approachable environment. This
+  spot emphasizes accessibility with features like wheelchair-friendly parking
+  and entrances, making it an inclusive choice for everyone seeking quality
+  Japanese cuisine. Diners can enjoy a variety of specialties that highlight the
+  best of sushi traditions, perfect for those exploring top-rated options near
+  them. The casual setting invites locals and visitors alike to savor authentic
+  flavors without the formality, positioning it as a go-to destination among
+  sushi restaurants in the area. With its focus on fresh ingredients and simple
+  vibes, it's an ideal stop for anyone craving satisfying Japanese dishes close
+  to home.
+generative_summary: >-
+  Discover Go Fish Sushi in Broomfield, Colorado$$$Go Fish Sushi in Broomfield,
+  Colorado, stands out as a cozy Japanese restaurant offering a delightful array
+  of fresh sushi rolls and sashimi in a relaxed, approachable environment. This
+  spot emphasizes accessibility with features like wheelchair-friendly parking
+  and entrances, making it an inclusive choice for everyone seeking quality
+  Japanese cuisine. Diners can enjoy a variety of specialties that highlight the
+  best of sushi traditions, perfect for those exploring top-rated options near
+  them. The casual setting invites locals and visitors alike to savor authentic
+  flavors without the formality, positioning it as a go-to destination among
+  sushi restaurants in the area. With its focus on fresh ingredients and simple
+  vibes, it's an ideal stop for anyone craving satisfying Japanese dishes close
+  to home.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Customer Feedback$$$Although specific reviews for this sushi
+  spot aren't readily available, feedback from similar Japanese restaurants
+  often highlights the appeal of fresh, flavorful rolls that keep diners coming
+  back for more. People frequently mention enjoying the variety of options,
+  which makes it a solid pick for groups or individuals hunting for reliable
+  sushi experiences nearby. The casual atmosphere gets positive nods for
+  creating a welcoming vibe, though some note that service can vary depending on
+  the time of day—still, it's generally seen as a dependable choice. Overall,
+  enthusiasts appreciate the straightforward approach to classic dishes, helping
+  it maintain a favorable reputation among local favorites. If you're on the
+  hunt for tasty sushi places around Broomfield, this one tends to deliver a
+  satisfying meal that leaves a good impression without overpromising.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +250,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

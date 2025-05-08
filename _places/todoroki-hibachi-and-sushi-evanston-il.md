@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Todoroki Hibachi and Sushi"
+title: Todoroki Hibachi and Sushi
 permalink: /illinois/evanston/todoroki-hibachi-and-sushi.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Evanston
 seo:
-  name: "Todoroki Hibachi and Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.mytodorokievanston.com/
-description: "Japanese dining favorites highlighted in modern & minimalist surroundings with leather chairs. Todoroki Hibachi and Sushi serves delicious sushi in Evanston, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJUamLaQ3QD4gR9XQZnxkitSM
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: null
 rating: '4.1'
 rating_count: 0
 website: http://www.mytodorokievanston.com/
+description: >-
+  Discover Todoroki Hibachi and Sushi in Evanston, IL$$$Todoroki Hibachi and
+  Sushi in Evanston, Illinois, delivers a vibrant Japanese dining experience
+  with fresh sushi options and lively hibachi entertainment that keeps diners
+  engaged. The restaurant features a modern, minimalist setting with comfortable
+  seating, making it an ideal spot for enjoying all-you-can-eat selections and
+  flavorful dishes that highlight authentic flavors. Accessibility is a key
+  strength here, with wheelchair-friendly parking, entrances, and restrooms
+  ensuring everyone can enjoy the meal. Patrons appreciate the generous portions
+  and variety of Japanese-inspired favorites, from savory hibachi grills to
+  satisfying desserts, all served in a welcoming atmosphere. Whether you're
+  seeking top-rated sushi spots nearby or a fun evening out, this location
+  stands out for its blend of entertainment and quality cuisine.
+generative_summary: >-
+  Discover Todoroki Hibachi and Sushi in Evanston, IL$$$Todoroki Hibachi and
+  Sushi in Evanston, Illinois, delivers a vibrant Japanese dining experience
+  with fresh sushi options and lively hibachi entertainment that keeps diners
+  engaged. The restaurant features a modern, minimalist setting with comfortable
+  seating, making it an ideal spot for enjoying all-you-can-eat selections and
+  flavorful dishes that highlight authentic flavors. Accessibility is a key
+  strength here, with wheelchair-friendly parking, entrances, and restrooms
+  ensuring everyone can enjoy the meal. Patrons appreciate the generous portions
+  and variety of Japanese-inspired favorites, from savory hibachi grills to
+  satisfying desserts, all served in a welcoming atmosphere. Whether you're
+  seeking top-rated sushi spots nearby or a fun evening out, this location
+  stands out for its blend of entertainment and quality cuisine.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJUamLaQ3QD4gR9XQZnxkitSM/reviews/ChZDSUhNMG9nS0VJQ0FnSUNfOGR1TGJREAE
@@ -328,6 +353,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURnZzlUM1RnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURnZzlUM1RnEAE!2m1!1s0x880fd00d698ba951:0x23b522199f1974f5
+review_summary: >-
+  What Visitors Are Saying About the Experience$$$Folks often rave about the
+  generous portions and super fresh flavors at this Japanese spot, with many
+  highlighting the entertaining hibachi shows that add a fun twist to meals.
+  Reviews frequently mention the attentive service and welcoming vibe, making it
+  a solid choice for group outings or special celebrations where everyone leaves
+  satisfied. While some note that vegetarian options are a bit limited, the
+  available dishes still deliver on taste and quantity, earning nods for being
+  worth the try. Overall, diners appreciate the value for all-you-can-eat deals,
+  even if prices lean toward the higher side, as the quality and entertainment
+  keep the experience enjoyable. If you're on the hunt for reliable sushi
+  restaurants nearby, this place gets consistent praise for its tasty offerings
+  and family-friendly appeal.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidStreetParking: true
   valetParking: false
@@ -359,8 +398,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Japanese dining favorites highlighted in modern & minimalist surroundings with
   leather chairs.
 

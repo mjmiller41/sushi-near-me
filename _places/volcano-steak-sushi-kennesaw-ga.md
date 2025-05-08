@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Volcano Steak & Sushi"
+title: Volcano Steak & Sushi
 permalink: /georgia/kennesaw/volcano-steak-sushi.html
 stateAbbr: GA
 stateName: Georgia
 cityName: Kennesaw
 seo:
-  name: "Volcano Steak & Sushi"
-  type: Restaurant
-  links: null
-description: "Volcano Steak & Sushi serves delicious sushi in Kennesaw, Georgia. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.volcanoatl.com/newvolcanokennesaw
 place_id: ChIJTd-nN2UV9YgR_vP0_lhOAGA
 photos:
   - name: >-
@@ -170,8 +168,113 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x88f5156537a7df4d:0x60004e58fef4f3fe!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 15
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 15
+      close:
+        day: 1
+        hour: 15
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 15
+      close:
+        day: 2
+        hour: 15
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 15
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 15
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 15
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 15
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:15 AM – 3:00 PM, 4:30 – 10:00 PM'
+    - 'Tuesday: 11:15 AM – 3:00 PM, 4:30 – 10:00 PM'
+    - 'Wednesday: 11:15 AM – 3:00 PM, 4:30 – 10:00 PM'
+    - 'Thursday: 11:15 AM – 3:00 PM, 4:30 – 10:00 PM'
+    - 'Friday: 11:15 AM – 3:00 PM, 4:30 – 10:30 PM'
+    - 'Saturday: 11:15 AM – 10:30 PM'
+    - 'Sunday: 11:15 AM – 10:00 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +282,50 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (470) 558-3800
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.2'
+rating_count: 2002
+website: https://www.volcanoatl.com/newvolcanokennesaw
+description: >-
+  Discover Volcano Steak & Sushi in Kennesaw, GA$$$Volcano Steak & Sushi in
+  Kennesaw, Georgia, stands out as a welcoming spot for those seeking fresh
+  sushi and hibachi options in a relaxed setting. This Japanese eatery delights
+  with a variety of flavorful dishes, including expertly prepared rolls and
+  sizzling grill favorites, making it a go-to choice for families or anyone
+  exploring top-rated sushi restaurants nearby. Accessibility features like
+  wheelchair-friendly entrances and seating ensure a comfortable visit for all
+  guests, while its moderate pricing and kid-friendly menu add to the appeal for
+  casual diners. Operating with extended hours throughout the week, it's an
+  ideal destination for those craving authentic Japanese flavors without the
+  hassle.
+generative_summary: >-
+  Discover Volcano Steak & Sushi in Kennesaw, GA$$$Volcano Steak & Sushi in
+  Kennesaw, Georgia, stands out as a welcoming spot for those seeking fresh
+  sushi and hibachi options in a relaxed setting. This Japanese eatery delights
+  with a variety of flavorful dishes, including expertly prepared rolls and
+  sizzling grill favorites, making it a go-to choice for families or anyone
+  exploring top-rated sushi restaurants nearby. Accessibility features like
+  wheelchair-friendly entrances and seating ensure a comfortable visit for all
+  guests, while its moderate pricing and kid-friendly menu add to the appeal for
+  casual diners. Operating with extended hours throughout the week, it's an
+  ideal destination for those craving authentic Japanese flavors without the
+  hassle.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What People Are Buzzing About$$$Visitors often rave about the tasty fried
+  rice, creative sushi rolls, and flavorful hibachi at this spot, noting that
+  the meals hit the spot for a satisfying Japanese dining experience. Many
+  highlight the helpful staff and reasonable prices that make it a solid pick
+  for groups or quick outings, adding to its reputation as a reliable local
+  favorite. While some mention that portions might not be the largest, the
+  overall value and quality keep things enjoyable for repeat visits. In a casual
+  vibe, folks appreciate the straightforward service that enhances the fun
+  atmosphere, making it worth checking out for anyone hunting for great sushi
+  places around town.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +351,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

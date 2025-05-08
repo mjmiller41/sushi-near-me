@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ascend Prime Steak & Sushi"
+title: Ascend Prime Steak & Sushi
 permalink: /washington/bellevue/ascend-prime-steak-sushi.html
 stateAbbr: WA
 stateName: Washington
 cityName: Bellevue
 seo:
-  name: "Ascend Prime Steak & Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://ascendprime.com/
-description: "Ascend Prime Steak & Sushi serves delicious sushi in Bellevue, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJN6EN0whtkFQR1lYGeflDEFc
 photos:
   - name: >-
@@ -169,7 +167,81 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x54906d08d30da137:0x571043f9790656d6!10e5
 primary_type: Fine Dining Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 10
+        minute: 0
+      close:
+        day: 0
+        hour: 14
+        minute: 0
+    - open:
+        day: 0
+        hour: 16
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 30
+    - open:
+        day: 1
+        hour: 15
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 30
+    - open:
+        day: 2
+        hour: 15
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 30
+    - open:
+        day: 3
+        hour: 15
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 30
+    - open:
+        day: 4
+        hour: 15
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 30
+    - open:
+        day: 5
+        hour: 15
+        minute: 0
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 10
+        minute: 0
+      close:
+        day: 6
+        hour: 14
+        minute: 0
+    - open:
+        day: 6
+        hour: 16
+        minute: 0
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 3:00 – 10:30 PM'
     - 'Tuesday: 3:00 – 10:30 PM'
     - 'Wednesday: 3:00 – 10:30 PM'
@@ -177,54 +249,316 @@ opening_hours:
     - 'Friday: 3:00 – 11:00 PM'
     - 'Saturday: 10:00 AM – 2:00 PM, 4:00 – 11:00 PM'
     - 'Sunday: 10:00 AM – 2:00 PM, 4:00 – 10:30 PM'
-  current:
-    - 'Monday: 3:00 – 10:30 PM'
-    - 'Tuesday: 3:00 – 10:30 PM'
-    - 'Wednesday: 3:00 – 10:30 PM'
-    - 'Thursday: 3:00 – 10:30 PM'
-    - 'Friday: 3:00 – 11:00 PM'
-    - 'Saturday: 10:00 AM – 2:00 PM, 4:00 – 11:00 PM'
-    - 'Sunday: 10:00 AM – 2:00 PM, 4:00 – 10:30 PM'
+  nextOpenTime: '2025-05-03T23:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: false
+    periods:
+      - open:
+          day: 0
+          hour: 10
+          minute: 0
+        close:
+          day: 0
+          hour: 14
+          minute: 0
+      - open:
+          day: 6
+          hour: 10
+          minute: 0
+        close:
+          day: 6
+          hour: 14
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: Closed'
+      - 'Tuesday: Closed'
+      - 'Wednesday: Closed'
+      - 'Thursday: Closed'
+      - 'Friday: Closed'
+      - 'Saturday: 10:00 AM – 2:00 PM'
+      - 'Sunday: 10:00 AM – 2:00 PM'
+    secondaryHoursType: BRUNCH
+    nextOpenTime: '2025-05-04T17:00:00Z'
 phone: (425) 625-2080
 price_level: PRICE_LEVEL_VERY_EXPENSIVE
 price_range: $100 &ndash; & up
 rating: '4.3'
-rating_count: 0
+rating_count: 2232
 website: https://ascendprime.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Ascend Prime Steak & Sushi in Bellevue, WA$$$Ascend Prime Steak &
+  Sushi in Bellevue, Washington, delivers an upscale dining experience with
+  one-of-a-kind views and contemporary dishes blending steak and fresh sushi
+  options. The restaurant boasts a sophisticated atmosphere highlighted by
+  sweeping city vistas, making it an ideal spot for enjoying Japanese-inspired
+  cuisine in a refined setting. Guests can savor wood-fired specialties and a
+  variety of sushi creations, all crafted with high-quality ingredients that
+  appeal to those seeking top-rated options nearby. Accessibility features like
+  wheelchair-friendly entrances and seating add to the convenience, ensuring a
+  welcoming environment for all diners looking for memorable meals in the area.
+generative_summary: >-
+  Discover Ascend Prime Steak & Sushi in Bellevue, WA$$$Ascend Prime Steak &
+  Sushi in Bellevue, Washington, delivers an upscale dining experience with
+  one-of-a-kind views and contemporary dishes blending steak and fresh sushi
+  options. The restaurant boasts a sophisticated atmosphere highlighted by
+  sweeping city vistas, making it an ideal spot for enjoying Japanese-inspired
+  cuisine in a refined setting. Guests can savor wood-fired specialties and a
+  variety of sushi creations, all crafted with high-quality ingredients that
+  appeal to those seeking top-rated options nearby. Accessibility features like
+  wheelchair-friendly entrances and seating add to the convenience, ensuring a
+  welcoming environment for all diners looking for memorable meals in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJN6EN0whtkFQR1lYGeflDEFc/reviews/ChdDSUhNMG9nS0VJQ0FnTUNvamYtN3N3RRAB
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        The best experience!! Everything from the view to the food, drinks, and
+        service was stunning. We had so many people stopping by our table to see
+        if we needed anything, I lost count. And one was just as knowledgeable
+        about the menu offerings as the next. Definitely time your visit to see
+        the sunset over the mountains! A dining experience to remember!
+      languageCode: en
+    originalText:
+      text: >-
+        The best experience!! Everything from the view to the food, drinks, and
+        service was stunning. We had so many people stopping by our table to see
+        if we needed anything, I lost count. And one was just as knowledgeable
+        about the menu offerings as the next. Definitely time your visit to see
+        the sunset over the mountains! A dining experience to remember!
+      languageCode: en
+    authorAttribution:
+      displayName: Amy Ehnle
+      uri: https://www.google.com/maps/contrib/113463132628399821322/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVYvxaRYzLoBzt24KfSaj5mNep7_XQNXz5k9nRS8YZZt0KyM8rIjQ=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-19T01:08:43.218210Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNvamYtN3N3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNvamYtN3N3RRAB!2m1!1s0x54906d08d30da137:0x571043f9790656d6
+  - name: >-
+      places/ChIJN6EN0whtkFQR1lYGeflDEFc/reviews/ChdDSUhNMG9nS0VJQ0FnTUNva2QyQWdRRRAB
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 4
+    text:
+      text: >-
+        Went here for a special night out and it was totally worth it. Perfect
+        vibes for a date or anniversary, the view is amazing and the whole place
+        has a really cool, fancy feel. The steak was good, drinks were on point
+        too. Service was friendly and helpful the whole time. Yeah, it’s pricey,
+        but you’re paying for the experience and the view, and I think it’s
+        worth it for a special occasion. Also a great spot to take pics!
+      languageCode: en
+    originalText:
+      text: >-
+        Went here for a special night out and it was totally worth it. Perfect
+        vibes for a date or anniversary, the view is amazing and the whole place
+        has a really cool, fancy feel. The steak was good, drinks were on point
+        too. Service was friendly and helpful the whole time. Yeah, it’s pricey,
+        but you’re paying for the experience and the view, and I think it’s
+        worth it for a special occasion. Also a great spot to take pics!
+      languageCode: en
+    authorAttribution:
+      displayName: Duyen
+      uri: https://www.google.com/maps/contrib/108376516073820683398/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUHH6EpzhJS7wts3TqloUWRpUekLaKTTAYCW4XG-oQNeHXuM4fW=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-17T18:27:03.062903Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNva2QyQWdRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNva2QyQWdRRRAB!2m1!1s0x54906d08d30da137:0x571043f9790656d6
+  - name: >-
+      places/ChIJN6EN0whtkFQR1lYGeflDEFc/reviews/ChdDSUhNMG9nS0VJQ0FnTUNBOC1fcHJnRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        From the moment I stepped into Ascend, I knew I was in for an
+        extraordinary dining experience. The ambiance strikes a perfect balance
+        between elegance and comfort, setting the stage for a memorable evening.
+        The high-end service truly stood out; the staff was attentive without
+        being intrusive, always ready to offer recommendations and ensure every
+        need was met.
+
+        The highlight of the evening was undoubtedly the dessert( Magic mushroom
+        )It was nothing short of unforgettable. The flavors and textures
+        harmonized perfectly, leaving a lasting impression that I still savor
+        days later.
+
+        Overall, Ascend is a gem that combines exquisite food with impeccable
+        service. Whether you're celebrating a special occasion this restaurant
+        is a must-visit. I can't wait to return!
+      languageCode: en
+    originalText:
+      text: >-
+        From the moment I stepped into Ascend, I knew I was in for an
+        extraordinary dining experience. The ambiance strikes a perfect balance
+        between elegance and comfort, setting the stage for a memorable evening.
+        The high-end service truly stood out; the staff was attentive without
+        being intrusive, always ready to offer recommendations and ensure every
+        need was met.
+
+        The highlight of the evening was undoubtedly the dessert( Magic mushroom
+        )It was nothing short of unforgettable. The flavors and textures
+        harmonized perfectly, leaving a lasting impression that I still savor
+        days later.
+
+        Overall, Ascend is a gem that combines exquisite food with impeccable
+        service. Whether you're celebrating a special occasion this restaurant
+        is a must-visit. I can't wait to return!
+      languageCode: en
+    authorAttribution:
+      displayName: Rachel
+      uri: https://www.google.com/maps/contrib/101592115290163472249/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXO7eBNRqbkH5QscInMDGzILB1JOI2SeJk91UWLRJf4eberwE9f=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-02-04T06:26:25.950376Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNBOC1fcHJnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNBOC1fcHJnRRAB!2m1!1s0x54906d08d30da137:0x571043f9790656d6
+  - name: >-
+      places/ChIJN6EN0whtkFQR1lYGeflDEFc/reviews/ChdDSUhNMG9nS0VJQ0FnTURvN2NxbTN3RRAB
+    relativePublishTimeDescription: in the last week
+    rating: 5
+    text:
+      text: >-
+        Celebrated my birthday here last night and it was really special! I had
+        the joyride it came in a very unique cup which made the drink fun.
+        Overall all of my friends really enjoyed this dinner we tried a mixture
+        of sushi rolls and their signature Seahawk chop for the steak. It wasn’t
+        my first time there but it was for some of my guests and they all had
+        good things to say. Loan, our waitress also took really good care of us.
+        & Aaron the general manager stopped by to drop off a surprise birthday
+        dessert which came with dry ice.
+      languageCode: en
+    originalText:
+      text: >-
+        Celebrated my birthday here last night and it was really special! I had
+        the joyride it came in a very unique cup which made the drink fun.
+        Overall all of my friends really enjoyed this dinner we tried a mixture
+        of sushi rolls and their signature Seahawk chop for the steak. It wasn’t
+        my first time there but it was for some of my guests and they all had
+        good things to say. Loan, our waitress also took really good care of us.
+        & Aaron the general manager stopped by to drop off a surprise birthday
+        dessert which came with dry ice.
+      languageCode: en
+    authorAttribution:
+      displayName: Sonlam Nguyen
+      uri: https://www.google.com/maps/contrib/116594126905310982546/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXaS1yZAcs-yFPpBn6d-CfSEdRsEjK6_pOfktqJit-TZU1_85FL=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-27T17:51:13.445994Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURvN2NxbTN3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURvN2NxbTN3RRAB!2m1!1s0x54906d08d30da137:0x571043f9790656d6
+  - name: >-
+      places/ChIJN6EN0whtkFQR1lYGeflDEFc/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRdHNmaklREAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 4
+    text:
+      text: >-
+        Taste :4.3/5
+
+        Environment: 4.7/5
+
+        Service：4.5/5
+
+        If you're looking for a steakhouse to celebrate a special occasion, this
+        place is a fantastic choice!
+
+        Time your visit just right, and you'll be treated to a stunning sunset
+        and breathtaking city lights as night falls—truly a magical experience,
+        especially if the weather cooperates.
+
+        The cocktails here are not only delicious but also super creative and
+        visually striking, adding an extra layer of fun to your evening. The
+        combination of amazing food, captivating views, and a great atmosphere
+        makes this spot a must-visit.
+      languageCode: en
+    originalText:
+      text: >-
+        Taste :4.3/5
+
+        Environment: 4.7/5
+
+        Service：4.5/5
+
+        If you're looking for a steakhouse to celebrate a special occasion, this
+        place is a fantastic choice!
+
+        Time your visit just right, and you'll be treated to a stunning sunset
+        and breathtaking city lights as night falls—truly a magical experience,
+        especially if the weather cooperates.
+
+        The cocktails here are not only delicious but also super creative and
+        visually striking, adding an extra layer of fun to your evening. The
+        combination of amazing food, captivating views, and a great atmosphere
+        makes this spot a must-visit.
+      languageCode: en
+    authorAttribution:
+      displayName: Paprika Meow
+      uri: https://www.google.com/maps/contrib/111635606610599291591/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXskclizzaADy-KSZ7es7UJT7HjvPayOn4lt0-Fc0onJPPd16EI=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2025-03-04T06:19:21.606105Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNRdHNmaklREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNRdHNmaklREAE!2m1!1s0x54906d08d30da137:0x571043f9790656d6
+review_summary: >-
+  What People Love About This Sushi Destination$$$Folks frequently highlight the
+  stunning views and flavorful steak and sushi dishes that make dining here a
+  standout experience for special occasions. Many appreciate the attentive
+  service and creative cocktails that keep the vibe lively and engaging without
+  overwhelming the meal. Reviewers often note the unique desserts as a
+  delightful finish, adding to the overall enjoyment for groups or date nights.
+  While some mention the prices lean toward the premium side, they agree it's a
+  worthwhile treat for the atmosphere and quality. Overall, it's a go-to choice
+  for anyone searching for great sushi spots that deliver on both taste and
+  ambiance.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  paidParkingLot: true
+  freeStreetParking: true
+  valetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+curbside_pickup: false
+delivery: true
+dine_in: true
+good_for_children: false
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: true
+serves_brunch: true
+serves_cocktails: true
+serves_coffee: true
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: false
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Contemporary Asian-influenced pick with wood-fired eats offering steaks &
+  sushi plus sweeping views.
 
 ---

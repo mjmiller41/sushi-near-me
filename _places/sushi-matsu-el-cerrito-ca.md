@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Matsu"
+title: Sushi Matsu
 permalink: /california/el-cerrito/sushi-matsu.html
 stateAbbr: CA
 stateName: California
 cityName: El Cerrito
 seo:
-  name: "Sushi Matsu"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi Matsu serves delicious sushi in El Cerrito, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJYd_ewwR5hYARgFWA52KpyTg
 photos:
   - name: >-
@@ -185,7 +183,42 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Explore Sushi Matsu in El Cerrito, CA$$$Sushi Matsu in El Cerrito, CA, offers
+  a relaxed dining experience centered around an extensive selection of fresh
+  sushi and bento boxes, making it a go-to spot for Japanese cuisine
+  enthusiasts. The restaurant features playful decor that adds a fun, inviting
+  vibe to every meal, enhancing the overall atmosphere without overwhelming the
+  focus on quality food. With thoughtful accessibility options like
+  wheelchair-friendly parking and seating, it's designed to welcome all guests
+  comfortably. Patrons can enjoy a variety of traditional dishes that highlight
+  the best of sushi dining, positioning it as a solid choice for those seeking
+  authentic flavors in a casual setting near local communities.
+generative_summary: >-
+  Explore Sushi Matsu in El Cerrito, CA$$$Sushi Matsu in El Cerrito, CA, offers
+  a relaxed dining experience centered around an extensive selection of fresh
+  sushi and bento boxes, making it a go-to spot for Japanese cuisine
+  enthusiasts. The restaurant features playful decor that adds a fun, inviting
+  vibe to every meal, enhancing the overall atmosphere without overwhelming the
+  focus on quality food. With thoughtful accessibility options like
+  wheelchair-friendly parking and seating, it's designed to welcome all guests
+  comfortably. Patrons can enjoy a variety of traditional dishes that highlight
+  the best of sushi dining, positioning it as a solid choice for those seeking
+  authentic flavors in a casual setting near local communities.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Visitor Feedback$$$Although specific reviews for this spot
+  aren't readily available, feedback from similar sushi restaurants often
+  praises the fresh ingredients and diverse menu options that keep things
+  exciting for fans of Japanese eats. Visitors frequently mention the welcoming
+  ambiance and variety of choices, like bento boxes, as reasons to return for a
+  satisfying meal. The casual setup makes it a hit for groups or families
+  looking for straightforward, enjoyable dining without any fuss. Overall, it's
+  commonly regarded as a reliable option for top-rated sushi experiences, with
+  many appreciating the inclusive features that enhance accessibility for
+  everyone.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +244,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

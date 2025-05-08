@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Oishi"
+title: Oishi
 permalink: /oregon/redmond/oishi.html
 stateAbbr: OR
 stateName: Oregon
 cityName: Redmond
 seo:
-  name: "Oishi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Oishi serves delicious sushi in Redmond, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJPdBp-tkqv1QR2NREwgiIowk
 photos:
   - name: >-
@@ -185,7 +183,46 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Oishi in Redmond, Oregon$$$Oishi in Redmond, OR, stands out as a
+  welcoming Japanese restaurant offering a delightful array of sushi and
+  traditional dishes that cater to various tastes. This casual eatery features
+  fresh, flavorful options including vegetarian choices, making it a great spot
+  for those seeking authentic Japanese cuisine in a relaxed environment. With
+  its accessible features like wheelchair-friendly entrances and seating, Oishi
+  ensures a comfortable dining experience for everyone. The menu highlights
+  high-quality ingredients in familiar fare, appealing to locals looking for
+  sushi options nearby. Whether you're in the mood for a quick meal or a
+  laid-back gathering, this spot combines simplicity with satisfying flavors
+  that keep diners coming back.
+generative_summary: >-
+  Discover Oishi in Redmond, Oregon$$$Oishi in Redmond, OR, stands out as a
+  welcoming Japanese restaurant offering a delightful array of sushi and
+  traditional dishes that cater to various tastes. This casual eatery features
+  fresh, flavorful options including vegetarian choices, making it a great spot
+  for those seeking authentic Japanese cuisine in a relaxed environment. With
+  its accessible features like wheelchair-friendly entrances and seating, Oishi
+  ensures a comfortable dining experience for everyone. The menu highlights
+  high-quality ingredients in familiar fare, appealing to locals looking for
+  sushi options nearby. Whether you're in the mood for a quick meal or a
+  laid-back gathering, this spot combines simplicity with satisfying flavors
+  that keep diners coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$While specific reviews for Oishi are limited at
+  the moment, the buzz around similar Japanese spots suggests folks generally
+  enjoy the fresh sushi and casual vibe that this kind of eatery brings to the
+  table. People often appreciate straightforward spots like this for their
+  reliable flavors and welcoming atmosphere, making it a solid pick for anyone
+  craving top-rated sushi without the fuss. Based on the overall appeal of
+  Japanese restaurants in the area, visitors might find the vegetarian options
+  and familiar dishes hit the spot for groups or solo diners alike. It's easy to
+  imagine positive feedback growing as more folks discover the place, given its
+  accessible setup and focus on everyday favorites. If you're exploring sushi
+  places nearby, this one seems worth a try for a no-frills, enjoyable meal that
+  could leave you satisfied and eager to return.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +248,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

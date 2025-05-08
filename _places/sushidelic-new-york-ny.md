@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "SUSHIDELIC"
+title: SUSHIDELIC
 permalink: /new-york/new-york/sushidelic.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "SUSHIDELIC"
-  type: Restaurant
+  type: restaurant
   links: https://www.sushidelic.net/
-description: "SUSHIDELIC serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJTeF1b2JZwokRkm95zltOxog
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $50 &ndash; $100
 rating: '4.2'
 rating_count: 0
 website: https://www.sushidelic.net/
+description: >-
+  Discover SUSHIDELIC in New York, NY$$$Nestled in the heart of New York, NY,
+  SUSHIDELIC stands out as a vibrant sushi restaurant blending theatrical flair
+  with creative dining options. This art-filled space offers imaginative
+  cocktails alongside fresh sushi selections, creating an engaging atmosphere
+  that captivates visitors seeking top sushi spots in the city. The restaurant's
+  innovative design and thoughtful details, like revolving art elements, enhance
+  the overall experience for those exploring Japanese-inspired cuisine nearby.
+  With a focus on artistic presentation and quality ingredients, it's a go-to
+  choice for anyone hunting for memorable sushi dining experiences.
+  Accessibility features such as wheelchair-friendly entrances add to its
+  appeal, making it welcoming for a wide range of guests.
+generative_summary: >-
+  Discover SUSHIDELIC in New York, NY$$$Nestled in the heart of New York, NY,
+  SUSHIDELIC stands out as a vibrant sushi restaurant blending theatrical flair
+  with creative dining options. This art-filled space offers imaginative
+  cocktails alongside fresh sushi selections, creating an engaging atmosphere
+  that captivates visitors seeking top sushi spots in the city. The restaurant's
+  innovative design and thoughtful details, like revolving art elements, enhance
+  the overall experience for those exploring Japanese-inspired cuisine nearby.
+  With a focus on artistic presentation and quality ingredients, it's a go-to
+  choice for anyone hunting for memorable sushi dining experiences.
+  Accessibility features such as wheelchair-friendly entrances add to its
+  appeal, making it welcoming for a wide range of guests.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJTeF1b2JZwokRkm95zltOxog/reviews/ChdDSUhNMG9nS0VJQ0FnSUR2LXZfRDJnRRAB
@@ -546,6 +569,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURMaGN6bWFnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURMaGN6bWFnEAE!2m1!1s0x89c259626f75e14d:0x88c64e5bce796f92
+review_summary: >-
+  What Customers Are Buzzing About$$$Visitors often rave about the fun and
+  quirky vibe at this sushi spot, highlighting the creative decor and unique
+  dishes that make every meal feel special. Many appreciate the tasty sushi
+  rolls and inventive options like the Chirashi Parfait, along with solid drinks
+  that pair well with the experience, though some note prices can run a bit high
+  for the portions. The atmosphere gets plenty of praise for its lively energy
+  and friendly service, which keeps things upbeat even when it gets busy,
+  drawing in groups looking for a good time. Overall, it's a solid pick for
+  those wanting to enjoy Japanese flavors in a playful setting, with most
+  feedback leaning positive on the creativity and ambiance. While a few mention
+  occasional service rushes during peak hours, the general consensus is that
+  it's worth a visit for an entertaining outing.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options:
   acceptsCreditCards: true
@@ -575,7 +612,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

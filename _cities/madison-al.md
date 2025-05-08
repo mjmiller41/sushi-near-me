@@ -5,4 +5,5 @@ permalink: /alabama/madison/
 stateAbbr: AL
 stateName: Alabama
 cityName: Madison
+
 ---

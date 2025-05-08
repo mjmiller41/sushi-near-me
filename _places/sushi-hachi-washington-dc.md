@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Hachi"
+title: Sushi Hachi
 permalink: /district-of-columbia/washington/sushi-hachi.html
 stateAbbr: DC
 stateName: District of Columbia
 cityName: Washington
 seo:
-  name: "Sushi Hachi"
-  type: Restaurant
+  type: restaurant
   links: http://www.sushihachidc.com/
-description: "Clever maki, unique cocktails & imported wines in a stylish, brick-lined space with a relaxed vibe. Sushi Hachi serves delicious sushi in Washington, District of Columbia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ-QXZ3My5t4kRVtWtEPPtsv4
 photos:
   - name: >-
@@ -184,12 +182,51 @@ price_range: null
 rating: '4.4'
 rating_count: 0
 website: http://www.sushihachidc.com/
+description: >-
+  Explore Sushi Hachi in Washington, DC$$$Sushi Hachi, located in the heart of
+  Washington, DC, stands out as a premier spot for fresh Japanese-inspired
+  cuisine, featuring inventive rolls and a cozy atmosphere that draws in locals
+  and visitors alike. This stylish eatery boasts a selection of unique cocktails
+  and imported wines, paired perfectly with their signature dishes in a relaxed,
+  brick-lined setting that encourages casual dining. Accessibility features like
+  wheelchair-friendly entrances and restrooms make it welcoming for everyone,
+  enhancing the overall experience for groups or solo diners. Whether you're
+  craving top-rated sushi options or a laid-back meal, Sushi Hachi offers
+  convenient services such as delivery and takeout to suit your needs, making it
+  a go-to choice for authentic flavors right in your neighborhood.
+generative_summary: >-
+  Explore Sushi Hachi in Washington, DC$$$Sushi Hachi, located in the heart of
+  Washington, DC, stands out as a premier spot for fresh Japanese-inspired
+  cuisine, featuring inventive rolls and a cozy atmosphere that draws in locals
+  and visitors alike. This stylish eatery boasts a selection of unique cocktails
+  and imported wines, paired perfectly with their signature dishes in a relaxed,
+  brick-lined setting that encourages casual dining. Accessibility features like
+  wheelchair-friendly entrances and restrooms make it welcoming for everyone,
+  enhancing the overall experience for groups or solo diners. Whether you're
+  craving top-rated sushi options or a laid-back meal, Sushi Hachi offers
+  convenient services such as delivery and takeout to suit your needs, making it
+  a go-to choice for authentic flavors right in your neighborhood.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - ChZDSUhNMG9nS0VJQ0FnSUNfdi1uMkxREAE
   - ChZDSUhNMG9nS0VJQ0FnSURmcVpYVkhBEAE
   - ChZDSUhNMG9nS0VJQ0FnSURyMy1DcVd3EAE
   - ChZDSUhNMG9nS0VJQ0FnTURneXNpQ0RBEAE
   - ChdDSUhNMG9nS0VJQ0FnSUNyM0ozVDlBRRAB
+review_summary: >-
+  Visitor Feedback on Sushi Hachi$$$Folks who stop by Sushi Hachi often rave
+  about the fresh flavors and creative twists on classic dishes, highlighting it
+  as a solid pick for anyone searching for quality sushi spots nearby. Many
+  appreciate the welcoming vibe and attentive service that make every visit feel
+  effortless and enjoyable, even for larger groups. While opinions vary, the
+  general consensus leans positive with praise for the variety of vegetarian
+  choices and drinks like beer and wine, helping it maintain a strong reputation
+  among local favorites. Overall, it's clear that diners find this place
+  reliably satisfying for casual meals, though some suggest it's best for those
+  who enjoy a straightforward yet flavorful experience without over-the-top
+  extras. If you're on the hunt for reliable sushi restaurants in the area,
+  Sushi Hachi seems to hit the mark for many satisfied customers.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeStreetParking: true
   paidStreetParking: true
@@ -220,8 +257,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Clever maki, unique cocktails & imported wines in a stylish, brick-lined space
   with a relaxed vibe.
 

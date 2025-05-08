@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Mint Bistro"
+title: Mint Bistro
 permalink: /ohio/milford/mint-bistro.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Milford
 seo:
-  name: "Mint Bistro"
-  type: Restaurant
+  type: restaurant
   links: https://www.mintbistromilford.com/
-description: "Mint Bistro serves delicious sushi in Milford, Ohio. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJ0xN2Sp-qQYgRDr0NlQ9ybX8
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 0
 website: https://www.mintbistromilford.com/
+description: >-
+  Explore Mint Bistro in Milford, OH$$$Mint Bistro in Milford, OH, stands out as
+  a welcoming spot for those seeking Asian fusion dishes and fresh sushi options
+  in a relaxed setting. This family-inspired eatery combines casual vibes with a
+  diverse menu that includes flavorful fusion fare and an impressive selection
+  of beverages, making it ideal for casual dinners or special occasions.
+  Visitors appreciate the accessible features like wheelchair-friendly entrances
+  and outdoor seating, enhancing the overall experience for everyone. The
+  moderate pricing adds to its appeal as a go-to choice among sushi restaurants
+  in the area, where quality ingredients shine through in every bite. With its
+  inviting atmosphere, it's a great pick for anyone exploring top-rated sushi
+  spots nearby.
+generative_summary: >-
+  Explore Mint Bistro in Milford, OH$$$Mint Bistro in Milford, OH, stands out as
+  a welcoming spot for those seeking Asian fusion dishes and fresh sushi options
+  in a relaxed setting. This family-inspired eatery combines casual vibes with a
+  diverse menu that includes flavorful fusion fare and an impressive selection
+  of beverages, making it ideal for casual dinners or special occasions.
+  Visitors appreciate the accessible features like wheelchair-friendly entrances
+  and outdoor seating, enhancing the overall experience for everyone. The
+  moderate pricing adds to its appeal as a go-to choice among sushi restaurants
+  in the area, where quality ingredients shine through in every bite. With its
+  inviting atmosphere, it's a great pick for anyone exploring top-rated sushi
+  spots nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ0xN2Sp-qQYgRDr0NlQ9ybX8/reviews/ChdDSUhNMG9nS0VJQ0FnSUNmXzREbWxBRRAB
@@ -374,6 +397,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNIeTVyNWhRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNIeTVyNWhRRRAB!2m1!1s0x8841aa9f4a7613d3:0x7f6d720f950dbd0e
+review_summary: >-
+  What People Are Buzzing About$$$Folks generally rave about the fresh sushi and
+  tasty Asian fusion dishes at this spot, often highlighting how the creative
+  rolls and flavorful entrees make for a satisfying meal. Many visitors enjoy
+  the welcoming service and lively atmosphere, perfect for date nights or casual
+  get-togethers, with quick seating and accommodating options adding to the fun.
+  While the food quality stands out as above average, some note that prices can
+  feel a bit steep for portions, though it's still seen as worth it for the
+  experience. Overall, it's a solid choice for anyone searching for reliable
+  sushi places near me, with most agreeing that the positives far outweigh any
+  minor drawbacks. If you're in the mood for something delicious, this spot
+  delivers a consistently enjoyable vibe that keeps people coming back.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -406,7 +442,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

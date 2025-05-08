@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "I Love Sushi"
+title: I Love Sushi
 permalink: /texas/denton/i-love-sushi.html
 stateAbbr: TX
 stateName: Texas
 cityName: Denton
 seo:
-  name: "I Love Sushi"
-  type: Restaurant
-  links: null
-description: "I Love Sushi serves delicious sushi in Denton, Texas. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.ilovesushidenton.com/
 place_id: ChIJMdl8N3nKTYYROeaCQ-vBS78
 photos:
   - name: >-
@@ -170,8 +168,113 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x864dca79377cd931:0xbf4bc1eb4382e639!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 15
+        minute: 0
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 15
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 3:00 PM, 5:00 – 9:30 PM'
+    - 'Tuesday: 11:00 AM – 3:00 PM, 5:00 – 9:30 PM'
+    - 'Wednesday: 11:00 AM – 3:00 PM, 5:00 – 9:30 PM'
+    - 'Thursday: 11:00 AM – 3:00 PM, 5:00 – 9:30 PM'
+    - 'Friday: 11:00 AM – 3:00 PM, 5:00 – 10:00 PM'
+    - 'Saturday: 12:00 – 10:00 PM'
+    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +282,51 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (940) 891-6060
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.6'
+rating_count: 1108
+website: http://www.ilovesushidenton.com/
+description: >-
+  Discover I Love Sushi in Denton, TX$$$I Love Sushi in Denton, TX, stands out
+  as a welcoming spot for sushi enthusiasts seeking fresh and creative options.
+  This informal eatery boasts an array of inventive sushi rolls that cater to a
+  variety of tastes, including delicious veggie-based dishes and satisfying
+  bento boxes for a complete meal. Visitors can enjoy a laid-back atmosphere
+  perfect for casual dining, with a focus on quality ingredients that make it a
+  go-to choice among sushi restaurants in the area. Whether you're looking for
+  top-rated sushi near you or exploring Japanese-inspired places close to
+  Denton, the menu's diversity ensures there's something for everyone.
+  Accessibility features like wheelchair-friendly seating add to the
+  convenience, making it an inclusive destination for all.
+generative_summary: >-
+  Discover I Love Sushi in Denton, TX$$$I Love Sushi in Denton, TX, stands out
+  as a welcoming spot for sushi enthusiasts seeking fresh and creative options.
+  This informal eatery boasts an array of inventive sushi rolls that cater to a
+  variety of tastes, including delicious veggie-based dishes and satisfying
+  bento boxes for a complete meal. Visitors can enjoy a laid-back atmosphere
+  perfect for casual dining, with a focus on quality ingredients that make it a
+  go-to choice among sushi restaurants in the area. Whether you're looking for
+  top-rated sushi near you or exploring Japanese-inspired places close to
+  Denton, the menu's diversity ensures there's something for everyone.
+  Accessibility features like wheelchair-friendly seating add to the
+  convenience, making it an inclusive destination for all.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Buzzing About$$$If you're hunting for the best sushi near
+  me, folks often rave about the tasty rolls and sides at this spot, with
+  highlights on flavorful options like specialty rolls and hearty miso soup.
+  Many appreciate the warm, inviting vibe that makes every visit feel relaxed
+  and enjoyable, paired with service that's attentive without being
+  overwhelming. Reviewers frequently note the solid value for the price, making
+  it a favorite for casual outings or group gatherings at sushi places in the
+  region. Overall, the consensus leans positive, with diners enjoying the fresh
+  flavors and welcoming environment that keep them coming back. While not every
+  detail is perfect, the general feedback paints a picture of a reliable choice
+  for anyone craving quality Japanese fare nearby.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +352,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

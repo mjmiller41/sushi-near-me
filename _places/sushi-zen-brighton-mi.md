@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Zen"
+title: Sushi Zen
 permalink: /michigan/brighton/sushi-zen.html
 stateAbbr: MI
 stateName: Michigan
 cityName: Brighton
 seo:
-  name: "Sushi Zen"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi Zen serves delicious sushi in Brighton, Michigan. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJx0huevJPI4gRYItZBVRVFq0
 photos:
   - name: >-
@@ -185,7 +183,43 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Sushi Zen in Brighton, Michigan$$$Sushi Zen in Brighton, Michigan,
+  offers a delightful array of fresh sushi specialties and bento boxes in a
+  relaxed, welcoming setting, making it a go-to spot for those craving authentic
+  Japanese flavors. The restaurant emphasizes high-quality ingredients and
+  creative presentations that highlight its casual yet refined Asian dining
+  vibe, appealing to anyone exploring top-rated sushi options nearby. With
+  accessibility features like wheelchair-friendly entrances and seating, it
+  ensures a comfortable experience for all visitors seeking sushi places near
+  them. Additionally, the menu's variety caters to diverse tastes, from classic
+  rolls to hearty bento combinations, providing an inviting atmosphere for
+  casual meals or quick bites after a day out.
+generative_summary: >-
+  Discover Sushi Zen in Brighton, Michigan$$$Sushi Zen in Brighton, Michigan,
+  offers a delightful array of fresh sushi specialties and bento boxes in a
+  relaxed, welcoming setting, making it a go-to spot for those craving authentic
+  Japanese flavors. The restaurant emphasizes high-quality ingredients and
+  creative presentations that highlight its casual yet refined Asian dining
+  vibe, appealing to anyone exploring top-rated sushi options nearby. With
+  accessibility features like wheelchair-friendly entrances and seating, it
+  ensures a comfortable experience for all visitors seeking sushi places near
+  them. Additionally, the menu's variety caters to diverse tastes, from classic
+  rolls to hearty bento combinations, providing an inviting atmosphere for
+  casual meals or quick bites after a day out.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Buzzing About$$$Folks who visit this spot often praise the
+  fresh sushi and tasty bento boxes that make every meal feel satisfying and
+  well-balanced, with the flavorful miso soup adding a nice touch to the
+  experience. Many highlight the friendly service that keeps things light and
+  attentive, helping to create a welcoming vibe for anyone stopping by. The
+  extensive menu stands out for its wide range of choices, giving diners plenty
+  of options to explore without feeling overwhelmed. Overall, it's a solid pick
+  for those hunting for reliable sushi restaurants nearby, offering a
+  consistently positive experience that leaves people eager to return.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +245,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

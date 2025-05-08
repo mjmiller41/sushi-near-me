@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Mitsuru Sushi & Grill"
+title: Mitsuru Sushi & Grill
 permalink: /california/los-angeles/mitsuru-sushi-grill.html
 stateAbbr: CA
 stateName: California
 cityName: Los Angeles
 seo:
-  name: "Mitsuru Sushi & Grill"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Mitsuru Sushi & Grill serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJW5-M2UfGwoARZhvSfIov81I
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c2c647d98c9f5b:0x52f32f8a7cd21b66!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 9
+        minute: 0
+      close:
+        day: 0
+        hour: 19
+        minute: 0
+    - open:
+        day: 2
+        hour: 9
+        minute: 0
+      close:
+        day: 2
+        hour: 18
+        minute: 0
+    - open:
+        day: 3
+        hour: 9
+        minute: 0
+      close:
+        day: 3
+        hour: 18
+        minute: 0
+    - open:
+        day: 4
+        hour: 9
+        minute: 0
+      close:
+        day: 4
+        hour: 18
+        minute: 0
+    - open:
+        day: 5
+        hour: 9
+        minute: 0
+      close:
+        day: 5
+        hour: 19
+        minute: 0
+    - open:
+        day: 6
+        hour: 9
+        minute: 0
+      close:
+        day: 6
+        hour: 19
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 9:00 AM – 6:00 PM'
     - 'Wednesday: 9:00 AM – 6:00 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 9:00 AM – 7:00 PM'
     - 'Saturday: 9:00 AM – 7:00 PM'
     - 'Sunday: 9:00 AM – 7:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 9:00 AM – 6:00 PM'
-    - 'Wednesday: 9:00 AM – 6:00 PM'
-    - 'Thursday: 9:00 AM – 6:00 PM'
-    - 'Friday: 9:00 AM – 7:00 PM'
-    - 'Saturday: 9:00 AM – 7:00 PM'
-    - 'Sunday: 9:00 AM – 7:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +238,324 @@ phone: (213) 626-4046
 price_level: PRICE_LEVEL_INEXPENSIVE
 price_range: $10 &ndash; $20
 rating: '4.2'
-rating_count: 0
+rating_count: 309
 website: null
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Mitsuru Sushi & Grill in Los Angeles, CA$$$Mitsuru Sushi & Grill in
+  Los Angeles, CA, stands out as a welcoming spot for enjoying authentic
+  Japanese flavors in a cozy setting. This eatery specializes in comforting
+  dishes like fresh sushi, teriyaki, and hearty udon, making it a go-to choice
+  for those seeking quality Japanese cuisine nearby. With its modest and
+  accessible atmosphere, including options for easy entry and parking, it's
+  ideal for a relaxed meal in the heart of Downtown Los Angeles. The menu
+  highlights traditional elements like sake pairings, appealing to anyone
+  looking for a simple yet satisfying dining experience. Whether you're
+  exploring sushi options in the area, this place offers a genuine taste of
+  Japanese comfort food that feels both familiar and delightful.
+generative_summary: >-
+  Discover Mitsuru Sushi & Grill in Los Angeles, CA$$$Mitsuru Sushi & Grill in
+  Los Angeles, CA, stands out as a welcoming spot for enjoying authentic
+  Japanese flavors in a cozy setting. This eatery specializes in comforting
+  dishes like fresh sushi, teriyaki, and hearty udon, making it a go-to choice
+  for those seeking quality Japanese cuisine nearby. With its modest and
+  accessible atmosphere, including options for easy entry and parking, it's
+  ideal for a relaxed meal in the heart of Downtown Los Angeles. The menu
+  highlights traditional elements like sake pairings, appealing to anyone
+  looking for a simple yet satisfying dining experience. Whether you're
+  exploring sushi options in the area, this place offers a genuine taste of
+  Japanese comfort food that feels both familiar and delightful.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJW5-M2UfGwoARZhvSfIov81I/reviews/ChZDSUhNMG9nS0VJQ0FnSUR2aHZ6TVVBEAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 4
+    text:
+      text: >-
+        We explore this place based on Google review. We ordered their lunch
+        special, and the food taste decently good. However, the serving speed is
+        a bit slow, considering it’s late afternoon and we are the only customer
+        there. All else is good, and staff is friendly too.
+      languageCode: en
+    originalText:
+      text: >-
+        We explore this place based on Google review. We ordered their lunch
+        special, and the food taste decently good. However, the serving speed is
+        a bit slow, considering it’s late afternoon and we are the only customer
+        there. All else is good, and staff is friendly too.
+      languageCode: en
+    authorAttribution:
+      displayName: Chris
+      uri: https://www.google.com/maps/contrib/110193342752842235843/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKg0zwlV-cvugj01ix-5x8E_KAeEhVzizWYmPAExy4x7MW0pw=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2024-12-19T23:58:18.474269Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR2aHZ6TVVBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR2aHZ6TVVBEAE!2m1!1s0x80c2c647d98c9f5b:0x52f32f8a7cd21b66
+  - name: >-
+      places/ChIJW5-M2UfGwoARZhvSfIov81I/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3bE5URjNBRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        This is a retro restaurant, been here for decades. The food is
+        traditional Japanese, sukiyaki was excellent!
+
+
+        Everybody's orders were also well done: salmon skin salad was delicious,
+        the omelette and tuna salad.
+
+
+        I ordered tonkatsu to go and that was delicious, not dry at all.
+
+
+        It is a small cafe so be patient. Your order is coming.
+      languageCode: en
+    originalText:
+      text: >-
+        This is a retro restaurant, been here for decades. The food is
+        traditional Japanese, sukiyaki was excellent!
+
+
+        Everybody's orders were also well done: salmon skin salad was delicious,
+        the omelette and tuna salad.
+
+
+        I ordered tonkatsu to go and that was delicious, not dry at all.
+
+
+        It is a small cafe so be patient. Your order is coming.
+      languageCode: en
+    authorAttribution:
+      displayName: Prosy Delacruz
+      uri: https://www.google.com/maps/contrib/101848919334918683795/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUB2jhPHIRM4hrg-yDRhTC55ZTbQAsbFXN796EdFsJ9oaB0EHPY=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-03-16T19:52:22.380380Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUN3bE5URjNBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUN3bE5URjNBRRAB!2m1!1s0x80c2c647d98c9f5b:0x52f32f8a7cd21b66
+  - name: >-
+      places/ChIJW5-M2UfGwoARZhvSfIov81I/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRaE0tbkJREAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 4
+    text:
+      text: >-
+        The food that they prepare is surprising considering what the inside of
+        the restaurant looks like. The udon soup that my grandma got was rich
+        with flavor and the green tea that I got with the miso soup was perfect.
+        The server was lovely and the food came out fast. She made sure were
+        taken care of but it was slow at the time too so that helped with the
+        quick service.
+
+
+        The negatives include it smelling a little funky walking it, it looking
+        like the furniture and utilities haven't been updated in decades, and
+        the places out of the way (but still in view) looking not clean. There
+        is a restroom with a nice toilet no less, but I don't want to touch
+        anything else in there.
+      languageCode: en
+    originalText:
+      text: >-
+        The food that they prepare is surprising considering what the inside of
+        the restaurant looks like. The udon soup that my grandma got was rich
+        with flavor and the green tea that I got with the miso soup was perfect.
+        The server was lovely and the food came out fast. She made sure were
+        taken care of but it was slow at the time too so that helped with the
+        quick service.
+
+
+        The negatives include it smelling a little funky walking it, it looking
+        like the furniture and utilities haven't been updated in decades, and
+        the places out of the way (but still in view) looking not clean. There
+        is a restroom with a nice toilet no less, but I don't want to touch
+        anything else in there.
+      languageCode: en
+    authorAttribution:
+      displayName: Naomi Takara
+      uri: https://www.google.com/maps/contrib/102484058565142915541/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWLVaUIv4n-ogikD_WYGREIqj9vOtw4Avjeg08syMYLXLD8No4m_Q=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-03-02T00:38:36.290794Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNRaE0tbkJREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNRaE0tbkJREAE!2m1!1s0x80c2c647d98c9f5b:0x52f32f8a7cd21b66
+  - name: >-
+      places/ChIJW5-M2UfGwoARZhvSfIov81I/reviews/ChZDSUhNMG9nS0VJQ0FnSURsMWQ2SUJ3EAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        A Symphony of Flavors at Mitsuru Sushi and Grill
+
+
+        After an extended hiatus from indulging in the art of sushi, my return
+        to the experience at Mitsuru Sushi and Grill was nothing short of
+        extraordinary. This hidden gem, which I stumbled upon through a friend’s
+        recommendation, proved to be a culinary revelation.
+
+
+        As a party of three, we embarked on a gastronomic journey, each
+        selecting different dishes to sample the breadth of the menu. The
+        ‘Special B’ sushi platter at Mitsuru was a masterful display of
+        freshness and finesse, each slice of sashimi whispering tales of the sea
+        with its impeccable texture and taste. The ‘Rainbow Roll,’ true to its
+        name, was a vibrant mosaic of flavors that melded in harmony,
+        captivating our palates with every bite.
+
+
+        The Ramen was an authentic rendition of this classic dish, with a broth
+        that was rich and robust, cradling tender slices of pork that melted in
+        our mouths, while the marinated eggs added a level of umami that was
+        simply transcendent. The Gyozas were the perfect accompaniment, their
+        crisp exteriors giving way to succulent fillings that were a testament
+        to the chef’s prowess at Mitsuru.
+
+
+        It’s not just the food that makes Mitsuru Sushi and Grill special. It’s
+        the feeling of discovery, the joy of sharing exceptional food with good
+        company, and the promise of returning to what now feels like a culinary
+        haven.
+
+
+        In conclusion, Mitsuru Sushi and Grill is a celebration of Japanese
+        cuisine, a place where each dish is crafted with passion and precision.
+        For anyone seeking an authentic sushi experience, Mitsuru deserves not
+        just a visit, but an encore.
+      languageCode: en
+    originalText:
+      text: >-
+        A Symphony of Flavors at Mitsuru Sushi and Grill
+
+
+        After an extended hiatus from indulging in the art of sushi, my return
+        to the experience at Mitsuru Sushi and Grill was nothing short of
+        extraordinary. This hidden gem, which I stumbled upon through a friend’s
+        recommendation, proved to be a culinary revelation.
+
+
+        As a party of three, we embarked on a gastronomic journey, each
+        selecting different dishes to sample the breadth of the menu. The
+        ‘Special B’ sushi platter at Mitsuru was a masterful display of
+        freshness and finesse, each slice of sashimi whispering tales of the sea
+        with its impeccable texture and taste. The ‘Rainbow Roll,’ true to its
+        name, was a vibrant mosaic of flavors that melded in harmony,
+        captivating our palates with every bite.
+
+
+        The Ramen was an authentic rendition of this classic dish, with a broth
+        that was rich and robust, cradling tender slices of pork that melted in
+        our mouths, while the marinated eggs added a level of umami that was
+        simply transcendent. The Gyozas were the perfect accompaniment, their
+        crisp exteriors giving way to succulent fillings that were a testament
+        to the chef’s prowess at Mitsuru.
+
+
+        It’s not just the food that makes Mitsuru Sushi and Grill special. It’s
+        the feeling of discovery, the joy of sharing exceptional food with good
+        company, and the promise of returning to what now feels like a culinary
+        haven.
+
+
+        In conclusion, Mitsuru Sushi and Grill is a celebration of Japanese
+        cuisine, a place where each dish is crafted with passion and precision.
+        For anyone seeking an authentic sushi experience, Mitsuru deserves not
+        just a visit, but an encore.
+      languageCode: en
+    authorAttribution:
+      displayName: Alita Go
+      uri: https://www.google.com/maps/contrib/101268379228840995463/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXd6AvzBvNEt4jvJnMrX0sS1gX8eZRskDqXtl-T-f3Zvl38dI7N=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2023-12-03T01:17:23.442411Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURsMWQ2SUJ3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURsMWQ2SUJ3EAE!2m1!1s0x80c2c647d98c9f5b:0x52f32f8a7cd21b66
+  - name: >-
+      places/ChIJW5-M2UfGwoARZhvSfIov81I/reviews/ChZDSUhNMG9nS0VJQ0FnSUROdWVLcER3EAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        Nice little hole in the wall with affordable food! I discovered this
+        place back in undergrad when they had (and still do) have very
+        affordable lunch specials. Will definitely be back.
+
+
+        At the time of our visit, I believe there was only 1 server, but later
+        on (when we were leaving), we saw another staff member walk in.
+      languageCode: en
+    originalText:
+      text: >-
+        Nice little hole in the wall with affordable food! I discovered this
+        place back in undergrad when they had (and still do) have very
+        affordable lunch specials. Will definitely be back.
+
+
+        At the time of our visit, I believe there was only 1 server, but later
+        on (when we were leaving), we saw another staff member walk in.
+      languageCode: en
+    authorAttribution:
+      displayName: Lea L
+      uri: https://www.google.com/maps/contrib/110584002419805151412/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWv1Y_6kj7l5Noa2dsYQlJbYxtdXrDb91gT3DBuG_qxpsEF38N7cQ=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-01-24T01:30:21.382624Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUROdWVLcER3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUROdWVLcER3EAE!2m1!1s0x80c2c647d98c9f5b:0x52f32f8a7cd21b66
+review_summary: >-
+  What Customers Are Saying About the Experience$$$Visitors often praise the
+  flavorful Japanese dishes at this spot, with many highlighting the rich udon
+  soup and fresh sushi as standout favorites that hit the spot. While service
+  can be a bit laid-back, especially during quieter times, the friendly staff
+  and efficient handling make for a generally pleasant visit. Folks appreciate
+  the affordable lunch specials and traditional vibes, noting that it's a solid
+  choice for a casual meal with authentic tastes that keep them coming back.
+  Even with some mentions of the dated decor, the overall atmosphere adds a
+  charming, nostalgic feel without overshadowing the delicious food. If you're
+  in the mood for top-rated sushi nearby, this place delivers a reliably
+  enjoyable experience that's worth trying out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
+curbside_pickup: false
+delivery: false
+dine_in: true
+good_for_children: true
+good_for_groups: true
 good_for_sports: null
-live_music: null
+live_music: false
 menu_for_children: null
 outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: true
+serves_brunch: true
 serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_coffee: true
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Known for its red bean cakes, this popular place offers Japanese snacks in
+  modest digs.
 
 ---

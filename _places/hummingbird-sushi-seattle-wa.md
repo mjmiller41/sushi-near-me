@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Hummingbird Sushi"
+title: Hummingbird Sushi
 permalink: /washington/seattle/hummingbird-sushi.html
 stateAbbr: WA
 stateName: Washington
 cityName: Seattle
 seo:
-  name: "Hummingbird Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.hummingbirdsushi.com/
-description: "Hummingbird Sushi serves delicious sushi in Seattle, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ82HkJwAVkFQRTVtFMY60XvA
 photos:
   - name: >-
@@ -166,7 +164,49 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x5490150027e461f3:0xf05eb48e31455b4d!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: Closed'
     - 'Wednesday: 5:00 – 9:30 PM'
@@ -174,14 +214,7 @@ opening_hours:
     - 'Friday: 5:00 – 10:00 PM'
     - 'Saturday: 5:00 – 10:00 PM'
     - 'Sunday: 5:00 – 9:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: Closed'
-    - 'Wednesday: 5:00 – 9:30 PM'
-    - 'Thursday: 5:00 – 9:30 PM'
-    - 'Friday: 5:00 – 10:00 PM'
-    - 'Saturday: 5:00 – 10:00 PM'
-    - 'Sunday: 5:00 – 9:00 PM'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -193,35 +226,305 @@ phone: (206) 413-5995
 price_level: null
 price_range: $100 &ndash; & up
 rating: '4.8'
-rating_count: 0
+rating_count: 97
 website: https://www.hummingbirdsushi.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Hummingbird Sushi in Seattle, WA$$$Hummingbird Sushi in Seattle, WA,
+  stands out as a premier destination for fresh and inventive Japanese dining,
+  blending traditional techniques with creative flair. This cozy spot
+  specializes in omakase-style meals that feature high-quality fish and seasonal
+  ingredients, making it a go-to for those exploring top-rated sushi restaurants
+  in the area. The intimate atmosphere, highlighted by artistic presentations
+  and thoughtful details, enhances the overall experience for anyone searching
+  for sushi near me. With a focus on fusion elements that surprise the palate,
+  it's an ideal choice for sushi enthusiasts looking for something beyond the
+  ordinary in Seattle's vibrant dining scene. Evening hours add to its appeal,
+  offering a relaxed setting perfect for savoring expertly crafted dishes.
+generative_summary: >-
+  Discover Hummingbird Sushi in Seattle, WA$$$Hummingbird Sushi in Seattle, WA,
+  stands out as a premier destination for fresh and inventive Japanese dining,
+  blending traditional techniques with creative flair. This cozy spot
+  specializes in omakase-style meals that feature high-quality fish and seasonal
+  ingredients, making it a go-to for those exploring top-rated sushi restaurants
+  in the area. The intimate atmosphere, highlighted by artistic presentations
+  and thoughtful details, enhances the overall experience for anyone searching
+  for sushi near me. With a focus on fusion elements that surprise the palate,
+  it's an ideal choice for sushi enthusiasts looking for something beyond the
+  ordinary in Seattle's vibrant dining scene. Evening hours add to its appeal,
+  offering a relaxed setting perfect for savoring expertly crafted dishes.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ82HkJwAVkFQRTVtFMY60XvA/reviews/ChdDSUhNMG9nS0VJQ0FnTUNvajR2eF93RRAB
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        Tried it for the first time on Saturday. I didn't know what to expect as
+        this place is relatively new and no Seattle Times or other newspaper
+        exposure. I thought it would the traditional style Nigiri. Yes it is but
+        doing the 10 course Omakase a number of dishes were fusion in style and
+        was amazing. I've done all the top Omakase's in town and this rivals all
+        of those putting it in the top 3. But I would give it the #1 in town due
+        to it's fusion creativity, style and affordable price. I definitely will
+        be back. Parking is tough but totally worth it if you're looking for one
+        of the most creative and best sushi in town.
+      languageCode: en
+    originalText:
+      text: >-
+        Tried it for the first time on Saturday. I didn't know what to expect as
+        this place is relatively new and no Seattle Times or other newspaper
+        exposure. I thought it would the traditional style Nigiri. Yes it is but
+        doing the 10 course Omakase a number of dishes were fusion in style and
+        was amazing. I've done all the top Omakase's in town and this rivals all
+        of those putting it in the top 3. But I would give it the #1 in town due
+        to it's fusion creativity, style and affordable price. I definitely will
+        be back. Parking is tough but totally worth it if you're looking for one
+        of the most creative and best sushi in town.
+      languageCode: en
+    authorAttribution:
+      displayName: Joey Yi
+      uri: https://www.google.com/maps/contrib/105277072172510264554/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIKjj4lXkOXrotCgofeidDLQUpd4bIUFPhM_izTZdZvUiOJlA=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-04-20T20:26:59.289372Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNvajR2eF93RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNvajR2eF93RRAB!2m1!1s0x5490150027e461f3:0xf05eb48e31455b4d
+  - name: >-
+      places/ChIJ82HkJwAVkFQRTVtFMY60XvA/reviews/ChdDSUhNMG9nS0VJQ0FnTUNvNjVtWDlBRRAB
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        This was the best sushi I have ever had. The salmon mushroom soy plate
+        was the best texture that has ever graced my mouth. I had a negi toro
+        hand roll as well, and until I tried the yuzu scallops I had began to
+        think I could never have something that perfect again. The atmosphere in
+        there was amazing as well, the service was incredible and everyone was
+        incredibly nice.
+
+
+        I am a tourist here, and I leave tomorrow, but I will be making it back
+        to Seattle at some point in my life if for no other reason than to eat
+        at this restaurant.
+
+
+        Please eat here. If you enjoy food in any capacity, you will remember
+        this place for life. This is not an exaggeration.
+
+
+        Menu photos have been attached because I’m pretty sure it’s seasonally
+        changing
+      languageCode: en
+    originalText:
+      text: >-
+        This was the best sushi I have ever had. The salmon mushroom soy plate
+        was the best texture that has ever graced my mouth. I had a negi toro
+        hand roll as well, and until I tried the yuzu scallops I had began to
+        think I could never have something that perfect again. The atmosphere in
+        there was amazing as well, the service was incredible and everyone was
+        incredibly nice.
+
+
+        I am a tourist here, and I leave tomorrow, but I will be making it back
+        to Seattle at some point in my life if for no other reason than to eat
+        at this restaurant.
+
+
+        Please eat here. If you enjoy food in any capacity, you will remember
+        this place for life. This is not an exaggeration.
+
+
+        Menu photos have been attached because I’m pretty sure it’s seasonally
+        changing
+      languageCode: en
+    authorAttribution:
+      displayName: ember
+      uri: https://www.google.com/maps/contrib/111081728199255130769/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjW-TnugFQ6DTa3X8luRcjwiW2fAvt4lBebjR0q0WuCfGoKrcS96=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-20T02:42:25.737676Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNvNjVtWDlBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNvNjVtWDlBRRAB!2m1!1s0x5490150027e461f3:0xf05eb48e31455b4d
+  - name: >-
+      places/ChIJ82HkJwAVkFQRTVtFMY60XvA/reviews/ChdDSUhNMG9nS0VJQ0FnTUNvMjlha2lRRRAB
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        Went here for the 10+ Omakase. Definitely the most creative Omakase I
+        have had in Seattle. Unlike most omakases in Seattle, this one consists
+        of both nigiri pieces AND small tasting plates. The dishes all primarily
+        utilized traditional flavors and ingredients, while blending them
+        seamlessly with a variety of flavors that both suprised and
+        nostalgically treated the palette. While cutting and shaping nigiri is
+        undoubtedly an art, Chefs Ji and Filipe got to show off their talents
+        outside of purely knife work with each dish. My personal favorites were
+        the scallops in yuzu sea foam on a Himalayan salt block, and grilled
+        octopus with corn puree with a tortilla chip. Both of these dishes
+        maintained a typical Japanese flavor profile, but played with texture
+        and additional floral flavors just enough to give it a much more pop
+        than usual. Chefs Ji and Filipe were entertaining to talk to, as well as
+        extremely knowledgeable about the dishes they were creating. Ask them
+        about their origins, it explains the influence behind the dishes, and
+        makes them even more meaningful.
+      languageCode: en
+    originalText:
+      text: >-
+        Went here for the 10+ Omakase. Definitely the most creative Omakase I
+        have had in Seattle. Unlike most omakases in Seattle, this one consists
+        of both nigiri pieces AND small tasting plates. The dishes all primarily
+        utilized traditional flavors and ingredients, while blending them
+        seamlessly with a variety of flavors that both suprised and
+        nostalgically treated the palette. While cutting and shaping nigiri is
+        undoubtedly an art, Chefs Ji and Filipe got to show off their talents
+        outside of purely knife work with each dish. My personal favorites were
+        the scallops in yuzu sea foam on a Himalayan salt block, and grilled
+        octopus with corn puree with a tortilla chip. Both of these dishes
+        maintained a typical Japanese flavor profile, but played with texture
+        and additional floral flavors just enough to give it a much more pop
+        than usual. Chefs Ji and Filipe were entertaining to talk to, as well as
+        extremely knowledgeable about the dishes they were creating. Ask them
+        about their origins, it explains the influence behind the dishes, and
+        makes them even more meaningful.
+      languageCode: en
+    authorAttribution:
+      displayName: taylor yeah
+      uri: https://www.google.com/maps/contrib/109861682077801716278/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWXddMN_p2h-RJGwaJuJXlds_p4KZcVZ9dz9FepZHR-7sLt2Go=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-20T05:24:19.726521Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNvMjlha2lRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNvMjlha2lRRRAB!2m1!1s0x5490150027e461f3:0xf05eb48e31455b4d
+  - name: >-
+      places/ChIJ82HkJwAVkFQRTVtFMY60XvA/reviews/ChZDSUhNMG9nS0VJQ0FnTUNnbUlPc2RREAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        My boyfriend surprised me with the 10+ course omakase for an early
+        Valentines dinner and I was so excited since it was our first time! Chef
+        Ji and his wife were so welcoming, knowledgeable and sweet as well as
+        Felipe. The dishes were so creative, delicious, and filling. The fish
+        was so fresh and I’m not lying when I say there wasn’t one plate I
+        didn’t like! I’m so honored and grateful so be a part of this wonderful
+        experience. I hope to come back again!
+
+
+        ** Side note: we sat at the sushi bar and it was not busy(which is rare)
+        so I do feel like it added more positive light to our time since we had
+        a lot of attention/got to enjoy every plate while talking to the chef.
+      languageCode: en
+    originalText:
+      text: >-
+        My boyfriend surprised me with the 10+ course omakase for an early
+        Valentines dinner and I was so excited since it was our first time! Chef
+        Ji and his wife were so welcoming, knowledgeable and sweet as well as
+        Felipe. The dishes were so creative, delicious, and filling. The fish
+        was so fresh and I’m not lying when I say there wasn’t one plate I
+        didn’t like! I’m so honored and grateful so be a part of this wonderful
+        experience. I hope to come back again!
+
+
+        ** Side note: we sat at the sushi bar and it was not busy(which is rare)
+        so I do feel like it added more positive light to our time since we had
+        a lot of attention/got to enjoy every plate while talking to the chef.
+      languageCode: en
+    authorAttribution:
+      displayName: Toni Labrador
+      uri: https://www.google.com/maps/contrib/112586013369340715467/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUkuxjNqR1ChLCwiaxqH2Fncz5qSTQkZErxsoCZElwwIoods75BVA=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-02-13T22:36:22.657442Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNnbUlPc2RREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNnbUlPc2RREAE!2m1!1s0x5490150027e461f3:0xf05eb48e31455b4d
+  - name: >-
+      places/ChIJ82HkJwAVkFQRTVtFMY60XvA/reviews/ChZDSUhNMG9nS0VJQ0FnSUQzZ1ltaVd3EAE
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        My husband and I did the 10 course omakase for his birthday and had such
+        a lovely time! Every course was absolutely delicious, which was
+        complimented beautifully by incredible staff. The owner is the chef and
+        his wife is the hostess and they make such a cute dynamic duo that was
+        really endearing to spend time with. We wholly recommend this
+        experience!
+      languageCode: en
+    originalText:
+      text: >-
+        My husband and I did the 10 course omakase for his birthday and had such
+        a lovely time! Every course was absolutely delicious, which was
+        complimented beautifully by incredible staff. The owner is the chef and
+        his wife is the hostess and they make such a cute dynamic duo that was
+        really endearing to spend time with. We wholly recommend this
+        experience!
+      languageCode: en
+    authorAttribution:
+      displayName: Sarah Wait
+      uri: https://www.google.com/maps/contrib/109285212820154785342/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUzVIhPxmkCmCO4CRD7DCwLBhGS_173rukd8m9o-mSXtSb5T14YlQ=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-11-15T17:21:29.936356Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQzZ1ltaVd3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQzZ1ltaVd3EAE!2m1!1s0x5490150027e461f3:0xf05eb48e31455b4d
+review_summary: >-
+  What Guests Are Saying About the Experience$$$Folks who visit this sushi spot
+  often rave about the creative twists on classic dishes, like the flavorful
+  omakase courses that keep things fresh and exciting without overwhelming the
+  senses. Many appreciate how the high-quality ingredients shine through,
+  creating meals that feel both innovative and satisfying for anyone craving the
+  best sushi near me. It's commonly noted that the welcoming vibe and attentive
+  service make dining here a highlight, with highlights on the variety of
+  textures and flavors that leave a lasting impression. Overall, visitors share
+  that it's a solid pick for Japanese places near me, blending fun surprises
+  with reliable favorites in a way that keeps the energy positive and enjoyable.
+  While parking can be a bit tricky, the consensus is that the outstanding food
+  and atmosphere make it well worth the effort for a memorable meal.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  paidParkingLot: true
+  freeStreetParking: true
+  paidStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
+curbside_pickup: false
+delivery: false
+dine_in: true
+good_for_children: false
 good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
 serves_breakfast: null
 serves_brunch: null
 serves_cocktails: null
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
+serves_dinner: true
+serves_dessert: true
 serves_lunch: null
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

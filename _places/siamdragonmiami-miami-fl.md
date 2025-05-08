@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "SiamdragonMiami"
+title: SiamdragonMiami
 permalink: /florida/miami/siamdragonmiami.html
 stateAbbr: FL
 stateName: Florida
 cityName: Miami
 seo:
-  name: "SiamdragonMiami"
-  type: Restaurant
+  type: restaurant
   links: https://siamdragonmiamifl.com/
-description: "Classic Thai dishes & Japanese sushi rolls served in a relaxed setting with modern flair. SiamdragonMiami serves delicious sushi in Miami, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJQZQGWkjH2YgRnTRscLk8WxM
 photos:
   - name: >-
@@ -185,6 +183,35 @@ price_range: $10 &ndash; $20
 rating: '4.1'
 rating_count: 0
 website: https://siamdragonmiamifl.com/
+description: >-
+  Explore SiamdragonMiami in Miami, FL$$$SiamdragonMiami in Miami, FL, is a
+  charming spot blending classic Thai dishes with fresh Japanese sushi rolls,
+  all served in a relaxed and modern atmosphere that appeals to those seeking
+  authentic Asian flavors. The menu highlights generous portions of flavorful
+  soups and curries, alongside creative bento boxes and fresh rolls that
+  showcase high-quality ingredients and a commitment to taste. Diners can enjoy
+  a welcoming setting with convenient options like delivery and takeout, making
+  it an ideal choice for anyone looking for sushi restaurants near me or
+  Japanese places in the area. Accessibility features such as
+  wheelchair-friendly entrances and parking add to the appeal, ensuring a
+  comfortable visit for all. With moderate pricing and a variety of options,
+  it's a go-to destination for exploring top-rated sushi and hearty meals in a
+  vibrant setting.
+generative_summary: >-
+  Explore SiamdragonMiami in Miami, FL$$$SiamdragonMiami in Miami, FL, is a
+  charming spot blending classic Thai dishes with fresh Japanese sushi rolls,
+  all served in a relaxed and modern atmosphere that appeals to those seeking
+  authentic Asian flavors. The menu highlights generous portions of flavorful
+  soups and curries, alongside creative bento boxes and fresh rolls that
+  showcase high-quality ingredients and a commitment to taste. Diners can enjoy
+  a welcoming setting with convenient options like delivery and takeout, making
+  it an ideal choice for anyone looking for sushi restaurants near me or
+  Japanese places in the area. Accessibility features such as
+  wheelchair-friendly entrances and parking add to the appeal, ensuring a
+  comfortable visit for all. With moderate pricing and a variety of options,
+  it's a go-to destination for exploring top-rated sushi and hearty meals in a
+  vibrant setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJQZQGWkjH2YgRnTRscLk8WxM/reviews/ChdDSUhNMG9nS0VJQ0FnTUNRdklLWG9RRRAB
@@ -328,6 +355,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNWel9PWXFBRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNWel9PWXFBRRAB!2m1!1s0x88d9c7485a069441:0x135b3cb9706c349d
+review_summary: >-
+  Insights from Recent Feedback$$$Folks frequently praise the hearty portions
+  and bold flavors of dishes like duck noodle soup and panang curry, noting how
+  they deliver a satisfying and authentic taste even when ordered for delivery.
+  Many appreciate the friendly service and quick preparation, which make for a
+  pleasant dining experience whether stopping in for lunch or grabbing takeout.
+  Comments often highlight the great value for money, with tasty rolls and Thai
+  favorites standing out as family-friendly choices that keep customers coming
+  back. Overall, the consensus is that this spot offers a solid mix of Thai and
+  Japanese cuisine that's worth trying for anyone craving fresh, well-prepared
+  meals. While some mention that certain items like pad Thai are solid but not
+  extraordinary, the positive vibes around the atmosphere and affordability keep
+  the feedback upbeat and encouraging.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -359,8 +400,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Classic Thai dishes & Japanese sushi rolls served in a relaxed setting with
   modern flair.
 

@@ -5,4 +5,5 @@ permalink: /tennessee/franklin/
 stateAbbr: TN
 stateName: Tennessee
 cityName: Franklin
+
 ---

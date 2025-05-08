@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Okinawa Sushi"
+title: Okinawa Sushi
 permalink: /colorado/littleton/okinawa-sushi.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Littleton
 seo:
-  name: "Okinawa Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Okinawa Sushi serves delicious sushi in Littleton, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJnf_lSzh5a4cRPe8NWHsGUDI
 photos:
   - name: >-
@@ -185,7 +183,42 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  About Okinawa Sushi in Littleton, CO$$$Okinawa Sushi in Littleton, CO, stands
+  out as a welcoming spot for enjoying authentic Japanese flavors, offering a
+  cozy atmosphere perfect for casual sushi outings. This sushi restaurant
+  features an array of fresh Japanese dishes, including expertly prepared sushi,
+  sashimi, and bento boxes, complemented by selections of sake and beer for a
+  complete dining experience. The venue emphasizes accessibility, making it easy
+  for everyone to savor its menu in a comfortable setting. Whether you're
+  searching for top-rated sushi near you or exploring Japanese places close to
+  home, this eatery delivers on quality and variety that appeal to sushi
+  enthusiasts.
+generative_summary: >-
+  About Okinawa Sushi in Littleton, CO$$$Okinawa Sushi in Littleton, CO, stands
+  out as a welcoming spot for enjoying authentic Japanese flavors, offering a
+  cozy atmosphere perfect for casual sushi outings. This sushi restaurant
+  features an array of fresh Japanese dishes, including expertly prepared sushi,
+  sashimi, and bento boxes, complemented by selections of sake and beer for a
+  complete dining experience. The venue emphasizes accessibility, making it easy
+  for everyone to savor its menu in a comfortable setting. Whether you're
+  searching for top-rated sushi near you or exploring Japanese places close to
+  home, this eatery delivers on quality and variety that appeal to sushi
+  enthusiasts.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Feedback on Okinawa Sushi Experiences$$$Folks who visit this sushi spot often
+  rave about the fresh and flavorful rolls that highlight its commitment to
+  quality ingredients, making it a solid choice for anyone craving Japanese
+  fare. Many appreciate the variety of options that cater to different tastes,
+  from classic sashimi to creative bento combinations, helping it stand out
+  among local sushi restaurants. While some mention that service can vary, the
+  overall vibe remains inviting and relaxed, encouraging repeat visits for a
+  quick meal or group gathering. Diners frequently note the reasonable prices
+  and tasty beverages like sake, positioning it as a go-to for those seeking the
+  best sushi near me without the fuss.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +244,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kusshi Rockville Town Square"
+title: Kusshi Rockville Town Square
 permalink: /maryland/rockville/kusshi-rockville-town-square.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Rockville
 seo:
-  name: "Kusshi Rockville Town Square"
-  type: Restaurant
-  links: null
-description: "Kusshi Rockville Town Square serves delicious sushi in Rockville, Maryland. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://kusshisushi.com/
 place_id: ChIJ7UP_0jvNt4kRefVI27CZ8J8
 photos:
   - name: >-
@@ -169,22 +167,211 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89b7cd3bd2ff43ed:0x9ff099b0db48f579!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 0
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 0
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 0
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 0
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 0
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 1
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 1
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 12:00 AM'
+    - 'Tuesday: 11:00 AM – 12:00 AM'
+    - 'Wednesday: 11:00 AM – 12:00 AM'
+    - 'Thursday: 11:00 AM – 12:00 AM'
+    - 'Friday: 11:00 AM – 1:00 AM'
+    - 'Saturday: 11:00 AM – 1:00 AM'
+    - 'Sunday: 11:00 AM – 12:00 AM'
+  nextCloseTime: '2025-05-04T05:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
-phone: null
+  - openNow: false
+    periods:
+      - open:
+          day: 1
+          hour: 15
+          minute: 0
+        close:
+          day: 1
+          hour: 18
+          minute: 0
+      - open:
+          day: 1
+          hour: 22
+          minute: 0
+        close:
+          day: 2
+          hour: 0
+          minute: 0
+      - open:
+          day: 2
+          hour: 15
+          minute: 0
+        close:
+          day: 2
+          hour: 18
+          minute: 0
+      - open:
+          day: 2
+          hour: 22
+          minute: 0
+        close:
+          day: 3
+          hour: 0
+          minute: 0
+      - open:
+          day: 3
+          hour: 15
+          minute: 0
+        close:
+          day: 3
+          hour: 18
+          minute: 0
+      - open:
+          day: 3
+          hour: 22
+          minute: 0
+        close:
+          day: 4
+          hour: 0
+          minute: 0
+      - open:
+          day: 4
+          hour: 15
+          minute: 0
+        close:
+          day: 4
+          hour: 18
+          minute: 0
+      - open:
+          day: 4
+          hour: 22
+          minute: 0
+        close:
+          day: 5
+          hour: 0
+          minute: 0
+      - open:
+          day: 5
+          hour: 15
+          minute: 0
+        close:
+          day: 5
+          hour: 18
+          minute: 0
+      - open:
+          day: 5
+          hour: 22
+          minute: 0
+        close:
+          day: 6
+          hour: 0
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 3:00 – 6:00 PM, 10:00 PM – 12:00 AM'
+      - 'Tuesday: 3:00 – 6:00 PM, 10:00 PM – 12:00 AM'
+      - 'Wednesday: 3:00 – 6:00 PM, 10:00 PM – 12:00 AM'
+      - 'Thursday: 3:00 – 6:00 PM, 10:00 PM – 12:00 AM'
+      - 'Friday: 3:00 – 6:00 PM, 10:00 PM – 12:00 AM'
+      - 'Saturday: Closed'
+      - 'Sunday: Closed'
+    secondaryHoursType: HAPPY_HOUR
+    nextOpenTime: '2025-05-05T19:00:00Z'
+phone: (301) 301-9099
 price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+price_range: $30 &ndash; $50
+rating: '4.7'
+rating_count: 143
+website: https://kusshisushi.com/
+description: >-
+  Discover Kusshi in Rockville, MD$$$Nestled in the heart of Rockville, MD,
+  Kusshi Rockville Town Square stands out as a premier spot for enjoying fresh
+  sushi and Japanese specialties. This relaxed restaurant offers a welcoming
+  atmosphere perfect for casual dining, featuring an array of expertly crafted
+  rolls, noodles, and other flavorful dishes that highlight the best of Japanese
+  cuisine. With convenient hours extending into the evening and options for
+  happy hour, it's an ideal choice for those seeking a laid-back meal after a
+  busy day. The venue also prioritizes accessibility, making it easy for
+  everyone to enjoy top-rated sushi experiences close to home. Whether you're
+  looking for sushi places near you or a cozy spot to unwind, this location
+  combines quality ingredients with a comfortable vibe for a memorable visit.
+generative_summary: >-
+  Discover Kusshi in Rockville, MD$$$Nestled in the heart of Rockville, MD,
+  Kusshi Rockville Town Square stands out as a premier spot for enjoying fresh
+  sushi and Japanese specialties. This relaxed restaurant offers a welcoming
+  atmosphere perfect for casual dining, featuring an array of expertly crafted
+  rolls, noodles, and other flavorful dishes that highlight the best of Japanese
+  cuisine. With convenient hours extending into the evening and options for
+  happy hour, it's an ideal choice for those seeking a laid-back meal after a
+  busy day. The venue also prioritizes accessibility, making it easy for
+  everyone to enjoy top-rated sushi experiences close to home. Whether you're
+  looking for sushi places near you or a cozy spot to unwind, this location
+  combines quality ingredients with a comfortable vibe for a memorable visit.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What People Are Saying About the Food$$$Visitors often rave about the
+  mouthwatering selection of fatty salmon and seared options that bring a burst
+  of fresh flavors to every bite at this sushi spot. Folks appreciate the
+  creative specialty rolls, like unique combinations that add excitement to the
+  menu, making it a go-to for anyone craving something a little different. The
+  staff comes across as genuinely helpful and attentive, helping to create a
+  warm and enjoyable environment that keeps diners coming back. Overall, the
+  stylish setup adds to the appeal, offering a pleasant backdrop for groups or
+  solo meals without any fuss. If you're on the hunt for reliable sushi
+  restaurants nearby, this place delivers solid vibes and tasty dishes that
+  leave a positive impression.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +397,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

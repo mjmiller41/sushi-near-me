@@ -5,4 +5,5 @@ permalink: /arizona/peoria/
 stateAbbr: AZ
 stateName: Arizona
 cityName: Peoria
+
 ---

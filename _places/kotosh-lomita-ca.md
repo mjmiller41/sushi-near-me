@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kotosh"
+title: Kotosh
 permalink: /california/lomita/kotosh.html
 stateAbbr: CA
 stateName: California
 cityName: Lomita
 seo:
-  name: "Kotosh"
-  type: Restaurant
+  type: restaurant
   links: http://kotoshrestaurant.com/
-description: "Kotosh serves delicious sushi in Lomita, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJvYsq-vRK3YARv0sFTzZX6Gc
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80dd4af4fa2a8bbd:0x67e857364f054bbf!10e5
 primary_type: Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:00 PM'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:00 PM'
     - 'Saturday: 11:00 AM – 9:00 PM'
     - 'Sunday: 11:00 AM – 8:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 9:00 PM'
-    - 'Saturday: 11:00 AM – 9:00 PM'
-    - 'Sunday: 11:00 AM – 8:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,276 @@ phone: (310) 257-1363
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.6'
-rating_count: 0
+rating_count: 618
 website: http://kotoshrestaurant.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Explore Kotosh in Lomita, CA$$$Kotosh in Lomita, CA, stands out as a casual
+  spot blending Peruvian flavors with fresh sushi options, making it a go-to for
+  those seeking diverse Japanese-inspired dishes nearby. This welcoming
+  restaurant offers sizable portions of traditional fare like ceviche and
+  innovative rolls, all served in a comfortable, accessible environment with
+  wheelchair-friendly features. Patrons can enjoy a mix of hearty Peruvian
+  classics and sushi selections that highlight quality ingredients and creative
+  presentations, perfect for a relaxed meal. With moderate pricing and extended
+  hours, it's an ideal choice for anyone exploring sushi restaurants in the
+  area. The overall vibe emphasizes genuine, flavorful dining that appeals to
+  fans of international cuisine.
+generative_summary: >-
+  Explore Kotosh in Lomita, CA$$$Kotosh in Lomita, CA, stands out as a casual
+  spot blending Peruvian flavors with fresh sushi options, making it a go-to for
+  those seeking diverse Japanese-inspired dishes nearby. This welcoming
+  restaurant offers sizable portions of traditional fare like ceviche and
+  innovative rolls, all served in a comfortable, accessible environment with
+  wheelchair-friendly features. Patrons can enjoy a mix of hearty Peruvian
+  classics and sushi selections that highlight quality ingredients and creative
+  presentations, perfect for a relaxed meal. With moderate pricing and extended
+  hours, it's an ideal choice for anyone exploring sushi restaurants in the
+  area. The overall vibe emphasizes genuine, flavorful dining that appeals to
+  fans of international cuisine.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJvYsq-vRK3YARv0sFTzZX6Gc/reviews/ChdDSUhNMG9nS0VJQ0FnTURBcXR6cTdBRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        Been coming here for over a decade. One of the hidden gems in the South
+        Bay. Nothing fancy from the outside and the Interior has gone through a
+        few renovations. Staff is as welcoming as ever and the food is
+        delicious.
+
+
+        My favorite dishes by far here are the Chicharron Mixto Al Ajo and the
+        Tallarin Saltado. The green sauce is amazing here, I swear I almost
+        finish a whole bottle everytime. I put that …. On everything. No joke.
+
+
+        Chicharron is nice and crispy and a good mix of seafood from fish,
+        squid, shrimp, and more. The garlic sauce is delicious. Though sometimes
+        they make it a little too salty for me. But the crispy seafood, garlic
+        sauce, rice, and green sauce to top it off is delicious.
+
+
+        The Lomo Saltado is good, but I personally prefer the Tallarin Saltado.
+        The noodles, onions, beef with green sauce is delicious.
+
+
+        This boast we got the assorted sashimi. Excellent cuts and variety of
+        fish.
+
+
+        If you ever come with a large party, I recommend the chowders as well.
+        Nice and creamy with lots of flavor.
+      languageCode: en
+    originalText:
+      text: >-
+        Been coming here for over a decade. One of the hidden gems in the South
+        Bay. Nothing fancy from the outside and the Interior has gone through a
+        few renovations. Staff is as welcoming as ever and the food is
+        delicious.
+
+
+        My favorite dishes by far here are the Chicharron Mixto Al Ajo and the
+        Tallarin Saltado. The green sauce is amazing here, I swear I almost
+        finish a whole bottle everytime. I put that …. On everything. No joke.
+
+
+        Chicharron is nice and crispy and a good mix of seafood from fish,
+        squid, shrimp, and more. The garlic sauce is delicious. Though sometimes
+        they make it a little too salty for me. But the crispy seafood, garlic
+        sauce, rice, and green sauce to top it off is delicious.
+
+
+        The Lomo Saltado is good, but I personally prefer the Tallarin Saltado.
+        The noodles, onions, beef with green sauce is delicious.
+
+
+        This boast we got the assorted sashimi. Excellent cuts and variety of
+        fish.
+
+
+        If you ever come with a large party, I recommend the chowders as well.
+        Nice and creamy with lots of flavor.
+      languageCode: en
+    authorAttribution:
+      displayName: Felix G
+      uri: https://www.google.com/maps/contrib/104412025827639497146/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVoYcaGA7PQ5SzkTPdhR06eXFTtWyvaPYuESRHcO-63wEw1tTKCnQ=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-02-08T05:21:59.176556Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURBcXR6cTdBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURBcXR6cTdBRRAB!2m1!1s0x80dd4af4fa2a8bbd:0x67e857364f054bbf
+  - name: >-
+      places/ChIJvYsq-vRK3YARv0sFTzZX6Gc/reviews/ChdDSUhNMG9nS0VJQ0FnSUM5N0lfenZnRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        A wonderful place with amazing food, we came here because the kids
+        wanted sushi rolls while the grownups wanted Peruvian food, the
+        selection was amazing the rolls are very creative with a Peruvian flair,
+        we tried the Acivochado roll which by the name you can tell what it is,
+        it was absolutely amazing and the other dishes were also great. Overall
+        great food, fast and friendly service and definitely affordable. Highly
+        recommended.
+      languageCode: en
+    originalText:
+      text: >-
+        A wonderful place with amazing food, we came here because the kids
+        wanted sushi rolls while the grownups wanted Peruvian food, the
+        selection was amazing the rolls are very creative with a Peruvian flair,
+        we tried the Acivochado roll which by the name you can tell what it is,
+        it was absolutely amazing and the other dishes were also great. Overall
+        great food, fast and friendly service and definitely affordable. Highly
+        recommended.
+      languageCode: en
+    authorAttribution:
+      displayName: FuserAgent
+      uri: https://www.google.com/maps/contrib/103813961220297955409/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVXWIwSKV4ujRt73wgIFoJ0RVHpyF3Wvb6oWqb4sI_WidkULRAdSQ=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2024-03-04T02:56:29.847158Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUM5N0lfenZnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUM5N0lfenZnRRAB!2m1!1s0x80dd4af4fa2a8bbd:0x67e857364f054bbf
+  - name: >-
+      places/ChIJvYsq-vRK3YARv0sFTzZX6Gc/reviews/ChdDSUhNMG9nS0VJQ0FnSURfN2J1N3VBRRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        This is a great Peruvian Japanese fusion restaurant. We got the ceviche,
+        the shrimp soup, the chiccorone mixto, Loma Soltado, and of course the
+        Chica Morada. The service is great, we will definitely be back to try
+        more of the Japanese dishes.
+      languageCode: en
+    originalText:
+      text: >-
+        This is a great Peruvian Japanese fusion restaurant. We got the ceviche,
+        the shrimp soup, the chiccorone mixto, Loma Soltado, and of course the
+        Chica Morada. The service is great, we will definitely be back to try
+        more of the Japanese dishes.
+      languageCode: en
+    authorAttribution:
+      displayName: Alexander Kohnstamm
+      uri: https://www.google.com/maps/contrib/107830726106215338686/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUicnWJ5iD50KaVMUUaHuTdBj-NqUwAyjEtZUd32VJES0FR5dg=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-01-26T08:35:25.282966Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURfN2J1N3VBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURfN2J1N3VBRRAB!2m1!1s0x80dd4af4fa2a8bbd:0x67e857364f054bbf
+  - name: >-
+      places/ChIJvYsq-vRK3YARv0sFTzZX6Gc/reviews/ChZDSUhNMG9nS0VJQ0FnSURYeVlLTFZnEAE
+    relativePublishTimeDescription: 6 months ago
+    rating: 5
+    text:
+      text: >-
+        First visit in given the food and service has made me a regular customer
+        already. A true gem right in my backyard. Check this place out!
+      languageCode: en
+    originalText:
+      text: >-
+        First visit in given the food and service has made me a regular customer
+        already. A true gem right in my backyard. Check this place out!
+      languageCode: en
+    authorAttribution:
+      displayName: Anthony Meek
+      uri: https://www.google.com/maps/contrib/115507516753412016974/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUCw2IAASzAeIn9dFI9CazyTkY0SYhzcPymfFQ2Co0lOu_3N4c=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-10-28T20:42:44.901913Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURYeVlLTFZnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURYeVlLTFZnEAE!2m1!1s0x80dd4af4fa2a8bbd:0x67e857364f054bbf
+  - name: >-
+      places/ChIJvYsq-vRK3YARv0sFTzZX6Gc/reviews/ChZDSUhNMG9nS0VJQ0FnSURwcXBDNVJnEAE
+    relativePublishTimeDescription: a year ago
+    rating: 4
+    text:
+      text: >-
+        Unique restaurant in the South Bay that offers Peruvian & Japanese food.
+        In my opinion, it's less of a fusion and more of a place that just
+        serves two types of food. Their Japanese food seems to just be American
+        rolls. The taste was good, but nothing special. The service is friendly
+        and fast. They sit in a plaza so there's free parking, although spaces
+        can be somewhat limited. Prepare to pay $30-50 per person. Worth
+        checking out.
+      languageCode: en
+    originalText:
+      text: >-
+        Unique restaurant in the South Bay that offers Peruvian & Japanese food.
+        In my opinion, it's less of a fusion and more of a place that just
+        serves two types of food. Their Japanese food seems to just be American
+        rolls. The taste was good, but nothing special. The service is friendly
+        and fast. They sit in a plaza so there's free parking, although spaces
+        can be somewhat limited. Prepare to pay $30-50 per person. Worth
+        checking out.
+      languageCode: en
+    authorAttribution:
+      displayName: CH
+      uri: https://www.google.com/maps/contrib/118061708175836083035/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJUTRuYSuICC8sdMdJbVfahvUYQYwqtjtYHqvtYMszZ977X2w=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2023-08-19T20:37:24.519837Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURwcXBDNVJnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURwcXBDNVJnEAE!2m1!1s0x80dd4af4fa2a8bbd:0x67e857364f054bbf
+review_summary: >-
+  Buzz Around the Reviews$$$Visitors often rave about the tasty Peruvian and
+  Japanese fusion dishes at this spot, noting the creative sushi rolls and
+  generous portions that make every bite satisfying. Many appreciate the
+  friendly, efficient service that keeps things running smoothly, turning
+  first-timers into regulars without any fuss. While some mention the food hits
+  the mark for authenticity and value, others point out it's a solid pick for
+  everyday meals rather than something overly fancy. Overall, folks find it a
+  hidden gem for affordable, flavorful options like fresh sashimi and
+  traditional favorites, encouraging anyone searching for top-rated sushi nearby
+  to give it a try. The consensus leans positive, with praise for the welcoming
+  atmosphere that enhances the whole experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
 good_for_sports: null
-live_music: null
+live_music: false
 menu_for_children: null
 outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+reservable: true
+restroom: true
+serves_beer: true
 serves_breakfast: null
-serves_brunch: null
+serves_brunch: false
 serves_cocktails: null
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Traditional Peruvian cuisine pairs with sushi & sashimi at this simple
+  strip-mall cafe & sushi bar.
 
 ---

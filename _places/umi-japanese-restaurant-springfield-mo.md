@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Umi Japanese Restaurant"
+title: Umi Japanese Restaurant
 permalink: /missouri/springfield/umi-japanese-restaurant.html
 stateAbbr: MO
 stateName: Missouri
 cityName: Springfield
 seo:
-  name: "Umi Japanese Restaurant"
-  type: Restaurant
-  links: null
-description: "Umi Japanese Restaurant serves delicious sushi in Springfield, Missouri. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.facebook.com/umisushibarmo
 place_id: ChIJddoEtZtkz4cRWvioylgIQlc
 photos:
   - name: >-
@@ -170,8 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x87cf649bb504da75:0x57420858caa8f85a!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 9:00 PM'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 9:00 PM'
+    - 'Saturday: 11:00 AM – 9:00 PM'
+    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +234,51 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
+phone: (417) 882-1110
+price_level: PRICE_LEVEL_MODERATE
 price_range: null
-rating: null
-rating_count: 0
-website: null
+rating: '4.6'
+rating_count: 769
+website: http://www.facebook.com/umisushibarmo
+description: >-
+  Discover Umi Japanese Restaurant in Springfield, MO$$$Umi Japanese Restaurant
+  in Springfield, MO, provides an elegant dining option for those seeking
+  authentic Japanese flavors, featuring a variety of fresh sushi and hibachi
+  dishes that highlight the art of Japanese cuisine. The spot boasts an upscale
+  atmosphere perfect for family meals or casual evenings, with options like a
+  kids' menu and a cozy bar area that add to its welcoming vibe. Accessibility
+  features make it easy for everyone to enjoy the experience, while the
+  restaurant's daily hours from 11 AM ensure it's a convenient choice for lunch
+  or dinner. Whether you're in the mood for expertly prepared rolls or sizzling
+  hibachi favorites, this spot stands out as a go-to Japanese place near you for
+  quality and variety.
+generative_summary: >-
+  Discover Umi Japanese Restaurant in Springfield, MO$$$Umi Japanese Restaurant
+  in Springfield, MO, provides an elegant dining option for those seeking
+  authentic Japanese flavors, featuring a variety of fresh sushi and hibachi
+  dishes that highlight the art of Japanese cuisine. The spot boasts an upscale
+  atmosphere perfect for family meals or casual evenings, with options like a
+  kids' menu and a cozy bar area that add to its welcoming vibe. Accessibility
+  features make it easy for everyone to enjoy the experience, while the
+  restaurant's daily hours from 11 AM ensure it's a convenient choice for lunch
+  or dinner. Whether you're in the mood for expertly prepared rolls or sizzling
+  hibachi favorites, this spot stands out as a go-to Japanese place near you for
+  quality and variety.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Visitor Feedback on Umi Japanese Restaurant$$$Folks often praise the tasty
+  sushi and other favorites like crab rangoon and edamame at this Japanese spot,
+  noting how the complimentary miso soup and ginger dressing salad make every
+  meal feel special. Many appreciate the friendly staff who provide attentive
+  service, helping create a relaxed and enjoyable atmosphere for diners. The
+  clean and calm setting adds to the overall appeal, making it a solid pick for
+  groups or solo visits. While experiences can vary, the general buzz is
+  positive, with highlights on the flavorful dishes that keep people coming back
+  for more Japanese-inspired eats. If you're searching for top-rated sushi
+  options nearby, this place delivers a consistently satisfying vibe that's
+  worth checking out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +304,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

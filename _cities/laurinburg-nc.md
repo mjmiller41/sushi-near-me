@@ -5,4 +5,5 @@ permalink: /north-carolina/laurinburg/
 stateAbbr: NC
 stateName: North Carolina
 cityName: Laurinburg
+
 ---

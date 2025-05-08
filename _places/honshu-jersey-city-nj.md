@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Honshu"
+title: Honshu
 permalink: /new-jersey/jersey-city/honshu.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Jersey City
 seo:
-  name: "Honshu"
-  type: Restaurant
+  type: restaurant
   links: http://www.honshulounge.com/
-description: "Modern Japanese eatery specializing in sushi & noodles served in a second-story space. Honshu serves delicious sushi in Jersey City, New Jersey. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJgXR_NKlQwokR9uRHA0vNKDs
 photos:
   - name: >-
@@ -184,6 +182,29 @@ price_range: $30 &ndash; $50
 rating: '4.3'
 rating_count: 0
 website: http://www.honshulounge.com/
+description: >-
+  Discover Honshu in Jersey City, NJ$$$Nestled in the heart of Jersey City, NJ,
+  Honshu stands out as a modern Japanese eatery offering a delightful mix of
+  fresh sushi and flavorful noodles. This spot boasts an extensive selection of
+  dishes, including creative rolls and craft cocktails, making it a go-to choice
+  for those seeking authentic flavors in a welcoming atmosphere. With options
+  like a variety of sake and even kid-friendly choices, it's designed to appeal
+  to families and sushi enthusiasts alike, ensuring everyone finds something to
+  enjoy. The restaurant's accessible features and outdoor seating add to its
+  charm, providing a comfortable setting for casual meals or special occasions
+  in the bustling downtown area.
+generative_summary: >-
+  Discover Honshu in Jersey City, NJ$$$Nestled in the heart of Jersey City, NJ,
+  Honshu stands out as a modern Japanese eatery offering a delightful mix of
+  fresh sushi and flavorful noodles. This spot boasts an extensive selection of
+  dishes, including creative rolls and craft cocktails, making it a go-to choice
+  for those seeking authentic flavors in a welcoming atmosphere. With options
+  like a variety of sake and even kid-friendly choices, it's designed to appeal
+  to families and sushi enthusiasts alike, ensuring everyone finds something to
+  enjoy. The restaurant's accessible features and outdoor seating add to its
+  charm, providing a comfortable setting for casual meals or special occasions
+  in the bustling downtown area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJgXR_NKlQwokR9uRHA0vNKDs/reviews/ChZDSUhNMG9nS0VJQ0FnSUN2bmZlUlRREAE
@@ -353,6 +374,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNybnUzeDd3RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNybnUzeDd3RRAB!2m1!1s0x89c250a9347f7481:0x3b28cd4b0347e4f6
+review_summary: >-
+  What Customers Are Saying About This Sushi Spot$$$Visitors often rave about
+  the consistently fresh sushi and rolls, highlighting how the quality stands
+  out for the price, making it a solid pick for anyone craving reliable Japanese
+  cuisine nearby. Many appreciate the welcoming service and inviting ambiance,
+  which enhance the overall dining experience whether you're stopping by for
+  happy hour drinks or a full dinner. Feedback frequently notes the generous
+  portions and variety of appetizers, like tempura and sashimi, that leave
+  diners satisfied and eager to return. While some mention that certain rolls
+  might not always wow compared to upscale options, the overall value and
+  friendly vibe keep the positives shining through. If you're exploring
+  top-rated sushi places around Jersey City, this spot delivers a enjoyable meal
+  that balances taste and affordability effectively.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeStreetParking: true
   paidStreetParking: true
@@ -385,8 +420,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Modern Japanese eatery specializing in sushi & noodles served in a
   second-story space.
 

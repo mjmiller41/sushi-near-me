@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Minato Sushi Bar"
+title: Minato Sushi Bar
 permalink: /maryland/baltimore/minato-sushi-bar.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Baltimore
 seo:
-  name: "Minato Sushi Bar"
-  type: Restaurant
+  type: restaurant
   links: https://www.minatosushibar.com/
-description: "Minato Sushi Bar serves delicious sushi in Baltimore, Maryland. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJryAEWZYEyIkRHS4czCSrM9Q
 photos:
   - name: >-
@@ -168,7 +166,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c80496590420af:0xd433ab24cc1c2e1d!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 9:00 PM'
     - 'Tuesday: 11:30 AM – 9:00 PM'
     - 'Wednesday: 11:30 AM – 9:00 PM'
@@ -176,28 +232,113 @@ opening_hours:
     - 'Friday: 11:30 AM – 9:00 PM'
     - 'Saturday: 11:30 AM – 9:00 PM'
     - 'Sunday: 11:30 AM – 9:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 9:00 PM'
-    - 'Tuesday: 11:30 AM – 9:00 PM'
-    - 'Wednesday: 11:30 AM – 9:00 PM'
-    - 'Thursday: 11:30 AM – 9:00 PM'
-    - 'Friday: 11:30 AM – 9:00 PM'
-    - 'Saturday: 11:30 AM – 9:00 PM'
-    - 'Sunday: 11:30 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T01:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 1
+          hour: 16
+          minute: 0
+        close:
+          day: 1
+          hour: 19
+          minute: 0
+      - open:
+          day: 2
+          hour: 16
+          minute: 0
+        close:
+          day: 2
+          hour: 19
+          minute: 0
+      - open:
+          day: 3
+          hour: 16
+          minute: 0
+        close:
+          day: 3
+          hour: 19
+          minute: 0
+      - open:
+          day: 4
+          hour: 16
+          minute: 0
+        close:
+          day: 4
+          hour: 19
+          minute: 0
+      - open:
+          day: 5
+          hour: 16
+          minute: 0
+        close:
+          day: 5
+          hour: 19
+          minute: 0
+      - open:
+          day: 6
+          hour: 16
+          minute: 0
+        close:
+          day: 6
+          hour: 19
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 4:00 – 7:00 PM'
+      - 'Tuesday: 4:00 – 7:00 PM'
+      - 'Wednesday: 4:00 – 7:00 PM'
+      - 'Thursday: 4:00 – 7:00 PM'
+      - 'Friday: 4:00 – 7:00 PM'
+      - 'Saturday: 4:00 – 7:00 PM'
+      - 'Sunday: Closed'
+    secondaryHoursType: HAPPY_HOUR
+    nextCloseTime: '2025-05-03T23:00:00Z'
 phone: (410) 332-0332
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.4'
-rating_count: 0
+rating_count: 618
 website: https://www.minatosushibar.com/
+description: >-
+  Discover Minato Sushi Bar in Baltimore, MD$$$Minato Sushi Bar in Baltimore,
+  MD, stands out as a premier spot for modern Japanese dining, featuring fresh,
+  made-to-order sushi that highlights the artistry of traditional flavors. The
+  restaurant boasts an elegant atmosphere that combines contemporary design with
+  a welcoming vibe, making it ideal for casual meals or special occasions.
+  Diners can enjoy a variety of sushi options crafted with high-quality
+  ingredients, perfect for those seeking top-rated Japanese places near you.
+  With its moderate pricing and extended hours, it's a convenient choice for
+  anyone exploring sushi restaurants in the area. Whether you're in the mood for
+  a quick bite or a relaxed evening, this spot delivers a satisfying experience
+  that captures the essence of authentic Japanese cuisine.
+generative_summary: >-
+  Discover Minato Sushi Bar in Baltimore, MD$$$Minato Sushi Bar in Baltimore,
+  MD, stands out as a premier spot for modern Japanese dining, featuring fresh,
+  made-to-order sushi that highlights the artistry of traditional flavors. The
+  restaurant boasts an elegant atmosphere that combines contemporary design with
+  a welcoming vibe, making it ideal for casual meals or special occasions.
+  Diners can enjoy a variety of sushi options crafted with high-quality
+  ingredients, perfect for those seeking top-rated Japanese places near you.
+  With its moderate pricing and extended hours, it's a convenient choice for
+  anyone exploring sushi restaurants in the area. Whether you're in the mood for
+  a quick bite or a relaxed evening, this spot delivers a satisfying experience
+  that captures the essence of authentic Japanese cuisine.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What People Are Buzzing About$$$Visitors to this sushi spot often rave about
+  the fresh flavors and creative rolls that make it a go-to for satisfying
+  cravings, with many highlighting the consistent quality that keeps them coming
+  back. Folks appreciate the friendly service and efficient atmosphere, noting
+  that it feels just right for a laid-back meal without any fuss. Based on the
+  strong ratings, it's clear that the overall vibe and food execution hit the
+  mark for those hunting for reliable sushi near me. While not every visit is
+  flawless, the positives like generous portions and tasty options outweigh any
+  minor hiccups, leaving most people feeling glad they stopped by. All in all,
+  it's a solid pick for anyone in Baltimore looking to enjoy a flavorful
+  Japanese meal with a positive, approachable feel.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -223,7 +364,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

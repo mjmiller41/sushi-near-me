@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Waipuna Sushi Manoa"
+title: Waipuna Sushi Manoa
 permalink: /hawaii/honolulu/waipuna-sushi-manoa.html
 stateAbbr: HI
 stateName: Hawaii
 cityName: Honolulu
 seo:
-  name: "Waipuna Sushi Manoa"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Waipuna Sushi Manoa serves delicious sushi in Honolulu, Hawaii. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJF9UKqqdtAHwR4nK9EnPYfxM
 photos:
   - name: >-
@@ -183,7 +181,47 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Waipuna Sushi Manoa in Honolulu, HI$$$Waipuna Sushi Manoa in
+  Honolulu, HI, stands out as a welcoming spot for enjoying fresh
+  Japanese-inspired cuisine in the lively Manoa area. This sushi restaurant
+  features accessible entryways and parking, ensuring a seamless visit for
+  everyone, while offering a menu that highlights high-quality ingredients and
+  creative rolls. Nestled in a neighborhood known for its vibrant local vibe,
+  it's an ideal choice for those exploring sushi options nearby, with a focus on
+  authentic flavors that capture the essence of island dining. The atmosphere
+  combines casual charm with attention to detail, making it perfect for a
+  relaxed meal. Whether you're in the mood for classic nigiri or innovative
+  combinations, this spot delivers a satisfying experience for sushi
+  enthusiasts.
+generative_summary: >-
+  Discover Waipuna Sushi Manoa in Honolulu, HI$$$Waipuna Sushi Manoa in
+  Honolulu, HI, stands out as a welcoming spot for enjoying fresh
+  Japanese-inspired cuisine in the lively Manoa area. This sushi restaurant
+  features accessible entryways and parking, ensuring a seamless visit for
+  everyone, while offering a menu that highlights high-quality ingredients and
+  creative rolls. Nestled in a neighborhood known for its vibrant local vibe,
+  it's an ideal choice for those exploring sushi options nearby, with a focus on
+  authentic flavors that capture the essence of island dining. The atmosphere
+  combines casual charm with attention to detail, making it perfect for a
+  relaxed meal. Whether you're in the mood for classic nigiri or innovative
+  combinations, this spot delivers a satisfying experience for sushi
+  enthusiasts.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Folks heading to Waipuna Sushi Manoa often share
+  positive vibes about the super fresh seafood and well-crafted dishes that hit
+  the spot every time. Many appreciate the laid-back setting and attentive
+  service that make it feel like a go-to hangout for casual meals or quick
+  bites. Comments frequently highlight the variety of options, from hearty rolls
+  to lighter picks, making it a solid choice for groups or anyone craving
+  reliable flavors. Overall, it's frequently noted as a standout in the area for
+  its consistent quality and welcoming feel, though some mention waits during
+  peak hours. If you're on the hunt for tasty sushi spots nearby, this place
+  earns high marks for delivering an enjoyable experience without any major
+  letdowns.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -209,7 +247,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Totoro"
+title: Sushi Totoro
 permalink: /california/santa-cruz/sushi-totoro.html
 stateAbbr: CA
 stateName: California
 cityName: Santa Cruz
 seo:
-  name: "Sushi Totoro"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi Totoro serves delicious sushi in Santa Cruz, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJUanddH9qjoARNcPU0ywtggQ
 photos:
   - name: >-
@@ -169,7 +167,121 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x808e6a7f74dda951:0x4822d2cd3d4c335!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 14
+        minute: 0
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 14
+        minute: 0
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 14
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
     - 'Tuesday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
     - 'Wednesday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
@@ -177,14 +289,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
     - 'Saturday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
     - 'Sunday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
-    - 'Tuesday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
-    - 'Wednesday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
-    - 'Thursday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
-    - 'Friday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
-    - 'Saturday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
-    - 'Sunday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,9 +301,46 @@ phone: (831) 426-6660
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.3'
-rating_count: 0
+rating_count: 387
 website: null
+description: >-
+  Discover Sushi Totoro in Santa Cruz$$$Sushi Totoro in Santa Cruz, CA, stands
+  out as a welcoming spot for enjoying fresh Japanese cuisine, blending casual
+  vibes with a focus on authentic flavors. This cozy eatery specializes in a
+  variety of sushi rolls and other specialties, making it a go-to choice for
+  those exploring top-rated sushi options nearby. With its emphasis on
+  high-quality ingredients and accessible features like wheelchair-friendly
+  entrances, it caters to a wide range of diners seeking a relaxed meal. The
+  atmosphere invites patrons to unwind, enhanced by thoughtful touches that
+  evoke a charming, intimate setting. Whether you're searching for sushi places
+  near me or simply craving a satisfying Japanese dining experience, this spot
+  delivers on freshness and affordability.
+generative_summary: >-
+  Discover Sushi Totoro in Santa Cruz$$$Sushi Totoro in Santa Cruz, CA, stands
+  out as a welcoming spot for enjoying fresh Japanese cuisine, blending casual
+  vibes with a focus on authentic flavors. This cozy eatery specializes in a
+  variety of sushi rolls and other specialties, making it a go-to choice for
+  those exploring top-rated sushi options nearby. With its emphasis on
+  high-quality ingredients and accessible features like wheelchair-friendly
+  entrances, it caters to a wide range of diners seeking a relaxed meal. The
+  atmosphere invites patrons to unwind, enhanced by thoughtful touches that
+  evoke a charming, intimate setting. Whether you're searching for sushi places
+  near me or simply craving a satisfying Japanese dining experience, this spot
+  delivers on freshness and affordability.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Folks rave about the tasty dishes at this sushi
+  spot, particularly the flavorful miso soup, sashimi, and creative rolls that
+  highlight super-fresh fish and quality ingredients. Many appreciate the
+  friendly service and reasonable prices, along with the fun, inviting
+  atmosphere that adds a nice touch of personality to the meal. While the space
+  can feel a bit tight during busy times, it doesn't overshadow the overall
+  positive experience that keeps people coming back. Overall, it's a solid pick
+  for anyone looking for reliable, enjoyable sushi that's easy on the wallet and
+  full of flavor. If you're hunting for the best sushi near me, this place often
+  hits the mark with its approachable vibe and satisfying options.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -224,7 +366,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -5,4 +5,5 @@ permalink: /nevada/reno/
 stateAbbr: NV
 stateName: Nevada
 cityName: Reno
+
 ---

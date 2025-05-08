@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Republic"
+title: Sushi Republic
 permalink: /north-carolina/greensboro/sushi-republic.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Greensboro
 seo:
-  name: "Sushi Republic"
-  type: Restaurant
+  type: restaurant
   links: http://www.sushirepublicgso.com/
-description: "Dark-wood interior & a patio offer options to dine on creative maki rolls, bento boxes & noodles. Sushi Republic serves delicious sushi in Greensboro, North Carolina. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJF0nEpj8ZU4gR-WT1UDFdO48
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 0
 website: http://www.sushirepublicgso.com/
+description: >-
+  Explore Sushi Republic in Greensboro, NC$$$Nestled in the heart of Greensboro,
+  NC, Sushi Republic stands out as a premier spot for authentic Japanese
+  cuisine, offering a welcoming atmosphere with creative maki rolls and fresh
+  sashimi that delight sushi enthusiasts. The restaurant features a cozy
+  dark-wood interior and a relaxing patio, making it ideal for casual dining or
+  enjoying bento boxes and flavorful noodles in a kid-friendly setting. Visitors
+  can savor a variety of Japanese dishes that highlight high-quality ingredients
+  and thoughtful preparation, perfect for those seeking sushi restaurants near
+  me. With options like inventive rolls and satisfying sides, it's a go-to
+  choice for anyone exploring the best sushi experiences in the area. This
+  establishment combines accessibility with a focus on fresh flavors, ensuring a
+  memorable meal for families and groups alike.
+generative_summary: >-
+  Explore Sushi Republic in Greensboro, NC$$$Nestled in the heart of Greensboro,
+  NC, Sushi Republic stands out as a premier spot for authentic Japanese
+  cuisine, offering a welcoming atmosphere with creative maki rolls and fresh
+  sashimi that delight sushi enthusiasts. The restaurant features a cozy
+  dark-wood interior and a relaxing patio, making it ideal for casual dining or
+  enjoying bento boxes and flavorful noodles in a kid-friendly setting. Visitors
+  can savor a variety of Japanese dishes that highlight high-quality ingredients
+  and thoughtful preparation, perfect for those seeking sushi restaurants near
+  me. With options like inventive rolls and satisfying sides, it's a go-to
+  choice for anyone exploring the best sushi experiences in the area. This
+  establishment combines accessibility with a focus on fresh flavors, ensuring a
+  memorable meal for families and groups alike.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJF0nEpj8ZU4gR-WT1UDFdO48/reviews/ChdDSUhNMG9nS0VJQ0FnSUR2OS1pRXdnRRAB
@@ -358,6 +383,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQ5aDlhV3BRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQ5aDlhV3BRRRAB!2m1!1s0x8853193fa6c44917:0x8f3b5d3150f564f9
+review_summary: >-
+  Buzz Around Sushi Republic$$$Folks heading to sushi spots in Greensboro often
+  rave about the fresh and creative rolls that make this place a standout for
+  tasty Japanese fare, with many highlighting the generous portions and variety
+  on offer. While most diners appreciate the welcoming vibe and attentive
+  service that enhance the overall experience, a few note that some dishes might
+  not hit the mark every time, keeping things balanced and real. The sake
+  selection and outdoor seating add to the charm, making it a solid pick for
+  casual meetups or quick bites of top-rated sushi close to me. Overall,
+  customers enjoy the reasonable prices and kid-friendly options, painting a
+  picture of a reliable spot that delivers on flavor without breaking the bank.
+  If you're on the hunt for sushi places near me, this location frequently earns
+  praise for its approachable atmosphere and solid food choices.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -390,8 +429,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Dark-wood interior & a patio offer options to dine on creative maki rolls,
   bento boxes & noodles.
 

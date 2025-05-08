@@ -5,4 +5,5 @@ permalink: /alaska/anchorage/
 stateAbbr: AK
 stateName: Alaska
 cityName: Anchorage
+
 ---

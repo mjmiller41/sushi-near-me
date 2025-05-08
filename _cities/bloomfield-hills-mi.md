@@ -5,4 +5,5 @@ permalink: /michigan/bloomfield-hills/
 stateAbbr: MI
 stateName: Michigan
 cityName: Bloomfield Hills
+
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Maki Yaki 22"
+title: Maki Yaki 22
 permalink: /california/loma-linda/maki-yaki-22.html
 stateAbbr: CA
 stateName: California
 cityName: Loma Linda
 seo:
-  name: "Maki Yaki 22"
-  type: Restaurant
+  type: restaurant
   links: https://www.makiyaki22.com/
-description: "Maki Yaki 22 serves delicious sushi in Loma Linda, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJc8k-YZ2r3IARMLn4uhqHznE
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80dcab9d613ec973:0x71ce871abaf8b930!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:00 PM'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -178,54 +234,370 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:00 PM'
     - 'Saturday: 11:00 AM – 9:00 PM'
     - 'Sunday: 11:00 AM – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 9:00 PM'
-    - 'Saturday: 11:00 AM – 9:00 PM'
-    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: false
+    periods:
+      - open:
+          day: 0
+          hour: 20
+          minute: 0
+        close:
+          day: 0
+          hour: 21
+          minute: 30
+      - open:
+          day: 1
+          hour: 14
+          minute: 0
+        close:
+          day: 1
+          hour: 16
+          minute: 0
+      - open:
+          day: 1
+          hour: 20
+          minute: 0
+        close:
+          day: 1
+          hour: 21
+          minute: 30
+      - open:
+          day: 2
+          hour: 14
+          minute: 0
+        close:
+          day: 2
+          hour: 16
+          minute: 0
+      - open:
+          day: 2
+          hour: 20
+          minute: 0
+        close:
+          day: 2
+          hour: 21
+          minute: 30
+      - open:
+          day: 3
+          hour: 14
+          minute: 0
+        close:
+          day: 3
+          hour: 16
+          minute: 0
+      - open:
+          day: 3
+          hour: 20
+          minute: 0
+        close:
+          day: 3
+          hour: 21
+          minute: 30
+      - open:
+          day: 4
+          hour: 14
+          minute: 0
+        close:
+          day: 4
+          hour: 16
+          minute: 0
+      - open:
+          day: 4
+          hour: 20
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 30
+      - open:
+          day: 5
+          hour: 20
+          minute: 0
+        close:
+          day: 5
+          hour: 21
+          minute: 30
+      - open:
+          day: 6
+          hour: 20
+          minute: 0
+        close:
+          day: 6
+          hour: 21
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 2:00 – 4:00 PM, 8:00 – 9:30 PM'
+      - 'Tuesday: 2:00 – 4:00 PM, 8:00 – 9:30 PM'
+      - 'Wednesday: 2:00 – 4:00 PM, 8:00 – 9:30 PM'
+      - 'Thursday: 2:00 – 4:00 PM, 8:00 – 9:30 PM'
+      - 'Friday: 8:00 – 9:30 PM'
+      - 'Saturday: 8:00 – 9:30 PM'
+      - 'Sunday: 8:00 – 9:30 PM'
+    secondaryHoursType: HAPPY_HOUR
+    nextOpenTime: '2025-05-04T03:00:00Z'
 phone: (909) 799-9773
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.4'
-rating_count: 0
+rating_count: 901
 website: https://www.makiyaki22.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Maki Yaki 22 in Loma Linda, CA$$$Maki Yaki 22 in Loma Linda, CA,
+  stands out as a relaxed destination for authentic Japanese cuisine, featuring
+  fresh sushi and a variety of satisfying options. This spot offers an inviting
+  all-you-can-eat experience that appeals to those seeking flavorful rolls and
+  traditional dishes without the fuss. With its accessible features like
+  wheelchair-friendly seating and parking, it's designed for everyone to enjoy a
+  comfortable meal. The menu highlights creative takes on classics such as
+  teriyaki and rice bowls, making it a go-to for sushi enthusiasts exploring
+  local Japanese places. Open daily with extended hours, it provides a welcoming
+  atmosphere for casual dining near you.
+generative_summary: >-
+  Discover Maki Yaki 22 in Loma Linda, CA$$$Maki Yaki 22 in Loma Linda, CA,
+  stands out as a relaxed destination for authentic Japanese cuisine, featuring
+  fresh sushi and a variety of satisfying options. This spot offers an inviting
+  all-you-can-eat experience that appeals to those seeking flavorful rolls and
+  traditional dishes without the fuss. With its accessible features like
+  wheelchair-friendly seating and parking, it's designed for everyone to enjoy a
+  comfortable meal. The menu highlights creative takes on classics such as
+  teriyaki and rice bowls, making it a go-to for sushi enthusiasts exploring
+  local Japanese places. Open daily with extended hours, it provides a welcoming
+  atmosphere for casual dining near you.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJc8k-YZ2r3IARMLn4uhqHznE/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJZ1lIYnl3RRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Looks like new owners. Food's still great. Change in the look and
+        atmosphere of the place. Still haven't tried the all you can eat. Too
+        pricey, but the updated look of the  Japanese burrito and sashimi salad
+        is still my go to...yummy.😋
+      languageCode: en
+    originalText:
+      text: >-
+        Looks like new owners. Food's still great. Change in the look and
+        atmosphere of the place. Still haven't tried the all you can eat. Too
+        pricey, but the updated look of the  Japanese burrito and sashimi salad
+        is still my go to...yummy.😋
+      languageCode: en
+    authorAttribution:
+      displayName: Danna Keller
+      uri: https://www.google.com/maps/contrib/102113108004438273152/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXz7NgRkBdKtjOsTZq1xuKZXfAWpPRVeAqvKaTBx4vhugv0yErATA=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-02T12:58:32.017296Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNJZ1lIYnl3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNJZ1lIYnl3RRAB!2m1!1s0x80dcab9d613ec973:0x71ce871abaf8b930
+  - name: >-
+      places/ChIJc8k-YZ2r3IARMLn4uhqHznE/reviews/ChZDSUhNMG9nS0VJQ0FnTURncGJxaWFnEAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 2
+    text:
+      text: >-
+        After reading revies,, I brought my wife here. My wife received a fish
+        plate, and I got  the all-you-can-eat sushi. Before one of my sushi
+        platters arrived, I ordered some ramen. My wife's fish, my ramen, and my
+        1st sushi platel were all excellent. My wife was about done with her
+        plate, and I had finished my ramen and shushi. It took me an additional
+        twenty minutes to receive my final two sushi platters. To get the
+        waitress to appear, I had to hold up my hand. She claimed that i had
+        recieved my other plates which i have not.   We did have beverages, but
+        she didn't stop by to ask how the dinner was or if we wanted anything
+        else. Just let us be until I had to get her attention.   Again the food
+        was great.  The service does need more attention to their customers.
+      languageCode: en
+    originalText:
+      text: >-
+        After reading revies,, I brought my wife here. My wife received a fish
+        plate, and I got  the all-you-can-eat sushi. Before one of my sushi
+        platters arrived, I ordered some ramen. My wife's fish, my ramen, and my
+        1st sushi platel were all excellent. My wife was about done with her
+        plate, and I had finished my ramen and shushi. It took me an additional
+        twenty minutes to receive my final two sushi platters. To get the
+        waitress to appear, I had to hold up my hand. She claimed that i had
+        recieved my other plates which i have not.   We did have beverages, but
+        she didn't stop by to ask how the dinner was or if we wanted anything
+        else. Just let us be until I had to get her attention.   Again the food
+        was great.  The service does need more attention to their customers.
+      languageCode: en
+    authorAttribution:
+      displayName: Joseph Hernandez
+      uri: https://www.google.com/maps/contrib/105038835031881839042/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWBtxw7c0I_D6jmbhQekfiv8ZoHJ30o4bEISJc_FCrmDjfhdP8=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-02-26T04:43:30.759720Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURncGJxaWFnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURncGJxaWFnEAE!2m1!1s0x80dcab9d613ec973:0x71ce871abaf8b930
+  - name: >-
+      places/ChIJc8k-YZ2r3IARMLn4uhqHznE/reviews/ChdDSUhNMG9nS0VJQ0FnSUNENXJXWWpRRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        A small, unassuming sushi eatery that will blow away your expectations.
+
+        They have an all you can eat deal for $30. That is amazing. No special
+        restrictions, no nonsense. Plus, it is all good, fresh sushi.
+
+        The service was some of the best I’ve had at any restaurant, anywhere.
+        That includes five star Michelin rated restaurant. I never wanted for
+        anything. The weight staff saw whenever I was done with a plate and
+        cleared it away. They asked me how I enjoyed everything. They asked me
+        if there was anything else they could get for me. Finally, everything
+        they did was with Grace and a smile, which I truly appreciated.
+
+        If you were in Loma Linda, California, you owe it to yourself to check
+        this place out.
+      languageCode: en
+    originalText:
+      text: >-
+        A small, unassuming sushi eatery that will blow away your expectations.
+
+        They have an all you can eat deal for $30. That is amazing. No special
+        restrictions, no nonsense. Plus, it is all good, fresh sushi.
+
+        The service was some of the best I’ve had at any restaurant, anywhere.
+        That includes five star Michelin rated restaurant. I never wanted for
+        anything. The weight staff saw whenever I was done with a plate and
+        cleared it away. They asked me how I enjoyed everything. They asked me
+        if there was anything else they could get for me. Finally, everything
+        they did was with Grace and a smile, which I truly appreciated.
+
+        If you were in Loma Linda, California, you owe it to yourself to check
+        this place out.
+      languageCode: en
+    authorAttribution:
+      displayName: Jerry Luciano
+      uri: https://www.google.com/maps/contrib/110230336672403521260/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjU6SjRV4jQnwRSj9MAbjTVr_rweHB-HSy41XTD2_79UpU9FARP9=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2024-03-27T20:21:38.797658Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNENXJXWWpRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNENXJXWWpRRRAB!2m1!1s0x80dcab9d613ec973:0x71ce871abaf8b930
+  - name: >-
+      places/ChIJc8k-YZ2r3IARMLn4uhqHznE/reviews/ChdDSUhNMG9nS0VJQ0FnSUNMbXZEMXZBRRAB
+    relativePublishTimeDescription: 10 months ago
+    rating: 4
+    text:
+      text: >-
+        This is one of your quintessential hole-in-the-wall Japanese
+        restaurants. It's location is easy to miss. I actually drove past twice
+        because it is so conspicuous. Parking is difficult because of how small
+        the strip mall is. The food was amazing. We opted for their lunch
+        specials. There are many options as far as your proteins are concerned.
+        The combo comes with edamame, miso soup and salad. Quite a good deal if
+        you ask me. Next time, we will try the sushi and rolls too. The sashimi
+        pieces that came with my combo were nice and fresh, so I'm sure their
+        sushi will not disappoint!
+      languageCode: en
+    originalText:
+      text: >-
+        This is one of your quintessential hole-in-the-wall Japanese
+        restaurants. It's location is easy to miss. I actually drove past twice
+        because it is so conspicuous. Parking is difficult because of how small
+        the strip mall is. The food was amazing. We opted for their lunch
+        specials. There are many options as far as your proteins are concerned.
+        The combo comes with edamame, miso soup and salad. Quite a good deal if
+        you ask me. Next time, we will try the sushi and rolls too. The sashimi
+        pieces that came with my combo were nice and fresh, so I'm sure their
+        sushi will not disappoint!
+      languageCode: en
+    authorAttribution:
+      displayName: G DJ (Geri)
+      uri: https://www.google.com/maps/contrib/109154480404527212674/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjU9m6VvHhC6iWfI9hl12M2tef4z0jhpC-V0AQeHMxpAb5kz0Iv7gg=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-06-19T03:55:46.459260Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNMbXZEMXZBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNMbXZEMXZBRRAB!2m1!1s0x80dcab9d613ec973:0x71ce871abaf8b930
+  - name: >-
+      places/ChIJc8k-YZ2r3IARMLn4uhqHznE/reviews/ChZDSUhNMG9nS0VJQ0FnSUR5c2V1Q2NBEAE
+    relativePublishTimeDescription: 4 years ago
+    rating: 5
+    text:
+      text: >-
+        First time here and wow the sushi was delicious! It taste so fresh and
+        almost seems to melt in your mouth. They have all you can eat at a fair
+        price ($25.99). You definitely get your money's worth. I'm from out of
+        town but look forward to returning.
+      languageCode: en
+    originalText:
+      text: >-
+        First time here and wow the sushi was delicious! It taste so fresh and
+        almost seems to melt in your mouth. They have all you can eat at a fair
+        price ($25.99). You definitely get your money's worth. I'm from out of
+        town but look forward to returning.
+      languageCode: en
+    authorAttribution:
+      displayName: Bruno Rojas
+      uri: https://www.google.com/maps/contrib/111214783839276542787/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjW7CrmWAJq714HNlU7HjMHPttpx8f73jXfMw_20XyZbnVOtbZSB=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2021-03-12T19:33:55.639372Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR5c2V1Q2NBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR5c2V1Q2NBEAE!2m1!1s0x80dcab9d613ec973:0x71ce871abaf8b930
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors often rave about the fresh and tasty
+  sushi at this Loma Linda gem, highlighting it as a solid choice for affordable
+  all-you-can-eat deals that deliver great value. While the food consistently
+  impresses with its quality and variety, some note that service can
+  occasionally feel inconsistent during busier times, though it's generally
+  attentive and friendly. Overall, folks appreciate the welcoming vibe and
+  generous portions, making it a favorite for groups or families looking for
+  reliable sushi spots nearby. If you're on the hunt for top-rated sushi
+  restaurants, this place earns praise for its straightforward appeal and
+  satisfying meals. In the end, it's a spot that keeps diners coming back for
+  the flavorful experience, with room for minor improvements in pacing.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
 menu_for_children: null
 outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
 serves_cocktails: null
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Unfussy stop for sushi, sashimi & Japanese entrees such as teriyaki, noodles &
+  rice bowls.
 
 ---

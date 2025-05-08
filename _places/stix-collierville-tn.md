@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Stix"
+title: Stix
 permalink: /tennessee/collierville/stix.html
 stateAbbr: TN
 stateName: Tennessee
 cityName: Collierville
 seo:
-  name: "Stix"
-  type: Restaurant
-  links: null
-description: "Stix serves delicious sushi in Collierville, Tennessee. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.stixonline.com/
 place_id: ChIJQQ0wu-2Xf4gR71V74TQEpog
 photos:
   - name: >-
@@ -170,8 +168,113 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x887f97edbb300d41:0x88a60434e17b55ef!10e5
 primary_type: Asian Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 20
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 2:00 PM, 4:30 – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 2:00 PM, 4:30 – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 2:00 PM, 4:30 – 9:00 PM'
+    - 'Thursday: 11:00 AM – 2:00 PM, 4:30 – 9:00 PM'
+    - 'Friday: 11:00 AM – 2:00 PM, 4:30 – 9:00 PM'
+    - 'Saturday: 12:00 – 9:00 PM'
+    - 'Sunday: 11:30 AM – 8:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +282,45 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (901) 854-3399
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.1'
+rating_count: 941
+website: http://www.stixonline.com/
+description: >-
+  Explore Stix in Collierville, TN$$$Stix in Collierville, TN, stands out as a
+  welcoming Asian restaurant offering a blend of Pan-Asian flavors in a
+  laid-back atmosphere. Guests can enjoy a variety of dishes, including fresh
+  sushi rolls and sizzling hibachi options, all prepared with attention to
+  quality and taste. The spot features accessible amenities like
+  wheelchair-friendly parking and entrances, making it convenient for everyone
+  to savor their meal. With flexible hours that cater to lunch and dinner
+  crowds, it's an ideal choice for those seeking flavorful Asian cuisine in a
+  relaxed setting.
+generative_summary: >-
+  Explore Stix in Collierville, TN$$$Stix in Collierville, TN, stands out as a
+  welcoming Asian restaurant offering a blend of Pan-Asian flavors in a
+  laid-back atmosphere. Guests can enjoy a variety of dishes, including fresh
+  sushi rolls and sizzling hibachi options, all prepared with attention to
+  quality and taste. The spot features accessible amenities like
+  wheelchair-friendly parking and entrances, making it convenient for everyone
+  to savor their meal. With flexible hours that cater to lunch and dinner
+  crowds, it's an ideal choice for those seeking flavorful Asian cuisine in a
+  relaxed setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Guests Are Buzzing About$$$Visitors to this Asian eatery often praise the
+  fresh sushi and hibachi dishes for their bold flavors and consistent quality,
+  making it a go-to spot for tasty meals in the area. Many highlight the
+  friendly service and comfortable vibe that enhance the overall dining
+  experience, with plenty of positive nods to the value for the price. While
+  some mention minor waits during peak times, the general consensus leans toward
+  satisfaction, especially for families or groups looking for reliable options.
+  Overall, the solid rating reflects a welcoming environment that's worth trying
+  for anyone craving top-notch Asian fare nearby.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +346,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

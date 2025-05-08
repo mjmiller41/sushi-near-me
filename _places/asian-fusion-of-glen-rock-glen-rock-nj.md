@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "asian fusion of glen rock"
+title: asian fusion of glen rock
 permalink: /new-jersey/glen-rock/asian-fusion-of-glen-rock.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Glen Rock
 seo:
-  name: "asian fusion of glen rock"
-  type: Restaurant
-  links: null
-description: "asian fusion of glen rock serves delicious sushi in Glen Rock, New Jersey. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.asianfusionglenrocknj.com/
 place_id: ChIJ4fxDNDb7wokR7KPsI9xGWyo
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c2fb363443fce1:0x2a5b46dc23eca3ec!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 10:00 PM'
+    - 'Tuesday: 11:00 AM – 10:00 PM'
+    - 'Wednesday: 11:00 AM – 10:00 PM'
+    - 'Thursday: 11:00 AM – 10:00 PM'
+    - 'Friday: 11:00 AM – 10:30 PM'
+    - 'Saturday: 11:00 AM – 10:30 PM'
+    - 'Sunday: 12:00 – 10:00 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,51 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
+phone: (201) 252-8888
 price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+price_range: $10 &ndash; $20
+rating: '4.6'
+rating_count: 140
+website: https://www.asianfusionglenrocknj.com/
+description: >-
+  Discover Asian Fusion in Glen Rock, NJ$$$Asian Fusion of Glen Rock in Glen
+  Rock, NJ, stands out as a welcoming spot for enjoying fresh sushi and
+  Japanese-inspired dishes in a relaxed setting. This casual eatery combines
+  traditional flavors with creative twists, offering a menu that includes
+  flavorful sushi rolls, classic Japanese fare, and refreshing bubble tea
+  options to satisfy a variety of tastes. With its accessible features like
+  wheelchair-friendly entrances and seating, it's designed to accommodate
+  everyone looking for an easy dining experience. The restaurant maintains
+  convenient hours, making it a great choice for quick lunches or evening
+  outings, and its vibrant atmosphere adds to the appeal for those seeking
+  nearby Japanese cuisine.
+generative_summary: >-
+  Discover Asian Fusion in Glen Rock, NJ$$$Asian Fusion of Glen Rock in Glen
+  Rock, NJ, stands out as a welcoming spot for enjoying fresh sushi and
+  Japanese-inspired dishes in a relaxed setting. This casual eatery combines
+  traditional flavors with creative twists, offering a menu that includes
+  flavorful sushi rolls, classic Japanese fare, and refreshing bubble tea
+  options to satisfy a variety of tastes. With its accessible features like
+  wheelchair-friendly entrances and seating, it's designed to accommodate
+  everyone looking for an easy dining experience. The restaurant maintains
+  convenient hours, making it a great choice for quick lunches or evening
+  outings, and its vibrant atmosphere adds to the appeal for those seeking
+  nearby Japanese cuisine.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Buzzing About$$$Folks heading to this sushi spot often
+  highlight the consistently fresh ingredients and well-prepared dishes that
+  make meals feel special without breaking the bank. Many appreciate the
+  attentive service and cozy vibe that enhance the overall dining experience,
+  turning a simple meal into a enjoyable outing. Based on the strong ratings,
+  it's clear that the variety of options, from creative rolls to satisfying
+  entrees, keeps customers coming back for more. While opinions vary, the
+  general consensus leans positive, with plenty of praise for the value and
+  taste that make it a solid pick for groups or solo diners. Overall, it's a
+  reliable choice for anyone craving quality Japanese eats nearby, encouraging
+  repeat visits for its dependable flavors and welcoming feel.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +312,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

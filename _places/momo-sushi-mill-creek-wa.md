@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "MoMo Sushi"
+title: MoMo Sushi
 permalink: /washington/mill-creek/momo-sushi.html
 stateAbbr: WA
 stateName: Washington
 cityName: Mill Creek
 seo:
-  name: "MoMo Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://momosushimillcreek.com/
-description: "MoMo Sushi serves delicious sushi in Mill Creek, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJv-y_9JAFkFQR3lgKB5AsWHA
 photos:
   - name: >-
@@ -170,7 +168,105 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x54900590f4bfecbf:0x70582c90070a58de!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 15
+        minute: 0
+    - open:
+        day: 0
+        hour: 16
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 15
+        minute: 0
+    - open:
+        day: 6
+        hour: 16
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 2:30 PM, 4:30 – 9:00 PM'
     - 'Tuesday: Closed'
     - 'Wednesday: 11:30 AM – 2:30 PM, 4:30 – 9:00 PM'
@@ -178,14 +274,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 2:30 PM, 4:30 – 9:00 PM'
     - 'Saturday: 11:30 AM – 3:00 PM, 4:30 – 9:00 PM'
     - 'Sunday: 11:30 AM – 3:00 PM, 4:30 – 9:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 2:30 PM, 4:30 – 9:00 PM'
-    - 'Tuesday: Closed'
-    - 'Wednesday: 11:30 AM – 2:30 PM, 4:30 – 9:00 PM'
-    - 'Thursday: 11:30 AM – 2:30 PM, 4:30 – 9:00 PM'
-    - 'Friday: 11:30 AM – 2:30 PM, 4:30 – 9:00 PM'
-    - 'Saturday: 11:30 AM – 3:00 PM, 4:30 – 9:00 PM'
-    - 'Sunday: 11:30 AM – 3:00 PM, 4:30 – 9:00 PM'
+  nextOpenTime: '2025-05-03T23:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +286,244 @@ phone: (425) 225-6590
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.5'
-rating_count: 0
+rating_count: 446
 website: http://momosushimillcreek.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover MoMo Sushi in Mill Creek, Washington$$$MoMo Sushi in Mill Creek,
+  Washington, stands out as a casual spot for enjoying traditional sushi and
+  Japanese dishes crafted with fresh, local ingredients. This welcoming eatery
+  emphasizes quality fare that highlights organic elements, making it a go-to
+  choice for those seeking authentic Japanese cuisine near you. With
+  accessibility features like wheelchair-friendly entrances and seating, it's
+  designed to accommodate a variety of diners looking for a relaxed meal. The
+  menu extends beyond sushi rolls to include flavorful appetizers and entrees,
+  paired with options like beer and wine for a complete dining experience.
+  Operating with moderate pricing, it's an ideal stop for anyone exploring
+  top-rated sushi restaurants in the area.
+generative_summary: >-
+  Discover MoMo Sushi in Mill Creek, Washington$$$MoMo Sushi in Mill Creek,
+  Washington, stands out as a casual spot for enjoying traditional sushi and
+  Japanese dishes crafted with fresh, local ingredients. This welcoming eatery
+  emphasizes quality fare that highlights organic elements, making it a go-to
+  choice for those seeking authentic Japanese cuisine near you. With
+  accessibility features like wheelchair-friendly entrances and seating, it's
+  designed to accommodate a variety of diners looking for a relaxed meal. The
+  menu extends beyond sushi rolls to include flavorful appetizers and entrees,
+  paired with options like beer and wine for a complete dining experience.
+  Operating with moderate pricing, it's an ideal stop for anyone exploring
+  top-rated sushi restaurants in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJv-y_9JAFkFQR3lgKB5AsWHA/reviews/ChZDSUhNMG9nS0VJQ0FnSUR2OUlET09BEAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 4
+    text:
+      text: >-
+        We went there Sunday night right after they opened for the evening. It
+        was a small place to eat and wasn’t crowded until we left. If you’re
+        looking for a fine dining experience this is not the right one.
+
+        Food was good, but nothing special. The Tokyo roll was the best one
+        among what we had as well as our server recommended. Service was fine.
+      languageCode: en
+    originalText:
+      text: >-
+        We went there Sunday night right after they opened for the evening. It
+        was a small place to eat and wasn’t crowded until we left. If you’re
+        looking for a fine dining experience this is not the right one.
+
+        Food was good, but nothing special. The Tokyo roll was the best one
+        among what we had as well as our server recommended. Service was fine.
+      languageCode: en
+    authorAttribution:
+      displayName: Bella A
+      uri: https://www.google.com/maps/contrib/103155766431303835060/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKxKQFRxw6E0DjMw2OsjfRHe4xGzFVPshL7_craMB33GlOfZow=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-12-18T03:34:41.070769Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR2OUlET09BEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR2OUlET09BEAE!2m1!1s0x54900590f4bfecbf:0x70582c90070a58de
+  - name: >-
+      places/ChIJv-y_9JAFkFQR3lgKB5AsWHA/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ3N3FXQUFnEAE
+    relativePublishTimeDescription: 8 months ago
+    rating: 5
+    text:
+      text: >-
+        This is the perfect sushi spot. Everything is fresh and delicious and I
+        would eat here every day if I could. Whatever your taste is they have a
+        roll for it. The appetizers are also delicious and their katsu is well
+        made and delicious as well. Thoughtful packing for take out and delivery
+        as well ensures best eating experience no matter what. Eating there is a
+        treat though highly recommend
+      languageCode: en
+    originalText:
+      text: >-
+        This is the perfect sushi spot. Everything is fresh and delicious and I
+        would eat here every day if I could. Whatever your taste is they have a
+        roll for it. The appetizers are also delicious and their katsu is well
+        made and delicious as well. Thoughtful packing for take out and delivery
+        as well ensures best eating experience no matter what. Eating there is a
+        treat though highly recommend
+      languageCode: en
+    authorAttribution:
+      displayName: Jasmine S
+      uri: https://www.google.com/maps/contrib/108554667111197786610/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjW8F-tkI7HOvH48k6F-gu6RfvNAXrbKB_LPJ9B7pnfY3uQeVIhovQ=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2024-08-24T15:57:13.185966Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQ3N3FXQUFnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQ3N3FXQUFnEAE!2m1!1s0x54900590f4bfecbf:0x70582c90070a58de
+  - name: >-
+      places/ChIJv-y_9JAFkFQR3lgKB5AsWHA/reviews/ChZDSUhNMG9nS0VJQ0FnSUM3Nkw2cFFBEAE
+    relativePublishTimeDescription: 8 months ago
+    rating: 5
+    text:
+      text: >-
+        The happy hour was pretty good 🌟. I enjoyed my Takoyaki they really
+        good price. also enjoyed the beer and I wish I took a picture of my
+        sushi. I enjoyed chilling at the sushi bar. I don’t mind eating alone. I
+        like taking pictures of food.
+      languageCode: en
+    originalText:
+      text: >-
+        The happy hour was pretty good 🌟. I enjoyed my Takoyaki they really
+        good price. also enjoyed the beer and I wish I took a picture of my
+        sushi. I enjoyed chilling at the sushi bar. I don’t mind eating alone. I
+        like taking pictures of food.
+      languageCode: en
+    authorAttribution:
+      displayName: Carrie wink
+      uri: https://www.google.com/maps/contrib/100636192755907970166/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXItGacMXd8rNdsg1TF5fWSSR83XTlR6yI_WryQZmgIjLCF2A=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-08-12T04:15:03.793268Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUM3Nkw2cFFBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUM3Nkw2cFFBEAE!2m1!1s0x54900590f4bfecbf:0x70582c90070a58de
+  - name: >-
+      places/ChIJv-y_9JAFkFQR3lgKB5AsWHA/reviews/ChZDSUhNMG9nS0VJQ0FnSURmamRYYlV3EAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 3
+    text:
+      text: >-
+        The food was good, but we don’t appreciate how they upcharged us without
+        telling us that it’s be more than double. The avocado roll was listed at
+        $5.50. We asked if we can add cucumber too. They said yes but didn’t
+        mention anything about extra charge. When we got the bill, it was $12
+        per roll instead of $5.50 (and we ordered two rolls)
+
+        This feels very dishonest, and puts us off form coming back.
+      languageCode: en
+    originalText:
+      text: >-
+        The food was good, but we don’t appreciate how they upcharged us without
+        telling us that it’s be more than double. The avocado roll was listed at
+        $5.50. We asked if we can add cucumber too. They said yes but didn’t
+        mention anything about extra charge. When we got the bill, it was $12
+        per roll instead of $5.50 (and we ordered two rolls)
+
+        This feels very dishonest, and puts us off form coming back.
+      languageCode: en
+    authorAttribution:
+      displayName: Carrie
+      uri: https://www.google.com/maps/contrib/100774382634559700792/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWDPGbYMNph-lPDcMBr1_dyHGeweebC9BqZCXQh32r-QzFE7dqY_Q=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-01-09T04:23:05.006088Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURmamRYYlV3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURmamRYYlV3EAE!2m1!1s0x54900590f4bfecbf:0x70582c90070a58de
+  - name: >-
+      places/ChIJv-y_9JAFkFQR3lgKB5AsWHA/reviews/ChZDSUhNMG9nS0VJQ0FnSUR4ajlhcFZ3EAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        There’s a nice atmosphere to this place that gives it a cozy and
+        welcoming feeling. Even when all the tables are full it doesn’t seem
+        busy because of their use of space.
+
+
+        The food was fresh and fantastic, and I can’t wait to go back to try
+        some of their other dishes. Their prices and great staff really top off
+        the experience making this place a great choice for a nice, quiet lunch
+        or dinner.
+      languageCode: en
+    originalText:
+      text: >-
+        There’s a nice atmosphere to this place that gives it a cozy and
+        welcoming feeling. Even when all the tables are full it doesn’t seem
+        busy because of their use of space.
+
+
+        The food was fresh and fantastic, and I can’t wait to go back to try
+        some of their other dishes. Their prices and great staff really top off
+        the experience making this place a great choice for a nice, quiet lunch
+        or dinner.
+      languageCode: en
+    authorAttribution:
+      displayName: Toast Busters
+      uri: https://www.google.com/maps/contrib/110301286396896323348/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXg5-K-e-vFGdGOZwtQi_L42_-ibBWfSs-wgAVQJZK5ku31EkvC=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2023-06-17T04:25:57.195793Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR4ajlhcFZ3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR4ajlhcFZ3EAE!2m1!1s0x54900590f4bfecbf:0x70582c90070a58de
+review_summary: >-
+  What Customers Are Saying About the Experience$$$Visitors often praise the
+  fresh flavors and variety at this sushi spot, with many highlighting the
+  delicious rolls and appetizers that hit the mark for different tastes.
+  Feedback frequently notes the cozy atmosphere that makes it feel inviting,
+  perfect for a quick lunch or casual dinner with friends. While most enjoy the
+  reasonable prices and thoughtful takeout options, a few mentions of unexpected
+  add-ons remind folks to clarify customizations upfront. Overall, the service
+  comes across as friendly and efficient, contributing to a generally positive
+  vibe that keeps people coming back. If you're in the mood for reliable
+  Japanese places near me, this location delivers a solid experience with room
+  for minor improvements.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
 menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
 serves_breakfast: null
-serves_brunch: null
+serves_brunch: false
 serves_cocktails: null
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

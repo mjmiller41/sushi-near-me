@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kona Grill - Alpharetta"
+title: Kona Grill - Alpharetta
 permalink: /georgia/alpharetta/kona-grill-alpharetta.html
 stateAbbr: GA
 stateName: Georgia
 cityName: Alpharetta
 seo:
-  name: "Kona Grill - Alpharetta"
-  type: Restaurant
+  type: restaurant
   links: https://konagrill.com/locations?locations=Alpharetta
-description: "Sleek chain with a broad New American menu including low-calorie options, plus sushi & cocktails. Kona Grill - Alpharetta serves delicious sushi in Alpharetta, Georgia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJRRImroZ19YgRIuf_eUYDaMQ
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: null
 rating: '4.5'
 rating_count: 0
 website: https://konagrill.com/locations?locations=Alpharetta
+description: >-
+  Discover Kona Grill in Alpharetta, Georgia$$$Nestled in Alpharetta, Georgia,
+  Kona Grill stands out as a polished dining spot offering a blend of global
+  flavors that cater to various tastes, including fresh seafood and expertly
+  crafted rolls. This contemporary restaurant features an inviting atmosphere
+  with options for both indoor and outdoor seating, making it ideal for casual
+  meetups or special occasions. Diners can enjoy a menu that highlights
+  innovative dishes alongside low-calorie choices, ensuring there's something
+  for everyone seeking quality meals in a vibrant setting. The establishment's
+  commitment to accessibility and variety extends to its bar selections, where
+  cocktails complement the overall experience. With its focus on global fare,
+  Kona Grill serves as a go-to destination for those exploring top-rated sushi
+  options and American-inspired cuisine in the area.
+generative_summary: >-
+  Discover Kona Grill in Alpharetta, Georgia$$$Nestled in Alpharetta, Georgia,
+  Kona Grill stands out as a polished dining spot offering a blend of global
+  flavors that cater to various tastes, including fresh seafood and expertly
+  crafted rolls. This contemporary restaurant features an inviting atmosphere
+  with options for both indoor and outdoor seating, making it ideal for casual
+  meetups or special occasions. Diners can enjoy a menu that highlights
+  innovative dishes alongside low-calorie choices, ensuring there's something
+  for everyone seeking quality meals in a vibrant setting. The establishment's
+  commitment to accessibility and variety extends to its bar selections, where
+  cocktails complement the overall experience. With its focus on global fare,
+  Kona Grill serves as a go-to destination for those exploring top-rated sushi
+  options and American-inspired cuisine in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJRRImroZ19YgRIuf_eUYDaMQ/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3dDhfb0JREAE
@@ -384,6 +409,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNfbzRxTU9BEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNfbzRxTU9BEAE!2m1!1s0x88f57586ae261245:0xc468034679ffe722
+review_summary: >-
+  What Guests Are Buzzing About$$$Visitors often praise Kona Grill for its tasty
+  dishes like flavorful sushi rolls and hearty entrees, which make for a
+  satisfying meal in a lively environment. Many appreciate the attentive service
+  that keeps things running smoothly, from helpful recommendations during happy
+  hours to ensuring a welcoming vibe on the patio. While most feedback
+  highlights the great value of specials and the overall fun atmosphere, a few
+  note that portions might feel a bit small for the price on certain items.
+  Overall, the spot comes across as a solid choice for groups or families
+  looking for a mix of American favorites and fresh bites, with the added bonus
+  of friendly staff and a relaxed setting. If you're in the mood for reliable
+  sushi spots nearby, this place delivers a generally positive experience that's
+  worth checking out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -416,8 +455,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Sleek chain with a broad New American menu including low-calorie options, plus
   sushi & cocktails.
 

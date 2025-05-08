@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ichiban Japanese Grill & Sushi"
+title: Ichiban Japanese Grill & Sushi
 permalink: /illinois/freeport/ichiban-japanese-grill-sushi.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Freeport
 seo:
-  name: "Ichiban Japanese Grill & Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://m.facebook.com/IchibanJapaneseGrillAndSushi
-description: "Ichiban Japanese Grill & Sushi serves delicious sushi in Freeport, Illinois. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJGfyiGIVrCIgRXrTFLGQexag
 photos:
   - name: >-
@@ -170,7 +168,49 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x88086b8518a2fc19:0xa8c51e642cc5b45e!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 20
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 20
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:00 AM – 8:30 PM'
     - 'Wednesday: 11:00 AM – 8:30 PM'
@@ -178,14 +218,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 8:30 PM'
     - 'Saturday: 11:00 AM – 8:30 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:00 AM – 8:30 PM'
-    - 'Wednesday: 11:00 AM – 8:30 PM'
-    - 'Thursday: 11:00 AM – 8:30 PM'
-    - 'Friday: 11:00 AM – 8:30 PM'
-    - 'Saturday: 11:00 AM – 8:30 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T01:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +230,48 @@ phone: (815) 232-7734
 price_level: PRICE_LEVEL_INEXPENSIVE
 price_range: $10 &ndash; $20
 rating: '4.5'
-rating_count: 0
+rating_count: 191
 website: https://m.facebook.com/IchibanJapaneseGrillAndSushi
+description: >-
+  Discover Ichiban Japanese Grill & Sushi in Freeport, IL$$$In Freeport, IL,
+  Ichiban Japanese Grill & Sushi stands out as a go-to spot for authentic
+  Japanese flavors, featuring fresh sushi and bento boxes in a laid-back
+  environment. Nestled within a convenient shopping center, this restaurant
+  offers a welcoming atmosphere ideal for casual dining, with options that cater
+  to various tastes and preferences. Accessibility features like
+  wheelchair-friendly parking and entrances ensure everyone can enjoy the
+  experience, making it a thoughtful choice for all visitors. Operating from
+  late morning through evening on most days, it's perfect for quick lunches or
+  relaxed dinners, blending traditional fare with modern convenience. For those
+  exploring top-rated sushi restaurants nearby, Ichiban delivers a satisfying
+  blend of quality ingredients and a serene vibe that keeps diners coming back.
+generative_summary: >-
+  Discover Ichiban Japanese Grill & Sushi in Freeport, IL$$$In Freeport, IL,
+  Ichiban Japanese Grill & Sushi stands out as a go-to spot for authentic
+  Japanese flavors, featuring fresh sushi and bento boxes in a laid-back
+  environment. Nestled within a convenient shopping center, this restaurant
+  offers a welcoming atmosphere ideal for casual dining, with options that cater
+  to various tastes and preferences. Accessibility features like
+  wheelchair-friendly parking and entrances ensure everyone can enjoy the
+  experience, making it a thoughtful choice for all visitors. Operating from
+  late morning through evening on most days, it's perfect for quick lunches or
+  relaxed dinners, blending traditional fare with modern convenience. For those
+  exploring top-rated sushi restaurants nearby, Ichiban delivers a satisfying
+  blend of quality ingredients and a serene vibe that keeps diners coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying About Ichiban$$$Folks who stop by Ichiban Japanese
+  Grill & Sushi often rave about the fresh, flavorful sushi that hits the spot
+  every time, making it a solid pick for anyone craving Japanese-inspired meals.
+  Many appreciate the great value on offer, with portions that feel generous
+  without stretching the budget, adding to the overall appeal. The service tends
+  to be friendly and efficient, helping create a comfortable dining experience
+  that leaves a positive impression. If you're on the hunt for reliable sushi
+  spots close to Freeport, IL, this place frequently gets nods for its tasty
+  dishes and welcoming feel. All in all, the feedback paints a picture of a
+  go-to favorite that's worth checking out for a relaxed and enjoyable meal.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +297,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

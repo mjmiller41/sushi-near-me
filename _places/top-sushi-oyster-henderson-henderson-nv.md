@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Top Sushi & Oyster Henderson"
+title: Top Sushi & Oyster Henderson
 permalink: /nevada/henderson/top-sushi-oyster-henderson.html
 stateAbbr: NV
 stateName: Nevada
 cityName: Henderson
 seo:
-  name: "Top Sushi & Oyster Henderson"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Top Sushi & Oyster Henderson serves delicious sushi in Henderson, Nevada. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ-SgdQ4TRyIAR0ltOCmtcBq0
 photos:
   - name: >-
@@ -185,7 +183,44 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Top Sushi & Oyster in Henderson, NV$$$Top Sushi & Oyster in
+  Henderson, NV, stands out as a welcoming spot for fresh sushi enthusiasts,
+  offering a relaxed atmosphere perfect for casual dining. This establishment
+  features an extensive array of rolls, oysters, and sake selections, along with
+  appealing all-you-can-eat choices that cater to those seeking variety in their
+  meals. Accessibility is a key highlight, with options like wheelchair-friendly
+  parking and entrances making it easy for everyone to enjoy the experience. The
+  menu draws from Japanese influences, providing a satisfying blend of flavors
+  that appeal to both locals and visitors looking for quality sushi options
+  nearby. Whether you're in the mood for inventive dishes or classic favorites,
+  this spot delivers a straightforward yet enjoyable dining vibe.
+generative_summary: >-
+  Discover Top Sushi & Oyster in Henderson, NV$$$Top Sushi & Oyster in
+  Henderson, NV, stands out as a welcoming spot for fresh sushi enthusiasts,
+  offering a relaxed atmosphere perfect for casual dining. This establishment
+  features an extensive array of rolls, oysters, and sake selections, along with
+  appealing all-you-can-eat choices that cater to those seeking variety in their
+  meals. Accessibility is a key highlight, with options like wheelchair-friendly
+  parking and entrances making it easy for everyone to enjoy the experience. The
+  menu draws from Japanese influences, providing a satisfying blend of flavors
+  that appeal to both locals and visitors looking for quality sushi options
+  nearby. Whether you're in the mood for inventive dishes or classic favorites,
+  this spot delivers a straightforward yet enjoyable dining vibe.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Sharing$$$Visitors often rave about the all-you-can-eat
+  deals at this sushi spot, highlighting the fresh variety of options like
+  nigiri and oysters that make for a satisfying meal. Many appreciate the
+  generous portions and quick, friendly service that keeps things feeling light
+  and efficient, ideal for groups or a casual night out. Folks frequently
+  mention the tasty additions, such as baked green mussels and unique desserts,
+  adding a fun twist to the overall experience. While opinions vary, the general
+  buzz leans positive, with praise for the attentive staff and solid value that
+  encourages repeat visits. Overall, it's a go-to choice for anyone in the area
+  wanting reliable, flavorful sushi without the fuss.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +246,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

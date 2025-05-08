@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Shoshin Sushi"
+title: Shoshin Sushi
 permalink: /california/san-francisco/shoshin-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
 seo:
-  name: "Shoshin Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.shoshinsushi.com/
-description: "Shoshin Sushi serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJh2ztUceHhYARDUiV7CU1sGQ
 photos:
   - name: >-
@@ -168,7 +166,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x808587c751ed6c87:0x64b03525ec95480d!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 5:00 – 9:00 PM'
     - 'Tuesday: 5:00 – 9:00 PM'
     - 'Wednesday: 5:00 – 9:00 PM'
@@ -176,54 +232,362 @@ opening_hours:
     - 'Friday: 5:00 – 9:00 PM'
     - 'Saturday: 5:00 – 9:00 PM'
     - 'Sunday: 5:00 – 9:00 PM'
-  current:
-    - 'Monday: 5:00 – 9:00 PM'
-    - 'Tuesday: 5:00 – 9:00 PM'
-    - 'Wednesday: 5:00 – 9:00 PM'
-    - 'Thursday: 5:00 – 9:00 PM'
-    - 'Friday: 5:00 – 9:00 PM'
-    - 'Saturday: 5:00 – 9:00 PM'
-    - 'Sunday: 5:00 – 9:00 PM'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: false
+    periods:
+      - open:
+          day: 0
+          hour: 17
+          minute: 0
+        close:
+          day: 0
+          hour: 18
+          minute: 0
+      - open:
+          day: 1
+          hour: 17
+          minute: 0
+        close:
+          day: 1
+          hour: 18
+          minute: 0
+      - open:
+          day: 2
+          hour: 17
+          minute: 0
+        close:
+          day: 2
+          hour: 18
+          minute: 0
+      - open:
+          day: 3
+          hour: 17
+          minute: 0
+        close:
+          day: 3
+          hour: 18
+          minute: 0
+      - open:
+          day: 4
+          hour: 17
+          minute: 0
+        close:
+          day: 4
+          hour: 18
+          minute: 0
+      - open:
+          day: 6
+          hour: 17
+          minute: 0
+        close:
+          day: 6
+          hour: 18
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 5:00 – 6:00 PM'
+      - 'Tuesday: 5:00 – 6:00 PM'
+      - 'Wednesday: 5:00 – 6:00 PM'
+      - 'Thursday: 5:00 – 6:00 PM'
+      - 'Friday: Closed'
+      - 'Saturday: 5:00 – 6:00 PM'
+      - 'Sunday: 5:00 – 6:00 PM'
+    secondaryHoursType: HAPPY_HOUR
+    nextOpenTime: '2025-05-04T00:00:00Z'
 phone: (415) 386-8008
 price_level: PRICE_LEVEL_MODERATE
 price_range: $50 &ndash; $100
 rating: '4.5'
-rating_count: 0
+rating_count: 54
 website: https://www.shoshinsushi.com/
-reviews: null
+description: >-
+  Discover Shoshin Sushi in San Francisco, CA$$$Shoshin Sushi in San Francisco,
+  CA, provides an inviting spot for Japanese dining, featuring a cozy atmosphere
+  perfect for enjoying fresh sushi and omakase-style meals. The restaurant
+  emphasizes high-quality ingredients and thoughtful presentations, making it a
+  go-to choice for those seeking authentic flavors in a welcoming setting. With
+  its moderate pricing and accessibility features, it's easy to appreciate the
+  blend of traditional techniques and everyday convenience, ideal for a
+  memorable evening out. Patrons can explore a variety of sushi options,
+  including daily specials that highlight seasonal catches, all within a space
+  that balances comfort and culinary excellence.
+generative_summary: >-
+  Discover Shoshin Sushi in San Francisco, CA$$$Shoshin Sushi in San Francisco,
+  CA, provides an inviting spot for Japanese dining, featuring a cozy atmosphere
+  perfect for enjoying fresh sushi and omakase-style meals. The restaurant
+  emphasizes high-quality ingredients and thoughtful presentations, making it a
+  go-to choice for those seeking authentic flavors in a welcoming setting. With
+  its moderate pricing and accessibility features, it's easy to appreciate the
+  blend of traditional techniques and everyday convenience, ideal for a
+  memorable evening out. Patrons can explore a variety of sushi options,
+  including daily specials that highlight seasonal catches, all within a space
+  that balances comfort and culinary excellence.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJh2ztUceHhYARDUiV7CU1sGQ/reviews/ChZDSUhNMG9nS0VJQ0FnSUNQc0o3UmR3EAE
+    relativePublishTimeDescription: 5 months ago
+    rating: 3
+    text:
+      text: >-
+        visited the establishment on November 18th on my birthday. The cafe is
+        small and cozy. The food is delicious: I really liked the Daigo Shot,
+        fish fins and cheeks, good spicy beef, fried breaded oysters - I really
+        liked them. Everything is inexpensive and the price is reasonable.
+        Unfortunately, I can't give it 5 stars because of the huge noise, the
+        shouts of the guests who were sitting next to each other and shouting so
+        much that it was impossible to hear each other at the table. It turned
+        out that I ordered a cozy little quiet restaurant, but got into a beer
+        bar for loud visitors. Conclusion: not suitable for a quiet visit of a
+        couple or family for a cozy dinner. Be prepared for the noise from the
+        guests and waiters who shout at each other with the regular guests of
+        the establishment.
+      languageCode: en
+    originalText:
+      text: >-
+        visited the establishment on November 18th on my birthday. The cafe is
+        small and cozy. The food is delicious: I really liked the Daigo Shot,
+        fish fins and cheeks, good spicy beef, fried breaded oysters - I really
+        liked them. Everything is inexpensive and the price is reasonable.
+        Unfortunately, I can't give it 5 stars because of the huge noise, the
+        shouts of the guests who were sitting next to each other and shouting so
+        much that it was impossible to hear each other at the table. It turned
+        out that I ordered a cozy little quiet restaurant, but got into a beer
+        bar for loud visitors. Conclusion: not suitable for a quiet visit of a
+        couple or family for a cozy dinner. Be prepared for the noise from the
+        guests and waiters who shout at each other with the regular guests of
+        the establishment.
+      languageCode: en
+    authorAttribution:
+      displayName: Nataliia “NSH” Chernysh
+      uri: https://www.google.com/maps/contrib/110240266352355067259/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUexteZu0T7fuiiarlG-eSuDHa5Pj9VsgzvL6599ay-TiGozjCA=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-11-20T22:40:22.308230Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNQc0o3UmR3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNQc0o3UmR3EAE!2m1!1s0x808587c751ed6c87:0x64b03525ec95480d
+  - name: >-
+      places/ChIJh2ztUceHhYARDUiV7CU1sGQ/reviews/ChZDSUhNMG9nS0VJQ0FnTUNveUx1T0lREAE
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        I could die happy after every meal here. The sushi is so good it makes
+        me dizzy. Fresh cuts of fish with the perfect garnish and spiced rice.
+        Every single fish they offer is top of the line, mouthwateringly good,
+        and new options every time. My family has been taking me here for years,
+        and they never disappoint. There is a warm and welcoming vibe from the
+        staff, they always love to see us, and give us great recommendations and
+        treats every time we go. It’s very cozy in there, and feeling like part
+        of the Shoshin family makes it even cozier.
+      languageCode: en
+    originalText:
+      text: >-
+        I could die happy after every meal here. The sushi is so good it makes
+        me dizzy. Fresh cuts of fish with the perfect garnish and spiced rice.
+        Every single fish they offer is top of the line, mouthwateringly good,
+        and new options every time. My family has been taking me here for years,
+        and they never disappoint. There is a warm and welcoming vibe from the
+        staff, they always love to see us, and give us great recommendations and
+        treats every time we go. It’s very cozy in there, and feeling like part
+        of the Shoshin family makes it even cozier.
+      languageCode: en
+    authorAttribution:
+      displayName: Sunil Prabhu
+      uri: https://www.google.com/maps/contrib/112036927864629962668/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVu6OuR15WxcISJjtQ65trtKzzUWO7y9lwqVbiNIJq2W1IxKAF5=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-14T17:51:11.534518Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNveUx1T0lREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNveUx1T0lREAE!2m1!1s0x808587c751ed6c87:0x64b03525ec95480d
+  - name: >-
+      places/ChIJh2ztUceHhYARDUiV7CU1sGQ/reviews/ChZDSUhNMG9nS0VJQ0FnSUNIa3VEN2RREAE
+    relativePublishTimeDescription: 8 months ago
+    rating: 5
+    text:
+      text: >-
+        THIS is a traditional-style sushi restaurant with a
+        traditionally-trained (and very experienced) chef at the helm and I am
+        so happy for that! For those who understand the interactive aspect of
+        sushi eating, this is YOUR place to check out. Gary-san is willing to
+        share with those who know how to appreciate the culture and artistry
+        beyond just coming in to dine (which is fine too if you’re looking for
+        good value as well). The fish is all so fresh and delicious - they have
+        a daily special menu with items directly shipped from Japan so you’re
+        getting the same quality as you would there. I love saba (mackrel) and
+        it was amazing so I’ll share my analysis: not fishy at all, a subtle and
+        wonderfully complex flavor, with a pleasing texture that I look for in
+        high-quality saba. In short, each fish we had was so distinct and had
+        wonderful character. We loved everything so much we entrusted him as
+        well to recommend three items by the evening’s end. A final remark: the
+        tamago (egg) was so unique and one of the few places that I’ve seen done
+        in the cake-style. It was a great way to end the meal, which was
+        all-around spectacular. Will come again as a returning customer who used
+        to go to the previous location, Daigo. For those who knew him, Gary-san
+        used to work there too! He’s back and has plenty to share for those
+        appreciative for sushi done RIGHT.
+      languageCode: en
+    originalText:
+      text: >-
+        THIS is a traditional-style sushi restaurant with a
+        traditionally-trained (and very experienced) chef at the helm and I am
+        so happy for that! For those who understand the interactive aspect of
+        sushi eating, this is YOUR place to check out. Gary-san is willing to
+        share with those who know how to appreciate the culture and artistry
+        beyond just coming in to dine (which is fine too if you’re looking for
+        good value as well). The fish is all so fresh and delicious - they have
+        a daily special menu with items directly shipped from Japan so you’re
+        getting the same quality as you would there. I love saba (mackrel) and
+        it was amazing so I’ll share my analysis: not fishy at all, a subtle and
+        wonderfully complex flavor, with a pleasing texture that I look for in
+        high-quality saba. In short, each fish we had was so distinct and had
+        wonderful character. We loved everything so much we entrusted him as
+        well to recommend three items by the evening’s end. A final remark: the
+        tamago (egg) was so unique and one of the few places that I’ve seen done
+        in the cake-style. It was a great way to end the meal, which was
+        all-around spectacular. Will come again as a returning customer who used
+        to go to the previous location, Daigo. For those who knew him, Gary-san
+        used to work there too! He’s back and has plenty to share for those
+        appreciative for sushi done RIGHT.
+      languageCode: en
+    authorAttribution:
+      displayName: Mason Tong
+      uri: https://www.google.com/maps/contrib/116849577540813332948/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXRHIzDtph5v6JLHPEIE-7-_wkDelsx6ulh9aFqU04mb8ZG8mBs=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-09-03T04:04:47.189571Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNIa3VEN2RREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNIa3VEN2RREAE!2m1!1s0x808587c751ed6c87:0x64b03525ec95480d
+  - name: >-
+      places/ChIJh2ztUceHhYARDUiV7CU1sGQ/reviews/ChZDSUhNMG9nS0VJQ0FnSUNIMHBiLWN3EAE
+    relativePublishTimeDescription: 8 months ago
+    rating: 5
+    text:
+      text: >-
+        Great quality sushi restaurant. Chef Gary is an artist. Such a pleasure
+        enjoying his creation and interpretation of fish varieties with matching
+        condiments and presentations. Each piece of nigiri sushi was unique with
+        layers of flavors. Ingredients were fresh and carefully portioned to
+        bring out the best flavors and textures. I couldn’t pick which piece was
+        my favorite. The special vinegar sushi rice compliments the fish very
+        well. Nothing taste overwhelming. Each piece stroke a good balance of
+        umami. Started with refreshing Daigo shot (quail egg with fish and ponzu
+        sauce), hotate, aoebi, Saba, waygu nigiri, Chu toro, then ventured out
+        to Chef’s Gary recommendation for ocean trout, torotaku, butter fish,
+        hamachi, anago, uni and tamago. Also ordered kaki fry and ika geso. The
+        fried items were light and crispy. If I live closer I would probably
+        come to this gem restaurant every week. Staff were tentative and
+        friendly. Very good vibe here.
+      languageCode: en
+    originalText:
+      text: >-
+        Great quality sushi restaurant. Chef Gary is an artist. Such a pleasure
+        enjoying his creation and interpretation of fish varieties with matching
+        condiments and presentations. Each piece of nigiri sushi was unique with
+        layers of flavors. Ingredients were fresh and carefully portioned to
+        bring out the best flavors and textures. I couldn’t pick which piece was
+        my favorite. The special vinegar sushi rice compliments the fish very
+        well. Nothing taste overwhelming. Each piece stroke a good balance of
+        umami. Started with refreshing Daigo shot (quail egg with fish and ponzu
+        sauce), hotate, aoebi, Saba, waygu nigiri, Chu toro, then ventured out
+        to Chef’s Gary recommendation for ocean trout, torotaku, butter fish,
+        hamachi, anago, uni and tamago. Also ordered kaki fry and ika geso. The
+        fried items were light and crispy. If I live closer I would probably
+        come to this gem restaurant every week. Staff were tentative and
+        friendly. Very good vibe here.
+      languageCode: en
+    authorAttribution:
+      displayName: V W
+      uri: https://www.google.com/maps/contrib/108821399952689735741/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocI_dvqb4C6UBLRMz5Q5UqoTdeXbcMogQn3do3T3U1zeWe-viQ=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-09-03T07:25:55.170529Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNIMHBiLWN3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNIMHBiLWN3EAE!2m1!1s0x808587c751ed6c87:0x64b03525ec95480d
+  - name: >-
+      places/ChIJh2ztUceHhYARDUiV7CU1sGQ/reviews/ChdDSUhNMG9nS0VJQ0FnTUNveU11Nm5nRRAB
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        This is quite literally my favorite restaurant in the world. The quality
+        of fish is incredible, the preparation is excellent, and most of all the
+        service is fantastic. The staff always make us feel like family and are
+        so excited about their food and sharing it with us. Sushi chef always
+        has the best recs. Highly recommend all the nigiri (especially the
+        toros) and the daigo shot.
+      languageCode: en
+    originalText:
+      text: >-
+        This is quite literally my favorite restaurant in the world. The quality
+        of fish is incredible, the preparation is excellent, and most of all the
+        service is fantastic. The staff always make us feel like family and are
+        so excited about their food and sharing it with us. Sushi chef always
+        has the best recs. Highly recommend all the nigiri (especially the
+        toros) and the daigo shot.
+      languageCode: en
+    authorAttribution:
+      displayName: Dolly
+      uri: https://www.google.com/maps/contrib/107576886297777311503/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLs0tV-CBvy_SNPw3e5Nfl3YnyqAzeOpynU2HVpqBHayU1KweU=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-14T17:47:12.695940Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNveU11Nm5nRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNveU11Nm5nRRAB!2m1!1s0x808587c751ed6c87:0x64b03525ec95480d
+review_summary: >-
+  What Customers Are Buzzing About$$$Visitors often rave about the fresh and
+  flavorful sushi at this spot, noting how the high-quality fish and creative
+  preparations make every bite a standout experience. Many appreciate the
+  welcoming vibe and attentive service that add a personal touch to meals,
+  helping to create a relaxed and enjoyable atmosphere for groups or solo
+  diners. While the cozy setup can get lively during peak times, it's generally
+  praised for offering great value and a range of specials that keep things
+  exciting and affordable. Overall, folks find it a solid pick for anyone
+  craving top-notch Japanese cuisine, with the staff's friendly recommendations
+  enhancing the overall satisfaction. If you're on the hunt for reliable sushi
+  dining nearby, this place delivers a consistently positive experience worth
+  trying.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
-payment_options: null
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
+delivery: true
+dine_in: true
+good_for_children: false
 good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
 serves_breakfast: null
 serves_brunch: null
 serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

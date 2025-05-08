@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Spot Restaurant"
+title: Sushi Spot Restaurant
 permalink: /california/tarzana/sushi-spot-restaurant.html
 stateAbbr: CA
 stateName: California
 cityName: Tarzana
 seo:
-  name: "Sushi Spot Restaurant"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi Spot Restaurant serves delicious sushi in Tarzana, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJA5korECZwoAR72OrTPsjRy8
 photos:
   - name: >-
@@ -185,7 +183,41 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Sushi Spot in Tarzana, CA$$$Sushi Spot Restaurant in Tarzana, CA,
+  stands out as a cozy haven for those craving authentic Japanese flavors and a
+  relaxed dining experience. This spot specializes in fresh sushi rolls and
+  small plates, paired with a selection of wine and beer to enhance your meal.
+  With thoughtful accessibility features like wheelchair-friendly entrances and
+  seating, it's designed to welcome everyone looking for a comfortable outing.
+  The inviting atmosphere makes it an ideal choice for locals searching for
+  quality sushi options nearby, blending traditional tastes with a modern,
+  approachable vibe that keeps diners coming back.
+generative_summary: >-
+  Discover Sushi Spot in Tarzana, CA$$$Sushi Spot Restaurant in Tarzana, CA,
+  stands out as a cozy haven for those craving authentic Japanese flavors and a
+  relaxed dining experience. This spot specializes in fresh sushi rolls and
+  small plates, paired with a selection of wine and beer to enhance your meal.
+  With thoughtful accessibility features like wheelchair-friendly entrances and
+  seating, it's designed to welcome everyone looking for a comfortable outing.
+  The inviting atmosphere makes it an ideal choice for locals searching for
+  quality sushi options nearby, blending traditional tastes with a modern,
+  approachable vibe that keeps diners coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Diners Are Saying About Sushi Spot$$$Folks often highlight the fresh
+  ingredients and creative rolls as standout features, making it a go-to for
+  satisfying sushi cravings. Many appreciate the welcoming vibe and
+  straightforward service that add to the overall enjoyment without any fuss.
+  It's frequently noted as a solid pick for casual meals, with comments on the
+  variety keeping things exciting for groups or solo visits. While some mention
+  it's best for straightforward dining rather than elaborate experiences, the
+  general buzz remains positive, positioning it as a reliable choice for anyone
+  exploring top-rated sushi spots in the area. Overall, it comes across as a
+  neighborhood favorite that delivers on flavor and comfort without
+  disappointing.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +243,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

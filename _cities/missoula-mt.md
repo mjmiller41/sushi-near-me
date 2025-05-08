@@ -5,4 +5,5 @@ permalink: /montana/missoula/
 stateAbbr: MT
 stateName: Montana
 cityName: Missoula
+
 ---

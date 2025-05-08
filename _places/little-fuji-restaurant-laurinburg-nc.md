@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Little Fuji Restaurant"
+title: Little Fuji Restaurant
 permalink: /north-carolina/laurinburg/little-fuji-restaurant.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Laurinburg
 seo:
-  name: "Little Fuji Restaurant"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Little Fuji Restaurant serves delicious sushi in Laurinburg, North Carolina. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ3ZCEmGUpVYgRQIcSpWCMId8
 photos:
   - name: >-
@@ -185,6 +183,35 @@ price_range: $10 &ndash; $20
 rating: '4.2'
 rating_count: 0
 website: null
+description: >-
+  Discover Little Fuji Restaurant in Laurinburg, NC$$$Little Fuji Restaurant in
+  Laurinburg, NC, offers a welcoming atmosphere for enjoying casual Japanese
+  dining, featuring flavorful dishes like teriyaki and spring rolls that
+  highlight fresh ingredients and familiar favorites. This spot stands out for
+  its accessible features, including wheelchair-friendly parking and seating,
+  making it a convenient choice for a wide range of diners seeking sushi
+  restaurants in the area. Patrons can savor a variety of options, from tasty
+  wontons to satisfying entrees, all served in a laid-back setting that appeals
+  to those exploring Japanese places near me. The menu's affordability and
+  selection of vegetarian-friendly choices add to its charm, providing a solid
+  option for families or groups looking for reliable sushi experiences close to
+  home. With its operational status and delivery services, it's an easy go-to
+  for anyone craving top-rated sushi in Laurinburg.
+generative_summary: >-
+  Discover Little Fuji Restaurant in Laurinburg, NC$$$Little Fuji Restaurant in
+  Laurinburg, NC, offers a welcoming atmosphere for enjoying casual Japanese
+  dining, featuring flavorful dishes like teriyaki and spring rolls that
+  highlight fresh ingredients and familiar favorites. This spot stands out for
+  its accessible features, including wheelchair-friendly parking and seating,
+  making it a convenient choice for a wide range of diners seeking sushi
+  restaurants in the area. Patrons can savor a variety of options, from tasty
+  wontons to satisfying entrees, all served in a laid-back setting that appeals
+  to those exploring Japanese places near me. The menu's affordability and
+  selection of vegetarian-friendly choices add to its charm, providing a solid
+  option for families or groups looking for reliable sushi experiences close to
+  home. With its operational status and delivery services, it's an easy go-to
+  for anyone craving top-rated sushi in Laurinburg.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ3ZCEmGUpVYgRQIcSpWCMId8/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3MVBmLXZBRRAB
@@ -328,6 +355,21 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURULS1XWkh3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURULS1XWkh3EAE!2m1!1s0x88552965988490dd:0xdf218c60a5128740
+review_summary: >-
+  What Customers Are Buzzing About$$$Visitors to Little Fuji Restaurant often
+  praise the fresh and delicious food, especially the special sushi rolls and
+  bento boxes that offer a fun way to sample a bit of everything, making it a
+  hit for those hunting for the best sushi near me. Many appreciate the friendly
+  service and decent prices, noting that it's a popular spot for quick takeout
+  or dine-in meals that feel satisfying and well-prepared. While one experience
+  highlighted concerns with portion sizes during delivery, the overall vibe
+  remains positive with folks enjoying flavorful wings and sides that add
+  variety to the menu. It's clear that the restaurant's accessibility and
+  family-friendly vibe contribute to its appeal, encouraging repeat visits for
+  casual Japanese eats. All in all, if you're in the mood for reliable sushi
+  places near me, this spot delivers a generally enjoyable experience with room
+  for the occasional tweak.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -361,7 +403,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

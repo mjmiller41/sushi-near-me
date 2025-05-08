@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Tomo Izakaya Japanese Sushi and Grill"
+title: Tomo Izakaya Japanese Sushi and Grill
 permalink: /virginia/centreville/tomo-izakaya-japanese-sushi-and-grill.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Centreville
 seo:
-  name: "Tomo Izakaya Japanese Sushi and Grill"
-  type: Restaurant
+  type: restaurant
   links: http://www.tomosushigrill.com/
-description: "Cozy, laid-back izakaya in a strip mall with late hours & a sushi bar, plus Japanese entrees & sake. Tomo Izakaya Japanese Sushi and Grill serves delicious sushi in Centreville, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJNd7n5fxEtokR29eJKuaJ4iI
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 0
 website: http://www.tomosushigrill.com/
+description: >-
+  Experience Tomo Izakaya in Centreville, VA$$$Tomo Izakaya Japanese Sushi and
+  Grill in Centreville, VA, offers a relaxed atmosphere perfect for enjoying
+  authentic Japanese flavors in a convenient strip mall setting. This casual
+  eatery specializes in fresh sushi rolls and hibachi-style dishes, complemented
+  by a selection of cocktails that enhance the dining experience. With its focus
+  on quality ingredients and a variety of options for different tastes, it's an
+  ideal spot for those seeking sushi restaurants near me that deliver both
+  variety and value. The establishment's extended hours make it a go-to choice
+  for late-night cravings, ensuring you can savor expertly prepared entrees in a
+  welcoming environment. Whether you're in the mood for classic Japanese fare or
+  something more adventurous, this spot stands out for its approachable vibe and
+  commitment to flavorful meals.
+generative_summary: >-
+  Experience Tomo Izakaya in Centreville, VA$$$Tomo Izakaya Japanese Sushi and
+  Grill in Centreville, VA, offers a relaxed atmosphere perfect for enjoying
+  authentic Japanese flavors in a convenient strip mall setting. This casual
+  eatery specializes in fresh sushi rolls and hibachi-style dishes, complemented
+  by a selection of cocktails that enhance the dining experience. With its focus
+  on quality ingredients and a variety of options for different tastes, it's an
+  ideal spot for those seeking sushi restaurants near me that deliver both
+  variety and value. The establishment's extended hours make it a go-to choice
+  for late-night cravings, ensuring you can savor expertly prepared entrees in a
+  welcoming environment. Whether you're in the mood for classic Japanese fare or
+  something more adventurous, this spot stands out for its approachable vibe and
+  commitment to flavorful meals.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJNd7n5fxEtokR29eJKuaJ4iI/reviews/ChdDSUhNMG9nS0VJQ0FnTURBejRtWGd3RRAB
@@ -350,6 +375,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURQcmZlcDJnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURQcmZlcDJnRRAB!2m1!1s0x89b644fce5e7de35:0x22e289e62a89d7db
+review_summary: >-
+  Customer Feedback Highlights$$$Folks who've dined here often praise the wide
+  array of sushi and Japanese dishes for their fresh flavors and generous
+  portions, making it a solid pick for anyone hunting for top-rated sushi near
+  me. Many appreciate how the restaurant handles dietary needs while keeping
+  things tasty and accommodating, leading to satisfying meals that leave you
+  wanting more. Reviews frequently highlight the great value of specials like
+  hibachi lunches and unique sides that balance taste and texture just right,
+  all served in a friendly atmosphere. Overall, the consistent positives around
+  service and food quality paint a picture of a reliable spot that's perfect for
+  casual get-togethers or solo visits. If you're exploring Japanese places near
+  me, this one comes through with solid, enjoyable experiences that keep the
+  good vibes flowing.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -382,8 +421,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Cozy, laid-back izakaya in a strip mall with late hours & a sushi bar, plus
   Japanese entrees & sake.
 

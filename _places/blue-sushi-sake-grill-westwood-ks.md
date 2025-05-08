@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Blue Sushi Sake Grill"
+title: Blue Sushi Sake Grill
 permalink: /kansas/westwood/blue-sushi-sake-grill.html
 stateAbbr: KS
 stateName: Kansas
 cityName: Westwood
 seo:
-  name: "Blue Sushi Sake Grill"
-  type: Restaurant
-  links: null
-description: "Blue Sushi Sake Grill serves delicious sushi in Westwood, Kansas. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://bluesushisakegrill.com/
 place_id: ChIJcxEotjfuwIcReSrdcAGPWB0
 photos:
   - name: >-
@@ -170,22 +168,190 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x87c0ee37b6281173:0x1d588f0170dd2a79!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 9:00 PM'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 10:00 PM'
+    - 'Saturday: 12:00 – 10:00 PM'
+    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
-phone: null
-price_level: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 0
+        close:
+          day: 0
+          hour: 21
+          minute: 0
+      - open:
+          day: 1
+          hour: 11
+          minute: 0
+        close:
+          day: 1
+          hour: 18
+          minute: 30
+      - open:
+          day: 2
+          hour: 11
+          minute: 0
+        close:
+          day: 2
+          hour: 18
+          minute: 30
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 18
+          minute: 30
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 18
+          minute: 30
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 18
+          minute: 30
+      - open:
+          day: 6
+          hour: 12
+          minute: 0
+        close:
+          day: 6
+          hour: 18
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 11:00 AM – 6:30 PM'
+      - 'Tuesday: 11:00 AM – 6:30 PM'
+      - 'Wednesday: 11:00 AM – 6:30 PM'
+      - 'Thursday: 11:00 AM – 6:30 PM'
+      - 'Friday: 11:00 AM – 6:30 PM'
+      - 'Saturday: 12:00 – 6:30 PM'
+      - 'Sunday: 12:00 – 9:00 PM'
+    secondaryHoursType: HAPPY_HOUR
+    nextCloseTime: '2025-05-03T23:30:00Z'
+phone: (913) 236-6100
+price_level: PRICE_LEVEL_MODERATE
 price_range: null
-rating: null
-rating_count: 0
-website: null
+rating: '4.6'
+rating_count: 2537
+website: http://bluesushisakegrill.com/
+description: >-
+  Discover Blue Sushi Sake Grill in Westwood, KS$$$Blue Sushi Sake Grill in
+  Westwood, KS, stands out as a modern dining spot specializing in fresh,
+  sustainable sushi that appeals to a variety of tastes. This restaurant offers
+  an array of creative rolls along with thoughtful vegan and gluten-free
+  choices, making it a welcoming option for health-conscious diners seeking
+  Japanese-inspired cuisine. Paired with a carefully selected sake menu, the
+  atmosphere combines trendy vibes with accessibility features like
+  wheelchair-friendly parking and seating, enhancing the overall experience.
+  Whether you're exploring local sushi options or looking for a spot to enjoy
+  innovative flavors, this place delivers on quality and variety in a vibrant
+  setting. Its commitment to sustainable practices ensures that every visit
+  feels both enjoyable and responsible.
+generative_summary: >-
+  Discover Blue Sushi Sake Grill in Westwood, KS$$$Blue Sushi Sake Grill in
+  Westwood, KS, stands out as a modern dining spot specializing in fresh,
+  sustainable sushi that appeals to a variety of tastes. This restaurant offers
+  an array of creative rolls along with thoughtful vegan and gluten-free
+  choices, making it a welcoming option for health-conscious diners seeking
+  Japanese-inspired cuisine. Paired with a carefully selected sake menu, the
+  atmosphere combines trendy vibes with accessibility features like
+  wheelchair-friendly parking and seating, enhancing the overall experience.
+  Whether you're exploring local sushi options or looking for a spot to enjoy
+  innovative flavors, this place delivers on quality and variety in a vibrant
+  setting. Its commitment to sustainable practices ensures that every visit
+  feels both enjoyable and responsible.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Diners$$$Folks rave about the diverse selection of sushi rolls
+  at this spot, especially the creative vegan varieties that bring fresh twists
+  to classic favorites, making it a go-to for plant-based eaters. Many
+  appreciate the attentive service that keeps things running smoothly,
+  contributing to a lively and welcoming vibe that enhances the meal. Reviewers
+  often highlight the modern atmosphere as a fun backdrop for casual outings or
+  group gatherings, adding to the overall enjoyment without overwhelming the
+  experience. While some note it's a solid pick for everyday sushi cravings, the
+  general consensus leans positive, emphasizing great value and flavorful dishes
+  that leave you satisfied. If you're hunting for top-rated sushi nearby, this
+  place consistently delivers a balanced mix of taste, service, and ambiance
+  that keeps customers coming back.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +377,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

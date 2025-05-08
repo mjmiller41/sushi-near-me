@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "The Pearl Chinese and Thai"
+title: The Pearl Chinese and Thai
 permalink: /georgia/alpharetta/the-pearl-chinese-and-thai.html
 stateAbbr: GA
 stateName: Georgia
 cityName: Alpharetta
 seo:
-  name: "The Pearl Chinese and Thai"
-  type: Restaurant
+  type: restaurant
   links: https://www.thepearlchinesethaiga.com/
-description: "No-nonsense venue in a strip mall serving a large menu of Asian favorites & a Sunday lunch buffet. The Pearl Chinese and Thai serves delicious sushi in Alpharetta, Georgia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJRX6iq0B19YgRTWT3gKah7EI
 photos:
   - name: >-
@@ -185,6 +183,37 @@ price_range: null
 rating: '3.9'
 rating_count: 0
 website: https://www.thepearlchinesethaiga.com/
+description: >-
+  Discover The Pearl Chinese and Thai in Alpharetta, GA$$$Nestled in Alpharetta,
+  GA, The Pearl Chinese and Thai offers a straightforward dining experience in a
+  convenient strip mall location, specializing in a wide array of authentic
+  Asian dishes that blend traditional flavors with generous portions. This spot
+  stands out for its extensive menu featuring Chinese and Thai favorites,
+  including hearty options like egg foo young and flavorful noodle soups, making
+  it ideal for those seeking satisfying meals at affordable prices.
+  Accessibility is a key highlight, with wheelchair-friendly parking, entrances,
+  and seating that ensure everyone can enjoy the vibrant atmosphere.
+  Additionally, the restaurant provides options for dine-in, takeout, and
+  delivery, complemented by a Sunday lunch buffet that draws in locals looking
+  for variety. Whether you're in the mood for bold Thai curries or classic
+  Chinese stir-fries, this venue delivers a no-fuss approach to Asian cuisine
+  that's perfect for casual outings or family gatherings.
+generative_summary: >-
+  Discover The Pearl Chinese and Thai in Alpharetta, GA$$$Nestled in Alpharetta,
+  GA, The Pearl Chinese and Thai offers a straightforward dining experience in a
+  convenient strip mall location, specializing in a wide array of authentic
+  Asian dishes that blend traditional flavors with generous portions. This spot
+  stands out for its extensive menu featuring Chinese and Thai favorites,
+  including hearty options like egg foo young and flavorful noodle soups, making
+  it ideal for those seeking satisfying meals at affordable prices.
+  Accessibility is a key highlight, with wheelchair-friendly parking, entrances,
+  and seating that ensure everyone can enjoy the vibrant atmosphere.
+  Additionally, the restaurant provides options for dine-in, takeout, and
+  delivery, complemented by a Sunday lunch buffet that draws in locals looking
+  for variety. Whether you're in the mood for bold Thai curries or classic
+  Chinese stir-fries, this venue delivers a no-fuss approach to Asian cuisine
+  that's perfect for casual outings or family gatherings.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJRX6iq0B19YgRTWT3gKah7EI/reviews/ChdDSUhNMG9nS0VJQ0FnSURobG8tUWtnRRAB
@@ -324,6 +353,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNBbGVEdUdnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNBbGVEdUdnEAE!2m1!1s0x88f57540aba27e45:0x42eca1a680f7644d
+review_summary: >-
+  What Guests Are Saying About The Pearl$$$Visitors often rave about the
+  generous portions and flavorful dishes that make meals here feel like a great
+  value, with many highlighting the tasty appetizers and satisfying entrees that
+  keep them coming back. Feedback frequently notes the welcoming environment and
+  friendly service, creating a relaxed vibe that's ideal for groups or solo
+  diners seeking comfort food. While some experiences vary, with meals
+  occasionally hitting the mark for exceptional taste and others being more
+  average, the overall consensus leans positive due to the reliable quality and
+  variety available. Folks appreciate the ample servings that can easily feed a
+  crowd, making it a smart choice for takeout on busy days. All in all, this
+  spot maintains a solid reputation for solid Asian fare that's worth trying if
+  you're exploring local options for a casual bite.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -357,8 +400,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   No-nonsense venue in a strip mall serving a large menu of Asian favorites & a
   Sunday lunch buffet.
 

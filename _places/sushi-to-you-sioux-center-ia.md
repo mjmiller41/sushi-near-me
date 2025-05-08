@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi to You"
+title: Sushi to You
 permalink: /iowa/sioux-center/sushi-to-you.html
 stateAbbr: IA
 stateName: Iowa
 cityName: Sioux Center
 seo:
-  name: "Sushi to You"
-  type: Restaurant
+  type: restaurant
   links: https://www.sushitoyou.shop/
-description: "Sushi to You serves delicious sushi in Sioux Center, Iowa. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJoTPqy5czjIcRpi7gmWgYG9Q
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $10 &ndash; $20
 rating: '4.9'
 rating_count: 0
 website: https://www.sushitoyou.shop/
+description: >-
+  Discover Sushi to You in Sioux Center, IA$$$Sushi to You in Sioux Center, IA,
+  stands out as a welcoming spot for enjoying fresh Japanese-inspired cuisine in
+  a relaxed setting. This casual eatery focuses on comforting dishes, healthy
+  choices, and tasty small plates, making it ideal for anyone seeking a quick
+  and satisfying meal. Its kid-friendly vibe and accessibility features, like
+  easy parking and entrances, enhance the overall experience for families and
+  groups. Patrons can opt for dine-in or takeout, perfect for those exploring
+  sushi spots in the area. Whether you're in the mood for light, flavorful
+  options or a convenient meal, this place delivers a comfortable atmosphere
+  that caters to everyday dining needs.
+generative_summary: >-
+  Discover Sushi to You in Sioux Center, IA$$$Sushi to You in Sioux Center, IA,
+  stands out as a welcoming spot for enjoying fresh Japanese-inspired cuisine in
+  a relaxed setting. This casual eatery focuses on comforting dishes, healthy
+  choices, and tasty small plates, making it ideal for anyone seeking a quick
+  and satisfying meal. Its kid-friendly vibe and accessibility features, like
+  easy parking and entrances, enhance the overall experience for families and
+  groups. Patrons can opt for dine-in or takeout, perfect for those exploring
+  sushi spots in the area. Whether you're in the mood for light, flavorful
+  options or a convenient meal, this place delivers a comfortable atmosphere
+  that caters to everyday dining needs.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJoTPqy5czjIcRpi7gmWgYG9Q/reviews/ChdDSUhNMG9nS0VJQ0FnSURYNW9udGtRRRAB
@@ -332,6 +353,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUMzdXRUTUhnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUMzdXRUTUhnEAE!2m1!1s0x878c3397cbea33a1:0xd41b186899e02ea6
+review_summary: >-
+  What Customers Are Saying About This Spot$$$Visitors often highlight the
+  straightforward ordering process and the flavorful rolls as standout features
+  of this local sushi option, making it a go-to for hassle-free meals. While
+  some note that certain fried items could be crispier, the signature sauces add
+  a delicious twist that keeps things enjoyable. Overall, the quick service and
+  clean environment earn high marks, appealing to those looking for reliable
+  nearby choices. Many appreciate the simple menu for its tasty hits, especially
+  when craving something fresh and accessible. It's a solid pick for sushi
+  enthusiasts in the region, with feedback generally leaning positive despite
+  minor suggestions for more variety.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -363,7 +396,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

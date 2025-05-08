@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Hama Sushi"
+title: Hama Sushi
 permalink: /virginia/herndon/hama-sushi.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Herndon
 seo:
-  name: "Hama Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.hama-sushi.com/
-description: "Strip-mall restaurant serving creative rolls & other Japanese fare, with a midsized sake selection. Hama Sushi serves delicious sushi in Herndon, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJwTDsH5dHtokRBKBkuT2VSt0
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 0
 website: http://www.hama-sushi.com/
+description: >-
+  Discover Hama Sushi in Herndon, Virginia$$$Hama Sushi in Herndon, VA, stands
+  out as a cozy spot for fresh Japanese dining, featuring an array of creative
+  rolls and classic fare that appeals to sushi enthusiasts. This easygoing
+  eatery boasts a welcoming atmosphere where patrons can savor bento boxes and
+  other familiar dishes, complemented by a solid selection of sake for an
+  authentic touch. Accessibility is a key highlight, with options like
+  wheelchair-friendly parking and entrances making it convenient for all
+  visitors. Whether you're exploring sushi restaurants near you or seeking
+  top-rated options in the area, the focus on quality ingredients and thoughtful
+  presentation ensures a satisfying meal. Its location in a strip-mall setting
+  adds to the charm, offering a relaxed environment for casual outings or family
+  gatherings.
+generative_summary: >-
+  Discover Hama Sushi in Herndon, Virginia$$$Hama Sushi in Herndon, VA, stands
+  out as a cozy spot for fresh Japanese dining, featuring an array of creative
+  rolls and classic fare that appeals to sushi enthusiasts. This easygoing
+  eatery boasts a welcoming atmosphere where patrons can savor bento boxes and
+  other familiar dishes, complemented by a solid selection of sake for an
+  authentic touch. Accessibility is a key highlight, with options like
+  wheelchair-friendly parking and entrances making it convenient for all
+  visitors. Whether you're exploring sushi restaurants near you or seeking
+  top-rated options in the area, the focus on quality ingredients and thoughtful
+  presentation ensures a satisfying meal. Its location in a strip-mall setting
+  adds to the charm, offering a relaxed environment for casual outings or family
+  gatherings.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJwTDsH5dHtokRBKBkuT2VSt0/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJbUtiM3RRRRAB
@@ -326,6 +351,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNkay0ySFVREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNkay0ySFVREAE!2m1!1s0x89b647971fec30c1:0xdd4a953db964a004
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this sushi spot often rave about the
+  fresh and flavorful rolls that make it a go-to choice for Japanese cuisine
+  lovers. Many appreciate the friendly service and accommodating staff,
+  especially for those with dietary needs, creating a welcoming vibe for
+  families and groups. While the menu prices are considered average for the
+  region, the overall experience shines through in the consistent praise for the
+  quality and variety of dishes. A few mentions note that some entrees might not
+  hit the mark every time, but the positives far outweigh any minor letdowns,
+  keeping the focus on its reliable appeal. If you're hunting for the best sushi
+  near you, feedback suggests this place delivers a solid, enjoyable meal that
+  keeps people coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -358,8 +396,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Strip-mall restaurant serving creative rolls & other Japanese fare, with a
   midsized sake selection.
 

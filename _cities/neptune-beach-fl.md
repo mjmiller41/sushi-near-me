@@ -5,4 +5,5 @@ permalink: /florida/neptune-beach/
 stateAbbr: FL
 stateName: Florida
 cityName: Neptune Beach
+
 ---

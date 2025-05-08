@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Ann"
+title: Sushi Ann
 permalink: /new-york/new-york/sushi-ann.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "Sushi Ann"
-  type: Restaurant
+  type: restaurant
   links: http://www.sushiann.net/
-description: "Sushi & sashimi served amid traditional decor in an upscale restaurant popular for business lunches. Sushi Ann serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJZ9VmYvxYwokRxTMyUoH3dKM
 photos:
   - name: >-
@@ -184,6 +182,29 @@ price_range: $100 &ndash; & up
 rating: '4.2'
 rating_count: 0
 website: http://www.sushiann.net/
+description: >-
+  Explore Sushi Ann in New York, NY$$$Sushi Ann in New York, NY, stands out as
+  an upscale Japanese dining spot known for its fresh and meticulously prepared
+  sushi selections. The restaurant features a variety of nigiri and other
+  traditional dishes, paired with options like sake, all set in an atmosphere
+  that blends elegant decor with a focus on quality ingredients. Diners can
+  enjoy a refined experience that's popular for business meals or casual
+  outings, emphasizing accessibility features like wheelchair-friendly seating.
+  This spot appeals to those seeking top sushi restaurants in the city, offering
+  a taste of authentic Japanese flavors that make it a go-to choice for sushi
+  enthusiasts near you.
+generative_summary: >-
+  Explore Sushi Ann in New York, NY$$$Sushi Ann in New York, NY, stands out as
+  an upscale Japanese dining spot known for its fresh and meticulously prepared
+  sushi selections. The restaurant features a variety of nigiri and other
+  traditional dishes, paired with options like sake, all set in an atmosphere
+  that blends elegant decor with a focus on quality ingredients. Diners can
+  enjoy a refined experience that's popular for business meals or casual
+  outings, emphasizing accessibility features like wheelchair-friendly seating.
+  This spot appeals to those seeking top sushi restaurants in the city, offering
+  a taste of authentic Japanese flavors that make it a go-to choice for sushi
+  enthusiasts near you.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJZ9VmYvxYwokRxTMyUoH3dKM/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ3dTlUR0d3EAE
@@ -423,6 +444,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNhcjdhTzdnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNhcjdhTzdnRRAB!2m1!1s0x89c258fc6266d567:0xa374f781523233c5
+review_summary: >-
+  Customer Feedback on Sushi Ann$$$Visitors often praise Sushi Ann for its
+  fresh, high-quality fish and the engaging omakase experience that keeps things
+  exciting and authentic. Many appreciate the attentive service and cozy
+  atmosphere, making it a solid pick for a memorable meal with friends or during
+  a visit to the area. While some note that prices can run higher than expected,
+  the overall value shines through in the flavorful dishes and convenient New
+  York location. It's a favorite among sushi lovers looking for reliable spots
+  nearby, though it's wise to check for any add-ons to your order to avoid
+  surprises. All in all, this place delivers a generally positive vibe for those
+  craving top-rated sushi, as long as you're prepared for an upscale investment.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options:
   acceptsCreditCards: true
@@ -452,8 +485,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Sushi & sashimi served amid traditional decor in an upscale restaurant popular
   for business lunches.
 

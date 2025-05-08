@@ -5,4 +5,5 @@ permalink: /new-jersey/atlantic-city/
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Atlantic City
+
 ---

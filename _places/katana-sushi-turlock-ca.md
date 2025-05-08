@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Katana Sushi"
+title: Katana Sushi
 permalink: /california/turlock/katana-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Turlock
 seo:
-  name: "Katana Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Katana Sushi serves delicious sushi in Turlock, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJAVWGfB0HkYARz-7kWC2k2dQ
 photos:
   - name: >-
@@ -185,7 +183,45 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  About Katana Sushi in Turlock, CA$$$Katana Sushi in Turlock, California,
+  stands out as a welcoming spot for enjoying fresh sushi and Japanese-inspired
+  dishes in a relaxed setting. This cozy restaurant features an assortment of
+  creative rolls, traditional fare, and refreshing beverages like beer and
+  cocktails, making it ideal for casual meals or gatherings. Accessibility is a
+  key highlight, with options like wheelchair-accessible parking and seating
+  that ensure everyone can enjoy the experience comfortably. Patrons seeking
+  top-rated sushi places near me will appreciate the thoughtful menu variety and
+  inviting atmosphere that blends simplicity with authentic flavors. Whether
+  you're exploring Japanese cuisine options close to home, Katana Sushi offers a
+  straightforward yet enjoyable dining escape in the heart of the area.
+generative_summary: >-
+  About Katana Sushi in Turlock, CA$$$Katana Sushi in Turlock, California,
+  stands out as a welcoming spot for enjoying fresh sushi and Japanese-inspired
+  dishes in a relaxed setting. This cozy restaurant features an assortment of
+  creative rolls, traditional fare, and refreshing beverages like beer and
+  cocktails, making it ideal for casual meals or gatherings. Accessibility is a
+  key highlight, with options like wheelchair-accessible parking and seating
+  that ensure everyone can enjoy the experience comfortably. Patrons seeking
+  top-rated sushi places near me will appreciate the thoughtful menu variety and
+  inviting atmosphere that blends simplicity with authentic flavors. Whether
+  you're exploring Japanese cuisine options close to home, Katana Sushi offers a
+  straightforward yet enjoyable dining escape in the heart of the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Feedback from visitors to Katana Sushi often
+  highlights the fresh ingredients and tasty variety of rolls that keep things
+  exciting without overwhelming the palate. People commonly mention the
+  laid-back vibe and solid drink selections as reasons to return for casual
+  get-togethers or solo stops. While some note that service can vary depending
+  on the time, the overall consensus leans toward a positive experience with
+  generous portions that feel like good value. If you're hunting for reliable
+  sushi restaurants near me, many appreciate how this spot delivers on flavor
+  while keeping things approachable for first-timers. All in all, it's a go-to
+  choice for those who love sushi, with an honest mix of praise for the
+  essentials that make dining out worthwhile.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +247,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

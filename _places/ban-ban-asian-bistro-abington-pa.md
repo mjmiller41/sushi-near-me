@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ban Ban Asian Bistro"
+title: Ban Ban Asian Bistro
 permalink: /pennsylvania/abington/ban-ban-asian-bistro.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Abington
 seo:
-  name: "Ban Ban Asian Bistro"
-  type: Restaurant
+  type: restaurant
   links: http://www.banbanasian.com/
-description: "Ban Ban Asian Bistro serves delicious sushi in Abington, Pennsylvania. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ2ce-HU-wxokRq4LlVmZjTXI
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $10 &ndash; $20
 rating: '4.2'
 rating_count: 0
 website: http://www.banbanasian.com/
+description: >-
+  Discover Ban Ban Asian Bistro in Abington, PA$$$Ban Ban Asian Bistro in
+  Abington, PA, offers a casual dining experience with a diverse selection of
+  Asian flavors, including fresh sushi and hearty Chinese noodles that highlight
+  the restaurant's approachable vibe. The spot stands out for its accessible
+  features, such as wheelchair-friendly entrances and seating, making it a
+  welcoming choice for various diners seeking Japanese-inspired dishes and more.
+  Patrons can enjoy a menu that balances affordability with quality, featuring
+  options like flavorful noodle dishes and vegetarian selections that cater to
+  different tastes. With convenient takeout and dine-in services, it's an ideal
+  spot for those exploring sushi restaurants near me or looking for reliable
+  Asian cuisine in a relaxed setting.
+generative_summary: >-
+  Discover Ban Ban Asian Bistro in Abington, PA$$$Ban Ban Asian Bistro in
+  Abington, PA, offers a casual dining experience with a diverse selection of
+  Asian flavors, including fresh sushi and hearty Chinese noodles that highlight
+  the restaurant's approachable vibe. The spot stands out for its accessible
+  features, such as wheelchair-friendly entrances and seating, making it a
+  welcoming choice for various diners seeking Japanese-inspired dishes and more.
+  Patrons can enjoy a menu that balances affordability with quality, featuring
+  options like flavorful noodle dishes and vegetarian selections that cater to
+  different tastes. With convenient takeout and dine-in services, it's an ideal
+  spot for those exploring sushi restaurants near me or looking for reliable
+  Asian cuisine in a relaxed setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ2ce-HU-wxokRq4LlVmZjTXI/reviews/ChZDSUhNMG9nS0VJQ0FnSUNEMjhuQ1hBEAE
@@ -338,6 +361,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURBNHJ6V0VnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURBNHJ6V0VnEAE!2m1!1s0x89c6b04f1dbec7d9:0x724d636656e582ab
+review_summary: >-
+  Customer Feedback Highlights$$$Visitors often rave about the consistently
+  tasty dishes at this Asian bistro, with standout mentions of flavorful noodles
+  and fresh sushi that keep people coming back for more. Many appreciate the
+  quick service and friendly atmosphere, making it a go-to for casual meals or
+  group outings without any fuss. Feedback frequently highlights great value for
+  the price, like satisfying soups and appetizers that hit the spot for anyone
+  craving top-rated Asian options. While some note that certain items can be a
+  bit spicy, the overall experience remains positive, with plenty of praise for
+  the welcoming vibe that suits families and individuals alike searching for
+  sushi places near me. Overall, it's a solid pick for enjoyable, honest dining
+  that delivers on flavor and convenience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -370,7 +406,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

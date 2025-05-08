@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yoshi Sushi"
+title: Yoshi Sushi
 permalink: /california/palmdale/yoshi-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Palmdale
 seo:
-  name: "Yoshi Sushi"
-  type: Restaurant
-  links: null
-description: "Yoshi Sushi serves delicious sushi in Palmdale, California. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.yoshipalmdale.com/
 place_id: ChIJsb0GrbxZwoARoAV_5wLWJlQ
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c259bcad06bdb1:0x5426d602e77f05a0!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:30 AM – 9:30 PM'
+    - 'Tuesday: 11:30 AM – 9:30 PM'
+    - 'Wednesday: 11:30 AM – 9:30 PM'
+    - 'Thursday: 11:30 AM – 9:30 PM'
+    - 'Friday: 11:30 AM – 9:30 PM'
+    - 'Saturday: 11:30 AM – 9:30 PM'
+    - 'Sunday: 11:30 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T04:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,48 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
+phone: (661) 794-2009
+price_level: PRICE_LEVEL_MODERATE
 price_range: null
-rating: null
-rating_count: 0
-website: null
+rating: '4.2'
+rating_count: 752
+website: https://www.yoshipalmdale.com/
+description: >-
+  Discover Yoshi Sushi in Palmdale, CA$$$Yoshi Sushi in Palmdale, CA, stands out
+  as a go-to spot for sushi enthusiasts seeking a satisfying dining experience
+  with all-you-can-eat options and flavorful Japanese-inspired dishes. This
+  casual eatery features a variety of fresh sushi rolls, teriyaki favorites, and
+  other light fare, all served in a welcoming space that includes a full bar for
+  those looking to unwind. Accessibility is a key highlight, with features like
+  wheelchair-friendly parking and seating making it easy for everyone to enjoy a
+  meal. Whether you're exploring top sushi restaurants nearby or craving
+  something simple yet delicious, the spot's daily hours from late morning to
+  evening add to its appeal for locals and visitors alike.
+generative_summary: >-
+  Discover Yoshi Sushi in Palmdale, CA$$$Yoshi Sushi in Palmdale, CA, stands out
+  as a go-to spot for sushi enthusiasts seeking a satisfying dining experience
+  with all-you-can-eat options and flavorful Japanese-inspired dishes. This
+  casual eatery features a variety of fresh sushi rolls, teriyaki favorites, and
+  other light fare, all served in a welcoming space that includes a full bar for
+  those looking to unwind. Accessibility is a key highlight, with features like
+  wheelchair-friendly parking and seating making it easy for everyone to enjoy a
+  meal. Whether you're exploring top sushi restaurants nearby or craving
+  something simple yet delicious, the spot's daily hours from late morning to
+  evening add to its appeal for locals and visitors alike.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors to Yoshi Sushi often praise the fresh
+  flavors and generous portions, making it a solid choice for anyone hunting for
+  reliable sushi options in the area. With a strong overall rating, many
+  appreciate the variety of dishes that cater to different tastes, from classic
+  rolls to hearty teriyaki plates, creating a relaxed atmosphere that's perfect
+  for casual outings. Feedback highlights the attentive service and value for
+  money, helping it stand out among local Japanese dining spots without any
+  major drawbacks mentioned. Overall, it's clear that folks enjoy the consistent
+  quality and friendly vibe, encouraging repeat visits for those seeking the
+  best sushi experiences nearby.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +309,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

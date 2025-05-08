@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yaki Sushi"
+title: Yaki Sushi
 permalink: /virginia/chantilly/yaki-sushi.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Chantilly
 seo:
-  name: "Yaki Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.yakisushius.com/
-description: "Yaki Sushi serves delicious sushi in Chantilly, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJmd6JgapHtokRyylCm-sf6DU
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $20 &ndash; $30
 rating: '4.7'
 rating_count: 0
 website: http://www.yakisushius.com/
+description: >-
+  Discover Yaki Sushi in Chantilly, VA$$$Yaki Sushi in Chantilly, VA, provides a
+  welcoming spot for enjoying fresh sushi rolls, hibachi options, and Japanese
+  beverages in a laid-back atmosphere. This sushi restaurant stands out with its
+  modern decor and thoughtful touches, like creative presentations that enhance
+  the dining experience. Accessibility features make it easy for everyone to
+  enjoy, including wheelchair-friendly parking, entrances, and seating, paired
+  with moderate pricing that offers great value for authentic Japanese flavors.
+  Whether you're seeking sushi places near you for a casual meal or takeout, the
+  menu caters to a variety of tastes with fresh ingredients and options for
+  vegetarians. Its operational status and convenient location add to the appeal
+  for those exploring top-rated sushi in the area.
+generative_summary: >-
+  Discover Yaki Sushi in Chantilly, VA$$$Yaki Sushi in Chantilly, VA, provides a
+  welcoming spot for enjoying fresh sushi rolls, hibachi options, and Japanese
+  beverages in a laid-back atmosphere. This sushi restaurant stands out with its
+  modern decor and thoughtful touches, like creative presentations that enhance
+  the dining experience. Accessibility features make it easy for everyone to
+  enjoy, including wheelchair-friendly parking, entrances, and seating, paired
+  with moderate pricing that offers great value for authentic Japanese flavors.
+  Whether you're seeking sushi places near you for a casual meal or takeout, the
+  menu caters to a variety of tastes with fresh ingredients and options for
+  vegetarians. Its operational status and convenient location add to the appeal
+  for those exploring top-rated sushi in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJmd6JgapHtokRyylCm-sf6DU/reviews/ChZDSUhNMG9nS0VJQ0FnTUNnX29xWkhREAE
@@ -376,6 +399,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJNk9ieTRRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJNk9ieTRRRRAB!2m1!1s0x89b647aa8189de99:0x35e81feb9b4229cb
+review_summary: >-
+  What Visitors Are Raving About$$$Folks seem really excited about the fresh and
+  flavorful sushi at this spot, often highlighting how the fish tastes
+  incredibly fresh and the rolls are packed with unique twists that keep things
+  interesting. Many mention the consistently delicious hibachi dishes and
+  friendly service that makes every visit feel welcoming and smooth. The
+  atmosphere comes across as clean and comfy, with cute details like fun plating
+  adding a nice touch to the overall vibe. It's clear that diners appreciate the
+  reliable quality, making it a go-to choice for groups or families looking for
+  a satisfying meal. All in all, people are eager to return, praising it as a
+  solid pick for anyone hunting for great sushi nearby.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -408,7 +443,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

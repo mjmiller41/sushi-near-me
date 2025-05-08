@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Momotaro Sushi"
+title: Momotaro Sushi
 permalink: /virginia/richmond/momotaro-sushi.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Richmond
 seo:
-  name: "Momotaro Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Momotaro Sushi serves delicious sushi in Richmond, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJScJIn-QTsYkRtrYHIAa8T9s
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $20 &ndash; $30
 rating: '3.8'
 rating_count: 0
 website: null
+description: >-
+  Discover Momotaro Sushi in Richmond, VA$$$Momotaro Sushi in Richmond, VA,
+  stands out as a casual destination for savoring fresh sushi and
+  Japanese-inspired dishes in a welcoming neighborhood setting. This spot
+  highlights its approachable vibe with flavorful rolls and happy hour deals
+  that appeal to those seeking top-rated sushi options nearby. Accessibility
+  features like wheelchair-friendly entrances and seating ensure a comfortable
+  visit for everyone, while the menu caters to dine-in, takeout, and even
+  outdoor enthusiasts. Located in the lively Carytown area, it offers a blend of
+  authentic flavors and modern touches that make it a go-to for Japanese cuisine
+  enthusiasts exploring sushi restaurants in the region.
+generative_summary: >-
+  Discover Momotaro Sushi in Richmond, VA$$$Momotaro Sushi in Richmond, VA,
+  stands out as a casual destination for savoring fresh sushi and
+  Japanese-inspired dishes in a welcoming neighborhood setting. This spot
+  highlights its approachable vibe with flavorful rolls and happy hour deals
+  that appeal to those seeking top-rated sushi options nearby. Accessibility
+  features like wheelchair-friendly entrances and seating ensure a comfortable
+  visit for everyone, while the menu caters to dine-in, takeout, and even
+  outdoor enthusiasts. Located in the lively Carytown area, it offers a blend of
+  authentic flavors and modern touches that make it a go-to for Japanese cuisine
+  enthusiasts exploring sushi restaurants in the region.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJScJIn-QTsYkRtrYHIAa8T9s/reviews/ChZDSUhNMG9nS0VJQ0FnSUNqZ1BmWWJBEAE
@@ -384,6 +405,17 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNfaTZ6QVl3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNfaTZ6QVl3EAE!2m1!1s0x89b113e49f48c249:0xdb4fbc062007b6b6
+review_summary: >-
+  What Customers Are Saying$$$Visitors often rave about the fresh and vibrant
+  flavors of the sushi and Japanese dishes, with many highlighting standout
+  items like specialty rolls and hearty ramen as real crowd-pleasers. The
+  service comes across as friendly and efficient, adding to the relaxed dining
+  experience whether you're grabbing takeout or sitting in. Folks appreciate the
+  cozy atmosphere and solid options for groups, making it a solid choice for
+  casual meals without any fuss. Overall, it's clear that this spot delivers on
+  taste and convenience, encouraging repeat visits for anyone hunting for
+  reliable sushi places in the area.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   valetParking: false
 payment_options:
@@ -414,7 +446,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

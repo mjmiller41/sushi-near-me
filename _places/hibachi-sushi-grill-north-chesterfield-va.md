@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Hibachi & Sushi Grill"
+title: Hibachi & Sushi Grill
 permalink: /virginia/north-chesterfield/hibachi-sushi-grill.html
 stateAbbr: VA
 stateName: Virginia
 cityName: North Chesterfield
 seo:
-  name: "Hibachi & Sushi Grill"
-  type: Restaurant
+  type: restaurant
   links: http://www.hibachisushiva.com/
-description: "Hibachi & Sushi Grill serves delicious sushi in North Chesterfield, Virginia. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJU5MGvT1zsYkRFifLcZKDlkw
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89b1733dbd069353:0x4c96839271cb2716!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:00 AM – 10:00 PM'
     - 'Wednesday: 11:00 AM – 10:00 PM'
@@ -178,28 +226,113 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:30 PM'
     - 'Saturday: 11:00 AM – 10:30 PM'
     - 'Sunday: 11:00 AM – 9:30 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:00 AM – 10:00 PM'
-    - 'Wednesday: 11:00 AM – 10:00 PM'
-    - 'Thursday: 11:00 AM – 10:00 PM'
-    - 'Friday: 11:00 AM – 10:30 PM'
-    - 'Saturday: 11:00 AM – 10:30 PM'
-    - 'Sunday: 11:00 AM – 9:30 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 11
+          minute: 0
+        close:
+          day: 0
+          hour: 21
+          minute: 30
+      - open:
+          day: 2
+          hour: 11
+          minute: 0
+        close:
+          day: 2
+          hour: 21
+          minute: 30
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 21
+          minute: 30
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 30
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 21
+          minute: 30
+      - open:
+          day: 6
+          hour: 11
+          minute: 0
+        close:
+          day: 6
+          hour: 21
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: Closed'
+      - 'Tuesday: 11:00 AM – 9:30 PM'
+      - 'Wednesday: 11:00 AM – 9:30 PM'
+      - 'Thursday: 11:00 AM – 9:30 PM'
+      - 'Friday: 11:00 AM – 9:30 PM'
+      - 'Saturday: 11:00 AM – 9:30 PM'
+      - 'Sunday: 11:00 AM – 9:30 PM'
+    secondaryHoursType: DELIVERY
+    nextCloseTime: '2025-05-04T01:30:00Z'
 phone: (804) 658-5492
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '3.9'
-rating_count: 0
+rating_count: 75
 website: http://www.hibachisushiva.com/
+description: >-
+  Discover Hibachi & Sushi Grill in North Chesterfield, VA$$$Hibachi & Sushi
+  Grill in North Chesterfield, VA, stands out as a welcoming Japanese restaurant
+  nestled in a convenient shopping center, perfect for those seeking fresh sushi
+  options nearby. This spot specializes in a mix of flavorful hibachi-grilled
+  meats and artfully prepared sushi rolls, drawing in locals and visitors alike
+  with its accessible entrance and ample seating for a comfortable dining
+  experience. With moderate pricing and extended hours that cater to lunch and
+  dinner crowds, it's an ideal choice for anyone exploring top-rated Japanese
+  places in the area. The restaurant's focus on quality ingredients and
+  wheelchair-accessible features ensures a hassle-free visit, making it a go-to
+  for enjoyable meals without the fuss.
+generative_summary: >-
+  Discover Hibachi & Sushi Grill in North Chesterfield, VA$$$Hibachi & Sushi
+  Grill in North Chesterfield, VA, stands out as a welcoming Japanese restaurant
+  nestled in a convenient shopping center, perfect for those seeking fresh sushi
+  options nearby. This spot specializes in a mix of flavorful hibachi-grilled
+  meats and artfully prepared sushi rolls, drawing in locals and visitors alike
+  with its accessible entrance and ample seating for a comfortable dining
+  experience. With moderate pricing and extended hours that cater to lunch and
+  dinner crowds, it's an ideal choice for anyone exploring top-rated Japanese
+  places in the area. The restaurant's focus on quality ingredients and
+  wheelchair-accessible features ensures a hassle-free visit, making it a go-to
+  for enjoyable meals without the fuss.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About Hibachi & Sushi Grill$$$Visitors often
+  appreciate the fair pricing at this Japanese eatery, noting that the sushi
+  offers solid value and hits the spot for a casual meal. While some mention
+  that portions might feel a bit light, the overall experience still delivers on
+  fresh flavors that keep people coming back for more. Feedback highlights the
+  above-average quality of the dishes, making it a reliable pick for those
+  hunting for good sushi spots around town. On the downside, a few diners point
+  out that certain items can come across as milder in taste, but the welcoming
+  atmosphere helps balance things out. All in all, it's a spot worth trying if
+  you're in the mood for straightforward Japanese fare that generally satisfies
+  without overpromising.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +358,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

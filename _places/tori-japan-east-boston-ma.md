@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Tori Japan"
+title: Tori Japan
 permalink: /massachusetts/east-boston/tori-japan.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: East Boston
 seo:
-  name: "Tori Japan"
-  type: Restaurant
+  type: restaurant
   links: https://www.torijapan.com/
-description: "Tori Japan serves delicious sushi in East Boston, Massachusetts. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ_QQe84Vx44kRWLifkA3KAss
 photos:
   - name: >-
@@ -167,7 +165,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89e37185f31e04fd:0xcb02ca0d909fb858!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 10:00 PM'
     - 'Tuesday: 11:00 AM – 10:00 PM'
     - 'Wednesday: 11:00 AM – 10:00 PM'
@@ -175,14 +231,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:30 PM'
     - 'Saturday: 11:00 AM – 10:30 PM'
     - 'Sunday: 11:00 AM – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 10:00 PM'
-    - 'Tuesday: 11:00 AM – 10:00 PM'
-    - 'Wednesday: 11:00 AM – 10:00 PM'
-    - 'Thursday: 11:00 AM – 10:00 PM'
-    - 'Friday: 11:00 AM – 10:30 PM'
-    - 'Saturday: 11:00 AM – 10:30 PM'
-    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -194,9 +243,43 @@ phone: (617) 418-5326
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.2'
-rating_count: 0
+rating_count: 81
 website: https://www.torijapan.com/
+description: >-
+  Discover Tori Japan in East Boston, MA$$$Tori Japan in East Boston, MA, stands
+  out as a welcoming spot for enjoying authentic Japanese flavors in a laid-back
+  setting. This sushi restaurant offers a variety of fresh options like teriyaki
+  and bento boxes, perfect for those seeking sushi places near me with a casual
+  vibe. The menu highlights well-prepared dishes that blend traditional elements
+  with everyday appeal, making it an ideal choice for a relaxed meal. With its
+  moderate pricing and accessible entrance, it's easy to see why this spot
+  appeals to locals looking for reliable Japanese dining. Whether you're in the
+  mood for top-rated sushi or a quick teriyaki fix, Tori Japan delivers a
+  straightforward yet satisfying experience.
+generative_summary: >-
+  Discover Tori Japan in East Boston, MA$$$Tori Japan in East Boston, MA, stands
+  out as a welcoming spot for enjoying authentic Japanese flavors in a laid-back
+  setting. This sushi restaurant offers a variety of fresh options like teriyaki
+  and bento boxes, perfect for those seeking sushi places near me with a casual
+  vibe. The menu highlights well-prepared dishes that blend traditional elements
+  with everyday appeal, making it an ideal choice for a relaxed meal. With its
+  moderate pricing and accessible entrance, it's easy to see why this spot
+  appeals to locals looking for reliable Japanese dining. Whether you're in the
+  mood for top-rated sushi or a quick teriyaki fix, Tori Japan delivers a
+  straightforward yet satisfying experience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Visitors often highlight the tasty bento boxes and
+  sushi rolls at Tori Japan as great values for the price, making it a go-to for
+  affordable Japanese eats. Many appreciate the friendly service and spotless
+  atmosphere that add to the overall enjoyment of a meal here. While some note
+  that the flavors can be on the milder side, it still offers a solid option for
+  those exploring sushi restaurants nearby. Overall, it's a welcoming place
+  where the combination of good food and attentive staff keeps people coming
+  back. If you're hunting for the best sushi near me, this spot provides a
+  dependable and pleasant dining experience with room for everyone's tastes.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -222,7 +305,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

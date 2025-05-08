@@ -5,4 +5,5 @@ permalink: /california/thousand-oaks/
 stateAbbr: CA
 stateName: California
 cityName: Thousand Oaks
+
 ---

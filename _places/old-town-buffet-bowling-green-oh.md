@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Old Town Buffet"
+title: Old Town Buffet
 permalink: /ohio/bowling-green/old-town-buffet.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Bowling Green
 seo:
-  name: "Old Town Buffet"
-  type: Restaurant
+  type: restaurant
   links: https://www.bgoldtownbuffet.com/
-description: "Old Town Buffet serves delicious sushi in Bowling Green, Ohio. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJ-6lz7hELPIgRqwfjWq8Ypi4
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $10 &ndash; $20
 rating: '3.9'
 rating_count: 0
 website: https://www.bgoldtownbuffet.com/
+description: >-
+  Experience Old Town Buffet in Bowling Green, OH$$$Old Town Buffet in Bowling
+  Green, OH, provides a laid-back all-you-can-eat dining option featuring a mix
+  of classic Chinese favorites and fresh sushi selections that appeal to those
+  seeking variety in their meals. The spot stands out for its accessible layout,
+  including easy entry and seating options that make it welcoming for families
+  and groups looking for affordable, hearty options. Diners can explore an array
+  of traditional dishes alongside lighter choices like sushi rolls, creating a
+  balanced menu that caters to different tastes without overwhelming the palate.
+  With its convenient location in a mall setting, it's a go-to spot for casual
+  outings or quick bites near local attractions, ensuring a relaxed atmosphere
+  for enjoying flavorful meals on a budget.
+generative_summary: >-
+  Experience Old Town Buffet in Bowling Green, OH$$$Old Town Buffet in Bowling
+  Green, OH, provides a laid-back all-you-can-eat dining option featuring a mix
+  of classic Chinese favorites and fresh sushi selections that appeal to those
+  seeking variety in their meals. The spot stands out for its accessible layout,
+  including easy entry and seating options that make it welcoming for families
+  and groups looking for affordable, hearty options. Diners can explore an array
+  of traditional dishes alongside lighter choices like sushi rolls, creating a
+  balanced menu that caters to different tastes without overwhelming the palate.
+  With its convenient location in a mall setting, it's a go-to spot for casual
+  outings or quick bites near local attractions, ensuring a relaxed atmosphere
+  for enjoying flavorful meals on a budget.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ-6lz7hELPIgRqwfjWq8Ypi4/reviews/ChZDSUhNMG9nS0VJQ0FnSUNmdTdHVVhBEAE
@@ -332,6 +355,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURYOHJQbGpRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURYOHJQbGpRRRAB!2m1!1s0x883c0b11ee73a9fb:0x2ea618af5ae307ab
+review_summary: >-
+  Visitor Feedback on Old Town Buffet$$$Folks often rave about the friendly
+  service and solid variety of Chinese dishes and sushi at this spot, making it
+  a fun choice for laid-back meals with family or friends. While some appreciate
+  the great value and tasty options that hit the spot, others mention occasional
+  inconsistencies like food not being as warm as expected or certain items
+  feeling a bit dry. Overall, it's clear that the welcoming vibe and affordable
+  pricing keep people coming back, even if a few suggest improvements in
+  freshness for the best experience. Many enjoy the simple pleasures like hot
+  tea and quick service that add to the charm, helping it maintain a positive
+  reputation among casual diners in the area. If you're in the mood for an easy,
+  no-fuss meal, this place delivers with enough highlights to make it worth a
+  try.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -365,7 +402,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

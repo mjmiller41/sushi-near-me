@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Eastern Palace"
+title: Eastern Palace
 permalink: /pennsylvania/lancaster/eastern-palace.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Lancaster
 seo:
-  name: "Eastern Palace"
-  type: Restaurant
+  type: restaurant
   links: https://www.toasttab.com/eastern-palace-2206-columbia-ave/v3
-description: "Eastern Palace serves delicious sushi in Lancaster, Pennsylvania. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ8a5-R50mxokRsIBCQj1UuVQ
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c6269d477eaef1:0x54b9543d424280b0!10e5
 primary_type: Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 20
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 8:30 PM'
     - 'Tuesday: 11:00 AM – 8:30 PM'
     - 'Wednesday: 11:00 AM – 8:30 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:00 PM'
     - 'Saturday: 11:00 AM – 9:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:00 AM – 8:30 PM'
-    - 'Tuesday: 11:00 AM – 8:30 PM'
-    - 'Wednesday: 11:00 AM – 8:30 PM'
-    - 'Thursday: 11:00 AM – 8:30 PM'
-    - 'Friday: 11:00 AM – 9:00 PM'
-    - 'Saturday: 11:00 AM – 9:00 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T01:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +238,46 @@ phone: (717) 208-6356
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.9'
-rating_count: 0
+rating_count: 947
 website: https://www.toasttab.com/eastern-palace-2206-columbia-ave/v3
+description: >-
+  Discover Eastern Palace in Lancaster, PA$$$Eastern Palace in Lancaster, PA,
+  stands out as a casual dining spot where you can enjoy a mix of flavorful Thai
+  and Burmese dishes along with fresh sushi options. This restaurant offers a
+  welcoming atmosphere that's perfect for those seeking sushi places near me,
+  with a menu that highlights diverse Asian flavors in a relaxed setting.
+  Accessibility features like wheelchair-friendly parking and entrances make it
+  easy for everyone to experience the vibrant cuisine, while its moderate
+  pricing ensures a great value for quality meals. Open from 11 AM on most days,
+  it's an ideal choice for anyone looking for top-rated sushi or
+  Japanese-inspired eats close to home, blending tradition with everyday
+  convenience.
+generative_summary: >-
+  Discover Eastern Palace in Lancaster, PA$$$Eastern Palace in Lancaster, PA,
+  stands out as a casual dining spot where you can enjoy a mix of flavorful Thai
+  and Burmese dishes along with fresh sushi options. This restaurant offers a
+  welcoming atmosphere that's perfect for those seeking sushi places near me,
+  with a menu that highlights diverse Asian flavors in a relaxed setting.
+  Accessibility features like wheelchair-friendly parking and entrances make it
+  easy for everyone to experience the vibrant cuisine, while its moderate
+  pricing ensures a great value for quality meals. Open from 11 AM on most days,
+  it's an ideal choice for anyone looking for top-rated sushi or
+  Japanese-inspired eats close to home, blending tradition with everyday
+  convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Folks appreciate the tasty Burmese specialties and
+  generous sushi lunch deals at this spot, often noting how they make for a
+  satisfying and affordable meal. Many highlight the attentive service that adds
+  a warm touch to the dining experience, helping create a friendly vibe overall.
+  The clean and inviting environment gets plenty of nods, making it a
+  comfortable place to grab a bite with friends or family. While opinions vary,
+  the general buzz leans positive, with diners enjoying the reliable flavors
+  that keep them coming back for more. If you're on the hunt for the best sushi
+  near me, this restaurant delivers a solid mix of quality food and welcoming
+  service that lives up to its high marks.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +303,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

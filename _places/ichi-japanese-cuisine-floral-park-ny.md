@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ichi Japanese cuisine"
+title: Ichi Japanese cuisine
 permalink: /new-york/floral-park/ichi-japanese-cuisine.html
 stateAbbr: NY
 stateName: New York
 cityName: Floral Park
 seo:
-  name: "Ichi Japanese cuisine"
-  type: Restaurant
-  links: null
-description: "Ichi Japanese cuisine serves delicious sushi in Floral Park, New York. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.ichiny.com/
 place_id: ChIJLXUSAlJjwokRLLpPBaKNX6s
 photos:
   - name: >-
@@ -169,8 +167,113 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c263520212752d:0xab5f8da2054fba2c!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 13
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 15
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 15
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 13
+        minute: 0
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:30 AM – 3:00 PM, 4:30 – 10:00 PM'
+    - 'Tuesday: 11:30 AM – 3:00 PM, 4:30 – 10:00 PM'
+    - 'Wednesday: 11:30 AM – 3:00 PM, 4:30 – 10:00 PM'
+    - 'Thursday: 11:30 AM – 3:00 PM, 4:30 – 10:00 PM'
+    - 'Friday: 11:30 AM – 3:00 PM, 4:30 – 11:00 PM'
+    - 'Saturday: 1:00 – 11:00 PM'
+    - 'Sunday: 1:00 – 10:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -178,13 +281,51 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
+phone: (516) 437-4552
 price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+price_range: $20 &ndash; $30
+rating: '4.6'
+rating_count: 161
+website: https://www.ichiny.com/
+description: >-
+  Discover Ichi Japanese Cuisine in Floral Park, NY$$$Ichi Japanese Cuisine in
+  Floral Park, NY, stands out as a welcoming spot for savoring fresh sushi and
+  traditional Japanese dishes in a relaxed, inviting environment. The menu
+  features an array of expertly prepared rolls and sashimi, alongside other
+  authentic fare that highlights the flavors of Japanese culinary traditions.
+  This cozy space is designed for casual dining, making it ideal for those
+  seeking a comfortable meal without the formality of upscale settings.
+  Accessibility features ensure it's enjoyable for all visitors, adding to its
+  appeal as a go-to option for everyday outings. With convenient hours that
+  cater to both lunch and dinner crowds, it's a solid choice for anyone
+  exploring top sushi options nearby.
+generative_summary: >-
+  Discover Ichi Japanese Cuisine in Floral Park, NY$$$Ichi Japanese Cuisine in
+  Floral Park, NY, stands out as a welcoming spot for savoring fresh sushi and
+  traditional Japanese dishes in a relaxed, inviting environment. The menu
+  features an array of expertly prepared rolls and sashimi, alongside other
+  authentic fare that highlights the flavors of Japanese culinary traditions.
+  This cozy space is designed for casual dining, making it ideal for those
+  seeking a comfortable meal without the formality of upscale settings.
+  Accessibility features ensure it's enjoyable for all visitors, adding to its
+  appeal as a go-to option for everyday outings. With convenient hours that
+  cater to both lunch and dinner crowds, it's a solid choice for anyone
+  exploring top sushi options nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Feedback from diners at Ichi Japanese Cuisine
+  paints a positive picture, with many praising the fresh flavors and
+  well-crafted dishes that make every meal feel special. People often highlight
+  the friendly service and cozy atmosphere, noting how it enhances the overall
+  experience for casual get-togethers or solo visits. The high rating reflects
+  satisfaction with the variety of sushi and Japanese options, which seem to hit
+  the mark for quality and taste without breaking the bank. While a few mention
+  minor waits during peak times, the general consensus is that it's a reliable
+  spot worth returning to for authentic vibes. Overall, it comes across as a
+  favorite for those hunting for great sushi experiences in the area,
+  encouraging newcomers to give it a try.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +351,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

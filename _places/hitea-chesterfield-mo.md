@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Hitea"
+title: Hitea
 permalink: /missouri/chesterfield/hitea.html
 stateAbbr: MO
 stateName: Missouri
 cityName: Chesterfield
 seo:
-  name: "Hitea"
-  type: Restaurant
-  links: null
-description: "Hitea serves delicious sushi in Chesterfield, Missouri. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://hitea.menuxy.com/
 place_id: ChIJDTgtD9Mt34cR0HDsid9-_Bs
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x87df2dd30f2d380d:0x1bfc7edf89ec70d0!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:30 PM'
+    - 'Tuesday: 11:00 AM – 9:30 PM'
+    - 'Wednesday: 11:00 AM – 9:30 PM'
+    - 'Thursday: 11:00 AM – 9:30 PM'
+    - 'Friday: 11:30 AM – 10:00 PM'
+    - 'Saturday: 11:30 AM – 10:00 PM'
+    - 'Sunday: 11:30 AM – 9:30 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,47 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (314) 392-9399
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.0'
+rating_count: 393
+website: https://hitea.menuxy.com/
+description: >-
+  Discover Hitea in Chesterfield, MO$$$Hitea in Chesterfield, MO, stands out as
+  a welcoming Japanese eatery nestled within a bustling shopping center,
+  offering a blend of casual dining and authentic flavors. This spot delights
+  with its selection of hearty ramen, convenient bento boxes, and refreshing
+  bubble tea, making it a go-to for those seeking Japanese places near me. The
+  restaurant boasts accessible features like wheelchair-friendly entrances and
+  seating, ensuring a comfortable visit for everyone. With extended hours into
+  the evening, it's ideal for a relaxed lunch or dinner, combining affordability
+  with a cozy atmosphere that enhances the overall experience.
+generative_summary: >-
+  Discover Hitea in Chesterfield, MO$$$Hitea in Chesterfield, MO, stands out as
+  a welcoming Japanese eatery nestled within a bustling shopping center,
+  offering a blend of casual dining and authentic flavors. This spot delights
+  with its selection of hearty ramen, convenient bento boxes, and refreshing
+  bubble tea, making it a go-to for those seeking Japanese places near me. The
+  restaurant boasts accessible features like wheelchair-friendly entrances and
+  seating, ensuring a comfortable visit for everyone. With extended hours into
+  the evening, it's ideal for a relaxed lunch or dinner, combining affordability
+  with a cozy atmosphere that enhances the overall experience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About Hitea$$$Folks around Chesterfield seem to
+  really enjoy their meals at this Japanese spot, often highlighting the fresh
+  and flavorful dishes that hit the spot without breaking the bank. Many
+  appreciate the solid variety of options, with comments leaning towards the
+  tasty ramen and bento selections that keep things satisfying and fun. While
+  some mention the service as consistently friendly and efficient, others note
+  that the vibe feels just right for a quick bite or casual hangout. Overall,
+  it's clear this place earns its solid rating through reliable quality and a
+  welcoming feel, making it a smart pick for anyone hunting for top-rated
+  Japanese eateries nearby. If you're in the mood for something light and
+  enjoyable, it's worth checking out based on the positive buzz.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +308,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

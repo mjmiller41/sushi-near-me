@@ -1,15 +1,14 @@
 ---
 layout: place
-title: "Orchid Court Lounge & Sushi Bar"
+title: Orchid Court Lounge & Sushi Bar
 permalink: /florida/orlando/orchid-court-lounge-sushi-bar.html
 stateAbbr: FL
 stateName: Florida
 cityName: Orlando
 seo:
-  name: "Orchid Court Lounge & Sushi Bar"
-  type: Restaurant
-  links: https://www.universalorlando.com/web/en/us/things-to-do/dining/orchid-court-lounge-and-sushi-bar
-description: "Overlooking the pool, this airy lobby eatery serves breakfast in the morning & sushi at dinner. Orchid Court Lounge & Sushi Bar serves delicious sushi in Orlando, Florida. Try fresh Japanese dishes for a great dining experience. Available for, and dinner."
+  type: restaurant
+  links: >-
+    https://www.universalorlando.com/web/en/us/things-to-do/dining/orchid-court-lounge-and-sushi-bar
 place_id: ChIJY6Sn5eN-54gRiLFAgFODLSg
 photos:
   - name: >-
@@ -186,6 +185,33 @@ rating: '4.4'
 rating_count: 0
 website: >-
   https://www.universalorlando.com/web/en/us/things-to-do/dining/orchid-court-lounge-and-sushi-bar
+description: >-
+  Discover Orchid Court Lounge & Sushi Bar in Orlando, FL$$$Orchid Court Lounge
+  & Sushi Bar in Orlando, Florida, stands out as a serene spot with its poolside
+  setting and a menu featuring fresh sushi and light bites that appeal to those
+  seeking quality Japanese-inspired dining. The lounge boasts an airy atmosphere
+  with high-quality ingredients in its specialty rolls and appetizers, making it
+  a go-to choice for flavorful meals in a relaxed environment. Accessibility
+  features like wheelchair-friendly options and validated parking add to the
+  convenience, ideal for casual outings or unwinding after a day of exploration.
+  This spot combines elegant vibes with a variety of sushi options, perfect for
+  anyone looking for top-rated sushi experiences nearby. Whether you're in the
+  mood for inventive rolls or simple favorites, it offers a welcoming escape
+  that highlights the best in local sushi restaurants.
+generative_summary: >-
+  Discover Orchid Court Lounge & Sushi Bar in Orlando, FL$$$Orchid Court Lounge
+  & Sushi Bar in Orlando, Florida, stands out as a serene spot with its poolside
+  setting and a menu featuring fresh sushi and light bites that appeal to those
+  seeking quality Japanese-inspired dining. The lounge boasts an airy atmosphere
+  with high-quality ingredients in its specialty rolls and appetizers, making it
+  a go-to choice for flavorful meals in a relaxed environment. Accessibility
+  features like wheelchair-friendly options and validated parking add to the
+  convenience, ideal for casual outings or unwinding after a day of exploration.
+  This spot combines elegant vibes with a variety of sushi options, perfect for
+  anyone looking for top-rated sushi experiences nearby. Whether you're in the
+  mood for inventive rolls or simple favorites, it offers a welcoming escape
+  that highlights the best in local sushi restaurants.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJY6Sn5eN-54gRiLFAgFODLSg/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3bmZIVkVBEAE
@@ -379,6 +405,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURqX0xEYUZnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURqX0xEYUZnEAE!2m1!1s0x88e77ee3e5a7a463:0x282d83538040b188
+review_summary: >-
+  What Visitors Are Saying$$$Visitors to this sushi bar often highlight the
+  delicious and fresh sushi rolls as a standout feature, with many appreciating
+  the tasty appetizers and overall quality of the food that keeps them coming
+  back. While some note occasional waits during busier times, the attentive
+  service and inviting ambiance generally make for a positive experience,
+  especially for date nights or groups. Feedback frequently praises the variety
+  of options, including specialties that cater to different tastes, making it a
+  solid pick for those exploring Japanese places near me. Overall, the consensus
+  leans towards it being a worthwhile stop for satisfying meals, with the
+  convenience of validated parking and friendly staff adding to the appeal. If
+  you're on the hunt for great sushi close to you, this spot delivers a
+  generally enjoyable vibe with room for minor improvements in pacing.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidParkingLot: true
 payment_options:
@@ -409,8 +449,8 @@ serves_lunch: false
 serves_vegetarian_food: true
 serves_wine: true
 takeout: null
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Overlooking the pool, this airy lobby eatery serves breakfast in the morning &
   sushi at dinner.
 

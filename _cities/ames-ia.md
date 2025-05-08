@@ -5,4 +5,5 @@ permalink: /iowa/ames/
 stateAbbr: IA
 stateName: Iowa
 cityName: Ames
+
 ---

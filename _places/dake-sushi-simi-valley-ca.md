@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Dake Sushi"
+title: Dake Sushi
 permalink: /california/simi-valley/dake-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Simi Valley
 seo:
-  name: "Dake Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://dakesushi.smartonlineorder.com/
-description: "Dake Sushi serves delicious sushi in Simi Valley, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJL6FNwKAv6IAR5iO9583fFS0
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $30 &ndash; $50
 rating: '4.4'
 rating_count: 0
 website: https://dakesushi.smartonlineorder.com/
+description: >-
+  Discover Dake Sushi in Simi Valley, CA$$$Dake Sushi in Simi Valley, CA, stands
+  out as a welcoming spot for sushi enthusiasts seeking a casual dining
+  experience with all-you-can-eat options and a selection of beer and wine. This
+  sushi restaurant features a relaxed atmosphere with both counter and table
+  service, making it ideal for enjoying fresh rolls and sashimi in a comfortable
+  setting. Accessibility is a key highlight, with wheelchair-friendly parking,
+  entrances, and seating that ensure everyone can savor the flavors. Visitors
+  appreciate the variety of dishes, including unique riceless rolls and generous
+  portions, positioning it as a go-to choice among sushi places near me. Whether
+  you're exploring top-rated sushi restaurants or looking for Japanese-inspired
+  meals close to home, this spot delivers authentic tastes at approachable
+  prices.
+generative_summary: >-
+  Discover Dake Sushi in Simi Valley, CA$$$Dake Sushi in Simi Valley, CA, stands
+  out as a welcoming spot for sushi enthusiasts seeking a casual dining
+  experience with all-you-can-eat options and a selection of beer and wine. This
+  sushi restaurant features a relaxed atmosphere with both counter and table
+  service, making it ideal for enjoying fresh rolls and sashimi in a comfortable
+  setting. Accessibility is a key highlight, with wheelchair-friendly parking,
+  entrances, and seating that ensure everyone can savor the flavors. Visitors
+  appreciate the variety of dishes, including unique riceless rolls and generous
+  portions, positioning it as a go-to choice among sushi places near me. Whether
+  you're exploring top-rated sushi restaurants or looking for Japanese-inspired
+  meals close to home, this spot delivers authentic tastes at approachable
+  prices.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJL6FNwKAv6IAR5iO9583fFS0/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3NzhmaldnEAE
@@ -350,6 +375,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMzbmJDOGdnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMzbmJDOGdnRRAB!2m1!1s0x80e82fa0c04da12f:0x2d15dfcde7bd23e6
+review_summary: >-
+  What Customers Are Saying$$$Folks rave about the all-you-can-eat sushi deals
+  at this spot, praising the fresh flavors and wide range of rolls that let you
+  sample everything from spicy tuna to baked options without breaking the bank.
+  While the food quality often steals the show, a few mentions point to
+  occasional service hiccups like slow refills, suggesting it's best to plan for
+  a laid-back visit. Overall, it's a hit for families and groups thanks to its
+  casual vibe and affordable pricing, with many calling it a standout for
+  generous portions and unique twists on traditional dishes. If you're hunting
+  for the best sushi near me, this place delivers solid value and tasty variety
+  that keeps diners coming back. In the end, it's a reliable pick for a
+  satisfying meal, as long as you go in with realistic expectations for the
+  service.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -381,7 +420,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

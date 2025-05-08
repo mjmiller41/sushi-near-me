@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Mr. Sushi"
+title: Mr. Sushi
 permalink: /california/valencia/mr-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Valencia
 seo:
-  name: "Mr. Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.mrsushivalencia.com/
-description: "Mr. Sushi serves delicious sushi in Valencia, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJoZCfPG2HwoAR3rlGT2r_shw
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c2876d3c9f90a1:0x1cb2ff6a4f46b9de!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:30 PM'
     - 'Tuesday: 11:00 AM – 9:30 PM'
     - 'Wednesday: 11:00 AM – 9:30 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:00 PM'
     - 'Saturday: 11:00 AM – 10:00 PM'
     - 'Sunday: 11:00 AM – 9:30 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:30 PM'
-    - 'Tuesday: 11:00 AM – 9:30 PM'
-    - 'Wednesday: 11:00 AM – 9:30 PM'
-    - 'Thursday: 11:00 AM – 9:30 PM'
-    - 'Friday: 11:00 AM – 10:00 PM'
-    - 'Saturday: 11:00 AM – 10:00 PM'
-    - 'Sunday: 11:00 AM – 9:30 PM'
+  nextCloseTime: '2025-05-04T05:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +246,49 @@ phone: (661) 254-3855
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.3'
-rating_count: 0
+rating_count: 608
 website: http://www.mrsushivalencia.com/
+description: >-
+  Discover Mr. Sushi in Valencia, CA$$$Mr. Sushi in Valencia, CA, stands out as
+  a welcoming spot for enjoying fresh Japanese dishes, blending casual vibes
+  with a variety of flavorful options. This sushi restaurant offers an array of
+  expertly prepared rolls, sashimi, and bento boxes, making it a go-to choice
+  for anyone seeking authentic tastes in a relaxed setting. With an
+  all-you-can-eat option that appeals to sushi lovers looking for great value,
+  it's easy to see why this spot ranks among the best local eateries for
+  Japanese fare. Accessibility features like wheelchair-friendly entrances and
+  parking add to the convenience, ensuring a smooth visit for all guests.
+  Whether you're exploring sushi restaurants nearby or craving top-rated
+  Japanese places, Mr. Sushi delivers a satisfying experience with its
+  consistent quality and inviting atmosphere.
+generative_summary: >-
+  Discover Mr. Sushi in Valencia, CA$$$Mr. Sushi in Valencia, CA, stands out as
+  a welcoming spot for enjoying fresh Japanese dishes, blending casual vibes
+  with a variety of flavorful options. This sushi restaurant offers an array of
+  expertly prepared rolls, sashimi, and bento boxes, making it a go-to choice
+  for anyone seeking authentic tastes in a relaxed setting. With an
+  all-you-can-eat option that appeals to sushi lovers looking for great value,
+  it's easy to see why this spot ranks among the best local eateries for
+  Japanese fare. Accessibility features like wheelchair-friendly entrances and
+  parking add to the convenience, ensuring a smooth visit for all guests.
+  Whether you're exploring sushi restaurants nearby or craving top-rated
+  Japanese places, Mr. Sushi delivers a satisfying experience with its
+  consistent quality and inviting atmosphere.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Say About This Sushi Spot$$$Folks often rave about the standout
+  sushi selections at this Valencia favorite, highlighting the bold flavors and
+  hearty portions that make every meal feel worthwhile. Many appreciate how it
+  stands out in the area for delivering some of the freshest rolls and creative
+  dishes, turning it into a reliable pick for casual sushi outings. While the
+  overall vibe and food quality keep drawing people back, a few notes mention
+  that service can vary, though it's generally efficient enough to keep things
+  enjoyable. All in all, it's a solid choice for anyone hunting for great sushi
+  close by, with the positives far outweighing any minor hiccups. If you're on
+  the hunt for top-rated sushi restaurants near you, this spot's reputation for
+  tasty, well-sized offerings makes it worth a try.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +314,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

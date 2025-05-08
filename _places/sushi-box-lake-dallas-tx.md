@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Box"
+title: Sushi Box
 permalink: /texas/lake-dallas/sushi-box.html
 stateAbbr: TX
 stateName: Texas
 cityName: Lake Dallas
 seo:
-  name: "Sushi Box"
-  type: Restaurant
-  links: null
-description: "Sushi Box serves delicious sushi in Lake Dallas, Texas. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://sushiboxtx.com/
 place_id: ChIJD-ksHyczTIYRsUQYZsftGN4
 photos:
   - name: >-
@@ -170,8 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x864c33271f2ce90f:0xde18edc7661844b1!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: Closed'
+    - 'Tuesday: 11:00 AM – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 9:00 PM'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 9:00 PM'
+    - 'Saturday: 11:00 AM – 9:00 PM'
+    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +234,45 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (940) 498-7990
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.9'
+rating_count: 149
+website: http://sushiboxtx.com/
+description: >-
+  Discover Sushi Box in Lake Dallas, TX$$$Sushi Box in Lake Dallas, TX, delivers
+  a laid-back vibe ideal for savoring an assortment of fresh sushi rolls,
+  including creative cooked options that cater to various tastes. This spot
+  stands out for its inviting atmosphere and selection of refreshing Japanese
+  beverages, making it a go-to choice for anyone craving authentic flavors in a
+  comfortable setting. With accessibility features like wheelchair-friendly
+  entrances and seating, it ensures a welcoming experience for all diners.
+  Operating hours are convenient, with options for lunch and dinner throughout
+  most of the week, perfect for those seeking quality sushi restaurants nearby.
+generative_summary: >-
+  Discover Sushi Box in Lake Dallas, TX$$$Sushi Box in Lake Dallas, TX, delivers
+  a laid-back vibe ideal for savoring an assortment of fresh sushi rolls,
+  including creative cooked options that cater to various tastes. This spot
+  stands out for its inviting atmosphere and selection of refreshing Japanese
+  beverages, making it a go-to choice for anyone craving authentic flavors in a
+  comfortable setting. With accessibility features like wheelchair-friendly
+  entrances and seating, it ensures a welcoming experience for all diners.
+  Operating hours are convenient, with options for lunch and dinner throughout
+  most of the week, perfect for those seeking quality sushi restaurants nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Folks who visit this Japanese eatery often
+  highlight the mouthwatering sushi rolls and sides like miso soup, praising
+  their fresh taste and variety that keeps things exciting. The service stands
+  out as friendly and attentive, adding a warm touch to every meal without
+  overwhelming the experience. Prices are seen as fair, offering solid value for
+  the flavorful dishes that make it a favorite among sushi lovers. Overall, the
+  quick and efficient vibe makes it a reliable spot for a satisfying bite,
+  encouraging repeat visits for anyone hunting for top-notch options in the
+  area.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +298,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

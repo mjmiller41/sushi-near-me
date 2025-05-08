@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Umami Japanese Restaurant"
+title: Umami Japanese Restaurant
 permalink: /connecticut/vernon/umami-japanese-restaurant.html
 stateAbbr: CT
 stateName: Connecticut
 cityName: Vernon
 seo:
-  name: "Umami Japanese Restaurant"
-  type: Restaurant
-  links: null
-description: "Umami Japanese Restaurant serves delicious sushi in Vernon, Connecticut. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.umamict.com/
 place_id: ChIJb7Qhmw_35okR-E9AWfDk92s
 photos:
   - name: >-
@@ -170,8 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89e6f70f9b21b46f:0x6bf7e4f059404ff8!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:30 PM'
+    - 'Tuesday: Closed'
+    - 'Wednesday: 11:00 AM – 9:30 PM'
+    - 'Thursday: 11:00 AM – 9:30 PM'
+    - 'Friday: 11:00 AM – 10:00 PM'
+    - 'Saturday: 11:00 AM – 10:00 PM'
+    - 'Sunday: 12:00 – 9:30 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +234,46 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (860) 870-5088
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.7'
+rating_count: 195
+website: http://www.umamict.com/
+description: >-
+  About Umami Japanese Restaurant in Vernon, CT$$$Umami Japanese Restaurant in
+  Vernon, CT, provides a laid-back atmosphere perfect for savoring authentic
+  Japanese flavors, including fresh sushi and teriyaki options that appeal to
+  those seeking quality Japanese eats nearby. The menu highlights familiar
+  dishes like fried rice and bubble tea, all prepared with care in a welcoming
+  setting that emphasizes accessibility for all diners. With its moderate price
+  range, this spot stands out as a reliable choice for anyone exploring sushi
+  restaurants in the area, blending traditional tastes with everyday
+  convenience. Operating hours cater to lunch and dinner crowds, ensuring it's
+  easy to drop in for a satisfying meal without the fuss.
+generative_summary: >-
+  About Umami Japanese Restaurant in Vernon, CT$$$Umami Japanese Restaurant in
+  Vernon, CT, provides a laid-back atmosphere perfect for savoring authentic
+  Japanese flavors, including fresh sushi and teriyaki options that appeal to
+  those seeking quality Japanese eats nearby. The menu highlights familiar
+  dishes like fried rice and bubble tea, all prepared with care in a welcoming
+  setting that emphasizes accessibility for all diners. With its moderate price
+  range, this spot stands out as a reliable choice for anyone exploring sushi
+  restaurants in the area, blending traditional tastes with everyday
+  convenience. Operating hours cater to lunch and dinner crowds, ensuring it's
+  easy to drop in for a satisfying meal without the fuss.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Folks often praise this Japanese spot for its
+  tasty appetizers like crab rangoon and flavorful noodle dishes that hit the
+  spot every time. Many highlight the helpful team and cozy vibes that make
+  dining out feel effortless and enjoyable, adding to the overall charm. Prices
+  are seen as fair for the quality, drawing in those looking for solid value on
+  Japanese cuisine without breaking the bank. All in all, it's frequently
+  recommended as a go-to for fresh, satisfying meals, especially if you're in
+  the mood for top-rated sushi options close by.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +299,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

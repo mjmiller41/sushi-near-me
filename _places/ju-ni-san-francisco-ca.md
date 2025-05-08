@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ju-Ni"
+title: Ju-Ni
 permalink: /california/san-francisco/ju-ni.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
 seo:
-  name: "Ju-Ni"
-  type: Restaurant
+  type: restaurant
   links: http://www.junisf.com/
-description: "Contemporary, upscale bistro with clean lines &  counter seats serving elevated omakase sushi. Ju-Ni serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, and dinner."
 place_id: ChIJC97OyLGAhYAR4Y3wyxVMk8c
 photos:
   - name: >-
@@ -183,6 +181,29 @@ price_range: $100 &ndash; & up
 rating: '4.8'
 rating_count: 0
 website: http://www.junisf.com/
+description: >-
+  Experience Ju-Ni Sushi in San Francisco$$$Ju-Ni in San Francisco, CA, is a
+  standout sushi restaurant that delivers an upscale dining experience with
+  meticulously prepared omakase dishes and high-quality Japanese fare in a cozy,
+  intimate setting. This spot emphasizes fresh fish and innovative flavors,
+  making it a go-to choice for those seeking top sushi restaurants in the area.
+  With its contemporary design and counter seating, the atmosphere invites a
+  focused appreciation of each carefully crafted bite, blending tradition with
+  modern elegance. Accessibility features like wheelchair-friendly entrances
+  enhance its appeal for all diners, while the focus on premium ingredients
+  ensures a memorable meal for sushi enthusiasts exploring options near you.
+generative_summary: >-
+  Experience Ju-Ni Sushi in San Francisco$$$Ju-Ni in San Francisco, CA, is a
+  standout sushi restaurant that delivers an upscale dining experience with
+  meticulously prepared omakase dishes and high-quality Japanese fare in a cozy,
+  intimate setting. This spot emphasizes fresh fish and innovative flavors,
+  making it a go-to choice for those seeking top sushi restaurants in the area.
+  With its contemporary design and counter seating, the atmosphere invites a
+  focused appreciation of each carefully crafted bite, blending tradition with
+  modern elegance. Accessibility features like wheelchair-friendly entrances
+  enhance its appeal for all diners, while the focus on premium ingredients
+  ensures a memorable meal for sushi enthusiasts exploring options near you.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJC97OyLGAhYAR4Y3wyxVMk8c/reviews/ChdDSUhNMG9nS0VJQ0FnSUQzN1lTbjRRRRAB
@@ -350,6 +371,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNMX3N2c2lRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNMX3N2c2lRRRAB!2m1!1s0x808580b1c8cede0b:0xc7934c15cbf08de1
+review_summary: >-
+  Insights from Diners at Ju-Ni$$$Folks who visit this sushi place often rave
+  about the exceptional omakase experience, highlighting the fresh fish and
+  thoughtful presentation that make every course feel special and engaging. Many
+  appreciate the intimate vibe, where the small-party setup allows for a
+  personal touch without overwhelming crowds, adding to the overall enjoyment.
+  Reviewers frequently note that the quality and portion sizes justify the
+  higher price, with standout flavors like rich wagyu and tender seafood leaving
+  a lasting impression. It's clear that this spot delivers on creating
+  unforgettable moments, encouraging curious eaters to dive into traditional
+  Japanese elements with a welcoming twist. Overall, the feedback paints a
+  picture of a reliable choice for top-rated sushi near you, where the blend of
+  artistry and taste keeps the experience genuinely satisfying.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeStreetParking: true
   paidStreetParking: true
@@ -381,8 +416,8 @@ serves_lunch: null
 serves_vegetarian_food: false
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Contemporary, upscale bistro with clean lines &  counter seats serving
   elevated omakase sushi.
 

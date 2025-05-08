@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Eastwind Sushi & Grill"
+title: Eastwind Sushi & Grill
 permalink: /arizona/glendale/eastwind-sushi-grill.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Glendale
 seo:
-  name: "Eastwind Sushi & Grill"
-  type: Restaurant
+  type: restaurant
   links: https://www.eastwindglendale.com/
-description: "Eastwind Sushi & Grill serves delicious sushi in Glendale, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJwf8PEPRoK4cRvuljBLlDneA
 photos:
   - name: >-
@@ -170,7 +168,81 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x872b68f4100fffc1:0xe09d43b90463e9be!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 15
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM'
     - 'Wednesday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM'
@@ -178,14 +250,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:00 PM'
     - 'Saturday: 11:00 AM – 10:00 PM'
     - 'Sunday: 12:00 – 9:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM'
-    - 'Thursday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM'
-    - 'Friday: 11:00 AM – 10:00 PM'
-    - 'Saturday: 11:00 AM – 10:00 PM'
-    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T05:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +262,240 @@ phone: (602) 942-0706
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.6'
-rating_count: 0
+rating_count: 392
 website: https://www.eastwindglendale.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Eastwind Sushi & Grill in Glendale, Arizona$$$Eastwind Sushi & Grill
+  in Glendale, AZ, stands out as a welcoming spot for enjoying fresh sushi
+  rolls, teriyaki dishes, and tempura, perfect for those seeking sushi
+  restaurants in the area. This cozy establishment offers a relaxed atmosphere
+  with thoughtful touches like wheelchair-accessible features and outdoor
+  seating, making it easy for everyone to savor their meal. Happy-hour specials
+  add value for diners looking for affordable Japanese-inspired options nearby,
+  while generous portions ensure a satisfying experience. With options for
+  dine-in or takeout, it's an ideal choice for anyone exploring top-rated sushi
+  places in Glendale that combine quality flavors with convenient accessibility.
+generative_summary: >-
+  Discover Eastwind Sushi & Grill in Glendale, Arizona$$$Eastwind Sushi & Grill
+  in Glendale, AZ, stands out as a welcoming spot for enjoying fresh sushi
+  rolls, teriyaki dishes, and tempura, perfect for those seeking sushi
+  restaurants in the area. This cozy establishment offers a relaxed atmosphere
+  with thoughtful touches like wheelchair-accessible features and outdoor
+  seating, making it easy for everyone to savor their meal. Happy-hour specials
+  add value for diners looking for affordable Japanese-inspired options nearby,
+  while generous portions ensure a satisfying experience. With options for
+  dine-in or takeout, it's an ideal choice for anyone exploring top-rated sushi
+  places in Glendale that combine quality flavors with convenient accessibility.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJwf8PEPRoK4cRvuljBLlDneA/reviews/ChdDSUhNMG9nS0VJQ0FnTURJNzQ2U3ZRRRAB
+    relativePublishTimeDescription: a week ago
+    rating: 4
+    text:
+      text: >-
+        Good food, sushi roll is tasty, ramen is good too. Friendly staff.
+        Ambient is ok, clean, but a bit dark (i guess because its bar). Comes
+        with free ice cream scoop if you dine-in
+      languageCode: en
+    originalText:
+      text: >-
+        Good food, sushi roll is tasty, ramen is good too. Friendly staff.
+        Ambient is ok, clean, but a bit dark (i guess because its bar). Comes
+        with free ice cream scoop if you dine-in
+      languageCode: en
+    authorAttribution:
+      displayName: A J
+      uri: https://www.google.com/maps/contrib/105628045856897408054/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVnmAFaQxbnSYqEAJDGe35OOTl8efXhmO4GfsoPdDkwNulZNk__=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2025-04-21T02:32:10.671479Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJNzQ2U3ZRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJNzQ2U3ZRRRAB!2m1!1s0x872b68f4100fffc1:0xe09d43b90463e9be
+  - name: >-
+      places/ChIJwf8PEPRoK4cRvuljBLlDneA/reviews/ChdDSUhNMG9nS0VJQ0FnSUR6MV8tWnJnRRAB
+    relativePublishTimeDescription: 10 months ago
+    rating: 4
+    text:
+      text: >-
+        Decided to try lunch specials and they were so good. Had the California
+        bowl and Spicy beef bowl and both were delicious! Will be back to try
+        other things. Food took a while but guess good food takes times and
+        there was an error on our ticket but she was the only waitress working.
+        She was friendly and checked on us a couple times. Was given a free
+        dessert which was a nice surprise.
+      languageCode: en
+    originalText:
+      text: >-
+        Decided to try lunch specials and they were so good. Had the California
+        bowl and Spicy beef bowl and both were delicious! Will be back to try
+        other things. Food took a while but guess good food takes times and
+        there was an error on our ticket but she was the only waitress working.
+        She was friendly and checked on us a couple times. Was given a free
+        dessert which was a nice surprise.
+      languageCode: en
+    authorAttribution:
+      displayName: Judy Rivas
+      uri: https://www.google.com/maps/contrib/108481614195278388695/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjW1kOuTbxXFvH2M5Brt4EhP1yq71GZR776xSKCjP_UQgCv0Q8c=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-06-13T06:17:46.864728Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR6MV8tWnJnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR6MV8tWnJnRRAB!2m1!1s0x872b68f4100fffc1:0xe09d43b90463e9be
+  - name: >-
+      places/ChIJwf8PEPRoK4cRvuljBLlDneA/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJaU43NlBBEAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Phenomenal experience. I brought my wife and 2 kids. We ordered 3 sushi
+        rolls, calamari, fried rice, and yakisoba noodles. Portions were large
+        and we took some home. Every single food item was delicious and unique.
+        The service was outstanding!! This was our first time here and we will
+        be coming back for sure!
+      languageCode: en
+    originalText:
+      text: >-
+        Phenomenal experience. I brought my wife and 2 kids. We ordered 3 sushi
+        rolls, calamari, fried rice, and yakisoba noodles. Portions were large
+        and we took some home. Every single food item was delicious and unique.
+        The service was outstanding!! This was our first time here and we will
+        be coming back for sure!
+      languageCode: en
+    authorAttribution:
+      displayName: Christian Sanchez
+      uri: https://www.google.com/maps/contrib/100048902837295205167/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocL1JIoA2I4_Pco4EeSIcl9RYe_s9DVkMKQptOFkf5voRNonIg=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-03-29T19:21:46.134467Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNJaU43NlBBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNJaU43NlBBEAE!2m1!1s0x872b68f4100fffc1:0xe09d43b90463e9be
+  - name: >-
+      places/ChIJwf8PEPRoK4cRvuljBLlDneA/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfOXYzaTR3RRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        Lovely little discovery in the downtown Chandler area! I always like to
+        pop over to the farmer's market in the square and that is when I
+        discovered this place! $2 sushi with tasty ramen cannot be beat! Great
+        place for a little hangout, date night, or just yourself! The ambiance
+        is hip and fresh, lots of different sushi dancing it's way across you on
+        a conveyor belt. Before you know it, you have 6 different plates of
+        sushi! I plan on going back to try their wine list!
+      languageCode: en
+    originalText:
+      text: >-
+        Lovely little discovery in the downtown Chandler area! I always like to
+        pop over to the farmer's market in the square and that is when I
+        discovered this place! $2 sushi with tasty ramen cannot be beat! Great
+        place for a little hangout, date night, or just yourself! The ambiance
+        is hip and fresh, lots of different sushi dancing it's way across you on
+        a conveyor belt. Before you know it, you have 6 different plates of
+        sushi! I plan on going back to try their wine list!
+      languageCode: en
+    authorAttribution:
+      displayName: Brandon Brockbank
+      uri: https://www.google.com/maps/contrib/101505888134056936407/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVDiRZzYV27dHQVlUwrrc8gPm4FqIQWy-PqlbvyZe5m1sNwo2I3=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-01-16T04:18:47.536307Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNfOXYzaTR3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNfOXYzaTR3RRAB!2m1!1s0x872b68f4100fffc1:0xe09d43b90463e9be
+  - name: >-
+      places/ChIJwf8PEPRoK4cRvuljBLlDneA/reviews/ChZDSUhNMG9nS0VJQ0FnSUNoeXVDb2ZnEAE
+    relativePublishTimeDescription: 2 years ago
+    rating: 5
+    text:
+      text: >-
+        We tried this place recently, and they did not disappoint. It was some
+        of the best sushi we have found in Arizona so far. They are not an AYCE,
+        but the food is worth going there for. This will be our new go-to
+        restaurant for sushi.
+
+
+        Update: Service has been lacking the last few times we have gone.  There
+        were barely any people there, and it took a long time to get our drinks
+        and food. Food was still great.
+      languageCode: en
+    originalText:
+      text: >-
+        We tried this place recently, and they did not disappoint. It was some
+        of the best sushi we have found in Arizona so far. They are not an AYCE,
+        but the food is worth going there for. This will be our new go-to
+        restaurant for sushi.
+
+
+        Update: Service has been lacking the last few times we have gone.  There
+        were barely any people there, and it took a long time to get our drinks
+        and food. Food was still great.
+      languageCode: en
+    authorAttribution:
+      displayName: Amanda Swoboda
+      uri: https://www.google.com/maps/contrib/116368392452411195288/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVNiM2yQF0ahP0UmIvPCbfPLlBMVQxLsaokG2tn6Vd9kzB5KH5b=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2023-04-10T17:57:27.908845Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNoeXVDb2ZnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNoeXVDb2ZnEAE!2m1!1s0x872b68f4100fffc1:0xe09d43b90463e9be
+review_summary: >-
+  What Customers Love About Eastwind Sushi$$$Folks often rave about the tasty
+  sushi and ramen at this spot, highlighting how the fresh flavors and generous
+  portions make for a fulfilling meal without breaking the bank. Many appreciate
+  the friendly staff who go the extra mile with helpful service and occasional
+  surprises like free desserts, creating a welcoming vibe for casual visits.
+  Lunch specials, such as the California bowl and spicy beef options, come up
+  frequently as great deals that keep people coming back for more. While some
+  note that wait times can vary depending on the crowd, the overall experience
+  remains positive with solid food quality that honestly delivers on
+  expectations. If you're hunting for the best sushi near you, this place earns
+  high marks for its reliable taste and relaxed setting that suits groups or
+  solo diners alike.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  paidStreetParking: false
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+curbside_pickup: false
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

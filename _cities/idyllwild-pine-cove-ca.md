@@ -5,4 +5,5 @@ permalink: /california/idyllwild-pine-cove/
 stateAbbr: CA
 stateName: California
 cityName: Idyllwild-Pine Cove
+
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Mene Sushi"
+title: Mene Sushi
 permalink: /michigan/west-bloomfield-township/mene-sushi.html
 stateAbbr: MI
 stateName: Michigan
 cityName: West Bloomfield Township
 seo:
-  name: "Mene Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.menesushi.com/
-description: "Compact sushi house features traditional Japanese dishes & a range of rolls in a relaxed atmosphere. Mene Sushi serves delicious sushi in West Bloomfield Township, Michigan. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJtVQ0-0i6JIgRznUfPdSyKhE
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $20 &ndash; $30
 rating: '4.2'
 rating_count: 0
 website: http://www.menesushi.com/
+description: >-
+  Discover Mene Sushi in West Bloomfield Township$$$Mene Sushi in West
+  Bloomfield Township, MI, offers a welcoming spot for enjoying authentic
+  Japanese flavors in a relaxed setting. This cozy sushi restaurant features an
+  array of special rolls and traditional dishes, complemented by a selection of
+  beer, sake, and wine to enhance your meal. With accessibility options like
+  wheelchair-friendly entrances and parking, it's designed for a comfortable
+  dining experience that caters to various needs. Whether you're exploring
+  top-rated sushi options in the area or seeking Japanese-inspired cuisine close
+  to home, the generous portions and inviting atmosphere make it a standout
+  choice for casual outings.
+generative_summary: >-
+  Discover Mene Sushi in West Bloomfield Township$$$Mene Sushi in West
+  Bloomfield Township, MI, offers a welcoming spot for enjoying authentic
+  Japanese flavors in a relaxed setting. This cozy sushi restaurant features an
+  array of special rolls and traditional dishes, complemented by a selection of
+  beer, sake, and wine to enhance your meal. With accessibility options like
+  wheelchair-friendly entrances and parking, it's designed for a comfortable
+  dining experience that caters to various needs. Whether you're exploring
+  top-rated sushi options in the area or seeking Japanese-inspired cuisine close
+  to home, the generous portions and inviting atmosphere make it a standout
+  choice for casual outings.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJtVQ0-0i6JIgRznUfPdSyKhE/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfLU56bjNRRRAB
@@ -348,6 +369,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURMcDVpTG9BRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURMcDVpTG9BRRAB!2m1!1s0x8824ba48fb3454b5:0x112ab2d43d1f75ce
+review_summary: >-
+  What Visitors Are Saying$$$Folks rave about the fresh and flavorful sushi
+  rolls at this spot, often highlighting how it's perfect for family meals or
+  first-time tries with its variety of options. Many appreciate the generous
+  portions and great value, making it a go-to for satisfying meals that leave
+  everyone happy. While some mention that the service and ambiance could use a
+  bit more polish to fully shine, the overall experience is praised for its
+  tasty dishes and accommodating vibe. Overall, it's clear that diners enjoy the
+  welcoming environment and solid food quality, encouraging repeat visits for
+  anyone hunting for reliable sushi nearby. If you're in the mood for a
+  laid-back meal with friends, this place delivers on deliciousness while
+  keeping things approachable and fun.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -380,8 +414,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Compact sushi house features traditional Japanese dishes & a range of rolls in
   a relaxed atmosphere.
 

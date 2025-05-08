@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Koma Sushi"
+title: Koma Sushi
 permalink: /california/portola-valley/koma-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Portola Valley
 seo:
-  name: "Koma Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://komasushiportolavalley.com/
-description: "Koma Sushi serves delicious sushi in Portola Valley, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ9ddDlXWlj4ARh9MgODrh-hg
 photos:
   - name: >-
@@ -170,7 +168,97 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x808fa5759543d7f5:0x18fae13a3820d387!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 14
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 20
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 20
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 20
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 20
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 20
+        minute: 30
+    - open:
+        day: 6
+        hour: 16
+        minute: 30
+      close:
+        day: 6
+        hour: 20
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 2:00 PM, 4:30 – 8:00 PM'
     - 'Tuesday: 11:30 AM – 2:00 PM, 4:30 – 8:00 PM'
     - 'Wednesday: 11:30 AM – 2:00 PM, 4:30 – 8:00 PM'
@@ -178,14 +266,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 2:00 PM, 4:30 – 8:30 PM'
     - 'Saturday: 4:30 – 8:30 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:30 AM – 2:00 PM, 4:30 – 8:00 PM'
-    - 'Tuesday: 11:30 AM – 2:00 PM, 4:30 – 8:00 PM'
-    - 'Wednesday: 11:30 AM – 2:00 PM, 4:30 – 8:00 PM'
-    - 'Thursday: 11:30 AM – 2:00 PM, 4:30 – 8:00 PM'
-    - 'Friday: 11:30 AM – 2:00 PM, 4:30 – 8:30 PM'
-    - 'Saturday: 4:30 – 8:30 PM'
-    - 'Sunday: Closed'
+  nextOpenTime: '2025-05-03T23:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,10 +277,48 @@ secondary_opening_hours:
 phone: (650) 367-6547
 price_level: null
 price_range: $20 &ndash; $30
-rating: '4.2'
-rating_count: 0
+rating: '4.3'
+rating_count: 43
 website: https://komasushiportolavalley.com/
+description: >-
+  Discover Koma Sushi in Portola Valley, CA$$$Koma Sushi in Portola Valley, CA,
+  stands out as a casual spot for enjoying fresh sushi and Japanese-inspired
+  dishes in a relaxed, small-town setting. The restaurant offers a diverse
+  selection of rolls and teriyaki options, making it a go-to choice for those
+  seeking quality sushi experiences nearby. With thoughtful accessibility
+  features like wheelchair-friendly entrances and seating, it ensures everyone
+  can savor the flavorful menu in comfort. Operating on a schedule that includes
+  weekday lunches and dinners, it's ideal for locals or visitors looking for
+  authentic Japanese cuisine without the hassle. This hidden gem in the area
+  combines affordability with a welcoming atmosphere, perfect for anyone
+  exploring top-rated sushi restaurants in the region.
+generative_summary: >-
+  Discover Koma Sushi in Portola Valley, CA$$$Koma Sushi in Portola Valley, CA,
+  stands out as a casual spot for enjoying fresh sushi and Japanese-inspired
+  dishes in a relaxed, small-town setting. The restaurant offers a diverse
+  selection of rolls and teriyaki options, making it a go-to choice for those
+  seeking quality sushi experiences nearby. With thoughtful accessibility
+  features like wheelchair-friendly entrances and seating, it ensures everyone
+  can savor the flavorful menu in comfort. Operating on a schedule that includes
+  weekday lunches and dinners, it's ideal for locals or visitors looking for
+  authentic Japanese cuisine without the hassle. This hidden gem in the area
+  combines affordability with a welcoming atmosphere, perfect for anyone
+  exploring top-rated sushi restaurants in the region.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Customer Feedback$$$Visitors to this sushi spot often highlight
+  the fresh flavors and variety in the menu, making it a solid pick for anyone
+  craving reliable Japanese fare. With an overall rating around 4.3, folks
+  generally appreciate the balance of taste and value, though some mention it's
+  best for casual meals rather than fancy occasions. Many comments point to the
+  efficient service and cozy vibe as standout elements that keep people coming
+  back for more. While not every experience is flawless, the positive buzz
+  around the food quality helps maintain its appeal for groups or solo diners
+  searching for sushi close to home. Overall, it's a welcoming choice that
+  delivers on everyday enjoyment, encouraging repeat visits for those who love
+  exploring local dining options.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +344,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

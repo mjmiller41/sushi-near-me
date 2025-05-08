@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Payce"
+title: Sushi Payce
 permalink: /illinois/chicago/sushi-payce.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
 seo:
-  name: "Sushi Payce"
-  type: Restaurant
+  type: restaurant
   links: https://www.sushipayce.com/p-ayce-menu
-description: "Sushi Payce serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJxRcajNvTD4gRMfjbutc4WDo
 photos:
   - name: >-
@@ -169,7 +167,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x880fd3db8c1a17c5:0x3a5838d7badbf831!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 12
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 12
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 12
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 12
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 12:00 – 10:00 PM'
     - 'Tuesday: Closed'
     - 'Wednesday: 12:00 – 10:00 PM'
@@ -177,28 +225,277 @@ opening_hours:
     - 'Friday: 12:00 – 10:30 PM'
     - 'Saturday: 12:00 – 10:30 PM'
     - 'Sunday: 12:00 – 9:30 PM'
-  current:
-    - 'Monday: 12:00 – 10:00 PM'
-    - 'Tuesday: Closed'
-    - 'Wednesday: 12:00 – 10:00 PM'
-    - 'Thursday: 12:00 – 10:00 PM'
-    - 'Friday: 12:00 – 10:30 PM'
-    - 'Saturday: 12:00 – 10:30 PM'
-    - 'Sunday: 12:00 – 9:30 PM'
+  nextCloseTime: '2025-05-04T03:30:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 14
+          minute: 0
+        close:
+          day: 0
+          hour: 18
+          minute: 0
+      - open:
+          day: 1
+          hour: 14
+          minute: 0
+        close:
+          day: 1
+          hour: 18
+          minute: 0
+      - open:
+          day: 3
+          hour: 14
+          minute: 0
+        close:
+          day: 3
+          hour: 18
+          minute: 0
+      - open:
+          day: 4
+          hour: 14
+          minute: 0
+        close:
+          day: 4
+          hour: 18
+          minute: 0
+      - open:
+          day: 5
+          hour: 14
+          minute: 0
+        close:
+          day: 5
+          hour: 18
+          minute: 0
+      - open:
+          day: 6
+          hour: 14
+          minute: 0
+        close:
+          day: 6
+          hour: 18
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 2:00 – 6:00 PM'
+      - 'Tuesday: Closed'
+      - 'Wednesday: 2:00 – 6:00 PM'
+      - 'Thursday: 2:00 – 6:00 PM'
+      - 'Friday: 2:00 – 6:00 PM'
+      - 'Saturday: 2:00 – 6:00 PM'
+      - 'Sunday: 2:00 – 6:00 PM'
+    secondaryHoursType: HAPPY_HOUR
+    nextCloseTime: '2025-05-03T23:00:00Z'
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 0
+        close:
+          day: 0
+          hour: 21
+          minute: 30
+      - open:
+          day: 1
+          hour: 12
+          minute: 0
+        close:
+          day: 1
+          hour: 21
+          minute: 30
+      - open:
+          day: 3
+          hour: 12
+          minute: 0
+        close:
+          day: 3
+          hour: 21
+          minute: 30
+      - open:
+          day: 4
+          hour: 12
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 30
+      - open:
+          day: 5
+          hour: 12
+          minute: 0
+        close:
+          day: 5
+          hour: 22
+          minute: 0
+      - open:
+          day: 6
+          hour: 12
+          minute: 0
+        close:
+          day: 6
+          hour: 22
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 12:00 – 9:30 PM'
+      - 'Tuesday: Closed'
+      - 'Wednesday: 12:00 – 9:30 PM'
+      - 'Thursday: 12:00 – 9:30 PM'
+      - 'Friday: 12:00 – 10:00 PM'
+      - 'Saturday: 12:00 – 10:00 PM'
+      - 'Sunday: 12:00 – 9:30 PM'
+    secondaryHoursType: TAKEOUT
+    nextCloseTime: '2025-05-04T03:00:00Z'
+  - openNow: false
+    periods:
+      - open:
+          day: 1
+          hour: 12
+          minute: 0
+        close:
+          day: 1
+          hour: 15
+          minute: 30
+      - open:
+          day: 3
+          hour: 12
+          minute: 0
+        close:
+          day: 3
+          hour: 15
+          minute: 30
+      - open:
+          day: 4
+          hour: 12
+          minute: 0
+        close:
+          day: 4
+          hour: 15
+          minute: 30
+      - open:
+          day: 5
+          hour: 12
+          minute: 0
+        close:
+          day: 5
+          hour: 15
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 12:00 – 3:30 PM'
+      - 'Tuesday: Closed'
+      - 'Wednesday: 12:00 – 3:30 PM'
+      - 'Thursday: 12:00 – 3:30 PM'
+      - 'Friday: 12:00 – 3:30 PM'
+      - 'Saturday: Closed'
+      - 'Sunday: Closed'
+    secondaryHoursType: LUNCH
+    nextOpenTime: '2025-05-05T17:00:00Z'
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 0
+        close:
+          day: 0
+          hour: 21
+          minute: 30
+      - open:
+          day: 1
+          hour: 12
+          minute: 0
+        close:
+          day: 1
+          hour: 22
+          minute: 0
+      - open:
+          day: 3
+          hour: 12
+          minute: 0
+        close:
+          day: 3
+          hour: 22
+          minute: 0
+      - open:
+          day: 4
+          hour: 12
+          minute: 0
+        close:
+          day: 4
+          hour: 22
+          minute: 0
+      - open:
+          day: 5
+          hour: 12
+          minute: 0
+        close:
+          day: 5
+          hour: 22
+          minute: 30
+      - open:
+          day: 6
+          hour: 12
+          minute: 0
+        close:
+          day: 6
+          hour: 22
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 12:00 – 10:00 PM'
+      - 'Tuesday: Closed'
+      - 'Wednesday: 12:00 – 10:00 PM'
+      - 'Thursday: 12:00 – 10:00 PM'
+      - 'Friday: 12:00 – 10:30 PM'
+      - 'Saturday: 12:00 – 10:30 PM'
+      - 'Sunday: 12:00 – 9:30 PM'
+    secondaryHoursType: DINNER
+    nextCloseTime: '2025-05-04T03:30:00Z'
 phone: (773) 687-9394
 price_level: null
 price_range: $30 &ndash; $50
 rating: '4.0'
-rating_count: 0
+rating_count: 607
 website: https://www.sushipayce.com/p-ayce-menu
+description: >-
+  Discover Sushi Payce in Chicago, IL$$$Sushi Payce in Chicago, IL, stands out
+  as a welcoming all-you-can-eat destination for fresh Japanese cuisine, perfect
+  for those exploring sushi restaurants in the area. This spot offers a relaxed
+  vibe with a variety of dishes including flavorful rolls and other Japanese
+  favorites, paired with options like beer, wine, and sake to enhance the meal.
+  Situated in the lively Lincoln Park neighborhood, it provides easy access and
+  thoughtful amenities such as wheelchair-friendly entrances, making it
+  convenient for everyone. Whether you're seeking top-rated sushi close to you
+  or a casual place to gather with friends, the straightforward menu and
+  inviting atmosphere deliver a satisfying dining experience that keeps locals
+  coming back.
+generative_summary: >-
+  Discover Sushi Payce in Chicago, IL$$$Sushi Payce in Chicago, IL, stands out
+  as a welcoming all-you-can-eat destination for fresh Japanese cuisine, perfect
+  for those exploring sushi restaurants in the area. This spot offers a relaxed
+  vibe with a variety of dishes including flavorful rolls and other Japanese
+  favorites, paired with options like beer, wine, and sake to enhance the meal.
+  Situated in the lively Lincoln Park neighborhood, it provides easy access and
+  thoughtful amenities such as wheelchair-friendly entrances, making it
+  convenient for everyone. Whether you're seeking top-rated sushi close to you
+  or a casual place to gather with friends, the straightforward menu and
+  inviting atmosphere deliver a satisfying dining experience that keeps locals
+  coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying About This Spot$$$Feedback from diners highlights the
+  appeal of Sushi Payce as a go-to option for tasty, affordable Japanese eats,
+  with many enjoying the fresh flavors and generous portions that make meals
+  feel worthwhile. People often mention the solid variety of sushi options and
+  drinks, creating a laid-back environment that's great for casual get-togethers
+  or quick bites. While some note that it can get crowded during busy times, the
+  overall consensus leans positive, praising the reliable quality that keeps it
+  among the best sushi places near me. If you're on the hunt for straightforward
+  yet enjoyable dining, this location delivers a welcoming experience that's
+  worth trying out. All in all, the 4.0 rating from hundreds of reviews suggests
+  it's a dependable choice for anyone craving authentic vibes without the fuss.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -224,7 +521,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

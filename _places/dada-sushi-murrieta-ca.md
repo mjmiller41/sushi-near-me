@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Dada Sushi"
+title: Dada Sushi
 permalink: /california/murrieta/dada-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Murrieta
 seo:
-  name: "Dada Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.dadasushi.com/
-description: "Dada Sushi serves delicious sushi in Murrieta, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJH_xUyYWD3IARAhkCfwTwXKY
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: null
 rating: '4.6'
 rating_count: 0
 website: http://www.dadasushi.com/
+description: >-
+  About Dada Sushi in Murrieta, CA$$$Dada Sushi in Murrieta, CA, offers a
+  relaxed spot for enjoying fresh sushi and traditional Japanese flavors, making
+  it a go-to choice for those seeking quality dining options in the area. This
+  venue specializes in a variety of sushi rolls, sake selections, and classic
+  dishes that highlight authentic tastes, all served in a welcoming atmosphere
+  perfect for casual meals or gatherings. With features like
+  wheelchair-accessible seating and outdoor options, it caters to a wide range
+  of diners looking for convenience and comfort. The menu emphasizes fresh
+  ingredients and generous portions, appealing to anyone exploring top-rated
+  sushi restaurants nearby. Whether you're in the mood for a quick bite or a
+  full Japanese-inspired meal, this spot delivers a satisfying experience that
+  stands out in the local scene.
+generative_summary: >-
+  About Dada Sushi in Murrieta, CA$$$Dada Sushi in Murrieta, CA, offers a
+  relaxed spot for enjoying fresh sushi and traditional Japanese flavors, making
+  it a go-to choice for those seeking quality dining options in the area. This
+  venue specializes in a variety of sushi rolls, sake selections, and classic
+  dishes that highlight authentic tastes, all served in a welcoming atmosphere
+  perfect for casual meals or gatherings. With features like
+  wheelchair-accessible seating and outdoor options, it caters to a wide range
+  of diners looking for convenience and comfort. The menu emphasizes fresh
+  ingredients and generous portions, appealing to anyone exploring top-rated
+  sushi restaurants nearby. Whether you're in the mood for a quick bite or a
+  full Japanese-inspired meal, this spot delivers a satisfying experience that
+  stands out in the local scene.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJH_xUyYWD3IARAhkCfwTwXKY/reviews/ChdDSUhNMG9nS0VJQ0FnSURmcHMyVXpnRRAB
@@ -384,6 +409,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNMM3MtS0JnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNMM3MtS0JnEAE!2m1!1s0x80dc8385c954fc1f:0xa65cf0047f021902
+review_summary: >-
+  Review Highlights from Visitors$$$Folks are raving about the fresh fish and
+  generous portions at this sushi spot, with many calling it a standout choice
+  for authentic Japanese flavors in the area. Diners appreciate the helpful
+  guidance from staff on specialty rolls and cuts, making it easy to try
+  something new and exciting. While a few mentions noted occasional slips in
+  service, the overall vibe remains positive with highlights on buttery tuna and
+  flavorful hand rolls that keep people coming back. It's clear this place hits
+  the mark for anyone hunting for top sushi experiences, offering a fun and
+  satisfying meal that lives up to the hype. If you're on the hunt for great
+  sushi nearby, it's worth checking out for its reliable quality and welcoming
+  feel.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -416,7 +454,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

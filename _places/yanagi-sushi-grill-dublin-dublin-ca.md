@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yanagi Sushi & Grill Dublin"
+title: Yanagi Sushi & Grill Dublin
 permalink: /california/dublin/yanagi-sushi-grill-dublin.html
 stateAbbr: CA
 stateName: California
 cityName: Dublin
 seo:
-  name: "Yanagi Sushi & Grill Dublin"
-  type: Restaurant
+  type: restaurant
   links: https://yanagisushitogo.com/
-description: "Yanagi Sushi & Grill Dublin serves delicious sushi in Dublin, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJF6xtaejtj4AROlWWiOVqwAA
 photos:
   - name: >-
@@ -170,7 +168,105 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x808fede8696dac17:0xc06ae58896553a!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 2:30 PM, 4:30 – 9:30 PM'
     - 'Tuesday: 11:30 AM – 2:30 PM, 4:30 – 9:30 PM'
     - 'Wednesday: 11:30 AM – 2:30 PM, 4:30 – 9:30 PM'
@@ -178,14 +274,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 2:30 PM, 4:30 – 9:30 PM'
     - 'Saturday: 11:30 AM – 9:30 PM'
     - 'Sunday: 11:30 AM – 9:30 PM'
-  current:
-    - 'Monday: 11:30 AM – 2:30 PM, 4:30 – 9:30 PM'
-    - 'Tuesday: 11:30 AM – 2:30 PM, 4:30 – 9:30 PM'
-    - 'Wednesday: 11:30 AM – 2:30 PM, 4:30 – 9:30 PM'
-    - 'Thursday: 11:30 AM – 2:30 PM, 4:30 – 9:30 PM'
-    - 'Friday: 11:30 AM – 2:30 PM, 4:30 – 9:30 PM'
-    - 'Saturday: 11:30 AM – 9:30 PM'
-    - 'Sunday: 11:30 AM – 9:30 PM'
+  nextCloseTime: '2025-05-04T04:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +286,49 @@ phone: (925) 556-9575
 price_level: PRICE_LEVEL_MODERATE
 price_range: $30 &ndash; $50
 rating: '4.3'
-rating_count: 0
+rating_count: 139
 website: https://yanagisushitogo.com/
+description: >-
+  Discover Yanagi Sushi & Grill in Dublin, CA$$$Yanagi Sushi & Grill in Dublin,
+  CA, stands out as a welcoming Japanese restaurant specializing in fresh sushi
+  and grilled favorites, perfect for those seeking flavorful dining options. The
+  spot boasts accessible features like wheelchair-friendly parking and
+  entrances, ensuring a comfortable visit for all guests, while its moderate
+  pricing makes it an appealing choice for everyday meals. Operating with
+  extended hours from late morning through evening most days, it's ideal for
+  quick lunches or relaxed dinners, catering to busy locals and visitors alike.
+  This sushi destination emphasizes quality ingredients and a cozy atmosphere,
+  drawing in those exploring top-rated Japanese places nearby. Whether you're in
+  the mood for authentic rolls or grilled dishes, it offers a satisfying
+  experience that highlights the best of East Asian cuisine.
+generative_summary: >-
+  Discover Yanagi Sushi & Grill in Dublin, CA$$$Yanagi Sushi & Grill in Dublin,
+  CA, stands out as a welcoming Japanese restaurant specializing in fresh sushi
+  and grilled favorites, perfect for those seeking flavorful dining options. The
+  spot boasts accessible features like wheelchair-friendly parking and
+  entrances, ensuring a comfortable visit for all guests, while its moderate
+  pricing makes it an appealing choice for everyday meals. Operating with
+  extended hours from late morning through evening most days, it's ideal for
+  quick lunches or relaxed dinners, catering to busy locals and visitors alike.
+  This sushi destination emphasizes quality ingredients and a cozy atmosphere,
+  drawing in those exploring top-rated Japanese places nearby. Whether you're in
+  the mood for authentic rolls or grilled dishes, it offers a satisfying
+  experience that highlights the best of East Asian cuisine.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this Dublin sushi spot often praise
+  the fresh and well-prepared rolls, noting how they make for a delightful meal
+  that's worth the visit. Many enjoy the variety of options available, from
+  classic nigiri to creative specials, which keep things exciting for groups or
+  solo diners. While some mention portions could be more generous, the overall
+  value and friendly service tend to leave a positive impression, making it a
+  reliable go-to for casual outings. Feedback highlights the restaurant's
+  ability to deliver on flavor, with diners appreciating the attention to detail
+  in every bite. If you're hunting for great sushi restaurants in the area, this
+  place generally earns high marks for its tasty offerings and welcoming vibe,
+  encouraging repeat trips for locals and newcomers alike.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +354,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

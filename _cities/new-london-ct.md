@@ -5,4 +5,5 @@ permalink: /connecticut/new-london/
 stateAbbr: CT
 stateName: Connecticut
 cityName: New London
+
 ---

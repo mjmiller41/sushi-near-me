@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Makino"
+title: Makino
 permalink: /nevada/las-vegas/makino.html
 stateAbbr: NV
 stateName: Nevada
 cityName: Las Vegas
 seo:
-  name: "Makino"
-  type: Restaurant
+  type: restaurant
   links: https://www.fooddiscoveryapp.com/las-vegas/makino
-description: "Makino serves delicious sushi in Las Vegas, Nevada. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJj17b677GyIARR1-aA9Fybko
 photos:
   - name: >-
@@ -170,7 +168,121 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c8c6beebdb5e8f:0x4a6e72d1039a5f47!10e5
 primary_type: Buffet Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 15
+        minute: 0
+    - open:
+        day: 0
+        hour: 17
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 17
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 17
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 17
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 15
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 2:30 PM, 5:30 – 9:00 PM'
     - 'Tuesday: 11:30 AM – 2:30 PM, 5:30 – 9:00 PM'
     - 'Wednesday: 11:30 AM – 2:30 PM, 5:30 – 9:00 PM'
@@ -178,14 +290,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 3:00 PM, 5:30 – 9:00 PM'
     - 'Saturday: 11:30 AM – 3:00 PM, 5:30 – 9:00 PM'
     - 'Sunday: 11:30 AM – 3:00 PM, 5:30 – 9:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 2:30 PM, 5:30 – 9:00 PM'
-    - 'Tuesday: 11:30 AM – 2:30 PM, 5:30 – 9:00 PM'
-    - 'Wednesday: 11:30 AM – 2:30 PM, 5:30 – 9:00 PM'
-    - 'Thursday: 11:30 AM – 2:30 PM, 5:30 – 9:00 PM'
-    - 'Friday: 11:30 AM – 3:00 PM, 5:30 – 9:00 PM'
-    - 'Saturday: 11:30 AM – 3:00 PM, 5:30 – 9:00 PM'
-    - 'Sunday: 11:30 AM – 3:00 PM, 5:30 – 9:00 PM'
+  nextOpenTime: '2025-05-04T00:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +302,227 @@ phone: (702) 889-4477
 price_level: PRICE_LEVEL_MODERATE
 price_range: $30 &ndash; $50
 rating: '4.2'
-rating_count: 0
+rating_count: 2594
 website: https://www.fooddiscoveryapp.com/las-vegas/makino
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Makino in Las Vegas, NV$$$Makino in Las Vegas, NV, stands out as a
+  casual buffet restaurant specializing in authentic Japanese cuisine, featuring
+  an extensive array of fresh sushi and other flavorful dishes. This spot offers
+  an all-you-can-eat experience with a variety of options like tempura, seafood,
+  and desserts, making it a go-to choice for those seeking Japanese places near
+  me with a welcoming atmosphere. The restaurant prioritizes accessibility with
+  features like wheelchair-friendly seating and entrances, ensuring everyone can
+  enjoy the vibrant dining scene. Its moderate pricing provides great value for
+  families and groups looking for top-rated sushi in a clean, comfortable
+  setting, perfect for a satisfying meal after exploring the city.
+generative_summary: >-
+  Discover Makino in Las Vegas, NV$$$Makino in Las Vegas, NV, stands out as a
+  casual buffet restaurant specializing in authentic Japanese cuisine, featuring
+  an extensive array of fresh sushi and other flavorful dishes. This spot offers
+  an all-you-can-eat experience with a variety of options like tempura, seafood,
+  and desserts, making it a go-to choice for those seeking Japanese places near
+  me with a welcoming atmosphere. The restaurant prioritizes accessibility with
+  features like wheelchair-friendly seating and entrances, ensuring everyone can
+  enjoy the vibrant dining scene. Its moderate pricing provides great value for
+  families and groups looking for top-rated sushi in a clean, comfortable
+  setting, perfect for a satisfying meal after exploring the city.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJj17b677GyIARR1-aA9Fybko/reviews/ChZDSUhNMG9nS0VJQ0FnTUNnNUlibElnEAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 4
+    text:
+      text: >-
+        The food was great only wished the crab legs were warm.  Shrimp tempura
+        was scrumptious!  A definitely great value at $45.99.  Servers were
+        polite and quick to take away dirty plates.  Very clean as well.  Will
+        be back next trip!
+      languageCode: en
+    originalText:
+      text: >-
+        The food was great only wished the crab legs were warm.  Shrimp tempura
+        was scrumptious!  A definitely great value at $45.99.  Servers were
+        polite and quick to take away dirty plates.  Very clean as well.  Will
+        be back next trip!
+      languageCode: en
+    authorAttribution:
+      displayName: Lynn Kepoo
+      uri: https://www.google.com/maps/contrib/104515108184951132623/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWgrFcl5042OuwNiXjb-f6jHUyEh7PTikyCg6jsBLp5hJO_yhqs6g=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-02-14T10:16:33.163168Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNnNUlibElnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNnNUlibElnEAE!2m1!1s0x80c8c6beebdb5e8f:0x4a6e72d1039a5f47
+  - name: >-
+      places/ChIJj17b677GyIARR1-aA9Fybko/reviews/ChdDSUhNMG9nS0VJQ0FnTUNRMjlUbHJnRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 2
+    text:
+      text: >-
+        The crab legs were small and cold. The fried rice was below average. The
+        cheesecake was horrible. Over priced for sure but the lemonade was good!
+      languageCode: en
+    originalText:
+      text: >-
+        The crab legs were small and cold. The fried rice was below average. The
+        cheesecake was horrible. Over priced for sure but the lemonade was good!
+      languageCode: en
+    authorAttribution:
+      displayName: Jermaine Dawson
+      uri: https://www.google.com/maps/contrib/100085300029833175994/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXIVRdvt4zQvCrCcroY5qZLKRSODKM4C1H8Wtz4mAFEv58lQEsL=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-07T09:11:45.635655Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNRMjlUbHJnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNRMjlUbHJnRRAB!2m1!1s0x80c8c6beebdb5e8f:0x4a6e72d1039a5f47
+  - name: >-
+      places/ChIJj17b677GyIARR1-aA9Fybko/reviews/ChZDSUhNMG9nS0VJQ0FnSURuNE5mb09nEAE
+    relativePublishTimeDescription: 7 months ago
+    rating: 5
+    text:
+      text: >-
+        We went here for the first time with a party of 10, not knowing it was
+        going to be so much per person. If it was just my husband and myself,
+        the prices would be fine. If you're going with a large party, though,
+        expect to pay $45/adult/13+, about $35/senior, and child charge goes by
+        height for 12 and under. However, the food was amazing. The staff were
+        very friendly and attentive. They refilled glasses without needing to be
+        asked and removed plates quickly when anyone got up to get more. If
+        you're good with paying more for quality seafood and sushi as well as
+        top-notch service, I would recommend giving them a try.
+      languageCode: en
+    originalText:
+      text: >-
+        We went here for the first time with a party of 10, not knowing it was
+        going to be so much per person. If it was just my husband and myself,
+        the prices would be fine. If you're going with a large party, though,
+        expect to pay $45/adult/13+, about $35/senior, and child charge goes by
+        height for 12 and under. However, the food was amazing. The staff were
+        very friendly and attentive. They refilled glasses without needing to be
+        asked and removed plates quickly when anyone got up to get more. If
+        you're good with paying more for quality seafood and sushi as well as
+        top-notch service, I would recommend giving them a try.
+      languageCode: en
+    authorAttribution:
+      displayName: Brenda Renou
+      uri: https://www.google.com/maps/contrib/109051810977995836900/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUzMIrcxyWwBnIeqQSTpcJJ5DOQ6oyX4ZixLd-v_0UngHhl5bKR=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-10-02T05:13:29.076722Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURuNE5mb09nEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURuNE5mb09nEAE!2m1!1s0x80c8c6beebdb5e8f:0x4a6e72d1039a5f47
+  - name: >-
+      places/ChIJj17b677GyIARR1-aA9Fybko/reviews/ChdDSUhNMG9nS0VJQ0FnSURYMWRudzRBRRAB
+    relativePublishTimeDescription: 6 months ago
+    rating: 5
+    text:
+      text: >-
+        This buffet is awesome. Way better quality than Chinese and Korean ones.
+        They had unique japanese dishes, and the dessert was all made in house,
+        which was super cool! The servers were super nice, which usually isn't
+        the case in asian buffets. The sushi section was really great and
+        offered plenty of options. Will definitely be back when I'm in the area!
+      languageCode: en
+    originalText:
+      text: >-
+        This buffet is awesome. Way better quality than Chinese and Korean ones.
+        They had unique japanese dishes, and the dessert was all made in house,
+        which was super cool! The servers were super nice, which usually isn't
+        the case in asian buffets. The sushi section was really great and
+        offered plenty of options. Will definitely be back when I'm in the area!
+      languageCode: en
+    authorAttribution:
+      displayName: Emily R.
+      uri: https://www.google.com/maps/contrib/106723977491711565067/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjX4hGr70KWThxFfdYzxDXKf11yUlaWFzdNbABM_oNo-WZD7keLN=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2024-10-29T21:08:37.503415Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURYMWRudzRBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURYMWRudzRBRRAB!2m1!1s0x80c8c6beebdb5e8f:0x4a6e72d1039a5f47
+  - name: >-
+      places/ChIJj17b677GyIARR1-aA9Fybko/reviews/ChdDSUhNMG9nS0VJQ0FnSUR2MF9DVHRRRRAB
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        If your looking for a Buffet of sushi, bbq ribs, crab legs, baked
+        salmon, shrimp tempura all the yummy food you can think of they have it
+        here!
+      languageCode: en
+    originalText:
+      text: >-
+        If your looking for a Buffet of sushi, bbq ribs, crab legs, baked
+        salmon, shrimp tempura all the yummy food you can think of they have it
+        here!
+      languageCode: en
+    authorAttribution:
+      displayName: Dania Chavez
+      uri: https://www.google.com/maps/contrib/117957737854516846685/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXYCd_JYrYj9_XdJ96dscwMklVRMLBgiXq4-fTprl6AqNUzBKCg5w=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-12-23T19:57:15.621749Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR2MF9DVHRRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR2MF9DVHRRRRAB!2m1!1s0x80c8c6beebdb5e8f:0x4a6e72d1039a5f47
+review_summary: >-
+  What Visitors Are Saying About the Experience$$$Visitors often rave about the
+  wide variety of fresh sushi and Japanese dishes at this buffet, highlighting
+  the flavorful seafood and hot entrees as standout features that make it worth
+  a visit. While some mention that certain items like crab legs could be warmer,
+  the overall quality and selection keep the experience enjoyable and memorable
+  for most. Folks appreciate the friendly service and quick table clearings,
+  which add to the relaxed vibe and make it easy to try everything on offer.
+  Despite a few comments on pricing feeling a bit high, many agree it's a solid
+  choice for sushi restaurants near me, especially for groups seeking a fun,
+  casual outing. All in all, the positive vibes and tasty options make it a
+  reliable spot for anyone craving authentic Japanese flavors in a welcoming
+  environment.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  paidStreetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
 menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: false
+serves_coffee: true
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: false
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Casual, comfortable Japanese buffet offering all-you-can-eat sushi, salad, hot
+  entrees & desserts.
 
 ---

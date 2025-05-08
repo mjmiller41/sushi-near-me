@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "JIN SUSHI #2 (Brimhall & Allen)"
+title: 'JIN SUSHI #2 (Brimhall & Allen)'
 permalink: /california/bakersfield/jin-sushi-2-brimhall-allen.html
 stateAbbr: CA
 stateName: California
 cityName: Bakersfield
 seo:
-  name: "JIN SUSHI #2 (Brimhall & Allen)"
-  type: Restaurant
-  links: null
-description: "JIN SUSHI #2 (Brimhall & Allen) serves delicious sushi in Bakersfield, California. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://jinsushibako.com/
 place_id: ChIJa_LpZQZF6oARkzzXudAqh_o
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80ea450665e9f26b:0xfa872ad0b9d73c93!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:30 AM – 9:00 PM'
+    - 'Tuesday: 11:30 AM – 9:00 PM'
+    - 'Wednesday: 11:30 AM – 9:00 PM'
+    - 'Thursday: 11:30 AM – 9:00 PM'
+    - 'Friday: 11:30 AM – 10:00 PM'
+    - 'Saturday: 11:30 AM – 10:00 PM'
+    - 'Sunday: 11:30 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T05:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,50 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
+phone: (661) 459-3400
 price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+price_range: $20 &ndash; $30
+rating: '4.5'
+rating_count: 279
+website: http://jinsushibako.com/
+description: >-
+  Discover JIN SUSHI in Bakersfield, CA$$$JIN SUSHI #2 in Bakersfield, CA,
+  stands out as a welcoming spot for those seeking fresh Japanese-inspired
+  cuisine in a laid-back setting. The restaurant specializes in flavorful sushi
+  rolls, hearty bento boxes, and savory teriyaki dishes, all prepared with
+  high-quality ingredients that highlight traditional flavors. Its accessible
+  design, including wheelchair-friendly parking and seating, makes it an
+  inclusive choice for a variety of diners looking for top-rated sushi options
+  nearby. The cozy atmosphere invites relaxation, perfect for enjoying a casual
+  meal with friends or family after a day out. Whether you're exploring sushi
+  places near me or craving authentic Japanese fare, this establishment delivers
+  a satisfying experience with its reliable hours and inviting vibe.
+generative_summary: >-
+  Discover JIN SUSHI in Bakersfield, CA$$$JIN SUSHI #2 in Bakersfield, CA,
+  stands out as a welcoming spot for those seeking fresh Japanese-inspired
+  cuisine in a laid-back setting. The restaurant specializes in flavorful sushi
+  rolls, hearty bento boxes, and savory teriyaki dishes, all prepared with
+  high-quality ingredients that highlight traditional flavors. Its accessible
+  design, including wheelchair-friendly parking and seating, makes it an
+  inclusive choice for a variety of diners looking for top-rated sushi options
+  nearby. The cozy atmosphere invites relaxation, perfect for enjoying a casual
+  meal with friends or family after a day out. Whether you're exploring sushi
+  places near me or craving authentic Japanese fare, this establishment delivers
+  a satisfying experience with its reliable hours and inviting vibe.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Folks frequently praise the fresh sushi and
+  delicious dumplings at this spot, noting how the flavors really hit the mark
+  for a satisfying meal. Many highlight the efficient and friendly service that
+  keeps things running smoothly, making it easy to enjoy dishes like chicken
+  fried rice without any hassle. The clean and welcoming environment adds to the
+  overall appeal, creating a comfortable space for casual dining. Overall,
+  visitors appreciate the consistent quality and value, often recommending it as
+  a go-to option for those hunting for reliable sushi restaurants in the area.
+  While opinions vary, the positive feedback underscores why this place remains
+  a popular choice for anyone in the mood for a solid Japanese meal.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +311,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

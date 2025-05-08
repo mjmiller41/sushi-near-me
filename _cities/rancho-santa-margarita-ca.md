@@ -5,4 +5,5 @@ permalink: /california/rancho-santa-margarita/
 stateAbbr: CA
 stateName: California
 cityName: Rancho Santa Margarita
+
 ---

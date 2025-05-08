@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Time"
+title: Sushi Time
 permalink: /california/seaside/sushi-time.html
 stateAbbr: CA
 stateName: California
 cityName: Seaside
 seo:
-  name: "Sushi Time"
-  type: Restaurant
+  type: restaurant
   links: http://sushitime.menu11.com/
-description: "Homey stop-in for creative sushi rolls & familiar Japanese chow, plus beer & sake in petite digs. Sushi Time serves delicious sushi in Seaside, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ3cc3CfzkjYARYKe54O0x788
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: null
 rating: '4.4'
 rating_count: 0
 website: http://sushitime.menu11.com/
+description: >-
+  Discover Sushi Time in Seaside, CA$$$Nestled in Seaside, CA, Sushi Time offers
+  a welcoming spot for enjoying fresh sushi rolls and classic Japanese-inspired
+  dishes in a cozy, unpretentious setting. This local favorite features creative
+  options like tempura and teriyaki, paired with a selection of beer, sake, and
+  wine, making it a go-to choice for anyone seeking flavorful meals in a relaxed
+  atmosphere. With its affordable pricing and accessible features such as
+  wheelchair-friendly parking and seating, it's an ideal stop for casual diners
+  looking for sushi restaurants nearby. The intimate space encourages a
+  comfortable vibe, perfect for those exploring top-rated Japanese places in the
+  area that prioritize both taste and convenience.
+generative_summary: >-
+  Discover Sushi Time in Seaside, CA$$$Nestled in Seaside, CA, Sushi Time offers
+  a welcoming spot for enjoying fresh sushi rolls and classic Japanese-inspired
+  dishes in a cozy, unpretentious setting. This local favorite features creative
+  options like tempura and teriyaki, paired with a selection of beer, sake, and
+  wine, making it a go-to choice for anyone seeking flavorful meals in a relaxed
+  atmosphere. With its affordable pricing and accessible features such as
+  wheelchair-friendly parking and seating, it's an ideal stop for casual diners
+  looking for sushi restaurants nearby. The intimate space encourages a
+  comfortable vibe, perfect for those exploring top-rated Japanese places in the
+  area that prioritize both taste and convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ3cc3CfzkjYARYKe54O0x788/reviews/ChdDSUhNMG9nS0VJQ0FnTUNBZzdYN29BRRAB
@@ -356,6 +377,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNlaGMtcnpnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNlaGMtcnpnRRAB!2m1!1s0x808de4fc0937c7dd:0xcfef31ede0b9a760
+review_summary: >-
+  What Customers Are Buzzing About$$$Visitors often highlight the fresh and
+  tasty sushi rolls that make meals here feel satisfying and worthwhile, with
+  many appreciating the great value and variety on offer. While some note
+  occasional inconsistencies in service or authenticity that could use a tweak,
+  the overall experience shines through with quick, friendly attention and
+  generous portions that keep people coming back. Folks enjoy the affordable
+  combos and appetizers that deliver big on flavor without breaking the bank,
+  making it a solid pick for groups or families. In general, the positive vibes
+  around the food's quality and atmosphere outweigh any minor hiccups, leaving
+  most satisfied and eager to recommend it as a reliable spot for enjoying
+  Japanese-inspired eats.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -388,8 +422,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Homey stop-in for creative sushi rolls & familiar Japanese chow, plus beer &
   sake in petite digs.
 

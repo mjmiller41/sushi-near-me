@@ -5,4 +5,5 @@ permalink: /vermont/burlington/
 stateAbbr: VT
 stateName: Vermont
 cityName: Burlington
+
 ---

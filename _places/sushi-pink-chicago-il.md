@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Pink"
+title: Sushi Pink
 permalink: /illinois/chicago/sushi-pink.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
 seo:
-  name: "Sushi Pink"
-  type: Restaurant
+  type: restaurant
   links: https://www.sushipink.com/
-description: "Compact Japanese restaurant & sushi bar serving creative rolls & cocktails in a modern setting. Sushi Pink serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJsTAsA9ssDogRpQcLXLHRJjk
 photos:
   - name: >-
@@ -184,6 +182,31 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 0
 website: https://www.sushipink.com/
+description: >-
+  Explore Sushi Pink in Chicago, IL$$$Sushi Pink in Chicago, IL, stands out as a
+  compact Japanese restaurant that blends casual vibes with a menu featuring
+  fresh sushi and hearty ramen options. This spot in the West Loop neighborhood
+  offers a modern setting where creative rolls and inventive cocktails create an
+  engaging dining experience for sushi enthusiasts. With thoughtful
+  accessibility features like wheelchair-friendly entrances and seating, it's
+  designed to welcome everyone looking for authentic Japanese fare nearby.
+  Patrons can enjoy outdoor seating and a variety of vegetarian choices, making
+  it a go-to for those searching for top-rated sushi restaurants in the area.
+  Whether you're in the mood for a quick bite or a relaxed meal, Sushi Pink
+  delivers quality and flavor that capture the essence of Japanese cuisine.
+generative_summary: >-
+  Explore Sushi Pink in Chicago, IL$$$Sushi Pink in Chicago, IL, stands out as a
+  compact Japanese restaurant that blends casual vibes with a menu featuring
+  fresh sushi and hearty ramen options. This spot in the West Loop neighborhood
+  offers a modern setting where creative rolls and inventive cocktails create an
+  engaging dining experience for sushi enthusiasts. With thoughtful
+  accessibility features like wheelchair-friendly entrances and seating, it's
+  designed to welcome everyone looking for authentic Japanese fare nearby.
+  Patrons can enjoy outdoor seating and a variety of vegetarian choices, making
+  it a go-to for those searching for top-rated sushi restaurants in the area.
+  Whether you're in the mood for a quick bite or a relaxed meal, Sushi Pink
+  delivers quality and flavor that capture the essence of Japanese cuisine.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJsTAsA9ssDogRpQcLXLHRJjk/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3NzlhdUxnEAE
@@ -367,6 +390,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURRXzlHSTNRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURRXzlHSTNRRRAB!2m1!1s0x880e2cdb032c30b1:0x3926d1b15c0b07a5
+review_summary: >-
+  Visitor Feedback on Sushi Pink$$$Visitors often praise the fresh ingredients
+  and creative rolls at this Japanese spot, highlighting how the flavors blend
+  perfectly in dishes like various maki options. Many appreciate the generous
+  portions and high-quality fish that make every meal feel satisfying and well
+  worth it for sushi lovers in the neighborhood. The friendly service and cozy
+  atmosphere add to the appeal, creating a welcoming environment that's great
+  for casual outings or groups. Folks frequently note that it's an excellent
+  choice for those seeking sushi close to home, with options that cater to
+  different tastes without disappointing. Overall, the consistent positives
+  around taste and vibe make it a solid pick for anyone exploring local Japanese
+  places.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidStreetParking: true
 payment_options:
@@ -397,8 +433,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Compact Japanese restaurant & sushi bar serving creative rolls & cocktails in
   a modern setting.
 

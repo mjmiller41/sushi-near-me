@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Spot"
+title: Sushi Spot
 permalink: /colorado/colorado-springs/sushi-spot.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Colorado Springs
 seo:
-  name: "Sushi Spot"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi Spot serves delicious sushi in Colorado Springs, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ-2H_OrhFE4cR8hBCd-390pc
 photos:
   - name: >-
@@ -170,7 +168,97 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x871345b83aff61fb:0x97d2fded774210f2!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 15
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 15
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 3:00 PM, 4:30 – 9:00 PM'
     - 'Tuesday: 11:00 AM – 3:00 PM, 4:30 – 9:00 PM'
     - 'Wednesday: 11:00 AM – 3:00 PM, 4:30 – 9:00 PM'
@@ -178,14 +266,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 3:00 PM, 4:30 – 10:00 PM'
     - 'Saturday: 11:00 AM – 10:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:00 AM – 3:00 PM, 4:30 – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 3:00 PM, 4:30 – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 3:00 PM, 4:30 – 9:00 PM'
-    - 'Thursday: 11:00 AM – 3:00 PM, 4:30 – 9:00 PM'
-    - 'Friday: 11:00 AM – 3:00 PM, 4:30 – 10:00 PM'
-    - 'Saturday: 11:00 AM – 10:00 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +278,253 @@ phone: (719) 358-7241
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.8'
-rating_count: 0
+rating_count: 730
 website: null
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Sushi Spot in Colorado Springs, CO$$$Sushi Spot in Colorado Springs,
+  CO, delivers a relaxed dining experience with fresh sushi rolls, sake, and
+  beer, making it a go-to choice for those seeking authentic Japanese flavors.
+  The spot boasts a chill atmosphere perfect for casual meals, complemented by
+  vegetarian options that cater to diverse tastes, ensuring everyone can find
+  something satisfying. Accessibility features like wheelchair-friendly parking
+  and entrances add to the convenience, while the moderate price range offers
+  great value for quality ingredients. Open for lunch and dinner several days a
+  week, it's an ideal spot for locals and visitors exploring sushi restaurants
+  in the area to enjoy a welcoming vibe without the fuss.
+generative_summary: >-
+  Discover Sushi Spot in Colorado Springs, CO$$$Sushi Spot in Colorado Springs,
+  CO, delivers a relaxed dining experience with fresh sushi rolls, sake, and
+  beer, making it a go-to choice for those seeking authentic Japanese flavors.
+  The spot boasts a chill atmosphere perfect for casual meals, complemented by
+  vegetarian options that cater to diverse tastes, ensuring everyone can find
+  something satisfying. Accessibility features like wheelchair-friendly parking
+  and entrances add to the convenience, while the moderate price range offers
+  great value for quality ingredients. Open for lunch and dinner several days a
+  week, it's an ideal spot for locals and visitors exploring sushi restaurants
+  in the area to enjoy a welcoming vibe without the fuss.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ-2H_OrhFE4cR8hBCd-390pc/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJN1ptaFlBEAE
+    relativePublishTimeDescription: 4 weeks ago
+    rating: 5
+    text:
+      text: >-
+        Look... The only reason I'm sharing this place is because my family is
+        leaving Colorado Springs. I didn't want anyone to know about it.
+
+        The thought of showing up to Sushi Spot, waiting for a table and
+        watching other people eat sushi that I could be eating right away..?
+        Yeah, that wasn't a life I was willing to live.
+
+        On a serious note, everyone, including the owner, cares about you first
+        and foremost. They then somehow do an equally amazing job on the food.
+        The price is great and it's definitely a special place.
+
+        We're leaving forever and the wife and I are legitimately sad!
+
+        Thanks for the good times!
+      languageCode: en
+    originalText:
+      text: >-
+        Look... The only reason I'm sharing this place is because my family is
+        leaving Colorado Springs. I didn't want anyone to know about it.
+
+        The thought of showing up to Sushi Spot, waiting for a table and
+        watching other people eat sushi that I could be eating right away..?
+        Yeah, that wasn't a life I was willing to live.
+
+        On a serious note, everyone, including the owner, cares about you first
+        and foremost. They then somehow do an equally amazing job on the food.
+        The price is great and it's definitely a special place.
+
+        We're leaving forever and the wife and I are legitimately sad!
+
+        Thanks for the good times!
+      languageCode: en
+    authorAttribution:
+      displayName: Kota McDavid
+      uri: https://www.google.com/maps/contrib/117532843157332187453/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJZ1phaugeVguXGg2IhiS9IbYJ_o311q0-h-I5MUTZDi3rNsg=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-04T01:36:52.220494Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNJN1ptaFlBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNJN1ptaFlBEAE!2m1!1s0x871345b83aff61fb:0x97d2fded774210f2
+  - name: >-
+      places/ChIJ-2H_OrhFE4cR8hBCd-390pc/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJN2VIWGN3EAE
+    relativePublishTimeDescription: 4 weeks ago
+    rating: 5
+    text:
+      text: >-
+        THE BEST sushi I’ve ever had!!! We decided to try out this place because
+        of the amazing Google rating and we were not disappointed! It has become
+        our favorite sushi place by far. The staff are so nice and the owner and
+        his brother are always so welcoming. And of course the sushi is amazing
+        and you can’t beat the prices. Definitely a must try!!
+      languageCode: en
+    originalText:
+      text: >-
+        THE BEST sushi I’ve ever had!!! We decided to try out this place because
+        of the amazing Google rating and we were not disappointed! It has become
+        our favorite sushi place by far. The staff are so nice and the owner and
+        his brother are always so welcoming. And of course the sushi is amazing
+        and you can’t beat the prices. Definitely a must try!!
+      languageCode: en
+    authorAttribution:
+      displayName: Bailey Kisiel
+      uri: https://www.google.com/maps/contrib/115549996955775962199/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUDJ4d3zlYclCHNeAFmKjtjL8s935lY0JlZM2LikpC5bQwM77gP=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-04T01:29:39.405550Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNJN2VIWGN3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNJN2VIWGN3EAE!2m1!1s0x871345b83aff61fb:0x97d2fded774210f2
+  - name: >-
+      places/ChIJ-2H_OrhFE4cR8hBCd-390pc/reviews/ChdDSUhNMG9nS0VJQ0FnTUNBanB2WHRnRRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        Some of the most generous portions without being too heavy on fish or
+        rice. They find the perfect balance. There’s a large selection and the
+        prices are fair for the quality of food you receive. The customer
+        service is great. The staff tends to your needs but doesn’t hover over
+        you while you eat. I will be eating here again!
+      languageCode: en
+    originalText:
+      text: >-
+        Some of the most generous portions without being too heavy on fish or
+        rice. They find the perfect balance. There’s a large selection and the
+        prices are fair for the quality of food you receive. The customer
+        service is great. The staff tends to your needs but doesn’t hover over
+        you while you eat. I will be eating here again!
+      languageCode: en
+    authorAttribution:
+      displayName: Jamey Jenkins
+      uri: https://www.google.com/maps/contrib/118020078350911395375/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJzw9IdwBYIAZ3nHd8ktxtJY-xfm4c3Ceq_9SRjRHtGECGuhw=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-01-31T21:41:45.161406Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNBanB2WHRnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNBanB2WHRnRRAB!2m1!1s0x871345b83aff61fb:0x97d2fded774210f2
+  - name: >-
+      places/ChIJ-2H_OrhFE4cR8hBCd-390pc/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJN2RPbk1REAE
+    relativePublishTimeDescription: 4 weeks ago
+    rating: 5
+    text:
+      text: >-
+        Sushi Spot has delicious authentic sushi! This is our family favorite. I
+        highly recommend you try this restaurant for great food, exceptional
+        service and friendly staff and owner. You won’t regret it!
+      languageCode: en
+    originalText:
+      text: >-
+        Sushi Spot has delicious authentic sushi! This is our family favorite. I
+        highly recommend you try this restaurant for great food, exceptional
+        service and friendly staff and owner. You won’t regret it!
+      languageCode: en
+    authorAttribution:
+      displayName: Russelin Kisiel
+      uri: https://www.google.com/maps/contrib/111981373919018258666/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWepY6S-wplgP4Nu4DvUUDIa-tjoWmirvDzS6Ya3oelGJIavRU=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-04T01:57:55.560328Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNJN2RPbk1REAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNJN2RPbk1REAE!2m1!1s0x871345b83aff61fb:0x97d2fded774210f2
+  - name: >-
+      places/ChIJ-2H_OrhFE4cR8hBCd-390pc/reviews/ChdDSUhNMG9nS0VJQ0FnSURfOFpYeXJBRRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        Sushi spot has never failed us with their quality, serving portions, and
+        the amazing staff. Just look at how massive the nigiri portions are!
+        Compare to all the other sushi places in the springs, for their quality
+        and serving size, this is the bang for the buck. It’s a small yet
+        intimate and cozy atmosphere. Every time we want good sushi in the
+        springs, my boyfriend and I have have been here for the past three years
+        and it’s always hit the spot. Im quite picky with sushi and quality, so
+        I’m very happy to know that after all these years, sushi spot continues
+        to serve bomb sushi with such amazing chefs and staff. Seriously, the
+        chef and servers make dining experience so much more special and
+        enjoyable.
+      languageCode: en
+    originalText:
+      text: >-
+        Sushi spot has never failed us with their quality, serving portions, and
+        the amazing staff. Just look at how massive the nigiri portions are!
+        Compare to all the other sushi places in the springs, for their quality
+        and serving size, this is the bang for the buck. It’s a small yet
+        intimate and cozy atmosphere. Every time we want good sushi in the
+        springs, my boyfriend and I have have been here for the past three years
+        and it’s always hit the spot. Im quite picky with sushi and quality, so
+        I’m very happy to know that after all these years, sushi spot continues
+        to serve bomb sushi with such amazing chefs and staff. Seriously, the
+        chef and servers make dining experience so much more special and
+        enjoyable.
+      languageCode: en
+    authorAttribution:
+      displayName: Kim
+      uri: https://www.google.com/maps/contrib/114201892219759391429/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLRirzJEoDYY35rgFvq5uRSa6XP4VCm5tlldypgq_JHPnnXrKY=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-01-25T03:33:42.227444Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURfOFpYeXJBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURfOFpYeXJBRRAB!2m1!1s0x871345b83aff61fb:0x97d2fded774210f2
+review_summary: >-
+  What Customers Love About This Top-Rated Sushi Place$$$Folks rave about the
+  delicious and fresh sushi at this spot, with generous portions that make every
+  bite feel worthwhile, often highlighting standout rolls and sides like crab
+  wontons. Many appreciate the friendly service and attentive staff that create
+  a cozy, intimate environment, making it easy to relax and enjoy the meal.
+  Reviewers frequently note the reasonable prices as a big plus, offering solid
+  value compared to other options around town without skimping on quality or
+  flavor. Overall, it's praised for being a reliable choice for authentic tastes
+  that hit the spot, encouraging repeat visits for anyone hunting for great
+  sushi experiences nearby. While a few mentions touch on the smaller space, the
+  positives around freshness and hospitality keep the feedback upbeat and
+  inviting.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsCashOnly: false
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
+delivery: true
+dine_in: true
 good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: true
+outdoor_seating: false
 reservable: null
-restroom: null
-serves_beer: null
+restroom: true
+serves_beer: true
 serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+serves_brunch: false
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

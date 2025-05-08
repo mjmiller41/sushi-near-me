@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "POKE SUSHI"
+title: POKE SUSHI
 permalink: /pennsylvania/pittsburgh/poke-sushi.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Pittsburgh
 seo:
-  name: "POKE SUSHI"
-  type: Restaurant
-  links: null
-description: "POKE SUSHI serves delicious sushi in Pittsburgh, Pennsylvania. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.toasttab.com/poke-sushi-1720-washington-road
 place_id: ChIJO5FeuMv5NIgR6DyOGZ4CIK4
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8834f9cbb85e913b:0xae20029e198e3ce8!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 9:00 PM'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 9:00 PM'
+    - 'Saturday: 12:00 – 9:00 PM'
+    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T01:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,50 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
+phone: (412) 308-6693
 price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+price_range: $10 &ndash; $20
+rating: '3.8'
+rating_count: 85
+website: https://www.toasttab.com/poke-sushi-1720-washington-road
+description: >-
+  Discover POKE SUSHI in Pittsburgh, PA$$$POKE SUSHI in Pittsburgh, PA, stands
+  out as a vibrant spot for fresh Japanese dining, offering a menu filled with
+  creative sushi rolls and customizable poke bowls that cater to a variety of
+  tastes. This eatery emphasizes trendy flavors and fresh ingredients, making it
+  an ideal choice for those seeking authentic sushi experiences in a welcoming
+  atmosphere. Accessibility features like wheelchair-friendly parking and
+  entrances ensure everyone can enjoy the space comfortably, while its
+  convenient hours from 11 AM to 9 PM on most days add to its appeal for quick
+  lunches or evening outings. Whether you're looking for sushi places near you
+  or exploring top-rated Japanese options, this location delivers a modern twist
+  on classic dishes that keeps diners coming back for more.
+generative_summary: >-
+  Discover POKE SUSHI in Pittsburgh, PA$$$POKE SUSHI in Pittsburgh, PA, stands
+  out as a vibrant spot for fresh Japanese dining, offering a menu filled with
+  creative sushi rolls and customizable poke bowls that cater to a variety of
+  tastes. This eatery emphasizes trendy flavors and fresh ingredients, making it
+  an ideal choice for those seeking authentic sushi experiences in a welcoming
+  atmosphere. Accessibility features like wheelchair-friendly parking and
+  entrances ensure everyone can enjoy the space comfortably, while its
+  convenient hours from 11 AM to 9 PM on most days add to its appeal for quick
+  lunches or evening outings. Whether you're looking for sushi places near you
+  or exploring top-rated Japanese options, this location delivers a modern twist
+  on classic dishes that keeps diners coming back for more.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Folks heading to POKE SUSHI often appreciate the
+  fresh and flavorful sushi rolls along with the variety of poke bowls that make
+  for a satisfying meal, based on the solid feedback from regular visitors.
+  While the overall experience earns a respectable rating, some mention that
+  service can vary depending on the time of day, but it's generally seen as
+  efficient and friendly. Diners frequently highlight the value for the price,
+  especially for those searching for affordable sushi restaurants nearby, making
+  it a go-to for casual get-togethers or solo adventures. All in all, it's a
+  spot that delivers on tasty options and a relaxed vibe, encouraging repeat
+  visits for anyone craving quality Japanese fare in the area.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +311,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

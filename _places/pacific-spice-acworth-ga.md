@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Pacific Spice"
+title: Pacific Spice
 permalink: /georgia/acworth/pacific-spice.html
 stateAbbr: GA
 stateName: Georgia
 cityName: Acworth
 seo:
-  name: "Pacific Spice"
-  type: Restaurant
-  links: null
-description: "Pacific Spice serves delicious sushi in Acworth, Georgia. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.pacificspiceacworth.com/
 place_id: ChIJQTJ-2HRH9YgRdlmT_gsRaIM
 photos:
   - name: >-
@@ -170,8 +168,113 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x88f54774d87e3241:0x8368110bfe935976!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 15
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 15
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 3:00 PM, 4:00 – 10:00 PM'
+    - 'Tuesday: 11:00 AM – 3:00 PM, 4:00 – 10:00 PM'
+    - 'Wednesday: 11:00 AM – 3:00 PM, 4:00 – 10:00 PM'
+    - 'Thursday: 11:00 AM – 3:00 PM, 4:00 – 10:00 PM'
+    - 'Friday: 11:00 AM – 3:00 PM, 4:00 – 10:00 PM'
+    - 'Saturday: 11:00 AM – 10:30 PM'
+    - 'Sunday: 11:00 AM – 10:00 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +282,43 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
+phone: (770) 529-8300
+price_level: PRICE_LEVEL_MODERATE
 price_range: null
-rating: null
-rating_count: 0
-website: null
+rating: '4.2'
+rating_count: 529
+website: http://www.pacificspiceacworth.com/
+description: >-
+  About Pacific Spice in Acworth, GA$$$Pacific Spice in Acworth, GA, is a
+  welcoming sushi restaurant that delivers fresh Japanese-inspired dishes in a
+  convenient suburban setting. This spot emphasizes accessibility with features
+  like wheelchair-friendly parking and entrances, ensuring everyone can enjoy a
+  comfortable meal. Diners can explore a range of creative rolls and traditional
+  options, perfect for those seeking sushi places nearby with a relaxed vibe.
+  The restaurant maintains extended hours, including evenings and weekends,
+  making it easy to satisfy cravings for quality Japanese cuisine without
+  hassle.
+generative_summary: >-
+  About Pacific Spice in Acworth, GA$$$Pacific Spice in Acworth, GA, is a
+  welcoming sushi restaurant that delivers fresh Japanese-inspired dishes in a
+  convenient suburban setting. This spot emphasizes accessibility with features
+  like wheelchair-friendly parking and entrances, ensuring everyone can enjoy a
+  comfortable meal. Diners can explore a range of creative rolls and traditional
+  options, perfect for those seeking sushi places nearby with a relaxed vibe.
+  The restaurant maintains extended hours, including evenings and weekends,
+  making it easy to satisfy cravings for quality Japanese cuisine without
+  hassle.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors frequently highlight the fresh flavors
+  and variety at this sushi spot, making it a solid pick for anyone hunting for
+  reliable options close by. Many appreciate the friendly service and clean
+  atmosphere that add to a pleasant dining experience overall. The value for the
+  price stands out, with folks noting it's a great choice for casual meals
+  without breaking the bank. While opinions vary, the general buzz remains
+  positive, positioning it as a go-to for tasty Japanese dishes in the area.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +344,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

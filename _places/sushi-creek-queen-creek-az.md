@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Creek"
+title: Sushi Creek
 permalink: /arizona/queen-creek/sushi-creek.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Queen Creek
 seo:
-  name: "Sushi Creek"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi Creek serves delicious sushi in Queen Creek, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJQ1I4SzxNKocRTf90qpVgWtQ
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x872a4d3c4b385243:0xd45a6095aa74ff4d!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 20
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 9:00 PM'
     - 'Tuesday: 11:30 AM – 9:00 PM'
     - 'Wednesday: 11:30 AM – 9:00 PM'
@@ -178,54 +234,325 @@ opening_hours:
     - 'Friday: 11:30 AM – 10:00 PM'
     - 'Saturday: 11:30 AM – 10:00 PM'
     - 'Sunday: 11:30 AM – 8:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 9:00 PM'
-    - 'Tuesday: 11:30 AM – 9:00 PM'
-    - 'Wednesday: 11:30 AM – 9:00 PM'
-    - 'Thursday: 11:30 AM – 9:00 PM'
-    - 'Friday: 11:30 AM – 10:00 PM'
-    - 'Saturday: 11:30 AM – 10:00 PM'
-    - 'Sunday: 11:30 AM – 8:00 PM'
+  nextCloseTime: '2025-05-04T05:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 11
+          minute: 30
+        close:
+          day: 0
+          hour: 20
+          minute: 0
+      - open:
+          day: 2
+          hour: 14
+          minute: 0
+        close:
+          day: 2
+          hour: 18
+          minute: 0
+      - open:
+          day: 3
+          hour: 14
+          minute: 0
+        close:
+          day: 3
+          hour: 18
+          minute: 0
+      - open:
+          day: 4
+          hour: 14
+          minute: 0
+        close:
+          day: 4
+          hour: 18
+          minute: 0
+      - open:
+          day: 5
+          hour: 14
+          minute: 0
+        close:
+          day: 5
+          hour: 18
+          minute: 0
+      - open:
+          day: 6
+          hour: 14
+          minute: 0
+        close:
+          day: 6
+          hour: 18
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: Closed'
+      - 'Tuesday: 2:00 – 6:00 PM'
+      - 'Wednesday: 2:00 – 6:00 PM'
+      - 'Thursday: 2:00 – 6:00 PM'
+      - 'Friday: 2:00 – 6:00 PM'
+      - 'Saturday: 2:00 – 6:00 PM'
+      - 'Sunday: 11:30 AM – 8:00 PM'
+    secondaryHoursType: HAPPY_HOUR
+    nextCloseTime: '2025-05-04T01:00:00Z'
 phone: (480) 677-4333
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.1'
-rating_count: 0
+rating_count: 1381
 website: null
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Sushi Creek in Queen Creek, AZ$$$Sushi Creek in Queen Creek, AZ,
+  stands out as a welcoming Japanese eatery that blends traditional sushi with
+  creative options like burgers and tacos, making it a go-to spot for diverse
+  dining experiences. The restaurant boasts a vibrant atmosphere with extended
+  evening hours and occasional weekend entertainment, appealing to those seeking
+  lively sushi restaurants in the area. Accessibility features such as
+  wheelchair-friendly entrances and seating ensure everyone can enjoy the fresh
+  flavors and outdoor options available. Patrons appreciate the variety of
+  beverages and family-friendly vibe, perfect for casual gatherings or quick
+  meals. Whether you're exploring top-rated sushi options nearby, this spot
+  delivers a mix of authentic tastes and modern twists in a sunlit setting.
+generative_summary: >-
+  Discover Sushi Creek in Queen Creek, AZ$$$Sushi Creek in Queen Creek, AZ,
+  stands out as a welcoming Japanese eatery that blends traditional sushi with
+  creative options like burgers and tacos, making it a go-to spot for diverse
+  dining experiences. The restaurant boasts a vibrant atmosphere with extended
+  evening hours and occasional weekend entertainment, appealing to those seeking
+  lively sushi restaurants in the area. Accessibility features such as
+  wheelchair-friendly entrances and seating ensure everyone can enjoy the fresh
+  flavors and outdoor options available. Patrons appreciate the variety of
+  beverages and family-friendly vibe, perfect for casual gatherings or quick
+  meals. Whether you're exploring top-rated sushi options nearby, this spot
+  delivers a mix of authentic tastes and modern twists in a sunlit setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJQ1I4SzxNKocRTf90qpVgWtQ/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJc295OG5nRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        We ordered several items to try and some familiar items.   My favorite
+        new item was the Pomegranite Passion cocktail 😋.  Food was well
+        prepared and tasty.  Will go back next time we're in town.
+      languageCode: en
+    originalText:
+      text: >-
+        We ordered several items to try and some familiar items.   My favorite
+        new item was the Pomegranite Passion cocktail 😋.  Food was well
+        prepared and tasty.  Will go back next time we're in town.
+      languageCode: en
+    authorAttribution:
+      displayName: Ken Tracy
+      uri: https://www.google.com/maps/contrib/115223148980387322823/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUrXPOVGyL1IJCutSfqzwQ4st5AMMaXyfnNM6i3_Vx3JWH-pbtofg=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2025-03-31T20:16:04.613185Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNJc295OG5nRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNJc295OG5nRRAB!2m1!1s0x872a4d3c4b385243:0xd45a6095aa74ff4d
+  - name: >-
+      places/ChIJQ1I4SzxNKocRTf90qpVgWtQ/reviews/ChZDSUhNMG9nS0VJQ0FnSUNfazZQWUR3EAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 2
+    text:
+      text: >-
+        Five stars for the the service which was good and my waitress was nice
+        but definitely 1 star for the food. the sushi rolls were very
+        underwhelming for the prices they charged. $18 for a rainbow roll, the
+        fish didn't taste fresh and the roll itself was tiny. It's the quality I
+        expect from a grocery store but priced much higher!
+      languageCode: en
+    originalText:
+      text: >-
+        Five stars for the the service which was good and my waitress was nice
+        but definitely 1 star for the food. the sushi rolls were very
+        underwhelming for the prices they charged. $18 for a rainbow roll, the
+        fish didn't taste fresh and the roll itself was tiny. It's the quality I
+        expect from a grocery store but priced much higher!
+      languageCode: en
+    authorAttribution:
+      displayName: Nick
+      uri: https://www.google.com/maps/contrib/114785129511715983275/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJSys4AR46pWszUF5FFY7HFBa_85yTGfcGrYcTQTjz7JhQSEg=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-01-18T20:57:31.744238Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNfazZQWUR3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNfazZQWUR3EAE!2m1!1s0x872a4d3c4b385243:0xd45a6095aa74ff4d
+  - name: >-
+      places/ChIJQ1I4SzxNKocRTf90qpVgWtQ/reviews/ChdDSUhNMG9nS0VJQ0FnTURncXVqR3VBRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 2
+    text:
+      text: >-
+        Don’t be fooled by the picture. It was way smaller than it looks like.
+        Was very disappointed with the size of it. Paid $37 for a roll that
+        looked like it was made by and for a child. Then a half of a normal
+        sized roll. Not worth the price. I knew something was up when I picked
+        up my order and was very light. That’s when I knew then and there that
+        something was wrong. They screwed me over. Just not for me and going
+        some where else for sushi.
+      languageCode: en
+    originalText:
+      text: >-
+        Don’t be fooled by the picture. It was way smaller than it looks like.
+        Was very disappointed with the size of it. Paid $37 for a roll that
+        looked like it was made by and for a child. Then a half of a normal
+        sized roll. Not worth the price. I knew something was up when I picked
+        up my order and was very light. That’s when I knew then and there that
+        something was wrong. They screwed me over. Just not for me and going
+        some where else for sushi.
+      languageCode: en
+    authorAttribution:
+      displayName: Orlando Escobedo
+      uri: https://www.google.com/maps/contrib/107549193310588720848/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUoR6-rVXYTac9X6ZfccWasw-4E9CVv1fTCyFmkccqol7ePzEiK=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-02-24T02:30:11.993415Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURncXVqR3VBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURncXVqR3VBRRAB!2m1!1s0x872a4d3c4b385243:0xd45a6095aa74ff4d
+  - name: >-
+      places/ChIJQ1I4SzxNKocRTf90qpVgWtQ/reviews/ChZDSUhNMG9nS0VJQ0FnTURRX0lXWFFBEAE
+    relativePublishTimeDescription: a month ago
+    rating: 3
+    text:
+      text: >-
+        Came today for lunch. The rolls are small for the price, and don’t taste
+        like they’re made with super high quality ingredients. Slightly better
+        than like Fry’s sushi in my opinion but not a place I would go again to
+        get really good sushi at the price point. Service is on the slow side
+        for a weekend that was decently busy. Unfortunately we won’t be going
+        back as there are many better options closer to our house to get amazing
+        sushi.
+      languageCode: en
+    originalText:
+      text: >-
+        Came today for lunch. The rolls are small for the price, and don’t taste
+        like they’re made with super high quality ingredients. Slightly better
+        than like Fry’s sushi in my opinion but not a place I would go again to
+        get really good sushi at the price point. Service is on the slow side
+        for a weekend that was decently busy. Unfortunately we won’t be going
+        back as there are many better options closer to our house to get amazing
+        sushi.
+      languageCode: en
+    authorAttribution:
+      displayName: Chelcie Higley
+      uri: https://www.google.com/maps/contrib/106178832305517245220/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXhx-3LdisY1hqxmkZRiMVc9-qyQ0m3VfHbOCKYzJkJ8X5FgzI=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-03-09T21:45:32.954678Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURRX0lXWFFBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURRX0lXWFFBEAE!2m1!1s0x872a4d3c4b385243:0xd45a6095aa74ff4d
+  - name: >-
+      places/ChIJQ1I4SzxNKocRTf90qpVgWtQ/reviews/ChZDSUhNMG9nS0VJQ0FnTURJck9lamZ3EAE
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 1
+    text:
+      text: >-
+        I’ve been to Sushi Creek before and generally had decent experiences,
+        but my latest visit was incredibly disappointing. I was served edamame
+        that contained a worm — a truly unacceptable oversight for any
+        restaurant, especially one serving raw food. While staff acknowledged
+        the issue, the edamame was the only item comped on our bill, despite the
+        seriousness of what happened.
+
+
+        Finding a worm in your food should prompt a more thoughtful response.
+        Instead, I was left feeling brushed off and dissatisfied, both with the
+        service and how little was done to make things right.
+
+
+        I really wanted to continue supporting this place, but after this
+        experience and the lack of accountability, I won’t be returning anytime
+        soon.
+      languageCode: en
+    originalText:
+      text: >-
+        I’ve been to Sushi Creek before and generally had decent experiences,
+        but my latest visit was incredibly disappointing. I was served edamame
+        that contained a worm — a truly unacceptable oversight for any
+        restaurant, especially one serving raw food. While staff acknowledged
+        the issue, the edamame was the only item comped on our bill, despite the
+        seriousness of what happened.
+
+
+        Finding a worm in your food should prompt a more thoughtful response.
+        Instead, I was left feeling brushed off and dissatisfied, both with the
+        service and how little was done to make things right.
+
+
+        I really wanted to continue supporting this place, but after this
+        experience and the lack of accountability, I won’t be returning anytime
+        soon.
+      languageCode: en
+    authorAttribution:
+      displayName: Zahra
+      uri: https://www.google.com/maps/contrib/110825542276460652213/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWsGeSp0Dgai-PuZGoRz3u4Z7Gx4fmFkDiJtEmc72tQqKrrtAKm=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-08T00:04:32.207636Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURJck9lamZ3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJck9lamZ3EAE!2m1!1s0x872a4d3c4b385243:0xd45a6095aa74ff4d
+review_summary: >-
+  What Customers Are Saying$$$Folks often rave about the friendly service and
+  fun energy at this local sushi hangout, highlighting how staff make the
+  experience enjoyable with their attentiveness and helpful recommendations.
+  While many appreciate the creative drink selections and the educational vibe
+  around trying new rolls, some mention that portions can feel a bit modest
+  compared to the prices. Overall, it's a solid choice for casual get-togethers
+  or date nights, with the atmosphere earning high marks for its liveliness. If
+  you're on the hunt for sushi places near you, this spot delivers good vibes
+  and variety, though a few note inconsistencies in ingredient freshness to keep
+  in mind. In a balanced view, it's worth a visit for those who love sushi, as
+  the positives generally outweigh the minor drawbacks.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  paidStreetParking: false
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+curbside_pickup: false
+delivery: false
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: true
+live_music: false
+menu_for_children: true
+outdoor_seating: true
+reservable: false
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
+serves_coffee: true
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Sushi anchors a diverse menu, including burgers & pastas, at this sun-colored
+  eatery with a bar.
 
 ---

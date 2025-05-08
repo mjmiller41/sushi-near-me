@@ -5,4 +5,5 @@ permalink: /california/dublin/
 stateAbbr: CA
 stateName: California
 cityName: Dublin
+
 ---

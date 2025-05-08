@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Neko Sushi & Korean and Japanese restaurant"
+title: Neko Sushi & Korean and Japanese restaurant
 permalink: /ohio/cincinnati/neko-sushi-korean-and-japanese-restaurant.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Cincinnati
 seo:
-  name: "Neko Sushi & Korean and Japanese restaurant"
-  type: Restaurant
+  type: restaurant
   links: https://nekosushihydepark.com/
-description: "Neko Sushi & Korean and Japanese restaurant serves delicious sushi in Cincinnati, Ohio. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJe11UEyizQYgR4jDhvEkZhYs
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $20 &ndash; $30
 rating: '4.7'
 rating_count: 0
 website: https://nekosushihydepark.com/
+description: >-
+  Discover Neko Sushi in Cincinnati, OH$$$Nestled in Cincinnati, OH, Neko Sushi
+  & Korean and Japanese restaurant offers a delightful mix of fresh sushi rolls,
+  flavorful Korean dishes, and authentic Japanese favorites in a relaxed,
+  welcoming atmosphere. This spot stands out for its accessible features,
+  including wheelchair-friendly parking and entrances, making it easy for
+  everyone to enjoy a meal. Diners can savor a variety of options like expertly
+  prepared rolls and hearty entrees, all served in a casual setting that
+  encourages good times with friends or family. With outdoor seating and
+  convenient takeout, it's a go-to choice for those searching for quality sushi
+  restaurants in the area, blending convenience with tasty Asian-inspired
+  cuisine that keeps locals coming back.
+generative_summary: >-
+  Discover Neko Sushi in Cincinnati, OH$$$Nestled in Cincinnati, OH, Neko Sushi
+  & Korean and Japanese restaurant offers a delightful mix of fresh sushi rolls,
+  flavorful Korean dishes, and authentic Japanese favorites in a relaxed,
+  welcoming atmosphere. This spot stands out for its accessible features,
+  including wheelchair-friendly parking and entrances, making it easy for
+  everyone to enjoy a meal. Diners can savor a variety of options like expertly
+  prepared rolls and hearty entrees, all served in a casual setting that
+  encourages good times with friends or family. With outdoor seating and
+  convenient takeout, it's a go-to choice for those searching for quality sushi
+  restaurants in the area, blending convenience with tasty Asian-inspired
+  cuisine that keeps locals coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJe11UEyizQYgR4jDhvEkZhYs/reviews/ChdDSUhNMG9nS0VJQ0FnSURfOVlDLXp3RRAB
@@ -334,6 +357,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNaOHY2Vnl3RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNaOHY2Vnl3RRAB!2m1!1s0x8841b32813545d7b:0x8b851949bce130e2
+review_summary: >-
+  What Customers Are Buzzing About$$$Folks seem to really enjoy the fresh
+  flavors at this sushi spot, with many praising the tasty bibimbap and creative
+  rolls that hit the spot every time. Comments often highlight the friendly
+  service and consistent quality, making it a reliable pick for casual dinners
+  or group gatherings. While most experiences are positive, a few notes mention
+  that some dishes might not always meet expectations, like certain spicier
+  options feeling a bit underwhelming. Overall, the vibe is upbeat, with people
+  appreciating the welcoming staff and solid food that makes it worth another
+  visit. If you're on the hunt for top-rated sushi nearby, this place delivers a
+  generally satisfying experience that keeps the good vibes flowing.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   paidStreetParking: true
@@ -365,7 +400,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

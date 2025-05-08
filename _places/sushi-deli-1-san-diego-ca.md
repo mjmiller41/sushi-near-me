@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Deli 1"
+title: Sushi Deli 1
 permalink: /california/san-diego/sushi-deli-1.html
 stateAbbr: CA
 stateName: California
 cityName: San Diego
 seo:
-  name: "Sushi Deli 1"
-  type: Restaurant
-  links: null
-description: "Sushi Deli 1 serves delicious sushi in San Diego, California. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.sushideliusa.net/
 place_id: ChIJd3uSM9FU2YARJVqC_aLjqdA
 photos:
   - name: >-
@@ -169,8 +167,105 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80d954d133927b77:0xd0a9e3a2fd825a25!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
+    - 'Tuesday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
+    - 'Wednesday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
+    - 'Thursday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM'
+    - 'Friday: 11:30 AM – 10:00 PM'
+    - 'Saturday: 12:00 – 10:00 PM'
+    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T05:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -178,13 +273,54 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (619) 231-9597
+price_level: PRICE_LEVEL_INEXPENSIVE
+price_range: $10 &ndash; $20
+rating: '4.5'
+rating_count: 1952
+website: http://www.sushideliusa.net/
+description: >-
+  Discover Sushi Deli 1 in San Diego, CA$$$Nestled in the heart of San Diego,
+  CA, Sushi Deli 1 stands out as a beloved Japanese eatery offering a wide array
+  of fresh, creative rolls that blend traditional flavors with local twists.
+  This spot is renowned for its extensive menu featuring California-style sushi,
+  making it a go-to choice for anyone craving authentic yet innovative options
+  in a welcoming neighborhood setting. With accessibility features like
+  wheelchair-friendly entrances and seating, it's designed to accommodate all
+  visitors, enhancing the overall dining experience. The restaurant maintains
+  affordable pricing and operates with convenient hours, including evenings and
+  weekends, ideal for those seeking quality sushi places near me without the
+  hassle. Its strong reputation reflects a commitment to fresh ingredients and a
+  relaxed vibe that keeps locals and visitors returning for more.
+generative_summary: >-
+  Discover Sushi Deli 1 in San Diego, CA$$$Nestled in the heart of San Diego,
+  CA, Sushi Deli 1 stands out as a beloved Japanese eatery offering a wide array
+  of fresh, creative rolls that blend traditional flavors with local twists.
+  This spot is renowned for its extensive menu featuring California-style sushi,
+  making it a go-to choice for anyone craving authentic yet innovative options
+  in a welcoming neighborhood setting. With accessibility features like
+  wheelchair-friendly entrances and seating, it's designed to accommodate all
+  visitors, enhancing the overall dining experience. The restaurant maintains
+  affordable pricing and operates with convenient hours, including evenings and
+  weekends, ideal for those seeking quality sushi places near me without the
+  hassle. Its strong reputation reflects a commitment to fresh ingredients and a
+  relaxed vibe that keeps locals and visitors returning for more.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Love About This Sushi Favorite$$$Folks often rave about the
+  tasty variety of rolls at this sushi spot, with options like inventive
+  combinations that deliver bold flavors at great value, making it a solid pick
+  for casual meals. Many appreciate the efficient and friendly service that
+  keeps things running smoothly, allowing diners to enjoy their time without any
+  fuss. The atmosphere comes across as laid-back and inviting, perfect for
+  everything from quick lunches to relaxed dinners with friends. Overall, it's
+  praised for offering reliable, delicious choices that satisfy sushi
+  enthusiasts, encouraging repeat visits for those exploring top-rated options
+  nearby. While not every detail is flawless, the positive vibes and solid
+  offerings make it a worthwhile stop for anyone hunting for quality sushi
+  restaurants in the area.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +346,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

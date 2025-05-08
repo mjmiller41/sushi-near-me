@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kaiyo Sushi"
+title: Kaiyo Sushi
 permalink: /nebraska/bellevue/kaiyo-sushi.html
 stateAbbr: NE
 stateName: Nebraska
 cityName: Bellevue
 seo:
-  name: "Kaiyo Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://kaiyosushinebraska.com/
-description: "Kaiyo Sushi serves delicious sushi in Bellevue, Nebraska. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJBTMCdwOJk4cRqBpQ5lJnQ20
 photos:
   - name: >-
@@ -185,6 +183,35 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 0
 website: https://kaiyosushinebraska.com/
+description: >-
+  Discover Kaiyo Sushi in Bellevue, NE$$$Nestled in Bellevue, NE, Kaiyo Sushi
+  stands out as a welcoming spot for enjoying fresh Japanese cuisine, featuring
+  an array of flavorful dishes that highlight the best of sushi and beyond. This
+  comfy restaurant offers a menu filled with options like crab rangoons and
+  bento boxes, all prepared with high-quality ingredients that deliver a
+  satisfying blend of traditional and creative flavors. Visitors appreciate the
+  inviting atmosphere, which combines cozy vibes with accessibility features
+  such as wheelchair-friendly entrances and seating, making it a convenient
+  choice for a variety of diners. Whether you're searching for top-rated sushi
+  restaurants near you or simply craving authentic Japanese plates, this
+  location provides a relaxed setting perfect for casual meals or group outings.
+  Its moderate pricing adds to the appeal, ensuring a memorable experience
+  without breaking the bank.
+generative_summary: >-
+  Discover Kaiyo Sushi in Bellevue, NE$$$Nestled in Bellevue, NE, Kaiyo Sushi
+  stands out as a welcoming spot for enjoying fresh Japanese cuisine, featuring
+  an array of flavorful dishes that highlight the best of sushi and beyond. This
+  comfy restaurant offers a menu filled with options like crab rangoons and
+  bento boxes, all prepared with high-quality ingredients that deliver a
+  satisfying blend of traditional and creative flavors. Visitors appreciate the
+  inviting atmosphere, which combines cozy vibes with accessibility features
+  such as wheelchair-friendly entrances and seating, making it a convenient
+  choice for a variety of diners. Whether you're searching for top-rated sushi
+  restaurants near you or simply craving authentic Japanese plates, this
+  location provides a relaxed setting perfect for casual meals or group outings.
+  Its moderate pricing adds to the appeal, ensuring a memorable experience
+  without breaking the bank.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJBTMCdwOJk4cRqBpQ5lJnQ20/reviews/ChZDSUhNMG9nS0VJQ0FnSUNfcFA3UE9nEAE
@@ -378,6 +405,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURmeUt1U3hRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURmeUt1U3hRRRAB!2m1!1s0x8793890377023305:0x6d436752e6501aa8
+review_summary: >-
+  What Diners Are Buzzing About$$$Folks around Bellevue seem to really enjoy the
+  fresh and tasty sushi options at this spot, often praising the bold flavors
+  and generous portions that make every bite worthwhile. Many highlight the
+  friendly and efficient service that keeps things running smoothly, creating a
+  welcoming vibe for everything from quick lunches to relaxed dinners. Reviewers
+  frequently mention the great value for the price, with dishes like spicy tuna
+  rolls and calamari standing out as crowd-pleasers that leave people feeling
+  satisfied. Overall, the atmosphere gets high marks for being clean and
+  inviting, making it a solid pick for anyone looking for reliable Japanese eats
+  nearby. While most feedback is positive, it's clear this place delivers a
+  consistently enjoyable experience that keeps customers coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -410,7 +450,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

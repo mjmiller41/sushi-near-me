@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Koen"
+title: Sushi Koen
 permalink: /texas/round-rock/sushi-koen.html
 stateAbbr: TX
 stateName: Texas
 cityName: Round Rock
 seo:
-  name: "Sushi Koen"
-  type: Restaurant
+  type: restaurant
   links: https://www.facebook.com/profile.php?id=100063732692392
-description: "Sushi Koen serves delicious sushi in Round Rock, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJiTKmcb_RRIYRM-HvMdIFeyQ
 photos:
   - name: >-
@@ -170,7 +168,105 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8644d1bf71a63289:0x247b05d231efe133!10e5
 primary_type: Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 15
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 15
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 15
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 15
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 15
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 15
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 15
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 15
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 15
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 45
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 45
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 2:15 PM, 4:30 – 9:15 PM'
     - 'Tuesday: 11:00 AM – 2:15 PM, 4:30 – 9:15 PM'
     - 'Wednesday: 11:00 AM – 2:15 PM, 4:30 – 9:15 PM'
@@ -178,14 +274,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 2:15 PM, 4:30 – 9:45 PM'
     - 'Saturday: 12:00 – 9:45 PM'
     - 'Sunday: 12:00 – 8:30 PM'
-  current:
-    - 'Monday: 11:00 AM – 2:15 PM, 4:30 – 9:15 PM'
-    - 'Tuesday: 11:00 AM – 2:15 PM, 4:30 – 9:15 PM'
-    - 'Wednesday: 11:00 AM – 2:15 PM, 4:30 – 9:15 PM'
-    - 'Thursday: 11:00 AM – 2:15 PM, 4:30 – 9:15 PM'
-    - 'Friday: 11:00 AM – 2:15 PM, 4:30 – 9:45 PM'
-    - 'Saturday: 12:00 – 9:45 PM'
-    - 'Sunday: 12:00 – 8:30 PM'
+  nextCloseTime: '2025-05-04T02:45:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +286,240 @@ phone: (512) 580-0085
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.6'
-rating_count: 0
+rating_count: 497
 website: https://www.facebook.com/profile.php?id=100063732692392
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Explore Sushi Koen in Round Rock, TX$$$Sushi Koen in Round Rock, TX, stands
+  out as a welcoming sushi restaurant nestled in the University Oaks Shopping
+  Center, specializing in fresh rolls, sashimi, and authentic Japanese flavors.
+  This spot offers a cozy atmosphere with accessible features like
+  wheelchair-friendly parking and entrances, making it easy for everyone to
+  enjoy a meal. Diners can savor a variety of expertly prepared dishes,
+  including tempura and noodle options, paired with options like sake or
+  cocktails for a complete experience. The menu highlights high-quality
+  ingredients that bring out the best in Japanese cuisine, ideal for those
+  seeking top-rated sushi options nearby. With convenient hours and a focus on
+  flavorful presentations, it's a go-to choice for anyone exploring sushi places
+  in the area.
+generative_summary: >-
+  Explore Sushi Koen in Round Rock, TX$$$Sushi Koen in Round Rock, TX, stands
+  out as a welcoming sushi restaurant nestled in the University Oaks Shopping
+  Center, specializing in fresh rolls, sashimi, and authentic Japanese flavors.
+  This spot offers a cozy atmosphere with accessible features like
+  wheelchair-friendly parking and entrances, making it easy for everyone to
+  enjoy a meal. Diners can savor a variety of expertly prepared dishes,
+  including tempura and noodle options, paired with options like sake or
+  cocktails for a complete experience. The menu highlights high-quality
+  ingredients that bring out the best in Japanese cuisine, ideal for those
+  seeking top-rated sushi options nearby. With convenient hours and a focus on
+  flavorful presentations, it's a go-to choice for anyone exploring sushi places
+  in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJiTKmcb_RRIYRM-HvMdIFeyQ/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3eUo2YXNBRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Food was exceptional! Sushi was fresh and presented amazingly on each
+        plate! Server was suggestive when we asked for recommendations, and very
+        attentive and friendly! All the rolls we ordered were like a work of art
+        and sooooo delicious!! A must if you’re in the round rock area!!
+      languageCode: en
+    originalText:
+      text: >-
+        Food was exceptional! Sushi was fresh and presented amazingly on each
+        plate! Server was suggestive when we asked for recommendations, and very
+        attentive and friendly! All the rolls we ordered were like a work of art
+        and sooooo delicious!! A must if you’re in the round rock area!!
+      languageCode: en
+    authorAttribution:
+      displayName: Vanessa Ferrari-Orefice
+      uri: https://www.google.com/maps/contrib/109353302887925408472/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVDywb3QIEmcXehckkZPWG-UhXyfqZ1vNKKGWEgCU2e6CKHlitd=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-03-23T03:25:35.869936Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUR3eUo2YXNBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUR3eUo2YXNBRRAB!2m1!1s0x8644d1bf71a63289:0x247b05d231efe133
+  - name: >-
+      places/ChIJiTKmcb_RRIYRM-HvMdIFeyQ/reviews/ChZDSUhNMG9nS0VJQ0FnSURmN29XbFFREAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        We decided to eat here because my wife loves bento.
+
+        The reviews of the restaurant were mostly positive, and we agree.
+
+        It was a good experience from start to finish.
+
+        The staff was friendly and attentive the entire time.
+
+        The food was excellent and very fresh!
+
+        If you are in the area, you owe it to yourself to give them a try if you
+        enjoy good quality Japanese food.
+      languageCode: en
+    originalText:
+      text: >-
+        We decided to eat here because my wife loves bento.
+
+        The reviews of the restaurant were mostly positive, and we agree.
+
+        It was a good experience from start to finish.
+
+        The staff was friendly and attentive the entire time.
+
+        The food was excellent and very fresh!
+
+        If you are in the area, you owe it to yourself to give them a try if you
+        enjoy good quality Japanese food.
+      languageCode: en
+    authorAttribution:
+      displayName: Durand Sentinus
+      uri: https://www.google.com/maps/contrib/111526264592737213050/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVYhD7StNFueJVNr5hBsqeSBuXXDiXzjkF8MVYxRchOZquLu0Q9=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2025-01-06T19:32:47.377223Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURmN29XbFFREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURmN29XbFFREAE!2m1!1s0x8644d1bf71a63289:0x247b05d231efe133
+  - name: >-
+      places/ChIJiTKmcb_RRIYRM-HvMdIFeyQ/reviews/ChZDSUhNMG9nS0VJQ0FnSUQzM1lHUWN3EAE
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        I’ve been here twice and each time the food has been on point! I almost
+        forgot to take pictures but the delivery and presentation of their sushi
+        is awesome! Their sauces are very good as well. Servers are fast with
+        their service. Sorry for the partial dish pictures
+      languageCode: en
+    originalText:
+      text: >-
+        I’ve been here twice and each time the food has been on point! I almost
+        forgot to take pictures but the delivery and presentation of their sushi
+        is awesome! Their sauces are very good as well. Servers are fast with
+        their service. Sorry for the partial dish pictures
+      languageCode: en
+    authorAttribution:
+      displayName: Luis Garcia
+      uri: https://www.google.com/maps/contrib/100664725965772543917/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWgWU-2uwekyZp4MqP8Pg-kHcLFqsRCo_0vNLJxMFnq4HEQf3AQ=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-11-17T23:53:25.393613Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQzM1lHUWN3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQzM1lHUWN3EAE!2m1!1s0x8644d1bf71a63289:0x247b05d231efe133
+  - name: >-
+      places/ChIJiTKmcb_RRIYRM-HvMdIFeyQ/reviews/ChdDSUhNMG9nS0VJQ0FnSURuam9LX3F3RRAB
+    relativePublishTimeDescription: 7 months ago
+    rating: 5
+    text:
+      text: >-
+        We had a lovely meal here. My friend and I shared 4 rolls and it was
+        more than enough. The waygu beef room and the ultimate salmon were our
+        favorites. The service was extremely friendly and timely, and overall we
+        had a great time.
+      languageCode: en
+    originalText:
+      text: >-
+        We had a lovely meal here. My friend and I shared 4 rolls and it was
+        more than enough. The waygu beef room and the ultimate salmon were our
+        favorites. The service was extremely friendly and timely, and overall we
+        had a great time.
+      languageCode: en
+    authorAttribution:
+      displayName: Megan Gensemer
+      uri: https://www.google.com/maps/contrib/110834019908224076770/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUnkmRZAkMbwk7stBE06mPiXH49lXc-TVPVmLUIKw6w_8lA2eRh=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-10-05T20:27:05.564423Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURuam9LX3F3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURuam9LX3F3RRAB!2m1!1s0x8644d1bf71a63289:0x247b05d231efe133
+  - name: >-
+      places/ChIJiTKmcb_RRIYRM-HvMdIFeyQ/reviews/ChZDSUhNMG9nS0VJQ0FnSUN2ck1fUFl3EAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        Classic sushi restaurant. Can be pricey, but not atypical. Fresh, thick
+        cuts of sashimi. Bento boxes are the best, filling deal at lunch. Yummy,
+        super-hot edamame, too. Convenient to the local shopping areas. Popular,
+        but not cramped.
+      languageCode: en
+    originalText:
+      text: >-
+        Classic sushi restaurant. Can be pricey, but not atypical. Fresh, thick
+        cuts of sashimi. Bento boxes are the best, filling deal at lunch. Yummy,
+        super-hot edamame, too. Convenient to the local shopping areas. Popular,
+        but not cramped.
+      languageCode: en
+    authorAttribution:
+      displayName: Sam Keske
+      uri: https://www.google.com/maps/contrib/101137379682204957902/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXUWV8Mvm-WEVf9RzQZyox0xN_opUMJTKpOW5KB7DQ1sANJWPg=s128-c0x00000000-cc-rp-mo-ba7
+    publishTime: '2024-12-08T18:49:33.281268Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN2ck1fUFl3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN2ck1fUFl3EAE!2m1!1s0x8644d1bf71a63289:0x247b05d231efe133
+review_summary: >-
+  What People Are Buzzing About$$$Visitors to this sushi restaurant often rave
+  about the fresh and flavorful rolls that make every bite feel like a treat,
+  with highlights on creative presentations and solid lunch deals like bento
+  boxes. Many appreciate the friendly and attentive service that keeps things
+  running smoothly without any fuss, adding to the overall enjoyable vibe. Folks
+  frequently note the clean, relaxed setting that's perfect for casual
+  get-togethers or a quick meal, making it a solid pick for families and groups
+  alike. While prices are on the moderate side, the quality of the ingredients
+  and dishes keeps things feeling worthwhile for those hunting for great
+  Japanese food nearby. Overall, it's clear that this spot delivers a
+  consistently positive experience, encouraging anyone nearby to give it a try
+  for delicious sushi options.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
 delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
 menu_for_children: null
-outdoor_seating: null
+outdoor_seating: false
 reservable: null
-restroom: null
-serves_beer: null
+restroom: true
+serves_beer: true
 serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+serves_brunch: false
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Straightforward sushi joint featuring fresh fish rolls & tempura, plus noodle
+  dishes & sake.
 
 ---

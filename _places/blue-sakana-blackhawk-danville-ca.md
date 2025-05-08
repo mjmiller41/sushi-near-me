@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Blue Sakana Blackhawk"
+title: Blue Sakana Blackhawk
 permalink: /california/danville/blue-sakana-blackhawk.html
 stateAbbr: CA
 stateName: California
 cityName: Danville
 seo:
-  name: "Blue Sakana Blackhawk"
-  type: Restaurant
+  type: restaurant
   links: https://bluesakanablackhawk.com/contact/
-description: "Blue Sakana Blackhawk serves delicious sushi in Danville, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJlzHETzfyj4AR-hT8V2EUlZI
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x808ff2374fc43197:0x9295146157fc14fa!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 12
+        minute: 0
+      close:
+        day: 1
+        hour: 20
+        minute: 30
+    - open:
+        day: 2
+        hour: 12
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 30
+    - open:
+        day: 3
+        hour: 12
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 30
+    - open:
+        day: 4
+        hour: 12
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 30
+    - open:
+        day: 5
+        hour: 12
+        minute: 0
+      close:
+        day: 5
+        hour: 20
+        minute: 30
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 12:00 – 8:30 PM'
     - 'Tuesday: 12:00 – 8:30 PM'
     - 'Wednesday: 12:00 – 8:30 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 12:00 – 8:30 PM'
     - 'Saturday: 12:00 – 9:30 PM'
     - 'Sunday: 12:00 – 9:30 PM'
-  current:
-    - 'Monday: 12:00 – 8:30 PM'
-    - 'Tuesday: 12:00 – 8:30 PM'
-    - 'Wednesday: 12:00 – 8:30 PM'
-    - 'Thursday: 12:00 – 8:30 PM'
-    - 'Friday: 12:00 – 8:30 PM'
-    - 'Saturday: 12:00 – 9:30 PM'
-    - 'Sunday: 12:00 – 9:30 PM'
+  nextCloseTime: '2025-05-04T04:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,248 @@ phone: (925) 648-7838
 price_level: PRICE_LEVEL_MODERATE
 price_range: $50 &ndash; $100
 rating: '4.1'
-rating_count: 0
+rating_count: 207
 website: https://bluesakanablackhawk.com/contact/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Blue Sakana in Danville, CA$$$Blue Sakana Blackhawk in Danville, CA,
+  stands out as a welcoming spot for enjoying fresh sushi and Japanese dishes in
+  a vibrant setting. This sushi restaurant features an array of rolls,
+  traditional fare, and creative cocktails, all served in an inviting atmosphere
+  with options for outdoor seating that enhance the dining experience. Patrons
+  appreciate the family-friendly vibe and thoughtful accessibility features,
+  making it a go-to choice for those searching for top-rated sushi restaurants
+  nearby. The menu highlights a mix of flavors that cater to various tastes,
+  including vegetarian options, while the cozy layout adds to the overall charm.
+  Whether you're looking for sushi places near me or a relaxed Japanese dining
+  option, this location delivers a memorable meal in a bright, accommodating
+  space.
+generative_summary: >-
+  Discover Blue Sakana in Danville, CA$$$Blue Sakana Blackhawk in Danville, CA,
+  stands out as a welcoming spot for enjoying fresh sushi and Japanese dishes in
+  a vibrant setting. This sushi restaurant features an array of rolls,
+  traditional fare, and creative cocktails, all served in an inviting atmosphere
+  with options for outdoor seating that enhance the dining experience. Patrons
+  appreciate the family-friendly vibe and thoughtful accessibility features,
+  making it a go-to choice for those searching for top-rated sushi restaurants
+  nearby. The menu highlights a mix of flavors that cater to various tastes,
+  including vegetarian options, while the cozy layout adds to the overall charm.
+  Whether you're looking for sushi places near me or a relaxed Japanese dining
+  option, this location delivers a memorable meal in a bright, accommodating
+  space.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJlzHETzfyj4AR-hT8V2EUlZI/reviews/ChZDSUhNMG9nS0VJQ0FnSUNfNjVPSE9nEAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        Been going here for the last 4 years. Every time has been excellent in
+        every way. The food and service are amazing. Food is served quickly and
+        always perfect. The atmosphere is very pleasant. Music is just the right
+        volume. Very clean and inviting, including the restrooms. The staff are
+        very kind, welcoming and they make sure your needs are met. Special
+        occasions are always treated with respect and honor.
+
+        Definitely recommend Blue Sakana.
+
+        — By the Happy Duo:
+
+        Gramma V and Granddaughter B
+      languageCode: en
+    originalText:
+      text: >-
+        Been going here for the last 4 years. Every time has been excellent in
+        every way. The food and service are amazing. Food is served quickly and
+        always perfect. The atmosphere is very pleasant. Music is just the right
+        volume. Very clean and inviting, including the restrooms. The staff are
+        very kind, welcoming and they make sure your needs are met. Special
+        occasions are always treated with respect and honor.
+
+        Definitely recommend Blue Sakana.
+
+        — By the Happy Duo:
+
+        Gramma V and Granddaughter B
+      languageCode: en
+    authorAttribution:
+      displayName: Sylvia Michiels
+      uri: https://www.google.com/maps/contrib/103153020977543978590/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWnZf-MwGSDSgntlJYcpeB-kwHvlvmamGbf1ZxsYQibVh5om38=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-01-19T04:32:41.905269Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNfNjVPSE9nEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNfNjVPSE9nEAE!2m1!1s0x808ff2374fc43197:0x9295146157fc14fa
+  - name: >-
+      places/ChIJlzHETzfyj4AR-hT8V2EUlZI/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3c09tZ2ZBEAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Got the sashimi salad. It was amazing. Honestly so freakin’ good. Chef
+        threw in some blue fin tuna belly that was FATTY and super good. I see
+        you and appreciate you chef.
+      languageCode: en
+    originalText:
+      text: >-
+        Got the sashimi salad. It was amazing. Honestly so freakin’ good. Chef
+        threw in some blue fin tuna belly that was FATTY and super good. I see
+        you and appreciate you chef.
+      languageCode: en
+    authorAttribution:
+      displayName: Jordan Murray
+      uri: https://www.google.com/maps/contrib/107419814723996566017/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjV9tSL7KjaF06H3Fr0qxO56nmyIyKvvFpB2G0aNqj-d2oHE3hU=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-03-16T04:59:21.680673Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUN3c09tZ2ZBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUN3c09tZ2ZBEAE!2m1!1s0x808ff2374fc43197:0x9295146157fc14fa
+  - name: >-
+      places/ChIJlzHETzfyj4AR-hT8V2EUlZI/reviews/ChZDSUhNMG9nS0VJQ0FnSURkMzRyb0tnEAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        Had a Sunday Funday with a couple friends. We decided to spend the
+        afternoon in Danville since it's almost central to where we all live.
+        Great lunch amazing waitress.
+      languageCode: en
+    originalText:
+      text: >-
+        Had a Sunday Funday with a couple friends. We decided to spend the
+        afternoon in Danville since it's almost central to where we all live.
+        Great lunch amazing waitress.
+      languageCode: en
+    authorAttribution:
+      displayName: Melissa Blanchard
+      uri: https://www.google.com/maps/contrib/106132334622232931904/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXofmf9-R43Im8PR2EqgTuUI47ROxXoIXeETx9sixlq-bidhwacuQ=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-02-28T21:28:47.861504Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURkMzRyb0tnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURkMzRyb0tnEAE!2m1!1s0x808ff2374fc43197:0x9295146157fc14fa
+  - name: >-
+      places/ChIJlzHETzfyj4AR-hT8V2EUlZI/reviews/ChZDSUhNMG9nS0VJQ0FnSUNPc01XX09REAE
+    relativePublishTimeDescription: 2 years ago
+    rating: 4
+    text:
+      text: >-
+        Great place for sushi and Japanese appetizers. Full bar. Amazing outdoor
+        seating perfect for an sunny afternoon. The wine selection is excellent
+        as well. Service was friend and not rushed. The ducks swimming in the
+        pond adds to the experience.
+      languageCode: en
+    originalText:
+      text: >-
+        Great place for sushi and Japanese appetizers. Full bar. Amazing outdoor
+        seating perfect for an sunny afternoon. The wine selection is excellent
+        as well. Service was friend and not rushed. The ducks swimming in the
+        pond adds to the experience.
+      languageCode: en
+    authorAttribution:
+      displayName: Tareq Barakzoy
+      uri: https://www.google.com/maps/contrib/106189357566362839363/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXgOKvN8lxR2H_NzNUqxtrilkxQfEGPwLeEJQw_7cB0OOBcVjll=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2022-05-30T15:26:44.409264Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNPc01XX09REAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNPc01XX09REAE!2m1!1s0x808ff2374fc43197:0x9295146157fc14fa
+  - name: >-
+      places/ChIJlzHETzfyj4AR-hT8V2EUlZI/reviews/ChZDSUhNMG9nS0VJQ0FnSURCX3R2SUlREAE
+    relativePublishTimeDescription: 2 years ago
+    rating: 5
+    text:
+      text: >-
+        Finally, a place in the East Bay to enjoy vegetarian/vegan sushi. It was
+        such a delight trying the variety of options - from noodles, sushi, to
+        tofu. We tried the broccoli Gomae, agedashi tofu, vegetarian roll
+        (without rice), ume & mint roll, nude caterpillar roll, and the banana
+        pudding. There was nothing that I regret getting. The ambience was great
+        for a casual weekday night but I can also see it being a great place to
+        meet friends or have soju and sake on a weekend night. The service was
+        exceptional - our waiter made great effort to make us chuckle and even
+        convinced us to get a dessert! I'll be back here again and again and
+        again!
+      languageCode: en
+    originalText:
+      text: >-
+        Finally, a place in the East Bay to enjoy vegetarian/vegan sushi. It was
+        such a delight trying the variety of options - from noodles, sushi, to
+        tofu. We tried the broccoli Gomae, agedashi tofu, vegetarian roll
+        (without rice), ume & mint roll, nude caterpillar roll, and the banana
+        pudding. There was nothing that I regret getting. The ambience was great
+        for a casual weekday night but I can also see it being a great place to
+        meet friends or have soju and sake on a weekend night. The service was
+        exceptional - our waiter made great effort to make us chuckle and even
+        convinced us to get a dessert! I'll be back here again and again and
+        again!
+      languageCode: en
+    authorAttribution:
+      displayName: Ruhi Sehgal
+      uri: https://www.google.com/maps/contrib/114560886263398425005/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUQxggr2F00PJLG1r7XlHYwLu5PkBrQQWYPKDwSRWE8TUOH5BWV=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2023-01-20T21:13:26.190626Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURCX3R2SUlREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURCX3R2SUlREAE!2m1!1s0x808ff2374fc43197:0x9295146157fc14fa
+review_summary: >-
+  What Visitors Are Saying About This Spot$$$Folks who've dined here often rave
+  about the consistently fresh and flavorful sushi, along with speedy service
+  that keeps things enjoyable without any fuss. Many highlight the welcoming
+  atmosphere and outdoor seating as perfect for casual get-togethers, adding a
+  fun element to meals with friends or family. Reviewers appreciate the variety
+  of options, including vegetarian and vegan choices, that make it easy to find
+  something for everyone while enjoying the lively yet relaxed vibe. Overall,
+  the experience comes across as reliable and satisfying, with praise for the
+  attentive staff and high-quality ingredients that elevate simple dishes. If
+  you're on the hunt for the best sushi near me, this place gets solid nods for
+  its tasty offerings and comfortable setting, though it's clear it's a hit for
+  those seeking a straightforward, enjoyable meal.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
+curbside_pickup: true
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
 good_for_sports: null
-live_music: null
+live_music: false
 menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
 serves_brunch: null
-serves_cocktails: null
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Familiar Japanese fare is showcased in this bright, family-friendly restaurant
+  with a sushi bar.
 
 ---

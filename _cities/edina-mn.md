@@ -5,4 +5,5 @@ permalink: /minnesota/edina/
 stateAbbr: MN
 stateName: Minnesota
 cityName: Edina
+
 ---

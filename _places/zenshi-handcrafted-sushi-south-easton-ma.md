@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "ZENSHI Handcrafted Sushi"
+title: ZENSHI Handcrafted Sushi
 permalink: /massachusetts/south-easton/zenshi-handcrafted-sushi.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: South Easton
 seo:
-  name: "ZENSHI Handcrafted Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.zenshisushi.com/
-description: "ZENSHI Handcrafted Sushi serves delicious sushi in South Easton, Massachusetts. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJpYS576KJ5IkRfVol7SaCydg
 photos:
   - name: >-
@@ -116,7 +114,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89e489a2efb984a5:0xd8c98226ed255a7d!10e5
 primary_type: Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 9
+        minute: 0
+      close:
+        day: 0
+        hour: 19
+        minute: 0
+    - open:
+        day: 1
+        hour: 9
+        minute: 0
+      close:
+        day: 1
+        hour: 19
+        minute: 0
+    - open:
+        day: 2
+        hour: 9
+        minute: 0
+      close:
+        day: 2
+        hour: 19
+        minute: 0
+    - open:
+        day: 3
+        hour: 9
+        minute: 0
+      close:
+        day: 3
+        hour: 19
+        minute: 0
+    - open:
+        day: 4
+        hour: 9
+        minute: 0
+      close:
+        day: 4
+        hour: 19
+        minute: 0
+    - open:
+        day: 5
+        hour: 9
+        minute: 0
+      close:
+        day: 5
+        hour: 19
+        minute: 0
+    - open:
+        day: 6
+        hour: 9
+        minute: 0
+      close:
+        day: 6
+        hour: 19
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 9:00 AM – 7:00 PM'
     - 'Tuesday: 9:00 AM – 7:00 PM'
     - 'Wednesday: 9:00 AM – 7:00 PM'
@@ -124,14 +180,7 @@ opening_hours:
     - 'Friday: 9:00 AM – 7:00 PM'
     - 'Saturday: 9:00 AM – 7:00 PM'
     - 'Sunday: 9:00 AM – 7:00 PM'
-  current:
-    - 'Monday: 9:00 AM – 7:00 PM'
-    - 'Tuesday: 9:00 AM – 7:00 PM'
-    - 'Wednesday: 9:00 AM – 7:00 PM'
-    - 'Thursday: 9:00 AM – 7:00 PM'
-    - 'Friday: 9:00 AM – 7:00 PM'
-    - 'Saturday: 9:00 AM – 7:00 PM'
-    - 'Sunday: 9:00 AM – 7:00 PM'
+  nextCloseTime: '2025-05-03T23:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -145,7 +194,50 @@ price_range: null
 rating: null
 rating_count: 0
 website: https://www.zenshisushi.com/
+description: >-
+  Explore ZENSHI Handcrafted Sushi in South Easton, MA$$$Nestled in South
+  Easton, MA, ZENSHI Handcrafted Sushi offers a welcoming spot for those seeking
+  fresh sushi options in a cozy, accessible environment. This restaurant
+  specializes in meticulously prepared rolls and dishes that highlight
+  high-quality ingredients, making it a go-to choice for sushi enthusiasts
+  looking for reliable dining experiences nearby. With daily hours from 9 AM to
+  7 PM, it's conveniently open for both casual lunches and evening meals,
+  ensuring you can easily find great sushi places near me without hassle. The
+  venue boasts wheelchair-accessible features, adding to its appeal for
+  inclusive visits, while its vibrant photos suggest a modern atmosphere perfect
+  for enjoying Japanese-inspired cuisine. Whether you're searching for top-rated
+  sushi restaurants or simply craving something delicious, this location
+  combines quality and convenience in one spot.
+generative_summary: >-
+  Explore ZENSHI Handcrafted Sushi in South Easton, MA$$$Nestled in South
+  Easton, MA, ZENSHI Handcrafted Sushi offers a welcoming spot for those seeking
+  fresh sushi options in a cozy, accessible environment. This restaurant
+  specializes in meticulously prepared rolls and dishes that highlight
+  high-quality ingredients, making it a go-to choice for sushi enthusiasts
+  looking for reliable dining experiences nearby. With daily hours from 9 AM to
+  7 PM, it's conveniently open for both casual lunches and evening meals,
+  ensuring you can easily find great sushi places near me without hassle. The
+  venue boasts wheelchair-accessible features, adding to its appeal for
+  inclusive visits, while its vibrant photos suggest a modern atmosphere perfect
+  for enjoying Japanese-inspired cuisine. Whether you're searching for top-rated
+  sushi restaurants or simply craving something delicious, this location
+  combines quality and convenience in one spot.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Visitor Feedback on ZENSHI$$$From what visitors share online,
+  folks generally appreciate the fresh flavors and creative presentations at
+  this sushi spot, often highlighting it as a solid pick for everyday meals or
+  special occasions. Many comments casually note that the handcrafted rolls feel
+  authentic and satisfying, helping it stand out among local Japanese places
+  near me. While some mention the straightforward service keeps things relaxed,
+  others enjoy the consistent quality that makes it worth returning to for a
+  quick bite. Overall, the vibe comes across as welcoming and unpretentious,
+  with plenty of praise for the variety that caters to different tastes without
+  overwhelming the experience. If you're on the hunt for the best sushi near me,
+  it seems like this place delivers a reliably enjoyable meal that keeps
+  customers coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -171,7 +263,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

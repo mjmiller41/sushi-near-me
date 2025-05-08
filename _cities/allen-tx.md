@@ -5,4 +5,5 @@ permalink: /texas/allen/
 stateAbbr: TX
 stateName: Texas
 cityName: Allen
+
 ---

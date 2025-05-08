@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Saga Sushi"
+title: Saga Sushi
 permalink: /massachusetts/west-yarmouth/saga-sushi.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: West Yarmouth
 seo:
-  name: "Saga Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.mysagasushi.com/
-description: "Saga Sushi serves delicious sushi in West Yarmouth, Massachusetts. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ645LbAo7-4kRq7daEBF-3GE
 photos:
   - name: >-
@@ -170,22 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89fb3b0a6c4b8eeb:0x61dc7e11105ab7ab!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
-    - 'Monday: 11:00 AM – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 10:00 PM'
-    - 'Friday: 11:00 AM – 10:00 PM'
-    - 'Saturday: 12:00 – 10:00 PM'
-    - 'Sunday: 12:00 – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 10:00 PM'
-    - 'Friday: 11:00 AM – 10:00 PM'
-    - 'Saturday: 12:00 – 10:00 PM'
-    - 'Sunday: 12:00 – 9:00 PM'
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: Closed'
+    - 'Tuesday: 11:00 AM – 9:30 PM'
+    - 'Wednesday: 11:00 AM – 9:30 PM'
+    - 'Thursday: 11:00 AM – 9:30 PM'
+    - 'Friday: 11:00 AM – 10:30 PM'
+    - 'Saturday: 12:00 – 10:30 PM'
+    - 'Sunday: 12:00 – 9:30 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,10 +237,51 @@ secondary_opening_hours:
 phone: (508) 827-7703
 price_level: null
 price_range: null
-rating: '4.0'
-rating_count: 0
+rating: '4.1'
+rating_count: 114
 website: https://www.mysagasushi.com/
+description: >-
+  Discover Saga Sushi in West Yarmouth, MA$$$Nestled in West Yarmouth, MA, Saga
+  Sushi stands out as a welcoming spot for enjoying authentic Japanese cuisine,
+  blending casual vibes with a variety of fresh sushi options. This sushi
+  restaurant offers a range of flavorful dishes, including hibachi-style
+  favorites and thoughtful vegetarian selections, making it a great choice for
+  diverse tastes and dietary needs. With its accessible features like
+  wheelchair-friendly entrances and parking, the spot ensures everyone can savor
+  the experience comfortably. Open for lunch and dinner several days a week,
+  it's an ideal destination for those seeking sushi places near me that
+  prioritize quality and convenience. Whether you're in the mood for top-rated
+  sushi or a relaxed meal, this location delivers a satisfying blend of
+  tradition and accessibility.
+generative_summary: >-
+  Discover Saga Sushi in West Yarmouth, MA$$$Nestled in West Yarmouth, MA, Saga
+  Sushi stands out as a welcoming spot for enjoying authentic Japanese cuisine,
+  blending casual vibes with a variety of fresh sushi options. This sushi
+  restaurant offers a range of flavorful dishes, including hibachi-style
+  favorites and thoughtful vegetarian selections, making it a great choice for
+  diverse tastes and dietary needs. With its accessible features like
+  wheelchair-friendly entrances and parking, the spot ensures everyone can savor
+  the experience comfortably. Open for lunch and dinner several days a week,
+  it's an ideal destination for those seeking sushi places near me that
+  prioritize quality and convenience. Whether you're in the mood for top-rated
+  sushi or a relaxed meal, this location delivers a satisfying blend of
+  tradition and accessibility.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying About This Spot$$$Feedback from diners highlights
+  Saga Sushi as a solid pick for anyone craving reliable Japanese fare, with
+  many praising the fresh flavors and variety that keep it among the best sushi
+  restaurants in the area. People often note the welcoming atmosphere and
+  efficient service, making it a go-to for casual outings or quick bites of
+  sushi close to me. While a few mentions touch on minor waits during peak
+  times, the overall consensus leans positive, especially for the tasty rolls
+  and vegetarian options that add to its appeal. With a strong rating reflecting
+  genuine enjoyment, it's clear this place resonates with locals and visitors
+  alike as a dependable choice for Japanese places near me. If you're exploring
+  top-rated sushi spots, this one comes through with honest value and a
+  laid-back charm that leaves most satisfied.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +307,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

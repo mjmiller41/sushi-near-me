@@ -5,4 +5,5 @@ permalink: /texas/temple/
 stateAbbr: TX
 stateName: Texas
 cityName: Temple
+
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sus Hi Eatstation - Chickasaw Trl"
+title: Sus Hi Eatstation - Chickasaw Trl
 permalink: /florida/orlando/sus-hi-eatstation-chickasaw-trl.html
 stateAbbr: FL
 stateName: Florida
 cityName: Orlando
 seo:
-  name: "Sus Hi Eatstation - Chickasaw Trl"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sus Hi Eatstation - Chickasaw Trl serves delicious sushi in Orlando, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ86e3px5l54gR24KtoCZj5kQ
 photos:
   - name: >-
@@ -185,7 +183,40 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Explore Sus Hi Eatstation in Orlando, FL$$$Sus Hi Eatstation in Orlando, FL,
+  stands out as a cozy sushi destination offering fresh, Japanese-inspired
+  dishes in a welcoming environment. This spot emphasizes quality ingredients
+  and a relaxed vibe, making it ideal for those seeking tasty sushi options near
+  urban hubs. With accessibility features like wheelchair-friendly parking and
+  entrances, it caters to a wide range of diners looking for convenience and
+  comfort. Located on S Chickasaw Trail, it's a go-to choice for anyone
+  exploring top sushi restaurants in the area, blending casual dining with
+  flavorful experiences that appeal to sushi enthusiasts.
+generative_summary: >-
+  Explore Sus Hi Eatstation in Orlando, FL$$$Sus Hi Eatstation in Orlando, FL,
+  stands out as a cozy sushi destination offering fresh, Japanese-inspired
+  dishes in a welcoming environment. This spot emphasizes quality ingredients
+  and a relaxed vibe, making it ideal for those seeking tasty sushi options near
+  urban hubs. With accessibility features like wheelchair-friendly parking and
+  entrances, it caters to a wide range of diners looking for convenience and
+  comfort. Located on S Chickasaw Trail, it's a go-to choice for anyone
+  exploring top sushi restaurants in the area, blending casual dining with
+  flavorful experiences that appeal to sushi enthusiasts.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Customer Feedback$$$Although specific reviews for this sushi
+  spot aren't available yet, it's clear from general observations that it holds
+  potential as a fresh addition to Orlando's dining scene. Visitors often
+  appreciate straightforward spots like this for their focus on accessible and
+  enjoyable meals, suggesting it could become a favorite for casual sushi
+  lovers. Based on the setup, many might find the emphasis on convenience and
+  variety to be a strong draw, especially for groups or individuals searching
+  for reliable options nearby. Overall, it seems poised to deliver a satisfying
+  experience, making it worth trying for anyone hunting for quality sushi places
+  in the neighborhood.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +242,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

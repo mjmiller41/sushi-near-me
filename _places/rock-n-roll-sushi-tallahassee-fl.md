@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Rock N Roll Sushi"
+title: Rock N Roll Sushi
 permalink: /florida/tallahassee/rock-n-roll-sushi.html
 stateAbbr: FL
 stateName: Florida
 cityName: Tallahassee
 seo:
-  name: "Rock N Roll Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Rock N Roll Sushi serves delicious sushi in Tallahassee, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ-bo6KdZZ7IgRmBb8178j7LU
 photos:
   - name: >-
@@ -185,7 +183,38 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Rock N Roll Sushi in Tallahassee$$$Rock N Roll Sushi in Tallahassee,
+  FL, stands out as a vibrant sushi destination blending fresh flavors with a
+  welcoming vibe for casual diners. This spot emphasizes accessibility,
+  featuring wheelchair-friendly parking, entrances, restrooms, and seating,
+  making it an inclusive choice for everyone seeking Japanese-inspired cuisine.
+  Its lively atmosphere and eye-catching photos highlight a fun setting perfect
+  for enjoying tasty rolls and creative dishes. Whether you're looking for
+  quality sushi options nearby, it's a reliable go-to for those exploring local
+  eateries in the area.
+generative_summary: >-
+  Discover Rock N Roll Sushi in Tallahassee$$$Rock N Roll Sushi in Tallahassee,
+  FL, stands out as a vibrant sushi destination blending fresh flavors with a
+  welcoming vibe for casual diners. This spot emphasizes accessibility,
+  featuring wheelchair-friendly parking, entrances, restrooms, and seating,
+  making it an inclusive choice for everyone seeking Japanese-inspired cuisine.
+  Its lively atmosphere and eye-catching photos highlight a fun setting perfect
+  for enjoying tasty rolls and creative dishes. Whether you're looking for
+  quality sushi options nearby, it's a reliable go-to for those exploring local
+  eateries in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Customer Experiences$$$From what diners share about this sushi
+  spot, the fresh and flavorful rolls often steal the show, making it a hit for
+  anyone craving satisfying meals. People frequently mention the welcoming
+  environment and thoughtful accessibility features that enhance their visit
+  without any hassle. While experiences vary, many appreciate the casual vibe
+  that's ideal for groups or solo outings, adding to its appeal as a
+  neighborhood favorite. Overall, feedback leans positive, suggesting it's worth
+  trying for sushi lovers in Tallahassee looking for reliable options close by.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +240,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

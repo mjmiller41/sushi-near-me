@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "MaKin Vegan Sushi"
+title: MaKin Vegan Sushi
 permalink: /california/agoura-hills/makin-vegan-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Agoura Hills
 seo:
-  name: "MaKin Vegan Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://makinvegan.com/
-description: "MaKin Vegan Sushi serves delicious sushi in Agoura Hills, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJL0k28zwl6IARmYU16Td-nfU
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80e8253cf336492f:0xf59d7e37e9358599!10e5
 primary_type: Vegan Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 14
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 14
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 14
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 14
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 2:00 – 9:00 PM'
     - 'Tuesday: 2:00 – 9:00 PM'
     - 'Wednesday: 2:00 – 9:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 9:00 PM'
     - 'Saturday: 11:30 AM – 9:00 PM'
     - 'Sunday: 11:30 AM – 9:00 PM'
-  current:
-    - 'Monday: 2:00 – 9:00 PM'
-    - 'Tuesday: 2:00 – 9:00 PM'
-    - 'Wednesday: 2:00 – 9:00 PM'
-    - 'Thursday: 2:00 – 9:00 PM'
-    - 'Friday: 11:30 AM – 9:00 PM'
-    - 'Saturday: 11:30 AM – 9:00 PM'
-    - 'Sunday: 11:30 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,232 @@ phone: (818) 699-6716
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.8'
-rating_count: 0
+rating_count: 256
 website: http://makinvegan.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover MaKin Vegan Sushi in Agoura Hills, CA$$$MaKin Vegan Sushi in Agoura
+  Hills, CA, stands out as a fully vegan Japanese eatery serving creative sushi
+  and teriyaki bowls in a relaxed, welcoming environment. This spot emphasizes
+  fresh, plant-based ingredients that bring authentic flavors to every dish,
+  making it a favorite for those exploring top-rated vegan options nearby. With
+  thoughtful accessibility features like wheelchair-friendly entrances and
+  seating, it ensures a comfortable visit for all diners. The laid-back
+  atmosphere pairs perfectly with its menu of classics, ideal for anyone seeking
+  satisfying sushi places near me. Outdoor seating adds to the charm, enhancing
+  the overall experience for casual meals or gatherings.
+generative_summary: >-
+  Discover MaKin Vegan Sushi in Agoura Hills, CA$$$MaKin Vegan Sushi in Agoura
+  Hills, CA, stands out as a fully vegan Japanese eatery serving creative sushi
+  and teriyaki bowls in a relaxed, welcoming environment. This spot emphasizes
+  fresh, plant-based ingredients that bring authentic flavors to every dish,
+  making it a favorite for those exploring top-rated vegan options nearby. With
+  thoughtful accessibility features like wheelchair-friendly entrances and
+  seating, it ensures a comfortable visit for all diners. The laid-back
+  atmosphere pairs perfectly with its menu of classics, ideal for anyone seeking
+  satisfying sushi places near me. Outdoor seating adds to the charm, enhancing
+  the overall experience for casual meals or gatherings.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJL0k28zwl6IARmYU16Td-nfU/reviews/ChdDSUhNMG9nS0VJQ0FnTURRdmNYSWdBRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Incredible Vegan Sushi – A Must-Try!
+
+
+        I was absolutely blown away by the vegan sushi at MaKin! The creativity
+        and flavors were unmatched—each roll was beautifully crafted with fresh,
+        high-quality ingredients. The texture and taste were so satisfying that
+        even non-vegans would love it. The presentation was stunning, and the
+        attention to detail truly set this place apart. Hands down, the best
+        vegan sushi I’ve ever had! I’ll definitely be coming back and highly
+        recommend it to anyone looking for a delicious plant-based sushi
+        experience.
+      languageCode: en
+    originalText:
+      text: >-
+        Incredible Vegan Sushi – A Must-Try!
+
+
+        I was absolutely blown away by the vegan sushi at MaKin! The creativity
+        and flavors were unmatched—each roll was beautifully crafted with fresh,
+        high-quality ingredients. The texture and taste were so satisfying that
+        even non-vegans would love it. The presentation was stunning, and the
+        attention to detail truly set this place apart. Hands down, the best
+        vegan sushi I’ve ever had! I’ll definitely be coming back and highly
+        recommend it to anyone looking for a delicious plant-based sushi
+        experience.
+      languageCode: en
+    authorAttribution:
+      displayName: Dimple
+      uri: https://www.google.com/maps/contrib/106293629725434746191/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIntmj2W40lEan0ojV9m_tJ5VkAMPXfmJsaLkYcEhaI1CPjHTU=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-03-13T11:32:21.094716Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURRdmNYSWdBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURRdmNYSWdBRRAB!2m1!1s0x80e8253cf336492f:0xf59d7e37e9358599
+  - name: >-
+      places/ChIJL0k28zwl6IARmYU16Td-nfU/reviews/ChZDSUhNMG9nS0VJQ0FnTURvOXYyS1lREAE
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        Great food, sashimi tastes pretty convincing to the real thing. Good
+        service. Nice ambiance. Would come here again !
+      languageCode: en
+    originalText:
+      text: >-
+        Great food, sashimi tastes pretty convincing to the real thing. Good
+        service. Nice ambiance. Would come here again !
+      languageCode: en
+    authorAttribution:
+      displayName: Susanna Luong
+      uri: https://www.google.com/maps/contrib/106859029175123030583/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXgZK8rwdtNn67oD1Z-u4ySqiP32QNT_Lhvi4ss7r6UfnW_xR8aow=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-04-24T19:10:49.666916Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURvOXYyS1lREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURvOXYyS1lREAE!2m1!1s0x80e8253cf336492f:0xf59d7e37e9358599
+  - name: >-
+      places/ChIJL0k28zwl6IARmYU16Td-nfU/reviews/ChdDSUhNMG9nS0VJQ0FnTUNRM09UOTV3RRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        Wow! Best sushi I’ve ever had, if you like baked rolls go for the
+        Alaska, so creamy and flavorful, the matcha latte is great as well!
+      languageCode: en
+    originalText:
+      text: >-
+        Wow! Best sushi I’ve ever had, if you like baked rolls go for the
+        Alaska, so creamy and flavorful, the matcha latte is great as well!
+      languageCode: en
+    authorAttribution:
+      displayName: Angel Valdez
+      uri: https://www.google.com/maps/contrib/100065508103357705475/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXfBT-h-NGlfuQlN-DZCm7-WN-Ae-l7ZUxYE5gloUGRvZh9e-VZ=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-02T21:47:47.192186Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNRM09UOTV3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNRM09UOTV3RRAB!2m1!1s0x80e8253cf336492f:0xf59d7e37e9358599
+  - name: >-
+      places/ChIJL0k28zwl6IARmYU16Td-nfU/reviews/ChZDSUhNMG9nS0VJQ0FnSUNEMk9DZmNBEAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        Food is absolutely delicious, as others have said, it's so "real"
+        looking and tasting you have to re-read the "100% Vegan" on the menu to
+        convince yourself. All 6 staff members we encountered were incredibly
+        friendly and seemed to genuinely like being there. Nice, quiet
+        atmosphere allowed for conversation. Overall exemplary experience and I
+        can't wait to go back!
+      languageCode: en
+    originalText:
+      text: >-
+        Food is absolutely delicious, as others have said, it's so "real"
+        looking and tasting you have to re-read the "100% Vegan" on the menu to
+        convince yourself. All 6 staff members we encountered were incredibly
+        friendly and seemed to genuinely like being there. Nice, quiet
+        atmosphere allowed for conversation. Overall exemplary experience and I
+        can't wait to go back!
+      languageCode: en
+    authorAttribution:
+      displayName: Kasey Brooks
+      uri: https://www.google.com/maps/contrib/112623749384367042756/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjX8WDwZsk8jUpJiE21Mnwb2Ss5W3NNlrEkLr-qFIhL6yzRbtiBCLg=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-03-24T04:59:19.942520Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNEMk9DZmNBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNEMk9DZmNBEAE!2m1!1s0x80e8253cf336492f:0xf59d7e37e9358599
+  - name: >-
+      places/ChIJL0k28zwl6IARmYU16Td-nfU/reviews/ChdDSUhNMG9nS0VJQ0FnSUNkMWRlWGhRRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        I tried this vegan sushi today for the first time and it was so very
+        good! The food was hot, flavorful, and unique. I got the fried vegetable
+        tempura and it didn't taste like it was fried in 10-year-old oil... It
+        actually tasted fresh! The produce was fresh and delicious. I could go
+        on and on about how good this food was! The orange chicken was fluffy
+        and a good ratio of breading to "meat." To the owners: you're doing a
+        great job! Thank you for providing this delicious food!
+      languageCode: en
+    originalText:
+      text: >-
+        I tried this vegan sushi today for the first time and it was so very
+        good! The food was hot, flavorful, and unique. I got the fried vegetable
+        tempura and it didn't taste like it was fried in 10-year-old oil... It
+        actually tasted fresh! The produce was fresh and delicious. I could go
+        on and on about how good this food was! The orange chicken was fluffy
+        and a good ratio of breading to "meat." To the owners: you're doing a
+        great job! Thank you for providing this delicious food!
+      languageCode: en
+    authorAttribution:
+      displayName: Bethany Elliott
+      uri: https://www.google.com/maps/contrib/113201680743995870765/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjW4oZV2RsUV5rac5rkO5nBaGOFh-mIPMAY7glaY9EJgqqONan3jYg=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-02-17T01:12:10.053474Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNkMWRlWGhRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNkMWRlWGhRRRAB!2m1!1s0x80e8253cf336492f:0xf59d7e37e9358599
+review_summary: >-
+  What Customers Love About This Vegan Spot$$$Visitors often praise the fresh
+  ingredients and spot-on flavors that make the vegan sushi feel surprisingly
+  authentic and enjoyable. Many highlight the creative rolls and dishes that
+  deliver a satisfying texture and taste, appealing even to those new to
+  plant-based eating. The friendly service and cozy ambiance come up frequently,
+  creating a relaxed vibe that encourages repeat visits. Overall, it's clear
+  that folks appreciate the quality and variety, with plenty of positive
+  feedback on the overall value for a moderate price. If you're hunting for best
+  sushi near me that's both delicious and wholesome, this place delivers a
+  reliably uplifting dining experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
 serves_breakfast: null
 serves_brunch: null
 serves_cocktails: null
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

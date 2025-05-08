@@ -5,4 +5,5 @@ permalink: /new-york/troy/
 stateAbbr: NY
 stateName: New York
 cityName: Troy
+
 ---

@@ -5,4 +5,5 @@ permalink: /kansas/leawood/
 stateAbbr: KS
 stateName: Kansas
 cityName: Leawood
+
 ---

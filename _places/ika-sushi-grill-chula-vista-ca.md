@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ika Sushi & Grill"
+title: Ika Sushi & Grill
 permalink: /california/chula-vista/ika-sushi-grill.html
 stateAbbr: CA
 stateName: California
 cityName: Chula Vista
 seo:
-  name: "Ika Sushi & Grill"
-  type: Restaurant
+  type: restaurant
   links: http://ikasushigrill.com/
-description: "Ika Sushi & Grill serves delicious sushi in Chula Vista, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJEWgdWURF2YARetLpazC8eiY
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: null
 rating: '4.4'
 rating_count: 0
 website: http://ikasushigrill.com/
+description: >-
+  Experience Ika Sushi & Grill in Chula Vista, CA$$$Ika Sushi & Grill in Chula
+  Vista, CA, offers a delightful array of sushi rolls, noodles, and classic
+  Japanese dishes in a welcoming environment that's perfect for casual dining
+  enthusiasts. This spot stands out with its fresh ingredients and inviting
+  ambiance, making it an excellent choice for those seeking authentic flavors in
+  a relaxed setting. Accessibility features like wheelchair-friendly entrances
+  and ample parking add to the convenience, ensuring everyone can enjoy a
+  comfortable meal. Whether you're in the mood for expertly crafted rolls or
+  hearty noodle options, the menu highlights a variety of options that cater to
+  different tastes, ideal for families or groups looking for top-rated sushi
+  experiences nearby.
+generative_summary: >-
+  Experience Ika Sushi & Grill in Chula Vista, CA$$$Ika Sushi & Grill in Chula
+  Vista, CA, offers a delightful array of sushi rolls, noodles, and classic
+  Japanese dishes in a welcoming environment that's perfect for casual dining
+  enthusiasts. This spot stands out with its fresh ingredients and inviting
+  ambiance, making it an excellent choice for those seeking authentic flavors in
+  a relaxed setting. Accessibility features like wheelchair-friendly entrances
+  and ample parking add to the convenience, ensuring everyone can enjoy a
+  comfortable meal. Whether you're in the mood for expertly crafted rolls or
+  hearty noodle options, the menu highlights a variety of options that cater to
+  different tastes, ideal for families or groups looking for top-rated sushi
+  experiences nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJEWgdWURF2YARetLpazC8eiY/reviews/ChZDSUhNMG9nS0VJQ0FnTUNnMWEyMFpBEAE
@@ -342,6 +365,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJaUxYTXhRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJaUxYTXhRRRAB!2m1!1s0x80d94544591d6811:0x267abc306be9d27a
+review_summary: >-
+  Highlights from Customer Feedback$$$Visitors to this sushi spot often rave
+  about the fresh, flavorful fish and creative rolls that make every bite a
+  highlight, with many noting it's become their go-to for satisfying meals in
+  the area. The service stands out as friendly and attentive, helping to create
+  a laid-back vibe that's great for everything from quick lunches to family
+  dinners, though some mention occasional waits during busy times. Overall, the
+  welcoming atmosphere and solid portions keep things enjoyable, with ample
+  parking and a clean space adding to the appeal for those exploring local
+  Japanese options. If you're hunting for reliable sushi spots, this place
+  delivers on taste and value, encouraging repeat visits for its consistently
+  positive dining experiences.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -373,7 +409,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

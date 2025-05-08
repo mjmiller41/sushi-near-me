@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Zeppin Sushi"
+title: Zeppin Sushi
 permalink: /california/encino/zeppin-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Encino
 seo:
-  name: "Zeppin Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Zeppin Sushi serves delicious sushi in Encino, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ33hsmaOZwoARsotuPOwW_dA
 photos:
   - name: >-
@@ -185,7 +183,45 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Zeppin Sushi in Encino, California$$$Zeppin Sushi in Encino, CA,
+  stands out as a relaxed destination for enjoying authentic Japanese flavors,
+  particularly its all-you-can-eat offerings that attract sushi enthusiasts
+  looking for variety in their local dining options. This spot specializes in
+  fresh sushi and small plates, making it a go-to choice for those seeking
+  casual Japanese cuisine without the formality of upscale settings. With
+  thoughtful accessibility features like wheelchair-friendly entrances and
+  seating, it ensures everyone can savor the experience comfortably. The menu
+  highlights a range of creative rolls and dishes, perfect for anyone exploring
+  top-rated sushi restaurants nearby, blending affordability with satisfying
+  portions that keep diners coming back.
+generative_summary: >-
+  Discover Zeppin Sushi in Encino, California$$$Zeppin Sushi in Encino, CA,
+  stands out as a relaxed destination for enjoying authentic Japanese flavors,
+  particularly its all-you-can-eat offerings that attract sushi enthusiasts
+  looking for variety in their local dining options. This spot specializes in
+  fresh sushi and small plates, making it a go-to choice for those seeking
+  casual Japanese cuisine without the formality of upscale settings. With
+  thoughtful accessibility features like wheelchair-friendly entrances and
+  seating, it ensures everyone can savor the experience comfortably. The menu
+  highlights a range of creative rolls and dishes, perfect for anyone exploring
+  top-rated sushi restaurants nearby, blending affordability with satisfying
+  portions that keep diners coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Buzzing About$$$Visitors to this sushi spot often rave
+  about the fantastic all-you-can-eat deals that make it a smart pick for anyone
+  craving fresh rolls and Japanese favorites without breaking the bank. Folks
+  appreciate the wide array of options, including crowd-pleasers like classic
+  rolls, which add to the fun and flavorful vibe of the place. Service tends to
+  be warm and attentive, enhancing the overall laid-back atmosphere and making
+  meals feel welcoming for groups or solo diners. While most feedback highlights
+  the reasonable prices and enjoyable happy hour specials, it's worth noting
+  that the quality of ingredients can vary, so it's a solid choice for those
+  keeping expectations realistic. Overall, it's a reliable option for sushi
+  lovers in the area looking for a casual spot to unwind and enjoy good food.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +247,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

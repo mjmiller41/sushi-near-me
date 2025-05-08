@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Toro"
+title: Sushi Toro
 permalink: /maryland/kensington/sushi-toro.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Kensington
 seo:
-  name: "Sushi Toro"
-  type: Restaurant
+  type: restaurant
   links: https://www.gosushitoro.com/
-description: "Sushi Toro serves delicious sushi in Kensington, Maryland. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJcycjeqfNt4kRStMVqRXNr44
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $20 &ndash; $30
 rating: '4.7'
 rating_count: 0
 website: https://www.gosushitoro.com/
+description: >-
+  Discover Sushi Toro in Kensington, MD$$$Sushi Toro in Kensington, MD, stands
+  out as a premier destination for those seeking authentic Japanese cuisine in a
+  welcoming environment. The restaurant specializes in traditional offerings
+  like nigiri and sashimi, alongside inventive maki rolls that blend fresh
+  flavors with creative presentations, all served in a cozy and inviting
+  atmosphere. Accessibility features such as wheelchair-friendly parking and
+  seating make it an inclusive choice for a wide range of diners looking for
+  top-rated sushi experiences nearby. With its focus on high-quality ingredients
+  and a warm vibe, it's an ideal spot for anyone exploring Japanese places in
+  the area who appreciates a balanced mix of classic and innovative dishes.
+generative_summary: >-
+  Discover Sushi Toro in Kensington, MD$$$Sushi Toro in Kensington, MD, stands
+  out as a premier destination for those seeking authentic Japanese cuisine in a
+  welcoming environment. The restaurant specializes in traditional offerings
+  like nigiri and sashimi, alongside inventive maki rolls that blend fresh
+  flavors with creative presentations, all served in a cozy and inviting
+  atmosphere. Accessibility features such as wheelchair-friendly parking and
+  seating make it an inclusive choice for a wide range of diners looking for
+  top-rated sushi experiences nearby. With its focus on high-quality ingredients
+  and a warm vibe, it's an ideal spot for anyone exploring Japanese places in
+  the area who appreciates a balanced mix of classic and innovative dishes.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJcycjeqfNt4kRStMVqRXNr44/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3Z0luYjBnRRAB
@@ -366,6 +387,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURYcWFLS2lnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURYcWFLS2lnRRAB!2m1!1s0x89b7cda77a232773:0x8eafcd15a915d34a
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this sushi spot often rave about the
+  incredibly fresh and flavorful rolls, making it a go-to for anyone craving
+  reliable Japanese fare. Many highlight the cozy atmosphere and friendly
+  service that enhance the overall dining experience, with quick delivery of
+  dishes adding to the appeal during busy times. Folks appreciate the variety of
+  options, from traditional favorites to specialty items that keep things
+  exciting without overwhelming the menu. While some note that prices can be on
+  the higher side, the consistent quality and generous portions make it feel
+  worthwhile for sushi lovers. Overall, it's clear that this place delivers a
+  satisfying meal that leaves people eager to return for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -398,7 +431,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

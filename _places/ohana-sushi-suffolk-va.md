@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ohana Sushi"
+title: Ohana Sushi
 permalink: /virginia/suffolk/ohana-sushi.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Suffolk
 seo:
-  name: "Ohana Sushi"
-  type: Restaurant
-  links: null
-description: "Ohana Sushi serves delicious sushi in Suffolk, Virginia. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://order.toasttab.com/online/ohanasushisuffolkva
 place_id: ChIJEzef05KfuokRLxj4nJKsS4k
 photos:
   - name: >-
@@ -170,8 +168,97 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89ba9f92d39f3713:0x894bac929cf8182f!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 15
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:30 AM – 3:00 PM, 4:30 – 9:30 PM'
+    - 'Tuesday: Closed'
+    - 'Wednesday: 11:30 AM – 3:00 PM, 4:30 – 9:30 PM'
+    - 'Thursday: 11:30 AM – 3:00 PM, 4:30 – 9:30 PM'
+    - 'Friday: 11:30 AM – 3:00 PM, 4:30 – 10:00 PM'
+    - 'Saturday: 12:00 – 10:00 PM'
+    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +266,53 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (757) 686-1888
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.7'
+rating_count: 335
+website: https://order.toasttab.com/online/ohanasushisuffolkva
+description: >-
+  Discover Ohana Sushi in Suffolk, Virginia$$$Ohana Sushi in Suffolk, VA, stands
+  out as a welcoming Japanese restaurant that offers a relaxed atmosphere for
+  enjoying fresh sushi and comforting dishes. This spot features a variety of
+  menu options, including vegetarian choices, making it a great pick for those
+  seeking diverse flavors in a casual setting. With its accessible entrance and
+  seating, it's designed to accommodate everyone looking for an easy dining
+  experience, all while serving up high-quality fare that captures the essence
+  of Japanese cuisine. The restaurant's hours cater to both lunch and dinner
+  crowds, ensuring you can drop in for a satisfying meal any day of the week.
+  Whether you're exploring sushi restaurants nearby or craving authentic
+  Japanese flavors, Ohana Sushi delivers a blend of simplicity and taste that
+  keeps locals coming back.
+generative_summary: >-
+  Discover Ohana Sushi in Suffolk, Virginia$$$Ohana Sushi in Suffolk, VA, stands
+  out as a welcoming Japanese restaurant that offers a relaxed atmosphere for
+  enjoying fresh sushi and comforting dishes. This spot features a variety of
+  menu options, including vegetarian choices, making it a great pick for those
+  seeking diverse flavors in a casual setting. With its accessible entrance and
+  seating, it's designed to accommodate everyone looking for an easy dining
+  experience, all while serving up high-quality fare that captures the essence
+  of Japanese cuisine. The restaurant's hours cater to both lunch and dinner
+  crowds, ensuring you can drop in for a satisfying meal any day of the week.
+  Whether you're exploring sushi restaurants nearby or craving authentic
+  Japanese flavors, Ohana Sushi delivers a blend of simplicity and taste that
+  keeps locals coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Folks around town rave about the tasty sushi
+  selections at this Japanese eatery, with standout rolls that bring bold
+  flavors to the table and pair nicely with hearty ramen options. Many
+  appreciate the warm and attentive service that makes every visit feel
+  effortless and enjoyable, adding to the overall vibe of the place. The
+  atmosphere comes across as spotlessly clean and inviting, perfect for a
+  laid-back meal with friends or family after a long day. Overall, it's clear
+  that diners find this spot among the best for sushi cravings, thanks to the
+  consistent quality and friendly touches that enhance the experience. If you're
+  on the hunt for top-rated sushi near you, this location often hits the mark
+  with its reliable and delicious offerings.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +338,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

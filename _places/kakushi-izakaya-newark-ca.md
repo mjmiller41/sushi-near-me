@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kakushi Izakaya"
+title: Kakushi Izakaya
 permalink: /california/newark/kakushi-izakaya.html
 stateAbbr: CA
 stateName: California
 cityName: Newark
 seo:
-  name: "Kakushi Izakaya"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Kakushi Izakaya serves delicious sushi in Newark, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJxz_TtEW_j4ARKaN2vDM2vPA
 photos:
   - name: >-
@@ -184,7 +182,46 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Kakushi Izakaya in Newark, CA$$$Kakushi Izakaya in Newark,
+  California, is a welcoming Japanese restaurant that specializes in a cozy
+  atmosphere perfect for savoring traditional izakaya-style dishes. This spot
+  highlights fresh skewers, calamari, and other flavorful Japanese eats, making
+  it an excellent choice for those exploring top-rated Japanese places near you.
+  Paired with a selection of wines, beers, and sake, it offers a relaxed setting
+  ideal for casual dinners or gatherings. The restaurant's accessible features,
+  like wheelchair-friendly entrances and seating, ensure a comfortable
+  experience for all visitors. Whether you're seeking authentic Japanese cuisine
+  in a laid-back environment, it's a go-to destination for enjoying quality
+  meals close to home.
+generative_summary: >-
+  Discover Kakushi Izakaya in Newark, CA$$$Kakushi Izakaya in Newark,
+  California, is a welcoming Japanese restaurant that specializes in a cozy
+  atmosphere perfect for savoring traditional izakaya-style dishes. This spot
+  highlights fresh skewers, calamari, and other flavorful Japanese eats, making
+  it an excellent choice for those exploring top-rated Japanese places near you.
+  Paired with a selection of wines, beers, and sake, it offers a relaxed setting
+  ideal for casual dinners or gatherings. The restaurant's accessible features,
+  like wheelchair-friendly entrances and seating, ensure a comfortable
+  experience for all visitors. Whether you're seeking authentic Japanese cuisine
+  in a laid-back environment, it's a go-to destination for enjoying quality
+  meals close to home.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Visitor Feedback$$$Although specific reviews for this spot are
+  limited, feedback on similar Japanese restaurants often highlights the appeal
+  of fresh, well-prepared dishes like skewers and calamari that keep diners
+  coming back. People generally enjoy the casual vibe and drink options, noting
+  it as a solid pick for anyone hunting for tasty Japanese eats in a friendly
+  setting. It's frequently described as a hidden gem for those looking for
+  authentic flavors without the fuss, with many appreciating the overall
+  atmosphere for group outings or quick meals. While experiences can vary, the
+  consensus leans positive, suggesting it's worth trying for flavorful options
+  that satisfy sushi enthusiasts and Japanese food lovers alike. If you're
+  searching for reliable spots nearby, this one seems to deliver on genuine
+  taste and comfort.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +247,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

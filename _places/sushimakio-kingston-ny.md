@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "SushiMakio"
+title: SushiMakio
 permalink: /new-york/kingston/sushimakio.html
 stateAbbr: NY
 stateName: New York
 cityName: Kingston
 seo:
-  name: "SushiMakio"
-  type: Restaurant
+  type: restaurant
   links: http://www.sushimakio.com/
-description: "SushiMakio serves delicious sushi in Kingston, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, and dinner."
 place_id: ChIJP9VrSy4P3YkRP1WxjbQW5hI
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $30 &ndash; $50
 rating: '4.6'
 rating_count: 0
 website: http://www.sushimakio.com/
+description: >-
+  Discover SushiMakio in Kingston, NY$$$SushiMakio in Kingston, NY, stands out
+  as a welcoming sushi restaurant offering fresh Japanese-inspired dishes in a
+  cozy atmosphere. This spot specializes in high-quality sushi, sashimi, and
+  creative specialty rolls that highlight bold flavors and meticulous
+  preparation, making it a go-to choice for those seeking authentic tastes
+  without the big-city hustle. The intimate setting provides a relaxed
+  environment perfect for enjoying a meal, complemented by thoughtful
+  accessibility features like wheelchair-friendly entrances and parking. With
+  its focus on flavorful options and reasonable pricing, it's an ideal
+  destination for sushi enthusiasts exploring the Hudson Valley area. Whether
+  you're in the mood for a quick bite or a leisurely dinner, this establishment
+  delivers a satisfying experience that combines tradition with local charm.
+generative_summary: >-
+  Discover SushiMakio in Kingston, NY$$$SushiMakio in Kingston, NY, stands out
+  as a welcoming sushi restaurant offering fresh Japanese-inspired dishes in a
+  cozy atmosphere. This spot specializes in high-quality sushi, sashimi, and
+  creative specialty rolls that highlight bold flavors and meticulous
+  preparation, making it a go-to choice for those seeking authentic tastes
+  without the big-city hustle. The intimate setting provides a relaxed
+  environment perfect for enjoying a meal, complemented by thoughtful
+  accessibility features like wheelchair-friendly entrances and parking. With
+  its focus on flavorful options and reasonable pricing, it's an ideal
+  destination for sushi enthusiasts exploring the Hudson Valley area. Whether
+  you're in the mood for a quick bite or a leisurely dinner, this establishment
+  delivers a satisfying experience that combines tradition with local charm.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJP9VrSy4P3YkRP1WxjbQW5hI/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3anU2LUhBEAE
@@ -326,6 +351,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQta2NMazhRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQta2NMazhRRRAB!2m1!1s0x89dd0f2e4b6bd53f:0x12e616b48db1553f
+review_summary: >-
+  What Visitors Are Saying$$$Folks generally rave about the delicious sushi and
+  fresh ingredients at this spot, often noting it as one of the top choices for
+  Japanese cuisine in the region. While some mention that portions can feel a
+  bit light for the price, the overall quality and taste keep drawing people
+  back for favorites like miso soup and specialty rolls. Many appreciate the
+  cozy vibe and friendly service, though a few suggest the space could use a
+  refresh to match the excellent food. On the upside, it's frequently praised
+  for being a great value compared to bigger city options, making it worth
+  trying for anyone hunting for reliable sushi nearby. All in all, the feedback
+  leans positive, with diners enjoying memorable meals that make it a solid pick
+  for casual outings or group gatherings.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -355,7 +393,7 @@ serves_lunch: null
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

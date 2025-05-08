@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Basho"
+title: Sushi Basho
 permalink: /colorado/littleton/sushi-basho.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Littleton
 seo:
-  name: "Sushi Basho"
-  type: Restaurant
-  links: https://order.spoton.com/rqs-sushi-basho-20488/littleton-co/66b506636784cbd44aff3c63
-description: "Sushi Basho serves delicious sushi in Littleton, Colorado. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.sushibashoco.com/
 place_id: ChIJVXN7qzKAbIcRjPMrOVf5oTo
 photos:
   - name: >-
@@ -170,22 +168,113 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x876c8032ab7b7355:0x3aa1f957392bf38c!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
-    - 'Monday: 11:00 AM – 3:00 PM, 5:00 – 10:00 PM'
-    - 'Tuesday: 11:00 AM – 3:00 PM, 5:00 – 10:00 PM'
-    - 'Wednesday: 11:00 AM – 3:00 PM, 5:00 – 10:00 PM'
-    - 'Thursday: 11:00 AM – 3:00 PM, 5:00 – 10:00 PM'
-    - 'Friday: 11:00 AM – 3:00 PM, 5:00 – 10:00 PM'
-    - 'Saturday: 12:00 – 10:00 PM'
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 16
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 15
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 20
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 15
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 3:00 PM, 4:30 – 8:00 PM'
+    - 'Tuesday: 11:00 AM – 3:00 PM, 4:30 – 10:00 PM'
+    - 'Wednesday: 11:00 AM – 3:00 PM, 4:30 – 10:00 PM'
+    - 'Thursday: 11:00 AM – 3:00 PM, 4:30 – 10:00 PM'
+    - 'Friday: 11:00 AM – 3:00 PM, 4:30 – 10:00 PM'
+    - 'Saturday: 12:00 – 9:30 PM'
     - 'Sunday: 4:00 – 9:30 PM'
-  current:
-    - 'Monday: 11:00 AM – 3:00 PM, 5:00 – 10:00 PM'
-    - 'Tuesday: 11:00 AM – 3:00 PM, 5:00 – 10:00 PM'
-    - 'Wednesday: 11:00 AM – 3:00 PM, 5:00 – 10:00 PM'
-    - 'Thursday: 11:00 AM – 3:00 PM, 5:00 – 10:00 PM'
-    - 'Friday: 11:00 AM – 3:00 PM, 5:00 – 10:00 PM'
-    - 'Saturday: 12:00 – 10:00 PM'
-    - 'Sunday: 4:00 – 9:30 PM'
+  nextCloseTime: '2025-05-04T03:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,36 +286,232 @@ phone: (303) 730-9999
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.4'
-rating_count: 0
-website: >-
-  https://order.spoton.com/rqs-sushi-basho-20488/littleton-co/66b506636784cbd44aff3c63
-reviews: null
-parking_options: null
-payment_options: null
+rating_count: 634
+website: https://www.sushibashoco.com/
+description: >-
+  Explore Sushi Basho in Littleton, CO$$$Sushi Basho in Littleton, CO, stands
+  out as a welcoming spot for those seeking fresh Japanese cuisine in a relaxed
+  setting. This cozy eatery features a diverse menu with an array of sushi rolls
+  and other traditional fare, making it a go-to choice for anyone exploring
+  top-rated sushi restaurants nearby. With options like special rolls and a
+  sushi happy hour, it offers great value without compromising on quality or
+  flavor. The restaurant's accessible design and moderate pricing add to its
+  appeal for casual diners looking for authentic tastes. Whether you're in the
+  mood for a quick meal or a leisurely dinner, Sushi Basho delivers a satisfying
+  experience that highlights the best of Japanese dining in the area.
+generative_summary: >-
+  Explore Sushi Basho in Littleton, CO$$$Sushi Basho in Littleton, CO, stands
+  out as a welcoming spot for those seeking fresh Japanese cuisine in a relaxed
+  setting. This cozy eatery features a diverse menu with an array of sushi rolls
+  and other traditional fare, making it a go-to choice for anyone exploring
+  top-rated sushi restaurants nearby. With options like special rolls and a
+  sushi happy hour, it offers great value without compromising on quality or
+  flavor. The restaurant's accessible design and moderate pricing add to its
+  appeal for casual diners looking for authentic tastes. Whether you're in the
+  mood for a quick meal or a leisurely dinner, Sushi Basho delivers a satisfying
+  experience that highlights the best of Japanese dining in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJVXN7qzKAbIcRjPMrOVf5oTo/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfNjRuNjJRRRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        Love this place!! I’ve been coming here for years and their sushi is the
+        best! Its not overpriced, the portions are awesome, and their drinks are
+        amazing too. Highly recommend if you are in the downtown Littleton area
+      languageCode: en
+    originalText:
+      text: >-
+        Love this place!! I’ve been coming here for years and their sushi is the
+        best! Its not overpriced, the portions are awesome, and their drinks are
+        amazing too. Highly recommend if you are in the downtown Littleton area
+      languageCode: en
+    authorAttribution:
+      displayName: Julia M
+      uri: https://www.google.com/maps/contrib/118379227890971112091/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUwL0hJE4AwftVKvzgPBeHVqIgYirIsG9FRsXj47dO3FECOP9QW7A=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-01-19T04:11:30.586628Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNfNjRuNjJRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNfNjRuNjJRRRAB!2m1!1s0x876c8032ab7b7355:0x3aa1f957392bf38c
+  - name: >-
+      places/ChIJVXN7qzKAbIcRjPMrOVf5oTo/reviews/ChZDSUhNMG9nS0VJQ0FnTURJbnZ5eVRREAE
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 5
+    text:
+      text: >-
+        Went there on a Sunday around 5:30pm with a gift card I got for my
+        birthday. It was like a 45 minute wait for our food, but OH Boy was it
+        worth it! So good it was sick. Will definitely be returning.
+      languageCode: en
+    originalText:
+      text: >-
+        Went there on a Sunday around 5:30pm with a gift card I got for my
+        birthday. It was like a 45 minute wait for our food, but OH Boy was it
+        worth it! So good it was sick. Will definitely be returning.
+      languageCode: en
+    authorAttribution:
+      displayName: Tawna Jackson
+      uri: https://www.google.com/maps/contrib/118423798164436267327/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjX-uz1VLKOo0iVlTQg10O0GEEFpkIOqQBveNIF8rjus4BOs18_l=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-04-10T02:55:20.289641Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURJbnZ5eVRREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJbnZ5eVRREAE!2m1!1s0x876c8032ab7b7355:0x3aa1f957392bf38c
+  - name: >-
+      places/ChIJVXN7qzKAbIcRjPMrOVf5oTo/reviews/ChdDSUhNMG9nS0VJQ0FnSURycGJPTl9nRRAB
+    relativePublishTimeDescription: 9 months ago
+    rating: 4
+    text:
+      text: >-
+        I don’t know where they are bringing their fish in from but it does not
+        disappoint. Very good quality and taste. The service is excellent. The
+        atmosphere is lacking a bit. Some surround sound music would be helpful.
+        The tables and booths are fairly close so your listening to your
+        neighbors conversation.
+      languageCode: en
+    originalText:
+      text: >-
+        I don’t know where they are bringing their fish in from but it does not
+        disappoint. Very good quality and taste. The service is excellent. The
+        atmosphere is lacking a bit. Some surround sound music would be helpful.
+        The tables and booths are fairly close so your listening to your
+        neighbors conversation.
+      languageCode: en
+    authorAttribution:
+      displayName: Becca Kennedy
+      uri: https://www.google.com/maps/contrib/112316819746145550280/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXbUWZagCdj6Pv4apffx_pxX_rkZK9geqFQ-yU1FPNIvpRUxR4s=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-07-18T20:24:24.862435Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURycGJPTl9nRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURycGJPTl9nRRAB!2m1!1s0x876c8032ab7b7355:0x3aa1f957392bf38c
+  - name: >-
+      places/ChIJVXN7qzKAbIcRjPMrOVf5oTo/reviews/ChdDSUhNMG9nS0VJQ0FnSURadE5fenZnRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 4
+    text:
+      text: >-
+        Honestly some of the best sushi in Denver, but the restaurant did have a
+        couple flaws. We were seated and it took 10 minutes before we received
+        our menus and chopsticks and it was over an hour of waiting for our
+        appetizer + longer for the rest. Now, the servers were very nice and
+        attended to us upon request, so I wouldn’t entirely blame them. It seems
+        almost as if the restaurant doesn’t have the quantity of staff to run
+        such a large sushi restaurant and there seemed to be a lot of confusion
+        among the waiters/waitresses as to who was watching what table and what
+        food went to which customers. All in all, we’ll be back because the food
+        was superb, but may come at a less hectic time.
+      languageCode: en
+    originalText:
+      text: >-
+        Honestly some of the best sushi in Denver, but the restaurant did have a
+        couple flaws. We were seated and it took 10 minutes before we received
+        our menus and chopsticks and it was over an hour of waiting for our
+        appetizer + longer for the rest. Now, the servers were very nice and
+        attended to us upon request, so I wouldn’t entirely blame them. It seems
+        almost as if the restaurant doesn’t have the quantity of staff to run
+        such a large sushi restaurant and there seemed to be a lot of confusion
+        among the waiters/waitresses as to who was watching what table and what
+        food went to which customers. All in all, we’ll be back because the food
+        was superb, but may come at a less hectic time.
+      languageCode: en
+    authorAttribution:
+      displayName: Max Dennard
+      uri: https://www.google.com/maps/contrib/105936360242932332219/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXpKdgUJ0D7pPOr6yE7o2M1X81p6CrBRVIypQfiSRnPD7yPkKGZRQ=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2023-09-25T13:46:28.027698Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURadE5fenZnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURadE5fenZnRRAB!2m1!1s0x876c8032ab7b7355:0x3aa1f957392bf38c
+  - name: >-
+      places/ChIJVXN7qzKAbIcRjPMrOVf5oTo/reviews/ChdDSUhNMG9nS0VJQ0FnSURmazdlUWlBRRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        Had a great dinner. Sushi is always fresh and well prepared. Our servers
+        were very attentive.
+
+
+        Not a pretentious place but excellent value with good food.
+      languageCode: en
+    originalText:
+      text: >-
+        Had a great dinner. Sushi is always fresh and well prepared. Our servers
+        were very attentive.
+
+
+        Not a pretentious place but excellent value with good food.
+      languageCode: en
+    authorAttribution:
+      displayName: Jack Farland
+      uri: https://www.google.com/maps/contrib/116140908503048498000/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJH_D3RSAm_l09wpCnId5P1NyfmxaP2Vne5DvZqQbc1uJ-XfQ=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-01-10T02:54:28.042326Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURmazdlUWlBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURmazdlUWlBRRAB!2m1!1s0x876c8032ab7b7355:0x3aa1f957392bf38c
+review_summary: >-
+  Customer Feedback on This Local Sushi Favorite$$$Visitors to this sushi spot
+  often rave about the fresh and flavorful rolls that make it a standout option
+  for anyone craving quality Japanese eats nearby. Many appreciate the generous
+  portions and reasonable prices, noting that the overall value keeps them
+  coming back for more. While some mention occasional waits during busy times,
+  the friendly service and tasty drinks help balance things out, creating a
+  generally enjoyable atmosphere. Folks frequently highlight the restaurant's
+  ability to deliver delicious, well-prepared dishes that feel just right for
+  groups or solo outings. All in all, it's a solid pick for those searching for
+  reliable sushi places around Littleton, with the positives far outweighing any
+  minor hiccups.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
+curbside_pickup: false
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
 menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
+serves_coffee: true
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Petite, modest storefront venue dishing out a variety of special rolls & a
+  sushi happy hour.
 
 ---

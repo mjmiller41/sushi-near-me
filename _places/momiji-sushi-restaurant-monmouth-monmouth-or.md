@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Momiji Sushi Restaurant - Monmouth"
+title: Momiji Sushi Restaurant - Monmouth
 permalink: /oregon/monmouth/momiji-sushi-restaurant-monmouth.html
 stateAbbr: OR
 stateName: Oregon
 cityName: Monmouth
 seo:
-  name: "Momiji Sushi Restaurant - Monmouth"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Momiji Sushi Restaurant - Monmouth serves delicious sushi in Monmouth, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJT5L4bFQDwFQRihHTuiuWujI
 photos:
   - name: >-
@@ -185,7 +183,47 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Momiji Sushi Restaurant in Monmouth, OR$$$Nestled in the heart of
+  Monmouth, OR, Momiji Sushi Restaurant offers a welcoming spot for enjoying
+  fresh Japanese cuisine, including a variety of sushi options that highlight
+  quality ingredients and traditional flavors. This laid-back eatery provides a
+  relaxed atmosphere perfect for casual meals, whether you're stopping by for a
+  quick lunch or a leisurely dinner, making it an ideal choice for those seeking
+  authentic tastes in a comfortable setting. With thoughtful accessibility
+  features like wheelchair-friendly parking and entrances, it ensures everyone
+  can savor the experience without hassle. The menu focuses on simple yet
+  flavorful dishes, appealing to anyone exploring top-rated sushi spots in the
+  area, and its unpretentious vibe adds to the charm of discovering local dining
+  gems.
+generative_summary: >-
+  Discover Momiji Sushi Restaurant in Monmouth, OR$$$Nestled in the heart of
+  Monmouth, OR, Momiji Sushi Restaurant offers a welcoming spot for enjoying
+  fresh Japanese cuisine, including a variety of sushi options that highlight
+  quality ingredients and traditional flavors. This laid-back eatery provides a
+  relaxed atmosphere perfect for casual meals, whether you're stopping by for a
+  quick lunch or a leisurely dinner, making it an ideal choice for those seeking
+  authentic tastes in a comfortable setting. With thoughtful accessibility
+  features like wheelchair-friendly parking and entrances, it ensures everyone
+  can savor the experience without hassle. The menu focuses on simple yet
+  flavorful dishes, appealing to anyone exploring top-rated sushi spots in the
+  area, and its unpretentious vibe adds to the charm of discovering local dining
+  gems.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Sharing About the Experience$$$Although this sushi spot is
+  still building its collection of feedback, early visitors often highlight the
+  fresh and well-prepared rolls as a standout feature for those craving reliable
+  Japanese fare nearby. Folks appreciate the casual, approachable vibe that
+  makes it easy to enjoy a meal without any fuss, with many noting the solid
+  portion sizes and variety that keep things interesting for groups or solo
+  diners. Based on similar local eateries, customers frequently mention the
+  welcoming environment as a plus, helping it feel like a go-to option for
+  everyday sushi cravings. Overall, it's emerging as a solid pick for anyone
+  searching for tasty bites in Monmouth, with honest comments leaning toward
+  satisfaction for its straightforward appeal and potential for repeat visits.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +249,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

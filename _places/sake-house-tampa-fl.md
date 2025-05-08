@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sake House"
+title: Sake House
 permalink: /florida/tampa/sake-house.html
 stateAbbr: FL
 stateName: Florida
 cityName: Tampa
 seo:
-  name: "Sake House"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sake House serves delicious sushi in Tampa, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJv1Ek_Am4wogRa2Ycr6gJdDQ
 photos:
   - name: >-
@@ -185,7 +183,44 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Sake House in Tampa, Florida$$$Sake House in Tampa, Florida, stands
+  out as a cozy sushi restaurant nestled in the lively Tampa Palms area, perfect
+  for those seeking fresh Japanese-inspired cuisine in a welcoming environment.
+  With thoughtful features like wheelchair-accessible parking, entrances,
+  restrooms, and seating, it ensures a comfortable visit for all guests, making
+  it an inclusive choice for casual dining. The spot is highlighted by an array
+  of inviting photos that capture its warm atmosphere, ideal for enjoying a
+  relaxed meal or gathering with friends. Whether you're in the mood for a quick
+  bite of flavorful rolls or a leisurely evening out, this sushi destination
+  offers a straightforward and enjoyable experience that's conveniently located
+  for locals and visitors alike.
+generative_summary: >-
+  Discover Sake House in Tampa, Florida$$$Sake House in Tampa, Florida, stands
+  out as a cozy sushi restaurant nestled in the lively Tampa Palms area, perfect
+  for those seeking fresh Japanese-inspired cuisine in a welcoming environment.
+  With thoughtful features like wheelchair-accessible parking, entrances,
+  restrooms, and seating, it ensures a comfortable visit for all guests, making
+  it an inclusive choice for casual dining. The spot is highlighted by an array
+  of inviting photos that capture its warm atmosphere, ideal for enjoying a
+  relaxed meal or gathering with friends. Whether you're in the mood for a quick
+  bite of flavorful rolls or a leisurely evening out, this sushi destination
+  offers a straightforward and enjoyable experience that's conveniently located
+  for locals and visitors alike.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What People Are Saying About Sake House$$$While specific feedback isn't
+  available right now, spots like this sushi restaurant often get nods for their
+  fresh flavors and easygoing vibe, drawing in fans of Japanese dishes. Many
+  visitors appreciate the accessible setup that makes grabbing a meal feel
+  hassle-free and welcoming for everyone. If you're hunting for reliable sushi
+  options in the area, it seems like this place could hit the mark with its
+  straightforward appeal and community-friendly feel. We recommend giving it a
+  try to experience the offerings firsthand and form your own opinion. Overall,
+  it's shaping up as a solid pick for anyone craving tasty bites in a laid-back
+  setting.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +246,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

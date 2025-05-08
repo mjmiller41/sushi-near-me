@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Mr. Sushi"
+title: Mr. Sushi
 permalink: /texas/dallas/mr-sushi.html
 stateAbbr: TX
 stateName: Texas
 cityName: Dallas
 seo:
-  name: "Mr. Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.mrsushidallas.com/
-description: "Mr. Sushi serves delicious sushi in Dallas, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJxeoMXDEhTIYRgfT6BvvgolM
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x864c21315c0ceac5:0x53a2e0fb06faf481!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 16
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 16
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 4:30 – 9:30 PM'
     - 'Tuesday: 4:30 – 9:30 PM'
     - 'Wednesday: 4:30 – 9:30 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 4:30 – 10:00 PM'
     - 'Saturday: 4:30 – 10:00 PM'
     - 'Sunday: 4:30 – 9:00 PM'
-  current:
-    - 'Monday: 4:30 – 9:30 PM'
-    - 'Tuesday: 4:30 – 9:30 PM'
-    - 'Wednesday: 4:30 – 9:30 PM'
-    - 'Thursday: 4:30 – 9:30 PM'
-    - 'Friday: 4:30 – 10:00 PM'
-    - 'Saturday: 4:30 – 10:00 PM'
-    - 'Sunday: 4:30 – 9:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,236 @@ phone: (972) 385-0168
 price_level: PRICE_LEVEL_MODERATE
 price_range: $30 &ndash; $50
 rating: '4.6'
-rating_count: 0
+rating_count: 882
 website: http://www.mrsushidallas.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Mr. Sushi in Dallas, TX$$$Mr. Sushi in Dallas, TX, offers a welcoming
+  spot for enjoying fresh sushi and traditional Japanese dishes in a relaxed,
+  homey environment. This established restaurant specializes in a variety of
+  authentic fare, including expertly prepared rolls and other Japanese classics,
+  making it a go-to choice for those seeking quality dining options. With its
+  accessible features like wheelchair-friendly entrances and parking, it's
+  designed to accommodate all guests comfortably. Evening hours provide the
+  perfect setting for a casual meal, and the moderate pricing adds to its appeal
+  for anyone exploring top sushi spots in the area. Whether you're in the mood
+  for a light bite or a full dinner, this spot delivers a straightforward yet
+  satisfying experience that highlights the best of Japanese cuisine.
+generative_summary: >-
+  Discover Mr. Sushi in Dallas, TX$$$Mr. Sushi in Dallas, TX, offers a welcoming
+  spot for enjoying fresh sushi and traditional Japanese dishes in a relaxed,
+  homey environment. This established restaurant specializes in a variety of
+  authentic fare, including expertly prepared rolls and other Japanese classics,
+  making it a go-to choice for those seeking quality dining options. With its
+  accessible features like wheelchair-friendly entrances and parking, it's
+  designed to accommodate all guests comfortably. Evening hours provide the
+  perfect setting for a casual meal, and the moderate pricing adds to its appeal
+  for anyone exploring top sushi spots in the area. Whether you're in the mood
+  for a light bite or a full dinner, this spot delivers a straightforward yet
+  satisfying experience that highlights the best of Japanese cuisine.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJxeoMXDEhTIYRgfT6BvvgolM/reviews/ChdDSUhNMG9nS0VJQ0FnSUNQdWZMYm5RRRAB
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        While in Texas, Mr Sushi is a must. Ben aka Mr Sushi himself made and
+        served our sushi. Lucky us! Never even touched a menu, he delivered an
+        amazing variety of the house specialties. What a royal treat! Fresh and
+        delicious! Mushroom soup, fresh pairs, colorful and tender, hand rolls,
+        with perfectly cooked sushi rice and the grand finale was rum cake with
+        green tea ice cream. The presentation and execution was a ten out of
+        ten.
+
+        Also, wanted to give a shout out to Leo, who made us a special melt in
+        your mouth salad, as well as spoiled us with Hi-Chew and Poky.
+
+        Fabulous experience! Left full, but already planning our next visit.
+
+        Thank you for the phenomenal experience! Cheers!
+      languageCode: en
+    originalText:
+      text: >-
+        While in Texas, Mr Sushi is a must. Ben aka Mr Sushi himself made and
+        served our sushi. Lucky us! Never even touched a menu, he delivered an
+        amazing variety of the house specialties. What a royal treat! Fresh and
+        delicious! Mushroom soup, fresh pairs, colorful and tender, hand rolls,
+        with perfectly cooked sushi rice and the grand finale was rum cake with
+        green tea ice cream. The presentation and execution was a ten out of
+        ten.
+
+        Also, wanted to give a shout out to Leo, who made us a special melt in
+        your mouth salad, as well as spoiled us with Hi-Chew and Poky.
+
+        Fabulous experience! Left full, but already planning our next visit.
+
+        Thank you for the phenomenal experience! Cheers!
+      languageCode: en
+    authorAttribution:
+      displayName: MyVisit MyView
+      uri: https://www.google.com/maps/contrib/109218607458597674903/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLIfFXu1YHmTXi_0udXftKikvN6rGyfkmx9F4yDIgmuVkT2Aw=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2024-11-26T03:59:40.992901Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNQdWZMYm5RRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNQdWZMYm5RRRAB!2m1!1s0x864c21315c0ceac5:0x53a2e0fb06faf481
+  - name: >-
+      places/ChIJxeoMXDEhTIYRgfT6BvvgolM/reviews/ChZDSUhNMG9nS0VJQ0FnTURvOGNlbldnEAE
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        The food and service were both so great. I can’t believe I’ve lived so
+        close for so long and am barely just finding out about them. I’ll be
+        back.
+      languageCode: en
+    originalText:
+      text: >-
+        The food and service were both so great. I can’t believe I’ve lived so
+        close for so long and am barely just finding out about them. I’ll be
+        back.
+      languageCode: en
+    authorAttribution:
+      displayName: Susset Gamez
+      uri: https://www.google.com/maps/contrib/115986083192340999136/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUqeaYPC7XscWZiXbyFkz6hZ6PjFbhYwJeylqGJWCAHwxpzUtiO=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-26T04:20:55.945716Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURvOGNlbldnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURvOGNlbldnEAE!2m1!1s0x864c21315c0ceac5:0x53a2e0fb06faf481
+  - name: >-
+      places/ChIJxeoMXDEhTIYRgfT6BvvgolM/reviews/ChZDSUhNMG9nS0VJQ0FnTURJODRQYkZnEAE
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 4
+    text:
+      text: >-
+        Ordered Kaiseki (multi-course omakase) for $70. It was delicious but was
+        not able to finish them all so I shared with my boyfriend.
+      languageCode: en
+    originalText:
+      text: >-
+        Ordered Kaiseki (multi-course omakase) for $70. It was delicious but was
+        not able to finish them all so I shared with my boyfriend.
+      languageCode: en
+    authorAttribution:
+      displayName: Yuki Hamanaka
+      uri: https://www.google.com/maps/contrib/116101433644984101226/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjV3NojYKw03y1ltGRZ_osXStZmH-VC6YBiDVWCu_uXcmggviOnG=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-04-13T00:18:30.323737Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURJODRQYkZnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJODRQYkZnEAE!2m1!1s0x864c21315c0ceac5:0x53a2e0fb06faf481
+  - name: >-
+      places/ChIJxeoMXDEhTIYRgfT6BvvgolM/reviews/ChZDSUhNMG9nS0VJQ0FnTUNnM3FmamR3EAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 4
+    text:
+      text: >-
+        This cozy sushi restaurant keeps all the good memories of me and my
+        boyfriend’s dating history. He took me to Mr. Sushi while we are dating,
+        and we went back as a couple. He always ordered Mr. Sushi roll and
+        recently discovered Gyudon to be his favorite.
+      languageCode: en
+    originalText:
+      text: >-
+        This cozy sushi restaurant keeps all the good memories of me and my
+        boyfriend’s dating history. He took me to Mr. Sushi while we are dating,
+        and we went back as a couple. He always ordered Mr. Sushi roll and
+        recently discovered Gyudon to be his favorite.
+      languageCode: en
+    authorAttribution:
+      displayName: Happy Kamakura
+      uri: https://www.google.com/maps/contrib/102918147032974350746/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKDxHKqlrViQIqLhCSvtXVOrxlgK7CYth6dlo_z-lZzB1pOlTM=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-02-17T17:24:31.368827Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNnM3FmamR3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNnM3FmamR3EAE!2m1!1s0x864c21315c0ceac5:0x53a2e0fb06faf481
+  - name: >-
+      places/ChIJxeoMXDEhTIYRgfT6BvvgolM/reviews/ChZDSUhNMG9nS0VJQ0FnSUQzM1pxMkN3EAE
+    relativePublishTimeDescription: 5 months ago
+    rating: 3
+    text:
+      text: >-
+        Nothing bad but nothing special and pretty pricey. Very quiet, quaint
+        atmosphere and great service. The sushi was nothing to come back for...
+        Really unimpressive as far as options and the rolls appearance and
+        quality.
+      languageCode: en
+    originalText:
+      text: >-
+        Nothing bad but nothing special and pretty pricey. Very quiet, quaint
+        atmosphere and great service. The sushi was nothing to come back for...
+        Really unimpressive as far as options and the rolls appearance and
+        quality.
+      languageCode: en
+    authorAttribution:
+      displayName: Arianna Taggart
+      uri: https://www.google.com/maps/contrib/113922012728581543170/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUJ43zS1EhaT7-I_mqmBNDYresvfcoC6E7gU8wcgPH5C7F2Vq4=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-11-17T23:28:06.903993Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQzM1pxMkN3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQzM1pxMkN3EAE!2m1!1s0x864c21315c0ceac5:0x53a2e0fb06faf481
+review_summary: >-
+  What Visitors Are Saying$$$Folks rave about the fresh and flavorful sushi at
+  this Dallas favorite, often highlighting how the rolls and other dishes hit
+  the spot without any fuss. Many appreciate the friendly service and cozy vibe
+  that make every visit feel welcoming and unhurried, perfect for a relaxed
+  night out. While some note that the prices lean a bit higher, the overall
+  quality and variety keep people coming back for more. It's clear that diners
+  enjoy the solid portions and traditional options, with a general consensus
+  that this place stands out among local Japanese eateries for its reliable
+  taste and atmosphere. All in all, if you're hunting for great sushi nearby,
+  this spot earns high marks for delivering a consistently enjoyable experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  paidStreetParking: false
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
+delivery: false
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
 menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  This long-standing sushi specialist also offers traditional Japanese dishes in
+  a homey atmosphere.
 
 ---

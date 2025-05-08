@@ -5,4 +5,5 @@ permalink: /new-york/amherst/
 stateAbbr: NY
 stateName: New York
 cityName: Amherst
+
 ---

@@ -5,4 +5,5 @@ permalink: /iowa/marion/
 stateAbbr: IA
 stateName: Iowa
 cityName: Marion
+
 ---

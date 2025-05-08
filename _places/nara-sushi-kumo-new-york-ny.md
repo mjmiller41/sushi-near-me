@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Nara Sushi/Kumo"
+title: Nara Sushi/Kumo
 permalink: /new-york/new-york/nara-sushi-kumo.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "Nara Sushi/Kumo"
-  type: Restaurant
+  type: restaurant
   links: http://narasushi76.com/
-description: "Straightforward, cozy restaurant with classic sushi & sashimi offerings, plus teriyaki & tempura. Nara Sushi/Kumo serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ2RlwJAJbwokR0Eb2TdnRAIU
 photos:
   - name: >-
@@ -183,6 +181,31 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 0
 website: http://narasushi76.com/
+description: >-
+  Discover Nara Sushi/Kumo in New York, NY$$$Nara Sushi/Kumo in New York, NY,
+  stands out as a cozy spot for enjoying authentic Japanese flavors in a relaxed
+  setting. This eatery specializes in fresh sushi rolls, nigiri, and classic
+  dishes like teriyaki and tempura, making it a go-to choice for those seeking
+  quality sushi restaurants in the area. The intimate atmosphere adds to the
+  charm, with simple decor that creates a welcoming vibe perfect for a casual
+  meal. Accessibility features, such as an easy entrance, ensure it's convenient
+  for a wide range of visitors, while the focus on traditional fare keeps things
+  genuine and approachable. Whether you're exploring top-rated sushi options
+  nearby or just craving a laid-back dining experience, this place delivers on
+  fresh tastes and unpretentious appeal.
+generative_summary: >-
+  Discover Nara Sushi/Kumo in New York, NY$$$Nara Sushi/Kumo in New York, NY,
+  stands out as a cozy spot for enjoying authentic Japanese flavors in a relaxed
+  setting. This eatery specializes in fresh sushi rolls, nigiri, and classic
+  dishes like teriyaki and tempura, making it a go-to choice for those seeking
+  quality sushi restaurants in the area. The intimate atmosphere adds to the
+  charm, with simple decor that creates a welcoming vibe perfect for a casual
+  meal. Accessibility features, such as an easy entrance, ensure it's convenient
+  for a wide range of visitors, while the focus on traditional fare keeps things
+  genuine and approachable. Whether you're exploring top-rated sushi options
+  nearby or just craving a laid-back dining experience, this place delivers on
+  fresh tastes and unpretentious appeal.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ2RlwJAJbwokR0Eb2TdnRAIU/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJcnN5SEZnEAE
@@ -432,6 +455,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNnMmJqMlBnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNnMmJqMlBnEAE!2m1!1s0x89c25b02247019d9:0x8500d1d94df646d0
+review_summary: >-
+  What Customers Are Buzzing About$$$Visitors often rave about the fresh and
+  flavorful sushi at this spot, highlighting it as a solid pick for anyone
+  hunting for reliable sushi places near me. Many appreciate the quick service
+  and great value, especially during lunch hours when deals make it an easy
+  go-to for a satisfying meal. While the cozy space can get busy at times, folks
+  find the wait worthwhile for the authentic Japanese vibes and well-balanced
+  dishes that leave them coming back. Overall, it's praised for its friendly
+  atmosphere and quality ingredients, making it a favorite for casual diners
+  seeking top-rated options without the fuss. If you're in the mood for
+  something simple and delicious, this eatery consistently delivers a positive
+  experience that keeps the good times rolling.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidStreetParking: true
   valetParking: false
@@ -463,8 +499,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Straightforward, cozy restaurant with classic sushi & sashimi offerings, plus
   teriyaki & tempura.
 

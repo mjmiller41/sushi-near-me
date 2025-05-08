@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Mikado sushi restaurant"
+title: Mikado sushi restaurant
 permalink: /new-york/lynbrook/mikado-sushi-restaurant.html
 stateAbbr: NY
 stateName: New York
 cityName: Lynbrook
 seo:
-  name: "Mikado sushi restaurant"
-  type: Restaurant
+  type: restaurant
   links: http://www.mikado355.com/
-description: "Mikado sushi restaurant serves delicious sushi in Lynbrook, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJjdCJP7xkwokRtKEw_T08wFQ
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c264bc3f89d08d:0x54c03c3dfd30a1b4!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:30 AM – 9:30 PM'
     - 'Wednesday: 11:30 AM – 9:30 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 10:00 PM'
     - 'Saturday: 12:30 – 10:00 PM'
     - 'Sunday: 12:30 – 9:30 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:30 AM – 9:30 PM'
-    - 'Wednesday: 11:30 AM – 9:30 PM'
-    - 'Thursday: 11:30 AM – 9:30 PM'
-    - 'Friday: 11:30 AM – 10:00 PM'
-    - 'Saturday: 12:30 – 10:00 PM'
-    - 'Sunday: 12:30 – 9:30 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +238,49 @@ phone: (516) 887-2777
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.6'
-rating_count: 0
+rating_count: 221
 website: http://www.mikado355.com/
+description: >-
+  Explore Mikado Sushi in Lynbrook, NY$$$Nestled in the heart of Lynbrook, NY,
+  Mikado Sushi Restaurant stands out as a welcoming spot for fresh Japanese
+  cuisine, offering a variety of expertly crafted rolls and dishes that
+  highlight quality ingredients. This cozy eatery boasts accessibility features
+  like wheelchair-friendly parking and entrances, making it easy for everyone to
+  enjoy a meal in a relaxed atmosphere. With moderate pricing and extended hours
+  including evenings and weekends, it's ideal for casual dining or takeout
+  options that satisfy cravings for authentic flavors. The menu emphasizes fresh
+  seafood and creative specials, appealing to those seeking a taste of Japan
+  without venturing far. Whether you're in the mood for a quick lunch or a
+  laid-back dinner, this sushi destination combines simplicity with delightful
+  tastes that keep locals returning.
+generative_summary: >-
+  Explore Mikado Sushi in Lynbrook, NY$$$Nestled in the heart of Lynbrook, NY,
+  Mikado Sushi Restaurant stands out as a welcoming spot for fresh Japanese
+  cuisine, offering a variety of expertly crafted rolls and dishes that
+  highlight quality ingredients. This cozy eatery boasts accessibility features
+  like wheelchair-friendly parking and entrances, making it easy for everyone to
+  enjoy a meal in a relaxed atmosphere. With moderate pricing and extended hours
+  including evenings and weekends, it's ideal for casual dining or takeout
+  options that satisfy cravings for authentic flavors. The menu emphasizes fresh
+  seafood and creative specials, appealing to those seeking a taste of Japan
+  without venturing far. Whether you're in the mood for a quick lunch or a
+  laid-back dinner, this sushi destination combines simplicity with delightful
+  tastes that keep locals returning.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback on Mikado Sushi$$$Folks around town often rave about the
+  standout homemade soup and super fresh tuna at this sushi spot, making it a
+  go-to for satisfying meals that hit the spot. Reviewers frequently mention the
+  tasty specialty rolls, like unique creations that add a fun twist to classics,
+  paired with a warm and inviting vibe that enhances the overall experience.
+  It's commonly noted as a solid choice for grabbing a quick bite, handling
+  takeout smoothly, or gathering a small group for something special without the
+  fuss. While opinions vary, many appreciate the friendly service that makes
+  every visit feel welcoming and hassle-free. Overall, this place earns high
+  marks for delivering reliable, enjoyable sushi options that leave diners
+  feeling glad they stopped by.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +306,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

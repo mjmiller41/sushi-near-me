@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Joey Chiu's Greenspring Inn"
+title: Joey Chiu's Greenspring Inn
 permalink: /maryland/timonium/joey-chiu-s-greenspring-inn.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Timonium
 seo:
-  name: "Joey Chiu's Greenspring Inn"
-  type: Restaurant
+  type: restaurant
   links: https://www.joeychiurestaurant.com/
-description: "Old-fashioned setting for familiar Chinese dishes, sushi & a renowned Sunday brunch buffet. Joey Chiu's Greenspring Inn serves delicious sushi in Timonium, Maryland. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJWUDNdbQRyIkR-8ulMk9zZw4
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: null
 rating: '4.3'
 rating_count: 0
 website: https://www.joeychiurestaurant.com/
+description: >-
+  Explore Joey Chiu's Greenspring Inn in Timonium, MD$$$Joey Chiu's Greenspring
+  Inn in Timonium, MD, delivers a welcoming blend of classic Chinese entrees and
+  fresh sushi options in a cozy, landscaped environment perfect for casual
+  dining. The spot features a well-stocked bar and convenient carryout service,
+  making it ideal for both relaxed meals and quick takeout needs. With
+  thoughtful accessibility features and ample parking, it's designed to
+  accommodate everyone from families to groups seeking a comfortable outing.
+  Additionally, the menu highlights diverse choices like vegetarian-friendly
+  dishes and brunch favorites, ensuring there's something to satisfy various
+  tastes in this inviting sushi restaurant near Timonium.
+generative_summary: >-
+  Explore Joey Chiu's Greenspring Inn in Timonium, MD$$$Joey Chiu's Greenspring
+  Inn in Timonium, MD, delivers a welcoming blend of classic Chinese entrees and
+  fresh sushi options in a cozy, landscaped environment perfect for casual
+  dining. The spot features a well-stocked bar and convenient carryout service,
+  making it ideal for both relaxed meals and quick takeout needs. With
+  thoughtful accessibility features and ample parking, it's designed to
+  accommodate everyone from families to groups seeking a comfortable outing.
+  Additionally, the menu highlights diverse choices like vegetarian-friendly
+  dishes and brunch favorites, ensuring there's something to satisfy various
+  tastes in this inviting sushi restaurant near Timonium.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJWUDNdbQRyIkR-8ulMk9zZw4/reviews/ChZDSUhNMG9nS0VJQ0FnSUNueGJlalZnEAE
@@ -358,6 +379,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUR3MVBqVm1BRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUR3MVBqVm1BRRAB!2m1!1s0x89c811b475cd4059:0xe67734f32a5cbfb
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors often rave about the reliable
+  Americanized Chinese dishes and sushi selections at this local favorite,
+  noting the wide variety that caters to vegetarians, meat lovers, and even
+  those with dietary preferences like gluten-free options. Many appreciate the
+  attentive service and welcoming atmosphere, which make it a go-to spot for
+  casual lunches, family gatherings, or events, with quick turnaround for
+  takeout adding to the convenience. While some mention that certain flavors
+  might lean on the milder side, the overall consistency and value keep diners
+  coming back for more. Overall, it's praised as a solid choice for anyone
+  searching for top-rated sushi places near me, with its accessible location and
+  friendly vibe earning high marks. If you're exploring sushi restaurants in the
+  area, this one stands out for its dependable quality and inviting setting.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -389,8 +424,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Old-fashioned setting for familiar Chinese dishes, sushi & a renowned Sunday
   brunch buffet.
 

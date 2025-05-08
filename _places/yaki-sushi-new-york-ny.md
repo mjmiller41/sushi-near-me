@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yaki Sushi"
+title: Yaki Sushi
 permalink: /new-york/new-york/yaki-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "Yaki Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Yaki Sushi serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJj7V_9TNZwokRPIeWTvkLCw0
 photos:
   - name: >-
@@ -79,6 +77,31 @@ price_range: $10 &ndash; $20
 rating: '3.4'
 rating_count: 0
 website: null
+description: >-
+  Discover Yaki Sushi in New York, NY$$$Yaki Sushi in New York, NY, stands out
+  as a welcoming spot for those seeking fresh Japanese cuisine in a vibrant
+  urban setting. This restaurant offers a variety of sushi options that
+  highlight quality ingredients and moderate pricing, making it an appealing
+  choice for anyone exploring sushi places near me. With features like dine-in,
+  takeout, and delivery, it's designed for both quick meals and relaxed
+  evenings, complemented by convenient accessibility options. The menu includes
+  satisfying lunch and dinner selections, perfect for groups or individuals
+  looking for affordable yet flavorful Japanese dishes. Whether you're in the
+  mood for top-rated sushi rolls or a casual meal, Yaki Sushi delivers a
+  straightforward dining experience in the heart of the city.
+generative_summary: >-
+  Discover Yaki Sushi in New York, NY$$$Yaki Sushi in New York, NY, stands out
+  as a welcoming spot for those seeking fresh Japanese cuisine in a vibrant
+  urban setting. This restaurant offers a variety of sushi options that
+  highlight quality ingredients and moderate pricing, making it an appealing
+  choice for anyone exploring sushi places near me. With features like dine-in,
+  takeout, and delivery, it's designed for both quick meals and relaxed
+  evenings, complemented by convenient accessibility options. The menu includes
+  satisfying lunch and dinner selections, perfect for groups or individuals
+  looking for affordable yet flavorful Japanese dishes. Whether you're in the
+  mood for top-rated sushi rolls or a casual meal, Yaki Sushi delivers a
+  straightforward dining experience in the heart of the city.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJj7V_9TNZwokRPIeWTvkLCw0/reviews/ChdDSUhNMG9nS0VJQ0FnSUNINnN1cThnRRAB
@@ -194,6 +217,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURwNnFpMkZBEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURwNnFpMkZBEAE!2m1!1s0x89c25933f57fb58f:0xd0b0bf94e96873c
+review_summary: >-
+  What Customers Are Saying$$$Folks generally appreciate Yaki Sushi for its
+  fresh rolls and solid lunch deals that offer great value without breaking the
+  bank, making it a go-to for everyday sushi cravings. While many highlight the
+  tasty noodles and reasonable prices as standout features, some mention
+  occasional hiccups with service that could use a bit more attention. Overall,
+  it's seen as a reliable pick for affordable sushi near me, with positive vibes
+  around the food's freshness and variety keeping things upbeat. That said, a
+  few experiences point to areas like quicker service or consistent quality that
+  might enhance the vibe. In the end, if you're hunting for straightforward
+  Japanese eats, this spot tends to deliver satisfying moments with room for the
+  occasional tweak.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options:
   acceptsCreditCards: true
@@ -223,7 +259,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

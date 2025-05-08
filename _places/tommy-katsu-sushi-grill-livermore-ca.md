@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Tommy Katsu Sushi & Grill"
+title: Tommy Katsu Sushi & Grill
 permalink: /california/livermore/tommy-katsu-sushi-grill.html
 stateAbbr: CA
 stateName: California
 cityName: Livermore
 seo:
-  name: "Tommy Katsu Sushi & Grill"
-  type: Restaurant
+  type: restaurant
   links: http://www.tommykatsu.com/
-description: "Tommy Katsu Sushi & Grill serves delicious sushi in Livermore, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJH66patLnj4ARnSQg5QTzE-Q
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x808fe7d26aa9ae1f:0xe413f304e520249d!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 9:00 PM'
     - 'Tuesday: 11:30 AM – 9:00 PM'
     - 'Wednesday: 11:30 AM – 9:00 PM'
@@ -178,54 +234,328 @@ opening_hours:
     - 'Friday: 11:30 AM – 9:00 PM'
     - 'Saturday: 11:30 AM – 9:00 PM'
     - 'Sunday: 11:30 AM – 9:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 9:00 PM'
-    - 'Tuesday: 11:30 AM – 9:00 PM'
-    - 'Wednesday: 11:30 AM – 9:00 PM'
-    - 'Thursday: 11:30 AM – 9:00 PM'
-    - 'Friday: 11:30 AM – 9:00 PM'
-    - 'Saturday: 11:30 AM – 9:00 PM'
-    - 'Sunday: 11:30 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: false
+    periods:
+      - open:
+          day: 1
+          hour: 15
+          minute: 30
+        close:
+          day: 1
+          hour: 17
+          minute: 0
+      - open:
+          day: 2
+          hour: 15
+          minute: 30
+        close:
+          day: 2
+          hour: 17
+          minute: 0
+      - open:
+          day: 3
+          hour: 15
+          minute: 30
+        close:
+          day: 3
+          hour: 17
+          minute: 0
+      - open:
+          day: 4
+          hour: 15
+          minute: 30
+        close:
+          day: 4
+          hour: 17
+          minute: 0
+      - open:
+          day: 5
+          hour: 15
+          minute: 30
+        close:
+          day: 5
+          hour: 17
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 3:30 – 5:00 PM'
+      - 'Tuesday: 3:30 – 5:00 PM'
+      - 'Wednesday: 3:30 – 5:00 PM'
+      - 'Thursday: 3:30 – 5:00 PM'
+      - 'Friday: 3:30 – 5:00 PM'
+      - 'Saturday: Closed'
+      - 'Sunday: Closed'
+    secondaryHoursType: HAPPY_HOUR
+    nextOpenTime: '2025-05-05T22:30:00Z'
 phone: (925) 583-5289
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.5'
-rating_count: 0
+rating_count: 194
 website: http://www.tommykatsu.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Explore Tommy Katsu Sushi & Grill in Livermore, CA$$$Tommy Katsu Sushi & Grill
+  in Livermore, CA, stands out as a welcoming spot for fresh sushi and grilled
+  favorites, nestled conveniently in a bustling shopping area. This
+  family-friendly restaurant boasts a comfortable atmosphere with modern design
+  elements, making it ideal for casual meals or quick visits. Patrons can enjoy
+  a variety of traditional sushi options alongside flavorful seafood dishes, all
+  prepared with high-quality ingredients that highlight the best of
+  Japanese-inspired cuisine. Accessibility features like wheelchair-friendly
+  entrances and parking add to the convenience, ensuring a smooth dining
+  experience for everyone. Whether you're seeking top-rated sushi spots or
+  Japanese-inspired meals close to home, this location delivers reliable flavors
+  in a relaxed setting.
+generative_summary: >-
+  Explore Tommy Katsu Sushi & Grill in Livermore, CA$$$Tommy Katsu Sushi & Grill
+  in Livermore, CA, stands out as a welcoming spot for fresh sushi and grilled
+  favorites, nestled conveniently in a bustling shopping area. This
+  family-friendly restaurant boasts a comfortable atmosphere with modern design
+  elements, making it ideal for casual meals or quick visits. Patrons can enjoy
+  a variety of traditional sushi options alongside flavorful seafood dishes, all
+  prepared with high-quality ingredients that highlight the best of
+  Japanese-inspired cuisine. Accessibility features like wheelchair-friendly
+  entrances and parking add to the convenience, ensuring a smooth dining
+  experience for everyone. Whether you're seeking top-rated sushi spots or
+  Japanese-inspired meals close to home, this location delivers reliable flavors
+  in a relaxed setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJH66patLnj4ARnSQg5QTzE-Q/reviews/ChZDSUhNMG9nS0VJQ0FnTURJak9MUWNBEAE
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 5
+    text:
+      text: >-
+        My favorite sushi spot in Livermore! Reasonable prices compared to many
+        others, friendly and fast service whether I get take out or dine-in.
+        Amazing fish quality and quantity. The restaurant itself has a great
+        atmosphere and a clean, modern design but it is smaller so I wouldn’t
+        recommend dine-in for large parties, even though I’m sure they would
+        accommodate.
+
+        Highly recommend the deep fried oysters!
+      languageCode: en
+    originalText:
+      text: >-
+        My favorite sushi spot in Livermore! Reasonable prices compared to many
+        others, friendly and fast service whether I get take out or dine-in.
+        Amazing fish quality and quantity. The restaurant itself has a great
+        atmosphere and a clean, modern design but it is smaller so I wouldn’t
+        recommend dine-in for large parties, even though I’m sure they would
+        accommodate.
+
+        Highly recommend the deep fried oysters!
+      languageCode: en
+    authorAttribution:
+      displayName: Avery S
+      uri: https://www.google.com/maps/contrib/102992613102904931572/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjULCaIV57GdAZoOAOMfwGTQmTPbjuKJcBCGhUSfTkqfG9ZGD1Xt=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-04-07T18:30:22.782130Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURJak9MUWNBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJak9MUWNBEAE!2m1!1s0x808fe7d26aa9ae1f:0xe413f304e520249d
+  - name: >-
+      places/ChIJH66patLnj4ARnSQg5QTzE-Q/reviews/ChZDSUhNMG9nS0VJQ0FnSUQzaE82NUdBEAE
+    relativePublishTimeDescription: 5 months ago
+    rating: 4
+    text:
+      text: >-
+        The katsu, both pork and chicken, is the star of the show here. Crisp,
+        flaky panko breading, knock-your-socks-off katsu sauce that I considered
+        eating with a spoon. The tempura was underdone and didn’t have panko
+        breading. Sushi was fine, but I wouldn’t go here just for that. Helpful
+        server. The front of house decor is charming but the bathroom is grim.
+        Awful lighting, cleaning products strewn about, toilet needs a new
+        chain, etc.
+      languageCode: en
+    originalText:
+      text: >-
+        The katsu, both pork and chicken, is the star of the show here. Crisp,
+        flaky panko breading, knock-your-socks-off katsu sauce that I considered
+        eating with a spoon. The tempura was underdone and didn’t have panko
+        breading. Sushi was fine, but I wouldn’t go here just for that. Helpful
+        server. The front of house decor is charming but the bathroom is grim.
+        Awful lighting, cleaning products strewn about, toilet needs a new
+        chain, etc.
+      languageCode: en
+    authorAttribution:
+      displayName: Walter Nissen III
+      uri: https://www.google.com/maps/contrib/112627697965081870823/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUhhpOKMrfadoB6KvbYFE5UEUE18cAs_w7RTi0TweeOkcx0alY=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-11-12T06:12:09.364296Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQzaE82NUdBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQzaE82NUdBEAE!2m1!1s0x808fe7d26aa9ae1f:0xe413f304e520249d
+  - name: >-
+      places/ChIJH66patLnj4ARnSQg5QTzE-Q/reviews/ChdDSUhNMG9nS0VJQ0FnSURuekpuSXRRRRAB
+    relativePublishTimeDescription: 7 months ago
+    rating: 5
+    text:
+      text: >-
+        Came in around 1PM on a Saturday, and there were only 2 other pairs
+        there, so my group of 5 was seated immediately. Our server gave us
+        waters right away and took our order within a few minutes. We ordered a
+        couple of bentos, a ramen bowl, and some sushi, with 2 orders of karaage
+        to start. The karaage came out pretty quickly, which was nice and hot,
+        crispy and flavorful. It was so good we ordered another round.
+        Everything else came out just as we were finishing the last plate of
+        karaage, and we all enjoyed it. Food tasted delicious, sushi had a lot
+        of pieces, and everything was nice and fresh. Would definitely come back
+        if we're in the area again.
+      languageCode: en
+    originalText:
+      text: >-
+        Came in around 1PM on a Saturday, and there were only 2 other pairs
+        there, so my group of 5 was seated immediately. Our server gave us
+        waters right away and took our order within a few minutes. We ordered a
+        couple of bentos, a ramen bowl, and some sushi, with 2 orders of karaage
+        to start. The karaage came out pretty quickly, which was nice and hot,
+        crispy and flavorful. It was so good we ordered another round.
+        Everything else came out just as we were finishing the last plate of
+        karaage, and we all enjoyed it. Food tasted delicious, sushi had a lot
+        of pieces, and everything was nice and fresh. Would definitely come back
+        if we're in the area again.
+      languageCode: en
+    authorAttribution:
+      displayName: Arleen Silvero
+      uri: https://www.google.com/maps/contrib/116544153734537640835/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVwui4DjjJrnxj0286BnttmWsXHuwpGC6UgSF_T3YPGY1PmyghRvg=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-10-03T20:34:33.003510Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURuekpuSXRRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURuekpuSXRRRRAB!2m1!1s0x808fe7d26aa9ae1f:0xe413f304e520249d
+  - name: >-
+      places/ChIJH66patLnj4ARnSQg5QTzE-Q/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfdDRpWDZ3RRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        Great service, beautiful and comfortable environment...but the food is
+        the best of all!
+      languageCode: en
+    originalText:
+      text: >-
+        Great service, beautiful and comfortable environment...but the food is
+        the best of all!
+      languageCode: en
+    authorAttribution:
+      displayName: Arnel Baga Silvero
+      uri: https://www.google.com/maps/contrib/104215329759813421200/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVlhiHjNCmtOETJozxRPSGyzhTkeaXDvBmtJOmUxxHsQjZThZ9MRQ=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2025-01-19T20:46:27.181364Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNfdDRpWDZ3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNfdDRpWDZ3RRAB!2m1!1s0x808fe7d26aa9ae1f:0xe413f304e520249d
+  - name: >-
+      places/ChIJH66patLnj4ARnSQg5QTzE-Q/reviews/ChZDSUhNMG9nS0VJQ0FnSURoX2ZmTGV3EAE
+    relativePublishTimeDescription: 2 years ago
+    rating: 5
+    text:
+      text: >-
+        Unexpectedly good food! The menu is as usual what you expect from an
+        usual California-located sushi place. (They have bento on weekdays). We
+        got one cooked and one raw sushi. They put sauced imi crab on top of
+        shrimp tempura roll -that is a nice addition. The multi-colored
+        roe-topped sushi was a delight for the eyes and has a tiny flower for
+        decoration -a nice touch. (See photos). When I looked closer to the
+        sushi cross section, I was happy to see a larger part is fish, they
+        didn't skimp on it. (More fish, less rice). The fish tasted okay.
+
+
+        Value for money is good, ambiance is just normal just chairs and tables
+        with pendant lights, and beer bottles lined in the wall (decorative).
+        The service was courteous and prompt.
+
+        Highly recommended!
+      languageCode: en
+    originalText:
+      text: >-
+        Unexpectedly good food! The menu is as usual what you expect from an
+        usual California-located sushi place. (They have bento on weekdays). We
+        got one cooked and one raw sushi. They put sauced imi crab on top of
+        shrimp tempura roll -that is a nice addition. The multi-colored
+        roe-topped sushi was a delight for the eyes and has a tiny flower for
+        decoration -a nice touch. (See photos). When I looked closer to the
+        sushi cross section, I was happy to see a larger part is fish, they
+        didn't skimp on it. (More fish, less rice). The fish tasted okay.
+
+
+        Value for money is good, ambiance is just normal just chairs and tables
+        with pendant lights, and beer bottles lined in the wall (decorative).
+        The service was courteous and prompt.
+
+        Highly recommended!
+      languageCode: en
+    authorAttribution:
+      displayName: Amir Ahmed Asif
+      uri: https://www.google.com/maps/contrib/117597793051200825990/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVDD6LrYHpMQShFZTwm1zdKw01hDzWn_VvckpRf0adeiPr0f4rFow=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2023-03-16T02:54:36.840276Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURoX2ZmTGV3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURoX2ZmTGV3EAE!2m1!1s0x808fe7d26aa9ae1f:0xe413f304e520249d
+review_summary: >-
+  Insights from Recent Reviews$$$Visitors to this sushi spot often rave about
+  the delicious katsu dishes, praising their crispy texture and bold flavors
+  that make for a standout meal. Many folks appreciate the friendly service and
+  efficient vibe, whether grabbing takeout or dining in, which keeps things
+  feeling warm and attentive without any fuss. While the sushi selection gets
+  high marks for freshness and generous portions, some note that the space is
+  cozy and best for smaller groups, adding a charming touch to the overall
+  experience. Overall, the value for money comes through in the tasty appetizers
+  and entrees, encouraging repeat visits for anyone craving reliable Japanese
+  fare. If you're on the hunt for great sushi places nearby, this spot earns
+  solid nods for its honest quality and welcoming feel.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  paidParkingLot: false
+  freeStreetParking: true
+  paidStreetParking: false
+  valetParking: false
+  freeGarageParking: false
+  paidGarageParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
+curbside_pickup: false
+delivery: true
+dine_in: true
+good_for_children: true
 good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: true
+serves_cocktails: true
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushigirl Kauai"
+title: Sushigirl Kauai
 permalink: /hawaii/kilauea/sushigirl-kauai.html
 stateAbbr: HI
 stateName: Hawaii
 cityName: Kilauea
 seo:
-  name: "Sushigirl Kauai"
-  type: Restaurant
+  type: restaurant
   links: https://www.sushigirlkauai.com/
-description: "Sushigirl Kauai serves delicious sushi in Kilauea, Hawaii. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJYX2sdoLlBnwR8E8krPuR-r4
 photos:
   - name: >-
@@ -169,7 +167,121 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x7c06e58276ac7d61:0xbefa91fbac244ff0!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 15
+        minute: 0
+    - open:
+        day: 0
+        hour: 16
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 15
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 0
+      close:
+        day: 1
+        hour: 20
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 15
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 0
+      close:
+        day: 5
+        hour: 20
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 15
+        minute: 0
+    - open:
+        day: 6
+        hour: 16
+        minute: 0
+      close:
+        day: 6
+        hour: 20
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 3:00 PM, 4:00 – 8:00 PM'
     - 'Tuesday: 11:00 AM – 3:00 PM, 4:00 – 8:00 PM'
     - 'Wednesday: 11:00 AM – 3:00 PM, 4:00 – 8:00 PM'
@@ -177,14 +289,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 3:00 PM, 4:00 – 8:00 PM'
     - 'Saturday: 11:00 AM – 3:00 PM, 4:00 – 8:00 PM'
     - 'Sunday: 11:00 AM – 3:00 PM, 4:00 – 8:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 3:00 PM, 4:00 – 8:00 PM'
-    - 'Tuesday: 11:00 AM – 3:00 PM, 4:00 – 8:00 PM'
-    - 'Wednesday: 11:00 AM – 3:00 PM, 4:00 – 8:00 PM'
-    - 'Thursday: 11:00 AM – 3:00 PM, 4:00 – 8:00 PM'
-    - 'Friday: 11:00 AM – 3:00 PM, 4:00 – 8:00 PM'
-    - 'Saturday: 11:00 AM – 3:00 PM, 4:00 – 8:00 PM'
-    - 'Sunday: 11:00 AM – 3:00 PM, 4:00 – 8:00 PM'
+  nextCloseTime: '2025-05-04T01:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,35 +301,234 @@ phone: (808) 320-8646
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.5'
-rating_count: 0
+rating_count: 581
 website: https://www.sushigirlkauai.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Sushigirl Kauai: Fresh Sushi in Kilauea, HI$$$Sushigirl Kauai in Kilauea, HI,
+  stands out as a casual spot serving up vibrant sushi rolls, burritos, and poke
+  bowls made with locally sourced ingredients in a lively market setting. This
+  welcoming eatery emphasizes fresh seafood and creative twists on Japanese
+  favorites, making it a go-to choice for those seeking authentic flavors in a
+  relaxed atmosphere. Accessibility features like wheelchair-friendly entrances
+  and seating add to its appeal, ensuring everyone can enjoy the experience.
+  With outdoor seating and moderate pricing, it's an ideal stop for anyone
+  exploring sushi options nearby, blending convenience with high-quality tastes
+  that highlight the best of island-inspired cuisine.
+generative_summary: >-
+  Sushigirl Kauai: Fresh Sushi in Kilauea, HI$$$Sushigirl Kauai in Kilauea, HI,
+  stands out as a casual spot serving up vibrant sushi rolls, burritos, and poke
+  bowls made with locally sourced ingredients in a lively market setting. This
+  welcoming eatery emphasizes fresh seafood and creative twists on Japanese
+  favorites, making it a go-to choice for those seeking authentic flavors in a
+  relaxed atmosphere. Accessibility features like wheelchair-friendly entrances
+  and seating add to its appeal, ensuring everyone can enjoy the experience.
+  With outdoor seating and moderate pricing, it's an ideal stop for anyone
+  exploring sushi options nearby, blending convenience with high-quality tastes
+  that highlight the best of island-inspired cuisine.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJYX2sdoLlBnwR8E8krPuR-r4/reviews/ChdDSUhNMG9nS0VJQ0FnTURvcmFtN3NnRRAB
+    relativePublishTimeDescription: in the last week
+    rating: 5
+    text:
+      text: >-
+        A hidden gem on the island that everyone should try. Affordable fresh
+        ahi and a lot more. We had a couple poke bowls and Ahi Sushi burritos
+        which were fresh and very large in portion. Also very fairly priced.
+        Highly recommend trying the Ahi Burritos the next time you have a
+        chance! Had we found out about this place earlier in our trip we would
+        have had it most likely every day!
+      languageCode: en
+    originalText:
+      text: >-
+        A hidden gem on the island that everyone should try. Affordable fresh
+        ahi and a lot more. We had a couple poke bowls and Ahi Sushi burritos
+        which were fresh and very large in portion. Also very fairly priced.
+        Highly recommend trying the Ahi Burritos the next time you have a
+        chance! Had we found out about this place earlier in our trip we would
+        have had it most likely every day!
+      languageCode: en
+    authorAttribution:
+      displayName: Anton Smirnov
+      uri: https://www.google.com/maps/contrib/104411952816675357132/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjU3DMu2PSi6TR8yVmdFPw_FxbNDzDQ8J0vHiENvLkDSMBs6hzY3=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-04-27T16:11:04.776212Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURvcmFtN3NnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURvcmFtN3NnRRAB!2m1!1s0x7c06e58276ac7d61:0xbefa91fbac244ff0
+  - name: >-
+      places/ChIJYX2sdoLlBnwR8E8krPuR-r4/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRb2FLSU9nEAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Had a great sushi burrito at Sushi girl Kauai.
+
+
+        Really cool little spot with a bunch of shops and a few other
+        restaurants walkable in the courtyard.
+
+
+        We both had the legendary sushi burrito with ahi and it was excellent!
+      languageCode: en
+    originalText:
+      text: >-
+        Had a great sushi burrito at Sushi girl Kauai.
+
+
+        Really cool little spot with a bunch of shops and a few other
+        restaurants walkable in the courtyard.
+
+
+        We both had the legendary sushi burrito with ahi and it was excellent!
+      languageCode: en
+    authorAttribution:
+      displayName: Andrew Mineo
+      uri: https://www.google.com/maps/contrib/101542155810749224275/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUN-nJl-GfQP8SeSZiGmyd6GikpJGU6oG1qP5MKXeb-3lNu6t1G=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2025-03-04T23:26:13.821866Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNRb2FLSU9nEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNRb2FLSU9nEAE!2m1!1s0x7c06e58276ac7d61:0xbefa91fbac244ff0
+  - name: >-
+      places/ChIJYX2sdoLlBnwR8E8krPuR-r4/reviews/ChdDSUhNMG9nS0VJQ0FnTURJd3F5TzBBRRAB
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 5
+    text:
+      text: >-
+        Delicious, FRESH sushi - this place is a must in Kilauea. They prep the
+        food daily with locally sourced fish, and the girls who work there are
+        so friendly. We got the Legend (ahi) and the Sushi Beach (salmon with
+        mac nut) rolls, and the homemade hibiscus tea was also soooo tasty. So
+        good, we came back 2 nights in a row. Didn’t get to try the sushi
+        burritos, but will DEFINITELY be coming back the next time we are in
+        Kauai!
+      languageCode: en
+    originalText:
+      text: >-
+        Delicious, FRESH sushi - this place is a must in Kilauea. They prep the
+        food daily with locally sourced fish, and the girls who work there are
+        so friendly. We got the Legend (ahi) and the Sushi Beach (salmon with
+        mac nut) rolls, and the homemade hibiscus tea was also soooo tasty. So
+        good, we came back 2 nights in a row. Didn’t get to try the sushi
+        burritos, but will DEFINITELY be coming back the next time we are in
+        Kauai!
+      languageCode: en
+    authorAttribution:
+      displayName: Shannon Neville
+      uri: https://www.google.com/maps/contrib/113205677836128029450/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXKrIyxj3giwIPcBYCBpXvmvGqV-QN5-ksIqCOt7iCMBZlKPqPa7g=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-08T08:57:27.887802Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJd3F5TzBBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJd3F5TzBBRRAB!2m1!1s0x7c06e58276ac7d61:0xbefa91fbac244ff0
+  - name: >-
+      places/ChIJYX2sdoLlBnwR8E8krPuR-r4/reviews/ChdDSUhNMG9nS0VJQ0FnSUNmN2U2SnpRRRAB
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        We finally got our Sushigirl fix! It was the best meal we had our entire
+        trip. It took awhile but was well worth it. We enjoyed local kitty Nori
+        who appears to be the hostess.
+      languageCode: en
+    originalText:
+      text: >-
+        We finally got our Sushigirl fix! It was the best meal we had our entire
+        trip. It took awhile but was well worth it. We enjoyed local kitty Nori
+        who appears to be the hostess.
+      languageCode: en
+    authorAttribution:
+      displayName: Charlotte Beatty
+      uri: https://www.google.com/maps/contrib/117797514777008253308/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWx2b4AecW5hw0yox_VEZAON3bo1MPE9rMHSD6hNTjUpap4uaPIiA=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-12-31T17:54:31.452621Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNmN2U2SnpRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNmN2U2SnpRRRAB!2m1!1s0x7c06e58276ac7d61:0xbefa91fbac244ff0
+  - name: >-
+      places/ChIJYX2sdoLlBnwR8E8krPuR-r4/reviews/ChdDSUhNMG9nS0VJQ0FnTURvanRHVWl3RRAB
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        Such a good spot for poke! Fast service and delicious - the poke of the
+        day was an ahi/ono blend and was great. We walked around the other shops
+        while waiting for our order and enjoyed the shared seating areas
+      languageCode: en
+    originalText:
+      text: >-
+        Such a good spot for poke! Fast service and delicious - the poke of the
+        day was an ahi/ono blend and was great. We walked around the other shops
+        while waiting for our order and enjoyed the shared seating areas
+      languageCode: en
+    authorAttribution:
+      displayName: Eva-Elizabeth Chisholm
+      uri: https://www.google.com/maps/contrib/101129159775652937142/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVtZzK6iX-HNiXjXjp3CM0qHseQR0p1IJ_Ko17Bmf6_12Xfte4h=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-24T20:53:51.972882Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURvanRHVWl3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURvanRHVWl3RRAB!2m1!1s0x7c06e58276ac7d61:0xbefa91fbac244ff0
+review_summary: >-
+  What Visitors Love About This Sushi Spot$$$Folks are buzzing about the fresh,
+  flavorful sushi burritos and poke bowls at this spot, often praising the
+  generous portions and affordable prices that make it a standout choice. Many
+  highlight the use of local ingredients and friendly service that keeps things
+  light and enjoyable, with options like gluten-free dishes adding extra appeal
+  for various preferences. Overall, diners appreciate the quick preparation and
+  tasty variety, making it a reliable pick for a satisfying meal without any
+  fuss. While waits can happen during peak times, the consensus leans positive,
+  with people returning for the authentic vibes and solid execution that elevate
+  a simple outing. If you're on the hunt for top-rated sushi near you, this
+  place delivers a genuine, feel-good experience worth trying.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
+delivery: false
+dine_in: true
 good_for_children: null
 good_for_groups: null
-good_for_sports: null
-live_music: null
+good_for_sports: false
+live_music: false
 menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+outdoor_seating: true
+reservable: false
+restroom: true
+serves_beer: true
 serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
+serves_brunch: false
+serves_cocktails: false
+serves_coffee: false
+serves_dinner: true
+serves_dessert: false
+serves_lunch: true
+serves_vegetarian_food: true
 serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Sushi burritos, maki rolls & poke bowls from local fish are served from a
+  walk-up window.
 
 ---

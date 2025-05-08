@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kai's Sushi & Grill Minnetonka"
+title: Kai's Sushi & Grill Minnetonka
 permalink: /minnesota/minnetonka/kai-s-sushi-grill-minnetonka.html
 stateAbbr: MN
 stateName: Minnesota
 cityName: Minnetonka
 seo:
-  name: "Kai's Sushi & Grill Minnetonka"
-  type: Restaurant
+  type: restaurant
   links: http://kaisushigrill.com/
-description: "Kai's Sushi & Grill Minnetonka serves delicious sushi in Minnetonka, Minnesota. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJl8R-3Wod9ocRoTqo1CP4CKY
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: null
 rating: '4.7'
 rating_count: 0
 website: http://kaisushigrill.com/
+description: >-
+  Explore Kai's Sushi & Grill in Minnetonka, MN$$$Nestled in Minnetonka, MN,
+  Kai's Sushi & Grill offers a relaxed vibe perfect for enjoying fresh Japanese
+  cuisine, including expertly prepared sushi and flavorful hibachi options. This
+  spot stands out for its approachable atmosphere and a menu featuring creative
+  takes on classics like ramen and tempura, making it a go-to choice for those
+  seeking satisfying sushi restaurants nearby. With accessible features like
+  wheelchair-friendly seating and ample parking, it's designed for comfortable
+  dining experiences that cater to various needs. The restaurant's focus on
+  quality ingredients and moderate pricing adds to its appeal for anyone
+  exploring top-rated sushi options in the area. Whether you're in the mood for
+  a quick meal or a leisurely dinner, this Japanese place near me delivers a
+  welcoming setting with dishes that highlight fresh flavors.
+generative_summary: >-
+  Explore Kai's Sushi & Grill in Minnetonka, MN$$$Nestled in Minnetonka, MN,
+  Kai's Sushi & Grill offers a relaxed vibe perfect for enjoying fresh Japanese
+  cuisine, including expertly prepared sushi and flavorful hibachi options. This
+  spot stands out for its approachable atmosphere and a menu featuring creative
+  takes on classics like ramen and tempura, making it a go-to choice for those
+  seeking satisfying sushi restaurants nearby. With accessible features like
+  wheelchair-friendly seating and ample parking, it's designed for comfortable
+  dining experiences that cater to various needs. The restaurant's focus on
+  quality ingredients and moderate pricing adds to its appeal for anyone
+  exploring top-rated sushi options in the area. Whether you're in the mood for
+  a quick meal or a leisurely dinner, this Japanese place near me delivers a
+  welcoming setting with dishes that highlight fresh flavors.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJl8R-3Wod9ocRoTqo1CP4CKY/reviews/ChZDSUhNMG9nS0VJQ0FnSURuZ05IaUdnEAE
@@ -348,6 +373,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURub3NPcy1RRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURub3NPcy1RRRAB!2m1!1s0x87f61d6add7ec497:0xa608f823d4a83aa1
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors often rave about the tasty sushi and
+  traditional Asian dishes at this spot, noting that favorites like specialty
+  rolls bring a fun twist without breaking the bank. Many appreciate the
+  friendly service and how staff go the extra mile to accommodate preferences,
+  creating a laid-back environment that's easy to enjoy. Feedback highlights
+  quick delivery of meals and reasonable lunch deals, making it a solid pick for
+  casual get-togethers or solo outings at sushi places near me. While some
+  mention that certain flavors could use a bit more punch, the overall
+  experience remains positive with highlights on fresh ingredients and attentive
+  care. If you're hunting for the best sushi near me, this restaurant
+  consistently earns nods for its reliable quality and welcoming vibe that keeps
+  diners coming back.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -380,7 +419,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

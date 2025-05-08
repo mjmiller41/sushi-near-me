@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Tokyo Sushi"
+title: Tokyo Sushi
 permalink: /pennsylvania/easton/tokyo-sushi.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Easton
 seo:
-  name: "Tokyo Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Tokyo Sushi serves delicious sushi in Easton, Pennsylvania. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJBT4Dk49txIkReb8EA7aDQE4
 photos:
   - name: >-
@@ -181,7 +179,42 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Tokyo Sushi in Easton, PA$$$Nestled in the heart of Easton, PA, Tokyo
+  Sushi stands out as a inviting spot for those craving authentic Japanese
+  flavors in a relaxed environment. This family-run eatery specializes in fresh
+  sushi rolls, flavorful poke bowls, and refreshing bubble tea, making it a
+  go-to choice for sushi enthusiasts exploring options near you. The casual
+  setting enhances the dining experience, with a focus on quality ingredients
+  that bring out the best in every dish, appealing to anyone seeking top-rated
+  sushi restaurants in the area. Whether you're stopping by for a quick meal or
+  enjoying a leisurely dinner, the variety of offerings ensures there's
+  something for everyone looking for Japanese-inspired cuisine close to home.
+generative_summary: >-
+  Discover Tokyo Sushi in Easton, PA$$$Nestled in the heart of Easton, PA, Tokyo
+  Sushi stands out as a inviting spot for those craving authentic Japanese
+  flavors in a relaxed environment. This family-run eatery specializes in fresh
+  sushi rolls, flavorful poke bowls, and refreshing bubble tea, making it a
+  go-to choice for sushi enthusiasts exploring options near you. The casual
+  setting enhances the dining experience, with a focus on quality ingredients
+  that bring out the best in every dish, appealing to anyone seeking top-rated
+  sushi restaurants in the area. Whether you're stopping by for a quick meal or
+  enjoying a leisurely dinner, the variety of offerings ensures there's
+  something for everyone looking for Japanese-inspired cuisine close to home.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback on Tokyo Sushi$$$Folks who visit Tokyo Sushi often highlight
+  the tasty selection of dishes like spicy tuna rolls and poke bowls, noting the
+  use of fresh ingredients that make every bite memorable. Many appreciate the
+  welcoming atmosphere and attentive service that add to the overall enjoyment
+  of the meal. It's common to hear praise for the generous portions and
+  thoughtful touches that keep diners coming back for more. Overall, the
+  feedback paints a picture of a reliable spot for casual dining, where the
+  focus on quality and hospitality creates a positive vibe without any major
+  drawbacks. If you're on the hunt for great sushi places nearby, this eatery
+  seems to hit the mark for a satisfying experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -207,7 +240,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

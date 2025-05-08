@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ooi Sushi & Bar"
+title: Ooi Sushi & Bar
 permalink: /new-york/long-island-city/ooi-sushi-bar.html
 stateAbbr: NY
 stateName: New York
 cityName: Long Island City
 seo:
-  name: "Ooi Sushi & Bar"
-  type: Restaurant
-  links: null
-description: "Ooi Sushi & Bar serves delicious sushi in Long Island City, New York. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.ooisushi.com/
 place_id: ChIJrZS3dCRZwokRaYYi83Rsiow
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c2592474b794ad:0x8c8a6c74f3228669!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:30 AM – 10:00 PM'
+    - 'Tuesday: 11:30 AM – 10:00 PM'
+    - 'Wednesday: 11:30 AM – 10:00 PM'
+    - 'Thursday: 11:30 AM – 10:00 PM'
+    - 'Friday: 11:30 AM – 11:00 PM'
+    - 'Saturday: 12:00 – 11:00 PM'
+    - 'Sunday: 12:00 – 10:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,51 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
+phone: (718) 433-1888
 price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+price_range: $20 &ndash; $30
+rating: '4.7'
+rating_count: 780
+website: http://www.ooisushi.com/
+description: >-
+  Discover Ooi Sushi & Bar in Long Island City, NY$$$Ooi Sushi & Bar in Long
+  Island City, NY, stands out as a relaxed destination for enjoying fresh sushi
+  and authentic Japanese flavors that appeal to locals and visitors alike. This
+  spot offers a variety of creative rolls and classic bites, making it an ideal
+  choice for anyone searching for quality sushi restaurants in the area. With
+  inviting happy hour deals and a welcoming vibe, it's perfect for casual meals
+  or quick get-togethers near bustling neighborhoods. The restaurant provides
+  accessible features like wheelchair-friendly entrances, ensuring a comfortable
+  experience for all diners. Whether you're exploring top-rated sushi options
+  close to home or simply craving something light and flavorful, this place
+  delivers a satisfying blend of taste and convenience.
+generative_summary: >-
+  Discover Ooi Sushi & Bar in Long Island City, NY$$$Ooi Sushi & Bar in Long
+  Island City, NY, stands out as a relaxed destination for enjoying fresh sushi
+  and authentic Japanese flavors that appeal to locals and visitors alike. This
+  spot offers a variety of creative rolls and classic bites, making it an ideal
+  choice for anyone searching for quality sushi restaurants in the area. With
+  inviting happy hour deals and a welcoming vibe, it's perfect for casual meals
+  or quick get-togethers near bustling neighborhoods. The restaurant provides
+  accessible features like wheelchair-friendly entrances, ensuring a comfortable
+  experience for all diners. Whether you're exploring top-rated sushi options
+  close to home or simply craving something light and flavorful, this place
+  delivers a satisfying blend of taste and convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Diners Are Buzzing About$$$Folks often rave about the tasty selection at
+  this sushi spot, highlighting fresh rolls and hearty dishes that make every
+  visit worthwhile. Many appreciate the great deals during happy hour and lunch,
+  offering solid value without skimping on quality, which keeps it on the list
+  for budget-friendly Japanese places nearby. The service stands out too, with
+  staff noted for being helpful and attentive, adding to the overall enjoyable
+  atmosphere. While opinions vary, the general consensus leans positive,
+  emphasizing how the food's flavors and portions leave a lasting impression. If
+  you're on the hunt for reliable sushi near me, this location continues to earn
+  nods for its consistent appeal and friendly service that keeps customers
+  coming back.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +312,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

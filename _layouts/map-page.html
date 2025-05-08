@@ -2,18 +2,28 @@
 layout: page
 ---
 <div class="map-page">
-  {% include us-map.svg %}
-  <h3 class="directions-text">Click on a state above...</h3>
-  <h3 class="directions-text">Search for a specific place...</h3>
-  {% include search-form.html %}
-  {% unless page.place_id %}
-    <h3 class="directions-text">or Choose from the list below...</h3>
-  {% endunless %}
-  {%- if page.title == 'Home' -%}
-    <h1 class="page-heading">U.S. States with Sushi Restaurants</h1>
-  {% else %}
-    <h1 class="page-heading">{{ page.title }}</h1>
-  {%- endif -%}
+  {%- include us-map.svg -%}
+  <span class="directions" class="directions-text">Click on a state above...</span>
+  <span class="directions" class="directions-text">Search for a specific place...</span>
+  {%- include search-form.html -%}
+  {%- unless page.place_id -%}
+    <span class="directions" class="directions-text">or Choose from the list below...</span>
+  {%- endunless -%}
   {{ content }}
 </div>
-<script src="{{ '/assets/scripts/usMap.js' | relative_url }}" defer></script>
+<script>
+  if (typeof globalThis.stateSlugs === "undefined"){
+    Object.defineProperty(globalThis,"stateSlugs", {
+      value: [],
+      enumerable:false,
+      configurable:true,
+      writable:true
+    })
+  }
+  globalThis.stateSlugs = [
+    {%- for state in site.states -%}
+      "{{ state.slug }}"{%- unless forloop.last -%},{%- endunless -%}
+    {%- endfor -%}
+  ]
+</script>
+<script src="{{ "/assets/scripts/usMap.min.js" | relative_url }}"></script>

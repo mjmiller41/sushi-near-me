@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Nakano"
+title: Sushi Nakano
 permalink: /arizona/phoenix/sushi-nakano.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Phoenix
 seo:
-  name: "Sushi Nakano"
-  type: Restaurant
+  type: restaurant
   links: http://sushinakano.com/
-description: "Sushi Nakano serves delicious sushi in Phoenix, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJda-DUGEEK4cRJZYZfJMURsg
 photos:
   - name: >-
@@ -170,7 +168,89 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x872b04615083af75:0xc84614937c199625!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 16
+        minute: 30
+      close:
+        day: 0
+        hour: 20
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 20
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 20
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 20
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 20
+        minute: 30
+    - open:
+        day: 6
+        hour: 16
+        minute: 30
+      close:
+        day: 6
+        hour: 20
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:30 AM – 2:30 PM, 4:30 – 8:30 PM'
     - 'Wednesday: 11:30 AM – 2:30 PM, 4:30 – 8:30 PM'
@@ -178,14 +258,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 2:30 PM, 4:30 – 8:30 PM'
     - 'Saturday: 4:30 – 8:30 PM'
     - 'Sunday: 4:30 – 8:30 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:30 AM – 2:30 PM, 4:30 – 8:30 PM'
-    - 'Wednesday: 11:30 AM – 2:30 PM, 4:30 – 8:30 PM'
-    - 'Thursday: 11:30 AM – 2:30 PM, 4:30 – 8:30 PM'
-    - 'Friday: 11:30 AM – 2:30 PM, 4:30 – 8:30 PM'
-    - 'Saturday: 4:30 – 8:30 PM'
-    - 'Sunday: 4:30 – 8:30 PM'
+  nextOpenTime: '2025-05-03T23:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +270,267 @@ phone: (602) 603-2129
 price_level: null
 price_range: $30 &ndash; $50
 rating: '4.7'
-rating_count: 0
+rating_count: 313
 website: http://sushinakano.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Sushi Nakano in Phoenix, AZ$$$Nestled in Phoenix, AZ, Sushi Nakano
+  stands out as a cozy spot for authentic Japanese dining, featuring an intimate
+  atmosphere perfect for savoring expertly crafted omakase-style meals. This
+  sushi restaurant delights with fresh seafood selections and a thoughtful array
+  of beverages like beer, sake, and wine, making it a go-to choice for those
+  seeking quality Japanese flavors in a welcoming setting. Accessibility
+  features ensure a comfortable visit for all, while the menu's creative twists
+  on traditional dishes add an exciting element to every meal. With its
+  convenient location in the Ahwatukee Foothills Village area, it's an ideal
+  destination for anyone exploring top sushi options nearby, blending simplicity
+  with flavorful innovation to create memorable dining experiences.
+generative_summary: >-
+  Discover Sushi Nakano in Phoenix, AZ$$$Nestled in Phoenix, AZ, Sushi Nakano
+  stands out as a cozy spot for authentic Japanese dining, featuring an intimate
+  atmosphere perfect for savoring expertly crafted omakase-style meals. This
+  sushi restaurant delights with fresh seafood selections and a thoughtful array
+  of beverages like beer, sake, and wine, making it a go-to choice for those
+  seeking quality Japanese flavors in a welcoming setting. Accessibility
+  features ensure a comfortable visit for all, while the menu's creative twists
+  on traditional dishes add an exciting element to every meal. With its
+  convenient location in the Ahwatukee Foothills Village area, it's an ideal
+  destination for anyone exploring top sushi options nearby, blending simplicity
+  with flavorful innovation to create memorable dining experiences.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJda-DUGEEK4cRJZYZfJMURsg/reviews/ChdDSUhNMG9nS0VJQ0FnTURnXzlLMXlRRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        Popped in here by chance - delicious sushi, friendly staff, modern and
+        yet welcoming interior! I was greeted warmly and when I asked, was
+        recommended several types of nigiri! The fish was fresh and the
+        ingredients full of flavor, and I loved the unique flavor combinations
+        the owner has come up with! I came toward the end of lunch, and was the
+        only one there.
+      languageCode: en
+    originalText:
+      text: >-
+        Popped in here by chance - delicious sushi, friendly staff, modern and
+        yet welcoming interior! I was greeted warmly and when I asked, was
+        recommended several types of nigiri! The fish was fresh and the
+        ingredients full of flavor, and I loved the unique flavor combinations
+        the owner has come up with! I came toward the end of lunch, and was the
+        only one there.
+      languageCode: en
+    authorAttribution:
+      displayName: Saige Sanchez
+      uri: https://www.google.com/maps/contrib/117358439533457417353/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWnsVHjJDfASK8bAhTaCluF5M3CZZhs9gq1l2ojI4wn6dCqoHk=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-02-28T22:37:11.184640Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURnXzlLMXlRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURnXzlLMXlRRRAB!2m1!1s0x872b04615083af75:0xc84614937c199625
+  - name: >-
+      places/ChIJda-DUGEEK4cRJZYZfJMURsg/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJMDVfQmVnEAE
+    relativePublishTimeDescription: 4 weeks ago
+    rating: 5
+    text:
+      text: >-
+        A small family owned hole in the wall gem of a sushi restaurant. I have
+        been to many sushi places around the States and I will say this place is
+        spot on when it comes to their sushi rolls. What's unique about this
+        place is their daily - or weekly - specials (i.e. specialized sushi
+        rolls that have limited ingredients or unique vs. the regular menu)
+        constantly change and it is a first come, first serve basis until they
+        run out. I've never seen that before and think that makes them truly
+        standout.
+
+
+        In terms of their sushi rolls, the quality, the selections, and taste
+        was top-notch. They had a good selection of appetizers, which was also
+        amazing, a good selection of sushi, Japanese craft beers, and Japanese
+        sake for those that like to drink.
+
+
+        I highly recommend checking this place out and recommend arriving a
+        couple minutes early as the seating is very limited (25+/- seats). They
+        do not take online reservations and when you arrive and the seats are
+        all full, you will need to put your reservation on their sign up board
+        inside.
+      languageCode: en
+    originalText:
+      text: >-
+        A small family owned hole in the wall gem of a sushi restaurant. I have
+        been to many sushi places around the States and I will say this place is
+        spot on when it comes to their sushi rolls. What's unique about this
+        place is their daily - or weekly - specials (i.e. specialized sushi
+        rolls that have limited ingredients or unique vs. the regular menu)
+        constantly change and it is a first come, first serve basis until they
+        run out. I've never seen that before and think that makes them truly
+        standout.
+
+
+        In terms of their sushi rolls, the quality, the selections, and taste
+        was top-notch. They had a good selection of appetizers, which was also
+        amazing, a good selection of sushi, Japanese craft beers, and Japanese
+        sake for those that like to drink.
+
+
+        I highly recommend checking this place out and recommend arriving a
+        couple minutes early as the seating is very limited (25+/- seats). They
+        do not take online reservations and when you arrive and the seats are
+        all full, you will need to put your reservation on their sign up board
+        inside.
+      languageCode: en
+    authorAttribution:
+      displayName: Anthony Rees
+      uri: https://www.google.com/maps/contrib/115580951595344691220/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWAZ7VEZ1f-xNypILtQcDefjB8JfxXg-gve8nLde3UW7D7NrLgR=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-04T13:45:26.648398Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNJMDVfQmVnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNJMDVfQmVnEAE!2m1!1s0x872b04615083af75:0xc84614937c199625
+  - name: >-
+      places/ChIJda-DUGEEK4cRJZYZfJMURsg/reviews/ChdDSUhNMG9nS0VJQ0FnSUNkMS1LMWpRRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        I cannot recommend this place highly enough to anyone looking for an
+        authentic and unforgettable sushi dining experience. Every aspect of my
+        visit exceeded any expectation — the service was appropriately attentive
+        and everybody was friendly, the atmosphere was warm and inviting, and,
+        the food itself... I have not stopped thinking about my food. I can’t
+        wait to come back.
+      languageCode: en
+    originalText:
+      text: >-
+        I cannot recommend this place highly enough to anyone looking for an
+        authentic and unforgettable sushi dining experience. Every aspect of my
+        visit exceeded any expectation — the service was appropriately attentive
+        and everybody was friendly, the atmosphere was warm and inviting, and,
+        the food itself... I have not stopped thinking about my food. I can’t
+        wait to come back.
+      languageCode: en
+    authorAttribution:
+      displayName: Steven Burleson
+      uri: https://www.google.com/maps/contrib/107214782754454844076/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjX6R1jl52I9Rj8an4kHMd-sN7inDAGLXWiq49mwosbWJKROq_Q=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-02-19T05:59:27.687931Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNkMS1LMWpRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNkMS1LMWpRRRAB!2m1!1s0x872b04615083af75:0xc84614937c199625
+  - name: >-
+      places/ChIJda-DUGEEK4cRJZYZfJMURsg/reviews/ChdDSUhNMG9nS0VJQ0FnSURuN29xbHJ3RRAB
+    relativePublishTimeDescription: 6 months ago
+    rating: 1
+    text:
+      text: >-
+        I’m sorry I don’t know how this place has 4.7 rating, I do not recommend
+        their rolls at all. Very limited menu, and on top of that you pay for
+        ginger? I’m from Washington DC best places to eat sushi, and I compare
+        this place to a grocery place that they serve sushi. Me and my husband
+        went there tonight and we paid $147 with tip. We had two of their combos
+        and two rolls and a one hot saki. With that price I could have an
+        amazing dinner at sanctuary camelback resort.
+      languageCode: en
+    originalText:
+      text: >-
+        I’m sorry I don’t know how this place has 4.7 rating, I do not recommend
+        their rolls at all. Very limited menu, and on top of that you pay for
+        ginger? I’m from Washington DC best places to eat sushi, and I compare
+        this place to a grocery place that they serve sushi. Me and my husband
+        went there tonight and we paid $147 with tip. We had two of their combos
+        and two rolls and a one hot saki. With that price I could have an
+        amazing dinner at sanctuary camelback resort.
+      languageCode: en
+    authorAttribution:
+      displayName: Mint Malek
+      uri: https://www.google.com/maps/contrib/112561959035566542251/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjX16xx2QRKI6N6mO-vYyMS2zhElgtQu_L6l6td4HZfMBmgzM-RfWQ=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-10-06T02:35:50.501161Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURuN29xbHJ3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURuN29xbHJ3RRAB!2m1!1s0x872b04615083af75:0xc84614937c199625
+  - name: >-
+      places/ChIJda-DUGEEK4cRJZYZfJMURsg/reviews/ChdDSUhNMG9nS0VJQ0FnTUNBc0wtNmlRRRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        It was a super friendly place with great service. They put a really fun
+        spin on sushi. Some of the sauces and flavors were so different! Like
+        they had been aged for eons just to make it to the sushi they served.
+        The fish was also exceptional
+      languageCode: en
+    originalText:
+      text: >-
+        It was a super friendly place with great service. They put a really fun
+        spin on sushi. Some of the sauces and flavors were so different! Like
+        they had been aged for eons just to make it to the sushi they served.
+        The fish was also exceptional
+      languageCode: en
+    authorAttribution:
+      displayName: Brandon Thompson
+      uri: https://www.google.com/maps/contrib/108049455799742169590/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWDWhf2iK9_brJy0WI1PElVnpzjg5wfVY8uwnLeXe_IFkr_rX-O=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-01-29T02:56:43.554070Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNBc0wtNmlRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNBc0wtNmlRRRAB!2m1!1s0x872b04615083af75:0xc84614937c199625
+review_summary: >-
+  What Visitors Love About This Local Sushi Spot$$$Folks rave about the fresh
+  and flavorful sushi at this Phoenix favorite, highlighting the creative
+  specials and high-quality ingredients that make every bite a standout. Many
+  appreciate the friendly service and cozy vibe, which add to the overall charm
+  without overwhelming the focus on the food. While most feedback praises the
+  unique flavor combinations and solid drink selections, a few note that the
+  menu keeps things simple, which might not suit everyone looking for extensive
+  choices. Overall, it's a hit for those hunting for reliable Japanese dining,
+  with the consensus leaning toward it being a top pick for casual sushi lovers
+  in the area. If you're in the mood for something genuine and well-executed,
+  this spot delivers a satisfying experience that's worth checking out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
+curbside_pickup: false
+delivery: false
+dine_in: true
 good_for_children: null
 good_for_groups: null
-good_for_sports: null
-live_music: null
+good_for_sports: false
+live_music: false
 menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
 serves_breakfast: null
 serves_brunch: null
 serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

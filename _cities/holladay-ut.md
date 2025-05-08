@@ -5,4 +5,5 @@ permalink: /utah/holladay/
 stateAbbr: UT
 stateName: Utah
 cityName: Holladay
+
 ---

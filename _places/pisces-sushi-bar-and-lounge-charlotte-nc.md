@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Pisces Sushi Bar and Lounge"
+title: Pisces Sushi Bar and Lounge
 permalink: /north-carolina/charlotte/pisces-sushi-bar-and-lounge.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Charlotte
 seo:
-  name: "Pisces Sushi Bar and Lounge"
-  type: Restaurant
+  type: restaurant
   links: http://piscessushi.com/
-description: "Pisces Sushi Bar and Lounge serves delicious sushi in Charlotte, North Carolina. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJJ8sHeIyfVogRS_YS7LZ3hyw
 photos:
   - name: >-
@@ -170,7 +168,105 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x88569f8c7807cb27:0x2c8777b6ec12f64b!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 15
+        minute: 0
+    - open:
+        day: 0
+        hour: 16
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 15
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 15
+        minute: 0
+    - open:
+        day: 6
+        hour: 16
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:30 AM – 3:00 PM, 4:30 – 9:00 PM'
     - 'Wednesday: 11:30 AM – 3:00 PM, 4:30 – 9:00 PM'
@@ -178,28 +274,163 @@ opening_hours:
     - 'Friday: 11:30 AM – 3:00 PM, 4:30 – 10:00 PM'
     - 'Saturday: 12:00 – 3:00 PM, 4:30 – 10:00 PM'
     - 'Sunday: 12:00 – 3:00 PM, 4:00 – 9:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:30 AM – 3:00 PM, 4:30 – 9:00 PM'
-    - 'Wednesday: 11:30 AM – 3:00 PM, 4:30 – 9:00 PM'
-    - 'Thursday: 11:30 AM – 3:00 PM, 4:30 – 9:00 PM'
-    - 'Friday: 11:30 AM – 3:00 PM, 4:30 – 10:00 PM'
-    - 'Saturday: 12:00 – 3:00 PM, 4:30 – 10:00 PM'
-    - 'Sunday: 12:00 – 3:00 PM, 4:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 0
+        close:
+          day: 0
+          hour: 15
+          minute: 0
+      - open:
+          day: 0
+          hour: 16
+          minute: 0
+        close:
+          day: 0
+          hour: 21
+          minute: 0
+      - open:
+          day: 2
+          hour: 11
+          minute: 30
+        close:
+          day: 2
+          hour: 15
+          minute: 0
+      - open:
+          day: 2
+          hour: 16
+          minute: 30
+        close:
+          day: 2
+          hour: 21
+          minute: 0
+      - open:
+          day: 3
+          hour: 11
+          minute: 30
+        close:
+          day: 3
+          hour: 15
+          minute: 0
+      - open:
+          day: 3
+          hour: 16
+          minute: 30
+        close:
+          day: 3
+          hour: 21
+          minute: 0
+      - open:
+          day: 4
+          hour: 11
+          minute: 30
+        close:
+          day: 4
+          hour: 15
+          minute: 0
+      - open:
+          day: 4
+          hour: 16
+          minute: 30
+        close:
+          day: 4
+          hour: 21
+          minute: 0
+      - open:
+          day: 5
+          hour: 11
+          minute: 30
+        close:
+          day: 5
+          hour: 15
+          minute: 0
+      - open:
+          day: 5
+          hour: 16
+          minute: 30
+        close:
+          day: 5
+          hour: 21
+          minute: 0
+      - open:
+          day: 6
+          hour: 12
+          minute: 0
+        close:
+          day: 6
+          hour: 15
+          minute: 0
+      - open:
+          day: 6
+          hour: 16
+          minute: 30
+        close:
+          day: 6
+          hour: 22
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: Closed'
+      - 'Tuesday: 11:30 AM – 3:00 PM, 4:30 – 9:00 PM'
+      - 'Wednesday: 11:30 AM – 3:00 PM, 4:30 – 9:00 PM'
+      - 'Thursday: 11:30 AM – 3:00 PM, 4:30 – 9:00 PM'
+      - 'Friday: 11:30 AM – 3:00 PM, 4:30 – 9:00 PM'
+      - 'Saturday: 12:00 – 3:00 PM, 4:30 – 10:00 PM'
+      - 'Sunday: 12:00 – 3:00 PM, 4:00 – 9:00 PM'
+    secondaryHoursType: TAKEOUT
+    nextCloseTime: '2025-05-04T02:00:00Z'
 phone: (704) 334-0009
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.4'
-rating_count: 0
+rating_count: 1270
 website: http://piscessushi.com/
+description: >-
+  Discover Pisces Sushi in Charlotte, NC$$$Pisces Sushi Bar and Lounge in
+  Charlotte, NC, offers a stylish retreat for those seeking fresh
+  Japanese-inspired dishes in a vibrant setting. This spot is particularly
+  popular for its diverse menu featuring expertly prepared sushi rolls and
+  hibachi options, complemented by a selection of sake and beer to enhance the
+  dining experience. With accessibility features like wheelchair-friendly
+  entrances and seating, it caters to a wide range of visitors looking for
+  inclusive dining. The restaurant's flexible hours make it ideal for casual
+  lunches or evening outings, providing a welcoming atmosphere that highlights
+  its commitment to quality and variety. For anyone exploring sushi restaurants
+  in the area, this location delivers an authentic taste of Japanese cuisine
+  that's both satisfying and conveniently located.
+generative_summary: >-
+  Discover Pisces Sushi in Charlotte, NC$$$Pisces Sushi Bar and Lounge in
+  Charlotte, NC, offers a stylish retreat for those seeking fresh
+  Japanese-inspired dishes in a vibrant setting. This spot is particularly
+  popular for its diverse menu featuring expertly prepared sushi rolls and
+  hibachi options, complemented by a selection of sake and beer to enhance the
+  dining experience. With accessibility features like wheelchair-friendly
+  entrances and seating, it caters to a wide range of visitors looking for
+  inclusive dining. The restaurant's flexible hours make it ideal for casual
+  lunches or evening outings, providing a welcoming atmosphere that highlights
+  its commitment to quality and variety. For anyone exploring sushi restaurants
+  in the area, this location delivers an authentic taste of Japanese cuisine
+  that's both satisfying and conveniently located.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Sushi Enthusiasts$$$Folks heading to this Charlotte sushi
+  hotspot often appreciate the all-you-can-eat deals packed with fresh fish and
+  flavorful additions like sesame chicken bites and garlic noodles, making it a
+  solid pick for value-driven meals. The service stands out as warm and
+  attentive, helping to create a relaxed vibe that keeps diners coming back for
+  more. Many highlight the overall affordability and generous portions as key
+  wins, turning everyday visits into memorable experiences. While some mention
+  occasional waits during busy times, the payoff in taste and quality tends to
+  make it worthwhile. If you're on the hunt for top-rated sushi spots nearby,
+  this place consistently delivers a enjoyable mix of great food and friendly
+  vibes.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +456,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

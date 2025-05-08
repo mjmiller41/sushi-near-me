@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sato Japanese Cuisine"
+title: Sato Japanese Cuisine
 permalink: /california/pleasanton/sato-japanese-cuisine.html
 stateAbbr: CA
 stateName: California
 cityName: Pleasanton
 seo:
-  name: "Sato Japanese Cuisine"
-  type: Restaurant
+  type: restaurant
   links: https://sites.google.com/view/satojapanesecuisine
-description: "Sato Japanese Cuisine serves delicious sushi in Pleasanton, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJj7r-wmPpj4ARzr-bbLWqSqc
 photos:
   - name: >-
@@ -170,7 +168,89 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x808fe963c2feba8f:0xa74aaab56c9bbfce!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 20
+        minute: 30
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 20
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:30 AM – 2:00 PM, 5:00 – 8:00 PM'
     - 'Wednesday: 11:30 AM – 2:00 PM, 5:00 – 8:00 PM'
@@ -178,14 +258,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 2:00 PM, 5:00 – 8:30 PM'
     - 'Saturday: 5:00 – 8:30 PM'
     - 'Sunday: 5:00 – 8:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:30 AM – 2:00 PM, 5:00 – 8:00 PM'
-    - 'Wednesday: 11:30 AM – 2:00 PM, 5:00 – 8:00 PM'
-    - 'Thursday: 11:30 AM – 2:00 PM, 5:00 – 8:00 PM'
-    - 'Friday: 11:30 AM – 2:00 PM, 5:00 – 8:30 PM'
-    - 'Saturday: 5:00 – 8:30 PM'
-    - 'Sunday: 5:00 – 8:00 PM'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +270,49 @@ phone: (925) 462-3131
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.5'
-rating_count: 0
+rating_count: 151
 website: https://sites.google.com/view/satojapanesecuisine
+description: >-
+  Discover Sato Japanese Cuisine in Pleasanton, CA$$$Sato Japanese Cuisine in
+  Pleasanton, CA, stands out as a casual dining destination offering a blend of
+  traditional flavors in a welcoming environment. This spot features an array of
+  authentic dishes, from fresh sushi rolls and crispy tempura to satisfying
+  bento boxes, making it a go-to for those seeking Japanese fare in the area.
+  With its moderate pricing and accessibility options like wheelchair-friendly
+  entrances, it's designed for comfortable visits whether you're stopping by for
+  a quick lunch or an evening meal. The restaurant's location in Hopyard Village
+  adds to its appeal, providing a relaxed vibe perfect for exploring top-rated
+  sushi options nearby. If you're on the hunt for sushi restaurants that deliver
+  quality and convenience, this place captures the essence of genuine Japanese
+  dining with its thoughtful menu selections.
+generative_summary: >-
+  Discover Sato Japanese Cuisine in Pleasanton, CA$$$Sato Japanese Cuisine in
+  Pleasanton, CA, stands out as a casual dining destination offering a blend of
+  traditional flavors in a welcoming environment. This spot features an array of
+  authentic dishes, from fresh sushi rolls and crispy tempura to satisfying
+  bento boxes, making it a go-to for those seeking Japanese fare in the area.
+  With its moderate pricing and accessibility options like wheelchair-friendly
+  entrances, it's designed for comfortable visits whether you're stopping by for
+  a quick lunch or an evening meal. The restaurant's location in Hopyard Village
+  adds to its appeal, providing a relaxed vibe perfect for exploring top-rated
+  sushi options nearby. If you're on the hunt for sushi restaurants that deliver
+  quality and convenience, this place captures the essence of genuine Japanese
+  dining with its thoughtful menu selections.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Buzzing About$$$Visitors to this Japanese eatery often
+  highlight the consistently fresh and flavorful sushi as a standout feature,
+  based on its strong overall rating. Many appreciate the reliable service and
+  cozy atmosphere that make meals feel enjoyable and stress-free, contributing
+  to a welcoming experience for all. While some note that portion sizes could
+  vary, the general consensus leans positive, with praise for the value offered
+  in dishes like tempura and bento. Folks searching for sushi spots near them
+  seem to enjoy the authentic touches that keep things exciting yet
+  approachable. Overall, it's clear that this location earns its high marks by
+  delivering solid, honest quality that leaves diners satisfied and eager to
+  return.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +338,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

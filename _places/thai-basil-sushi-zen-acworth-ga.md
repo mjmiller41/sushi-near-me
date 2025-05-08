@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Thai Basil & Sushi Zen"
+title: Thai Basil & Sushi Zen
 permalink: /georgia/acworth/thai-basil-sushi-zen.html
 stateAbbr: GA
 stateName: Georgia
 cityName: Acworth
 seo:
-  name: "Thai Basil & Sushi Zen"
-  type: Restaurant
+  type: restaurant
   links: http://www.thaibasilsushizenacworth.com/
-description: "Thai Basil & Sushi Zen serves delicious sushi in Acworth, Georgia. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJD3nZdlc_9YgRCeqU5b2Bh4c
 photos:
   - name: >-
@@ -170,7 +168,113 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x88f53f5776d9790f:0x878781bde594ea09!10e5
 primary_type: Asian Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 16
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 15
+        minute: 0
+    - open:
+        day: 6
+        hour: 16
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 2:30 PM, 4:30 – 10:00 PM'
     - 'Tuesday: 11:00 AM – 2:30 PM, 4:30 – 10:00 PM'
     - 'Wednesday: 11:00 AM – 2:30 PM, 4:30 – 10:00 PM'
@@ -178,14 +282,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 2:30 PM, 4:30 – 10:30 PM'
     - 'Saturday: 11:30 AM – 3:00 PM, 4:30 – 10:30 PM'
     - 'Sunday: 4:00 – 10:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 2:30 PM, 4:30 – 10:00 PM'
-    - 'Tuesday: 11:00 AM – 2:30 PM, 4:30 – 10:00 PM'
-    - 'Wednesday: 11:00 AM – 2:30 PM, 4:30 – 10:00 PM'
-    - 'Thursday: 11:00 AM – 2:30 PM, 4:30 – 10:00 PM'
-    - 'Friday: 11:00 AM – 2:30 PM, 4:30 – 10:30 PM'
-    - 'Saturday: 11:30 AM – 3:00 PM, 4:30 – 10:30 PM'
-    - 'Sunday: 4:00 – 10:00 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +294,46 @@ phone: (770) 975-8909
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.5'
-rating_count: 0
+rating_count: 652
 website: http://www.thaibasilsushizenacworth.com/
+description: >-
+  Discover Thai Basil & Sushi Zen in Acworth, GA$$$Thai Basil & Sushi Zen in
+  Acworth, GA, stands out as a welcoming spot for enjoying a blend of Thai
+  specialties and fresh sushi, ideal for those seeking flavorful Asian dining
+  options nearby. The menu highlights comforting dishes like aromatic curries
+  and satisfying noodle bowls, complemented by a selection of creative sushi
+  rolls that appeal to both traditional and adventurous palates. With its casual
+  vibe and thoughtful accessibility features, such as wheelchair-friendly
+  entrances, it caters to a wide range of visitors looking for a relaxed meal.
+  Operating with convenient hours including evenings and weekends, this
+  restaurant provides an easy choice for anyone exploring top sushi places in
+  the area, ensuring a memorable dining experience without the fuss.
+generative_summary: >-
+  Discover Thai Basil & Sushi Zen in Acworth, GA$$$Thai Basil & Sushi Zen in
+  Acworth, GA, stands out as a welcoming spot for enjoying a blend of Thai
+  specialties and fresh sushi, ideal for those seeking flavorful Asian dining
+  options nearby. The menu highlights comforting dishes like aromatic curries
+  and satisfying noodle bowls, complemented by a selection of creative sushi
+  rolls that appeal to both traditional and adventurous palates. With its casual
+  vibe and thoughtful accessibility features, such as wheelchair-friendly
+  entrances, it caters to a wide range of visitors looking for a relaxed meal.
+  Operating with convenient hours including evenings and weekends, this
+  restaurant provides an easy choice for anyone exploring top sushi places in
+  the area, ensuring a memorable dining experience without the fuss.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors frequently praise the tasty Thai dishes
+  and well-crafted sushi at this spot, noting how the flavors hit the mark for
+  authentic and satisfying meals. With a strong 4.5-star rating from hundreds of
+  feedback, many appreciate the friendly service and generous portions that make
+  it feel like a reliable go-to for casual outings. While some mention
+  occasional waits during peak times, the overall consensus leans positive,
+  emphasizing great value and a welcoming atmosphere for groups or solo diners.
+  If you're hunting for quality sushi near Acworth, this place often comes up as
+  a solid pick, offering an enjoyable experience that keeps people coming back
+  for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +359,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

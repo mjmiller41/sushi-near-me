@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Poke Bowl"
+title: Poke Bowl
 permalink: /california/san-francisco/poke-bowl.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
 seo:
-  name: "Poke Bowl"
-  type: Restaurant
-  links: null
-description: "Poke Bowl serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://thepokebowls.com/
 place_id: ChIJlVVmTrp9j4ARsTCnpgaGtLE
 photos:
   - name: >-
@@ -170,8 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x808f7dba4e665595:0xb1b48606a6a730b1!10e5
 primary_type: American Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 19
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 19
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 19
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 19
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 20
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 20
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:30 AM – 7:30 PM'
+    - 'Tuesday: 11:30 AM – 7:30 PM'
+    - 'Wednesday: 11:30 AM – 7:30 PM'
+    - 'Thursday: 11:30 AM – 7:30 PM'
+    - 'Friday: 11:30 AM – 8:30 PM'
+    - 'Saturday: 11:30 AM – 8:30 PM'
+    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T03:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -180,12 +235,50 @@ secondary_opening_hours:
     weekdayDescriptions: null
     type: null
 phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+price_level: PRICE_LEVEL_INEXPENSIVE
+price_range: $10 &ndash; $20
+rating: '4.1'
+rating_count: 66
+website: https://thepokebowls.com/
+description: >-
+  Discover Poke Bowl in San Francisco$$$Poke Bowl in San Francisco, CA, stands
+  out as a laid-back spot for Hawaiian-inspired cuisine, nestled in a bustling
+  food court environment. This eatery specializes in customizable poke bowls,
+  allowing patrons to select from an array of fresh proteins, vibrant toppings,
+  and flavorful sauces for a personalized meal. With its affordable pricing and
+  emphasis on healthy, fresh ingredients, it's an ideal choice for those seeking
+  quick, nutritious options in the Stonestown area. The restaurant also
+  prioritizes accessibility, making it welcoming for all visitors, and operates
+  with convenient hours that cater to lunch and dinner crowds. Whether you're in
+  the mood for a light, satisfying dish or exploring new flavors near you, this
+  spot delivers a simple yet enjoyable dining experience.
+generative_summary: >-
+  Discover Poke Bowl in San Francisco$$$Poke Bowl in San Francisco, CA, stands
+  out as a laid-back spot for Hawaiian-inspired cuisine, nestled in a bustling
+  food court environment. This eatery specializes in customizable poke bowls,
+  allowing patrons to select from an array of fresh proteins, vibrant toppings,
+  and flavorful sauces for a personalized meal. With its affordable pricing and
+  emphasis on healthy, fresh ingredients, it's an ideal choice for those seeking
+  quick, nutritious options in the Stonestown area. The restaurant also
+  prioritizes accessibility, making it welcoming for all visitors, and operates
+  with convenient hours that cater to lunch and dinner crowds. Whether you're in
+  the mood for a light, satisfying dish or exploring new flavors near you, this
+  spot delivers a simple yet enjoyable dining experience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$From the general feedback on Poke Bowl, folks seem
+  to really enjoy the fresh ingredients and endless customization options that
+  make each bowl feel unique and satisfying. Many highlight the great value for
+  the price, noting that the portions are generous without breaking the bank,
+  which adds to its appeal for casual meals. While some mention occasional waits
+  during peak times, the overall atmosphere and service come across as friendly
+  and efficient, contributing to a positive vibe. Reviewers often praise the
+  quality of the seafood and toppings, making it a solid pick for anyone craving
+  healthy, flavorful eats. All in all, with a strong rating, it's clear this
+  place is hitting the mark for those looking for reliable, tasty options in the
+  area.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +304,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

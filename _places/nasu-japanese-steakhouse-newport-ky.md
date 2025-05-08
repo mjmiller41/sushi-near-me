@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Nasu Japanese Steakhouse"
+title: Nasu Japanese Steakhouse
 permalink: /kentucky/newport/nasu-japanese-steakhouse.html
 stateAbbr: KY
 stateName: Kentucky
 cityName: Newport
 seo:
-  name: "Nasu Japanese Steakhouse"
-  type: Restaurant
+  type: restaurant
   links: https://www.nasusteakhousenewport.com/
-description: "Nasu Japanese Steakhouse serves delicious sushi in Newport, Kentucky. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJN_HYruuxQYgR3_Kv8U9j4Q8
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 0
 website: https://www.nasusteakhousenewport.com/
+description: >-
+  Discover Nasu Japanese Steakhouse in Newport, KY$$$Nestled in Newport, KY,
+  Nasu Japanese Steakhouse stands out as a welcoming spot for enjoying fresh
+  Japanese cuisine in a relaxed environment, featuring a hibachi menu perfect
+  for lunch or dinner gatherings. This establishment highlights its commitment
+  to accessibility, with features like wheelchair-friendly parking and seating
+  that make it easy for everyone to savor the experience. Diners can expect
+  generous portions of flavorful dishes that blend traditional flavors with
+  interactive cooking styles, ideal for those seeking top-rated Japanese places
+  nearby. The moderately priced options, including a variety of beverages, add
+  to its appeal for casual meals or special occasions. Whether you're exploring
+  sushi restaurants close to you or simply craving authentic Japanese fare, this
+  spot delivers a satisfying blend of quality and comfort.
+generative_summary: >-
+  Discover Nasu Japanese Steakhouse in Newport, KY$$$Nestled in Newport, KY,
+  Nasu Japanese Steakhouse stands out as a welcoming spot for enjoying fresh
+  Japanese cuisine in a relaxed environment, featuring a hibachi menu perfect
+  for lunch or dinner gatherings. This establishment highlights its commitment
+  to accessibility, with features like wheelchair-friendly parking and seating
+  that make it easy for everyone to savor the experience. Diners can expect
+  generous portions of flavorful dishes that blend traditional flavors with
+  interactive cooking styles, ideal for those seeking top-rated Japanese places
+  nearby. The moderately priced options, including a variety of beverages, add
+  to its appeal for casual meals or special occasions. Whether you're exploring
+  sushi restaurants close to you or simply craving authentic Japanese fare, this
+  spot delivers a satisfying blend of quality and comfort.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJN_HYruuxQYgR3_Kv8U9j4Q8/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3bmNyalRREAE
@@ -370,6 +395,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURYMHF5Y1BREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURYMHF5Y1BREAE!2m1!1s0x8841b1ebaed8f137:0xfe1634ff1aff2df
+review_summary: >-
+  What Customers Are Saying$$$Visitors often praise the tasty hibachi dishes and
+  ample portions that make meals feel worthwhile, with many noting the food's
+  freshness and great value for the price. Service tends to be friendly and
+  attentive, especially for larger groups, though some mention occasional waits
+  during busy times that are handled with overall efficiency. Folks appreciate
+  the engaging atmosphere and creative chefs who add fun to the dining
+  experience, making it a go-to for family outings or casual meetups. While
+  there are minor suggestions for improvements like better staffing during
+  peaks, the general vibe remains positive with highlights on the clean setting
+  and quick service. All in all, it's a solid choice for anyone hunting for
+  reliable Japanese spots nearby, offering a consistently enjoyable experience
+  that keeps people coming back.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -403,7 +442,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

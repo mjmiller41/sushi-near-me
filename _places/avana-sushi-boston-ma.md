@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Avana Sushi"
+title: Avana Sushi
 permalink: /massachusetts/boston/avana-sushi.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Boston
 seo:
-  name: "Avana Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.avanabostonma.com/
-description: "Avana Sushi serves delicious sushi in Boston, Massachusetts. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJOSfG9Wp744kRmV_wLbUbcog
 photos:
   - name: >-
@@ -167,7 +165,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89e37b6af5c62739:0x88721bb52df05f99!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 45
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 45
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 45
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 45
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 45
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 45
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 45
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:45 PM'
     - 'Tuesday: 11:00 AM – 9:45 PM'
     - 'Wednesday: 11:00 AM – 9:45 PM'
@@ -175,14 +231,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:45 PM'
     - 'Saturday: 11:00 AM – 9:45 PM'
     - 'Sunday: 11:00 AM – 9:45 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:45 PM'
-    - 'Tuesday: 11:00 AM – 9:45 PM'
-    - 'Wednesday: 11:00 AM – 9:45 PM'
-    - 'Thursday: 11:00 AM – 9:45 PM'
-    - 'Friday: 11:00 AM – 9:45 PM'
-    - 'Saturday: 11:00 AM – 9:45 PM'
-    - 'Sunday: 11:00 AM – 9:45 PM'
+  nextCloseTime: '2025-05-04T01:45:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -194,9 +243,49 @@ phone: (617) 818-7782
 price_level: PRICE_LEVEL_INEXPENSIVE
 price_range: $10 &ndash; $20
 rating: '4.3'
-rating_count: 0
+rating_count: 103
 website: https://www.avanabostonma.com/
+description: >-
+  Discover Avana Sushi in Boston, MA$$$Avana Sushi in Boston, MA, stands out as
+  a casual spot for enjoying authentic Japanese flavors, nestled in the vibrant
+  Chinatown neighborhood. This sushi restaurant offers a welcoming atmosphere in
+  a food court setting, making it an ideal choice for those seeking fresh,
+  affordable Japanese cuisine without the formality of a high-end dining
+  experience. With wheelchair-accessible entrances and extended hours from 11 AM
+  to 9:45 PM daily, it's perfect for spontaneous visits or quick meals after
+  exploring the city. Patrons appreciate the variety of sushi options that
+  highlight quality ingredients, positioning it as one of the top-rated spots
+  for sushi lovers in the area. Whether you're looking for sushi places nearby
+  or a reliable option for Japanese dishes, Avana Sushi delivers a satisfying
+  blend of taste and convenience.
+generative_summary: >-
+  Discover Avana Sushi in Boston, MA$$$Avana Sushi in Boston, MA, stands out as
+  a casual spot for enjoying authentic Japanese flavors, nestled in the vibrant
+  Chinatown neighborhood. This sushi restaurant offers a welcoming atmosphere in
+  a food court setting, making it an ideal choice for those seeking fresh,
+  affordable Japanese cuisine without the formality of a high-end dining
+  experience. With wheelchair-accessible entrances and extended hours from 11 AM
+  to 9:45 PM daily, it's perfect for spontaneous visits or quick meals after
+  exploring the city. Patrons appreciate the variety of sushi options that
+  highlight quality ingredients, positioning it as one of the top-rated spots
+  for sushi lovers in the area. Whether you're looking for sushi places nearby
+  or a reliable option for Japanese dishes, Avana Sushi delivers a satisfying
+  blend of taste and convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Sharing$$$Visitors to this Boston sushi spot often praise
+  the fresh, well-prepared rolls and the overall value for money, making it a
+  solid pick for anyone craving Japanese favorites. Many highlight the quick
+  service and tasty selections that keep things light and enjoyable, even in a
+  bustling food court environment. While some note that the setting is more
+  casual than upscale, the positive vibes and affordable prices around $10 to
+  $20 draw in repeat crowds. Folks frequently mention the generous portions and
+  flavorful options as reasons to return, helping it maintain its strong
+  reputation. Overall, it's a go-to for those searching for reliable sushi
+  experiences, with the high ratings reflecting a welcoming spot that balances
+  quality and ease.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -222,7 +311,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

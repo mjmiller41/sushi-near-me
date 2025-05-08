@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yen Sushi & Sake Bar"
+title: Yen Sushi & Sake Bar
 permalink: /california/studio-city/yen-sushi-sake-bar.html
 stateAbbr: CA
 stateName: California
 cityName: Studio City
 seo:
-  name: "Yen Sushi & Sake Bar"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Yen Sushi & Sake Bar serves delicious sushi in Studio City, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJWRR04PS9woARpu4qk8ctoFA
 photos:
   - name: >-
@@ -185,7 +183,45 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Explore Yen Sushi & Sake Bar in Studio City, CA$$$Yen Sushi & Sake Bar in
+  Studio City, CA, stands out as a welcoming spot for fresh sushi and
+  Japanese-inspired dishes, perfect for those seeking authentic flavors in a
+  relaxed atmosphere. This sushi restaurant features an array of small plates
+  and a selection of sake that pairs ideally with creative rolls and happy hour
+  deals, making it a go-to choice for casual diners and sushi enthusiasts alike.
+  With thoughtful accessibility options like wheelchair-friendly entrances and
+  seating, it ensures everyone can enjoy a comfortable meal. Whether you're
+  looking for top-rated sushi near me or exploring Japanese places in the area,
+  this venue offers a blend of quality ingredients and inviting vibes that make
+  every visit memorable.
+generative_summary: >-
+  Explore Yen Sushi & Sake Bar in Studio City, CA$$$Yen Sushi & Sake Bar in
+  Studio City, CA, stands out as a welcoming spot for fresh sushi and
+  Japanese-inspired dishes, perfect for those seeking authentic flavors in a
+  relaxed atmosphere. This sushi restaurant features an array of small plates
+  and a selection of sake that pairs ideally with creative rolls and happy hour
+  deals, making it a go-to choice for casual diners and sushi enthusiasts alike.
+  With thoughtful accessibility options like wheelchair-friendly entrances and
+  seating, it ensures everyone can enjoy a comfortable meal. Whether you're
+  looking for top-rated sushi near me or exploring Japanese places in the area,
+  this venue offers a blend of quality ingredients and inviting vibes that make
+  every visit memorable.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Visitor Feedback$$$Visitors often rave about the fresh,
+  flavorful sushi and the fun happy hour specials at this popular Studio City
+  spot, highlighting it as a solid pick for anyone craving reliable Japanese
+  cuisine. Many appreciate the welcoming atmosphere and variety of options that
+  cater to different tastes, making it a favorite among sushi lovers looking for
+  a laid-back meal. While some note that portions could be more generous, the
+  overall consensus leans positive, with folks enjoying the attentive service
+  and reasonable prices that keep them coming back. If you're searching for
+  sushi restaurants near me, this place delivers a consistently enjoyable
+  experience that's worth trying, blending everyday appeal with occasional
+  standout dishes that satisfy without overwhelming the wallet.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +247,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

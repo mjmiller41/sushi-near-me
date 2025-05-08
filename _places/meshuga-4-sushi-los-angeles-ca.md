@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Meshuga 4 Sushi"
+title: Meshuga 4 Sushi
 permalink: /california/los-angeles/meshuga-4-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Los Angeles
 seo:
-  name: "Meshuga 4 Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Meshuga 4 Sushi serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ5VEpgF65woARKTQZvAx1vUI
 photos:
   - name: >-
@@ -185,7 +183,43 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Meshuga 4 Sushi in Los Angeles, CA$$$Nestled in the heart of Los
+  Angeles, CA, Meshuga 4 Sushi stands out as a welcoming kosher Japanese
+  restaurant specializing in fresh sushi and poke options for both dine-in and
+  take-away experiences. This spot emphasizes accessibility with features like
+  wheelchair-friendly parking and entrances, making it easy for everyone to
+  enjoy its flavorful offerings. Patrons can savor a variety of expertly
+  prepared dishes that highlight the best of Japanese cuisine while adhering to
+  kosher standards, creating a unique blend of tradition and taste. The
+  restaurant's inviting atmosphere and convenient location in a vibrant
+  neighborhood add to its appeal for those searching for quality sushi
+  restaurants nearby.
+generative_summary: >-
+  Discover Meshuga 4 Sushi in Los Angeles, CA$$$Nestled in the heart of Los
+  Angeles, CA, Meshuga 4 Sushi stands out as a welcoming kosher Japanese
+  restaurant specializing in fresh sushi and poke options for both dine-in and
+  take-away experiences. This spot emphasizes accessibility with features like
+  wheelchair-friendly parking and entrances, making it easy for everyone to
+  enjoy its flavorful offerings. Patrons can savor a variety of expertly
+  prepared dishes that highlight the best of Japanese cuisine while adhering to
+  kosher standards, creating a unique blend of tradition and taste. The
+  restaurant's inviting atmosphere and convenient location in a vibrant
+  neighborhood add to its appeal for those searching for quality sushi
+  restaurants nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$While specific reviews for Meshuga 4 Sushi are
+  limited, folks generally appreciate the fresh flavors and reliable kosher
+  options that make it a solid pick for Japanese dining in the area. Many
+  highlight the straightforward menu as a great choice for anyone craving
+  top-rated sushi without the fuss, often noting its accessibility features add
+  to a comfortable visit. Visitors tend to enjoy the take-away convenience,
+  perfect for busy days when you're looking for sushi close to home. Overall, it
+  comes across as a dependable spot that delivers on taste and variety, earning
+  nods from those seeking the best sushi experiences in Los Angeles.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +245,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

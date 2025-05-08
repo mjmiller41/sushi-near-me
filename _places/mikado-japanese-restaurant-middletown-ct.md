@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "MIKADO JAPANESE RESTAURANT"
+title: MIKADO JAPANESE RESTAURANT
 permalink: /connecticut/middletown/mikado-japanese-restaurant.html
 stateAbbr: CT
 stateName: Connecticut
 cityName: Middletown
 seo:
-  name: "MIKADO JAPANESE RESTAURANT"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "MIKADO JAPANESE RESTAURANT serves delicious sushi in Middletown, Connecticut. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ06U_dHdL5okRAObgip7N4vo
 photos:
   - name: >-
@@ -170,8 +168,113 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89e64b77743fa5d3:0xfae2cd9e8ae0e600!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 13
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 2:30 PM, 4:30 – 9:30 PM'
+    - 'Tuesday: 11:00 AM – 2:30 PM, 4:30 – 9:30 PM'
+    - 'Wednesday: 11:00 AM – 2:30 PM, 4:30 – 9:30 PM'
+    - 'Thursday: 11:00 AM – 2:30 PM, 4:30 – 9:30 PM'
+    - 'Friday: 11:00 AM – 2:30 PM, 4:00 – 10:30 PM'
+    - 'Saturday: 11:00 AM – 10:30 PM'
+    - 'Sunday: 1:00 – 9:30 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +282,56 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
+phone: (860) 346-6655
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.2'
+rating_count: 141
 website: null
+description: >-
+  Discover Mikado Japanese Restaurant in Middletown, CT$$$Mikado Japanese
+  Restaurant in Middletown, CT, offers a relaxed dining experience with a focus
+  on fresh sushi and flavorful hibachi-grilled options, making it a go-to spot
+  for those seeking Japanese cuisine nearby. The menu highlights a variety of
+  authentic dishes that blend traditional flavors with casual appeal, set in a
+  welcoming atmosphere perfect for enjoying a meal with friends or family.
+  Accessibility features like wheelchair-friendly parking and seating ensure
+  everyone can savor the diverse selection of rolls and grilled specialties
+  without hassle. With convenient hours that include evenings and weekends, it's
+  easy to drop in for a satisfying lunch or dinner, appealing to anyone
+  exploring top-rated Japanese places in the area. This spot stands out for its
+  moderate pricing, providing great value for quality meals that cater to sushi
+  enthusiasts looking for reliable options close to home.
+generative_summary: >-
+  Discover Mikado Japanese Restaurant in Middletown, CT$$$Mikado Japanese
+  Restaurant in Middletown, CT, offers a relaxed dining experience with a focus
+  on fresh sushi and flavorful hibachi-grilled options, making it a go-to spot
+  for those seeking Japanese cuisine nearby. The menu highlights a variety of
+  authentic dishes that blend traditional flavors with casual appeal, set in a
+  welcoming atmosphere perfect for enjoying a meal with friends or family.
+  Accessibility features like wheelchair-friendly parking and seating ensure
+  everyone can savor the diverse selection of rolls and grilled specialties
+  without hassle. With convenient hours that include evenings and weekends, it's
+  easy to drop in for a satisfying lunch or dinner, appealing to anyone
+  exploring top-rated Japanese places in the area. This spot stands out for its
+  moderate pricing, providing great value for quality meals that cater to sushi
+  enthusiasts looking for reliable options close to home.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About This Sushi Spot$$$Visitors to this Japanese
+  restaurant often praise the fresh and well-prepared sushi rolls, noting that
+  they hit the spot for a satisfying meal without breaking the bank. Many folks
+  appreciate the friendly service and cozy vibe, which make it a solid choice
+  for casual get-togethers or solo dining adventures. While some mention
+  occasional waits during peak times, the overall experience gets high marks for
+  tasty hibachi dishes and a welcoming atmosphere that keeps people coming back.
+  With a solid rating reflecting positive feedback, it's clear that the focus on
+  quality ingredients and variety helps make this place a favorite among those
+  searching for reliable sushi options nearby. All in all, the general consensus
+  leans toward enjoyment, encouraging newcomers to give it a try for an honest
+  and enjoyable dining experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +357,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

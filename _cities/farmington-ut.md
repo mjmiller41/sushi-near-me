@@ -5,4 +5,5 @@ permalink: /utah/farmington/
 stateAbbr: UT
 stateName: Utah
 cityName: Farmington
+
 ---

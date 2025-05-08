@@ -1,15 +1,14 @@
 ---
 layout: place
-title: "Yummy House"
+title: Yummy House
 permalink: /michigan/commerce-township/yummy-house.html
 stateAbbr: MI
 stateName: Michigan
 cityName: Commerce Township
 seo:
-  name: "Yummy House"
-  type: Restaurant
-  links: https://www.smorefood.com/order-online/yummy-house-commerce-township-48390-fptqg3no?utm_source=gmb&utm_medium=website
-description: "Unassuming, compact eatery featuring classic Chinese dishes & sushi rolls in a low-key atmosphere. Yummy House serves delicious sushi in Commerce Township, Michigan. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
+  type: restaurant
+  links: >-
+    https://www.smorefood.com/order-online/yummy-house-commerce-township-48390-fptqg3no?utm_source=gmb&utm_medium=website
 place_id: ChIJlx2GsiOlJIgRK1Qlv88DwUw
 photos:
   - name: >-
@@ -186,6 +185,31 @@ rating: '4.1'
 rating_count: 0
 website: >-
   https://www.smorefood.com/order-online/yummy-house-commerce-township-48390-fptqg3no?utm_source=gmb&utm_medium=website
+description: >-
+  About Yummy House in Commerce Township, MI$$$Yummy House in Commerce Township,
+  Michigan, stands out as a casual spot blending classic Chinese flavors with
+  fresh sushi options, making it a go-to for those seeking diverse Asian cuisine
+  nearby. This unassuming eatery offers a variety of vegetarian dishes and quick
+  bites, all served in a clean, low-key atmosphere that emphasizes accessibility
+  and comfort. Patrons appreciate the reasonable prices and welcoming vibe, with
+  highlights including well-prepared sushi rolls and standard Chinese favorites
+  that cater to different tastes. The restaurant's moderate price range and
+  convenient location make it an ideal choice for anyone exploring top sushi
+  restaurants or Japanese-inspired places near me, ensuring a satisfying meal
+  without the fuss.
+generative_summary: >-
+  About Yummy House in Commerce Township, MI$$$Yummy House in Commerce Township,
+  Michigan, stands out as a casual spot blending classic Chinese flavors with
+  fresh sushi options, making it a go-to for those seeking diverse Asian cuisine
+  nearby. This unassuming eatery offers a variety of vegetarian dishes and quick
+  bites, all served in a clean, low-key atmosphere that emphasizes accessibility
+  and comfort. Patrons appreciate the reasonable prices and welcoming vibe, with
+  highlights including well-prepared sushi rolls and standard Chinese favorites
+  that cater to different tastes. The restaurant's moderate price range and
+  convenient location make it an ideal choice for anyone exploring top sushi
+  restaurants or Japanese-inspired places near me, ensuring a satisfying meal
+  without the fuss.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJlx2GsiOlJIgRK1Qlv88DwUw/reviews/ChdDSUhNMG9nS0VJQ0FnTUNnNGFtcXR3RRAB
@@ -337,6 +361,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNRdy1UN013EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNRdy1UN013EAE!2m1!1s0x8824a523b2861d97:0x4cc103cfbf25542b
+review_summary: >-
+  What Customers Are Sharing$$$Folks rave about the fresh sushi and friendly
+  service at this spot, often highlighting how the variety of rolls and Chinese
+  dishes keep them coming back for more. While most visitors enjoy the clean
+  environment and reasonable prices, a few mention minor hiccups like
+  temperature issues with sides, but these don't overshadow the overall positive
+  vibes. It's clear that the quick preparation and tasty options make it a solid
+  pick for casual diners looking for reliable eats in the area. If you're
+  hunting for sushi places near me or the best sushi near me, this location
+  delivers a generally enjoyable experience that's worth trying, with many eager
+  to return for another round. Overall, the feedback leans toward satisfaction,
+  painting it as a dependable choice for everyday meals.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -370,8 +407,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Unassuming, compact eatery featuring classic Chinese dishes & sushi rolls in a
   low-key atmosphere.
 

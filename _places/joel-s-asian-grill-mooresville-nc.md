@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Joel's Asian Grill"
+title: Joel's Asian Grill
 permalink: /north-carolina/mooresville/joel-s-asian-grill.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Mooresville
 seo:
-  name: "Joel's Asian Grill"
-  type: Restaurant
+  type: restaurant
   links: https://joelsgrill.com/
-description: "Hip choice showcasing Filipino favorites & sushi as well as Chinese & Vietnamese fare, plus a patio Joel's Asian Grill serves delicious sushi in Mooresville, North Carolina. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ-_yIs8BUUYgRDOHgrbwb-LQ
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $10 &ndash; $20
 rating: '4.3'
 rating_count: 0
 website: https://joelsgrill.com/
+description: >-
+  Explore Joel's Asian Grill in Mooresville, NC$$$Joel's Asian Grill in
+  Mooresville, NC, stands out as a casual dining destination blending Asian
+  fusion flavors with a focus on Filipino specialties and fresh sushi options.
+  This welcoming spot features a variety of dishes that highlight vibrant tastes
+  from Chinese, Vietnamese, and Filipino cuisines, making it an ideal choice for
+  those seeking diverse sushi experiences in a relaxed atmosphere. With its
+  outdoor patio and accessible features like wheelchair-friendly seating and
+  parking, it caters to a wide range of diners looking for authentic yet
+  approachable meals. The menu emphasizes fresh ingredients and moderate
+  pricing, appealing to anyone exploring top-rated sushi restaurants nearby.
+  Overall, it's a go-to place for enjoying flavorful Asian-inspired fare that
+  combines tradition with everyday convenience.
+generative_summary: >-
+  Explore Joel's Asian Grill in Mooresville, NC$$$Joel's Asian Grill in
+  Mooresville, NC, stands out as a casual dining destination blending Asian
+  fusion flavors with a focus on Filipino specialties and fresh sushi options.
+  This welcoming spot features a variety of dishes that highlight vibrant tastes
+  from Chinese, Vietnamese, and Filipino cuisines, making it an ideal choice for
+  those seeking diverse sushi experiences in a relaxed atmosphere. With its
+  outdoor patio and accessible features like wheelchair-friendly seating and
+  parking, it caters to a wide range of diners looking for authentic yet
+  approachable meals. The menu emphasizes fresh ingredients and moderate
+  pricing, appealing to anyone exploring top-rated sushi restaurants nearby.
+  Overall, it's a go-to place for enjoying flavorful Asian-inspired fare that
+  combines tradition with everyday convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ-_yIs8BUUYgRDOHgrbwb-LQ/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3dE1UOFBBEAE
@@ -356,6 +381,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURacHFueFFREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURacHFueFFREAE!2m1!1s0x885154c0b388fcfb:0xb4f81bbcade0e10c
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors to this sushi spot often rave about
+  the tasty Asian dishes and extensive sushi selection, noting it as a solid
+  option for casual lunches or group outings. Many appreciate the friendly
+  service and clean environment, with highlights on flavorful items like crab
+  rangoon and various rolls that bring a satisfying mix of spice and freshness.
+  While some mention minor gripes with additional fees for larger parties, the
+  overall vibe remains positive, with folks enjoying the nostalgic and hearty
+  meals that keep them coming back. It's frequently recommended for families or
+  those new to sushi, offering good value and a welcoming setting that makes it
+  worth trying. In essence, this place delivers a reliably enjoyable experience,
+  especially for anyone hunting for quality sushi close to home.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -389,8 +427,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Hip choice showcasing Filipino favorites & sushi as well as Chinese &
   Vietnamese fare, plus a patio
 

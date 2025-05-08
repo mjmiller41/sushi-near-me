@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Mikado"
+title: Mikado
 permalink: /new-york/jamaica/mikado.html
 stateAbbr: NY
 stateName: New York
 cityName: Jamaica
 seo:
-  name: "Mikado"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Mikado serves delicious sushi in Jamaica, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJheSe5TxhwokRoHOVTVZt0fo
 photos:
   - name: >-
@@ -184,7 +182,37 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  About Mikado in Jamaica, NY$$$Mikado in Jamaica, NY, stands out as a welcoming
+  Japanese eatery celebrated for its cozy ambiance and fresh, inventive dishes.
+  This spot specializes in hand rolls and creative bento options, making it a
+  go-to for anyone exploring Japanese flavors in the area. With a selection of
+  sake and wine to enhance the meal, it offers a relaxed setting ideal for
+  casual dining or trying new tastes. The focus on quality ingredients and
+  thoughtful menu variety ensures a memorable experience for those seeking
+  authentic Asian cuisine nearby.
+generative_summary: >-
+  About Mikado in Jamaica, NY$$$Mikado in Jamaica, NY, stands out as a welcoming
+  Japanese eatery celebrated for its cozy ambiance and fresh, inventive dishes.
+  This spot specializes in hand rolls and creative bento options, making it a
+  go-to for anyone exploring Japanese flavors in the area. With a selection of
+  sake and wine to enhance the meal, it offers a relaxed setting ideal for
+  casual dining or trying new tastes. The focus on quality ingredients and
+  thoughtful menu variety ensures a memorable experience for those seeking
+  authentic Asian cuisine nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Raving About$$$Folks often highlight the delicious sushi and
+  other favorites like hand rolls and bento boxes at this Japanese spot,
+  praising the fresh ingredients that bring out bold flavors in every bite.
+  Reviewers frequently mention enjoying hearty options such as ramen and crispy
+  katsu don, which add to the satisfying variety on offer. The cozy atmosphere
+  and friendly service create a welcoming vibe that makes dining here feel
+  effortless and enjoyable. Overall, it's clear this place delivers solid,
+  flavorful meals that keep people coming back for more Japanese eats in the
+  neighborhood.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +238,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

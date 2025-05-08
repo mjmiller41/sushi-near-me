@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "CoCoLo Sushi"
+title: CoCoLo Sushi
 permalink: /delaware/bethany-beach/cocolo-sushi.html
 stateAbbr: DE
 stateName: Delaware
 cityName: Bethany Beach
 seo:
-  name: "CoCoLo Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://cocolosushi.com/
-description: "CoCoLo Sushi serves delicious sushi in Bethany Beach, Delaware. Try fresh Japanese dishes for a great dining experience. Available for takeout, and dinner."
 place_id: ChIJ11NJLQzOuIkRtfkdehrlVaU
 photos:
   - name: >-
@@ -183,6 +181,29 @@ price_range: null
 rating: '4.5'
 rating_count: 0
 website: http://cocolosushi.com/
+description: >-
+  Discover CoCoLo Sushi in Bethany Beach, DE$$$CoCoLo Sushi in Bethany Beach,
+  DE, stands out as a welcoming Japanese eatery specializing in fresh sushi and
+  creative specialty rolls, perfect for those seeking top-rated options nearby.
+  The spot offers a relaxed vibe with accessible features like
+  wheelchair-friendly parking and entrances, making it easy for everyone to
+  enjoy a meal. Diners can savor a variety of dishes, including inventive rolls
+  with unique ingredients, alongside options for beer, cocktails, and wine to
+  enhance the experience. This sushi destination also supports takeout and
+  reservations, adding convenience for locals and visitors exploring the best
+  sushi restaurants in the area.
+generative_summary: >-
+  Discover CoCoLo Sushi in Bethany Beach, DE$$$CoCoLo Sushi in Bethany Beach,
+  DE, stands out as a welcoming Japanese eatery specializing in fresh sushi and
+  creative specialty rolls, perfect for those seeking top-rated options nearby.
+  The spot offers a relaxed vibe with accessible features like
+  wheelchair-friendly parking and entrances, making it easy for everyone to
+  enjoy a meal. Diners can savor a variety of dishes, including inventive rolls
+  with unique ingredients, alongside options for beer, cocktails, and wine to
+  enhance the experience. This sushi destination also supports takeout and
+  reservations, adding convenience for locals and visitors exploring the best
+  sushi restaurants in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ11NJLQzOuIkRtfkdehrlVaU/reviews/ChZDSUhNMG9nS0VJQ0FnSUMzME5pbk5REAE
@@ -320,6 +341,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURBXzVHdFVBEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURBXzVHdFVBEAE!2m1!1s0x89b8ce0c2d4953d7:0xa555e51a7a1df9b5
+review_summary: >-
+  What Visitors Are Saying About the Experience$$$Visitors often praise the
+  incredibly fresh sushi and well-balanced flavors that make this spot a go-to
+  for satisfying meals in a casual setting. While some note occasional waits
+  during busier times, the overall consensus highlights the exceptional quality
+  of the dishes, with many calling it a must-try for anyone craving top-rated
+  sushi nearby. Feedback frequently mentions the comfortable atmosphere and
+  great add-ons like desserts, contributing to repeat visits from fans of
+  Japanese cuisine. Despite a few suggestions for smoother service, the generous
+  portions and inviting environment keep the vibe positive and worth
+  recommending for those hunting for reliable sushi places close to home.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -351,7 +384,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

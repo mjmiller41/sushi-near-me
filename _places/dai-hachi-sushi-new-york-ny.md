@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Dai Hachi Sushi"
+title: Dai Hachi Sushi
 permalink: /new-york/new-york/dai-hachi-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "Dai Hachi Sushi"
-  type: Restaurant
-  links: null
-description: "Dai Hachi Sushi serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.daihachiny.com/
 place_id: ChIJQ_TyS1ZZwokRkOjP0LEQSVc
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c259564bf2f443:0x574910b1d0cfe890!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 15
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 15
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 10:00 PM'
+    - 'Tuesday: 11:00 AM – 10:00 PM'
+    - 'Wednesday: 11:00 AM – 10:00 PM'
+    - 'Thursday: 11:00 AM – 10:00 PM'
+    - 'Friday: 11:00 AM – 10:00 PM'
+    - 'Saturday: 3:00 – 10:00 PM'
+    - 'Sunday: 3:00 – 10:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,51 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (212) 888-0788
+price_level: PRICE_LEVEL_MODERATE
+price_range: $30 &ndash; $50
+rating: '4.5'
+rating_count: 112
+website: http://www.daihachiny.com/
+description: >-
+  Discover Dai Hachi Sushi in New York, NY$$$Dai Hachi Sushi in New York, NY,
+  stands out as a welcoming spot for enjoying fresh Japanese cuisine in a
+  relaxed setting. This eatery specializes in a variety of sushi rolls, bento
+  boxes, and warm udon dishes, paired with options like sake for an authentic
+  touch. Visitors appreciate the moderate pricing and accessible features, such
+  as wheelchair-friendly entrances and seating, making it easy to savor a meal
+  in the heart of the city. The menu highlights creative flavors and quality
+  ingredients, ideal for those seeking a casual yet satisfying dining
+  experience. Whether you're in the mood for a quick lunch or an evening out,
+  this sushi destination offers a blend of tradition and convenience that keeps
+  locals coming back.
+generative_summary: >-
+  Discover Dai Hachi Sushi in New York, NY$$$Dai Hachi Sushi in New York, NY,
+  stands out as a welcoming spot for enjoying fresh Japanese cuisine in a
+  relaxed setting. This eatery specializes in a variety of sushi rolls, bento
+  boxes, and warm udon dishes, paired with options like sake for an authentic
+  touch. Visitors appreciate the moderate pricing and accessible features, such
+  as wheelchair-friendly entrances and seating, making it easy to savor a meal
+  in the heart of the city. The menu highlights creative flavors and quality
+  ingredients, ideal for those seeking a casual yet satisfying dining
+  experience. Whether you're in the mood for a quick lunch or an evening out,
+  this sushi destination offers a blend of tradition and convenience that keeps
+  locals coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Sushi Enthusiasts$$$If you're hunting for top-rated sushi spots
+  near you, folks often highlight the fresh flavors and generous portions at
+  this Japanese place as standout features. Many appreciate the welcoming vibe
+  and reliable service, noting that it's a solid choice for groups or solo
+  diners looking for something tasty without breaking the bank. While not every
+  visit is flawless, the overall consensus leans positive, with praise for the
+  variety of options like rolls and udon that cater to different tastes. It's
+  commonly mentioned that the moderate prices make it a go-to for everyday
+  meals, and the high ratings suggest it's worth trying if you're exploring
+  sushi restaurants in the area. All in all, this spot delivers a dependable
+  experience that leaves most people satisfied and eager to return for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +312,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

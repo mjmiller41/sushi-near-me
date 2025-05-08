@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Holic"
+title: Sushi Holic
 permalink: /california/novato/sushi-holic.html
 stateAbbr: CA
 stateName: California
 cityName: Novato
 seo:
-  name: "Sushi Holic"
-  type: Restaurant
+  type: restaurant
   links: https://www.sushiholicnovato.com/
-description: "Sushi Holic serves delicious sushi in Novato, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJv5cPJr-8hYARZ9a0RdRl-j8
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8085bcbf260f97bf:0x3ffa65d445b4d667!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 20
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 20
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 20
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 20
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 20
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 20
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 8:30 PM'
     - 'Tuesday: 11:30 AM – 8:30 PM'
     - 'Wednesday: 11:30 AM – 8:30 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 8:30 PM'
     - 'Saturday: 11:30 AM – 8:30 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:30 AM – 8:30 PM'
-    - 'Tuesday: 11:30 AM – 8:30 PM'
-    - 'Wednesday: 11:30 AM – 8:30 PM'
-    - 'Thursday: 11:30 AM – 8:30 PM'
-    - 'Friday: 11:30 AM – 8:30 PM'
-    - 'Saturday: 11:30 AM – 8:30 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T03:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +238,218 @@ phone: (415) 898-8500
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.2'
-rating_count: 0
+rating_count: 273
 website: https://www.sushiholicnovato.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Explore Sushi Holic in Novato, CA$$$Sushi Holic in Novato, CA, offers a
+  welcoming spot for enjoying fresh sushi and traditional Japanese dishes in a
+  casual, modern setting that appeals to families and sushi enthusiasts alike.
+  This spot highlights a variety of creative rolls and classic plates, making it
+  a go-to choice for those seeking authentic flavors in a comfortable
+  atmosphere. With accessibility features like wheelchair-friendly entrances and
+  parking, it's designed to accommodate everyone looking for a relaxed dining
+  experience. The restaurant also serves up options like sake and beer,
+  enhancing the meal for those exploring Japanese cuisine nearby. Operating from
+  late morning into the evening most days, it's an ideal stop for anyone
+  searching for top-rated sushi places near me.
+generative_summary: >-
+  Explore Sushi Holic in Novato, CA$$$Sushi Holic in Novato, CA, offers a
+  welcoming spot for enjoying fresh sushi and traditional Japanese dishes in a
+  casual, modern setting that appeals to families and sushi enthusiasts alike.
+  This spot highlights a variety of creative rolls and classic plates, making it
+  a go-to choice for those seeking authentic flavors in a comfortable
+  atmosphere. With accessibility features like wheelchair-friendly entrances and
+  parking, it's designed to accommodate everyone looking for a relaxed dining
+  experience. The restaurant also serves up options like sake and beer,
+  enhancing the meal for those exploring Japanese cuisine nearby. Operating from
+  late morning into the evening most days, it's an ideal stop for anyone
+  searching for top-rated sushi places near me.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJv5cPJr-8hYARZ9a0RdRl-j8/reviews/ChZDSUhNMG9nS0VJQ0FnSURya1o3RWV3EAE
+    relativePublishTimeDescription: 9 months ago
+    rating: 5
+    text:
+      text: >-
+        The service was excellent, presentation of the food was also excellent
+        and the creativity and flavor was outstanding. All the food we ordered
+        was outstanding and the crispy salmon skin roll was unique and a
+        standout. It was slightly smoky, nicely textured and delicious. The
+        fried tofu with bonito flakes was also a real treat.
+      languageCode: en
+    originalText:
+      text: >-
+        The service was excellent, presentation of the food was also excellent
+        and the creativity and flavor was outstanding. All the food we ordered
+        was outstanding and the crispy salmon skin roll was unique and a
+        standout. It was slightly smoky, nicely textured and delicious. The
+        fried tofu with bonito flakes was also a real treat.
+      languageCode: en
+    authorAttribution:
+      displayName: Bryan Agan
+      uri: https://www.google.com/maps/contrib/116860977419678193498/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIhztX5dieEByat7EKy7wUhbqeBlELxtmJ-5QxEnZ_qwswubw=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-07-18T04:38:44.006812Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURya1o3RWV3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURya1o3RWV3EAE!2m1!1s0x8085bcbf260f97bf:0x3ffa65d445b4d667
+  - name: >-
+      places/ChIJv5cPJr-8hYARZ9a0RdRl-j8/reviews/ChZDSUhNMG9nS0VJQ0FnTUNvLUt1LVNREAE
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        I had the Reign of Fire roll both times I went here, first for my
+        birthday, then dragged a friend her for *her* birthday. It is not "fire"
+        because it's spicy, it's the other kind of fire. It may be quite awhile
+        before I tire of it enough to give their other selections a chance.
+      languageCode: en
+    originalText:
+      text: >-
+        I had the Reign of Fire roll both times I went here, first for my
+        birthday, then dragged a friend her for *her* birthday. It is not "fire"
+        because it's spicy, it's the other kind of fire. It may be quite awhile
+        before I tire of it enough to give their other selections a chance.
+      languageCode: en
+    authorAttribution:
+      displayName: Juanita Watkins
+      uri: https://www.google.com/maps/contrib/100749945747088730099/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXUGkhCSb4RR-07psVrvFhEiSrTTpHQJuJDTdWAlm6ErYL8A6Et=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-15T04:07:40.889220Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNvLUt1LVNREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNvLUt1LVNREAE!2m1!1s0x8085bcbf260f97bf:0x3ffa65d445b4d667
+  - name: >-
+      places/ChIJv5cPJr-8hYARZ9a0RdRl-j8/reviews/ChZDSUhNMG9nS0VJQ0FnSUNfLUxPZEFnEAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 4
+    text:
+      text: >-
+        The volcano roll was really good and wholesome. One roll we had had an
+        over-salted fish that made it less pleasant to eat. Overall good sushi
+        and clean place
+      languageCode: en
+    originalText:
+      text: >-
+        The volcano roll was really good and wholesome. One roll we had had an
+        over-salted fish that made it less pleasant to eat. Overall good sushi
+        and clean place
+      languageCode: en
+    authorAttribution:
+      displayName: Omar Al
+      uri: https://www.google.com/maps/contrib/110696943352917317401/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjU-8XoxZUzIfQuP91-fpP1AbRiF6IBg_L74SlSgThJU-lsJSrDo=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-01-12T19:30:13.141995Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNfLUxPZEFnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNfLUxPZEFnEAE!2m1!1s0x8085bcbf260f97bf:0x3ffa65d445b4d667
+  - name: >-
+      places/ChIJv5cPJr-8hYARZ9a0RdRl-j8/reviews/ChdDSUhNMG9nS0VJQ0FnTURnck5XNW5RRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 2
+    text:
+      text: >-
+        Don't order to go from this restaurant.  Food is good, but they mess up
+        order.  Last time, I order a bunch of sushi (~$190), including two
+        unagi.  I got rice balls instead of the unagi.
+      languageCode: en
+    originalText:
+      text: >-
+        Don't order to go from this restaurant.  Food is good, but they mess up
+        order.  Last time, I order a bunch of sushi (~$190), including two
+        unagi.  I got rice balls instead of the unagi.
+      languageCode: en
+    authorAttribution:
+      displayName: Jack Jones
+      uri: https://www.google.com/maps/contrib/112277694729314015271/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXd0U224kDgk1vuYWMxx8A8u2YuQ8-JoK37Pc2JX0mk6BvS3-pC=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-02-23T02:14:13.875854Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURnck5XNW5RRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURnck5XNW5RRRAB!2m1!1s0x8085bcbf260f97bf:0x3ffa65d445b4d667
+  - name: >-
+      places/ChIJv5cPJr-8hYARZ9a0RdRl-j8/reviews/ChdDSUhNMG9nS0VJQ0FnSURmdDlyUDhnRRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        Love this place....everything tastes great but if all you want is flying
+        fish roe and edamame with a cup of tea they still treat you just as well
+        as they would if you were ordering 10 rolls and 2 bottles of sake
+      languageCode: en
+    originalText:
+      text: >-
+        Love this place....everything tastes great but if all you want is flying
+        fish roe and edamame with a cup of tea they still treat you just as well
+        as they would if you were ordering 10 rolls and 2 bottles of sake
+      languageCode: en
+    authorAttribution:
+      displayName: Alexandria Biasotti
+      uri: https://www.google.com/maps/contrib/105436970610157347329/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUguAerFDbsJKHaDnM-stzGr2_ygrHBS6yE7J1JsNlOmdy22R4=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-01-10T23:09:02.782162Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURmdDlyUDhnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURmdDlyUDhnRRAB!2m1!1s0x8085bcbf260f97bf:0x3ffa65d445b4d667
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors to this sushi spot often rave about
+  the flavorful rolls and attentive service that make every meal feel special
+  and satisfying. Many appreciate the creative twists on traditional dishes,
+  like unique rolls that stand out for their texture and taste, while noting the
+  welcoming vibe even for smaller orders. While most experiences highlight fresh
+  ingredients and a clean environment, a few mentions of occasional order
+  mix-ups with takeout suggest room for improvement in accuracy. Overall, it's a
+  solid pick for anyone craving quality Japanese fare, with the majority of
+  comments leaning positive on the variety and execution. If you're hunting for
+  sushi restaurants near me, this place delivers a generally enjoyable
+  experience worth trying out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
+delivery: true
+dine_in: true
 good_for_children: null
 good_for_groups: null
 good_for_sports: null
-live_music: null
-menu_for_children: null
+live_music: false
+menu_for_children: false
 outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: false
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Sushi specialties, traditional Japanese plates & sake offered in a casual,
+  contemporary space.
 
 ---

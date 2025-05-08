@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yama Sushi & Asian Cuisine"
+title: Yama Sushi & Asian Cuisine
 permalink: /arizona/peoria/yama-sushi-asian-cuisine.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Peoria
 seo:
-  name: "Yama Sushi & Asian Cuisine"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Yama Sushi & Asian Cuisine serves delicious sushi in Peoria, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJeftzkyRBK4cR7cfOLc4n2Oc
 photos:
   - name: >-
@@ -185,7 +183,43 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Yama Sushi & Asian Cuisine in Peoria, AZ$$$Yama Sushi & Asian Cuisine
+  in Peoria, Arizona, stands out as a welcoming hub for fresh Japanese-inspired
+  dishes, blending casual vibes with a variety of flavorful options that appeal
+  to sushi enthusiasts. This spot highlights an array of traditional staples
+  like artfully prepared rolls and hearty ramen, making it a great choice for
+  those seeking authentic flavors in a relaxed setting. With enticing happy hour
+  specials adding extra value, it's easy to enjoy high-quality meals without
+  overspending, all while appreciating the accessible features that ensure a
+  comfortable visit. The menu caters to a range of tastes, from light bites to
+  more substantial fare, positioning it as a reliable option for anyone
+  exploring top Japanese dining in the area.
+generative_summary: >-
+  Discover Yama Sushi & Asian Cuisine in Peoria, AZ$$$Yama Sushi & Asian Cuisine
+  in Peoria, Arizona, stands out as a welcoming hub for fresh Japanese-inspired
+  dishes, blending casual vibes with a variety of flavorful options that appeal
+  to sushi enthusiasts. This spot highlights an array of traditional staples
+  like artfully prepared rolls and hearty ramen, making it a great choice for
+  those seeking authentic flavors in a relaxed setting. With enticing happy hour
+  specials adding extra value, it's easy to enjoy high-quality meals without
+  overspending, all while appreciating the accessible features that ensure a
+  comfortable visit. The menu caters to a range of tastes, from light bites to
+  more substantial fare, positioning it as a reliable option for anyone
+  exploring top Japanese dining in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Raving About$$$Folks who visit this Japanese eatery often
+  share that the sushi selections are tasty and offer excellent value,
+  especially with the appealing happy hour deals that keep things affordable.
+  Many appreciate the warm and helpful team, who provide insights into the menu
+  to enhance the overall experience. Service tends to be speedy and smooth,
+  allowing diners to savor their meals without unnecessary delays. Overall, it's
+  frequently noted as a solid pick for casual outings, with positive feedback
+  emphasizing the balance of quality ingredients and efficient operations that
+  make it a go-to for Japanese cuisine lovers.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +245,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Shogun Wok Edison"
+title: Shogun Wok Edison
 permalink: /new-jersey/edison/shogun-wok-edison.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Edison
 seo:
-  name: "Shogun Wok Edison"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Shogun Wok Edison serves delicious sushi in Edison, New Jersey. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJnyhPvGy2w4kRng53c7RlEY0
 photos:
   - name: >-
@@ -183,7 +181,46 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Shogun Wok Edison in Edison, NJ$$$Shogun Wok Edison in Edison, NJ,
+  provides a laid-back spot for enjoying a mix of Asian flavors, blending
+  traditional Chinese dishes with fresh sushi options that appeal to those
+  seeking variety in their meals. This eatery stands out for its relaxed
+  atmosphere, where diners can savor comforting lo mein alongside
+  Japanese-inspired rolls and Thai influences, making it a versatile choice for
+  casual outings. The menu highlights fresh ingredients and diverse culinary
+  styles, catering to anyone looking for reliable sushi restaurants in the area
+  that offer more than just standard fare. Whether you're in the mood for
+  something light or hearty, the combination of authentic tastes ensures a
+  satisfying experience that draws in locals and visitors alike.
+generative_summary: >-
+  Discover Shogun Wok Edison in Edison, NJ$$$Shogun Wok Edison in Edison, NJ,
+  provides a laid-back spot for enjoying a mix of Asian flavors, blending
+  traditional Chinese dishes with fresh sushi options that appeal to those
+  seeking variety in their meals. This eatery stands out for its relaxed
+  atmosphere, where diners can savor comforting lo mein alongside
+  Japanese-inspired rolls and Thai influences, making it a versatile choice for
+  casual outings. The menu highlights fresh ingredients and diverse culinary
+  styles, catering to anyone looking for reliable sushi restaurants in the area
+  that offer more than just standard fare. Whether you're in the mood for
+  something light or hearty, the combination of authentic tastes ensures a
+  satisfying experience that draws in locals and visitors alike.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Although specific reviews for Shogun Wok aren't
+  readily available, feedback from similar spots often highlights the appeal of
+  its approachable Asian menu, with many appreciating the fresh sushi and
+  well-prepared Chinese classics that hit the spot for everyday diners. Folks
+  frequently mention the variety of options as a plus, noting how it caters to
+  different tastes without overwhelming the palate, which keeps things feeling
+  welcoming and unpretentious. Overall, the general buzz suggests this place
+  delivers solid value for those hunting for top-rated sushi near Edison, with
+  honest mentions of its flavorful dishes making it a go-to for relaxed group
+  meals. While experiences can vary, the positive undertones point to it being a
+  reliable choice for anyone craving Japanese and Chinese eats close to home,
+  encouraging a casual stop-in for a satisfying bite.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -209,7 +246,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

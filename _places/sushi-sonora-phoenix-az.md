@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Sonora"
+title: Sushi Sonora
 permalink: /arizona/phoenix/sushi-sonora.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Phoenix
 seo:
-  name: "Sushi Sonora"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi Sonora serves delicious sushi in Phoenix, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ6z-ck9oNK4cRpi3UVYAhhx8
 photos:
   - name: >-
@@ -185,7 +183,47 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Sushi Sonora in Phoenix, Arizona$$$Nestled in the heart of Phoenix,
+  Arizona, Sushi Sonora stands out as a unique sushi restaurant blending
+  traditional flavors with a fresh twist. This low-key spot specializes in
+  Sonoran-style sushi, featuring creative rolls that incorporate local
+  influences alongside classic preparations, making it a go-to choice for those
+  seeking authentic yet innovative dining experiences. The menu extends beyond
+  sushi to include a mix of American and Mexican dishes, offering a diverse
+  array of options that cater to various tastes and preferences. With its
+  accessible location and welcoming atmosphere, it's an ideal spot for anyone
+  exploring sushi restaurants in the area, providing a casual yet satisfying
+  meal that highlights fresh ingredients and thoughtful presentations.
+generative_summary: >-
+  Discover Sushi Sonora in Phoenix, Arizona$$$Nestled in the heart of Phoenix,
+  Arizona, Sushi Sonora stands out as a unique sushi restaurant blending
+  traditional flavors with a fresh twist. This low-key spot specializes in
+  Sonoran-style sushi, featuring creative rolls that incorporate local
+  influences alongside classic preparations, making it a go-to choice for those
+  seeking authentic yet innovative dining experiences. The menu extends beyond
+  sushi to include a mix of American and Mexican dishes, offering a diverse
+  array of options that cater to various tastes and preferences. With its
+  accessible location and welcoming atmosphere, it's an ideal spot for anyone
+  exploring sushi restaurants in the area, providing a casual yet satisfying
+  meal that highlights fresh ingredients and thoughtful presentations.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Visitor Experiences$$$Feedback from those who've visited Sushi
+  Sonora often highlights the appeal of its inventive Sonoran-style sushi, with
+  many appreciating the fresh flavors and unique fusion elements that set it
+  apart from typical options. People frequently note the variety of dishes,
+  including American and Mexican influences, as a welcoming change that makes it
+  easy to find something for everyone, contributing to a relaxed and enjoyable
+  vibe. While specific ratings aren't widely available, the general consensus
+  leans positive, emphasizing the restaurant's accessibility and solid execution
+  of creative cuisine as reasons to return. Overall, it's described as a
+  dependable choice for casual sushi lovers, with comments suggesting it's worth
+  trying for its approachable take on top-rated sushi near Phoenix. Keep in mind
+  that experiences can vary, so it's always a good idea to check for the latest
+  from fellow diners when planning your visit.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +249,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

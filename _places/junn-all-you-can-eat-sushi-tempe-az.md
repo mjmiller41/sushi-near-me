@@ -1,15 +1,14 @@
 ---
 layout: place
-title: "Junn All You Can Eat Sushi"
+title: Junn All You Can Eat Sushi
 permalink: /arizona/tempe/junn-all-you-can-eat-sushi.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Tempe
 seo:
-  name: "Junn All You Can Eat Sushi"
-  type: Restaurant
-  links: https://www.junnsushi.com/?utm_source=local&utm_medium=organic&utm_campaign=gmb
-description: "Junn All You Can Eat Sushi serves delicious sushi in Tempe, Arizona. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: >-
+    https://www.junnsushi.com/?utm_source=local&utm_medium=organic&utm_campaign=gmb
 place_id: ChIJR8SfOekJK4cRx7JfG8l8gno
 photos:
   - name: >-
@@ -170,7 +169,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x872b09e9399fc447:0x7a827cc91b5fb2c7!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 10:00 PM'
     - 'Tuesday: 11:00 AM – 10:00 PM'
     - 'Wednesday: 11:00 AM – 10:00 PM'
@@ -178,14 +235,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:00 PM'
     - 'Saturday: 11:00 AM – 10:00 PM'
     - 'Sunday: 11:00 AM – 10:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 10:00 PM'
-    - 'Tuesday: 11:00 AM – 10:00 PM'
-    - 'Wednesday: 11:00 AM – 10:00 PM'
-    - 'Thursday: 11:00 AM – 10:00 PM'
-    - 'Friday: 11:00 AM – 10:00 PM'
-    - 'Saturday: 11:00 AM – 10:00 PM'
-    - 'Sunday: 11:00 AM – 10:00 PM'
+  nextCloseTime: '2025-05-04T05:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,10 +247,50 @@ phone: (480) 659-6114
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.4'
-rating_count: 0
+rating_count: 1990
 website: >-
   https://www.junnsushi.com/?utm_source=local&utm_medium=organic&utm_campaign=gmb
+description: >-
+  Discover Junn All You Can Eat Sushi in Tempe, AZ$$$Nestled in the heart of
+  Tempe, AZ, Junn All You Can Eat Sushi stands out as a go-to spot for fresh
+  sushi and Japanese dishes, offering a relaxed atmosphere perfect for casual
+  dining. This inviting restaurant features an all-you-can-eat selection that
+  highlights a variety of rolls, nigiri, and traditional fare, making it ideal
+  for those searching for top-rated sushi options nearby. With its accessible
+  design and extended hours from morning until late evening, it's easy to enjoy
+  a satisfying meal whether you're stopping by for lunch or dinner. The menu
+  emphasizes quality ingredients and diverse choices, appealing to anyone
+  exploring Japanese places near me for an authentic yet approachable
+  experience. Overall, it's a welcoming venue that combines affordability with
+  flavorful options to create memorable meals.
+generative_summary: >-
+  Discover Junn All You Can Eat Sushi in Tempe, AZ$$$Nestled in the heart of
+  Tempe, AZ, Junn All You Can Eat Sushi stands out as a go-to spot for fresh
+  sushi and Japanese dishes, offering a relaxed atmosphere perfect for casual
+  dining. This inviting restaurant features an all-you-can-eat selection that
+  highlights a variety of rolls, nigiri, and traditional fare, making it ideal
+  for those searching for top-rated sushi options nearby. With its accessible
+  design and extended hours from morning until late evening, it's easy to enjoy
+  a satisfying meal whether you're stopping by for lunch or dinner. The menu
+  emphasizes quality ingredients and diverse choices, appealing to anyone
+  exploring Japanese places near me for an authentic yet approachable
+  experience. Overall, it's a welcoming venue that combines affordability with
+  flavorful options to create memorable meals.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About the Experience$$$Visitors often praise the
+  wide array of sushi rolls, nigiri, and tasty appetizers like edamame and
+  seaweed salad, making it a solid choice for anyone craving variety at a sushi
+  restaurant. The all-you-can-eat deal stands out for its great value and
+  reasonable prices, drawing in groups and families looking for a fun, casual
+  outing. While some note that wait times for food can occasionally stretch a
+  bit, the attentive service and overall vibe keep the energy positive and
+  engaging. Many appreciate how this spot delivers on fresh flavors and
+  affordability, encouraging repeat visits for those seeking the best sushi near
+  me. In the end, it's a reliable option that balances enjoyment with honest,
+  everyday appeal, leaving diners satisfied with their experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -226,7 +316,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

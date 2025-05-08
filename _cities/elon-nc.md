@@ -5,4 +5,5 @@ permalink: /north-carolina/elon/
 stateAbbr: NC
 stateName: North Carolina
 cityName: Elon
+
 ---

@@ -5,4 +5,5 @@ permalink: /california/laguna-niguel/
 stateAbbr: CA
 stateName: California
 cityName: Laguna Niguel
+
 ---

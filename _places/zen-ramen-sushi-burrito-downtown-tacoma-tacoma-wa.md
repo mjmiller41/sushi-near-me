@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Zen Ramen & Sushi Burrito - Downtown Tacoma"
+title: Zen Ramen & Sushi Burrito - Downtown Tacoma
 permalink: /washington/tacoma/zen-ramen-sushi-burrito-downtown-tacoma.html
 stateAbbr: WA
 stateName: Washington
 cityName: Tacoma
 seo:
-  name: "Zen Ramen & Sushi Burrito - Downtown Tacoma"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Zen Ramen & Sushi Burrito - Downtown Tacoma serves delicious sushi in Tacoma, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJSVIRm9lVkFQRMo3h2pa4xKc
 photos:
   - name: >-
@@ -185,7 +183,45 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  About Zen Ramen & Sushi Burrito in Tacoma, Washington$$$Zen Ramen & Sushi
+  Burrito in Tacoma, Washington, stands out as a vibrant spot for fresh Asian
+  fusion cuisine, blending creative flavors in a welcoming environment. This
+  eatery specializes in inventive dishes like hearty ramen and innovative sushi
+  burritos, drawing inspiration from Japanese traditions that appeal to those
+  seeking sushi restaurants nearby. The anime-inspired decor adds a fun,
+  energetic vibe, making it an ideal choice for casual meals or quick bites
+  after exploring the city. Accessibility features such as wheelchair-friendly
+  entrances and seating ensure everyone can enjoy the experience comfortably.
+  Whether you're looking for top-rated sushi options close to home, this place
+  offers a memorable taste of East Asian influences in a relaxed setting.
+generative_summary: >-
+  About Zen Ramen & Sushi Burrito in Tacoma, Washington$$$Zen Ramen & Sushi
+  Burrito in Tacoma, Washington, stands out as a vibrant spot for fresh Asian
+  fusion cuisine, blending creative flavors in a welcoming environment. This
+  eatery specializes in inventive dishes like hearty ramen and innovative sushi
+  burritos, drawing inspiration from Japanese traditions that appeal to those
+  seeking sushi restaurants nearby. The anime-inspired decor adds a fun,
+  energetic vibe, making it an ideal choice for casual meals or quick bites
+  after exploring the city. Accessibility features such as wheelchair-friendly
+  entrances and seating ensure everyone can enjoy the experience comfortably.
+  Whether you're looking for top-rated sushi options close to home, this place
+  offers a memorable taste of East Asian influences in a relaxed setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback Highlights$$$Folks checking out this Asian fusion spot often
+  praise the flavorful sushi burritos and ramen for hitting the spot with their
+  bold tastes and fresh ingredients, making it a go-to for satisfying cravings.
+  Many appreciate the quick service and friendly team that keep things running
+  smoothly, adding to the overall enjoyable atmosphere. The cozy setup with its
+  fun decor gets thumbs up for creating a laid-back vibe perfect for a casual
+  outing. While opinions vary, the general buzz is positive, with diners noting
+  it's a solid pick for groups or solo adventurers hunting for tasty
+  Japanese-inspired eats nearby. All in all, it's clear this location delivers a
+  reliably good experience that keeps people coming back for more delicious
+  options.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +247,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

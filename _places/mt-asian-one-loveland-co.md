@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Mt Asian One"
+title: Mt Asian One
 permalink: /colorado/loveland/mt-asian-one.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Loveland
 seo:
-  name: "Mt Asian One"
-  type: Restaurant
+  type: restaurant
   links: https://www.mtasianoneloveland.com/
-description: "Mt Asian One serves delicious sushi in Loveland, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJeUi8t_xTaYcRVZtkONiToCE
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x876953fcb7bc4879:0x21a093d838649b55!10e5
 primary_type: Asian Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:30 PM'
     - 'Saturday: 11:00 AM – 9:30 PM'
     - 'Sunday: 11:00 AM – 9:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 9:30 PM'
-    - 'Saturday: 11:00 AM – 9:30 PM'
-    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T03:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +238,284 @@ phone: (970) 966-7611
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.6'
-rating_count: 0
+rating_count: 409
 website: https://www.mtasianoneloveland.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Mt Asian One in Loveland, CO$$$Mt Asian One in Loveland, CO, stands
+  out as a welcoming Asian bistro offering a blend of Chinese and Japanese
+  flavors, perfect for those seeking sushi restaurants nearby. With its stylish
+  ambiance and diverse menu featuring fresh sushi rolls, hearty ramen, and
+  flavorful pad thai, it caters to a variety of tastes for casual diners and
+  groups alike. The spot emphasizes accessibility with wheelchair-friendly
+  features and ample parking, making it easy to enjoy a meal without hassle.
+  Open for lunch and dinner most days, it provides generous portions at moderate
+  prices, ideal for anyone exploring top-rated Asian cuisine in the area.
+  Whether you're in the mood for authentic dishes or just a quick bite, this
+  location delivers a satisfying experience that highlights quality and variety.
+generative_summary: >-
+  Discover Mt Asian One in Loveland, CO$$$Mt Asian One in Loveland, CO, stands
+  out as a welcoming Asian bistro offering a blend of Chinese and Japanese
+  flavors, perfect for those seeking sushi restaurants nearby. With its stylish
+  ambiance and diverse menu featuring fresh sushi rolls, hearty ramen, and
+  flavorful pad thai, it caters to a variety of tastes for casual diners and
+  groups alike. The spot emphasizes accessibility with wheelchair-friendly
+  features and ample parking, making it easy to enjoy a meal without hassle.
+  Open for lunch and dinner most days, it provides generous portions at moderate
+  prices, ideal for anyone exploring top-rated Asian cuisine in the area.
+  Whether you're in the mood for authentic dishes or just a quick bite, this
+  location delivers a satisfying experience that highlights quality and variety.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJeUi8t_xTaYcRVZtkONiToCE/reviews/ChdDSUhNMG9nS0VJQ0FnTUNBcXVLTm93RRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        Convenient location and parking lot, upscale and clean atmosphere, and
+        delicious food!
+
+
+        Generous portions of fresh and tasty meals prepared quickly for you.
+        Great service! Fried food is not greasy, but crispy, tasty, and fresh!
+        Plenty of selections, including homemade sushi. And it is very
+        affordable!
+
+
+        For the special Chinese dishes, ask them for the special Chinese menu!!
+        (Written in Chinese only!)
+
+
+        Highly recommend!!!
+      languageCode: en
+    originalText:
+      text: >-
+        Convenient location and parking lot, upscale and clean atmosphere, and
+        delicious food!
+
+
+        Generous portions of fresh and tasty meals prepared quickly for you.
+        Great service! Fried food is not greasy, but crispy, tasty, and fresh!
+        Plenty of selections, including homemade sushi. And it is very
+        affordable!
+
+
+        For the special Chinese dishes, ask them for the special Chinese menu!!
+        (Written in Chinese only!)
+
+
+        Highly recommend!!!
+      languageCode: en
+    authorAttribution:
+      displayName: Sokserey Tao
+      uri: https://www.google.com/maps/contrib/112708350766974325448/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVpKrkuM_ZrG_LBi6vDYAuQ-BMXhGsQo3oZnZYowPQKII-u__nQ=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-01-30T22:41:47.948260Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNBcXVLTm93RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNBcXVLTm93RRAB!2m1!1s0x876953fcb7bc4879:0x21a093d838649b55
+  - name: >-
+      places/ChIJeUi8t_xTaYcRVZtkONiToCE/reviews/ChZDSUhNMG9nS0VJQ0FnTURJeU92Q01nEAE
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 5
+    text:
+      text: >-
+        This is my favorite sushi place in NOCO. Not only is the food always
+        fresh and well prepared with excellent presentation, the family-owned
+        atmosphere feels like home. The owners are always welcoming and so
+        lovely. Recommend 10/10 always!
+      languageCode: en
+    originalText:
+      text: >-
+        This is my favorite sushi place in NOCO. Not only is the food always
+        fresh and well prepared with excellent presentation, the family-owned
+        atmosphere feels like home. The owners are always welcoming and so
+        lovely. Recommend 10/10 always!
+      languageCode: en
+    authorAttribution:
+      displayName: Sarah Edgerton
+      uri: https://www.google.com/maps/contrib/106719043535221782995/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocK85BRMyFUKaYuxaWiNV8kILixt9J-9uReThklp2OAFapvT5g=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-06T16:04:14.141566Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURJeU92Q01nEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJeU92Q01nEAE!2m1!1s0x876953fcb7bc4879:0x21a093d838649b55
+  - name: >-
+      places/ChIJeUi8t_xTaYcRVZtkONiToCE/reviews/ChZDSUhNMG9nS0VJQ0FnSUN2ajRyVkR3EAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        This is by far one of the best Asian restaurants I’ve ever been to! It
+        definitely deserved a review.
+
+        The food is all delicious! For starters, the inside of the restaurant is
+        beautiful. We came in during dinner time. The hot and sour soup was
+        perfectly hot in temperature as it should be! My partner and I ordered
+        the sesame chicken and chicken and beef lo mein! The portions were so
+        big which makes me happy because I love taking leftovers.
+
+
+        The sesame chicken was still crispy and I love that the chicken wasn’t
+        overly battered my partner loved his sesame chicken!
+
+        The Lomein was so delicious it came in a very generous portion. I am so
+        happy to of made the trip here even though it’s 50 minutes away from my
+        home I will definitely be back to try other things on the menu!
+
+        5 stars for me ! ⭐️⭐️⭐️⭐️⭐️
+      languageCode: en
+    originalText:
+      text: >-
+        This is by far one of the best Asian restaurants I’ve ever been to! It
+        definitely deserved a review.
+
+        The food is all delicious! For starters, the inside of the restaurant is
+        beautiful. We came in during dinner time. The hot and sour soup was
+        perfectly hot in temperature as it should be! My partner and I ordered
+        the sesame chicken and chicken and beef lo mein! The portions were so
+        big which makes me happy because I love taking leftovers.
+
+
+        The sesame chicken was still crispy and I love that the chicken wasn’t
+        overly battered my partner loved his sesame chicken!
+
+        The Lomein was so delicious it came in a very generous portion. I am so
+        happy to of made the trip here even though it’s 50 minutes away from my
+        home I will definitely be back to try other things on the menu!
+
+        5 stars for me ! ⭐️⭐️⭐️⭐️⭐️
+      languageCode: en
+    authorAttribution:
+      displayName: Amy onate
+      uri: https://www.google.com/maps/contrib/105037172546957546409/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWTrJQGpYPLAWMBhNL6Munbokp-bHSjAh-YC0Hss4ZFvT1_9a7AbA=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-12-15T21:03:42.240090Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN2ajRyVkR3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN2ajRyVkR3EAE!2m1!1s0x876953fcb7bc4879:0x21a093d838649b55
+  - name: >-
+      places/ChIJeUi8t_xTaYcRVZtkONiToCE/reviews/ChZDSUhNMG9nS0VJQ0FnTURveVl6TlhBEAE
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        The service is excellent, and even better, the food! Holy Toledo, do
+        yourself a favor? Skip Panda Express across the street and give this
+        place a try! The portions are plentiful, the boba teas exquisite, the
+        staff members are on it, and the bathrooms are clean! Love having this
+        place in town.
+      languageCode: en
+    originalText:
+      text: >-
+        The service is excellent, and even better, the food! Holy Toledo, do
+        yourself a favor? Skip Panda Express across the street and give this
+        place a try! The portions are plentiful, the boba teas exquisite, the
+        staff members are on it, and the bathrooms are clean! Love having this
+        place in town.
+      languageCode: en
+    authorAttribution:
+      displayName: Stephanie Gallegos
+      uri: https://www.google.com/maps/contrib/111215739592161430968/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVFaRC1FSgNVOPZsM5oLK9-wrxuKA3PdvA-xdvrBokqcCh87zZx=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-04-26T06:47:16.103847Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURveVl6TlhBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURveVl6TlhBEAE!2m1!1s0x876953fcb7bc4879:0x21a093d838649b55
+  - name: >-
+      places/ChIJeUi8t_xTaYcRVZtkONiToCE/reviews/ChZDSUhNMG9nS0VJQ0FnSURQbmNiTGFREAE
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        We went here for lunch and the food and service were terrific. I
+        recommend asking them for their "secret menu," which contains a dish
+        with fish in a Szechuan peppercorn sauce that was really outstanding.
+        Mapo tofu and beef drunken noodles were also very good. I went with my
+        old friend from China, and he and the server (Kimi I believe) were going
+        back and forth in Mandarin. Our dishes seemed very authentic. Service
+        was great, too.
+
+
+        Recommended
+      languageCode: en
+    originalText:
+      text: >-
+        We went here for lunch and the food and service were terrific. I
+        recommend asking them for their "secret menu," which contains a dish
+        with fish in a Szechuan peppercorn sauce that was really outstanding.
+        Mapo tofu and beef drunken noodles were also very good. I went with my
+        old friend from China, and he and the server (Kimi I believe) were going
+        back and forth in Mandarin. Our dishes seemed very authentic. Service
+        was great, too.
+
+
+        Recommended
+      languageCode: en
+    authorAttribution:
+      displayName: Nate Perkins
+      uri: https://www.google.com/maps/contrib/108590758608704654831/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXHwH8yEfrcbBUX7mAxIiAP1i3dELZ7vtfj2kuvTwTSLl3xJjv7=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-12-04T21:27:56.064097Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURQbmNiTGFREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURQbmNiTGFREAE!2m1!1s0x876953fcb7bc4879:0x21a093d838649b55
+review_summary: >-
+  What Customers Are Saying$$$Visitors consistently praise the fresh and
+  well-prepared dishes at this sushi spot, noting the generous portions and
+  excellent presentation that make every meal feel special. Many highlight the
+  welcoming atmosphere and attentive service, which add to the overall enjoyment
+  of dining here, especially for families or groups looking for a relaxed vibe.
+  Folks often mention the variety of options, from crispy appetizers to standout
+  entrees, as reasons they keep coming back for more. Overall, the feedback
+  reflects high satisfaction with the flavors and affordability, making it a
+  go-to choice for anyone searching for top-rated sushi near them. While
+  experiences can vary, the positive buzz around the food and service suggests
+  it's worth trying for a delightful outing.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: true
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
 serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+serves_brunch: false
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

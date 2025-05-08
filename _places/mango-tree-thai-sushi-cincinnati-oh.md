@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Mango Tree Thai & Sushi"
+title: Mango Tree Thai & Sushi
 permalink: /ohio/cincinnati/mango-tree-thai-sushi.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Cincinnati
 seo:
-  name: "Mango Tree Thai & Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.mangotreemariemont.com/
-description: "Modern storefront cafe mixing classic Thai & other Asian eats including sushi for dine-in or to-go. Mango Tree Thai & Sushi serves delicious sushi in Cincinnati, Ohio. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJzRqKEIisQYgR-cN3zG3he6Q
 photos:
   - name: >-
@@ -185,6 +183,35 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 0
 website: http://www.mangotreemariemont.com/
+description: >-
+  Discover Mango Tree Thai & Sushi in Cincinnati, OH$$$Nestled in Cincinnati,
+  OH, Mango Tree Thai & Sushi offers a delightful blend of authentic Thai dishes
+  and fresh sushi options in a welcoming, casual setting perfect for a relaxed
+  meal. This spot stands out for its flavorful Thai fare, including expertly
+  prepared sushi rolls and traditional favorites, all served with options for
+  dine-in or convenient takeout to suit any dining preference. Visitors
+  appreciate the accessible features like wheelchair-friendly entrances and
+  parking, making it easy for everyone to enjoy the vibrant atmosphere and
+  outdoor seating. The restaurant emphasizes fresh ingredients and a variety of
+  vegetarian choices, appealing to those seeking quality Asian cuisine in a
+  moderately priced environment. Whether you're exploring sushi restaurants
+  nearby or craving Thai-inspired flavors, this location delivers a satisfying
+  experience with its cozy vibe and thoughtful menu selections.
+generative_summary: >-
+  Discover Mango Tree Thai & Sushi in Cincinnati, OH$$$Nestled in Cincinnati,
+  OH, Mango Tree Thai & Sushi offers a delightful blend of authentic Thai dishes
+  and fresh sushi options in a welcoming, casual setting perfect for a relaxed
+  meal. This spot stands out for its flavorful Thai fare, including expertly
+  prepared sushi rolls and traditional favorites, all served with options for
+  dine-in or convenient takeout to suit any dining preference. Visitors
+  appreciate the accessible features like wheelchair-friendly entrances and
+  parking, making it easy for everyone to enjoy the vibrant atmosphere and
+  outdoor seating. The restaurant emphasizes fresh ingredients and a variety of
+  vegetarian choices, appealing to those seeking quality Asian cuisine in a
+  moderately priced environment. Whether you're exploring sushi restaurants
+  nearby or craving Thai-inspired flavors, this location delivers a satisfying
+  experience with its cozy vibe and thoughtful menu selections.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJzRqKEIisQYgR-cN3zG3he6Q/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3eWYycnpnRRAB
@@ -338,6 +365,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNHNThpbi1BRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNHNThpbi1BRRAB!2m1!1s0x8841ac88108a1acd:0xa47be16dcc77c3f9
+review_summary: >-
+  What People Love About This Sushi Spot$$$Folks rave about the tasty sushi and
+  Thai dishes here, often highlighting the fresh flavors and generous portions
+  that make every bite feel worthwhile. Many mention the quick service and
+  friendly staff as standout elements, creating a laid-back vibe that keeps
+  diners coming back for more. While some note that certain spicy options can be
+  intense, the overall consensus leans toward the delicious curries and rolls
+  that hit the spot without breaking the bank. It's clear that the focus on
+  quality ingredients and efficient atmosphere adds to the appeal, making it a
+  solid choice for anyone in the mood for reliable Asian eats. All in all, this
+  place earns high marks for its welcoming service and flavorful offerings,
+  ideal for a casual night out or a quick sushi fix nearby.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -370,8 +410,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Modern storefront cafe mixing classic Thai & other Asian eats including sushi
   for dine-in or to-go.
 

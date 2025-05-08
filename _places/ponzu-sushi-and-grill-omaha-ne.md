@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ponzu Sushi and Grill"
+title: Ponzu Sushi and Grill
 permalink: /nebraska/omaha/ponzu-sushi-and-grill.html
 stateAbbr: NE
 stateName: Nebraska
 cityName: Omaha
 seo:
-  name: "Ponzu Sushi and Grill"
-  type: Restaurant
+  type: restaurant
   links: https://www.ponzusushiandgrill.com/
-description: "Trendy spot for contemporary takes on sushi, Asian  Fusion grilled plates & stylish cocktails. Ponzu Sushi and Grill serves delicious sushi in Omaha, Nebraska. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJv6Y3BFKMk4cRLPMrSI3pOjY
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 0
 website: https://www.ponzusushiandgrill.com/
+description: >-
+  Discover Ponzu Sushi and Grill in Omaha, NE$$$Ponzu Sushi and Grill in Omaha,
+  NE, stands out as a trendy destination for sushi enthusiasts seeking fresh
+  flavors and innovative Asian fusion options. This spot offers an array of
+  creative rolls, small plates, and grilled dishes, perfect for those exploring
+  top-rated sushi restaurants in the area. With its stylish cocktails and
+  welcoming atmosphere, it's ideal for casual dinners or group outings, enhanced
+  by features like outdoor seating and accessibility for all visitors.
+  Late-night hours make it a convenient choice for anyone searching for sushi
+  near me, while the moderate pricing ensures a satisfying experience without
+  breaking the bank. Overall, it's a go-to spot for enjoying high-quality
+  Japanese-inspired cuisine in a vibrant setting.
+generative_summary: >-
+  Discover Ponzu Sushi and Grill in Omaha, NE$$$Ponzu Sushi and Grill in Omaha,
+  NE, stands out as a trendy destination for sushi enthusiasts seeking fresh
+  flavors and innovative Asian fusion options. This spot offers an array of
+  creative rolls, small plates, and grilled dishes, perfect for those exploring
+  top-rated sushi restaurants in the area. With its stylish cocktails and
+  welcoming atmosphere, it's ideal for casual dinners or group outings, enhanced
+  by features like outdoor seating and accessibility for all visitors.
+  Late-night hours make it a convenient choice for anyone searching for sushi
+  near me, while the moderate pricing ensures a satisfying experience without
+  breaking the bank. Overall, it's a go-to spot for enjoying high-quality
+  Japanese-inspired cuisine in a vibrant setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJv6Y3BFKMk4cRLPMrSI3pOjY/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3cjk2clN3EAE
@@ -326,6 +349,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNJbjlfd2VREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNJbjlfd2VREAE!2m1!1s0x87938c520437a6bf:0x363ae98d482bf32c
+review_summary: >-
+  What Customers Are Saying$$$Folks visiting this sushi spot often praise the
+  tasty rolls and grilled plates, noting how the flavors really hit the spot for
+  a satisfying meal. While one comment mentioned some concerns about freshness,
+  the majority highlight the friendly service and cozy vibe that make dining
+  here enjoyable. Happy hour deals from 3 to 6 pm come up frequently as a fun
+  perk, with plenty of options that keep things lively without feeling rushed.
+  It's frequently described as a clean and welcoming place, great for groups or
+  first-timers trying sushi, leaving most people eager to return for the overall
+  positive experience. If you're on the hunt for sushi restaurants near me, this
+  one gets solid nods for its approachable vibe and reliable good times.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -358,8 +393,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Trendy spot for contemporary takes on sushi, Asian  Fusion grilled plates &
   stylish cocktails.
 

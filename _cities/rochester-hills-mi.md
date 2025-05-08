@@ -5,4 +5,5 @@ permalink: /michigan/rochester-hills/
 stateAbbr: MI
 stateName: Michigan
 cityName: Rochester Hills
+
 ---

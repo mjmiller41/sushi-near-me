@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushiya"
+title: Sushiya
 permalink: /texas/dallas/sushiya.html
 stateAbbr: TX
 stateName: Texas
 cityName: Dallas
 seo:
-  name: "Sushiya"
-  type: Restaurant
-  links: null
-description: "Sushiya serves delicious sushi in Dallas, Texas. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.sushiyatx.com/
 place_id: ChIJL-OiZRiZToYRhQhYsG7S3wE
 photos:
   - name: >-
@@ -170,8 +168,113 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x864e991865a2e32f:0x1dfd26eb0580885!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 0
+    - open:
+        day: 1
+        hour: 17
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 14
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 2:00 PM, 5:30 – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 2:00 PM, 5:30 – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 2:00 PM, 5:30 – 9:00 PM'
+    - 'Thursday: 11:00 AM – 2:00 PM, 5:30 – 9:00 PM'
+    - 'Friday: 11:00 AM – 2:00 PM, 5:30 – 10:00 PM'
+    - 'Saturday: 11:00 AM – 2:00 PM, 5:00 – 10:00 PM'
+    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +282,51 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (214) 744-9600
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.7'
+rating_count: 867
+website: https://www.sushiyatx.com/
+description: >-
+  Discover Sushiya in Dallas, TX$$$Sushiya in Dallas, TX, stands out as a casual
+  haven for those seeking authentic Japanese flavors, offering a menu that
+  highlights fresh sushi and traditional bento boxes alongside refreshing sake
+  options. The restaurant boasts an accessible environment with features like
+  wheelchair-friendly parking and seating, making it easy for everyone to enjoy
+  a relaxed dining experience. Its convenient hours, including lunch and dinner
+  service throughout the week, cater to busy locals looking for top-rated sushi
+  spots in the area. Patrons appreciate the unhurried vibe and well-prepared
+  dishes that blend simplicity with quality ingredients. Whether you're
+  exploring sushi restaurants near downtown or craving a taste of Japanese
+  culture, Sushiya delivers a satisfying and inclusive meal option.
+generative_summary: >-
+  Discover Sushiya in Dallas, TX$$$Sushiya in Dallas, TX, stands out as a casual
+  haven for those seeking authentic Japanese flavors, offering a menu that
+  highlights fresh sushi and traditional bento boxes alongside refreshing sake
+  options. The restaurant boasts an accessible environment with features like
+  wheelchair-friendly parking and seating, making it easy for everyone to enjoy
+  a relaxed dining experience. Its convenient hours, including lunch and dinner
+  service throughout the week, cater to busy locals looking for top-rated sushi
+  spots in the area. Patrons appreciate the unhurried vibe and well-prepared
+  dishes that blend simplicity with quality ingredients. Whether you're
+  exploring sushi restaurants near downtown or craving a taste of Japanese
+  culture, Sushiya delivers a satisfying and inclusive meal option.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Love About Sushiya$$$Folks often rave about the flavorful sushi
+  rolls and other standout dishes that make this spot a go-to for Japanese
+  cuisine fans, with options like fresh rolls and hearty bowls hitting the mark
+  every time. The service stands out for being friendly and efficient, helping
+  create a welcoming atmosphere that keeps things light and enjoyable. Many
+  highlight the laid-back vibe and upbeat music, which add to the overall fun
+  without overwhelming the experience. It's clear that the quick turnaround and
+  accommodating team make dining here a breeze for groups or solo visitors. All
+  in all, this place earns high marks for delivering solid, tasty meals that
+  leave you feeling glad you stopped by, especially if you're on the hunt for
+  reliable sushi options nearby.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +352,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

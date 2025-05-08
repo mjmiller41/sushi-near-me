@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sakura Sushi & Sake Bar"
+title: Sakura Sushi & Sake Bar
 permalink: /texas/frisco/sakura-sushi-sake-bar.html
 stateAbbr: TX
 stateName: Texas
 cityName: Frisco
 seo:
-  name: "Sakura Sushi & Sake Bar"
-  type: Restaurant
+  type: restaurant
   links: http://sakura-frisco.com/
-description: "Sakura Sushi & Sake Bar serves delicious sushi in Frisco, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJpWdXU1k7TIYRkR3rP1UELkk
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x864c3b59535767a5:0x492e04553feb1d91!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:00 PM'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:00 PM'
     - 'Saturday: 12:00 – 9:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:00 AM – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 9:00 PM'
-    - 'Saturday: 12:00 – 9:00 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +238,265 @@ phone: (214) 618-1807
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.6'
-rating_count: 0
+rating_count: 396
 website: http://sakura-frisco.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Sakura Sushi & Sake Bar in Frisco, TX$$$Sakura Sushi & Sake Bar in
+  Frisco, TX, provides a relaxed spot for enjoying a variety of fresh sushi and
+  traditional Japanese cuisine, making it a popular choice for those seeking
+  sushi restaurants in the area. The menu features an assortment of flavorful
+  dishes alongside beverages like beer, wine, and sake, creating an inviting
+  atmosphere for casual meals or gatherings. With accessibility options and a
+  welcoming setup, this eatery stands out for its commitment to quality
+  ingredients and thoughtful dining experience. Visitors can appreciate the
+  blend of authentic flavors and modern convenience, ideal for anyone exploring
+  top sushi options nearby.
+generative_summary: >-
+  Discover Sakura Sushi & Sake Bar in Frisco, TX$$$Sakura Sushi & Sake Bar in
+  Frisco, TX, provides a relaxed spot for enjoying a variety of fresh sushi and
+  traditional Japanese cuisine, making it a popular choice for those seeking
+  sushi restaurants in the area. The menu features an assortment of flavorful
+  dishes alongside beverages like beer, wine, and sake, creating an inviting
+  atmosphere for casual meals or gatherings. With accessibility options and a
+  welcoming setup, this eatery stands out for its commitment to quality
+  ingredients and thoughtful dining experience. Visitors can appreciate the
+  blend of authentic flavors and modern convenience, ideal for anyone exploring
+  top sushi options nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJpWdXU1k7TIYRkR3rP1UELkk/reviews/ChZDSUhNMG9nS0VJQ0FnSUQzb3RITUpBEAE
+    relativePublishTimeDescription: 5 months ago
+    rating: 4
+    text:
+      text: >-
+        A good spot for some tasty sushi! The fish to rice ratio is a little off
+        (a bit more rice than I would’ve liked) but the rice does taste good!
+        The staff are friendly and helpful and can handle allergy requests.
+        Having said that, if you have a shellfish allergy, the majority of their
+        specialty rolls will be unavailable for you to enjoy. Hopefully this
+        changes in the future!
+      languageCode: en
+    originalText:
+      text: >-
+        A good spot for some tasty sushi! The fish to rice ratio is a little off
+        (a bit more rice than I would’ve liked) but the rice does taste good!
+        The staff are friendly and helpful and can handle allergy requests.
+        Having said that, if you have a shellfish allergy, the majority of their
+        specialty rolls will be unavailable for you to enjoy. Hopefully this
+        changes in the future!
+      languageCode: en
+    authorAttribution:
+      displayName: Nolan Rumble
+      uri: https://www.google.com/maps/contrib/114087553535490046778/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUzo8PZLUPy8Ibag4B6TpA6YenlD3U6uREm5H1muAOYlnK9_cwk=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2024-11-13T14:09:30.891979Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQzb3RITUpBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQzb3RITUpBEAE!2m1!1s0x864c3b59535767a5:0x492e04553feb1d91
+  - name: >-
+      places/ChIJpWdXU1k7TIYRkR3rP1UELkk/reviews/ChZDSUhNMG9nS0VJQ0FnSURmOTd5QVNnEAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        Great experience with Henry as server. The Chicken Karaage was
+        delicious. Awesome fatty Sashimi and Sushi select. Also two delicious
+        rolls; Angry Wife and Anaconda. Good value with their House Sake and my
+        wife enjoyed her wine. A place to be regular. Great daily specials as
+        well. Thanks Henry!
+      languageCode: en
+    originalText:
+      text: >-
+        Great experience with Henry as server. The Chicken Karaage was
+        delicious. Awesome fatty Sashimi and Sushi select. Also two delicious
+        rolls; Angry Wife and Anaconda. Good value with their House Sake and my
+        wife enjoyed her wine. A place to be regular. Great daily specials as
+        well. Thanks Henry!
+      languageCode: en
+    authorAttribution:
+      displayName: Rafael “Rafo” Saldaña
+      uri: https://www.google.com/maps/contrib/106394796423390279392/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUbcVJVMZKNV3KY1uW8tCV_shf9NXmNEXL6YMT0aNGXoHuuu-nhIQ=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2025-01-11T00:47:27.409033Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURmOTd5QVNnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURmOTd5QVNnEAE!2m1!1s0x864c3b59535767a5:0x492e04553feb1d91
+  - name: >-
+      places/ChIJpWdXU1k7TIYRkR3rP1UELkk/reviews/ChdDSUhNMG9nS0VJQ0FnSURMdWRXVmhBRRAB
+    relativePublishTimeDescription: 10 months ago
+    rating: 5
+    text:
+      text: >-
+        Best Sushi I tried in Texas so far, the chicken teriyaki is superb and
+        the tempura delicious, both the veggie tempura and the ice-cream
+        tempura!
+
+
+        The service was excellent and the best is that prices are not expensive!
+
+
+        The place is very well decorated, not just the functional good food but
+        average atmosphere one; well done.
+
+
+        One of our favourite restaurant for sure.
+      languageCode: en
+    originalText:
+      text: >-
+        Best Sushi I tried in Texas so far, the chicken teriyaki is superb and
+        the tempura delicious, both the veggie tempura and the ice-cream
+        tempura!
+
+
+        The service was excellent and the best is that prices are not expensive!
+
+
+        The place is very well decorated, not just the functional good food but
+        average atmosphere one; well done.
+
+
+        One of our favourite restaurant for sure.
+      languageCode: en
+    authorAttribution:
+      displayName: Dr. Jose Bronet
+      uri: https://www.google.com/maps/contrib/101775604949045732351/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjU2zOfZffpok5d0T17NtSI7PSVLLXayEJMCspFzlSqjW6Tbvwlk=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-06-29T00:15:15.515305Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURMdWRXVmhBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURMdWRXVmhBRRAB!2m1!1s0x864c3b59535767a5:0x492e04553feb1d91
+  - name: >-
+      places/ChIJpWdXU1k7TIYRkR3rP1UELkk/reviews/ChZDSUhNMG9nS0VJQ0FnSUNQODh5OElREAE
+    relativePublishTimeDescription: 5 months ago
+    rating: 1
+    text:
+      text: >-
+        Disgusting. The sashimi is like they gave me the leftover pieces of
+        fish. The cut is not how it's supposed to be. It's also drenched in some
+        hot sauce which no one asks for when they order sashimi. This plate is a
+        SCAM.
+
+
+        ALSO NO chopsticks were given.
+
+
+        The roll was very fishy and they shoved in a small styrofoambox.
+
+
+        Stay away from this fraudulent food place they do not care about
+        providing their products for our money. They just want to rip us off.
+      languageCode: en
+    originalText:
+      text: >-
+        Disgusting. The sashimi is like they gave me the leftover pieces of
+        fish. The cut is not how it's supposed to be. It's also drenched in some
+        hot sauce which no one asks for when they order sashimi. This plate is a
+        SCAM.
+
+
+        ALSO NO chopsticks were given.
+
+
+        The roll was very fishy and they shoved in a small styrofoambox.
+
+
+        Stay away from this fraudulent food place they do not care about
+        providing their products for our money. They just want to rip us off.
+      languageCode: en
+    authorAttribution:
+      displayName: A K
+      uri: https://www.google.com/maps/contrib/113320846190536746244/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLXC-f_Q7_PK2h5VijXqLUBk28tyzHGRFa70y3bABdGkI84Gw=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-11-27T21:48:54.985581Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNQODh5OElREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNQODh5OElREAE!2m1!1s0x864c3b59535767a5:0x492e04553feb1d91
+  - name: >-
+      places/ChIJpWdXU1k7TIYRkR3rP1UELkk/reviews/ChdDSUhNMG9nS0VJQ0FnSURuOHRyc2xnRRAB
+    relativePublishTimeDescription: 7 months ago
+    rating: 5
+    text:
+      text: >-
+        It was my first time trying out this restaurant and it completely blew
+        my expectations!!! The food was delicious, the whole atmosphere was
+        highly relaxing, and the server was very cordial and friendly. The
+        interior was very clean, the decor gave a touch of sophistication and,
+        overall I really had a great experience. 10/10. Definitely coming back
+        here
+      languageCode: en
+    originalText:
+      text: >-
+        It was my first time trying out this restaurant and it completely blew
+        my expectations!!! The food was delicious, the whole atmosphere was
+        highly relaxing, and the server was very cordial and friendly. The
+        interior was very clean, the decor gave a touch of sophistication and,
+        overall I really had a great experience. 10/10. Definitely coming back
+        here
+      languageCode: en
+    authorAttribution:
+      displayName: Jiyeong
+      uri: https://www.google.com/maps/contrib/116578358584369287707/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJEu4-gHqpMcP9y3C_EjELVEtp0isyunJV-i0WIcANllPZmFg=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-10-04T20:56:06.962993Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURuOHRyc2xnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURuOHRyc2xnRRAB!2m1!1s0x864c3b59535767a5:0x492e04553feb1d91
+review_summary: >-
+  What Customers Are Buzzing About This Frisco Spot$$$Folks heading to sushi
+  places near me often highlight the fresh sushi and delicious Japanese dishes
+  at this spot, with many praising the tasty teriyaki and tempura for their
+  spot-on flavors and great value. While most visitors enjoy the friendly
+  service and cozy atmosphere that make dining out feel easygoing, a few note
+  occasional inconsistencies like portion ratios or specific allergies to keep
+  in mind. Overall, the affordable prices and welcoming vibe keep it a go-to for
+  groups or families looking for a solid meal, encouraging repeat visits for
+  those hunting best sushi near me. It's clear that the positives outweigh any
+  minor hiccups, leaving diners generally satisfied with their experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  paidStreetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
+curbside_pickup: true
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
 good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+live_music: false
+menu_for_children: true
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
 serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+serves_brunch: false
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

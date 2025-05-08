@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Yummy"
+title: Sushi Yummy
 permalink: /florida/orlando/sushi-yummy.html
 stateAbbr: FL
 stateName: Florida
 cityName: Orlando
 seo:
-  name: "Sushi Yummy"
-  type: Restaurant
+  type: restaurant
   links: http://www.sushiyummy.net/
-description: "Sushi Yummy serves delicious sushi in Orlando, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJp9lVvbJ954gRZrJlwp7Ds0s
 photos:
   - name: >-
@@ -146,7 +144,7 @@ address: >-
   Inside the Mall, in front of PINK, UNIQLO and The Florida Hotel, 8001 S Orange
   Blossom Trl # 1013A, Orlando, FL 32809, USA
 street: >-
-  Inside the Mall, in front of PINK, UNIQLO and The Florida Hotel, 8001 S Orange
+  Inside the Mall,in front of PINK,UNIQLO and The Florida Hotel,8001 S Orange
   Blossom Trl # 1013A
 city: Orlando
 state: FL
@@ -189,6 +187,33 @@ price_range: null
 rating: '4.0'
 rating_count: 0
 website: http://www.sushiyummy.net/
+description: >-
+  Explore Sushi Yummy in Orlando, FL$$$Sushi Yummy in Orlando, FL, stands out as
+  a vibrant sushi restaurant nestled inside a bustling mall, offering a unique
+  dining experience with a conveyor belt of colorful dishes. This spot delights
+  visitors with an array of creative rolls, flavorful dumplings, and fresh
+  salads that cater to a variety of tastes, making it a go-to choice for casual
+  meals in a lively setting. Accessibility features like wheelchair-friendly
+  entrances and seating add to its appeal, ensuring everyone can enjoy the fun
+  atmosphere without hassle. Beyond the main courses, options for desserts and
+  drinks enhance the meal, providing a well-rounded taste of Asian-inspired
+  flavors. Whether you're seeking sushi restaurants nearby or a quick bite
+  during a shopping trip, this location brings an exciting twist to traditional
+  dining.
+generative_summary: >-
+  Explore Sushi Yummy in Orlando, FL$$$Sushi Yummy in Orlando, FL, stands out as
+  a vibrant sushi restaurant nestled inside a bustling mall, offering a unique
+  dining experience with a conveyor belt of colorful dishes. This spot delights
+  visitors with an array of creative rolls, flavorful dumplings, and fresh
+  salads that cater to a variety of tastes, making it a go-to choice for casual
+  meals in a lively setting. Accessibility features like wheelchair-friendly
+  entrances and seating add to its appeal, ensuring everyone can enjoy the fun
+  atmosphere without hassle. Beyond the main courses, options for desserts and
+  drinks enhance the meal, providing a well-rounded taste of Asian-inspired
+  flavors. Whether you're seeking sushi restaurants nearby or a quick bite
+  during a shopping trip, this location brings an exciting twist to traditional
+  dining.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJp9lVvbJ954gRZrJlwp7Ds0s/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ5NV9qSktREAE
@@ -444,6 +469,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN0MDV5T2pBRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN0MDV5T2pBRRAB!2m1!1s0x88e77db2bd55d9a7:0x4bb3c39ec265b266
+review_summary: >-
+  Insights from Recent Feedback$$$Folks chatting about Sushi Yummy often
+  highlight the fun conveyor belt setup and tasty variety of small plates,
+  making it a hit for those wanting to sample different flavors without
+  committing to a big meal. While some appreciate the fresh rolls and quick
+  service that keep things lively, others note that prices can feel a bit steep
+  compared to expectations, suggesting it works best for special occasions
+  rather than everyday eats. Overall, the energy and creativity in the dishes
+  earn solid nods, though a few mention room for improvement in consistency to
+  make every visit feel just right. If you're hunting for top-rated sushi spots
+  around town, this place delivers enjoyable moments but might vary based on the
+  time you drop in. In a nutshell, it's a solid pick for a casual adventure, as
+  long as you go in with realistic vibes about the experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -476,7 +515,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

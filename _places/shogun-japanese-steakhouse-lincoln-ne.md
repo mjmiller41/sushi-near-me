@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Shogun Japanese Steakhouse"
+title: Shogun Japanese Steakhouse
 permalink: /nebraska/lincoln/shogun-japanese-steakhouse.html
 stateAbbr: NE
 stateName: Nebraska
 cityName: Lincoln
 seo:
-  name: "Shogun Japanese Steakhouse"
-  type: Restaurant
+  type: restaurant
   links: http://shogunnebraska.com/
-description: "Shogun Japanese Steakhouse serves delicious sushi in Lincoln, Nebraska. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJDbUtlheWlocR9ei3lhM8x68
 photos:
   - name: >-
@@ -170,7 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x87969617962db50d:0xafc73c1396b7e8f5!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 14
+        minute: 0
+    - open:
+        day: 6
+        hour: 16
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 4:00 – 9:00 PM'
     - 'Tuesday: 4:00 – 9:00 PM'
     - 'Wednesday: 4:00 – 9:00 PM'
@@ -178,14 +242,7 @@ opening_hours:
     - 'Friday: 4:00 – 9:30 PM'
     - 'Saturday: 11:30 AM – 2:00 PM, 4:00 – 9:30 PM'
     - 'Sunday: 11:30 AM – 9:00 PM'
-  current:
-    - 'Monday: 4:00 – 9:00 PM'
-    - 'Tuesday: 4:00 – 9:00 PM'
-    - 'Wednesday: 4:00 – 9:00 PM'
-    - 'Thursday: 4:00 – 9:00 PM'
-    - 'Friday: 4:00 – 9:30 PM'
-    - 'Saturday: 11:30 AM – 2:00 PM, 4:00 – 9:30 PM'
-    - 'Sunday: 11:30 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +254,47 @@ phone: (402) 421-7100
 price_level: PRICE_LEVEL_EXPENSIVE
 price_range: $20 &ndash; $30
 rating: '4.3'
-rating_count: 0
+rating_count: 718
 website: http://shogunnebraska.com/
+description: >-
+  Discover Shogun Japanese Steakhouse in Lincoln, NE$$$Shogun Japanese
+  Steakhouse in Lincoln, NE, delivers an exciting blend of traditional Japanese
+  flavors and interactive dining experiences that make it a standout spot for
+  fresh cuisine. This lively restaurant features hibachi meals prepared right at
+  your table, creating a fun and engaging atmosphere perfect for groups or
+  special occasions. With happy hour specials adding extra value, it's easy to
+  enjoy a variety of dishes that highlight quality ingredients and skillful
+  preparation. The venue also prioritizes accessibility, ensuring a welcoming
+  environment for all diners seeking Japanese places near them. Whether you're
+  in the mood for flavorful entrees or a casual night out, this top-rated spot
+  combines taste and entertainment seamlessly.
+generative_summary: >-
+  Discover Shogun Japanese Steakhouse in Lincoln, NE$$$Shogun Japanese
+  Steakhouse in Lincoln, NE, delivers an exciting blend of traditional Japanese
+  flavors and interactive dining experiences that make it a standout spot for
+  fresh cuisine. This lively restaurant features hibachi meals prepared right at
+  your table, creating a fun and engaging atmosphere perfect for groups or
+  special occasions. With happy hour specials adding extra value, it's easy to
+  enjoy a variety of dishes that highlight quality ingredients and skillful
+  preparation. The venue also prioritizes accessibility, ensuring a welcoming
+  environment for all diners seeking Japanese places near them. Whether you're
+  in the mood for flavorful entrees or a casual night out, this top-rated spot
+  combines taste and entertainment seamlessly.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Customer Feedback$$$Feedback from diners at this Japanese
+  steakhouse often highlights the delicious hibachi dishes and solid portion
+  sizes that keep people coming back for more. Many appreciate the friendly
+  service and lively vibe that make meals feel enjoyable and relaxed, even on
+  busy nights. While some mention occasional waits during peak hours, the
+  overall value and taste generally win out, earning it praise as a reliable
+  choice for casual gatherings. Folks frequently note the fun table-side cooking
+  as a highlight that adds excitement to the experience. All in all, it's clear
+  this place maintains a strong reputation for satisfying meals in a welcoming
+  setting, making it a go-to option for those exploring sushi restaurants
+  nearby.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +320,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

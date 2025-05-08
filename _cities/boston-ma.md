@@ -5,4 +5,5 @@ permalink: /massachusetts/boston/
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Boston
+
 ---

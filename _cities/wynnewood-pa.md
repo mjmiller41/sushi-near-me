@@ -5,4 +5,5 @@ permalink: /pennsylvania/wynnewood/
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Wynnewood
+
 ---

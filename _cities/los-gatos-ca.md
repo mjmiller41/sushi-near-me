@@ -5,4 +5,5 @@ permalink: /california/los-gatos/
 stateAbbr: CA
 stateName: California
 cityName: Los Gatos
+
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kura Revolving Sushi Bar"
+title: Kura Revolving Sushi Bar
 permalink: /virginia/tysons/kura-revolving-sushi-bar.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Tysons
 seo:
-  name: "Kura Revolving Sushi Bar"
-  type: Restaurant
-  links: null
-description: "Kura Revolving Sushi Bar serves delicious sushi in Tysons, Virginia. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://kurasushi.com/locations/tysons-corner-va
 place_id: ChIJDSoocE9LtokR_x9nNyX_PPk
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89b64b4f70282a0d:0xf93cff2537671fff!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 9:00 PM'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 10:00 PM'
+    - 'Saturday: 11:00 AM – 10:00 PM'
+    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,54 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (571) 544-7122
+price_level: PRICE_LEVEL_MODERATE
+price_range: $30 &ndash; $50
+rating: '4.0'
+rating_count: 619
+website: https://kurasushi.com/locations/tysons-corner-va
+description: >-
+  Explore Kura Revolving Sushi Bar in Tysons, Virginia$$$Kura Revolving Sushi
+  Bar in Tysons, Virginia, stands out as an innovative spot for fresh sushi and
+  Japanese cuisine, featuring a dynamic conveyor-belt system that brings dishes
+  right to your table. This tech-enabled setting enhances the dining experience
+  with modern touches like automated ordering, making it a go-to choice for
+  those seeking sushi restaurants near you with a blend of efficiency and fun.
+  Patrons can enjoy a variety of high-quality rolls and other Japanese favorites
+  in a welcoming atmosphere that's designed for accessibility, including
+  wheelchair-friendly features throughout. The moderate pricing adds to its
+  appeal for families or groups looking for tasty, affordable options, while the
+  vibrant setup encourages repeat visits for anyone exploring the best sushi
+  spots in the area.
+generative_summary: >-
+  Explore Kura Revolving Sushi Bar in Tysons, Virginia$$$Kura Revolving Sushi
+  Bar in Tysons, Virginia, stands out as an innovative spot for fresh sushi and
+  Japanese cuisine, featuring a dynamic conveyor-belt system that brings dishes
+  right to your table. This tech-enabled setting enhances the dining experience
+  with modern touches like automated ordering, making it a go-to choice for
+  those seeking sushi restaurants near you with a blend of efficiency and fun.
+  Patrons can enjoy a variety of high-quality rolls and other Japanese favorites
+  in a welcoming atmosphere that's designed for accessibility, including
+  wheelchair-friendly features throughout. The moderate pricing adds to its
+  appeal for families or groups looking for tasty, affordable options, while the
+  vibrant setup encourages repeat visits for anyone exploring the best sushi
+  spots in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Visitor Feedback on This Sushi Favorite$$$Visitors often
+  highlight the fresh flavors and entertaining conveyor-belt delivery as
+  standout elements of their meals at this sushi spot, contributing to its solid
+  reputation among local diners. Many appreciate the efficient service and
+  variety of options, making it a reliable choice for casual outings or quick
+  bites when you're in the mood for Japanese places near you. While some note
+  that peak times can get busy, the overall experience earns praise for its
+  value and innovation, with plenty of positive comments on the quality of
+  ingredients. If you're hunting for top-rated sushi, this location delivers a
+  generally enjoyable vibe that's worth trying, though it's always a good idea
+  to plan ahead for busier evenings. Overall, the feedback paints a picture of a
+  welcoming eatery that keeps customers coming back for more satisfying meals.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +315,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

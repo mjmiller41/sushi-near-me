@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Asea Fusion"
+title: Asea Fusion 嵐山料理
 permalink: /new-york/brooklyn/asea-fusion.html
 stateAbbr: NY
 stateName: New York
 cityName: Brooklyn
 seo:
-  name: "Asea Fusion"
-  type: Restaurant
+  type: restaurant
   links: http://www.aseanyc.com/
-description: "Hibachi meals, noodles, sushi & teriyaki round out the menu at this modern Japanese joint. Asea Fusion serves delicious sushi in Brooklyn, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ42TQ4M5awokRtmdT9bCsAak
 photos:
   - name: >-
@@ -157,7 +155,7 @@ accessibility_options:
   wheelchairAccessibleRestroom: true
   wheelchairAccessibleSeating: true
 business_status: OPERATIONAL
-name: Asea Fusion
+name: Asea Fusion 嵐山料理
 google_maps_links:
   directionsUri: >-
     https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x89c25acee0d064e3:0xa901acb0f55367b6!3e0
@@ -185,6 +183,35 @@ price_range: null
 rating: '4.6'
 rating_count: 0
 website: http://www.aseanyc.com/
+description: >-
+  Discover Asea Fusion in Brooklyn, NY$$$Nestled in the vibrant neighborhood of
+  Brooklyn, NY, Asea Fusion offers a delightful blend of Japanese cuisine that
+  highlights fresh sushi, hibachi dishes, and flavorful noodles in a welcoming
+  atmosphere. This spot stands out for its cozy setting, where diners can enjoy
+  a variety of expertly prepared meals that fuse traditional flavors with modern
+  twists, making it a go-to choice for those searching for quality sushi
+  restaurants nearby. With options like hibachi selections and teriyaki
+  favorites, the menu caters to a range of tastes, emphasizing fresh ingredients
+  and moderate pricing that appeal to both locals and visitors. Accessibility
+  features such as wheelchair-friendly entrances and seating add to the
+  convenience, ensuring a comfortable experience for everyone. Whether you're
+  exploring top-rated sushi places near me or craving a relaxed Japanese meal,
+  Asea Fusion delivers on taste and value in a charming environment.
+generative_summary: >-
+  Discover Asea Fusion in Brooklyn, NY$$$Nestled in the vibrant neighborhood of
+  Brooklyn, NY, Asea Fusion offers a delightful blend of Japanese cuisine that
+  highlights fresh sushi, hibachi dishes, and flavorful noodles in a welcoming
+  atmosphere. This spot stands out for its cozy setting, where diners can enjoy
+  a variety of expertly prepared meals that fuse traditional flavors with modern
+  twists, making it a go-to choice for those searching for quality sushi
+  restaurants nearby. With options like hibachi selections and teriyaki
+  favorites, the menu caters to a range of tastes, emphasizing fresh ingredients
+  and moderate pricing that appeal to both locals and visitors. Accessibility
+  features such as wheelchair-friendly entrances and seating add to the
+  convenience, ensuring a comfortable experience for everyone. Whether you're
+  exploring top-rated sushi places near me or craving a relaxed Japanese meal,
+  Asea Fusion delivers on taste and value in a charming environment.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ42TQ4M5awokRtmdT9bCsAak/reviews/ChZDSUhNMG9nS0VJQ0FnSUQzaHJIRkNREAE
@@ -330,6 +357,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNmaGVlRWxRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNmaGVlRWxRRRAB!2m1!1s0x89c25acee0d064e3:0xa901acb0f55367b6
+review_summary: >-
+  What Customers Are Raving About$$$Folks who visit this sushi spot often praise
+  the consistently fresh and delicious dishes, like the sushi rolls and hibachi
+  options that hit the spot every time. Many appreciate the generous portions
+  and reasonable prices, making it a solid pick for anyone looking for a
+  satisfying meal without breaking the bank. The service stands out as friendly
+  and attentive, with staff going out of their way to create a calm and
+  enjoyable vibe that keeps people coming back. Overall, the cozy atmosphere
+  adds to the appeal, offering a peaceful escape for casual dinners or takeout.
+  If you're on the hunt for reliable sushi near me, this place earns high marks
+  for its tasty food and welcoming feel, though it's always a good idea to check
+  for your preferences firsthand.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeStreetParking: true
   paidStreetParking: true
@@ -361,8 +401,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Hibachi meals, noodles, sushi & teriyaki round out the menu at this modern
   Japanese joint.
 

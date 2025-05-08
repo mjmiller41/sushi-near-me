@@ -1,15 +1,14 @@
 ---
 layout: place
-title: "Rock N Roll Sushi"
+title: Rock N Roll Sushi
 permalink: /arkansas/north-little-rock/rock-n-roll-sushi.html
 stateAbbr: AR
 stateName: Arkansas
 cityName: North Little Rock
 seo:
-  name: "Rock N Roll Sushi"
-  type: Restaurant
-  links: null
-description: "Rock N Roll Sushi serves delicious sushi in North Little Rock, Arkansas. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: >-
+    https://rocknrollsushi.com/locations/north-little-rock-lakewood-village-shopping-center/
 place_id: ChIJ3UIebKK90ocRTIk1nxBmr50
 photos:
   - name: >-
@@ -170,8 +169,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x87d2bda26c1e42dd:0x9daf66109f35894c!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 10:00 PM'
+    - 'Tuesday: 11:00 AM – 10:00 PM'
+    - 'Wednesday: 11:00 AM – 10:00 PM'
+    - 'Thursday: 11:00 AM – 10:00 PM'
+    - 'Friday: 11:00 AM – 10:00 PM'
+    - 'Saturday: 11:00 AM – 10:00 PM'
+    - 'Sunday: 11:00 AM – 10:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +243,52 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
+phone: (501) 480-2103
 price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+price_range: $10 &ndash; $20
+rating: '4.4'
+rating_count: 106
+website: >-
+  https://rocknrollsushi.com/locations/north-little-rock-lakewood-village-shopping-center/
+description: >-
+  Explore Rock N Roll Sushi$$$Rock N Roll Sushi in North Little Rock, AR,
+  delivers a lively twist on traditional sushi with bold, American-inspired
+  flavors that make every meal memorable. This spot features a relaxed
+  atmosphere where diners can enjoy fresh rolls and creative dishes, all set to
+  an energetic soundtrack of rock music that keeps the vibe fun and engaging.
+  Accessibility is a key highlight, with options like wheelchair-friendly
+  parking and entrances ensuring everyone can savor the experience. Whether
+  you're craving innovative sushi combinations or classic Japanese favorites,
+  this restaurant stands out for its welcoming environment and reliable daily
+  hours from 11 AM to 10 PM. For those seeking sushi restaurants near you, it's
+  a fantastic choice that blends quality ingredients with a unique dining flair.
+generative_summary: >-
+  Explore Rock N Roll Sushi$$$Rock N Roll Sushi in North Little Rock, AR,
+  delivers a lively twist on traditional sushi with bold, American-inspired
+  flavors that make every meal memorable. This spot features a relaxed
+  atmosphere where diners can enjoy fresh rolls and creative dishes, all set to
+  an energetic soundtrack of rock music that keeps the vibe fun and engaging.
+  Accessibility is a key highlight, with options like wheelchair-friendly
+  parking and entrances ensuring everyone can savor the experience. Whether
+  you're craving innovative sushi combinations or classic Japanese favorites,
+  this restaurant stands out for its welcoming environment and reliable daily
+  hours from 11 AM to 10 PM. For those seeking sushi restaurants near you, it's
+  a fantastic choice that blends quality ingredients with a unique dining flair.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Diners$$$Folks enjoying sushi at this spot often praise the
+  tasty rolls and flavorful Japanese dishes that hit the spot every time,
+  creating a satisfying meal for all kinds of eaters. The friendly team and
+  upbeat rock tunes add a welcoming touch that makes the whole visit feel lively
+  and enjoyable, turning a simple dinner into a highlight of the day. While some
+  mention the costs can lean toward the higher end, many agree the fresh flavors
+  and solid portions make it a worthwhile treat for special occasions or casual
+  outings. Overall, it's clear that visitors appreciate the consistent quality
+  and fun atmosphere, making it a reliable pick if you're hunting for top-rated
+  sushi nearby. If you're in the mood for something delicious, this place
+  delivers a positive experience that keeps people coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +314,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

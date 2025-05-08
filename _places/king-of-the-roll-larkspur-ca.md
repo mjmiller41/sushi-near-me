@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "King of the Roll"
+title: King of the Roll
 permalink: /california/larkspur/king-of-the-roll.html
 stateAbbr: CA
 stateName: California
 cityName: Larkspur
 seo:
-  name: "King of the Roll"
-  type: Restaurant
+  type: restaurant
   links: https://kingoftherollsushi6.wixsite.com/sushi
-description: "King of the Roll serves delicious sushi in Larkspur, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJTWaHgXeahYAROxIj4xxrOB0
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80859a778187664d:0x1d386b1ce323123b!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 16
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 16
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 4:00 – 10:00 PM'
     - 'Tuesday: 4:00 – 10:00 PM'
     - 'Wednesday: 4:00 – 10:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 4:00 – 10:00 PM'
     - 'Saturday: 4:00 – 10:00 PM'
     - 'Sunday: 4:00 – 10:00 PM'
-  current:
-    - 'Monday: 4:00 – 10:00 PM'
-    - 'Tuesday: 4:00 – 10:00 PM'
-    - 'Wednesday: 4:00 – 10:00 PM'
-    - 'Thursday: 4:00 – 10:00 PM'
-    - 'Friday: 4:00 – 10:00 PM'
-    - 'Saturday: 4:00 – 10:00 PM'
-    - 'Sunday: 4:00 – 10:00 PM'
+  nextOpenTime: '2025-05-03T23:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +246,47 @@ phone: (415) 924-1900
 price_level: null
 price_range: $10 &ndash; $20
 rating: '4.4'
-rating_count: 0
+rating_count: 166
 website: https://kingoftherollsushi6.wixsite.com/sushi
+description: >-
+  Discover King of the Roll in Larkspur, CA$$$King of the Roll in Larkspur, CA,
+  stands out as a welcoming spot for enjoying fresh sushi and Japanese-inspired
+  dishes in a relaxed setting. The venue features a casual atmosphere with
+  outdoor seating options that provide scenic views of a nearby creek, making it
+  an ideal choice for a laid-back meal. Guests can savor a variety of
+  traditional offerings like sushi rolls, nigiri, and sashimi, all prepared with
+  quality ingredients that highlight authentic flavors. This sushi restaurant
+  near you combines affordability with a charming environment, perfect for those
+  seeking top-rated Japanese places in the area. Whether you're looking for
+  sushi close to me or a peaceful dining experience, it delivers a balance of
+  taste and tranquility.
+generative_summary: >-
+  Discover King of the Roll in Larkspur, CA$$$King of the Roll in Larkspur, CA,
+  stands out as a welcoming spot for enjoying fresh sushi and Japanese-inspired
+  dishes in a relaxed setting. The venue features a casual atmosphere with
+  outdoor seating options that provide scenic views of a nearby creek, making it
+  an ideal choice for a laid-back meal. Guests can savor a variety of
+  traditional offerings like sushi rolls, nigiri, and sashimi, all prepared with
+  quality ingredients that highlight authentic flavors. This sushi restaurant
+  near you combines affordability with a charming environment, perfect for those
+  seeking top-rated Japanese places in the area. Whether you're looking for
+  sushi close to me or a peaceful dining experience, it delivers a balance of
+  taste and tranquility.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying About This Sushi Spot$$$Folks who dine here
+  frequently highlight the fresh and flavorful sushi as a standout feature,
+  often noting how it exceeds expectations for a casual eatery. Many appreciate
+  the relaxed vibe and outdoor options, which add to the overall enjoyment
+  without any major complaints about service or atmosphere. Based on the solid
+  ratings, it's clear that the quality of the food and welcoming setting keep
+  people coming back for more. While some mention portions could be more
+  generous, the general consensus leans positive, with praise for the value and
+  taste that make it a go-to for sushi enthusiasts. If you're on the hunt for
+  the best sushi near me, this place offers a reliably good experience that
+  leaves most visitors satisfied and eager to return.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +312,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

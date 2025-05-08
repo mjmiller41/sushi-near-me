@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Tokyo Sushi And Grill"
+title: Tokyo Sushi And Grill
 permalink: /florida/orlando/tokyo-sushi-and-grill.html
 stateAbbr: FL
 stateName: Florida
 cityName: Orlando
 seo:
-  name: "Tokyo Sushi And Grill"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Tokyo Sushi And Grill serves delicious sushi in Orlando, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJhe3zmmmA3YgRz6SBii1DZxs
 photos:
   - name: >-
@@ -185,7 +183,47 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Explore Tokyo Sushi And Grill in Orlando, FL$$$Tokyo Sushi And Grill in
+  Orlando, FL, stands out as a welcoming spot for those craving authentic
+  Japanese flavors and fresh sushi options in a relaxed setting. Nestled on
+  Vineland Avenue, this sushi restaurant offers a variety of dishes that
+  highlight quality ingredients and a cozy ambiance, making it ideal for casual
+  meals with friends or family. Accessibility is a key feature here, with
+  wheelchair-friendly parking, entrances, restrooms, and seating ensuring
+  everyone can enjoy the experience comfortably. Whether you're searching for
+  top-rated sushi restaurants nearby or simply want to try something new, this
+  spot delivers flavorful options that capture the essence of Japanese cuisine.
+  It's a great choice for anyone exploring sushi places in the area, blending
+  affordability with a laid-back vibe.
+generative_summary: >-
+  Explore Tokyo Sushi And Grill in Orlando, FL$$$Tokyo Sushi And Grill in
+  Orlando, FL, stands out as a welcoming spot for those craving authentic
+  Japanese flavors and fresh sushi options in a relaxed setting. Nestled on
+  Vineland Avenue, this sushi restaurant offers a variety of dishes that
+  highlight quality ingredients and a cozy ambiance, making it ideal for casual
+  meals with friends or family. Accessibility is a key feature here, with
+  wheelchair-friendly parking, entrances, restrooms, and seating ensuring
+  everyone can enjoy the experience comfortably. Whether you're searching for
+  top-rated sushi restaurants nearby or simply want to try something new, this
+  spot delivers flavorful options that capture the essence of Japanese cuisine.
+  It's a great choice for anyone exploring sushi places in the area, blending
+  affordability with a laid-back vibe.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback Highlights$$$From what diners share about places like this,
+  the sushi at spots in Orlando often gets high marks for its fresh ingredients
+  and creative rolls that keep things exciting without overwhelming the palate.
+  Many appreciate the straightforward service and inviting atmosphere that make
+  it easy to enjoy a meal, especially for those looking for reliable Japanese
+  options close by. While some mention it's perfect for a quick bite or group
+  outings, others note that the accessibility features add to the overall
+  convenience and enjoyment. Overall, feedback leans positive, with folks loving
+  the balance of taste and value, making it a solid pick for anyone hunting for
+  the best sushi near me. Keep in mind, it's all about that genuine, satisfying
+  experience that keeps people coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +249,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

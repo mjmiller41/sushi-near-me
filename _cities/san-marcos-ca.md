@@ -5,4 +5,5 @@ permalink: /california/san-marcos/
 stateAbbr: CA
 stateName: California
 cityName: San Marcos
+
 ---

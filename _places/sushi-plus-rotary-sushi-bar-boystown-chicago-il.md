@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Plus Rotary Sushi Bar Boystown"
+title: Sushi Plus Rotary Sushi Bar Boystown
 permalink: /illinois/chicago/sushi-plus-rotary-sushi-bar-boystown.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
 seo:
-  name: "Sushi Plus Rotary Sushi Bar Boystown"
-  type: Restaurant
-  links: null
-description: "Sushi Plus Rotary Sushi Bar Boystown serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.rotarysushi.com/
 place_id: ChIJxz_9GqTTD4gR44QMPax89Sg
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x880fd3a41afd3fc7:0x28f57cac3d0c84e3!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 13
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 13
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 13
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 13
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 13
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 1:00 – 10:00 PM'
+    - 'Tuesday: 1:00 – 10:00 PM'
+    - 'Wednesday: 1:00 – 10:00 PM'
+    - 'Thursday: 1:00 – 10:00 PM'
+    - 'Friday: 1:00 – 10:30 PM'
+    - 'Saturday: 12:00 – 10:30 PM'
+    - 'Sunday: 12:00 – 10:00 PM'
+  nextCloseTime: '2025-05-04T03:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,53 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (872) 802-0980
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.7'
+rating_count: 2192
+website: https://www.rotarysushi.com/
+description: >-
+  Discover Sushi Plus Rotary Sushi Bar in Chicago, IL$$$Nestled in the heart of
+  Chicago, IL, Sushi Plus Rotary Sushi Bar stands out as a vibrant spot for
+  fresh Japanese cuisine, featuring an innovative conveyor belt system that
+  delivers a variety of sushi options right to your table. This casual eatery
+  specializes in high-quality Japanese fare, including creative rolls and bento
+  boxes, making it a go-to choice for those seeking top-rated sushi experiences
+  in the city. With its welcoming atmosphere and thoughtful accessibility
+  features, such as wheelchair-friendly entrances and seating, it's designed to
+  accommodate everyone looking for authentic flavors in a fun setting. Patrons
+  can enjoy reasonably priced meals that highlight the best of Japanese
+  traditions, perfect for anyone exploring sushi restaurants near you or in
+  bustling neighborhoods like Lake View East.
+generative_summary: >-
+  Discover Sushi Plus Rotary Sushi Bar in Chicago, IL$$$Nestled in the heart of
+  Chicago, IL, Sushi Plus Rotary Sushi Bar stands out as a vibrant spot for
+  fresh Japanese cuisine, featuring an innovative conveyor belt system that
+  delivers a variety of sushi options right to your table. This casual eatery
+  specializes in high-quality Japanese fare, including creative rolls and bento
+  boxes, making it a go-to choice for those seeking top-rated sushi experiences
+  in the city. With its welcoming atmosphere and thoughtful accessibility
+  features, such as wheelchair-friendly entrances and seating, it's designed to
+  accommodate everyone looking for authentic flavors in a fun setting. Patrons
+  can enjoy reasonably priced meals that highlight the best of Japanese
+  traditions, perfect for anyone exploring sushi restaurants near you or in
+  bustling neighborhoods like Lake View East.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Love About This Sushi Spot$$$Folks rave about the fresh and
+  diverse selection of sushi here, with standout options like creative rolls and
+  sashimi that keep things exciting and delicious on every visit. Many
+  appreciate the unique conveyor belt setup, which adds a playful twist to
+  dining out and makes grabbing your next bite feel like an adventure. Reviewers
+  often note the solid value for the price, pointing out that the portions are
+  generous without breaking the bank, ideal for casual outings or groups.
+  Service stands out as friendly and attentive, helping to create a relaxed vibe
+  that enhances the overall meal. If you're on the hunt for reliable sushi
+  places near me, this spot consistently delivers a positive experience that's
+  worth checking out for its blend of quality and fun.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +314,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Ryusei"
+title: Sushi Ryusei
 permalink: /new-york/new-york/sushi-ryusei.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "Sushi Ryusei"
-  type: Restaurant
+  type: restaurant
   links: https://sushiryusei.com/
-description: "Sashimi & sushi with omakase options presented in a sophisticated, minimalist-chic atmosphere. Sushi Ryusei serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, and dinner."
 place_id: ChIJqTLS3nJZwokRGdkiM6Hj-BU
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $100 &ndash; & up
 rating: '4.5'
 rating_count: 0
 website: https://sushiryusei.com/
+description: >-
+  Experience Sushi Ryusei in New York, NY$$$Sushi Ryusei in New York, NY,
+  delivers a refined take on traditional Japanese cuisine with its focus on
+  fresh omakase selections and authentic dishes that highlight culinary
+  artistry. The restaurant boasts a minimalist-chic atmosphere that creates an
+  elegant backdrop for savoring high-quality sushi and sashimi, drawing from
+  time-honored techniques. Diners appreciate the variety of options, including
+  creative presentations that elevate the overall dining experience.
+  Accessibility features like wheelchair-friendly entrances and seating add to
+  the convenience, while outdoor options provide a pleasant spot for enjoying
+  meals in a vibrant urban setting.
+generative_summary: >-
+  Experience Sushi Ryusei in New York, NY$$$Sushi Ryusei in New York, NY,
+  delivers a refined take on traditional Japanese cuisine with its focus on
+  fresh omakase selections and authentic dishes that highlight culinary
+  artistry. The restaurant boasts a minimalist-chic atmosphere that creates an
+  elegant backdrop for savoring high-quality sushi and sashimi, drawing from
+  time-honored techniques. Diners appreciate the variety of options, including
+  creative presentations that elevate the overall dining experience.
+  Accessibility features like wheelchair-friendly entrances and seating add to
+  the convenience, while outdoor options provide a pleasant spot for enjoying
+  meals in a vibrant urban setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJqTLS3nJZwokRGdkiM6Hj-BU/reviews/ChZDSUhNMG9nS0VJQ0FnSUNfc2NERFRBEAE
@@ -376,6 +397,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNtd0pPRmp3RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNtd0pPRmp3RRAB!2m1!1s0x89c25972ded232a9:0x15f8e3a13322d919
+review_summary: >-
+  Guest Feedback on Sushi Ryusei$$$Visitors often rave about the fresh and
+  flavorful sushi offerings, particularly the omakase experiences that make for
+  an engaging and satisfying meal. Many highlight the attentive service and cozy
+  ambiance that contribute to a welcoming vibe, with dishes standing out for
+  their unique tastes and quality. While one account mentioned a rare issue with
+  food that was promptly addressed by the team, the general consensus leans
+  toward reliable experiences and great value for Japanese dining. Desserts
+  receive high marks for capping off visits on a sweet note, and overall, folks
+  find it a solid choice for enjoying top-rated sushi in the area. If you're
+  searching for reliable sushi spots nearby, this one frequently gets nods for
+  its consistent appeal and enjoyable atmosphere.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options:
   acceptsCreditCards: true
@@ -405,8 +439,8 @@ serves_lunch: false
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Sashimi & sushi with omakase options presented in a sophisticated,
   minimalist-chic atmosphere.
 

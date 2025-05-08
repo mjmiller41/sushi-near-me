@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ocean Blue Asian Fusion"
+title: Ocean Blue Asian Fusion
 permalink: /florida/clearwater/ocean-blue-asian-fusion.html
 stateAbbr: FL
 stateName: Florida
 cityName: Clearwater
 seo:
-  name: "Ocean Blue Asian Fusion"
-  type: Restaurant
+  type: restaurant
   links: https://oceanbluesushi.com/
-description: "Sushi, bento boxes & other Japanese dishes served in a small, bare-bones eatery. Ocean Blue Asian Fusion serves delicious sushi in Clearwater, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJw7sGc3XuwogRlg-BSbU99yI
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 0
 website: https://oceanbluesushi.com/
+description: >-
+  Explore Ocean Blue Asian Fusion in Clearwater, FL$$$Ocean Blue Asian Fusion in
+  Clearwater, Florida, stands out as a cozy spot for savoring fresh Japanese
+  dishes in a relaxed atmosphere. This sushi restaurant offers a variety of
+  creative rolls and flavorful options that highlight the best of Asian fusion
+  cuisine, making it a go-to choice for those seeking authentic tastes with a
+  modern twist. With attentive service and a selection of dishes like tasty
+  ramen and sake, it's ideal for casual meals with friends or family. The
+  accessible features, such as wheelchair-friendly seating and parking, add to
+  the welcoming vibe, ensuring everyone can enjoy the experience. Overall, it's
+  a reliable destination for anyone exploring top-rated sushi places near me in
+  the area.
+generative_summary: >-
+  Explore Ocean Blue Asian Fusion in Clearwater, FL$$$Ocean Blue Asian Fusion in
+  Clearwater, Florida, stands out as a cozy spot for savoring fresh Japanese
+  dishes in a relaxed atmosphere. This sushi restaurant offers a variety of
+  creative rolls and flavorful options that highlight the best of Asian fusion
+  cuisine, making it a go-to choice for those seeking authentic tastes with a
+  modern twist. With attentive service and a selection of dishes like tasty
+  ramen and sake, it's ideal for casual meals with friends or family. The
+  accessible features, such as wheelchair-friendly seating and parking, add to
+  the welcoming vibe, ensuring everyone can enjoy the experience. Overall, it's
+  a reliable destination for anyone exploring top-rated sushi places near me in
+  the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJw7sGc3XuwogRlg-BSbU99yI/reviews/ChdDSUhNMG9nS0VJQ0FnSUNIMGUyY2pRRRAB
@@ -350,6 +373,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN6emRyV1RBEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN6emRyV1RBEAE!2m1!1s0x88c2ee757306bbc3:0x22f73db549810f96
+review_summary: >-
+  Insights from Recent Reviews$$$Visitors to this sushi spot often rave about
+  the fresh and creative rolls that bring a fun element to their meals, making
+  it a hit for those craving flavorful Japanese options. Many appreciate the
+  attentive service and variety of dishes like sashimi and ramen, which deliver
+  a satisfying dining experience that's perfect for groups or a quick bite.
+  While some mentions of delivery orders note that food arrives cooler than
+  expected, the overall consensus highlights the spot's welcoming atmosphere and
+  solid portions that keep folks coming back. It's praised for its extensive
+  sake selection and kid-friendly features, adding to its appeal as a versatile
+  eatery. In short, if you're hunting for reliable sushi restaurants near me,
+  this place offers a generally enjoyable vibe with tasty highlights that make
+  it worth trying.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -381,8 +418,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Sushi, bento boxes & other Japanese dishes served in a small, bare-bones
   eatery.
 

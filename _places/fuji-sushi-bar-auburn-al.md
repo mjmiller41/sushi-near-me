@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Fuji Sushi Bar"
+title: Fuji Sushi Bar
 permalink: /alabama/auburn/fuji-sushi-bar.html
 stateAbbr: AL
 stateName: Alabama
 cityName: Auburn
 seo:
-  name: "Fuji Sushi Bar"
-  type: Restaurant
+  type: restaurant
   links: http://www.fujisushibarau.com/
-description: "Laid-back eatery serving familiar sushi rolls, teriyaki & other Japanese mains, with lunch specials. Fuji Sushi Bar serves delicious sushi in Auburn, Alabama. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJG7kx77zzjIgRb1WBuFYam0Q
 photos:
   - name: >-
@@ -185,6 +183,35 @@ price_range: $10 &ndash; $20
 rating: '4.1'
 rating_count: 0
 website: http://www.fujisushibarau.com/
+description: >-
+  Discover Fuji Sushi Bar in Auburn, Alabama$$$Nestled in the heart of Auburn,
+  Alabama, Fuji Sushi Bar stands out as a welcoming spot for enjoying authentic
+  Japanese cuisine, featuring an array of fresh sushi rolls and flavorful cooked
+  dishes that cater to a variety of tastes. This laid-back eatery offers a
+  relaxed atmosphere where diners can savor high-quality options like teriyaki
+  mains and light beverages, making it a go-to choice for those seeking sushi
+  experiences in the area. With its moderate pricing and accessible features
+  such as wheelchair-friendly seating, the restaurant provides a comfortable
+  setting for casual meals or quick lunches. Patrons appreciate the blend of
+  traditional flavors and modern convenience, enhanced by options for beer and
+  wine that pair perfectly with the menu. Whether you're exploring Japanese
+  places nearby or looking for reliable sushi restaurants, Fuji Sushi Bar
+  delivers a satisfying blend of quality and affordability.
+generative_summary: >-
+  Discover Fuji Sushi Bar in Auburn, Alabama$$$Nestled in the heart of Auburn,
+  Alabama, Fuji Sushi Bar stands out as a welcoming spot for enjoying authentic
+  Japanese cuisine, featuring an array of fresh sushi rolls and flavorful cooked
+  dishes that cater to a variety of tastes. This laid-back eatery offers a
+  relaxed atmosphere where diners can savor high-quality options like teriyaki
+  mains and light beverages, making it a go-to choice for those seeking sushi
+  experiences in the area. With its moderate pricing and accessible features
+  such as wheelchair-friendly seating, the restaurant provides a comfortable
+  setting for casual meals or quick lunches. Patrons appreciate the blend of
+  traditional flavors and modern convenience, enhanced by options for beer and
+  wine that pair perfectly with the menu. Whether you're exploring Japanese
+  places nearby or looking for reliable sushi restaurants, Fuji Sushi Bar
+  delivers a satisfying blend of quality and affordability.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJG7kx77zzjIgRb1WBuFYam0Q/reviews/ChdDSUhNMG9nS0VJQ0FnSUNQazRQV3VnRRAB
@@ -330,6 +357,22 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNYajQ3Rl9BRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNYajQ3Rl9BRRAB!2m1!1s0x888cf3bcef31b91b:0x449b1a56b881556f
+review_summary: >-
+  What Customers Are Sharing About Fuji Sushi Bar$$$Visitors often highlight the
+  fresh and well-prepared sushi rolls as a standout feature, making it a solid
+  pick for anyone craving quality Japanese options without breaking the bank.
+  While some folks mention that the overall experience can vary, with occasional
+  inconsistencies in food preparation, many appreciate the attentive service and
+  generous lunch specials that keep things approachable and enjoyable. Feedback
+  frequently praises the diverse menu for offering good value, especially when
+  compared to other local spots, encouraging repeat visits for those seeking
+  reliable flavors. On the upside, the restaurant's efforts to make things
+  right, like addressing any issues promptly, add to its welcoming vibe and
+  leave a positive impression overall. If you're hunting for top-rated sushi
+  near you, Fuji Sushi Bar comes through as a worthwhile stop, blending honest
+  affordability with moments of culinary delight that make it a favorite among
+  casual diners.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -361,8 +404,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Laid-back eatery serving familiar sushi rolls, teriyaki & other Japanese
   mains, with lunch specials.
 

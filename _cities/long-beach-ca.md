@@ -5,4 +5,5 @@ permalink: /california/long-beach/
 stateAbbr: CA
 stateName: California
 cityName: Long Beach
+
 ---

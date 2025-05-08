@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ocean Sushi Japanese and Thai Restaurant"
+title: Ocean Sushi Japanese and Thai Restaurant
 permalink: /minnesota/winona/ocean-sushi-japanese-and-thai-restaurant.html
 stateAbbr: MN
 stateName: Minnesota
 cityName: Winona
 seo:
-  name: "Ocean Sushi Japanese and Thai Restaurant"
-  type: Restaurant
+  type: restaurant
   links: http://www.oceansushimn.com/
-description: "Ocean Sushi Japanese and Thai Restaurant serves delicious sushi in Winona, Minnesota. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJaz73knht-YcROepKXXJ-VvQ
 photos:
   - name: >-
@@ -185,6 +183,27 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 0
 website: http://www.oceansushimn.com/
+description: >-
+  Discover Ocean Sushi in Winona, MN$$$Ocean Sushi Japanese and Thai Restaurant
+  in Winona, MN, offers a casual dining experience with a focus on fresh
+  Japanese and Thai flavors that appeal to sushi enthusiasts. The menu
+  highlights a variety of sushi options alongside flavorful Thai dishes,
+  creating a welcoming spot for those seeking authentic Asian cuisine in a
+  relaxed setting. With accessible features like wheelchair-friendly entrances
+  and parking, it's designed to accommodate all visitors comfortably. This spot
+  stands out for its generous portions and moderate pricing, making it a go-to
+  choice for anyone exploring top-rated Japanese and Thai options nearby.
+generative_summary: >-
+  Discover Ocean Sushi in Winona, MN$$$Ocean Sushi Japanese and Thai Restaurant
+  in Winona, MN, offers a casual dining experience with a focus on fresh
+  Japanese and Thai flavors that appeal to sushi enthusiasts. The menu
+  highlights a variety of sushi options alongside flavorful Thai dishes,
+  creating a welcoming spot for those seeking authentic Asian cuisine in a
+  relaxed setting. With accessible features like wheelchair-friendly entrances
+  and parking, it's designed to accommodate all visitors comfortably. This spot
+  stands out for its generous portions and moderate pricing, making it a go-to
+  choice for anyone exploring top-rated Japanese and Thai options nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJaz73knht-YcROepKXXJ-VvQ/reviews/ChZDSUhNMG9nS0VJQ0FnTURRNWZlM2VnEAE
@@ -428,6 +447,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURfX3VTYTBnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURfX3VTYTBnRRAB!2m1!1s0x87f96d7892f73e6b:0xf4567e725d4aea39
+review_summary: >-
+  What Customers Are Saying$$$Visitors often rave about the fresh sushi and
+  flavorful Thai dishes at this spot, noting that the rolls and entrees deliver
+  a great balance of taste and value. Many appreciate the generous portions,
+  which make meals feel satisfying and shareable, along with the friendly
+  service that keeps the atmosphere light and enjoyable. While most experiences
+  highlight the high-quality ingredients and welcoming vibe, a few mention
+  inconsistencies in certain dishes over time, though overall satisfaction
+  remains strong. If you're on the hunt for reliable sushi places near you, this
+  location tends to impress with its solid offerings and reasonable prices,
+  encouraging repeat visits for a pleasant dining adventure.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -460,7 +491,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

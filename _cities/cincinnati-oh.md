@@ -5,4 +5,5 @@ permalink: /ohio/cincinnati/
 stateAbbr: OH
 stateName: Ohio
 cityName: Cincinnati
+
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Prime Sushi On Main"
+title: Prime Sushi On Main
 permalink: /missouri/kansas-city/prime-sushi-on-main.html
 stateAbbr: MO
 stateName: Missouri
 cityName: Kansas City
 seo:
-  name: "Prime Sushi On Main"
-  type: Restaurant
+  type: restaurant
   links: http://primesushikc.com/
-description: "Japanese plates & innovative sushi pair alongside signature cocktails in a casual dining room. Prime Sushi On Main serves delicious sushi in Kansas City, Missouri. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJE0kybLzvwIcRv6hErUuH3cE
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 0
 website: http://primesushikc.com/
+description: >-
+  Discover Prime Sushi On Main in Kansas City$$$Prime Sushi On Main in Kansas
+  City, MO, stands out as a welcoming spot for enjoying fresh sushi and
+  Japanese-inspired dishes in a relaxed setting. This casual eatery offers a
+  variety of inventive rolls and specialties, making it a great choice for
+  families or groups seeking flavorful options like signature sushi creations
+  and happy hour deals. With thoughtful accessibility features and outdoor
+  seating, it's designed to accommodate diverse diners while maintaining a
+  comfortable atmosphere. The menu highlights fresh ingredients and moderate
+  pricing, appealing to those exploring top-rated sushi restaurants nearby.
+  Whether you're in the mood for a quick bite or a leisurely meal, this spot
+  delivers a blend of quality and convenience in the heart of the city.
+generative_summary: >-
+  Discover Prime Sushi On Main in Kansas City$$$Prime Sushi On Main in Kansas
+  City, MO, stands out as a welcoming spot for enjoying fresh sushi and
+  Japanese-inspired dishes in a relaxed setting. This casual eatery offers a
+  variety of inventive rolls and specialties, making it a great choice for
+  families or groups seeking flavorful options like signature sushi creations
+  and happy hour deals. With thoughtful accessibility features and outdoor
+  seating, it's designed to accommodate diverse diners while maintaining a
+  comfortable atmosphere. The menu highlights fresh ingredients and moderate
+  pricing, appealing to those exploring top-rated sushi restaurants nearby.
+  Whether you're in the mood for a quick bite or a leisurely meal, this spot
+  delivers a blend of quality and convenience in the heart of the city.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJE0kybLzvwIcRv6hErUuH3cE/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3MllLWHJ3RRAB
@@ -348,6 +371,21 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURndkxlS21nRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURndkxlS21nRRAB!2m1!1s0x87c0efbc6c324913:0xc1dd874bad44a8bf
+review_summary: >-
+  What People Are Saying About the Sushi$$$Visitors to this sushi spot often
+  rave about the delicious rolls and creative specials that make for a
+  satisfying meal, with many highlighting the great value during lunch hours.
+  Folks appreciate the friendly service and welcoming vibe, which keeps things
+  light and enjoyable even for casual get-togethers, though some note that wait
+  times can vary depending on the crowd. The standout appetizers and overall
+  freshness of the dishes have earned it high marks from those seeking reliable
+  Japanese places near them, with positive feedback on the cozy ambiance adding
+  to the appeal. While a few mention minor hiccups like dim lighting, the
+  general consensus leans toward it being a solid pick for anyone hunting for
+  best sushi experiences in the area. All in all, it's a go-to option that
+  delivers tasty results without overcomplicating things, leaving most patrons
+  eager to return.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -380,8 +418,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Japanese plates & innovative sushi pair alongside signature cocktails in a
   casual dining room.
 

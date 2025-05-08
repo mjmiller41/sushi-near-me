@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Doshi"
+title: Doshi
 permalink: /texas/melissa/doshi.html
 stateAbbr: TX
 stateName: Texas
 cityName: Melissa
 seo:
-  name: "Doshi"
-  type: Restaurant
+  type: restaurant
   links: http://www.doshimelissa.com/
-description: "Doshi serves delicious sushi in Melissa, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJbwkedRBzTIYR6vZyNU-XInk
 photos:
   - name: >-
@@ -169,7 +167,105 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x864c7310751e096f:0x7922974f3572f6ea!10e5
 primary_type: Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 14
+        minute: 0
+    - open:
+        day: 0
+        hour: 16
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 14
+        minute: 0
+    - open:
+        day: 6
+        hour: 16
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:00 AM – 2:00 PM, 4:30 – 9:00 PM'
     - 'Wednesday: 11:00 AM – 2:00 PM, 4:30 – 9:00 PM'
@@ -177,14 +273,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 2:00 PM, 4:30 – 10:00 PM'
     - 'Saturday: 11:00 AM – 2:00 PM, 4:30 – 10:00 PM'
     - 'Sunday: 11:00 AM – 2:00 PM, 4:30 – 9:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:00 AM – 2:00 PM, 4:30 – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 2:00 PM, 4:30 – 9:00 PM'
-    - 'Thursday: 11:00 AM – 2:00 PM, 4:30 – 9:00 PM'
-    - 'Friday: 11:00 AM – 2:00 PM, 4:30 – 10:00 PM'
-    - 'Saturday: 11:00 AM – 2:00 PM, 4:30 – 10:00 PM'
-    - 'Sunday: 11:00 AM – 2:00 PM, 4:30 – 9:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,35 +285,275 @@ phone: (972) 369-7550
 price_level: null
 price_range: $10 &ndash; $20
 rating: '4.6'
-rating_count: 0
+rating_count: 156
 website: http://www.doshimelissa.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Explore Doshi in Melissa, TX$$$Nestled in Melissa, TX, Doshi stands out as a
+  welcoming sushi restaurant offering a blend of Japanese and Korean dishes in a
+  relaxed atmosphere. This spot features fresh ramen and sushi options that
+  highlight authentic flavors, making it a go-to for those seeking quality Asian
+  cuisine close to home. With accessibility features like wheelchair-friendly
+  entrances and seating, it's designed for everyone to enjoy a comfortable
+  dining experience. The menu caters to various tastes with options for lunch
+  and dinner, including vegetarian choices, and ample parking adds to the
+  convenience for visitors exploring top-rated sushi spots nearby.
+generative_summary: >-
+  Explore Doshi in Melissa, TX$$$Nestled in Melissa, TX, Doshi stands out as a
+  welcoming sushi restaurant offering a blend of Japanese and Korean dishes in a
+  relaxed atmosphere. This spot features fresh ramen and sushi options that
+  highlight authentic flavors, making it a go-to for those seeking quality Asian
+  cuisine close to home. With accessibility features like wheelchair-friendly
+  entrances and seating, it's designed for everyone to enjoy a comfortable
+  dining experience. The menu caters to various tastes with options for lunch
+  and dinner, including vegetarian choices, and ample parking adds to the
+  convenience for visitors exploring top-rated sushi spots nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJbwkedRBzTIYR6vZyNU-XInk/reviews/ChZDSUhNMG9nS0VJQ0FnTUNBOWNTVFJnEAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        Picked up an order to go to try for the first time, will most definitely
+        be returning. Everything was fresh and tasted delicious. The tempura was
+        a little soggy but that’s on my end for having to drive home with it
+        first. Still, it didn’t taste like old oil and was great. Shrimp was a
+        little small but tasted fresh and not overcooked. Sometimes the tempura
+        veggies aren’t cooked well at other restaurants but these were cooked
+        perfectly- no raw centers. Crazy boy was a cooked sushi and was very
+        good. The spicy tuna crispy rice had no detectable spice, in fact I
+        forgot it was supposed to be spicy until I checked the receipt after.
+        Besides that, it was extremely good. Rice was crispy and chewy and the
+        tuna on top was very fresh.  Very sweet sauce that went well with it.
+
+
+        Really excited this place has opened up nearby and will recommend it to
+        others
+      languageCode: en
+    originalText:
+      text: >-
+        Picked up an order to go to try for the first time, will most definitely
+        be returning. Everything was fresh and tasted delicious. The tempura was
+        a little soggy but that’s on my end for having to drive home with it
+        first. Still, it didn’t taste like old oil and was great. Shrimp was a
+        little small but tasted fresh and not overcooked. Sometimes the tempura
+        veggies aren’t cooked well at other restaurants but these were cooked
+        perfectly- no raw centers. Crazy boy was a cooked sushi and was very
+        good. The spicy tuna crispy rice had no detectable spice, in fact I
+        forgot it was supposed to be spicy until I checked the receipt after.
+        Besides that, it was extremely good. Rice was crispy and chewy and the
+        tuna on top was very fresh.  Very sweet sauce that went well with it.
+
+
+        Really excited this place has opened up nearby and will recommend it to
+        others
+      languageCode: en
+    authorAttribution:
+      displayName: Bethany Schutte
+      uri: https://www.google.com/maps/contrib/116981319449474037748/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocK8PFYEDggfsGdODD9CpQ4ecoRhQ7G53DxOpNNG3EUqSKkBVQ=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-02-03T00:15:48.062585Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNBOWNTVFJnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNBOWNTVFJnEAE!2m1!1s0x864c7310751e096f:0x7922974f3572f6ea
+  - name: >-
+      places/ChIJbwkedRBzTIYR6vZyNU-XInk/reviews/ChdDSUhNMG9nS0VJQ0FnTURnOE1tRjJRRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 4
+    text:
+      text: >-
+        Ordered the crispy Goyza, chicken karaage,  shrimp crunch roll, bulgogi
+        rice bowl, and miso ramen (spicy). The Goyza was very crispy and good.
+        The karaage was good too. It wasn't as crispy as I liked, but I would
+        order it again. The shrimp roll kinda small. It is very tasty. I really
+        liked the bulgogi. The only problem I had with it was too much rice and
+        not enough meat or vegetables.  Personally, I don't think I would order
+        it again. The ramen was very good. The noodles were cooked well. The
+        broth was very tasty. The egg was a bit plain. What I didn't like was
+        that it cost extra to make it spicy. I didn't get enough heat to warrant
+        the extra cost. I also think it needed a bit more vegetables like maybe
+        some green onions. Saying that, I would go back for the ramen again. The
+        restaurant was very clean, but it was a bit cold inside. Granted, it was
+        in the low 30s, but let's turn on the heaters, please. Our waitress was
+        very friendly and attentive. Please keep in mind that taste is
+        subjective. I do recommend this place, and I will definitely be back.
+      languageCode: en
+    originalText:
+      text: >-
+        Ordered the crispy Goyza, chicken karaage,  shrimp crunch roll, bulgogi
+        rice bowl, and miso ramen (spicy). The Goyza was very crispy and good.
+        The karaage was good too. It wasn't as crispy as I liked, but I would
+        order it again. The shrimp roll kinda small. It is very tasty. I really
+        liked the bulgogi. The only problem I had with it was too much rice and
+        not enough meat or vegetables.  Personally, I don't think I would order
+        it again. The ramen was very good. The noodles were cooked well. The
+        broth was very tasty. The egg was a bit plain. What I didn't like was
+        that it cost extra to make it spicy. I didn't get enough heat to warrant
+        the extra cost. I also think it needed a bit more vegetables like maybe
+        some green onions. Saying that, I would go back for the ramen again. The
+        restaurant was very clean, but it was a bit cold inside. Granted, it was
+        in the low 30s, but let's turn on the heaters, please. Our waitress was
+        very friendly and attentive. Please keep in mind that taste is
+        subjective. I do recommend this place, and I will definitely be back.
+      languageCode: en
+    authorAttribution:
+      displayName: Santiago
+      uri: https://www.google.com/maps/contrib/117306849642602529469/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVx8s6ayDaET27DZcU80eU6SAguqZm0UD2i47eRlZL8vyBaUC6R=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-02-22T04:29:02.771288Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURnOE1tRjJRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURnOE1tRjJRRRAB!2m1!1s0x864c7310751e096f:0x7922974f3572f6ea
+  - name: >-
+      places/ChIJbwkedRBzTIYR6vZyNU-XInk/reviews/ChZDSUhNMG9nS0VJQ0FnTUNBenFLZVR3EAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 3
+    text:
+      text: >-
+        Very clean and tidy space with great service. But the food just fell
+        flat. The spider roll was super basic but flavorful. But the spicy miso
+        ramen was really bad. Like the worst ramen I've ever had a restaurant.
+
+
+        The chasu pork was embarrassingly bad and overcooked. It tasted like it
+        was burnt on the grill, plus it was razor thin. The broth tasted like
+        statight peanut butter. It was an absolute horrible representation of
+        ramen.
+      languageCode: en
+    originalText:
+      text: >-
+        Very clean and tidy space with great service. But the food just fell
+        flat. The spider roll was super basic but flavorful. But the spicy miso
+        ramen was really bad. Like the worst ramen I've ever had a restaurant.
+
+
+        The chasu pork was embarrassingly bad and overcooked. It tasted like it
+        was burnt on the grill, plus it was razor thin. The broth tasted like
+        statight peanut butter. It was an absolute horrible representation of
+        ramen.
+      languageCode: en
+    authorAttribution:
+      displayName: Preston Rollins
+      uri: https://www.google.com/maps/contrib/104863952388733153225/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjU6gL8z0BYwlT9FEMYGx60IyRrv2QuWpKEaDyN17DBg5WCoc6mZ=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-01-31T22:18:57.542363Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNBenFLZVR3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNBenFLZVR3EAE!2m1!1s0x864c7310751e096f:0x7922974f3572f6ea
+  - name: >-
+      places/ChIJbwkedRBzTIYR6vZyNU-XInk/reviews/ChdDSUhNMG9nS0VJQ0FnTUNncXFHSXJnRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        The food was absolutely amazing! Excellent quality and we ordered a
+        variety of dishes. The service was top notch as well. We will definitely
+        go back.
+      languageCode: en
+    originalText:
+      text: >-
+        The food was absolutely amazing! Excellent quality and we ordered a
+        variety of dishes. The service was top notch as well. We will definitely
+        go back.
+      languageCode: en
+    authorAttribution:
+      displayName: Cherae Balzen
+      uri: https://www.google.com/maps/contrib/116539219494590360622/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIDeocP7xzFjpGxrtIxMERjIUIVEcmfzFfltoDw4O7WUVP5og=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-02-16T02:11:02.206568Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNncXFHSXJnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNncXFHSXJnRRAB!2m1!1s0x864c7310751e096f:0x7922974f3572f6ea
+  - name: >-
+      places/ChIJbwkedRBzTIYR6vZyNU-XInk/reviews/ChZDSUhNMG9nS0VJQ0FnSUMzNkkzMFBnEAE
+    relativePublishTimeDescription: 6 months ago
+    rating: 4
+    text:
+      text: >-
+        The service was fantastic, they really took care of us quickly and were
+        super friendly.
+
+
+        The agadashi tofu was the best I ever had, great presentation. They are
+        soon to get their liquor license as well.
+
+
+        Perfect for a family outing.
+      languageCode: en
+    originalText:
+      text: >-
+        The service was fantastic, they really took care of us quickly and were
+        super friendly.
+
+
+        The agadashi tofu was the best I ever had, great presentation. They are
+        soon to get their liquor license as well.
+
+
+        Perfect for a family outing.
+      languageCode: en
+    authorAttribution:
+      displayName: Sid Cyber
+      uri: https://www.google.com/maps/contrib/109133790682911353609/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXMyiYNVoGUDzwu7BI1n-WzuDqlkhUCoL15VJSB7ANsl-mQa-Dn=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2024-11-02T12:29:08.836840Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUMzNkkzMFBnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUMzNkkzMFBnEAE!2m1!1s0x864c7310751e096f:0x7922974f3572f6ea
+review_summary: >-
+  Visitor Feedback on Doshi$$$Folks generally rave about the tasty dishes at
+  this spot, with many highlighting the flavorful bulgogi bowls, ramen, and
+  sushi as standout favorites that hit the spot just right. While some mention
+  minor hiccups like portion sizes or spice levels not quite matching
+  expectations, the overall vibe remains positive thanks to the friendly service
+  and clean setting that make every visit feel easygoing. It's clear that the
+  fresh ingredients and variety keep diners coming back, often praising the
+  crispy appetizers and well-prepared mains as a solid pick for casual meals.
+  All in all, this place earns high marks for its welcoming approach, making it
+  a reliable choice if you're on the hunt for good sushi options around town.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsCashOnly: false
 allow_dogs: null
 curbside_pickup: null
 delivery: null
-dine_in: null
+dine_in: true
 good_for_children: null
 good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
+good_for_sports: false
+live_music: false
+menu_for_children: true
+outdoor_seating: false
 reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
 serves_cocktails: null
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

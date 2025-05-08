@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "5 Star Sushi"
+title: 5 Star Sushi
 permalink: /oklahoma/warr-acres/5-star-sushi.html
 stateAbbr: OK
 stateName: Oklahoma
 cityName: Warr Acres
 seo:
-  name: "5 Star Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://5starsushiokc.com/
-description: "5 Star Sushi serves delicious sushi in Warr Acres, Oklahoma. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ9b2JgDgbsocR8W3uDNcVaMI
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x87b21b388089bdf5:0xc26815d70cee6df1!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 16
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 5:00 – 10:00 PM'
     - 'Tuesday: 11:00 AM – 10:00 PM'
     - 'Wednesday: 11:00 AM – 10:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:00 PM'
     - 'Saturday: 11:00 AM – 10:00 PM'
     - 'Sunday: 4:00 – 10:00 PM'
-  current:
-    - 'Monday: 5:00 – 10:00 PM'
-    - 'Tuesday: 11:00 AM – 10:00 PM'
-    - 'Wednesday: 11:00 AM – 10:00 PM'
-    - 'Thursday: 11:00 AM – 10:00 PM'
-    - 'Friday: 11:00 AM – 10:00 PM'
-    - 'Saturday: 11:00 AM – 10:00 PM'
-    - 'Sunday: 4:00 – 10:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,252 @@ phone: (405) 792-2211
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.7'
-rating_count: 0
+rating_count: 162
 website: https://5starsushiokc.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover 5 Star Sushi in Warr Acres, OK$$$Nestled in Warr Acres, OK, 5 Star
+  Sushi stands out as a go-to spot for fresh Japanese cuisine, offering a
+  variety of sushi rolls, poke bowls, and flavorful fried rice that appeal to
+  sushi enthusiasts nearby. This counter-serve restaurant creates an inviting
+  atmosphere with its accessible features, including wheelchair-friendly parking
+  and seating, making it easy for everyone to enjoy a meal. Patrons appreciate
+  the kid-friendly options and moderate pricing, which add to its appeal for
+  families or quick dinners after a long day. The spot's open hours, including
+  evenings and weekends, ensure it's a convenient choice for those searching for
+  top-rated sushi restaurants in the area. With a focus on quality ingredients
+  and thoughtful presentation, it's a solid option for anyone craving authentic
+  flavors without the hassle.
+generative_summary: >-
+  Discover 5 Star Sushi in Warr Acres, OK$$$Nestled in Warr Acres, OK, 5 Star
+  Sushi stands out as a go-to spot for fresh Japanese cuisine, offering a
+  variety of sushi rolls, poke bowls, and flavorful fried rice that appeal to
+  sushi enthusiasts nearby. This counter-serve restaurant creates an inviting
+  atmosphere with its accessible features, including wheelchair-friendly parking
+  and seating, making it easy for everyone to enjoy a meal. Patrons appreciate
+  the kid-friendly options and moderate pricing, which add to its appeal for
+  families or quick dinners after a long day. The spot's open hours, including
+  evenings and weekends, ensure it's a convenient choice for those searching for
+  top-rated sushi restaurants in the area. With a focus on quality ingredients
+  and thoughtful presentation, it's a solid option for anyone craving authentic
+  flavors without the hassle.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ9b2JgDgbsocR8W3uDNcVaMI/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJcUx1RlBnEAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Oh man, I wish I would have been more hungry! The firecracker roll was
+        so good I wanted to try more. The presentation was beautiful. I dined
+        alone and got great service. 100% would return here.
+      languageCode: en
+    originalText:
+      text: >-
+        Oh man, I wish I would have been more hungry! The firecracker roll was
+        so good I wanted to try more. The presentation was beautiful. I dined
+        alone and got great service. 100% would return here.
+      languageCode: en
+    authorAttribution:
+      displayName: Mickey Fearn
+      uri: https://www.google.com/maps/contrib/106080920635798341757/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLsQ6Miz2YeQbfdfjiHUu0ztOHxKV62K9PXG3plsZVQHGTZ9jk=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-03-29T21:53:20.830128Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNJcUx1RlBnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNJcUx1RlBnEAE!2m1!1s0x87b21b388089bdf5:0xc26815d70cee6df1
+  - name: >-
+      places/ChIJ9b2JgDgbsocR8W3uDNcVaMI/reviews/ChZDSUhNMG9nS0VJQ0FnSUROOWQzX2R3EAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        Been here twice ordered Togo for lunch. Their food portion is really
+        good for the price and quality is good too. I highly recommended here
+        for lunch or dinner :)
+
+
+        Back again today for lunch and they’re as sweet as always. Chef always
+        gives extra with no extra charges. The food is well presented and
+        flavorful. Thanks for being so close to my workplace!
+      languageCode: en
+    originalText:
+      text: >-
+        Been here twice ordered Togo for lunch. Their food portion is really
+        good for the price and quality is good too. I highly recommended here
+        for lunch or dinner :)
+
+
+        Back again today for lunch and they’re as sweet as always. Chef always
+        gives extra with no extra charges. The food is well presented and
+        flavorful. Thanks for being so close to my workplace!
+      languageCode: en
+    authorAttribution:
+      displayName: Kelly Nguyen
+      uri: https://www.google.com/maps/contrib/107663958152536876672/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKA_2RDtht3r5wSD7gNLDgg5PpP1IE6j3BB5dWYO6yaeSFFDQ=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-04-10T17:34:03.630688Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUROOWQzX2R3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUROOWQzX2R3EAE!2m1!1s0x87b21b388089bdf5:0xc26815d70cee6df1
+  - name: >-
+      places/ChIJ9b2JgDgbsocR8W3uDNcVaMI/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRMTdmN1BBEAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        So good!  Food presentation is always pretty and very appetizing.  We
+        have never been let down with quality or quantity. Prices are in line if
+        not better when you add some of their monthly specials to your order.
+        Your meal always begins with a  small complimentary soup also. Their
+        drinks are also tasty. We are so glad they are in Warr Acres and easy to
+        get to. It is our sushi go to !
+      languageCode: en
+    originalText:
+      text: >-
+        So good!  Food presentation is always pretty and very appetizing.  We
+        have never been let down with quality or quantity. Prices are in line if
+        not better when you add some of their monthly specials to your order.
+        Your meal always begins with a  small complimentary soup also. Their
+        drinks are also tasty. We are so glad they are in Warr Acres and easy to
+        get to. It is our sushi go to !
+      languageCode: en
+    authorAttribution:
+      displayName: J Otto
+      uri: https://www.google.com/maps/contrib/106351023778682695638/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJbfL9LeXzXq6tq7sQpRKV8dOLnDH1DRwZikjBG-6TWukMH7rfv=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-07T21:13:34.780946Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNRMTdmN1BBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNRMTdmN1BBEAE!2m1!1s0x87b21b388089bdf5:0xc26815d70cee6df1
+  - name: >-
+      places/ChIJ9b2JgDgbsocR8W3uDNcVaMI/reviews/ChZDSUhNMG9nS0VJQ0FnSURmd3ZpQk5nEAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        We are usually regulars of Volcano in Moore, but decided to stop in
+        today for dinner as we were all the way up in NWOKC for an appt, and it
+        had been a while since we had sushi. Long story short, Volcano is still
+        a solid choice but I will not mind making the trip from Norman up here
+        for sushi any time. Quiet, cozy, great food, very tasteful atmosphere
+        and fantastic service. Thanks again.
+      languageCode: en
+    originalText:
+      text: >-
+        We are usually regulars of Volcano in Moore, but decided to stop in
+        today for dinner as we were all the way up in NWOKC for an appt, and it
+        had been a while since we had sushi. Long story short, Volcano is still
+        a solid choice but I will not mind making the trip from Norman up here
+        for sushi any time. Quiet, cozy, great food, very tasteful atmosphere
+        and fantastic service. Thanks again.
+      languageCode: en
+    authorAttribution:
+      displayName: Jordan Smith
+      uri: https://www.google.com/maps/contrib/111094886856262190387/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUdqzNZ5qd9BXEG2czfWLbpe5Rr2kpxVuCi5XQvn4yDb8BUi0pmKA=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-01-04T23:25:32.682296Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURmd3ZpQk5nEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURmd3ZpQk5nEAE!2m1!1s0x87b21b388089bdf5:0xc26815d70cee6df1
+  - name: >-
+      places/ChIJ9b2JgDgbsocR8W3uDNcVaMI/reviews/ChdDSUhNMG9nS0VJQ0FnSURqdmZfVTFBRRAB
+    relativePublishTimeDescription: 10 months ago
+    rating: 5
+    text:
+      text: >-
+        Returned to for sit down dinner..... Even better than the first time.
+
+        The food and the service was EXCELLENT!
+
+
+        ---------
+
+
+        The Staff and sushi chef went out of their way to make this a great
+        experience! The sushi was awesome and I loved the dumplings.
+      languageCode: en
+    originalText:
+      text: >-
+        Returned to for sit down dinner..... Even better than the first time.
+
+        The food and the service was EXCELLENT!
+
+
+        ---------
+
+
+        The Staff and sushi chef went out of their way to make this a great
+        experience! The sushi was awesome and I loved the dumplings.
+      languageCode: en
+    authorAttribution:
+      displayName: Sonja Langley
+      uri: https://www.google.com/maps/contrib/117035996746300525166/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVOJ552FxPsu2xpIRI3-9JDpiALw8LJmOVsJlCZAFdIO-tr2Mk2=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-06-14T21:28:59.270619Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURqdmZfVTFBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURqdmZfVTFBRRAB!2m1!1s0x87b21b388089bdf5:0xc26815d70cee6df1
+review_summary: >-
+  Insights from Recent Reviews$$$Visitors consistently praise the vibrant
+  flavors and generous portions at this sushi spot, often noting how the fresh
+  rolls and creative specials make every meal feel special. Many highlight the
+  attentive service and welcoming vibe that enhance the overall dining
+  experience, turning a simple lunch into a highlight of the day. Folks
+  appreciate the value for money, with comments on the tasty appetizers and
+  complimentary touches that add extra satisfaction. While some mention it's
+  worth the drive for sushi lovers in the region, the consensus leans toward it
+  being a reliable choice for casual get-togethers or solo visits. Overall, the
+  feedback paints a picture of a place that delivers solid, enjoyable meals with
+  a positive energy that keeps people coming back.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  paidParkingLot: false
+  freeStreetParking: false
+  paidStreetParking: false
+  valetParking: false
+  freeGarageParking: false
+  paidGarageParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
+curbside_pickup: true
+delivery: true
+dine_in: true
+good_for_children: true
 good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+good_for_sports: false
+live_music: false
+menu_for_children: true
+outdoor_seating: false
+reservable: false
+restroom: true
+serves_beer: false
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: false
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: false
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

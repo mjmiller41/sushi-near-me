@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sam Sushi Art & Music"
+title: Sam Sushi Art & Music
 permalink: /massachusetts/framingham/sam-sushi-art-music.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Framingham
 seo:
-  name: "Sam Sushi Art & Music"
-  type: Restaurant
+  type: restaurant
   links: http://www.samsushiartmusic.com/
-description: "Sam Sushi Art & Music serves delicious sushi in Framingham, Massachusetts. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJWakixs2J44kR193Hbro5VEM
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89e389cdc622a959:0x435439ba6ec7ddd7!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 23
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 0
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 0
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 10:00 PM'
     - 'Tuesday: 11:30 AM – 10:00 PM'
     - 'Wednesday: 11:30 AM – 10:00 PM'
@@ -178,28 +234,123 @@ opening_hours:
     - 'Friday: 11:30 AM – 12:00 AM'
     - 'Saturday: 11:30 AM – 12:00 AM'
     - 'Sunday: 11:30 AM – 10:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 10:00 PM'
-    - 'Tuesday: 11:30 AM – 10:00 PM'
-    - 'Wednesday: 11:30 AM – 10:00 PM'
-    - 'Thursday: 11:30 AM – 11:00 PM'
-    - 'Friday: 11:30 AM – 12:00 AM'
-    - 'Saturday: 11:30 AM – 12:00 AM'
-    - 'Sunday: 11:30 AM – 10:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 11
+          minute: 30
+        close:
+          day: 0
+          hour: 22
+          minute: 0
+      - open:
+          day: 1
+          hour: 11
+          minute: 30
+        close:
+          day: 1
+          hour: 22
+          minute: 0
+      - open:
+          day: 2
+          hour: 11
+          minute: 30
+        close:
+          day: 2
+          hour: 22
+          minute: 0
+      - open:
+          day: 3
+          hour: 11
+          minute: 30
+        close:
+          day: 3
+          hour: 22
+          minute: 0
+      - open:
+          day: 4
+          hour: 11
+          minute: 30
+        close:
+          day: 4
+          hour: 23
+          minute: 0
+      - open:
+          day: 5
+          hour: 11
+          minute: 30
+        close:
+          day: 6
+          hour: 0
+          minute: 0
+      - open:
+          day: 6
+          hour: 11
+          minute: 30
+        close:
+          day: 0
+          hour: 0
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 11:30 AM – 10:00 PM'
+      - 'Tuesday: 11:30 AM – 10:00 PM'
+      - 'Wednesday: 11:30 AM – 10:00 PM'
+      - 'Thursday: 11:30 AM – 11:00 PM'
+      - 'Friday: 11:30 AM – 12:00 AM'
+      - 'Saturday: 11:30 AM – 12:00 AM'
+      - 'Sunday: 11:30 AM – 10:00 PM'
+    secondaryHoursType: DELIVERY
+    nextCloseTime: '2025-05-04T04:00:00Z'
 phone: (508) 861-7020
 price_level: null
 price_range: $50 &ndash; $100
 rating: '4.8'
-rating_count: 0
+rating_count: 1576
 website: http://www.samsushiartmusic.com/
+description: >-
+  Discover Sam Sushi Art & Music in Framingham, MA$$$Sam Sushi Art & Music in
+  Framingham, MA, stands out as a vibrant sushi restaurant blending fresh
+  flavors with creative presentations for an engaging dining experience. This
+  spot offers an extensive selection of sushi options, including inventive rolls
+  and classic dishes that cater to various tastes, making it a go-to choice for
+  those searching for top-rated sushi nearby. With its welcoming atmosphere and
+  accessibility features like wheelchair-friendly entrances and seating, it's
+  designed to accommodate everyone comfortably. The restaurant maintains
+  flexible hours, staying open late on weekends to suit evening cravings,
+  ensuring you can enjoy quality Japanese-inspired cuisine without hassle.
+  Whether you're exploring sushi places near me or seeking a reliable spot for
+  flavorful meals, this location delivers on both taste and convenience.
+generative_summary: >-
+  Discover Sam Sushi Art & Music in Framingham, MA$$$Sam Sushi Art & Music in
+  Framingham, MA, stands out as a vibrant sushi restaurant blending fresh
+  flavors with creative presentations for an engaging dining experience. This
+  spot offers an extensive selection of sushi options, including inventive rolls
+  and classic dishes that cater to various tastes, making it a go-to choice for
+  those searching for top-rated sushi nearby. With its welcoming atmosphere and
+  accessibility features like wheelchair-friendly entrances and seating, it's
+  designed to accommodate everyone comfortably. The restaurant maintains
+  flexible hours, staying open late on weekends to suit evening cravings,
+  ensuring you can enjoy quality Japanese-inspired cuisine without hassle.
+  Whether you're exploring sushi places near me or seeking a reliable spot for
+  flavorful meals, this location delivers on both taste and convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback Highlights$$$Folks rave about the all-you-can-eat deals at
+  this sushi spot, pointing out the fresh variety of options that keep things
+  exciting and satisfying. Many appreciate the helpful service that guides
+  diners through the menu, making recommendations that enhance the overall meal
+  without feeling pushy. It's clear that the focus on quality ingredients and
+  creative twists on favorites like salmon and tuna dishes leaves a positive
+  impression. While some mention the lively vibe adds to the fun, opinions
+  generally lean toward it being a solid pick for groups or solo visits, with
+  consistent highlights on the welcoming staff. If you're on the hunt for the
+  best sushi near me, this place often comes up as a reliable favorite that
+  delivers good value and enjoyable vibes.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +376,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,14 @@
 ---
 layout: place
-title: "Sushigawa"
+title: Sushigawa
 permalink: /illinois/peoria/sushigawa.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Peoria
 seo:
-  name: "Sushigawa"
-  type: Restaurant
-  links: https://order.mealkeyway.com/merchant/5264324853707a6a6d697a3479317851774158746d513d3d/main
-description: "Sushigawa serves delicious sushi in Peoria, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
+  type: restaurant
+  links: >-
+    https://order.mealkeyway.com/merchant/5264324853707a6a6d697a3479317851774158746d513d3d/main
 place_id: ChIJ74zotNldCogRX39nxz7Yc2A
 photos:
   - name: >-
@@ -186,6 +185,33 @@ rating: '4.0'
 rating_count: 0
 website: >-
   https://order.mealkeyway.com/merchant/5264324853707a6a6d697a3479317851774158746d513d3d/main
+description: >-
+  Explore Sushigawa in Peoria, IL$$$Sushigawa in Peoria, Illinois, stands out as
+  a welcoming spot for enjoying fresh sushi and Japanese-inspired dishes,
+  blending quality seafood specialties with a relaxed, family-friendly
+  atmosphere. This sushi restaurant offers an array of rolls, sashimi, and other
+  flavorful options that highlight the best of Japanese cuisine, making it a
+  go-to choice for those seeking top-rated sushi experiences nearby. With
+  thoughtful accessibility features and a cozy setting, it's designed to
+  accommodate various diners, from casual meals to group gatherings. The menu
+  caters to a range of preferences, including vegetarian choices and beverages
+  like beer and wine, ensuring a satisfying visit for everyone. Whether you're
+  exploring sushi places near you or looking for a comforting escape, Sushigawa
+  delivers on fresh flavors and attentive service.
+generative_summary: >-
+  Explore Sushigawa in Peoria, IL$$$Sushigawa in Peoria, Illinois, stands out as
+  a welcoming spot for enjoying fresh sushi and Japanese-inspired dishes,
+  blending quality seafood specialties with a relaxed, family-friendly
+  atmosphere. This sushi restaurant offers an array of rolls, sashimi, and other
+  flavorful options that highlight the best of Japanese cuisine, making it a
+  go-to choice for those seeking top-rated sushi experiences nearby. With
+  thoughtful accessibility features and a cozy setting, it's designed to
+  accommodate various diners, from casual meals to group gatherings. The menu
+  caters to a range of preferences, including vegetarian choices and beverages
+  like beer and wine, ensuring a satisfying visit for everyone. Whether you're
+  exploring sushi places near you or looking for a comforting escape, Sushigawa
+  delivers on fresh flavors and attentive service.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ74zotNldCogRX39nxz7Yc2A/reviews/ChZDSUhNMG9nS0VJQ0FnSURmZ3JXUEh3EAE
@@ -355,6 +381,21 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN2bjU3bTNRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN2bjU3bTNRRRAB!2m1!1s0x880a5dd9b4e88cef:0x6073d83ec7677f5f
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors to this sushi spot often rave about
+  the delicious rolls and appetizers, praising the fresh ingredients and
+  comforting flavors that make it a standout option among local Japanese
+  eateries. Many appreciate the friendly vibe and quick service, which add to
+  the enjoyable atmosphere during meals, though one comment mentioned mild
+  discomfort after eating, reminding folks to choose wisely based on their
+  tolerance. Overall, the consensus leans positive, with folks highlighting the
+  tasty miso soup and tempura as must-tries that keep them coming back for more
+  satisfying bites. It's clear that this place hits the mark for those hunting
+  for great sushi close to home, offering a casual dining experience that's
+  worth recommending for its solid execution and welcoming feel. If you're on
+  the hunt for reliable sushi restaurants nearby, this one's got plenty of
+  appeal with its mix of hits and minor notes for improvement.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -387,7 +428,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

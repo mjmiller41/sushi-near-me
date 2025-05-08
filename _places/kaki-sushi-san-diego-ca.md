@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kaki Sushi"
+title: Kaki Sushi
 permalink: /california/san-diego/kaki-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: San Diego
 seo:
-  name: "Kaki Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Kaki Sushi serves delicious sushi in San Diego, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJwzz3tj_-24AR5RkGCuMbLVc
 photos:
   - name: >-
@@ -170,8 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80dbfe3fb6f73cc3:0x572d1be30a0619e5!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: Closed'
+    - 'Tuesday: Closed'
+    - 'Wednesday: 11:00 AM – 9:00 PM'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 9:00 PM'
+    - 'Saturday: 11:00 AM – 9:00 PM'
+    - 'Sunday: 11:00 AM – 8:30 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +226,51 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
+phone: (858) 571-2012
 price_level: null
 price_range: null
-rating: null
-rating_count: 0
+rating: '4.6'
+rating_count: 126
 website: null
+description: >-
+  Discover Kaki Sushi in San Diego$$$Kaki Sushi in San Diego, CA, is a welcoming
+  Japanese restaurant that specializes in fresh sushi and tempura, perfect for
+  those seeking authentic flavors in a relaxed atmosphere. This spot stands out
+  with its accessible features, including wheelchair-friendly parking,
+  entrances, and seating, making it easy for everyone to enjoy a meal. Diners
+  can savor a variety of Japanese dishes that highlight quality ingredients and
+  traditional preparation, ideal for anyone exploring sushi restaurants in the
+  area. The casual vibe pairs well with its convenient location in the
+  Tierrasanta neighborhood, offering a straightforward spot for locals or
+  visitors searching for top-rated sushi options. Operating hours cater to lunch
+  and dinner crowds, ensuring it's a go-to choice for everyday dining near you.
+generative_summary: >-
+  Discover Kaki Sushi in San Diego$$$Kaki Sushi in San Diego, CA, is a welcoming
+  Japanese restaurant that specializes in fresh sushi and tempura, perfect for
+  those seeking authentic flavors in a relaxed atmosphere. This spot stands out
+  with its accessible features, including wheelchair-friendly parking,
+  entrances, and seating, making it easy for everyone to enjoy a meal. Diners
+  can savor a variety of Japanese dishes that highlight quality ingredients and
+  traditional preparation, ideal for anyone exploring sushi restaurants in the
+  area. The casual vibe pairs well with its convenient location in the
+  Tierrasanta neighborhood, offering a straightforward spot for locals or
+  visitors searching for top-rated sushi options. Operating hours cater to lunch
+  and dinner crowds, ensuring it's a go-to choice for everyday dining near you.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback Highlights$$$Feedback from visitors shows that Kaki Sushi
+  delivers some seriously tasty Japanese eats, with plenty of praise for the
+  standout sushi that keeps people coming back for more. Many folks appreciate
+  how the prices stay reasonable without skimping on flavor, making it a smart
+  pick for anyone hunting for great value at sushi spots around town. The
+  service gets high marks for being friendly and attentive, adding to the
+  overall enjoyable experience that feels just right for casual outings. While
+  opinions vary, the general buzz leans positive, emphasizing it as a reliable
+  option for those craving top-rated Japanese cuisine without the fuss. All in
+  all, it's clear this place hits the mark for fresh, satisfying meals that
+  could easily become a favorite for sushi lovers in the community.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +296,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

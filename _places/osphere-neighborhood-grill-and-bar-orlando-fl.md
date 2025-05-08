@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Osphere Neighborhood Grill and Bar"
+title: Osphere Neighborhood Grill and Bar
 permalink: /florida/orlando/osphere-neighborhood-grill-and-bar.html
 stateAbbr: FL
 stateName: Florida
 cityName: Orlando
 seo:
-  name: "Osphere Neighborhood Grill and Bar"
-  type: Restaurant
+  type: restaurant
   links: https://ospheregrillbar.com/
-description: "Eclectic New American dishes served in airy surrounds with outdoor seats overlooking the lake. Osphere Neighborhood Grill and Bar serves delicious sushi in Orlando, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJm2MMsLV754gRVhxJcIwBPWc
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $20 &ndash; $30
 rating: '4.1'
 rating_count: 0
 website: https://ospheregrillbar.com/
+description: >-
+  Explore Osphere in Orlando, FL$$$Osphere Neighborhood Grill and Bar in
+  Orlando, Florida, offers a vibrant dining experience with eclectic New
+  American dishes in a spacious, airy setting that includes outdoor seating with
+  stunning lake views. This neighborhood spot is perfect for casual meals,
+  featuring a variety of flavorful options like fresh rolls and hearty specials
+  that cater to diverse tastes, making it an ideal choice for those seeking
+  quality local eats. Accessibility features such as wheelchair-friendly parking
+  and entrances enhance its appeal for all visitors, while the lively atmosphere
+  and drink selections add to the overall enjoyment. Whether you're stopping by
+  for brunch or happy hour deals, the combination of scenic surroundings and
+  satisfying cuisine makes it a standout option in the area for anyone exploring
+  nearby dining spots.
+generative_summary: >-
+  Explore Osphere in Orlando, FL$$$Osphere Neighborhood Grill and Bar in
+  Orlando, Florida, offers a vibrant dining experience with eclectic New
+  American dishes in a spacious, airy setting that includes outdoor seating with
+  stunning lake views. This neighborhood spot is perfect for casual meals,
+  featuring a variety of flavorful options like fresh rolls and hearty specials
+  that cater to diverse tastes, making it an ideal choice for those seeking
+  quality local eats. Accessibility features such as wheelchair-friendly parking
+  and entrances enhance its appeal for all visitors, while the lively atmosphere
+  and drink selections add to the overall enjoyment. Whether you're stopping by
+  for brunch or happy hour deals, the combination of scenic surroundings and
+  satisfying cuisine makes it a standout option in the area for anyone exploring
+  nearby dining spots.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJm2MMsLV754gRVhxJcIwBPWc/reviews/ChdDSUhNMG9nS0VJQ0FnTURRczRTM2h3RRAB
@@ -402,6 +427,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNRLUtLaElnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNRLUtLaElnEAE!2m1!1s0x88e77bb5b00c639b:0x673d018c70491c56
+review_summary: >-
+  Highlights from Guest Feedback$$$Folks heading to Osphere often rave about the
+  welcoming vibe and tasty food options that hit the spot for brunch or casual
+  hangouts, with many highlighting the flavorful dishes and great value during
+  happy hour. Reviewers frequently mention enjoying refreshing drinks like
+  unlimited mimosas alongside solid choices such as burgers and fresh rolls,
+  creating a relaxed and fun environment for groups or families. While service
+  can occasionally be a bit slower during busier times, it's generally described
+  as friendly and attentive, adding to the overall positive experience. Overall,
+  visitors appreciate the clean setting and outdoor seating that makes it easy
+  to unwind, making it a solid pick for anyone in the mood for good eats and a
+  laid-back atmosphere near the lake.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeStreetParking: true
   paidStreetParking: true
@@ -433,8 +471,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Eclectic New American dishes served in airy surrounds with outdoor seats
   overlooking the lake.
 

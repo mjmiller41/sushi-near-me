@@ -5,4 +5,5 @@ permalink: /north-carolina/sylva/
 stateAbbr: NC
 stateName: North Carolina
 cityName: Sylva
+
 ---

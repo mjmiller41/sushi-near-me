@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Douska"
+title: Douska
 permalink: /new-york/new-york/douska.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "Douska"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Snug spot for hand rolls & make-your-own platters plus omakase menus. Douska serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJN2P817hZwokRy8cUeMS_ETk
 photos:
   - name: >-
@@ -183,6 +181,31 @@ price_range: $50 &ndash; $100
 rating: '4.5'
 rating_count: 0
 website: null
+description: >-
+  Discover Douska Sushi in New York, NY$$$Douska in New York, NY, stands out as
+  a casual sushi restaurant offering a relaxed vibe and a menu focused on fresh
+  rolls and temaki platters. This spot highlights its omakase options, providing
+  an intimate dining experience with high-quality ingredients that appeal to
+  sushi enthusiasts. Patrons can enjoy customizable platters in a laid-back
+  setting, making it an ideal choice for those seeking authentic Japanese
+  flavors without the formality. The restaurant's emphasis on fresh seafood and
+  simple yet flavorful dishes ensures a satisfying meal, perfect for anyone
+  exploring top sushi restaurants in the area. With its unpretentious
+  atmosphere, Douska delivers a welcoming escape for locals and visitors alike
+  searching for great sushi nearby.
+generative_summary: >-
+  Discover Douska Sushi in New York, NY$$$Douska in New York, NY, stands out as
+  a casual sushi restaurant offering a relaxed vibe and a menu focused on fresh
+  rolls and temaki platters. This spot highlights its omakase options, providing
+  an intimate dining experience with high-quality ingredients that appeal to
+  sushi enthusiasts. Patrons can enjoy customizable platters in a laid-back
+  setting, making it an ideal choice for those seeking authentic Japanese
+  flavors without the formality. The restaurant's emphasis on fresh seafood and
+  simple yet flavorful dishes ensures a satisfying meal, perfect for anyone
+  exploring top sushi restaurants in the area. With its unpretentious
+  atmosphere, Douska delivers a welcoming escape for locals and visitors alike
+  searching for great sushi nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJN2P817hZwokRy8cUeMS_ETk/reviews/ChZDSUhNMG9nS0VJQ0FnSURfeS1LcEFREAE
@@ -356,6 +379,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUM3dEx2R0d3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUM3dEx2R0d3EAE!2m1!1s0x89c259b8d7fc6337:0x3911bfc47814c7cb
+review_summary: >-
+  What Customers Are Saying About This Spot$$$Folks rave about the omakase
+  experience at this sushi place, often highlighting the fresh and well-prepared
+  dishes that offer great value for the price. Many appreciate the quality of
+  the seafood and the option to sit at the bar for a closer look at the
+  preparation process, adding to the overall enjoyment. While service is
+  generally attentive and efficient, some mention occasional waits during busy
+  periods, though it doesn't overshadow the positive vibes. Visitors frequently
+  note the tasty desserts and the restaurant's ability to deliver a satisfying
+  meal in a casual environment, making it a solid pick for groups or solo
+  diners. Overall, it's a go-to for delicious sushi that keeps customers coming
+  back for more, blending affordability with genuine flavor in a welcoming New
+  York setting.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options:
   acceptsCreditCards: true
@@ -385,7 +422,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: Snug spot for hand rolls & make-your-own platters plus omakase menus.
+update_category: pro
+places_description: Snug spot for hand rolls & make-your-own platters plus omakase menus.
 
 ---

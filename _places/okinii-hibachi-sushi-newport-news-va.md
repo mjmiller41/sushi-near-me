@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "OKINII HIBACHI & SUSHI"
+title: OKINII HIBACHI & SUSHI
 permalink: /virginia/newport-news/okinii-hibachi-sushi.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Newport News
 seo:
-  name: "OKINII HIBACHI & SUSHI"
-  type: Restaurant
+  type: restaurant
   links: http://www.okiniinewportnews.com/
-description: "OKINII HIBACHI & SUSHI serves delicious sushi in Newport News, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJeeYVo6d5sIkRfZ1I_fssMgs
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $10 &ndash; $20
 rating: '4.7'
 rating_count: 0
 website: http://www.okiniinewportnews.com/
+description: >-
+  Discover OKINII Hibachi & Sushi in Newport News, VA$$$OKINII Hibachi & Sushi
+  in Newport News, VA, delivers a welcoming taste of Japanese cuisine with its
+  casual vibe and array of fresh offerings. This sushi restaurant features a
+  variety of dishes like sushi rolls, bento boxes, and teriyaki options, all
+  prepared with authentic flavors in a relaxed setting that appeals to locals
+  seeking quality Japanese dining. Accessibility is a key highlight, with
+  features such as wheelchair-accessible parking and entrances ensuring everyone
+  can enjoy the experience. The spot also stands out for its generous portions
+  and efficient takeout service, making it a convenient choice for those
+  exploring top-rated sushi restaurants nearby. Whether you're in the mood for a
+  quick meal or a flavorful dine-in adventure, this establishment combines
+  affordability with a focus on fresh ingredients to satisfy sushi enthusiasts.
+generative_summary: >-
+  Discover OKINII Hibachi & Sushi in Newport News, VA$$$OKINII Hibachi & Sushi
+  in Newport News, VA, delivers a welcoming taste of Japanese cuisine with its
+  casual vibe and array of fresh offerings. This sushi restaurant features a
+  variety of dishes like sushi rolls, bento boxes, and teriyaki options, all
+  prepared with authentic flavors in a relaxed setting that appeals to locals
+  seeking quality Japanese dining. Accessibility is a key highlight, with
+  features such as wheelchair-accessible parking and entrances ensuring everyone
+  can enjoy the experience. The spot also stands out for its generous portions
+  and efficient takeout service, making it a convenient choice for those
+  exploring top-rated sushi restaurants nearby. Whether you're in the mood for a
+  quick meal or a flavorful dine-in adventure, this establishment combines
+  affordability with a focus on fresh ingredients to satisfy sushi enthusiasts.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJeeYVo6d5sIkRfZ1I_fssMgs/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJeXNydFhBEAE
@@ -348,6 +373,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUM3NTR5REFnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUM3NTR5REFnEAE!2m1!1s0x89b079a7a315e679:0xb322cfbfd489d7d
+review_summary: >-
+  What Customers Are Raving About$$$Folks often highlight the outstanding
+  freshness and quality of the sushi and hibachi dishes at this Japanese spot,
+  with popular choices like rolls and tempura coming across as standout
+  favorites. Many appreciate the friendly service and speedy preparation, which
+  make grabbing a meal feel hassle-free and enjoyable. Reviewers frequently note
+  the generous portions and reasonable prices, adding up to a satisfying value
+  for anyone craving authentic flavors without breaking the bank. While most
+  experiences are positive, a few mentions of minor inconsistencies show it's
+  not perfect for everyone, but overall, the vibe remains upbeat and reliable.
+  If you're on the hunt for tasty Japanese options that keep things light and
+  approachable, this place tends to leave diners smiling and eager to return for
+  more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -380,7 +419,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

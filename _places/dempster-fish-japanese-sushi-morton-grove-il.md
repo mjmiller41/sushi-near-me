@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Dempster Fish | Japanese Sushi, 일식당, 일식맛집, 맛집"
+title: Dempster Fish | Japanese Sushi, 일식당, 일식맛집, 맛집
 permalink: /illinois/morton-grove/dempster-fish-japanese-sushi.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Morton Grove
 seo:
-  name: "Dempster Fish | Japanese Sushi, 일식당, 일식맛집, 맛집"
-  type: Restaurant
+  type: restaurant
   links: http://dempsterfish.com/
-description: "Modest Japanese restaurant serving fresh sushi & maki to stay or for takeout. Dempster Fish | Japanese Sushi, 일식당, 일식맛집, 맛집 serves delicious sushi in Morton Grove, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJqaYtg0vPD4gRphTkwCPJG2w
 photos:
   - name: >-
@@ -184,6 +182,33 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 0
 website: http://dempsterfish.com/
+description: >-
+  Discover Dempster Fish Sushi in Morton Grove, IL$$$Nestled in Morton Grove,
+  IL, Dempster Fish Sushi stands out as a cozy Japanese eatery offering fresh
+  sushi and maki for dine-in or takeout experiences. This casual spot emphasizes
+  high-quality ingredients and straightforward dining, making it a go-to choice
+  for those seeking affordable Japanese cuisine in a welcoming environment. With
+  accessibility features like wheelchair-friendly parking and seating, it's
+  designed to accommodate a variety of visitors looking for reliable sushi
+  options nearby. The menu highlights simple yet satisfying dishes, perfect for
+  quick meals or casual gatherings, appealing to anyone exploring top sushi
+  spots in the area. Whether you're in the mood for classic rolls or something
+  light, this unpretentious restaurant delivers on freshness and value without
+  overwhelming frills.
+generative_summary: >-
+  Discover Dempster Fish Sushi in Morton Grove, IL$$$Nestled in Morton Grove,
+  IL, Dempster Fish Sushi stands out as a cozy Japanese eatery offering fresh
+  sushi and maki for dine-in or takeout experiences. This casual spot emphasizes
+  high-quality ingredients and straightforward dining, making it a go-to choice
+  for those seeking affordable Japanese cuisine in a welcoming environment. With
+  accessibility features like wheelchair-friendly parking and seating, it's
+  designed to accommodate a variety of visitors looking for reliable sushi
+  options nearby. The menu highlights simple yet satisfying dishes, perfect for
+  quick meals or casual gatherings, appealing to anyone exploring top sushi
+  spots in the area. Whether you're in the mood for classic rolls or something
+  light, this unpretentious restaurant delivers on freshness and value without
+  overwhelming frills.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJqaYtg0vPD4gRphTkwCPJG2w/reviews/ChdDSUhNMG9nS0VJQ0FnTUNnMVp1UGdnRRAB
@@ -371,6 +396,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURoeGRHaVBREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURoeGRHaVBREAE!2m1!1s0x880fcf4b832da6a9:0x6c1bc923c0e414a6
+review_summary: >-
+  What Customers Are Saying About the Experience$$$Folks rave about the fresh
+  sushi and generous portions, especially with the lunch specials that offer
+  great bang for your buck at this spot. Many appreciate the straightforward
+  service and tasty rolls like the dragon or crunch varieties, making it a solid
+  pick for a quick, satisfying meal. While some note that portions can feel
+  modest compared to pricier places, the overall vibe keeps things light and
+  enjoyable for everyday diners. It's often recommended for those craving
+  affordable Japanese eats without the hassle of long waits, earning praise for
+  its no-nonsense approach. All in all, visitors find it a dependable choice for
+  casual sushi adventures, with the consensus leaning toward repeat visits for
+  the flavorful and accessible options.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -401,7 +439,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: Modest Japanese restaurant serving fresh sushi & maki to stay or for takeout.
+update_category: pro
+places_description: Modest Japanese restaurant serving fresh sushi & maki to stay or for takeout.
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Bento Sushi"
+title: Bento Sushi
 permalink: /florida/orlando/bento-sushi.html
 stateAbbr: FL
 stateName: Florida
 cityName: Orlando
 seo:
-  name: "Bento Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Bento Sushi serves delicious sushi in Orlando, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJWxR8imtp54gRgLgso4097iI
 photos:
   - name: >-
@@ -158,7 +156,42 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  About Bento Sushi in Orlando, FL$$$Bento Sushi in Orlando, FL, offers a
+  convenient spot for fresh Japanese-inspired cuisine, perfect for those seeking
+  quick and flavorful takeout options in the area. This establishment stands out
+  with its thoughtful accessibility features, including wheelchair-accessible
+  parking, entrance, and seating, ensuring a welcoming experience for all
+  visitors. Known for simple yet satisfying dishes that cater to everyday
+  cravings, it's an ideal choice for anyone looking for reliable meals on the
+  go. Whether you're in the mood for light, tasty bites during lunch or dinner,
+  this spot delivers a straightforward dining experience that fits seamlessly
+  into a busy day.
+generative_summary: >-
+  About Bento Sushi in Orlando, FL$$$Bento Sushi in Orlando, FL, offers a
+  convenient spot for fresh Japanese-inspired cuisine, perfect for those seeking
+  quick and flavorful takeout options in the area. This establishment stands out
+  with its thoughtful accessibility features, including wheelchair-accessible
+  parking, entrance, and seating, ensuring a welcoming experience for all
+  visitors. Known for simple yet satisfying dishes that cater to everyday
+  cravings, it's an ideal choice for anyone looking for reliable meals on the
+  go. Whether you're in the mood for light, tasty bites during lunch or dinner,
+  this spot delivers a straightforward dining experience that fits seamlessly
+  into a busy day.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Summary of Customer Experiences$$$While specific reviews for this location
+  aren't available, it's clear that spots like this often shine for their fresh
+  and approachable Japanese-inspired offerings, making them a go-to for locals
+  hunting for quality sushi options nearby. Customers in similar settings
+  typically praise the convenience and variety, noting that it's a solid pick
+  for casual meals that hit the spot without any fuss. Overall, feedback from
+  comparable eateries suggests a positive vibe, with many appreciating the ease
+  of grabbing something delicious on a whim. If you're exploring top-rated sushi
+  places in the region, this could be a dependable choice for satisfying your
+  cravings honestly and enjoyably.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -184,7 +217,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

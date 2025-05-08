@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kawa Sushi and Grill"
+title: Kawa Sushi and Grill
 permalink: /michigan/rockford/kawa-sushi-and-grill.html
 stateAbbr: MI
 stateName: Michigan
 cityName: Rockford
 seo:
-  name: "Kawa Sushi and Grill"
-  type: Restaurant
+  type: restaurant
   links: http://www.kawarockford.com/
-description: "Kawa Sushi and Grill serves delicious sushi in Rockford, Michigan. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJLX_rnPr_GIgRMWK9NLvZzX8
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $20 &ndash; $30
 rating: '4.7'
 rating_count: 0
 website: http://www.kawarockford.com/
+description: >-
+  Discover Kawa Sushi and Grill in Rockford, Michigan$$$Kawa Sushi and Grill in
+  Rockford, MI, serves up authentic Japanese cuisine with a focus on fresh sushi
+  and flavorful grilled dishes in a relaxed, inviting setting. The spot features
+  a scenic patio overlooking the river, perfect for enjoying meals in a casual
+  outdoor atmosphere that enhances the dining experience. With options for
+  accessibility and ample seating, it's designed to accommodate various
+  preferences, making it a go-to choice for sushi enthusiasts exploring local
+  Japanese places. The menu highlights a variety of fresh ingredients and
+  creative flavors, appealing to those seeking top-rated sushi options near
+  urban spots. This combination of quality fare and welcoming vibes makes it an
+  ideal destination for anyone craving a satisfying meal in a comfortable
+  environment.
+generative_summary: >-
+  Discover Kawa Sushi and Grill in Rockford, Michigan$$$Kawa Sushi and Grill in
+  Rockford, MI, serves up authentic Japanese cuisine with a focus on fresh sushi
+  and flavorful grilled dishes in a relaxed, inviting setting. The spot features
+  a scenic patio overlooking the river, perfect for enjoying meals in a casual
+  outdoor atmosphere that enhances the dining experience. With options for
+  accessibility and ample seating, it's designed to accommodate various
+  preferences, making it a go-to choice for sushi enthusiasts exploring local
+  Japanese places. The menu highlights a variety of fresh ingredients and
+  creative flavors, appealing to those seeking top-rated sushi options near
+  urban spots. This combination of quality fare and welcoming vibes makes it an
+  ideal destination for anyone craving a satisfying meal in a comfortable
+  environment.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJLX_rnPr_GIgRMWK9NLvZzX8/reviews/ChZDSUhNMG9nS0VJQ0FnTURnb0k3allREAE
@@ -390,6 +415,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURuOHYtRXB3RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURuOHYtRXB3RRAB!2m1!1s0x8818fffa9ceb7f2d:0x7fcdd9bb34bd6231
+review_summary: >-
+  What Customers Are Saying About the Experience$$$Visitors consistently praise
+  the quick and attentive service that keeps things running smoothly during
+  meals at this sushi spot. Many highlight the generous portions and delicious
+  flavors in dishes like fresh rolls and hearty apps, noting how they leave
+  feeling satisfied without breaking the bank. The clean, cozy atmosphere and
+  thoughtful touches, such as outdoor seating by the water, add to the overall
+  enjoyment and make it a great pick for groups or casual outings. Feedback
+  often mentions the hot food arriving just right and the welcoming vibe that
+  encourages repeat visits for lunch or dinner. Overall, it's clear that folks
+  appreciate the reliable quality and friendly service, making it a solid choice
+  for anyone hunting for reliable sushi restaurants in the area.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -420,7 +458,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

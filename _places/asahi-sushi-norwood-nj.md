@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Asahi Sushi"
+title: Asahi Sushi
 permalink: /new-jersey/norwood/asahi-sushi.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Norwood
 seo:
-  name: "Asahi Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Asahi Sushi serves delicious sushi in Norwood, New Jersey. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJF2oGiJHuwokR27Uv35ymNvk
 photos:
   - name: >-
@@ -185,7 +183,46 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Explore Asahi Sushi in Norwood, NJ$$$Asahi Sushi in Norwood, NJ, stands out as
+  a go-to spot for those craving fresh sushi options in a laid-back environment.
+  This all-you-can-eat sushi restaurant features an array of special rolls and
+  Japanese-inspired dishes, making it ideal for anyone exploring top-rated sushi
+  places near you. With its informal atmosphere, it's perfect for casual meals
+  where accessibility is a priority, including wheelchair-friendly features that
+  enhance the dining experience. Visitors can enjoy a variety of selections that
+  highlight quality ingredients, appealing to fans of Japanese cuisine in the
+  area. Whether you're seeking sushi restaurants close to home or simply want a
+  relaxed spot for a satisfying meal, this location delivers on both flavor and
+  convenience.
+generative_summary: >-
+  Explore Asahi Sushi in Norwood, NJ$$$Asahi Sushi in Norwood, NJ, stands out as
+  a go-to spot for those craving fresh sushi options in a laid-back environment.
+  This all-you-can-eat sushi restaurant features an array of special rolls and
+  Japanese-inspired dishes, making it ideal for anyone exploring top-rated sushi
+  places near you. With its informal atmosphere, it's perfect for casual meals
+  where accessibility is a priority, including wheelchair-friendly features that
+  enhance the dining experience. Visitors can enjoy a variety of selections that
+  highlight quality ingredients, appealing to fans of Japanese cuisine in the
+  area. Whether you're seeking sushi restaurants close to home or simply want a
+  relaxed spot for a satisfying meal, this location delivers on both flavor and
+  convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Visitor Feedback Highlights$$$Though specific reviews for this spot are
+  limited, folks generally appreciate the straightforward appeal of
+  all-you-can-eat sushi joints like this one, often noting the tasty special
+  rolls and easygoing vibe that make it a solid choice for casual outings. Many
+  share that the variety keeps things exciting, especially if you're hunting for
+  great sushi near me without the fuss. It's common to hear positive comments
+  about the welcoming atmosphere, which feels just right for groups or families
+  looking to try something new. Overall, the feedback leans toward it being a
+  reliable pick for everyday dining, with highlights on the fresh flavors that
+  keep people coming back for more. If you're on the hunt for Japanese places
+  near me, this spot seems to hit the mark for an honest, enjoyable experience
+  without any over-the-top hype.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +248,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

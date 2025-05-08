@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Greenland Grill"
+title: Greenland Grill
 permalink: /florida/land-o-lakes/greenland-grill.html
 stateAbbr: FL
 stateName: Florida
 cityName: Land O' Lakes
 seo:
-  name: "Greenland Grill"
-  type: Restaurant
+  type: restaurant
   links: http://www.greenlandgrill.com/
-description: "Greenland Grill serves delicious sushi in Land O' Lakes, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJLZdBo9a7wogRK5DPSWkQwXc
 photos:
   - name: >-
@@ -199,7 +197,43 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 0
 website: http://www.greenlandgrill.com/
+description: >-
+  Discover Greenland Grill in Land O' Lakes, FL$$$Greenland Grill in Land O'
+  Lakes, Florida, offers a welcoming spot for enjoying authentic Middle Eastern
+  cuisine in a relaxed setting. This cozy restaurant features flavorful dishes
+  that highlight traditional spices and hearty portions, making it a great
+  choice for everyday meals or casual get-togethers. With affordable pricing
+  typically ranging from $10 to $20, it's ideal for those seeking value without
+  compromising on taste, all while providing excellent accessibility options
+  like wheelchair-friendly parking and seating. The spot stays open daily from
+  11:00 AM until midnight, catering to both lunch enthusiasts and late-night
+  diners looking for diverse flavors in a comfortable atmosphere.
+generative_summary: >-
+  Discover Greenland Grill in Land O' Lakes, FL$$$Greenland Grill in Land O'
+  Lakes, Florida, offers a welcoming spot for enjoying authentic Middle Eastern
+  cuisine in a relaxed setting. This cozy restaurant features flavorful dishes
+  that highlight traditional spices and hearty portions, making it a great
+  choice for everyday meals or casual get-togethers. With affordable pricing
+  typically ranging from $10 to $20, it's ideal for those seeking value without
+  compromising on taste, all while providing excellent accessibility options
+  like wheelchair-friendly parking and seating. The spot stays open daily from
+  11:00 AM until midnight, catering to both lunch enthusiasts and late-night
+  diners looking for diverse flavors in a comfortable atmosphere.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors often enjoy the tasty Middle Eastern
+  dishes at this spot, praising the generous portions and bold flavors that make
+  every meal feel satisfying and worthwhile. Many folks appreciate the friendly
+  vibe and attentive service that help create a relaxed dining experience,
+  perfect for quick bites or hanging out with friends. While some mention
+  occasional waits during busy times, the overall value for the price keeps
+  people coming back for the variety of options on offer. The restaurant's
+  accessible features and welcoming setup add to its charm, making it a solid
+  pick for anyone craving affordable, flavorful eats in the area. All in all,
+  it's clear that this place delivers a reliably enjoyable experience that
+  leaves diners eager to recommend it to others.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +259,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

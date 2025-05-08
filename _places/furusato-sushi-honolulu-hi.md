@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Furusato Sushi"
+title: Furusato Sushi
 permalink: /hawaii/honolulu/furusato-sushi.html
 stateAbbr: HI
 stateName: Hawaii
 cityName: Honolulu
 seo:
-  name: "Furusato Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://furusatosushi.net/
-description: "Furusato Sushi serves delicious sushi in Honolulu, Hawaii. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ7W9Vi3ZyAHwRa-vq1tf4CIc
 photos:
   - name: >-
@@ -168,7 +166,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x7c0072768b556fed:0x8708f8d7d6eaeb6b!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 45
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 45
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 45
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 45
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 45
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 45
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 45
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 9:45 PM'
     - 'Tuesday: 11:30 AM – 9:45 PM'
     - 'Wednesday: 11:30 AM – 9:45 PM'
@@ -176,14 +232,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 9:45 PM'
     - 'Saturday: 11:30 AM – 9:45 PM'
     - 'Sunday: 11:30 AM – 9:45 PM'
-  current:
-    - 'Monday: 11:30 AM – 9:45 PM'
-    - 'Tuesday: 11:30 AM – 9:45 PM'
-    - 'Wednesday: 11:30 AM – 9:45 PM'
-    - 'Thursday: 11:30 AM – 9:45 PM'
-    - 'Friday: 11:30 AM – 9:45 PM'
-    - 'Saturday: 11:30 AM – 9:45 PM'
-    - 'Sunday: 11:30 AM – 9:45 PM'
+  nextCloseTime: '2025-05-04T07:45:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -195,35 +244,208 @@ phone: (808) 922-4991
 price_level: PRICE_LEVEL_MODERATE
 price_range: $30 &ndash; $50
 rating: '4.6'
-rating_count: 0
+rating_count: 1358
 website: http://furusatosushi.net/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Experience Furusato Sushi in Honolulu, HI$$$Furusato Sushi in Honolulu, HI,
+  offers a welcoming atmosphere for enjoying authentic Japanese cuisine,
+  including fresh sushi and sashimi crafted with care. This cozy spot in the
+  vibrant Waikiki neighborhood serves a range of traditional fare like flavorful
+  rolls and seafood salads, complemented by options for sake and beer, making it
+  ideal for a casual meal. The restaurant's homey quarters provide a comfortable
+  setting for savoring high-quality ingredients, with accessibility features
+  ensuring it's easy to visit. Whether you're seeking sushi restaurants near you
+  or exploring Japanese places in the area, this location stands out for its
+  straightforward approach to delicious, everyday dining experiences.
+generative_summary: >-
+  Experience Furusato Sushi in Honolulu, HI$$$Furusato Sushi in Honolulu, HI,
+  offers a welcoming atmosphere for enjoying authentic Japanese cuisine,
+  including fresh sushi and sashimi crafted with care. This cozy spot in the
+  vibrant Waikiki neighborhood serves a range of traditional fare like flavorful
+  rolls and seafood salads, complemented by options for sake and beer, making it
+  ideal for a casual meal. The restaurant's homey quarters provide a comfortable
+  setting for savoring high-quality ingredients, with accessibility features
+  ensuring it's easy to visit. Whether you're seeking sushi restaurants near you
+  or exploring Japanese places in the area, this location stands out for its
+  straightforward approach to delicious, everyday dining experiences.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ7W9Vi3ZyAHwRa-vq1tf4CIc/reviews/ChZDSUhNMG9nS0VJQ0FnTURvb3FUaVZnEAE
+    relativePublishTimeDescription: a week ago
+    rating: 4
+    text:
+      text: >-
+        Fresh avocado, so good. Rolls are made well. Good quality fish. The
+        sauce on sushi is not overpowering yet lingers in great balance. Would
+        go again.
+      languageCode: en
+    originalText:
+      text: >-
+        Fresh avocado, so good. Rolls are made well. Good quality fish. The
+        sauce on sushi is not overpowering yet lingers in great balance. Would
+        go again.
+      languageCode: en
+    authorAttribution:
+      displayName: Michael Polyakov
+      uri: https://www.google.com/maps/contrib/112034102830099745077/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIuphAd2Xa996YZuhQm9xs8bZpbhUXX2katRoyElDLzfSHzhg=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-04-23T05:57:34.446182Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURvb3FUaVZnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURvb3FUaVZnEAE!2m1!1s0x7c0072768b556fed:0x8708f8d7d6eaeb6b
+  - name: >-
+      places/ChIJ7W9Vi3ZyAHwRa-vq1tf4CIc/reviews/ChdDSUhNMG9nS0VJQ0FnTURJaTV1UzlRRRAB
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        We came here for the $26-$29 lunch set special. It was great, with very
+        fresh sushi. I got the cold somen noodles, which were incredible and
+        served on a bed of ice. Would highly recommend this place.
+      languageCode: en
+    originalText:
+      text: >-
+        We came here for the $26-$29 lunch set special. It was great, with very
+        fresh sushi. I got the cold somen noodles, which were incredible and
+        served on a bed of ice. Would highly recommend this place.
+      languageCode: en
+    authorAttribution:
+      displayName: James Hwang
+      uri: https://www.google.com/maps/contrib/102905110593623327920/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWTbaq8LE4jlgq5O85xAoR0Fwr566bQD5na1tDMmFyK-sw3wuUkhA=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-13T01:53:40.685956Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJaTV1UzlRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJaTV1UzlRRRAB!2m1!1s0x7c0072768b556fed:0x8708f8d7d6eaeb6b
+  - name: >-
+      places/ChIJ7W9Vi3ZyAHwRa-vq1tf4CIc/reviews/ChdDSUhNMG9nS0VJQ0FnTUNvcmJEdjlBRRAB
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 4
+    text:
+      text: >-
+        They have alot of varieity. Tastes fresh. The restaurant is small but
+        looks cute and very clean. The dragon roll tastes great!
+      languageCode: en
+    originalText:
+      text: >-
+        They have alot of varieity. Tastes fresh. The restaurant is small but
+        looks cute and very clean. The dragon roll tastes great!
+      languageCode: en
+    authorAttribution:
+      displayName: Suzette Aceves
+      uri: https://www.google.com/maps/contrib/105463662281903279712/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUVJu_UG7sC2_sj0o0bGEIJSNPyk6tXjcMaEnmmoguDE-Or9XH-hA=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-19T03:04:03.007242Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNvcmJEdjlBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNvcmJEdjlBRRAB!2m1!1s0x7c0072768b556fed:0x8708f8d7d6eaeb6b
+  - name: >-
+      places/ChIJ7W9Vi3ZyAHwRa-vq1tf4CIc/reviews/ChdDSUhNMG9nS0VJQ0FnSURXNDVHMGhRRRAB
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 5
+    text:
+      text: >-
+        Very fresh and delicious sushi. Much of the fish is imported from Japan
+        and tastes so much better than mainland sushi. The restaurant is cute
+        but small and service can be a bit slow. Better to go at off hours.
+      languageCode: en
+    originalText:
+      text: >-
+        Very fresh and delicious sushi. Much of the fish is imported from Japan
+        and tastes so much better than mainland sushi. The restaurant is cute
+        but small and service can be a bit slow. Better to go at off hours.
+      languageCode: en
+    authorAttribution:
+      displayName: Julie
+      uri: https://www.google.com/maps/contrib/102463336966761602017/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXzIwpqZJKvVMbHsc0qM7Ga3xRaxb7LarMdcA92a7pn63y1u6mN=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-08T10:50:52.049849Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURXNDVHMGhRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURXNDVHMGhRRRAB!2m1!1s0x7c0072768b556fed:0x8708f8d7d6eaeb6b
+  - name: >-
+      places/ChIJ7W9Vi3ZyAHwRa-vq1tf4CIc/reviews/ChZDSUhNMG9nS0VJQ0FnSUQzdF9DRlRREAE
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        We ordered the green salad, Rainbow B, and two hand rolls. The
+        ingredients were incredibly fresh, the portions of fish were generous,
+        and everything tasted delicious. The restaurant is quite small, and you
+        may expect some wait time to get in but no complaints at all!
+      languageCode: en
+    originalText:
+      text: >-
+        We ordered the green salad, Rainbow B, and two hand rolls. The
+        ingredients were incredibly fresh, the portions of fish were generous,
+        and everything tasted delicious. The restaurant is quite small, and you
+        may expect some wait time to get in but no complaints at all!
+      languageCode: en
+    authorAttribution:
+      displayName: Hanna Kang
+      uri: https://www.google.com/maps/contrib/110056963461476087408/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWTObpimiY8WfcVCBjm6dvTeuWqK-joiIyO6Mu0xBV2RBGPJnrf=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-11-19T22:08:17.454830Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQzdF9DRlRREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQzdF9DRlRREAE!2m1!1s0x7c0072768b556fed:0x8708f8d7d6eaeb6b
+review_summary: >-
+  What Customers Are Saying About This Sushi Spot$$$Visitors often rave about
+  the incredibly fresh fish and well-prepared rolls at this popular sushi
+  destination, highlighting the generous portions and balanced flavors that make
+  every bite enjoyable. Many appreciate the variety of options, like tasty
+  specials and unique dishes that keep things exciting without overwhelming the
+  palate, making it a go-to for those craving top-rated sushi nearby. While the
+  cozy space can get busy, folks note that the efficient service adds to the
+  overall charm, even during peak times. Overall, it's praised as a solid choice
+  for a satisfying meal, with feedback emphasizing its value for both quick
+  lunches and relaxed dinners, encouraging others to give it a try for an
+  authentic taste of the islands.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  paidStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
+curbside_pickup: false
+delivery: false
+dine_in: true
+good_for_children: true
 good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
+good_for_sports: false
+live_music: false
+menu_for_children: true
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
 serves_brunch: null
 serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Snug sushi house for classic rolls, seafood salads & Japanese mains in
+  colorful, homey quarters.
 
 ---

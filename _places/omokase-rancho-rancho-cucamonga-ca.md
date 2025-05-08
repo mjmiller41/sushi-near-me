@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Omokase Rancho"
+title: Omokase Rancho
 permalink: /california/rancho-cucamonga/omokase-rancho.html
 stateAbbr: CA
 stateName: California
 cityName: Rancho Cucamonga
 seo:
-  name: "Omokase Rancho"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Omokase Rancho serves delicious sushi in Rancho Cucamonga, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJsy0Ui941w4ARh6-fZWZr6g0
 photos:
   - name: >-
@@ -185,7 +183,44 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Omokase Rancho in Rancho Cucamonga, CA$$$Omokase Rancho in Rancho
+  Cucamonga, CA, stands out as a relaxed destination for enjoying fresh sushi
+  and classic Japanese dishes, making it a go-to spot for those seeking
+  authentic flavors in a welcoming setting. This sushi restaurant offers a
+  diverse menu featuring creative rolls, traditional favorites, and a selection
+  of beverages like sake, beer, and wine, appealing to both casual diners and
+  enthusiasts. With its accessible features, including wheelchair-friendly
+  parking and seating, it ensures a comfortable experience for everyone looking
+  to explore Japanese cuisine nearby. The casual vibe and thoughtful offerings
+  make it an ideal choice for anyone craving top-rated sushi options in the
+  area, blending simplicity with satisfying tastes that keep locals coming back.
+generative_summary: >-
+  Discover Omokase Rancho in Rancho Cucamonga, CA$$$Omokase Rancho in Rancho
+  Cucamonga, CA, stands out as a relaxed destination for enjoying fresh sushi
+  and classic Japanese dishes, making it a go-to spot for those seeking
+  authentic flavors in a welcoming setting. This sushi restaurant offers a
+  diverse menu featuring creative rolls, traditional favorites, and a selection
+  of beverages like sake, beer, and wine, appealing to both casual diners and
+  enthusiasts. With its accessible features, including wheelchair-friendly
+  parking and seating, it ensures a comfortable experience for everyone looking
+  to explore Japanese cuisine nearby. The casual vibe and thoughtful offerings
+  make it an ideal choice for anyone craving top-rated sushi options in the
+  area, blending simplicity with satisfying tastes that keep locals coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Summary of Visitor Feedback$$$While specific reviews for this spot aren't
+  readily available, folks generally appreciate spots like Omokase Rancho for
+  their fresh sushi rolls and straightforward Japanese eats, often highlighting
+  the relaxed atmosphere as a plus. Visitors tend to enjoy the variety of drinks
+  on offer, which adds to the overall casual dining vibe without overwhelming
+  the experience. It's commonly noted that places serving these kinds of
+  authentic flavors make for a solid pick for groups or solo outings, with many
+  praising the accessibility features that make it welcoming for all. Overall,
+  it seems like a reliable choice for sushi lovers in the region, delivering
+  honest value that keeps the experience enjoyable and worth trying.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +246,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

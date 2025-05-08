@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Hawaiian Poke"
+title: Hawaiian Poke
 permalink: /ohio/youngstown/hawaiian-poke.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Youngstown
 seo:
-  name: "Hawaiian Poke"
-  type: Restaurant
-  links: null
-description: "Hawaiian Poke serves delicious sushi in Youngstown, Ohio. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.hawaiianpoke88.com/
 place_id: ChIJeVyPwsP7M4gRDcx4_jYFYpQ
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8833fbc3c28f5c79:0x94620536fe78cc0d!10e5
 primary_type: American Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 9:00 PM'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 9:30 PM'
+    - 'Saturday: 11:00 AM – 9:30 PM'
+    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T01:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,52 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (330) 953-3666
+price_level: PRICE_LEVEL_INEXPENSIVE
+price_range: $10 &ndash; $20
+rating: '4.8'
+rating_count: 114
+website: http://www.hawaiianpoke88.com/
+description: >-
+  Discover Hawaiian Poke in Youngstown, OH$$$Hawaiian Poke in Youngstown, OH,
+  offers a refreshing take on fresh Hawaiian-inspired bowls featuring raw fish
+  salads that capture the essence of island flavors. This spot stands out with
+  its casual atmosphere, allowing diners to customize their own bowls or choose
+  from signature options packed with high-quality ingredients. Accessibility is
+  a key highlight, with wheelchair-friendly parking, entrances, restrooms, and
+  seating making it welcoming for all visitors. Open daily from 11 AM with
+  extended hours on weekends, it's an ideal stop for those seeking a quick yet
+  satisfying meal. Whether you're exploring Japanese-inspired cuisine options
+  nearby, this place delivers a vibrant dining experience that emphasizes fresh,
+  healthy choices.
+generative_summary: >-
+  Discover Hawaiian Poke in Youngstown, OH$$$Hawaiian Poke in Youngstown, OH,
+  offers a refreshing take on fresh Hawaiian-inspired bowls featuring raw fish
+  salads that capture the essence of island flavors. This spot stands out with
+  its casual atmosphere, allowing diners to customize their own bowls or choose
+  from signature options packed with high-quality ingredients. Accessibility is
+  a key highlight, with wheelchair-friendly parking, entrances, restrooms, and
+  seating making it welcoming for all visitors. Open daily from 11 AM with
+  extended hours on weekends, it's an ideal stop for those seeking a quick yet
+  satisfying meal. Whether you're exploring Japanese-inspired cuisine options
+  nearby, this place delivers a vibrant dining experience that emphasizes fresh,
+  healthy choices.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Feedback from Diners on Hawaiian Poke$$$Visitors to this spot often rave about
+  the outstanding quality of the fresh fish bowls, highlighting how the flavors
+  consistently hit the mark for a light and tasty meal. Many appreciate the
+  generous portions and customizable options, which make it a go-to for groups
+  or solo diners looking for something healthy and flavorful. The high ratings
+  reflect praise for the friendly service and efficient operations, with folks
+  noting it's a solid pick for anyone craving island-style eats without the
+  fuss. Overall, the consensus leans positive, suggesting it's worth trying for
+  its reliable taste and value, especially if you're on the hunt for top-rated
+  options in the area. While a few mentions touch on minor waits during peak
+  times, the experience generally leaves people satisfied and eager to return
+  for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +313,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

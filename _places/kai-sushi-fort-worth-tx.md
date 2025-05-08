@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kai Sushi"
+title: Kai Sushi
 permalink: /texas/fort-worth/kai-sushi.html
 stateAbbr: TX
 stateName: Texas
 cityName: Fort Worth
 seo:
-  name: "Kai Sushi"
-  type: Restaurant
-  links: null
-description: "Kai Sushi serves delicious sushi in Fort Worth, Texas. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.instagram.com/kaisushi_fortworth?igsh=eWh5N3lpdzdqcm9q
 place_id: ChIJ1-AKUADZTYYRawLVdEfPV54
 photos:
   - name: >-
@@ -154,6 +152,7 @@ longitude: '-97.318874'
 accessibility_options:
   wheelchairAccessibleParking: true
   wheelchairAccessibleEntrance: true
+  wheelchairAccessibleSeating: true
 business_status: OPERATIONAL
 name: Kai Sushi
 google_maps_links:
@@ -168,8 +167,105 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x864dd900500ae0d7:0x9e57cf4774d5026b!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 14
+        minute: 30
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 2:30 PM, 5:00 – 9:30 PM'
+    - 'Tuesday: Closed'
+    - 'Wednesday: 11:00 AM – 2:30 PM, 5:00 – 9:30 PM'
+    - 'Thursday: 11:00 AM – 2:30 PM, 5:00 – 9:30 PM'
+    - 'Friday: 11:00 AM – 2:30 PM, 5:00 – 10:30 PM'
+    - 'Saturday: 11:00 AM – 2:30 PM, 5:00 – 10:30 PM'
+    - 'Sunday: 5:00 – 9:30 PM'
+  nextCloseTime: '2025-05-04T03:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -177,13 +273,49 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
+phone: (682) 250-3275
 price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+price_range: $30 &ndash; $50
+rating: '4.8'
+rating_count: 85
+website: https://www.instagram.com/kaisushi_fortworth?igsh=eWh5N3lpdzdqcm9q
+description: >-
+  Discover Kai Sushi in Fort Worth, TX$$$Kai Sushi in Fort Worth, TX, stands out
+  as a premier spot for fresh Japanese cuisine, offering a welcoming atmosphere
+  that combines modern vibes with comfortable seating for an enjoyable meal. The
+  restaurant specializes in a variety of expertly crafted sushi rolls and
+  dishes, highlighting high-quality ingredients that appeal to anyone seeking
+  authentic flavors in their local dining options. With accessibility features
+  like wheelchair-friendly parking and entrances, it's designed to accommodate
+  all guests looking for top-rated sushi experiences nearby. Operating with
+  flexible hours including evenings and weekends, this spot ensures you can
+  savor everything from classic rolls to innovative specials without hassle.
+generative_summary: >-
+  Discover Kai Sushi in Fort Worth, TX$$$Kai Sushi in Fort Worth, TX, stands out
+  as a premier spot for fresh Japanese cuisine, offering a welcoming atmosphere
+  that combines modern vibes with comfortable seating for an enjoyable meal. The
+  restaurant specializes in a variety of expertly crafted sushi rolls and
+  dishes, highlighting high-quality ingredients that appeal to anyone seeking
+  authentic flavors in their local dining options. With accessibility features
+  like wheelchair-friendly parking and entrances, it's designed to accommodate
+  all guests looking for top-rated sushi experiences nearby. Operating with
+  flexible hours including evenings and weekends, this spot ensures you can
+  savor everything from classic rolls to innovative specials without hassle.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Buzzing About$$$Folks around Fort Worth rave about the
+  fresh and flavorful sushi at this spot, often pointing out how the variety of
+  rolls and specials make every visit feel exciting and satisfying. Many
+  appreciate the attentive service that keeps things friendly and efficient,
+  helping to create a relaxed vibe that's perfect for casual outings or group
+  gatherings. While opinions highlight the consistent quality of the
+  ingredients, some note that portions are generous enough to please even the
+  pickiest eaters searching for great Japanese places nearby. Overall, it's
+  clear that diners enjoy the welcoming environment, making it a solid choice if
+  you're in the mood for something tasty and reliable without any major
+  drawbacks.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -209,7 +341,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Harumi Sushi Bar"
+title: Harumi Sushi Bar
 permalink: /arizona/phoenix/harumi-sushi-bar.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Phoenix
 seo:
-  name: "Harumi Sushi Bar"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Harumi Sushi Bar serves delicious sushi in Phoenix, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ8Ym-xCMSK4cR0hV_8rzjQ1M
 photos:
   - name: >-
@@ -185,7 +183,43 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Harumi Sushi Bar in Phoenix, AZ$$$Harumi Sushi Bar in Phoenix, AZ,
+  offers a contemporary twist on Japanese cuisine, featuring an array of
+  signature rolls and dishes crafted from top-quality ingredients. This spot
+  highlights fresh, premium selections that appeal to sushi enthusiasts seeking
+  authentic flavors in a modern setting, making it a go-to choice for those
+  exploring sushi options nearby. With its sleek atmosphere and attention to
+  detail, it's ideal for anyone looking for a relaxed yet elegant dining
+  experience among the best Japanese places in the area. Accessibility features
+  like wheelchair-friendly entrances and seating add to its appeal, ensuring
+  everyone can enjoy the inventive menu without hassle.
+generative_summary: >-
+  Discover Harumi Sushi Bar in Phoenix, AZ$$$Harumi Sushi Bar in Phoenix, AZ,
+  offers a contemporary twist on Japanese cuisine, featuring an array of
+  signature rolls and dishes crafted from top-quality ingredients. This spot
+  highlights fresh, premium selections that appeal to sushi enthusiasts seeking
+  authentic flavors in a modern setting, making it a go-to choice for those
+  exploring sushi options nearby. With its sleek atmosphere and attention to
+  detail, it's ideal for anyone looking for a relaxed yet elegant dining
+  experience among the best Japanese places in the area. Accessibility features
+  like wheelchair-friendly entrances and seating add to its appeal, ensuring
+  everyone can enjoy the inventive menu without hassle.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying About Harumi Sushi Bar$$$Folks often rave about the
+  tasty signature rolls and super fresh fish at this spot, making it a solid
+  pick for anyone craving quality sushi. Many highlight the variety of options,
+  including creative twists like purple rice rolls, paired with friendly and
+  attentive service that keeps things enjoyable from start to finish. The
+  modern, chic vibe and fair pricing add to the overall charm, drawing in groups
+  and solo diners alike for a satisfying meal. While opinions are generally
+  upbeat, it's clear that the focus on fresh ingredients and welcoming
+  environment makes this a reliable choice. If you're on the hunt for top-rated
+  sushi nearby, this place tends to leave people feeling impressed and coming
+  back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +245,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

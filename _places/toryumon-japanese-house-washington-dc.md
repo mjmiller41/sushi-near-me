@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Toryumon Japanese House"
+title: Toryumon Japanese House
 permalink: /district-of-columbia/washington/toryumon-japanese-house.html
 stateAbbr: DC
 stateName: District of Columbia
 cityName: Washington
 seo:
-  name: "Toryumon Japanese House"
-  type: Restaurant
+  type: restaurant
   links: https://www.toryumonjapanese.com/
-description: "Grilled dishes, ramen, sushi & bento lunch specials round at the menu at this contemporary option. Toryumon Japanese House serves delicious sushi in Washington, District of Columbia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJj9dFYl23t4kRtofPHMPFewA
 photos:
   - name: >-
@@ -184,6 +182,33 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 0
 website: https://www.toryumonjapanese.com/
+description: >-
+  Explore Toryumon Japanese House in Washington, DC$$$Toryumon Japanese House in
+  Washington, DC, offers a modern take on authentic Japanese dining with a focus
+  on fresh grilled dishes, hearty ramen, and creative sushi selections that
+  capture traditional flavors. The spot is ideal for those seeking customizable
+  bento boxes packed with options like seaweed salad and edamame, making it a
+  versatile choice for a quick lunch or relaxed evening meal. Accessibility
+  features such as wheelchair-friendly entrances and seating enhance the
+  welcoming atmosphere, ensuring everyone can enjoy the experience. With a
+  variety of Japanese-inspired options nearby, it's a go-to for anyone craving
+  quality sushi and comforting bowls in a contemporary setting. This location
+  stands out for its blend of flavorful cuisine and attentive service, perfect
+  for exploring Japanese places in the area.
+generative_summary: >-
+  Explore Toryumon Japanese House in Washington, DC$$$Toryumon Japanese House in
+  Washington, DC, offers a modern take on authentic Japanese dining with a focus
+  on fresh grilled dishes, hearty ramen, and creative sushi selections that
+  capture traditional flavors. The spot is ideal for those seeking customizable
+  bento boxes packed with options like seaweed salad and edamame, making it a
+  versatile choice for a quick lunch or relaxed evening meal. Accessibility
+  features such as wheelchair-friendly entrances and seating enhance the
+  welcoming atmosphere, ensuring everyone can enjoy the experience. With a
+  variety of Japanese-inspired options nearby, it's a go-to for anyone craving
+  quality sushi and comforting bowls in a contemporary setting. This location
+  stands out for its blend of flavorful cuisine and attentive service, perfect
+  for exploring Japanese places in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJj9dFYl23t4kRtofPHMPFewA/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3ekpQb0pnEAE
@@ -377,6 +402,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJa051M3FBRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJa051M3FBRRAB!2m1!1s0x89b7b75d6245d78f:0x7bc5c31ccf87b6
+review_summary: >-
+  What People Love About the Reviews$$$Visitors often rave about the standout
+  ramen and bento boxes at this spot, praising the flavorful broths and fresh
+  ingredients that make meals feel truly satisfying and authentic. While some
+  folks noted that certain dishes like miso ramen can be a bit salty for
+  sensitive tastes, the overall experience is lifted by the warm atmosphere and
+  friendly service that keeps things enjoyable. Many appreciate the variety of
+  options, including tasty salads and drinks, which add a fun twist to casual
+  visits with friends or dates. It's clear that the homemade elements, like
+  ginger dressing, leave a positive impression, encouraging repeat trips for
+  those hunting for top-rated Japanese eats. All in all, this place delivers a
+  solid vibe for sushi enthusiasts, with most feedback highlighting it as a
+  reliable choice for good food and a welcoming environment.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidStreetParking: true
   valetParking: false
@@ -408,8 +447,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Grilled dishes, ramen, sushi & bento lunch specials round at the menu at this
   contemporary option.
 

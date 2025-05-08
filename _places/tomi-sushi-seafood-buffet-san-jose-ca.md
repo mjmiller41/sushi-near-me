@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Tomi Sushi & Seafood Buffet"
+title: Tomi Sushi & Seafood Buffet
 permalink: /california/san-jose/tomi-sushi-seafood-buffet.html
 stateAbbr: CA
 stateName: California
 cityName: San Jose
 seo:
-  name: "Tomi Sushi & Seafood Buffet"
-  type: Restaurant
+  type: restaurant
   links: https://www.tomibuffet.com/
-description: "Tomi Sushi & Seafood Buffet serves delicious sushi in San Jose, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJvyjeVaEyjoAR_jC7VpXs0Fo
 photos:
   - name: >-
@@ -170,7 +168,121 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x808e32a155de28bf:0x5ad0ec9556bb30fe!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 15
+        minute: 0
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 17
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 17
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 17
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 17
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 15
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 2:30 PM, 5:30 – 9:00 PM'
     - 'Tuesday: 11:00 AM – 2:30 PM, 5:30 – 9:00 PM'
     - 'Wednesday: 11:00 AM – 2:30 PM, 5:30 – 9:00 PM'
@@ -178,14 +290,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 2:30 PM, 5:30 – 9:00 PM'
     - 'Saturday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM'
     - 'Sunday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 2:30 PM, 5:30 – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 2:30 PM, 5:30 – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 2:30 PM, 5:30 – 9:00 PM'
-    - 'Thursday: 11:00 AM – 2:30 PM, 5:30 – 9:00 PM'
-    - 'Friday: 11:00 AM – 2:30 PM, 5:30 – 9:00 PM'
-    - 'Saturday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM'
-    - 'Sunday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +302,277 @@ phone: (408) 239-1000
 price_level: PRICE_LEVEL_MODERATE
 price_range: $30 &ndash; $50
 rating: '3.9'
-rating_count: 0
+rating_count: 2474
 website: https://www.tomibuffet.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Tomi Sushi & Seafood Buffet in San Jose, CA$$$Tomi Sushi & Seafood
+  Buffet in San Jose, CA, offers an inviting all-you-can-eat experience
+  featuring a wide array of fresh sushi rolls and Asian-inspired dishes served
+  in a relaxed buffet style. This spot stands out for its diverse selection of
+  hot and cold entrees, including flavorful seafood options that cater to those
+  seeking top-rated Japanese cuisine nearby. Accessibility features like
+  wheelchair-friendly parking and seating make it a convenient choice for all
+  visitors, while the moderate pricing adds to its appeal for families and
+  groups enjoying a casual meal. Desserts round out the offerings with sweet
+  treats that complement the savory mains, making it a go-to destination for
+  anyone exploring sushi places near me.
+generative_summary: >-
+  Discover Tomi Sushi & Seafood Buffet in San Jose, CA$$$Tomi Sushi & Seafood
+  Buffet in San Jose, CA, offers an inviting all-you-can-eat experience
+  featuring a wide array of fresh sushi rolls and Asian-inspired dishes served
+  in a relaxed buffet style. This spot stands out for its diverse selection of
+  hot and cold entrees, including flavorful seafood options that cater to those
+  seeking top-rated Japanese cuisine nearby. Accessibility features like
+  wheelchair-friendly parking and seating make it a convenient choice for all
+  visitors, while the moderate pricing adds to its appeal for families and
+  groups enjoying a casual meal. Desserts round out the offerings with sweet
+  treats that complement the savory mains, making it a go-to destination for
+  anyone exploring sushi places near me.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJvyjeVaEyjoAR_jC7VpXs0Fo/reviews/ChZDSUhNMG9nS0VJQ0FnTUNveDYzX1lBEAE
+    relativePublishTimeDescription: a week ago
+    rating: 4
+    text:
+      text: >-
+        The selection of food was great, with a variety of options from sushi to
+        hot dishes. The food was fresh, and the flavors were pretty good, though
+        some of the dishes could’ve been a bit more flavorful. The service was
+        friendly, and the staff made sure to keep everything clean and
+        well-stocked. The only downside was that the seating area was a little
+        crowded, making it hard to move around. Still, it’s a solid buffet, and
+        I would go back again.
+      languageCode: en
+    originalText:
+      text: >-
+        The selection of food was great, with a variety of options from sushi to
+        hot dishes. The food was fresh, and the flavors were pretty good, though
+        some of the dishes could’ve been a bit more flavorful. The service was
+        friendly, and the staff made sure to keep everything clean and
+        well-stocked. The only downside was that the seating area was a little
+        crowded, making it hard to move around. Still, it’s a solid buffet, and
+        I would go back again.
+      languageCode: en
+    authorAttribution:
+      displayName: Alexander Gracia
+      uri: https://www.google.com/maps/contrib/108892216368545732156/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVptZlD0yAsMnLpOCPaBlRIIKLbrmQ1XIO0MphRvAZGCrWsULA=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-20T11:28:40.390537Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNveDYzX1lBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNveDYzX1lBEAE!2m1!1s0x808e32a155de28bf:0x5ad0ec9556bb30fe
+  - name: >-
+      places/ChIJvyjeVaEyjoAR_jC7VpXs0Fo/reviews/ChdDSUhNMG9nS0VJQ0FnSURmNHNTZHV3RRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        Had lunch on a late Saturday afternoon (we arrived at around 1:30 pm)
+        with a friend at Tomi Sushi. As a start, I am impressed with the huge
+        selection of Asian cuisine available at this restaurant. The variety of
+        seafood is also okay although I couldn’t find any raw oysters. Finally,
+        I considered the dessert spread to be of A+ quality.
+      languageCode: en
+    originalText:
+      text: >-
+        Had lunch on a late Saturday afternoon (we arrived at around 1:30 pm)
+        with a friend at Tomi Sushi. As a start, I am impressed with the huge
+        selection of Asian cuisine available at this restaurant. The variety of
+        seafood is also okay although I couldn’t find any raw oysters. Finally,
+        I considered the dessert spread to be of A+ quality.
+      languageCode: en
+    authorAttribution:
+      displayName: Isaac Tan
+      uri: https://www.google.com/maps/contrib/113866114858180786761/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJRNY57Cfa44qZ3970Qi4vrP5X_VJ2KthogqyWIFr8xFICk=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-01-05T03:08:43.979329Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURmNHNTZHV3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURmNHNTZHV3RRAB!2m1!1s0x808e32a155de28bf:0x5ad0ec9556bb30fe
+  - name: >-
+      places/ChIJvyjeVaEyjoAR_jC7VpXs0Fo/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJN0ppTmlBRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 4
+    text:
+      text: >-
+        They have really good selections,  food tastes good, service is fair,
+        sitting space is a little bit squeezed.  A very fine choice if you want
+        to eat many varieties in just one place for dinner.
+      languageCode: en
+    originalText:
+      text: >-
+        They have really good selections,  food tastes good, service is fair,
+        sitting space is a little bit squeezed.  A very fine choice if you want
+        to eat many varieties in just one place for dinner.
+      languageCode: en
+    authorAttribution:
+      displayName: Katharine King
+      uri: https://www.google.com/maps/contrib/110358426875643206443/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXZOp-GRfyI2KRSneDDZ2DMEzmJ9CIVMqXDk0SO6zasktBZ_AY=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-03-31T04:02:42.000987Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNJN0ppTmlBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNJN0ppTmlBRRAB!2m1!1s0x808e32a155de28bf:0x5ad0ec9556bb30fe
+  - name: >-
+      places/ChIJvyjeVaEyjoAR_jC7VpXs0Fo/reviews/ChZDSUhNMG9nS0VJQ0FnSUR2eVoyMUNnEAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 3
+    text:
+      text: >-
+        The family loves coming here for celebration. I noticed the price went
+        down from $54+/pp to $36+/- pp and with that price drop we noticed the
+        food and quality dropped as well.
+
+
+        I only get a samples and small servings so I can try as much food as I
+        can eat, but the sushi is definitely not as good as I remember.
+
+
+        They so don’t serve alcohol anymore.
+      languageCode: en
+    originalText:
+      text: >-
+        The family loves coming here for celebration. I noticed the price went
+        down from $54+/pp to $36+/- pp and with that price drop we noticed the
+        food and quality dropped as well.
+
+
+        I only get a samples and small servings so I can try as much food as I
+        can eat, but the sushi is definitely not as good as I remember.
+
+
+        They so don’t serve alcohol anymore.
+      languageCode: en
+    authorAttribution:
+      displayName: J C
+      uri: https://www.google.com/maps/contrib/105197208316047608916/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIUfNN7bmHJosj_RKqJyaBwR0ewnXh2VZnW0i9Xof22F78iYXrT=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-12-21T17:04:00.121089Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR2eVoyMUNnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR2eVoyMUNnEAE!2m1!1s0x808e32a155de28bf:0x5ad0ec9556bb30fe
+  - name: >-
+      places/ChIJvyjeVaEyjoAR_jC7VpXs0Fo/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJckxmajh3RRAB
+    relativePublishTimeDescription: a month ago
+    rating: 4
+    text:
+      text: >-
+        2025.03.30, Sunday at 12:15pm
+
+        $28/adult, $27/senior. Soda $3.50(?). Out the door for two ppl was $73.
+
+
+        I recommend the sushi. I appreciate whoever was making the bite size
+        ones. I don’t know why sushi is always so large. All desserts were
+        delicious. The hot and sour soup was good. Eggplant was good.
+
+
+        The hand roll salmon skin was soggy and seaweed was sticky and no longer
+        crispy. The soup dumpling was dry and meh. The crispy soft shell crab
+        was NOT soft-shell, don’t eat it. Lol.
+
+
+        Service was EXCELLENT. So fast and attentive. The chairs and tables need
+        to be spread out some more. I can barely move around.
+
+
+        Watch out for food, I saw a lady just using her hands to grab a dumpling
+        from the basket. Like wtf.
+      languageCode: en
+    originalText:
+      text: >-
+        2025.03.30, Sunday at 12:15pm
+
+        $28/adult, $27/senior. Soda $3.50(?). Out the door for two ppl was $73.
+
+
+        I recommend the sushi. I appreciate whoever was making the bite size
+        ones. I don’t know why sushi is always so large. All desserts were
+        delicious. The hot and sour soup was good. Eggplant was good.
+
+
+        The hand roll salmon skin was soggy and seaweed was sticky and no longer
+        crispy. The soup dumpling was dry and meh. The crispy soft shell crab
+        was NOT soft-shell, don’t eat it. Lol.
+
+
+        Service was EXCELLENT. So fast and attentive. The chairs and tables need
+        to be spread out some more. I can barely move around.
+
+
+        Watch out for food, I saw a lady just using her hands to grab a dumpling
+        from the basket. Like wtf.
+      languageCode: en
+    authorAttribution:
+      displayName: mars gemini
+      uri: https://www.google.com/maps/contrib/101713187877978609082/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUmvK_P86XYvLOWq0fzzNqz24r9arm4dgTHzIx-7lZsQOzltPwG=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-03-31T01:42:24.177028Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNJckxmajh3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNJckxmajh3RRAB!2m1!1s0x808e32a155de28bf:0x5ad0ec9556bb30fe
+review_summary: >-
+  What Customers Are Saying About the Experience$$$Visitors often praise Tomi
+  Sushi for its impressive variety of dishes, with fresh sushi and tasty Asian
+  favorites standing out as highlights that keep people coming back for a
+  satisfying meal. While the service is frequently described as friendly and
+  attentive, helping to maintain a smooth dining flow, some note that the
+  seating can feel a bit tight during busier times, though it doesn't detract
+  much from the overall fun. Many appreciate the good value for the price,
+  especially for those looking to sample a range of flavors in one spot, making
+  it a solid pick for casual get-togethers or family outings. Despite a few
+  mentions of certain items not being as flavorful as hoped, the general
+  consensus leans positive, with plenty of folks enjoying the desserts and
+  overall atmosphere that make this sushi restaurant a worthwhile stop. If
+  you're hunting for reliable sushi options close to you, it's easy to see why
+  this place earns repeat visits for its approachable vibe and dependable
+  quality.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
+curbside_pickup: false
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
 serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_cocktails: false
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Asian-influenced, all-you-can-eat mall buffet featuring dozens of hot & cold
+  entrees plus desserts.
 
 ---

@@ -5,4 +5,5 @@ permalink: /texas/coppell/
 stateAbbr: TX
 stateName: Texas
 cityName: Coppell
+
 ---

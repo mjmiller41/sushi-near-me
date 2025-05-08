@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Masa"
+title: Sushi Masa
 permalink: /california/san-jose/sushi-masa.html
 stateAbbr: CA
 stateName: California
 cityName: San Jose
 seo:
-  name: "Sushi Masa"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi Masa serves delicious sushi in San Jose, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJr3c9AwE0joARRm3plJcrCKY
 photos:
   - name: >-
@@ -185,7 +183,42 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Sushi Masa in San Jose, CA$$$Sushi Masa in San Jose, CA, stands out
+  as a casual Japanese dining spot perfect for those seeking fresh sushi options
+  in a convenient shopping center location. This restaurant delights with its
+  selection of authentic sushi rolls and sake, creating an inviting atmosphere
+  for casual meals or quick bites. Accessibility features like
+  wheelchair-friendly parking and entrances make it easy for everyone to enjoy
+  the experience, enhancing its appeal for diverse visitors. With its focus on
+  quality ingredients and simple yet elegant presentation, Sushi Masa serves as
+  a go-to choice for locals exploring top-rated sushi places near me, blending
+  tradition with everyday convenience.
+generative_summary: >-
+  Discover Sushi Masa in San Jose, CA$$$Sushi Masa in San Jose, CA, stands out
+  as a casual Japanese dining spot perfect for those seeking fresh sushi options
+  in a convenient shopping center location. This restaurant delights with its
+  selection of authentic sushi rolls and sake, creating an inviting atmosphere
+  for casual meals or quick bites. Accessibility features like
+  wheelchair-friendly parking and entrances make it easy for everyone to enjoy
+  the experience, enhancing its appeal for diverse visitors. With its focus on
+  quality ingredients and simple yet elegant presentation, Sushi Masa serves as
+  a go-to choice for locals exploring top-rated sushi places near me, blending
+  tradition with everyday convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Visitor Feedback$$$Visitors to this sushi spot often highlight
+  the fresh, flavorful rolls and generous portions that make every meal
+  satisfying and memorable. Many appreciate the attentive service and cozy vibe,
+  which add to the overall enjoyment without overwhelming the focus on the food.
+  While a few note that wait times can vary during peak hours, the consensus
+  leans toward it being a reliable pick for anyone craving quality Japanese
+  cuisine. Overall, it's frequently recommended as a solid option for groups or
+  solo diners looking for sushi restaurants near me, with the positive
+  experiences outweighing any minor drawbacks. If you're in the area, it's worth
+  checking out for a taste of what keeps fans coming back.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +244,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

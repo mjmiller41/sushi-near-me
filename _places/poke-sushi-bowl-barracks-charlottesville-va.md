@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Poke Sushi Bowl Barracks"
+title: Poke Sushi Bowl Barracks
 permalink: /virginia/charlottesville/poke-sushi-bowl-barracks.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Charlottesville
 seo:
-  name: "Poke Sushi Bowl Barracks"
-  type: Restaurant
-  links: null
-description: "Poke Sushi Bowl Barracks serves delicious sushi in Charlottesville, Virginia. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.pokesushibowl.com/
 place_id: ChIJo9UgmraHs4kRsOJsPigjLho
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89b387b69a20d5a3:0x1a2e23283e6ce2b0!10e5
 primary_type: American Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 9:00 PM'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 9:00 PM'
+    - 'Saturday: 11:00 AM – 9:00 PM'
+    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T01:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,52 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (434) 284-5466
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.6'
+rating_count: 313
+website: https://www.pokesushibowl.com/
+description: >-
+  Discover Poke Sushi Bowl in Charlottesville, VA$$$Poke Sushi Bowl Barracks in
+  Charlottesville, VA, stands out as a casual dining spot in the Barracks Road
+  area, specializing in fresh, made-to-order Hawaiian poke bowls that blend
+  vibrant flavors with healthy ingredients. This sushi restaurant offers a
+  welcoming atmosphere where customers can customize their meals with
+  high-quality fish and toppings, making it a go-to choice for those seeking
+  light and nutritious options near the city center. Accessibility features like
+  wheelchair-friendly entrances and seating add to its appeal, ensuring everyone
+  can enjoy the experience with ease. Whether you're in the mood for a quick
+  lunch or a satisfying dinner, the menu emphasizes wholesome eats that cater to
+  sushi enthusiasts looking for variety in a relaxed setting.
+generative_summary: >-
+  Discover Poke Sushi Bowl in Charlottesville, VA$$$Poke Sushi Bowl Barracks in
+  Charlottesville, VA, stands out as a casual dining spot in the Barracks Road
+  area, specializing in fresh, made-to-order Hawaiian poke bowls that blend
+  vibrant flavors with healthy ingredients. This sushi restaurant offers a
+  welcoming atmosphere where customers can customize their meals with
+  high-quality fish and toppings, making it a go-to choice for those seeking
+  light and nutritious options near the city center. Accessibility features like
+  wheelchair-friendly entrances and seating add to its appeal, ensuring everyone
+  can enjoy the experience with ease. Whether you're in the mood for a quick
+  lunch or a satisfying dinner, the menu emphasizes wholesome eats that cater to
+  sushi enthusiasts looking for variety in a relaxed setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Guests Are Saying About the Experience$$$Visitors often rave about the
+  delicious poke bowls and refreshing bubble tea at this spot, with many
+  highlighting the Thai tea as a standout favorite that pairs perfectly with
+  their meals. Folks appreciate the consistent and friendly service that makes
+  every visit feel welcoming and hassle-free, adding to the overall enjoyable
+  vibe. The food is frequently described as fresh, bright, and full of indulgent
+  flavors that keep customers coming back for more, making it a solid pick for
+  anyone craving a healthy yet tasty bite. Overall, the positive feedback paints
+  a picture of a reliable place for casual dining, where the combination of
+  quality ingredients and attentive staff creates a memorable experience without
+  any major drawbacks. If you're exploring sushi places nearby, this location
+  seems to hit the mark for those seeking a balance of flavor and convenience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +313,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

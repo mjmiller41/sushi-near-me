@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Su Su Sushi"
+title: Su Su Sushi
 permalink: /california/san-diego/su-su-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: San Diego
 seo:
-  name: "Su Su Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://sususushillc.com/
-description: "Su Su Sushi serves delicious sushi in San Diego, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJ00910FhV2YARxBfb79mPS18
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $10 &ndash; $20
 rating: '4.1'
 rating_count: 0
 website: http://sususushillc.com/
+description: >-
+  Discover Su Su Sushi in San Diego, CA$$$Nestled in the heart of San Diego, CA,
+  Su Su Sushi stands out as a welcoming spot for fresh Japanese cuisine,
+  offering a casual vibe perfect for enjoying sushi rolls and poke bowls. This
+  neighborhood eatery combines affordability with a variety of flavorful
+  options, including creative rolls and refreshing beverages like beer on tap,
+  making it a go-to choice for those seeking sushi restaurants nearby.
+  Accessibility features such as wheelchair-friendly entrances and seating
+  enhance the experience for all visitors, while outdoor options add to its
+  charm on sunny days. Whether you're in the mood for a quick bite or a relaxed
+  meal, the menu's diverse selections cater to different tastes, positioning it
+  as one of the top sushi places in the area.
+generative_summary: >-
+  Discover Su Su Sushi in San Diego, CA$$$Nestled in the heart of San Diego, CA,
+  Su Su Sushi stands out as a welcoming spot for fresh Japanese cuisine,
+  offering a casual vibe perfect for enjoying sushi rolls and poke bowls. This
+  neighborhood eatery combines affordability with a variety of flavorful
+  options, including creative rolls and refreshing beverages like beer on tap,
+  making it a go-to choice for those seeking sushi restaurants nearby.
+  Accessibility features such as wheelchair-friendly entrances and seating
+  enhance the experience for all visitors, while outdoor options add to its
+  charm on sunny days. Whether you're in the mood for a quick bite or a relaxed
+  meal, the menu's diverse selections cater to different tastes, positioning it
+  as one of the top sushi places in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ00910FhV2YARxBfb79mPS18/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJc2JHWjN3RRAB
@@ -380,6 +403,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQtMkwtSzNBRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQtMkwtSzNBRRAB!2m1!1s0x80d95558d0754fd3:0x5f4b8fd9efdb17c4
+review_summary: >-
+  What Customers Are Raving About$$$Visitors to this laid-back sushi spot often
+  highlight the fresh ingredients and solid variety of rolls, making it a
+  reliable pick for affordable Japanese eats without breaking the bank. While
+  some note that the atmosphere can feel straightforward and occasionally
+  chilly, the overall service remains friendly and efficient, adding a positive
+  touch to the dining experience. Many appreciate the quick preparation and
+  options for takeout or dine-in, ideal for those searching for sushi close to
+  me on a busy day. Despite a few mentions of temperature issues with certain
+  dishes, the consensus leans toward enjoying the authentic flavors and generous
+  portions that keep people coming back. All in all, it's a solid choice for
+  anyone craving top-rated sushi, with the convenience and taste winning over
+  most fans in the end.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidStreetParking: true
 payment_options:
@@ -410,7 +447,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

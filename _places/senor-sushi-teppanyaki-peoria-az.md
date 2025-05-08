@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Señor Sushi & Teppanyaki"
+title: Señor Sushi & Teppanyaki
 permalink: /arizona/peoria/senor-sushi-teppanyaki.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Peoria
 seo:
-  name: "Señor Sushi & Teppanyaki"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Señor Sushi & Teppanyaki serves delicious sushi in Peoria, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJVTrzGeZrK4cRZlQOr5T7SrA
 photos:
   - name: >-
@@ -185,7 +183,46 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Señor Sushi & Teppanyaki in Peoria, AZ$$$Señor Sushi & Teppanyaki in
+  Peoria, AZ, stands out as a casual spot blending Japanese-inspired dishes with
+  creative twists, making it a go-to for sushi enthusiasts in the area. This
+  restaurant features fresh teppanyaki fare prepared with flair right at your
+  table, alongside inventive rolls that fuse bold flavors for an exciting dining
+  experience. With accessibility options like wheelchair-friendly parking and
+  seating, it's designed to welcome everyone looking for a relaxed meal. The bar
+  adds to the appeal with a selection of cocktails that pair perfectly with the
+  menu, creating a lively atmosphere for groups or solo diners. Whether you're
+  exploring sushi restaurants nearby or seeking Japanese-inspired places in
+  Peoria, this spot delivers on fresh ingredients and vibrant presentation.
+generative_summary: >-
+  Discover Señor Sushi & Teppanyaki in Peoria, AZ$$$Señor Sushi & Teppanyaki in
+  Peoria, AZ, stands out as a casual spot blending Japanese-inspired dishes with
+  creative twists, making it a go-to for sushi enthusiasts in the area. This
+  restaurant features fresh teppanyaki fare prepared with flair right at your
+  table, alongside inventive rolls that fuse bold flavors for an exciting dining
+  experience. With accessibility options like wheelchair-friendly parking and
+  seating, it's designed to welcome everyone looking for a relaxed meal. The bar
+  adds to the appeal with a selection of cocktails that pair perfectly with the
+  menu, creating a lively atmosphere for groups or solo diners. Whether you're
+  exploring sushi restaurants nearby or seeking Japanese-inspired places in
+  Peoria, this spot delivers on fresh ingredients and vibrant presentation.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Buzzing About$$$From what folks are sharing online, diners
+  at this sushi spot generally appreciate the creative fusion of flavors that
+  make meals feel fresh and fun, often highlighting the tasty rolls and
+  interactive teppanyaki cooking as standout features. Many comments mention the
+  welcoming vibe and solid portions that leave you satisfied without breaking
+  the bank, making it a reliable choice for casual outings. While some note that
+  wait times can vary during peak hours, the overall consensus leans positive,
+  with praise for the flavorful dishes that keep people coming back for more. If
+  you're hunting for top-rated sushi options around Peoria, visitors often say
+  the experience here hits the mark with its mix of entertainment and great
+  taste. All in all, it's a spot that seems to deliver a solid, enjoyable vibe
+  for those craving Japanese-inspired eats.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +248,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

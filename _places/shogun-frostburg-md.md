@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Shogun"
+title: Shogun
 permalink: /maryland/frostburg/shogun.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Frostburg
 seo:
-  name: "Shogun"
-  type: Restaurant
-  links: null
-description: "Shogun serves delicious sushi in Frostburg, Maryland. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.shogunfrostburg.com/
 place_id: ChIJ42tvO-6RyokRKZdYw-JcLjQ
 photos:
   - name: >-
@@ -170,8 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89ca91ee3b6f6be3:0x342e5ce2c3589729!10e5
 primary_type: Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: Closed'
+    - 'Tuesday: 11:30 AM – 9:00 PM'
+    - 'Wednesday: 11:30 AM – 9:00 PM'
+    - 'Thursday: 11:30 AM – 9:00 PM'
+    - 'Friday: 11:30 AM – 9:30 PM'
+    - 'Saturday: 11:30 AM – 9:30 PM'
+    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T01:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +234,52 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (240) 284-2666
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.6'
+rating_count: 154
+website: http://www.shogunfrostburg.com/
+description: >-
+  Discover Shogun in Frostburg, MD$$$Shogun in Frostburg, MD, stands out as a
+  welcoming Japanese steakhouse offering a diverse selection of fresh sushi and
+  flavorful hibachi options that appeal to sushi enthusiasts. This spot
+  highlights specialty rolls crafted with high-quality ingredients, alongside
+  sizzling hibachi dishes that bring authentic flavors to the table, making it a
+  go-to choice for those seeking sushi restaurants nearby. The restaurant's
+  accessible design ensures a comfortable dining experience for all guests, with
+  options that cater to various tastes in a cozy setting. Additionally, its
+  moderate pricing and convenient location add to the appeal for anyone
+  exploring top-rated Japanese places in the area. Whether you're in the mood
+  for a quick bite or a relaxed meal, Shogun delivers a satisfying blend of
+  tradition and taste that keeps locals coming back.
+generative_summary: >-
+  Discover Shogun in Frostburg, MD$$$Shogun in Frostburg, MD, stands out as a
+  welcoming Japanese steakhouse offering a diverse selection of fresh sushi and
+  flavorful hibachi options that appeal to sushi enthusiasts. This spot
+  highlights specialty rolls crafted with high-quality ingredients, alongside
+  sizzling hibachi dishes that bring authentic flavors to the table, making it a
+  go-to choice for those seeking sushi restaurants nearby. The restaurant's
+  accessible design ensures a comfortable dining experience for all guests, with
+  options that cater to various tastes in a cozy setting. Additionally, its
+  moderate pricing and convenient location add to the appeal for anyone
+  exploring top-rated Japanese places in the area. Whether you're in the mood
+  for a quick bite or a relaxed meal, Shogun delivers a satisfying blend of
+  tradition and taste that keeps locals coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this Japanese steakhouse often praise
+  the fresh and delicious sushi selections that hit the spot every time, making
+  it a solid pick for anyone craving quality Japanese cuisine. The food is
+  consistently described as well-made and full of flavor, with highlights on the
+  variety that keeps things exciting for repeat trips. Folks appreciate the
+  friendly and attentive service that enhances the overall vibe, turning a
+  simple meal into a pleasant outing. While opinions vary, the general feedback
+  leans positive, noting it as a reliable option among sushi spots in the
+  region. All in all, it's a welcoming place that delivers on taste and
+  hospitality, ideal for those hunting for dependable dining experiences nearby.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +305,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

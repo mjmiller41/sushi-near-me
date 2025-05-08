@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Trapper's Sushi - Lacey"
+title: Trapper's Sushi - Lacey
 permalink: /washington/lacey/trapper-s-sushi-lacey.html
 stateAbbr: WA
 stateName: Washington
 cityName: Lacey
 seo:
-  name: "Trapper's Sushi - Lacey"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Trapper's Sushi - Lacey serves delicious sushi in Lacey, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJS0XNE5YLkVQRm8PrZEidYgY
 photos:
   - name: >-
@@ -185,7 +183,44 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Trapper's Sushi in Lacey, Washington$$$Trapper's Sushi in Lacey,
+  Washington, stands out as a welcoming branch of a popular sushi chain,
+  offering an array of specialty rolls and all-you-can-eat deals that cater to
+  sushi lovers. This spot emphasizes fresh ingredients and a diverse selection
+  of options, making it a go-to choice for those seeking satisfying
+  Japanese-inspired meals nearby. With accessibility features like
+  wheelchair-friendly parking and entrances, it ensures a comfortable visit for
+  everyone. The menu highlights creative rolls and traditional favorites,
+  appealing to both newcomers and seasoned enthusiasts looking for top-rated
+  sushi experiences. Overall, it's a reliable destination for casual dining that
+  combines variety with value in a relaxed setting.
+generative_summary: >-
+  Discover Trapper's Sushi in Lacey, Washington$$$Trapper's Sushi in Lacey,
+  Washington, stands out as a welcoming branch of a popular sushi chain,
+  offering an array of specialty rolls and all-you-can-eat deals that cater to
+  sushi lovers. This spot emphasizes fresh ingredients and a diverse selection
+  of options, making it a go-to choice for those seeking satisfying
+  Japanese-inspired meals nearby. With accessibility features like
+  wheelchair-friendly parking and entrances, it ensures a comfortable visit for
+  everyone. The menu highlights creative rolls and traditional favorites,
+  appealing to both newcomers and seasoned enthusiasts looking for top-rated
+  sushi experiences. Overall, it's a reliable destination for casual dining that
+  combines variety with value in a relaxed setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What People Are Saying About the Experience$$$Visitors often rave about the
+  tasty all-you-can-eat sushi options, praising the wide range of rolls, nigiri,
+  and appetizers that keep things exciting and flavorful. Many highlight the
+  friendly service and quick delivery of fresh dishes, which make for a
+  enjoyable and efficient meal. While some mention that prices can add up, the
+  overall value from the generous portions and quality ingredients tends to win
+  people over. Folks appreciate the welcoming vibe that suits groups or solo
+  diners, adding to the fun of exploring new flavors. In general, it's a solid
+  pick for anyone craving reliable sushi, with the fresh food and attentive
+  staff leaving a positive impression.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +246,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

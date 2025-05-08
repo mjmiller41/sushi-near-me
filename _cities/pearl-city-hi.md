@@ -5,4 +5,5 @@ permalink: /hawaii/pearl-city/
 stateAbbr: HI
 stateName: Hawaii
 cityName: Pearl City
+
 ---

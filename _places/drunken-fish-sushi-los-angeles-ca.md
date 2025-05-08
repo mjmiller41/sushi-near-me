@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Drunken Fish sushi"
+title: Drunken Fish sushi
 permalink: /california/los-angeles/drunken-fish-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Los Angeles
 seo:
-  name: "Drunken Fish sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Drunken Fish sushi serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJObtZqly7woARY87mJEYfKR4
 photos:
   - name: >-
@@ -185,7 +183,50 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Drunken Fish Sushi in Los Angeles, CA$$$Drunken Fish Sushi in Los
+  Angeles, CA, stands out as a refreshed destination for Japanese-inspired
+  dining, blending modern vibes with traditional flavors in the vibrant Sawtelle
+  neighborhood. This sushi restaurant delights visitors with a selection of
+  fresh Japanese fare, including expertly prepared rolls, paired perfectly with
+  beer, sake, and wine options that enhance the overall experience.
+  Accessibility features like wheelchair-friendly parking and entrances make it
+  welcoming for everyone, adding to its appeal as a go-to spot for casual meals
+  or special occasions. The inviting atmosphere highlights clean lines and
+  thoughtful decor, creating an enjoyable setting for savoring top-rated sushi
+  dishes. Whether you're exploring sushi places nearby or seeking a reliable
+  Japanese eatery, this location offers a memorable taste of authentic flavors
+  in a comfortable environment.
+generative_summary: >-
+  Discover Drunken Fish Sushi in Los Angeles, CA$$$Drunken Fish Sushi in Los
+  Angeles, CA, stands out as a refreshed destination for Japanese-inspired
+  dining, blending modern vibes with traditional flavors in the vibrant Sawtelle
+  neighborhood. This sushi restaurant delights visitors with a selection of
+  fresh Japanese fare, including expertly prepared rolls, paired perfectly with
+  beer, sake, and wine options that enhance the overall experience.
+  Accessibility features like wheelchair-friendly parking and entrances make it
+  welcoming for everyone, adding to its appeal as a go-to spot for casual meals
+  or special occasions. The inviting atmosphere highlights clean lines and
+  thoughtful decor, creating an enjoyable setting for savoring top-rated sushi
+  dishes. Whether you're exploring sushi places nearby or seeking a reliable
+  Japanese eatery, this location offers a memorable taste of authentic flavors
+  in a comfortable environment.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What People Are Buzzing About$$$Folks often rave about the fantastic happy
+  hour at this sushi spot, where fresh fish, creative rolls, and tasty
+  appetizers make for an affordable and fun outing with drinks to match. Many
+  highlight the spot's welcoming vibe, thanks to the clean, well-decorated
+  interior and attentive team that keeps things running smoothly. While some
+  mention that prices can climb a bit after happy hour ends, the overall value
+  for quality Japanese fare keeps it a favorite for groups or solo diners.
+  Visitors frequently note the variety of options that cater to different
+  tastes, making it a solid choice for anyone craving reliable sushi
+  experiences. If you're on the hunt for great sushi restaurants near you, this
+  place delivers a positive vibe with honest highlights on what makes it stand
+  out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +252,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

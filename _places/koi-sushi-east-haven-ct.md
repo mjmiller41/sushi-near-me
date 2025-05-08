@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Koi Sushi"
+title: Koi Sushi
 permalink: /connecticut/east-haven/koi-sushi.html
 stateAbbr: CT
 stateName: Connecticut
 cityName: East Haven
 seo:
-  name: "Koi Sushi"
-  type: Restaurant
-  links: null
-description: "Koi Sushi serves delicious sushi in East Haven, Connecticut. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.mykoisushi.com/
 place_id: ChIJ5S7DN8fX54kRZahwxPKZwSA
 photos:
   - name: >-
@@ -170,8 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89e7d7c737c32ee5:0x20c199f2c470a865!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:30 AM – 9:00 PM'
+    - 'Tuesday: Closed'
+    - 'Wednesday: 11:30 AM – 9:00 PM'
+    - 'Thursday: 11:30 AM – 9:00 PM'
+    - 'Friday: 11:30 AM – 9:30 PM'
+    - 'Saturday: 11:30 AM – 9:30 PM'
+    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T01:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +234,50 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (203) 466-7799
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '3.8'
+rating_count: 327
+website: http://www.mykoisushi.com/
+description: >-
+  Discover Koi Sushi in East Haven, CT$$$Koi Sushi in East Haven, CT, stands out
+  as a relaxed destination for sushi enthusiasts seeking fresh, all-you-can-eat
+  options in a welcoming atmosphere. This Japanese restaurant features a variety
+  of flavorful rolls and pairings like beer and sake, making it a go-to spot for
+  those exploring top-rated sushi places near me. With accessibility options
+  such as wheelchair-friendly entrances and parking, it's designed for everyone
+  to enjoy a comfortable dining experience. The spot's location in the lively
+  Trolley Square area adds to its appeal, offering a casual vibe perfect for
+  casual meals or gatherings. Open most days with extended hours, it's an easy
+  choice for anyone craving authentic Japanese flavors without the hassle.
+generative_summary: >-
+  Discover Koi Sushi in East Haven, CT$$$Koi Sushi in East Haven, CT, stands out
+  as a relaxed destination for sushi enthusiasts seeking fresh, all-you-can-eat
+  options in a welcoming atmosphere. This Japanese restaurant features a variety
+  of flavorful rolls and pairings like beer and sake, making it a go-to spot for
+  those exploring top-rated sushi places near me. With accessibility options
+  such as wheelchair-friendly entrances and parking, it's designed for everyone
+  to enjoy a comfortable dining experience. The spot's location in the lively
+  Trolley Square area adds to its appeal, offering a casual vibe perfect for
+  casual meals or gatherings. Open most days with extended hours, it's an easy
+  choice for anyone craving authentic Japanese flavors without the hassle.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Folks checking out this sushi spot often highlight
+  the fresh ingredients and generous portions as real winners, giving it solid
+  vibes for a casual night out. With an overall rating around 3.8, many
+  appreciate the variety of options that make it a reliable pick for sushi
+  restaurants close to me, though some note that service can vary depending on
+  the time. It's frequently recommended for groups or families looking for
+  affordable eats around the $20–$30 range, with praises for the all-you-can-eat
+  deal that keeps things fun and satisfying. Overall, the feedback leans
+  positive, suggesting it's worth trying if you're in the mood for
+  straightforward Japanese dining that hits the spot. While not perfect, the
+  general consensus is that it delivers good value and tasty bites for sushi
+  lovers in the area.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +303,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

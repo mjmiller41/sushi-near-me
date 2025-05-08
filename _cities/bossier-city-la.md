@@ -5,4 +5,5 @@ permalink: /louisiana/bossier-city/
 stateAbbr: LA
 stateName: Louisiana
 cityName: Bossier City
+
 ---

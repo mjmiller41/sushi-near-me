@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Makitto Sushi"
+title: Makitto Sushi
 permalink: /arizona/mesa/makitto-sushi.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Mesa
 seo:
-  name: "Makitto Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://makittosushiaz.wixsite.com/makitto-sushi
-description: "Makitto Sushi serves delicious sushi in Mesa, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ33zWFiwIK4cRthFGMgG-eDg
 photos:
   - name: >-
@@ -170,7 +168,81 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x872b082c16d67cdf:0x3878be01324611b6!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 16
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 12
+        minute: 0
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 12
+        minute: 0
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 15
+        minute: 0
+    - open:
+        day: 6
+        hour: 16
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 4:30 – 9:30 PM'
     - 'Wednesday: 4:30 – 9:30 PM'
@@ -178,14 +250,7 @@ opening_hours:
     - 'Friday: 12:00 – 3:00 PM, 4:30 – 9:30 PM'
     - 'Saturday: 12:00 – 3:00 PM, 4:30 – 9:30 PM'
     - 'Sunday: 4:30 – 9:30 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 4:30 – 9:30 PM'
-    - 'Wednesday: 4:30 – 9:30 PM'
-    - 'Thursday: 12:00 – 3:00 PM, 4:30 – 9:30 PM'
-    - 'Friday: 12:00 – 3:00 PM, 4:30 – 9:30 PM'
-    - 'Saturday: 12:00 – 3:00 PM, 4:30 – 9:30 PM'
-    - 'Sunday: 4:30 – 9:30 PM'
+  nextOpenTime: '2025-05-03T23:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +262,246 @@ phone: (480) 508-6761
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.6'
-rating_count: 0
+rating_count: 434
 website: https://makittosushiaz.wixsite.com/makitto-sushi
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Explore Makitto Sushi in Mesa, AZ$$$Makitto Sushi in Mesa, AZ, stands out as a
+  welcoming Japanese restaurant that skillfully merges modern and traditional
+  cooking techniques for an authentic dining experience. This spot offers a cozy
+  atmosphere where fresh sushi and flavorful dishes are prepared with care,
+  making it a great choice for those seeking top-rated sushi options nearby.
+  With accessibility features like wheelchair-friendly parking and entrances,
+  it's designed to accommodate all guests comfortably, enhancing its appeal as a
+  go-to place for casual meals or special occasions. The menu includes fairly
+  priced lunch specials and a variety of Japanese favorites, served in a space
+  that's perfect for enjoying quality cuisine without the fuss. Drawing from its
+  family-oriented vibe, this eatery provides a relaxed setting that feels just
+  right for sushi enthusiasts exploring local Japanese places.
+generative_summary: >-
+  Explore Makitto Sushi in Mesa, AZ$$$Makitto Sushi in Mesa, AZ, stands out as a
+  welcoming Japanese restaurant that skillfully merges modern and traditional
+  cooking techniques for an authentic dining experience. This spot offers a cozy
+  atmosphere where fresh sushi and flavorful dishes are prepared with care,
+  making it a great choice for those seeking top-rated sushi options nearby.
+  With accessibility features like wheelchair-friendly parking and entrances,
+  it's designed to accommodate all guests comfortably, enhancing its appeal as a
+  go-to place for casual meals or special occasions. The menu includes fairly
+  priced lunch specials and a variety of Japanese favorites, served in a space
+  that's perfect for enjoying quality cuisine without the fuss. Drawing from its
+  family-oriented vibe, this eatery provides a relaxed setting that feels just
+  right for sushi enthusiasts exploring local Japanese places.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ33zWFiwIK4cRthFGMgG-eDg/reviews/ChdDSUhNMG9nS0VJQ0FnSUMzbDhmTzJ3RRAB
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        Love this place! Servers always so friendly, food is always delicious
+        and the lunch specials are priced really fairly in my opinion. We tend
+        to eat a lot so our bill is on the higher end. Out of all the sushi
+        places we've been to this is our favorite! Plus their holiday acholic
+        drinks are delish. Always recommend but be aware it is a small place so
+        on a busy night anything more than 4 I'd call Ahead to make sure they
+        can accommodate you.
+      languageCode: en
+    originalText:
+      text: >-
+        Love this place! Servers always so friendly, food is always delicious
+        and the lunch specials are priced really fairly in my opinion. We tend
+        to eat a lot so our bill is on the higher end. Out of all the sushi
+        places we've been to this is our favorite! Plus their holiday acholic
+        drinks are delish. Always recommend but be aware it is a small place so
+        on a busy night anything more than 4 I'd call Ahead to make sure they
+        can accommodate you.
+      languageCode: en
+    authorAttribution:
+      displayName: emma e
+      uri: https://www.google.com/maps/contrib/107959482726611179312/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJhXF8YDR6tQ9JxBEB1udOUU0H4cdIhcXxbYNVY5zMQCzoMbw=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-11-10T03:33:56.344966Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMzbDhmTzJ3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMzbDhmTzJ3RRAB!2m1!1s0x872b082c16d67cdf:0x3878be01324611b6
+  - name: >-
+      places/ChIJ33zWFiwIK4cRthFGMgG-eDg/reviews/ChdDSUhNMG9nS0VJQ0FnTUNvbG95MXF3RRAB
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 2
+    text:
+      text: >-
+        We placed a Sushi order for pick up as first time customers. They dont
+        do delivery and i was super ok with that. The food was ready quickly.
+        The service was really good and at that point. It looked like I had
+        found my new sushi spot. Then I tried the food. The rolls were dry and
+        didn't stay together very well. They gave us plenty of Soy and Ginger
+        but the portion of Wasabi hurt my feelings. I got 2 basic rolls and was
+        not impressed with either. The wife wasn't happy with her roll either.
+        Even tho these were the "peanut butter and Jelly" of Sushi. It looked
+        great but lacked any real flavor. We won't be coming back.
+      languageCode: en
+    originalText:
+      text: >-
+        We placed a Sushi order for pick up as first time customers. They dont
+        do delivery and i was super ok with that. The food was ready quickly.
+        The service was really good and at that point. It looked like I had
+        found my new sushi spot. Then I tried the food. The rolls were dry and
+        didn't stay together very well. They gave us plenty of Soy and Ginger
+        but the portion of Wasabi hurt my feelings. I got 2 basic rolls and was
+        not impressed with either. The wife wasn't happy with her roll either.
+        Even tho these were the "peanut butter and Jelly" of Sushi. It looked
+        great but lacked any real flavor. We won't be coming back.
+      languageCode: en
+    authorAttribution:
+      displayName: David Clark
+      uri: https://www.google.com/maps/contrib/107149278685553906618/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLS-CP-DpPC00qoEykTq4M0I6p4Xp4ElWUeCjkzW_pw-WwTKQ=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-04-16T20:47:36.188496Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNvbG95MXF3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNvbG95MXF3RRAB!2m1!1s0x872b082c16d67cdf:0x3878be01324611b6
+  - name: >-
+      places/ChIJ33zWFiwIK4cRthFGMgG-eDg/reviews/ChdDSUhNMG9nS0VJQ0FnSUNmNzdXbnVnRRAB
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        Jay and his staff are so talented and kind! The sushi is always
+        incredible, tasty, and beautiful. The service is always accurate and
+        quick. I’ve been a million times and have never had an experience less
+        than perfect! Thank you for everything!
+      languageCode: en
+    originalText:
+      text: >-
+        Jay and his staff are so talented and kind! The sushi is always
+        incredible, tasty, and beautiful. The service is always accurate and
+        quick. I’ve been a million times and have never had an experience less
+        than perfect! Thank you for everything!
+      languageCode: en
+    authorAttribution:
+      displayName: Eleanor Parrish
+      uri: https://www.google.com/maps/contrib/100620934532327477969/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWIXYJ0zT9B5aYrUnmOUOGy_AsKPHZ2u-WPf_t1i4uscnGKiHDN=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-01-02T22:32:26.100197Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNmNzdXbnVnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNmNzdXbnVnRRAB!2m1!1s0x872b082c16d67cdf:0x3878be01324611b6
+  - name: >-
+      places/ChIJ33zWFiwIK4cRthFGMgG-eDg/reviews/ChdDSUhNMG9nS0VJQ0FnSUNwMGNyZ2lRRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        Wow!! The sushi was fantastic and the server was spot on. We went for a
+        friends birthday dinner and did the chef’s special as well as lots of
+        rolls. Every single item was delicious. They don’t serve alcohol right
+        now as they are waiting for their liquor license but the food was so
+        fantastic I can’t wait to come back.
+      languageCode: en
+    originalText:
+      text: >-
+        Wow!! The sushi was fantastic and the server was spot on. We went for a
+        friends birthday dinner and did the chef’s special as well as lots of
+        rolls. Every single item was delicious. They don’t serve alcohol right
+        now as they are waiting for their liquor license but the food was so
+        fantastic I can’t wait to come back.
+      languageCode: en
+    authorAttribution:
+      displayName: Jeanielle Taylor
+      uri: https://www.google.com/maps/contrib/116292522214295003235/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXsBeFxJal-vFX4EfQdc4caXCFpXDduynPXESgB4GB4-O7D0Y_1bw=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2023-08-05T15:02:15.624942Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNwMGNyZ2lRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNwMGNyZ2lRRRAB!2m1!1s0x872b082c16d67cdf:0x3878be01324611b6
+  - name: >-
+      places/ChIJ33zWFiwIK4cRthFGMgG-eDg/reviews/ChdDSUhNMG9nS0VJQ0FnTUNnbk1YQzNnRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        Definitely one of the best hidden gems for sushi.  Everything about this
+        place is wonderful.  I wanted to say it was horrible, and to not come
+        here, so I could keep it to myself and the regulars that eat here, but
+        that wouldn't be fair to the owners, and I'd love to see them succeed
+        and grow.  You really won't be disappointed if you come here.  It's a
+        great date night spot especially.
+      languageCode: en
+    originalText:
+      text: >-
+        Definitely one of the best hidden gems for sushi.  Everything about this
+        place is wonderful.  I wanted to say it was horrible, and to not come
+        here, so I could keep it to myself and the regulars that eat here, but
+        that wouldn't be fair to the owners, and I'd love to see them succeed
+        and grow.  You really won't be disappointed if you come here.  It's a
+        great date night spot especially.
+      languageCode: en
+    authorAttribution:
+      displayName: Cliff Kinney
+      uri: https://www.google.com/maps/contrib/114674691638550311211/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXbQ8tfXH_1lKVZ8QJurQ7m0LTxFYByjS5-pGBrX5WSR33g2Q8=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-02-15T02:17:43.694601Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNnbk1YQzNnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNnbk1YQzNnRRAB!2m1!1s0x872b082c16d67cdf:0x3878be01324611b6
+review_summary: >-
+  Customer Feedback on This Local Sushi Favorite$$$Visitors often praise the
+  fresh and tasty sushi rolls at this spot, highlighting how the flavors make it
+  a standout choice among sushi restaurants in the area. Many appreciate the
+  friendly service and reasonable prices, especially for lunch deals that keep
+  things affordable without skimping on quality. While most feedback focuses on
+  the delicious options like spicy tuna and salmon dishes, a few mentions note
+  that some rolls might not hold up as well, suggesting it's best to try a
+  variety for a well-rounded experience. Overall, it's seen as a hidden gem for
+  date nights or groups, with the welcoming vibe adding to the enjoyment of
+  every visit. If you're on the hunt for reliable sushi close to you, this place
+  generally delivers a satisfying meal that's worth checking out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: false
 allow_dogs: null
-curbside_pickup: null
+curbside_pickup: false
 delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: true
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Modernized & traditional cooking styles are merged on the sushi menu of this
+  contemporary space.
 
 ---

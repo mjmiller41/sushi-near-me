@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Blue Fish Sushi Bar (All You Can Eat Sushi)"
+title: Blue Fish Sushi Bar (All You Can Eat Sushi)
 permalink: /utah/south-jordan/blue-fish-sushi-bar-all-you-can-eat-sushi.html
 stateAbbr: UT
 stateName: Utah
 cityName: South Jordan
 seo:
-  name: "Blue Fish Sushi Bar (All You Can Eat Sushi)"
-  type: Restaurant
+  type: restaurant
   links: https://www.bluefishutah.com/
-description: "Blue Fish Sushi Bar (All You Can Eat Sushi) serves delicious sushi in South Jordan, Utah. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJUwnNgJaFUocR29LYLBIbM3g
 photos:
   - name: >-
@@ -170,7 +168,97 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8752859680cd0953:0x78331b122cd8d2db!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 19
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 14
+        minute: 0
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 20
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 2:00 PM, 5:00 – 8:30 PM'
     - 'Tuesday: 11:30 AM – 2:00 PM, 5:00 – 8:30 PM'
     - 'Wednesday: 11:30 AM – 2:00 PM, 5:00 – 8:30 PM'
@@ -178,14 +266,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 9:00 PM'
     - 'Saturday: 11:30 AM – 9:00 PM'
     - 'Sunday: 12:00 – 7:30 PM'
-  current:
-    - 'Monday: 11:30 AM – 2:00 PM, 5:00 – 8:30 PM'
-    - 'Tuesday: 11:30 AM – 2:00 PM, 5:00 – 8:30 PM'
-    - 'Wednesday: 11:30 AM – 2:00 PM, 5:00 – 8:30 PM'
-    - 'Thursday: 11:30 AM – 2:00 PM, 5:00 – 8:30 PM'
-    - 'Friday: 11:30 AM – 9:00 PM'
-    - 'Saturday: 11:30 AM – 9:00 PM'
-    - 'Sunday: 12:00 – 7:30 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +278,47 @@ phone: (801) 727-1912
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.4'
-rating_count: 0
+rating_count: 1008
 website: https://www.bluefishutah.com/
+description: >-
+  Discover Blue Fish Sushi Bar in South Jordan, UT$$$Blue Fish Sushi Bar in
+  South Jordan, UT, stands out as a welcoming spot for fresh Japanese-inspired
+  cuisine, featuring an all-you-can-eat option that draws in sushi enthusiasts.
+  This casual eatery highlights a variety of Asian specialties, including
+  creative rolls and flavorful bar bites, complemented by happy hour deals and a
+  menu tailored for families. Accessibility features like wheelchair-friendly
+  parking and seating make it easy for everyone to enjoy a relaxed meal. With
+  its inviting atmosphere and focus on quality ingredients, it's a go-to choice
+  for those seeking top-rated sushi experiences nearby. Whether you're in the
+  mood for a quick lunch or an evening out, the restaurant's thoughtful
+  offerings ensure a satisfying visit.
+generative_summary: >-
+  Discover Blue Fish Sushi Bar in South Jordan, UT$$$Blue Fish Sushi Bar in
+  South Jordan, UT, stands out as a welcoming spot for fresh Japanese-inspired
+  cuisine, featuring an all-you-can-eat option that draws in sushi enthusiasts.
+  This casual eatery highlights a variety of Asian specialties, including
+  creative rolls and flavorful bar bites, complemented by happy hour deals and a
+  menu tailored for families. Accessibility features like wheelchair-friendly
+  parking and seating make it easy for everyone to enjoy a relaxed meal. With
+  its inviting atmosphere and focus on quality ingredients, it's a go-to choice
+  for those seeking top-rated sushi experiences nearby. Whether you're in the
+  mood for a quick lunch or an evening out, the restaurant's thoughtful
+  offerings ensure a satisfying visit.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Feedback from diners at this popular sushi spot
+  often praises the fresh, high-quality rolls and generous portions that make it
+  a standout for Japanese cuisine fans. Many appreciate the casual vibe and
+  family-friendly options, noting that the all-you-can-eat format provides great
+  value without skimping on taste. While some mention occasional waits during
+  peak hours, the overall consensus highlights friendly service and a welcoming
+  environment that keeps people coming back. It's commonly described as a
+  reliable choice for groups or solo diners looking for tasty sushi close to
+  home, with the atmosphere adding to the enjoyable experience. All in all, the
+  positive buzz around the food and affordability helps solidify its reputation
+  as one of the best local options for a laid-back meal.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +344,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

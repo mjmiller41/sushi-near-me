@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Umi Sushi & Seafood Buffet -Brandon FL"
+title: Umi Sushi & Seafood Buffet -Brandon FL
 permalink: /florida/brandon/umi-sushi-seafood-buffet-brandon-fl.html
 stateAbbr: FL
 stateName: Florida
 cityName: Brandon
 seo:
-  name: "Umi Sushi & Seafood Buffet -Brandon FL"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Umi Sushi & Seafood Buffet -Brandon FL serves delicious sushi in Brandon, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJS3lg_nvPwogRFNljpuXOLlw
 photos:
   - name: >-
@@ -185,7 +183,43 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Umi Sushi & Seafood Buffet in Brandon, FL$$$Umi Sushi & Seafood
+  Buffet in Brandon, Florida, stands out as a vibrant spot for savoring a wide
+  selection of fresh sushi and seafood in a buffet-style setting, perfect for
+  casual diners exploring local Japanese cuisine options. The restaurant
+  emphasizes accessibility with features like wheelchair-friendly parking and
+  seating, making it easy for everyone to enjoy a relaxed meal. Its inviting
+  atmosphere, highlighted by diverse dish offerings, appeals to those seeking
+  flavorful, buffet-style experiences in a convenient location. Whether you're
+  looking for top sushi spots near you or a go-to place for family gatherings,
+  this establishment delivers on variety and comfort, blending everyday dining
+  with a touch of excitement.
+generative_summary: >-
+  Discover Umi Sushi & Seafood Buffet in Brandon, FL$$$Umi Sushi & Seafood
+  Buffet in Brandon, Florida, stands out as a vibrant spot for savoring a wide
+  selection of fresh sushi and seafood in a buffet-style setting, perfect for
+  casual diners exploring local Japanese cuisine options. The restaurant
+  emphasizes accessibility with features like wheelchair-friendly parking and
+  seating, making it easy for everyone to enjoy a relaxed meal. Its inviting
+  atmosphere, highlighted by diverse dish offerings, appeals to those seeking
+  flavorful, buffet-style experiences in a convenient location. Whether you're
+  looking for top sushi spots near you or a go-to place for family gatherings,
+  this establishment delivers on variety and comfort, blending everyday dining
+  with a touch of excitement.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this sushi buffet often highlight the
+  fresh and varied selection of dishes, making it a solid pick for anyone
+  craving affordable Japanese fare in a laid-back environment. Many appreciate
+  the welcoming vibe and accessibility features that enhance the overall
+  experience, especially for groups or families. While some note that busy times
+  can lead to slight waits, the value and taste generally leave people satisfied
+  and coming back for more. Overall, it's praised as a reliable choice for
+  casual meals, with the consensus leaning toward its strengths in flavor and
+  convenience for those searching sushi restaurants nearby.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +245,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

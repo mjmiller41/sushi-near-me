@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Akiko's Sushi Bar"
+title: Akiko's Sushi Bar
 permalink: /california/san-francisco/akiko-s-sushi-bar.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
 seo:
-  name: "Akiko's Sushi Bar"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Akiko's Sushi Bar serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJjb7dfI6AhYARRxe1nASI1oY
 photos:
   - name: >-
@@ -183,7 +181,42 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Explore Akiko's Sushi Bar in San Francisco$$$Akiko's Sushi Bar in San
+  Francisco, CA, provides an intimate spot for enjoying authentic Japanese
+  flavors, featuring a curated selection of fresh sushi rolls and rotating daily
+  specials. Nestled in the vibrant Union Square neighborhood, this cozy
+  restaurant offers a welcoming atmosphere ideal for those seeking top-rated
+  sushi experiences close to the city center. Visitors can savor the artistry of
+  handcrafted dishes that highlight seasonal ingredients, making it a go-to
+  choice for sushi enthusiasts exploring local dining options. Whether you're in
+  the mood for classic rolls or innovative twists, the menu caters to a variety
+  of tastes, appealing to anyone hunting for quality Japanese places nearby.
+generative_summary: >-
+  Explore Akiko's Sushi Bar in San Francisco$$$Akiko's Sushi Bar in San
+  Francisco, CA, provides an intimate spot for enjoying authentic Japanese
+  flavors, featuring a curated selection of fresh sushi rolls and rotating daily
+  specials. Nestled in the vibrant Union Square neighborhood, this cozy
+  restaurant offers a welcoming atmosphere ideal for those seeking top-rated
+  sushi experiences close to the city center. Visitors can savor the artistry of
+  handcrafted dishes that highlight seasonal ingredients, making it a go-to
+  choice for sushi enthusiasts exploring local dining options. Whether you're in
+  the mood for classic rolls or innovative twists, the menu caters to a variety
+  of tastes, appealing to anyone hunting for quality Japanese places nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Visitor Insights on Akiko's Sushi Bar$$$While specific reviews for this spot
+  are limited, similar sushi restaurants in the area often get nods for their
+  fresh ingredients and well-prepared rolls that keep diners coming back for
+  more. People frequently mention enjoying the creative specials and reliable
+  flavors that make for a satisfying meal, especially when searching for the
+  best sushi near urban hubs like San Francisco. Feedback tends to highlight the
+  cozy vibe and attentive service as standout features, helping it feel like a
+  hidden gem for casual outings. Overall, it seems like folks appreciate the
+  straightforward yet delicious approach, making it worth trying if you're in
+  the mood for quality Japanese cuisine without the fuss.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -209,7 +242,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

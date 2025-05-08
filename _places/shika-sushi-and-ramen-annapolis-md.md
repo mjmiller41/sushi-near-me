@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Shika Sushi And Ramen"
+title: Shika Sushi And Ramen
 permalink: /maryland/annapolis/shika-sushi-and-ramen.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Annapolis
 seo:
-  name: "Shika Sushi And Ramen"
-  type: Restaurant
+  type: restaurant
   links: http://www.shikasushimd.com/
-description: "Shika Sushi And Ramen serves delicious sushi in Annapolis, Maryland. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJeWyTX5P2t4kRhCjp-kYRKmA
 photos:
   - name: >-
@@ -170,7 +168,97 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89b7f6935f936c79:0x602a1146fae92884!10e5
 primary_type: Ramen Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 15
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 15
+        minute: 0
+    - open:
+        day: 6
+        hour: 16
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 3:00 PM, 4:30 – 9:00 PM'
     - 'Tuesday: Closed'
     - 'Wednesday: 11:00 AM – 3:00 PM, 4:30 – 9:00 PM'
@@ -178,14 +266,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 3:00 PM, 4:30 – 9:30 PM'
     - 'Saturday: 11:00 AM – 3:00 PM, 4:30 – 9:30 PM'
     - 'Sunday: 12:00 – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 3:00 PM, 4:30 – 9:00 PM'
-    - 'Tuesday: Closed'
-    - 'Wednesday: 11:00 AM – 3:00 PM, 4:30 – 9:00 PM'
-    - 'Thursday: 11:00 AM – 3:00 PM, 4:30 – 9:00 PM'
-    - 'Friday: 11:00 AM – 3:00 PM, 4:30 – 9:30 PM'
-    - 'Saturday: 11:00 AM – 3:00 PM, 4:30 – 9:30 PM'
-    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T01:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +278,50 @@ phone: (410) 990-0888
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.5'
-rating_count: 0
+rating_count: 280
 website: http://www.shikasushimd.com/
+description: >-
+  Discover Shika Sushi And Ramen in Annapolis, MD$$$Shika Sushi And Ramen in
+  Annapolis, MD, stands out as a welcoming Japanese eatery specializing in fresh
+  sushi and hearty ramen options that capture the essence of authentic comfort
+  dining. This spot offers a relaxed atmosphere where visitors can enjoy a
+  variety of flavorful dishes, from creative rolls to steaming noodle bowls,
+  making it a go-to choice for those seeking sushi restaurants in the area. With
+  its emphasis on quality ingredients and thoughtful presentations, it's easy to
+  see why this location appeals to anyone exploring top-rated Japanese places
+  near me. The menu balances traditional flavors with everyday appeal, ensuring
+  a satisfying experience for casual diners. Open hours accommodate both lunch
+  crowds and evening outings, adding to its convenience for locals and visitors
+  alike.
+generative_summary: >-
+  Discover Shika Sushi And Ramen in Annapolis, MD$$$Shika Sushi And Ramen in
+  Annapolis, MD, stands out as a welcoming Japanese eatery specializing in fresh
+  sushi and hearty ramen options that capture the essence of authentic comfort
+  dining. This spot offers a relaxed atmosphere where visitors can enjoy a
+  variety of flavorful dishes, from creative rolls to steaming noodle bowls,
+  making it a go-to choice for those seeking sushi restaurants in the area. With
+  its emphasis on quality ingredients and thoughtful presentations, it's easy to
+  see why this location appeals to anyone exploring top-rated Japanese places
+  near me. The menu balances traditional flavors with everyday appeal, ensuring
+  a satisfying experience for casual diners. Open hours accommodate both lunch
+  crowds and evening outings, adding to its convenience for locals and visitors
+  alike.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About This Sushi Spot$$$Folks rave about the tasty
+  sushi and ramen at this Annapolis eatery, with highlights on fresh rolls like
+  the Alaskan and Yellowtail varieties that deliver a perfect blend of flavors.
+  Many appreciate the solid ramen options, such as the pork version, which
+  stands out for its rich broth and generous portions, making it a favorite
+  among those hunting for great sushi near me. Service is often described as
+  quick and friendly, helping to create a welcoming vibe without any fuss, while
+  the prices remain reasonable for the quality on offer. The overall atmosphere
+  gets nods for its authentic Japanese feel, complete with fun decor that adds a
+  lighthearted touch to the meal. All in all, it's a spot that consistently
+  pleases diners looking for reliable, enjoyable Japanese cuisine in a casual
+  setting.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +347,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

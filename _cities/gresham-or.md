@@ -5,4 +5,5 @@ permalink: /oregon/gresham/
 stateAbbr: OR
 stateName: Oregon
 cityName: Gresham
+
 ---

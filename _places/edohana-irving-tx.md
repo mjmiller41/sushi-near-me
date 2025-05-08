@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Edohana"
+title: Edohana
 permalink: /texas/irving/edohana.html
 stateAbbr: TX
 stateName: Texas
 cityName: Irving
 seo:
-  name: "Edohana"
-  type: Restaurant
-  links: null
-description: "Edohana serves delicious sushi in Irving, Texas. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.edohanalascolinas.com/
 place_id: ChIJL4xCiDUoTIYRF-HBWE5g-08
 photos:
   - name: >-
@@ -170,8 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x864c283588428c2f:0x4ffb604e58c1e117!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:30 PM'
+    - 'Tuesday: 11:00 AM – 9:30 PM'
+    - 'Wednesday: 11:00 AM – 9:30 PM'
+    - 'Thursday: 11:00 AM – 9:30 PM'
+    - 'Friday: 11:00 AM – 9:30 PM'
+    - 'Saturday: 11:00 AM – 9:30 PM'
+    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +234,49 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (972) 444-9977
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.3'
+rating_count: 570
+website: https://www.edohanalascolinas.com/
+description: >-
+  Discover Edohana in Irving, TX$$$Edohana in Irving, TX, stands out as a
+  welcoming sushi restaurant offering a cozy atmosphere and a menu focused on
+  fresh Japanese-inspired small plates for both dine-in and takeout experiences.
+  This spot emphasizes accessibility with features like wheelchair-friendly
+  parking and entrances, making it easy for everyone to enjoy its inviting
+  setting in the Las Colinas neighborhood. Patrons can savor a variety of sushi
+  options alongside other Japanese fare, perfect for those seeking reliable
+  local dining choices. With convenient hours from 11 AM to 9:30 PM most days,
+  it's an ideal stop for anyone exploring sushi restaurants nearby, blending
+  quality ingredients and a relaxed vibe to enhance your meal.
+generative_summary: >-
+  Discover Edohana in Irving, TX$$$Edohana in Irving, TX, stands out as a
+  welcoming sushi restaurant offering a cozy atmosphere and a menu focused on
+  fresh Japanese-inspired small plates for both dine-in and takeout experiences.
+  This spot emphasizes accessibility with features like wheelchair-friendly
+  parking and entrances, making it easy for everyone to enjoy its inviting
+  setting in the Las Colinas neighborhood. Patrons can savor a variety of sushi
+  options alongside other Japanese fare, perfect for those seeking reliable
+  local dining choices. With convenient hours from 11 AM to 9:30 PM most days,
+  it's an ideal stop for anyone exploring sushi restaurants nearby, blending
+  quality ingredients and a relaxed vibe to enhance your meal.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What People Are Saying About the Sushi$$$Folks around Irving rave about the
+  fresh flavors and well-prepared dishes at this sushi spot, often noting how
+  the variety keeps things exciting for repeat visits. Many appreciate the
+  consistent quality and attentive service that make dining here feel effortless
+  and enjoyable, earning it solid praise from the community. While some mention
+  portions could vary, the overall experience is frequently described as a great
+  value for authentic Japanese-inspired meals. If you're hunting for top-rated
+  sushi places nearby, this location delivers a reliably positive vibe that
+  leaves visitors satisfied and eager to return. Overall, the feedback paints a
+  picture of a go-to option for casual sushi lovers looking for honest,
+  flavorful eats in a welcoming environment.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +302,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

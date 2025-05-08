@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Katana Sushi"
+title: Katana Sushi
 permalink: /virginia/midlothian/katana-sushi.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Midlothian
 seo:
-  name: "Katana Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.facebook.com/MidlothianKatanaSushi?ref=hl
-description: "Katana Sushi serves delicious sushi in Midlothian, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJZUoZKgFusYkRmqxeJ-J-Cp0
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $20 &ndash; $30
 rating: '4.8'
 rating_count: 0
 website: https://www.facebook.com/MidlothianKatanaSushi?ref=hl
+description: >-
+  Discover Katana Sushi in Midlothian, VA$$$Katana Sushi in Midlothian, VA, is a
+  standout spot among sushi restaurants, delivering a fresh take on Japanese
+  cuisine with an array of creative rolls and classic staples that cater to
+  various tastes. This welcoming eatery features a selection of vegetarian
+  options alongside high-quality fish dishes, making it a go-to choice for
+  anyone searching for sushi near me or exploring Japanese places in the area.
+  The restaurant's thoughtful accessibility, including wheelchair-friendly
+  entrances and seating, ensures a comfortable visit for all guests. With its
+  moderate pricing and inviting ambiance, it's easy to see why this spot ranks
+  among the best sushi options nearby. Whether you're craving innovative flavors
+  or reliable favorites, Katana Sushi combines affordability with authentic
+  appeal for a memorable dining experience.
+generative_summary: >-
+  Discover Katana Sushi in Midlothian, VA$$$Katana Sushi in Midlothian, VA, is a
+  standout spot among sushi restaurants, delivering a fresh take on Japanese
+  cuisine with an array of creative rolls and classic staples that cater to
+  various tastes. This welcoming eatery features a selection of vegetarian
+  options alongside high-quality fish dishes, making it a go-to choice for
+  anyone searching for sushi near me or exploring Japanese places in the area.
+  The restaurant's thoughtful accessibility, including wheelchair-friendly
+  entrances and seating, ensures a comfortable visit for all guests. With its
+  moderate pricing and inviting ambiance, it's easy to see why this spot ranks
+  among the best sushi options nearby. Whether you're craving innovative flavors
+  or reliable favorites, Katana Sushi combines affordability with authentic
+  appeal for a memorable dining experience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJZUoZKgFusYkRmqxeJ-J-Cp0/reviews/ChZDSUhNMG9nS0VJQ0FnSURQcHB5ZmVREAE
@@ -354,6 +379,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNnemJfLUJ3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNnemJfLUJ3EAE!2m1!1s0x89b16e012a194a65:0x9d0a7ee2275eac9a
+review_summary: >-
+  What Visitors Are Saying About the Experience$$$Visitors often highlight the
+  incredibly fresh fish and generous portions that make meals here feel like a
+  real treat, especially for those seeking top-rated sushi in a casual setting.
+  Many appreciate the unique twists, like the flavorful purple rice and
+  delicious miso soup, which add a fun element to both raw and cooked rolls
+  without overwhelming the palate. Folks also praise the attentive service and
+  reasonable prices, noting that it's a great spot for groups or families
+  looking for quality without breaking the bank. While most feedback focuses on
+  the standout specialty rolls and overall vibe, a few mention minor tweaks for
+  easier eating, but these don't detract from the positive buzz. Overall, it's
+  clear that Katana Sushi delivers a reliably enjoyable experience that keeps
+  people coming back for more satisfying Japanese-inspired eats.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -387,7 +426,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

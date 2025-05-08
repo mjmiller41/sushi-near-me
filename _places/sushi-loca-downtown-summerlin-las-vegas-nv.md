@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Loca Downtown Summerlin"
+title: Sushi Loca Downtown Summerlin
 permalink: /nevada/las-vegas/sushi-loca-downtown-summerlin.html
 stateAbbr: NV
 stateName: Nevada
 cityName: Las Vegas
 seo:
-  name: "Sushi Loca Downtown Summerlin"
-  type: Restaurant
+  type: restaurant
   links: https://www.sushiloca.online/
-description: "Sushi Loca Downtown Summerlin serves delicious sushi in Las Vegas, Nevada. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJIxIGqf--yIARnU6gdtUBshg
 photos:
   - name: >-
@@ -143,7 +141,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDx-cfqxwE!2e10!4m2!3m1!1s0x80c8beffa9061223:0x18b201d576a04e9d
 address: Downtown Summerlin, 10965 Lavender Hill Dr, Las Vegas, NV 89135, USA
-street: Downtown Summerlin, 10965 Lavender Hill Dr
+street: Downtown Summerlin,10965 Lavender Hill Dr
 city: Las Vegas
 state: NV
 zip: '89135'
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c8beffa9061223:0x18b201d576a04e9d!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:00 PM'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -178,54 +234,348 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:00 PM'
     - 'Saturday: 11:00 AM – 10:00 PM'
     - 'Sunday: 11:00 AM – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 10:00 PM'
-    - 'Saturday: 11:00 AM – 10:00 PM'
-    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T05:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 15
+          minute: 0
+        close:
+          day: 0
+          hour: 17
+          minute: 0
+      - open:
+          day: 1
+          hour: 15
+          minute: 0
+        close:
+          day: 1
+          hour: 17
+          minute: 0
+      - open:
+          day: 2
+          hour: 15
+          minute: 0
+        close:
+          day: 2
+          hour: 17
+          minute: 0
+      - open:
+          day: 3
+          hour: 15
+          minute: 0
+        close:
+          day: 3
+          hour: 17
+          minute: 0
+      - open:
+          day: 4
+          hour: 15
+          minute: 0
+        close:
+          day: 4
+          hour: 17
+          minute: 0
+      - open:
+          day: 5
+          hour: 15
+          minute: 0
+        close:
+          day: 5
+          hour: 17
+          minute: 0
+      - open:
+          day: 6
+          hour: 15
+          minute: 0
+        close:
+          day: 6
+          hour: 17
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 3:00 – 5:00 PM'
+      - 'Tuesday: 3:00 – 5:00 PM'
+      - 'Wednesday: 3:00 – 5:00 PM'
+      - 'Thursday: 3:00 – 5:00 PM'
+      - 'Friday: 3:00 – 5:00 PM'
+      - 'Saturday: 3:00 – 5:00 PM'
+      - 'Sunday: 3:00 – 5:00 PM'
+    secondaryHoursType: HAPPY_HOUR
+    nextCloseTime: '2025-05-04T00:00:00Z'
 phone: (702) 432-5622
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '3.9'
-rating_count: 0
+rating_count: 385
 website: https://www.sushiloca.online/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Explore Sushi Loca in Las Vegas, NV$$$Sushi Loca Downtown Summerlin in Las
+  Vegas, NV, stands out as a trendy spot for enjoying authentic Japanese
+  cuisine, featuring fresh sushi and sashimi alongside a selection of hot
+  appetizers in a stylish setting. The venue boasts a welcoming atmosphere with
+  thoughtful decor that enhances the dining experience, making it ideal for
+  casual meals or special occasions. Accessibility features like
+  wheelchair-friendly parking and entrances ensure everyone can enjoy the space
+  comfortably, while extended hours cater to both lunch and dinner crowds. With
+  options for happy hour specials and a variety of dishes, this sushi restaurant
+  near you offers a delightful blend of quality ingredients and vibrant ambiance
+  that appeals to those seeking top-rated Japanese flavors.
+generative_summary: >-
+  Explore Sushi Loca in Las Vegas, NV$$$Sushi Loca Downtown Summerlin in Las
+  Vegas, NV, stands out as a trendy spot for enjoying authentic Japanese
+  cuisine, featuring fresh sushi and sashimi alongside a selection of hot
+  appetizers in a stylish setting. The venue boasts a welcoming atmosphere with
+  thoughtful decor that enhances the dining experience, making it ideal for
+  casual meals or special occasions. Accessibility features like
+  wheelchair-friendly parking and entrances ensure everyone can enjoy the space
+  comfortably, while extended hours cater to both lunch and dinner crowds. With
+  options for happy hour specials and a variety of dishes, this sushi restaurant
+  near you offers a delightful blend of quality ingredients and vibrant ambiance
+  that appeals to those seeking top-rated Japanese flavors.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJIxIGqf--yIARnU6gdtUBshg/reviews/ChZDSUhNMG9nS0VJQ0FnTURBMWNtZWJnEAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        Came here for my friend’s birthday, and it was such a fun time! The
+        place has a cute and cozy vibe, and our waitress was the sweetest—she
+        even brought us free desserts to celebrate! The sashimi was insanely
+        fresh and easily the best part of the meal. Such a great spot for a
+        chill night out with good food and awesome service. Definitely coming
+        back!
+      languageCode: en
+    originalText:
+      text: >-
+        Came here for my friend’s birthday, and it was such a fun time! The
+        place has a cute and cozy vibe, and our waitress was the sweetest—she
+        even brought us free desserts to celebrate! The sashimi was insanely
+        fresh and easily the best part of the meal. Such a great spot for a
+        chill night out with good food and awesome service. Definitely coming
+        back!
+      languageCode: en
+    authorAttribution:
+      displayName: Linh Linny
+      uri: https://www.google.com/maps/contrib/109896207785315461793/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjU6heX-EXqGm14tAUKry5CYauuRm--lrfDnH8YXq69NSeizno2-=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-02-10T19:38:14.953910Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURBMWNtZWJnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURBMWNtZWJnEAE!2m1!1s0x80c8beffa9061223:0x18b201d576a04e9d
+  - name: >-
+      places/ChIJIxIGqf--yIARnU6gdtUBshg/reviews/ChZDSUhNMG9nS0VJQ0FnTURBajdYbkJ3EAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        Excellent place for lunch.  The menu selections are vast sushi, sashimi,
+        tempura, hibachi, soba, udon the list goes on...  We split a shrimp
+        tempura that was very lightly battered and the fresh shrimp were plump
+        and juicy.  Take advantage of the lunch special, you receive miso soup,
+        your choice of one sushi roll and a selection of delicious fresh sushi
+        and a dessert.
+      languageCode: en
+    originalText:
+      text: >-
+        Excellent place for lunch.  The menu selections are vast sushi, sashimi,
+        tempura, hibachi, soba, udon the list goes on...  We split a shrimp
+        tempura that was very lightly battered and the fresh shrimp were plump
+        and juicy.  Take advantage of the lunch special, you receive miso soup,
+        your choice of one sushi roll and a selection of delicious fresh sushi
+        and a dessert.
+      languageCode: en
+    authorAttribution:
+      displayName: Dan Gaffey
+      uri: https://www.google.com/maps/contrib/104090130683315113336/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVQ2Ar3zNHblaIBnljN2L_A6t2PiCZNP6ZaVeB49kEKoEmkqa7Txg=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-02-12T17:18:08.956785Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURBajdYbkJ3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURBajdYbkJ3EAE!2m1!1s0x80c8beffa9061223:0x18b201d576a04e9d
+  - name: >-
+      places/ChIJIxIGqf--yIARnU6gdtUBshg/reviews/ChZDSUhNMG9nS0VJQ0FnTURBaWU3VEl3EAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        Spacious and cute with floral decor, this sushi spot in Downtown
+        Summerlin has a great vibe. I did not expect this place to be this good.
+        The staff is friendly and attentive, and while the rolls are good, the
+        premium sashimi combo is a must-try. If you're in Summerlin and want
+        sushi with a glass of wine, i would say this is the place.
+
+        Price is a bit on the higher side compares to the other places, because
+        it's not an AYCE spot, but I could understand because of its location
+        and the food quality was great. You can always sit at the bar and ask
+        chef for recommendations. I also love that the owner was there and
+        giving us complimentary salad and soup.
+      languageCode: en
+    originalText:
+      text: >-
+        Spacious and cute with floral decor, this sushi spot in Downtown
+        Summerlin has a great vibe. I did not expect this place to be this good.
+        The staff is friendly and attentive, and while the rolls are good, the
+        premium sashimi combo is a must-try. If you're in Summerlin and want
+        sushi with a glass of wine, i would say this is the place.
+
+        Price is a bit on the higher side compares to the other places, because
+        it's not an AYCE spot, but I could understand because of its location
+        and the food quality was great. You can always sit at the bar and ask
+        chef for recommendations. I also love that the owner was there and
+        giving us complimentary salad and soup.
+      languageCode: en
+    authorAttribution:
+      displayName: L M
+      uri: https://www.google.com/maps/contrib/113586416800723003502/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKwMrC0qOcwMwcdhIqTiQbMxrXHLRlGXJxHPk43MdoyT27FEg=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-02-10T01:23:26.752243Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURBaWU3VEl3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURBaWU3VEl3EAE!2m1!1s0x80c8beffa9061223:0x18b201d576a04e9d
+  - name: >-
+      places/ChIJIxIGqf--yIARnU6gdtUBshg/reviews/ChZDSUhNMG9nS0VJQ0FnTURvem9ySVVnEAE
+    relativePublishTimeDescription: a week ago
+    rating: 3
+    text:
+      text: >-
+        Tried this place for the first time and the food was honestly great.
+        It’s definitely on the pricier side, but the quality’s there. The decor
+        inside is beautiful too, really well done and gives the place a nice
+        vibe.
+
+
+        What really threw me off was how rushed everything felt, especially
+        considering the restaurant wasn’t even busy. I had just sat down when I
+        was asked for my drink order before I could even open the menu. Not long
+        after, I was being asked about appetizers with barely any time to
+        decide. It felt like they were in a hurry to move me through the meal
+        for no clear reason.
+
+
+        The staff were polite, but the pushy pacing made the whole thing feel
+        rushed and uncomfortable. I really would’ve appreciated just a little
+        more time to settle in.
+      languageCode: en
+    originalText:
+      text: >-
+        Tried this place for the first time and the food was honestly great.
+        It’s definitely on the pricier side, but the quality’s there. The decor
+        inside is beautiful too, really well done and gives the place a nice
+        vibe.
+
+
+        What really threw me off was how rushed everything felt, especially
+        considering the restaurant wasn’t even busy. I had just sat down when I
+        was asked for my drink order before I could even open the menu. Not long
+        after, I was being asked about appetizers with barely any time to
+        decide. It felt like they were in a hurry to move me through the meal
+        for no clear reason.
+
+
+        The staff were polite, but the pushy pacing made the whole thing feel
+        rushed and uncomfortable. I really would’ve appreciated just a little
+        more time to settle in.
+      languageCode: en
+    authorAttribution:
+      displayName: adrianna rojas
+      uri: https://www.google.com/maps/contrib/117546720204942247072/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJI8YNtV_v8Qs4hrJQbpqi8WHja5Jmm0wmAh2ipleB_TVG9Hg=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-24T22:45:59.259923Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURvem9ySVVnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURvem9ySVVnEAE!2m1!1s0x80c8beffa9061223:0x18b201d576a04e9d
+  - name: >-
+      places/ChIJIxIGqf--yIARnU6gdtUBshg/reviews/ChZDSUhNMG9nS0VJQ0FnTURRZzREUEJBEAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Wow! The creativity of the names and the flavor interested me and my
+        wife when we first moved to Vegas. We laughed quite a bit  by the names
+        of the sushi actually.  But what a great taste. The greeters/front of
+        restaurant set the tone with me. They even gave me a complimentary side
+        just because or perhaps I order big when I go there lol.  Very much so
+        wished they were located where I lived in Texas last year . Very good
+      languageCode: en
+    originalText:
+      text: >-
+        Wow! The creativity of the names and the flavor interested me and my
+        wife when we first moved to Vegas. We laughed quite a bit  by the names
+        of the sushi actually.  But what a great taste. The greeters/front of
+        restaurant set the tone with me. They even gave me a complimentary side
+        just because or perhaps I order big when I go there lol.  Very much so
+        wished they were located where I lived in Texas last year . Very good
+      languageCode: en
+    authorAttribution:
+      displayName: Kenneth Williams
+      uri: https://www.google.com/maps/contrib/110096677113483621211/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJKK_5e-MdLbwCZxbxBjR0zjJMB72_4mAHXSeATpTi_pcGfeQ=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-03-13T13:53:43.821899Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURRZzREUEJBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURRZzREUEJBEAE!2m1!1s0x80c8beffa9061223:0x18b201d576a04e9d
+review_summary: >-
+  Visitor Feedback on Sushi Loca$$$Folks rave about the fresh sushi and sashimi
+  at this Las Vegas spot, often highlighting how the flavors and presentations
+  make for a satisfying meal whether you're grabbing lunch or dinner. Many
+  appreciate the friendly service and thoughtful extras like complimentary sides
+  that add a nice touch to the overall vibe. While some mention the pace of
+  service can feel a bit quick, it's generally seen as efficient rather than
+  overwhelming, especially in a lively setting. Overall, it's a go-to choice for
+  anyone hunting for great sushi places near me, with affordable lunch deals and
+  a cozy environment that keeps people coming back for more enjoyable
+  experiences. If you're in the mood for reliable Japanese eats, this location
+  delivers on taste and atmosphere without disappointing.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  freeGarageParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+curbside_pickup: false
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: true
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
 serves_breakfast: null
 serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_cocktails: true
+serves_coffee: true
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Specialty rolls, traditional sushi & sashimi, plus other Japanese eats, served
+  in a trendy interior.
 
 ---

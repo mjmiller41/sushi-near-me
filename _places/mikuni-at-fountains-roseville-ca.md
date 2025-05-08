@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Mikuni at Fountains"
+title: Mikuni at Fountains
 permalink: /california/roseville/mikuni-at-fountains.html
 stateAbbr: CA
 stateName: California
 cityName: Roseville
 seo:
-  name: "Mikuni at Fountains"
-  type: Restaurant
+  type: restaurant
   links: https://mikunisushi.com/locations/the-fountains-in-roseville/
-description: "Mikuni at Fountains serves delicious sushi in Roseville, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJtS4AVtQhm4ARfuZQakBDTTM
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x809b21d456002eb5:0x334d43406a50e67e!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 9:00 PM'
     - 'Tuesday: 11:30 AM – 9:00 PM'
     - 'Wednesday: 11:30 AM – 9:00 PM'
@@ -178,54 +234,274 @@ opening_hours:
     - 'Friday: 11:30 AM – 10:00 PM'
     - 'Saturday: 11:30 AM – 10:00 PM'
     - 'Sunday: 11:30 AM – 9:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 9:00 PM'
-    - 'Tuesday: 11:30 AM – 9:00 PM'
-    - 'Wednesday: 11:30 AM – 9:00 PM'
-    - 'Thursday: 11:30 AM – 9:00 PM'
-    - 'Friday: 11:30 AM – 10:00 PM'
-    - 'Saturday: 11:30 AM – 10:00 PM'
-    - 'Sunday: 11:30 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T05:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: false
+    periods:
+      - open:
+          day: 2
+          hour: 14
+          minute: 0
+        close:
+          day: 2
+          hour: 17
+          minute: 0
+      - open:
+          day: 3
+          hour: 14
+          minute: 0
+        close:
+          day: 3
+          hour: 17
+          minute: 0
+      - open:
+          day: 4
+          hour: 14
+          minute: 0
+        close:
+          day: 4
+          hour: 17
+          minute: 0
+      - open:
+          day: 5
+          hour: 14
+          minute: 0
+        close:
+          day: 5
+          hour: 17
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: Closed'
+      - 'Tuesday: 2:00 – 5:00 PM'
+      - 'Wednesday: 2:00 – 5:00 PM'
+      - 'Thursday: 2:00 – 5:00 PM'
+      - 'Friday: 2:00 – 5:00 PM'
+      - 'Saturday: Closed'
+      - 'Sunday: Closed'
+    secondaryHoursType: HAPPY_HOUR
+    nextOpenTime: '2025-05-06T21:00:00Z'
 phone: (916) 780-2119
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.5'
-rating_count: 0
+rating_count: 1372
 website: https://mikunisushi.com/locations/the-fountains-in-roseville/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Mikuni at Fountains in Roseville, California$$$Mikuni at Fountains in
+  Roseville, California, stands out as a stylish spot for enjoying fresh
+  Japanese cuisine, featuring a vibrant sushi bar and a range of expertly
+  prepared dishes. This welcoming restaurant offers a mix of creative rolls,
+  small plates, and hot entrees, complemented by craft beverages and special
+  deals that enhance the dining experience. With accessibility features like
+  wheelchair-friendly entrances and seating, it's designed for all visitors to
+  enjoy a comfortable meal. The atmosphere combines modern elegance with options
+  for outdoor dining, making it a go-to choice for those seeking quality
+  Japanese flavors in a lively setting near shopping areas.
+generative_summary: >-
+  Discover Mikuni at Fountains in Roseville, California$$$Mikuni at Fountains in
+  Roseville, California, stands out as a stylish spot for enjoying fresh
+  Japanese cuisine, featuring a vibrant sushi bar and a range of expertly
+  prepared dishes. This welcoming restaurant offers a mix of creative rolls,
+  small plates, and hot entrees, complemented by craft beverages and special
+  deals that enhance the dining experience. With accessibility features like
+  wheelchair-friendly entrances and seating, it's designed for all visitors to
+  enjoy a comfortable meal. The atmosphere combines modern elegance with options
+  for outdoor dining, making it a go-to choice for those seeking quality
+  Japanese flavors in a lively setting near shopping areas.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJtS4AVtQhm4ARfuZQakBDTTM/reviews/ChZDSUhNMG9nS0VJQ0FnSUR2cUtmTE5nEAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        I had a great experience dining at Mikunis. It’s trendy and a nice place
+        to grab lunch after some good ol’ retail therapy. Let me just say..the
+        Pepperfin…like what? Are you seriously that good? Really cute place with
+        really great food. Do recommend.
+      languageCode: en
+    originalText:
+      text: >-
+        I had a great experience dining at Mikunis. It’s trendy and a nice place
+        to grab lunch after some good ol’ retail therapy. Let me just say..the
+        Pepperfin…like what? Are you seriously that good? Really cute place with
+        really great food. Do recommend.
+      languageCode: en
+    authorAttribution:
+      displayName: Kimberly Cruz
+      uri: https://www.google.com/maps/contrib/114577305320329592672/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocL6tRXi2xn_IyC7ydwt5y69BvETBe4iC7PO0BGZtT1TR8lSoA=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2024-12-17T06:42:36.170105Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR2cUtmTE5nEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR2cUtmTE5nEAE!2m1!1s0x809b21d456002eb5:0x334d43406a50e67e
+  - name: >-
+      places/ChIJtS4AVtQhm4ARfuZQakBDTTM/reviews/ChdDSUhNMG9nS0VJQ0FnSUNIME5DWHdBRRAB
+    relativePublishTimeDescription: 8 months ago
+    rating: 5
+    text:
+      text: >-
+        Great food options, good selection of sashimi sushi and rolls. The sake
+        and beer selection was good too. The platters were a great choice.
+        Highly recommend Platter A. The roll options were great too. Pretty
+        extensive. Oh, and their wasabi has great flavor; very
+        horseradish-forward.
+      languageCode: en
+    originalText:
+      text: >-
+        Great food options, good selection of sashimi sushi and rolls. The sake
+        and beer selection was good too. The platters were a great choice.
+        Highly recommend Platter A. The roll options were great too. Pretty
+        extensive. Oh, and their wasabi has great flavor; very
+        horseradish-forward.
+      languageCode: en
+    authorAttribution:
+      displayName: Richard P
+      uri: https://www.google.com/maps/contrib/104957740822325950720/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJ-RSk6KOPJvpXUSaoVJkSKleuBJ42PSQBsVaBYW_MyoiXZ9w=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2024-08-31T03:32:25.908482Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNIME5DWHdBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNIME5DWHdBRRAB!2m1!1s0x809b21d456002eb5:0x334d43406a50e67e
+  - name: >-
+      places/ChIJtS4AVtQhm4ARfuZQakBDTTM/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJcGNlNkRBEAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        This was an awesome experience! Great food, helpful and friendly staff.
+        Everything was delicious. Definitely would recomend.
+      languageCode: en
+    originalText:
+      text: >-
+        This was an awesome experience! Great food, helpful and friendly staff.
+        Everything was delicious. Definitely would recomend.
+      languageCode: en
+    authorAttribution:
+      displayName: Michael Moore
+      uri: https://www.google.com/maps/contrib/104411773736942739562/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWpOS4wM1OridqbO3dwtX7aotzbyyJmHq_ebqbY3chvvPvrWrB-=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-03T14:13:28.096898Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNJcGNlNkRBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNJcGNlNkRBEAE!2m1!1s0x809b21d456002eb5:0x334d43406a50e67e
+  - name: >-
+      places/ChIJtS4AVtQhm4ARfuZQakBDTTM/reviews/ChZDSUhNMG9nS0VJQ0FnSURWcE1tQlpBEAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        This is our second time dining here and we will be back for a third time
+        and more. So fresh and delicious. Service is on point as well. It gets
+        busy so come early or you may have a wait. Their hand rolls are
+        delightful! Try two or three when you go. Decor is upper scale and the
+        place is nice and clean.
+      languageCode: en
+    originalText:
+      text: >-
+        This is our second time dining here and we will be back for a third time
+        and more. So fresh and delicious. Service is on point as well. It gets
+        busy so come early or you may have a wait. Their hand rolls are
+        delightful! Try two or three when you go. Decor is upper scale and the
+        place is nice and clean.
+      languageCode: en
+    authorAttribution:
+      displayName: Lorri Dana
+      uri: https://www.google.com/maps/contrib/114501608872264532289/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUCDWckX9IRRmhFfmidF3Rii0bWoJCVcmTnfZbKqlktdmchBcmb=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2023-12-11T03:20:27.499078Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURWcE1tQlpBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURWcE1tQlpBEAE!2m1!1s0x809b21d456002eb5:0x334d43406a50e67e
+  - name: >-
+      places/ChIJtS4AVtQhm4ARfuZQakBDTTM/reviews/ChdDSUhNMG9nS0VJQ0FnTURJaVppMDdBRRAB
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 5
+    text:
+      text: >-
+        Mikunis like all their locations presents an impeccable product.
+        Whenever I'm close to one of their places, that's where I will have a
+        meal. The food is beyond scrumptious. Their
+
+        service is impeccable. If you want a true Japanese restaurant experience
+        this is the place. BTW I'm a third Gen Japanese American. :-)
+      languageCode: en
+    originalText:
+      text: >-
+        Mikunis like all their locations presents an impeccable product.
+        Whenever I'm close to one of their places, that's where I will have a
+        meal. The food is beyond scrumptious. Their
+
+        service is impeccable. If you want a true Japanese restaurant experience
+        this is the place. BTW I'm a third Gen Japanese American. :-)
+      languageCode: en
+    authorAttribution:
+      displayName: Russell Hitomi
+      uri: https://www.google.com/maps/contrib/103812277392591878444/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKec3oms30EQwu2kIsqkJV6DSxYtfA3tMAMRPUAbCSF7hnyZw=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-04-10T23:41:54.053835Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJaVppMDdBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJaVppMDdBRRAB!2m1!1s0x809b21d456002eb5:0x334d43406a50e67e
+review_summary: >-
+  What Customers Are Buzzing About This Sushi Favorite$$$Folks rave about the
+  fantastic variety of sushi rolls and sashimi at this spot, with many
+  highlighting tasty platters that make for a satisfying meal without breaking
+  the bank. Reviewers often mention the friendly service and welcoming vibe that
+  keep things relaxed and enjoyable, perfect for casual get-togethers or a quick
+  bite. While some note it can get busy during peak times, the overall consensus
+  is that the fresh ingredients and flavorful options deliver a solid experience
+  worth returning for. It's clear that the attentive staff and cozy atmosphere
+  add to the appeal, making it a reliable pick for anyone craving top-notch
+  Japanese dining in the area. All in all, this place seems to hit the mark for
+  those looking for a memorable meal with a positive, hassle-free vibe.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
+curbside_pickup: true
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
 good_for_sports: null
 live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+menu_for_children: true
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Local Japanese chain serving sushi, small plates & hot entrees in a stylish
+  space.
 
 ---

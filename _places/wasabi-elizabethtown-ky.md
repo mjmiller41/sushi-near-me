@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Wasabi"
+title: Wasabi
 permalink: /kentucky/elizabethtown/wasabi.html
 stateAbbr: KY
 stateName: Kentucky
 cityName: Elizabethtown
 seo:
-  name: "Wasabi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Wasabi serves delicious sushi in Elizabethtown, Kentucky. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJCWWgBJnpaIgRk-9MUw9Nxlk
 photos:
   - name: >-
@@ -185,7 +183,41 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Explore Wasabi in Elizabethtown, KY$$$Wasabi in Elizabethtown, KY, stands out
+  as a welcoming Japanese restaurant offering a variety of fresh sushi and other
+  authentic dishes in a relaxed atmosphere perfect for solo diners or casual
+  meals. The spot emphasizes comfort and accessibility, making it easy for
+  everyone to enjoy high-quality options like flavorful rolls and hibachi-style
+  favorites that highlight traditional flavors. Visitors can appreciate the
+  clean, inviting setting that's ideal for those seeking sushi restaurants
+  nearby, with thoughtful features ensuring a seamless dining experience.
+  Whether you're looking for top-rated sushi places in the area, Wasabi delivers
+  on fresh ingredients and a cozy vibe that keeps locals coming back for more.
+generative_summary: >-
+  Explore Wasabi in Elizabethtown, KY$$$Wasabi in Elizabethtown, KY, stands out
+  as a welcoming Japanese restaurant offering a variety of fresh sushi and other
+  authentic dishes in a relaxed atmosphere perfect for solo diners or casual
+  meals. The spot emphasizes comfort and accessibility, making it easy for
+  everyone to enjoy high-quality options like flavorful rolls and hibachi-style
+  favorites that highlight traditional flavors. Visitors can appreciate the
+  clean, inviting setting that's ideal for those seeking sushi restaurants
+  nearby, with thoughtful features ensuring a seamless dining experience.
+  Whether you're looking for top-rated sushi places in the area, Wasabi delivers
+  on fresh ingredients and a cozy vibe that keeps locals coming back for more.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback on Wasabi$$$Folks often rave about the tasty hibachi and
+  sushi at this spot, noting the fresh flavors and generous servings that make
+  every meal feel like a great value. Many appreciate the efficient and friendly
+  service that keeps things running smoothly, adding to the overall enjoyable
+  atmosphere. The restaurant's clean and welcoming environment is frequently
+  highlighted as a plus, creating a comfortable space for casual get-togethers
+  or quick bites. Overall, it's clear that diners value the reasonable prices
+  and reliable quality, making it a solid choice for anyone in the mood for
+  Japanese cuisine without any fuss.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +243,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

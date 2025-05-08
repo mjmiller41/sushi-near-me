@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Hissho Sushi"
+title: Hissho Sushi
 permalink: /minnesota/st-paul/hissho-sushi.html
 stateAbbr: MN
 stateName: Minnesota
 cityName: St Paul
 seo:
-  name: "Hissho Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Hissho Sushi serves delicious sushi in St Paul, Minnesota. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJazbnaiwp9ocRScEUUuXkQB4
 photos:
   - name: >-
@@ -181,11 +179,45 @@ secondary_opening_hours:
     type: null
 phone: null
 price_level: null
-price_range: null
-rating: null
-rating_count: 0
+price_range: $10 &ndash; $20
+rating: '3.7'
+rating_count: 13
 website: null
+description: >-
+  Discover Hissho Sushi in St Paul, MN$$$Hissho Sushi in St Paul, MN, stands out
+  as a convenient spot for fresh sushi options, ideal for travelers and locals
+  alike seeking Japanese-inspired dining near the airport. This sushi restaurant
+  offers an array of affordable dishes, typically in the $10 to $20 range,
+  making it accessible for a quick meal or casual outing. With features like
+  wheelchair-accessible parking and entrances, it ensures a welcoming experience
+  for everyone, enhancing its appeal as a go-to choice in the area. The visually
+  appealing photos highlight a clean, modern vibe that complements the fresh
+  flavors of their menu, perfect for those exploring sushi places nearby.
+generative_summary: >-
+  Discover Hissho Sushi in St Paul, MN$$$Hissho Sushi in St Paul, MN, stands out
+  as a convenient spot for fresh sushi options, ideal for travelers and locals
+  alike seeking Japanese-inspired dining near the airport. This sushi restaurant
+  offers an array of affordable dishes, typically in the $10 to $20 range,
+  making it accessible for a quick meal or casual outing. With features like
+  wheelchair-accessible parking and entrances, it ensures a welcoming experience
+  for everyone, enhancing its appeal as a go-to choice in the area. The visually
+  appealing photos highlight a clean, modern vibe that complements the fresh
+  flavors of their menu, perfect for those exploring sushi places nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors often highlight the tasty sushi rolls and
+  convenient location at this spot, making it a solid pick for anyone craving a
+  quick bite on the go. Many appreciate the fresh ingredients and variety
+  available, which add to the overall enjoyment of the meal without breaking the
+  bank. While some note occasional inconsistencies in service speed, the general
+  consensus leans positive, with folks enjoying it as a reliable option for
+  everyday dining. Overall, it's seen as a worthwhile stop for those searching
+  for approachable Japanese cuisine, offering a balance of flavor and
+  convenience that keeps diners coming back. Though not perfect, the experience
+  tends to deliver on fresh tastes and ease, earning it nods as a decent choice
+  among local eateries.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +243,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

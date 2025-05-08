@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kraken Sushi & Beyond"
+title: Kraken Sushi & Beyond
 permalink: /illinois/chicago/kraken-sushi-beyond.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
 seo:
-  name: "Kraken Sushi & Beyond"
-  type: Restaurant
+  type: restaurant
   links: http://www.krakenchicago.com/
-description: "Kraken Sushi & Beyond serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJVRT-WyDTD4gR33tFaYfPBiA
 photos:
   - name: >-
@@ -184,6 +182,31 @@ price_range: $30 &ndash; $50
 rating: '4.7'
 rating_count: 0
 website: http://www.krakenchicago.com/
+description: >-
+  Discover Kraken Sushi & Beyond in Chicago, IL$$$Kraken Sushi & Beyond in
+  Chicago, IL, stands out as a casual spot for those seeking Japanese-inspired
+  cuisine, blending fresh flavors with a welcoming atmosphere that includes
+  vegetarian options and creative cocktails. This sushi restaurant offers a
+  variety of dishes that highlight high-quality ingredients, making it an ideal
+  choice for anyone exploring top-rated sushi options in the area. With
+  thoughtful accessibility features and outdoor seating, it's designed to
+  accommodate different preferences, whether you're dining with a group or
+  enjoying a quiet meal. The moderate price range ensures a satisfying
+  experience without breaking the bank, appealing to locals and visitors alike
+  who appreciate authentic tastes and innovative twists on classic rolls.
+generative_summary: >-
+  Discover Kraken Sushi & Beyond in Chicago, IL$$$Kraken Sushi & Beyond in
+  Chicago, IL, stands out as a casual spot for those seeking Japanese-inspired
+  cuisine, blending fresh flavors with a welcoming atmosphere that includes
+  vegetarian options and creative cocktails. This sushi restaurant offers a
+  variety of dishes that highlight high-quality ingredients, making it an ideal
+  choice for anyone exploring top-rated sushi options in the area. With
+  thoughtful accessibility features and outdoor seating, it's designed to
+  accommodate different preferences, whether you're dining with a group or
+  enjoying a quiet meal. The moderate price range ensures a satisfying
+  experience without breaking the bank, appealing to locals and visitors alike
+  who appreciate authentic tastes and innovative twists on classic rolls.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJVRT-WyDTD4gR33tFaYfPBiA/reviews/ChZDSUhNMG9nS0VJQ0FnTUNnbmJpZVVREAE
@@ -427,6 +450,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURJN0o2Mlp3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJN0o2Mlp3EAE!2m1!1s0x880fd3205bfe1455:0x2006cf8769457bdf
+review_summary: >-
+  What Customers Are Raving About$$$Visitors to this sushi spot often highlight
+  the fresh and flavorful rolls, with many praising the variety of signature
+  dishes that make every bite feel exciting and satisfying. Feedback frequently
+  mentions the great value from lunch specials and happy hour deals, creating a
+  relaxed vibe that's perfect for casual get-togethers or a quick sushi fix near
+  you. While most experiences focus on the friendly service and cozy, dimly lit
+  setting that enhances the overall enjoyment, a few notes suggest that timing
+  meals properly can avoid any minor service hiccups. Overall, the positive buzz
+  around the authentic flavors and welcoming environment keeps drawing in fans
+  who love exploring new Japanese-inspired places, making it a solid pick for
+  anyone hunting for the best sushi in town.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeStreetParking: true
   paidStreetParking: true
@@ -458,7 +494,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

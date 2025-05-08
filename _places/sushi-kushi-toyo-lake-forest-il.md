@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Kushi Toyo"
+title: Sushi Kushi Toyo
 permalink: /illinois/lake-forest/sushi-kushi-toyo.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Lake Forest
 seo:
-  name: "Sushi Kushi Toyo"
-  type: Restaurant
+  type: restaurant
   links: http://www.sushikushitoyo.com/
-description: "Sleek, stylish Japanese option serving sushi, skewers, noodle bowls, hot entrees & bento boxes. Sushi Kushi Toyo serves delicious sushi in Lake Forest, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJ-wgBH12VD4gR145Ab6loPvE
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 0
 website: http://www.sushikushitoyo.com/
+description: >-
+  Discover Sushi Kushi Toyo in Lake Forest, IL$$$Nestled in Lake Forest, IL,
+  Sushi Kushi Toyo stands out as a casual spot for enjoying fresh sushi and
+  traditional Japanese dishes, perfect for those seeking authentic flavors in a
+  welcoming environment. This sleek restaurant offers a variety of options like
+  skewers, noodle bowls, and bento boxes, making it a go-to choice for sushi
+  enthusiasts exploring local dining scenes. With its convenient location in a
+  shopping area, it's an ideal stop for anyone searching for quality sushi
+  restaurants nearby, complemented by accessible features such as
+  wheelchair-friendly entrances and parking. The menu highlights a blend of
+  classic and creative fare, ensuring a satisfying meal whether you're dining in
+  or opting for takeout. Overall, it provides a relaxed atmosphere that appeals
+  to families and groups looking for reliable Japanese cuisine in the area.
+generative_summary: >-
+  Discover Sushi Kushi Toyo in Lake Forest, IL$$$Nestled in Lake Forest, IL,
+  Sushi Kushi Toyo stands out as a casual spot for enjoying fresh sushi and
+  traditional Japanese dishes, perfect for those seeking authentic flavors in a
+  welcoming environment. This sleek restaurant offers a variety of options like
+  skewers, noodle bowls, and bento boxes, making it a go-to choice for sushi
+  enthusiasts exploring local dining scenes. With its convenient location in a
+  shopping area, it's an ideal stop for anyone searching for quality sushi
+  restaurants nearby, complemented by accessible features such as
+  wheelchair-friendly entrances and parking. The menu highlights a blend of
+  classic and creative fare, ensuring a satisfying meal whether you're dining in
+  or opting for takeout. Overall, it provides a relaxed atmosphere that appeals
+  to families and groups looking for reliable Japanese cuisine in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ-wgBH12VD4gR145Ab6loPvE/reviews/ChdDSUhNMG9nS0VJQ0FnSUNmdko3aHhBRRAB
@@ -328,6 +353,21 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURQNy1YcEZnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURQNy1YcEZnEAE!2m1!1s0x880f955d1f0108fb:0xf13e68a96f408ed7
+review_summary: >-
+  What People Love About This Sushi Spot$$$Visitors often praise Sushi Kushi
+  Toyo for its consistently fresh and flavorful dishes, with many highlighting
+  the variety of rolls and bento boxes as standout favorites that keep them
+  coming back. While one diner noted that a vegetable-based option could use a
+  bit more seasoning, the overall consensus leans toward the restaurant's
+  reliable quality and generous portions that make meals feel worthwhile. Folks
+  appreciate the efficient service and welcoming vibe, which enhance the
+  experience for both dine-in and carry-out orders, especially for those with
+  vegetarian preferences. It's frequently described as a hidden gem that's great
+  for groups, offering solid value that aligns with expectations for top-rated
+  sushi in the neighborhood. In short, this spot delivers a solid dining
+  experience that balances taste, convenience, and affordability, making it a
+  smart pick for anyone craving Japanese fare nearby.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -360,8 +400,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Sleek, stylish Japanese option serving sushi, skewers, noodle bowls, hot
   entrees & bento boxes.
 

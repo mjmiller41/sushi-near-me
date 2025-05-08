@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "KANBU Sushi Downtown"
+title: KANBU Sushi Downtown
 permalink: /michigan/ann-arbor/kanbu-sushi-downtown.html
 stateAbbr: MI
 stateName: Michigan
 cityName: Ann Arbor
 seo:
-  name: "KANBU Sushi Downtown"
-  type: Restaurant
+  type: restaurant
   links: http://kanbu-annarbor.com/
-description: "Standard Japanese restaurant serving sushi, poke bowls & seafood noodle soups in relaxed surrounds. KANBU Sushi Downtown serves delicious sushi in Ann Arbor, Michigan. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJgwPltO6vPIgRPHbn-kwcNFE
 photos:
   - name: >-
@@ -184,6 +182,31 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 0
 website: http://kanbu-annarbor.com/
+description: >-
+  Explore KANBU Sushi in Ann Arbor, MI$$$KANBU Sushi Downtown in Ann Arbor, MI,
+  offers a welcoming spot for enjoying fresh Japanese-inspired dishes in a
+  relaxed setting. This sushi restaurant features a variety of traditional
+  rolls, poke bowls, and creative options like burritos, making it a go-to
+  choice for those seeking sushi places near me with a casual vibe. The venue
+  emphasizes accessibility with wheelchair-friendly entrances and seating,
+  ensuring everyone can savor the high-quality seafood and flavorful noodle
+  soups. Its affordable price range and options for groups or vegetarian diners
+  add to the appeal, providing great value without compromising on taste.
+  Whether you're looking for top-rated sushi restaurants in the area, KANBU
+  stands out for its modern twist on classic favorites.
+generative_summary: >-
+  Explore KANBU Sushi in Ann Arbor, MI$$$KANBU Sushi Downtown in Ann Arbor, MI,
+  offers a welcoming spot for enjoying fresh Japanese-inspired dishes in a
+  relaxed setting. This sushi restaurant features a variety of traditional
+  rolls, poke bowls, and creative options like burritos, making it a go-to
+  choice for those seeking sushi places near me with a casual vibe. The venue
+  emphasizes accessibility with wheelchair-friendly entrances and seating,
+  ensuring everyone can savor the high-quality seafood and flavorful noodle
+  soups. Its affordable price range and options for groups or vegetarian diners
+  add to the appeal, providing great value without compromising on taste.
+  Whether you're looking for top-rated sushi restaurants in the area, KANBU
+  stands out for its modern twist on classic favorites.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJgwPltO6vPIgRPHbn-kwcNFE/reviews/ChZDSUhNMG9nS0VJQ0FnSUN2dWVXSEpBEAE
@@ -355,6 +378,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN6d1phdnNBRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN6d1phdnNBRRAB!2m1!1s0x883cafeeb4e50383:0x51341c4cfae7763c
+review_summary: >-
+  What Customers Are Saying About the Food$$$Folks who visit this spot often
+  rave about the fresh and tasty sushi rolls, poke bowls, and ramen that make
+  meals feel like a treat without breaking the bank. Many appreciate the
+  friendly service and chill atmosphere that keeps things light and enjoyable,
+  perfect for a quick bite or hanging out with friends. While most experiences
+  highlight the great quality and variety, including solid vegetarian choices,
+  it's worth noting that a few have mentioned occasional slip-ups that could use
+  some attention. Overall, the consensus leans positive, with diners loving the
+  value and recommending it as one of the best sushi options around for anyone
+  craving something delicious and straightforward. If you're on the hunt for
+  sushi near me, this place generally delivers a satisfying experience that
+  keeps people coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   valetParking: false
 payment_options:
@@ -385,8 +422,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: null
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Standard Japanese restaurant serving sushi, poke bowls & seafood noodle soups
   in relaxed surrounds.
 

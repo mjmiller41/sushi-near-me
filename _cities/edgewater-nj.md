@@ -5,4 +5,5 @@ permalink: /new-jersey/edgewater/
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Edgewater
+
 ---

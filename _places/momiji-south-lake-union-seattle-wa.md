@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Momiji South Lake Union"
+title: Momiji South Lake Union
 permalink: /washington/seattle/momiji-south-lake-union.html
 stateAbbr: WA
 stateName: Washington
 cityName: Seattle
 seo:
-  name: "Momiji South Lake Union"
-  type: Restaurant
+  type: restaurant
   links: http://www.momijislu.com/
-description: "Momiji South Lake Union serves delicious sushi in Seattle, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ4RRLcFUVkFQRv3D3JV4bwPE
 photos:
   - name: >-
@@ -169,7 +167,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x54901555704b14e1:0xf1c01b5e25f770bf!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:00 PM'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -177,14 +233,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:00 PM'
     - 'Saturday: 11:00 AM – 10:00 PM'
     - 'Sunday: 11:00 AM – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 10:00 PM'
-    - 'Saturday: 11:00 AM – 10:00 PM'
-    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T05:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,9 +245,45 @@ phone: (206) 257-1304
 price_level: PRICE_LEVEL_MODERATE
 price_range: $30 &ndash; $50
 rating: '4.4'
-rating_count: 0
+rating_count: 695
 website: http://www.momijislu.com/
+description: >-
+  Discover Momiji in Seattle, WA$$$Momiji South Lake Union in Seattle, WA,
+  stands out as an upscale sushi restaurant offering a refined dining experience
+  with fresh seafood and vegetarian rolls that cater to diverse tastes. This
+  spot in the heart of Downtown Seattle combines authentic Japanese flavors with
+  a selection of sake, wine, and beer, making it ideal for casual meals or
+  special occasions. The venue emphasizes accessibility features like
+  wheelchair-friendly entrances and seating, ensuring everyone can enjoy the
+  modern ambiance. Whether you're exploring sushi places near you or seeking
+  top-rated options for Japanese cuisine, Momiji delivers a balance of quality
+  ingredients and inviting atmosphere that keeps patrons returning.
+generative_summary: >-
+  Discover Momiji in Seattle, WA$$$Momiji South Lake Union in Seattle, WA,
+  stands out as an upscale sushi restaurant offering a refined dining experience
+  with fresh seafood and vegetarian rolls that cater to diverse tastes. This
+  spot in the heart of Downtown Seattle combines authentic Japanese flavors with
+  a selection of sake, wine, and beer, making it ideal for casual meals or
+  special occasions. The venue emphasizes accessibility features like
+  wheelchair-friendly entrances and seating, ensuring everyone can enjoy the
+  modern ambiance. Whether you're exploring sushi places near you or seeking
+  top-rated options for Japanese cuisine, Momiji delivers a balance of quality
+  ingredients and inviting atmosphere that keeps patrons returning.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About This Spot$$$If you're on the hunt for sushi
+  restaurants near you, this place often gets high marks for its fresh and
+  flavorful rolls that leave diners satisfied. Folks frequently highlight the
+  variety of options, from seafood specials to vegetarian choices, making it a
+  versatile pick for groups or solo visits. The service is commonly described as
+  efficient and welcoming, adding to the overall enjoyable vibe without any
+  major complaints. While some note it's a bit on the pricier side, the
+  consistent quality and atmosphere make it worth the visit for those craving "I
+  love sushi" moments. With a strong rating reflecting positive experiences,
+  it's a solid choice for anyone looking to try one of Seattle's go-to Japanese
+  eateries.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -224,7 +309,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

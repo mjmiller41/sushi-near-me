@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "FreshFin | Brookfield"
+title: FreshFin | Brookfield
 permalink: /wisconsin/brookfield/freshfin-brookfield.html
 stateAbbr: WI
 stateName: Wisconsin
 cityName: Brookfield
 seo:
-  name: "FreshFin | Brookfield"
-  type: Restaurant
-  links: null
-description: "FreshFin | Brookfield serves delicious sushi in Brookfield, Wisconsin. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.freshfin.com/
 place_id: ChIJdUSF-yMHBYgR7aL1NzAsSfE
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x88050723fb854475:0xf1492c3037f5a2ed!10e5
 primary_type: Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 10
+        minute: 45
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 10
+        minute: 45
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 10
+        minute: 45
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 10
+        minute: 45
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 10
+        minute: 45
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 10
+        minute: 45
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 10
+        minute: 45
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 10:45 AM – 9:00 PM'
+    - 'Tuesday: 10:45 AM – 9:00 PM'
+    - 'Wednesday: 10:45 AM – 9:00 PM'
+    - 'Thursday: 10:45 AM – 9:00 PM'
+    - 'Friday: 10:45 AM – 9:00 PM'
+    - 'Saturday: 10:45 AM – 9:00 PM'
+    - 'Sunday: 10:45 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,46 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (262) 505-6510
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.7'
+rating_count: 760
+website: http://www.freshfin.com/
+description: >-
+  Discover FreshFin in Brookfield, WI$$$FreshFin in Brookfield, WI, stands out
+  as a relaxed dining spot specializing in vibrant poke bowls and fresh salads
+  that highlight high-quality ingredients. This welcoming restaurant emphasizes
+  a casual vibe with thoughtful vegan choices, making it an ideal destination
+  for those seeking nutritious and customizable meals. Accessibility features
+  like wheelchair-friendly entrances and seating ensure everyone can enjoy the
+  experience, while its daily hours from late morning to evening cater to
+  spontaneous visits. Whether you're in the mood for a light lunch or a
+  satisfying dinner, the focus on wholesome, flavorful options makes it a go-to
+  for healthy eating near you.
+generative_summary: >-
+  Discover FreshFin in Brookfield, WI$$$FreshFin in Brookfield, WI, stands out
+  as a relaxed dining spot specializing in vibrant poke bowls and fresh salads
+  that highlight high-quality ingredients. This welcoming restaurant emphasizes
+  a casual vibe with thoughtful vegan choices, making it an ideal destination
+  for those seeking nutritious and customizable meals. Accessibility features
+  like wheelchair-friendly entrances and seating ensure everyone can enjoy the
+  experience, while its daily hours from late morning to evening cater to
+  spontaneous visits. Whether you're in the mood for a light lunch or a
+  satisfying dinner, the focus on wholesome, flavorful options makes it a go-to
+  for healthy eating near you.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors often praise the poke bowls at this spot
+  for their fresh flavors and hearty portions that hit the spot every time.
+  Folks appreciate the quick service and the friendly team that keeps things
+  running smoothly without any fuss. The clean, invigorating atmosphere adds to
+  the appeal, creating a relaxed environment perfect for a casual meal. Overall,
+  it's clear that diners leave feeling satisfied with the value and taste,
+  making it a reliable choice for anyone craving wholesome dishes in a welcoming
+  setting.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +307,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

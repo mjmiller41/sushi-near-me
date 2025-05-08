@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kiki"
+title: Kiki
 permalink: /new-york/goshen/kiki.html
 stateAbbr: NY
 stateName: New York
 cityName: Goshen
 seo:
-  name: "Kiki"
-  type: Restaurant
-  links: null
-description: "Kiki serves delicious sushi in Goshen, New York. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.kikirestaurant.com/
 place_id: ChIJU_KNjBosw4kR0PVM2cX45ds
 photos:
   - name: >-
@@ -170,8 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c32c1a8c8df253:0xdbe5f8c5d94cf5d0!10e5
 primary_type: Chinese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: Closed'
+    - 'Tuesday: 11:00 AM – 10:00 PM'
+    - 'Wednesday: 11:00 AM – 10:00 PM'
+    - 'Thursday: 11:00 AM – 10:00 PM'
+    - 'Friday: 11:00 AM – 11:00 PM'
+    - 'Saturday: 11:00 AM – 11:00 PM'
+    - 'Sunday: 12:00 – 10:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +234,51 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (845) 291-1000
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.3'
+rating_count: 238
+website: http://www.kikirestaurant.com/
+description: >-
+  Discover Kiki in Goshen, NY$$$Kiki in Goshen, NY, stands out as a welcoming
+  spot for enjoying fresh sushi alongside a range of Chinese dishes, all served
+  in a relaxed and approachable atmosphere. This eatery combines authentic
+  flavors with options for both dine-in and take-out, making it ideal for casual
+  meals or quick grabs on the go. Patrons can savor high-quality ingredients and
+  diverse menu selections, from expertly prepared rolls to traditional
+  stir-fries, appealing to those seeking top-rated sushi restaurants in the
+  area. The venue also prioritizes accessibility, ensuring a comfortable visit
+  for all, while maintaining moderate pricing that fits various budgets. Whether
+  you're exploring Japanese-inspired places near me or craving something hearty,
+  Kiki delivers a satisfying dining experience with its informal vibe.
+generative_summary: >-
+  Discover Kiki in Goshen, NY$$$Kiki in Goshen, NY, stands out as a welcoming
+  spot for enjoying fresh sushi alongside a range of Chinese dishes, all served
+  in a relaxed and approachable atmosphere. This eatery combines authentic
+  flavors with options for both dine-in and take-out, making it ideal for casual
+  meals or quick grabs on the go. Patrons can savor high-quality ingredients and
+  diverse menu selections, from expertly prepared rolls to traditional
+  stir-fries, appealing to those seeking top-rated sushi restaurants in the
+  area. The venue also prioritizes accessibility, ensuring a comfortable visit
+  for all, while maintaining moderate pricing that fits various budgets. Whether
+  you're exploring Japanese-inspired places near me or craving something hearty,
+  Kiki delivers a satisfying dining experience with its informal vibe.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Buzzing About$$$Folks generally rave about the fresh,
+  flavorful sushi and Chinese offerings at this spot, highlighting the great
+  taste and generous portions that make it a go-to for casual diners. Many
+  appreciate the laid-back setting and attentive service, which add to the
+  overall enjoyable vibe without any major hiccups. Based on the solid ratings,
+  it's clear that visitors find good value here, often noting it as one of the
+  best sushi places near me for a reliable meal. While some mention occasional
+  busyness during peak times, the consensus leans positive, with praise for the
+  consistent quality and welcoming environment. If you're on the hunt for sushi
+  restaurants that deliver on flavor and convenience, this location seems to hit
+  the mark for most people looking for an honest, feel-good dining option.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +304,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

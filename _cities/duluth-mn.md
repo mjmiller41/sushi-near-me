@@ -5,4 +5,5 @@ permalink: /minnesota/duluth/
 stateAbbr: MN
 stateName: Minnesota
 cityName: Duluth
+
 ---

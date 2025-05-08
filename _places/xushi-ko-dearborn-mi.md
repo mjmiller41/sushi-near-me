@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Xushi Ko"
+title: Xushi Ko
 permalink: /michigan/dearborn/xushi-ko.html
 stateAbbr: MI
 stateName: Michigan
 cityName: Dearborn
 seo:
-  name: "Xushi Ko"
-  type: Restaurant
+  type: restaurant
   links: http://xushi-ko.com/
-description: "Xushi Ko serves delicious sushi in Dearborn, Michigan. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJn0S82-A0O4gRKqTmrb-cz94
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x883b34e0dbbc449f:0xdecf9cbfade6a42a!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 10:00 PM'
     - 'Tuesday: 11:00 AM – 10:00 PM'
     - 'Wednesday: 11:00 AM – 10:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 11:00 PM'
     - 'Saturday: 12:00 – 11:00 PM'
     - 'Sunday: 12:00 – 10:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 10:00 PM'
-    - 'Tuesday: 11:00 AM – 10:00 PM'
-    - 'Wednesday: 11:00 AM – 10:00 PM'
-    - 'Thursday: 11:00 AM – 10:00 PM'
-    - 'Friday: 11:00 AM – 11:00 PM'
-    - 'Saturday: 12:00 – 11:00 PM'
-    - 'Sunday: 12:00 – 10:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +246,44 @@ phone: (313) 982-1730
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.0'
-rating_count: 0
+rating_count: 1692
 website: http://xushi-ko.com/
+description: >-
+  Discover Xushi Ko in Dearborn, Michigan$$$Xushi Ko in Dearborn, Michigan,
+  stands out as a welcoming spot for enjoying fresh Japanese cuisine, blending
+  traditional sushi and hibachi options in a relaxed atmosphere. The restaurant
+  offers a variety of flavorful dishes that highlight authentic flavors, making
+  it an ideal choice for those seeking quality Japanese eats close to home. With
+  accessibility features like wheelchair-friendly parking and entrances, it's
+  designed to accommodate all guests comfortably. Operating from late morning
+  into the evening most days, this spot provides a casual setting perfect for
+  casual meals or group outings, appealing to anyone exploring top-rated sushi
+  options nearby.
+generative_summary: >-
+  Discover Xushi Ko in Dearborn, Michigan$$$Xushi Ko in Dearborn, Michigan,
+  stands out as a welcoming spot for enjoying fresh Japanese cuisine, blending
+  traditional sushi and hibachi options in a relaxed atmosphere. The restaurant
+  offers a variety of flavorful dishes that highlight authentic flavors, making
+  it an ideal choice for those seeking quality Japanese eats close to home. With
+  accessibility features like wheelchair-friendly parking and entrances, it's
+  designed to accommodate all guests comfortably. Operating from late morning
+  into the evening most days, this spot provides a casual setting perfect for
+  casual meals or group outings, appealing to anyone exploring top-rated sushi
+  options nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About Xushi Ko$$$Visitors often praise the fresh
+  sushi and hibachi selections at this spot, noting how the flavors really hit
+  the mark for a satisfying Japanese meal. Many appreciate the consistent
+  quality and variety, making it a go-to for folks looking for reliable sushi
+  restaurants in the area. While some mention occasional waits during peak
+  times, the overall vibe and service keep things enjoyable and worth the visit.
+  Feedback highlights the value for the price, with plenty of positive nods to
+  the tasty rolls and friendly staff that make dining here a pleasant
+  experience. All in all, it's a solid pick for anyone craving great Japanese
+  food, backed by a strong community of satisfied diners.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +309,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

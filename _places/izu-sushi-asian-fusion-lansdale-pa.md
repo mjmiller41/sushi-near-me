@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Izu Sushi Asian fusion"
+title: Izu Sushi Asian fusion
 permalink: /pennsylvania/lansdale/izu-sushi-asian-fusion.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Lansdale
 seo:
-  name: "Izu Sushi Asian fusion"
-  type: Restaurant
+  type: restaurant
   links: https://www.izusushi-online.com/
-description: "Izu Sushi Asian fusion serves delicious sushi in Lansdale, Pennsylvania. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJS4qXTpyjxokRoxCOg2uXUsE
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c6a39c4e978a4b:0xc152976b838e10a3!10e5
 primary_type: Asian Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:00 AM – 9:30 PM'
     - 'Wednesday: 11:00 AM – 9:30 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:30 PM'
     - 'Saturday: 11:00 AM – 10:30 PM'
     - 'Sunday: 12:00 – 9:30 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:00 AM – 9:30 PM'
-    - 'Wednesday: 11:00 AM – 9:30 PM'
-    - 'Thursday: 11:00 AM – 9:30 PM'
-    - 'Friday: 11:00 AM – 10:30 PM'
-    - 'Saturday: 11:00 AM – 10:30 PM'
-    - 'Sunday: 12:00 – 9:30 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +238,47 @@ phone: (215) 393-3800
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.5'
-rating_count: 0
+rating_count: 134
 website: https://www.izusushi-online.com/
+description: >-
+  Explore Izu Sushi in Lansdale, PA$$$Izu Sushi Asian fusion in Lansdale, PA,
+  offers a welcoming spot for enjoying fresh Japanese-inspired dishes in a
+  relaxed setting. This Asian restaurant specializes in flavorful sushi rolls,
+  miso soup, and other traditional favorites that highlight quality ingredients
+  and creative flavors. Visitors can appreciate the easygoing atmosphere, making
+  it an ideal choice for casual meals or quick bites in the area. With its
+  convenient location and accessible features like wheelchair-friendly parking
+  and entrances, it's a go-to option for those seeking sushi restaurants near
+  me. Whether you're in the mood for a light lunch or dinner outing, the menu's
+  variety ensures something for everyone looking for top-rated sushi
+  experiences.
+generative_summary: >-
+  Explore Izu Sushi in Lansdale, PA$$$Izu Sushi Asian fusion in Lansdale, PA,
+  offers a welcoming spot for enjoying fresh Japanese-inspired dishes in a
+  relaxed setting. This Asian restaurant specializes in flavorful sushi rolls,
+  miso soup, and other traditional favorites that highlight quality ingredients
+  and creative flavors. Visitors can appreciate the easygoing atmosphere, making
+  it an ideal choice for casual meals or quick bites in the area. With its
+  convenient location and accessible features like wheelchair-friendly parking
+  and entrances, it's a go-to option for those seeking sushi restaurants near
+  me. Whether you're in the mood for a light lunch or dinner outing, the menu's
+  variety ensures something for everyone looking for top-rated sushi
+  experiences.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback Highlights$$$Folks rave about the tasty sushi selections at
+  this spot, with favorites like shrimp tempura rolls and spicy tuna options
+  standing out for their fresh flavors and perfect balance. Many appreciate the
+  cozy vibe and friendly service that make every visit feel comfortable and
+  enjoyable, adding to the overall appeal of dining here. Reviewers often note
+  the great value for the price, making it a solid pick for anyone hunting for
+  sushi places near me without breaking the bank. While some mention it's a hit
+  for groups or solo diners, the consistent praise for the welcoming staff and
+  efficient operations keeps the energy positive. Overall, it's a reliable
+  choice for those craving authentic Japanese dishes in a laid-back environment,
+  earning it high marks among local favorites.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +304,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

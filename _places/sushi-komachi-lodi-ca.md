@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Komachi"
+title: Sushi Komachi
 permalink: /california/lodi/sushi-komachi.html
 stateAbbr: CA
 stateName: California
 cityName: Lodi
 seo:
-  name: "Sushi Komachi"
-  type: Restaurant
+  type: restaurant
   links: http://www.sushikomachi.com/
-description: "Sushi Komachi serves delicious sushi in Lodi, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJx6yxFl-gmoAR9BxI3Clny-k
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x809aa05f16b1acc7:0xe9cb6729dc481cf4!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 20
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 20
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 20
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 20
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 8:30 PM'
     - 'Tuesday: 11:30 AM – 8:30 PM'
     - 'Wednesday: 11:30 AM – 8:30 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 9:00 PM'
     - 'Saturday: 11:30 AM – 9:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:30 AM – 8:30 PM'
-    - 'Tuesday: 11:30 AM – 8:30 PM'
-    - 'Wednesday: 11:30 AM – 8:30 PM'
-    - 'Thursday: 11:30 AM – 8:30 PM'
-    - 'Friday: 11:30 AM – 9:00 PM'
-    - 'Saturday: 11:30 AM – 9:00 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +238,47 @@ phone: (209) 334-3131
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.6'
-rating_count: 0
+rating_count: 920
 website: http://www.sushikomachi.com/
+description: >-
+  Discover Sushi Komachi in Lodi, CA$$$Sushi Komachi in Lodi, CA, stands out as
+  a welcoming Japanese restaurant that offers a cozy atmosphere perfect for
+  enjoying fresh sushi and bento boxes, complemented by a selection of sake,
+  beer, and cocktails. This spot emphasizes accessibility with features like
+  wheelchair-friendly parking and entrances, making it easy for everyone to
+  savor authentic flavors in a relaxed setting. Diners can appreciate the
+  thoughtful menu that balances traditional dishes with creative options, ideal
+  for those seeking top-rated sushi experiences nearby. Operating from late
+  morning into the evening most days, it's a convenient choice for lunch or
+  dinner outings. Whether you're exploring sushi places near me or looking for a
+  casual Japanese meal, this restaurant delivers on quality and comfort.
+generative_summary: >-
+  Discover Sushi Komachi in Lodi, CA$$$Sushi Komachi in Lodi, CA, stands out as
+  a welcoming Japanese restaurant that offers a cozy atmosphere perfect for
+  enjoying fresh sushi and bento boxes, complemented by a selection of sake,
+  beer, and cocktails. This spot emphasizes accessibility with features like
+  wheelchair-friendly parking and entrances, making it easy for everyone to
+  savor authentic flavors in a relaxed setting. Diners can appreciate the
+  thoughtful menu that balances traditional dishes with creative options, ideal
+  for those seeking top-rated sushi experiences nearby. Operating from late
+  morning into the evening most days, it's a convenient choice for lunch or
+  dinner outings. Whether you're exploring sushi places near me or looking for a
+  casual Japanese meal, this restaurant delivers on quality and comfort.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Diners$$$Visitors to this Japanese restaurant often rave about
+  the tasty ramen and specialty sushi rolls that bring a burst of flavor to
+  every bite, making it a solid pick for anyone hunting for great sushi close to
+  home. Folks appreciate the super-friendly staff who go the extra mile to
+  ensure a comfortable experience, like offering blankets and heaters for
+  outdoor spots on cooler days. Overall, the service stands out as attentive and
+  welcoming, helping to create a laid-back vibe that keeps people coming back.
+  While the focus is on delicious food and hospitality, it's clear that this
+  place hits the mark for quality without any major hiccups. If you're on the
+  hunt for sushi restaurants near me with a positive, reliable reputation, this
+  one's worth checking out for a satisfying meal.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +304,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

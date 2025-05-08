@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Hibachi Buffet"
+title: Hibachi Buffet
 permalink: /kentucky/louisville/hibachi-buffet.html
 stateAbbr: KY
 stateName: Kentucky
 cityName: Louisville
 seo:
-  name: "Hibachi Buffet"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Hibachi Buffet serves delicious sushi in Louisville, Kentucky. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJG5t_UFgRaYgRRqW95vW_TA0
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x88691158507f9b1b:0xd4cbff5e6bda546!10e5
 primary_type: Buffet Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 9:00 PM'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 9:30 PM'
+    - 'Saturday: 11:00 AM – 9:30 PM'
+    - 'Sunday: 11:30 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T01:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,50 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
+phone: (502) 449-8688
+price_level: PRICE_LEVEL_INEXPENSIVE
+price_range: $10 &ndash; $20
+rating: '4.2'
+rating_count: 2490
 website: null
+description: >-
+  Discover Hibachi Buffet in Louisville, KY$$$Hibachi Buffet in Louisville, KY,
+  stands out as a casual all-you-can-eat spot where fresh seafood and flavorful
+  Chinese-inspired dishes take center stage. This welcoming restaurant features
+  an array of options like succulent crab rangoon and tender honey chicken,
+  complemented by interactive hibachi grill selections that add excitement to
+  every meal. Accessibility is a key highlight, with features such as
+  wheelchair-friendly parking, entrances, and seating that make it easy for
+  everyone to enjoy. Operating daily with convenient hours from late morning
+  through evening, it offers great value for those seeking affordable dining
+  experiences. For anyone exploring sushi places near me, this location delivers
+  a satisfying mix of fresh options in a relaxed atmosphere.
+generative_summary: >-
+  Discover Hibachi Buffet in Louisville, KY$$$Hibachi Buffet in Louisville, KY,
+  stands out as a casual all-you-can-eat spot where fresh seafood and flavorful
+  Chinese-inspired dishes take center stage. This welcoming restaurant features
+  an array of options like succulent crab rangoon and tender honey chicken,
+  complemented by interactive hibachi grill selections that add excitement to
+  every meal. Accessibility is a key highlight, with features such as
+  wheelchair-friendly parking, entrances, and seating that make it easy for
+  everyone to enjoy. Operating daily with convenient hours from late morning
+  through evening, it offers great value for those seeking affordable dining
+  experiences. For anyone exploring sushi places near me, this location delivers
+  a satisfying mix of fresh options in a relaxed atmosphere.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors often praise this buffet for its
+  impressive variety of fresh seafood, including tasty sushi rolls, crab legs,
+  and shrimp that make it a hit for seafood lovers. The staff comes across as
+  friendly and attentive, helping to create a comfortable and enjoyable vibe for
+  families and groups alike. Many folks highlight the clean, pleasant setting
+  and the overall bang for your buck, making it a go-to choice for casual meals.
+  While the food selection generally scores high marks, some note that certain
+  items might not always be served at the ideal temperature. All in all, it's a
+  solid pick for those hunting for top-rated sushi and more in a welcoming
+  environment.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +311,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

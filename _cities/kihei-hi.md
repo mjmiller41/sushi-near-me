@@ -5,4 +5,5 @@ permalink: /hawaii/kihei/
 stateAbbr: HI
 stateName: Hawaii
 cityName: Kihei
+
 ---

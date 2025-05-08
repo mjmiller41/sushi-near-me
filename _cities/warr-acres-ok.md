@@ -5,4 +5,5 @@ permalink: /oklahoma/warr-acres/
 stateAbbr: OK
 stateName: Oklahoma
 cityName: Warr Acres
+
 ---

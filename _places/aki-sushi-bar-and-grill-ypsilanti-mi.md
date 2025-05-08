@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "AKI SUSHI BAR AND GRILL"
+title: AKI SUSHI BAR AND GRILL
 permalink: /michigan/ypsilanti/aki-sushi-bar-and-grill.html
 stateAbbr: MI
 stateName: Michigan
 cityName: Ypsilanti
 seo:
-  name: "AKI SUSHI BAR AND GRILL"
-  type: Restaurant
-  links: null
-description: "AKI SUSHI BAR AND GRILL serves delicious sushi in Ypsilanti, Michigan. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.akisushiypsilanti.com/
 place_id: ChIJQdGx1tinPIgRMnSDuxTg2JM
 photos:
   - name: >-
@@ -170,8 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x883ca7d8d6b1d141:0x93d8e014bb837432!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:00 PM'
+    - 'Tuesday: Closed'
+    - 'Wednesday: 11:00 AM – 9:00 PM'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 10:00 PM'
+    - 'Saturday: 12:00 – 10:00 PM'
+    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +234,52 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (734) 480-9888
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.5'
+rating_count: 785
+website: https://www.akisushiypsilanti.com/
+description: >-
+  Explore AKI Sushi Bar and Grill in Ypsilanti, MI$$$AKI Sushi Bar and Grill in
+  Ypsilanti, MI, offers a welcoming spot for enjoying fresh sushi and flavorful
+  Asian-inspired dishes in a relaxed setting. This sushi restaurant features an
+  array of creative rolls, Thai specialties, bento boxes, and refreshing
+  cocktails, making it a go-to choice for those seeking diverse flavors in a
+  casual atmosphere. With its focus on accessibility, including
+  wheelchair-friendly options, it's designed to accommodate a variety of diners
+  looking for an enjoyable meal. The menu highlights high-quality ingredients
+  that bring out the best in Japanese-style cuisine, appealing to anyone
+  exploring local sushi options. Whether you're in the mood for a quick bite or
+  a leisurely dinner, this spot combines affordability with a vibrant dining
+  experience.
+generative_summary: >-
+  Explore AKI Sushi Bar and Grill in Ypsilanti, MI$$$AKI Sushi Bar and Grill in
+  Ypsilanti, MI, offers a welcoming spot for enjoying fresh sushi and flavorful
+  Asian-inspired dishes in a relaxed setting. This sushi restaurant features an
+  array of creative rolls, Thai specialties, bento boxes, and refreshing
+  cocktails, making it a go-to choice for those seeking diverse flavors in a
+  casual atmosphere. With its focus on accessibility, including
+  wheelchair-friendly options, it's designed to accommodate a variety of diners
+  looking for an enjoyable meal. The menu highlights high-quality ingredients
+  that bring out the best in Japanese-style cuisine, appealing to anyone
+  exploring local sushi options. Whether you're in the mood for a quick bite or
+  a leisurely dinner, this spot combines affordability with a vibrant dining
+  experience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback on AKI Sushi$$$Visitors to this sushi spot often rave about
+  the tasty appetizers like miso soup and crab rangoon, along with satisfying
+  options such as vegan curry that keep things fresh and inclusive. Folks
+  appreciate the friendly service and reasonable prices, making it a solid pick
+  for casual outings or family meals without breaking the bank. Many highlight
+  the consistently fresh sushi rolls that deliver on flavor, turning everyday
+  dining into a delightful treat. Overall, it's a reliable choice for those
+  searching for top-rated sushi nearby, with positive vibes that encourage
+  repeat visits. While experiences can vary, the general buzz keeps the energy
+  upbeat and inviting for anyone craving authentic Japanese-inspired eats.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +305,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

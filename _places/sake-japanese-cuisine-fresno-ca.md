@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sake Japanese Cuisine"
+title: Sake Japanese Cuisine
 permalink: /california/fresno/sake-japanese-cuisine.html
 stateAbbr: CA
 stateName: California
 cityName: Fresno
 seo:
-  name: "Sake Japanese Cuisine"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sake Japanese Cuisine serves delicious sushi in Fresno, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJRVPMAg1mlIAR-aXGQrryT9c
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 0
 website: null
+description: >-
+  Discover Sake Japanese Cuisine in Fresno, CA$$$Sake Japanese Cuisine in
+  Fresno, CA, provides a laid-back setting for savoring authentic flavors from
+  traditional dishes like teriyaki, tempura, and fresh sushi rolls, along with
+  convenient bento options. This spot stands out for its accessible features,
+  including easy parking and welcoming entrances, making it a great choice for
+  casual diners seeking quality Japanese meals. Patrons enjoy the balance of
+  affordability and taste, with moderately priced offerings that appeal to those
+  exploring top-rated sushi options nearby. Whether you're in the mood for
+  something light and flavorful or a satisfying combination plate, the variety
+  here caters to diverse preferences in a comfortable environment.
+generative_summary: >-
+  Discover Sake Japanese Cuisine in Fresno, CA$$$Sake Japanese Cuisine in
+  Fresno, CA, provides a laid-back setting for savoring authentic flavors from
+  traditional dishes like teriyaki, tempura, and fresh sushi rolls, along with
+  convenient bento options. This spot stands out for its accessible features,
+  including easy parking and welcoming entrances, making it a great choice for
+  casual diners seeking quality Japanese meals. Patrons enjoy the balance of
+  affordability and taste, with moderately priced offerings that appeal to those
+  exploring top-rated sushi options nearby. Whether you're in the mood for
+  something light and flavorful or a satisfying combination plate, the variety
+  here caters to diverse preferences in a comfortable environment.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJRVPMAg1mlIAR-aXGQrryT9c/reviews/ChZDSUhNMG9nS0VJQ0FnSUNIaGZxUVVBEAE
@@ -334,6 +355,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN2LS15UzhnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN2LS15UzhnRRAB!2m1!1s0x8094660d02cc5345:0xd74ff2ba42c6a5f9
+review_summary: >-
+  What Customers Are Buzzing About$$$Folks often share how the sushi at this
+  Fresno gem hits the spot with its fresh ingredients and spot-on flavors,
+  making it a solid pick for anyone craving Japanese eats. Many appreciate the
+  helpful service that keeps things smooth without being overwhelming, adding to
+  the relaxed vibe of the place. Comments frequently point to the
+  wallet-friendly prices and generous portions, turning even simple rolls into
+  standout experiences. If you're hunting for reliable sushi spots close by,
+  this one gets nods for its tasty selections and overall value, leaving diners
+  feeling satisfied and eager to return. All in all, the feedback highlights a
+  welcoming atmosphere where good food and friendly vibes come together
+  seamlessly.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -366,7 +400,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

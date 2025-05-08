@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ajisai"
+title: Ajisai
 permalink: /north-carolina/raleigh/ajisai.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Raleigh
 seo:
-  name: "Ajisai"
-  type: Restaurant
+  type: restaurant
   links: http://www.ajisai3.com/
-description: "Modern restaurant featuring a variety of sushi rolls & other Japanese dishes in a moody atmosphere. Ajisai serves delicious sushi in Raleigh, North Carolina. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJVdwS3Ir1rIkRG8WjkAkvYN8
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 0
 website: http://www.ajisai3.com/
+description: >-
+  Discover Ajisai in Raleigh, North Carolina$$$Ajisai in Raleigh, North
+  Carolina, stands out as a modern Japanese restaurant offering fresh sushi
+  rolls and sashimi in an upscale yet relaxed atmosphere. This spot delivers a
+  variety of authentic Japanese dishes, blending traditional flavors with
+  creative presentations that appeal to sushi enthusiasts exploring local
+  options. With its moody ambiance and thoughtful accessibility features, it
+  creates an inviting space for enjoying top-rated Japanese cuisine without the
+  formality of a high-end venue. Prices remain moderate, making it a go-to
+  choice for those seeking quality meals in a welcoming setting. Whether you're
+  in the mood for sushi near me or simply craving flavorful Japanese fare,
+  Ajisai provides a satisfying dining experience that highlights fresh
+  ingredients and thoughtful ambiance.
+generative_summary: >-
+  Discover Ajisai in Raleigh, North Carolina$$$Ajisai in Raleigh, North
+  Carolina, stands out as a modern Japanese restaurant offering fresh sushi
+  rolls and sashimi in an upscale yet relaxed atmosphere. This spot delivers a
+  variety of authentic Japanese dishes, blending traditional flavors with
+  creative presentations that appeal to sushi enthusiasts exploring local
+  options. With its moody ambiance and thoughtful accessibility features, it
+  creates an inviting space for enjoying top-rated Japanese cuisine without the
+  formality of a high-end venue. Prices remain moderate, making it a go-to
+  choice for those seeking quality meals in a welcoming setting. Whether you're
+  in the mood for sushi near me or simply craving flavorful Japanese fare,
+  Ajisai provides a satisfying dining experience that highlights fresh
+  ingredients and thoughtful ambiance.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJVdwS3Ir1rIkRG8WjkAkvYN8/reviews/ChdDSUhNMG9nS0VJQ0FnTURRenRhcWdnRRAB
@@ -412,6 +437,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN2Ni1xMWRREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN2Ni1xMWRREAE!2m1!1s0x89acf58adc12dc55:0xdf602f0990a3c51b
+review_summary: >-
+  What Visitors Are Saying About Ajisai$$$People often praise the sushi here as
+  some of the freshest and most flavorful around, with highlights on creative
+  rolls and well-balanced dishes that make every bite enjoyable. The atmosphere
+  comes across as hip and modern, offering a peaceful vibe that's perfect for
+  casual dinners or group outings without feeling overwhelming. While most
+  feedback appreciates the attentive service and fair pricing, a few mentions
+  note occasional mix-ups with orders, though these don't overshadow the overall
+  positives. It's clear that the variety of options, from light appetizers to
+  hearty entrees, keeps diners coming back for more satisfying experiences. If
+  you're hunting for reliable Japanese places near me, this spot generally earns
+  high marks for delivering tasty meals in a comfortable environment.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -444,8 +482,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Modern restaurant featuring a variety of sushi rolls & other Japanese dishes
   in a moody atmosphere.
 

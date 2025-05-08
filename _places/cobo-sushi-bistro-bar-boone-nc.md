@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "CoBo Sushi Bistro & Bar"
+title: CoBo Sushi Bistro & Bar
 permalink: /north-carolina/boone/cobo-sushi-bistro-bar.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Boone
 seo:
-  name: "CoBo Sushi Bistro & Bar"
-  type: Restaurant
+  type: restaurant
   links: http://cobosushi.com/
-description: "CoBo Sushi Bistro & Bar serves delicious sushi in Boone, North Carolina. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJy2G8tA76UIgRmJXILJdCMS8
 photos:
   - name: >-
@@ -169,7 +167,49 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8850fa0eb4bc61cb:0x2f3142972cc89598!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 16
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 4:00 – 9:00 PM'
     - 'Wednesday: 4:00 – 9:00 PM'
@@ -177,14 +217,7 @@ opening_hours:
     - 'Friday: 4:00 – 10:00 PM'
     - 'Saturday: 4:00 – 10:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 4:00 – 9:00 PM'
-    - 'Wednesday: 4:00 – 9:00 PM'
-    - 'Thursday: 4:00 – 9:00 PM'
-    - 'Friday: 4:00 – 10:00 PM'
-    - 'Saturday: 4:00 – 10:00 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,9 +229,47 @@ phone: (828) 386-1201
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.7'
-rating_count: 0
+rating_count: 881
 website: http://cobosushi.com/
+description: >-
+  Discover CoBo Sushi in Boone, NC$$$CoBo Sushi Bistro & Bar in Boone, NC,
+  stands out as a premier spot for fresh Japanese cuisine, blending traditional
+  sushi with innovative dishes in a vibrant atmosphere. This sushi restaurant
+  near Boone offers an array of expertly crafted rolls and appetizers,
+  complemented by seasonal cocktails and a selection of sake that enhance the
+  dining experience. Patrons can enjoy a hip, modern setting that's perfect for
+  those seeking top-rated sushi options close to home, with accessibility
+  features like wheelchair-friendly entrances adding to its appeal. Whether
+  you're exploring sushi places near me or looking for a relaxing evening out,
+  the focus on quality ingredients and creative flavors makes it a go-to choice
+  for authentic Japanese fare.
+generative_summary: >-
+  Discover CoBo Sushi in Boone, NC$$$CoBo Sushi Bistro & Bar in Boone, NC,
+  stands out as a premier spot for fresh Japanese cuisine, blending traditional
+  sushi with innovative dishes in a vibrant atmosphere. This sushi restaurant
+  near Boone offers an array of expertly crafted rolls and appetizers,
+  complemented by seasonal cocktails and a selection of sake that enhance the
+  dining experience. Patrons can enjoy a hip, modern setting that's perfect for
+  those seeking top-rated sushi options close to home, with accessibility
+  features like wheelchair-friendly entrances adding to its appeal. Whether
+  you're exploring sushi places near me or looking for a relaxing evening out,
+  the focus on quality ingredients and creative flavors makes it a go-to choice
+  for authentic Japanese fare.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Raving About$$$Folks heading to this sushi spot often
+  highlight the mouthwatering sushi and tasty shrimp appetizers that make every
+  meal feel special and satisfying. Many appreciate the lively, fun vibe that
+  keeps the energy high without overwhelming the experience, creating a
+  welcoming environment for casual get-togethers. Reviewers frequently note the
+  excellent value for the price, especially when it comes to the fresh and
+  well-prepared dishes that stand out among local options. Overall, it's clear
+  that diners enjoy the reliable quality and atmosphere, making it a solid pick
+  if you're on the hunt for great sushi restaurants nearby. While not every
+  visit is flawless, the positive feedback on flavor and service keeps the buzz
+  going strong for those craving a memorable meal.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -224,7 +295,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

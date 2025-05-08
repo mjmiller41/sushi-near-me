@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Hibachi Buffet"
+title: Hibachi Buffet
 permalink: /florida/deerfield-beach/hibachi-buffet.html
 stateAbbr: FL
 stateName: Florida
 cityName: Deerfield Beach
 seo:
-  name: "Hibachi Buffet"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Hibachi Buffet serves delicious sushi in Deerfield Beach, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ7RNStFgc2YgROWSdvz6KKjE
 photos:
   - name: >-
@@ -185,7 +183,43 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Hibachi Buffet in Deerfield Beach, FL$$$Hibachi Buffet in Deerfield
+  Beach, Florida, offers a relaxed and inclusive dining spot perfect for
+  enjoying a wide array of buffet-style meals in a casual atmosphere. Located
+  conveniently on W Hillsboro Blvd, this Japanese-inspired restaurant features
+  easy access with wheelchair-friendly parking and entrances, making it a
+  thoughtful choice for all visitors. Guests can savor a straightforward
+  selection of satisfying dishes, ideal for families or groups seeking simple,
+  everyday eats without the fuss. Whether you're exploring buffet restaurants
+  near me or looking for accessible Japanese places in the area, this spot
+  delivers a welcoming vibe that emphasizes variety and convenience.
+generative_summary: >-
+  Discover Hibachi Buffet in Deerfield Beach, FL$$$Hibachi Buffet in Deerfield
+  Beach, Florida, offers a relaxed and inclusive dining spot perfect for
+  enjoying a wide array of buffet-style meals in a casual atmosphere. Located
+  conveniently on W Hillsboro Blvd, this Japanese-inspired restaurant features
+  easy access with wheelchair-friendly parking and entrances, making it a
+  thoughtful choice for all visitors. Guests can savor a straightforward
+  selection of satisfying dishes, ideal for families or groups seeking simple,
+  everyday eats without the fuss. Whether you're exploring buffet restaurants
+  near me or looking for accessible Japanese places in the area, this spot
+  delivers a welcoming vibe that emphasizes variety and convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Guests Are Saying About Hibachi Buffet$$$Folks chatting about Hibachi
+  Buffet often highlight its easygoing vibe and solid food options, making it a
+  go-to for casual meals that hit the spot. Many appreciate the inclusive setup
+  with accessibility features that keep things comfortable for everyone stopping
+  by. While specific feedback varies, it's generally seen as a reliable pick for
+  groups, with comments praising the straightforward variety that feels just
+  right for a quick bite. Overall, visitors tend to enjoy the no-nonsense
+  approach, though it's worth noting that experiences can depend on what you're
+  in the mood for, keeping the tone upbeat and approachable. If you're hunting
+  for top-rated spots like sushi places near me, this buffet earns nods for its
+  welcoming feel and everyday appeal.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +245,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

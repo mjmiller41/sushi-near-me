@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "I'm Sushi"
+title: I'm Sushi
 permalink: /rhode-island/newport/i-m-sushi.html
 stateAbbr: RI
 stateName: Rhode Island
 cityName: Newport
 seo:
-  name: "I'm Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.im-sushi.com/
-description: "I'm Sushi serves delicious sushi in Newport, Rhode Island. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ5wq8XVyv5YkRdJzMFbiIvQ8
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 0
 website: https://www.im-sushi.com/
+description: >-
+  Explore I'm Sushi in Newport, RI$$$I'm Sushi in Newport, Rhode Island, stands
+  out as a casual sushi destination offering a welcoming atmosphere for those
+  seeking fresh Japanese-inspired dishes. This spot features an all-you-can-eat
+  menu for both lunch and dinner, complemented by a selection of beer and wine,
+  making it ideal for relaxed meals with friends or family. With its emphasis on
+  affordable pricing and accessibility options like wheelchair-friendly
+  entrances and parking, it's designed to accommodate a variety of diners
+  looking for top-rated sushi options nearby. The restaurant's laid-back vibe
+  and focus on healthy, flavorful choices ensure a satisfying experience for
+  anyone exploring sushi restaurants in the area. Whether you're in the mood for
+  inventive rolls or classic favorites, this Newport gem provides a
+  straightforward yet enjoyable way to enjoy quality sushi close to home.
+generative_summary: >-
+  Explore I'm Sushi in Newport, RI$$$I'm Sushi in Newport, Rhode Island, stands
+  out as a casual sushi destination offering a welcoming atmosphere for those
+  seeking fresh Japanese-inspired dishes. This spot features an all-you-can-eat
+  menu for both lunch and dinner, complemented by a selection of beer and wine,
+  making it ideal for relaxed meals with friends or family. With its emphasis on
+  affordable pricing and accessibility options like wheelchair-friendly
+  entrances and parking, it's designed to accommodate a variety of diners
+  looking for top-rated sushi options nearby. The restaurant's laid-back vibe
+  and focus on healthy, flavorful choices ensure a satisfying experience for
+  anyone exploring sushi restaurants in the area. Whether you're in the mood for
+  inventive rolls or classic favorites, this Newport gem provides a
+  straightforward yet enjoyable way to enjoy quality sushi close to home.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ5wq8XVyv5YkRdJzMFbiIvQ8/reviews/ChZDSUhNMG9nS0VJQ0FnSUNfai1EemRBEAE
@@ -328,6 +353,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQzeDQtWVNREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQzeDQtWVNREAE!2m1!1s0x89e5af5c5dbc0ae7:0xfbd88b815cc9c74
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors often rave about the fresh and
+  flavorful sushi at this spot, highlighting its great value for money and
+  speedy service that keeps things efficient and enjoyable. Many appreciate the
+  all-you-can-eat deals and variety of options, making it a solid choice for
+  groups or anyone craving reliable Japanese fare without breaking the bank.
+  While some note that portions on certain dishes might feel a bit light or that
+  the ambiance could use a touch more polish, the overall consensus leans
+  positive with praise for the healthy ingredients and friendly atmosphere.
+  Folks frequently mention returning for the consistent quality and recommend it
+  as a go-to for casual dining experiences in the region. If you're hunting for
+  the best sushi near you, this place delivers a generally satisfying meal that
+  balances fun and affordability.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   valetParking: false
@@ -359,7 +398,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

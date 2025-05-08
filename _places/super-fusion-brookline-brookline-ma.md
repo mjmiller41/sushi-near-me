@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Super Fusion Brookline"
+title: Super Fusion Brookline
 permalink: /massachusetts/brookline/super-fusion-brookline.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Brookline
 seo:
-  name: "Super Fusion Brookline"
-  type: Restaurant
+  type: restaurant
   links: http://www.superfusionbrookline.com/
-description: "Super Fusion Brookline serves delicious sushi in Brookline, Massachusetts. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJYe2gXbB544kR7TGExpF5l6I
 photos:
   - name: >-
@@ -167,7 +165,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89e379b05da0ed61:0xa2977991c68431ed!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:30 AM – 10:00 PM'
     - 'Wednesday: 11:30 AM – 10:00 PM'
@@ -175,14 +223,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 11:00 PM'
     - 'Saturday: 11:30 AM – 11:00 PM'
     - 'Sunday: 12:00 – 10:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:30 AM – 10:00 PM'
-    - 'Wednesday: 11:30 AM – 10:00 PM'
-    - 'Thursday: 11:30 AM – 10:00 PM'
-    - 'Friday: 11:30 AM – 11:00 PM'
-    - 'Saturday: 11:30 AM – 11:00 PM'
-    - 'Sunday: 12:00 – 10:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -193,10 +234,50 @@ secondary_opening_hours:
 phone: (617) 277-8221
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
-rating: '4.6'
-rating_count: 0
+rating: '4.7'
+rating_count: 223
 website: http://www.superfusionbrookline.com/
+description: >-
+  Discover Super Fusion Brookline in Massachusetts$$$Nestled in the heart of
+  Brookline, Massachusetts, Super Fusion Brookline stands out as a welcoming
+  spot for sushi enthusiasts seeking fresh and flavorful Japanese cuisine. This
+  casual eatery boasts an extensive array of sushi rolls and comforting dishes,
+  catering to a variety of tastes with thoughtful vegetarian options that add to
+  its appeal. Patrons can enjoy a relaxed atmosphere where creative
+  presentations meet high-quality ingredients, making it a go-to choice for
+  anyone exploring local sushi restaurants. With convenient hours that include
+  evenings and weekends, it's an ideal destination for a satisfying meal that
+  balances taste and affordability. Whether you're in the mood for innovative
+  rolls or classic comfort fare, this spot delivers a memorable dining
+  experience right in your neighborhood.
+generative_summary: >-
+  Discover Super Fusion Brookline in Massachusetts$$$Nestled in the heart of
+  Brookline, Massachusetts, Super Fusion Brookline stands out as a welcoming
+  spot for sushi enthusiasts seeking fresh and flavorful Japanese cuisine. This
+  casual eatery boasts an extensive array of sushi rolls and comforting dishes,
+  catering to a variety of tastes with thoughtful vegetarian options that add to
+  its appeal. Patrons can enjoy a relaxed atmosphere where creative
+  presentations meet high-quality ingredients, making it a go-to choice for
+  anyone exploring local sushi restaurants. With convenient hours that include
+  evenings and weekends, it's an ideal destination for a satisfying meal that
+  balances taste and affordability. Whether you're in the mood for innovative
+  rolls or classic comfort fare, this spot delivers a memorable dining
+  experience right in your neighborhood.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About This Sushi Spot$$$Folks around town often rave
+  about the solid quality of fish and the inventive sushi rolls that keep things
+  exciting without overwhelming the palate. Many appreciate the efficient
+  service that makes grabbing a bite feel seamless and enjoyable, especially
+  when you're looking for great value that doesn't break the bank. Reviewers
+  frequently note the freshness of the ingredients, which elevates the overall
+  meal and leaves you feeling satisfied. It's clear that this place strikes a
+  nice balance between tasty options and reasonable prices, making it a reliable
+  pick for casual diners. Overall, the feedback paints a picture of a welcoming
+  sushi restaurant that's worth checking out for anyone searching for
+  dependable, budget-friendly eats nearby.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -222,7 +303,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

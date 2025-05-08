@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Omakase"
+title: Omakase
 permalink: /california/san-francisco/omakase.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
 seo:
-  name: "Omakase"
-  type: Restaurant
-  links: null
-description: "Omakase serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.omakasesf.com/
 place_id: ChIJFYz55yx-j4ARFUpWF0lt4gw
 photos:
   - name: >-
@@ -169,8 +167,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x808f7e2ce7f98c15:0xce26d4917564a15!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 5:00 – 9:30 PM'
+    - 'Tuesday: 5:00 – 9:30 PM'
+    - 'Wednesday: Closed'
+    - 'Thursday: 5:00 – 9:30 PM'
+    - 'Friday: 5:00 – 9:30 PM'
+    - 'Saturday: 5:00 – 9:30 PM'
+    - 'Sunday: 5:00 – 9:30 PM'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -178,13 +233,51 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (415) 865-0633
+price_level: PRICE_LEVEL_VERY_EXPENSIVE
+price_range: $100 &ndash; & up
+rating: '4.7'
+rating_count: 421
+website: http://www.omakasesf.com/
+description: >-
+  Experience Omakase in San Francisco$$$Omakase in San Francisco, California,
+  stands out as an intimate sushi bar that specializes in edomae-style dining,
+  offering a curated tasting menu designed to delight sushi enthusiasts. The
+  venue features fresh, high-quality ingredients expertly prepared for a
+  memorable culinary journey, complemented by thoughtful sake pairings that
+  enhance each bite. With its focus on accessibility, including
+  wheelchair-friendly entrances and seating, it's an inviting spot for a wide
+  range of diners seeking authentic Japanese flavors. Evening hours from 5 PM
+  make it a perfect choice for those exploring top sushi restaurants in the
+  area, where the emphasis on quality and presentation creates an elevated
+  dining experience.
+generative_summary: >-
+  Experience Omakase in San Francisco$$$Omakase in San Francisco, California,
+  stands out as an intimate sushi bar that specializes in edomae-style dining,
+  offering a curated tasting menu designed to delight sushi enthusiasts. The
+  venue features fresh, high-quality ingredients expertly prepared for a
+  memorable culinary journey, complemented by thoughtful sake pairings that
+  enhance each bite. With its focus on accessibility, including
+  wheelchair-friendly entrances and seating, it's an inviting spot for a wide
+  range of diners seeking authentic Japanese flavors. Evening hours from 5 PM
+  make it a perfect choice for those exploring top sushi restaurants in the
+  area, where the emphasis on quality and presentation creates an elevated
+  dining experience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Visitors to this sushi spot often highlight the
+  exceptional quality of the dishes, praising the fresh flavors and creative
+  presentations that make every meal feel special. Many appreciate the attentive
+  service and cozy atmosphere, which add to the overall enjoyment without
+  overwhelming the senses. While some note that the pricing leans toward the
+  premium side, the consensus is that it's worth it for the authentic taste and
+  expert preparation. Overall, feedback suggests it's a go-to for anyone craving
+  reliable Japanese cuisine nearby, with the high ratings reflecting a
+  satisfying experience for groups or solo diners alike. If you're on the hunt
+  for great sushi places in the neighborhood, this one consistently delivers on
+  taste and vibe.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +303,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

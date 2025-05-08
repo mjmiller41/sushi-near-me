@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Musashi Japanese Steakhouse"
+title: Musashi Japanese Steakhouse
 permalink: /virginia/gainesville/musashi-japanese-steakhouse.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Gainesville
 seo:
-  name: "Musashi Japanese Steakhouse"
-  type: Restaurant
+  type: restaurant
   links: http://musashijs.com/
-description: "Convivial stop for meat & seafood cooked on tableside hibachi grills, plus a sushi bar. Musashi Japanese Steakhouse serves delicious sushi in Gainesville, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJT1VVVUVmtokRpotXPBtQY6o
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $30 &ndash; $50
 rating: '4.4'
 rating_count: 0
 website: http://musashijs.com/
+description: >-
+  Experience Musashi Japanese Steakhouse in Gainesville, VA$$$Musashi Japanese
+  Steakhouse in Gainesville, VA, offers a lively dining experience centered
+  around fresh sushi and expertly prepared hibachi dishes in a casual, welcoming
+  setting. This spot features entertaining tableside cooking with hibachi
+  grills, making it a fun choice for those seeking authentic Japanese flavors
+  right in your neighborhood. Patrons can enjoy a variety of sushi options
+  alongside classic entrees, all served in an atmosphere that's perfect for
+  groups or families looking for a memorable meal. The restaurant prioritizes
+  accessibility with features like wheelchair-friendly seating and parking,
+  ensuring everyone can savor the experience. Whether you're in the mood for
+  top-rated sushi or a lively Japanese dining adventure, this location stands
+  out for its blend of quality cuisine and engaging service.
+generative_summary: >-
+  Experience Musashi Japanese Steakhouse in Gainesville, VA$$$Musashi Japanese
+  Steakhouse in Gainesville, VA, offers a lively dining experience centered
+  around fresh sushi and expertly prepared hibachi dishes in a casual, welcoming
+  setting. This spot features entertaining tableside cooking with hibachi
+  grills, making it a fun choice for those seeking authentic Japanese flavors
+  right in your neighborhood. Patrons can enjoy a variety of sushi options
+  alongside classic entrees, all served in an atmosphere that's perfect for
+  groups or families looking for a memorable meal. The restaurant prioritizes
+  accessibility with features like wheelchair-friendly seating and parking,
+  ensuring everyone can savor the experience. Whether you're in the mood for
+  top-rated sushi or a lively Japanese dining adventure, this location stands
+  out for its blend of quality cuisine and engaging service.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJT1VVVUVmtokRpotXPBtQY6o/reviews/ChZDSUhNMG9nS0VJQ0FnSUM3NlpyMkRREAE
@@ -424,6 +449,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURhcVBDT1NnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURhcVBDT1NnEAE!2m1!1s0x89b666455555554f:0xaa63501b3c578ba6
+review_summary: >-
+  Insights from Recent Reviews$$$Diners often praise the outstanding sushi and
+  hibachi selections at this spot, highlighting the fresh flavors and
+  entertaining preparation that make meals feel special and satisfying. While
+  some folks note occasional waits during busy times, many agree that the
+  delicious food and attentive staff make it well worth the visit for anyone
+  craving quality Japanese options nearby. The overall vibe comes across as fun
+  and family-friendly, with reviewers frequently mentioning the tasty rolls and
+  grilled dishes as standout features that keep them coming back. It's clear
+  that this place shines for its flavorful entrees and welcoming environment,
+  offering a solid pick for casual evenings out. If you're exploring sushi
+  restaurants in the area, this one earns high marks for delivering an enjoyable
+  experience with a mix of excitement and great tastes.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -455,8 +494,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Convivial stop for meat & seafood cooked on tableside hibachi grills, plus a
   sushi bar.
 

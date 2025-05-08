@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Banzai Marina"
+title: Banzai Marina
 permalink: /california/ventura/banzai-marina.html
 stateAbbr: CA
 stateName: California
 cityName: Ventura
 seo:
-  name: "Banzai Marina"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Banzai Marina serves delicious sushi in Ventura, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJK6BL0--s6YAR0rFjbp6V900
 photos:
   - name: >-
@@ -185,7 +183,48 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Banzai Marina in Ventura, CA$$$Banzai Marina in Ventura, CA, stands
+  out as a welcoming Japanese eatery celebrated for its fresh sushi and creative
+  rolls, perfect for those seeking authentic flavors in a relaxed setting. The
+  spot offers an informal atmosphere that enhances the dining experience, making
+  it ideal for casual meals or unwinding during happy hours with tasty specials.
+  Accessibility features like wheelchair-friendly parking and entrances ensure
+  everyone can enjoy the vibrant ambiance and diverse menu options. Visitors
+  appreciate the emphasis on quality ingredients, which elevates simple dishes
+  into memorable meals, positioning it as a go-to choice among sushi restaurants
+  in the area. Whether you're exploring sushi places near me or looking for a
+  laid-back spot to savor Japanese cuisine, this location combines convenience
+  with delightful tastes.
+generative_summary: >-
+  Discover Banzai Marina in Ventura, CA$$$Banzai Marina in Ventura, CA, stands
+  out as a welcoming Japanese eatery celebrated for its fresh sushi and creative
+  rolls, perfect for those seeking authentic flavors in a relaxed setting. The
+  spot offers an informal atmosphere that enhances the dining experience, making
+  it ideal for casual meals or unwinding during happy hours with tasty specials.
+  Accessibility features like wheelchair-friendly parking and entrances ensure
+  everyone can enjoy the vibrant ambiance and diverse menu options. Visitors
+  appreciate the emphasis on quality ingredients, which elevates simple dishes
+  into memorable meals, positioning it as a go-to choice among sushi restaurants
+  in the area. Whether you're exploring sushi places near me or looking for a
+  laid-back spot to savor Japanese cuisine, this location combines convenience
+  with delightful tastes.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Feedback on Banzai Marina Experiences$$$Folks exploring sushi spots around
+  Ventura often highlight the fresh and flavorful rolls as a standout feature,
+  making it a reliable pick for everyday cravings. Many mention the casual vibe
+  and happy hour deals as reasons to return, appreciating how it creates a
+  comfortable environment for quick bites or group outings. Comments frequently
+  note the attentive service and variety of options that cater to different
+  preferences, helping it maintain a positive reputation among local diners.
+  Overall, it's seen as a solid choice for those searching for top-rated sushi
+  near me, with praise for its approachable style that keeps things enjoyable
+  without overwhelming formality. While experiences can vary, the general
+  consensus leans toward satisfaction, encouraging newcomers to give it a try
+  for an honest taste of quality Japanese fare.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +250,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

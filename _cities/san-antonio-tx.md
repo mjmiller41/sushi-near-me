@@ -5,4 +5,5 @@ permalink: /texas/san-antonio/
 stateAbbr: TX
 stateName: Texas
 cityName: San Antonio
+
 ---

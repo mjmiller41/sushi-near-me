@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Roll & Rock Sushi and Hibachi"
+title: Roll & Rock Sushi and Hibachi
 permalink: /oklahoma/oklahoma-city/roll-rock-sushi-and-hibachi.html
 stateAbbr: OK
 stateName: Oklahoma
 cityName: Oklahoma City
 seo:
-  name: "Roll & Rock Sushi and Hibachi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Roll & Rock Sushi and Hibachi serves delicious sushi in Oklahoma City, Oklahoma. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJj1HZjdAasocRXlMlJI0dV34
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x87b21ad08dd9518f:0x7e571d8d2425535e!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 20
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 20
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 20
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 8:00 PM'
     - 'Tuesday: 11:00 AM – 8:00 PM'
     - 'Wednesday: 11:00 AM – 8:00 PM'
@@ -178,54 +226,365 @@ opening_hours:
     - 'Friday: 11:00 AM – 8:00 PM'
     - 'Saturday: 11:00 AM – 8:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:00 AM – 8:00 PM'
-    - 'Tuesday: 11:00 AM – 8:00 PM'
-    - 'Wednesday: 11:00 AM – 8:00 PM'
-    - 'Thursday: 11:00 AM – 8:00 PM'
-    - 'Friday: 11:00 AM – 8:00 PM'
-    - 'Saturday: 11:00 AM – 8:00 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T01:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 1
+          hour: 11
+          minute: 0
+        close:
+          day: 1
+          hour: 19
+          minute: 0
+      - open:
+          day: 2
+          hour: 11
+          minute: 0
+        close:
+          day: 2
+          hour: 19
+          minute: 0
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 19
+          minute: 0
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 19
+          minute: 0
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 19
+          minute: 0
+      - open:
+          day: 6
+          hour: 11
+          minute: 0
+        close:
+          day: 6
+          hour: 19
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 11:00 AM – 7:00 PM'
+      - 'Tuesday: 11:00 AM – 7:00 PM'
+      - 'Wednesday: 11:00 AM – 7:00 PM'
+      - 'Thursday: 11:00 AM – 7:00 PM'
+      - 'Friday: 11:00 AM – 7:00 PM'
+      - 'Saturday: 11:00 AM – 7:00 PM'
+      - 'Sunday: Closed'
+    secondaryHoursType: DELIVERY
+    nextCloseTime: '2025-05-04T00:00:00Z'
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 11
+          minute: 0
+        close:
+          day: 1
+          hour: 4
+          minute: 0
+      - open:
+          day: 1
+          hour: 11
+          minute: 0
+        close:
+          day: 1
+          hour: 20
+          minute: 0
+      - open:
+          day: 2
+          hour: 11
+          minute: 0
+        close:
+          day: 2
+          hour: 20
+          minute: 0
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 20
+          minute: 0
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 20
+          minute: 0
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 20
+          minute: 0
+      - open:
+          day: 6
+          hour: 11
+          minute: 0
+        close:
+          day: 6
+          hour: 20
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 11:00 AM – 8:00 PM'
+      - 'Tuesday: 11:00 AM – 8:00 PM'
+      - 'Wednesday: 11:00 AM – 8:00 PM'
+      - 'Thursday: 11:00 AM – 8:00 PM'
+      - 'Friday: 11:00 AM – 8:00 PM'
+      - 'Saturday: 11:00 AM – 8:00 PM'
+      - 'Sunday: 11:00 AM – 4:00 AM'
+    secondaryHoursType: TAKEOUT
+    nextCloseTime: '2025-05-04T01:00:00Z'
 phone: (405) 773-1302
 price_level: PRICE_LEVEL_INEXPENSIVE
 price_range: $10 &ndash; $20
 rating: '4.6'
-rating_count: 0
+rating_count: 742
 website: null
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Roll & Rock Sushi and Hibachi in Oklahoma City, OK$$$Nestled in
+  Oklahoma City, OK, Roll & Rock Sushi and Hibachi stands out as a go-to spot
+  for fresh Japanese-inspired cuisine, offering a relaxed atmosphere perfect for
+  casual dining. This welcoming sushi restaurant features an array of flavorful
+  options like expertly crafted rolls and teriyaki dishes, making it a favorite
+  among those seeking authentic tastes in a comfortable setting. With
+  accessibility features such as wheelchair-friendly entrances and parking, it's
+  designed to accommodate everyone looking for a seamless meal experience. The
+  menu highlights affordable Japanese staples, including poke bowls and other
+  light fare, ideal for locals or visitors exploring sushi restaurants nearby.
+  Whether you're in the mood for a quick lunch or an evening out, this spot
+  delivers on quality and convenience for those searching for top-rated sushi
+  options.
+generative_summary: >-
+  Discover Roll & Rock Sushi and Hibachi in Oklahoma City, OK$$$Nestled in
+  Oklahoma City, OK, Roll & Rock Sushi and Hibachi stands out as a go-to spot
+  for fresh Japanese-inspired cuisine, offering a relaxed atmosphere perfect for
+  casual dining. This welcoming sushi restaurant features an array of flavorful
+  options like expertly crafted rolls and teriyaki dishes, making it a favorite
+  among those seeking authentic tastes in a comfortable setting. With
+  accessibility features such as wheelchair-friendly entrances and parking, it's
+  designed to accommodate everyone looking for a seamless meal experience. The
+  menu highlights affordable Japanese staples, including poke bowls and other
+  light fare, ideal for locals or visitors exploring sushi restaurants nearby.
+  Whether you're in the mood for a quick lunch or an evening out, this spot
+  delivers on quality and convenience for those searching for top-rated sushi
+  options.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJj1HZjdAasocRXlMlJI0dV34/reviews/ChZDSUhNMG9nS0VJQ0FnTURvdUtIMGFBEAE
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        A hidden gem in OKC with an extensive sushi menu, fresh ingredients, and
+        one of the best gyoza’s in the city. Their fried rice is equally
+        amazing. The owner is super nice and the vibe is lowkey.
+      languageCode: en
+    originalText:
+      text: >-
+        A hidden gem in OKC with an extensive sushi menu, fresh ingredients, and
+        one of the best gyoza’s in the city. Their fried rice is equally
+        amazing. The owner is super nice and the vibe is lowkey.
+      languageCode: en
+    authorAttribution:
+      displayName: Jade Kelley
+      uri: https://www.google.com/maps/contrib/115153819503698630421/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUVtUNTa5WDn2atkTMVzjYjp9scCokn2_Rtt82vKLAGlL_fm1rSPQ=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-21T21:24:22.795338Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURvdUtIMGFBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURvdUtIMGFBEAE!2m1!1s0x87b21ad08dd9518f:0x7e571d8d2425535e
+  - name: >-
+      places/ChIJj1HZjdAasocRXlMlJI0dV34/reviews/ChdDSUhNMG9nS0VJQ0FnTURJZ09xeTJ3RRAB
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 5
+    text:
+      text: >-
+        They were so good! The service was great, food was delicious, and fast.
+        Extremely reasonable prices too. I had forgotten my leftovers on the
+        table and when I returned they made me a fresh meal. 10/10 recommend!
+      languageCode: en
+    originalText:
+      text: >-
+        They were so good! The service was great, food was delicious, and fast.
+        Extremely reasonable prices too. I had forgotten my leftovers on the
+        table and when I returned they made me a fresh meal. 10/10 recommend!
+      languageCode: en
+    authorAttribution:
+      displayName: Olivia Antonelli
+      uri: https://www.google.com/maps/contrib/105969750448901487364/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXGJJgvnaQhNGzU_kp1fTNYRnBMnxED6Lq4VH9lzayNCO35nvU=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-06T01:25:17.633704Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJZ09xeTJ3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJZ09xeTJ3RRAB!2m1!1s0x87b21ad08dd9518f:0x7e571d8d2425535e
+  - name: >-
+      places/ChIJj1HZjdAasocRXlMlJI0dV34/reviews/ChZDSUhNMG9nS0VJQ0FnTUNnNnJMYUZnEAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        Hidden gem in OKC! ⭐⭐⭐⭐⭐
+
+
+        We weren’t expecting much when we walked into Roll and Rock Sushi, but
+        wow—this place seriously surprised us! We got the set for two, Primavera
+        roll, edamame, rice, soup, and sushi, and everything was so good. The
+        sushi was fresh and flavorful, the edamame was perfectly seasoned, and
+        the soup was super comforting. On top of that, the service was great,
+        and the vibe was cozy and welcoming. Definitely a new favorite
+        spot—can’t wait to go back!
+      languageCode: en
+    originalText:
+      text: >-
+        Hidden gem in OKC! ⭐⭐⭐⭐⭐
+
+
+        We weren’t expecting much when we walked into Roll and Rock Sushi, but
+        wow—this place seriously surprised us! We got the set for two, Primavera
+        roll, edamame, rice, soup, and sushi, and everything was so good. The
+        sushi was fresh and flavorful, the edamame was perfectly seasoned, and
+        the soup was super comforting. On top of that, the service was great,
+        and the vibe was cozy and welcoming. Definitely a new favorite
+        spot—can’t wait to go back!
+      languageCode: en
+    authorAttribution:
+      displayName: Maria Zuccaro
+      uri: https://www.google.com/maps/contrib/115602659866539834944/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXL8wQkwDZiCfx8aVISnQ6_OHbPV9OsFnC77oY3xknI6cChRZg=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-02-16T04:00:34.178845Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNnNnJMYUZnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNnNnJMYUZnEAE!2m1!1s0x87b21ad08dd9518f:0x7e571d8d2425535e
+  - name: >-
+      places/ChIJj1HZjdAasocRXlMlJI0dV34/reviews/ChZDSUhNMG9nS0VJQ0FnSUNmejktZENREAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        this place is amazing! i highly recommend the sassy roll and the miso
+        soup. everything was delicious and the service was great! our
+        waitress/the girl at the counter was so polite the prices were very
+        reasonable as well!
+      languageCode: en
+    originalText:
+      text: >-
+        this place is amazing! i highly recommend the sassy roll and the miso
+        soup. everything was delicious and the service was great! our
+        waitress/the girl at the counter was so polite the prices were very
+        reasonable as well!
+      languageCode: en
+    authorAttribution:
+      displayName: jadin proctor
+      uri: https://www.google.com/maps/contrib/109413806971728457174/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKgcX-pSH_eNLOxFMlDdlEkjsypKImkoskrXMBG0wKv2br46A=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-01-02T19:33:28.461131Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNmejktZENREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNmejktZENREAE!2m1!1s0x87b21ad08dd9518f:0x7e571d8d2425535e
+  - name: >-
+      places/ChIJj1HZjdAasocRXlMlJI0dV34/reviews/ChdDSUhNMG9nS0VJQ0FnSURmOWVIRWtnRRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        Very delicious and well done sushi! Outstanding service! I had a small
+        issue and they were great about resolving it. You can tell they really
+        care about the customer. 😊
+      languageCode: en
+    originalText:
+      text: >-
+        Very delicious and well done sushi! Outstanding service! I had a small
+        issue and they were great about resolving it. You can tell they really
+        care about the customer. 😊
+      languageCode: en
+    authorAttribution:
+      displayName: Melisa Fuentes
+      uri: https://www.google.com/maps/contrib/106317535806012878471/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXm9owGhWuee0skx9fFj6cI3_Kx-vjq4UvKXhecDWC1YB8g7bGw=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-01-09T01:45:13.879042Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURmOWVIRWtnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURmOWVIRWtnRRAB!2m1!1s0x87b21ad08dd9518f:0x7e571d8d2425535e
+review_summary: >-
+  What Customers Love About This Sushi Spot$$$Visitors often rave about the
+  fresh and flavorful sushi rolls, with many highlighting creative choices like
+  the Sassy Roll as standout favorites that keep them coming back for more.
+  Folks appreciate the fast and friendly service, along with reasonable prices
+  that make it easy to enjoy a satisfying meal without breaking the bank. The
+  overall vibe comes across as cozy and welcoming, with staff going the extra
+  mile to ensure a positive experience, such as handling any issues with care.
+  If you're on the hunt for sushi places near you, this location frequently gets
+  nods for its tasty appetizers and solid portions that leave diners feeling
+  happy and full. All in all, it's a reliable choice for anyone craving Japanese
+  dishes, with the general consensus leaning toward it being a hidden gem worth
+  trying for its consistent quality and approachable feel.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: false
+restroom: true
+serves_beer: false
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: false
+serves_coffee: true
+serves_dinner: true
+serves_dessert: false
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: false
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

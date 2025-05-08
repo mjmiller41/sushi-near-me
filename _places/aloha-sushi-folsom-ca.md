@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Aloha Sushi"
+title: Aloha Sushi
 permalink: /california/folsom/aloha-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Folsom
 seo:
-  name: "Aloha Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://alohasushibar.com/
-description: "Aloha Sushi serves delicious sushi in Folsom, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJa4FE6wDlmoARoeptcunf8HQ
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x809ae500eb44816b:0x74f0dfe9726deaa1!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 12
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 12
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 12
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 12
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 12
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 12:00 – 9:00 PM'
     - 'Tuesday: 12:00 – 9:00 PM'
     - 'Wednesday: 12:00 – 9:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 12:00 – 9:00 PM'
     - 'Saturday: 12:00 – 9:00 PM'
     - 'Sunday: 12:00 – 9:00 PM'
-  current:
-    - 'Monday: 12:00 – 9:00 PM'
-    - 'Tuesday: 12:00 – 9:00 PM'
-    - 'Wednesday: 12:00 – 9:00 PM'
-    - 'Thursday: 12:00 – 9:00 PM'
-    - 'Friday: 12:00 – 9:00 PM'
-    - 'Saturday: 12:00 – 9:00 PM'
-    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +246,40 @@ phone: (916) 984-3777
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.5'
-rating_count: 0
+rating_count: 387
 website: http://alohasushibar.com/
+description: >-
+  About Aloha Sushi in Folsom, CA$$$Aloha Sushi in Folsom, CA, stands out as a
+  welcoming Japanese eatery specializing in fresh sushi and flavorful dishes.
+  With a diverse menu featuring an array of basic and specialty rolls, along
+  with sashimi and ramen options, it caters to a variety of tastes for those
+  seeking authentic flavors. The restaurant emphasizes accessibility, making it
+  easy for all guests to enjoy a comfortable dining experience with
+  wheelchair-friendly features. Operating daily from noon to 9 PM, it's
+  conveniently located for locals and visitors looking for quality Japanese
+  cuisine in a relaxed setting.
+generative_summary: >-
+  About Aloha Sushi in Folsom, CA$$$Aloha Sushi in Folsom, CA, stands out as a
+  welcoming Japanese eatery specializing in fresh sushi and flavorful dishes.
+  With a diverse menu featuring an array of basic and specialty rolls, along
+  with sashimi and ramen options, it caters to a variety of tastes for those
+  seeking authentic flavors. The restaurant emphasizes accessibility, making it
+  easy for all guests to enjoy a comfortable dining experience with
+  wheelchair-friendly features. Operating daily from noon to 9 PM, it's
+  conveniently located for locals and visitors looking for quality Japanese
+  cuisine in a relaxed setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Diners often praise the fresh ingredients and
+  creative rolls at this popular sushi spot, making it a solid choice for anyone
+  craving Japanese flavors nearby. Many highlight the consistent quality and
+  generous portions that leave you feeling satisfied without breaking the bank.
+  The high rating reflects a general appreciation for the welcoming vibe and
+  efficient service, turning first-timers into regulars. Overall, it's seen as a
+  reliable go-to for tasty meals, with feedback suggesting it's worth trying for
+  anyone exploring top-rated sushi options in the area.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +305,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

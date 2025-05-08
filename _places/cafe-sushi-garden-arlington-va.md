@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Cafe Sushi Garden"
+title: Cafe Sushi Garden
 permalink: /virginia/arlington/cafe-sushi-garden.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Arlington
 seo:
-  name: "Cafe Sushi Garden"
-  type: Restaurant
+  type: restaurant
   links: https://www.cafesushigarden.com/
-description: "Cafe Sushi Garden serves delicious sushi in Arlington, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJV0UeYtC3t4kRntRwy2P2ioU
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $10 &ndash; $20
 rating: '4.9'
 rating_count: 0
 website: https://www.cafesushigarden.com/
+description: >-
+  Experience Cafe Sushi Garden$$$Cafe Sushi Garden in Arlington, VA, stands out
+  as a cozy sushi spot nestled in an office building, offering a blend of fresh
+  sushi, bento boxes, and sandwiches that cater to a variety of tastes. This
+  welcoming eatery emphasizes accessibility with features like
+  wheelchair-friendly entrances and seating, making it easy for everyone to
+  enjoy a meal. Patrons appreciate the thoughtful menu that balances traditional
+  Japanese flavors with quick options, ideal for those seeking sushi restaurants
+  near urban hubs. The atmosphere combines a calm vibe with efficient service,
+  perfect for a relaxed lunch or dinner. Whether you're exploring top-rated
+  sushi options in the area, this spot delivers on quality and convenience for
+  everyday dining.
+generative_summary: >-
+  Experience Cafe Sushi Garden$$$Cafe Sushi Garden in Arlington, VA, stands out
+  as a cozy sushi spot nestled in an office building, offering a blend of fresh
+  sushi, bento boxes, and sandwiches that cater to a variety of tastes. This
+  welcoming eatery emphasizes accessibility with features like
+  wheelchair-friendly entrances and seating, making it easy for everyone to
+  enjoy a meal. Patrons appreciate the thoughtful menu that balances traditional
+  Japanese flavors with quick options, ideal for those seeking sushi restaurants
+  near urban hubs. The atmosphere combines a calm vibe with efficient service,
+  perfect for a relaxed lunch or dinner. Whether you're exploring top-rated
+  sushi options in the area, this spot delivers on quality and convenience for
+  everyday dining.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJV0UeYtC3t4kRntRwy2P2ioU/reviews/ChdDSUhNMG9nS0VJQ0FnTUNBbXZicF93RRAB
@@ -360,6 +383,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNRX2NUeGNnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNRX2NUeGNnEAE!2m1!1s0x89b7b7d0621e4557:0x858af663cb70d49e
+review_summary: >-
+  Insights from Recent Feedback$$$If you're hunting for sushi near me, folks
+  often rave about the fresh rolls and creative specials that make Cafe Sushi
+  Garden a standout choice in Arlington. Reviewers frequently highlight the
+  friendly service and tasty additions like miso soup, creating a welcoming vibe
+  that keeps diners coming back for more. Many appreciate the cozy setup and
+  reasonable prices, noting it's great for a quick bite or sharing with friends,
+  even if seating is limited. Overall, the consensus leans toward high-quality
+  ingredients and thoughtful touches, like complimentary samples, that enhance
+  the experience without overwhelming the wallet. While opinions are
+  overwhelmingly positive, it's wise to plan ahead for busy times to fully enjoy
+  this hidden gem among Japanese places nearby.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: {}
 payment_options:
   acceptsCreditCards: true
@@ -389,7 +425,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Golden Gai Sushi & Bar"
+title: Golden Gai Sushi & Bar
 permalink: /illinois/chicago/golden-gai-sushi-bar.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
 seo:
-  name: "Golden Gai Sushi & Bar"
-  type: Restaurant
+  type: restaurant
   links: https://goldengaisushi.com/
-description: "Golden Gai Sushi & Bar serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ2U3I83wtDogR_sLDQFzQa8U
 photos:
   - name: >-
@@ -183,6 +181,31 @@ price_range: null
 rating: '4.2'
 rating_count: 0
 website: https://goldengaisushi.com/
+description: >-
+  Discover Golden Gai Sushi in Chicago$$$Golden Gai Sushi & Bar in Chicago, IL,
+  is a standout Japanese dining destination known for its creative specialty
+  rolls and a refreshing selection of beverages including beer, sake, wine, and
+  cocktails. This sushi restaurant offers a welcoming vibe with fresh
+  ingredients that highlight authentic flavors, making it ideal for those
+  exploring sushi options in the city. Accessibility features like
+  wheelchair-friendly seating ensure a comfortable visit for everyone, while
+  dine-in and takeout services add to its appeal for casual meals or gatherings.
+  Whether you're searching for top sushi spots nearby, this place combines
+  quality cuisine with a relaxed atmosphere to satisfy cravings for Japanese
+  favorites.
+generative_summary: >-
+  Discover Golden Gai Sushi in Chicago$$$Golden Gai Sushi & Bar in Chicago, IL,
+  is a standout Japanese dining destination known for its creative specialty
+  rolls and a refreshing selection of beverages including beer, sake, wine, and
+  cocktails. This sushi restaurant offers a welcoming vibe with fresh
+  ingredients that highlight authentic flavors, making it ideal for those
+  exploring sushi options in the city. Accessibility features like
+  wheelchair-friendly seating ensure a comfortable visit for everyone, while
+  dine-in and takeout services add to its appeal for casual meals or gatherings.
+  Whether you're searching for top sushi spots nearby, this place combines
+  quality cuisine with a relaxed atmosphere to satisfy cravings for Japanese
+  favorites.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ2U3I83wtDogR_sLDQFzQa8U/reviews/ChdDSUhNMG9nS0VJQ0FnTUNBdGRHRm9nRRAB
@@ -404,6 +427,17 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNnLU52WmxRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNnLU52WmxRRRAB!2m1!1s0x880e2d7cf3c84dd9:0xc56bd05c40c3c2fe
+review_summary: >-
+  What Diners Are Buzzing About$$$Folks often rave about the tasty array of
+  sushi rolls and drinks that make every visit feel worthwhile, with many
+  highlighting the flavorful variety and solid portions. The service stands out
+  as friendly and attentive, creating a welcoming environment that keeps guests
+  coming back for more. While some mention that not every roll hits the mark for
+  personal tastes, the overall experience is praised for its value, especially
+  with all-you-can-eat deals and unique flavors. It's a go-to choice for anyone
+  hunting for great sushi nearby, offering a casual spot where the positives
+  like fresh tastes and fun atmosphere shine through honestly.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeStreetParking: true
   paidStreetParking: true
@@ -434,7 +468,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

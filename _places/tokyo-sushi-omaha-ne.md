@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Tokyo Sushi"
+title: Tokyo Sushi
 permalink: /nebraska/omaha/tokyo-sushi.html
 stateAbbr: NE
 stateName: Nebraska
 cityName: Omaha
 seo:
-  name: "Tokyo Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.tokyosushiomaha.com/
-description: "Relaxed place offering sushi & other popular Japanese dishes, plus an all-you-can-eat lunch option. Tokyo Sushi serves delicious sushi in Omaha, Nebraska. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJjyp4Ga-Pk4cR7Ul9CFjDKQY
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $20 &ndash; $30
 rating: '4.2'
 rating_count: 0
 website: https://www.tokyosushiomaha.com/
+description: >-
+  Discover Tokyo Sushi in Omaha, NE$$$Nestled in the heart of Omaha, NE, Tokyo
+  Sushi stands out as a welcoming spot for enthusiasts seeking fresh sushi and
+  Japanese favorites. This casual eatery offers an all-you-can-eat format that
+  highlights a variety of rolls, appetizers, and classic dishes, making it a
+  go-to choice for those exploring sushi restaurants in the area. With
+  accessibility features like wheelchair-friendly entrances and parking, it
+  ensures a comfortable visit for everyone, blending convenience with authentic
+  flavors. The menu emphasizes affordable options for lunch and dinner,
+  appealing to anyone hunting for top-rated sushi experiences nearby. Whether
+  you're in the mood for creative rolls or hearty entrees, this spot delivers a
+  relaxed vibe perfect for casual outings in the bustling neighborhood.
+generative_summary: >-
+  Discover Tokyo Sushi in Omaha, NE$$$Nestled in the heart of Omaha, NE, Tokyo
+  Sushi stands out as a welcoming spot for enthusiasts seeking fresh sushi and
+  Japanese favorites. This casual eatery offers an all-you-can-eat format that
+  highlights a variety of rolls, appetizers, and classic dishes, making it a
+  go-to choice for those exploring sushi restaurants in the area. With
+  accessibility features like wheelchair-friendly entrances and parking, it
+  ensures a comfortable visit for everyone, blending convenience with authentic
+  flavors. The menu emphasizes affordable options for lunch and dinner,
+  appealing to anyone hunting for top-rated sushi experiences nearby. Whether
+  you're in the mood for creative rolls or hearty entrees, this spot delivers a
+  relaxed vibe perfect for casual outings in the bustling neighborhood.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJjyp4Ga-Pk4cR7Ul9CFjDKQY/reviews/ChdDSUhNMG9nS0VJQ0FnTURJaVBXV3l3RRAB
@@ -436,6 +459,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNuaXR1eDN3RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNuaXR1eDN3RRAB!2m1!1s0x87938faf19782a8f:0x629c358087d49ed
+review_summary: >-
+  What Customers Are Buzzing About This Sushi Spot$$$Visitors often rave about
+  the tasty sushi and great value at this all-you-can-eat destination,
+  highlighting the fresh flavors and wide selection that keep things exciting.
+  Many appreciate the efficient service, including handy call buttons for
+  ordering that make the experience feel modern and hassle-free, though some
+  note it's more functional than overly warm. Folks enjoy the variety of options
+  like rolls and appetizers, with comments praising the generous portions and
+  overall satisfaction for the price, making it a solid pick for groups or solo
+  diners. While a few mention minor inconsistencies, such as portion balances,
+  the general consensus leans positive, with the food's quality shining through
+  as a highlight. If you're on the hunt for reliable sushi places near you, this
+  spot delivers a fun, filling meal that leaves most patrons eager to return.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidParkingLot: true
   paidStreetParking: true
@@ -468,8 +505,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Relaxed place offering sushi & other popular Japanese dishes, plus an
   all-you-can-eat lunch option.
 

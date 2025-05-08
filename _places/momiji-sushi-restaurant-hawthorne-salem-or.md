@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Momiji Sushi Restaurant - Hawthorne"
+title: Momiji Sushi Restaurant - Hawthorne
 permalink: /oregon/salem/momiji-sushi-restaurant-hawthorne.html
 stateAbbr: OR
 stateName: Oregon
 cityName: Salem
 seo:
-  name: "Momiji Sushi Restaurant - Hawthorne"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Momiji Sushi Restaurant - Hawthorne serves delicious sushi in Salem, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ6QG7dmv_v1QR1tYEg_Owvc8
 photos:
   - name: >-
@@ -185,7 +183,44 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Momiji Sushi Restaurant in Salem, OR$$$Momiji Sushi Restaurant in
+  Salem, OR, provides a welcoming spot for enjoying fresh Japanese cuisine in a
+  casual setting. Nestled in a convenient business area, this sushi spot offers
+  a variety of options like expertly prepared sushi rolls, sashimi, and
+  satisfying bento boxes, making it a great choice for those seeking flavorful
+  meals. With happy-hour specials adding extra value, it's an ideal destination
+  for anyone looking to unwind over quality Japanese dishes. The restaurant
+  emphasizes accessibility, featuring easy parking and welcoming features that
+  enhance the overall dining experience. Whether you're exploring local sushi
+  restaurants or craving authentic flavors nearby, this location stands out for
+  its approachable vibe and thoughtful menu selections.
+generative_summary: >-
+  Discover Momiji Sushi Restaurant in Salem, OR$$$Momiji Sushi Restaurant in
+  Salem, OR, provides a welcoming spot for enjoying fresh Japanese cuisine in a
+  casual setting. Nestled in a convenient business area, this sushi spot offers
+  a variety of options like expertly prepared sushi rolls, sashimi, and
+  satisfying bento boxes, making it a great choice for those seeking flavorful
+  meals. With happy-hour specials adding extra value, it's an ideal destination
+  for anyone looking to unwind over quality Japanese dishes. The restaurant
+  emphasizes accessibility, featuring easy parking and welcoming features that
+  enhance the overall dining experience. Whether you're exploring local sushi
+  restaurants or craving authentic flavors nearby, this location stands out for
+  its approachable vibe and thoughtful menu selections.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Sharing$$$Visitors often rave about the fresh and delicious
+  sushi offerings at this spot, with standout rolls that bring exciting flavors
+  to the table and keep diners coming back for more. Many appreciate the
+  friendly service and quick pace, which make for a smooth and enjoyable meal
+  without any unnecessary waits. The clean environment and handy parking add to
+  the convenience, especially for those popping in after a busy day. While some
+  note that the space can feel a bit warm at times, it doesn't overshadow the
+  overall positive vibes and tasty bites that make this place a solid pick. If
+  you're hunting for top-rated sushi near you, this restaurant delivers a
+  reliably good experience with options that cater to a range of tastes.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +246,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

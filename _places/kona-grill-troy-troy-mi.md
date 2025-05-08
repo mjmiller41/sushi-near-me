@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kona Grill - Troy"
+title: Kona Grill - Troy
 permalink: /michigan/troy/kona-grill-troy.html
 stateAbbr: MI
 stateName: Michigan
 cityName: Troy
 seo:
-  name: "Kona Grill - Troy"
-  type: Restaurant
+  type: restaurant
   links: https://konagrill.com/locations?locations=Troy
-description: "Sleek chain with a broad New American menu including low-calorie options, plus sushi & cocktails. Kona Grill - Troy serves delicious sushi in Troy, Michigan. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJF_YSkRXEJIgRHeg4LoOqVrw
 photos:
   - name: >-
@@ -185,6 +183,27 @@ price_range: null
 rating: '4.4'
 rating_count: 0
 website: https://konagrill.com/locations?locations=Troy
+description: >-
+  Discover Kona Grill in Troy, Michigan$$$Kona Grill in Troy, MI, stands out as
+  a polished and casual dining spot offering a blend of hearty American
+  favorites and fresh sushi options for those seeking variety in their meals.
+  This venue features an inviting atmosphere with modern decor, accessible
+  entrances, and a menu that highlights flavorful steaks, seafood, and creative
+  cocktails, making it a go-to for relaxed evenings out. Patrons can enjoy a
+  range of light and satisfying dishes, including sushi selections that appeal
+  to anyone exploring nearby dining choices. The spot also caters to groups with
+  ample seating and outdoor options, ensuring a comfortable experience for all.
+generative_summary: >-
+  Discover Kona Grill in Troy, Michigan$$$Kona Grill in Troy, MI, stands out as
+  a polished and casual dining spot offering a blend of hearty American
+  favorites and fresh sushi options for those seeking variety in their meals.
+  This venue features an inviting atmosphere with modern decor, accessible
+  entrances, and a menu that highlights flavorful steaks, seafood, and creative
+  cocktails, making it a go-to for relaxed evenings out. Patrons can enjoy a
+  range of light and satisfying dishes, including sushi selections that appeal
+  to anyone exploring nearby dining choices. The spot also caters to groups with
+  ample seating and outdoor options, ensuring a comfortable experience for all.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJF_YSkRXEJIgRHeg4LoOqVrw/reviews/ChZDSUhNMG9nS0VJQ0FnTURRZ3FhSUhnEAE
@@ -346,6 +365,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURYLWR6SDdRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURYLWR6SDdRRRAB!2m1!1s0x8824c4159112f617:0xbc56aa832e38e81d
+review_summary: >-
+  What Customers Are Saying$$$Folks often rave about the tasty array of dishes
+  at this spot, with highlights like flavorful burgers, crispy fries, and
+  well-prepared sushi that keep diners coming back for more. Many appreciate the
+  welcoming vibe and helpful service that make meals feel enjoyable and
+  straightforward, though a few mentions note occasional waits during less busy
+  times. Overall, the experience comes across as a solid pick for casual
+  get-togethers, with the food's quality and variety earning high marks for
+  satisfying different tastes. Visitors frequently highlight the inviting
+  ambiance and selection of drinks as reasons to recommend it, painting a
+  picture of a reliable choice for anyone in the area looking for good eats.
+  While not every visit is perfect, the positive feedback on the menu's
+  diversity and atmosphere helps maintain its appeal as a favorite local option.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -377,8 +410,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Sleek chain with a broad New American menu including low-calorie options, plus
   sushi & cocktails.
 

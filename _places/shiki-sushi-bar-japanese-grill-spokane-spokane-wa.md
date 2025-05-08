@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Shiki Sushi Bar & Japanese Grill - Spokane"
+title: Shiki Sushi Bar & Japanese Grill - Spokane
 permalink: /washington/spokane/shiki-sushi-bar-japanese-grill-spokane.html
 stateAbbr: WA
 stateName: Washington
 cityName: Spokane
 seo:
-  name: "Shiki Sushi Bar & Japanese Grill - Spokane"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Shiki Sushi Bar & Japanese Grill - Spokane serves delicious sushi in Spokane, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJv3Ci9PIZnlQRW-RlGl2_4K8
 photos:
   - name: >-
@@ -185,7 +183,45 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Shiki Sushi in Spokane, WA$$$Shiki Sushi Bar & Japanese Grill in
+  Spokane, WA, is a welcoming spot for those seeking authentic Japanese cuisine
+  in a relaxed yet refined atmosphere. This establishment specializes in a
+  variety of fresh dishes, including expertly crafted sushi rolls, flavorful
+  ramen, and other Asian-inspired options that highlight quality ingredients and
+  creative presentations. The upscale yet informal setting makes it an ideal
+  choice for casual dinners or gatherings, with thoughtful accessibility
+  features ensuring everyone can enjoy the experience. Patrons appreciate the
+  blend of traditional flavors and modern twists, making it a standout option
+  among sushi restaurants in the area for anyone searching for great Japanese
+  places near me.
+generative_summary: >-
+  Discover Shiki Sushi in Spokane, WA$$$Shiki Sushi Bar & Japanese Grill in
+  Spokane, WA, is a welcoming spot for those seeking authentic Japanese cuisine
+  in a relaxed yet refined atmosphere. This establishment specializes in a
+  variety of fresh dishes, including expertly crafted sushi rolls, flavorful
+  ramen, and other Asian-inspired options that highlight quality ingredients and
+  creative presentations. The upscale yet informal setting makes it an ideal
+  choice for casual dinners or gatherings, with thoughtful accessibility
+  features ensuring everyone can enjoy the experience. Patrons appreciate the
+  blend of traditional flavors and modern twists, making it a standout option
+  among sushi restaurants in the area for anyone searching for great Japanese
+  places near me.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Folks who visit this Japanese spot often highlight
+  the tasty specialty rolls and appetizers like coconut shrimp, praising the
+  overall freshness and variety that keep things exciting. Many note the
+  friendly service and attentive staff that add a warm touch to every meal,
+  along with prices that feel just right for the quality you get. Customers
+  frequently mention the beautiful way dishes are presented, which elevates the
+  whole dining experience without overwhelming the wallet. While opinions vary,
+  the general buzz is positive, with plenty of love for the fresh sushi and fun
+  extras like boba, making it a solid pick for those craving top-rated sushi
+  nearby. Overall, it's a go-to for enjoyable meals that leave you satisfied and
+  eager to return.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +247,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

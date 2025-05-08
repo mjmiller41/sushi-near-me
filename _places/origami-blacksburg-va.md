@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Origami"
+title: Origami
 permalink: /virginia/blacksburg/origami.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Blacksburg
 seo:
-  name: "Origami"
-  type: Restaurant
+  type: restaurant
   links: http://dining.vt.edu/dining_centers/turner.html
-description: "Origami serves delicious sushi in Blacksburg, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJK0z-bG2VTYgRLQqEb_SuieE
 photos:
   - name: >-
@@ -94,6 +92,31 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 0
 website: http://dining.vt.edu/dining_centers/turner.html
+description: >-
+  Explore Origami in Blacksburg, VA$$$Origami in Blacksburg, VA, stands out as a
+  welcoming Japanese-inspired restaurant nestled in a vibrant university
+  neighborhood, offering fresh sushi and teppanyaki options that appeal to those
+  seeking convenient dining near campus. The spot features accessible entrances
+  and seating, making it easy for everyone to enjoy a casual meal, with options
+  for both dine-in and takeout to suit busy schedules. Patrons can savor a
+  variety of flavorful dishes, including well-portioned meals that highlight
+  quality ingredients and quick service. This sushi restaurant near me provides
+  a relaxed atmosphere perfect for students and locals looking for top-rated
+  Japanese places in the area, blending affordability with satisfying flavors
+  that keep diners coming back.
+generative_summary: >-
+  Explore Origami in Blacksburg, VA$$$Origami in Blacksburg, VA, stands out as a
+  welcoming Japanese-inspired restaurant nestled in a vibrant university
+  neighborhood, offering fresh sushi and teppanyaki options that appeal to those
+  seeking convenient dining near campus. The spot features accessible entrances
+  and seating, making it easy for everyone to enjoy a casual meal, with options
+  for both dine-in and takeout to suit busy schedules. Patrons can savor a
+  variety of flavorful dishes, including well-portioned meals that highlight
+  quality ingredients and quick service. This sushi restaurant near me provides
+  a relaxed atmosphere perfect for students and locals looking for top-rated
+  Japanese places in the area, blending affordability with satisfying flavors
+  that keep diners coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJK0z-bG2VTYgRLQqEb_SuieE/reviews/ChZDSUhNMG9nS0VJQ0FnSUNzdWNtWVl3EAE
@@ -221,6 +244,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNBZ0xuR013EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNBZ0xuR013EAE!2m1!1s0x884d956d6cfe4c2b:0xe189aef46f840a2d
+review_summary: >-
+  What Visitors Are Buzzing About$$$Folks checking out this spot often rave
+  about the tasty sushi and Japanese dishes that make it a go-to for fresh,
+  satisfying meals, with many highlighting the generous portions and quick fixes
+  for any small issues. While some mention occasional hiccups like rice not
+  being just right, the overall vibe leans positive thanks to the flavorful fish
+  and attentive staff that handle things smoothly. It's clear that sushi
+  enthusiasts appreciate the lively energy and crowd-drawing appeal, turning it
+  into a favorite for casual get-togethers or quick bites. Overall, the feedback
+  paints a picture of a reliable choice for those searching for best sushi near
+  me, where the highlights far outweigh any minor setbacks, encouraging a fun
+  and enjoyable experience for all.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   valetParking: false
 payment_options:
@@ -250,7 +286,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

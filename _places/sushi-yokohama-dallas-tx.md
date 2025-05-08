@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Yokohama"
+title: Sushi Yokohama
 permalink: /texas/dallas/sushi-yokohama.html
 stateAbbr: TX
 stateName: Texas
 cityName: Dallas
 seo:
-  name: "Sushi Yokohama"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi Yokohama serves delicious sushi in Dallas, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJHzfHirUjTIYR5GBAyS9DgUo
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x864c23b58ac7371f:0x4a81432fc94060e4!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 10:00 PM'
     - 'Tuesday: 11:00 AM – 10:00 PM'
     - 'Wednesday: 11:00 AM – 10:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:00 PM'
     - 'Saturday: 12:00 – 10:00 PM'
     - 'Sunday: 12:00 – 9:30 PM'
-  current:
-    - 'Monday: 11:00 AM – 10:00 PM'
-    - 'Tuesday: 11:00 AM – 10:00 PM'
-    - 'Wednesday: 11:00 AM – 10:00 PM'
-    - 'Thursday: 11:00 AM – 10:00 PM'
-    - 'Friday: 11:00 AM – 10:00 PM'
-    - 'Saturday: 12:00 – 10:00 PM'
-    - 'Sunday: 12:00 – 9:30 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,230 @@ phone: (972) 733-0223
 price_level: PRICE_LEVEL_MODERATE
 price_range: $30 &ndash; $50
 rating: '4.4'
-rating_count: 0
+rating_count: 812
 website: null
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Sushi Yokohama in Dallas, TX$$$Sushi Yokohama in Dallas, TX, stands
+  out as a vibrant spot for fresh Japanese cuisine, featuring creative rolls and
+  sashimi that appeal to sushi lovers seeking quality options nearby. This
+  restaurant offers an all-you-can-eat experience paired with a selection of
+  drinks like beer, wine, and sake, all set in a modern, welcoming atmosphere
+  that encourages relaxed dining. Accessibility features, such as
+  wheelchair-friendly entrances and seating, make it easy for everyone to enjoy
+  the flavorful dishes and thoughtful presentations. With convenient hours
+  extending into the evening, it's a go-to choice for those exploring top-rated
+  sushi restaurants in the area, blending traditional flavors with a
+  contemporary vibe.
+generative_summary: >-
+  Discover Sushi Yokohama in Dallas, TX$$$Sushi Yokohama in Dallas, TX, stands
+  out as a vibrant spot for fresh Japanese cuisine, featuring creative rolls and
+  sashimi that appeal to sushi lovers seeking quality options nearby. This
+  restaurant offers an all-you-can-eat experience paired with a selection of
+  drinks like beer, wine, and sake, all set in a modern, welcoming atmosphere
+  that encourages relaxed dining. Accessibility features, such as
+  wheelchair-friendly entrances and seating, make it easy for everyone to enjoy
+  the flavorful dishes and thoughtful presentations. With convenient hours
+  extending into the evening, it's a go-to choice for those exploring top-rated
+  sushi restaurants in the area, blending traditional flavors with a
+  contemporary vibe.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJHzfHirUjTIYR5GBAyS9DgUo/reviews/ChZDSUhNMG9nS0VJQ0FnTURJNlBiVEtBEAE
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 5
+    text:
+      text: >-
+        One of the absolute BEST AYCE sushi places in Dallas. The menu is
+        incredibly vast. The rolls are full with fish and there is not too much
+        rice. Rainbow rolls are my favorite rolls and this place has the most
+        delicious ones around.
+
+
+        The servers are very attentive and the chefs are quick. The presentation
+        is beautiful! The restaurant is also very nicely decorated.
+      languageCode: en
+    originalText:
+      text: >-
+        One of the absolute BEST AYCE sushi places in Dallas. The menu is
+        incredibly vast. The rolls are full with fish and there is not too much
+        rice. Rainbow rolls are my favorite rolls and this place has the most
+        delicious ones around.
+
+
+        The servers are very attentive and the chefs are quick. The presentation
+        is beautiful! The restaurant is also very nicely decorated.
+      languageCode: en
+    authorAttribution:
+      displayName: Kate Ann
+      uri: https://www.google.com/maps/contrib/105658449113502845059/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVqm5Rs0eQI5btyMQGjy6L4PeRKMrkgXGa5Je_F8DdbB8LvDnjm=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-06T18:31:09.776019Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURJNlBiVEtBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJNlBiVEtBEAE!2m1!1s0x864c23b58ac7371f:0x4a81432fc94060e4
+  - name: >-
+      places/ChIJHzfHirUjTIYR5GBAyS9DgUo/reviews/ChZDSUhNMG9nS0VJQ0FnTUNBdjVyeUpBEAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: "Sushi Yokohama in Dallas offers an All-You-Can-Eat (AYCE) sushi experience that stands out for its fresh, well-prepared fish, but at $45 per person, the price felt a bit high for an AYCE spot.\n\nWhat I Ordered:\n•\tTuna & Salmon Sushi – Both the tuna and salmon were fresh, buttery, and well-cut, with a good fish-to-rice ratio. The texture was smooth, and the flavor was clean, making it a highlight of the meal.\n•\tShrimp Tempura Roll – A crispy, well-balanced roll, with light, airy batter and a sweet eel sauce drizzle that complemented the shrimp perfectly.\n•\tPreston Roll – A visually appealing roll topped with fresh tuna and salmon, plus a hint of wasabi. The combination of sashimi and wasabi gave it a nice depth of flavor without overpowering the freshness of the fish.\n\nPrice vs. Value:\n\nWhile the quality was excellent, the $45 price felt a bit steep, especially when compared to other AYCE spots in the area. If you can eat a lot of sushi, you might get your money’s worth, but for a more moderate meal, you could get similar quality at an à la carte sushi bar for the same price or less.\n\nFinal Verdict:\n\nSushi Yokohama delivers fresh, well-executed sushi and rolls, making it a great option for those who prioritize quality in an AYCE setting. However, the price might not be the best value for everyone. If you’re in the mood for high-quality sushi and plan to eat a lot, it’s worth checking out—but if you’re just looking for a few rolls and some sushi, à la carte might be the better move."
+      languageCode: en
+    originalText:
+      text: "Sushi Yokohama in Dallas offers an All-You-Can-Eat (AYCE) sushi experience that stands out for its fresh, well-prepared fish, but at $45 per person, the price felt a bit high for an AYCE spot.\n\nWhat I Ordered:\n•\tTuna & Salmon Sushi – Both the tuna and salmon were fresh, buttery, and well-cut, with a good fish-to-rice ratio. The texture was smooth, and the flavor was clean, making it a highlight of the meal.\n•\tShrimp Tempura Roll – A crispy, well-balanced roll, with light, airy batter and a sweet eel sauce drizzle that complemented the shrimp perfectly.\n•\tPreston Roll – A visually appealing roll topped with fresh tuna and salmon, plus a hint of wasabi. The combination of sashimi and wasabi gave it a nice depth of flavor without overpowering the freshness of the fish.\n\nPrice vs. Value:\n\nWhile the quality was excellent, the $45 price felt a bit steep, especially when compared to other AYCE spots in the area. If you can eat a lot of sushi, you might get your money’s worth, but for a more moderate meal, you could get similar quality at an à la carte sushi bar for the same price or less.\n\nFinal Verdict:\n\nSushi Yokohama delivers fresh, well-executed sushi and rolls, making it a great option for those who prioritize quality in an AYCE setting. However, the price might not be the best value for everyone. If you’re in the mood for high-quality sushi and plan to eat a lot, it’s worth checking out—but if you’re just looking for a few rolls and some sushi, à la carte might be the better move."
+      languageCode: en
+    authorAttribution:
+      displayName: Andrew W
+      uri: https://www.google.com/maps/contrib/105618134539735893621/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLX4dEGmAb2w_soGkzqn9msANpv6ZO2b5HJ7NwAPociTgADOQ=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-02-05T22:11:12.410350Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNBdjVyeUpBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNBdjVyeUpBEAE!2m1!1s0x864c23b58ac7371f:0x4a81432fc94060e4
+  - name: >-
+      places/ChIJHzfHirUjTIYR5GBAyS9DgUo/reviews/ChdDSUhNMG9nS0VJQ0FnTURBcmFpc3BBRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        My husband and I come here once a month and we absolutely loveee it.
+        It’s sooo good we hate how much we love it loll. We would go every week,
+        but we have to pace ourselves.😆 We do the AYCE and our favorite rolls
+        are golden tiger, popcorn crawfish, sunshine, and spider roll and  mini
+        ahi tower. The service is good and the staff are nice. 100% recommend.
+        10/10
+      languageCode: en
+    originalText:
+      text: >-
+        My husband and I come here once a month and we absolutely loveee it.
+        It’s sooo good we hate how much we love it loll. We would go every week,
+        but we have to pace ourselves.😆 We do the AYCE and our favorite rolls
+        are golden tiger, popcorn crawfish, sunshine, and spider roll and  mini
+        ahi tower. The service is good and the staff are nice. 100% recommend.
+        10/10
+      languageCode: en
+    authorAttribution:
+      displayName: Mareea A.
+      uri: https://www.google.com/maps/contrib/101257521556960250027/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjW1nOx7EfjBRMbY5OnyyyEMQUD0YFzhS9gs-JkTuOJUl3LoU5mgTg=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-02-11T03:19:44.386216Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURBcmFpc3BBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURBcmFpc3BBRRAB!2m1!1s0x864c23b58ac7371f:0x4a81432fc94060e4
+  - name: >-
+      places/ChIJHzfHirUjTIYR5GBAyS9DgUo/reviews/ChZDSUhNMG9nS0VJQ0FnSUM5MUlMRkJnEAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        Great service by Emil! The food was good and came out quickly even
+        though there was a lot of people. No complaints here. We did the all you
+        can eat on Saturday for $45 a person. Make sure you come with an empty
+        stomach and order a little bit at a time. You get 3 rounds of ordering,
+        which is plenty. We got full on the first round. Would recommend!
+      languageCode: en
+    originalText:
+      text: >-
+        Great service by Emil! The food was good and came out quickly even
+        though there was a lot of people. No complaints here. We did the all you
+        can eat on Saturday for $45 a person. Make sure you come with an empty
+        stomach and order a little bit at a time. You get 3 rounds of ordering,
+        which is plenty. We got full on the first round. Would recommend!
+      languageCode: en
+    authorAttribution:
+      displayName: Jimmy
+      uri: https://www.google.com/maps/contrib/109925117031261500040/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUq_rFKBusVfQfeykcSGiNdph-yLgr8jkTlQL4Yh5vtJt7MkKy5=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-03-02T20:29:03.734812Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUM5MUlMRkJnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUM5MUlMRkJnEAE!2m1!1s0x864c23b58ac7371f:0x4a81432fc94060e4
+  - name: >-
+      places/ChIJHzfHirUjTIYR5GBAyS9DgUo/reviews/ChdDSUhNMG9nS0VJQ0FnTURBcXJDbzFnRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        High quality sushi. Their Riceless rolls were amazing, fresh, and well
+        curated. The Miso soup, seaweed, and calamari salad were well priced and
+        made perfect. The Salmon belly sashimi was amazingly fresh, and buttery
+        soft. So satisfying, and the staff are excellent. One of the best sushi
+        spots in Dallas.
+      languageCode: en
+    originalText:
+      text: >-
+        High quality sushi. Their Riceless rolls were amazing, fresh, and well
+        curated. The Miso soup, seaweed, and calamari salad were well priced and
+        made perfect. The Salmon belly sashimi was amazingly fresh, and buttery
+        soft. So satisfying, and the staff are excellent. One of the best sushi
+        spots in Dallas.
+      languageCode: en
+    authorAttribution:
+      displayName: Lydiaohlydiaa
+      uri: https://www.google.com/maps/contrib/100864161130777682370/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjX3A7a7INf2PGcstGlGbxxcb7jiObvZFhcxkOnfG9x8FZvJyh4=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-02-08T05:07:27.779307Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURBcXJDbzFnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURBcXJDbzFnRRAB!2m1!1s0x864c23b58ac7371f:0x4a81432fc94060e4
+review_summary: >-
+  What People Are Saying About the Experience$$$Folks consistently praise the
+  fresh, high-quality sushi and generous portions that make meals feel
+  satisfying and worthwhile, especially with the all-you-can-eat deals hitting
+  the spot for sushi enthusiasts. Many highlight the variety of rolls and sides,
+  noting how the flavors balance perfectly without overwhelming the palate,
+  turning casual visits into memorable outings. Service comes across as
+  attentive and efficient, helping to create a positive vibe that keeps diners
+  coming back for more. While some mention the pricing as a bit on the higher
+  side, most agree it's justified for the taste and abundance, making it a solid
+  pick for anyone hunting for reliable sushi places near me. Overall, it's a
+  welcoming spot that delivers on flavor and fun, encouraging repeat trips for
+  those who love exploring Japanese dining options.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
 menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  A variety of creative sushi & sashimi plus other Japanese dishes served in
+  relaxing modern environs.
 
 ---

@@ -5,4 +5,5 @@ permalink: /new-york/cornwall/
 stateAbbr: NY
 stateName: New York
 cityName: Cornwall
+
 ---

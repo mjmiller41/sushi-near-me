@@ -5,4 +5,5 @@ permalink: /california/aliso-viejo/
 stateAbbr: CA
 stateName: California
 cityName: Aliso Viejo
+
 ---

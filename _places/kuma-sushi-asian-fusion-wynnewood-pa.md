@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kuma Sushi & Asian Fusion"
+title: Kuma Sushi & Asian Fusion
 permalink: /pennsylvania/wynnewood/kuma-sushi-asian-fusion.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Wynnewood
 seo:
-  name: "Kuma Sushi & Asian Fusion"
-  type: Restaurant
+  type: restaurant
   links: https://kuma.menufy.com/
-description: "Kuma Sushi & Asian Fusion serves delicious sushi in Wynnewood, Pennsylvania. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJz7dLqJfAxokRDIeVt4JwuFE
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $10 &ndash; $20
 rating: '4.7'
 rating_count: 0
 website: https://kuma.menufy.com/
+description: >-
+  Discover Kuma Sushi & Asian Fusion in Wynnewood, PA$$$Kuma Sushi & Asian
+  Fusion in Wynnewood, PA, stands out as a welcoming Japanese eatery with an
+  extensive selection of fresh rolls and sashimi, perfect for those seeking
+  top-rated sushi options nearby. The casual atmosphere combines with thoughtful
+  details like wheelchair-accessible features, making it an inclusive spot for a
+  relaxed dining experience. Diners can enjoy a variety of Asian-inspired dishes
+  that highlight high-quality ingredients and creative presentations, ideal for
+  anyone exploring sushi restaurants in the area. This establishment also offers
+  convenient takeout and delivery, catering to those looking for authentic
+  flavors without leaving home. With its moderate pricing and focus on fresh
+  seafood, it's a go-to choice for flavorful meals that blend tradition and
+  accessibility.
+generative_summary: >-
+  Discover Kuma Sushi & Asian Fusion in Wynnewood, PA$$$Kuma Sushi & Asian
+  Fusion in Wynnewood, PA, stands out as a welcoming Japanese eatery with an
+  extensive selection of fresh rolls and sashimi, perfect for those seeking
+  top-rated sushi options nearby. The casual atmosphere combines with thoughtful
+  details like wheelchair-accessible features, making it an inclusive spot for a
+  relaxed dining experience. Diners can enjoy a variety of Asian-inspired dishes
+  that highlight high-quality ingredients and creative presentations, ideal for
+  anyone exploring sushi restaurants in the area. This establishment also offers
+  convenient takeout and delivery, catering to those looking for authentic
+  flavors without leaving home. With its moderate pricing and focus on fresh
+  seafood, it's a go-to choice for flavorful meals that blend tradition and
+  accessibility.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJz7dLqJfAxokRDIeVt4JwuFE/reviews/ChZDSUhNMG9nS0VJQ0FnSUR2enNyZkZ3EAE
@@ -418,6 +443,21 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUN3dVBuM0NnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUN3dVBuM0NnEAE!2m1!1s0x89c6c097a84bb7cf:0x51b87082b795870c
+review_summary: >-
+  What Customers Are Saying About the Experience$$$Visitors frequently rave
+  about the fresh and delicious sushi rolls, often highlighting how the
+  ingredients stand out as some of the best in the region for a satisfying meal.
+  While the cozy space can get busy and lively, many appreciate the quick
+  service and beautiful presentation that make every bite feel special, though
+  it's wise to plan for quieter times if you prefer a more relaxed vibe.
+  Overall, the attentive staff and high-quality food create a welcoming
+  environment that's great for groups or casual outings, with plenty of positive
+  feedback on the generous portions and authentic flavors. Even with occasional
+  mentions of faster-paced service during peak hours, the consensus leans toward
+  it being a reliable spot for enjoying top-notch sushi without the fuss. If
+  you're on the hunt for sushi places near you, this one often delivers a
+  memorable and enjoyable experience worth trying.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -450,7 +490,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

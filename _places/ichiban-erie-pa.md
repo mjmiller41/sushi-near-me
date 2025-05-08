@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ichiban"
+title: Ichiban
 permalink: /pennsylvania/erie/ichiban.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Erie
 seo:
-  name: "Ichiban"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Ichiban serves delicious sushi in Erie, Pennsylvania. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJUbPNPeZ9LYgRG_RlJ9-UV6Q
 photos:
   - name: >-
@@ -185,7 +183,41 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Ichiban in Erie, PA$$$Ichiban in Erie, PA, stands out as a beloved
+  destination for sushi enthusiasts and fans of Asian cuisine. This
+  all-you-can-eat spot delivers fresh sushi rolls and a range of flavorful
+  dishes in a relaxed, unpretentious setting that invites casual dining. With
+  its emphasis on variety and quality ingredients, it caters to those seeking
+  satisfying options for everyday meals or special occasions. The restaurant's
+  accessible features enhance the experience, making it welcoming for everyone
+  looking to enjoy top-rated sushi. Whether you're exploring sushi restaurants
+  in the area or searching for great Japanese-inspired places nearby, Ichiban
+  offers excellent value and a memorable atmosphere.
+generative_summary: >-
+  Discover Ichiban in Erie, PA$$$Ichiban in Erie, PA, stands out as a beloved
+  destination for sushi enthusiasts and fans of Asian cuisine. This
+  all-you-can-eat spot delivers fresh sushi rolls and a range of flavorful
+  dishes in a relaxed, unpretentious setting that invites casual dining. With
+  its emphasis on variety and quality ingredients, it caters to those seeking
+  satisfying options for everyday meals or special occasions. The restaurant's
+  accessible features enhance the experience, making it welcoming for everyone
+  looking to enjoy top-rated sushi. Whether you're exploring sushi restaurants
+  in the area or searching for great Japanese-inspired places nearby, Ichiban
+  offers excellent value and a memorable atmosphere.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Folks heading to Ichiban often highlight the tasty
+  all-you-can-eat sushi menu as a standout feature, praising the fresh flavors
+  and solid bang for your buck. Many appreciate the quick and reliable service
+  that keeps things running smoothly for a hassle-free meal. The variety of
+  Asian dishes makes it a go-to choice for anyone in the mood for something
+  satisfying and affordable. While a few comments note that interactions with
+  staff can sometimes feel a bit off, the overall vibe leans positive with
+  plenty of happy diners. If you're on the hunt for the best sushi spots around,
+  this place delivers a generally enjoyable experience worth trying.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +243,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

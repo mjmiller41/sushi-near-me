@@ -5,4 +5,5 @@ permalink: /illinois/morton-grove/
 stateAbbr: IL
 stateName: Illinois
 cityName: Morton Grove
+
 ---

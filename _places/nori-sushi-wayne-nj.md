@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Nori Sushi"
+title: Nori Sushi
 permalink: /new-jersey/wayne/nori-sushi.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Wayne
 seo:
-  name: "Nori Sushi"
-  type: Restaurant
-  links: null
-description: "Nori Sushi serves delicious sushi in Wayne, New Jersey. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://waynenorisushi.com/
 place_id: ChIJe2VQv-wCw4kRZycWK5svC-c
 photos:
   - name: >-
@@ -170,8 +168,113 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c302ecbf50657b:0xe70b2f9b2b162767!10e5
 primary_type: Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 15
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 15
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:30 AM – 3:00 PM, 4:30 – 9:00 PM'
+    - 'Tuesday: 11:30 AM – 3:00 PM, 4:30 – 9:00 PM'
+    - 'Wednesday: 11:30 AM – 3:00 PM, 4:30 – 9:00 PM'
+    - 'Thursday: 11:30 AM – 3:00 PM, 4:30 – 9:00 PM'
+    - 'Friday: 11:30 AM – 3:00 PM, 4:30 – 10:00 PM'
+    - 'Saturday: 12:00 – 10:00 PM'
+    - 'Sunday: 12:30 – 9:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +282,45 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (973) 709-1190
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.5'
+rating_count: 229
+website: http://waynenorisushi.com/
+description: >-
+  Discover Nori Sushi in Wayne, NJ$$$Nori Sushi in Wayne, New Jersey, offers a
+  relaxed vibe perfect for enjoying fresh Japanese dishes in a welcoming
+  setting. This spot specializes in a wide selection of creative sushi rolls and
+  affordable lunch options, making it an ideal choice for anyone seeking
+  authentic flavors without the fuss. With its accessible features like
+  wheelchair-friendly entrances and seating, it's designed to accommodate all
+  visitors comfortably. The menu highlights inventive combinations that appeal
+  to sushi enthusiasts exploring local eateries, ensuring a satisfying meal
+  whether you're grabbing a quick bite or dining with friends.
+generative_summary: >-
+  Discover Nori Sushi in Wayne, NJ$$$Nori Sushi in Wayne, New Jersey, offers a
+  relaxed vibe perfect for enjoying fresh Japanese dishes in a welcoming
+  setting. This spot specializes in a wide selection of creative sushi rolls and
+  affordable lunch options, making it an ideal choice for anyone seeking
+  authentic flavors without the fuss. With its accessible features like
+  wheelchair-friendly entrances and seating, it's designed to accommodate all
+  visitors comfortably. The menu highlights inventive combinations that appeal
+  to sushi enthusiasts exploring local eateries, ensuring a satisfying meal
+  whether you're grabbing a quick bite or dining with friends.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors often praise the standout sushi
+  selections at this spot, noting how the flavorful rolls and unique appetizers
+  make for a memorable meal. Many highlight the attentive service and friendly
+  atmosphere that enhance the overall experience, creating a warm environment
+  for casual outings. While some mention the portions are generous and
+  well-priced, others appreciate the variety that caters to different tastes,
+  from classic favorites to innovative twists. Overall, the consensus leans
+  positive, with folks enjoying the consistent quality that keeps them coming
+  back for more in this lively Japanese dining scene.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +346,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

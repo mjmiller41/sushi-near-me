@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Volcano Asian Cuisine"
+title: Volcano Asian Cuisine
 permalink: /vermont/burlington/volcano-asian-cuisine.html
 stateAbbr: VT
 stateName: Vermont
 cityName: Burlington
 seo:
-  name: "Volcano Asian Cuisine"
-  type: Restaurant
+  type: restaurant
   links: http://volcanovtasiancuisine.com/
-description: "Volcano Asian Cuisine serves delicious sushi in Burlington, Vermont. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ-VAouehvykwRB1yQLsjT3Gs
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 0
 website: http://volcanovtasiancuisine.com/
+description: >-
+  Discover Volcano Asian Cuisine in Burlington, VT$$$Volcano Asian Cuisine in
+  Burlington, VT, offers a casual dining experience with a focus on fresh Asian
+  dishes, including flavorful sushi and stir-fry selections. This spot
+  highlights a variety of vegetarian options alongside lively entertainment like
+  live music, creating an inviting atmosphere for meals with friends or family.
+  With accessible features such as wheelchair-friendly entrances and parking,
+  it's designed to welcome everyone looking for a comfortable outing. The
+  moderate pricing and diverse menu make it a great choice for those exploring
+  sushi places near me, blending quality ingredients with a relaxed vibe that
+  appeals to everyday diners.
+generative_summary: >-
+  Discover Volcano Asian Cuisine in Burlington, VT$$$Volcano Asian Cuisine in
+  Burlington, VT, offers a casual dining experience with a focus on fresh Asian
+  dishes, including flavorful sushi and stir-fry selections. This spot
+  highlights a variety of vegetarian options alongside lively entertainment like
+  live music, creating an inviting atmosphere for meals with friends or family.
+  With accessible features such as wheelchair-friendly entrances and parking,
+  it's designed to welcome everyone looking for a comfortable outing. The
+  moderate pricing and diverse menu make it a great choice for those exploring
+  sushi places near me, blending quality ingredients with a relaxed vibe that
+  appeals to everyday diners.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ-VAouehvykwRB1yQLsjT3Gs/reviews/ChdDSUhNMG9nS0VJQ0FnTURBbjlERmxRRRAB
@@ -352,6 +373,17 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNkOVliaG5BRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNkOVliaG5BRRAB!2m1!1s0x4cca6fe8b92850f9:0x6bdcd3c82e905c07
+review_summary: >-
+  Insights from Customer Feedback$$$Visitors often rave about the fresh and
+  tasty dishes at this Asian eatery, with standout mentions of flavorful entrees
+  like stir-fries and soups that hit the spot. While one comment pointed out
+  some inconsistencies in certain items like fried rice, the overall buzz leans
+  toward the quick service and welcoming environment that keeps people coming
+  back. It's clear that the sushi options, including creative rolls, are a big
+  hit for those seeking top-rated flavors in a casual setting. All in all, the
+  positive experiences make it a reliable go-to for anyone hunting for sushi
+  restaurants nearby, offering honest value without any major letdowns.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   valetParking: false
@@ -383,7 +415,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: null
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

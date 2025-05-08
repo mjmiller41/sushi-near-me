@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Koi"
+title: Sushi Koi
 permalink: /new-york/forest-hills/sushi-koi.html
 stateAbbr: NY
 stateName: New York
 cityName: Forest Hills
 seo:
-  name: "Sushi Koi"
-  type: Restaurant
+  type: restaurant
   links: http://sushikoiny.com/
-description: "Unpretentious place offering typical sushi & Japanese entrees, plus all-you-can-eat specials. Sushi Koi serves delicious sushi in Forest Hills, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ-yMKWphgwokREQmPlSl4Cjg
 photos:
   - name: >-
@@ -184,6 +182,31 @@ price_range: $10 &ndash; $20
 rating: '3.9'
 rating_count: 0
 website: http://sushikoiny.com/
+description: >-
+  Discover Sushi Koi in Forest Hills, NY$$$Sushi Koi in Forest Hills, NY,
+  provides a laid-back spot for enjoying fresh Japanese dishes and affordable
+  dining options that appeal to sushi lovers in the neighborhood. This
+  unassuming venue specializes in a variety of traditional rolls, entrees, and
+  all-you-can-eat deals, complemented by a selection of beverages that enhance
+  the overall meal experience. With thoughtful accessibility features like
+  wheelchair-friendly entrances and seating, it's an inclusive choice for groups
+  or families seeking casual Japanese fare nearby. The focus on quality
+  ingredients and simple ambiance makes it a go-to option for those exploring
+  local sushi spots, offering a balance of value and taste that keeps diners
+  coming back.
+generative_summary: >-
+  Discover Sushi Koi in Forest Hills, NY$$$Sushi Koi in Forest Hills, NY,
+  provides a laid-back spot for enjoying fresh Japanese dishes and affordable
+  dining options that appeal to sushi lovers in the neighborhood. This
+  unassuming venue specializes in a variety of traditional rolls, entrees, and
+  all-you-can-eat deals, complemented by a selection of beverages that enhance
+  the overall meal experience. With thoughtful accessibility features like
+  wheelchair-friendly entrances and seating, it's an inclusive choice for groups
+  or families seeking casual Japanese fare nearby. The focus on quality
+  ingredients and simple ambiance makes it a go-to option for those exploring
+  local sushi spots, offering a balance of value and taste that keeps diners
+  coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ-yMKWphgwokREQmPlSl4Cjg/reviews/ChdDSUhNMG9nS0VJQ0FnTURBMXYyX3ZRRRAB
@@ -377,6 +400,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNycXBmd2x3RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNycXBmd2x3RRAB!2m1!1s0x89c260985a0a23fb:0x380a7829958f0911
+review_summary: >-
+  Insights from Customer Feedback$$$Visitors often highlight the fresh sushi and
+  variety of Japanese options as standout features, making it a solid pick for
+  anyone craving reliable flavors without breaking the bank. While some folks
+  mention occasional inconsistencies in service speed and friendliness, the
+  overall vibe remains approachable for a quick meal or takeout. Many appreciate
+  the affordable pricing and accessibility perks, like easy entry and
+  family-friendly atmosphere, which add to its appeal as a neighborhood
+  favorite. Despite a few mixed experiences, the positive notes on food quality
+  and drink selections encourage giving it a try, especially for those hunting
+  for local dining spots that deliver on taste with room for improvement.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   valetParking: false
 payment_options:
@@ -407,8 +442,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Unpretentious place offering typical sushi & Japanese entrees, plus
   all-you-can-eat specials.
 

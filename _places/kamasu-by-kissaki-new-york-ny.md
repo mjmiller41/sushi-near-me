@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kamasu by Kissaki"
+title: Kamasu by Kissaki
 permalink: /new-york/new-york/kamasu-by-kissaki.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "Kamasu by Kissaki"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Kamasu by Kissaki serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJVU9-Q5JZwokR6OX1_pbtH9M
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $30 &ndash; $50
 rating: '3.9'
 rating_count: 0
 website: null
+description: >-
+  Discover Kamasu by Kissaki in New York, NY$$$Kamasu by Kissaki in New York,
+  NY, stands out as a welcoming sushi restaurant nestled in the vibrant Hudson
+  Yards area, offering a casual atmosphere perfect for enjoying fresh
+  Japanese-inspired dishes. This spot highlights a diverse selection of maki
+  rolls and other traditional fare, crafted with high-quality ingredients that
+  emphasize authentic flavors in a relaxed setting. Visitors can appreciate the
+  accessible entrance and seating options, making it easier for everyone to
+  savor the experience. The menu focuses on creative yet simple presentations
+  that capture the essence of Japanese cuisine, ideal for those seeking sushi
+  dining options nearby. Whether you're exploring top-rated sushi spots in the
+  city, this location combines convenience with a laid-back vibe for a memorable
+  meal.
+generative_summary: >-
+  Discover Kamasu by Kissaki in New York, NY$$$Kamasu by Kissaki in New York,
+  NY, stands out as a welcoming sushi restaurant nestled in the vibrant Hudson
+  Yards area, offering a casual atmosphere perfect for enjoying fresh
+  Japanese-inspired dishes. This spot highlights a diverse selection of maki
+  rolls and other traditional fare, crafted with high-quality ingredients that
+  emphasize authentic flavors in a relaxed setting. Visitors can appreciate the
+  accessible entrance and seating options, making it easier for everyone to
+  savor the experience. The menu focuses on creative yet simple presentations
+  that capture the essence of Japanese cuisine, ideal for those seeking sushi
+  dining options nearby. Whether you're exploring top-rated sushi spots in the
+  city, this location combines convenience with a laid-back vibe for a memorable
+  meal.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJVU9-Q5JZwokR6OX1_pbtH9M/reviews/ChdDSUhNMG9nS0VJQ0FnSUNmdmJtazJ3RRAB
@@ -482,6 +507,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNMbnNud0V3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNMbnNud0V3EAE!2m1!1s0x89c25992437e4f55:0xd31fed96fef5e5e8
+review_summary: >-
+  What Visitors Are Saying About the Experience$$$Folks often rave about the
+  fresh and flavorful sushi at this spot, with many highlighting the solid
+  quality of the fish and creative dishes that make for a satisfying meal. While
+  some have pointed out occasional inconsistencies in service speed, the overall
+  convenience of takeout and delivery options keeps things positive for quick
+  bites on the go. Customers appreciate the packaging for takeout, which adds a
+  nice touch to enjoying Japanese fare at home, and several note that the
+  ambiance enhances the casual dining vibe. Despite a few mentions of pricing
+  feeling a bit steep for portion sizes, the general consensus leans toward it
+  being a worthwhile stop for sushi lovers looking for variety. All in all, if
+  you're hunting for reliable sushi places near you, this one delivers a mostly
+  enjoyable experience with room for occasional improvements.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options:
   acceptsCreditCards: true
@@ -509,7 +548,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

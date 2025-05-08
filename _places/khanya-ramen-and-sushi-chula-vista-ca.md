@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Khanya Ramen And Sushi"
+title: Khanya Ramen And Sushi
 permalink: /california/chula-vista/khanya-ramen-and-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Chula Vista
 seo:
-  name: "Khanya Ramen And Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://khanyaramen.com/
-description: "Khanya Ramen And Sushi serves delicious sushi in Chula Vista, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJQdz5RBFF2YARFvTXM2j21Lg
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80d9451144f9dc41:0xb8d4f66833d7f416!10e5
 primary_type: Ramen Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 0
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 0
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 10:00 PM'
     - 'Tuesday: 11:30 AM – 10:00 PM'
     - 'Wednesday: 11:30 AM – 10:00 PM'
@@ -178,54 +234,383 @@ opening_hours:
     - 'Friday: 11:30 AM – 12:00 AM'
     - 'Saturday: 11:30 AM – 12:00 AM'
     - 'Sunday: 11:30 AM – 10:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 10:00 PM'
-    - 'Tuesday: 11:30 AM – 10:00 PM'
-    - 'Wednesday: 11:30 AM – 10:00 PM'
-    - 'Thursday: 11:30 AM – 10:00 PM'
-    - 'Friday: 11:30 AM – 12:00 AM'
-    - 'Saturday: 11:30 AM – 12:00 AM'
-    - 'Sunday: 11:30 AM – 10:00 PM'
+  nextCloseTime: '2025-05-04T07:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: false
+    periods:
+      - open:
+          day: 1
+          hour: 15
+          minute: 0
+        close:
+          day: 1
+          hour: 17
+          minute: 0
+      - open:
+          day: 2
+          hour: 15
+          minute: 0
+        close:
+          day: 2
+          hour: 17
+          minute: 0
+      - open:
+          day: 3
+          hour: 15
+          minute: 0
+        close:
+          day: 3
+          hour: 17
+          minute: 0
+      - open:
+          day: 4
+          hour: 15
+          minute: 0
+        close:
+          day: 4
+          hour: 17
+          minute: 0
+      - open:
+          day: 5
+          hour: 15
+          minute: 0
+        close:
+          day: 5
+          hour: 17
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 3:00 – 5:00 PM'
+      - 'Tuesday: 3:00 – 5:00 PM'
+      - 'Wednesday: 3:00 – 5:00 PM'
+      - 'Thursday: 3:00 – 5:00 PM'
+      - 'Friday: 3:00 – 5:00 PM'
+      - 'Saturday: Closed'
+      - 'Sunday: Closed'
+    secondaryHoursType: HAPPY_HOUR
+    nextOpenTime: '2025-05-05T22:00:00Z'
+  - openNow: false
+    periods:
+      - open:
+          day: 1
+          hour: 11
+          minute: 30
+        close:
+          day: 1
+          hour: 15
+          minute: 0
+      - open:
+          day: 2
+          hour: 11
+          minute: 30
+        close:
+          day: 2
+          hour: 15
+          minute: 0
+      - open:
+          day: 3
+          hour: 11
+          minute: 30
+        close:
+          day: 3
+          hour: 15
+          minute: 0
+      - open:
+          day: 4
+          hour: 11
+          minute: 30
+        close:
+          day: 4
+          hour: 15
+          minute: 0
+      - open:
+          day: 5
+          hour: 11
+          minute: 30
+        close:
+          day: 5
+          hour: 15
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 11:30 AM – 3:00 PM'
+      - 'Tuesday: 11:30 AM – 3:00 PM'
+      - 'Wednesday: 11:30 AM – 3:00 PM'
+      - 'Thursday: 11:30 AM – 3:00 PM'
+      - 'Friday: 11:30 AM – 3:00 PM'
+      - 'Saturday: Closed'
+      - 'Sunday: Closed'
+    secondaryHoursType: LUNCH
+    nextOpenTime: '2025-05-05T18:30:00Z'
 phone: (619) 271-4733
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '3.9'
-rating_count: 0
+rating_count: 431
 website: http://khanyaramen.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Khanya Ramen And Sushi in Chula Vista, CA$$$Khanya Ramen And Sushi in
+  Chula Vista, CA, provides a cozy spot for enjoying authentic ramen and sushi,
+  highlighted by comfortable seating and inviting vibes that make it ideal for
+  casual meals. The menu features flavorful dishes in a welcoming environment,
+  complete with happy-hour deals that add value for diners seeking
+  Japanese-inspired cuisine. Accessibility is a key strength here, with options
+  like wheelchair-friendly entrances and parking that ensure everyone can enjoy
+  the experience. This location stands out in the Eastlake Business Center area
+  for its blend of hearty ramen bowls and fresh sushi rolls, making it a go-to
+  choice for those exploring top-rated sushi restaurants nearby. Whether you're
+  in the mood for a quick lunch or a relaxed dinner, the thoughtful atmosphere
+  and variety of options keep visitors coming back for more.
+generative_summary: >-
+  Discover Khanya Ramen And Sushi in Chula Vista, CA$$$Khanya Ramen And Sushi in
+  Chula Vista, CA, provides a cozy spot for enjoying authentic ramen and sushi,
+  highlighted by comfortable seating and inviting vibes that make it ideal for
+  casual meals. The menu features flavorful dishes in a welcoming environment,
+  complete with happy-hour deals that add value for diners seeking
+  Japanese-inspired cuisine. Accessibility is a key strength here, with options
+  like wheelchair-friendly entrances and parking that ensure everyone can enjoy
+  the experience. This location stands out in the Eastlake Business Center area
+  for its blend of hearty ramen bowls and fresh sushi rolls, making it a go-to
+  choice for those exploring top-rated sushi restaurants nearby. Whether you're
+  in the mood for a quick lunch or a relaxed dinner, the thoughtful atmosphere
+  and variety of options keep visitors coming back for more.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJQdz5RBFF2YARFvTXM2j21Lg/reviews/ChdDSUhNMG9nS0VJQ0FnTURveWIzajRRRRAB
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        It's been our go-to-place for sushi in East Lake for the past few
+        months. It has a mellow but chilled atmosphere with great customer
+        service by Jay and his crew and man, Aquino, the chef runs the kitchen
+        literally like a master! Definitely going back for Saporo and fresh
+        spicy tuna rolls or the Hawaiian with fresh lemon slices on top!
+
+        A hidden,must try gem in East Lake!
+      languageCode: en
+    originalText:
+      text: >-
+        It's been our go-to-place for sushi in East Lake for the past few
+        months. It has a mellow but chilled atmosphere with great customer
+        service by Jay and his crew and man, Aquino, the chef runs the kitchen
+        literally like a master! Definitely going back for Saporo and fresh
+        spicy tuna rolls or the Hawaiian with fresh lemon slices on top!
+
+        A hidden,must try gem in East Lake!
+      languageCode: en
+    authorAttribution:
+      displayName: Gamaliel Marroquin
+      uri: https://www.google.com/maps/contrib/108520931564874462457/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUNL6x4igwG2c0LwjCWDxSCiL6NfY2Gz5yWpmmCM6M7ULw1pk_e=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-26T07:52:55.283812Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURveWIzajRRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURveWIzajRRRRAB!2m1!1s0x80d9451144f9dc41:0xb8d4f66833d7f416
+  - name: >-
+      places/ChIJQdz5RBFF2YARFvTXM2j21Lg/reviews/ChZDSUhNMG9nS0VJQ0FnTURRbDVQUlVBEAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Just came in today for dinner since it was raining and this hit the
+        spot!
+
+
+        Not too many people maybe because of the rain. We were seated right
+        away, friendly staff. We ordered the karaage chicken, premium khanya
+        tonkatsu and tonkatsu regular.
+
+
+        The karaage was good, nice and crispy. We had to ask for more sauce
+        though cause we were gonna definitely need more.
+
+
+        Both ramen were good, with thin noodles, large in size and we had to
+        take the rest home. Tons of toppings. The broth was thick and oily.
+
+
+        If we don't feel like driving all the way to convoy, this is a good
+        spot!
+      languageCode: en
+    originalText:
+      text: >-
+        Just came in today for dinner since it was raining and this hit the
+        spot!
+
+
+        Not too many people maybe because of the rain. We were seated right
+        away, friendly staff. We ordered the karaage chicken, premium khanya
+        tonkatsu and tonkatsu regular.
+
+
+        The karaage was good, nice and crispy. We had to ask for more sauce
+        though cause we were gonna definitely need more.
+
+
+        Both ramen were good, with thin noodles, large in size and we had to
+        take the rest home. Tons of toppings. The broth was thick and oily.
+
+
+        If we don't feel like driving all the way to convoy, this is a good
+        spot!
+      languageCode: en
+    authorAttribution:
+      displayName: Jamie Manalili
+      uri: https://www.google.com/maps/contrib/109954561020480250912/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXy1SW13jXZMj4QuWFoXaGN7fxw3fCOtrpxfypjx2RP_yTy-jEoHw=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-03-15T03:58:29.651735Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURRbDVQUlVBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURRbDVQUlVBEAE!2m1!1s0x80d9451144f9dc41:0xb8d4f66833d7f416
+  - name: >-
+      places/ChIJQdz5RBFF2YARFvTXM2j21Lg/reviews/ChZDSUhNMG9nS0VJQ0FnTUNvc19UY1hREAE
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 4
+    text:
+      text: >-
+        The homemade ramen noodles are excellent. We order two of the soups and
+        they were good enough, but not inspired. I also recommend the kaarage
+        chicken appetizer which tastes much better than it looks.
+
+
+        The atmosphere is post-apocalyptic (black walls, black leather
+        furniture, a small open kitchen, and punk rock music).  Well suited to a
+        younger set.
+      languageCode: en
+    originalText:
+      text: >-
+        The homemade ramen noodles are excellent. We order two of the soups and
+        they were good enough, but not inspired. I also recommend the kaarage
+        chicken appetizer which tastes much better than it looks.
+
+
+        The atmosphere is post-apocalyptic (black walls, black leather
+        furniture, a small open kitchen, and punk rock music).  Well suited to a
+        younger set.
+      languageCode: en
+    authorAttribution:
+      displayName: Tom B
+      uri: https://www.google.com/maps/contrib/103230276456245901025/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJxKWQKffswAhDz_tFRzwjuXkBxrJpTQ-EVhm2UHUfdRCYkIQ=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-19T18:33:58.904929Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNvc19UY1hREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNvc19UY1hREAE!2m1!1s0x80d9451144f9dc41:0xb8d4f66833d7f416
+  - name: >-
+      places/ChIJQdz5RBFF2YARFvTXM2j21Lg/reviews/ChZDSUhNMG9nS0VJQ0FnSURWdTRHWlBREAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        Excellent Japanese food in San Diego. Great service. The Tempura was
+        really good. Crunchy with the right amount of softness inside while not
+        being chewy. Ramen was pretty good as well. It could use some more heat
+        as the ramen wasn’t boiling hot just how I like it. We came here hoping
+        to charge for free on a destination charger but it was full. But to our
+        surprise, the food was excellent.
+      languageCode: en
+    originalText:
+      text: >-
+        Excellent Japanese food in San Diego. Great service. The Tempura was
+        really good. Crunchy with the right amount of softness inside while not
+        being chewy. Ramen was pretty good as well. It could use some more heat
+        as the ramen wasn’t boiling hot just how I like it. We came here hoping
+        to charge for free on a destination charger but it was full. But to our
+        surprise, the food was excellent.
+      languageCode: en
+    authorAttribution:
+      displayName: Wilson Samiano
+      uri: https://www.google.com/maps/contrib/100067411163302823949/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWYFXzcaneqyVAhWiQBn1V28fuLUefb2TLARzUefvYjkrXBo7XO=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2023-12-19T01:29:41.546510Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURWdTRHWlBREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURWdTRHWlBREAE!2m1!1s0x80d9451144f9dc41:0xb8d4f66833d7f416
+  - name: >-
+      places/ChIJQdz5RBFF2YARFvTXM2j21Lg/reviews/ChdDSUhNMG9nS0VJQ0FnSUN6enI2MnJRRRAB
+    relativePublishTimeDescription: 11 months ago
+    rating: 5
+    text:
+      text: >-
+        Best ramen in the area! We come here whenever we miss Japan ramen. My
+        daughter loves the shoyu ramen, she can finish the whole bowl and she’s
+        a picky eater, so we keep coming back! One suggestion is play more
+        relaxing type of music instead of upbeat. Other than that, this is our
+        go-to ramen place in Eastlake area.
+      languageCode: en
+    originalText:
+      text: >-
+        Best ramen in the area! We come here whenever we miss Japan ramen. My
+        daughter loves the shoyu ramen, she can finish the whole bowl and she’s
+        a picky eater, so we keep coming back! One suggestion is play more
+        relaxing type of music instead of upbeat. Other than that, this is our
+        go-to ramen place in Eastlake area.
+      languageCode: en
+    authorAttribution:
+      displayName: Roxanne Benavidez
+      uri: https://www.google.com/maps/contrib/107395371577070226756/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVW3mC9oQUS3CR5__W_-9snPggJyQBXx70ONYV4jZp0vxoyRDLt9Q=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-06-02T03:27:34.053912Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN6enI2MnJRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN6enI2MnJRRRAB!2m1!1s0x80d9451144f9dc41:0xb8d4f66833d7f416
+review_summary: >-
+  What Customers Are Saying About This Spot$$$Visitors often praise the fresh
+  sushi and hearty ramen for their bold flavors and generous portions, making it
+  a solid pick for anyone craving Japanese eats in the area. Many highlight the
+  appetizers and noodle dishes as standout items that deliver a satisfying mix
+  of textures and tastes, with feedback noting the overall value and welcoming
+  service. While some mention minor tweaks like portion sizes or ambiance could
+  enhance the experience, the general consensus is that it's a reliable choice
+  for families and groups looking for a casual vibe. Folks appreciate the spot's
+  ability to hit the mark on comfort food, especially during rainy days or when
+  avoiding longer drives to other sushi hubs. All in all, it's earned positive
+  nods as a neighborhood favorite that's worth trying for authentic,
+  well-prepared meals that leave you feeling content.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: true
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: true
+serves_brunch: true
+serves_cocktails: true
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

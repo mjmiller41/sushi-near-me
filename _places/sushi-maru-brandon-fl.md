@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Maru"
+title: Sushi Maru
 permalink: /florida/brandon/sushi-maru.html
 stateAbbr: FL
 stateName: Florida
 cityName: Brandon
 seo:
-  name: "Sushi Maru"
-  type: Restaurant
+  type: restaurant
   links: https://brandonsushimaru.com/
-description: "Chic spot in a strip mall with clever sushi rolls & other Japanese & Korean fare, plus sake flights. Sushi Maru serves delicious sushi in Brandon, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJv8-wBmTOwogRvi5bHHuMaI8
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: null
 rating: '4.6'
 rating_count: 0
 website: https://brandonsushimaru.com/
+description: >-
+  Discover Sushi Maru in Brandon, Florida$$$Sushi Maru in Brandon, FL, stands
+  out as a stylish eatery nestled in a convenient strip mall, serving up
+  inventive sushi rolls alongside a selection of Japanese and Korean favorites,
+  including refreshing sake options. The spot emphasizes fresh ingredients and
+  creative presentations that make dining here a memorable experience for those
+  seeking quality Asian cuisine. With accessible features like
+  wheelchair-friendly entrances and parking, it's an inclusive choice for a
+  variety of diners looking for a relaxed meal. The menu highlights diverse
+  dishes perfect for sharing, from flavorful rolls to hearty entrees, appealing
+  to anyone exploring top sushi options in the area. Whether you're in the mood
+  for a quick bite or a leisurely dinner, this location delivers a welcoming
+  vibe that complements the vibrant flavors of authentic Asian fare.
+generative_summary: >-
+  Discover Sushi Maru in Brandon, Florida$$$Sushi Maru in Brandon, FL, stands
+  out as a stylish eatery nestled in a convenient strip mall, serving up
+  inventive sushi rolls alongside a selection of Japanese and Korean favorites,
+  including refreshing sake options. The spot emphasizes fresh ingredients and
+  creative presentations that make dining here a memorable experience for those
+  seeking quality Asian cuisine. With accessible features like
+  wheelchair-friendly entrances and parking, it's an inclusive choice for a
+  variety of diners looking for a relaxed meal. The menu highlights diverse
+  dishes perfect for sharing, from flavorful rolls to hearty entrees, appealing
+  to anyone exploring top sushi options in the area. Whether you're in the mood
+  for a quick bite or a leisurely dinner, this location delivers a welcoming
+  vibe that complements the vibrant flavors of authentic Asian fare.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJv8-wBmTOwogRvi5bHHuMaI8/reviews/ChdDSUhNMG9nS0VJQ0FnTURnbnZXQm93RRAB
@@ -338,6 +363,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMtcTZQdG9RRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMtcTZQdG9RRRAB!2m1!1s0x88c2ce6406b0cfbf:0x8f688c7b1c5b2ebe
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors often rave about the fresh and
+  well-prepared sushi rolls that bring a burst of flavor to every meal, making
+  it a solid pick for anyone hunting for reliable sushi spots nearby. Service
+  stands out as friendly and attentive, helping to create a comfortable
+  atmosphere that enhances the overall dining experience. While most agree the
+  food hits the mark with its quality ingredients and variety, a few mentions of
+  occasional inconsistencies remind us that even great places can have off days.
+  Overall, it's a go-to for groups or families wanting to enjoy a mix of
+  Japanese and Korean dishes without the hassle. If you're on the hunt for tasty
+  sushi in the area, this spot generally delivers a satisfying visit that's
+  worth trying out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -371,8 +409,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Chic spot in a strip mall with clever sushi rolls & other Japanese & Korean
   fare, plus sake flights.
 

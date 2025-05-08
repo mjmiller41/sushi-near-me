@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Black Pearl Asian Bistro & Sushi"
+title: Black Pearl Asian Bistro & Sushi
 permalink: /utah/logan/black-pearl-asian-bistro-sushi.html
 stateAbbr: UT
 stateName: Utah
 cityName: Logan
 seo:
-  name: "Black Pearl Asian Bistro & Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.blackpearl84341.com/
-description: "Black Pearl Asian Bistro & Sushi serves delicious sushi in Logan, Utah. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJQezNG5h9VIcRrYbZeXD6ZVw
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x87547d981bcdec41:0x5c65fa7079d986ad!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:30 PM'
     - 'Tuesday: 11:00 AM – 9:30 PM'
     - 'Wednesday: 11:00 AM – 9:30 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:30 PM'
     - 'Saturday: 11:00 AM – 10:30 PM'
     - 'Sunday: 12:00 – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:30 PM'
-    - 'Tuesday: 11:00 AM – 9:30 PM'
-    - 'Wednesday: 11:00 AM – 9:30 PM'
-    - 'Thursday: 11:00 AM – 9:30 PM'
-    - 'Friday: 11:00 AM – 10:30 PM'
-    - 'Saturday: 11:00 AM – 10:30 PM'
-    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T04:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +246,50 @@ phone: (435) 750-0888
 price_level: PRICE_LEVEL_INEXPENSIVE
 price_range: $10 &ndash; $20
 rating: '4.4'
-rating_count: 0
+rating_count: 858
 website: https://www.blackpearl84341.com/
+description: >-
+  Discover Black Pearl Asian Bistro & Sushi in Logan, UT$$$Black Pearl Asian
+  Bistro & Sushi in Logan, UT, offers a welcoming spot for enjoying fresh
+  Asian-inspired dishes in a casual setting. This Japanese restaurant features a
+  vibrant sushi bar with an array of classic Japanese and Chinese fare, making
+  it a go-to choice for those seeking sushi places near me with authentic
+  flavors and affordable options. Accessibility is a highlight, with
+  wheelchair-friendly parking, entrances, restrooms, and seating that ensure
+  everyone can enjoy the experience comfortably. Open daily from late morning
+  into the evening, it's ideal for lunch or dinner outings, complemented by its
+  solid reputation for quality meals. Whether you're exploring top-rated sushi
+  restaurants in the area, the inviting atmosphere and diverse menu make it a
+  standout destination for flavorful bites.
+generative_summary: >-
+  Discover Black Pearl Asian Bistro & Sushi in Logan, UT$$$Black Pearl Asian
+  Bistro & Sushi in Logan, UT, offers a welcoming spot for enjoying fresh
+  Asian-inspired dishes in a casual setting. This Japanese restaurant features a
+  vibrant sushi bar with an array of classic Japanese and Chinese fare, making
+  it a go-to choice for those seeking sushi places near me with authentic
+  flavors and affordable options. Accessibility is a highlight, with
+  wheelchair-friendly parking, entrances, restrooms, and seating that ensure
+  everyone can enjoy the experience comfortably. Open daily from late morning
+  into the evening, it's ideal for lunch or dinner outings, complemented by its
+  solid reputation for quality meals. Whether you're exploring top-rated sushi
+  restaurants in the area, the inviting atmosphere and diverse menu make it a
+  standout destination for flavorful bites.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About Black Pearl Asian Bistro & Sushi$$$Visitors
+  often rave about the tasty sushi and well-prepared Asian dishes at this spot,
+  highlighting the fresh ingredients and generous portions that keep them coming
+  back. Many appreciate the friendly service and relaxed vibe, which add to the
+  overall enjoyable dining experience without any major complaints. Based on the
+  high ratings, it's clear that folks find the value for money impressive,
+  especially for those hunting for sushi near me that's both delicious and
+  reasonably priced. While some mention minor waits during peak times, the
+  positive feedback generally outweighs any downsides, making it a reliable
+  choice for groups or casual meals. Overall, it's a favorite among sushi
+  enthusiasts in Logan, offering a solid mix of quality and satisfaction that
+  leaves diners eager to return.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +315,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

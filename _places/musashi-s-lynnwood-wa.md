@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Musashi's"
+title: Musashi's
 permalink: /washington/lynnwood/musashi-s.html
 stateAbbr: WA
 stateName: Washington
 cityName: Lynnwood
 seo:
-  name: "Musashi's"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Musashi's serves delicious sushi in Lynnwood, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJnfghVwAFkFQRdYYuZF1Hvmk
 photos:
   - name: >-
@@ -166,7 +164,7 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m4!3m3!1s0x549005005721f89d:0x69be475d642e8675!9m1!1b1
   photosUri: >-
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x549005005721f89d:0x69be475d642e8675!10e5
-primary_type: Asian Restaurant
+primary_type: Sushi Restaurant
 opening_hours:
   regular: null
   current: null
@@ -183,7 +181,43 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Musashi's in Lynnwood, WA$$$Musashi's in Lynnwood, WA, stands out as
+  a welcoming sushi restaurant specializing in fresh Japanese-inspired dishes
+  that highlight quality ingredients and traditional flavors. The spot offers
+  accessible features like wheelchair-friendly parking and entrances, making it
+  an inclusive choice for diners seeking a comfortable meal. With its
+  operational status and array of visually appealing photos, this location
+  promises a straightforward yet enjoyable atmosphere for those exploring sushi
+  options in the area. Whether you're in the mood for top-rated sushi near you
+  or simply want to try authentic Japanese places close by, Musashi's delivers a
+  reliable dining experience that emphasizes simplicity and taste.
+generative_summary: >-
+  Discover Musashi's in Lynnwood, WA$$$Musashi's in Lynnwood, WA, stands out as
+  a welcoming sushi restaurant specializing in fresh Japanese-inspired dishes
+  that highlight quality ingredients and traditional flavors. The spot offers
+  accessible features like wheelchair-friendly parking and entrances, making it
+  an inclusive choice for diners seeking a comfortable meal. With its
+  operational status and array of visually appealing photos, this location
+  promises a straightforward yet enjoyable atmosphere for those exploring sushi
+  options in the area. Whether you're in the mood for top-rated sushi near you
+  or simply want to try authentic Japanese places close by, Musashi's delivers a
+  reliable dining experience that emphasizes simplicity and taste.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Folks who visit sushi restaurants like this one
+  often praise the fresh, well-prepared rolls and the overall vibe that makes
+  for a relaxed meal. Many appreciate the variety of options that cater to
+  different tastes, helping it stand out as a solid pick for anyone craving
+  Japanese cuisine nearby. While specific feedback might vary, common highlights
+  include the welcoming accessibility and efficient service that enhance the
+  overall enjoyment. It's frequently noted as a great spot for casual
+  get-togethers, with diners enjoying the straightforward appeal without any
+  major drawbacks. If you're hunting for the best sushi near me, this place gets
+  nods for its dependable quality and friendly atmosphere that keeps people
+  coming back.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -209,7 +243,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

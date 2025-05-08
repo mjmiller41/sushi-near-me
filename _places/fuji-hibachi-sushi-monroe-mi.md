@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Fuji Hibachi & Sushi"
+title: Fuji Hibachi & Sushi
 permalink: /michigan/monroe/fuji-hibachi-sushi.html
 stateAbbr: MI
 stateName: Michigan
 cityName: Monroe
 seo:
-  name: "Fuji Hibachi & Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.fujihibachiandsushi.com/
-description: "Fuji Hibachi & Sushi serves delicious sushi in Monroe, Michigan. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJU_YoE_RvO4gRC0z6wVRrZIQ
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 0
 website: http://www.fujihibachiandsushi.com/
+description: >-
+  Explore Fuji Hibachi & Sushi in Monroe, MI$$$Fuji Hibachi & Sushi in Monroe,
+  MI, delivers a welcoming experience with its focus on authentic Japanese
+  flavors, featuring fresh sushi rolls and flavorful hibachi options that appeal
+  to sushi enthusiasts nearby. The restaurant boasts a relaxed atmosphere
+  perfect for casual dining, complemented by a full bar offering a variety of
+  drinks to enhance your meal. Accessibility features like wheelchair-friendly
+  parking and seating make it easy for everyone to enjoy the diverse menu, which
+  includes creative dishes that highlight quality ingredients. Whether you're
+  searching for top-rated sushi restaurants in the area, this spot stands out
+  for its balance of tradition and convenience, making it a go-to choice for
+  those craving Japanese cuisine close to home.
+generative_summary: >-
+  Explore Fuji Hibachi & Sushi in Monroe, MI$$$Fuji Hibachi & Sushi in Monroe,
+  MI, delivers a welcoming experience with its focus on authentic Japanese
+  flavors, featuring fresh sushi rolls and flavorful hibachi options that appeal
+  to sushi enthusiasts nearby. The restaurant boasts a relaxed atmosphere
+  perfect for casual dining, complemented by a full bar offering a variety of
+  drinks to enhance your meal. Accessibility features like wheelchair-friendly
+  parking and seating make it easy for everyone to enjoy the diverse menu, which
+  includes creative dishes that highlight quality ingredients. Whether you're
+  searching for top-rated sushi restaurants in the area, this spot stands out
+  for its balance of tradition and convenience, making it a go-to choice for
+  those craving Japanese cuisine close to home.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJU_YoE_RvO4gRC0z6wVRrZIQ/reviews/ChZDSUhNMG9nS0VJQ0FnTURRZ2Q3S1dBEAE
@@ -366,6 +389,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQ3MjZtbS1BRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQ3MjZtbS1BRRAB!2m1!1s0x883b6ff41328f653:0x84646b54c1fa4c0b
+review_summary: >-
+  Customer Feedback Highlights$$$Visitors to this Japanese spot often rave about
+  the delicious sushi and hibachi dishes that deliver great flavors and generous
+  portions, making it a solid pick for anyone hunting for quality eats nearby.
+  Many appreciate the friendly service and reasonable prices, especially during
+  lunch, which add to the overall enjoyable vibe without breaking the bank.
+  While most feedback highlights the tasty variety and welcoming staff, a few
+  notes mention slight inconsistencies in portion sizes for certain appetizers,
+  though it doesn't detract from the experience much. Overall, it's praised as a
+  fantastic option for family outings or date nights, with the standout meals
+  leaving folks eager to return for more satisfying Japanese fare. If you're
+  exploring sushi places around Monroe, this one consistently earns nods for its
+  reliable and hearty offerings that keep diners coming back.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -398,7 +435,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

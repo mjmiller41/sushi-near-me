@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Green Bamboo Asian Bistro"
+title: Green Bamboo Asian Bistro
 permalink: /maryland/rockville/green-bamboo-asian-bistro.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Rockville
 seo:
-  name: "Green Bamboo Asian Bistro"
-  type: Restaurant
+  type: restaurant
   links: http://www.greenbamboorockville.com/
-description: "Relaxed, family-run restaurant with contemporary decor offering Japanese, Chinese & Thai cuisine. Green Bamboo Asian Bistro serves delicious sushi in Rockville, Maryland. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJOa0qRszNt4kRb9QnL0V8rQk
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $10 &ndash; $20
 rating: '4.3'
 rating_count: 0
 website: http://www.greenbamboorockville.com/
+description: >-
+  Discover Green Bamboo Asian Bistro in Rockville, MD$$$Green Bamboo Asian
+  Bistro in Rockville, MD, stands out as a welcoming spot for those seeking
+  diverse Asian flavors, blending Japanese, Chinese, and Thai influences in a
+  relaxed setting. This family-run establishment features contemporary decor and
+  a menu highlighted by fresh sushi options, making it a go-to choice for sushi
+  enthusiasts exploring local dining scenes. Accessibility is a key strength,
+  with wheelchair-friendly parking, entrances, and seating that ensure everyone
+  can enjoy the experience comfortably. The bistro offers moderately priced
+  meals ranging from flavorful noodles to satisfying soups, appealing to anyone
+  craving authentic Asian cuisine nearby. With options for dine-in or takeout,
+  it's an ideal destination for those hunting for top-rated sushi restaurants in
+  the area.
+generative_summary: >-
+  Discover Green Bamboo Asian Bistro in Rockville, MD$$$Green Bamboo Asian
+  Bistro in Rockville, MD, stands out as a welcoming spot for those seeking
+  diverse Asian flavors, blending Japanese, Chinese, and Thai influences in a
+  relaxed setting. This family-run establishment features contemporary decor and
+  a menu highlighted by fresh sushi options, making it a go-to choice for sushi
+  enthusiasts exploring local dining scenes. Accessibility is a key strength,
+  with wheelchair-friendly parking, entrances, and seating that ensure everyone
+  can enjoy the experience comfortably. The bistro offers moderately priced
+  meals ranging from flavorful noodles to satisfying soups, appealing to anyone
+  craving authentic Asian cuisine nearby. With options for dine-in or takeout,
+  it's an ideal destination for those hunting for top-rated sushi restaurants in
+  the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJOa0qRszNt4kRb9QnL0V8rQk/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ3MllMLW9RRRAB
@@ -352,6 +377,21 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNRaGNMR01REAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNRaGNMR01REAE!2m1!1s0x89b7cdcc462aad39:0x9ad7c452f27d46f
+review_summary: >-
+  What Visitors Are Sharing About the Food$$$Folks often rave about the fresh
+  sushi and tasty specials at this spot, especially with deals like half-off
+  weekends that make it a budget-friendly favorite for casual meals. While many
+  appreciate the quality of the noodles, soups, and overall service that keeps
+  things efficient and friendly, a few mentions highlight occasional
+  inconsistencies in preparation that could use some fine-tuning. Overall, the
+  vibe is positive, with diners enjoying the cozy atmosphere and variety that
+  caters to groups or families looking for a relaxed outing. It's clear that the
+  restaurant shines for its authentic flavors and accessibility, though some
+  suggest double-checking for the best rolls to ensure a smooth experience. If
+  you're on the hunt for reliable sushi places near you, this bistro generally
+  delivers a satisfying meal with room for even better consistency down the
+  line.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -386,8 +426,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Relaxed, family-run restaurant with contemporary decor offering Japanese,
   Chinese & Thai cuisine.
 

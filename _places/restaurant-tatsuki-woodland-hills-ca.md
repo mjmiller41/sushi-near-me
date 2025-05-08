@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Restaurant Tatsuki"
+title: Restaurant Tatsuki
 permalink: /california/woodland-hills/restaurant-tatsuki.html
 stateAbbr: CA
 stateName: California
 cityName: Woodland Hills
 seo:
-  name: "Restaurant Tatsuki"
-  type: Restaurant
+  type: restaurant
   links: https://tatsukirestaurants.com/?utm_source=google
-description: "Restaurant Tatsuki serves delicious sushi in Woodland Hills, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJPXcGzr2ewoARkDd9fE0y9es
 photos:
   - name: >-
@@ -170,7 +168,113 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c29ebdce06773d:0xebf5324d7c7d3790!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 14
+        minute: 30
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 2:30 PM, 5:00 – 10:00 PM'
     - 'Tuesday: 11:30 AM – 2:30 PM, 5:00 – 10:00 PM'
     - 'Wednesday: 11:30 AM – 2:30 PM, 5:00 – 10:00 PM'
@@ -178,54 +282,480 @@ opening_hours:
     - 'Friday: 11:30 AM – 2:30 PM, 5:00 – 10:00 PM'
     - 'Saturday: 11:30 AM – 2:30 PM, 5:00 – 10:00 PM'
     - 'Sunday: 5:00 – 9:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 2:30 PM, 5:00 – 10:00 PM'
-    - 'Tuesday: 11:30 AM – 2:30 PM, 5:00 – 10:00 PM'
-    - 'Wednesday: 11:30 AM – 2:30 PM, 5:00 – 10:00 PM'
-    - 'Thursday: 11:30 AM – 2:30 PM, 5:00 – 10:00 PM'
-    - 'Friday: 11:30 AM – 2:30 PM, 5:00 – 10:00 PM'
-    - 'Saturday: 11:30 AM – 2:30 PM, 5:00 – 10:00 PM'
-    - 'Sunday: 5:00 – 9:00 PM'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: false
+    periods:
+      - open:
+          day: 0
+          hour: 17
+          minute: 0
+        close:
+          day: 0
+          hour: 20
+          minute: 30
+      - open:
+          day: 1
+          hour: 11
+          minute: 30
+        close:
+          day: 1
+          hour: 14
+          minute: 0
+      - open:
+          day: 1
+          hour: 17
+          minute: 0
+        close:
+          day: 1
+          hour: 21
+          minute: 30
+      - open:
+          day: 2
+          hour: 11
+          minute: 30
+        close:
+          day: 2
+          hour: 14
+          minute: 0
+      - open:
+          day: 2
+          hour: 17
+          minute: 0
+        close:
+          day: 2
+          hour: 21
+          minute: 30
+      - open:
+          day: 3
+          hour: 11
+          minute: 30
+        close:
+          day: 3
+          hour: 14
+          minute: 0
+      - open:
+          day: 3
+          hour: 17
+          minute: 0
+        close:
+          day: 3
+          hour: 21
+          minute: 30
+      - open:
+          day: 4
+          hour: 11
+          minute: 30
+        close:
+          day: 4
+          hour: 14
+          minute: 0
+      - open:
+          day: 4
+          hour: 17
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 30
+      - open:
+          day: 5
+          hour: 11
+          minute: 30
+        close:
+          day: 5
+          hour: 14
+          minute: 0
+      - open:
+          day: 5
+          hour: 17
+          minute: 0
+        close:
+          day: 5
+          hour: 21
+          minute: 30
+      - open:
+          day: 6
+          hour: 11
+          minute: 30
+        close:
+          day: 6
+          hour: 14
+          minute: 0
+      - open:
+          day: 6
+          hour: 17
+          minute: 0
+        close:
+          day: 6
+          hour: 21
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 11:30 AM – 2:00 PM, 5:00 – 9:30 PM'
+      - 'Tuesday: 11:30 AM – 2:00 PM, 5:00 – 9:30 PM'
+      - 'Wednesday: 11:30 AM – 2:00 PM, 5:00 – 9:30 PM'
+      - 'Thursday: 11:30 AM – 2:00 PM, 5:00 – 9:30 PM'
+      - 'Friday: 11:30 AM – 2:00 PM, 5:00 – 9:30 PM'
+      - 'Saturday: 11:30 AM – 2:00 PM, 5:00 – 9:30 PM'
+      - 'Sunday: 5:00 – 8:30 PM'
+    secondaryHoursType: DELIVERY
+    nextOpenTime: '2025-05-04T00:00:00Z'
+  - openNow: false
+    periods:
+      - open:
+          day: 0
+          hour: 17
+          minute: 0
+        close:
+          day: 0
+          hour: 20
+          minute: 30
+      - open:
+          day: 1
+          hour: 11
+          minute: 30
+        close:
+          day: 1
+          hour: 14
+          minute: 0
+      - open:
+          day: 1
+          hour: 17
+          minute: 0
+        close:
+          day: 1
+          hour: 21
+          minute: 30
+      - open:
+          day: 2
+          hour: 11
+          minute: 30
+        close:
+          day: 2
+          hour: 14
+          minute: 0
+      - open:
+          day: 2
+          hour: 17
+          minute: 0
+        close:
+          day: 2
+          hour: 21
+          minute: 30
+      - open:
+          day: 3
+          hour: 11
+          minute: 30
+        close:
+          day: 3
+          hour: 14
+          minute: 0
+      - open:
+          day: 3
+          hour: 17
+          minute: 0
+        close:
+          day: 3
+          hour: 21
+          minute: 30
+      - open:
+          day: 4
+          hour: 11
+          minute: 30
+        close:
+          day: 4
+          hour: 14
+          minute: 0
+      - open:
+          day: 4
+          hour: 17
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 30
+      - open:
+          day: 5
+          hour: 11
+          minute: 30
+        close:
+          day: 5
+          hour: 14
+          minute: 0
+      - open:
+          day: 5
+          hour: 17
+          minute: 0
+        close:
+          day: 5
+          hour: 21
+          minute: 30
+      - open:
+          day: 6
+          hour: 11
+          minute: 30
+        close:
+          day: 6
+          hour: 14
+          minute: 0
+      - open:
+          day: 6
+          hour: 17
+          minute: 0
+        close:
+          day: 6
+          hour: 21
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 11:30 AM – 2:00 PM, 5:00 – 9:30 PM'
+      - 'Tuesday: 11:30 AM – 2:00 PM, 5:00 – 9:30 PM'
+      - 'Wednesday: 11:30 AM – 2:00 PM, 5:00 – 9:30 PM'
+      - 'Thursday: 11:30 AM – 2:00 PM, 5:00 – 9:30 PM'
+      - 'Friday: 11:30 AM – 2:00 PM, 5:00 – 9:30 PM'
+      - 'Saturday: 11:30 AM – 2:00 PM, 5:00 – 9:30 PM'
+      - 'Sunday: 5:00 – 8:30 PM'
+    secondaryHoursType: TAKEOUT
+    nextOpenTime: '2025-05-04T00:00:00Z'
 phone: (818) 340-8690
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
-rating: '4.5'
-rating_count: 0
+rating: '4.6'
+rating_count: 239
 website: https://tatsukirestaurants.com/?utm_source=google
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Explore Restaurant Tatsuki in Woodland Hills, CA$$$Restaurant Tatsuki in
+  Woodland Hills, California, stands out as a welcoming spot for sushi
+  enthusiasts, offering a cozy ambiance and a diverse selection of fresh
+  Japanese dishes. This eatery specializes in an array of expertly prepared
+  sushi rolls, including creative options like fiery specials, paired with
+  traditional sake to enhance the dining experience. With its accessible
+  features such as wheelchair-friendly parking and entrances, it's an inclusive
+  choice for anyone seeking quality Japanese cuisine in a relaxed setting. The
+  moderate pricing makes it a great option for those exploring sushi restaurants
+  nearby, where fresh ingredients and thoughtful flavors come together for a
+  satisfying meal. Whether you're in the mood for a quick bite or a leisurely
+  dinner, this neighborhood gem delivers an authentic taste of Japan right in
+  the heart of the area.
+generative_summary: >-
+  Explore Restaurant Tatsuki in Woodland Hills, CA$$$Restaurant Tatsuki in
+  Woodland Hills, California, stands out as a welcoming spot for sushi
+  enthusiasts, offering a cozy ambiance and a diverse selection of fresh
+  Japanese dishes. This eatery specializes in an array of expertly prepared
+  sushi rolls, including creative options like fiery specials, paired with
+  traditional sake to enhance the dining experience. With its accessible
+  features such as wheelchair-friendly parking and entrances, it's an inclusive
+  choice for anyone seeking quality Japanese cuisine in a relaxed setting. The
+  moderate pricing makes it a great option for those exploring sushi restaurants
+  nearby, where fresh ingredients and thoughtful flavors come together for a
+  satisfying meal. Whether you're in the mood for a quick bite or a leisurely
+  dinner, this neighborhood gem delivers an authentic taste of Japan right in
+  the heart of the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJPXcGzr2ewoARkDd9fE0y9es/reviews/ChZDSUhNMG9nS0VJQ0FnSUMzMzlQekpnEAE
+    relativePublishTimeDescription: 5 months ago
+    rating: 4
+    text:
+      text: >-
+        First time coming here. Sushi was OK. For the price I paid i expected
+        better cuts of fish. Not enough selection of rolls. Hand cut rolls range
+        from $19-$25. Kind of expensive for what you get. Service was OK. Not
+        really friendly staff. Heard the waitress talking about another employee
+        not in a good way. Really a conversation that should not be had when
+        customers are around. We want to be in a pleasant atmosphere when we
+        eat. Thanks. So many sushi places around Ventura Blvd.. I'd say maybe
+        try those first.
+      languageCode: en
+    originalText:
+      text: >-
+        First time coming here. Sushi was OK. For the price I paid i expected
+        better cuts of fish. Not enough selection of rolls. Hand cut rolls range
+        from $19-$25. Kind of expensive for what you get. Service was OK. Not
+        really friendly staff. Heard the waitress talking about another employee
+        not in a good way. Really a conversation that should not be had when
+        customers are around. We want to be in a pleasant atmosphere when we
+        eat. Thanks. So many sushi places around Ventura Blvd.. I'd say maybe
+        try those first.
+      languageCode: en
+    authorAttribution:
+      displayName: Tazzzie333
+      uri: https://www.google.com/maps/contrib/117946513004263764447/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVH56kCyUnWhZBvBS_rtq6wD4TgjSFmed4VKenSOKF6pB3lniSV=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2024-11-10T18:29:02.687630Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUMzMzlQekpnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUMzMzlQekpnEAE!2m1!1s0x80c29ebdce06773d:0xebf5324d7c7d3790
+  - name: >-
+      places/ChIJPXcGzr2ewoARkDd9fE0y9es/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3a0xlczR3RRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Last stop before LAX to return to flyover country.  We needed one more
+        taste of great CA sushi and we were thrilled!  Delicious!
+      languageCode: en
+    originalText:
+      text: >-
+        Last stop before LAX to return to flyover country.  We needed one more
+        taste of great CA sushi and we were thrilled!  Delicious!
+      languageCode: en
+    authorAttribution:
+      displayName: Ronny Loew
+      uri: https://www.google.com/maps/contrib/102086254021404686592/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWCBDxvYO3ijFu-mp92LN-AeUTRQTbKCslhsgK64sNbZBuWUuY0=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-03-22T19:28:11.761484Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUR3a0xlczR3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUR3a0xlczR3RRAB!2m1!1s0x80c29ebdce06773d:0xebf5324d7c7d3790
+  - name: >-
+      places/ChIJPXcGzr2ewoARkDd9fE0y9es/reviews/ChdDSUhNMG9nS0VJQ0FnTUNnN05YbDBBRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        Easily my favorite spot in the Valley.
+
+
+        Understated atmosphere is pitch perfect for a neighborhood Japanese
+        restaurant.
+
+
+        Absolute standouts are too long to list: JP red snapper nigiri; gyoza;
+        firecracker; mushrooms appetizer; sunumono; fish collars; tempura;
+        sashimi dinner; shrimp-asparagus roll; spider hand-roll, even the green
+        salad is consistently lovely.
+
+
+        Never change, Tatsuki.
+      languageCode: en
+    originalText:
+      text: >-
+        Easily my favorite spot in the Valley.
+
+
+        Understated atmosphere is pitch perfect for a neighborhood Japanese
+        restaurant.
+
+
+        Absolute standouts are too long to list: JP red snapper nigiri; gyoza;
+        firecracker; mushrooms appetizer; sunumono; fish collars; tempura;
+        sashimi dinner; shrimp-asparagus roll; spider hand-roll, even the green
+        salad is consistently lovely.
+
+
+        Never change, Tatsuki.
+      languageCode: en
+    authorAttribution:
+      displayName: jasmin tuffaha gutierrez
+      uri: https://www.google.com/maps/contrib/110146006676183751384/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWX6RBCl54xyxm0grrtznZEzdN-BYsX5H-PI2EVdpQZylGnE2_k=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-01T03:18:22.717608Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNnN05YbDBBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNnN05YbDBBRRAB!2m1!1s0x80c29ebdce06773d:0xebf5324d7c7d3790
+  - name: >-
+      places/ChIJPXcGzr2ewoARkDd9fE0y9es/reviews/ChdDSUhNMG9nS0VJQ0FnSUMzXzV6ZS13RRAB
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        Chef Chris was amazing. We had omakase and everything was delicious. The
+        ama ebi was absolutely melt in your mouth goodness. As always, thank you
+        for the wonderful meal. ❤️🍣😍
+      languageCode: en
+    originalText:
+      text: >-
+        Chef Chris was amazing. We had omakase and everything was delicious. The
+        ama ebi was absolutely melt in your mouth goodness. As always, thank you
+        for the wonderful meal. ❤️🍣😍
+      languageCode: en
+    authorAttribution:
+      displayName: Sachi Law
+      uri: https://www.google.com/maps/contrib/102331238205462594727/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWA4OnfiOskd5_MlycOV2zCx2KTrsJlB6Q8nN9tjgHXbrFkOpb3=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-11-10T21:06:57.465234Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMzXzV6ZS13RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMzXzV6ZS13RRAB!2m1!1s0x80c29ebdce06773d:0xebf5324d7c7d3790
+  - name: >-
+      places/ChIJPXcGzr2ewoARkDd9fE0y9es/reviews/ChZDSUhNMG9nS0VJQ0FnSURfOHNxbFF3EAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        Hands down. Best sushi I’ve ever had . Wonderful service and great vibe
+        to the place. In the past two weeks I’ve dined in and ordered from here
+        4 times. 10/10
+      languageCode: en
+    originalText:
+      text: >-
+        Hands down. Best sushi I’ve ever had . Wonderful service and great vibe
+        to the place. In the past two weeks I’ve dined in and ordered from here
+        4 times. 10/10
+      languageCode: en
+    authorAttribution:
+      displayName: Jeneen Castillo
+      uri: https://www.google.com/maps/contrib/107101559415121960234/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUA1kEounOcQXdtpxdLya59uoXb6455aDnYwe94oaAfvgs5ZOzg=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-01-23T05:27:58.326283Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURfOHNxbFF3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURfOHNxbFF3EAE!2m1!1s0x80c29ebdce06773d:0xebf5324d7c7d3790
+review_summary: >-
+  Insights from Recent Visitors$$$Visitors often praise the fresh and flavorful
+  sushi at this Japanese spot, highlighting how the quality fish and creative
+  rolls make it a standout choice for anyone craving top-rated options nearby.
+  Many appreciate the intimate atmosphere that feels just right for a casual
+  meal, with friendly service adding to the overall enjoyment. While some note
+  that prices can feel a bit steep for the portions, the general consensus leans
+  toward the delicious variety of dishes like tempura and soba, which keep
+  diners coming back. Overall, folks find it a reliable go-to for authentic
+  flavors that hit the spot, making it worth trying if you're exploring sushi
+  places in the vicinity. With its solid reputation, this restaurant continues
+  to deliver a positive experience that balances taste and hospitality.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
+curbside_pickup: false
+delivery: true
+dine_in: true
+good_for_children: false
 good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
+good_for_sports: true
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: false
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
 serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

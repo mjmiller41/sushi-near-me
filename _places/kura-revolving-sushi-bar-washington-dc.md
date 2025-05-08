@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kura Revolving Sushi Bar"
+title: Kura Revolving Sushi Bar
 permalink: /district-of-columbia/washington/kura-revolving-sushi-bar.html
 stateAbbr: DC
 stateName: District of Columbia
 cityName: Washington
 seo:
-  name: "Kura Revolving Sushi Bar"
-  type: Restaurant
+  type: restaurant
   links: https://kurasushi.com/locations/washington-dc/
-description: "Serves an extensive menu of rolls, nigiris, soups, plus desserts on a conveyor belt. Kura Revolving Sushi Bar serves delicious sushi in Washington, District of Columbia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJXRZ61Oi3t4kROXt9nd0Uo2w
 photos:
   - name: >-
@@ -184,6 +182,31 @@ price_range: null
 rating: '4.2'
 rating_count: 0
 website: https://kurasushi.com/locations/washington-dc/
+description: >-
+  Experience the Finer Points of Kura Revolving Sushi Bar$$$Kura Revolving Sushi
+  Bar in Washington, DC, delivers a dynamic twist on traditional Japanese
+  cuisine with its innovative conveyor belt system that brings fresh dishes
+  right to your table. This spot stands out for its wide array of rolls, nigiri,
+  soups, and desserts, all crafted with quality ingredients that allow diners to
+  explore flavors in manageable portions. The lively atmosphere enhances the
+  meal, making it an engaging choice for groups or families seeking a casual
+  adventure in Japanese dining. Accessibility features like wheelchair-friendly
+  entrances add to the welcoming vibe, ensuring everyone can enjoy the
+  experience. Whether you're looking for top-rated sushi options in the area,
+  it's a go-to place for those craving variety and fun in their meal.
+generative_summary: >-
+  Experience the Finer Points of Kura Revolving Sushi Bar$$$Kura Revolving Sushi
+  Bar in Washington, DC, delivers a dynamic twist on traditional Japanese
+  cuisine with its innovative conveyor belt system that brings fresh dishes
+  right to your table. This spot stands out for its wide array of rolls, nigiri,
+  soups, and desserts, all crafted with quality ingredients that allow diners to
+  explore flavors in manageable portions. The lively atmosphere enhances the
+  meal, making it an engaging choice for groups or families seeking a casual
+  adventure in Japanese dining. Accessibility features like wheelchair-friendly
+  entrances add to the welcoming vibe, ensuring everyone can enjoy the
+  experience. Whether you're looking for top-rated sushi options in the area,
+  it's a go-to place for those craving variety and fun in their meal.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJXRZ61Oi3t4kROXt9nd0Uo2w/reviews/ChZDSUhNMG9nS0VJQ0FnTURRaHFQallREAE
@@ -387,6 +410,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURJZ09MNGRnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJZ09MNGRnEAE!2m1!1s0x89b7b7e8d47a165d:0x6ca314dd9d7d7b39
+review_summary: >-
+  Insights from Recent Visitors$$$Folks who've tried this sushi spot often rave
+  about the entertaining conveyor belt setup and the fresh, flavorful dishes
+  that keep things exciting from start to finish. Many appreciate the helpful
+  staff and fun extras like robots delivering drinks, which make the whole
+  outing feel unique and memorable for all ages. Reviewers highlight the great
+  variety of portions, allowing easy sampling without waste, and note that even
+  non-sushi eaters find satisfying alternatives like ramen. While some mention
+  waits during busy times, the overall consensus is that the experience is worth
+  it for the quality and fun vibe. If you're searching for reliable sushi places
+  nearby, this one consistently delivers a positive and enjoyable dining
+  adventure.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidStreetParking: true
   valetParking: false
@@ -418,8 +454,8 @@ serves_lunch: true
 serves_vegetarian_food: false
 serves_wine: null
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Serves an extensive menu of rolls, nigiris, soups, plus desserts on a conveyor
   belt.
 

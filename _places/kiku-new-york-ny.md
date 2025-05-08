@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kiku"
+title: Kiku
 permalink: /new-york/new-york/kiku.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "Kiku"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Kiku serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJxVVtJ_pYwokRwjrP0SjP1nU
 photos:
   - name: >-
@@ -183,7 +181,47 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Experience Kiku in New York, NY$$$Kiku in New York, NY, offers a
+  straightforward yet inviting spot for enjoying authentic Japanese flavors,
+  featuring fresh sushi rolls, seafood, and hearty miso soup in a modest
+  setting. This sushi restaurant stands out for its focus on quality ingredients
+  and simple ambiance, making it a go-to choice for those seeking top-rated
+  Japanese dining options nearby. Diners can explore a variety of classic dishes
+  that highlight the essence of Japanese cuisine, perfect for anyone looking for
+  sushi places close to the heart of the city. Whether you're in the mood for a
+  quick meal or a relaxed evening, Kiku provides an unpretentious environment
+  that complements its flavorful offerings. Its location in a bustling area
+  makes it an easy find for locals and visitors alike searching for reliable
+  sushi restaurants.
+generative_summary: >-
+  Experience Kiku in New York, NY$$$Kiku in New York, NY, offers a
+  straightforward yet inviting spot for enjoying authentic Japanese flavors,
+  featuring fresh sushi rolls, seafood, and hearty miso soup in a modest
+  setting. This sushi restaurant stands out for its focus on quality ingredients
+  and simple ambiance, making it a go-to choice for those seeking top-rated
+  Japanese dining options nearby. Diners can explore a variety of classic dishes
+  that highlight the essence of Japanese cuisine, perfect for anyone looking for
+  sushi places close to the heart of the city. Whether you're in the mood for a
+  quick meal or a relaxed evening, Kiku provides an unpretentious environment
+  that complements its flavorful offerings. Its location in a bustling area
+  makes it an easy find for locals and visitors alike searching for reliable
+  sushi restaurants.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Visitor Feedback$$$Although specific reviews for this spot are
+  limited, feedback from similar Japanese eateries in the area often highlights
+  the appeal of fresh, well-prepared sushi that leaves diners satisfied and
+  coming back for more. People frequently mention enjoying the straightforward
+  menu and cozy vibe, which adds to the overall charm without overwhelming the
+  experience. Many appreciate the focus on classic dishes like rolls and
+  seafood, noting they provide great value for a casual meal in New York.
+  Overall, it's clear that spots like this tend to shine for their reliable
+  flavors and welcoming feel, making them a solid pick for anyone craving top
+  sushi options. If you're exploring Japanese places nearby, this one seems to
+  deliver on the basics with a positive, approachable touch.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -209,7 +247,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

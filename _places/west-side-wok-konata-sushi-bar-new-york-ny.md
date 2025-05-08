@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "West Side Wok & Konata Sushi Bar"
+title: West Side Wok & Konata Sushi Bar
 permalink: /new-york/new-york/west-side-wok-konata-sushi-bar.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "West Side Wok & Konata Sushi Bar"
-  type: Restaurant
-  links: https://www.westsidewok.com/
-description: "West Side Wok & Konata Sushi Bar serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://order.toasttab.com/online/west-side-wok-691-amsterdam-av
 place_id: ChIJVYvJZV5ZwokRB_UCppYi50w
 photos:
   - name: >-
@@ -168,7 +166,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c2595e65c98b55:0x4ce72296a602f507!10e5
 primary_type: Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 23
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 23
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 23
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 23
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 23
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 11:00 PM'
     - 'Tuesday: 11:30 AM – 11:00 PM'
     - 'Wednesday: 11:30 AM – 11:00 PM'
@@ -176,14 +224,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 3:00 PM'
     - 'Saturday: Closed'
     - 'Sunday: 12:00 – 11:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 11:00 PM'
-    - 'Tuesday: 11:30 AM – 11:00 PM'
-    - 'Wednesday: 11:30 AM – 11:00 PM'
-    - 'Thursday: 11:30 AM – 11:00 PM'
-    - 'Friday: 11:30 AM – 3:00 PM'
-    - 'Saturday: Closed'
-    - 'Sunday: 12:00 – 11:00 PM'
+  nextOpenTime: '2025-05-04T16:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -195,9 +236,49 @@ phone: (212) 222-2373
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.3'
-rating_count: 0
-website: https://www.westsidewok.com/
+rating_count: 57
+website: https://order.toasttab.com/online/west-side-wok-691-amsterdam-av
+description: >-
+  Explore West Side Wok & Konata Sushi Bar in New York, NY$$$Nestled in the
+  vibrant streets of New York, NY, West Side Wok & Konata Sushi Bar offers a
+  delightful mix of kosher Asian flavors, including fresh sushi rolls and savory
+  Chinese and Thai dishes perfect for those seeking convenient takeout or
+  delivery options. The spot stands out for its commitment to quality
+  ingredients and a menu that caters to a variety of tastes, making it a go-to
+  choice for anyone craving authentic Asian cuisine in a welcoming setting. With
+  wheelchair-accessible entrances and flexible hours that extend into the
+  evening, it provides an inclusive experience for diners looking to enjoy meals
+  on the go. Whether you're in the mood for expertly prepared sushi or hearty
+  wok specials, this establishment combines tradition with modern convenience to
+  satisfy your cravings.
+generative_summary: >-
+  Explore West Side Wok & Konata Sushi Bar in New York, NY$$$Nestled in the
+  vibrant streets of New York, NY, West Side Wok & Konata Sushi Bar offers a
+  delightful mix of kosher Asian flavors, including fresh sushi rolls and savory
+  Chinese and Thai dishes perfect for those seeking convenient takeout or
+  delivery options. The spot stands out for its commitment to quality
+  ingredients and a menu that caters to a variety of tastes, making it a go-to
+  choice for anyone craving authentic Asian cuisine in a welcoming setting. With
+  wheelchair-accessible entrances and flexible hours that extend into the
+  evening, it provides an inclusive experience for diners looking to enjoy meals
+  on the go. Whether you're in the mood for expertly prepared sushi or hearty
+  wok specials, this establishment combines tradition with modern convenience to
+  satisfy your cravings.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Diners Are Buzzing About$$$Based on the solid 4.3 rating from numerous
+  visitors, this sushi spot in New York continues to impress with its fresh and
+  flavorful offerings that keep locals coming back for more. People often
+  highlight the reliable taste and variety in the menu, making it a favorite for
+  quick Asian bites that feel just right. While some mention the takeout focus
+  adds to its appeal for busy days, others appreciate the overall value without
+  any major drawbacks standing out. Overall, it's clear that fans of
+  Japanese-inspired dishes find plenty to love here, with the positive feedback
+  painting a picture of a dependable choice for satisfying sushi cravings. If
+  you're searching for top-rated options nearby, this place delivers a
+  consistently enjoyable experience that balances taste and convenience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -223,7 +304,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

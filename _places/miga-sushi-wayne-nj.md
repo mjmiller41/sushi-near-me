@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Miga Sushi"
+title: Miga Sushi
 permalink: /new-jersey/wayne/miga-sushi.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Wayne
 seo:
-  name: "Miga Sushi"
-  type: Restaurant
-  links: null
-description: "Miga Sushi serves delicious sushi in Wayne, New Jersey. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.migasushi.com/
 place_id: ChIJSS-xezgDw4kRRdhg-1d-Z-I
 photos:
   - name: >-
@@ -170,8 +168,105 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c303387bb12f49:0xe2677e57fb60d845!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 15
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 15
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 15
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 15
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 15
+        minute: 30
+    - open:
+        day: 6
+        hour: 16
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: Closed'
+    - 'Tuesday: 11:30 AM – 3:30 PM, 4:30 – 10:00 PM'
+    - 'Wednesday: 11:30 AM – 3:30 PM, 4:30 – 10:00 PM'
+    - 'Thursday: 11:30 AM – 3:30 PM, 4:30 – 10:00 PM'
+    - 'Friday: 11:30 AM – 3:30 PM, 4:30 – 10:30 PM'
+    - 'Saturday: 11:30 AM – 3:30 PM, 4:30 – 10:30 PM'
+    - 'Sunday: 12:00 – 9:30 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +274,50 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
+phone: (973) 694-7777
 price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+price_range: $30 &ndash; $50
+rating: '4.3'
+rating_count: 223
+website: https://www.migasushi.com/
+description: >-
+  Discover Miga Sushi in Wayne, NJ$$$Miga Sushi in Wayne, NJ, stands out as a
+  welcoming sushi restaurant that combines casual dining with an all-you-can-eat
+  experience featuring inventive rolls and fresh flavors. This spot is ideal for
+  those seeking top-rated sushi options nearby, offering a variety of creative
+  dishes that highlight quality ingredients and thoughtful presentations. With
+  accessibility features like wheelchair-friendly entrances and seating, it's
+  designed to accommodate all guests comfortably. The restaurant maintains
+  flexible hours, making it easy to enjoy a satisfying meal whether you're
+  stopping by for lunch or dinner. Overall, it's a go-to choice for anyone
+  exploring Japanese-inspired places near me that balance affordability with
+  delicious, authentic tastes.
+generative_summary: >-
+  Discover Miga Sushi in Wayne, NJ$$$Miga Sushi in Wayne, NJ, stands out as a
+  welcoming sushi restaurant that combines casual dining with an all-you-can-eat
+  experience featuring inventive rolls and fresh flavors. This spot is ideal for
+  those seeking top-rated sushi options nearby, offering a variety of creative
+  dishes that highlight quality ingredients and thoughtful presentations. With
+  accessibility features like wheelchair-friendly entrances and seating, it's
+  designed to accommodate all guests comfortably. The restaurant maintains
+  flexible hours, making it easy to enjoy a satisfying meal whether you're
+  stopping by for lunch or dinner. Overall, it's a go-to choice for anyone
+  exploring Japanese-inspired places near me that balance affordability with
+  delicious, authentic tastes.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Folks who visit Miga Sushi often rave about the
+  fresh and creative sushi selections, making it a solid pick for anyone hunting
+  for the best sushi near me. Many appreciate the generous portions and variety,
+  with comments highlighting how the all-you-can-eat deals deliver great value
+  without skimping on quality. While some note that wait times can vary during
+  peak hours, the overall atmosphere and service keep things enjoyable and
+  relaxed. Customers frequently mention the flavorful rolls and welcoming vibe
+  as standout features, helping it maintain a strong reputation among local
+  sushi spots. In summary, it's a reliable option that leaves most diners
+  satisfied and eager to return for more tasty experiences.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +343,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

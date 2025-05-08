@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Bonchon Mall of America"
+title: Bonchon Mall of America
 permalink: /minnesota/bloomington/bonchon-mall-of-america.html
 stateAbbr: MN
 stateName: Minnesota
 cityName: Bloomington
 seo:
-  name: "Bonchon Mall of America"
-  type: Restaurant
-  links: null
-description: "Bonchon Mall of America serves delicious sushi in Bloomington, Minnesota. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://locations.bonchon.com/ll/US/MN/Bloomington/372-South-Ave
 place_id: ChIJU2MA95Uv9ocRHjIVeBWxpnc
 photos:
   - name: >-
@@ -143,7 +141,7 @@ photos:
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICKnciKrQE!2e10!4m2!3m1!1s0x87f62f95f7006353:0x77a6b1157815321e
 address: Mall of America®, 372 South Avenue, Bloomington, MN 55425, USA
-street: Mall of America®, 372 South Avenue
+street: Mall of America®,372 South Avenue
 city: Bloomington
 state: MN
 zip: '55425'
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x87f62f95f7006353:0x77a6b1157815321e!10e5
 primary_type: Asian Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 19
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 9:00 PM'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 9:00 PM'
+    - 'Saturday: 11:00 AM – 9:00 PM'
+    - 'Sunday: 11:00 AM – 7:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,53 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (952) 513-7644
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '3.4'
+rating_count: 158
+website: https://locations.bonchon.com/ll/US/MN/Bloomington/372-South-Ave
+description: >-
+  Discover Bonchon in Bloomington, MN$$$Bonchon Mall of America in Bloomington,
+  MN, offers a vibrant dining experience centered around Korean fried chicken
+  and Asian fusion dishes in a lively food-court environment. This spot stands
+  out for its flavorful, double-fried chicken that's crispy on the outside and
+  juicy inside, paired with a variety of sides that blend traditional and modern
+  Asian flavors. Located within the bustling Mall of America, it provides
+  convenient accessibility features like wheelchair-friendly entrances and
+  seating, making it easy for everyone to enjoy a meal. The restaurant maintains
+  extended hours to accommodate shoppers and diners, ensuring a welcoming
+  atmosphere for casual visits or quick bites. With its focus on fresh
+  ingredients and fusion creativity, it's a go-to choice for those seeking Asian
+  restaurants near me in a dynamic setting.
+generative_summary: >-
+  Discover Bonchon in Bloomington, MN$$$Bonchon Mall of America in Bloomington,
+  MN, offers a vibrant dining experience centered around Korean fried chicken
+  and Asian fusion dishes in a lively food-court environment. This spot stands
+  out for its flavorful, double-fried chicken that's crispy on the outside and
+  juicy inside, paired with a variety of sides that blend traditional and modern
+  Asian flavors. Located within the bustling Mall of America, it provides
+  convenient accessibility features like wheelchair-friendly entrances and
+  seating, making it easy for everyone to enjoy a meal. The restaurant maintains
+  extended hours to accommodate shoppers and diners, ensuring a welcoming
+  atmosphere for casual visits or quick bites. With its focus on fresh
+  ingredients and fusion creativity, it's a go-to choice for those seeking Asian
+  restaurants near me in a dynamic setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Visitor Feedback Highlights$$$Folks heading to Bonchon often rave about the
+  standout Korean fried chicken that's packed with flavor and served up hot,
+  making it a solid pick for anyone craving Asian fusion fare. Many appreciate
+  the generous portions and variety of options that cater to different tastes,
+  though some note that wait times can vary during peak hours at the mall.
+  Overall, the vibe feels upbeat and family-friendly, with diners enjoying the
+  casual setup that's perfect for a quick stop while exploring. It's clear that
+  the focus on quality ingredients keeps people coming back, even if service
+  speed isn't always perfect. If you're on the hunt for top-rated Asian spots
+  near me, this place delivers a reliably tasty experience with room for the
+  occasional improvement.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +314,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

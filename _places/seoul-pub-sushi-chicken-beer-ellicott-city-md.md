@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Seoul Pub Sushi Chicken & Beer"
+title: Seoul Pub Sushi Chicken & Beer
 permalink: /maryland/ellicott-city/seoul-pub-sushi-chicken-beer.html
 stateAbbr: MD
 stateName: Maryland
 cityName: Ellicott City
 seo:
-  name: "Seoul Pub Sushi Chicken & Beer"
-  type: Restaurant
+  type: restaurant
   links: https://www.marylandkoreanway.com/seoul-pub-sushi-chicken-beer
-description: "Seoul Pub Sushi Chicken & Beer serves delicious sushi in Ellicott City, Maryland. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, and dinner."
 place_id: ChIJcfpTB4AfyIkRJLB5yVpKG60
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $20 &ndash; $30
 rating: '4.7'
 rating_count: 0
 website: https://www.marylandkoreanway.com/seoul-pub-sushi-chicken-beer
+description: >-
+  Discover Seoul Pub Sushi Chicken & Beer in Ellicott City, MD$$$Seoul Pub Sushi
+  Chicken & Beer in Ellicott City, MD, stands out as a welcoming Korean eatery
+  specializing in flavorful fried chicken and comforting dishes that blend
+  tradition with casual vibes. This spot offers a variety of fresh sushi options
+  alongside hearty fare, making it a go-to choice for those seeking authentic
+  Asian flavors in a relaxed setting. With accessible features like
+  wheelchair-friendly entrances and parking, it's designed to accommodate
+  everyone looking for a satisfying meal. The menu highlights generous portions
+  and a selection of beers, appealing to groups or individuals craving top-rated
+  Korean and Japanese-inspired cuisine. Whether you're exploring sushi
+  restaurants nearby or enjoying a laid-back dinner, this place delivers a blend
+  of taste and convenience that keeps locals coming back.
+generative_summary: >-
+  Discover Seoul Pub Sushi Chicken & Beer in Ellicott City, MD$$$Seoul Pub Sushi
+  Chicken & Beer in Ellicott City, MD, stands out as a welcoming Korean eatery
+  specializing in flavorful fried chicken and comforting dishes that blend
+  tradition with casual vibes. This spot offers a variety of fresh sushi options
+  alongside hearty fare, making it a go-to choice for those seeking authentic
+  Asian flavors in a relaxed setting. With accessible features like
+  wheelchair-friendly entrances and parking, it's designed to accommodate
+  everyone looking for a satisfying meal. The menu highlights generous portions
+  and a selection of beers, appealing to groups or individuals craving top-rated
+  Korean and Japanese-inspired cuisine. Whether you're exploring sushi
+  restaurants nearby or enjoying a laid-back dinner, this place delivers a blend
+  of taste and convenience that keeps locals coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJcfpTB4AfyIkRJLB5yVpKG60/reviews/ChZDSUhNMG9nS0VJQ0FnTURJbXVtTUZREAE
@@ -328,6 +353,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNGeV9hWWNnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNGeV9hWWNnEAE!2m1!1s0x89c81f800753fa71:0xad1b4a5ac979b024
+review_summary: >-
+  What Customers Are Saying$$$Visitors often rave about the delicious food and
+  welcoming atmosphere at this spot, highlighting the crispy chicken and bold
+  flavors that make every bite memorable. Many appreciate the large portions and
+  great value, perfect for sharing with friends or family during a casual
+  outing. While some note that certain dishes might not suit every palate, the
+  overall experience is praised for its friendly service and authentic Korean
+  vibes that add a special touch. Folks frequently mention it as a hidden gem
+  for affordable, high-quality meals, with the beer selection enhancing the fun.
+  If you're hunting for the best sushi near me or top-rated Korean options, this
+  place earns high marks for its honest, enjoyable dining experience that leaves
+  most satisfied and eager to return.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -358,7 +396,7 @@ serves_lunch: null
 serves_vegetarian_food: false
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

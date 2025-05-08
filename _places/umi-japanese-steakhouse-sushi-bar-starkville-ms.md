@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Umi Japanese Steakhouse & Sushi Bar"
+title: Umi Japanese Steakhouse & Sushi Bar
 permalink: /mississippi/starkville/umi-japanese-steakhouse-sushi-bar.html
 stateAbbr: MS
 stateName: Mississippi
 cityName: Starkville
 seo:
-  name: "Umi Japanese Steakhouse & Sushi Bar"
-  type: Restaurant
-  links: null
-description: "Umi Japanese Steakhouse & Sushi Bar serves delicious sushi in Starkville, Mississippi. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.umistarkville.com/
 place_id: ChIJ1U8ce0A1gYgRf7rMvzJc5U8
 photos:
   - name: >-
@@ -170,8 +168,113 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x888135407b1c4fd5:0x4fe55c32bfccba7f!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 2:30 PM, 4:30 – 9:30 PM'
+    - 'Tuesday: 11:00 AM – 2:30 PM, 4:30 – 9:30 PM'
+    - 'Wednesday: 11:00 AM – 2:30 PM, 4:30 – 9:30 PM'
+    - 'Thursday: 11:00 AM – 2:30 PM, 4:30 – 9:30 PM'
+    - 'Friday: 11:00 AM – 2:30 PM, 4:30 – 10:00 PM'
+    - 'Saturday: 11:00 AM – 10:00 PM'
+    - 'Sunday: 11:00 AM – 9:30 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +282,52 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (662) 323-5258
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.3'
+rating_count: 743
+website: http://www.umistarkville.com/
+description: >-
+  Discover Umi Japanese Steakhouse in Starkville, Mississippi$$$Nestled in
+  Starkville, Mississippi, Umi Japanese Steakhouse & Sushi Bar stands out as a
+  go-to spot for fresh Japanese cuisine and expertly crafted rolls. This
+  inviting eatery offers a variety of lunch and dinner options, including
+  flavorful entrees and vegetarian choices, all served in a relaxed atmosphere
+  that appeals to sushi enthusiasts. Diners can savor the artful presentation of
+  dishes, from sizzling steakhouse favorites to creative sushi combinations that
+  highlight quality ingredients. With its accessible features and welcoming
+  vibe, it's an ideal choice for anyone seeking a casual yet memorable meal in
+  the area. Whether you're exploring top-rated Japanese dining options nearby,
+  Umi delivers an authentic experience that keeps locals coming back for more.
+generative_summary: >-
+  Discover Umi Japanese Steakhouse in Starkville, Mississippi$$$Nestled in
+  Starkville, Mississippi, Umi Japanese Steakhouse & Sushi Bar stands out as a
+  go-to spot for fresh Japanese cuisine and expertly crafted rolls. This
+  inviting eatery offers a variety of lunch and dinner options, including
+  flavorful entrees and vegetarian choices, all served in a relaxed atmosphere
+  that appeals to sushi enthusiasts. Diners can savor the artful presentation of
+  dishes, from sizzling steakhouse favorites to creative sushi combinations that
+  highlight quality ingredients. With its accessible features and welcoming
+  vibe, it's an ideal choice for anyone seeking a casual yet memorable meal in
+  the area. Whether you're exploring top-rated Japanese dining options nearby,
+  Umi delivers an authentic experience that keeps locals coming back for more.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About Umi$$$Folks around Starkville seem to really
+  enjoy their visits to this Japanese spot, with many praising the tasty sushi
+  and well-prepared meals that hit the spot for a satisfying lunch or dinner.
+  The overall vibe gets high marks for being laid-back and family-friendly,
+  making it a solid pick for groups or anyone in the mood for reliable Japanese
+  flavors. While a few mentions note that wait times can vary during busy
+  evenings, the friendly service and fresh ingredients often shine through,
+  leaving visitors feeling glad they stopped by. With a strong rating reflecting
+  plenty of positive feedback, it's clear that the value for the price makes it
+  a favorite among those hunting for nearby dining gems. All in all, if you're
+  on the lookout for enjoyable Japanese eats, this place tends to deliver a
+  worthwhile experience that keeps the good vibes flowing.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +353,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

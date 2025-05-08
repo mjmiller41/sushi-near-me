@@ -5,4 +5,5 @@ permalink: /florida/davenport/
 stateAbbr: FL
 stateName: Florida
 cityName: Davenport
+
 ---

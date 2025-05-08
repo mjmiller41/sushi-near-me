@@ -5,4 +5,5 @@ permalink: /south-carolina/myrtle-beach/
 stateAbbr: SC
 stateName: South Carolina
 cityName: Myrtle Beach
+
 ---

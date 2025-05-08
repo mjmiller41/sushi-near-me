@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kuka Sushi & Izakaya"
+title: Kuka Sushi & Izakaya
 permalink: /arizona/tempe/kuka-sushi-izakaya.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Tempe
 seo:
-  name: "Kuka Sushi & Izakaya"
-  type: Restaurant
+  type: restaurant
   links: http://kukasushi.com/
-description: "Kuka Sushi & Izakaya serves delicious sushi in Tempe, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJzYZ61uIJK4cRtItvjQKWXGk
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x872b09e2d67a86cd:0x695c96028d6f8bb4!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 9:00 PM'
     - 'Tuesday: 11:30 AM – 9:00 PM'
     - 'Wednesday: 11:30 AM – 9:00 PM'
@@ -178,54 +234,531 @@ opening_hours:
     - 'Friday: 11:30 AM – 10:00 PM'
     - 'Saturday: 11:30 AM – 10:00 PM'
     - 'Sunday: 11:30 AM – 9:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 9:00 PM'
-    - 'Tuesday: 11:30 AM – 9:00 PM'
-    - 'Wednesday: 11:30 AM – 9:00 PM'
-    - 'Thursday: 11:30 AM – 9:00 PM'
-    - 'Friday: 11:30 AM – 10:00 PM'
-    - 'Saturday: 11:30 AM – 10:00 PM'
-    - 'Sunday: 11:30 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T05:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 11
+          minute: 30
+        close:
+          day: 0
+          hour: 18
+          minute: 0
+      - open:
+          day: 1
+          hour: 11
+          minute: 30
+        close:
+          day: 1
+          hour: 18
+          minute: 0
+      - open:
+          day: 2
+          hour: 11
+          minute: 30
+        close:
+          day: 2
+          hour: 18
+          minute: 0
+      - open:
+          day: 3
+          hour: 11
+          minute: 30
+        close:
+          day: 3
+          hour: 18
+          minute: 0
+      - open:
+          day: 4
+          hour: 11
+          minute: 30
+        close:
+          day: 4
+          hour: 18
+          minute: 0
+      - open:
+          day: 5
+          hour: 11
+          minute: 30
+        close:
+          day: 5
+          hour: 18
+          minute: 0
+      - open:
+          day: 6
+          hour: 11
+          minute: 30
+        close:
+          day: 6
+          hour: 18
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 11:30 AM – 6:00 PM'
+      - 'Tuesday: 11:30 AM – 6:00 PM'
+      - 'Wednesday: 11:30 AM – 6:00 PM'
+      - 'Thursday: 11:30 AM – 6:00 PM'
+      - 'Friday: 11:30 AM – 6:00 PM'
+      - 'Saturday: 11:30 AM – 6:00 PM'
+      - 'Sunday: 11:30 AM – 6:00 PM'
+    secondaryHoursType: HAPPY_HOUR
+    nextCloseTime: '2025-05-04T01:00:00Z'
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 11
+          minute: 30
+        close:
+          day: 0
+          hour: 20
+          minute: 30
+      - open:
+          day: 1
+          hour: 11
+          minute: 30
+        close:
+          day: 1
+          hour: 20
+          minute: 30
+      - open:
+          day: 2
+          hour: 11
+          minute: 30
+        close:
+          day: 2
+          hour: 20
+          minute: 30
+      - open:
+          day: 3
+          hour: 11
+          minute: 30
+        close:
+          day: 3
+          hour: 20
+          minute: 30
+      - open:
+          day: 4
+          hour: 11
+          minute: 30
+        close:
+          day: 4
+          hour: 20
+          minute: 30
+      - open:
+          day: 5
+          hour: 11
+          minute: 30
+        close:
+          day: 5
+          hour: 21
+          minute: 30
+      - open:
+          day: 6
+          hour: 11
+          minute: 30
+        close:
+          day: 6
+          hour: 20
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 11:30 AM – 8:30 PM'
+      - 'Tuesday: 11:30 AM – 8:30 PM'
+      - 'Wednesday: 11:30 AM – 8:30 PM'
+      - 'Thursday: 11:30 AM – 8:30 PM'
+      - 'Friday: 11:30 AM – 9:30 PM'
+      - 'Saturday: 11:30 AM – 8:30 PM'
+      - 'Sunday: 11:30 AM – 8:30 PM'
+    secondaryHoursType: TAKEOUT
+    nextCloseTime: '2025-05-04T03:30:00Z'
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 11
+          minute: 30
+        close:
+          day: 0
+          hour: 16
+          minute: 0
+      - open:
+          day: 1
+          hour: 11
+          minute: 30
+        close:
+          day: 1
+          hour: 16
+          minute: 0
+      - open:
+          day: 2
+          hour: 11
+          minute: 30
+        close:
+          day: 2
+          hour: 16
+          minute: 0
+      - open:
+          day: 3
+          hour: 11
+          minute: 30
+        close:
+          day: 3
+          hour: 16
+          minute: 0
+      - open:
+          day: 4
+          hour: 11
+          minute: 30
+        close:
+          day: 4
+          hour: 16
+          minute: 0
+      - open:
+          day: 5
+          hour: 11
+          minute: 30
+        close:
+          day: 5
+          hour: 16
+          minute: 0
+      - open:
+          day: 6
+          hour: 11
+          minute: 30
+        close:
+          day: 6
+          hour: 16
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 11:30 AM – 4:00 PM'
+      - 'Tuesday: 11:30 AM – 4:00 PM'
+      - 'Wednesday: 11:30 AM – 4:00 PM'
+      - 'Thursday: 11:30 AM – 4:00 PM'
+      - 'Friday: 11:30 AM – 4:00 PM'
+      - 'Saturday: 11:30 AM – 4:00 PM'
+      - 'Sunday: 11:30 AM – 4:00 PM'
+    secondaryHoursType: LUNCH
+    nextCloseTime: '2025-05-03T23:00:00Z'
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 11
+          minute: 30
+        close:
+          day: 0
+          hour: 21
+          minute: 0
+      - open:
+          day: 1
+          hour: 11
+          minute: 30
+        close:
+          day: 1
+          hour: 21
+          minute: 0
+      - open:
+          day: 2
+          hour: 11
+          minute: 30
+        close:
+          day: 2
+          hour: 21
+          minute: 0
+      - open:
+          day: 3
+          hour: 11
+          minute: 30
+        close:
+          day: 3
+          hour: 21
+          minute: 0
+      - open:
+          day: 4
+          hour: 11
+          minute: 30
+        close:
+          day: 4
+          hour: 21
+          minute: 0
+      - open:
+          day: 5
+          hour: 11
+          minute: 30
+        close:
+          day: 5
+          hour: 22
+          minute: 0
+      - open:
+          day: 6
+          hour: 11
+          minute: 30
+        close:
+          day: 6
+          hour: 22
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 11:30 AM – 9:00 PM'
+      - 'Tuesday: 11:30 AM – 9:00 PM'
+      - 'Wednesday: 11:30 AM – 9:00 PM'
+      - 'Thursday: 11:30 AM – 9:00 PM'
+      - 'Friday: 11:30 AM – 10:00 PM'
+      - 'Saturday: 11:30 AM – 10:00 PM'
+      - 'Sunday: 11:30 AM – 9:00 PM'
+    secondaryHoursType: DINNER
+    nextCloseTime: '2025-05-04T05:00:00Z'
 phone: (480) 306-4386
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.4'
-rating_count: 0
+rating_count: 663
 website: http://kukasushi.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Kuka Sushi & Izakaya in Tempe, Arizona$$$Nestled in the vibrant city
+  of Tempe, Arizona, Kuka Sushi & Izakaya stands out as a relaxed spot for
+  enjoying fresh sushi rolls and authentic Japanese small plates, complemented
+  by a selection of sake and beer. This inviting eatery offers a casual
+  atmosphere where diners can savor flavorful dishes that highlight quality
+  ingredients and creative presentations, making it an ideal choice for those
+  seeking top-rated Japanese cuisine near you. With accessibility features like
+  wheelchair-friendly parking and entrances, it's designed to welcome everyone
+  for a comfortable meal. The menu caters to a variety of tastes, including
+  vegetarian options, and features daily specials that add excitement to every
+  visit, perfect for anyone hunting for sushi restaurants in the area.
+generative_summary: >-
+  Discover Kuka Sushi & Izakaya in Tempe, Arizona$$$Nestled in the vibrant city
+  of Tempe, Arizona, Kuka Sushi & Izakaya stands out as a relaxed spot for
+  enjoying fresh sushi rolls and authentic Japanese small plates, complemented
+  by a selection of sake and beer. This inviting eatery offers a casual
+  atmosphere where diners can savor flavorful dishes that highlight quality
+  ingredients and creative presentations, making it an ideal choice for those
+  seeking top-rated Japanese cuisine near you. With accessibility features like
+  wheelchair-friendly parking and entrances, it's designed to welcome everyone
+  for a comfortable meal. The menu caters to a variety of tastes, including
+  vegetarian options, and features daily specials that add excitement to every
+  visit, perfect for anyone hunting for sushi restaurants in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJzYZ61uIJK4cRtItvjQKWXGk/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRa2Zydk5REAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Great sushi with really decent prices. The salmon bomber roll ($13) is
+        one of our favorites. It’s a nice casual date/eating out with friends
+        spot. The staff are kind and though there isn’t a huge amount of
+        parking, we’ve never had any trouble.
+      languageCode: en
+    originalText:
+      text: >-
+        Great sushi with really decent prices. The salmon bomber roll ($13) is
+        one of our favorites. It’s a nice casual date/eating out with friends
+        spot. The staff are kind and though there isn’t a huge amount of
+        parking, we’ve never had any trouble.
+      languageCode: en
+    authorAttribution:
+      displayName: Rhi Huang
+      uri: https://www.google.com/maps/contrib/110227899224296275831/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUrN3nSFf60V3V9NOoXVsoDL5ANztCjLypyuY8EF0xWIa3bxio=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-03-05T02:44:17.780435Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNRa2Zydk5REAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNRa2Zydk5REAE!2m1!1s0x872b09e2d67a86cd:0x695c96028d6f8bb4
+  - name: >-
+      places/ChIJzYZ61uIJK4cRtItvjQKWXGk/reviews/ChdDSUhNMG9nS0VJQ0FnTURBaHZLTWxnRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        The vegan tomato ramen 9/10, was amazing!! The vegan roll was 6/10, was
+        pretty good! The ramen was delicious, the depth of flavor was
+        surprising! Honestly the best ramen I’ve ever had, even including
+        non-vegan ramen! My friend couldn’t keep her spoon out of my bowl lol
+      languageCode: en
+    originalText:
+      text: >-
+        The vegan tomato ramen 9/10, was amazing!! The vegan roll was 6/10, was
+        pretty good! The ramen was delicious, the depth of flavor was
+        surprising! Honestly the best ramen I’ve ever had, even including
+        non-vegan ramen! My friend couldn’t keep her spoon out of my bowl lol
+      languageCode: en
+    authorAttribution:
+      displayName: Andrew Kumar
+      uri: https://www.google.com/maps/contrib/112720708883654541162/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKSK9ESdPyVDHMxkbZ0yOYrT_GBoYSyaYhPfRcggdZNYfzDow=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-02-08T13:05:22.247127Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURBaHZLTWxnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURBaHZLTWxnRRAB!2m1!1s0x872b09e2d67a86cd:0x695c96028d6f8bb4
+  - name: >-
+      places/ChIJzYZ61uIJK4cRtItvjQKWXGk/reviews/ChZDSUhNMG9nS0VJQ0FnTURRMGRlb1ZREAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Ordered seafood ramen, fried chicken, tuna tartar, sashimi. All dishes
+        are tasty. Definitely coming back again. Parking is a bit tricky, small
+        area aside.
+      languageCode: en
+    originalText:
+      text: >-
+        Ordered seafood ramen, fried chicken, tuna tartar, sashimi. All dishes
+        are tasty. Definitely coming back again. Parking is a bit tricky, small
+        area aside.
+      languageCode: en
+    authorAttribution:
+      displayName: YS Z
+      uri: https://www.google.com/maps/contrib/118269845697762535247/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXni2JlGer0AoGaxXhRnyIfAuVfNn2Iy6PhKd18s5QvkLIEUP7D=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-03-11T18:16:13.663588Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURRMGRlb1ZREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURRMGRlb1ZREAE!2m1!1s0x872b09e2d67a86cd:0x695c96028d6f8bb4
+  - name: >-
+      places/ChIJzYZ61uIJK4cRtItvjQKWXGk/reviews/ChdDSUhNMG9nS0VJQ0FnTUNBdjlTbzhBRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        Run don’t walk to this restaurant!!! The sushi was outstanding, the miso
+        soup was a warm hug, and the staff were stellar!!!!! The vibes inside
+        are so chill too! I think I found my spot. Also Happy Hour is 2-6 and
+        the prices are SO good.
+      languageCode: en
+    originalText:
+      text: >-
+        Run don’t walk to this restaurant!!! The sushi was outstanding, the miso
+        soup was a warm hug, and the staff were stellar!!!!! The vibes inside
+        are so chill too! I think I found my spot. Also Happy Hour is 2-6 and
+        the prices are SO good.
+      languageCode: en
+    authorAttribution:
+      displayName: Kendra Walsh
+      uri: https://www.google.com/maps/contrib/103795163156308656253/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjW8vcqdTidWS-QYUdR-87FOnysd-GBgUNpGDVR8CZjFbafp-nuN=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-02-05T21:44:08.555481Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNBdjlTbzhBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNBdjlTbzhBRRAB!2m1!1s0x872b09e2d67a86cd:0x695c96028d6f8bb4
+  - name: >-
+      places/ChIJzYZ61uIJK4cRtItvjQKWXGk/reviews/ChZDSUhNMG9nS0VJQ0FnSUQzMkpId2F3EAE
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        We visit Kuka every time our family comes into town, specifically for
+        the sushi and yakitori. That stuff in the Midwest isn't as great 😉
+
+
+        This trip we ordered a variety of rolls, yakitori and sashimi. We tried
+        the Cajun Pop roll, and we couldn't have been happier. It was DELICIOUS!
+        The rolls came covered in popcorn shrimp that were light and airy with
+        the greatest amount of flavor added into the batter. The flavor of the
+        shrimp, along with the creamy habanero sauce, brought everything
+        together nicely.
+
+
+        The traditional rolls were good, but the sashimi and special rolls are
+        specifically delightful.
+
+
+        The atmosphere at Kuka is relaxed, and the service is always great. The
+        sushi is always made quickly, and they take good care of you with drink
+        refills.
+      languageCode: en
+    originalText:
+      text: >-
+        We visit Kuka every time our family comes into town, specifically for
+        the sushi and yakitori. That stuff in the Midwest isn't as great 😉
+
+
+        This trip we ordered a variety of rolls, yakitori and sashimi. We tried
+        the Cajun Pop roll, and we couldn't have been happier. It was DELICIOUS!
+        The rolls came covered in popcorn shrimp that were light and airy with
+        the greatest amount of flavor added into the batter. The flavor of the
+        shrimp, along with the creamy habanero sauce, brought everything
+        together nicely.
+
+
+        The traditional rolls were good, but the sashimi and special rolls are
+        specifically delightful.
+
+
+        The atmosphere at Kuka is relaxed, and the service is always great. The
+        sushi is always made quickly, and they take good care of you with drink
+        refills.
+      languageCode: en
+    authorAttribution:
+      displayName: Mel
+      uri: https://www.google.com/maps/contrib/107325184736914281735/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKENhQiO5gh90Nja_gXsjAj8aZnoJlry8scVoO8k2bVUV1O8w=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-11-12T00:29:10.341016Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQzMkpId2F3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQzMkpId2F3EAE!2m1!1s0x872b09e2d67a86cd:0x695c96028d6f8bb4
+review_summary: >-
+  What Customers Are Buzzing About This Sushi Spot$$$Folks rave about the
+  delicious sushi and ramen here, praising the fresh flavors and generous
+  portions that make every bite satisfying without breaking the bank. Many
+  highlight the affordable happy hour deals and tasty specials, like the vegan
+  options and unique rolls, which add a fun twist to classic favorites and keep
+  things approachable for all tastes. The laid-back vibe and friendly service
+  create a welcoming environment that's great for casual outings or groups, with
+  quick preparation times ensuring you don't wait long for your meal. Overall,
+  diners appreciate the solid value and variety, making it a go-to for anyone
+  craving reliable Japanese fare nearby, though parking can be a minor hassle
+  during peak times. If you're on the hunt for the best sushi around, this spot
+  delivers a consistently enjoyable experience that leaves most visitors coming
+  back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+  freeGarageParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
+delivery: true
+dine_in: true
 good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+good_for_groups: true
+good_for_sports: true
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Traditional tsukemen ramen, sushi & other Japanese plates offered in casual
+  digs with beer & sake.
 
 ---

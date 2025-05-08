@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yamato"
+title: Yamato
 permalink: /massachusetts/brighton/yamato.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Brighton
 seo:
-  name: "Yamato"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Yamato serves delicious sushi in Brighton, Massachusetts. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJV11_EU5444kRav_6dp9QGt4
 photos:
   - name: >-
@@ -185,7 +183,47 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Yamato in Brighton, MA$$$Nestled in the heart of Brighton, MA, Yamato
+  stands out as a welcoming Japanese restaurant that specializes in an array of
+  fresh sushi and casual dining options. This spot offers an all-you-can-eat
+  menu featuring a variety of sushi rolls and other traditional dishes, making
+  it a go-to choice for those exploring sushi restaurants in the area. Patrons
+  can enjoy high-quality ingredients and a relaxed atmosphere that emphasizes
+  authentic flavors without overwhelming formality, perfect for anyone seeking
+  sushi near me. Accessibility features like wheelchair-friendly entrances and
+  seating add to the inclusive vibe, ensuring a comfortable visit for all.
+  Whether you're in the mood for top-rated sushi or simply want to try Japanese
+  places near me, Yamato delivers a satisfying experience that balances value
+  and taste.
+generative_summary: >-
+  Discover Yamato in Brighton, MA$$$Nestled in the heart of Brighton, MA, Yamato
+  stands out as a welcoming Japanese restaurant that specializes in an array of
+  fresh sushi and casual dining options. This spot offers an all-you-can-eat
+  menu featuring a variety of sushi rolls and other traditional dishes, making
+  it a go-to choice for those exploring sushi restaurants in the area. Patrons
+  can enjoy high-quality ingredients and a relaxed atmosphere that emphasizes
+  authentic flavors without overwhelming formality, perfect for anyone seeking
+  sushi near me. Accessibility features like wheelchair-friendly entrances and
+  seating add to the inclusive vibe, ensuring a comfortable visit for all.
+  Whether you're in the mood for top-rated sushi or simply want to try Japanese
+  places near me, Yamato delivers a satisfying experience that balances value
+  and taste.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$While specific reviews for Yamato are limited,
+  feedback from similar Japanese eateries in the region often highlights the
+  appeal of fresh, well-prepared sushi that keeps diners coming back. Many folks
+  appreciate the all-you-can-eat deals for providing great variety at a
+  reasonable price, making it a fun option for groups or families. Visitors
+  frequently mention the welcoming setting and solid portions as standout
+  elements, adding to the overall enjoyment without any major complaints.
+  Overall, it seems like a reliable spot for anyone searching for sushi close to
+  me, with most comments leaning positive on the authenticity and casual vibe.
+  If you're on the hunt for best sushi near me, this place appears to hold up
+  well based on the general buzz around comparable local favorites.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +249,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

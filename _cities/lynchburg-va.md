@@ -5,4 +5,5 @@ permalink: /virginia/lynchburg/
 stateAbbr: VA
 stateName: Virginia
 cityName: Lynchburg
+
 ---

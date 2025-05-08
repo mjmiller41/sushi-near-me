@@ -5,4 +5,5 @@ permalink: /florida/wellington/
 stateAbbr: FL
 stateName: Florida
 cityName: Wellington
+
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Jojo's Raw Bar & Grill"
+title: Jojo's Raw Bar & Grill
 permalink: /florida/wellington/jojo-s-raw-bar-grill.html
 stateAbbr: FL
 stateName: Florida
 cityName: Wellington
 seo:
-  name: "Jojo's Raw Bar & Grill"
-  type: Restaurant
+  type: restaurant
   links: http://jojosrawbar.com/contact.html
-description: "Low-key seafood joint with daily specials & happy hours, plus TVs showing sports & an outdoor patio. Jojo's Raw Bar & Grill serves delicious sushi in Wellington, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJj8z81_ov2YgR6lZBIcWYDFA
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $20 &ndash; $30
 rating: '4.3'
 rating_count: 0
 website: http://jojosrawbar.com/contact.html
+description: >-
+  Discover Jojo's Raw Bar & Grill in Wellington, Florida$$$Jojo's Raw Bar &
+  Grill in Wellington, Florida, stands out as a relaxed seafood spot featuring
+  daily specials and enjoyable happy hours that attract locals and visitors
+  alike. The venue boasts a welcoming outdoor patio ideal for casual dining,
+  complemented by a selection of fresh seafood dishes and hearty burgers that
+  highlight its flavorful menu. Patrons appreciate the laid-back vibe, where
+  craft beers and cocktails pair perfectly with watching sports on the TVs or
+  participating in community events. Overall, this spot provides a great option
+  for those seeking quality meals in a friendly environment, making it a go-to
+  choice for everyday gatherings near you.
+generative_summary: >-
+  Discover Jojo's Raw Bar & Grill in Wellington, Florida$$$Jojo's Raw Bar &
+  Grill in Wellington, Florida, stands out as a relaxed seafood spot featuring
+  daily specials and enjoyable happy hours that attract locals and visitors
+  alike. The venue boasts a welcoming outdoor patio ideal for casual dining,
+  complemented by a selection of fresh seafood dishes and hearty burgers that
+  highlight its flavorful menu. Patrons appreciate the laid-back vibe, where
+  craft beers and cocktails pair perfectly with watching sports on the TVs or
+  participating in community events. Overall, this spot provides a great option
+  for those seeking quality meals in a friendly environment, making it a go-to
+  choice for everyday gatherings near you.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJj8z81_ov2YgR6lZBIcWYDFA/reviews/ChdDSUhNMG9nS0VJQ0FnSUNYLS12andnRRAB
@@ -434,6 +455,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURSOHR5VnRBRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURSOHR5VnRBRRAB!2m1!1s0x88d92ffad7fccc8f:0x500c98c5214156ea
+review_summary: >-
+  What Customers Are Saying About Jojo's$$$Visitors often praise the tasty meals
+  and solid service at this spot, with many highlighting the delicious burgers
+  and seafood as standout favorites that keep them coming back. Folks enjoy the
+  extensive craft beer options and friendly atmosphere, especially during events
+  like poker nights, which add to the fun and engaging vibe. While most feedback
+  focuses on the attentive staff and overall positive experiences, a few
+  mentions note occasional inconsistencies in service during busy times, though
+  these don't overshadow the general satisfaction. In summary, it's a reliable
+  place for good food and drinks, earning high marks for its welcoming feel and
+  making it worth trying for anyone looking for a casual meal nearby.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -466,8 +499,8 @@ serves_lunch: true
 serves_vegetarian_food: false
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Low-key seafood joint with daily specials & happy hours, plus TVs showing
   sports & an outdoor patio.
 

@@ -5,4 +5,5 @@ permalink: /texas/austin/
 stateAbbr: TX
 stateName: Texas
 cityName: Austin
+
 ---

@@ -5,4 +5,5 @@ permalink: /connecticut/brooklyn/
 stateAbbr: CT
 stateName: Connecticut
 cityName: Brooklyn
+
 ---

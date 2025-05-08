@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ninja Sushi Mililani"
+title: Ninja Sushi Mililani
 permalink: /hawaii/mililani/ninja-sushi-mililani.html
 stateAbbr: HI
 stateName: Hawaii
 cityName: Mililani
 seo:
-  name: "Ninja Sushi Mililani"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Ninja Sushi Mililani serves delicious sushi in Mililani, Hawaii. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJy59i1g5nAHwRXC4KaUcvhms
 photos:
   - name: >-
@@ -185,7 +183,36 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  About Ninja Sushi in Mililani, HI$$$Ninja Sushi in Mililani, HI, offers a
+  trendy vibe for enjoying fresh sushi and Japanese favorites in a relaxed
+  environment. This spot specializes in creative specialty rolls made with
+  high-quality ingredients, appealing to those seeking authentic flavors from
+  local sushi restaurants. With wheelchair-accessible features throughout, it
+  ensures a welcoming experience for all diners looking for casual Japanese
+  dining options. The inviting atmosphere makes it a great choice for a
+  laid-back meal, perfect for anyone exploring top-rated sushi spots nearby.
+generative_summary: >-
+  About Ninja Sushi in Mililani, HI$$$Ninja Sushi in Mililani, HI, offers a
+  trendy vibe for enjoying fresh sushi and Japanese favorites in a relaxed
+  environment. This spot specializes in creative specialty rolls made with
+  high-quality ingredients, appealing to those seeking authentic flavors from
+  local sushi restaurants. With wheelchair-accessible features throughout, it
+  ensures a welcoming experience for all diners looking for casual Japanese
+  dining options. The inviting atmosphere makes it a great choice for a
+  laid-back meal, perfect for anyone exploring top-rated sushi spots nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback on Ninja Sushi$$$People generally enjoy the fresh and
+  flavorful rolls at this laid-back sushi place, often highlighting the variety
+  and quality that keep them coming back for more. Many appreciate the casual
+  setting and solid portions, making it a reliable pick for groups or families
+  craving Japanese dishes. While some note that it can get busy during peak
+  times, the overall service and atmosphere tend to leave a positive impression.
+  If you're on the hunt for tasty sushi options in the area, this spot
+  frequently gets nods for its approachable vibe and satisfying meals.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +238,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

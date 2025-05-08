@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Go Go"
+title: Sushi Go Go
 permalink: /california/santa-barbara/sushi-go-go.html
 stateAbbr: CA
 stateName: California
 cityName: Santa Barbara
 seo:
-  name: "Sushi Go Go"
-  type: Restaurant
-  links: null
-description: "Sushi Go Go serves delicious sushi in Santa Barbara, California. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.sushigogotogo.com/
 place_id: ChIJG7ANuvUT6YAR6_eFHcu8YeY
 photos:
   - name: >-
@@ -169,22 +167,231 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80e913f5ba0db01b:0xe661bccb1d85f7eb!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 19
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 19
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 19
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 19
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 19
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 19
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:30 AM – 7:00 PM'
+    - 'Tuesday: 11:30 AM – 7:00 PM'
+    - 'Wednesday: Closed'
+    - 'Thursday: 11:30 AM – 7:00 PM'
+    - 'Friday: 11:30 AM – 7:30 PM'
+    - 'Saturday: 11:30 AM – 7:30 PM'
+    - 'Sunday: 11:30 AM – 7:00 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 11
+          minute: 30
+        close:
+          day: 0
+          hour: 19
+          minute: 0
+      - open:
+          day: 1
+          hour: 11
+          minute: 30
+        close:
+          day: 1
+          hour: 18
+          minute: 30
+      - open:
+          day: 2
+          hour: 11
+          minute: 30
+        close:
+          day: 2
+          hour: 18
+          minute: 30
+      - open:
+          day: 4
+          hour: 11
+          minute: 30
+        close:
+          day: 4
+          hour: 18
+          minute: 30
+      - open:
+          day: 5
+          hour: 11
+          minute: 30
+        close:
+          day: 5
+          hour: 19
+          minute: 0
+      - open:
+          day: 6
+          hour: 11
+          minute: 30
+        close:
+          day: 6
+          hour: 19
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 11:30 AM – 6:30 PM'
+      - 'Tuesday: 11:30 AM – 6:30 PM'
+      - 'Wednesday: Closed'
+      - 'Thursday: 11:30 AM – 6:30 PM'
+      - 'Friday: 11:30 AM – 7:00 PM'
+      - 'Saturday: 11:30 AM – 7:00 PM'
+      - 'Sunday: 11:30 AM – 7:00 PM'
+    secondaryHoursType: DELIVERY
+    nextCloseTime: '2025-05-04T02:00:00Z'
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 11
+          minute: 30
+        close:
+          day: 0
+          hour: 19
+          minute: 0
+      - open:
+          day: 1
+          hour: 11
+          minute: 30
+        close:
+          day: 1
+          hour: 19
+          minute: 0
+      - open:
+          day: 2
+          hour: 11
+          minute: 30
+        close:
+          day: 2
+          hour: 19
+          minute: 0
+      - open:
+          day: 4
+          hour: 11
+          minute: 30
+        close:
+          day: 4
+          hour: 19
+          minute: 0
+      - open:
+          day: 5
+          hour: 11
+          minute: 30
+        close:
+          day: 5
+          hour: 19
+          minute: 30
+      - open:
+          day: 6
+          hour: 11
+          minute: 30
+        close:
+          day: 6
+          hour: 19
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 11:30 AM – 7:00 PM'
+      - 'Tuesday: 11:30 AM – 7:00 PM'
+      - 'Wednesday: Closed'
+      - 'Thursday: 11:30 AM – 7:00 PM'
+      - 'Friday: 11:30 AM – 7:30 PM'
+      - 'Saturday: 11:30 AM – 7:30 PM'
+      - 'Sunday: 11:30 AM – 7:00 PM'
+    secondaryHoursType: TAKEOUT
+    nextCloseTime: '2025-05-04T02:30:00Z'
+phone: (805) 962-6568
+price_level: PRICE_LEVEL_INEXPENSIVE
+price_range: $10 &ndash; $20
+rating: '4.3'
+rating_count: 241
+website: http://www.sushigogotogo.com/
+description: >-
+  Explore Sushi Go Go in Santa Barbara, CA$$$Sushi Go Go in Santa Barbara, CA,
+  stands out as a laid-back spot perfect for enjoying fresh seafood and sushi
+  with stunning harbor views. This approachable eatery specializes in poke bowls
+  and other coastal-inspired dishes, making it an ideal choice for casual
+  lunches or dinners that highlight quality ingredients. Patrons appreciate the
+  accessible features, such as wheelchair-friendly parking and seating, which
+  add to the welcoming vibe. Operating from late morning into the evening on
+  most days, it's a convenient option for those seeking top-rated sushi
+  experiences near the waterfront. Whether you're in the mood for a quick bite
+  or a relaxed meal, this spot combines affordability with flavorful options
+  that capture the essence of Japanese-inspired cuisine.
+generative_summary: >-
+  Explore Sushi Go Go in Santa Barbara, CA$$$Sushi Go Go in Santa Barbara, CA,
+  stands out as a laid-back spot perfect for enjoying fresh seafood and sushi
+  with stunning harbor views. This approachable eatery specializes in poke bowls
+  and other coastal-inspired dishes, making it an ideal choice for casual
+  lunches or dinners that highlight quality ingredients. Patrons appreciate the
+  accessible features, such as wheelchair-friendly parking and seating, which
+  add to the welcoming vibe. Operating from late morning into the evening on
+  most days, it's a convenient option for those seeking top-rated sushi
+  experiences near the waterfront. Whether you're in the mood for a quick bite
+  or a relaxed meal, this spot combines affordability with flavorful options
+  that capture the essence of Japanese-inspired cuisine.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Visitor Feedback$$$Visitors to this sushi spot often highlight
+  the fresh flavors and friendly atmosphere, making it a go-to for anyone
+  craving reliable Japanese dishes in a casual setting. Many comments praise the
+  generous portions and harbor views that enhance the overall dining experience,
+  with folks noting it's a solid pick for everyday meals. While some mention
+  occasional waits during peak times, the general consensus leans positive,
+  emphasizing the value for the price and variety of seafood options. Overall,
+  it's frequently recommended as one of the better sushi places nearby, with
+  diners appreciating the straightforward service that keeps things enjoyable.
+  If you're exploring sushi restaurants in the area, this one tends to deliver a
+  satisfying meal that leaves people coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +417,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

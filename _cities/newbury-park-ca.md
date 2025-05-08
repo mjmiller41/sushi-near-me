@@ -5,4 +5,5 @@ permalink: /california/newbury-park/
 stateAbbr: CA
 stateName: California
 cityName: Newbury Park
+
 ---

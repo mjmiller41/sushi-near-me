@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Shizen"
+title: Shizen
 permalink: /california/san-francisco/shizen.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
 seo:
-  name: "Shizen"
-  type: Restaurant
+  type: restaurant
   links: https://www.shizensf.com/
-description: "Vegan fare from faux-sushi and ramen to meatless small plates, in an inventive and wood-decked space. Shizen serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. Available for, lunch, and dinner."
 place_id: ChIJIVHOoCF-j4ARnw6y25XWmMA
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $30 &ndash; $50
 rating: '4.7'
 rating_count: 0
 website: https://www.shizensf.com/
+description: >-
+  Discover Shizen in San Francisco, CA$$$Nestled in the vibrant heart of San
+  Francisco, CA, Shizen stands out as a premier vegan Japanese restaurant
+  offering innovative sushi rolls and delectable small plates that redefine
+  plant-based dining. This upscale spot features fresh, creative dishes crafted
+  with high-quality ingredients, providing a modern twist on traditional flavors
+  that appeal to sushi enthusiasts seeking meat-free alternatives. The
+  wood-decked interior creates a welcoming atmosphere, perfect for enjoying
+  inventive rolls and sides in a stylish setting that balances elegance with
+  comfort. With its focus on flavorful, sustainable options, Shizen delivers an
+  exceptional experience for those exploring top vegan cuisine in the area,
+  making it a go-to choice for anyone craving satisfying Japanese-inspired meals
+  nearby.
+generative_summary: >-
+  Discover Shizen in San Francisco, CA$$$Nestled in the vibrant heart of San
+  Francisco, CA, Shizen stands out as a premier vegan Japanese restaurant
+  offering innovative sushi rolls and delectable small plates that redefine
+  plant-based dining. This upscale spot features fresh, creative dishes crafted
+  with high-quality ingredients, providing a modern twist on traditional flavors
+  that appeal to sushi enthusiasts seeking meat-free alternatives. The
+  wood-decked interior creates a welcoming atmosphere, perfect for enjoying
+  inventive rolls and sides in a stylish setting that balances elegance with
+  comfort. With its focus on flavorful, sustainable options, Shizen delivers an
+  exceptional experience for those exploring top vegan cuisine in the area,
+  making it a go-to choice for anyone craving satisfying Japanese-inspired meals
+  nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJIVHOoCF-j4ARnw6y25XWmMA/reviews/ChRDSUhNMG9nS0VJQ0FnTURJdXRJNxAB
@@ -394,6 +419,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR2NDlTc253RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR2NDlTc253RRAB!2m1!1s0x808f7e21a0ce5121:0xc098d695dbb20e9f
+review_summary: >-
+  What Guests Are Raving About$$$Visitors to this cozy vegan spot often praise
+  the creative sushi rolls and appetizers for their bold flavors and spot-on
+  textures that make plant-based eating feel indulgent and fresh. Many highlight
+  the quick, friendly service that keeps things lively without overwhelming the
+  experience, even during busy times when grabbing a seat might take a little
+  patience. While a few notes mention minor hiccups like crowded tables or the
+  occasional need for fresher veggies, the overall vibe remains upbeat with
+  standout dishes that leave diners excited to return. Folks appreciate how this
+  place caters to a wide crowd, from vegans to curious eaters, delivering a fun
+  and satisfying meal that stands out in the local scene. If you're in the mood
+  for inventive Japanese-style options, it's easy to see why this spot keeps
+  drawing positive buzz for its tasty, approachable vibe.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: false
   paidParkingLot: true
@@ -428,8 +467,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: false
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Vegan fare from faux-sushi and ramen to meatless small plates, in an inventive
   and wood-decked space.
 

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Bay"
+title: Sushi Bay
 permalink: /hawaii/kapolei/sushi-bay.html
 stateAbbr: HI
 stateName: Hawaii
 cityName: Kapolei
 seo:
-  name: "Sushi Bay"
-  type: Restaurant
+  type: restaurant
   links: http://www.sushibaykapolei.com/
-description: "Sushi Bay serves delicious sushi in Kapolei, Hawaii. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJBdYnKxZjAHwRIeh6vUfmqBs
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x7c0063162b27d605:0x1ba8e647bd7ae821!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 18
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 18
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 18
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 18
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 18
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 18
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 18
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 6:00 PM'
     - 'Tuesday: 11:00 AM – 6:00 PM'
     - 'Wednesday: 11:00 AM – 6:00 PM'
@@ -178,54 +234,316 @@ opening_hours:
     - 'Friday: 11:00 AM – 6:00 PM'
     - 'Saturday: 11:00 AM – 6:00 PM'
     - 'Sunday: 11:00 AM – 6:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 6:00 PM'
-    - 'Tuesday: 11:00 AM – 6:00 PM'
-    - 'Wednesday: 11:00 AM – 6:00 PM'
-    - 'Thursday: 11:00 AM – 6:00 PM'
-    - 'Friday: 11:00 AM – 6:00 PM'
-    - 'Saturday: 11:00 AM – 6:00 PM'
-    - 'Sunday: 11:00 AM – 6:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 10
+          minute: 30
+        close:
+          day: 0
+          hour: 17
+          minute: 0
+      - open:
+          day: 1
+          hour: 10
+          minute: 30
+        close:
+          day: 1
+          hour: 17
+          minute: 0
+      - open:
+          day: 2
+          hour: 10
+          minute: 30
+        close:
+          day: 2
+          hour: 17
+          minute: 0
+      - open:
+          day: 3
+          hour: 10
+          minute: 30
+        close:
+          day: 3
+          hour: 17
+          minute: 0
+      - open:
+          day: 4
+          hour: 10
+          minute: 30
+        close:
+          day: 4
+          hour: 17
+          minute: 0
+      - open:
+          day: 5
+          hour: 10
+          minute: 30
+        close:
+          day: 5
+          hour: 17
+          minute: 0
+      - open:
+          day: 6
+          hour: 10
+          minute: 30
+        close:
+          day: 6
+          hour: 17
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 10:30 AM – 5:00 PM'
+      - 'Tuesday: 10:30 AM – 5:00 PM'
+      - 'Wednesday: 10:30 AM – 5:00 PM'
+      - 'Thursday: 10:30 AM – 5:00 PM'
+      - 'Friday: 10:30 AM – 5:00 PM'
+      - 'Saturday: 10:30 AM – 5:00 PM'
+      - 'Sunday: 10:30 AM – 5:00 PM'
+    secondaryHoursType: TAKEOUT
+    nextCloseTime: '2025-05-04T03:00:00Z'
 phone: (808) 693-9922
 price_level: PRICE_LEVEL_INEXPENSIVE
 price_range: $10 &ndash; $20
-rating: '4.4'
-rating_count: 0
+rating: '4.5'
+rating_count: 1090
 website: http://www.sushibaykapolei.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Sushi Bay in Kapolei, HI$$$Sushi Bay in Kapolei, HI, stands out as a
+  casual spot for enjoying fresh Japanese cuisine, particularly its selection of
+  sushi and sashimi that draws in locals and visitors seeking authentic flavors.
+  Nestled in a convenient strip mall location, this eatery features a simple
+  conveyor-belt system that makes grabbing your favorite rolls an easy and fun
+  experience, perfect for those exploring sushi options nearby. The menu
+  highlights generous portions of classic dishes at affordable prices, making it
+  an ideal choice for anyone craving high-quality Japanese eats without breaking
+  the bank. With accessibility features like wheelchair-friendly seating and
+  parking, it's designed to welcome everyone, ensuring a comfortable visit for
+  families or groups looking for reliable dining spots in the area.
+generative_summary: >-
+  Discover Sushi Bay in Kapolei, HI$$$Sushi Bay in Kapolei, HI, stands out as a
+  casual spot for enjoying fresh Japanese cuisine, particularly its selection of
+  sushi and sashimi that draws in locals and visitors seeking authentic flavors.
+  Nestled in a convenient strip mall location, this eatery features a simple
+  conveyor-belt system that makes grabbing your favorite rolls an easy and fun
+  experience, perfect for those exploring sushi options nearby. The menu
+  highlights generous portions of classic dishes at affordable prices, making it
+  an ideal choice for anyone craving high-quality Japanese eats without breaking
+  the bank. With accessibility features like wheelchair-friendly seating and
+  parking, it's designed to welcome everyone, ensuring a comfortable visit for
+  families or groups looking for reliable dining spots in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJBdYnKxZjAHwRIeh6vUfmqBs/reviews/ChdDSUhNMG9nS0VJQ0FnSURfbTREczhnRRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        Sushi was awesome. Very fresh and tasty. This place had the best sushi I
+        had in a while.
+
+
+        Service was good, always had some one near by to check on us and quality
+        of food. Food arrived fast, did not wait very long.
+      languageCode: en
+    originalText:
+      text: >-
+        Sushi was awesome. Very fresh and tasty. This place had the best sushi I
+        had in a while.
+
+
+        Service was good, always had some one near by to check on us and quality
+        of food. Food arrived fast, did not wait very long.
+      languageCode: en
+    authorAttribution:
+      displayName: Mike G
+      uri: https://www.google.com/maps/contrib/116323285824631607889/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXerDRGRDmJi79Zbqth8gSiWC2pVrvW1i0mHevfLN5fdcGoWqw=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-01-27T08:18:14.371865Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURfbTREczhnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURfbTREczhnRRAB!2m1!1s0x7c0063162b27d605:0x1ba8e647bd7ae821
+  - name: >-
+      places/ChIJBdYnKxZjAHwRIeh6vUfmqBs/reviews/ChdDSUhNMG9nS0VJQ0FnTURBN3ZIYnlBRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        When I go to restaurant, Quality AND Quantity are equally important.
+        Sushi Bay is prob my new fav place in the area. HUGE portion, AWESOME
+        price, and deliciously satisfying. That unagi is so big, no joke it’s
+        like 3x bigger of other sushi places. The poke bowl portion is
+        g.e.n.e.r.o.u.s! If you getting other sushi plates in menu, should get
+        the mini poke bowl. I made mistake getting large poke bowl + 3 sushi
+        plates order, stomach about to explode. Already planning to go back
+        there in few days.
+      languageCode: en
+    originalText:
+      text: >-
+        When I go to restaurant, Quality AND Quantity are equally important.
+        Sushi Bay is prob my new fav place in the area. HUGE portion, AWESOME
+        price, and deliciously satisfying. That unagi is so big, no joke it’s
+        like 3x bigger of other sushi places. The poke bowl portion is
+        g.e.n.e.r.o.u.s! If you getting other sushi plates in menu, should get
+        the mini poke bowl. I made mistake getting large poke bowl + 3 sushi
+        plates order, stomach about to explode. Already planning to go back
+        there in few days.
+      languageCode: en
+    authorAttribution:
+      displayName: Denis L.
+      uri: https://www.google.com/maps/contrib/115464326794525255205/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjW2qo6G_acOURrFy4_ie7hO6ICkkep6gFTGP7zt4N7lOX4oR2ms=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-02-09T05:25:42.208597Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURBN3ZIYnlBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURBN3ZIYnlBRRAB!2m1!1s0x7c0063162b27d605:0x1ba8e647bd7ae821
+  - name: >-
+      places/ChIJBdYnKxZjAHwRIeh6vUfmqBs/reviews/ChZDSUhNMG9nS0VJQ0FnSUR2LWV6Y2V3EAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        Big portion sushi rice bowl, fish tastes fresh, and great sushi roll. 
+        Ordering is easy just pick and point.   The only down side is the huge
+        lineup and you kinda get rush out of the restaurant when you are almost
+        finished.
+      languageCode: en
+    originalText:
+      text: >-
+        Big portion sushi rice bowl, fish tastes fresh, and great sushi roll. 
+        Ordering is easy just pick and point.   The only down side is the huge
+        lineup and you kinda get rush out of the restaurant when you are almost
+        finished.
+      languageCode: en
+    authorAttribution:
+      displayName: Billy Pun
+      uri: https://www.google.com/maps/contrib/116023619933618806132/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVxA8SQnjh81Oc1tSXA8i55tQgrYEuatUiCZm-PW0Tq2l6FnVv8-w=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-12-22T03:21:07.233587Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR2LWV6Y2V3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR2LWV6Y2V3EAE!2m1!1s0x7c0063162b27d605:0x1ba8e647bd7ae821
+  - name: >-
+      places/ChIJBdYnKxZjAHwRIeh6vUfmqBs/reviews/ChdDSUhNMG9nS0VJQ0FnSUM3bmNpZjNnRRAB
+    relativePublishTimeDescription: 8 months ago
+    rating: 5
+    text:
+      text: >-
+        First time here and all I can say is “take my money”! The wait was
+        longer than expected but I’m glad we waited it was well worth it.
+        Ordering was very simple, food was fresh and full of flavor. Not too
+        pricey and the amount of food for the price was good. Our picky eater
+        decided he wanted to go again tomorrow! We’ll be back to try more of
+        these delicious dishes.
+      languageCode: en
+    originalText:
+      text: >-
+        First time here and all I can say is “take my money”! The wait was
+        longer than expected but I’m glad we waited it was well worth it.
+        Ordering was very simple, food was fresh and full of flavor. Not too
+        pricey and the amount of food for the price was good. Our picky eater
+        decided he wanted to go again tomorrow! We’ll be back to try more of
+        these delicious dishes.
+      languageCode: en
+    authorAttribution:
+      displayName: M C
+      uri: https://www.google.com/maps/contrib/102497199247136416776/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUzaHdMIWCRskORRujJauVBkL5UdBIen3BHNl-X9PugGekcexY=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-08-18T05:59:59.942067Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUM3bmNpZjNnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUM3bmNpZjNnRRAB!2m1!1s0x7c0063162b27d605:0x1ba8e647bd7ae821
+  - name: >-
+      places/ChIJBdYnKxZjAHwRIeh6vUfmqBs/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfcEtIQjlBRRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        Very delicious food! Great price for its quantity.
+
+
+        Expect a wait time whenever you go. It's a small space but they manage
+        very well.
+      languageCode: en
+    originalText:
+      text: >-
+        Very delicious food! Great price for its quantity.
+
+
+        Expect a wait time whenever you go. It's a small space but they manage
+        very well.
+      languageCode: en
+    authorAttribution:
+      displayName: Felipe R
+      uri: https://www.google.com/maps/contrib/109792021086624409900/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJ01jMO4kwOyk-SPDiWZrhFnH6L3qyZ2Py0yHa94xWOq7aBnGU=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-01-13T01:08:15.547723Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNfcEtIQjlBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNfcEtIQjlBRRAB!2m1!1s0x7c0063162b27d605:0x1ba8e647bd7ae821
+review_summary: >-
+  What Visitors Are Saying$$$Folks rave about the super fresh and flavorful
+  sushi at this spot, with plenty of highlights on the generous portions that
+  leave you feeling satisfied without needing to overorder. Many appreciate the
+  quick service and straightforward ordering process, which keeps things moving
+  smoothly even during busy times, though you might want to plan for a short
+  wait during peak hours. Customers often note the great value for the price,
+  making it a go-to for anyone hunting for tasty Japanese meals that don't cost
+  a fortune, and the overall vibe keeps things light and enjoyable. While the
+  space is on the smaller side, leading to a bit of a rush at closing, the
+  positive experiences with the food's quality and variety make it worth the
+  visit for sushi enthusiasts in the neighborhood. Overall, it's clear this
+  place hits the mark for those seeking solid, everyday dining options that
+  deliver on taste and convenience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
 delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: false
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: false
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: false
+serves_wine: false
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Simple conveyor-belt sushi restaurant offering classic rolls & Japanese eats
+  in an informal setting.
 
 ---

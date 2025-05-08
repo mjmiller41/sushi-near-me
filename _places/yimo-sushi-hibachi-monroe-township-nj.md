@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yimo Sushi & Hibachi"
+title: Yimo Sushi & Hibachi
 permalink: /new-jersey/monroe-township/yimo-sushi-hibachi.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Monroe Township
 seo:
-  name: "Yimo Sushi & Hibachi"
-  type: Restaurant
+  type: restaurant
   links: http://yimosushinj.com/
-description: "Strip–mall Japanese eatery serving sushi, bento, teriyaki & other familiar fare in a casual setting. Yimo Sushi & Hibachi serves delicious sushi in Monroe Township, New Jersey. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJOZLrScfbw4kREs4LxBqcG5c
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $20 &ndash; $30
 rating: '4.2'
 rating_count: 0
 website: http://yimosushinj.com/
+description: >-
+  Discover Yimo Sushi & Hibachi in Monroe Township, NJ$$$Nestled in Monroe
+  Township, NJ, Yimo Sushi & Hibachi offers a welcoming spot for enjoying fresh
+  Japanese cuisine in a relaxed environment. This casual eatery specializes in
+  flavorful sushi rolls, bento boxes, and classic teriyaki dishes, all prepared
+  with high-quality ingredients that highlight traditional flavors.
+  Accessibility features like wheelchair-friendly entrances and seating make it
+  convenient for everyone to savor the menu, while options for takeout and
+  delivery add to its appeal for busy diners. Whether you're craving a light
+  lunch or a satisfying dinner, the informal atmosphere and generous portions
+  create a comfortable dining experience that stands out among local Japanese
+  spots.
+generative_summary: >-
+  Discover Yimo Sushi & Hibachi in Monroe Township, NJ$$$Nestled in Monroe
+  Township, NJ, Yimo Sushi & Hibachi offers a welcoming spot for enjoying fresh
+  Japanese cuisine in a relaxed environment. This casual eatery specializes in
+  flavorful sushi rolls, bento boxes, and classic teriyaki dishes, all prepared
+  with high-quality ingredients that highlight traditional flavors.
+  Accessibility features like wheelchair-friendly entrances and seating make it
+  convenient for everyone to savor the menu, while options for takeout and
+  delivery add to its appeal for busy diners. Whether you're craving a light
+  lunch or a satisfying dinner, the informal atmosphere and generous portions
+  create a comfortable dining experience that stands out among local Japanese
+  spots.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJOZLrScfbw4kREs4LxBqcG5c/reviews/ChZDSUhNMG9nS0VJQ0FnSURIdG9PaWFnEAE
@@ -336,6 +359,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURZNXAzTUhBEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURZNXAzTUhBEAE!2m1!1s0x89c3dbc749eb9239:0x971b9c1ac40bce12
+review_summary: >-
+  What Guests Are Saying About the Food$$$Folks rave about the fresh sushi and
+  tasty lunch specials at this spot, often noting how the meals hit the spot
+  with their vibrant flavors and solid portions. Many appreciate the quick
+  service and welcoming vibe, making it a go-to choice for a casual meal that
+  leaves you satisfied without any fuss. While there are occasional mentions of
+  minor tweaks needed for side items like salads, the overall consensus leans
+  positive, with diners enjoying the variety of Japanese dishes that feel both
+  authentic and approachable. It's clear that the bento boxes and hibachi
+  options are crowd-pleasers, drawing in repeat visits for their balance of
+  taste and value. If you're hunting for reliable Japanese fare nearby, this
+  place delivers a consistently enjoyable experience that keeps the good vibes
+  flowing.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -368,8 +405,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Strip–mall Japanese eatery serving sushi, bento, teriyaki & other familiar
   fare in a casual setting.
 

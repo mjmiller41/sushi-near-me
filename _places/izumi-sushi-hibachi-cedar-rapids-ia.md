@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Izumi Sushi & Hibachi"
+title: Izumi Sushi & Hibachi
 permalink: /iowa/cedar-rapids/izumi-sushi-hibachi.html
 stateAbbr: IA
 stateName: Iowa
 cityName: Cedar Rapids
 seo:
-  name: "Izumi Sushi & Hibachi"
-  type: Restaurant
+  type: restaurant
   links: http://www.izumirestaurant.com/
-description: "Izumi Sushi & Hibachi serves delicious sushi in Cedar Rapids, Iowa. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJefm07iP35IcRd5nIW8driN8
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 0
 website: http://www.izumirestaurant.com/
+description: >-
+  Discover Izumi Sushi in Cedar Rapids, IA$$$Izumi Sushi & Hibachi in Cedar
+  Rapids, IA, provides a cozy and casual vibe perfect for enjoying fresh
+  Japanese-inspired dishes. This spot stands out with its all-you-can-eat sushi
+  options, alongside flavorful steak and hibachi selections that appeal to sushi
+  enthusiasts looking for variety. The accessible setting includes
+  wheelchair-friendly features, making it easy for everyone to savor the
+  experience, while outdoor seating adds a relaxed touch for diners. With a
+  focus on quality fare at moderate prices, it's an ideal choice for those
+  seeking authentic flavors in a welcoming environment, making it a go-to among
+  local sushi restaurants.
+generative_summary: >-
+  Discover Izumi Sushi in Cedar Rapids, IA$$$Izumi Sushi & Hibachi in Cedar
+  Rapids, IA, provides a cozy and casual vibe perfect for enjoying fresh
+  Japanese-inspired dishes. This spot stands out with its all-you-can-eat sushi
+  options, alongside flavorful steak and hibachi selections that appeal to sushi
+  enthusiasts looking for variety. The accessible setting includes
+  wheelchair-friendly features, making it easy for everyone to savor the
+  experience, while outdoor seating adds a relaxed touch for diners. With a
+  focus on quality fare at moderate prices, it's an ideal choice for those
+  seeking authentic flavors in a welcoming environment, making it a go-to among
+  local sushi restaurants.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJefm07iP35IcRd5nIW8driN8/reviews/ChdDSUhNMG9nS0VJQ0FnTUNncHVlM3N3RRAB
@@ -348,6 +369,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN6a0phQ2xBRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN6a0phQ2xBRRAB!2m1!1s0x87e4f723eeb4f979:0xdf886bc75bc89977
+review_summary: >-
+  Buzz Around This Local Sushi Favorite$$$Folks rave about the all-you-can-eat
+  sushi deals here, highlighting the tasty variety of rolls and hibachi dishes
+  that make every meal feel like a fun adventure. Many appreciate the friendly
+  service and spot-on recommendations that enhance the overall vibe, turning
+  simple dinners into memorable outings. It's often praised as a solid pick for
+  date nights or group gatherings, with the value standing out as a real winner
+  compared to other options nearby. While some note it's on the pricier side,
+  the consensus is that the quality and experience make it worth the splurge,
+  keeping things upbeat for anyone hunting for top-rated sushi spots in the
+  area.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -382,7 +415,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

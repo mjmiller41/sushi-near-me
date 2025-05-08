@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi king Asian Fusion"
+title: Sushi king Asian Fusion
 permalink: /ohio/columbus/sushi-king-asian-fusion.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Columbus
 seo:
-  name: "Sushi king Asian Fusion"
-  type: Restaurant
+  type: restaurant
   links: https://www.sushikingoh.com/
-description: "Sushi king Asian Fusion serves delicious sushi in Columbus, Ohio. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJZz99Y86POIgRQG3qGey_S6g
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 0
 website: https://www.sushikingoh.com/
+description: >-
+  Discover Sushi King Asian Fusion in Columbus, OH$$$Sushi King Asian Fusion in
+  Columbus, OH, stands out as a premier spot for fresh sushi and Asian-inspired
+  dishes, blending traditional flavors with innovative twists in a welcoming
+  atmosphere. This sushi restaurant offers a variety of rolls and combinations
+  that highlight high-quality ingredients, making it a go-to choice for those
+  seeking authentic tastes in a convenient neighborhood setting. Accessibility
+  features like wheelchair-friendly parking and entrances ensure everyone can
+  enjoy the experience, while the menu caters to a range of preferences with
+  generous portions that leave diners satisfied. Whether you're exploring top
+  sushi options nearby or looking for a quick meal, the focus on fresh seafood
+  and creative presentations makes it a standout in the local dining scene.
+generative_summary: >-
+  Discover Sushi King Asian Fusion in Columbus, OH$$$Sushi King Asian Fusion in
+  Columbus, OH, stands out as a premier spot for fresh sushi and Asian-inspired
+  dishes, blending traditional flavors with innovative twists in a welcoming
+  atmosphere. This sushi restaurant offers a variety of rolls and combinations
+  that highlight high-quality ingredients, making it a go-to choice for those
+  seeking authentic tastes in a convenient neighborhood setting. Accessibility
+  features like wheelchair-friendly parking and entrances ensure everyone can
+  enjoy the experience, while the menu caters to a range of preferences with
+  generous portions that leave diners satisfied. Whether you're exploring top
+  sushi options nearby or looking for a quick meal, the focus on fresh seafood
+  and creative presentations makes it a standout in the local dining scene.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJZz99Y86POIgRQG3qGey_S6g/reviews/ChZDSUhNMG9nS0VJQ0FnSUNUeThTTFVnEAE
@@ -346,6 +369,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNubDVHYmN3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNubDVHYmN3EAE!2m1!1s0x88388fce637d3f67:0xa84bbfec19ea6d40
+review_summary: >-
+  What People Are Saying About the Sushi$$$Visitors often praise Sushi King for
+  its fresh and flavorful rolls, with many highlighting the generous portions
+  and variety that make meals feel satisfying and worthwhile. While most
+  feedback celebrates the quick service and high-quality ingredients that keep
+  customers coming back, there's a note that some experiences with specific
+  items might not meet everyone's expectations, suggesting it's best to try
+  popular choices first. Overall, folks appreciate the convenient takeout and
+  family-friendly vibe, positioning it as one of the better sushi spots around
+  for casual get-togethers or solo indulgences. If you're on the hunt for
+  reliable sushi places near you, this spot generally delivers a solid
+  experience that's worth checking out, blending tasty options with efficient
+  service to keep the positives shining through.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -377,7 +414,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

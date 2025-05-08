@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Wow Sushi"
+title: Wow Sushi
 permalink: /michigan/troy/wow-sushi.html
 stateAbbr: MI
 stateName: Michigan
 cityName: Troy
 seo:
-  name: "Wow Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://wowsushitogo.com/
-description: "Low-key eatery prepping sushi, rolls & other Japanese dishes plus lunch specials. Wow Sushi serves delicious sushi in Troy, Michigan. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJZX-qaHvEJIgRKckziM6t_vc
 photos:
   - name: >-
@@ -185,6 +183,25 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 0
 website: https://wowsushitogo.com/
+description: >-
+  Explore Wow Sushi in Troy, MI$$$Wow Sushi in Troy, Michigan, stands out as a
+  cozy destination for those craving authentic Japanese flavors and fresh sushi
+  options. This laid-back eatery specializes in a variety of sushi rolls, bento
+  boxes, and traditional dishes, making it an ideal spot for a casual meal or
+  quick lunch special. With its welcoming atmosphere and focus on quality
+  ingredients, it's perfect for anyone searching for reliable sushi restaurants
+  nearby. Accessibility features like wheelchair-friendly parking and seating
+  add to the convenience, ensuring a comfortable experience for all diners.
+generative_summary: >-
+  Explore Wow Sushi in Troy, MI$$$Wow Sushi in Troy, Michigan, stands out as a
+  cozy destination for those craving authentic Japanese flavors and fresh sushi
+  options. This laid-back eatery specializes in a variety of sushi rolls, bento
+  boxes, and traditional dishes, making it an ideal spot for a casual meal or
+  quick lunch special. With its welcoming atmosphere and focus on quality
+  ingredients, it's perfect for anyone searching for reliable sushi restaurants
+  nearby. Accessibility features like wheelchair-friendly parking and seating
+  add to the convenience, ensuring a comfortable experience for all diners.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJZX-qaHvEJIgRKckziM6t_vc/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRcjRXMFJREAE
@@ -324,6 +341,17 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURKaE5icWJ3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURKaE5icWJ3EAE!2m1!1s0x8824c47b68aa7f65:0xf7feadce8833c929
+review_summary: >-
+  Customer Feedback on Wow Sushi$$$Visitors frequently highlight the fresh and
+  flavorful sushi rolls as a standout feature, often noting how they deliver
+  great taste without overwhelming the palate. Many appreciate the well-prepared
+  katsu and salads, praising the generous portions and reasonable prices that
+  make it a smart choice for everyday dining. Service is described as friendly
+  and efficient, even during peak hours, helping to create a welcoming vibe in
+  the intimate space. Overall, it's seen as a reliable go-to for quality
+  Japanese fare, with folks enjoying the value it brings to those exploring
+  top-rated sushi spots in the area.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -356,8 +384,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Low-key eatery prepping sushi, rolls & other Japanese dishes plus lunch
   specials.
 

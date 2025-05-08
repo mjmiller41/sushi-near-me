@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Keyaki Sushi"
+title: Keyaki Sushi
 permalink: /utah/midvale/keyaki-sushi.html
 stateAbbr: UT
 stateName: Utah
 cityName: Midvale
 seo:
-  name: "Keyaki Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.keyakisushiut.com/
-description: "Keyaki Sushi serves delicious sushi in Midvale, Utah. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJiybCUpqLUocRNxccaEnP8_c
 photos:
   - name: >-
@@ -169,7 +167,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x87528b9a52c2268b:0xf7f3cf49681c1737!10e5
 primary_type: Takeout Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 13
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 0
+    - open:
+        day: 1
+        hour: 12
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 15
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 12
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 12
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 12:00 – 9:00 PM'
     - 'Tuesday: Closed'
     - 'Wednesday: 3:00 – 9:00 PM'
@@ -177,14 +225,7 @@ opening_hours:
     - 'Friday: 12:00 – 10:00 PM'
     - 'Saturday: 12:00 – 10:00 PM'
     - 'Sunday: 1:00 – 8:00 PM'
-  current:
-    - 'Monday: 12:00 – 9:00 PM'
-    - 'Tuesday: Closed'
-    - 'Wednesday: 3:00 – 9:00 PM'
-    - 'Thursday: 12:00 – 9:00 PM'
-    - 'Friday: 12:00 – 10:00 PM'
-    - 'Saturday: 12:00 – 10:00 PM'
-    - 'Sunday: 1:00 – 8:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,35 +237,274 @@ phone: (385) 787-4409
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.8'
-rating_count: 0
+rating_count: 296
 website: http://www.keyakisushiut.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Keyaki Sushi in Midvale, UT$$$Nestled in Midvale, UT, Keyaki Sushi
+  stands out as a welcoming spot for those craving fresh Asian fusion dishes,
+  particularly its inventive sushi selections that cater to a variety of tastes.
+  This casual eatery emphasizes high-quality ingredients and creative
+  presentations, making it a go-to choice for diners seeking both traditional
+  and innovative flavors, including plenty of vegan-friendly options. With
+  options for dine-in or takeout, it's designed to accommodate busy lifestyles
+  while maintaining an inviting atmosphere that enhances the overall meal. The
+  restaurant also features accessible amenities like wheelchair-friendly
+  entrances and parking, ensuring a comfortable visit for everyone. Whether
+  you're exploring sushi restaurants near you or looking for a reliable spot for
+  Japanese-inspired cuisine, this location delivers a satisfying blend of
+  freshness and variety that keeps patrons coming back.
+generative_summary: >-
+  Discover Keyaki Sushi in Midvale, UT$$$Nestled in Midvale, UT, Keyaki Sushi
+  stands out as a welcoming spot for those craving fresh Asian fusion dishes,
+  particularly its inventive sushi selections that cater to a variety of tastes.
+  This casual eatery emphasizes high-quality ingredients and creative
+  presentations, making it a go-to choice for diners seeking both traditional
+  and innovative flavors, including plenty of vegan-friendly options. With
+  options for dine-in or takeout, it's designed to accommodate busy lifestyles
+  while maintaining an inviting atmosphere that enhances the overall meal. The
+  restaurant also features accessible amenities like wheelchair-friendly
+  entrances and parking, ensuring a comfortable visit for everyone. Whether
+  you're exploring sushi restaurants near you or looking for a reliable spot for
+  Japanese-inspired cuisine, this location delivers a satisfying blend of
+  freshness and variety that keeps patrons coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJiybCUpqLUocRNxccaEnP8_c/reviews/ChZDSUhNMG9nS0VJQ0FnSURfa1pxUE53EAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        Keyaki is an absolute gem in Utah! From the moment you walk in, you’re
+        welcomed by friendly staff and great service. Their menu is both
+        creative and delicious, offering something for everyone. The boba drinks
+        are fantastic, perfectly refreshing and flavorful.
+
+
+        What really stands out is their unique twist on sushi—you have to try
+        the sushi pizza and sushi nachos! The combination of flavors is
+        incredible, and they offer both vegan and non-vegan options, making it a
+        perfect spot for any dietary preference. Everything on the menu is
+        fresh, beautifully presented, and full of flavor.
+
+
+        The parking is plentiful, which is always a bonus, and the overall
+        experience is truly one of a kind. If you’re looking for a savory,
+        innovative, and unforgettable dining experience, Keyaki is the place to
+        go!
+      languageCode: en
+    originalText:
+      text: >-
+        Keyaki is an absolute gem in Utah! From the moment you walk in, you’re
+        welcomed by friendly staff and great service. Their menu is both
+        creative and delicious, offering something for everyone. The boba drinks
+        are fantastic, perfectly refreshing and flavorful.
+
+
+        What really stands out is their unique twist on sushi—you have to try
+        the sushi pizza and sushi nachos! The combination of flavors is
+        incredible, and they offer both vegan and non-vegan options, making it a
+        perfect spot for any dietary preference. Everything on the menu is
+        fresh, beautifully presented, and full of flavor.
+
+
+        The parking is plentiful, which is always a bonus, and the overall
+        experience is truly one of a kind. If you’re looking for a savory,
+        innovative, and unforgettable dining experience, Keyaki is the place to
+        go!
+      languageCode: en
+    authorAttribution:
+      displayName: Jesus RANGEL
+      uri: https://www.google.com/maps/contrib/116775308822020295171/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUhdRCDvE8wOBYnvyEIwqL5spD8Mets5jcP4Tf4cwh47YjRoNUR=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-01-24T22:29:38.507214Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURfa1pxUE53EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURfa1pxUE53EAE!2m1!1s0x87528b9a52c2268b:0xf7f3cf49681c1737
+  - name: >-
+      places/ChIJiybCUpqLUocRNxccaEnP8_c/reviews/ChZDSUhNMG9nS0VJQ0FnTURJZ1BuUFlBEAE
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 5
+    text:
+      text: >-
+        Overall, this was hands down one of the best and most unique sushi
+        joints I've been to. I was skeptical at first but the Sushi pizza was
+        bomb. Great quality, exciting new dishes and good service. 100% our new
+        favorite spot.
+      languageCode: en
+    originalText:
+      text: >-
+        Overall, this was hands down one of the best and most unique sushi
+        joints I've been to. I was skeptical at first but the Sushi pizza was
+        bomb. Great quality, exciting new dishes and good service. 100% our new
+        favorite spot.
+      languageCode: en
+    authorAttribution:
+      displayName: Joseph Harman
+      uri: https://www.google.com/maps/contrib/100289407191411770349/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUBP-POO2hmQuDQdqzUHWLIMeYII5_cH86bWl5HIdJ1-w5HWvI0=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-06T01:56:02.812025Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURJZ1BuUFlBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJZ1BuUFlBEAE!2m1!1s0x87528b9a52c2268b:0xf7f3cf49681c1737
+  - name: >-
+      places/ChIJiybCUpqLUocRNxccaEnP8_c/reviews/ChZDSUhNMG9nS0VJQ0FnSURYaTVlT2R3EAE
+    relativePublishTimeDescription: 6 months ago
+    rating: 5
+    text:
+      text: >-
+        I recently visited Keyaki Sushi, and it was a delightful experience! The
+        atmosphere was cozy and inviting, with a stylish decor that added to the
+        overall dining experience. The sushi itself was fabulous, with fresh,
+        flavorful ingredients. Although the portions were on the smaller side,
+        the taste more than made up for it. The service was attentive and
+        friendly, adding a nice touch to the evening. Highly recommend for
+        anyone looking for a quality sushi spot!
+      languageCode: en
+    originalText:
+      text: >-
+        I recently visited Keyaki Sushi, and it was a delightful experience! The
+        atmosphere was cozy and inviting, with a stylish decor that added to the
+        overall dining experience. The sushi itself was fabulous, with fresh,
+        flavorful ingredients. Although the portions were on the smaller side,
+        the taste more than made up for it. The service was attentive and
+        friendly, adding a nice touch to the evening. Highly recommend for
+        anyone looking for a quality sushi spot!
+      languageCode: en
+    authorAttribution:
+      displayName: Alllison Loyola
+      uri: https://www.google.com/maps/contrib/100677019339548834233/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXKsV1r7i0bMulIDzkz2rSADWORPAf2t_oIxdIp7jjBoCCVQ7I=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-10-31T03:33:34.789136Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURYaTVlT2R3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURYaTVlT2R3EAE!2m1!1s0x87528b9a52c2268b:0xf7f3cf49681c1737
+  - name: >-
+      places/ChIJiybCUpqLUocRNxccaEnP8_c/reviews/ChdDSUhNMG9nS0VJQ0FnTUNnbnBuWDdBRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 4
+    text:
+      text: >-
+        Food was the highlight and worth going just for that reason!  Tried a
+        little bit of all of the menu.  You are getting what you pay for when
+        you come here. The staff was nice and courteous.  Went with friends that
+        are vegan and was nice to see such a good selection for both vegan and
+        non. Will definitely go again.
+      languageCode: en
+    originalText:
+      text: >-
+        Food was the highlight and worth going just for that reason!  Tried a
+        little bit of all of the menu.  You are getting what you pay for when
+        you come here. The staff was nice and courteous.  Went with friends that
+        are vegan and was nice to see such a good selection for both vegan and
+        non. Will definitely go again.
+      languageCode: en
+    authorAttribution:
+      displayName: Bryan McLeod
+      uri: https://www.google.com/maps/contrib/104814113176480665931/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLrjum6vnUYb5v2QHz1JYUcool-ayT5DWj9QzfOtgb1iNS3xQ=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-02-17T15:07:55.210332Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNnbnBuWDdBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNnbnBuWDdBRRAB!2m1!1s0x87528b9a52c2268b:0xf7f3cf49681c1737
+  - name: >-
+      places/ChIJiybCUpqLUocRNxccaEnP8_c/reviews/ChZDSUhNMG9nS0VJQ0FnTURRc3JPN0JnEAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Amazing sushi, service, and atmosphere!!! Very vegan friendly and super
+        fresh food!
+
+
+        Like, no, seriously... they have the biggest variety of vegan rolls I've
+        seen!!! It was like paradise haha.
+
+
+        My family said the none vegan rolls were fresh and unique!
+
+
+        I highly recommend!!!
+      languageCode: en
+    originalText:
+      text: >-
+        Amazing sushi, service, and atmosphere!!! Very vegan friendly and super
+        fresh food!
+
+
+        Like, no, seriously... they have the biggest variety of vegan rolls I've
+        seen!!! It was like paradise haha.
+
+
+        My family said the none vegan rolls were fresh and unique!
+
+
+        I highly recommend!!!
+      languageCode: en
+    authorAttribution:
+      displayName: ZC
+      uri: https://www.google.com/maps/contrib/110414907616234577601/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVlbpB0sJVRz4HP_nIsdmF7gj_afWWLbfkRaRbB_iPu3b450TYt=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-03-10T15:06:03.218406Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURRc3JPN0JnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURRc3JPN0JnEAE!2m1!1s0x87528b9a52c2268b:0xf7f3cf49681c1737
+review_summary: >-
+  What Customers Love About This Sushi Spot$$$Folks often rave about the
+  creative twists on classic sushi here, like the fun sushi pizza and nachos
+  that bring a fresh spin to familiar favorites, making it a standout choice for
+  variety. Many appreciate the wide range of vegan options alongside traditional
+  dishes, noting how the portions feel generous and the flavors are consistently
+  fresh and exciting. Service tends to be friendly and attentive, adding to the
+  relaxed vibe that makes it easy to enjoy a meal with friends or grab something
+  quick. Overall, it's praised as a reliable pick for quality and innovation,
+  with diners highlighting the welcoming environment as a big plus. If you're
+  hunting for top-rated sushi near you, this place earns solid nods for its
+  tasty offerings and positive dining experiences that leave a lasting
+  impression.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
+curbside_pickup: true
+delivery: true
+dine_in: true
 good_for_children: null
 good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
+good_for_sports: true
+live_music: false
+menu_for_children: true
+outdoor_seating: false
 reservable: null
-restroom: null
-serves_beer: null
+restroom: true
+serves_beer: true
 serves_breakfast: null
 serves_brunch: null
 serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
 serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

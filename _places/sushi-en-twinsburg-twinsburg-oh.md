@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi En Twinsburg"
+title: Sushi En Twinsburg
 permalink: /ohio/twinsburg/sushi-en-twinsburg.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Twinsburg
 seo:
-  name: "Sushi En Twinsburg"
-  type: Restaurant
+  type: restaurant
   links: https://sushientwinsburg.toast.site/
-description: "Sushi En Twinsburg serves delicious sushi in Twinsburg, Ohio. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJYVv3KSwfMYgRTKBdX_N4Bhk
 photos:
   - name: >-
@@ -170,7 +168,81 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x88311f2c29f75b61:0x190678f35f5da04c!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 15
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM'
     - 'Tuesday: Closed'
     - 'Wednesday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM'
@@ -178,28 +250,94 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:00 PM'
     - 'Saturday: 11:00 AM – 10:00 PM'
     - 'Sunday: 11:00 AM – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM'
-    - 'Tuesday: Closed'
-    - 'Wednesday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM'
-    - 'Thursday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM'
-    - 'Friday: 11:00 AM – 10:00 PM'
-    - 'Saturday: 11:00 AM – 10:00 PM'
-    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: false
+    periods:
+      - open:
+          day: 1
+          hour: 16
+          minute: 0
+        close:
+          day: 1
+          hour: 18
+          minute: 0
+      - open:
+          day: 2
+          hour: 16
+          minute: 0
+        close:
+          day: 2
+          hour: 18
+          minute: 0
+      - open:
+          day: 3
+          hour: 16
+          minute: 0
+        close:
+          day: 3
+          hour: 18
+          minute: 0
+      - open:
+          day: 4
+          hour: 16
+          minute: 0
+        close:
+          day: 4
+          hour: 18
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 4:00 – 6:00 PM'
+      - 'Tuesday: 4:00 – 6:00 PM'
+      - 'Wednesday: 4:00 – 6:00 PM'
+      - 'Thursday: 4:00 – 6:00 PM'
+      - 'Friday: Closed'
+      - 'Saturday: Closed'
+      - 'Sunday: Closed'
+    secondaryHoursType: HAPPY_HOUR
+    nextOpenTime: '2025-05-05T20:00:00Z'
 phone: (330) 998-6888
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.5'
-rating_count: 0
+rating_count: 486
 website: https://sushientwinsburg.toast.site/
+description: >-
+  Discover Sushi En in Twinsburg, OH$$$Sushi En in Twinsburg, OH, stands out as
+  a welcoming Japanese restaurant blending fresh sushi with Korean flavors,
+  ideal for those seeking casual dining options near you. This spot offers a
+  relaxed atmosphere where you can enjoy a variety of dishes alongside beer,
+  wine, and sake, making it a great choice for an easygoing meal with friends or
+  family. Accessibility features like wheelchair-friendly parking and entrances
+  ensure everyone can savor the experience, enhancing its appeal for diverse
+  visitors. If you're exploring sushi restaurants in the area, the focus on
+  quality ingredients and simple vibes here makes it a solid pick for authentic
+  tastes without the formality.
+generative_summary: >-
+  Discover Sushi En in Twinsburg, OH$$$Sushi En in Twinsburg, OH, stands out as
+  a welcoming Japanese restaurant blending fresh sushi with Korean flavors,
+  ideal for those seeking casual dining options near you. This spot offers a
+  relaxed atmosphere where you can enjoy a variety of dishes alongside beer,
+  wine, and sake, making it a great choice for an easygoing meal with friends or
+  family. Accessibility features like wheelchair-friendly parking and entrances
+  ensure everyone can savor the experience, enhancing its appeal for diverse
+  visitors. If you're exploring sushi restaurants in the area, the focus on
+  quality ingredients and simple vibes here makes it a solid pick for authentic
+  tastes without the formality.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Customer Reviews$$$Diners frequently highlight the tasty sushi
+  rolls and well-prepared Korean dishes at this local eatery, noting how they
+  deliver a satisfying mix of flavors that keep people returning for more. Many
+  appreciate the friendly service and value for money, creating a laid-back spot
+  that's perfect for casual outings or quick bites when craving something fresh.
+  While some mention occasional waits during peak times, the overall atmosphere
+  and food quality tend to outweigh any minor drawbacks, earning it high marks
+  from regulars. If you're on the hunt for top-rated sushi places nearby,
+  feedback suggests this one offers a reliably enjoyable experience that
+  balances taste and convenience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +363,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

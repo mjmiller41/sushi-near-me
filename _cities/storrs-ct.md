@@ -5,4 +5,5 @@ permalink: /connecticut/storrs/
 stateAbbr: CT
 stateName: Connecticut
 cityName: Storrs
+
 ---

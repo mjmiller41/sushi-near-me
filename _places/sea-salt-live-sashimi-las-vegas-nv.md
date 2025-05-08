@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "라스베가스 횟집/활어(Sea Salt Live Sashimi)"
+title: 라스베가스 횟집/활어(Sea Salt Live Sashimi)
 permalink: /nevada/las-vegas/sea-salt-live-sashimi.html
 stateAbbr: NV
 stateName: Nevada
 cityName: Las Vegas
 seo:
-  name: "라스베가스 횟집/활어(Sea Salt Live Sashimi)"
-  type: Restaurant
+  type: restaurant
   links: http://www.seasaltlivesashimi.com/
-description: "라스베가스 횟집/활어(Sea Salt Live Sashimi) serves delicious sushi in Las Vegas, Nevada. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJl5qW-a_GyIAR46Q96cWxHp8
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c8c6aff9969a97:0x9f1eb1c5e93da4e3!10e5
 primary_type: Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 0
+        minute: 0
+    - open:
+        day: 1
+        hour: 15
+        minute: 30
+      close:
+        day: 2
+        hour: 0
+        minute: 0
+    - open:
+        day: 2
+        hour: 15
+        minute: 30
+      close:
+        day: 3
+        hour: 0
+        minute: 0
+    - open:
+        day: 3
+        hour: 15
+        minute: 30
+      close:
+        day: 4
+        hour: 0
+        minute: 0
+    - open:
+        day: 4
+        hour: 15
+        minute: 30
+      close:
+        day: 5
+        hour: 0
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 0
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 0
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 3:30 PM – 12:00 AM'
     - 'Tuesday: 3:30 PM – 12:00 AM'
     - 'Wednesday: 3:30 PM – 12:00 AM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 12:00 AM'
     - 'Saturday: 11:30 AM – 12:00 AM'
     - 'Sunday: 11:30 AM – 12:00 AM'
-  current:
-    - 'Monday: 3:30 PM – 12:00 AM'
-    - 'Tuesday: 3:30 PM – 12:00 AM'
-    - 'Wednesday: 3:30 PM – 12:00 AM'
-    - 'Thursday: 3:30 PM – 12:00 AM'
-    - 'Friday: 11:30 AM – 12:00 AM'
-    - 'Saturday: 11:30 AM – 12:00 AM'
-    - 'Sunday: 11:30 AM – 12:00 AM'
+  nextCloseTime: '2025-05-04T07:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,275 @@ phone: (702) 268-7225
 price_level: PRICE_LEVEL_INEXPENSIVE
 price_range: $100 &ndash; & up
 rating: '4.4'
-rating_count: 0
+rating_count: 283
 website: http://www.seasaltlivesashimi.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Experience Sea Salt Live Sashimi in Las Vegas$$$In Las Vegas, NV, Sea Salt
+  Live Sashimi stands out as a casual Korean restaurant with a boat-themed
+  atmosphere, specializing in fresh sashimi and a selection of beverages like
+  beer and wine. This spot offers an inviting vibe perfect for enjoying
+  high-quality seafood dishes that highlight the best of Japanese-inspired
+  flavors, making it a go-to for those seeking sushi restaurants in the area.
+  Accessibility features such as wheelchair-friendly parking and entrances add
+  to the convenience, ensuring everyone can savor the experience. With generous
+  portions and a focus on live preparations, it's ideal for groups looking to
+  explore authentic tastes without breaking the bank. Whether you're in the mood
+  for top-rated sushi near me or a relaxed dining outing, this place combines
+  affordability with a memorable nautical charm.
+generative_summary: >-
+  Experience Sea Salt Live Sashimi in Las Vegas$$$In Las Vegas, NV, Sea Salt
+  Live Sashimi stands out as a casual Korean restaurant with a boat-themed
+  atmosphere, specializing in fresh sashimi and a selection of beverages like
+  beer and wine. This spot offers an inviting vibe perfect for enjoying
+  high-quality seafood dishes that highlight the best of Japanese-inspired
+  flavors, making it a go-to for those seeking sushi restaurants in the area.
+  Accessibility features such as wheelchair-friendly parking and entrances add
+  to the convenience, ensuring everyone can savor the experience. With generous
+  portions and a focus on live preparations, it's ideal for groups looking to
+  explore authentic tastes without breaking the bank. Whether you're in the mood
+  for top-rated sushi near me or a relaxed dining outing, this place combines
+  affordability with a memorable nautical charm.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJl5qW-a_GyIAR46Q96cWxHp8/reviews/ChdDSUhNMG9nS0VJQ0FnTURvZ1p1VTh3RRAB
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        I had some friends in town and my friend wanted to try this place.  Nice
+        casual, seafood restaurant vibe. They are known for their Sea Salt
+        Assorted Sashimi Combo which has different sizes based on how many
+        people you have.  Don't be sticker shock when looking at the prices as
+        you do get a lot of food.  Just as we thought we were done, another set
+        of dishes were brought to the table.  The quality of the sashimi was
+        fresh and the other dishes were great as well.  We also ordered some
+        galbi as well and we're completely full by the end.
+
+
+        If you're looking to try something new with friends and family, I would
+        recommend giving this place a shot.  I plan to visit this place again.
+      languageCode: en
+    originalText:
+      text: >-
+        I had some friends in town and my friend wanted to try this place.  Nice
+        casual, seafood restaurant vibe. They are known for their Sea Salt
+        Assorted Sashimi Combo which has different sizes based on how many
+        people you have.  Don't be sticker shock when looking at the prices as
+        you do get a lot of food.  Just as we thought we were done, another set
+        of dishes were brought to the table.  The quality of the sashimi was
+        fresh and the other dishes were great as well.  We also ordered some
+        galbi as well and we're completely full by the end.
+
+
+        If you're looking to try something new with friends and family, I would
+        recommend giving this place a shot.  I plan to visit this place again.
+      languageCode: en
+    authorAttribution:
+      displayName: Bryson Sugai
+      uri: https://www.google.com/maps/contrib/110774514477161367932/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWwBTwcrNzPwNq6pkyf97qGYIoQWeLIMIHUbCCiDUpC8CG0b_s7=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-25T14:55:40.874277Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURvZ1p1VTh3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURvZ1p1VTh3RRAB!2m1!1s0x80c8c6aff9969a97:0x9f1eb1c5e93da4e3
+  - name: >-
+      places/ChIJl5qW-a_GyIAR46Q96cWxHp8/reviews/ChdDSUhNMG9nS0VJQ0FnTUNva3N2aXBRRRAB
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 2
+    text:
+      text: >-
+        Do NOT order the uni, it was very unfresh. The marinated raw crab was
+        also a miss, with a strong fishy smell that was much worse than what
+        I’ve had elsewhere. However, their lobster sashimi was great, super
+        fresh and made from live lobster. After finishing the sashimi, they even
+        fry the rest for you, which was a nice touch. That said, despite the
+        lobster being good, everything else was disappointing.
+      languageCode: en
+    originalText:
+      text: >-
+        Do NOT order the uni, it was very unfresh. The marinated raw crab was
+        also a miss, with a strong fishy smell that was much worse than what
+        I’ve had elsewhere. However, their lobster sashimi was great, super
+        fresh and made from live lobster. After finishing the sashimi, they even
+        fry the rest for you, which was a nice touch. That said, despite the
+        lobster being good, everything else was disappointing.
+      languageCode: en
+    authorAttribution:
+      displayName: Joanna Pan
+      uri: https://www.google.com/maps/contrib/101920138645939525646/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjU_n5RE39HYIb2YEXAlUTsTLVP5RgooDR0pkU_CQZ0PFDNHjbI=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-15T22:56:11.640628Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNva3N2aXBRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNva3N2aXBRRRAB!2m1!1s0x80c8c6aff9969a97:0x9f1eb1c5e93da4e3
+  - name: >-
+      places/ChIJl5qW-a_GyIAR46Q96cWxHp8/reviews/ChZDSUhNMG9nS0VJQ0FnSURmZzhmcEFnEAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 4
+    text:
+      text: >-
+        Every time I have a business trip to Vegas, this is a place I always
+        visit! And without fail, I always end up heading home completely drunk!
+        Haha.
+
+
+        This time was no different—I had a great time eating, drinking, and went
+        home tipsy. I’ve heard there are a few other restaurants with a similar
+        vibe, but I always come here. Maybe it’s because I’m a regular, but the
+        portions, quality, and service are all excellent.
+
+
+        A glass of soju and sashimi—what more could you need!
+      languageCode: en
+    originalText:
+      text: >-
+        Every time I have a business trip to Vegas, this is a place I always
+        visit! And without fail, I always end up heading home completely drunk!
+        Haha.
+
+
+        This time was no different—I had a great time eating, drinking, and went
+        home tipsy. I’ve heard there are a few other restaurants with a similar
+        vibe, but I always come here. Maybe it’s because I’m a regular, but the
+        portions, quality, and service are all excellent.
+
+
+        A glass of soju and sashimi—what more could you need!
+      languageCode: en
+    authorAttribution:
+      displayName: Daniel
+      uri: https://www.google.com/maps/contrib/101453690073786188652/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjURvun5gjZ1r8FmiZq2xBXN6uouZbC3Xo6aPWQg4x0B5qESAs1_Ew=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-01-09T18:56:03.064184Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURmZzhmcEFnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURmZzhmcEFnEAE!2m1!1s0x80c8c6aff9969a97:0x9f1eb1c5e93da4e3
+  - name: >-
+      places/ChIJl5qW-a_GyIAR46Q96cWxHp8/reviews/ChZDSUhNMG9nS0VJQ0FnSUNidDlYMEJBEAE
+    relativePublishTimeDescription: 9 months ago
+    rating: 5
+    text:
+      text: >-
+        WOW. We ordered the seafood platter and Everything was so fresh and
+        unbelievably good! We shocked how many side dishes and appetizers came
+        with the platter. It just kept coming and coming. Unfortunately they
+        didn’t have the octopus when we went but they still blew it out of the
+        water. One of the best valve meals for want you are getting in Vegas!
+      languageCode: en
+    originalText:
+      text: >-
+        WOW. We ordered the seafood platter and Everything was so fresh and
+        unbelievably good! We shocked how many side dishes and appetizers came
+        with the platter. It just kept coming and coming. Unfortunately they
+        didn’t have the octopus when we went but they still blew it out of the
+        water. One of the best valve meals for want you are getting in Vegas!
+      languageCode: en
+    authorAttribution:
+      displayName: Xian Lin
+      uri: https://www.google.com/maps/contrib/108333499794303205814/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUsIev7Jzu1UPEodxy69jm0jVjwD07EzlcUDOn4q7foiIOTQuz0=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-07-31T00:01:51.576374Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNidDlYMEJBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNidDlYMEJBEAE!2m1!1s0x80c8c6aff9969a97:0x9f1eb1c5e93da4e3
+  - name: >-
+      places/ChIJl5qW-a_GyIAR46Q96cWxHp8/reviews/ChZDSUhNMG9nS0VJQ0FnSUM3cVpmTmZBEAE
+    relativePublishTimeDescription: 8 months ago
+    rating: 5
+    text:
+      text: >-
+        Found this place through Las Vegas Phil (super helpful for tourists).
+        The food here was just amazing. We were craving raw marinated crabs and
+        this place completely scratched the itch. Highly recommend their soy
+        sauce marinated crab (came with raw shrimps), spicy marinated crab (less
+        crab flavors though), and their live lobster ($65 for us).
+
+
+        The lobster was still alive while we were eating. I got sad when they
+        took it away after we finished the sashimi BUT turned out they took it
+        to deep fry it for us to finish. Total after tips came out to be just
+        under $100 per person. Overall, a very enjoyable meal for us.
+      languageCode: en
+    originalText:
+      text: >-
+        Found this place through Las Vegas Phil (super helpful for tourists).
+        The food here was just amazing. We were craving raw marinated crabs and
+        this place completely scratched the itch. Highly recommend their soy
+        sauce marinated crab (came with raw shrimps), spicy marinated crab (less
+        crab flavors though), and their live lobster ($65 for us).
+
+
+        The lobster was still alive while we were eating. I got sad when they
+        took it away after we finished the sashimi BUT turned out they took it
+        to deep fry it for us to finish. Total after tips came out to be just
+        under $100 per person. Overall, a very enjoyable meal for us.
+      languageCode: en
+    authorAttribution:
+      displayName: Edison Huang
+      uri: https://www.google.com/maps/contrib/108108973761072433425/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJc3Cps8bRdcK7wI1y29UKBxR2xFdCTyyowkpFUouEFNvp8ddE=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2024-08-16T21:38:01.371324Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUM3cVpmTmZBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUM3cVpmTmZBEAE!2m1!1s0x80c8c6aff9969a97:0x9f1eb1c5e93da4e3
+review_summary: >-
+  Customer Feedback Highlights$$$Visitors often rave about the fresh sashimi and
+  generous portions that make meals feel worthwhile, especially when sharing
+  with friends or family at this lively spot. While most agree the seafood
+  platters and live lobster dishes deliver on flavor and variety, a few mentions
+  of inconsistent freshness in certain items show it's not perfect every time,
+  but the positives generally outweigh any minor hiccups. Overall, the
+  atmosphere and service create a fun, casual environment that's great for
+  trying new things, with many leaving satisfied and planning return trips. If
+  you're hunting for sushi places near me that offer good value and a welcoming
+  vibe, this restaurant tends to impress with its hearty offerings and
+  thoughtful extras like fried accompaniments. In the end, it's a solid choice
+  for anyone craving authentic seafood experiences in Las Vegas, as long as you
+  go in with an open mind for the occasional variation.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
+curbside_pickup: true
+delivery: true
+dine_in: true
 good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
 serves_breakfast: null
-serves_brunch: null
+serves_brunch: false
 serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

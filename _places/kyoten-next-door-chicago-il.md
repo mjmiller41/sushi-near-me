@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kyoten Next Door"
+title: Kyoten Next Door
 permalink: /illinois/chicago/kyoten-next-door.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
 seo:
-  name: "Kyoten Next Door"
-  type: Restaurant
+  type: restaurant
   links: http://kyotenchicago.com/
-description: "Kyoten Next Door serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. Available for, and dinner."
 place_id: ChIJEds1-4bTD4gRjPBicSC6ugM
 photos:
   - name: >-
@@ -184,6 +182,33 @@ price_range: $100 &ndash; & up
 rating: '5.0'
 rating_count: 0
 website: http://kyotenchicago.com/
+description: >-
+  Discover Kyoten Next Door in Chicago, IL$$$Nestled in the vibrant city of
+  Chicago, IL, Kyoten Next Door stands out as a trendy sushi restaurant offering
+  an immersive omakase dining experience in a cozy and artistic environment.
+  This spot delights visitors with its high-quality fish selections and
+  meticulously prepared dishes that highlight fresh flavors and innovative
+  presentations, making it a go-to choice for sushi enthusiasts seeking
+  authentic Japanese-inspired cuisine. The intimate setting combines upscale
+  vibes with comfortable seating, perfect for special occasions or a relaxed
+  evening out, while accessibility features ensure it's welcoming for all. With
+  its focus on seasonal ingredients and thoughtful ambiance, this restaurant
+  near Logan Square provides an elevated option for those exploring top-rated
+  sushi places in the area.
+generative_summary: >-
+  Discover Kyoten Next Door in Chicago, IL$$$Nestled in the vibrant city of
+  Chicago, IL, Kyoten Next Door stands out as a trendy sushi restaurant offering
+  an immersive omakase dining experience in a cozy and artistic environment.
+  This spot delights visitors with its high-quality fish selections and
+  meticulously prepared dishes that highlight fresh flavors and innovative
+  presentations, making it a go-to choice for sushi enthusiasts seeking
+  authentic Japanese-inspired cuisine. The intimate setting combines upscale
+  vibes with comfortable seating, perfect for special occasions or a relaxed
+  evening out, while accessibility features ensure it's welcoming for all. With
+  its focus on seasonal ingredients and thoughtful ambiance, this restaurant
+  near Logan Square provides an elevated option for those exploring top-rated
+  sushi places in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJEds1-4bTD4gRjPBicSC6ugM/reviews/ChdDSUhNMG9nS0VJQ0FnSURYaThPY193RRAB
@@ -353,6 +378,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNIci1hemZnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNIci1hemZnEAE!2m1!1s0x880fd386fb35db11:0x3baba207162f08c
+review_summary: >-
+  What Customers Are Raving About$$$Folks who've dined here often share that the
+  omakase menu delivers an unforgettable adventure with fresh, top-notch fish
+  that really steals the show, creating a buzz among sushi lovers. Many
+  appreciate the friendly service that adds a personal touch, like sharing fun
+  facts about the ingredients, which makes the whole experience feel engaging
+  and laid-back. While a couple of courses might not hit the mark for everyone,
+  the overall vibe is cozy and upscale, with unique details that add a fun twist
+  to the night out. Reviewers frequently mention it as a great spot for date
+  nights or celebrations, praising the solid drink options that pair perfectly
+  with the meals. All in all, it's clear this place keeps things positive and
+  memorable, making it a solid pick for anyone hunting for quality sushi nearby.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options:
   acceptsCreditCards: true
@@ -381,7 +419,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: true
 takeout: false
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

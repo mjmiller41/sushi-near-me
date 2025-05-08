@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Monster"
+title: Sushi Monster
 permalink: /california/belmont/sushi-monster.html
 stateAbbr: CA
 stateName: California
 cityName: Belmont
 seo:
-  name: "Sushi Monster"
-  type: Restaurant
+  type: restaurant
   links: http://sushi-monster.com/
-description: "This Japanese standby supplies a creative sushi lineup in a simple, well-spaced setting. Sushi Monster serves delicious sushi in Belmont, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJo0zIq1qfj4ARPShwwLZ-bDM
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $30 &ndash; $50
 rating: '4.4'
 rating_count: 0
 website: http://sushi-monster.com/
+description: >-
+  About Sushi Monster in Belmont, CA$$$Sushi Monster in Belmont, CA, is a
+  welcoming Japanese restaurant known for its fresh and creative sushi offerings
+  that appeal to local diners. The spot features a simple, well-spaced interior
+  ideal for enjoying a variety of rolls, including inventive options like dragon
+  and spider styles that highlight fresh ingredients and bold flavors. With
+  accessibility features such as wheelchair-friendly entrances and parking, it's
+  designed to accommodate everyone seeking a comfortable meal. This hidden gem
+  also stands out for its moderate pricing and selection of Japanese dishes,
+  making it a solid choice for those exploring sushi restaurants in the area.
+  Whether you're in the mood for a quick bite or a relaxed dinner, it delivers a
+  satisfying experience for sushi lovers nearby.
+generative_summary: >-
+  About Sushi Monster in Belmont, CA$$$Sushi Monster in Belmont, CA, is a
+  welcoming Japanese restaurant known for its fresh and creative sushi offerings
+  that appeal to local diners. The spot features a simple, well-spaced interior
+  ideal for enjoying a variety of rolls, including inventive options like dragon
+  and spider styles that highlight fresh ingredients and bold flavors. With
+  accessibility features such as wheelchair-friendly entrances and parking, it's
+  designed to accommodate everyone seeking a comfortable meal. This hidden gem
+  also stands out for its moderate pricing and selection of Japanese dishes,
+  making it a solid choice for those exploring sushi restaurants in the area.
+  Whether you're in the mood for a quick bite or a relaxed dinner, it delivers a
+  satisfying experience for sushi lovers nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJo0zIq1qfj4ARPShwwLZ-bDM/reviews/ChdDSUhNMG9nS0VJQ0FnSUNydk5HczdBRRAB
@@ -470,6 +493,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURSdmVXTkJnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURSdmVXTkJnEAE!2m1!1s0x808f9f5aabc84ca3:0x336c7eb6c070283d
+review_summary: >-
+  What Customers Are Saying$$$Folks frequently rave about the fresh flavors and
+  generous portions at this spot, turning it into a go-to for satisfying sushi
+  cravings. Service stands out as friendly and attentive, creating a warm vibe
+  that keeps diners coming back for both lunch and dinner rushes. While some
+  mention the prices lean a bit higher, most agree the quality and variety of
+  rolls make it a worthwhile treat for anyone hunting top-rated options. It's
+  often praised for quick delivery of tasty appetizers and mains, like tempura
+  and specialty rolls, adding to the overall enjoyment. If you're on the hunt
+  for the best sushi near you, this place gets solid nods for its reliable taste
+  and welcoming atmosphere, offering an honest pick for casual meals.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -502,8 +537,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   This Japanese standby supplies a creative sushi lineup in a simple,
   well-spaced setting.
 

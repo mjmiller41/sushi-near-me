@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Mirai Sushi"
+title: Mirai Sushi
 permalink: /illinois/chicago/mirai-sushi.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
 seo:
-  name: "Mirai Sushi"
-  type: Restaurant
-  links: null
-description: "Mirai Sushi serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.miraisushi.com/
 place_id: ChIJ0c5uLLbSD4gREt5-41edUc0
 photos:
   - name: >-
@@ -167,22 +165,153 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x880fd2b62c6eced1:0xcd519d57e37ede12!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: Closed'
+    - 'Tuesday: 5:00 – 9:30 PM'
+    - 'Wednesday: 5:00 – 9:30 PM'
+    - 'Thursday: 5:00 – 9:30 PM'
+    - 'Friday: 5:00 – 9:30 PM'
+    - 'Saturday: 5:00 – 9:30 PM'
+    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+  - openNow: false
+    periods:
+      - open:
+          day: 2
+          hour: 17
+          minute: 30
+        close:
+          day: 2
+          hour: 21
+          minute: 0
+      - open:
+          day: 3
+          hour: 17
+          minute: 30
+        close:
+          day: 3
+          hour: 21
+          minute: 0
+      - open:
+          day: 4
+          hour: 17
+          minute: 30
+        close:
+          day: 4
+          hour: 21
+          minute: 0
+      - open:
+          day: 5
+          hour: 17
+          minute: 30
+        close:
+          day: 5
+          hour: 21
+          minute: 0
+      - open:
+          day: 6
+          hour: 17
+          minute: 30
+        close:
+          day: 6
+          hour: 21
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: Closed'
+      - 'Tuesday: 5:30 – 9:00 PM'
+      - 'Wednesday: 5:30 – 9:00 PM'
+      - 'Thursday: 5:30 – 9:00 PM'
+      - 'Friday: 5:30 – 9:00 PM'
+      - 'Saturday: 5:30 – 9:00 PM'
+      - 'Sunday: Closed'
+    secondaryHoursType: DELIVERY
+    nextOpenTime: '2025-05-03T22:30:00Z'
+phone: (312) 280-9100
+price_level: PRICE_LEVEL_EXPENSIVE
+price_range: $50 &ndash; $100
+rating: '4.3'
+rating_count: 388
+website: http://www.miraisushi.com/
+description: >-
+  Discover Mirai Sushi in Chicago, IL$$$Mirai Sushi in Chicago, IL, stands out
+  as a cherished spot for authentic Japanese dining, offering an intimate
+  atmosphere that draws in sushi enthusiasts from the bustling Streeterville
+  neighborhood. This longtime restaurant specializes in traditional Japanese
+  cuisine, featuring fresh sushi, sashimi, and a selection of sake that captures
+  the essence of classic flavors. With its convenient location and
+  wheelchair-accessible entrance, it's an ideal choice for those seeking
+  top-rated sushi experiences near the city center. Evening hours from Tuesday
+  through Saturday make it perfect for a relaxed dinner, blending quality
+  ingredients with a cozy vibe that elevates the overall meal.
+generative_summary: >-
+  Discover Mirai Sushi in Chicago, IL$$$Mirai Sushi in Chicago, IL, stands out
+  as a cherished spot for authentic Japanese dining, offering an intimate
+  atmosphere that draws in sushi enthusiasts from the bustling Streeterville
+  neighborhood. This longtime restaurant specializes in traditional Japanese
+  cuisine, featuring fresh sushi, sashimi, and a selection of sake that captures
+  the essence of classic flavors. With its convenient location and
+  wheelchair-accessible entrance, it's an ideal choice for those seeking
+  top-rated sushi experiences near the city center. Evening hours from Tuesday
+  through Saturday make it perfect for a relaxed dinner, blending quality
+  ingredients with a cozy vibe that elevates the overall meal.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Say About This Sushi Gem$$$People often rave about the fresh and
+  flavorful sushi at this spot, highlighting how it delivers a solid dining
+  experience that's worth the visit for anyone craving Japanese fare nearby.
+  Many appreciate the consistent quality and attentive service that make meals
+  feel welcoming and enjoyable, even on busier nights. While some note that
+  prices lean toward the higher end, the overall value shines through in the
+  well-prepared dishes that keep customers coming back for more. Feedback
+  generally praises the intimate setting as a great escape in the heart of the
+  city, making it a go-to for groups or solo diners looking for reliable sushi
+  restaurants. All in all, it's a place that earns its strong reputation as one
+  of the best options for sushi lovers in the area.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -208,7 +337,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

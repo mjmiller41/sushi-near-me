@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Osaka Sushi Bar"
+title: Osaka Sushi Bar
 permalink: /alabama/prattville/osaka-sushi-bar.html
 stateAbbr: AL
 stateName: Alabama
 cityName: Prattville
 seo:
-  name: "Osaka Sushi Bar"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Osaka Sushi Bar serves delicious sushi in Prattville, Alabama. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJXQQrWoyPjogRv7GbsXW8-44
 photos:
   - name: >-
@@ -170,8 +168,113 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x888e8f8c5a2b045d:0x8efbbc75b19bb1bf!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 15
+        minute: 0
+    - open:
+        day: 0
+        hour: 16
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 15
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 15
+        minute: 0
+    - open:
+        day: 6
+        hour: 16
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: Closed'
+    - 'Tuesday: 11:00 AM – 3:00 PM, 4:30 – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 3:00 PM, 4:30 – 9:00 PM'
+    - 'Thursday: 11:00 AM – 3:00 PM, 4:30 – 9:00 PM'
+    - 'Friday: 11:00 AM – 3:00 PM, 4:30 – 9:00 PM'
+    - 'Saturday: 12:00 – 3:00 PM, 4:30 – 9:00 PM'
+    - 'Sunday: 11:00 AM – 3:00 PM, 4:30 – 9:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +282,51 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
+phone: (334) 358-5818
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.2'
+rating_count: 535
 website: null
+description: >-
+  Explore Osaka Sushi Bar in Prattville, AL$$$Osaka Sushi Bar in Prattville, AL,
+  offers a welcoming spot for enjoying authentic Japanese cuisine in a relaxed
+  setting. This sushi restaurant features a diverse selection of fresh rolls,
+  hibachi-style dishes, and other traditional favorites, making it a go-to
+  choice for those seeking quality Japanese places near you. With accessible
+  entrances and seating options, it's designed to accommodate a variety of
+  diners looking for a comfortable meal. The menu highlights flavorful options
+  that cater to sushi enthusiasts, blending simplicity with creative
+  presentations. Whether you're in the mood for top-rated sushi or a casual
+  Japanese dining experience, this spot delivers on taste and ambiance without
+  overwhelming the senses.
+generative_summary: >-
+  Explore Osaka Sushi Bar in Prattville, AL$$$Osaka Sushi Bar in Prattville, AL,
+  offers a welcoming spot for enjoying authentic Japanese cuisine in a relaxed
+  setting. This sushi restaurant features a diverse selection of fresh rolls,
+  hibachi-style dishes, and other traditional favorites, making it a go-to
+  choice for those seeking quality Japanese places near you. With accessible
+  entrances and seating options, it's designed to accommodate a variety of
+  diners looking for a comfortable meal. The menu highlights flavorful options
+  that cater to sushi enthusiasts, blending simplicity with creative
+  presentations. Whether you're in the mood for top-rated sushi or a casual
+  Japanese dining experience, this spot delivers on taste and ambiance without
+  overwhelming the senses.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Customer Feedback$$$Visitors to this sushi spot often rave about
+  the fresh, well-prepared rolls and hibachi dishes that keep them coming back
+  for more Japanese-inspired meals. Many appreciate the friendly service and
+  reasonable prices, noting that it's a solid pick for families or groups
+  searching for sushi restaurants near them. While some mention occasional waits
+  during peak hours, the overall vibe remains positive with praise for the
+  flavorful options and welcoming atmosphere. It's frequently highlighted as a
+  reliable choice for anyone craving "I love sushi" moments, with the majority
+  of feedback emphasizing great value and satisfying portions. All in all, the
+  consensus leans toward it being a dependable favorite in the area for casual
+  dining enthusiasts.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +352,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

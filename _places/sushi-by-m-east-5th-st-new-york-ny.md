@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi by M-East 5th st"
+title: Sushi by M-East 5th st
 permalink: /new-york/new-york/sushi-by-m-east-5th-st.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "Sushi by M-East 5th st"
-  type: Restaurant
-  links: null
-description: "Sushi by M-East 5th st serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.sushibym.com/
 place_id: ChIJk2lnfqxZwokR33xBYJtyR_E
 photos:
   - name: >-
@@ -168,8 +166,129 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c259ac7e676993:0xf147729b60417cdf!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 15
+        minute: 0
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 23
+        minute: 0
+    - open:
+        day: 1
+        hour: 13
+        minute: 0
+      close:
+        day: 1
+        hour: 15
+        minute: 0
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 13
+        minute: 0
+      close:
+        day: 2
+        hour: 15
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 13
+        minute: 0
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 13
+        minute: 0
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 12
+        minute: 0
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 15
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 1:00 – 3:00 PM, 5:00 – 10:00 PM'
+    - 'Tuesday: 1:00 – 3:00 PM, 5:00 – 10:00 PM'
+    - 'Wednesday: 1:00 – 3:00 PM, 5:00 – 10:00 PM'
+    - 'Thursday: 1:00 – 3:00 PM, 5:00 – 10:00 PM'
+    - 'Friday: 12:00 – 3:00 PM, 5:00 – 11:00 PM'
+    - 'Saturday: 12:00 – 3:00 PM, 5:00 – 11:00 PM'
+    - 'Sunday: 12:00 – 3:00 PM, 5:00 – 11:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -177,13 +296,53 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
+phone: (347) 688-8101
 price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+price_range: $100 &ndash; & up
+rating: '4.5'
+rating_count: 877
+website: http://www.sushibym.com/
+description: >-
+  Discover Sushi by M in New York, NY$$$Sushi by M-East 5th st in New York, NY,
+  provides an intimate dining atmosphere perfect for sushi enthusiasts seeking
+  fresh, expertly crafted omakase options. This spot highlights a menu of
+  high-quality sushi and hand rolls, emphasizing creative presentations and
+  balanced flavors that appeal to those exploring top sushi restaurants in the
+  city. With convenient hours including lunch and dinner service throughout the
+  week, it's an accessible choice for anyone searching for sushi near me,
+  complete with a welcoming entrance for all visitors. The focus on premium
+  ingredients and thoughtful pairings makes it a standout option for
+  Japanese-inspired meals, blending tradition with a modern vibe. Whether you're
+  in the mood for a quick bite or a leisurely evening, this location delivers an
+  authentic taste of refined Japanese cuisine in the heart of the city.
+generative_summary: >-
+  Discover Sushi by M in New York, NY$$$Sushi by M-East 5th st in New York, NY,
+  provides an intimate dining atmosphere perfect for sushi enthusiasts seeking
+  fresh, expertly crafted omakase options. This spot highlights a menu of
+  high-quality sushi and hand rolls, emphasizing creative presentations and
+  balanced flavors that appeal to those exploring top sushi restaurants in the
+  city. With convenient hours including lunch and dinner service throughout the
+  week, it's an accessible choice for anyone searching for sushi near me,
+  complete with a welcoming entrance for all visitors. The focus on premium
+  ingredients and thoughtful pairings makes it a standout option for
+  Japanese-inspired meals, blending tradition with a modern vibe. Whether you're
+  in the mood for a quick bite or a leisurely evening, this location delivers an
+  authentic taste of refined Japanese cuisine in the heart of the city.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying About This Sushi Spot$$$Visitors often praise the
+  omakase offerings at this sushi restaurant for their fresh, high-quality fish
+  and clever flavor mixes that keep things exciting. Many highlight standout
+  dishes like the rich toro, creamy uni, and perfectly grilled eel nigiri as
+  go-to favorites that deliver a satisfying balance of taste and texture. The
+  staff comes across as welcoming and attentive, adding to the overall enjoyable
+  vibe that makes dining here feel relaxed and engaging. While opinions vary,
+  the lively atmosphere generally enhances the experience, making it a solid
+  pick for groups or solo diners. Overall, it's a go-to spot for anyone craving
+  reliable Japanese flavors, with feedback leaning positive on its ability to
+  impress without overcomplicating things.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -209,7 +368,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

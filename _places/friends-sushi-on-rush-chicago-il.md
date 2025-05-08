@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Friends Sushi on Rush"
+title: Friends Sushi on Rush
 permalink: /illinois/chicago/friends-sushi-on-rush.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
 seo:
-  name: "Friends Sushi on Rush"
-  type: Restaurant
-  links: null
-description: "Friends Sushi on Rush serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.friendssushi.com/
 place_id: ChIJd2xyLVPTD4gRvgBiPq3ys3s
 photos:
   - name: >-
@@ -168,8 +166,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x880fd3532d726c77:0x7bb3f2ad3e6200be!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:30 AM – 10:00 PM'
+    - 'Tuesday: 11:30 AM – 10:00 PM'
+    - 'Wednesday: 11:30 AM – 10:00 PM'
+    - 'Thursday: 11:30 AM – 10:00 PM'
+    - 'Friday: 11:30 AM – 11:00 PM'
+    - 'Saturday: 11:30 AM – 11:00 PM'
+    - 'Sunday: 11:30 AM – 10:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -177,13 +240,59 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (312) 787-8998
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.4'
+rating_count: 1013
+website: http://www.friendssushi.com/
+description: >-
+  Discover Friends Sushi on Rush in Chicago, IL$$$Friends Sushi on Rush in
+  Chicago, IL, stands out as a vibrant sushi destination in the heart of the
+  city, offering a mix of fresh sushi rolls and flavorful small plates that
+  capture the essence of Japanese cuisine. This spot boasts a hip atmosphere
+  with a cool, modern vibe that makes it ideal for casual dinners or group
+  outings, drawing in those seeking quality eats in a lively setting. Patrons
+  can enjoy an array of creative dishes, from classic nigiri to innovative
+  specials, all prepared with high-quality ingredients that emphasize taste and
+  presentation. Located in the bustling River North neighborhood, it's a go-to
+  choice for anyone exploring top-rated sushi restaurants near me, providing a
+  welcoming space that's perfect for savoring authentic flavors without the
+  fuss. With moderate pricing and extended hours, it caters well to both locals
+  and visitors looking for reliable Japanese places close to downtown
+  attractions.
+generative_summary: >-
+  Discover Friends Sushi on Rush in Chicago, IL$$$Friends Sushi on Rush in
+  Chicago, IL, stands out as a vibrant sushi destination in the heart of the
+  city, offering a mix of fresh sushi rolls and flavorful small plates that
+  capture the essence of Japanese cuisine. This spot boasts a hip atmosphere
+  with a cool, modern vibe that makes it ideal for casual dinners or group
+  outings, drawing in those seeking quality eats in a lively setting. Patrons
+  can enjoy an array of creative dishes, from classic nigiri to innovative
+  specials, all prepared with high-quality ingredients that emphasize taste and
+  presentation. Located in the bustling River North neighborhood, it's a go-to
+  choice for anyone exploring top-rated sushi restaurants near me, providing a
+  welcoming space that's perfect for savoring authentic flavors without the
+  fuss. With moderate pricing and extended hours, it caters well to both locals
+  and visitors looking for reliable Japanese places close to downtown
+  attractions.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Customer Reviews$$$Folks who visit Friends Sushi on Rush often
+  rave about the consistently fresh flavors and generous portions that make
+  every meal feel like a treat, helping it earn its strong reputation among
+  sushi spots in the area. Many highlight the welcoming ambiance and efficient
+  service, noting that it's a solid pick for anyone craving reliable Japanese
+  fare without breaking the bank. While some mention minor waits during peak
+  times, the overall experience is frequently described as enjoyable and worth
+  returning for, especially for the standout rolls and creative options. It's
+  clear that diners appreciate the balance of quality and value, positioning
+  this as one of the best sushi near me choices for casual evenings out. All in
+  all, the feedback paints a positive picture of a spot that's dependable for
+  good vibes and tasty bites, encouraging newcomers to give it a try with an
+  open mind.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -209,7 +318,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

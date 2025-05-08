@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Basil Cafe Asian Cuisine"
+title: Basil Cafe Asian Cuisine
 permalink: /texas/rockwall/basil-cafe-asian-cuisine.html
 stateAbbr: TX
 stateName: Texas
 cityName: Rockwall
 seo:
-  name: "Basil Cafe Asian Cuisine"
-  type: Restaurant
+  type: restaurant
   links: http://www.basilcaferockwall.com/
-description: "Basil Cafe Asian Cuisine serves delicious sushi in Rockwall, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJq0sdHECqToYRI8YI5P5TqDM
 photos:
   - name: >-
@@ -170,7 +168,89 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x864eaa401c1d4bab:0x33a853fee408c623!10e5
 primary_type: Asian Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:00 AM – 2:30 PM, 4:30 – 9:30 PM'
     - 'Wednesday: 11:00 AM – 2:30 PM, 4:30 – 9:30 PM'
@@ -178,14 +258,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 2:30 PM, 4:30 – 10:30 PM'
     - 'Saturday: 12:00 – 10:30 PM'
     - 'Sunday: 12:00 – 9:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:00 AM – 2:30 PM, 4:30 – 9:30 PM'
-    - 'Wednesday: 11:00 AM – 2:30 PM, 4:30 – 9:30 PM'
-    - 'Thursday: 11:00 AM – 2:30 PM, 4:30 – 9:30 PM'
-    - 'Friday: 11:00 AM – 2:30 PM, 4:30 – 10:30 PM'
-    - 'Saturday: 12:00 – 10:30 PM'
-    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T03:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +270,279 @@ phone: (972) 722-2888
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.4'
-rating_count: 0
+rating_count: 297
 website: http://www.basilcaferockwall.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Basil Cafe in Rockwall, TX$$$Basil Cafe Asian Cuisine in Rockwall,
+  TX, stands out as a casual spot blending Thai and Japanese influences for a
+  delightful dining experience. This eatery features a menu packed with fresh
+  Asian fusion options, including specialty sushi rolls and flavorful noodle
+  dishes that highlight bold flavors and quality ingredients. With its welcoming
+  atmosphere, complete with modern decor and comfortable seating, it's an ideal
+  choice for those seeking accessible and wheelchair-friendly sushi places near
+  me. The restaurant also offers a diverse selection of dishes catering to meat
+  lovers and vegetarians alike, making it a go-to for anyone exploring top-rated
+  sushi in a relaxed setting. Open for lunch and dinner with convenient hours,
+  it provides a solid option for those craving authentic Asian tastes without
+  the fuss.
+generative_summary: >-
+  Discover Basil Cafe in Rockwall, TX$$$Basil Cafe Asian Cuisine in Rockwall,
+  TX, stands out as a casual spot blending Thai and Japanese influences for a
+  delightful dining experience. This eatery features a menu packed with fresh
+  Asian fusion options, including specialty sushi rolls and flavorful noodle
+  dishes that highlight bold flavors and quality ingredients. With its welcoming
+  atmosphere, complete with modern decor and comfortable seating, it's an ideal
+  choice for those seeking accessible and wheelchair-friendly sushi places near
+  me. The restaurant also offers a diverse selection of dishes catering to meat
+  lovers and vegetarians alike, making it a go-to for anyone exploring top-rated
+  sushi in a relaxed setting. Open for lunch and dinner with convenient hours,
+  it provides a solid option for those craving authentic Asian tastes without
+  the fuss.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJq0sdHECqToYRI8YI5P5TqDM/reviews/ChdDSUhNMG9nS0VJQ0FnSUNmbThYUWxnRRAB
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        This is my first time stopping by Basil Cafe. It was the beginning of a
+        new year so I wanted to have something healthier, so I picked this place
+        to go while errand running. I ended up ordering the Thai curry chicken
+        with pork gyoza and side salad. The salad had a wonderful pureed onion
+        vegetable dressing, the gyoza was seared on one side with a sweet soy
+        sauce on the side. The Thai curry chicken bowl was the Superstar of the
+        meal. It's very big so can certainly fill you up just on its own but I
+        wanted to try their appetizer too. Lots of fresh vegetables in both the
+        salad and the curry Thai chicken, I was delightfully surprised and
+        happy, it exceeded my expectations as far as the sauce. The sauce has a
+        light spice, is creamy and has that nice curry flavor to it. It's very
+        rich and smooth with fresh vegetables and white meat chicken. The
+        atmosphere is above average as far as romantic atmospheres go, with
+        upgraded modern dark wood, dimmed lights and a nice cute little sushi
+        bar. The seats were cushy and comfortable.  There are lots of options to
+        choose from for both meat lovers and vegetarians. Overall it was super
+        yums.
+
+        Do you like restaurant reviews? I have reviews from at least 11
+        different states, follow me for free!
+      languageCode: en
+    originalText:
+      text: >-
+        This is my first time stopping by Basil Cafe. It was the beginning of a
+        new year so I wanted to have something healthier, so I picked this place
+        to go while errand running. I ended up ordering the Thai curry chicken
+        with pork gyoza and side salad. The salad had a wonderful pureed onion
+        vegetable dressing, the gyoza was seared on one side with a sweet soy
+        sauce on the side. The Thai curry chicken bowl was the Superstar of the
+        meal. It's very big so can certainly fill you up just on its own but I
+        wanted to try their appetizer too. Lots of fresh vegetables in both the
+        salad and the curry Thai chicken, I was delightfully surprised and
+        happy, it exceeded my expectations as far as the sauce. The sauce has a
+        light spice, is creamy and has that nice curry flavor to it. It's very
+        rich and smooth with fresh vegetables and white meat chicken. The
+        atmosphere is above average as far as romantic atmospheres go, with
+        upgraded modern dark wood, dimmed lights and a nice cute little sushi
+        bar. The seats were cushy and comfortable.  There are lots of options to
+        choose from for both meat lovers and vegetarians. Overall it was super
+        yums.
+
+        Do you like restaurant reviews? I have reviews from at least 11
+        different states, follow me for free!
+      languageCode: en
+    authorAttribution:
+      displayName: Andrea Knight
+      uri: https://www.google.com/maps/contrib/113729417433463279144/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWoowu37iJFtYhhh_38CPvGxr6XBHECukLQpa41YnzNia5jMneb=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2025-01-01T20:36:04.691684Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNmbThYUWxnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNmbThYUWxnRRAB!2m1!1s0x864eaa401c1d4bab:0x33a853fee408c623
+  - name: >-
+      places/ChIJq0sdHECqToYRI8YI5P5TqDM/reviews/ChZDSUhNMG9nS0VJQ0FnSUN2ckxmUkRBEAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        First time here. Very impressed by the flavor, staff and atmosphere. We
+        had the amazing tuna roll and ramen. Tip... watch your spice level...
+        🤣🤣🤣
+      languageCode: en
+    originalText:
+      text: >-
+        First time here. Very impressed by the flavor, staff and atmosphere. We
+        had the amazing tuna roll and ramen. Tip... watch your spice level...
+        🤣🤣🤣
+      languageCode: en
+    authorAttribution:
+      displayName: Christina Preston
+      uri: https://www.google.com/maps/contrib/102059910954931634519/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUBGJURB1-85A_SLiF7ZRYy8w4E_vVETgpmt4fqhNY14xt7dHNp=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-12-08T18:46:56.022104Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN2ckxmUkRBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN2ckxmUkRBEAE!2m1!1s0x864eaa401c1d4bab:0x33a853fee408c623
+  - name: >-
+      places/ChIJq0sdHECqToYRI8YI5P5TqDM/reviews/ChZDSUhNMG9nS0VJQ0FnSUNEZ2VySUV3EAE
+    relativePublishTimeDescription: 6 months ago
+    rating: 2
+    text:
+      text: >-
+        Food is okay - it’s a vegan option just like any other Asian cuisine
+        place but the service is even worse. The first couple of times I came
+        here by myself and with my husband were great but when I brought my
+        small children, we were ignored and had to flag down the server every
+        time we needed something rather than waiting for her to come every few
+        minutes. This was all while every other table with adults only were
+        being waited on hand and foot. I decided then that I would only eat here
+        if it’s takeout and I wasn’t impressed. 4/6 of my cucumber rolls were
+        unrolled completely and falling apart by the time I got them and my
+        house salad was 99% greens with literally one tomato and 1/30 of a
+        cucumber slice. The fried rice was almost flavor-less. Rockwall already
+        has such limited vegan options and it just sucks that this place doesn’t
+        put that much care into their work. Please do better.
+      languageCode: en
+    originalText:
+      text: >-
+        Food is okay - it’s a vegan option just like any other Asian cuisine
+        place but the service is even worse. The first couple of times I came
+        here by myself and with my husband were great but when I brought my
+        small children, we were ignored and had to flag down the server every
+        time we needed something rather than waiting for her to come every few
+        minutes. This was all while every other table with adults only were
+        being waited on hand and foot. I decided then that I would only eat here
+        if it’s takeout and I wasn’t impressed. 4/6 of my cucumber rolls were
+        unrolled completely and falling apart by the time I got them and my
+        house salad was 99% greens with literally one tomato and 1/30 of a
+        cucumber slice. The fried rice was almost flavor-less. Rockwall already
+        has such limited vegan options and it just sucks that this place doesn’t
+        put that much care into their work. Please do better.
+      languageCode: en
+    authorAttribution:
+      displayName: Mary Blackshear
+      uri: https://www.google.com/maps/contrib/107536906406040879500/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXmxxfuhtJomBUg4sLpwnOAVGNdUYuTgecpl2miMyb0w4_rLnQ=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-11-03T02:58:32.355714Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNEZ2VySUV3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNEZ2VySUV3EAE!2m1!1s0x864eaa401c1d4bab:0x33a853fee408c623
+  - name: >-
+      places/ChIJq0sdHECqToYRI8YI5P5TqDM/reviews/ChdDSUhNMG9nS0VJQ0FnSURsMFlqTTV3RRAB
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        This is an awesome place to enjoy Asian cuisine.  I love the atmosphere
+        and the abundance of the dining experience.  My best friend and I
+        enjoyed just all kinds of entrées. The menu is so beautifully displayed
+        that it's like the food jumps out of the pages.  We had an awesome
+        waitress!!!!They played great music, which accompanied the delicious
+        food they served. Basil Cafe owes me nothing!!!!
+      languageCode: en
+    originalText:
+      text: >-
+        This is an awesome place to enjoy Asian cuisine.  I love the atmosphere
+        and the abundance of the dining experience.  My best friend and I
+        enjoyed just all kinds of entrées. The menu is so beautifully displayed
+        that it's like the food jumps out of the pages.  We had an awesome
+        waitress!!!!They played great music, which accompanied the delicious
+        food they served. Basil Cafe owes me nothing!!!!
+      languageCode: en
+    authorAttribution:
+      displayName: Martha Alexander-Leonowicz
+      uri: https://www.google.com/maps/contrib/112638128600276439834/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJ-VIKL4hg3cypoEVMdJ1E4LDqG3szFM-LG3D4XD1-etCdIYfHs=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2023-12-02T11:18:11.696956Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURsMFlqTTV3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURsMFlqTTV3RRAB!2m1!1s0x864eaa401c1d4bab:0x33a853fee408c623
+  - name: >-
+      places/ChIJq0sdHECqToYRI8YI5P5TqDM/reviews/ChZDSUhNMG9nS0VJQ0FnTURRc1BIVlVREAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        What a hidden gem!  We found this restaurant by chance and it is now one
+        of our favorites. The food is delicious, always fresh and hot. Flavors
+        are amazing and menu is very diverse. Service is top notch and the
+        atmosphere is relaxed and subdued.  This has become a regular rotation
+        at our house.
+      languageCode: en
+    originalText:
+      text: >-
+        What a hidden gem!  We found this restaurant by chance and it is now one
+        of our favorites. The food is delicious, always fresh and hot. Flavors
+        are amazing and menu is very diverse. Service is top notch and the
+        atmosphere is relaxed and subdued.  This has become a regular rotation
+        at our house.
+      languageCode: en
+    authorAttribution:
+      displayName: Amy Scheid
+      uri: https://www.google.com/maps/contrib/111787512162891658154/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIhgX0nUtzwcQKSKm7X0uDT26aBlpJttyaBFdub5nAdHIiQrg=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-08T13:42:15.782461Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURRc1BIVlVREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURRc1BIVlVREAE!2m1!1s0x864eaa401c1d4bab:0x33a853fee408c623
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors to Basil Cafe often rave about the
+  tasty Asian dishes and cozy ambiance, with many highlighting the fresh sushi
+  rolls and flavorful entrees as standout favorites. While the overall
+  experience leans positive, some notes mention occasional inconsistencies in
+  service, especially during busier times, though the staff's efforts are
+  generally appreciated. Feedback frequently praises the variety of options,
+  including spicy ramen and curry bowls, making it a reliable pick for groups or
+  individuals hunting for sushi restaurants near me. Despite a few mentions of
+  minor issues like portion presentation in takeout orders, the majority agree
+  that the food's quality and atmosphere keep them coming back for more. If
+  you're in the mood for a laid-back meal with solid flavors, this spot delivers
+  a generally enjoyable vibe that's worth trying out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
+delivery: true
+dine_in: true
 good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: false
+serves_breakfast: false
 serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_cocktails: false
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: false
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Easygoing strip-mall eatery featuring a menu of mainly Thai & Japanese
+  specialties plus sushi.
 
 ---

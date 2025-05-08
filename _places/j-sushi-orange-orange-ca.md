@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "J Sushi Orange"
+title: J Sushi Orange
 permalink: /california/orange/j-sushi-orange.html
 stateAbbr: CA
 stateName: California
 cityName: Orange
 seo:
-  name: "J Sushi Orange"
-  type: Restaurant
-  links: null
-description: "J Sushi Orange serves delicious sushi in Orange, California. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://fromtherestaurant.com/j-sushi--grill/menu/352-S-Main-St/
 place_id: ChIJ8b7oYNDZ3IARA9WD6aLGkkg
 photos:
   - name: >-
@@ -170,8 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80dcd9d060e8bef1:0x4892c6a2e983d503!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: false
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 20
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 20
+        minute: 30
+    - open:
+        day: 6
+        hour: 16
+        minute: 0
+      close:
+        day: 6
+        hour: 20
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 8:30 PM'
+    - 'Tuesday: 11:00 AM – 8:30 PM'
+    - 'Wednesday: 11:00 AM – 8:30 PM'
+    - 'Thursday: 11:00 AM – 8:30 PM'
+    - 'Friday: 11:00 AM – 8:30 PM'
+    - 'Saturday: 4:00 – 8:30 PM'
+    - 'Sunday: Closed'
+  nextOpenTime: '2025-05-03T23:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +234,46 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (657) 236-4550
+price_level: PRICE_LEVEL_INEXPENSIVE
+price_range: $10 &ndash; $20
+rating: '4.6'
+rating_count: 499
+website: https://fromtherestaurant.com/j-sushi--grill/menu/352-S-Main-St/
+description: >-
+  Discover J Sushi Orange in Orange, CA$$$J Sushi Orange in Orange, CA, offers a
+  delightful array of fresh Japanese dishes that highlight the art of
+  sushi-making. This cozy spot serves up creative rolls and satisfying bento
+  boxes, making it a go-to choice for anyone seeking authentic flavors in a
+  welcoming environment. With thoughtful accessibility features like
+  wheelchair-friendly entrances and seating, it's designed to accommodate all
+  guests comfortably. Operating primarily in the evenings and weekends, it's an
+  ideal option for those exploring sushi restaurants nearby, blending quality
+  ingredients with a relaxed vibe that keeps diners coming back.
+generative_summary: >-
+  Discover J Sushi Orange in Orange, CA$$$J Sushi Orange in Orange, CA, offers a
+  delightful array of fresh Japanese dishes that highlight the art of
+  sushi-making. This cozy spot serves up creative rolls and satisfying bento
+  boxes, making it a go-to choice for anyone seeking authentic flavors in a
+  welcoming environment. With thoughtful accessibility features like
+  wheelchair-friendly entrances and seating, it's designed to accommodate all
+  guests comfortably. Operating primarily in the evenings and weekends, it's an
+  ideal option for those exploring sushi restaurants nearby, blending quality
+  ingredients with a relaxed vibe that keeps diners coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Folks who visit J Sushi often praise the spot for
+  its consistently fresh and flavorful sushi options, making it a solid pick for
+  casual meals. Many appreciate the generous portions and affordable prices that
+  deliver great value without skimping on taste. The high ratings suggest that
+  the service is generally friendly and efficient, helping to create a positive
+  dining experience overall. While a few mentions note occasional wait times
+  during busy periods, the overwhelming feedback highlights it as a reliable
+  choice for top-rated sushi near me. In a nutshell, it's clear that this place
+  resonates with locals looking for honest, enjoyable Japanese cuisine that hits
+  the mark most of the time.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +299,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

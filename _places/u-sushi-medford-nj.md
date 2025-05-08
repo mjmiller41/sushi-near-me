@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "U Sushi"
+title: U Sushi
 permalink: /new-jersey/medford/u-sushi.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Medford
 seo:
-  name: "U Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.usushimedford.com/
-description: "U Sushi serves delicious sushi in Medford, New Jersey. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJraka3xwxwYkR_Uwopan-u2I
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $20 &ndash; $30
 rating: '4.7'
 rating_count: 0
 website: https://www.usushimedford.com/
+description: >-
+  Discover U Sushi in Medford, NJ$$$U Sushi in Medford, NJ, stands out as a
+  casual Asian restaurant that blends flavorful Thai dishes with fresh sushi
+  options, making it a go-to spot for those seeking authentic tastes in a
+  welcoming setting. The menu features an array of creative rolls and entrees
+  that highlight high-quality ingredients, appealing to anyone exploring sushi
+  restaurants nearby. With thoughtful accessibility features like
+  wheelchair-friendly entrances and parking, it ensures a comfortable visit for
+  all guests. Generous portions and a moderate price range add to its appeal,
+  perfect for both quick lunches and relaxed dinners. This spot captures the
+  essence of Japanese-inspired cuisine while offering a laid-back vibe that
+  encourages repeat visits for locals hunting for top-rated sushi options.
+generative_summary: >-
+  Discover U Sushi in Medford, NJ$$$U Sushi in Medford, NJ, stands out as a
+  casual Asian restaurant that blends flavorful Thai dishes with fresh sushi
+  options, making it a go-to spot for those seeking authentic tastes in a
+  welcoming setting. The menu features an array of creative rolls and entrees
+  that highlight high-quality ingredients, appealing to anyone exploring sushi
+  restaurants nearby. With thoughtful accessibility features like
+  wheelchair-friendly entrances and parking, it ensures a comfortable visit for
+  all guests. Generous portions and a moderate price range add to its appeal,
+  perfect for both quick lunches and relaxed dinners. This spot captures the
+  essence of Japanese-inspired cuisine while offering a laid-back vibe that
+  encourages repeat visits for locals hunting for top-rated sushi options.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJraka3xwxwYkR_Uwopan-u2I/reviews/ChZDSUhNMG9nS0VJQ0FnSUM5dmVXa0V3EAE
@@ -350,6 +373,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNlNHVmUWRBEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNlNHVmUWRBEAE!2m1!1s0x89c1311cdf1aa9ad:0x62bbfea9a5284cfd
+review_summary: >-
+  What Customers Love About U Sushi$$$Visitors often rave about the outstanding
+  sushi selections, with many highlighting the fresh flavors and creative
+  presentations that make meals feel special and satisfying. Folks appreciate
+  the reliable service and welcoming atmosphere, which keeps things smooth from
+  start to finish, especially when grabbing hibachi dishes or appetizers. It's
+  clear that the variety of options, like tasty rolls and salads, hits the mark
+  for a wide range of tastes, all while keeping things affordable and enjoyable.
+  Overall, the positive experiences shared suggest this place delivers on fresh
+  ingredients and solid value, making it a solid choice for anyone in the area
+  looking for a casual bite. While not every visit is flawless, the general
+  consensus leans toward it being a dependable favorite for sushi enthusiasts
+  nearby.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
 payment_options:
@@ -380,7 +417,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

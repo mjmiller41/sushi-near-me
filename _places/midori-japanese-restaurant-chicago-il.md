@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Midori Japanese Restaurant"
+title: Midori Japanese Restaurant
 permalink: /illinois/chicago/midori-japanese-restaurant.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
 seo:
-  name: "Midori Japanese Restaurant"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Midori Japanese Restaurant serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJr9HKmg7OD4gRk5iWg0kSDYI
 photos:
   - name: >-
@@ -169,7 +167,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x880fce0e9acad1af:0x820d124983969893!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 16
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 16
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 4:00 – 9:00 PM'
     - 'Tuesday: 4:00 – 9:00 PM'
     - 'Wednesday: 4:00 – 9:00 PM'
@@ -177,14 +233,7 @@ opening_hours:
     - 'Friday: 4:00 – 9:00 PM'
     - 'Saturday: 4:00 – 9:00 PM'
     - 'Sunday: 4:00 – 9:00 PM'
-  current:
-    - 'Monday: 4:00 – 9:00 PM'
-    - 'Tuesday: 4:00 – 9:00 PM'
-    - 'Wednesday: 4:00 – 9:00 PM'
-    - 'Thursday: 4:00 – 9:00 PM'
-    - 'Friday: 4:00 – 9:00 PM'
-    - 'Saturday: 4:00 – 9:00 PM'
-    - 'Sunday: 4:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,9 +245,42 @@ phone: (773) 267-9733
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.6'
-rating_count: 0
+rating_count: 444
 website: null
+description: >-
+  Discover Midori in Chicago, IL$$$Midori Japanese Restaurant in Chicago, IL,
+  stands out as a welcoming spot for savoring authentic Japanese flavors in a
+  relaxed setting. This eatery features an array of fresh sushi rolls, teriyaki
+  classics, and other time-honored dishes, complemented by a selection of sake
+  for an enhanced dining experience. Its laid-back vibe makes it ideal for
+  casual meals, while accessibility options like wheelchair-friendly entrances
+  and seating ensure comfort for all guests. Whether you're exploring sushi
+  options in the area or seeking a cozy place for Japanese cuisine, the focus on
+  quality ingredients and simple elegance creates a memorable visit.
+generative_summary: >-
+  Discover Midori in Chicago, IL$$$Midori Japanese Restaurant in Chicago, IL,
+  stands out as a welcoming spot for savoring authentic Japanese flavors in a
+  relaxed setting. This eatery features an array of fresh sushi rolls, teriyaki
+  classics, and other time-honored dishes, complemented by a selection of sake
+  for an enhanced dining experience. Its laid-back vibe makes it ideal for
+  casual meals, while accessibility options like wheelchair-friendly entrances
+  and seating ensure comfort for all guests. Whether you're exploring sushi
+  options in the area or seeking a cozy place for Japanese cuisine, the focus on
+  quality ingredients and simple elegance creates a memorable visit.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About This Spot$$$Folks heading to this popular
+  Chicago sushi destination frequently highlight the fresh, flavorful dishes
+  that deliver great value for the price. Many enjoy the welcoming atmosphere
+  and efficient service, making it a solid pick for quick dinners or group
+  outings without any fuss. With an impressive overall rating, visitors often
+  note the consistent taste and variety that keep things exciting yet reliable.
+  If you're on the hunt for reliable Japanese eats nearby, this place tends to
+  impress with its straightforward appeal and satisfying meals. All in all, it's
+  a go-to choice that leaves people feeling content and eager to return for
+  more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -224,7 +306,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

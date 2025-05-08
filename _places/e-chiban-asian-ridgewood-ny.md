@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "E-Chiban Asian"
+title: E-Chiban Asian
 permalink: /new-york/ridgewood/e-chiban-asian.html
 stateAbbr: NY
 stateName: New York
 cityName: Ridgewood
 seo:
-  name: "E-Chiban Asian"
-  type: Restaurant
+  type: restaurant
   links: http://www.e-chibanny.com/
-description: "Casual choice dispensing an eclectic menu of Chinese, Thai & Japanese eats, including sushi. E-Chiban Asian serves delicious sushi in Ridgewood, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJPYNsm4NewokReFWl6Dr7sYU
 photos:
   - name: >-
@@ -183,6 +181,33 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 0
 website: http://www.e-chibanny.com/
+description: >-
+  Discover E-Chiban Asian in Ridgewood, NY$$$E-Chiban Asian in Ridgewood, NY,
+  stands out as a relaxed destination for enjoying a mix of Asian flavors,
+  featuring fresh sushi and hearty bento options that appeal to those seeking
+  convenient dining. This spot delivers a variety of Japanese-inspired dishes
+  alongside Chinese and Thai influences, making it an ideal choice for anyone
+  exploring top-rated sushi restaurants in the area. With options for dine-in or
+  takeout, it caters to busy locals looking for moderately priced meals that
+  don't skimp on quality. The menu highlights fresh ingredients and
+  well-balanced flavors, creating a welcoming vibe for casual meals or quick
+  pickups. Whether you're in the mood for sushi classics or something more
+  eclectic, this neighborhood gem offers a satisfying experience that combines
+  authenticity with everyday accessibility.
+generative_summary: >-
+  Discover E-Chiban Asian in Ridgewood, NY$$$E-Chiban Asian in Ridgewood, NY,
+  stands out as a relaxed destination for enjoying a mix of Asian flavors,
+  featuring fresh sushi and hearty bento options that appeal to those seeking
+  convenient dining. This spot delivers a variety of Japanese-inspired dishes
+  alongside Chinese and Thai influences, making it an ideal choice for anyone
+  exploring top-rated sushi restaurants in the area. With options for dine-in or
+  takeout, it caters to busy locals looking for moderately priced meals that
+  don't skimp on quality. The menu highlights fresh ingredients and
+  well-balanced flavors, creating a welcoming vibe for casual meals or quick
+  pickups. Whether you're in the mood for sushi classics or something more
+  eclectic, this neighborhood gem offers a satisfying experience that combines
+  authenticity with everyday accessibility.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJPYNsm4NewokReFWl6Dr7sYU/reviews/ChdDSUhNMG9nS0VJQ0FnSUNPdHVIVnpnRRAB
@@ -332,6 +357,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURibm9iV2lnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURibm9iV2lnRRAB!2m1!1s0x89c25e839b6c833d:0x85b1fb3ae8a55578
+review_summary: >-
+  What Visitors Are Buzzing About$$$Visitors consistently praise the fresh sushi
+  and flavorful rice dishes at this Asian eatery, noting how they hit the spot
+  for anyone craving reliable, tasty options without breaking the bank. Many
+  highlight the consistent quality and great service that make every visit feel
+  smooth and enjoyable, turning it into a go-to for casual meals. Folks
+  appreciate the variety of choices, like spicy rolls and satisfying specials,
+  which keep things exciting yet approachable for different tastes. Overall, the
+  reasonable prices and solid portions add to the appeal, making it a smart pick
+  for groups or solo diners seeking authentic Asian vibes. While experiences can
+  vary, the positive feedback underscores its reputation as a dependable spot
+  for quality food in a laid-back setting.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   valetParking: false
 payment_options:
@@ -362,8 +400,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Casual choice dispensing an eclectic menu of Chinese, Thai & Japanese eats,
   including sushi.
 

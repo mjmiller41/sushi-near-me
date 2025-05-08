@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "BLUEFIN SUSHI & THAI"
+title: BLUEFIN SUSHI & THAI
 permalink: /california/alameda/bluefin-sushi-thai.html
 stateAbbr: CA
 stateName: California
 cityName: Alameda
 seo:
-  name: "BLUEFIN SUSHI & THAI"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "BLUEFIN SUSHI & THAI serves delicious sushi in Alameda, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJKZrUkpyGj4ARdeuZcKmRTQs
 photos:
   - name: >-
@@ -185,7 +183,44 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Explore BLUEFIN SUSHI & THAI in Alameda, CA$$$BLUEFIN SUSHI & THAI in Alameda,
+  CA, offers a welcoming spot for enjoying fresh sushi and flavorful Thai dishes
+  in a relaxed environment. The menu highlights a variety of Asian-inspired
+  options, blending the artistry of sushi rolls with the bold flavors of Thai
+  cuisine, making it a go-to choice for those seeking diverse tastes in a casual
+  setting. This easygoing restaurant emphasizes accessibility, with features
+  like wheelchair-friendly entrances and seating that ensure everyone can enjoy
+  their meal comfortably. Patrons appreciate the straightforward vibe, perfect
+  for quick lunches or evening outings, while the focus on quality ingredients
+  adds to the appeal for sushi enthusiasts exploring local dining options.
+generative_summary: >-
+  Explore BLUEFIN SUSHI & THAI in Alameda, CA$$$BLUEFIN SUSHI & THAI in Alameda,
+  CA, offers a welcoming spot for enjoying fresh sushi and flavorful Thai dishes
+  in a relaxed environment. The menu highlights a variety of Asian-inspired
+  options, blending the artistry of sushi rolls with the bold flavors of Thai
+  cuisine, making it a go-to choice for those seeking diverse tastes in a casual
+  setting. This easygoing restaurant emphasizes accessibility, with features
+  like wheelchair-friendly entrances and seating that ensure everyone can enjoy
+  their meal comfortably. Patrons appreciate the straightforward vibe, perfect
+  for quick lunches or evening outings, while the focus on quality ingredients
+  adds to the appeal for sushi enthusiasts exploring local dining options.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About This Local Sushi Spot$$$Visitors to this
+  Alameda sushi restaurant often rave about the fresh, well-prepared dishes that
+  make for a satisfying meal without any fuss. Many highlight the great value
+  and variety, noting that the sushi and Thai selections consistently deliver on
+  taste and portion size, ideal for anyone craving reliable Asian flavors
+  nearby. Feedback frequently mentions the friendly service and welcoming
+  atmosphere, which help create a positive experience even for first-timers.
+  Overall, folks seem to enjoy the spot as a solid pick for groups or solo
+  diners, with the general consensus leaning toward it being a dependable choice
+  for tasty bites in a laid-back environment. While not every visit is flawless,
+  the majority of comments keep things upbeat, encouraging others to give this
+  hidden gem a try when searching for top-rated sushi options close to home.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +246,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

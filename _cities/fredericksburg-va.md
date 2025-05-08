@@ -5,4 +5,5 @@ permalink: /virginia/fredericksburg/
 stateAbbr: VA
 stateName: Virginia
 cityName: Fredericksburg
+
 ---

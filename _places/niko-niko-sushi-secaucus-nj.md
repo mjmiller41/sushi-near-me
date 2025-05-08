@@ -1,15 +1,14 @@
 ---
 layout: place
-title: "Niko Niko Sushi"
+title: Niko Niko Sushi
 permalink: /new-jersey/secaucus/niko-niko-sushi.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Secaucus
 seo:
-  name: "Niko Niko Sushi"
-  type: Restaurant
-  links: null
-description: "Niko Niko Sushi serves delicious sushi in Secaucus, New Jersey. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: >-
+    https://order.online/store/niko-niko-sushi-secaucus-1070519/?hideModal=true&pickup=true
 place_id: ChIJNV8VaexXwokR3bQXk74ZGis
 photos:
   - name: >-
@@ -169,8 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c257ec69155f35:0x2b1a19be9317b4dd!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 20
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 20
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 20
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 8:30 PM'
+    - 'Tuesday: 11:00 AM – 8:30 PM'
+    - 'Wednesday: 11:00 AM – 8:30 PM'
+    - 'Thursday: 11:00 AM – 8:30 PM'
+    - 'Friday: 11:00 AM – 8:30 PM'
+    - 'Saturday: 11:00 AM – 8:30 PM'
+    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T00:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -178,13 +234,56 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (201) 325-1000
+price_level: PRICE_LEVEL_INEXPENSIVE
+price_range: $10 &ndash; $20
+rating: '3.6'
+rating_count: 144
+website: >-
+  https://order.online/store/niko-niko-sushi-secaucus-1070519/?hideModal=true&pickup=true
+description: >-
+  Discover Niko Niko Sushi in Secaucus, New Jersey$$$Niko Niko Sushi in
+  Secaucus, New Jersey, offers a welcoming spot for those seeking fresh Japanese
+  cuisine in a casual setting. Nestled at The Plaza at Harmon Meadow, this sushi
+  restaurant delights visitors with a variety of expertly prepared dishes,
+  including flavorful rolls and traditional favorites that cater to sushi
+  enthusiasts exploring local options. The venue stands out for its accessible
+  features, such as wheelchair-friendly parking and entrances, making it easy
+  for everyone to enjoy a relaxed meal. With convenient hours from 11 AM to 8:30
+  PM on most days, it's an ideal choice for anyone looking for top-rated sushi
+  places near me to satisfy cravings after a day of shopping or exploring.
+  Overall, the combination of affordable pricing and a cozy atmosphere ensures a
+  memorable dining experience for those hunting for quality Japanese places near
+  me.
+generative_summary: >-
+  Discover Niko Niko Sushi in Secaucus, New Jersey$$$Niko Niko Sushi in
+  Secaucus, New Jersey, offers a welcoming spot for those seeking fresh Japanese
+  cuisine in a casual setting. Nestled at The Plaza at Harmon Meadow, this sushi
+  restaurant delights visitors with a variety of expertly prepared dishes,
+  including flavorful rolls and traditional favorites that cater to sushi
+  enthusiasts exploring local options. The venue stands out for its accessible
+  features, such as wheelchair-friendly parking and entrances, making it easy
+  for everyone to enjoy a relaxed meal. With convenient hours from 11 AM to 8:30
+  PM on most days, it's an ideal choice for anyone looking for top-rated sushi
+  places near me to satisfy cravings after a day of shopping or exploring.
+  Overall, the combination of affordable pricing and a cozy atmosphere ensures a
+  memorable dining experience for those hunting for quality Japanese places near
+  me.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About Niko Niko Sushi$$$Folks generally enjoy their
+  visits to this spot, praising the fresh flavors of the sushi and the
+  straightforward vibe that makes it a go-to for casual meals. While the overall
+  experience earns solid nods for value and variety, some mention that service
+  can vary a bit depending on the time of day, keeping things real but still
+  approachable. Many appreciate how it handles groups well, with affordable
+  options that hit the spot for lunch or dinner without breaking the bank. Even
+  with a mix of feedback, the general buzz leans positive, highlighting tasty
+  dishes that keep people coming back for more in the area. If you're on the
+  hunt for reliable sushi restaurants near me, this place offers a balanced pick
+  that delivers honest satisfaction with room for the occasional tweak.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +309,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

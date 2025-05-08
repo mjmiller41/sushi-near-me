@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kabuki Sushi & Hibachi"
+title: Kabuki Sushi & Hibachi
 permalink: /texas/league-city/kabuki-sushi-hibachi.html
 stateAbbr: TX
 stateName: Texas
 cityName: League City
 seo:
-  name: "Kabuki Sushi & Hibachi"
-  type: Restaurant
+  type: restaurant
   links: https://www.kabukilc.com/
-description: "Kabuki Sushi & Hibachi serves delicious sushi in League City, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJQ-0tfHeDQIYR6d58HSd3HWM
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x864083777c2ded43:0x631d77271d7cdee9!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 10:00 PM'
     - 'Tuesday: 11:00 AM – 10:00 PM'
     - 'Wednesday: 11:00 AM – 10:00 PM'
@@ -178,54 +234,321 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:30 PM'
     - 'Saturday: 11:00 AM – 10:30 PM'
     - 'Sunday: 11:30 AM – 9:30 PM'
-  current:
-    - 'Monday: 11:00 AM – 10:00 PM'
-    - 'Tuesday: 11:00 AM – 10:00 PM'
-    - 'Wednesday: 11:00 AM – 10:00 PM'
-    - 'Thursday: 11:00 AM – 10:00 PM'
-    - 'Friday: 11:00 AM – 10:30 PM'
-    - 'Saturday: 11:00 AM – 10:30 PM'
-    - 'Sunday: 11:30 AM – 9:30 PM'
+  nextCloseTime: '2025-05-04T03:30:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 15
+          minute: 0
+        close:
+          day: 0
+          hour: 22
+          minute: 0
+      - open:
+          day: 1
+          hour: 15
+          minute: 0
+        close:
+          day: 1
+          hour: 22
+          minute: 0
+      - open:
+          day: 2
+          hour: 15
+          minute: 0
+        close:
+          day: 2
+          hour: 21
+          minute: 0
+      - open:
+          day: 3
+          hour: 15
+          minute: 0
+        close:
+          day: 3
+          hour: 22
+          minute: 0
+      - open:
+          day: 4
+          hour: 15
+          minute: 0
+        close:
+          day: 4
+          hour: 22
+          minute: 0
+      - open:
+          day: 5
+          hour: 15
+          minute: 0
+        close:
+          day: 5
+          hour: 22
+          minute: 0
+      - open:
+          day: 6
+          hour: 15
+          minute: 0
+        close:
+          day: 6
+          hour: 22
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 3:00 – 10:00 PM'
+      - 'Tuesday: 3:00 – 9:00 PM'
+      - 'Wednesday: 3:00 – 10:00 PM'
+      - 'Thursday: 3:00 – 10:00 PM'
+      - 'Friday: 3:00 – 10:00 PM'
+      - 'Saturday: 3:00 – 10:30 PM'
+      - 'Sunday: 3:00 – 10:00 PM'
+    secondaryHoursType: HAPPY_HOUR
+    nextCloseTime: '2025-05-04T03:30:00Z'
 phone: (281) 309-9676
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.5'
-rating_count: 0
+rating_count: 1201
 website: https://www.kabukilc.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Kabuki Sushi & Hibachi in League City, TX$$$Kabuki Sushi & Hibachi in
+  League City, TX, delivers a casual dining experience centered around fresh
+  sushi and sizzling hibachi dishes, making it a go-to spot for Japanese cuisine
+  enthusiasts. The restaurant features a relaxed atmosphere with affordable
+  happy-hour options that enhance the appeal for those seeking flavorful meals
+  without breaking the bank. Accessibility is a key highlight, with
+  wheelchair-friendly parking, entrances, and seating that ensure everyone can
+  enjoy the vibrant setting. Patrons can savor a variety of expertly prepared
+  rolls and grilled specialties, complemented by a welcoming environment perfect
+  for groups or families. This sushi destination stands out for its combination
+  of tasty offerings and convenient location, ideal for anyone exploring top
+  Japanese places nearby.
+generative_summary: >-
+  Discover Kabuki Sushi & Hibachi in League City, TX$$$Kabuki Sushi & Hibachi in
+  League City, TX, delivers a casual dining experience centered around fresh
+  sushi and sizzling hibachi dishes, making it a go-to spot for Japanese cuisine
+  enthusiasts. The restaurant features a relaxed atmosphere with affordable
+  happy-hour options that enhance the appeal for those seeking flavorful meals
+  without breaking the bank. Accessibility is a key highlight, with
+  wheelchair-friendly parking, entrances, and seating that ensure everyone can
+  enjoy the vibrant setting. Patrons can savor a variety of expertly prepared
+  rolls and grilled specialties, complemented by a welcoming environment perfect
+  for groups or families. This sushi destination stands out for its combination
+  of tasty offerings and convenient location, ideal for anyone exploring top
+  Japanese places nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJQ-0tfHeDQIYR6d58HSd3HWM/reviews/ChZDSUhNMG9nS0VJQ0FnTURveUtMMVdnEAE
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        Had a blast eating food that was amazing and came out fast. So fast we
+        ended up surprised and early to our planned movie. The drinks were
+        delicious and everything was perfect. Absolutely no complaints.  We went
+        during lunch, and everything was a decent price. Would go back 100
+        percent!
+      languageCode: en
+    originalText:
+      text: >-
+        Had a blast eating food that was amazing and came out fast. So fast we
+        ended up surprised and early to our planned movie. The drinks were
+        delicious and everything was perfect. Absolutely no complaints.  We went
+        during lunch, and everything was a decent price. Would go back 100
+        percent!
+      languageCode: en
+    authorAttribution:
+      displayName: Jennifer Herrera
+      uri: https://www.google.com/maps/contrib/102847819928850110352/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXseO4vDKtgOFCyRuc8deZ2B3mXFqeOR9AmI8VJMKVL3rpdt7Ts=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-21T14:34:07.480249Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURveUtMMVdnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURveUtMMVdnEAE!2m1!1s0x864083777c2ded43:0x631d77271d7cdee9
+  - name: >-
+      places/ChIJQ-0tfHeDQIYR6d58HSd3HWM/reviews/ChZDSUhNMG9nS0VJQ0FnSURfelptOVhREAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        Great diner at Kabuki tonight, starting with happy hour cocktails,
+        shrimp shumai and gyoza, followed up with a BOAT of great sushi/sashimi!
+        Kudos to Seth and Marcella and the whole Kabuki crew for making it a
+        great night!
+      languageCode: en
+    originalText:
+      text: >-
+        Great diner at Kabuki tonight, starting with happy hour cocktails,
+        shrimp shumai and gyoza, followed up with a BOAT of great sushi/sashimi!
+        Kudos to Seth and Marcella and the whole Kabuki crew for making it a
+        great night!
+      languageCode: en
+    authorAttribution:
+      displayName: Steve Saboe
+      uri: https://www.google.com/maps/contrib/113122415043987225163/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVQXlj7bGioNGuHOaXSkuzyqvuG_hC4lYsy9D0leTNRAbUINvL1=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-01-26T05:08:58.615251Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURfelptOVhREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURfelptOVhREAE!2m1!1s0x864083777c2ded43:0x631d77271d7cdee9
+  - name: >-
+      places/ChIJQ-0tfHeDQIYR6d58HSd3HWM/reviews/ChdDSUhNMG9nS0VJQ0FnTURRMkp5ZzlBRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        The happy hour prices are amazing!! And the food came out EXCELLENT. We
+        were quickly seated just before the lunch rush and our server was very
+        attentive as we ordered quite a lot. The portions given for the happy
+        hour menu were surprisingly good for the price, I will definitely
+        return! The only thing I would say is that the tables are packed in
+        tightly so if it’s busy you may feel cramped but for the first part of
+        the lunch it was almost empty and an amazing time.
+      languageCode: en
+    originalText:
+      text: >-
+        The happy hour prices are amazing!! And the food came out EXCELLENT. We
+        were quickly seated just before the lunch rush and our server was very
+        attentive as we ordered quite a lot. The portions given for the happy
+        hour menu were surprisingly good for the price, I will definitely
+        return! The only thing I would say is that the tables are packed in
+        tightly so if it’s busy you may feel cramped but for the first part of
+        the lunch it was almost empty and an amazing time.
+      languageCode: en
+    authorAttribution:
+      displayName: Ethan E
+      uri: https://www.google.com/maps/contrib/108856433474525729949/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjU7yMc_eerxi4HwjZFNbTYNh7NfG06-7NMRIJvTZP8EK65B18w=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-03-08T19:59:36.828052Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURRMkp5ZzlBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURRMkp5ZzlBRRAB!2m1!1s0x864083777c2ded43:0x631d77271d7cdee9
+  - name: >-
+      places/ChIJQ-0tfHeDQIYR6d58HSd3HWM/reviews/ChZDSUhNMG9nS0VJQ0FnTURvMnQzUExREAE
+    relativePublishTimeDescription: a week ago
+    rating: 4
+    text:
+      text: >-
+        4/23/25 (Dine In Review)
+
+
+        Rush hour Takoyaki was only $4 for 6 pieces, it was nice and flavorful
+        but the inside was only 1 Octopus piece and sauce, no extra ingredients
+        inside like traditional. Eel sauce sad a sweet and savory surprise
+        though.
+
+
+        Chicken Fried rice was large in portion and good.
+
+
+        I'll have to try the hibachi experience next time.
+      languageCode: en
+    originalText:
+      text: >-
+        4/23/25 (Dine In Review)
+
+
+        Rush hour Takoyaki was only $4 for 6 pieces, it was nice and flavorful
+        but the inside was only 1 Octopus piece and sauce, no extra ingredients
+        inside like traditional. Eel sauce sad a sweet and savory surprise
+        though.
+
+
+        Chicken Fried rice was large in portion and good.
+
+
+        I'll have to try the hibachi experience next time.
+      languageCode: en
+    authorAttribution:
+      displayName: Paradox
+      uri: https://www.google.com/maps/contrib/102688694370083135103/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVLZE7RPccAJOQIllZKnXEl6XKnNHw93oxKL5vacmqqM-fCwPPm=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-24T01:39:30.676958Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURvMnQzUExREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURvMnQzUExREAE!2m1!1s0x864083777c2ded43:0x631d77271d7cdee9
+  - name: >-
+      places/ChIJQ-0tfHeDQIYR6d58HSd3HWM/reviews/ChZDSUhNMG9nS0VJQ0FnTURvdHViaVZREAE
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        W head a great time here with our kiddos. We did have a small wait, but
+        overall the entertainment of the hibachi was great, and the food was
+        delicious.
+      languageCode: en
+    originalText:
+      text: >-
+        W head a great time here with our kiddos. We did have a small wait, but
+        overall the entertainment of the hibachi was great, and the food was
+        delicious.
+      languageCode: en
+    authorAttribution:
+      displayName: Allyson Crouch
+      uri: https://www.google.com/maps/contrib/115993070601387684821/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWIY5DAO4pET_FHJDT4PzD5JYxfoydwK65pZCQzirHHDrVRtAzr=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-24T16:33:59.740470Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURvdHViaVZREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURvdHViaVZREAE!2m1!1s0x864083777c2ded43:0x631d77271d7cdee9
+review_summary: >-
+  What Visitors Are Sharing$$$Folks rave about the delicious sushi and hibachi
+  selections here, often highlighting how the flavors really hit the spot during
+  meals. Many appreciate the great value from happy-hour deals, which make
+  appetizers and drinks feel like a smart choice for casual get-togethers.
+  Service tends to be friendly and efficient, with quick seating and attentive
+  staff helping to create a fun, enjoyable vibe, especially for families looking
+  for entertainment with their food. While some mention the space can feel a bit
+  cozy when busy, overall experiences lean positive with generous portions and
+  tasty options that keep people coming back. If you're on the hunt for reliable
+  sushi spots in the area, this place delivers a solid mix of excitement and
+  satisfaction that makes it worth trying out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  paidStreetParking: false
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+delivery: false
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: true
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
+serves_coffee: true
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

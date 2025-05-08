@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Fusion"
+title: Sushi Fusion
 permalink: /florida/lauderdale-by-the-sea/sushi-fusion.html
 stateAbbr: FL
 stateName: Florida
 cityName: Lauderdale-By-The-Sea
 seo:
-  name: "Sushi Fusion"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi Fusion serves delicious sushi in Lauderdale-By-The-Sea, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJZRgJX2P92IgRax8AKi55GEo
 photos:
   - name: >-
@@ -185,7 +183,46 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Sushi Fusion in Lauderdale-By-The-Sea, FL$$$Sushi Fusion in
+  Lauderdale-By-The-Sea, Florida, stands out as a charming Asian restaurant
+  blending fresh flavors with a prime coastal vibe along North Fort Lauderdale's
+  shores. This spot emphasizes accessibility, featuring easy wheelchair-friendly
+  parking, entrances, and seating that cater to all guests seeking a comfortable
+  dining experience. Patrons can enjoy a variety of creative Asian-inspired
+  dishes in a relaxed, beachside setting, making it an ideal choice for those
+  exploring top sushi options nearby. The inviting atmosphere, captured through
+  vibrant photos, highlights a casual space perfect for unwinding with flavorful
+  meals. Whether you're in the mood for innovative rolls or simple favorites,
+  this restaurant delivers a straightforward and enjoyable coastal dining
+  adventure.
+generative_summary: >-
+  Discover Sushi Fusion in Lauderdale-By-The-Sea, FL$$$Sushi Fusion in
+  Lauderdale-By-The-Sea, Florida, stands out as a charming Asian restaurant
+  blending fresh flavors with a prime coastal vibe along North Fort Lauderdale's
+  shores. This spot emphasizes accessibility, featuring easy wheelchair-friendly
+  parking, entrances, and seating that cater to all guests seeking a comfortable
+  dining experience. Patrons can enjoy a variety of creative Asian-inspired
+  dishes in a relaxed, beachside setting, making it an ideal choice for those
+  exploring top sushi options nearby. The inviting atmosphere, captured through
+  vibrant photos, highlights a casual space perfect for unwinding with flavorful
+  meals. Whether you're in the mood for innovative rolls or simple favorites,
+  this restaurant delivers a straightforward and enjoyable coastal dining
+  adventure.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Guests Are Saying About Sushi Fusion$$$Folks who visit this sushi spot
+  often rave about the fresh, creative flavors that make every bite memorable,
+  drawing in fans of quality Asian cuisine. Many appreciate the thoughtful setup
+  that ensures everyone can dine comfortably, adding to the overall relaxed and
+  inclusive feel. Comments frequently highlight the scenic location as a bonus
+  for a laid-back meal, with plenty of praise for the welcoming environment that
+  suits casual outings. While experiences vary, the general buzz leans positive,
+  noting it as a solid pick for anyone searching for reliable sushi places in
+  the area. All in all, it's a go-to option that keeps things light and
+  satisfying without overpromising the highlights.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +248,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

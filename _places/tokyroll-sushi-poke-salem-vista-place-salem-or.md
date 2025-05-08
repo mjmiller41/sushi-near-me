@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "TOKYROLL Sushi & Poké - Salem Vista Place"
+title: TOKYROLL Sushi & Poké - Salem Vista Place
 permalink: /oregon/salem/tokyroll-sushi-poke-salem-vista-place.html
 stateAbbr: OR
 stateName: Oregon
 cityName: Salem
 seo:
-  name: "TOKYROLL Sushi & Poké - Salem Vista Place"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "TOKYROLL Sushi & Poké - Salem Vista Place serves delicious sushi in Salem, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJDSsfa_wBwFQRvD2ACt2E9eY
 photos:
   - name: >-
@@ -185,7 +183,41 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover TOKYROLL Sushi in Salem, OR$$$TOKYROLL Sushi & Poké in Salem, OR,
+  provides a laid-back spot for savoring inventive sushi rolls and personalized
+  poke bowls that highlight fresh flavors and creative twists. This welcoming
+  sushi restaurant near you offers generous portions and a variety of options,
+  making it ideal for those exploring Japanese-inspired cuisine in a casual
+  setting. With features like wheelchair-accessible entrances and seating, it
+  ensures everyone can enjoy a comfortable meal without hassle. The vibrant
+  photos showcase an inviting ambiance that pairs perfectly with the menu's
+  focus on quality ingredients, appealing to anyone searching for top-rated
+  sushi places in the area.
+generative_summary: >-
+  Discover TOKYROLL Sushi in Salem, OR$$$TOKYROLL Sushi & Poké in Salem, OR,
+  provides a laid-back spot for savoring inventive sushi rolls and personalized
+  poke bowls that highlight fresh flavors and creative twists. This welcoming
+  sushi restaurant near you offers generous portions and a variety of options,
+  making it ideal for those exploring Japanese-inspired cuisine in a casual
+  setting. With features like wheelchair-accessible entrances and seating, it
+  ensures everyone can enjoy a comfortable meal without hassle. The vibrant
+  photos showcase an inviting ambiance that pairs perfectly with the menu's
+  focus on quality ingredients, appealing to anyone searching for top-rated
+  sushi places in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Folks checking out this sushi spot often highlight
+  the fresh, high-quality ingredients that make every bite feel satisfying and
+  authentic, turning it into a reliable choice for casual meals. Many appreciate
+  the creative rolls and customizable poke bowls that let diners tailor their
+  experience, adding a fun element to dining out. While some note it's great for
+  quick visits or groups, the overall vibe comes across as relaxed and
+  approachable, with portions that leave you feeling content. Generally, it's
+  praised as a solid option among sushi restaurants near me, offering good value
+  that encourages repeat trips for anyone craving Japanese flavors in Salem.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +243,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

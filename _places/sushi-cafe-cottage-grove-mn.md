@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Café"
+title: Sushi Café
 permalink: /minnesota/cottage-grove/sushi-cafe.html
 stateAbbr: MN
 stateName: Minnesota
 cityName: Cottage Grove
 seo:
-  name: "Sushi Café"
-  type: Restaurant
+  type: restaurant
   links: http://sushicafemn.com/
-description: "Sushi Café serves delicious sushi in Cottage Grove, Minnesota. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJmSPuNULQ94cRHSDzpXfnzKo
 photos:
   - name: >-
@@ -183,6 +181,29 @@ price_range: $10 &ndash; $20
 rating: '4.2'
 rating_count: 0
 website: http://sushicafemn.com/
+description: >-
+  Discover Sushi Café in Cottage Grove, MN$$$Nestled in Cottage Grove, MN, Sushi
+  Café stands out as a welcoming spot for enjoying authentic Japanese flavors,
+  offering a casual atmosphere perfect for casual diners seeking fresh sushi and
+  more. This spot delights with a variety of noodle dishes, creative sushi
+  rolls, and refreshing bubble teas, all served in a relaxed setting that
+  emphasizes accessibility features like wheelchair-friendly entrances. Patrons
+  appreciate the generous portions and thoughtful menu options that cater to
+  different tastes, making it a go-to choice for those exploring sushi
+  restaurants nearby. With its moderate pricing and inviting vibe, it's an ideal
+  destination for anyone craving Japanese-inspired meals without the formality.
+generative_summary: >-
+  Discover Sushi Café in Cottage Grove, MN$$$Nestled in Cottage Grove, MN, Sushi
+  Café stands out as a welcoming spot for enjoying authentic Japanese flavors,
+  offering a casual atmosphere perfect for casual diners seeking fresh sushi and
+  more. This spot delights with a variety of noodle dishes, creative sushi
+  rolls, and refreshing bubble teas, all served in a relaxed setting that
+  emphasizes accessibility features like wheelchair-friendly entrances. Patrons
+  appreciate the generous portions and thoughtful menu options that cater to
+  different tastes, making it a go-to choice for those exploring sushi
+  restaurants nearby. With its moderate pricing and inviting vibe, it's an ideal
+  destination for anyone craving Japanese-inspired meals without the formality.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJmSPuNULQ94cRHSDzpXfnzKo/reviews/ChdDSUhNMG9nS0VJQ0FnSUNYdS1XOTRBRRAB
@@ -432,6 +453,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURNLXN5VktREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURNLXN5VktREAE!2m1!1s0x87f7d04235ee2399:0xaacce777a5f3201d
+review_summary: >-
+  Visitor Feedback on Sushi Café$$$Folks chatting about Sushi Café often
+  highlight the fresh flavors and hearty portions that make meals feel
+  satisfying and worthwhile, with many enjoying the variety of sushi and bubble
+  teas on offer. While some note that certain items like wasabi could use a bit
+  more zest, the overall experience tends to shine through with friendly service
+  and a cozy environment that keeps people coming back. It's common to hear
+  praise for the clean space and accessible options, though a few mentions of
+  minor inconsistencies remind us that even great spots have room to refine
+  their preparations. All in all, if you're hunting for top-rated sushi places
+  near you, this one delivers a solid mix of hits that balance fun vibes with
+  honest, everyday appeal.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -464,7 +498,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

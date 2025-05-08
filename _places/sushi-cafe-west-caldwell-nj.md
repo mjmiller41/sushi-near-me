@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Cafe"
+title: Sushi Cafe
 permalink: /new-jersey/west-caldwell/sushi-cafe.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: West Caldwell
 seo:
-  name: "Sushi Cafe"
-  type: Restaurant
+  type: restaurant
   links: http://www.sushicafewestcaldwell.com/
-description: "Sushi Cafe serves delicious sushi in West Caldwell, New Jersey. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJl-dK37wAw4kRiTEAcjjp51o
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 0
 website: http://www.sushicafewestcaldwell.com/
+description: >-
+  Explore Sushi Cafe in West Caldwell, NJ$$$Sushi Cafe in West Caldwell, NJ,
+  stands out as a welcoming spot for fresh sushi and Japanese-inspired dining,
+  blending flavorful small plates with options for vegetarians and those seeking
+  lighter fare. This cozy restaurant enhances the experience with live music
+  that adds a lively vibe to meals, making it ideal for casual evenings or group
+  gatherings. Patrons appreciate the accessible features, like easy entry and
+  parking, along with a menu that caters to various tastes at moderate prices.
+  Whether you're searching for top-rated sushi places near me or simply craving
+  authentic Japanese dishes, Sushi Cafe delivers a balanced mix of quality
+  ingredients and a relaxed atmosphere that keeps diners coming back.
+generative_summary: >-
+  Explore Sushi Cafe in West Caldwell, NJ$$$Sushi Cafe in West Caldwell, NJ,
+  stands out as a welcoming spot for fresh sushi and Japanese-inspired dining,
+  blending flavorful small plates with options for vegetarians and those seeking
+  lighter fare. This cozy restaurant enhances the experience with live music
+  that adds a lively vibe to meals, making it ideal for casual evenings or group
+  gatherings. Patrons appreciate the accessible features, like easy entry and
+  parking, along with a menu that caters to various tastes at moderate prices.
+  Whether you're searching for top-rated sushi places near me or simply craving
+  authentic Japanese dishes, Sushi Cafe delivers a balanced mix of quality
+  ingredients and a relaxed atmosphere that keeps diners coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJl-dK37wAw4kRiTEAcjjp51o/reviews/ChZDSUhNMG9nS0VJQ0FnSURYXzRMZkVnEAE
@@ -338,6 +359,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR1a2UyN1pREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR1a2UyN1pREAE!2m1!1s0x89c300bcdf4ae797:0x5ae7e93872003189
+review_summary: >-
+  Visitor Feedback on Sushi Cafe$$$Visitors often rave about the fresh and
+  creative sushi rolls that highlight the spot's commitment to quality
+  ingredients and inventive flavors, making it a go-to for anyone exploring
+  sushi restaurants nearby. While most feedback praises the welcoming vibe,
+  generous portions, and perks like free appetizers with larger orders, some
+  mention occasional waits during busy times that could use improvement.
+  Overall, the consensus leans positive, with many enjoying the lively
+  atmosphere and variety that suits families and groups alike. If you're on the
+  hunt for the best sushi near me, this place generally delivers a satisfying
+  experience that's worth trying, though it's wise to plan ahead for smoother
+  service.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -370,7 +404,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

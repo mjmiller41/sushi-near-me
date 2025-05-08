@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Mr. An's Teppan Steak & Seafood"
+title: Mr. An's Teppan Steak & Seafood
 permalink: /arizona/tucson/mr-an-s-teppan-steak-seafood.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Tucson
 seo:
-  name: "Mr. An's Teppan Steak & Seafood"
-  type: Restaurant
+  type: restaurant
   links: https://www.mrantucson.com/
-description: "Mr. An's Teppan Steak & Seafood serves delicious sushi in Tucson, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJXwA9cGJz1oYR5az3BIG4EQE
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x86d67362703d005f:0x111b88104f7ace5!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 14
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 0
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 14
+        minute: 0
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 4:00 – 10:00 PM'
     - 'Tuesday: 4:00 – 10:00 PM'
     - 'Wednesday: 4:00 – 10:00 PM'
@@ -178,28 +234,118 @@ opening_hours:
     - 'Friday: 4:00 – 11:00 PM'
     - 'Saturday: 2:00 – 11:00 PM'
     - 'Sunday: 2:00 – 10:00 PM'
-  current:
-    - 'Monday: 4:00 – 10:00 PM'
-    - 'Tuesday: 4:00 – 10:00 PM'
-    - 'Wednesday: 4:00 – 10:00 PM'
-    - 'Thursday: 4:00 – 10:00 PM'
-    - 'Friday: 4:00 – 11:00 PM'
-    - 'Saturday: 2:00 – 11:00 PM'
-    - 'Sunday: 2:00 – 10:00 PM'
+  nextCloseTime: '2025-05-04T06:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: false
+    periods:
+      - open:
+          day: 0
+          hour: 16
+          minute: 0
+        close:
+          day: 0
+          hour: 19
+          minute: 0
+      - open:
+          day: 1
+          hour: 16
+          minute: 0
+        close:
+          day: 1
+          hour: 19
+          minute: 0
+      - open:
+          day: 2
+          hour: 16
+          minute: 0
+        close:
+          day: 2
+          hour: 19
+          minute: 0
+      - open:
+          day: 3
+          hour: 16
+          minute: 0
+        close:
+          day: 3
+          hour: 19
+          minute: 0
+      - open:
+          day: 4
+          hour: 16
+          minute: 0
+        close:
+          day: 4
+          hour: 19
+          minute: 0
+      - open:
+          day: 5
+          hour: 16
+          minute: 0
+        close:
+          day: 5
+          hour: 19
+          minute: 0
+      - open:
+          day: 6
+          hour: 16
+          minute: 0
+        close:
+          day: 6
+          hour: 19
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 4:00 – 7:00 PM'
+      - 'Tuesday: 4:00 – 7:00 PM'
+      - 'Wednesday: 4:00 – 7:00 PM'
+      - 'Thursday: 4:00 – 7:00 PM'
+      - 'Friday: 4:00 – 7:00 PM'
+      - 'Saturday: 4:00 – 7:00 PM'
+      - 'Sunday: 4:00 – 7:00 PM'
+    secondaryHoursType: HAPPY_HOUR
+    nextOpenTime: '2025-05-03T23:00:00Z'
 phone: (520) 797-0888
 price_level: PRICE_LEVEL_EXPENSIVE
 price_range: $30 &ndash; $50
 rating: '4.4'
-rating_count: 0
+rating_count: 2645
 website: https://www.mrantucson.com/
+description: >-
+  Discover Japanese Dining at Mr. An's in Tucson, AZ$$$Mr. An's Teppan Steak &
+  Seafood in Tucson, AZ, offers an engaging Japanese dining experience
+  highlighted by skilled teppanyaki chefs who prepare meals right at your table.
+  This spot stands out for its fresh sushi selections and a wide array of
+  drinks, making it a go-to choice for those seeking flavorful Japanese cuisine
+  in a lively setting. Accessibility features like wheelchair-friendly parking
+  and entrances add to the convenience, ensuring everyone can enjoy the
+  interactive cooking shows and diverse menu options. With evening hours that
+  extend into the night, it's perfect for casual dinners or special occasions,
+  blending entertainment with high-quality ingredients for a memorable meal.
+generative_summary: >-
+  Discover Japanese Dining at Mr. An's in Tucson, AZ$$$Mr. An's Teppan Steak &
+  Seafood in Tucson, AZ, offers an engaging Japanese dining experience
+  highlighted by skilled teppanyaki chefs who prepare meals right at your table.
+  This spot stands out for its fresh sushi selections and a wide array of
+  drinks, making it a go-to choice for those seeking flavorful Japanese cuisine
+  in a lively setting. Accessibility features like wheelchair-friendly parking
+  and entrances add to the convenience, ensuring everyone can enjoy the
+  interactive cooking shows and diverse menu options. With evening hours that
+  extend into the night, it's perfect for casual dinners or special occasions,
+  blending entertainment with high-quality ingredients for a memorable meal.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Customer Experiences$$$Folks rave about the energetic vibe and
+  tasty dishes at this popular spot, often highlighting the fun teppanyaki
+  performances and solid sushi options that keep diners coming back. Many
+  appreciate the friendly service and reasonable prices for the quality, making
+  it a solid pick for groups or date nights without breaking the bank. While
+  some mention occasional waits during peak times, the overall atmosphere and
+  fresh flavors generally leave a positive impression. With a strong rating
+  reflecting thousands of visits, it's clear that the combination of
+  entertainment and great food hits the mark for most, encouraging others to try
+  out nearby Japanese eateries for a similar treat.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +371,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Umami Japanese & Korean Cuisine"
+title: Umami Japanese & Korean Cuisine
 permalink: /michigan/new-hudson/umami-japanese-korean-cuisine.html
 stateAbbr: MI
 stateName: Michigan
 cityName: New Hudson
 seo:
-  name: "Umami Japanese & Korean Cuisine"
-  type: Restaurant
+  type: restaurant
   links: https://www.umamimichigan.com/
-description: "Umami Japanese & Korean Cuisine serves delicious sushi in New Hudson, Michigan. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJQdRJ7ZRXI4gR-IMPtZyPduM
 photos:
   - name: >-
@@ -184,6 +182,29 @@ price_range: $10 &ndash; $20
 rating: '4.8'
 rating_count: 0
 website: https://www.umamimichigan.com/
+description: >-
+  Discover Umami Japanese & Korean Cuisine in New Hudson, MI$$$Umami Japanese &
+  Korean Cuisine in New Hudson, MI, delivers a delightful mix of fresh sushi and
+  authentic Korean dishes in a cozy, inviting setting perfect for casual meals.
+  The menu highlights expertly prepared rolls and flavorful options that cater
+  to a variety of tastes, including vegetarian choices, making it a go-to spot
+  for those exploring sushi restaurants nearby. With convenient features like
+  wheelchair-accessible seating and ample parking, it's designed for easy visits
+  whether you're dining in or grabbing takeout. This family-friendly eatery
+  emphasizes fresh ingredients and moderate pricing, ideal for anyone seeking
+  top-rated Japanese places near me for a relaxed dining experience.
+generative_summary: >-
+  Discover Umami Japanese & Korean Cuisine in New Hudson, MI$$$Umami Japanese &
+  Korean Cuisine in New Hudson, MI, delivers a delightful mix of fresh sushi and
+  authentic Korean dishes in a cozy, inviting setting perfect for casual meals.
+  The menu highlights expertly prepared rolls and flavorful options that cater
+  to a variety of tastes, including vegetarian choices, making it a go-to spot
+  for those exploring sushi restaurants nearby. With convenient features like
+  wheelchair-accessible seating and ample parking, it's designed for easy visits
+  whether you're dining in or grabbing takeout. This family-friendly eatery
+  emphasizes fresh ingredients and moderate pricing, ideal for anyone seeking
+  top-rated Japanese places near me for a relaxed dining experience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJQdRJ7ZRXI4gR-IMPtZyPduM/reviews/ChZDSUhNMG9nS0VJQ0FnSUN2eHNtVlBBEAE
@@ -341,6 +362,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUMzb3RxWlNREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUMzb3RxWlNREAE!2m1!1s0x88235794ed49d441:0xe3768f9cb50f83f8
+review_summary: >-
+  What Visitors Are Saying About This Sushi Spot$$$People often rave about the
+  fresh and creative sushi rolls at this spot, noting how they stand out as some
+  of the best options around for a satisfying meal. Many highlight the tasty
+  Korean dishes like bulgogi, praising their authentic flavors and perfect
+  seasoning that add variety to the menu. The service gets consistent nods for
+  being friendly and efficient, creating a welcoming vibe that makes groups feel
+  right at home. Overall, diners appreciate the reasonable prices and cozy
+  atmosphere, making it a solid choice for anyone hunting for sushi close to me.
+  While experiences are generally positive, it's clear this place hits the mark
+  for those looking for reliable, flavorful eats without any major drawbacks.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -373,7 +406,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

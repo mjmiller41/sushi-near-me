@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "OKO"
+title: OKO
 permalink: /connecticut/westport/oko.html
 stateAbbr: CT
 stateName: Connecticut
 cityName: Westport
 seo:
-  name: "OKO"
-  type: Restaurant
-  links: null
-description: "OKO serves delicious sushi in Westport, Connecticut. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.okokitchen.com/
 place_id: ChIJiUYmXR4b6IkRUeCKCQERbKo
 photos:
   - name: >-
@@ -170,8 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89e81b1e5d264689:0xaa6c1101098ae051!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: Closed'
+    - 'Tuesday: 5:00 – 9:30 PM'
+    - 'Wednesday: 5:00 – 9:30 PM'
+    - 'Thursday: 5:00 – 9:30 PM'
+    - 'Friday: 5:00 – 10:30 PM'
+    - 'Saturday: 5:00 – 10:30 PM'
+    - 'Sunday: 5:00 – 9:30 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +234,49 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (203) 557-8404
+price_level: PRICE_LEVEL_MODERATE
+price_range: $50 &ndash; $100
+rating: '4.4'
+rating_count: 237
+website: http://www.okokitchen.com/
+description: >-
+  Discover OKO in Westport, CT$$$OKO in Westport, CT, is a standout Japanese
+  restaurant renowned for its quality selection of sushi and a variety of
+  inventive cocktails that elevate the dining experience. This spot emphasizes
+  fresh ingredients and creative flavors, making it a go-to choice for those
+  seeking authentic Japanese cuisine in a welcoming atmosphere. Accessibility
+  features like wheelchair-friendly parking and entrances ensure it's inclusive
+  for all visitors, adding to its appeal as a modern dining destination. With
+  evening hours that cater to relaxed dinners, OKO provides an ideal setting for
+  enjoying top-rated sushi options near you, blending tradition with
+  contemporary twists for a memorable meal.
+generative_summary: >-
+  Discover OKO in Westport, CT$$$OKO in Westport, CT, is a standout Japanese
+  restaurant renowned for its quality selection of sushi and a variety of
+  inventive cocktails that elevate the dining experience. This spot emphasizes
+  fresh ingredients and creative flavors, making it a go-to choice for those
+  seeking authentic Japanese cuisine in a welcoming atmosphere. Accessibility
+  features like wheelchair-friendly parking and entrances ensure it's inclusive
+  for all visitors, adding to its appeal as a modern dining destination. With
+  evening hours that cater to relaxed dinners, OKO provides an ideal setting for
+  enjoying top-rated sushi options near you, blending tradition with
+  contemporary twists for a memorable meal.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About OKO$$$Folks often rave about the fresh and
+  flavorful sushi at this Japanese spot, highlighting it as one of the best
+  options in the area for a satisfying meal. Many appreciate the creative
+  cocktails that pair perfectly with the dishes, adding a fun twist to the
+  overall vibe. Reviewers frequently note the attentive service and welcoming
+  environment, which make dining out feel effortless and enjoyable. While a few
+  mention minor waits during peak times, the high marks for taste and quality
+  keep the feedback overwhelmingly positive, making it a solid pick for anyone
+  searching for reliable sushi restaurants nearby. Overall, it's clear that
+  visitors keep coming back for the authentic flavors and great value,
+  solidifying its status as a favorite local haunt.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +302,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

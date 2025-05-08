@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Koto Sushi"
+title: Koto Sushi
 permalink: /new-york/brooklyn/koto-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: Brooklyn
 seo:
-  name: "Koto Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Koto Sushi serves delicious sushi in Brooklyn, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJvdUj2a5bwokRTQXpiCY-yeU
 photos:
   - name: >-
@@ -185,7 +183,44 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Koto Sushi in Brooklyn, NY$$$Nestled in the vibrant neighborhood of
+  Brooklyn, NY, Koto Sushi stands out as a welcoming spot for enjoying authentic
+  Japanese cuisine. This casual eatery delights visitors with a menu featuring
+  fresh sushi rolls, savory teriyaki dishes, and other flavorful options,
+  complemented by a selection of beer and wine for a relaxed dining experience.
+  The restaurant's accessible entrance and seating make it easy for everyone to
+  savor the high-quality ingredients and thoughtful presentations that highlight
+  its commitment to traditional flavors. Whether you're seeking sushi spots in
+  the area or exploring Japanese places near you, Koto Sushi offers a
+  straightforward yet enjoyable atmosphere that captures the essence of simple,
+  satisfying meals.
+generative_summary: >-
+  Discover Koto Sushi in Brooklyn, NY$$$Nestled in the vibrant neighborhood of
+  Brooklyn, NY, Koto Sushi stands out as a welcoming spot for enjoying authentic
+  Japanese cuisine. This casual eatery delights visitors with a menu featuring
+  fresh sushi rolls, savory teriyaki dishes, and other flavorful options,
+  complemented by a selection of beer and wine for a relaxed dining experience.
+  The restaurant's accessible entrance and seating make it easy for everyone to
+  savor the high-quality ingredients and thoughtful presentations that highlight
+  its commitment to traditional flavors. Whether you're seeking sushi spots in
+  the area or exploring Japanese places near you, Koto Sushi offers a
+  straightforward yet enjoyable atmosphere that captures the essence of simple,
+  satisfying meals.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Buzzing About$$$Folks around Brooklyn rave about the tasty
+  and fresh sushi at this spot, with many pointing out the popular boat platter
+  as a standout choice for sharing. The staff gets high marks for being super
+  friendly and attentive, making every visit feel welcoming and personalized
+  without any fuss. While some note that the vibe can be on the quieter side,
+  it's often seen as a plus for those wanting a laid-back meal. Overall, diners
+  appreciate the great bang for your buck, making it a solid pick for anyone
+  hunting for top-rated sushi nearby. If you're in the mood for reliable
+  Japanese fare that's easy on the wallet, this place delivers a consistently
+  positive experience that keeps people coming back.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +246,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

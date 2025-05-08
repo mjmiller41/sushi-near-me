@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Aya Japanese Steakhouse"
+title: Aya Japanese Steakhouse
 permalink: /pennsylvania/carlisle/aya-japanese-steakhouse.html
 stateAbbr: PA
 stateName: Pennsylvania
 cityName: Carlisle
 seo:
-  name: "Aya Japanese Steakhouse"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Traditional backdrop for hibachi grill tables & an extensive menu of Japanese dishes & sushi rolls. Aya Japanese Steakhouse serves delicious sushi in Carlisle, Pennsylvania. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJ5Vkyq8_hyIkRkM4tgINJGRQ
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $20 &ndash; $30
 rating: '4.1'
 rating_count: 0
 website: null
+description: >-
+  Discover Aya Japanese Steakhouse in Carlisle, PA$$$Nestled in Carlisle, PA,
+  Aya Japanese Steakhouse offers a welcoming spot for enjoying fresh sushi and
+  flavorful hibachi dishes, perfect for those seeking top-rated Japanese cuisine
+  nearby. The restaurant features a cozy atmosphere with options like
+  all-you-can-eat specials, making it an ideal choice for casual dining or group
+  outings. Guests can savor a variety of expertly prepared rolls and grilled
+  favorites, complemented by thoughtful accessibility features such as
+  wheelchair-friendly seating and parking. This spot stands out for its focus on
+  traditional Japanese flavors, providing a relaxed environment that appeals to
+  anyone exploring sushi restaurants in the area. Whether you're in the mood for
+  a quick bite or a full meal, Aya delivers an authentic experience with
+  generous portions and a menu that caters to diverse tastes.
+generative_summary: >-
+  Discover Aya Japanese Steakhouse in Carlisle, PA$$$Nestled in Carlisle, PA,
+  Aya Japanese Steakhouse offers a welcoming spot for enjoying fresh sushi and
+  flavorful hibachi dishes, perfect for those seeking top-rated Japanese cuisine
+  nearby. The restaurant features a cozy atmosphere with options like
+  all-you-can-eat specials, making it an ideal choice for casual dining or group
+  outings. Guests can savor a variety of expertly prepared rolls and grilled
+  favorites, complemented by thoughtful accessibility features such as
+  wheelchair-friendly seating and parking. This spot stands out for its focus on
+  traditional Japanese flavors, providing a relaxed environment that appeals to
+  anyone exploring sushi restaurants in the area. Whether you're in the mood for
+  a quick bite or a full meal, Aya delivers an authentic experience with
+  generous portions and a menu that caters to diverse tastes.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ5Vkyq8_hyIkRkM4tgINJGRQ/reviews/ChdDSUhNMG9nS0VJQ0FnSURfc2VYSmhnRRAB
@@ -354,6 +379,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNmdGZhcGJ3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNmdGZhcGJ3EAE!2m1!1s0x89c8e1cfab3259e5:0x14194983802dce90
+review_summary: >-
+  What Guests Are Sharing About Their Visits$$$Visitors often praise the tasty
+  sushi and hearty hibachi options at this spot, noting that the portions feel
+  satisfying and the prices hit a sweet spot for everyday enjoyment. While some
+  folks mention occasional hiccups with service speed, many still appreciate the
+  engaging atmosphere and solid food quality that make meals memorable. Overall,
+  the consensus leans toward the delicious variety of dishes like fresh rolls
+  and grilled meats, which keep people coming back for more casual fun. It's
+  clear that the restaurant shines in offering good value and a welcoming vibe,
+  even if a few experiences could use a bit more polish. If you're hunting for
+  reliable Japanese places nearby, this one generally delivers a positive vibe
+  worth checking out, with highlights on the flavorful eats balancing out any
+  minor letdowns.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -385,8 +424,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Traditional backdrop for hibachi grill tables & an extensive menu of Japanese
   dishes & sushi rolls.
 

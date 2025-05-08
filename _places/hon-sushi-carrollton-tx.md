@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Hon Sushi"
+title: Hon Sushi
 permalink: /texas/carrollton/hon-sushi.html
 stateAbbr: TX
 stateName: Texas
 cityName: Carrollton
 seo:
-  name: "Hon Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://honsushitexas.com/
-description: "Hon Sushi serves delicious sushi in Carrollton, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJrS__JEMmTIYRFarJvaNak0w
 photos:
   - name: >-
@@ -170,7 +168,97 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x864c264324ff2fad:0x4c935aa3bdc9aa15!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 2:30 PM, 5:00 – 9:00 PM'
     - 'Tuesday: 11:00 AM – 2:30 PM, 5:00 – 9:00 PM'
     - 'Wednesday: 11:00 AM – 2:30 PM, 5:00 – 9:00 PM'
@@ -178,54 +266,333 @@ opening_hours:
     - 'Friday: 11:00 AM – 2:30 PM, 5:00 – 10:00 PM'
     - 'Saturday: 11:30 AM – 10:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:00 AM – 2:30 PM, 5:00 – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 2:30 PM, 5:00 – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 2:30 PM, 5:00 – 9:00 PM'
-    - 'Thursday: 11:00 AM – 2:30 PM, 5:00 – 9:00 PM'
-    - 'Friday: 11:00 AM – 2:30 PM, 5:00 – 10:00 PM'
-    - 'Saturday: 11:30 AM – 10:00 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: false
+    periods:
+      - open:
+          day: 1
+          hour: 17
+          minute: 0
+        close:
+          day: 1
+          hour: 19
+          minute: 0
+      - open:
+          day: 2
+          hour: 17
+          minute: 0
+        close:
+          day: 2
+          hour: 19
+          minute: 0
+      - open:
+          day: 3
+          hour: 17
+          minute: 0
+        close:
+          day: 3
+          hour: 19
+          minute: 0
+      - open:
+          day: 4
+          hour: 17
+          minute: 0
+        close:
+          day: 4
+          hour: 19
+          minute: 0
+      - open:
+          day: 5
+          hour: 17
+          minute: 0
+        close:
+          day: 5
+          hour: 19
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 5:00 – 7:00 PM'
+      - 'Tuesday: 5:00 – 7:00 PM'
+      - 'Wednesday: 5:00 – 7:00 PM'
+      - 'Thursday: 5:00 – 7:00 PM'
+      - 'Friday: 5:00 – 7:00 PM'
+      - 'Saturday: Closed'
+      - 'Sunday: Closed'
+    secondaryHoursType: HAPPY_HOUR
+    nextOpenTime: '2025-05-05T22:00:00Z'
 phone: (469) 454-0058
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.7'
-rating_count: 0
+rating_count: 630
 website: https://honsushitexas.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Hon Sushi in Carrollton, TX$$$Hon Sushi in Carrollton, TX, stands out
+  as a welcoming sushi destination, blending fresh flavors and cozy vibes for
+  anyone craving authentic Japanese cuisine. This snug eatery offers a variety
+  of options like miso soup, creative sushi rolls, and bento boxes, making it a
+  go-to choice for sushi enthusiasts looking for quality meals nearby. With
+  convenient happy hour specials and a menu that includes teriyaki and Korean
+  barbecue influences, it's easy to find something satisfying for lunch or
+  dinner. The spot emphasizes accessibility with wheelchair-friendly features
+  and ample parking, ensuring a comfortable visit. Whether you're searching for
+  top-rated sushi places or Japanese dining options close to home, Hon Sushi
+  delivers a reliable and enjoyable experience that highlights its commitment to
+  fresh ingredients and value.
+generative_summary: >-
+  Discover Hon Sushi in Carrollton, TX$$$Hon Sushi in Carrollton, TX, stands out
+  as a welcoming sushi destination, blending fresh flavors and cozy vibes for
+  anyone craving authentic Japanese cuisine. This snug eatery offers a variety
+  of options like miso soup, creative sushi rolls, and bento boxes, making it a
+  go-to choice for sushi enthusiasts looking for quality meals nearby. With
+  convenient happy hour specials and a menu that includes teriyaki and Korean
+  barbecue influences, it's easy to find something satisfying for lunch or
+  dinner. The spot emphasizes accessibility with wheelchair-friendly features
+  and ample parking, ensuring a comfortable visit. Whether you're searching for
+  top-rated sushi places or Japanese dining options close to home, Hon Sushi
+  delivers a reliable and enjoyable experience that highlights its commitment to
+  fresh ingredients and value.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJrS__JEMmTIYRFarJvaNak0w/reviews/ChZDSUhNMG9nS0VJQ0FnSUNYMWFhUlZBEAE
+    relativePublishTimeDescription: 6 months ago
+    rating: 5
+    text:
+      text: >-
+        We went during happy hour for dinner. Service was great, quick and
+        frequent. Sapporo on draft was a good price as was wine. The squid leg
+        tempura was a little tough to bite through but was tast6. We had two
+        non-rice rolls: I Love You and a cucumber roll, both were great.
+      languageCode: en
+    originalText:
+      text: >-
+        We went during happy hour for dinner. Service was great, quick and
+        frequent. Sapporo on draft was a good price as was wine. The squid leg
+        tempura was a little tough to bite through but was tast6. We had two
+        non-rice rolls: I Love You and a cucumber roll, both were great.
+      languageCode: en
+    authorAttribution:
+      displayName: Jesse Harvey
+      uri: https://www.google.com/maps/contrib/107200997844810325682/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWLU_VcFDbKznVWh_yxONgImJl0hqPVcGa1srIGtqx9vCk1kBpnQA=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-10-19T00:44:48.148425Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNYMWFhUlZBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNYMWFhUlZBEAE!2m1!1s0x864c264324ff2fad:0x4c935aa3bdc9aa15
+  - name: >-
+      places/ChIJrS__JEMmTIYRFarJvaNak0w/reviews/ChZDSUhNMG9nS0VJQ0FnTURJbko2MkJBEAE
+    relativePublishTimeDescription: 3 weeks ago
+    rating: 5
+    text:
+      text: >-
+        One of the better Sushi places in the area beats out most places because
+        of the freshness of the sushi and the decent price. Customer service is
+        always excellent and they serve your food quickly without any issues.
+        I've been going to this place for years and still find it to be my
+        favorite sushi place. I know the owners of several other sushi places
+        and are friends with them but friendship doesn't equal good food. If you
+        want a quiet sushi experience with amazing food come here during the
+        weekdays it gets a little crowded on the weekends.
+      languageCode: en
+    originalText:
+      text: >-
+        One of the better Sushi places in the area beats out most places because
+        of the freshness of the sushi and the decent price. Customer service is
+        always excellent and they serve your food quickly without any issues.
+        I've been going to this place for years and still find it to be my
+        favorite sushi place. I know the owners of several other sushi places
+        and are friends with them but friendship doesn't equal good food. If you
+        want a quiet sushi experience with amazing food come here during the
+        weekdays it gets a little crowded on the weekends.
+      languageCode: en
+    authorAttribution:
+      displayName: D Shin
+      uri: https://www.google.com/maps/contrib/105890127754250688362/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocL2LL6FrHWbokttU1kNifTZVzRunFUyQu9KhFbWWHzLcF6fhUY=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-08T03:06:40.389784Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURJbko2MkJBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJbko2MkJBEAE!2m1!1s0x864c264324ff2fad:0x4c935aa3bdc9aa15
+  - name: >-
+      places/ChIJrS__JEMmTIYRFarJvaNak0w/reviews/ChdDSUhNMG9nS0VJQ0FnSUNIMUlMSzBnRRAB
+    relativePublishTimeDescription: 8 months ago
+    rating: 5
+    text:
+      text: >-
+        We loved all the sushi rolls we got, especially the sexy roll! It was
+        not very busy for a Saturday noon, and so the service was on point. They
+        provided us with plenty of recommendations which was helpful since it
+        was our first time. I thought that the fish was fresh and the rolls were
+        reasonably priced. Will be coming back.
+      languageCode: en
+    originalText:
+      text: >-
+        We loved all the sushi rolls we got, especially the sexy roll! It was
+        not very busy for a Saturday noon, and so the service was on point. They
+        provided us with plenty of recommendations which was helpful since it
+        was our first time. I thought that the fish was fresh and the rolls were
+        reasonably priced. Will be coming back.
+      languageCode: en
+    authorAttribution:
+      displayName: Rachel Jiang
+      uri: https://www.google.com/maps/contrib/108070629616014674352/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWOJ3ngYWuD5RPnmd2qd6aOIIdLJD3VvK_BcVA75O9jpPc5a6893A=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-09-01T15:51:12.348120Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNIMUlMSzBnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNIMUlMSzBnRRAB!2m1!1s0x864c264324ff2fad:0x4c935aa3bdc9aa15
+  - name: >-
+      places/ChIJrS__JEMmTIYRFarJvaNak0w/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3dmFHcnh3RRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Full disclosure. We did not come for sushi, but for the wide variety of
+        tempura items.
+
+        We had lunch and three of us all ordered appetizers. Fantastic! The
+        tempura batter was perfectly crispy and none of the inside items were
+        overcooked.
+
+        The calamari (always a test) was spot on, it was very tender WITHOUT
+        going to rubber.
+
+
+        Service was lovely. Bathrooms spotless.
+
+        Hon Sushi is a new favorite go-to.
+      languageCode: en
+    originalText:
+      text: >-
+        Full disclosure. We did not come for sushi, but for the wide variety of
+        tempura items.
+
+        We had lunch and three of us all ordered appetizers. Fantastic! The
+        tempura batter was perfectly crispy and none of the inside items were
+        overcooked.
+
+        The calamari (always a test) was spot on, it was very tender WITHOUT
+        going to rubber.
+
+
+        Service was lovely. Bathrooms spotless.
+
+        Hon Sushi is a new favorite go-to.
+      languageCode: en
+    authorAttribution:
+      displayName: Dawn L.
+      uri: https://www.google.com/maps/contrib/104512973667971147598/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIfB-1o1Hz0daLEgpU6NWAP-cI0gB3csRdQI4pAAqmyWgExKg=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-03-27T19:32:42.275816Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUR3dmFHcnh3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUR3dmFHcnh3RRAB!2m1!1s0x864c264324ff2fad:0x4c935aa3bdc9aa15
+  - name: >-
+      places/ChIJrS__JEMmTIYRFarJvaNak0w/reviews/ChZDSUhNMG9nS0VJQ0FnSUR2djlXbkxREAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        I had an exceptional dining experience at Hon Sushi !
+
+        The owner’s hospitality was truly remarkable – warm, attentive, and
+        welcoming from the moment we walked in. It’s clear they take great pride
+        in making customers feel at home.
+
+
+        The food was outstanding, with every dish showcasing authentic Japanese
+        flavors and top-quality ingredients. The attention to detail in
+        presentation and taste was impressive, making each bite a delight.
+
+
+        I highly recommend this restaurant to anyone seeking an unforgettable
+        meal with excellent service. I’ll definitely be returning soon!
+      languageCode: en
+    originalText:
+      text: >-
+        I had an exceptional dining experience at Hon Sushi !
+
+        The owner’s hospitality was truly remarkable – warm, attentive, and
+        welcoming from the moment we walked in. It’s clear they take great pride
+        in making customers feel at home.
+
+
+        The food was outstanding, with every dish showcasing authentic Japanese
+        flavors and top-quality ingredients. The attention to detail in
+        presentation and taste was impressive, making each bite a delight.
+
+
+        I highly recommend this restaurant to anyone seeking an unforgettable
+        meal with excellent service. I’ll definitely be returning soon!
+      languageCode: en
+    authorAttribution:
+      displayName: Jimmy Cho
+      uri: https://www.google.com/maps/contrib/105430676769009277009/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjX895WVlJ1AUL3pH2l-Ao74Sg6utCfhz1jVhde2pRQBfsKNEow5QQ=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-12-25T19:19:30.126524Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR2djlXbkxREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR2djlXbkxREAE!2m1!1s0x864c264324ff2fad:0x4c935aa3bdc9aa15
+review_summary: >-
+  What Visitors Are Saying About Hon Sushi$$$Folks rave about the fresh fish in
+  the sushi rolls and tasty appetizers like tempura, making this spot a solid
+  pick for anyone hunting for reliable sushi nearby. Many appreciate the quick
+  and friendly service that keeps things running smoothly, even during busier
+  times, while the reasonable prices and happy hour deals add to the appeal for
+  casual outings. Reviewers often note the cozy atmosphere as perfect for
+  weekday escapes or weekend gatherings, with portions that feel just right and
+  flavors that hit the mark without breaking the bank. Overall, it's clear that
+  the combination of quality ingredients and attentive staff creates a welcoming
+  vibe that encourages repeat visits. If you're on the hunt for sushi
+  restaurants that balance taste, service, and affordability, this place seems
+  to deliver consistently positive vibes based on shared experiences.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
 menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
 serves_brunch: null
 serves_cocktails: null
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Simple Japanese restaurant with a sushi counter plus teriyaki & Korean
+  barbecue food on the menu.
 
 ---

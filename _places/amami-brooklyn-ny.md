@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Amami"
+title: Amami
 permalink: /new-york/brooklyn/amami.html
 stateAbbr: NY
 stateName: New York
 cityName: Brooklyn
 seo:
-  name: "Amami"
-  type: Restaurant
+  type: restaurant
   links: http://www.amamibk.com/
-description: "Cozy Japanese eatery with rustic-chic decor offering a contemporary menu of sushi, yakitori & ramen. Amami serves delicious sushi in Brooklyn, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJl-2pikRZwokRNxfAFUMHmjc
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: null
 rating: '4.5'
 rating_count: 0
 website: http://www.amamibk.com/
+description: >-
+  Discover Amami in Brooklyn, NY$$$Amami in Brooklyn, NY, stands out as a
+  charming Japanese restaurant blending rustic-chic decor with a contemporary
+  menu that highlights fresh sushi and other authentic flavors. This spot offers
+  a relaxed setting where patrons can enjoy Japanese cuisine like expertly
+  crafted sushi rolls, sashimi, and paired drinks including cocktails and sake,
+  making it an ideal choice for those searching for quality sushi restaurants in
+  the area. The eatery features accessible seating and outdoor options,
+  enhancing the overall dining experience in a vibrant neighborhood. With its
+  focus on fresh ingredients and a welcoming atmosphere, Amami provides a
+  perfect escape for anyone craving Japanese dishes close to home. Whether
+  you're exploring top-rated sushi options or seeking a casual meal, this
+  location delivers a memorable blend of taste and ambiance.
+generative_summary: >-
+  Discover Amami in Brooklyn, NY$$$Amami in Brooklyn, NY, stands out as a
+  charming Japanese restaurant blending rustic-chic decor with a contemporary
+  menu that highlights fresh sushi and other authentic flavors. This spot offers
+  a relaxed setting where patrons can enjoy Japanese cuisine like expertly
+  crafted sushi rolls, sashimi, and paired drinks including cocktails and sake,
+  making it an ideal choice for those searching for quality sushi restaurants in
+  the area. The eatery features accessible seating and outdoor options,
+  enhancing the overall dining experience in a vibrant neighborhood. With its
+  focus on fresh ingredients and a welcoming atmosphere, Amami provides a
+  perfect escape for anyone craving Japanese dishes close to home. Whether
+  you're exploring top-rated sushi options or seeking a casual meal, this
+  location delivers a memorable blend of taste and ambiance.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJl-2pikRZwokRNxfAFUMHmjc/reviews/ChZDSUhNMG9nS0VJQ0FnTURJZ3EzamR3EAE
@@ -394,6 +419,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNaOTl5eDVBRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNaOTl5eDVBRRAB!2m1!1s0x89c259448aa9ed97:0x379a074315c01737
+review_summary: >-
+  What Guests Are Saying About the Sushi$$$Visitors to this Brooklyn gem often
+  rave about the fresh and flavorful sushi that hits the spot every time, with
+  many highlighting the creative rolls and appetizers as standout features.
+  Folks appreciate the friendly service and quick pace, which makes for a
+  pleasant meal whether you're dining solo or with friends, though some note
+  occasional lapses in attention that don't detract from the overall fun. The
+  restaurant's inviting vibe and great location near a local park add to the
+  appeal, making it a go-to for anyone hunting for the best sushi nearby after a
+  stroll. Reviewers frequently mention enjoying the variety of dishes and
+  drinks, which keeps things exciting and satisfying for groups or casual
+  outings. All in all, it's a solid pick for delicious Japanese fare that leaves
+  diners eager to return for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   valetParking: false
 payment_options:
@@ -424,8 +463,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Cozy Japanese eatery with rustic-chic decor offering a contemporary menu of
   sushi, yakitori & ramen.
 

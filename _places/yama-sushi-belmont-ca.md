@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yama Sushi"
+title: Yama Sushi
 permalink: /california/belmont/yama-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Belmont
 seo:
-  name: "Yama Sushi"
-  type: Restaurant
-  links: null
-description: "Yama Sushi serves delicious sushi in Belmont, California. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.yamasushica.com/?utm_source=gmb&utm_medium=website
 place_id: ChIJkQaPAVCfj4AR2mBkCuweoKk
 photos:
   - name: >-
@@ -170,22 +168,218 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x808f9f50018f0691:0xa9a01eec0a6460da!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 14
+        minute: 0
+    - open:
+        day: 0
+        hour: 16
+        minute: 30
+      close:
+        day: 0
+        hour: 20
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 20
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 20
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 20
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 20
+        minute: 30
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 14
+        minute: 0
+    - open:
+        day: 6
+        hour: 16
+        minute: 30
+      close:
+        day: 6
+        hour: 20
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: Closed'
+    - 'Tuesday: 4:30 – 8:00 PM'
+    - 'Wednesday: 11:00 AM – 2:00 PM, 4:30 – 8:00 PM'
+    - 'Thursday: 11:00 AM – 2:00 PM, 4:30 – 8:00 PM'
+    - 'Friday: 11:00 AM – 2:00 PM, 4:30 – 8:30 PM'
+    - 'Saturday: 12:00 – 2:00 PM, 4:30 – 8:30 PM'
+    - 'Sunday: 12:00 – 2:00 PM, 4:30 – 8:30 PM'
+  nextOpenTime: '2025-05-03T23:30:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 10
+          minute: 30
+        close:
+          day: 0
+          hour: 21
+          minute: 0
+      - open:
+          day: 1
+          hour: 16
+          minute: 0
+        close:
+          day: 1
+          hour: 21
+          minute: 0
+      - open:
+          day: 2
+          hour: 16
+          minute: 0
+        close:
+          day: 2
+          hour: 21
+          minute: 0
+      - open:
+          day: 3
+          hour: 16
+          minute: 0
+        close:
+          day: 3
+          hour: 21
+          minute: 0
+      - open:
+          day: 4
+          hour: 16
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 0
+      - open:
+          day: 5
+          hour: 16
+          minute: 0
+        close:
+          day: 5
+          hour: 21
+          minute: 0
+      - open:
+          day: 6
+          hour: 10
+          minute: 30
+        close:
+          day: 6
+          hour: 21
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 4:00 – 9:00 PM'
+      - 'Tuesday: 4:00 – 9:00 PM'
+      - 'Wednesday: 4:00 – 9:00 PM'
+      - 'Thursday: 4:00 – 9:00 PM'
+      - 'Friday: 4:00 – 9:00 PM'
+      - 'Saturday: 10:30 AM – 9:00 PM'
+      - 'Sunday: 10:30 AM – 9:00 PM'
+    secondaryHoursType: DELIVERY
+    nextCloseTime: '2025-05-04T04:00:00Z'
+phone: (650) 508-8600
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '3.9'
+rating_count: 161
+website: https://www.yamasushica.com/?utm_source=gmb&utm_medium=website
+description: >-
+  Discover Yama Sushi in Belmont, CA$$$Yama Sushi in Belmont, California, stands
+  out as a welcoming spot for enjoying fresh and authentic Japanese cuisine,
+  particularly its array of expertly crafted sushi rolls that highlight quality
+  ingredients. This sushi restaurant near you boasts accessible features like
+  wheelchair-friendly parking and entrances, making it easy for everyone to
+  savor a meal in a comfortable setting. With moderate pricing around $20 to
+  $30, it's an ideal choice for those seeking top-rated sushi options without
+  breaking the bank, complemented by a variety of operating hours that
+  accommodate both lunch and dinner crowds. The inviting atmosphere, suggested
+  by vibrant photos of the space, adds to the appeal for anyone exploring
+  Japanese places close to home, ensuring a relaxing dining experience.
+generative_summary: >-
+  Discover Yama Sushi in Belmont, CA$$$Yama Sushi in Belmont, California, stands
+  out as a welcoming spot for enjoying fresh and authentic Japanese cuisine,
+  particularly its array of expertly crafted sushi rolls that highlight quality
+  ingredients. This sushi restaurant near you boasts accessible features like
+  wheelchair-friendly parking and entrances, making it easy for everyone to
+  savor a meal in a comfortable setting. With moderate pricing around $20 to
+  $30, it's an ideal choice for those seeking top-rated sushi options without
+  breaking the bank, complemented by a variety of operating hours that
+  accommodate both lunch and dinner crowds. The inviting atmosphere, suggested
+  by vibrant photos of the space, adds to the appeal for anyone exploring
+  Japanese places close to home, ensuring a relaxing dining experience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback on Yama Sushi$$$Folks who visit Yama Sushi often highlight
+  the fresh flavors and well-prepared rolls as standout features, making it a
+  go-to for satisfying sushi cravings in the area. Many appreciate the friendly
+  service and cozy vibe that make every meal feel welcoming and enjoyable, with
+  plenty of positive nods to the overall value for a casual night out. While
+  some mention portions could vary, the general consensus leans toward it being
+  a solid pick for quality Japanese dishes, earning praise for its reliable
+  taste and atmosphere. Overall, it's frequently recommended as one of the
+  better sushi spots nearby, encouraging diners to try it for a pleasant and
+  flavorful experience that keeps people coming back.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +405,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

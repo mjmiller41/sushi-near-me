@@ -5,4 +5,5 @@ permalink: /california/manhattan-beach/
 stateAbbr: CA
 stateName: California
 cityName: Manhattan Beach
+
 ---

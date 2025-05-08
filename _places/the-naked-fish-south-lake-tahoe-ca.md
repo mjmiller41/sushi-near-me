@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "The Naked Fish"
+title: The Naked Fish
 permalink: /california/south-lake-tahoe/the-naked-fish.html
 stateAbbr: CA
 stateName: California
 cityName: South Lake Tahoe
 seo:
-  name: "The Naked Fish"
-  type: Restaurant
+  type: restaurant
   links: http://thenakedfish.com/
-description: "Hawaiian-influenced Japanese spot with next-door lounge known for its sushi & creative fish dishes. The Naked Fish serves delicious sushi in South Lake Tahoe, California. Try fresh Japanese dishes for a great dining experience. Available for, lunch, and dinner."
 place_id: ChIJd10vDnSQmYARZUHCBveMLm8
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $30 &ndash; $50
 rating: '4.4'
 rating_count: 0
 website: http://thenakedfish.com/
+description: >-
+  Discover The Naked Fish in South Lake Tahoe, CA$$$Nestled in South Lake Tahoe,
+  CA, The Naked Fish stands out as a welcoming Japanese-inspired eatery that
+  blends Hawaiian influences with fresh, creative seafood dishes. This spot
+  delights visitors with its extensive selection of sushi rolls and inventive
+  fish options, complemented by a relaxed atmosphere perfect for enjoying beer,
+  sake, or cocktails after a day of exploring the area. Accessibility features
+  like wheelchair-friendly parking and entrances make it easy for everyone to
+  savor the experience, while the option for reservations adds convenience for
+  groups. Whether you're seeking top sushi restaurants near you or a cozy place
+  to unwind, this location offers a memorable dining vibe that highlights
+  quality ingredients and thoughtful presentations.
+generative_summary: >-
+  Discover The Naked Fish in South Lake Tahoe, CA$$$Nestled in South Lake Tahoe,
+  CA, The Naked Fish stands out as a welcoming Japanese-inspired eatery that
+  blends Hawaiian influences with fresh, creative seafood dishes. This spot
+  delights visitors with its extensive selection of sushi rolls and inventive
+  fish options, complemented by a relaxed atmosphere perfect for enjoying beer,
+  sake, or cocktails after a day of exploring the area. Accessibility features
+  like wheelchair-friendly parking and entrances make it easy for everyone to
+  savor the experience, while the option for reservations adds convenience for
+  groups. Whether you're seeking top sushi restaurants near you or a cozy place
+  to unwind, this location offers a memorable dining vibe that highlights
+  quality ingredients and thoughtful presentations.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJd10vDnSQmYARZUHCBveMLm8/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3ejUzWkpBEAE
@@ -382,6 +405,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNKaklTc2NBEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNKaklTc2NBEAE!2m1!1s0x809990740e2f5d77:0x6f2e8cf706c24165
+review_summary: >-
+  What Guests Are Saying About the Sushi$$$Folks often rave about the fresh and
+  flavorful sushi rolls at this spot, noting how the creative combinations make
+  every bite a highlight of their meal. Many appreciate the attentive service
+  and welcoming vibe that keeps the experience enjoyable, even if wait times can
+  occasionally stretch a bit longer than expected. While some mention that
+  certain dishes feel on the pricier side, the overall value shines through with
+  innovative specials and solid appetizers that leave diners satisfied. It's
+  clear that the menu caters well to a variety of tastes, including options that
+  feel fresh and well-prepared, making it a go-to for anyone hunting for great
+  sushi places nearby. All in all, the positive feedback underscores a fun,
+  reliable choice for sushi lovers looking to enjoy a casual night out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -412,8 +448,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: false
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Hawaiian-influenced Japanese spot with next-door lounge known for its sushi &
   creative fish dishes.
 

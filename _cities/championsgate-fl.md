@@ -5,4 +5,5 @@ permalink: /florida/championsgate/
 stateAbbr: FL
 stateName: Florida
 cityName: Championsgate
+
 ---

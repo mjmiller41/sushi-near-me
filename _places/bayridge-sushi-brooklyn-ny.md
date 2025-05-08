@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Bayridge Sushi"
+title: Bayridge Sushi
 permalink: /new-york/brooklyn/bayridge-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: Brooklyn
 seo:
-  name: "Bayridge Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.bayridgesushibk.com/
-description: "Informal Japanese eatery offering sushi & bento boxes, plus lunch specials & party trays. Bayridge Sushi serves delicious sushi in Brooklyn, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ29s96VZFwokRdHaE-Atft-E
 photos:
   - name: >-
@@ -184,6 +182,31 @@ price_range: null
 rating: '4.4'
 rating_count: 0
 website: http://www.bayridgesushibk.com/
+description: >-
+  Experience Bayridge Sushi in Brooklyn, NY$$$Bayridge Sushi in Brooklyn, NY,
+  stands out as a welcoming spot for those seeking fresh sushi and Japanese
+  flavors in a casual setting. This sushi restaurant offers an array of bento
+  boxes, lunch specials, and party trays that make it a go-to choice for
+  everyday meals or gatherings. Diners can enjoy moderately priced options with
+  highlights like flavorful rolls and accessible seating, ensuring a comfortable
+  visit for various needs. The spot's emphasis on quality ingredients and
+  convenient services adds to its appeal for anyone exploring sushi restaurants
+  nearby. Whether you're in the mood for a quick bite or a relaxed dinner, this
+  location delivers a satisfying experience that captures the essence of
+  Japanese cuisine.
+generative_summary: >-
+  Experience Bayridge Sushi in Brooklyn, NY$$$Bayridge Sushi in Brooklyn, NY,
+  stands out as a welcoming spot for those seeking fresh sushi and Japanese
+  flavors in a casual setting. This sushi restaurant offers an array of bento
+  boxes, lunch specials, and party trays that make it a go-to choice for
+  everyday meals or gatherings. Diners can enjoy moderately priced options with
+  highlights like flavorful rolls and accessible seating, ensuring a comfortable
+  visit for various needs. The spot's emphasis on quality ingredients and
+  convenient services adds to its appeal for anyone exploring sushi restaurants
+  nearby. Whether you're in the mood for a quick bite or a relaxed dinner, this
+  location delivers a satisfying experience that captures the essence of
+  Japanese cuisine.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ29s96VZFwokRdHaE-Atft-E/reviews/ChdDSUhNMG9nS0VJQ0FnSURfZ3IzNHpnRRAB
@@ -337,6 +360,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJdU9xNG9nRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJdU9xNG9nRRAB!2m1!1s0x89c24556e93ddbdb:0xe1b75f0bf8847674
+review_summary: >-
+  Insights from Recent Feedback on This Sushi Spot$$$Folks chatting about
+  Bayridge Sushi often highlight the fresh and tasty rolls that hit the spot
+  after a long day, making it a solid pick for sushi lovers in the area. While
+  most enjoy the reasonable prices and flavorful options like bento boxes, a few
+  mentions point to occasional slip-ups with delivery details that could use
+  some fine-tuning. Overall, the vibe is upbeat with praise for the variety and
+  accessibility, helping it stand out among local Japanese places. It's clear
+  many appreciate the reliable lunch specials and overall value, even if not
+  every visit is flawless. If you're hunting for top-rated sushi near you, this
+  spot generally delivers a enjoyable meal with room for consistent service
+  improvements.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   valetParking: false
 payment_options:
@@ -367,8 +403,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Informal Japanese eatery offering sushi & bento boxes, plus lunch specials &
   party trays.
 

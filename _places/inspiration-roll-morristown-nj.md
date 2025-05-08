@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Inspiration Roll"
+title: Inspiration Roll
 permalink: /new-jersey/morristown/inspiration-roll.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Morristown
 seo:
-  name: "Inspiration Roll"
-  type: Restaurant
+  type: restaurant
   links: https://www.inspirationroll.com/
-description: "Japanese eatery specializing in house & build-your-own 'sushi burritos,' ramen bowls & fruit drinks. Inspiration Roll serves delicious sushi in Morristown, New Jersey. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJNzGBk7ymw4kR3xTs-JLezwU
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $10 &ndash; $20
 rating: '4.2'
 rating_count: 0
 website: https://www.inspirationroll.com/
+description: >-
+  Explore Inspiration Roll in Morristown, NJ$$$Inspiration Roll in Morristown,
+  NJ, stands out as a welcoming Japanese eatery specializing in creative sushi
+  options and hearty ramen bowls that appeal to anyone searching for fresh,
+  customizable meals nearby. This spot offers innovative dishes like
+  build-your-own sushi burritos and flavorful fruit drinks, making it a go-to
+  for those exploring top-rated Japanese places in the area. With a focus on
+  fresh ingredients and a cozy atmosphere, it's designed for easy dining
+  experiences, including accessible entrances and seating that enhance comfort
+  for all visitors. The moderate pricing adds to its appeal, providing great
+  value for authentic flavors that capture the essence of Japanese cuisine.
+  Whether you're looking for sushi restaurants near you or a quick, satisfying
+  meal, this location delivers a blend of tradition and fun in every bite.
+generative_summary: >-
+  Explore Inspiration Roll in Morristown, NJ$$$Inspiration Roll in Morristown,
+  NJ, stands out as a welcoming Japanese eatery specializing in creative sushi
+  options and hearty ramen bowls that appeal to anyone searching for fresh,
+  customizable meals nearby. This spot offers innovative dishes like
+  build-your-own sushi burritos and flavorful fruit drinks, making it a go-to
+  for those exploring top-rated Japanese places in the area. With a focus on
+  fresh ingredients and a cozy atmosphere, it's designed for easy dining
+  experiences, including accessible entrances and seating that enhance comfort
+  for all visitors. The moderate pricing adds to its appeal, providing great
+  value for authentic flavors that capture the essence of Japanese cuisine.
+  Whether you're looking for sushi restaurants near you or a quick, satisfying
+  meal, this location delivers a blend of tradition and fun in every bite.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJNzGBk7ymw4kR3xTs-JLezwU/reviews/ChZDSUhNMG9nS0VJQ0FnTUNBX0plbUJBEAE
@@ -388,6 +413,21 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURBN182Wkl3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURBN182Wkl3EAE!2m1!1s0x89c3a6bc93813137:0x5cfde92f8ec14df
+review_summary: >-
+  Customer Feedback Highlights$$$Visitors to this Japanese spot often rave about
+  the fresh and delicious poke bowls, noting how they stand out as a highlight
+  among the menu options for their vibrant flavors and quality ingredients. Many
+  appreciate the friendly service and efficient staff, which make ordering a
+  breeze and add to the overall enjoyable experience, especially for those
+  grabbing a quick bite. While the ramen and customizable sushi burritos receive
+  plenty of praise for their taste and variety, a few mentions point to
+  inconsistencies in certain dishes, like the tonkotsu, suggesting it's best to
+  explore based on personal preferences. Overall, folks find it a solid choice
+  for groups or families seeking affordable, tasty eats, with the majority
+  leaving satisfied and eager to return. If you're hunting for top-rated sushi
+  near you, this place generally delivers a positive vibe with room for the
+  occasional tweak.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidStreetParking: true
   valetParking: false
@@ -419,8 +459,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Japanese eatery specializing in house & build-your-own "sushi burritos," ramen
   bowls & fruit drinks.
 

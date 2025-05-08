@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "RA Sushi Bar Restaurant"
+title: RA Sushi Bar Restaurant
 permalink: /nevada/las-vegas/ra-sushi-bar-restaurant.html
 stateAbbr: NV
 stateName: Nevada
 cityName: Las Vegas
 seo:
-  name: "RA Sushi Bar Restaurant"
-  type: Restaurant
+  type: restaurant
   links: https://rasushi.com/
-description: "RA Sushi Bar Restaurant serves delicious sushi in Las Vegas, Nevada. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJfVxGHxTEyIAR64bEFf7buxw
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c8c4141f465c7d:0x1cbbdbfe15c486eb!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 0
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 0
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 0
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 0
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 0
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 1
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 1
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 12:00 AM'
     - 'Tuesday: 11:00 AM – 12:00 AM'
     - 'Wednesday: 11:00 AM – 12:00 AM'
@@ -178,54 +234,502 @@ opening_hours:
     - 'Friday: 11:00 AM – 1:00 AM'
     - 'Saturday: 11:00 AM – 1:00 AM'
     - 'Sunday: 11:00 AM – 12:00 AM'
-  current:
-    - 'Monday: 11:00 AM – 12:00 AM'
-    - 'Tuesday: 11:00 AM – 12:00 AM'
-    - 'Wednesday: 11:00 AM – 12:00 AM'
-    - 'Thursday: 11:00 AM – 12:00 AM'
-    - 'Friday: 11:00 AM – 1:00 AM'
-    - 'Saturday: 11:00 AM – 1:00 AM'
-    - 'Sunday: 11:00 AM – 12:00 AM'
+  nextCloseTime: '2025-05-04T08:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 15
+          minute: 0
+        close:
+          day: 1
+          hour: 0
+          minute: 0
+      - open:
+          day: 1
+          hour: 11
+          minute: 0
+        close:
+          day: 2
+          hour: 0
+          minute: 0
+      - open:
+          day: 2
+          hour: 15
+          minute: 0
+        close:
+          day: 2
+          hour: 18
+          minute: 0
+      - open:
+          day: 2
+          hour: 21
+          minute: 0
+        close:
+          day: 3
+          hour: 0
+          minute: 0
+      - open:
+          day: 3
+          hour: 15
+          minute: 0
+        close:
+          day: 3
+          hour: 18
+          minute: 0
+      - open:
+          day: 3
+          hour: 21
+          minute: 0
+        close:
+          day: 4
+          hour: 0
+          minute: 0
+      - open:
+          day: 4
+          hour: 15
+          minute: 0
+        close:
+          day: 4
+          hour: 18
+          minute: 0
+      - open:
+          day: 4
+          hour: 21
+          minute: 0
+        close:
+          day: 5
+          hour: 0
+          minute: 0
+      - open:
+          day: 5
+          hour: 15
+          minute: 0
+        close:
+          day: 5
+          hour: 18
+          minute: 0
+      - open:
+          day: 5
+          hour: 21
+          minute: 0
+        close:
+          day: 6
+          hour: 1
+          minute: 0
+      - open:
+          day: 6
+          hour: 15
+          minute: 0
+        close:
+          day: 6
+          hour: 18
+          minute: 0
+      - open:
+          day: 6
+          hour: 21
+          minute: 0
+        close:
+          day: 0
+          hour: 1
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 11:00 AM – 12:00 AM'
+      - 'Tuesday: 3:00 – 6:00 PM, 9:00 PM – 12:00 AM'
+      - 'Wednesday: 3:00 – 6:00 PM, 9:00 PM – 12:00 AM'
+      - 'Thursday: 3:00 – 6:00 PM, 9:00 PM – 12:00 AM'
+      - 'Friday: 3:00 – 6:00 PM, 9:00 PM – 1:00 AM'
+      - 'Saturday: 3:00 – 6:00 PM, 9:00 PM – 1:00 AM'
+      - 'Sunday: 3:00 PM – 12:00 AM'
+    secondaryHoursType: HAPPY_HOUR
+    nextCloseTime: '2025-05-04T01:00:00Z'
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 10
+          minute: 30
+        close:
+          day: 1
+          hour: 0
+          minute: 0
+      - open:
+          day: 1
+          hour: 10
+          minute: 30
+        close:
+          day: 2
+          hour: 0
+          minute: 0
+      - open:
+          day: 2
+          hour: 10
+          minute: 30
+        close:
+          day: 3
+          hour: 0
+          minute: 0
+      - open:
+          day: 3
+          hour: 10
+          minute: 30
+        close:
+          day: 4
+          hour: 0
+          minute: 0
+      - open:
+          day: 4
+          hour: 10
+          minute: 30
+        close:
+          day: 5
+          hour: 0
+          minute: 0
+      - open:
+          day: 5
+          hour: 10
+          minute: 30
+        close:
+          day: 6
+          hour: 1
+          minute: 0
+      - open:
+          day: 6
+          hour: 10
+          minute: 30
+        close:
+          day: 0
+          hour: 1
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 10:30 AM – 12:00 AM'
+      - 'Tuesday: 10:30 AM – 12:00 AM'
+      - 'Wednesday: 10:30 AM – 12:00 AM'
+      - 'Thursday: 10:30 AM – 12:00 AM'
+      - 'Friday: 10:30 AM – 1:00 AM'
+      - 'Saturday: 10:30 AM – 1:00 AM'
+      - 'Sunday: 10:30 AM – 12:00 AM'
+    secondaryHoursType: DELIVERY
+    nextCloseTime: '2025-05-04T08:00:00Z'
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 10
+          minute: 30
+        close:
+          day: 1
+          hour: 0
+          minute: 0
+      - open:
+          day: 1
+          hour: 10
+          minute: 30
+        close:
+          day: 2
+          hour: 0
+          minute: 0
+      - open:
+          day: 2
+          hour: 10
+          minute: 30
+        close:
+          day: 3
+          hour: 0
+          minute: 0
+      - open:
+          day: 3
+          hour: 10
+          minute: 30
+        close:
+          day: 4
+          hour: 0
+          minute: 0
+      - open:
+          day: 4
+          hour: 10
+          minute: 30
+        close:
+          day: 5
+          hour: 0
+          minute: 0
+      - open:
+          day: 5
+          hour: 10
+          minute: 30
+        close:
+          day: 6
+          hour: 1
+          minute: 0
+      - open:
+          day: 6
+          hour: 10
+          minute: 30
+        close:
+          day: 0
+          hour: 1
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 10:30 AM – 12:00 AM'
+      - 'Tuesday: 10:30 AM – 12:00 AM'
+      - 'Wednesday: 10:30 AM – 12:00 AM'
+      - 'Thursday: 10:30 AM – 12:00 AM'
+      - 'Friday: 10:30 AM – 1:00 AM'
+      - 'Saturday: 10:30 AM – 1:00 AM'
+      - 'Sunday: 10:30 AM – 12:00 AM'
+    secondaryHoursType: TAKEOUT
+    nextCloseTime: '2025-05-04T08:00:00Z'
 phone: (702) 696-0008
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.3'
-rating_count: 0
+rating_count: 2234
 website: https://rasushi.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover RA Sushi Bar Restaurant in Las Vegas, NV$$$RA Sushi Bar Restaurant in
+  Las Vegas, NV, stands out as a vibrant sushi spot nestled in the bustling
+  Fashion Show Mall, offering creative Japanese-inspired dishes and refreshing
+  cocktails. This lively venue delights visitors with its inventive rolls and
+  flavorful fare, complemented by daily happy hour deals that make it a go-to
+  choice for those seeking top-rated sushi experiences. Accessibility features
+  like wheelchair-friendly parking and seating ensure a welcoming atmosphere for
+  all guests, while the modern decor adds to the energetic vibe perfect for
+  casual outings or group gatherings. Whether you're exploring sushi restaurants
+  near you or looking for a spot to unwind after shopping, this location
+  combines fresh ingredients with a fun, contemporary twist to elevate your
+  dining adventure.
+generative_summary: >-
+  Discover RA Sushi Bar Restaurant in Las Vegas, NV$$$RA Sushi Bar Restaurant in
+  Las Vegas, NV, stands out as a vibrant sushi spot nestled in the bustling
+  Fashion Show Mall, offering creative Japanese-inspired dishes and refreshing
+  cocktails. This lively venue delights visitors with its inventive rolls and
+  flavorful fare, complemented by daily happy hour deals that make it a go-to
+  choice for those seeking top-rated sushi experiences. Accessibility features
+  like wheelchair-friendly parking and seating ensure a welcoming atmosphere for
+  all guests, while the modern decor adds to the energetic vibe perfect for
+  casual outings or group gatherings. Whether you're exploring sushi restaurants
+  near you or looking for a spot to unwind after shopping, this location
+  combines fresh ingredients with a fun, contemporary twist to elevate your
+  dining adventure.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJfVxGHxTEyIAR64bEFf7buxw/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3MFBtTGl3RRAB
+    relativePublishTimeDescription: a month ago
+    rating: 4
+    text:
+      text: >-
+        We had a couple rolls here that were incredible (like maybe some of the
+        best I've ever had). Some of the other rolls though were a little
+        disappointing. I think it just matters what you get here!
+
+
+        The Ra'ckin Roll and the Viva Las Vegas Roll were AMAZING!! Definitely
+        something I'd come back for!
+      languageCode: en
+    originalText:
+      text: >-
+        We had a couple rolls here that were incredible (like maybe some of the
+        best I've ever had). Some of the other rolls though were a little
+        disappointing. I think it just matters what you get here!
+
+
+        The Ra'ckin Roll and the Viva Las Vegas Roll were AMAZING!! Definitely
+        something I'd come back for!
+      languageCode: en
+    authorAttribution:
+      displayName: Emily Ellsworth
+      uri: https://www.google.com/maps/contrib/101001349578317487567/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWTK7y8UD3WTeFRwDvTkCTvxRpG24HIhV1Tujn_0gxXyXQCPWM1bw=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-03-16T03:20:56.984884Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUN3MFBtTGl3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUN3MFBtTGl3RRAB!2m1!1s0x80c8c4141f465c7d:0x1cbbdbfe15c486eb
+  - name: >-
+      places/ChIJfVxGHxTEyIAR64bEFf7buxw/reviews/ChdDSUhNMG9nS0VJQ0FnSUQzb05uRzN3RRAB
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        It was a lovely sushi spot that's affordable (compared to other sushi
+        places that are high end). Wish could remember the name of the sushi
+        that we got but all were wonderfully made! The fried rice was ok,
+        compared to the neighbor. The waitress was attentive even though we sat
+        outside. She made sure we were taken care of and no issue. Great
+        experience, amazing decor, surprised at how not busy it was considering
+        it was a Saturday evening. Highly recommend if you want great sushi
+        that's more on the affordable side and not bloat yourself with an AYCE.
+      languageCode: en
+    originalText:
+      text: >-
+        It was a lovely sushi spot that's affordable (compared to other sushi
+        places that are high end). Wish could remember the name of the sushi
+        that we got but all were wonderfully made! The fried rice was ok,
+        compared to the neighbor. The waitress was attentive even though we sat
+        outside. She made sure we were taken care of and no issue. Great
+        experience, amazing decor, surprised at how not busy it was considering
+        it was a Saturday evening. Highly recommend if you want great sushi
+        that's more on the affordable side and not bloat yourself with an AYCE.
+      languageCode: en
+    authorAttribution:
+      displayName: Claudia Ruslan
+      uri: https://www.google.com/maps/contrib/109492695440455678683/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXbhLiEcXegm6gc6qCU3ui6C9O4vcEtb5dG1wkf9YynyTfssB8Z=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-11-11T04:41:46.902307Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQzb05uRzN3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQzb05uRzN3RRAB!2m1!1s0x80c8c4141f465c7d:0x1cbbdbfe15c486eb
+  - name: >-
+      places/ChIJfVxGHxTEyIAR64bEFf7buxw/reviews/ChZDSUhNMG9nS0VJQ0FnSUR2LVluMWVBEAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        Enjoyed the hospitality and service from manager & staff! They were
+        consistent with checking on us (party of 7) and other customers and were
+        interactive! The balance of flavors & textures from the 7 different
+        dishes I ate satisfied my palette! The fried ice cream was the best
+        hands down!
+
+        I highly recommend this location to residents & tourists to check out!
+        Thank you Johnny (manager), Erik (Server), & staff for an unforgettable
+        experience!
+      languageCode: en
+    originalText:
+      text: >-
+        Enjoyed the hospitality and service from manager & staff! They were
+        consistent with checking on us (party of 7) and other customers and were
+        interactive! The balance of flavors & textures from the 7 different
+        dishes I ate satisfied my palette! The fried ice cream was the best
+        hands down!
+
+        I highly recommend this location to residents & tourists to check out!
+        Thank you Johnny (manager), Erik (Server), & staff for an unforgettable
+        experience!
+      languageCode: en
+    authorAttribution:
+      displayName: Ellis Satchell
+      uri: https://www.google.com/maps/contrib/108172661882946679470/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWr6V0IibdOdLIlA68cbXtnsUFqo_gI_yIU1svK8MsJ4Wz957xx=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-12-22T03:58:45.231806Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR2LVluMWVBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR2LVluMWVBEAE!2m1!1s0x80c8c4141f465c7d:0x1cbbdbfe15c486eb
+  - name: >-
+      places/ChIJfVxGHxTEyIAR64bEFf7buxw/reviews/ChZDSUhNMG9nS0VJQ0FnSUNuX0txbFd3EAE
+    relativePublishTimeDescription: 7 months ago
+    rating: 5
+    text:
+      text: >-
+        This spot on Vegas Boulevard is incredible! The atmosphere was
+        fantastic, and the service was top-notch. The manager personally checked
+        in on us, and our waiter was friendly, sharing some great insights about
+        Vegas. To top it off, they gave us a special gift—a printed photo they
+        took at our table! We enjoyed Happy Hour sushi and a beer for under $30.
+        Highly recommend!
+      languageCode: en
+    originalText:
+      text: >-
+        This spot on Vegas Boulevard is incredible! The atmosphere was
+        fantastic, and the service was top-notch. The manager personally checked
+        in on us, and our waiter was friendly, sharing some great insights about
+        Vegas. To top it off, they gave us a special gift—a printed photo they
+        took at our table! We enjoyed Happy Hour sushi and a beer for under $30.
+        Highly recommend!
+      languageCode: en
+    authorAttribution:
+      displayName: Veronica Botha
+      uri: https://www.google.com/maps/contrib/112856537236885508713/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjU0R-MVKF3W3oCJYJSoAkEYQV90IZ7zpUG7fi1cf4IwrKlrw9uFew=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-09-24T01:22:30.304454Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNuX0txbFd3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNuX0txbFd3EAE!2m1!1s0x80c8c4141f465c7d:0x1cbbdbfe15c486eb
+  - name: >-
+      places/ChIJfVxGHxTEyIAR64bEFf7buxw/reviews/ChdDSUhNMG9nS0VJQ0FnSUNYbGFTZXNRRRAB
+    relativePublishTimeDescription: 6 months ago
+    rating: 5
+    text:
+      text: >-
+        Had a fantastic experience at Ra! Amazing food, excellent service and
+        the decor is so fun and fresh. Our server Kalani was an absolute gem and
+        gave us superb recommendations for our meal and drinks. Highly recommend
+        you check them out when you're in Vegas.
+      languageCode: en
+    originalText:
+      text: >-
+        Had a fantastic experience at Ra! Amazing food, excellent service and
+        the decor is so fun and fresh. Our server Kalani was an absolute gem and
+        gave us superb recommendations for our meal and drinks. Highly recommend
+        you check them out when you're in Vegas.
+      languageCode: en
+    authorAttribution:
+      displayName: Symone Jennings
+      uri: https://www.google.com/maps/contrib/116592511928205646040/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXUznzyZMtRXVFAV3otHjHPSExAo3ibwL8w5dhn8NcbLq5kMenldg=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-10-18T21:44:18.846348Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNYbGFTZXNRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNYbGFTZXNRRRAB!2m1!1s0x80c8c4141f465c7d:0x1cbbdbfe15c486eb
+review_summary: >-
+  What Customers Are Sharing About This Sushi Spot$$$Folks rave about the
+  delicious specialty rolls and tasty sides at this sushi restaurant, often
+  highlighting how the creative flavors make for a satisfying meal without
+  breaking the bank during happy hour. Many appreciate the friendly service and
+  lively atmosphere, noting that staff go out of their way to ensure everyone
+  feels taken care of, which adds to the overall fun vibe. While some mention
+  that prices can feel a bit steep compared to other options, the value from
+  generous portions and unique tastes keeps drawing people back for more.
+  Overall, it's a solid pick for anyone hunting for great sushi close to home,
+  with the energetic setting making it ideal for casual meetups or solo visits.
+  If you're on the hunt for the best sushi near you, this place delivers a
+  reliably enjoyable experience that balances quality and excitement.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeGarageParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: false
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
+curbside_pickup: false
+delivery: true
+dine_in: true
 good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: true
+serves_coffee: true
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Snazzy Japanese fusion chain known for its inventive sushi, cocktails &
+  happy-hour deals at the bar.
 
 ---

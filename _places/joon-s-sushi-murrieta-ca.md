@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "JooN's Sushi"
+title: JooN's Sushi
 permalink: /california/murrieta/joon-s-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Murrieta
 seo:
-  name: "JooN's Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://joonssushi.com/
-description: "Warm, relaxed Japanese eatery serving all-you-can-eat sushi, plus noodles, teriyaki & more. JooN's Sushi serves delicious sushi in Murrieta, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJx0xO_Hd-24ARy8v6Qdyy1Hg
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $30 &ndash; $50
 rating: '4.4'
 rating_count: 0
 website: http://joonssushi.com/
+description: >-
+  Discover JooN's Sushi in Murrieta, CA$$$Nestled in Murrieta, CA, JooN's Sushi
+  stands out as a welcoming spot for sushi enthusiasts seeking a relaxed dining
+  experience with an all-you-can-eat menu that highlights fresh Japanese
+  flavors. This sushi restaurant offers a variety of options including teriyaki,
+  noodles, and expertly prepared rolls, all served in a warm atmosphere perfect
+  for casual meals or gatherings. Accessibility features like
+  wheelchair-friendly parking and seating make it an inclusive choice for
+  everyone looking for top sushi spots in the area. Whether you're exploring
+  sushi places near you or craving authentic Japanese cuisine, the moderate
+  pricing and diverse selections ensure a satisfying visit that combines quality
+  with convenience.
+generative_summary: >-
+  Discover JooN's Sushi in Murrieta, CA$$$Nestled in Murrieta, CA, JooN's Sushi
+  stands out as a welcoming spot for sushi enthusiasts seeking a relaxed dining
+  experience with an all-you-can-eat menu that highlights fresh Japanese
+  flavors. This sushi restaurant offers a variety of options including teriyaki,
+  noodles, and expertly prepared rolls, all served in a warm atmosphere perfect
+  for casual meals or gatherings. Accessibility features like
+  wheelchair-friendly parking and seating make it an inclusive choice for
+  everyone looking for top sushi spots in the area. Whether you're exploring
+  sushi places near you or craving authentic Japanese cuisine, the moderate
+  pricing and diverse selections ensure a satisfying visit that combines quality
+  with convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJx0xO_Hd-24ARy8v6Qdyy1Hg/reviews/ChdDSUhNMG9nS0VJQ0FnTURnLTdTSzVnRRAB
@@ -360,6 +383,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNJdTVPQmV3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNJdTVPQmV3EAE!2m1!1s0x80db7e77fc4e4cc7:0x78d4b2dc41facbcb
+review_summary: >-
+  What Customers Are Saying About the Experience$$$Visitors often praise the
+  friendly service and speedy delivery at this popular sushi spot, making it a
+  go-to for those hunting for reliable sushi restaurants nearby. Many highlight
+  the great value of the all-you-can-eat deals, with comments focusing on the
+  tasty rolls and fresh ingredients that keep diners coming back for more. While
+  a few mentions note occasional inconsistencies with food freshness, the
+  overall vibe remains positive, emphasizing the attentive staff and enjoyable
+  atmosphere that enhance every meal. If you're on the hunt for best sushi near
+  me, this place delivers a solid experience with flavorful options like spicy
+  tuna rolls that satisfy cravings without breaking the bank. In summary, it's a
+  welcoming choice for anyone seeking quality Japanese dining in a casual
+  setting, backed by mostly enthusiastic feedback.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -391,8 +428,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Warm, relaxed Japanese eatery serving all-you-can-eat sushi, plus noodles,
   teriyaki & more.
 

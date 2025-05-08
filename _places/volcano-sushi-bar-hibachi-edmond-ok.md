@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Volcano Sushi Bar & Hibachi"
+title: Volcano Sushi Bar & Hibachi
 permalink: /oklahoma/edmond/volcano-sushi-bar-hibachi.html
 stateAbbr: OK
 stateName: Oklahoma
 cityName: Edmond
 seo:
-  name: "Volcano Sushi Bar & Hibachi"
-  type: Restaurant
-  links: null
-description: "Volcano Sushi Bar & Hibachi serves delicious sushi in Edmond, Oklahoma. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://volcanook.com/
 place_id: ChIJW0d3OHwfsocR2zi8TwzKG-A
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x87b21f7c3877475b:0xe01bca0c4fbc38db!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 9:00 PM'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 10:30 PM'
+    - 'Saturday: 11:00 AM – 10:30 PM'
+    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T03:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,52 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
+phone: (405) 906-4177
 price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+price_range: $10 &ndash; $20
+rating: '4.6'
+rating_count: 70
+website: https://volcanook.com/
+description: >-
+  Explore Volcano Sushi Bar & Hibachi in Edmond, Oklahoma$$$Volcano Sushi Bar &
+  Hibachi in Edmond, Oklahoma, stands out as a welcoming spot for fresh
+  Japanese-inspired cuisine, featuring a variety of creative sushi rolls and
+  flavorful hibachi options that highlight quality ingredients and thoughtful
+  preparation. The restaurant boasts a cozy atmosphere perfect for casual meals,
+  with accessibility features like wheelchair-friendly entrances and seating
+  that make it easy for everyone to enjoy. Diners can savor reasonably priced
+  dishes that balance taste and value, making it an ideal choice for those
+  seeking authentic flavors in a relaxed setting. Whether you're in the mood for
+  inventive rolls or sizzling hibachi classics, this sushi restaurant near
+  Edmond delivers a satisfying experience that keeps locals coming back.
+generative_summary: >-
+  Explore Volcano Sushi Bar & Hibachi in Edmond, Oklahoma$$$Volcano Sushi Bar &
+  Hibachi in Edmond, Oklahoma, stands out as a welcoming spot for fresh
+  Japanese-inspired cuisine, featuring a variety of creative sushi rolls and
+  flavorful hibachi options that highlight quality ingredients and thoughtful
+  preparation. The restaurant boasts a cozy atmosphere perfect for casual meals,
+  with accessibility features like wheelchair-friendly entrances and seating
+  that make it easy for everyone to enjoy. Diners can savor reasonably priced
+  dishes that balance taste and value, making it an ideal choice for those
+  seeking authentic flavors in a relaxed setting. Whether you're in the mood for
+  inventive rolls or sizzling hibachi classics, this sushi restaurant near
+  Edmond delivers a satisfying experience that keeps locals coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Recent Feedback on This Local Sushi Favorite$$$Folks often rave
+  about the tasty sushi rolls and hibachi dishes at this spot, noting how the
+  creative flavors and fresh ingredients make every bite memorable without
+  breaking the bank. Many appreciate the friendly service that adds a warm touch
+  to the overall vibe, turning a simple meal into a pleasant outing. It's
+  frequently mentioned as a great pick for casual get-togethers, with highlights
+  on the charming ambiance that enhances the dining experience. While opinions
+  are generally positive, some suggest it's best for those looking for
+  straightforward, enjoyable Japanese fare rather than anything overly fancy.
+  Overall, this sushi restaurant continues to earn high marks for its reliable
+  quality and welcoming feel, making it a solid option for anyone searching for
+  top-rated eats nearby.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +313,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

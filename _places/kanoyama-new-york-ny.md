@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kanoyama"
+title: Kanoyama
 permalink: /new-york/new-york/kanoyama.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "Kanoyama"
-  type: Restaurant
+  type: restaurant
   links: http://www.kanoyama.com/
-description: "Basic space serving broad variety of fish (plus vegetarian options), with adjacent sake/oyster bar. Kanoyama serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, and dinner."
 place_id: ChIJQzryKJxZwokRYH9Qt5wh3ZY
 photos:
   - name: >-
@@ -183,6 +181,29 @@ price_range: $100 &ndash; & up
 rating: '4.3'
 rating_count: 0
 website: http://www.kanoyama.com/
+description: >-
+  Discover Kanoyama in New York$$$Kanoyama in New York, NY, stands out as a
+  welcoming Japanese restaurant specializing in omakase and a la carte sushi
+  selections, drawing in those seeking fresh seafood experiences. The spot
+  features a cozy atmosphere with a bright vibe that enhances the enjoyment of
+  its broad variety of fish and thoughtful vegetarian options, making it ideal
+  for intimate meals or casual visits. Diners can appreciate the expert
+  preparation of dishes that highlight premium ingredients, creating a memorable
+  dining adventure. For anyone exploring top sushi restaurants nearby, this
+  location offers a balance of authenticity and accessibility that elevates the
+  overall experience.
+generative_summary: >-
+  Discover Kanoyama in New York$$$Kanoyama in New York, NY, stands out as a
+  welcoming Japanese restaurant specializing in omakase and a la carte sushi
+  selections, drawing in those seeking fresh seafood experiences. The spot
+  features a cozy atmosphere with a bright vibe that enhances the enjoyment of
+  its broad variety of fish and thoughtful vegetarian options, making it ideal
+  for intimate meals or casual visits. Diners can appreciate the expert
+  preparation of dishes that highlight premium ingredients, creating a memorable
+  dining adventure. For anyone exploring top sushi restaurants nearby, this
+  location offers a balance of authenticity and accessibility that elevates the
+  overall experience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJQzryKJxZwokRYH9Qt5wh3ZY/reviews/ChdDSUhNMG9nS0VJQ0FnTURnaC1IQWl3RRAB
@@ -362,6 +383,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURRaWE2SnlnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURRaWE2SnlnRRAB!2m1!1s0x89c2599c28f23a43:0x96dd219cb7507f60
+review_summary: >-
+  What Customers Are Saying$$$Folks generally rave about the fresh and flavorful
+  sushi at this spot, with many highlighting the omakase as a standout choice
+  for its creative presentations and high-quality ingredients. While the cozy
+  atmosphere and attentive service often make for a relaxing meal, a few
+  mentions note occasional rushes that could feel a bit hurried during busy
+  periods. Overall, the consensus leans toward it being a go-to destination for
+  sushi lovers, praising the authentic flavors and attention to detail that keep
+  people returning. If you're on the hunt for reliable sushi places near you,
+  this restaurant delivers a solid experience that's worth trying for its
+  consistent appeal and tasty offerings.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidStreetParking: true
   valetParking: false
@@ -393,8 +426,8 @@ serves_lunch: null
 serves_vegetarian_food: false
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Basic space serving broad variety of fish (plus vegetarian options), with
   adjacent sake/oyster bar.
 

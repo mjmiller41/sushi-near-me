@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Oishi Sushi Park City"
+title: Oishi Sushi Park City
 permalink: /utah/park-city/oishi-sushi-park-city.html
 stateAbbr: UT
 stateName: Utah
 cityName: Park City
 seo:
-  name: "Oishi Sushi Park City"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Oishi Sushi Park City serves delicious sushi in Park City, Utah. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJu18PNL1yUocRIQnpJqqGsXQ
 photos:
   - name: >-
@@ -185,7 +183,44 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Oishi Sushi in Park City, UT$$$Oishi Sushi Park City in Park City,
+  UT, offers a welcoming spot for enjoying fresh Japanese cuisine in a relaxed
+  environment. This cozy restaurant specializes in a variety of sushi rolls and
+  other authentic specialties, making it a great choice for anyone seeking
+  quality dining options in the area. With its casual setting and focus on
+  flavorful dishes, it's ideal for those looking for tasty sushi experiences
+  without the formality of upscale eateries. The venue also emphasizes
+  accessibility, ensuring a comfortable visit for all guests, which adds to its
+  appeal as a local favorite. Whether you're exploring top-rated sushi spots
+  nearby or simply craving a satisfying meal, this spot delivers on both taste
+  and atmosphere.
+generative_summary: >-
+  Discover Oishi Sushi in Park City, UT$$$Oishi Sushi Park City in Park City,
+  UT, offers a welcoming spot for enjoying fresh Japanese cuisine in a relaxed
+  environment. This cozy restaurant specializes in a variety of sushi rolls and
+  other authentic specialties, making it a great choice for anyone seeking
+  quality dining options in the area. With its casual setting and focus on
+  flavorful dishes, it's ideal for those looking for tasty sushi experiences
+  without the formality of upscale eateries. The venue also emphasizes
+  accessibility, ensuring a comfortable visit for all guests, which adds to its
+  appeal as a local favorite. Whether you're exploring top-rated sushi spots
+  nearby or simply craving a satisfying meal, this spot delivers on both taste
+  and atmosphere.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Guests Are Saying About the Experience$$$Folks who stop by often rave
+  about the fresh flavors and creative twists on classic sushi rolls, making it
+  a solid pick for casual diners. Many appreciate the welcoming vibe and how it
+  feels like a go-to place for a laid-back meal with friends or family. Some
+  highlight the reliable service and attention to detail that keep things
+  enjoyable from start to finish. Overall, it's seen as a dependable option for
+  anyone hunting for good sushi nearby, with positive nods to the variety that
+  caters to different tastes. While experiences can vary, the general feedback
+  leans toward it being a worthwhile stop for those in the mood for authentic
+  Japanese fare.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +246,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

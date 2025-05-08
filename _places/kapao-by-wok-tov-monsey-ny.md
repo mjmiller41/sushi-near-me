@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "KAPAO BY WOK TOV"
+title: KAPAO BY WOK TOV
 permalink: /new-york/monsey/kapao-by-wok-tov.html
 stateAbbr: NY
 stateName: New York
 cityName: Monsey
 seo:
-  name: "KAPAO BY WOK TOV"
-  type: Restaurant
+  type: restaurant
   links: https://kapaonow.com/
-description: "KAPAO BY WOK TOV serves delicious sushi in Monsey, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJvSbgNIDdwokRjbzY1YnxjB8
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $10 &ndash; $20
 rating: '3.9'
 rating_count: 0
 website: https://kapaonow.com/
+description: >-
+  Explore KAPAO BY WOK TOV in Monsey, NY$$$KAPAO BY WOK TOV in Monsey, NY,
+  stands out as a welcoming kosher spot blending Chinese and sushi flavors with
+  fresh, vegetarian-friendly options that cater to diverse tastes. This
+  restaurant offers a variety of dishes, including creative sushi rolls and poke
+  bowls, all prepared with high-quality ingredients in a clean and accessible
+  environment. Visitors appreciate the convenient location with outdoor seating
+  and ample parking, making it easy to enjoy a meal on the go or with family.
+  The moderate pricing ensures a satisfying experience without breaking the
+  bank, while features like wheelchair accessibility enhance its appeal for
+  everyone seeking sushi restaurants nearby.
+generative_summary: >-
+  Explore KAPAO BY WOK TOV in Monsey, NY$$$KAPAO BY WOK TOV in Monsey, NY,
+  stands out as a welcoming kosher spot blending Chinese and sushi flavors with
+  fresh, vegetarian-friendly options that cater to diverse tastes. This
+  restaurant offers a variety of dishes, including creative sushi rolls and poke
+  bowls, all prepared with high-quality ingredients in a clean and accessible
+  environment. Visitors appreciate the convenient location with outdoor seating
+  and ample parking, making it easy to enjoy a meal on the go or with family.
+  The moderate pricing ensures a satisfying experience without breaking the
+  bank, while features like wheelchair accessibility enhance its appeal for
+  everyone seeking sushi restaurants nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJvSbgNIDdwokRjbzY1YnxjB8/reviews/ChdDSUhNMG9nS0VJQ0FnSUNSdnVLVjJnRRAB
@@ -320,6 +341,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNhcXNuS1JnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNhcXNuS1JnEAE!2m1!1s0x89c2dd8034e026bd:0x1f8cf189d5d8bc8d
+review_summary: >-
+  Insights from Customer Feedback$$$Folks often rave about the flavorful Chinese
+  and sushi dishes at this spot, highlighting the quick service and generous
+  portions that make it a solid choice for kosher dining near you. While some
+  mention occasional slip-ups with orders or slower moments during busy times,
+  the overall vibe remains positive with tasty options that keep people coming
+  back for more. Reviewers appreciate the variety, including fresh vegetarian
+  choices, which add to the appeal for groups looking for top-rated sushi in a
+  casual setting. Despite a few complaints about portion sizes in specials, the
+  consensus leans toward it being a reliable go-to for anyone searching for
+  sushi places close to Monsey, NY, with an honest mix of hits that outweigh the
+  misses.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -349,7 +383,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

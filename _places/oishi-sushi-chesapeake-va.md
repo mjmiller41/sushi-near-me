@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Oishi Sushi"
+title: Oishi Sushi
 permalink: /virginia/chesapeake/oishi-sushi.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Chesapeake
 seo:
-  name: "Oishi Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://chesapeakeoishisushi.com/
-description: "Oishi Sushi serves delicious sushi in Chesapeake, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJh1N1uSS7uokR0cFZRfenr-0
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $10 &ndash; $20
 rating: '4.7'
 rating_count: 0
 website: https://chesapeakeoishisushi.com/
+description: >-
+  Discover Oishi Sushi in Chesapeake, Virginia$$$Oishi Sushi in Chesapeake,
+  Virginia, stands out as a casual Japanese eatery that delights with its fresh
+  sushi selections and convenient lunch options, making it a go-to spot for
+  those seeking authentic flavors in the area. The restaurant features a variety
+  of sushi rolls and bento-style meals, complemented by a selection of beer and
+  wine to enhance your dining experience. Its accessible design, including
+  wheelchair-friendly features and ample parking, ensures a welcoming visit for
+  everyone. Additionally, the spot caters to families and groups with dine-in
+  options and thoughtful amenities, positioning it as one of the top-rated sushi
+  places near me for a relaxed meal.
+generative_summary: >-
+  Discover Oishi Sushi in Chesapeake, Virginia$$$Oishi Sushi in Chesapeake,
+  Virginia, stands out as a casual Japanese eatery that delights with its fresh
+  sushi selections and convenient lunch options, making it a go-to spot for
+  those seeking authentic flavors in the area. The restaurant features a variety
+  of sushi rolls and bento-style meals, complemented by a selection of beer and
+  wine to enhance your dining experience. Its accessible design, including
+  wheelchair-friendly features and ample parking, ensures a welcoming visit for
+  everyone. Additionally, the spot caters to families and groups with dine-in
+  options and thoughtful amenities, positioning it as one of the top-rated sushi
+  places near me for a relaxed meal.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJh1N1uSS7uokR0cFZRfenr-0/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3M2JhRXFnRRAB
@@ -344,6 +365,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUMxak5YV1pnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUMxak5YV1pnEAE!2m1!1s0x89babb24b9755387:0xedafa7f74559c1d1
+review_summary: >-
+  What Customers Are Saying About Oishi Sushi$$$Visitors consistently highlight
+  the fresh and flavorful sushi rolls, with favorites like the JJ roll and Spicy
+  City roll earning high marks for their quality and value. Many appreciate the
+  attentive service and cozy atmosphere that make every meal feel welcoming and
+  enjoyable, turning it into a reliable choice for casual outings. While one
+  comment noted that some creative dishes could use a bit more polish, the
+  overall experience remains positive, with folks praising the generous portions
+  and authentic touches. If you're hunting for the best sushi near me, this spot
+  delivers on taste and affordability, encouraging repeat visits for its solid
+  execution and friendly vibe. In summary, it's a hit for those looking for
+  dependable Japanese fare that keeps things light and satisfying.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -376,7 +410,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

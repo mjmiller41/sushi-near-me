@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ginban Asian Bistro"
+title: Ginban Asian Bistro
 permalink: /new-york/mamaroneck/ginban-asian-bistro.html
 stateAbbr: NY
 stateName: New York
 cityName: Mamaroneck
 seo:
-  name: "Ginban Asian Bistro"
-  type: Restaurant
+  type: restaurant
   links: http://www.ginbanmamaroneck.com/
-description: "Sushi & Asian fare is served in a hip, blue-lit room behind a modest storefront facade. Ginban Asian Bistro serves delicious sushi in Mamaroneck, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJxy4YTYORwokRgd-fiNwNF3E
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 0
 website: http://www.ginbanmamaroneck.com/
+description: >-
+  Explore Ginban Asian Bistro in Mamaroneck, NY$$$Ginban Asian Bistro in
+  Mamaroneck, NY, stands out as a welcoming spot for enjoying authentic Japanese
+  flavors in a relaxed setting. This cozy restaurant boasts an extensive
+  selection of dishes, including fresh sushi rolls, hibachi favorites, and
+  teriyaki options that highlight the best of Japanese cuisine. With its
+  accessible features like wheelchair-friendly entrances and seating, it's
+  designed to accommodate a variety of diners seeking sushi restaurants near
+  them. The unassuming storefront opens into a blue-lit room that creates an
+  inviting ambiance, perfect for casual meals or intimate gatherings. Whether
+  you're exploring sushi places near me or craving top-rated Japanese fare, this
+  bistro offers a balanced menu at moderate prices, making it a go-to choice for
+  flavorful dining experiences.
+generative_summary: >-
+  Explore Ginban Asian Bistro in Mamaroneck, NY$$$Ginban Asian Bistro in
+  Mamaroneck, NY, stands out as a welcoming spot for enjoying authentic Japanese
+  flavors in a relaxed setting. This cozy restaurant boasts an extensive
+  selection of dishes, including fresh sushi rolls, hibachi favorites, and
+  teriyaki options that highlight the best of Japanese cuisine. With its
+  accessible features like wheelchair-friendly entrances and seating, it's
+  designed to accommodate a variety of diners seeking sushi restaurants near
+  them. The unassuming storefront opens into a blue-lit room that creates an
+  inviting ambiance, perfect for casual meals or intimate gatherings. Whether
+  you're exploring sushi places near me or craving top-rated Japanese fare, this
+  bistro offers a balanced menu at moderate prices, making it a go-to choice for
+  flavorful dining experiences.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJxy4YTYORwokRgd-fiNwNF3E/reviews/ChdDSUhNMG9nS0VJQ0FnTURBd09qQzRBRRAB
@@ -364,6 +389,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURRbGZhaG53RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURRbGZhaG53RRAB!2m1!1s0x89c291834d182ec7:0x71170ddc889fdf81
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors to this sushi spot often rave about
+  the consistently fresh and flavorful dishes that make every bite a delight.
+  Many highlight the great variety of options, from tasty sushi rolls to
+  satisfying hot entrees, providing excellent value for those looking for
+  reliable Japanese places near me. The atmosphere comes across as clean and
+  comfortable, with quick service that enhances the overall enjoyment without
+  any fuss. Folks appreciate the welcoming vibe and thoughtful touches like
+  prompt refills, contributing to a positive repeat experience. Overall, it's
+  clear that this location delivers a solid meal that keeps customers coming
+  back for more, earning it high marks as one of the best sushi restaurants
+  around.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   valetParking: false
 payment_options:
@@ -394,8 +432,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Sushi & Asian fare is served in a hip, blue-lit room behind a modest
   storefront facade.
 

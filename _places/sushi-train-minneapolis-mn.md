@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Train"
+title: Sushi Train
 permalink: /minnesota/minneapolis/sushi-train.html
 stateAbbr: MN
 stateName: Minnesota
 cityName: Minneapolis
 seo:
-  name: "Sushi Train"
-  type: Restaurant
-  links: null
-description: "Sushi Train serves delicious sushi in Minneapolis, Minnesota. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.sushitraindowntown.com/
 place_id: ChIJaWBlZ0szs1IRQXa3mainSO4
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x52b3334b67656069:0xee48a7a899b77641!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:30 AM – 10:00 PM'
+    - 'Tuesday: 11:30 AM – 10:00 PM'
+    - 'Wednesday: 11:30 AM – 10:00 PM'
+    - 'Thursday: 11:30 AM – 10:00 PM'
+    - 'Friday: 11:30 AM – 10:30 PM'
+    - 'Saturday: 11:30 AM – 10:30 PM'
+    - 'Sunday: 12:00 – 10:00 PM'
+  nextCloseTime: '2025-05-04T03:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,54 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
+phone: (612) 259-8488
+price_level: PRICE_LEVEL_INEXPENSIVE
 price_range: null
-rating: null
-rating_count: 0
-website: null
+rating: '4.2'
+rating_count: 1078
+website: http://www.sushitraindowntown.com/
+description: >-
+  Discover Sushi Train in Minneapolis, MN$$$Sushi Train in Minneapolis, MN,
+  stands out as a lively spot for fresh Japanese cuisine, where a unique
+  conveyor belt system delivers an array of small plates right to your table.
+  This restaurant emphasizes a vibrant atmosphere combined with gluten-free
+  options, making it a welcoming choice for various dietary preferences and
+  family outings. Visitors can enjoy a selection of high-quality sushi rolls and
+  other Japanese favorites in a setting that's both fun and efficient, with
+  convenient hours that cater to lunch and dinner crowds. Accessibility features
+  like wheelchair-friendly entrances and seating add to the inclusive vibe,
+  ensuring everyone can savor the experience. Whether you're searching for
+  top-rated sushi places near you, this location brings authentic flavors to the
+  heart of the city, perfect for those craving a casual yet memorable meal.
+generative_summary: >-
+  Discover Sushi Train in Minneapolis, MN$$$Sushi Train in Minneapolis, MN,
+  stands out as a lively spot for fresh Japanese cuisine, where a unique
+  conveyor belt system delivers an array of small plates right to your table.
+  This restaurant emphasizes a vibrant atmosphere combined with gluten-free
+  options, making it a welcoming choice for various dietary preferences and
+  family outings. Visitors can enjoy a selection of high-quality sushi rolls and
+  other Japanese favorites in a setting that's both fun and efficient, with
+  convenient hours that cater to lunch and dinner crowds. Accessibility features
+  like wheelchair-friendly entrances and seating add to the inclusive vibe,
+  ensuring everyone can savor the experience. Whether you're searching for
+  top-rated sushi places near you, this location brings authentic flavors to the
+  heart of the city, perfect for those craving a casual yet memorable meal.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Customer Feedback$$$Folks chatting about Sushi Train often
+  highlight the fun conveyor belt setup and the consistently fresh flavors of
+  the dishes, making it a go-to for anyone in the mood for quality Japanese
+  eats. Many appreciate the affordable pricing and variety of options that keep
+  things exciting without breaking the bank, earning it solid nods for everyday
+  dining vibes. While some mention occasional waits during peak times, the
+  overall experience gets thumbs up for friendly service and tasty selections
+  that satisfy sushi lovers. With a strong rating reflecting plenty of positive
+  experiences, it's clear this spot delivers on expectations for a relaxed meal,
+  ideal if you're exploring sushi restaurants close to you. All in all, it's a
+  reliable pick that keeps the good times rolling, blending fun elements with
+  solid food choices to leave diners generally pleased.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +315,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

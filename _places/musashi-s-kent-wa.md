@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Musashi's"
+title: Musashi's
 permalink: /washington/kent/musashi-s.html
 stateAbbr: WA
 stateName: Washington
 cityName: Kent
 seo:
-  name: "Musashi's"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Musashi's serves delicious sushi in Kent, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJnyNHrtdbkFQRclTQoGXuO28
 photos:
   - name: >-
@@ -185,7 +183,42 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Musashi's in Kent, WA$$$Musashi's in Kent, WA, offers a relaxed spot
+  for enjoying fresh sushi and other Japanese favorites, making it a go-to
+  choice for those seeking authentic flavors in a welcoming environment. The
+  menu highlights a variety of sushi rolls along with classic dishes,
+  complemented by options like beer and sake for a complete dining experience.
+  With its focus on accessibility and ease of visit, this spot ensures everyone
+  can savor the simple pleasures of Japanese cuisine without hassle. Whether
+  you're exploring sushi restaurants in the area, Musashi's provides a
+  straightforward yet enjoyable atmosphere that appeals to casual diners looking
+  for quality meals nearby.
+generative_summary: >-
+  Discover Musashi's in Kent, WA$$$Musashi's in Kent, WA, offers a relaxed spot
+  for enjoying fresh sushi and other Japanese favorites, making it a go-to
+  choice for those seeking authentic flavors in a welcoming environment. The
+  menu highlights a variety of sushi rolls along with classic dishes,
+  complemented by options like beer and sake for a complete dining experience.
+  With its focus on accessibility and ease of visit, this spot ensures everyone
+  can savor the simple pleasures of Japanese cuisine without hassle. Whether
+  you're exploring sushi restaurants in the area, Musashi's provides a
+  straightforward yet enjoyable atmosphere that appeals to casual diners looking
+  for quality meals nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Visitor Feedback$$$Even without specific reviews for this spot,
+  feedback from similar Japanese eateries often points to the appeal of fresh,
+  well-prepared sushi that keeps folks coming back for more. Diners tend to
+  enjoy the laid-back vibe and the chance to try a mix of traditional flavors in
+  a no-fuss setting, making it feel like a reliable pick for everyday meals.
+  Many appreciate the thoughtful touches, like drink pairings that enhance the
+  experience without overwhelming the palate. If you're on the hunt for top
+  sushi options around, places like this generally earn nods for their solid
+  offerings and approachable style, helping to build a positive reputation among
+  local food lovers.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +244,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

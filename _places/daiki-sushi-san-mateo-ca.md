@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Daiki Sushi"
+title: Daiki Sushi
 permalink: /california/san-mateo/daiki-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: San Mateo
 seo:
-  name: "Daiki Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.sanmateodaikisushi.com/jen1d7sj/restaurant/order-online
-description: "Bright, spacious setting providing a large selection of rolls for dine-in, takeout & delivery. Daiki Sushi serves delicious sushi in San Mateo, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ-7aII_iej4ARV_TT46jMcrQ
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $20 &ndash; $30
 rating: '4.0'
 rating_count: 0
 website: https://www.sanmateodaikisushi.com/jen1d7sj/restaurant/order-online
+description: >-
+  Explore Daiki Sushi in San Mateo, CA$$$Nestled in the heart of San Mateo,
+  California, Daiki Sushi stands out as a go-to spot for fresh sushi and
+  Japanese favorites, ideal for anyone searching for top-rated sushi near me.
+  This casual eatery offers an all-you-can-eat experience with a wide array of
+  rolls and dishes, all served in a bright, spacious setting that makes dining
+  comfortable and enjoyable. Accessibility features like wheelchair-friendly
+  entrances and seating ensure it's welcoming for all visitors, while options
+  for dine-in, takeout, and delivery add to its convenience for locals or those
+  exploring sushi places near me. With moderate pricing around $20 to $30, it's
+  a great value for savoring authentic flavors, including hearty portions of
+  Japanese cuisine that keep diners coming back.
+generative_summary: >-
+  Explore Daiki Sushi in San Mateo, CA$$$Nestled in the heart of San Mateo,
+  California, Daiki Sushi stands out as a go-to spot for fresh sushi and
+  Japanese favorites, ideal for anyone searching for top-rated sushi near me.
+  This casual eatery offers an all-you-can-eat experience with a wide array of
+  rolls and dishes, all served in a bright, spacious setting that makes dining
+  comfortable and enjoyable. Accessibility features like wheelchair-friendly
+  entrances and seating ensure it's welcoming for all visitors, while options
+  for dine-in, takeout, and delivery add to its convenience for locals or those
+  exploring sushi places near me. With moderate pricing around $20 to $30, it's
+  a great value for savoring authentic flavors, including hearty portions of
+  Japanese cuisine that keep diners coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ-7aII_iej4ARV_TT46jMcrQ/reviews/ChdDSUhNMG9nS0VJQ0FnSUNQNElTWm9BRRAB
@@ -320,6 +343,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR0d2ZDeEhBEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR0d2ZDeEhBEAE!2m1!1s0x808f9ef82388b6fb:0xb472cca8e3d3f457
+review_summary: >-
+  Customer Feedback on Daiki Sushi$$$Folks seem to really appreciate the
+  all-you-can-eat deal at this spot, often highlighting the tasty rolls and
+  solid portions that make it feel like a smart choice for a casual meal. Many
+  comments praise the friendly service and clean, relaxed vibe, which help
+  create a welcoming environment without any fuss. It's frequently noted as a
+  budget-friendly option for groups or families, with the variety of dishes
+  earning high marks for quality and satisfaction. Overall, the experience comes
+  across as reliably enjoyable, especially for those craving Japanese flavors,
+  though a few mentions suggest it's best for straightforward lunches rather
+  than fancy dinners. If you're on the hunt for sushi restaurants near me, this
+  place gets solid nods for its consistent taste and great value.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -352,8 +388,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Bright, spacious setting providing a large selection of rolls for dine-in,
   takeout & delivery.
 

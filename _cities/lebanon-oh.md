@@ -5,4 +5,5 @@ permalink: /ohio/lebanon/
 stateAbbr: OH
 stateName: Ohio
 cityName: Lebanon
+
 ---

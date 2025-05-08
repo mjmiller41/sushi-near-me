@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Shogun Japanese Steak & Sushi"
+title: Shogun Japanese Steak & Sushi
 permalink: /kentucky/murray/shogun-japanese-steak-sushi.html
 stateAbbr: KY
 stateName: Kentucky
 cityName: Murray
 seo:
-  name: "Shogun Japanese Steak & Sushi"
-  type: Restaurant
-  links: null
-description: "Shogun Japanese Steak & Sushi serves delicious sushi in Murray, Kentucky. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://shogunmurray.com/
 place_id: ChIJA29RMphSeogRzxcESBzAJSw
 photos:
   - name: >-
@@ -170,22 +168,266 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x887a529832516f03:0x2c25c01c480417cf!10e5
 primary_type: Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 15
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 2:00 PM, 4:00 – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 2:00 PM, 4:00 – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 2:00 PM, 4:00 – 9:00 PM'
+    - 'Thursday: 11:00 AM – 2:00 PM, 4:00 – 9:00 PM'
+    - 'Friday: 11:00 AM – 2:00 PM, 4:00 – 10:00 PM'
+    - 'Saturday: 3:00 – 10:00 PM'
+    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 11
+          minute: 0
+        close:
+          day: 0
+          hour: 21
+          minute: 0
+      - open:
+          day: 1
+          hour: 11
+          minute: 0
+        close:
+          day: 1
+          hour: 14
+          minute: 0
+      - open:
+          day: 1
+          hour: 16
+          minute: 0
+        close:
+          day: 1
+          hour: 21
+          minute: 0
+      - open:
+          day: 2
+          hour: 11
+          minute: 0
+        close:
+          day: 2
+          hour: 14
+          minute: 0
+      - open:
+          day: 2
+          hour: 16
+          minute: 0
+        close:
+          day: 2
+          hour: 21
+          minute: 0
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 14
+          minute: 0
+      - open:
+          day: 3
+          hour: 16
+          minute: 0
+        close:
+          day: 3
+          hour: 21
+          minute: 0
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 14
+          minute: 0
+      - open:
+          day: 4
+          hour: 16
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 0
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 14
+          minute: 0
+      - open:
+          day: 5
+          hour: 16
+          minute: 0
+        close:
+          day: 5
+          hour: 22
+          minute: 0
+      - open:
+          day: 6
+          hour: 15
+          minute: 0
+        close:
+          day: 6
+          hour: 23
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 11:00 AM – 2:00 PM, 4:00 – 9:00 PM'
+      - 'Tuesday: 11:00 AM – 2:00 PM, 4:00 – 9:00 PM'
+      - 'Wednesday: 11:00 AM – 2:00 PM, 4:00 – 9:00 PM'
+      - 'Thursday: 11:00 AM – 2:00 PM, 4:00 – 9:00 PM'
+      - 'Friday: 11:00 AM – 2:00 PM, 4:00 – 10:00 PM'
+      - 'Saturday: 3:00 – 11:00 PM'
+      - 'Sunday: 11:00 AM – 9:00 PM'
+    secondaryHoursType: DELIVERY
+    nextCloseTime: '2025-05-04T04:00:00Z'
+phone: (270) 761-7486
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.4'
+rating_count: 482
+website: http://shogunmurray.com/
+description: >-
+  Discover Shogun Japanese Steak & Sushi in Murray, KY$$$Shogun Japanese Steak &
+  Sushi in Murray, Kentucky, stands out as a vibrant spot for authentic Japanese
+  dining, featuring expertly prepared hibachi dishes and fresh sushi options
+  that delight the senses. The restaurant boasts a welcoming atmosphere with
+  spacious seating and full accessibility features, making it an ideal choice
+  for various gatherings, from casual lunches to evening outings. Patrons can
+  enjoy a variety of flavorful tempura and grilled specialties, all served in a
+  clean and inviting environment that emphasizes quality and comfort. With
+  convenient hours that include lunch and dinner services, this local favorite
+  caters to those seeking reliable Japanese cuisine nearby, perfect for anyone
+  exploring sushi restaurants in the area.
+generative_summary: >-
+  Discover Shogun Japanese Steak & Sushi in Murray, KY$$$Shogun Japanese Steak &
+  Sushi in Murray, Kentucky, stands out as a vibrant spot for authentic Japanese
+  dining, featuring expertly prepared hibachi dishes and fresh sushi options
+  that delight the senses. The restaurant boasts a welcoming atmosphere with
+  spacious seating and full accessibility features, making it an ideal choice
+  for various gatherings, from casual lunches to evening outings. Patrons can
+  enjoy a variety of flavorful tempura and grilled specialties, all served in a
+  clean and inviting environment that emphasizes quality and comfort. With
+  convenient hours that include lunch and dinner services, this local favorite
+  caters to those seeking reliable Japanese cuisine nearby, perfect for anyone
+  exploring sushi restaurants in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Recent Reviews$$$Folks rave about the tasty hibachi and fresh
+  sushi at this spot, often noting how the flavors really hit the mark for a
+  satisfying meal. Many appreciate the friendly vibe and roomy setting, which
+  makes it a great pick for family dinners or group get-togethers, adding to the
+  overall enjoyable experience. While some mention that the prices lean toward
+  the higher side, they still feel it's worth it for the quality and variety on
+  offer. Overall, visitors highlight the welcoming staff and clean ambiance as
+  standout features that enhance every visit. If you're on the hunt for
+  top-rated Japanese places nearby, this location consistently delivers a solid
+  and memorable dining adventure.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +453,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

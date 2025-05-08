@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "OnARoll Sushi"
+title: OnARoll Sushi
 permalink: /florida/tampa/onaroll-sushi.html
 stateAbbr: FL
 stateName: Florida
 cityName: Tampa
 seo:
-  name: "OnARoll Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.onarollsushiandthai.com/
-description: "Bright, casual eatery offering creative, customizable rolls & specialties including sushi burritos. OnARoll Sushi serves delicious sushi in Tampa, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ7aUBZozEwogR8TnbN0B5YQo
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 0
 website: http://www.onarollsushiandthai.com/
+description: >-
+  Explore OnARoll Sushi in Tampa, FL$$$OnARoll Sushi in Tampa, FL, stands out as
+  a lively and welcoming spot for enjoying fresh Japanese-inspired cuisine,
+  featuring creative rolls and innovative specialties like sushi burritos. This
+  casual eatery emphasizes customizable options that cater to a variety of
+  tastes, making it ideal for those seeking vibrant sushi experiences in a
+  relaxed downtown setting. With its accessible features and outdoor seating,
+  the restaurant offers a comfortable atmosphere perfect for quick meals or
+  casual gatherings, enhancing its appeal for everyday diners. Patrons
+  appreciate the focus on quality ingredients and thoughtful flavors that bring
+  a fun twist to traditional dishes, positioning it as a go-to choice among
+  sushi restaurants in the area.
+generative_summary: >-
+  Explore OnARoll Sushi in Tampa, FL$$$OnARoll Sushi in Tampa, FL, stands out as
+  a lively and welcoming spot for enjoying fresh Japanese-inspired cuisine,
+  featuring creative rolls and innovative specialties like sushi burritos. This
+  casual eatery emphasizes customizable options that cater to a variety of
+  tastes, making it ideal for those seeking vibrant sushi experiences in a
+  relaxed downtown setting. With its accessible features and outdoor seating,
+  the restaurant offers a comfortable atmosphere perfect for quick meals or
+  casual gatherings, enhancing its appeal for everyday diners. Patrons
+  appreciate the focus on quality ingredients and thoughtful flavors that bring
+  a fun twist to traditional dishes, positioning it as a go-to choice among
+  sushi restaurants in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ7aUBZozEwogR8TnbN0B5YQo/reviews/ChZDSUhNMG9nS0VJQ0FnSUN2Z0txdVV3EAE
@@ -352,6 +375,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURRa2VfRWpRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURRa2VfRWpRRRAB!2m1!1s0x88c2c48c6601a5ed:0xa61794037db39f1
+review_summary: >-
+  Customer Feedback on This Tampa Sushi Spot$$$Folks frequently highlight the
+  tasty and inventive rolls, with many enjoying the fresh flavors and generous
+  portions that make meals feel satisfying and unique. The service often comes
+  across as friendly and speedy, helping to create a laid-back vibe that keeps
+  visitors coming back for more. While most comments praise the great value and
+  variety, a few note occasional slip-ups with orders, though these don't
+  overshadow the overall positive experiences. If you're on the hunt for
+  reliable sushi places nearby, this spot generally delivers solid, enjoyable
+  options that leave diners feeling content. All in all, it's a welcoming choice
+  for anyone craving top-rated sushi in Tampa.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options:
   acceptsCreditCards: true
@@ -381,8 +416,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Bright, casual eatery offering creative, customizable rolls & specialties
   including sushi burritos.
 

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi & Hibachi To Go"
+title: Sushi & Hibachi To Go
 permalink: /south-carolina/columbia/sushi-hibachi-to-go.html
 stateAbbr: SC
 stateName: South Carolina
 cityName: Columbia
 seo:
-  name: "Sushi & Hibachi To Go"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "No-frills Japanese take-out dishing sushi rolls & grilled meats, as well as soups & salads. Sushi & Hibachi To Go serves delicious sushi in Columbia, South Carolina. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJwzZ1TtCk-IgRMUgTQDJU5LY
 photos:
   - name: >-
@@ -149,8 +147,8 @@ state: SC
 zip: '29201'
 country: USA
 neighborhood: Midtown - Downtown
-latitude: '34.012709'
-longitude: '-81.039882'
+latitude: '34.012567'
+longitude: '-81.039912'
 accessibility_options:
   wheelchairAccessibleParking: true
   wheelchairAccessibleEntrance: true
@@ -183,6 +181,33 @@ price_range: $1 &ndash; $10
 rating: '4.2'
 rating_count: 0
 website: null
+description: >-
+  Explore Sushi & Hibachi To Go in Columbia, SC$$$Nestled in Columbia, SC, Sushi
+  & Hibachi To Go offers a straightforward yet inviting spot for fresh Japanese
+  takeout, featuring an array of sushi rolls, hibachi dishes, and classic
+  staples that cater to quick meals on the go. This easygoing eatery emphasizes
+  affordable options with generous portions, making it a convenient choice for
+  those seeking flavorful sushi experiences without the fuss of a full dining
+  setup. Accessibility features like wheelchair-friendly entrances and parking
+  add to its appeal for a wide range of visitors, while the focus on takeout and
+  delivery keeps things simple and efficient. Whether you're in the mood for
+  grilled meats, soups, or salads, the menu highlights quality ingredients that
+  deliver satisfying flavors at budget-friendly prices, ideal for anyone
+  exploring sushi restaurants in the area.
+generative_summary: >-
+  Explore Sushi & Hibachi To Go in Columbia, SC$$$Nestled in Columbia, SC, Sushi
+  & Hibachi To Go offers a straightforward yet inviting spot for fresh Japanese
+  takeout, featuring an array of sushi rolls, hibachi dishes, and classic
+  staples that cater to quick meals on the go. This easygoing eatery emphasizes
+  affordable options with generous portions, making it a convenient choice for
+  those seeking flavorful sushi experiences without the fuss of a full dining
+  setup. Accessibility features like wheelchair-friendly entrances and parking
+  add to its appeal for a wide range of visitors, while the focus on takeout and
+  delivery keeps things simple and efficient. Whether you're in the mood for
+  grilled meats, soups, or salads, the menu highlights quality ingredients that
+  deliver satisfying flavors at budget-friendly prices, ideal for anyone
+  exploring sushi restaurants in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJwzZ1TtCk-IgRMUgTQDJU5LY/reviews/ChZDSUhNMG9nS0VJQ0FnSURYeHJlYVJ3EAE
@@ -376,6 +401,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURBNzdMa253RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURBNzdMa253RRAB!2m1!1s0x88f8a4d04e7536c3:0xb6e4543240134831
+review_summary: >-
+  Customer Feedback Highlights$$$Folks who've tried Sushi & Hibachi To Go are
+  generally thrilled with the tasty dishes and great value, often praising the
+  tender hibachi meats, fresh sushi specials, and friendly service that make
+  every visit feel welcoming. Many appreciate the buy-one-get-one-free deals on
+  rolls, which let you experiment without breaking the bank, alongside
+  highlights like the flavorful white sauce and well-cooked veggies that keep
+  meals feeling homemade. While a few mentions note that ingredients can vary
+  slightly in freshness, it's not a common issue and doesn't overshadow the
+  overall positive experiences shared by regulars. The spot's quick, no-frills
+  vibe is perfect for grab-and-go meals, earning it solid nods as a go-to for
+  affordable Japanese options nearby. All in all, it's a reliable pick for sushi
+  lovers looking for solid, honest flavors in a laid-back setting.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -406,8 +445,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   No-frills Japanese take-out dishing sushi rolls & grilled meats, as well as
   soups & salads.
 

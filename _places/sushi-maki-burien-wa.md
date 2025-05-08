@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Maki"
+title: Sushi Maki
 permalink: /washington/burien/sushi-maki.html
 stateAbbr: WA
 stateName: Washington
 cityName: Burien
 seo:
-  name: "Sushi Maki"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi Maki serves delicious sushi in Burien, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJp-VvoZ9EkFQRhPhgn6t-0F4
 photos:
   - name: >-
@@ -185,7 +183,41 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Sushi Maki in Burien, WA$$$Sushi Maki in Burien, Washington, offers a
+  relaxed and inviting atmosphere for those seeking quality Japanese dining with
+  generous servings of fresh rolls and platters. This unpretentious spot
+  specializes in classic sushi options that highlight bold flavors and ample
+  portions, making it a go-to choice for casual meals or gatherings.
+  Accessibility features like wheelchair-friendly parking and entrances ensure
+  it's welcoming for all visitors exploring top-rated sushi restaurants in the
+  area. Whether you're in the mood for traditional favorites or something
+  shareable, the focus on value and taste makes it a standout option for sushi
+  enthusiasts nearby.
+generative_summary: >-
+  Discover Sushi Maki in Burien, WA$$$Sushi Maki in Burien, Washington, offers a
+  relaxed and inviting atmosphere for those seeking quality Japanese dining with
+  generous servings of fresh rolls and platters. This unpretentious spot
+  specializes in classic sushi options that highlight bold flavors and ample
+  portions, making it a go-to choice for casual meals or gatherings.
+  Accessibility features like wheelchair-friendly parking and entrances ensure
+  it's welcoming for all visitors exploring top-rated sushi restaurants in the
+  area. Whether you're in the mood for traditional favorites or something
+  shareable, the focus on value and taste makes it a standout option for sushi
+  enthusiasts nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$If you're hunting for sushi spots close to you,
+  folks often highlight Sushi Maki's hearty portions and straightforward appeal
+  as a reliable pick for a satisfying bite. Many appreciate the fresh
+  ingredients and casual vibe that make it easy for families or groups to enjoy
+  without any fuss. While it's praised for delivering good value on classic
+  rolls, some note it's more about no-nonsense dining than fancy extras.
+  Overall, it's frequently recommended as a solid choice for anyone craving
+  dependable Japanese flavors, keeping things positive and approachable for
+  repeat visits.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +243,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

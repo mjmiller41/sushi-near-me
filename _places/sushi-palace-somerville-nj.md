@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Palace"
+title: Sushi Palace
 permalink: /new-jersey/somerville/sushi-palace.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Somerville
 seo:
-  name: "Sushi Palace"
-  type: Restaurant
-  links: null
-description: "Sushi Palace serves delicious sushi in Somerville, New Jersey. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://sushipalacenj.com/
 place_id: ChIJBbCpA0uVw4kRKxaOdah-PZ4
 photos:
   - name: >-
@@ -170,8 +168,113 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c3954b03a9b005:0x9e3d7ea8758e162b!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 15
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 15
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:30 AM – 3:00 PM, 4:30 – 10:00 PM'
+    - 'Tuesday: 11:30 AM – 3:00 PM, 4:30 – 10:00 PM'
+    - 'Wednesday: 11:30 AM – 3:00 PM, 4:30 – 10:00 PM'
+    - 'Thursday: 11:30 AM – 3:00 PM, 4:30 – 10:00 PM'
+    - 'Friday: 11:30 AM – 3:00 PM, 4:30 – 10:00 PM'
+    - 'Saturday: 11:30 AM – 10:30 PM'
+    - 'Sunday: 12:00 – 10:00 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +282,50 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (908) 218-7888
+price_level: PRICE_LEVEL_MODERATE
+price_range: $30 &ndash; $50
+rating: '4.3'
+rating_count: 1378
+website: http://sushipalacenj.com/
+description: >-
+  Discover Sushi Palace in Somerville, NJ$$$Sushi Palace in Somerville, NJ,
+  stands out as a welcoming spot for enjoying fresh Japanese cuisine, featuring
+  an all-you-can-eat selection that highlights creative sushi rolls and classic
+  sashimi. This casual eatery emphasizes accessibility with wheelchair-friendly
+  parking, entrances, and seating, making it easy for everyone to savor the
+  experience. Patrons can indulge in a variety of flavorful options in a relaxed
+  atmosphere, with convenient hours that cater to both lunch and dinner crowds
+  throughout the week. The menu's focus on quality ingredients and diverse
+  offerings makes it a solid choice for those seeking top-rated sushi
+  restaurants nearby, blending affordability with authentic flavors that keep
+  locals coming back.
+generative_summary: >-
+  Discover Sushi Palace in Somerville, NJ$$$Sushi Palace in Somerville, NJ,
+  stands out as a welcoming spot for enjoying fresh Japanese cuisine, featuring
+  an all-you-can-eat selection that highlights creative sushi rolls and classic
+  sashimi. This casual eatery emphasizes accessibility with wheelchair-friendly
+  parking, entrances, and seating, making it easy for everyone to savor the
+  experience. Patrons can indulge in a variety of flavorful options in a relaxed
+  atmosphere, with convenient hours that cater to both lunch and dinner crowds
+  throughout the week. The menu's focus on quality ingredients and diverse
+  offerings makes it a solid choice for those seeking top-rated sushi
+  restaurants nearby, blending affordability with authentic flavors that keep
+  locals coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Buzzing About This Sushi Spot$$$Folks checking out this
+  sushi place near Somerville often highlight the consistently fresh and tasty
+  dishes that make every meal feel like a treat, earning it high marks for
+  flavor and variety. Many appreciate the generous portions and value for money,
+  especially with the all-you-can-eat deals that satisfy sushi cravings without
+  breaking the bank. While some note that wait times can vary during peak hours,
+  the overall vibe and service keep the feedback upbeat, with diners praising
+  the welcoming environment for groups or solo visits. Overall, it's clear that
+  this spot holds up as one of the best options for Japanese places in the area,
+  drawing in fans who love the reliable quality and fun dining experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +351,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

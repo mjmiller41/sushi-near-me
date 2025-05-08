@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Teak OTR"
+title: Teak OTR
 permalink: /ohio/cincinnati/teak-otr.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Cincinnati
 seo:
-  name: "Teak OTR"
-  type: Restaurant
-  links: null
-description: "Teak OTR serves delicious sushi in Cincinnati, Ohio. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.teakotr.com/
 place_id: ChIJkd4y2mGxQYgRDZLEl8UegAk
 photos:
   - name: >-
@@ -169,8 +167,97 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8841b161da32de91:0x9801ec597c4920d!10e5
 primary_type: Thai Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: Closed'
+    - 'Tuesday: 11:00 AM – 2:30 PM, 4:00 – 9:30 PM'
+    - 'Wednesday: 11:00 AM – 2:30 PM, 4:00 – 9:30 PM'
+    - 'Thursday: 11:00 AM – 2:30 PM, 4:00 – 9:30 PM'
+    - 'Friday: 11:00 AM – 2:30 PM, 4:00 – 10:30 PM'
+    - 'Saturday: 12:00 – 10:30 PM'
+    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -178,13 +265,54 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (513) 421-8325
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.2'
+rating_count: 714
+website: https://www.teakotr.com/
+description: >-
+  Explore Teak OTR in Cincinnati, OH$$$Teak OTR in Cincinnati, OH, stands out as
+  a contemporary dining destination blending Thai flavors with fresh sushi
+  options, making it a go-to spot for those seeking authentic Asian cuisine in a
+  vibrant setting. This modern restaurant offers a menu featuring flavorful Thai
+  specialties and artfully prepared sushi rolls, appealing to anyone exploring
+  local sushi restaurants in the area. With its accessible design and welcoming
+  atmosphere, it's ideal for casual lunches or evening dinners, ensuring a
+  comfortable experience for all visitors. The spot operates with flexible
+  hours, including weekends, allowing patrons to enjoy high-quality meals at
+  moderate prices. Whether you're in the mood for innovative sushi creations or
+  traditional Thai dishes, Teak OTR delivers a satisfying blend of taste and
+  ambiance that keeps locals returning.
+generative_summary: >-
+  Explore Teak OTR in Cincinnati, OH$$$Teak OTR in Cincinnati, OH, stands out as
+  a contemporary dining destination blending Thai flavors with fresh sushi
+  options, making it a go-to spot for those seeking authentic Asian cuisine in a
+  vibrant setting. This modern restaurant offers a menu featuring flavorful Thai
+  specialties and artfully prepared sushi rolls, appealing to anyone exploring
+  local sushi restaurants in the area. With its accessible design and welcoming
+  atmosphere, it's ideal for casual lunches or evening dinners, ensuring a
+  comfortable experience for all visitors. The spot operates with flexible
+  hours, including weekends, allowing patrons to enjoy high-quality meals at
+  moderate prices. Whether you're in the mood for innovative sushi creations or
+  traditional Thai dishes, Teak OTR delivers a satisfying blend of taste and
+  ambiance that keeps locals returning.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Visitor Feedback on Teak OTR$$$Visitors often praise the tasty selection of
+  dishes at this Cincinnati favorite, highlighting flavorful options like crispy
+  duck and crab rangoon that hit the spot for a satisfying meal. Many appreciate
+  the friendly service and lively vibe, which make it a solid choice for groups
+  or anyone looking for a relaxed dining experience at reasonable prices. While
+  the sushi variety gets high marks for its freshness and creativity, some folks
+  note that certain items, such as Pad Thai, might not always pack the punch
+  they're expecting. Overall, the welcoming environment and solid food offerings
+  create a positive buzz, encouraging repeat visits for those exploring nearby
+  Thai and sushi spots. It's a dependable pick for anyone wanting good value
+  without the hassle, though keeping an eye on preferences can enhance the
+  experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +338,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

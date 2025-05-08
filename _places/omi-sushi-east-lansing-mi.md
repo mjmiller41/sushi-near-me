@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Omi Sushi"
+title: Omi Sushi
 permalink: /michigan/east-lansing/omi-sushi.html
 stateAbbr: MI
 stateName: Michigan
 cityName: East Lansing
 seo:
-  name: "Omi Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://omisushimi.com/
-description: "Sleek sushi house with modern decor offers a wide selection of classic fare & house rolls. Omi Sushi serves delicious sushi in East Lansing, Michigan. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJ228PwNTpIogRjzg_eVcPCR0
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 0
 website: http://omisushimi.com/
+description: >-
+  Discover Omi Sushi in East Lansing, MI$$$Omi Sushi in East Lansing, MI, stands
+  out as a contemporary spot for Japanese dining, featuring a sleek atmosphere
+  and a diverse array of fresh rolls and traditional dishes that appeal to sushi
+  enthusiasts. This restaurant offers an assortment of specialty sushi, sashimi,
+  noodles, and bento boxes, paired with options like sake for a complete meal
+  experience. Its modern decor creates an inviting environment, making it a
+  go-to choice for anyone seeking authentic Japanese flavors in a welcoming
+  setting. Accessibility features ensure it's easy for all guests to enjoy,
+  adding to its appeal as a reliable option for casual or special occasions.
+  Whether you're exploring local eateries or craving top-rated Japanese cuisine
+  nearby, Omi Sushi delivers a memorable dining experience with its thoughtful
+  menu selections.
+generative_summary: >-
+  Discover Omi Sushi in East Lansing, MI$$$Omi Sushi in East Lansing, MI, stands
+  out as a contemporary spot for Japanese dining, featuring a sleek atmosphere
+  and a diverse array of fresh rolls and traditional dishes that appeal to sushi
+  enthusiasts. This restaurant offers an assortment of specialty sushi, sashimi,
+  noodles, and bento boxes, paired with options like sake for a complete meal
+  experience. Its modern decor creates an inviting environment, making it a
+  go-to choice for anyone seeking authentic Japanese flavors in a welcoming
+  setting. Accessibility features ensure it's easy for all guests to enjoy,
+  adding to its appeal as a reliable option for casual or special occasions.
+  Whether you're exploring local eateries or craving top-rated Japanese cuisine
+  nearby, Omi Sushi delivers a memorable dining experience with its thoughtful
+  menu selections.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ228PwNTpIogRjzg_eVcPCR0/reviews/ChZDSUhNMG9nS0VJQ0FnSURuaV82RktBEAE
@@ -326,6 +351,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURIaV9Qa2lBRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURIaV9Qa2lBRRAB!2m1!1s0x8822e9d4c00f6fdb:0x1d090f57793f388f
+review_summary: >-
+  What Customers Are Sharing About Omi Sushi$$$Folks rave about the wide variety
+  of dishes at this spot, with fresh sushi and tasty options standing out as
+  real highlights for a satisfying meal. Many appreciate the quick service and
+  generous portions that make it feel like a great value, even if the seating
+  can get a bit cozy during busy times. While some mention that certain items
+  like ramen might not quite match up to other nearby places, the overall
+  flavors and desserts, such as mochi, keep things enjoyable and worth returning
+  for. It's clear that the friendly atmosphere and efficient staff contribute to
+  a positive vibe, helping it maintain its strong reputation among local diners.
+  All in all, if you're in the mood for solid Japanese fare that's consistently
+  reliable, this place offers a welcoming option that leaves most people pleased
+  with their visit.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidParkingLot: true
   paidStreetParking: true
@@ -358,8 +397,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Sleek sushi house with modern decor offers a wide selection of classic fare &
   house rolls.
 

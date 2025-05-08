@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Delight"
+title: Sushi Delight
 permalink: /california/san-francisco/sushi-delight.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
 seo:
-  name: "Sushi Delight"
-  type: Restaurant
-  links: null
-description: "Sushi Delight serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.sushidelightsf.net/?utm_source=gmb&utm_medium=website
 place_id: ChIJg7wKdqCAhYARBbUvZ2FivM0
 photos:
   - name: >-
@@ -168,8 +166,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x808580a0760abc83:0xcdbc6261672fb505!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: Closed'
+    - 'Tuesday: Closed'
+    - 'Wednesday: 5:00 – 10:00 PM'
+    - 'Thursday: 5:00 – 10:00 PM'
+    - 'Friday: 5:00 – 10:00 PM'
+    - 'Saturday: 5:00 – 10:00 PM'
+    - 'Sunday: 5:00 – 10:00 PM'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -177,13 +224,53 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (415) 621-3622
+price_level: PRICE_LEVEL_MODERATE
+price_range: $30 &ndash; $50
+rating: '3.9'
+rating_count: 194
+website: http://www.sushidelightsf.net/?utm_source=gmb&utm_medium=website
+description: >-
+  Explore Sushi Delight in San Francisco$$$Sushi Delight in San Francisco, CA,
+  stands out as a laid-back destination for fresh Japanese cuisine, drawing in
+  locals and visitors with its inviting atmosphere and diverse menu options.
+  This spot excels in offering an array of expertly prepared sushi and sashimi,
+  complemented by all-you-can-eat choices that cater to both casual diners and
+  those seeking a flavorful feast. Accessibility features like
+  wheelchair-friendly entrances and seating make it a welcoming choice for
+  everyone looking to enjoy top sushi experiences in the area. The restaurant's
+  focus on quality ingredients and variety ensures a satisfying meal, whether
+  you're in the mood for classic rolls or innovative twists. Nestled in a
+  vibrant neighborhood, it's an ideal stop for anyone exploring sushi places
+  nearby that blend tradition with everyday convenience.
+generative_summary: >-
+  Explore Sushi Delight in San Francisco$$$Sushi Delight in San Francisco, CA,
+  stands out as a laid-back destination for fresh Japanese cuisine, drawing in
+  locals and visitors with its inviting atmosphere and diverse menu options.
+  This spot excels in offering an array of expertly prepared sushi and sashimi,
+  complemented by all-you-can-eat choices that cater to both casual diners and
+  those seeking a flavorful feast. Accessibility features like
+  wheelchair-friendly entrances and seating make it a welcoming choice for
+  everyone looking to enjoy top sushi experiences in the area. The restaurant's
+  focus on quality ingredients and variety ensures a satisfying meal, whether
+  you're in the mood for classic rolls or innovative twists. Nestled in a
+  vibrant neighborhood, it's an ideal stop for anyone exploring sushi places
+  nearby that blend tradition with everyday convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors to Sushi Delight often highlight the
+  solid variety of dishes and good value for the price, making it a go-to for
+  those craving fresh sushi without breaking the bank. Many appreciate the
+  all-you-can-eat deals and the overall casual vibe that keeps things relaxed
+  and enjoyable, though some note that service can vary depending on the time of
+  visit. Overall, the consensus leans positive with praise for the quality of
+  the fish and creative options that satisfy sushi lovers on a budget. While not
+  every experience is flawless, folks frequently mention it as a reliable spot
+  for groups or solo diners seeking authentic flavors in a welcoming setting. If
+  you're hunting for tasty Japanese eats nearby, this place generally delivers a
+  worthwhile experience that keeps customers coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -209,7 +296,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

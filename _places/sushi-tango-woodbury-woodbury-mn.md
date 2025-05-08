@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Tango Woodbury"
+title: Sushi Tango Woodbury
 permalink: /minnesota/woodbury/sushi-tango-woodbury.html
 stateAbbr: MN
 stateName: Minnesota
 cityName: Woodbury
 seo:
-  name: "Sushi Tango Woodbury"
-  type: Restaurant
+  type: restaurant
   links: https://sushitangorestaurant.com/
-description: "Casual, upbeat strip-mall restaurant featuring a large menu of sushi & other Japanese specialties. Sushi Tango Woodbury serves delicious sushi in Woodbury, Minnesota. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ7w_kLSDY94cRYTNjiDPPJa8
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: null
 rating: '3.8'
 rating_count: 0
 website: https://sushitangorestaurant.com/
+description: >-
+  Discover Sushi Tango in Woodbury, MN$$$Sushi Tango in Woodbury, MN, stands out
+  as a casual destination for fresh Japanese cuisine, offering a welcoming
+  atmosphere in a convenient strip-mall setting. This spot excels with its
+  diverse selection of sushi and other traditional dishes, complemented by
+  options like beer, wine, and cocktails that enhance the dining experience.
+  Visitors appreciate the accessible features, such as wheelchair-friendly
+  parking and entrances, making it easy for everyone to enjoy meals in a relaxed
+  environment. Whether you're searching for sushi restaurants near you or
+  craving top-rated Japanese places, this location delivers flavorful options
+  that highlight quality ingredients and variety. It's an ideal choice for those
+  exploring sushi close to me in the area, with a focus on satisfying meals that
+  keep diners coming back.
+generative_summary: >-
+  Discover Sushi Tango in Woodbury, MN$$$Sushi Tango in Woodbury, MN, stands out
+  as a casual destination for fresh Japanese cuisine, offering a welcoming
+  atmosphere in a convenient strip-mall setting. This spot excels with its
+  diverse selection of sushi and other traditional dishes, complemented by
+  options like beer, wine, and cocktails that enhance the dining experience.
+  Visitors appreciate the accessible features, such as wheelchair-friendly
+  parking and entrances, making it easy for everyone to enjoy meals in a relaxed
+  environment. Whether you're searching for sushi restaurants near you or
+  craving top-rated Japanese places, this location delivers flavorful options
+  that highlight quality ingredients and variety. It's an ideal choice for those
+  exploring sushi close to me in the area, with a focus on satisfying meals that
+  keep diners coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ7w_kLSDY94cRYTNjiDPPJa8/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3cjYyRnJnRRAB
@@ -344,6 +369,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURKOXZPMjRRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURKOXZPMjRRRRAB!2m1!1s0x87f7d8202de40fef:0xaf25cf3388633361
+review_summary: >-
+  What Customers Are Saying$$$Folks visiting this sushi spot often rave about
+  the standout rolls and fresh flavors that hit the spot for everyday cravings,
+  making it a go-to for satisfying meals. Many appreciate the accommodating
+  service, especially for those with dietary needs, though some mention the vibe
+  can feel a bit lively or inconsistent at times. Overall, it's seen as a solid
+  pick for groups or quick bites, with reasonable prices during specials that
+  add to the appeal. If you're on the hunt for the best sushi near me, reviews
+  highlight reliable dishes that bring a mix of excitement and comfort to the
+  table. In a nutshell, it's a welcoming place that delivers good value and
+  tasty options, encouraging repeat visits despite minor hiccups.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   valetParking: false
@@ -374,8 +411,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Casual, upbeat strip-mall restaurant featuring a large menu of sushi & other
   Japanese specialties.
 

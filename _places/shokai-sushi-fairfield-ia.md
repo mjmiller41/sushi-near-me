@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Shokai Sushi"
+title: Shokai Sushi
 permalink: /iowa/fairfield/shokai-sushi.html
 stateAbbr: IA
 stateName: Iowa
 cityName: Fairfield
 seo:
-  name: "Shokai Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://m.facebook.com/shokaisushi/
-description: "Shokai Sushi serves delicious sushi in Fairfield, Iowa. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJ4bRp4Wtm5ocR7iMIC21T4uY
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 0
 website: https://m.facebook.com/shokaisushi/
+description: >-
+  Discover Shokai Sushi in Fairfield, IA$$$Shokai Sushi in Fairfield, IA, stands
+  out as a welcoming Japanese dining spot where fresh sushi and flavorful Asian
+  dishes take center stage. This casual eatery offers a variety of rolls and
+  plates paired with a selection of beers, wines, and cocktails, making it an
+  ideal choice for those seeking authentic flavors in a relaxed setting.
+  Accessibility features like wheelchair-friendly entrances and seating add to
+  the convenience, ensuring everyone can enjoy the experience. The inviting
+  atmosphere, highlighted by photos of vibrant meals, appeals to anyone
+  exploring sushi options nearby, blending traditional tastes with modern
+  comforts for a satisfying meal.
+generative_summary: >-
+  Discover Shokai Sushi in Fairfield, IA$$$Shokai Sushi in Fairfield, IA, stands
+  out as a welcoming Japanese dining spot where fresh sushi and flavorful Asian
+  dishes take center stage. This casual eatery offers a variety of rolls and
+  plates paired with a selection of beers, wines, and cocktails, making it an
+  ideal choice for those seeking authentic flavors in a relaxed setting.
+  Accessibility features like wheelchair-friendly entrances and seating add to
+  the convenience, ensuring everyone can enjoy the experience. The inviting
+  atmosphere, highlighted by photos of vibrant meals, appeals to anyone
+  exploring sushi options nearby, blending traditional tastes with modern
+  comforts for a satisfying meal.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ4bRp4Wtm5ocR7iMIC21T4uY/reviews/ChZDSUhNMG9nS0VJQ0FnSURQc3NxQUlnEAE
@@ -402,6 +423,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURvbExLYU53EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURvbExLYU53EAE!2m1!1s0x87e6666be169b4e1:0xe6e2536d0b0823ee
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this sushi spot often rave about the
+  fresh fish and creative specials that keep things exciting, making it a go-to
+  for tasty Japanese favorites. While some folks note that service can vary from
+  smooth to a bit slow during busier times, many appreciate the clean
+  environment and straightforward menu that makes ordering a breeze. Overall,
+  the consensus leans positive, with plenty of praise for the quality of the
+  food that stands out in the area, encouraging repeat visits for those craving
+  reliable sushi options. It's worth checking out if you're in the mood for
+  something flavorful, though planning ahead might help avoid any occasional
+  waits.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -432,7 +465,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

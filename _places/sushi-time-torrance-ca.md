@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Time"
+title: Sushi Time
 permalink: /california/torrance/sushi-time.html
 stateAbbr: CA
 stateName: California
 cityName: Torrance
 seo:
-  name: "Sushi Time"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi Time serves delicious sushi in Torrance, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJXUaPQm9L3YARxRDGcpdK0uM
 photos:
   - name: >-
@@ -185,7 +183,41 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Experience Sushi Time in Torrance, CA$$$Sushi Time in Torrance, CA, stands out
+  as a convenient counter-serve spot specializing in fresh sushi and sashimi
+  options perfect for takeout. This eatery focuses on a straightforward menu
+  that highlights high-quality ingredients and a variety of rolls designed to
+  satisfy sushi enthusiasts looking for something quick and flavorful. With its
+  emphasis on made-to-order dishes, it's an ideal choice for those seeking
+  authentic Japanese-inspired meals without the fuss of a full dining
+  experience. The takeout-friendly setup makes it easy to enjoy top-rated sushi
+  options right in your neighborhood, appealing to anyone searching for reliable
+  sushi restaurants nearby.
+generative_summary: >-
+  Experience Sushi Time in Torrance, CA$$$Sushi Time in Torrance, CA, stands out
+  as a convenient counter-serve spot specializing in fresh sushi and sashimi
+  options perfect for takeout. This eatery focuses on a straightforward menu
+  that highlights high-quality ingredients and a variety of rolls designed to
+  satisfy sushi enthusiasts looking for something quick and flavorful. With its
+  emphasis on made-to-order dishes, it's an ideal choice for those seeking
+  authentic Japanese-inspired meals without the fuss of a full dining
+  experience. The takeout-friendly setup makes it easy to enjoy top-rated sushi
+  options right in your neighborhood, appealing to anyone searching for reliable
+  sushi restaurants nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback on Sushi Time$$$Visitors often rave about the tasty sushi
+  rolls at this spot, with highlights including fresh flavors and affordable
+  prices that make it a go-to for casual meals. Folks appreciate the wide
+  selection of options, like creative rolls that feel both innovative and
+  satisfying, helping it stand out among local Japanese places. Service is
+  frequently noted for being friendly and efficient, adding to the overall
+  enjoyable vibe without any unnecessary delays. Overall, it's praised as a
+  solid pick for anyone craving quality sushi on the go, blending convenience
+  with great taste in a way that keeps people coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +243,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

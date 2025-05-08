@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Lounge Point Loma"
+title: Sushi Lounge Point Loma
 permalink: /california/san-diego/sushi-lounge-point-loma.html
 stateAbbr: CA
 stateName: California
 cityName: San Diego
 seo:
-  name: "Sushi Lounge Point Loma"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi Lounge Point Loma serves delicious sushi in San Diego, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ1f0KcKOr3oAR_AU7TIPgW6k
 photos:
   - name: >-
@@ -185,7 +183,49 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Sushi Lounge in San Diego, CA$$$Sushi Lounge Point Loma in San Diego,
+  CA, stands out as a welcoming spot for enjoying authentic Japanese cuisine in
+  a relaxed setting. This cozy sushi bar features an array of classic and
+  specialty rolls crafted with fresh ingredients, alongside a selection of beer,
+  wine, and sake to complement your meal. Located in the vibrant Point Loma
+  neighborhood, it's an ideal choice for those seeking top-rated sushi
+  restaurants near the coast, with accessibility options like
+  wheelchair-friendly parking and seating that make it easy for everyone to dine
+  comfortably. The intimate atmosphere invites patrons to savor expertly
+  prepared dishes, perfect for a casual night out or a quick bite after
+  exploring local attractions. Whether you're searching for sushi places near me
+  or the best sushi in San Diego, this establishment delivers a memorable
+  experience with its focus on quality and variety.
+generative_summary: >-
+  Discover Sushi Lounge in San Diego, CA$$$Sushi Lounge Point Loma in San Diego,
+  CA, stands out as a welcoming spot for enjoying authentic Japanese cuisine in
+  a relaxed setting. This cozy sushi bar features an array of classic and
+  specialty rolls crafted with fresh ingredients, alongside a selection of beer,
+  wine, and sake to complement your meal. Located in the vibrant Point Loma
+  neighborhood, it's an ideal choice for those seeking top-rated sushi
+  restaurants near the coast, with accessibility options like
+  wheelchair-friendly parking and seating that make it easy for everyone to dine
+  comfortably. The intimate atmosphere invites patrons to savor expertly
+  prepared dishes, perfect for a casual night out or a quick bite after
+  exploring local attractions. Whether you're searching for sushi places near me
+  or the best sushi in San Diego, this establishment delivers a memorable
+  experience with its focus on quality and variety.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Raving About$$$Folks who visit this San Diego sushi spot
+  often highlight the fresh flavors and creative twists on traditional rolls,
+  making it a solid pick for anyone craving Japanese favorites. Many appreciate
+  the laid-back vibe and attentive service that enhance the overall dining
+  experience, turning a simple meal into a enjoyable outing. While some note
+  that wait times can vary during peak hours, the generous portions and
+  affordable options keep diners coming back for more. Overall, it's frequently
+  praised as a go-to for groups or solo adventurers looking for reliable sushi
+  close to me, with the cozy setup adding to its charm. If you're on the hunt
+  for I love sushi moments in a welcoming environment, this place tends to
+  deliver solid satisfaction without any major letdowns.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +251,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

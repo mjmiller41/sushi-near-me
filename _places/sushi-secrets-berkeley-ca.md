@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Secrets"
+title: Sushi Secrets
 permalink: /california/berkeley/sushi-secrets.html
 stateAbbr: CA
 stateName: California
 cityName: Berkeley
 seo:
-  name: "Sushi Secrets"
-  type: Restaurant
+  type: restaurant
   links: http://sushisecrets.net/
-description: "Sushi Secrets serves delicious sushi in Berkeley, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ4-b6gZ5-hYAR4uHSfbjytr4
 photos:
   - name: >-
@@ -169,7 +167,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80857e9e81fae6e3:0xbeb6f2b87dd2e1e2!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 20
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 20
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 20
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 8:00 PM'
     - 'Tuesday: 11:00 AM – 8:00 PM'
     - 'Wednesday: 11:00 AM – 8:00 PM'
@@ -177,54 +225,268 @@ opening_hours:
     - 'Friday: 11:00 AM – 8:00 PM'
     - 'Saturday: 11:00 AM – 8:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:00 AM – 8:00 PM'
-    - 'Tuesday: 11:00 AM – 8:00 PM'
-    - 'Wednesday: 11:00 AM – 8:00 PM'
-    - 'Thursday: 11:00 AM – 8:00 PM'
-    - 'Friday: 11:00 AM – 8:00 PM'
-    - 'Saturday: 11:00 AM – 8:00 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 1
+          hour: 11
+          minute: 0
+        close:
+          day: 1
+          hour: 20
+          minute: 0
+      - open:
+          day: 2
+          hour: 11
+          minute: 0
+        close:
+          day: 2
+          hour: 20
+          minute: 0
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 20
+          minute: 0
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 20
+          minute: 0
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 20
+          minute: 0
+      - open:
+          day: 6
+          hour: 11
+          minute: 0
+        close:
+          day: 6
+          hour: 20
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 11:00 AM – 8:00 PM'
+      - 'Tuesday: 11:00 AM – 8:00 PM'
+      - 'Wednesday: 11:00 AM – 8:00 PM'
+      - 'Thursday: 11:00 AM – 8:00 PM'
+      - 'Friday: 11:00 AM – 8:00 PM'
+      - 'Saturday: 11:00 AM – 8:00 PM'
+      - 'Sunday: Closed'
+    secondaryHoursType: TAKEOUT
+    nextCloseTime: '2025-05-04T03:00:00Z'
 phone: (510) 529-4647
 price_level: PRICE_LEVEL_INEXPENSIVE
 price_range: $10 &ndash; $20
 rating: '4.2'
-rating_count: 0
+rating_count: 147
 website: http://sushisecrets.net/
-reviews: null
+description: >-
+  Discover Sushi Secrets in Berkeley, CA$$$Nestled in the vibrant city of
+  Berkeley, CA, Sushi Secrets offers a delightful escape into fresh Japanese
+  cuisine with a focus on innovative dishes like sushi burritos and poke bowls.
+  This unassuming spot boasts a cozy counter-serve setup with accessible
+  features such as wheelchair-friendly entrances and seating, making it
+  welcoming for all visitors. Patrons can enjoy a variety of options including
+  flavorful rolls and bowls, paired with outdoor seating and a casual atmosphere
+  perfect for quick meals or groups. The restaurant maintains convenient hours
+  from late morning through evening, serving up affordable eats that highlight
+  quality ingredients and a touch of creativity. Whether you're seeking sushi
+  places near me for a satisfying lunch or dinner, this spot delivers on taste
+  and convenience in a laid-back setting.
+generative_summary: >-
+  Discover Sushi Secrets in Berkeley, CA$$$Nestled in the vibrant city of
+  Berkeley, CA, Sushi Secrets offers a delightful escape into fresh Japanese
+  cuisine with a focus on innovative dishes like sushi burritos and poke bowls.
+  This unassuming spot boasts a cozy counter-serve setup with accessible
+  features such as wheelchair-friendly entrances and seating, making it
+  welcoming for all visitors. Patrons can enjoy a variety of options including
+  flavorful rolls and bowls, paired with outdoor seating and a casual atmosphere
+  perfect for quick meals or groups. The restaurant maintains convenient hours
+  from late morning through evening, serving up affordable eats that highlight
+  quality ingredients and a touch of creativity. Whether you're seeking sushi
+  places near me for a satisfying lunch or dinner, this spot delivers on taste
+  and convenience in a laid-back setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ4-b6gZ5-hYAR4uHSfbjytr4/reviews/ChdDSUhNMG9nS0VJQ0FnTUNvaW9xZTd3RRAB
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        Made a Sushi Secrets shortcut with my sushi burrito and seaweed salad
+        order on my phone. So good. 🙌🏽
+      languageCode: en
+    originalText:
+      text: >-
+        Made a Sushi Secrets shortcut with my sushi burrito and seaweed salad
+        order on my phone. So good. 🙌🏽
+      languageCode: en
+    authorAttribution:
+      displayName: Animal Man
+      uri: https://www.google.com/maps/contrib/115032442856295985705/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVsAc4giwYpwxttjvQYN1xEwsZoYpMGSpaEfGL24rx8rCftabqd=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-16T05:35:35.146925Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNvaW9xZTd3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNvaW9xZTd3RRAB!2m1!1s0x80857e9e81fae6e3:0xbeb6f2b87dd2e1e2
+  - name: >-
+      places/ChIJ4-b6gZ5-hYAR4uHSfbjytr4/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ3ZzhYTHJnRRAB
+    relativePublishTimeDescription: 8 months ago
+    rating: 5
+    text:
+      text: >-
+        Freshest sushi I’ve had in a long time! Great prices and solid servings.
+        Menu has so many options and toppings. Friendly staff too :)
+      languageCode: en
+    originalText:
+      text: >-
+        Freshest sushi I’ve had in a long time! Great prices and solid servings.
+        Menu has so many options and toppings. Friendly staff too :)
+      languageCode: en
+    authorAttribution:
+      displayName: Hunter Wiley
+      uri: https://www.google.com/maps/contrib/108242312288392624268/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXKdxR5c-izTX8pYQ3uehawjtNTJUGPjjmUVWUZzHTWdjCr07wP=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-08-27T19:20:56.937298Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQ3ZzhYTHJnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQ3ZzhYTHJnRRAB!2m1!1s0x80857e9e81fae6e3:0xbeb6f2b87dd2e1e2
+  - name: >-
+      places/ChIJ4-b6gZ5-hYAR4uHSfbjytr4/reviews/ChZDSUhNMG9nS0VJQ0FnTURvaFlyaVRBEAE
+    relativePublishTimeDescription: a week ago
+    rating: 3
+    text:
+      text: >-
+        Overpriced. Giant, poorly-cut rolls. Sushi rice sticks to the bowl
+        instead of the sushi itself. I think they must be more famous for their
+        sushi burritos than their sushi.
+      languageCode: en
+    originalText:
+      text: >-
+        Overpriced. Giant, poorly-cut rolls. Sushi rice sticks to the bowl
+        instead of the sushi itself. I think they must be more famous for their
+        sushi burritos than their sushi.
+      languageCode: en
+    authorAttribution:
+      displayName: Amy Kim
+      uri: https://www.google.com/maps/contrib/100486100208206197519/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLwAKoVDk-yJDnaaebHI1ACObiDN2aLaybDf_ObDP3wFeHTgw=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-26T19:50:44.387940Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURvaFlyaVRBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURvaFlyaVRBEAE!2m1!1s0x80857e9e81fae6e3:0xbeb6f2b87dd2e1e2
+  - name: >-
+      places/ChIJ4-b6gZ5-hYAR4uHSfbjytr4/reviews/ChZDSUhNMG9nS0VJQ0FnSUNYNlpIaVV3EAE
+    relativePublishTimeDescription: 6 months ago
+    rating: 5
+    text:
+      text: >-
+        I’ve ordered from this place multiple times, and it’s amazing every
+        single time. Their sushi burritos are fresh, flavorful, and filling. The
+        service is always quick and friendly, especially when there’s not a long
+        line (though it does get busy during lunchtime). Highly recommend!
+      languageCode: en
+    originalText:
+      text: >-
+        I’ve ordered from this place multiple times, and it’s amazing every
+        single time. Their sushi burritos are fresh, flavorful, and filling. The
+        service is always quick and friendly, especially when there’s not a long
+        line (though it does get busy during lunchtime). Highly recommend!
+      languageCode: en
+    authorAttribution:
+      displayName: Jackie Liang
+      uri: https://www.google.com/maps/contrib/115061834611855203924/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJaHFkrIsZ_5IjgWT84D5zk6tfqCXInyOBnBhq3eiDiu_OFaA=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-10-18T06:11:45.559092Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNYNlpIaVV3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNYNlpIaVV3EAE!2m1!1s0x80857e9e81fae6e3:0xbeb6f2b87dd2e1e2
+  - name: >-
+      places/ChIJ4-b6gZ5-hYAR4uHSfbjytr4/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ1c3FtRHdBRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 4
+    text:
+      text: Good food at a decent price. Poke bowl was loaded and tasty.
+      languageCode: en
+    originalText:
+      text: Good food at a decent price. Poke bowl was loaded and tasty.
+      languageCode: en
+    authorAttribution:
+      displayName: Loc Nguyen
+      uri: https://www.google.com/maps/contrib/109824497639869616523/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKzEoqvjJ2cetXE3sr9u8EfZTYb87XRg990VWXop6cfAw2-=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2023-10-22T03:58:58.944740Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQ1c3FtRHdBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQ1c3FtRHdBRRAB!2m1!1s0x80857e9e81fae6e3:0xbeb6f2b87dd2e1e2
+review_summary: >-
+  Feedback from Diners$$$Folks rave about the fresh and flavorful sushi options,
+  especially the hearty burritos and poke bowls that make for a filling and
+  enjoyable meal. Many appreciate the great value and wide selection of
+  toppings, along with quick service that keeps things running smoothly even
+  during busy times. While some mention that portions can feel a bit oversized
+  or uneven, the overall experience leans positive with highlights on the tasty
+  ingredients and friendly vibe. It's clear that this spot stands out for its
+  reliable quality and variety, drawing in those hunting for top-rated sushi
+  near me. All in all, the consensus is that it's a solid choice for casual
+  dining, with most visitors leaving satisfied and eager to return.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
-payment_options: null
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
+curbside_pickup: true
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: true
 reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
+restroom: true
+serves_beer: true
+serves_breakfast: false
 serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
+serves_cocktails: false
+serves_coffee: false
+serves_dinner: true
 serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: false
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Unassuming counter-serve nook with a modest seating area offering sushi
+  burritos & poke bowls.
 
 ---

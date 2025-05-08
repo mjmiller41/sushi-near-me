@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Asaka Sushi and Grill"
+title: Asaka Sushi and Grill
 permalink: /california/redondo-beach/asaka-sushi-and-grill.html
 stateAbbr: CA
 stateName: California
 cityName: Redondo Beach
 seo:
-  name: "Asaka Sushi and Grill"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Asaka Sushi and Grill serves delicious sushi in Redondo Beach, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJd2R1BFpL3YARAQVURKSVFpw
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80dd4b5a04756477:0x9c1695a444540501!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 12
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 12:00 – 9:30 PM'
     - 'Tuesday: 11:30 AM – 9:30 PM'
     - 'Wednesday: 11:30 AM – 9:30 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 10:00 PM'
     - 'Saturday: 12:00 – 10:00 PM'
     - 'Sunday: 12:00 – 9:30 PM'
-  current:
-    - 'Monday: 12:00 – 9:30 PM'
-    - 'Tuesday: 11:30 AM – 9:30 PM'
-    - 'Wednesday: 11:30 AM – 9:30 PM'
-    - 'Thursday: 11:30 AM – 9:30 PM'
-    - 'Friday: 11:30 AM – 10:00 PM'
-    - 'Saturday: 12:00 – 10:00 PM'
-    - 'Sunday: 12:00 – 9:30 PM'
+  nextCloseTime: '2025-05-04T05:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,244 @@ phone: (310) 373-5999
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.4'
-rating_count: 0
+rating_count: 229
 website: null
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Explore Asaka Sushi and Grill in Redondo Beach$$$Asaka Sushi and Grill in
+  Redondo Beach, CA, stands out as a welcoming Japanese restaurant offering
+  fresh sushi rolls and grilled favorites in a modern, comfortable setting. With
+  outdoor seating options and accessibility features like wheelchair-friendly
+  entrances and parking, it's an ideal spot for casual dining or gatherings. The
+  menu highlights high-quality ingredients, including buttery fish and
+  beautifully presented dishes that capture the essence of authentic Japanese
+  cuisine. Open for lunch and dinner throughout the week, this spot provides a
+  relaxed atmosphere perfect for enjoying top sushi selections near the coast.
+  Visitors often appreciate the variety of options that make it a go-to choice
+  for Japanese dining in the area.
+generative_summary: >-
+  Explore Asaka Sushi and Grill in Redondo Beach$$$Asaka Sushi and Grill in
+  Redondo Beach, CA, stands out as a welcoming Japanese restaurant offering
+  fresh sushi rolls and grilled favorites in a modern, comfortable setting. With
+  outdoor seating options and accessibility features like wheelchair-friendly
+  entrances and parking, it's an ideal spot for casual dining or gatherings. The
+  menu highlights high-quality ingredients, including buttery fish and
+  beautifully presented dishes that capture the essence of authentic Japanese
+  cuisine. Open for lunch and dinner throughout the week, this spot provides a
+  relaxed atmosphere perfect for enjoying top sushi selections near the coast.
+  Visitors often appreciate the variety of options that make it a go-to choice
+  for Japanese dining in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJd2R1BFpL3YARAQVURKSVFpw/reviews/ChZDSUhNMG9nS0VJQ0FnTURnaDRiUE13EAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        I have been a customer here for years and it never disappoints! Had the
+        best time at dinner on Wednesday w friends and family thanks to our kind
+        waiter and staff! The fish is so fresh and presentation of rolls and
+        sashimi is beautiful. A little gem in the riviera
+      languageCode: en
+    originalText:
+      text: >-
+        I have been a customer here for years and it never disappoints! Had the
+        best time at dinner on Wednesday w friends and family thanks to our kind
+        waiter and staff! The fish is so fresh and presentation of rolls and
+        sashimi is beautiful. A little gem in the riviera
+      languageCode: en
+    authorAttribution:
+      displayName: Keliah Chaney
+      uri: https://www.google.com/maps/contrib/116492967064638952465/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXMRLO7dktgBNpedPEs-Ta--wd8UTfUTc8ai5KRZ4hk2LViMWJ-ug=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-02-27T23:10:24.561438Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURnaDRiUE13EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURnaDRiUE13EAE!2m1!1s0x80dd4b5a04756477:0x9c1695a444540501
+  - name: >-
+      places/ChIJd2R1BFpL3YARAQVURKSVFpw/reviews/ChZDSUhNMG9nS0VJQ0FnSURmMDVXYmRBEAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        The sushi is delicious. The fish is so buttery in your mouth. We got a
+        piece of matcha cheescake that was delicious too!
+
+        The service is excellent, and the waitresses and the owner are very
+        attentive. There were plenty of tables on a Thursday night, so no need
+        for reservations.
+      languageCode: en
+    originalText:
+      text: >-
+        The sushi is delicious. The fish is so buttery in your mouth. We got a
+        piece of matcha cheescake that was delicious too!
+
+        The service is excellent, and the waitresses and the owner are very
+        attentive. There were plenty of tables on a Thursday night, so no need
+        for reservations.
+      languageCode: en
+    authorAttribution:
+      displayName: Edlin Gonzalez
+      uri: https://www.google.com/maps/contrib/101878748680260537021/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVWH3VzX0IshFiTeABFMW_lmzhszKAryHFwyo_WItbMHhMH3GdG=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-01-10T04:01:20.705437Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURmMDVXYmRBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURmMDVXYmRBEAE!2m1!1s0x80dd4b5a04756477:0x9c1695a444540501
+  - name: >-
+      places/ChIJd2R1BFpL3YARAQVURKSVFpw/reviews/ChdDSUhNMG9nS0VJQ0FnSUNmOXVtNm9RRRAB
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        Osaka Sushi never disappoints! I’ve been here a few times, and the
+        service is always amazing. The staff is friendly, attentive, and makes
+        sure you have a great dining experience.
+
+
+        I usually go for the Premium Rainbow Roll, which is consistently fresh
+        and delicious, but this time, we decided to try their happy hour
+        menu—and it did not disappoint! The serving sizes were perfect, and the
+        variety of rolls available is impressive. If you’re a roll lover like
+        me, you’ll definitely find something to enjoy here.
+
+
+        The food is always beautifully presented and tastes as good as it looks.
+        Definitely one of my favorite sushi spots!
+      languageCode: en
+    originalText:
+      text: >-
+        Osaka Sushi never disappoints! I’ve been here a few times, and the
+        service is always amazing. The staff is friendly, attentive, and makes
+        sure you have a great dining experience.
+
+
+        I usually go for the Premium Rainbow Roll, which is consistently fresh
+        and delicious, but this time, we decided to try their happy hour
+        menu—and it did not disappoint! The serving sizes were perfect, and the
+        variety of rolls available is impressive. If you’re a roll lover like
+        me, you’ll definitely find something to enjoy here.
+
+
+        The food is always beautifully presented and tastes as good as it looks.
+        Definitely one of my favorite sushi spots!
+      languageCode: en
+    authorAttribution:
+      displayName: Benjamin Schramm
+      uri: https://www.google.com/maps/contrib/109707317024097196940/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVYnwR7mBnudxltTxSJ2wS4QrpHY9IFn0l06gz6DggNjCKY5Eki=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-12-29T00:31:09.490916Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNmOXVtNm9RRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNmOXVtNm9RRRAB!2m1!1s0x80dd4b5a04756477:0x9c1695a444540501
+  - name: >-
+      places/ChIJd2R1BFpL3YARAQVURKSVFpw/reviews/ChdDSUhNMG9nS0VJQ0FnSUN2OGVlTm1RRRAB
+    relativePublishTimeDescription: 4 months ago
+    rating: 3
+    text:
+      text: >-
+        We were trying to go across the street to a different place that I heard
+        rave reviews about, but it was closed so we ended up here which was
+        fine.I think we ended up ordering not quite right.We got the buy one,
+        get 1 roll half price so we were a little full.It was nice, but we
+        should have tried.Their sushi also had the seaweed cucumber salad which
+        was great
+      languageCode: en
+    originalText:
+      text: >-
+        We were trying to go across the street to a different place that I heard
+        rave reviews about, but it was closed so we ended up here which was
+        fine.I think we ended up ordering not quite right.We got the buy one,
+        get 1 roll half price so we were a little full.It was nice, but we
+        should have tried.Their sushi also had the seaweed cucumber salad which
+        was great
+      languageCode: en
+    authorAttribution:
+      displayName: Sue Sublette
+      uri: https://www.google.com/maps/contrib/112183314874035787238/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWp4NW4RarMun-6tOdNf7jkpUzF9EC12j6I_F1Rwkd3m09_vd3hJA=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-12-12T05:56:18.282737Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN2OGVlTm1RRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN2OGVlTm1RRRAB!2m1!1s0x80dd4b5a04756477:0x9c1695a444540501
+  - name: >-
+      places/ChIJd2R1BFpL3YARAQVURKSVFpw/reviews/ChZDSUhNMG9nS0VJQ0FnSUN6enJTc0ZREAE
+    relativePublishTimeDescription: in the last week
+    rating: 3
+    text:
+      text: >-
+        Pretty good sushi and great staff. Very welcoming and attentive. Great
+        location in Redondo.
+      languageCode: en
+    originalText:
+      text: >-
+        Pretty good sushi and great staff. Very welcoming and attentive. Great
+        location in Redondo.
+      languageCode: en
+    authorAttribution:
+      displayName: Nikole Reed
+      uri: https://www.google.com/maps/contrib/101046431968320945750/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUimAKa0aaNIkY78qu7t2skGM_Q2S-3RYGHgXMUVU7VJrJq6kA4GA=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-27T01:55:35.138552Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN6enJTc0ZREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN6enJTc0ZREAE!2m1!1s0x80dd4b5a04756477:0x9c1695a444540501
+review_summary: >-
+  Customer Feedback on Asaka Sushi$$$People generally rave about the fresh and
+  flavorful sushi rolls at this spot, with many highlighting how the fish melts
+  in your mouth and pairs well with creative presentations. The service stands
+  out as friendly and attentive, making meals feel more enjoyable and welcoming
+  for groups or families stopping by. While most feedback praises the clean
+  environment and solid happy hour deals, a few note that portions might vary,
+  but overall, it's seen as a reliable pick for tasty Japanese eats. If you're
+  searching for sushi restaurants in Redondo Beach, this place often comes up as
+  a solid option with a vibe that's both casual and inviting. In short, it's a
+  favorite for those craving quality sushi without the fuss, earning high marks
+  for its overall experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
 menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
 serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
+serves_brunch: false
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Sushi rolls & other Japanese faves presented in a comfy, contemporary setting
+  with outdoor tables.
 
 ---

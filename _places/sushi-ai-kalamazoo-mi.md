@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Ai"
+title: Sushi Ai
 permalink: /michigan/kalamazoo/sushi-ai.html
 stateAbbr: MI
 stateName: Michigan
 cityName: Kalamazoo
 seo:
-  name: "Sushi Ai"
-  type: Restaurant
-  links: null
-description: "Sushi Ai serves delicious sushi in Kalamazoo, Michigan. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.sushiaikalamazoo.com/
 place_id: ChIJFWh3HT53F4gR6i5Unygorr8
 photos:
   - name: >-
@@ -170,8 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8817773e1d776815:0xbfae28289f542eea!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: Closed'
+    - 'Tuesday: 11:00 AM – 10:00 PM'
+    - 'Wednesday: 11:00 AM – 10:00 PM'
+    - 'Thursday: 11:00 AM – 10:00 PM'
+    - 'Friday: 11:00 AM – 10:00 PM'
+    - 'Saturday: 11:00 AM – 10:00 PM'
+    - 'Sunday: 12:00 – 10:30 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +234,53 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
+phone: (269) 888-2130
 price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+price_range: $10 &ndash; $20
+rating: '4.4'
+rating_count: 182
+website: https://www.sushiaikalamazoo.com/
+description: >-
+  Discover Sushi Ai in Kalamazoo, MI$$$Sushi Ai in Kalamazoo, Michigan, stands
+  out as a welcoming spot for enjoying fresh Japanese cuisine, particularly its
+  array of specialty rolls and tasty appetizers that cater to a variety of
+  tastes. This casual eatery offers an all-you-can-eat option, making it a great
+  choice for those seeking value without sacrificing quality in their dining
+  experience. Located in a convenient neighborhood, it features accessible
+  amenities that enhance visits for everyone, ensuring a comfortable atmosphere
+  for savoring flavorful dishes. Whether you're exploring sushi places nearby or
+  looking for reliable Japanese options in the area, Sushi Ai delivers a
+  straightforward yet enjoyable meal that highlights creative flavors and
+  attentive presentation.
+generative_summary: >-
+  Discover Sushi Ai in Kalamazoo, MI$$$Sushi Ai in Kalamazoo, Michigan, stands
+  out as a welcoming spot for enjoying fresh Japanese cuisine, particularly its
+  array of specialty rolls and tasty appetizers that cater to a variety of
+  tastes. This casual eatery offers an all-you-can-eat option, making it a great
+  choice for those seeking value without sacrificing quality in their dining
+  experience. Located in a convenient neighborhood, it features accessible
+  amenities that enhance visits for everyone, ensuring a comfortable atmosphere
+  for savoring flavorful dishes. Whether you're exploring sushi places nearby or
+  looking for reliable Japanese options in the area, Sushi Ai delivers a
+  straightforward yet enjoyable meal that highlights creative flavors and
+  attentive presentation.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About Sushi Ai$$$Folks exploring sushi spots around
+  Kalamazoo often appreciate the solid vibe at this local favorite, with many
+  highlighting the fresh ingredients and well-prepared rolls that keep things
+  satisfying. Based on the overall positive buzz from visitors, it seems the
+  variety of options and reasonable pricing make it a go-to for casual meals or
+  group outings. While some mention occasional waits during peak times, the
+  general feedback leans toward enjoying the welcoming service and tasty
+  selections that leave diners feeling content. If you're on the hunt for
+  top-rated sushi near you, this place generally earns nods for its reliable
+  flavors and approachable setting, making it a worthwhile stop for anyone
+  craving authentic tastes without the fuss. Overall, the strong rating reflects
+  a spot that's earned its reputation for delivering enjoyable experiences time
+  after time.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +306,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

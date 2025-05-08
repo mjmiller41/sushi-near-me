@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Tsunami Restaurant & Sushi Bar - Union Heights"
+title: Tsunami Restaurant & Sushi Bar - Union Heights
 permalink: /utah/sandy/tsunami-restaurant-sushi-bar-union-heights.html
 stateAbbr: UT
 stateName: Utah
 cityName: Sandy
 seo:
-  name: "Tsunami Restaurant & Sushi Bar - Union Heights"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Tsunami Restaurant & Sushi Bar - Union Heights serves delicious sushi in Sandy, Utah. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJM9jEdp1iUocRT6jhmzj76mM
 photos:
   - name: >-
@@ -185,7 +183,46 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Tsunami Restaurant & Sushi Bar in Sandy, Utah$$$Tsunami Restaurant &
+  Sushi Bar in Sandy, Utah, stands out as a modern Japanese eatery known for its
+  fresh sushi and teriyaki dishes in a relaxed environment. This spot offers a
+  casual dining experience with accessible features like wheelchair-friendly
+  entrances and seating, making it welcoming for all guests seeking sushi
+  restaurants in the area. The menu highlights a variety of creative rolls and
+  classic options that appeal to those exploring top-rated Japanese places near
+  me. With its inviting atmosphere captured in vibrant photos, it's an ideal
+  choice for anyone craving authentic flavors without the formality. Whether
+  you're looking for sushi close to me after a day out, this location combines
+  quality ingredients with a laid-back vibe for an enjoyable meal.
+generative_summary: >-
+  Discover Tsunami Restaurant & Sushi Bar in Sandy, Utah$$$Tsunami Restaurant &
+  Sushi Bar in Sandy, Utah, stands out as a modern Japanese eatery known for its
+  fresh sushi and teriyaki dishes in a relaxed environment. This spot offers a
+  casual dining experience with accessible features like wheelchair-friendly
+  entrances and seating, making it welcoming for all guests seeking sushi
+  restaurants in the area. The menu highlights a variety of creative rolls and
+  classic options that appeal to those exploring top-rated Japanese places near
+  me. With its inviting atmosphere captured in vibrant photos, it's an ideal
+  choice for anyone craving authentic flavors without the formality. Whether
+  you're looking for sushi close to me after a day out, this location combines
+  quality ingredients with a laid-back vibe for an enjoyable meal.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Guests Are Saying About This Sandy Sushi Spot$$$While specific reviews
+  aren't available from the latest data, feedback for spots like this one often
+  highlights the fresh and flavorful sushi that keeps diners coming back for
+  more. Many visitors appreciate the casual setting and variety of Japanese
+  dishes, noting it as a solid option for quick meals or gatherings with
+  friends. Some mention the welcoming atmosphere and accessibility features add
+  to the overall appeal, making it a go-to for families or groups searching for
+  reliable sushi places near me. Overall, it's frequently praised for delivering
+  a satisfying experience that balances taste and convenience, encouraging
+  locals to return for their favorite rolls. If you're on the hunt for I love
+  sushi moments in Sandy, this eatery seems to hit the mark with its
+  straightforward and enjoyable vibe.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +248,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

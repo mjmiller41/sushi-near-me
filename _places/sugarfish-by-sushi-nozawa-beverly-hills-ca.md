@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "SUGARFISH by sushi nozawa"
+title: SUGARFISH by sushi nozawa
 permalink: /california/beverly-hills/sugarfish-by-sushi-nozawa.html
 stateAbbr: CA
 stateName: California
 cityName: Beverly Hills
 seo:
-  name: "SUGARFISH by sushi nozawa"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "SUGARFISH by sushi nozawa serves delicious sushi in Beverly Hills, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJMdtjLv-7woARY1Qx1otbqZI
 photos:
   - name: >-
@@ -185,7 +183,44 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover SUGARFISH in Beverly Hills, CA$$$SUGARFISH by sushi nozawa in Beverly
+  Hills, CA, stands out as a casual spot for enjoying high-quality sushi crafted
+  with precision and care. This inviting restaurant features an omakase-style
+  menu that highlights fresh sushi and sashimi, drawing from carefully selected
+  ingredients to deliver an authentic dining experience. Guests can savor the
+  simplicity of expertly prepared dishes that emphasize flavor and quality,
+  making it a go-to choice for those exploring top sushi options in the area.
+  The unpretentious atmosphere adds to its appeal, offering a relaxed setting
+  for anyone seeking sushi restaurants that combine tradition with everyday
+  accessibility. With its focus on fresh, thoughtfully sourced seafood, it's an
+  ideal destination for sushi enthusiasts looking for reliable spots nearby.
+generative_summary: >-
+  Discover SUGARFISH in Beverly Hills, CA$$$SUGARFISH by sushi nozawa in Beverly
+  Hills, CA, stands out as a casual spot for enjoying high-quality sushi crafted
+  with precision and care. This inviting restaurant features an omakase-style
+  menu that highlights fresh sushi and sashimi, drawing from carefully selected
+  ingredients to deliver an authentic dining experience. Guests can savor the
+  simplicity of expertly prepared dishes that emphasize flavor and quality,
+  making it a go-to choice for those exploring top sushi options in the area.
+  The unpretentious atmosphere adds to its appeal, offering a relaxed setting
+  for anyone seeking sushi restaurants that combine tradition with everyday
+  accessibility. With its focus on fresh, thoughtfully sourced seafood, it's an
+  ideal destination for sushi enthusiasts looking for reliable spots nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About SUGARFISH$$$People generally appreciate the
+  fresh and flavorful sushi at this spot, often noting how the simple menu keeps
+  things straightforward and satisfying. Many casual diners highlight the
+  high-quality ingredients that make each bite feel special, without
+  overwhelming the experience. Folks mention the efficient service and welcoming
+  vibe as standout features, helping it feel like a solid pick for a quick meal
+  or gathering. Overall, it's praised for offering great value in a laid-back
+  environment, appealing to those who love exploring top-rated sushi places.
+  While not every visit is perfect, the consensus leans positive, making it a
+  trustworthy choice for anyone hunting for reliable sushi near them.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +246,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

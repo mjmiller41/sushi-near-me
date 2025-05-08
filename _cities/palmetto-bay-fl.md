@@ -5,4 +5,5 @@ permalink: /florida/palmetto-bay/
 stateAbbr: FL
 stateName: Florida
 cityName: Palmetto Bay
+
 ---

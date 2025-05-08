@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "SushiHana"
+title: SushiHana
 permalink: /north-carolina/charlotte/sushihana.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Charlotte
 seo:
-  name: "SushiHana"
-  type: Restaurant
+  type: restaurant
   links: https://sushihanaclt.com/
-description: "SushiHana serves delicious sushi in Charlotte, North Carolina. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJe3bSTYCfVogRfYCcGvfJZk0
 photos:
   - name: >-
@@ -170,7 +168,113 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x88569f804dd2767b:0x4d66c9f71a9c807d!10e5
 primary_type: Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 15
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 15
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 15
+        minute: 0
+    - open:
+        day: 6
+        hour: 16
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 3:00 PM, 4:30 – 9:30 PM'
     - 'Tuesday: 11:30 AM – 3:00 PM, 4:30 – 9:30 PM'
     - 'Wednesday: 11:30 AM – 3:00 PM, 4:30 – 9:30 PM'
@@ -178,14 +282,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 3:00 PM, 4:30 – 10:30 PM'
     - 'Saturday: 11:30 AM – 3:00 PM, 4:30 – 10:30 PM'
     - 'Sunday: 11:30 AM – 9:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 3:00 PM, 4:30 – 9:30 PM'
-    - 'Tuesday: 11:30 AM – 3:00 PM, 4:30 – 9:30 PM'
-    - 'Wednesday: 11:30 AM – 3:00 PM, 4:30 – 9:30 PM'
-    - 'Thursday: 11:30 AM – 3:00 PM, 4:30 – 9:30 PM'
-    - 'Friday: 11:30 AM – 3:00 PM, 4:30 – 10:30 PM'
-    - 'Saturday: 11:30 AM – 3:00 PM, 4:30 – 10:30 PM'
-    - 'Sunday: 11:30 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,10 +293,45 @@ secondary_opening_hours:
 phone: (980) 237-7447
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
-rating: '4.2'
-rating_count: 0
+rating: '4.3'
+rating_count: 443
 website: https://sushihanaclt.com/
+description: >-
+  Discover SushiHana in Charlotte, NC$$$SushiHana in Charlotte, NC, stands out
+  as a go-to destination for all-you-can-eat sushi and hibachi options in a
+  relaxed setting. This spot emphasizes fresh ingredients and a casual vibe,
+  complete with a bar that adds to the lively dining experience, making it
+  perfect for those exploring top sushi choices nearby. Accessibility features
+  like wheelchair-friendly parking and entrances ensure everyone can enjoy the
+  flavorful menu, which includes a variety of Japanese-inspired dishes. With
+  convenient hours extending into the evening most days, it's an ideal stop for
+  anyone seeking satisfying meals in a welcoming atmosphere that balances
+  quality and affordability.
+generative_summary: >-
+  Discover SushiHana in Charlotte, NC$$$SushiHana in Charlotte, NC, stands out
+  as a go-to destination for all-you-can-eat sushi and hibachi options in a
+  relaxed setting. This spot emphasizes fresh ingredients and a casual vibe,
+  complete with a bar that adds to the lively dining experience, making it
+  perfect for those exploring top sushi choices nearby. Accessibility features
+  like wheelchair-friendly parking and entrances ensure everyone can enjoy the
+  flavorful menu, which includes a variety of Japanese-inspired dishes. With
+  convenient hours extending into the evening most days, it's an ideal stop for
+  anyone seeking satisfying meals in a welcoming atmosphere that balances
+  quality and affordability.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Folks who dine at this sushi spot often rave about
+  the fresh and tasty all-you-can-eat selections, highlighting the variety of
+  rolls and hibachi that make every visit worthwhile. Many appreciate the quick,
+  attentive service that keeps things running smoothly, along with the modern
+  and energetic vibe that enhances the overall fun. The reasonable prices add to
+  its appeal as a great pick for casual outings or groups looking for solid
+  Japanese cuisine nearby. While a few mention that details about the
+  all-you-can-eat time limits could be clearer, the general consensus leans
+  positive, making it a reliable choice for anyone craving quality sushi without
+  breaking the bank.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +357,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

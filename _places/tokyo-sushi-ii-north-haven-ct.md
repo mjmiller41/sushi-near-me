@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Tokyo Sushi II"
+title: Tokyo Sushi II
 permalink: /connecticut/north-haven/tokyo-sushi-ii.html
 stateAbbr: CT
 stateName: Connecticut
 cityName: North Haven
 seo:
-  name: "Tokyo Sushi II"
-  type: Restaurant
+  type: restaurant
   links: https://www.tokyosushinorthhaven.com/
-description: "Casual, family-run eatery featuring inventive sushi rolls & traditional Japanese specialties. Tokyo Sushi II serves delicious sushi in North Haven, Connecticut. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ4byv3TXQ54kR7bB_ftKufDw
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 0
 website: https://www.tokyosushinorthhaven.com/
+description: >-
+  Discover Tokyo Sushi II in North Haven, CT$$$Tokyo Sushi II in North Haven,
+  CT, stands out as a welcoming spot for savoring authentic Japanese flavors in
+  a laid-back setting. The menu features creative sushi rolls, savory teriyaki,
+  crispy tempura, and other traditional dishes that highlight fresh ingredients
+  and thoughtful preparation. With its family-oriented vibe and accessible
+  features like wheelchair-friendly entrances and seating, it's an ideal choice
+  for casual dining or quick takeout. This sushi restaurant near you offers
+  moderate pricing and a variety of options that cater to groups and families,
+  making it a reliable go-to for those exploring top-rated Japanese places in
+  the area.
+generative_summary: >-
+  Discover Tokyo Sushi II in North Haven, CT$$$Tokyo Sushi II in North Haven,
+  CT, stands out as a welcoming spot for savoring authentic Japanese flavors in
+  a laid-back setting. The menu features creative sushi rolls, savory teriyaki,
+  crispy tempura, and other traditional dishes that highlight fresh ingredients
+  and thoughtful preparation. With its family-oriented vibe and accessible
+  features like wheelchair-friendly entrances and seating, it's an ideal choice
+  for casual dining or quick takeout. This sushi restaurant near you offers
+  moderate pricing and a variety of options that cater to groups and families,
+  making it a reliable go-to for those exploring top-rated Japanese places in
+  the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ4byv3TXQ54kR7bB_ftKufDw/reviews/ChdDSUhNMG9nS0VJQ0FnTURJd09XVF9BRRAB
@@ -350,6 +371,17 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNVbmJiNktnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNVbmJiNktnEAE!2m1!1s0x89e7d035ddafbce1:0x3c7caed27e7fb0ed
+review_summary: >-
+  What Visitors Are Saying$$$Folks generally enjoy the fresh and flavorful sushi
+  selections here, often noting how they hit the spot for a satisfying Japanese
+  meal. Many appreciate the relaxed atmosphere and helpful staff who make dining
+  in or grabbing takeout a breeze, with highlights on the peaceful ambiance and
+  flexible service. While some mention that the offerings are straightforward
+  and meet basic expectations, others rave about tasty specialties like salmon
+  dishes and bento boxes that keep customers coming back. Overall, it's a solid
+  pick for anyone seeking reliable sushi spots nearby, with ample parking adding
+  to the hassle-free experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -382,8 +414,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Casual, family-run eatery featuring inventive sushi rolls & traditional
   Japanese specialties.
 

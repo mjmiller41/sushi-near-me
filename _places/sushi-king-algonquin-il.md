@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi King"
+title: Sushi King
 permalink: /illinois/algonquin/sushi-king.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Algonquin
 seo:
-  name: "Sushi King"
-  type: Restaurant
+  type: restaurant
   links: https://www.sushiking2.com/
-description: "Sushi King serves delicious sushi in Algonquin, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJTXspY_gND4gR_wZylVxpGis
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $20 &ndash; $30
 rating: '4.0'
 rating_count: 0
 website: https://www.sushiking2.com/
+description: >-
+  Explore Sushi King in Algonquin, IL$$$Sushi King in Algonquin, IL, offers a
+  welcoming spot for enjoying fresh Japanese cuisine, highlighted by its relaxed
+  atmosphere and extensive all-you-can-eat options that include a variety of
+  sushi rolls and appetizers. This sushi restaurant stands out with its focus on
+  quality ingredients and creative specialty rolls, making it a go-to choice for
+  those seeking flavorful dining experiences in a casual setting. Accessibility
+  features like wheelchair-friendly entrances and seating add to the
+  convenience, ensuring everyone can enjoy the meal. With moderate pricing and
+  options for groups, it's an ideal stop for anyone exploring sushi places near
+  you that balance value and taste.
+generative_summary: >-
+  Explore Sushi King in Algonquin, IL$$$Sushi King in Algonquin, IL, offers a
+  welcoming spot for enjoying fresh Japanese cuisine, highlighted by its relaxed
+  atmosphere and extensive all-you-can-eat options that include a variety of
+  sushi rolls and appetizers. This sushi restaurant stands out with its focus on
+  quality ingredients and creative specialty rolls, making it a go-to choice for
+  those seeking flavorful dining experiences in a casual setting. Accessibility
+  features like wheelchair-friendly entrances and seating add to the
+  convenience, ensuring everyone can enjoy the meal. With moderate pricing and
+  options for groups, it's an ideal stop for anyone exploring sushi places near
+  you that balance value and taste.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJTXspY_gND4gR_wZylVxpGis/reviews/ChZDSUhNMG9nS0VJQ0FnSURuN3VEMGJ3EAE
@@ -330,6 +351,17 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUN3ZzVuckRREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUN3ZzVuckRREAE!2m1!1s0x880f0df863297b4d:0x2b1a695c957206ff
+review_summary: >-
+  Insights from Diners on Sushi King$$$Folks often rave about the delicious
+  sushi and appetizers here, noting how the all-you-can-eat deals deliver great
+  value without skimping on freshness or flavor. Many appreciate the efficient
+  service and welcoming vibe, even if it's not always perfectly attentive,
+  making it a solid pick for casual meals. Reviews highlight the restaurant's
+  ability to handle larger groups with tasty options like miso soup and tempura,
+  encouraging repeat visits for those craving top-rated sushi spots nearby.
+  Overall, it's praised as a reliable choice for affordable Japanese dining,
+  where the focus on quality keeps the experience enjoyable and satisfying.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -362,7 +394,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Kingdom"
+title: Sushi Kingdom
 permalink: /south-carolina/greenville/sushi-kingdom.html
 stateAbbr: SC
 stateName: South Carolina
 cityName: Greenville
 seo:
-  name: "Sushi Kingdom"
-  type: Restaurant
+  type: restaurant
   links: http://www.sushikingdomgreenville.com/
-description: "Sushi Kingdom serves delicious sushi in Greenville, South Carolina. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ8-XhkAMvWIgRVUjozs-Dnzc
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 0
 website: http://www.sushikingdomgreenville.com/
+description: >-
+  Discover Sushi Kingdom in Greenville, South Carolina$$$Sushi Kingdom in
+  Greenville, South Carolina, stands out as a relaxed destination for enjoying
+  fresh Japanese-inspired dishes in a welcoming atmosphere. This spot offers an
+  enticing all-you-can-eat option alongside hibachi specialties and a diverse a
+  la carte selection, making it ideal for those seeking variety in their meals.
+  With thoughtful accessibility features like wheelchair-friendly entrances and
+  seating, it's designed to accommodate everyone looking for a comfortable
+  dining experience. The restaurant also provides convenient parking and outdoor
+  seating, enhancing its appeal for casual outings or family gatherings. Whether
+  you're in the mood for flavorful rolls or grilled favorites, this sushi haven
+  delivers a satisfying blend of quality and affordability.
+generative_summary: >-
+  Discover Sushi Kingdom in Greenville, South Carolina$$$Sushi Kingdom in
+  Greenville, South Carolina, stands out as a relaxed destination for enjoying
+  fresh Japanese-inspired dishes in a welcoming atmosphere. This spot offers an
+  enticing all-you-can-eat option alongside hibachi specialties and a diverse a
+  la carte selection, making it ideal for those seeking variety in their meals.
+  With thoughtful accessibility features like wheelchair-friendly entrances and
+  seating, it's designed to accommodate everyone looking for a comfortable
+  dining experience. The restaurant also provides convenient parking and outdoor
+  seating, enhancing its appeal for casual outings or family gatherings. Whether
+  you're in the mood for flavorful rolls or grilled favorites, this sushi haven
+  delivers a satisfying blend of quality and affordability.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ8-XhkAMvWIgRVUjozs-Dnzc/reviews/ChdDSUhNMG9nS0VJQ0FnTUNndFktVHh3RRAB
@@ -376,6 +399,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNINjQzOVpnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNINjQzOVpnEAE!2m1!1s0x88582f0390e1e5f3:0x379f83cfcee84855
+review_summary: >-
+  What Customers Are Saying About the Experience$$$Visitors to this sushi spot
+  often rave about the great value of the all-you-can-eat menu, highlighting the
+  fresh ingredients and wide range of options that make it a solid choice for a
+  satisfying meal. Many appreciate how the setup encourages thoughtful ordering
+  without waste, leading to enjoyable family outings and quick service on busier
+  days. While some note occasional waits during peak times or minor service
+  inconsistencies, the overall vibe remains positive with friendly staff and
+  tasty specials like spicy rolls adding to the fun. Folks frequently mention
+  the engaging open kitchen where you can watch dishes being prepared, adding an
+  entertaining element to the dining experience. All in all, it's a reliable
+  pick for anyone craving quality Japanese fare, offering a mix of affordability
+  and flavor that keeps people coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -408,7 +445,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

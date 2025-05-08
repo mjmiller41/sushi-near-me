@@ -5,4 +5,5 @@ permalink: /california/marina-del-rey/
 stateAbbr: CA
 stateName: California
 cityName: Marina Del Rey
+
 ---

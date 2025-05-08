@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Wasabi Restaurant & Bar"
+title: Wasabi Restaurant & Bar
 permalink: /illinois/downers-grove/wasabi-restaurant-bar.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Downers Grove
 seo:
-  name: "Wasabi Restaurant & Bar"
-  type: Restaurant
+  type: restaurant
   links: https://www.wasabidownersgrove.com/?utm_source=google&utm_medium=website
-description: "Wasabi Restaurant & Bar serves delicious sushi in Downers Grove, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ8RW5CWNPDogRKM7XtTpyM9c
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: null
 rating: '4.5'
 rating_count: 0
 website: https://www.wasabidownersgrove.com/?utm_source=google&utm_medium=website
+description: >-
+  Discover Wasabi Restaurant & Bar in Downers Grove, IL$$$Nestled in the heart
+  of Downers Grove, IL, Wasabi Restaurant & Bar offers a delightful blend of
+  Pan-Asian flavors, featuring fresh sushi and other comforting dishes in a
+  welcoming atmosphere. This spot stands out with its cozy seating, lively bar
+  area, and occasional live music that adds a fun vibe to your dining
+  experience. Patrons can savor a variety of sushi options, including creative
+  rolls and hearty ramen, all prepared with quality ingredients that highlight
+  authentic tastes. The restaurant also caters to diverse preferences with
+  accessible features and a menu that includes vegetarian choices, making it a
+  go-to for those seeking top-rated sushi near convenient locations. Whether
+  you're stopping by for a casual meal or an evening out, the combination of
+  flavorful cuisine and relaxed ambiance ensures a memorable visit.
+generative_summary: >-
+  Discover Wasabi Restaurant & Bar in Downers Grove, IL$$$Nestled in the heart
+  of Downers Grove, IL, Wasabi Restaurant & Bar offers a delightful blend of
+  Pan-Asian flavors, featuring fresh sushi and other comforting dishes in a
+  welcoming atmosphere. This spot stands out with its cozy seating, lively bar
+  area, and occasional live music that adds a fun vibe to your dining
+  experience. Patrons can savor a variety of sushi options, including creative
+  rolls and hearty ramen, all prepared with quality ingredients that highlight
+  authentic tastes. The restaurant also caters to diverse preferences with
+  accessible features and a menu that includes vegetarian choices, making it a
+  go-to for those seeking top-rated sushi near convenient locations. Whether
+  you're stopping by for a casual meal or an evening out, the combination of
+  flavorful cuisine and relaxed ambiance ensures a memorable visit.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ8RW5CWNPDogRKM7XtTpyM9c/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJci1xU2VBEAE
@@ -428,6 +453,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR0ODZHRzRBRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR0ODZHRzRBRRAB!2m1!1s0x880e4f6309b915f1:0xd733723ab5d7ce28
+review_summary: >-
+  What Customers Are Buzzing About$$$Visitors to this sushi spot often rave
+  about the fresh and flavorful dishes, with many highlighting the variety of
+  options that keep things exciting and satisfying. Folks appreciate the
+  attentive service and cozy setting, which make for a relaxed dining
+  experience, though some note minor tweaks could improve consistency in
+  preparation. Overall, the feedback leans positive, with diners enjoying the
+  ample portions and tasty selections like sushi boats and vegan-friendly meals
+  that cater to different tastes. It's clear that the lively atmosphere and
+  solid food quality draw people back, even if a few mention occasional busy
+  moments that affect timing. If you're on the hunt for reliable sushi
+  restaurants nearby, this place seems to hit the mark with its welcoming vibe
+  and honest value.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -459,7 +498,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

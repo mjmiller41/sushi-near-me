@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Passion Fin Asian Bistro & Sushi Bar"
+title: Passion Fin Asian Bistro & Sushi Bar
 permalink: /virginia/vienna/passion-fin-asian-bistro-sushi-bar.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Vienna
 seo:
-  name: "Passion Fin Asian Bistro & Sushi Bar"
-  type: Restaurant
-  links: null
-description: "Passion Fin Asian Bistro & Sushi Bar serves delicious sushi in Vienna, Virginia. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.passionfinmerrifield.com/
 place_id: ChIJlSi5zW9LtokR5ujSI2KS2p4
 photos:
   - name: >-
@@ -170,8 +168,97 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89b64b6fcdb92895:0x9eda926223d2e8e6!10e5
 primary_type: Asian Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 14
+        minute: 45
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 45
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 45
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 45
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:30 AM – 2:45 PM, 4:30 – 10:00 PM'
+    - 'Tuesday: Closed'
+    - 'Wednesday: 11:30 AM – 2:45 PM, 4:30 – 10:00 PM'
+    - 'Thursday: 11:30 AM – 2:45 PM, 4:30 – 10:00 PM'
+    - 'Friday: 11:30 AM – 2:45 PM, 4:30 – 11:00 PM'
+    - 'Saturday: 12:00 – 11:00 PM'
+    - 'Sunday: 12:00 – 9:30 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +266,51 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (703) 204-2969
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.2'
+rating_count: 474
+website: http://www.passionfinmerrifield.com/
+description: >-
+  Discover Passion Fin in Vienna, VA$$$Passion Fin Asian Bistro & Sushi Bar in
+  Vienna, Virginia, stands out as a go-to spot for fresh sushi and diverse Asian
+  flavors, blending casual dining with an inviting atmosphere. This bistro
+  features a selection of expertly crafted rolls and classic dishes like pad
+  thai, all served in a relaxed setting complete with a cozy bar for enjoying
+  drinks alongside your meal. Patrons seeking sushi restaurants near them will
+  appreciate the variety of options that highlight high-quality ingredients and
+  creative presentations. Accessibility features make it easy for everyone to
+  enjoy the experience, from wheelchair-friendly entrances to ample seating.
+  Whether you're exploring Japanese-inspired places close to you, this location
+  delivers a satisfying blend of taste and convenience for a memorable meal.
+generative_summary: >-
+  Discover Passion Fin in Vienna, VA$$$Passion Fin Asian Bistro & Sushi Bar in
+  Vienna, Virginia, stands out as a go-to spot for fresh sushi and diverse Asian
+  flavors, blending casual dining with an inviting atmosphere. This bistro
+  features a selection of expertly crafted rolls and classic dishes like pad
+  thai, all served in a relaxed setting complete with a cozy bar for enjoying
+  drinks alongside your meal. Patrons seeking sushi restaurants near them will
+  appreciate the variety of options that highlight high-quality ingredients and
+  creative presentations. Accessibility features make it easy for everyone to
+  enjoy the experience, from wheelchair-friendly entrances to ample seating.
+  Whether you're exploring Japanese-inspired places close to you, this location
+  delivers a satisfying blend of taste and convenience for a memorable meal.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Feedback from diners at Passion Fin Asian Bistro &
+  Sushi Bar often highlights the fresh, well-prepared sushi and tasty Asian
+  entrees that keep people coming back for more. Many appreciate the welcoming
+  vibe and solid service, making it a reliable choice for casual outings or
+  groups looking for flavorful options. While some mention minor waits during
+  peak times, the overall experience earns high marks for value and variety,
+  reflected in its strong rating from hundreds of visitors. If you're hunting
+  for top-rated sushi spots nearby, folks generally agree that the menu's
+  highlights make it worth the visit. All in all, it's a spot that delivers on
+  expectations, offering a positive dining experience that balances fun and
+  satisfaction for those exploring local eateries.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +336,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

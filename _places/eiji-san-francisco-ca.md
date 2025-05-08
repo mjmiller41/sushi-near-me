@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Eiji"
+title: Eiji
 permalink: /california/san-francisco/eiji.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
 seo:
-  name: "Eiji"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Housemade tofu is the specialty at this cozy Japanese spot that also serves a varied sushi menu. Eiji serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJoRHxCxx-j4ARxvzlXQFASuM
 photos:
   - name: >-
@@ -183,6 +181,33 @@ price_range: $30 &ndash; $50
 rating: '4.4'
 rating_count: 0
 website: null
+description: >-
+  Explore Eiji in San Francisco, CA$$$Nestled in the heart of San Francisco, CA,
+  Eiji stands out as a welcoming Japanese restaurant known for its cozy ambiance
+  and focus on fresh, handmade specialties. This spot delights visitors with a
+  menu featuring expertly prepared sushi and sashimi, alongside other
+  traditional Japanese dishes that highlight seasonal ingredients and homemade
+  elements. The emphasis on quality shines through in offerings like in-house
+  crafted tofu, making it a go-to choice for those seeking authentic flavors in
+  a relaxed setting. With accessibility features ensuring a comfortable visit,
+  Eiji combines simplicity and elegance to create an inviting experience for
+  sushi enthusiasts exploring options nearby. Its moderate pricing adds to the
+  appeal for anyone looking for quality Japanese cuisine without breaking the
+  bank.
+generative_summary: >-
+  Explore Eiji in San Francisco, CA$$$Nestled in the heart of San Francisco, CA,
+  Eiji stands out as a welcoming Japanese restaurant known for its cozy ambiance
+  and focus on fresh, handmade specialties. This spot delights visitors with a
+  menu featuring expertly prepared sushi and sashimi, alongside other
+  traditional Japanese dishes that highlight seasonal ingredients and homemade
+  elements. The emphasis on quality shines through in offerings like in-house
+  crafted tofu, making it a go-to choice for those seeking authentic flavors in
+  a relaxed setting. With accessibility features ensuring a comfortable visit,
+  Eiji combines simplicity and elegance to create an inviting experience for
+  sushi enthusiasts exploring options nearby. Its moderate pricing adds to the
+  appeal for anyone looking for quality Japanese cuisine without breaking the
+  bank.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJoRHxCxx-j4ARxvzlXQFASuM/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3ek9DUlBnEAE
@@ -358,6 +383,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQ1LWJDRUtnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQ1LWJDRUtnEAE!2m1!1s0x808f7e1c0bf111a1:0xe34a40015de5fcc6
+review_summary: >-
+  Insights from Recent Feedback$$$Diners often praise Eiji for its fresh and
+  authentic Japanese dishes, with standout mentions of the flavorful sushi and
+  homemade tofu that bring a genuine touch to every meal. While the cozy
+  atmosphere and variety of options like sashimi make it a solid pick for a
+  casual night out, a few folks have pointed out occasional inconsistencies in
+  service that could use some smoothing out. Overall, the food's high quality
+  and reasonable prices keep the vibes positive, encouraging return visits for
+  those hunting for top-rated sushi experiences in the area. It's clear that the
+  emphasis on fresh ingredients and traditional preparation resonates with many,
+  though keeping service friendly and efficient seems key to enhancing the full
+  experience. If you're in the mood for reliable Japanese fare close to home,
+  this spot generally delivers a satisfying meal worth trying.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeStreetParking: true
   paidStreetParking: true
@@ -390,8 +429,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Housemade tofu is the specialty at this cozy Japanese spot that also serves a
   varied sushi menu.
 

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Bay"
+title: Sushi Bay
 permalink: /florida/palmetto-bay/sushi-bay.html
 stateAbbr: FL
 stateName: Florida
 cityName: Palmetto Bay
 seo:
-  name: "Sushi Bay"
-  type: Restaurant
+  type: restaurant
   links: http://sushibaymiami.com/
-description: "Sushi Bay serves delicious sushi in Palmetto Bay, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJG4w6J3HF2YgRleKwfuB0mc4
 photos:
   - name: >-
@@ -199,7 +197,45 @@ price_range: null
 rating: '4.7'
 rating_count: 0
 website: http://sushibaymiami.com/
+description: >-
+  Discover Sushi Bay in Palmetto Bay, FL$$$Sushi Bay in Palmetto Bay, FL, offers
+  a cozy retreat for those craving authentic Japanese flavors in a welcoming
+  environment. This spot highlights fresh ingredients and inventive rolls that
+  blend traditional techniques with creative twists, making it a standout choice
+  for casual diners. Accessibility features like wheelchair-friendly entrances
+  and seating ensure a comfortable visit for everyone, while its evening hours
+  cater perfectly to relaxed get-togethers. The overall ambiance strikes a
+  balance between affordability and quality, ideal for anyone exploring top
+  sushi options in the area. Whether you're searching for sushi restaurants
+  nearby or a satisfying meal, this location delivers a memorable experience
+  with its thoughtful details.
+generative_summary: >-
+  Discover Sushi Bay in Palmetto Bay, FL$$$Sushi Bay in Palmetto Bay, FL, offers
+  a cozy retreat for those craving authentic Japanese flavors in a welcoming
+  environment. This spot highlights fresh ingredients and inventive rolls that
+  blend traditional techniques with creative twists, making it a standout choice
+  for casual diners. Accessibility features like wheelchair-friendly entrances
+  and seating ensure a comfortable visit for everyone, while its evening hours
+  cater perfectly to relaxed get-togethers. The overall ambiance strikes a
+  balance between affordability and quality, ideal for anyone exploring top
+  sushi options in the area. Whether you're searching for sushi restaurants
+  nearby or a satisfying meal, this location delivers a memorable experience
+  with its thoughtful details.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Buzz from Sushi Enthusiasts$$$Visitors often rave about the fresh and creative
+  rolls at this spot, praising their bold flavors and solid value for a
+  laid-back meal. Many highlight the warm service and inviting atmosphere that
+  make dining here feel effortless, even if there might be a short wait during
+  busy evenings. Folks appreciate the use of premium ingredients and fun drink
+  pairings that add excitement to the experience, encouraging repeat trips for
+  quality Japanese eats. Overall, the high marks reflect it as a reliable go-to
+  for sushi lovers, with most feedback focusing on the tasty results and
+  friendly vibe. While occasional minor delays come up, the general consensus
+  keeps things upbeat, making it a great pick for anyone hunting for top-rated
+  sushi near me.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +261,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

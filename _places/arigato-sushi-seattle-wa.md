@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Arigato Sushi"
+title: Arigato Sushi
 permalink: /washington/seattle/arigato-sushi.html
 stateAbbr: WA
 stateName: Washington
 cityName: Seattle
 seo:
-  name: "Arigato Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://arigato.menu11.com/
-description: "Arigato Sushi serves delicious sushi in Seattle, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJPYFg7r8VkFQRkg8R73KpsEg
 photos:
   - name: >-
@@ -168,7 +166,97 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x549015bfee60813d:0x48b0a972ef110f92!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 12
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 12
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 12
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 15
+        minute: 0
+    - open:
+        day: 6
+        hour: 16
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 4:30 – 9:00 PM'
     - 'Tuesday: 11:30 AM – 2:30 PM, 4:30 – 9:00 PM'
     - 'Wednesday: 12:00 – 2:30 PM, 4:30 – 9:00 PM'
@@ -176,14 +264,7 @@ opening_hours:
     - 'Friday: 12:00 – 2:30 PM, 4:30 – 9:00 PM'
     - 'Saturday: 12:00 – 3:00 PM, 4:30 – 9:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 4:30 – 9:00 PM'
-    - 'Tuesday: 11:30 AM – 2:30 PM, 4:30 – 9:00 PM'
-    - 'Wednesday: 12:00 – 2:30 PM, 4:30 – 9:00 PM'
-    - 'Thursday: 12:00 – 2:30 PM, 4:30 – 9:00 PM'
-    - 'Friday: 12:00 – 2:30 PM, 4:30 – 9:00 PM'
-    - 'Saturday: 12:00 – 3:00 PM, 4:30 – 9:00 PM'
-    - 'Sunday: Closed'
+  nextOpenTime: '2025-05-03T23:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -194,10 +275,44 @@ secondary_opening_hours:
 phone: (206) 913-2961
 price_level: PRICE_LEVEL_MODERATE
 price_range: $30 &ndash; $50
-rating: '4.3'
-rating_count: 0
+rating: '4.4'
+rating_count: 68
 website: http://arigato.menu11.com/
+description: >-
+  Discover Arigato Sushi in Seattle, WA$$$Arigato Sushi in Seattle, WA, stands
+  out as a welcoming Japanese restaurant specializing in fresh seafood and
+  expertly prepared tempura, making it a go-to spot for those craving authentic
+  flavors. Nestled in the vibrant Phinney Ridge neighborhood, this eatery boasts
+  accessible features like wheelchair-friendly entrances, ensuring a comfortable
+  visit for all. Diners can enjoy a variety of lunch and dinner options that
+  highlight the best of Japanese culinary traditions, with dishes crafted to
+  deliver a satisfying balance of taste and texture. For anyone exploring sushi
+  restaurants near me, Arigato Sushi offers a cozy atmosphere and reliable
+  service that enhances the overall dining experience.
+generative_summary: >-
+  Discover Arigato Sushi in Seattle, WA$$$Arigato Sushi in Seattle, WA, stands
+  out as a welcoming Japanese restaurant specializing in fresh seafood and
+  expertly prepared tempura, making it a go-to spot for those craving authentic
+  flavors. Nestled in the vibrant Phinney Ridge neighborhood, this eatery boasts
+  accessible features like wheelchair-friendly entrances, ensuring a comfortable
+  visit for all. Diners can enjoy a variety of lunch and dinner options that
+  highlight the best of Japanese culinary traditions, with dishes crafted to
+  deliver a satisfying balance of taste and texture. For anyone exploring sushi
+  restaurants near me, Arigato Sushi offers a cozy atmosphere and reliable
+  service that enhances the overall dining experience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this sushi spot in Seattle frequently
+  praise the fresh ingredients and well-executed dishes, creating a buzz around
+  its reliable flavors and portions. Many appreciate the attention to detail in
+  the seafood selections, noting how it elevates the meal for sushi enthusiasts
+  in the area. Overall, the high ratings reflect a positive vibe, with folks
+  often mentioning the spot as a solid choice for casual Japanese dining without
+  any major drawbacks. If you're hunting for top-rated sushi close to you, this
+  place delivers a generally enjoyable experience that's worth trying,
+  especially for its approachable vibe and consistent quality.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -223,7 +338,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

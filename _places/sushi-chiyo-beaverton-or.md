@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Chiyo"
+title: Sushi Chiyo
 permalink: /oregon/beaverton/sushi-chiyo.html
 stateAbbr: OR
 stateName: Oregon
 cityName: Beaverton
 seo:
-  name: "Sushi Chiyo"
-  type: Restaurant
-  links: null
-description: "Sushi Chiyo serves delicious sushi in Beaverton, Oregon. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.sushichiyo.com/
 place_id: ChIJfzLYCbsOlVQRXXsI4dBBEww
 photos:
   - name: >-
@@ -170,22 +168,256 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x54950ebb09d8327f:0xc1341d0e1087b5d!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 10:00 PM'
+    - 'Tuesday: 11:00 AM – 10:00 PM'
+    - 'Wednesday: 11:00 AM – 10:00 PM'
+    - 'Thursday: 11:00 AM – 10:00 PM'
+    - 'Friday: 11:00 AM – 10:00 PM'
+    - 'Saturday: 11:00 AM – 10:00 PM'
+    - 'Sunday: 11:00 AM – 10:00 PM'
+  nextCloseTime: '2025-05-04T05:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 11
+          minute: 0
+        close:
+          day: 0
+          hour: 21
+          minute: 0
+      - open:
+          day: 1
+          hour: 11
+          minute: 0
+        close:
+          day: 1
+          hour: 21
+          minute: 0
+      - open:
+          day: 2
+          hour: 11
+          minute: 0
+        close:
+          day: 2
+          hour: 21
+          minute: 0
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 21
+          minute: 0
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 0
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 21
+          minute: 0
+      - open:
+          day: 6
+          hour: 11
+          minute: 0
+        close:
+          day: 6
+          hour: 21
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 11:00 AM – 9:00 PM'
+      - 'Tuesday: 11:00 AM – 9:00 PM'
+      - 'Wednesday: 11:00 AM – 9:00 PM'
+      - 'Thursday: 11:00 AM – 9:00 PM'
+      - 'Friday: 11:00 AM – 9:00 PM'
+      - 'Saturday: 11:00 AM – 9:00 PM'
+      - 'Sunday: 11:00 AM – 9:00 PM'
+    secondaryHoursType: DELIVERY
+    nextCloseTime: '2025-05-04T04:00:00Z'
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 11
+          minute: 0
+        close:
+          day: 0
+          hour: 21
+          minute: 0
+      - open:
+          day: 1
+          hour: 11
+          minute: 0
+        close:
+          day: 1
+          hour: 21
+          minute: 0
+      - open:
+          day: 2
+          hour: 11
+          minute: 0
+        close:
+          day: 2
+          hour: 21
+          minute: 0
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 21
+          minute: 0
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 0
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 21
+          minute: 0
+      - open:
+          day: 6
+          hour: 11
+          minute: 0
+        close:
+          day: 6
+          hour: 21
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 11:00 AM – 9:00 PM'
+      - 'Tuesday: 11:00 AM – 9:00 PM'
+      - 'Wednesday: 11:00 AM – 9:00 PM'
+      - 'Thursday: 11:00 AM – 9:00 PM'
+      - 'Friday: 11:00 AM – 9:00 PM'
+      - 'Saturday: 11:00 AM – 9:00 PM'
+      - 'Sunday: 11:00 AM – 9:00 PM'
+    secondaryHoursType: TAKEOUT
+    nextCloseTime: '2025-05-04T04:00:00Z'
+phone: (503) 746-4752
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.0'
+rating_count: 640
+website: https://www.sushichiyo.com/
+description: >-
+  Explore Sushi Chiyo in Beaverton, OR$$$Sushi Chiyo in Beaverton, Oregon,
+  stands out as a lively conveyor belt spot offering fresh Japanese dishes that
+  capture the essence of authentic flavors. This welcoming restaurant features a
+  dynamic setup where diners can enjoy a variety of sushi options, complemented
+  by happy hour deals that make it an affordable choice for casual meals or
+  gatherings. With its commitment to quality ingredients and efficient service,
+  it's an ideal destination for those seeking Japanese cuisine in a relaxed
+  environment. Accessibility features like wheelchair-friendly parking and
+  seating add to the convenience, ensuring everyone can savor the experience.
+  Whether you're looking for sushi places near you or a taste of top-rated
+  Japanese fare, this location delivers a satisfying blend of tradition and fun.
+generative_summary: >-
+  Explore Sushi Chiyo in Beaverton, OR$$$Sushi Chiyo in Beaverton, Oregon,
+  stands out as a lively conveyor belt spot offering fresh Japanese dishes that
+  capture the essence of authentic flavors. This welcoming restaurant features a
+  dynamic setup where diners can enjoy a variety of sushi options, complemented
+  by happy hour deals that make it an affordable choice for casual meals or
+  gatherings. With its commitment to quality ingredients and efficient service,
+  it's an ideal destination for those seeking Japanese cuisine in a relaxed
+  environment. Accessibility features like wheelchair-friendly parking and
+  seating add to the convenience, ensuring everyone can savor the experience.
+  Whether you're looking for sushi places near you or a taste of top-rated
+  Japanese fare, this location delivers a satisfying blend of tradition and fun.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback on Sushi Chiyo$$$Folks chatting about Sushi Chiyo often
+  highlight the fresh, flavorful rolls and the excitement of the conveyor belt
+  system, making it a hit for a quick and enjoyable meal. Many appreciate the
+  reasonable prices and happy hour specials that keep things budget-friendly
+  without skimping on taste, though some mention waits during peak times as a
+  minor downside that's worth it for the quality. Overall, the vibe comes across
+  as friendly and efficient, with plenty of positive nods to the variety of
+  options that cater to different preferences. It's clear that visitors find it
+  a solid pick for groups or solo diners, earning its spot as a go-to sushi
+  restaurant in the area. If you're on the hunt for reliable Japanese spots
+  nearby, the general consensus leans toward it being a worthwhile stop for
+  fresh bites and good value.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +443,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Wasabi Restaurant & Bar"
+title: Wasabi Restaurant & Bar
 permalink: /new-york/saratoga-springs/wasabi-restaurant-bar.html
 stateAbbr: NY
 stateName: New York
 cityName: Saratoga Springs
 seo:
-  name: "Wasabi Restaurant & Bar"
-  type: Restaurant
+  type: restaurant
   links: https://www.wasabisaratogany.com/
-description: "Light-filled, modern chain branch serving up bento boxes, sushi and hot Japanese dishes. Wasabi Restaurant & Bar serves delicious sushi in Saratoga Springs, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJvSBPCvo53okREIzRwDWS8ok
 photos:
   - name: >-
@@ -185,6 +183,35 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 0
 website: https://www.wasabisaratogany.com/
+description: >-
+  Discover Wasabi Restaurant & Bar in Saratoga Springs, NY$$$Wasabi Restaurant &
+  Bar in Saratoga Springs, NY, stands out as a vibrant Japanese eatery offering
+  an all-you-can-eat experience with a focus on fresh specialty rolls and
+  flavorful dishes. This modern spot features a light-filled atmosphere that
+  enhances the enjoyment of bento boxes, hot entrees, and a selection of beer
+  and wine, making it a go-to choice for those seeking sushi restaurants in the
+  area. Diners appreciate the variety of options, from creative rolls to
+  satisfying sides, all prepared with attention to quality and presentation.
+  Accessibility features like wheelchair-friendly entrances and seating add to
+  its appeal for a wide range of visitors, while the option for outdoor seating
+  creates a relaxed vibe. Whether you're exploring top-rated sushi places near
+  you, this establishment delivers a welcoming environment for casual meals or
+  group gatherings.
+generative_summary: >-
+  Discover Wasabi Restaurant & Bar in Saratoga Springs, NY$$$Wasabi Restaurant &
+  Bar in Saratoga Springs, NY, stands out as a vibrant Japanese eatery offering
+  an all-you-can-eat experience with a focus on fresh specialty rolls and
+  flavorful dishes. This modern spot features a light-filled atmosphere that
+  enhances the enjoyment of bento boxes, hot entrees, and a selection of beer
+  and wine, making it a go-to choice for those seeking sushi restaurants in the
+  area. Diners appreciate the variety of options, from creative rolls to
+  satisfying sides, all prepared with attention to quality and presentation.
+  Accessibility features like wheelchair-friendly entrances and seating add to
+  its appeal for a wide range of visitors, while the option for outdoor seating
+  creates a relaxed vibe. Whether you're exploring top-rated sushi places near
+  you, this establishment delivers a welcoming environment for casual meals or
+  group gatherings.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJvSBPCvo53okREIzRwDWS8ok/reviews/ChdDSUhNMG9nS0VJQ0FnTURnOHF1NDlnRRAB
@@ -378,6 +405,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQ3cHRIaWVnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQ3cHRIaWVnEAE!2m1!1s0x89de39fa0a4f20bd:0x89f29235c0d18c10
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors often rave about the all-you-can-eat
+  sushi at this spot, highlighting the fresh flavors and creative rolls that
+  make for a satisfying meal without breaking the bank. Many enjoy the quick
+  service and variety of dishes, including tasty Japanese options beyond sushi,
+  which keeps things exciting and well-paced. While there are occasional
+  mentions of inconsistencies like portion sizes, the overall value and friendly
+  atmosphere shine through as major positives. Folks appreciate the reasonable
+  pricing and efficient setup, perfect for groups or anyone in the mood for a
+  casual bite. If you're on the hunt for reliable sushi restaurants nearby, this
+  place generally delivers a fun and flavorful experience that's worth checking
+  out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   paidParkingLot: true
@@ -414,8 +454,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Light-filled, modern chain branch serving up bento boxes, sushi and hot
   Japanese dishes.
 

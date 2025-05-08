@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "totoya sushi lounge"
+title: totoya sushi lounge
 permalink: /florida/orlando/totoya-sushi-lounge.html
 stateAbbr: FL
 stateName: Florida
 cityName: Orlando
 seo:
-  name: "totoya sushi lounge"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "totoya sushi lounge serves delicious sushi in Orlando, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJZyZhD9l754gR0TD-1pgDNYQ
 photos:
   - name: >-
@@ -185,7 +183,45 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Totoya Sushi Lounge in Orlando, FL$$$Totoya Sushi Lounge in Orlando,
+  FL, stands out as a welcoming Japanese restaurant nestled in the lively
+  Northeast Orlando area, perfect for those seeking sushi restaurants nearby.
+  This spot specializes in fresh, flavorful sushi offerings that highlight
+  authentic Japanese cuisine, complemented by a relaxed lounge atmosphere
+  designed for casual dining experiences. With thoughtful accessibility features
+  like wheelchair-friendly parking and entrances, it ensures everyone can enjoy
+  a comfortable visit, making it an inclusive choice for locals and visitors
+  alike. The venue's inviting ambiance, captured in various photos, adds to its
+  appeal with modern decor and cozy seating that enhance the overall dining
+  vibe, ideal for anyone exploring top-rated sushi options in the region.
+generative_summary: >-
+  Discover Totoya Sushi Lounge in Orlando, FL$$$Totoya Sushi Lounge in Orlando,
+  FL, stands out as a welcoming Japanese restaurant nestled in the lively
+  Northeast Orlando area, perfect for those seeking sushi restaurants nearby.
+  This spot specializes in fresh, flavorful sushi offerings that highlight
+  authentic Japanese cuisine, complemented by a relaxed lounge atmosphere
+  designed for casual dining experiences. With thoughtful accessibility features
+  like wheelchair-friendly parking and entrances, it ensures everyone can enjoy
+  a comfortable visit, making it an inclusive choice for locals and visitors
+  alike. The venue's inviting ambiance, captured in various photos, adds to its
+  appeal with modern decor and cozy seating that enhance the overall dining
+  vibe, ideal for anyone exploring top-rated sushi options in the region.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Customer Reviews$$$Visitors to this sushi spot often rave about
+  the fresh ingredients and creative rolls that make it a go-to for satisfying
+  Japanese flavors without the fuss. Many appreciate the laid-back vibe and
+  attentive service that turn a simple meal into a enjoyable outing, though some
+  note that wait times can vary during peak hours. Folks frequently mention the
+  variety of options that cater to different tastes, helping it stand out among
+  sushi places near me for both groups and solo diners. Overall, the feedback
+  leans positive, with people highlighting the value and welcoming feel that
+  keep them coming back for more. If you're hunting for reliable sushi
+  restaurants in the area, this one gets solid nods for its straightforward
+  appeal and consistent quality.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +247,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

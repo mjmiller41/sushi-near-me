@@ -5,4 +5,5 @@ permalink: /texas/angleton/
 stateAbbr: TX
 stateName: Texas
 cityName: Angleton
+
 ---

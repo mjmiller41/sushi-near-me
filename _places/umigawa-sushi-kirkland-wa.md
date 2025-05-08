@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Umigawa Sushi"
+title: Umigawa Sushi
 permalink: /washington/kirkland/umigawa-sushi.html
 stateAbbr: WA
 stateName: Washington
 cityName: Kirkland
 seo:
-  name: "Umigawa Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.umigawasushi.com/
-description: "Umigawa Sushi serves delicious sushi in Kirkland, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJv1FDNIQNkFQRPMG4Ur4Nn8Q
 photos:
   - name: >-
@@ -169,7 +167,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x54900d84344351bf:0xc49f0dbe52b8c13c!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 20
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 20
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 20
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 20
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 20
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 20
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 8:00 PM'
     - 'Tuesday: 11:30 AM – 8:00 PM'
     - 'Wednesday: 11:30 AM – 8:00 PM'
@@ -177,14 +233,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 8:30 PM'
     - 'Saturday: 11:30 AM – 8:30 PM'
     - 'Sunday: 5:00 – 8:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 8:00 PM'
-    - 'Tuesday: 11:30 AM – 8:00 PM'
-    - 'Wednesday: 11:30 AM – 8:00 PM'
-    - 'Thursday: 11:30 AM – 8:00 PM'
-    - 'Friday: 11:30 AM – 8:30 PM'
-    - 'Saturday: 11:30 AM – 8:30 PM'
-    - 'Sunday: 5:00 – 8:00 PM'
+  nextCloseTime: '2025-05-04T03:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,35 +245,264 @@ phone: (425) 242-1223
 price_level: null
 price_range: $30 &ndash; $50
 rating: '4.0'
-rating_count: 0
+rating_count: 157
 website: https://www.umigawasushi.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Umigawa Sushi in Kirkland, Washington$$$Umigawa Sushi in Kirkland,
+  Washington, stands out as a welcoming spot for sushi enthusiasts, nestled in
+  the vibrant Village at Totem Lake area with a focus on fresh, high-quality
+  ingredients and cozy ambiance. This casual eatery specializes in small plates
+  and sake, making it an ideal choice for those seeking authentic Japanese
+  flavors in a relaxed setting. Accessibility features like wheelchair-friendly
+  parking and seating ensure a comfortable visit for everyone, while its menu
+  highlights the art of sushi preparation with an emphasis on simplicity and
+  taste. Whether you're exploring top-rated sushi options nearby or looking for
+  a laid-back meal, Umigawa delivers a satisfying experience that captures the
+  essence of traditional Japanese dining.
+generative_summary: >-
+  Discover Umigawa Sushi in Kirkland, Washington$$$Umigawa Sushi in Kirkland,
+  Washington, stands out as a welcoming spot for sushi enthusiasts, nestled in
+  the vibrant Village at Totem Lake area with a focus on fresh, high-quality
+  ingredients and cozy ambiance. This casual eatery specializes in small plates
+  and sake, making it an ideal choice for those seeking authentic Japanese
+  flavors in a relaxed setting. Accessibility features like wheelchair-friendly
+  parking and seating ensure a comfortable visit for everyone, while its menu
+  highlights the art of sushi preparation with an emphasis on simplicity and
+  taste. Whether you're exploring top-rated sushi options nearby or looking for
+  a laid-back meal, Umigawa delivers a satisfying experience that captures the
+  essence of traditional Japanese dining.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJv1FDNIQNkFQRPMG4Ur4Nn8Q/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfazZPTnlnRRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        The reviews from others were right on, 👍🏾 this place is Amazing! The
+        door was hard to find at night, but once inside. What a Great, small yet
+        full of life restaurant! The service was excellent, and the food served
+        was Delicious & Perfect!
+
+
+        The sushi 🍣  🍱 was So Fresh, the cod so light and delicious! And the
+        tea ☕️ was exquisite!
+
+
+        And to top it off, the area was Alive & vibrant!
+
+        I will be going back Often!
+      languageCode: en
+    originalText:
+      text: >-
+        The reviews from others were right on, 👍🏾 this place is Amazing! The
+        door was hard to find at night, but once inside. What a Great, small yet
+        full of life restaurant! The service was excellent, and the food served
+        was Delicious & Perfect!
+
+
+        The sushi 🍣  🍱 was So Fresh, the cod so light and delicious! And the
+        tea ☕️ was exquisite!
+
+
+        And to top it off, the area was Alive & vibrant!
+
+        I will be going back Often!
+      languageCode: en
+    authorAttribution:
+      displayName: David Long Jr
+      uri: https://www.google.com/maps/contrib/118250251459893688315/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVpl_JKlQhNnURnirVD-2eiOfmrHzqxGFkGZcWrKaS1Y6iX5dI=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-01-18T20:24:04.235753Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNfazZPTnlnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNfazZPTnlnRRAB!2m1!1s0x54900d84344351bf:0xc49f0dbe52b8c13c
+  - name: >-
+      places/ChIJv1FDNIQNkFQRPMG4Ur4Nn8Q/reviews/ChdDSUhNMG9nS0VJQ0FnTUNvc3ZPdW1BRRAB
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        I can't say enough good things about Umigawa. From the moment I walked
+        in, everything was top-notch—but the real standout was the quality of
+        the fish. Every piece was incredibly fresh, buttery, and full of flavor.
+        You can really taste the difference when the fish is this high-quality.
+
+
+        The presentation was beautiful, the service was attentive without being
+        overbearing, and the overall vibe of the restaurant was calm and
+        inviting. It’s clear the chefs here are passionate about their craft.
+        Whether you're a sushi enthusiast or just looking for an unforgettable
+        meal, Umigawa is the place to go. I’ll definitely be back!
+      languageCode: en
+    originalText:
+      text: >-
+        I can't say enough good things about Umigawa. From the moment I walked
+        in, everything was top-notch—but the real standout was the quality of
+        the fish. Every piece was incredibly fresh, buttery, and full of flavor.
+        You can really taste the difference when the fish is this high-quality.
+
+
+        The presentation was beautiful, the service was attentive without being
+        overbearing, and the overall vibe of the restaurant was calm and
+        inviting. It’s clear the chefs here are passionate about their craft.
+        Whether you're a sushi enthusiast or just looking for an unforgettable
+        meal, Umigawa is the place to go. I’ll definitely be back!
+      languageCode: en
+    authorAttribution:
+      displayName: Alex L
+      uri: https://www.google.com/maps/contrib/116385403676930364557/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUyx1bZ4EyZCdHzpbFwUg7ATSOcOFnJxk_BSmUdYtuGJCmqesc=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-22T06:19:46.711962Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNvc3ZPdW1BRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNvc3ZPdW1BRRAB!2m1!1s0x54900d84344351bf:0xc49f0dbe52b8c13c
+  - name: >-
+      places/ChIJv1FDNIQNkFQRPMG4Ur4Nn8Q/reviews/ChdDSUhNMG9nS0VJQ0FnTURvMXFxSmlBRRAB
+    relativePublishTimeDescription: a week ago
+    rating: 3
+    text:
+      text: >-
+        I think the business may benefit from expanding their menu to include
+        some Dons and more rolls options, as Japanese restaurants here commonly
+        have. Because of the very limited menu, it was difficult to find items I
+        was interested in having. The quality was not bad but not great either -
+        very mediocre. It was surprising that the server did not know the kinds
+        of fish on the set sushi platter and had to check with the chef. Also,
+        serving 2 salmon nigiri and 2 tuna nigiri in a 10-piece sushi platter
+        feels cheap and low-effort. The environment was nice and it feels like
+        they’re trying to create a high-end dining experience. However, my
+        experience was just very mediocre so I will not be returning.
+      languageCode: en
+    originalText:
+      text: >-
+        I think the business may benefit from expanding their menu to include
+        some Dons and more rolls options, as Japanese restaurants here commonly
+        have. Because of the very limited menu, it was difficult to find items I
+        was interested in having. The quality was not bad but not great either -
+        very mediocre. It was surprising that the server did not know the kinds
+        of fish on the set sushi platter and had to check with the chef. Also,
+        serving 2 salmon nigiri and 2 tuna nigiri in a 10-piece sushi platter
+        feels cheap and low-effort. The environment was nice and it feels like
+        they’re trying to create a high-end dining experience. However, my
+        experience was just very mediocre so I will not be returning.
+      languageCode: en
+    authorAttribution:
+      displayName: yummydummy
+      uri: https://www.google.com/maps/contrib/103141825768508131173/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJq0KbRaIsj7NO3jZs17tdan-Oggn0IQItqSneEQS8XfMDUtIA=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-24T14:50:14.345608Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURvMXFxSmlBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURvMXFxSmlBRRAB!2m1!1s0x54900d84344351bf:0xc49f0dbe52b8c13c
+  - name: >-
+      places/ChIJv1FDNIQNkFQRPMG4Ur4Nn8Q/reviews/ChdDSUhNMG9nS0VJQ0FnTURvZ3F1Ym53RRAB
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        My wife and I enjoyed a lovely dinner here tonight. All the fish was
+        very fresh and the service was awesome. The manager seems like he is
+        running a very tight ship and is passionate about the food and dining
+        experience. Cannot wait to come back!
+      languageCode: en
+    originalText:
+      text: >-
+        My wife and I enjoyed a lovely dinner here tonight. All the fish was
+        very fresh and the service was awesome. The manager seems like he is
+        running a very tight ship and is passionate about the food and dining
+        experience. Cannot wait to come back!
+      languageCode: en
+    authorAttribution:
+      displayName: Chris Lockett
+      uri: https://www.google.com/maps/contrib/105140665168412505616/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUOO-VVlei-66P2bVPjtu5NLtYg2YVz0gSaZy3DlL0OkXxjzSYQeQ=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-04-23T03:15:00.215642Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURvZ3F1Ym53RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURvZ3F1Ym53RRAB!2m1!1s0x54900d84344351bf:0xc49f0dbe52b8c13c
+  - name: >-
+      places/ChIJv1FDNIQNkFQRPMG4Ur4Nn8Q/reviews/ChdDSUhNMG9nS0VJQ0FnSUNyaEtmVG1nRRAB
+    relativePublishTimeDescription: 10 months ago
+    rating: 4
+    text:
+      text: >-
+        The seaweed salad was well done and not out of Costco box like many of
+        other restaurants. The tempura was amazing. The sushi was good. Only
+        thing was that seems they were short of staff so things are a bit slow.
+      languageCode: en
+    originalText:
+      text: >-
+        The seaweed salad was well done and not out of Costco box like many of
+        other restaurants. The tempura was amazing. The sushi was good. Only
+        thing was that seems they were short of staff so things are a bit slow.
+      languageCode: en
+    authorAttribution:
+      displayName: Julia Liang
+      uri: https://www.google.com/maps/contrib/102632547311258325331/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJtuBoNbEYDvW5cxwI8fL6vqTHHmyP9cEbkS8-hzCCboz3i=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2024-07-04T02:05:12.450100Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNyaEtmVG1nRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNyaEtmVG1nRRAB!2m1!1s0x54900d84344351bf:0xc49f0dbe52b8c13c
+review_summary: >-
+  What Customers Are Buzzing About$$$Visitors to Umigawa Sushi often praise the
+  incredibly fresh fish and flavorful dishes, making it a go-to for anyone
+  craving quality sushi in a calm environment. Many highlight the attentive
+  service and vibrant atmosphere that add to the overall enjoyment, with
+  comments noting how the food's freshness and presentation leave a lasting
+  impression. While some feedback points out that the menu could use more
+  variety to appeal to diverse tastes, the general consensus is that it's a
+  solid spot for a memorable meal without any major letdowns. Folks appreciate
+  the passion behind the offerings, suggesting it's worth trying for sushi
+  lovers in the area, and overall, it maintains a positive vibe that keeps
+  people coming back for more. If you're searching for reliable sushi places
+  near you, this location delivers a generally uplifting experience with room
+  for occasional enhancements.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
+delivery: false
+dine_in: true
 good_for_children: null
 good_for_groups: null
-good_for_sports: null
-live_music: null
+good_for_sports: false
+live_music: false
 menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
 serves_breakfast: null
-serves_brunch: null
+serves_brunch: false
 serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

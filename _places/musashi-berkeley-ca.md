@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Musashi"
+title: Musashi
 permalink: /california/berkeley/musashi.html
 stateAbbr: CA
 stateName: California
 cityName: Berkeley
 seo:
-  name: "Musashi"
-  type: Restaurant
+  type: restaurant
   links: https://www.musashiofberkeley.com/index.html
-description: "Musashi serves delicious sushi in Berkeley, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ2YNPYYJ-hYARcDk4kYAivYY
 photos:
   - name: >-
@@ -169,7 +167,89 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80857e82614f83d9:0x86bd228091383970!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 14
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
     - 'Wednesday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
@@ -177,54 +257,295 @@ opening_hours:
     - 'Friday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
     - 'Saturday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
-    - 'Wednesday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
-    - 'Thursday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
-    - 'Friday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
-    - 'Saturday: 11:30 AM – 2:00 PM, 5:00 – 9:00 PM'
-    - 'Sunday: Closed'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: false
+    periods:
+      - open:
+          day: 2
+          hour: 17
+          minute: 30
+        close:
+          day: 2
+          hour: 19
+          minute: 0
+      - open:
+          day: 3
+          hour: 17
+          minute: 30
+        close:
+          day: 3
+          hour: 19
+          minute: 0
+      - open:
+          day: 4
+          hour: 17
+          minute: 30
+        close:
+          day: 4
+          hour: 19
+          minute: 0
+      - open:
+          day: 5
+          hour: 17
+          minute: 30
+        close:
+          day: 5
+          hour: 19
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: Closed'
+      - 'Tuesday: 5:30 – 7:00 PM'
+      - 'Wednesday: 5:30 – 7:00 PM'
+      - 'Thursday: 5:30 – 7:00 PM'
+      - 'Friday: 5:30 – 7:00 PM'
+      - 'Saturday: Closed'
+      - 'Sunday: Closed'
+    secondaryHoursType: HAPPY_HOUR
+    nextOpenTime: '2025-05-07T00:30:00Z'
 phone: (510) 843-2017
 price_level: PRICE_LEVEL_MODERATE
 price_range: $30 &ndash; $50
 rating: '4.5'
-rating_count: 0
+rating_count: 327
 website: https://www.musashiofberkeley.com/index.html
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Musashi in Berkeley, CA$$$Nestled in the heart of Berkeley, CA,
+  Musashi stands out as a welcoming Japanese restaurant known for its relaxed
+  vibe and diverse menu featuring fresh sushi and traditional dishes. This spot
+  offers a variety of options including chirashi and flavorful entrees, paired
+  with selections of beer, wine, and sake, making it a go-to for those seeking
+  authentic Japanese flavors in a casual setting. The restaurant emphasizes
+  accessibility with features like wheelchair-friendly entrances and seating,
+  ensuring a comfortable experience for all visitors. Its moderate pricing and
+  convenient location near downtown add to the appeal for anyone exploring sushi
+  options nearby. With attentive service and a focus on quality ingredients,
+  Musashi provides a serene atmosphere ideal for enjoying Japanese cuisine
+  without the fuss.
+generative_summary: >-
+  Discover Musashi in Berkeley, CA$$$Nestled in the heart of Berkeley, CA,
+  Musashi stands out as a welcoming Japanese restaurant known for its relaxed
+  vibe and diverse menu featuring fresh sushi and traditional dishes. This spot
+  offers a variety of options including chirashi and flavorful entrees, paired
+  with selections of beer, wine, and sake, making it a go-to for those seeking
+  authentic Japanese flavors in a casual setting. The restaurant emphasizes
+  accessibility with features like wheelchair-friendly entrances and seating,
+  ensuring a comfortable experience for all visitors. Its moderate pricing and
+  convenient location near downtown add to the appeal for anyone exploring sushi
+  options nearby. With attentive service and a focus on quality ingredients,
+  Musashi provides a serene atmosphere ideal for enjoying Japanese cuisine
+  without the fuss.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ2YNPYYJ-hYARcDk4kYAivYY/reviews/ChdDSUhNMG9nS0VJQ0FnTUNRdnVXVW5RRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        Always great service and family has gone back here for years.  High
+        quality sushi, ramen, and other Japanese entrees.  Chiraishi is great
+        and they put great care into the quality of their menu.  Highly
+        recommend.  Quaint quiet little spot and good for dates too.
+      languageCode: en
+    originalText:
+      text: >-
+        Always great service and family has gone back here for years.  High
+        quality sushi, ramen, and other Japanese entrees.  Chiraishi is great
+        and they put great care into the quality of their menu.  Highly
+        recommend.  Quaint quiet little spot and good for dates too.
+      languageCode: en
+    authorAttribution:
+      displayName: Jeff T
+      uri: https://www.google.com/maps/contrib/115080251710123933100/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUqxokUBxrYDar5pjT1HXsH2qj4-RRBEoK1sMB7aRND9TLWWFHqEA=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-03-04T17:57:02.011262Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNRdnVXVW5RRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNRdnVXVW5RRRAB!2m1!1s0x80857e82614f83d9:0x86bd228091383970
+  - name: >-
+      places/ChIJ2YNPYYJ-hYARcDk4kYAivYY/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ3ay1MRXVRRRAB
+    relativePublishTimeDescription: 8 months ago
+    rating: 5
+    text:
+      text: >-
+        Sashimi tastes fresh. Miso marinated cod meets my expectation (matching
+        the quality of other high-end Japanese restaurants). Unagi wappa and
+        chawanmushi are authentic. Service is attentive. Great ambience as well.
+      languageCode: en
+    originalText:
+      text: >-
+        Sashimi tastes fresh. Miso marinated cod meets my expectation (matching
+        the quality of other high-end Japanese restaurants). Unagi wappa and
+        chawanmushi are authentic. Service is attentive. Great ambience as well.
+      languageCode: en
+    authorAttribution:
+      displayName: Hannah Jin
+      uri: https://www.google.com/maps/contrib/106886643289463162646/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjU-Vp4dRIlE0ESrjzGTS6DlEU_p8wHTjZboJ53irljTEwTPQc6q=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-08-28T03:43:15.778072Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQ3ay1MRXVRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQ3ay1MRXVRRRAB!2m1!1s0x80857e82614f83d9:0x86bd228091383970
+  - name: >-
+      places/ChIJ2YNPYYJ-hYARcDk4kYAivYY/reviews/ChZDSUhNMG9nS0VJQ0FnSUNEdEtENVVnEAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        This place is the real deal! Fresh fish and great tasting Japanese food.
+        Beautiful plating. They are one of the only places around that serves
+        steamed egg (chawanmushi). I will say dine in >>take out and if you go
+        it’s best to get a seat in the inner side of the restaurant to avoid
+        cold gusts of wind when someone opens the door!
+      languageCode: en
+    originalText:
+      text: >-
+        This place is the real deal! Fresh fish and great tasting Japanese food.
+        Beautiful plating. They are one of the only places around that serves
+        steamed egg (chawanmushi). I will say dine in >>take out and if you go
+        it’s best to get a seat in the inner side of the restaurant to avoid
+        cold gusts of wind when someone opens the door!
+      languageCode: en
+    authorAttribution:
+      displayName: May Huang
+      uri: https://www.google.com/maps/contrib/115982211844978056968/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIhEypQtF0O8eXLxbqtgHV7Q0XLp3OJbmX4owQOttT-89Iv5vw-=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-03-24T23:23:10.358708Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNEdEtENVVnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNEdEtENVVnEAE!2m1!1s0x80857e82614f83d9:0x86bd228091383970
+  - name: >-
+      places/ChIJ2YNPYYJ-hYARcDk4kYAivYY/reviews/ChdDSUhNMG9nS0VJQ0FnSURaaU9uM2pRRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        Very reliable and simple Japanese restaurant right off of shaddock. We
+        live nearby and frequent this place. It’s pretty simple Japanese dishes,
+        but it’s all executed well with good ingredients at a reasonable price.
+
+
+        The atmosphere depends a little on where you sit. The color temperature
+        on their light fixtures are not consistent and you could get stuck under
+        a colder (bluish hue) light, which isn’t ideal. There is sometimes an
+        out door table or two, which is great if you have a dog. Overall - it is
+        a passable ambiance.
+
+
+        Service is solid with friendly staff.
+
+
+        Overall - it’s a good spot. We keep coming back.
+      languageCode: en
+    originalText:
+      text: >-
+        Very reliable and simple Japanese restaurant right off of shaddock. We
+        live nearby and frequent this place. It’s pretty simple Japanese dishes,
+        but it’s all executed well with good ingredients at a reasonable price.
+
+
+        The atmosphere depends a little on where you sit. The color temperature
+        on their light fixtures are not consistent and you could get stuck under
+        a colder (bluish hue) light, which isn’t ideal. There is sometimes an
+        out door table or two, which is great if you have a dog. Overall - it is
+        a passable ambiance.
+
+
+        Service is solid with friendly staff.
+
+
+        Overall - it’s a good spot. We keep coming back.
+      languageCode: en
+    authorAttribution:
+      displayName: Nicholas McNamara
+      uri: https://www.google.com/maps/contrib/110273882066543891734/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLjPQoiphiHoSjwIsFtmO30cqYeNlUOyiL_3TiwPXIQ8_GftA=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2023-09-23T04:55:22.214893Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURaaU9uM2pRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURaaU9uM2pRRRAB!2m1!1s0x80857e82614f83d9:0x86bd228091383970
+  - name: >-
+      places/ChIJ2YNPYYJ-hYARcDk4kYAivYY/reviews/ChdDSUhNMG9nS0VJQ0FnTURRcllqNXN3RRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        It’s such a nice place w authentic Japanese food!😻😻✨u can get mint
+        chocolate after paying!
+      languageCode: en
+    originalText:
+      text: >-
+        It’s such a nice place w authentic Japanese food!😻😻✨u can get mint
+        chocolate after paying!
+      languageCode: en
+    authorAttribution:
+      displayName: Sandra Ding
+      uri: https://www.google.com/maps/contrib/109403032548075663974/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWIaQsa1NrQLUrVpJgUJK1_icFlvq11SI8yG5YoQui95Bca9puc=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-13T03:12:18.452645Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURRcllqNXN3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURRcllqNXN3RRAB!2m1!1s0x80857e82614f83d9:0x86bd228091383970
+review_summary: >-
+  What Customers Are Buzzing About$$$Folks rave about the fresh and authentic
+  Japanese dishes at this spot, with highlights on the tasty sushi, ramen, and
+  unique offerings like chawanmushi that bring a genuine touch to every meal.
+  Many appreciate the cozy ambiance and friendly service that make dining here
+  feel relaxed and enjoyable, perfect for a casual night out or a quick bite.
+  Reviewers often note the reasonable prices and high-quality ingredients,
+  making it a solid choice for those hunting for reliable Japanese eats in the
+  area. While some mention minor preferences for indoor seating to avoid any
+  chill from the door, the overall experience comes across as consistently
+  positive and worth returning for. If you're on the lookout for top-rated sushi
+  places nearby, this location delivers a satisfying mix of flavor and value
+  that keeps diners coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeStreetParking: true
+  paidStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
 delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
 serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Casual Japanese restaurant offering sushi, noodles & steamed fish & rice
+  dinners from Niigata.
 
 ---

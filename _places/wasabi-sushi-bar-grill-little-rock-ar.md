@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Wasabi | Sushi, Bar & Grill"
+title: Wasabi | Sushi, Bar & Grill
 permalink: /arkansas/little-rock/wasabi-sushi-bar-grill.html
 stateAbbr: AR
 stateName: Arkansas
 cityName: Little Rock
 seo:
-  name: "Wasabi | Sushi, Bar & Grill"
-  type: Restaurant
-  links: null
-description: "Wasabi | Sushi, Bar & Grill serves delicious sushi in Little Rock, Arkansas. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.wasabidowntownlittlerock.com/
 place_id: ChIJn0AGfHy70ocRHQlFMwm8aH0
 photos:
   - name: >-
@@ -170,8 +168,113 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x87d2bb7c7c06409f:0x7d68bc093345091d!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 15
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 14
+        minute: 0
+    - open:
+        day: 6
+        hour: 16
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 15
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 2:00 PM, 4:30 – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 2:00 PM, 4:30 – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 2:00 PM, 4:30 – 9:00 PM'
+    - 'Thursday: 11:00 AM – 2:00 PM, 4:30 – 9:00 PM'
+    - 'Friday: 11:00 AM – 2:00 PM, 4:30 – 9:15 PM'
+    - 'Saturday: 11:00 AM – 2:00 PM, 4:30 – 9:15 PM'
+    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T02:15:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +282,56 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (501) 374-0777
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.4'
+rating_count: 605
+website: https://www.wasabidowntownlittlerock.com/
+description: >-
+  Discover Wasabi in Little Rock, AR$$$Nestled in the heart of Little Rock, AR,
+  Wasabi | Sushi, Bar & Grill stands out as a go-to spot for fresh
+  Japanese-inspired cuisine that combines tradition with modern flair. This
+  casual eatery delights visitors with an array of expertly crafted sushi rolls
+  and flavorful hibachi dishes, paired with a selection of refreshing cocktails
+  that enhance the dining experience. Accessibility features like
+  wheelchair-friendly entrances and seating make it welcoming for everyone
+  seeking quality meals in a relaxed setting. Open for lunch and dinner
+  throughout the week, it's an ideal choice for those exploring top-rated sushi
+  options nearby, offering a blend of affordability and taste that keeps locals
+  coming back. Whether you're in the mood for a quick bite or a leisurely
+  evening, this spot captures the essence of authentic Japanese flavors right in
+  the downtown area.
+generative_summary: >-
+  Discover Wasabi in Little Rock, AR$$$Nestled in the heart of Little Rock, AR,
+  Wasabi | Sushi, Bar & Grill stands out as a go-to spot for fresh
+  Japanese-inspired cuisine that combines tradition with modern flair. This
+  casual eatery delights visitors with an array of expertly crafted sushi rolls
+  and flavorful hibachi dishes, paired with a selection of refreshing cocktails
+  that enhance the dining experience. Accessibility features like
+  wheelchair-friendly entrances and seating make it welcoming for everyone
+  seeking quality meals in a relaxed setting. Open for lunch and dinner
+  throughout the week, it's an ideal choice for those exploring top-rated sushi
+  options nearby, offering a blend of affordability and taste that keeps locals
+  coming back. Whether you're in the mood for a quick bite or a leisurely
+  evening, this spot captures the essence of authentic Japanese flavors right in
+  the downtown area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Feedback from diners highlights Wasabi as a solid
+  pick for anyone craving reliable Japanese fare, with many praising the fresh
+  ingredients and well-prepared dishes that hit the spot every time. People
+  often note the welcoming atmosphere and efficient service, making it a
+  favorite for casual get-togethers or solo visits when searching for sushi
+  close by. While opinions vary, the overall vibe leans positive, with frequent
+  mentions of generous portions and reasonable prices that add up to a
+  satisfying meal. Based on its strong rating, it's clear that folks appreciate
+  the balance of quality and convenience, encouraging repeat trips for those who
+  love exploring local sushi spots. In short, if you're on the hunt for
+  dependable dining experiences, this place delivers a consistently enjoyable
+  vibe without any major letdowns.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +357,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

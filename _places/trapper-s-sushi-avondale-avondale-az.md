@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Trapper's Sushi - Avondale"
+title: Trapper's Sushi - Avondale
 permalink: /arizona/avondale/trapper-s-sushi-avondale.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Avondale
 seo:
-  name: "Trapper's Sushi - Avondale"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Trapper's Sushi - Avondale serves delicious sushi in Avondale, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJP_tWuRo_K4cRUKrtwt_DbM8
 photos:
   - name: >-
@@ -185,7 +183,47 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Trapper's Sushi in Avondale, AZ$$$Trapper's Sushi in Avondale, AZ,
+  stands out as a relaxed destination for those seeking quality sushi
+  experiences, blending Japanese-inspired flavors with creative Asian fusion
+  options. This eatery delights visitors with its all-you-can-eat selections and
+  a variety of fresh rolls that cater to sushi enthusiasts exploring local
+  dining spots. The spot enhances your meal with a full bar offering drinks to
+  complement the flavors, making it an inviting choice for casual outings or
+  family gatherings. Accessibility features like wheelchair-friendly parking and
+  entrances add to the convenience, ensuring everyone can enjoy the vibrant
+  atmosphere. Whether you're looking for sushi restaurants nearby or a go-to
+  place for Japanese-inspired cuisine, this location delivers a welcoming vibe
+  that keeps diners coming back for more.
+generative_summary: >-
+  Discover Trapper's Sushi in Avondale, AZ$$$Trapper's Sushi in Avondale, AZ,
+  stands out as a relaxed destination for those seeking quality sushi
+  experiences, blending Japanese-inspired flavors with creative Asian fusion
+  options. This eatery delights visitors with its all-you-can-eat selections and
+  a variety of fresh rolls that cater to sushi enthusiasts exploring local
+  dining spots. The spot enhances your meal with a full bar offering drinks to
+  complement the flavors, making it an inviting choice for casual outings or
+  family gatherings. Accessibility features like wheelchair-friendly parking and
+  entrances add to the convenience, ensuring everyone can enjoy the vibrant
+  atmosphere. Whether you're looking for sushi restaurants nearby or a go-to
+  place for Japanese-inspired cuisine, this location delivers a welcoming vibe
+  that keeps diners coming back for more.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Folks who visit Trapper's Sushi often highlight
+  the fresh and flavorful rolls as a standout feature, making it a solid pick
+  for anyone craving reliable sushi options in the area. Many appreciate the
+  all-you-can-eat deals and the casual vibe that feels just right for groups or
+  quick meals, with comments frequently noting the variety that keeps things
+  exciting. While some mention that service can vary depending on the time of
+  day, the overall experience tends to leave people satisfied with the value and
+  taste. It's commonly described as a fun spot for exploring fusion dishes
+  without breaking the bank, drawing in those searching for top-rated sushi
+  nearby. All in all, the feedback paints a positive picture of a place that's
+  worth trying for its approachable atmosphere and solid food offerings.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +249,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

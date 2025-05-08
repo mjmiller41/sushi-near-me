@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sus Hi Eatstation - Millenia"
+title: Sus Hi Eatstation - Millenia
 permalink: /florida/orlando/sus-hi-eatstation-millenia.html
 stateAbbr: FL
 stateName: Florida
 cityName: Orlando
 seo:
-  name: "Sus Hi Eatstation - Millenia"
-  type: Restaurant
+  type: restaurant
   links: https://sushieatstation.com/
-description: "Sus Hi Eatstation - Millenia serves delicious sushi in Orlando, Florida. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ4eHsWq1954gR2VL7PDn0PK4
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $10 &ndash; $20
 rating: '4.2'
 rating_count: 0
 website: https://sushieatstation.com/
+description: >-
+  Explore Sus Hi Eatstation in Orlando, FL$$$Sus Hi Eatstation - Millenia in
+  Orlando, FL, stands out as a vibrant spot for fresh sushi and customizable
+  meals that cater to a variety of tastes. This welcoming eatery features an
+  array of creative options like flavorful rice tots and made-to-order burritos,
+  emphasizing high-quality ingredients for a personalized dining experience.
+  With its focus on accessibility, including wheelchair-friendly features, it's
+  an ideal choice for groups looking to enjoy casual Japanese-inspired dishes in
+  a relaxed setting. The extensive menu ensures there's something for everyone,
+  from sushi enthusiasts seeking top-rated options to those exploring nearby
+  Japanese places. Overall, it's a convenient destination for anyone in the area
+  wanting to savor delicious, tailored bites without the fuss.
+generative_summary: >-
+  Explore Sus Hi Eatstation in Orlando, FL$$$Sus Hi Eatstation - Millenia in
+  Orlando, FL, stands out as a vibrant spot for fresh sushi and customizable
+  meals that cater to a variety of tastes. This welcoming eatery features an
+  array of creative options like flavorful rice tots and made-to-order burritos,
+  emphasizing high-quality ingredients for a personalized dining experience.
+  With its focus on accessibility, including wheelchair-friendly features, it's
+  an ideal choice for groups looking to enjoy casual Japanese-inspired dishes in
+  a relaxed setting. The extensive menu ensures there's something for everyone,
+  from sushi enthusiasts seeking top-rated options to those exploring nearby
+  Japanese places. Overall, it's a convenient destination for anyone in the area
+  wanting to savor delicious, tailored bites without the fuss.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ4eHsWq1954gR2VL7PDn0PK4/reviews/ChdDSUhNMG9nS0VJQ0FnTUNnZ2NfQTFBRRAB
@@ -396,6 +419,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNYOUl2eEZBEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNYOUl2eEZBEAE!2m1!1s0x88e77dad5aece1e1:0xae3cf4393cfb52d9
+review_summary: >-
+  Customer Feedback Highlights$$$Visitors to this sushi spot often rave about
+  the tasty food, with many highlighting the fresh flavors and creative twists
+  on classics like rice tots and burritos that make it a go-to for satisfying
+  meals. While some folks mention occasional waits during busy times, the
+  overall experience shines through with praise for the customizable options
+  that let you build exactly what you crave. A few notes on service suggest room
+  for improvement in keeping things tidy and efficient, but the positives around
+  quality and variety keep the vibe upbeat. If you're hunting for reliable sushi
+  restaurants nearby, this place delivers solid value with its moderate prices
+  and fresh ingredients, making it worth a try for a casual outing. In the end,
+  the general consensus leans positive, encouraging diners to explore and enjoy
+  while keeping expectations realistic for a quick-service setup.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
 payment_options:
@@ -426,7 +463,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

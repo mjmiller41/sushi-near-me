@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Oishi Sushi and Ramen"
+title: Oishi Sushi and Ramen
 permalink: /indiana/indianapolis/oishi-sushi-and-ramen.html
 stateAbbr: IN
 stateName: Indiana
 cityName: Indianapolis
 seo:
-  name: "Oishi Sushi and Ramen"
-  type: Restaurant
+  type: restaurant
   links: http://www.oishiindy.com/
-description: "Oishi Sushi and Ramen serves delicious sushi in Indianapolis, Indiana. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ12hvi5FRa4gRI-51S_kegRM
 photos:
   - name: >-
@@ -170,7 +168,105 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x886b51918b6f68d7:0x13811ef94b75ee23!10e5
 primary_type: Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 15
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 15
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM'
     - 'Tuesday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM'
     - 'Wednesday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM'
@@ -178,14 +274,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 3:00 PM, 4:00 – 10:00 PM'
     - 'Saturday: 11:00 AM – 10:00 PM'
     - 'Sunday: 12:00 – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM'
-    - 'Thursday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM'
-    - 'Friday: 11:00 AM – 3:00 PM, 4:00 – 10:00 PM'
-    - 'Saturday: 11:00 AM – 10:00 PM'
-    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +286,47 @@ phone: (317) 493-1884
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.3'
-rating_count: 0
+rating_count: 261
 website: http://www.oishiindy.com/
+description: >-
+  Explore Oishi Sushi and Ramen in Indianapolis, IN$$$Oishi Sushi and Ramen in
+  Indianapolis, IN, stands out as a welcoming spot for enjoying authentic
+  Japanese flavors, blending cozy vibes with fresh, expertly prepared dishes.
+  This downtown eatery specializes in traditional sushi and ramen options that
+  appeal to those seeking quality Japanese cuisine nearby, making it a go-to
+  choice for casual meals or special occasions. With accessible features like
+  wheelchair-friendly entrances and seating, it ensures everyone can savor the
+  experience comfortably. The menu highlights a variety of flavorful rolls and
+  noodle bowls, perfect for anyone exploring top-rated sushi spots in the area.
+  Operating with convenient hours throughout the week, it's an ideal stop for
+  locals and visitors alike looking for satisfying Japanese fare close to home.
+generative_summary: >-
+  Explore Oishi Sushi and Ramen in Indianapolis, IN$$$Oishi Sushi and Ramen in
+  Indianapolis, IN, stands out as a welcoming spot for enjoying authentic
+  Japanese flavors, blending cozy vibes with fresh, expertly prepared dishes.
+  This downtown eatery specializes in traditional sushi and ramen options that
+  appeal to those seeking quality Japanese cuisine nearby, making it a go-to
+  choice for casual meals or special occasions. With accessible features like
+  wheelchair-friendly entrances and seating, it ensures everyone can savor the
+  experience comfortably. The menu highlights a variety of flavorful rolls and
+  noodle bowls, perfect for anyone exploring top-rated sushi spots in the area.
+  Operating with convenient hours throughout the week, it's an ideal stop for
+  locals and visitors alike looking for satisfying Japanese fare close to home.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Customer Feedback on Oishi Sushi and Ramen$$$Folks seem to
+  really appreciate the fresh and tasty sushi rolls at this spot, often
+  highlighting how the flavors hit the mark for a satisfying meal. Many comments
+  praise the hearty ramen options and the overall welcoming atmosphere, making
+  it a solid pick for groups or solo diners craving Japanese-inspired dishes.
+  While some mention occasional waits during peak times, the general consensus
+  leans positive with the service described as friendly and efficient. Customers
+  frequently note that the portions are generous and offer great value,
+  especially for those hunting for reliable sushi places in the neighborhood.
+  Overall, it's clear this location delivers a consistently enjoyable experience
+  that keeps people coming back for more authentic tastes.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +352,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

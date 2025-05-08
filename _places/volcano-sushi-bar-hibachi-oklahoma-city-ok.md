@@ -1,156 +1,154 @@
 ---
 layout: place
-title: "Volcano Sushi Bar & Hibachi"
+title: Volcano Sushi Bar & Hibachi
 permalink: /oklahoma/oklahoma-city/volcano-sushi-bar-hibachi.html
 stateAbbr: OK
 stateName: Oklahoma
 cityName: Oklahoma City
 seo:
-  name: "Volcano Sushi Bar & Hibachi"
-  type: Restaurant
-  links: http://volcanook.com/
-description: "Volcano Sushi Bar & Hibachi serves delicious sushi in Oklahoma City, Oklahoma. Try fresh Japanese dishes for a great dining experience. "
-place_id: ChIJXQyMjq4DsocR-8avyxYL60w
+  type: restaurant
+  links: null
+place_id: ChIJIQgKppUTsocRUmqrsSfJSFQ
 photos:
   - name: >-
-      places/ChIJXQyMjq4DsocR-8avyxYL60w/photos/AeeoHcIuv0FSlvOky3wLvJECg0FDFGnehw-cZo6SyNC3yBJyyXYdw9kNRwH7rDFdkM8gnwfhOD8e6Rs4fdMppIRwL--pDHpBVTlgEnjdtoP-C2grXT1yZYEeGN0VzEbjrXpVKysitSdn-DLgg9yxG1c88Mloo-BLRX0tiM7bKSH3VRRj-5CyTd65nkDvuxfRL-48Ll6sgtav709y5Q30xqHglLC6UAUV7cIY2IA1J1allloKBSxXh9WKUJMnzFkhGoQ73HrmPD0Kf2eKxdY3uDbLqkxmy02VT6xqNhJePOUarfMcGsOOXNAkwb7FFey7H_2fe5ERVGJea5--pAsynGt-pAsFfUKUjBSf7PRn3QzFzKoeS6zESKZI8HngccbsY2vQ5CV_7PqbuznLU8LlEQKkyVrRJxCVfcSJS0_DujK9-f_tmwfG
-    widthPx: 4032
-    heightPx: 3024
-    authorAttributions:
-      - displayName: J P
-        uri: https://maps.google.com/maps/contrib/111481457366914278093
-        photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocIPnAEj1aNs6hHQHAlILinpWU7ATzKZ7HYQJvhFIXa7JXiNIA=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDykuDOzgE&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDykuDOzgE!2e10!4m2!3m1!1s0x87b203ae8e8c0c5d:0x4ceb0b16cbafc6fb
-  - name: >-
-      places/ChIJXQyMjq4DsocR-8avyxYL60w/photos/AeeoHcKGmoDBd5ILhVMV6zF4H8L5SJKZAoQiPSTtmp1kw3DIMvatgDJfB-Bi1HIAf-mh7c-juXJIU_OUPC04iqUGeMTGn3rzfpoVrPQSVtsfiY6YidnRXbf-4hkD0p7EtSs_8IRWLA5MAvKHNgxYmXGJRC8hLSMmp9xjwbhUm3jXIYKX_Rr6-OdKj69qbNp6qJePImKpb5mWIR0raZsURJrB89CJjFgc8SdKFuGiuji9bMZURzVw-5a_RxJDco5X9FQqFUrgXnN9EL4jmB5nRjny-hRWhi3QG5ISeouuCbmzX3zAFnmDgeZm-3CuHL91Tbrn0SHVPMurlB3wrFCLCVu67K2aZkfhyzeK7WT9QzcKkQVTxNXgL7A9scJ9sDgcjKbuPAQ3DRhKoZ2Rj5jps1I31FX3yOsUm-k7oy7Nock8p0lTvw
+      places/ChIJIQgKppUTsocRUmqrsSfJSFQ/photos/AeeoHcL2dfXfW9wgKZ-QizCjchkC_QC1GhmbIQcvm3FWu-RMRhiRwx3GhdAaal_618Gg-tfJW5Zef0v9qWjhrUjUIKI3GISOYo9iqFQ3SauGaKDxaVEhvJ80ArrFr2c2O7cF-cZyN14BZf9tywjKv4Zn7X8lNTW_mTKsp1MizyIvqBxcUxDOVH5Y9v1m7XFV7IpAoGEmgE40XG4sB1srOAyFAJ2SwDwFjUD6KBoFwRxiyixuqvS547Q8qtSJHnlyQwhmCCPS9pnq_snwgJZoGsXvYbLJh3EpGnzDVi5ZPIkUdDlzUlsds-rP1AxrM1hkNBSmLQ3lDGHuiywWjlGxYAvgUxQz8MAoJ5drVbWTHZFWrIEKkwBVXoQMwAJTORihV7216hvM08lN6nystGNRis6H0l8jiDg-WqoAas8H_DZ5BPBqXQ
     widthPx: 3024
     heightPx: 4032
     authorAttributions:
-      - displayName: Lexi
-        uri: https://maps.google.com/maps/contrib/100694791142917305733
+      - displayName: Thom Thom Jose
+        uri: https://maps.google.com/maps/contrib/113841707015106160950
         photoUri: >-
-          https://lh3.googleusercontent.com/a/ACg8ocJdTGGjnTfGI-6CqQevwDDi5HwG530TriC1IjCj3JTEuJi7lw=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjXEHtPdb-uGB_Z_PJbFCGr2z2Q55ZWg841WcBmelN2kIciBkrY3=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICp0rinPg&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDR59WIEQ&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICp0rinPg!2e10!4m2!3m1!1s0x87b203ae8e8c0c5d:0x4ceb0b16cbafc6fb
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDR59WIEQ!2e10!4m2!3m1!1s0x87b21395a60a0821:0x5448c927b1ab6a52
   - name: >-
-      places/ChIJXQyMjq4DsocR-8avyxYL60w/photos/AeeoHcK0N5dAf87Q_AaeVtgulFKIU6cJbieK8gSbBDvGUtebDjLGKPset7zWWUZjKCEMvd0Hrgg0yVOpwvCIcFX2ULszPExtfD24nW0wN0e_qJ319NuA1RkAFzCjE_IX2p_g3KMJIxhU4O_qFk8ChZBtaO78ZJpzOgrKho8XxF66xCI_t9au8XImhC-KRUkmsZVs6sy-zU_FKEyLD_VclVFxo7ZXiF9tpzf2_7gJ0hnDNRQ1OSoTSgMLE4jLjzqpsOvmcr4hyYbixv9jMh78K09Ck3Uk4ZIwmWAf9WJAChfUN0srHRgMjx2cY3FcKQBs665S2FyiZQd51qtysLM__FUUGrBOmZFWUqt1O3DVgYCuoyZGeEIT2hNh38CALQ8Yhl4mmbrTGRXeuhNQlhdF77UrBmYsed8Hq2dF_kttHWnzBo6IkA
+      places/ChIJIQgKppUTsocRUmqrsSfJSFQ/photos/AeeoHcKX4zQ35IWRxAv4gNjX2Q_FMDkmUE1tkHWXJee2J7vNlBPDC0lJc6uvi8qWKSzyJYb5QRsSZ3qijwjYjZmAcl_MaPCgV5ZcQ90u6kRMfxdhw37RvsP9zFXWjraCO5Dn68W2Quicc9OaSyLxkKLfyazz69UFMLmdEs77hplewln-sK9kNSWoyWPaV9fBG4zk2rXACXA7nMDQ4U_Ec8y0ME7zzyFIcx-l88gW_OfOvjWapK4TRqqfmBLl0SoFe8KeYQn5laZO5dBmnqX4QQNfsFvh7eKTzc9ZIXQESjlbILbZ-D-kTCS_e-9Sa9s-e0xY00tjQzTjPd8M29OQf-ySbYnAvvFM7H4B1myQ2SBOwjQtoiLH6PeUQgYjdwM3Ab9rYljSfL5hkHFH02KHUeu1bVG70IbFkuY_wYHBPILH5QKiGHmW
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Zo Marcy
+        uri: https://maps.google.com/maps/contrib/100972965510037520997
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjXNMO5TxkqyQ_UnqHxmfEpwhR0agUkcJ1dZUKkZbCM4aiiyDl_PRA=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICHp8LLxAE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICHp8LLxAE!2e10!4m2!3m1!1s0x87b21395a60a0821:0x5448c927b1ab6a52
+  - name: >-
+      places/ChIJIQgKppUTsocRUmqrsSfJSFQ/photos/AeeoHcKoeSq4Xy8KDOA672FuLJB_OYziril4Xm5VrBHrqZq48Ngo-91jdC-0E-6Ka33nASTDUn0AsRvJDkJzEt62njJ4DydyzwdIMJYH7pZ_8BPQQI9h03stPlRem-TgrEh4F0gLS4qPCY-q65Ei72Ei9HxeumnMFEyr0zKfx9vKDoYWn1emL_aoDuewMe6uls6qhoxyVBILyRh3CuYLUWQ6QOLD7gYyXDG-1EqVx7EUFhw27SYCb3hpaEJHBotYRuCvysd1W6Nm1CnVDZZ8VKC1eGKJYnsMk8Ky_7hsLz1fs5808JXb8axW5oAbsd1Ba39TgAKFWp9_l3yzi_16b7xBF6BzeIX9oMBm5WB_KKULZIbADdUk0iBrQFDPjpBGwFMjA7jeZnguYh1KQOOIlTGdl_ZZRKwlo74eBHiUo79EPj2EAFpg
+    widthPx: 4080
+    heightPx: 2296
+    authorAttributions:
+      - displayName: Tim Wheeler
+        uri: https://maps.google.com/maps/contrib/109520940290027834293
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLrkvyhNrRTspQxV3FMsFlov83OATxGzgtJG97Qjj40Ly26tQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCwnZOhxgE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCwnZOhxgE!2e10!4m2!3m1!1s0x87b21395a60a0821:0x5448c927b1ab6a52
+  - name: >-
+      places/ChIJIQgKppUTsocRUmqrsSfJSFQ/photos/AeeoHcIDyqFuA3iMLoM3c60lEWRtC2HkuVfJP6HLc43QbLRSjEd1eaFxkLXVFDj57FD_MG1T7_DzDr_ENbm0rJUlO2JAcYU2Ik-V057kKZGHnqTQCXlqEBz5JBkllmiB-rftjyqbFHpevqiHGay84BzpH3My1QCNDVSZZ9HgSUDo_aXMGtRsoauaz6etfTqJ51l_vIOWA4l2OfYnHuEaIBiTp0-ZGcj62B3_UH58QBxDytfYhJCnN1nTIbzFB3TlLOFnlC7HgEK6Q9z1xVzq5GtocBya-olxp1ZhyiUp2MeRof4NRNqoBlsI3F_nCOZyOp6IPHRvLD-wH_zSFmC4X-q1oPOG7mQttrz7k71p0Z8Z1Qcn278xCHwEzON5fJoluHMS5rpDXbqT0gOFEtBN960q1r19Cwi91VaMSyaNHGawp3Jo6g
+    widthPx: 4800
+    heightPx: 3600
+    authorAttributions:
+      - displayName: gumaro valencia
+        uri: https://maps.google.com/maps/contrib/109701928511166758160
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVx6L-vu7qeANaf7k98RLK6DCMHWyvpfUYNP3ila_OAh0PT9jcf=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICLl4-JUg&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICLl4-JUg!2e10!4m2!3m1!1s0x87b21395a60a0821:0x5448c927b1ab6a52
+  - name: >-
+      places/ChIJIQgKppUTsocRUmqrsSfJSFQ/photos/AeeoHcLHGrA9imCyVEwmcGoyL3VGH5Pv1nMNnFJ1tCWqmy2lK8Aurfp_69b_ZXELg1VMf7DVf43Gi6_dvmdfSx-BLE89f1od6fxOZ4ojQPnZADASvU51r-TBgSvA5kAU_bRzEqwR221xbWXq5bI-RljhwKuvrkjWZIWO_6v5T7vk67dGSP2Rq0ovHMz3YPZIndPh_BNTVSPyPH5PLF8ImHk0f2VBQkJPsbo0m78JjgSKVQz2BwswubQwJj2vmSBw3BR63DSfXMnO3U5Epp1uExCkeS_VOkNNyk-I4BoWUAn4K20C1KtRznEdm7WnHGjm4h1Fu57Qq36q4rfwpqHAwZyuwICYCMA6WKHyzT9p_sXSugYHcCWsfCNDr2e38uKfXYRoAXENBL5zUBaJBkkpHSRoOplT37UYSoV5cw1OK2LDZ5yqozEb
+    widthPx: 3024
+    heightPx: 4032
+    authorAttributions:
+      - displayName: Josh Davilla
+        uri: https://maps.google.com/maps/contrib/101553538524767960796
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjVt3aGtBfRwbJGOxW-xRiIRSd7yFn5dU0kr8aOS0XHAVDQU2DUi=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDgp5_QkwE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDgp5_QkwE!2e10!4m2!3m1!1s0x87b21395a60a0821:0x5448c927b1ab6a52
+  - name: >-
+      places/ChIJIQgKppUTsocRUmqrsSfJSFQ/photos/AeeoHcJDZmOgaxLWjC2gExyjKRwIg-3E1T5Uy61Mqjoc8pW7XkepnuT5S1ZQ8I2sRBq659BduotucdoZcVzICfnU4Dk0FaRCBqV7R-38qTB4BRLbQSgK2SdpHINy_6Xsgu80G4sYMCt1Hd0U_Kd2R8JQz9YMT_EoguSu-zW6bGoui7f2obqNhMaJZ9-hzI4d2vKDQjRwPodxhzlr38gTeXFxq05nTT43a1bZYGd3SUjZ2W-NGeKZkjVCiO3_4MewC4Au8FtNgGL3gYVSS8SEHILlQY2IKrvP60HKpHjAz-98p_vA7TfD9dBHm81n6jqC2dwxAeumw7Q6IumhCEdQ6Lxc-FDWlD-W_fHpRzI3vl5LarpYBuFIOinpXeG9T-W_I6ZBWEObYzhMuW6mvG3p1hpptLrAMYGz2eDbwVjwqcZeRPOiz1to
+    widthPx: 1080
+    heightPx: 810
+    authorAttributions:
+      - displayName: Drew
+        uri: https://maps.google.com/maps/contrib/115752191995965860031
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjX13eX8Eny8EiUlSc9t6YS7-jk7fOy9Agvp8To3onwToChOqnuq=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDDlPb8pQE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDDlPb8pQE!2e10!4m2!3m1!1s0x87b21395a60a0821:0x5448c927b1ab6a52
+  - name: >-
+      places/ChIJIQgKppUTsocRUmqrsSfJSFQ/photos/AeeoHcKmvGIPkCmIK-ZhT1n66U-f0A7b_9Y2EszcpStyGxicw4UXEQxne5fnXgR5_t8SuwdaGJu9EVRZVbuISU94ZPET8bmKJooyi5QKlTcYnrtE6qvpVhgaJo0-jy0WS5TDShIVz5eK7NQE2_qJriTwlOxynaxZJHNS8q6rBRV9SAJ0v3hVaompPYwWVASUOlgVcbPxxm1b1ZVhHJsd8TW3Pjs5CVYaSTkZKp0Ga6UaHQgjWlERbO9gm3eX5_YVFnsbgglvF9dJmQmOnhkAE-SaV8pHO90N2h2kcjhoCh2gWHxx0vub8-sp3_mKTY3hll3KLLF6Dragkp2jzqGCxBKlnoSW66Ww-M9SP1-AJJYfwQnNVzRuhaZOyPqtYsDR2bue2SBED4DbVwX-cORMkxbxfi6uvvP4QihwN4olBsxhcJNC6IBj
+    widthPx: 4032
+    heightPx: 3024
+    authorAttributions:
+      - displayName: Leslie Damron
+        uri: https://maps.google.com/maps/contrib/106588947845717508662
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocJ3lBkjc5fXHXTmfoz5HlLGIjaktmEpAh04rs67iv6nLNpS_w=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICGz9TZ1wE&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICGz9TZ1wE!2e10!4m2!3m1!1s0x87b21395a60a0821:0x5448c927b1ab6a52
+  - name: >-
+      places/ChIJIQgKppUTsocRUmqrsSfJSFQ/photos/AeeoHcJ8GbUnNvWlgCVnWoJYHjPJJ1R57o17bgUqXT-2p09zTDe31sNCLzvqh2ECoiW_Y2sPriUESGBpjVTOqO-kaObMjBMh0cZxEm7XDdyd8LIOk_BPjdrj0THp7h2hN-COr-5OI929ASgWIQarpcJfL3i8-NUyYZpU5dY-9P1km89-6Sp73g2KWmB0RzO_sCHEs8XfYTdgZo7WfOLzSMEQHthyYNy7pkeq6RwV5SDXbkuODmFHyPdfBbrgkKnCUsrqo9AG5bUs_Sz4du0iOlFzGHrt-fzcvP4HUa0PDxWTIqOEDaHMbZL-SSwuQp-MpXVzDtj7yg4Cs2JVO2dKCS01IJFJamzZvR0cUeNymI_10YrFqlWP_h2gDjP1Xh1moxCCxm0fDyOMw9PBztbGMeRslyJs81Kv0EinG9IUsG2qhQr64A
+    widthPx: 3600
+    heightPx: 4800
+    authorAttributions:
+      - displayName: Taylor Schoolcraft
+        uri: https://maps.google.com/maps/contrib/111494240749061783565
+        photoUri: >-
+          https://lh3.googleusercontent.com/a/ACg8ocLkaj_pDI5jnS-jf6AFORzXImpMjovwBEb9zDeLMuOYVfb6_A=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC7rZTPSA&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC7rZTPSA!2e10!4m2!3m1!1s0x87b21395a60a0821:0x5448c927b1ab6a52
+  - name: >-
+      places/ChIJIQgKppUTsocRUmqrsSfJSFQ/photos/AeeoHcLIpnFeO6XuE2q7zgQ_Cx_QLWCXcxjsLU9_M6evGR248Mh78bD5RIGOtsFiTp7XOtb_qoX-q-lLfU1K2FVseOWulXKfdN33cO2z5rNK953bU0oQ3u9iaG4SLaZvHiA-CFjBM_f7ylRCCimZv2WFsNxdcqlfYjq58hzwe3mDgLHO7dQuLJl6CP0p0xa0D9zFFxWTHaYdTDn1NP7YMv1JfVRIatNMuA41_pdu2b4SjZrbdUoV_AsHlIKMVuYi-_4yZVewv4drsEHqjL3sWyCRXoi6kPf8mWkAUQy_UFEMvryjkWO4DWoeMTnxEtwP9-1CK8I7d9l8gWTlAxzRA44N9US3NldGZbjY5L2oNoKR8r6XZotBJJY5XIns7IpC7lioKw9LDBVJcFioL4ASOym0Lh3d0nxwkxygVINeSEz7mWbVVw
+    widthPx: 3000
+    heightPx: 4000
+    authorAttributions:
+      - displayName: Blair Chimuela
+        uri: https://maps.google.com/maps/contrib/108020464425367959366
+        photoUri: >-
+          https://lh3.googleusercontent.com/a-/ALV-UjV79nDwk3dm0RLvOz1nC05t9I3fta9w_RnVWqME-De_B9UWliAPFQ=s100-p-k-no-mo
+    flagContentUri: >-
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICvzZmXUQ&hl=en-US
+    googleMapsUri: >-
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICvzZmXUQ!2e10!4m2!3m1!1s0x87b21395a60a0821:0x5448c927b1ab6a52
+  - name: >-
+      places/ChIJIQgKppUTsocRUmqrsSfJSFQ/photos/AeeoHcKFN8PbRtgAGEtOclhSoi4mgyAX3aIBgwcfZVLFLNk-UniIkH0KkIvLrrOQnxpPaZxwWeINYVQxb9TBrg0tM0jSB8bFEFWSNrkppvXP06z4c_FhGXc2Qg_mrIaoobBxUBhNWdrroJbFZ0wobdnEEiWw4cEdOWBKWdI1JpFn1wMrsl3F2i_etuPalL5EIrNcnCklmtZZqvgAgETgsk1BdWfYfhRgv0KtgQGtjds40hsrsmznTC5Kr6vX7U6lXmEN7H2b_Bn3xIiENceRrLAD8HFITs38CGjGeup0vTAGGZ_LntdgjKeG5GeaY2-Hr3BujMnx-T-tRrHMihwb593i2gDqSmaa1d2YLPhBcOODG7YHek1xmL49FdeVmuF1s2Bzy8iPt-EVk18JOi9vJS236oFtpapi7FRdG6suMlnY4Ac
     widthPx: 4080
     heightPx: 3072
     authorAttributions:
-      - displayName: Marten Roos
-        uri: https://maps.google.com/maps/contrib/109674369454690072416
+      - displayName: Bill Wolff
+        uri: https://maps.google.com/maps/contrib/108989667979835330957
         photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjWnjpfmVl6D3IXdBabwFi7pdcai9A7BmhIELyqbfYm4tqqewwk3iA=s100-p-k-no-mo
+          https://lh3.googleusercontent.com/a-/ALV-UjV1twaozZ-N8CIxpHmzH2VoSALwroRgcp-_vSTwmJ80DxH9D1XnwA=s100-p-k-no-mo
     flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICby8CLNg&hl=en-US
+      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDhrc7bVQ&hl=en-US
     googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICby8CLNg!2e10!4m2!3m1!1s0x87b203ae8e8c0c5d:0x4ceb0b16cbafc6fb
-  - name: >-
-      places/ChIJXQyMjq4DsocR-8avyxYL60w/photos/AeeoHcL7gb9lqtTEZJBby4gFEVYerMwp4ckoUn6NOgUjkNwSFR6j6Zhy5UrHAddOe-bC0dIHZaxFwC9dY2HfPK45m9sKpffOBSOstpMlJT99x1IHa8Awr1RZzqebn-geo46mjcMLpuis2RzNMoI8OoHz0u6-alpxNizRNFNWUng63VchkD4MYLiimNQid7ceIwUWLp2VuBi2ROY7eFldjSmPA6_r8k1zb3LQvp7JKULQL8GODOcf9Qnor2ndEItQGhAosMlw4WpCFwuLbppUuFafevUnjrW2EjX332Y8qNZE666X6vQR4GDXbBzZoTdWOMofs5KIDwJqrDqTVBnwV7xdy7pmTNDHrgIjbvjAFrJHfX3BjcKgGIJHnjtUvPwp6_Lsoa-npivJt8V78fQNr6Mn7httiWQR6btNoC3bn-J_aOQ
-    widthPx: 2958
-    heightPx: 2866
-    authorAttributions:
-      - displayName: Jamie Schoeling
-        uri: https://maps.google.com/maps/contrib/109624444470978102029
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjWfnA_MdDKPGTc7bPk6gdE5u6pG2RivfDeM-v9vq7pl5guf20Wv=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICn-a__Qg&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICn-a__Qg!2e10!4m2!3m1!1s0x87b203ae8e8c0c5d:0x4ceb0b16cbafc6fb
-  - name: >-
-      places/ChIJXQyMjq4DsocR-8avyxYL60w/photos/AeeoHcJ1GEs8kG8lH5X5tttN7IPDhJrIXa8CX6ar9BMDvud_FPd9pILRoQSnjDlQbaSnTE4GFSBSVjgBcmuAhZAL7OcjJEvRn93w-iYqU_Jlwe-xTnd_WX07S_adS-6DfT9u8w1GzEQyoBxqJFHTmiPbzsbAQdPZmrWQLwQf3TVqCbeR4WB6JpKP3-DB1deyHyi3hTiwlffJSfyxb5cK8z3y16k3GLxa4o8e4sMRirDjfJ-UnFqVGQusSvQl5y7ox89ic738lQ9ccJf4Fz0uCkMWguxhg8LrM1SEDH1NtMY7CFP0b2eb0ILO3MOxMNo29Pjykp_A3MKhX3kGW5EwB9OV4sbEbM-K9NR5z5vCXiO6rj6wrn-QdslQjxXZGAopy0pC6h5Y8HvvAZbMI2L2T4zNGWTF0-ocNjh_cqDB6UD5UU7TTXeb
-    widthPx: 4032
-    heightPx: 3024
-    authorAttributions:
-      - displayName: Terry Bowler
-        uri: https://maps.google.com/maps/contrib/111442327008709897861
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjWlpWIzPJpDE91FE8Mts1-9rc6KP2sLBI6L-q9glBRr9V3vh4B5=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID7jt-xnQE&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID7jt-xnQE!2e10!4m2!3m1!1s0x87b203ae8e8c0c5d:0x4ceb0b16cbafc6fb
-  - name: >-
-      places/ChIJXQyMjq4DsocR-8avyxYL60w/photos/AeeoHcJRXCEIl5LeYf15Qr1ibczNE_dL_vKXMwNc2XZQG91Mhk0LnVtVTImJZWZS4EnEoHraLMIa2D_PTTrCPvfkEYJp2C4hGDyHh8Pep_2xIpdW7yTVUuo-3nNm4qQcs7mVI8tK_4Lnf6bGB9CTNgEohgtd78rPKn_QmkTiiTVba6b2kgkik_LufnQqWfu2JCrg_5pETT-9g8gpWXnPYVwUfDZJ78XKNZkiEkkewBwF08NAZd7kPs0Rb6-h3NejaEUD7Un5JwQcRTtcGOj0xCwUfFb8hg488DZzdeADQLdshPR_gty0ahkQ2tFSETFbN3AaStwdBlI_-oYA0rlzBdU44AMK5hRTPGDUDky2hJ0gT5B1UcU9SLAN0w4g5kTEnJFnlDoC8XUGBINLsU-qgS9ie-MYJqIhtwkSBmJLiKt33X8
-    widthPx: 4032
-    heightPx: 3024
-    authorAttributions:
-      - displayName: Jacob Velez
-        uri: https://maps.google.com/maps/contrib/102837712189144276625
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjXQlnXXL-RSp-f86BJ4FLuaxa3K3cRePDor47EqHLob5VhT6L8c5A=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICJwK2Maw&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICJwK2Maw!2e10!4m2!3m1!1s0x87b203ae8e8c0c5d:0x4ceb0b16cbafc6fb
-  - name: >-
-      places/ChIJXQyMjq4DsocR-8avyxYL60w/photos/AeeoHcKMWc-Y39dIQHK3a76gBc6C2GR59G8FGj71aJMljbvHcE093y-KBKfZLfkr0EIUE5Hhts_Ml5JBq-GBZ_uUGJvvxz9Hi788zngERntNSm_SSqmWRroanB8PHZwTAJ9thWhVHoBtrU2hutws7dd3eyreoeeLgOqIjQJxCriAyO4md7un8ittOSTVDBYblDKIjq7i44_HLOG4DM_fdVqru2v83Lq2zQUajlpKiEWNYWc7QTDa_o7BtzLZyO6B3ffYr4v5pAq4X8a4VzZp4AE4VcPTrrh3jg1Yn4H7OJ9U7WjDFtbRNso3lwQlc3O3mADQOl1V0mmBtLYYNkUnEP_R2dzGH2lBkVU8L7JARTMbqZzwYPsedxNcnfe55Oio3gPfx9vj8iSOUF43R5bMjHChGGC-bvSixWEsMxrgz969nx4Jjg
-    widthPx: 3172
-    heightPx: 1863
-    authorAttributions:
-      - displayName: Will Bruhn
-        uri: https://maps.google.com/maps/contrib/105333144400912836489
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjWb3hUShT9yjdoEa1qqHZAd-UOcFpegOgo-DDsCBypr8DKuoWdC=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICRuPSGWQ&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICRuPSGWQ!2e10!4m2!3m1!1s0x87b203ae8e8c0c5d:0x4ceb0b16cbafc6fb
-  - name: >-
-      places/ChIJXQyMjq4DsocR-8avyxYL60w/photos/AeeoHcIxUGQ4Bahh8707MHPQTc8ZnTUvXNKpeaxlv5n8BfBzgSzNA0Vb8O3LT6-nvo-lQFYixf7va-biWMufYW9meAJPOc1uTzgG-IlLy7U0z0Yx9QSjFvdh4X5guHZ3g3yRpozgyqZYdbW8xS4-UQhiZOHWYWbKBFA8jIFrr5E4n9P18buhsGAtxINdk4gVorxQR_L99k8zwOyx_KkKbL36V8b9jcmHx2NfBOr8dNZezKzFsF1-4NWbfoBgrXaFWq3jcsLcYdc0iFeUM8vP7BFi8y_LcfCcz-d-0UYDg38j9nXeobKuoFsfH8TYMN515oNgUu0p_J_cx9XOYMxDY2tsJgt89G6yUHJaXS5AysWXtoe9g93oXJdwzFMFYbErlj2jwhprtv1VIsa1Ff4b8B-XTOPmitBrVV_GR0JNifs0GUo--g
-    widthPx: 1108
-    heightPx: 1477
-    authorAttributions:
-      - displayName: agaligo ogilaga
-        uri: https://maps.google.com/maps/contrib/113430657134932219386
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjXg2OHy0dTD3WzDTjT1B2xbOsiLxTcpNoKdInncmNJGT6kELG1F=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC1pKCTHQ&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC1pKCTHQ!2e10!4m2!3m1!1s0x87b203ae8e8c0c5d:0x4ceb0b16cbafc6fb
-  - name: >-
-      places/ChIJXQyMjq4DsocR-8avyxYL60w/photos/AeeoHcKXNb4nbHDlMk1BC0umlYav9iedzFI43tFGI5GeMnmDPmss2G9XUKvAzTMKlzpFhj13DI-tsxM59IyGq30spQeIK_KWFcNE6yGD42w0MC1AX2wCzWAFjvmutfUmlDMwRQaKlcFRG8_2t6dNQkX1UMwD0ovLsiUcVYR3eLQH648OVzFeb_jLVT2dYYV2H0jsSP_Sxu_ls9zapekq6yztVABk4-O4i7-GcclquvAIl9ZPKzxYqUDcnBuc_KkJ4p7H_WZ_gmch-DnlGiS0uMDshf7vRluusmT2PR4I7WV_gXFKp0_Ge0dQql_G4b3OVi-8RUArJ_cA-TbRSLy2ZIyEQR7GXxzF5lVA1NNPXqdcstk4khlSQU_i5JfK1kxsYjbASf1BfUSYnpKJw9VT2fwC6iw6JTCR1gCEKnZTLLzKW_o
-    widthPx: 1713
-    heightPx: 1284
-    authorAttributions:
-      - displayName: Judy Cabalatungan
-        uri: https://maps.google.com/maps/contrib/114199294959078795005
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjU13oysS9v_WcZpuDDeUPSQNJn-7fuW7DYCASFG-uyc3zwhbX8=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDg55axUw&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDg55axUw!2e10!4m2!3m1!1s0x87b203ae8e8c0c5d:0x4ceb0b16cbafc6fb
-  - name: >-
-      places/ChIJXQyMjq4DsocR-8avyxYL60w/photos/AeeoHcJTvoVFxfVrHPuufb-UgH-bLH8lb-guHTJ8i7lR6XD-LkLPS9e-yIJo_BKIk5m6xo3UqmT63eEa04EF9NYShtMMIARvkwSaOTp9otVMo3Hq5Qm3qs5NDWWv2I9GgnmHJK0pcYT9FPQMK5SwK0_Drt_gNNf23ort-GXy8folTKRiTo_nVDPTONyAd3cC8ryTmjvrak3SgofsbtSL8ibHkXbuggDrPf7r9yhuVGXfDuPBqGdcfBwUvK99gFByRh4UjfqfTCXe7C6slbF7WNZiOwvurY2_PdTg1u3S9Ut6OZ1zLH_o3C_QqtLXNXRYoq0zXwtDtNhdwAMZXF77aW3azfiM8nqSWYVABtEY08Fr90Nvcma74fooWseY2I7p0_jARtHK9z6Wov2ha7rfgzssuoIS5Jyto6SPpsISMBdLo2aaxA
-    widthPx: 4032
-    heightPx: 2755
-    authorAttributions:
-      - displayName: Flip Out
-        uri: https://maps.google.com/maps/contrib/107472940798252838822
-        photoUri: >-
-          https://lh3.googleusercontent.com/a-/ALV-UjWoTKdnGnRljaT8rqyNpZAwmgkB_GZVwBns39bmb49QFQ35-sOl=s100-p-k-no-mo
-    flagContentUri: >-
-      https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICZ1MqkYg&hl=en-US
-    googleMapsUri: >-
-      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICZ1MqkYg!2e10!4m2!3m1!1s0x87b203ae8e8c0c5d:0x4ceb0b16cbafc6fb
-address: 5612 W Memorial Rd, Oklahoma City, OK 73142, USA
-street: 5612 W Memorial Rd
+      https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDhrc7bVQ!2e10!4m2!3m1!1s0x87b21395a60a0821:0x5448c927b1ab6a52
+address: '1609 Penn Park Blvd #10, Oklahoma City, OK 73159, USA'
+street: '1609 Penn Park Blvd #10'
 city: Oklahoma City
 state: OK
-zip: '73142'
+zip: '73159'
 country: USA
-neighborhood: Northwest Oklahoma City
-latitude: '35.608233'
-longitude: '-97.617935'
+neighborhood: Central Oklahoma City
+latitude: '35.393185'
+longitude: '-97.545049'
 accessibility_options:
   wheelchairAccessibleParking: true
   wheelchairAccessibleEntrance: true
@@ -160,46 +158,61 @@ business_status: OPERATIONAL
 name: Volcano Sushi Bar & Hibachi
 google_maps_links:
   directionsUri: >-
-    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x87b203ae8e8c0c5d:0x4ceb0b16cbafc6fb!3e0
-  placeUri: https://maps.google.com/?cid=5542535958944007931
+    https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x87b21395a60a0821:0x5448c927b1ab6a52!3e0
+  placeUri: https://maps.google.com/?cid=6073325269830822482
   writeAReviewUri: >-
-    https://www.google.com/maps/place//data=!4m3!3m2!1s0x87b203ae8e8c0c5d:0x4ceb0b16cbafc6fb!12e1
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x87b21395a60a0821:0x5448c927b1ab6a52!12e1
   reviewsUri: >-
-    https://www.google.com/maps/place//data=!4m4!3m3!1s0x87b203ae8e8c0c5d:0x4ceb0b16cbafc6fb!9m1!1b1
+    https://www.google.com/maps/place//data=!4m4!3m3!1s0x87b21395a60a0821:0x5448c927b1ab6a52!9m1!1b1
   photosUri: >-
-    https://www.google.com/maps/place//data=!4m3!3m2!1s0x87b203ae8e8c0c5d:0x4ceb0b16cbafc6fb!10e5
+    https://www.google.com/maps/place//data=!4m3!3m2!1s0x87b21395a60a0821:0x5448c927b1ab6a52!10e5
 primary_type: Sushi Restaurant
-opening_hours:
-  regular:
-    - 'Monday: 11:00 AM – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 10:30 PM'
-    - 'Saturday: 11:00 AM – 10:30 PM'
-    - 'Sunday: 11:00 AM – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 10:30 PM'
-    - 'Saturday: 11:00 AM – 10:30 PM'
-    - 'Sunday: 11:00 AM – 9:00 PM'
-secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
-phone: (405) 603-2388
-price_level: PRICE_LEVEL_MODERATE
-price_range: $10 &ndash; $20
-rating: '4.5'
+opening_hours: null
+secondary_opening_hours: null
+phone: null
+price_level: null
+price_range: null
+rating: null
 rating_count: 0
-website: http://volcanook.com/
+website: null
+description: >-
+  Discover Volcano Sushi Bar & Hibachi in Oklahoma City$$$In Oklahoma City, OK,
+  Volcano Sushi Bar & Hibachi is a casual favorite for those seeking top-rated
+  sushi restaurants in the area, offering a wide array of fresh rolls and
+  hibachi dishes that cater to lunch and dinner cravings. This spot stands out
+  with its welcoming atmosphere and extensive menu, making it an ideal choice
+  for anyone exploring sushi places near me with a focus on quality and variety.
+  Accessibility features like wheelchair-friendly parking and entrances add to
+  the convenience, ensuring everyone can enjoy the experience. Whether you're in
+  the mood for flavorful options that highlight Japanese-inspired cuisine, it's
+  a go-to destination for a relaxed yet satisfying meal in Central Oklahoma
+  City.
+generative_summary: >-
+  Discover Volcano Sushi Bar & Hibachi in Oklahoma City$$$In Oklahoma City, OK,
+  Volcano Sushi Bar & Hibachi is a casual favorite for those seeking top-rated
+  sushi restaurants in the area, offering a wide array of fresh rolls and
+  hibachi dishes that cater to lunch and dinner cravings. This spot stands out
+  with its welcoming atmosphere and extensive menu, making it an ideal choice
+  for anyone exploring sushi places near me with a focus on quality and variety.
+  Accessibility features like wheelchair-friendly parking and entrances add to
+  the convenience, ensuring everyone can enjoy the experience. Whether you're in
+  the mood for flavorful options that highlight Japanese-inspired cuisine, it's
+  a go-to destination for a relaxed yet satisfying meal in Central Oklahoma
+  City.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying About the Sushi$$$Folks often highlight the delicious
+  and fresh sushi at this spot, with standout rolls delivering a perfect blend
+  of flavors that keep diners coming back for more. Many appreciate the
+  reasonable prices on drinks like sake, making it a smart pick for an
+  affordable outing without skimping on taste. Service tends to be quick and
+  friendly, helping create a welcoming vibe that enhances the overall visit. The
+  clean, modern setting gets plenty of nods for its comfortable feel, rounding
+  out a positive experience for groups or solo diners. All in all, it's a solid
+  choice for anyone hunting for reliable sushi restaurants near me, blending
+  good value with enjoyable vibes.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +238,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

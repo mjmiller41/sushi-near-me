@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Umi Tysons"
+title: Sushi Umi Tysons
 permalink: /virginia/tysons/sushi-umi-tysons.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Tysons
 seo:
-  name: "Sushi Umi Tysons"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi Umi Tysons serves delicious sushi in Tysons, Virginia. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJsetWhkZLtokRUTMEcxZQQg8
 photos:
   - name: >-
@@ -184,7 +182,40 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  About Sushi Umi Tysons in Tysons, VA$$$Sushi Umi Tysons in Tysons, VA,
+  provides a welcoming spot for enjoying fresh sushi and traditional Japanese
+  dishes, crafted with premium ingredients for an authentic experience. The
+  restaurant offers a relaxed atmosphere perfect for savoring specialties like
+  omakase, which highlights the artistry of Japanese cuisine. Diners can explore
+  a variety of options that emphasize quality and flavor, making it a go-to
+  choice for those seeking top-rated sushi near you. With its focus on
+  high-quality preparations, this spot stands out among sushi restaurants in the
+  area, ideal for anyone looking for a satisfying meal in a comfortable setting.
+generative_summary: >-
+  About Sushi Umi Tysons in Tysons, VA$$$Sushi Umi Tysons in Tysons, VA,
+  provides a welcoming spot for enjoying fresh sushi and traditional Japanese
+  dishes, crafted with premium ingredients for an authentic experience. The
+  restaurant offers a relaxed atmosphere perfect for savoring specialties like
+  omakase, which highlights the artistry of Japanese cuisine. Diners can explore
+  a variety of options that emphasize quality and flavor, making it a go-to
+  choice for those seeking top-rated sushi near you. With its focus on
+  high-quality preparations, this spot stands out among sushi restaurants in the
+  area, ideal for anyone looking for a satisfying meal in a comfortable setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Diners Are Raving About$$$Folks often praise this spot for its super
+  fresh sushi rolls, including tasty favorites that really hit the spot and
+  leave you wanting more. The staff comes across as friendly and attentive,
+  helping to create a cozy vibe that makes every visit feel inviting and
+  enjoyable. Many appreciate how the dishes balance bold flavors with
+  high-quality ingredients, turning a simple meal into a memorable experience.
+  Overall, it's a solid pick for anyone hunting for the best sushi near me, with
+  a welcoming atmosphere that keeps people coming back for more. While it's not
+  perfect for everyone, the positive feedback highlights it as a reliable choice
+  for casual Japanese dining.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +241,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

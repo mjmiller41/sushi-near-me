@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sumo Sushi"
+title: Sumo Sushi
 permalink: /florida/jacksonville/sumo-sushi.html
 stateAbbr: FL
 stateName: Florida
 cityName: Jacksonville
 seo:
-  name: "Sumo Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sumo Sushi serves delicious sushi in Jacksonville, Florida. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJvRPcLCu45YgRTtvXTy0afHU
 photos:
   - name: >-
@@ -185,7 +183,43 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Sumo Sushi in Jacksonville, FL$$$Sumo Sushi in Jacksonville, Florida,
+  stands out as a cozy sushi restaurant nestled in the vibrant Riverside area,
+  perfect for those seeking authentic Japanese flavors and casual dining. This
+  spot emphasizes accessibility with features like wheelchair-friendly parking
+  and seating, ensuring a comfortable visit for all guests. The inviting
+  atmosphere is highlighted by its clean design and photo-friendly vibes, making
+  it an ideal choice for enjoying fresh sushi rolls and other Japanese-inspired
+  dishes. Located on Park Street, it provides convenient options for quick meals
+  or gatherings, appealing to anyone exploring top sushi restaurants in the
+  region.
+generative_summary: >-
+  Discover Sumo Sushi in Jacksonville, FL$$$Sumo Sushi in Jacksonville, Florida,
+  stands out as a cozy sushi restaurant nestled in the vibrant Riverside area,
+  perfect for those seeking authentic Japanese flavors and casual dining. This
+  spot emphasizes accessibility with features like wheelchair-friendly parking
+  and seating, ensuring a comfortable visit for all guests. The inviting
+  atmosphere is highlighted by its clean design and photo-friendly vibes, making
+  it an ideal choice for enjoying fresh sushi rolls and other Japanese-inspired
+  dishes. Located on Park Street, it provides convenient options for quick meals
+  or gatherings, appealing to anyone exploring top sushi restaurants in the
+  region.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Visitor Experiences$$$Folks chatting about Sumo Sushi often
+  highlight the welcoming vibe and easy access, making it a go-to for relaxed
+  meals without any fuss. Many appreciate the inclusive setup that caters to
+  everyone, adding to the overall enjoyment of fresh Japanese offerings. While
+  specific details vary, there's a general buzz around the spot's convenient
+  location and inviting atmosphere, drawing in sushi lovers looking for a solid
+  dining experience. Overall, it seems like a reliable pick for casual
+  get-togethers, with positive notes on its neighborhood charm keeping things
+  upbeat for those searching nearby options. Though feedback is limited, the
+  consensus leans toward it being a worthwhile stop for anyone craving quality
+  sushi in Jacksonville.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +245,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

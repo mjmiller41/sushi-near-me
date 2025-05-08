@@ -5,4 +5,5 @@ permalink: /ohio/aurora/
 stateAbbr: OH
 stateName: Ohio
 cityName: Aurora
+
 ---

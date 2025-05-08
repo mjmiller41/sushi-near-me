@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sequoia"
+title: Sequoia
 permalink: /wisconsin/madison/sequoia.html
 stateAbbr: WI
 stateName: Wisconsin
 cityName: Madison
 seo:
-  name: "Sequoia"
-  type: Restaurant
+  type: restaurant
   links: http://sequoiamadison.com/
-description: "Sequoia serves delicious sushi in Madison, Wisconsin. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJC9-fKyOtB4gRTRWoczVO-YI
 photos:
   - name: >-
@@ -184,6 +182,27 @@ price_range: $20 &ndash; $30
 rating: '4.2'
 rating_count: 0
 website: http://sequoiamadison.com/
+description: >-
+  Discover Sequoia in Madison, WI$$$Nestled in the heart of Madison, WI, Sequoia
+  stands out as a vibrant sushi restaurant blending modern vibes with authentic
+  Japanese flavors. This spot delights visitors with its array of specialty
+  rolls and appetizers, perfect for those seeking fresh sushi options in a
+  lively setting. Enjoy happy hour deals that enhance the experience, making it
+  an ideal choice for casual dinners or social gatherings. The restaurant's
+  thoughtful design and accessibility features ensure a welcoming atmosphere for
+  all, while its location on a bustling street adds to the appeal for anyone
+  exploring top sushi places nearby.
+generative_summary: >-
+  Discover Sequoia in Madison, WI$$$Nestled in the heart of Madison, WI, Sequoia
+  stands out as a vibrant sushi restaurant blending modern vibes with authentic
+  Japanese flavors. This spot delights visitors with its array of specialty
+  rolls and appetizers, perfect for those seeking fresh sushi options in a
+  lively setting. Enjoy happy hour deals that enhance the experience, making it
+  an ideal choice for casual dinners or social gatherings. The restaurant's
+  thoughtful design and accessibility features ensure a welcoming atmosphere for
+  all, while its location on a bustling street adds to the appeal for anyone
+  exploring top sushi places nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJC9-fKyOtB4gRTRWoczVO-YI/reviews/ChZDSUhNMG9nS0VJQ0FnTURneXRIOEJBEAE
@@ -359,6 +378,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNnc2Z6YnBnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNnc2Z6YnBnRRAB!2m1!1s0x8807ad232b9fdf0b:0x82f94e3573a8154d
+review_summary: >-
+  What Customers Are Sharing$$$Diners often rave about the flavorful sushi and
+  creative rolls that make every meal feel special, with many highlighting the
+  fresh ingredients and variety of options available. While the service is
+  frequently described as friendly and attentive, some note that it can be a bit
+  slower during busy group outings, though this doesn't overshadow the overall
+  positive vibe. Appetizers like pork buns and gyoza come highly recommended for
+  their tasty profiles, adding to the enjoyable atmosphere in the stylish
+  interior. Overall, the consensus leans towards it being a go-to spot for
+  quality Japanese cuisine, encouraging repeat visits for both solo diners and
+  friends looking for a relaxed meal.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeStreetParking: true
   paidStreetParking: true
@@ -389,7 +420,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

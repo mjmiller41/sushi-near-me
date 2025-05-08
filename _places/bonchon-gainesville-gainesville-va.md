@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Bonchon Gainesville"
+title: Bonchon Gainesville
 permalink: /virginia/gainesville/bonchon-gainesville.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Gainesville
 seo:
-  name: "Bonchon Gainesville"
-  type: Restaurant
-  links: null
-description: "Bonchon Gainesville serves delicious sushi in Gainesville, Virginia. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://locations.bonchon.com/ll/US/VA/Gainesville/7344-Atlas-Walk-Way
 place_id: ChIJcd_GEFRntokR8FB2vCfljWk
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89b6675410c6df71:0x698de527bc7650f0!10e5
 primary_type: Asian Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 20
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 8:30 PM'
+    - 'Tuesday: 11:00 AM – 8:30 PM'
+    - 'Wednesday: 11:00 AM – 8:30 PM'
+    - 'Thursday: 11:00 AM – 8:30 PM'
+    - 'Friday: 11:00 AM – 9:00 PM'
+    - 'Saturday: 11:00 AM – 9:00 PM'
+    - 'Sunday: 11:00 AM – 8:00 PM'
+  nextCloseTime: '2025-05-04T01:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,50 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (571) 284-7412
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '2.8'
+rating_count: 168
+website: https://locations.bonchon.com/ll/US/VA/Gainesville/7344-Atlas-Walk-Way
+description: >-
+  About Bonchon Gainesville in Gainesville, VA$$$Bonchon Gainesville in
+  Gainesville, VA, stands out as a welcoming Asian restaurant chain known for
+  its flavorful Korean fried chicken and innovative fusion dishes that blend
+  traditional tastes with modern twists. This spot offers a family-friendly
+  atmosphere with accessible features like wheelchair-friendly parking and
+  entrances, making it easy for everyone to enjoy a meal. Diners can savor a
+  variety of Asian-inspired options, perfect for those seeking fresh, crispy
+  favorites in a casual setting near local hubs. The restaurant maintains
+  convenient hours, including extended evenings on weekends, ideal for quick
+  lunches or relaxed dinners. With its focus on quality ingredients and vibrant
+  flavors, it's a go-to choice for exploring Asian places near me in the area.
+generative_summary: >-
+  About Bonchon Gainesville in Gainesville, VA$$$Bonchon Gainesville in
+  Gainesville, VA, stands out as a welcoming Asian restaurant chain known for
+  its flavorful Korean fried chicken and innovative fusion dishes that blend
+  traditional tastes with modern twists. This spot offers a family-friendly
+  atmosphere with accessible features like wheelchair-friendly parking and
+  entrances, making it easy for everyone to enjoy a meal. Diners can savor a
+  variety of Asian-inspired options, perfect for those seeking fresh, crispy
+  favorites in a casual setting near local hubs. The restaurant maintains
+  convenient hours, including extended evenings on weekends, ideal for quick
+  lunches or relaxed dinners. With its focus on quality ingredients and vibrant
+  flavors, it's a go-to choice for exploring Asian places near me in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Buzzing About$$$Folks often rave about the tasty chicken
+  wings at this Asian fusion spot, especially the boneless varieties that hit
+  the spot for a satisfying meal on the go. Many appreciate the value in lunch
+  specials, which make it a solid pick for everyday dining without breaking the
+  bank too much. While some mention portions like the wings could be a bit more
+  generous, the overall flavors keep drawing people back for more. It's a place
+  where the bold tastes shine through, offering a fun vibe for groups or solo
+  visits, though a few note it might feel a tad pricey for what you get. All in
+  all, if you're hunting for reliable Asian restaurants near me, this location
+  delivers a mix of hits that make it worth checking out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +311,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

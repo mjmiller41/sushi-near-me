@@ -1,15 +1,14 @@
 ---
 layout: place
-title: "Wasabi Sushi & Hibachi"
+title: Wasabi Sushi & Hibachi
 permalink: /virginia/chesterfield/wasabi-sushi-hibachi.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Chesterfield
 seo:
-  name: "Wasabi Sushi & Hibachi"
-  type: Restaurant
-  links: https://www.facebook.com/pages/category/Sushi-Restaurant/Wasabi-Sushi-Hibachi-1105724856188626/
-description: "Wasabi Sushi & Hibachi serves delicious sushi in Chesterfield, Virginia. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: >-
+    https://www.facebook.com/pages/category/Sushi-Restaurant/Wasabi-Sushi-Hibachi-1105724856188626/
 place_id: ChIJC_TidbwLsYkRv6RZWbC3rV8
 photos:
   - name: >-
@@ -170,7 +169,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89b10bbc75e2f40b:0x5fadb7b05959a4bf!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:00 PM'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -178,14 +227,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:00 PM'
     - 'Saturday: 11:00 AM – 9:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:00 AM – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 9:00 PM'
-    - 'Saturday: 11:00 AM – 9:00 PM'
-    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T01:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,10 +239,49 @@ phone: (804) 295-5421
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.4'
-rating_count: 0
+rating_count: 557
 website: >-
   https://www.facebook.com/pages/category/Sushi-Restaurant/Wasabi-Sushi-Hibachi-1105724856188626/
+description: >-
+  Explore Wasabi Sushi & Hibachi in Chesterfield, VA$$$Wasabi Sushi & Hibachi in
+  Chesterfield, VA, stands out as a laid-back spot for savoring fresh sushi and
+  sizzling hibachi dishes, making it a go-to choice for those seeking Japanese
+  flavors nearby. The restaurant offers a variety of rolls and grilled
+  specialties, complemented by options like sake and wine, ensuring a relaxed
+  dining experience for families and groups alike. Accessibility features make
+  it easy for everyone to enjoy the inviting atmosphere, while the menu caters
+  to a range of tastes with kid-friendly choices that add to its appeal.
+  Overall, this spot combines casual vibes with flavorful offerings, positioning
+  it as a solid option among local sushi restaurants for anyone exploring
+  Japanese cuisine in the area.
+generative_summary: >-
+  Explore Wasabi Sushi & Hibachi in Chesterfield, VA$$$Wasabi Sushi & Hibachi in
+  Chesterfield, VA, stands out as a laid-back spot for savoring fresh sushi and
+  sizzling hibachi dishes, making it a go-to choice for those seeking Japanese
+  flavors nearby. The restaurant offers a variety of rolls and grilled
+  specialties, complemented by options like sake and wine, ensuring a relaxed
+  dining experience for families and groups alike. Accessibility features make
+  it easy for everyone to enjoy the inviting atmosphere, while the menu caters
+  to a range of tastes with kid-friendly choices that add to its appeal.
+  Overall, this spot combines casual vibes with flavorful offerings, positioning
+  it as a solid option among local sushi restaurants for anyone exploring
+  Japanese cuisine in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Feedback from Diners at This Sushi Spot$$$Folks who visit this sushi place
+  often rave about the tasty dishes and friendly service, giving it high marks
+  for fresh flavors and a welcoming vibe that keeps people coming back. Many
+  appreciate the variety of options, like the hibachi selections and drinks,
+  which make it a fun choice for casual meals or family outings. While some
+  mention minor waits during busy times, the overall experience tends to be
+  positive, with diners highlighting the reasonable prices and solid portions as
+  standout features. It's clear that the restaurant earns its strong rating
+  through consistent quality, offering a reliable spot for those hunting for
+  top-rated sushi nearby. All in all, the feedback paints a picture of a
+  dependable local favorite that's worth trying for anyone in the mood for
+  Japanese fare.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -226,7 +307,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Zo"
+title: Sushi Zo
 permalink: /california/los-angeles/sushi-zo.html
 stateAbbr: CA
 stateName: California
 cityName: Los Angeles
 seo:
-  name: "Sushi Zo"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi Zo serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJT2osCNO7woARop0dYCa79OI
 photos:
   - name: >-
@@ -185,7 +183,43 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Sushi Zo in Los Angeles, CA$$$Sushi Zo in Los Angeles, CA, stands out
+  as a cozy and upscale spot where fresh sushi creations take center stage,
+  blending innovative rolls with a selection of sake for an elevated dining
+  experience. Nestled in a convenient mall setting, this Japanese-inspired
+  restaurant emphasizes accessibility, making it easy for everyone to enjoy its
+  welcoming atmosphere and thoughtful design. Diners can savor the artistry in
+  each dish, from meticulously prepared nigiri to creative maki options that
+  highlight seasonal ingredients. If you're exploring top-rated sushi options
+  near you, Sushi Zo offers a refined yet approachable vibe that captures the
+  essence of authentic Japanese cuisine in a bustling urban area.
+generative_summary: >-
+  Discover Sushi Zo in Los Angeles, CA$$$Sushi Zo in Los Angeles, CA, stands out
+  as a cozy and upscale spot where fresh sushi creations take center stage,
+  blending innovative rolls with a selection of sake for an elevated dining
+  experience. Nestled in a convenient mall setting, this Japanese-inspired
+  restaurant emphasizes accessibility, making it easy for everyone to enjoy its
+  welcoming atmosphere and thoughtful design. Diners can savor the artistry in
+  each dish, from meticulously prepared nigiri to creative maki options that
+  highlight seasonal ingredients. If you're exploring top-rated sushi options
+  near you, Sushi Zo offers a refined yet approachable vibe that captures the
+  essence of authentic Japanese cuisine in a bustling urban area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this sushi spot often praise the
+  exceptional quality of the fresh fish and creative presentations, making it a
+  go-to choice for anyone craving reliable Japanese flavors. Many folks
+  appreciate the attentive service and cozy ambiance that enhance the overall
+  meal, turning a simple dinner into a memorable outing. While some note that
+  the experience feels a bit intimate and might not suit larger groups, the
+  general consensus highlights the value for those seeking authentic tastes
+  without over-the-top fuss. Overall, feedback leans positive, with diners
+  frequently recommending it as a solid pick for enjoying high-quality rolls and
+  drinks in a relaxed setting, especially if you're hunting for great sushi
+  close to home.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +245,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -5,4 +5,5 @@ permalink: /wisconsin/menomonie/
 stateAbbr: WI
 stateName: Wisconsin
 cityName: Menomonie
+
 ---

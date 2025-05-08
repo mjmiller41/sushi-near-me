@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "BlueFin Sushi Bar & Restaurant"
+title: BlueFin Sushi Bar & Restaurant
 permalink: /colorado/denver/bluefin-sushi-bar-restaurant.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Denver
 seo:
-  name: "BlueFin Sushi Bar & Restaurant"
-  type: Restaurant
+  type: restaurant
   links: https://bluefinsushirestaurant.com/
-description: "BlueFin Sushi Bar & Restaurant serves delicious sushi in Denver, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJFbBsXYV7bIcR487Xd66Fqbg
 photos:
   - name: >-
@@ -170,7 +168,105 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x876c7b855d6cb015:0xb8a985ae77d7cee3!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 15
+        minute: 0
+    - open:
+        day: 0
+        hour: 16
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 16
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 15
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 15
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 15
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 15
+        minute: 0
+    - open:
+        day: 6
+        hour: 16
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 4:00 – 9:30 PM'
     - 'Tuesday: 4:00 – 9:30 PM'
     - 'Wednesday: 11:30 AM – 3:00 PM, 4:00 – 9:30 PM'
@@ -178,14 +274,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 3:00 PM, 4:00 – 10:00 PM'
     - 'Saturday: 11:30 AM – 3:00 PM, 4:00 – 10:00 PM'
     - 'Sunday: 11:30 AM – 3:00 PM, 4:00 – 9:30 PM'
-  current:
-    - 'Monday: 4:00 – 9:30 PM'
-    - 'Tuesday: 4:00 – 9:30 PM'
-    - 'Wednesday: 11:30 AM – 3:00 PM, 4:00 – 9:30 PM'
-    - 'Thursday: 11:30 AM – 3:00 PM, 4:00 – 9:30 PM'
-    - 'Friday: 11:30 AM – 3:00 PM, 4:00 – 10:00 PM'
-    - 'Saturday: 11:30 AM – 3:00 PM, 4:00 – 10:00 PM'
-    - 'Sunday: 11:30 AM – 3:00 PM, 4:00 – 9:30 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +286,253 @@ phone: (303) 333-4006
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.4'
-rating_count: 0
+rating_count: 565
 website: https://bluefinsushirestaurant.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover BlueFin Sushi Bar in Denver, CO$$$BlueFin Sushi Bar & Restaurant in
+  Denver, CO, stands out as a modern spot for enjoying fresh sushi and Japanese
+  cuisine, blending elegant ambiance with creative presentations that elevate
+  every meal. The restaurant features high-quality ingredients and inventive
+  plating, making it a go-to choice for those seeking flavorful sushi options in
+  a stylish setting. With options like meticulously crafted rolls and entrees,
+  it caters to a variety of tastes while maintaining an accessible and welcoming
+  vibe for all diners. Its convenient location in the Northeast neighborhood
+  adds to the appeal for locals and visitors alike searching for top sushi
+  experiences nearby.
+generative_summary: >-
+  Discover BlueFin Sushi Bar in Denver, CO$$$BlueFin Sushi Bar & Restaurant in
+  Denver, CO, stands out as a modern spot for enjoying fresh sushi and Japanese
+  cuisine, blending elegant ambiance with creative presentations that elevate
+  every meal. The restaurant features high-quality ingredients and inventive
+  plating, making it a go-to choice for those seeking flavorful sushi options in
+  a stylish setting. With options like meticulously crafted rolls and entrees,
+  it caters to a variety of tastes while maintaining an accessible and welcoming
+  vibe for all diners. Its convenient location in the Northeast neighborhood
+  adds to the appeal for locals and visitors alike searching for top sushi
+  experiences nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJFbBsXYV7bIcR487Xd66Fqbg/reviews/ChZDSUhNMG9nS0VJQ0FnTURvNVlhR1ZnEAE
+    relativePublishTimeDescription: in the last week
+    rating: 5
+    text:
+      text: >-
+        We have seen an increase in quality over the last year as well as
+        presentation.  We ordered a regular sushi meal (super fresh!), and three
+        creative rolls. We were pleasantly surprised by two of the flavors that
+        we selected. They seemed very unique and they tasted so good. One was
+        the Lemon tree roll and the other one was the Salmon Tar Tar. We would
+        definitely order these again. Last roll was a B-1 roll, it was quite
+        flavorful too (last pic).
+
+
+        Their lunch specials are also very good advertised at $12 for two rolls
+        or $16 for 3 rolls. But we did not do the lunch.
+
+
+        I could tell their servers are working hard running around to catch
+        orders, walk in customers and take out.
+
+
+        Today I was especially surprised by their presentation. It looked like a
+        countryside scene. Sitting at the bar allowed us to interact with the
+        sushi chef which was quite fun as he talked to us about the ingredients.
+      languageCode: en
+    originalText:
+      text: >-
+        We have seen an increase in quality over the last year as well as
+        presentation.  We ordered a regular sushi meal (super fresh!), and three
+        creative rolls. We were pleasantly surprised by two of the flavors that
+        we selected. They seemed very unique and they tasted so good. One was
+        the Lemon tree roll and the other one was the Salmon Tar Tar. We would
+        definitely order these again. Last roll was a B-1 roll, it was quite
+        flavorful too (last pic).
+
+
+        Their lunch specials are also very good advertised at $12 for two rolls
+        or $16 for 3 rolls. But we did not do the lunch.
+
+
+        I could tell their servers are working hard running around to catch
+        orders, walk in customers and take out.
+
+
+        Today I was especially surprised by their presentation. It looked like a
+        countryside scene. Sitting at the bar allowed us to interact with the
+        sushi chef which was quite fun as he talked to us about the ingredients.
+      languageCode: en
+    authorAttribution:
+      displayName: Elaine Martinez
+      uri: https://www.google.com/maps/contrib/114573874928495574346/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocI2H3GdzKexfwZcbH_6Y4ONfbz-1mqx9X0N0qrG9xjfLNuVEA=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-27T03:54:05.298945Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURvNVlhR1ZnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURvNVlhR1ZnEAE!2m1!1s0x876c7b855d6cb015:0xb8a985ae77d7cee3
+  - name: >-
+      places/ChIJFbBsXYV7bIcR487Xd66Fqbg/reviews/ChZDSUhNMG9nS0VJQ0FnSUN2dmZDZWJREAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        BlueFin Sushi Bar & Restaurant is a solid choice for sushi in the area.
+        What really made our visit memorable was the server. Even though she was
+        the only one working, she made everyone feel welcome and managed to
+        bring a quick laugh each time she refilled drinks or delivered food. The
+        sushi was very good (though a bit on the pricier side for a lunch) the
+        experience overall was enjoyable. The restaurant itself is clean and
+        modern, and watching the sushi rolls prepared right in front of us was a
+        nice touch. Thanks to the exceptional server, our meal truly stood out.
+        If you’re in the area, I recommend giving BlueFin a try!
+      languageCode: en
+    originalText:
+      text: >-
+        BlueFin Sushi Bar & Restaurant is a solid choice for sushi in the area.
+        What really made our visit memorable was the server. Even though she was
+        the only one working, she made everyone feel welcome and managed to
+        bring a quick laugh each time she refilled drinks or delivered food. The
+        sushi was very good (though a bit on the pricier side for a lunch) the
+        experience overall was enjoyable. The restaurant itself is clean and
+        modern, and watching the sushi rolls prepared right in front of us was a
+        nice touch. Thanks to the exceptional server, our meal truly stood out.
+        If you’re in the area, I recommend giving BlueFin a try!
+      languageCode: en
+    authorAttribution:
+      displayName: Ryan Smith
+      uri: https://www.google.com/maps/contrib/114496196686040462366/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjU96M-523iHF2LHpkdvTxTvgptIRXNkjl2Zy3-K2NZBmOgaeiM1=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2024-12-13T21:33:45.700741Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN2dmZDZWJREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN2dmZDZWJREAE!2m1!1s0x876c7b855d6cb015:0xb8a985ae77d7cee3
+  - name: >-
+      places/ChIJFbBsXYV7bIcR487Xd66Fqbg/reviews/ChdDSUhNMG9nS0VJQ0FnTURJOF9xSF9nRRAB
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        What a beautiful spot! The most amazing service! The sushi chef lights
+        up making your sushi! You can really tell he loves what he does and he
+        makes art! We would go out of our way just to eat here again!
+      languageCode: en
+    originalText:
+      text: >-
+        What a beautiful spot! The most amazing service! The sushi chef lights
+        up making your sushi! You can really tell he loves what he does and he
+        makes art! We would go out of our way just to eat here again!
+      languageCode: en
+    authorAttribution:
+      displayName: Ashley Young
+      uri: https://www.google.com/maps/contrib/104354181570335647198/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocI1HHLJHCe3eKcipFtOZXSb4v_BTvQnJ2Gxf3NtWX9KLyMQkw=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-12T23:44:52.884068Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJOF9xSF9nRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJOF9xSF9nRRAB!2m1!1s0x876c7b855d6cb015:0xb8a985ae77d7cee3
+  - name: >-
+      places/ChIJFbBsXYV7bIcR487Xd66Fqbg/reviews/ChdDSUhNMG9nS0VJQ0FnTUNvamF1Q3N3RRAB
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        delicious food, nice servers, and  the people that work here  are  so
+        nice and attentive. We have enjoyed sushi here regularly for years!
+      languageCode: en
+    originalText:
+      text: >-
+        delicious food, nice servers, and  the people that work here  are  so
+        nice and attentive. We have enjoyed sushi here regularly for years!
+      languageCode: en
+    authorAttribution:
+      displayName: francine paston
+      uri: https://www.google.com/maps/contrib/116529555524815336169/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJt-mwOU4WXo8dXhjZvqFK87Sb57b0F1BfroDdrwXfUJKjeow=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-19T00:53:58.792526Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNvamF1Q3N3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNvamF1Q3N3RRAB!2m1!1s0x876c7b855d6cb015:0xb8a985ae77d7cee3
+  - name: >-
+      places/ChIJFbBsXYV7bIcR487Xd66Fqbg/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3aU42WGFBEAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        We come here as often as possible! This place has super fresh fish and
+        it hits the spots EVERY time! Pink lady, super white, lemon tree…so
+        good!
+      languageCode: en
+    originalText:
+      text: >-
+        We come here as often as possible! This place has super fresh fish and
+        it hits the spots EVERY time! Pink lady, super white, lemon tree…so
+        good!
+      languageCode: en
+    authorAttribution:
+      displayName: Buffy “Buffy” Wojciehowski
+      uri: https://www.google.com/maps/contrib/105117901599994644347/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXx4QXc35xp8CO6XvvA1lZ2gFgU8xgETamf5y1bBCIh-agzouI-=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-03-23T01:33:27.516960Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUR3aU42WGFBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUR3aU42WGFBEAE!2m1!1s0x876c7b855d6cb015:0xb8a985ae77d7cee3
+review_summary: >-
+  What Customers Are Saying About the Sushi$$$Visitors often praise the
+  freshness and creativity of the sushi rolls, noting how the unique flavors and
+  artistic presentations make every bite memorable and satisfying. The service
+  stands out as friendly and attentive, creating a relaxed atmosphere that
+  enhances the overall dining experience, even during busy times. Many
+  appreciate the value in lunch specials, which offer a great way to enjoy
+  quality Japanese dishes without breaking the bank, though some mention prices
+  can add up for fuller meals. Overall, the spot is celebrated for its
+  consistent quality and welcoming vibe, making it a solid pick for anyone
+  craving reliable sushi in the area. If you're exploring top-rated sushi
+  options, this place delivers a enjoyable experience that's worth trying out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
+curbside_pickup: true
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
 good_for_sports: null
-live_music: null
+live_music: false
 menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
 serves_brunch: null
-serves_cocktails: null
+serves_cocktails: true
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Modern sushi house crafting familiar sushi rolls, sashimi & Japanese entrees
+  in a stylish space.
 
 ---

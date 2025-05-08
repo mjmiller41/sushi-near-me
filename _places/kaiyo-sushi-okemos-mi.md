@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kaiyo Sushi"
+title: Kaiyo Sushi
 permalink: /michigan/okemos/kaiyo-sushi.html
 stateAbbr: MI
 stateName: Michigan
 cityName: Okemos
 seo:
-  name: "Kaiyo Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.okemoskaiyo.com/
-description: "Kaiyo Sushi serves delicious sushi in Okemos, Michigan. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ5waVrf3nIogR8e5MH6p_Nb0
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 0
 website: http://www.okemoskaiyo.com/
+description: >-
+  Experience Kaiyo Sushi in Okemos, MI$$$Nestled in Okemos, MI, Kaiyo Sushi
+  stands out as a casual spot for enjoying authentic Japanese cuisine, featuring
+  fresh sushi and grilled dishes that cater to a variety of tastes. This
+  welcoming restaurant offers a relaxed atmosphere where you can savor expertly
+  prepared rolls and sides, complemented by a selection of beer and wine to
+  enhance your meal. With thoughtful accessibility features like
+  wheelchair-friendly entrances and parking, it's designed to accommodate all
+  guests comfortably. Whether you're searching for top-rated sushi options
+  nearby or simply craving a flavorful Japanese dining experience, the focus on
+  quality ingredients and attentive service makes it a go-to choice for locals
+  and visitors alike.
+generative_summary: >-
+  Experience Kaiyo Sushi in Okemos, MI$$$Nestled in Okemos, MI, Kaiyo Sushi
+  stands out as a casual spot for enjoying authentic Japanese cuisine, featuring
+  fresh sushi and grilled dishes that cater to a variety of tastes. This
+  welcoming restaurant offers a relaxed atmosphere where you can savor expertly
+  prepared rolls and sides, complemented by a selection of beer and wine to
+  enhance your meal. With thoughtful accessibility features like
+  wheelchair-friendly entrances and parking, it's designed to accommodate all
+  guests comfortably. Whether you're searching for top-rated sushi options
+  nearby or simply craving a flavorful Japanese dining experience, the focus on
+  quality ingredients and attentive service makes it a go-to choice for locals
+  and visitors alike.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ5waVrf3nIogR8e5MH6p_Nb0/reviews/ChdDSUhNMG9nS0VJQ0FnTURBbGZpTXRBRRAB
@@ -320,6 +343,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURJZ05UYlBBEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJZ05UYlBBEAE!2m1!1s0x8822e7fdad9506e7:0xbd357faa1f4ceef1
+review_summary: >-
+  Buzz Around Kaiyo Sushi Reviews$$$Folks rave about the fresh and flavorful
+  sushi rolls at this spot, often highlighting how the ingredients shine through
+  in every bite for a truly satisfying meal. Many appreciate the clean and
+  elegant vibe that makes dining in or taking out feel special, along with fair
+  portions that leave you feeling content without breaking the bank. Customers
+  frequently mention the friendly service that adds a welcoming touch to the
+  overall experience, making it easy to enjoy everything from standout rolls to
+  tasty salads and sides. Overall, it's clear that this place delivers a solid
+  mix of great food and atmosphere that keeps people coming back for more,
+  earning it high marks as a reliable option for sushi enthusiasts in the area.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -352,7 +387,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

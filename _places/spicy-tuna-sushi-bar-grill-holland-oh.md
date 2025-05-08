@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Spicy Tuna Sushi Bar & Grill"
+title: Spicy Tuna Sushi Bar & Grill
 permalink: /ohio/holland/spicy-tuna-sushi-bar-grill.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Holland
 seo:
-  name: "Spicy Tuna Sushi Bar & Grill"
-  type: Restaurant
+  type: restaurant
   links: http://www.spicytunasushi.com/
-description: "Minimalist eatery serving Asian-fusion dishes & sushi, featuring Asian beers & sake at the bar. Spicy Tuna Sushi Bar & Grill serves delicious sushi in Holland, Ohio. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJX0-Jr116PIgRedoinf_ry8E
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 0
 website: http://www.spicytunasushi.com/
+description: >-
+  Discover Spicy Tuna Sushi Bar & Grill in Holland, OH$$$Nestled in Holland, OH,
+  Spicy Tuna Sushi Bar & Grill stands out as a go-to spot for fresh sushi and
+  Asian-inspired cuisine, blending casual vibes with flavorful dishes that
+  appeal to a variety of tastes. This welcoming eatery features an array of
+  creative rolls and Eastern-style meals, complemented by a selection of beers
+  and cocktails, making it ideal for those seeking a relaxed dining experience.
+  With its focus on quality ingredients and accessible options like vegetarian
+  and vegan choices, it's a favorite among locals looking for top-rated sushi in
+  the area. The restaurant's thoughtful design and convenient location enhance
+  its appeal for anyone exploring sushi places near me, offering a balance of
+  affordability and authentic flavors that keep diners coming back.
+generative_summary: >-
+  Discover Spicy Tuna Sushi Bar & Grill in Holland, OH$$$Nestled in Holland, OH,
+  Spicy Tuna Sushi Bar & Grill stands out as a go-to spot for fresh sushi and
+  Asian-inspired cuisine, blending casual vibes with flavorful dishes that
+  appeal to a variety of tastes. This welcoming eatery features an array of
+  creative rolls and Eastern-style meals, complemented by a selection of beers
+  and cocktails, making it ideal for those seeking a relaxed dining experience.
+  With its focus on quality ingredients and accessible options like vegetarian
+  and vegan choices, it's a favorite among locals looking for top-rated sushi in
+  the area. The restaurant's thoughtful design and convenient location enhance
+  its appeal for anyone exploring sushi places near me, offering a balance of
+  affordability and authentic flavors that keep diners coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJX0-Jr116PIgRedoinf_ry8E/reviews/ChZDSUhNMG9nS0VJQ0FnSURLNUtuYktBEAE
@@ -384,6 +407,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNJa3VxNU5BEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNJa3VxNU5BEAE!2m1!1s0x883c7a5daf894f5f:0xc1cbebff9d22da79
+review_summary: >-
+  What Guests Are Saying About This Sushi Spot$$$Visitors to this sushi
+  restaurant often rave about the fresh, creative rolls and generous menu
+  variety, highlighting how it caters well to different dietary needs like
+  vegetarian and vegan options. Many appreciate the efficient service and
+  impressive packaging for takeout, which adds a nice touch to meals enjoyed at
+  home or on the go. While most experiences are positive, a few mentions of
+  occasional service delays or overly seasoned dishes show room for improvement,
+  but overall, the vibe remains upbeat and satisfying. Folks frequently note
+  that the food's quality and presentation make it one of the best sushi options
+  near Holland, OH, encouraging repeat visits for its welcoming atmosphere. If
+  you're hunting for reliable sushi restaurants in the area, this spot delivers
+  a solid mix of flavors and convenience that leaves most customers smiling.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -416,8 +453,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Minimalist eatery serving Asian-fusion dishes & sushi, featuring Asian beers &
   sake at the bar.
 

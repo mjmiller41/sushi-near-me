@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Damu"
+title: Sushi Damu
 permalink: /texas/frisco/sushi-damu.html
 stateAbbr: TX
 stateName: Texas
 cityName: Frisco
 seo:
-  name: "Sushi Damu"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi Damu serves delicious sushi in Frisco, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJfd-DcPE8TIYRgcIsve5YGYE
 photos:
   - name: >-
@@ -170,22 +168,219 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x864c3cf17083df7d:0x811958eebd2cc281!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:30 AM – 2:30 PM, 5:00 – 9:30 PM'
+    - 'Tuesday: 11:30 AM – 2:30 PM, 5:00 – 9:30 PM'
+    - 'Wednesday: 11:30 AM – 2:30 PM, 5:00 – 9:30 PM'
+    - 'Thursday: 11:30 AM – 2:30 PM, 5:00 – 9:30 PM'
+    - 'Friday: 11:30 AM – 10:00 PM'
+    - 'Saturday: 12:00 – 10:00 PM'
+    - 'Sunday: 12:00 – 9:30 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 0
+        close:
+          day: 0
+          hour: 21
+          minute: 30
+      - open:
+          day: 1
+          hour: 14
+          minute: 0
+        close:
+          day: 1
+          hour: 17
+          minute: 30
+      - open:
+          day: 2
+          hour: 14
+          minute: 0
+        close:
+          day: 2
+          hour: 17
+          minute: 30
+      - open:
+          day: 3
+          hour: 14
+          minute: 0
+        close:
+          day: 3
+          hour: 17
+          minute: 30
+      - open:
+          day: 4
+          hour: 14
+          minute: 0
+        close:
+          day: 4
+          hour: 17
+          minute: 30
+      - open:
+          day: 5
+          hour: 14
+          minute: 0
+        close:
+          day: 5
+          hour: 17
+          minute: 30
+      - open:
+          day: 6
+          hour: 12
+          minute: 0
+        close:
+          day: 6
+          hour: 21
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 2:00 – 5:30 PM'
+      - 'Tuesday: 2:00 – 5:30 PM'
+      - 'Wednesday: 2:00 – 5:30 PM'
+      - 'Thursday: 2:00 – 5:30 PM'
+      - 'Friday: 2:00 – 5:30 PM'
+      - 'Saturday: 12:00 – 9:30 PM'
+      - 'Sunday: 12:00 – 9:30 PM'
+    secondaryHoursType: HAPPY_HOUR
+    nextCloseTime: '2025-05-04T02:30:00Z'
+phone: (469) 888-4068
+price_level: PRICE_LEVEL_MODERATE
+price_range: $30 &ndash; $50
+rating: '4.2'
+rating_count: 666
 website: null
+description: >-
+  Explore Sushi Damu in Frisco, TX$$$Sushi Damu in Frisco, TX, stands out as a
+  welcoming spot for anyone craving fresh sushi options in a relaxed setting.
+  This casual eatery offers an all-you-can-eat experience for lunch and dinner,
+  featuring creative rolls that blend traditional flavors with innovative
+  twists, making it a favorite among local sushi enthusiasts. With accessibility
+  features like wheelchair-friendly parking and entrances, it's designed to
+  accommodate all visitors comfortably. The restaurant's flexible hours,
+  including evening options, make it easy to enjoy top-rated Japanese cuisine
+  near you, whether you're stopping by for a quick meal or a leisurely dinner.
+  Its moderate pricing adds to the appeal for those seeking quality sushi
+  restaurants in the area without breaking the bank.
+generative_summary: >-
+  Explore Sushi Damu in Frisco, TX$$$Sushi Damu in Frisco, TX, stands out as a
+  welcoming spot for anyone craving fresh sushi options in a relaxed setting.
+  This casual eatery offers an all-you-can-eat experience for lunch and dinner,
+  featuring creative rolls that blend traditional flavors with innovative
+  twists, making it a favorite among local sushi enthusiasts. With accessibility
+  features like wheelchair-friendly parking and entrances, it's designed to
+  accommodate all visitors comfortably. The restaurant's flexible hours,
+  including evening options, make it easy to enjoy top-rated Japanese cuisine
+  near you, whether you're stopping by for a quick meal or a leisurely dinner.
+  Its moderate pricing adds to the appeal for those seeking quality sushi
+  restaurants in the area without breaking the bank.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Visitor Feedback on Sushi Damu$$$From what folks are sharing online, Sushi
+  Damu seems to hit the mark for a solid dining experience, with many
+  highlighting the fresh ingredients and variety in their rolls as real
+  standouts. Customers often note that the all-you-can-eat deals provide great
+  value, though some mention waits during peak times, it's generally worth it
+  for the taste. Overall, the vibe comes across as friendly and efficient,
+  helping it maintain a strong reputation among sushi places near me. If you're
+  looking for reliable spots in Frisco, TX, this one gets props for its
+  consistent quality and creative offerings, making it a go-to choice for casual
+  meals. While not perfect, the positive buzz around the food and service keeps
+  the energy upbeat for repeat visits.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +406,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

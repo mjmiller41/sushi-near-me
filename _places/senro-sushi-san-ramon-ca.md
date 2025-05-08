@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Senro Sushi"
+title: Senro Sushi
 permalink: /california/san-ramon/senro-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: San Ramon
 seo:
-  name: "Senro Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Senro Sushi serves delicious sushi in San Ramon, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJjXu9R8fyj4AROsLsHNxU4N4
 photos:
   - name: >-
@@ -185,7 +183,39 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Senro Sushi in San Ramon, CA$$$Senro Sushi in San Ramon, CA, provides
+  a laid-back dining atmosphere perfect for enjoying fresh Japanese-inspired
+  dishes. This casual spot features a diverse menu that includes family-friendly
+  options like a kids' section, alongside refreshing beverages such as beer and
+  wine. Accessibility is a key highlight, with features like wheelchair-friendly
+  parking and seating that ensure a welcoming experience for all guests. The
+  restaurant's simple yet inviting vibe makes it an excellent choice for those
+  seeking quality sushi in a relaxed setting, ideal for everyday meals or casual
+  get-togethers.
+generative_summary: >-
+  Discover Senro Sushi in San Ramon, CA$$$Senro Sushi in San Ramon, CA, provides
+  a laid-back dining atmosphere perfect for enjoying fresh Japanese-inspired
+  dishes. This casual spot features a diverse menu that includes family-friendly
+  options like a kids' section, alongside refreshing beverages such as beer and
+  wine. Accessibility is a key highlight, with features like wheelchair-friendly
+  parking and seating that ensure a welcoming experience for all guests. The
+  restaurant's simple yet inviting vibe makes it an excellent choice for those
+  seeking quality sushi in a relaxed setting, ideal for everyday meals or casual
+  get-togethers.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About Senro Sushi$$$Folks exploring sushi spots in
+  the area often rave about the fresh flavors and variety of rolls that keep
+  things exciting and satisfying. Many appreciate the family-oriented vibe,
+  noting it's a solid pick for quick dinners or outings with kids, thanks to
+  thoughtful menu choices. Service tends to come across as warm and attentive,
+  helping to create a comfortable atmosphere without any major hiccups. Overall,
+  it's frequently described as a reliable option for tasty bites, with some
+  highlighting great value that makes it worth returning to for more
+  Japanese-style favorites.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +241,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

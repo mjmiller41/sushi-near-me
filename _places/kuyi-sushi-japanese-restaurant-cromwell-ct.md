@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kuyi Sushi Japanese Restaurant"
+title: Kuyi Sushi Japanese Restaurant
 permalink: /connecticut/cromwell/kuyi-sushi-japanese-restaurant.html
 stateAbbr: CT
 stateName: Connecticut
 cityName: Cromwell
 seo:
-  name: "Kuyi Sushi Japanese Restaurant"
-  type: Restaurant
+  type: restaurant
   links: https://www.kuyisushi.com/
-description: "Kuyi Sushi Japanese Restaurant serves delicious sushi in Cromwell, Connecticut. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJd_gPim1L5okRSkSw0Ew-7-8
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 0
 website: https://www.kuyisushi.com/
+description: >-
+  Explore Kuyi Sushi in Cromwell, CT$$$Kuyi Sushi Japanese Restaurant in
+  Cromwell, CT, invites diners into a cozy setting perfect for enjoying fresh
+  sushi and classic Japanese dishes. This spot specializes in a variety of sushi
+  rolls and hibachi options, all prepared with attention to detail in a relaxed
+  atmosphere that makes every meal feel welcoming. Accessibility features like
+  wheelchair-friendly parking and entrances ensure a comfortable visit for all
+  guests, adding to its appeal as a go-to choice for authentic Japanese cuisine.
+  Whether you're craving expertly crafted rolls or hearty entrees, the menu
+  highlights fresh ingredients and balanced flavors that capture the essence of
+  traditional fare. For those exploring sushi restaurants nearby, this location
+  stands out with its approachable vibe and moderate pricing, making it an ideal
+  spot for a satisfying meal.
+generative_summary: >-
+  Explore Kuyi Sushi in Cromwell, CT$$$Kuyi Sushi Japanese Restaurant in
+  Cromwell, CT, invites diners into a cozy setting perfect for enjoying fresh
+  sushi and classic Japanese dishes. This spot specializes in a variety of sushi
+  rolls and hibachi options, all prepared with attention to detail in a relaxed
+  atmosphere that makes every meal feel welcoming. Accessibility features like
+  wheelchair-friendly parking and entrances ensure a comfortable visit for all
+  guests, adding to its appeal as a go-to choice for authentic Japanese cuisine.
+  Whether you're craving expertly crafted rolls or hearty entrees, the menu
+  highlights fresh ingredients and balanced flavors that capture the essence of
+  traditional fare. For those exploring sushi restaurants nearby, this location
+  stands out with its approachable vibe and moderate pricing, making it an ideal
+  spot for a satisfying meal.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJd_gPim1L5okRSkSw0Ew-7-8/reviews/ChdDSUhNMG9nS0VJQ0FnSURuem9Ma2dBRRAB
@@ -370,6 +395,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURndGNib2lnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURndGNib2lnRRAB!2m1!1s0x89e64b6d8a0ff877:0xefef3e4cd0b0444a
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors often rave about the tasty sushi
+  rolls and quick service at this spot, highlighting how the fresh flavors and
+  generous portions make it a solid pick for Japanese food lovers. While most
+  folks appreciate the value for money and welcoming atmosphere, a few mentions
+  point to occasional inconsistencies in food preparation that could use some
+  fine-tuning. Overall, the consensus leans positive, with many enjoying the
+  variety of options like shrimp and salmon rolls that leave you feeling
+  satisfied and eager to return. It's a great choice if you're in the mood for a
+  casual dine-in experience, as the efficient delivery and takeout options add
+  extra convenience for busy days. In short, this place delivers on flavor and
+  friendliness, making it worth checking out for anyone seeking top-rated sushi
+  nearby.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -402,7 +441,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

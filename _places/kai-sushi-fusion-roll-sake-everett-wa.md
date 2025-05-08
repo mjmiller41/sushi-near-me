@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kai Sushi Fusion Roll &Sake"
+title: Kai Sushi Fusion Roll &Sake
 permalink: /washington/everett/kai-sushi-fusion-roll-sake.html
 stateAbbr: WA
 stateName: Washington
 cityName: Everett
 seo:
-  name: "Kai Sushi Fusion Roll &Sake"
-  type: Restaurant
+  type: restaurant
   links: https://kai-sushi.com/
-description: "Kai Sushi Fusion Roll &Sake serves delicious sushi in Everett, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJrQvpS5iqmlQRgFPFQqOUEHo
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x549aaa984be90bad:0x7a1094a342c55380!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:00 PM'
     - 'Saturday: 12:00 – 9:00 PM'
     - 'Sunday: 12:00 – 8:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 9:00 PM'
-    - 'Saturday: 12:00 – 9:00 PM'
-    - 'Sunday: 12:00 – 8:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +238,50 @@ phone: (425) 374-7949
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.6'
-rating_count: 0
+rating_count: 684
 website: https://kai-sushi.com/
+description: >-
+  Discover Kai Sushi Fusion in Everett, WA$$$Kai Sushi Fusion Roll &Sake in
+  Everett, Washington, stands out as a welcoming Japanese restaurant blending
+  fresh sushi rolls with creative fusion elements, making it a go-to spot for
+  sushi enthusiasts in the area. The menu features a wide variety of options,
+  including vegetarian-friendly choices, all prepared with high-quality
+  ingredients that highlight the artistry of traditional and innovative rolls.
+  Visitors can enjoy a relaxed atmosphere perfect for casual dining,
+  complemented by accessible features like wheelchair-friendly entrances and
+  seating. With its moderate pricing and inviting vibe, this sushi restaurant
+  near Everett offers an ideal setting for those seeking flavorful meals without
+  the fuss. Operating hours cater to lunch and dinner crowds, ensuring it's easy
+  to find great sushi options close to home.
+generative_summary: >-
+  Discover Kai Sushi Fusion in Everett, WA$$$Kai Sushi Fusion Roll &Sake in
+  Everett, Washington, stands out as a welcoming Japanese restaurant blending
+  fresh sushi rolls with creative fusion elements, making it a go-to spot for
+  sushi enthusiasts in the area. The menu features a wide variety of options,
+  including vegetarian-friendly choices, all prepared with high-quality
+  ingredients that highlight the artistry of traditional and innovative rolls.
+  Visitors can enjoy a relaxed atmosphere perfect for casual dining,
+  complemented by accessible features like wheelchair-friendly entrances and
+  seating. With its moderate pricing and inviting vibe, this sushi restaurant
+  near Everett offers an ideal setting for those seeking flavorful meals without
+  the fuss. Operating hours cater to lunch and dinner crowds, ensuring it's easy
+  to find great sushi options close to home.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About This Sushi Spot$$$Based on the strong 4.6
+  rating from hundreds of reviews, folks seem to love the fresh flavors and
+  creative twists on classic rolls at this popular sushi place in Everett. Many
+  highlight the generous portions and variety of options that make it a solid
+  choice for both solo diners and groups looking for satisfying Japanese
+  cuisine. While some mention occasional waits during peak times, the overall
+  consensus praises the attentive service and tasty vegetarian selections that
+  keep things approachable and enjoyable. It's clear that regulars appreciate
+  the laid-back environment, often returning for the reliable quality that
+  positions it among the best sushi experiences nearby. Overall, the feedback
+  paints a picture of a dependable spot where good food and a welcoming vibe
+  come together for a memorable meal.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +307,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

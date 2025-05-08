@@ -5,4 +5,5 @@ permalink: /california/mission-viejo/
 stateAbbr: CA
 stateName: California
 cityName: Mission Viejo
+
 ---

@@ -5,4 +5,5 @@ permalink: /louisiana/franklinton/
 stateAbbr: LA
 stateName: Louisiana
 cityName: Franklinton
+
 ---

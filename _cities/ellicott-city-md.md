@@ -5,4 +5,5 @@ permalink: /maryland/ellicott-city/
 stateAbbr: MD
 stateName: Maryland
 cityName: Ellicott City
+
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Blufish"
+title: Blufish
 permalink: /illinois/glenview/blufish.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Glenview
 seo:
-  name: "Blufish"
-  type: Restaurant
-  links: null
-description: "Blufish serves delicious sushi in Glenview, Illinois. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.blufishsushi.com/
 place_id: ChIJ7yQy63vHD4gR9RTVl92EmFA
 photos:
   - name: >-
@@ -170,8 +168,113 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x880fc77beb3224ef:0x509884dd97d514f5!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 16
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 14
+        minute: 0
+    - open:
+        day: 1
+        hour: 16
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:30 AM – 2:00 PM, 4:30 – 9:00 PM'
+    - 'Tuesday: 11:30 AM – 2:00 PM, 4:30 – 9:00 PM'
+    - 'Wednesday: 11:30 AM – 2:00 PM, 4:30 – 9:00 PM'
+    - 'Thursday: 11:30 AM – 2:00 PM, 4:30 – 9:00 PM'
+    - 'Friday: 11:30 AM – 2:00 PM, 4:30 – 9:30 PM'
+    - 'Saturday: 12:00 – 9:30 PM'
+    - 'Sunday: 4:00 – 8:30 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +282,55 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (847) 272-3474
+price_level: PRICE_LEVEL_MODERATE
+price_range: $30 &ndash; $50
+rating: '4.5'
+rating_count: 882
+website: http://www.blufishsushi.com/
+description: >-
+  Discover Blufish in Glenview, Illinois$$$Blufish in Glenview, Illinois, stands
+  out as a vibrant destination for fresh Japanese cuisine, offering an array of
+  sushi options that cater to those seeking authentic flavors in a modern
+  setting. The restaurant features a trendy atmosphere where diners can enjoy
+  meticulously prepared sushi rolls, nigiri, and other traditional Japanese
+  dishes, making it a go-to spot for anyone craving quality Asian-inspired
+  meals. With its accessible design and welcoming vibe, Blufish emphasizes
+  convenience and comfort, ideal for casual outings or special occasions.
+  Operating with flexible hours that include lunch and dinner services, it
+  provides a reliable option for locals and visitors exploring sushi spots
+  nearby. This establishment's focus on flavorful presentations and attentive
+  service ensures a memorable experience for those in search of top-rated
+  Japanese dining options.
+generative_summary: >-
+  Discover Blufish in Glenview, Illinois$$$Blufish in Glenview, Illinois, stands
+  out as a vibrant destination for fresh Japanese cuisine, offering an array of
+  sushi options that cater to those seeking authentic flavors in a modern
+  setting. The restaurant features a trendy atmosphere where diners can enjoy
+  meticulously prepared sushi rolls, nigiri, and other traditional Japanese
+  dishes, making it a go-to spot for anyone craving quality Asian-inspired
+  meals. With its accessible design and welcoming vibe, Blufish emphasizes
+  convenience and comfort, ideal for casual outings or special occasions.
+  Operating with flexible hours that include lunch and dinner services, it
+  provides a reliable option for locals and visitors exploring sushi spots
+  nearby. This establishment's focus on flavorful presentations and attentive
+  service ensures a memorable experience for those in search of top-rated
+  Japanese dining options.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Buzzing About$$$From the high ratings and feedback, folks
+  seem to really dig Blufish for its consistently fresh and creative sushi
+  selections that hit the spot every time. Many highlight the solid value for
+  the price, with meals that feel worth it for the taste and portion sizes,
+  especially when you're in the mood for something light yet satisfying. It's
+  clear that the service gets a thumbs-up too, with comments pointing to
+  friendly staff and a smooth dining flow that keeps things enjoyable without
+  any major hiccups. Overall, people appreciate the welcoming environment that
+  makes it a solid pick for groups or solo diners looking for reliable Japanese
+  fare. While not perfect, the general vibe is positive, making it a recommended
+  stop for anyone hunting for great sushi experiences in the area.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +356,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

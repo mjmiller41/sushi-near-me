@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Xiaos' Hibachi and Sushi"
+title: Xiaos' Hibachi and Sushi
 permalink: /tennessee/murfreesboro/xiaos-hibachi-and-sushi.html
 stateAbbr: TN
 stateName: Tennessee
 cityName: Murfreesboro
 seo:
-  name: "Xiaos' Hibachi and Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://xiaoshibachi.com/
-description: "Informal strip-mall outlet serving hibachi-style seafood & meat dishes plus creative sushi rolls. Xiaos' Hibachi and Sushi serves delicious sushi in Murfreesboro, Tennessee. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJW_OTYqMHZIgRxJsOTh9yKGU
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 0
 website: http://xiaoshibachi.com/
+description: >-
+  Discover Xiaos' Hibachi and Sushi in Murfreesboro, TN$$$Nestled in
+  Murfreesboro, TN, Xiaos' Hibachi and Sushi offers a relaxed dining experience
+  with a focus on flavorful hibachi-style dishes and creative sushi options that
+  appeal to those seeking fresh Japanese cuisine nearby. This spot combines
+  casual vibes with an array of expertly prepared steaks, seafood, and inventive
+  rolls, making it a go-to for anyone exploring top-rated sushi in the area.
+  Patrons can enjoy a selection of beverages like beer, sake, and cocktails,
+  enhancing the laid-back atmosphere perfect for casual meals or gatherings. The
+  restaurant's accessibility features, such as wheelchair-friendly entrances and
+  parking, ensure a welcoming visit for all, while its moderate pricing keeps it
+  approachable for everyday diners looking for quality Japanese places close to
+  home.
+generative_summary: >-
+  Discover Xiaos' Hibachi and Sushi in Murfreesboro, TN$$$Nestled in
+  Murfreesboro, TN, Xiaos' Hibachi and Sushi offers a relaxed dining experience
+  with a focus on flavorful hibachi-style dishes and creative sushi options that
+  appeal to those seeking fresh Japanese cuisine nearby. This spot combines
+  casual vibes with an array of expertly prepared steaks, seafood, and inventive
+  rolls, making it a go-to for anyone exploring top-rated sushi in the area.
+  Patrons can enjoy a selection of beverages like beer, sake, and cocktails,
+  enhancing the laid-back atmosphere perfect for casual meals or gatherings. The
+  restaurant's accessibility features, such as wheelchair-friendly entrances and
+  parking, ensure a welcoming visit for all, while its moderate pricing keeps it
+  approachable for everyday diners looking for quality Japanese places close to
+  home.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJW_OTYqMHZIgRxJsOTh9yKGU/reviews/ChdDSUhNMG9nS0VJQ0FnTURBb2NXaXV3RRAB
@@ -330,6 +355,22 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN2ajZ6c3lnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN2ajZ6c3lnRRAB!2m1!1s0x886407a36293f35b:0x6528721f4e0e9bc4
+review_summary: >-
+  What Customers Are Buzzing About at This Sushi Favorite$$$Visitors often rave
+  about the outstanding food quality, particularly the fresh sushi rolls and
+  hibachi dishes that stand out as some of the best options around, drawing in
+  fans of authentic flavors. Many appreciate the attentive service and fun
+  atmosphere, especially for group outings or special occasions, where staff go
+  the extra mile to make everyone feel at ease. While a few mentions note
+  occasional rushes during busy times, the overall consensus highlights
+  consistently delicious meals and a welcoming vibe that keeps people coming
+  back for more. Folks love how the variety of vegetarian choices and
+  kid-friendly menu items make it versatile for different tastes, adding to its
+  appeal as a reliable spot for satisfying sushi cravings. In summary, it's a
+  solid choice for anyone hunting for great Japanese dining nearby, with
+  positive experiences outweighing any minor hiccups for a genuinely enjoyable
+  meal.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -363,8 +404,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Informal strip-mall outlet serving hibachi-style seafood & meat dishes plus
   creative sushi rolls.
 

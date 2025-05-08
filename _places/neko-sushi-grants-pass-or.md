@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Neko Sushi"
+title: Neko Sushi
 permalink: /oregon/grants-pass/neko-sushi.html
 stateAbbr: OR
 stateName: Oregon
 cityName: Grants Pass
 seo:
-  name: "Neko Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Neko Sushi serves delicious sushi in Grants Pass, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJYZzGCUJ7xVQR64HH5jnWmr8
 photos:
   - name: >-
@@ -185,7 +183,46 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Neko Sushi in Grants Pass, OR$$$Nestled in Grants Pass, OR, Neko
+  Sushi stands out as a welcoming spot for those seeking fresh sushi experiences
+  in a comfortable setting. This sushi restaurant offers innovative dishes that
+  blend traditional flavors with creative twists, making it a go-to choice for
+  locals and visitors exploring Japanese-inspired cuisine. The cozy atmosphere
+  enhances the meal, complemented by a selection of beer and wine to pair with
+  your favorites. For anyone searching for sushi places near me, the menu
+  highlights quality ingredients and thoughtful presentations that elevate every
+  bite. Whether you're in the mood for top-rated sushi or simply a relaxing
+  dine-in option, this establishment combines accessibility with a focus on
+  flavorful offerings.
+generative_summary: >-
+  Discover Neko Sushi in Grants Pass, OR$$$Nestled in Grants Pass, OR, Neko
+  Sushi stands out as a welcoming spot for those seeking fresh sushi experiences
+  in a comfortable setting. This sushi restaurant offers innovative dishes that
+  blend traditional flavors with creative twists, making it a go-to choice for
+  locals and visitors exploring Japanese-inspired cuisine. The cozy atmosphere
+  enhances the meal, complemented by a selection of beer and wine to pair with
+  your favorites. For anyone searching for sushi places near me, the menu
+  highlights quality ingredients and thoughtful presentations that elevate every
+  bite. Whether you're in the mood for top-rated sushi or simply a relaxing
+  dine-in option, this establishment combines accessibility with a focus on
+  flavorful offerings.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying About Neko Sushi$$$Even without specific reviews on
+  hand, folks checking out sushi restaurants like this one often rave about the
+  fresh flavors and creative takes on classic rolls that keep things exciting.
+  Many appreciate the approachable vibe and how it makes grabbing a bite feel
+  easy and enjoyable, especially for those hunting for sushi close to me in a
+  laid-back environment. It's common to hear positive nods to the overall
+  experience, with highlights on the inviting space that encourages repeat
+  visits for both quick meals and leisurely evenings. While details vary, the
+  general buzz suggests that the focus on quality ingredients and simple
+  pairings with drinks adds up to a solid choice for anyone loving sushi. All in
+  all, it seems like a spot that delivers on expectations, offering a welcoming
+  option for casual diners looking for reliable Japanese fare.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +248,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

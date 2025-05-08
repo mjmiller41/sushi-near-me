@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Kashiba"
+title: Sushi Kashiba
 permalink: /washington/seattle/sushi-kashiba.html
 stateAbbr: WA
 stateName: Washington
 cityName: Seattle
 seo:
-  name: "Sushi Kashiba"
-  type: Restaurant
+  type: restaurant
   links: https://sushikashiba.com/
-description: "Sushi Kashiba serves delicious sushi in Seattle, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJFS-l3bJqkFQRLsPudqgFD-4
 photos:
   - name: >-
@@ -169,7 +167,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x54906ab2dda52f15:0xee0f05a876eec32e!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 5:00 – 9:00 PM'
     - 'Tuesday: Closed'
     - 'Wednesday: 5:00 – 9:00 PM'
@@ -177,14 +225,7 @@ opening_hours:
     - 'Friday: 5:00 – 9:30 PM'
     - 'Saturday: 5:00 – 9:30 PM'
     - 'Sunday: 5:00 – 9:00 PM'
-  current:
-    - 'Monday: 5:00 – 9:00 PM'
-    - 'Tuesday: Closed'
-    - 'Wednesday: 5:00 – 9:00 PM'
-    - 'Thursday: 5:00 – 9:00 PM'
-    - 'Friday: 5:00 – 9:30 PM'
-    - 'Saturday: 5:00 – 9:30 PM'
-    - 'Sunday: 5:00 – 9:00 PM'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,9 +237,47 @@ phone: (206) 441-8844
 price_level: PRICE_LEVEL_VERY_EXPENSIVE
 price_range: $100 &ndash; & up
 rating: '4.7'
-rating_count: 0
+rating_count: 1877
 website: https://sushikashiba.com/
+description: >-
+  Discover Sushi Kashiba in Seattle, WA$$$Sushi Kashiba in Seattle, WA, stands
+  out as a top destination for exquisite Japanese dining, nestled in the vibrant
+  Pike Place Market area. This sushi restaurant delights visitors with its focus
+  on omakase-style meals, featuring fresh, high-quality ingredients that
+  highlight traditional Japanese flavors and specialties. Guests can enjoy a
+  selection of beverages including beer, wine, and sake, enhancing the immersive
+  dining experience in a modern setting. The spot emphasizes accessibility, with
+  wheelchair-friendly entrances and seating, making it welcoming for all.
+  Whether you're seeking sushi places near me or exploring the best Japanese
+  options in the city, this establishment offers a refined atmosphere that
+  captures the essence of authentic cuisine.
+generative_summary: >-
+  Discover Sushi Kashiba in Seattle, WA$$$Sushi Kashiba in Seattle, WA, stands
+  out as a top destination for exquisite Japanese dining, nestled in the vibrant
+  Pike Place Market area. This sushi restaurant delights visitors with its focus
+  on omakase-style meals, featuring fresh, high-quality ingredients that
+  highlight traditional Japanese flavors and specialties. Guests can enjoy a
+  selection of beverages including beer, wine, and sake, enhancing the immersive
+  dining experience in a modern setting. The spot emphasizes accessibility, with
+  wheelchair-friendly entrances and seating, making it welcoming for all.
+  Whether you're seeking sushi places near me or exploring the best Japanese
+  options in the city, this establishment offers a refined atmosphere that
+  captures the essence of authentic cuisine.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Guests Are Buzzing About$$$Folks who visit sushi spots like this one
+  often rave about the outstanding omakase offerings, praising the ultra-fresh
+  fish and standout dishes that make every bite memorable. Many highlight the
+  solid selection of sake and other drinks that pair perfectly with the meal,
+  adding to the overall enjoyment without overwhelming the palate. The service
+  stands out as warm and attentive, creating a relaxed vibe that keeps diners
+  coming back for more. While it's on the pricier side, the modern and chic
+  ambiance makes it feel worth it for those hunting for top-rated sushi near me.
+  Overall, it's a go-to choice for a satisfying experience that combines quality
+  food with a welcoming environment, though it's best for those ready for a
+  special occasion outing.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -224,7 +303,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

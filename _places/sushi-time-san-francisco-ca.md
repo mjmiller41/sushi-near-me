@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Time"
+title: Sushi Time
 permalink: /california/san-francisco/sushi-time.html
 stateAbbr: CA
 stateName: California
 cityName: San Francisco
 seo:
-  name: "Sushi Time"
-  type: Restaurant
-  links: null
-description: "Sushi Time serves delicious sushi in San Francisco, California. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.sushitimesf.com/
 place_id: ChIJ3Tr0XRx-j4AR_vo9JIZx2MU
 photos:
   - name: >-
@@ -167,8 +165,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x808f7e1c5df43add:0xc5d87186243dfafe!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: false
+  periods:
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 20
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 20
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 20
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 20
+        minute: 30
+    - open:
+        day: 6
+        hour: 16
+        minute: 30
+      close:
+        day: 6
+        hour: 20
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: Closed'
+    - 'Tuesday: 4:30 – 8:30 PM'
+    - 'Wednesday: 4:30 – 8:30 PM'
+    - 'Thursday: 4:30 – 8:30 PM'
+    - 'Friday: 4:30 – 8:30 PM'
+    - 'Saturday: 4:30 – 8:30 PM'
+    - 'Sunday: Closed'
+  nextOpenTime: '2025-05-03T23:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -176,13 +223,50 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (415) 552-2280
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.6'
+rating_count: 241
+website: https://www.sushitimesf.com/
+description: >-
+  Discover Sushi Time in San Francisco, CA$$$Sushi Time in San Francisco, CA,
+  stands out as a casual Japanese eatery offering an array of fresh sushi
+  options that draw in locals and visitors searching for authentic flavors. This
+  spot specializes in meticulously prepared sushi rolls, nigiri, and small
+  plates, complemented by a selection of beer, wine, and sake for a well-rounded
+  dining experience. Nestled in the vibrant Castro neighborhood, it provides a
+  welcoming atmosphere with wheelchair-accessible entrances, making it easy to
+  enjoy a meal in a cozy setting. With moderate pricing around $20 to $30, it's
+  an ideal choice for those exploring sushi restaurants near me who appreciate
+  quality without breaking the bank. Evening hours from Tuesday through Saturday
+  add to its appeal for anyone craving top-rated sushi in a relaxed environment.
+generative_summary: >-
+  Discover Sushi Time in San Francisco, CA$$$Sushi Time in San Francisco, CA,
+  stands out as a casual Japanese eatery offering an array of fresh sushi
+  options that draw in locals and visitors searching for authentic flavors. This
+  spot specializes in meticulously prepared sushi rolls, nigiri, and small
+  plates, complemented by a selection of beer, wine, and sake for a well-rounded
+  dining experience. Nestled in the vibrant Castro neighborhood, it provides a
+  welcoming atmosphere with wheelchair-accessible entrances, making it easy to
+  enjoy a meal in a cozy setting. With moderate pricing around $20 to $30, it's
+  an ideal choice for those exploring sushi restaurants near me who appreciate
+  quality without breaking the bank. Evening hours from Tuesday through Saturday
+  add to its appeal for anyone craving top-rated sushi in a relaxed environment.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Folks rave about the high-quality sushi at this
+  spot, highlighting fresh and flavorful options like premium nigiri and
+  well-balanced rolls that hit the spot every time. Many appreciate the subtle
+  tastes and satisfying portions, along with nods to the cold beers that pair
+  perfectly with the menu. The atmosphere gets plenty of praise for being cute
+  and cozy, creating a comfortable vibe that enhances the overall meal.
+  Reviewers often note the friendly service and management, which contribute to
+  a welcoming feel without overwhelming the experience. Overall, it's a solid
+  pick for anyone looking for reliable Japanese places near me, with the
+  positives far outweighing any minor hiccups for a genuinely enjoyable visit.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -208,7 +292,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

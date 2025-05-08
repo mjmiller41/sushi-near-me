@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "New Taipei"
+title: New Taipei
 permalink: /massachusetts/new-bedford/new-taipei.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: New Bedford
 seo:
-  name: "New Taipei"
-  type: Restaurant
+  type: restaurant
   links: https://www.newtaipeima.com/
-description: "New Taipei serves delicious sushi in New Bedford, Massachusetts. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ1b0kIrjj5IkR86xg3esw8Yk
 photos:
   - name: >-
@@ -184,6 +182,29 @@ price_range: $10 &ndash; $20
 rating: '4.4'
 rating_count: 0
 website: https://www.newtaipeima.com/
+description: >-
+  Explore New Taipei in New Bedford, MA$$$New Taipei in New Bedford, MA, stands
+  out as a relaxed dining destination blending traditional Chinese flavors with
+  fresh sushi options, making it a go-to for those seeking variety in their
+  meals. This spot offers a welcoming atmosphere with accessible features like
+  wheelchair-friendly entrances and seating, ensuring everyone can enjoy their
+  visit comfortably. Diners can savor moderately priced dishes served for lunch
+  and dinner, including flavorful classics and creative rolls that highlight
+  quality ingredients. With options for takeout and delivery, it's ideal for
+  casual meals at home, appealing to anyone exploring local sushi restaurants in
+  the area.
+generative_summary: >-
+  Explore New Taipei in New Bedford, MA$$$New Taipei in New Bedford, MA, stands
+  out as a relaxed dining destination blending traditional Chinese flavors with
+  fresh sushi options, making it a go-to for those seeking variety in their
+  meals. This spot offers a welcoming atmosphere with accessible features like
+  wheelchair-friendly entrances and seating, ensuring everyone can enjoy their
+  visit comfortably. Diners can savor moderately priced dishes served for lunch
+  and dinner, including flavorful classics and creative rolls that highlight
+  quality ingredients. With options for takeout and delivery, it's ideal for
+  casual meals at home, appealing to anyone exploring local sushi restaurants in
+  the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ1b0kIrjj5IkR86xg3esw8Yk/reviews/ChdDSUhNMG9nS0VJQ0FnSURiNDdQQjJnRRAB
@@ -329,6 +350,17 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNPMDc2ZGVREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNPMDc2ZGVREAE!2m1!1s0x89e4e3b82224bdd5:0x89f130ebdd60acf3
+review_summary: >-
+  Customer Feedback on New Taipei$$$Folks who've tried New Taipei often rave
+  about the tasty sushi and Chinese dishes, noting how fresh and satisfying
+  everything is, which keeps them coming back for more. Many appreciate the
+  quick service and friendly vibes, whether grabbing takeout or enjoying a meal
+  on the spot, making it a solid choice for everyday eats. While there might be
+  occasional mix-ups, like with sides, the team handles them well, adding to the
+  positive experience overall. If you're hunting for top-rated sushi spots
+  nearby, this place gets high marks for its reliable flavors and welcoming
+  feel, encouraging repeat visits from satisfied customers.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -361,7 +393,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: null
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

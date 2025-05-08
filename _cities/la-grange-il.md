@@ -5,4 +5,5 @@ permalink: /illinois/la-grange/
 stateAbbr: IL
 stateName: Illinois
 cityName: La Grange
+
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Poke & Roll"
+title: Poke & Roll
 permalink: /ohio/cuyahoga-falls/poke-roll.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Cuyahoga Falls
 seo:
-  name: "Poke & Roll"
-  type: Restaurant
+  type: restaurant
   links: https://www.eatpokenroll.com/
-description: "Poke & Roll serves delicious sushi in Cuyahoga Falls, Ohio. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJi8fFfhwnMYgRPQ1HLtbMMVU
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $10 &ndash; $20
 rating: '4.0'
 rating_count: 0
 website: https://www.eatpokenroll.com/
+description: >-
+  Explore Poke & Roll in Cuyahoga Falls, OH$$$Poke & Roll in Cuyahoga Falls, OH,
+  offers a casual dining experience focused on fresh, customizable poke bowls
+  and sushi options that appeal to those seeking Japanese-inspired flavors. This
+  spot stands out for its variety of build-your-own meals, including hearty
+  sushi burritos and refreshing boba teas, making it a go-to for quick,
+  satisfying lunches or dinners. With moderate pricing and convenient
+  accessibility features like wheelchair-friendly entrances and parking, it's
+  designed to accommodate a wide range of diners. The restaurant also supports
+  takeout and delivery, perfect for enjoying top-rated sushi dishes without
+  leaving home. Whether you're looking for sushi places near you or a relaxed
+  meal with friends, this location delivers on fresh ingredients and simple
+  customization.
+generative_summary: >-
+  Explore Poke & Roll in Cuyahoga Falls, OH$$$Poke & Roll in Cuyahoga Falls, OH,
+  offers a casual dining experience focused on fresh, customizable poke bowls
+  and sushi options that appeal to those seeking Japanese-inspired flavors. This
+  spot stands out for its variety of build-your-own meals, including hearty
+  sushi burritos and refreshing boba teas, making it a go-to for quick,
+  satisfying lunches or dinners. With moderate pricing and convenient
+  accessibility features like wheelchair-friendly entrances and parking, it's
+  designed to accommodate a wide range of diners. The restaurant also supports
+  takeout and delivery, perfect for enjoying top-rated sushi dishes without
+  leaving home. Whether you're looking for sushi places near you or a relaxed
+  meal with friends, this location delivers on fresh ingredients and simple
+  customization.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJi8fFfhwnMYgRPQ1HLtbMMVU/reviews/ChZDSUhNMG9nS0VJQ0FnTURJOHVhX1h3EAE
@@ -398,6 +423,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNQa05udkpBEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNQa05udkpBEAE!2m1!1s0x8831271c7ec5c78b:0x5531ccd62e470d3d
+review_summary: >-
+  Insights from Customer Feedback$$$Folks often rave about the generous portions
+  and friendly service at this spot, making it a solid choice for a casual meal
+  with poke bowls that hit the spot. While some have noted inconsistencies in
+  food amounts and quality that could use some tweaks, the overall vibe remains
+  welcoming and clean, with extras like free boba tea adding a fun twist. Many
+  appreciate the affordability for what you get, though a few mention that
+  certain items like sushi burritos might not always meet expectations in size
+  or freshness. Despite these mixed experiences, it's clear that the place
+  shines for its approachable atmosphere and variety, encouraging return visits
+  for those hunting for the best sushi nearby. All in all, it's worth checking
+  out if you're in the mood for tasty, customizable eats, as long as you keep an
+  eye on what you're ordering.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -430,7 +469,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

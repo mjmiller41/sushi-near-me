@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "YANAGI SUSHI"
+title: YANAGI SUSHI
 permalink: /arizona/gilbert/yanagi-sushi.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Gilbert
 seo:
-  name: "YANAGI SUSHI"
-  type: Restaurant
+  type: restaurant
   links: http://www.yanagisushiaz.com/
-description: "YANAGI SUSHI serves delicious sushi in Gilbert, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJn0LYLnapK4cRRrVTGZI-hz8
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x872ba9762ed8429f:0x3f873e921953b546!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 9:00 PM'
     - 'Tuesday: 11:30 AM – 9:00 PM'
     - 'Wednesday: 11:30 AM – 9:00 PM'
@@ -178,54 +234,289 @@ opening_hours:
     - 'Friday: 11:30 AM – 9:30 PM'
     - 'Saturday: 11:30 AM – 9:30 PM'
     - 'Sunday: 11:30 AM – 9:00 PM'
-  current:
-    - 'Monday: 11:30 AM – 9:00 PM'
-    - 'Tuesday: 11:30 AM – 9:00 PM'
-    - 'Wednesday: 11:30 AM – 9:00 PM'
-    - 'Thursday: 11:30 AM – 9:00 PM'
-    - 'Friday: 11:30 AM – 9:30 PM'
-    - 'Saturday: 11:30 AM – 9:30 PM'
-    - 'Sunday: 11:30 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T04:30:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: false
+    periods:
+      - open:
+          day: 1
+          hour: 11
+          minute: 30
+        close:
+          day: 1
+          hour: 21
+          minute: 0
+      - open:
+          day: 2
+          hour: 11
+          minute: 30
+        close:
+          day: 2
+          hour: 21
+          minute: 0
+      - open:
+          day: 3
+          hour: 11
+          minute: 30
+        close:
+          day: 3
+          hour: 21
+          minute: 0
+      - open:
+          day: 4
+          hour: 11
+          minute: 30
+        close:
+          day: 4
+          hour: 21
+          minute: 0
+      - open:
+          day: 5
+          hour: 11
+          minute: 30
+        close:
+          day: 5
+          hour: 17
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 11:30 AM – 9:00 PM'
+      - 'Tuesday: 11:30 AM – 9:00 PM'
+      - 'Wednesday: 11:30 AM – 9:00 PM'
+      - 'Thursday: 11:30 AM – 9:00 PM'
+      - 'Friday: 11:30 AM – 5:00 PM'
+      - 'Saturday: Closed'
+      - 'Sunday: Closed'
+    secondaryHoursType: HAPPY_HOUR
+    nextOpenTime: '2025-05-05T18:30:00Z'
 phone: (480) 284-6070
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.5'
-rating_count: 0
+rating_count: 518
 website: http://www.yanagisushiaz.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover YANAGI SUSHI in Gilbert, AZ$$$YANAGI SUSHI in Gilbert, AZ, stands out
+  as a casual Japanese restaurant offering a delightful mix of classic and
+  creative sushi options that cater to various tastes. With a focus on fresh
+  ingredients and an array of vegan-friendly dishes, this spot provides a
+  welcoming atmosphere perfect for those seeking quality Japanese cuisine. The
+  menu highlights innovative rolls and traditional fare, complemented by happy
+  hour specials that add value to every visit. Accessibility features like
+  wheelchair-friendly parking and entrances make it easy for everyone to enjoy,
+  while its convenient location in a strip mall setting ensures it's a go-to
+  choice for sushi enthusiasts looking for top-rated options nearby.
+generative_summary: >-
+  Discover YANAGI SUSHI in Gilbert, AZ$$$YANAGI SUSHI in Gilbert, AZ, stands out
+  as a casual Japanese restaurant offering a delightful mix of classic and
+  creative sushi options that cater to various tastes. With a focus on fresh
+  ingredients and an array of vegan-friendly dishes, this spot provides a
+  welcoming atmosphere perfect for those seeking quality Japanese cuisine. The
+  menu highlights innovative rolls and traditional fare, complemented by happy
+  hour specials that add value to every visit. Accessibility features like
+  wheelchair-friendly parking and entrances make it easy for everyone to enjoy,
+  while its convenient location in a strip mall setting ensures it's a go-to
+  choice for sushi enthusiasts looking for top-rated options nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJn0LYLnapK4cRRrVTGZI-hz8/reviews/ChdDSUhNMG9nS0VJQ0FnSURMeTgtOTlnRRAB
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        Update. Back for the delicious vegan options. So many. 2 pages of the
+        menu plus a special board. Rainbow roll is classic. The deep fried spicy
+        tuna was great. And the lollipop was fun.
+
+
+        Vegan sushi menus! So delicious! Great service and vibe. Will definitely
+        be back!
+
+        Rainbow roll and crunchy tuna were our fav
+      languageCode: en
+    originalText:
+      text: >-
+        Update. Back for the delicious vegan options. So many. 2 pages of the
+        menu plus a special board. Rainbow roll is classic. The deep fried spicy
+        tuna was great. And the lollipop was fun.
+
+
+        Vegan sushi menus! So delicious! Great service and vibe. Will definitely
+        be back!
+
+        Rainbow roll and crunchy tuna were our fav
+      languageCode: en
+    authorAttribution:
+      displayName: Clare Madrigal
+      uri: https://www.google.com/maps/contrib/114818093279891092719/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWn_IhJ4RbfdtLisDMHXRE2ZTZ_BPKFVe5S0VbqiVfJlzbeYrG9=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2024-12-29T19:50:44.242426Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURMeTgtOTlnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURMeTgtOTlnRRAB!2m1!1s0x872ba9762ed8429f:0x3f873e921953b546
+  - name: >-
+      places/ChIJn0LYLnapK4cRRrVTGZI-hz8/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3MllHeExBEAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Amazing vegan sushi options.. . Please try the sweet potato roll and the
+        crunchy onion roll!  My husband says the vegan salmon is amazing too!!
+      languageCode: en
+    originalText:
+      text: >-
+        Amazing vegan sushi options.. . Please try the sweet potato roll and the
+        crunchy onion roll!  My husband says the vegan salmon is amazing too!!
+      languageCode: en
+    authorAttribution:
+      displayName: Brittany Wilson
+      uri: https://www.google.com/maps/contrib/110175308023925751528/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLVw5v2mPnA4tgTVpW5co_i6zJoUpGT-VjRWtYhy0ViLOrOEA=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-03-26T23:15:13.145123Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUR3MllHeExBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUR3MllHeExBEAE!2m1!1s0x872ba9762ed8429f:0x3f873e921953b546
+  - name: >-
+      places/ChIJn0LYLnapK4cRRrVTGZI-hz8/reviews/ChZDSUhNMG9nS0VJQ0FnSURUc0tmbGZREAE
+    relativePublishTimeDescription: 11 months ago
+    rating: 5
+    text:
+      text: >-
+        This is the best sushi restaurant in AZ. The food & sushi rolls are
+        phenomenal. All of the rolls are very flavorful & delicious. The fish is
+        always fresh & tastes wonderful. We dine in here all of the time. The
+        staff are awesome & always take great care of us. You have to try these
+        phenomenal rolls. The Salmon Holic, Hans Roll, Playboy, Sunrise Roll,
+        Scorpion Roll, Cherry Blossom, Sexy Roll, Over the Rainbow, Spicy
+        Rainbow, Spicy Tuna.
+      languageCode: en
+    originalText:
+      text: >-
+        This is the best sushi restaurant in AZ. The food & sushi rolls are
+        phenomenal. All of the rolls are very flavorful & delicious. The fish is
+        always fresh & tastes wonderful. We dine in here all of the time. The
+        staff are awesome & always take great care of us. You have to try these
+        phenomenal rolls. The Salmon Holic, Hans Roll, Playboy, Sunrise Roll,
+        Scorpion Roll, Cherry Blossom, Sexy Roll, Over the Rainbow, Spicy
+        Rainbow, Spicy Tuna.
+      languageCode: en
+    authorAttribution:
+      displayName: Christina Kunstman
+      uri: https://www.google.com/maps/contrib/100852734178054797829/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKWBTy58GQ_Uc5n6Dy4lnj137Tkz7iiXb6HPsT9IEQdOuF8jw=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-05-21T17:39:22.560789Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURUc0tmbGZREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURUc0tmbGZREAE!2m1!1s0x872ba9762ed8429f:0x3f873e921953b546
+  - name: >-
+      places/ChIJn0LYLnapK4cRRrVTGZI-hz8/reviews/ChZDSUhNMG9nS0VJQ0FnSUNyN1pTYU5BEAE
+    relativePublishTimeDescription: 9 months ago
+    rating: 5
+    text:
+      text: >-
+        Its very small place for hangout but the food is really delicious. We
+        tried popcorn shrimp, spring roll, shrimp tempura, vegan shrimp crunchy
+        roll all are so delicious and mouth watering. Price also very reasonable
+        as compare to other restaurant.
+      languageCode: en
+    originalText:
+      text: >-
+        Its very small place for hangout but the food is really delicious. We
+        tried popcorn shrimp, spring roll, shrimp tempura, vegan shrimp crunchy
+        roll all are so delicious and mouth watering. Price also very reasonable
+        as compare to other restaurant.
+      languageCode: en
+    authorAttribution:
+      displayName: Deepak Kumar
+      uri: https://www.google.com/maps/contrib/112189066087236391941/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJ0REowCKJli5-1xvPo4qTYDRuxIeLRdUNldYni3SIkdU3dJ9v-=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-07-10T05:19:26.821912Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNyN1pTYU5BEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNyN1pTYU5BEAE!2m1!1s0x872ba9762ed8429f:0x3f873e921953b546
+  - name: >-
+      places/ChIJn0LYLnapK4cRRrVTGZI-hz8/reviews/ChZDSUhNMG9nS0VJQ0FnTURvcGR1VVJ3EAE
+    relativePublishTimeDescription: in the last week
+    rating: 5
+    text:
+      text: >-
+        My family loves this place! My daughter is super picky and loves their
+        Gyoza. Frankly we all love the Gyoza and each get and order every time.
+        I love the Gila Mountain and whatever the spicy dipping sauce is that
+        comes with it. This is our favorite sushi place.
+      languageCode: en
+    originalText:
+      text: >-
+        My family loves this place! My daughter is super picky and loves their
+        Gyoza. Frankly we all love the Gyoza and each get and order every time.
+        I love the Gila Mountain and whatever the spicy dipping sauce is that
+        comes with it. This is our favorite sushi place.
+      languageCode: en
+    authorAttribution:
+      displayName: Kristen Lerum
+      uri: https://www.google.com/maps/contrib/103614236406785085785/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWOEbAvwzCSJLTyEIl6mfUspQjT4kpD0aMbFGGk5ls3EtdNpQol=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-27T00:59:55.959098Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURvcGR1VVJ3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURvcGR1VVJ3EAE!2m1!1s0x872ba9762ed8429f:0x3f873e921953b546
+review_summary: >-
+  Insights from Recent Reviews$$$Visitors often praise this sushi restaurant for
+  its impressive variety of vegan rolls and fresh, flavorful dishes that keep
+  things exciting and satisfying. Many highlight the reasonable prices and
+  efficient service that make dining here a relaxed and enjoyable experience,
+  with standout mentions of creative appetizers and high-quality ingredients.
+  Folks appreciate how the menu balances classic favorites with unique twists,
+  making it a solid pick for groups or anyone craving authentic Japanese
+  flavors. Overall, the feedback leans positive, noting that it's a dependable
+  spot for great meals that leave you wanting to return, especially if you're
+  exploring the best sushi options in the area.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: true
+live_music: false
+menu_for_children: true
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
 serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_cocktails: true
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  A menu focused on classic & creative sushi alongside Japanese fare in a casual
+  strip mall setting.
 
 ---

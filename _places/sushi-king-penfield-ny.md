@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi King"
+title: Sushi King
 permalink: /new-york/penfield/sushi-king.html
 stateAbbr: NY
 stateName: New York
 cityName: Penfield
 seo:
-  name: "Sushi King"
-  type: Restaurant
+  type: restaurant
   links: http://www.penfieldsushiking.com/
-description: "Sushi King serves delicious sushi in Penfield, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJb5O0W2PL1okRfPwDF0d8gzE
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $10 &ndash; $20
 rating: '4.5'
 rating_count: 0
 website: http://www.penfieldsushiking.com/
+description: >-
+  Experience Sushi King in Penfield, NY$$$Nestled in Penfield, NY, Sushi King
+  stands out as a welcoming spot for fresh Japanese cuisine, blending
+  traditional flavors with affordable lunch options in a relaxed atmosphere.
+  This sushi restaurant delights visitors with its array of expertly prepared
+  rolls and dishes, making it a go-to choice for those seeking authentic tastes
+  without the fuss. Accessibility features like wheelchair-friendly entrances
+  and parking add to the convenience, ensuring everyone can enjoy the
+  experience. With moderate pricing and a focus on quality ingredients, it's an
+  ideal destination for anyone exploring sushi places near me or looking for
+  top-rated Japanese fare in the area.
+generative_summary: >-
+  Experience Sushi King in Penfield, NY$$$Nestled in Penfield, NY, Sushi King
+  stands out as a welcoming spot for fresh Japanese cuisine, blending
+  traditional flavors with affordable lunch options in a relaxed atmosphere.
+  This sushi restaurant delights visitors with its array of expertly prepared
+  rolls and dishes, making it a go-to choice for those seeking authentic tastes
+  without the fuss. Accessibility features like wheelchair-friendly entrances
+  and parking add to the convenience, ensuring everyone can enjoy the
+  experience. With moderate pricing and a focus on quality ingredients, it's an
+  ideal destination for anyone exploring sushi places near me or looking for
+  top-rated Japanese fare in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJb5O0W2PL1okRfPwDF0d8gzE/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJc3ZtM2pnRRAB
@@ -332,6 +353,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNMamNIRkV3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNMamNIRkV3EAE!2m1!1s0x89d6cb635bb4936f:0x31837c471703fc7c
+review_summary: >-
+  Customer Feedback on Sushi King$$$Folks rave about the outstanding quality of
+  the sushi here, often calling it some of the freshest and most flavorful
+  around, with highlights on creative rolls and tasty sides that keep diners
+  coming back. Many appreciate the fair prices and generous portions, making it
+  a solid pick for a casual meal without breaking the bank, even if there might
+  be a short wait during busy times. The friendly service and welcoming vibe add
+  to the charm, creating a comfortable spot for enjoying Japanese dishes with
+  friends or family. Overall, it's praised as a reliable favorite for anyone
+  hunting for the best sushi near me, blending great value with memorable
+  flavors that leave a positive impression.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -364,7 +397,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

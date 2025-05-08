@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Poke House - Monterey"
+title: Poke House - Monterey
 permalink: /california/monterey/poke-house-monterey.html
 stateAbbr: CA
 stateName: California
 cityName: Monterey
 seo:
-  name: "Poke House - Monterey"
-  type: Restaurant
-  links: null
-description: "Poke House - Monterey serves delicious sushi in Monterey, California. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.poke.house/locations
 place_id: ChIJk6UKdALljYAROTK4TgTu9Vg
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x808de502740aa593:0x58f5ee044eb83239!10e5
 primary_type: American Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 20
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 20
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 20
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 8:00 PM'
+    - 'Tuesday: 11:00 AM – 8:00 PM'
+    - 'Wednesday: 11:00 AM – 8:00 PM'
+    - 'Thursday: 11:00 AM – 8:00 PM'
+    - 'Friday: 11:00 AM – 8:00 PM'
+    - 'Saturday: 11:00 AM – 8:00 PM'
+    - 'Sunday: 11:00 AM – 8:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,49 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (831) 747-1603
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.3'
+rating_count: 148
+website: https://www.poke.house/locations
+description: >-
+  Discover Poke House in Monterey, CA$$$Poke House in Monterey, CA, stands out
+  as a relaxed spot specializing in fresh Hawaiian poke bowls crafted from
+  locally sourced ingredients, complemented by a selection of wine. This eatery
+  emphasizes accessibility with features like wheelchair-friendly parking,
+  entrances, restrooms, and seating, making it welcoming for all visitors.
+  Patrons can enjoy a casual atmosphere perfect for quick meals or laid-back
+  dining, with a menu that highlights vibrant flavors from the sea. Operating
+  daily from 11:00 AM to 8:00 PM, it's an ideal choice for those seeking fresh
+  seafood options near the coast, blending Hawaiian traditions with a touch of
+  local flair.
+generative_summary: >-
+  Discover Poke House in Monterey, CA$$$Poke House in Monterey, CA, stands out
+  as a relaxed spot specializing in fresh Hawaiian poke bowls crafted from
+  locally sourced ingredients, complemented by a selection of wine. This eatery
+  emphasizes accessibility with features like wheelchair-friendly parking,
+  entrances, restrooms, and seating, making it welcoming for all visitors.
+  Patrons can enjoy a casual atmosphere perfect for quick meals or laid-back
+  dining, with a menu that highlights vibrant flavors from the sea. Operating
+  daily from 11:00 AM to 8:00 PM, it's an ideal choice for those seeking fresh
+  seafood options near the coast, blending Hawaiian traditions with a touch of
+  local flair.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Visitors to this spot often highlight the
+  delicious, fresh poke bowls as a standout feature, appreciating the quality
+  ingredients and flavorful combinations that make for a satisfying meal. Many
+  comments praise the friendly service and efficient ordering process, adding to
+  the overall enjoyable experience without any major complaints. With a solid
+  rating reflecting consistent satisfaction, it's clear that the value for money
+  around the $10–$20 range keeps people coming back for more. While some mention
+  portions could vary, the general consensus leans positive, making it a
+  reliable pick for anyone craving fresh seafood dishes in a casual setting.
+  Overall, it's a go-to for those exploring nearby dining options, offering a
+  taste that's worth trying if you're in the area.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +310,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

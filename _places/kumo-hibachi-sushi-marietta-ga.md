@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kumo Hibachi Sushi"
+title: Kumo Hibachi Sushi
 permalink: /georgia/marietta/kumo-hibachi-sushi.html
 stateAbbr: GA
 stateName: Georgia
 cityName: Marietta
 seo:
-  name: "Kumo Hibachi Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.kumomarietta.com/
-description: "Relaxed, contemporary Japanese place offering sushi rolls & grilled fare, plus lunch specials. Kumo Hibachi Sushi serves delicious sushi in Marietta, Georgia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJsRgi_DsT9YgRNewJDMaBglc
 photos:
   - name: >-
@@ -185,6 +183,35 @@ price_range: null
 rating: '4.3'
 rating_count: 0
 website: http://www.kumomarietta.com/
+description: >-
+  Discover Kumo Hibachi Sushi in Marietta, Georgia$$$Kumo Hibachi Sushi in
+  Marietta, Georgia, stands out as a welcoming spot for enjoying fresh Japanese
+  cuisine, featuring a variety of sushi and hibachi options in a relaxed,
+  contemporary environment. The menu highlights flavorful dishes that cater to
+  diverse tastes, including takeout for those seeking convenient meals on the
+  go, making it an ideal choice for sushi enthusiasts exploring local dining
+  scenes. With its casual setting and thoughtful accessibility features, such as
+  wheelchair-friendly entrances and parking, this Japanese restaurant enhances
+  the overall experience for all visitors. Lunch specials add value for those
+  looking for affordable yet satisfying options, while the emphasis on quality
+  ingredients ensures a memorable meal. Whether you're in the mood for top-rated
+  rolls or grilled favorites, this spot delivers a blend of tradition and
+  convenience that appeals to anyone searching for reliable sushi places nearby.
+generative_summary: >-
+  Discover Kumo Hibachi Sushi in Marietta, Georgia$$$Kumo Hibachi Sushi in
+  Marietta, Georgia, stands out as a welcoming spot for enjoying fresh Japanese
+  cuisine, featuring a variety of sushi and hibachi options in a relaxed,
+  contemporary environment. The menu highlights flavorful dishes that cater to
+  diverse tastes, including takeout for those seeking convenient meals on the
+  go, making it an ideal choice for sushi enthusiasts exploring local dining
+  scenes. With its casual setting and thoughtful accessibility features, such as
+  wheelchair-friendly entrances and parking, this Japanese restaurant enhances
+  the overall experience for all visitors. Lunch specials add value for those
+  looking for affordable yet satisfying options, while the emphasis on quality
+  ingredients ensures a memorable meal. Whether you're in the mood for top-rated
+  rolls or grilled favorites, this spot delivers a blend of tradition and
+  convenience that appeals to anyone searching for reliable sushi places nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJsRgi_DsT9YgRNewJDMaBglc/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfcF9lNndRRRAB
@@ -354,6 +381,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURYcGRteW93RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURYcGRteW93RRAB!2m1!1s0x88f5133bfc2218b1:0x578281c60c09ec35
+review_summary: >-
+  What Visitors Are Saying About the Experience$$$Visitors often praise the
+  tasty sushi and hibachi dishes for their fresh flavors and generous portions,
+  making it a go-to for casual meals that hit the spot. Many appreciate the
+  helpful staff who accommodate dietary needs like gluten-free options,
+  contributing to a smooth and enjoyable visit. The atmosphere comes across as
+  cozy and relaxed, with quick service that keeps things efficient without
+  sacrificing quality. While some note there's room for expanding the hibachi
+  selections, the overall consensus leans positive, highlighting it as a solid
+  pick for families or groups. All in all, this Japanese restaurant earns high
+  marks for its reliable food and friendly vibe, encouraging repeat trips for
+  those craving great local sushi options.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -386,8 +426,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Relaxed, contemporary Japanese place offering sushi rolls & grilled fare, plus
   lunch specials.
 

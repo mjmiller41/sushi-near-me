@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Four Seasons Sushi Bar & Grill"
+title: Four Seasons Sushi Bar & Grill
 permalink: /arizona/gilbert/four-seasons-sushi-bar-grill.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Gilbert
 seo:
-  name: "Four Seasons Sushi Bar & Grill"
-  type: Restaurant
+  type: restaurant
   links: https://4seasonsushiaz.com/
-description: "Four Seasons Sushi Bar & Grill serves delicious sushi in Gilbert, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJgeLNg_2uK4cRrgbVXnPAp84
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x872baefd83cde281:0xcea7c0735ed506ae!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 15
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:00 PM'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -178,28 +234,279 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:30 PM'
     - 'Saturday: 12:00 – 9:30 PM'
     - 'Sunday: 3:00 – 8:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 9:30 PM'
-    - 'Saturday: 12:00 – 9:30 PM'
-    - 'Sunday: 3:00 – 8:00 PM'
+  nextCloseTime: '2025-05-04T04:30:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: false
+    periods:
+      - open:
+          day: 1
+          hour: 14
+          minute: 30
+        close:
+          day: 1
+          hour: 17
+          minute: 30
+      - open:
+          day: 1
+          hour: 20
+          minute: 0
+        close:
+          day: 1
+          hour: 21
+          minute: 0
+      - open:
+          day: 2
+          hour: 14
+          minute: 30
+        close:
+          day: 2
+          hour: 17
+          minute: 0
+      - open:
+          day: 2
+          hour: 20
+          minute: 0
+        close:
+          day: 2
+          hour: 21
+          minute: 0
+      - open:
+          day: 3
+          hour: 14
+          minute: 30
+        close:
+          day: 3
+          hour: 17
+          minute: 30
+      - open:
+          day: 3
+          hour: 20
+          minute: 0
+        close:
+          day: 3
+          hour: 21
+          minute: 0
+      - open:
+          day: 4
+          hour: 14
+          minute: 30
+        close:
+          day: 4
+          hour: 17
+          minute: 30
+      - open:
+          day: 4
+          hour: 20
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 0
+      - open:
+          day: 5
+          hour: 14
+          minute: 30
+        close:
+          day: 5
+          hour: 17
+          minute: 30
+      - open:
+          day: 5
+          hour: 20
+          minute: 0
+        close:
+          day: 5
+          hour: 21
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 2:30 – 5:30 PM, 8:00 – 9:00 PM'
+      - 'Tuesday: 2:30 – 5:00 PM, 8:00 – 9:00 PM'
+      - 'Wednesday: 2:30 – 5:30 PM, 8:00 – 9:00 PM'
+      - 'Thursday: 2:30 – 5:30 PM, 8:00 – 9:00 PM'
+      - 'Friday: 2:30 – 5:30 PM, 8:00 – 9:30 PM'
+      - 'Saturday: Closed'
+      - 'Sunday: Closed'
+    secondaryHoursType: HAPPY_HOUR
+    nextOpenTime: '2025-05-05T21:30:00Z'
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 15
+          minute: 0
+        close:
+          day: 0
+          hour: 20
+          minute: 0
+      - open:
+          day: 1
+          hour: 11
+          minute: 0
+        close:
+          day: 1
+          hour: 21
+          minute: 0
+      - open:
+          day: 2
+          hour: 11
+          minute: 0
+        close:
+          day: 2
+          hour: 21
+          minute: 0
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 21
+          minute: 0
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 0
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 21
+          minute: 30
+      - open:
+          day: 6
+          hour: 12
+          minute: 0
+        close:
+          day: 6
+          hour: 21
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 11:00 AM – 9:00 PM'
+      - 'Tuesday: 11:00 AM – 9:00 PM'
+      - 'Wednesday: 11:00 AM – 9:00 PM'
+      - 'Thursday: 11:00 AM – 9:00 PM'
+      - 'Friday: 11:00 AM – 9:30 PM'
+      - 'Saturday: 12:00 – 9:30 PM'
+      - 'Sunday: 3:00 – 8:00 PM'
+    secondaryHoursType: DELIVERY
+    nextCloseTime: '2025-05-04T04:30:00Z'
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 15
+          minute: 0
+        close:
+          day: 0
+          hour: 20
+          minute: 0
+      - open:
+          day: 1
+          hour: 11
+          minute: 0
+        close:
+          day: 1
+          hour: 20
+          minute: 30
+      - open:
+          day: 2
+          hour: 11
+          minute: 0
+        close:
+          day: 2
+          hour: 20
+          minute: 30
+      - open:
+          day: 3
+          hour: 11
+          minute: 0
+        close:
+          day: 3
+          hour: 20
+          minute: 30
+      - open:
+          day: 4
+          hour: 11
+          minute: 0
+        close:
+          day: 4
+          hour: 20
+          minute: 30
+      - open:
+          day: 5
+          hour: 11
+          minute: 0
+        close:
+          day: 5
+          hour: 21
+          minute: 0
+      - open:
+          day: 6
+          hour: 12
+          minute: 0
+        close:
+          day: 6
+          hour: 21
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 11:00 AM – 8:30 PM'
+      - 'Tuesday: 11:00 AM – 8:30 PM'
+      - 'Wednesday: 11:00 AM – 8:30 PM'
+      - 'Thursday: 11:00 AM – 8:30 PM'
+      - 'Friday: 11:00 AM – 9:00 PM'
+      - 'Saturday: 12:00 – 9:00 PM'
+      - 'Sunday: 3:00 – 8:00 PM'
+    secondaryHoursType: TAKEOUT
+    nextCloseTime: '2025-05-04T04:00:00Z'
 phone: (928) 719-8899
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.3'
-rating_count: 0
+rating_count: 479
 website: https://4seasonsushiaz.com/
+description: >-
+  Explore Four Seasons Sushi in Gilbert, AZ$$$Four Seasons Sushi Bar & Grill in
+  Gilbert, Arizona, stands out as a go-to spot for fresh sushi and
+  Japanese-inspired dishes in a relaxed setting. This sushi restaurant features
+  a variety of rolls and plates that highlight quality ingredients and creative
+  flavors, making it ideal for casual dining or quick meals. With options like
+  happy hour specials, it appeals to those seeking affordable yet flavorful
+  experiences at local Japanese places. The venue emphasizes accessibility with
+  features like wheelchair-friendly entrances and parking, enhancing its appeal
+  for diverse visitors. Whether you're exploring sushi options near you, this
+  spot combines tradition with modern convenience for an enjoyable meal.
+generative_summary: >-
+  Explore Four Seasons Sushi in Gilbert, AZ$$$Four Seasons Sushi Bar & Grill in
+  Gilbert, Arizona, stands out as a go-to spot for fresh sushi and
+  Japanese-inspired dishes in a relaxed setting. This sushi restaurant features
+  a variety of rolls and plates that highlight quality ingredients and creative
+  flavors, making it ideal for casual dining or quick meals. With options like
+  happy hour specials, it appeals to those seeking affordable yet flavorful
+  experiences at local Japanese places. The venue emphasizes accessibility with
+  features like wheelchair-friendly entrances and parking, enhancing its appeal
+  for diverse visitors. Whether you're exploring sushi options near you, this
+  spot combines tradition with modern convenience for an enjoyable meal.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Feedback from Sushi Enthusiasts$$$Folks around Gilbert seem to really
+  appreciate the fresh flavors and solid value at this sushi spot, based on its
+  strong overall rating from hundreds of comments. Many highlight the tasty
+  rolls and Japanese dishes that hit the spot without breaking the bank,
+  especially during happy hour deals that add extra appeal. While some mention
+  occasional waits during peak times, the general vibe leans positive with
+  praise for the welcoming atmosphere and reliable service. It's clear that
+  diners find it a great choice for groups or solo outings, offering a mix of
+  classics and creative options that keep people coming back. If you're on the
+  hunt for top-rated sushi restaurants nearby, this place often gets nods for
+  its consistent quality and friendly feel.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +532,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

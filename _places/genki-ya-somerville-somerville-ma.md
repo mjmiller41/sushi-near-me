@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Genki Ya - Somerville"
+title: Genki Ya - Somerville
 permalink: /massachusetts/somerville/genki-ya-somerville.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Somerville
 seo:
-  name: "Genki Ya - Somerville"
-  type: Restaurant
+  type: restaurant
   links: https://www.genkiyasushi.com/
-description: "Genki Ya - Somerville serves delicious sushi in Somerville, Massachusetts. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJqxQaeSF344kRSBzmUFgBY7k
 photos:
   - name: >-
@@ -167,22 +165,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89e37721791a14ab:0xb963015850e61c48!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
-    - 'Monday: 11:30 AM – 9:30 PM'
-    - 'Tuesday: 11:30 AM – 9:30 PM'
-    - 'Wednesday: 11:30 AM – 9:30 PM'
-    - 'Thursday: 11:30 AM – 9:30 PM'
-    - 'Friday: 11:30 AM – 10:30 PM'
-    - 'Saturday: 11:30 AM – 10:30 PM'
-    - 'Sunday: 12:00 – 9:30 PM'
-  current:
-    - 'Monday: 11:30 AM – 9:30 PM'
-    - 'Tuesday: 11:30 AM – 9:30 PM'
-    - 'Wednesday: 11:30 AM – 9:30 PM'
-    - 'Thursday: 11:30 AM – 9:30 PM'
-    - 'Friday: 11:30 AM – 10:30 PM'
-    - 'Saturday: 11:30 AM – 10:30 PM'
-    - 'Sunday: 12:00 – 9:30 PM'
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 45
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 15
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 15
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 15
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 15
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 15
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 15
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:15 AM – 9:30 PM'
+    - 'Tuesday: 11:15 AM – 9:30 PM'
+    - 'Wednesday: 11:15 AM – 9:30 PM'
+    - 'Thursday: 11:15 AM – 9:30 PM'
+    - 'Friday: 11:15 AM – 10:30 PM'
+    - 'Saturday: 11:15 AM – 10:30 PM'
+    - 'Sunday: 11:45 AM – 9:30 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -193,10 +242,42 @@ secondary_opening_hours:
 phone: (617) 326-7171
 price_level: PRICE_LEVEL_MODERATE
 price_range: $30 &ndash; $50
-rating: '4.1'
-rating_count: 0
+rating: '4.2'
+rating_count: 230
 website: https://www.genkiyasushi.com/
+description: >-
+  Discover Genki Ya in Somerville, MA$$$Genki Ya in Somerville, MA, is a
+  laid-back sushi spot that brings fresh Japanese flavors to the vibrant Davis
+  Square area. This welcoming restaurant features a kid-friendly atmosphere with
+  accessible seating options, making it easy for everyone to enjoy a casual
+  meal. It offers a selection of authentic sushi alongside beverages like sake
+  and beer, appealing to those seeking a relaxed dining experience. The moderate
+  pricing adds to its charm, providing great value without compromising on
+  quality. For anyone exploring sushi restaurants nearby, Genki Ya stands out as
+  a go-to choice for its approachable vibe and thoughtful offerings.
+generative_summary: >-
+  Discover Genki Ya in Somerville, MA$$$Genki Ya in Somerville, MA, is a
+  laid-back sushi spot that brings fresh Japanese flavors to the vibrant Davis
+  Square area. This welcoming restaurant features a kid-friendly atmosphere with
+  accessible seating options, making it easy for everyone to enjoy a casual
+  meal. It offers a selection of authentic sushi alongside beverages like sake
+  and beer, appealing to those seeking a relaxed dining experience. The moderate
+  pricing adds to its charm, providing great value without compromising on
+  quality. For anyone exploring sushi restaurants nearby, Genki Ya stands out as
+  a go-to choice for its approachable vibe and thoughtful offerings.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying About This Spot$$$Folks generally enjoy the fresh and
+  tasty sushi at this local hangout, often praising how it hits the spot without
+  breaking the bank. Many highlight the friendly service and comfortable
+  setting, which makes it a solid pick for family meals or quick get-togethers.
+  Some appreciate the generous portions that leave you feeling satisfied, adding
+  to the overall appeal of the place. While a few mention occasional busy
+  periods, the consistent quality keeps diners coming back for more. All in all,
+  it's frequently recommended as one of the top sushi options around, offering a
+  reliably good experience for anyone craving Japanese cuisine.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -222,7 +303,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -5,4 +5,5 @@ permalink: /alabama/decatur/
 stateAbbr: AL
 stateName: Alabama
 cityName: Decatur
+
 ---

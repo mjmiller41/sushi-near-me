@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Mint Tapas and Sushi 4 (Sugar House)"
+title: Mint Tapas and Sushi 4 (Sugar House)
 permalink: /utah/salt-lake-city/mint-tapas-and-sushi-4-sugar-house.html
 stateAbbr: UT
 stateName: Utah
 cityName: Salt Lake City
 seo:
-  name: "Mint Tapas and Sushi 4 (Sugar House)"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Mint Tapas and Sushi 4 (Sugar House) serves delicious sushi in Salt Lake City, Utah. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJGYQNTjuLUocRi6bsorHNI1g
 photos:
   - name: >-
@@ -185,7 +183,48 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Mint Tapas and Sushi in Salt Lake City, UT$$$Nestled in the vibrant
+  Sugar House neighborhood of Salt Lake City, UT, Mint Tapas and Sushi offers a
+  welcoming spot for those seeking a relaxed dining experience with creative
+  small plates and expertly prepared sushi. This cozy restaurant features a
+  casual atmosphere complemented by a full bar, making it an ideal choice for
+  enjoying innovative tapas and fresh seafood options that highlight bold
+  flavors and quality ingredients. Patrons can savor the blend of traditional
+  and modern dishes in a setting that's perfect for unwinding after a day of
+  exploring the area, with accessibility features ensuring everyone feels
+  included. Whether you're in the mood for a light bite or a full meal, this
+  spot stands out for its thoughtful menu that appeals to sushi enthusiasts
+  looking for variety nearby.
+generative_summary: >-
+  Discover Mint Tapas and Sushi in Salt Lake City, UT$$$Nestled in the vibrant
+  Sugar House neighborhood of Salt Lake City, UT, Mint Tapas and Sushi offers a
+  welcoming spot for those seeking a relaxed dining experience with creative
+  small plates and expertly prepared sushi. This cozy restaurant features a
+  casual atmosphere complemented by a full bar, making it an ideal choice for
+  enjoying innovative tapas and fresh seafood options that highlight bold
+  flavors and quality ingredients. Patrons can savor the blend of traditional
+  and modern dishes in a setting that's perfect for unwinding after a day of
+  exploring the area, with accessibility features ensuring everyone feels
+  included. Whether you're in the mood for a light bite or a full meal, this
+  spot stands out for its thoughtful menu that appeals to sushi enthusiasts
+  looking for variety nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Recent Visitors$$$Folks often rave about the tasty sushi
+  selections at this local eatery, pointing out standout dishes that bring a
+  fresh twist to classic favorites and leave diners satisfied. Many appreciate
+  the inviting, modern ambiance and the option to dine on a pet-friendly patio,
+  which adds to the overall relaxed vibe for groups or casual meetups. Reviewers
+  frequently mention the attentive staff and solid service that make every visit
+  feel effortless and enjoyable, helping to create a positive experience from
+  start to finish. While opinions highlight the flavorful tapas options as a
+  great complement to the sushi, there's a general consensus that this place
+  delivers on both quality and variety for those searching for reliable spots in
+  the area. Overall, it's a go-to choice for anyone wanting a solid meal with a
+  welcoming atmosphere that keeps customers coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +250,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

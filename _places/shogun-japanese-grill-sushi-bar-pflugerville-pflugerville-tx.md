@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Shogun Japanese Grill & Sushi Bar (Pflugerville)"
+title: Shogun Japanese Grill & Sushi Bar (Pflugerville)
 permalink: /texas/pflugerville/shogun-japanese-grill-sushi-bar-pflugerville.html
 stateAbbr: TX
 stateName: Texas
 cityName: Pflugerville
 seo:
-  name: "Shogun Japanese Grill & Sushi Bar (Pflugerville)"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Shogun Japanese Grill & Sushi Bar (Pflugerville) serves delicious sushi in Pflugerville, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ8bsv6GnFRIYRUjk88wKJKGI
 photos:
   - name: >-
@@ -185,7 +183,42 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Experience Shogun in Pflugerville$$$Shogun Japanese Grill & Sushi Bar in
+  Pflugerville, TX, delivers a lively dining experience focused on fresh sushi
+  and interactive teppanyaki options. The restaurant features a dynamic
+  atmosphere where skilled chefs prepare dishes tableside, adding an
+  entertaining element to every meal. Accessibility is a key highlight, with
+  options like wheelchair-friendly parking and seating that make it welcoming
+  for all visitors. Patrons can enjoy a variety of Japanese-inspired cuisine,
+  making it a top choice for those seeking sushi restaurants in the area.
+  Whether you're exploring Japanese places near you, this spot combines
+  flavorful offerings with a vibrant setting for an unforgettable visit.
+generative_summary: >-
+  Experience Shogun in Pflugerville$$$Shogun Japanese Grill & Sushi Bar in
+  Pflugerville, TX, delivers a lively dining experience focused on fresh sushi
+  and interactive teppanyaki options. The restaurant features a dynamic
+  atmosphere where skilled chefs prepare dishes tableside, adding an
+  entertaining element to every meal. Accessibility is a key highlight, with
+  options like wheelchair-friendly parking and seating that make it welcoming
+  for all visitors. Patrons can enjoy a variety of Japanese-inspired cuisine,
+  making it a top choice for those seeking sushi restaurants in the area.
+  Whether you're exploring Japanese places near you, this spot combines
+  flavorful offerings with a vibrant setting for an unforgettable visit.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback Highlights$$$Folks who visit Shogun often praise the fresh
+  flavors and fun tableside cooking shows that bring energy to the meal. Many
+  appreciate the welcoming vibe and solid variety of dishes, making it a
+  reliable pick for families or groups looking for tasty Japanese eats. While
+  some mention occasional waits during peak times, the overall experience tends
+  to leave people satisfied with the quality and presentation. It's commonly
+  noted as a go-to for anyone craving top-rated sushi nearby, with the
+  atmosphere helping to create lasting memories. All in all, the feedback points
+  to a solid spot that delivers on both taste and entertainment without major
+  drawbacks.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +244,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

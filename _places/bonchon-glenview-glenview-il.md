@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Bonchon Glenview"
+title: Bonchon Glenview
 permalink: /illinois/glenview/bonchon-glenview.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Glenview
 seo:
-  name: "Bonchon Glenview"
-  type: Restaurant
-  links: null
-description: "Bonchon Glenview serves delicious sushi in Glenview, Illinois. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://locations.bonchon.com/ll/US/IL/Glenview/1615-N-Milwaukee-Ave
 place_id: ChIJOfkr-m64D4gRXWJNtMLti0o
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x880fb86efa2bf939:0x4a8bedc2b44d625d!10e5
 primary_type: Asian Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 10:00 PM'
+    - 'Tuesday: 11:00 AM – 10:00 PM'
+    - 'Wednesday: 11:00 AM – 10:00 PM'
+    - 'Thursday: 11:00 AM – 10:00 PM'
+    - 'Friday: 11:00 AM – 10:00 PM'
+    - 'Saturday: 11:00 AM – 10:00 PM'
+    - 'Sunday: 11:00 AM – 10:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,54 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (224) 567-8185
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.1'
+rating_count: 965
+website: https://locations.bonchon.com/ll/US/IL/Glenview/1615-N-Milwaukee-Ave
+description: >-
+  About Bonchon Glenview in Glenview, IL$$$Bonchon Glenview in Glenview, IL,
+  stands out as a casual and welcoming Asian restaurant specializing in
+  flavorful Korean fried chicken and innovative fusion dishes that blend
+  traditional tastes with modern twists. This spot offers a family-friendly vibe
+  with accessible features like wheelchair-friendly parking and seating, making
+  it easy for everyone to enjoy a relaxed meal. Patrons can savor a variety of
+  Asian-inspired options in a comfortable setting, perfect for those exploring
+  top-rated dining choices nearby. The restaurant maintains consistent hours
+  from 11 AM to 10 PM daily, ensuring it's a convenient go-to for anyone craving
+  authentic Asian flavors close to home. With its emphasis on fresh ingredients
+  and a lively atmosphere, Bonchon provides an inviting escape for casual diners
+  seeking quality Asian cuisine experiences.
+generative_summary: >-
+  About Bonchon Glenview in Glenview, IL$$$Bonchon Glenview in Glenview, IL,
+  stands out as a casual and welcoming Asian restaurant specializing in
+  flavorful Korean fried chicken and innovative fusion dishes that blend
+  traditional tastes with modern twists. This spot offers a family-friendly vibe
+  with accessible features like wheelchair-friendly parking and seating, making
+  it easy for everyone to enjoy a relaxed meal. Patrons can savor a variety of
+  Asian-inspired options in a comfortable setting, perfect for those exploring
+  top-rated dining choices nearby. The restaurant maintains consistent hours
+  from 11 AM to 10 PM daily, ensuring it's a convenient go-to for anyone craving
+  authentic Asian flavors close to home. With its emphasis on fresh ingredients
+  and a lively atmosphere, Bonchon provides an inviting escape for casual diners
+  seeking quality Asian cuisine experiences.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Visitor Feedback Highlights$$$Feedback from diners at this Asian eatery often
+  highlights the standout flavors of the signature dishes, with many
+  appreciating the crispy textures and bold seasonings that keep customers
+  coming back. People frequently note the welcoming environment and efficient
+  service, making it a solid pick for groups or families looking for a laid-back
+  meal. While some mention occasional waits during peak times, the overall
+  consensus leans positive, praising the value for the price and variety of
+  options that cater to different tastes. Reviewers commonly express
+  satisfaction with the restaurant's accessibility and atmosphere, adding to its
+  appeal as a reliable spot for everyday dining. All in all, it's clear that
+  this place delivers a enjoyable experience, earning its reputation as a go-to
+  choice for flavorful Asian fare in the area.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +315,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

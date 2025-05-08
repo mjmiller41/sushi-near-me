@@ -5,4 +5,5 @@ permalink: /california/alamo/
 stateAbbr: CA
 stateName: California
 cityName: Alamo
+
 ---

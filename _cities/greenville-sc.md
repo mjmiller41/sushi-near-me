@@ -5,4 +5,5 @@ permalink: /south-carolina/greenville/
 stateAbbr: SC
 stateName: South Carolina
 cityName: Greenville
+
 ---

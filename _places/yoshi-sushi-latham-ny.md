@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yoshi Sushi"
+title: Yoshi Sushi
 permalink: /new-york/latham/yoshi-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: Latham
 seo:
-  name: "Yoshi Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://yoshisushialbany.com/
-description: "Longtime local standby offers traditional rolls in a family-friendly setting with a BYOB policy. Yoshi Sushi serves delicious sushi in Latham, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJERwd_DAM3okRVc4gxYJAiGo
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 0
 website: http://yoshisushialbany.com/
+description: >-
+  Explore Yoshi Sushi in Latham, NY$$$Yoshi Sushi in Latham, NY, stands out as a
+  welcoming spot for those seeking authentic Japanese flavors in a relaxed,
+  family-friendly atmosphere. This unpretentious eatery specializes in fresh,
+  traditional sushi and nigiri, crafted with care and high-quality ingredients
+  that highlight classic techniques. Visitors appreciate the accessible features
+  like wheelchair-friendly parking and seating, making it easy for everyone to
+  enjoy a meal. With a BYOB policy and moderate pricing, it's an ideal choice
+  for casual dinners or trying top-rated Japanese dishes nearby. Whether you're
+  looking for sushi places near you, this spot delivers a straightforward yet
+  satisfying experience that keeps locals coming back.
+generative_summary: >-
+  Explore Yoshi Sushi in Latham, NY$$$Yoshi Sushi in Latham, NY, stands out as a
+  welcoming spot for those seeking authentic Japanese flavors in a relaxed,
+  family-friendly atmosphere. This unpretentious eatery specializes in fresh,
+  traditional sushi and nigiri, crafted with care and high-quality ingredients
+  that highlight classic techniques. Visitors appreciate the accessible features
+  like wheelchair-friendly parking and seating, making it easy for everyone to
+  enjoy a meal. With a BYOB policy and moderate pricing, it's an ideal choice
+  for casual dinners or trying top-rated Japanese dishes nearby. Whether you're
+  looking for sushi places near you, this spot delivers a straightforward yet
+  satisfying experience that keeps locals coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJERwd_DAM3okRVc4gxYJAiGo/reviews/ChdDSUhNMG9nS0VJQ0FnSUNUOC0yX3BBRRAB
@@ -350,6 +371,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURwa29xRGh3RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURwa29xRGh3RRAB!2m1!1s0x89de0c30fc1d1c11:0x6a884082c520ce55
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors often praise the incredibly fresh and
+  flavorful sushi at this cozy spot, noting how each roll melts in the mouth and
+  avoids any fishy tastes common elsewhere. Many mention the thoughtful
+  preparation and reasonable prices, making it a go-to for anyone craving
+  quality Japanese fare without the wait feeling like a downside. Folks
+  appreciate the warm, efficient service in this small, family-operated setting,
+  where patience is rewarded with standout dishes like spicy tuna rolls.
+  Overall, the consensus is that it's a hidden gem worth recommending,
+  especially for those exploring top-rated sushi options in the area. If you're
+  hunting for reliable sushi restaurants nearby, this place consistently
+  delivers a satisfying and memorable meal.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -382,8 +416,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Longtime local standby offers traditional rolls in a family-friendly setting
   with a BYOB policy.
 

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kazama Sushi"
+title: Kazama Sushi
 permalink: /california/claremont/kazama-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Claremont
 seo:
-  name: "Kazama Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.kazamasushirestaurant.com/
-description: "Kazama Sushi serves delicious sushi in Claremont, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJA1gu_MExw4AR7VffDKCXjVk
 photos:
   - name: >-
@@ -170,7 +168,97 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c331c1fc2e5803:0x598d97a00cdf57ed!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:30 AM – 2:30 PM, 5:00 – 10:00 PM'
     - 'Tuesday: 11:30 AM – 2:30 PM, 5:00 – 10:00 PM'
     - 'Wednesday: 11:30 AM – 2:30 PM, 5:00 – 10:00 PM'
@@ -178,54 +266,316 @@ opening_hours:
     - 'Friday: 11:30 AM – 10:00 PM'
     - 'Saturday: 11:30 AM – 10:00 PM'
     - 'Sunday: 11:30 AM – 9:30 PM'
-  current:
-    - 'Monday: 11:30 AM – 2:30 PM, 5:00 – 10:00 PM'
-    - 'Tuesday: 11:30 AM – 2:30 PM, 5:00 – 10:00 PM'
-    - 'Wednesday: 11:30 AM – 2:30 PM, 5:00 – 10:00 PM'
-    - 'Thursday: 11:30 AM – 2:30 PM, 5:00 – 10:00 PM'
-    - 'Friday: 11:30 AM – 10:00 PM'
-    - 'Saturday: 11:30 AM – 10:00 PM'
-    - 'Sunday: 11:30 AM – 9:30 PM'
+  nextCloseTime: '2025-05-04T05:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: false
+    periods:
+      - open:
+          day: 1
+          hour: 11
+          minute: 30
+        close:
+          day: 1
+          hour: 14
+          minute: 30
+      - open:
+          day: 2
+          hour: 11
+          minute: 30
+        close:
+          day: 2
+          hour: 14
+          minute: 30
+      - open:
+          day: 3
+          hour: 11
+          minute: 30
+        close:
+          day: 3
+          hour: 14
+          minute: 30
+      - open:
+          day: 4
+          hour: 11
+          minute: 30
+        close:
+          day: 4
+          hour: 14
+          minute: 30
+      - open:
+          day: 5
+          hour: 11
+          minute: 30
+        close:
+          day: 5
+          hour: 14
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 11:30 AM – 2:30 PM'
+      - 'Tuesday: 11:30 AM – 2:30 PM'
+      - 'Wednesday: 11:30 AM – 2:30 PM'
+      - 'Thursday: 11:30 AM – 2:30 PM'
+      - 'Friday: 11:30 AM – 2:30 PM'
+      - 'Saturday: Closed'
+      - 'Sunday: Closed'
+    secondaryHoursType: HAPPY_HOUR
+    nextOpenTime: '2025-05-05T18:30:00Z'
 phone: (909) 450-2505
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.5'
-rating_count: 0
+rating_count: 605
 website: https://www.kazamasushirestaurant.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Experience Kazama Sushi in Claremont, CA$$$Kazama Sushi in Claremont, CA,
+  offers a cozy and inviting setting for savoring fresh sushi and traditional
+  Japanese dishes that appeal to a wide range of tastes. This spot highlights a
+  casual vibe with options like sashimi and flavorful entrees, making it a go-to
+  for those exploring sushi restaurants in the area. Its family-friendly
+  environment and thoughtful accessibility features ensure everyone can enjoy
+  the meal without hassle. Open for extended hours to accommodate lunch and
+  dinner crowds, it provides a reliable choice for authentic flavors and quality
+  ingredients. Whether you're seeking sushi options close to home, this location
+  delivers a satisfying blend of simplicity and taste.
+generative_summary: >-
+  Experience Kazama Sushi in Claremont, CA$$$Kazama Sushi in Claremont, CA,
+  offers a cozy and inviting setting for savoring fresh sushi and traditional
+  Japanese dishes that appeal to a wide range of tastes. This spot highlights a
+  casual vibe with options like sashimi and flavorful entrees, making it a go-to
+  for those exploring sushi restaurants in the area. Its family-friendly
+  environment and thoughtful accessibility features ensure everyone can enjoy
+  the meal without hassle. Open for extended hours to accommodate lunch and
+  dinner crowds, it provides a reliable choice for authentic flavors and quality
+  ingredients. Whether you're seeking sushi options close to home, this location
+  delivers a satisfying blend of simplicity and taste.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJA1gu_MExw4AR7VffDKCXjVk/reviews/ChZDSUhNMG9nS0VJQ0FnSURfcjVHSkJREAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        The food here is absolutely delicious!
+
+        The staff was incredibly knowledgeable about the menu and offered
+        excellent recommendations. Truly great service!” I am happy I found this
+        spot!
+
+        Overall, dining at this restaurant was a delight from start to finish
+      languageCode: en
+    originalText:
+      text: >-
+        The food here is absolutely delicious!
+
+        The staff was incredibly knowledgeable about the menu and offered
+        excellent recommendations. Truly great service!” I am happy I found this
+        spot!
+
+        Overall, dining at this restaurant was a delight from start to finish
+      languageCode: en
+    authorAttribution:
+      displayName: Caroline K
+      uri: https://www.google.com/maps/contrib/117482659266698798382/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWBkIKo7-ZARLCVXDUZhVAWQmigeItJImbAk9aGJief8yMhy8La=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-03-06T15:16:56.241971Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURfcjVHSkJREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURfcjVHSkJREAE!2m1!1s0x80c331c1fc2e5803:0x598d97a00cdf57ed
+  - name: >-
+      places/ChIJA1gu_MExw4AR7VffDKCXjVk/reviews/ChZDSUhNMG9nS0VJQ0FnSUNucFkyR1J3EAE
+    relativePublishTimeDescription: 7 months ago
+    rating: 4
+    text:
+      text: >-
+        When we arrived, all the tables were taken, so we ended up sitting at
+        the bar. The waiter was very attentive throughout our meal. We started
+        with oysters and the dynamite appetizer. While the oysters could have
+        been served a bit colder compared to other places I’ve tried, the
+        dynamite appetizer was outstanding—I’ll definitely be ordering it again.
+
+
+        For the main dishes, we had the popcorn lobster roll and the dinner
+        sushi combo platter. Both were delicious and satisfying. The staff was
+        great about keeping our water glasses full, and their overall
+        attentiveness added to the experience. I’ll definitely be back,
+        especially for that dynamite appetizer!
+      languageCode: en
+    originalText:
+      text: >-
+        When we arrived, all the tables were taken, so we ended up sitting at
+        the bar. The waiter was very attentive throughout our meal. We started
+        with oysters and the dynamite appetizer. While the oysters could have
+        been served a bit colder compared to other places I’ve tried, the
+        dynamite appetizer was outstanding—I’ll definitely be ordering it again.
+
+
+        For the main dishes, we had the popcorn lobster roll and the dinner
+        sushi combo platter. Both were delicious and satisfying. The staff was
+        great about keeping our water glasses full, and their overall
+        attentiveness added to the experience. I’ll definitely be back,
+        especially for that dynamite appetizer!
+      languageCode: en
+    authorAttribution:
+      displayName: Marisela Vega
+      uri: https://www.google.com/maps/contrib/110020663085267207472/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUIh2pxQUHN48SXsnaD4kMnjTChnDBpEcLyHAJYhiMjCMxIMXlyjQ=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-09-28T00:52:48.440482Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNucFkyR1J3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNucFkyR1J3EAE!2m1!1s0x80c331c1fc2e5803:0x598d97a00cdf57ed
+  - name: >-
+      places/ChIJA1gu_MExw4AR7VffDKCXjVk/reviews/ChdDSUhNMG9nS0VJQ0FnSUNsNUsycTl3RRAB
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        We’ve walked by so many times over the years and there was always a line
+        to wait in. Finally decided to give it a shot last Saturday afternoon
+        and what a great experience it was. The sushi and food were all so
+        delicious and fresh. They were busy but still attentive. We dined with
+        my 3 1/2-year-old son with so much energy, and there was one woman
+        server who took the time to talk and play with him whenever she would
+        walk by. If any mother knows what it’s like to eat at a restaurant with
+        a toddler and knows how stressful it can be, this small gesture just
+        melted my heart. Can’t wait to return next time we are in town.
+      languageCode: en
+    originalText:
+      text: >-
+        We’ve walked by so many times over the years and there was always a line
+        to wait in. Finally decided to give it a shot last Saturday afternoon
+        and what a great experience it was. The sushi and food were all so
+        delicious and fresh. They were busy but still attentive. We dined with
+        my 3 1/2-year-old son with so much energy, and there was one woman
+        server who took the time to talk and play with him whenever she would
+        walk by. If any mother knows what it’s like to eat at a restaurant with
+        a toddler and knows how stressful it can be, this small gesture just
+        melted my heart. Can’t wait to return next time we are in town.
+      languageCode: en
+    authorAttribution:
+      displayName: Tiffani M
+      uri: https://www.google.com/maps/contrib/112063367858105668698/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVFeWXVdV2aODwgCGa7EqodUqSKUM86uW74N9lmkLV2cIaJta-x4A=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2023-11-14T07:16:12.749671Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNsNUsycTl3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNsNUsycTl3RRAB!2m1!1s0x80c331c1fc2e5803:0x598d97a00cdf57ed
+  - name: >-
+      places/ChIJA1gu_MExw4AR7VffDKCXjVk/reviews/ChdDSUhNMG9nS0VJQ0FnSUNudllPczBBRRAB
+    relativePublishTimeDescription: 7 months ago
+    rating: 4
+    text:
+      text: >-
+        This place was pretty decent! This was my first time visiting and I
+        definitely give it a strong 4.5 stars and highly recommend fried chicken
+        Gyoza the dynamite role, the surf and turf roll, and the spicy baked
+        salmon roll. This place is kind of pricey however it’s offset by the
+        really large portion sizes. We went on a Saturday evening and it was
+        quite busy however the service was still acceptable. I also got free ice
+        cream by leaving this Google review.
+      languageCode: en
+    originalText:
+      text: >-
+        This place was pretty decent! This was my first time visiting and I
+        definitely give it a strong 4.5 stars and highly recommend fried chicken
+        Gyoza the dynamite role, the surf and turf roll, and the spicy baked
+        salmon roll. This place is kind of pricey however it’s offset by the
+        really large portion sizes. We went on a Saturday evening and it was
+        quite busy however the service was still acceptable. I also got free ice
+        cream by leaving this Google review.
+      languageCode: en
+    authorAttribution:
+      displayName: Camara Blount
+      uri: https://www.google.com/maps/contrib/117074046057965774518/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVZa8Rbd_GLP9ySI7NvdUMh2XJKt7L0B7_2PCF0_no9qtMEjMM9=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-09-29T01:21:10.589172Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNudllPczBBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNudllPczBBRRAB!2m1!1s0x80c331c1fc2e5803:0x598d97a00cdf57ed
+  - name: >-
+      places/ChIJA1gu_MExw4AR7VffDKCXjVk/reviews/ChdDSUhNMG9nS0VJQ0FnTUNvNW83Z3hnRRAB
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        We came 15 minutes before they closed, and they were willing to serve my
+        family and I. We ordered the loveboat and other dishes, and we
+        absolutely loved it. They prepared it very quickly, and were very
+        friendly. Best sushi I’ve had in a long time. Definitely recommend!
+      languageCode: en
+    originalText:
+      text: >-
+        We came 15 minutes before they closed, and they were willing to serve my
+        family and I. We ordered the loveboat and other dishes, and we
+        absolutely loved it. They prepared it very quickly, and were very
+        friendly. Best sushi I’ve had in a long time. Definitely recommend!
+      languageCode: en
+    authorAttribution:
+      displayName: Brennen Yamane
+      uri: https://www.google.com/maps/contrib/112611777389668119386/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUC_CD0F4vaQNQKvK3xQEx91W-gzJh50o4KuwhAV-5h3xU11Da2TA=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-16T19:53:14.930746Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNvNW83Z3hnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNvNW83Z3hnRRAB!2m1!1s0x80c331c1fc2e5803:0x598d97a00cdf57ed
+review_summary: >-
+  What Customers Are Saying About This Sushi Spot$$$Folks who visit this sushi
+  place often praise the fresh ingredients and well-crafted rolls that bring a
+  burst of flavor to every bite. Many highlight the helpful service that keeps
+  things smooth, even during busy times, adding to the overall enjoyable vibe.
+  While some note minor details like portion sizes feeling generous for the
+  price, the general consensus is that it's a solid pick for a casual meal with
+  friends or family. Reviewers frequently mention the value and variety, making
+  it a favorite for those hunting for reliable Japanese fare nearby. If you're
+  on the lookout for top-rated sushi experiences, this spot earns high marks for
+  its consistent appeal and welcoming atmosphere.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+  freeGarageParking: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
 delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
 menu_for_children: null
 outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: false
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Japanese restaurant providing a variety of sushi, some kitchen fare & sake in
+  a casual environment.
 
 ---

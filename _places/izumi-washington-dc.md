@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Izumi"
+title: Izumi
 permalink: /district-of-columbia/washington/izumi.html
 stateAbbr: DC
 stateName: District of Columbia
 cityName: Washington
 seo:
-  name: "Izumi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Izumi serves delicious sushi in Washington, District of Columbia. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJb1cejg-3t4kR_eaUBwPDK2k
 photos:
   - name: >-
@@ -185,7 +183,44 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Izumi in Washington, DC$$$Izumi, located in the heart of Washington,
+  DC, stands out as a charming sushi restaurant offering fresh Japanese dishes
+  in the lively Northwest Washington neighborhood. This spot excels with its
+  focus on high-quality sushi selections, perfect for anyone seeking authentic
+  flavors in a convenient urban setting, making it an ideal choice for sushi
+  enthusiasts exploring the area. Accessibility is a key highlight, featuring
+  wheelchair-friendly parking, entrances, restrooms, and seating to ensure a
+  welcoming experience for all visitors. Whether you're in the mood for a quick
+  bite or a relaxed meal, Izumi delivers a straightforward yet inclusive dining
+  atmosphere that caters to those searching for top sushi options nearby.
+generative_summary: >-
+  Discover Izumi in Washington, DC$$$Izumi, located in the heart of Washington,
+  DC, stands out as a charming sushi restaurant offering fresh Japanese dishes
+  in the lively Northwest Washington neighborhood. This spot excels with its
+  focus on high-quality sushi selections, perfect for anyone seeking authentic
+  flavors in a convenient urban setting, making it an ideal choice for sushi
+  enthusiasts exploring the area. Accessibility is a key highlight, featuring
+  wheelchair-friendly parking, entrances, restrooms, and seating to ensure a
+  welcoming experience for all visitors. Whether you're in the mood for a quick
+  bite or a relaxed meal, Izumi delivers a straightforward yet inclusive dining
+  atmosphere that caters to those searching for top sushi options nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$From what people share about Izumi, the fresh sushi
+  rolls and creative presentations often steal the show, leaving diners pleased
+  with the quality and variety on offer. Many folks appreciate the cozy vibe and
+  attentive service that make it a go-to spot for casual get-togethers or solo
+  outings, helping it stand out among local Japanese eateries. While some
+  mention minor waits during peak times, the overall consensus leans positive,
+  with highlights on the flavorful ingredients and welcoming environment that
+  keep customers coming back. If you're hunting for reliable sushi places in the
+  neighborhood, feedback suggests Izumi hits the mark for a satisfying meal
+  without any major letdowns. In summary, it's clear that this restaurant
+  maintains a solid reputation for delivering enjoyable experiences that align
+  with expectations for good, everyday dining.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +246,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

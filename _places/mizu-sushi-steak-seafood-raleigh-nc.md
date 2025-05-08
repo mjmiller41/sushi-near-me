@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Mizu Sushi Steak Seafood"
+title: Mizu Sushi Steak Seafood
 permalink: /north-carolina/raleigh/mizu-sushi-steak-seafood.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Raleigh
 seo:
-  name: "Mizu Sushi Steak Seafood"
-  type: Restaurant
+  type: restaurant
   links: https://mizuhouse.com/
-description: "Japanese classics, including hibachi fare & a sushi train, in casual, unpretentious digs. Mizu Sushi Steak Seafood serves delicious sushi in Raleigh, North Carolina. Try fresh Japanese dishes for a great dining experience. Available for takeout, lunch, and dinner."
 place_id: ChIJNRsdmBdRrIkRfakpBnyT54w
 photos:
   - name: >-
@@ -185,6 +183,35 @@ price_range: $20 &ndash; $30
 rating: '4.5'
 rating_count: 0
 website: https://mizuhouse.com/
+description: >-
+  Explore Mizu Sushi in Raleigh, NC$$$Mizu Sushi Steak Seafood in Raleigh, NC,
+  offers a casual dining experience focused on authentic Japanese cuisine,
+  including fresh sushi and hibachi options that appeal to those seeking
+  flavorful meals in a relaxed setting. This spot stands out for its variety of
+  Japanese dishes, making it a go-to choice for anyone exploring sushi
+  restaurants in the area, with a welcoming atmosphere that includes accessible
+  features like wheelchair-friendly entrances and parking. Drawing from its
+  reputation for quality, the menu highlights fresh ingredients and traditional
+  preparations that bring out the best in every bite, ideal for those looking
+  for top-rated sushi experiences nearby. Whether you're in the mood for
+  inventive rolls or classic hibachi fare, the unpretentious vibe ensures a
+  comfortable visit for families or groups. Overall, it's a solid option for
+  enjoying Japanese places near me without the fuss.
+generative_summary: >-
+  Explore Mizu Sushi in Raleigh, NC$$$Mizu Sushi Steak Seafood in Raleigh, NC,
+  offers a casual dining experience focused on authentic Japanese cuisine,
+  including fresh sushi and hibachi options that appeal to those seeking
+  flavorful meals in a relaxed setting. This spot stands out for its variety of
+  Japanese dishes, making it a go-to choice for anyone exploring sushi
+  restaurants in the area, with a welcoming atmosphere that includes accessible
+  features like wheelchair-friendly entrances and parking. Drawing from its
+  reputation for quality, the menu highlights fresh ingredients and traditional
+  preparations that bring out the best in every bite, ideal for those looking
+  for top-rated sushi experiences nearby. Whether you're in the mood for
+  inventive rolls or classic hibachi fare, the unpretentious vibe ensures a
+  comfortable visit for families or groups. Overall, it's a solid option for
+  enjoying Japanese places near me without the fuss.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJNRsdmBdRrIkRfakpBnyT54w/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJcThXLUtBEAE
@@ -342,6 +369,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNTeUxxc2RnEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNTeUxxc2RnEAE!2m1!1s0x89ac5117981d1b35:0x8ce7937c0629a97d
+review_summary: >-
+  Customer Feedback on Mizu Sushi$$$Folks often rave about the fresh and
+  high-quality sushi at this spot, noting how it stands out for its taste and
+  consistency in Wake County. Many appreciate the tasty appetizers like gyoza,
+  which add to the overall enjoyable meal, even if service can occasionally take
+  a bit longer during busy times. Reviewers highlight the variety of rolls and
+  dishes that keep things exciting, making it a reliable pick for casual dinners
+  or takeout when you're craving the best sushi around. While some mention it's
+  worth the wait for that authentic flavor, the general consensus leans
+  positive, with plenty of repeat visits praised for the overall value and
+  atmosphere. All in all, it's a welcoming place that delivers on flavor,
+  perfect for anyone searching for sushi restaurants near me to try out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -374,8 +414,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Japanese classics, including hibachi fare & a sushi train, in casual,
   unpretentious digs.
 

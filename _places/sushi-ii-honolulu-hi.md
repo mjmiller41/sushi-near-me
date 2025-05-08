@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi ii"
+title: Sushi ii
 permalink: /hawaii/honolulu/sushi-ii.html
 stateAbbr: HI
 stateName: Hawaii
 cityName: Honolulu
 seo:
-  name: "Sushi ii"
-  type: Restaurant
+  type: restaurant
   links: https://www.facebook.com/Sushi-ii-169996469710932/
-description: "Sushi ii serves delicious sushi in Honolulu, Hawaii. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJDYV3SO5tAHwRAopf32RelLc
 photos:
   - name: >-
@@ -170,7 +168,105 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x7c006dee4877850d:0xb7945e64df5f8a02!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 17
+        minute: 30
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 13
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 30
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 13
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 30
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 13
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 30
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 13
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 13
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 5:30 – 10:00 PM'
     - 'Tuesday: 11:00 AM – 1:00 PM, 5:30 – 10:00 PM'
     - 'Wednesday: 11:00 AM – 1:00 PM, 5:30 – 10:00 PM'
@@ -178,14 +274,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 1:00 PM, 5:30 – 10:00 PM'
     - 'Saturday: 11:00 AM – 1:00 PM, 5:30 – 10:00 PM'
     - 'Sunday: 5:00 – 10:00 PM'
-  current:
-    - 'Monday: 5:30 – 10:00 PM'
-    - 'Tuesday: 11:00 AM – 1:00 PM, 5:30 – 10:00 PM'
-    - 'Wednesday: 11:00 AM – 1:00 PM, 5:30 – 10:00 PM'
-    - 'Thursday: 11:00 AM – 1:00 PM, 5:30 – 10:00 PM'
-    - 'Friday: 11:00 AM – 1:00 PM, 5:30 – 10:00 PM'
-    - 'Saturday: 11:00 AM – 1:00 PM, 5:30 – 10:00 PM'
-    - 'Sunday: 5:00 – 10:00 PM'
+  nextCloseTime: '2025-05-03T23:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +286,268 @@ phone: (808) 942-5350
 price_level: PRICE_LEVEL_MODERATE
 price_range: null
 rating: '4.6'
-rating_count: 0
+rating_count: 429
 website: https://www.facebook.com/Sushi-ii-169996469710932/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Explore Sushi ii in Honolulu, HI$$$Sushi ii in Honolulu, HI, is a charming,
+  unassuming spot that delights sushi enthusiasts with its focus on fresh,
+  traditional Japanese dishes in a relaxed environment. This cozy restaurant
+  specializes in inventive rolls and high-quality sashimi, making it a go-to
+  choice for those seeking authentic flavors right in the heart of the city.
+  With accessibility features like wheelchair-friendly entrances and parking,
+  it's designed to welcome everyone looking for a seamless dining experience.
+  Operating in the evenings and select lunch hours, it offers a variety of
+  options that highlight seasonal ingredients, perfect for anyone exploring top
+  sushi restaurants in the area.
+generative_summary: >-
+  Explore Sushi ii in Honolulu, HI$$$Sushi ii in Honolulu, HI, is a charming,
+  unassuming spot that delights sushi enthusiasts with its focus on fresh,
+  traditional Japanese dishes in a relaxed environment. This cozy restaurant
+  specializes in inventive rolls and high-quality sashimi, making it a go-to
+  choice for those seeking authentic flavors right in the heart of the city.
+  With accessibility features like wheelchair-friendly entrances and parking,
+  it's designed to welcome everyone looking for a seamless dining experience.
+  Operating in the evenings and select lunch hours, it offers a variety of
+  options that highlight seasonal ingredients, perfect for anyone exploring top
+  sushi restaurants in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJDYV3SO5tAHwRAopf32RelLc/reviews/ChZDSUhNMG9nS0VJQ0FnSUNfMjhUa0tnEAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        I was in town for a business trip, went for walk that created a hunger
+        that could only be satisfied with some fresh sushi and a cold beer.
+
+
+        I decided to go with the toro, king salmon, tuna and green onion roll,
+        and spicy tuna roll.
+
+
+        If you come here, based on all those items listed above, excellent. The
+        tuna was outstanding, the salmon melted in my mouth. The service was
+        fast.
+
+
+        HOWEVER....I was super lucky, party of 1 and I did not have a
+        reservation. Make one. Do yourself a favor and get your butt down here
+        and enjoy some incredible sushi with exceptional service, all at a fair
+        price.
+      languageCode: en
+    originalText:
+      text: >-
+        I was in town for a business trip, went for walk that created a hunger
+        that could only be satisfied with some fresh sushi and a cold beer.
+
+
+        I decided to go with the toro, king salmon, tuna and green onion roll,
+        and spicy tuna roll.
+
+
+        If you come here, based on all those items listed above, excellent. The
+        tuna was outstanding, the salmon melted in my mouth. The service was
+        fast.
+
+
+        HOWEVER....I was super lucky, party of 1 and I did not have a
+        reservation. Make one. Do yourself a favor and get your butt down here
+        and enjoy some incredible sushi with exceptional service, all at a fair
+        price.
+      languageCode: en
+    authorAttribution:
+      displayName: Matt Dale
+      uri: https://www.google.com/maps/contrib/101310609007621696685/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVZBw-Z0wyv9zqd4aRTyYwQgOxvyjTJS6E19p1BnohweUZaGPIp=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-01-19T06:46:59.679084Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNfMjhUa0tnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNfMjhUa0tnEAE!2m1!1s0x7c006dee4877850d:0xb7945e64df5f8a02
+  - name: >-
+      places/ChIJDYV3SO5tAHwRAopf32RelLc/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3Mk1TZVdnEAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        Sushi was out of this world. Came on a recommendation from a local
+        friend. Sat at the sushi bar for omakase - best value I’ve ever had.
+        Each piece of fish was unique - so soft and the rice was perfect too.
+        Can’t wait to come back - will be a “must do” every trip.
+        Atmosphere/ambiance isn’t much, but don’t judge this books by the cover.
+        This might be the best sushi I’ve ever had.
+      languageCode: en
+    originalText:
+      text: >-
+        Sushi was out of this world. Came on a recommendation from a local
+        friend. Sat at the sushi bar for omakase - best value I’ve ever had.
+        Each piece of fish was unique - so soft and the rice was perfect too.
+        Can’t wait to come back - will be a “must do” every trip.
+        Atmosphere/ambiance isn’t much, but don’t judge this books by the cover.
+        This might be the best sushi I’ve ever had.
+      languageCode: en
+    authorAttribution:
+      displayName: Samantha Fink
+      uri: https://www.google.com/maps/contrib/106948972003147567283/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKZR8ZJJrf1dV2UNyL4SZg4nZQ2txotGkHfE7K4dfoWv5pijA=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-03-23T07:56:42.326800Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUR3Mk1TZVdnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUR3Mk1TZVdnEAE!2m1!1s0x7c006dee4877850d:0xb7945e64df5f8a02
+  - name: >-
+      places/ChIJDYV3SO5tAHwRAopf32RelLc/reviews/ChZDSUhNMG9nS0VJQ0FnSUNYa3JqUU1BEAE
+    relativePublishTimeDescription: 6 months ago
+    rating: 5
+    text:
+      text: >-
+        Yeah…this is good sushi. Very fresh fish and seafood, excellent
+        selection of sushi and sashimi available. And then there’s also the
+        cooked dishes side, starring the kama. They also have a specials menu
+        that changes frequently. You can’t go wrong with anything here. My
+        favorites were probably the toro, hirame, and king salmon nigiris. The
+        spicy ahi roll was a bit of a dark horse as well. They have a lot of
+        alcohol available, including some rarer Japanese whiskies. All of the
+        bottles were pretty low though so I’m not sure how oxidized they are.
+
+
+        Service is fast and helpful, and the atmosphere isn’t pretentious. We
+        made a reservation, but it turns out we didn’t need it since the
+        restaurant wasn’t that crowded even though it was a weekend evening. The
+        biggest thing to be aware of is the cost. Even if you don’t have a huge
+        appetite, expect your meal (including tip) to cost about $50-$75 per
+        person without drinks.
+      languageCode: en
+    originalText:
+      text: >-
+        Yeah…this is good sushi. Very fresh fish and seafood, excellent
+        selection of sushi and sashimi available. And then there’s also the
+        cooked dishes side, starring the kama. They also have a specials menu
+        that changes frequently. You can’t go wrong with anything here. My
+        favorites were probably the toro, hirame, and king salmon nigiris. The
+        spicy ahi roll was a bit of a dark horse as well. They have a lot of
+        alcohol available, including some rarer Japanese whiskies. All of the
+        bottles were pretty low though so I’m not sure how oxidized they are.
+
+
+        Service is fast and helpful, and the atmosphere isn’t pretentious. We
+        made a reservation, but it turns out we didn’t need it since the
+        restaurant wasn’t that crowded even though it was a weekend evening. The
+        biggest thing to be aware of is the cost. Even if you don’t have a huge
+        appetite, expect your meal (including tip) to cost about $50-$75 per
+        person without drinks.
+      languageCode: en
+    authorAttribution:
+      displayName: Robert E
+      uri: https://www.google.com/maps/contrib/110304589757672608293/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLW1cyTz_5U3uG2em9kbNDXkGcXOAwtWP5_c1nYPPJgCaP04w=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2024-10-14T17:59:32.105899Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNYa3JqUU1BEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNYa3JqUU1BEAE!2m1!1s0x7c006dee4877850d:0xb7945e64df5f8a02
+  - name: >-
+      places/ChIJDYV3SO5tAHwRAopf32RelLc/reviews/ChdDSUhNMG9nS0VJQ0FnSUM3eWRINDNRRRAB
+    relativePublishTimeDescription: 8 months ago
+    rating: 5
+    text:
+      text: >-
+        I’ve eaten many plates of sushi, from coast to coast. From NYC all the
+        way to California, and not ever have I had this pleasure. Every bite was
+        a small celebration within my mouth. Simple, fresh and harmonious
+        flavors that just work. I highly recommend if you enjoy Japanese
+        cuisine.
+      languageCode: en
+    originalText:
+      text: >-
+        I’ve eaten many plates of sushi, from coast to coast. From NYC all the
+        way to California, and not ever have I had this pleasure. Every bite was
+        a small celebration within my mouth. Simple, fresh and harmonious
+        flavors that just work. I highly recommend if you enjoy Japanese
+        cuisine.
+      languageCode: en
+    authorAttribution:
+      displayName: Ali Z
+      uri: https://www.google.com/maps/contrib/115552432930821033958/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVf3bbamX5_7HvxHj-B4aM3N_QF-AJCHEjjARby4ZIXfdrDXd1n=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-08-16T19:22:55.242851Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUM3eWRINDNRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUM3eWRINDNRRRAB!2m1!1s0x7c006dee4877850d:0xb7945e64df5f8a02
+  - name: >-
+      places/ChIJDYV3SO5tAHwRAopf32RelLc/reviews/ChdDSUhNMG9nS0VJQ0FnTUNndkliUTdnRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        Super fresh fish, very special kinds of fish too. Great seasonal fish
+        selection. Speedy and super kind service. Amazing experience
+      languageCode: en
+    originalText:
+      text: >-
+        Super fresh fish, very special kinds of fish too. Great seasonal fish
+        selection. Speedy and super kind service. Amazing experience
+      languageCode: en
+    authorAttribution:
+      displayName: Theresa Baem
+      uri: https://www.google.com/maps/contrib/110770886444406143950/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUFjcJkJawqez0PxW15EQbT65sA65-43jnAxWoA1zXF9KAcbafN=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-02-15T05:25:48.040626Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNndkliUTdnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNndkliUTdnRRAB!2m1!1s0x7c006dee4877850d:0xb7945e64df5f8a02
+review_summary: >-
+  Customer Feedback on Sushi ii$$$Visitors often praise the incredibly fresh
+  fish and unique selections that make meals here feel truly special, especially
+  with options like the omakase for an adventurous taste. Many highlight the
+  efficient service and welcoming vibe that keep things light and enjoyable,
+  even in a simple setting. While prices are reasonable for the quality, folks
+  appreciate how it delivers great value without skimping on flavor, making it a
+  solid pick for casual dinners or groups. Overall, it's clear that this spot
+  lives up to the hype as one of the best sushi places near me, with positive
+  experiences centered around its reliable and satisfying offerings.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  paidParkingLot: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
+delivery: false
+dine_in: true
+good_for_children: false
 good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
 serves_brunch: null
 serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Inventive rolls, deep-fried fish & an omakase menu offered in an unassuming
+  strip-mall nook.
 
 ---

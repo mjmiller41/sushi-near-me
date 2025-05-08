@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Trapper's Sushi - Parkland"
+title: Trapper's Sushi - Parkland
 permalink: /washington/parkland/trapper-s-sushi-parkland.html
 stateAbbr: WA
 stateName: Washington
 cityName: Parkland
 seo:
-  name: "Trapper's Sushi - Parkland"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Trapper's Sushi - Parkland serves delicious sushi in Parkland, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJtUuWxYcBkVQR78MUcnSaQPw
 photos:
   - name: >-
@@ -185,7 +183,38 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Trapper's Sushi in Parkland, WA$$$Trapper's Sushi in Parkland, WA,
+  stands out as a welcoming hub for fresh Japanese cuisine, blending traditional
+  flavors with creative twists. This spot specializes in a variety of Asian
+  fusion rolls and nigiri, offering an inviting menu that appeals to sushi
+  enthusiasts seeking quality options nearby. The restaurant boasts
+  accessibility features like wheelchair-friendly parking and entrances,
+  ensuring a comfortable visit for all diners. Its vibrant atmosphere, hinted at
+  through shared photos, makes it an ideal choice for those exploring sushi
+  places near me or looking for top-rated Japanese dishes in a casual setting.
+generative_summary: >-
+  Discover Trapper's Sushi in Parkland, WA$$$Trapper's Sushi in Parkland, WA,
+  stands out as a welcoming hub for fresh Japanese cuisine, blending traditional
+  flavors with creative twists. This spot specializes in a variety of Asian
+  fusion rolls and nigiri, offering an inviting menu that appeals to sushi
+  enthusiasts seeking quality options nearby. The restaurant boasts
+  accessibility features like wheelchair-friendly parking and entrances,
+  ensuring a comfortable visit for all diners. Its vibrant atmosphere, hinted at
+  through shared photos, makes it an ideal choice for those exploring sushi
+  places near me or looking for top-rated Japanese dishes in a casual setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Folks love the all-you-can-eat sushi deals at this
+  spot, highlighting the fresh variety of rolls and tasty free treats that add a
+  fun twist to meals. Service stands out as friendly and attentive, helping to
+  create a relaxed vibe that keeps everyone coming back. Many appreciate the
+  clean, upbeat environment with good tunes in the background, making it a solid
+  pick for casual get-togethers or solo outings. Overall, it's seen as a
+  reliable choice for sushi restaurants near me, with diners noting the value
+  and quality that make it worth trying for anyone craving top-rated options.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +240,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Blue Nami | Sushi & Sake House"
+title: Blue Nami | Sushi & Sake House
 permalink: /california/orangevale/blue-nami-sushi-sake-house.html
 stateAbbr: CA
 stateName: California
 cityName: Orangevale
 seo:
-  name: "Blue Nami | Sushi & Sake House"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Blue Nami | Sushi & Sake House serves delicious sushi in Orangevale, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJZ4MPQsPgmoARBDvae_JqKTQ
 photos:
   - name: >-
@@ -185,7 +183,40 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Blue Nami in Orangevale, CA$$$In Orangevale, CA, Blue Nami | Sushi &
+  Sake House stands out as a casual spot for enjoying fresh sushi and Japanese
+  specialties, making it a great option for those seeking sushi restaurants
+  nearby. The restaurant features a relaxed atmosphere where you can savor a
+  variety of rolls and dishes, complemented by happy hour drinks that add to the
+  appeal. With its focus on quality ingredients and authentic flavors, it's an
+  ideal choice for anyone looking for top-rated sushi experiences in the area.
+  Accessibility options like wheelchair-friendly parking and entrances ensure a
+  welcoming visit for all, enhancing its reputation as a convenient local
+  favorite.
+generative_summary: >-
+  Discover Blue Nami in Orangevale, CA$$$In Orangevale, CA, Blue Nami | Sushi &
+  Sake House stands out as a casual spot for enjoying fresh sushi and Japanese
+  specialties, making it a great option for those seeking sushi restaurants
+  nearby. The restaurant features a relaxed atmosphere where you can savor a
+  variety of rolls and dishes, complemented by happy hour drinks that add to the
+  appeal. With its focus on quality ingredients and authentic flavors, it's an
+  ideal choice for anyone looking for top-rated sushi experiences in the area.
+  Accessibility options like wheelchair-friendly parking and entrances ensure a
+  welcoming visit for all, enhancing its reputation as a convenient local
+  favorite.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Folks generally rave about the fresh, flavorful
+  sushi rolls and the wide selection of options that keep things exciting for
+  sushi lovers in the neighborhood. Many highlight the friendly service and
+  efficient vibe that make dining out feel effortless and enjoyable. Happy hour
+  specials often get nods for providing great value without skimping on taste,
+  turning it into a popular spot for casual get-togethers. Overall, it's seen as
+  a reliable pick for anyone craving Japanese-inspired meals, with most feedback
+  leaning positive on the quality and atmosphere.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +242,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

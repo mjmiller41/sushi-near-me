@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi 201"
+title: Sushi 201
 permalink: /south-carolina/summerville/sushi-201.html
 stateAbbr: SC
 stateName: South Carolina
 cityName: Summerville
 seo:
-  name: "Sushi 201"
-  type: Restaurant
+  type: restaurant
   links: https://sushi201summerville.com/
-description: "Sushi 201 serves delicious sushi in Summerville, South Carolina. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJXY74E2-L_ogR9adbY5UYsx8
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $10 &ndash; $20
 rating: '4.0'
 rating_count: 0
 website: https://sushi201summerville.com/
+description: >-
+  About Sushi 201 in Summerville, SC$$$Sushi 201 in Summerville, SC, stands out
+  as a cozy spot for savoring fresh Japanese dishes in a welcoming environment.
+  This sushi restaurant delights with a menu featuring creative rolls, hibachi
+  options, and classic staples, all complemented by a selection of sake and wine
+  for an authentic dining experience. Its accessible design, including
+  wheelchair-friendly features, makes it easy for everyone to enjoy a meal,
+  whether dining in or opting for takeout. The moderate pricing adds to its
+  appeal for casual outings or groups, blending affordability with quality
+  ingredients. For those exploring sushi places near me, this location offers a
+  reliable choice in the area, blending tradition with local charm.
+generative_summary: >-
+  About Sushi 201 in Summerville, SC$$$Sushi 201 in Summerville, SC, stands out
+  as a cozy spot for savoring fresh Japanese dishes in a welcoming environment.
+  This sushi restaurant delights with a menu featuring creative rolls, hibachi
+  options, and classic staples, all complemented by a selection of sake and wine
+  for an authentic dining experience. Its accessible design, including
+  wheelchair-friendly features, makes it easy for everyone to enjoy a meal,
+  whether dining in or opting for takeout. The moderate pricing adds to its
+  appeal for casual outings or groups, blending affordability with quality
+  ingredients. For those exploring sushi places near me, this location offers a
+  reliable choice in the area, blending tradition with local charm.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJXY74E2-L_ogR9adbY5UYsx8/reviews/ChdDSUhNMG9nS0VJQ0FnTUNBMjdULTZRRRAB
@@ -348,6 +369,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNkLVBEaU5BEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNkLVBEaU5BEAE!2m1!1s0x88fe8b6f13f88e5d:0x1fb31895635ba7f5
+review_summary: >-
+  What Visitors Are Saying$$$Folks checking out this sushi restaurant often rave
+  about the tasty and fresh dishes, with many highlighting the flavorful rolls
+  and hearty ramen as must-try favorites. Service stands out as friendly and
+  efficient, whether you're dining in or grabbing quick delivery, making it a
+  convenient pick for everyday meals. While most feedback focuses on the great
+  value and welcoming vibe, a few notes mention that the dining space could use
+  some extra attention to keep things spotless. Overall, it's a solid spot for
+  anyone searching for top-rated sushi near me, with positive experiences
+  outweighing occasional suggestions for improvements. If you're in the mood for
+  Japanese fare, this place delivers a generally enjoyable experience that's
+  worth a visit.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -380,7 +414,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

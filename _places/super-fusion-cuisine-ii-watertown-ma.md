@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Super Fusion Cuisine II"
+title: Super Fusion Cuisine II
 permalink: /massachusetts/watertown/super-fusion-cuisine-ii.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Watertown
 seo:
-  name: "Super Fusion Cuisine II"
-  type: Restaurant
+  type: restaurant
   links: http://www.superfusionsushi.com/
-description: "Informal area-chain sushi bar & teriyaki house, with both takeout & dine-in available. Super Fusion Cuisine II serves delicious sushi in Watertown, Massachusetts. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ9cpFHAV444kRixMnPo00qwU
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $20 &ndash; $30
 rating: '4.7'
 rating_count: 0
 website: http://www.superfusionsushi.com/
+description: >-
+  Discover Super Fusion Cuisine II in Watertown, MA$$$Nestled in Watertown, MA,
+  Super Fusion Cuisine II stands out as a go-to spot for fresh sushi and
+  Japanese-inspired dishes, offering a relaxed vibe perfect for casual dining.
+  This informal sushi restaurant combines traditional flavors with creative
+  rolls, making it an accessible choice for anyone searching for quality
+  Japanese fare nearby. Guests can enjoy a variety of options like teriyaki and
+  sashimi in a welcoming atmosphere, complemented by selections of sake and beer
+  that enhance the meal. The spot's commitment to fresh ingredients and
+  convenient takeout adds to its appeal for those exploring top-rated sushi
+  options in the area, ensuring a satisfying experience whether dining in or
+  grabbing a quick bite.
+generative_summary: >-
+  Discover Super Fusion Cuisine II in Watertown, MA$$$Nestled in Watertown, MA,
+  Super Fusion Cuisine II stands out as a go-to spot for fresh sushi and
+  Japanese-inspired dishes, offering a relaxed vibe perfect for casual dining.
+  This informal sushi restaurant combines traditional flavors with creative
+  rolls, making it an accessible choice for anyone searching for quality
+  Japanese fare nearby. Guests can enjoy a variety of options like teriyaki and
+  sashimi in a welcoming atmosphere, complemented by selections of sake and beer
+  that enhance the meal. The spot's commitment to fresh ingredients and
+  convenient takeout adds to its appeal for those exploring top-rated sushi
+  options in the area, ensuring a satisfying experience whether dining in or
+  grabbing a quick bite.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ9cpFHAV444kRixMnPo00qwU/reviews/ChZDSUhNMG9nS0VJQ0FnSURYLU1Xbk13EAE
@@ -432,6 +455,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURWLTZEa3RnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURWLTZEa3RnRRAB!2m1!1s0x89e378051c45caf5:0x5ab348d3e27138b
+review_summary: >-
+  What Customers Love About This Sushi Spot$$$Visitors frequently rave about the
+  incredibly fresh fish and generous portions that make meals here feel truly
+  worthwhile, with standout dishes like spicy salmon rolls earning high marks
+  for their bold flavors. Many appreciate the unpretentious setup and efficient
+  service that keeps things simple yet enjoyable, helping it stand out among
+  local Japanese eateries. It's often noted how the daily specials add an
+  exciting twist, drawing in sushi enthusiasts looking for variety without the
+  fuss. Overall, the welcoming environment and consistent quality contribute to
+  a positive experience, making it a solid pick for anyone seeking reliable and
+  tasty options in the neighborhood.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidParkingLot: true
   paidStreetParking: true
@@ -463,8 +498,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Informal area-chain sushi bar & teriyaki house, with both takeout & dine-in
   available.
 

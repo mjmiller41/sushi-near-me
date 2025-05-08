@@ -5,4 +5,5 @@ permalink: /illinois/elmwood-park/
 stateAbbr: IL
 stateName: Illinois
 cityName: Elmwood Park
+
 ---

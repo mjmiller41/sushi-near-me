@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Teharu Sushi Restaurant"
+title: Teharu Sushi Restaurant
 permalink: /arizona/tempe/teharu-sushi-restaurant.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Tempe
 seo:
-  name: "Teharu Sushi Restaurant"
-  type: Restaurant
+  type: restaurant
   links: https://teharusushi.shop/
-description: "Teharu Sushi Restaurant serves delicious sushi in Tempe, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJy6OQlSQEK4cRMYThPv_raxs
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x872b04249590a3cb:0x1b6bebff3ee18431!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:30 PM'
     - 'Tuesday: 11:00 AM – 9:30 PM'
     - 'Wednesday: 11:00 AM – 9:30 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:30 PM'
     - 'Saturday: 11:00 AM – 10:30 PM'
     - 'Sunday: 11:00 AM – 10:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:30 PM'
-    - 'Tuesday: 11:00 AM – 9:30 PM'
-    - 'Wednesday: 11:00 AM – 9:30 PM'
-    - 'Thursday: 11:00 AM – 9:30 PM'
-    - 'Friday: 11:00 AM – 10:30 PM'
-    - 'Saturday: 11:00 AM – 10:30 PM'
-    - 'Sunday: 11:00 AM – 10:00 PM'
+  nextCloseTime: '2025-05-04T05:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,242 @@ phone: (480) 705-9825
 price_level: PRICE_LEVEL_INEXPENSIVE
 price_range: $10 &ndash; $20
 rating: '4.1'
-rating_count: 0
+rating_count: 2974
 website: https://teharusushi.shop/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Teharu Sushi in Tempe, AZ$$$Teharu Sushi Restaurant in Tempe, AZ,
+  offers a dynamic dining experience centered around a rotating sushi bar that
+  brings fresh Japanese flavors right to your table. This laid-back spot
+  features a wide array of rolls, sashimi, and vegetarian options, making it an
+  inviting choice for those exploring sushi restaurants in the area. With its
+  casual atmosphere and convenient setup, it's easy to sample various dishes
+  without the hassle, complemented by accessibility features like
+  wheelchair-friendly entrances and seating. The restaurant operates daily with
+  extended hours, ideal for lunch or dinner outings, ensuring it's a reliable
+  option for anyone craving authentic Japanese bites nearby.
+generative_summary: >-
+  Discover Teharu Sushi in Tempe, AZ$$$Teharu Sushi Restaurant in Tempe, AZ,
+  offers a dynamic dining experience centered around a rotating sushi bar that
+  brings fresh Japanese flavors right to your table. This laid-back spot
+  features a wide array of rolls, sashimi, and vegetarian options, making it an
+  inviting choice for those exploring sushi restaurants in the area. With its
+  casual atmosphere and convenient setup, it's easy to sample various dishes
+  without the hassle, complemented by accessibility features like
+  wheelchair-friendly entrances and seating. The restaurant operates daily with
+  extended hours, ideal for lunch or dinner outings, ensuring it's a reliable
+  option for anyone craving authentic Japanese bites nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJy6OQlSQEK4cRMYThPv_raxs/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJMko2eGxRRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        My fiance had never been to a revolving sushi restaurant and we both
+        really enjoyed this. Nice, casual atmosphere with a good selection of
+        sushi and appetizers. I really liked the baked scallop roll and the
+        lobster roll. There was even a Hot Cheetos Roll, lol. We ate our fill
+        and there was no sticker shock at the end. Around $35 for the both of
+        us. We definitely plan to return for dinner.
+      languageCode: en
+    originalText:
+      text: >-
+        My fiance had never been to a revolving sushi restaurant and we both
+        really enjoyed this. Nice, casual atmosphere with a good selection of
+        sushi and appetizers. I really liked the baked scallop roll and the
+        lobster roll. There was even a Hot Cheetos Roll, lol. We ate our fill
+        and there was no sticker shock at the end. Around $35 for the both of
+        us. We definitely plan to return for dinner.
+      languageCode: en
+    authorAttribution:
+      displayName: Kymberlyn Reed
+      uri: https://www.google.com/maps/contrib/104347000319066247891/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUtd7Pxzn8V5J9Vg616zN3O_LUCBbDkr3qhHMexdbCi8YEtwx98XA=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-03-30T02:43:28.460474Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNJMko2eGxRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNJMko2eGxRRRAB!2m1!1s0x872b04249590a3cb:0x1b6bebff3ee18431
+  - name: >-
+      places/ChIJy6OQlSQEK4cRMYThPv_raxs/reviews/ChdDSUhNMG9nS0VJQ0FnTUNvODZQOXFRRRAB
+    relativePublishTimeDescription: 2 weeks ago
+    rating: 5
+    text:
+      text: >-
+        Great place for a group. Everyone picks what they want and pay by the
+        plate color! Super great prices. Haru and Shaggy Roll are the best.
+      languageCode: en
+    originalText:
+      text: >-
+        Great place for a group. Everyone picks what they want and pay by the
+        plate color! Super great prices. Haru and Shaggy Roll are the best.
+      languageCode: en
+    authorAttribution:
+      displayName: J Vince
+      uri: https://www.google.com/maps/contrib/116690428137596001900/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVeTvHkyuD8gNA9o-DKetHWPx79Gynn5vLsepySlBrw4KODrMGA=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2025-04-19T20:47:26.320864Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNvODZQOXFRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNvODZQOXFRRRAB!2m1!1s0x872b04249590a3cb:0x1b6bebff3ee18431
+  - name: >-
+      places/ChIJy6OQlSQEK4cRMYThPv_raxs/reviews/ChdDSUhNMG9nS0VJQ0FnTURvdXNyZG1RRRAB
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        Always a good time here. In and out every time. Excellent sushi. So good
+        my girlfriend ordered a Hot Cheeto roll for our anniversary. Food so
+        good she almost drank out of the eel sauce thing instead of from her
+        cup. Excellent time.
+      languageCode: en
+    originalText:
+      text: >-
+        Always a good time here. In and out every time. Excellent sushi. So good
+        my girlfriend ordered a Hot Cheeto roll for our anniversary. Food so
+        good she almost drank out of the eel sauce thing instead of from her
+        cup. Excellent time.
+      languageCode: en
+    authorAttribution:
+      displayName: Omar Casillas
+      uri: https://www.google.com/maps/contrib/117462970628460436633/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWu0Oo2jfMW2gt9TdobiBq0oWc2MX_7DvdC9MtnSKC7u0mlmiE=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-24T02:56:36.767993Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURvdXNyZG1RRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURvdXNyZG1RRRAB!2m1!1s0x872b04249590a3cb:0x1b6bebff3ee18431
+  - name: >-
+      places/ChIJy6OQlSQEK4cRMYThPv_raxs/reviews/ChdDSUhNMG9nS0VJQ0FnTURvNUstSm9RRRAB
+    relativePublishTimeDescription: a week ago
+    rating: 1
+    text:
+      text: >-
+        Incredibly small selection of sushi compared to similar establishments.
+
+
+        Also, very very rude staff. My MIL is Japanese and asked whenever she
+        says something Japanese (at a Japanese sushi restaurant) and the staff
+        doesn’t know, they are soooo rude. Now, it’s not like she’s saying
+        random things not relevant, she’s saying something on the drink menu!
+        (It’s literally how it’s spelled on the menu and pronounced)
+
+
+        It was just very rude and uncomfortable being there. We lost our
+        appetite. When she brought the drinks, she just plopped them in a group
+        at the edge of the table and stormed off. It caught everyone off guard
+        so much. The waitress who was rude was the one with the short
+        black/blue/green hair. Probably shouldn’t treat your customers like
+        that.
+      languageCode: en
+    originalText:
+      text: >-
+        Incredibly small selection of sushi compared to similar establishments.
+
+
+        Also, very very rude staff. My MIL is Japanese and asked whenever she
+        says something Japanese (at a Japanese sushi restaurant) and the staff
+        doesn’t know, they are soooo rude. Now, it’s not like she’s saying
+        random things not relevant, she’s saying something on the drink menu!
+        (It’s literally how it’s spelled on the menu and pronounced)
+
+
+        It was just very rude and uncomfortable being there. We lost our
+        appetite. When she brought the drinks, she just plopped them in a group
+        at the edge of the table and stormed off. It caught everyone off guard
+        so much. The waitress who was rude was the one with the short
+        black/blue/green hair. Probably shouldn’t treat your customers like
+        that.
+      languageCode: en
+    authorAttribution:
+      displayName: Aubrey Barkley
+      uri: https://www.google.com/maps/contrib/104396494551487128401/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUFCjEi9SOPb2ENUo-H8rZlHtB3dPuUbkSOrZVl6elv_h_z6apZ=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-04-22T04:16:37.005162Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURvNUstSm9RRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURvNUstSm9RRRAB!2m1!1s0x872b04249590a3cb:0x1b6bebff3ee18431
+  - name: >-
+      places/ChIJy6OQlSQEK4cRMYThPv_raxs/reviews/ChZDSUhNMG9nS0VJQ0FnSUNucW9PV01nEAE
+    relativePublishTimeDescription: 7 months ago
+    rating: 5
+    text:
+      text: >-
+        Delicious! Everything is always good and a fun place to eat. I like the
+        cooked shrimp and the potstickers. The food is delicious and the staff
+        is friendly and welcoming. I recommend you check it out!!
+      languageCode: en
+    originalText:
+      text: >-
+        Delicious! Everything is always good and a fun place to eat. I like the
+        cooked shrimp and the potstickers. The food is delicious and the staff
+        is friendly and welcoming. I recommend you check it out!!
+      languageCode: en
+    authorAttribution:
+      displayName: Miguel rosas
+      uri: https://www.google.com/maps/contrib/108453324466423701607/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWlTt1ZcXWan1lmGSuOirD6pEAMxUiTlum91a4No811V6JbM2c=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2024-09-24T23:45:56.654109Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNucW9PV01nEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNucW9PV01nEAE!2m1!1s0x872b04249590a3cb:0x1b6bebff3ee18431
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this sushi spot often highlight the
+  fun and interactive conveyor belt system, which makes trying a variety of
+  fresh rolls and appetizers a breeze and keeps things affordable for groups or
+  solo diners. Many appreciate the great value for the quality, with plenty of
+  tasty options that cater to different tastes, including creative twists that
+  add excitement to the meal. While most feedback praises the welcoming vibe and
+  solid selection, a few notes mention occasional service inconsistencies, but
+  overall, the experience remains enjoyable and worth returning for. If you're
+  on the hunt for top-rated sushi near you, this place stands out for its
+  approachable prices and flavorful choices, encouraging a relaxed outing
+  without any major drawbacks.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+delivery: false
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: false
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: true
+serves_cocktails: false
+serves_coffee: true
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Casual stop for rolls, sashimi & other Japanese bites delivered via conveyor
+  belt at the sushi bar.
 
 ---

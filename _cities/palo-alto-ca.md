@@ -5,4 +5,5 @@ permalink: /california/palo-alto/
 stateAbbr: CA
 stateName: California
 cityName: Palo Alto
+
 ---

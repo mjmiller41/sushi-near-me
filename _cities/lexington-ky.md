@@ -5,4 +5,5 @@ permalink: /kentucky/lexington/
 stateAbbr: KY
 stateName: Kentucky
 cityName: Lexington
+
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Nakazawa"
+title: Sushi Nakazawa
 permalink: /district-of-columbia/washington/sushi-nakazawa.html
 stateAbbr: DC
 stateName: District of Columbia
 cityName: Washington
 seo:
-  name: "Sushi Nakazawa"
-  type: Restaurant
+  type: restaurant
   links: http://www.sushinakazawa.com/
-description: "Luxurious, Japanese omakase meals served in cozy, dark wood & gold surrounds, with a sushi counter. Sushi Nakazawa serves delicious sushi in Washington, District of Columbia. Try fresh Japanese dishes for a great dining experience. Available for, lunch, and dinner."
 place_id: ChIJ-f__HJq3t4kRmvtJRiDzurk
 photos:
   - name: >-
@@ -183,6 +181,33 @@ price_range: $100 &ndash; & up
 rating: '4.7'
 rating_count: 0
 website: http://www.sushinakazawa.com/
+description: >-
+  Discover Sushi Nakazawa in Washington, DC$$$Sushi Nakazawa in Washington, DC,
+  stands out as a premier Japanese dining destination, specializing in
+  meticulously prepared omakase meals that highlight fresh, high-quality
+  ingredients. The restaurant features an elegant ambiance with cozy dark wood
+  and subtle gold accents, creating an intimate setting perfect for savoring
+  authentic flavors. Guests can enjoy expertly crafted dishes that emphasize
+  exceptional textures and tastes, drawing from traditional techniques and
+  premium selections air-shipped from Japan. Complementing the meals are
+  thoughtful beverage options like teas and Japanese spirits, enhancing the
+  overall refined experience. This spot is ideal for those seeking top-rated
+  sushi experiences in the heart of the city, making it a go-to choice for sushi
+  enthusiasts exploring local Japanese cuisine.
+generative_summary: >-
+  Discover Sushi Nakazawa in Washington, DC$$$Sushi Nakazawa in Washington, DC,
+  stands out as a premier Japanese dining destination, specializing in
+  meticulously prepared omakase meals that highlight fresh, high-quality
+  ingredients. The restaurant features an elegant ambiance with cozy dark wood
+  and subtle gold accents, creating an intimate setting perfect for savoring
+  authentic flavors. Guests can enjoy expertly crafted dishes that emphasize
+  exceptional textures and tastes, drawing from traditional techniques and
+  premium selections air-shipped from Japan. Complementing the meals are
+  thoughtful beverage options like teas and Japanese spirits, enhancing the
+  overall refined experience. This spot is ideal for those seeking top-rated
+  sushi experiences in the heart of the city, making it a go-to choice for sushi
+  enthusiasts exploring local Japanese cuisine.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ-f__HJq3t4kRmvtJRiDzurk/reviews/ChZDSUhNMG9nS0VJQ0FnTURJaXVMNmJBEAE
@@ -462,6 +487,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNneXVDZ0dBEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNneXVDZ0dBEAE!2m1!1s0x89b7b79a1cfffff9:0xb9baf3204649fb9a
+review_summary: >-
+  What Visitors Are Saying$$$Visitors often praise the incredibly fresh fish and
+  skillfully made pieces that deliver a satisfying, traditional sushi vibe,
+  making it a standout option for anyone craving quality Japanese fare nearby.
+  While most appreciate the attentive service and engaging atmosphere,
+  especially at the sushi counter, a few mention that the overall experience can
+  feel a bit formal or inconsistent at times. Many highlight the well-planned
+  courses and variety in flavors, noting it's a treat for groups or solo diners
+  looking to indulge in authentic tastes without over-the-top extras. Overall,
+  it's seen as a solid pick for those hunting for the best sushi around, with
+  the consensus leaning toward its value for anyone passionate about genuine,
+  flavorful dishes. If you're in the mood for a reliable sushi adventure, this
+  place delivers a memorable meal that's worth checking out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: false
   paidStreetParking: true
@@ -494,8 +533,8 @@ serves_lunch: true
 serves_vegetarian_food: false
 serves_wine: true
 takeout: null
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Luxurious, Japanese omakase meals served in cozy, dark wood & gold surrounds,
   with a sushi counter.
 

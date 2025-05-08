@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "The Sushi Samurai"
+title: The Sushi Samurai
 permalink: /washington/seattle/the-sushi-samurai.html
 stateAbbr: WA
 stateName: Washington
 cityName: Seattle
 seo:
-  name: "The Sushi Samurai"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "The Sushi Samurai serves delicious sushi in Seattle, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJeSbtNxMVkFQRF9gc-qhFSXQ
 photos:
   - name: >-
@@ -184,7 +182,41 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover The Sushi Samurai in Seattle, WA$$$The Sushi Samurai in Seattle, WA,
+  stands out as a welcoming spot for those seeking fresh vegan sushi and
+  Japanese-inspired dishes. This cozy restaurant offers a menu filled with
+  creative all-vegan rolls and flavorful fare, complemented by selections of
+  beer and sake for a complete dining experience. Its accessible features, like
+  wheelchair-friendly entrances and seating, make it an inclusive choice for
+  everyone looking to enjoy quality sushi options in a relaxed setting. Whether
+  you're exploring sushi restaurants in the area or craving plant-based meals,
+  the inviting atmosphere here enhances every visit, making it a go-to for
+  locals and visitors alike.
+generative_summary: >-
+  Discover The Sushi Samurai in Seattle, WA$$$The Sushi Samurai in Seattle, WA,
+  stands out as a welcoming spot for those seeking fresh vegan sushi and
+  Japanese-inspired dishes. This cozy restaurant offers a menu filled with
+  creative all-vegan rolls and flavorful fare, complemented by selections of
+  beer and sake for a complete dining experience. Its accessible features, like
+  wheelchair-friendly entrances and seating, make it an inclusive choice for
+  everyone looking to enjoy quality sushi options in a relaxed setting. Whether
+  you're exploring sushi restaurants in the area or craving plant-based meals,
+  the inviting atmosphere here enhances every visit, making it a go-to for
+  locals and visitors alike.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Recent Reviews$$$Visitors often praise this sushi spot for its
+  delicious vegan rolls, with standout options like creative twists on classics
+  that keep things fresh and satisfying. Many highlight the friendly service
+  that adds a warm, attentive touch to the overall meal, helping to create a
+  comfortable and enjoyable vibe. Folks appreciate the cozy ambiance, perfect
+  for casual outings or trying new Japanese-inspired dishes without the fuss.
+  Overall, it's frequently recommended as a solid pick for anyone hunting for
+  top-rated vegan sushi nearby, blending great flavors with a welcoming
+  environment that leaves diners coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +242,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -1,15 +1,14 @@
 ---
 layout: place
-title: "Stevenson's Library"
+title: Stevenson's Library
 permalink: /hawaii/koloa/stevenson-s-library.html
 stateAbbr: HI
 stateName: Hawaii
 cityName: Koloa
 seo:
-  name: "Stevenson's Library"
-  type: Restaurant
-  links: https://www.hyatt.com/en-US/hotel/hawaii/grand-hyatt-kauai-resort-and-spa/kauai/dining
-description: "Stevenson's Library serves delicious sushi in Koloa, Hawaii. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: >-
+    https://www.hyatt.com/en-US/hotel/hawaii/grand-hyatt-kauai-resort-and-spa/kauai/dining
 place_id: ChIJG0L6q40aB3wRWOZUozVhOOc
 photos:
   - name: >-
@@ -169,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x7c071a8dabfa421b:0xe7386135a354e658!10e5
 primary_type: Bar
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 17
+        minute: 30
+      close:
+        day: 0
+        hour: 23
+        minute: 0
+    - open:
+        day: 1
+        hour: 17
+        minute: 30
+      close:
+        day: 1
+        hour: 23
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 30
+      close:
+        day: 2
+        hour: 23
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 30
+      close:
+        day: 3
+        hour: 23
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 30
+      close:
+        day: 4
+        hour: 23
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 30
+      close:
+        day: 5
+        hour: 23
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 30
+      close:
+        day: 6
+        hour: 23
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 5:30 – 11:00 PM'
     - 'Tuesday: 5:30 – 11:00 PM'
     - 'Wednesday: 5:30 – 11:00 PM'
@@ -177,14 +234,7 @@ opening_hours:
     - 'Friday: 5:30 – 11:00 PM'
     - 'Saturday: 5:30 – 11:00 PM'
     - 'Sunday: 5:30 – 11:00 PM'
-  current:
-    - 'Monday: 5:30 – 11:00 PM'
-    - 'Tuesday: 5:30 – 11:00 PM'
-    - 'Wednesday: 5:30 – 11:00 PM'
-    - 'Thursday: 5:30 – 11:00 PM'
-    - 'Friday: 5:30 – 11:00 PM'
-    - 'Saturday: 5:30 – 11:00 PM'
-    - 'Sunday: 5:30 – 11:00 PM'
+  nextOpenTime: '2025-05-04T03:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -196,36 +246,305 @@ phone: (808) 742-1234
 price_level: PRICE_LEVEL_EXPENSIVE
 price_range: $50 &ndash; $100
 rating: '4.4'
-rating_count: 0
+rating_count: 425
 website: >-
   https://www.hyatt.com/en-US/hotel/hawaii/grand-hyatt-kauai-resort-and-spa/kauai/dining
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Stevenson's Library in Koloa, HI$$$Stevenson's Library in Koloa, HI,
+  stands out as a trendy lounge at the Grand Hyatt Kauai Resort & Spa, blending
+  fresh sushi options with expertly crafted cocktails in a warm, tropical
+  setting. This spot captivates visitors with its ocean views and inviting
+  atmosphere, making it an ideal choice for relaxed evenings or special
+  occasions. Accessibility features like wheelchair-friendly parking and
+  entrances ensure a welcoming experience for all guests, while the menu
+  highlights creative dishes that pair perfectly with the resort's laid-back
+  vibe. Operating in the evenings, it offers a sophisticated yet casual escape
+  where fresh flavors and scenic surroundings come together seamlessly.
+generative_summary: >-
+  Discover Stevenson's Library in Koloa, HI$$$Stevenson's Library in Koloa, HI,
+  stands out as a trendy lounge at the Grand Hyatt Kauai Resort & Spa, blending
+  fresh sushi options with expertly crafted cocktails in a warm, tropical
+  setting. This spot captivates visitors with its ocean views and inviting
+  atmosphere, making it an ideal choice for relaxed evenings or special
+  occasions. Accessibility features like wheelchair-friendly parking and
+  entrances ensure a welcoming experience for all guests, while the menu
+  highlights creative dishes that pair perfectly with the resort's laid-back
+  vibe. Operating in the evenings, it offers a sophisticated yet casual escape
+  where fresh flavors and scenic surroundings come together seamlessly.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJG0L6q40aB3wRWOZUozVhOOc/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3NU0taTBRRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        A Perfect Sushi Date Night at Stevenson’s Library – A Hidden Gem at Our
+        Hotel!
+
+
+        If you’re looking for an upscale yet cozy sushi experience in Kauai,
+        Stevenson’s Library is a must-visit! We had an incredible date night
+        here, indulging in some of the freshest and most beautifully crafted
+        sushi we’ve ever had.
+
+
+        From the moment we sat down at the elegant bar, we knew we were in for a
+        treat. The sashimi was melt-in-your-mouth fresh, beautifully plated with
+        delicate edible flowers and citrus accents. The signature sushi rolls
+        were an absolute highlight—each bite was packed with bold flavors, fresh
+        fish, and creative toppings like jalapeños, tobiko, and spicy aioli.
+
+
+        The ambiance was perfect for a romantic night out, with dim lighting, a
+        refined bar selection, and an intimate setting that made us feel like we
+        had stumbled upon a hidden gem. Pairing our meal with a warm carafe of
+        sake only elevated the experience.
+
+
+        Service was fantastic, and the staff was attentive and knowledgeable,
+        helping us select the perfect rolls for our tastes. If you’re staying at
+        the Grand Hyatt Kauai, make sure to book a table in advance—this spot is
+        well worth it.
+
+
+        ⭐ Must-Try Items:
+
+
+        Sashimi platter – unbelievably fresh!
+
+
+        Specialty sushi rolls – every single one was a hit.
+
+
+        Sake selection – warm or chilled, both pair perfectly with sushi.
+
+
+        Overall, Stevenson’s Library delivered a memorable and delicious date
+        night that we won’t forget. Highly recommend for sushi lovers looking
+        for a top-tier dining experience in Kauai!
+
+
+        🔥 Rating: 5/5 – A perfect blend of elegance, quality, and flavor.
+      languageCode: en
+    originalText:
+      text: >-
+        A Perfect Sushi Date Night at Stevenson’s Library – A Hidden Gem at Our
+        Hotel!
+
+
+        If you’re looking for an upscale yet cozy sushi experience in Kauai,
+        Stevenson’s Library is a must-visit! We had an incredible date night
+        here, indulging in some of the freshest and most beautifully crafted
+        sushi we’ve ever had.
+
+
+        From the moment we sat down at the elegant bar, we knew we were in for a
+        treat. The sashimi was melt-in-your-mouth fresh, beautifully plated with
+        delicate edible flowers and citrus accents. The signature sushi rolls
+        were an absolute highlight—each bite was packed with bold flavors, fresh
+        fish, and creative toppings like jalapeños, tobiko, and spicy aioli.
+
+
+        The ambiance was perfect for a romantic night out, with dim lighting, a
+        refined bar selection, and an intimate setting that made us feel like we
+        had stumbled upon a hidden gem. Pairing our meal with a warm carafe of
+        sake only elevated the experience.
+
+
+        Service was fantastic, and the staff was attentive and knowledgeable,
+        helping us select the perfect rolls for our tastes. If you’re staying at
+        the Grand Hyatt Kauai, make sure to book a table in advance—this spot is
+        well worth it.
+
+
+        ⭐ Must-Try Items:
+
+
+        Sashimi platter – unbelievably fresh!
+
+
+        Specialty sushi rolls – every single one was a hit.
+
+
+        Sake selection – warm or chilled, both pair perfectly with sushi.
+
+
+        Overall, Stevenson’s Library delivered a memorable and delicious date
+        night that we won’t forget. Highly recommend for sushi lovers looking
+        for a top-tier dining experience in Kauai!
+
+
+        🔥 Rating: 5/5 – A perfect blend of elegance, quality, and flavor.
+      languageCode: en
+    authorAttribution:
+      displayName: Ryan Rhodes
+      uri: https://www.google.com/maps/contrib/115835571710832040999/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXctuQ-KidzJUxXxKycDIezj3gAkrfuIqQ88xF0_9OnyOivizuVxA=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2025-03-23T18:49:36.633362Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUR3NU0taTBRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUR3NU0taTBRRRAB!2m1!1s0x7c071a8dabfa421b:0xe7386135a354e658
+  - name: >-
+      places/ChIJG0L6q40aB3wRWOZUozVhOOc/reviews/ChZDSUhNMG9nS0VJQ0FnSURQMXNhNVlBEAE
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        Outstanding sushi with amazing views.  Cocktails were great and the kids
+        mocktail was like dessert.  Everything was fresh and served perfectly. 
+        Service was fast and efficient and always seemed to know exactly when
+        you were going to bed something.
+
+        Enjoyed it so much we are headed back this evening.
+      languageCode: en
+    originalText:
+      text: >-
+        Outstanding sushi with amazing views.  Cocktails were great and the kids
+        mocktail was like dessert.  Everything was fresh and served perfectly. 
+        Service was fast and efficient and always seemed to know exactly when
+        you were going to bed something.
+
+        Enjoyed it so much we are headed back this evening.
+      languageCode: en
+    authorAttribution:
+      displayName: Jon Lewis
+      uri: https://www.google.com/maps/contrib/116853355520977174122/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocItzvBEvcDAM9LY-_KyRIfG4YIA_eYrV6qKuKkiBUsecgkrOg=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2024-12-02T00:55:19.601725Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURQMXNhNVlBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURQMXNhNVlBEAE!2m1!1s0x7c071a8dabfa421b:0xe7386135a354e658
+  - name: >-
+      places/ChIJG0L6q40aB3wRWOZUozVhOOc/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3enY2d0V3EAE
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: >-
+        This restaurant, nestled within the grand Hyatt resort, exudes a
+        delightful ambiance and provides exceptional service. The culinary
+        offerings are equally impressive, particularly the matcha tiramisu,
+        which left me utterly astounded. I wholeheartedly recommend this
+        establishment.
+      languageCode: en
+    originalText:
+      text: >-
+        This restaurant, nestled within the grand Hyatt resort, exudes a
+        delightful ambiance and provides exceptional service. The culinary
+        offerings are equally impressive, particularly the matcha tiramisu,
+        which left me utterly astounded. I wholeheartedly recommend this
+        establishment.
+      languageCode: en
+    authorAttribution:
+      displayName: subhrajit saha
+      uri: https://www.google.com/maps/contrib/112703359809944514889/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjW3pF-a2iQYlUir9v-gBP8zKd6cB4qWi0mbWtnqQzTG-hMNg6pS=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2025-03-18T22:47:44.698071Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUN3enY2d0V3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUN3enY2d0V3EAE!2m1!1s0x7c071a8dabfa421b:0xe7386135a354e658
+  - name: >-
+      places/ChIJG0L6q40aB3wRWOZUozVhOOc/reviews/ChdDSUhNMG9nS0VJQ0FnTURncDZ6WXdnRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        A wonderful location for a true dining experience. Atmosphere plus. The
+        food was great, and the service was perfect. We enjoyed our visit.
+      languageCode: en
+    originalText:
+      text: >-
+        A wonderful location for a true dining experience. Atmosphere plus. The
+        food was great, and the service was perfect. We enjoyed our visit.
+      languageCode: en
+    authorAttribution:
+      displayName: Bill Goode
+      uri: https://www.google.com/maps/contrib/101944667543022141447/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjV2MIU16zes05S2EdbUFTI6ZMzHnLj0veiGa8etV27-UXw-QnzT=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-02-28T02:05:52.244646Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURncDZ6WXdnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURncDZ6WXdnRRAB!2m1!1s0x7c071a8dabfa421b:0xe7386135a354e658
+  - name: >-
+      places/ChIJG0L6q40aB3wRWOZUozVhOOc/reviews/ChdDSUhNMG9nS0VJQ0FnSURIX2R6ZXhRRRAB
+    relativePublishTimeDescription: 7 months ago
+    rating: 5
+    text:
+      text: >-
+        Absolutely fantastic sushi! Solid cocktails too! Service just about
+        matched the quality of the food and setting. This is the kinda place you
+        come to for a classy night out. Great views of the ocean from a
+        sophisticated-beachy-library setting.
+      languageCode: en
+    originalText:
+      text: >-
+        Absolutely fantastic sushi! Solid cocktails too! Service just about
+        matched the quality of the food and setting. This is the kinda place you
+        come to for a classy night out. Great views of the ocean from a
+        sophisticated-beachy-library setting.
+      languageCode: en
+    authorAttribution:
+      displayName: Kevin
+      uri: https://www.google.com/maps/contrib/102564330261897872376/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUtoaGSLD9m-bEjLSE3rvgE2Y0VH5TlxZDKnkpD1hsVHgiP7R7K=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2024-09-19T06:08:44.411996Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURIX2R6ZXhRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURIX2R6ZXhRRRAB!2m1!1s0x7c071a8dabfa421b:0xe7386135a354e658
+review_summary: >-
+  What Guests Are Buzzing About$$$Folks rave about the outstanding sushi and
+  creative cocktails at this spot, noting how the fresh ingredients and
+  thoughtful presentations make every meal feel special. Many highlight the
+  amazing views and efficient service that add to the overall relaxed and
+  enjoyable vibe, perfect for a casual night out or family gathering. Reviewers
+  often mention the welcoming atmosphere and quick staff responses, which help
+  create a memorable dining experience without any major hitches. While some
+  appreciate the kid-friendly mocktails and romantic ambiance, others praise the
+  consistent quality that keeps them coming back for more. Overall, it's a go-to
+  choice for anyone seeking top-notch sushi near the area, with a positive
+  energy that makes it worth the visit.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+payment_options:
+  acceptsCreditCards: true
+  acceptsCashOnly: false
 allow_dogs: null
-curbside_pickup: null
-delivery: null
-dine_in: null
+curbside_pickup: false
+delivery: false
+dine_in: true
 good_for_children: null
-good_for_groups: null
+good_for_groups: true
 good_for_sports: null
-live_music: null
+live_music: false
 menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
+outdoor_seating: true
+reservable: true
+restroom: true
+serves_beer: true
 serves_breakfast: null
 serves_brunch: null
-serves_cocktails: null
+serves_cocktails: true
 serves_coffee: null
 serves_dinner: null
 serves_dessert: null
 serves_lunch: null
 serves_vegetarian_food: null
-serves_wine: null
+serves_wine: true
 takeout: null
-update_category: essentials
-summary: null
+update_category: atmosphere
+places_description: >-
+  This warm, tropical-style bar at the upscale Grand Hyatt specializes in sushi
+  & craft cocktails.
 
 ---

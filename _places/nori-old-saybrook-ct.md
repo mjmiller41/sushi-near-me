@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Nori"
+title: Nori
 permalink: /connecticut/old-saybrook/nori.html
 stateAbbr: CT
 stateName: Connecticut
 cityName: Old Saybrook
 seo:
-  name: "Nori"
-  type: Restaurant
-  links: null
-description: "Nori serves delicious sushi in Old Saybrook, Connecticut. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.norioldsaybrook.com/
 place_id: ChIJx6LSK_cj5okR0MJbvv7z8DY
 photos:
   - name: >-
@@ -170,22 +168,155 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89e623f72bd2a2c7:0x36f0f3febe5bc2d0!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: Closed'
+    - 'Tuesday: 11:30 AM – 9:00 PM'
+    - 'Wednesday: 11:30 AM – 9:00 PM'
+    - 'Thursday: 11:30 AM – 9:00 PM'
+    - 'Friday: 11:30 AM – 10:00 PM'
+    - 'Saturday: 11:30 AM – 10:00 PM'
+    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
-phone: null
+  - openNow: false
+    periods:
+      - open:
+          day: 2
+          hour: 16
+          minute: 0
+        close:
+          day: 2
+          hour: 17
+          minute: 30
+      - open:
+          day: 3
+          hour: 16
+          minute: 0
+        close:
+          day: 3
+          hour: 17
+          minute: 30
+      - open:
+          day: 4
+          hour: 16
+          minute: 0
+        close:
+          day: 4
+          hour: 17
+          minute: 30
+      - open:
+          day: 5
+          hour: 16
+          minute: 0
+        close:
+          day: 5
+          hour: 17
+          minute: 30
+      - open:
+          day: 6
+          hour: 16
+          minute: 0
+        close:
+          day: 6
+          hour: 17
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: Closed'
+      - 'Tuesday: 4:00 – 5:30 PM'
+      - 'Wednesday: 4:00 – 5:30 PM'
+      - 'Thursday: 4:00 – 5:30 PM'
+      - 'Friday: 4:00 – 5:30 PM'
+      - 'Saturday: 4:00 – 5:30 PM'
+      - 'Sunday: Closed'
+    secondaryHoursType: HAPPY_HOUR
+    nextOpenTime: '2025-05-06T20:00:00Z'
+phone: (860) 339-3690
 price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+price_range: $30 &ndash; $50
+rating: '4.6'
+rating_count: 132
+website: http://www.norioldsaybrook.com/
+description: >-
+  Discover Nori in Old Saybrook, CT$$$Nestled in the charming town of Old
+  Saybrook, CT, Nori stands out as a welcoming sushi restaurant offering a blend
+  of authentic Japanese flavors and creative small plates. This spot delights
+  visitors with its casual yet inviting atmosphere, perfect for enjoying fresh
+  sushi rolls, inventive cocktails, and light bites that highlight quality
+  ingredients. Accessibility features like wheelchair-friendly entrances and
+  seating make it easy for everyone to savor the experience, while its
+  convenient hours cater to both lunch crowds and evening diners. Whether you're
+  seeking sushi restaurants in the area or a relaxed place for Japanese-inspired
+  cuisine, Nori provides a memorable dining option that balances tradition with
+  modern touches.
+generative_summary: >-
+  Discover Nori in Old Saybrook, CT$$$Nestled in the charming town of Old
+  Saybrook, CT, Nori stands out as a welcoming sushi restaurant offering a blend
+  of authentic Japanese flavors and creative small plates. This spot delights
+  visitors with its casual yet inviting atmosphere, perfect for enjoying fresh
+  sushi rolls, inventive cocktails, and light bites that highlight quality
+  ingredients. Accessibility features like wheelchair-friendly entrances and
+  seating make it easy for everyone to savor the experience, while its
+  convenient hours cater to both lunch crowds and evening diners. Whether you're
+  seeking sushi restaurants in the area or a relaxed place for Japanese-inspired
+  cuisine, Nori provides a memorable dining option that balances tradition with
+  modern touches.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying About the Experience$$$Folks around town often rave
+  about the tasty sushi and creative cocktails at this local favorite, noting
+  how the flavors really hit the spot for a satisfying meal. Many appreciate the
+  warm and attentive service that makes every visit feel effortless and
+  enjoyable, adding to the overall vibe of the place. Reviewers frequently
+  mention the spot's clean and stylish setting, which enhances the whole dining
+  adventure without overwhelming the senses. Overall, it's clear that this spot
+  earns high marks for delivering solid value and a welcoming environment,
+  making it a go-to choice for anyone hunting for top-rated sushi nearby. If
+  you're in the mood for something fresh and reliable, it sounds like Nori
+  consistently delivers a positive experience that keeps people coming back.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +342,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -5,4 +5,5 @@ permalink: /massachusetts/mansfield/
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Mansfield
+
 ---

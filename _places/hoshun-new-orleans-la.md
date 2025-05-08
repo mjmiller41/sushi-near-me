@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Hoshun"
+title: Hoshun
 permalink: /louisiana/new-orleans/hoshun.html
 stateAbbr: LA
 stateName: Louisiana
 cityName: New Orleans
 seo:
-  name: "Hoshun"
-  type: Restaurant
-  links: null
-description: "Hoshun serves delicious sushi in New Orleans, Louisiana. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.hoshunrestaurant.com/
 place_id: ChIJrf7_4HmlIIYRGB4qjPJApnE
 photos:
   - name: >-
@@ -169,8 +167,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8620a579e0fffead:0x71a640f28c2a1e18!10e5
 primary_type: Asian Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 16
+        minute: 0
+      close:
+        day: 1
+        hour: 0
+        minute: 30
+    - open:
+        day: 1
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 0
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 0
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 0
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 5
+        hour: 0
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 0
+      close:
+        day: 6
+        hour: 0
+        minute: 30
+    - open:
+        day: 6
+        hour: 16
+        minute: 0
+      close:
+        day: 0
+        hour: 0
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 4:00 PM – 12:30 AM'
+    - 'Tuesday: 4:00 PM – 12:30 AM'
+    - 'Wednesday: 4:00 PM – 12:30 AM'
+    - 'Thursday: 4:00 PM – 12:30 AM'
+    - 'Friday: 4:00 PM – 12:30 AM'
+    - 'Saturday: 4:00 PM – 12:30 AM'
+    - 'Sunday: 4:00 PM – 12:30 AM'
+  nextCloseTime: '2025-05-04T05:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -178,13 +241,50 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (504) 302-9716
+price_level: PRICE_LEVEL_MODERATE
+price_range: $20 &ndash; $30
+rating: '4.4'
+rating_count: 196
+website: http://www.hoshunrestaurant.com/
+description: >-
+  Discover Hoshun in New Orleans, LA$$$Hoshun in New Orleans, LA, stands out as
+  a casual Asian eatery blending traditional flavors with fresh sushi options in
+  a welcoming setting. This spot offers an extensive menu featuring Asian
+  staples like flavorful soups, rolls, and noodles, making it a go-to choice for
+  those seeking diverse Japanese-inspired dishes nearby. With its moderate
+  pricing and accessibility features, including easy entry for all visitors,
+  it's ideal for enjoying a relaxed meal after exploring the vibrant city. The
+  restaurant's evening hours cater to dinner seekers, providing a comfortable
+  atmosphere where drinks complement the cuisine, enhancing the overall dining
+  experience in this lively neighborhood.
+generative_summary: >-
+  Discover Hoshun in New Orleans, LA$$$Hoshun in New Orleans, LA, stands out as
+  a casual Asian eatery blending traditional flavors with fresh sushi options in
+  a welcoming setting. This spot offers an extensive menu featuring Asian
+  staples like flavorful soups, rolls, and noodles, making it a go-to choice for
+  those seeking diverse Japanese-inspired dishes nearby. With its moderate
+  pricing and accessibility features, including easy entry for all visitors,
+  it's ideal for enjoying a relaxed meal after exploring the vibrant city. The
+  restaurant's evening hours cater to dinner seekers, providing a comfortable
+  atmosphere where drinks complement the cuisine, enhancing the overall dining
+  experience in this lively neighborhood.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Folks rave about the tasty selections at this
+  Asian restaurant, particularly highlighting the satisfying hot and sour soup,
+  spring rolls, and California rolls that hit the spot for a quick, flavorful
+  meal. Many appreciate how the staff goes the extra mile to accommodate
+  preferences, like adding a kick of spice to dishes, which adds a personal
+  touch to the experience. While some note that certain items might come across
+  as milder than expected, the overall vibe remains positive with plenty of
+  solid choices that keep diners coming back. It's a reliable pick for groups or
+  solo visitors looking for comforting Asian fare, offering a balance of hits
+  that make it worth trying in the area. Overall, the consensus leans toward
+  enjoying the variety and service, making it a solid option for anyone craving
+  accessible, everyday eats.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +310,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Tokyo Belly Sushi Pocatello"
+title: Tokyo Belly Sushi Pocatello
 permalink: /idaho/pocatello/tokyo-belly-sushi-pocatello.html
 stateAbbr: ID
 stateName: Idaho
 cityName: Pocatello
 seo:
-  name: "Tokyo Belly Sushi Pocatello"
-  type: Restaurant
+  type: restaurant
   links: https://tokyobelly-pocatello.com/
-description: "Tokyo Belly Sushi Pocatello serves delicious sushi in Pocatello, Idaho. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJbfEd1lBPVVMR-3fJEwAf36U
 photos:
   - name: >-
@@ -170,7 +168,49 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x53554f50d61df16d:0xa5df1f0013c977fb!10e5
 primary_type: Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 16
+        minute: 30
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 4:30 – 9:00 PM'
     - 'Wednesday: 4:30 – 9:00 PM'
@@ -178,14 +218,7 @@ opening_hours:
     - 'Friday: 4:30 – 9:00 PM'
     - 'Saturday: 4:30 – 9:00 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 4:30 – 9:00 PM'
-    - 'Wednesday: 4:30 – 9:00 PM'
-    - 'Thursday: 4:30 – 9:00 PM'
-    - 'Friday: 4:30 – 9:00 PM'
-    - 'Saturday: 4:30 – 9:00 PM'
-    - 'Sunday: Closed'
+  nextOpenTime: '2025-05-03T22:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +230,277 @@ phone: (208) 234-1475
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.4'
-rating_count: 0
+rating_count: 329
 website: https://tokyobelly-pocatello.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Tokyo Belly Sushi in Pocatello, ID$$$Tokyo Belly Sushi in Pocatello,
+  ID, stands out as a welcoming spot for fresh sushi and Japanese-inspired
+  dishes, offering a cozy atmosphere perfect for casual dinners or quick meals.
+  The restaurant features a variety of rolls and appetizers crafted with quality
+  ingredients, making it an ideal choice for those seeking flavorful options in
+  a relaxed setting. With accessible entrances and parking, it's easy to enjoy
+  the experience whether you're dining in or taking out, especially for families
+  or groups looking for moderate-priced eats. Evening hours provide a great
+  opportunity to savor specialties like creative rolls and sides, positioning it
+  as a go-to sushi place near you for anyone craving authentic flavors without
+  the hassle.
+generative_summary: >-
+  Discover Tokyo Belly Sushi in Pocatello, ID$$$Tokyo Belly Sushi in Pocatello,
+  ID, stands out as a welcoming spot for fresh sushi and Japanese-inspired
+  dishes, offering a cozy atmosphere perfect for casual dinners or quick meals.
+  The restaurant features a variety of rolls and appetizers crafted with quality
+  ingredients, making it an ideal choice for those seeking flavorful options in
+  a relaxed setting. With accessible entrances and parking, it's easy to enjoy
+  the experience whether you're dining in or taking out, especially for families
+  or groups looking for moderate-priced eats. Evening hours provide a great
+  opportunity to savor specialties like creative rolls and sides, positioning it
+  as a go-to sushi place near you for anyone craving authentic flavors without
+  the hassle.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJbfEd1lBPVVMR-3fJEwAf36U/reviews/ChZDSUhNMG9nS0VJQ0FnSUNka2RuUlJnEAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        This is a nice little sushi place. We ate here on a Saturday around 2PM.
+        Not a common time to eat, so service was very quick and good. We had a
+        nice pleasant waitress. We ordered the Tuna Takaki as an appetizer. It
+        was okay, but not my favorite. I thought the tuna would be seared right
+        before serving, but it appears they probably sear a big hunk of tuna and
+        then cut off pieces when they need it. Not my thing, but now I know. We
+        took advantage of their three roll combo. The three roll combo is three
+        classic rolls for $20. We ordered the Philadelphia Roll, the Salmon Skin
+        Roll, and the Alaskan Roll. We love salmon, what can I say. The
+        Philadelphia Roll was our favorite of the classic rolls, the smokey
+        flavor of the salmon blends so well with the cream cheese. The Alaskan
+        Roll was a solid second place, boasting a nice salmon flavor. The Salmon
+        Skin Roll was what I would call a “oopsie”. I must’ve thought it would
+        be salmon belly, which I know I have enjoyed in the past. The Salmon
+        Skill Roll is just what it sounds like, scaly, chewy, no meat, and
+        easily my least favorite. But again that’s on me. We also ordered two
+        speciality rolls. We ordered the Long Island Roll and the City Hall
+        Roll. I highly recommend both of them. They are both a must to order. I
+        am unsure if I have a clear favorite of the two. The City Hall Roll
+        features an extremely white tuna with cream cheese and is a little
+        spicy. The contrasting colors make it look particularly appealing. The
+        Long Island Roll is a larger-than-average roll that is absolutely packed
+        full of fish. It also has white tuna as well as red snapper, yellow
+        tail, and salmon. This roll is amazing with just a little soy sauce to
+        enhance its flavor. I will have to come back to this sushi spot in the
+        future. I will need to try the Irchiro Roll and Green Delight Roll.
+
+        Overall, I recommend the Tokyo Belly Sushi.
+      languageCode: en
+    originalText:
+      text: >-
+        This is a nice little sushi place. We ate here on a Saturday around 2PM.
+        Not a common time to eat, so service was very quick and good. We had a
+        nice pleasant waitress. We ordered the Tuna Takaki as an appetizer. It
+        was okay, but not my favorite. I thought the tuna would be seared right
+        before serving, but it appears they probably sear a big hunk of tuna and
+        then cut off pieces when they need it. Not my thing, but now I know. We
+        took advantage of their three roll combo. The three roll combo is three
+        classic rolls for $20. We ordered the Philadelphia Roll, the Salmon Skin
+        Roll, and the Alaskan Roll. We love salmon, what can I say. The
+        Philadelphia Roll was our favorite of the classic rolls, the smokey
+        flavor of the salmon blends so well with the cream cheese. The Alaskan
+        Roll was a solid second place, boasting a nice salmon flavor. The Salmon
+        Skin Roll was what I would call a “oopsie”. I must’ve thought it would
+        be salmon belly, which I know I have enjoyed in the past. The Salmon
+        Skill Roll is just what it sounds like, scaly, chewy, no meat, and
+        easily my least favorite. But again that’s on me. We also ordered two
+        speciality rolls. We ordered the Long Island Roll and the City Hall
+        Roll. I highly recommend both of them. They are both a must to order. I
+        am unsure if I have a clear favorite of the two. The City Hall Roll
+        features an extremely white tuna with cream cheese and is a little
+        spicy. The contrasting colors make it look particularly appealing. The
+        Long Island Roll is a larger-than-average roll that is absolutely packed
+        full of fish. It also has white tuna as well as red snapper, yellow
+        tail, and salmon. This roll is amazing with just a little soy sauce to
+        enhance its flavor. I will have to come back to this sushi spot in the
+        future. I will need to try the Irchiro Roll and Green Delight Roll.
+
+        Overall, I recommend the Tokyo Belly Sushi.
+      languageCode: en
+    authorAttribution:
+      displayName: Ben M
+      uri: https://www.google.com/maps/contrib/107067189883491073985/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWdajULCeTuz3HFzCpp3TwA8N2VYKplAcVXzmNhfNqCOX4jKW8j=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2024-02-15T22:24:13.629307Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNka2RuUlJnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNka2RuUlJnEAE!2m1!1s0x53554f50d61df16d:0xa5df1f0013c977fb
+  - name: >-
+      places/ChIJbfEd1lBPVVMR-3fJEwAf36U/reviews/ChdDSUhNMG9nS0VJQ0FnSUNxOTk2QXZ3RRAB
+    relativePublishTimeDescription: 3 years ago
+    rating: 5
+    text:
+      text: >-
+        The server who helped our table was really friendly and attentive. The
+        fish was nice in the rolls we ordered and there was a good quantity of
+        fish to rice. The restaurant was clean and the decor interesting. A good
+        lunchtime experience and I would return when visiting Pocatello. My wife
+        likes the miso soup and I thought the dressing on the salad appetizer
+        was quite nice
+      languageCode: en
+    originalText:
+      text: >-
+        The server who helped our table was really friendly and attentive. The
+        fish was nice in the rolls we ordered and there was a good quantity of
+        fish to rice. The restaurant was clean and the decor interesting. A good
+        lunchtime experience and I would return when visiting Pocatello. My wife
+        likes the miso soup and I thought the dressing on the salad appetizer
+        was quite nice
+      languageCode: en
+    authorAttribution:
+      displayName: Brian Baity
+      uri: https://www.google.com/maps/contrib/117094853981291755836/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUaBsSzFKRmJgR0hf9dhl24gj_EmTQApXEx5BTNrlLQWa2omVBe=s128-c0x00000000-cc-rp-mo-ba7
+    publishTime: '2021-06-22T13:38:27.712522Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNxOTk2QXZ3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNxOTk2QXZ3RRAB!2m1!1s0x53554f50d61df16d:0xa5df1f0013c977fb
+  - name: >-
+      places/ChIJbfEd1lBPVVMR-3fJEwAf36U/reviews/ChdDSUhNMG9nS0VJQ0FnSURHc191SzN3RRAB
+    relativePublishTimeDescription: 3 years ago
+    rating: 5
+    text:
+      text: >-
+        Had a wonderful lunch experience here. The dining are was clean and
+        decorated. We were quickly seated by great staff. The food came fast! We
+        had the calamari, wontons, and 3 rolls (Magic, green River, and
+        Dynamite). It also came with miso soup and salad. The salad was very
+        small but the dressing was good. The miso was excellent. I thought the
+        rolls were presented beautifully and compared well to high-end sushi
+        restaurants. I was worried this would be “discount sushi” but it was
+        high quality and tasted great. If you get a chance, give them a try!
+      languageCode: en
+    originalText:
+      text: >-
+        Had a wonderful lunch experience here. The dining are was clean and
+        decorated. We were quickly seated by great staff. The food came fast! We
+        had the calamari, wontons, and 3 rolls (Magic, green River, and
+        Dynamite). It also came with miso soup and salad. The salad was very
+        small but the dressing was good. The miso was excellent. I thought the
+        rolls were presented beautifully and compared well to high-end sushi
+        restaurants. I was worried this would be “discount sushi” but it was
+        high quality and tasted great. If you get a chance, give them a try!
+      languageCode: en
+    authorAttribution:
+      displayName: Mason Jar
+      uri: https://www.google.com/maps/contrib/101762038778361059522/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXOXuc6ijXy323sV0sV_UTkLnRKKjzBJvjOrzowAQSMsiUJhJYC=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2021-12-09T01:30:57.615189Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURHc191SzN3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURHc191SzN3RRAB!2m1!1s0x53554f50d61df16d:0xa5df1f0013c977fb
+  - name: >-
+      places/ChIJbfEd1lBPVVMR-3fJEwAf36U/reviews/ChdDSUhNMG9nS0VJQ0FnSUQyNzZxbHh3RRAB
+    relativePublishTimeDescription: 2 years ago
+    rating: 4
+    text:
+      text: >-
+        I relied on the photos and the reviews to choose items for takeout
+        dinner for five persons. I am satisfied with the overall quality of the
+        food. Special mention for the fresh Chirashi sashimi over rice, and the
+        Sushi Tokyo Belly. Unagi don is OK but lacks side garnishes. Teriyaki
+        chicken is a little bit dry. Overall, I think this is among the top
+        Sushi restaurants in Pocatello.
+      languageCode: en
+    originalText:
+      text: >-
+        I relied on the photos and the reviews to choose items for takeout
+        dinner for five persons. I am satisfied with the overall quality of the
+        food. Special mention for the fresh Chirashi sashimi over rice, and the
+        Sushi Tokyo Belly. Unagi don is OK but lacks side garnishes. Teriyaki
+        chicken is a little bit dry. Overall, I think this is among the top
+        Sushi restaurants in Pocatello.
+      languageCode: en
+    authorAttribution:
+      displayName: Stephen Lee
+      uri: https://www.google.com/maps/contrib/112125762340586138954/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVZU9EVzRFs1VPC_EsIItc1KGxApAlcB2ZvFK9rhr-srro_CVbBXA=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2022-05-29T01:23:00.854314Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQyNzZxbHh3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQyNzZxbHh3RRAB!2m1!1s0x53554f50d61df16d:0xa5df1f0013c977fb
+  - name: >-
+      places/ChIJbfEd1lBPVVMR-3fJEwAf36U/reviews/ChZDSUhNMG9nS0VJQ0FnSUNfMTdEVmNBEAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: my husband & I loved it loved the staff and the food tysm
+      languageCode: en
+    originalText:
+      text: my husband & I loved it loved the staff and the food tysm
+      languageCode: en
+    authorAttribution:
+      displayName: Tlan
+      uri: https://www.google.com/maps/contrib/105786788492528587081/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKOoCAqbVpB909dyeNsEgicpgFdTEkKa_nytE4KRpLdTMghvw=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-01-19T19:00:36.613985Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNfMTdEVmNBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNfMTdEVmNBEAE!2m1!1s0x53554f50d61df16d:0xa5df1f0013c977fb
+review_summary: >-
+  What Customers Are Saying About This Sushi Spot$$$Visitors to this local sushi
+  restaurant often praise the fresh, well-prepared rolls and attentive service
+  that make every meal feel enjoyable and straightforward. Many highlight the
+  generous portions and tasty combinations, like the creative specials that
+  blend flavors just right, making it a solid pick for anyone hunting for
+  top-rated sushi nearby. While some note minor inconsistencies, such as certain
+  items feeling a bit simple, the overall vibe remains positive with quick
+  delivery and a clean environment enhancing the experience. Folks appreciate
+  the variety that caters to different tastes, from classic options to more
+  adventurous picks, encouraging repeat visits for a satisfying bite. In
+  general, it's clear that this spot delivers a reliable and fun dining option
+  that keeps sushi lovers coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
+delivery: true
+dine_in: true
 good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: true
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
 serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_coffee: true
+serves_dinner: true
+serves_dessert: true
+serves_lunch: false
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

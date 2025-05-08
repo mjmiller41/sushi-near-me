@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Suzuki"
+title: Sushi Suzuki
 permalink: /new-jersey/metuchen/sushi-suzuki.html
 stateAbbr: NJ
 stateName: New Jersey
 cityName: Metuchen
 seo:
-  name: "Sushi Suzuki"
-  type: Restaurant
+  type: restaurant
   links: https://www.sushisuzukinj.com/
-description: "Small joint providing sushi entrees & à la carte options along with other Japanese eats. Sushi Suzuki serves delicious sushi in Metuchen, New Jersey. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJAe6mm823w4kRf_PI4YSdLRU
 photos:
   - name: >-
@@ -183,6 +181,31 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 0
 website: https://www.sushisuzukinj.com/
+description: >-
+  Discover Sushi Suzuki in Metuchen, NJ$$$Nestled in the heart of Metuchen, NJ,
+  Sushi Suzuki stands out as a cozy spot for fresh sushi and Japanese-inspired
+  dishes that appeal to locals seeking authentic flavors. This casual eatery
+  offers a variety of sushi options alongside other Asian favorites, making it a
+  go-to choice for those exploring sushi restaurants in the area. With its
+  welcoming atmosphere and accessibility features like wheelchair-friendly
+  parking and restrooms, it caters to a wide range of diners looking for a
+  relaxed meal. The menu highlights fresh ingredients in moderately priced
+  entrees, including teas that complement the dining experience. Whether you're
+  searching for top-rated sushi spots nearby, Sushi Suzuki delivers a simple yet
+  satisfying escape for everyday enjoyment.
+generative_summary: >-
+  Discover Sushi Suzuki in Metuchen, NJ$$$Nestled in the heart of Metuchen, NJ,
+  Sushi Suzuki stands out as a cozy spot for fresh sushi and Japanese-inspired
+  dishes that appeal to locals seeking authentic flavors. This casual eatery
+  offers a variety of sushi options alongside other Asian favorites, making it a
+  go-to choice for those exploring sushi restaurants in the area. With its
+  welcoming atmosphere and accessibility features like wheelchair-friendly
+  parking and restrooms, it caters to a wide range of diners looking for a
+  relaxed meal. The menu highlights fresh ingredients in moderately priced
+  entrees, including teas that complement the dining experience. Whether you're
+  searching for top-rated sushi spots nearby, Sushi Suzuki delivers a simple yet
+  satisfying escape for everyday enjoyment.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJAe6mm823w4kRf_PI4YSdLRU/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJMk9LaFh3EAE
@@ -322,6 +345,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNfcHVEWVhBEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNfcHVEWVhBEAE!2m1!1s0x89c3b7cd9ba6ee01:0x152d9d84e1c8f37f
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors to this sushi spot often rave about
+  the fresh flavors and reliable service, with many highlighting the tasty rolls
+  and great value lunch specials as standout features. While some folks have
+  enjoyed quick delivery and a comfortable vibe that makes it feel like a hidden
+  gem for casual meals, others note occasional inconsistencies in preparation
+  that can affect the overall taste. Overall, the positive experiences tend to
+  outweigh the mixed ones, painting a picture of a place that's worth trying for
+  anyone craving quality sushi without the fuss. It's clear that regulars
+  appreciate the affordability and variety, though it's wise to keep
+  expectations in check for the occasional off day. If you're on the hunt for
+  sushi places near you, this spot earns solid marks for its approachable vibe
+  and generally satisfying dishes.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   valetParking: false
 payment_options:
@@ -352,8 +389,8 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Small joint providing sushi entrees & à la carte options along with other
   Japanese eats.
 

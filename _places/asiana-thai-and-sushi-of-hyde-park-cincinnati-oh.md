@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Asiana Thai and Sushi of Hyde Park"
+title: Asiana Thai and Sushi of Hyde Park
 permalink: /ohio/cincinnati/asiana-thai-and-sushi-of-hyde-park.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Cincinnati
 seo:
-  name: "Asiana Thai and Sushi of Hyde Park"
-  type: Restaurant
-  links: null
-description: "Asiana Thai and Sushi of Hyde Park serves delicious sushi in Cincinnati, Ohio. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.asianacincinnati.com/
 place_id: ChIJ30muaoGyQYgRrX0KTqNEgU4
 photos:
   - name: >-
@@ -169,8 +167,105 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8841b2816aae49df:0x4e8144a34e0a7dad!10e5
 primary_type: Thai Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 30
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 2:30 PM, 5:00 – 9:30 PM'
+    - 'Tuesday: 11:00 AM – 2:30 PM, 5:00 – 9:30 PM'
+    - 'Wednesday: 11:00 AM – 2:30 PM, 5:00 – 9:30 PM'
+    - 'Thursday: 11:00 AM – 2:30 PM, 5:00 – 9:30 PM'
+    - 'Friday: 11:00 AM – 2:30 PM, 5:00 – 10:00 PM'
+    - 'Saturday: 12:00 – 10:00 PM'
+    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -178,13 +273,49 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: +1-513-351-0999
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (513) 351-0999
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.8'
+rating_count: 1779
+website: http://www.asianacincinnati.com/
+description: >-
+  Discover Asiana Thai and Sushi in Cincinnati, OH$$$Asiana Thai and Sushi of
+  Hyde Park in Cincinnati, OH, offers a welcoming spot for enjoying fresh Asian
+  flavors, blending Thai classics with expertly crafted sushi options. This BYOB
+  venue highlights a variety of traditional dishes like flavorful noodles and
+  aromatic stir-fries, making it a go-to choice for those exploring sushi
+  restaurants in the area. With its accessible features and cozy setup, the
+  restaurant provides a relaxed atmosphere perfect for casual meals or
+  gatherings, emphasizing generous portions at moderate prices. Operating with
+  convenient hours throughout the week, it's an ideal destination for anyone
+  searching for authentic Asian dining experiences nearby, ensuring a satisfying
+  visit every time.
+generative_summary: >-
+  Discover Asiana Thai and Sushi in Cincinnati, OH$$$Asiana Thai and Sushi of
+  Hyde Park in Cincinnati, OH, offers a welcoming spot for enjoying fresh Asian
+  flavors, blending Thai classics with expertly crafted sushi options. This BYOB
+  venue highlights a variety of traditional dishes like flavorful noodles and
+  aromatic stir-fries, making it a go-to choice for those exploring sushi
+  restaurants in the area. With its accessible features and cozy setup, the
+  restaurant provides a relaxed atmosphere perfect for casual meals or
+  gatherings, emphasizing generous portions at moderate prices. Operating with
+  convenient hours throughout the week, it's an ideal destination for anyone
+  searching for authentic Asian dining experiences nearby, ensuring a satisfying
+  visit every time.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Recent Feedback$$$Folks rave about the tasty offerings at this
+  spot, particularly the fresh sushi and hearty Thai favorites like papaya salad
+  and noodles, which come with plenty of portions to keep everyone happy. Many
+  appreciate the quick and friendly service that keeps things running smoothly,
+  making it easy to enjoy a meal without any fuss. The warm, inviting vibe adds
+  to the overall charm, creating a comfortable setting for casual get-togethers
+  or solo diners. While opinions highlight consistent flavors and efficient
+  operations, it's clear this place stands out as a reliable choice for quality
+  Asian cuisine, encouraging visitors to return for more satisfying experiences.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +341,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

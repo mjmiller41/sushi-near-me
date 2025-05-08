@@ -5,4 +5,5 @@ permalink: /california/newark/
 stateAbbr: CA
 stateName: California
 cityName: Newark
+
 ---

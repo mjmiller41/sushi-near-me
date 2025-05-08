@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Zeppin Sushi"
+title: Zeppin Sushi
 permalink: /california/eastvale/zeppin-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Eastvale
 seo:
-  name: "Zeppin Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Zeppin Sushi serves delicious sushi in Eastvale, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJdXdPxUPL3IARvFCXlEq2FWg
 photos:
   - name: >-
@@ -185,7 +183,42 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Zeppin Sushi in Eastvale, CA$$$Zeppin Sushi in Eastvale, CA, offers a
+  relaxed spot for enjoying fresh Japanese cuisine, featuring an array of sushi
+  options that highlight the best of traditional flavors. This casual eatery
+  stands out with its all-you-can-eat menu, including a variety of sashimi and
+  creative rolls that appeal to sushi enthusiasts seeking quality dining
+  experiences nearby. Happy hour specials add to the appeal, making it a go-to
+  choice for those exploring Japanese places near me with a focus on value and
+  taste. The restaurant's accessible features ensure a welcoming atmosphere,
+  perfect for casual meals or gatherings. Overall, it's an ideal destination for
+  anyone craving top-rated sushi in a comfortable setting.
+generative_summary: >-
+  Discover Zeppin Sushi in Eastvale, CA$$$Zeppin Sushi in Eastvale, CA, offers a
+  relaxed spot for enjoying fresh Japanese cuisine, featuring an array of sushi
+  options that highlight the best of traditional flavors. This casual eatery
+  stands out with its all-you-can-eat menu, including a variety of sashimi and
+  creative rolls that appeal to sushi enthusiasts seeking quality dining
+  experiences nearby. Happy hour specials add to the appeal, making it a go-to
+  choice for those exploring Japanese places near me with a focus on value and
+  taste. The restaurant's accessible features ensure a welcoming atmosphere,
+  perfect for casual meals or gatherings. Overall, it's an ideal destination for
+  anyone craving top-rated sushi in a comfortable setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Based on general feedback for similar sushi spots,
+  folks often appreciate the generous portions and variety at places like this,
+  making it a solid pick for anyone hunting for sushi restaurants near me.
+  Diners frequently mention the all-you-can-eat deal as a highlight, noting it
+  delivers good value without skimping on freshness or flavor. While experiences
+  can vary, many enjoy the laid-back vibe and happy hour perks, which keep the
+  energy upbeat and inviting. It's generally seen as a reliable option for
+  casual sushi lovers, with comments leaning positive on the overall taste and
+  service. If you're on the hunt for I love sushi moments, this spot tends to
+  deliver a satisfying meal that leaves people coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +244,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

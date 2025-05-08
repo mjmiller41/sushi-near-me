@@ -5,4 +5,5 @@ permalink: /maryland/pasadena/
 stateAbbr: MD
 stateName: Maryland
 cityName: Pasadena
+
 ---

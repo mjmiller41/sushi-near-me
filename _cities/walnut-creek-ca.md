@@ -5,4 +5,5 @@ permalink: /california/walnut-creek/
 stateAbbr: CA
 stateName: California
 cityName: Walnut Creek
+
 ---

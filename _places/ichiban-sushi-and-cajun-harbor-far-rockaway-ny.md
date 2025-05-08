@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ichiban sushi and cajun harbor"
+title: Ichiban sushi and cajun harbor
 permalink: /new-york/far-rockaway/ichiban-sushi-and-cajun-harbor.html
 stateAbbr: NY
 stateName: New York
 cityName: Far Rockaway
 seo:
-  name: "Ichiban sushi and cajun harbor"
-  type: Restaurant
-  links: null
-description: "Ichiban sushi and cajun harbor serves delicious sushi in Far Rockaway, New York. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.ichibansushiandcajunharbor.com/
 place_id: ChIJ0XgEcNlpwokR4mebsuU2sQ0
 photos:
   - name: >-
@@ -142,15 +140,15 @@ photos:
       https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDju5fNtAE&hl=en-US
     googleMapsUri: >-
       https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDju5fNtAE!2e10!4m2!3m1!1s0x89c269d9700478d1:0xdb136e5b29b67e2
-address: '233 Beach 20th St #A, Far Rockaway, NY 11691, USA'
-street: '233 Beach 20th St #A'
+address: 233 Beach 20th St, Far Rockaway, NY 11691, USA
+street: 233 Beach 20th St
 city: Far Rockaway
 state: NY
 zip: '11691'
 country: USA
 neighborhood: Far Rockaway
-latitude: '40.596485'
-longitude: '-73.754454'
+latitude: '40.596416'
+longitude: '-73.754463'
 accessibility_options:
   wheelchairAccessibleEntrance: true
   wheelchairAccessibleRestroom: false
@@ -169,8 +167,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c269d9700478d1:0xdb136e5b29b67e2!10e5
 primary_type: Seafood Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 10:00 PM'
+    - 'Tuesday: 11:00 AM – 10:00 PM'
+    - 'Wednesday: 11:00 AM – 10:00 PM'
+    - 'Thursday: 11:00 AM – 10:00 PM'
+    - 'Friday: 11:00 AM – 10:30 PM'
+    - 'Saturday: 11:00 AM – 10:30 PM'
+    - 'Sunday: 11:00 AM – 10:00 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -178,13 +241,52 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
+phone: (347) 246-6441
+price_level: PRICE_LEVEL_MODERATE
 price_range: null
-rating: null
-rating_count: 0
-website: null
+rating: '4.2'
+rating_count: 117
+website: https://www.ichibansushiandcajunharbor.com/
+description: >-
+  Discover Ichiban Sushi in Far Rockaway, NY$$$Ichiban Sushi and Cajun Harbor in
+  Far Rockaway, NY, offers a delightful blend of fresh sushi and Cajun flavors,
+  making it a standout spot for seafood lovers seeking variety near the coast.
+  This welcoming restaurant features an array of expertly prepared rolls and
+  dishes that highlight high-quality ingredients, paired with accessible seating
+  options for a comfortable dining experience. Open daily from late morning into
+  the evening, it's ideal for casual meals or group gatherings, with
+  wheelchair-friendly entrances adding to its appeal for all visitors. The
+  moderate pricing ensures it's an approachable choice for those exploring
+  top-rated sushi restaurants in the area, where the fusion of Japanese and
+  Southern influences creates a unique culinary adventure.
+generative_summary: >-
+  Discover Ichiban Sushi in Far Rockaway, NY$$$Ichiban Sushi and Cajun Harbor in
+  Far Rockaway, NY, offers a delightful blend of fresh sushi and Cajun flavors,
+  making it a standout spot for seafood lovers seeking variety near the coast.
+  This welcoming restaurant features an array of expertly prepared rolls and
+  dishes that highlight high-quality ingredients, paired with accessible seating
+  options for a comfortable dining experience. Open daily from late morning into
+  the evening, it's ideal for casual meals or group gatherings, with
+  wheelchair-friendly entrances adding to its appeal for all visitors. The
+  moderate pricing ensures it's an approachable choice for those exploring
+  top-rated sushi restaurants in the area, where the fusion of Japanese and
+  Southern influences creates a unique culinary adventure.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Buzzing About$$$Folks heading to sushi spots like this one
+  often rave about the fresh, flavorful rolls and generous portions that keep
+  things satisfying without breaking the bank. Many appreciate the friendly
+  service and relaxed vibe, noting that it's a solid pick for families or
+  friends looking for reliable Japanese-inspired eats close to home. While some
+  mention the occasional wait during peak hours, the overall consensus leans
+  positive, with highlights on the tasty Cajun twists that add an unexpected fun
+  element to the menu. It's generally seen as a go-to for quality sushi
+  experiences, where the solid 4.2 rating reflects consistent enjoyment from
+  diners seeking the best options nearby. All in all, if you're on the hunt for
+  great sushi places near you, this spot delivers a worthwhile visit with its
+  approachable atmosphere and dependable flavors.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +312,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

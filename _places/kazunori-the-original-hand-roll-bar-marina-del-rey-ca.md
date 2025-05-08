@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "KazuNori: The Original Hand Roll Bar"
+title: 'KazuNori: The Original Hand Roll Bar'
 permalink: /california/marina-del-rey/kazunori-the-original-hand-roll-bar.html
 stateAbbr: CA
 stateName: California
 cityName: Marina Del Rey
 seo:
-  name: "KazuNori: The Original Hand Roll Bar"
-  type: Restaurant
-  links: null
-description: "KazuNori: The Original Hand Roll Bar serves delicious sushi in Marina Del Rey, California. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://www.handrollbar.com/marina-del-rey/
 place_id: ChIJOygb-q67woAR3bO7fi_yXkA
 photos:
   - name: >-
@@ -169,8 +167,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80c2bbaefa1b283b:0x405ef22f7ebbb3dd!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 30
+      close:
+        day: 0
+        hour: 23
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 30
+      close:
+        day: 1
+        hour: 23
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 23
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 23
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 23
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 23
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 30
+      close:
+        day: 6
+        hour: 23
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:30 AM – 11:00 PM'
+    - 'Tuesday: 11:30 AM – 11:00 PM'
+    - 'Wednesday: 11:30 AM – 11:00 PM'
+    - 'Thursday: 11:30 AM – 11:00 PM'
+    - 'Friday: 11:30 AM – 11:30 PM'
+    - 'Saturday: 11:30 AM – 11:30 PM'
+    - 'Sunday: 11:30 AM – 11:00 PM'
+  nextCloseTime: '2025-05-04T06:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -178,13 +241,48 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
+phone: (424) 334-1644
 price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+price_range: $30 &ndash; $50
+rating: '4.6'
+rating_count: 446
+website: https://www.handrollbar.com/marina-del-rey/
+description: >-
+  Discover KazuNori in Marina Del Rey, CA$$$KazuNori: The Original Hand Roll Bar
+  in Marina Del Rey, CA, stands out as a premier destination for fresh sushi
+  experiences along the coast. This spot specializes in expertly crafted hand
+  rolls featuring high-quality fish and perfectly textured seaweed, making it a
+  favorite for those seeking authentic Japanese flavors. With its accessible
+  entrance and ample parking, it's designed to welcome everyone looking for a
+  convenient dining option. The restaurant maintains extended hours, allowing
+  visitors to enjoy a casual meal or quick bite throughout the day and evening.
+  Whether you're exploring top-rated sushi options nearby or craving a simple
+  yet satisfying meal, KazuNori delivers a memorable vibe in a relaxed setting.
+generative_summary: >-
+  Discover KazuNori in Marina Del Rey, CA$$$KazuNori: The Original Hand Roll Bar
+  in Marina Del Rey, CA, stands out as a premier destination for fresh sushi
+  experiences along the coast. This spot specializes in expertly crafted hand
+  rolls featuring high-quality fish and perfectly textured seaweed, making it a
+  favorite for those seeking authentic Japanese flavors. With its accessible
+  entrance and ample parking, it's designed to welcome everyone looking for a
+  convenient dining option. The restaurant maintains extended hours, allowing
+  visitors to enjoy a casual meal or quick bite throughout the day and evening.
+  Whether you're exploring top-rated sushi options nearby or craving a simple
+  yet satisfying meal, KazuNori delivers a memorable vibe in a relaxed setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this sushi spot often rave about the
+  tasty hand rolls, with standout flavors like rich toro and fresh yellowtail
+  that keep things light and satisfying. Many appreciate the welcoming service
+  that makes every meal feel effortless and enjoyable, without any unnecessary
+  fuss. Folks highlight the fair pricing as a great value for the quality,
+  making it an easy choice for a casual outing or group gathering. Overall, the
+  quick service and efficient atmosphere add to the appeal, ensuring you can
+  dive into your meal without long delays. If you're on the hunt for reliable
+  sushi places near you, this location consistently earns nods for its solid
+  offerings and positive vibes.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +308,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

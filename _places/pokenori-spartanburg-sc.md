@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Pokenori"
+title: Pokenori
 permalink: /south-carolina/spartanburg/pokenori.html
 stateAbbr: SC
 stateName: South Carolina
 cityName: Spartanburg
 seo:
-  name: "Pokenori"
-  type: Restaurant
+  type: restaurant
   links: https://www.pokenori.co/
-description: "Made-to-order poke bowls & sushi burritos offered in a cool, brick-lined space with counter-service. Pokenori serves delicious sushi in Spartanburg, South Carolina. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJA1PP0vR1V4gRHGG8DzxALeY
 photos:
   - name: >-
@@ -185,6 +183,35 @@ price_range: $10 &ndash; $20
 rating: '4.6'
 rating_count: 0
 website: https://www.pokenori.co/
+description: >-
+  Explore Pokenori in Spartanburg, SC$$$Pokenori in Spartanburg, SC, stands out
+  as a welcoming Japanese restaurant specializing in fresh poke bowls and
+  inventive sushi burritos, perfect for those seeking sushi options in a vibrant
+  setting. The spot features a cool, brick-lined interior with counter-service
+  that makes it easy to customize your meal, complemented by refreshing bubble
+  tea for a satisfying finish. Accessibility is a key highlight, with
+  wheelchair-friendly parking, entrances, restrooms, and seating, ensuring a
+  comfortable visit for all. This establishment offers moderately priced dishes
+  ranging from $10 to $20, making it an appealing choice for sushi enthusiasts
+  looking for quality and variety. Whether you're in the mood for a quick lunch
+  or a casual dinner, Pokenori delivers a blend of fresh ingredients and
+  creative flavors that capture the essence of Japanese-inspired cuisine near
+  you.
+generative_summary: >-
+  Explore Pokenori in Spartanburg, SC$$$Pokenori in Spartanburg, SC, stands out
+  as a welcoming Japanese restaurant specializing in fresh poke bowls and
+  inventive sushi burritos, perfect for those seeking sushi options in a vibrant
+  setting. The spot features a cool, brick-lined interior with counter-service
+  that makes it easy to customize your meal, complemented by refreshing bubble
+  tea for a satisfying finish. Accessibility is a key highlight, with
+  wheelchair-friendly parking, entrances, restrooms, and seating, ensuring a
+  comfortable visit for all. This establishment offers moderately priced dishes
+  ranging from $10 to $20, making it an appealing choice for sushi enthusiasts
+  looking for quality and variety. Whether you're in the mood for a quick lunch
+  or a casual dinner, Pokenori delivers a blend of fresh ingredients and
+  creative flavors that capture the essence of Japanese-inspired cuisine near
+  you.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJA1PP0vR1V4gRHGG8DzxALeY/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3NTZUR3dnRRAB
@@ -340,6 +367,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNnMk1EM3NnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNnMk1EM3NnRRAB!2m1!1s0x885775f4d2cf5303:0xe62d403c0fbc611c
+review_summary: >-
+  Customer Favorites at Pokenori$$$Folks are buzzing about the fresh and
+  flavorful poke bowls and sushi burritos at this spot, with many highlighting
+  the generous portions and tasty toppings that make every bite worthwhile.
+  Reviewers often mention the unbeatable value for the price, praising how the
+  fish stays super fresh and the options for customization keep things exciting
+  for repeat visits. The atmosphere comes across as clean and inviting, paired
+  with friendly service that adds to the overall enjoyable experience. If you're
+  on the hunt for top-rated sushi in the area, this place consistently delivers
+  on quality and satisfaction, making it a go-to for casual meals. Overall, it's
+  clear that diners appreciate the reliable vibes and delicious offerings,
+  encouraging others to give it a try for a positive dining adventure.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -373,8 +413,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Made-to-order poke bowls & sushi burritos offered in a cool, brick-lined space
   with counter-service.
 

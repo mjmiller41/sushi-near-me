@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Poke Japanese Restaurant"
+title: Poke Japanese Restaurant
 permalink: /new-york/new-york/poke-japanese-restaurant.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "Poke Japanese Restaurant"
-  type: Restaurant
-  links: null
-description: "Poke Japanese Restaurant serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://pokerestaurantnyc.com/
 place_id: ChIJu25Iu7tYwokRS9eaSuLSwxE
 photos:
   - name: >-
@@ -170,22 +168,407 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x89c258bbbb486ebb:0x11c3d2e24a9ad74b!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 5:00 – 9:30 PM'
+    - 'Tuesday: 5:00 – 9:30 PM'
+    - 'Wednesday: 5:00 – 9:30 PM'
+    - 'Thursday: 5:00 – 9:30 PM'
+    - 'Friday: 5:00 – 10:00 PM'
+    - 'Saturday: 5:00 – 10:00 PM'
+    - 'Sunday: Closed'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+  - openNow: true
+    periods:
+      - open:
+          day: 1
+          hour: 17
+          minute: 0
+        close:
+          day: 1
+          hour: 21
+          minute: 30
+      - open:
+          day: 2
+          hour: 17
+          minute: 0
+        close:
+          day: 2
+          hour: 21
+          minute: 30
+      - open:
+          day: 3
+          hour: 17
+          minute: 0
+        close:
+          day: 3
+          hour: 21
+          minute: 30
+      - open:
+          day: 4
+          hour: 17
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 30
+      - open:
+          day: 5
+          hour: 17
+          minute: 0
+        close:
+          day: 5
+          hour: 21
+          minute: 30
+      - open:
+          day: 6
+          hour: 17
+          minute: 0
+        close:
+          day: 6
+          hour: 21
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 5:00 – 9:30 PM'
+      - 'Tuesday: 5:00 – 9:30 PM'
+      - 'Wednesday: 5:00 – 9:30 PM'
+      - 'Thursday: 5:00 – 9:30 PM'
+      - 'Friday: 5:00 – 9:30 PM'
+      - 'Saturday: 5:00 – 9:30 PM'
+      - 'Sunday: Closed'
+    secondaryHoursType: DELIVERY
+    nextCloseTime: '2025-05-04T01:30:00Z'
+  - openNow: true
+    periods:
+      - open:
+          day: 1
+          hour: 17
+          minute: 0
+        close:
+          day: 1
+          hour: 21
+          minute: 30
+      - open:
+          day: 2
+          hour: 17
+          minute: 0
+        close:
+          day: 2
+          hour: 21
+          minute: 30
+      - open:
+          day: 3
+          hour: 17
+          minute: 0
+        close:
+          day: 3
+          hour: 21
+          minute: 30
+      - open:
+          day: 4
+          hour: 17
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 30
+      - open:
+          day: 5
+          hour: 17
+          minute: 0
+        close:
+          day: 5
+          hour: 21
+          minute: 30
+      - open:
+          day: 6
+          hour: 17
+          minute: 0
+        close:
+          day: 6
+          hour: 21
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 5:00 – 9:30 PM'
+      - 'Tuesday: 5:00 – 9:30 PM'
+      - 'Wednesday: 5:00 – 9:30 PM'
+      - 'Thursday: 5:00 – 9:30 PM'
+      - 'Friday: 5:00 – 9:30 PM'
+      - 'Saturday: 5:00 – 9:30 PM'
+      - 'Sunday: Closed'
+    secondaryHoursType: TAKEOUT
+    nextCloseTime: '2025-05-04T01:30:00Z'
+  - openNow: true
+    periods:
+      - open:
+          day: 1
+          hour: 17
+          minute: 0
+        close:
+          day: 1
+          hour: 21
+          minute: 30
+      - open:
+          day: 2
+          hour: 17
+          minute: 0
+        close:
+          day: 2
+          hour: 21
+          minute: 30
+      - open:
+          day: 3
+          hour: 17
+          minute: 0
+        close:
+          day: 3
+          hour: 21
+          minute: 30
+      - open:
+          day: 4
+          hour: 17
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 30
+      - open:
+          day: 5
+          hour: 17
+          minute: 0
+        close:
+          day: 5
+          hour: 21
+          minute: 30
+      - open:
+          day: 6
+          hour: 17
+          minute: 0
+        close:
+          day: 6
+          hour: 21
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 5:00 – 9:30 PM'
+      - 'Tuesday: 5:00 – 9:30 PM'
+      - 'Wednesday: 5:00 – 9:30 PM'
+      - 'Thursday: 5:00 – 9:30 PM'
+      - 'Friday: 5:00 – 9:30 PM'
+      - 'Saturday: 5:00 – 9:30 PM'
+      - 'Sunday: Closed'
+    secondaryHoursType: KITCHEN
+    nextCloseTime: '2025-05-04T01:30:00Z'
+  - openNow: true
+    periods:
+      - open:
+          day: 1
+          hour: 17
+          minute: 0
+        close:
+          day: 1
+          hour: 21
+          minute: 30
+      - open:
+          day: 2
+          hour: 17
+          minute: 0
+        close:
+          day: 2
+          hour: 21
+          minute: 30
+      - open:
+          day: 3
+          hour: 17
+          minute: 0
+        close:
+          day: 3
+          hour: 21
+          minute: 30
+      - open:
+          day: 4
+          hour: 17
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 30
+      - open:
+          day: 5
+          hour: 17
+          minute: 0
+        close:
+          day: 5
+          hour: 21
+          minute: 30
+      - open:
+          day: 6
+          hour: 17
+          minute: 0
+        close:
+          day: 6
+          hour: 21
+          minute: 30
+    weekdayDescriptions:
+      - 'Monday: 5:00 – 9:30 PM'
+      - 'Tuesday: 5:00 – 9:30 PM'
+      - 'Wednesday: 5:00 – 9:30 PM'
+      - 'Thursday: 5:00 – 9:30 PM'
+      - 'Friday: 5:00 – 9:30 PM'
+      - 'Saturday: 5:00 – 9:30 PM'
+      - 'Sunday: Closed'
+    secondaryHoursType: ONLINE_SERVICE_HOURS
+    nextCloseTime: '2025-05-04T01:30:00Z'
+  - openNow: true
+    periods:
+      - open:
+          day: 1
+          hour: 17
+          minute: 0
+        close:
+          day: 1
+          hour: 21
+          minute: 30
+      - open:
+          day: 2
+          hour: 17
+          minute: 0
+        close:
+          day: 2
+          hour: 21
+          minute: 30
+      - open:
+          day: 3
+          hour: 17
+          minute: 0
+        close:
+          day: 3
+          hour: 21
+          minute: 30
+      - open:
+          day: 4
+          hour: 17
+          minute: 0
+        close:
+          day: 4
+          hour: 21
+          minute: 30
+      - open:
+          day: 5
+          hour: 17
+          minute: 0
+        close:
+          day: 5
+          hour: 22
+          minute: 0
+      - open:
+          day: 6
+          hour: 17
+          minute: 0
+        close:
+          day: 6
+          hour: 22
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 5:00 – 9:30 PM'
+      - 'Tuesday: 5:00 – 9:30 PM'
+      - 'Wednesday: 5:00 – 9:30 PM'
+      - 'Thursday: 5:00 – 9:30 PM'
+      - 'Friday: 5:00 – 10:00 PM'
+      - 'Saturday: 5:00 – 10:00 PM'
+      - 'Sunday: Closed'
+    secondaryHoursType: DINNER
+    nextCloseTime: '2025-05-04T02:00:00Z'
+phone: (212) 249-0569
+price_level: PRICE_LEVEL_MODERATE
+price_range: $30 &ndash; $50
+rating: '4.3'
+rating_count: 284
+website: http://pokerestaurantnyc.com/
+description: >-
+  Discover Poke Japanese Restaurant in New York$$$Poke Japanese Restaurant in
+  New York, NY, stands out as a welcoming spot for savoring authentic Japanese
+  flavors, including fresh sushi and other traditional dishes. This cozy venue
+  operates on a cash-only basis and allows guests to bring their own beverages,
+  creating a relaxed and personalized dining atmosphere. With its focus on
+  quality ingredients and accessible features like wheelchair-friendly
+  entrances, it caters to a wide range of visitors seeking a genuine taste of
+  Japanese cuisine. The intimate setting makes it an excellent choice for those
+  exploring nearby sushi options in a vibrant urban area. Evening hours from 5
+  PM add to its appeal for casual dinners in the heart of the city.
+generative_summary: >-
+  Discover Poke Japanese Restaurant in New York$$$Poke Japanese Restaurant in
+  New York, NY, stands out as a welcoming spot for savoring authentic Japanese
+  flavors, including fresh sushi and other traditional dishes. This cozy venue
+  operates on a cash-only basis and allows guests to bring their own beverages,
+  creating a relaxed and personalized dining atmosphere. With its focus on
+  quality ingredients and accessible features like wheelchair-friendly
+  entrances, it caters to a wide range of visitors seeking a genuine taste of
+  Japanese cuisine. The intimate setting makes it an excellent choice for those
+  exploring nearby sushi options in a vibrant urban area. Evening hours from 5
+  PM add to its appeal for casual dinners in the heart of the city.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Folks heading to Poke Japanese Restaurant often
+  praise the fresh sushi and flavorful Japanese dishes that deliver a satisfying
+  meal every time. Many highlight the cozy, intimate vibe that makes it feel
+  like a hidden gem for relaxed evenings out. The service gets consistent nods
+  for being friendly and attentive, helping to create a welcoming experience
+  overall. While the cash-only policy is noted, visitors generally find the
+  prices reasonable for the quality and authenticity on offer. In general, it's
+  a solid pick for anyone craving top Japanese eats nearby, with the high
+  ratings reflecting a positive buzz among diners.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +594,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

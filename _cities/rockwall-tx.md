@@ -5,4 +5,5 @@ permalink: /texas/rockwall/
 stateAbbr: TX
 stateName: Texas
 cityName: Rockwall
+
 ---

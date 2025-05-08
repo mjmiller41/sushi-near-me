@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Mr. Sushi"
+title: Mr. Sushi
 permalink: /massachusetts/arlington/mr-sushi.html
 stateAbbr: MA
 stateName: Massachusetts
 cityName: Arlington
 seo:
-  name: "Mr. Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://mrsushi.raniii.com/
-description: "Unadorned spot providing standard sushi options & other traditional Japanese eats. Mr. Sushi serves delicious sushi in Arlington, Massachusetts. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJM7cgC1B244kRGAxn21l8vJE
 photos:
   - name: >-
@@ -185,6 +183,31 @@ price_range: $20 &ndash; $30
 rating: '4.2'
 rating_count: 0
 website: http://mrsushi.raniii.com/
+description: >-
+  Discover Mr. Sushi in Arlington, MA$$$Mr. Sushi in Arlington, MA, is a casual
+  Japanese restaurant that delights with its array of fresh sushi and
+  traditional dishes, making it a go-to option for those seeking sushi
+  restaurants in the area. The spot offers a straightforward menu featuring
+  familiar fare like sake and other Japanese favorites, all prepared with
+  quality ingredients that highlight authentic flavors. Accessibility features
+  such as wheelchair-friendly entrances and seating add to its appeal for a wide
+  range of diners, while the moderate price range ensures a satisfying meal
+  without breaking the bank. Whether you're looking for sushi places near me or
+  a relaxed spot for everyday dining, this eatery provides a welcoming
+  atmosphere that complements its solid selection of options.
+generative_summary: >-
+  Discover Mr. Sushi in Arlington, MA$$$Mr. Sushi in Arlington, MA, is a casual
+  Japanese restaurant that delights with its array of fresh sushi and
+  traditional dishes, making it a go-to option for those seeking sushi
+  restaurants in the area. The spot offers a straightforward menu featuring
+  familiar fare like sake and other Japanese favorites, all prepared with
+  quality ingredients that highlight authentic flavors. Accessibility features
+  such as wheelchair-friendly entrances and seating add to its appeal for a wide
+  range of diners, while the moderate price range ensures a satisfying meal
+  without breaking the bank. Whether you're looking for sushi places near me or
+  a relaxed spot for everyday dining, this eatery provides a welcoming
+  atmosphere that complements its solid selection of options.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJM7cgC1B244kRGAxn21l8vJE/reviews/ChdDSUhNMG9nS0VJQ0FnSURYbzVpTDJRRRAB
@@ -336,6 +359,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQ3Mk15RHFnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQ3Mk15RHFnRRAB!2m1!1s0x89e376500b20b733:0x91bc7c59db670c18
+review_summary: >-
+  What Customers Are Saying$$$Folks who've visited this spot often rave about
+  the tasty sushi and Japanese dishes, praising the fresh ingredients and
+  flavorful results that make every bite enjoyable. Many appreciate the quick
+  service and friendly vibe, which help create a hassle-free experience whether
+  you're stopping in for lunch or grabbing takeout. It's frequently noted as a
+  solid value, with generous portions that satisfy without feeling overpriced,
+  and the variety of options appeals to both classic tastes and those open to
+  fusion elements. Overall, the feedback leans positive, suggesting it's a
+  reliable choice for anyone in the mood for quality Japanese cuisine. If you're
+  hunting for top-rated sushi nearby, this place seems to deliver consistently
+  enjoyable meals that keep people coming back.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   paidStreetParking: true
   valetParking: false
@@ -367,8 +403,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Unadorned spot providing standard sushi options & other traditional Japanese
   eats.
 

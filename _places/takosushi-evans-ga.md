@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Takosushi"
+title: Takosushi
 permalink: /georgia/evans/takosushi.html
 stateAbbr: GA
 stateName: Georgia
 cityName: Evans
 seo:
-  name: "Takosushi"
-  type: Restaurant
-  links: null
-description: "Takosushi serves delicious sushi in Evans, Georgia. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: http://www.tako-sushi.com/
 place_id: ChIJk4dztqbU-YgRpFlWMl5Ph1w
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x88f9d4a6b6738793:0x5c874f5e325659a4!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 9:00 PM'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 9:30 PM'
+    - 'Saturday: 12:00 – 9:30 PM'
+    - 'Sunday: 12:00 – 8:00 PM'
+  nextCloseTime: '2025-05-04T01:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,50 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (706) 863-0606
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.5'
+rating_count: 915
+website: http://www.tako-sushi.com/
+description: >-
+  Discover Takosushi in Evans, Georgia$$$Takosushi in Evans, Georgia, stands out
+  as a welcoming spot for those seeking a mix of Japanese flavors and casual
+  dining options. This restaurant features fresh sushi alongside innovative
+  Tex-Mex inspired dishes, all served in a laid-back environment that makes it
+  easy to unwind. With accessibility features like wheelchair-friendly parking
+  and seating, it's designed to accommodate a variety of guests, enhancing the
+  overall experience. Operating hours span from late morning to evening most
+  days, making it a convenient choice for a quick lunch or relaxed dinner.
+  Whether you're exploring sushi spots nearby or looking for Japanese-inspired
+  meals, Takosushi delivers a blend of quality ingredients and approachable
+  vibes that keep locals coming back.
+generative_summary: >-
+  Discover Takosushi in Evans, Georgia$$$Takosushi in Evans, Georgia, stands out
+  as a welcoming spot for those seeking a mix of Japanese flavors and casual
+  dining options. This restaurant features fresh sushi alongside innovative
+  Tex-Mex inspired dishes, all served in a laid-back environment that makes it
+  easy to unwind. With accessibility features like wheelchair-friendly parking
+  and seating, it's designed to accommodate a variety of guests, enhancing the
+  overall experience. Operating hours span from late morning to evening most
+  days, making it a convenient choice for a quick lunch or relaxed dinner.
+  Whether you're exploring sushi spots nearby or looking for Japanese-inspired
+  meals, Takosushi delivers a blend of quality ingredients and approachable
+  vibes that keep locals coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Visitors to Takosushi often highlight the solid mix
+  of tasty sushi and creative menu items that make every meal feel worthwhile.
+  Many appreciate the friendly service and efficient atmosphere, which add to
+  the enjoyable vibe without any major hiccups. With a strong overall rating,
+  folks frequently mention the fresh flavors and reasonable prices as standout
+  perks for a casual outing. While some note that wait times can vary during
+  peak hours, the general consensus leans positive, praising the spot as a go-to
+  for satisfying Japanese dining. If you're on the hunt for top-rated sushi
+  places nearby, this location seems to hit the mark for those seeking good food
+  and a relaxed setting.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +311,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

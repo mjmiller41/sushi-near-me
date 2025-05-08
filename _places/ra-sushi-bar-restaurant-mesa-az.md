@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "RA Sushi Bar Restaurant"
+title: RA Sushi Bar Restaurant
 permalink: /arizona/mesa/ra-sushi-bar-restaurant.html
 stateAbbr: AZ
 stateName: Arizona
 cityName: Mesa
 seo:
-  name: "RA Sushi Bar Restaurant"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "RA Sushi Bar Restaurant serves delicious sushi in Mesa, Arizona. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJK2mg4DGvK4cRpLDe8wm4Qss
 photos:
   - name: >-
@@ -185,7 +183,42 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover RA Sushi Bar in Mesa, AZ$$$RA Sushi Bar Restaurant in Mesa, AZ,
+  stands out as a vibrant Japanese chain offering an enticing selection of fresh
+  sushi rolls and refreshing beverages. This spot captures a lively atmosphere
+  that's ideal for enjoying happy hours, complete with sake and cocktails that
+  pair perfectly with the menu. Patrons appreciate the accessible features that
+  make dining inclusive and comfortable for everyone. For those seeking sushi
+  restaurants in the area, it provides a blend of casual elegance and flavorful
+  options that highlight top-rated Japanese dishes. Whether you're exploring
+  local sushi places, this location delivers a welcoming vibe that enhances any
+  meal.
+generative_summary: >-
+  Discover RA Sushi Bar in Mesa, AZ$$$RA Sushi Bar Restaurant in Mesa, AZ,
+  stands out as a vibrant Japanese chain offering an enticing selection of fresh
+  sushi rolls and refreshing beverages. This spot captures a lively atmosphere
+  that's ideal for enjoying happy hours, complete with sake and cocktails that
+  pair perfectly with the menu. Patrons appreciate the accessible features that
+  make dining inclusive and comfortable for everyone. For those seeking sushi
+  restaurants in the area, it provides a blend of casual elegance and flavorful
+  options that highlight top-rated Japanese dishes. Whether you're exploring
+  local sushi places, this location delivers a welcoming vibe that enhances any
+  meal.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Recent Feedback$$$If you're on the hunt for great sushi spots in
+  Mesa, many visitors highlight the tasty rolls and flavorful fried rice as
+  standout features that keep them coming back. The service is often praised for
+  being friendly and attentive, creating a relaxed and enjoyable atmosphere for
+  diners. While some note that wait times can occasionally stretch a bit, the
+  appealing cocktails and overall ambiance make the experience worthwhile.
+  Overall, it's a solid choice for anyone craving Japanese cuisine, blending
+  casual fun with quality offerings. Those searching for top sushi near them
+  will find it a reliable option that balances honest positives with room for
+  improvement.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +244,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

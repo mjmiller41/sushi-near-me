@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sakura Japanese Restaurant & Sushi Bar"
+title: Sakura Japanese Restaurant & Sushi Bar
 permalink: /california/los-angeles/sakura-japanese-restaurant-sushi-bar.html
 stateAbbr: CA
 stateName: California
 cityName: Los Angeles
 seo:
-  name: "Sakura Japanese Restaurant & Sushi Bar"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sakura Japanese Restaurant & Sushi Bar serves delicious sushi in Los Angeles, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ46_3-HG6woARcsGxXVJhqoo
 photos:
   - name: >-
@@ -185,7 +183,46 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Sakura in Los Angeles$$$Sakura Japanese Restaurant & Sushi Bar in Los
+  Angeles, CA, is a casual spot that brings authentic Japanese flavors to the
+  Del Rey neighborhood, perfect for those seeking fresh sushi and traditional
+  dishes. With its welcoming atmosphere and focus on quality ingredients, this
+  restaurant stands out for accessibility features like wheelchair-friendly
+  parking and entrances, making it easy for everyone to enjoy a meal. Diners can
+  savor a variety of sushi options alongside other Japanese favorites, ideal for
+  lunch or dinner outings in a relaxed setting. Whether you're exploring
+  top-rated sushi places in the area, this establishment offers a
+  straightforward yet satisfying experience that highlights the essence of
+  Japanese cuisine.
+generative_summary: >-
+  Discover Sakura in Los Angeles$$$Sakura Japanese Restaurant & Sushi Bar in Los
+  Angeles, CA, is a casual spot that brings authentic Japanese flavors to the
+  Del Rey neighborhood, perfect for those seeking fresh sushi and traditional
+  dishes. With its welcoming atmosphere and focus on quality ingredients, this
+  restaurant stands out for accessibility features like wheelchair-friendly
+  parking and entrances, making it easy for everyone to enjoy a meal. Diners can
+  savor a variety of sushi options alongside other Japanese favorites, ideal for
+  lunch or dinner outings in a relaxed setting. Whether you're exploring
+  top-rated sushi places in the area, this establishment offers a
+  straightforward yet satisfying experience that highlights the essence of
+  Japanese cuisine.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$From what people share about Sakura Japanese
+  Restaurant & Sushi Bar, it's clear that the fresh sushi and well-prepared
+  Japanese dishes keep folks coming back for more, often praising the
+  straightforward flavors and variety on offer. Many appreciate the casual vibe
+  and attentive service that make it a solid choice for a laid-back meal,
+  whether you're grabbing lunch or dinner with friends. While some mention it's
+  a dependable spot for everyday dining rather than something overly fancy, the
+  overall feedback leans positive, highlighting it as a go-to option for anyone
+  hunting for reliable Japanese eats in the neighborhood. If you're on the hunt
+  for sushi spots that deliver on taste without the fuss, this place seems to
+  hit the mark for most, offering an honest and enjoyable experience that feels
+  just right.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +248,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

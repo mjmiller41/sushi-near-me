@@ -5,4 +5,5 @@ permalink: /iowa/west-des-moines/
 stateAbbr: IA
 stateName: Iowa
 cityName: West Des Moines
+
 ---

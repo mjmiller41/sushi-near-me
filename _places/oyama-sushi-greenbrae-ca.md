@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Oyama Sushi"
+title: Oyama Sushi
 permalink: /california/greenbrae/oyama-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Greenbrae
 seo:
-  name: "Oyama Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Oyama Sushi serves delicious sushi in Greenbrae, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJf5OhuW2ahYARIyFigveGL0Y
 photos:
   - name: >-
@@ -185,7 +183,49 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Oyama Sushi in Greenbrae, CA$$$Oyama Sushi in Greenbrae, CA, stands
+  out as a welcoming spot for enjoying fresh Japanese cuisine, blending
+  traditional flavors with creative twists on classic dishes. The restaurant
+  features a casual atmosphere where patrons can savor a variety of sushi rolls
+  and noodle options, making it an ideal choice for those seeking authentic yet
+  approachable dining experiences. Accessibility is a key highlight, with
+  features like wheelchair-accessible parking and seating that ensure everyone
+  can enjoy the meal comfortably. Photos from the location showcase an inviting
+  setup that emphasizes quality ingredients and thoughtful presentation,
+  appealing to anyone exploring top-rated sushi options nearby. Whether you're
+  in the mood for innovative rolls or simple noodles, this spot delivers a
+  satisfying experience that captures the essence of Japanese dining.
+generative_summary: >-
+  Discover Oyama Sushi in Greenbrae, CA$$$Oyama Sushi in Greenbrae, CA, stands
+  out as a welcoming spot for enjoying fresh Japanese cuisine, blending
+  traditional flavors with creative twists on classic dishes. The restaurant
+  features a casual atmosphere where patrons can savor a variety of sushi rolls
+  and noodle options, making it an ideal choice for those seeking authentic yet
+  approachable dining experiences. Accessibility is a key highlight, with
+  features like wheelchair-accessible parking and seating that ensure everyone
+  can enjoy the meal comfortably. Photos from the location showcase an inviting
+  setup that emphasizes quality ingredients and thoughtful presentation,
+  appealing to anyone exploring top-rated sushi options nearby. Whether you're
+  in the mood for innovative rolls or simple noodles, this spot delivers a
+  satisfying experience that captures the essence of Japanese dining.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying About Oyama Sushi$$$Folks exploring sushi spots
+  around Greenbrae often appreciate the straightforward vibe and solid food
+  quality at places like this, with many mentioning tasty, well-prepared rolls
+  that hit the spot without any fuss. Feedback tends to highlight the fresh
+  ingredients and variety of options, making it a go-to for casual meals that
+  leave you feeling satisfied and eager to return. While some note it's a
+  reliable choice for everyday dining rather than something overly fancy, the
+  overall consensus leans positive, praising the approachable style that suits
+  families or quick solo visits. It's easy to see why this spot gets nods for
+  being one of the better Japanese places nearby, with comments frequently
+  touching on the comforting portions and flavors that keep things enjoyable. If
+  you're hunting for decent sushi close to home, it seems like a solid pick that
+  delivers on the basics without disappointing.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +251,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

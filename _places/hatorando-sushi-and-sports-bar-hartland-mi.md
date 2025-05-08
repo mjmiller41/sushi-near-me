@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Hatorando Sushi and Sports Bar"
+title: Hatorando Sushi and Sports Bar
 permalink: /michigan/hartland/hatorando-sushi-and-sports-bar.html
 stateAbbr: MI
 stateName: Michigan
 cityName: Hartland
 seo:
-  name: "Hatorando Sushi and Sports Bar"
-  type: Restaurant
+  type: restaurant
   links: http://hatorandosushi.com/
-description: "Hatorando Sushi and Sports Bar serves delicious sushi in Hartland, Michigan. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJzS8w7TZdI4gRfUBBc1fMngU
 photos:
   - name: >-
@@ -185,6 +183,37 @@ price_range: null
 rating: '4.5'
 rating_count: 0
 website: http://hatorandosushi.com/
+description: >-
+  Discover Hatorando Sushi in Hartland, MI$$$Hatorando Sushi and Sports Bar in
+  Hartland, MI, stands out as a vibrant spot for enjoying fresh sushi and casual
+  sports viewing, making it a go-to choice for those seeking top-rated
+  Japanese-inspired dining. The restaurant boasts an inviting atmosphere with
+  accessible features like wheelchair-friendly entrances and seating, along with
+  outdoor options that enhance the overall experience for groups and families.
+  Patrons can savor a variety of expertly prepared rolls and dishes, including
+  creative flavors that highlight quality ingredients, perfect for anyone
+  exploring sushi places near me. Its combination of dine-in comfort and sports
+  bar energy ensures a welcoming vibe for casual meals or watching games, while
+  offerings like beer and wine add to the appeal for those looking for sushi
+  restaurants with a relaxed twist. Whether you're in the mood for a quick bite
+  or a leisurely outing, this location delivers on fresh tastes and convenience
+  that keep locals coming back.
+generative_summary: >-
+  Discover Hatorando Sushi in Hartland, MI$$$Hatorando Sushi and Sports Bar in
+  Hartland, MI, stands out as a vibrant spot for enjoying fresh sushi and casual
+  sports viewing, making it a go-to choice for those seeking top-rated
+  Japanese-inspired dining. The restaurant boasts an inviting atmosphere with
+  accessible features like wheelchair-friendly entrances and seating, along with
+  outdoor options that enhance the overall experience for groups and families.
+  Patrons can savor a variety of expertly prepared rolls and dishes, including
+  creative flavors that highlight quality ingredients, perfect for anyone
+  exploring sushi places near me. Its combination of dine-in comfort and sports
+  bar energy ensures a welcoming vibe for casual meals or watching games, while
+  offerings like beer and wine add to the appeal for those looking for sushi
+  restaurants with a relaxed twist. Whether you're in the mood for a quick bite
+  or a leisurely outing, this location delivers on fresh tastes and convenience
+  that keep locals coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJzS8w7TZdI4gRfUBBc1fMngU/reviews/ChZDSUhNMG9nS0VJQ0FnTUNBNTdxTEt3EAE
@@ -332,6 +361,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNuaE5yRXhnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNuaE5yRXhnRRAB!2m1!1s0x88235d36ed302fcd:0x59ecc577341407d
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors consistently praise the fresh and
+  flavorful sushi rolls at this spot, with many highlighting creative options
+  that make meals memorable and satisfying. The service stands out as friendly
+  and efficient, contributing to a welcoming environment that encourages repeat
+  visits, especially for events like trivia nights. Folks appreciate the overall
+  vibe, including ample seating and a sports-friendly setup that pairs well with
+  drinks, making it a solid pick for groups or casual outings. While some
+  mention slight waits during peak times, the consensus is that the quality and
+  value make it worthwhile, offering a positive experience for anyone hunting
+  for the best sushi near me. Overall, the feedback paints a picture of a
+  reliable and enjoyable place that delivers on taste and atmosphere without any
+  major drawbacks.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -363,7 +406,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

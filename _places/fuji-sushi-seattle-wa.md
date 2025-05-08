@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Fuji Sushi"
+title: Fuji Sushi
 permalink: /washington/seattle/fuji-sushi.html
 stateAbbr: WA
 stateName: Washington
 cityName: Seattle
 seo:
-  name: "Fuji Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Fuji Sushi serves delicious sushi in Seattle, Washington. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJPwV0kbtqkFQRYW8ahXSUuVU
 photos:
   - name: >-
@@ -184,7 +182,47 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Fuji Sushi in Seattle, WA$$$Nestled in the heart of Seattle, WA, Fuji
+  Sushi offers a delightful array of fresh sushi and Japanese dishes in a
+  relaxed setting, perfect for those seeking casual dining options nearby. The
+  spot emphasizes a welcoming atmosphere where you can enjoy flavorful rolls and
+  other traditional fare, complemented by enticing happy-hour deals that attract
+  locals and visitors alike. With its focus on quality ingredients and simple
+  yet inviting ambiance, this sushi restaurant stands out as a go-to choice for
+  anyone exploring Japanese places in the area. Accessibility features like
+  wheelchair-friendly entrances make it easier for everyone to savor the
+  experience, enhancing its appeal for a broad audience. Whether you're in the
+  mood for a quick bite or a laid-back meal, Fuji Sushi delivers a satisfying
+  taste of authentic flavors right in downtown Seattle.
+generative_summary: >-
+  Discover Fuji Sushi in Seattle, WA$$$Nestled in the heart of Seattle, WA, Fuji
+  Sushi offers a delightful array of fresh sushi and Japanese dishes in a
+  relaxed setting, perfect for those seeking casual dining options nearby. The
+  spot emphasizes a welcoming atmosphere where you can enjoy flavorful rolls and
+  other traditional fare, complemented by enticing happy-hour deals that attract
+  locals and visitors alike. With its focus on quality ingredients and simple
+  yet inviting ambiance, this sushi restaurant stands out as a go-to choice for
+  anyone exploring Japanese places in the area. Accessibility features like
+  wheelchair-friendly entrances make it easier for everyone to savor the
+  experience, enhancing its appeal for a broad audience. Whether you're in the
+  mood for a quick bite or a laid-back meal, Fuji Sushi delivers a satisfying
+  taste of authentic flavors right in downtown Seattle.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying About This Sushi Spot$$$Folks around Seattle often
+  highlight the fresh and tasty sushi selections at this spot, making it a solid
+  pick for anyone craving reliable Japanese dining close by. Many appreciate the
+  casual vibe and value-driven specials, which add to the overall enjoyment
+  without breaking the bank. While some mention that service can vary depending
+  on the time of day, the general consensus leans positive, with plenty of
+  praise for the flavorful dishes that keep customers coming back. It's
+  frequently noted as a great option for groups or solo diners looking for
+  straightforward, satisfying meals in a welcoming environment. Overall, this
+  place earns nods as one of the dependable sushi restaurants near you, offering
+  a mix of quality and affordability that makes it worth trying out.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +248,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

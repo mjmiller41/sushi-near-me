@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Yuri Japanese Restaurant"
+title: Yuri Japanese Restaurant
 permalink: /california/san-jose/yuri-japanese-restaurant.html
 stateAbbr: CA
 stateName: California
 cityName: San Jose
 seo:
-  name: "Yuri Japanese Restaurant"
-  type: Restaurant
+  type: restaurant
   links: http://www.yurirestaurant.com/
-description: "Yuri Japanese Restaurant serves delicious sushi in San Jose, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJtUD0aXQtjoARtjeY5EX2l0Y
 photos:
   - name: >-
@@ -170,7 +168,105 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x808e2d7469f440b5:0x4697f645e49837b6!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 14
+        minute: 0
+    - open:
+        day: 1
+        hour: 17
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 0
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 0
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 0
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 14
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 2:00 PM, 5:00 – 9:00 PM'
     - 'Tuesday: 11:00 AM – 2:00 PM, 5:00 – 9:00 PM'
     - 'Wednesday: 11:00 AM – 2:00 PM, 5:00 – 9:00 PM'
@@ -178,14 +274,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 2:00 PM, 5:00 – 9:30 PM'
     - 'Saturday: 11:00 AM – 2:00 PM, 5:00 – 9:30 PM'
     - 'Sunday: Closed'
-  current:
-    - 'Monday: 11:00 AM – 2:00 PM, 5:00 – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 2:00 PM, 5:00 – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 2:00 PM, 5:00 – 9:00 PM'
-    - 'Thursday: 11:00 AM – 2:00 PM, 5:00 – 9:00 PM'
-    - 'Friday: 11:00 AM – 2:00 PM, 5:00 – 9:30 PM'
-    - 'Saturday: 11:00 AM – 2:00 PM, 5:00 – 9:30 PM'
-    - 'Sunday: Closed'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +286,270 @@ phone: (408) 270-7993
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.4'
-rating_count: 0
+rating_count: 222
 website: http://www.yurirestaurant.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Yuri Japanese Restaurant in San Jose$$$Yuri Japanese Restaurant in
+  San Jose, CA, offers a welcoming spot for those seeking authentic Japanese
+  cuisine in a casual, family-oriented environment. This eatery features a
+  variety of sushi rolls, bento boxes, and traditional fare, all prepared with
+  fresh ingredients that highlight the flavors of Japanese cooking. Visitors can
+  enjoy a relaxed atmosphere with thoughtful touches like optional tatami-style
+  seating and accessible features such as wheelchair-friendly entrances and
+  parking. The menu caters to a range of preferences, including options for
+  groups or families looking for top-rated sushi near me, with generous portions
+  that make it a go-to choice for Japanese places in the area. Operating hours
+  span lunch and dinner from Monday to Saturday, making it convenient for anyone
+  craving sushi restaurants close to home.
+generative_summary: >-
+  Discover Yuri Japanese Restaurant in San Jose$$$Yuri Japanese Restaurant in
+  San Jose, CA, offers a welcoming spot for those seeking authentic Japanese
+  cuisine in a casual, family-oriented environment. This eatery features a
+  variety of sushi rolls, bento boxes, and traditional fare, all prepared with
+  fresh ingredients that highlight the flavors of Japanese cooking. Visitors can
+  enjoy a relaxed atmosphere with thoughtful touches like optional tatami-style
+  seating and accessible features such as wheelchair-friendly entrances and
+  parking. The menu caters to a range of preferences, including options for
+  groups or families looking for top-rated sushi near me, with generous portions
+  that make it a go-to choice for Japanese places in the area. Operating hours
+  span lunch and dinner from Monday to Saturday, making it convenient for anyone
+  craving sushi restaurants close to home.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJtUD0aXQtjoARtjeY5EX2l0Y/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJNExPZENBEAE
+    relativePublishTimeDescription: a month ago
+    rating: 3
+    text:
+      text: >-
+        I love that it is a local run place and one of the few sushi restaurants
+        in this particular area. It has a pleasant ambiance with friendly staff,
+        you see them making sushi tight there, and they have some cool,
+        traditional-looking booths, that actually you sit at a tables but looks
+        like you’re on the floor. I didn’t get to sit there but would like to
+        some day.
+
+
+        Service is great because the tables and booths have a bell to ring to
+        get their attention. That’s a nice touch.
+
+
+        The sushi was average. Tuna lacking a little brightness, and rice a
+        little dry, but still tasty. Their ginger is good; sweeter side vs hot
+        side. The tempura was also very good. Great shrimp and perfectly cooked
+        veggies.
+      languageCode: en
+    originalText:
+      text: >-
+        I love that it is a local run place and one of the few sushi restaurants
+        in this particular area. It has a pleasant ambiance with friendly staff,
+        you see them making sushi tight there, and they have some cool,
+        traditional-looking booths, that actually you sit at a tables but looks
+        like you’re on the floor. I didn’t get to sit there but would like to
+        some day.
+
+
+        Service is great because the tables and booths have a bell to ring to
+        get their attention. That’s a nice touch.
+
+
+        The sushi was average. Tuna lacking a little brightness, and rice a
+        little dry, but still tasty. Their ginger is good; sweeter side vs hot
+        side. The tempura was also very good. Great shrimp and perfectly cooked
+        veggies.
+      languageCode: en
+    authorAttribution:
+      displayName: G Lee
+      uri: https://www.google.com/maps/contrib/114665275248028646819/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjW4wXG9EdqrEBkbcoWBqDtIopk9XJS0C1-OyXldK7y7J4-DWBarLw=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2025-03-29T14:39:31.350611Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNJNExPZENBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNJNExPZENBEAE!2m1!1s0x808e2d7469f440b5:0x4697f645e49837b6
+  - name: >-
+      places/ChIJtUD0aXQtjoARtjeY5EX2l0Y/reviews/ChZDSUhNMG9nS0VJQ0FnSURWeV9HMEJ3EAE
+    relativePublishTimeDescription: 7 months ago
+    rating: 5
+    text:
+      text: >-
+        Been going to this place more than 20 years because the fish quality is
+        excellent. The service is fast and professional.  The room is kind of
+        old that should to be repainted.  I went to many sushi places in the bay
+        area but this place stands out among the crowd.
+      languageCode: en
+    originalText:
+      text: >-
+        Been going to this place more than 20 years because the fish quality is
+        excellent. The service is fast and professional.  The room is kind of
+        old that should to be repainted.  I went to many sushi places in the bay
+        area but this place stands out among the crowd.
+      languageCode: en
+    authorAttribution:
+      displayName: Neonflame Studio
+      uri: https://www.google.com/maps/contrib/109414207101819592264/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXbsZAx4JIhdvnq-TDgG6k_iz5Y6JItcXWNsSiehb0Ahxh1DbWqjQ=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2024-09-11T13:34:26.031184Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURWeV9HMEJ3EAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURWeV9HMEJ3EAE!2m1!1s0x808e2d7469f440b5:0x4697f645e49837b6
+  - name: >-
+      places/ChIJtUD0aXQtjoARtjeY5EX2l0Y/reviews/ChZDSUhNMG9nS0VJQ0FnTUNnM3Utd1VnEAE
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        From the moment we walked in, the service at this Japanese restaurant
+        was impeccable. The staff greeted us with a warm smile and were quick to
+        seat us. The food was outstanding—each sushi roll was beautifully
+        crafted, and the teriyaki salmon was cooked to perfection. The ambiance
+        was peaceful, with a minimalist design that made us feel at ease. The
+        low lighting and traditional touches, like bamboo screens and stone
+        accents, truly elevated the experience. A must-visit for any sushi
+        lover!
+      languageCode: en
+    originalText:
+      text: >-
+        From the moment we walked in, the service at this Japanese restaurant
+        was impeccable. The staff greeted us with a warm smile and were quick to
+        seat us. The food was outstanding—each sushi roll was beautifully
+        crafted, and the teriyaki salmon was cooked to perfection. The ambiance
+        was peaceful, with a minimalist design that made us feel at ease. The
+        low lighting and traditional touches, like bamboo screens and stone
+        accents, truly elevated the experience. A must-visit for any sushi
+        lover!
+      languageCode: en
+    authorAttribution:
+      displayName: Cary Alan
+      uri: https://www.google.com/maps/contrib/113492784921884301710/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXyQtRYLl9KUBsqaO1CznzUyR6y81D7tRoDN4hZ3sDRjt_21zo=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-02-17T17:31:39.351725Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNnM3Utd1VnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNnM3Utd1VnEAE!2m1!1s0x808e2d7469f440b5:0x4697f645e49837b6
+  - name: >-
+      places/ChIJtUD0aXQtjoARtjeY5EX2l0Y/reviews/ChZDSUhNMG9nS0VJQ0FnTURvbGZMc2JREAE
+    relativePublishTimeDescription: in the last week
+    rating: 5
+    text:
+      text: >-
+        Viking Boat for FOUR
+
+        A Viking warship full of gifts from the ocean, with sashimi as sails and
+        sushi as oars, carrying four people to the new world of taste buds! From
+        visual shock to the sincerity of ingredients, this ship 'completely
+        ignited our dinner night! "
+      languageCode: en
+    originalText:
+      text: >-
+        Viking Boat for FOUR
+
+        A Viking warship full of gifts from the ocean, with sashimi as sails and
+        sushi as oars, carrying four people to the new world of taste buds! From
+        visual shock to the sincerity of ingredients, this ship 'completely
+        ignited our dinner night! "
+      languageCode: en
+    authorAttribution:
+      displayName: Crystal L
+      uri: https://www.google.com/maps/contrib/106279047633395177656/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLnPJlkk4Fc9fcLBLn3IK_hEAlc5SwDki2EhgSPeMgQLm6bow=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-27T04:14:52.396984Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURvbGZMc2JREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURvbGZMc2JREAE!2m1!1s0x808e2d7469f440b5:0x4697f645e49837b6
+  - name: >-
+      places/ChIJtUD0aXQtjoARtjeY5EX2l0Y/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ1NHZHbHl3RRAB
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        My husband and I ordered the Yuri special plate for two and added a fire
+        crunch roll just in case if it wasn't enough for two people. When the
+        food came out it was more than enough, we ended up taking some leftovers
+        home. I recommend trying the Yuri plate for two if it's your first time
+        and just want to try an assortment of food. However, the rolls were the
+        highlight of our meal and we're definitely going back to try out the
+        other rolls. A little pricey, but the generous portions do make up for
+        it.
+      languageCode: en
+    originalText:
+      text: >-
+        My husband and I ordered the Yuri special plate for two and added a fire
+        crunch roll just in case if it wasn't enough for two people. When the
+        food came out it was more than enough, we ended up taking some leftovers
+        home. I recommend trying the Yuri plate for two if it's your first time
+        and just want to try an assortment of food. However, the rolls were the
+        highlight of our meal and we're definitely going back to try out the
+        other rolls. A little pricey, but the generous portions do make up for
+        it.
+      languageCode: en
+    authorAttribution:
+      displayName: alynda her
+      uri: https://www.google.com/maps/contrib/107645819932859957344/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWrfbLB3C_MQz-vA8UdnD7s4KDOin0mwxozcJTu6j-923w1DLt-=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2023-10-21T15:30:28.733106Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQ1NHZHbHl3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQ1NHZHbHl3RRAB!2m1!1s0x808e2d7469f440b5:0x4697f645e49837b6
+review_summary: >-
+  What People Are Buzzing About$$$Folks around San Jose are generally thrilled
+  with the fresh fish and well-crafted sushi rolls at this spot, often praising
+  the high-quality ingredients that make meals feel special. Many appreciate the
+  friendly service and efficient vibe, along with the cozy ambiance that adds a
+  nice traditional touch without overwhelming the experience. While some note
+  that the flavors can vary from spot-on to just average depending on the dish,
+  the generous portions and standout items like tempura and teriyaki keep diners
+  coming back for more. It's commonly mentioned as a solid pick for groups, with
+  extras like quick table service bells adding a fun, practical element to the
+  visit. Overall, if you're hunting for reliable sushi places near me, this
+  restaurant delivers a satisfying meal that's worth the moderate price,
+  blending everyday appeal with those memorable bites that leave you eager to
+  return.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
 good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
+live_music: false
+menu_for_children: true
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
 serves_cocktails: null
 serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Imaginative & traditional rolls served alongside typical Japanese fare with
+  optional tatami seating.
 
 ---

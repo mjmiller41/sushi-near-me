@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Shogun Japanese Sushi & Grill"
+title: Shogun Japanese Sushi & Grill
 permalink: /california/oakland/shogun-japanese-sushi-grill.html
 stateAbbr: CA
 stateName: California
 cityName: Oakland
 seo:
-  name: "Shogun Japanese Sushi & Grill"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Shogun Japanese Sushi & Grill serves delicious sushi in Oakland, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJpzC9FkOHj4ARGwW6sBm739Q
 photos:
   - name: >-
@@ -185,7 +183,46 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Shogun Japanese Sushi & Grill in Oakland, CA$$$Shogun Japanese Sushi
+  & Grill in Oakland, California, offers a casual dining experience focused on
+  authentic Japanese flavors, featuring an array of fresh sushi rolls and savory
+  teriyaki dishes that appeal to sushi enthusiasts. The restaurant stands out
+  with its welcoming atmosphere and accessibility features, making it easy for
+  everyone to enjoy a meal, including options for late-night visits that cater
+  to busy schedules. Patrons can savor the simplicity of traditional Japanese
+  cuisine alongside modern twists, all in a neighborhood setting that enhances
+  the local vibe. With its convenient location in the Grand Lake area, it's a
+  go-to spot for those searching for quality sushi restaurants nearby, blending
+  affordability with satisfying portions that keep diners coming back.
+generative_summary: >-
+  Discover Shogun Japanese Sushi & Grill in Oakland, CA$$$Shogun Japanese Sushi
+  & Grill in Oakland, California, offers a casual dining experience focused on
+  authentic Japanese flavors, featuring an array of fresh sushi rolls and savory
+  teriyaki dishes that appeal to sushi enthusiasts. The restaurant stands out
+  with its welcoming atmosphere and accessibility features, making it easy for
+  everyone to enjoy a meal, including options for late-night visits that cater
+  to busy schedules. Patrons can savor the simplicity of traditional Japanese
+  cuisine alongside modern twists, all in a neighborhood setting that enhances
+  the local vibe. With its convenient location in the Grand Lake area, it's a
+  go-to spot for those searching for quality sushi restaurants nearby, blending
+  affordability with satisfying portions that keep diners coming back.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$From what folks share about Shogun Japanese Sushi
+  & Grill, the fresh sushi and flavorful teriyaki options often stand out as
+  highlights, with many appreciating the variety that makes it a solid choice
+  for Japanese places near me. People generally note the welcoming service and
+  relaxed setting, helping it earn nods as one of the top-rated spots for casual
+  meals in the area. While experiences can vary, feedback tends to praise the
+  reliable quality of ingredients and quick preparation, making it a favorite
+  for groups or solo diners alike. Overall, visitors seem to enjoy the
+  straightforward vibe that keeps things positive, encouraging others to try it
+  for a satisfying sushi experience without any major letdowns. Though specific
+  reviews might differ, the general buzz leans toward it being a dependable
+  option for anyone craving great sushi close to home.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +248,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

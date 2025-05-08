@@ -5,4 +5,5 @@ permalink: /arizona/tucson/
 stateAbbr: AZ
 stateName: Arizona
 cityName: Tucson
+
 ---

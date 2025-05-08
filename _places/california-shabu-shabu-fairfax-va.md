@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "California Shabu Shabu"
+title: California Shabu Shabu
 permalink: /virginia/fairfax/california-shabu-shabu.html
 stateAbbr: VA
 stateName: Virginia
 cityName: Fairfax
 seo:
-  name: "California Shabu Shabu"
-  type: Restaurant
+  type: restaurant
   links: https://www.calishabu.com/
-description: "California Shabu Shabu serves delicious sushi in Fairfax, Virginia. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ6-WUOnVMtokRSAxsnM7vWBQ
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $30 &ndash; $50
 rating: '4.8'
 rating_count: 0
 website: https://www.calishabu.com/
+description: >-
+  Discover California Shabu Shabu in Fairfax, Virginia$$$Nestled in Fairfax,
+  Virginia, California Shabu Shabu offers a relaxed spot for enjoying authentic
+  Japanese cuisine, blending fresh sushi and interactive hot pot experiences
+  that highlight its casual charm. This welcoming restaurant features
+  high-quality ingredients and customizable options, making it an ideal choice
+  for those seeking flavorful Japanese dishes in a comfortable setting. Diners
+  can savor the essence of shabu-shabu with its steaming broths and premium
+  meats, alongside a selection of sushi that appeals to fans of traditional
+  flavors. The venue's accessibility features and inviting atmosphere add to its
+  appeal, ensuring a seamless visit for everyone looking for Japanese-inspired
+  meals nearby. With options for groups and families, it's a go-to destination
+  for anyone exploring top-rated sushi spots in the area.
+generative_summary: >-
+  Discover California Shabu Shabu in Fairfax, Virginia$$$Nestled in Fairfax,
+  Virginia, California Shabu Shabu offers a relaxed spot for enjoying authentic
+  Japanese cuisine, blending fresh sushi and interactive hot pot experiences
+  that highlight its casual charm. This welcoming restaurant features
+  high-quality ingredients and customizable options, making it an ideal choice
+  for those seeking flavorful Japanese dishes in a comfortable setting. Diners
+  can savor the essence of shabu-shabu with its steaming broths and premium
+  meats, alongside a selection of sushi that appeals to fans of traditional
+  flavors. The venue's accessibility features and inviting atmosphere add to its
+  appeal, ensuring a seamless visit for everyone looking for Japanese-inspired
+  meals nearby. With options for groups and families, it's a go-to destination
+  for anyone exploring top-rated sushi spots in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ6-WUOnVMtokRSAxsnM7vWBQ/reviews/ChZDSUhNMG9nS0VJQ0FnTUNnb2YzQ2ZREAE
@@ -384,6 +409,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURYX3ZId3RnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURYX3ZId3RnRRAB!2m1!1s0x89b64c753a94e5eb:0x1458efce9c6c0c48
+review_summary: >-
+  What Guests Are Buzzing About$$$Visitors often rave about the delicious hot
+  pot and sushi offerings, noting the fresh ingredients and generous portions
+  that make for a satisfying meal without breaking the bank. Many appreciate the
+  cozy vibe and attentive service that enhance the overall dining experience,
+  turning a simple outing into a memorable one for friends or families. While
+  some mention that portion sizes could be more abundant for the price, the
+  general consensus leans toward the spot being a solid pick for quality
+  Japanese fare in a laid-back environment. Folks love how it caters to various
+  tastes, with highlights on the flavorful broths and meats that keep diners
+  coming back for more casual fun. Overall, it's praised as a reliable choice
+  for those hunting for the best sushi experiences around, blending tasty
+  options with a welcoming feel that encourages repeat visits.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -415,7 +454,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

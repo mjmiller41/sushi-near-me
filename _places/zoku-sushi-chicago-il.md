@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Zoku Sushi"
+title: Zoku Sushi
 permalink: /illinois/chicago/zoku-sushi.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
 seo:
-  name: "Zoku Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.zokuchicago.com/
-description: "Imaginative sushi rolls share the menu with cooked Japanese-Thai fare at this BYO spot with a patio. Zoku Sushi serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJqynxN1vND4gR5N6zeNlQIDE
 photos:
   - name: >-
@@ -184,6 +182,31 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 0
 website: http://www.zokuchicago.com/
+description: >-
+  Discover Zoku Sushi in Chicago, IL$$$Zoku Sushi in Chicago, IL, stands out as
+  a casual dining spot blending Japanese and Thai flavors, perfect for those
+  seeking sushi restaurants in the area. This inviting eatery features an array
+  of creative sushi rolls alongside cooked dishes, all served in a welcoming
+  atmosphere that includes a patio for outdoor enjoyment. With its moderate
+  pricing and thoughtful menu options, it's an ideal choice for anyone exploring
+  top-rated sushi near you, especially if you're in the mood for fresh,
+  flavorful meals. The restaurant's accessibility features, like
+  wheelchair-friendly entrances, add to its appeal for a wide range of diners.
+  Overall, it offers a relaxed vibe that combines quality ingredients with a
+  touch of innovation in every bite.
+generative_summary: >-
+  Discover Zoku Sushi in Chicago, IL$$$Zoku Sushi in Chicago, IL, stands out as
+  a casual dining spot blending Japanese and Thai flavors, perfect for those
+  seeking sushi restaurants in the area. This inviting eatery features an array
+  of creative sushi rolls alongside cooked dishes, all served in a welcoming
+  atmosphere that includes a patio for outdoor enjoyment. With its moderate
+  pricing and thoughtful menu options, it's an ideal choice for anyone exploring
+  top-rated sushi near you, especially if you're in the mood for fresh,
+  flavorful meals. The restaurant's accessibility features, like
+  wheelchair-friendly entrances, add to its appeal for a wide range of diners.
+  Overall, it offers a relaxed vibe that combines quality ingredients with a
+  touch of innovation in every bite.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJqynxN1vND4gR5N6zeNlQIDE/reviews/ChdDSUhNMG9nS0VJQ0FnTURJbEw3Tm9BRRAB
@@ -361,6 +384,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURKeE5YWlNREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURKeE5YWlNREAE!2m1!1s0x880fcd5b37f129ab:0x312050d978b3dee4
+review_summary: >-
+  Insights from Recent Reviews$$$Diners frequently rave about the delicious
+  sushi rolls and speedy service at this spot, making it a solid pick for anyone
+  craving fresh Japanese-inspired eats in a casual setting. While most feedback
+  highlights the flavorful dishes and welcoming atmosphere that keep customers
+  coming back, a few mentions note occasional inconsistencies in service that
+  could use some tweaks. Overall, it's praised as a great introduction to sushi
+  for newcomers, with highlights on tasty options like creative rolls and soups
+  that deliver on flavor without overwhelming the palate. If you're hunting for
+  reliable sushi places near me, this location often scores high for its variety
+  and value, encouraging repeat visits despite minor hiccups. In the end, the
+  positive experiences far outweigh the negatives, painting it as a worthwhile
+  stop for food enthusiasts.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeStreetParking: true
   valetParking: false
@@ -392,8 +429,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Imaginative sushi rolls share the menu with cooked Japanese-Thai fare at this
   BYO spot with a patio.
 

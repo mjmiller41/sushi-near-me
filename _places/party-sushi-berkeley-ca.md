@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Party Sushi"
+title: Party Sushi
 permalink: /california/berkeley/party-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Berkeley
 seo:
-  name: "Party Sushi"
-  type: Restaurant
+  type: restaurant
   links: http://www.partysushisf.com/
-description: "Party Sushi serves delicious sushi in Berkeley, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ7Zxke59-hYAR7EP2l9MAVfQ
 photos:
   - name: >-
@@ -170,7 +168,89 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x80857e9f7b649ced:0xf45500d397f643ec!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 16
+        minute: 30
+      close:
+        day: 0
+        hour: 20
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 30
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 20
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 30
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 20
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 30
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 20
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 30
+      close:
+        day: 5
+        hour: 14
+        minute: 30
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 20
+        minute: 30
+    - open:
+        day: 6
+        hour: 16
+        minute: 30
+      close:
+        day: 6
+        hour: 20
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:30 AM – 2:30 PM, 4:30 – 8:30 PM'
     - 'Wednesday: 11:30 AM – 2:30 PM, 4:30 – 8:30 PM'
@@ -178,14 +258,7 @@ opening_hours:
     - 'Friday: 11:30 AM – 2:30 PM, 4:30 – 8:30 PM'
     - 'Saturday: 4:30 – 8:30 PM'
     - 'Sunday: 4:30 – 8:30 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:30 AM – 2:30 PM, 4:30 – 8:30 PM'
-    - 'Wednesday: 11:30 AM – 2:30 PM, 4:30 – 8:30 PM'
-    - 'Thursday: 11:30 AM – 2:30 PM, 4:30 – 8:30 PM'
-    - 'Friday: 11:30 AM – 2:30 PM, 4:30 – 8:30 PM'
-    - 'Saturday: 4:30 – 8:30 PM'
-    - 'Sunday: 4:30 – 8:30 PM'
+  nextOpenTime: '2025-05-03T23:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +270,241 @@ phone: (510) 841-1776
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.5'
-rating_count: 0
+rating_count: 163
 website: http://www.partysushisf.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Discover Party Sushi in Berkeley, CA$$$Party Sushi in Berkeley, CA, offers a
+  welcoming spot for enjoying fresh sushi and traditional Japanese dishes in a
+  cozy setting. This sushi restaurant features an array of specialty rolls,
+  bento boxes, and classic fare, making it a great choice for those seeking
+  authentic flavors in a relaxed atmosphere. With options for accessibility like
+  wheelchair-friendly entrances and parking, it's designed to accommodate
+  various needs while serving moderately priced meals. The spot is ideal for
+  casual dining or takeout, especially for anyone exploring Japanese places
+  nearby, and its hours cater to both lunch and dinner crowds looking for
+  satisfying options.
+generative_summary: >-
+  Discover Party Sushi in Berkeley, CA$$$Party Sushi in Berkeley, CA, offers a
+  welcoming spot for enjoying fresh sushi and traditional Japanese dishes in a
+  cozy setting. This sushi restaurant features an array of specialty rolls,
+  bento boxes, and classic fare, making it a great choice for those seeking
+  authentic flavors in a relaxed atmosphere. With options for accessibility like
+  wheelchair-friendly entrances and parking, it's designed to accommodate
+  various needs while serving moderately priced meals. The spot is ideal for
+  casual dining or takeout, especially for anyone exploring Japanese places
+  nearby, and its hours cater to both lunch and dinner crowds looking for
+  satisfying options.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJ7Zxke59-hYAR7EP2l9MAVfQ/reviews/ChdDSUhNMG9nS0VJQ0FnSURfaU5hbW5nRRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 4
+    text:
+      text: >-
+        Went with a friend during the weekday, easy spot to get to with parking
+        around the block or metered parking.
+
+
+        Food was good for the price which I think was actually really fair.
+        There was a lot more noodles than expected in the ramen which was great,
+        though the char siu was sometimes tender, sometimes not. Sushi was good,
+        and I'd say the price was fair.
+
+
+        We left satisfied and the staff was very nice. I wouldn't mind going
+        back if I'm in the area.
+      languageCode: en
+    originalText:
+      text: >-
+        Went with a friend during the weekday, easy spot to get to with parking
+        around the block or metered parking.
+
+
+        Food was good for the price which I think was actually really fair.
+        There was a lot more noodles than expected in the ramen which was great,
+        though the char siu was sometimes tender, sometimes not. Sushi was good,
+        and I'd say the price was fair.
+
+
+        We left satisfied and the staff was very nice. I wouldn't mind going
+        back if I'm in the area.
+      languageCode: en
+    authorAttribution:
+      displayName: Stephen Pham
+      uri: https://www.google.com/maps/contrib/113568566541893925737/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIVYF9bSjCpT0f64oCX5KXuMVLtqrPCTIduPMRG5SaqRrc-qw=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-01-21T02:33:49.968778Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURfaU5hbW5nRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURfaU5hbW5nRRAB!2m1!1s0x80857e9f7b649ced:0xf45500d397f643ec
+  - name: >-
+      places/ChIJ7Zxke59-hYAR7EP2l9MAVfQ/reviews/ChZDSUhNMG9nS0VJQ0FnSURfamVTSkpREAE
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        Party Sushi is a charming little place with super fresh fish. The family
+        who runs it is so kind, and the service is always friendly and very
+        fast. I've ordered takeout twice now and the quality is consistently
+        excellent. Plus, the prices are reasonable. I've found my new go-to
+        sushi spot in Berkeley. Highly recommend!
+      languageCode: en
+    originalText:
+      text: >-
+        Party Sushi is a charming little place with super fresh fish. The family
+        who runs it is so kind, and the service is always friendly and very
+        fast. I've ordered takeout twice now and the quality is consistently
+        excellent. Plus, the prices are reasonable. I've found my new go-to
+        sushi spot in Berkeley. Highly recommend!
+      languageCode: en
+    authorAttribution:
+      displayName: Lauren Dolmyer
+      uri: https://www.google.com/maps/contrib/103941260466580227874/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUTklxTfeFL8qvI7xJlEC2NqeBDx_QnOQMTW4ZneANHx37heTrU=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-01-26T02:57:09.958952Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURfamVTSkpREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURfamVTSkpREAE!2m1!1s0x80857e9f7b649ced:0xf45500d397f643ec
+  - name: >-
+      places/ChIJ7Zxke59-hYAR7EP2l9MAVfQ/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfaUpya3NBRRAB
+    relativePublishTimeDescription: 3 months ago
+    rating: 5
+    text:
+      text: >-
+        An lovely gem of Berkeley! Great variety of yummy rolls, apps, and
+        sides. Friendly service will make you want to come back. My partner has
+        celiac disease and the staff are knowledgeable about gluten free options
+        and great at accommodating us. Fair prices and a nice atmosphere. Would
+        recommend!
+      languageCode: en
+    originalText:
+      text: >-
+        An lovely gem of Berkeley! Great variety of yummy rolls, apps, and
+        sides. Friendly service will make you want to come back. My partner has
+        celiac disease and the staff are knowledgeable about gluten free options
+        and great at accommodating us. Fair prices and a nice atmosphere. Would
+        recommend!
+      languageCode: en
+    authorAttribution:
+      displayName: Patrick Varuzza
+      uri: https://www.google.com/maps/contrib/114744094393980080518/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVGL_BdNCuk8s9z19YW69Fqi92MOy_IK32OvOIRihet2lcjRzbw=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-01-12T07:14:00.288178Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNfaUpya3NBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNfaUpya3NBRRAB!2m1!1s0x80857e9f7b649ced:0xf45500d397f643ec
+  - name: >-
+      places/ChIJ7Zxke59-hYAR7EP2l9MAVfQ/reviews/ChZDSUhNMG9nS0VJQ0FnSUN2ejg3U2FREAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        We loved getting sushi here! It was fantastic, very reasonably priced
+        and the sushi was delicious and fulfilling, the sushi rolls had plenty
+        of fish and the rice tasted so fresh and delicious. They gave us plenty
+        of soy sauce and utensils. The amount of rolls given was very reasonable
+        and the location was convenient with parking available
+
+
+        We will definitely will be coming back to grab some more sushi. Thank
+        you!
+      languageCode: en
+    originalText:
+      text: >-
+        We loved getting sushi here! It was fantastic, very reasonably priced
+        and the sushi was delicious and fulfilling, the sushi rolls had plenty
+        of fish and the rice tasted so fresh and delicious. They gave us plenty
+        of soy sauce and utensils. The amount of rolls given was very reasonable
+        and the location was convenient with parking available
+
+
+        We will definitely will be coming back to grab some more sushi. Thank
+        you!
+      languageCode: en
+    authorAttribution:
+      displayName: Stephaney Wilson
+      uri: https://www.google.com/maps/contrib/115858839790350008792/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWKMLKiKLW-0VH53sGQ8IpJbPZYg-cPJzVDo_wZ5tLeIJQMHkQ=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-12-15T23:30:23.652896Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN2ejg3U2FREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN2ejg3U2FREAE!2m1!1s0x80857e9f7b649ced:0xf45500d397f643ec
+  - name: >-
+      places/ChIJ7Zxke59-hYAR7EP2l9MAVfQ/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3eUx1MF9BRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 5
+    text:
+      text: Titanic and party scallop rolls were both delicious!
+      languageCode: en
+    originalText:
+      text: Titanic and party scallop rolls were both delicious!
+      languageCode: en
+    authorAttribution:
+      displayName: Joy Liu
+      uri: https://www.google.com/maps/contrib/100803539660102468658/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJhukQqB0s7XGofVHndgdnXASlsdkExtgkpDRKeE8wslEKuuBVX=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2025-03-23T04:08:37.836797Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUR3eUx1MF9BRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUR3eUx1MF9BRRAB!2m1!1s0x80857e9f7b649ced:0xf45500d397f643ec
+review_summary: >-
+  Insights from Recent Feedback$$$Folks around town often highlight the fresh
+  ingredients and tasty rolls at this sushi spot, noting that it delivers solid
+  value without breaking the bank. Many appreciate the friendly service and
+  quick turnaround, which makes grabbing a meal feel effortless and enjoyable.
+  Reviewers frequently mention accommodations for different dietary preferences,
+  adding to the appeal for groups or individuals with specific needs. Overall,
+  it's praised as a reliable go-to for sushi enthusiasts, with convenient
+  parking and a welcoming vibe that encourages return visits, though some note
+  occasional variations in certain dishes like the ramen. If you're hunting for
+  top-rated sushi near you, this place tends to leave diners feeling satisfied
+  and eager to come back.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
 good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
 serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_cocktails: false
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: true
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Casual sushi spot offering specialty rolls & party platters, plus classic
+  Japanese dishes.
 
 ---

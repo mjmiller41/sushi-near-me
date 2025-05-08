@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Nakaji"
+title: Nakaji
 permalink: /new-york/new-york/nakaji.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "Nakaji"
-  type: Restaurant
+  type: restaurant
   links: http://www.nakajinyc.com/
-description: "Intimate, wood-accented venue for curated omakase sushi meals served at a chef's counter. Nakaji serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, and dinner."
 place_id: ChIJX20rB1VbwokRM2mtS1kd9u0
 photos:
   - name: >-
@@ -184,6 +182,31 @@ price_range: $100 &ndash; & up
 rating: '4.3'
 rating_count: 0
 website: http://www.nakajinyc.com/
+description: >-
+  Discover Nakaji in New York, NY$$$Nakaji in New York, NY, stands out as an
+  intimate Japanese restaurant offering curated omakase sushi experiences that
+  highlight fresh, seasonal ingredients in a welcoming setting. The venue
+  features a wood-accented design and a chef's counter that creates an engaging
+  atmosphere for sushi enthusiasts exploring top-rated options near them. Diners
+  can enjoy meticulously prepared dishes that emphasize quality and balance,
+  making it a go-to spot for those searching for the best sushi restaurants in
+  the area. This sushi place near me combines traditional techniques with a cozy
+  vibe, ensuring each meal feels personalized and memorable. Whether you're
+  craving authentic Japanese flavors or seeking sushi close to you, Nakaji
+  delivers an elevated dining adventure that's worth the visit.
+generative_summary: >-
+  Discover Nakaji in New York, NY$$$Nakaji in New York, NY, stands out as an
+  intimate Japanese restaurant offering curated omakase sushi experiences that
+  highlight fresh, seasonal ingredients in a welcoming setting. The venue
+  features a wood-accented design and a chef's counter that creates an engaging
+  atmosphere for sushi enthusiasts exploring top-rated options near them. Diners
+  can enjoy meticulously prepared dishes that emphasize quality and balance,
+  making it a go-to spot for those searching for the best sushi restaurants in
+  the area. This sushi place near me combines traditional techniques with a cozy
+  vibe, ensuring each meal feels personalized and memorable. Whether you're
+  craving authentic Japanese flavors or seeking sushi close to you, Nakaji
+  delivers an elevated dining adventure that's worth the visit.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJX20rB1VbwokRM2mtS1kd9u0/reviews/ChdDSUhNMG9nS0VJQ0FnSUR6M082anRnRRAB
@@ -409,6 +432,21 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURnbm9qNWR3EAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURnbm9qNWR3EAE!2m1!1s0x89c25b55072b6d5f:0xedf61d594bad6933
+review_summary: >-
+  What Guests Are Saying About This Sushi Spot$$$Folks generally rave about the
+  fresh and well-balanced sushi offerings at this New York favorite, with many
+  highlighting the delicious variety of seafood and otsumami dishes that make
+  for a standout meal. While one visitor noted occasional waits and minor
+  inconsistencies with certain items like ginger or unagi, the overall vibe
+  remains positive with praise for the warm service and inviting atmosphere.
+  It's often described as a great value for an omakase experience, appealing to
+  those on the hunt for top-rated sushi near me that combines quality with a
+  relaxed feel. Reviewers appreciate the professional yet friendly staff and the
+  overall refinement, making it a solid choice for anyone looking to enjoy
+  Japanese places near me. All in all, the feedback leans toward highly
+  recommending it for a memorable sushi outing, as long as you plan ahead for
+  timing.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options:
   acceptsCreditCards: true
@@ -437,8 +475,8 @@ serves_lunch: null
 serves_vegetarian_food: false
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Intimate, wood-accented venue for curated omakase sushi meals served at a
   chef's counter.
 

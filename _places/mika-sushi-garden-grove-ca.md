@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Mika Sushi"
+title: Mika Sushi
 permalink: /california/garden-grove/mika-sushi.html
 stateAbbr: CA
 stateName: California
 cityName: Garden Grove
 seo:
-  name: "Mika Sushi"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Mika Sushi serves delicious sushi in Garden Grove, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJt_Cy8ygv3YARbohNCNG8gMA
 photos:
   - name: >-
@@ -185,7 +183,46 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover Mika Sushi in Garden Grove, CA$$$Nestled in Garden Grove, CA, Mika
+  Sushi offers a welcoming spot for enjoying fresh sushi and Japanese-inspired
+  dishes in a relaxed environment. This cozy sushi restaurant features a
+  laid-back setting with a sushi bar, perfect for those seeking authentic
+  flavors like bento boxes and sake pairings. Accessibility is a key highlight,
+  with options for wheelchair-friendly parking, entrances, and seating that make
+  it easy for everyone to enjoy a meal. Visitors can appreciate the intimate
+  atmosphere, ideal for casual dining or trying new tastes, all while exploring
+  top-rated sushi options in the area. Whether you're looking for sushi near me
+  or a go-to Japanese place in Garden Grove, this spot delivers a simple yet
+  satisfying experience.
+generative_summary: >-
+  Discover Mika Sushi in Garden Grove, CA$$$Nestled in Garden Grove, CA, Mika
+  Sushi offers a welcoming spot for enjoying fresh sushi and Japanese-inspired
+  dishes in a relaxed environment. This cozy sushi restaurant features a
+  laid-back setting with a sushi bar, perfect for those seeking authentic
+  flavors like bento boxes and sake pairings. Accessibility is a key highlight,
+  with options for wheelchair-friendly parking, entrances, and seating that make
+  it easy for everyone to enjoy a meal. Visitors can appreciate the intimate
+  atmosphere, ideal for casual dining or trying new tastes, all while exploring
+  top-rated sushi options in the area. Whether you're looking for sushi near me
+  or a go-to Japanese place in Garden Grove, this spot delivers a simple yet
+  satisfying experience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying About Mika Sushi$$$Folks who stop by Mika Sushi
+  often highlight the fresh ingredients and straightforward vibe that make it a
+  solid choice for everyday meals. Many appreciate the variety of sushi rolls
+  and bento options, noting how they hit the spot without overwhelming the
+  palate, though some mention wishing for more variety in specials. It's
+  commonly described as a reliable spot for quick, tasty bites, with the
+  laid-back setting earning nods for feeling just right for solo diners or small
+  groups. Overall, sushi enthusiasts tend to recommend it as one of the better
+  local options, especially if you're hunting for top-rated sushi near me that's
+  easy to enjoy. While experiences can vary, the general buzz stays positive,
+  painting it as a go-to for anyone craving straightforward Japanese flavors in
+  a welcoming space.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +248,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

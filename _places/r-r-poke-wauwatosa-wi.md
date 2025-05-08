@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "R & R Poke"
+title: R & R Poke
 permalink: /wisconsin/wauwatosa/r-r-poke.html
 stateAbbr: WI
 stateName: Wisconsin
 cityName: Wauwatosa
 seo:
-  name: "R & R Poke"
-  type: Restaurant
+  type: restaurant
   links: https://www.rrpokewi.com/
-description: "R & R Poke serves delicious sushi in Wauwatosa, Wisconsin. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJcxmDZwcbBYgR2O3ij9o1f6I
 photos:
   - name: >-
@@ -185,6 +183,33 @@ price_range: $10 &ndash; $20
 rating: '4.8'
 rating_count: 0
 website: https://www.rrpokewi.com/
+description: >-
+  Discover R & R Poke in Wauwatosa, WI$$$R & R Poke in Wauwatosa, WI, stands out
+  as a casual spot for fresh poke bowls and Asian-inspired dishes, making it a
+  go-to choice for sushi enthusiasts in the area. This welcoming restaurant
+  allows diners to customize their meals with a variety of high-quality
+  ingredients, ensuring each bowl is packed with flavor and freshness. The
+  laid-back atmosphere pairs perfectly with its affordable pricing, appealing to
+  those seeking tasty sushi options without the fuss. Accessibility features
+  like wheelchair-friendly entrances and parking add to the convenience, while
+  the focus on vegetarian choices broadens its appeal for diverse tastes.
+  Whether you're exploring top-rated sushi spots nearby, it's an ideal stop for
+  a satisfying, build-your-own meal that highlights the best of
+  Japanese-inspired cuisine.
+generative_summary: >-
+  Discover R & R Poke in Wauwatosa, WI$$$R & R Poke in Wauwatosa, WI, stands out
+  as a casual spot for fresh poke bowls and Asian-inspired dishes, making it a
+  go-to choice for sushi enthusiasts in the area. This welcoming restaurant
+  allows diners to customize their meals with a variety of high-quality
+  ingredients, ensuring each bowl is packed with flavor and freshness. The
+  laid-back atmosphere pairs perfectly with its affordable pricing, appealing to
+  those seeking tasty sushi options without the fuss. Accessibility features
+  like wheelchair-friendly entrances and parking add to the convenience, while
+  the focus on vegetarian choices broadens its appeal for diverse tastes.
+  Whether you're exploring top-rated sushi spots nearby, it's an ideal stop for
+  a satisfying, build-your-own meal that highlights the best of
+  Japanese-inspired cuisine.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJcxmDZwcbBYgR2O3ij9o1f6I/reviews/ChZDSUhNMG9nS0VJQ0FnSUN2czlqUkdBEAE
@@ -328,6 +353,20 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURndWMtYzVnRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURndWMtYzVnRRAB!2m1!1s0x88051b0767831973:0xa27f35da8fe2edd8
+review_summary: >-
+  What Customers Are Saying About This Poke Spot$$$Folks consistently praise
+  this place for its super fresh ingredients and generous portions that make
+  every bite feel worthwhile, especially in customizable bowls that keep things
+  exciting. Many highlight the helpful staff and quick service, which make
+  grabbing a meal feel effortless and enjoyable, perfect for a casual lunch or
+  dinner outing. Reviewers often note that the variety of toppings and flavors,
+  like creamy cashew shrimp options, deliver great value without skimping on
+  quality. Overall, it's clear this spot stands out as a reliable choice over
+  bigger chains, with diners appreciating the friendly vibe and solid prices
+  that keep them coming back. If you're on the hunt for one of the best sushi
+  experiences around, the positive feedback suggests it's a spot that delivers
+  on freshness and fun without any major drawbacks.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -360,7 +399,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

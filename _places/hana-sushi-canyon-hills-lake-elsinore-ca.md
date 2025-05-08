@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Hana Sushi Canyon Hills"
+title: Hana Sushi Canyon Hills
 permalink: /california/lake-elsinore/hana-sushi-canyon-hills.html
 stateAbbr: CA
 stateName: California
 cityName: Lake Elsinore
 seo:
-  name: "Hana Sushi Canyon Hills"
-  type: Restaurant
+  type: restaurant
   links: http://hanasushicanyonhills.com/
-description: "Hana Sushi Canyon Hills serves delicious sushi in Lake Elsinore, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJ1QkJtnSc3IAREhx5o6Hw7Oo
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $30 &ndash; $50
 rating: '4.6'
 rating_count: 0
 website: http://hanasushicanyonhills.com/
+description: >-
+  Discover Hana Sushi in Lake Elsinore, CA$$$Hana Sushi Canyon Hills in Lake
+  Elsinore, CA, stands out as a welcoming Japanese eatery offering a blend of
+  casual dining and flavorful specialties. This spot features an array of
+  signature sushi rolls and grilled meats, perfect for those exploring top-rated
+  sushi options in the area. With happy-hour drinks adding to the relaxed vibe,
+  it's an ideal choice for enjoying fresh, well-crafted dishes in a comfortable
+  setting. The restaurant emphasizes accessibility and outdoor seating, making
+  it convenient for groups or families seeking authentic Japanese flavors.
+  Whether you're looking for sushi restaurants near you, this location delivers
+  a satisfying mix of quality ingredients and inviting ambiance.
+generative_summary: >-
+  Discover Hana Sushi in Lake Elsinore, CA$$$Hana Sushi Canyon Hills in Lake
+  Elsinore, CA, stands out as a welcoming Japanese eatery offering a blend of
+  casual dining and flavorful specialties. This spot features an array of
+  signature sushi rolls and grilled meats, perfect for those exploring top-rated
+  sushi options in the area. With happy-hour drinks adding to the relaxed vibe,
+  it's an ideal choice for enjoying fresh, well-crafted dishes in a comfortable
+  setting. The restaurant emphasizes accessibility and outdoor seating, making
+  it convenient for groups or families seeking authentic Japanese flavors.
+  Whether you're looking for sushi restaurants near you, this location delivers
+  a satisfying mix of quality ingredients and inviting ambiance.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJ1QkJtnSc3IAREhx5o6Hw7Oo/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRei1HWEZnEAE
@@ -346,6 +367,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURUM3VlNDhRRRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURUM3VlNDhRRRAB!2m1!1s0x80dc9c74b60909d5:0xeaecf0a1a3791c12
+review_summary: >-
+  What Customers Are Buzzing About$$$Visitors consistently praise the fresh and
+  delicious sushi at this spot, highlighting the great deals and variety of
+  rolls that make it a go-to for casual meals. Many enjoy the flavorful options
+  and attentive service, often mentioning how the specials enhance the overall
+  experience without breaking the bank. While the majority appreciate the
+  generous portions and creative dishes, a few notes suggest that portion sizes
+  might not always match expectations for the price. Overall, it's a solid pick
+  for anyone craving quality Japanese cuisine, with feedback leaning positive on
+  taste and atmosphere. If you're on the hunt for sushi places near me, this
+  restaurant seems to hit the mark for most, offering a reliably enjoyable
+  dine-in or takeout option.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -378,7 +412,7 @@ serves_lunch: true
 serves_vegetarian_food: false
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

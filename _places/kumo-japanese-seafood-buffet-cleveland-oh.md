@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kumo Japanese Seafood Buffet"
+title: Kumo Japanese Seafood Buffet
 permalink: /ohio/cleveland/kumo-japanese-seafood-buffet.html
 stateAbbr: OH
 stateName: Ohio
 cityName: Cleveland
 seo:
-  name: "Kumo Japanese Seafood Buffet"
-  type: Restaurant
+  type: restaurant
   links: http://kumobuffet.com/
-description: "Kumo Japanese Seafood Buffet serves delicious sushi in Cleveland, Ohio. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJlXogkmHvMIgRGF7TvOESC5Q
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8830ef6192207a95:0x940b12e1bcd35e18!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:00 PM'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:00 PM'
     - 'Saturday: 11:00 AM – 9:00 PM'
     - 'Sunday: 11:00 AM – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 9:00 PM'
-    - 'Saturday: 11:00 AM – 9:00 PM'
-    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T01:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +246,50 @@ phone: (216) 741-3038
 price_level: PRICE_LEVEL_INEXPENSIVE
 price_range: $20 &ndash; $30
 rating: '3.9'
-rating_count: 0
+rating_count: 2435
 website: http://kumobuffet.com/
+description: >-
+  About Kumo Japanese Seafood Buffet in Cleveland, OH$$$Kumo Japanese Seafood
+  Buffet in Cleveland, OH, stands out as a casual spot for enjoying
+  all-you-can-eat Japanese cuisine, featuring fresh sushi and a variety of
+  seafood options that draw in locals and visitors alike. This welcoming
+  restaurant combines a laid-back atmosphere with an extensive selection of
+  Japanese fare, including flavorful dishes and a complementary salad bar that
+  adds to the dining experience. With its affordable pricing and accessibility
+  features like wheelchair-friendly entrances and seating, it's an ideal choice
+  for those seeking convenient Japanese places near me without breaking the
+  bank. The buffet setup allows for exploring top-rated sushi options at your
+  own pace, making it perfect for a satisfying meal. Operating daily from 11 AM
+  to 9 PM, it caters to anyone craving authentic flavors in a relaxed setting.
+generative_summary: >-
+  About Kumo Japanese Seafood Buffet in Cleveland, OH$$$Kumo Japanese Seafood
+  Buffet in Cleveland, OH, stands out as a casual spot for enjoying
+  all-you-can-eat Japanese cuisine, featuring fresh sushi and a variety of
+  seafood options that draw in locals and visitors alike. This welcoming
+  restaurant combines a laid-back atmosphere with an extensive selection of
+  Japanese fare, including flavorful dishes and a complementary salad bar that
+  adds to the dining experience. With its affordable pricing and accessibility
+  features like wheelchair-friendly entrances and seating, it's an ideal choice
+  for those seeking convenient Japanese places near me without breaking the
+  bank. The buffet setup allows for exploring top-rated sushi options at your
+  own pace, making it perfect for a satisfying meal. Operating daily from 11 AM
+  to 9 PM, it caters to anyone craving authentic flavors in a relaxed setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback on Kumo Japanese Seafood Buffet$$$Folks chatting about Kumo
+  often highlight the fresh sushi and wide array of choices as real standouts,
+  making it a go-to for sushi enthusiasts in the area. While the overall vibe
+  gets solid nods for being family-friendly and value-packed, some mention that
+  service can vary a bit depending on the time of day, though it's generally
+  efficient and friendly. Reviewers appreciate the generous portions and variety
+  that keep things exciting, especially for groups looking for budget-friendly
+  Japanese dining spots. All in all, with a strong rating reflecting positive
+  experiences, it's clear this place delivers on tasty, reliable meals that
+  leave most people coming back for more sushi close to me. If you're on the
+  hunt for straightforward, enjoyable eats, it's worth checking out for its
+  consistent appeal.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +315,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

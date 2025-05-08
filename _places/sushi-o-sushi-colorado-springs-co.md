@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi O Sushi"
+title: Sushi O Sushi
 permalink: /colorado/colorado-springs/sushi-o-sushi.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Colorado Springs
 seo:
-  name: "Sushi O Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.sushiosushico.com/
-description: "Sushi O Sushi serves delicious sushi in Colorado Springs, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJQXMlYGtDE4cRJkeb_9TD2sk
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8713436b60257341:0xc9dac3d4ff9b4726!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 9:00 PM'
     - 'Tuesday: 11:00 AM – 9:00 PM'
     - 'Wednesday: 11:00 AM – 9:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:00 PM'
     - 'Saturday: 12:00 – 10:00 PM'
     - 'Sunday: 12:00 – 9:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 9:00 PM'
-    - 'Tuesday: 11:00 AM – 9:00 PM'
-    - 'Wednesday: 11:00 AM – 9:00 PM'
-    - 'Thursday: 11:00 AM – 9:00 PM'
-    - 'Friday: 11:00 AM – 10:00 PM'
-    - 'Saturday: 12:00 – 10:00 PM'
-    - 'Sunday: 12:00 – 9:00 PM'
+  nextCloseTime: '2025-05-04T04:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +246,46 @@ phone: (719) 576-9830
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.5'
-rating_count: 0
+rating_count: 926
 website: https://www.sushiosushico.com/
+description: >-
+  Explore Sushi O Sushi in Colorado Springs, CO$$$Sushi O Sushi in Colorado
+  Springs, CO, stands out as a welcoming Japanese eatery offering a relaxed vibe
+  for those seeking fresh sushi and other authentic dishes. This spot combines
+  casual comfort with a selection of flavorful rolls and entrees, making it an
+  ideal choice for anyone exploring top-rated sushi restaurants in the area.
+  With accessibility features like wheelchair-friendly parking and entrances, it
+  ensures everyone can enjoy a comfortable dining experience. The moderate
+  pricing adds to its appeal for locals and visitors alike, providing great
+  value without compromising on quality. Whether you're looking for sushi places
+  near you or simply craving Japanese flavors, this location delivers a
+  satisfying meal in a laid-back setting.
+generative_summary: >-
+  Explore Sushi O Sushi in Colorado Springs, CO$$$Sushi O Sushi in Colorado
+  Springs, CO, stands out as a welcoming Japanese eatery offering a relaxed vibe
+  for those seeking fresh sushi and other authentic dishes. This spot combines
+  casual comfort with a selection of flavorful rolls and entrees, making it an
+  ideal choice for anyone exploring top-rated sushi restaurants in the area.
+  With accessibility features like wheelchair-friendly parking and entrances, it
+  ensures everyone can enjoy a comfortable dining experience. The moderate
+  pricing adds to its appeal for locals and visitors alike, providing great
+  value without compromising on quality. Whether you're looking for sushi places
+  near you or simply craving Japanese flavors, this location delivers a
+  satisfying meal in a laid-back setting.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Insights from Diners at Sushi O Sushi$$$Folks often praise the standout sushi
+  selections at this Japanese spot, highlighting tasty options like creative
+  rolls that bring bold flavors to the table. Many appreciate the solid value
+  for money, with meals offering decent portions at reasonable prices that make
+  it a go-to for casual outings. The friendly team and smooth service stand out
+  as key positives, creating a welcoming atmosphere that enhances the overall
+  visit. While opinions vary, the general consensus leans toward it being a
+  reliable choice for quality Japanese cuisine. If you're on the hunt for great
+  sushi near you, this place consistently earns nods for its flavorful dishes
+  and attentive staff, making it worth a try for a satisfying meal.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +311,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Bonchon Uptown"
+title: Bonchon Uptown
 permalink: /minnesota/minneapolis/bonchon-uptown.html
 stateAbbr: MN
 stateName: Minnesota
 cityName: Minneapolis
 seo:
-  name: "Bonchon Uptown"
-  type: Restaurant
-  links: null
-description: "Bonchon Uptown serves delicious sushi in Minneapolis, Minnesota. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://locations.bonchon.com/ll/US/MN/Minneapolis/1414-W-Lake
 place_id: ChIJ2Rkg668n9ocRiso4CVuIVeY
 photos:
   - name: >-
@@ -170,8 +168,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x87f627afeb2019d9:0xe655885b0938ca8a!10e5
 primary_type: Asian Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:30 PM'
+    - 'Tuesday: 11:00 AM – 9:30 PM'
+    - 'Wednesday: 11:00 AM – 9:30 PM'
+    - 'Thursday: 11:00 AM – 9:30 PM'
+    - 'Friday: 11:00 AM – 9:30 PM'
+    - 'Saturday: 11:00 AM – 9:30 PM'
+    - 'Sunday: 11:00 AM – 9:30 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -179,13 +242,48 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (612) 822-6000
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '4.3'
+rating_count: 547
+website: https://locations.bonchon.com/ll/US/MN/Minneapolis/1414-W-Lake
+description: >-
+  Explore Bonchon Uptown in Minneapolis, MN$$$Bonchon Uptown in Minneapolis, MN,
+  stands out as a welcoming Asian fusion spot known for its flavorful
+  Korean-inspired dishes, including signature fried chicken that draws in locals
+  and visitors alike. This family-oriented restaurant offers a cozy atmosphere
+  with accessible features like wheelchair-friendly parking and entrances,
+  making it easy for everyone to enjoy a meal. Guests can savor a variety of
+  Asian fare in a vibrant setting, with daily hours from 11 AM to 9:30 PM
+  ensuring options for lunch, dinner, or casual bites. The moderate pricing adds
+  to its appeal for those seeking quality without breaking the bank, while the
+  neighborhood location in Lowry Hill East provides a convenient urban escape.
+generative_summary: >-
+  Explore Bonchon Uptown in Minneapolis, MN$$$Bonchon Uptown in Minneapolis, MN,
+  stands out as a welcoming Asian fusion spot known for its flavorful
+  Korean-inspired dishes, including signature fried chicken that draws in locals
+  and visitors alike. This family-oriented restaurant offers a cozy atmosphere
+  with accessible features like wheelchair-friendly parking and entrances,
+  making it easy for everyone to enjoy a meal. Guests can savor a variety of
+  Asian fare in a vibrant setting, with daily hours from 11 AM to 9:30 PM
+  ensuring options for lunch, dinner, or casual bites. The moderate pricing adds
+  to its appeal for those seeking quality without breaking the bank, while the
+  neighborhood location in Lowry Hill East provides a convenient urban escape.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Visitor Feedback Highlights$$$Visitors to this Asian eatery often rave about
+  the delicious, crispy fried chicken and the overall tasty menu that keeps them
+  coming back for more. Many appreciate the friendly service and welcoming vibe,
+  noting that it's a solid choice for a casual meal with friends or family.
+  While some mention occasional waits during peak times, the general consensus
+  is that the flavors and portions make it well worth it. Overall, the high
+  ratings reflect a positive experience, with folks enjoying the approachable
+  atmosphere and reliable quality. If you're in the mood for top-rated Asian
+  options nearby, this spot delivers a satisfying dine-in experience that's both
+  generous and reliably good.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +309,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

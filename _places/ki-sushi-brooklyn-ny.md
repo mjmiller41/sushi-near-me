@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "KI SUSHI"
+title: KI SUSHI
 permalink: /new-york/brooklyn/ki-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: Brooklyn
 seo:
-  name: "KI SUSHI"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "KI SUSHI serves delicious sushi in Brooklyn, New York. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJiXgxF05awokRzcgnxMbCR9U
 photos:
   - name: >-
@@ -185,7 +183,39 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Discover KI SUSHI in Brooklyn, NY$$$KI SUSHI in Brooklyn, NY, stands out as a
+  welcoming Japanese eatery known for its fresh sushi offerings and cozy
+  atmosphere. This spot features a variety of sushi rolls, sashimi, and sake
+  selections, catering to those seeking authentic flavors with thoughtful
+  vegetarian options. Diners can enjoy a relaxed setting that emphasizes quality
+  ingredients and simple elegance, making it a go-to choice for anyone exploring
+  sushi spots in the area. Accessibility features like wheelchair-friendly
+  entrances and seating add to the inclusive vibe, ensuring a comfortable visit
+  for all.
+generative_summary: >-
+  Discover KI SUSHI in Brooklyn, NY$$$KI SUSHI in Brooklyn, NY, stands out as a
+  welcoming Japanese eatery known for its fresh sushi offerings and cozy
+  atmosphere. This spot features a variety of sushi rolls, sashimi, and sake
+  selections, catering to those seeking authentic flavors with thoughtful
+  vegetarian options. Diners can enjoy a relaxed setting that emphasizes quality
+  ingredients and simple elegance, making it a go-to choice for anyone exploring
+  sushi spots in the area. Accessibility features like wheelchair-friendly
+  entrances and seating add to the inclusive vibe, ensuring a comfortable visit
+  for all.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Visitors Are Saying$$$Folks frequently highlight the fresh and flavorful
+  dishes at this Japanese eatery, with standout items like omakase and crispy
+  tuna rice earning high marks for their taste and presentation. Many appreciate
+  the attentive service that keeps the experience smooth and enjoyable, creating
+  a friendly environment for casual meals. The warm, intimate setting often gets
+  praised for adding a personal touch to every visit, making it feel like a
+  hidden gem among local sushi places. Overall, it's a solid pick for anyone
+  craving top-rated sushi nearby, with feedback pointing to consistently
+  satisfying experiences that balance quality and comfort.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +241,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Bonchon Division St"
+title: Bonchon Division St
 permalink: /illinois/chicago/bonchon-division-st.html
 stateAbbr: IL
 stateName: Illinois
 cityName: Chicago
 seo:
-  name: "Bonchon Division St"
-  type: Restaurant
-  links: null
-description: "Bonchon Division St serves delicious sushi in Chicago, Illinois. Try fresh Japanese dishes for a great dining experience. "
+  type: restaurant
+  links: https://locations.bonchon.com/ll/US/IL/Chicago/1732-W-Division-St
 place_id: ChIJD_T95M7SD4gRN7RYyH3-eE8
 photos:
   - name: >-
@@ -169,8 +167,73 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x880fd2cee4fdf40f:0x4f78fe7dc858b437!10e5
 primary_type: Asian Restaurant
 opening_hours:
-  regular: null
-  current: null
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
+    - 'Monday: 11:00 AM – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 9:00 PM'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 10:00 PM'
+    - 'Saturday: 11:00 AM – 10:00 PM'
+    - 'Sunday: 11:00 AM – 9:00 PM'
+  nextCloseTime: '2025-05-04T03:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -178,13 +241,49 @@ secondary_opening_hours:
   current:
     weekdayDescriptions: null
     type: null
-phone: null
-price_level: null
-price_range: null
-rating: null
-rating_count: 0
-website: null
+phone: (773) 360-7460
+price_level: PRICE_LEVEL_MODERATE
+price_range: $10 &ndash; $20
+rating: '3.9'
+rating_count: 427
+website: https://locations.bonchon.com/ll/US/IL/Chicago/1732-W-Division-St
+description: >-
+  Discover Bonchon in Chicago, IL$$$Nestled in the vibrant West Town
+  neighborhood of Chicago, IL, Bonchon Division St stands out as a go-to spot
+  for authentic Asian fusion dining. This casual eatery specializes in flavorful
+  Korean fried chicken and a variety of other Asian-inspired dishes, creating a
+  welcoming atmosphere for locals and visitors alike. With its accessible
+  features like wheelchair-friendly entrances and seating, it's designed to
+  accommodate everyone looking for a comfortable meal. The spot operates with
+  extended hours, making it easy to enjoy fresh, moderately priced options
+  throughout the week, and its fusion menu adds a delightful twist to
+  traditional flavors for those exploring Asian cuisine nearby.
+generative_summary: >-
+  Discover Bonchon in Chicago, IL$$$Nestled in the vibrant West Town
+  neighborhood of Chicago, IL, Bonchon Division St stands out as a go-to spot
+  for authentic Asian fusion dining. This casual eatery specializes in flavorful
+  Korean fried chicken and a variety of other Asian-inspired dishes, creating a
+  welcoming atmosphere for locals and visitors alike. With its accessible
+  features like wheelchair-friendly entrances and seating, it's designed to
+  accommodate everyone looking for a comfortable meal. The spot operates with
+  extended hours, making it easy to enjoy fresh, moderately priced options
+  throughout the week, and its fusion menu adds a delightful twist to
+  traditional flavors for those exploring Asian cuisine nearby.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Sharing$$$Folks who visit this Asian spot often highlight
+  the crispy fried chicken and bold flavors as standout features, making it a
+  favorite for anyone craving satisfying meals in a laid-back setting. Many
+  appreciate the generous portions and friendly service that keep the vibe
+  upbeat and enjoyable, especially for groups or casual outings. While some
+  mention occasional waits during busy times, the overall experience tends to
+  leave diners pleased with the value and taste. It's frequently noted as a
+  reliable choice in the area, with positive feedback on the atmosphere helping
+  it maintain a solid reputation among food enthusiasts. All in all, if you're
+  in the mood for tasty Asian options close by, this place delivers a generally
+  enjoyable experience worth trying.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -210,7 +309,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

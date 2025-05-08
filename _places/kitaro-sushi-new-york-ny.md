@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Kitaro Sushi"
+title: Kitaro Sushi
 permalink: /new-york/new-york/kitaro-sushi.html
 stateAbbr: NY
 stateName: New York
 cityName: New York
 seo:
-  name: "Kitaro Sushi"
-  type: Restaurant
+  type: restaurant
   links: https://www.kitarosushitogo.com/
-description: "Traditional Japanese venue specializing in sushi served alongside sashimi, teriyaki & noodles. Kitaro Sushi serves delicious sushi in New York, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJKRFZOIRYwokR_uw6rPg9wgI
 photos:
   - name: >-
@@ -184,6 +182,29 @@ price_range: $20 &ndash; $30
 rating: '4.1'
 rating_count: 0
 website: https://www.kitarosushitogo.com/
+description: >-
+  Discover Kitaro Sushi in New York, NY$$$Kitaro Sushi in New York, NY, stands
+  out as a welcoming Japanese eatery, blending casual vibes with a selection of
+  fresh sushi rolls and savory teriyaki dishes that appeal to sushi enthusiasts.
+  This spot offers a cozy atmosphere perfect for enjoying traditional favorites
+  like sashimi and noodles, all prepared with attention to quality ingredients
+  and flavors. Accessibility features make it easy for everyone to savor the
+  experience, while its moderate pricing adds to its appeal for those seeking
+  top-rated sushi options in the area. Whether you're looking for sushi places
+  near me or a reliable choice for Japanese cuisine, this location delivers a
+  satisfying mix of authenticity and convenience.
+generative_summary: >-
+  Discover Kitaro Sushi in New York, NY$$$Kitaro Sushi in New York, NY, stands
+  out as a welcoming Japanese eatery, blending casual vibes with a selection of
+  fresh sushi rolls and savory teriyaki dishes that appeal to sushi enthusiasts.
+  This spot offers a cozy atmosphere perfect for enjoying traditional favorites
+  like sashimi and noodles, all prepared with attention to quality ingredients
+  and flavors. Accessibility features make it easy for everyone to savor the
+  experience, while its moderate pricing adds to its appeal for those seeking
+  top-rated sushi options in the area. Whether you're looking for sushi places
+  near me or a reliable choice for Japanese cuisine, this location delivers a
+  satisfying mix of authenticity and convenience.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJKRFZOIRYwokR_uw6rPg9wgI/reviews/ChdDSUhNMG9nS0VJQ0FnSURMcThId2xBRRAB
@@ -341,6 +362,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUMyMGRXYU1REAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUMyMGRXYU1REAE!2m1!1s0x89c2588438591129:0x2c23df8ac3aecfe
+review_summary: >-
+  What Visitors Love About Kitaro Sushi$$$Folks often rave about the fresh fish
+  and well-crafted rolls at this spot, making it a go-to for anyone craving
+  reliable Japanese flavors without breaking the bank. Many appreciate the
+  friendly service and inviting ambiance that enhance the overall dining
+  experience, with highlights on generous portions and tasty appetizers like
+  teriyaki. Even though one comment noted the space isn't fancy, it's still
+  praised as a solid pick for quick takeout or group meals, keeping things
+  positive overall. If you're hunting for the best sushi near me, this place
+  gets nods for its consistent quality and welcoming feel, encouraging repeat
+  visits for both lunch and dinner. Ultimately, it's a neighborhood favorite
+  that delivers on taste and value, leaving diners eager to return.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   valetParking: false
 payment_options:
@@ -371,8 +405,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Traditional Japanese venue specializing in sushi served alongside sashimi,
   teriyaki & noodles.
 

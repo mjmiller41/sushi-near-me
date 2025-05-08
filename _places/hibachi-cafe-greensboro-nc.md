@@ -1,15 +1,14 @@
 ---
 layout: place
-title: "Hibachi Cafe"
+title: Hibachi Cafe
 permalink: /north-carolina/greensboro/hibachi-cafe.html
 stateAbbr: NC
 stateName: North Carolina
 cityName: Greensboro
 seo:
-  name: "Hibachi Cafe"
-  type: Restaurant
-  links: https://www.hibachicafenorthcarolina.com/zdoq28ba/hibachi-cafe-greensboro-27401/order-online
-description: "Hibachi Cafe serves delicious sushi in Greensboro, North Carolina. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
+  type: restaurant
+  links: >-
+    https://www.hibachicafenorthcarolina.com/zdoq28ba/hibachi-cafe-greensboro-27401/order-online
 place_id: ChIJuSVHIR8ZU4gR7aC73NHmlCs
 photos:
   - name: >-
@@ -149,8 +148,8 @@ state: NC
 zip: '27401'
 country: USA
 neighborhood: Downtown
-latitude: '36.068070'
-longitude: '-79.791177'
+latitude: '36.068163'
+longitude: '-79.790780'
 accessibility_options:
   wheelchairAccessibleParking: true
   wheelchairAccessibleEntrance: true
@@ -186,6 +185,31 @@ rating: '4.0'
 rating_count: 0
 website: >-
   https://www.hibachicafenorthcarolina.com/zdoq28ba/hibachi-cafe-greensboro-27401/order-online
+description: >-
+  Experience Hibachi Cafe in Greensboro, NC$$$Hibachi Cafe in Greensboro, North
+  Carolina, serves up a blend of hibachi-style dishes and Japanese comfort
+  favorites in a relaxed setting, making it a go-to spot for casual dining
+  enthusiasts. The menu features flavorful options like grilled specialties and
+  wings, appealing to those seeking authentic Japanese-inspired meals without
+  the formality. With accessibility features such as wheelchair-friendly
+  entrances and parking, it's designed for everyone to enjoy a comfortable
+  visit. This spot stands out for its laid-back vibe and moderate pricing, ideal
+  for a quick bite or family outing. Whether you're exploring sushi restaurants
+  nearby or looking for Japanese places in the area, Hibachi Cafe delivers a
+  welcoming atmosphere with satisfying portions.
+generative_summary: >-
+  Experience Hibachi Cafe in Greensboro, NC$$$Hibachi Cafe in Greensboro, North
+  Carolina, serves up a blend of hibachi-style dishes and Japanese comfort
+  favorites in a relaxed setting, making it a go-to spot for casual dining
+  enthusiasts. The menu features flavorful options like grilled specialties and
+  wings, appealing to those seeking authentic Japanese-inspired meals without
+  the formality. With accessibility features such as wheelchair-friendly
+  entrances and parking, it's designed for everyone to enjoy a comfortable
+  visit. This spot stands out for its laid-back vibe and moderate pricing, ideal
+  for a quick bite or family outing. Whether you're exploring sushi restaurants
+  nearby or looking for Japanese places in the area, Hibachi Cafe delivers a
+  welcoming atmosphere with satisfying portions.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJuSVHIR8ZU4gR7aC73NHmlCs/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ3b3NucGh3RRAB
@@ -359,6 +383,21 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUN3akszWUlBEAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUN3akszWUlBEAE!2m1!1s0x8853191f214725b9:0x2b94e6d1dcbba0ed
+review_summary: >-
+  Customer Feedback on Hibachi Cafe$$$Folks chatting about Hibachi Cafe often
+  highlight the tasty hibachi and sushi options that hit the spot for a solid
+  meal, with some raving about the flavorful rolls and fried rice that keep them
+  coming back. While a few mentions point to occasional wait times or minor
+  inconsistencies like overcooked items, the overall experience tends to shine
+  through with friendly service and creative menu choices. It's common to hear
+  that the atmosphere feels inviting and the portions are generous, making it a
+  fun pick for groups or families hunting for top-rated sushi near me. Despite a
+  couple of mixed experiences with preparation, many agree that the positives
+  outweigh the hiccups, offering honest value for those eager to try local
+  Japanese eats. If you're searching for sushi restaurants in Greensboro, this
+  place delivers a mostly enjoyable vibe with room for the occasional
+  improvement.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   paidParkingLot: true
@@ -393,7 +432,7 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

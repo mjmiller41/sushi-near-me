@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Ohana"
+title: Sushi Ohana
 permalink: /oregon/portland/sushi-ohana.html
 stateAbbr: OR
 stateName: Oregon
 cityName: Portland
 seo:
-  name: "Sushi Ohana"
-  type: Restaurant
+  type: restaurant
   links: https://www.sushiohanapdx.com/
-description: "Sushi Ohana serves delicious sushi in Portland, Oregon. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJM1J1P7WglVQR2-LkVmwrRm0
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x5495a0b53f755233:0x6d462b6c56e4e2db!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 22
+        minute: 0
+    - open:
+        day: 1
+        hour: 11
+        minute: 0
+      close:
+        day: 1
+        hour: 22
+        minute: 0
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 22
+        minute: 0
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 22
+        minute: 0
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 22
+        minute: 0
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 11:00 AM – 10:00 PM'
     - 'Tuesday: 11:00 AM – 10:00 PM'
     - 'Wednesday: 11:00 AM – 10:00 PM'
@@ -178,14 +234,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 10:00 PM'
     - 'Saturday: 11:00 AM – 10:00 PM'
     - 'Sunday: 11:00 AM – 10:00 PM'
-  current:
-    - 'Monday: 11:00 AM – 10:00 PM'
-    - 'Tuesday: 11:00 AM – 10:00 PM'
-    - 'Wednesday: 11:00 AM – 10:00 PM'
-    - 'Thursday: 11:00 AM – 10:00 PM'
-    - 'Friday: 11:00 AM – 10:00 PM'
-    - 'Saturday: 11:00 AM – 10:00 PM'
-    - 'Sunday: 11:00 AM – 10:00 PM'
+  nextCloseTime: '2025-05-04T05:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +246,305 @@ phone: (503) 284-1023
 price_level: PRICE_LEVEL_INEXPENSIVE
 price_range: $10 &ndash; $20
 rating: '4.3'
-rating_count: 0
+rating_count: 1483
 website: https://www.sushiohanapdx.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Explore Sushi Ohana in Portland, OR$$$Sushi Ohana in Portland, OR, offers a
+  delightful experience at a conveyor-belt sushi spot that brings fresh seafood
+  and Japanese flavors right to your table. This affordable eatery features a
+  variety of creative rolls, along with options for beer, wine, and sake, making
+  it a go-to choice for casual sushi outings in the area. With its welcoming
+  atmosphere and accessibility features like wheelchair-friendly seating and
+  parking, it's designed for everyone looking to enjoy a relaxed meal. The
+  restaurant operates daily with extended hours, perfect for those searching for
+  top-rated sushi options nearby. Whether you're craving something light or a
+  full dining adventure, this spot stands out for its blend of convenience and
+  authentic tastes in the heart of Portland.
+generative_summary: >-
+  Explore Sushi Ohana in Portland, OR$$$Sushi Ohana in Portland, OR, offers a
+  delightful experience at a conveyor-belt sushi spot that brings fresh seafood
+  and Japanese flavors right to your table. This affordable eatery features a
+  variety of creative rolls, along with options for beer, wine, and sake, making
+  it a go-to choice for casual sushi outings in the area. With its welcoming
+  atmosphere and accessibility features like wheelchair-friendly seating and
+  parking, it's designed for everyone looking to enjoy a relaxed meal. The
+  restaurant operates daily with extended hours, perfect for those searching for
+  top-rated sushi options nearby. Whether you're craving something light or a
+  full dining adventure, this spot stands out for its blend of convenience and
+  authentic tastes in the heart of Portland.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJM1J1P7WglVQR2-LkVmwrRm0/reviews/ChdDSUhNMG9nS0VJQ0FnTURRNHJ1T3hnRRAB
+    relativePublishTimeDescription: a month ago
+    rating: 3
+    text:
+      text: >-
+        I've been to many sushi places in the state of Oregon, especially
+        Portland, but this place is just like the others. Just another common
+        sushi place. Not bad, not good, but mediocre. It's a place you'd go if
+        you're nearby and craving sushi quickly, straight off the train.
+
+
+        Food: 2/5
+
+        This place hasrubber chicken and mediocre "crab". That sums it up. But,
+        if you're just out for a night in the town craving seaweed salad and
+        tamago, this is your place. I got the California Roll and Seaweed Salad.
+        The California Roll really wasn't anything special, I had better at
+        other places. The Seaweed Salad on the other hand was amazing, I'd go as
+        far and say delectable. It was juicy and made correctly. My
+        acquaintances got the chicken noodles. She said the chicken was dry. I
+        had a taste and I agreed, it was also rubbery. My other acquaintance got
+        the Seared Salmon and liked it. Obviously the food wasn't anything
+        special, but serves its purpose.
+
+
+        Service: 3/5
+
+        The service here has some really nice and patience waiters. Though there
+        is one big thing I need to mention, and the reason I gave it a 3: The
+        language barrier. Waiters speak a little bit of English, and had trouble
+
+        trying to hear what my acquaintances were saying, leading to one of them
+        getting lemonade, instead of their "Ramune". But, they were very nice
+        overall.
+
+
+        Atmosphere: 4/5
+
+        Besides the "okay" food, the atmosphere was really nice. They had
+        Japanese paintings of people, scriptures, and nice lighting. The only
+        reason this isn't a 5 is because it feels very cramped inside.
+      languageCode: en
+    originalText:
+      text: >-
+        I've been to many sushi places in the state of Oregon, especially
+        Portland, but this place is just like the others. Just another common
+        sushi place. Not bad, not good, but mediocre. It's a place you'd go if
+        you're nearby and craving sushi quickly, straight off the train.
+
+
+        Food: 2/5
+
+        This place hasrubber chicken and mediocre "crab". That sums it up. But,
+        if you're just out for a night in the town craving seaweed salad and
+        tamago, this is your place. I got the California Roll and Seaweed Salad.
+        The California Roll really wasn't anything special, I had better at
+        other places. The Seaweed Salad on the other hand was amazing, I'd go as
+        far and say delectable. It was juicy and made correctly. My
+        acquaintances got the chicken noodles. She said the chicken was dry. I
+        had a taste and I agreed, it was also rubbery. My other acquaintance got
+        the Seared Salmon and liked it. Obviously the food wasn't anything
+        special, but serves its purpose.
+
+
+        Service: 3/5
+
+        The service here has some really nice and patience waiters. Though there
+        is one big thing I need to mention, and the reason I gave it a 3: The
+        language barrier. Waiters speak a little bit of English, and had trouble
+
+        trying to hear what my acquaintances were saying, leading to one of them
+        getting lemonade, instead of their "Ramune". But, they were very nice
+        overall.
+
+
+        Atmosphere: 4/5
+
+        Besides the "okay" food, the atmosphere was really nice. They had
+        Japanese paintings of people, scriptures, and nice lighting. The only
+        reason this isn't a 5 is because it feels very cramped inside.
+      languageCode: en
+    authorAttribution:
+      displayName: Konstantin Angelo
+      uri: https://www.google.com/maps/contrib/104394885420101557813/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVKC7EhtWVbvcwowoO88IkGcpCgnxLhY2HWNi_LD_QGnvcwD62R=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-03-10T04:30:37.932812Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURRNHJ1T3hnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURRNHJ1T3hnRRAB!2m1!1s0x5495a0b53f755233:0x6d462b6c56e4e2db
+  - name: >-
+      places/ChIJM1J1P7WglVQR2-LkVmwrRm0/reviews/ChZDSUhNMG9nS0VJQ0FnTURvLVBEaFNREAE
+    relativePublishTimeDescription: a week ago
+    rating: 5
+    text:
+      text: >-
+        this is my favorite sushi place in portland. i’ve been going for over
+        two years and it is always so fresh and amazing tasting! the service is
+        unmatched and the prices are so good. I’ve been to many fancy sushi
+        places and i grew up in san Francisco surrounded by amazing sushi and
+        sushi ohana is still my all time favorite!!!!!
+      languageCode: en
+    originalText:
+      text: >-
+        this is my favorite sushi place in portland. i’ve been going for over
+        two years and it is always so fresh and amazing tasting! the service is
+        unmatched and the prices are so good. I’ve been to many fancy sushi
+        places and i grew up in san Francisco surrounded by amazing sushi and
+        sushi ohana is still my all time favorite!!!!!
+      languageCode: en
+    authorAttribution:
+      displayName: Indigo Vieten
+      uri: https://www.google.com/maps/contrib/101146109355860335571/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocKdla-tOGZvLLqRUfUJLkqHiSM_ajzr5AERa5Wt8Xat-3Wihw=s128-c0x00000000-cc-rp-mo
+    publishTime: '2025-04-21T22:15:16.006864Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURvLVBEaFNREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURvLVBEaFNREAE!2m1!1s0x5495a0b53f755233:0x6d462b6c56e4e2db
+  - name: >-
+      places/ChIJM1J1P7WglVQR2-LkVmwrRm0/reviews/ChdDSUhNMG9nS0VJQ0FnSURGbjRLUDZ3RRAB
+    relativePublishTimeDescription: a year ago
+    rating: 4
+    text:
+      text: >-
+        Delicious sushi for a very competitive price. Loved all the varieties of
+        sushi we tried. However didn’t like the Shrimp Udon and Miso soup.
+        Service was very very poor. Servers were indifferent to customers and
+        behaved very weird. Anything we ordered (that was not on the belt) took
+        almost 15 minutes to arrive. Very difficult to find parking. They have a
+        few parking spots which are almost always full. We had had to park at a
+        free parking which was 3-4 minutes walking distance from the restaurant.
+      languageCode: en
+    originalText:
+      text: >-
+        Delicious sushi for a very competitive price. Loved all the varieties of
+        sushi we tried. However didn’t like the Shrimp Udon and Miso soup.
+        Service was very very poor. Servers were indifferent to customers and
+        behaved very weird. Anything we ordered (that was not on the belt) took
+        almost 15 minutes to arrive. Very difficult to find parking. They have a
+        few parking spots which are almost always full. We had had to park at a
+        free parking which was 3-4 minutes walking distance from the restaurant.
+      languageCode: en
+    authorAttribution:
+      displayName: Sayma Sadia Joya
+      uri: https://www.google.com/maps/contrib/106020143978593830333/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXEWn3T6WgkAqD9UAkO0ofap-kMClvNHTzKoYx83pUqSDJz_Gj_=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2023-11-12T00:58:57.756308Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURGbjRLUDZ3RRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURGbjRLUDZ3RRAB!2m1!1s0x5495a0b53f755233:0x6d462b6c56e4e2db
+  - name: >-
+      places/ChIJM1J1P7WglVQR2-LkVmwrRm0/reviews/ChdDSUhNMG9nS0VJQ0FnSUNScUpEMnlBRRAB
+    relativePublishTimeDescription: 2 years ago
+    rating: 5
+    text:
+      text: >-
+        I love sushi ohana! Great service and food is delicious. Conveyor belt
+        style, but also offers call ahead for take out! I live close and always
+        call in for pick up. Food is made fresh and ready within 15-20 minutes
+        tops! Fun to sit down and eat too. Not a huge indoor seating area but
+        can fit quite a bit of customers. Love the poke and all other items on
+        the menu. Never had anything I did not like. Highly recommended
+      languageCode: en
+    originalText:
+      text: >-
+        I love sushi ohana! Great service and food is delicious. Conveyor belt
+        style, but also offers call ahead for take out! I live close and always
+        call in for pick up. Food is made fresh and ready within 15-20 minutes
+        tops! Fun to sit down and eat too. Not a huge indoor seating area but
+        can fit quite a bit of customers. Love the poke and all other items on
+        the menu. Never had anything I did not like. Highly recommended
+      languageCode: en
+    authorAttribution:
+      displayName: Bobbie P
+      uri: https://www.google.com/maps/contrib/112267070778392669797/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocIzryjC1GTZds0kGilpc_hIY95MhH5ndoOF2RJzmFt0iyt8Bw=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2023-03-28T15:21:52.338170Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNScUpEMnlBRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNScUpEMnlBRRAB!2m1!1s0x5495a0b53f755233:0x6d462b6c56e4e2db
+  - name: >-
+      places/ChIJM1J1P7WglVQR2-LkVmwrRm0/reviews/ChZDSUhNMG9nS0VJQ0FnSUNmbTlHdVJREAE
+    relativePublishTimeDescription: 4 months ago
+    rating: 5
+    text:
+      text: >-
+        Visiting from out of town and found this gem on Google Maps. Happy hour
+        was absolutely a steal! We could not stop talking about how generous the
+        salmon portions were, how crispy and lightly battered the calamari was,
+        and how fast the service was. The seared salmon was a must try. I
+        haven’t seen quality sushi this affordable in at least half a decade. We
+        also had 10 people and they seated us within 15 minutes at a busy time.
+        People seemed to be in and out fast and efficiently. Highly recommend!
+      languageCode: en
+    originalText:
+      text: >-
+        Visiting from out of town and found this gem on Google Maps. Happy hour
+        was absolutely a steal! We could not stop talking about how generous the
+        salmon portions were, how crispy and lightly battered the calamari was,
+        and how fast the service was. The seared salmon was a must try. I
+        haven’t seen quality sushi this affordable in at least half a decade. We
+        also had 10 people and they seated us within 15 minutes at a busy time.
+        People seemed to be in and out fast and efficiently. Highly recommend!
+      languageCode: en
+    authorAttribution:
+      displayName: Megan Wong
+      uri: https://www.google.com/maps/contrib/103585294650562521167/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUJs2VO7ePlh4L9wd82VK25fwgN5mN3G0Vr3o_ARut4EOd_Dw4E=s128-c0x00000000-cc-rp-mo-ba2
+    publishTime: '2025-01-01T20:27:48.303229Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNmbTlHdVJREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNmbTlHdVJREAE!2m1!1s0x5495a0b53f755233:0x6d462b6c56e4e2db
+review_summary: >-
+  Insights from Recent Reviews$$$Visitors to this popular sushi restaurant often
+  rave about the fresh, high-quality rolls and generous portions that make it a
+  standout pick for affordable eats in the neighborhood. Many folks appreciate
+  the fun conveyor-belt setup and quick service, which keeps things lively and
+  efficient without any major hiccups. While some mention minor service
+  challenges like communication, the overall vibe remains positive with praise
+  for the tasty seafood and great value during happy hour. It's clear that
+  people enjoy the welcoming environment and variety of options, making it a
+  solid choice for groups or anyone hunting for reliable sushi spots close by.
+  All in all, the feedback highlights a generally enjoyable experience that's
+  worth trying if you're in the mood for something delicious and
+  straightforward.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  paidParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
-menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
-serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+delivery: true
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
+menu_for_children: false
+outdoor_seating: false
+reservable: false
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: false
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
+serves_vegetarian_food: false
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: >-
+  Modest Japanese option for conveyor-belt sushi & basic kitchen entrees, plus
+  happy-hour specials.
 
 ---

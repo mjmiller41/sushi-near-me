@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Bada Japanese Restaurant"
+title: Bada Japanese Restaurant
 permalink: /colorado/colorado-springs/bada-japanese-restaurant.html
 stateAbbr: CO
 stateName: Colorado
 cityName: Colorado Springs
 seo:
-  name: "Bada Japanese Restaurant"
-  type: Restaurant
+  type: restaurant
   links: http://badajapaneserestaurant.com/
-description: "Bada Japanese Restaurant serves delicious sushi in Colorado Springs, Colorado. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJm0tJBHpEE4cR0_nPKWEs9dQ
 photos:
   - name: >-
@@ -170,7 +168,57 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x8713447a04494b9b:0xd4f52c6129cff9d3!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 16
+        minute: 30
+      close:
+        day: 0
+        hour: 21
+        minute: 0
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 0
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 0
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 0
+    - open:
+        day: 5
+        hour: 16
+        minute: 30
+      close:
+        day: 5
+        hour: 22
+        minute: 0
+    - open:
+        day: 6
+        hour: 16
+        minute: 30
+      close:
+        day: 6
+        hour: 22
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 4:30 – 9:00 PM'
     - 'Wednesday: 4:30 – 9:00 PM'
@@ -178,14 +226,7 @@ opening_hours:
     - 'Friday: 4:30 – 10:00 PM'
     - 'Saturday: 4:30 – 10:00 PM'
     - 'Sunday: 4:30 – 9:00 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 4:30 – 9:00 PM'
-    - 'Wednesday: 4:30 – 9:00 PM'
-    - 'Thursday: 4:30 – 9:00 PM'
-    - 'Friday: 4:30 – 10:00 PM'
-    - 'Saturday: 4:30 – 10:00 PM'
-    - 'Sunday: 4:30 – 9:00 PM'
+  nextOpenTime: '2025-05-03T22:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +238,46 @@ phone: (719) 424-7269
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.5'
-rating_count: 0
+rating_count: 803
 website: http://badajapaneserestaurant.com/
+description: >-
+  Discover Bada Japanese Restaurant in Colorado Springs, CO$$$Bada Japanese
+  Restaurant in Colorado Springs, CO, stands out as a go-to spot for fresh
+  Japanese flavors, blending traditional dishes with a modern vibe. This eatery
+  delights visitors with its selection of expertly crafted sushi rolls and
+  savory teriyaki options, complemented by a variety of beverages like beer,
+  cocktails, and wine to enhance the dining experience. Accessibility features,
+  such as wheelchair-friendly parking and entrances, make it an inclusive choice
+  for everyone seeking quality sushi near me. The restaurant's moderate pricing
+  offers great value for authentic Japanese cuisine, ideal for casual dinners or
+  special occasions. With convenient hours in the evenings, it's a perfect
+  destination for those exploring top-rated sushi restaurants in the area.
+generative_summary: >-
+  Discover Bada Japanese Restaurant in Colorado Springs, CO$$$Bada Japanese
+  Restaurant in Colorado Springs, CO, stands out as a go-to spot for fresh
+  Japanese flavors, blending traditional dishes with a modern vibe. This eatery
+  delights visitors with its selection of expertly crafted sushi rolls and
+  savory teriyaki options, complemented by a variety of beverages like beer,
+  cocktails, and wine to enhance the dining experience. Accessibility features,
+  such as wheelchair-friendly parking and entrances, make it an inclusive choice
+  for everyone seeking quality sushi near me. The restaurant's moderate pricing
+  offers great value for authentic Japanese cuisine, ideal for casual dinners or
+  special occasions. With convenient hours in the evenings, it's a perfect
+  destination for those exploring top-rated sushi restaurants in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What People Say About This Sushi Spot$$$Visitors often praise the fresh and
+  flavorful sushi at this spot, highlighting how it hits the mark for anyone
+  craving reliable Japanese options nearby. Many appreciate the friendly service
+  and welcoming atmosphere, which make meals feel relaxed and enjoyable without
+  any major complaints. Feedback frequently notes the generous portions and
+  variety of dishes, making it a solid pick for groups or solo diners looking
+  for satisfying eats. Overall, the high ratings reflect a positive consensus on
+  the taste and quality, though some mention occasional waits during peak times.
+  If you're searching for sushi places near me, this location comes across as a
+  dependable favorite that's worth trying for a tasty, no-fuss experience.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +303,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi on Fire"
+title: Sushi on Fire
 permalink: /california/long-beach/sushi-on-fire.html
 stateAbbr: CA
 stateName: California
 cityName: Long Beach
 seo:
-  name: "Sushi on Fire"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi on Fire serves delicious sushi in Long Beach, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ619mGzcw3YARnbv6EZZOSNw
 photos:
   - name: >-
@@ -185,7 +183,43 @@ price_range: null
 rating: null
 rating_count: 0
 website: null
+description: >-
+  Explore Sushi on Fire in Long Beach, CA$$$Sushi on Fire in Long Beach, CA,
+  stands out as a laid-back dining spot specializing in fresh Japanese-inspired
+  cuisine. This casual restaurant boasts an impressive selection of creative
+  sushi rolls, paired with a variety of beverages like sake, beer, and wine,
+  making it a go-to for those seeking authentic flavors in a welcoming
+  atmosphere. Accessibility features such as wheelchair-friendly parking and
+  entrances ensure everyone can enjoy the experience comfortably. The venue's
+  vibrant vibe and thoughtful menu options highlight its appeal for anyone
+  exploring local sushi options. With its prime location in the Belmont Shore
+  neighborhood, it's an ideal choice for those looking for quality Japanese
+  dining without the fuss.
+generative_summary: >-
+  Explore Sushi on Fire in Long Beach, CA$$$Sushi on Fire in Long Beach, CA,
+  stands out as a laid-back dining spot specializing in fresh Japanese-inspired
+  cuisine. This casual restaurant boasts an impressive selection of creative
+  sushi rolls, paired with a variety of beverages like sake, beer, and wine,
+  making it a go-to for those seeking authentic flavors in a welcoming
+  atmosphere. Accessibility features such as wheelchair-friendly parking and
+  entrances ensure everyone can enjoy the experience comfortably. The venue's
+  vibrant vibe and thoughtful menu options highlight its appeal for anyone
+  exploring local sushi options. With its prime location in the Belmont Shore
+  neighborhood, it's an ideal choice for those looking for quality Japanese
+  dining without the fuss.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  Customer Feedback Highlights$$$Visitors often rave about the wide range of
+  tasty sushi options that keep things exciting and flavorful at this spot. Many
+  appreciate the solid service that makes the whole meal feel smooth and
+  enjoyable, adding to the relaxed vibe. Folks frequently note that the variety
+  here satisfies different tastes, whether you're into classic rolls or
+  something more adventurous. Overall, the consensus leans positive, with people
+  enjoying the consistent quality that makes it a reliable pick for casual
+  outings. If you're hunting for a solid sushi experience nearby, this place
+  seems to deliver on both taste and hospitality without any major hiccups.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -211,7 +245,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

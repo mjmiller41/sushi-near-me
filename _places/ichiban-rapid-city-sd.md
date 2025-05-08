@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ichiban"
+title: Ichiban
 permalink: /south-dakota/rapid-city/ichiban.html
 stateAbbr: SD
 stateName: South Dakota
 cityName: Rapid City
 seo:
-  name: "Ichiban"
-  type: Restaurant
+  type: restaurant
   links: https://ichibanrapidcity.com/
-description: "Strip-mall sushi house offering specialty rolls & standard Japanese eats in an easygoing atmosphere. Ichiban serves delicious sushi in Rapid City, South Dakota. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJXRnupc5cfYcRNLnS1rTq9PM
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $10 &ndash; $20
 rating: '4.2'
 rating_count: 0
 website: https://ichibanrapidcity.com/
+description: >-
+  Discover Ichiban in Rapid City, SD$$$Ichiban in Rapid City, SD, stands out as
+  a cozy Japanese restaurant offering a variety of fresh sushi rolls and
+  traditional dishes that appeal to those seeking authentic flavors. This spot
+  provides a relaxed atmosphere perfect for enjoying ramen and other Japanese
+  favorites, including vegetarian options that cater to diverse tastes. With its
+  moderate pricing and accessible features like wheelchair-friendly entrances
+  and parking, it's an inviting choice for anyone exploring sushi restaurants in
+  the area. The menu highlights creative presentations and satisfying meals,
+  making it a go-to destination for locals and visitors alike who appreciate
+  quality Japanese cuisine without the fuss.
+generative_summary: >-
+  Discover Ichiban in Rapid City, SD$$$Ichiban in Rapid City, SD, stands out as
+  a cozy Japanese restaurant offering a variety of fresh sushi rolls and
+  traditional dishes that appeal to those seeking authentic flavors. This spot
+  provides a relaxed atmosphere perfect for enjoying ramen and other Japanese
+  favorites, including vegetarian options that cater to diverse tastes. With its
+  moderate pricing and accessible features like wheelchair-friendly entrances
+  and parking, it's an inviting choice for anyone exploring sushi restaurants in
+  the area. The menu highlights creative presentations and satisfying meals,
+  making it a go-to destination for locals and visitors alike who appreciate
+  quality Japanese cuisine without the fuss.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJXRnupc5cfYcRNLnS1rTq9PM/reviews/ChdDSUhNMG9nS0VJQ0FnSUMzcC1HRnh3RRAB
@@ -342,6 +363,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURYcVBMREpREAE&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURYcVBMREpREAE!2m1!1s0x877d5ccea5ee195d:0xf3f4eab4d6d2b934
+review_summary: >-
+  What Visitors Are Saying$$$Folks often praise the tasty food and efficient
+  seating at this Japanese spot, noting that dishes like sushi rolls can be a
+  real highlight for a satisfying meal. While some mention occasional service
+  hiccups, such as feeling a bit rushed or understaffed during busy times, the
+  overall experience tends to deliver good value for the price. Many appreciate
+  the variety of options that make it suitable for groups or families, though a
+  few point out inconsistencies in food preparation that could use some
+  fine-tuning. All in all, it's a solid pick for anyone craving Japanese eats
+  nearby, with enough positives to encourage giving it a try while keeping
+  expectations realistic for a casual dining outing.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -374,8 +407,8 @@ serves_lunch: true
 serves_vegetarian_food: true
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Strip-mall sushi house offering specialty rolls & standard Japanese eats in an
   easygoing atmosphere.
 

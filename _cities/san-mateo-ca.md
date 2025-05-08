@@ -5,4 +5,5 @@ permalink: /california/san-mateo/
 stateAbbr: CA
 stateName: California
 cityName: San Mateo
+
 ---

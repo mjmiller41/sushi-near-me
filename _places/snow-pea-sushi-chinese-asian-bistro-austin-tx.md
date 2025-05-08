@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Snow Pea - Sushi, Chinese & Asian Bistro"
+title: Snow Pea - Sushi, Chinese & Asian Bistro
 permalink: /texas/austin/snow-pea-sushi-chinese-asian-bistro.html
 stateAbbr: TX
 stateName: Texas
 cityName: Austin
 seo:
-  name: "Snow Pea - Sushi, Chinese & Asian Bistro"
-  type: Restaurant
+  type: restaurant
   links: http://snowpeaaustin.com/
-description: "Snow Pea - Sushi, Chinese & Asian Bistro serves delicious sushi in Austin, Texas. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJ7RBIQqAyW4YRTCI-38r6QFY
 photos:
   - name: >-
@@ -170,7 +168,81 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x865b32a0424810ed:0x5640facadf3e224c!10e5
 primary_type: Asian Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 11
+        minute: 0
+      close:
+        day: 0
+        hour: 21
+        minute: 30
+    - open:
+        day: 2
+        hour: 11
+        minute: 0
+      close:
+        day: 2
+        hour: 14
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 30
+      close:
+        day: 2
+        hour: 21
+        minute: 30
+    - open:
+        day: 3
+        hour: 11
+        minute: 0
+      close:
+        day: 3
+        hour: 14
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 30
+      close:
+        day: 3
+        hour: 21
+        minute: 30
+    - open:
+        day: 4
+        hour: 11
+        minute: 0
+      close:
+        day: 4
+        hour: 14
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 30
+      close:
+        day: 4
+        hour: 21
+        minute: 30
+    - open:
+        day: 5
+        hour: 11
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 30
+    - open:
+        day: 6
+        hour: 11
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: Closed'
     - 'Tuesday: 11:00 AM – 2:30 PM, 4:30 – 9:30 PM'
     - 'Wednesday: 11:00 AM – 2:30 PM, 4:30 – 9:30 PM'
@@ -178,14 +250,7 @@ opening_hours:
     - 'Friday: 11:00 AM – 9:30 PM'
     - 'Saturday: 11:00 AM – 9:30 PM'
     - 'Sunday: 11:00 AM – 9:30 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 11:00 AM – 2:30 PM, 4:30 – 9:30 PM'
-    - 'Wednesday: 11:00 AM – 2:30 PM, 4:30 – 9:30 PM'
-    - 'Thursday: 11:00 AM – 2:30 PM, 4:30 – 9:30 PM'
-    - 'Friday: 11:00 AM – 9:30 PM'
-    - 'Saturday: 11:00 AM – 9:30 PM'
-    - 'Sunday: 11:00 AM – 9:30 PM'
+  nextCloseTime: '2025-05-04T02:30:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,9 +262,49 @@ phone: (512) 257-7669
 price_level: PRICE_LEVEL_MODERATE
 price_range: $10 &ndash; $20
 rating: '4.4'
-rating_count: 0
+rating_count: 1117
 website: http://snowpeaaustin.com/
+description: >-
+  Discover Snow Pea in Austin, Texas$$$Snow Pea - Sushi, Chinese & Asian Bistro
+  in Austin, Texas, stands out as a go-to spot for diverse Asian cuisine,
+  blending fresh sushi options with flavorful Chinese specialties in a welcoming
+  setting. This casual bistro features an extensive selection of handcrafted
+  rolls and signature dishes, complemented by affordable happy-hour beverages
+  that enhance the dining experience. Accessibility is a key highlight, with
+  wheelchair-friendly parking, entrances, restrooms, and seating making it
+  inclusive for all visitors. Open for lunch and dinner several days a week,
+  including weekends, it caters to those seeking convenient Asian dining near
+  urban hubs. Its location in the vibrant Avery Ranch-Lakeline neighborhood adds
+  to the appeal for locals and travelers exploring top-rated sushi restaurants
+  in the area.
+generative_summary: >-
+  Discover Snow Pea in Austin, Texas$$$Snow Pea - Sushi, Chinese & Asian Bistro
+  in Austin, Texas, stands out as a go-to spot for diverse Asian cuisine,
+  blending fresh sushi options with flavorful Chinese specialties in a welcoming
+  setting. This casual bistro features an extensive selection of handcrafted
+  rolls and signature dishes, complemented by affordable happy-hour beverages
+  that enhance the dining experience. Accessibility is a key highlight, with
+  wheelchair-friendly parking, entrances, restrooms, and seating making it
+  inclusive for all visitors. Open for lunch and dinner several days a week,
+  including weekends, it caters to those seeking convenient Asian dining near
+  urban hubs. Its location in the vibrant Avery Ranch-Lakeline neighborhood adds
+  to the appeal for locals and travelers exploring top-rated sushi restaurants
+  in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Are Saying$$$Visitors to this Asian bistro often rave about the
+  consistently fresh and creative sushi selections that keep things exciting and
+  satisfying. Many appreciate the solid portion sizes and reasonable prices,
+  making it a reliable choice for casual meals with friends or family. Feedback
+  highlights the friendly service and cozy atmosphere, which contribute to a
+  relaxed vibe that encourages repeat visits. While some note minor waits during
+  peak hours, the overall experience is praised for delivering great value and
+  tasty options that align with expectations for quality Asian fare. Folks
+  searching for dependable sushi spots nearby tend to leave feeling impressed by
+  the balance of flavor and affordability, painting a positive picture of this
+  community favorite.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +330,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

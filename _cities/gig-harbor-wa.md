@@ -5,4 +5,5 @@ permalink: /washington/gig-harbor/
 stateAbbr: WA
 stateName: Washington
 cityName: Gig Harbor
+
 ---

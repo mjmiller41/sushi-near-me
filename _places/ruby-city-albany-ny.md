@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Ruby City"
+title: Ruby City
 permalink: /new-york/albany/ruby-city.html
 stateAbbr: NY
 stateName: New York
 cityName: Albany
 seo:
-  name: "Ruby City"
-  type: Restaurant
+  type: restaurant
   links: http://www.rubyalbany.com/
-description: "Casual eatery serving Pan-Asian eats including sushi & lunchtime bentos, plus sake & bubble tea. Ruby City serves delicious sushi in Albany, New York. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, and dinner."
 place_id: ChIJd_6ZKE4K3okRK-68YleE0As
 photos:
   - name: >-
@@ -184,6 +182,33 @@ price_range: $20 &ndash; $30
 rating: '4.4'
 rating_count: 0
 website: http://www.rubyalbany.com/
+description: >-
+  Explore Ruby City in Albany, NY$$$Ruby City in Albany, NY, stands out as a
+  casual Japanese restaurant offering an array of fresh sushi options that
+  appeal to anyone seeking authentic flavors in a welcoming setting. This spot
+  features all-you-can-eat sushi rolls alongside other Pan-Asian dishes and
+  refreshing bubble tea, making it a go-to choice for those exploring Japanese
+  cuisine nearby. With its moderate pricing and accessible features like
+  wheelchair-friendly entrances and seating, it provides a comfortable
+  experience for all visitors. The restaurant's focus on quality ingredients and
+  a relaxed vibe ensures a satisfying meal, whether you're in the mood for a
+  quick lunch or an evening out. Its convenient location in the Pine Hills
+  neighborhood adds to the appeal for anyone searching for top-rated sushi
+  restaurants in the area.
+generative_summary: >-
+  Explore Ruby City in Albany, NY$$$Ruby City in Albany, NY, stands out as a
+  casual Japanese restaurant offering an array of fresh sushi options that
+  appeal to anyone seeking authentic flavors in a welcoming setting. This spot
+  features all-you-can-eat sushi rolls alongside other Pan-Asian dishes and
+  refreshing bubble tea, making it a go-to choice for those exploring Japanese
+  cuisine nearby. With its moderate pricing and accessible features like
+  wheelchair-friendly entrances and seating, it provides a comfortable
+  experience for all visitors. The restaurant's focus on quality ingredients and
+  a relaxed vibe ensures a satisfying meal, whether you're in the mood for a
+  quick lunch or an evening out. Its convenient location in the Pine Hills
+  neighborhood adds to the appeal for anyone searching for top-rated sushi
+  restaurants in the area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJd_6ZKE4K3okRK-68YleE0As/reviews/ChZDSUhNMG9nS0VJQ0FnSUNsMXYzR093EAE
@@ -391,6 +416,19 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURUX2F1Qzh3RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURUX2F1Qzh3RRAB!2m1!1s0x89de0a4e2899fe77:0xbd0845762bcee2b
+review_summary: >-
+  Insights from Recent Feedback$$$Visitors often highlight the exceptional
+  freshness and variety of sushi at this spot, praising how it delivers great
+  value without skimping on quality. Many enjoy the cozy atmosphere that's
+  perfect for casual get-togethers, with service that's attentive and makes
+  everyone feel right at home. Folks appreciate the all-you-can-eat options that
+  keep things exciting and satisfying, especially for groups looking to indulge
+  in flavorful rolls and sides. Overall, the feedback points to a reliably
+  positive experience that's worth repeating, blending affordability with
+  delicious tastes that leave diners eager to return. If you're on the hunt for
+  reliable sushi places nearby, this one consistently hits the mark with its
+  solid offerings and friendly vibe.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -425,8 +463,8 @@ serves_lunch: null
 serves_vegetarian_food: true
 serves_wine: false
 takeout: true
-update_category: essentials
-summary: >-
+update_category: pro
+places_description: >-
   Casual eatery serving Pan-Asian eats including sushi & lunchtime bentos, plus
   sake & bubble tea.
 

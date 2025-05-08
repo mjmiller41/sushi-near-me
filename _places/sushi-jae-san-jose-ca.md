@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Jae"
+title: Sushi Jae
 permalink: /california/san-jose/sushi-jae.html
 stateAbbr: CA
 stateName: California
 cityName: San Jose
 seo:
-  name: "Sushi Jae"
-  type: Restaurant
+  type: restaurant
   links: http://www.sushijae.com/
-description: "Sushi Jae serves delicious sushi in San Jose, California. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJVai8uvYzjoAR9AxAkSUOt7M
 photos:
   - name: >-
@@ -170,22 +168,89 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x808e33f6babca855:0xb3b70e2591400cf4!10e5
 primary_type: Sushi Restaurant
 opening_hours:
-  regular:
+  openNow: false
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 14
+        minute: 0
+    - open:
+        day: 0
+        hour: 17
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 30
+    - open:
+        day: 2
+        hour: 17
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 30
+    - open:
+        day: 3
+        hour: 17
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 30
+    - open:
+        day: 4
+        hour: 17
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 30
+    - open:
+        day: 5
+        hour: 12
+        minute: 0
+      close:
+        day: 5
+        hour: 14
+        minute: 0
+    - open:
+        day: 5
+        hour: 17
+        minute: 0
+      close:
+        day: 5
+        hour: 20
+        minute: 30
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 14
+        minute: 0
+    - open:
+        day: 6
+        hour: 17
+        minute: 0
+      close:
+        day: 6
+        hour: 20
+        minute: 30
+  weekdayDescriptions:
     - 'Monday: Closed'
-    - 'Tuesday: 5:00 – 8:15 PM'
-    - 'Wednesday: 5:00 – 8:15 PM'
-    - 'Thursday: 5:00 – 8:15 PM'
-    - 'Friday: 12:00 – 1:45 PM, 5:00 – 8:15 PM'
-    - 'Saturday: 12:00 – 2:00 PM, 5:00 – 8:15 PM'
-    - 'Sunday: 12:00 – 2:00 PM, 5:00 – 8:15 PM'
-  current:
-    - 'Monday: Closed'
-    - 'Tuesday: 5:00 – 8:15 PM'
-    - 'Wednesday: 5:00 – 8:15 PM'
-    - 'Thursday: 5:00 – 8:15 PM'
-    - 'Friday: 12:00 – 1:45 PM, 5:00 – 8:15 PM'
-    - 'Saturday: 12:00 – 2:00 PM, 5:00 – 8:15 PM'
-    - 'Sunday: 12:00 – 2:00 PM, 5:00 – 8:15 PM'
+    - 'Tuesday: 5:00 – 8:30 PM'
+    - 'Wednesday: 5:00 – 8:30 PM'
+    - 'Thursday: 5:00 – 8:30 PM'
+    - 'Friday: 12:00 – 2:00 PM, 5:00 – 8:30 PM'
+    - 'Saturday: 12:00 – 2:00 PM, 5:00 – 8:30 PM'
+    - 'Sunday: 12:00 – 2:00 PM, 5:00 – 8:30 PM'
+  nextOpenTime: '2025-05-04T00:00:00Z'
 secondary_opening_hours:
   regular:
     weekdayDescriptions: null
@@ -197,35 +262,306 @@ phone: (408) 622-8232
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.5'
-rating_count: 0
+rating_count: 219
 website: http://www.sushijae.com/
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Experience Sushi Jae in San Jose, CA$$$Sushi Jae in San Jose, CA, stands out
+  as a welcoming spot for sushi enthusiasts, offering a variety of fresh
+  Japanese dishes in a relaxed setting. This family-oriented restaurant
+  specializes in authentic sushi rolls, bento boxes, and teriyaki options that
+  highlight high-quality ingredients and thoughtful preparation. With its
+  accessible features like wheelchair-friendly entrances and ample seating, it
+  caters to a wide range of diners seeking top-rated sushi experiences near you.
+  The casual atmosphere makes it an ideal choice for those exploring sushi
+  restaurants in the area, blending simplicity with flavorful meals that keep
+  customers coming back. Moderately priced and conveniently located, it's a
+  go-to for anyone craving Japanese cuisine without the fuss.
+generative_summary: >-
+  Experience Sushi Jae in San Jose, CA$$$Sushi Jae in San Jose, CA, stands out
+  as a welcoming spot for sushi enthusiasts, offering a variety of fresh
+  Japanese dishes in a relaxed setting. This family-oriented restaurant
+  specializes in authentic sushi rolls, bento boxes, and teriyaki options that
+  highlight high-quality ingredients and thoughtful preparation. With its
+  accessible features like wheelchair-friendly entrances and ample seating, it
+  caters to a wide range of diners seeking top-rated sushi experiences near you.
+  The casual atmosphere makes it an ideal choice for those exploring sushi
+  restaurants in the area, blending simplicity with flavorful meals that keep
+  customers coming back. Moderately priced and conveniently located, it's a
+  go-to for anyone craving Japanese cuisine without the fuss.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJVai8uvYzjoAR9AxAkSUOt7M/reviews/ChdDSUhNMG9nS0VJQ0FnSUNYazdEUWpnRRAB
+    relativePublishTimeDescription: 6 months ago
+    rating: 4
+    text:
+      text: >-
+        Fresh sashimi, tasty food, and good portion.  Space between tables are
+        not too close 😊.  The staff are nice and friendly.  I would go again.
+      languageCode: en
+    originalText:
+      text: >-
+        Fresh sashimi, tasty food, and good portion.  Space between tables are
+        not too close 😊.  The staff are nice and friendly.  I would go again.
+      languageCode: en
+    authorAttribution:
+      displayName: Mei-Ling Chen
+      uri: https://www.google.com/maps/contrib/116257349249607247117/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjVVNtpHXiBMRZh1JhGOcZZMODx9B43j2PKJ4wfAhiNXEUxYuxlU=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-10-20T04:48:21.412222Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNYazdEUWpnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNYazdEUWpnRRAB!2m1!1s0x808e33f6babca855:0xb3b70e2591400cf4
+  - name: >-
+      places/ChIJVai8uvYzjoAR9AxAkSUOt7M/reviews/ChZDSUhNMG9nS0VJQ0FnSUNYeWEzNFNnEAE
+    relativePublishTimeDescription: 6 months ago
+    rating: 1
+    text:
+      text: >-
+        Staff is polite but foods plain bad. Worst dining experience I’ve had in
+        recent memory
+
+
+        Rolls consist of an immense amount of fake crab, a tiny piece of raw
+        fish, and doused with sticky sauces. Also keep in mind most menu items
+        are +$5 compared to images on Google reviews
+      languageCode: en
+    originalText:
+      text: >-
+        Staff is polite but foods plain bad. Worst dining experience I’ve had in
+        recent memory
+
+
+        Rolls consist of an immense amount of fake crab, a tiny piece of raw
+        fish, and doused with sticky sauces. Also keep in mind most menu items
+        are +$5 compared to images on Google reviews
+      languageCode: en
+    authorAttribution:
+      displayName: Michael Wang
+      uri: https://www.google.com/maps/contrib/109155271369261411721/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocL2T6B94u8afHjJK3_QYIIIxkm0Rp5KF4REqqFHiiq2uiy3yg=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2024-10-18T02:21:22.334146Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNYeWEzNFNnEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNYeWEzNFNnEAE!2m1!1s0x808e33f6babca855:0xb3b70e2591400cf4
+  - name: >-
+      places/ChIJVai8uvYzjoAR9AxAkSUOt7M/reviews/ChdDSUhNMG9nS0VJQ0FnTURneHFpWnlnRRAB
+    relativePublishTimeDescription: 2 months ago
+    rating: 5
+    text:
+      text: >-
+        The atmosphere is cozy and inviting, and I immediately noticed how clean
+        and well-maintained the restaurant was—something that always makes a
+        great first impression.
+
+
+        The sushi was incredibly fresh, beautifully presented, and bursting with
+        flavor. Every bite was a delight, from the perfectly seasoned nigiri to
+        the creative rolls that were clearly made with care and attention to
+        detail.
+
+
+        What really stood out to me was the balance of quality and value. The
+        portions were generous, and the prices were very reasonable for the
+        level of freshness and taste. It’s clear that the owner and staff take
+        pride in what they do, and it shows in every aspect of the dining
+        experience.
+
+
+        If you’re in San Jose and craving sushi, Sushi Jae is a must-visit. The
+        combination of a welcoming owner, a spotless environment, and delicious,
+        fresh food makes this place a standout. I’ll definitely be returning and
+        recommending it to friends and family.
+      languageCode: en
+    originalText:
+      text: >-
+        The atmosphere is cozy and inviting, and I immediately noticed how clean
+        and well-maintained the restaurant was—something that always makes a
+        great first impression.
+
+
+        The sushi was incredibly fresh, beautifully presented, and bursting with
+        flavor. Every bite was a delight, from the perfectly seasoned nigiri to
+        the creative rolls that were clearly made with care and attention to
+        detail.
+
+
+        What really stood out to me was the balance of quality and value. The
+        portions were generous, and the prices were very reasonable for the
+        level of freshness and taste. It’s clear that the owner and staff take
+        pride in what they do, and it shows in every aspect of the dining
+        experience.
+
+
+        If you’re in San Jose and craving sushi, Sushi Jae is a must-visit. The
+        combination of a welcoming owner, a spotless environment, and delicious,
+        fresh food makes this place a standout. I’ll definitely be returning and
+        recommending it to friends and family.
+      languageCode: en
+    authorAttribution:
+      displayName: Ramon Mendoza
+      uri: https://www.google.com/maps/contrib/116461655844269023119/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocI4KHk0tTNSvuyq2hbJ7rqUD32r7GQQi8TNdSXz7aFOQGZKiR8=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2025-02-24T10:03:25.520266Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURneHFpWnlnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURneHFpWnlnRRAB!2m1!1s0x808e33f6babca855:0xb3b70e2591400cf4
+  - name: >-
+      places/ChIJVai8uvYzjoAR9AxAkSUOt7M/reviews/ChdDSUhNMG9nS0VJQ0FnSURwbjVhZXJnRRAB
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        Why did I come here? Bad reviews. Yes, really. Call me strange but I was
+        intrigued by reports of rudeness.  I wanted to see what was happening.
+        So, I ate here alone once. Then a 2nd time, then a 3rd time. And a few
+        days ago, a fourth time, with a friend. EVERY TIME.... everyone here was
+        so nice. Each person there was sweet, friendly, courteous and helpful.
+        So... keep in mind, sometimes people can be jerks to restaurant workers,
+        and when they are, and they encounter a worker who's had enough and
+        isn't standing for it, unfortunately the restaurant is the one who
+        endures a negative, and possibly unfair, review.
+
+        My friend by the way says all sushi tastes pretty much the same to her.
+        Ok. Fair enough. And even SHE noted with grateful surprise that this
+        sushi at Sushi Jae stood out as surprisingly good. I agree. The rice and
+        fish were the right temp (not refrigerator cold) and tender, fresh and
+        beautiful. Oh man.
+
+        I like the low sodium soy sauce option (which to me just tastes so much
+        better) and the ice cold Asahi beer.
+
+        So why 3 stars for Atmosphere? Not a criticism. It's just a very basic
+        environment. I don't need flowers and fish tanks. I like the low,
+        ambient lighting. I got the Sushi Combo (I think?). It was like 29
+        bucks. Salad and soup included.
+
+        Would I change anything ? Yeah. I'd do away with the masks. One pretty
+        girl wasn't wearing one, thank G-d. And I think the entrance to the
+        store could be brighter and more stylish. I honestly think it's an easy
+        place to drive past. Either way, I so look forward to going back.
+      languageCode: en
+    originalText:
+      text: >-
+        Why did I come here? Bad reviews. Yes, really. Call me strange but I was
+        intrigued by reports of rudeness.  I wanted to see what was happening.
+        So, I ate here alone once. Then a 2nd time, then a 3rd time. And a few
+        days ago, a fourth time, with a friend. EVERY TIME.... everyone here was
+        so nice. Each person there was sweet, friendly, courteous and helpful.
+        So... keep in mind, sometimes people can be jerks to restaurant workers,
+        and when they are, and they encounter a worker who's had enough and
+        isn't standing for it, unfortunately the restaurant is the one who
+        endures a negative, and possibly unfair, review.
+
+        My friend by the way says all sushi tastes pretty much the same to her.
+        Ok. Fair enough. And even SHE noted with grateful surprise that this
+        sushi at Sushi Jae stood out as surprisingly good. I agree. The rice and
+        fish were the right temp (not refrigerator cold) and tender, fresh and
+        beautiful. Oh man.
+
+        I like the low sodium soy sauce option (which to me just tastes so much
+        better) and the ice cold Asahi beer.
+
+        So why 3 stars for Atmosphere? Not a criticism. It's just a very basic
+        environment. I don't need flowers and fish tanks. I like the low,
+        ambient lighting. I got the Sushi Combo (I think?). It was like 29
+        bucks. Salad and soup included.
+
+        Would I change anything ? Yeah. I'd do away with the masks. One pretty
+        girl wasn't wearing one, thank G-d. And I think the entrance to the
+        store could be brighter and more stylish. I honestly think it's an easy
+        place to drive past. Either way, I so look forward to going back.
+      languageCode: en
+    authorAttribution:
+      displayName: Ed Burgess
+      uri: https://www.google.com/maps/contrib/103584227433443545711/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjUSCzmKDFyStShEFYcULc7pJAJxNGpez1Yq-qFkKiwgQxHa6yk_Zg=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2023-09-01T03:35:47.869693Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURwbjVhZXJnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURwbjVhZXJnRRAB!2m1!1s0x808e33f6babca855:0xb3b70e2591400cf4
+  - name: >-
+      places/ChIJVai8uvYzjoAR9AxAkSUOt7M/reviews/ChdDSUhNMG9nS0VJQ0FnSUNQak9iUzBRRRAB
+    relativePublishTimeDescription: 5 months ago
+    rating: 5
+    text:
+      text: >-
+        Reliably delicious!  Hats off to the sushi chef who has served delicious
+        sushi time after time. The rolls are well balanced-Not too much rice. 
+        Chicken ramen is great here too!  Staff is friendly and it is a family
+        friendly establishment.
+      languageCode: en
+    originalText:
+      text: >-
+        Reliably delicious!  Hats off to the sushi chef who has served delicious
+        sushi time after time. The rolls are well balanced-Not too much rice. 
+        Chicken ramen is great here too!  Staff is friendly and it is a family
+        friendly establishment.
+      languageCode: en
+    authorAttribution:
+      displayName: Africa Espina
+      uri: https://www.google.com/maps/contrib/103838634235188103496/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXEmAfIlSZZknWNVPeFjsF5FeGX9UUQPNT3wDRMsR3H_zgh2nJW=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-11-22T01:50:14.324080Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNQak9iUzBRRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNQak9iUzBRRRAB!2m1!1s0x808e33f6babca855:0xb3b70e2591400cf4
+review_summary: >-
+  Visitor Feedback on Sushi Jae$$$Visitors often praise Sushi Jae for its fresh
+  and flavorful sushi, with many highlighting the generous portions and
+  well-balanced rolls that make for a satisfying meal. While the friendly staff
+  and family-friendly vibe add to the overall charm, folks appreciate the
+  reliable quality that keeps this spot buzzing in the community. A few notes
+  mention occasional inconsistencies in certain dishes, but the positives far
+  outweigh any minor drawbacks, making it a solid pick for casual diners. If
+  you're hunting for top-rated sushi near me, this place delivers on taste and
+  value, encouraging repeat visits for its welcoming environment. All in all,
+  it's a go-to option that honestly hits the mark for those looking to enjoy
+  great Japanese food in a laid-back setting.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  freeParkingLot: true
+  freeStreetParking: true
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsDebitCards: true
+  acceptsCashOnly: false
+  acceptsNfc: true
 allow_dogs: null
 curbside_pickup: null
-delivery: null
-dine_in: null
-good_for_children: null
-good_for_groups: null
-good_for_sports: null
-live_music: null
+delivery: false
+dine_in: true
+good_for_children: true
+good_for_groups: true
+good_for_sports: false
+live_music: false
 menu_for_children: null
-outdoor_seating: null
-reservable: null
-restroom: null
-serves_beer: null
-serves_breakfast: null
-serves_brunch: null
-serves_cocktails: null
-serves_coffee: null
-serves_dinner: null
-serves_dessert: null
-serves_lunch: null
+outdoor_seating: false
+reservable: true
+restroom: true
+serves_beer: true
+serves_breakfast: false
+serves_brunch: false
+serves_cocktails: false
+serves_coffee: false
+serves_dinner: true
+serves_dessert: true
+serves_lunch: true
 serves_vegetarian_food: null
-serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+serves_wine: true
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

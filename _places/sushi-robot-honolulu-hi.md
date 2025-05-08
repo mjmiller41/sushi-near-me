@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Robot"
+title: Sushi Robot
 permalink: /hawaii/honolulu/sushi-robot.html
 stateAbbr: HI
 stateName: Hawaii
 cityName: Honolulu
 seo:
-  name: "Sushi Robot"
-  type: Restaurant
+  type: restaurant
   links: null
-description: "Sushi Robot serves delicious sushi in Honolulu, Hawaii. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJswak5O1tAHwRoGLDlukrjMQ
 photos:
   - name: >-
@@ -181,19 +179,182 @@ phone: (808) 946-0600
 price_level: null
 price_range: null
 rating: '4.2'
-rating_count: 0
+rating_count: 9
 website: null
-reviews: null
-parking_options: null
-payment_options: null
+description: >-
+  Experience Sushi Robot in Honolulu, HI$$$Sushi Robot in Honolulu, HI, stands
+  out as a welcoming Japanese restaurant offering a variety of fresh sushi and
+  bento options that highlight authentic flavors and creative presentations.
+  Nestled in the vibrant Ala Moana neighborhood, this spot provides easy access
+  with wheelchair-friendly parking and entrances, making it a convenient choice
+  for diners seeking Japanese places near me. The menu features affordable meals
+  that emphasize quality ingredients and great value, especially during evening
+  discounts that appeal to those hunting for sushi restaurants in the area. With
+  its air-conditioned seating and takeout services, it's an ideal stop for
+  anyone looking to enjoy top-rated sushi without the hassle. Overall, the focus
+  on fresh, satisfying dishes makes it a go-to destination for casual meals in
+  this lively city.
+generative_summary: >-
+  Experience Sushi Robot in Honolulu, HI$$$Sushi Robot in Honolulu, HI, stands
+  out as a welcoming Japanese restaurant offering a variety of fresh sushi and
+  bento options that highlight authentic flavors and creative presentations.
+  Nestled in the vibrant Ala Moana neighborhood, this spot provides easy access
+  with wheelchair-friendly parking and entrances, making it a convenient choice
+  for diners seeking Japanese places near me. The menu features affordable meals
+  that emphasize quality ingredients and great value, especially during evening
+  discounts that appeal to those hunting for sushi restaurants in the area. With
+  its air-conditioned seating and takeout services, it's an ideal stop for
+  anyone looking to enjoy top-rated sushi without the hassle. Overall, the focus
+  on fresh, satisfying dishes makes it a go-to destination for casual meals in
+  this lively city.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
+reviews:
+  - name: >-
+      places/ChIJswak5O1tAHwRoGLDlukrjMQ/reviews/ChZDSUhNMG9nS0VJQ0FnSURGNW8tclBBEAE
+    relativePublishTimeDescription: a year ago
+    rating: 5
+    text:
+      text: >-
+        Ate Shrimp Tempura & Teriyaki bento for $9 tax included. This was
+        discounted from $13.95 after 6:00 pm. It was good so no complaints. They
+        also offered other bentos at much discounted rate after 6:00 pm. They
+        are just trying to sell all their left overs before they close and it is
+        defintely a cheapeats.
+      languageCode: en
+    originalText:
+      text: >-
+        Ate Shrimp Tempura & Teriyaki bento for $9 tax included. This was
+        discounted from $13.95 after 6:00 pm. It was good so no complaints. They
+        also offered other bentos at much discounted rate after 6:00 pm. They
+        are just trying to sell all their left overs before they close and it is
+        defintely a cheapeats.
+      languageCode: en
+    authorAttribution:
+      displayName: Sang “JohnLee” Moon
+      uri: https://www.google.com/maps/contrib/109209650752330915255/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLv-XVEmvKpwK2VjFmAW4QU-55SFpWB9VUhT4h3rvXnPHSSWA=s128-c0x00000000-cc-rp-mo-ba5
+    publishTime: '2023-11-07T01:05:54.650871Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURGNW8tclBBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURGNW8tclBBEAE!2m1!1s0x7c006dede4a406b3:0xc48c2be996c362a0
+  - name: >-
+      places/ChIJswak5O1tAHwRoGLDlukrjMQ/reviews/ChZDSUhNMG9nS0VJQ0FnSURMbV9yWlZBEAE
+    relativePublishTimeDescription: 10 months ago
+    rating: 5
+    text:
+      text: >-
+        Sushi Robot offers fresh and delicious food. It’s conveniently located
+        on the right side of Don Quixote grocery store. The place offers A/C
+        seating too! Great place to stop by to purchase food for a beach day.
+      languageCode: en
+    originalText:
+      text: >-
+        Sushi Robot offers fresh and delicious food. It’s conveniently located
+        on the right side of Don Quixote grocery store. The place offers A/C
+        seating too! Great place to stop by to purchase food for a beach day.
+      languageCode: en
+    authorAttribution:
+      displayName: Susy Turner
+      uri: https://www.google.com/maps/contrib/111022095678921803195/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjXTRjGFuOhnPPqB7ZlRC0IGJM6BzK2d77m8DAaP39IQcOEr5Y80Cw=s128-c0x00000000-cc-rp-mo
+    publishTime: '2024-07-01T05:35:45.093293Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURMbV9yWlZBEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURMbV9yWlZBEAE!2m1!1s0x7c006dede4a406b3:0xc48c2be996c362a0
+  - name: >-
+      places/ChIJswak5O1tAHwRoGLDlukrjMQ/reviews/ChZDSUhNMG9nS0VJQ0FnSURSLU92eE5BEAE
+    relativePublishTimeDescription: 2 years ago
+    rating: 5
+    text:
+      text: >-
+        I walked right up and got the spam and egg masubi. Very fresh and
+        convenient. Cash only but would definitely recommend
+      languageCode: en
+    originalText:
+      text: >-
+        I walked right up and got the spam and egg masubi. Very fresh and
+        convenient. Cash only but would definitely recommend
+      languageCode: en
+    authorAttribution:
+      displayName: Anthony Rojas
+      uri: https://www.google.com/maps/contrib/109321236105074961598/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocJeVgp41ARTt4hD6wfLV7dSQksZKV1zpKRf6fG8R5DElizvPA=s128-c0x00000000-cc-rp-mo-ba3
+    publishTime: '2023-04-17T18:51:48.894250Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURSLU92eE5BEAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURSLU92eE5BEAE!2m1!1s0x7c006dede4a406b3:0xc48c2be996c362a0
+  - name: >-
+      places/ChIJswak5O1tAHwRoGLDlukrjMQ/reviews/ChZDSUhNMG9nS0VJQ0FnSUQybExUWFhREAE
+    relativePublishTimeDescription: 2 years ago
+    rating: 5
+    text:
+      text: I really loved the salmon + saba bento!! Totally worth the money!!
+      languageCode: en
+    originalText:
+      text: I really loved the salmon + saba bento!! Totally worth the money!!
+      languageCode: en
+    authorAttribution:
+      displayName: Kia Yang
+      uri: https://www.google.com/maps/contrib/110695391466924007389/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a-/ALV-UjWnP5E9niDDQ9CiNqgH8lUy5k0SRX3qfLFdQ8zJ6qqYgzYsuWqU=s128-c0x00000000-cc-rp-mo-ba4
+    publishTime: '2022-05-07T05:40:38.690997Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQybExUWFhREAE&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQybExUWFhREAE!2m1!1s0x7c006dede4a406b3:0xc48c2be996c362a0
+  - name: >-
+      places/ChIJswak5O1tAHwRoGLDlukrjMQ/reviews/ChdDSUhNMG9nS0VJQ0FnSUMtbmVLOHJnRRAB
+    relativePublishTimeDescription: 2 years ago
+    rating: 5
+    text:
+      text: Great bento!
+      languageCode: en
+    originalText:
+      text: Great bento!
+      languageCode: en
+    authorAttribution:
+      displayName: Robert E
+      uri: https://www.google.com/maps/contrib/110304589757672608293/reviews
+      photoUri: >-
+        https://lh3.googleusercontent.com/a/ACg8ocLW1cyTz_5U3uG2em9kbNDXkGcXOAwtWP5_c1nYPPJgCaP04w=s128-c0x00000000-cc-rp-mo-ba6
+    publishTime: '2022-11-10T23:14:10.020456Z'
+    flagContentUri: >-
+      https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMtbmVLOHJnRRAB&d=17924085&t=1
+    googleMapsUri: >-
+      https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMtbmVLOHJnRRAB!2m1!1s0x7c006dede4a406b3:0xc48c2be996c362a0
+review_summary: >-
+  Visitor Feedback on Sushi Robot$$$Visitors often praise Sushi Robot for its
+  fresh and tasty offerings, like bento boxes and sushi rolls that deliver solid
+  flavors at reasonable prices. Many highlight the evening discounts that make
+  it a smart pick for budget-friendly eats, helping folks grab a quick meal
+  without breaking the bank. The convenient location near a popular grocery
+  store adds to the appeal, with folks noting it's perfect for picking up food
+  for outings like beach trips. While some mention it's cash-friendly and
+  straightforward, the overall vibe comes across as welcoming and efficient,
+  drawing in those searching for reliable sushi spots. In general, the positive
+  vibes around the food and service make it a spot worth trying for anyone in
+  the mood for straightforward Japanese dining.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
+parking_options:
+  valetParking: false
+payment_options:
+  acceptsCreditCards: true
+  acceptsCashOnly: false
 allow_dogs: null
 curbside_pickup: null
 delivery: null
-dine_in: null
-good_for_children: null
+dine_in: true
+good_for_children: true
 good_for_groups: null
-good_for_sports: null
-live_music: null
+good_for_sports: false
+live_music: false
 menu_for_children: null
 outdoor_seating: null
 reservable: null
@@ -203,13 +364,13 @@ serves_breakfast: null
 serves_brunch: null
 serves_cocktails: null
 serves_coffee: null
-serves_dinner: null
+serves_dinner: true
 serves_dessert: null
-serves_lunch: null
+serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: null
-takeout: null
-update_category: essentials
-summary: null
+takeout: true
+update_category: atmosphere
+places_description: null
 
 ---

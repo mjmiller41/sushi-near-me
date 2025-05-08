@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Sushi Camp"
+title: Sushi Camp
 permalink: /california/temecula/sushi-camp.html
 stateAbbr: CA
 stateName: California
 cityName: Temecula
 seo:
-  name: "Sushi Camp"
-  type: Restaurant
+  type: restaurant
   links: http://www.sushicamptemecula.com/
-description: "Sushi Camp serves delicious sushi in Temecula, California. Try fresh Japanese dishes for a great dining experience. Available for takeout, delivery, lunch, and dinner."
 place_id: ChIJbwF8uE-A24ARVFPsJxTR8ME
 photos:
   - name: >-
@@ -185,6 +183,29 @@ price_range: $20 &ndash; $30
 rating: '4.6'
 rating_count: 0
 website: http://www.sushicamptemecula.com/
+description: >-
+  Explore Sushi Camp in Temecula, CA$$$Sushi Camp in Temecula, CA, delivers a
+  cozy Asian fusion vibe with fresh sushi and sake, making it a go-to spot for
+  those seeking top-rated sushi restaurants in the area. The casual environment
+  features happy hour specials and a welcoming atmosphere that blends comfort
+  with authentic flavors, ideal for casual dinners or group outings.
+  Accessibility options like wheelchair-friendly entrances and seating ensure
+  everyone can enjoy the experience, while outdoor seating adds to the relaxed
+  appeal for sushi enthusiasts nearby. With moderate pricing and a focus on
+  quality ingredients, it's a solid choice for anyone exploring
+  Japanese-inspired places close to home that emphasize fresh, shareable dishes.
+generative_summary: >-
+  Explore Sushi Camp in Temecula, CA$$$Sushi Camp in Temecula, CA, delivers a
+  cozy Asian fusion vibe with fresh sushi and sake, making it a go-to spot for
+  those seeking top-rated sushi restaurants in the area. The casual environment
+  features happy hour specials and a welcoming atmosphere that blends comfort
+  with authentic flavors, ideal for casual dinners or group outings.
+  Accessibility options like wheelchair-friendly entrances and seating ensure
+  everyone can enjoy the experience, while outdoor seating adds to the relaxed
+  appeal for sushi enthusiasts nearby. With moderate pricing and a focus on
+  quality ingredients, it's a solid choice for anyone exploring
+  Japanese-inspired places close to home that emphasize fresh, shareable dishes.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews:
   - name: >-
       places/ChIJbwF8uE-A24ARVFPsJxTR8ME/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3OFp5UmJREAE
@@ -376,6 +397,18 @@ reviews:
       https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNsbWVhRTZ3RRAB&d=17924085&t=1
     googleMapsUri: >-
       https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNsbWVhRTZ3RRAB!2m1!1s0x80db804fb87c016f:0xc1f0d11427ec5354
+review_summary: >-
+  Customer Feedback on Sushi Camp$$$Visitors often rave about the fresh and
+  flavorful rolls, highlighting the generous portions that make sharing easy and
+  enjoyable during meals. Many appreciate the attentive service and how staff
+  handle any minor slip-ups with genuine care, turning potential issues into
+  positive experiences overall. People frequently note the variety of specialty
+  options and the welcoming atmosphere, perfect for casual visits or special
+  occasions like birthdays. While some mention room for menu improvements, the
+  overall consensus leans toward satisfaction with the food quality and value.
+  If you're on the hunt for reliable sushi spots nearby, this place consistently
+  delivers a solid, feel-good dining vibe that keeps folks coming back.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options:
   freeParkingLot: true
   freeStreetParking: true
@@ -408,7 +441,7 @@ serves_lunch: true
 serves_vegetarian_food: null
 serves_wine: true
 takeout: true
-update_category: essentials
-summary: null
+update_category: pro
+places_description: null
 
 ---

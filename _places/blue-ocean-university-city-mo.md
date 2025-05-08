@@ -1,15 +1,13 @@
 ---
 layout: place
-title: "Blue Ocean"
+title: Blue Ocean
 permalink: /missouri/university-city/blue-ocean.html
 stateAbbr: MO
 stateName: Missouri
 cityName: University City
 seo:
-  name: "Blue Ocean"
-  type: Restaurant
+  type: restaurant
   links: http://www.blueoceanstl.com/
-description: "Blue Ocean serves delicious sushi in University City, Missouri. Try fresh Japanese dishes for a great dining experience. "
 place_id: ChIJGwWfcFQ134cRQbEflNGSMg4
 photos:
   - name: >-
@@ -170,7 +168,65 @@ google_maps_links:
     https://www.google.com/maps/place//data=!4m3!3m2!1s0x87df3554709f051b:0xe3292d1941fb141!10e5
 primary_type: Japanese Restaurant
 opening_hours:
-  regular:
+  openNow: true
+  periods:
+    - open:
+        day: 0
+        hour: 12
+        minute: 0
+      close:
+        day: 0
+        hour: 20
+        minute: 30
+    - open:
+        day: 1
+        hour: 16
+        minute: 0
+      close:
+        day: 1
+        hour: 20
+        minute: 30
+    - open:
+        day: 2
+        hour: 16
+        minute: 0
+      close:
+        day: 2
+        hour: 20
+        minute: 30
+    - open:
+        day: 3
+        hour: 16
+        minute: 0
+      close:
+        day: 3
+        hour: 20
+        minute: 30
+    - open:
+        day: 4
+        hour: 16
+        minute: 0
+      close:
+        day: 4
+        hour: 20
+        minute: 30
+    - open:
+        day: 5
+        hour: 12
+        minute: 0
+      close:
+        day: 5
+        hour: 21
+        minute: 0
+    - open:
+        day: 6
+        hour: 12
+        minute: 0
+      close:
+        day: 6
+        hour: 21
+        minute: 0
+  weekdayDescriptions:
     - 'Monday: 4:00 – 8:30 PM'
     - 'Tuesday: 4:00 – 8:30 PM'
     - 'Wednesday: 4:00 – 8:30 PM'
@@ -178,28 +234,125 @@ opening_hours:
     - 'Friday: 12:00 – 9:00 PM'
     - 'Saturday: 12:00 – 9:00 PM'
     - 'Sunday: 12:00 – 8:30 PM'
-  current:
-    - 'Monday: 4:00 – 8:30 PM'
-    - 'Tuesday: 4:00 – 8:30 PM'
-    - 'Wednesday: 4:00 – 8:30 PM'
-    - 'Thursday: 4:00 – 8:30 PM'
-    - 'Friday: 12:00 – 9:00 PM'
-    - 'Saturday: 12:00 – 9:00 PM'
-    - 'Sunday: 12:00 – 8:30 PM'
+  nextCloseTime: '2025-05-04T02:00:00Z'
 secondary_opening_hours:
-  regular:
-    weekdayDescriptions: null
-    type: null
-  current:
-    weekdayDescriptions: null
-    type: null
+  - openNow: true
+    periods:
+      - open:
+          day: 0
+          hour: 12
+          minute: 0
+        close:
+          day: 0
+          hour: 20
+          minute: 30
+      - open:
+          day: 1
+          hour: 16
+          minute: 0
+        close:
+          day: 1
+          hour: 20
+          minute: 30
+      - open:
+          day: 2
+          hour: 16
+          minute: 0
+        close:
+          day: 2
+          hour: 20
+          minute: 30
+      - open:
+          day: 3
+          hour: 16
+          minute: 0
+        close:
+          day: 3
+          hour: 20
+          minute: 30
+      - open:
+          day: 4
+          hour: 16
+          minute: 0
+        close:
+          day: 4
+          hour: 20
+          minute: 30
+      - open:
+          day: 5
+          hour: 12
+          minute: 0
+        close:
+          day: 5
+          hour: 21
+          minute: 0
+      - open:
+          day: 6
+          hour: 12
+          minute: 0
+        close:
+          day: 6
+          hour: 21
+          minute: 0
+    weekdayDescriptions:
+      - 'Monday: 4:00 – 8:30 PM'
+      - 'Tuesday: 4:00 – 8:30 PM'
+      - 'Wednesday: 4:00 – 8:30 PM'
+      - 'Thursday: 4:00 – 8:30 PM'
+      - 'Friday: 12:00 – 9:00 PM'
+      - 'Saturday: 12:00 – 9:00 PM'
+      - 'Sunday: 12:00 – 8:30 PM'
+    secondaryHoursType: TAKEOUT
+    nextCloseTime: '2025-05-04T02:00:00Z'
 phone: (314) 726-6477
 price_level: PRICE_LEVEL_MODERATE
 price_range: $20 &ndash; $30
 rating: '4.3'
-rating_count: 0
+rating_count: 1118
 website: http://www.blueoceanstl.com/
+description: >-
+  Discover Blue Ocean in University City, MO$$$Nestled in the vibrant University
+  City, MO, Blue Ocean stands out as a go-to spot for fresh sushi and
+  Japanese-inspired dishes, offering a welcoming atmosphere for those seeking
+  quality meals in a casual setting. This eatery specializes in a variety of
+  sushi rolls and flavorful ramen, with thoughtful options for vegetarian and
+  vegan diners, making it an inclusive choice for diverse tastes. Paired with
+  creative cocktails, the menu highlights fresh ingredients and innovative
+  flavors that appeal to sushi enthusiasts exploring local options. The
+  restaurant's accessible features, like wheelchair-friendly entrances and
+  seating, enhance the overall experience, ensuring everyone can enjoy its
+  lively vibe. Operating with extended hours on weekends, it's an ideal
+  destination for anyone craving top-rated Japanese cuisine near the Delmar Loop
+  area.
+generative_summary: >-
+  Discover Blue Ocean in University City, MO$$$Nestled in the vibrant University
+  City, MO, Blue Ocean stands out as a go-to spot for fresh sushi and
+  Japanese-inspired dishes, offering a welcoming atmosphere for those seeking
+  quality meals in a casual setting. This eatery specializes in a variety of
+  sushi rolls and flavorful ramen, with thoughtful options for vegetarian and
+  vegan diners, making it an inclusive choice for diverse tastes. Paired with
+  creative cocktails, the menu highlights fresh ingredients and innovative
+  flavors that appeal to sushi enthusiasts exploring local options. The
+  restaurant's accessible features, like wheelchair-friendly entrances and
+  seating, enhance the overall experience, ensuring everyone can enjoy its
+  lively vibe. Operating with extended hours on weekends, it's an ideal
+  destination for anyone craving top-rated Japanese cuisine near the Delmar Loop
+  area.
+generative_disclosure: Summarized by AI using the Grok-3-Mini model.
 reviews: null
+review_summary: >-
+  What Customers Love About This Sushi Spot$$$Visitors frequently praise the
+  tasty offerings at this Japanese restaurant, especially the standout sushi and
+  ramen that deliver bold flavors and satisfying portions. Many highlight the
+  fun and unique atmosphere, with its artistic lighting and cultural influences
+  creating a memorable backdrop for meals. While some mention occasional waits
+  for service, the overall consensus is that the delicious food and welcoming
+  environment make it worth the visit. Folks appreciate the variety of options
+  that cater to different preferences, helping it earn its reputation as a solid
+  pick for casual dining. If you're on the hunt for reliable sushi places
+  nearby, this spot consistently delivers a enjoyable experience that keeps
+  diners coming back for more.
+review_disclosure: Summarized by AI using the Grok-3-Mini model.
 parking_options: null
 payment_options: null
 allow_dogs: null
@@ -225,7 +378,7 @@ serves_lunch: null
 serves_vegetarian_food: null
 serves_wine: null
 takeout: null
-update_category: essentials
-summary: null
+update_category: enterprise
+places_description: null
 
 ---

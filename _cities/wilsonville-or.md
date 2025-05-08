@@ -5,4 +5,5 @@ permalink: /oregon/wilsonville/
 stateAbbr: OR
 stateName: Oregon
 cityName: Wilsonville
+
 ---
